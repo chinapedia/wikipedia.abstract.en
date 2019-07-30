@@ -1,7 +1,5 @@
 The first Pentium microprocessor was introduced by Intel on March 22, 1993.[1][2] Dubbed P5, its microarchitecture was the fifth generation for Intel, and the first superscalar IA-32 microarchitecture. As a direct extension of the 80486 architecture, it included dual integer pipelines, a faster floating-point unit, wider data bus, separate code and data caches and features for further reduced address calculation latency. In 1996, the _Pentium with MMX Technology_ (often simply referred to as _Pentium MMX_) was introduced with the same basic microarchitecture complemented with an MMX instruction set, larger caches, and some other enhancements.
 
-Intel_Pentium_A80501_66_SX950.JPG
-
 The P5 Pentium competitors included the Motorola 68060 and the PowerPC 601 as well as the SPARC, MIPS, and Alpha microprocessor families, most of which also used a superscalar in-order dual instruction pipeline configuration at some time.
 
 Intel's Larrabee multicore architecture project uses a processor core derived from a P5 core (P54C), augmented by multithreading, 64-bit instructions, and a 16-wide vector processing unit.[3] Intel's low-powered Bonnell microarchitecture employed in early Atom processor cores also uses an in-order dual pipeline similar to P5.[4]
@@ -50,11 +48,11 @@ The Pentium was Intel's primary microprocessor for personal computers during the
 
 P5
 
-Intel_Pentium_arch.svg The first Pentium microprocessor core was code-named "P5". Its product code was 80501 (80500 for the earliest steppings Q0399). There were two versions, specified to operate at 60 MHz and 66 MHz respectively. This first implementation of the Pentium used a traditional 5-volt power supply (descended from the usual TTL logic compatibility requirements). It contained 3.1 million transistors and measured 16.7 mm by 17.6 mm for an area of 293.92 mm².[17] It was fabricated in a 0.8 µm BiCMOS process.[18] The 5-volt design resulted in relatively high energy consumption for its operating frequency, when compared to the later models.
+The first Pentium microprocessor core was code-named "P5". Its product code was 80501 (80500 for the earliest steppings Q0399). There were two versions, specified to operate at 60 MHz and 66 MHz respectively. This first implementation of the Pentium used a traditional 5-volt power supply (descended from the usual TTL logic compatibility requirements). It contained 3.1 million transistors and measured 16.7 mm by 17.6 mm for an area of 293.92 mm².[17] It was fabricated in a 0.8 µm BiCMOS process.[18] The 5-volt design resulted in relatively high energy consumption for its operating frequency, when compared to the later models.
 
 P54C
 
-Intel_Pentium_P54C_die.jpg The P5 was followed by the P54C (80502), also known as PENTIUM-S; there were versions specified to operate at 75, 90, or 100 MHz using a 3.3 volt power supply. This was the first Pentium processor to operate at 3.3 volts, reducing energy consumption. It employed an internal clock multiplier to let the internal circuitry work at a higher frequency than the external address and data buses, as it is more complicated and cumbersome to increase the external frequency, due to physical constraints. It also allowed two-way multiprocessing and had an integrated local APIC as well as new power management features. It contained 3.3 million transistors and measured 163 mm².[19] It was fabricated in a BiCMOS process which has been described as both 0.5 µm and 0.6 µm due to differing definitions.[20]
+The P5 was followed by the P54C (80502), also known as PENTIUM-S; there were versions specified to operate at 75, 90, or 100 MHz using a 3.3 volt power supply. This was the first Pentium processor to operate at 3.3 volts, reducing energy consumption. It employed an internal clock multiplier to let the internal circuitry work at a higher frequency than the external address and data buses, as it is more complicated and cumbersome to increase the external frequency, due to physical constraints. It also allowed two-way multiprocessing and had an integrated local APIC as well as new power management features. It contained 3.3 million transistors and measured 163 mm².[19] It was fabricated in a BiCMOS process which has been described as both 0.5 µm and 0.6 µm due to differing definitions.[20]
 
 P54CQS
 
@@ -70,7 +68,7 @@ The P24T Pentium OverDrive for 486 systems were released in 1995, which were bas
 
 P55C
 
-Intel_Pentium_MMX_Processor_Logo.svg enhancement (1993–1999)]] Intel_Pentium_MMX_arch.svg P-MMX.JPG The P55C (or 80503) was developed by Intel's Research & Development Center in Haifa, Israel. It was sold as PENTIUM WITH MMX TECHNOLOGY (usually just called PENTIUM MMX); although it was based on the P5 core, it featured a new set of 57 "MMX" instructions intended to improve performance on multimedia tasks, such as encoding and decoding digital media data. The Pentium MMX line was introduced on October 22, 1996.[23]
+enhancement (1993–1999)]] The P55C (or 80503) was developed by Intel's Research & Development Center in Haifa, Israel. It was sold as PENTIUM WITH MMX TECHNOLOGY (usually just called PENTIUM MMX); although it was based on the P5 core, it featured a new set of 57 "MMX" instructions intended to improve performance on multimedia tasks, such as encoding and decoding digital media data. The Pentium MMX line was introduced on October 22, 1996.[23]
 
 The new instructions worked on new data types: 64-bit packed vectors of either eight 8-bit integers, four 16-bit integers, two 32-bit integers, or one 64-bit integer. So, for example, the PADDUSB (Packed ADD Unsigned Saturated Byte) instruction adds two vectors, each containing eight 8-bit unsigned integers together, elementwise; each addition that would overflow _saturates_, yielding 255, the maximal unsigned value that can be represented in a byte. These rather specialized instructions generally require special coding by the programmer for them to be used.
 
@@ -87,26 +85,26 @@ Pentium MMX notebook CPUs used a "mobile module" that held the CPU. This module 
 
 Models and variants
 
-                                                                                                                        KL_Intel_Pentium_P5.jpg Pentium_60_SX948_gold_front.jpg   KL_Intel_Pentium_75.jpg Pentium_Front.jpg Pentium_tt80502-75_sk089_observe.png   Intel_Pentium_133.jpg KL_Intel_Pentium_P54C_200.jpg Ic-photo-Intel--TT80502133--(PP133)--(Mobile-Pentium-CPU).JPG   KL_Intel_Pentium_MMX.jpg Intel_Pentium_MMX_166_PGA_Front.jpg Ic-photo-Intel--TT80503166--(Pentium-MMX-Mobile-CPU).JPG   KL_Intel_Pentium_Mobile.jpg
-  --------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------- -------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------
-  Code name                                                                                                             P5                                                        P54C                                                                             P54C/P54CQS                                                                                                         P54CS                                                                                                                   P55C
-  Product code                                                                                                          80501                                                     80502                                                                            80503
-  Process size (µm)                                                                                                     0.80                                                      0.60 or 0.35*                                                                    0.35                                                                                                                0.35 (later 0.28)                                                                                                       0.25
-  Die area (mm²)                                                                                                        293.92 (16.7 x 17.6 mm)                                   148 @ 0,6 µm / 91 (later 83) @ 0,35 µm                                           91 (later 83)                                                                                                       141 @ 0,35 µm / 128 @ 0,28 µm                                                                                           94.47 (9.06272 x 10.42416 mm)
-  Number of transistors (millions)                                                                                      3.10                                                      3.20                                                                             3.30                                                                                                                4.50
-  Socket                                                                                                                Socket 4                                                  Socket 5/7                                                                       Socket 7
-  Package                                                                                                               CPGA/CPGA+IHS                                             CPGA/CPGA+IHS/TCP*                                                               CPGA/TCP*                                                                                                           CPGA/TCP*                                                                                                               CPGA/PPGA
-  Clock speed (MHz)                                                                                                     60                                                        66                                                                               75                                                                                                                  90                                                                                                                      100
-  Bus speed (MHz)                                                                                                       60                                                        66                                                                               50                                                                                                                  60                                                                                                                      50
-  Core Voltage                                                                                                          5.0                                                       5.15                                                                             3.3 2,9*                                                                                                            3.3 2.9*                                                                                                                3.3 3.1* 2.9*
-  I/O Voltage                                                                                                           5.0                                                       5.15                                                                             3.3                                                                                                                 3.3                                                                                                                     3.3
-  TDP (max. W)                                                                                                          14.6 (15.3)                                               16.0 (17.3)                                                                      8.0 (9.5) 6.0* (7.3*)                                                                                               9.0 (10.6) 7.3* (8.8*)                                                                                                  10.1 (11.7) 8.0 at 0.6μ* (9.8 at 0.6μ*) 5.9 at 0.35μ* (7.6 at 0.35μ*)
-  Introduced                                                                                                            1993-03-22                                                1994-10-10                                                                       1994-03-07                                                                                                          1995-03-27                                                                                                              1995-06-12
+
+  --------------------------------------------------------------------------------------------------------------------- ------------------------- ---------------------------------------- ----------------------- ------------------------------- -----------------------------------------------------------------------
+  Code name                                                                                                             P5                        P54C                                     P54C/P54CQS             P54CS                           P55C
+  Product code                                                                                                          80501                     80502                                    80503
+  Process size (µm)                                                                                                     0.80                      0.60 or 0.35*                            0.35                    0.35 (later 0.28)               0.25
+  Die area (mm²)                                                                                                        293.92 (16.7 x 17.6 mm)   148 @ 0,6 µm / 91 (later 83) @ 0,35 µm   91 (later 83)           141 @ 0,35 µm / 128 @ 0,28 µm   94.47 (9.06272 x 10.42416 mm)
+  Number of transistors (millions)                                                                                      3.10                      3.20                                     3.30                    4.50
+  Socket                                                                                                                Socket 4                  Socket 5/7                               Socket 7
+  Package                                                                                                               CPGA/CPGA+IHS             CPGA/CPGA+IHS/TCP*                       CPGA/TCP*               CPGA/TCP*                       CPGA/PPGA
+  Clock speed (MHz)                                                                                                     60                        66                                       75                      90                              100
+  Bus speed (MHz)                                                                                                       60                        66                                       50                      60                              50
+  Core Voltage                                                                                                          5.0                       5.15                                     3.3 2,9*                3.3 2.9*                        3.3 3.1* 2.9*
+  I/O Voltage                                                                                                           5.0                       5.15                                     3.3                     3.3                             3.3
+  TDP (max. W)                                                                                                          14.6 (15.3)               16.0 (17.3)                              8.0 (9.5) 6.0* (7.3*)   9.0 (10.6) 7.3* (8.8*)          10.1 (11.7) 8.0 at 0.6μ* (9.8 at 0.6μ*) 5.9 at 0.35μ* (7.6 at 0.35μ*)
+  Introduced                                                                                                            1993-03-22                1994-10-10                               1994-03-07              1995-03-27                      1995-06-12
   _* An asterisk indicates that these were only available as Mobile Pentium or Mobile Pentium MMX chips for laptops._
 
   : Pentium and Pentium with MMX Technology
 
-                      KL_Intel_Pentium_MMX_Overdrive_A.jpg
+
   ------------------- -----------------------------------------------
   Code name           P54CTB
   Product code        PODPMT60X150
@@ -121,16 +119,16 @@ Models and variants
 
   : Pentium OverDrive with MMX Technology
 
-                      KL_Intel_Pentium_MMX_embedded_Top.jpg   KL_Intel_Embedded_Pentium_MMX_PGA_Bottom.jpg
-  ------------------- --------------------------------------- ----------------------------------------------
-  Code name           P55C                                    _Tillamook_
-  Product code        FV8050366200                            FV8050366233
-  Process size (µm)   0.35                                    0.25
-  Clock speed (MHz)   200                                     233
-  Bus speed (MHz)     66                                      66
-  Package             PPGA                                    PPGA
-  TDP (max. W)        15.7                                    17
-  Voltage             2.8                                     2.8
+
+  ------------------- -------------- --------------
+  Code name           P55C           _Tillamook_
+  Product code        FV8050366200   FV8050366233
+  Process size (µm)   0.35           0.25
+  Clock speed (MHz)   200            233
+  Bus speed (MHz)     66             66
+  Package             PPGA           PPGA
+  TDP (max. W)        15.7           17
+  Voltage             2.8            2.8
 
   : Embedded versions of Pentium with MMX Technology
 

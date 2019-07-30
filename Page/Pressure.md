@@ -1,5 +1,3 @@
-Pressure_exerted_by_collisions.svg
-
 PRESSURE (symbol: _p_ or _P_) is the force applied perpendicular to the surface of an object per unit area over which that force is distributed. Gauge pressure (also spelled _gage_ pressure)[1] is the pressure relative to the ambient pressure.
 
 Various units are used to express pressure. Some of these derive from a unit of force divided by a unit of area; the SI unit of pressure, the pascal (Pa), for example, is one newton per square metre; similarly, the pound-force per square inch (psi) is the traditional unit of pressure in the imperial and US customary systems. Pressure may also be expressed in terms of standard atmospheric pressure; the atmosphere (atm) is equal to this pressure, and the torr is defined as of this. Manometric units such as the centimetre of water, millimetre of mercury, and inch of mercury are used to express pressures in terms of the height of column of a particular fluid in a manometer.
@@ -11,7 +9,7 @@ PRESSURE is the amount of force applied at right angles to the surface of an obj
 
 Formula
 
-Pressure_force_area.svg Mathematically:
+Mathematically:
 
 $$p = \frac{F}{A},$$
 [4] where:
@@ -37,7 +35,7 @@ Pressure is distributed to solid boundaries or across arbitrary sections of flui
 
 Units
 
-Barometer_mercury_column_hg.jpg The SI unit for pressure is the pascal (Pa), equal to one newton per square metre (N/m², or kg·m^(−1)·s^(−2)). This name for the unit was added in 1971;[5] before that, pressure in SI was expressed simply in newtons per square metre.
+The SI unit for pressure is the pascal (Pa), equal to one newton per square metre (N/m², or kg·m^(−1)·s^(−2)). This name for the unit was added in 1971;[5] before that, pressure in SI was expressed simply in newtons per square metre.
 
 Other units of pressure, such as pounds per square inch and bar, are also in common use. The CGS unit of pressure is the barye (Ba), equal to 1 dyn·cm^(−2), or 0.1 Pa. Pressure is sometimes expressed in grams-force or kilograms-force per square centimetre (g/cm² or kg/cm² ) and the like without properly identifying the force units. But using the names kilogram, gram, kilogram-force, or gram-force (or their symbols) as units of force is expressly forbidden in SI. The technical atmosphere (symbol: at) is 1 kgf/cm² (98.0665 kPa, or 14.223 psi).
 
@@ -77,11 +75,9 @@ Presently or formerly popular pressure units include the following:
     -   kilogram-force and tonne-force per square metre,
     -   sthene per square metre (pieze).
 
-Pressure_units.png
-
 Examples
 
-Aluminium_cylinder.jpg As an example of varying pressures, a finger can be pressed against a wall without making any lasting impression; however, the same finger pushing a thumbtack can easily damage the wall. Although the force applied to the surface is the same, the thumbtack applies more pressure because the point concentrates that force into a smaller area. Pressure is transmitted to solid boundaries or across arbitrary sections of fluid _normal to_ these boundaries or sections at every point. Unlike stress, pressure is defined as a scalar quantity. The negative gradient of pressure is called the force density.
+As an example of varying pressures, a finger can be pressed against a wall without making any lasting impression; however, the same finger pushing a thumbtack can easily damage the wall. Although the force applied to the surface is the same, the thumbtack applies more pressure because the point concentrates that force into a smaller area. Pressure is transmitted to solid boundaries or across arbitrary sections of fluid _normal to_ these boundaries or sections at every point. Unlike stress, pressure is defined as a scalar quantity. The negative gradient of pressure is called the force density.
 
 Another example is a knife. If we try to cut with the flat edge, force is distributed over a larger surface area resulting in less pressure, and it will not cut. Whereas using the sharp edge, which has less surface area, results in greater pressure, and so the knife cuts smoothly. This is one example of a practical application of pressure.
 
@@ -104,7 +100,7 @@ Types
 
 Fluid pressure
 
-FLUID PRESSURE is most often the compressive stress at some point within a fluid. (The term _fluid_ refers to both liquids and gases – for more information specifically about liquid pressure, see section below.) Defekter_unterflurhydrant_goettingen.jpg Fluid pressure occurs in one of two situations:
+FLUID PRESSURE is most often the compressive stress at some point within a fluid. (The term _fluid_ refers to both liquids and gases – for more information specifically about liquid pressure, see section below.) Fluid pressure occurs in one of two situations:
 
 1.  An open condition, called "open channel flow", e.g. the ocean, a swimming pool, or the atmosphere.
 2.  A closed condition, called "closed conduit", e.g. a water line or gas line.
@@ -142,7 +138,7 @@ Explosion or deflagration pressures are the result of the ignition of explosive 
 
 Negative pressures
 
-13-07-23-kienbaum-unterdruckkammer-33.jpg, Germany]]
+, Germany]]
 
 While PRESSURES are, in general, positive, there are several situations in which negative pressures may be encountered:
 

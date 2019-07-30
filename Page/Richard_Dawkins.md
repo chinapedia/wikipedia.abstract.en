@@ -14,12 +14,12 @@ Continuing a long-standing partnership with Channel 4, Dawkins participated in a
 
 In 2014 he joined the global awareness movement Asteroid Day as a "100x Signatory".[10]
 
-Jayce_Lewis_&_Prof_Richard_Dawkins_2018.jpg Dawkins worked alongside Welsh Musician Jayce Lewis contributing a recorded spoken word for the track 'Exhale' from his 1998 book _Unweaving the Rainbow_ to the Welshman's 3rd full-length album 'Million'.
+Dawkins worked alongside Welsh Musician Jayce Lewis contributing a recorded spoken word for the track 'Exhale' from his 1998 book _Unweaving the Rainbow_ to the Welshman's 3rd full-length album 'Million'.
 
 
 Awards and recognition
 
-Deschner_Dawkins.jpg in Frankfurt, 12 October 2007, from Karlheinz Deschner]]
+in Frankfurt, 12 October 2007, from Karlheinz Deschner]]
 
 Dawkins was awarded a Doctor of Science degree by the University of Oxford in 1989. He holds honorary doctorates in science from the University of Huddersfield, University of Westminster, Durham University,[11] the University of Hull, the University of Antwerp, the University of Oslo, the University of Aberdeen,[12] Open University, the Vrije Universiteit Brussel,[13] and the University of Valencia.[14] He also holds honorary doctorates of letters from the University of St Andrews and the Australian National University (HonLittD, 1996), and was elected Fellow of the Royal Society of Literature in 1997 and a Fellow of the Royal Society (FRS) in 2001.[15][16] He is one of the patrons of the Oxford University Scientific Society.
 
@@ -27,7 +27,7 @@ In 1987, Dawkins received a Royal Society of Literature award and a _Los Angeles
 
 Other awards include the Zoological Society of London's Silver Medal (1989), the Finlay Innovation Award (1990), the Michael Faraday Award (1990), the Nakayama Prize (1994), the American Humanist Association's Humanist of the Year Award (1996), the fifth International Cosmos Prize (1997), the Kistler Prize (2001), the Medal of the Presidency of the Italian Republic (2001), the 2001 and 2012 Emperor Has No Clothes Award from the Freedom From Religion Foundation, the Bicentennial Kelvin Medal of The Royal Philosophical Society of Glasgow (2002),[18] and the Nierenberg Prize for Science in the Public Interest (2009).[19] He was awarded the Deschner Award, named after German anti-clerical author Karlheinz Deschner.[20] The Committee for Skeptical Inquiry (CSICOP) has awarded Dawkins their highest award _In Praise of Reason_ (1992).[21]
 
-Richard_Dawkins_speaking_at_the_British_Humanist_Association_Annual_Conference.jpg Dawkins topped _Prospect_ magazine's 2004 list of the top 100 public British intellectuals, as decided by the readers, receiving twice as many votes as the runner-up.[22][23] He was shortlisted as a candidate in their 2008 follow-up poll.[24] In a poll held by _Prospect_ in 2013, Dawkins was voted the world's top thinker based on 65 names chosen by a largely US and UK-based expert panel.[25]
+Dawkins topped _Prospect_ magazine's 2004 list of the top 100 public British intellectuals, as decided by the readers, receiving twice as many votes as the runner-up.[22][23] He was shortlisted as a candidate in their 2008 follow-up poll.[24] In a poll held by _Prospect_ in 2013, Dawkins was voted the world's top thinker based on 65 names chosen by a largely US and UK-based expert panel.[25]
 
 In 2005, the Hamburg-based Alfred Toepfer Foundation awarded him its Shakespeare Prize in recognition of his "concise and accessible presentation of scientific knowledge". He won the Lewis Thomas Prize for Writing about Science for 2006, as well as the Galaxy British Book Awards's Author of the Year Award for 2007.[26] In the same year, he was listed by _Time_ magazine as one of the 100 most influential people in the world in 2007,[27] and was ranked 20th in _The Daily Telegraph_'s 2007 list of 100 greatest living geniuses.[28]
 

@@ -11,7 +11,7 @@ The Škoda Works were established as an arms manufacturer in 1859. ŠKODA AUTO (
 
 Laurin & Klement
 
-Laurin_&_Klement_founders_1895.jpg (left) and Václav Laurin (1895).]] 12-01-11-autostadt-wolfsburg-by-RalfR-301.jpg Type A (1905).]] As with many long-established car manufacturers, the company which would become Škoda Auto started in the early 1890s by manufacturing bicycles.[8] Škoda (then Laurin & Klement) factories were founded in 1896 as a velocipede manufacturer.[9]
+(left) and Václav Laurin (1895).]] Type A (1905).]] As with many long-established car manufacturers, the company which would become Škoda Auto started in the early 1890s by manufacturing bicycles.[8] Škoda (then Laurin & Klement) factories were founded in 1896 as a velocipede manufacturer.[9]
 
 In , 26-year-old Václav Klement, who was a bookseller in Mladá Boleslav, Kingdom of Bohemia (today's Czech Republic, then part of Austria-Hungary), was unable to obtain spare parts to repair his German bicycle. Klement returned his bicycle to the manufacturers, Seidel and Naumann, with a letter, in Czech, asking them to carry out repairs, only to receive a reply, in German, stating: "If you want us to answer you, we insist that you convey your message in a language we understand."[10] Not satisfied with the reply and realising the business potential, Klement, despite having no technical experience, decided to start a bicycle repair shop, which he and Václav Laurin opened in 1896 in Mladá Boleslav. Before going into partnership with Klement, Laurin was an established bicycle manufacturer in the nearby town of Turnov.[11]
 
@@ -23,7 +23,7 @@ By 1905, the firm was manufacturing automobiles, making it the second-oldest car
 
 Škoda
 
-Old_Škoda_Prague2.jpg After World War I the Laurin & Klement company began producing trucks, but in 1924, after running into problems and being affected by a fire on their premises, the company sought a new partner.
+After World War I the Laurin & Klement company began producing trucks, but in 1924, after running into problems and being affected by a fire on their premises, the company sought a new partner.
 
 Meanwhile, "_Akciová společnost, dříve Škodovy závody_" (Limited Company, formerly the Škoda Works), an arms manufacturer and multi-sector concern in Pilsen which had become one of the largest industrial enterprises in Europe and the largest in Czechoslovakia, sought to enlarge its non-arms manufacturing base and acquired Laurin & Klement in 1925. It also started manufacturing cars in cooperation with Hispano-Suiza. Most of the later production took place under Škoda's name.
 
@@ -39,19 +39,19 @@ During the occupation of Czechoslovakia in World War II the Škoda Works were tu
 
 Post World War II
 
-Škoda_Tudor_Cabrio_938,_2013_Oldtimer_Bohemia_Rally_38.JPG When, by July 1945, the Mladá Boleslav factory had been reconstructed, production of Škoda's first post-World War II car, the 1101 series began. It was essentially an updated version of the pre-World War II Škoda Popular. In the autumn of 1948, Škoda (along with all other large manufacturers) became part of the communist planned economy, which meant it was separated from the parent company, Škoda Works. In spite of unfavourable political conditions and losing contact with technical development in non-communist countries, Škoda retained a good reputation until the 1960s, producing models such as the Škoda 440 Spartak, 445 Octavia, Felicia and Škoda 1000 MB.
+When, by July 1945, the Mladá Boleslav factory had been reconstructed, production of Škoda's first post-World War II car, the 1101 series began. It was essentially an updated version of the pre-World War II Škoda Popular. In the autumn of 1948, Škoda (along with all other large manufacturers) became part of the communist planned economy, which meant it was separated from the parent company, Škoda Works. In spite of unfavourable political conditions and losing contact with technical development in non-communist countries, Škoda retained a good reputation until the 1960s, producing models such as the Škoda 440 Spartak, 445 Octavia, Felicia and Škoda 1000 MB.
 
-13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-122.jpg In late 1959, the Škoda Felicia, a compact four-cylinder convertible coupe, was imported into the United States for model year 1960. Its retail price was around US$2,700, for which one could purchase a nicely-equipped V8 domestic car that was larger, more comfortable, and had more luxury and convenience features (gasoline retailed for less than 30 cents per gallon, so fuel economy was not of primary importance in America at that time). Those Felicias that made it to American ownership soon had a number of reliability problems, further damaging the car's reputation. The Felicia was therefore a poor seller in the States and leftover cars ended up being hied off at a fraction of the original retail list. Since that time, Škoda automobiles have not been imported into the U.S. for retail sale.
+In late 1959, the Škoda Felicia, a compact four-cylinder convertible coupe, was imported into the United States for model year 1960. Its retail price was around US$2,700, for which one could purchase a nicely-equipped V8 domestic car that was larger, more comfortable, and had more luxury and convenience features (gasoline retailed for less than 30 cents per gallon, so fuel economy was not of primary importance in America at that time). Those Felicias that made it to American ownership soon had a number of reliability problems, further damaging the car's reputation. The Felicia was therefore a poor seller in the States and leftover cars ended up being hied off at a fraction of the original retail list. Since that time, Škoda automobiles have not been imported into the U.S. for retail sale.
 
-13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-121.jpg In the late 1980s, Škoda (then named _Automobilové závody, národní podnik_ or abbreviated _AZNP_) was still manufacturing cars that conceptually dated back to the 1960s. Rear-engined models such as the Škoda 105/120 (Estelle) and Rapid sold steadily and performed well against more modern makes in races such as the RAC Rally in the 1970s and 1980s. They won their class in the RAC rally for 17 years running. They were powered by a , engine. In spite of its dated image and becoming the subject of negative jokes, Škodas remained a common sight on the roads of UK and Western Europe throughout the 1970s and 1980s.
+In the late 1980s, Škoda (then named _Automobilové závody, národní podnik_ or abbreviated _AZNP_) was still manufacturing cars that conceptually dated back to the 1960s. Rear-engined models such as the Škoda 105/120 (Estelle) and Rapid sold steadily and performed well against more modern makes in races such as the RAC Rally in the 1970s and 1980s. They won their class in the RAC rally for 17 years running. They were powered by a , engine. In spite of its dated image and becoming the subject of negative jokes, Škodas remained a common sight on the roads of UK and Western Europe throughout the 1970s and 1980s.
 
 Sport versions of the Estelle and earlier models were produced, using the name "Rapid". Soft-top versions were also available. The Rapid was once described as the "poor man's Porsche",[22] and had significant sales success in the UK during the 1980s.[23]
 
-Skoda_Favorit_Utrecht_1989.jpg]] In 1987 the Favorit was introduced, and was one of a trio of compact front-wheel drive hatchbacks from the three main Eastern Bloc manufacturers around that time, the others being VAZ's Lada Samara and Zastava's Yugo Sana. The Favorit's appearance was the work of the Italian design company Bertone. With some motor technology licensed from western Europe, but still using the Škoda-designed 1289 cc engine, Škoda engineers designed a car comparable to western production. The technological gap was still there, but began closing rapidly. The Favorit was very popular in Czechoslovakia and other Eastern Bloc countries. It also sold well in Western Europe, especially in the UK and Denmark due to its low price and was regarded as solid and reliable. However, it was perceived as having poor value compared with contemporary Western European designs. The Favorit's trim levels were improved and it continued to be sold until the introduction of the Felicia in 1994.
+]] In 1987 the Favorit was introduced, and was one of a trio of compact front-wheel drive hatchbacks from the three main Eastern Bloc manufacturers around that time, the others being VAZ's Lada Samara and Zastava's Yugo Sana. The Favorit's appearance was the work of the Italian design company Bertone. With some motor technology licensed from western Europe, but still using the Škoda-designed 1289 cc engine, Škoda engineers designed a car comparable to western production. The technological gap was still there, but began closing rapidly. The Favorit was very popular in Czechoslovakia and other Eastern Bloc countries. It also sold well in Western Europe, especially in the UK and Denmark due to its low price and was regarded as solid and reliable. However, it was perceived as having poor value compared with contemporary Western European designs. The Favorit's trim levels were improved and it continued to be sold until the introduction of the Felicia in 1994.
 
 Volkswagen Group subsidiary
 
-2009_Skoda_Superb_Elegance_CRTDi_Automatic_2.0_Front.jpg The fall of communism with the Velvet Revolution brought great changes to Czechoslovakia and most industries were subject to privatization. In the case of Škoda Automobile, the state authorities brought in a strong foreign partner. Volkswagen was chosen by the Czech government on 9 December 1990, and, as a result, on 28 March 1991 a joint-venture partnership agreement with Volkswagen took place, marked by the transfer of a 30% share to the Volkswagen Group on 16 April 1991. Until 1990, Škoda was still making its outdated range of rear engine small family cars, although it had started production of the Favorit front-wheel drive hatchback in 1987 as an eventual replacement.
+The fall of communism with the Velvet Revolution brought great changes to Czechoslovakia and most industries were subject to privatization. In the case of Škoda Automobile, the state authorities brought in a strong foreign partner. Volkswagen was chosen by the Czech government on 9 December 1990, and, as a result, on 28 March 1991 a joint-venture partnership agreement with Volkswagen took place, marked by the transfer of a 30% share to the Volkswagen Group on 16 April 1991. Until 1990, Škoda was still making its outdated range of rear engine small family cars, although it had started production of the Favorit front-wheel drive hatchback in 1987 as an eventual replacement.
 
 In the following years, Škoda became the fourth brand of the German group, as the Volkswagen Group raised its equity share first on 19 December 1994, to 60.3%, followed on 11 December 1995, to 70%.[24]
 
@@ -61,13 +61,13 @@ At the time the decision was made, privatization to a major German company was s
 
 Backed by Volkswagen Group expertise and investments, the design — both style and engineering — has improved greatly. The 1994 model Felicia was effectively a reskin of the Favorit, but quality and equipment improvements helped, and in the Czech Republic the car was perceived as good value for money and became popular. Sales improved across Europe, including the United Kingdom, where the Felicia was one of the best-ranking cars in customer satisfaction surveys.
 
-Skoda_Octavia_Combi_RS_(III)_–_Frontansicht,_20._Juni_2014,_Düsseldorf.jpg Volkswagen AG chairman Ferdinand Piëch personally chose Dirk van Braeckel as head of design, and the subsequent _Octavia_ and _Fabia_ models made their way to the demanding European Union markets. They are built on common Volkswagen Group floorpans. The Fabia, launched at the end of 1999, formed the basis for later versions of the Volkswagen Polo and SEAT Ibiza, while the Octavia, launched in 1996, has shared its floorpan with a host of cars, the most popular of which is the Volkswagen Golf.
+Volkswagen AG chairman Ferdinand Piëch personally chose Dirk van Braeckel as head of design, and the subsequent _Octavia_ and _Fabia_ models made their way to the demanding European Union markets. They are built on common Volkswagen Group floorpans. The Fabia, launched at the end of 1999, formed the basis for later versions of the Volkswagen Polo and SEAT Ibiza, while the Octavia, launched in 1996, has shared its floorpan with a host of cars, the most popular of which is the Volkswagen Golf.
 
 The perception of Škoda in Western Europe has completely changed since the takeover by VW,[25] in stark comparison with the reputation of the cars throughout the 1980s described by some as "the laughing stock" of the automotive world.[26][27] As technical development progressed and attractive new models were marketed, Škoda's image was initially slow to improve. In the UK, a major turnabout was achieved with the ironic "It is a Škoda, honest" campaign, which began in 2000 when the Fabia launched. In a 2003 advertisement on British television, a new employee on the production line is fitting Škoda badges on the car bonnets. When some attractive looking cars come along he stands back, not fitting the badge, since they look so good they "cannot be Škodas".[28] This market campaign worked by confronting Škoda's image problem head-on – a tactic which marketing professionals regarded as high risk. By 2005 Škoda was selling over 30,000 cars a year in the UK, a market share of over 1%. For the first time in its UK history, a waiting list developed for deliveries from Škoda. UK owners have consistently ranked the brand at or near the top of customer satisfaction surveys since the late 1990s.
 
 Growth strategy
 
-Škoda_Auto_Mladá_Boleslav.jpg The year 2010 was one of important changes for Škoda Auto, in terms of both products and management. On 1 September 2010, Prof. Dr. h.c. Winfried Vahland assumed responsibility for the management of the company, becoming the CEO of Škoda Auto. In the same year, Škoda set forth plans to double the company's annual sales[29] to at least 1.5 million by 2018 (later known as the 'Growth Strategy', Czech: 'Růstová strategie').
+The year 2010 was one of important changes for Škoda Auto, in terms of both products and management. On 1 September 2010, Prof. Dr. h.c. Winfried Vahland assumed responsibility for the management of the company, becoming the CEO of Škoda Auto. In the same year, Škoda set forth plans to double the company's annual sales[29] to at least 1.5 million by 2018 (later known as the 'Growth Strategy', Czech: 'Růstová strategie').
 
 At the 2010 Paris Motor Show in September 2010, the company unveiled the Octavia Green E Line. This e-car concept was the forerunner to the e-car test fleet that Škoda released in 2012. The final 1st-generation Octavia (Tour) was produced at the Mladá Boleslav plant in November 2010. The worldwide production of this model exceeded 1.4 million units since its release in 1996. In 2010 for the first time in history, China overtook German sales to become Škoda's largest individual market.[30]
 
@@ -79,7 +79,7 @@ In 2012 Škoda introduced two new mass production models. The European version o
 
 In 2012 Škoda introduced an emission-free fleet of Octavia Green E Line e-cars on Czech roads to be used by external partners. Since internal tests on the fleet in late 2011, the e-fleet had driven more than 250,000 km. During the same year, Škoda celebrated several milestones, including fourteen million Škoda cars being produced since 1905 (January),[35] three million Fabias (May),[36] 500,000 Superbs at the Kvasiny plant (June )[37] and 5 years of Škoda operations in China.[38]
 
-Massive rejuvenation of the model range was a major tune for 2013 at Škoda: The Czech car maker launched the third-generation Octavia Combi and Octavia RS (both liftback and estate) as well as facelifted Superb and Superb Combi. They were accompanied by brand new members of the Rapid family as the Rapid Spaceback, the first Škoda hatchback car in the compact segment, and the Chinese version of the Rapid. The Yeti also faced significant changes. With the facelift, two design variants of Škoda's compact SUV are now available: city-like Yeti and rugged Yeti Outdoor. Chinese customers were also given a Yeti with an extended wheelbase. Skoda_Vorstand_Genf_2018.jpg with Škoda Vision X (2018): from left Christian Strube, Klaus-Dieter Schürmann, Alain Favey, Bernhard Maier, Michael Oeljeklaus and Dieter Seemann]]
+Massive rejuvenation of the model range was a major tune for 2013 at Škoda: The Czech car maker launched the third-generation Octavia Combi and Octavia RS (both liftback and estate) as well as facelifted Superb and Superb Combi. They were accompanied by brand new members of the Rapid family as the Rapid Spaceback, the first Škoda hatchback car in the compact segment, and the Chinese version of the Rapid. The Yeti also faced significant changes. With the facelift, two design variants of Škoda's compact SUV are now available: city-like Yeti and rugged Yeti Outdoor. Chinese customers were also given a Yeti with an extended wheelbase. with Škoda Vision X (2018): from left Christian Strube, Klaus-Dieter Schürmann, Alain Favey, Bernhard Maier, Michael Oeljeklaus and Dieter Seemann]]
 
 In 2015, Volkswagen admitted that it had installed pollution-cheating software in many of its cars to fool regulators that its cars met emissions standards when in fact they polluted at much higher-levels than government standards. 1.2 million Škoda cars worldwide were fitted with this emissions-cheating device.[39] Škoda stated that Volkswagen would recall and cover refitting costs for all of the cars affected by the Volkswagen emissions testing scandal.
 
@@ -90,7 +90,7 @@ In 2015 Škoda was voted the most dependable car brand in the UK.[40] A corporat
 
 Electrification strategy
 
-Skoda_Vision_iV_Genf_2019_1Y7A5522.jpg is planned to be produced from the second half of 2020 and six fully electric models are to be available by 2025]] In 2015, new Škoda chairman Bernhard Maier stated that the Volkswagen Group "is working on a modular, new electric platform and we are in the team", and that "there is no alternative to electrification."[44] New Škoda corporate "Strategy 2025", which replaces the previous "Strategy 2018", aims to start production of a fully electric vehicle in 2020.[45] Škoda announced a plan to produce five electric models across different segments by 2025.[46]
+is planned to be produced from the second half of 2020 and six fully electric models are to be available by 2025]] In 2015, new Škoda chairman Bernhard Maier stated that the Volkswagen Group "is working on a modular, new electric platform and we are in the team", and that "there is no alternative to electrification."[44] New Škoda corporate "Strategy 2025", which replaces the previous "Strategy 2018", aims to start production of a fully electric vehicle in 2020.[45] Škoda announced a plan to produce five electric models across different segments by 2025.[46]
 
 In 2017 Auto Shanghai, Škoda displayed its Vision E concept for an all-electric 300bhp coupé-SUV,[47] with level 3 autonomy capability and range.[48] It is based on the VW MEB platform and Škoda Auto will also manufacture electric-vehicle batteries for the Volkswagen Group in its facility in the Czech Republic.[49] The second development stage, the Škoda Vision iV was revealed in March 2019 and is planned to be on sale from the second half of 2020.
 
@@ -149,7 +149,7 @@ Production
 
 Motorsport
 
-2014_Škoda_Museum,_Škoda_Supersport_typ_966_1950_01.JPG Škoda_Motorsport_(18060783156).jpg, Škoda Motorsport team won the 2015, 2016 and 2017 FIA World Rally Championship-2, which focuses on production-based cars]] The Škoda brand has been engaged in motor sport since 1901, and has gained a number of titles with various vehicles around the world. The team had competed as a manufacturer in the Intercontinental Rally Challenge (before it merged with ERC in 2013) and World Rally Championship between 1999 and 2005. Now it competes in the European Rally Championship and WRC-2.
+, Škoda Motorsport team won the 2015, 2016 and 2017 FIA World Rally Championship-2, which focuses on production-based cars]] The Škoda brand has been engaged in motor sport since 1901, and has gained a number of titles with various vehicles around the world. The team had competed as a manufacturer in the Intercontinental Rally Challenge (before it merged with ERC in 2013) and World Rally Championship between 1999 and 2005. Now it competes in the European Rally Championship and WRC-2.
 
 Until the final season of IRC in 2012, Škoda Motorsport was the most successful manufacturer with a total of 27 points, winning the rallying series in 2010-2012. Since 2013, When the two competing series were merged, it continued to compete in the European Rally Championship.
 
@@ -187,8 +187,6 @@ File:2018 Skoda Kodiaq Scout TDi SCR 4X4 2.0 Front.jpg|Škoda Kodiaq (2016–pre
 
 Concept cars
 
-2018-03-06_Geneva_Motor_Show_2570.JPG Škoda_Joyster.jpg
-
 -   Vision X (2018), production version in 2019[74]
 -   Vision E (2017), production version in 2020
 -   Vision C (2013)
@@ -214,8 +212,6 @@ Historic models
 
 1900s
 
-13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-097.jpg
-
 -   Laurin & Klement A (1905–07)
 -   Laurin & Klement B (1906–08)
 -   Laurin & Klement C (1906–08)
@@ -239,8 +235,6 @@ Historic models
 
 1910s
 
-L&K_300,_2013_Oldtimer_Bohemia_Rally.JPG 2014_Škoda_Museum,_L&K_typ_SG_1913_01.JPG
-
 -   Laurin & Klement ENS (1910–11)
 -   Laurin & Klement K/Kb/LOKb (1911–15)
 -   Laurin & Klement LK (1911–12)
@@ -260,8 +254,6 @@ L&K_300,_2013_Oldtimer_Bohemia_Rally.JPG 2014_Škoda_Museum,_L&K_typ_SG_1913_01.
 
 1920s
 
-13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-096.jpg
-
 -   Laurin & Klement MS/540/545 (1920–23)
 -   Laurin & Klement Škoda 545 (1924–27)
 -   Škoda 422 (1929–32)
@@ -270,8 +262,6 @@ L&K_300,_2013_Oldtimer_Bohemia_Rally.JPG 2014_Škoda_Museum,_L&K_typ_SG_1913_01.
 -   Škoda 860 (1929–32)
 
 1930s
-
-Škoda_633_-_1933.JPG 13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-095.jpg
 
 -   Škoda 650 (1930–34)
 -   Škoda 633 (1931–34)
@@ -283,16 +273,12 @@ L&K_300,_2013_Oldtimer_Bohemia_Rally.JPG 2014_Škoda_Museum,_L&K_typ_SG_1913_01.
 
 1940s
 
-13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-105.jpg Škoda_Rapid_OHV_proudnicový_-_1940_2.JPG
-
 -   Škoda Superb OHV (1946–49)
 -   Škoda 1101 Tudor (1946–49)
 -   Škoda 1102 (1948–52)
 -   Škoda VOS (1949–52)
 
 1950s
-
-Škoda_1201_Sedan,_2013_Oldtimer_Bohemia_Rally_cropped.jpg Heckel_Advertising_3.jpg
 
 -   Škoda 1200 (1952–55)
 -   Škoda 440/445/450 (1955–59)

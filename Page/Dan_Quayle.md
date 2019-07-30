@@ -17,9 +17,9 @@ His maternal grandfather, Eugene C. Pulliam, was a wealthy and influential publi
 
 After spending much of his youth in Arizona,[4] Quayle returned to his native Indiana and graduated from Huntington North High School in Huntington, in 1965. He then matriculated at DePauw University, where he received his B.A. degree in political science in 1969,[5] was a 3-year letterman for the University Golf Team (1967–69) and a member of the fraternity Delta Kappa Epsilon (Psi Phi chapter). After receiving his degree, Quayle joined the Indiana Army National Guard and served from 1969 to 1975, reaching the rank of sergeant. While serving in the Guard, he earned a Juris Doctor (J.D.) degree in 1974 at the Indiana University Robert H. McKinney School of Law. He met his future wife, Marilyn, who was taking night classes at the same law school at the time.[6]
 
-Dan_Quayle_1977.jpg Quayle became an investigator for the Consumer Protection Division of the Office of the Indiana Attorney General in July 1971. Later that year, he became an administrative assistant to Governor Edgar Whitcomb. From 1973 to 1974, he was the Director of the Inheritance Tax Division of the Indiana Department of Revenue. Upon graduating from law school, Quayle worked as associate publisher of his family's newspaper, the _Huntington Herald-Press_.
+Quayle became an investigator for the Consumer Protection Division of the Office of the Indiana Attorney General in July 1971. Later that year, he became an administrative assistant to Governor Edgar Whitcomb. From 1973 to 1974, he was the Director of the Inheritance Tax Division of the Indiana Department of Revenue. Upon graduating from law school, Quayle worked as associate publisher of his family's newspaper, the _Huntington Herald-Press_.
 
-Reagan_Contact_Sheet_C5715_(cropped2).jpg Ronald Reagan in 1981]] In 1976, Quayle was elected to the House of Representatives from Indiana's 4th congressional district, defeating eight-term incumbent Democrat J. Edward Roush by a 55%-to-45% margin. He won re-election in 1978 by the greatest percentage margin achieved to date in that northeast Indiana district.
+Ronald Reagan in 1981]] In 1976, Quayle was elected to the House of Representatives from Indiana's 4th congressional district, defeating eight-term incumbent Democrat J. Edward Roush by a 55%-to-45% margin. He won re-election in 1978 by the greatest percentage margin achieved to date in that northeast Indiana district.
 
 
 U.S. Senate
@@ -39,13 +39,13 @@ On August 16, 1988, at the Republican convention in New Orleans, Louisiana, Geor
 
 In the October 1988 vice presidential debate, Quayle debated Democratic candidate Lloyd Bentsen. When the subject of the debate turned to Quayle's relatively limited experience in public life, he compared the length of his congressional service (12 years) with that of late President John F. Kennedy (14 years), as Kennedy had less experience than his rivals during the 1960 presidential nomination. It was a factual comparison, although Quayle's advisers cautioned beforehand that it could be used against him. Bentsen's response—"Senator, you're no Jack Kennedy"—subsequently became a part of the political lexicon. During the debate, Quayle's strategy was to criticize Dukakis as too liberal.[18]
 
-President_Bush_and_Vice_President_and_Mrs._Quayle_Participate_in_a_Hanukkah_Celebration.jpg Quayle_at_USS_John_F._Kennedy,_1991_(1).JPEG during Operation Desert Shield]] The Bush/Quayle ticket won the November election with a 53–46 percent margin by sweeping 40 states and capturing 426 electoral votes. Quayle did not cast any tie-breaking votes in his role as President of the Senate, becoming only the second vice-president (after Charles W. Fairbanks) not to do so while serving a complete term.
+during Operation Desert Shield]] The Bush/Quayle ticket won the November election with a 53–46 percent margin by sweeping 40 states and capturing 426 electoral votes. Quayle did not cast any tie-breaking votes in his role as President of the Senate, becoming only the second vice-president (after Charles W. Fairbanks) not to do so while serving a complete term.
 
 Tenure
 
 During his vice presidency, Quayle made official trips to 47 countries.[19] Bush named Quayle head of the Council on Competitiveness and the first chairman of the National Space Council. As head of the NSC he called for greater efforts to protect Earth against the danger of potential asteroid impacts.[20]
 
-Quayle_desert_storm.jpg at a meeting to discuss US military intervention during Operation Desert Shield]] After a briefing by Lt. General Daniel O. Graham, (USA Ret.), Max Hunter, and Jerry Pournelle, Quayle sponsored the development of an experimental Single Stage to Orbit X-Program, which resulted in the building of the DC/X which was flown and tested at White Sands. Dan_Quayle_speaking_at_the_Race_for_the_Cure_1990.jpg President_Bush_and_Vice_President_Quayle_pose_together_for_their_official_portrait_-_NARA_-_186393.tif in 1989]]
+at a meeting to discuss US military intervention during Operation Desert Shield]] After a briefing by Lt. General Daniel O. Graham, (USA Ret.), Max Hunter, and Jerry Pournelle, Quayle sponsored the development of an experimental Single Stage to Orbit X-Program, which resulted in the building of the DC/X which was flown and tested at White Sands. in 1989]]
 
 Quayle has since described the vice presidency as "an awkward office. You're president of the Senate. You're not even officially part of the executive branch – you're part of the legislative branch. You're paid by the Senate, not by the executive branch. And it's the president's agenda. It's not your agenda. You're going to disagree from time to time, but you salute and carry out the orders the best you can".[21]
 
@@ -76,7 +76,7 @@ Quayle faced off against Gore and Stockdale in the vice presidential debate on O
 
 Post–Vice Presidency (1993–present)
 
-Quaylelogo.png Dan_Quayle_with_Donald_Rumsfeld.jpg Donald Rumsfeld in 2001]] Dan_Quayle_(7835924970).jpg Dan_and_Marilyn_Quayle_at_58th_Inauguration_01-20-17.jpg at the 2017 Presidential Inauguration]]
+Donald Rumsfeld in 2001]] at the 2017 Presidential Inauguration]]
 
 Quayle authored a 1994 memoir, _Standing Firm_, which became a bestseller. His second book, _The American Family: Discovering the Values That Make Us Strong_, was published in 1996 and a third book, _Worth Fighting For_, was published in 1999.
 

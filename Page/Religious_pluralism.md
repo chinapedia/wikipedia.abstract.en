@@ -1,4 +1,4 @@
-Cross_menorah_Oxford_20051225.jpg of the war memorial (Church of England) and a menorah (Judaism) coexist at the north end of St Giles' in Oxford, England]] Bosanska_Krupa_Churches.JPG, Mosque and Serbian Orthodox Church in Bosanska Krupa, Bosnia and Herzegovina]]
+of the war memorial (Church of England) and a menorah (Judaism) coexist at the north end of St Giles' in Oxford, England]] , Mosque and Serbian Orthodox Church in Bosanska Krupa, Bosnia and Herzegovina]]
 
 RELIGIOUS PLURALISM is an attitude or policy regarding the diversity of religious belief systems co-existing in society. It can indicate one or more of the following:
 
@@ -12,7 +12,7 @@ RELIGIOUS PLURALISM is an attitude or policy regarding the diversity of religiou
 
 Definition and scopes
 
-Kazan_church.jpg in Kazan, Russia ]] 1893parliament.jpg, Chicago, 1893]]
+in Kazan, Russia ]] , Chicago, 1893]]
 
 Religious pluralism, to paraphrase the title of a recent academic work, goes beyond mere toleration. Chris Beneke, in _Beyond Toleration: The Religious Origins of American Pluralism_, explains the difference between religious tolerance and religious pluralism by pointing to the situation in the late 18th century United States. By the 1730s, in most colonies religious minorities had obtained what contemporaries called religious toleration:[2] "The policy of toleration relieved religious minorities of some physical punishments and some financial burdens, but it did not make them free from the indignities of prejudice and exclusion. Nor did it make them equal. Those 'tolerated' could still be barred from civil offices, military positions, and university posts."[3] In short, religious toleration is only the absence of religious persecution, and does not necessarily preclude religious discrimination. However, in the following decades something extraordinary happened in the Thirteen Colonies, at least if one views the events from "a late eighteenth-century perspective".[4] Gradually the colonial governments expanded the policy of religious toleration, but then, between the 1760s and the 1780s, they replaced it with "something that is usually called religious liberty".[5] Mark Silka, in "Defining Religious Pluralism in America: A Regional Analysis", states that Religious pluralism "enables a country made up of people of different faiths to exist without sectarian warfare or the persecution of religious minorities. Understood differently in different times and places, it is a cultural construct that embodies some shared conception of how a country's various religious communities relate to each other and to the larger nation whole."[6]
 
@@ -25,14 +25,14 @@ Relativism, the belief that all religions are equal in their value and that none
 
 History
 
-Druck_Augsburger_Reichsfrieden.jpg, which recognized two different churches in the Holy Roman Empire.]] Cultural and religious pluralism has a long history and development that reaches from antiquity to contemporary trends in post-modernity.
+, which recognized two different churches in the Holy Roman Empire.]] Cultural and religious pluralism has a long history and development that reaches from antiquity to contemporary trends in post-modernity.
 
 German philosophers of religion Ludwig Feuerbach and Ernst Troeltsch concluded that Asian religious traditions, in particular Hinduism and Buddhism, were the earliest proponents of religious pluralism and granting of freedom to the individuals to choose their own faith and develop a personal religious construct within it[9][10] (see also Relationship between Buddhism and Hinduism); Jainism, another ancient Indian religion, as well as Daoism have also always been inclusively flexible and have long favored religious pluralism for those who disagree with their religious viewpoints.[11] The Age of Enlightenment in Europe triggered a sweeping transformation about religion after the French Revolution (liberalism, democracy, civil and political rights, freedom of thought, separation of Church and State, secularization), with rising acceptance of religious pluralism and decline of Christianity. According to Chad Meister,[12] these pluralist trends in the Western thought, particularly since the 18th century, brought mainstream Christianity and Judaism closer to the Asian traditions of philosophical pluralism and religious tolerance.
 
 
 Bahá'í Faith
 
-Religions_4x5.png, Buddhism, Cao Dai, Christianity
+, Buddhism, Cao Dai, Christianity
 2nd row: Druidism, Eckankar, Hinduism, Islam
 3rd row: Jainism, Judaism, Raëlism, Satanism
 4th row: Shinto, Sikhism, Taoism, Tenrikyo
@@ -70,7 +70,7 @@ The Romans are known for the great number of deities they honored. The presence 
 
 Mystery religions imported from the Near East (Ptolemaic Egypt, Persia and Mesopotamia), which offered initiates salvation through a personal God and eternal life after the death, were a matter of personal choice for an individual, practiced in addition to carrying on one's family rites and participating in public religion. The mysteries, however, involved exclusive oaths and secrecy, conditions that conservative Romans viewed with suspicion as characteristic of "magic", conspiracy (_coniuratio_), and subversive activity. Sporadic and sometimes brutal attempts were made to suppress religionists who seemed to threaten traditional Roman morality and unity, as with the Senate's efforts to restrict the Bacchanals in 186 BC.
 
-0_Relief_représentant_Mithra_-_Louvre-Lens_(2).JPG (2nd century, Louvre-Lens); Mithraism was among the most widespread mystery religions of the Roman Empire.[17]]] As the Romans extended their dominance throughout the Mediterranean world, their policy in general was to absorb the deities and cults of other peoples rather than try to eradicate them,[18] since they believed that preserving tradition promoted social stability.[19]
+(2nd century, Louvre-Lens); Mithraism was among the most widespread mystery religions of the Roman Empire.[17]]] As the Romans extended their dominance throughout the Mediterranean world, their policy in general was to absorb the deities and cults of other peoples rather than try to eradicate them,[18] since they believed that preserving tradition promoted social stability.[19]
 
 One way that Rome incorporated diverse peoples was by supporting their religious heritage, building temples to local deities that framed their theology within the hierarchy of Roman religion. Inscriptions throughout the Empire record the side-by-side worship of local and Roman deities, including dedications made by Romans to local Gods.[20] By the height of the Empire, numerous international deities were cultivated at Rome and had been carried to even the most remote provinces (among them Cybele, Isis, Osiris, Serapis, Epona), and Gods of solar monism such as Mithras and Sol Invictus, found as far north as Roman Britain. Because Romans had never been obligated to cultivate one deity or one cult only, religious tolerance was not an issue in the sense that it is for competing monotheistic religions.[21] The monotheistic rigor of Judaism posed difficulties for Roman policy that led at times to compromise and the granting of special exemptions, but sometimes to intractable conflict.
 

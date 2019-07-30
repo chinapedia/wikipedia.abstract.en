@@ -1,5 +1,3 @@
-Papua_New_Guinea_map.png
-
 The GEOGRAPHY OF PAPUA NEW GUINEA describes the eastern half of the island of New Guinea, the islands of New Ireland, New Britain and Bougainville, and smaller nearby islands. Together these make up the nation of Papua New Guinea in tropical Oceania, located in the western edge of the Pacific Ocean.
 
 Papua New Guinea is largely mountainous, and much of it is covered with tropical rainforest. The New Guinea Highlands runs the length of New Guinea, and the highest areas receive snowfall—a rarity in the tropics. Within Papua New Guinea Mount Wilhelm is the highest peak, at 4,509 m (14,793 ft). There are several major rivers, notably the Sepik River, which is 1,126 km (699 mi) long, which winds through lowland swamp plains to the north coast, and the Fly River at 1,050 km (652 mi) in length, which flows through one of the largest swamplands in the world to the south coast. The Highlands consist of a number of smaller ranges running west to east, such as the Finisterre Range which dominates the Huon Peninsula to north of the city of Lae.
@@ -8,8 +6,6 @@ Papua New Guinea has one land border—that which divides the island of New Guin
 
 
 Physical geography
-
-Newguinea_topo.png
 
 Papua New Guinea has a total area of 462 840 km², of which 452 860 km² is land and 9 980 km² is water. Its coastline is 5 152 km long.
 
@@ -27,7 +23,7 @@ Tropical; northwest monsoon (December to March), southeast monsoon (May to Octob
 
 Human geography
 
-PapuaNewGuineaOMC.PNG MARITIME CLAIMS: measured from claimed archipelagic baselines
+MARITIME CLAIMS: measured from claimed archipelagic baselines
 _continental shelf:_ 200-m depth or to the depth of exploitation
 _exclusive fishing zone:_ 200 nautical miles (370 km)
 _territorial sea:_ 12 nautical miles (22 km)

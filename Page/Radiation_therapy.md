@@ -9,7 +9,7 @@ The precise treatment intent (curative , adjuvant, neoadjuvant therapeutic, or p
 
 Medical uses
 
-Palliative_Care_Options_for_a_Young_Adult_Patient_with_a_Diffuse_Intrinsic_Pontine_Glioma_-_Fig._3.png, with radiation dose color-coded.]] Different cancers respond to radiation therapy in different ways.[1][2][3]
+, with radiation dose color-coded.]] Different cancers respond to radiation therapy in different ways.[1][2][3]
 
 The response of a cancer to radiation is described by its radiosensitivity. Highly radiosensitive cancer cells are rapidly killed by modest doses of radiation. These include leukemias, most lymphomas and germ cell tumors. The majority of epithelial cancers are only moderately radiosensitive, and require a significantly higher dose of radiation (60-70 Gy) to achieve a radical cure. Some types of cancer are notably radioresistant, that is, much higher doses are required to produce a radical cure than may be safe in clinical practice. Renal cell cancer and melanoma are generally considered to be radioresistant but radiation therapy is still a palliative option for many patients with metastatic melanoma. Combining radiation therapy with immunotherapy is an active area of investigation and has shown some promise for melanoma and other cancers.[4]
 
@@ -106,8 +106,6 @@ Although medical errors are exceptionally rare, radiation oncologists, medical p
 
 Use in non-cancerous diseases
 
-DupuytrensRadiotherapyHamburg.jpg
-
 Radiation therapy is used to treat early stage Dupuytren's disease and Ledderhose disease. When Dupuytren's disease is at the nodules and cords stage or fingers are at a minimal deformation stage of less than 10 degrees, then radiation therapy is used to prevent further progress of the disease. Radiation therapy is also used post surgery in some cases to prevent the disease continuing to progress. Low doses of radiation are used typically three gray of radiation for five days, with a break of three months followed by another phase of three gray of radiation for five days.[48]
 
 
@@ -172,7 +170,7 @@ The following three sections refer to treatment using x-rays.
 
 Conventional external beam radiation therapy
 
-A teletherapy radiation capsule composed of the following: Conventional external beam radiation therapy (2DXRT) is delivered via two-dimensional beams using kilovoltage therapy x-ray units or medical linear accelerators which generate high energy x-rays.[62][63] 2DXRT mainly consists of a single beam of radiation delivered to the patient from several directions: often front or back, and both sides.
+Conventional external beam radiation therapy (2DXRT) is delivered via two-dimensional beams using kilovoltage therapy x-ray units or medical linear accelerators which generate high energy x-rays.[62][63] 2DXRT mainly consists of a single beam of radiation delivered to the patient from several directions: often front or back, and both sides.
 
 _Conventional_ refers to the way the treatment is _planned_ or _simulated_ on a specially calibrated diagnostic x-ray machine known as a simulator because it recreates the linear accelerator actions (or sometimes by eye), and to the usually well-established arrangements of the radiation beams to achieve a desired _plan_. The aim of simulation is to accurately target or localize the volume which is to be treated. This technique is well established and is generally quick and reliable. The worry is that some high-dose treatments may be limited by the radiation toxicity capacity of healthy tissues which lie close to the target tumor volume.
 
@@ -198,7 +196,7 @@ An enhancement of virtual simulation is 3-DIMENSIONAL CONFORMAL RADIATION THERAP
 
 Intensity-modulated radiation therapy (IMRT)
 
-Varian_TruBeam.jpg TruBeam Linear Accelerator, used for delivering IMRT]] Intensity-modulated radiation therapy (IMRT) is an advanced type of high-precision radiation that is the next generation of 3DCRT.[69] IMRT also improves the ability to conform the treatment volume to concave tumor shapes,[70] for example when the tumor is wrapped around a vulnerable structure such as the spinal cord or a major organ or blood vessel.[71] Computer-controlled x-ray accelerators distribute precise radiation doses to malignant tumors or specific areas within the tumor. The pattern of radiation delivery is determined using highly tailored computing applications to perform optimization and treatment simulation (Treatment Planning). The radiation dose is consistent with the 3-D shape of the tumor by controlling, or modulating, the radiation beam's intensity. The radiation dose intensity is elevated near the gross tumor volume while radiation among the neighboring normal tissues is decreased or avoided completely. This results in better tumor targeting, lessened side effects, and improved treatment outcomes than even 3DCRT.
+TruBeam Linear Accelerator, used for delivering IMRT]] Intensity-modulated radiation therapy (IMRT) is an advanced type of high-precision radiation that is the next generation of 3DCRT.[69] IMRT also improves the ability to conform the treatment volume to concave tumor shapes,[70] for example when the tumor is wrapped around a vulnerable structure such as the spinal cord or a major organ or blood vessel.[71] Computer-controlled x-ray accelerators distribute precise radiation doses to malignant tumors or specific areas within the tumor. The pattern of radiation delivery is determined using highly tailored computing applications to perform optimization and treatment simulation (Treatment Planning). The radiation dose is consistent with the 3-D shape of the tumor by controlling, or modulating, the radiation beam's intensity. The radiation dose intensity is elevated near the gross tumor volume while radiation among the neighboring normal tissues is decreased or avoided completely. This results in better tumor targeting, lessened side effects, and improved treatment outcomes than even 3DCRT.
 
 3DCRT is still used extensively for many body sites but the use of IMRT is growing in more complicated body sites such as CNS, head and neck, prostate, breast, and lung. Unfortunately, IMRT is limited by its need for additional time from experienced medical personnel. This is because physicians must manually delineate the tumors one CT image at a time through the entire disease site which can take much longer than 3DCRT preparation. Then, medical physicists and dosimetrists must be engaged to create a viable treatment plan. Also, the IMRT technology has only been used commercially since the late 1990s even at the most advanced cancer centers, so radiation oncologists who did not learn it as part of their residency programs must find additional sources of education before implementing IMRT.
 
@@ -225,8 +223,6 @@ Contact x-ray brachytherapy
 Contact x-ray brachytherapy (also called "CXB", "electronic brachytherapy" or the "Papillon Technique") is a type of radiation therapy using kilovoltage X-rays applied close to the tumour to treat rectal cancer. The process involves inserting the x-ray tube through the anus into the rectum and placing it against the cancerous tissue, then high doses of X-rays are emitted directly into the tumor at two weekly intervals. It is typically used for treating early rectal cancer in patients who may not be candidates for surgery.[89][90][91] A 2015 NICE review found the main side effect to be bleeding that occurred in about 38% of cases, and radiation-induced ulcer which occurred in 27% of cases.[92]
 
 Brachytherapy (sealed source radiotherapy)
-
-1_applicator.jpg
 
 Brachytherapy is delivered by placing radiation source(s) inside or next to the area requiring treatment. Brachytherapy is commonly used as an effective treatment for cervical,[93] prostate,[94] breast,[95] and skin cancer[96] and can also be used to treat tumours in many other body sites.[97]
 
@@ -259,7 +255,7 @@ Deep inspiration breath-hold (DIBH) is a method of delivering radiotherapy while
 
 History
 
-X-ray_treatment_of_tuberculosis_1910.jpg in 1910. Before the 1920s, the hazards of radiation were not understood, and it was used to treat a wide range of diseases. ]]
+in 1910. Before the 1920s, the hazards of radiation were not understood, and it was used to treat a wide range of diseases. ]]
 
 Medicine has used radiation therapy as a treatment for cancer for more than 100 years, with its earliest roots traced from the discovery of x-rays in 1895 by Wilhelm Röntgen.[110] Emil Grubbe of Chicago was possibly the first American physician to use x-rays to treat cancer, beginning in 1896.[111]
 

@@ -10,7 +10,7 @@ The Amazonian's hair color is brownish gray, and it has thick wrinkled skin, oft
 
 Description
 
-Manatee_skeleton_with_calf.jpg of a manatee and calf, on display at The Museum of Osteology, Oklahoma City, Oklahoma]] West_Indian_Manatee_Skull.jpg, Oklahoma City, Oklahoma.]] Manatees weigh , and average in length, sometimes growing to and (the females tend to be larger and heavier). At birth, baby manatees weigh about each. The manatee has a large, flexible, prehensile upper lip, used to gather food and eat and for social interaction and communication. Manatees have shorter snouts than their fellow sirenians, the dugongs. The lids of manatees' small, widely spaced eyes close in a circular manner. The adults have no incisor or canine teeth, just a set of cheek teeth, which are not clearly differentiated into molars and premolars. These teeth are repeatedly replaced throughout life, with new teeth growing at the rear as older teeth fall out from farther forward in the mouth, somewhat as elephants' teeth do.[5][6] At any time, a manatee typically has no more than six teeth in each jaw of its mouth.[7] Its tail is paddle-shaped, and is the clearest visible difference between manatees and dugongs; a dugong tail is fluked, similar in shape to that of a whale. The female manatee has two teats, one under each flipper,[8] a characteristic that was used to make early links between the manatee and elephants.
+of a manatee and calf, on display at The Museum of Osteology, Oklahoma City, Oklahoma]] , Oklahoma City, Oklahoma.]] Manatees weigh , and average in length, sometimes growing to and (the females tend to be larger and heavier). At birth, baby manatees weigh about each. The manatee has a large, flexible, prehensile upper lip, used to gather food and eat and for social interaction and communication. Manatees have shorter snouts than their fellow sirenians, the dugongs. The lids of manatees' small, widely spaced eyes close in a circular manner. The adults have no incisor or canine teeth, just a set of cheek teeth, which are not clearly differentiated into molars and premolars. These teeth are repeatedly replaced throughout life, with new teeth growing at the rear as older teeth fall out from farther forward in the mouth, somewhat as elephants' teeth do.[5][6] At any time, a manatee typically has no more than six teeth in each jaw of its mouth.[7] Its tail is paddle-shaped, and is the clearest visible difference between manatees and dugongs; a dugong tail is fluked, similar in shape to that of a whale. The female manatee has two teats, one under each flipper,[8] a characteristic that was used to make early links between the manatee and elephants.
 
 The manatee is unusual among mammals in having just six cervical vertebrae,[9] a number that may be due to mutations in the homeotic genes.[10] All other mammals have seven cervical vertebrae,[11] other than the two-toed and three-toed sloths.
 
@@ -19,7 +19,7 @@ Like the horse, the manatee has a simple stomach, but a large cecum, in which it
 
 Behavior
 
-Endangered_Florida_manatee_(Trichechus_manatus)_(7636816484).jpg Apart from mothers with their young, or males following a receptive female, manatees are generally solitary animals.[13] Manatees spend approximately 50% of the day sleeping submerged, surfacing for air regularly at intervals of less than 20 minutes. The remainder of the time is mostly spent grazing in shallow waters at depths of . The Florida subspecies (_T. m. latirostris_) has been known to live up to 60 years.
+Apart from mothers with their young, or males following a receptive female, manatees are generally solitary animals.[13] Manatees spend approximately 50% of the day sleeping submerged, surfacing for air regularly at intervals of less than 20 minutes. The remainder of the time is mostly spent grazing in shallow waters at depths of . The Florida subspecies (_T. m. latirostris_) has been known to live up to 60 years.
 
 Locomotion
 
@@ -27,7 +27,7 @@ Generally, manatees swim at about . However, they have been known to swim at up 
 
 Intelligence and learning
 
-Manatee_attitudes.jpg Manatees are capable of understanding discrimination tasks and show signs of complex associative learning. They also have good long-term memory.[15] They demonstrate discrimination and task-learning abilities similar to dolphins and pinnipeds in acoustic and visual studies.[16]
+Manatees are capable of understanding discrimination tasks and show signs of complex associative learning. They also have good long-term memory.[15] They demonstrate discrimination and task-learning abilities similar to dolphins and pinnipeds in acoustic and visual studies.[16]
 
 Reproduction
 
@@ -43,7 +43,7 @@ Manatees are herbivores and eat over 60 different freshwater (e.g., floating hya
 
 Feeding behavior
 
-Manatee_plate.jpg Manatees use their flippers to "walk" along the bottom whilst they dig for plants and roots in the substrate. When plants are detected, the flippers are used to scoop the vegetation toward the manatee's lips. The manatee has prehensile lips; the upper lip pad is split into left and right sides which can move independently. The lips use seven muscles to manipulate and tear at plants. Manatees use their lips and front flippers to move the plants into the mouth. The manatee does not have front teeth, however, behind the lips, on the roof of the mouth, there are dense, ridged pads. These horny ridges, and the manatee's lower jaw, tear through ingested plant material.[23]
+Manatees use their flippers to "walk" along the bottom whilst they dig for plants and roots in the substrate. When plants are detected, the flippers are used to scoop the vegetation toward the manatee's lips. The manatee has prehensile lips; the upper lip pad is split into left and right sides which can move independently. The lips use seven muscles to manipulate and tear at plants. Manatees use their lips and front flippers to move the plants into the mouth. The manatee does not have front teeth, however, behind the lips, on the roof of the mouth, there are dense, ridged pads. These horny ridges, and the manatee's lower jaw, tear through ingested plant material.[23]
 
 Dentition
 
@@ -54,13 +54,9 @@ Ecology
 
 Range and habitat
 
-mapa_distribuicao_Trichechus.png
-
 Manatees inhabit the shallow, marshy coastal areas and rivers of the Caribbean Sea and the Gulf of Mexico (_T. manatus_, West Indian manatee), the Amazon basin (_T. inunguis_, Amazonian manatee), and West Africa (_T. senegalensis_, West African manatee).[25]
 
 West Indian manatees prefer warmer temperatures and are known to congregate in shallow waters. They frequently migrate through brackish water estuaries to freshwater springs. They cannot survive below 15 °C (60 °F). Their natural source for warmth during winter is warm, spring-fed rivers.
-
-Manatee.jpg
 
 West Indian
 
@@ -99,7 +95,7 @@ Overall, predation does not present a significant threat to the survival of any 
 
 Relation to humans
 
-Manatee_-_Blue_Spring_State_Park.JPG|alt=Photo of manatee next to kayak]] Hpim0279.jpg
+|alt=Photo of manatee next to kayak]]
 
 Threats
 
@@ -113,7 +109,7 @@ Manatees hear on a higher frequency than would be expected for such large marine
 
 In 2003, a population model was released by the United States Geological Survey that predicted an extremely grave situation confronting the manatee in both the Southwest and Atlantic regions where the vast majority of manatees are found. It states,
 
-Manatee_bearing_scars_on_back_from_boat_propeller.jpg According to marine mammal veterinarians: These veterinarians go on to state:
+According to marine mammal veterinarians: These veterinarians go on to state:
 
 In 2009, of the 429 Florida manatees recorded dead, 97 were killed by commercial and recreational vessels, which broke the earlier record number of 95 set in 2002.[43][44]
 
@@ -145,7 +141,7 @@ As of February 2016, 6,250 manatees were reported swimming in Florida's springs.
 
 Hunting
 
-Manatee_photo.jpg Manatees were traditionally hunted by indigenous Caribbean people. When Christopher Columbus arrived in the region, hunting was already an established trade, although this is less common today.[56]
+Manatees were traditionally hunted by indigenous Caribbean people. When Christopher Columbus arrived in the region, hunting was already an established trade, although this is less common today.[56]
 
 The primary hunting method was for the hunter to approach in a dugout canoe, offering bait to attract it close enough to temporarily stun it with a blow near the head from an oar-like pole. Many times the creature would flip over, leaving it vulnerable to further attacks.
 
@@ -155,7 +151,7 @@ Later, manatees were hunted for their bones, which were used to make "special po
 
 Captivity
 
-Manatee_at_Sea_World_Orlando_Mar_10.JPG The oldest manatee in captivity was Snooty,[57] at the South Florida Museum's Parker Manatee Aquarium in Bradenton, Florida. Born at the Miami Aquarium and Tackle Company on July 21, 1948, Snooty was one of the first recorded captive manatee births. Raised entirely in captivity, Snooty was never to be released into the wild. As such he was the only manatee at the aquarium, and one of only a few captive manatees in the United States that was allowed to interact with human handlers. That made him uniquely suitable for manatee research and education.[58]
+The oldest manatee in captivity was Snooty,[57] at the South Florida Museum's Parker Manatee Aquarium in Bradenton, Florida. Born at the Miami Aquarium and Tackle Company on July 21, 1948, Snooty was one of the first recorded captive manatee births. Raised entirely in captivity, Snooty was never to be released into the wild. As such he was the only manatee at the aquarium, and one of only a few captive manatees in the United States that was allowed to interact with human handlers. That made him uniquely suitable for manatee research and education.[58]
 
 Snooty died suddenly two days after his 69th birthday, July 23, 2017, when he was found in an underwater area only used to access plumbing for the exhibit life support system. The South Florida Museum’s initial press release stated, “Early indications are that an access panel door that is normally bolted shut had somehow been knocked loose and that Snooty was able to swim in.”[59]
 

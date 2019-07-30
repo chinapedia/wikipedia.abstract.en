@@ -37,7 +37,7 @@ During the English Civil War, Oxford housed the court of Charles I in 1642, afte
 
 Late modern
 
-Radcliffe_Camera,_Oxford_-_Oct_2006.jpg, completed in 1748]] In 1790, the Oxford Canal connected the city with Coventry. The Duke's Cut was completed by the Duke of Marlborough in 1789 to link the new canal with the River Thames; and, in 1796, the Oxford Canal company built its own link to the Thames, at Isis Lock. In 1844, the Great Western Railway linked Oxford with London via Didcot and Reading, and other rail routes soon followed.
+, completed in 1748]] In 1790, the Oxford Canal connected the city with Coventry. The Duke's Cut was completed by the Duke of Marlborough in 1789 to link the new canal with the River Thames; and, in 1796, the Oxford Canal company built its own link to the Thames, at Isis Lock. In 1844, the Great Western Railway linked Oxford with London via Didcot and Reading, and other rail routes soon followed.
 
 In the 19th century, the controversy surrounding the Oxford Movement in the Anglican Church drew attention to the city as a focus of theological thought.
 
@@ -45,11 +45,11 @@ A permanent military presence was established in the city with the completion of
 
 Local government in Oxford was reformed by the Municipal Corporations Act 1835, and the boundaries of the borough were extended to include a small area east of the River Cherwell. The boundaries were further extended in 1889 to add the areas of Grandpont and New Hinksey, south of the Thames, which were transferred from Berkshire to Oxfordshire. At the same time Summertown and the western part of Cowley were also added to the borough. In 1890 Oxford became a county borough.[23]
 
-Oxford_Lord_Mayoralty_letters_patent.jpg High_Street,_Oxford,_England,_1890s.jpg of the High Street, 1890–1900]] Oxford Town Hall was built by Henry T. Hare; the foundation stone was laid on 6 July 1893 and opened by the future King Edward VII on 12 May 1897. The site has been the seat of local government since the Guild Hall of 1292 and though Oxford is a city and a Lord Mayoralty, the building is still called by its traditional name of "Town Hall".
+of the High Street, 1890–1900]] Oxford Town Hall was built by Henry T. Hare; the foundation stone was laid on 6 July 1893 and opened by the future King Edward VII on 12 May 1897. The site has been the seat of local government since the Guild Hall of 1292 and though Oxford is a city and a Lord Mayoralty, the building is still called by its traditional name of "Town Hall".
 
 20th and 21st centuries
 
-Oxford_City_Birdseye.jpg During the First World War, the population of Oxford changed. The number of University members was significantly reduced as students, fellows and staff enlisted. Some of their places in college accommodation were taken by soldiers in training. Another reminder of the ongoing war was found in the influx of wounded and disabled soldiers, who were treated in new hospitals housed in University buildings including the Examination School, Town Hall and Somerville College.[24]
+During the First World War, the population of Oxford changed. The number of University members was significantly reduced as students, fellows and staff enlisted. Some of their places in college accommodation were taken by soldiers in training. Another reminder of the ongoing war was found in the influx of wounded and disabled soldiers, who were treated in new hospitals housed in University buildings including the Examination School, Town Hall and Somerville College.[24]
 
 By the early 20th century, Oxford was experiencing rapid industrial and population growth, with the printing and publishing industries becoming well established by the 1920s. In 1929 the boundaries of the city were extended to include the suburbs of Headington, Cowley and Iffley to the east, and Wolvercote to the north.[25]
 
@@ -88,7 +88,7 @@ Twenty-two percent of the population come from black or ethnic minority (BME) gr
 
 Suburbs
 
-Location_map_United_Kingdom_Oxford.svg Aside from the city centre, there are several suburbs and neighbourhoods within the borders of city of Oxford, including:
+Aside from the city centre, there are several suburbs and neighbourhoods within the borders of city of Oxford, including:
 
 -   Barton
 -   Blackbird Leys
@@ -195,7 +195,7 @@ Landmarks
 
 Oxford has numerous major tourist attractions, many belonging to the university and colleges. As well as several famous institutions, the town centre is home to Carfax Tower and the University Church of St Mary the Virgin, both of which offer views over the spires of the city. Many tourists shop at the historic Covered Market. In the summer punting on the Thames/Isis and the Cherwell is popular.
 
-Somerville_College,_Oxford_UK.png]] 1_view_from_carfax_tower_oxford_2012.jpg]] Norrington_Room,_Blackwell's_Bookshop,_Oxford.jpg Divinity_School_Interior_2,_Bodleian_Library,_Oxford,_UK_-_Diliff.jpg]] Ashmolean_Museum_Entrance_May_2017.png]] Natural_History_Museum_and_Pitt_River_Museum.jpg
+]] ]] ]] ]]
 
 University of Oxford
 
@@ -270,11 +270,11 @@ Transport
 
 Air
 
-Oxford_Airport_ATC_Tower.jpg tower at Oxford Airport]] In addition to the larger airports in the region, Oxford is served by nearby Oxford Airport, in Kidlington. The airport is also home to Oxford Aviation Academy, an airline pilot flight training centre, and several private jet companies.
+tower at Oxford Airport]] In addition to the larger airports in the region, Oxford is served by nearby Oxford Airport, in Kidlington. The airport is also home to Oxford Aviation Academy, an airline pilot flight training centre, and several private jet companies.
 
 Buses
 
-Oxford_Bus_Company_312_on_Route_400,_Oxford_City_Centre_(15567762182).jpg hybrid bus on a park & ride service]] Bus services in Oxford and its suburbs are run by the Oxford Bus Company and Stagecoach Oxfordshire as well as other operators including Arriva Shires & Essex and Thames Travel.
+hybrid bus on a park & ride service]] Bus services in Oxford and its suburbs are run by the Oxford Bus Company and Stagecoach Oxfordshire as well as other operators including Arriva Shires & Essex and Thames Travel.
 
 Arriva Shires & Essex operates Sapphire route 280 to Aylesbury via Wheatley, Thame and Haddenham seven days a week, at a frequency of up to every 20 minutes.[82] The new Sapphire buses have three-pin power sockets, leather seats and free, onboard Wi-Fi.[83]
 
@@ -288,7 +288,7 @@ Oxford has five park and ride car parks with frequent bus links to the city cent
 
 There are also bus services to the John Radcliffe Hospital (from Thornhill and Water Eaton/Oxford Parkway) and to the Churchill and Nuffield Hospitals (from Thornhill). , Oxford has one of the largest urban park and ride networks in the UK. Its five sites have a combined capacity of 4,930 car parking spaces,[84] served by 20 Oxford Bus Company double deck buses with a combined capacity of 1,695 seats.[85] By comparison, York park and ride has six sites with a combined total of 4,970 parking spaces[86] served by 35 First York buses, but they are single deckers with a combined capacity of 1,548 seats.[87]
 
-Oxford_Bus_Company_604_on_Route_U1,_Oxford_Station_(14966079163).jpg flywheel energy storage bus on a BrookesBus service]] More than 58% of Oxford Bus Company customers use the ITSO Ltd smartcard.[88]
+flywheel energy storage bus on a BrookesBus service]] More than 58% of Oxford Bus Company customers use the ITSO Ltd smartcard.[88]
 
 In November 2014 all Oxford Bus Company buses within the Oxford SmartZone area have free WiFi installed.[89][90][91]
 
@@ -306,7 +306,7 @@ Among UK cities, Oxford has the second highest percentage of people cycling to w
 
 Rail
 
-oxfordfront.jpg]] In 1844, the Great Western Railway linked Oxford with London Paddington via and ; in 1851, the London and North Western Railway opened its own route from Oxford to London Euston, via Bicester, and Watford; and in 1864 a third route, also to Paddington, running via , and , was provided; this was shortened in 1906 by the opening of a direct route between High Wycombe and London Paddington by way of . The distance from Oxford to London was via Bletchley; via Didcot and Reading; via Thame and Maidenhead; and via Denham. Only the original (Didcot) route is still in use for its full length, portions of the others remain.
+]] In 1844, the Great Western Railway linked Oxford with London Paddington via and ; in 1851, the London and North Western Railway opened its own route from Oxford to London Euston, via Bicester, and Watford; and in 1864 a third route, also to Paddington, running via , and , was provided; this was shortened in 1906 by the opening of a direct route between High Wycombe and London Paddington by way of . The distance from Oxford to London was via Bletchley; via Didcot and Reading; via Thame and Maidenhead; and via Denham. Only the original (Didcot) route is still in use for its full length, portions of the others remain.
 
 There were also routes to the north and west. The line to was opened in 1850, and was extended to Birmingham Snow Hill in 1852; a route to Worcester opened in 1853. A branch to Witney was opened in 1862, which was extended to in 1873. The line to Witney and Fairford closed in 1962, but the others remain open.
 
@@ -341,7 +341,7 @@ The main roads to/from Oxford are:
 -   A44 – which begins in Oxford, leading past Evesham to Worcester, Hereford and Aberystwyth.
 -   A420 – which also begins in Oxford and leads to Bristol passing Swindon and Chippenham.
 
-M40_in_Warwickshire_Crop.jpg extension]]
+extension]]
 
 Motorway
 

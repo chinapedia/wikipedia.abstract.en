@@ -30,7 +30,7 @@ The Western Kshatrapas (405–35 BC), the Saka rulers of the western part of Ind
 
 Classical
 
-Baroli_temple.jpg. The temples were built between the 10th and 11th centuries CE by the Gurjara-Pratihara dynasty.]]
+. The temples were built between the 10th and 11th centuries CE by the Gurjara-Pratihara dynasty.]]
 
 Gurjars
 
@@ -52,7 +52,7 @@ The Rajputs put up resistance to the Islamic invasions with their warfare and ch
 
 Hem Chandra Vikramaditya, the Hindu Emperor, was born in the village of Machheri in Alwar District in 1501. He won 22 battles against Afghans, from Punjab to Bengal including states of Ajmer and Alwar in Rajasthan, and defeated Akbar's forces twice at Agra and Delhi in 1556 at Battle of Delhi[28] before acceding to the throne of Delhi and establishing the "Hindu Raj" in North India, albeit for a short duration, from Purana Quila in Delhi. Hem Chandra was killed in the battlefield at Second Battle of Panipat fighting against Mughals on 5 November 1556.
 
-Akbar_shoots_Jaimal_at_the_siege_of_Chitor.jpg shoots the Rajput commander Jaimal using a matchlock, during the Siege of Chittor (1567–1568).]] During Akbar's reign most of the Rajput kings accepted Mughal suzerainty, but the rulers of Mewar (Rana Udai Singh II) and Marwar (Rao Chandrasen Rathore) refused to have any form of alliance with the Mughals. To teach the Rajputs a lesson Akbar attacked Udai Singh and killed Rajput commander Jaimal of Chitor and the citizens of Mewar in large numbers. Akbar killed 20 – 25,000 unarmed citizens in Chittor on the grounds that they had actively helped in the resistance.[29]
+shoots the Rajput commander Jaimal using a matchlock, during the Siege of Chittor (1567–1568).]] During Akbar's reign most of the Rajput kings accepted Mughal suzerainty, but the rulers of Mewar (Rana Udai Singh II) and Marwar (Rao Chandrasen Rathore) refused to have any form of alliance with the Mughals. To teach the Rajputs a lesson Akbar attacked Udai Singh and killed Rajput commander Jaimal of Chitor and the citizens of Mewar in large numbers. Akbar killed 20 – 25,000 unarmed citizens in Chittor on the grounds that they had actively helped in the resistance.[29]
 
 Maharana Pratap took an oath to avenge the citizens of Chittor, he fought the Mughal empire till his death and liberated most of Mewar apart from Chittor itself. Maharana Pratap soon became the most celebrated warrior of Rajasthan and became famous all over India for his sporadic warfare and noble actions. According to Satish Chandra, "Rana Pratap's defiance of the mighty Mughal empire, almost alone and unaided by the other Rajput states, constitutes a glorious saga of Rajput valour and the spirit of self-sacrifice for cherished principles. Rana Pratap's methods of sporadic warfare was later elaborated further by Malik Ambar, the Deccani general, and by Shivaji".[30]
 
@@ -96,7 +96,7 @@ Flora and fauna
 
   : '''State symbols of RAJASTHAN
 
-Sonchiriya.jpg has been classed as critically endangered since 2011.]] Though a large percentage of the total area is desert with little forest cover, Rajasthan has a rich and varied flora and fauna. The natural vegetation is classed as Northern Desert Thorn Forest (Champion 1936). These occur in small clumps scattered in a more or less open form. The density and size of patches increase from west to east following the increase in rainfall.
+ has been classed as critically endangered since 2011.]] Though a large percentage of the total area is desert with little forest cover, Rajasthan has a rich and varied flora and fauna. The natural vegetation is classed as Northern Desert Thorn Forest (Champion 1936). These occur in small clumps scattered in a more or less open form. The density and size of patches increase from west to east following the increase in rainfall.
 
 The Desert National Park in Jaisalmer is spread over an area of , is an excellent example of the ecosystem of the Thar Desert and its diverse fauna. Seashells and massive fossilised tree trunks in this park record the geological history of the desert. The region is a haven for migratory and resident birds of the desert. One can see many eagles, harriers, falcons, buzzards, kestrels and vultures. Short-toed snake eagles _(Circaetus gallicus)_, tawny eagles _(Aquila rapax)_, spotted eagles _(Aquila clanga)_, laggar falcons _(Falco jugger)_ and kestrels are the commonest of these.
 
@@ -127,7 +127,7 @@ The politics of Rajasthan is dominated mainly by the Bharatiya Janata Party and 
 
 Administrative divisions
 
-Udaipur_Lake_India.JPG and Jag Mandir from a distance, Lake Pichola, Udaipur.]]
+and Jag Mandir from a distance, Lake Pichola, Udaipur.]]
 
 Rajasthan is divided into 33 districts within seven divisions:
 
@@ -152,9 +152,9 @@ Rajasthan is divided into 33 districts within seven divisions:
 
 Economy
 
-Jaipur_03-2016_34_Jaipur_Metro.jpg is an important urban transportation link.]] Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.
+is an important urban transportation link.]] Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.
 
-Bada_Bagh1.jpg The main industries are mineral based, agriculture-based, and textile based. Rajasthan is the second largest producer of polyester fibre in India. Several prominent chemical and engineering companies are located in the city of Kota, in southern Rajasthan. Rajasthan is pre-eminent in quarrying and mining in India. The Taj Mahal was built from the white marble which was mined from a town called Makrana. The state is the second largest source of cement in India. It has rich salt deposits at Sambhar, copper mines at Khetri, Jhunjhunu, and zinc mines at Dariba, Zawar mines and Rampura Agucha (opencast) near Bhilwara. Dimensional stone mining is also undertaken in Rajasthan. Jodhpur sandstone is mostly used in monuments, important buildings, and residential buildings. This stone is termed as "chittar patthar". Jodhpur leads in Handicraft and Guar Gum industry. Rajasthan is also a part of the Mumbai-Delhi Industrial corridor is set to benefit economically. The State gets 39% of the DMIC, with major districts of Jaipur, Alwar, Kota and Bhilwara benefiting.[45]
+The main industries are mineral based, agriculture-based, and textile based. Rajasthan is the second largest producer of polyester fibre in India. Several prominent chemical and engineering companies are located in the city of Kota, in southern Rajasthan. Rajasthan is pre-eminent in quarrying and mining in India. The Taj Mahal was built from the white marble which was mined from a town called Makrana. The state is the second largest source of cement in India. It has rich salt deposits at Sambhar, copper mines at Khetri, Jhunjhunu, and zinc mines at Dariba, Zawar mines and Rampura Agucha (opencast) near Bhilwara. Dimensional stone mining is also undertaken in Rajasthan. Jodhpur sandstone is mostly used in monuments, important buildings, and residential buildings. This stone is termed as "chittar patthar". Jodhpur leads in Handicraft and Guar Gum industry. Rajasthan is also a part of the Mumbai-Delhi Industrial corridor is set to benefit economically. The State gets 39% of the DMIC, with major districts of Jaipur, Alwar, Kota and Bhilwara benefiting.[45]
 
 Rajasthan also has reserves of low-silica limestone.[46]
 
@@ -188,7 +188,7 @@ According to final results of 2011 Census of India, Rajasthan has a total popula
 
 Language
 
-Rajasthani_Dish.jpg Hindi is the official and the most widely spoken language in the state (90.97% of the population as per the 2001 census), followed by Bhili (4.60%), Punjabi (2.01%), and Urdu (1.17%).[52] Rajasthani is one of the main spoken languages in the state. Rajasthani and various Rajasthani dialects are counted under Hindi in the national census. In the 2001 census, standard Rajasthani had over 18 million speakers,[53] as well as millions of other speakers of Rajasthani dialects, such as Marwari.
+Hindi is the official and the most widely spoken language in the state (90.97% of the population as per the 2001 census), followed by Bhili (4.60%), Punjabi (2.01%), and Urdu (1.17%).[52] Rajasthani is one of the main spoken languages in the state. Rajasthani and various Rajasthani dialects are counted under Hindi in the national census. In the 2001 census, standard Rajasthani had over 18 million speakers,[53] as well as millions of other speakers of Rajasthani dialects, such as Marwari.
 
 The languages taught under the three-language formula are:[54]
 
@@ -214,7 +214,7 @@ The main religious festivals are Deepawali, Holi, Gangaur, Teej, Gogaji, Shri De
 
 Education
 
-NIIT_University.jpg During recent years, Rajasthan has worked on improving education. The state government has been making sustained efforts to raise the education standard.
+During recent years, Rajasthan has worked on improving education. The state government has been making sustained efforts to raise the education standard.
 
 Literacy
 

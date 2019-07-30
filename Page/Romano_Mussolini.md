@@ -3,7 +3,7 @@ ROMANO MUSSOLINI (26 September 1927 – 3 February 2006) was an Italian jazz pi
 
 Biography
 
-Benito_e_Romano_Mussolini,_spiaggia_di_Riccione_1932.jpg A native of Villa Carpena, Forlì (Emilia-Romagna), Romano Mussolini studied music as a child, playing classical pieces with his father on the violin.
+A native of Villa Carpena, Forlì (Emilia-Romagna), Romano Mussolini studied music as a child, playing classical pieces with his father on the violin.
 
 After World War II, he started playing jazz under the assumed name ROMANO FULL[2] and by the mid-1950s, he had formed a trio. Romano Mussolini released a self-titled record (featuring Lilian Terry on vocals and trumpeter Nunzio Rotondo) through RCA Records in 1956. By the 1960s, he had formed the "Romano Mussolini All Stars", which became one of Italy's foremost jazz bands.
 

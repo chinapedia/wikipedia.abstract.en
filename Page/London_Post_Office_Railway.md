@@ -14,7 +14,7 @@ In 1911, a plan evolved to build an underground railway long[5] from Paddington 
 
 The main line has a single diameter tube with two tracks. Just before stations, tunnels diverge into two single-track diameter tunnels leading to two parallel diameter station tunnels. The main tube is at a depth of around .[7] Stations are at a much shallower depth, with a 1-in-20 gradient into the stations. The gradients assist in slowing the trains when approaching stations, and accelerating them away. There is also less distance to lift mail from the stations to the surface. At Oxford Circus the tunnel runs close to the Bakerloo line tunnel of the London Underground.
 
-London_Post_Office_Railway_Map.jpg During 1917, work was suspended due to the shortage of labour and materials. By June 1924, track laying had started. In February 1927, the first section, between Paddington and the West Central District Office, was made available for training. The line became available for the Christmas parcel post in 1927 and letters were carried from February 1928.
+During 1917, work was suspended due to the shortage of labour and materials. By June 1924, track laying had started. In February 1927, the first section, between Paddington and the West Central District Office, was made available for training. The line became available for the Christmas parcel post in 1927 and letters were carried from February 1928.
 
 In 1954, plans were developed for a new Western District Office at Rathbone Place, which required a diversion, opening in 1958.[8][9] It was not until 3 August 1965 that the new station and office were opened by the Postmaster General, Anthony Wedgwood-Benn. The disused section was used as a store tunnel; some parts of it still have the track in place.
 
@@ -28,14 +28,14 @@ A team from the University of Cambridge has taken over a short, double track sec
 
 Redevelopment and preservation
 
-All_Aboard_the_Mail_Rail_(44303391761).jpg In October 2013, the British Postal Museum & Archive announced that it intended opening part of the network to the public.[16][17] After approval was granted by Islington Council, work on the new museum and the railway began in 2014.[18] Special tourist trains were installed in late 2016. It was planned to open a circular route, running beneath the depot at Mount Pleasant with a journey time of around 15 minutes, by mid-2017.[19][20][21] The museum opened on 5 September.[22]
+In October 2013, the British Postal Museum & Archive announced that it intended opening part of the network to the public.[16][17] After approval was granted by Islington Council, work on the new museum and the railway began in 2014.[18] Special tourist trains were installed in late 2016. It was planned to open a circular route, running beneath the depot at Mount Pleasant with a journey time of around 15 minutes, by mid-2017.[19][20][21] The museum opened on 5 September.[22]
 
 In its first year of operation (2017–2018), the trains performed 9,000 trips totalling , with the railway and museum hosting over 198,000 visitors.[23]
 
 
 Rolling stock
 
-The first stock was delivered in 1926 with the opening of the system. All stock used was electrically powered. London_Post_Office_Railway_1930_Stock.jpg
+The first stock was delivered in 1926 with the opening of the system. All stock used was electrically powered.
 
 Electric locomotives
 

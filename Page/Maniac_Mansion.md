@@ -7,7 +7,7 @@ _Maniac Mansion_ was critically acclaimed: reviewers lauded its graphics, cutsce
 
 Overview
 
-Maniac_Mansion.png command interface below it.]]
+command interface below it.]]
 
 _Maniac Mansion_ is a graphic adventure game in which the player uses a point-and-click interface to guide characters through a two-dimensional game world and to solve puzzles. Fifteen action commands, such as "Walk To" and "Unlock", may be selected by the player from a menu on the screen's lower half.[2][3] The player starts the game by choosing two out of six characters to accompany protagonist Dave Miller.[4] Each character possesses unique abilities: for example, Syd and Razor can play musical instruments, while Bernard can repair appliances.[5] The game may be completed with any combination of characters; but, since many puzzles are solvable only by certain characters, different paths must be taken based on the group's composition.[6][7] _Maniac Mansion_ features cutscenes, a word coined by Ron Gilbert,[8][9] that interrupt gameplay to advance the story and inform the player about offscreen events.[10][11]
 
@@ -18,7 +18,7 @@ Development
 
 Conception
 
-Ron_Gilbert_PAX_2009.jpg (pictured) co-wrote and co-designed _Maniac Mansion_ with Gary Winnick; they were both puzzle and graphic adventure game fans.[16]]]
+(pictured) co-wrote and co-designed _Maniac Mansion_ with Gary Winnick; they were both puzzle and graphic adventure game fans.[16]]]
 
 _Maniac Mansion_ was conceived in 1985 when Lucasfilm Games employees Ron Gilbert and Gary Winnick were assigned to create an original game.[17] Gilbert had been hired the previous year as a programmer for the game _Koronis Rift_.[18] He befriended Winnick over their similar tastes in humor, film, and television. Company management provided little oversight in the creation of _Maniac Mansion_, a trend to which Gilbert credited the success of several of his games for Lucasfilm.[19]
 
@@ -26,7 +26,7 @@ Gilbert and Winnick co-wrote and co-designed the project, but they worked separa
 
 Story and characters were a primary concern for Gilbert and Winnick.[24] The pair based the game's cast on friends, family members, acquaintances, and stereotypes. For example, Winnick's girlfriend Ray was the inspiration for Razor,[25][26] while Dave and Wendy were based, respectively, on Gilbert and a fellow Lucasfilm employee named Wendy.[27] According to Winnick, the Edison family was shaped after characters from EC Comics and Warren Publishing magazines.[28] The sentient meteor that brainwashes Dr. Fred was inspired by a segment from the 1982 anthology film _Creepshow_. A man-eating plant, similar to that of _Little Shop of Horrors_, was included as well.[29] The developers sought to strike a balance between tension and humor with the game's story.[30]
 
-Skywalker_Ranch_Main_House.jpg inspired the design of _Maniac Mansion_{{'}}s setting.]]
+inspired the design of _Maniac Mansion_{{'}}s setting.]]
 
 Initially, Gilbert and Winnick struggled to choose a gameplay genre for _Maniac Mansion_. While visiting relatives over Christmas, Gilbert saw his cousin play _King's Quest: Quest for the Crown_, an adventure game by Sierra On-Line. Although he was a fan of text adventures, this was Gilbert's first experience with a graphic adventure, and he used the holiday to play the game and familiarize himself with the format. As a result, he decided to develop his and Winnick's ideas into a graphic adventure game.[31][32][33]
 
@@ -55,7 +55,7 @@ During _Maniac Mansion_{{'}}s development for the Commodore 64, Lucasfilm had ce
 
 One month later, Nintendo of America contacted Lucasfilm Games to request the removal of offensive text and nude graphics. Crockford censored this content but attempted to leave the game's essence intact. For example, Nintendo wanted graffiti in one room—which provided an important hint to players—removed from the game. Unable to comply without simultaneously removing the hint, the team simply shortened it. Sexually suggestive and otherwise "graphic" dialogue was edited, including a remark from Dr. Fred about "pretty brains [being] sucked out". The nudity described by Nintendo encompassed a swimsuit calendar, a classical sculpture and a poster of a mummy in a Playmate pose. After a brief fight to keep the sculpture, the team ultimately removed all three. The phrase "NES SCUMM" in the credits sequence was censored as well.[89]
 
-George_A._Sanger_at_Blockparty_2008.jpg and his band contributed to the NES port's music.]]
+and his band contributed to the NES port's music.]]
 
 Lucasfilm Games re-submitted the edited version of _Maniac Mansion_ to Nintendo, which then manufactured 250,000 cartridges.[90] Each cartridge was fitted with a battery-powered back-up to save data.[91] Nintendo announced the port through its official magazine in early 1990, and it provided further coverage later that year.[92][93] The ability to microwave a hamster remained in the game, which Crockford cited as an example of the censors' contradictory criteria.[94][95] Nintendo later noticed it, and after the first batch of cartridges was sold, Jaleco was forced to remove the content from future shipments.[96][97]
 

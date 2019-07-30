@@ -1,6 +1,6 @@
-Kinesin_walking.gif is a protein complex functioning as a molecular biological machine. It uses protein domain dynamics on nanoscales]]
+is a protein complex functioning as a molecular biological machine. It uses protein domain dynamics on nanoscales]]
 
-MOLECULAR NANOTECHNOLOGY (MNT) is a technology based on the ability to build structures to complex, atomic specifications by means of mechanosynthesis.[1] This is distinct from nanoscale materials. Based on Richard Feynman's vision of miniature factories using nanomachines to build complex products (including additional nanomachines), this advanced form of nanotechnology (or _molecular manufacturing_[2]) would make use of positionally-controlled mechanosynthesis guided by molecular machine systems. MNT would involve combining physical principles demonstrated by biophysics, chemistry, other nanotechnologies, and the molecular machinery of life with the systems engineering principles found in modern macroscale factories. Protein_translation.gif is a biological machine.]]
+MOLECULAR NANOTECHNOLOGY (MNT) is a technology based on the ability to build structures to complex, atomic specifications by means of mechanosynthesis.[1] This is distinct from nanoscale materials. Based on Richard Feynman's vision of miniature factories using nanomachines to build complex products (including additional nanomachines), this advanced form of nanotechnology (or _molecular manufacturing_[2]) would make use of positionally-controlled mechanosynthesis guided by molecular machine systems. MNT would involve combining physical principles demonstrated by biophysics, chemistry, other nanotechnologies, and the molecular machinery of life with the systems engineering principles found in modern macroscale factories. is a biological machine.]]
 
 
 Introduction
@@ -36,7 +36,7 @@ One of the most important applications of MNT would be medical nanorobotics or n
 
 Utility fog
 
-Foglet.jpg Another proposed application of molecular nanotechnology is "utility fog"[17] — in which a cloud of networked microscopic robots (simpler than assemblers) would change its shape and properties to form macroscopic objects and tools in accordance with software commands. Rather than modify the current practices of consuming material goods in different forms, utility fog would simply replace many physical objects.
+Another proposed application of molecular nanotechnology is "utility fog"[17] — in which a cloud of networked microscopic robots (simpler than assemblers) would change its shape and properties to form macroscopic objects and tools in accordance with software commands. Rather than modify the current practices of consuming material goods in different forms, utility fog would simply replace many physical objects.
 
 Phased-array optics
 

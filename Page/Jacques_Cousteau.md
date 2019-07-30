@@ -49,7 +49,7 @@ He was involved in the creation of Confédération Mondiale des Activités Subaq
 
 Cousteau also took part in inventing the "SP-350 Denise Diving Saucer" in 1959 which was an invention best for exploring the ocean floor, as it allowed one to explore on solid ground.[16]
 
-In October 1960, a large amount of radioactive waste was going to be discarded in the Mediterranean Sea by the Commissariat à l'énergie atomique (CEA). The CEA argued that the dumps were experimental in nature, and that French oceanographers such as Vsevelod Romanovsky had recommended it. Romanovsky and other French scientists, including Louis Fage and Jacques Cousteau, repudiated the claim, saying that Romanovsky had in mind a much smaller amount. The CEA claimed that there was little circulation (and hence little need for concern) at the dump site between Nice and Corsica, but French public opinion sided with the oceanographers rather than with the CEA atomic energy scientists. The CEA chief, Francis Perrin, decided to postpone the dump.[17] Cousteau organized a publicity campaign which in less than two weeks gained wide popular support. The train carrying the waste was stopped by women and children sitting on the railway tracks, and it was sent back to its origin. Cousteau_en_Calypso.jpg
+In October 1960, a large amount of radioactive waste was going to be discarded in the Mediterranean Sea by the Commissariat à l'énergie atomique (CEA). The CEA argued that the dumps were experimental in nature, and that French oceanographers such as Vsevelod Romanovsky had recommended it. Romanovsky and other French scientists, including Louis Fage and Jacques Cousteau, repudiated the claim, saying that Romanovsky had in mind a much smaller amount. The CEA claimed that there was little circulation (and hence little need for concern) at the dump site between Nice and Corsica, but French public opinion sided with the oceanographers rather than with the CEA atomic energy scientists. The CEA chief, Francis Perrin, decided to postpone the dump.[17] Cousteau organized a publicity campaign which in less than two weeks gained wide popular support. The train carrying the waste was stopped by women and children sitting on the railway tracks, and it was sent back to its origin.
 
 In the 1960s Cousteau was involved with a set of three projects to build underwater "villages"; the projects were named Precontinent I, Precontinent II and Precontinent III. Each ensuing project was aimed at increasing the depth at which people continuously lived under water, and were an attempt at creating an environment in which men could live and work on the sea floor. The projects are best known as Conshelf I (1962), Conshelf II (1963), and Conshelf III (1965). The names "Precontinent", and "Continental Shelf Station" (Conshelf) were used interchangeably by Cousteau.
 
@@ -73,7 +73,7 @@ On 28 June 1979, while the _Calypso_ was on an expedition to Portugal, his secon
 
 From 1980 to 1981, he was a regular on the animal reality show _Those Amazing Animals_, along with Burgess Meredith, Priscilla Presley, and Jim Stafford.
 
-Flying-saucer.jpg]] In 1980, Cousteau traveled to Canada to make two films on the Saint Lawrence River and the Great Lakes, _Cries from the Deep_ and _St. Lawrence: Stairway to the Sea_.[20]
+]] In 1980, Cousteau traveled to Canada to make two films on the Saint Lawrence River and the Great Lakes, _Cries from the Deep_ and _St. Lawrence: Stairway to the Sea_.[20]
 
 In 1985, he received the Presidential Medal of Freedom from Ronald Reagan.
 
@@ -113,7 +113,7 @@ During his lifetime, Jacques-Yves Cousteau received these distinctions:
 
 Legacy
 
-Подводная_лодка_Жака_Ива_Кусто_IMG_4571.JPG Cousteau's legacy includes more than 120 television documentaries, more than 50 books, and an environmental protection foundation with 300,000 members.[26]
+Cousteau's legacy includes more than 120 television documentaries, more than 50 books, and an environmental protection foundation with 300,000 members.[26]
 
 Cousteau liked to call himself an "oceanographic technician." He was, in reality, a sophisticated showman, teacher, and lover of nature. His work permitted many people to explore the resources of the oceans.
 

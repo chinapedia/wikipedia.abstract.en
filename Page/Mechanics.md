@@ -30,7 +30,7 @@ The main theory of mechanics in antiquity was Aristotelian mechanics.[4] A later
 
 Medieval age
 
-Arabic_machine_manuscript_-_Anonym_-_Ms._or._fol._3306_c.jpg In the Middle Ages, Aristotle's theories were criticized and modified by a number of figures, beginning with John Philoponus in the 6th century. A central problem was that of projectile motion, which was discussed by Hipparchus and Philoponus.
+In the Middle Ages, Aristotle's theories were criticized and modified by a number of figures, beginning with John Philoponus in the 6th century. A central problem was that of projectile motion, which was discussed by Hipparchus and Philoponus.
 
 Persian Islamic polymath Ibn Sīnā published his theory of motion in _The Book of Healing_ (1020). He said that an impetus is imparted to a projectile by the thrower, and viewed it as persistent, requiring external forces such as air resistance to dissipate it.[6][7][8] Ibn Sina made distinction between 'force' and 'inclination' (called "mayl"), and argued that an object gained mayl when the object is in opposition to its natural motion. So he concluded that continuation of motion is attributed to the inclination that is transferred to the object, and that object will be in motion until the mayl is spent. He also claimed that projectile in a vacuum would not stop unless it is acted upon. This conception of motion is consistent with Newton's first law of motion, inertia. Which states that an object in motion will stay in motion unless it is acted on by an external force.[9] This idea which dissented from the Aristotelian view was later described as "impetus" by John Buridan, who was influenced by Ibn Sina's _Book of Healing_.[10]
 
@@ -68,7 +68,7 @@ Note that there is also the "theory of fields" which constitutes a separate disc
 
 Classical
 
-Newtonslawofgravity.ogv explains Newton's law of gravitation in MIT course 8.01[16] ]] The following are described as forming classical mechanics:
+explains Newton's law of gravitation in MIT course 8.01[16] ]] The following are described as forming classical mechanics:
 
 -   Newtonian mechanics, the original theory of motion (kinematics) and forces (dynamics).
 -   Analytical mechanics is a reformulation of Newtonian mechanics with an emphasis on system energy, rather than on forces. There are two main branches of analytical mechanics:

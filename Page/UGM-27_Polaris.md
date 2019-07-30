@@ -33,7 +33,7 @@ Originally, the Navy favored cruise missile systems in a strategic role, such as
 
 It quickly became apparent that solid-fueled ballistic missiles had advantages over cruise missiles in range and accuracy, and could be launched from a submerged submarine, improving submarine survivability.
 
-The prime contractor for all three versions of Polaris was Lockheed Missiles and Space Company (now Lockheed Martin). 1960-07-21_First_Polaris_Firing_By_Submerged_U-Boat.ogv The Polaris program started development in 1956. , the first US missile submarine, successfully launched the first Polaris missile from a submerged submarine on July 20, 1960. The A-2 version of the Polaris missile was essentially an upgraded A-1, and it entered service in late 1961. It was fitted on a total of 13 submarines and served until June 1974.(1). Ongoing problems with the W-47 warhead, especially with its mechanical arming and safing equipment, led to large numbers of the missiles being recalled for modifications, and the U.S. Navy sought a replacement with either a larger yield or equivalent destructive power. The result was the W-58 warhead used in a "cluster" of three warheads for the Polaris A-3, the final model of the Polaris missile.
+The prime contractor for all three versions of Polaris was Lockheed Missiles and Space Company (now Lockheed Martin). The Polaris program started development in 1956. , the first US missile submarine, successfully launched the first Polaris missile from a submerged submarine on July 20, 1960. The A-2 version of the Polaris missile was essentially an upgraded A-1, and it entered service in late 1961. It was fitted on a total of 13 submarines and served until June 1974.(1). Ongoing problems with the W-47 warhead, especially with its mechanical arming and safing equipment, led to large numbers of the missiles being recalled for modifications, and the U.S. Navy sought a replacement with either a larger yield or equivalent destructive power. The result was the W-58 warhead used in a "cluster" of three warheads for the Polaris A-3, the final model of the Polaris missile.
 
 One of the initial problems the Navy faced in creating an SLBM was that the sea moves, while a launch platform on land does not. Waves and swells rocking the boat or submarine, as well as possible flexing of the ship's hull, had to be taken into account to properly aim the missile.
 
@@ -67,12 +67,10 @@ A predecessor to the GPS satellite navigation system, the Transit system (later 
 
 Polaris A-3
 
-Vasters_IMG_2573_(9124906839)_(2).jpg This missile replaced the earlier A-1 and A-2 models in the US Navy, and also equipped the British Polaris force. The A-3 had a range extended to and a new weapon bay housing three Mk 2 re-entry vehicles (ReB or Re-Entry Body in US Navy and British usage); and the new W-58 warhead of 200 kt yield. This arrangement was originally described as a "cluster warhead" but was replaced with the term Multiple Re-Entry Vehicle (MRV). The three warheads, also known as "bomblets", were spread out in a "shotgun" like pattern above a single target and were not independently targetable (such as a MIRV missile is). The three warheads were stated to be equivalent in destructive power to a single one-megaton warhead due to their spread out pattern on the target. The first Polaris submarine outfitted with MRV A-3's was the USS _Daniel Webster_ in 1964[36]. Later the Polaris A-3 missiles (but not the ReBs) were also given limited hardening to protect the missile electronics against nuclear electromagnetic pulse effects while in the boost phase. This was known as the A-3T ("Topsy") and was the final production model.
+This missile replaced the earlier A-1 and A-2 models in the US Navy, and also equipped the British Polaris force. The A-3 had a range extended to and a new weapon bay housing three Mk 2 re-entry vehicles (ReB or Re-Entry Body in US Navy and British usage); and the new W-58 warhead of 200 kt yield. This arrangement was originally described as a "cluster warhead" but was replaced with the term Multiple Re-Entry Vehicle (MRV). The three warheads, also known as "bomblets", were spread out in a "shotgun" like pattern above a single target and were not independently targetable (such as a MIRV missile is). The three warheads were stated to be equivalent in destructive power to a single one-megaton warhead due to their spread out pattern on the target. The first Polaris submarine outfitted with MRV A-3's was the USS _Daniel Webster_ in 1964[36]. Later the Polaris A-3 missiles (but not the ReBs) were also given limited hardening to protect the missile electronics against nuclear electromagnetic pulse effects while in the boost phase. This was known as the A-3T ("Topsy") and was the final production model.
 
 
 Polaris A-1
-
-Polaris-a1.jpg
 
 The initial test model of the Polaris was referred to as the AX series and made its maiden flight from Cape Canaveral on September 24, 1958. The missile failed to perform its pitch and roll maneuver and instead just flew straight up, however the flight was considered a partial success (at that time, "partial success" was used for any missile test that returned usable data). The next flight on October 15 failed spectacularly when the second stage ignited on the pad and took off by itself. Range Safety blew up the errant rocket while the first stage sat on the pad and burned. The third and fourth tests (December 30 and January 9) had problems due to overheating in the boattail section. This necessitated adding extra shielding and insulation to wiring and other components. When the final AX flight was conducted a year after the program began, 17 Polaris missiles had been flown of which five met all of their test objectives.
 
@@ -87,7 +85,7 @@ The two stages were both steered by thrust vectoring. Inertial navigation guided
 
 Strategic role
 
-USS_Proteus_USS_Partick_Henry_HolyLoch_1961.jpeg, Scotland, in 1961.]] The Polaris A-1 missile was developed to complement the limited number of medium-range systems deployed throughout Europe. As those systems lacked the range to attack major Soviet targets, Polaris was developed to increase the level of nuclear deterrence. At this time there was little threat of counterforce strikes, as few systems had the accuracy to destroy missile systems. The primary advantages of ballistic missile submarines was their ability to launch submerged, which offered improved survivability for the submarine while also (like their Regulus predecessors) keeping shorter ranged systems within range.
+, Scotland, in 1961.]] The Polaris A-1 missile was developed to complement the limited number of medium-range systems deployed throughout Europe. As those systems lacked the range to attack major Soviet targets, Polaris was developed to increase the level of nuclear deterrence. At this time there was little threat of counterforce strikes, as few systems had the accuracy to destroy missile systems. The primary advantages of ballistic missile submarines was their ability to launch submerged, which offered improved survivability for the submarine while also (like their Regulus predecessors) keeping shorter ranged systems within range.
 
 The USN had forward-basing arrangements for its Atlantic-based Polaris fleet with both the United Kingdom and Spain, permitting the use of bases at the Holy Loch in Scotland (established in 1961) and at Naval Station Rota (Polaris base established 1964) in the Bay of Cadiz. The forward deployment bases were much closer to patrol areas than U.S. East Coast bases, avoiding the necessity for lengthy transit times. In the Pacific, a Polaris base was also established at Guam in 1964. The Regulus missile program was deactivated with the advent of Polaris in the Pacific. The forward-basing arrangement was continued when Poseidon replaced Polaris, starting in 1972, in what by then were the 31 Atlantic Fleet SSBNs. The 10 older SSBNs that could not use Poseidon were assigned to the Pacific Fleet in the 1970s. Polaris was not accurate enough to destroy hardened targets, but would have been effective against dispersed surface targets, such as airfields, radar and SAM sites, as well as military and industrial centers of strategic importance. The military authorities, however, regarded Polaris as but one part of a nuclear triad including ICBMs and bombers, each with its own function. The task allotted to Polaris of 'taking out' peripheral defenses was well-suited to its characteristics and limitations.
 
@@ -126,11 +124,9 @@ When the STARS program was started in 1985 it was perceived that there would be 
 
 British Polaris
 
-PolarisMissileIWMLondon.jpg, London]]
+, London]]
 
 From the early days of the Polaris program, American senators and naval officers suggested that the United Kingdom might use Polaris. In 1957 Chief of Naval Operations Arleigh Burke and First Sea Lord Louis Mountbatten began corresponding on the project. After the cancellations of the Blue Streak and Skybolt missiles in the 1960s, under the 1962 Nassau Agreement that emerged from meetings between Harold Macmillan and John F. Kennedy, the United States would supply Britain with Polaris missiles, launch tubes, ReBs, and the fire-control systems. Britain would make its own warheads and initially proposed to build five ballistic missile submarines, later reduced to four by the incoming Labour government of Harold Wilson, with 16 missiles to be carried on each boat. The Nassau Agreement also featured very specific wording. The intention of wording the agreement in this manner was to make it intentionally opaque. The sale of the Polaris was malleable in how an individual country could interpret it due to the diction choices taken in the Nassau Agreement. For the United States of America, the wording allowed for the sale to fall under the scope of NATO's deterrence powers. On the other hand, for the British, the sale could be viewed as a solely British deterrent.[42] The Polaris Sales Agreement was signed on April 6, 1963.
-
-Polarisout.jpg
 
 In return, the British agreed to assign control over their Polaris missile targeting to the SACEUR (Supreme Allied Commander, Europe), with the provision that in a national emergency when unsupported by the NATO allies, the targeting, permission to fire, and firing of those Polaris missiles would reside with the British national authorities. Nevertheless, the consent of the British Prime Minister is and has been always required for the use of British nuclear weapons, including SLBMs.
 
@@ -140,7 +136,7 @@ Polaris was the largest project in the Royal Navy's peacetime history. Although 
 
 Chevaline
 
-Polaris_missile_launch_from_HMS_Revenge_(S27)_1986.JPEG The original U.S. Navy Polaris had not been designed to penetrate anti-ballistic missile (ABM) defenses, but the Royal Navy had to ensure that its small Polaris force operating alone, and often with only one submarine on deterrent patrol, could penetrate the ABM screen around Moscow. Britain's submarines featured the Polaris A3T missiles, a modification to the model of the Polaris used by the U.S. from 1968 to 1972. Similar concerns were present in the U.S. as well, resulting in a new American defense program.[44]
+The original U.S. Navy Polaris had not been designed to penetrate anti-ballistic missile (ABM) defenses, but the Royal Navy had to ensure that its small Polaris force operating alone, and often with only one submarine on deterrent patrol, could penetrate the ABM screen around Moscow. Britain's submarines featured the Polaris A3T missiles, a modification to the model of the Polaris used by the U.S. from 1968 to 1972. Similar concerns were present in the U.S. as well, resulting in a new American defense program.[44]
 
 The program became known as Antelope, and its purpose was to alter the Polaris. Various aspects of the Polaris, such as increasing deployment efficiency and creating ways to improve the penetrative power were specific items considered in the tests conducted during the Antelope program. The British's uncertainty with their missiles led to the examination of the Antelope program. The assessments of Antelope occurred at Aldermaston. Evidence from the evaluation of Antelope led to the British decision to undertake their program following that of the United States.[45]
 
@@ -178,8 +174,6 @@ The , launched in 1969, was also "fitted for but not with" four Polaris missile 
 
 
 Operators
-
-UGM-27_operators.png
 
 -   Royal Navy
 

@@ -5,7 +5,7 @@ In the periodic table, meitnerium is a d-block transactinide element. It is a me
 
 History
 
-Lise_Meitner_(1878-1968),_lecturing_at_Catholic_University,_Washington,_D.C.,_1946.jpg, one of the discoverers of nuclear fission.]]
+, one of the discoverers of nuclear fission.]]
 
 Discovery
 
@@ -17,7 +17,7 @@ This work was confirmed three years later at the Joint Institute for Nuclear Res
 
 Naming
 
-Bohrium_hassium_meitnerium_ceremony.jpg Using Mendeleev's nomenclature for unnamed and undiscovered elements, meitnerium should be known as _eka-iridium_. In 1979, during the Transfermium Wars (but before the synthesis of meitnerium), IUPAC published recommendations according to which the element was to be called _unnilennium_ (with the corresponding symbol of _Une_),[4] a systematic element name as a placeholder, until the element was discovered (and the discovery then confirmed) and a permanent name was decided on. Although widely used in the chemical community on all levels, from chemistry classrooms to advanced textbooks, the recommendations were mostly ignored among scientists in the field, who either called it "element 109", with the symbol of _E109_, _(109)_ or even simply _109_, or used the proposed name "meitnerium".[5]
+Using Mendeleev's nomenclature for unnamed and undiscovered elements, meitnerium should be known as _eka-iridium_. In 1979, during the Transfermium Wars (but before the synthesis of meitnerium), IUPAC published recommendations according to which the element was to be called _unnilennium_ (with the corresponding symbol of _Une_),[4] a systematic element name as a placeholder, until the element was discovered (and the discovery then confirmed) and a permanent name was decided on. Although widely used in the chemical community on all levels, from chemistry classrooms to advanced textbooks, the recommendations were mostly ignored among scientists in the field, who either called it "element 109", with the symbol of _E109_, _(109)_ or even simply _109_, or used the proposed name "meitnerium".[5]
 
 The naming of meitnerium was discussed in the element naming controversy regarding the names of elements 104 to 109, but _meitnerium_ was the only proposal and thus was never disputed.[6][7] The name _meitnerium_ (Mt) was suggested by the GSI team in September 1992 in honor of the Austrian physicist Lise Meitner, a co-discoverer of protactinium (with Otto Hahn),[8][9][10][11][12] and one of the discoverers of nuclear fission.[13] In 1994 the name was recommended by IUPAC,[14] and was officially adopted in 1997.[15] It is thus the only element named specifically after a non-mythological woman (curium being named for both Pierre and Marie Curie).[16]
 

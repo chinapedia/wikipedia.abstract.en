@@ -40,7 +40,7 @@ There were many different Molokan movements including the "Constants", the "Jump
 
 Constant Molokans and Molokan Jumpers
 
-Fioletovo5_(6_sept_2008).jpg, Armenia]] The Russian term "constant" (invariable, steadfast, unchanged, original : _postoyanniye_ : постоянние) applied to the _Molokans_ has been used with two different intentions. By original _Molokans_ who either refused to be evangelized by Protestant denominations or insisted that they will retain their faith unchanged by the "Jumper" revivalist movement in the 1830s. They originally constituted the by far largest segment of Molokanism. In 1833, a schism took place within the Molokan faith. This event was framed by collective cataclysms of disease, famine, and persecution.[8][9] A portion of the Molokans during this time began to experience a charismatic outpouring of the Holy Spirit,[10] similar to later Pentecostal faiths. Eventually this sect evolved into what is known today as the Molokan Jumpers.[11] The old Molokans were termed _Constants_ (Postoyaniye), and the newly evolved Molokans "Jumpers" (_Pryguny_) also called _Skakuny_ (Leapers). The Molokan _Jumpers_ believed they were visited by a manifestation of the Holy Spirit, and this new smaller Molokan sect began a revival with intense zeal, reporting miracles that purportedly rivaled those of Christ's apostles.
+, Armenia]] The Russian term "constant" (invariable, steadfast, unchanged, original : _postoyanniye_ : постоянние) applied to the _Molokans_ has been used with two different intentions. By original _Molokans_ who either refused to be evangelized by Protestant denominations or insisted that they will retain their faith unchanged by the "Jumper" revivalist movement in the 1830s. They originally constituted the by far largest segment of Molokanism. In 1833, a schism took place within the Molokan faith. This event was framed by collective cataclysms of disease, famine, and persecution.[8][9] A portion of the Molokans during this time began to experience a charismatic outpouring of the Holy Spirit,[10] similar to later Pentecostal faiths. Eventually this sect evolved into what is known today as the Molokan Jumpers.[11] The old Molokans were termed _Constants_ (Postoyaniye), and the newly evolved Molokans "Jumpers" (_Pryguny_) also called _Skakuny_ (Leapers). The Molokan _Jumpers_ believed they were visited by a manifestation of the Holy Spirit, and this new smaller Molokan sect began a revival with intense zeal, reporting miracles that purportedly rivaled those of Christ's apostles.
 
 Seeds of exodus
 
@@ -50,7 +50,7 @@ In Los Angeles, a small number of the Molokan Jumpers joined the development of 
 
 Diaspora
 
-_Glendale-The_first_Russian_Molokans_Church-1950.JPG About 20,000 people identify as Molokans, at least ethnically, in the former Soviet Union. There are approximately 200 Molokan churches, 150 of them in Russia and Azerbaijan. They also lived in the North Caucasus, Southern Ukraine, Armenia, and Central Asia, where ancestors had been exiled long ago.
+About 20,000 people identify as Molokans, at least ethnically, in the former Soviet Union. There are approximately 200 Molokan churches, 150 of them in Russia and Azerbaijan. They also lived in the North Caucasus, Southern Ukraine, Armenia, and Central Asia, where ancestors had been exiled long ago.
 
 Approximately 25,000 Molokans reside in the United States, of whom about 5,000 "ethnically" identify as Molokans. The majority live in or near Los Angeles, particularly in East Los Angeles, Boyle Heights, and Commerce.[12]
 

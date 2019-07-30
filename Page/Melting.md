@@ -1,5 +1,3 @@
-Melting_icecubes.gif
-
 MELTING, or fusion, is a physical process that results in the phase transition of a substance from a solid to a liquid. This occurs when the internal energy of the solid increases, typically by the application of heat or pressure, which increases the substance's temperature to the melting point. At the melting point, the ordering of ions or molecules in the solid breaks down to a less ordered state, and the solid MELTS to become a liquid.
 
 Substances in the molten state generally have reduced viscosity as the temperature increases. An exception to this principle is the element sulfur, whose viscosity increases to a point due to polymerization and then decreases with higher temperatures in its molten state.[1]

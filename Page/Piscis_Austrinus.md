@@ -5,7 +5,7 @@ Piscis Austrinus was one of the 48 constellations listed by the 2nd-century astr
 
 Origins
 
-Sidney_Hall_-_Urania's_Mirror_-_Aquarius,_Piscis_Australis_&_Ballon_Aerostatique.jpg'' 's 1825 depiction of Aquarius. Next to it is the obsolete constellation Ballon Aerostatique.]]
+'' 's 1825 depiction of Aquarius. Next to it is the obsolete constellation Ballon Aerostatique.]]
 
 Pisces Austrinus originated with the Babylonian constellation simply known as the Fish (MUL.KU).[1][2] Professor of astronomy Bradley Schaefer has proposed that ancient observers must have been able to see as far south as Mu Piscis Austrini to define a pattern that looked like an fish.[3]
 
@@ -20,8 +20,6 @@ Piscis Austrinus is a constellation bordered by Capricornus to the northwest, Mi
 
 
 Features
-
-PiscisAustrinusCC.jpg
 
 Stars
 

@@ -1,4 +1,4 @@
-Labour_productivity_levels_in_Europe._OECD,_2015.png level of Latvia is one of the lowest in EU. OECD, 2017[1]]]
+level of Latvia is one of the lowest in EU. OECD, 2017[1]]]
 
 The ECONOMY OF LATVIA is an open economy in Northern Europe and is part of the European Union's (EU) single market. Latvia is a member of the World Trade Organization (WTO) since 1999,[2] a member of the European Union since 2004, a member of the Eurozone since 2014 and a member of the OECD since 2016.[3] Latvia is ranked the 14th in the world by the Ease of Doing Business Index prepared by the World Bank Group,[4] According to the Human Development Report 2011, Latvia belongs to the group of very high human development countries.[5] Due to its geographical location, transit services are highly developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronic devices.
 
@@ -45,7 +45,7 @@ Foreign investment in Latvia is still modest compared with the levels in north-c
 
 Employment
 
-Employed-unemployed in Latvia in workforce 15–74 years old (thousand people) 1996-2017 and chain-linked GDP reference year 2010 (bln EUR) Data: Statistics Latvia [[File:Latvia average wage, 2017.svg|thumb|600px|
+[[File:Latvia average wage, 2017.svg|thumb|600px|
 
 Average monthly gross wages in cities under state jurisdiction and counties (in euro) 2017. Excluding private sector enterprises with number of employees < 50. Data: Central Statistical Bureau of Latvia ]]
 

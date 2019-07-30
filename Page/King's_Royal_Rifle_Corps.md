@@ -5,7 +5,7 @@ History
 
 French and Indian War
 
-The King's Royal Rifle Corps was raised in the American colonies in 1756 as the 62ND (ROYAL AMERICAN) REGIMENT to defend the thirteen colonies against attack by the French and their Native American allies. After Braddock's defeat in 1755, royal approval for a new regiment, as well as funds, were granted by parliament just before Christmas 1755 – hence the regiment's traditional birthday of Christmas Day. However, parliamentary delays meant that it was 4 March 1756 before a special act of parliament created four battalions of 1,000 men each to include foreigners for service in the Americas. Johnson_saving_Dieskau.jpg's depiction of Sir William Johnson sparing Lord Dieskau's life after the Battle of Lake George. (Reportedly, the uniforms of soldiers in the background right are of the Royal Americans)]] 60th_Royal_American_Regiment.jpg
+The King's Royal Rifle Corps was raised in the American colonies in 1756 as the 62ND (ROYAL AMERICAN) REGIMENT to defend the thirteen colonies against attack by the French and their Native American allies. After Braddock's defeat in 1755, royal approval for a new regiment, as well as funds, were granted by parliament just before Christmas 1755 – hence the regiment's traditional birthday of Christmas Day. However, parliamentary delays meant that it was 4 March 1756 before a special act of parliament created four battalions of 1,000 men each to include foreigners for service in the Americas. 's depiction of Sir William Johnson sparing Lord Dieskau's life after the Battle of Lake George. (Reportedly, the uniforms of soldiers in the background right are of the Royal Americans)]]
 
 A regimental history compiled in 1879 states that, in November 1755, Parliament voted the sum of £81,000 for the purpose of raising a regiment of four battalions, each one thousand strong, for service in British North America. To provide experienced personnel, Parliament passed the Commissions to Foreign Protestants Act 1756 (29 Geo. 2 c. 5)[1] The Earl of Loudoun, who as commander-in-chief of the Forces in North America, was appointed colonel-in-chief of the regiment. About fifty officers' commissions were given to Germans and Swiss, and none were allowed to rise above the rank of lieutenant-colonel.
 
@@ -33,7 +33,7 @@ A 7th battalion was raised specifically for service in the American War of 1812.
 
 Anglo-Egyptian War and Second Boer War
 
-King's_Royal_Rifle_Corps_by_Harry_Payne.JPG (1858–1927)]] 7th_Kings_Royal_Rifles_Barnet.jpg in 1900. This battalion became 6th (Special Reserve), KRRC in 1908.]] After the Napoleonic Wars, the regiment received a new title: first, in 1815, its name was changed to THE DUKE OF YORK'S OWN RIFLE CORPS and then, in 1830, to the KING'S ROYAL RIFLE CORPS (KRRC). In 1858, the Rifle Depot at Winchester was made their headquarters. The regiment served in the Anglo-Egyptian War in 1882. During the rest of the 1800s, the unit also was active in China, Canada (Wolseley expedition), Afghanistan, India, Burma and South Africa. The regiment was deployed during the Second Boer War from the outset playing a key role in the first battle at Talana Hill.[11] Two officers from the regiment were awarded the Victoria Cross; Lieutenant Frederick Hugh Sherston Roberts[12] and Lieutenant Llewelyn Alberic Emilius Price-Davies.[13] Private Frederick Corbett also received the Victoria Cross for his action at Kafr Dowar, Egypt, on 5 August 1882; his VC was later rescinded when he was convicted of embezzlement, theft, and being absent without leave.[14]
+(1858–1927)]] in 1900. This battalion became 6th (Special Reserve), KRRC in 1908.]] After the Napoleonic Wars, the regiment received a new title: first, in 1815, its name was changed to THE DUKE OF YORK'S OWN RIFLE CORPS and then, in 1830, to the KING'S ROYAL RIFLE CORPS (KRRC). In 1858, the Rifle Depot at Winchester was made their headquarters. The regiment served in the Anglo-Egyptian War in 1882. During the rest of the 1800s, the unit also was active in China, Canada (Wolseley expedition), Afghanistan, India, Burma and South Africa. The regiment was deployed during the Second Boer War from the outset playing a key role in the first battle at Talana Hill.[11] Two officers from the regiment were awarded the Victoria Cross; Lieutenant Frederick Hugh Sherston Roberts[12] and Lieutenant Llewelyn Alberic Emilius Price-Davies.[13] Private Frederick Corbett also received the Victoria Cross for his action at Kafr Dowar, Egypt, on 5 August 1882; his VC was later rescinded when he was convicted of embezzlement, theft, and being absent without leave.[14]
 
 Following the end of the war in South Africa, the 1st battalion was transferred to Malta, where it arrived in October 1902.[15]
 
@@ -41,7 +41,7 @@ In 1908, the Volunteers and Militia were reorganised nationally, with the former
 
 First World War
 
-WilliamHenryLaverty.jpg, Winchester]] King’s_Royal_Rifle_Corps_Memorial,_Winchester.jpg]]
+, Winchester]] ]]
 
 Regular Army
 
@@ -49,7 +49,7 @@ The 1st Battalion landed at Rouen as part of the 6th Brigade in the 2nd Division
 
 The 2nd Battalion landed at Le Havre as part of the 2nd Brigade in the 1st Division in August 1914 for service on the Western Front[21] and saw action at the Battle of Aubers Ridge in May 1915.[22]
 
-The_Official_Visits_To_the_Western_Front,_1914-1918_Q8991.jpg, inspecting men of the 2nd Battalion, King's Royal Rifle Corps at Le Buissiere, near Bruay, 1 July 1918.]]
+, inspecting men of the 2nd Battalion, King's Royal Rifle Corps at Le Buissiere, near Bruay, 1 July 1918.]]
 
 The 3rd Battalion landed at Le Havre as part of the 80th Brigade in the 27th Division in December 1914 for service on the Western Front[23] and saw action at the Second Battle of Ypres in April 1915.[24]
 
@@ -85,7 +85,7 @@ After 1918, the unit returned to garrison duties in India, Palestine and Ireland
 
 Second World War
 
-The_British_Army_in_Italy_1945_NA21882.jpg of the 1st Battalion, King's Royal Rifle Corps set up beside a farm building, Italy, 27 January 1945.]]
+of the 1st Battalion, King's Royal Rifle Corps set up beside a farm building, Italy, 27 January 1945.]]
 
 The 1st Battalion, KRRC, commanded initially by Lieutenant Colonel William Gott, was deployed to North Africa upon war's outbreak and saw action as part of the pivot group within the 7th Armoured Division at the Battle of Sidi Rezegh in November 1941, the First Battle of El Alamein in July 1942 and the Second Battle of El Alamein in October 1942 during the Western Desert Campaign. Rifleman John Beeley was awarded a posthumous Victoria Cross for his actions during Operation Crusader in North Africa in late 1941.[48] The battalion, now part of the 2nd Armoured Brigade of the 1st Armoured Division, was then engaged in action throughout the final stages of the Tunisian Campaign. The battalion, now commanded by Lieutenant Colonel Edward Williams, served in the Italian Campaign then with the independent 9th Armoured Brigade and finally the 6th Armoured Division's 61st Infantry Brigade.[49]
 

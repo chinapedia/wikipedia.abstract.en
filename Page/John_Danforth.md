@@ -14,7 +14,7 @@ Before Danforth entered Republican politics, Missouri was a reliably Democratic 
 
 Missouri Attorney General
 
-Portrait_of_John_C._Danforth.jpg Danforth was elected in 1968 at the age of 32 to be Missouri Attorney General, the first Republican elected statewide in 40 years. On his staff of assistant attorneys general were Kit Bond, John Ashcroft, and Clarence Thomas. Danforth was reelected in 1972.
+Danforth was elected in 1968 at the age of 32 to be Missouri Attorney General, the first Republican elected statewide in 40 years. On his staff of assistant attorneys general were Kit Bond, John Ashcroft, and Clarence Thomas. Danforth was reelected in 1972.
 
 United States Senate
 
@@ -42,14 +42,14 @@ In 1988, Danforth was vetted by the campaign of George H.W. Bush as a potential 
 
 UN Ambassador
 
-John_Danforth_being_sworn_in_by_Clarence_Thomas.jpg Clarence Thomas, his former assistant]]
+Clarence Thomas, his former assistant]]
 
 On July 1, 2004, Danforth was sworn in as the United States Ambassador to the United Nations, succeeding John Negroponte, who left the post after becoming the U.S. Ambassador to Iraq in June. Danforth is best remembered for attempts to bring peace to the Sudan but stayed at the UN for just six months. Danforth was mentioned as a successor to Secretary of State Colin Powell. Six days after the announcement that Condoleezza Rice was going to take the position Danforth submitted his resignation on November 22, 2004, effective January 20, 2005. Danforth's resignation letter[7] said, "Forty-seven years ago, I married the girl of my dreams, and, at this point in my life, what is most important to me is to spend more time with her."[8]
 
 
 Post-Senate career
 
-Danforthreport-final.pdf, John Danforth, Independent Counsel, November 8, 2000. Federal government document.]]
+, John Danforth, Independent Counsel, November 8, 2000. Federal government document.]]
 
 In 1999, Democratic U.S. Attorney General Janet Reno appointed Danforth to lead an investigation into the FBI's role in the 1993 Waco Siege. Danforth appointed Democratic U.S. Attorney Edward L. Dowd Jr. for the Eastern District of Missouri as his deputy special counsel for Waco. He also hired Bryan Cave law firm partner Thomas A. Schweich as his chief of staff. Assistant U.S. Attorney James G. Martin served as Danforth's director of investigative operations for what became known as the "Waco Investigation" or "Danforth Report."
 

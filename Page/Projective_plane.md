@@ -1,4 +1,4 @@
-Railroad-Tracks-Perspective.jpg "at infinity". In a projective plane this is actually true.]] In mathematics, a PROJECTIVE PLANE is a geometric structure that extends the concept of a plane. In the ordinary Euclidean plane, two lines typically intersect in a single point, but there are some pairs of lines (namely, parallel lines) that do not intersect. A projective plane can be thought of as an ordinary plane equipped with additional "points at infinity" where parallel lines intersect. Thus _any_ two distinct lines in a projective plane intersect in one and only one point.
+"at infinity". In a projective plane this is actually true.]] In mathematics, a PROJECTIVE PLANE is a geometric structure that extends the concept of a plane. In the ordinary Euclidean plane, two lines typically intersect in a single point, but there are some pairs of lines (namely, parallel lines) that do not intersect. A projective plane can be thought of as an ordinary plane equipped with additional "points at infinity" where parallel lines intersect. Thus _any_ two distinct lines in a projective plane intersect in one and only one point.
 
 Renaissance artists, in developing the techniques of drawing in perspective, laid the groundwork for this mathematical topic. The archetypical example is the real projective plane, also known as the EXTENDED EUCLIDEAN PLANE.[1] This example, in slightly different guises, is important in algebraic geometry, topology and projective geometry where it may be denoted variously by , RP², or P₂(R), among other notations. There are many other projective planes, both infinite, such as the complex projective plane, and finite, such as the Fano plane.
 
@@ -29,7 +29,7 @@ The extended structure is a projective plane and is called the EXTENDED EUCLIDEA
 
 Projective Moulton plane
 
-Moulton_plane2.svg The points of the Moulton plane are the points of the Euclidean plane, with coordinates in the usual way. To create the Moulton plane from the Euclidean plane some of the lines are redefined. That is, some of their point sets will be changed, but other lines will remain unchanged. Redefine all the lines with negative slopes so that they look like "bent" lines, meaning that these lines keep their points with negative _x_-coordinates, but the rest of their points are replaced with the points of the line with the same _y_-intercept but twice the slope wherever their _x_-coordinate is positive.
+The points of the Moulton plane are the points of the Euclidean plane, with coordinates in the usual way. To create the Moulton plane from the Euclidean plane some of the lines are redefined. That is, some of their point sets will be changed, but other lines will remain unchanged. Redefine all the lines with negative slopes so that they look like "bent" lines, meaning that these lines keep their points with negative _x_-coordinates, but the rest of their points are replaced with the points of the line with the same _y_-intercept but twice the slope wherever their _x_-coordinate is positive.
 
 The Moulton plane has parallel classes of lines and is an affine plane. It can be projectivized, as in the previous example, to obtain the PROJECTIVE MOULTON PLANE. Desargues' theorem is not a valid theorem in either the Moulton plane or the projective Moulton plane.
 
@@ -85,8 +85,6 @@ The quaternionic projective plane HP² is also of independent interest.
 Finite field planes
 
 By Wedderburn's Theorem, a finite division ring must be commutative and so a field. Thus, the finite examples of this construction are known as "field planes". Taking _K_ to be the finite field of _q_ = _p_^(_n_) elements with prime _p_ produces a projective plane of _q_² + _q_ + 1 points. The field planes are usually denoted by PG(2,_q_) where PG stands for projective geometry, the "2" is the dimension and _q_ is called the ORDER of the plane (it is one less than the number of points on any line). The Fano plane, discussed below, is denoted by PG(2,2). The third example above is the projective plane PG(2,3).
-
-fano_plane.svg
 
 The Fano plane is the projective plane arising from the field of two elements. It is the smallest projective plane, with only seven points and seven lines. In the figure at right, the seven points are shown as small black balls, and the seven lines are shown as six line segments and a circle. However, one could equivalently consider the balls to be the "lines" and the line segments and circle to be the "points" – this is an example of duality in the projective plane: if the lines and points are interchanged, the result is still a projective plane (see below). A permutation of the seven points that carries collinear points (points on the same line) to collinear points is called a _collineation_ or _symmetry_ of the plane. The collineations of a geometry form a group under composition, and for the Fano plane this group (PΓL(3,2) = PGL(3,2)) has 168 elements.
 
@@ -222,8 +220,6 @@ For example, for _N_=2 we can use the symbols {0,1} associated with the finite f
 
 
 Degenerate planes
-
-Degenerate_planes_wec.svg
 
 Degenerate planes do not fulfill the third condition in the definition of a projective plane. They are not structurally complex enough to be interesting in their own right, but from time to time they arise as special cases in general arguments. There are seven degenerate planes according to . They are:
 

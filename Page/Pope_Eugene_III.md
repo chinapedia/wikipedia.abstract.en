@@ -29,8 +29,6 @@ Despite these criticisms, Eugene seems to have borne no resentment to Bernard[15
 
 Pontificate
 
-Consécration_par_EUgène_III.jpg
-
 During nearly the whole of his pontificate, Eugene III was unable to reside in Rome. Hardly had he left the city to be consecrated in the monastery of Farfa (about 40 km north of Rome), when the citizens, under the influence of Arnold of Brescia, the great opponent of the Pope's temporal power, established the old Roman constitution, the Commune of Rome and elected Giordano Pierleoni to be _Patrician_. Eugene III appealed for help to Tivoli, Italy, to other cities at feud with Rome, and to King Roger II of Sicily (who sent his general Robert of Selby), and with their aid was successful in making such conditions with the Roman citizens as enabled him for a time to hold the semblance of authority in his capital. But as he would not agree to a treacherous compact against Tivoli, he was compelled to leave the city in March 1146. He stayed for some time at Viterbo, and then at Siena, but went ultimately to France.
 
 On hearing of the fall of Edessa (now the modern day city of Urfa, the first of the Crusader states established in the Levant) to the Turks, which occurred in 1144, he had, in December 1145, addressed the bull _Quantum praedecessores_ to Louis VII of France, calling on him to take part in another crusade. At a great diet held at Speyer in 1146, King of the Romans Conrad III and many of his nobles were also incited to dedicate themselves to the crusade by the eloquence of Bernard who preached to an enormous crowd at Vézelay[16].
@@ -45,7 +43,7 @@ There he met the returning Crusader king Louis VII of France and his wife Eleano
 
 Eugene stayed at Tusculum until 7 November. At the end of November 1149, through the aid of the King of Sicily, he was again able to enter Rome, but the atmosphere of open hostility from the Comune soon compelled him to retire (June 1150).
 
-Mort_Eugéne_III.jpg The Emperor Frederick I Barbarossa had promised to aid him against his revolted subjects, but this was not to be: Eugene III died at Tivoli on 8 July 1153. Though the citizens of Rome were jealous of the efforts of Eugene III to assert his temporal authority, they were always ready to recognize him as their spiritual lord. Besides that, they deeply reverenced his personal character. Until the day of his death he continued to wear, under his robes, the coarse habit of a Cistercian monk.[27] Accordingly, he was buried in the Vatican with every mark of respect, and his tomb soon acquired an extraordinary fame for miraculous cures.
+The Emperor Frederick I Barbarossa had promised to aid him against his revolted subjects, but this was not to be: Eugene III died at Tivoli on 8 July 1153. Though the citizens of Rome were jealous of the efforts of Eugene III to assert his temporal authority, they were always ready to recognize him as their spiritual lord. Besides that, they deeply reverenced his personal character. Until the day of his death he continued to wear, under his robes, the coarse habit of a Cistercian monk.[27] Accordingly, he was buried in the Vatican with every mark of respect, and his tomb soon acquired an extraordinary fame for miraculous cures.
 
 
 Beatification

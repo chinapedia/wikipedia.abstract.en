@@ -34,23 +34,21 @@ Located in the southern part of the Korean Peninsula, Samhan refers to the three
 
 Three Kingdoms
 
-7th_century_painting_of_Koreans.png
-
 The Three Kingdoms of Korea consisted of Goguryeo, Silla, and Baekje. Silla and Baekje controlled the southern half of the Korean Peninsula, maintaining the former Samhan territories, while Goguryeo controlled the northern half of the Korean Peninsula, Manchuria and the Liaodong Peninsula, uniting Buyeo, Okjeo, Dongye, and other states in the former Gojoseon territories.[20]
 
 Goguryeo was a highly militaristic state;[21][22] it was a powerful empire and one of the great powers in East Asia,[23][24][25][26] reaching its zenith in the 5th century when its territories expanded to encompass most of Manchuria to the north, parts of Inner Mongolia to the west,[27] parts of Russia to the east,[28] and the Seoul region to the south.[29] Goguryeo experienced a golden age under Gwanggaeto the Great and his son Jangsu,[30][31][32][33] who both subdued Baekje and Silla during their times, achieving a brief unification of the Three Kingdoms of Korea and becoming the most dominant power on the Korean Peninsula.[34][35] In addition to contesting for control of the Korean Peninsula, Goguryeo had many military conflicts with various Chinese dynasties,[36] most notably the Goguryeo-Sui War, in which Goguryeo defeated a huge force said to number over a million men.[37][38][39][40][41] In 642, the powerful general Yeon Gaesomun led a coup and gained complete control over Goguryeo. In response, Emperor Tang Taizong of China led a campaign against Goguryeo, but was defeated and retreated.[42][43] After the death of Tang Taizong, his son Emperor Tang Gaozong allied with the Korean kingdom of Silla and invaded Goguryeo again, but was unable to overcome Goguryeo's stalwart defenses and was defeated in 662.[44][45] However, Yeon Gaesomun died of a natural cause in 666 and Goguryeo was thrown into chaos and weakened by a succession struggle among his sons and younger brother, with his eldest son defecting to Tang and his younger brother defecting to Silla.[46][47] The Tang-Silla alliance finally conquered Goguryeo in 668. After the collapse of Goguryeo, Tang and Silla ended their alliance and fought over control of the Korean Peninsula. Silla succeeded in gaining control over most of the Korean Peninsula, while Tang gained control over Goguryeo's northern territories. However, 30 years after the fall of Goguryeo, a Goguryeo general by the name of Dae Joyeong founded the Korean-Mohe state of Balhae and successfully expelled the Tang presence from much of the former Goguryeo territories.
 
-Seokguram_Buddha.JPG from the Silla era, a UNESCO World Heritage Site]]
+from the Silla era, a UNESCO World Heritage Site]]
 
 The southwestern Korean kingdom of Baekje was founded around modern-day Seoul by a Goguryeo prince, a son of the founder of Goguryeo.[48][49][50] Baekje absorbed all of the Mahan states and subjugated most of the western Korean peninsula (including the modern provinces of Gyeonggi, Chungcheong, and Jeolla, as well as parts of Hwanghae and Gangwon) to a centralised government; during the expansion of its territory, Baekje acquired Chinese culture and technology through maritime contacts with the Southern Dynasties. Baekje was a great maritime power;[51] its nautical skill, which made it the Phoenicia of East Asia, was instrumental in the dissemination of Buddhism throughout East Asia and continental culture to Japan.[52][53] Historic evidence suggests that Japanese culture, art, and language were influenced by the kingdom of Baekje and Korea itself;[54][55][56][57][58][59][60][61][62][63][64][65] Baekje also played an important role in transmitting advanced Chinese culture to the Japanese archipelago. Baekje was once a great military power on the Korean Peninsula, most notably in the 4th century during the rule of Geunchogo when its influence extended across the sea to Liaoxi and Shandong in China, taking advantage of the weakened state of Former Qin, and Kyushu in the Japanese archipelago;[66] however, Baekje was critically defeated by Gwanggaeto the Great and declined.[67]
 
-Three_Kingdoms_of_Korea_Map.png, at the end of the 5th century]] Although later records claim that Silla was the oldest of the Three Kingdoms of Korea, it is now believed to have been the last kingdom to develop. By the 2nd century, Silla existed as a large state in the southeast, occupying and influencing its neighboring city-states. In 562, Silla annexed the Gaya confederacy which was located between Baekje and Silla. The Three Kingdoms of Korea often warred with each other and Silla was often dominated by Baekje and Goguryeo. Silla was the smallest and weakest of the three, but it used cunning diplomatic means to make opportunistic pacts and alliances with the more powerful Korean kingdoms, and eventually Tang China, to its great advantage.[68][69] In 660, King Muyeol ordered his armies to attack Baekje. General Kim Yu-shin, aided by Tang forces, conquered Baekje after defeating General Gyebaek at the Battle of Hwangsanbeol. In 661, Silla and Tang attacked Goguryeo but were repelled. King Munmu, son of Muyeol and nephew of General Kim Yu-shin, launched another campaign in 667 and Goguryeo fell in the following year.
+, at the end of the 5th century]] Although later records claim that Silla was the oldest of the Three Kingdoms of Korea, it is now believed to have been the last kingdom to develop. By the 2nd century, Silla existed as a large state in the southeast, occupying and influencing its neighboring city-states. In 562, Silla annexed the Gaya confederacy which was located between Baekje and Silla. The Three Kingdoms of Korea often warred with each other and Silla was often dominated by Baekje and Goguryeo. Silla was the smallest and weakest of the three, but it used cunning diplomatic means to make opportunistic pacts and alliances with the more powerful Korean kingdoms, and eventually Tang China, to its great advantage.[68][69] In 660, King Muyeol ordered his armies to attack Baekje. General Kim Yu-shin, aided by Tang forces, conquered Baekje after defeating General Gyebaek at the Battle of Hwangsanbeol. In 661, Silla and Tang attacked Goguryeo but were repelled. King Munmu, son of Muyeol and nephew of General Kim Yu-shin, launched another campaign in 667 and Goguryeo fell in the following year.
 
 North-South States Period
 
 Beginning in the 6th century, Silla's power gradually extended across the Korean Peninsula. Silla first annexed the adjacent Gaya confederacy in 562. By the 640s, Silla formed an alliance with the Tang Dynasty of China to conquer Baekje and later Goguryeo. After conquering Baekje and Goguryeo, Silla repulsed Tang China from the Korean peninsula in 676. Even though Silla unified most of the Korean Peninsula, most of the Goguryeo territories to the north of the Korean Peninsula were ruled by Balhae. Former Goguryeo general[70][71] or chief of Sumo Mohe[72][73][74] Dae Jo-yeong led a group of Goguryeo and Mohe refugees to the Jilin and founded the kingdom of Balhae, 30 years after the collapse of Goguryeo, as the successor to Goguryeo. At its height, Balhae's territories extended from southern Manchuria down to the northern Korean peninsula. Balhae was called the "Prosperous Country in the East".[75]
 
-Unified_Silla_and_Balhae_(8th_Century)_(4261052261).jpg and Balhae in the 8th century CE]] Later Silla carried on the maritime prowess of Baekje, which acted like the Phoenicia of medieval East Asia,[76] and during the 8th and 9th centuries dominated the seas of East Asia and the trade between China, Korea and Japan, most notably during the time of Jang Bogo; in addition, Silla people made overseas communities in China on the Shandong Peninsula and the mouth of the Yangtze River.[77][78][79][80] Later Silla was a prosperous and wealthy country,[81] and its metropolitan capital of Gyeongju[82] was the fourth largest city in the world.[83][84][85][86] Later Silla was a golden age of art and culture,[87][88][89][90] as evidenced by the Hwangnyongsa, Seokguram, and Emille Bell. Buddhism flourished during this time, and many Korean Buddhists gained great fame among Chinese Buddhists[91] and contributed to Chinese Buddhism,[92] including: Woncheuk, Wonhyo, Uisang, Musang,[93][94][95][96] and Kim Gyo-gak, a Silla prince whose influence made Mount Jiuhua one of the Four Sacred Mountains of Chinese Buddhism.[97][98][99][100][101]
+and Balhae in the 8th century CE]] Later Silla carried on the maritime prowess of Baekje, which acted like the Phoenicia of medieval East Asia,[76] and during the 8th and 9th centuries dominated the seas of East Asia and the trade between China, Korea and Japan, most notably during the time of Jang Bogo; in addition, Silla people made overseas communities in China on the Shandong Peninsula and the mouth of the Yangtze River.[77][78][79][80] Later Silla was a prosperous and wealthy country,[81] and its metropolitan capital of Gyeongju[82] was the fourth largest city in the world.[83][84][85][86] Later Silla was a golden age of art and culture,[87][88][89][90] as evidenced by the Hwangnyongsa, Seokguram, and Emille Bell. Buddhism flourished during this time, and many Korean Buddhists gained great fame among Chinese Buddhists[91] and contributed to Chinese Buddhism,[92] including: Woncheuk, Wonhyo, Uisang, Musang,[93][94][95][96] and Kim Gyo-gak, a Silla prince whose influence made Mount Jiuhua one of the Four Sacred Mountains of Chinese Buddhism.[97][98][99][100][101]
 
 Later Silla fell apart in the late 9th century, giving way to the tumultuous Later Three Kingdoms period (892–935), and Balhae was destroyed by the Khitans in 926. Goryeo unified the Later Three Kingdoms and received the last crown prince and much of the ruling class of Balhae, thus bringing about a unification of the two successor nations of Goguryeo.[102]
 
@@ -60,7 +58,7 @@ Goryeo was founded in 918 and replaced Silla as the ruling dynasty of Korea. Gor
 
 During this period, laws were codified and a civil service system was introduced. Buddhism flourished and spread throughout the peninsula. The development of celadon industries flourished in the 12th and 13th centuries. The publication of the Tripitaka Koreana onto more than 80,000 wooden blocks and the invention of the world's first metal movable type in the 13th century attest to Goryeo's cultural achievements.[108][109][110][111][112][113]
 
-History_of_Korea-1374.png Goryeo had to defend frequently against attacks by nomadic empires, especially the Khitans and the Mongols. Goryeo had a hostile relationship with the Khitans, because the Khitan Empire had destroyed Balhae, also a successor state of Goguryeo. In 993, the Khitans, who had established the Liao dynasty in 907, invaded Goryeo, demanding that it make amity with them. Goryeo sent the diplomat Seo Hui to negotiate, who successfully persuaded the Khitans to let Goryeo expand to the banks of the Amnok River, citing that in the past the land belonged to Goguryeo, the predecessor of Goryeo.[114] During the Goryeo–Khitan War, the Khitan Empire invaded Korea twice more in 1009 and 1018, but was defeated.
+Goryeo had to defend frequently against attacks by nomadic empires, especially the Khitans and the Mongols. Goryeo had a hostile relationship with the Khitans, because the Khitan Empire had destroyed Balhae, also a successor state of Goguryeo. In 993, the Khitans, who had established the Liao dynasty in 907, invaded Goryeo, demanding that it make amity with them. Goryeo sent the diplomat Seo Hui to negotiate, who successfully persuaded the Khitans to let Goryeo expand to the banks of the Amnok River, citing that in the past the land belonged to Goguryeo, the predecessor of Goryeo.[114] During the Goryeo–Khitan War, the Khitan Empire invaded Korea twice more in 1009 and 1018, but was defeated.
 
 After defeating the Khitan Empire, which was the most powerful empire of its time,[115][116] Goryeo experienced a golden age that lasted a century, during which the Tripitaka Koreana was completed, and there were great developments in printing and publishing, promoting learning and dispersing knowledge on philosophy, literature, religion, and science; by 1100, there were 12 universities that produced famous scholars and scientists.[117][118]
 
@@ -70,7 +68,7 @@ In the 1350s, King Gongmin was free at last to reform the Goryeo government when
 
 Joseon dynasty
 
-경복궁_전경.jpg Palace]] Donggwol-do.jpg'']]
+Palace]] '']]
 
 In 1392, the general Yi Seong-gye overthrew the Goryeo dynasty after he staged a coup and defeated General Choe Yeong. Yi Seong-gye named his new dynasty Joseon and moved the capital from Kaesong to Hanseong (formerly Hanyang; modern-day Seoul) and built the Gyeongbokgung palace.[123] In 1394, he adopted Confucianism as the country's official ideology, resulting in much loss of power and wealth by the Buddhists. The prevailing philosophy of the Joseon dynasty was Neo-Confucianism, which was epitomized by the seonbi class, scholars who passed up positions of wealth and power to lead lives of study and integrity.
 
@@ -86,8 +84,6 @@ In the 19th century, the royal in-law families gained control of the government,
 
 Korean Empire
 
-Taegukgi.jpg
-
 Beginning in 1871, Japan began to exert more influence in Korea, forcing it out of China's traditional sphere of influence. As a result of the Sino-Japanese War (1894–95), the Qing dynasty had to give up such a position according to Article 1 of the Treaty of Shimonoseki, which was concluded between China and Japan in 1895. That same year, Empress Myeongseong of Korea was assassinated by Japanese agents.[149]
 
 In 1897, the Joseon dynasty proclaimed the Korean Empire (1897–1910). King Gojong became an emperor. During this brief period, Korea had some success in modernizing the military, economy, real property laws, education system, and various industries. Russia, Japan, France, and the United States all invested in the country and sought to influence it politically.
@@ -96,7 +92,7 @@ In 1904, the Russo-Japanese War pushed the Russians out of the fight for Korea. 
 
 Japanese occupation and Japan-Korea Annexation
 
-March_1st_movement.jpg in Pagoda Park, Seoul]]
+in Pagoda Park, Seoul]]
 
 In 1910, an already militarily occupied Korea was a forced party to the Japan-Korea Annexation Treaty. The treaty was signed by Lee Wan-Yong, who was given the General Power of Attorney by the Emperor. However, the Emperor is said to have not actually ratified the treaty according to Yi Tae-jin.[150] There is a long dispute whether this treaty was legal or illegal due to its signing under duress, threat of force and bribes.
 
@@ -112,8 +108,6 @@ Division
 
 In 1945, with the surrender of Japan, the United Nations developed plans for a trusteeship administration, the Soviet Union administering the peninsula north of the 38th parallel and the United States administering the south. The politics of the Cold War resulted in the 1948 establishment of two separate governments, North Korea and South Korea.
 
-Korea_at_night.png
-
 The aftermath of World War II left Korea partitioned along the 38th parallel, with the north under Soviet occupation and the south under US occupation supported by other allied states. Consequently, North Korea, a Soviet-style socialist republic was established in the north and South Korea; a Western-style regime, was established in the South.
 
 North Korea is a one-party state, now centred on Kim Il-sung's Juche ideology, with a centrally planned industrial economy. South Korea is a multi-party state with a capitalist market economy, alongside membership in the Organisation for Economic Co-operation and Development and the Group of Twenty. The two states have greatly diverged both culturally and economically since their partition, though they still share a common traditional culture and pre-Cold War history.
@@ -123,8 +117,6 @@ Since the 1960s, the South Korean economy has grown enormously and the economic 
 According to R.J. Rummel, forced labor, executions, and concentration camps were responsible for over one million deaths in North Korea from 1948 to 1987;[174] others have estimated 400,000 deaths in concentration camps alone.[175] Estimates based on the most recent North Korean census suggest that 240,000 to 420,000 people died as a result of the 1990s famine and that there were 600,000 to 850,000 unnatural deaths in North Korea from 1993 to 2008.[176] In South Korea, as guerrilla activities expanded, the South Korean government used strong measures against peasants, such as forcefully moving their families from guerrilla areas. According to one estimate, these measures resulted in 36,000 people killed, 11,000 people wounded, and 432,000 people displaced.[177]
 
 Korean War
-
-KoreanWar_recover_Seoul.jpg
 
 The Korean War broke out when Soviet-backed North Korea invaded South Korea, though neither side gained much territory as a result. The Korean Peninsula remained divided, the Korean Demilitarized Zone being the _de facto_ border between the two states.
 
@@ -160,7 +152,7 @@ The combined population of the Koreas is about 76 million (North Korea: 25 milli
 
 Language
 
-Hunmin_jeong-eum.jpg'', afterwards called Hangul.]]
+'', afterwards called Hangul.]]
 
 Korean is the official language of both North and South Korea, and (along with Mandarin) of Yanbian Korean Autonomous Prefecture in the Manchuria area of China. Worldwide, there are up to 80 million speakers of the Korean language. South Korea has around 50 million speakers while North Korea around 25 million. Other large groups of Korean speakers through Korean diaspora are found in China, the United States, Japan, former Soviet Union and elsewhere.
 
@@ -170,8 +162,6 @@ Modern Korean is written almost exclusively in the script of the Korean alphabet
 
 
 Culture and arts
-
-Korea_south_kangnung_kyongpodae.jpg Korean_sword_dance-Jinju_geommu-03.jpg
 
 In ancient Chinese texts, Korea is referred to as "Rivers and Mountains Embroidered on Silk" (, ) and "Eastern Nation of Decorum" (, ).[184] Individuals are regarded as one year old when they are born, as Koreans reckon the pregnancy period as one year of life for infants, and age increments increase on New Year's Day rather than on the anniversary of birthdays. Thus, one born immediately before New Year's Day may only be a few days old in western reckoning, but two years old in Korea. Accordingly, a Korean person's stated age (at least among fellow Koreans) will be one or two years more than their age according to western reckoning. However, western reckoning is sometimes applied with regard to the concept of legal age; for example, the legal age for purchasing alcohol or cigarettes in the Republic of Korea is 19, which is measured according to western reckoning.
 
@@ -189,8 +179,6 @@ Traditional Korean music includes combinations of the folk, vocal, religious and
 
 Religion
 
-Goryeo_Buddhist_painting.jpg
-
 Confucian tradition has dominated Korean thought, along with contributions by Buddhism, Taoism, and Korean Shamanism. Since the middle of the 20th century, however, Christianity has competed with Buddhism in South Korea, while religious practice has been suppressed in North Korea. Throughout Korean history and culture, regardless of separation; the influence of traditional beliefs of Korean Shamanism, Mahayana Buddhism, Confucianism and Taoism have remained an underlying religion of the Korean people as well as a vital aspect of their culture; all these traditions have coexisted peacefully for hundreds of years up to today despite strong Westernisation from Christian missionary conversions in the South[187][188][189] or the pressure from the Juche government in the North.[190][191]
 
 According to 2005 statistics compiled by the South Korean government, about 46% of citizens profess to follow no particular religion. Christians account for 29.2% of the population (of which are Protestants 18.3% and Catholics 10.9%) and Buddhists 22.8%.[192]
@@ -199,11 +187,11 @@ Islam in South Korea is practiced by about 45,000 natives (about 0.09% of the po
 
 Cuisine
 
-Tteokbokki.JPG, rice cakes with spicy gochujang sauce.]]
+, rice cakes with spicy gochujang sauce.]]
 
 Koreans traditionally believe that the taste and quality of food depend on its spices and sauces, the essential ingredients to making a delicious meal. Therefore, soybean paste, soy sauce, _gochujang_ or red pepper paste and kimchi are some of the most important staples in a Korean household.
 
-Korean cuisine was greatly influenced by the geography and climate of the Korean Peninsula, which is known for its cold autumns and winters, therefore there are many fermented dishes and hot soups and stews. Korean_barbecue_and_side_dishes.jpg Korean cuisine is probably best known for kimchi, a side dish which uses a distinctive fermentation process of preserving vegetables, most commonly cabbage. Kimchi is said to relieve the pores on the skin, thereby reducing wrinkles and providing nutrients to the skin naturally. It is also healthy, as it provides necessary vitamins and nutrients. Gochujang, a traditional Korean sauce made of red pepper is also commonly used, often as pepper (chilli) paste, earning the cuisine a reputation for spiciness.
+Korean cuisine was greatly influenced by the geography and climate of the Korean Peninsula, which is known for its cold autumns and winters, therefore there are many fermented dishes and hot soups and stews. Korean cuisine is probably best known for kimchi, a side dish which uses a distinctive fermentation process of preserving vegetables, most commonly cabbage. Kimchi is said to relieve the pores on the skin, thereby reducing wrinkles and providing nutrients to the skin naturally. It is also healthy, as it provides necessary vitamins and nutrients. Gochujang, a traditional Korean sauce made of red pepper is also commonly used, often as pepper (chilli) paste, earning the cuisine a reputation for spiciness.
 
 Bulgogi (roasted marinated meat, usually beef), galbi (marinated grilled short ribs), and samgyeopsal (pork belly) are popular meat entrees. Fish is also a popular commodity, as it is the traditional meat that Koreans eat. Meals are usually accompanied by a soup or stew, such as galbitang (stewed ribs) or doenjang jjigae (fermented bean paste soup). The center of the table is filled with a shared collection of sidedishes called banchan.
 
@@ -229,7 +217,7 @@ Outside the formal structure of schools and classrooms in the north is the extre
 
 Science and technology
 
-SelectedTeachingsofBuddhistSagesandSonMasters1377.jpg'', _Selected Teachings of Buddhist Sages and Seon Masters_, the earliest known book printed with movable metal type, 1377. Bibliothèque Nationale de Paris.]] One of the best known artifacts of Korea's history of science and technology is the Cheomseongdae (첨성대, ), a 9.4-meter high observatory built in 634.
+'', _Selected Teachings of Buddhist Sages and Seon Masters_, the earliest known book printed with movable metal type, 1377. Bibliothèque Nationale de Paris.]] One of the best known artifacts of Korea's history of science and technology is the Cheomseongdae (첨성대, ), a 9.4-meter high observatory built in 634.
 
 The earliest known surviving Korean example of woodblock printing is the Mugujeonggwang Great Dharani Sutra.[199] It is believed to have been printed in Korea in 750–51, which if correct, would make it older than the Diamond Sutra.
 

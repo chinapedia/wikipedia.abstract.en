@@ -1,5 +1,3 @@
-Pantograph_in_action.svg Pantograph_animation.gif Pantograph01.jpg
-
 A PANTOGRAPH (Greek roots παντ- "all, every" and γραφ- "to write", from their original use for copying writing) is a mechanical linkage connected in a manner based on parallelograms so that the movement of one pen, in tracing an image, produces identical movements in a second pen. If a line drawing is traced by the first point, an identical, enlarged, or miniaturized copy will be drawn by a pen fixed to the other. Using the same principle, different kinds of pantographs are used for other forms of duplication in areas such as sculpture, minting, engraving, and milling.
 
 Because of the shape of the original device, a pantograph also refers to a kind of structure that can compress or extend like an accordion, forming a characteristic rhomboidal pattern. This can be found in extension arms for wall-mounted mirrors, temporary fences, scissor lifts, and other scissor mechanisms such as the pantograph used on electric locomotives and trams.
@@ -9,7 +7,7 @@ History
 
 The first pantograph was constructed in 1603[1] by Christoph Scheiner, who used the device to copy and scale diagrams, but he wrote about the invention over 27 years later, in _"Pantographice"_ (Rome 1631).[2] One arm of the pantograph contained a small pointer, while the other held a drawing implement, and by moving the pointer over a diagram, a copy of the diagram was drawn on another piece of paper. By changing the positions of the arms in the linkage between the pointer arm and drawing arm, the scale of the image produced can be changed.
 
-Eidographe2.svg In 1821, Professor William Wallace (1768–1843) invented the eidograph to improve upon the practical utility of the pantograph.[3] The eidograph relocates the fixed point to the center of the parallelogram and uses a narrow parallelogram to provide improved mechanical advantages.
+In 1821, Professor William Wallace (1768–1843) invented the eidograph to improve upon the practical utility of the pantograph.[3] The eidograph relocates the fixed point to the center of the parallelogram and uses a narrow parallelogram to provide improved mechanical advantages.
 
 
 Uses
@@ -32,15 +30,11 @@ One advantage of phonograph and gramophone discs over cylinders in the 1890s—b
 
 Milling machines
 
-Pantograph_milling_machine_001.jpg Pantograph_mill_table.jpg
-
 Before the advent of control technologies such as numerical control (NC and CNC) and programmable logic control (PLC), duplicate parts being milled on a milling machine could not have their contours mapped out by moving the milling cutter in a "connect-the-dots" ("by-the-numbers") fashion. The only ways to control the movement of the cutting tool were to dial the positions by hand using dexterous skill (with natural limits on a human's accuracy and precision) or to trace a cam, template, or model in some way, and have the cutter mimic the movement of the tracing stylus. If the milling head was mounted on a pantograph, a duplicate part could be cut (and at various scales of magnification besides 1:1) simply by tracing a template. (The template itself was usually made by a tool and die maker using toolroom methods, including milling via dialing followed by hand sculpting with files and/or die grinder points.) This was essentially the same concept as reproducing documents with a pen-equipped pantograph, but applied to the machining of hard materials such as metal, wood, or plastic. Pantograph routing, which is conceptually identical to pantograph milling, also exists (as does CNC routing). The Blanchard lathe, a copying lathe developed by Thomas Blanchard, used the same essential concept.
 
 The development and dissemination throughout industry of NC, CNC, PLC, and other control technologies provided a new way to control the movement of the milling cutter: via feeding information from a program to actuators (servos, selsyns, leadscrews, machine slides, spindles, and so on) that would move the cutter as the information directed. Today most commercial machining is done via such programmable, computerized methods. Home machinists are likely to work via manual control, but computerized control has reached the home-shop level as well (it's just not yet as pervasive as its commercial counterparts). Thus pantograph milling machines are largely a thing of the past. They are still in commercial use, but at a greatly reduced and ever-dwindling level. They are no longer built new by machine tool builders, but a small market for used machines still exists. As for the magnification-and-reduction feature of a pantograph (with the scale determined by the adjustable arm lengths), it is achieved in CNC via mathematic calculations that the computer applies to the program information practically instantaneously. Scaling functions (as well as mirroring functions) are built into languages such as G-code.
 
 Other uses
-
-Pantograph_Mirror.gif
 
 Perhaps the pantograph that is most familiar to the general public is the extension arm of an adjustable wall-mounted mirror.
 
@@ -62,7 +56,7 @@ In churches in many countries (generally before modern animal welfare), dog whip
 
 Fools in German carnivals use _stretching shears_ ("Streckschere"), a.k.a. _Nürnberger Scissors_ (:de:Nürnberger Schere) as _hat snatchers_ to entertain the crowds.
 
-Ms.Thott.290.2º_029r.jpgThe fencing and swordsmanship manual _Ms.Thott.290.2º_ written in 1459 by Hans Talhoffer includes what appears to be an extending blade working on the same principle.
+The fencing and swordsmanship manual _Ms.Thott.290.2º_ written in 1459 by Hans Talhoffer includes what appears to be an extending blade working on the same principle.
 
 In 1886, Eduard Selling patented a prize-winning calculating machine based on the pantograph, although it was not commercially successful.[11]
 

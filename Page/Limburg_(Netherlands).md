@@ -15,9 +15,9 @@ The Duchy of Limburg and its dependencies first came under Brabantian control in
 
 After 1794, the French unified the region, along with Belgian Limburg, and removed all ties to the old feudal society (the _ancien regime_). The new name, as with all the names of the _départements_, was based on natural features, in this case Meuse-Inférieure or Neder-Maas ("Lower Meuse"). After the defeat of Napoleon the newly-created United Kingdom of the Netherlands desired a new name for this province. It was decided that the historic connection to the town and duchy of Limburg was to be restored, albeit only in name.
 
-  ------------------------------------------------------------------------------------------------------ -------------------- ------------------------------------------------------------------------------------------------------------------------
-  Maastricht,_stadszicht_met_Servaasbrug_foto3_2011-09-10_09.54.JPG in Maastricht, Limburg's capital]]   Walem_straat.jpg]]   Achterzijde_&_park_Hotel_Kasteel_Bloemendal.jpg, an 18th-century stately home, also used as a monastery, now a hotel]]
-  ------------------------------------------------------------------------------------------------------ -------------------- ------------------------------------------------------------------------------------------------------------------------
+  ------------------------------------ ---- -------------------------------------------------------------------------
+  in Maastricht, Limburg's capital]]   ]]   , an 18th-century stately home, also used as a monastery, now a hotel]]
+  ------------------------------------ ---- -------------------------------------------------------------------------
 
 
 History
@@ -36,7 +36,7 @@ Around and immediately after this treaty Frankish power in the area of the curre
 
 In the end of the 10th century, the area that is now Limburg, just like the largest part of the current Netherlands, belonged to the newly formed Holy Roman Empire. In the first decades of this empire the founding imperial family has close ties to areas in current northern Limburg. The emperor Otto III for instance was born in 980 in Kessel, practically on the current border between Limburg and North Rhine-Westphalia, just east from Gennep. In 1080 in Genneperhuis, just north of Gennep, Norbert of Gennep was born as a son of the count of Gennep. He was the founder of the order of the Premonstratensians.
 
-By the late Middle Ages, present day province Limburg's territory was mainly part of the Duchy of Brabant, Duchy of Gelderland, Duchy of Jülich, the Principality of Liège and the prince-bishop of Cologne. These dukes and bishops were nominal subordinates of the Emperor of the Holy Roman Empire, but in practice acted as independent sovereigns who were often at war with each other. These conflicts were often fought in and over Limburg, contributing to its fragmentation. An important battle was the Battle of Worringen in 1288, were a coalition led by the duke of Brabant overcame a coalition led by the archbishop of Cologne and the House of Luxemburg over the inheritance of the Duchy of Limburg. Overmaas.png. (The dark lines are the modern borders).]]
+By the late Middle Ages, present day province Limburg's territory was mainly part of the Duchy of Brabant, Duchy of Gelderland, Duchy of Jülich, the Principality of Liège and the prince-bishop of Cologne. These dukes and bishops were nominal subordinates of the Emperor of the Holy Roman Empire, but in practice acted as independent sovereigns who were often at war with each other. These conflicts were often fought in and over Limburg, contributing to its fragmentation. An important battle was the Battle of Worringen in 1288, were a coalition led by the duke of Brabant overcame a coalition led by the archbishop of Cologne and the House of Luxemburg over the inheritance of the Duchy of Limburg. . (The dark lines are the modern borders).]]
 
 Limburg was the scene of many bloody battles during the Eighty Years' War (1568–1648), in which the Dutch Republic threw off Habsburg Spanish rule. At the Battle of Mookerheyde (14 April 1574), two brothers of Prince William of Orange-Nassau and thousands of "Dutch" mercenaries lost their lives. Most Limburgians fought on the Spanish side, being Catholics and being opposed to the Calvinist Hollanders.
 
@@ -44,7 +44,7 @@ In the early modern era, Limburg was largely divided between Spain (and its succ
 
 The modern boundaries of Dutch Limburg, along with its neighbour, Belgian Limburg, were basically set during the period after the French revolution, which erased much of the "ancien regime" of Europe, with all its old boundaries and titles. These two provinces were part of a new French département, named (like many départments) after the river running through it, "Meuse-Inférieure", meaning simply "lower Maas".
 
-Following the Napoleonic Era, the great powers (the United Kingdom, Prussia, the Austrian Empire, the Russian Empire and France) united the region with the new Kingdom of the Netherlands in 1815. A new province was formed which was to receive the name "Maastricht" after its capital. The first king, William I, who did not want the medieval of Limburg to be lost, insisted that the name be changed to "Province of Limburg". As such, the name of the new province derived from the old Duchy of Limburg that had existed until 1648 on the southern borders of the new province. 3limburgen.png, a municipality in Belgian Limburg since 1977).]] When the Catholic and French-speaking Belgians split away from the mainly Calvinist northern Netherlands in the Belgian Revolution of 1830, the Province of Limburg was at first almost entirely under Belgian rule. However, by the 1839 Treaty of London, the province was divided in two, with the eastern part going to the Netherlands and the western part to Belgium, a division that remains today.
+Following the Napoleonic Era, the great powers (the United Kingdom, Prussia, the Austrian Empire, the Russian Empire and France) united the region with the new Kingdom of the Netherlands in 1815. A new province was formed which was to receive the name "Maastricht" after its capital. The first king, William I, who did not want the medieval of Limburg to be lost, insisted that the name be changed to "Province of Limburg". As such, the name of the new province derived from the old Duchy of Limburg that had existed until 1648 on the southern borders of the new province. , a municipality in Belgian Limburg since 1977).]] When the Catholic and French-speaking Belgians split away from the mainly Calvinist northern Netherlands in the Belgian Revolution of 1830, the Province of Limburg was at first almost entirely under Belgian rule. However, by the 1839 Treaty of London, the province was divided in two, with the eastern part going to the Netherlands and the western part to Belgium, a division that remains today.
 
 With the Treaty of London, what is now the Belgian Province of Luxembourg was handed over to Belgium and removed from the German Confederation. To appease Prussia, which had also lost access to the Meuse after the Congress of Vienna, the Dutch province of Limburg (but not the cities of Maastricht and Venlo because without them Limburg's population equalled that of the Province of Luxembourg, 150,000 1), was joined to the German Confederation between September 5, 1839 and August 23, 1866 as Duchy of Limburg. On 11 May 1867, the Duchy, which from 1839 on had been _de jure_ a separate polity in personal union with the Kingdom of the Netherlands, was reincorporated into the latter with the Treaty of London, though the term "Duchy of Limburg" remained in some official use until February 1907. Another idiosyncrasy survives today: the head of the province, referred to as the "King's Commissioner" in other provinces, is addressed as "Governor" in Limburg.
 
@@ -68,7 +68,7 @@ Limburgish is spoken by an estimated 1.6 million people in Dutch Limburg, Belgia
 
 Politics
 
-Provincial_Government_Buildings_on_the_Meuse.jpg The provincial council (States-Provincial - _Provinciale Staten_) has 47 seats, and is headed by a King's Commissioner (_Commissaris van de Koning_) who unofficially is called the Governor. While the provincial council is elected by the inhabitants, the King's Commissioner is appointed by the King and the cabinet of the Netherlands. Since 2011 Theo Bovens (CDA) holds the office of 'Governor'.
+The provincial council (States-Provincial - _Provinciale Staten_) has 47 seats, and is headed by a King's Commissioner (_Commissaris van de Koning_) who unofficially is called the Governor. While the provincial council is elected by the inhabitants, the King's Commissioner is appointed by the King and the cabinet of the Netherlands. Since 2011 Theo Bovens (CDA) holds the office of 'Governor'.
 
 Since the 2011 elections the Christian Democratic Appeal (CDA) was the largest party in the council, although the Party for Freedom (PVV) won the most votes during the election. However, two members of the PVV left the party, taking their seats with them, which lost the PVV their number one status.
 
@@ -160,24 +160,22 @@ The province of Limburg has 33 municipalities.
     -   Valkenburg aan de Geul
     -   Voerendaal
 
-2012-P11-LB-basis.jpg
-
 Cities
 
 From North to South: Gennep, Venray, Weert, Venlo, Roermond, Sittard, Geleen, Heerlen, Valkenburg, Kerkrade, Vaals, Maastricht.
 
-  -------------------------------------------- ---------------------------------- ------------------- -----------------------------------------
-  De_Parade,_Venlo_(Limburg,_NL)IMG_4869.JPG   Willem_II_Singel_2,_Roermond.jpg   Markt_Sittard.jpg   Stadhuis_Maastricht_-_panoramio_(1).jpg
-  -------------------------------------------- ---------------------------------- ------------------- -----------------------------------------
+  -- -- -- --
 
-  ---------------- -------------------------------------------------------------------------- -------------------------- -------------------------------------------------
-  Valkenburg.JPG   Overzicht_voorgevel_(zijde_Raadhuisplein)_-_Heerlen_-_20413367_-_RCE.jpg   AbdijRolducKerkrade2.JPG   Vaals_Tuchverlagsgebäude_Clermont_1761-1765.jpg
-  ---------------- -------------------------------------------------------------------------- -------------------------- -------------------------------------------------
+  -- -- -- --
+
+  -- -- -- --
+
+  -- -- -- --
 
 
 Economy
 
-Oekologisk-aeble-2001.jpg Baumblüte.JPG In the past peat and coal were mined in Limburg. In 1965–75 the coal mines were finally closed. As a result, 60,000 people lost their jobs in the two coal mining areas, Heerlen-Kerkrade-Brunssum and Sittard-Geleen. A difficult period of economic readjustment started. The Dutch government partly eased the pain by moving several government offices (including Stichting Pensioenfonds ABP and CBS Statistics Netherlands) to Heerlen.
+In the past peat and coal were mined in Limburg. In 1965–75 the coal mines were finally closed. As a result, 60,000 people lost their jobs in the two coal mining areas, Heerlen-Kerkrade-Brunssum and Sittard-Geleen. A difficult period of economic readjustment started. The Dutch government partly eased the pain by moving several government offices (including Stichting Pensioenfonds ABP and CBS Statistics Netherlands) to Heerlen.
 
 The state-owned corporation that once mined in Limburg, DSM, is now a major chemical company, still operating in Limburg. In 2002 DSM sold its petrochemical division (naphtha crackers and polyolefin plants) to SABIC of Saudi Arabia. In 2010, the agro and melamine business groups were sold to OCI Nitrogen. SABIC is located on the Chemelot campus in Sittard-Geleen, which is bounded by the Chemelot Industrial Park, one of Western Europe's biggest industrial sites. At this moment 8000 people work at Chemelot, of which 1000 are active at the Campus. The innovation and licensing division Stamicarbon of DSM was sold in 2009 to Maire Tecnimont, the parent company of an engineering, main contracting and licensing group that operates worldwide in the oil, gas & petrochemicals, power, infrastructure and civil engineering sectors. Stamicarbon is based in Sittard-Geleen.
 
@@ -192,7 +190,7 @@ In 2005, the two provincial newspapers, _De Limburger_ and _Limburgs Dagblad,_ m
 
 Culture
 
-Kasteel_Gronsveld.jpg castle]] GemeentehuisEijsden.JPG town hall]] Banholt-Bergstraat_16.JPG Processie-Eijsden.jpg AGR_doorkomst_ubachsberg.jpg Platz_vor_der_Münsterkirche_in_Roermond_1.jpg
+castle]] town hall]]
 
 Essential elements in Limburgian culture are
 
@@ -348,13 +346,13 @@ In 2012, from April 5 to October 7 the ten yearly world horticulture expo "Flori
 
 Nationally and internationally known are nature films and nature television series produced by filmdirector Maurice Nijsten and nature protector Jo Erkens.
 
-  ---------------------------------------------------------------------------------------------- --------------------------------- -----------------------------------
-  Eijsden-Grenspaal_47_(NL).JPG the Meuse river enters this province as well as the country ]]   Ravensbosjsjtraobaekwkped07.JPG   Gulp-Slenaken.jpg near Slenaken]]
-  ---------------------------------------------------------------------------------------------- --------------------------------- -----------------------------------
+  ---------------------------------------------------------------- -- -----------------
+  the Meuse river enters this province as well as the country ]]      near Slenaken]]
+  ---------------------------------------------------------------- -- -----------------
 
-  ------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------
-  Mookerheide_near_Molenhoek.jpg heath in Northern Limburg]]   View_from_the_Schneeberg_in_Germany_to_Oud-Lemiers_in_the_Netherlands.jpg, as seen from the Schneeberg in Germany ]]   Brunssummerheideoverview2.jpgmer heath in South Eastern Limburg]]
-  ------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------
+  ----------------------------- --------------------------------------------- --------------------------------------
+  heath in Northern Limburg]]   , as seen from the Schneeberg in Germany ]]   mer heath in South Eastern Limburg]]
+  ----------------------------- --------------------------------------------- --------------------------------------
 
 
 See also

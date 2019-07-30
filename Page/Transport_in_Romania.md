@@ -16,12 +16,12 @@ The first important human improvements were the Roman roads linking major settle
 
 Railway transport
 
-Railway_map_of_Romania.png A fast-growing number of Romania's major cities have modern tram or light rail networks, including Bucharest, Cluj-Napoca and Oradea. Recently the tram has seen a very big revival with many experiments such as ground level power supply in Oradea.
+A fast-growing number of Romania's major cities have modern tram or light rail networks, including Bucharest, Cluj-Napoca and Oradea. Recently the tram has seen a very big revival with many experiments such as ground level power supply in Oradea.
 
 
 Roads and automotive transport
 
-Romania-drumuri.svg Speed_Limit_in_Romania.png According to CIA Factbook, Romania total road network is estimated to be 198,817 km long, out of which 60,043 km are paved and 138,774 km (2004) are unpaved.[2] The World Bank estimates that the road network that is outside of cities and communes (i.e. excluding streets and village roads) is about 78,000 km long.[3]
+According to CIA Factbook, Romania total road network is estimated to be 198,817 km long, out of which 60,043 km are paved and 138,774 km (2004) are unpaved.[2] The World Bank estimates that the road network that is outside of cities and communes (i.e. excluding streets and village roads) is about 78,000 km long.[3]
 
 Motorways
 

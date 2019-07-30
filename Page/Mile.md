@@ -16,7 +16,7 @@ The mile has been variously abbreviated—with and without a trailing period—a
 
 Historical miles
 
-RomaForoRomanoMiliariumAureum.JPG, the zero mile marker of the Roman road network, in the Roman Forum]]
+, the zero mile marker of the Roman road network, in the Roman Forum]]
 
 Roman mile
 
@@ -56,7 +56,7 @@ The WELSH MILE (__ or __) was 3 miles and 1470 yards long (6.17 km). It comp
 
 Scots mile
 
-Edinburgh_High_Street.JPG's "Royal Mile"—running from the castle to Holyrood Abbey—is roughly a Scots mile long.[7]]]
+'s "Royal Mile"—running from the castle to Holyrood Abbey—is roughly a Scots mile long.[7]]]
 
 The SCOTS MILE was longer than the English mile,[8] as mentioned by Robert Burns in the first verse of his poem "Tam o' Shanter". It comprised 8 (Scots) furlongs divided into 320 falls or faws (Scots rods).[9] It varied from place to place but the most accepted equivalencies are 1,976 Imperial yards (1.123 statute miles or 1.81 km).
 
@@ -68,7 +68,7 @@ The IRISH MILE (__ or __) measured 2240 yards: approximately 1.27 statute miles 
 
 Other historical miles
 
-Wegmasse1.png textbook, given in feet, metres, and fractions of a meridian]] Mercator_scale.png. The scalebar is expressed in "Hours walking or common Flemish miles", and includes three actual scales: small, medium and big Flemish miles]]
+textbook, given in feet, metres, and fractions of a meridian]] . The scalebar is expressed in "Hours walking or common Flemish miles", and includes three actual scales: small, medium and big Flemish miles]]
 
 -   The DUTCH MILE (__) has had different definitions throughout history. One of the older definitions was 5600 ells. But the length of an ell was not standardised, so that the length of a mile could range between 3280 m and 4280 m. The Dutch mile also has had historical definitions of one hour's walking (__), which meant around 5 km, or 20,000 Amsterdam or Rhineland feet (respectively 5660 m or 6280 m). Besides the common Dutch mile, there is also the geographical mile. 15 geographical Dutch miles equal one degree of longitude on the equator. Its value changed as the circumference of the earth was estimated to a better precision. But at the time of usage, it was around 7157 m. The metric system was introduced in the Netherlands in 1816, and the metric mile became a synonym for the kilometer, being exactly 1000 m. Since 1870, the term "mile" was replaced by the equivalent "kilometer". Today, the word "mile" is no longer used, apart from some old proverbs.
 
@@ -111,7 +111,7 @@ State legislation in the U.S. is important for determining which conversion fact
 
 Nautical mile
 
-RechtwKugeldreieck.svg—the analog of a line in spherical trigonometry—and hence the shortest path connecting two points on the globular surface. Meridians are great circles that pass through the poles.]]
+—the analog of a line in spherical trigonometry—and hence the shortest path connecting two points on the globular surface. Meridians are great circles that pass through the poles.]]
 
 The _nautical mile_ was originally defined as one minute of arc along a meridian of the Earth. Navigators use dividers to step off the distance between two points on the navigational chart, then place the open dividers against the minutes-of-latitude scale at the edge of the chart, and read off the distance in nautical miles. The Earth is not perfectly spherical but an oblate spheroid, so the length of a minute of latitude increases by 1% from the equator to the poles. Using the WGS84 ellipsoid, the commonly accepted Earth model for many purposes today, one minute of latitude at the WGS84 equator is 6,046 feet and at the poles is 6,107.5 feet. The average is about 6,076 feet (about 1,852 metres or 1.15 statute miles).
 

@@ -1,4 +1,4 @@
-Dresden-Zwinger-Armoury-Samurai-Sword.JPG A is one of several types of traditionally made swords from Japan. Swords have been made from as early as the Kofun period, though generally "Japanese swords" refer to the curved blades made after the Heian period. There are many types of Japanese swords that differ by size, shape, field of application and method of manufacture. Some of the more commonly known types of Japanese swords are the katana, tsurugi, wakizashi, odachi, and tachi.[1]
+A is one of several types of traditionally made swords from Japan. Swords have been made from as early as the Kofun period, though generally "Japanese swords" refer to the curved blades made after the Heian period. There are many types of Japanese swords that differ by size, shape, field of application and method of manufacture. Some of the more commonly known types of Japanese swords are the katana, tsurugi, wakizashi, odachi, and tachi.[1]
 
 
 Types
@@ -54,8 +54,6 @@ The production of swords in Japan is divided into time periods:
 -   _Gendaitō_ ( "modern swords" 1876–1945)[9]
 -   Shinsakutō ( "newly made swords" 1953–present)[10]
 
-Japanese_swords.jpg
-
 In modern times the most commonly known type of JAPANESE SWORD is the Shinogi-Zukuri katana, which is a single-edged and usually curved longsword traditionally worn by samurai from the 15th century onwards.[11] Other types of Japanese swords include: tsurugi or ken, which is a double-edged sword;[12] ōdachi, tachi, which are older styles of a very long single-edged sword; wakizashi, a medium-sized sword and tantō which is an even smaller knife-sized sword. Naginata and yari despite being polearms are still considered to be swords.[13][14]
 
 Japanese swords are still commonly seen today, antique and modern forged swords can easily be found and purchased. Modern, authentic _nihontō_ are made by a few hundred swordsmiths. Many examples can be seen at an annual competition hosted by the All Japan Swordsmith Association,[15] under the auspices of the Nihontō Bunka Shinkō Kyōkai (Society for the promotion of Japanese Sword Culture).[16]
@@ -74,7 +72,7 @@ Anatomy
 
 Blade
 
-Katana_diagram.svg Japanese]]
+Japanese]]
 
 Each blade has a unique profile, mostly dependent on the swordsmith and the construction method. The most prominent part is the middle ridge, or _shinogi_. In the earlier picture, the examples were flat to the shinogi, then tapering to the blade edge. However, swords could narrow down to the shinogi, then narrow further to the blade edge, or even expand outward towards the shinogi then shrink to the blade edge(producing a trapezoidal shape). A flat or narrowing shinogi is called _shinogi-hikushi_, whereas a flat blade is called a _shinogi-takushi_.
 
@@ -94,7 +92,7 @@ In Japanese, the scabbard is referred to as a _saya_, and the handguard piece, o
 
 Signature and Date
 
-Katana_mei_and_tachi_mei.jpg The _mei_ is the signature inscribed on to the tang of the Japanese sword. Fake signatures ("gimei") are common not only due to centuries of forgeries but potentially misleading ones that acknowledge prominent smiths and guilds, and those commissioned to a separate signer.
+The _mei_ is the signature inscribed on to the tang of the Japanese sword. Fake signatures ("gimei") are common not only due to centuries of forgeries but potentially misleading ones that acknowledge prominent smiths and guilds, and those commissioned to a separate signer.
 
 Sword scholars collect and study _oshigata_, or paper tang-rubbings, taken from a blade:
 
@@ -105,7 +103,7 @@ Classification
 
 Length
 
-Katana_blades.jpg, Paris., illustrating the difference in curvature and length between the katana and the wakizashi (bottom blade).]]
+, Paris., illustrating the difference in curvature and length between the katana and the wakizashi (bottom blade).]]
 
 What generally differentiates the different swords is their length. Japanese swords are measured in units of _shaku_. Since 1891, the modern Japanese shaku is approximately equal to a foot (11.93 inches), calibrated with the meter to equal exactly 10 meters per 33 shaku (30.30 cm).
 
@@ -157,7 +155,7 @@ The production of swords in Japan is divided into specific time periods: jokoto 
 
 Early history
 
-Norishige.jpg for use as a "katana" by cutting off the original tang and reforming it higher up the cutting edge.]]
+for use as a "katana" by cutting off the original tang and reforming it higher up the cutting edge.]]
 
 Early examples of swords were straight _chokutō_ or _jōkotō_ and others with unusual shapes, some of styles and techniques probably are derived from Chinese swords, and some of them are directly imported through trade.[36][37]
 
@@ -181,7 +179,7 @@ The craft decayed as time progressed and firearms were introduced as a decisive 
 
 New swords
 
-Sword_sharpener_practicing_his_trade.jpg practicing his trade, around 1909]] In times of peace, swordsmiths returned to the making of refined and artistic blades, and the beginning of the Momoyama period saw the return of high quality creations. As the techniques of the ancient smiths had been lost during the previous period of war, these swords were called , literally "new swords". Generally they are considered inferior to most _kotō_ ("old swords"), and coincide with a decline in manufacturing skills. As the Edo period progressed, blade quality declined, though ornamentation was refined. Originally, simple and tasteful engravings known as _horimono_ were added for religious reasons. Later, in the more complex work found on many _shintō,_ form no longer strictly followed function.
+practicing his trade, around 1909]] In times of peace, swordsmiths returned to the making of refined and artistic blades, and the beginning of the Momoyama period saw the return of high quality creations. As the techniques of the ancient smiths had been lost during the previous period of war, these swords were called , literally "new swords". Generally they are considered inferior to most _kotō_ ("old swords"), and coincide with a decline in manufacturing skills. As the Edo period progressed, blade quality declined, though ornamentation was refined. Originally, simple and tasteful engravings known as _horimono_ were added for religious reasons. Later, in the more complex work found on many _shintō,_ form no longer strictly followed function.
 
 Under the Tokugawa shogunate, swordmaking and the use of firearms declined.[42] The master swordsmith Suishinshi Masahide (c. 1750–1825) published opinions that the arts and techniques of the _shintō_ swords were inferior to the _kotō_ blades, and that research should be made by all swordsmiths to rediscover the lost techniques. Masahide traveled the land teaching what he knew to all who would listen, and swordsmiths rallied to his cause and ushered in a second renaissance in Japanese sword smithing . With the discarding of the _shintō_ style, and the re-introduction of old and rediscovered techniques, swords made in the _kotō_ style between 1761 and 1876 are , "new revival swords" or literally "new-new swords." These are considered superior to most _shintō_, but inferior to true _kotō_.
 
@@ -196,7 +194,7 @@ File:Japanese army sabre.jpg|kyu guntō army sabre File:Gunto type 98.jpg|"Type 
 
 Recent history and modern use
 
-Under the United States occupation at the end of World War II all armed forces in occupied Japan were disbanded and production of nihontō with edges was banned except under police or government permit. The ban was overturned through a personal appeal by Dr. Junji Honma. During a meeting with General Douglas MacArthur, Honma produced blades from the various periods of Japanese history and MacArthur was able to identify very quickly what blades held artistic merit and which could be considered purely weapons. As a result of this meeting, the ban was amended so that _guntō_ weapons would be destroyed while swords of artistic merit could be owned and preserved. Even so, many nihontō were sold to American soldiers at a bargain price; in 1958 there were more Japanese swords in America than in Japan. The vast majority of these one million or more swords were _guntō_, but there were still a sizable number of older swords. Contest_To_Cut_Down_100_People.jpg competing to see who could kill (with a sword) one hundred people first.]] After the Edo period, swordsmiths turned increasingly to the production of civilian goods. The Occupation and its regulations almost put an end to the production of nihonto. A few smiths continued their trade, and Honma went on to be a founder of the , who made it their mission to preserve the old techniques and blades. Thanks to the efforts of other like-minded individuals, the nihontō did not disappear, many swordsmiths continued the work begun by Masahide, and the old swordmaking techniques were rediscovered.
+Under the United States occupation at the end of World War II all armed forces in occupied Japan were disbanded and production of nihontō with edges was banned except under police or government permit. The ban was overturned through a personal appeal by Dr. Junji Honma. During a meeting with General Douglas MacArthur, Honma produced blades from the various periods of Japanese history and MacArthur was able to identify very quickly what blades held artistic merit and which could be considered purely weapons. As a result of this meeting, the ban was amended so that _guntō_ weapons would be destroyed while swords of artistic merit could be owned and preserved. Even so, many nihontō were sold to American soldiers at a bargain price; in 1958 there were more Japanese swords in America than in Japan. The vast majority of these one million or more swords were _guntō_, but there were still a sizable number of older swords. competing to see who could kill (with a sword) one hundred people first.]] After the Edo period, swordsmiths turned increasingly to the production of civilian goods. The Occupation and its regulations almost put an end to the production of nihonto. A few smiths continued their trade, and Honma went on to be a founder of the , who made it their mission to preserve the old techniques and blades. Thanks to the efforts of other like-minded individuals, the nihontō did not disappear, many swordsmiths continued the work begun by Masahide, and the old swordmaking techniques were rediscovered.
 
 Modern swords manufactured according to traditional methods are usually known as , meaning "newly made swords". Alternatively, they can be termed when they are designed for combat as opposed to _iaitō_ training swords.
 
@@ -207,7 +205,7 @@ In Japan, genuine edged hand-made Japanese swords, whether antique or modern, ar
 
 Manufacturing
 
-Blacksmith_Munechika,_helped_by_a_fox_spirit,_forging_the_blade_Ko-Gitsune_Maru,_by_Ogata_Gekkō.jpg (1859–1920), 1873.]]
+(1859–1920), 1873.]]
 
 Japanese swords were often forged with different profiles, different blade thicknesses, and varying amounts of grind. _Wakizashi_, for instance, were not simply scaled-down versions of _katana_; they were often forged in _hira-zukuri_ or other such forms which were very rare on other swords.
 
@@ -215,11 +213,7 @@ The _daishō_ was not always forged together. If a samurai was able to afford a 
 
 The forging of a Japanese blade typically took weeks or even months and was considered a sacred art.[46] As with many complex endeavors, rather than a single craftsman, several artists were involved. There was a smith to forge the rough shape, often a second smith (apprentice) to fold the metal, a specialist polisher (called a _togi_) as well as the various artisans that made the _koshirae_ (the various fittings used to decorate the finished blade and _saya_ (sheath) including the _tsuka_ (hilt), _fuchi_ (collar), _kashira_ (pommel), and _tsuba_ (hand guard)). It is said that the sharpening and polishing process takes just as long as the forging of the blade itself.
 
-Scene-de-forge-edo-p1000665.jpg
-
 The legitimate Japanese sword is made from Japanese steel "Tamahagane".[47] The most common lamination method the Japanese sword blade is formed from is a combination of two different steels: a harder outer jacket of steel wrapped around a softer inner core of steel.[48] This creates a blade which has a hard, razor sharp cutting edge with the ability to absorb shock in a way which reduces the possibility of the blade breaking when used in combat. The _hadagane_, for the outer skin of the blade, is produced by heating a block of raw steel, which is then hammered out into a bar, and the flexible back portion. This is then cooled and broken up into smaller blocks which are checked for further impurities and then reassembled and reforged. During this process the billet of steel is heated and hammered, split and folded back upon itself many times and re-welded to create a complex structure of many thousands of layers. Each different steel is folded differently, in order to provide the necessary strength and flexibility to the different steels.[49][50][51] The precise way in which the steel is folded, hammered and re-welded determines the distinctive grain pattern of the blade, the _jihada_, (also called _jigane_ when referring to the actual surface of the steel blade) a feature which is indicative of the period, place of manufacture and actual maker of the blade. The practice of folding also ensures a somewhat more homogeneous product, with the carbon in the steel being evenly distributed and the steel having no voids that could lead to fractures and failure of the blade in combat.
-
-Katana_brique.svg
 
 The shingane (for the inner core of the blade) is of a relatively softer steel with a lower carbon content than the hadagane. For this, the block is again hammered, folded and welded in a similar fashion to the hadagane, but with fewer folds. At this point, the hadagane block is once again heated, hammered out and folded into a ‘U’ shape, into which the shingane is inserted to a point just short of the tip. The new composite steel billet is then heated and hammered out ensuring that no air or dirt is trapped between the two layers of steel. The bar increases in length during this process until it approximates the final size and shape of the finished sword blade. A triangular section is cut off from the tip of the bar and shaped to create what will be the kissaki. At this point in the process, the blank for the blade is of rectangular section. This rough shape is referred to as a sunobe.
 
@@ -244,7 +238,7 @@ Testing of swords, called _tameshigiri_, was practiced on a variety of materials
 
 _Kenjutsu_ is the Japanese martial art of using the nihontō in combat. The nihontō was primarily a cutting weapon, or more specifically, a slicing one. Its moderate curve, however, allowed for effective thrusting as well. The hilt was held with two hands, though a fair amount of one-handed techniques exist. The placement of the right hand was dictated by both the length of the handle and the length of the wielder's arm. Two other martial arts were developed specifically for training to draw the sword and attack in one motion. They are _battōjutsu_ and _iaijutsu_, which are superficially similar, but do generally differ in training theory and methods.
 
-For cutting, there was a specific technique called "_ten-uchi_." _Ten-uchi_ refers to an organized motion made by arms and wrist, during a descending strike. As the sword is swung downwards, the elbow joint drastically extends at the last instant, popping the sword into place. This motion causes the swordsman's grip to twist slightly and if done correctly, is said to feel like wringing a towel (Thomas Hooper reference). This motion itself caused the sword's blade to impact its target with sharp force, and is used to break initial resistance. From there, fluidly continuing along the motion wrought by _ten-uchi_, the arms would follow through with the stroke, dragging the sword through its target. Because the nihontō slices rather than chops, it is this "dragging" which allows it to do maximum damage, and is thus incorporated into the cutting technique. At full speed, the swing will appear to be full stroke, the sword passing through the targeted object. The segments of the swing are hardly visible, if at all. Assuming that the target is, for example, a human torso, _ten-uchi_ will break the initial resistance supplied by shoulder muscles and the clavicle. The follow through would continue the slicing motion, through whatever else it would encounter, until the blade inherently exited the body, due to a combination of the motion and its curved shape. Koshiate_(Sword_Hangers).png Nearly all styles of _kenjutsu_ share the same five basic guard postures. They are as follows; _chūdan-no-kamae_ (middle posture), _jōdan-no-kamae_ (high posture), _gedan-no-kamae_ (low posture), _hassō-no-kamae_ (eight-sided posture), and _waki-gamae_ (side posture).
+For cutting, there was a specific technique called "_ten-uchi_." _Ten-uchi_ refers to an organized motion made by arms and wrist, during a descending strike. As the sword is swung downwards, the elbow joint drastically extends at the last instant, popping the sword into place. This motion causes the swordsman's grip to twist slightly and if done correctly, is said to feel like wringing a towel (Thomas Hooper reference). This motion itself caused the sword's blade to impact its target with sharp force, and is used to break initial resistance. From there, fluidly continuing along the motion wrought by _ten-uchi_, the arms would follow through with the stroke, dragging the sword through its target. Because the nihontō slices rather than chops, it is this "dragging" which allows it to do maximum damage, and is thus incorporated into the cutting technique. At full speed, the swing will appear to be full stroke, the sword passing through the targeted object. The segments of the swing are hardly visible, if at all. Assuming that the target is, for example, a human torso, _ten-uchi_ will break the initial resistance supplied by shoulder muscles and the clavicle. The follow through would continue the slicing motion, through whatever else it would encounter, until the blade inherently exited the body, due to a combination of the motion and its curved shape. Nearly all styles of _kenjutsu_ share the same five basic guard postures. They are as follows; _chūdan-no-kamae_ (middle posture), _jōdan-no-kamae_ (high posture), _gedan-no-kamae_ (low posture), _hassō-no-kamae_ (eight-sided posture), and _waki-gamae_ (side posture).
 
 The nihontō's razor-edge was so hard that upon hitting an equally hard or harder object, such as another sword's edge, chipping became a definite risk. As such, blocking an oncoming blow blade-to-blade was generally avoided. In fact, evasive body maneuvers were preferred over blade contact by most, but, if such was not possible, the flat or the back of the blade was used for defense in many styles, rather than the precious edge. A popular method for defeating descending slashes was to simply beat the sword aside. In some instances, an "umbrella block", positioning the blade overhead, diagonally (point towards the ground, pommel towards the sky), would create an effective shield against a descending strike. If the angle of the block was drastic enough, the curve of the nihontō's blade would cause the attacker's blade to slide along its counter and off to the side.[52]
 

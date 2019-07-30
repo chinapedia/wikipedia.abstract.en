@@ -16,7 +16,7 @@ _Trioxidanediyl_ (or _ozonide_) is used, non-systematically, to refer to the sub
 
 History
 
-Schönbein.jpg (18 October 1799 – 29 August 1868)]] Smyths_revised_ozonometer,_1865._(9660571191).jpg In 1785, the Dutch chemist Martinus van Marum was conducting experiments involving electrical sparking above water when he noticed an unusual smell, which he attributed to the electrical reactions, failing to realize that he had in fact created ozone.[2]
+(18 October 1799 – 29 August 1868)]] In 1785, the Dutch chemist Martinus van Marum was conducting experiments involving electrical sparking above water when he noticed an unusual smell, which he attributed to the electrical reactions, failing to realize that he had in fact created ozone.[2]
 
 A half century later, Christian Friedrich Schönbein noticed the same pungent odour and recognized it as the smell often following a bolt of lightning. In 1839, he succeeded in isolating the gaseous chemical and named it "ozone", from the Greek word __ () meaning "to smell".[3][4] For this reason, Schönbein is generally credited with the discovery of ozone.[5][6][7][8] The formula for ozone, O₃, was not determined until 1865 by Jacques-Louis Soret[9] and confirmed by Schönbein in 1867.[10][11]
 
@@ -39,8 +39,6 @@ Ozone is diamagnetic, with all its electrons paired. In contrast, O₂ is parama
 Structure
 
 According to experimental evidence from microwave spectroscopy, ozone is a bent molecule, with C_(2v) symmetry (similar to the water molecule). The O – O distances are . The O – O – O angle is 116.78°.[24] The central atom is _sp_² hybridized with one lone pair. Ozone is a polar molecule with a dipole moment of 0.53 D.[25] The molecule can be represented as a resonance hybrid with two contributing structures, each with a single bond on one side and double bond on the other. The arrangement possesses an overall bond order of 1.5 for both sides. It is isoelectronic with the nitrite anion.
-
-Ozone-resonance-Lewis-2D.png
 
 
 Reactions
@@ -111,11 +109,11 @@ With alkenes and alkynes
 
 Alkenes can be oxidatively cleaved by ozone, in a process called ozonolysis, giving alcohols, aldehydes, ketones, and carboxylic acids, depending on the second step of the workup.
 
-    File:Ozonolysis scheme.svg
+
 
 Ozone can also cleave alkynes to form an acid anhydride or diketone product.[30] If the reaction is performed in the presence of water, the anhydride hydrolyzes to give two carboxylic acids.
 
-    Ozonolysis-alkyne.png
+
 
 Usually ozonolysis is carried out in a solution of dichloromethane, at a temperature of −78^(o)C. After a sequence of cleavage and rearrangement, an organic ozonide is formed. With reductive workup (e.g. zinc in acetic acid or dimethyl sulfide), ketones and aldehydes will be formed, with oxidative workup (e.g. aqueous or alcoholic hydrogen peroxide), carboxylic acids will be formed.[31]
 
@@ -195,7 +193,7 @@ There are additional absorption bands in the far UV, which increase slowly from 
 
 Ozone in Earth's atmosphere
 
-Atmospheric_ozone.svgNimbus_ozone_Brewer-Dobson_circulation.jpg satellite]] IM_ozavg_ept_200006.png The standard way to express total ozone levels (the amount of ozone in a given vertical column) in the atmosphere is by using Dobson units. Point measurements are reported as mole fractions in nmol/mol (parts per billion, ppb) or as concentrations in μg/m³. The study of ozone concentration in the atmosphere started in the 1920s.[40]
+satellite]] The standard way to express total ozone levels (the amount of ozone in a given vertical column) in the atmosphere is by using Dobson units. Point measurements are reported as mole fractions in nmol/mol (parts per billion, ppb) or as concentrations in μg/m³. The study of ozone concentration in the atmosphere started in the 1920s.[40]
 
 Ozone layer
 
@@ -225,7 +223,7 @@ An estimate of the rate of this termination step to the cycling of atomic oxygen
 
 Importance to surface-dwelling life on Earth
 
-Ozone_altitude_UV_graph.svg of dioxygen (below 240 nm) react with more dioxygen. The ozone layer itself then blocks most, but not quite all, sunburn-producing UVB (280–315 nm). The band of UV closest to visible light, UVA (315–400 nm), is hardly affected by ozone, and most of it reaches the ground.]]
+of dioxygen (below 240 nm) react with more dioxygen. The ozone layer itself then blocks most, but not quite all, sunburn-producing UVB (280–315 nm). The band of UV closest to visible light, UVA (315–400 nm), is hardly affected by ozone, and most of it reaches the ground.]]
 
 Ozone in the ozone layer filters out sunlight wavelengths from about 200 nm UV rays to 315 nm, with ozone peak absorption at about 250 nm.[43] This ozone UV absorption is important to life, since it extends the absorption of UV by ordinary oxygen and nitrogen in air (which absorb all wavelengths < 200 nm) through the lower UV-C (200–280 nm) and the entire UV-B band (280–315 nm). The small unabsorbed part that remains of UV-B after passage through ozone causes sunburn in humans, and direct DNA damage in living tissues in both plants and animals. Ozone's effect on mid-range UV-B rays is illustrated by its effect on UV-B at 290 nm, which has a radiation intensity 350 million times as powerful at the top of the atmosphere as at the surface. Nevertheless, enough of UV-B radiation at similar frequency reaches the ground to cause some sunburn, and these same wavelengths are also among those responsible for the production of vitamin D in humans.
 
@@ -253,7 +251,7 @@ Contained in the Colorado Ozone Action Plan, created in 2008, plans exist to eva
 
 Ozone cracking
 
-Ozone_cracks_in_tube1.jpg tubing]] Ozone gas attacks any polymer possessing olefinic or double bonds within its chain structure, such as natural rubber, nitrile rubber, and styrene-butadiene rubber. Products made using these polymers are especially susceptible to attack, which causes cracks to grow longer and deeper with time, the rate of crack growth depending on the load carried by the rubber component and the concentration of ozone in the atmosphere. Such materials can be protected by adding antiozonants, such as waxes, which bond to the surface to create a protective film or blend with the material and provide long term protection. Ozone cracking used to be a serious problem in car tires,[62] for example, but it is not an issue with modern tires. On the other hand, many critical products, like gaskets and O-rings, may be attacked by ozone produced within compressed air systems. Fuel lines made of reinforced rubber are also susceptible to attack, especially within the engine compartment, where some ozone is produced by electrical components. Storing rubber products in close proximity to a DC electric motor can accelerate ozone cracking. The commutator of the motor generates sparks which in turn produce ozone.
+tubing]] Ozone gas attacks any polymer possessing olefinic or double bonds within its chain structure, such as natural rubber, nitrile rubber, and styrene-butadiene rubber. Products made using these polymers are especially susceptible to attack, which causes cracks to grow longer and deeper with time, the rate of crack growth depending on the load carried by the rubber component and the concentration of ozone in the atmosphere. Such materials can be protected by adding antiozonants, such as waxes, which bond to the surface to create a protective film or blend with the material and provide long term protection. Ozone cracking used to be a serious problem in car tires,[62] for example, but it is not an issue with modern tires. On the other hand, many critical products, like gaskets and O-rings, may be attacked by ozone produced within compressed air systems. Fuel lines made of reinforced rubber are also susceptible to attack, especially within the engine compartment, where some ozone is produced by electrical components. Storing rubber products in close proximity to a DC electric motor can accelerate ozone cracking. The commutator of the motor generates sparks which in turn produce ozone.
 
 Ozone as a greenhouse gas
 
@@ -306,7 +304,7 @@ Adults suffering from respiratory diseases (asthma,[96] COPD,[97] lung cancer[98
 
 Ozone air pollution
 
-Alder_showing_ozone_discolouration.jpg leaf, showing discolouration caused by ozone pollution[100]]] SignboardAirQualityHouston.JPG, Houston indicating an ozone watch]] Ozone precursors are a group of pollutants, predominantly those emitted during the combustion of fossil fuels. Ground-level ozone pollution (tropospheric ozone) is created near the Earth's surface by the action of daylight UV rays on these precursors. The ozone at ground level is primarily from fossil fuel precursors, but methane is a natural precursor, and the very low natural background level of ozone at ground level is considered safe. This section examines the health impacts of fossil fuel burning, which raises ground level ozone far above background levels.
+leaf, showing discolouration caused by ozone pollution[100]]] , Houston indicating an ozone watch]] Ozone precursors are a group of pollutants, predominantly those emitted during the combustion of fossil fuels. Ground-level ozone pollution (tropospheric ozone) is created near the Earth's surface by the action of daylight UV rays on these precursors. The ozone at ground level is primarily from fossil fuel precursors, but methane is a natural precursor, and the very low natural background level of ozone at ground level is considered safe. This section examines the health impacts of fossil fuel burning, which raises ground level ozone far above background levels.
 
 There is a great deal of evidence to show that ground-level ozone can harm lung function and irritate the respiratory system.[101][102] Exposure to ozone (and the pollutants that produce it) is linked to premature death, asthma, bronchitis, heart attack, and other cardiopulmonary problems.[103][104]
 
@@ -355,15 +353,13 @@ Elevated ozone exposure can occur on passenger aircraft, with levels depending o
 
 Production
 
-THC_2003.902.021_E._H._Johnston_Ozone_Production.jpg
-
 Ozone generators are used to produce ozone for cleaning air or removing smoke odours in unoccupied rooms. These ozone generators can produce over 3 g of ozone per hour. Ozone often forms in nature under conditions where O₂ will not react.[133] Ozone used in industry is measured in μmol/mol (ppm, parts per million), nmol/mol (ppb, parts per billion), μg/m³, mg/h (milligrams per hour) or weight percent. The regime of applied concentrations ranges from 1% to 5% (in air) and from 6% to 14% (in oxygen) for older generation methods. New electrolytic methods can achieve up 20% to 30% dissolved ozone concentrations in output water.
 
 Temperature and humidity play a large role in how much ozone is being produced using traditional generation methods (such as corona discharge and ultraviolet light). Old generation methods will produce less than 50% of nominal capacity if operated with humid ambient air, as opposed to very dry air. New generators, using electrolytic methods, can achieve higher purity and dissolution through using water molecules as the source of ozone production.
 
 Corona discharge method
 
-Shkarkese_elektrike.jpg This is the most common type of ozone generator for most industrial and personal uses. While variations of the "hot spark" coronal discharge method of ozone production exist, including medical grade and industrial grade ozone generators, these units usually work by means of a corona discharge tube.[134] They are typically cost-effective and do not require an oxygen source other than the ambient air to produce ozone concentrations of 3–6%. Fluctuations in ambient air, due to weather or other environmental conditions, cause variability in ozone production. However, they also produce nitrogen oxides as a by-product. Use of an air dryer can reduce or eliminate nitric acid formation by removing water vapor and increase ozone production. Use of an oxygen concentrator can further increase the ozone production and further reduce the risk of nitric acid formation by removing not only the water vapor, but also the bulk of the nitrogen.
+This is the most common type of ozone generator for most industrial and personal uses. While variations of the "hot spark" coronal discharge method of ozone production exist, including medical grade and industrial grade ozone generators, these units usually work by means of a corona discharge tube.[134] They are typically cost-effective and do not require an oxygen source other than the ambient air to produce ozone concentrations of 3–6%. Fluctuations in ambient air, due to weather or other environmental conditions, cause variability in ozone production. However, they also produce nitrogen oxides as a by-product. Use of an air dryer can reduce or eliminate nitric acid formation by removing water vapor and increase ozone production. Use of an oxygen concentrator can further increase the ozone production and further reduce the risk of nitric acid formation by removing not only the water vapor, but also the bulk of the nitrogen.
 
 Ultraviolet light
 

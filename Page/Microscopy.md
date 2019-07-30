@@ -1,18 +1,18 @@
-Misc_pollen.jpg image of pollen]] Microscopic_observation,_Микроскопирање.jpg MICROSCOPY is the technical field of using microscopes to view objects and areas of objects that cannot be seen with the naked eye (objects that are not within the resolution range of the normal eye).[1] There are three well-known branches of microscopy: optical, electron, and scanning probe microscopy, along with the emerging field of X-ray microscopy.
+image of pollen]] MICROSCOPY is the technical field of using microscopes to view objects and areas of objects that cannot be seen with the naked eye (objects that are not within the resolution range of the normal eye).[1] There are three well-known branches of microscopy: optical, electron, and scanning probe microscopy, along with the emerging field of X-ray microscopy.
 
 Optical microscopy and electron microscopy involve the diffraction, reflection, or refraction of electromagnetic radiation/electron beams interacting with the specimen, and the collection of the scattered radiation or another signal in order to create an image. This process may be carried out by wide-field irradiation of the sample (for example standard light microscopy and transmission electron microscopy) or by scanning a fine beam over the sample (for example confocal laser scanning microscopy and scanning electron microscopy). Scanning probe microscopy involves the interaction of a scanning probe with the surface of the object of interest. The development of microscopy revolutionized biology, gave rise to the field of histology and so remains an essential technique in the life and physical sciences. X-ray microscopy is three-dimensional and non-destructive, allowing for repeated imaging of the same sample for in situ or 4D studies, and providing the ability to "see inside" the sample being studied before sacrificing it to higher resolution techniques. A 3D X-ray microscope uses the technique of computed tomography (microCT), rotating the sample 360 degrees and reconstructing the images. CT is typically carried out with a flat panel display. A 3D X-ray microscope employs a range of objectives, e.g., from 4X to 40X, and can also include a flat panel.
 
 
 History
 
-Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg and microbiologist, Antonie van Leeuwenhoek is best known for his pioneering work in the field of microscopy and for his contributions toward the establishment of microbiology as a scientific discipline.[2]]]
+and microbiologist, Antonie van Leeuwenhoek is best known for his pioneering work in the field of microscopy and for his contributions toward the establishment of microbiology as a scientific discipline.[2]]]
 
 The field of microscopy (optical microscopy) dates back to at least the 17th-century. Earlier microscopes, single lens magnifying glasses with limited magnification, date at least as far back as the wide spread use of lenses in eyeglasses in the 13th century[3] but more advanced compound microscopes first appeared in Europe around 1620[4][5] The earliest practitioners of microscopy include Galileo Galilei, who found in 1610 that he could close focus his telescope to view small objects close up[6][7] and Cornelis Drebbel, who may have invented the compound microscope around 1620[8][9] Antonie van Leeuwenhoek developed a very high magnification simple microscope in the 1670's and is often considered to be the first acknowledged microscopist and microbiologist.[10][11]
 
 
 Optical microscopy
 
-Optical_stereo_microscope_nikon_smz10.jpg Optical or light microscopy involves passing visible light transmitted through or reflected from the sample through a single lens or multiple lenses to allow a magnified view of the sample.[12] The resulting image can be detected directly by the eye, imaged on a photographic plate, or captured digitally. The single lens with its attachments, or the system of lenses and imaging equipment, along with the appropriate lighting equipment, sample stage, and support, makes up the basic light microscope. The most recent development is the digital microscope, which uses a CCD camera to focus on the exhibit of interest. The image is shown on a computer screen, so eye-pieces are unnecessary.
+Optical or light microscopy involves passing visible light transmitted through or reflected from the sample through a single lens or multiple lenses to allow a magnified view of the sample.[12] The resulting image can be detected directly by the eye, imaged on a photographic plate, or captured digitally. The single lens with its attachments, or the system of lenses and imaging equipment, along with the appropriate lighting equipment, sample stage, and support, makes up the basic light microscope. The most recent development is the digital microscope, which uses a CCD camera to focus on the exhibit of interest. The image is shown on a computer screen, so eye-pieces are unnecessary.
 
 Limitations
 
@@ -42,7 +42,7 @@ Dark field
 
 Dark field microscopy is a technique for improving the contrast of unstained, transparent specimens.[13] Dark field illumination uses a carefully aligned light source to minimize the quantity of directly transmitted (unscattered) light entering the image plane, collecting only the light scattered by the sample. Dark field can dramatically improve image contrast – especially of transparent objects – while requiring little equipment setup or sample preparation. However, the technique suffers from low light intensity in final image of many biological samples and continues to be affected by low apparent resolution.
 
-Rheinberg_6.jpg under Rheinberg illumination]] _Rheinberg illumination_ is a special variant of dark field illumination in which transparent, colored filters are inserted just before the condenser so that light rays at high aperture are differently colored than those at low aperture (i.e., the background to the specimen may be blue while the object appears self-luminous red). Other color combinations are possible, but their effectiveness is quite variable.[14]
+under Rheinberg illumination]] _Rheinberg illumination_ is a special variant of dark field illumination in which transparent, colored filters are inserted just before the condenser so that light rays at high aperture are differently colored than those at low aperture (i.e., the background to the specimen may be blue while the object appears self-luminous red). Other color combinations are possible, but their effectiveness is quite variable.[14]
 
 Dispersion staining
 
@@ -50,7 +50,7 @@ Dispersion staining is an optical technique that results in a colored image of a
 
 Phase contrast
 
-Hypertrophic_Zone_of_Epiphyseal_Plate.jpg of hyaline cartilage showing chondrocytes and organelles, lacunae and extracellular matrix.]]
+of hyaline cartilage showing chondrocytes and organelles, lacunae and extracellular matrix.]]
 
     _In electron microscopy: Phase-contrast imaging_
 
@@ -74,7 +74,7 @@ Interference reflection microscopy can be obtained by using the same elements us
 
 Fluorescence
 
-Anther_of_thale_cress_(Arabidopsis_thaliana),_an_artefact.jpg. This is a confocal laser scanning fluorescence micrograph of thale cress anther (part of stamen). The picture shows among other things a nice red flowing collar-like structure just below the anther. However, an intact thale cress stamen does not have such collar, this is a fixation artifact: the stamen has been cut below the picture frame, and epidermis (upper layer of cells) of stamen stalk has peeled off, forming a non-characteristic structure. Photo: Heiti Paves from Tallinn University of Technology.]]
+. This is a confocal laser scanning fluorescence micrograph of thale cress anther (part of stamen). The picture shows among other things a nice red flowing collar-like structure just below the anther. However, an intact thale cress stamen does not have such collar, this is a fixation artifact: the stamen has been cut below the picture frame, and epidermis (upper layer of cells) of stamen stalk has peeled off, forming a non-characteristic structure. Photo: Heiti Paves from Tallinn University of Technology.]]
 
 When certain compounds are illuminated with high energy light, they emit light of a lower frequency. This effect is known as fluorescence. Often specimens show their characteristic autofluorescence image, based on their chemical makeup.
 
@@ -108,7 +108,7 @@ Wide-field multiphoton microscopy[21][22][23][24] refers to an optical non-linea
 
 Deconvolution
 
-Fluorescence microscopy is a powerful technique to show specifically labeled structures within a complex environment and to provide three-dimensional information of biological structures. However, this information is blurred by the fact that, upon illumination, all fluorescently labeled structures emit light, irrespective of whether they are in focus or not. So an image of a certain structure is always blurred by the contribution of light from structures that are out of focus. This phenomenon results in a loss of contrast especially when using objectives with a high resolving power, typically oil immersion objectives with a high numerical aperture. THZPSF.jpg However, blurring is not caused by random processes, such as light scattering, but can be well defined by the optical properties of the image formation in the microscope imaging system. If one considers a small fluorescent light source (essentially a bright spot), light coming from this spot spreads out further from our perspective as the spot becomes more out of focus. Under ideal conditions, this produces an "hourglass" shape of this point source in the third (axial) dimension. This shape is called the point spread function (PSF) of the microscope imaging system. Since any fluorescence image is made up of a large number of such small fluorescent light sources, the image is said to be "convolved by the point spread function". The mathematically modeled PSF of a terahertz laser pulsed imaging system is shown on the right.
+Fluorescence microscopy is a powerful technique to show specifically labeled structures within a complex environment and to provide three-dimensional information of biological structures. However, this information is blurred by the fact that, upon illumination, all fluorescently labeled structures emit light, irrespective of whether they are in focus or not. So an image of a certain structure is always blurred by the contribution of light from structures that are out of focus. This phenomenon results in a loss of contrast especially when using objectives with a high resolving power, typically oil immersion objectives with a high numerical aperture. However, blurring is not caused by random processes, such as light scattering, but can be well defined by the optical properties of the image formation in the microscope imaging system. If one considers a small fluorescent light source (essentially a bright spot), light coming from this spot spreads out further from our perspective as the spot becomes more out of focus. Under ideal conditions, this produces an "hourglass" shape of this point source in the third (axial) dimension. This shape is called the point spread function (PSF) of the microscope imaging system. Since any fluorescence image is made up of a large number of such small fluorescent light sources, the image is said to be "convolved by the point spread function". The mathematically modeled PSF of a terahertz laser pulsed imaging system is shown on the right.
 
 The output of an imaging system can be described using the equation:
 
@@ -118,7 +118,7 @@ Where is the additive noise.[29] Knowing this point spread function[30] means th
 
 Sub-diffraction techniques
 
-3D_Dual_Color_Super_Resolution_Microscopy_Cremer_2010.png and Her2, target of the breast cancer drug Trastuzumab, within a cancer cell.]]
+and Her2, target of the breast cancer drug Trastuzumab, within a cancer cell.]]
 
 A multitude of super-resolution microscopy techniques have been developed in recent times which circumvent the diffraction barrier.
 
@@ -184,7 +184,7 @@ IR versions of sub-diffraction microscopy (see above) also exist.[39][40] These 
 
 Digital holographic microscopy
 
-Phase-Phase_Contrast.jpg (right).]] In digital holographic microscopy (DHM), interfering wave fronts from a coherent (monochromatic) light-source are recorded on a sensor. The image is digitally reconstructed by a computer from the recorded hologram. Besides the ordinary bright field image, a phase shift image is created.
+(right).]] In digital holographic microscopy (DHM), interfering wave fronts from a coherent (monochromatic) light-source are recorded on a sensor. The image is digitally reconstructed by a computer from the recorded hologram. Besides the ordinary bright field image, a phase shift image is created.
 
 DHM can operate both in reflection and transmission mode. In reflection mode, the phase shift image provides a relative distance measurement and thus represents a topography map of the reflecting surface. In transmission mode, the phase shift image provides a label-free quantitative measurement of the optical thickness of the specimen. Phase shift images of biological cells are very similar to images of stained cells and have successfully been analyzed by high content analysis software.
 

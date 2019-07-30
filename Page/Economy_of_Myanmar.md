@@ -87,7 +87,7 @@ The Myanmar garments sector has seen significant influx of foreign direct invest
 
 Illegal drug trade
 
-HeroinWorld-en.svg region, which Burma is part of, is pinpointed in this map.]]
+region, which Burma is part of, is pinpointed in this map.]]
 
 Burma (Myanmar) is the largest producer of methamphetamines in the world, with the majority of _ya ba_ found in Thailand produced in Burma, particularly in the Golden Triangle and Northeastern Shan State, which borders Thailand, Laos and China.[63] Burmese-produced _Ya ba_ is typically trafficked to Thailand via Laos, before being transported through the northeastern Thai region of Isan.[64]
 
@@ -101,7 +101,7 @@ The prominence of major drug traffickers have allowed them to penetrate other se
 
 Oil and gas
 
-Denko_Gas_Station_Naypyidaw.jpg]]
+]]
 
 -   Myanma Oil and Gas Enterprise (MOGE) is a national oil and gas company of Burma. The company is a sole operator of oil and gas exploration and production, as well as domestic gas transmission through a onshore pipeline grid.
 
@@ -146,8 +146,6 @@ The Myanmar Infrastructure Summit 2018 noted that Myanmar has an urgent need to 
 
 
 External trade
-
-2006Burmese_exports.PNG
 
   ---------- -------------- ------------------------------- -----------------------------
   Sr. No.    Description    2006–2007 Budget Trade Volume   2006–2007 Real Trade Volume

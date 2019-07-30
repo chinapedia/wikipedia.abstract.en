@@ -28,19 +28,19 @@ Orthogonal projections
 
 The icosidodecahedron has four special orthogonal projections, centered on a vertex, an edge, a triangular face, and a pentagonal face. The last two correspond to the A₂ and H₂ Coxeter planes.
 
-+-------------+------------------------------------+----------------------------+--------------------------------------+-----------------------------------+
-| Centered by | Vertex                             | Edge                       | Face                                 | Face                              |
-|             |                                    |                            | Triangle                             | Pentagon                          |
-+=============+====================================+============================+======================================+===================================+
-| Solid       | Polyhedron_12-20_from_blue_max.png |                            | Polyhedron_12-20_from_yellow_max.png | Polyhedron_12-20_from_red_max.png |
-+-------------+------------------------------------+----------------------------+--------------------------------------+-----------------------------------+
-| Wireframe   | Dodecahedron_t1_v.png              | Dodecahedron_t1_e.png      | Dodecahedron_t1_A2.png               | Dodecahedron_t1_H3.png            |
-+-------------+------------------------------------+----------------------------+--------------------------------------+-----------------------------------+
-| Projective  | [2]                                | [2]                        | [6]                                  | [10]                              |
-| symmetry    |                                    |                            |                                      |                                   |
-+-------------+------------------------------------+----------------------------+--------------------------------------+-----------------------------------+
-| Dual        | Dual_dodecahedron_t1_v.png         | Dual_dodecahedron_t1_e.png | Dual_dodecahedron_t1_A2.png          | Dual_dodecahedron_t1_H3.png       |
-+-------------+------------------------------------+----------------------------+--------------------------------------+-----------------------------------+
++-------------+--------+------+----------+----------+
+| Centered by | Vertex | Edge | Face     | Face     |
+|             |        |      | Triangle | Pentagon |
++=============+========+======+==========+==========+
+| Solid       |        |      |          |          |
++-------------+--------+------+----------+----------+
+| Wireframe   |        |      |          |          |
++-------------+--------+------+----------+----------+
+| Projective  | [2]    | [2]  | [6]      | [10]     |
+| symmetry    |        |      |          |          |
++-------------+--------+------+----------+----------+
+| Dual        |        |      |          |          |
++-------------+--------+------+----------+----------+
 
 : Orthogonal projections
 
@@ -59,16 +59,14 @@ Spherical tiling
 
 The icosidodecahedron can also be represented as a spherical tiling, and projected onto the plane via a stereographic projection. This projection is conformal, preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.
 
-+---------------------------+---------------------------------------------------------+---------------------------------------------------------+
-| Uniform_tiling_532-t1.png | icosidodecahedron_stereographic_projection_pentagon.png | icosidodecahedron_stereographic_projection_triangle.png |
-|                           | Pentagon-centered                                       | Triangle-centered                                       |
-+---------------------------+---------------------------------------------------------+---------------------------------------------------------+
-| Orthographic projection   | Stereographic projections                               |                                                         |
-+---------------------------+---------------------------------------------------------+---------------------------------------------------------+
++-------------------------+---------------------------+-------------------+
+|                         | Pentagon-centered         | Triangle-centered |
++-------------------------+---------------------------+-------------------+
+| Orthographic projection | Stereographic projections |                   |
++-------------------------+---------------------------+-------------------+
 
   Orthographic projections
-  -------------------------------------------------------------
-  Spherical_icosidodecahedron_with_colored_cicles,_2-fold.png
+  -----------------------------------------
   2-fold, 3-fold and 5-fold symmetry axes
 
 
@@ -84,39 +82,32 @@ Dissection
 
 The icosidodecahedron is related to the Johnson solid called a pentagonal orthobirotunda created by two pentagonal rotunda connected as mirror images. The _icosidodecahedron_ can therefore be called a _pentagonal gyrobirotunda_ with the gyration between top and bottom halves.
 
-+:-------------------------------:+-----------------------------------------+
-| Dissected_icosidodecahedron.png | +:-----------------------------------:+ |
-| (Dissection)                    | | Icosidodecahedron.png               | |
-|                                 | | Icosidodecahedron                   | |
-|                                 | | (_pentagonal gyrobirotunda_)        | |
-|                                 | +-------------------------------------+ |
-|                                 | | Pentagonal_orthobirotunda_solid.png | |
-|                                 | | Pentagonal orthobirotunda           | |
-|                                 | +-------------------------------------+ |
-|                                 | | pentagonal_rotunda.png              | |
-|                                 | | Pentagonal rotunda                  | |
-|                                 | +-------------------------------------+ |
-+---------------------------------+-----------------------------------------+
++:------------:+----------------------------------+
+| (Dissection) | +:----------------------------:+ |
+|              | | Icosidodecahedron            | |
+|              | | (_pentagonal gyrobirotunda_) | |
+|              | +------------------------------+ |
+|              | | Pentagonal orthobirotunda    | |
+|              | +------------------------------+ |
+|              | | Pentagonal rotunda           | |
+|              | +------------------------------+ |
++--------------+----------------------------------+
 
 Related polyhedra
 
-Icosidecahedron_in_truncated_cube.png The truncated cube can be turned into an icosidodecahedron by dividing the octagons into two pentagons and two triangles. It has pyritohedral symmetry.
+The truncated cube can be turned into an icosidodecahedron by dividing the octagons into two pentagons and two triangles. It has pyritohedral symmetry.
 
 Eight uniform star polyhedra share the same vertex arrangement. Of these, two also share the same edge arrangement: the small icosihemidodecahedron (having the triangular faces in common), and the small dodecahemidodecahedron (having the pentagonal faces in common). The vertex arrangement is also shared with the compounds of five octahedra and of five tetrahemihexahedra.
 
-+:------------------------------:+:-----------------------------------:+:--------------------------------:+
-| Icosidodecahedron.png          | Small_icosihemidodecahedron.png     | Small_dodecahemidodecahedron.png |
-| Icosidodecahedron              | Small icosihemidodecahedron         | Small dodecahemidodecahedron     |
-+--------------------------------+-------------------------------------+----------------------------------+
-| Great_icosidodecahedron.png    | Great_dodecahemidodecahedron.png    | Great_icosihemidodecahedron.png  |
-| Great icosidodecahedron        | Great dodecahemidodecahedron        | Great icosihemidodecahedron      |
-+--------------------------------+-------------------------------------+----------------------------------+
-| Dodecadodecahedron.png         | Small_dodecahemicosahedron.png      | Great_dodecahemicosahedron.png   |
-| Dodecadodecahedron             | Small dodecahemicosahedron          | Great dodecahemicosahedron       |
-+--------------------------------+-------------------------------------+----------------------------------+
-| Compound_of_five_octahedra.png | UC18-5_tetrahemihexahedron.png      |                                  |
-| Compound of five octahedra     | Compound of five tetrahemihexahedra |                                  |
-+--------------------------------+-------------------------------------+----------------------------------+
++:--------------------------:+:-----------------------------------:+:----------------------------:+
+| Icosidodecahedron          | Small icosihemidodecahedron         | Small dodecahemidodecahedron |
++----------------------------+-------------------------------------+------------------------------+
+| Great icosidodecahedron    | Great dodecahemidodecahedron        | Great icosihemidodecahedron  |
++----------------------------+-------------------------------------+------------------------------+
+| Dodecadodecahedron         | Small dodecahemicosahedron          | Great dodecahemicosahedron   |
++----------------------------+-------------------------------------+------------------------------+
+| Compound of five octahedra | Compound of five tetrahemihexahedra |                              |
++----------------------------+-------------------------------------+------------------------------+
 
 Related polychora
 

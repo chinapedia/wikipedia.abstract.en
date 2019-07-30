@@ -16,7 +16,7 @@ History
 
 Early history
 
-'Vacationland',_newest_and_largest_car_ferry_added_to_Straits_of_Mackinaw_fleet.jpg'', the largest and last Michigan State Highway Department automobile ferry put in service prior to the completion of the Mackinac Bridge]]
+'', the largest and last Michigan State Highway Department automobile ferry put in service prior to the completion of the Mackinac Bridge]]
 
 The Algonquian peoples who lived in the straits area prior to the arrival of Europeans in the 17th century called this region _Michilimackinac_, which is widely understood to mean _the Great Turtle._ This is thought to refer to the shape of what is now called Mackinac Island. This interpretation of the word is debated by scholars. Trading posts at the Straits of Mackinac attracted peak populations during the summer trading season; they also developed as intertribal meeting places.[6]
 
@@ -50,7 +50,7 @@ After a report by the engineers in January 1951,[12] the state legislature autho
 
 Engineering and construction
 
-Mackinac_Bridge_Tower.jpg David B. Steinman was appointed as the design engineer in January 1953 and by the end of 1953, estimates and contracts had been negotiated. A Civil Engineer at the firm, Abul Hasnat, did the preliminary plans for the bridge. Total cost estimate at that time was $95 million (equivalent to $ in ) with estimated completion by November 1, 1956. Tolls collected were to pay for the bridge in 20 years.[13] Construction began on May 7, 1954. The American Bridge Division of United States Steel Corporation was awarded a contract of more than $44 million (equivalent to $ in ) to build the steel superstructure.
+David B. Steinman was appointed as the design engineer in January 1953 and by the end of 1953, estimates and contracts had been negotiated. A Civil Engineer at the firm, Abul Hasnat, did the preliminary plans for the bridge. Total cost estimate at that time was $95 million (equivalent to $ in ) with estimated completion by November 1, 1956. Tolls collected were to pay for the bridge in 20 years.[13] Construction began on May 7, 1954. The American Bridge Division of United States Steel Corporation was awarded a contract of more than $44 million (equivalent to $ in ) to build the steel superstructure.
 
 Construction, staged using the 1939–41 causeway, took three and a half years (four summers, no winter construction) at a total cost of $100 million and the lives of five workers. Contrary to popular belief, none of them are entombed in the Bridge.[14] It opened to traffic on schedule on November 1, 1957, and the ferry service was discontinued on the same day. The Bridge was formally dedicated on June 25, 1958.
 
@@ -60,12 +60,10 @@ The bridge officially achieved its 100 millionth crossing exactly forty years a
 
 History of the bridge design
 
-Mackinac_Bridge-2.jpg The design of the Mackinac Bridge was directly influenced by the lessons from the first Tacoma Narrows Bridge, which failed in 1940 because of its instability in high winds. Three years after that disaster, Steinman had published a theoretical analysis of suspension-bridge stability problems, which recommended that future bridge designs include deep stiffening trusses to support the bridge deck and an open-grid roadway to reduce its wind resistance. Both of these features were incorporated into the design of the Mackinac Bridge. The stiffening truss is open to reduce wind resistance. The road deck is shaped as an airfoil to provide lift in a cross wind, and the center two lanes are open grid to allow vertical (upward) air flow, which fairly precisely cancels the lift, making the roadway stable in design in winds of up to .
+The design of the Mackinac Bridge was directly influenced by the lessons from the first Tacoma Narrows Bridge, which failed in 1940 because of its instability in high winds. Three years after that disaster, Steinman had published a theoretical analysis of suspension-bridge stability problems, which recommended that future bridge designs include deep stiffening trusses to support the bridge deck and an open-grid roadway to reduce its wind resistance. Both of these features were incorporated into the design of the Mackinac Bridge. The stiffening truss is open to reduce wind resistance. The road deck is shaped as an airfoil to provide lift in a cross wind, and the center two lanes are open grid to allow vertical (upward) air flow, which fairly precisely cancels the lift, making the roadway stable in design in winds of up to .
 
 
 Facts and figures
-
-Mackinac_Bridge.jpg Mackinac_Bridge_at_Night_August_2011.jpg Freighter_passing_under_Macinac_Bridge.jpg
 
 The Mackinac Bridge is currently a toll bridge on Interstate 75 (I-75). Prior to the coming of I-75, the bridge carried US Highway 27 (US 27). It is one of only three segments of I-75 that are tolled, the others being the American half of the International Bridge near Sault Ste. Marie, Michigan, and Alligator Alley in Florida. The current toll is $4.00 for automobiles and $5.00 per axle for trucks.[20] The Mackinac Bridge Authority raised the toll in 2007 to fund a $300 million renovation program, which would include completely replacing the bridge deck.[21]
 
@@ -134,17 +132,17 @@ Travelers across the Mackinac Bridge can listen to an AM radio broadcast that re
 
 Bridge Walk
 
-Mackwalk.JPG The Mackinac Bridge Walk has been held each year since 1958, when it was led by Governor G. Mennen Williams. The first walk was held during the Bridge's Dedication Ceremony held in late June, and has been held on Labor Day since 1959. Until 2018, school buses from local districts transported walkers from Mackinaw City to St. Ignace to begin the walk. Thousands of people, traditionally led by the Governor of Michigan, cross the five-mile (8 km) span on foot from St. Ignace to Mackinaw City. Before 1964, people walked the Bridge from Mackinaw City to St. Ignace. Prior to 2017, two lanes of the bridge would remain open to public vehicle traffic; this policy was changed in 2017 to close the entire bridge to public vehicle traffic for the duration of the event.[59] The Bridge Walk is the only day of the year that hikers can hike this section of the North Country National Scenic Trail.[60]
+The Mackinac Bridge Walk has been held each year since 1958, when it was led by Governor G. Mennen Williams. The first walk was held during the Bridge's Dedication Ceremony held in late June, and has been held on Labor Day since 1959. Until 2018, school buses from local districts transported walkers from Mackinaw City to St. Ignace to begin the walk. Thousands of people, traditionally led by the Governor of Michigan, cross the five-mile (8 km) span on foot from St. Ignace to Mackinaw City. Before 1964, people walked the Bridge from Mackinaw City to St. Ignace. Prior to 2017, two lanes of the bridge would remain open to public vehicle traffic; this policy was changed in 2017 to close the entire bridge to public vehicle traffic for the duration of the event.[59] The Bridge Walk is the only day of the year that hikers can hike this section of the North Country National Scenic Trail.[60]
 
 
 Tourism
 
-MackinacIslandFerry.jpg ferry passing in front of the Mackinac Bridge.]] During summers, the Upper Peninsula and the Mackinac Bridge have become a major tourist destination.[61] In addition to visitors to Mackinac Island, the bridge has attracted interest from a diverse group of tourists including bridge enthusiasts, bird-watchers, and photographers.[62] The Straits area is a popular sailing destination for boats of all types, which make it easier to get a closer view to the underlying structure of the bridge.
+ferry passing in front of the Mackinac Bridge.]] During summers, the Upper Peninsula and the Mackinac Bridge have become a major tourist destination.[61] In addition to visitors to Mackinac Island, the bridge has attracted interest from a diverse group of tourists including bridge enthusiasts, bird-watchers, and photographers.[62] The Straits area is a popular sailing destination for boats of all types, which make it easier to get a closer view to the underlying structure of the bridge.
 
 
 In media
 
-Mackinac_Bridge_from_Mackinaw_City.jpg On June 25, 1958, to coincide with the 1958 celebration of the November 1957 opening, the United States Postal Service (USPS) released a 3¢ commemorative stamp featuring the recently completed bridge. It was entitled "Connecting the Peninsulas of Michigan" and 107,195,200 copies were issued.[63] The USPS again honored the Mackinac Bridge as the subject of its 2010 priority mail $4.90 stamp, which went on sale February 3.[64] The bridge authority and MDOT unveiled the stamp, which featured a "seagull's-eye view" of the landmark, with a passing freighter below.[65] Artist Dan Cosgrove worked from panoramic photographs to create the artwork. This is one of several designs that Cosgrove has produced for the USPS.[66]
+On June 25, 1958, to coincide with the 1958 celebration of the November 1957 opening, the United States Postal Service (USPS) released a 3¢ commemorative stamp featuring the recently completed bridge. It was entitled "Connecting the Peninsulas of Michigan" and 107,195,200 copies were issued.[63] The USPS again honored the Mackinac Bridge as the subject of its 2010 priority mail $4.90 stamp, which went on sale February 3.[64] The bridge authority and MDOT unveiled the stamp, which featured a "seagull's-eye view" of the landmark, with a passing freighter below.[65] Artist Dan Cosgrove worked from panoramic photographs to create the artwork. This is one of several designs that Cosgrove has produced for the USPS.[66]
 
 On April 24, 1959, Captain John S. Lappo, an officer in the Strategic Air Command, operating from Lockbourne AFB flew his Boeing B-47 Stratojet beneath the bridge. Following a General court-martial, he was grounded for life.[67]
 

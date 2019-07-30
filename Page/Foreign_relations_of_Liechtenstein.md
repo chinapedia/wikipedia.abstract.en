@@ -1,4 +1,4 @@
-Honorary_Consulate_of_Mexico_in_Liechtenstein.JPG Maltese_Consulate,_Schaan_(1Y7A2240).jpg Liechtenstein's foreign economic policy has been dominated by its customs union with Switzerland (and with Austria-Hungary until World War I). This union also led to its independent membership in the European Free Trade Association (EFTA) in 1991. Unlike Switzerland however (where citizens rejected membership in a referendum), Liechtenstein is part of the European Economic Area.
+Liechtenstein's foreign economic policy has been dominated by its customs union with Switzerland (and with Austria-Hungary until World War I). This union also led to its independent membership in the European Free Trade Association (EFTA) in 1991. Unlike Switzerland however (where citizens rejected membership in a referendum), Liechtenstein is part of the European Economic Area.
 
 Liechtenstein was admitted to the United Nations in 1990. It is also a member of most specialized organizations of the UN system, an exception being UNESCO.
 

@@ -9,7 +9,7 @@ Libya is a member of the United Nations (since 1955), the Non-Aligned Movement, 
 
 Etymology
 
-Archaeological_Site_of_Sabratha-108976.jpg The Latin name Libya (from Greek Λιβύη, Libyē) referred to the region west of the Nile generally corresponding to its central location in North Africa historically visited by many Mediterranean cultures which referred to its original inhabitants as the "Libúē." The name _Libya_ was introduced in 1934 for Italian Libya, reviving the historical name for Northwest Africa, from the ancient Greek (__).[17] It was intended to supplant terms applied to Ottoman Tripolitania, the coastal region of what is today Libya having been ruled by the Ottoman Empire from 1551 to 1911, as the Eyalet of Tripolitania. The name "Libya" was brought back into use in 1903 by Italian geographer Federico Minutilli.[18]
+The Latin name Libya (from Greek Λιβύη, Libyē) referred to the region west of the Nile generally corresponding to its central location in North Africa historically visited by many Mediterranean cultures which referred to its original inhabitants as the "Libúē." The name _Libya_ was introduced in 1934 for Italian Libya, reviving the historical name for Northwest Africa, from the ancient Greek (__).[17] It was intended to supplant terms applied to Ottoman Tripolitania, the coastal region of what is today Libya having been ruled by the Ottoman Empire from 1551 to 1911, as the Eyalet of Tripolitania. The name "Libya" was brought back into use in 1903 by Italian geographer Federico Minutilli.[18]
 
 Libya gained independence in 1951 as the United Libyan Kingdom ( __), changing its name to the Kingdom of Libya ( __) literally "Libyan Kingdom" in 1963.[19] Following a coup d'état led by Muammar Gaddafi in 1969, the name of the state was changed to the Libyan Arab Republic ( __). The official name was "Socialist People's Libyan Arab Jamahiriya" from 1977 to 1986 (Arabic الجماهيرية العربية الليبية الشعبية الاشتراكية), and "Great Socialist People's Libyan Arab Jamahiriya"[20] ([21] __ ) from 1986 to 2011.
 
@@ -22,7 +22,7 @@ History
 
 Ancient Libya
 
-Temple_of_Zeus_-_Cyrene.jpg in the ancient Greek city of Cyrene]] Berber_ancient_Libyan;_as_depicted_in_the_tomb_of_Seti_I.jpg) represented on the tomb of Pharaoh Seti I.]]
+in the ancient Greek city of Cyrene]] ) represented on the tomb of Pharaoh Seti I.]]
 
 The coastal plain of Libya was inhabited by Neolithic peoples from as early as 8000 BC. The Afroasiatic ancestors of the Berber people are assumed to have spread into the area by the Late Bronze Age. The earliest known name of such a tribe was the Garamantes, based in Germa. The Phoenicians were the first to establish trading posts in Libya.[25] By the 5th century BC, the greatest of the Phoenician colonies, Carthage, had extended its hegemony across much of North Africa, where a distinctive civilization, known as Punic, came into being.
 
@@ -30,7 +30,7 @@ In 630 BC, the ancient Greeks colonized the area around Barca in Eastern Libya a
 
 Achaemenid Libya
 
-Xerxes_I_tomb_Libyan_soldier_circa_480_BCE.jpg, circa 480 BCE. Xerxes I tomb relief.]] In 525 BC the Persian army of Cambyses II overran Cyrenaica, which for the next two centuries remained under Persian or Egyptian rule. Alexander the Great was greeted by the Greeks when he entered Cyrenaica in 331 BC, and Eastern Libya again fell under the control of the Greeks, this time as part of the Ptolemaic Kingdom.
+, circa 480 BCE. Xerxes I tomb relief.]] In 525 BC the Persian army of Cambyses II overran Cyrenaica, which for the next two centuries remained under Persian or Egyptian rule. Alexander the Great was greeted by the Greeks when he entered Cyrenaica in 331 BC, and Eastern Libya again fell under the control of the Greeks, this time as part of the Ptolemaic Kingdom.
 
 After the fall of Carthage the Romans did not immediately occupy Tripolitania (the region around Tripoli), but left it instead under control of the kings of Numidia, until the coastal cities asked and obtained its protection.[28] Ptolemy Apion, the last Greek ruler, bequeathed Cyrenaica to Rome, which formally annexed the region in 74 BC and joined it to Crete as a Roman province. As part of the Africa Nova province, Tripolitania was prosperous,[29] and reached a golden age in the 2nd and 3rd centuries, when the city of Leptis Magna, home to the Severan dynasty, was at its height.[30]
 
@@ -40,7 +40,7 @@ The decline of the Roman Empire saw the classical cities fall into ruin, a proce
 
 Islamic Libya
 
-Awjila_(Libia)_-_The_Mosque_of_Atiq.jpg in Awjila is the oldest mosque in the Sahara.]] Under the command of 'Amr ibn al-'As, the Rashidun army conquered Cyrenaica.[37] In 647 an army led by Abdullah ibn Saad took Tripoli from the Byzantines definitively.[38] The Fezzan was conquered by Uqba ibn Nafi in 663. The Berber tribes of the hinterland accepted Islam, however they resisted Arab political rule.[39]
+in Awjila is the oldest mosque in the Sahara.]] Under the command of 'Amr ibn al-'As, the Rashidun army conquered Cyrenaica.[37] In 647 an army led by Abdullah ibn Saad took Tripoli from the Byzantines definitively.[38] The Fezzan was conquered by Uqba ibn Nafi in 663. The Berber tribes of the hinterland accepted Islam, however they resisted Arab political rule.[39]
 
 For the next several decades, Libya was under the purview of the Umayyad Caliph of Damascus until the Abbasids overthrew the Umayyads in 750, and Libya came under the rule of Baghdad. When Caliph Harun al-Rashid appointed Ibrahim ibn al-Aghlab as his governor of Ifriqiya in 800, Libya enjoyed considerable local autonomy under the Aghlabid dynasty. By the 10th century, the Shiite Fatimids controlled Western Libya, and ruled the entire region in 972 and appointed Bologhine ibn Ziri as governor.[40]
 
@@ -52,27 +52,27 @@ After weakening control of Abbasids, Cyrenaica was under Egypt based states such
 
 Ottoman Tripolitania (1551–1911)
 
-Capture_of_Tripoli_by_the_Ottomans_1551.jpg in 1551 allowed the Ottomans to capture the city from the Knights of St. John.]]
+in 1551 allowed the Ottomans to capture the city from the Knights of St. John.]]
 
 After a successful invasion of Tripoli by Habsburg Spain in 1510,[44] and its handover to the Knights of St. John, the Ottoman admiral Sinan Pasha took control of Libya in 1551.[45] His successor Turgut Reis was named the Bey of Tripoli and later Pasha of Tripoli in 1556. By 1565, administrative authority as regent in Tripoli was vested in a _pasha_ appointed directly by the _sultan_ in Constantinople/Istanbul. In the 1580s, the rulers of Fezzan gave their allegiance to the sultan, and although Ottoman authority was absent in Cyrenaica, a _bey_ was stationed in Benghazi late in the next century to act as agent of the government in Tripoli.[46] European slaves and large numbers of enslaved Blacks transported from Sudan were also a feature of everyday life in Tripoli. In 1551, Turgut Reis enslaved almost the entire population of the Maltese island of Gozo, some 5,000 people, sending them to Libya.[47][48]
 
 In time, real power came to rest with the pasha's corps of janissaries.[49] In 1611 the _deys_ staged a coup against the pasha, and Dey Sulayman Safar was appointed as head of government. For the next hundred years, a series of _deys_ effectively ruled Tripolitania. The two most important Deys were Mehmed Saqizli (r. 1631–49) and Osman Saqizli (r. 1649–72), both also Pasha, who ruled effectively the region.[50] The latter conquered also Cyrenaica.[51]
 
-EnterpriseTripoli.jpg'' of the Mediterranean Squadron capturing a Tripolitan Corsair during the First Barbary War, 1801]] Lacking direction from the Ottoman government, Tripoli lapsed into a period of military anarchy during which coup followed coup and few deys survived in office more than a year. One such coup was led by Turkish officer Ahmed Karamanli.[52] The Karamanlis ruled from 1711 until 1835 mainly in Tripolitania, and had influence in Cyrenaica and Fezzan as well by the mid-18th century. Ahmad's successors proved to be less capable than himself, however, the region's delicate balance of power allowed the Karamanli. The 1793–95 Tripolitanian civil war occurred in those years. In 1793, Turkish officer Ali Benghul deposed Hamet Karamanli and briefly restored Tripolitania to Ottoman rule. Hamet's brother Yusuf (r. 1795–1832) re-established Tripolitania's independence.
+'' of the Mediterranean Squadron capturing a Tripolitan Corsair during the First Barbary War, 1801]] Lacking direction from the Ottoman government, Tripoli lapsed into a period of military anarchy during which coup followed coup and few deys survived in office more than a year. One such coup was led by Turkish officer Ahmed Karamanli.[52] The Karamanlis ruled from 1711 until 1835 mainly in Tripolitania, and had influence in Cyrenaica and Fezzan as well by the mid-18th century. Ahmad's successors proved to be less capable than himself, however, the region's delicate balance of power allowed the Karamanli. The 1793–95 Tripolitanian civil war occurred in those years. In 1793, Turkish officer Ali Benghul deposed Hamet Karamanli and briefly restored Tripolitania to Ottoman rule. Hamet's brother Yusuf (r. 1795–1832) re-established Tripolitania's independence.
 
-NH_65536-KN.jpg engaging gunboats and fortifications in Tripoli, 1804]] In the early 19th century war broke out between the United States and Tripolitania, and a series of battles ensued in what came to be known as the First Barbary War and the Second Barbary War. By 1819, the various treaties of the Napoleonic Wars had forced the Barbary states to give up piracy almost entirely, and Tripolitania's economy began to crumble. As Yusuf weakened, factions sprung up around his three sons. Civil war soon resulted.[53]
+engaging gunboats and fortifications in Tripoli, 1804]] In the early 19th century war broke out between the United States and Tripolitania, and a series of battles ensued in what came to be known as the First Barbary War and the Second Barbary War. By 1819, the various treaties of the Napoleonic Wars had forced the Barbary states to give up piracy almost entirely, and Tripolitania's economy began to crumble. As Yusuf weakened, factions sprung up around his three sons. Civil war soon resulted.[53]
 
 Ottoman Sultan Mahmud II sent in troops ostensibly to restore order, marking the end of both the Karamanli dynasty and an independent Tripolitania.[54] Order was not recovered easily, and the revolt of the Libyan under Abd-El-Gelil and Gûma ben Khalifa lasted until the death of the latter in 1858.[55] The second period of direct Ottoman rule saw administrative changes, and greater order in the governance of the three provinces of Libya. Ottoman rule finally reasserted to Fezzan between 1850 and 1875 for earning income from Saharan commerce.
 
 Italian Libya (1911–1947)
 
-Omar_Mukhtar_13.jpg was the leader of Libyan resistance in Cyrenaica against the Italian colonisation.]] Cartolina_Giovanni_Pastorelli.jpg depicting the invasion of Libya during the Italo-Turkish War.]]
+was the leader of Libyan resistance in Cyrenaica against the Italian colonisation.]] depicting the invasion of Libya during the Italo-Turkish War.]]
 
 After the Italo-Turkish War (1911–1912), Italy simultaneously turned the three regions into colonies.[56] From 1912 to 1927, the territory of Libya was known as Italian North Africa. From 1927 to 1934, the territory was split into two colonies, Italian Cyrenaica and Italian Tripolitania, run by Italian governors. Some 150,000 Italians settled in Libya, constituting roughly 20% of the total population.[57]
 
 In 1934, Italy adopted the name "Libya" (used by the Ancient Greeks and Romans for all of North Africa, except Egypt) as the official name of the colony (made up of the three provinces of Cyrenaica, Tripolitania and Fezzan). Omar Mukhtar was the resistance leader against the Italian colonization and became a national hero despite his capture and execution on 16 September 1931.[58] His face is currently printed on the Libyan ten dinar note in memory and recognition of his patriotism.
 
-Idris al-Mahdi as-Senussi (later King Idris I), Emir of Cyrenaica, led the Libyan resistance to Italian occupation between the two world wars. The pacification of Libya resulted in mass deaths of the indigenous people in Cyrenaica – one quarter of Cyrenaica's population of 225,000 people died.[59] Ilan Pappé estimates that between 1928 and 1932 the Italian military "killed half the Bedouin population (directly or through disease and starvation in Italian concentration camps in Libya)."[60] Italian historian Emilio Gentile estimates 50,000 deaths resulting from the suppression of resistance.[61] 9_Div_Tobruk(AWM_020779).jpg of Tobruk during World War II. Beginning on 10 April 1941, the Siege of Tobruk lasted for 240 days]]
+Idris al-Mahdi as-Senussi (later King Idris I), Emir of Cyrenaica, led the Libyan resistance to Italian occupation between the two world wars. The pacification of Libya resulted in mass deaths of the indigenous people in Cyrenaica – one quarter of Cyrenaica's population of 225,000 people died.[59] Ilan Pappé estimates that between 1928 and 1932 the Italian military "killed half the Bedouin population (directly or through disease and starvation in Italian concentration camps in Libya)."[60] Italian historian Emilio Gentile estimates 50,000 deaths resulting from the suppression of resistance.[61] of Tobruk during World War II. Beginning on 10 April 1941, the Siege of Tobruk lasted for 240 days]]
 
 In 1934 the governor-general Balbo created the political entity called "Libya", with Tripoli as its capital.[62] The Italians emphasized infrastructure improvements and public works. In particular, they hugely expanded Libyan railway and road networks from 1934 to 1940, building hundreds of kilometers of new roads and railways and encouraging the establishment of new industries and dozen of new agricultural villages.
 
@@ -82,7 +82,7 @@ From 1943 to 1951, Libya was under Allied occupation. The British military admin
 
 Independence, Kingdom of Libya and Libya under the direction of Gaddafi (1951–2011)
 
-King_Idris_I_of_Libya_August_15,_1965.jpg of the Senussi order became the first head of state of Libya in 1951]] On 24 December 1951, Libya declared its independence as the United Kingdom of Libya, a constitutional and hereditary monarchy under King Idris, Libya's only monarch. The discovery of significant oil reserves in 1959 and the subsequent income from petroleum sales enabled one of the world's poorest nations to establish an extremely wealthy state. Although oil drastically improved the Libyan government's finances, resentment among some factions began to build over the increased concentration of the nation's wealth in the hands of King Idris.[64] Nasser_Gaddafi_1969.jpg in 1969]] On 1 September 1969, a group of rebel military officers led by Muammar Gaddafi launched a coup d'état against King Idris, which became known as the Al Fateh Revolution.[65] Gaddafi was referred to as the "Brother Leader and Guide of the Revolution" in government statements and the official Libyan press.[66] Moving to reduce Italian influence, in October 1970 all Italian-owned assets were expropriated and the 12,000-strong Italian community was expelled from Libya alongside the smaller community of Libyan Jews. The day became a national holiday known as "Vengeance Day".[67] Libya's increase in prosperity was accompanied by increased internal political repression, and political dissent was made illegal under Law 75 of 1973. Widespread surveillance of the population was carried out through Gaddafi's Revolutionary Committees.[68][69][70]
+of the Senussi order became the first head of state of Libya in 1951]] On 24 December 1951, Libya declared its independence as the United Kingdom of Libya, a constitutional and hereditary monarchy under King Idris, Libya's only monarch. The discovery of significant oil reserves in 1959 and the subsequent income from petroleum sales enabled one of the world's poorest nations to establish an extremely wealthy state. Although oil drastically improved the Libyan government's finances, resentment among some factions began to build over the increased concentration of the nation's wealth in the hands of King Idris.[64] in 1969]] On 1 September 1969, a group of rebel military officers led by Muammar Gaddafi launched a coup d'état against King Idris, which became known as the Al Fateh Revolution.[65] Gaddafi was referred to as the "Brother Leader and Guide of the Revolution" in government statements and the official Libyan press.[66] Moving to reduce Italian influence, in October 1970 all Italian-owned assets were expropriated and the 12,000-strong Italian community was expelled from Libya alongside the smaller community of Libyan Jews. The day became a national holiday known as "Vengeance Day".[67] Libya's increase in prosperity was accompanied by increased internal political repression, and political dissent was made illegal under Law 75 of 1973. Widespread surveillance of the population was carried out through Gaddafi's Revolutionary Committees.[68][69][70]
 
 Gaddafi also wanted to combat the strict social restrictions that had been imposed on women by the previous regime, establishing the Revolutionary Women's Formation to encourage reform. In 1970, a law was introduced affirming equality of the sexes and insisting on wage parity. In 1971, Gaddafi sponsored the creation of a Libyan General Women's Federation. In 1972, a law was passed criminalizing the marriage of any females under the age of sixteen and ensuring that a woman's consent was a necessary prerequisite for a marriage.[71]
 
@@ -92,7 +92,7 @@ In February 1977, Libya started delivering military supplies to Goukouni Oueddei
 
 From 1977 onward, per capita income in the country rose to more than US$11,000, the fifth-highest in Africa,[78] while the Human Development Index became the highest in Africa and greater than that of Saudi Arabia.[79] This was achieved without borrowing any foreign loans, keeping Libya debt-free.[80] The Great Manmade River was also built to allow free access to fresh water across large parts of the country.[81] In addition, financial support was provided for university scholarships and employment programs.[82]
 
-Much of Libya's income from oil, which soared in the 1970s, was spent on arms purchases and on sponsoring dozens of paramilitaries and terrorist groups around the world.[83][84][85] An American airstrike intended to kill Gaddafi failed in 1986. Libya was finally put under sanctions by the United Nations after the bombing of a commercial flight killed 270 people.[86] Muammar_al-Gaddafi_at_the_AU_summit.jpg gained power in a 1969 coup and was "leader of the revolution" until his overthrow in 2011.]]
+Much of Libya's income from oil, which soared in the 1970s, was spent on arms purchases and on sponsoring dozens of paramilitaries and terrorist groups around the world.[83][84][85] An American airstrike intended to kill Gaddafi failed in 1986. Libya was finally put under sanctions by the United Nations after the bombing of a commercial flight killed 270 people.[86] gained power in a 1969 coup and was "leader of the revolution" until his overthrow in 2011.]]
 
 2011 Civil War
 
@@ -100,7 +100,7 @@ After the Arab Spring movements overturned the rulers of Tunisia and Egypt, Liby
 
 Pro-Gaddaffi forces were able to respond militarily to rebel pushes in Western Libya and launched a counterattack along the coast toward Benghazi, the _de facto_ centre of the uprising.[92] The town of Zawiya, from Tripoli, was bombarded by air force planes and army tanks and seized by Jamahiriya troops, "exercising a level of brutality not yet seen in the conflict."[93]
 
-Coalition_action_against_Libya-en.svg over Libya as well as bases and warships which were involved in the 2011 military intervention]] Organizations of the United Nations, including United Nations Secretary General Ban Ki-moon[94] and the United Nations Human Rights Council, condemned the crackdown as violating international law, with the latter body expelling Libya outright in an unprecedented action urged by Libya's own delegation to the UN.[95][96]
+over Libya as well as bases and warships which were involved in the 2011 military intervention]] Organizations of the United Nations, including United Nations Secretary General Ban Ki-moon[94] and the United Nations Human Rights Council, condemned the crackdown as violating international law, with the latter body expelling Libya outright in an unprecedented action urged by Libya's own delegation to the UN.[95][96]
 
 On 17 March 2011 the UN Security Council passed Resolution 1973,[97] with a 10–0 vote and five abstentions including Russia, China, India, Brazil and Germany. The resolution sanctioned the establishment of a no-fly zone and the use of "all means necessary" to protect civilians within Libya.[98] On 19 March, the first act of NATO allies to secure the no-fly zone began by destroying Libyan air defenses when French military jets entered Libyan airspace on a reconnaissance mission heralding attacks on enemy targets.[99]
 
@@ -112,8 +112,8 @@ At least 30,000 Libyans died in the civil war.[104] In addition, the National Tr
 
 Post-Gaddafi era and the Second Civil War
 
-Libyan_Civil_War.svg, updated 18 January 2019:
-Location_dot_red.svg Tobruk-led Government Location_dot_lime.svg Government of National Accord Location_dot_blue.svg Petroleum Facilities Guard Location_dot_yellow.svg Tuareg tribes Location_dot_orange.svg Local forces ]]
+, updated 18 January 2019:
+Tobruk-led Government Government of National Accord Petroleum Facilities Guard Tuareg tribes Local forces ]]
 
 Since the defeat of loyalist forces, Libya has been torn among numerous rival, armed militias affiliated with distinct regions, cities and tribes, while the central government has been weak and unable effectively to exert its authority over the country. Competing militias have pitted themselves against each other in a political struggle between Islamist politicians and their opponents.[106] On 7 July 2012, Libyans held their first parliamentary elections since the end of the former regime. On 8 August 2012, the National Transitional Council officially handed power over to the wholly elected General National Congress, which was then tasked with the formation of an interim government and the drafting of a new Libyan Constitution to be approved in a general referendum.[107]
 
@@ -123,11 +123,11 @@ On 11 September 2012, Islamist militants mounted a surprise attack on the Americ
 
 On 7 October 2012, Libya's Prime Minister-elect Mustafa A.G. Abushagur was ousted after failing a second time to win parliamentary approval for a new cabinet.[113][114][115] On 14 October 2012, the General National Congress elected former GNC member and human rights lawyer Ali Zeidan as prime minister-designate.[116] Zeidan was sworn in after his cabinet was approved by the GNC.[117][118] On 11 March 2014, after having been ousted by the GNC for his inability to halt a rogue oil shipment,[119] Prime Minister Zeiden stepped down, and was replaced by Prime Minister Abdullah al-Thani.[120] On 25 March 2014, in the face of mounting instability, al-Thani's government briefly explored the possibility of the restoration of the Libyan monarchy.
 
-LE_Eithne_Operation_Triton.jpg]] In June 2014, elections were held to the Council of Deputies, a new legislative body intended to take over from the General National Congress. The elections were marred by violence and low turnout, with voting stations closed in some areas.[121] Secularists and liberals did well in the elections, to the consternation of Islamist lawmakers in the GNC, who reconvened and declared a continuing mandate for the GNC, refusing to recognise the new Council of Deputies.[122] Armed supporters of the General National Congress occupied Tripoli, forcing the newly elected parliament to flee to Tobruk.[123][124]
+]] In June 2014, elections were held to the Council of Deputies, a new legislative body intended to take over from the General National Congress. The elections were marred by violence and low turnout, with voting stations closed in some areas.[121] Secularists and liberals did well in the elections, to the consternation of Islamist lawmakers in the GNC, who reconvened and declared a continuing mandate for the GNC, refusing to recognise the new Council of Deputies.[122] Armed supporters of the General National Congress occupied Tripoli, forcing the newly elected parliament to flee to Tobruk.[123][124]
 
 Libya has been riven by conflict between the rival parliaments since mid-2014. Tribal militias and jihadist groups have taken advantage of the power vacuum. Most notably, radical Islamist fighters seized Derna in 2014 and Sirte in 2015 in the name of the Islamic State of Iraq and the Levant. In early 2015, neighbouring Egypt launched airstrikes against ISIL in support of the Tobruk government.[125][126][127]
 
-General_Haftar.jpg Khalifa Haftar, the head of the Libyan National Army, one of the main factions in the 2014 civil war.]] In January 2015, meetings were held with the aim to find a peaceful agreement between the rival parties in Libya. The so-called Geneva-Ghadames talks were supposed to bring the GNC and the Tobruk government together at one table to find a solution of the internal conflict. However, the GNC actually never participated, a sign that internal division not only affected the "Tobruk Camp", but also the "Tripoli Camp". Meanwhile, terrorism within Libya has steadily increased, affecting also neighbouring countries. The terrorist attack against the Bardo Museum on 18 March 2015, was reportedly carried on by two Libyan-trained militants.[128]
+Khalifa Haftar, the head of the Libyan National Army, one of the main factions in the 2014 civil war.]] In January 2015, meetings were held with the aim to find a peaceful agreement between the rival parties in Libya. The so-called Geneva-Ghadames talks were supposed to bring the GNC and the Tobruk government together at one table to find a solution of the internal conflict. However, the GNC actually never participated, a sign that internal division not only affected the "Tobruk Camp", but also the "Tripoli Camp". Meanwhile, terrorism within Libya has steadily increased, affecting also neighbouring countries. The terrorist attack against the Bardo Museum on 18 March 2015, was reportedly carried on by two Libyan-trained militants.[128]
 
 During 2015 an extended series of diplomatic meetings and peace negotiations were supported by the United Nations, as conducted by the Special Representative of the Secretary-General (SRSG), Spanish diplomat Bernardino Leon.[129][130][131] UN support for the SRSG-led process of dialogue carried on in addition to the usual work of the United Nations Support Mission in Libya (UNSMIL).[132]
 
@@ -146,7 +146,7 @@ In June 2019, forces allied to Libya’s UN-recognized Government of National Ac
 
 Geography
 
-Un-libya.png Libya_map_of_Köppen_climate_classification.svg Libya_4983_Tadrart_Acacus_Luca_Galuzzi_2007.jpg Libya extends over , making it the 16th largest nation in the world by size. Libya is bound to the north by the Mediterranean Sea, the west by Tunisia and Algeria, the southwest by Niger, the south by Chad, the southeast by Sudan, and the east by Egypt. Libya lies between latitudes 19° and 34°N, and longitudes 9° and 26°E.
+Libya extends over , making it the 16th largest nation in the world by size. Libya is bound to the north by the Mediterranean Sea, the west by Tunisia and Algeria, the southwest by Niger, the south by Chad, the southeast by Sudan, and the east by Egypt. Libya lies between latitudes 19° and 34°N, and longitudes 9° and 26°E.
 
 At , Libya's coastline is the longest of any African country bordering the Mediterranean.[143][144] The portion of the Mediterranean Sea north of Libya is often called the Libyan Sea. The climate is mostly extremely dry and desertlike in nature. However, the northern regions enjoy a milder Mediterranean climate.[145]
 
@@ -154,7 +154,7 @@ Natural hazards come in the form of hot, dry, dust-laden sirocco (known in Libya
 
 Libyan Desert
 
-Libyan_Dessert.jpg The Libyan Desert, which covers much of Libya, is one of the most arid and sun-baked places on earth.[147] In places, decades may pass without seeing any rainfall at all, and even in the highlands rainfall seldom happens, once every 5–10 years. At Uweinat, the last recorded rainfall was in September 1998.[148]
+The Libyan Desert, which covers much of Libya, is one of the most arid and sun-baked places on earth.[147] In places, decades may pass without seeing any rainfall at all, and even in the highlands rainfall seldom happens, once every 5–10 years. At Uweinat, the last recorded rainfall was in September 1998.[148]
 
 Likewise, the temperature in the Libyan Desert can be extreme; on 13 September 1922, the town of 'Aziziya, which is located southwest of Tripoli, recorded an air temperature of , considered to be a world record.[149][150][151] In September 2012, however, the world record figure of 58 °C was overturned by the World Meteorological Organization.[152][153][154]
 
@@ -173,7 +173,7 @@ The former legislature was the General National Congress, which had 200 seats.[1
 
 On 7 July 2012, Libyans voted in parliamentary elections, the first free elections in almost 40 years.[162] Around thirty women were elected to become members of parliament.[163] Early results of the vote showed the National Forces Alliance, led by former interim Prime Minister Mahmoud Jibril, as front runner.[164] The Justice and Construction Party, affiliated to the Muslim Brotherhood, has done less well than similar parties in Egypt and Tunisia.[165] It won 17 out of 80 seats that were contested by parties, but about 60 independents have since joined its caucus.[166]
 
-As of January 2013, there was mounting public pressure on the National Congress to set up a drafting body to create a new constitution. Congress had not yet decided whether the members of the body would be elected or appointed.[167] Jim_Mattis_with_Fayez_al-Sarraj_in_Washington_-_2017_(38751877521).jpg in November 2017]]
+As of January 2013, there was mounting public pressure on the National Congress to set up a drafting body to create a new constitution. Congress had not yet decided whether the members of the body would be elected or appointed.[167] in November 2017]]
 
 On 30 March 2014 General National Congress voted to replace itself with new Council of Deputies. The new legislature allocates 30 seats for women, will have 200 seats overall (with individuals able to run as members of political parties) and allows Libyans of foreign nationalities to run for office.[168]
 
@@ -187,11 +187,11 @@ An agreement to form a unified interim government was signed on 17 December 2015
 
 Foreign relations
 
-Secretary_Kerry,_UK_Foreign_Secretary_Hague_Hold_News_Conference_With_Libyan_Prime_Minister_Ziedan_(11035773394).jpg with Libyan Prime Minister Ali Zeidan and U.S. Secretary of State John Kerry, November 2013]] Libya's foreign policies have fluctuated since 1951. As a Kingdom, Libya maintained a definitively pro-Western stance, and was recognized as belonging to the conservative traditionalist bloc in the League of Arab States (the present-day Arab League), of which it became a member in 1953.[176] The government was also friendly towards Western countries such as the United Kingdom, United States, France, Italy, Greece, and established full diplomatic relations with the Soviet Union in 1955.[177]
+with Libyan Prime Minister Ali Zeidan and U.S. Secretary of State John Kerry, November 2013]] Libya's foreign policies have fluctuated since 1951. As a Kingdom, Libya maintained a definitively pro-Western stance, and was recognized as belonging to the conservative traditionalist bloc in the League of Arab States (the present-day Arab League), of which it became a member in 1953.[176] The government was also friendly towards Western countries such as the United Kingdom, United States, France, Italy, Greece, and established full diplomatic relations with the Soviet Union in 1955.[177]
 
 Although the government supported Arab causes, including the Moroccan and Algerian independence movements, it took little active part in the Arab-Israeli dispute or the tumultuous inter-Arab politics of the 1950s and early 1960s. The Kingdom was noted for its close association with the West, while it steered a conservative course at home.[178]
 
-Mutassim_Gadaffi_Hillary_Clinton.jpg, a son of Colonel Gaddafi, with U.S. Secretary of State Hillary Clinton in 2009. Father and son were later executed.]] After the 1969 coup, Muammar Gaddafi closed American and British bases and partly nationalized foreign oil and commercial interests in Libya.
+, a son of Colonel Gaddafi, with U.S. Secretary of State Hillary Clinton in 2009. Father and son were later executed.]] After the 1969 coup, Muammar Gaddafi closed American and British bases and partly nationalized foreign oil and commercial interests in Libya.
 
 Gaddafi was known for backing a number of leaders viewed as anathema to Westernization and political liberalism, including Ugandan President Idi Amin,[179] Central African Emperor Jean-Bédel Bokassa,[180][181] Ethiopian strongman Haile Mariam Mengistu,[182] Liberian President Charles Taylor,[183] and Yugoslav President Slobodan Milošević.[184]
 
@@ -211,7 +211,7 @@ Militias have so far refused to be integrated into a central security force.[200
 
 Administrative divisions
 
-Libya,_administrative_divisions_-_Nmbrs_-_colored.svg Historically, the area of Libya was considered three provinces (or states), Tripolitania in the northwest, Barka (Cyrenaica) in the east, and Fezzan in the southwest. It was the conquest by Italy in the Italo-Turkish War that united them in a single political unit.
+Historically, the area of Libya was considered three provinces (or states), Tripolitania in the northwest, Barka (Cyrenaica) in the east, and Fezzan in the southwest. It was the conquest by Italy in the Italo-Turkish War that united them in a single political unit.
 
 Since 2007, Libya has been divided into 22 districts (baladiyat):
 
@@ -222,7 +222,7 @@ According to Human Rights Watch annual report 2016, journalists are still being 
 
 Economy
 
-Bouri_NC_41_DP4_platform.jpg Oil Bouri DP4 in the Bouri Field]] The Libyan economy depends primarily upon revenues from the oil sector, which account for over half of GDP and 97% of exports.[205] Libya holds the largest proven oil reserves in Africa and is an important contributor to the global supply of light, sweet crude.[206] During 2010, when oil averaged at $80 a barrel, oil production accounted for 54% of GDP.[207] Apart from petroleum, the other natural resources are natural gas and gypsum.[208] The International Monetary Fund estimated Libya's real GDP growth at 122% in 2012 and 16.7% in 2013, after a 60% plunge in 2011.[209]
+Oil Bouri DP4 in the Bouri Field]] The Libyan economy depends primarily upon revenues from the oil sector, which account for over half of GDP and 97% of exports.[205] Libya holds the largest proven oil reserves in Africa and is an important contributor to the global supply of light, sweet crude.[206] During 2010, when oil averaged at $80 a barrel, oil production accounted for 54% of GDP.[207] Apart from petroleum, the other natural resources are natural gas and gypsum.[208] The International Monetary Fund estimated Libya's real GDP growth at 122% in 2012 and 16.7% in 2013, after a 60% plunge in 2011.[209]
 
 The World Bank defines Libya as an 'Upper Middle Income Economy', along with only seven other African countries.[210] Substantial revenues from the energy sector, coupled with a small population, give Libya one of the highest per capita GDPs in Africa.[211] This allowed the Libyan Arab Jamahiriya state to provide an extensive level of social security, particularly in the fields of housing and education.[212]
 
@@ -230,13 +230,13 @@ Libya faces many structural problems including a lack of institutions, weak gove
 
 Unemployment has risen from 8% in 2008 to 21%, according to the latest census figures.[217] According to an Arab League report, based on data from 2010, unemployment for women stands at 18% while for the figure for men is 21%, making Libya the only Arab country where there are more unemployed men than women.[218] Libya has high levels of social inequality, high rates of youth unemployment and regional economic disparities.[219] Water supply is also a problem, with some 28% of the population not having access to safe drinking water in 2000.[220]
 
-Libyan_pivot_irrigation_460142568_02e969004a_o.jpg in Kufra, southeast Cyrenaica]] Libya imports up to 90% of its cereal consumption requirements, and imports of wheat in 2012/13 was estimated at about 1 million tonnes.[221] The 2012 wheat production was estimated at about 200,000 tonnes.[222] The government hopes to increase food production to 800,000 tonnes of cereals by 2020.[223] However, natural and environmental conditions limit Libya's agricultural production potential.[224] Before 1958, agriculture was the country's main source of revenue, making up about 30% of GDP. With the discovery of oil in 1958, the size of the agriculture sector declined rapidly, comprising less than 5% GDP by 2005.[225]
+in Kufra, southeast Cyrenaica]] Libya imports up to 90% of its cereal consumption requirements, and imports of wheat in 2012/13 was estimated at about 1 million tonnes.[221] The 2012 wheat production was estimated at about 200,000 tonnes.[222] The government hopes to increase food production to 800,000 tonnes of cereals by 2020.[223] However, natural and environmental conditions limit Libya's agricultural production potential.[224] Before 1958, agriculture was the country's main source of revenue, making up about 30% of GDP. With the discovery of oil in 1958, the size of the agriculture sector declined rapidly, comprising less than 5% GDP by 2005.[225]
 
 The country joined OPEC in 1962.[226] Libya is not a WTO member, but negotiations for its accession started in 2004.[227]
 
 In the early 1980s, Libya was one of the wealthiest countries in the world; its GDP per capita was higher than some developed countries.[228]
 
-Libya_location_map-oil_&_gas_2011-en.svg.[229]]] In the early 2000s officials of the Jamahiriya era carried out economic reforms to reintegrate Libya into the global economy.[230] UN sanctions were lifted in September 2003, and Libya announced in December 2003 that it would abandon programs to build weapons of mass destruction.[231] Other steps have included applying for membership of the World Trade Organization, reducing subsidies, and announcing plans for privatization.[232]
+.[229]]] In the early 2000s officials of the Jamahiriya era carried out economic reforms to reintegrate Libya into the global economy.[230] UN sanctions were lifted in September 2003, and Libya announced in December 2003 that it would abandon programs to build weapons of mass destruction.[231] Other steps have included applying for membership of the World Trade Organization, reducing subsidies, and announcing plans for privatization.[232]
 
 Authorities privatized more than 100 government owned companies after 2003 in industries including oil refining, tourism and real estate, of which 29 were 100% foreign owned.[233] Many international oil companies returned to the country, including oil giants Shell and ExxonMobil.[234] After sanctions were lifted there was a gradual increase of air traffic, and by 2005 there were 1.5 million yearly air travellers.[235] Libya had long been a notoriously difficult country for Western tourists to visit due to stringent visa requirements.[236]
 
@@ -247,7 +247,7 @@ In August 2011 it was estimated that it would take at least 10 years to rebuild 
 
 Demographics
 
-Libyan.jpg.]]
+.]]
 
 Libya is a large country with a relatively small population, and the population is concentrated very narrowly along the coast.[243] Population density is about 50 persons per km² (130/sq. mi.) in the two northern regions of Tripolitania and Cyrenaica, but falls to less than one person per km² (2.6/sq. mi.) elsewhere. Ninety percent of the people live in less than 10% of the area, primarily along the coast. About 88% of the population is urban, mostly concentrated in the three largest cities, Tripoli, Benghazi and Misrata. Libya has a population of about {{#expr:/1e6 round 1}} million, 27.7% of whom are under the age of 15.[244] In 1984 the population was 3.6 million, an increase from the 1.54 million reported in 1964.[245]
 
@@ -267,7 +267,7 @@ Most Italian settlers, at their height numbering over half a million, left after
 
 Immigrant labour
 
-Libya_ethnic.svg , the UN estimates that around 12% of Libya's population (upwards of 740,000 people) was made up of foreign migrants.[253] Prior to the 2011 revolution official and unofficial figures of migrant labour range from 25% to 40% of the population (between 1.5 and 2.4 million people). Historically, Libya has been a host state for millions of low- and high-skilled Egyptian migrants, in particular.[254]
+, the UN estimates that around 12% of Libya's population (upwards of 740,000 people) was made up of foreign migrants.[253] Prior to the 2011 revolution official and unofficial figures of migrant labour range from 25% to 40% of the population (between 1.5 and 2.4 million people). Historically, Libya has been a host state for millions of low- and high-skilled Egyptian migrants, in particular.[254]
 
 It is difficult to estimate the total number of immigrants in Libya as there are often differences between census figures, official counts and usually more accurate unofficial estimates. In the 2006 census, around 359,540 foreign nationals were resident in Libya out of a population of over 5.5 million (6.35% of the population). Almost half of these were Egyptians, followed by Sudanese and Palestinian immigrants.[255] During the 2011 revolution, 768,362 immigrants fled Libya as calculated by the IOM, around 13% of the population at the time, although many more stayed on in the country.[256][257]
 
@@ -281,7 +281,7 @@ According to the CIA, the official language of Libya is Arabic.[261] The local L
 
 Religion
 
-Ghadames_-_Grosse_Moschee.jpg, close to the Tunisian and Algerian border.]] About 97% of the population in Libya are Muslims, most of whom belong to the Sunni branch.[265][266] Small numbers of Ibadi Muslims and Ahmadis also live in the country.[267][268]
+, close to the Tunisian and Algerian border.]] About 97% of the population in Libya are Muslims, most of whom belong to the Sunni branch.[265][266] Small numbers of Ibadi Muslims and Ahmadis also live in the country.[267][268]
 
 Before the 1930s, the Senussi Sunni Sufi movement was the primary Islamic movement in Libya. This was a religious revival adapted to desert life. Its _zawaaya_ (lodges) were found in Tripolitania and Fezzan, but Senussi influence was strongest in Cyrenaica. Rescuing the region from unrest and anarchy, the Senussi movement gave the Cyrenaican tribal people a religious attachment and feelings of unity and purpose.[269] This Islamic movement, which was eventually destroyed by the Italian invasion. Gaddafi asserted that he was a devout Muslim, and his government was taking a role in supporting Islamic institutions and in worldwide proselytising on behalf of Islam.[270]
 
@@ -298,7 +298,7 @@ Largest cities
 
 Culture
 
-Sabratha_-_Museum_mit_Funden_aus_der_Römerzeit,_Mosaik_05.jpg]] Many Arabic speaking Libyans consider themselves as part of a wider Arab community. This was strengthened by the spread of Pan-Arabism in the mid-20th century, and their reach to power in Libya where they instituted Arabic as the only official language of the state. Under their dictatorship the teaching and even use of indigenous Berber language was strictly forbidden.[280] In addition to banning foreign languages previously taught in academic institutions, leaving entire generations of Libyans with limitations in their comprehension of the English language. Both the spoken Arabic dialects and Berber, still retain words from Italian, that were acquired before and during the _Libia Italiana_ period.
+]] Many Arabic speaking Libyans consider themselves as part of a wider Arab community. This was strengthened by the spread of Pan-Arabism in the mid-20th century, and their reach to power in Libya where they instituted Arabic as the only official language of the state. Under their dictatorship the teaching and even use of indigenous Berber language was strictly forbidden.[280] In addition to banning foreign languages previously taught in academic institutions, leaving entire generations of Libyans with limitations in their comprehension of the English language. Both the spoken Arabic dialects and Berber, still retain words from Italian, that were acquired before and during the _Libia Italiana_ period.
 
 Libyans have a heritage in the traditions of the previously nomadic Bedouin Arabic speakers and sedentary Amazigh tribes. Most Libyans associate themselves with a particular family name originating from tribal or conquest based, typically from Ottoman forefathers, heritage..
 
@@ -308,7 +308,7 @@ There are few theaters or art galleries due to the decades of cultural repressio
 
 A large number of Libyan television stations are devoted to political review, Islamic topics and cultural phenomena. A number of TV stations air various styles of traditional Libyan music. Tuareg music and dance are popular in Ghadames and the south. Libyan television broadcasts air programs mostly in Arabic though usually have time slots for English and French programs. A 1996 analysis by the Committee to Protect Journalists found Libya's media was the most tightly controlled in the Arab world during the country's dictatorship.[284] hundreds of TV stations have begun to air due to the collapse of censorship from the old regime and the initiation of "free media".
 
-C-_Libya.jpg in 1976]] Many Libyans frequent the country's beach and they also visit Libya's archaeological sites—especially Leptis Magna, which is widely considered to be one of the best preserved Roman archaeological sites in the world.[285] The most common form of public transport between cities is the bus, though many people travel by automobile. There are no railway services in Libya, but these are planned for construction in the near future (see rail transport in Libya).
+in 1976]] Many Libyans frequent the country's beach and they also visit Libya's archaeological sites—especially Leptis Magna, which is widely considered to be one of the best preserved Roman archaeological sites in the world.[285] The most common form of public transport between cities is the bus, though many people travel by automobile. There are no railway services in Libya, but these are planned for construction in the near future (see rail transport in Libya).
 
 Libya's capital, Tripoli, has many museums and archives. These include the Government Library, the Ethnographic Museum, the Archaeological Museum, the National Archives, the Epigraphy Museum and the Islamic Museum. The Red Castle Museum located in the capital near the coast and right in the city center, built in consultation with UNESCO, may be the country's most famous.[286]
 
@@ -327,7 +327,7 @@ There are four main ingredients of traditional Libyan food: olives (and olive oi
 
 Education
 
-Piazza_28_Ottobre,_Bengasi.jpg's first campus, founded by royal decree in 1955]] Libya's population includes 1.7 million students, over 270,000 of whom study at the tertiary level.[289] Basic education in Libya is free for all citizens,[290] and is compulsory up to the secondary level. The adult literacy rate in 2010 was 89.2%.[291]
+'s first campus, founded by royal decree in 1955]] Libya's population includes 1.7 million students, over 270,000 of whom study at the tertiary level.[289] Basic education in Libya is free for all citizens,[290] and is compulsory up to the secondary level. The adult literacy rate in 2010 was 89.2%.[291]
 
 After Libya's independence in 1951, its first university – the University of Libya – was established in Benghazi by royal decree.[292] In the 1975–76 academic year the number of university students was estimated to be 13,418. , this number has increased to more than 200,000, with an extra 70,000 enrolled in the higher technical and vocational sector.[293] The rapid increase in the number of students in the higher education sector has been mirrored by an increase in the number of institutions of higher education.
 

@@ -7,8 +7,6 @@ The first state prison was built here. By 1882 it had developed as the largest w
 
 History
 
-71jackson_tower.jpg
-
 On July 3, 1829, Horace Blackman, accompanied by Alexander Laverty, a land surveyor, and _Pewytum_, an Indian guide, forded the Grand River and made camp for the night at a site now marked as Trail and N. Jackson Street. They arrived there along a well-traveled Native American trail leading west from Ann Arbor. Blackman had hired Laverty and Pewytum to guide him west. Returning to Ann Arbor and Monroe, Blackman registered his claim for at two dollars an acre.
 
 He returned to the Jackson area in August 1829 with his brother Russell. Together they cleared land and built a cabin at what would become the corner of Ingham and Trail streets. The town was first called Jacksonopolis. Later, it was renamed Jacksonburgh. Finally in 1838, the town's name was changed to simply Jackson.
@@ -50,8 +48,6 @@ According to the United States Census Bureau, the city has a total area of , of 
 
 
 Economy
-
-71consumers_full.jpg
 
 Restructuring in heavy industry in the mid-20th century caused a decline in jobs and population in many industrial cities, including Jackson. There are three major private employers in the city. CMS Energy provides natural gas and electrical services to much of Michigan and has its international headquarters in the city. The next two major employers are Allegiance Health (formerly Foote Hospital) and the Eaton Corporation.
 

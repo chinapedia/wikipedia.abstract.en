@@ -5,13 +5,13 @@ The remainder of the 1,200-strong Macau garrison resides just across the Chinese
 
 Mission
 
-Edifício_de_Sede_do_Guarnição_em_Macau_do_Exército_de_Libertação_do_Povo_Chinês.JPG Macao Garrison headquarter building]]
+Macao Garrison headquarter building]]
 
 According to the Law on Stationing Troops in the Macau Special Administrative Region (or Macao Garrison Law, passed by the NPC Standing Committee on June 28, 1999), the mission of the PLA in Macau is to defend the special administrative region by "preventing and resisting aggression; safe-guarding the security of Macau; undertaking defence services; managing military facilities; and handling related foreign military affairs." The PLA can also be called upon by the chief executive to help maintain public order and assist with disaster relief efforts. The members of the garrison are mainly ground force troops.
 
 2017 Typhoon Hato
 
-Typhoon-Hato-in-Macao_20170825-131216.jpg.]]
+.]]
 
 At the request of Macau SAR Government, the PLA Macao Garrison was deployed to assist in disaster relief and cleaning up in the aftermath of Typhoon Hato in August 2017, the first time for domestic affairs in Macau history.[1] About 1,000 troops were called in to help remove debris and clear roads.[2]
 

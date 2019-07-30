@@ -24,7 +24,7 @@ Side effects
 
 EXPULSION: Sometimes the copper IUD can be spontaneously expelled from the uterus.[38] Expulsion rates can range from 2.2% to 11.4% of users from the first year to the 10th year. The TCu380A may have lower rates of expulsion than other models.[39] Unusual vaginal discharge, cramping or pain, spotting between periods, postcoital (after sex) spotting, dyspareunia, or the absence or lengthening of the strings can be signs of a possible expulsion.[40] If expulsion occurs, the woman is not protected against pregnancy. If an IUD with copper is inserted after an expulsion has occurred, the risk of re-expulsion has been estimated in one study to be approximately one third of cases after one year.[41] Magnetic resonance imaging may cause dislocation of a copper IUD, and it is therefore recommended to check the location of the IUD both before and after MRI.[42]
 
-Perforated_IUD.jpg showing a perforated copper IUD as a hyperechoic (rendered as bright) line at right, 3 centimeters away from the uterus at left. The IUD is surrounded by a hypoechoic (dark) foreign-body granuloma.]]
+showing a perforated copper IUD as a hyperechoic (rendered as bright) line at right, 3 centimeters away from the uterus at left. The IUD is surrounded by a hypoechoic (dark) foreign-body granuloma.]]
 
 PERFORATION: Very rarely, the IUD can move through the wall of the uterus.[43] Risk of perforation is mostly determined by the skill of the practitioner performing the insertion. For experienced medical practitioners, the risk of perforation is 1 per 1,000 insertions or less.[44] If perforation does occur it can damage the internal organs, and in some cases surgery is needed to remove the IUD.
 
@@ -36,7 +36,7 @@ HEAVIER PERIODS: The copper IUD increases the amount of blood flow during a woma
 
 IRREGULAR BLEEDING AND SPOTTING: For the first 3 to 6 months after insertion, the copper IUD can cause irregular periods and spotting between periods.[56]
 
-Ultrasonography_of_IUD_with_copper.jpg visualizing an IUD with copper in optimal location within the uterus.]] STRING PROBLEMS: A small portion of men report that they can feel the strings during intercourse. In this case, strings can be trimmed. However, very short strings can prevent the woman from checking the strings for expulsion.[57] Medical ultrasonography may be required in such cases to check the location of the IUD.
+visualizing an IUD with copper in optimal location within the uterus.]] STRING PROBLEMS: A small portion of men report that they can feel the strings during intercourse. In this case, strings can be trimmed. However, very short strings can prevent the woman from checking the strings for expulsion.[57] Medical ultrasonography may be required in such cases to check the location of the IUD.
 
 PREGNANCY: Although rare, if pregnancy does occur with the copper IUD in place there can be serious side effects. The risk of ectopic pregnancy to a woman using an IUD is lower than the risk of ectopic pregnancy to a woman using no form of birth control. However, of pregnancies that do occur during IUD use, a higher than expected percentage (3–4%) are ectopic.[58] If a pregnancy occurs with the IUD in place there is a higher risk of miscarriage or early delivery. If this occurs and the IUD strings are visible, the IUD should be removed immediately by a clinician.[59] Although the Dalkon Shield IUD was associated with septic abortions (infections associated with miscarriage), other brands of IUD are not. IUDs are also _not_ associated with birth defects.[60]
 
@@ -98,7 +98,7 @@ After the insertion is finished, normal activities such as sex, exercise, and sw
 
 Types
 
-Multiload-Gynefix-Paragard.jpg Many different types of copper IUDs are currently manufactured worldwide, but availability varies by country. In the United States, only one type of copper IUD is approved for use, while in the United Kingdom, over ten varieties are available.[82] One company, Mona Lisa N.V. offers generic versions of many existing IUDs.[83]
+Many different types of copper IUDs are currently manufactured worldwide, but availability varies by country. In the United States, only one type of copper IUD is approved for use, while in the United Kingdom, over ten varieties are available.[82] One company, Mona Lisa N.V. offers generic versions of many existing IUDs.[83]
 
   IUD                                 Type                Copper (mm²)   Life (years)   Manufacturer                Distinguishing characteristics
   ----------------------------------- ------------------- -------------- -------------- --------------------------- ----------------------------------------------------
@@ -136,7 +136,7 @@ Gynefix is the only frameless IUD brand currently available. It consists of holl
 
 Mechanism of action
 
-Iuddiagram.jpg The copper IUD's primary mechanism of action is to prevent fertilization.[86] p. S28:
+The copper IUD's primary mechanism of action is to prevent fertilization.[86] p. S28:
 
   Conclusions
   Active substances released from the IUD or IUS, together with products derived from the inflammatory reaction present in the luminal fluids of the genital tract, are toxic for spermatozoa and oocytes, preventing the encounter of healthy gametes and the formation of viable embryos. The current data do not indicate that embryos are formed in IUD users at a rate comparable to that of nonusers. The common belief that the usual mechanism of action of IUDs in women is destruction of embryos in the uterus is not supported by empirical evidence. The bulk of the data indicate that interference with the reproductive process after fertilization has taken place is exceptional in the presence of a T-Cu or LNG-IUD and that the usual mechanism by which they prevent pregnancy in women is by preventing fertilization.

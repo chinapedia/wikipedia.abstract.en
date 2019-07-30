@@ -1,5 +1,3 @@
-Baer_Edle_von_Huthorn_wappen.jpg
-
 KARL ERNST RITTER[1] VON BAER EDLER[2] VON HUTHORN ( – ) was a Baltic German scientist and explorer. Baer is also known in Russia as KARL MAKSÍMOVICH BER ().
 
 Baer was a naturalist, biologist, geologist, meteorologist, geographer, and a founding father of embryology. He was an explorer of European Russia and Scandinavia. He was a member of the Russian Academy of Sciences, a co-founder of the Russian Geographical Society, and the first president of the Russian Entomological Society, making him a distinguished Baltic German scientist.
@@ -7,14 +5,14 @@ Baer was a naturalist, biologist, geologist, meteorologist, geographer, and a fo
 
 Life
 
-Lasila_mõisa_peahoone_2012.jpg, Estonia, where von Baer spent his early childhood]] Karl Ernst von Baer was born into the Baltic German noble Baer family (et) in the Piep Manor (et), Jerwen County, Governorate of Estonia (in present-day Lääne-Viru County, Estonia), as a knight by birthright. His family was of Westphalian origin and originated in Osnabrück. He spent his early childhood at Lasila manor, Estonia.[3][4][5][6] Many of his ancestors had come from Westphalia. He was educated at the Knight and Cathedral School in Reval (Tallinn) and the Imperial University of Dorpat (Tartu), each of which he found lacking in quality education. In 1812, during his tenure at the university, he was sent to Riga to aid the city after Napoleon's armies had laid siege to it. As he attempted to help the sick and wounded, he realized that his education at Dorpat had been inadequate, and upon his graduation, he notified his father that he would need to go abroad to "finish" his education. In his autobiography, his discontent with his education at Dorpat inspired him to write a lengthy appraisal of education in general, a summary that dominated the content of the book. After leaving Tartu, he continued his education in Berlin, Vienna, and Würzburg, where Ignaz Döllinger introduced him to the new field of embryology.
+, Estonia, where von Baer spent his early childhood]] Karl Ernst von Baer was born into the Baltic German noble Baer family (et) in the Piep Manor (et), Jerwen County, Governorate of Estonia (in present-day Lääne-Viru County, Estonia), as a knight by birthright. His family was of Westphalian origin and originated in Osnabrück. He spent his early childhood at Lasila manor, Estonia.[3][4][5][6] Many of his ancestors had come from Westphalia. He was educated at the Knight and Cathedral School in Reval (Tallinn) and the Imperial University of Dorpat (Tartu), each of which he found lacking in quality education. In 1812, during his tenure at the university, he was sent to Riga to aid the city after Napoleon's armies had laid siege to it. As he attempted to help the sick and wounded, he realized that his education at Dorpat had been inadequate, and upon his graduation, he notified his father that he would need to go abroad to "finish" his education. In his autobiography, his discontent with his education at Dorpat inspired him to write a lengthy appraisal of education in general, a summary that dominated the content of the book. After leaving Tartu, he continued his education in Berlin, Vienna, and Würzburg, where Ignaz Döllinger introduced him to the new field of embryology.
 
 In 1817, he became a professor at Königsberg University (Kaliningrad) and full professor of zoology in 1821, and of anatomy in 1826. In 1829, he taught briefly in St Petersburg, but returned to Königsberg. In 1834, Baer moved back to St Petersburg and joined the St Petersburg Academy of Sciences, first in zoology (1834–46) and then in comparative anatomy and physiology (1846–62). His interests while there were anatomy, ichthyology, ethnography, anthropology, and geography. While embryology had kept his attention in Königsberg, then in Russia von Baer engaged in a great deal of field research, including the exploration of the island Novaya Zemlya. The last years of his life (1867–76) were spent in Dorpat, where he became a leading critic of Charles Darwin.[7]
 
 
 Contributions
 
-KarlErnstVonBaer.jpg, Tartu: As a tradition, students wash the statue's head with champagne every Walpurgis Night.[8]]]
+, Tartu: As a tradition, students wash the statue's head with champagne every Walpurgis Night.[8]]]
 
 Embryology
 
@@ -39,7 +37,7 @@ Baer believed in a teleological force in nature which directed evolution (orthog
 
 Other sciences
 
-Baer_KM_1865.jpg The term Baer's law is also applied to the unconfirmed proposition that in the Northern Hemisphere, erosion occurs mostly on the right banks of rivers, and in the Southern Hemisphere on the left banks. In its more thorough formulation, which Baer never formulated himself, the erosion of rivers depends on the direction of flow, as well. For example, in the Northern Hemisphere, a section of river flowing in a North-South direction, according to the theory, erodes on its right bank due to the coriolis effect,[18] while in an East-West section there is no preference. However, this was repudiated by Albert Einstein's tea leaf paradox.
+The term Baer's law is also applied to the unconfirmed proposition that in the Northern Hemisphere, erosion occurs mostly on the right banks of rivers, and in the Southern Hemisphere on the left banks. In its more thorough formulation, which Baer never formulated himself, the erosion of rivers depends on the direction of flow, as well. For example, in the Northern Hemisphere, a section of river flowing in a North-South direction, according to the theory, erodes on its right bank due to the coriolis effect,[18] while in an East-West section there is no preference. However, this was repudiated by Albert Einstein's tea leaf paradox.
 
 Baer was interested in the northern part of Russia, and explored Novaya Zemlya in 1837, collecting biological specimens. Other travels led him to the Caspian Sea, the North Cape, and Lapland. He was one of the founders of the Russian Geographical Society.[19]
 

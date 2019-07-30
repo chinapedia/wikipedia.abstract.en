@@ -70,7 +70,7 @@ Examples include:
 
 Tales of progress
 
-SlaveNarrativeTheExperienceOfThomasHJones1871.jpg published in 1871]] Following the defeat of the slave states of the Confederate South, the authors had less need to convey the evils of slavery. Some gave a sentimental account of plantation life and ended with the narrator adjusting to the new life of freedom. The emphasis of writers shifted conceptually toward a recounting of individual and racial progress rather than securing freedom.
+published in 1871]] Following the defeat of the slave states of the Confederate South, the authors had less need to convey the evils of slavery. Some gave a sentimental account of plantation life and ended with the narrator adjusting to the new life of freedom. The emphasis of writers shifted conceptually toward a recounting of individual and racial progress rather than securing freedom.
 
 Examples include:
 

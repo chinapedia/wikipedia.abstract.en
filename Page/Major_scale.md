@@ -1,4 +1,4 @@
-Major_scale1.jpg The MAJOR SCALE (or Ionian scale) is one of the most commonly used musical scales, especially in Western music. It is one of the diatonic scales. Like many musical scales, it is made up of seven notes: the eighth duplicates the first at double its frequency so that it is called a higher octave of the same note (from Latin "octavus", the eighth).
+The MAJOR SCALE (or Ionian scale) is one of the most commonly used musical scales, especially in Western music. It is one of the diatonic scales. Like many musical scales, it is made up of seven notes: the eighth duplicates the first at double its frequency so that it is called a higher octave of the same note (from Latin "octavus", the eighth).
 
 The simplest major scale to write is C major, the only major scale not requiring sharps or flats:
 
@@ -17,8 +17,6 @@ In Carnatic music, it is known as _Dheerasankarabharanam_. In Hindustani classic
 
 
 Structure
-
-C_major_scale.png
 
 A major scale is a diatonic scale. The sequence of intervals between the notes of a major scale is:
 

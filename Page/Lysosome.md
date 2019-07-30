@@ -1,7 +1,5 @@
 A LYSOSOME () is a membrane-bound organelle found in many animal cells.[1] They are spherical vesicles that contain hydrolytic enzymes that can break down many kinds of biomolecules. A lysosome has a specific composition, of both its membrane proteins, and its lumenal proteins. The lumen's pH (~4.5–5.0)[2] is optimal for the enzymes involved in hydrolysis, analogous to the activity of the stomach. Besides degradation of polymers, the lysosome is involved in various cell processes, including secretion, plasma membrane repair, cell signaling, and energy metabolism.[3]
 
-Lysosomes_Digestion.svg
-
 Lysosomes act as the waste disposal system of the cell by digesting obsolete or un-used materials in the cytoplasm, from both inside and outside the cell. Material from outside the cell is taken-up through endocytosis, while material from the inside of the cell is digested through autophagy.[4] The sizes of the organelles vary greatly—the larger ones can be more than 10 times the size of the smaller ones.[5] They were discovered and named by Belgian biologist Christian de Duve, who eventually received the Nobel Prize in Physiology or Medicine in 1974.
 
 Lysosomes are known to contain more than 60 different enzymes, and have more than 50 membrane proteins.[6][7] Enzymes of the lysosomes are synthesised in the rough endoplasmic reticulum. The enzymes are imported from the Golgi apparatus in small vesicles, which fuse with larger acidic vesicles. Enzymes destined for a lysosome are specifically tagged with the molecule mannose 6-phosphate, so that they are properly sorted into acidified vesicles.[8][9]
@@ -13,7 +11,7 @@ Lysosomes should not be confused with liposomes, or with micelles.
 
 Discovery
 
-The_Biological_bulletin_(19756543133).jpg Christian de Duve, the chairman of the Laboratory of Physiological Chemistry at the Catholic University of Louvain in Belgium, had been studying the mechanism of action of a pancreatic hormone insulin in liver cells. By 1949, he and his team had focused on the enzyme called glucose 6-phosphatase, which is the first crucial enzyme in sugar metabolism and the target of insulin. They already suspected that this enzyme played a key role in regulating blood sugar levels. However, even after a series of experiments, they failed to purify and isolate the enzyme from the cellular extracts. Therefore, they tried a more arduous procedure of cell fractionation, by which cellular components are separated based on their sizes using centrifugation.
+Christian de Duve, the chairman of the Laboratory of Physiological Chemistry at the Catholic University of Louvain in Belgium, had been studying the mechanism of action of a pancreatic hormone insulin in liver cells. By 1949, he and his team had focused on the enzyme called glucose 6-phosphatase, which is the first crucial enzyme in sugar metabolism and the target of insulin. They already suspected that this enzyme played a key role in regulating blood sugar levels. However, even after a series of experiments, they failed to purify and isolate the enzyme from the cellular extracts. Therefore, they tried a more arduous procedure of cell fractionation, by which cellular components are separated based on their sizes using centrifugation.
 
 They succeeded in detecting the enzyme activity from the microsomal fraction. This was the crucial step in the serendipitous discovery of lysosomes. To estimate this enzyme activity, they used that of standardised enzyme acid phosphatase, and found that the activity was only 10% of the expected value. One day, the enzyme activity of purified cell fractions which had been refrigerated for five days was measured. Surprisingly, the enzyme activity was increased to normal of that of the fresh sample. The result was the same no matter how many times they repeated the estimation, and led to the conclusion that a membrane-like barrier limited the accessibility of the enzyme to its substrate, and that the enzymes were able to diffuse after a few days (and react with their substrate). They described this membrane-like barrier as a "saclike structure surrounded by a membrane and containing acid phosphatase."[12]
 
@@ -37,8 +35,6 @@ It sources its versatile capacity for degradation by import of enzymes with spec
 
 Formation
 
-Endocytic_pathway_of_animal_cells_showing_EGF_receptors,_transferrin_receptors_and_mannose-6-phosphate_receptors.jpg
-
 Many components of animal cells are recycled by transferring them inside or embedded in sections of membrane. For instance, in endocytosis (more specifically, macropinocytosis), a portion of the cell's plasma membrane pinches off to form vesicles that will eventually fuse with an organelle within the cell. Without active replenishment, the plasma membrane would continuously decrease in size. It is thought that lysosomes participate in this dynamic membrane exchange system and are formed by a gradual maturation process from endosomes.[21][22]
 
 The production of lysosomal proteins suggests one method of lysosome sustainment. Lysosomal protein genes are transcribed in the nucleus. mRNA transcripts exit the nucleus into the cytosol, where they are translated by ribosomes. The nascent peptide chains are translocated into the rough endoplasmic reticulum, where they are modified. Lysosomal soluble proteins exit the endoplasmic reticulum via CLN8-mediated recruitment in COPII-coated vesicles[23] and enter the Golgi apparatus, where a specific lysosomal tag, mannose 6-phosphate, is added to the peptides. The presence of these tags allow for binding to mannose 6-phosphate receptors in the Golgi apparatus, a phenomenon that is crucial for proper packaging into vesicles destined for the lysosomal system.[24]
@@ -47,8 +43,6 @@ Upon leaving the Golgi apparatus, the lysosomal enzyme-filled vesicle fuses with
 
 
 Pathogen entry
-
-Schematic_visualization_of_endocytic_routes_adopted_by_various_GPI-Anchored_proteins_and_other_endocytic_markers.jpg
 
 As the endpoint of endocytosis, the lysosome also acts as a safeguard in preventing pathogens from being able to reach the cytoplasm before being degraded. Pathogens often hijack endocytotic pathways such as pinocytosis in order to gain entry into the cell. The lysosome prevents easy entry into the cell by hydrolyzing the biomolecules of pathogens necessary for their replication strategies; reduced Lysosomal activity results in an increase in viral infectivity, including HIV.[27] In addition, AB₅ toxins such as cholera hijack the endosomal pathway while evading lysosomal degradation.[28]
 

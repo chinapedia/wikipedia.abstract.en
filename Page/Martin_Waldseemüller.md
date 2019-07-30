@@ -7,8 +7,6 @@ Life
 
 Waldseemüller was born in Wolfenweiler near Freiburg im Breisgau (his mother came from Radolfzell) and he studied at the University of Freiburg.
 
-Waldseemuller_map_2.jpg
-
 On 25 April 1507, as a member of the Gymnasium Vosagense at Saint Diey (German: Sankt Didel) in the Duchy of Lorraine (today Saint-Dié-des-Vosges, France), he produced a globular world map and a large 12-panel world wall map using the information from Columbus and Vespucci's travels (_Universalis Cosmographia_), both bearing the first use of the name "America". The globular and wall maps were accompanied by a book _Cosmographiae Introductio_, an introduction to cosmography. The book, first printed in the city of Saint-Dié-des-Vosges, includes in its second part, a translation to Latin of the _Quattuor Americi Vespuccij navigationes_ (_Four Voyages of Americo Vespucci_), which is apparently a letter written by Amerigo Vespucci, although some historians consider it to have been a forgery written by its supposed recipient in Italy.
 
 In the seventh chapter of the _Cosmographiæ Introduction_, written by Matthias Ringmann, it is explained why the name America was proposed for the then New World, or the Fourth Part of the World:
@@ -32,8 +30,6 @@ In 1513, Waldseemüller appears to have had second thoughts about the name, prob
 The wall map was lost for a long time, but a copy was found in Schloss Wolfegg in southern Germany by Joseph Fischer in 1901. It is still the only copy known to survive, and it was purchased by the United States Library of Congress in May 2003[1] after an agreement was reached in 2001.[2] Five copies of the globular map survive in the form of "gores": printed maps that were intended to be cut out and pasted onto a wooden globe. Only one of these lies in the Americas today, residing at the James Ford Bell Library University of Minnesota; three copies are in Germany (Bayerische Staatsbibliothek, LMU Munich, Stadtbibliothek Offenburg), and one is in London, UK, in private hands.
 
 Waldseemüller died intestate 16 March 1520 in Sankt Didel, then a canon of the collegiate Church of Saint-Dié.
-
-Carta_itineraria_europae_1520_waldseemueller_watermarked.jpg
 
 
 See also

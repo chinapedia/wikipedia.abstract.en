@@ -18,7 +18,7 @@ History
 
 Prehistory and protohistory
 
-Biskupin_brama_od_zewnatrz.jpg, Lusatian culture settlement in Biskupin, c. 700 BC]]
+, Lusatian culture settlement in Biskupin, c. 700 BC]]
 
 The early Bronze Age in Poland begun around 2400 BC, while the Iron Age commenced in approximately 750 BC. During this time, the Lusatian culture, spanning both the Bronze and Iron Ages, became particularly prominent. The most famous archaeological find from the prehistory and protohistory of Poland is the Biskupin fortified settlement (now reconstructed as an open-air museum), dating from the Lusatian culture of the early Iron Age, around 700 BC.[24]
 
@@ -26,17 +26,17 @@ Throughout the Antiquity period, many distinct ancient ethnic groups populated t
 
 Piast dynasty
 
-Poland960.png, who is considered to be the creator of the Polish state, c. 960–996]]
+, who is considered to be the creator of the Polish state, c. 960–996]]
 
 Poland began to form into a recognizable unitary and territorial entity around the middle of the 10th century under the Piast dynasty. Poland's first historically documented ruler, Mieszko I, accepted Christianity with the Baptism of Poland in 966, as the new official religion of his subjects. The bulk of the population converted in the course of the next few centuries. In 1000, Boleslaw the Brave, continuing the policy of his father Mieszko, held a Congress of Gniezno and created the metropolis of Gniezno and the dioceses of Kraków, Kołobrzeg, and Wrocław. However, the pagan unrest led to the transfer of the capital to Kraków in 1038 by Casimir I the Restorer.[28]
 
-Darstellung_Mieszkos_und_Mathildes_von_Schwaben.jpg of Poland, who ruled the nation between 1025 and 1031.]]
+of Poland, who ruled the nation between 1025 and 1031.]]
 
 In 1109, Prince Bolesław III Wrymouth defeated the King of Germany Henry V at the Battle of Hundsfeld, stopping the German advance into Poland. The significance of the event was documented by Gallus Anonymus in his 1118 chronicle.[29] In 1138, Poland fragmented into several smaller duchies when Bolesław divided his lands among his sons. In 1226, Konrad I of Masovia, one of the regional Piast dukes, invited the Teutonic Knights to help him fight the Baltic Prussian pagans; a decision that led to centuries of warfare with the Knights. In 1264, the Statute of Kalisz or the General Charter of Jewish Liberties introduced numerous right for the Jews in Poland, leading to a nearly autonomous "nation within a nation".[30]
 
 In the middle of the 13th century, the Silesian branch of the Piast dynasty (Henry I the Bearded and Henry II the Pious, ruled 1238–41) nearly succeeded in uniting the Polish lands, but the Mongols invaded the country from the east and defeated the combined Polish forces at the Battle of Legnica where Duke Henry II the Pious died. In 1320, after a number of earlier unsuccessful attempts by regional rulers at uniting the Polish dukedoms, Władysław I consolidated his power, took the throne and became the first king of a reunified Poland. His son, Casimir III (reigned 1333–70), has a reputation as one of the greatest Polish kings, and gained wide recognition for improving the country's infrastructure.[31][32] He also extended royal protection to Jews, and encouraged their immigration to Poland.[33][34] Casimir III realized that the nation needed a class of educated people, especially lawyers, who could codify the country's laws and administer the courts and offices. His efforts to create an institution of higher learning in Poland were finally rewarded when Pope Urban V granted him permission to open the University of Kraków.
 
-Casimir_the_Great_by_Leopold_Löffler.PNG is the only Polish king to receive the title of _Great_. He built extensively during his reign, and reformed the Polish army along with the country's civil and criminal laws, 1333–70.]]
+is the only Polish king to receive the title of _Great_. He built extensively during his reign, and reformed the Polish army along with the country's civil and criminal laws, 1333–70.]]
 
 The Golden Liberty of the nobles began to develop under Casimir's rule, when in return for their military support, the king made a series of concessions to the nobility, and establishing their legal status as superior to that of the townsmen. When Casimir the Great died in 1370, leaving no legitimate male heir, the Piast dynasty came to an end.
 
@@ -46,11 +46,11 @@ The Black Death, a plague that ravaged Europe from 1347 to 1351 did not signific
 
 Jagiellon dynasty
 
-Battle_of_Tannenberg.jpg was fought against the German Order of Teutonic Knights, and resulted in a decisive victory for the Kingdom of Poland, 15 July 1410.]]
+was fought against the German Order of Teutonic Knights, and resulted in a decisive victory for the Kingdom of Poland, 15 July 1410.]]
 
 The Jagiellon dynasty spanned the late Middle Ages and early Modern Era of Polish history. Beginning with the Lithuanian Grand Duke Jogaila (Władysław II Jagiełło), the Jagiellon dynasty (1386–1572) formed the Polish–Lithuanian union. The partnership brought vast Lithuania-controlled Rus' areas into Poland's sphere of influence and proved beneficial for the Poles and Lithuanians, who coexisted and cooperated in one of the largest political entities in Europe for the next four centuries. In the Baltic Sea region the struggle of Poland and Lithuania with the Teutonic Knights continued and culminated in the Battle of Grunwald (1410), where a combined Polish-Lithuanian army inflicted a decisive victory against them.[37] In 1466, after the Thirteen Years' War, King Casimir IV Jagiellon gave royal consent to the Peace of Thorn, which created the future Duchy of Prussia, a Polish vassal. The Jagiellon dynasty at one point also established dynastic control over the kingdoms of Bohemia (1471 onwards) and Hungary.[38][39] In the south, Poland confronted the Ottoman Empire and the Crimean Tatars (by whom they were attacked on 75 separate occasions between 1474 and 1569),[40] and in the east helped Lithuania fight the Grand Duchy of Moscow. Some historians estimate that Crimean Tatar slave-raiding cost Poland-Lithuania one million of its population between the years of 1494 and 1694.[41]
 
-Wawel_(crop).jpg in Kraków, seat of Polish kings from 1038 until the capital was moved to Warsaw in 1596. The royal residence is an early example of Renaissance architecture in Poland.]]
+in Kraków, seat of Polish kings from 1038 until the capital was moved to Warsaw in 1596. The royal residence is an early example of Renaissance architecture in Poland.]]
 
 Poland was developing as a feudal state, with a predominantly agricultural economy and an increasingly powerful landed nobility. The _Nihil novi_ act adopted by the Polish Sejm (parliament) in 1505, transferred most of the legislative power from the monarch to the Sejm, an event which marked the beginning of the period known as "Golden Liberty", when the state was ruled by the "free and equal" Polish nobility. Protestant Reformation movements made deep inroads into Polish Christianity, which resulted in the establishment of policies promoting religious tolerance, unique in Europe at that time.[42] This tolerance allowed the country to avoid most of the religious turmoil that spread over Europe during the 16th century.[43]
 
@@ -58,7 +58,7 @@ The European Renaissance evoked in late Jagiellon Poland (kings Sigismund I the 
 
 Polish–Lithuanian Commonwealth
 
-Konfederacja_Warszawska.jpg passed by the Polish national assembly _(Sejm Konwokacyjny)_, extended religious freedoms and tolerance in the Commonwealth, and was the first of its kind act in Europe, 28 January 1573.]]
+passed by the Polish national assembly _(Sejm Konwokacyjny)_, extended religious freedoms and tolerance in the Commonwealth, and was the first of its kind act in Europe, 28 January 1573.]]
 
 The 1569 Union of Lublin established the Polish–Lithuanian Commonwealth, a more closely unified federal state with an elective monarchy, but which was governed largely by the nobility, through a system of local assemblies with a central parliament. The Warsaw Confederation (1573) guaranteed religious freedom for the Polish nobility _(Szlachta)_ and townsmen _(Mieszczanie)_. However, the peasants _(Chłopi)_ were still subject to severe limitations imposed on them by the nobility.[45] The establishment of the Commonwealth coincided with a period of stability and prosperity in Poland, with the union thereafter becoming a European power and a major cultural entity, occupying approximately one million square kilometers of Central and Eastern Europe, as well as an agent for the dissemination of Western culture through Polonization into areas of modern-day Lithuania, Ukraine, Belarus and Western Russia.
 
@@ -70,7 +70,7 @@ After the signing of Truce of Deulino, Poland had in the years 1618–1621 an ar
 
 From the middle of the 17th century, the nobles' democracy, suffering from internal disorder, gradually declined, thereby leaving the once powerful Commonwealth vulnerable to foreign intervention. Starting in 1648, the Cossack Khmelnytsky Uprising engulfed the south and east, eventually leaving Ukraine divided, with the eastern part, lost by the Commonwealth, becoming a dependency of the Tsardom of Russia. This was followed by the 'Deluge', a Swedish invasion of Poland, which marched through the Polish heartlands and ruined the country's population, culture and infrastructure—around four million of Poland's eleven million inhabitants died in famines and epidemics throughout the 17th century.[47] However, under John III Sobieski the Commonwealth's military prowess was re-established, and in 1683 Polish forces played a major role in the Battle of Vienna against the Ottoman Army, commanded by Kara Mustafa, the Grand Vizier of the Ottoman Empire.
 
-Jan_III_Schultz.jpg defeated the Ottoman Turks at the Battle of Vienna on 12 September 1683.]]
+defeated the Ottoman Turks at the Battle of Vienna on 12 September 1683.]]
 
 Sobieski's reign marked the end of the nation's golden era. Finding itself subjected to almost constant warfare and suffering enormous population losses as well as massive damage to its economy, the Commonwealth fell into decline. The government became ineffective as a result of large-scale internal conflicts (e.g. Lubomirski Rebellion against John II Casimir and rebellious confederations) and corrupted legislative processes. The nobility fell under the control of a handful of _magnats_, and this, compounded with two relatively weak kings of the Saxon Wettin dynasty, Augustus II and Augustus III, as well as the rise of Russia and Prussia after the Great Northern War only served to worsen the Commonwealth's plight. Despite this The Commonwealth-Saxony personal union gave rise to the emergence of the Commonwealth's first reform movement, and laid the foundations for the Polish Enlightenment.[48]
 
@@ -78,9 +78,9 @@ During the later part of the 18th century, the Commonwealth made attempts to imp
 
 Partitions
 
-Stanisław_II_August_Poniatowski_in_coronation_clothes.PNG, the last King of Poland, ascended to the throne in 1764 and reigned until his abdication on 25 November 1795.]] The royal election of 1764 resulted in the elevation of Stanisław II August (a Polish aristocrat connected to the Czartoryski family faction of magnates) to the monarchy. However, as a one-time personal admirer of Empress Catherine II of Russia, the new king spent much of his reign torn between his desire to implement reforms necessary to save his nation, and his perceived necessity to remain in a political relationship with his Russian sponsor. This led to the formation of the 1768 Bar Confederation, a _szlachta_ rebellion directed against the Polish king and his Russian sponsors, which aimed to preserve Poland's independence and the szlachta's traditional privileges. Attempts at reform provoked the union's neighbours, and in 1772 the First Partition of the Commonwealth by Prussia, Russia and Austria took place; an act which the "Partition Sejm", under considerable duress, eventually "ratified" _fait accompli_.[49] Disregarding this loss, in 1773 the king established the Commission of National Education, the first government education authority in Europe. Corporal punishment of children was officially prohibited in 1783.
+, the last King of Poland, ascended to the throne in 1764 and reigned until his abdication on 25 November 1795.]] The royal election of 1764 resulted in the elevation of Stanisław II August (a Polish aristocrat connected to the Czartoryski family faction of magnates) to the monarchy. However, as a one-time personal admirer of Empress Catherine II of Russia, the new king spent much of his reign torn between his desire to implement reforms necessary to save his nation, and his perceived necessity to remain in a political relationship with his Russian sponsor. This led to the formation of the 1768 Bar Confederation, a _szlachta_ rebellion directed against the Polish king and his Russian sponsors, which aimed to preserve Poland's independence and the szlachta's traditional privileges. Attempts at reform provoked the union's neighbours, and in 1772 the First Partition of the Commonwealth by Prussia, Russia and Austria took place; an act which the "Partition Sejm", under considerable duress, eventually "ratified" _fait accompli_.[49] Disregarding this loss, in 1773 the king established the Commission of National Education, the first government education authority in Europe. Corporal punishment of children was officially prohibited in 1783.
 
-Oath_of_confirmation_of_Constitution_of_the_3rd_May_1791.PNG, enactment ceremony inside the Senate Chamber at the Warsaw Royal Castle, 1791.]]
+, enactment ceremony inside the Senate Chamber at the Warsaw Royal Castle, 1791.]]
 
 The Great Sejm convened by Stanisław II August in 1788 successfully adopted the 3 May Constitution, the first set of modern supreme national laws in Europe. However, this document, accused by detractors of harbouring revolutionary sympathies, generated strong opposition from the Commonwealth's nobles and conservatives as well as from Catherine II, who, determined to prevent the rebirth of a strong Commonwealth set about planning the final dismemberment of the Polish-Lithuanian state. Russia was aided in achieving its goal when the Targowica Confederation, an organisation of Polish nobles, appealed to the Empress for help. In May 1792, Russian forces crossed the Commonwealth's frontier, thus beginning the Polish-Russian War.
 
@@ -88,17 +88,17 @@ The defensive war fought by the Poles ended prematurely when the King, convinced
 
 Era of insurrections
 
-Rzeczpospolita_Rozbiory_3.png, carried out by Prussia, Russia, and Austria in 1772, 1793 and 1795.]]
+, carried out by Prussia, Russia, and Austria in 1772, 1793 and 1795.]]
 
 Poles rebelled several times against the partitioners, particularly near the end of the 18th century and the beginning of the 19th century. An unsuccessful attempt at defending Poland's sovereignty took place in 1794 during the Kościuszko Uprising, where a popular and distinguished general Tadeusz Kosciuszko, who had several years earlier served under Washington in the American Revolutionary War, led Polish insurrectionists against numerically superior Russian forces. Despite the victory at the Battle of Racławice, his ultimate defeat ended Poland's independent existence for 123 years.[51]
 
-Schweikart_Tadeusz_Kościuszko.jpg was a veteran and hero of both Polish and American wars of independence between 1765 and 1794.[52]]]
+was a veteran and hero of both Polish and American wars of independence between 1765 and 1794.[52]]]
 
 In 1807, Napoleon I of France temporarily recreated a Polish state as the satellite Duchy of Warsaw, after a successful Greater Poland Uprising of 1806 against Prussian rule. But, after the failed Napoleonic Wars, Poland was again split between the victorious powers at the Congress of Vienna of 1815.[53] The eastern part was ruled by the Russian tsar as Congress Poland, which had a liberal constitution. However, over time the Russian monarch reduced Polish freedoms, and Russia annexed the country in virtually all but name. Meanwhile, the Prussian controlled territory of Poland came under increased Germanization. Thus, in the 19th century, only Austrian-ruled Galicia, and particularly the Free City of Kraków, allowed free Polish culture to flourish.
 
 Throughout the period of the partitions, political and cultural repression of the Polish nation led to the organisation of a number of uprisings against the authorities of the occupying Russian, Prussian and Austrian governments. In 1830, the November Uprising began in Warsaw when, led by Lieutenant Piotr Wysocki, young non-commissioned officers at the Officer Cadet School in Warsaw revolted. They were joined by large segments of Polish society, and together forced Warsaw's Russian garrison to withdraw north of the city.
 
-MWP_1830_Arsenal.jpg by the Polish army during the November Uprising against Tsarist autocracy, 29 November 1830.]]
+by the Polish army during the November Uprising against Tsarist autocracy, 29 November 1830.]]
 
 Over the course of the next seven months, Polish forces successfully defeated the Russian armies of Field Marshal Hans Karl von Diebitsch and a number of other Russian commanders; however, finding themselves in a position unsupported by any other foreign powers, save distant France and the newborn United States, and with Prussia and Austria refusing to allow the import of military supplies through their territories, the Poles accepted that the uprising was doomed to failure. Upon the surrender of Warsaw to General Ivan Paskievich, many Polish troops, feeling they could not go on, withdrew into Prussia and there laid down their arms. After the defeat, the semi-independent Congress Poland lost its constitution, army and legislative assembly, and was integrated more closely with the Russian Empire.
 
@@ -110,11 +110,11 @@ Despite the political unrest experienced during the partitions, Poland did benef
 
 Reconstruction
 
-Jozef_Pilsudski.jpg Marshal Józef Piłsudski was a hero of the Polish independence campaign and the nation's premiere statesman between 1918 until his death on 12 May 1935.]]
+Marshal Józef Piłsudski was a hero of the Polish independence campaign and the nation's premiere statesman between 1918 until his death on 12 May 1935.]]
 
 During World War I, all the Allies agreed on the reconstitution of Poland that United States President Woodrow Wilson proclaimed in Point 13 of his Fourteen Points. A total of 2 million Polish troops fought with the armies of the three occupying powers, and 450,000 died. Shortly after the armistice with Germany in November 1918, Poland regained its independence as the Second Polish Republic (_II Rzeczpospolita Polska_). It reaffirmed its independence after a series of military conflicts, the most notable being the Polish–Soviet War (1919–21) when Poland inflicted a crushing defeat on the Red Army at the Battle of Warsaw, an event which is considered to have halted the advance of Communism into Europe and forced Vladimir Lenin to rethink his objective of achieving global socialism. The event is often referred to as the "Miracle at the Vistula".[54]
 
-RzeczpospolitaII.png, 1921–39]]
+, 1921–39]]
 
 During this period, Poland successfully managed to fuse the territories of the three former partitioning powers into a cohesive nation state. Railways were restructured to direct traffic towards Warsaw instead of the former imperial capitals, a new network of national roads was gradually built up and a major seaport was opened on the Baltic Coast, so as to allow Polish exports and imports to bypass the politically charged Free City of Danzig.
 
@@ -126,13 +126,13 @@ As a subsequent result of the Munich Agreement in 1938, Czechoslovakia ceded to 
 
 World War II
 
-7TP-2.jpg tanks during military maneuvers shortly before the Invasion of Poland, 1939]]
+tanks during military maneuvers shortly before the Invasion of Poland, 1939]]
 
 World War II began with the Nazi German invasion of Poland on 1 September 1939, followed by the Soviet invasion of Poland on 17 September. On 28 September 1939 Warsaw fell. As agreed in the Molotov–Ribbentrop Pact, Poland was split into two zones, one occupied by Nazi Germany, the other by the Soviet Union. In 1939–41, the Soviets deported hundreds of thousands of Poles. The Soviet NKVD executed thousands of Polish prisoners of war (inter alia Katyn massacre) ahead of the Operation Barbarossa.[57] German planners had in November 1939 called for "the complete destruction" of all Poles and their fate, as well as many other Slavs, was outlined in genocidal _Generalplan Ost_.[58]
 
 In July 1939 the Polish Cipher Bureau had taught Britain and France how to crack German Enigma codes, which it had been doing since 1932 using mathematics and technology such as the Bomba and Zygalski sheets. In the Romanian Bridgehead operation, the code-breakers escaped with their reverse-engineered Enigma machines and enabled the Allied SIGINT war. Around 3500 Polish field agents[59] provided the British secret service with 48% of all its reports from Europe, including preparation for Operation Torch and Operation Overlord, and military intelligence on: Operation Sonnenblume; Operation Barbarossa; Operation Edelweiss; German secret weapons; the chief of the _Abwehr_ and Germany's "Final Solution".[60]
 
-Dywizjon_303_in_color.jpg during the Battle of Britain, October 1940]]
+during the Battle of Britain, October 1940]]
 
 Poland made the fourth-largest troop contribution in Europe and its troops served both the Polish Government in Exile in the west and Soviet leadership in the east. Polish troops played an important role in the Normandy, Italian and North African Campaigns and are particularly remembered for the Battle of Monte Cassino.[61][62] In the east, the Soviet-backed Polish 1st Army distinguished itself in the battles for Warsaw and Berlin.[63]
 
@@ -140,17 +140,17 @@ During the Battle of Britain Polish squadrons such as the No. 303 "Kościuszko" 
 
 The wartime resistance movement, and the Armia Krajowa (_Home Army_), fought against German occupation. It was one of the three largest resistance movements of the entire war, and encompassed a range of clandestine activities, which functioned as an underground state complete with degree-awarding universities and a court system.[66] The resistance was loyal to the exiled government and generally resented the idea of a communist Poland; for this reason, in the summer of 1944 it initiated Operation Tempest, of which the Warsaw Uprising that begun on 1 August 1944 is the best known operation.[67][68] The objective was to drive the Germans from the city and help with the larger fight against the Axis powers. Secondary motives were to liberate Warsaw before the Soviets, to underscore Polish sovereignty by empowering the Polish Underground State before the Soviet-backed Polish Committee of National Liberation could assume control. A lack of Allied support and Stalin's reluctance to allow the 1st Army to help their fellow countrymen take the city led to the uprising's failure and subsequent planned destruction of the city.
 
-WW2-Holocaust-Poland.PNG with deportation routes and massacre sites. Major ghettos marked with yellow stars. Germany's Nazi extermination camps marked with white skulls in black squares. The border in 1941 between Nazi Germany and the Soviet Union marked in red.]]
+with deportation routes and massacre sites. Major ghettos marked with yellow stars. Germany's Nazi extermination camps marked with white skulls in black squares. The border in 1941 between Nazi Germany and the Soviet Union marked in red.]]
 
 Nazi forces under orders from Adolf Hitler set up six German extermination camps in occupied Poland, including Treblinka, Majdanek and Auschwitz. The Germans transported Jews from across occupied Europe to murder them in the camps.
 
-Germany killed 2.9 million Polish Jews,[69] and 2.8 million ethnic Poles,[70] including Polish academics, doctors, lawyers, nobility, priests and others. It is estimated that, of pre-war Poland's Jewry, approximately 90% were killed. Throughout the occupation, many members of the Armia Krajowa, supported by the Polish government in exile, and millions of ordinary Poles – at great risk to themselves and their families – engaged in rescuing Jews from the Nazi Germans. Grouped by nationality, Poles represent the largest number of people who rescued Jews during the Holocaust. To date, 6,620 Poles have been awarded the title of _Righteous Among the Nations_ by the State of Israel–more than any other nation.[71] Some estimates put the number of Poles involved in rescue efforts at up to 3 million, and credit Poles with sheltering up to 450,000 Jews. Polish_Soldier's_Grave_Warsaw_1945.jpg killed during the Warsaw Uprising. The battle lasted 63 days and resulted in the deaths of 200,000 civilians in 1944.]] Around 150,000 Polish civilians were killed by Soviets between 1939 and 1941 during the Soviet Union's occupation of eastern Poland (Kresy), and another estimated 100,000 Poles were killed by the Ukrainian Insurgent Army (UPA) in the regions of Wołyń and Eastern Galicia between 1943 and 1944 in what became known as the Wołyń Massacres. The massacres were part of a vicious ethnic clensing campaign waged by Ukrainian nationalists against the local Polish population in the German-occupied territories of eastern Poland.[72][73]
+Germany killed 2.9 million Polish Jews,[69] and 2.8 million ethnic Poles,[70] including Polish academics, doctors, lawyers, nobility, priests and others. It is estimated that, of pre-war Poland's Jewry, approximately 90% were killed. Throughout the occupation, many members of the Armia Krajowa, supported by the Polish government in exile, and millions of ordinary Poles – at great risk to themselves and their families – engaged in rescuing Jews from the Nazi Germans. Grouped by nationality, Poles represent the largest number of people who rescued Jews during the Holocaust. To date, 6,620 Poles have been awarded the title of _Righteous Among the Nations_ by the State of Israel–more than any other nation.[71] Some estimates put the number of Poles involved in rescue efforts at up to 3 million, and credit Poles with sheltering up to 450,000 Jews. killed during the Warsaw Uprising. The battle lasted 63 days and resulted in the deaths of 200,000 civilians in 1944.]] Around 150,000 Polish civilians were killed by Soviets between 1939 and 1941 during the Soviet Union's occupation of eastern Poland (Kresy), and another estimated 100,000 Poles were killed by the Ukrainian Insurgent Army (UPA) in the regions of Wołyń and Eastern Galicia between 1943 and 1944 in what became known as the Wołyń Massacres. The massacres were part of a vicious ethnic clensing campaign waged by Ukrainian nationalists against the local Polish population in the German-occupied territories of eastern Poland.[72][73]
 
 In 1945, Poland's borders were shifted westwards, resulting in considerable territorial losses. Over 2 million Polish inhabitants of Kresy were expelled along the Curzon Line by Stalin.[74] The western border became the Oder-Neisse line. As a result, Poland's territory was reduced by 20%, or . The shift forced the migration of millions of other people, most of whom were Poles, Germans, Ukrainians, and Jews.[75][76][77] Of all the countries in the war, Poland lost the highest percentage of its citizens: over 6 million perished – nearly one-fifth of Poland's population – half of them Polish Jews.[78][79][80][81] Over 90% of deaths were non-military in nature. Population numbers did not recover until the 1970s.
 
 Post-war communism
 
-Solidarity_poster_1989.jpg, 4 June 1989'' — political poster featuring Gary Cooper to encourage votes for the Solidarity party in the 1989 elections]]
+, 4 June 1989'' — political poster featuring Gary Cooper to encourage votes for the Solidarity party in the 1989 elections]]
 
 At the insistence of Joseph Stalin, the Yalta Conference sanctioned the formation of a new provisional pro-Communist coalition government in Moscow, which ignored the Polish government-in-exile based in London. This action angered many Poles who considered it a betrayal by the Allies. In 1944, Stalin had made guarantees to Churchill and Roosevelt that he would maintain Poland's sovereignty and allow democratic elections to take place. However, upon achieving victory in 1945, the elections organized by the occupying Soviet authorities were falsified and were used to provide a veneer of legitimacy for Soviet hegemony over Polish affairs. The Soviet Union instituted a new communist government in Poland, analogous to much of the rest of the Eastern Bloc. As elsewhere in Communist Europe, the Soviet occupation of Poland met with armed resistance from the outset which continued into the Fifties.
 
@@ -162,11 +162,11 @@ Labour turmoil in 1980 led to the formation of the independent trade union "Soli
 
 1990s to present
 
-EU_and_PL_flags.jpg. The country became a member of the European community of nations on 1 May 2004.]] A shock therapy programme, initiated by Leszek Balcerowicz in the early 1990s, enabled the country to transform its socialist-style planned economy into a market economy. As with other post-communist countries, Poland suffered declines in social and economic standards,[84] but it became the first post-communist country to reach its pre-1989 GDP levels, which it achieved by 1995 largely thanks to its booming economy.[85][86]
+. The country became a member of the European community of nations on 1 May 2004.]] A shock therapy programme, initiated by Leszek Balcerowicz in the early 1990s, enabled the country to transform its socialist-style planned economy into a market economy. As with other post-communist countries, Poland suffered declines in social and economic standards,[84] but it became the first post-communist country to reach its pre-1989 GDP levels, which it achieved by 1995 largely thanks to its booming economy.[85][86]
 
 Most visibly, there were numerous improvements in human rights, such as freedom of speech, internet freedom (no censorship), civil liberties (1st class) and political rights (1st class), as ranked by Freedom House non-governmental organization. In 1991, Poland became a member of the Visegrád Group and joined the North Atlantic Treaty Organization (NATO) alliance in 1999 along with the Czech Republic and Hungary. Poles then voted to join the European Union in a referendum in June 2003, with Poland becoming a full member on 1 May 2004.
 
-Flowers_in_front_of_the_Presidential_Palace_in_Warsaw.jpg following the death of Poland's top government officials in a plane crash over Smolensk in Russia, 10 April 2010.]]
+following the death of Poland's top government officials in a plane crash over Smolensk in Russia, 10 April 2010.]]
 
 Poland joined the Schengen Area in 2007, as a result of which, the country's borders with other member states of the European Union have been dismantled, allowing for full freedom of movement within most of the EU.[87] In contrast to this, a section of Poland's eastern border now constitutes the external EU border with Belarus, Russia and Ukraine. That border has become increasingly well protected, and has led in part to the coining of the phrase 'Fortress Europe', in reference to the seeming 'impossibility' of gaining entry to the EU for citizens of the former Soviet Union.
 
@@ -179,7 +179,7 @@ In 2011, the ruling Civic Platform won parliamentary elections. Poland joined th
 
 Geography
 
-Poland_topo.jpg map of Poland]]
+map of Poland]]
 
 Poland's territory extends across several geographical regions, between latitudes 49° and 55° N, and longitudes 14° and 25° E. In the north-west is the Baltic seacoast, which extends from the Bay of Pomerania to the Gulf of Gdańsk. This coast is marked by several spits, coastal lakes (former bays that have been cut off from the sea), and dunes. The largely straight coastline is indented by the Szczecin Lagoon, the Bay of Puck, and the Vistula Lagoon.
 
@@ -189,17 +189,17 @@ South of the Northern European Plain are the regions of Lusatia, Silesia and Mas
 
 Geology
 
-Brama_Krakowska,_Dolina_Prądnika.jpgs in the Lesser Poland region]]
+s in the Lesser Poland region]]
 
 The geological structure of Poland has been shaped by the continental collision of Europe and Africa over the past 60 million years and, more recently, by the Quaternary glaciations of northern Europe. Both processes shaped the Sudetes and the Carpathian Mountains. The moraine landscape of northern Poland contains soils made up mostly of sand or loam, while the ice age river valleys of the south often contain loess. The Polish Jura, the Pieniny, and the Western Tatras consist of limestone, while the High Tatras, the Beskids, and the Karkonosze are made up mainly of granite and basalts. The Polish Jura Chain has some of the oldest rock formation on the continent of Europe.
 
-Morskie_Oko_o_poranku.jpg in southern Poland average 2,000 metres (6,600 ft) in elevation.]]
+in southern Poland average 2,000 metres (6,600 ft) in elevation.]]
 
 Poland has 70 mountains over in elevation, all in the Tatras. The Polish Tatras, which consist of the High Tatras and the Western Tatras, is the highest mountain group of Poland and of the entire Carpathian range. In the High Tatras lies Poland's highest point, the north-western summit of Rysy, in elevation. At its foot lie the mountain lakes of Czarny Staw pod Rysami (Black Lake below Mount Rysy) and Morskie Oko (the Marine Eye).[90]
 
 The second highest mountain group in Poland is the Beskids, whose highest peak is Babia Góra, at . The next highest mountain groups are the Karkonosze in the Sudetes, the highest point of which is Śnieżka at , and the Śnieżnik Mountains, the highest point of which is Śnieżnik at .
 
-Na_Szczelińcu_Wielkim_3.JPG are part of the Sudetes range in Lower Silesia.]]
+are part of the Sudetes range in Lower Silesia.]]
 
 Other notable uplands include the Table Mountains, which are noted for their interesting rock formations, the Bieszczady Mountains in the far southeast of the country, in which the highest Polish peak is Tarnica at , the Gorce Mountains in Gorce National Park, whose highest point is Turbacz at , the Pieniny in Pieniny National Park, the highest point of which is Wysokie Skałki (Wysoka) at , and the Świętokrzyskie Mountains in Świętokrzyski National Park, which have two similarly high peaks: Łysica at and Łysa Góra at .
 
@@ -211,13 +211,13 @@ The Baltic Sea activity in Słowiński National Park created sand dunes which in
 
 Waters
 
-Opactwo_Benedyktynów_w_Tyńcu_w_zimowej_szacie.jpg near the Tyniec Abbey. The river is the longest in Poland, flowing the entire length of the country for 1,047 kilometres (651 mi).]]
+near the Tyniec Abbey. The river is the longest in Poland, flowing the entire length of the country for 1,047 kilometres (651 mi).]]
 
 The longest rivers are the Vistula (), long; the Oder () which forms part of Poland's western border, long; its tributary, the Warta, long; and the Bug, a tributary of the Vistula, long. The Vistula and the Oder flow into the Baltic Sea, as do numerous smaller rivers in Pomerania.[91]
 
 The Łyna and the Angrapa flow by way of the Pregolya to the Baltic Sea, and the Czarna Hańcza flows into the Baltic Sea through the Neman. While the great majority of Poland's rivers drain into the Baltic Sea, Poland's Beskids are the source of some of the upper tributaries of the Orava, which flows via the Váh and the Danube to the Black Sea. The eastern Beskids are also the source of some streams that drain through the Dniester to the Black Sea.
 
-Rakowiec,_Wrocław,_Poland_-_panoramio.jpg, which forms part of Poland's western border, is the second longest in the country, flowing for .]]
+, which forms part of Poland's western border, is the second longest in the country, flowing for .]]
 
 Poland's rivers have been used since early times for navigation. The Vikings, for example, traveled up the Vistula and the Oder in their longships. In the Middle Ages and in early modern times, when the Polish–Lithuanian Commonwealth was the breadbasket of Europe;[92] the shipment of grain and other agricultural products down the Vistula toward Gdańsk and onward to other parts of Europe took on great importance.[93]
 
@@ -225,7 +225,7 @@ In the valley of Pilica river in Tomaszów Mazowiecki there is a unique natural 
 
 With almost ten thousand closed bodies of water covering more than each, Poland has one of the highest numbers of lakes in the world. In Europe, only Finland has a greater density of lakes.[95] The largest lakes, covering more than , are Lake Śniardwy and Lake Mamry in Masuria, and Lake Łebsko and Lake Drawsko in Pomerania.
 
-Olecko_Jezioro_Oleckie_Wielkie.jpg, located in the Masuria region of Poland, contains more than 2,000 lakes.]]
+, located in the Masuria region of Poland, contains more than 2,000 lakes.]]
 
 In addition to the lake districts in the north (in Masuria, Pomerania, Kashubia, Lubuskie, and Greater Poland), there is also a large number of mountain lakes in the Tatras, of which the Morskie Oko is the largest in area. The lake with the greatest depth—of more than —is Lake Hańcza in the Wigry Lake District, east of Masuria in Podlaskie Voivodeship.
 
@@ -233,7 +233,7 @@ Among the first lakes whose shores were settled are those in the Greater Polish 
 
 Lakes have always played an important role in Polish history and continue to be of great importance to today's modern Polish society. The ancestors of today's Poles, the Polanie, built their first fortresses on islands in these lakes. The legendary Prince Popiel ruled from Kruszwica tower erected on the Lake Gopło.[96] The first historically documented ruler of Poland, Duke Mieszko I, had his palace on an island in the Warta River in Poznań. Nowadays the Polish lakes provide a location for the pursuit of water sports such as yachting and wind-surfing.
 
-Dębki_1a.jpg coast is approximately 528 kilometres (328 mi) long and extends from Usedom island in the west to Krynica Morska in the east.]]
+coast is approximately 528 kilometres (328 mi) long and extends from Usedom island in the west to Krynica Morska in the east.]]
 
 The Polish Baltic coast is approximately long and extends from Świnoujście on the islands of Usedom and Wolin in the west to Krynica Morska on the Vistula Spit in the east. For the most part, Poland has a smooth coastline, which has been shaped by the continual movement of sand by currents and winds. This continual erosion and deposition has formed cliffs, dunes, and spits, many of which have migrated landwards to close off former lagoons, such as Łebsko Lake in Słowiński National Park.
 
@@ -241,7 +241,7 @@ The largest spits are Hel Peninsula and the Vistula Spit. The coast line is vari
 
 Land use
 
-2014_Pole_uprawne_w_Raszkowie.jpg fields in Greater Poland]]
+fields in Greater Poland]]
 
 Forests cover about 30.5% of Poland's land area based on international standards.[97] Its overall percentage is still increasing. Forests of Poland are managed by the national program of reforestation (KPZL), aiming at an increase of forest-cover to 33% in 2050. The richness of Polish forest (per SoEF 2011 statistics) is more than twice as high as European average (with Germany and France at the top), containing 2.304 billion cubic metres of trees.[98] The largest forest complex in Poland is Lower Silesian Wilderness.
 
@@ -251,7 +251,7 @@ Since Poland's accession to the European Union in 2004, Polish agriculture has p
 
 Biodiversity
 
-Białowieski_Park_Narodowy03_23a.jpg, an ancient woodland in eastern Poland and a UNESCO World Heritage Site, is home to 800 wild wisent.]]
+, an ancient woodland in eastern Poland and a UNESCO World Heritage Site, is home to 800 wild wisent.]]
 
 Phytogeographically, Poland belongs to the Central European province of the Circumboreal Region within the Boreal Kingdom. According to the World Wide Fund for Nature, the territory of Poland belongs to three Palearctic Ecoregions of the continental forest spanning Central and Northern European temperate broadleaf and mixed forest ecoregions as well as the Carpathian montane conifer forest.
 
@@ -259,7 +259,7 @@ Many animals that have since died out in other parts of Europe still survive in 
 
 In the forests there are game animals, such as red deer, roe deer and wild boar. In eastern Poland there are a number of ancient woodlands, like Białowieża forest, that have never been cleared or disturbed much by people. There are also large forested areas in the mountains, Masuria, Pomerania, Lubusz Land and Lower Silesia.
 
-White_Stork_(Ciconia_ciconia),_Zajki_meadows,_Eastern_Poland.jpg population in Europe.[103]]]
+population in Europe.[103]]]
 
 Poland is the most important breeding ground for a variety of European migratory birds.[104] One quarter of the global population of white storks (40,000 breeding pairs) live in Poland,[105] particularly in the lake districts and the wetlands along the Biebrza, the Narew, and the Warta, which are part of nature reserves or national parks.
 
@@ -288,7 +288,7 @@ Poland is a representative democracy, with a president as a head of state, whose
 
 Polish voters elect a bicameral parliament consisting of a 460-member lower house (Sejm) and a 100-member Senate (Senat). The Sejm is elected under proportional representation according to the d'Hondt method, a method similar to that used in many parliamentary political systems. The Senat, on the other hand, is elected under the first-past-the-post voting method, with one senator being returned from each of the 100 constituencies.
 
-Zgromadzenie_Narodowe_4_czerwca_2014_Kancelaria_Senatu_01.JPG is the lower house of the Polish parliament.]]
+is the lower house of the Polish parliament.]]
 
 With the exception of ethnic minority parties, only candidates of political parties receiving at least 5% of the total national vote can enter the Sejm. When sitting in joint session, members of the Sejm and Senat form the National Assembly (the _Zgromadzenie Narodowe_). The National Assembly is formed on three occasions: when a new president takes the oath of office; when an indictment against the President of the Republic is brought to the State Tribunal (_Trybunał Stanu_); and when a president's permanent incapacity to exercise his duties due to the state of his health is declared. To date only the first instance has occurred.
 
@@ -296,17 +296,17 @@ The judicial branch plays an important role in decision-making. Its major instit
 
 Law
 
-Polishsupremecourt.JPEG building in Warsaw]]
+building in Warsaw]]
 
 The Constitution of Poland is the supreme law in contemporary Poland, and the Polish legal system is based on the principle of civil rights, governed by the code of Civil Law. Historically, the most famous Polish legal act is the Constitution of 3 May 1791. Historian Norman Davies describes it as the first of its kind in Europe.[109] The Constitution was instituted as a Government Act () and then adopted on 3 May 1791 by the Sejm of the Polish–Lithuanian Commonwealth. Primarily, it was designed to redress long-standing political defects of the federative Polish–Lithuanian Commonwealth and its Golden Liberty. Previously only the Henrician Articles signed by each of Poland's elected kings could perform the function of a set of basic laws.
 
-Manuscript_of_the_Constitution_of_the_3rd_May_1791.PNG adopted in 1791 was the first modern constitution in Europe.[110]]]
+adopted in 1791 was the first modern constitution in Europe.[110]]]
 
 The new Constitution introduced political equality between townspeople and the nobility (_szlachta_), and placed the peasants under the protection of the government. The Constitution abolished pernicious parliamentary institutions such as the _liberum veto_, which at one time had placed the sejm at the mercy of any deputy who might choose, or be bribed by an interest or foreign power, to have rescinded all the legislation that had been passed by that sejm. The 3 May Constitution sought to supplant the existing anarchy fostered by some of the country's reactionary magnates, with a more egalitarian and democratic constitutional monarchy. The adoption of the constitution was treated as a threat by Poland's neighbours.[111] In response Prussia, Austria and Russia formed an anti-Polish alliance and over the next decade collaborated with one another to partition their weaker neighbour and destroyed the Polish state. In the words of two of its co-authors, Ignacy Potocki and Hugo Kołłątaj, the constitution represented "the last will and testament of the expiring Fatherland." Despite this, its text influenced many later democratic movements across the globe.[112] In Poland, freedom of expression is guaranteed by the Article 25 (section I. The Republic) and Article 54 (section II. The Freedoms, Rights and Obligations of Persons and Citizens) of the Constitution of Poland.
 
-Manor_of_Kraszewski_family_in_Romanów_-_Exhibition_hall_-_18.jpg was a proponent of early feminism in Poland.]]
+was a proponent of early feminism in Poland.]]
 
-Feminism in Poland started in the 1800s in the age of the foreign Partitions. Poland's precursor of feminism, Narcyza Żmichowska, founded a group of Suffragettes in 1842. Prior to the last Partition in 1795, tax-paying females were allowed to take part in political life. Since 1918, following the return to independence, all women could vote. Poland was the 15th (12th sovereign) country to introduce universal women's suffrage. Currently, in Poland abortion is allowed only in special circumstances, such as when the woman's life or health is endangered by the continuation of pregnancy, when the pregnancy is a result of a criminal act, or when the fetus is seriously malformed.[113][114] Homosexuality in Poland was confirmed as legal in 1932. Also, Poland recognises gender change.[115] Trafficking women is 'illegal and rare' (top results worldwide).[116] Marsz_dla_zycia_i_rodziny_2007_06.jpg organized in support of traditional social values]]
+Feminism in Poland started in the 1800s in the age of the foreign Partitions. Poland's precursor of feminism, Narcyza Żmichowska, founded a group of Suffragettes in 1842. Prior to the last Partition in 1795, tax-paying females were allowed to take part in political life. Since 1918, following the return to independence, all women could vote. Poland was the 15th (12th sovereign) country to introduce universal women's suffrage. Currently, in Poland abortion is allowed only in special circumstances, such as when the woman's life or health is endangered by the continuation of pregnancy, when the pregnancy is a result of a criminal act, or when the fetus is seriously malformed.[113][114] Homosexuality in Poland was confirmed as legal in 1932. Also, Poland recognises gender change.[115] Trafficking women is 'illegal and rare' (top results worldwide).[116] organized in support of traditional social values]]
 
 Poland's current constitution was adopted by the National Assembly of Poland on 2 April 1997, approved by a national referendum on 25 May 1997, and came into effect on 17 October 1997. It guarantees a multi-party state, the freedoms of religion, speech and assembly, and specifically casts off many Communist ideals to create a 'free market economic system'. It requires public officials to pursue ecologically sound public policy and acknowledges the inviolability of the home, the right to form trade unions, and to strike, whilst at the same time prohibiting the practices of forced medical experimentation, torture and corporal punishment.
 
@@ -318,7 +318,7 @@ Poland is a member of the European Union, NATO, the UN, the World Trade Organiza
 
 In 1994, Poland became an associate member of the European Union (EU) and its defensive arm, the Western European Union (WEU), having submitted preliminary documentation for full membership in 1996, it formally joined the European Union in May 2004, along with the other members of the Visegrád group. In 1996, Poland achieved full OECD membership, and at the 1997 Madrid Summit was invited to join the North Atlantic Treaty Organisation (NATO) in the first wave of policy enlargement finally becoming a full member of NATO in March 1999.
 
-Ministerstwo_Spraw_Zagraniczych_al._Szucha_23.JPG located in Warsaw]]
+located in Warsaw]]
 
 As changes since the fall of Communism in 1989 have redrawn the map of Europe, Poland has tried to forge strong and mutually beneficial relationships with its seven new neighbours, this has notably included signing 'friendship treaties' to replace links severed by the collapse of the Warsaw Pact. Poland has forged a special relationships with Ukraine,[117] with whom it co-hosted the UEFA Euro 2012 football tournament, in an effort to firmly anchor the country within the Western world and provide it with an alternative to aligning itself with the Russian Federation. Despite many positive developments in the region, Poland has found itself in a position where it must seek to defend the rights of ethnic Poles living in the former Soviet Union; this is particularly true of Belarus, where in 2005 the Lukashenko regime launched a campaign against the Polish ethnic minority.[118]
 
@@ -375,17 +375,17 @@ The voivodeships are subdivided into _powiats_ (often referred to in English as 
 
 Military
 
-F-16_Jastrząb_(48).jpg F-16s, a single-engine multirole fighter aircraft]]
+F-16s, a single-engine multirole fighter aircraft]]
 
 The Polish armed forces are composed of five branches: Land Forces (_Wojska Lądowe_), Navy (_Marynarka Wojenna_), Air Force (_Siły Powietrzne_), Special Forces (_Wojska Specjalne_) and Territorial Defence Force (_Wojska Obrony Terytorialnej_) – a military component of the Polish armed forces created of 2016. Plans call for the force, once fully active, to consist of 53,000 people who will be trained and equipped to counter potential hybrid warfare threats.[119] The military is subordinate to the Minister for National Defence. However, its commander-in-chief is the President of the Republic.
 
 The Polish army's size is estimated at around 101,500 soldiers (2016). The Polish Navy primarily operates in the Baltic Sea and conducts operations such as maritime patrol, search and rescue for the section of the Baltic under Polish sovereignty, as well as hydrographic measurements and research. Also, the Polish Navy played a more international role as part of the 2003 invasion of Iraq, providing logistical support for the United States Navy. The current position of the Polish Air Force is much the same; it has routinely taken part in Baltic Air Policing assignments, but otherwise, with the exception of a number of units serving in Afghanistan, has seen no active combat. In 2003, the F-16C Block 52 was chosen as the new general multi-role fighter for the air force, the first deliveries taking place in November 2006.
 
-Ex_STEADFAST_JAZZ_(10710349373).jpg armored personnel carrier during a NATO exercise at the Military Training Area near Drawsko Pomorskie]]
+armored personnel carrier during a NATO exercise at the Military Training Area near Drawsko Pomorskie]]
 
 The most important mission of the armed forces is the defence of Polish territorial integrity and Polish interests abroad.[120] Poland's national security goal is to further integrate with NATO and European defence, economic, and political institutions through the modernisation and reorganisation of its military.[121] The armed forces are being re-organised according to NATO standards, and since 2010, the transition to an entirely contract-based military has been completed. Compulsory military service for men was discontinued in 2008. From 2007, until conscription ended in 2008, the mandatory service was nine months.[122]
 
-Ćwiczenia_3_Flotylli_Okrętów_02.jpg ship-based helicopter flying by the frigate ORP Generał Kazimierz Pułaski during an exercise in the Baltic Sea]]
+ship-based helicopter flying by the frigate ORP Generał Kazimierz Pułaski during an exercise in the Baltic Sea]]
 
 Polish military doctrine reflects the same defensive nature as that of its NATO partners. From 1953 to 2009 Poland was a large contributor to various United Nations peacekeeping missions.[123][124] The Polish Armed Forces took part in the 2003 invasion of Iraq, deploying 2,500 soldiers in the south of that country and commanding the 17-nation Multinational force in Iraq.
 
@@ -395,7 +395,7 @@ Currently, Poland's military is going through a significant modernization phase,
 
 Law enforcement and emergency services
 
-Mercedes-Benz_Sprinter_Policja_Krakow_G719.JPG patrol van belonging to the Polish State Police Service (_Policja_)]]
+patrol van belonging to the Polish State Police Service (_Policja_)]]
 
 Poland has a highly developed system of law enforcement with a long history of effective policing by the State Police Service (Policja). The structure of law enforcement agencies within Poland is a multi-tier one, with the State Police providing criminal-investigative services, Municipal Police serving to maintain public order and a number of other specialized agencies, such as the Polish Border Guard, acting to fulfill their assigned missions. In addition to these state services, private security companies are also common, although they possess no powers assigned to state agencies, such as, for example, the power to make an arrest or detain a suspect.
 
@@ -406,15 +406,15 @@ Since joining the European Union all of Poland's emergency services have been un
 
 Economy
 
-Panorama_ul._Emilii_Plater_w_Warszawie_radek_kołakowski.jpg is the financial and economic hub of Poland.]] Poland's economy is considered to be one of the more resilient of the post-Communist countries and is one of the fastest growing within the EU.[132] Having a strong domestic market, low private debt, low unemployment rate, flexible currency, and not being dependent on a single export sector, Poland is the only European economy to have avoided the recession of 2008.[133] Since the fall of the communist government, Poland has pursued a policy of liberalising the economy. It is an example of the transition from a centrally planned to a primarily market-based economy. The country's most successful exports include machinery, furniture, food products, clothing, shoes and cosmetics.[134][135] Poland's largest trading partners include Germany, Czech Republic, United Kingdom, France and Italy.[136][137] According to Eurostat data, Polish PPS GDP per capita stood at 70% of the EU average in 2017, up from 50% in the year prior to the accession to the EU in 2004.[138]
+is the financial and economic hub of Poland.]] Poland's economy is considered to be one of the more resilient of the post-Communist countries and is one of the fastest growing within the EU.[132] Having a strong domestic market, low private debt, low unemployment rate, flexible currency, and not being dependent on a single export sector, Poland is the only European economy to have avoided the recession of 2008.[133] Since the fall of the communist government, Poland has pursued a policy of liberalising the economy. It is an example of the transition from a centrally planned to a primarily market-based economy. The country's most successful exports include machinery, furniture, food products, clothing, shoes and cosmetics.[134][135] Poland's largest trading partners include Germany, Czech Republic, United Kingdom, France and Italy.[136][137] According to Eurostat data, Polish PPS GDP per capita stood at 70% of the EU average in 2017, up from 50% in the year prior to the accession to the EU in 2004.[138]
 
-Schengenzone.svg and the EU single market.]]
+and the EU single market.]]
 
 The Polish banking sector is the largest in the Central and Eastern European region,[139] with 32.3 branches per 100,000 adults.[140][141]World Bank, Financial Inclusion Data. Country Dashboard: Poland. The World Bank Group. Retrieved 6 November 2014. The banks are the largest and most developed sector of the country's financial markets. They are regulated by the Polish Financial Supervision Authority. During the transformation to a market-oriented economy, the government privatized several banks, recapitalized the rest, and introduced legal reforms that made the sector more competitive. This has attracted a significant number of strategic foreign investors (ICFI). Poland's banking sector has approximately 5 national banks, a network of nearly 600 cooperative banks and 18 branches of foreign-owned banks. In addition, foreign investors have controlling stakes in nearly 40 commercial banks, which make up 68% of the banking capital.[142]
 
 Poland has a large number of private farms in its agricultural sector, with the potential to become a leading producer of food in the European Union. The biggest money-makers abroad include smoked and fresh fish, fine chocolate, and dairy products, meats and specialty breads,[143] with the exchange rate conducive to export growth.[144] Food exports amounted to 62 billion zloty in 2011, increasing by 17% from 2010.[145] Structural reforms in health care, education, the pension system, and state administration have resulted in larger-than-expected fiscal pressures. Warsaw leads Central Europe in foreign investment.[146]
 
-Solaris_Bolechowo_(003).jpg is a coach and tram manufacturer near Poznań.]]
+is a coach and tram manufacturer near Poznań.]]
 
 Since the gradual opening of the European Union labor market from 2004, Poland has had mass emigration of over 2.3 million, due to higher wages abroad and mass unemployment at home, even as Poland avoided the Great Recession of 2008.[147][148][149] The emigration has increased the average wages for the workers who remained in Poland, in particular for those with intermediate level skills.[150] Unemployment also gradually decreased; in September 2018 the unemployment rate in Poland was estimated at 5.7%, one of the lowest in the European Union.[151]
 
@@ -422,7 +422,7 @@ Products and goods manufactured in Poland include: electronics, buses and trams 
 
 Corporations
 
-Warsaw8gh.jpg is the largest exchange by market capitalization in East-Central Europe.]]
+is the largest exchange by market capitalization in East-Central Europe.]]
 
 Poland is recognised as a regional economic leader within Central Europe, with nearly 40 percent of the 500 biggest companies in the region (by revenues) as well as a high globalisation rate.[153] The country's largest firms compose the WIG30 index, which is traded on the Warsaw Stock Exchange.
 
@@ -459,13 +459,13 @@ The list includes the largest companies by turnover in 2016:
 
 Tourism
 
-Ratusz_Zamosc.jpg is a UNESCO World Heritage Site.]] Poland experienced an increase in the number of tourists after joining the European Union in 2004.[157] Tourism contributes significantly to the overall economy and makes up a relatively large proportion of the country's service market.[158]
+is a UNESCO World Heritage Site.]] Poland experienced an increase in the number of tourists after joining the European Union in 2004.[157] Tourism contributes significantly to the overall economy and makes up a relatively large proportion of the country's service market.[158]
 
-Tourist attractions in Poland vary, from the mountains in the south to the sandy beaches in the north, with a trail of nearly every architectural style. The most visited city is Kraków, which was the former capital of Poland and serves as a relic of Polish Golden Age of Renaissance. Kraków also held royal coronations of most Polish kings. Among other notable sites in the country is Wrocław, one of the oldest cities in Poland. Wrocław possesses a huge market square with two city halls, as well as the oldest Zoological Gardens with one of the world's largest number of animal species and is famous for its dwarfs. The Polish capital Warsaw and its historical Old Town were entirely reconstructed after wartime destruction.[159] Other cities attracting tourists include Gdańsk, Poznań, Szczecin, Lublin, Toruń and the historic site of the German Auschwitz concentration camp in Oświęcim. Afrykarium_tunel.jpg in Wrocław]] Poland's main tourist offerings include outdoor activities such as skiing, sailing, mountain hiking and climbing, as well as agrotourism, sightseeing historical monuments. Tourist destinations include the Baltic Sea coast in the north; the Masurian Lake District and Białowieża Forest in the east; on the south Karkonosze, the Table Mountains and the Tatra Mountains, where Rysy, the highest peak of Poland, and the famous Orla Perć mountain trail are located. The Pieniny and Bieszczady Mountains lie in the extreme south-east.[160] There are over 100 castles in the country, many in the Lower Silesian Voivodeship and along the popular Trail of the Eagles' Nests.[161]
+Tourist attractions in Poland vary, from the mountains in the south to the sandy beaches in the north, with a trail of nearly every architectural style. The most visited city is Kraków, which was the former capital of Poland and serves as a relic of Polish Golden Age of Renaissance. Kraków also held royal coronations of most Polish kings. Among other notable sites in the country is Wrocław, one of the oldest cities in Poland. Wrocław possesses a huge market square with two city halls, as well as the oldest Zoological Gardens with one of the world's largest number of animal species and is famous for its dwarfs. The Polish capital Warsaw and its historical Old Town were entirely reconstructed after wartime destruction.[159] Other cities attracting tourists include Gdańsk, Poznań, Szczecin, Lublin, Toruń and the historic site of the German Auschwitz concentration camp in Oświęcim. in Wrocław]] Poland's main tourist offerings include outdoor activities such as skiing, sailing, mountain hiking and climbing, as well as agrotourism, sightseeing historical monuments. Tourist destinations include the Baltic Sea coast in the north; the Masurian Lake District and Białowieża Forest in the east; on the south Karkonosze, the Table Mountains and the Tatra Mountains, where Rysy, the highest peak of Poland, and the famous Orla Perć mountain trail are located. The Pieniny and Bieszczady Mountains lie in the extreme south-east.[160] There are over 100 castles in the country, many in the Lower Silesian Voivodeship and along the popular Trail of the Eagles' Nests.[161]
 
 Energy
 
-Bełchatów_Elektrownia.jpg is a lignite-fired power station that produces 27–28 TWh of electricity per year, or twenty percent of the total power generation in Poland.]]
+is a lignite-fired power station that produces 27–28 TWh of electricity per year, or twenty percent of the total power generation in Poland.]]
 
 The electricity generation sector in Poland is largely fossil-fuel–based. Many power plants nationwide use Poland's position as a major European exporter of coal to their advantage by continuing to use coal as the primary raw material in production of their energy. In 2013, Poland scored 48 out of 129 states in the Energy Sustainability Index.[162] The three largest Polish coal mining firms (Węglokoks, Kompania Węglowa and JSW) extract around 100 million tonnes of coal annually. All three of these companies are key constituents of the Warsaw Stock Exchange's lead economic indexes.
 
@@ -477,17 +477,17 @@ The 5 largest companies supplying Poland electricity are PGE, Tauron, Enea, Ener
 
 Transport
 
-Wezelsosnicafromthesky.JPG, A4 motorways and express road 44 junction near Gliwice]] Transport in Poland is provided by means of rail, road, marine shipping and air travel. Positioned in Central Europe with its eastern and part of its northeastern border constituting the longest land border of the Schengen Area with the rest of Northern and Central Europe.
+, A4 motorways and express road 44 junction near Gliwice]] Transport in Poland is provided by means of rail, road, marine shipping and air travel. Positioned in Central Europe with its eastern and part of its northeastern border constituting the longest land border of the Schengen Area with the rest of Northern and Central Europe.
 
 Since joining the EU in May 2004, Poland has invested large amounts of public funds into modernization projects of its transport networks. The country now has a developing network of highways, composed of express roads and motorways. At the end of 2017, Poland had 3421,7 km of highways. In addition to these newly built roads, many local and regional roads are being fixed as part of a national programme to rebuild all roads in Poland.[164]
 
-WK15_Wrocław_Główny_(2)_Lichen99.jpg Pendolino at the Wrocław Główny railway station]]
+Pendolino at the Wrocław Główny railway station]]
 
 In 2015, the nation had of railway track. Polish authorities maintain a program of improving operating speeds across the entire Polish rail network. To that end, Polish State Railways (PKP) is adopting new rolling stock which is in principle capable of speeds up to . Additionally, in December 2014, Poland began to implement high–speed rail routes connecting major Polish cities. The Polish government has revealed that it intends to connect all major cities to a future high-speed rail network by 2020.[165] The new PKP Pendolino ETR 610 test train set the record for the fastest train in the history of Poland, reaching on 24 November 2013. Poland is gradually implementing the European Rail Traffic Management System. Polish regulations allow trains without ETCS to travel at speeds up to 160 km/h, trains with ETCS1 up to 200 km/h, and trains with ETCS2 over 200 km/h. Most interregional connections rail routes in Poland is operated by PKP Intercity, whilst regional trains are run by a number of operators, the largest of which is Przewozy Regionalne.
 
 On 14 December 2014, Polish State Railways started passenger service using the PKP Pendolino ED250, operating at 200 km/h speed on 80 km of line between Olszamowice and Zawiercie (part of the Central Rail Line [CMK]). Currently, the whole CMK and on several other lines is adapted to the speed of 200 km/h.
 
-LOT_Polish_Airlines_Boing_787-8_SP-LRD_NRT_(24747512573).jpg is one of the world's oldest air carriers still in operation, originally established on 1 January 1929.]]
+is one of the world's oldest air carriers still in operation, originally established on 1 January 1929.]]
 
 The air and maritime transport markets in Poland are largely well developed. Poland has a number of international airports, the largest of which is Warsaw Chopin Airport, the primary global hub for LOT Polish Airlines. It was established in 1929 from a merger of Aerolloyd (1922) and Aero (1925). Other major airports with international connections include John Paul II International Airport Kraków–Balice, Copernicus Airport Wrocław, Gdańsk Lech Wałęsa Airport. Poland has begun preparations for a construction that can handle 100 million passengers of the Central Communication Port.
 
@@ -495,13 +495,13 @@ Seaports exist all along Poland's Baltic coast, with most freight operations usi
 
 Science and technology
 
-Marie_Curie_c1920.png was the first person to win two Nobel Prizes. She also established Poland's Radium Institute in 1925.[166]]]
+was the first person to win two Nobel Prizes. She also established Poland's Radium Institute in 1925.[166]]]
 
 Over the course of history, the Polish people have made considerable contributions in the fields of science, technology and mathematics.[167] Perhaps the most renowned Pole to support this theory was Nicolaus Copernicus (_Mikołaj Kopernik_), who triggered the Copernican Revolution by placing the Sun rather than the Earth at the center of the universe.[168] He also derived a quantity theory of money, which made him a pioneer of economics. Copernicus' achievements and discoveries are considered the basis of Polish culture and cultural identity.
 
 Poland's tertiary education institutions; traditional universities, as well as technical, medical, and economic institutions, employ around 61,000 researchers and members of staff. There are around 300 research and development institutes, with about 10,000 researchers. In total, there are around 91,000 scientists in Poland today. However, in the 19th and 20th centuries many Polish scientists worked abroad; one of the most important of these exiles was Maria Skłodowska-Curie, a physicist and chemist who lived much of her life in France.
 
-Nikolaus_Kopernikus.jpg, the 16th century Polish astronomer who formulated the heliocentric model of the solar system that placed the Sun rather than the Earth at its center.]]
+, the 16th century Polish astronomer who formulated the heliocentric model of the solar system that placed the Sun rather than the Earth at its center.]]
 
 In the first half of the 20th century, Poland was a flourishing centre of mathematics. Outstanding Polish mathematicians formed the Lwów School of Mathematics (with Stefan Banach, Stanisław Mazur, Hugo Steinhaus, Stanisław Ulam) and Warsaw School of Mathematics (with Alfred Tarski, Kazimierz Kuratowski, Wacław Sierpiński and Antoni Zygmund).
 
@@ -509,7 +509,7 @@ Over 40 research and development centers and 4,500 researchers make Poland the b
 
 Communications
 
-Centrala_Poczty_Polskiej_ul._Rodziny_Hiszpańskich_8_w_Warszawie.jpg in Warsaw. Poland's postal service can trace its roots to the year 1558.]]
+in Warsaw. Poland's postal service can trace its roots to the year 1558.]]
 
 The public postal service in Poland is operated by _Poczta Polska_ (the Polish Post). It was created on 18 October 1558, when King Sigismund II Augustus established a permanent postal route from Kraków to Venice. The service was dissolved during the foreign partitions in the 18th century. After regaining independence in 1918, Poland saw the rapid development of the postal system as new services were introduced including money transfers, payment of pensions, delivery of magazines, and air mail. The government-owned enterprise of Polish Post, Telegraph and Telephone (_Polska Poczta, Telegraf i Telefon_) was established in 1928.
 
@@ -532,7 +532,7 @@ Urbanization
 
 Languages
 
-Dolina_Jadwigi_znak.jpg (Polish-Kashubian) road sign with the village name]]
+(Polish-Kashubian) road sign with the village name]]
 
 POLISH (_język polski_, _polszczyzna_) is a Slavic language spoken primarily in Poland and the native language of Poles. It belongs to the Lechitic subgroup of West Slavic languages.[182] Polish is the official language of Poland, but it is also used throughout the world by Polish minorities in other countries. It is one of the official languages of the European Union. Its written standard is the Polish alphabet, which has 9 additions to the letters of the basic Latin script (_ą_, _ć_, _ę_, _ł_, _ń_, _ó_, _ś_, _ź_, _ż_), with the notable exclusion of _q_,_v_, and _x_, which are used mainly for foreign words. The deaf communities use Polish Sign Language belonging to the German family of Sign Languages.
 
@@ -548,7 +548,7 @@ Ethnicity
 
     _Main articles: Polish tribes, Poles, List of notable Poles, Ethnic minorities in Poland_
 
-VII_Międzynarodowy_Festiwal_Folkloru_Ziem_Górskich_-_Zakopane_-_000927s.jpg are a Polish ethnographic group living in the region of Podhale]]
+are a Polish ethnographic group living in the region of Podhale]]
 
 The Poles are a West Slavic ethnic group and a nation native to Poland, who share a common ancestry, culture, history, religion and are native speakers of the Polish language, along with its various dialects. The formation of the Polish identity and ethnicity can be traced to the 10th century when Duke Mieszko I politically unified the Slavic tribes of Polans, Mazovians, Slezans, Vistulans, Pomeranians, Lendians and others,[191][192] which inhabited the area of central Europe between the Oder River in the west and the Bug River in the east, and between the Carpathian and Sudetes mountains in the south and the Baltic sea in the north, and then by accepting Christianity as the official state religion.[193]
 
@@ -562,17 +562,17 @@ Religion
 
 For centuries the Slavic people inhabiting the lands of modern day Poland have practiced various forms of paganism known as Rodzimowierstwo (“native faith”).[201][202][203][204] In the year 966, Duke Mieszko I converted to Christianity, and submitted to the authority of the Roman Catholic Church.[205][206] This event came to be known as the Baptism of Poland.[207][208][209] However, this did not put an end to pagan beliefs in the country. The persistence was demonstrated by a series of rebellions known as the Pagan reaction in the first half of the 11th century, which also showed elements of a peasant uprising against landowners and feudalism,[210] and led to a mutiny that destabilized the country.[211][212][213][214]
 
-Odnowa_w_Duchu_Świętym_-_Jasna_Góra_2011.jpg in Częstochowa is a shrine to the Virgin Mary (Black Madonna), and a major pilgrimage site for Poland's many Catholics.]]
+in Częstochowa is a shrine to the Virgin Mary (Black Madonna), and a major pilgrimage site for Poland's many Catholics.]]
 
 Since then, Poland has been a predominantly Catholic nation, however throughout its history, religious tolerance was an important part of the political culture. In 1264, the Statute of Kalisz, also known as a Charter of Jewish Liberties, granted Jews living in the Polish lands unprecedented legal rights not found anywhere in Europe. In 1424, the Polish king was pressed by the Bishops to issue the Edict of Wieluń, outlawing early Protestant Hussitism. Then in 1573, the Warsaw Confederation marked the formal beginning of extensive religious freedoms granted to all faiths in the Polish-Lithuanian Commonwealth. The act was not imposed by a king or consequence of war, but rather resulted from the actions of members of the Polish-Lithuanian society. It was also influenced by the events of the 1572 French St. Bartholomew's Day Massacre, which prompted the Polish-Lithuanian nobility to see that no monarch would ever be able to carry out such reprehensible atrocities in Poland. The act is also credited with keeping the Polish-Lithuanian Commonwealth out of the Thirty Years' War, fought between German Protestants and Catholics.[215]
 
-Luxembourg-5151_-_Pope_John_Paul_II_(12727135684).jpg was the first Pole and Slav to become a Roman Catholic Pope. He held the papacy between 1978 and 2005.]]
+was the first Pole and Slav to become a Roman Catholic Pope. He held the papacy between 1978 and 2005.]]
 
 Religious tolerance in Poland spurred many theological movements such as Calvinist Polish Brethren and a number of other Protestant groups, as well as atheists, such as ex-Jesuit philosopher Kazimierz Łyszczyński, one of the first atheist thinkers in Europe. Also, in the 16th century, Anabaptists from the Netherlands and Germany settled in Poland—after being persecuted in Western Europe—and became known as the Vistula delta Mennonites.
 
 In 2014, an estimated 87% of the population belonged to the Catholic Church. Though rates of religious observance are lower at 52%,[216][217] Poland remains one of the most religious countries in Europe.[218] Contemporary religious minorities include Polish Orthodox (about 506,800),[219] various Protestants (about 150,000) — including 77,500 Lutherans in the Evangelical-Augsburg Church,[220] 23,000 Pentecostals in the Pentecostal Church in Poland, 10,000 Adventists in the Seventh-day Adventist Church and other smaller Evangelical denominations[221] — Jehovah's Witnesses (126,827),[222] Eastern Catholics, Mariavites, Jews, and Muslims, including the Tatars of Białystok region. There are also several thousand neopagans, some of whom are members of the Native Polish Church.
 
-Inside_old_synagogue_Krakow.JPG of Kraków is the oldest standing synagogue in Poland. Hasidic Judaism originated in the Polish-Lithuanian Commonwealth during the 18th century.]]
+of Kraków is the oldest standing synagogue in Poland. Hasidic Judaism originated in the Polish-Lithuanian Commonwealth during the 18th century.]]
 
 From 16 October 1978 until his death on 2 April 2005, Karol Józef Wojtyła reigned as Supreme Pontiff of the Roman Catholic Church. He is the only Polish Pope to date.[223] Additionally he is credited with having played a significant role in hastening the downfall of communism in Poland and throughout Central and Eastern Europe.[224][225]
 
@@ -584,7 +584,7 @@ Health
 
 Poland's healthcare system is based on an all-inclusive insurance system. State subsidised healthcare is available to all Polish citizens who are covered by this general health insurance program. However, it is not compulsory to be treated in a state-run hospital as a number of private medical complexes exist nationwide.[232]
 
-Uniwersytecki_Szpital_Kliniczny_Gdansk.jpg in Gdańsk]]
+in Gdańsk]]
 
 All medical service providers and hospitals in Poland are subordinate to the Polish Ministry of Health, which provides oversight and scrutiny of general medical practice as well as being responsible for the day-to-day administration of the healthcare system. In addition to these roles, the ministry is tasked with the maintenance of standards of hygiene and patient-care.
 
@@ -595,8 +595,6 @@ In 2012, the Polish health-care industry experienced further transformation. Hos
 In 2016, the average life expectancy at birth was 77.6 years (73.7 years for infant male and 81.7 years for infant female).[235]
 
 Education
-
-PL-uczelnie.png
 
 The Commission of National Education (_Komisja Edukacji Narodowej_) established in 1773, was the world's first state ministry of education.[236][237] The education of Polish society was a goal of the nation's rulers as early as the 12th century. The library catalogue of the Cathedral Chapter of Kraków dating back to 1110 shows that in the early 12th century Polish academia had access to European and Classical literature. The Jagiellonian University was founded in 1364 by King Casimir III in Kraków—the school is the world's 19th oldest university.
 
@@ -627,7 +625,7 @@ Today Poland has an active music scene, with the jazz and metal genres being par
 
 Art
 
-The_Lady_with_an_Ermine.jpg'' (1490) by Leonardo da Vinci. Though not Polish in its origin, the painting symbolizes Poland's cultural heritage and is among the country's most precious treasures. The critics named it "a breakthrough in the art of psychological portraiture."]]
+'' (1490) by Leonardo da Vinci. Though not Polish in its origin, the painting symbolizes Poland's cultural heritage and is among the country's most precious treasures. The critics named it "a breakthrough in the art of psychological portraiture."]]
 
 Art in Poland has always reflected European trends while maintaining its unique character. The Kraków Academy of Fine Arts, later developed by Jan Matejko, produced monumental portrayals of customs and significant events in Polish history.[247] Other institutions such as the Academy of Fine Arts in Warsaw were more innovative and focused on both historical and contemporary styles.[248] In recent years, art academies such as the Kraków School of Art and Fashion Design, Art Academy of Szczecin, University of Fine Arts in Poznań and Geppert Academy of Fine Arts in Wrocław gained much recognition.
 
@@ -635,7 +633,7 @@ Perhaps the most prominent and internationally admired Polish artist was Tamara 
 
 Prior to the 19th century only Daniel Schultz and Italian-born Marcello Bacciarelli had the privilege of being recognized abroad. The Young Poland movement witnessed the birth of modern Polish art, and engaged in a great deal of formal experimentation led by Jacek Malczewski, Stanisław Wyspiański, Józef Mehoffer, and a group of Polish Impressionists.[252] Stanisław Witkiewicz was an ardent supporter of Realism, its main representative being Józef Chełmoński, while Artur Grottger specialized in Romanticism. Within historically-orientated circles, Henryk Siemiradzki dominated with his monumental Academic Art and ancient Roman theme.[253]
 
-2658_Muzeum_Narodowe._Foto_Barbara_Maliszewska.jpg in Wrocław, which holds one of the largest collections of contemporary art in the country.]] Since the inter-war years, Polish art and documentary photography has enjoyed worldwide fame and in the 1960s the Polish School of Posters was formed.[254] Throughout the entire country, many national museum and art institutions hold valuable works by famous masters. Major museums in Poland include the National Museum in Warsaw, Poznań, Wrocław, Kraków, and Gdańsk, as well as the Museum of John Paul II Collection, and the Wilanów Museum. Important collections are also held in the Royal Castle in Warsaw, Wawel Castle and the Lazienki Palace. The most distinguished painting of Poland is _Lady with an Ermine_ by Leonardo da Vinci, held at the Czartoryski Museum in Kraków. Although not Polish, the work had a strong influence on Polish culture and has been often associated with Polish identity.[255]
+in Wrocław, which holds one of the largest collections of contemporary art in the country.]] Since the inter-war years, Polish art and documentary photography has enjoyed worldwide fame and in the 1960s the Polish School of Posters was formed.[254] Throughout the entire country, many national museum and art institutions hold valuable works by famous masters. Major museums in Poland include the National Museum in Warsaw, Poznań, Wrocław, Kraków, and Gdańsk, as well as the Museum of John Paul II Collection, and the Wilanów Museum. Important collections are also held in the Royal Castle in Warsaw, Wawel Castle and the Lazienki Palace. The most distinguished painting of Poland is _Lady with an Ermine_ by Leonardo da Vinci, held at the Czartoryski Museum in Kraków. Although not Polish, the work had a strong influence on Polish culture and has been often associated with Polish identity.[255]
 
 Architecture
 
@@ -647,7 +645,7 @@ The architecture of Gdańsk is mostly of the Hanseatic variety, a Gothic style c
 
 The second half of the 17th century is marked by baroque architecture. Side towers, such as those of Branicki Palace in Białystok, are typical for the Polish baroque. The classical Silesian baroque is represented by the University in Wrocław. The profuse decorations of the Branicki Palace in Warsaw are characteristic of the rococo style. The centre of Polish classicism was Warsaw under the rule of the last Polish king Stanisław II Augustus.[258] The Palace on the Water is the most notable example of Polish neoclassical architecture. Lublin Castle represents the Gothic Revival style in architecture, while the Izrael Poznański Palace in Łódź is an example of eclecticism.
 
-Kazimierz_Dolny_Market_Square.jpg, the town exemplifies traditional provincial Polish folk architecture.]]
+, the town exemplifies traditional provincial Polish folk architecture.]]
 
 Traditional folk architecture in the villages and small towns scattered across the vast Polish countryside is characterized by its extensive use of wood as the primary building material. Some of the best preserved and oldest structures include wooden churches, and tserkvas primarily located across southern Poland in the Beskids and Bieszczady regions of the Carpathian mountains.[259][260] Numerous examples of secular structures such as Polish manor houses (_dworek_), farmhouses (_chata_), granaries, mills, barns and country inns (_karczma_) can still be found across most regions of Poland.
 
@@ -663,7 +661,7 @@ Most medieval records in Latin and the Old Polish language contain the oldest ex
 
 The tradition of extending Polish historiography in Latin was subsequently inherited by Vincent Kadłubek, Bishop of Kraków in the 13th century, and Jan Długosz in the 15th century.[267] This practice, however, was abandoned by Jan Kochanowski, who became one of the first Polish Renaissance authors to write most of his works in Polish, along with Mikołaj Rej.[268] Poland also hosted a large number of famed poets and writers from abroad like Filippo "Kallimach" Buonaccorsi, Conrad Celtes and Laurentius Corvinus. A Polish writer who utilized Latin as his principal tool of expression was Klemens "Ianicius" Janicki, one of the most renowned Latin poets of his time, who was laureled by the Pope. Other writers of the Polish Renaissance include Johannes Dantiscus, Andreus Fricius Modrevius, Matthias Sarbievius and Piotr Skarga. Throughout this period Poland also experienced the early stages of Protestant Reformation. The main figure of Polish Reformation was John Laski, who, with the permission of King Edward VI of England, created the European Protestant Congregation of London in 1550.[269]
 
-Banquet_in_Nero's_palace_-_Ulpiano_Checa_y_Sanz.jpg'', a historical novel written by Nobel Prize laureate Henryk Sienkiewicz.]]
+'', a historical novel written by Nobel Prize laureate Henryk Sienkiewicz.]]
 
 During the Polish Baroque era, the Jesuits greatly influenced Polish literature and literary techniques, often relying on God and religious matters.[270] The leading baroque poet was Jan Andrzej Morsztyn, who incorporated Marinism into his publications. Jan Chryzostom Pasek, also a respected baroque writer, is mostly remembered for his tales and memoirs reflecting sarmatian culture in the Polish-Lithuanian Commonwealth.[271] Subsequently, the Polish Enlightenment was dominated by Samuel Linde, Hugo Kołłątaj, Izabela Czartoryska, Julian Ursyn Niemcewicz and two Polish monarchs, Stanisław I and Stanisław II Augustus. In 1776, Ignacy Krasicki composed the first proper novel entitled The Adventures of Mr. Nicholas Wisdom, which was a milestone for Polish literature.[272]
 
@@ -675,7 +673,7 @@ In the 20th century, five Polish novelists and poets were awarded the Nobel Priz
 
 Cinema
 
-Andrzej_Wajda_1974.jpg was one of the greatest Polish film directors, and the recipient of a Honorary Oscar, the Palme d'Or, as well as Honorary Golden Lion and Golden Bear Awards.]]
+was one of the greatest Polish film directors, and the recipient of a Honorary Oscar, the Palme d'Or, as well as Honorary Golden Lion and Golden Bear Awards.]]
 
 The history of Polish cinema is as long as history of cinematography itself. Over decades, Poland has produced outstanding directors, film producers, cartoonists and actors that achieved world fame, especially in Hollywood. Moreover, Polish inventors played an important role in the development of world cinematography and modern-day television. Among the most famous directors and producers, who worked in Poland as well as abroad are Roman Polański, Andrzej Wajda, Samuel Goldwyn, the Warner brothers (Harry, Albert, Sam, and Jack), Max Fleischer, Lee Strasberg, Agnieszka Holland and Krzysztof Kieślowski.
 
@@ -687,13 +685,13 @@ In 2015, _Ida_ by Paweł Pawlikowski won the Academy Award for Best Foreign Lang
 
 Media
 
-Siedziba_Telewizji_Polskiej_w_Warszawie_2017.jpg in Warsaw.]]
+in Warsaw.]]
 
 Poland has a number of major media outlets, chief among which are the national television channels. TVP is Poland's public broadcasting corporation; about a third of its income comes from a broadcast receiver licence, while the rest is made through revenue from commercials and sponsorships. State television operates two mainstream channels, TVP 1 and TVP 2, as well as regional programs for each of the country's 16 voivodeships (as TVP 3). In addition to these general channels, TVP runs a number of genre-specific programmes such as TVP Sport, TVP Historia, TVP Kultura, TVP Rozrywka, TVP Seriale and TVP Polonia, the latter is a state-run channel dedicated to the transmission of Polish language television for the Polish diaspora abroad.
 
 Poland has several 24-hour news channels: Polsat News, Polsat News 2, TVP Info, TVN 24 TVN 24 Biznes i Świat, TV Republika and WPolsce.pl.
 
-Podczas_zawodów_IEM_(8464360471).jpg, an eSports video game tournament in Katowice.]]
+, an eSports video game tournament in Katowice.]]
 
 In Poland, there are also daily newspapers like _Gazeta Wyborcza_ ("Electoral Gazette"), _Rzeczpospolita_ ("The Republic") and _Gazeta Polska Codziennie_ ("Polish Daily Newspaper") which provide traditional opinion and news, and tabloids such as _Fakt_ and _Super Express_. _Rzeczpospolita_, founded in 1920 is one of the oldest newspapers still in operation in the country. Weeklies include Tygodnik Angora, W Sieci, Polityka, Wprost, Newsweek Polska, Gość Niedzielny and Gazeta Polska.
 
@@ -701,11 +699,11 @@ Poland has also emerged as a major hub for video game developers in Europe, with
 
 Cuisine
 
-07425_Jahrmarkt_in_Sanok_am_17_Juli_2011.jpg, cabbage rolls, żurek, pierogi, oscypek and specialty breads.]]
+, cabbage rolls, żurek, pierogi, oscypek and specialty breads.]]
 
 Polish cuisine has evolved over the centuries to become highly eclectic due to Poland's history. Polish cuisine shares many similarities with other Central European cuisines, especially German and Austrian[292] as well as Jewish,[293] Russian,[294] French and Italian culinary traditions.[295] It is rich in meat, especially pork, chicken and beef (depending on the region) and winter vegetables (cabbage in the dish _bigos_), and spices.[296] It is also characteristic in its use of various kinds of noodles, the most notable of which are kluski, as well as cereals such as _kasha_ (from the Polish word kasza)[297] and a variety of breads like the world-renowned bagel. Polish cuisine is hearty and uses a lot of cream and eggs. Festive meals such as the meatless Christmas Eve dinner (_Wigilia_) or Easter breakfast could take days to prepare in their entirety.[298]
 
-Bagel_Bialy.JPGs, made from yeasted wheat dough, originated in Poland.]]
+s, made from yeasted wheat dough, originated in Poland.]]
 
 The main course usually includes a serving of meat, such as roast, chicken, or _kotlet schabowy_ (breaded pork cutlet), vegetables, side dishes and salads, including _surówka_ – shredded root vegetables with lemon and sugar (carrot, celeriac, seared beetroot) or sauerkraut (, ). The side dishes are usually potatoes, rice or _kasza_ (cereals). Meals conclude with a dessert such as _sernik_ (cheesecake), _makowiec_ (poppy seed pastry), or _napoleonka_ (cream pie), and tea.
 
@@ -715,13 +713,13 @@ Traditional alcoholic beverages include honey mead, widespread since the 13th ce
 
 Sports
 
-Stadion_Narodowy_w_Warszawie_20120422.jpg in Warsaw, home of national football team, and one of the host stadiums of Euro 2012.]]
+in Warsaw, home of national football team, and one of the host stadiums of Euro 2012.]]
 
 Volleyball and Association football are among the country's most popular sports, with a rich history of international competitions.[305][306] Track and field, basketball, handball, boxing, MMA, motorcycle speedway, ski jumping, cross-country skiing, ice hockey, tennis, fencing, swimming and weightlifting are other popular sports.
 
 The golden era of football in Poland occurred throughout the 1970s and went on until the early 1980s when the Polish national football team achieved their best results in any FIFA World Cup competitions finishing 3rd place in the 1974 and the 1982 tournaments. The team won a gold medal in football at the 1972 Summer Olympics and two silver medals, in 1976 and in 1992. Poland, along with Ukraine, hosted the UEFA European Football Championship in 2012.[307]
 
-Spotkanie_Mateusza_Morawieckiego_z_Mistrzami_Świata_w_Piłce_Siatkowej_Mężczyzn_2018.jpg is among the most popular sports in Poland, the country being an Olympic as well as three-time World Champion.]]
+is among the most popular sports in Poland, the country being an Olympic as well as three-time World Champion.]]
 
 As of 2018, the Polish men's national volleyball team is ranked as 4th in the world. Volleyball team won a gold medal in Olympic 1976 Montreal and three gold medals in FIVB World Championship 1974, 2014 and 2018.[308][309] Mariusz Pudzianowski is a highly successful strongman competitor and has won more World's Strongest Man titles than any other competitor in the world, winning the event in 2008 for the fifth time. The first Polish Formula One driver, Robert Kubica, has brought awareness of Formula One racing to Poland. He won the 2008 Canadian Grand Prix, took part in rallying and had a full time seat for the 2019 F1 season.
 
@@ -731,19 +729,19 @@ Poles made significant achievements in mountaineering, in particular, in the Him
 
 Fashion and design
 
-Galeria_Zielone_Wzgórze,_Reserved_salon_odzieżowy_w_Białymstoku.jpg is Poland's most successful clothing retailer, operating over 1,700 stores across the world.]]
+is Poland's most successful clothing retailer, operating over 1,700 stores across the world.]]
 
 Fashion was always an important aspect of Poland and its national identity. Although the Polish fashion industry is not as famed in comparison to the industries of France and Italy, it still contributed to global trends and clothing habits. Moreover, several Polish designers and stylists left a lifelong legacy of beauty inventions and cosmetics, which are still in use nowadays.
 
 Throughout history, the clothing styles in Poland often varied due to foreign influence, especially from the neighbouring countries and the Middle East. Poles absorbed some habits, which were present in the Middle East at the time. The high-class nobility and magnates wore attire that somewhat resembled oriental styles.[315] The outfits included a Żupan, Delia, Kontusz, and a type of sword called Karabela, brought by Armenian merchants. Wealthy Polish aristocrats also kept captive Tatars and Janissaries in their courts; this affected the national dress.[316] The extensive multiculuralism present in the Polish-Lithuanian Commonwealth developed the ideology of "Sarmatism".
 
-Helena_Rubinstein_by_Paul_César_Helleu_(1859-1927)_cropped.jpg by Paul César Helleu, c. 1908.]]
+by Paul César Helleu, c. 1908.]]
 
 The Polish national dress as well as the fashion and etiquette of Poland also reached the royal court at Versailles in the 18th century. Some French dresses inspired by Polish outfits were called _à la polonaise_, meaning "Polish-styled". The most famous example is the _robe à la polonaise_ or simply _Polonaise_, a woman's garment with draped and swagged overskirt, worn over an underskirt or petticoat.[317] Another notable example is the Witzchoura, a long mantle with collar and hood, which was possibly introduced by Napoleon's Polish mistress Maria Walewska.[318]
 
 Established in 1999, the retail store Reserved is Poland's most successful clothing store chain, operating over 1,700 retail shops in 19 countries.[319][320][321]
 
-Inglot_Cosmetics_Logo.jpg sells its products globally in over 740 boutique stores located in 80 countries.]]
+sells its products globally in over 740 boutique stores located in 80 countries.]]
 
 In the early 20th century, the underdeveloped fashion and cosmetics industry in Congress Poland was heavily dominated by western styles, mostly from the United Kingdom and the United States. This inspired Polish beautician Maksymilian Faktorowicz to seek employment abroad and create a line of cosmetics company called Max Factor in California. In 1920, Faktorowicz invented the conjoined word "make-up" based on the verb phrase "to make up" one's face, which is now used as an alternative for "cosmetics".[322] Faktorowicz also raised to fame by inventing modern eyelash extensions and providing services to Hollywood artists of the era.[323][324]
 

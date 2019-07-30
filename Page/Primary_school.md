@@ -1,4 +1,4 @@
-Head,_Shoulders,_Knees_and_Toes.jpg]] ZŠ_Višňové.JPG (Slovakia).]] Empty_classroom.jpg
+]] (Slovakia).]]
 
 A PRIMARY SCHOOL (or ELEMENTARY SCHOOL in American English and often in Canadian English) is a school for children from about five to eleven years old, in which they receive primary or elementary education. It can refer to both the physical structure (buildings) and the organisation. Typically it comes after preschool, and before secondary school.
 
@@ -11,11 +11,9 @@ During Greek and Roman times, boys were educated by their mothers until the age 
 
 The medieval church and education
 
-Jules-Alexis_Muenier_-_La_Leçon_de_catéchisme.jpg]] As the Roman influence waned the great cathedral schools were established to provide a source of choristers and clergy. Kings School, Canterbury dates from 597. The Council of Rome in 853 specified that each parish should provide elementary education: religious ritual but also reading and writing Latin.[7] The purpose of education was pass on salvation not social change. The church had a monopoly on education and the feudal lords concurred and allowed their sons to be educated at the few church schools. The economy was agrarian and the children of serfs started work as soon as they were able. It was a truth that man was created by God in the image of Adam with his share of original sin and a boy was born sinful. Only the teaching of the church and the sacraments could redeem him.[8] The parishes provide elementary education- but had no requirement to provide it to every child. The need was to produce priests, and in a stable kingdom such as that of Charlemagne, administrators with elementary writing skills in Latin and the arithmetic needed to collect taxes and administer them. Alcuin (735–804) developed teaching material that were based on the catechetical method- repeating and memorizing questions and answers, though often not understanding. These skills were also needed in the great abbeys such as Cluny. There was a divergence between the needs of town and monasteries and we see the development of parish, chantry, monastic and cathedral schools. With the entry of women into church life, convents were established and with them convent schools. Girls entered here at the age of eight and were taught Latin grammar, religious doctrine and music, and the womens arts of spinning, weaving, tapestry, painting and embroidery.[9] Bede entered the monastic school at Jarrow at the age of seven and became a writer and historian. Chantry schools were the result of a charitable donations and educated the poor. Parishes had to have a school from 804, and cathedrals had to establish schools after the Lateran Council of 1179. Elementary education was mainly to teach the Latin needed for the trivium and the quadrivium that formed the basis of the secondary curriculum.[10]
+]] As the Roman influence waned the great cathedral schools were established to provide a source of choristers and clergy. Kings School, Canterbury dates from 597. The Council of Rome in 853 specified that each parish should provide elementary education: religious ritual but also reading and writing Latin.[7] The purpose of education was pass on salvation not social change. The church had a monopoly on education and the feudal lords concurred and allowed their sons to be educated at the few church schools. The economy was agrarian and the children of serfs started work as soon as they were able. It was a truth that man was created by God in the image of Adam with his share of original sin and a boy was born sinful. Only the teaching of the church and the sacraments could redeem him.[8] The parishes provide elementary education- but had no requirement to provide it to every child. The need was to produce priests, and in a stable kingdom such as that of Charlemagne, administrators with elementary writing skills in Latin and the arithmetic needed to collect taxes and administer them. Alcuin (735–804) developed teaching material that were based on the catechetical method- repeating and memorizing questions and answers, though often not understanding. These skills were also needed in the great abbeys such as Cluny. There was a divergence between the needs of town and monasteries and we see the development of parish, chantry, monastic and cathedral schools. With the entry of women into church life, convents were established and with them convent schools. Girls entered here at the age of eight and were taught Latin grammar, religious doctrine and music, and the womens arts of spinning, weaving, tapestry, painting and embroidery.[9] Bede entered the monastic school at Jarrow at the age of seven and became a writer and historian. Chantry schools were the result of a charitable donations and educated the poor. Parishes had to have a school from 804, and cathedrals had to establish schools after the Lateran Council of 1179. Elementary education was mainly to teach the Latin needed for the trivium and the quadrivium that formed the basis of the secondary curriculum.[10]
 
 Renaissance
-
-Priscianus_della_Robbia_OPA_Florence.jpg
 
 While Humanism had a great change on the secondary curriculum, the primary curriculum was unaffected. [11] It was believed that by studying the works of the greats, ancients who had governed empires, one became fit to succeed in any field. Renaissance boys from the age of five learned Latin grammar using the same books as the Roman child. There were the grammars of Donatus and Priscian followed by _Caesar's Commentaries_ and then St Jerome's Latin Vulgate.[12]
 
@@ -26,8 +24,6 @@ Paupers and the poor
 Though the Grammar schools were set up to deliver elementary education, they did require their entrants to have certain skills. They expected their entrants to already be able to read and write in the vernacular. There was a need[13]
 
 Educational philosophies
-
-Het_Hoogeland_openluchtmuseum_in_Warffum,_oud_klaslokaal.jpg
 
 Certain movements in education had a relevance in all of Europe and its diverging colonies. The Americans were interested in the thoughts of Pestalozzi, Joseph Lancaster, Owen[14] and the Prussian schools.[15]
 
@@ -60,8 +56,6 @@ Within the English speaking world, there are three widely used systems to descri
   ISCED level          2       2        2       3          3           3             3 [18]
 
 Primary schools
-
-Orbe_-_Chantemerle_-_salle_de_classe_1.jpg
 
 In most parts of the world, primary education is the first stage of compulsory education, and is normally available without charge, but may also be offered by fee-paying independent schools. The term GRADE SCHOOL is sometimes used in the USA, although this term may refer to both primary education and secondary education.
 
@@ -99,8 +93,6 @@ According to standards used in the United Kingdom, a general classroom for 30 re
 
 
 Building design specifications
-
-First_school.jpg Orbe_-_Chantemerle_-_salle_des_maîtres.jpg ClassroomLibrary.jpg
 
 The building providing the education has to fulfil the needs of: The students, the teachers, the non-teaching support staff, the administrators and the community. It has to meet general government building guidelines, health requirements, minimal functional requirements for classrooms, toilets and showers, electricity and services, preparation and storage of textbooks and basic teaching aids.[32] An optimum school will meet the minimum conditions and will have:
 

@@ -1,4 +1,4 @@
-Vocal_folds-201611.jpg Vocal_folds-speaking_201611.jpg The term PHONATION has slightly different meanings depending on the subfield of phonetics. Among some phoneticians, _phonation_ is the process by which the vocal folds produce certain sounds through quasi-periodic vibration. This is the definition used among those who study laryngeal anatomy and physiology and speech production in general. Phoneticians in other subfields, such as linguistic phonetics, call this process _voicing_, and use the term _phonation_ to refer to any oscillatory state of any part of the larynx that modifies the airstream, of which voicing is just one example. Voiceless and supra-glottal phonations are included under this definition.
+The term PHONATION has slightly different meanings depending on the subfield of phonetics. Among some phoneticians, _phonation_ is the process by which the vocal folds produce certain sounds through quasi-periodic vibration. This is the definition used among those who study laryngeal anatomy and physiology and speech production in general. Phoneticians in other subfields, such as linguistic phonetics, call this process _voicing_, and use the term _phonation_ to refer to any oscillatory state of any part of the larynx that modifies the airstream, of which voicing is just one example. Voiceless and supra-glottal phonations are included under this definition.
 
 
 Voicing
@@ -26,7 +26,7 @@ This theory states that the frequency of the vocal fold vibration is determined 
 
 State of the glottis
 
-Glottis_positions.png In linguistic phonetic treatments of phonation, such as those of Peter Ladefoged, phonation was considered to be a matter of points on a continuum of tension and closure of the vocal cords. More intricate mechanisms were occasionally described, but they were difficult to investigate, and until recently the state of the glottis and phonation were considered to be nearly synonymous.[16]
+In linguistic phonetic treatments of phonation, such as those of Peter Ladefoged, phonation was considered to be a matter of points on a continuum of tension and closure of the vocal cords. More intricate mechanisms were occasionally described, but they were difficult to investigate, and until recently the state of the glottis and phonation were considered to be nearly synonymous.[16]
 
   Type            Definition
   --------------- -------------------------------------------------------------------------------------------------------------------------------------

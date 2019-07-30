@@ -25,7 +25,7 @@ $$f(v) ~\mathrm{d}^3v = \left(\frac{m}{2 \pi kT}\right)^{3/2}\,  e^{- \frac{m|v|
 
 where m is the particle mass and kT is the product of Boltzmann's constant and thermodynamic temperature.
 
-MaxwellBoltzmann-en.svges at a temperature of 298.15 K (25 °C). The _y_-axis is in s/m so that the area under any section of the curve (which represents the probability of the speed being in that range) is dimensionless.]] One can write the element of velocity space as d³v = dv_(x)dv_(y)dv_(z), for velocities in a standard Cartesian coordinate system, or as d³v = v²dvdΩ in a standard spherical coordinate system, where dΩ is an element of solid angle. Here f(v) is given as a probability distribution function, properly normalized so that ∫f(v)d³v over all velocities equals one. In plasma physics, the probability distribution is often multiplied by the particle density, so that the integral of the resulting distribution function equals the density.
+es at a temperature of 298.15 K (25 °C). The _y_-axis is in s/m so that the area under any section of the curve (which represents the probability of the speed being in that range) is dimensionless.]] One can write the element of velocity space as d³v = dv_(x)dv_(y)dv_(z), for velocities in a standard Cartesian coordinate system, or as d³v = v²dvdΩ in a standard spherical coordinate system, where dΩ is an element of solid angle. Here f(v) is given as a probability distribution function, properly normalized so that ∫f(v)d³v over all velocities equals one. In plasma physics, the probability distribution is often multiplied by the particle density, so that the integral of the resulting distribution function equals the density.
 
 Undergraduate students are likely to work with the Maxwellian distribution function for particles moving in only one direction. If this direction is x, then one has
 
@@ -54,7 +54,7 @@ With the Darwin–Fowler method of mean values the Maxwell–Boltzmann distribut
 
 Relaxation to the 2D Maxwell-Boltzmann distribution
 
-Simulation_of_gas_for_relaxation_demonstration.gif For particles confined to move in a plane, the speed distribution is given by
+For particles confined to move in a plane, the speed distribution is given by
 
 $P(s < |\vec{v}| < s + ds) = \frac{ms}{kT}\exp\bigg(-\frac{ms^2}{2kT}\bigg) ds$
 

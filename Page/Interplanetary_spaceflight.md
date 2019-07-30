@@ -1,11 +1,11 @@
-VenusFlybyCutaway.jpg Mdis_depart_anot.ogv, as it flies by Earth en route to Mercury]]
+, as it flies by Earth en route to Mercury]]
 
 INTERPLANETARY SPACEFLIGHT or INTERPLANETARY TRAVEL is travel between planets, usually within a single planetary system.[1] In practice, spaceflights of this type are confined to travel between the planets of the Solar System.
 
 
 Current achievements in interplanetary travel
 
-Pluto’s_Heart_-_Like_a_Cosmic_Lava_Lamp.jpg Remotely guided space probes have flown by all of the planets of the Solar System from Mercury to Neptune, with the New Horizons probe having flown by the dwarf planet Pluto and the Dawn spacecraft currently orbiting the dwarf planet Ceres. The most distant spacecrafts, Voyager 1 and Voyager 2 have left the Solar System as of while Pioneer 10, Pioneer 11, and New Horizons are on course to leave it.[2]
+Remotely guided space probes have flown by all of the planets of the Solar System from Mercury to Neptune, with the New Horizons probe having flown by the dwarf planet Pluto and the Dawn spacecraft currently orbiting the dwarf planet Ceres. The most distant spacecrafts, Voyager 1 and Voyager 2 have left the Solar System as of while Pioneer 10, Pioneer 11, and New Horizons are on course to leave it.[2]
 
 In general, planetary orbiters and landers return much more detailed and comprehensive information than fly-by missions. Space probes have been placed into orbit around all the five planets known to the ancients: first Mars (Mariner 9, 1971), then Venus (Venera 9, 1975; but landings on Venus and atmospheric probes were performed even earlier), Jupiter (Galileo, 1995), Saturn (Cassini/Huygens, 2004), and most recently Mercury (MESSENGER, March 2011), and have returned data about these bodies and their natural satellites.
 
@@ -18,7 +18,7 @@ No manned missions have been sent to any planet of the Solar System. NASA's Apol
 
 Reasons for interplanetary travel
 
-Spacecolony3.jpeg The costs and risk of interplanetary travel receive a lot of publicity — spectacular examples include the malfunctions or complete failures of unmanned probes such as Mars 96, Deep Space 2 and Beagle 2 (the article List of Solar System probes gives a full list).
+The costs and risk of interplanetary travel receive a lot of publicity — spectacular examples include the malfunctions or complete failures of unmanned probes such as Mars 96, Deep Space 2 and Beagle 2 (the article List of Solar System probes gives a full list).
 
 Many astronomers, geologists and biologists believe that exploration of the Solar System provides knowledge that could not be gained by observations from Earth's surface or from orbit around Earth. But they disagree about whether manned missions make a useful scientific contribution — some think robotic probes are cheaper and safer, while others argue that either astronauts advised by Earth-based scientists, or spacefaring scientists advised by Earth-based scientists, can respond more flexibly and intelligently to new or unexpected features of the region they are exploring.[3]
 
@@ -45,13 +45,13 @@ As an example of the velocity changes involved, a spacecraft travelling from low
 
 Hohmann transfers
 
-Hohmann_transfer_orbit2.svg For many years economical interplanetary travel meant using the Hohmann transfer orbit. Hohmann demonstrated that the lowest energy route between any two orbits is an elliptical "orbit" which forms a tangent to the starting and destination orbits. Once the spacecraft arrives, a second application of thrust will re-circularize the orbit at the new location. In the case of planetary transfers this means directing the spacecraft, originally in an orbit almost identical to Earth's, so that the aphelion of the transfer orbit is on the far side of the Sun near the orbit of the other planet. A spacecraft traveling from Earth to Mars via this method will arrive near Mars orbit in approximately 8.5 months, but because the orbital velocity is greater when closer to the center of mass (i.e. the Sun) and slower when farther from the center, the spacecraft will be traveling quite slowly and a small application of thrust is all that is needed to put it into a circular orbit around Mars. If the manoeuver is timed properly, Mars will be "arriving" under the spacecraft when this happens.
+For many years economical interplanetary travel meant using the Hohmann transfer orbit. Hohmann demonstrated that the lowest energy route between any two orbits is an elliptical "orbit" which forms a tangent to the starting and destination orbits. Once the spacecraft arrives, a second application of thrust will re-circularize the orbit at the new location. In the case of planetary transfers this means directing the spacecraft, originally in an orbit almost identical to Earth's, so that the aphelion of the transfer orbit is on the far side of the Sun near the orbit of the other planet. A spacecraft traveling from Earth to Mars via this method will arrive near Mars orbit in approximately 8.5 months, but because the orbital velocity is greater when closer to the center of mass (i.e. the Sun) and slower when farther from the center, the spacecraft will be traveling quite slowly and a small application of thrust is all that is needed to put it into a circular orbit around Mars. If the manoeuver is timed properly, Mars will be "arriving" under the spacecraft when this happens.
 
 The Hohmann transfer applies to any two orbits, not just those with planets involved. For instance it is the most common way to transfer satellites into geostationary orbit, after first being "parked" in low Earth orbit. However, the Hohmann transfer takes an amount of time similar to ½ of the orbital period of the outer orbit, so in the case of the outer planets this is many years – too long to wait. It is also based on the assumption that the points at both ends are massless, as in the case when transferring between two orbits around Earth for instance. With a planet at the destination end of the transfer, calculations become considerably more difficult.
 
 Gravitational slingshot
 
-Gravitational_slingshot.svg Voyager_2_velocity_vs_distance_from_sun.svg, Voyager 2 passed over Neptune's north pole resulting in an acceleration out of the plane of the ecliptic and reduced velocity away from the Sun.[7]]] The gravitational slingshot technique uses the gravity of planets and moons to change the speed and direction of a spacecraft without using fuel. In typical example, a spacecraft is sent to a distant planet on a path that is much faster than what the Hohmann transfer would call for. This would typically mean that it would arrive at the planet's orbit and continue past it. However, if there is a planet between the departure point and the target, it can be used to bend the path toward the target, and in many cases the overall travel time is greatly reduced. A prime example of this are the two crafts of the Voyager program, which used slingshot effects to change trajectories several times in the outer Solar System. It is difficult to use this method for journeys in the inner part of the Solar System, although it is possible to use other nearby planets such as Venus or even the Moon as slingshots in journeys to the outer planets.
+, Voyager 2 passed over Neptune's north pole resulting in an acceleration out of the plane of the ecliptic and reduced velocity away from the Sun.[7]]] The gravitational slingshot technique uses the gravity of planets and moons to change the speed and direction of a spacecraft without using fuel. In typical example, a spacecraft is sent to a distant planet on a path that is much faster than what the Hohmann transfer would call for. This would typically mean that it would arrive at the planet's orbit and continue past it. However, if there is a planet between the departure point and the target, it can be used to bend the path toward the target, and in many cases the overall travel time is greatly reduced. A prime example of this are the two crafts of the Voyager program, which used slingshot effects to change trajectories several times in the outer Solar System. It is difficult to use this method for journeys in the inner part of the Solar System, although it is possible to use other nearby planets such as Venus or even the Moon as slingshots in journeys to the outer planets.
 
 This maneuver can only change an object's velocity relative to a third, uninvolved object, – possibly the “centre of mass” or the Sun. There is no change in the velocities of the two objects involved in the maneuver relative to each other. The Sun cannot be used in a gravitational slingshot because it is stationary compared to rest of the Solar System, which orbits the Sun. It may be used to send a spaceship or probe into the galaxy because the Sun revolves around the center of the Milky Way.
 
@@ -65,7 +65,7 @@ Computers did not exist when Hohmann transfer orbits were first proposed (1925) 
 
 Aerobraking
 
-Apollo_cm.jpg to aerobrake by skimming the atmosphere (artistic rendition)]] Aerobraking uses the atmosphere of the target planet to slow down. It was first used on the Apollo program where the returning spacecraft did not enter Earth orbit but instead used a S-shaped vertical descent profile (starting with an initially steep descent, followed by a leveling out, followed by a slight climb, followed by a return to a positive rate of descent continuing to splash-down in the ocean) through Earth's atmosphere to reduce its speed until the parachute system could be deployed enabling a safe landing. Aerobraking does not require a thick atmosphere – for example most Mars landers use the technique, and Mars' atmosphere is only about 1% as thick as Earth's.
+to aerobrake by skimming the atmosphere (artistic rendition)]] Aerobraking uses the atmosphere of the target planet to slow down. It was first used on the Apollo program where the returning spacecraft did not enter Earth orbit but instead used a S-shaped vertical descent profile (starting with an initially steep descent, followed by a leveling out, followed by a slight climb, followed by a return to a positive rate of descent continuing to splash-down in the ocean) through Earth's atmosphere to reduce its speed until the parachute system could be deployed enabling a safe landing. Aerobraking does not require a thick atmosphere – for example most Mars landers use the technique, and Mars' atmosphere is only about 1% as thick as Earth's.
 
 Aerobraking converts the spacecraft's kinetic energy into heat, so it requires a heatshield to prevent the craft from burning up. As a result, aerobraking is only helpful in cases where the fuel needed to transport the heatshield to the planet is less than the fuel that would be required to brake an unshielded craft by firing its engines. This can be addressed by creating heatshields from material available near the target[10]
 
@@ -86,7 +86,7 @@ All rocket concepts are limited by the rocket equation, which sets the character
 
 Nuclear thermal and solar thermal rockets
 
-Nuclear_thermal_rocket_en.png In a nuclear thermal rocket or solar thermal rocket a working fluid, usually hydrogen, is heated to a high temperature, and then expands through a rocket nozzle to create thrust. The energy replaces the chemical energy of the reactive chemicals in a traditional rocket engine. Due to the low molecular mass and hence high thermal velocity of hydrogen these engines are at least twice as fuel efficient as chemical engines, even after including the weight of the reactor.
+In a nuclear thermal rocket or solar thermal rocket a working fluid, usually hydrogen, is heated to a high temperature, and then expands through a rocket nozzle to create thrust. The energy replaces the chemical energy of the reactive chemicals in a traditional rocket engine. Due to the low molecular mass and hence high thermal velocity of hydrogen these engines are at least twice as fuel efficient as chemical engines, even after including the weight of the reactor.
 
 The US Atomic Energy Commission and NASA tested a few designs from 1959 to 1968. The NASA designs were conceived as replacements for the upper stages of the Saturn V launch vehicle, but the tests revealed reliability problems, mainly caused by the vibration and heating involved in running the engines at such high thrust levels. Political and environmental considerations make it unlikely such an engine will be used in the foreseeable future, since nuclear thermal rockets would be most useful at or near the Earth's surface and the consequences of a malfunction could be disastrous. Fission-based thermal rocket concepts produce lower exhaust velocities than the electric and plasma concepts described below, and are therefore less attractive solutions. For applications requiring high thrust-to-weight ratio, such as planetary escape, nuclear thermal is potentially more attractive.
 
@@ -114,7 +114,7 @@ See the spacecraft propulsion article for a discussion of a number of other tech
 
 Solar sails
 
-Solarsail_msfc.jpg Solar sails rely on the fact that light reflected from a surface exerts pressure on the surface. The radiation pressure is small and decreases by the square of the distance from the Sun, but unlike rockets, solar sails require no fuel. Although the thrust is small, it continues as long as the Sun shines and the sail is deployed.[16]
+Solar sails rely on the fact that light reflected from a surface exerts pressure on the surface. The radiation pressure is small and decreases by the square of the distance from the Sun, but unlike rockets, solar sails require no fuel. Although the thrust is small, it continues as long as the Sun shines and the sail is deployed.[16]
 
 The original concept relied only on radiation from the Sun – for example in Arthur C. Clarke's 1965 story "Sunjammer". More recent light sail designs propose to boost the thrust by aiming ground-based lasers or masers at the sail. Ground-based lasers or masers can also help a light-sail spacecraft to _decelerate_: the sail splits into an outer and inner section, the outer section is pushed forward and its shape is changed mechanically to focus reflected radiation on the inner portion, and the radiation focused on the inner section acts as a brake.
 
@@ -134,7 +134,7 @@ A terrestrial space elevator is beyond our current technology, although a lunar 
 
 Skyhook
 
-Mature_non-rotating_Skyhook.png A skyhook is a theoretical class of orbiting tether propulsion intended to lift payloads to high altitudes and speeds.[20][21][22][23][24] Proposals for skyhooks include designs that employ tethers spinning at hypersonic speed for catching high speed payloads or high altitude aircraft and placing them in orbit.[25] In addition, it has been suggested that the rotating skyhook is "not engineeringly feasible using presently available materials".[26][27][28][29][30]
+A skyhook is a theoretical class of orbiting tether propulsion intended to lift payloads to high altitudes and speeds.[20][21][22][23][24] Proposals for skyhooks include designs that employ tethers spinning at hypersonic speed for catching high speed payloads or high altitude aircraft and placing them in orbit.[25] In addition, it has been suggested that the rotating skyhook is "not engineeringly feasible using presently available materials".[26][27][28][29][30]
 
 Launch vehicle and spacecraft reusability
 
@@ -146,7 +146,7 @@ Staging propellants
 
 When launching interplanetary probes from the surface of Earth, carrying all energy needed for the long-duration mission, payload quantities are necessarily extremely limited, due to the basis mass limitations described theoretically by the rocket equation. One alternative to transport more mass on interplanetary trajectories is to use up nearly all of the upper stage propellant on launch, and then refill propellants in Earth orbit before firing the rocket to escape velocity for a heliocentric trajectory. These propellants could be stored on orbit at a propellant depot, or carried to orbit in a propellant tanker to be directly transferred to the interplanetary spacecraft. For returning mass to Earth, a related option is to mine raw materials from a solar system celestial object, refine, process, and store the reaction products (propellant) on the Solar System body until such time as a vehicle needs to be loaded for launch.
 
-ITS_Tanker_(cropped).jpg'' (top) transferring propellant to an _Interplanetary Spaceship_ (bottom) in Earth orbit.]]
+'' (top) transferring propellant to an _Interplanetary Spaceship_ (bottom) in Earth orbit.]]
 
 On-orbit tanker transfers
 
@@ -162,7 +162,7 @@ The SpaceX propellant plant will take advantage of the large supplies of carbon 
 
 Using non-terrestrial resources
 
-Mars_Ice_Home_concept.jpg Current space vehicles attempt to launch with all their fuel (propellants and energy supplies) on board that they will need for their entire journey, and current space structures are lifted from the Earth's surface. Non-terrestrial sources of energy and materials are mostly a lot further away, but most would not require lifting out of a strong gravity field and therefore should be much cheaper to use in space in the long term.
+Current space vehicles attempt to launch with all their fuel (propellants and energy supplies) on board that they will need for their entire journey, and current space structures are lifted from the Earth's surface. Non-terrestrial sources of energy and materials are mostly a lot further away, but most would not require lifting out of a strong gravity field and therefore should be much cheaper to use in space in the long term.
 
 The most important non-terrestrial resource is energy, because it can be used to transform non-terrestrial materials into useful forms (some of which may also produce energy). At least two fundamental non-terrestrial energy sources have been proposed: solar-powered energy generation (unhampered by clouds), either directly by solar cells or indirectly by focusing solar radiation on boilers which produce steam to drive generators; and electrodynamic tethers which generate electricity from the powerful magnetic fields of some planets (Jupiter has a very powerful magnetic field).
 
@@ -186,7 +186,7 @@ Even unprocessed rock may be useful as rocket propellant if mass drivers are emp
 
 Design requirements for manned interplanetary travel
 
-Nasa_mars_artificial_gravity_1989.jpg by spinning (1989)]] Deep_Space_Transport.jpg
+by spinning (1989)]]
 
 Life support
 

@@ -3,7 +3,7 @@ PUPPIS is a constellation in the southern sky. Puppis, the Poop Deck, was origin
 
 Features
 
-PuppisCC.jpg Argo Navis was sub-divided into three sections in 1752 by the French astronomer Nicolas Louis de Lacaille, including Argûs in puppi. Despite the division, Lacaille kept a single set of Bayer designations for the whole constellation Argo. Therefore, Carina has the α, β, and ε, Vela has γ and δ, Puppis has ζ, and so on.[1] In the 19th century, these three sections of Argo became established as separate constellations and were formally included in the list of 88 modern IAU constellations in 1930.[2]
+Argo Navis was sub-divided into three sections in 1752 by the French astronomer Nicolas Louis de Lacaille, including Argûs in puppi. Despite the division, Lacaille kept a single set of Bayer designations for the whole constellation Argo. Therefore, Carina has the α, β, and ε, Vela has γ and δ, Puppis has ζ, and so on.[1] In the 19th century, these three sections of Argo became established as separate constellations and were formally included in the list of 88 modern IAU constellations in 1930.[2]
 
 Named stars
 
@@ -18,7 +18,7 @@ Named stars
 | ξ           | Asmidiske | Greek  | gunwale |
 +-------------+-----------+--------+---------+
 
-A_cosmic_concoction_in_NGC_2467.jpg.]]
+.]]
 
 Planetary systems
 

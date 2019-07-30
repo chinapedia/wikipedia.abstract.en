@@ -1,4 +1,4 @@
-Flickr_-_Israel_Defense_Forces_-_The_Evacuation_of_Bedolach_(26).jpg Jews-pray-in-the-Western-Wall-1.jpg HaMaaravi), 2010.]] Channel_2_-_Jewish_prayer.webm of Israel's Channel 2]]
+HaMaaravi), 2010.]] of Israel's Channel 2]]
 
 JEWISH PRAYER (, ; plural ; , plural ; Yinglish: DAVENING from Yiddish 'pray') are the prayer recitations and Jewish meditation traditions that form part of the observance of Rabbinic Judaism. These prayers, often with instructions and commentary, are found in the _siddur_, the traditional Jewish prayer book. However, the term _tefillah_ as referenced in the Talmud refers specifically to the Shemoneh Esreh.
 
@@ -39,7 +39,7 @@ The Oral law, according to the Talmud Bavli (tractate Berachoth 26b) gives two r
 
 Jerusalem Talmud
 
-Israel_Meir_Poupko,_tefillin.jpg—the "Chofetz Chaim"—at prayer towards the end of his life.]] The Oral Torah, according to the Talmud yerushalmi (tractate Berachoth 4) states why there are three basic _tefillot_ ("prayers") and who instituted them:
+—the "Chofetz Chaim"—at prayer towards the end of his life.]] The Oral Torah, according to the Talmud yerushalmi (tractate Berachoth 4) states why there are three basic _tefillot_ ("prayers") and who instituted them:
 
 -   Rabbi Yehoshua said that the Anshei Knesset HaGedola ("The Men of the Great Assembly") learned and understood the beneficial concept of regular daily tefillot from the habit of the forefathers (_avoth_) Avraham, Isaac and Yaakov. Therefore, the Anshei Knesset HaGedola based their Takkanah that Jewish men were required to pray three times a day from hints to personal habits of the forefathers in the tanach.[18][19][20][21]
 
@@ -83,7 +83,7 @@ Reform Judaism has made greater alterations to the traditional service in accord
 
 Philosophy of prayer
 
-Soldiertefillinkotel.JPG at the Western Wall (Kotel) prior to prayer.]] In Jewish philosophy and in Rabbinic literature, it is noted that the Hebrew verb for prayer—_hitpallel_ התפלל—is in fact the reflexive form of _palal_ פלל, to judge. Thus, "to pray" conveys the notion of "judging oneself":[35] ultimately, the purpose of prayer—_tefilah_ תפלה—is to transform ourselves.[36][37]
+at the Western Wall (Kotel) prior to prayer.]] In Jewish philosophy and in Rabbinic literature, it is noted that the Hebrew verb for prayer—_hitpallel_ התפלל—is in fact the reflexive form of _palal_ פלל, to judge. Thus, "to pray" conveys the notion of "judging oneself":[35] ultimately, the purpose of prayer—_tefilah_ תפלה—is to transform ourselves.[36][37]
 
 This etymology is consistent with the Jewish conception of divine simplicity. It is not God that changes through our prayer—Man does not influence God as a defendant influences a human judge who has emotions and is subject to change—rather it is man himself who is changed.[38] It is further consistent with Maimonides' view on Divine Providence. Here, Tefillah is the medium which God gave to man by means of which he can change himself, and thereby establish a new _relationship_ with God—and thus a new destiny for himself in life;[39][40] see also under Psalms.
 
@@ -116,7 +116,7 @@ In Western Yiddish, the term for _pray_ is _oren_, a word with clear roots in Ro
 
 Minyan (quorum)
 
-Givati_at_Western_Wall.jpg' Givati Brigade pray the Evening Service (Ma'ariv) at the Western Wall, October 2010.]] Individual prayer is considered acceptable, but prayer with a quorum of ten Jewish adults—a _minyan_—is the most highly recommended form of prayer and is required for some prayers. An adult in this context means over the age of 12 or 13 (_bat_ or _bar mitzvah_). Judaism had originally counted only men in the _minyan_ for formal prayer, on the basis that one does not count someone who is not obligated to participate. The rabbis had exempted women from almost all time-specific positive mitzvot (commandments), including those parts of the prayer that cannot be recited without a quorum, due to women in the past being bound up in an endless cycle of pregnancy, birthing and nursing from a very early age. Orthodox Judaism still follows this reasoning and excludes women from the minyan. Since 1973, Conservative congregations have overwhelmingly become egalitarian and count women in the _minyan_. A very small number of congregations that identify themselves as Conservative have resisted these changes and continue to exclude women from the minyan. Those Reform and Reconstructionist congregations that consider a _minyan_ mandatory for communal prayer, count both men and women for a _minyan_. All denominations of Judaism except for Orthodox Judaism ordain female rabbis and cantors.[46][47] In Orthodox Judaism, according to some authorities, women can count in the _minyan_ for certain specific prayers, such as the _Birchot HaGomel_ blessing, which both men and women are obligated to say publicly.
+' Givati Brigade pray the Evening Service (Ma'ariv) at the Western Wall, October 2010.]] Individual prayer is considered acceptable, but prayer with a quorum of ten Jewish adults—a _minyan_—is the most highly recommended form of prayer and is required for some prayers. An adult in this context means over the age of 12 or 13 (_bat_ or _bar mitzvah_). Judaism had originally counted only men in the _minyan_ for formal prayer, on the basis that one does not count someone who is not obligated to participate. The rabbis had exempted women from almost all time-specific positive mitzvot (commandments), including those parts of the prayer that cannot be recited without a quorum, due to women in the past being bound up in an endless cycle of pregnancy, birthing and nursing from a very early age. Orthodox Judaism still follows this reasoning and excludes women from the minyan. Since 1973, Conservative congregations have overwhelmingly become egalitarian and count women in the _minyan_. A very small number of congregations that identify themselves as Conservative have resisted these changes and continue to exclude women from the minyan. Those Reform and Reconstructionist congregations that consider a _minyan_ mandatory for communal prayer, count both men and women for a _minyan_. All denominations of Judaism except for Orthodox Judaism ordain female rabbis and cantors.[46][47] In Orthodox Judaism, according to some authorities, women can count in the _minyan_ for certain specific prayers, such as the _Birchot HaGomel_ blessing, which both men and women are obligated to say publicly.
 
 Attire
 
@@ -125,7 +125,7 @@ Attire
 -   Mordechai Becher, _Gateway to Judaism: The What, How, And Why of Jewish Life_, Mesorah Publications, 2005, p. 328.
 -   Joyce Eisenberg, Ellen Scolnic, _Dictionary of Jewish Words_, Jewish Publication Society, 2006, p. 166.
 
-IDF_soldier_put_on_tefillin.jpg prays with tefillin.]]
+prays with tefillin.]]
 
 -   _Tefillin_ (phylacteries) are a set of small cubic leather boxes painted black, containing scrolls of parchment inscribed with verses from the Torah. They are tied to the head and arm with leather straps dyed black, and worn by Jews only, during weekday morning prayers. In Orthodox synagogues they are expected to be worn only by men; in Conservative synagogues they are also worn by some women. The Karaite Jews, however, do not don tefillin.
 -   _Tzeniut_ (modesty) applies to men and women. When attending Orthodox synagogues, women will likely be expected to wear long sleeves (past the elbows), long skirts (past the knees), a high neckline (to the collar bone), and if married, to cover their hair with a wig, scarf, hat or a combination of the above. For men, short pants or sleeveless shirts are generally regarded as inappropriate. In some Conservative and Reform synagogues the dress code may be more lax, but still respectful.
@@ -157,7 +157,7 @@ Sephardim and Italian Jews start the Mincha prayers with Psalm 84 and _Korbanot_
 
 _Ashrei_, containing verses from Psalms , and the entire , is recited, immediately followed by _Chatzi Kaddish_ (half-Kaddish) and the _Shemoneh Esreh_ (or Amidah). This is followed by _Tachanun_, supplications, and then the full Kaddish. Sephardim insert Psalm or , followed by the Mourner's Kaddish. After this follows, in most modern rites, the _Aleinu_. Ashkenazim then conclude with the Mourner's Kaddish. Service leaders often wear a tallit even on normal days, and must wear one during the fast days.
 
-JaffaMaariv.jpg Ma'ariv prayer in a Jaffa Tel Aviv flea-market shop]]
+Ma'ariv prayer in a Jaffa Tel Aviv flea-market shop]]
 
 Ma'ariv/Arvit (evening prayers)
 
@@ -243,7 +243,7 @@ Men are obligated to perform public prayer three times a day with additional ser
 
 According to the Talmud women are generally exempted from obligations that have to be performed at a certain time. Orthodox authorities have generally interpreted this exemption due to women's higher spiritual level and therefore a lack of need to connect to God at specific times, since they are always connected to God. In accordance with the general exemption from time-bound obligations, most Orthodox authorities have exempted women from performing evening prayers (Maariv), but most believe that women are obligated to pray Shacharit and Mincha, the morning and afternoon prayers, respectively, when possible. According to the Mishna, women are exempt from the morning and evening Shema.[56]
 
-JerusalemWailingWall.jpg Women_praying_in_the_Western_Wall_tunnels_by_David_Shankbone.jpg at the closest physical point to the Holy of Holies]]
+at the closest physical point to the Holy of Holies]]
 
 Orthodox authorities have been careful to note that although some women with small children have been exempted from praying at specific fixed times, they are not exempted from the obligation of prayer itself. The 19th-century posek Yechiel Michel Epstein, author of the _Arukh HaShulkhan_, notes: "Even though the rabbis set prayer at fixed times in fixed language, it was not their intention to issue a leniency and exempt women from this ritual act". Traditionally women were also reciting individual tkhine prayers in Yiddish.
 

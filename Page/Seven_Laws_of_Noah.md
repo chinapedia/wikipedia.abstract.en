@@ -1,4 +1,4 @@
-Rainbow123.JPG, recalling the Genesis flood narrative in which a rainbow appears to Noah after the Great Flood, indicating that God would not flood the planet and destroy all life again.]] The SEVEN LAWS OF NOAH ( _Sheva Mitzvot B'nei Noach_), also referred to as the NOAHIDE LAWS or the NOACHIDE LAWS (from the Hebrew pronunciation of "Noah"), are a set of imperatives which, according to the Talmud, were given by God[1] as a binding set of laws for the "children of Noah" – that is, all of humanity.[2][3]
+, recalling the Genesis flood narrative in which a rainbow appears to Noah after the Great Flood, indicating that God would not flood the planet and destroy all life again.]] The SEVEN LAWS OF NOAH ( _Sheva Mitzvot B'nei Noach_), also referred to as the NOAHIDE LAWS or the NOACHIDE LAWS (from the Hebrew pronunciation of "Noah"), are a set of imperatives which, according to the Talmud, were given by God[1] as a binding set of laws for the "children of Noah" – that is, all of humanity.[2][3]
 
 According to Jewish tradition, non-Jews who adhere to these laws because they were given by Moses[4] are said to be followers of Noahidism and regarded as righteous gentiles, who are assured of a place in _Olam Haba_ (, the world to come), the final reward of the righteous.[5][6]
 
@@ -94,7 +94,7 @@ Some later editions of the Mishneh Torah differ by one letter and read "Nor one 
 
 Christianity
 
-Saint_James_the_Just.jpg, whose judgment was adopted in the Apostolic Decree of Acts 15:20: "but we should write to them [Gentiles] to abstain only from things polluted by idols and from fornication and from whatever has been strangled and from blood." (NRSV)]]
+, whose judgment was adopted in the Apostolic Decree of Acts 15:20: "but we should write to them [Gentiles] to abstain only from things polluted by idols and from fornication and from whatever has been strangled and from blood." (NRSV)]]
 
 The Apostolic Decree recorded in Acts 15 is commonly seen as a parallel to Noahide Law;[57] however, some modern scholars dispute the connection between Acts 15 and Noahide Law,[58] the content of Noahide Law, the historical reliability of the Acts of the Apostles, and the nature of biblical law in Christianity. The Apostolic Decree is still observed by Eastern Orthodoxy and includes some food restrictions.[59]
 

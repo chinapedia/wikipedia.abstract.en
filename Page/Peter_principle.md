@@ -1,5 +1,3 @@
-Cover_of_The_Peter_Principle_by_Pan_Books.jpeg
-
 The PETER PRINCIPLE is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence". In other words, an employee is promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another. The concept was elucidated in the 1969 book _THE PETER PRINCIPLE_ by Peter and Raymond Hull.[1]
 
 _The Peter Principle_ was published by William Morrow and Company in 1969. Peter and Hull intended the book to be satire, but it became popular as it was seen to make a serious point about the shortcomings of how people are promoted within hierarchical organizations. Hull wrote the text, based on Peter's research.

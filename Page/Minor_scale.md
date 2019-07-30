@@ -95,7 +95,7 @@ Because of this, the key of A minor is called the _parallel minor_ of A major.
 
 Intervals
 
-A_minor_scale.pngThe intervals between the notes of a natural minor scale follow the sequence below:
+The intervals between the notes of a natural minor scale follow the sequence below:
 
     whole, half, whole, whole, half, whole, whole
 

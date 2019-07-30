@@ -1,5 +1,3 @@
-Madeirarivermap.png
-
 The MADEIRA RIVER (, ) is a major waterway in South America, approximately long.[1] The Madeira is the biggest tributary of the Amazon, accounting for about 15% of the water in the basin.[2] A map from Emanuel Bowen in 1747, held by the David Rumsey Map Collection, refers to the Madeira by the pre-colonial, indigenous name Cuyari:[3]
 
   The River of Cuyari, called by the Portuguese Madeira or the Wood River, is formed by two great rivers, which join near its mouth. It was by this River, that the Nation of Topinambes passed into the River Amazon.
@@ -11,8 +9,6 @@ The mean inter-annual precipitations on the great basins vary from , the entire 
 
 
 Course
-
-Rio_Madeira-_Cachoeira_do_Teotônio.jpg
 
 Between Guajará-Mirim and the falls of Teotônio, the Madeira receives the drainage of the north-eastern slopes of the Andes from Santa Cruz de la Sierra to Cuzco, the whole of the south-western slope of Brazilian Mato Grosso and the northern slope of the Chiquitos sierras. In total, the catchment area is ,[5] almost equal in area to France and Spain combined. The waters flow into the Madeira from many large rivers, the principal of which, (from east to west), are the Guaporé or Itenez, the Baures and Blanco, the Itonama or San Miguel, the Mamoré, Beni, and Mayutata or Madre de Dios, all of which are reinforced by numerous secondary but powerful affluents. The climate of the upper catchment area varies from humid in the western edge with the origin of the river's main stem by volume (Río Madre de Dios, Río Beni) to semi arid in the southernmost part with the andine headwaters of the main stem by length (Río Caine, Río Rocha, Río Grande, Mamoré).
 
@@ -34,7 +30,7 @@ Two large dams (see below) are under construction as part of the IIRSA regional 
 
 Ecology
 
-Confluence_of_the_Madeira_River_and_Aripuanã_River.jpg of the Madeira River (brown) and Aripuanã River (dark) near the town of Novo Aripuanã.]] As typical of Amazonian rivers with the primary headwaters in the Andes, the Madeira River is turbid because of high sediment levels and it is whitewater, but some of its tributaries are clearwater (e.g., Aripuanã and Ji-Paraná) or blackwater (e.g., Manicoré).[11]
+of the Madeira River (brown) and Aripuanã River (dark) near the town of Novo Aripuanã.]] As typical of Amazonian rivers with the primary headwaters in the Andes, the Madeira River is turbid because of high sediment levels and it is whitewater, but some of its tributaries are clearwater (e.g., Aripuanã and Ji-Paraná) or blackwater (e.g., Manicoré).[11]
 
 The Bolivian river dolphin, variously considered a subspecies of the Amazon river dolphin or a separate species, is restricted to the upper Madeira River system. It has been estimated that there are more than 900 fish species in the Madeira River Basin,[12] making it one of the freshwater systems in the world with the highest species richness.[13]
 

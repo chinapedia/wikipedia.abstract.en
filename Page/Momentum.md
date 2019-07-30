@@ -83,7 +83,7 @@ This law holds no matter how complicated the force is between particles. Similar
 
 Dependence on reference frame
 
-Relativity_an_apple_in_a_lift.svg Momentum is a measurable quantity, and the measurement depends on the motion of the observer. For example: if an apple is sitting in a glass elevator that is descending, an outside observer, looking into the elevator, sees the apple moving, so, to that observer, the apple has a non-zero momentum. To someone inside the elevator, the apple does not move, so, it has zero momentum. The two observers each have a frame of reference, in which, they observe motions, and, if the elevator is descending steadily, they will see behavior that is consistent with those same physical laws.
+Momentum is a measurable quantity, and the measurement depends on the motion of the observer. For example: if an apple is sitting in a glass elevator that is descending, an outside observer, looking into the elevator, sees the apple moving, so, to that observer, the apple has a non-zero momentum. To someone inside the elevator, the apple does not move, so, it has zero momentum. The two observers each have a frame of reference, in which, they observe motions, and, if the elevator is descending steadily, they will see behavior that is consistent with those same physical laws.
 
 Suppose a particle has position in a stationary frame of reference. From the point of view of another frame of reference, moving at a uniform speed , the position (represented by a primed coordinate) changes with time as
 
@@ -104,7 +104,7 @@ By itself, the law of conservation of momentum is not enough to determine the mo
 
 Elastic collisions
 
-Elastischer_stoß.gif Elastischer_stoß3.gif An elastic collision is one in which no kinetic energy is absorbed in the collision. Perfectly elastic "collisions" can occur when the objects do not touch each other, as for example in atomic or nuclear scattering where electric repulsion keeps them apart. A slingshot maneuver of a satellite around a planet can also be viewed as a perfectly elastic collision. A collision between two pool balls is a good example of an _almost_ totally elastic collision, due to their high rigidity, but when bodies come in contact there is always some dissipation.[11]
+An elastic collision is one in which no kinetic energy is absorbed in the collision. Perfectly elastic "collisions" can occur when the objects do not touch each other, as for example in atomic or nuclear scattering where electric repulsion keeps them apart. A slingshot maneuver of a satellite around a planet can also be viewed as a perfectly elastic collision. A collision between two pool balls is a good example of an _almost_ totally elastic collision, due to their high rigidity, but when bodies come in contact there is always some dissipation.[11]
 
 A head-on elastic collision between two bodies can be represented by velocities in one dimension, along a line passing through the bodies. If the velocities are and before the collision and and after, the equations expressing conservation of momentum and kinetic energy are:
 
@@ -125,7 +125,7 @@ If one body has much greater mass than the other, its velocity will be little af
 
 Inelastic collisions
 
-Inelastischer_stoß.gif In an inelastic collision, some of the kinetic energy of the colliding bodies is converted into other forms of energy (such as heat or sound). Examples include traffic collisions,[14] in which the effect of loss of kinetic energy can be seen in the damage to the vehicles; electrons losing some of their energy to atoms (as in the Franck–Hertz experiment);[15] and particle accelerators in which the kinetic energy is converted into mass in the form of new particles.
+In an inelastic collision, some of the kinetic energy of the colliding bodies is converted into other forms of energy (such as heat or sound). Examples include traffic collisions,[14] in which the effect of loss of kinetic energy can be seen in the damage to the vehicles; electrons losing some of their energy to atoms (as in the Franck–Hertz experiment);[15] and particle accelerators in which the kinetic energy is converted into mass in the form of new particles.
 
 In a perfectly inelastic collision (such as a bug hitting a windshield), both bodies have the same motion afterwards. If one body is motionless to begin with, the equation for conservation of momentum is
 
@@ -143,7 +143,7 @@ The momentum and energy equations also apply to the motions of objects that begi
 
 Multiple dimensions
 
-Elastischer_stoß_2D.gif Real motion has both direction and velocity and must be represented by a vector. In a coordinate system with axes, velocity has components in the -direction, in the -direction, in the -direction. The vector is represented by a boldface symbol:[18]
+Real motion has both direction and velocity and must be represented by a vector. In a coordinate system with axes, velocity has components in the -direction, in the -direction, in the -direction. The vector is represented by a boldface symbol:[18]
 
 V = (_v__(_x_),_v__(_y_),_v__(_z_)).
 Similarly, the momentum is a vector quantity and is represented by a boldface symbol:
@@ -378,7 +378,7 @@ In deformable bodies and fluids
 
 Conservation in a continuum
 
-Equation_motion_body.svg In fields such as fluid dynamics and solid mechanics, it is not feasible to follow the motion of individual atoms or molecules. Instead, the materials must be approximated by a continuum in which there is a particle or fluid parcel at each point that is assigned the average of the properties of atoms in a small region nearby. In particular, it has a density and velocity that depend on time and position . The momentum per unit volume is .[52]
+In fields such as fluid dynamics and solid mechanics, it is not feasible to follow the motion of individual atoms or molecules. Instead, the materials must be approximated by a continuum in which there is a particle or fluid parcel at each point that is assigned the average of the properties of atoms in a small region nearby. In particular, it has a density and velocity that depend on time and position . The momentum per unit volume is .[52]
 
 Consider a column of water in hydrostatic equilibrium. All the forces on the water are in balance and the water is motionless. On any given drop of water, two forces are balanced. The first is gravity, which acts directly on each atom and molecule inside. The gravitational force per unit volume is , where is the gravitational acceleration. The second force is the sum of all the forces exerted on its surface by the surrounding water. The force from below is greater than the force from above by just the amount needed to balance gravity. The normal force per unit area is the pressure . The average force per unit volume inside the droplet is the gradient of the pressure, so the force balance equation is[53]
 

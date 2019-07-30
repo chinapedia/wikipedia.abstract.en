@@ -125,7 +125,7 @@ _((Source:\ OHCHR\ Website))
 
 High Commissioners for Human Rights
 
-High_Commissioner_Pillay_Addresses_HRC_Special_Session_on_Syria.jpg (centre), High Commissioner for Human Rights from 2008 to 2014.]]
+(centre), High Commissioner for Human Rights from 2008 to 2014.]]
 
 +----+------------------------+--------------+-----------------------------------+------------------------------------------------------------------------------------------------------------------+
 | Nr | Name                   | Country      | Term                              | Notes                                                                                                            |

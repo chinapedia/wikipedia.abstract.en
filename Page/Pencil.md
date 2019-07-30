@@ -1,9 +1,4 @@
-Pencils_hb.jpg pencils]] Caran_d'Ache_Farbstifte.JPGs (Caran d'Ache)]] A typical modern-day pencil.
-1. Solid pigment core (typically graphite).
-2. Wood.
-3. Painted body.
-4. Ferrule.
-5. Eraser.
+pencils]] s (Caran d'Ache)]]
 
 A PENCIL is an implement for writing or drawing, constructed of a narrow, solid pigment core in a protective casing that prevents the core from being broken and/or marking the user's hand.
 
@@ -15,8 +10,6 @@ The most common pencil casing is thin wood, usually hexagonal in section but som
 
 
 History
-
-PENCILWI.JPG
 
 Camel's hair pencil
 
@@ -34,7 +27,7 @@ The usefulness of graphite for pencils was discovered as well, but graphite for 
 
 Wood holders added
 
-Palomino_Blackwing_602_pencils.jpg Around 1560,[20] an Italian couple named Simonio and Lyndiana Bernacotti made what are likely the first blueprints for the modern, wood-encased carpentry pencil. Their version was a flat, oval, more compact type of pencil. Their concept involved the hollowing out of a stick of juniper wood. Shortly thereafter, a superior technique was discovered: two wooden halves were carved, a graphite stick inserted, and the halves then glued together—essentially the same method in use to this day.[21]
+Around 1560,[20] an Italian couple named Simonio and Lyndiana Bernacotti made what are likely the first blueprints for the modern, wood-encased carpentry pencil. Their version was a flat, oval, more compact type of pencil. Their concept involved the hollowing out of a stick of juniper wood. Shortly thereafter, a superior technique was discovered: two wooden halves were carved, a graphite stick inserted, and the halves then glued together—essentially the same method in use to this day.[21]
 
 New pencils from graphite powder, and graphite and clay
 
@@ -46,7 +39,7 @@ In England, pencils continued to be made from whole sawn graphite. Henry Besseme
 
 The pencil in America
 
-Pencil,_perhaps_made_by_Henry_David_Thoreau_-_Concord_Museum_-_Concord,_MA_-_DSC05641.JPG Pencil_manufacture.svg American colonists imported pencils from Europe until after the American Revolution. Benjamin Franklin advertised pencils for sale in his _Pennsylvania Gazette_ in 1729, and George Washington used a three-inch pencil when he surveyed the Ohio Country in 1762.[29] It is said that William Munroe, a cabinetmaker in Concord, Massachusetts, made the first American wood pencils in 1812. This was not the only pencil-making occurring in Concord. According to Henry Petroski, transcendentalist philosopher Henry David Thoreau discovered how to make a good pencil out of inferior graphite using clay as the binder; this invention was prompted by his father's pencil factory in Concord, which employed graphite found in New Hampshire in 1821 by Charles Dunbar.[30]
+American colonists imported pencils from Europe until after the American Revolution. Benjamin Franklin advertised pencils for sale in his _Pennsylvania Gazette_ in 1729, and George Washington used a three-inch pencil when he surveyed the Ohio Country in 1762.[29] It is said that William Munroe, a cabinetmaker in Concord, Massachusetts, made the first American wood pencils in 1812. This was not the only pencil-making occurring in Concord. According to Henry Petroski, transcendentalist philosopher Henry David Thoreau discovered how to make a good pencil out of inferior graphite using clay as the binder; this invention was prompted by his father's pencil factory in Concord, which employed graphite found in New Hampshire in 1821 by Charles Dunbar.[30]
 
 Munroe's method of making pencils was painstakingly slow, and in the neighbouring town of Acton, a pencil mill owner named Ebenezer Wood set out to automate the process at his own pencil mill located at Nashoba Brook. He used the first circular saw in pencil production. He constructed the first of the hexagon- and octagon-shaped wooden casings. Ebenezer did not patent his invention and shared his techniques with anyone. One of those was Eberhard Faber of New York, who became the leader in pencil production.[31]
 
@@ -62,7 +55,7 @@ In Southeast Asia the wood Jelutong may be used to create pencils (though the us
 
 Eraser attached
 
-LipmanPencilEraserPatent.jpgOn 30 March 1858, Hymen Lipman received the first patent for attaching an eraser to the end of a pencil.[40] In 1862, Lipman sold his patent to Joseph Reckendorfer for $100,000, who went on to sue pencil manufacturer Faber-Castell for infringement.[41] In 1875, the Supreme Court of the US ruled against Reckendorfer declaring the patent invalid.[42]
+On 30 March 1858, Hymen Lipman received the first patent for attaching an eraser to the end of a pencil.[40] In 1862, Lipman sold his patent to Joseph Reckendorfer for $100,000, who went on to sue pencil manufacturer Faber-Castell for infringement.[41] In 1875, the Supreme Court of the US ruled against Reckendorfer declaring the patent invalid.[42]
 
 Pencil extenders
 
@@ -72,8 +65,6 @@ Historian Henry Petroski notes that while ever more efficient means of mass prod
 Types
 
 By marking material
-
-Colored-Pencils.jpg 3_promotional_pencils_(ubt).JPG
 
 Graphite pencils: These are the most common types of pencil, and are encased in wood. They are made of a mixture of clay and graphite and their darkness varies from light grey to black. Their composition allows for the smoothest strokes.
 Solid graphite pencils: These are solid sticks of graphite and clay composite (as found in a 'graphite pencil'), about the diameter of a common pencil, which have no casing other than a wrapper or label. They are often called "woodless" pencils. They are used primarily for art purposes as the lack of casing allows for covering larger spaces more easily, creating different effects, and providing greater economy as the entirety of the pencil is used. They are available in the same darkness range as wood-encased graphite pencils.
@@ -85,8 +76,6 @@ Grease pencils: They write on virtually any surface (including glass, plastic, m
 Watercolor pencils: These are designed for use with watercolour techniques. The pencils can be used by themselves for sharp, bold lines. Strokes made by the pencil can also be saturated with water and spread with brushes.[47]
 
 By use
-
-Speciality_artists_pencils_051907.jpg
 
 Carpenter's pencils: These are pencils that have two main properties: their shape prevents them from rolling, and their graphite is strong.{{cite web
 
@@ -102,8 +91,6 @@ Carpenter's pencils: These are pencils that have two main properties: their shap
 |df          = dmy-all
 
 }} The oldest surviving pencil is a German carpenter's pencil dating from the 17th Century and now in the Faber-Castell collection.[48][49]
-
-Censored_mail_Spain_Australia_1943.jpg
 
 Copying pencils (or indelible pencils): These are graphite pencils with an added dye that creates an indelible mark. They were invented in the late 19th century for press copying and as a practical substitute for fountain pens. Their markings are often visually indistinguishable from those of standard graphite pencils, but when moistened their markings dissolve into a coloured ink, which is then pressed into another piece of paper. They were widely used until the mid 20th century when ball pens slowly replaced them. In Italy their use is still mandated by law for voting paper ballots in elections and referenda.[50]
 
@@ -157,7 +144,7 @@ By manufacture
 
 Mechanical pencils:
 
-Mechanical_pencil_lead_spilling_out_051907.jpg Biegsame_Bleistifte_fcm.jpg There are also pencils which use mechanical methods to push lead through a hole at the end. These can be divided into two groups: propelling pencils use an internal mechanism to push the lead out from an internal compartment, while clutch pencils merely hold the lead in place (the lead is extended by releasing it and allowing some external force, usually gravity, to pull it out of the body). The erasers (sometimes replaced by a sharpener on pencils with larger lead sizes) are also removable (and thus replaceable), and usually cover a place to store replacement leads. Mechanical pencils are popular for their longevity and the fact that they may never need sharpening. Lead types are based on grade and size; with standard sizes being , , , , , , , , and (ISO 9175-1)—the size is available, but is not considered a standard ISO size.
+There are also pencils which use mechanical methods to push lead through a hole at the end. These can be divided into two groups: propelling pencils use an internal mechanism to push the lead out from an internal compartment, while clutch pencils merely hold the lead in place (the lead is extended by releasing it and allowing some external force, usually gravity, to pull it out of the body). The erasers (sometimes replaced by a sharpener on pencils with larger lead sizes) are also removable (and thus replaceable), and usually cover a place to store replacement leads. Mechanical pencils are popular for their longevity and the fact that they may never need sharpening. Lead types are based on grade and size; with standard sizes being , , , , , , , , and (ISO 9175-1)—the size is available, but is not considered a standard ISO size.
 
 Pop a Point Pencils:
 
@@ -186,8 +173,6 @@ The lead of the pencil is a mix of finely ground graphite and clay powders. Befo
 
 
 Grading and classification
-
-TwoHBpencils2_and2_5.jpg PencilGradingChart.png
 
 Graphite pencils are made of a mixture of clay and graphite and their darkness varies from light grey to black: the more clay the harder the pencil.[64][65][66] There is a wide range of grades available, mainly for artists who are interested in creating a full range of tones from light grey to black. Engineers prefer harder pencils which allow for a greater control in the shape of the lead.
 
@@ -258,8 +243,6 @@ Graded pencils can be used for a rapid test that provides relative ratings for a
 
 External colour and shape of pencils
 
-Number-2-pencil.jpg
-
 The majority of pencils made in the US are painted yellow.[81] According to Henry Petroski,[82] this tradition began in 1890 when the L. & C. Hardtmuth Company of Austria-Hungary introduced their Koh-I-Noor brand, named after the famous diamond. It was intended to be the world's best and most expensive pencil, and at a time when most pencils were either painted in dark colours or not at all, the Koh-I-Noor was yellow. As well as simply being distinctive, the colour may have been inspired by the Austro-Hungarian flag; it was also suggestive of the Orient at a time when the best-quality graphite came from Siberia. Other companies then copied the yellow colour so that their pencils would be associated with this high-quality brand, and chose brand names with explicit Oriental references, such as Mikado (renamed Mirado)[83][84] and Mongol.[85][86]
 
 Not all countries use yellow pencils. German and Brazilian pencils, for example, are often green, blue or black, based on the trademark colours of Faber-Castell, a major German stationery company which has plants in those countries. In southern European countries, pencils tend to be dark red or black with yellow lines, while in Australia, they are red with black bands at one end. In India, the most common pencil colour scheme was dark red with black lines, and pencils with a large number of colour schemes are produced by various companies.
@@ -279,7 +262,7 @@ Notable pencil users
 
 Manufacturers
 
-MEK_II-421.jpg from the Ministry of Construction of the GDR in the stock of the MEK]]
+from the Ministry of Construction of the GDR in the stock of the MEK]]
 
 The following table lists the prominent manufacturers of wood-cased (including wood-free) pencils around the world.
 

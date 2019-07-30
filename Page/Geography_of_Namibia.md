@@ -1,5 +1,3 @@
-LocationNamibia.svg NamibiaDetailFinal.jpg Namibia_Topography.png
-
 At ,[1] Namibia is the world's thirty-fourth largest country. After Mongolia, Namibia is the second least densely populated country in the world ().
 
 
@@ -44,7 +42,7 @@ File:SAC Namibia-cactus.jpg|Fish River Canyon. File:SAC Namibia-desert-1.jpg|Nam
 
 Weather and climate
 
-Namibia_map_of_Köppen_climate_classification.svgNamibia has more than 300 days of sunshine per year. It is situated at the southern edge of the tropics; the Tropic of Capricorn cuts the country about in half. The winter (June–August) is generally dry, both rainy seasons occur in summer, the small rainy season between September and November, the big one between February and April.[12] Humidity is low, and average rainfall varies from almost zero in the coastal desert to more than 600 mm in the Caprivi Strip. Rainfall is however highly variable, and droughts are common.[13] The bad rainy season occurred in summer 2006/07.[14] Due to the dry winters snowfall has a very rare occurrence and prompts media coverage whenever it happens. The snow was reported at Spreetshoogte Pass in the Namib-Naukluft Park in June 2011.[15]
+Namibia has more than 300 days of sunshine per year. It is situated at the southern edge of the tropics; the Tropic of Capricorn cuts the country about in half. The winter (June–August) is generally dry, both rainy seasons occur in summer, the small rainy season between September and November, the big one between February and April.[12] Humidity is low, and average rainfall varies from almost zero in the coastal desert to more than 600 mm in the Caprivi Strip. Rainfall is however highly variable, and droughts are common.[13] The bad rainy season occurred in summer 2006/07.[14] Due to the dry winters snowfall has a very rare occurrence and prompts media coverage whenever it happens. The snow was reported at Spreetshoogte Pass in the Namib-Naukluft Park in June 2011.[15]
 
 Weather and climate in the coastal area are dominated by the cold, north-flowing Benguela Current of the Atlantic Ocean which accounts for very low precipitation (50 mm per year or less), frequent dense fog, and overall lower temperatures than in the rest of the country.[16] In winter, occasionally a condition known as _Berg wind_ or _Oosweer_ (Afrikaans: East weather) occurs, a hot dry wind blowing from the inland to the coast. As the area behind the coast is a desert, these winds can develop into sand storms with sand deposits in the Atlantic Ocean visible on satellite images.[17]
 
@@ -61,7 +59,7 @@ _Efundja_, the annual flooding of the northern parts of the country, often cause
 
 Urbanization
 
-Sandstorm_while_driving_from_Swakopmund_to_Walfish_Bay,_2005.jpg and Walvis Bay, Namibia.]] The capital and largest city, Windhoek, is in the centre of the country. It is home to the country's Central Administrative Region, Windhoek Hosea Kutako International Airport and the country's railhead. Other important towns are:
+and Walvis Bay, Namibia.]] The capital and largest city, Windhoek, is in the centre of the country. It is home to the country's Central Administrative Region, Windhoek Hosea Kutako International Airport and the country's railhead. Other important towns are:
 
 -   Arandis, uranium mine
 -   Walvis Bay, sea port, international airport, railhead

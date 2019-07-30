@@ -18,7 +18,7 @@ Mathematician Demetrios Christodoulou, a winner of the Shaw Prize, has shown tha
 
 Metrics
 
-Naked.Singularity,Overextremal.Kerr.Newman,Raytracing.png image of a hypothetical naked singularity in front of a Milky Way background. The parameters of the singularity are M=1, a²+Q²=2M². The singularity is viewed from its equatorial plane at θ=90° (edge on).]] Black.Hole,Extremal.Kerr.Newman,Raytracing.png Disappearing event horizons exist in the Kerr metric, which is a spinning black hole in a vacuum. Specifically, if the angular momentum is high enough, the event horizons could disappear. Transforming the Kerr metric to Boyer–Lindquist coordinates, it can be shown[5] that the r coordinate (which is not the radius) of the event horizon is
+image of a hypothetical naked singularity in front of a Milky Way background. The parameters of the singularity are M=1, a²+Q²=2M². The singularity is viewed from its equatorial plane at θ=90° (edge on).]] Disappearing event horizons exist in the Kerr metric, which is a spinning black hole in a vacuum. Specifically, if the angular momentum is high enough, the event horizons could disappear. Transforming the Kerr metric to Boyer–Lindquist coordinates, it can be shown[5] that the r coordinate (which is not the radius) of the event horizon is
 
 r_(±) = μ ± (μ² − a²)^(1/2),
 

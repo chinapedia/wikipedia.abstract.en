@@ -37,7 +37,7 @@ Afterward, the band members once again went their own ways. Ballew continued to 
 
 Full reformation and new guitbassist (2003–2010)
 
-Moore_Theatre_100_Years_-_Andrew_McKeag_04B.jpg Jason_Finn_and_Dave_Dederer.jpg In 2003, the band once again reformed. In August 2004, the band released _Love Everybody_ on their newly formed indie label PUSA Inc. As with their previous albums, it received praise from many critics. Two singles from the album have been released through the Apple iTunes Store. In late 2004, the rights to the debut album were returned to the band, who have since reissued the album through PUSA Inc. twice: once as a tenth-anniversary edition with extra tracks, and again in the spring of 2006 in a low-price edition.
+In 2003, the band once again reformed. In August 2004, the band released _Love Everybody_ on their newly formed indie label PUSA Inc. As with their previous albums, it received praise from many critics. Two singles from the album have been released through the Apple iTunes Store. In late 2004, the rights to the debut album were returned to the band, who have since reissued the album through PUSA Inc. twice: once as a tenth-anniversary edition with extra tracks, and again in the spring of 2006 in a low-price edition.
 
 Andrew McKeag, Seattle guitarist (formerly of Uncle Joe's Big Ol' Driver, Shuggie, The Black Panties and others), joined the band on guitbass in late 2004, as an occasional live-performance stand-in for Dave Dederer, who had expressed an interest in spending more time with his family. Since late 2007, McKeag started touring full-time with the band, and later replaced Dederer. Dederer has played live with the band in concerts in Seattle on occasion.
 
@@ -84,8 +84,6 @@ Guitars modified in this way use heavy-gauge strings for a heavier sound and are
 
 
 Band members
-
-Chris_Ballew_2.jpg Dave_Dederer.jpg
 
 -   Chris Ballew – lead vocals, bass (1993–2016)
 -   Dave Dederer – guitar, backing vocals (1993–2005)

@@ -11,8 +11,6 @@ History and development
 
 Origin
 
-Mosaic_Netscape_0.9_on_Windows_XP.png
-
 Netscape Navigator was inspired by the success of the Mosaic web browser, which was co-written by Marc Andreessen, a part-time employee of the National Center for Supercomputing Applications at the University of Illinois. After Andreessen graduated in 1993, he moved to California and there met Jim Clark, the recently departed founder of Silicon Graphics. Clark believed that the Mosaic browser had great commercial possibilities and provided the seed money. Soon Mosaic Communications Corporation was in business in Mountain View, California, with Andreessen as a vice-president. Since the University of Illinois was unhappy with the company's use of the Mosaic name, the company changed its name to Netscape Communications (suggested by product manager Greg Sands [5]) and named its flagship web browser Netscape Navigator.
 
 Netscape announced in its first press release (13 October 1994) that it would make Navigator available without charge to all non-commercial users, and beta versions of version 1.0 and 1.1 were indeed freely downloadable in November 1994 and March 1995, with the full version 1.0 available in December 1994. Netscape's initial corporate policy regarding Navigator claimed that it would make Navigator freely available for non-commercial use in accordance with the notion that Internet software should be distributed for free.[6]
@@ -40,8 +38,6 @@ In the marketplace, however, these concerns made little difference. Netscape Nav
 Industry observers forecast the dawn of a new era of connected computing. The underlying operating system, it was believed, would not be an important consideration; future applications would run within a web browser. This was seen by Netscape as a clear opportunity to entrench Navigator at the heart of the next generation of computing, and thus gain the opportunity to expand into all manner of other software and service markets.
 
 Decline
-
-Netscape-navigator-usage-data.svg
 
 With the success of Netscape showing the importance of the web (more people were using the Internet due in part to the ease of using Netscape), Internet browsing began to be seen as a potentially profitable market. Following Netscape's lead, Microsoft started a campaign to enter the web browser software market. Like Netscape before them, Microsoft licensed the Mosaic source code from Spyglass, Inc. (which in turn licensed code from University of Illinois). Using this basic code, Microsoft created Internet Explorer (IE).
 

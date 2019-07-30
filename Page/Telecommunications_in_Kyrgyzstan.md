@@ -17,7 +17,7 @@ In the early 2000s, Kyrgyzstan used international investment support to restruct
 
 Internet
 
-E7872-Bishkek-Shmel.jpgs in Bishkek]]
+s in Bishkek]]
 
 In the early 2000s, Internet use has expanded rapidly. Between 1999 and 2005, the number of Internet subscribers increased from 3,000 to 263,000. In 2004 some 12,300 Internet hosts were in operation.[3] The country code top level domain is .kg.
 

@@ -14,7 +14,7 @@ Despite the fact that photolithography of electronic components concerns etching
 
 Basic procedure
 
-Photolithography_etching_process.svg A single iteration of photolithography combines several steps in sequence. Modern cleanrooms use automated, robotic wafer track systems to coordinate the process. The procedure described here omits some advanced treatments, such as thinning agents or edge-bead removal.[11]
+A single iteration of photolithography combines several steps in sequence. Modern cleanrooms use automated, robotic wafer track systems to coordinate the process. The procedure described here omits some advanced treatments, such as thinning agents or edge-bead removal.[11]
 
 Cleaning
 
@@ -55,7 +55,7 @@ After a photoresist is no longer needed, it must be removed from the substrate. 
 
 Exposure ("printing") systems
 
-Wafertraksystem.jpg Exposure systems typically produce an image on the wafer using a photomask. The photomask blocks light in some areas and lets it pass in others. (Maskless lithography projects a precise beam directly onto the wafer without using a mask, but it is not widely used in commercial processes.) Exposure systems may be classified by the optics that transfer the image from the mask to the wafer.
+Exposure systems typically produce an image on the wafer using a photomask. The photomask blocks light in some areas and lets it pass in others. (Maskless lithography projects a precise beam directly onto the wafer without using a mask, but it is not widely used in commercial processes.) Exposure systems may be classified by the optics that transfer the image from the mask to the wafer.
 
 Photolithography produces better thin film transistor structures than printed electronics, due to smoother printed layers, less wavy patterns, and more accurate drain-source electrode registration.[16]
 
@@ -79,7 +79,7 @@ The image for the mask originates from a computerized data file. This data file 
 
 Resolution in projection systems
 
-Yellow_fluorescent_light_spectrum.png in photolithography cleanrooms contains no ultraviolet or blue light in order to avoid exposing photoresists. The spectrum of light emitted by such fixtures gives virtually all such spaces a bright yellow color.]] The ability to project a clear image of a small feature onto the wafer is limited by the wavelength of the light that is used, and the ability of the reduction lens system to capture enough diffraction orders from the illuminated mask. Current state-of-the-art photolithography tools use deep ultraviolet (DUV) light from excimer lasers with wavelengths of 248 and 193 nm (the dominant lithography technology today is thus also called "excimer laser lithography"), which allow minimum feature sizes down to 50 nm. Excimer laser lithography has thus played a critical role in the continued advance of the so-called Moore’s Law for the last 20 years (see below[17]).
+in photolithography cleanrooms contains no ultraviolet or blue light in order to avoid exposing photoresists. The spectrum of light emitted by such fixtures gives virtually all such spaces a bright yellow color.]] The ability to project a clear image of a small feature onto the wafer is limited by the wavelength of the light that is used, and the ability of the reduction lens system to capture enough diffraction orders from the illuminated mask. Current state-of-the-art photolithography tools use deep ultraviolet (DUV) light from excimer lasers with wavelengths of 248 and 193 nm (the dominant lithography technology today is thus also called "excimer laser lithography"), which allow minimum feature sizes down to 50 nm. Excimer laser lithography has thus played a critical role in the continued advance of the so-called Moore’s Law for the last 20 years (see below[17]).
 
 The minimum feature size that a projection system can print is given approximately by:
 
@@ -103,20 +103,18 @@ Here,  k₂ is another process-related coefficient. The depth of focus restric
 
 Stochastic effects
 
-EUV_stochastic_aerial_image.png As light consists of photons, at low doses the image quality ultimately depends on the photon number. This affects the use of extreme ultraviolet lithography or EUVL, which is limited to the use of low doses on the order of 20 photons/nm².[18] This is due to fewer photons for the same energy dose for a shorter wavelength (higher energy per photon).
+As light consists of photons, at low doses the image quality ultimately depends on the photon number. This affects the use of extreme ultraviolet lithography or EUVL, which is limited to the use of low doses on the order of 20 photons/nm².[18] This is due to fewer photons for the same energy dose for a shorter wavelength (higher energy per photon).
 
 
 Light sources
 
-Lithography_Wavelength_vs_Resolution.PNG Historically, photolithography has used ultraviolet light from gas-discharge lamps using mercury, sometimes in combination with noble gases such as xenon. These lamps produce light across a broad spectrum with several strong peaks in the ultraviolet range. This spectrum is filtered to select a single spectral line. From the early 1960s through the mid-1980s, Hg lamps had been used in lithography for their spectral lines at 436 nm ("g-line"), 405 nm ("h-line") and 365 nm ("i-line"). However, with the semiconductor industry’s need for both higher resolution (to produce denser and faster chips) and higher throughput (for lower costs), the lamp-based lithography tools were no longer able to meet the industry’s high-end requirements.
+Historically, photolithography has used ultraviolet light from gas-discharge lamps using mercury, sometimes in combination with noble gases such as xenon. These lamps produce light across a broad spectrum with several strong peaks in the ultraviolet range. This spectrum is filtered to select a single spectral line. From the early 1960s through the mid-1980s, Hg lamps had been used in lithography for their spectral lines at 436 nm ("g-line"), 405 nm ("h-line") and 365 nm ("i-line"). However, with the semiconductor industry’s need for both higher resolution (to produce denser and faster chips) and higher throughput (for lower costs), the lamp-based lithography tools were no longer able to meet the industry’s high-end requirements.
 
 This challenge was overcome when in a pioneering development in 1982, excimer laser lithography was proposed and demonstrated at I.B.M. by Kanti Jain,[19][20][21][22] and now excimer laser lithography machines (steppers and scanners) are the primary tools used worldwide in microelectronics production. With phenomenal advances made in tool technology in the last two decades, it is the semiconductor industry view[23] that excimer laser lithography has been a crucial factor in the continued advance of Moore’s Law, enabling minimum features sizes in chip manufacturing to shrink from 0.5 micrometer in 1990 to 45 nanometers and below in 2010. This trend has continued into this decade for even denser chips, with minimum features reaching 10 nanometers in 2016.[24] From an even broader scientific and technological perspective, in the 50-year history of the laser since its first demonstration in 1960, the invention and development of excimer laser lithography has been recognized as a major milestone.[25][26][27]
 
 The commonly used deep ultraviolet excimer lasers in lithography systems are the krypton fluoride laser at 248 nm wavelength and the argon fluoride laser at 193 nm wavelength. The primary manufacturers of excimer laser light sources in the 1980s were Lambda Physik (now part of Coherent, Inc.) and Lumonics. Since the mid-1990s Cymer Inc. has become the dominant supplier of excimer laser sources to the lithography equipment manufacturers, with Gigaphoton Inc. as their closest rival. Generally, an excimer laser is designed to operate with a specific gas mixture; therefore, changing wavelength is not a trivial matter, as the method of generating the new wavelength is completely different, and the absorption characteristics of materials change. For example, air begins to absorb significantly around the 193 nm wavelength; moving to sub-193 nm wavelengths would require installing vacuum pump and purge equipment on the lithography tools (a significant challenge). Furthermore, insulating materials such as silicon dioxide, when exposed to photons with energy greater than the band gap, release free electrons and holes which subsequently cause adverse charging.
 
 Optical lithography has been extended to feature sizes below 50 nm using the 193 nm ArF excimer laser and liquid immersion techniques. Also termed immersion lithography, this enables the use of optics with numerical apertures exceeding 1.0. The liquid used is typically ultra-pure, deionised water, which provides for a refractive index above that of the usual air gap between the lens and the wafer surface. The water is continually circulated to eliminate thermally-induced distortions. Water will only allow _NA_'s of up to ~1.4, but fluids with higher refractive indices would allow the effective _NA_ to be increased further.
-
-Photon_Energy_vs_Resolution.PNG
 
 Experimental tools using the 157 nm wavelength from the F2 excimer laser in a manner similar to current exposure systems have been built. These were once targeted to succeed 193 nm lithography at the 65 nm feature size node but have now all but been eliminated by the introduction of immersion lithography. This was due to persistent technical problems with the 157 nm technology and economic considerations that provided strong incentives for the continued use of 193 nm excimer laser lithography technology. High-index immersion lithography is the newest extension of 193 nm lithography to be considered. In 2006, features less than 30 nm were demonstrated by IBM using this technique.[28]
 

@@ -9,7 +9,7 @@ The Economist Intelligence Unit rated Romania as a "flawed democracy" in 2016.[1
 
 Executive branch
 
-Klaus_Iohannis_Senate_of_Poland_2015_02_(cropped_2).JPG, President of Romania since 21 December 2014]] |President |Klaus Iohannis |Independent
+, President of Romania since 21 December 2014]] |President |Klaus Iohannis |Independent
 |21 December 2014 |- |Prime Minister |Viorica Dăncilă |Social Democratic Party |29 January 2018 |}
 
 The president is elected by popular vote for a maximum of two five-year terms (four-year terms until 2004). S/he is head of state (charged with safeguarding the constitution, foreign affairs, and the proper functioning of public authority), supreme commander of the armed forces and chairperson of the Supreme Council of National Defense. According to the constitution, s/he acts as a mediator among the state's power centers and between the state and society. The president nominates the prime minister after consultation with the party holding an absolute majority in Parliament or, if there is no such majority, with all the parties in Parliament.
@@ -130,7 +130,7 @@ The latest legislative election was held on 11 December 2016. In the two tables 
 
 Chamber of Deputies
 
-SEN2016.svg after the 11 December 2016 legislative election:
+after the 11 December 2016 legislative election:
 ]]
 
 +---------------------------+---------------------------------------------------+-----------+-------+-----+
@@ -217,7 +217,7 @@ SEN2016.svg after the 11 December 2016 legislative election:
 | Source: BEC               |                                                   |           |       |     |
 +---------------------------+---------------------------------------------------+-----------+-------+-----+
 
-CDEP2016.svg after the 11 December 2016 legislative election:
+after the 11 December 2016 legislative election:
 ]]
 
 Senate
@@ -298,8 +298,6 @@ The _Curtea Constituțională_ (Constitutional Court) judges issues of constitut
 
 Regional institutions
 
-ROMANIAN_POLITICAL_SYSTEM.png
-
 For territorial and administrative purposes, Romania is divided into 41 counties (_județe_, singular _județ_) and the city of Bucharest. Each county is governed by an elected council. Local councils and elected mayors are the public authorities in villages and towns. The county council coordinates the activities of village and town councils.
 
 The central government appoints a prefect for each county and Bucharest, who represents the government at the local level and directs the ministries and other central agencies at the county level. A prefect may block the action of a local authority if he deems it unlawful or unconstitutional, with the matter then adjudicated by an administrative court.
@@ -313,7 +311,7 @@ Romania has made progress in institutionalizing democratic principles, civil lib
 
 1990–1992
 
-Mineriad_in_early_1990_Bucharest_Palatul_Victoriei_5.tif in Bucharest.]]
+in Bucharest.]]
 
 Over 200 new political parties sprang up after 1989, most gravitating to leaders rather than programs. All major parties espoused democracy and market reforms in varying degrees. The largest party by far, the governing National Salvation Front (FSN), proposed slow, cautious economic reforms and a social safety net. The main opposition parties, the National Liberal Party (PNL) and the Christian Democratic National Peasants' Party (PNŢCD), favored rapid, sweeping reform, immediate privatization, and a reduction in the role of former Communist Party members. The Communist Party ceased to exist.
 
@@ -351,7 +349,7 @@ On 19 April 2007, Parliament suspended President Băsescu on charges of unconsti
 
 2008–2012
 
-Universitatea_Bucuresti_IMG_6678.JPG turned into an anti-government social movement.]]
+turned into an anti-government social movement.]]
 
 The November 2008 parliamentary elections were close, with the Social Democrats (PSD) winning 33.9 percent of the vote, President Traian Băsescu's centre-right Liberal Democrats (PDL) taking 32.34 percent, and the ruling National Liberals (PNL) receiving 18.6 percent.[6] The Liberal Democrats and Social Democrats formed a coalition after the election. Former prime minister Theodor Stolojan withdrew his candidacy for the premiership and President Băsescu nominated Emil Boc, president of the Liberal Democrats, as prime minister.
 
@@ -365,7 +363,7 @@ In early 2014, the PNL broke away from the USL and entered opposition. Along wit
 
 2016–present
 
-2017_Romanian_protest_-_banner_(1).jpg to, among others, current ruling political leaders Liviu Dragnea and Călin Popescu-Tăriceanu.]]
+to, among others, current ruling political leaders Liviu Dragnea and Călin Popescu-Tăriceanu.]]
 
 The legislative elections of 11 December 2016 saw a predictable comeback of the PSD as the major party in the Romanian Parliament, as most opinion polls gave them an electoral score of at least 40%. Alongside ALDE, the PSD formed a governing coalition under Prime Minister Sorin Grindeanu.
 

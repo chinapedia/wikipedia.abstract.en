@@ -1,4 +1,4 @@
-Mali_highway.jpg, Mali.]] Mali's transportation infrastructure is regarded as poor, even by regional standards, and deficiencies have limited economic growth and development. Nevertheless, improvements have been noted in the early 2000s. Most of the transportation in Mali consists of cars, planes, and boats.[1]
+, Mali.]] Mali's transportation infrastructure is regarded as poor, even by regional standards, and deficiencies have limited economic growth and development. Nevertheless, improvements have been noted in the early 2000s. Most of the transportation in Mali consists of cars, planes, and boats.[1]
 
 
 Railways
@@ -69,7 +69,7 @@ Charts
 
 Highways
 
-Mali_-_local_transport.jpg Mali had a road network totaling about 18,563 kilometers in 2000, including about 4,450 kilometers of paved roads. Mali's main economic link to the coast is a paved road between Bamako and Abidjan in Côte d’Ivoire. The European Development Fund is financing construction of a road linking Bamako and Dakar, Senegal. The African Development Bank is funding the construction of a road linking Bamako and Kankan in Guinea. There are also plans for a trans-Saharan road linking Mali with Algeria.[8]
+Mali had a road network totaling about 18,563 kilometers in 2000, including about 4,450 kilometers of paved roads. Mali's main economic link to the coast is a paved road between Bamako and Abidjan in Côte d’Ivoire. The European Development Fund is financing construction of a road linking Bamako and Dakar, Senegal. The African Development Bank is funding the construction of a road linking Bamako and Kankan in Guinea. There are also plans for a trans-Saharan road linking Mali with Algeria.[8]
 
 In general, road conditions outside of urban areas are hazardous, especially at night. Because of isolation, poor road conditions, and the prevalence of banditry, overland travel to the north of Mali is regarded as especially dangerous. Flying or traveling by boat is reported to be preferable where possible. Many of Mali's major thoroughfares in the north are little more than desert tracks with long isolated stretches.[9]
 
@@ -92,7 +92,7 @@ While police control barriers are a common sight on African highways, and while 
 
 Ports and waterways
 
-Kankou.JPG Mali has no seaports because it is landlocked, but Koulikoro on the Niger River near Bamako, serves as a principal river port. Traditionally, Abidjan in Côte d’Ivoire has been Mali's main seaport, handling as much as 70 percent of Mali's trade (except for gold exports). Mali's export trade suffered when turbulence in Côte d’Ivoire in the early 2000s interrupted that trade route.[15]
+Mali has no seaports because it is landlocked, but Koulikoro on the Niger River near Bamako, serves as a principal river port. Traditionally, Abidjan in Côte d’Ivoire has been Mali's main seaport, handling as much as 70 percent of Mali's trade (except for gold exports). Mali's export trade suffered when turbulence in Côte d’Ivoire in the early 2000s interrupted that trade route.[15]
 
 Mali has 1,815 kilometers of inland waterways, principally the Niger River, some portions of which are navigable for medium and large shipping during the rainy season (June/July–November/December) in years of normal rainfall. Parts of the Senegal River also are navigable, providing year-round access to the Atlantic from Kayes to St. Louis in Senegal.[16]
 

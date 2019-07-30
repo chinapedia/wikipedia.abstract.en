@@ -10,7 +10,7 @@ Soon after Robert's birth, the family moved to Chomutov in Bohemia, and in 1891 
 
 Early life
 
-Robert_Musil,_pamětní_deska,_Brno.JPG]] Musil was short in stature but strong and skilled at wrestling, and by his early teens, he proved to be more than his parents could handle. They sent him to a military boarding school at Eisenstadt (1892–1894) and then Hranice (1894–1897). The school experiences are reflected in his first novel _Die Verwirrungen des Zöglings Törless_ (_The Confusions of Young Törless_).
+]] Musil was short in stature but strong and skilled at wrestling, and by his early teens, he proved to be more than his parents could handle. They sent him to a military boarding school at Eisenstadt (1892–1894) and then Hranice (1894–1897). The school experiences are reflected in his first novel _Die Verwirrungen des Zöglings Törless_ (_The Confusions of Young Törless_).
 
 
 Youth and studies
@@ -30,7 +30,7 @@ Author
 
 In 1909, Musil completed his doctorate and Professor Alexius Meinong offered him a position at the University of Graz, which he turned down to concentrate on writing of novels. Over the next two years, he wrote and published two stories ("The Temptation of Quiet Veronica" and "The Perfecting of a Love") collected in _Vereinigungen_ (_Unions_) published in 1911. During the same year, Martha's divorce was completed, and Musil married her. As she was Jewish and Musil Roman Catholic, they both converted to Protestantism as a sign of their union.1 2 3 Until then, Musil had been supported by his family, but he now found employment first as a librarian in the Technical University of Vienna and then in an editorial role with the Berlin literary journal _Die neue Rundschau_. He also worked on a play entitled _Die Schwärmer_ (_The Enthusiasts_), which was published in 1921.
 
-Klagenfurt_-_Musilhaus_-_Robert_Musil.jpg]] When World War I began, Musil joined the Army and was stationed first in Tirol and then at Austria's Supreme Army Command in Bolzano. In 1916, Musil visited Prague and met Franz Kafka, whose work he held in high esteem. After the war's end, and the collapse of the Austro-Hungarian Empire, Musil returned to his literary career in Vienna. He published a collection of short stories, _Drei Frauen_ (_Three Women_), in 1924. He also admired the Bohemian poet Rainer Maria Rilke, whom Musil called "great and not always understood" at his memorial service in 1927 in Berlin. According to Musil, Rilke "did nothing but perfect the German poem for the first time," but by the time of his death, Rilke had turned into "a delicate, well-matured liqueur suitable for grown-up ladies".[7] However, his work is "too demanding" to be "considered relaxing".[8]
+]] When World War I began, Musil joined the Army and was stationed first in Tirol and then at Austria's Supreme Army Command in Bolzano. In 1916, Musil visited Prague and met Franz Kafka, whose work he held in high esteem. After the war's end, and the collapse of the Austro-Hungarian Empire, Musil returned to his literary career in Vienna. He published a collection of short stories, _Drei Frauen_ (_Three Women_), in 1924. He also admired the Bohemian poet Rainer Maria Rilke, whom Musil called "great and not always understood" at his memorial service in 1927 in Berlin. According to Musil, Rilke "did nothing but perfect the German poem for the first time," but by the time of his death, Rilke had turned into "a delicate, well-matured liqueur suitable for grown-up ladies".[7] However, his work is "too demanding" to be "considered relaxing".[8]
 
 In 1930 and 1933, he published his masterpiece, _The Man Without Qualities_ (_Der Mann ohne Eigenschaften_),[9] in two volumes consisting of three parts, from Berlin, running into 1,074 pages.[10] Volume 1 (Part I: A Sort of Introduction, and Part II: The Like of It Now Happens) and 605-page unfinished Volume 2 (Part III: Into the Millennium (The Criminals)).[11] Part III did not include 20 chapters withdrawn from Volume 2 of 1933 in printer's galley proofs. The novel deals with the moral and intellectual decline of the Austro-Hungarian Empire through the eyes of the book's protagonist, Ulrich, an ex-mathematician who has failed to engage with the world around him in a manner that would allow him to possess _qualities_. It is set in Vienna on the eve of World War I.
 
@@ -117,8 +117,6 @@ Timeline
 
 
 Bibliography
-
-Musil,_Robert_–_Grigia,_1923_–_BEIC_3279160.jpg
 
 -   _Die Verwirrungen des Zöglings Törleß_ (1906), (_The Confusions of Young Törless_), novel, later made into a movie _Der junge Törless_
 -   _Vereinigungen_ (1911), (_Unions_), a collection of two short stories "The Temptation of Quiet Veronica" and "The Perfecting of Love"

@@ -1,5 +1,3 @@
-Leo_badge_4.JPG
-
 The LEO I (_Lyons electronic office I_) was the first computer used for commercial business applications.
 
 The prototype LEO I was modelled closely on the Cambridge EDSAC. Its construction was overseen by Oliver Standingford, Raymond Thompson and David Caminer of J. Lyons and Co. LEO I ran its first business application in 1951. In 1954 Lyons formed LEO Computers Ltd to market LEO I and its successors LEO II and LEO III, to other companies. LEO Computers eventually became part of English Electric Company (EELM) where the same team developed the faster LEO 360 and even faster LEO 326 models. It then passed to International Computers Limited (ICL) and ultimately Fujitsu.
@@ -29,7 +27,7 @@ In 1954, with the decision to proceed with LEO II and interest from other commer
 
 Leo III
 
-LEO_III_computer_circuit_board_2012.JPG The first LEO III was completed in 1961. This was a solid-state machine with a 13.2 μs cycle time ferrite core memory. It was microprogrammed and was controlled by a multitasking operating system. In 1963, LEO Computers Ltd was merged into English Electric Company and this led to the breaking up of the team that had inspired LEO computers. English Electric Company continued to build the LEO III, and went on to build the faster LEO 360 and even faster LEO 326 models, which had been designed by the LEO team before the takeover. All LEO IIIs allowed concurrent running of as many as 12 application programs through the "Master program" operating system. Some, primarily producing telephone bills, purchased in the mid- to late 1960s, were still in commercial use with GPO Telephones, forerunner of British Telecom, until 1981, remaining usable throughout, using parts cannibalised from redundant LEOs purchased by the GPO.
+The first LEO III was completed in 1961. This was a solid-state machine with a 13.2 μs cycle time ferrite core memory. It was microprogrammed and was controlled by a multitasking operating system. In 1963, LEO Computers Ltd was merged into English Electric Company and this led to the breaking up of the team that had inspired LEO computers. English Electric Company continued to build the LEO III, and went on to build the faster LEO 360 and even faster LEO 326 models, which had been designed by the LEO team before the takeover. All LEO IIIs allowed concurrent running of as many as 12 application programs through the "Master program" operating system. Some, primarily producing telephone bills, purchased in the mid- to late 1960s, were still in commercial use with GPO Telephones, forerunner of British Telecom, until 1981, remaining usable throughout, using parts cannibalised from redundant LEOs purchased by the GPO.
 
 Users of LEO computers programmed in two coding languages: Intercode,[14] a low-level assembler type language; and CLEO (acronym: Clear Language for Expressing Orders), the COBOL equivalent.
 

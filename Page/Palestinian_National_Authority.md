@@ -13,7 +13,7 @@ History
 
 Establishment
 
-Bill_Clinton,_Yitzhak_Rabin,_Yasser_Arafat_at_the_White_House_1993-09-13.jpg, Bill Clinton and Yasser Arafat at the Oslo Accords signing ceremony on 13 September 1993.]]
+, Bill Clinton and Yasser Arafat at the Oslo Accords signing ceremony on 13 September 1993.]]
 
 The Palestinian Authority was created by the Gaza–Jericho Agreement, pursuant to the 1993 Oslo Accords. The Gaza–Jericho Agreement was signed on 4 May 1994 and included an Israeli withdrawal from the Jericho area and partially from the Gaza Strip, and detailed the creation of the Palestinian Authority and the Palestinian Civil Police Force.[17][18]
 
@@ -35,11 +35,11 @@ On 19 April 2005, Vladimir Putin the president of Russia agreed to aid the Pales
 
 The Palestinian Authority became responsible for civil administration in some rural areas, as well as security in the major cities of the West Bank and the Gaza Strip. Although the five-year interim period expired in 1999, the final status agreement has yet to be concluded despite attempts such as the 2000 Camp David Summit, the Taba Summit, and the unofficial Geneva Accords.
 
-West_Bank_July_2008_CIA_remote-sensing_map_3000px.jpg remote-sensing map of areas governed by the Palestinian Authority, July 2008.]] In August 2005, Israeli Prime Minister Ariel Sharon began his disengagement from the Gaza Strip, ceding full effective internal control of the Strip to the Palestinian Authority but retained control of its borders including air and sea (except for the Egyptian border). This increased the percentage of land in the Gaza Strip nominally governed by the PA from 60 percent to 100 percent.
+remote-sensing map of areas governed by the Palestinian Authority, July 2008.]] In August 2005, Israeli Prime Minister Ariel Sharon began his disengagement from the Gaza Strip, ceding full effective internal control of the Strip to the Palestinian Authority but retained control of its borders including air and sea (except for the Egyptian border). This increased the percentage of land in the Gaza Strip nominally governed by the PA from 60 percent to 100 percent.
 
 Hamas–Fatah conflict
 
-Palestinian_legislative_election_2006.png, Hamas (green) and Fatah (yellow)]] Palestinian legislative elections took place on 25 January 2006. Hamas was victorious and Ismail Haniyeh was nominated as Prime Minister on 16 February 2006 and sworn in on 29 March 2006. However, when a Hamas-led Palestinian government was formed, the Quartet (United States, Russia, United Nations, and European Union) conditioned future foreign assistance to the Palestinian Authority (PA) on the future government's commitment to non-violence, recognition of the State of Israel, and acceptance of previous agreements. Hamas rejected these demands,[33] which resulted in the Quartet suspension of its foreign assistance program and Israel imposed economic sanctions.
+, Hamas (green) and Fatah (yellow)]] Palestinian legislative elections took place on 25 January 2006. Hamas was victorious and Ismail Haniyeh was nominated as Prime Minister on 16 February 2006 and sworn in on 29 March 2006. However, when a Hamas-led Palestinian government was formed, the Quartet (United States, Russia, United Nations, and European Union) conditioned future foreign assistance to the Palestinian Authority (PA) on the future government's commitment to non-violence, recognition of the State of Israel, and acceptance of previous agreements. Hamas rejected these demands,[33] which resulted in the Quartet suspension of its foreign assistance program and Israel imposed economic sanctions.
 
 In December 2006, Ismail Haniyeh, Prime Minister of the PA, declared that the PA will never recognize Israel: "We will never recognize the usurper Zionist government and will continue our jihad-like movement until the liberation of Jerusalem."[34]
 
@@ -75,7 +75,7 @@ The Palestinian Territories refers to the Gaza Strip and the West Bank (includin
 
 Politics and internal structure
 
-Mahmoud_Abbas.jpg (Abu Mazen), President of the Palestinian Authority since 2005 (disputed since 2009).]]
+(Abu Mazen), President of the Palestinian Authority since 2005 (disputed since 2009).]]
 
 The politics of the Palestinian Authority take place within the framework of a semi-presidential multi-party republic, with the Palestinian Legislative Council (PLC), an executive President, and a Prime Minister leading a Cabinet. According to the Palestinian Basic Law which was signed by Arafat in 2002 after a long delay, the current structure of the PA is based on three separate branches of power: executive, legislative, and judiciary.[68] The PA was created by, is ultimately accountable to, and has historically been associated with, the Palestine Liberation Organization (PLO), with whom Israel negotiated the Oslo Accords.[69]
 

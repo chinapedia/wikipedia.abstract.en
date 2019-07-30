@@ -7,13 +7,11 @@ The New York portion of the Champlain Valley includes the eastern portions of Cl
 
 Geology
 
-Lake_Champlain_by_Sentinel-2.jpg The Champlain Valley is the northernmost unit of a landform system known as the Great Appalachian Valley, which stretches between Quebec, Canada, to the north, and Alabama, US, to the south. The Champlain Valley is a physiographic section of the larger Saint Lawrence Valley, which in turn is part of the larger Appalachian physiographic division.[3]
+The Champlain Valley is the northernmost unit of a landform system known as the Great Appalachian Valley, which stretches between Quebec, Canada, to the north, and Alabama, US, to the south. The Champlain Valley is a physiographic section of the larger Saint Lawrence Valley, which in turn is part of the larger Appalachian physiographic division.[3]
 
 Lake Champlain is one of numerous large lakes scattered in an arc through Labrador, in Canada, the northern United States, and the Northwest Territories of Canada. It is the thirteenth largest lake by area in the US. Approximately in area, the lake is long and across at its widest point,[4] and has a maximum depth of approximately . The lake varies seasonally from about above mean sea level.[5]
 
 Hydrology
-
-Lake_Champlain.jpg
 
 Lake Champlain is in the Lake Champlain Valley between the Green Mountains of Vermont and the Adirondack Mountains of New York, drained northward by the -long Richelieu River into the St. Lawrence River at Sorel-Tracy, Quebec, northeast and downstream of Montreal, Quebec. It also receives the waters from the -long Lake George, so its basin collects waters from the northwestern slopes of the Green Mountains and the northernmost eastern peaks of the Adirondack Mountains.
 
@@ -34,7 +32,7 @@ The oldest reefs are around "The Head" of the south end of the island; slightly 
 
 History
 
-Brooklyn_Museum_-_Green_Mountains,_Lake_Champlain_-_Winckworth_Allan_Gay_-_overall.jpg The lake has long acted as a border between indigenous nations much as it is today between the USA and Canada. The lake is located at the frontier between Abenaki and Mohawk (Iroquois Confederacy) traditional territories. The official toponym for the lake according to the orthography established by the Grand Council of Wanab-aki Nation is PITAWBAGOK (alternative orthographies include Petonbowk[12] and Bitawbagok[13]), meaning 'middle lake', 'lake in between' or 'double lake'.
+The lake has long acted as a border between indigenous nations much as it is today between the USA and Canada. The lake is located at the frontier between Abenaki and Mohawk (Iroquois Confederacy) traditional territories. The official toponym for the lake according to the orthography established by the Grand Council of Wanab-aki Nation is PITAWBAGOK (alternative orthographies include Petonbowk[12] and Bitawbagok[13]), meaning 'middle lake', 'lake in between' or 'double lake'.
 
 The Mohawk name in modern orthography as standardized in 1993 is KANIATARAKWÀ:RONTE, meaning "a bulged lake" or “lake with a bulge in it."[14][15] An alternate name is KANIÁ:TARE TSI KAHNHOKÀ:RONTE (phonetic English spelling _Caniaderi Guarunte_[16] ), meaning 'door of the country' or 'lake to the country'. The lake is an important eastern gateway to Iroquois Confederacy lands.
 
@@ -42,7 +40,7 @@ The lake was named after the French explorer Samuel de Champlain, who encountere
 
 Colonial America and the Revolutionary War
 
-Lac_Champlain_(Nouvelle-France)_1739.JPG map showing concessions and _seigneuries_ on the coasts of the lake according to 1739 surveying.]] New France allocated concessions all along lake Champlain to French settlers and built forts to defend the waterways. In colonial times, Lake Champlain was used as a water (or, in winter, ice) passage between the Saint Lawrence and Hudson valleys. Travelers found it easier to journey by boats and sledges on the lake rather than go overland on unpaved and frequently mud-bound roads. The lake's northern tip at Saint-Jean-sur-Richelieu, Quebec (known as St. John in colonial times under British rule), is a short distance from Montreal, Quebec. The southern tip at Whitehall (Skenesborough in revolutionary times) is a short distance from Saratoga, Glens Falls, and Albany, New York.
+map showing concessions and _seigneuries_ on the coasts of the lake according to 1739 surveying.]] New France allocated concessions all along lake Champlain to French settlers and built forts to defend the waterways. In colonial times, Lake Champlain was used as a water (or, in winter, ice) passage between the Saint Lawrence and Hudson valleys. Travelers found it easier to journey by boats and sledges on the lake rather than go overland on unpaved and frequently mud-bound roads. The lake's northern tip at Saint-Jean-sur-Richelieu, Quebec (known as St. John in colonial times under British rule), is a short distance from Montreal, Quebec. The southern tip at Whitehall (Skenesborough in revolutionary times) is a short distance from Saratoga, Glens Falls, and Albany, New York.
 
 Forts were built at Ticonderoga and Crown Point (Fort St. Frederic) to control passage on the lake in colonial times. Important battles were fought at Ticonderoga in 1758 and 1775. During the Revolutionary War, the British and Americans conducted a frenetic shipbuilding race through the spring and summer of 1776, at opposite ends of the lake, and fought a significant naval engagement on October 11 at the Battle of Valcour Island. While it was a tactical defeat for the Americans, and the small fleet led by Benedict Arnold was almost destroyed, the Americans gained a strategic victory; the British invasion was delayed long enough so the approach of winter prevented the fall of these forts until the following year. In this period, the Continental Army gained strength and was victorious at Saratoga.
 
@@ -50,7 +48,7 @@ Beginning of the Revolutionary War
 
 At the start of the Revolutionary War, British forces occupied the Champlain Valley.[18] However, it did not take long for rebel leaders to realize the importance of controlling Lake Champlain. Early in the war, the colonial militias attempted to expel the British from Boston; however, this undertaking could not be achieved without heavy artillery.[19] The British forts at Ticonderoga and Crown Point, on Lake Champlain, were known to have ample supplies of artillery and were weakly manned by the British. Thus, the colonial militias devised a plan to take control of the two forts and bring the guns back to the fight in Boston.[20]
 
-Lake_Champlain_Ferry.jpg, Lake Champlain]] The necessity of controlling the two forts at Ticonderoga and Crown Point placed Lake Champlain as a strategic arena during the Revolutionary War. By taking control of these forts, Americans not only gained heavy artillery, but control of a vast water highway, as well: Lake Champlain provided a direct invasion route to British Canada. However, had the British controlled the lake, they could have divided the colonies of New England and further depleted the Continental Army.
+, Lake Champlain]] The necessity of controlling the two forts at Ticonderoga and Crown Point placed Lake Champlain as a strategic arena during the Revolutionary War. By taking control of these forts, Americans not only gained heavy artillery, but control of a vast water highway, as well: Lake Champlain provided a direct invasion route to British Canada. However, had the British controlled the lake, they could have divided the colonies of New England and further depleted the Continental Army.
 
 The Continental Army's first offensive action took place in May 1775, three weeks after the Battles of Lexington and Concord.[21] Ethan Allen, accompanied by 200 Green Mountain Boys, was ordered to capture Fort Ticonderoga and retrieve supplies for the fight in Boston. Benedict Arnold shared the command with Allen, and in early May 1775, they captured Fort Ticonderoga, Crown Point, and the southern Loyalist settlement of Skenesborough.[22] As a result of Allen’s offensive attack on the Champlain Valley in 1775, the American forces controlled the Lake Champlain waterway.
 
@@ -62,7 +60,7 @@ Despite the strategic advantage of controlling a direct route to Quebec by way o
 
 The Continental Army was forced to camp outside Quebec’s walls for the winter, with reinforcements from New York, Pennsylvania, Massachusetts, New Hampshire, and Connecticut allowing the soldiers to maintain their siege of the city.[27] The reinforcements traveled hundreds of miles up the frozen Lake Champlain and St. Lawrence River, but were too late and too few to influence a successful siege of Quebec. In May 1776, with the arrival of a British convoy carrying 10,000 British and Hessian troops to Canada, the Continental forces retreated back down the Champlain Valley to reevaluate their strategy.[28]
 
-Champlain_Valley.jpg]] "I know of no better method than to secure the important posts of Ticonderoga and Crown Point, and by building a number of armed vessels to command the lakes, otherwise the forces now in Canada will be brought down upon us as quick as possible, having nothing to oppose them… They will doubtless try to construct some armed vessels and then endeavor to penetrate the country toward New York." (Brigadier General John Sullivan to George Washington, June 24, 1776).[29]
+]] "I know of no better method than to secure the important posts of Ticonderoga and Crown Point, and by building a number of armed vessels to command the lakes, otherwise the forces now in Canada will be brought down upon us as quick as possible, having nothing to oppose them… They will doubtless try to construct some armed vessels and then endeavor to penetrate the country toward New York." (Brigadier General John Sullivan to George Washington, June 24, 1776).[29]
 
 Both British and American forces spent the summer of 1776 building their naval fleets, at opposite ends of Lake Champlain.[30] By the October 1776, the Continental Army had 16 operating naval vessels on Lake Champlain, a great increase to the four small ships they had at the beginning of the summer.[31] General Benedict Arnold commanded the American naval fleet on Lake Champlain, which was composed of volunteers and soldiers drafted from the Northern Army. With great contrast to the Continental navy, experienced Royal Navy officers, British seamen, and Hessian artillerymen manned the British fleet on Lake Champlain.[32] By the end of the summer of 1776, the opposing armies were prepared to battle over the strategic advantage of controlling Lake Champlain.
 
@@ -78,7 +76,7 @@ The approaching winter of 1776–1777 restricted British movement along the rece
 
 General Burgoyne’s Campaign
 
-Lake_Champlain,_Vermont.jpg]] In early 1777, British General John Burgoyne led 8,000 troops from Canada, down Lake Champlain, and into the Champlain Valley.[39] The goal of this invasion was to divide the New England colonies, thus forcing the Continental Army into a separated fight on multiple fronts.[40] Lake Champlain provided Burgoyne with protected passage deep into the American colonies. Burgoyne’s army reached Fort Ticonderoga and Mount Independence in late June 1777. During the night of July 5, the American forces fled Ticonderoga as the British took control of the fort. However, Burgoyne’s southern campaign did not go uncontested.
+]] In early 1777, British General John Burgoyne led 8,000 troops from Canada, down Lake Champlain, and into the Champlain Valley.[39] The goal of this invasion was to divide the New England colonies, thus forcing the Continental Army into a separated fight on multiple fronts.[40] Lake Champlain provided Burgoyne with protected passage deep into the American colonies. Burgoyne’s army reached Fort Ticonderoga and Mount Independence in late June 1777. During the night of July 5, the American forces fled Ticonderoga as the British took control of the fort. However, Burgoyne’s southern campaign did not go uncontested.
 
 On October 7, 1777, American General Horatio Gates, who occupied Bemis Heights, met Burgoyne’s army at the Second Battle of Freeman’s Farm.[41] At Freeman’s Farm, Burgoyne’s army suffered its final defeat and ended their invasion south into the colonies. Ten days later, on October 17, 1777, British General Burgoyne surrendered his army at Saratoga.[42] This defeat was instrumental to the momentum of the Revolutionary War, as the defeat of the British army along the Champlain-Hudson waterway convinced France to ally with the American army.[43]
 
@@ -90,7 +88,7 @@ With the end of the Revolutionary War in 1783, the British naval fleet on Lake C
 
 Post-Revolutionary War period
 
-Dutton_House_Shelburne_Museum.jpg, Shelburne Museum]] Stagecoach_Inn_Shelburne_Museum.jpg, Shelburne Museum]] Sawmill_Shelburne_Museum.jpg]] Eager to take back control of Lake Champlain following the end of the Revolutionary War, Americans flocked to settle the Champlain Valley. Many individuals emigrated from Massachusetts and other New England colonies, such as Salmon Dutton, a settler of Cavendish, Vermont.[48] Dutton emigrated in 1782 and worked as a surveyor, town official, and toll road owner. His home had a dooryard garden, typical of mid-19th century New England village homes,[49] and his experience settling in the Champlain Valley depicts the industries and lifestyles surrounding Lake Champlain following the Revolutionary War.
+, Shelburne Museum]] , Shelburne Museum]] ]] Eager to take back control of Lake Champlain following the end of the Revolutionary War, Americans flocked to settle the Champlain Valley. Many individuals emigrated from Massachusetts and other New England colonies, such as Salmon Dutton, a settler of Cavendish, Vermont.[48] Dutton emigrated in 1782 and worked as a surveyor, town official, and toll road owner. His home had a dooryard garden, typical of mid-19th century New England village homes,[49] and his experience settling in the Champlain Valley depicts the industries and lifestyles surrounding Lake Champlain following the Revolutionary War.
 
 Similar to the experience of Salmon Dutton, former colonial militia Captain Hezekiah Barnes settled in Charlotte, Vermont, in 1787.[50] Following the war, Barnes also worked as a road surveyor; he also established an inn and trading post in Charlotte, along the main trade route from Montreal down Lake Champlain. Barnes’s stagecoach inn was built in traditional Georgian style, with 10 fireplaces and a ballroom on the interior, and a wraparound porch on the outside.[51] In 1800, Continental Army Captain Benjamin Harrington established a distillery business in Shelburne, Vermont, which supplied his nearby inn.[52] Furthermore, Captain Stevens and Jeremiah Trescott built a water-powered sawmill in South Royalton, Vermont, in the late 1700s.[53] These individual accounts shed light on the significance of Lake Champlain during the post-Revolutionary War period.
 
@@ -106,7 +104,7 @@ By the Webster-Ashburton Treaty of 1842, the Canada–U.S. border was adjusted n
 
 Modern history
 
-Champlain1902.jpg In the early 19th century, the construction of the Champlain Canal connected Lake Champlain to the Hudson River system, allowing north-south commerce by water from New York City to Montreal and Atlantic Canada.
+In the early 19th century, the construction of the Champlain Canal connected Lake Champlain to the Hudson River system, allowing north-south commerce by water from New York City to Montreal and Atlantic Canada.
 
 In 1909, 65,000 people celebrated the 300th anniversary of the French discovery of the lake. Attending dignitaries included President William Howard Taft, along with representatives from France, Canada, and the United Kingdom.[55][56]
 
@@ -170,7 +168,7 @@ Lake crossings
 
 The Alburgh Peninsula (also known as the Alburgh Tongue), extending south from the Quebec shore of the lake into Vermont, is accessible from the rest of the state only via Canada. This is a distinction shared with Point Roberts, Washington, and the Northwest Angle in Minnesota as well as Province Point (see below). Unlike the other three cases, this is no longer of practical significance because highway bridges across the lake provide access to the peninsula from within the United States (from three directions).
 
-Champlain_bridge.JPG between New York and Vermont, demolished in December 2009]]
+between New York and Vermont, demolished in December 2009]]
 
 Road
 
@@ -184,7 +182,7 @@ In 2009, the bridge had been used by 3,400 drivers per day,[82] and driving arou
 
 Ferry
 
-LCTC_ferries_2.jpg ferry slip at Grand Isle, Vermont]] North of Ticonderoga, New York, the lake widens appreciably; ferry service is operated by the Lake Champlain Transportation Company at:
+ferry slip at Grand Isle, Vermont]] North of Ticonderoga, New York, the lake widens appreciably; ferry service is operated by the Lake Champlain Transportation Company at:
 
 -   Charlotte, Vermont, to Essex, New York (may not travel when the lake is frozen)
 -   Burlington, Vermont, to Port Kent, New York (seasonal)
@@ -200,8 +198,6 @@ Four significant railroad crossings were built over the lake. As of 2016, only o
 
 -   The "floating" rail trestle from Larabees Point, Vermont to Ticonderoga, New York was operated by the Addison Branch of the Rutland Railroad. It was abandoned in 1918 due to a number of accidents which resulted in locomotives and rail cars falling into the lake.[86]
 -   The Island Line Causeway, a marble rock-landfill causeway that stretched from Colchester (on the mainland) north and west to South Hero, Vermont. Two breaks in the causeway were spanned by a fixed iron trestle and a swing bridge that could be opened to allow boats to pass. Rutland Railroad (later Rutland Railway) operated trains over this causeway from 1901–1961. The Railway was officially abandoned in 1963, with tracks and trestles removed over the course of the 10 years that followed. The marble causeway still remains, as does the fixed iron trestle that bridges the lesser of the two gaps. The swing bridge over the navigation channel was removed in the early 1970s.
-
-Swanton-Alburgh_VT_Trestle.JPG
 
 Now called Colchester Park, the main three-mile (5 km) causeway has been adapted and preserved as a recreation area for cyclists, runners, and anglers. Two smaller marble rock-landfill causeways were also erected as part of this line that connected Grand Isle to North Hero, and spanned from North Hero to Alburgh.[87][88]
 
@@ -221,7 +217,7 @@ Burlington, Vermont (pop. 42,217, 2010 Census) is the largest city on the lake. 
 
 Islands
 
-Lake_Champlain_1.jpg Lake Champlain contains roughly 80 islands, three of which comprise four entire Vermont towns (most of Grand Isle County). The largest islands:
+Lake Champlain contains roughly 80 islands, three of which comprise four entire Vermont towns (most of Grand Isle County). The largest islands:
 
 -   South Hero Island, the largest, containing the towns of Grand Isle, Vermont and South Hero, Vermont
 -   North Hero Island, containing the town of North Hero, Vermont
@@ -246,8 +242,6 @@ Lake_Champlain_1.jpg Lake Champlain contains roughly 80 islands, three of which 
 
 Lighthouses
 
-The_light_house_in_lake_Champlain_in_the_dusk_as_seen_from_Burlington_VT..jpg
-
 -   Bluff Point Lighthouse, on Valcour Island near the New York shore, was built in 1871; it was manned by a full-time lightkeeper until 1930, making it one of the last lighthouses to be manned on the Lake
 -   Cumberland Head Light, which operated until 1934, is an historic stone lighthouse located on Cumberland Head, which is privately owned
 -   Isle La Motte lighthouse, on the northern end of the island was originally red, but it faded to pink over time; it is privately owned[94]
@@ -257,7 +251,7 @@ The_light_house_in_lake_Champlain_in_the_dusk_as_seen_from_Burlington_VT..jpg
 
 Aids to navigation
 
-Cgsburlington.JPG All active navigational aids on the American portion of the lake are maintained by USCG Burlington station, along with those on international Lake Memphremagog to the east.[96] Aids to navigation on the Canadian portion of the lake are maintained by the Canadian Coast Guard.[97]
+All active navigational aids on the American portion of the lake are maintained by USCG Burlington station, along with those on international Lake Memphremagog to the east.[96] Aids to navigation on the Canadian portion of the lake are maintained by the Canadian Coast Guard.[97]
 
 Parks
 
@@ -270,7 +264,7 @@ There are various parks along the lake on the Vermont side, including Sand Bar S
 
 Public safety
 
-Vtdfgboat.JPG]] Coast Guard Station Burlington provides "Search and Rescue, Law Enforcement and Ice Rescue services 24 hours a day, 365 days a year."[98] Services are also provided by local, and state, and federal governments bordering on the lake, including the U.S. Border Patrol, Royal Canadian Mounted Police, Vermont State Police,[99] New York State Police Marine Detail,[100] and Vermont Fish and Wildlife wardens.[101]
+]] Coast Guard Station Burlington provides "Search and Rescue, Law Enforcement and Ice Rescue services 24 hours a day, 365 days a year."[98] Services are also provided by local, and state, and federal governments bordering on the lake, including the U.S. Border Patrol, Royal Canadian Mounted Police, Vermont State Police,[99] New York State Police Marine Detail,[100] and Vermont Fish and Wildlife wardens.[101]
 
 
 See also

@@ -40,7 +40,7 @@ Anthony Traill noted the Khoisan languages' extreme variation.[10] Despite their
 
 Families
 
-Khoisan_languages.svg The branches that were once considered ramifications of so-called Khoisan are now considered independent families, since it has not been demonstrated that they are related according to the standard comparative method.
+The branches that were once considered ramifications of so-called Khoisan are now considered independent families, since it has not been demonstrated that they are related according to the standard comparative method.
 
 See Khoe languages for speculations on the linguistic history of the region.
 
@@ -50,7 +50,7 @@ With about 800 speakers in Tanzania, Hadza is no longer seen as a Khoisan langua
 
 Sandawe
 
-There is some indication that Sandawe (about 40,000 speakers in Tanzania) may be related to the Khoe family, such as a congruent pronominal system and some good Swadesh-list matches, but not enough to establish regular sound correspondences. Sandawe is not related to Hadza, despite their proximity. KhoisanLanguagesModernDistribution.png
+There is some indication that Sandawe (about 40,000 speakers in Tanzania) may be related to the Khoe family, such as a congruent pronominal system and some good Swadesh-list matches, but not enough to establish regular sound correspondences. Sandawe is not related to Hadza, despite their proximity.
 
 Khoe
 

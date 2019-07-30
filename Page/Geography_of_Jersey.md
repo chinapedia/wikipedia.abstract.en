@@ -5,11 +5,11 @@ Jersey is the largest and southernmost of the Channel Islands. It is located nor
 
 Physical geography
 
-Jersey_by_Sentinel-2.jpg Besides the main island, the bailiwick includes other islets and reefs with no permanent population: Les Écréhous, Les Minquiers, Les Pierres de Lecq, Les Dirouilles.
+Besides the main island, the bailiwick includes other islets and reefs with no permanent population: Les Écréhous, Les Minquiers, Les Pierres de Lecq, Les Dirouilles.
 
 The highest point in the island is Les Platons on the north coast, at . Parts of the parish of St Clement in the south were previously below sea-level but the construction of a seawall and infilling of low land has probably left only a few pockets of land below mean sea level. The terrain is generally low-lying on the south coast, with some rocky headlands, rising gradually to rugged cliffs along the north coast. On the west coast there are sand dunes. Small valleys run north to south across the island. Very large tidal variation exposes large expanses of sand and rock to the southeast at low tide.
 
-Snow falls rarely in Jersey; some years will pass with no snow fall at all. JerseyCI_topograph1.PNG
+Snow falls rarely in Jersey; some years will pass with no snow fall at all.
 
 Natural resources
 

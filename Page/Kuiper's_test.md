@@ -7,8 +7,6 @@ This invariance under cyclic transformations makes Kuiper's test invaluable when
 
 Definition
 
-KuiperTestVisualization_2Sample.png
-
 The test statistic, _V_, for Kuiper's test is defined as follows. Let _F_ be the continuous cumulative distribution function which is to be the null hypothesis. Denote the sample of data which are independent realisations of random variables, having _F_ as their distribution function, by _x_(i)_ (_i_=1,...,_n_). Then define[2]
 
 _z__(_i_) = _F_(_x__(_i_)),

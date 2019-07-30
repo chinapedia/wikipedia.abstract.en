@@ -11,7 +11,7 @@ The public school system provides education through grade 12, although admission
 
 CIA World Factbook demographic statistics
 
-Marshall_Islands_demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.[1]
 

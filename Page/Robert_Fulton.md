@@ -7,7 +7,7 @@ Fulton became interested in steam engines and the idea of steamboats in 1777 whe
 
 Early life
 
-FultonNautilus.jpg'']] Robert Fulton was born on a farm in Little Britain, Pennsylvania, on November 14, 1765. He had three sisters – Isabella, Elizabeth, and Mary, and a younger brother, Abraham.[3]
+'']] Robert Fulton was born on a farm in Little Britain, Pennsylvania, on November 14, 1765. He had three sisters – Isabella, Elizabeth, and Mary, and a younger brother, Abraham.[3]
 
 For six years, he lived in Philadelphia, where he painted portraits and landscapes, drew houses and machinery, and was able to send money home to help support his mother. In 1785, Fulton bought a farm at Hopewell Township in Washington County near Pittsburgh for £80 (equivalent to $ in 2018), and moved his mother and family into it.
 
@@ -16,21 +16,19 @@ Work
 
 Career in Europe (1786–1806)
 
-Fulton's_submarine_design.jpg At the age of 23, Fulton traveled to Europe, where he would live for the next twenty years. He went to England in 1786, carrying several letters of introduction to Americans abroad from prominent individuals he had met in Philadelphia. He had already corresponded with artist Benjamin West; their fathers had been close friends. West took Fulton into his home, where Fulton lived for several years and studied painting. Fulton gained many commissions painting portraits and landscapes, which allowed him to support himself. He continued to experiment with mechanical inventions.[4]
+At the age of 23, Fulton traveled to Europe, where he would live for the next twenty years. He went to England in 1786, carrying several letters of introduction to Americans abroad from prominent individuals he had met in Philadelphia. He had already corresponded with artist Benjamin West; their fathers had been close friends. West took Fulton into his home, where Fulton lived for several years and studied painting. Fulton gained many commissions painting portraits and landscapes, which allowed him to support himself. He continued to experiment with mechanical inventions.[4]
 
 Fulton became caught up in the enthusiasm of the "Canal Mania". In 1793 he began developing his ideas for tugboat canals with inclined planes instead of locks. He obtained a patent for this idea in 1794 and also began working on ideas for the steam power of boats. He published a pamphlet about canals and patented a dredging machine and several other inventions. In 1794, he moved to Manchester to gain practical knowledge of English canal engineering. While there he became friendly with Robert Owen, a cotton manufacturer and early socialist. Owen agreed to finance the development and promotion of Fulton's designs for inclined planes and earth-digging machines; he was instrumental in introducing the American to a canal company, which awarded him a sub-contract. But Fulton was not successful at this practical effort and he gave up the contract after a short time.[5]
 
-Robert_Fulton_por_HOUDON,_Jean-Antoine_1803.jpg, 1803.]]
+, 1803.]]
 
 As early as 1793, Fulton proposed plans for steam-powered vessels to both the United States and British governments. The first steamships had appeared considerably earlier. The earliest steam-powered ship, in which the engine moved oars, was built by Claude de Jouffroy in France. Called the _Palmipède_, it was tested on the Doubs in 1776. In 1783, de Jouffroy built the _Phyroscaphe_, the first paddle steamer, which sailed successfully on the Saône. The first successful trial run of a steamboat in America had been made by inventor John Fitch, on the Delaware River on August 22, 1787. William Symington had successfully tried steamboats in 1788, and it seems probable that Fulton was aware of these developments.
 
 In England, Fulton met the Duke of Bridgewater, Francis Egerton, whose canal, the first to be constructed in Britain, was being used for trials of a steam tug. Fulton became very enthusiastic about the canals, and wrote a 1796 treatise on canal construction, suggesting improvements to locks and other features. Working for the Duke of Bridgewater between 1796 and 1799, Fulton had a boat constructed in the Duke's timber yard, under the supervision of Benjamin Powell. After installation of the machinery supplied by the engineers Bateman and Sherratt of Salford, the boat was duly christened _Bonaparte_ in honour of Fulton having served under Napoleon. After expensive trials, because of the configuration of the design, the team feared the paddles might damage the clay lining of the canal and eventually abandoned the experiment. In 1801, Bridgewater instead ordered eight vessels for his canal based on _Charlotte Dundas_, constructed by Symington.
 
-Location_and_plaque_of_the_Fulton_experiment_9_August_1803.jpg
-
 In 1797 Fulton went to Paris, where he was well known as an inventor. He studied French and German, along with mathematics and chemistry. In Paris, Fulton met James Rumsey, an inventor from Virginia with an interest in steamboats, who in 1786 ran his own first steamboat up the Potomac River. Fulton also exhibited the first panorama painting to be shown in Paris, Pierre Prévost's _Vue de Paris depuis les Tuileries_ (1800), on what is still called _Rue des Panoramas_ (Panorama Street) today.[6] While living in France, Fulton designed the first working muscle-powered submarine, _Nautilus_, between 1793 and 1797. He also experimented with torpedoes. When tested, his submarine operated underwater for 17 minutes in 25 feet of water. He asked the government to subsidize its construction, but he was turned down twice. Eventually he approached the Minister of Marine and in 1800 was granted permission to build.[7] The shipyard Perrier in Rouen built it, and the submarine sailed first in July 1800 on the Seine River in the same city.
 
-Plaque_commémorative_à_Robert_Fulton,_Rouen.JPG, made in 1918 to thank the U.S.A. for their involvement in the First World War]] USA-NYC-East_River_Ferry.jpg
+, made in 1918 to thank the U.S.A. for their involvement in the First World War]]
 
 In France, Fulton met Robert R. Livingston, who was appointed as U.S. Ambassador to France in 1801. He also had a scientifically curious mind, and the two men decided to collaborate on building a steamboat and to try operating it on the Seine. Fulton experimented with the water resistance of various hull shapes, made drawings and models, and had a steamboat constructed. At the first trial the boat ran perfectly, but the hull was later rebuilt and strengthened. On August 9, 1803, when this boat was driven up the River Seine, it sank. The boat was long, beam, and made between against the current.
 
@@ -68,7 +66,7 @@ Five ships of the United States Navy have borne the name _"USS Fulton"_ in honor
 
 Fulton Hall at the United States Merchant Marine Academy houses the Department of Marine Engineering and included laboratories for diesel and steam engineering, refrigeration, marine engineering, thermodynamics, materials testing, machine shop, mechanical engineering, welding, electrical machinery, control systems, electric circuits, engine room simulators and graphics.
 
-US-$2-SC-1896-Fr.247.jpg]]
+]]
 
 Bronze statues of Fulton and Christopher Columbus represent commerce on the balustrade of the galleries of the Main Reading Room in the Thomas Jefferson Building of the Library of Congress on Capitol Hill in Washington, D.C. They are two of 16 historical figures, each pair representing one of the 8 pillars of civilization.
 

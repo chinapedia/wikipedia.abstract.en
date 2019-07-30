@@ -18,7 +18,7 @@ There is no certain information on Mieszko I's life before he took control over 
 
 Origin and meaning of his name
 
-Mieszko_I.PNG from the 19th century]] There are three major theories concerning the origin and meaning of Mieszko I's name. The most popular theory, proposed by Jan Długosz, explains that Mieszko is a diminutive of _Mieczysław_, a combination of two elements or lexemes: _Miecz_ meaning sword and _Sław_ meaning famous. Today, this theory is rejected by the majority of Polish historians, who consider the name Mieczysław to have been invented by Długosz to explain the origin of the name Mieszko. Today, we know that ancient Slavs never formed their names using either animal names or weapon names. Ancient Slavic names were abstract in nature. The same explanation rules out another theory about the origin of the name Mieszko, which links the name with the Polish word miś/miśko meaning bear, as no animal names were used to form honorable Polish names among Polish nobility.[6]
+from the 19th century]] There are three major theories concerning the origin and meaning of Mieszko I's name. The most popular theory, proposed by Jan Długosz, explains that Mieszko is a diminutive of _Mieczysław_, a combination of two elements or lexemes: _Miecz_ meaning sword and _Sław_ meaning famous. Today, this theory is rejected by the majority of Polish historians, who consider the name Mieczysław to have been invented by Długosz to explain the origin of the name Mieszko. Today, we know that ancient Slavs never formed their names using either animal names or weapon names. Ancient Slavic names were abstract in nature. The same explanation rules out another theory about the origin of the name Mieszko, which links the name with the Polish word miś/miśko meaning bear, as no animal names were used to form honorable Polish names among Polish nobility.[6]
 
 The second most popular theory about the origin and sense of Mieszko's name can be traced to the very old legend, firstly described by Gallus Anonymus, according to which Mesco (the Latinized form used by the earliest sources) was blind during his first seven years of life. The chronicler related this story (a typical medieval allegory) as follows:
 
@@ -41,7 +41,7 @@ His Reign
 
 Early reign
 
-Grody_w_okresie_Mieszka_I.png Polska_960_-_992.svg under Mieszko's rule (ca. 960–992)]]
+under Mieszko's rule (ca. 960–992)]]
 
 Mieszko I took over the tribal rule after his father's death ca. 950–960, probably closer to the latter date.[11] Due to the lack of sources it is not possible to determine exactly which lands he inherited. Certainly among them were the areas inhabited by the Polans and Goplans,[12] as well as the Sieradz-Łęczyca lands and Kuyavia.[13] It is possible that this state included also Masovia[14] and Gdańsk Pomerania.[15] Soon the new ruler had faced the task of integrating the relatively large, ethnically and culturally heterogeneous territory. Although the residents of areas controlled by Mieszko spoke mostly one language, had similar beliefs and reached a similar level of economic and general development, they were socially connected primarily by tribal structures. It appears that the elders cooperating with the Duke first felt the need for super-tribal unity, as expansion allowed them to broaden their influence.
 
@@ -59,7 +59,7 @@ The homage is then a separate issue, since, according to the chronicle of Thietm
 
 Marriage and conversion to Catholicism
 
-Złota_Kaplica_Poznań_RB1.JPG by Christian Daniel Rauch in the Golden Chapel of Poznań Cathedral]] Mieszko_Kraszewskiego.jpg, daughter of Boleslaus I, becomes an evangelist of Roman Catholicism'']] Baptism_of_Poland.Mural_in_Gniezno.JPG commemorating the baptism of Mieszko]]
+by Christian Daniel Rauch in the Golden Chapel of Poznań Cathedral]] , daughter of Boleslaus I, becomes an evangelist of Roman Catholicism'']] commemorating the baptism of Mieszko]]
 
 Probably in 964 Mieszko began negotiations with the Bohemian ruler Boleslav I the Cruel. As a result, in 965 Mieszko I married his daughter Dobrawa (also named _Dobrava_, _Doubravka_ or _Dąbrówka_).[24] This political Polish-Bohemian alliance is likely to have been initiated by the Polish ruler. It is probable that the marriage was officially arranged in February 965.[25]
 
@@ -84,8 +84,6 @@ The Catholicization also led to political changes. The emergent power structures
 However, the conversion of the Polish population to Catholicism was a long-term process, and was not completed during the reign of Mieszko I. The duke probably had to deal with rebellions led by the old pagan priest caste. In some villages, the old Slavic beliefs and customs were continued until the 16th century.
 
 Conquest of Pomerania
-
-Mieszko_I_of_Poland.PNG
 
 After the normalization of relations with the Holy Roman Empire and Bohemia, Mieszko I returned to his plans of conquest of the more western part of Pomerania. On 21 September 967 the Polish-Bohemian troops prevailed in the decisive battle against the Wolinians led by Wichmann the Younger, which gave Mieszko the control over the mouth of the Odra River.[31] The German margraves had not opposed Mieszko's activities in Pomerania, perhaps even supported them; the death of the rebellious Wichmann, who succumbed to his wounds soon after the battle, may have been in line with their interests. A telling incident took place after the battle, a testimony to Mieszko's high standing among the Empire's dignitaries, just one year after his baptism: Widukind of Corvey reported that the dying Wichmann asked Mieszko to hand over Wichmann's weapons to Emperor Otto I, to whom Wichmann was related. For Mieszko the victory had to be a satisfying experience, especially in light of his past defeats inflicted by Wichmann.
 
@@ -117,7 +115,7 @@ Some historians suggest that the regions of Sandomierz, Lublin and Czerwień (we
 
 Involvement in German internal disputes; Second marriage
 
-Otto_II._(HRR).jpg, from _Registrum Gregorii_, c. 983]]
+, from _Registrum Gregorii_, c. 983]]
 
 After the death of Emperor Otto I in 973 Mieszko, like his brother-in-law, Duke Boleslav II of Bohemia, joined the German opposition in support of the attempted imperial succession of Henry II, Duke of Bavaria. Mieszko may have been motivated by revenge because of the (presumably) negative verdict of the Quedlinburg summit, but, more importantly, he may have wanted more favorable terms for his cooperation with Germany.[44] The participation of Mieszko in the conspiracy against Otto II was documented in only one source, the chronicles of the monastery in Altaich in its entry for the year 974. The Duke of Bavaria was defeated, and Emperor Otto II regained full power. Shortly afterwards, the young emperor waged a retaliatory expedition against Bohemia, in 978 forcing Duke Boleslav into submission.
 
@@ -125,7 +123,7 @@ In 977 Mieszko's wife, Dobrawa, died. At first there were no apparent repercussi
 
 In 979 Otto II supposedly attacked Poland. Mention of this event can be found in the _Chronicle of the Bishops of Cambrai_ from the 11th century. The effects of this expedition are unknown, but it is suspected that the Emperor did not succeed. Due to bad weather, the Emperor was back at the border of Thuringia and Saxony in December of that year. It is uncertain whether the invasion actually took place. The chronicle only stated that it was an expedition "against the Slavs". Archaeological discoveries appear to support the thesis of Otto II's invasion. In the last quarter of the 10th century there had been a radical expansion of the fortifications at Gniezno and Ostrów Lednicki, which may be associated with the Polish-German war, or the expectation of such.[45] The duration of the expedition suggests that it may have reached as far east as the vicinity of Poznań.[46]
 
-4_Gift_Bringers_of_Otto_III.jpg, Germania, Gallia, and Roma, bringing offerings to Otto III; from a gospel book dated 990]] The Polish-German agreement was concluded in the spring or possibly summer of 980,[47] because in November of that year Otto II left his country and went to Italy. It appears that during this time Mieszko I married Oda, daughter of Dietrich of Haldensleben, Margrave of the Northern March, after abducting her from the monastery of Kalbe.[48] Chronicler Thietmar described the event as follows:
+, Germania, Gallia, and Roma, bringing offerings to Otto III; from a gospel book dated 990]] The Polish-German agreement was concluded in the spring or possibly summer of 980,[47] because in November of that year Otto II left his country and went to Italy. It appears that during this time Mieszko I married Oda, daughter of Dietrich of Haldensleben, Margrave of the Northern March, after abducting her from the monastery of Kalbe.[48] Chronicler Thietmar described the event as follows:
 
 
 
@@ -147,7 +145,7 @@ Mieszko decided on the alliance with Sweden probably in order to help protect hi
 
 Participation in German civil war
 
-Mieszko_I_by_Lesser.PNG]]
+]]
 
 In 982 Emperor Otto II suffered a disastrous defeat against the Emirate of Sicily. The resulting weakness of the imperial power was exploited by the Lutici, who initiated a great uprising of the Polabian Slavs in 983. The German authority in the area ceased to exist and the Polabian tribes began to threaten the Empire. The death of Otto II at the end of that year contributed further to the unrest. Ultimately the Lutici and the Obotrites were able to liberate themselves from the German rule for the next two centuries.
 
@@ -196,7 +194,7 @@ _Dagome iudex_ is of capital importance for Polish history because it gives a ge
 
 Late reign, death and succession
 
-Grobowiec_Mieszka_I_i_Bolesława_I_Chrobrego.jpg cenotaph of Mieszko I at the Poznań Cathedral]]
+cenotaph of Mieszko I at the Poznań Cathedral]]
 
 During his last years of life Mieszko remained loyal to the alliance with the Holy Roman Empire. In 991 he arrived at a gathering in Quedlinburg, where he participated in the customary exchange of gifts with Otto III and Empress Theophanu. In the same year he took part in a joint expedition with the young king to Brandenburg.
 
@@ -218,7 +216,7 @@ Many trade routes went through the Polish lands, which facilitated the developme
 
 Accomplishments
 
-Denar_rys_mieszko1.png (either Mieszko I or his grandson Mieszko II)]]
+(either Mieszko I or his grandson Mieszko II)]]
 
 -   Unification of Polish lands. Mieszko's state was the first state that could be called Poland. He is often considered the founder, the principal creator and builder of the Polish state.[71]
 -   Acceptance of Roman Catholicism and therefore inclusion of his country in the mainstream civilization and political structures of Roman Catholic Europe.
@@ -230,7 +228,7 @@ Denar_rys_mieszko1.png (either Mieszko I or his grandson Mieszko II)]]
 
 Marriages and issue
 
-Poznań_Katedra_Podziemia_Grobowiec_Mieszka_I_RB1.JPG, was desecrated, possibly by Bretislaus I, Duke of Bohemia, in 1039. According to a new theory, Bishop Jordan was buried here, while Mieszko's grave location is probably the Chapel of the Virgin Mary at Ostrów Tumski _palatium_ complex.[74]]]
+, was desecrated, possibly by Bretislaus I, Duke of Bohemia, in 1039. According to a new theory, Bishop Jordan was buried here, while Mieszko's grave location is probably the Chapel of the Virgin Mary at Ostrów Tumski _palatium_ complex.[74]]]
 
 According to Gallus Anonymus, before becoming a Roman Catholic Mieszko had seven pagan wives, whom he was required to relinquish, leaving Dobrawa as his only spouse. Nothing is known of the fates of any possible children from these relationships.[75] In 965, before his baptism, Mieszko married Dobrawa (b. 940/45 – d. 977), daughter of Boleslav I the Cruel, Duke of Bohemia. They had two children:
 

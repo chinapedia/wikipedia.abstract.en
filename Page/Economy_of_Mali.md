@@ -23,7 +23,7 @@ The mean wage was equivalent to $0.65 per hour in 2009.
 
 Agriculture
 
-Mali_ag_map_2001_USDA.jpg lines and crop intensity percentages. Mali's most productive agricultural region is located between Bamako and Mopti. Irrigation water is used mainly for rice while cotton is grown as a rainfed crop. (USDA: 2001)]]
+lines and crop intensity percentages. Mali's most productive agricultural region is located between Bamako and Mopti. Irrigation water is used mainly for rice while cotton is grown as a rainfed crop. (USDA: 2001)]]
 
 Agricultural activities occupy 70% of Mali's labor force and provide 42% of the GDP. Cotton and livestock make up 75%–80% of Mali's annual exports. Small-scale traditional farming dominates the agricultural sector, with subsistence farming (of cereals, primarily sorghum, pearl millet, and maize) on about 90% of the under cultivation.
 
@@ -37,7 +37,7 @@ Production has rebounded since 1987 due to agricultural policy reforms undertake
 
 Rice
 
-Mali_ricefarmers.jpg Rice is grown extensively along the banks of the Niger between Ségou and Mopti, with the most important rice-producing area at the Office du Niger, located north of Ségou toward the Mauritanian border. Using water diverted from the Niger, the Office du Niger irrigates about of land for rice and sugarcane production. About one-third of Mali's paddy rice is produced at the Office du Niger.
+Rice is grown extensively along the banks of the Niger between Ségou and Mopti, with the most important rice-producing area at the Office du Niger, located north of Ségou toward the Mauritanian border. Using water diverted from the Niger, the Office du Niger irrigates about of land for rice and sugarcane production. About one-third of Mali's paddy rice is produced at the Office du Niger.
 
 Sorghum
 
@@ -52,14 +52,12 @@ The largest concentrations of cattle are in the areas north of Bamako and Ségou
 
 Fishing
 
-FISHERMEN_RIVER_WEST_AFRICA.jpg
-
 The Niger River is also an important source of fish, providing food for riverside communities; the surplus—smoked, salted, and dried—is exported. Due to drought and diversion of river water for agriculture, fish production has steadily declined since the early 1980s.
 
 
 Mining & resources
 
-Le_Mali_cherche_à_développer_ses_réserves_pétrolières_(6046081150).jpg.]]
+.]]
 
 Mining has long been an important aspect of the Malian economy. Gold, largest source of Malian exports[3], is still mined in the southern region: at the end of the 20th century Mali had the third highest gold production in Africa (after South Africa and Ghana).[4] These goldfields, the largest of which lie in the Bambouk Mountains in western Mali (Kenieba Cercle), were a major source of wealth and trade as far back as the Ghana Empire.
 
@@ -86,12 +84,12 @@ Other mining operations include kaolin, salt, phosphate, and limestone.[14] The 
 
 Manufacturing
 
-2006Malian_exports.PNG During the colonial period, private capital investment was virtually nonexistent, and public investment was devoted largely to the Office du Niger irrigation scheme and to administrative expenses. Following independence, Mali built some light industries with the help of various donors. Manufacturing, consisting principally of processed agricultural products, accounted for about 8% of the GDP in 1990.
+During the colonial period, private capital investment was virtually nonexistent, and public investment was devoted largely to the Office du Niger irrigation scheme and to administrative expenses. Following independence, Mali built some light industries with the help of various donors. Manufacturing, consisting principally of processed agricultural products, accounted for about 8% of the GDP in 1990.
 
 
 Economic Reform
 
-Mali_treemap.png Between 1992 and 1995, Mali implemented an economic adjustment program that resulted in economic growth and a reduction in financial imbalances. This was reflected in the increased GDP growth rates (9.6% in 2002) and decreased inflation. GDP in 2002 amounted to US$3.2 billion, made up of agriculture 37.8%, industry 26.4% and services 35.9%.
+Between 1992 and 1995, Mali implemented an economic adjustment program that resulted in economic growth and a reduction in financial imbalances. This was reflected in the increased GDP growth rates (9.6% in 2002) and decreased inflation. GDP in 2002 amounted to US$3.2 billion, made up of agriculture 37.8%, industry 26.4% and services 35.9%.
 
 Effective implementation of macroeconomic stabilization and economic liberalization policies and the stable political situation resulted in good economic performance and enabled Mali to strengthen the foundations for a market-oriented economy and encourage private sector development, backed up by significant progress in implementing the country's privatization program. Agricultural reform measures were aimed at diversifying and expanding production as well as at reducing costs.
 
@@ -114,8 +112,6 @@ In 1998, U.S. assistance reached over $40 million. This included $39 million in 
 
 
 Statistics
-
-Dyeing_in_Mali.jpg
 
 GDP: purchasing power parity – $41.22 billion (2017 est.)
 
@@ -152,7 +148,7 @@ INDUSTRIAL PRODUCTION GROWTH RATE: 6.3% (2017 est.)
 
 ELECTRICITY – PRODUCTION: 2.489 billion kWh (2016 est.)
 
-Macina_uncropped.jpg and surrounding farmlands, Mali.]] ELECTRICITY – PRODUCTION BY SOURCE:
+and surrounding farmlands, Mali.]] ELECTRICITY – PRODUCTION BY SOURCE:
 _fossil fuel:_ 68%
 _hydro:_ 31%
 _nuclear:_ 0%

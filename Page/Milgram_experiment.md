@@ -1,4 +1,4 @@
-Milgram_experiment_v2.svg. The subject is led to believe that for each wrong answer, the learner was receiving actual electric shocks, though in reality there were no such punishments. Being separated from the subject, the confederate set up a tape recorder integrated with the electro-shock generator, which played pre-recorded sounds for each shock level.[1]]]
+. The subject is led to believe that for each wrong answer, the learner was receiving actual electric shocks, though in reality there were no such punishments. Being separated from the subject, the confederate set up a tape recorder integrated with the electro-shock generator, which played pre-recorded sounds for each shock level.[1]]]
 
 The MILGRAM EXPERIMENT ON OBEDIENCE TO AUTHORITY FIGURES was a series of social psychology experiments conducted by Yale University psychologist Stanley Milgram. They measured the willingness of study participants, men from a diverse range of occupations with varying levels of education, to obey an authority figure who instructed them to perform acts conflicting with their personal conscience. Participants were led to believe that they were assisting an unrelated experiment, in which they had to administer electric shocks to a "learner." These fake electric shocks gradually increased to levels that would have been fatal had they been real.[2]
 
@@ -8,8 +8,6 @@ The experiments began in July 1961, in the basement of Linsly-Chittenden Hall at
 
 
 Procedure
-
-Milgram_Experiment_advertising.png
 
 Three individuals took part in each session of the experiment:
 
@@ -122,7 +120,7 @@ Milgram also combined the effect of authority with that of conformity. In those 
 
 Replications
 
-A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv serving as the learner]] Around the time of the release of _Obedience to Authority_ in 1973–1974, a version of the experiment was conducted at La Trobe University in Australia. As reported by Perry in her 2012 book _Behind the Shock Machine_, some of the participants experienced long-lasting psychological effects, possibly due to the lack of proper debriefing by the experimenter.[41]
+serving as the learner]] Around the time of the release of _Obedience to Authority_ in 1973–1974, a version of the experiment was conducted at La Trobe University in Australia. As reported by Perry in her 2012 book _Behind the Shock Machine_, some of the participants experienced long-lasting psychological effects, possibly due to the lack of proper debriefing by the experimenter.[41]
 
 In 2002, the British artist Rod Dickinson created _The Milgram Re-enactment_, an exact reconstruction of parts of the original experiment, including the uniforms, lighting, and rooms used. An audience watched the four-hour performance through one-way glass windows.[42][43] A video of this performance was first shown at the CCA Gallery in Glasgow in 2002.
 

@@ -1,4 +1,4 @@
-Mani_Zadeh_MD_Endoscopic_Sinus_Surgery.jpg Sharplan_40C.jpg National_Throat_Nose_and_Ear_Hospital_London_-_geograph.org.uk_-_984640.jpg founded in 1874, in London]]
+founded in 1874, in London]]
 
 OTORHINOLARYNGOLOGY (also called OTOLARYNGOLOGY and OTOLARYNGOLOGY–HEAD AND NECK SURGERY) is a surgical subspecialty within medicine that deals with conditions of the EAR, NOSE, AND THROAT (ENT) and related structures of the head and neck. Doctors who specialize in this area are called otorhinolaryngologists, otolaryngologists, ENT doctors, ENT surgeons, or head and neck surgeons. Patients seek treatment from an otorhinolaryngologist for diseases of the ear, nose, throat, base of the skull, and for the surgical management of cancers and benign tumors of the head and neck.
 

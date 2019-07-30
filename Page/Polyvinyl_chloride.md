@@ -32,7 +32,7 @@ PVC was accidentally synthesized in 1872 by German chemist Eugen Baumann.[9] The
 
 Production
 
-Polyvinyl chloride is produced by polymerization of the vinyl chloride monomer (VCM), as shown.[10] PVC-polymerisation.svg
+Polyvinyl chloride is produced by polymerization of the vinyl chloride monomer (VCM), as shown.[10]
 
 About 80% of production involves suspension polymerization. Emulsion polymerization accounts for about 12%, and bulk polymerization accounts for 8%. Suspension polymerization affords particles with average diameters of 100–180 μm, whereas emulsion polymerization gives much smaller particles of average size around 0.2 μm. VCM and water are introduced into the reactor along with a polymerization initiator and other additives. The contents of the reaction vessel are pressurized and continually mixed to maintain the suspension and ensure a uniform particle size of the PVC resin. The reaction is exothermic and thus requires cooling. As the volume is reduced during the reaction (PVC is denser than VCM), water is continually added to the mixture to maintain the suspension.[11]
 
@@ -65,7 +65,7 @@ While Di-2ethylhexylphthalate (DEHP) has been medically approved for many years 
 
 DEHP alternatives, which are gradually replacing it, are Adipates, Butyryltrihexylcitrate (BTHC), Cyclohexane-1,2-dicarboxylic acid, diisononylester (DINCH), Di(2-ethylhexyl)terephthalate, polymerics and trimellitic acid, 2-ethylhexylester (TOTM).
 
-Bis(2-ethylhexyl)phthalate.png was a common plasticizer for PVC but is being replaced by higher molecular weight phthalates.]]
+was a common plasticizer for PVC but is being replaced by higher molecular weight phthalates.]]
 
 Metal stabilizers
 
@@ -133,8 +133,6 @@ PVC is chemically resistant to acids, salts, bases, fats, and alcohols, making i
 
 Applications
 
-Laying_sewer_hi_res_(2).jpg
-
 Pipes
 
 Roughly half of the world's polyvinyl chloride resin manufactured annually is used for producing pipes for municipal and industrial applications.[38] In the water distribution market, it accounts for 66% of the market in the U.S., and in sanitary sewer pipe applications, it accounts for 75%.[39][40] Buried PVC pipes in both water and sanitary sewer applications that are in diameter and larger are typically joined by means of a gasket-sealed joint. The most common type of gasket utilized in North America is a metal reinforced elastomer, commonly referred to as a Rieber sealing system.[41] Its light weight, low cost, and low maintenance make it attractive. However, it must be carefully installed and bedded to ensure longitudinal cracking and overbelling does not occur. Additionally, PVC pipes can be fused together using various solvent cements, or heat-fused (butt-fusion process, similar to joining high-density polyethylene (HDPE) pipe), creating permanent joints that are virtually impervious to leakage.
@@ -149,17 +147,15 @@ In a fire, PVC-coated wires can form hydrogen chloride fumes; the chlorine serve
 
 Construction
 
-Builder's_tudorbethan.jpg" house with uPVC gutters and downspouts, fascia, decorative imitation "half-timbering", windows, and doors]] PVC is a common, strong but lightweight plastic used in construction. It is made softer and more flexible by the addition of plasticizers. If no plasticizers are added, it is known as uPVC (unplasticized polyvinyl chloride) or rigid PVC.
+" house with uPVC gutters and downspouts, fascia, decorative imitation "half-timbering", windows, and doors]] PVC is a common, strong but lightweight plastic used in construction. It is made softer and more flexible by the addition of plasticizers. If no plasticizers are added, it is known as uPVC (unplasticized polyvinyl chloride) or rigid PVC.
 
-uPVC is extensively used in the building industry as a low-maintenance material, particularly in Ireland, the United Kingdom, in the United States and Canada. In the U.S. and Canada it is known as vinyl or vinyl siding.[43] The material comes in a range of colors and finishes, including a photo-effect wood finish, and is used as a substitute for painted wood, mostly for window frames and sills when installing insulated glazing in new buildings; or to replace older single-glazed windows, as it does not decompose and is weather-resistant. Other uses include fascia, and siding or weatherboarding. This material has almost entirely replaced the use of cast iron for plumbing and drainage, being used for waste pipes, drainpipes, gutters and downspouts. uPVC is known as having strong resistance against chemicals, sunlight, and oxidation from water.[44] Double_glazed_Units.JPG
+uPVC is extensively used in the building industry as a low-maintenance material, particularly in Ireland, the United Kingdom, in the United States and Canada. In the U.S. and Canada it is known as vinyl or vinyl siding.[43] The material comes in a range of colors and finishes, including a photo-effect wood finish, and is used as a substitute for painted wood, mostly for window frames and sills when installing insulated glazing in new buildings; or to replace older single-glazed windows, as it does not decompose and is weather-resistant. Other uses include fascia, and siding or weatherboarding. This material has almost entirely replaced the use of cast iron for plumbing and drainage, being used for waste pipes, drainpipes, gutters and downspouts. uPVC is known as having strong resistance against chemicals, sunlight, and oxidation from water.[44]
 
 Signs
 
 Polyvinyl chloride is formed in flat sheets in a variety of thicknesses and colors. As flat sheets, PVC is often expanded to create voids in the interior of the material, providing additional thickness without additional weight and minimal extra cost (see Closed-cell PVC foamboard). Sheets are cut using saws and rotary cutting equipment. Plasticized PVC is also used to produce thin, colored, or clear, adhesive-backed films referred to simply as vinyl. These films are typically cut on a computer-controlled plotter (see Vinyl cutter) or printed in a wide-format printer. These sheets and films are used to produce a wide variety of commercial signage products, including car body stripes and stickers.
 
 Clothing
-
-Men's_black_PVC_pants_01.jpg
 
 PVC fabric is water-resistant, used for its weather-resistant qualities in coats, skiing equipment, shoes, jackets, aprons, and sports bags.
 

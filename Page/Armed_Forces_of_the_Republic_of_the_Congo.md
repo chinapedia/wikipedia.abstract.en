@@ -57,16 +57,12 @@ Anti-Aircraft guns
 
 Navy
 
-US_Navy_trains_Congolese_sailors.jpg
-
 The Navy has around 800 personnel. In October 2007, the US Navy provided some training to Congolese Navy personnel in Pointe Noire, a port city that is the second largest settlement in the country.[13]
 
 As of 2016 it was commanded by Rear Admiral Andre Bouagnabea-Moundanza.[14]
 
 
 Air Force
-
-Roundel_of_the_Congolese_Air_Force.svg
 
 After achieving independence from France in 1960, the Congolese Air Force (Force Aerienne Congolaise) was started with equipment such as the Douglas C-47s, Broussards and Bell 47Gs, these were followed by Nord Noratlas tactical transports and Sud Alouette helicopter. In the 1970s the air force switched to Soviet equipment. This included five Ilyushin IL-14 and six turboprop Antonov An-24 transports and an An-26 in return for providing bases for Cuban MiG-17 operations over Angola. These fighters and a few MiG-15UTI combat trainers were transferred to the FAC. In 1990 these fighter were replaced by 16 USSR supplied MiG-21MF/bis Fishbeds plus a couple of MiG-21US trainers. Together with a Soviet training mission which stayed until late 1991, during that time there were numerous accidents that involved both Soviet and Congolese personnel. After the Soviets left there was only limited funding for MiG operations and they were withdrawn. Six Mi-8 helicopters were delivered from Ukraine in mid-1997 before the Cobra rebel takeover.
 

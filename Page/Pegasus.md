@@ -1,4 +1,4 @@
-Domitian_Denarius_Pegasus_RIC1494_1.jpg PEGASUS (, _Pḗgasos_; ) is a mythical winged divine horse, and one of the most recognized creatures in Greek mythology. Usually depicted as pure white, Pegasus is the offspring of the Olympian god Poseidon. He was foaled by the Gorgon Medusa[1] upon her death, when the hero Perseus decapitated her. Pegasus is the brother of Chrysaor and the uncle of Geryon.
+PEGASUS (, _Pḗgasos_; ) is a mythical winged divine horse, and one of the most recognized creatures in Greek mythology. Usually depicted as pure white, Pegasus is the offspring of the Olympian god Poseidon. He was foaled by the Gorgon Medusa[1] upon her death, when the hero Perseus decapitated her. Pegasus is the brother of Chrysaor and the uncle of Geryon.
 
 Greco-Roman poets wrote about the ascent of Pegasus to heaven after his birth, and his subsequent obeisance to Zeus, king of the gods, who instructed him to bring lightning and thunder from Olympus. Friend of the Muses, Pegasus created Hippocrene, the fountain on Mt. Helicon.
 
@@ -9,7 +9,7 @@ The symbolism of Pegasus varies with time. Symbolic of wisdom and fame from the 
 
 Etymology
 
-Pegaz_Opera_Poznań.jpg (Max Littmann, 1910)]] The poet Hesiod presents a folk etymology of the name _Pegasus_ as derived from πηγή _pēgē_ "spring, well": "the _pegai_ of Okeanos, where he was born."[2]
+(Max Littmann, 1910)]] The poet Hesiod presents a folk etymology of the name _Pegasus_ as derived from πηγή _pēgē_ "spring, well": "the _pegai_ of Okeanos, where he was born."[2]
 
 A proposed etymology of the name is Luwian _pihassas_, meaning "lightning", and _Pihassassi_, a local Luwian-Hittite name in southern Cilicia of a weather god represented with thunder and lightning. The proponents of this etymology adduce Pegasus' role, reported as early as Hesiod, as the bringer of thunderbolts to Zeus. It was first suggested in 1952 and remains widely accepted,[3] but Robin Lane Fox (2009) has criticized it as implausible.[4]
 
@@ -18,7 +18,7 @@ Dr. Michael Brown, who has been studying ancient and medieval Greek poetry in th
 
 Pegasus and springs
 
-Winged_horse_Dodona_Louvre_Br149.jpg According to legend, everywhere the winged horse struck his hoof to the earth, an inspiring water spring burst forth. One of these springs was upon the Muses' Mount Helicon, the _Hippocrene_ ("horse spring"),[6] opened, Antoninus Liberalis suggested,[7] at the behest of Poseidon to prevent the mountain swelling with rapture at the song of the Muses; another was at Troezen.[8] Hesiod relates how Pegasus was peacefully drinking from a spring when the hero Bellerophon captured him. Hesiod also says Pegasus carried thunderbolts for Zeus.
+According to legend, everywhere the winged horse struck his hoof to the earth, an inspiring water spring burst forth. One of these springs was upon the Muses' Mount Helicon, the _Hippocrene_ ("horse spring"),[6] opened, Antoninus Liberalis suggested,[7] at the behest of Poseidon to prevent the mountain swelling with rapture at the song of the Muses; another was at Troezen.[8] Hesiod relates how Pegasus was peacefully drinking from a spring when the hero Bellerophon captured him. Hesiod also says Pegasus carried thunderbolts for Zeus.
 
 
 Birth
@@ -35,7 +35,7 @@ Pegasus aided the hero Bellerophon in his fight against the Chimera. There are v
 
 Perseus
 
-Pegasus_iran.jpgn era bronze plate depicting Pegasus (_Pegaz_ in Persian), excavated in Masjed Soleyman, Khūzestān, Iran.]] Michaud's _Biographie universelle_ relates that when Pegasus was born, he flew to where thunder and lightning are released. Then, according to certain versions of the myth, Athena tamed him and gave him to Perseus, who flew to Ethiopia to help Andromeda.[11]
+n era bronze plate depicting Pegasus (_Pegaz_ in Persian), excavated in Masjed Soleyman, Khūzestān, Iran.]] Michaud's _Biographie universelle_ relates that when Pegasus was born, he flew to where thunder and lightning are released. Then, according to certain versions of the myth, Athena tamed him and gave him to Perseus, who flew to Ethiopia to help Andromeda.[11]
 
 In fact, Pegasus is a late addition to the story of Perseus, who flew on his own with the sandals lent to him by Hermes.
 
@@ -49,7 +49,7 @@ Legacy
 
 World War II
 
-British_Airborne_Units.svg riding the flying horse Pegasus.]] During World War II, the silhouetted image of Bellerophon the warrior, mounted on the winged Pegasus, was adopted by the United Kingdom's newly raised parachute troops in 1941 as their upper sleeve insignia. The image clearly symbolized a warrior arriving at a battle by air, the same tactics used by paratroopers. The square upper-sleeve insignia comprised Bellerophon/Pegasus in light blue on a maroon background. One source suggests that the insignia was designed by famous English novelist Daphne du Maurier, who was wife of the commander of the 1st Airborne Division (and later the expanded British Airborne Forces), General Frederick "Boy" Browning. According to the British Army Website, the insignia was designed by the celebrated East Anglian painter Major Edward Seago in May 1942. The maroon background on the insignia was later used again by the Airborne Forces when they adopted the famous maroon beret in Summer 1942. The beret was the origin of the German nickname for British airborne troops, the Red Devils. Today's Parachute Regiment carries on the maroon beret tradition. The selection process for the elite Parachute Regiment is called Pegasus Company (often abbreviated to "P Company"). In 2015 it was announced that the units of 16 Air Assault Brigade would once again use the Pegasus insignia after a 15-year hiatus.[14]
+riding the flying horse Pegasus.]] During World War II, the silhouetted image of Bellerophon the warrior, mounted on the winged Pegasus, was adopted by the United Kingdom's newly raised parachute troops in 1941 as their upper sleeve insignia. The image clearly symbolized a warrior arriving at a battle by air, the same tactics used by paratroopers. The square upper-sleeve insignia comprised Bellerophon/Pegasus in light blue on a maroon background. One source suggests that the insignia was designed by famous English novelist Daphne du Maurier, who was wife of the commander of the 1st Airborne Division (and later the expanded British Airborne Forces), General Frederick "Boy" Browning. According to the British Army Website, the insignia was designed by the celebrated East Anglian painter Major Edward Seago in May 1942. The maroon background on the insignia was later used again by the Airborne Forces when they adopted the famous maroon beret in Summer 1942. The beret was the origin of the German nickname for British airborne troops, the Red Devils. Today's Parachute Regiment carries on the maroon beret tradition. The selection process for the elite Parachute Regiment is called Pegasus Company (often abbreviated to "P Company"). In 2015 it was announced that the units of 16 Air Assault Brigade would once again use the Pegasus insignia after a 15-year hiatus.[14]
 
 During the airborne phase of the Normandy invasion on the night of 5–6 June 1944, British 6th Airborne Division captured all its key objectives in advance of the seaborne assault, including the capture and holding at all costs of a vital bridge over the Caen Canal, near Ouistreham. In memory of their tenacity, the bridge has been known ever since as Pegasus Bridge.
 

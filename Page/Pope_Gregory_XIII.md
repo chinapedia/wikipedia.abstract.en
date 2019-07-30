@@ -38,7 +38,7 @@ Also noteworthy during his pontificate as a further means of putting into practi
 
 The Gregorian calendar
 
-Gregorianscher_Kalender_Petersdom.jpg celebrating the introduction of the Gregorian calendar.]]
+celebrating the introduction of the Gregorian calendar.]]
 
 Pope Gregory XIII is best known for his commissioning of the calendar after being initially authored by the doctor/astronomer Aloysius Lilius[3][4] and with the aid of Jesuit priest/astronomer Christopher Clavius who made the final modifications. The reason for the reform was that the average length of the year in the Julian calendar was too long – as it treated each year as 365 days, 6 hours in length, whereas calculations showed that the actual mean length of a year is slightly less (365 days, 5 hours and 49 minutes). As a result, the date of the vernal equinox had slowly (over the course of 13 centuries) slipped to 10 March, while the computus (calculation) of the date of Easter still followed the traditional date of 21 March.
 
@@ -52,7 +52,7 @@ The Gregorian calendar was not accepted in eastern Christendom for several hundr
 
 Foreign policy
 
-JapaneseDelegatesAndPopeGregory13.JPG meet with Pope Gregory XIII in 1585.]]
+meet with Pope Gregory XIII in 1585.]]
 
 Though he expressed the conventional fears of the danger from the Turks, Gregory XIII's attentions were more consistently directed to the dangers from the Protestants. He also encouraged the plans of Philip II to dethrone Elizabeth I of England (reigned from 1558–1603), thus helping to develop an atmosphere of subversion and imminent danger among English Protestants, who looked on any Catholic as a potential traitor.
 
@@ -64,7 +64,7 @@ In 1580, he was persuaded by English Jesuits to moderate or suspend the Bull _Re
 
 Pope Gregory XIII had no connection with the plot of Henry, Duke of Guise, and his brother, Charles, Duke of Mayenne, to assassinate Elizabeth I in 1582.
 
-Gregory_XIII_medal.jpg After the St. Bartholomew's Day Massacres of Huguenots in France in 1572, Pope Gregory celebrated a _Te Deum_ mass. However, some hold that he was ignorant of the nature of the plot at the time, having been told the Huguenots had tried to take over the government but failed. [8] Three frescoes in the Sala Regia hall of the Vatican depicting the events were painted by Giorgio Vasari, and a commemorative medal was issued with Gregory's portrait and on the obverse a chastising angel, sword in hand and the legend UGONOTTORUM STRAGES ("Overthrow of the Huguenots").[9]
+After the St. Bartholomew's Day Massacres of Huguenots in France in 1572, Pope Gregory celebrated a _Te Deum_ mass. However, some hold that he was ignorant of the nature of the plot at the time, having been told the Huguenots had tried to take over the government but failed. [8] Three frescoes in the Sala Regia hall of the Vatican depicting the events were painted by Giorgio Vasari, and a commemorative medal was issued with Gregory's portrait and on the obverse a chastising angel, sword in hand and the legend UGONOTTORUM STRAGES ("Overthrow of the Huguenots").[9]
 
 Cultural patronage
 

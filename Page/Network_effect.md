@@ -1,5 +1,3 @@
-Metcalfe-Network-Effect
-
 A NETWORK EFFECT (also called NETWORK EXTERNALITY or DEMAND-SIDE ECONOMIES OF SCALE) is the effect described in economics and business that an additional user of a good or service has on the value of that product to others. When a network effect is present, the value of a product or service increases according to the number of others using it.[1]
 
 The classic example is the telephone, where a greater number of users increases the value to each. A positive externality is created when a telephone is purchased without its owner intending to create value for other users, but does so regardless. Online social networks work similarly, with sites like Twitter and Facebook increasing in value to each member as more users join.
@@ -108,7 +106,7 @@ By contrast, the value of a news site is primarily proportional to the quality o
 
 Rail gauge
 
-Rail_gauge_world.svg There are strong network effects in the initial choice of rail gauge, and in gauge conversion decisions. Even when placing isolated rails not connected to any other lines, track layers usually choose a standard rail gauge so they can use off-the-shelf rolling stock. Although a few manufacturers make rolling stock that can adjust to different rail gauges, most manufacturers make rolling stock that only works with one of the standard rail gauges.
+There are strong network effects in the initial choice of rail gauge, and in gauge conversion decisions. Even when placing isolated rails not connected to any other lines, track layers usually choose a standard rail gauge so they can use off-the-shelf rolling stock. Although a few manufacturers make rolling stock that can adjust to different rail gauges, most manufacturers make rolling stock that only works with one of the standard rail gauges.
 
 
 See also

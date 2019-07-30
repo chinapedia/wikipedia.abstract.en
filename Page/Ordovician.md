@@ -92,7 +92,7 @@ The Ordovician meteor event is a proposed shower of meteors that occurred during
 
 Geochemistry
 
-Anomalodonta_gigantea_Waynesville_Franklin_Co_IN.JPG showing that the original aragonite shell dissolved on the sea floor, leaving a cemented mold for biological encrustation (Waynesville Formation of Franklin County, Indiana).]] The Ordovician was a time of calcite sea geochemistry in which low-magnesium calcite was the primary inorganic marine precipitate of calcium carbonate. Carbonate hardgrounds were thus very common, along with calcitic ooids, calcitic cements, and invertebrate faunas with dominantly calcitic skeletons. Biogenic aragonite, like that composing the shells of most molluscs, dissolved rapidly on the sea floor after death.[11][12]
+showing that the original aragonite shell dissolved on the sea floor, leaving a cemented mold for biological encrustation (Waynesville Formation of Franklin County, Indiana).]] The Ordovician was a time of calcite sea geochemistry in which low-magnesium calcite was the primary inorganic marine precipitate of calcium carbonate. Carbonate hardgrounds were thus very common, along with calcitic ooids, calcitic cements, and invertebrate faunas with dominantly calcitic skeletons. Biogenic aragonite, like that composing the shells of most molluscs, dissolved rapidly on the sea floor after death.[11][12]
 
 Unlike Cambrian times, when calcite production was dominated by microbial and non-biological processes, animals (and macroalgae) became a dominant source of calcareous material in Ordovician deposits.[13]
 
@@ -110,11 +110,11 @@ As the Ordovician progressed, we see evidence of glaciers on the land we now kno
 
 Life
 
-Nmnh_fg09.jpg depicting Ordovician flora and fauna.]] For most of the Late Ordovician life continued to flourish, but at and near the end of the period there were mass-extinction events that seriously affected planktonic forms like conodonts and graptolites. The trilobites Agnostida and Ptychopariida completely died out, and the Asaphida were much reduced. Brachiopods, bryozoans and echinoderms were also heavily affected, and the endocerid cephalopods died out completely, except for possible rare Silurian forms. The Ordovician–Silurian extinction events may have been caused by an ice age that occurred at the end of the Ordovician period, due to the expansion of the first terrestrial plants,[17] as the end of the Late Ordovician was one of the coldest times in the last 600 million years of Earth's history.
+depicting Ordovician flora and fauna.]] For most of the Late Ordovician life continued to flourish, but at and near the end of the period there were mass-extinction events that seriously affected planktonic forms like conodonts and graptolites. The trilobites Agnostida and Ptychopariida completely died out, and the Asaphida were much reduced. Brachiopods, bryozoans and echinoderms were also heavily affected, and the endocerid cephalopods died out completely, except for possible rare Silurian forms. The Ordovician–Silurian extinction events may have been caused by an ice age that occurred at the end of the Ordovician period, due to the expansion of the first terrestrial plants,[17] as the end of the Late Ordovician was one of the coldest times in the last 600 million years of Earth's history.
 
 Fauna
 
-Orthoceras_BW.jpgs like _Orthoceras_ were among the largest predators in the Ordovician.]] LibertyFormationSlab092313.jpg On the whole, the fauna that emerged in the Ordovician were the template for the remainder of the Palaeozoic.[18] The fauna was dominated by tiered communities of suspension feeders, mainly with short food chains. The ecological system reached a new grade of complexity far beyond that of the Cambrian fauna,[19] which has persisted until the present day.[20]
+s like _Orthoceras_ were among the largest predators in the Ordovician.]] On the whole, the fauna that emerged in the Ordovician were the template for the remainder of the Palaeozoic.[18] The fauna was dominated by tiered communities of suspension feeders, mainly with short food chains. The ecological system reached a new grade of complexity far beyond that of the Cambrian fauna,[19] which has persisted until the present day.[20]
 
 Though less famous than the Cambrian explosion, the Ordovician radiation was no less remarkable; marine faunal genera increased fourfold, resulting in 12% of all known Phanerozoic marine fauna.[21] Another change in the fauna was the strong increase in filter-feeding organisms.[22] The trilobite, inarticulate brachiopod, archaeocyathid, and eocrinoid faunas of the Cambrian were succeeded by those that dominated the rest of the Paleozoic, such as articulate brachiopods, cephalopods, and crinoids. Articulate brachiopods, in particular, largely replaced trilobites in shelf communities.[23] Their success epitomizes the greatly increased diversity of carbonate shell-secreting organisms in the Ordovician compared to the Cambrian.[24]
 
@@ -141,8 +141,6 @@ Image:OrdovicianEdrio.jpg|The Upper Ordovician edrioasteroid _Cystaster stellatu
 Flora
 
 Green algae were common in the Late Cambrian (perhaps earlier) and in the Ordovician. Terrestrial plants probably evolved from green algae, first appearing as tiny non-vascular forms resembling liverworts. Fossil spores from land plants have been identified in uppermost Ordovician sediments.
-
-Ordovician_Land_Scene.jpg
 
 Among the first land fungi may have been arbuscular mycorrhiza fungi (Glomerales), playing a crucial role in facilitating the colonization of land by plants through mycorrhizal symbiosis, which makes mineral nutrients available to plant cells; such fossilized fungal hyphae and spores from the Ordovician of Wisconsin have been found with an age of about 460 million years ago, a time when the land flora most likely only consisted of plants similar to non-vascular bryophytes.[35]
 

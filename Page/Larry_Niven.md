@@ -1,4 +1,4 @@
-Larry_Niven_admiring_SAGE_console.jpeg in Mountain View, California, 2007]]
+in Mountain View, California, 2007]]
 
 LAURENCE VAN COTT NIVEN (; born April 30, 1938) is an American science fiction writer.[1] His best-known works are _Ringworld_ (1970), which received Hugo, Locus, Ditmar, Nebula awards, and _The Mote in God's Eye_ (1974). The Science Fiction and Fantasy Writers of America named him the 2015 recipient of the Damon Knight Memorial Grand Master Award.[2] His work is primarily hard science fiction, using big science concepts and theoretical physics. It also often includes elements of detective fiction and adventure stories. His fantasy includes the series _The Magic Goes Away_, rational fantasy dealing with magic as a non-renewable resource.
 
@@ -14,7 +14,7 @@ Niven is the author of numerous science fiction short stories and novels, beginn
 
 Algis Budrys said in 1968 that Niven becoming a top writer despite the New Wave was evidence that "trends are for second-raters".[8] In addition to the Nebula award in 1970[9] and the Hugo and Locus awards in 1971[10] for _Ringworld_, Niven won the Hugo Award for Best Short Story for "Neutron Star" in 1967.[11] He won the same award in 1972, for "Inconstant Moon", and in 1975 for "The Hole Man". In 1976, he won the Hugo Award for Best Novelette for "The Borderland of Sol".
 
-Larry_Niven_at_Les_Utopiales.JPG in 2010]]
+in 2010]]
 
 Niven has written scripts for three science fiction television series: the original _Land of the Lost_ series; _Star Trek: The Animated Series_, for which he adapted his early story "The Soft Weapon"; and _The Outer Limits_, for which he adapted his story "Inconstant Moon" into an episode of the same name.
 
@@ -36,8 +36,6 @@ Niven appeared in the 1980 science documentary film _Target... Earth?_
 
 
 Influence
-
-Ringworld.jpg
 
 Niven's most famous contribution to the SF genre comes from his novel _Ringworld_, in which he envisions a Ringworld: a band of material, roughly a million miles wide, of approximately the same diameter as Earth's orbit, rotating around a star. The idea's genesis came from Niven's attempts to imagine a more efficient version of a Dyson sphere, which could produce the effect of surface gravity through rotation. Given that spinning a Dyson sphere would result in the atmosphere pooling around the equator, the Ringworld removes all the extraneous parts of the structure, leaving a spinning band landscaped on the sun-facing side, with the atmosphere and inhabitants kept in place through centrifugal force and high perimeter walls (rim walls). After publication of _Ringworld_, Dan Alderson and Ctein,[15] two fannish friends of Niven, analyzed the structure and told Niven that the Ringworld was dynamically unstable such that if the center of rotation drifts away from the central sun, gravitational forces will not "re-center" it, thus allowing the ring to eventually contact the sun and be destroyed. Niven used this as a core plot element in the sequel novel, _The Ringworld Engineers_.
 

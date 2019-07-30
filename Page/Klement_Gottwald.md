@@ -26,7 +26,7 @@ After the collapse of the Union of Workers sports associations (SDTJ), the Commu
 
 Beginning of political activity
 
-Gottwald_(EKI).jpg In 1926, Gottwald became a functionary of the Communist Party, and editor of the Communist Press. From 1926 to 1929 he worked in Prague, where he aided the Secretariat of the KSČ to form a pro-Moscow opposition against the then in power anti-Moscow leadership. Since 1928 he was a member of the Comintern. Following Comintern policy initiated by Stalin, he carried out the Bolshevization of the Party.[3]
+In 1926, Gottwald became a functionary of the Communist Party, and editor of the Communist Press. From 1926 to 1929 he worked in Prague, where he aided the Secretariat of the KSČ to form a pro-Moscow opposition against the then in power anti-Moscow leadership. Since 1928 he was a member of the Comintern. Following Comintern policy initiated by Stalin, he carried out the Bolshevization of the Party.[3]
 
 In February 1929, at the Fifth Congress of the KSČ, Gottwald was elected party general secretary, alongside Guttmann, Šverma, Slansky, Kopecky and the Reimans (known as "the Karlin boys").
 
@@ -49,7 +49,7 @@ Outwardly, though, Gottwald kept up the appearance of working within the system,
 
 On 25 February, Beneš, fearing Soviet intervention, gave in. He accepted the resignations of the non-Communist ministers and appointed a new government in accordance with Gottwald's specifications. Although ostensibly still a coalition, it was dominated by Communists and pro-Moscow Social Democrats. The other parties were still nominally represented, but with the exception of Foreign Minister Jan Masaryk they were fellow travellers handpicked by the Communists. From this date forward, Gottwald was effectively the most powerful man in Czechoslovakia.
 
-Bundesarchiv_Bild_183-R90009,_Budapest,_II._Weltfestspiele,_Festumzug,_tschechische_Delegation_(cropped).jpg.]] On 9 May, the National Assembly, now a docile tool of the Communists, approved the so-called Ninth-of-May Constitution. While it was not a completely Communist document, its Communist imprint was strong enough that Beneš refused to sign it. Later that month, elections were held in which voters were presented with a single list from the National Front, now a Communist-controlled patriotic organization.
+.]] On 9 May, the National Assembly, now a docile tool of the Communists, approved the so-called Ninth-of-May Constitution. While it was not a completely Communist document, its Communist imprint was strong enough that Beneš refused to sign it. Later that month, elections were held in which voters were presented with a single list from the National Front, now a Communist-controlled patriotic organization.
 
 Beneš resigned on 2 June. In accordance with the 1920 Constitution, Gottwald took over most presidential functions until 14 June, when he was formally elected as President.
 

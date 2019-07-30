@@ -5,8 +5,6 @@ Signs and symptoms
 
 The most common manifestation of lymphedema is soft tissue swelling, edema. As the disorder progresses, worsening edema and skin changes including discoloration, verrucous (wart-like) hyperplasia, hyperkeratosis, papillomatosis, dermal thickening and ulcers may be seen. Additionally, there is increased risk of infection of the superficial soft tissues, known as cellulitis.
 
-Dr._Ming-Huei_Cheng's_lymphedema_Sample.png
-
 Lymphedema should not be confused with edema arising from venous insufficiency, which is caused by compromise of the venous drainage rather than lymphatic drainage. However, untreated venous insufficiency can progress into a combined venous/lymphatic disorder.
 
 Complications
@@ -60,8 +58,6 @@ Lymphedema classification
 
 According to the Fifth WHO Expert Committee on Filariasis[34][35] the most common method of classification of lymphedema is as follows: (The same classification method can be used for both primary and secondary lymphedema) The International Society of Lymphology (ISL) Staging System is based solely on subjective symptoms, making it prone to substantial observer bias. Imaging modalities have been suggested as useful adjuncts to the ISL staging to clarify the diagnosis. The lymphedema expert Dr. Ming-Huei Cheng developed a Cheng’s Lymphedema Grading tool to assess the severity of extremity lymphedema based on objective limb measurements and providing appropriate options for management.[36][37][38]
 
-Cheng's_Lymphedema_Grading.png
-
 I. Grading
 
 -   GRADE 1: Spontaneously reversible on elevation. Mostly pitting edema.
@@ -111,8 +107,6 @@ Manual manipulation of the lymphatic ducts (manual lymphatic drainage or MLD) co
 Compression
 
 Garments
-
-Lymphedema_Compression_sleeve_November_2106_Second_Skin_016.jpg
 
 Once a person is diagnosed with lymphedema, compression becomes imperative in the management of the condition. Garments are often intended to be worn all day, but may be taken off for sleeping unless otherwise prescribed. Elastic compression garments are worn on the affected limb following complete decongestive therapy to maintain edema reduction. Inelastic garments provide containment and reduction.[50] Available styles, options, and prices vary widely. A professional garment fitter or certified lymphedema therapist can help determine the best option for the patient.
 

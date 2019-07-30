@@ -55,7 +55,7 @@ He died at Gosport in Hampshire, a Knight Commander of the Order of the Bath in 
 
 Recognition
 
-James_Lind's_name_on_the_Frieze_of_LSHTM.jpg]] James Lind's is one of twenty-three names to feature on the Frieze of the London School of Hygiene and Tropical Medicine building in Keppel Street, London. Names were selected by a committee of unknown constitution who chose those who were deemed to be pioneers in public health and tropical medicine.[26]
+]] James Lind's is one of twenty-three names to feature on the Frieze of the London School of Hygiene and Tropical Medicine building in Keppel Street, London. Names were selected by a committee of unknown constitution who chose those who were deemed to be pioneers in public health and tropical medicine.[26]
 
 
 References

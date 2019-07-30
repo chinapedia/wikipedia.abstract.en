@@ -48,7 +48,7 @@ Through extensive promoting, including distributing tapes on consignment to loca
 
 _Early Mornin' Stoned Pimp_ and local breakthrough (1996)
 
-Kid_Rock_(3421137233).jpg Kid Rock's stage presence became honed with the addition of a light show, pyrotechnics, dancers and a light-up backdrop bearing the name "Kid Rock", and 1996 saw the release of his most rock-oriented album to date, _Early Mornin' Stoned Pimp_; the album's title came from Bob Eberling, who told a sleepless, alcoholic, drug-using Kid Rock, "Dude, you are the early-morning, stoned pimp."[41] According to Kid Rock, who distributed the album himself, _Early Mornin' Stoned Pimp_ sold 14,000 copies.[42]
+Kid Rock's stage presence became honed with the addition of a light show, pyrotechnics, dancers and a light-up backdrop bearing the name "Kid Rock", and 1996 saw the release of his most rock-oriented album to date, _Early Mornin' Stoned Pimp_; the album's title came from Bob Eberling, who told a sleepless, alcoholic, drug-using Kid Rock, "Dude, you are the early-morning, stoned pimp."[41] According to Kid Rock, who distributed the album himself, _Early Mornin' Stoned Pimp_ sold 14,000 copies.[42]
 
 Kid Rock developed his stage persona, performing dressed in 1970s pimp clothing with a real, possibly loaded, gun down the front of his pants.[43]
 
@@ -70,7 +70,7 @@ In May 2000, Kid Rock released the compilation album " The History Of Rock", beh
 
 Continued success and shift away from hip hop (2001–2008)
 
-Kidrock-in-concert.JPG In April 2001, Kid Rock made his acting debut in the comedy film _Joe Dirt_, starring David Spade.[56] August also saw Kid Rock making his voice acting debut in the live-action/animated film _Osmosis Jones_, voicing a white blood cell; Kid Rock and Joe C had also recorded the song "Cool Daddy Cool" for the film's soundtrack album before Joe C's death.[57][58] In November, Kid Rock released his fifth studio album, _Cocky_. The album became a hit, spurred by the crossover success of the single "Picture", a country ballad featuring Sheryl Crow which introduced Kid Rock to a wider audience and was ultimately the most successful single on the album.[59][60]
+In April 2001, Kid Rock made his acting debut in the comedy film _Joe Dirt_, starring David Spade.[56] August also saw Kid Rock making his voice acting debut in the live-action/animated film _Osmosis Jones_, voicing a white blood cell; Kid Rock and Joe C had also recorded the song "Cool Daddy Cool" for the film's soundtrack album before Joe C's death.[57][58] In November, Kid Rock released his fifth studio album, _Cocky_. The album became a hit, spurred by the crossover success of the single "Picture", a country ballad featuring Sheryl Crow which introduced Kid Rock to a wider audience and was ultimately the most successful single on the album.[59][60]
 
 In support of the album, Kid Rock performed on the Cocky Tour in 2002 and opened for Aerosmith with Run DMC on The Girls Of Summer Tour During this period, Uncle Kracker began his solo career full time.[61] He was replaced by underground Detroit rapper Paradime.
 
@@ -90,7 +90,7 @@ In 2008, Kid Rock recorded and made a music video for the song "Warrior" for a N
 
 Continued recording and controversies (2010 onward)
 
-Defense.gov_photo_essay_081217-N-0696M-175.jpg with Kellie Pickler and Zac Brown in 2008.]] In 2010, Kid Rock released his country-oriented eighth studio album, _Born Free_, produced by Rick Rubin, and featuring guest appearances by Sheryl Crow and Bob Seger.[81]
+with Kellie Pickler and Zac Brown in 2008.]] In 2010, Kid Rock released his country-oriented eighth studio album, _Born Free_, produced by Rick Rubin, and featuring guest appearances by Sheryl Crow and Bob Seger.[81]
 
 In 2011, Kid Rock was honored by the NAACP, which sparked protests stemming from his past display of the Confederate flag in his concerts.[82] During the ceremony, Kid Rock elaborated on his display of the flag, stating, "[I] never flew the flag with hate in my heart [...] I love America, I love Detroit, and I love black people."[83] Kid Rock's publicist announced that 2011 was the year he officially distanced himself from the flag.[84]
 
@@ -117,7 +117,7 @@ Kid Rock released his first greatest hits album titled _Greatest Hits: You Never
 
 Musical style
 
-Kid_Rock_in_Camp_Phoenix.jpg in 2007]] Kid Rock's music is noted for its eclectic sound, which draws from genres such as hip hop,[108][109] rap rock,[110][111][112][113] rap metal,[114] hard rock,[115] heavy metal,[116][117] Southern rock,[118] country,[119][120][121] nu metal,[122][123] blues,[124] funk[125] and soul.[126]
+in 2007]] Kid Rock's music is noted for its eclectic sound, which draws from genres such as hip hop,[108][109] rap rock,[110][111][112][113] rap metal,[114] hard rock,[115] heavy metal,[116][117] Southern rock,[118] country,[119][120][121] nu metal,[122][123] blues,[124] funk[125] and soul.[126]
 
 Kid Rock's music has been described by _Pitchfork_ as a cross between Run-DMC, Lynyrd Skynyrd and AC/DC.[127] _MTV_ compared Kid Rock's songs "I Am the Bullgod" and "Roving Gangster (Rollin')" to a cross between Alice in Chains and Public Enemy.[128]
 
@@ -138,7 +138,7 @@ _Cowboys & Indians_ claims that Kid Rock's song "Cowboy" had a major impact on t
 
 Personal life
 
-Pamela_Anderson_and_Kid_Rock.jpg in 2003]]
+in 2003]]
 
 In eighth grade, Robert James Ritchie began a ten-year on and off relationship with a classmate named Kelley South Russell.[154][155][156] In summer 1993, Russell gave birth to Ritchie's son, Robert James Ritchie Jr.[157][158] While living with her, the two raised three children, but Ritchie discovered that one of them was not his, which led to the couple splitting in late 1993;[159] Ritchie raised his son as a single father.[160]
 

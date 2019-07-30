@@ -1,7 +1,7 @@
-  ---------------------------------------------
-  Partial_function.svg.]]
-  Total_function.svg that is not injective.]]
-  ---------------------------------------------
+  --------------------------
+  .]]
+  that is not injective.]]
+  --------------------------
 
 In mathematics, a PARTIAL FUNCTION from _X_ to _Y_ (sometimes written as , , or , although the latter is often used for injective functions) is a function → _Y_}}, for some subset _X_{{′}} of _X_. It generalizes the concept of a function by not forcing _f_ to map _every_ element of _X_ to an element of _Y_ (only some subset _X_{{′}} of _X_). If = _X_}}, then _f_ is called a TOTAL FUNCTION for emphasizing that its domain is not a proper subset of _X_. Partial functions are often used when the exact domain, _X_, is not known (for example, in computability theory, general recursive functions are partial functions from the integers to the integers, and there cannot be any algorithm for deciding whether such a function is total). In real and complex analysis, a partial function is generally called simply a _function_.
 

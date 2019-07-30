@@ -1,4 +1,4 @@
-MORONI2.JPG statue of Angel Moroni]] The ANGEL MORONI ([1]) is an angel stated by Joseph Smith to have visited him on numerous occasions, beginning on September 21, 1823. According to Smith, the angel was the guardian of the golden plates, buried in the hill Cumorah near Smith's home in western New York; Latter Day Saints believe the plates were the source material for the Book of Mormon. An important figure in the theology of the Latter Day Saint movement, Moroni is featured prominently in Mormon architecture and art. Besides Smith, the Three Witnesses and several other witnesses also reported that they saw Moroni in visions in 1829.
+statue of Angel Moroni]] The ANGEL MORONI ([1]) is an angel stated by Joseph Smith to have visited him on numerous occasions, beginning on September 21, 1823. According to Smith, the angel was the guardian of the golden plates, buried in the hill Cumorah near Smith's home in western New York; Latter Day Saints believe the plates were the source material for the Book of Mormon. An important figure in the theology of the Latter Day Saint movement, Moroni is featured prominently in Mormon architecture and art. Besides Smith, the Three Witnesses and several other witnesses also reported that they saw Moroni in visions in 1829.
 
 Moroni is thought by Latter Day Saints to be the same person as a Book of Mormon prophet-warrior named Moroni, who was the last to write in the golden plates. The book states that Moroni buried them before he died after a great battle between two pre-Columbian civilizations. After he died, he became an angel who was tasked with guarding the golden plates and directing Smith to their location in the 1820s. According to Smith, he returned the golden plates to Moroni after they were translated and, as of 1838, Moroni still had the plates in his possession.[2]
 
@@ -27,7 +27,7 @@ Descriptions of the angel Moroni vary. In one of Smith's histories, he described
 
 Appearances to Joseph Smith and others
 
-Moroni3a07131u.jpg Smith said that on the night of September 21, 1823, Moroni appeared to him and told him about the golden plates that were buried in a stone box a few miles from Smith's home. Smith said that the same angel visited him various times over the course of the next six years; Smith also said that the angel visited him to retrieve the golden plates after Smith had finished translating a portion of the writing on the plates[21] into the Book of Mormon.[22]
+Smith said that on the night of September 21, 1823, Moroni appeared to him and told him about the golden plates that were buried in a stone box a few miles from Smith's home. Smith said that the same angel visited him various times over the course of the next six years; Smith also said that the angel visited him to retrieve the golden plates after Smith had finished translating a portion of the writing on the plates[21] into the Book of Mormon.[22]
 
 In addition to Smith, several other early Mormons said they had visions where they saw the angel Moroni. Three Witnesses said they saw the angel in 1829: Oliver Cowdery, David Whitmer, and Martin Harris. Other early Mormons who said they saw Moroni include Emma Hale Smith, Hyrum Smith, Luke S. Johnson, Zera Pulsipher, W. W. Phelps, John P. Greene and his wife Rhoda, John Taylor, Oliver Granger, Heber C. Kimball, Lucy Harris, and Harrison Burgess. Mary Whitmer may also have seen Moroni, although she referred to the angel she saw as "Brother Nephi".
 
@@ -39,7 +39,7 @@ According to the Book of Mormon, Moroni was the son of Mormon,[23] the prophet f
 
 Theological significance
 
-USVA_headstone_emb-11.svg]] Because of his instrumentality in the restoration of the gospel, Moroni is commonly identified by Latter Day Saints as the angel mentioned in , "having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people."
+]] Because of his instrumentality in the restoration of the gospel, Moroni is commonly identified by Latter Day Saints as the angel mentioned in , "having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people."
 
 The image of the angel Moroni blowing a trumpet is commonly used as an unofficial symbol of the LDS Church. Moroni appears on the cover of some editions of the Book of Mormon. Statues of the angel stand atop many LDS temples, with most statues facing eastward.
 

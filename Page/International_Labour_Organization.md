@@ -25,8 +25,6 @@ Ten of the titular government seats are permanently held by States of chief indu
 
 International Labour Conference
 
-ILC_107th_Session_-_International_Labour_Conference_Opening_session.jpg
-
 The ILO organises once a year the International Labour Conference in Geneva to set the broad policies of the ILO, including conventions and recommendations.[10] Also known as the "international parliament of labour", the conference makes decisions about the ILO's general policy, work programme and budget and also elects the Governing Body.
 
 Each member state is represented by a delegation: two government delegates, an employer delegate, a worker delegate and their respective advisers. All of them have individual voting rights and all votes are equal, regardless the population of the delegate's member State. The employer and worker delegates are normally chosen in agreement with the most representative national organizations of employers and workers. Usually, the workers and employers' delegates coordinate their voting. All delegates have the same rights and are not required to vote in blocs.
@@ -37,7 +35,7 @@ Heads of State and prime ministers also participate in the Conference. Internati
 
 Conventions
 
-Group_of_domestic_workers_rejoicing_after_the_result_of_the_vote_on_the_Convention_on_Domestic_Workers.jpg Through July 2018, the ILO had adopted 189 conventions. If these conventions are ratified by enough governments, they come in force. However, ILO conventions are considered international labour standards regardless of ratification. When a convention comes into force, it creates a legal obligation for ratifying nations to apply its provisions.
+Through July 2018, the ILO had adopted 189 conventions. If these conventions are ratified by enough governments, they come in force. However, ILO conventions are considered international labour standards regardless of ratification. When a convention comes into force, it creates a legal obligation for ratifying nations to apply its provisions.
 
 Every year the International Labour Conference's Committee on the Application of Standards examines a number of alleged breaches of international labour standards. Governments are required to submit reports detailing their compliance with the obligations of the conventions they have ratified. Conventions that have not been ratified by member states have the same legal force as recommendations.
 
@@ -60,8 +58,6 @@ Recommendations do not have the binding force of conventions and are not subject
 
 Membership
 
-International_Labour_Organization_flag.jpg
-
 The ILO has 187 state members. 186 of the 193 member states of the United Nations plus the Cook Islands are members of the ILO.[14] The UN member states which are not members of the ILO are Andorra, Bhutan, Liechtenstein, Micronesia, Monaco, Nauru, and North Korea.
 
 The ILO constitution permits any member of the UN to become a member of the ILO. To gain membership, a nation must inform the director-general that it accepts all the obligations of the ILO constitution.[15] Other states can be admitted by a two-thirds vote of all delegates, including a two-thirds vote of government delegates, at any ILO General Conference. The Cook Islands, a non-UN state, joined in June 2015.
@@ -77,8 +73,6 @@ History
 
 Origins
 
-International_Labour_Conferece_(ILC)_1st_Session.jpg
-
 While the ILO was established as an agency of the League of Nations following World War I, its founders had made great strides in social thought and action before 1919. The core members all knew one another from earlier private professional and ideological networks, in which they exchanged knowledge, experiences, and ideas on social policy. Prewar "epistemic communities", such as the International Association for Labour Legislation (IALL), founded in 1900, and political networks, such as the socialist Second International, were a decisive factor in the institutionalization of international labour politics.[18]
 
 In the post–World War I euphoria, the idea of a "makeable society" was an important catalyst behind the social engineering of the ILO architects. As a new discipline, international labour law became a useful instrument for putting social reforms into practice. The utopian ideals of the founding members—social justice and the right to decent work—were changed by diplomatic and political compromises made at the Paris Peace Conference of 1919, showing the ILO's balance between idealism and pragmatism.[19]
@@ -93,7 +87,7 @@ Commission on International Labour Legislation
 
 Meanwhile, the Paris Peace Conference sought to dampen public support for communism. Subsequently, the Allied Powers agreed that clauses should be inserted into the emerging peace treaty protecting labour unions and workers' rights, and that an international labour body be established to help guide international labour relations in the future. The advisory Commission on International Labour Legislation was established by the Peace Conference to draft these proposals. The Commission met for the first time on 1 February 1919, and Gompers was elected chairman.[25]
 
-Picture_of_Samuel_Gompers.jpg, 1918]] Two competing proposals for an international body emerged during the Commission's meetings. The British proposed establishing an international parliament to enact labour laws which each member of the League would be required to implement. Each nation would have two delegates to the parliament, one each from labour and management.[26] An international labour office would collect statistics on labour issues and enforce the new international laws. Philosophically opposed to the concept of an international parliament and convinced that international standards would lower the few protections achieved in the United States, Gompers proposed that the international labour body be authorized only to make recommendations, and that enforcement be left up to the League of Nations. Despite vigorous opposition from the British, the American proposal was adopted.[27]
+, 1918]] Two competing proposals for an international body emerged during the Commission's meetings. The British proposed establishing an international parliament to enact labour laws which each member of the League would be required to implement. Each nation would have two delegates to the parliament, one each from labour and management.[26] An international labour office would collect statistics on labour issues and enforce the new international laws. Philosophically opposed to the concept of an international parliament and convinced that international standards would lower the few protections achieved in the United States, Gompers proposed that the international labour body be authorized only to make recommendations, and that enforcement be left up to the League of Nations. Despite vigorous opposition from the British, the American proposal was adopted.[27]
 
 Gompers also set the agenda for the draft charter protecting workers' rights. The Americans made 10 proposals. Three were adopted without change: That labour should not be treated as a commodity; that all workers had the right to a wage sufficient to live on; and that women should receive equal pay for equal work. A proposal protecting the freedom of speech, press, assembly, and association was amended to include only freedom of association. A proposed ban on the international shipment of goods made by children under the age of 16 was amended to ban goods made by children under the age of 14. A proposal to require an eight-hour work day was amended to require the eight-hour work day _or_ the 40-hour work week (an exception was made for countries where productivity was low). Four other American proposals were rejected. Meanwhile, international delegates proposed three additional clauses, which were adopted: One or more days for weekly rest; equality of laws for foreign workers; and regular and frequent inspection of factory conditions.[28]
 
@@ -101,7 +95,7 @@ The Commission issued its final report on 4 March 1919, and the Peace Conference
 
 Interwar period
 
-1919-ILC-secretariatstaff.jpg]]
+]]
 
 The first annual conference, referred to as the International Labour Conference (ILC), began on 29 October 1919 at the Pan American Union Building in Washington, D.C.[30] and adopted the first six International Labour Conventions, which dealt with hours of work in industry, unemployment, maternity protection, night work for women, minimum age, and night work for young persons in industry.[31] The prominent French socialist Albert Thomas became its first director-general.
 
@@ -121,7 +115,7 @@ Beginning in the late 1950s the organization was under pressure to make provisio
 
 In July, 1970, the United States withdrew 50% of its financial support to the ILO following the appointment of an assistant director-general from the Soviet Union. This appointment (by the ILO's British director-general, C. Wilfred Jenks) drew particular criticism from AFL–CIO president George Meany and from Congressman John E. Rooney. However, the funds were eventually paid.[37][38]
 
-Tripartite.png]]
+]]
 
 On 12 June 1975, the ILO voted to grant the Palestinian Liberation Organization observer status at its meetings. Representatives of the United States and Israel walked out of the meeting. The U.S. House of Representatives subsequently decided to withhold funds. The United States gave notice of full withdrawal on 6 November 1975, stating that the organization had become politicized. The United States also suggested that representation from communist countries was not truly "tripartite"—including government, workers, and employers—because of the structure of these economies. The withdrawal became effective on 1 November 1977.[39]
 
@@ -145,15 +139,13 @@ For instance, the ITCILO offers a Master of Laws programme in management of deve
 
 Child labour
 
-Child_labour_in_Madagascar.jpg The term _child labour_ is often defined as work that deprives children of their childhood, potential, dignity, and is harmful to their physical and mental development.
+The term _child labour_ is often defined as work that deprives children of their childhood, potential, dignity, and is harmful to their physical and mental development.
 
 _Child labour_ refers to work that is mentally, physically, socially or morally dangerous and harmful to children. Further, it can involve interfering with their schooling by depriving them of the opportunity to attend school, obliging them to leave school prematurely, or requiring them to attempt to combine school attendance with excessively long and heavy work.
 
 In its most extreme forms, child labour involves children being enslaved, separated from their families, exposed to serious hazards and illnesses and left to fend for themselves on the streets of large cities – often at a very early age. Whether or not particular forms of "work" can be called _child labour_ depends on the child's age, the type and hours of work performed, the conditions under which it is performed and the objectives pursued by individual countries. The answer varies from country to country, as well as among sectors within countries.
 
 ILO's response to child labour
-
-Minimum_age_convention.png
 
 The ILO's International Programme on the Elimination of Child Labour (IPEC) was created in 1992 with the overall goal of the progressive elimination of child labour, which was to be achieved through strengthening the capacity of countries to deal with the problem and promoting a worldwide movement to combat child labour. The IPEC currently has operations in 88 countries, with an annual expenditure on technical cooperation projects that reached over US$61 million in 2008. It is the largest programme of its kind globally and the biggest single operational programme of the ILO.
 
@@ -174,7 +166,7 @@ Forced labour
 
 The ILO has considered the fight against forced labour to be one of its main priorities. During the interwar years, the issue was mainly considered a colonial phenomenon, and the ILO's concern was to establish minimum standards protecting the inhabitants of colonies from the worst abuses committed by economic interests. After 1945, the goal became to set a uniform and universal standard, determined by the higher awareness gained during World War II of politically and economically motivated systems of forced labour, but debates were hampered by the Cold War and by exemptions claimed by colonial powers. Since the 1960s, declarations of labour standards as a component of human rights have been weakened by government of postcolonial countries claiming a need to exercise extraordinary powers over labour in their role as emergency regimes promoting rapid economic development.[55]
 
-Forced_Labour_Convention_map.svg, with non-ratifiers shown in red]]
+, with non-ratifiers shown in red]]
 
 In June 1998 the International Labour Conference adopted a Declaration on Fundamental Principles and Rights at Work and its follow-up that obligates member states to respect, promote and realize freedom of association and the right to collective bargaining, the elimination of all forms of forced or compulsory labour, the effective abolition of child labour, and the elimination of discrimination in respect of employment and occupation.
 
@@ -182,7 +174,7 @@ With the adoption of the declaration, the ILO created the InFocus Programme on P
 
 In November 2001, following the publication of the InFocus Programme's first global report on forced labour, the ILO's governing body created a special action programme to combat forced labour (SAP-FL),[56] as part of broader efforts to promote the 1998 Declaration on Fundamental Principles and Rights at Work and its follow-up.
 
-Abolition_of_Forced_Labour_Convention.png Since its inception, the SAP-FL has focused on raising global awareness of forced labour in its different forms, and mobilizing action against its manifestation. Several thematic and country-specific studies and surveys have since been undertaken, on such diverse aspects of forced labour as bonded labour, human trafficking, forced domestic work, rural servitude, and forced prisoner labour.
+Since its inception, the SAP-FL has focused on raising global awareness of forced labour in its different forms, and mobilizing action against its manifestation. Several thematic and country-specific studies and surveys have since been undertaken, on such diverse aspects of forced labour as bonded labour, human trafficking, forced domestic work, rural servitude, and forced prisoner labour.
 
 In 2013, the SAP-FL was integrated into the ILO's Fundamental Principles and Rights at Work Branch (FUNDAMENTALS)[57] bringing together the fight against forced and child labour and working in the context of Alliance 8.7.[58]
 

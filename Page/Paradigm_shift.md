@@ -13,7 +13,7 @@ The nature of scientific revolutions has been studied by modern philosophy since
 
 Original usage
 
-Duck-Rabbit_illusion.jpg, made famous by Wittgenstein, to demonstrate the way in which a paradigm shift could cause one to see the same information in an entirely different way.[2]]]
+, made famous by Wittgenstein, to demonstrate the way in which a paradigm shift could cause one to see the same information in an entirely different way.[2]]]
 
 In his 1962 book _The Structure of Scientific Revolutions_, Kuhn explains the development of paradigm shifts in science into four stages:
 

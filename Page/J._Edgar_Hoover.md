@@ -5,7 +5,7 @@ Later in life and after his death, Hoover became a controversial figure as evide
 
 Early life and education
 
-Hoovers_Father.jpg John Edgar Hoover was born on New Year's Day 1895 in Washington, D.C., to Anna Marie (_née_ Scheitlin; 1860–1938), who was of Swiss-German descent, and Dickerson Naylor Hoover Sr. (1856–1921), chief of the printing division of the U.S. Coast and Geodetic Survey, formerly a plate maker for the same organization.[5] Dickerson Hoover was of English and German ancestry. Hoover's maternal great-uncle, John Hitz, was a Swiss honorary consul general to the United States.[6] Among his family, he was the closest to his mother, who was their moral guide and disciplinarian.[7]
+John Edgar Hoover was born on New Year's Day 1895 in Washington, D.C., to Anna Marie (_née_ Scheitlin; 1860–1938), who was of Swiss-German descent, and Dickerson Naylor Hoover Sr. (1856–1921), chief of the printing division of the U.S. Coast and Geodetic Survey, formerly a plate maker for the same organization.[5] Dickerson Hoover was of English and German ancestry. Hoover's maternal great-uncle, John Hitz, was a Swiss honorary consul general to the United States.[6] Among his family, he was the closest to his mother, who was their moral guide and disciplinarian.[7]
 
 Hoover was born in a house on the present site of Capitol Hill United Methodist Church, located on Seward Square near Eastern Market in Washington's Capitol Hill neighborhood.[8] A stained glass window in the church is dedicated to him. Hoover did not have a birth certificate filed upon his birth, although it was required in 1895 in Washington. Two of his siblings did have certificates, but Hoover's was not filed until 1938 when he was 43.[9]
 
@@ -18,7 +18,7 @@ Hoover obtained a Bachelor of Laws[15] from The George Washington University Law
 
 Department of Justice
 
-J._Edgar_Hoover_cph.3b10753.jpg Immediately after getting his LL.M. degree, Hoover was hired by the Justice Department to work in the War Emergency Division.[19] He accepted the clerkship on July 27, 1917, when he was just 22 years old. The job paid $990 a year ($ in ) and was exempt from the draft.[20]
+Immediately after getting his LL.M. degree, Hoover was hired by the Justice Department to work in the War Emergency Division.[19] He accepted the clerkship on July 27, 1917, when he was just 22 years old. The job paid $990 a year ($ in ) and was exempt from the draft.[20]
 
 In 1920, Edgar Hoover was initiated[21] at D.C.'s Federal Lodge No. 1 in Washington D.C., becoming a Master Mason[22][23] by age 25 and a 33rd Degree Inspector General Honorary in 1955.[24]
 
@@ -40,7 +40,7 @@ In 1921, Hoover rose in the Bureau of Investigation to deputy head and, in 1924,
 
 Early leadership
 
-Director_Hoover_1940_Office.jpg Hoover was sometimes unpredictable in his leadership. He frequently fired Bureau agents, singling out those he thought "looked stupid like truck drivers," or whom he considered "pinheads."[38] He also relocated agents who had displeased him to career-ending assignments and locations. Melvin Purvis was a prime example: Purvis was one of the most effective agents in capturing and breaking up 1930s gangs, and it is alleged that Hoover maneuvered him out of the Bureau because he was envious of the substantial public recognition Purvis received.[39]
+Hoover was sometimes unpredictable in his leadership. He frequently fired Bureau agents, singling out those he thought "looked stupid like truck drivers," or whom he considered "pinheads."[38] He also relocated agents who had displeased him to career-ending assignments and locations. Melvin Purvis was a prime example: Purvis was one of the most effective agents in capturing and breaking up 1930s gangs, and it is alleged that Hoover maneuvered him out of the Bureau because he was envious of the substantial public recognition Purvis received.[39]
 
 Hoover often praised local law-enforcement officers around the country, and built up a national network of supporters and admirers in the process. One whom he often commended for particular effectiveness was the conservative sheriff of Caddo Parish, Louisiana, J. Howell Flournoy.[40]
 
@@ -50,7 +50,7 @@ In the early 1930s, criminal gangs carried out large numbers of bank robberies i
 
 The robbers operated across state lines, and Hoover pressed to have their crimes recognized as federal offenses so that he and his men would have the authority to pursue them and get the credit for capturing them. Initially, the Bureau suffered some embarrassing foul-ups, in particular with Dillinger and his conspirators. A raid on a summer lodge in Manitowish Waters, Wisconsin, called "Little Bohemia," left a Bureau agent and a civilian bystander dead and others wounded; all the gangsters escaped.
 
-Depression_era_gangsters.ogg gangsters, including Pretty Boy Floyd, Baby Face Nelson, and Machine Gun Kelly.]] Hoover realized that his job was then on the line, and he pulled out all stops to capture the culprits. In late July 1934, Special Agent Melvin Purvis, the Director of Operations in the Chicago office, received a tip on Dillinger's whereabouts that paid off when Dillinger was located, ambushed, and killed by Bureau agents outside the Biograph Theater.[41]
+gangsters, including Pretty Boy Floyd, Baby Face Nelson, and Machine Gun Kelly.]] Hoover realized that his job was then on the line, and he pulled out all stops to capture the culprits. In late July 1934, Special Agent Melvin Purvis, the Director of Operations in the Chicago office, received a tip on Dillinger's whereabouts that paid off when Dillinger was located, ambushed, and killed by Bureau agents outside the Biograph Theater.[41]
 
 Hoover was credited with several highly publicized captures or shootings of outlaws and bank robbers, even though he was not present at the events. These included those of Machine Gun Kelly in 1933, of Dillinger in 1934, and of Alvin Karpis in 1936, which led to the Bureau's powers being broadened.
 
@@ -68,7 +68,7 @@ Investigation of subversion and radicals
 
 Hoover was concerned about what he claimed was subversion, and under his leadership, the FBI investigated tens of thousands of suspected subversives and radicals. According to critics, Hoover tended to exaggerate the dangers of these alleged subversives and many times overstepped his bounds in his pursuit of eliminating that perceived threat.[49]
 
-Lennon_FBI_Files_Before_HQ-11p1.jpg by putting the singer under surveillance, and Hoover wrote this letter to Richard Kleindienst, the US Attorney General in 1972. A 25-year battle by historian Jon Wiener under the Freedom of Information Act eventually resulted in the release of documents like this one.]] William G. Hundley, a Justice Department prosecutor, said Hoover may have inadvertently kept alive the concern over communist infiltration into the government, quipping that Hoover's "informants were nearly the only ones that paid the party dues."[50]
+by putting the singer under surveillance, and Hoover wrote this letter to Richard Kleindienst, the US Attorney General in 1972. A 25-year battle by historian Jon Wiener under the Freedom of Information Act eventually resulted in the release of documents like this one.]] William G. Hundley, a Justice Department prosecutor, said Hoover may have inadvertently kept alive the concern over communist infiltration into the government, quipping that Hoover's "informants were nearly the only ones that paid the party dues."[50]
 
 Florida and Long Island U-boat landings
 
@@ -92,7 +92,7 @@ In 1946 Attorney General Tom C. Clark authorized Hoover to compile a list of pot
 
 COINTELPRO and the 1950s
 
-FBIHoover.jpg In 1956, Hoover was becoming increasingly frustrated by U.S. Supreme Court decisions that limited the Justice Department's ability to prosecute people for their political opinions, most notably communists. Some of his aides reported that he purposely exaggerated the threat of communism to "ensure financial and public support for the FBI."[58] At this time he formalized a covert "dirty tricks" program under the name COINTELPRO.[59] COINTELPRO was first used to disrupt the Communist Party USA, where Hoover went after targets that ranged from suspected everyday spies to larger celebrity figures such as Charlie Chaplin that he saw as spreading Communist Party propaganda.[60]
+In 1956, Hoover was becoming increasingly frustrated by U.S. Supreme Court decisions that limited the Justice Department's ability to prosecute people for their political opinions, most notably communists. Some of his aides reported that he purposely exaggerated the threat of communism to "ensure financial and public support for the FBI."[58] At this time he formalized a covert "dirty tricks" program under the name COINTELPRO.[59] COINTELPRO was first used to disrupt the Communist Party USA, where Hoover went after targets that ranged from suspected everyday spies to larger celebrity figures such as Charlie Chaplin that he saw as spreading Communist Party propaganda.[60]
 
 COINTELPRO's methods included infiltration, burglaries, illegal wiretaps, planting forged documents, and spreading false rumors about key members of target organizations.[61] Some authors have charged that COINTELPRO methods also included inciting violence and arranging murders.[62][63]
 
@@ -102,13 +102,13 @@ Hoover amassed significant power by collecting files containing large amounts of
 
 Reaction to civil rights groups
 
-Meeting_on_Detriot_riots_Oval_Office.jpg (seated, foreground) confers with (background L-R): Marvin Watson, J. Edgar Hoover, Sec. Robert McNamara, Gen. Harold Keith Johnson, Joe Califano, Sec. of the Army Stanley Rogers Resor, on responding to the Detroit riots]] In 1956, several years before he targeted King, Hoover had a public showdown with T. R. M. Howard, a civil rights leader from Mound Bayou, Mississippi. During a national speaking tour, Howard had criticized the FBI's failure to thoroughly investigate the racially motivated murders of George W. Lee, Lamar Smith, and Emmett Till. Hoover wrote an open letter to the press singling out these statements as "irresponsible."[65]
+(seated, foreground) confers with (background L-R): Marvin Watson, J. Edgar Hoover, Sec. Robert McNamara, Gen. Harold Keith Johnson, Joe Califano, Sec. of the Army Stanley Rogers Resor, on responding to the Detroit riots]] In 1956, several years before he targeted King, Hoover had a public showdown with T. R. M. Howard, a civil rights leader from Mound Bayou, Mississippi. During a national speaking tour, Howard had criticized the FBI's failure to thoroughly investigate the racially motivated murders of George W. Lee, Lamar Smith, and Emmett Till. Hoover wrote an open letter to the press singling out these statements as "irresponsible."[65]
 
 In 1960s, Hoover's FBI monitored John Lennon and Malcolm X.[66] The COINTELPRO tactics were later extended to organizations such as the Black Panther Party, Martin Luther King, Jr.'s Southern Christian Leadership Conference, and others. Hoover's moves against people who maintained contacts with subversive elements, some of whom were members of the civil rights movement, also led to accusations of trying to undermine their reputations.[67]
 
 The treatment of Martin Luther King, Jr. and actress Jean Seberg are two examples: Jacqueline Kennedy recalled that Hoover told President John F. Kennedy that King tried to arrange a sex party while in the capital for the March on Washington and told Robert Kennedy that King made derogatory comments during the President's funeral.[68] Under Hoover's leadership, the FBI sent an anonymous blackmail letter to King in 1964, urging him to commit suicide.[69]
 
-LBJ_Civil_Rights_Act_crowd.jpg at the signing of the Civil Rights Act of 1964. White House East Room. People watching include Attorney General Robert Kennedy, Senate Minority Leader Everett M. Dirksen, Senator Hubert Humphrey, First Lady "Lady Bird" Johnson, Rev. Martin Luther King Jr., F.B.I. Director J. Edgar Hoover, Speaker of the House John McCormack. Television cameras are broadcasting the ceremony.]] King aide Andrew Young later claimed in a 2013 interview with the Academy of Achievement that the main source of tension between the SCLC and FBI was the government agency's lack of black agents, and that both parties were willing to cooperate with each other by the time the Selma to Montgomery marches had taken place.[70]
+at the signing of the Civil Rights Act of 1964. White House East Room. People watching include Attorney General Robert Kennedy, Senate Minority Leader Everett M. Dirksen, Senator Hubert Humphrey, First Lady "Lady Bird" Johnson, Rev. Martin Luther King Jr., F.B.I. Director J. Edgar Hoover, Speaker of the House John McCormack. Television cameras are broadcasting the ceremony.]] King aide Andrew Young later claimed in a 2013 interview with the Academy of Achievement that the main source of tension between the SCLC and FBI was the government agency's lack of black agents, and that both parties were willing to cooperate with each other by the time the Selma to Montgomery marches had taken place.[70]
 
 In one particularly controversial 1965 incident, white civil rights worker Viola Liuzzo was murdered by Ku Klux Klansmen, who gave chase and fired shots into her car after noticing that her passenger was a young black man; one of the Klansmen was Gary Thomas Rowe, an acknowledged FBI informant.[71][72] The FBI spread rumors that Liuzzo was a member of the Communist Party and had abandoned her children to have sexual relationships with African Americans involved in the civil rights movement.[73][74] FBI records show that J. Edgar Hoover personally communicated these insinuations to President Johnson.[75][76]
 
@@ -128,7 +128,7 @@ Hoover's body lay in state in the Rotunda of the U.S. Capitol,[86] where Chief J
 
 Legacy
 
-Fbi_headquarters.jpg in Washington, DC]] Biographer Kenneth D. Ackerman summarizes Hoover's legacy thus:
+in Washington, DC]] Biographer Kenneth D. Ackerman summarizes Hoover's legacy thus:
 
   For better or worse, he built the FBI into a modern, national organization stressing professionalism and scientific crime-fighting. For most of his life, Americans considered him a hero. He made the G-Man brand so popular that, at its height, it was harder to become an FBI agent than to be accepted into an Ivy League college.[91]
 
@@ -149,7 +149,7 @@ Hoover's practice of violating civil liberties for the sake of national security
 
 Private life
 
-Rebozo_Hoover_Nixon.jpg (left) and Richard Nixon. The three men relax before dinner, Key Biscayne, Florida, December 1971.]]
+(left) and Richard Nixon. The three men relax before dinner, Key Biscayne, Florida, December 1971.]]
 
 Pets
 
@@ -165,7 +165,7 @@ Cox and Theoharis concluded that "the strange likelihood is that Hoover never kn
 
 Hoover and Tolson
 
-Hoover_&_Tolson.jpg sitting in beach lounge chairs, c. 1939]] Hoover described Tolson as his alter ego: the men worked closely together during the day and, both single, frequently took meals, went to night clubs, and vacationed together.[117] This closeness between the two men is often cited as evidence that they were lovers. Some FBI employees who knew them, such as W. Mark Felt, say the relationship was "brotherly," however former FBI official Mike Mason suggested that some of Hoover's colleagues denied that he had a sexual relationship with Tolson in an effort to protect Hoover's image.[118]
+sitting in beach lounge chairs, c. 1939]] Hoover described Tolson as his alter ego: the men worked closely together during the day and, both single, frequently took meals, went to night clubs, and vacationed together.[117] This closeness between the two men is often cited as evidence that they were lovers. Some FBI employees who knew them, such as W. Mark Felt, say the relationship was "brotherly," however former FBI official Mike Mason suggested that some of Hoover's colleagues denied that he had a sexual relationship with Tolson in an effort to protect Hoover's image.[118]
 
 The novelist William Styron told Summers that he once saw Hoover and Tolson in a California beach house, where the director was painting his friend's toenails.[119] Harry Hay, founder of the Mattachine Society, one of the first gay rights organizations, said Hoover and Tolson sat in boxes owned by and used exclusively by gay men at the Del Mar racetrack in California.[120]
 

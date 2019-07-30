@@ -1,4 +1,4 @@
-Power}} Long_tail.svg, and to the left are the few that dominate (also known as the 80–20 rule).]]
+Power}} , and to the left are the few that dominate (also known as the 80–20 rule).]]
 
 In statistics, a POWER LAW is a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another. For instance, considering the area of a square in terms of the length of its side, if the length is doubled, the area is multiplied by a factor of four.[1]
 
@@ -131,7 +131,7 @@ Variants
 
 Broken power law
 
-Plot_of_various_initial_mass_functions.svg use a broken power law; here Kroupa (2001) in red.]] A broken power law is a piecewise function, consisting of two or more power laws, combined with a threshold. For example, with two power laws:[29]
+use a broken power law; here Kroupa (2001) in red.]] A broken power law is a piecewise function, consisting of two or more power laws, combined with a threshold. For example, with two power laws:[29]
 
 _f_(_x_) ∝ _x_^(_α_₁)
 for x < x_(th),
@@ -182,8 +182,6 @@ Although more sophisticated and robust methods have been proposed, the most freq
 Pareto Q–Q plots compare the quantiles of the log-transformed data to the corresponding quantiles of an exponential distribution with mean 1 (or to the quantiles of a standard Pareto distribution) by plotting the former versus the latter. If the resultant scatterplot suggests that the plotted points " asymptotically converge" to a straight line, then a power-law distribution should be suspected. A limitation of Pareto Q–Q plots is that they behave poorly when the tail index α (also called Pareto index) is close to 0, because Pareto Q–Q plots are not designed to identify distributions with slowly varying tails.[38]
 
 On the other hand, in its version for identifying power-law probability distributions, the mean residual life plot consists of first log-transforming the data, and then plotting the average of those log-transformed data that are higher than the _i_-th order statistic versus the _i_-th order statistic, for _i_ = 1, ..., _n_, where n is the size of the random sample. If the resultant scatterplot suggests that the plotted points tend to "stabilize" about a horizontal straight line, then a power-law distribution should be suspected. Since the mean residual life plot is very sensitive to outliers (it is not robust), it usually produces plots that are difficult to interpret; for this reason, such plots are usually called Hill horror plots [39]
-
-Log-log_plot_example.svg
 
 Log–log plots are an alternative way of graphically examining the tail of a distribution using a random sample. Caution has to be exercised however as a log–log plot is necessary but insufficient evidence for a power law relationship, as many non power-law distributions will appear as straight lines on a log–log plot.[40][41] This method consists of plotting the logarithm of an estimator of the probability that a particular number of the distribution occurs versus the logarithm of that particular number. Usually, this estimator is the proportion of times that the number occurs in the data set. If the points in the plot tend to "converge" to a straight line for large numbers in the x axis, then the researcher concludes that the distribution has a power-law tail. Examples of the application of these types of plot have been published.[42] A disadvantage of these plots is that, in order for them to provide reliable results, they require huge amounts of data. In addition, they are appropriate only for discrete (or grouped) data.
 

@@ -13,7 +13,7 @@ The majority of the citizens of the Republic of Marshall Islands, formed in 1982
 
 History
 
-Sailing_Canoe_and_Crew,_Jaliut_Lagoon,_Marshall_Islands_(1899-1900).jpg Sailing_Canoe_brailed_on_starboard_tack,_Jaliut_Lagoon,_Marshall_Islands_(1899-1900).jpged (reefed), c. 1899–1900.]] Kwajalein-Invasion_1944.jpg in 1944]] Leaving-bikini.jpg in March 1948]]
+ed (reefed), c. 1899–1900.]] in 1944]] in March 1948]]
 
 Evidence suggests that around 3,000 years ago successive waves of human migrants from Southeast Asia spread across the Western Pacific Ocean, populating its many small islands. The Marshall Islands were settled by Micronesians in the 2nd millennium BC. Little is known of the islands' early history. Early settlers traveled between the islands by canoe using traditional stick charts.[13]
 
@@ -29,7 +29,7 @@ At the beginning of World War I, Japan assumed control of the Marshall Islands. 
 
 From 1946 to 1958, it served as the Pacific Proving Grounds for the United States and was the site of 67 nuclear tests on various atolls.[17] The world's first hydrogen bomb, codenamed "Mike", was tested at the Enewetak atoll in the Marshall Islands on November 1, (local date) in 1952, by the United States.
 
-Castle_Bravo_Blast.jpg the United States ever conducted, Castle Bravo.]] Nuclear testing began in 1946 on Bikini Atoll after residents were evacuated. Over the years, 67 weapon tests were conducted, including the 15-megaton Castle Bravo hydrogen bomb test, which produced significant fallout in the region. The testing concluded in 1958. Over the years, just one of over 60 islands was cleaned by the US government, and the inhabitants are still waiting for the 2 billion dollars in compensation assessed by the Nuclear Claims Tribunal. Many of the islanders and their descendants still live in exile, as the islands remain contaminated with high levels of radiation.[18]
+the United States ever conducted, Castle Bravo.]] Nuclear testing began in 1946 on Bikini Atoll after residents were evacuated. Over the years, 67 weapon tests were conducted, including the 15-megaton Castle Bravo hydrogen bomb test, which produced significant fallout in the region. The testing concluded in 1958. Over the years, just one of over 60 islands was cleaned by the US government, and the inhabitants are still waiting for the 2 billion dollars in compensation assessed by the Nuclear Claims Tribunal. Many of the islanders and their descendants still live in exile, as the islands remain contaminated with high levels of radiation.[18]
 
 A significant radar installation was constructed on Kwajalein atoll.[19]
 
@@ -44,7 +44,7 @@ Despite the constitution, the government was largely controlled by Iroij. It was
 
 Geography
 
-MH_-map_A.png JJ7V2741_(40325750).jpgs that makes up the Marshall Islands]] Eneko_Islet_12.JPG.]] Bikini_Atoll_Nuclear_Test_Site-115017.jpg from above]] Marshall_Islands_(10700720174).jpg
+s that makes up the Marshall Islands]] .]] from above]]
 
 The Marshall Islands sit atop ancient submerged volcanoes rising from the ocean floor, about halfway between Hawaii and Australia,[20] north of Nauru and Kiribati, east of the Federated States of Micronesia, and south of the disputed U.S. territory of Wake Island, to which it also lays claim.[21] The atolls and islands form two groups: the Ratak (sunrise) and the Ralik (sunset). The two island chains lie approximately parallel to one another, running northwest to southeast, comprising about of ocean but only about of land mass.[22] Each includes 15 to 18 islands and atolls.[23] The country consists of a total of 29 atolls and five individual islands situated in about of the Pacific.[24] The largest atoll with a land area of is Kwajalein. It surrounds a lagoon.[25]
 
@@ -73,7 +73,7 @@ The Marshall Islands also lays claim to Wake Island.[28] While Wake has been adm
 
 Climate
 
-ClimateMajuroMarshallIslands.PNG.]] The climate has a dry season from December to April and a wet season from May to November. Many Pacific typhoons begin as tropical storms in the Marshall Islands region, and grow stronger as they move west toward the Mariana Islands and the Philippines.
+.]] The climate has a dry season from December to April and a wet season from May to November. Many Pacific typhoons begin as tropical storms in the Marshall Islands region, and grow stronger as they move west toward the Mariana Islands and the Philippines.
 
 Due to its very low elevation, the Marshall Islands are threatened by the potential effects of sea level rise.[30][31] According to the president of Nauru, the Marshall Islands are the most endangered nation in the world due to flooding from climate change.[32]
 
@@ -112,7 +112,7 @@ The official languages of the Marshall Islands are English and Marshallese. Both
 
 Religion
 
-Marshall_Islands_PICT0669_(4776527881).jpg Major religious groups in the Republic of the Marshall Islands include the United Church of Christ – Congregational in the Marshall Islands, with 51.5% of the population; the Assemblies of God, 24.2%; the Roman Catholic Church, 8.4%;[57] and The Church of Jesus Christ of Latter-day Saints (Mormons), 8.3%.[58] Also represented are Bukot Nan Jesus (also known as Assembly of God Part Two), 2.2%; Baptist, 1.0%; Seventh-day Adventists, 0.9%; Full Gospel, 0.7%; and the Baha'i Faith, 0.6%.[59] Persons without any religious affiliation account for a very small percentage of the population.[60] There is also a small community of Ahmadiyya Muslims based in Majuro, with the first mosque opening in the capital in September 2012.[61]
+Major religious groups in the Republic of the Marshall Islands include the United Church of Christ – Congregational in the Marshall Islands, with 51.5% of the population; the Assemblies of God, 24.2%; the Roman Catholic Church, 8.4%;[57] and The Church of Jesus Christ of Latter-day Saints (Mormons), 8.3%.[58] Also represented are Bukot Nan Jesus (also known as Assembly of God Part Two), 2.2%; Baptist, 1.0%; Seventh-day Adventists, 0.9%; Full Gospel, 0.7%; and the Baha'i Faith, 0.6%.[59] Persons without any religious affiliation account for a very small percentage of the population.[60] There is also a small community of Ahmadiyya Muslims based in Majuro, with the first mosque opening in the capital in September 2012.[61]
 
 Health
 
@@ -121,9 +121,9 @@ See Health in the Marshall Islands
 
 Government
 
-Republic_of_the_Marshall_Islands_Capitol_Building.gif Hilda_Heine.jpg, first woman and current president of the Marshall Islands, walking through the Memorial Amphitheater at Arlington National Cemetery Sept. 12, 2017.]] The government of the Marshall Islands operates under a mixed parliamentary-presidential system as set forth in its Constitution.[62] Elections are held every four years in universal suffrage (for all citizens above 18), with each of the twenty-four constituencies (see below) electing one or more representatives (senators) to the lower house of RMI's unicameral legislature, the NITIJELA. (Majuro, the capital atoll, elects five senators.) The President, who is head of state as well as head of government, is elected by the 33 senators of the Nitijela. Four of the five Marshallese presidents who have been elected since the Constitution was adopted in 1979 have been traditional paramount chiefs.[63]
+, first woman and current president of the Marshall Islands, walking through the Memorial Amphitheater at Arlington National Cemetery Sept. 12, 2017.]] The government of the Marshall Islands operates under a mixed parliamentary-presidential system as set forth in its Constitution.[62] Elections are held every four years in universal suffrage (for all citizens above 18), with each of the twenty-four constituencies (see below) electing one or more representatives (senators) to the lower house of RMI's unicameral legislature, the NITIJELA. (Majuro, the capital atoll, elects five senators.) The President, who is head of state as well as head of government, is elected by the 33 senators of the Nitijela. Four of the five Marshallese presidents who have been elected since the Constitution was adopted in 1979 have been traditional paramount chiefs.[63]
 
-10.30_總統抵達馬紹爾群島共和國，由海妮（Hilda_C._Heine）總統陪同沿紅地毯前進，接受兩側馬國國家警察儀隊致敬_(37980845986).jpg President Tsai Ing-wen in October 2017]] In January 2016, senator Hilda Heine was elected by Parliament as the first female president of the Marshall Islands; previous president Casten Nemra lost office after serving two weeks in a vote of no confidence.[64]
+President Tsai Ing-wen in October 2017]] In January 2016, senator Hilda Heine was elected by Parliament as the first female president of the Marshall Islands; previous president Casten Nemra lost office after serving two weeks in a vote of no confidence.[64]
 
 Legislative power lies with the Nitijela. The upper house of Parliament, called the COUNCIL OF IROIJ, is an advisory body comprising twelve tribal chiefs. The executive branch consists of the President and the Presidential Cabinet, which consists of ten ministers appointed by the President with the approval of the Nitijela. The twenty-four electoral districts into which the country is divided correspond to the inhabited islands and atolls. There are currently four political parties in the Marshall Islands: Aelon̄ Kein Ad (AKA), United People's Party (UPP), Kien Eo Am (KEA) and United Democratic Party (UDP). Rule is shared by the AKA and the UDP. The following senators are in the legislative body:
 
@@ -154,7 +154,7 @@ Legislative power lies with the Nitijela. The upper house of Parliament, called 
 
 Foreign affairs and defense
 
-Marshall_Islands_Police_patrol_vessel_Lomor_and_USCGC_Oliver_Berry_-_180703-G-CA140-115.jpg and the RMIS _Lomor_ on a joint patrol.[65]]]
+and the RMIS _Lomor_ on a joint patrol.[65]]]
 
 The Compact of Free Association with the United States gives the U.S. sole responsibility for international defense of the Marshall Islands. It gives islanders the right to emigrate to the United States and to work there.[66]
 
@@ -167,7 +167,7 @@ Since 1991 the Republic of Marshall Islands Sea Patrol, a division of Marshall I
 
 Culture
 
-Marshallese_Rito_Fans.jpg]]
+]]
 
 Although the ancient skills are now in decline, the Marshallese were once able navigators, using the stars and stick-and-shell charts.
 
@@ -184,8 +184,6 @@ Softball and Baseball is held under one sports federation in the Marshall Island
 
 
 Economy
-
-Marshall_Islands_treemap.png
 
 The islands have few natural resources, and their imports far exceed exports. According to the CIA, the value of exports in 2013 was approximately $53.7 million while estimated imports were $133.7 million. Agricultural products include coconuts, tomatoes, melons, taro, breadfruit, fruits, pigs and chickens. Industry is made of the production of copra and craft items, tuna processing and tourism. The GDP in 2016 was an estimated $180 million, with a real growth rate of 1.7%. The GDP per capita was $3,300.[73]
 
@@ -217,7 +215,7 @@ The United States Army maintains the Ronald Reagan Ballistic Missile Defense Tes
 
 Agriculture
 
-Marshall_Islands_PICT0355_(4744730879).jpg palms in the Marshall Islands]] Agricultural production is concentrated on small farms.[85] The most important commercial crops is Copra[86][87] followed by coconut, breadfruit, pandanus, banana, taro and arrowroot. The livestock consists primarily of pigs and chickens.[88][89]
+palms in the Marshall Islands]] Agricultural production is concentrated on small farms.[85] The most important commercial crops is Copra[86][87] followed by coconut, breadfruit, pandanus, banana, taro and arrowroot. The livestock consists primarily of pigs and chickens.[88][89]
 
 Industry
 

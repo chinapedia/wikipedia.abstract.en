@@ -1,4 +1,4 @@
-Mines_501556_fh000026.jpg (a bouncing mine); right: VS-50]] Minen.jpg
+(a bouncing mine); right: VS-50]]
 
 A LAND MINE is an explosive device concealed under or on the ground and designed to destroy or disable enemy targets, ranging from combatants to vehicles and tanks, as they pass over or near it. Such a device is typically detonated automatically by way of pressure when a target steps on it or drives over it, although other detonation mechanisms are also sometimes used.[1] A land mine may cause damage by direct blast effect, by fragments that are thrown by the blast, or by both.
 
@@ -20,7 +20,7 @@ The history of land mines can be divided up into three main phases: In the ancie
 
 Before explosives
 
-Roman_caltrop.jpg Some fortifications in the Roman Empire were surrounded by a series of hazards buried in the ground. These included _goads_, foot-long pieces of wood with iron hooks on their ends; _lilia_ (lilies, so named after their appearance), which were pits in which sharpened logs were arranged in a five-point pattern; and _abatis_, fallen trees with sharpened branches facing outwards. As with modern land mines, they were "victim-operated", often concealed, and formed zones that were wide enough so that the enemy could not do much harm from outside, but were under fire (from spear throws, in this case) if they attempted to remove the obstacles. A notable use of these defenses was by Julius Caesar in the Battle of Alesia. His forces were besieging Vercingetorix, the leader of the Gauls, but Vercingetorix managed to send for reinforcements. To maintain the siege and defend against the reinforcements, Caesar formed a line of fortifications on both sides, and they played an important role in his victory. Lilies were also used by Scots against the English at the Battle of Bannockburn in 1314, and by Germans at the Battle of Passchendaele in the First World War.[18]
+Some fortifications in the Roman Empire were surrounded by a series of hazards buried in the ground. These included _goads_, foot-long pieces of wood with iron hooks on their ends; _lilia_ (lilies, so named after their appearance), which were pits in which sharpened logs were arranged in a five-point pattern; and _abatis_, fallen trees with sharpened branches facing outwards. As with modern land mines, they were "victim-operated", often concealed, and formed zones that were wide enough so that the enemy could not do much harm from outside, but were under fire (from spear throws, in this case) if they attempted to remove the obstacles. A notable use of these defenses was by Julius Caesar in the Battle of Alesia. His forces were besieging Vercingetorix, the leader of the Gauls, but Vercingetorix managed to send for reinforcements. To maintain the siege and defend against the reinforcements, Caesar formed a line of fortifications on both sides, and they played an important role in his victory. Lilies were also used by Scots against the English at the Battle of Bannockburn in 1314, and by Germans at the Battle of Passchendaele in the First World War.[18]
 
 A more easily deployed defense used by the Romans was the caltrop, a weapon about 12–15 cm across with four sharp spikes that are oriented so that when it is thrown on the ground, one spike always points up. As with modern antipersonnel mines, caltrops are designed to disable soldiers rather than kill them, and they also stop mounted forces. They were used by the Jin Dynasty in China at the Battle of Zhongdu to slow down the advance of Genghis Khan's army; Joan of Arc was wounded by one in the Siege of Orléans; in Japan they are known as tetsu-bishu and were used by ninjas from the fourteenth century onwards. Caltrops are still strung together and used as roadblocks in some modern conflicts.[19]
 
@@ -28,7 +28,7 @@ Gunpowder
 
 East Asia
 
-Self-tripped_trespass_land_mine,_Huolongjing.jpg''.]]
+''.]]
 
 Starting in the ninth century, the Chinese began centuries of experiments that resulted in gunpowder, an explosive mixture of sulfur, charcoal and potassium nitrate. Gunpowder was first used in battle in the thirteenth century. An "enormous bomb", credited to Lou Qianxia, was used in 1277 by the Chinese at the Battle of Zhongdu,[20] although it probably had little effect. Gunpowder was difficult to use in mines because it is hygroscopic, easily absorbing water from the atmosphere, and when wet is no longer explosive.[21]
 
@@ -68,7 +68,7 @@ In the Russo-Japanese War of 1904–1905, both sides used land and sea mines, al
 
 First World War
 
-Smine-diagram.jpg One sign of the increasing power of explosives used in land mines was that, by the First World War, they burst into about 1,000 high-velocity fragments; in the Franco-Prussian War (1870), it had only been 20 to 30 fragments.[43] Nevertheless, antipersonnel mines were not a big factor in the war because machine guns, barbed wire and rapid-fire artillery were far more effective defenses. An exception was in Africa (now Tanzania and Namibia) where the warfare was much more mobile.[44]
+One sign of the increasing power of explosives used in land mines was that, by the First World War, they burst into about 1,000 high-velocity fragments; in the Franco-Prussian War (1870), it had only been 20 to 30 fragments.[43] Nevertheless, antipersonnel mines were not a big factor in the war because machine guns, barbed wire and rapid-fire artillery were far more effective defenses. An exception was in Africa (now Tanzania and Namibia) where the warfare was much more mobile.[44]
 
 Towards the end of the war, the British started to use tanks to break through trench defenses. The Germans responded with anti-tank guns and mines. Improvised mines gave way to mass-produced mines consisting of wooden boxes filled with guncotton, and minefields were standardized to stop masses of tanks from advancing.[45]
 
@@ -76,7 +76,7 @@ Between World Wars, the future Allies did little work on land mines, but the Ger
 
 Second World War
 
-German_-_Schu-Mine_with_Z.Z._42_igniter.jpg Tens of millions of mines were laid in the Second World War, particularly in the deserts of North Africa and the steppes of Eastern Europe, where the open ground favored tanks. However, the first country to use them was Finland. They were defending against a much larger Soviet force with over 6,000 tanks, twenty times the number the Finns had; but they had terrain that was broken up by lakes and forests, so tank movement was restricted to roads and tracks. Their defensive line, the Mannerheim Line, integrated these natural defenses with mines, including simple fragmentation mines mounted on stakes.[50] After the Soviets had lost over 400,000 soldiers and 2,200 tanks, they sued for peace.[51]
+Tens of millions of mines were laid in the Second World War, particularly in the deserts of North Africa and the steppes of Eastern Europe, where the open ground favored tanks. However, the first country to use them was Finland. They were defending against a much larger Soviet force with over 6,000 tanks, twenty times the number the Finns had; but they had terrain that was broken up by lakes and forests, so tank movement was restricted to roads and tracks. Their defensive line, the Mannerheim Line, integrated these natural defenses with mines, including simple fragmentation mines mounted on stakes.[50] After the Soviets had lost over 400,000 soldiers and 2,200 tanks, they sued for peace.[51]
 
 While the Germans were advancing rapidly using _blitzkrieg_ tactics, they did not make much use of mines. After 1942, however, they were on the defensive and became the most inventive and systematic users of mines. Their production shot up and they began inventing new types of mines as the Allies found ways to counter the existing ones. To make it more difficult to remove antitank mines, they surrounded them with S-mines and added anti-handling devices that would explode when soldiers tried to lift them. They also took a formal approach to laying mines and they kept detailed records of the locations of mines.[52][53]
 
@@ -90,7 +90,7 @@ Several mechanical methods for clearing mines were tried. Heavy rollers attached
 
 Cold War
 
-US_M18a1_claymore_mine.jpg During the Cold War, the members of NATO were concerned about massive armored attacks by the Soviet Union. They planned for a minefield stretching across the entire West German border, and developed new types of mine. The British designed an anti-tank mine, the Mark 7, to defeat rollers by detonating the second time it was pressed. It also had a 0.7-second delay so the tank would be directly over the mine. They also developed the first scatterable mine, the No. 7 ("Dingbat"). The Americans used the M6 antitank mine and tripwire-operated bouncing antipersonnel mines such as the M2 and M16.[58]
+During the Cold War, the members of NATO were concerned about massive armored attacks by the Soviet Union. They planned for a minefield stretching across the entire West German border, and developed new types of mine. The British designed an anti-tank mine, the Mark 7, to defeat rollers by detonating the second time it was pressed. It also had a 0.7-second delay so the tank would be directly over the mine. They also developed the first scatterable mine, the No. 7 ("Dingbat"). The Americans used the M6 antitank mine and tripwire-operated bouncing antipersonnel mines such as the M2 and M16.[58]
 
 In the Korean War, land mine use was dictated by the steep terrain, narrow valleys, forest cover and lack of developed roads. This made tanks less effective and more easily stopped by mines. However, mines laid near roads were often easy to spot. In response to this problem, the US developed the M24, a mine that was placed off to the side of the road. When triggered by a tripwire, it fired a rocket. However, the mine was not available until after the war.[59]
 
@@ -98,7 +98,7 @@ The Chinese had a lot of success with massed infantry attacks. The extensive for
 
 Looking for more destructive mines, the Americans developed the Claymore, a directional fragmentation mine that hurls steel balls in a 60 degree arc at a lethal speed of 1,200 metres per second. They also developed a pressure-operated mine, the M14 ("toe-popper"). These, too, were ready too late for the Korean war.[61]
 
-L9_Bar_mine.jpg]] In 1948, the British developed the No. 6 antipersonnel mine a minimum-metal mine with a narrow diameter, making it difficult to detect with metal detectors or prodding. Its three-pronged pressure piece inspired the nickname "Carrot Mine". However, it was unreliable in wet conditions. In the 1960s the Canadians developed a similar, but more reliable mine, the C3A1 ("Elsie") and the British army adopted it. The British also developed the L9 Bar Mine, a wide anti-tank mine with a rectangular shape, which covered more area, allowing a minefield to be laid four times as fast as previous mines. They also upgraded the Dingbat to the Ranger, a plastic mine that was fired from a truck-mounted discharger that could fire 72 mines at a time.[62]
+]] In 1948, the British developed the No. 6 antipersonnel mine a minimum-metal mine with a narrow diameter, making it difficult to detect with metal detectors or prodding. Its three-pronged pressure piece inspired the nickname "Carrot Mine". However, it was unreliable in wet conditions. In the 1960s the Canadians developed a similar, but more reliable mine, the C3A1 ("Elsie") and the British army adopted it. The British also developed the L9 Bar Mine, a wide anti-tank mine with a rectangular shape, which covered more area, allowing a minefield to be laid four times as fast as previous mines. They also upgraded the Dingbat to the Ranger, a plastic mine that was fired from a truck-mounted discharger that could fire 72 mines at a time.[62]
 
 In the 1950s, the US Operation Doan Brook studied the feasibility of delivering mines by air. This led to three types of air-delivered mine. Wide Area Anti-Personnel Mines (WAAPMs) were small steel spheres that discharged tripwires when they hit the ground; each dispenser held 540 mines. The BLU-43 Dragontooth was small and had a flattened W shape to slow its descent, while the Gravel mine was larger. Both were packed by the thousand into bombs. All three were designed to inactivate after a period of time, but any that failed to activate presented a safety challenge. Over 37 million Gravel mines were produced between 1967 and 1968, and when they were dropped in places like Vietnam their locations were unmarked and unrecorded. A similar problem was presented by unexploded cluster munitions.[63]
 
@@ -113,7 +113,7 @@ For a few decades during the Cold War, the U.S. developed atomic demolition muni
 
 Characteristics and function
 
-Panzermine_im_Schnitt.jpg, and the secondary fuze well on the side of the mine designed for an anti-handling device]] Mine-components.jpg
+, and the secondary fuze well on the side of the mine designed for an anti-handling device]]
 
 A conventional land mine consists of a casing that is mostly filled with the main charge. It has a firing mechanism such as a pressure plate; this triggers a detonator or igniter, which in turn sets off a booster charge. There may be additional firing mechanisms in anti-handling devices.[74]
 
@@ -129,7 +129,7 @@ There is a common misperception that a landmine is armed by stepping on it and o
 
 Anti-handling devices
 
-Landmine_anti-handling_devices.png Anti-handling devices detonate the mine if someone attempts to lift, shift or disarm it. The intention is to hinder deminers by discouraging any attempts to clear minefields. There is a degree of overlap between the function of a boobytrap and an anti-handling device insofar as some mines have optional fuze pockets into which standard pull or pressure-release boobytrap firing devices can be screwed. Alternatively, some mines may mimic a standard design, but actually be specifically intended to kill deminers, such as the MC-3 and PMN-3 variants of the PMN mine. Anti-handling devices can be found on both anti-personnel mines and anti-tank mines, either as an integral part of their design or as improvised add-ons. For this reason, the standard render safe procedure for mines is often to destroy them on site without attempting to lift them.
+Anti-handling devices detonate the mine if someone attempts to lift, shift or disarm it. The intention is to hinder deminers by discouraging any attempts to clear minefields. There is a degree of overlap between the function of a boobytrap and an anti-handling device insofar as some mines have optional fuze pockets into which standard pull or pressure-release boobytrap firing devices can be screwed. Alternatively, some mines may mimic a standard design, but actually be specifically intended to kill deminers, such as the MC-3 and PMN-3 variants of the PMN mine. Anti-handling devices can be found on both anti-personnel mines and anti-tank mines, either as an integral part of their design or as improvised add-ons. For this reason, the standard render safe procedure for mines is often to destroy them on site without attempting to lift them.
 
 
 Anti-tank mines
@@ -141,8 +141,6 @@ Anti-tank mines are typically larger than anti-personnel mines and require more 
 
 Anti-personnel mines
 
-Anti_personnel_mine.JPG
-
 Anti-personnel mines are designed primarily to kill or injure people, as opposed to vehicles. They are often designed to injure rather than kill in order to increase the logistical support (evacuation, medical) burden on the opposing force. Some types of anti-personnel mines can also damage the tracks or wheels of armored vehicles.
 
 In the asymmetric warfare conflicts and civil wars of the 21st century, improvised explosives, known as IEDs, have partially supplanted conventional landmines as the source of injury to dismounted (pedestrian) soldiers and civilians. IEDs are used mainly by insurgents and terrorists against regular armed forces and civilians. The injuries from the anti-personnel IED were recently reported in BMJ Open to be far worse than with landmines resulting in multiple limb amputations and lower body mutilation.[77]
@@ -150,7 +148,7 @@ In the asymmetric warfare conflicts and civil wars of the 21st century, improvis
 
 Warfare
 
-mine_sweep.jpg from a Russian-made mine in order to clear a minefield outside of Fallujah, Iraq]] Falklands-Minefield.JPG; clearance inhibited by boggy terrain]]
+from a Russian-made mine in order to clear a minefield outside of Fallujah, Iraq]] ; clearance inhibited by boggy terrain]]
 
 Land mines were designed for two main uses:
 
@@ -184,7 +182,7 @@ During the ongoing Syrian Civil War,[86][87] Iraqi Civil War (2014–2017)[88] a
 
 Laying mines
 
-Minefield_warning.JPG, still valid more than 40 years after creation of the field by the Syrian army]]
+, still valid more than 40 years after creation of the field by the Syrian army]]
 
 Minefields may be laid by several means. The preferred, but most labour-intensive, way is to have engineers bury the mines, since this will make the mines practically invisible and reduce the number of mines needed to deny the enemy an area. Mines can be laid by specialized mine-laying vehicles. Mine-scattering shells may be fired by artillery from a distance of several tens of kilometers.
 
@@ -201,7 +199,7 @@ Another specific use is to mine an aircraft runway immediately after it has been
 
 Demining
 
-Mines-raffi-kojian-IMG_1384.JPG educating children on mines and UXO]] British_engineers_demining.jpg practice mine clearance]]
+educating children on mines and UXO]] practice mine clearance]]
 
 Metal detectors were first used for demining, after their invention by the Polish officer Józef Kosacki.[91] His invention, known as the Polish mine detector, was used by the Allies alongside mechanical methods, to clear the German mine fields during the Second Battle of El Alamein when 500 units were shipped to Field Marshal Montgomery's Eighth Army.[92][93]
 
@@ -217,8 +215,6 @@ The laying of land mines has inadvertently led to a positive development in the 
 
 
 International treaties
-
-Ottawa_Treaty_members.svg Land_mine_casualties_and_fatalities.png
 
 The use of land mines is controversial because they are indiscriminate weapons, harming soldier and civilian alike. They remain dangerous after the conflict in which they were deployed has ended, killing and injuring civilians and rendering land impassable and unusable for decades. To make matters worse, many factions have not kept accurate records (or any at all) of the exact locations of their minefields, making removal efforts painstakingly slow. These facts pose serious difficulties in many developing nations where the presence of mines hampers resettlement, agriculture, and tourism. The International Campaign to Ban Landmines campaigned successfully to prohibit their use, culminating in the 1997 Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction, known informally as the Ottawa Treaty.
 
@@ -298,7 +294,7 @@ Mines
 -   Wooden box mine
 -   Bulgarian anti-helicopter mines
 
-Minenraeum_anzug.jpg Advanced Bomb Suit]]
+Advanced Bomb Suit]]
 
 Places
 

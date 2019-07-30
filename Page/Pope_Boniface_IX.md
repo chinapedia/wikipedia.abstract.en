@@ -10,7 +10,7 @@ The day before Tomacelli's election by the fourteen cardinals who remained faith
 
 Reign as Pope
 
-SUSS-282956MedievalPapalBullaBonaface_(FindID_442624).jpg of Boniface IX ]]
+of Boniface IX ]]
 
 During his reign, Boniface IX finally extinguished the troublesome independence of the commune of Rome and established temporal control, though it required fortifying not only the Castel Sant'Angelo, but the bridges also, and for long seasons he was forced to live in more peaceful surroundings at Assisi or Perugia. He also took over the port of Ostia from its Cardinal Bishop. In the Papal States, Boniface IX gradually regained control of the chief castles and cities, and he re-founded the States as they would appear during the fifteenth century.[7]
 

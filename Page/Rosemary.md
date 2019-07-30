@@ -10,7 +10,7 @@ _Rosmarinus officinalis_ is one of two to four species in the genus _Rosmarinus_
 
 Description
 
-Rosmarinus_officinalis_prostratus.jpg Rosemary is an aromatic evergreen shrub with leaves similar to hemlock needles. It is native to the Mediterranean and Asia, but is reasonably hardy in cool climates. It can withstand droughts, surviving a severe lack of water for lengthy periods.[8] In some parts of the world, it is considered a potentially invasive species.[9] The seeds are often difficult to start, with a low germination rate and relatively slow growth, but the plant can live as long as 30 years.[10]
+Rosemary is an aromatic evergreen shrub with leaves similar to hemlock needles. It is native to the Mediterranean and Asia, but is reasonably hardy in cool climates. It can withstand droughts, surviving a severe lack of water for lengthy periods.[8] In some parts of the world, it is considered a potentially invasive species.[9] The seeds are often difficult to start, with a low germination rate and relatively slow growth, but the plant can live as long as 30 years.[10]
 
 Forms range from upright to trailing; the upright forms can reach tall, rarely . The leaves are evergreen, long and 2–5 mm broad, green above, and white below, with dense, short, woolly hair.
 
@@ -19,7 +19,7 @@ The plant flowers in spring and summer in temperate climates, but the plants can
 
 History
 
-Rosemary,_ca_1500.jpg, _circa_ 1500]] The first mention of rosemary is found on cuneiform stone tablets as early as 5000 BC.[13] After that not much is known, except that Egyptians used it in their burial rituals.[14] There is no further mention of rosemary until the ancient Greeks and Romans. Pliny the Elder (23–79 AD) wrote about it in _The Natural History_,[15] as did Pedanius Dioscorides (c. 40 to c. 90), a Greek botanist (amongst other things). He talked about rosemary in his most famous writing, _De Materia Medica_, one of the most influential herbal books in history.
+, _circa_ 1500]] The first mention of rosemary is found on cuneiform stone tablets as early as 5000 BC.[13] After that not much is known, except that Egyptians used it in their burial rituals.[14] There is no further mention of rosemary until the ancient Greeks and Romans. Pliny the Elder (23–79 AD) wrote about it in _The Natural History_,[15] as did Pedanius Dioscorides (c. 40 to c. 90), a Greek botanist (amongst other things). He talked about rosemary in his most famous writing, _De Materia Medica_, one of the most influential herbal books in history.
 
 The herb then made its way east to China and was naturalized there as early as 220 AD,[16] during the late Han Dynasty.
 
@@ -32,7 +32,7 @@ Rosemary finally arrived in the Americas with early European settlers in the beg
 
 Usage
 
-Koeh-258.jpg]] Rosmarinus_officinalis_MHNT.BOT.2008.1.19.jpg]] Upon cultivation, the leaves, twigs, and flowering apices are extracted for use.[20] Rosemary is used as a decorative plant in gardens where it may have pest control effects. The leaves are used to flavor various foods, such as stuffing and roast meats.
+]] ]] Upon cultivation, the leaves, twigs, and flowering apices are extracted for use.[20] Rosemary is used as a decorative plant in gardens where it may have pest control effects. The leaves are used to flavor various foods, such as stuffing and roast meats.
 
 Cultivation
 
@@ -78,13 +78,13 @@ The following cultivars have gained the Royal Horticultural Society's Award of G
 
 Culinary use
 
-Rosemary_(রোজমেরী).JPG Rosemary leaves are used as a flavoring in foods,[29] such as stuffing and roast lamb, pork, chicken, and turkey. Fresh or dried leaves are used in traditional Mediterranean cuisine. They have a bitter, astringent taste and a characteristic aroma which complements many cooked foods. Herbal tea can be made from the leaves. When roasted with meats or vegetables, the leaves impart a mustard-like aroma with an additional fragrance of charred wood that goes well with barbecued foods.
+Rosemary leaves are used as a flavoring in foods,[29] such as stuffing and roast lamb, pork, chicken, and turkey. Fresh or dried leaves are used in traditional Mediterranean cuisine. They have a bitter, astringent taste and a characteristic aroma which complements many cooked foods. Herbal tea can be made from the leaves. When roasted with meats or vegetables, the leaves impart a mustard-like aroma with an additional fragrance of charred wood that goes well with barbecued foods.
 
 In amounts typically used to flavor foods, such as one teaspoon (1 gram), rosemary provides no nutritional value.[30][31] Rosemary extract has been shown to improve the shelf life and heat stability of omega 3-rich oils which are prone to rancidity.[32]
 
 Fragrance
 
-RosemaryEssentialOil.png Rosemary oil is used for purposes of fragrant bodily perfumes or to emit an aroma into a room. It is also burnt as incense, and used in shampoos and cleaning products.
+Rosemary oil is used for purposes of fragrant bodily perfumes or to emit an aroma into a room. It is also burnt as incense, and used in shampoos and cleaning products.
 
 Phytochemicals
 

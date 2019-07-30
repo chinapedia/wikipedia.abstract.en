@@ -40,7 +40,7 @@ By 1964, growing dissatisfaction with the ongoing negotiations ousted Salisbury'
 
 Emboldened by the results of this referendum and the subsequent general election, Rhodesia now threatened to assume her own sovereignty without British consent. Harold Wilson countered by warning that such an irregular procedure would be considered treasonous, although he specifically rejected using armed force against the English "kith and kin" in Africa.[58][59] Wilson's refusal to consider a military option encouraged Smith to proceed with his plans. Talks quickly broke down, and final efforts in October to achieve a settlement floundered; the Rhodesian Front remained unwilling to accept what were regarded as unacceptably drastic terms and the British would settle for nothing less – it was a formula doomed to failure.[60]
 
-Udi2-rho.jpg signs the Unilateral Declaration of Independence.]]
+signs the Unilateral Declaration of Independence.]]
 
 On 11 November 1965, following a brief but solemn consensus, Rhodesia's leading statesmen issued a unilateral declaration of independence (UDI).[61][62][63] This was immediately denounced as an "act of rebellion against the Crown" in the United Kingdom, and Wilson promised that the illegal action would be short-lived.[64][65] However, few seemed to initially realise that Rhodesia was no longer within the Commonwealth's direct sphere of influence and British rule was now a constitutional fiction; Salisbury remained virtually immune to credible metropolitan leverage.[66]
 
@@ -90,8 +90,6 @@ After the UDI, ZANU officials mapped an elaborate plan for the "liberation of Zi
 
 Sithole and Nkomo both insisted on the need for armed struggle, but disagreed on the means to go about it. For example, ZIPRA tended to follow Soviet thinking, placing an emphasis on sophisticated weaponry in the hopes of winning a conventional battle like the Viet Minh at Dien Bien Phu. ZANLA militants preferred to politicise populations in areas which they intended to seize.[132] Neither force, however, had acquired basic knowledge of guerrilla warfare. Debate on political theory and insurgent tactics became the obsession of nationalists at this stage.[133]
 
-Scoutwithgun.jpg
-
 In April 1966, two ZANLA units, having received prior training at Nanjing Military College, crossed into Rhodesia from Zambia. They were armed with SKS carbines, hand grenades, explosives, and communist pamphlets, having been issued vague instructions to sabotage important installations before killing white persons indiscriminately.[134] At least five guerrillas were simply arrested before getting very far. Another seven hoped to destroy a pylon carrying electricity to Sinoia in the northwest. Their faulty demolitions were uncovered by the Rhodesian Security Forces and the men easily tracked to a nearby ranch on 28 April, where they were shot resisting capture.[135][136][137] This event is considered to have been the first engagement of what came to be known as the "Bush War" in Rhodesia and the "Second " (or _rebellion_ in Shona) by supporters of the guerrillas.[138]
 
 The campaign proper is generally considered to have started in 1972 with the Attack on Altena Farm, despite the minor threat already represented by the nationalist movements in the 1960s.
@@ -106,7 +104,7 @@ Until 1972, containing the guerrillas was little more than a police action. Even
 
 At this point, ZANU's alliance with FRELIMO (the Liberation Front of Mozambique) and the porous border between Mozambique and eastern Rhodesia enabled large-scale training and infiltration of ZANU/ZANLA fighters. The governments of Zambia and Botswana were also emboldened sufficiently to allow resistance movement bases to be set up in their territories. Guerrillas began to launch operations deep inside Rhodesia, attacking roads, railways, economic targets and isolated security force positions, in 1976.[148]
 
-Rhodesian_Army_recruitment_Bush_War_1976.png 9×19mm semi-automatic pistol; from a 1976 army recruitment poster]] The government adopted a strategic hamlets policy of the kind used in Malaya and Vietnam to restrict the influence of insurgents over the population of rural areas. Local people were forced to relocate to protected villages (PVs) which were strictly controlled and guarded by the government against rebel atrocities. The protected villages were compared by the guerrillas to concentration camps. Some contemporary accounts claim that this interference in the lives of local residents induced many of them who had previously been neutral to support the guerrillas.[149]
+9×19mm semi-automatic pistol; from a 1976 army recruitment poster]] The government adopted a strategic hamlets policy of the kind used in Malaya and Vietnam to restrict the influence of insurgents over the population of rural areas. Local people were forced to relocate to protected villages (PVs) which were strictly controlled and guarded by the government against rebel atrocities. The protected villages were compared by the guerrillas to concentration camps. Some contemporary accounts claim that this interference in the lives of local residents induced many of them who had previously been neutral to support the guerrillas.[149]
 
 The war degenerated into rounds of increasing brutality from all three parties involved (ZANU and ZAPU, and the Rhodesian Army). Mike Subritzky, a former NZ Army ceasefire monitor in Rhodesia, in 1980 described the war as "both bloody and brutal and brought out the very worst in the opposing combatants on all three sides."[150]
 
@@ -144,7 +142,7 @@ The government's defence spending increased from R$30 million, 8.5% of the natio
 
 End of UDI (1979)
 
-Internal_Settlement.jpg, Jeremiah Chirau and Ndabaningi Sithole)]]
+, Jeremiah Chirau and Ndabaningi Sithole)]]
 
 The Rhodesian army continued its "mobile counter-offensive" strategy of holding key positions ("vital asset ground") while carrying out raids into the no-go areas and into neighbouring countries. While often extraordinarily successful in inflicting heavy guerrilla casualties, such raids also on occasion failed to achieve their objectives. In April 1979 special forces carried out a raid on Joshua Nkomo's residence in Lusaka (Zambia) with the stated intention of assassinating him.[173] Nkomo and his family left hastily a few hours before the raid – having clearly been warned that the raid was coming.
 
@@ -186,8 +184,6 @@ In the low-lying parts of the country fever trees, mopane, combretum and baobabs
 
 Government and politics
 
-Flag_of_the_President_of_Rhodesia_(1970–1979).svg
-
 Although Southern Rhodesia never gained full dominion status within the Commonwealth of Nations, Southern Rhodesians ruled themselves from the attainment of 'Responsible Government' in 1923. Its electoral register had property and education qualifications. Over the years various electoral arrangements made at a national and municipal level upheld these standards. For example, the franchise for the first Southern Rhodesian Legislative Council election in 1899 contained the following requirement:
 
   voters to be British subjects, male, 21 years of age and older, able to write their address and occupation, and then to fulfil the following financial requirements: (a) ownership of a registered mining claim in Southern Rhodesia, or (b) occupying immovable property worth £75, or (c) receiving wages or salary of £50 per annum in Southern Rhodesia. Six months' continuous residence was also required for qualifications (b) and (c).
@@ -205,7 +201,7 @@ The Constitution of the short-lived Zimbabwe Rhodesia, which saw a black-led gov
 
 Military
 
-Rhodesian_Eland_and_T-55.jpg in 1979.]]
+in 1979.]]
 
 Southern Rhodesia had long been distinctive among British dependencies in that it had financed and developed its own security forces and command structure.[182] After UDI, this posed a particular dilemma for the British government, which considered and rejected various proposals aimed at ending Rhodesia's state of rebellion by force.[183] Harold Wilson once remarked that bringing an end to Rhodesian independence "would not be a case of arresting a subversive individual. It would mean a bloody war, and probably a bloody war turning into a bloody civil war."[184] The formidable nature of the Rhodesian security forces, as well as British fears of a direct South African intervention on behalf of the rogue colony, preempted the further consideration of military options.[185]
 

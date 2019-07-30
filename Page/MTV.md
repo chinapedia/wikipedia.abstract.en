@@ -25,7 +25,7 @@ Pittman's boss Warner-Amex executive vice president John Lack had shepherded _Po
 
 Launch
 
-Mtvmoon.png moon landing ]] On Saturday, August 1, 1981, at 12:01 AMEastern Time,[14][15] MTV was launched with the words "Ladies and gentlemen, rock and roll," spoken by John Lack and played over footage of the first Space Shuttle launch countdown of _Columbia_ (which took place earlier that year) and of the launch of Apollo 11. Those words were immediately followed by the original MTV theme song, a crunching rock tune composed by Jonathan Elias and John Petersen, playing over the American flag changed to show MTV's logo changing into various textures and designs. MTV producers Alan Goodman and Fred Seibert used this public domain footage as a concept;[16] Seibert said that they had originally planned to use Neil Armstrong's "One small step" quote, but lawyers said that Armstrong owned his name and likeness and that he had refused, so the quote was replaced with a beeping sound.[17] A shortened version of the shuttle launch ID ran at the top of every hour in various forms, from MTV's first day until it was pulled in early 1986 in the wake of the _Challenger_ disaster.[18]
+moon landing ]] On Saturday, August 1, 1981, at 12:01 AMEastern Time,[14][15] MTV was launched with the words "Ladies and gentlemen, rock and roll," spoken by John Lack and played over footage of the first Space Shuttle launch countdown of _Columbia_ (which took place earlier that year) and of the launch of Apollo 11. Those words were immediately followed by the original MTV theme song, a crunching rock tune composed by Jonathan Elias and John Petersen, playing over the American flag changed to show MTV's logo changing into various textures and designs. MTV producers Alan Goodman and Fred Seibert used this public domain footage as a concept;[16] Seibert said that they had originally planned to use Neil Armstrong's "One small step" quote, but lawyers said that Armstrong owned his name and likeness and that he had refused, so the quote was replaced with a beeping sound.[17] A shortened version of the shuttle launch ID ran at the top of every hour in various forms, from MTV's first day until it was pulled in early 1986 in the wake of the _Challenger_ disaster.[18]
 
 The first music video shown on MTV was The Buggles' "Video Killed the Radio Star", originally only available to homes in New Jersey.[19] This was followed by the video for Pat Benatar's "You Better Run". The screen went black sporadically when an employee at MTV inserted a tape into a VCR.[20] MTV's lower third graphics that appeared near the beginning and end of music videos eventually used the recognizable Kabel typeface for about 25 years, but these graphics differed on MTV's first day of broadcast; they were set in a different typeface and included information such as the year and record label name. As programming chief, Robert W. Pittman recruited and managed a team for the launch that included Tom Freston (who succeeded Pittman as CEO of MTV Networks), Fred Seibert, John Sykes, Carolyn Baker (original head of talent and acquisition),[21] Marshall Cohen (original head of research),[22] Gail Sparrow (of talent and acquisition), Sue Steinberg (executive producer),[23] Julian Goldberg, Steve Lawrence, Geoff Bolton; studio producers and MTV News writers/associate producers Liz Nealon, Nancy LaPook and Robin Zorn; Steve Casey (creator of the name "MTV" and its first program director),[24] Marcy Brafman, Ronald E. "Buzz" Brindle, and Robert Morton. Kenneth M. Miller is credited as being the first technical director to officially launch MTV from its New York City-based network operations facility.[25]
 
@@ -145,7 +145,7 @@ By 2000, Sum 41, Linkin Park, Jimmy Eat World, Mudvayne, Cold, At the Drive-In, 
 
 _Total Request Live_ (1998–present)
 
-MTV_Times_Square_studio.jpg in Times Square ]] MTV created four shows in the late 1990s that centered on music videos: _MTV Live_, _Total Request_, _Say What?_, and_12 Angry Viewers_. In 1997, MTV introduced its new studios in Times Square.[73]
+in Times Square ]] MTV created four shows in the late 1990s that centered on music videos: _MTV Live_, _Total Request_, _Say What?_, and_12 Angry Viewers_. In 1997, MTV introduced its new studios in Times Square.[73]
 
 A year later, in 1998, MTV merged _Total Request_ and _MTV Live_ into a live daily top ten countdown show, _Total Request Live_, which became known as _TRL._ The original host was Carson Daly. [74] The show included a live studio audience and was filmed in a windowed studio that allowed crowds to look in.[75] According to Nielsen, the average audience for the show was at its highest in 1999 and continued with strong numbers through 2001.[76] The program played the top ten pop, rock, R&B, and hip hop music videos, and featured live interviews with artists and celebrities.[77]
 
@@ -183,7 +183,7 @@ In mid-2008, MTV premiered new music video programming blocks called _FNMTV_ and
 
 The _FNMTV Premieres_ event ended before the 2008 MTV Video Music Awards in September. With the exception of a holiday themed episode in December 2008 and an unrelated _Spring Break_ special in March 2009 with the same title, _FNMTV Premieres_ never returned to the channel's regular program schedule, leaving MTV without any music video programs hosted by VJs for the first time in its history.
 
-AMTV.png'', the name of MTV's music video programming from 2009 to 2013]] Music video programming returned to MTV in March 2009 as _AMTV_, an early morning block of music videos that originally aired from 3am to 9am on most weekdays.[95] It was renamed _Music Feed_ in 2013 with a reduced schedule. Unlike the _FNMTV_ block that preceded it, _Music Feed_ featured many full-length music videos, including some older videos that had been out of regular rotation for many years on MTV. It also featured music news updates, interviews, and performances.[96] For many years, _Music Feed_ was the only program on MTV's main channel that was dedicated to music videos.
+'', the name of MTV's music video programming from 2009 to 2013]] Music video programming returned to MTV in March 2009 as _AMTV_, an early morning block of music videos that originally aired from 3am to 9am on most weekdays.[95] It was renamed _Music Feed_ in 2013 with a reduced schedule. Unlike the _FNMTV_ block that preceded it, _Music Feed_ featured many full-length music videos, including some older videos that had been out of regular rotation for many years on MTV. It also featured music news updates, interviews, and performances.[96] For many years, _Music Feed_ was the only program on MTV's main channel that was dedicated to music videos.
 
 During the rest of the day, MTV used to play excerpts from music videos in split screen format during the closing credits of most programs, along with the address of a website to encourage the viewer to watch the full video online. MTV positioned its website, MTV.com, as its primary destination for music videos, but this strategy was abandoned.
 
@@ -216,7 +216,7 @@ In 2018, MTV launched MTV Studios, a production unit focused on producing new ve
 
 Other programs
 
-MTV_HD_Logo_2013.svg As MTV expanded, music videos were no longer the centerpiece of its programming. Conventional television shows came to replace the VJ-guided music video programming. Today, MTV presents a wide variety of non-music-related television shows aimed primarily at the 12- to 18-year-old demographic.
+As MTV expanded, music videos were no longer the centerpiece of its programming. Conventional television shows came to replace the VJ-guided music video programming. Today, MTV presents a wide variety of non-music-related television shows aimed primarily at the 12- to 18-year-old demographic.
 
 First format evolution (1985–1991)
 
@@ -246,7 +246,7 @@ In 2007, MTV aired the reality show _A Shot at Love with Tila Tequila_, chronicl
 
 MTV also welcomed Paris Hilton to its lineup in October 2008, with the launch of her new reality series, _Paris Hilton's My New BFF_.[123] In 2009, MTV aired Snoop Dogg's second program with the channel, _Dogg After Dark_, and the show _College Life_, based at the University of Wisconsin–Madison.
 
-Jersey_shore_guys,_shooting_in_Florence,_may_2011.JPG and The Situation of _Jersey Shore_ in 2011]] In late 2009, MTV shifted its focus back to _Real World_-style reality programming with the premiere of _Jersey Shore_, a program that brought high ratings to the channel and also caused controversy due to some of its content.[124]
+and The Situation of _Jersey Shore_ in 2011]] In late 2009, MTV shifted its focus back to _Real World_-style reality programming with the premiere of _Jersey Shore_, a program that brought high ratings to the channel and also caused controversy due to some of its content.[124]
 
 With backlash towards what some consider too much superficial content on the network, a 2009 _New York Times_ article also stated the intention of MTV to shift its focus towards more socially conscious media, which the article labels "MTV for the Obama era."[125] Shows in that vein included _T.I.'s Road to Redemption_ and Fonzworth Bentley's finishing school show _From G's to Gents_.
 
@@ -283,11 +283,9 @@ In 2010, a study by the Gay and Lesbian Alliance Against Defamation found that o
 
 Logo and branding
 
-Mtvstationid.gifs used during the 1980s; this one was designed by Henry Selick.]] MTV's now-iconic logo was designed in 1981 by Manhattan Design (a collective formed by Frank Olinsky,[141] Pat Gorman and Patty Rogoff) under the guidance of original creative director Fred Seibert. The block letter "M" was sketched by Rogoff, with the scribbled word "TV" spraypainted by Olinksky.[142] The primary variant of MTV's logo at the time had the "M" in yellow and the "TV" in red. But unlike most television networks' logos at the time, the logo was constantly branded with different colors, patterns and images on a variety of station IDs. The only constant aspects of MTV's logo at the time were its general shape and proportions, with everything else being dynamic.[143]
+s used during the 1980s; this one was designed by Henry Selick.]] MTV's now-iconic logo was designed in 1981 by Manhattan Design (a collective formed by Frank Olinsky,[141] Pat Gorman and Patty Rogoff) under the guidance of original creative director Fred Seibert. The block letter "M" was sketched by Rogoff, with the scribbled word "TV" spraypainted by Olinksky.[142] The primary variant of MTV's logo at the time had the "M" in yellow and the "TV" in red. But unlike most television networks' logos at the time, the logo was constantly branded with different colors, patterns and images on a variety of station IDs. The only constant aspects of MTV's logo at the time were its general shape and proportions, with everything else being dynamic.[143]
 
 MTV launched on August 1, 1981, with an extended network ID featuring the first landing on the moon (with still images acquired directly from NASA), which was a concept of Seibert's executed by Buzz Potamkin and Perpetual Motion Pictures.[144] The ID then cut to the American flag planted on the moon's surface changed to show the MTV logo on it, which rapidly changed into different colors and patterns several times per second as the network's original guitar-driven jingle was played for the first time. After MTV's launch, the "moon landing" ID was edited to show only its ending, and was shown at the top of every hour until early 1986, when the ID was scrapped in light of the Space Shuttle Challenger disaster. The ID ran "more than 75,000 times each year (48 times each day), at the top and bottom of every hour every day" according to Seibert.[145]
-
-MTV_Logo_Refresh.png
 
 From the late 1990s to the early 2000s, MTV updated its on-air appearance at the beginning of every year and each summer, creating a consistent brand across all of its music-related shows. This style of channel-wide branding came to an end as MTV drastically reduced its number of music-related shows in the early to mid 2000s. Around this time, MTV introduced a static and single color digital on-screen graphic to be shown during all of its programming.
 
@@ -384,7 +382,7 @@ In addition to its regular programming, MTV has a long history of promoting soci
 
 _Choose or Lose_
 
-Chooselose.jpg In 1992, MTV started a pro-democracy campaign called _Choose or Lose_, to encourage over 20 million people to register to vote, and the channel hosted a town hall forum for then-candidate Bill Clinton.[211]
+In 1992, MTV started a pro-democracy campaign called _Choose or Lose_, to encourage over 20 million people to register to vote, and the channel hosted a town hall forum for then-candidate Bill Clinton.[211]
 
 In recent years, other politically diverse programs on MTV have included _True Life_, which documents people's lives and problems, and MTV News specials, which center on very current events in both the music industry and the world. One special show covered the 2004 US Presidential election, airing programs focused on the issues and opinions of young people, including a program where viewers could ask questions of Senator John Kerry.[212] MTV worked with P. Diddy's "Citizen Change" campaign, designed to encourage young people to vote.[213]
 
@@ -425,7 +423,7 @@ On August 1, 2016, the 35th anniversary of the original MTV's launch, VH1 Classi
 
 Internet
 
-Mtvcom.png In the late 1980s, before the World Wide Web, MTV VJ Adam Curry began experimenting on the Internet. He registered the then-unclaimed domain name "MTV.com" in 1993 with the idea of being MTV's unofficial new voice on the Internet. Although this move was sanctioned by his supervisors at MTV Networks at the time, when Curry left to start his own web-portal design and hosting company, MTV subsequently sued him for the domain name, which led to an out-of-court settlement.[226]
+In the late 1980s, before the World Wide Web, MTV VJ Adam Curry began experimenting on the Internet. He registered the then-unclaimed domain name "MTV.com" in 1993 with the idea of being MTV's unofficial new voice on the Internet. Although this move was sanctioned by his supervisors at MTV Networks at the time, when Curry left to start his own web-portal design and hosting company, MTV subsequently sued him for the domain name, which led to an out-of-court settlement.[226]
 
 The service hosted at the domain name was originally branded "MTV Online" during MTV's first few years of control over it in the mid-1990s. It served as a counterpart to the America Online portal for MTV content, which existed at AOL keyword MTV until approximately the end of the 1990s. After this time, the website became known as simply "MTV.com" and served as the Internet hub for all MTV and MTV News content.
 

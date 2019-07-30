@@ -3,7 +3,7 @@ MERGE ALGORITHMS are a family of algorithms that take multiple sorted lists as i
 
 Application
 
-Merge_sort_algorithm_diagram.svg The merge algorithm plays a critical role in the merge sort algorithm, a comparison-based sorting algorithm. Conceptually, merge sort algorithm consists of two steps:
+The merge algorithm plays a critical role in the merge sort algorithm, a comparison-based sorting algorithm. Conceptually, merge sort algorithm consists of two steps:
 
 1.  Recursively divide the list into sublists of (roughly) equal length, until each sublist contains only one element, or in the case of iterative (bottom up) merge sort, consider a list of _n_ elements as _n_ sub-lists of size 1. A list containing a single element is, by definition, sorted.
 2.  Repeatedly merge sublists to create a new sorted sublist until the single list contains all elements. The single list is the sorted list.

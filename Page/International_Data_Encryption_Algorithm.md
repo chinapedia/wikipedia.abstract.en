@@ -15,7 +15,7 @@ IDEA operates on 64-bit blocks using a 128-bit key and consists of a series of 8
 
 After the 8 rounds comes a final “half-round”, the output transformation illustrated below (the swap of the middle two values cancels out the swap at the end of the last round, so that there is no net swap):
 
-    International_Data_Encryption_Algorithm_InfoBox_Diagram_Output_Trans.png
+
 
 Structure
 

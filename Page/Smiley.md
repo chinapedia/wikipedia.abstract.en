@@ -1,13 +1,13 @@
-SNice.svg A SMILEY (sometimes called a HAPPY FACE or SMILEY FACE) is a stylized representation of a smiling humanoid face that is a part of popular culture worldwide. The classic form designed by Harvey Ball in 1963 comprises a yellow circle with two black dots representing eyes and a black arc representing the mouth () On the Internet and in other plain text communication channels, the emoticon form (sometimes also called the SMILEY-FACE EMOTICON) has traditionally been most popular, typically employing a colon and a right parenthesis to form sequences such as :-), :), or (: that resemble a smiling face when viewed after rotation through 90 degrees. "Smiley" is also sometimes used as a generic term for any emoticon. The smiley has been referenced in nearly all areas of Western culture including music, movies, and art. The smiley has also been associated with late 1980s and early 1990s rave culture.[1][2][3]
+A SMILEY (sometimes called a HAPPY FACE or SMILEY FACE) is a stylized representation of a smiling humanoid face that is a part of popular culture worldwide. The classic form designed by Harvey Ball in 1963 comprises a yellow circle with two black dots representing eyes and a black arc representing the mouth () On the Internet and in other plain text communication channels, the emoticon form (sometimes also called the SMILEY-FACE EMOTICON) has traditionally been most popular, typically employing a colon and a right parenthesis to form sequences such as :-), :), or (: that resemble a smiling face when viewed after rotation through 90 degrees. "Smiley" is also sometimes used as a generic term for any emoticon. The smiley has been referenced in nearly all areas of Western culture including music, movies, and art. The smiley has also been associated with late 1980s and early 1990s rave culture.[1][2][3]
 
 The plural form "smilies" is commonly used,[4] but the variant spelling "smilie" is not as common as the "y" spelling.[5]
 
 
 History
 
----_Museo_Arqueológico_Nacional_(34616548673).jpg, Madrid, Spain.]] Around 2017, a team of archaeologists led by Nicolò Marchetti of the University of Bologna pieced together the fragments of a Hittite pot from approximately 1700 BC that had been found in Karkamış, Turkey. After it was pieced together, the team saw that it had what appeared to be a large smiley face painted on it.[6]
+, Madrid, Spain.]] Around 2017, a team of archaeologists led by Nicolò Marchetti of the University of Bologna pieced together the fragments of a Hittite pot from approximately 1700 BC that had been found in Karkamış, Turkey. After it was pieced together, the team saw that it had what appeared to be a large smiley face painted on it.[6]
 
-_Smiley_1741_Hennet.jpg Cistercian cloister, in 1741, with smiley-like drawing]]
+Cistercian cloister, in 1741, with smiley-like drawing]]
 
 The Danish poet and author Johannes V. Jensen was amongst other things famous for experimenting with the form of his writing. In a letter sent to publisher Ernst Bojesen in December 1900, he includes both a happy face and a sad face, resembling the modern smiley.
 
@@ -47,7 +47,7 @@ The smiley is the printable version of characters 1 and 2 of (black-and-white ve
 
 Licensing and legal issues
 
-Authentic_Worcester-made_smiley_face,_Harvey_Ball.jpg The rights to the Smiley trademark in one hundred countries are owned by the Smiley Company.[28] Its subsidiary SmileyWorld Ltd, in London, headed by Nicolas Loufrani, creates or approves all the Smiley products sold in countries where it holds the trademark.[29] The Smiley brand and logo have significant exposure through licensees in sectors such as clothing, home decoration, perfumery, plush, stationery, publishing, and through promotional campaigns.[30] The Smiley Company is one of the 100 biggest licensing companies in the world, with a turnover of US$167 million in 2012.[31] The first Smiley shop opened in London in the Boxpark shopping centre in December 2011.[32]
+The rights to the Smiley trademark in one hundred countries are owned by the Smiley Company.[28] Its subsidiary SmileyWorld Ltd, in London, headed by Nicolas Loufrani, creates or approves all the Smiley products sold in countries where it holds the trademark.[29] The Smiley brand and logo have significant exposure through licensees in sectors such as clothing, home decoration, perfumery, plush, stationery, publishing, and through promotional campaigns.[30] The Smiley Company is one of the 100 biggest licensing companies in the world, with a turnover of US$167 million in 2012.[31] The first Smiley shop opened in London in the Boxpark shopping centre in December 2011.[32]
 
 United States
 

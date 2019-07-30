@@ -1,4 +1,4 @@
-Michelangelo's_David_2015.jpg'', by Michelangelo (1501–1504), Accademia di Belle Arti, Florence, Italy, is a masterpiece of Renaissance and world art.]]
+'', by Michelangelo (1501–1504), Accademia di Belle Arti, Florence, Italy, is a masterpiece of Renaissance and world art.]]
 
 The RENAISSANCE ( , )[1] is a period in European history, covering the span between the 14th and 17th centuries and marking the transition from the Middle Ages to modernity. The traditional view focuses more on the early modern aspects of the Renaissance and argues that it was a break from the past, but many historians today focus more on its medieval aspects and argue that it was an extension of the Middle Ages.[2][3]
 
@@ -23,7 +23,7 @@ The Renaissance was a cultural movement that profoundly affected European intell
 
 Renaissance humanists such as Poggio Bracciolini sought out in Europe's monastic libraries the Latin literary, historical, and oratorical texts of Antiquity, while the Fall of Constantinople (1453) generated a wave of émigré Greek scholars bringing precious manuscripts in ancient Greek, many of which had fallen into obscurity in the West. It is in their new focus on literary and historical texts that Renaissance scholars differed so markedly from the medieval scholars of the Renaissance of the 12th century, who had focused on studying Greek and Arabic works of natural sciences, philosophy and mathematics, rather than on such cultural texts.
 
-Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_(Portrait_of_Simonetta_Vespucci_as_Nymph)_-_Google_Art_Project.jpg'' (c. 1480–85) (Simonetta Vespucci) by Sandro Botticelli]]
+'' (c. 1480–85) (Simonetta Vespucci) by Sandro Botticelli]]
 
 In the revival of neo-Platonism Renaissance humanists did not reject Christianity; quite the contrary, many of the Renaissance's greatest works were devoted to it, and the Church patronized many works of Renaissance art. However, a subtle shift took place in the way that intellectuals approached religion that was reflected in many other areas of cultural life.[20] In addition, many Greek Christian works, including the Greek New Testament, were brought back from Byzantium to Western Europe and engaged Western scholars for the first time since late antiquity. This new engagement with Greek Christian works, and particularly the return to the original Greek of the New Testament promoted by humanists Lorenzo Valla and Erasmus, would help pave the way for the Protestant Reformation.
 
@@ -34,7 +34,7 @@ In all, the Renaissance could be viewed as an attempt by intellectuals to study 
 
 Origins
 
-Sunset_over_florence_1.jpg, birthplace of the Renaissance]]
+, birthplace of the Renaissance]]
 
 Many argue that the ideas characterizing the Renaissance had their origin in late 13th-century Florence, in particular with the writings of Dante Alighieri (1265–1321) and Petrarch (1304–1374), as well as the paintings of Giotto di Bondone (1267–1337). Some writers date the Renaissance quite precisely; one proposed starting point is 1401, when the rival geniuses Lorenzo Ghiberti and Filippo Brunelleschi competed for the contract to build the bronze doors for the Baptistery of the Florence Cathedral (Ghiberti won).[23] Others see more general competition between artists and polymaths such as Brunelleschi, Ghiberti, Donatello, and Masaccio for artistic commissions as sparking the creativity of the Renaissance. Yet it remains much debated why the Renaissance began in Italy, and why it began when it did. Accordingly, several theories have been put forward to explain its origins.
 
@@ -44,7 +44,7 @@ Jules Michelet defined the 16th-century Renaissance in France as a period in Eur
 
 Latin and Greek phases of Renaissance humanism
 
-Salutati.jpg]]
+]]
 
 In stark contrast to the High Middle Ages, when Latin scholars focused almost entirely on studying Greek and Arabic works of natural science, philosophy and mathematics,[26] Renaissance scholars were most interested in recovering and studying Latin and Greek literary, historical, and oratorical texts. Broadly speaking, this began in the 14th century with a Latin phase, when Renaissance scholars such as Petrarch, Coluccio Salutati (1331–1406), Niccolò de' Niccoli (1364–1437) and Poggio Bracciolini (1380–1459) scoured the libraries of Europe in search of works by such Latin authors as Cicero, Lucretius, Livy and Seneca.[27] By the early 15th century, the bulk of the surviving such Latin literature had been recovered; the Greek phase of Renaissance humanism was under way, as Western European scholars turned to recovering ancient Greek literary, historical, oratorical and theological texts.[28]
 
@@ -52,7 +52,7 @@ Unlike with Latin texts, which had been preserved and studied in Western Europe 
 
 Social and political structures in Italy
 
-Italy_1494_AD.png circa 1494]]
+circa 1494]]
 
 The unique political structures of late Middle Ages Italy have led some to theorize that its unusual social climate allowed the emergence of a rare cultural efflorescence. Italy did not exist as a political entity in the early modern period. Instead, it was divided into smaller city states and territories: the Kingdom of Naples controlled the south, the Republic of Florence and the Papal States at the center, the Milanese and the Genoese to the north and west respectively, and the Venetians to the east. Fifteenth-century Italy was one of the most urbanised areas in Europe.[31] Many of its cities stood among the ruins of ancient Roman buildings; it seems likely that the classical nature of the Renaissance was linked to its origin in the Roman Empire's heartland.[32]
 
@@ -74,7 +74,7 @@ The Black Death caused greater upheaval to Florence's social and political struc
 
 Cultural conditions in Florence
 
-Lorenzo_de'_Medici_Rubens.jpg, ruler of Florence and patron of arts (Portrait by Rubens)]]
+, ruler of Florence and patron of arts (Portrait by Rubens)]]
 
 It has long been a matter of debate why the Renaissance began in Florence, and not elsewhere in Italy. Scholars have noted several features unique to Florentine cultural life that may have caused such a cultural movement. Many have emphasized the role played by the Medici, a banking family and later ducal ruling house, in patronizing and stimulating the arts. Lorenzo de' Medici (1449–1492) was the catalyst for an enormous amount of arts patronage, encouraging his countrymen to commission works from the leading artists of Florence, including Leonardo da Vinci, Sandro Botticelli, and Michelangelo Buonarroti.[46] Works by Neri di Bicci, Botticelli, da Vinci and Filippino Lippi had been commissioned additionally by the convent di San Donato agli Scopeti of the Augustinians order in Florence.[47]
 
@@ -85,7 +85,7 @@ Characteristics
 
 Humanism
 
-Pico1.jpg wrote the famous _Oration on the Dignity of Man_, which has been called the "Manifesto of the Renaissance".[50]]]
+wrote the famous _Oration on the Dignity of Man_, which has been called the "Manifesto of the Renaissance".[50]]]
 
 In some ways humanism was not a philosophy but a method of learning. In contrast to the medieval scholastic mode, which focused on resolving contradictions between authors, humanists would study ancient texts in the original and appraise them through a combination of reasoning and empirical evidence. Humanist education was based on the programme of 'Studia Humanitatis', the study of five humanities: poetry, grammar, history, moral philosophy and rhetoric. Although historians have sometimes struggled to define humanism precisely, most have settled on "a middle of the road definition... the movement to recover, interpret, and assimilate the language, literature, learning and values of ancient Greece and Rome".[51] Above all, humanists asserted "the genius of man ... the unique and extraordinary ability of the human mind".[52]
 
@@ -97,7 +97,7 @@ Humanism and libraries
 
 A unique characteristic of some Renaissance libraries is that they were open to the public. These libraries were places where ideas were exchanged and where scholarship and reading were considered both pleasurable and beneficial to the mind and soul. As freethinking was a hallmark of the age, many libraries contained a wide range of writers. Classical texts could be found alongside humanist writings. These informal associations of intellectuals profoundly influenced Renaissance culture. Some of the richest "bibliophiles" built libraries as temples to books and knowledge. A number of libraries appeared as manifestations of immense wealth joined with a love of books. In some cases, cultivated library builders were also committed to offering others the opportunity to use their collections. Prominent aristocrats and princes of the Church created great libraries for the use of their courts, called "court libraries", and were housed in lavishly designed monumental buildings decorated with ornate woodwork, and the walls adorned with frescoes (Murray, Stuart A.P.)
 
-Michelangelo's_grave4.jpg in the Basilica of Santa Croce, Florence]]
+in the Basilica of Santa Croce, Florence]]
 
 Art
 
@@ -105,7 +105,7 @@ Renaissance art marks a cultural rebirth at the close of the Middle Ages and ris
 
 The development of perspective was part of a wider trend towards realism in the arts.[55] Painters developed other techniques, studying light, shadow, and, famously in the case of Leonardo da Vinci, human anatomy. Underlying these changes in artistic method was a renewed desire to depict the beauty of nature and to unravel the axioms of aesthetics, with the works of Leonardo, Michelangelo and Raphael representing artistic pinnacles that were much imitated by other artists.[56] Other notable artists include Sandro Botticelli, working for the Medici in Florence, Donatello, another Florentine, and Titian in Venice, among others.
 
-Da_Vinci_Vitruve_Luc_Viatour.jpg's _Vitruvian Man_ (c. 1490) demonstrates the effect writers of Antiquity had on Renaissance thinkers. Based on the specifications in Vitruvius' _De architectura_ (1st century BC), Leonardo tried to draw the perfectly proportioned man. (Museum Gallerie dell'Accademia, Venice)]]
+'s _Vitruvian Man_ (c. 1490) demonstrates the effect writers of Antiquity had on Renaissance thinkers. Based on the specifications in Vitruvius' _De architectura_ (1st century BC), Leonardo tried to draw the perfectly proportioned man. (Museum Gallerie dell'Accademia, Venice)]]
 
 In the Netherlands, a particularly vibrant artistic culture developed. The work of Hugo van der Goes and Jan van Eyck was particularly influential on the development of painting in Italy, both technically with the introduction of oil paint and canvas, and stylistically in terms of naturalism in representation (see _Renaissance in the Netherlands_). Later, the work of Pieter Brueghel the Elder would inspire artists to depict themes of everyday life.[57]
 
@@ -117,7 +117,7 @@ Renaissance artists were not pagans, although they admired antiquity and kept so
 
 Science
 
-1543,AndreasVesalius'Fabrica,BaseOfTheBrain.jpg' studies inspired interest in human anatomy.]] Galileo_Galilei_2.jpg. Portrait by Renaissance painter Tintoretto]]
+' studies inspired interest in human anatomy.]] . Portrait by Renaissance painter Tintoretto]]
 
 The rediscovery of ancient texts and the invention of printing democratized learning and allowed a faster propagation of more widely distributed ideas. In the first period of the Italian Renaissance, humanists favoured the study of humanities over natural philosophy or applied mathematics, and their reverence for classical sources further enshrined the Aristotelian and Ptolemaic views of the universe. Writing around 1450, Nicholas Cusanus anticipated the heliocentric worldview of Copernicus, but in a philosophical fashion.
 
@@ -129,7 +129,7 @@ Some view this as a "scientific revolution", heralding the beginning of the mode
 
 Another important development was in the _process_ for discovery, the scientific method,[68] focusing on empirical evidence and the importance of mathematics, while discarding Aristotelian science. Early and influential proponents of these ideas included Copernicus, Galileo, and Francis Bacon.[69][70] The new scientific method led to great contributions in the fields of astronomy, physics, biology, and anatomy.[71]
 
-Pacioli.jpg'', father of accounting, painted by Jacopo de' Barbari, 1495, (Museo di Capodimonte).]] Applied innovation extended to commerce. At the end of the 15th century Luca Pacioli published the first work on bookkeeping, making him the founder of accounting.[72]
+'', father of accounting, painted by Jacopo de' Barbari, 1495, (Museo di Capodimonte).]] Applied innovation extended to commerce. At the end of the 15th century Luca Pacioli published the first work on bookkeeping, making him the founder of accounting.[72]
 
 Navigation and geography
 
@@ -147,13 +147,13 @@ Music
 
 From this changing society emerged a common, unifying musical language, in particular the polyphonic style of the Franco-Flemish school. The development of printing made distribution of music possible on a wide scale. Demand for music as entertainment and as an activity for educated amateurs increased with the emergence of a bourgeois class. Dissemination of chansons, motets, and masses throughout Europe coincided with the unification of polyphonic practice into the fluid style that culminated in the second half of the sixteenth century in the work of composers such as Palestrina, Lassus, Victoria and William Byrd.
 
-Alexander_VI_-_Pinturicchio_detail.jpg, a Borgia Pope infamous for his corruption]]
+, a Borgia Pope infamous for his corruption]]
 
 Religion
 
 The new ideals of humanism, although more secular in some aspects, developed against a Christian backdrop, especially in the Northern Renaissance. Much, if not most, of the new art was commissioned by or in dedication to the Church.[75] However, the Renaissance had a profound effect on contemporary theology, particularly in the way people perceived the relationship between man and God.[76] Many of the period's foremost theologians were followers of the humanist method, including Erasmus, Zwingli, Thomas More, Martin Luther, and John Calvin.
 
-Clovio_magi.jpg'' and _Solomon adored by the Queen of Sheba_ from the _Farnese Hours_ (1546) by Giulio Clovio marks the end of the Italian Renaissance of illuminated manuscript together with the _Index Librorum Prohibitorum_.]]
+'' and _Solomon adored by the Queen of Sheba_ from the _Farnese Hours_ (1546) by Giulio Clovio marks the end of the Italian Renaissance of illuminated manuscript together with the _Index Librorum Prohibitorum_.]]
 
 The Renaissance began in times of religious turmoil. The late Middle Ages was a period of political intrigue surrounding the Papacy, culminating in the Western Schism, in which three men simultaneously claimed to be true Bishop of Rome.[77] While the schism was resolved by the Council of Constance (1414), a resulting reform movement known as Conciliarism sought to limit the power of the pope. Although the papacy eventually emerged supreme in ecclesiastical matters by the Fifth Council of the Lateran (1511), it was dogged by continued accusations of corruption, most famously in the person of Pope Alexander VI, who was accused variously of simony, nepotism and fathering four children (most of whom were married off, presumably for the consolidation of power) while a cardinal.[78]
 
@@ -163,7 +163,7 @@ Pope Paul III came to the papal throne (1534–1549) after the sack of Rome in 1
 
 Self-awareness
 
-Leonardo_Bruni_-_Imagines_philologorum.jpg]] By the 15th century, writers, artists, and architects in Italy were well aware of the transformations that were taking place and were using phrases such as _modi antichi_ (in the antique manner) or _alle romana et alla antica_ (in the manner of the Romans and the ancients) to describe their work. In the 1330s Petrarch referred to pre-Christian times as _antiqua_ (ancient) and to the Christian period as _nova_ (new).[80] From Petrarch's Italian perspective, this new period (which included his own time) was an age of national eclipse.[81] Leonardo Bruni was the first to use tripartite periodization in his _History of the Florentine People_ (1442).[82] Bruni's first two periods were based on those of Petrarch, but he added a third period because he believed that Italy was no longer in a state of decline. Flavio Biondo used a similar framework in _Decades of History from the Deterioration of the Roman Empire_ (1439–1453).
+]] By the 15th century, writers, artists, and architects in Italy were well aware of the transformations that were taking place and were using phrases such as _modi antichi_ (in the antique manner) or _alle romana et alla antica_ (in the manner of the Romans and the ancients) to describe their work. In the 1330s Petrarch referred to pre-Christian times as _antiqua_ (ancient) and to the Christian period as _nova_ (new).[80] From Petrarch's Italian perspective, this new period (which included his own time) was an age of national eclipse.[81] Leonardo Bruni was the first to use tripartite periodization in his _History of the Florentine People_ (1442).[82] Bruni's first two periods were based on those of Petrarch, but he added a third period because he believed that Italy was no longer in a state of decline. Flavio Biondo used a similar framework in _Decades of History from the Deterioration of the Roman Empire_ (1439–1453).
 
 Humanist historians argued that contemporary scholarship restored direct links to the classical period, thus bypassing the Medieval period, which they then named for the first time the "Middle Ages". The term first appears in Latin in 1469 as _media tempestas_ (middle times).[83] The term _la rinascita_ (rebirth) first appeared, however, in its broad sense in Giorgio Vasari's _Lives of the Artists_, 1550, revised 1568.[84][85] Vasari divides the age into three phases: the first phase contains Cimabue, Giotto, and Arnolfo di Cambio; the second phase contains Masaccio, Brunelleschi, and Donatello; the third centers on Leonardo da Vinci and culminates with Michelangelo. It was not just the growing awareness of classical antiquity that drove this development, according to Vasari, but also the growing desire to study and imitate nature.[86]
 
@@ -174,13 +174,11 @@ In the 15th century, the Renaissance spread rapidly from its birthplace in Flore
 
 England
 
-"What a piece of work is a man, how noble in reason, how infinite in faculties, in form and moving how express and admirable, in action how like an angel, in apprehension how like a god!" – from William Shakespeare's'' Hamlet''.
-
 In England, the sixteenth century marked the beginning of the English Renaissance with the work of writers William Shakespeare, Christopher Marlowe, Edmund Spenser, Sir Thomas More, Francis Bacon, Sir Philip Sidney, as well as great artists, architects (such as Inigo Jones who introduced Italianate architecture to England), and composers such as Thomas Tallis, John Taverner, and William Byrd.
 
 France
 
-Chateau_de_chambord.jpg (1519–1547), one of the most famous examples of Renaissance architecture]]
+(1519–1547), one of the most famous examples of Renaissance architecture]]
 
 The word "Renaissance" is borrowed from the French language, where it means "re-birth". It was first used in the eighteenth century and was later popularized by French historian Jules Michelet (1798–1874) in his 1855 work, _Histoire de France_ (History of France).[87][88]
 
@@ -190,7 +188,7 @@ In 1533, a fourteen-year-old Caterina de' Medici (1519–1589), born in Florence
 
 Germany
 
-Jan_van_Eyck_001.jpg'', by Jan van Eyck, 1434]]
+'', by Jan van Eyck, 1434]]
 
 In the second half of the 15th century, the Renaissance spirit spread to Germany and the Low Countries, where the development of the printing press (ca. 1450) and early Renaissance artists such as the painters Jan van Eyck (1395–1441) and Hieronymus Bosch (1450–1516) and the composers Johannes Ockeghem (1410–1497), Jacob Obrecht (1457–1505) and Josquin des Prez (1455–1521) predated the influence from Italy. In the early Protestant areas of the country humanism became closely linked to the turmoil of the Protestant Reformation, and the art and writing of the German Renaissance frequently reflected this dispute.[89] However, the gothic style and medieval scholastic philosophy remained exclusively until the turn of the 16th century. Emperor Maximilian I of Habsburg (ruling 1493–1519) was the first truly Renaissance monarch of the Holy Roman Empire.
 
@@ -206,13 +204,13 @@ In 1489, Bartolomeo della Fonte of Florence wrote that Lorenzo de' Medici founde
 
 Netherlands
 
-Holbein-erasmus.jpg in 1523, as depicted by Hans Holbein the Younger]]
+in 1523, as depicted by Hans Holbein the Younger]]
 
 Culture in the Netherlands at the end of the 15th century was influenced by the Italian Renaissance through trade via Bruges, which made Flanders wealthy. Its nobles commissioned artists who became known across Europe.[99] In science, the anatomist Andreas Vesalius led the way; in cartography, Gerardus Mercator's map assisted explorers and navigators. In art, Dutch and Flemish Renaissance painting ranged from the strange work of Hieronymus Bosch[100] to the everyday life depictions of Pieter Brueghel the Elder.[101]
 
 Northern Europe
 
-The_Triumph_of_Death_P001393.jpg's _The Triumph of Death_ (c. 1562) reflects the social upheaval and terror that followed the plague that devastated medieval Europe.]]
+'s _The Triumph of Death_ (c. 1562) reflects the social upheaval and terror that followed the plague that devastated medieval Europe.]]
 
 The Renaissance in Northern Europe has been termed the "Northern Renaissance". While Renaissance ideas were moving north from Italy, there was a simultaneous southward spread of some areas of innovation, particularly in music.[102] The music of the 15th-century Burgundian School defined the beginning of the Renaissance in music, and the polyphony of the Netherlanders, as it moved with the musicians themselves into Italy, formed the core of the first true international style in music since the standardization of Gregorian Chant in the 9th century.[103] The culmination of the Netherlandish school was in the music of the Italian composer Palestrina. At the end of the 16th century Italy again became a center of musical innovation, with the development of the polychoral style of the Venetian School, which spread northward into Germany around 1600.
 
@@ -228,7 +226,7 @@ Portugal
 
 Although Italian Renaissance had a modest impact in Portuguese arts, Portugal was influential in broadening the European worldview,[108] stimulating humanist inquiry. Renaissance arrived through the influence of wealthy Italian and Flemish merchants who invested in the profitable commerce overseas. As the pioneer headquarters of European exploration, Lisbon flourished in the late 15th century, attracting experts who made several breakthroughs in mathematics, astronomy and naval technology, including Pedro Nunes, João de Castro, Abraham Zacuto and Martin Behaim. Cartographers Pedro Reinel, Lopo Homem, Estêvão Gomes and Diogo Ribeiro made crucial advances in mapping the world. Apothecary Tomé Pires and physicians Garcia de Orta and Cristóvão da Costa collected and published works on plants and medicines, soon translated by Flemish pioneer botanist Carolus Clusius.
 
-GraoVasco1.jpg. A pinnacle piece from when the Portuguese Renaissance had considerable external influence.]]
+. A pinnacle piece from when the Portuguese Renaissance had considerable external influence.]]
 
 In architecture, the huge profits of the spice trade financed a sumptuous composite style in the first decades of the 16th century, the Manueline, incorporating maritime elements.[109] The primary painters were Nuno Gonçalves, Gregório Lopes and Vasco Fernandes. In music, Pedro de Escobar and Duarte Lobo produced four songbooks, including the Cancioneiro de Elvas. In literature, Sá de Miranda introduced Italian forms of verse. Bernardim Ribeiro developed pastoral romance, plays by Gil Vicente fused it with popular culture, reporting the changing times, and Luís de Camões inscribed the Portuguese feats overseas in the epic poem Os Lusíadas. Travel literature especially flourished: João de Barros, Castanheda, António Galvão, Gaspar Correia, Duarte Barbosa, and Fernão Mendes Pinto, among others, described new lands and were translated and spread with the new printing press.[110] After joining the Portuguese exploration of Brazil in 1500, Amerigo Vespucci coined the term New World,[111] in his letters to Lorenzo di Pierfrancesco de' Medici.
 
@@ -240,11 +238,11 @@ Renaissance trends from Italy and Central Europe influenced Russia in many ways.
 
 Prince Ivan III introduced Renaissance architecture to Russia by inviting a number of architects from Italy, who brought new construction techniques and some Renaissance style elements with them, while in general following the traditional designs of Russian architecture. In 1475 the Bolognese architect Aristotele Fioravanti came to rebuild the Cathedral of the Dormition in the Moscow Kremlin, which had been damaged in an earthquake. Fioravanti was given the 12th-century Vladimir Cathedral as a model, and he produced a design combining traditional Russian style with a Renaissance sense of spaciousness, proportion and symmetry.
 
-Palais_à_facettes.jpg on the Cathedral Square of the Moscow Kremlin]]
+on the Cathedral Square of the Moscow Kremlin]]
 
 In 1485 Ivan III commissioned the building of the royal residence, Terem Palace, within the Kremlin, with Aloisio da Milano as the architect of the first three floors. He and other Italian architects also contributed to the construction of the Kremlin walls and towers. The small banquet hall of the Russian Tsars, called the Palace of Facets because of its facetted upper story, is the work of two Italians, Marco Ruffo and Pietro Solario, and shows a more Italian style. In 1505, an Italian known in Russia as Aleviz Novyi or Aleviz Fryazin arrived in Moscow. He may have been the Venetian sculptor, Alevisio Lamberti da Montagne. He built 12 churches for Ivan III, including the Cathedral of the Archangel, a building remarkable for the successful blending of Russian tradition, Orthodox requirements and Renaissance style. It is believed that the Cathedral of the Metropolitan Peter in Vysokopetrovsky Monastery, another work of Aleviz Novyi, later served as an inspiration for the so-called _octagon-on-tetragon_ architectural form in the Moscow Baroque of the late 17th century.
 
-Karp_Zolotaryov_Theotokos_Late_17th_century.jpg and The Child'', the late-17th-century Russian icon by Karp Zolotaryov, with notably realistic depiction of faces and clothing.]]
+and The Child'', the late-17th-century Russian icon by Karp Zolotaryov, with notably realistic depiction of faces and clothing.]]
 
 Between the early 16th and the late 17th centuries, an original tradition of stone tented roof architecture developed in Russia. It was quite unique and different from the contemporary Renaissance architecture elsewhere in Europe, though some research terms the style 'Russian Gothic' and compares it with the European Gothic architecture of the earlier period. The Italians, with their advanced technology, may have influenced the invention of the stone tented roof (the wooden tents were known in Russia and Europe long before). According to one hypothesis, an Italian architect called Petrok Maly may have been an author of the Ascension Church in Kolomenskoye, one of the earliest and most prominent tented roof churches.[114]
 
@@ -256,7 +254,7 @@ A number of technologies from the European Renaissance period were adopted by Ru
 
 Spain
 
-Vista_aerea_del_Monasterio_de_El_Escorial.jpg, by Juan de Herrera and Juan Bautista de Toledo]]
+, by Juan de Herrera and Juan Bautista de Toledo]]
 
 The Renaissance arrived in the Iberian peninsula through the Mediterranean possessions of the Aragonese Crown and the city of Valencia. Many early Spanish Renaissance writers come from the Kingdom of Aragon, including Ausiàs March and Joanot Martorell. In the Kingdom of Castile, the early Renaissance was heavily influenced by the Italian humanism, starting with writers and poets such as the Marquis of Santillana, who introduced the new Italian poetry to Spain in the early 15th century. Other writers, such as Jorge Manrique, Fernando de Rojas, Juan del Encina, Juan Boscán Almogáver and Garcilaso de la Vega, kept a close resemblance to the Italian canon. Miguel de Cervantes's masterpiece Don Quixote is credited as the first Western novel. Renaissance humanism flourished in the early 16th century, with influential writers such as philosopher Juan Luis Vives, grammarian Antonio de Nebrija and natural historian Pedro de Mexía.
 
@@ -272,7 +270,7 @@ Historiography
 
 Conception
 
-Vite.jpg ]]
+]]
 
 The Italian artist and critic Giorgio Vasari (1511–1574) first used the term _rinascita_ in his book _The Lives of the Artists_ (published 1550). In the book Vasari attempted to define what he described as a break with the barbarities of gothic art: the arts (he held) had fallen into decay with the collapse of the Roman Empire and only the Tuscan artists, beginning with Cimabue (1240–1301) and Giotto (1267–1337) began to reverse this decline in the arts. Vasari saw ancient art as central to the rebirth of Italian art.[116]
 
@@ -284,7 +282,7 @@ More recently, some historians have been much less keen to define the Renaissanc
 
 Debates about progress
 
-La_masacre_de_San_Bartolomé,_por_François_Dubois.jpg, an event in the French Wars of Religion, by François Dubois]] There is debate about the extent to which the Renaissance improved on the culture of the Middle Ages. Both Michelet and Burckhardt were keen to describe the progress made in the Renaissance towards the modern age. Burckhardt likened the change to a veil being removed from man's eyes, allowing him to see clearly.[124]
+, an event in the French Wars of Religion, by François Dubois]] There is debate about the extent to which the Renaissance improved on the culture of the Middle Ages. Both Michelet and Burckhardt were keen to describe the progress made in the Renaissance towards the modern age. Burckhardt likened the change to a veil being removed from man's eyes, allowing him to see clearly.[124]
 
 On the other hand, many historians now point out that most of the negative social factors popularly associated with the medieval period—poverty, warfare, religious and political persecution, for example—seem to have worsened in this era, which saw the rise of Machiavellian politics, the Wars of Religion, the corrupt Borgia Popes, and the intensified witch hunts of the 16th century. Many people who lived during the Renaissance did not view it as the "golden age" imagined by certain 19th-century authors, but were concerned by these social maladies.[125] Significantly, though, the artists, writers, and patrons involved in the cultural movements in question believed they were living in a new era that was a clean break from the Middle Ages.[126] Some Marxist historians prefer to describe the Renaissance in material terms, holding the view that the changes in art, literature, and philosophy were part of a general economic trend from feudalism towards capitalism, resulting in a bourgeois class with leisure time to devote to the arts.[127]
 

@@ -29,7 +29,7 @@ In its early years, MK engaged in cultural activities, such as producing Cornish
 
 Following infighting between senior members who were frustrated at her radical separatism, in contrast to the passive culturalism of the broader Cultural nationalist movement,[24][25] and following frustration at the party's dispersed and unenthusiastic membership,[26] Charles resigned as Chairman of MK in 1956.[27] Charles was replaced by Major Cecil Beer, a former civil servant who sought to reunify the Cornish nationalist movement.[28] Beer's three years as chairman of MK provided "a period of quiet but steady growth", in which MK increased its membership and focussed on cultural rather than political issues.[29][30] Party meetings largely focussed on "calendars, Christmas cards, serviettes, Cornish language classes and proposals for things like the Cornish kilt."[31]
 
-Daphne du Maurier, the well-known novelist, was an early member of MK.[32] From its founding until the 1980s, the party was divided between proponents of ethnic nationalism and proponents of civic nationalism.[33] Young_Daphne_du_Maurier.jpg, perhaps the best known supporter of Mebyon Kernow.]]
+Daphne du Maurier, the well-known novelist, was an early member of MK.[32] From its founding until the 1980s, the party was divided between proponents of ethnic nationalism and proponents of civic nationalism.[33] , perhaps the best known supporter of Mebyon Kernow.]]
 
 Growth (1960s–1970s)
 
@@ -73,7 +73,7 @@ In 1999, over 95% of members voted in favour of relaunching MK as MEBYON KERNOW 
 
 Cornish Assembly Campaign
 
-On 5 March 2000, MK launched a petition for a Cornish Assembly.[112][113] This was modelled from the "Declaration for a Cornish Assembly", which stated that:1._Declaration_for_a_Cornish_Assembly.jpg
+On 5 March 2000, MK launched a petition for a Cornish Assembly.[112][113] This was modelled from the "Declaration for a Cornish Assembly", which stated that:
 
 Three months later the Cornish Constitutional Convention was held with the objective of establishing a devolved Assembly. Within fifteen months, Mebyon Kernow's petition attracted the signatures of over 50,000 people calling for a referendum on a Cornish Assembly, which was a little over 10% of the total Cornish electorate.[114] A delegation including Cole, Andrew George, then the Liberal Democrat MP for St Ives, and representatives of the Convention presented the Declaration to 10 Downing Street on 12 December 2001.[115]
 

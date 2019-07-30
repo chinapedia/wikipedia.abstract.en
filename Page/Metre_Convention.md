@@ -1,4 +1,4 @@
-Convention_du_Mètre.png The METRE CONVENTION (), also known as the TREATY OF THE METRE,[1] is an international treaty that was signed in Paris on 20 May 1875 by representatives of 17 nations (Argentina, Austria-Hungary, Belgium, Brazil, Denmark, France, Germany, Italy, Peru, Portugal, Russia, Spain, Sweden and Norway, Switzerland, Ottoman Empire, United States of America, and Venezuela). The treaty created the International Bureau of Weights and Measures (BIPM), an intergovernmental organization under the authority of the General Conference on Weights and Measures (CGPM) and the supervision of the International Committee for Weights and Measures (CIPM), that coordinates international metrology and the development of the metric system.
+The METRE CONVENTION (), also known as the TREATY OF THE METRE,[1] is an international treaty that was signed in Paris on 20 May 1875 by representatives of 17 nations (Argentina, Austria-Hungary, Belgium, Brazil, Denmark, France, Germany, Italy, Peru, Portugal, Russia, Spain, Sweden and Norway, Switzerland, Ottoman Empire, United States of America, and Venezuela). The treaty created the International Bureau of Weights and Measures (BIPM), an intergovernmental organization under the authority of the General Conference on Weights and Measures (CGPM) and the supervision of the International Committee for Weights and Measures (CIPM), that coordinates international metrology and the development of the metric system.
 
 As well as founding the BIPM and laying down the way in which the activities of the BIPM should be financed and managed, the Metre Convention established a permanent organizational structure for member governments to act in common accord on all matters relating to units of measurement.
 
@@ -15,7 +15,7 @@ Initially the Metre Convention was only concerned with the units of mass and len
 
 Background
 
-Poids_et_mesures.png Before the French Revolution, which started in 1789, French units of measurement were based on the Carolingian system, introduced by the first Holy Roman Emperor Charlemagne (800 – 814 AD) which in turn were based on ancient Roman measures. Charlemagne brought a consistent system of measures across the entire empire. However, after his death, the empire fragmented and many rulers introduced their own variants of the units of measure.
+Before the French Revolution, which started in 1789, French units of measurement were based on the Carolingian system, introduced by the first Holy Roman Emperor Charlemagne (800 – 814 AD) which in turn were based on ancient Roman measures. Charlemagne brought a consistent system of measures across the entire empire. However, after his death, the empire fragmented and many rulers introduced their own variants of the units of measure.
 
 Some of Charlemagne's units of measure, such as the _pied du Roi_ (the king's foot) remained virtually unchanged for about a thousand years, while others, such as the _aune_ (ell—used to measure cloth) and the _livre_ (pound) varied dramatically from locality to locality. By the time of the revolution, the number of units of measure had grown to the extent that it was almost impossible to keep track of them.
 
@@ -44,7 +44,7 @@ The principal tasks facing the delegates at the 1875 conference was the replacem
 
 Reference standards
 
-Platinum-Iridium_meter_bar.jpg'' bar, made of an alloy of platinum and iridium, that was the standard from 1889 to 1960.]] The conference was called to discuss the maintenance of international standards based on the existing French standards rather than using French standards which, at that time, were 70 years old and which, through wear and tear, might not be exactly the same as when they adopted in 1799.
+'' bar, made of an alloy of platinum and iridium, that was the standard from 1889 to 1960.]] The conference was called to discuss the maintenance of international standards based on the existing French standards rather than using French standards which, at that time, were 70 years old and which, through wear and tear, might not be exactly the same as when they adopted in 1799.
 
 Prior to the 1870 conference, French politicians had feared that the world community might reject the existing metre as it was 0.03% (300 µm) shorter than its design length, ordering a new meridional measurement. They were eventually reassured when the German-born Swiss delegate Adolphe Hirsch said "no serious scientist would in our day and age contemplate a metre deduced from the size of the earth". When the conference was reconvened in 1875, it was proposed that new prototype metre and kilogram standards be manufactured to reproduce the values of the existing artifacts as closely as possible.[21]
 
@@ -66,7 +66,7 @@ The General Conference on Weights and Measures (_Conférence générale des poid
 
 International Committee for Weights and Measures
 
-Metric_seal.svg The International Committee for Weights and Measures (_Comité international des poids et mesures_ or CIPM) is made up of eighteen (originally fourteen)[30] individuals from a member state of high scientific standing, nominated by the CGPM to advise the CGPM on administrative and technical matters. It is responsible for the running of ten consultative committees (CCs), each of which investigates different aspects of metrology – one CC discusses the measurement of temperature, another the measurement of mass and so on. The CIPM meets annually at Sèvres to discuss annual reports from the various CCs, to submit an annual report to the governments of member states in respect of the administration and finances of the BIPM and to advise the CGPM on technical matters as and when necessary. Each member of the CIPM is from a different member state – with France, in recognition of its work in setting up the Convention, always having one seat on the CIPM.[31][32]
+The International Committee for Weights and Measures (_Comité international des poids et mesures_ or CIPM) is made up of eighteen (originally fourteen)[30] individuals from a member state of high scientific standing, nominated by the CGPM to advise the CGPM on administrative and technical matters. It is responsible for the running of ten consultative committees (CCs), each of which investigates different aspects of metrology – one CC discusses the measurement of temperature, another the measurement of mass and so on. The CIPM meets annually at Sèvres to discuss annual reports from the various CCs, to submit an annual report to the governments of member states in respect of the administration and finances of the BIPM and to advise the CGPM on technical matters as and when necessary. Each member of the CIPM is from a different member state – with France, in recognition of its work in setting up the Convention, always having one seat on the CIPM.[31][32]
 
 International Bureau of Weights and Measures
 
@@ -76,7 +76,7 @@ Initially it had a staff of 9, falling to 4 once the initial batch of prototypes
 
 Headquarters, language and protocol
 
-BIPM_courtyard.jpg The original treaty was written in French and the authoritative language of all official documents is French. Communication between the BIPM and member states is, in the case of France, via the French Foreign Minister and in the case of all other members, via the members' ambassador to France.[35]
+The original treaty was written in French and the authoritative language of all official documents is French. Communication between the BIPM and member states is, in the case of France, via the French Foreign Minister and in the case of all other members, via the members' ambassador to France.[35]
 
 The French government offered the treaty members the Pavillon de Breteuil in Sèvres to house the BIPM. The Pavillon was originally built in 1675 on the estate of the Château de Saint-Cloud and was home to, amongst others, Emperor Napoleon III. The château was all but destroyed during the Franco-Prussian War (1870–1) and the Pavillon badly damaged.[36] The Pavillon has been fully restored and, as headquarters of an intergovernmental organization enjoys privileges and immunities similar to those of embassies.[37]
 
@@ -99,7 +99,7 @@ The formal definition of International System of Units (SI) along with the assoc
 
 MRA programme
 
-CIPM-MRA-logo.jpg During the 1940s, the United States government recognised the benefits of its suppliers keeping quality control records in respect of manufactured goods that would provide traceability of the process. This process was formalised by the British Government and in 1979 as the quality control standard BS 5750. In 1987 BS 5750 was adopted by ISO as the basis for ISO 9000.[47] ISO 9000 is a general purpose quality control standard which works in conjunction industry-specific standards: for example ISO 15195:2003 which gives the specific requirements for reference measurement laboratories in laboratory medicine.[48]
+During the 1940s, the United States government recognised the benefits of its suppliers keeping quality control records in respect of manufactured goods that would provide traceability of the process. This process was formalised by the British Government and in 1979 as the quality control standard BS 5750. In 1987 BS 5750 was adopted by ISO as the basis for ISO 9000.[47] ISO 9000 is a general purpose quality control standard which works in conjunction industry-specific standards: for example ISO 15195:2003 which gives the specific requirements for reference measurement laboratories in laboratory medicine.[48]
 
 International trade is hampered by one country not recognising the quality controls in place in other countries – often due to standards being different or being incompatible with each other. At the 20th CGPM (1995), it was recognised that although ad-hoc recognition of instrument calibration between cooperating countries had been taking place for a hundred years, a need had arisen for a more comprehensive agreement. Consequently, the CIPM was mandated to investigate the setting up of a Mutual Recognition Agreement in respect of instrument calibration. Any such agreement would require the keeping of records that could demonstrate the traceability of calibrations back to the base standards. Such records would be recorded within an ISO 9000 framework. Four years later, in 1999 the text of the CIPM-MRA was agreed at the 21st CGPM.[49][50]
 
@@ -119,7 +119,7 @@ With the advent of the atomic clock it has been possible to define and measure I
 
 New SI
 
-Relations_between_New_SI_units_definitions.svg Since 1960, when the definition of the metre was linked to a particular wavelength of light rather than the international prototype metre, the only unit of measure that remained dependent on a particular artefact was the kilogram. Over the years, small drifts which could be as high as kilograms per annum in the mass of the international prototype kilogram have been detected.[55] At the 21st meeting of the CGPM (1999), national laboratories were urged to investigate ways of breaking the link between the kilogram and a specific artefact.
+Since 1960, when the definition of the metre was linked to a particular wavelength of light rather than the international prototype metre, the only unit of measure that remained dependent on a particular artefact was the kilogram. Over the years, small drifts which could be as high as kilograms per annum in the mass of the international prototype kilogram have been detected.[55] At the 21st meeting of the CGPM (1999), national laboratories were urged to investigate ways of breaking the link between the kilogram and a specific artefact.
 
 Independently of this drift having been identified, the Avogadro project and development of the Kibble (or watt) balance promised methods of indirectly measuring mass with a very high precision. These projects provided tools that would enable alternative means of redefining the kilogram.[56]
 

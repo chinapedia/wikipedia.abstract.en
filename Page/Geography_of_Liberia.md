@@ -1,4 +1,4 @@
-Topographic_map_of_Liberia-en.svg LocationLiberia.svg Koppen-Geiger_Map_LBR_present.svg LIBERIA is a Sub-Saharan nation in West Africa located at 6 °N, 9 °W. It borders the north Atlantic Ocean to the southwest ( of coastline) and three other African nations on the other three sides, Sierra Leone to the northwest, Guinea to the northeast and Ivory Coast (Cote d'Ivoire) to the east.[1]
+LIBERIA is a Sub-Saharan nation in West Africa located at 6 °N, 9 °W. It borders the north Atlantic Ocean to the southwest ( of coastline) and three other African nations on the other three sides, Sierra Leone to the northwest, Guinea to the northeast and Ivory Coast (Cote d'Ivoire) to the east.[1]
 
 In total, Liberia comprises of which is land and is water.
 
@@ -49,8 +49,6 @@ The natural hazard that occurs in Liberia is a dust-laden harmattan wind that bl
 
 
 Environmental issues
-
-Liberia_tropical_forest.jpg
 
 Environmental issues in Liberia include the deforestation of tropical rainforest, the hunting of endangered species for bushmeat, the pollution of rivers and coastal waters from industrial run-off and raw sewage, and the burning and dumping of household waste.
 

@@ -1,5 +1,3 @@
-Bosch_magneto_circuit_(Army_Service_Corps_Training,_Mechanical_Transport,_1911).jpg Low-tension_magneto_(Rankin_Kennedy,_Modern_Engines,_Vol_II).jpg Magneto_armature_(Army_Service_Corps_Training,_Mechanical_Transport,_1911).jpg Magneto,_longitudinal_section_(Rankin_Kennedy,_Modern_Engines,_Vol_II).jpg
-
 An IGNITION MAGNETO, or HIGH TENSION MAGNETO, is a magneto that provides current for the ignition system of a spark-ignition engine, such as a petrol engine. It produces pulses of high voltage for the spark plugs. The older term _tension_ means _voltage_.[1]
 
 The use of ignition magnetos is now confined mainly to engines where there is no other available electrical supply, for example in lawnmowers and chainsaws. It is also widely used in aviation piston engines even though an electrical supply is usually available. In this case the magneto's self-powered operation is considered to offer increased reliability; in theory the magneto should continue operation as long as the engine is turning.

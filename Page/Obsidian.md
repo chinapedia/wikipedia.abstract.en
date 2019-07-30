@@ -5,7 +5,7 @@ Obsidian is produced when felsic lava extruded from a volcano cools rapidly with
 
 Origin and properties
 
-ObsidianDomeCA.JPG at Obsidian Dome, California]] Schneeflockenobsidian-Daumenstein.JPG crystals]]
+at Obsidian Dome, California]] crystals]]
 
 The translation into English of _Natural History_ written by Pliny the Elder of Rome shows a few sentences on the subject of a volcanic glass called obsidian (_lapis obsidianus_), discovered in Ethiopia by Obsidius, a Roman explorer.[5][6][7][8]
 
@@ -20,7 +20,7 @@ Pure obsidian is usually dark in appearance, though the color varies depending o
 
 Occurrence
 
-Glass_Mountain_on_Medicine_Lake_Volcano-750px.jpg in California]] Obsidian can be found in locations which have experienced rhyolitic eruptions. It can be found in Argentina, Armenia, Azerbaijan, Australia,[19] Canada, Chile, Georgia, Greece, El Salvador, Guatemala, Iceland, Italy, Japan, Kenya, Mexico, New Zealand, Papua New Guinea, Peru, Scotland, Turkey and the United States. Obsidian flows which may be hiked on are found within the calderas of Newberry Volcano and Medicine Lake Volcano in the Cascade Range of western North America, and at Inyo Craters east of the Sierra Nevada in California. Yellowstone National Park has a mountainside containing obsidian located between Mammoth Hot Springs and the Norris Geyser Basin, and deposits can be found in many other western U.S. states including Arizona, Colorado, New Mexico, Texas, Utah, Washington,[20] Oregon[21] and Idaho. Obsidian can also be found in the eastern U.S. states of Virginia, as well as Pennsylvania and North Carolina.
+in California]] Obsidian can be found in locations which have experienced rhyolitic eruptions. It can be found in Argentina, Armenia, Azerbaijan, Australia,[19] Canada, Chile, Georgia, Greece, El Salvador, Guatemala, Iceland, Italy, Japan, Kenya, Mexico, New Zealand, Papua New Guinea, Peru, Scotland, Turkey and the United States. Obsidian flows which may be hiked on are found within the calderas of Newberry Volcano and Medicine Lake Volcano in the Cascade Range of western North America, and at Inyo Craters east of the Sierra Nevada in California. Yellowstone National Park has a mountainside containing obsidian located between Mammoth Hot Springs and the Norris Geyser Basin, and deposits can be found in many other western U.S. states including Arizona, Colorado, New Mexico, Texas, Utah, Washington,[20] Oregon[21] and Idaho. Obsidian can also be found in the eastern U.S. states of Virginia, as well as Pennsylvania and North Carolina.
 
 There are only four major deposit areas in the central Mediterranean: Lipari, Pantelleria, Palmarola and Monte Arci.[22]
 
@@ -31,7 +31,7 @@ Acıgöl town and the Göllü Dağ volcano were the most important sources in ce
 
 Historical use
 
-Arrowhead.jpg]]
+]]
 
 The first known archaeological evidence of usage was in Kariandusi and other sites of the Acheulian age (beginning 1.5 million years BP) dated 700,000 BC, although the number of objects found at these sites were very low relative to the Neolithic.[27][28][29][30][31] Use of obsidian in pottery of the Neolithic in the area around Lipari was found to be significantly less at a distance representing two weeks journeying.[32] Anatolian sources of obsidian are known to have been the material used in the Levant and modern-day Iraqi Kurdistan from a time beginning sometime about 12,500 BC.[33] The first attested civilized use is dated to the late fifth millennium BC, known from excavations at Tell Brak.[34] Obsidian was valued in Stone Age cultures because, like flint, it could be fractured to produce sharp blades or arrowheads. Like all glass and some other types of naturally occurring rocks, obsidian breaks with a characteristic conchoidal fracture. It was also polished to create early mirrors. Modern archaeologists have developed a relative dating system, obsidian hydration dating, to calculate the age of obsidian artifacts.
 
@@ -41,17 +41,17 @@ Obsidian artifacts first appeared in the European continent in the Middle Paleol
 
 Middle East
 
-20141231_155025-_Prehistoric-_Obsidian-Turkey-cropped.jpg]] In the Ubaid in the 5th millennium BC, blades were manufactured from obsidian extracted from outcrops located in modern-day Turkey.[36] Ancient Egyptians used obsidian imported from the eastern Mediterranean and southern Red Sea regions. Obsidian was also used in ritual circumcisions because of its deftness and sharpness.[37] In the eastern Mediterranean area the material was used to make tools, mirrors and decorative objects.[38]
+]] In the Ubaid in the 5th millennium BC, blades were manufactured from obsidian extracted from outcrops located in modern-day Turkey.[36] Ancient Egyptians used obsidian imported from the eastern Mediterranean and southern Red Sea regions. Obsidian was also used in ritual circumcisions because of its deftness and sharpness.[37] In the eastern Mediterranean area the material was used to make tools, mirrors and decorative objects.[38]
 
 Obsidian has also been found in Gilat, a site in the western Negev in Israel. Eight obsidian artifacts dating to the Chalcolithic Age found at this site were traced to obsidian sources in Anatolia. Neutron activation analysis (NAA) on the obsidian found at this site helped to reveal trade routes and exchange networks previously unknown.[39]
 
 Americas
 
-ObsidianWareLopezMAPHidalgo2.JPG.]] Lithic analysis can be instrumental in understanding prehispanic groups in Mesoamerica. A careful analysis of obsidian in a culture or place can be of considerable use to reconstruct commerce, production, distribution and thereby understand economic, social and political aspects of a civilization. This is the case in Yaxchilán, a Maya city where even warfare implications have been studied linked with obsidian use and its debris.[40] Another example is the archeological recovery at coastal Chumash sites in California indicating considerable trade with the distant site of Casa Diablo, California in the Sierra Nevada Mountains.[41]
+.]] Lithic analysis can be instrumental in understanding prehispanic groups in Mesoamerica. A careful analysis of obsidian in a culture or place can be of considerable use to reconstruct commerce, production, distribution and thereby understand economic, social and political aspects of a civilization. This is the case in Yaxchilán, a Maya city where even warfare implications have been studied linked with obsidian use and its debris.[40] Another example is the archeological recovery at coastal Chumash sites in California indicating considerable trade with the distant site of Casa Diablo, California in the Sierra Nevada Mountains.[41]
 
-Takalik_Abaj_obsidian_1.jpg Pre-Columbian Mesoamericans' use of obsidian was extensive and sophisticated; including carved and worked obsidian for tools and decorative objects. Mesoamericans also made a type of sword with obsidian blades mounted in a wooden body. Called a _macuahuitl_, the weapon was capable of inflicting terrible injuries, combining the sharp cutting edge of an obsidian blade with the ragged cut of a serrated weapon. The pole arm version of this weapon was called _tepoztopilli_.
+Pre-Columbian Mesoamericans' use of obsidian was extensive and sophisticated; including carved and worked obsidian for tools and decorative objects. Mesoamericans also made a type of sword with obsidian blades mounted in a wooden body. Called a _macuahuitl_, the weapon was capable of inflicting terrible injuries, combining the sharp cutting edge of an obsidian blade with the ragged cut of a serrated weapon. The pole arm version of this weapon was called _tepoztopilli_.
 
-Obsidian_from_Milos_in_Crete,_3000-2300_BC,_AMH,_144707.jpg.]] Native American people traded obsidian throughout the Americas. Each volcano and in some cases each volcanic eruption produces a distinguishable type of obsidian, making it possible for archaeologists to trace the origins of a particular artifact. Similar tracing techniques have allowed obsidian to be identified in Greece also as coming from Milos, Nisyros or Gyali, islands in the Aegean Sea. Obsidian cores and blades were traded great distances inland from the coast.[42]
+.]] Native American people traded obsidian throughout the Americas. Each volcano and in some cases each volcanic eruption produces a distinguishable type of obsidian, making it possible for archaeologists to trace the origins of a particular artifact. Similar tracing techniques have allowed obsidian to be identified in Greece also as coming from Milos, Nisyros or Gyali, islands in the Aegean Sea. Obsidian cores and blades were traded great distances inland from the coast.[42]
 
 In Chile obsidian tools from Chaitén Volcano have been found as far away as in Chan-Chan north of the volcano and also in sites 400 km south of it.[43][44]
 
@@ -64,7 +64,7 @@ Current use
 
 Obsidian can be used to make extremely sharp knives, and obsidian blades are a type of glass knife made using naturally occurring obsidian instead of manufactured glass. Obsidian is used by some surgeons for scalpel blades, although this is not approved by the US Food and Drug Administration (FDA) for use on humans. Well-crafted obsidian blades, as with any glass knife, can have a cutting edge many times sharper than high-quality steel surgical scalpels, the cutting edge of the blade being only about 3 nanometers thick.[46] Even the sharpest metal knife has a jagged, irregular blade when viewed under a strong enough microscope; when examined even under an electron microscope an obsidian blade is still smooth and even.[47] One study found that obsidian incisions produced fewer inflammatory cells and less granulation tissue at seven days, in a group of rats, although no differences were found after 21 days.[48] Don Crabtree produced obsidian blades for surgery and other purposes,[49] and has written articles on the subject. Obsidian scalpels may currently be purchased for surgical use on research animals.[50]
 
-Pig.snowobsidian.jpgs.]] Obsidian is also used for ornamental purposes and as a gemstone.[51] It presents a different appearance depending on how it is cut: in one direction it is jet black, while in another it is glistening gray. "Apache tears" are small rounded obsidian nuggets often embedded within a grayish-white perlite matrix.
+s.]] Obsidian is also used for ornamental purposes and as a gemstone.[51] It presents a different appearance depending on how it is cut: in one direction it is jet black, while in another it is glistening gray. "Apache tears" are small rounded obsidian nuggets often embedded within a grayish-white perlite matrix.
 
 Plinths for audio turntables have been made of obsidian since the 1970s; e.g. the grayish-black SH-10B3 plinth by Technics.
 

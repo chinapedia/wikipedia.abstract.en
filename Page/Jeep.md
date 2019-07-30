@@ -13,7 +13,7 @@ In lowercase, the term "jeep" continues to be used as a generic term for vehicle
 
 World War II Jeeps
 
-Bantam-jeep-1.jpg Ford_Pygmy_jeep_pilot_vehicle.JPG WW2jeep.jpg CaastroValleyMay2008parade-016.jpg]]
+]]
 
 Development – 1. Bantam Reconnaissance Car
 
@@ -31,7 +31,7 @@ Because the US War Department required a large number of vehicles in a short tim
 
 Full production – Willys MB and Ford GPW
 
-Willys_Jeep_1943.jpg Final production version Jeeps built by Willys-Overland were the MODEL MB, while those built by Ford were the MODEL GPW (_G_=government vehicle, _P_ designated the 80" wheelbase, and _W_ = the Willys engine design). There were subtle differences between the two.[24] The versions produced by Ford had every component (including bolt heads) marked with an "F". Willys also followed the Ford pattern by stamping its name into some body parts, but stopped this in 1942.[25] The cost per vehicle trended upwards as the war continued from the price under the first contract from Willys at US$648.74 (Ford's was $782.59 per unit).[26] Willys-Overland and Ford, under the direction of Charles E. Sorensen (Vice-President of Ford during World War II), produced about 640,000 Jeeps towards the war effort, which accounted for approximately 18% of all the wheeled military vehicles built in the U.S. during the war.[27][28][29]
+Final production version Jeeps built by Willys-Overland were the MODEL MB, while those built by Ford were the MODEL GPW (_G_=government vehicle, _P_ designated the 80" wheelbase, and _W_ = the Willys engine design). There were subtle differences between the two.[24] The versions produced by Ford had every component (including bolt heads) marked with an "F". Willys also followed the Ford pattern by stamping its name into some body parts, but stopped this in 1942.[25] The cost per vehicle trended upwards as the war continued from the price under the first contract from Willys at US$648.74 (Ford's was $782.59 per unit).[26] Willys-Overland and Ford, under the direction of Charles E. Sorensen (Vice-President of Ford during World War II), produced about 640,000 Jeeps towards the war effort, which accounted for approximately 18% of all the wheeled military vehicles built in the U.S. during the war.[27][28][29]
 
 Jeeps were used by every service of the U.S. military. An average of 145 were supplied to every Army infantry regiment. Jeeps were used for many purposes, including cable laying, saw milling, as firefighting pumpers, field ambulances, tractors and, with suitable wheels, would even run on railway tracks. An amphibious jeep, the model GPA, or "seep" (Sea Jeep) was built for Ford in modest numbers but it could not be considered a huge success—it was neither a good off-road vehicle nor a good boat. As part of the war effort, nearly 30% of all Jeep production was supplied to Great Britain and to the Soviet Red Army.
 
@@ -49,8 +49,6 @@ In the United States military, the Jeep has been supplanted by a number of vehic
 CJ-V35/U
 
 After World War II, Jeep began to experiment with new designs, including a model that could drive under water. On February 1, 1950, contract N8ss-2660 was approved for 1,000 units "especially adapted for general reconnaissance or command communications" and "constructed for short period underwater operation such as encountered in landing and fording operations." The engine was modified with a snorkel system so that the engine could properly breathe under water.[34]
-
-M715.jpg
 
 M715
 
@@ -82,7 +80,7 @@ Although the term was also military slang for vehicles that were untried or unte
 
 Brand, trademarks and image
 
-A_jeep's-eye_view_of_the_seabees_in_action_-_NARA_-_513727.jpg The "Jeep" brand has gone through many owners, starting with Willys-Overland, which filed the original trademark application for the "Jeep" brand-name in February 1943.[41] To help establish the term as a Willys brand, the firm campaigned with advertisements emphasizing Willys' prominent contribution to the Jeep that helped win the war.[42] Willys' application initially met with years of opposition, primarily from Bantam, but also from Minneapolis-Moline. The Federal Trade Commission initially ruled in favor of Bantam in May 1943, largely ignoring Minneapolis-Moline's claim, and continued to scold Willys-Overland after the war for its advertising.[43] The FTC even slapped the company with a formal complaint, to cease and desist any claims that it "created or designed" the Jeep — Willys was only allowed to advertise its contribution to the Jeep's development.[44] Willys however proceeded to produce the first Civilian Jeep (CJ) branded vehicles in 1945, and simply copyrighted the _Jeep_ name in 1946.[45] Being the only company that continually produced "Jeep" vehicles after the war, Willys-Overland was eventually granted the name "Jeep" as a registered trademark in June 1950.[46] Aside from Willys, King Features Syndicate has held a trademark on the name "Jeep" for their comics since August 1936.[47]
+The "Jeep" brand has gone through many owners, starting with Willys-Overland, which filed the original trademark application for the "Jeep" brand-name in February 1943.[41] To help establish the term as a Willys brand, the firm campaigned with advertisements emphasizing Willys' prominent contribution to the Jeep that helped win the war.[42] Willys' application initially met with years of opposition, primarily from Bantam, but also from Minneapolis-Moline. The Federal Trade Commission initially ruled in favor of Bantam in May 1943, largely ignoring Minneapolis-Moline's claim, and continued to scold Willys-Overland after the war for its advertising.[43] The FTC even slapped the company with a formal complaint, to cease and desist any claims that it "created or designed" the Jeep — Willys was only allowed to advertise its contribution to the Jeep's development.[44] Willys however proceeded to produce the first Civilian Jeep (CJ) branded vehicles in 1945, and simply copyrighted the _Jeep_ name in 1946.[45] Being the only company that continually produced "Jeep" vehicles after the war, Willys-Overland was eventually granted the name "Jeep" as a registered trademark in June 1950.[46] Aside from Willys, King Features Syndicate has held a trademark on the name "Jeep" for their comics since August 1936.[47]
 
 Willys had also seriously considered the brand name _AGRIJEEP_, and was granted the trademark for it in December 1944, but instead the civilian production models as of 1945 were marketed as the "Universal Jeep," which reflected a wider range of uses outside of farming.[48]
 
@@ -92,7 +90,7 @@ The history of the HMMWV (Humvee) has ties with Jeep. In 1971, Jeep's Defense an
 
 Off-road abilities
 
-Rockcrawling.JPG Jeep advertising has always emphasized the brand's vehicles' off-road capabilities.[49] Today, the Wrangler is one of the few remaining four-wheel-drive vehicles with solid front and rear axles. These axles are known for their durability, strength, and articulation. New Wranglers come with a Dana 44 rear differential and a Dana 30 front differential. The upgraded Rubicon model of the JK Wrangler is equipped with electronically activated locking differentials, Dana 44 axles front and rear with 4.10 gears, a 4:1 transfer case, electronic sway bar disconnect and heavy duty suspension.
+Jeep advertising has always emphasized the brand's vehicles' off-road capabilities.[49] Today, the Wrangler is one of the few remaining four-wheel-drive vehicles with solid front and rear axles. These axles are known for their durability, strength, and articulation. New Wranglers come with a Dana 44 rear differential and a Dana 30 front differential. The upgraded Rubicon model of the JK Wrangler is equipped with electronically activated locking differentials, Dana 44 axles front and rear with 4.10 gears, a 4:1 transfer case, electronic sway bar disconnect and heavy duty suspension.
 
 Another benefit of solid axle vehicles is they tend to be easier and cheaper to "lift" with aftermarket suspension systems. This increases the distance between the axle and chassis of the vehicle. By increasing this distance, larger tires can be installed, which will increase the ground clearance, allowing it to traverse even larger and more difficult obstacles. In addition to higher ground clearance, many owners aim to increase suspension articulation or "flex" to give their Jeeps greatly improved off-road capabilities. Good suspension articulation keeps all four wheels in contact with the ground and maintains traction.
 
@@ -132,7 +130,7 @@ Ownership chronology
 
 Military Jeeps model list
 
-Willys-MA-1.jpg 41_Willys_Jeep_MB_(8937381046)_(cropped).jpg Jeep_CJ_(Ste._Anne_De_Bellevue_Veteran's_Hospital_'10).jpg]] M715_Jeep.jpg
+]]
 
 -   1940 Willys Quad — Willys' first prototype, competing for the U.S. Army contract for a ¼-ton light reconnaissance vehicle
 -   1941 Willys MA — Willys' low-volume preproduction model, preceding the standardized World War II jeep
@@ -168,7 +166,7 @@ Civilian Jeeps model list
 
 Jeep CJ
 
-Josh_Miller_Jeep_Scrambler.jpg The CJ (for "Civilian Jeep") series were literally the first "Jeep" branded vehicles produced for the civilian public, beginning in 1945 with the CJ-2A, followed by the CJ-3A in 1949 and the CJ-3B in 1953. These early Jeeps are commonly referred to as "flatfenders" because their front fenders were flat and rectangular across, like on their military forebears, the Willys MB and identical Ford GPW models. The CJ-4 exists only as a 1951 prototype, and is the "missing link" between the flat-fendered CJ-2A and CJ-3B and the round-fendered CJ-5 first introduced in 1955.
+The CJ (for "Civilian Jeep") series were literally the first "Jeep" branded vehicles produced for the civilian public, beginning in 1945 with the CJ-2A, followed by the CJ-3A in 1949 and the CJ-3B in 1953. These early Jeeps are commonly referred to as "flatfenders" because their front fenders were flat and rectangular across, like on their military forebears, the Willys MB and identical Ford GPW models. The CJ-4 exists only as a 1951 prototype, and is the "missing link" between the flat-fendered CJ-2A and CJ-3B and the round-fendered CJ-5 first introduced in 1955.
 
 -   1944–1945 CJ-2
 -   1945–1949 CJ-2A
@@ -207,8 +205,6 @@ The 1948 introduced Jeepster was directly based on the rear-wheel-drive Jeep Sta
 -   1972–1973 C104—Jeep Commando
     -   Commando Half Cab
 
-Willys_Jeep_FC-170_(2293440972).jpg
-
 Jeep Forward Control
 
 -   The 1956–1965 Jeep Forward Control was built in both civilian and military models. The civilian versions were:
@@ -218,7 +214,7 @@ Jeep Forward Control
 
 Jeep DJ and Fleetvan
 
-JeepMailTruck.jpg mail delivery vehicle made by Jeep]] From 1955 onwards Willys offered two-wheel drive versions of their CJ Jeeps for commercial use, called DJ models (for 'Dispatcher Jeep'), in both open and closed body-styles. A well-known version was the right-hand drive model with sliding side-doors, used by the US Postal service.
+mail delivery vehicle made by Jeep]] From 1955 onwards Willys offered two-wheel drive versions of their CJ Jeeps for commercial use, called DJ models (for 'Dispatcher Jeep'), in both open and closed body-styles. A well-known version was the right-hand drive model with sliding side-doors, used by the US Postal service.
 In 1961 the range was expanded with the 'Fleetvan' delivery-van, based on DJ Jeeps.
 
 -   1955 USAF DJ
@@ -260,8 +256,6 @@ PICKUP MODELS (1962-1988)
 
 Jeep Cherokee (XJ) and Comanche
 
-Jeep_Cherokee_2.5_1988_(15289674633)_(cropped).jpg
-
 -   1984–2001 XJ Cherokee
 -   1984–1990 XJ Wagoneer
     -   1984–1985 Broughwood
@@ -297,8 +291,6 @@ Jeep Wrangler
 
 Grand Cherokee
 
-96-98_Jeep_Grand_Cherokee.jpg 2008-2010_Jeep_Grand_Cherokee_--_01-07-2012.jpg
-
 -   1993–1998 Grand Cherokee ZJ
     -   1993–1995 Base SE
     -   1993–1998 Laredo
@@ -316,8 +308,6 @@ Grand Cherokee
 -   2011– present Jeep Grand Cherokee WK2
 
 Jeep Liberty / Cherokee
-
-2nd_Jeep_Liberty_--_08-16-2010.jpg
 
 -   2002–2007 Jeep Liberty KJ or Jeep Cherokee (KJ) outside North America
     -   Sport
@@ -443,7 +433,7 @@ Future models
 
 Jeeps built outside the USA
 
-troller_(uncropped).jpg M_&_M_jeep.JPG Jeeps have been built and/or assembled around the world by various companies.[87]
+Jeeps have been built and/or assembled around the world by various companies.[87]
 
 -   Argentina – IKA Jeeps 1956–current; now owned by Chrysler[88]
 -   Australia – Willys Motors Australia – 1940s–1980s[89]
@@ -463,8 +453,6 @@ troller_(uncropped).jpg M_&_M_jeep.JPG Jeeps have been built and/or assembled ar
 -   Mexico – VAM Jeeps – 1946–1987[99]
 -   Netherlands – Nekaf Jeep, NEKAF and Kemper & Van Twist – 1954-1962[100]
 -   Philippines – Jeepneys;[101] MD Juan Willys MB.;[102] "E-jeepneys" or minibuses, LSV (low-speed vehicles) which uses electricity.[103][104]
-
-1979_Jeep-VIASA_CJ-6_(6247698156).jpg
 
 -   Portugal – Bravia Sarl – 1960s to 1980s This Lisbon company assembled a number of Kaiser Jeep M-201 models from several Spanish EBRO and VIASA parts built to order for the USAF airfields & the US Army based at the time in Portugal, of the 500 vehicles made, most had American running gear.
 -   Spain – Vehículos Industriales y Agrícolas, S.A (VIASA), absorbed by Ebro trucks, and later sold to Nissan – 1960-1990s[105] For instance built a long-wheelbase version of the CJ-3B from 1955–1968.

@@ -1,5 +1,3 @@
-Trails_of_Tears_en.png
-
 INDIAN REMOVAL was a forced migration in the 19th century whereby Native Americans were forced by the United States government to leave their ancestral homelands in the eastern United States to lands west of the Mississippi River, specifically to a designated Indian Territory (roughly, modern Oklahoma).[1][2][3] The Indian Removal Act was signed by Andrew Jackson, who took a hard line on Indian removal, but it was put into effect primarily under the Martin van Buren administration.[4][5]
 
 Indian removal was a consequence of actions first by European settlers to North America in the colonial period, then by the United States government and its citizens until the mid-20th century.[6][7] The policy traced its direct origins to the administration of James Monroe, though it addressed conflicts between European Americans and Native Americans that had been occurring since the 17th century, and were escalating into the early 19th century as white settlers were continually pushing westward. The Indian Removal Act was the key law that forced the removal of the Indians, and was signed into law by President Andrew Jackson on May 28, 1830.
@@ -47,8 +45,6 @@ Under President James Monroe, Secretary of War John C. Calhoun devised the first
 
 
 Indian Removal Act
-
-Five-Civilized-Tribes-Portraits.png
 
 When Andrew Jackson assumed office as president of the United States in 1829, his government took a hard line on Indian Removal policy.[48] Jackson abandoned the policy of his predecessors of treating different Indian groups as separate nations. Instead, he aggressively pursued plans against all Indian tribes which claimed constitutional sovereignty and independence from state laws, and which were based east of the Mississippi River. They were to be removed to reservations in Indian Territory west of the Mississippi (now Oklahoma), where their laws could be sovereign without any state interference. At Jackson's request, the United States Congress opened a debate on an Indian Removal Bill. After fierce disagreements, the Senate passed the measure 28–19, the House 102–97. Jackson signed the legislation into law May 30, 1830.[49]
 

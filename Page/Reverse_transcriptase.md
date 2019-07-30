@@ -17,7 +17,7 @@ Well-studied reverse transcriptases include:
 
 Function in viruses
 
-HIV-1_Reverse_Transcriptase_with_Active_Sites.pngs of the RNase H active site and the polymerase active site are shown in ball-and-stick form.]] The enzymes are encoded and used by viruses that use reverse transcription as a step in the process of replication. Reverse-transcribing RNA viruses, such as retroviruses, use the enzyme to reverse-transcribe their RNA genomes into DNA, which is then integrated into the host genome and replicated along with it. Reverse-transcribing DNA viruses, such as the hepadnaviruses, can allow RNA to serve as a template in assembling and making DNA strands. HIV infects humans with the use of this enzyme. Without reverse transcriptase, the viral genome would not be able to incorporate into the host cell, resulting in failure to replicate.
+s of the RNase H active site and the polymerase active site are shown in ball-and-stick form.]] The enzymes are encoded and used by viruses that use reverse transcription as a step in the process of replication. Reverse-transcribing RNA viruses, such as retroviruses, use the enzyme to reverse-transcribe their RNA genomes into DNA, which is then integrated into the host genome and replicated along with it. Reverse-transcribing DNA viruses, such as the hepadnaviruses, can allow RNA to serve as a template in assembling and making DNA strands. HIV infects humans with the use of this enzyme. Without reverse transcriptase, the viral genome would not be able to incorporate into the host cell, resulting in failure to replicate.
 
 Process of reverse transcription
 
@@ -29,7 +29,7 @@ The process of reverse transcription is extremely error-prone, and it is during 
 
 Retroviral reverse transcription
 
-Reverse_transcription.svg Retroviruses, also referred to as class VI ssRNA-RT viruses, are RNA reverse-transcribing viruses with a DNA intermediate. Their genomes consist of two molecules of positive-sense single-stranded RNA with a 5' cap and 3' polyadenylated tail. Examples of retroviruses include the human immunodeficiency virus (HIV) and the human T-lymphotropic virus (HTLV). Creation of double-stranded DNA occurs in the cytosol[6] as a series of these steps:
+Retroviruses, also referred to as class VI ssRNA-RT viruses, are RNA reverse-transcribing viruses with a DNA intermediate. Their genomes consist of two molecules of positive-sense single-stranded RNA with a 5' cap and 3' polyadenylated tail. Examples of retroviruses include the human immunodeficiency virus (HIV) and the human T-lymphotropic virus (HTLV). Creation of double-stranded DNA occurs in the cytosol[6] as a series of these steps:
 
 1.  Lysyl tRNA acts as a primer and hybridizes to a complementary part of the virus RNA genome called the primer binding site or PBS.
 2.  Reverse transcriptase then adds DNA nucleotides onto the 3' end of the primer, synthesizing DNA complementary to the U5 (non-coding region) and R region (a direct repeat found at both ends of the RNA molecule) of the viral RNA.
@@ -73,7 +73,7 @@ Other than creating single-nucleotide polymorphisms, reverse transcriptases have
 
 Applications
 
-Zidovudine.svg (AZT), a drug used to inhibit HIV reverse transcriptase]]
+(AZT), a drug used to inhibit HIV reverse transcriptase]]
 
 Antiviral drugs
 

@@ -11,7 +11,7 @@ A probability distribution whose sample space is one-dimensional (for example re
 
 Introduction
 
-Dice_Distribution_(bar).svg (pmf) _p_(_S_) specifies the probability distribution for the sum _S_ of counts from two dice. For example, the figure shows that _p_(11) = 2/36 = 1/18. The pmf allows the computation of probabilities of events such as _P_(_S_ > 9) = 1/12 + 1/18 + 1/36 = 1/6, and all other probabilities in the distribution.]]
+(pmf) _p_(_S_) specifies the probability distribution for the sum _S_ of counts from two dice. For example, the figure shows that _p_(11) = 2/36 = 1/18. The pmf allows the computation of probabilities of events such as _P_(_S_ > 9) = 1/12 + 1/18 + 1/36 = 1/6, and all other probabilities in the distribution.]]
 
 To define probability distributions for the simplest cases, it is necessary to distinguish between DISCRETE and CONTINUOUS random variables. In the discrete case, it is sufficient to specify a probability mass function p assigning a probability to each possible outcome: for example, when throwing a fair dice, each of the six values 1 to 6 has the probability 1/6. The probability of an event is then defined to be the sum of the probabilities of the outcomes that satisfy the event; for example, the probability of the event "the dice rolls an even value" is
 
@@ -21,7 +21,7 @@ In contrast, when a random variable takes values from a continuum then typically
 
 Continuous probability distributions can be described in several ways. The probability density function describes the infinitesimal probability of any given value, and the probability that the outcome lies in a given interval can be computed by integrating the probability density function over that interval. On the other hand, the cumulative distribution function describes the probability that the random variable is no larger than a given value; the probability that the outcome lies in a given interval can be computed by taking the difference between the values of the cumulative distribution function at the endpoints of the interval. The cumulative distribution function is the antiderivative of the probability density function provided that the latter function exists.
 
-Standard_deviation_diagram.svg (pdf) of the normal distribution, also called Gaussian or "bell curve", the most important continuous random distribution. As notated on the figure, the probabilities of intervals of values correspond to the area under the curve.]]
+(pdf) of the normal distribution, also called Gaussian or "bell curve", the most important continuous random distribution. As notated on the figure, the probabilities of intervals of values correspond to the area under the curve.]]
 
 
 Terminology
@@ -66,7 +66,7 @@ Because a probability distribution _P_ on the real line is determined by the pro
 
 Discrete probability distribution
 
-Discrete_probability_distrib.svgs {1}, {3}, and {7} are respectively 0.2, 0.5, 0.3. A set not containing any of these points has probability zero.]] Discrete_probability_distribution.svg of a discrete probability distribution, ...]] Normal_probability_distribution.svg Mixed_probability_distribution.svg
+s {1}, {3}, and {7} are respectively 0.2, 0.5, 0.3. A set not containing any of these points has probability zero.]] of a discrete probability distribution, ...]]
 
 A DISCRETE PROBABILITY DISTRIBUTION is a probability distribution characterized by a probability mass function. Thus, the distribution of a random variable _X_ is discrete, and _X_ is called a DISCRETE RANDOM VARIABLE, if
 

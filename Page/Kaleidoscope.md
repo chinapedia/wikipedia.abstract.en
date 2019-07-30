@@ -1,4 +1,4 @@
-Kaleidoscope_tube.jpg Kaleidoscope.webm A KALEIDOSCOPE () is an optical instrument with two or more reflecting surfaces tilted to each other in an angle, so that one or more (parts of) objects on one end of the mirrors are seen as a regular symmetrical pattern when viewed from the other end, due to repeated reflection. The reflectors (or mirrors) are usually enclosed in a tube, often containing on one end a cell with loose, colored pieces of glass or other transparent (and/or opaque) materials to be reflected into the viewed pattern. Rotation of the cell causes motion of the materials, resulting in an ever-changing view being presented.
+A KALEIDOSCOPE () is an optical instrument with two or more reflecting surfaces tilted to each other in an angle, so that one or more (parts of) objects on one end of the mirrors are seen as a regular symmetrical pattern when viewed from the other end, due to repeated reflection. The reflectors (or mirrors) are usually enclosed in a tube, often containing on one end a cell with loose, colored pieces of glass or other transparent (and/or opaque) materials to be reflected into the viewed pattern. Rotation of the cell causes motion of the materials, resulting in an ever-changing view being presented.
 
 
 Etymology
@@ -7,8 +7,6 @@ Coined by its Scottish inventor David Brewster,[1] "kaleidoscope" is derived fro
 
 
 History
-
-1819_brewster_-_treatise_on_the_kaleidoscope_fig_39-40_(kircher_-_bradley_comparison).jpg Kaleidoscopes.jpg
 
 Multiple reflection by two or more reflecting surfaces has been known since antiquity and was described as such by Giambattista della Porta in his _Magia Naturalis_ (1558-1589). In 1646 Athanasius Kircher described an experiment with a construction of two mirrors, which could be opened and closed like a book and positioned in various angles, showing regular polygon figures consisting of reflected aliquot sectors of 360°. Mr. Bradley's _New Improvements in Planting and Gardening_ (1717) described a similar construction to be placed on geometrical drawings to show an image with multiplied reflection. However, an optimal configuration that produces the full effects of the kaleidoscope was not recorded before 1815.[7]
 
@@ -24,8 +22,6 @@ In 1987, kaleidoscope artist Thea Marshall, working with the Willamette Science 
 
 
 Variations
-
-1819_brewster_-_treatise_on_the_kaleidoscope_fig_18-20.jpg
 
 General variations
 
@@ -47,7 +43,7 @@ In his _Treatise on the Kaleidoscope_ (1819) he described the basic form with an
 
 -   "simple form": a tube with two reflectors and objects such as pieces of colored glass either fixed or placed loosely in cell on the end of the instrument[27]
 
-1819_brewster_-_treatise_on_the_kaleidoscope_fig_33-36.jpg Brewster also developed several variations:
+Brewster also developed several variations:
 
 -   "Polycentral Kaleidoscope" with three reflectors at angles of 90°: the infinite pattern of equilateral triangles was deemed "uncommonly splendid" by Brewster[28]
 -   "Polycentral Kaleidoscope" with three reflectors at angles of 90°, 45° and 45°: the pattern is not symmetrically arranged around the centre, but nonetheless deemed "very pleasing" by Brewster[29]
@@ -61,8 +57,6 @@ In his _Treatise on the Kaleidoscope_ (1819) he described the basic form with an
 -   an colorless object plate, with either colorless pieces of glass or an irregular surface of transparent varnish, can be placed in front of a colorful object plate. The tints and outlines of the colorful pieces are softened by the refraction of the colorless pieces. The colorless objects supply outlines to the pattern. The colorless object plate can also produce fine colorless patterns when used alone.[37]
 -   instead of in an object cell, transparent fragments can be placed on a mirror and be combined with opaque fragments (for instance pieces of brass wire, coloured foils and grains of spelter) for the best effects[38]
 -   an object plate with fixed elements can be placed in cell, if the cell is rotated in front of the aperture the same patterns recur[39]
-
-1817_brewster_-_kaleidoscope_patent_fig_4-5.jpg
 
 -   if the reflectors are kept separate (see Fig. 4 of patent illustration), annular patterns are shown[40]
 -   if the reflectors are placed parallel to each other (see Fig. 5 of patent illustration), rectilinear patterns are shown[41]
@@ -92,7 +86,7 @@ In 1999 a short-lived magazine dedicated to kaleidoscopes—_Kaleidoscope Review
 
 Applications
 
-Kaleidoscope_San_Diego.jpg Most kaleidoscopes are mass-produced from inexpensive materials, and intended as children's toys. At the other extreme are handmade pieces that display fine craftsmanship. Craft galleries often carry a few kaleidoscopes, while other enterprises specialize in them, carrying dozens of different types from different artists and craftspeople. Most handmade kaleidoscopes are now made in India, Japan, the USA, Russia and Italy, following a long tradition of glass craftsmanship in those countries.
+Most kaleidoscopes are mass-produced from inexpensive materials, and intended as children's toys. At the other extreme are handmade pieces that display fine craftsmanship. Craft galleries often carry a few kaleidoscopes, while other enterprises specialize in them, carrying dozens of different types from different artists and craftspeople. Most handmade kaleidoscopes are now made in India, Japan, the USA, Russia and Italy, following a long tradition of glass craftsmanship in those countries.
 
 
 See also

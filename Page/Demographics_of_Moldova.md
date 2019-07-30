@@ -7,7 +7,7 @@ According to the 2014 Moldovan Census, 2,789,205 people resided in the areas con
 
 According to the 2014 Census in Transnistria, 475,007 people lived in the breakaway Transnistria, including the city of Bender, and the other localities _de facto_ controlled by Transnistrian authorities.[2] Thus, the total population of the country in 2014 amounted to 3,473,242.
 
-Moldova_demography.png, 2005; number of inhabitants in thousands.]]
+, 2005; number of inhabitants in thousands.]]
 
   Median age
   --------------------------------------------------
@@ -251,8 +251,6 @@ Ukrainians mostly live in the east (Transnistria) and the north, while Russians 
 
 Total area
 
-Harta_etnica_a_Republicii_Moldova_-_2004.jpg
-
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+--------------+--------------+--------------+--------------+--------------+
 | Ethnic                                                                                                                                                                                                                                                                                       | census 1959¹ | census 1970² | census 1979³ | census 1989⁴ | census 2004⁵ | census 2014⁵ |
 | group                                                                                                                                                                                                                                                                                        |              |              |              |              |              |              |
@@ -395,7 +393,7 @@ Rural areas
 
 Soviet era data
 
-Major_ethnics_groups_in_Moldova_1989.jpg In the Soviet census of 1989 members of most of the ethnic groups in Moldavian SSR claimed the language of their ethnicity as their mother tongue: Moldovans (95%), Ukrainians (62%), Russians (99%), Gagauz (91%), Bulgarians (79%), and Gipsies (82%). The exceptions were Jews (26% citing Yiddish), Belarusians (43%), Germans (31%), and Poles (10%).
+In the Soviet census of 1989 members of most of the ethnic groups in Moldavian SSR claimed the language of their ethnicity as their mother tongue: Moldovans (95%), Ukrainians (62%), Russians (99%), Gagauz (91%), Bulgarians (79%), and Gipsies (82%). The exceptions were Jews (26% citing Yiddish), Belarusians (43%), Germans (31%), and Poles (10%).
 
 In the Soviet census of 1989, 62% of the total population claimed Moldovan as their native language. Only 4% of the entire population claimed Moldovan as a second language.
 

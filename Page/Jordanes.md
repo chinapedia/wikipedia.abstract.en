@@ -1,4 +1,4 @@
-Byzantium550.png, capital Constantinople, is shown in pink. Conquests of Justinian I shown in green.]]
+, capital Constantinople, is shown in pink. Conquests of Justinian I shown in green.]]
 
 JORDANES (), also written JORDANIS or, uncommonly, JORNANDES,[1] was a 6th-century Eastern Roman bureaucrat of Gothic extraction[2] who turned his hand to history later in life.
 
@@ -26,7 +26,7 @@ Alternatively, Jordanes' _conversio_ may mean that he had become a monk, or a _r
 
 Works
 
-106_Conrad_Cichorius,_Die_Reliefs_der_Traianssäule,_Tafel_CVI.jpg Jordanes wrote his _Romana_ at the behest of a certain Vigilius. Although some scholars have identified this person with pope Vigilius, there is nothing else to support the identification besides the name. The form of address that Jordanes uses and his admonition that Vigilius "_turn to God_" would seem to rule out this identification.[10][11]
+Jordanes wrote his _Romana_ at the behest of a certain Vigilius. Although some scholars have identified this person with pope Vigilius, there is nothing else to support the identification besides the name. The form of address that Jordanes uses and his admonition that Vigilius "_turn to God_" would seem to rule out this identification.[10][11]
 
 In the preface to his _Getica_, Jordanes writes that he is interrupting his work on the _Romana_ at the behest of a brother Castalius, who apparently knew that Jordanes had had the twelve volumes of the History of the Goths by Cassiodorus at home. Castalius would like a short book about the subject, and Jordanes obliges with an excerpt based on memory, possibly supplemented with other material he had access to. The _Getica_ sets off with a geography/ethnography of the North, especially of Scandza (16–24). He lets the history of the Goths commence with the emigration of Berig with three ships from Scandza to Gothiscandza (25, 94), in a distant past. In the pen of Jordanes, Herodotus' Getian demi-god Zalmoxis becomes a king of the Goths (39). Jordanes tells how the Goths sacked "Troy and Ilium" just after they had recovered somewhat from the war with Agamemnon (108). They are also said to have encountered the Egyptian pharaoh Vesosis (47). The less fictional part of Jordanes' work begins when the Goths encounter Roman military forces in the third century AD. The work concludes with the defeat of the Goths by the Byzantine general Belisarius. Jordanes concludes the work by stating that he writes to honour those who were victorious over the Goths after a history of 2030 years.
 

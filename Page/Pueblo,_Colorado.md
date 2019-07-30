@@ -1,4 +1,4 @@
-right |thumb|The Pueblo County Courthouse has a large brass top easily seen from Interstate 25 to the east. Pueblo_County_Courthouse,_Pueblo,_CO_IMG_5102.JPG in downtown Pueblo (completed 1910) represents the second Renaissance Revival style of architecture. The hotel has been remodeled as a state-of-the-art assisted living home. Named after John E. Vail, a Pueblo newspaperman, it was once considered the most modern hotel west of Chicago, Illinois.[1]]]
+right |thumb|The Pueblo County Courthouse has a large brass top easily seen from Interstate 25 to the east. in downtown Pueblo (completed 1910) represents the second Renaissance Revival style of architecture. The hotel has been remodeled as a state-of-the-art assisted living home. Named after John E. Vail, a Pueblo newspaperman, it was once considered the most modern hotel west of Chicago, Illinois.[1]]]
 
 PUEBLO is a home rule municipality that is the county seat and the most populous city of Pueblo County, Colorado, United States.[2] The population was 106,595 in 2010 census, making it the 267th most populous city in the United States and the 9th largest in Colorado. Pueblo is the heart of the Pueblo Metropolitan Statistical Area, totaling over 160,000 people and an important part of the Front Range Urban Corridor.[3] As of 2014, Pueblo is the primary city of the Pueblo–Cañon City combined statistical area (CSA) totaling approximately 208,000 people, making it the 134th largest in the nation.[4]
 
@@ -27,7 +27,7 @@ Until a series of major floods culminated in the Great Flood of 1921, Pueblo was
 
 Pueblo's orphanages were an influential part of the city. The transformations that have occurred throughout the three orphanages in the town of Pueblo, Colorado are important aspects of the city's history. Historically, many people were influenced by the Orphanages of Pueblo, Colorado and the homes are now all historical sites. The transformations have occurred architecturally and economically within the people from then to now. The three orphanages in Pueblo were known as Sacred Heart, Lincoln, and McClelland. Lincoln was the first historically black orphanage in Colorado, and one of only seven in the country. Sacred Heart was run by the Catholic Welfare Bureau, while McClelland was run by the Lutheran Church. Several children from Cuba were placed at Sacred Heart as part of "Operation Pedro Pan". Though the Orphanages in Pueblo are no longer in service, the buildings still exist and have transformed with the times. According to the Rocky Mountain News, in 1988 the Sacred Heart Orphanage was bought by the Pueblo Housing Authority and turned into 40 small-family housing units.[18]
 
-Pueblo_Colorado_Business_District_Flood_1921.JPG'' magazine (1921)]]
+'' magazine (1921)]]
 
 Steel mill
 
@@ -79,7 +79,7 @@ According to the 2005 Census estimates, the city had grown to an estimated popul
 
 There were 40,307 households out of which 29.8% had children under the age of 18 living with them, 44.5% were married couples living together, 15.1% had a female householder with no husband present, and 35.2% were non-families. 30.0% of all households were made up of individuals and 12.9% had someone living alone who was 65 years of age or older. The average household size was 2.44 and the average family size was 3.03.
 
-Historic_Arkansas_Riverwalk_of_Pueblo.JPG In the city, the population was spread out with 25.1% under the age of 18, 10.3% from 18 to 24, 26.6% from 25 to 44, 21.4% from 45 to 64, and 16.6% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 93.9 males. For every 100 females age 18 and over, there were 90.2 males.
+In the city, the population was spread out with 25.1% under the age of 18, 10.3% from 18 to 24, 26.6% from 25 to 44, 21.4% from 45 to 64, and 16.6% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 93.9 males. For every 100 females age 18 and over, there were 90.2 males.
 
 The median income for a household in the city was $29,650, and the median income for a family was $35,620. Males had a median income of $29,702 versus $22,197 for females. The per capita income for the city was $16,026. About 13.9% of families and 17.8% of the population were below the poverty line, including 24.3% of those under age 18 and 9.1% of those age 65 or over.
 

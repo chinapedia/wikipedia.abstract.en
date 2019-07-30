@@ -75,7 +75,7 @@ The CONSULTATIVE ASSEMBLY (_Majlis as-Shura_) has 35 appointed members with only
 
 Political parties and elections
 
-QatarElectionBillboards.jpg.]] Qatar held a constitutional referendum in 2003, which was overwhelmingly supported. The first municipal elections with men and women voters and candidates were held in 1999 Central Municipal Council. The first legislative election, for two thirds of the legislative council's 45 seats, were planned for 2016.[55] In June 2016 they were effectively postponed to at least 2019.[56]
+.]] Qatar held a constitutional referendum in 2003, which was overwhelmingly supported. The first municipal elections with men and women voters and candidates were held in 1999 Central Municipal Council. The first legislative election, for two thirds of the legislative council's 45 seats, were planned for 2016.[55] In June 2016 they were effectively postponed to at least 2019.[56]
 
 Suffrage is currently limited to municipal elections and two thirds of the seats in the legislative council, with the voting age set at 18. Expatriate residents are excluded, as are the vast number of residents who are prevented from applying for citizenship. The elected Municipal Council has no executive powers but may offer advice to the Minister.
 

@@ -1,4 +1,3 @@
-Portrait_of_Marsilio_Ficino_at_the_Duomo_Firence.jpg
 in Florence Cathedral.]]
 
 MARSILIO FICINO (; Latin name: _Marsilius Ficinus_; 19 October 1433 – 1 October 1499) was an Italian scholar and Catholic priest who was one of the most influential humanist philosophers of the early Italian Renaissance. He was an astrologer, a reviver of Neoplatonism in touch with the major academics of his day and the first translator of Plato's complete extant works into Latin.[1] His Florentine Academy, an attempt to revive Plato's Academy, influenced the direction and tenor of the Italian Renaissance and the development of European philosophy.
@@ -19,7 +18,7 @@ A physician and a vegetarian, Ficino became a priest in 1473.[9][10][11]
 
 Work
 
-Angel_Appearing_to_Zacharias_(detail)_-_1486-90.JPG (1486–1490) in the Tornabuoni Chapel, Florence, showing (L-R): Marsilio Ficino, Cristoforo Landino, Angelo Poliziano and Gentile de' Becchi or Demetrios Chalkondyles]] Corpus_Hermeticum.jpg'': first Latin edition, by Marsilio Ficino, 1471, at the Bibliotheca Philosophica Hermetica, Amsterdam.]]
+(1486–1490) in the Tornabuoni Chapel, Florence, showing (L-R): Marsilio Ficino, Cristoforo Landino, Angelo Poliziano and Gentile de' Becchi or Demetrios Chalkondyles]] '': first Latin edition, by Marsilio Ficino, 1471, at the Bibliotheca Philosophica Hermetica, Amsterdam.]]
 
 In 1474 Ficino completed his treatise on the immortality of the soul, _Theologia Platonica de immortalitate animae_[12] (Platonic Theology).[13] In the rush of enthusiasm for every rediscovery from Antiquity, he exhibited a great interest in the arts of astrology, which landed him in trouble with the Roman Catholic Church. In 1489 he was accused of magic before Pope Innocent VIII[14] and needed strong defense to preserve him from the condemnation of heresy.
 
@@ -43,8 +42,6 @@ Ficino died on 1 October 1499 at Careggi. In 1521 his memory was honored with a 
 
 Publications
 
-Ficino_-_De_triplici_vita,_1560_-_3042759_V00227_00000002.tif
-
 -   _Theologia Platonica de immortalitate animae_ (Platonic Theology). Harvard University Press, Latin with English translation.
     -   vol. I, 2001.
     -   vol. II, 2002.
@@ -53,8 +50,6 @@ Ficino_-_De_triplici_vita,_1560_-_3042759_V00227_00000002.tif
     -   vol. V, 2005.
     -   vol. VI with index, 2006.
 -   _The Letters of Marsilio Ficino_. Shepheard-Walwyn Publishers. English translation with extensive notes; the Language Department of the School of Economic Science.
-
-Delle_divine_lettere_del_gran_Marsilio_Ficino.tif
 
 -   -   vol. I, 1975.
     -   vol. II, 1978.

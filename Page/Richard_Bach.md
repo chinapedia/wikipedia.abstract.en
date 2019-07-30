@@ -14,7 +14,7 @@ Aviation career
 
 Bach served in the United States Navy Reserve, then in the New Jersey Air National Guard's 108th Fighter Wing, 141st Fighter Squadron (USAF), as a Republic F-84F Thunderstreak fighter pilot. He then worked at a variety of jobs, including as a technical writer for Douglas Aircraft and as a contributing editor for _Flying_ magazine. He served in the USAF reserve and was deployed in France in 1960. He later became a barnstormer.
 
-During the summer of 1970, Bach and his friend Chris Cagle traveled to Ireland, where they participated in flying sequences for Roger Corman's film _Von Richthofen and Brown_. They flew a variety of World War I aircraft of the Blue Max collection owned by ex-RCAF pilot Lynn Garrison. Bach and Garrison first met when Bach wrote articles for _Avian_, Garrison's aviation publication.Dick_Bach_take_off_in_Lynn_Garrison's_Fokker_D-V11.png
+During the summer of 1970, Bach and his friend Chris Cagle traveled to Ireland, where they participated in flying sequences for Roger Corman's film _Von Richthofen and Brown_. They flew a variety of World War I aircraft of the Blue Max collection owned by ex-RCAF pilot Lynn Garrison. Bach and Garrison first met when Bach wrote articles for _Avian_, Garrison's aviation publication.
 
 Most of Bach's books involve flight in some way, from the early stories which are purely about flying aircraft, to _Stranger to the Ground_, his first book, to his later works, in which he used flight as a philosophical metaphor.
 
@@ -25,7 +25,7 @@ Richard Bach's first book, the autobiographical _Stranger to the Ground_ (1963) 
 
 In 1970, _Jonathan Livingston Seagull_, a story about a seagull who flew for the love of flying rather than merely to catch food, was published by Macmillan Publishers after the manuscript was turned down by several others. It had been first published, free, in _Soaring_, the monthly magazine of the Soaring Society of America. The book, which included photos of seagulls in flight by photographer Russell Munson, became a number-one bestseller. The book, which contained fewer than 10,000 words, sold more than 1,000,000 copies in 1972 alone.[4] The surprise success of the book was widely reported in the media in the early 1970s.[5]
 
-Von_Richthofen_LYNN_GARRISON_-_DICK_BACH.jpg G-ARMU used for _Von Richthofen and Brown_, 1970]]
+G-ARMU used for _Von Richthofen and Brown_, 1970]]
 
 In 1973, _Jonathan Livingston Seagull_ was adapted into a film of the same name, produced by Paramount Pictures Corporation, with a soundtrack by Neil Diamond. In 1975, Bach was the driving force behind _Nothing by Chance_, a documentary film based on his book of the same name. The film centers on modern barnstorming around the United States in the 1970s. Bach recruited a group of his friends who were pilots to recreate the era of the barnstormer.[6]
 

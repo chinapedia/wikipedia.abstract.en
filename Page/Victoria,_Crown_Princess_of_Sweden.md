@@ -32,8 +32,6 @@ She is one of only three female heirs apparent in the world, the other two being
 
 Public life
 
-Crown_princess_victoria_royal_trips.PNG
-
 Victoria's declaration of majority took place in the Hall of State at the Royal Palace of Stockholm on 14 July 1995. As of the day she turned 18, she became eligible to act as Head of State when the King is not in country. Victoria made her first public speech on this occasion. Located on the dais in the background was the same silver throne on which her father was seated at his enthronement, in actual use from 1650 and up until this ceremony.
 
 As heir apparent to the throne, Victoria is a working member of the Swedish Royal Family with her own agenda of official engagements. Victoria attends the regular Advisory Council on Foreign Affairs and the information councils with Government ministers headed by the King, and steps in as a temporary regent (Riksföreståndare) when needed.
@@ -42,7 +40,7 @@ Victoria has made many official trips abroad as a representative of Sweden. Her 
 
 In 2002, she paid official visits to United States, Spain, Uganda, Ethiopia, and Kosovo where she visited Camp Victoria. In 2003, she made official visits to Egypt and the United States. In early 2004, she paid an official visit to Saudi Arabia, as a part of a large official business delegation from Sweden, and in October 2004, she travelled to Hungary.
 
-Crownprincess_Victoria_of_Sweden_Skultuna_2007.jpg with the managing director Viktor Blomqvist]]
+with the managing director Viktor Blomqvist]]
 
 Crown Princess Victoria was given her own household in October 2004.[9] It is headed by the Marshal of the Court, and serves to coordinate the official engagements of The Crown Princess.
 
@@ -59,7 +57,7 @@ In January 2016 UN Secretary General Ban Ki-moon appointed The Crown Princess as
 
 The Crown Princess Victoria's Fund
 
-Kronprinsessan_Victoria_i_Sundsvall_20060606.jpg, 2006]] The Crown Princess Victoria's Fund was set up in 1997 and is run as a part of Radiohjälpen, the fundraising branch of Sveriges Television and Sveriges Radio. The fund's aim is to provide support for leisure and recreational activities for children and young people with functional disabilities or chronic illnesses.
+, 2006]] The Crown Princess Victoria's Fund was set up in 1997 and is run as a part of Radiohjälpen, the fundraising branch of Sveriges Television and Sveriges Radio. The fund's aim is to provide support for leisure and recreational activities for children and young people with functional disabilities or chronic illnesses.
 
 The Crown Princess Victoria Fund's means mainly derive from donations by the public, but large companies such as Arla Foods, Swedbank and AB Svenska Returpack are constant sponsor partners. Additional support comes from The Association of Swedish Bakers & Confectioners who every year arrange a national “princess cake week” during which the participating cafés and bakeries give 2,50 SEK per sold princess pastry and 10 SEK per sold princess cake to the fund.[16] The result of this fund-raising drive is usually presented to Victoria herself on her name day on 12 March every year; in 2007, the total amount was 200,000 SEK. Congratulatory and memorial cards are also issued by Radiohjälpen benefitting the fund, a simple way to pay respects and do a good deed in one act. In 2006, The Crown Princess Victoria Fund raised a total of 5,5 million SEK.[17]
 
@@ -68,7 +66,7 @@ Every year Victoria visits one or several clubs or projects that have been grant
 
 Personal life
 
-Crown_Princess_Victoria_Sailing.jpg Victoria’s first boyfriend was Daniel Collert. They socialised in the same circles, went to the same school and were already friends when their romance developed in the mid-1990s. When Victoria moved to the United States in 1998 to study and recover from her eating disorders, Collert moved with her across the Atlantic and settled in New York.[19] In September 2000, Victoria's relationship with Collert was confirmed in an interview with her at Expo 2000.[20] They broke up in 2001.
+Victoria’s first boyfriend was Daniel Collert. They socialised in the same circles, went to the same school and were already friends when their romance developed in the mid-1990s. When Victoria moved to the United States in 1998 to study and recover from her eating disorders, Collert moved with her across the Atlantic and settled in New York.[19] In September 2000, Victoria's relationship with Collert was confirmed in an interview with her at Expo 2000.[20] They broke up in 2001.
 
 In May 2002, Swedish newspaper _Expressen_ reported that Victoria had a new boyfriend, her personal trainer at Master Training, Daniel Westling. When the news broke and the media turned its attention on him, it was obvious that he did not like being in the public eye. Once Westling was photographed crossing a street against a red light in order to avoid a camera.[21] In July 2002, Victoria and Daniel Westling were pictured kissing for the first time[22] at a birthday party for Caroline Kreuger, a close friend of Victoria's.
 
@@ -79,8 +77,6 @@ Engagement
 Swedish media often speculated about upcoming engagements and marriages for Victoria. On 24 February 2009, rumours that wedding plans were imminent became particularly intense preceding an information council between the King and Prime Minister Fredrik Reinfeldt.[24] Under the terms of the Swedish Act of Succession, the Government, upon the request of the King, gives the final consent for a dynastic marriage of a prince or princess of Sweden. The prince or princess otherwise loses their right to the throne. Later that day, it was confirmed that permission had been granted and that Victoria would marry Daniel Westling in the summer of 2010. The wedding date was set in Stockholm Cathedral for 19 June 2010, the 34th anniversary of her parents' marriage.[25] Her engagement ring features a solitaire round brilliant-cut diamond mounted on white gold.[26]
 
 Marriage, motherhood and children
-
-Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg
 
 The wedding took place on 19 June 2010. Guests including royalty and ambassadors from various countries were invited to the wedding ceremony which took place at Stockholm Cathedral. After the wedding the newlyweds were driven through Stockholm in a coach and then rowed in the antique royal barge _Vasaorden_ to the royal palace where the wedding banquet was held. On the evening before the wedding, there was a gala concert dedicated to the couple in the Stockholm Concert Hall.
 

@@ -1,4 +1,4 @@
-Poids_fonte_2_kg_03.jpg – Mass: 2 kg (4.44 lb) Height: 4.9 cm (1.9 in); Width: 9.2 cm (3.6 in)]]
+– Mass: 2 kg (4.44 lb) Height: 4.9 cm (1.9 in); Width: 9.2 cm (3.6 in)]]
 
 MASS is both a property of a physical body and a measure of its resistance to acceleration (a change in its state of motion) when a net force is applied.[1] An object's mass also determines the strength of its gravitational attraction to other bodies.
 
@@ -18,7 +18,7 @@ The mass of an object determines its acceleration in the presence of an applied 
 
 Units of mass
 
-SI_base_unit.svg and one of three which is defined _ad hoc_ (i.e. without reference to another base unit).]]
+and one of three which is defined _ad hoc_ (i.e. without reference to another base unit).]]
 
 The standard International System of Units (SI) unit of mass is the kilogram (kg). The kilogram is 1000 grams (g), first defined in 1795 as one cubic decimeter of water at the melting point of ice. However, because precise measurement of a cubic decimeter of water at the proper temperature and pressure was difficult, in 1889 the kilogram was redefined as the mass of the international prototype kilogram of cast iron, and thus became independent of the meter and the properties of water.
 
@@ -94,7 +94,7 @@ Pre-Newtonian concepts
 
 Weight as an amount
 
-El_pesado_del_corazón_en_el_Papiro_de_Hunefer.jpg in the Papyrus of Hunefer (dated to the 19th dynasty, ). The scene shows Anubis weighing the heart of Hunefer.]] The concept of amount is very old and predates recorded history. Humans, at some early era, realized that the weight of a collection of similar objects was directly proportional to the number of objects in the collection:
+in the Papyrus of Hunefer (dated to the 19th dynasty, ). The scene shows Anubis weighing the heart of Hunefer.]] The concept of amount is very old and predates recorded history. Humans, at some early era, realized that the weight of a collection of similar objects was directly proportional to the number of objects in the collection:
 
     W_(n) ∝ n,
 
@@ -118,7 +118,7 @@ On 25 August 1609, Galileo Galilei demonstrated his first telescope to a group o
 
 Galilean free fall
 
-Galileo.arp.300pix.jpg Falling_ball.jpg Sometime prior to 1638, Galileo turned his attention to the phenomenon of objects in free fall, attempting to characterize these motions. Galileo was not the first to investigate Earth's gravitational field, nor was he the first to accurately describe its fundamental characteristics. However, Galileo's reliance on scientific experimentation to establish physical principles would have a profound effect on future generations of scientists. It is unclear if these were just hypothetical experiments used to illustrate a concept, or if they were real experiments performed by Galileo,[11] but the results obtained from these experiments were both realistic and compelling. A biography by Galileo's pupil Vincenzo Viviani stated that Galileo had dropped balls of the same material, but different masses, from the Leaning Tower of Pisa to demonstrate that their time of descent was independent of their mass.[12] In support of this conclusion, Galileo had advanced the following theoretical argument: He asked if two bodies of different masses and different rates of fall are tied by a string, does the combined system fall faster because it is now more massive, or does the lighter body in its slower fall hold back the heavier body? The only convincing resolution to this question is that all bodies must fall at the same rate.[13]
+Sometime prior to 1638, Galileo turned his attention to the phenomenon of objects in free fall, attempting to characterize these motions. Galileo was not the first to investigate Earth's gravitational field, nor was he the first to accurately describe its fundamental characteristics. However, Galileo's reliance on scientific experimentation to establish physical principles would have a profound effect on future generations of scientists. It is unclear if these were just hypothetical experiments used to illustrate a concept, or if they were real experiments performed by Galileo,[11] but the results obtained from these experiments were both realistic and compelling. A biography by Galileo's pupil Vincenzo Viviani stated that Galileo had dropped balls of the same material, but different masses, from the Leaning Tower of Pisa to demonstrate that their time of descent was independent of their mass.[12] In support of this conclusion, Galileo had advanced the following theoretical argument: He asked if two bodies of different masses and different rates of fall are tied by a string, does the combined system fall faster because it is now more massive, or does the lighter body in its slower fall hold back the heavier body? The only convincing resolution to this question is that all bodies must fall at the same rate.[13]
 
 A later experiment was described in Galileo's _Two New Sciences_ published in 1638. One of Galileo's fictional characters, Salviati, describes an experiment using a bronze ball and a wooden ramp. The wooden ramp was "12 cubits long, half a cubit wide and three finger-breadths thick" with a straight, smooth, polished groove. The groove was lined with "parchment, also smooth and polished as possible". And into this groove was placed "a hard, smooth and very round bronze ball". The ramp was inclined at various angles to slow the acceleration enough so that the elapsed time could be measured. The ball was allowed to roll a known distance down the ramp, and the time taken for the ball to move the known distance was measured. The time was measured using a water clock described as follows:
 
@@ -132,8 +132,6 @@ Galileo had shown that objects in free fall under the influence of the Earth's g
 
 
 Newtonian mass
-
-Isaac Newton 1689
 
   Earth's Moon      Mass of Earth
   ----------------- -------------------------
@@ -154,17 +152,15 @@ By finding the exact relationship between a body's gravitational mass and its gr
 
 Newton's cannonball
 
-Newton_Cannon.svg, it will revolve around Earth along an elliptical orbit (C,D). At a sufficiently high speed, it will leave the Earth altogether (E).]]
+, it will revolve around Earth along an elliptical orbit (C,D). At a sufficiently high speed, it will leave the Earth altogether (E).]]
 
 Newton's cannonball was a thought experiment used to bridge the gap between Galileo's gravitational acceleration and Kepler's elliptical orbits. It appeared in Newton's 1728 book _A Treatise of the System of the World_. According to Galileo's concept of gravitation, a dropped stone falls with constant acceleration down towards the Earth. However, Newton explains that when a stone is thrown horizontally (meaning sideways or perpendicular to Earth's gravity) it follows a curved path. "For a stone projected is by the pressure of its own weight forced out of the rectilinear path, which by the projection alone it should have pursued, and made to describe a curve line in the air; and through that crooked way is at last brought down to the ground. And the greater the velocity is with which it is projected, the farther it goes before it falls to the Earth."[21] Newton further reasons that if an object were "projected in an horizontal direction from the top of a high mountain" with sufficient velocity, "it would reach at last quite beyond the circumference of the Earth, and return to the mountain from which it was projected."
 
 Universal gravitational mass
 
-An apple experiences gravitational fields directed towards every part of the Earth; however, the sum total of these many fields produces a single gravitational field directed towards the Earth's center In contrast to earlier theories (e.g. celestial spheres) which stated that the heavens were made of entirely different material, Newton's theory of mass was groundbreaking partly because it introduced universal gravitational mass: every object has gravitational mass, and therefore, every object generates a gravitational field. Newton further assumed that the strength of each object's gravitational field would decrease according to the square of the distance to that object. If a large collection of small objects were formed into a giant spherical body such as the Earth or Sun, Newton calculated the collection would create a gravitational field proportional to the total mass of the body,[22] and inversely proportional to the square of the distance to the body's center.[23][24]
+In contrast to earlier theories (e.g. celestial spheres) which stated that the heavens were made of entirely different material, Newton's theory of mass was groundbreaking partly because it introduced universal gravitational mass: every object has gravitational mass, and therefore, every object generates a gravitational field. Newton further assumed that the strength of each object's gravitational field would decrease according to the square of the distance to that object. If a large collection of small objects were formed into a giant spherical body such as the Earth or Sun, Newton calculated the collection would create a gravitational field proportional to the total mass of the body,[22] and inversely proportional to the square of the distance to the body's center.[23][24]
 
 For example, according to Newton's theory of universal gravitation, each carob seed produces a gravitational field. Therefore, if one were to gather an immense number of carob seeds and form them into an enormous sphere, then the gravitational field of the sphere would be proportional to the number of carob seeds in the sphere. Hence, it should be theoretically possible to determine the exact number of carob seeds that would be required to produce a gravitational field similar to that of the Earth or Sun. In fact, by unit conversion it is a simple matter of abstraction to realize that any traditional mass unit can theoretically be used to measure gravitational mass.
-
-Cavendish_Experiment.png
 
 Measuring gravitational mass in terms of traditional mass units is simple in principle, but extremely difficult in practice. According to Newton's theory all objects produce gravitational fields and it is theoretically possible to collect an immense number of small objects and form them into an enormous gravitating sphere. However, from a practical standpoint, the gravitational fields of small objects are extremely weak and difficult to measure. Newton's books on universal gravitation were published in the 1680s, but the first successful measurement of the Earth's mass in terms of traditional mass units, the Cavendish experiment, did not occur until 1797, over a hundred years later. Cavendish found that the Earth's density was 5.448 ± 0.033 times that of water. As of 2009, the Earth's mass in kilograms is only known to around five digits of accuracy, whereas its gravitational mass is known to over nine significant figures.
 
@@ -180,7 +176,7 @@ This is the basis by which masses are determined by weighing. In simple spring s
 
 Inertial mass
 
-Massmeter.jpg)]] _Inertial mass_ is the mass of an object measured by its resistance to acceleration. This definition has been championed by Ernst Mach[25][26] and has since been developed into the notion of operationalism by Percy W. Bridgman.[27][28] The simple classical mechanics definition of mass is slightly different than the definition in the theory of special relativity, but the essential meaning is the same.
+)]] _Inertial mass_ is the mass of an object measured by its resistance to acceleration. This definition has been championed by Ernst Mach[25][26] and has since been developed into the notion of operationalism by Percy W. Bridgman.[27][28] The simple classical mechanics definition of mass is slightly different than the definition in the theory of special relativity, but the essential meaning is the same.
 
 In classical mechanics, according to Newton's second law, we say that a body has a mass _m_ if, at any instant of time, it obeys the equation of motion
 

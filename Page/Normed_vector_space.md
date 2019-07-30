@@ -1,4 +1,4 @@
-Mathematical_Spaces.png In mathematics, a NORMED VECTOR SPACE is a vector space over the real or complex numbers, on which a NORM is defined. A norm is the formalization and the generalization to real vector spaces of the intuitive notion of distance in the real world. A norm is a real-valued function defined on the vector space that has the following properties:
+In mathematics, a NORMED VECTOR SPACE is a vector space over the real or complex numbers, on which a NORM is defined. A norm is the formalization and the generalization to real vector spaces of the intuitive notion of distance in the real world. A norm is a real-valued function defined on the vector space that has the following properties:
 
 1.  The zero vector, 0, has zero length; every other vector has a positive length.
 

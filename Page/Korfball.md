@@ -1,11 +1,11 @@
-Outdoor Korfball KORFBALL () is a ball sport, with similarities to netball and basketball. It is played by two teams of eight (8) players with four (4) female players and four (4) male players in each team. The objective is to throw a ball into a netless basket that is mounted on a high pole.
+KORFBALL () is a ball sport, with similarities to netball and basketball. It is played by two teams of eight (8) players with four (4) female players and four (4) male players in each team. The objective is to throw a ball into a netless basket that is mounted on a high pole.
 
 The sport was invented by Dutch school teacher Nico Broekhuysen in 1902. In the Netherlands, there are approximately 500 clubs and more than 90,000 people playing korfball. The sport is also played in Belgium and Taiwan, and in nearly 70 other countries.
 
 
 History
 
-_Korfbal_1928_actie.jpg in the Olympic Stadium in Amsterdam]]
+in the Olympic Stadium in Amsterdam]]
 
 In 1902 Nico Broekhuysen, a Dutch school teacher from Amsterdam, was sent to Nääs, a town in Sweden, to follow an educational course about teaching gymnastics to children. This is where he was introduced to the Swedish game "ringboll". In ringboll one could score points by throwing the ball through a ring that was attached to a 3 m pole. Men and women played together, and the field was divided into three zones. Players could not leave their zone.[1][2]
 
@@ -15,7 +15,7 @@ The oldest still existing korfball club to never have merged with any other club
 
 At first, there was considerable controversy about the sport, because the players were of both sexes. Several sports journalists refused to pay even the slightest attention to the new sport. Korfball players were accused of being immoral. Even the sportswear was criticised, because the women were showing bare knees and ankles; one newspaper wrote that "Korfball is a monster that spreads its claws to all sides[3]". Yet korfball was featured as a demonstration sport in the Summer Olympics of 1920 and 1928.[4]
 
-IKF_members_(2012).PNG]]
+]]
 
 The International Korfball Federation was founded in 1933 in Antwerp, Belgium.
 
@@ -39,8 +39,6 @@ Team
 A korfball team consists of eight players; four female and four male.[6]
 
 Match
-
-Dameskorfbal.jpg
 
 An international korfball match typically consists of four (4) periods, with the length varying depending on the competition, but typically between 7 and 10 minutes, with a one-minute break between the first and second periods and between the third and fourth periods. At half time the break is five minutes.[7]
 

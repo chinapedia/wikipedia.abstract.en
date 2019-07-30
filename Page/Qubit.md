@@ -66,7 +66,7 @@ Note that a qubit in this superposition state does not have a value in between "
 
 Bloch sphere representation
 
-Bloch_sphere.svg representation of a qubit. The probability amplitudes for the superposition state, |ψ⟩ = α|0⟩ + β|1⟩,  are given by $\alpha = \cos\left(\frac{\theta}{2}\right)$ and $\beta = e^{i \phi}  \sin\left(\frac{\theta}{2}\right)$.]]
+representation of a qubit. The probability amplitudes for the superposition state, |ψ⟩ = α|0⟩ + β|1⟩,  are given by $\alpha = \cos\left(\frac{\theta}{2}\right)$ and $\beta = e^{i \phi}  \sin\left(\frac{\theta}{2}\right)$.]]
 
 It might, at first sight, seem that there should be four degrees of freedom in |ψ⟩ = α|0⟩ + β|1⟩ , as α and β are complex numbers with two degrees of freedom each. However, one degree of freedom is removed by the normalization constraint _α_{{!}}² + {{!}}_β_{{!}}² {{=}} 1}}. This means, with a suitable change of coordinates, one can eliminate one of the degrees of freedom. One possible choice is that of Hopf coordinates:
 

@@ -1,5 +1,3 @@
-Hunker_Creek_Valley.JPG
-
 The KLONDIKE () is a region of the Yukon territory in northwest Canada, east of the Alaskan border. It lies around the Klondike River, a small river that enters the Yukon River from the east at Dawson City.
 
 The Klondike is famed due to the Klondike Gold Rush, which started in 1897 and lasted until 1899. Gold has been mined continuously in that area except for a hiatus in the late 1960s and early 1970s.

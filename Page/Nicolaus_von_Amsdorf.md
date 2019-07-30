@@ -1,4 +1,4 @@
-Portrait_of_Nikolaus_von_Amsdorff_Bishop_of_Naumburg_by_Peter_Gottlandt_1558.jpg]] Statue_of_Nicolaus_von_Amsdorf,_Schlosskirche,_Wittenberg.jpg]] Plaque_to_Nicolaus_von_Amsdorf,_quadrangle,_Wittenberg_University.jpg NICOLAUS VON AMSDORF (German: Nikolaus von Amsdorf, 3 December 1483 – 14 May 1565) was a German Lutheran theologian and an early Protestant reformer. As bishop of Naumburg (1542–1546), he became the first Lutheran bishop in the Holy Roman Empire.
+]] ]] NICOLAUS VON AMSDORF (German: Nikolaus von Amsdorf, 3 December 1483 – 14 May 1565) was a German Lutheran theologian and an early Protestant reformer. As bishop of Naumburg (1542–1546), he became the first Lutheran bishop in the Holy Roman Empire.
 
 
 Biography

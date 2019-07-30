@@ -3,7 +3,7 @@ TRANSPORT IN LITHUANIA relies mainly on road and rail networks.
 
 Lithuanian road system
 
-Lithuania-roads-(E).png in Lithuania]] (2006):
+in Lithuania]] (2006):
 _total:_
 _paved:_
 _unpaved:_
@@ -64,7 +64,7 @@ Museum
 
 Railways
 
-Lithuanian_Railways_passenger_train_decorated_with_coat_of_arms_-_Vytis.jpg]] Vilnius_railway_station_2008.jpg]] There is a total of 1,998 route km of railways, of which:
+]] ]] There is a total of 1,998 route km of railways, of which:
 
 -   1,807 km are _broad gauge_ of – 122 km of which are electrified
 -   169 km are _narrow gauge_ of – as of 2001
@@ -92,8 +92,6 @@ Ports and harbours
 
 Sea ports
 
-Klaipėda_1.jpg
-
 -   Būtingė,
 -   Klaipėda,
 -   Šventoji
@@ -117,7 +115,7 @@ _Note:_ These totals include some foreign-owned ships registered here as a flag 
 
 Airports
 
-Vilnius_International_Airport.jpg In Lithuania, there are four international airports:
+In Lithuania, there are four international airports:
 
 -   Vilnius International Airport
 -   Kaunas Airport

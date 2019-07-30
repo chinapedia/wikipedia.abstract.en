@@ -34,7 +34,7 @@ In 1951, the chemist Linus Pauling in California published his model of the amin
 
 Identifying the double helix
 
-DNA_Model_Crick-Watson.jpg]]
+]]
 
 In mid-March 1953, Watson and Crick deduced the double helix structure of DNA.[36] Crucial to their discovery were the experimental data collected at King's College London — mainly by Rosalind Franklin, under the supervision of Maurice Wilkins.[37] Sir Lawrence Bragg,[38] the director of the Cavendish Laboratory (where Watson and Crick worked), made the original announcement of the discovery at a Solvay conference on proteins in Belgium on April 8, 1953; it went unreported by the press. Watson and Crick submitted a paper entitled Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid to the scientific journal _Nature_, which was published on April 25, 1953.[39] Bragg gave a talk at the Guy's Hospital Medical School in London on Thursday, May 14, 1953, which resulted in a May 15, 1953, article by Ritchie Calder in the London newspaper _News Chronicle_, entitled "Why You Are You. Nearer Secret of Life."
 
@@ -42,7 +42,7 @@ Sydney Brenner, Jack Dunitz, Dorothy Hodgkin, Leslie Orgel, and Beryl M. Oughton
 
 The Cambridge University student newspaper _Varsity_ also ran its own short article on the discovery on Saturday, May 30, 1953. Watson subsequently presented a paper on the double-helical structure of DNA at the 18th Cold Spring Harbor Symposium on Viruses in early June 1953, six weeks after the publication of the Watson and Crick paper in _Nature_. Many at the meeting had not yet heard of the discovery. The 1953 Cold Spring Harbor Symposium was the first opportunity for many to see the model of the DNA double helix.
 
-AMNHWatson.jpg in New York City. Because the monument memorializes only American laureates, Francis Crick and Maurice Wilkins (who shared the 1962 Nobel Prize in Physiology or Medicine) are omitted.]]
+in New York City. Because the monument memorializes only American laureates, Francis Crick and Maurice Wilkins (who shared the 1962 Nobel Prize in Physiology or Medicine) are omitted.]]
 
 Watson, Crick, and Wilkins were awarded the Nobel Prize in Physiology or Medicine in 1962 for their research on the structure of nucleic acids.[41][42][43][44] Rosalind Franklin had died in 1958 and was therefore ineligible for nomination.[45]
 
@@ -88,7 +88,7 @@ In 2007, Watson said, "I turned against the left wing because they don't like ge
 
 Human Genome Project
 
-James_Dewey_Watson.jpg In 1990, Watson was appointed as the Head of the Human Genome Project at the National Institutes of Health, a position he held until April 10, 1992.[72] Watson left the Genome Project after conflicts with the new NIH Director, Bernadine Healy. Watson was opposed to Healy's attempts to acquire patents on gene sequences, and any ownership of the "laws of nature." Two years before stepping down from the Genome Project, he had stated his own opinion on this long and ongoing controversy which he saw as an illogical barrier to research; he said, "The nations of the world must see that the human genome belongs to the world's people, as opposed to its nations." He left within weeks of the 1992 announcement that the NIH would be applying for patents on brain-specific cDNAs.[73] (The issue of the patentability of genes has since been resolved in the US by the US Supreme Court; see Association for Molecular Pathology v. U.S. Patent and Trademark Office)
+In 1990, Watson was appointed as the Head of the Human Genome Project at the National Institutes of Health, a position he held until April 10, 1992.[72] Watson left the Genome Project after conflicts with the new NIH Director, Bernadine Healy. Watson was opposed to Healy's attempts to acquire patents on gene sequences, and any ownership of the "laws of nature." Two years before stepping down from the Genome Project, he had stated his own opinion on this long and ongoing controversy which he saw as an illogical barrier to research; he said, "The nations of the world must see that the human genome belongs to the world's people, as opposed to its nations." He left within weeks of the 1992 announcement that the NIH would be applying for patents on brain-specific cDNAs.[73] (The issue of the patentability of genes has since been resolved in the US by the US Supreme Court; see Association for Molecular Pathology v. U.S. Patent and Trademark Office)
 
 In 1994, Watson became President of CSHL. Francis Collins took over the role as Director of the Human Genome Project.
 
@@ -118,11 +118,9 @@ In January 2007, Watson accepted the invitation of Leonor Beleza, president of t
 
 Watson has also been an institute adviser for the Allen Institute for Brain Science.[103][104]
 
-James_Watson.jpg
-
 _Avoid Boring People_
 
-JDWatson_2007-04-30.jpg on April 30, 2007]] Watson has had disagreements with Craig Venter regarding his use of EST fragments while Venter worked at NIH. Venter went on to found Celera genomics and continued his feud with Watson. Watson was quoted as calling Venter "Hitler".[105]
+on April 30, 2007]] Watson has had disagreements with Craig Venter regarding his use of EST fragments while Venter worked at NIH. Venter went on to found Celera genomics and continued his feud with Watson. Watson was quoted as calling Venter "Hitler".[105]
 
 In his memoir, _Avoid Boring People: Lessons from a Life in Science_, Watson describes his academic colleagues as "dinosaurs," "deadbeats," "fossils," "has-beens," "mediocre," and "vapid." Steve Shapin in _Harvard Magazine_ noted that Watson had written an unlikely "Book of Manners," telling about the skills needed at different times in a scientist's career; he wrote Watson was known for aggressively pursuing his own goals at the university. E. O. Wilson once described Watson as "the most unpleasant human being I had ever met", but in a later TV interview said that he considered them friends and their rivalry at Harvard old history (when they had competed for funding in their respective fields).[106][107]
 
@@ -150,7 +148,7 @@ Watson married Elizabeth Lewis in 1968.[143] They have two sons, Rufus Robert Wa
 
 Awards and honors
 
-Watson has won numerous awards including: James_Watson_2005_Othmer_Gold_Medal.TIF
+Watson has won numerous awards including:
 
 -   Albert Lasker Award for Basic Medical Research, 1960[145]
 -   Benjamin Franklin Medal for Distinguished Achievement in the Sciences (2001)[146]

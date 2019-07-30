@@ -118,7 +118,7 @@ Santa Clara County Library operates the Los Altos Library and the Woodland Branc
 
 Parks and conservation
 
-Redwood_Grove_logs_to_mill.jpg Mallard_Drake_on_Adobe_Creek_2010.jpg in May, in Adobe Creek; the creek now runs dry by summer.]]
+in May, in Adobe Creek; the creek now runs dry by summer.]]
 
 Adobe Creek flows through REDWOOD GROVE, a nature preserve off University Avenue in Los Altos purchased by the city in 1974. In October 2009 Los Altos contracted with Acterra to remove non-native plants and revitalize the redwood, oak woodland, riparian and grassland ecosystems by installing native plants, improving soil conditions, and creating habitat for wildlife such as bird houses and native bee boxes.[26] The Coast Redwoods (_Sequoia sempervirens_) were transplanted by the Halsey family from a location on Summit Road in the Santa Cruz Mountains and replaced the native willows. The historic Halsey House, built in the late 1920s by Theodore and Emma Halsey, is a good example of Spanish Revival architecture. The city designated Halsey House a local landmark in 1981 and until recently it housed the Florence Fava collection of Coastanoan or Ohlone Indian artifacts from a nearby archeological excavation in Los Altos Hills (now moved to the Los Altos History House).[27] On June 16, 2010 the Los Altos City Council finalized the purchase of of creekside property from Delbert and Marlene Beumer, who wanted to provide a safe pathway connecting SHOUP PARK and REDWOOD GROVE.[28]
 
@@ -141,7 +141,7 @@ The _Los Altos Town Crier_, a weekly, is the primary newspaper for the town, "se
 
 Design and planning
 
-Los_Altos_Main_Street_2.jpg Los Altos strives to maintain a semi-rural atmosphere. Los Altos has few sidewalks except in commercial zones and along arterial roads. Minimum lot size for most residential housing is one-quarter of an acre. Most roads have broad dirt shoulders and little or no street lighting. The civic center sits in the middle of an orchard, a remnant of those that once covered the area. The downtown is a triangle with arterials and collector streets on all sides that enable most through traffic to bypass Main Street. Many Los Altos homes fetch $2 million and higher, putting the city (along with neighboring Los Altos Hills, with which it shares ZIP codes) at numbers 24 and 28 on Forbes' "Most Expensive ZIP Codes in America" list in 2007.[33]
+Los Altos strives to maintain a semi-rural atmosphere. Los Altos has few sidewalks except in commercial zones and along arterial roads. Minimum lot size for most residential housing is one-quarter of an acre. Most roads have broad dirt shoulders and little or no street lighting. The civic center sits in the middle of an orchard, a remnant of those that once covered the area. The downtown is a triangle with arterials and collector streets on all sides that enable most through traffic to bypass Main Street. Many Los Altos homes fetch $2 million and higher, putting the city (along with neighboring Los Altos Hills, with which it shares ZIP codes) at numbers 24 and 28 on Forbes' "Most Expensive ZIP Codes in America" list in 2007.[33]
 
 Since the mid-1990s, downtown Los Altos has experienced mild economic difficulties due to competition from nearby shopping centers and chain stores, as well as its lack of a hotel or movie theater. Revitalizing downtown is a major issue in city politics.[34]
 
@@ -160,8 +160,6 @@ There's more history just across the lushly landscaped courtyard in the landmark
 
 
 Natural disasters
-
-Losaltos_earthquake.jpg
 
 Earthquakes
 
@@ -221,9 +219,9 @@ Sister cities
 
 Los Altos had four sister cities, as designated by Sister Cities International:
 
--   Flag_of_Australia.svg Bendigo, Australia
--   Flag_of_Russia.svg Syktyvkar, Russia
--   Flag_of_the_Republic_of_China.svg Shilin, Taiwan
+-   Bendigo, Australia
+-   Syktyvkar, Russia
+-   Shilin, Taiwan
 -   Rustington, UK
 
 The program was run by the non-profit Los Altos Sister Cities, Inc., founded in 1988. That organization later decided to cease its participation and is now dissolved. Los Altos no longer participates in the sister cities program.[41]

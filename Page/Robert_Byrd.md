@@ -9,15 +9,13 @@ Near the end of his life, Byrd was in declining health and was hospitalized seve
 
 Background
 
-Byrd_mother.gif
-
 Robert Byrd was born on November 20, 1917 as CORNELIUS CALVIN SALE JR.[10] in North Wilkesboro, North Carolina, to Cornelius Calvin Sale Sr. and his wife Ada Mae (Kirby).[11] When he was ten months old, his mother died in the 1918 flu pandemic. In accordance with his mother's wishes, his father[12] dispersed their children among relatives. Calvin Jr. was adopted by his aunt and uncle, Titus and Vlurma Byrd, who changed his name to Robert Carlyle Byrd and raised him in the coal-mining region of southern West Virginia.[13][14][15]
 
 Byrd was valedictorian of his 1934 graduating class at Mark Twain High School in Tams, West Virginia.[16]
 
 Marriage
 
-Byrdandhiswife.png On May 29, 1936, Byrd married Erma Ora James (June 12, 1917 – March 25, 2006)[17] who was born to a coal mining family in Floyd County, Virginia.[18] Her family moved to Raleigh County, West Virginia, where she met Byrd when they attended the same high school.[19]
+On May 29, 1936, Byrd married Erma Ora James (June 12, 1917 – March 25, 2006)[17] who was born to a coal mining family in Floyd County, Virginia.[18] Her family moved to Raleigh County, West Virginia, where she met Byrd when they attended the same high school.[19]
 
 Children
 
@@ -44,7 +42,7 @@ In 1951, Byrd was among the official witnesses of the execution of Harry Burdett
 
 Continued education
 
-Byrd_jfk.gif Early in his career Byrd attended Beckley College, Concord College, Morris Harvey College, Marshall College, and George Washington University Law School,[37] and joined the Tau Kappa Epsilon fraternity.[38]
+Early in his career Byrd attended Beckley College, Concord College, Morris Harvey College, Marshall College, and George Washington University Law School,[37] and joined the Tau Kappa Epsilon fraternity.[38]
 
 Byrd began night classes at American University Washington College of Law in 1953, while a member of the United States House of Representatives. He earned his J.D. _cum laude_ a decade later,[39] by which time he was a U.S. Senator. President John F. Kennedy spoke at the commencement ceremony on June 10, 1963 and presented the graduates their diplomas, including Byrd. Byrd completed law school in an era when undergraduate degrees were not a requirement. He later decided to complete his Bachelor of Arts degree in political science, and in 1994 he graduated _summa cum laude_ from Marshall University.[40]
 
@@ -59,7 +57,7 @@ In the 1960 Democratic presidential election primaries, Byrd – a close Senate 
 
 Public service records
 
-Robert_C._Byrd_–_1967.jpg Byrd was elected to a record ninth consecutive full Senate term on November 7, 2006. He became the longest-serving senator in American history on June 12, 2006, surpassing Strom Thurmond of South Carolina with 17,327 days of service.[46] On November 18, 2009, Byrd became the longest-serving member in congressional history, with 56 years, 320 days of combined service in the House and Senate, passing Carl Hayden of Arizona.[47][48] Previously, Byrd had held the record for the longest unbroken tenure in the Senate (Thurmond resigned during his first term and was re-elected seven months later). He is the only senator ever to serve more than 50 years. Including his tenure as a state legislator from 1947 to 1953, Byrd's service on the political front exceeded 60 continuous years. Byrd, who never lost an election, cast his 18,000th vote on June 21, 2007, the most of any senator in history.[49][50] John Dingell broke Byrd's record as longest-serving member of Congress on June 7, 2013.[51]
+Byrd was elected to a record ninth consecutive full Senate term on November 7, 2006. He became the longest-serving senator in American history on June 12, 2006, surpassing Strom Thurmond of South Carolina with 17,327 days of service.[46] On November 18, 2009, Byrd became the longest-serving member in congressional history, with 56 years, 320 days of combined service in the House and Senate, passing Carl Hayden of Arizona.[47][48] Previously, Byrd had held the record for the longest unbroken tenure in the Senate (Thurmond resigned during his first term and was re-elected seven months later). He is the only senator ever to serve more than 50 years. Including his tenure as a state legislator from 1947 to 1953, Byrd's service on the political front exceeded 60 continuous years. Byrd, who never lost an election, cast his 18,000th vote on June 21, 2007, the most of any senator in history.[49][50] John Dingell broke Byrd's record as longest-serving member of Congress on June 7, 2013.[51]
 
 Upon the death of former Florida Senator George Smathers on January 20, 2007, Byrd became the last living United States Senator from the 1950s.[52]
 
@@ -85,7 +83,7 @@ These are the committee assignments for Sen. Byrd's 9th and final term.
 
 Filibuster of the Civil Rights Act of 1964
 
-Byrd_meeting_with_Ford.jpg]] Byrd was a member of the wing of the Democratic Party that opposed federally-mandated desegregation and civil rights. However, despite his early career in the KKK, Byrd was linked to such senators as John C. Stennis, J. William Fulbright and George Smathers, who based their segregationist positions on their view of states' rights in contrast to senators like James Eastland, who held a reputation as a committed racist.[53]
+]] Byrd was a member of the wing of the Democratic Party that opposed federally-mandated desegregation and civil rights. However, despite his early career in the KKK, Byrd was linked to such senators as John C. Stennis, J. William Fulbright and George Smathers, who based their segregationist positions on their view of states' rights in contrast to senators like James Eastland, who held a reputation as a committed racist.[53]
 
 Byrd joined with Democratic senators to filibuster the Civil Rights Act of 1964,[54] personally filibustering the bill for 14 hours, a move he later said he regretted.[55] Despite an 83-day filibuster in the Senate, both parties in Congress voted overwhelmingly in favor of the Act (Democrats 47-16, Republicans 30-2), and President Johnson signed the bill into law.[56] Byrd also opposed the Voting Rights Act of 1965 but voted for the Civil Rights Act of 1968. In 2005, Byrd told _The Washington Post_ that his membership in the Baptist church led to a change in his views. In the opinion of one reviewer, Byrd, like other Southern and border-state Democrats, came to realize that he would have to temper "his blatantly segregationist views" and move to the Democratic Party mainstream if he wanted to play a role nationally.[57]
 
@@ -99,13 +97,11 @@ During the 1968 Democratic Party presidential primaries, Byrd supported the incu
 
 Leadership roles
 
-DemSenateLeadersDesk.jpg
-
 Byrd served in the Senate Democratic leadership. He succeeded George Smathers as secretary of the Senate Democratic Conference from 1967 to 1971.[63] He unseated Ted Kennedy in 1971 to become majority whip, or the second highest-ranking Democrat, until 1977.[64] Smathers recalled that, "Ted was off playing. While Ted was away at Christmas, down in the islands, floating around having a good time with some of his friends, male and female, here was Bob up here calling on the phone. 'I want to do this, and would you help me?' He had it all committed so that when Teddy got back to town, Teddy didn't know what hit him, but it was already all over. That was Lyndon Johnson's style. Bob Byrd learned that from watching Lyndon Johnson." Byrd himself had told Smathers that " I have never in my life played a game of cards. I have never in my life had a golf club in my hand. I have never in life hit a tennis ball. I have—believe it or not—never thrown a line over to catch a fish. I don't do any of those things. I have only had to work all my life. And every time you told me about swimming, I don't know how to swim."[65]
 
 In 1976, Byrd was the "favorite son" Presidential candidate in West Virginia's primary. His easy victory gave him control of the delegation to the Democratic National Convention. Byrd had the inside track as majority whip but focused most of his time running for majority leader, more so than for re-election to the Senate, as he was virtually unopposed for his fourth term. By the time the vote for majority leader came, his lead was so secure that his lone rival, Minnesota's Hubert Humphrey, withdrew before the balloting took place. From 1977 to 1989 Byrd was the leader of the Senate Democrats, serving as majority leader from 1977 to 1981 and 1987 to 1989, and as minority leader from 1981 to 1987.[66]
 
-Byrd_bush.jpg presided over a special joint session following the September 11, 2001, attacks. Here President Bush shakes hands with Byrd.]]
+presided over a special joint session following the September 11, 2001, attacks. Here President Bush shakes hands with Byrd.]]
 
 Appropriations Committee
 
@@ -127,17 +123,15 @@ In 2002 Byrd secured unanimous approval for a major national initiative to stren
 
 Senate historian
 
-Byrd_baker_book_1.jpg, the Senate historian]] Television cameras were first introduced to the House of Representatives on March 19, 1979, by C-SPAN. Unsatisfied that Americans only saw Congress as the House of Representatives, Byrd and others pushed to televise Senate proceedings to prevent the Senate from becoming the "invisible branch" of government, succeeding in June 1986. To help introduce the public to the inner workings of the legislative process, Byrd launched a series of one hundred speeches based on his examination of the Roman Republic and the intent of the Framers. Byrd published a four-volume series on Senate history: _The Senate: 1789–1989: Addresses on the History of the Senate_.[78] The first volume won the Henry Adams Prize of the Society for History in the Federal Government as "an outstanding contribution to research in the history of the Federal Government." He also published _The Senate of the Roman Republic: Addresses on the History of Roman Constitutionalism_.[79]
+, the Senate historian]] Television cameras were first introduced to the House of Representatives on March 19, 1979, by C-SPAN. Unsatisfied that Americans only saw Congress as the House of Representatives, Byrd and others pushed to televise Senate proceedings to prevent the Senate from becoming the "invisible branch" of government, succeeding in June 1986. To help introduce the public to the inner workings of the legislative process, Byrd launched a series of one hundred speeches based on his examination of the Roman Republic and the intent of the Framers. Byrd published a four-volume series on Senate history: _The Senate: 1789–1989: Addresses on the History of the Senate_.[78] The first volume won the Henry Adams Prize of the Society for History in the Federal Government as "an outstanding contribution to research in the history of the Federal Government." He also published _The Senate of the Roman Republic: Addresses on the History of Roman Constitutionalism_.[79]
 
 In 2004, Byrd received the American Historical Association's first Theodore Roosevelt-Woodrow Wilson Award for Civil Service; in 2007, Byrd received the Friend of History Award from the Organization of American Historians. Both awards honor individuals outside the academy who have made a significant contribution to the writing and/or presentation of history. In 2014, The Byrd Center for Legislative Studies began assessing the archiving of Senator Byrd's electronic correspondence and floor speeches in order to preserve these documents and make them available to the wider community.[80]
 
 Final-term Senate highlights
 
-Dogfighting.ogg on federal dog fighting charges]] Bush,_Byrd_and_Pelosi_awarding_the_Dalai_Lama.jpg in 2007. _From left_: Tenzin Gyatso, Speaker Nancy Pelosi, Senate President _pro tempore_ Robert Byrd and U.S. President George W. Bush]] On July 19, 2007, Byrd gave a 25-minute speech in the Senate against dog fighting, in response to the indictment of football player Michael Vick.[81] In recognition of the speech, People for the Ethical Treatment of Animals named Byrd their _2007 Person of the Year_.[82]
+on federal dog fighting charges]] in 2007. _From left_: Tenzin Gyatso, Speaker Nancy Pelosi, Senate President _pro tempore_ Robert Byrd and U.S. President George W. Bush]] On July 19, 2007, Byrd gave a 25-minute speech in the Senate against dog fighting, in response to the indictment of football player Michael Vick.[81] In recognition of the speech, People for the Ethical Treatment of Animals named Byrd their _2007 Person of the Year_.[82]
 
 For 2007, Byrd was deemed the fourteenth-most powerful senator, as well as the twelfth-most powerful Democratic senator.[83]
-
-Byrd_and_farmers.jpg
 
 On May 19, 2008, Byrd endorsed then-Senator Barack Obama for president. One week after the West Virginia Democratic Primary, in which Hillary Clinton defeated Obama by 67 to 25 percent,[84] Byrd said, "Barack Obama is a noble-hearted patriot and humble Christian, and he has my full faith and support."[85] When asked in October 2008 about the possibility that the issue of race would influence West Virginia voters, as Obama is an African-American, Byrd replied, "Those days are gone. Gone!"[86] Obama lost West Virginia (by 13%) but won the election.
 
@@ -151,8 +145,6 @@ Although his health was poor, Byrd was present for every crucial vote during the
 Political views
 
 Race
-
-Robert_Byrd_Majority_Portrait.jpg
 
 Byrd initially compiled a mixed record on the subjects of race relations and desegregation.[90] While he initially voted against civil rights legislation, in 1959 he hired one of the Capitol's first black congressional aides, and he also took steps to integrate the United States Capitol Police for the first time since Reconstruction.[91] Beginning in the 1970s, Byrd explicitly renounced his earlier views favoring racial segregation.[92][93] Byrd said that he regretted filibustering and voting against the Civil Rights Act of 1964[94] and would change it if he had the opportunity. Byrd also said that his views changed dramatically after his teenage grandson was killed in a 1982 traffic accident, which put him in a deep emotional valley. "The death of my grandson caused me to stop and think," said Byrd, adding he came to realize that African-Americans love their children as much as he does his.[95] During debate in 1983 over the passage of the law creating the Martin Luther King Jr. Day holiday, Byrd grasped the symbolism of the day and its significance to his legacy, telling members of his staff "I'm the only one in the Senate who _MUST_ vote for this bill".[96]
 
@@ -326,7 +318,7 @@ In July 2004, Byrd released The New York Times best-selling book _Losing America
 
 Iraq War
 
-Byrd-Gates.jpg, November 30, 2006]] Byrd_with_petraeus.jpg, January 23, 2007]]
+, November 30, 2006]] , January 23, 2007]]
 
 Byrd led a filibuster against the resolution granting President George W. Bush broad power to wage a "preemptive" war against Iraq, but he could not get even a majority of his own party to vote against cloture.[207]
 
@@ -413,7 +405,7 @@ On January 20, 2009, Senator Ted Kennedy suffered a seizure during Barack Obama'
 
 Byrd's final hospital stay began on June 27, 2010, at Inova Fairfax Hospital in Fairfax County, Virginia.[254][255][256] He died at approximately EDT the next day at age 92 from natural causes.[257]
 
-Senator_Byrd_funeral_service.jpg, Vice President Joe Biden, former President Bill Clinton, West Virginia Governor Joe Manchin and members of Congress attended the memorial service for Byrd at the State Capitol in Charleston, West Virginia, on July 2, 2010.]]
+, Vice President Joe Biden, former President Bill Clinton, West Virginia Governor Joe Manchin and members of Congress attended the memorial service for Byrd at the State Capitol in Charleston, West Virginia, on July 2, 2010.]]
 
 Vice President Joe Biden recalled Byrd's standing in the rain with him as Biden buried his daughter when Biden had just been elected to the Senate. He called Byrd "a tough, compassionate, and outspoken leader and dedicated above all else to making life better for the people of the Mountain State."[258] President Barack Obama said, "His profound passion for that body and its role and responsibilities was as evident behind closed doors as it was in the stemwinders he peppered with history. He held the deepest respect of members of both parties, and he was generous with his time and advice, something I appreciated greatly as a young senator."[259] Senator Jay Rockefeller, who had served with Byrd since 1985, said, "I looked up to him, I fought next to him, and I am deeply saddened that he is gone."[260] Former President Jimmy Carter noted, "He was my closest and most valuable adviser while I served as president. I respected him and attempted in every way to remain in his good graces. He was a giant among legislators, and was courageous in espousing controversial issues."[261]
 
@@ -423,7 +415,7 @@ A funeral was held on July 2, 2010, on the grounds of the State Capitol where By
 
 The song "Take Me Home, Country Roads" was played at the end of the funeral in a bluegrass fashion as his casket was being carried back up the stairs and into the West Virginia State Capitol Building.[265][266]
 
-On September 30, 2010, Congress appropriated $193,400 to be paid equally among Byrd's children and grandchildren, representing the salary he would have earned in the next fiscal year, a common practice when members of Congress die in office.[267][268] Columbia_Gardens_Cemetery_-_Robert_C._Byrd_and_wife.JPG
+On September 30, 2010, Congress appropriated $193,400 to be paid equally among Byrd's children and grandchildren, representing the salary he would have earned in the next fiscal year, a common practice when members of Congress die in office.[267][268]
 
 Reaction to death
 

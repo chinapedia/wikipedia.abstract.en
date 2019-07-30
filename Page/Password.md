@@ -1,4 +1,4 @@
-Mediawiki_1.25_sign_in_form.png and password]]
+and password]]
 
 A PASSWORD, sometimes called a PASSCODE,[1] is a memorized secret used to confirm the identity of a user.[2] Using the terminology of the NIST Digital Identity Guidelines,[3] the secret is memorized by a party called the _claimant_ while the party verifying the identity of the claimant is called the _verifier_. When the claimant successfully demonstrates knowledge of the password to the verifier through an established authentication protocol,[4] the verifier is able to infer the claimant’s identity.
 

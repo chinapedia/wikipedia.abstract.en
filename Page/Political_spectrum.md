@@ -1,4 +1,4 @@
-Political_Compass_yellow_LibRight.svgs, an example for a frequently used model of the political spectrum[1][2][3][4][5][6][7][8]]]
+s, an example for a frequently used model of the political spectrum[1][2][3][4][5][6][7][8]]]
 
 A POLITICAL SPECTRUM is a system to characterize and classify different political positions in relation to one another upon one or more geometric axes that represent independent political dimensions.[9] The expressions POLITICAL COMPASS and POLITICAL MAP are used to refer to the politcal spectrum as well, especially to popular two-dimensional models of it.[10][11][12][13]
 
@@ -32,7 +32,7 @@ This system was derived empirically, as rather than devising a political model o
 
 Hans Eysenck
 
-Political_spectrum_Eysenck.png Shortly afterward, Hans Eysenck began researching political attitudes in Great Britain. He believed that there was something essentially similar about the National Socialists (Nazis) on the one hand and the communists on the other, despite their opposite positions on the left–right axis. As Hans Eysenck described in his 1956 book _Sense and Nonsense in Psychology_,[29] Eysenck compiled a list of political statements found in newspapers and political tracts and asked subjects to rate their agreement or disagreement with each. Submitting this value questionnaire to the same process of factor analysis used by Ferguson, Eysenck drew out two factors, which he named "Radicalism" (R-factor) and "Tender-Mindedess" (T-factor).
+Shortly afterward, Hans Eysenck began researching political attitudes in Great Britain. He believed that there was something essentially similar about the National Socialists (Nazis) on the one hand and the communists on the other, despite their opposite positions on the left–right axis. As Hans Eysenck described in his 1956 book _Sense and Nonsense in Psychology_,[29] Eysenck compiled a list of political statements found in newspapers and political tracts and asked subjects to rate their agreement or disagreement with each. Submitting this value questionnaire to the same process of factor analysis used by Ferguson, Eysenck drew out two factors, which he named "Radicalism" (R-factor) and "Tender-Mindedess" (T-factor).
 
 Such analysis produces a factor whether or not it corresponds to a real-world phenomenon and so caution must be exercised in its interpretation. While Eysenck's R-factor is easily identified as the classical "left–right" dimension, the T-factor (representing a factor drawn at right angles to the R-factor) is less intuitive, as high-scorers favored pacifism, racial equality, religious education and restrictions on abortion, while low-scorers had attitudes more friendly to militarism, harsh punishment, easier divorce laws and companionate marriage.
 
@@ -94,7 +94,7 @@ In a 2003 _Psychological Bulletin_ paper,[54] Jeff Greenberg and Eva Jonas posit
 
 Inglehart: traditionalist–secular and self expressionist–survivalist
 
-Inglehart_Values_Map.svg–Welzel cultural map of the world based on the World Values Survey|alt=]] In its 4 January 2003 issue, _The Economist_ discussed a chart,[55] proposed by Ronald Inglehart and supported by the World Values Survey (associated with the University of Michigan), to plot cultural ideology onto two dimensions. On the y-axis it covered issues of tradition and religion, like patriotism, abortion, euthanasia and the importance of obeying the law and authority figures. At the bottom of the chart is the traditionalist position on issues like these (with loyalty to country and family and respect for life considered important), while at the top is the secular position. The x-axis deals with self-expression, issues like everyday conduct and dress, acceptance of diversity (including foreigners) and innovation, and attitudes towards people with specific controversial lifestyles such as vegetarianism, as well as willingness to engage in political activism. At the right of the chart is the open self-expressionist position, while at the left is its opposite position, which Inglehart calls survivalist. This chart not only has the power to map the values of individuals, but also to compare the values of people in different countries. Placed on this chart, European Union countries in continental Europe come out on the top right, Anglophone countries on the middle right, Latin American countries on the bottom right, African, Middle Eastern and South Asian countries on the bottom left and ex-Communist countries on the top left.
+–Welzel cultural map of the world based on the World Values Survey|alt=]] In its 4 January 2003 issue, _The Economist_ discussed a chart,[55] proposed by Ronald Inglehart and supported by the World Values Survey (associated with the University of Michigan), to plot cultural ideology onto two dimensions. On the y-axis it covered issues of tradition and religion, like patriotism, abortion, euthanasia and the importance of obeying the law and authority figures. At the bottom of the chart is the traditionalist position on issues like these (with loyalty to country and family and respect for life considered important), while at the top is the secular position. The x-axis deals with self-expression, issues like everyday conduct and dress, acceptance of diversity (including foreigners) and innovation, and attitudes towards people with specific controversial lifestyles such as vegetarianism, as well as willingness to engage in political activism. At the right of the chart is the open self-expressionist position, while at the left is its opposite position, which Inglehart calls survivalist. This chart not only has the power to map the values of individuals, but also to compare the values of people in different countries. Placed on this chart, European Union countries in continental Europe come out on the top right, Anglophone countries on the middle right, Latin American countries on the bottom right, African, Middle Eastern and South Asian countries on the bottom left and ex-Communist countries on the top left.
 
 Pournelle: liberty–control, irrationalism–rationalism
 
@@ -102,7 +102,7 @@ This very distinct two-axis model was created by Jerry Pournelle in 1963 for his
 
 Mitchell: _Eight Ways to Run the Country_
 
-Mitchell's_Eight_Political_Americans.png Mitchell's_Eight_Ways.pngIn 2006, Brian Patrick Mitchell identified four main political traditions in Anglo-American history based on their regard for _kratos_ (defined as the use of force) and _archē_ or "archy" (defined as the recognition of rank).[56] Mitchell grounded the distinction of archy and kratos in the West's historical experience of church and state, crediting the collapse of the Christian consensus on church and state with the appearance of four main divergent traditions in Western political thought:
+In 2006, Brian Patrick Mitchell identified four main political traditions in Anglo-American history based on their regard for _kratos_ (defined as the use of force) and _archē_ or "archy" (defined as the recognition of rank).[56] Mitchell grounded the distinction of archy and kratos in the West's historical experience of church and state, crediting the collapse of the Christian consensus on church and state with the appearance of four main divergent traditions in Western political thought:
 
 -   Republican constitutionalism = pro archy, anti kratos
 -   Libertarian individualism = anti archy, anti kratos
@@ -115,12 +115,12 @@ From the four main political traditions, Mitchell identifies eight distinct poli
 
 Nolan: economic freedom, personal freedom
 
-Nolan_chart_normal.png]] The Nolan chart was created by libertarian David Nolan. This chart shows what he considers as "economic freedom" (issues like taxation, free trade and free enterprise) on the horizontal axis and what he considers as "personal freedom" (issues like drug legalization, abortion and the draft) on the vertical axis. This puts left-wingers in the left quadrant, libertarians in the top, right-wingers in the right and what Nolan originally named populists in the bottom.
+]] The Nolan chart was created by libertarian David Nolan. This chart shows what he considers as "economic freedom" (issues like taxation, free trade and free enterprise) on the horizontal axis and what he considers as "personal freedom" (issues like drug legalization, abortion and the draft) on the vertical axis. This puts left-wingers in the left quadrant, libertarians in the top, right-wingers in the right and what Nolan originally named populists in the bottom.
 
 
 Three-axis models
 
-Revised_NPOV_political_chart.jpgOne alternative spectrum offered by the conservative _American Federalist Journal_[58] accounts for only the "degree of government control" without consideration for any other social or political variable and thus places "fascism" (totalitarianism) at one extreme and "anarchism" (no government at all) at the other extreme.
+One alternative spectrum offered by the conservative _American Federalist Journal_[58] accounts for only the "degree of government control" without consideration for any other social or political variable and thus places "fascism" (totalitarianism) at one extreme and "anarchism" (no government at all) at the other extreme.
 
 
 Spatial model
@@ -132,7 +132,7 @@ Most of the other spectra in this article can then be considered projections of 
 
 Other proposed dimensions
 
-3-axis-model-of-political-ideologies-with-both-moderate-and-radical-versions-and-policies-goals.pngIn 1998, political author Virginia Postrel, in her book _The Future and Its Enemies_, offered another single-axis spectrum that measures views of the future, contrasting stasists, who allegedly fear the future and wish to control it, and dynamists, who want the future to unfold naturally and without attempts to plan and control. The distinction corresponds to the utopian versus dystopian spectrum used in some theoretical assessments of liberalism and the book's title is borrowed from the work of the anti-utopian classic-liberal theorist Karl Popper.
+In 1998, political author Virginia Postrel, in her book _The Future and Its Enemies_, offered another single-axis spectrum that measures views of the future, contrasting stasists, who allegedly fear the future and wish to control it, and dynamists, who want the future to unfold naturally and without attempts to plan and control. The distinction corresponds to the utopian versus dystopian spectrum used in some theoretical assessments of liberalism and the book's title is borrowed from the work of the anti-utopian classic-liberal theorist Karl Popper.
 
 Other proposed axes include:
 

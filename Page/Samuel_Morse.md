@@ -3,8 +3,6 @@ SAMUEL FINLEY BREESE MORSE (April 27, 1791 – April 2, 1872) was an American pa
 
 Birth and education
 
-MorseHouseCharlestown.jpg
-
 Samuel F. B. Morse was born in Charlestown, Massachusetts, the first child of the pastor Jedidiah Morse (1761–1826), who was also a geographer, and his wife Elizabeth Ann Finley Breese (1766–1828). His father was a great preacher of the Calvinist faith and supporter of the American Federalist party. He thought it helped preserve Puritan traditions (strict observance of Sabbath, among other things), and believed in the Federalist support of an alliance with Britain and a strong central government. Morse strongly believed in education within a Federalist framework, alongside the instillation of Calvinist virtues, morals, and prayers for his first son.
 
 After attending Phillips Academy in Andover, Massachusetts, Samuel Morse went on to Yale College to receive instruction in the subjects of religious philosophy, mathematics, and science of horses. While at Yale, he attended lectures on electricity from Benjamin Silliman and Jeremiah Day and was a member of the Society of Brothers in Unity. He supported himself by painting. In 1810, he graduated from Yale with Phi Beta Kappa honors.
@@ -12,13 +10,13 @@ After attending Phillips Academy in Andover, Massachusetts, Samuel Morse went on
 
 Painting
 
-Samuel_Finley_Breese_Morse_-_Samuel_F._B._Morse_Self-Portrait_-_Google_Art_Project.jpg)]]
+)]]
 
 Morse expressed some of his Calvinist beliefs in his painting, _Landing of the Pilgrims_, through the depiction of simple clothing as well as the people's austere facial features. His image captured the psychology of the Federalists; Calvinists from England brought to North America ideas of religion and government, thus linking the two countries. This work attracted the attention of the notable artist, Washington Allston. Allston wanted Morse to accompany him to England to meet the artist Benjamin West. Allston arranged—with Morse's father—a three-year stay for painting study in England. The two men set sail aboard the _Libya_ on July 15, 1811.
 
 In England, Morse perfected his painting techniques under Allston's watchful eye; by the end of 1811, he gained admittance to the Royal Academy. At the Academy, he was moved by the art of the Renaissance and paid close attention to the works of Michelangelo and Raphael. After observing and practicing life drawing and absorbing its anatomical demands, the young artist produced his masterpiece, the _Dying Hercules_. (He first made a sculpture as a study for the painting.)
 
-DyingHercules.jpg'', Morse's early masterpiece]]
+'', Morse's early masterpiece]]
 
 To some, the _Dying Hercules_ seemed to represent a political statement against the British and also the American Federalists. The muscles symbolized the strength of the young and vibrant United States versus the British and British-American supporters. During Morse's time in Britain, the Americans and British were engaged in the War of 1812. Both societies were conflicted over loyalties. Anti-Federalist Americans aligned themselves with the French, abhorred the British, and believed a strong central government to be inherently dangerous to democracy.
 
@@ -26,7 +24,7 @@ As the war raged on, Morse's letters to his parents became more anti-Federalist 
 
   I assert ... that the Federalists in the Northern States have done more injury to their country by their violent opposition measures than a French alliance could. Their proceedings are copied into the English papers, read before Parliament, and circulated through their country, and what do they say of them ... they call them [Federalists] cowards, a base set, say they are traitors to their country and ought to be hanged like traitors.[1]
 
-Brooklyn_Museum_-_Jonas_Platt_-_Samuel_Finley_Breese_Morse_-_overall.jpg'', New York politician, by Morse. Oil on canvas, 1828, Brooklyn Museum.]]
+'', New York politician, by Morse. Oil on canvas, 1828, Brooklyn Museum.]]
 
 Although Jedidiah Morse did not change Samuel's political views, he continued as an influence. Critics believe that the elder Morse's Calvinist ideas are integral to Morse's _Judgment of Jupiter,_ another significant work completed in England. Jupiter is shown in a cloud, accompanied by his eagle, with his hand spread above the parties and he is pronouncing judgment. Marpessa, with an expression of compunction and shame, is throwing herself into the arms of her husband. Idas, who tenderly loved Marpessa, is eagerly rushing forward to receive her while Apollo stares with surprise.
 
@@ -34,15 +32,13 @@ Critics have suggested that Jupiter represents God's omnipotence—watching ever
 
 The decade 1815–1825 marked significant growth in Morse's work, as he sought to capture the essence of America's culture and life. He painted the Federalist former President John Adams (1816). The Federalists and Anti-Federalists clashed over Dartmouth College. Morse painted portraits of Francis Brown—the college's president—and Judge Woodward (1817), who was involved in bringing the Dartmouth case before the U.S. Supreme Court.
 
-94_Tradd.JPG, Charleston, South Carolina, for a short period.]]
+, Charleston, South Carolina, for a short period.]]
 
 Morse also sought commissions among the elite of Charleston, South Carolina. Morse's 1818 painting of Mrs. Emma Quash symbolized the opulence of Charleston. The young artist was doing well for himself. Between 1819 and 1821, Morse went through great changes in his life, including a decline in commissions due to the Panic of 1819. Unable to stop the rift within Calvinism, his father was forced to resign from his ministerial position, which he had held for three decades. The new branch that formed was the Congregational Unitarians, Morse considered them to be anti-Federalists, as their beliefs were related to religious salvation.
 
 Although Samuel Morse respected his father's religious opinions, he sympathized with the Unitarians. Among the converts to Unitarianism were the prominent Pickerings of Portsmouth, New Hampshire, whom Morse had painted. Some critics thought his sympathies represented his own anti-Federalism. Morse was commissioned to paint President James Monroe in 1820. He embodied Jeffersonian democracy by favoring the common man over the aristocrat.
 
 Morse had moved to New Haven. His commissions for _The House of Representatives_ (1821) and a portrait of the Marquis de Lafayette (1825) engaged his sense of democratic nationalism. _The House of Representatives_ was designed to capitalize on the success of François Marius Granet's _The Capuchin Chapel in Rome,_ which toured the United States extensively throughout the 1820s, attracting audiences willing to pay the 25-cent admission fee.
-
-Samuel_Finley_Breeze_Morse_001.jpg
 
 The artist chose to paint the House of Representatives, in a similar way, with careful attention to architecture and dramatic lighting. He also wished to select a uniquely American topic that would bring glory to the young nation. His subject did just that, showing American democracy in action. He traveled to Washington D.C. to draw the architecture of the new Capitol and placed eighty individuals within the painting. He chose to portray a night scene, balancing the architecture of the Rotunda with the figures, and using lamplight to highlight the work. Pairs of people, those who stood alone, individuals bent over their desks working, were each painted simply but with faces of character. Morse chose nighttime to convey that Congress' dedication to the principles of democracy transcended day.
 
@@ -73,7 +69,7 @@ Attributed artworks
 
 Telegraph
 
-Morse_telegraph.jpg]]
+]]
 
 As noted, in 1825 New York City had commissioned Morse to paint a portrait of Lafayette in Washington, DC. While Morse was painting, a horse messenger delivered a letter from his father that read, "Your dear wife is convalescent". The next day he received a letter from his father detailing his wife's sudden death.[4] Morse immediately left Washington for his home at New Haven, leaving the portrait of Lafayette unfinished. By the time he arrived, his wife had already been buried. Heartbroken that for days he was unaware of his wife's failing health and her death, he decided to explore a means of rapid long distance communication.
 
@@ -86,8 +82,6 @@ In an 1848 letter to a friend, Morse describes how vigorously he fought to be ca
 
 Relays
 
-Leonard_D._Gale_cph.3a00116.jpg
-
 Morse encountered the problem of getting a telegraphic signal to carry over more than a few hundred yards of wire. His breakthrough came from the insights of Professor Leonard Gale, who taught chemistry at New York University (he was a personal friend of Joseph Henry). With Gale's help, Morse introduced extra circuits or relays at frequent intervals and was soon able to send a message through of wire. This was the great breakthrough he had been seeking. Morse and Gale were soon joined by Alfred Vail, an enthusiastic young man with excellent skills, insights, and money.
 
 At the Speedwell Ironworks in Morristown, New Jersey on January 11, 1838, Morse and Vail made the first public demonstration of the electric telegraph. Although Morse and Alfred Vail had done most of the research and development in the ironworks facilities, they chose a nearby factory house as the demonstration site. Without the repeater, the range of the telegraph was limited to , and the inventors had pulled of wires inside the factory house through an elaborate scheme. The first public transmission, with the message, "A patient waiter is no loser", was witnessed by a mostly local crowd.
@@ -99,8 +93,6 @@ Federal support
 
 Morse made his last trip to Washington, D.C., in December 1842, stringing "wires between two committee rooms in the Capitol, and sent messages back and forth" to demonstrate his telegraph system. Congress appropriated $30,000 in 1843 for construction of an experimental telegraph line between Washington, D.C., and Baltimore along the right-of-way of the Baltimore and Ohio Railroad. An impressive demonstration occurred on May 1, 1844, when news of the Whig Party's nomination of Henry Clay for U.S. President was telegraphed from the party's convention in Baltimore to the Capitol Building in Washington.
 
-Samuel_Morse_plaque.jpg
-
 On May 24, 1844, the line was officially opened as Morse sent the now-famous words, "What hath God wrought," from the Supreme Court chamber in the basement of the U.S. Capitol building in Washington, D.C., to the B&O's Mount Clare Station in Baltimore. Annie Ellsworth chose these words from the Bible (Numbers 23:23); her father, U.S. Patent Commissioner Henry Leavitt Ellsworth, had championed Morse's invention and secured early funding for it. His telegraph could transmit thirty characters per minute.
 
 In May 1845, the Magnetic Telegraph Company was formed in order to build telegraph lines from New York City toward Philadelphia; Boston; Buffalo, New York; and the Mississippi. Telegraphic lines rapidly spread throughout the United States in the next few years, with 12,000 miles of wire laid by 1850.
@@ -109,8 +101,6 @@ Morse at one time adopted Wheatstone and Carl August von Steinheil's idea of bro
 
 
 Patent
-
-Samuel_Morse_with_his_Recorder_by_Brady,_1857.png
 
 Morse received a patent for the telegraph in 1847, at the old Beylerbeyi Palace (the present Beylerbeyi Palace was built in 1861–1865 on the same location) in Istanbul, which was issued by Sultan Abdülmecid, who personally tested the new invention.[7] He was elected an Associate Fellow of the American Academy of Arts and Sciences in 1849.[8] The original patent went to the Breese side of the family after the death of Samuel Morse.
 
@@ -126,8 +116,6 @@ There is an argument amongst historians that Morse may have received the idea of
 
 
 Political views
-
-Foreign_Conspiracy.png
 
 Morse was a leader in the anti-Catholic and anti-immigration movement of the mid-19th century. In 1836, he ran unsuccessfully for mayor of New York under the anti-immigrant Nativist Party's banner, receiving only 1,496 votes. When Morse visited Rome, he allegedly refused to take his hat off in the presence of the Pope.
 
@@ -155,7 +143,7 @@ In the United States, Morse held his telegraph patent for many years, but it was
 
 The Supreme Court did not accept all of Morse's claims. The _O'Reilly v. Morse_ case has become widely known among patent lawyers because the Supreme Court explicitly denied Morse's claim 8[18] for any and all use of the electromagnetic force for purposes of transmitting intelligible signals to any distance.[19]
 
-TelRelays.gif The Supreme Court sustained, however, Morse's claim to such telecommunication when effectuated by means of Morse's inventive "repeater" apparatus. This was an electrical circuit in which a cascade of many sets comprising a relay and a battery were connected in series, so that when each relay closed, it closed a circuit to cause the next battery to power the succeeding relay, as suggested in the accompanying figure. This caused Morse's signal to pass along the cascade without degrading into noise as its amplitude decreased with the distance traveled. (Each time the amplitude of the signal approaches the noise level, the repeater [in effect, a nonlinear amplifier] boosts the signal amplitude well above the noise level.) This use of "repeaters" permitted a message to be sent to great distances, which was previously not feasible. upright=1.1 The Supreme Court thus held that Morse could properly claim a patent monopoly on the system or process of transmitting signals at any distance by means of the repeater circuitry indicated above, but he could not properly claim a monopoly over any and all uses of electromagnetic force to transmit signals. The apparatus limitation in the former type of claim limited the patent monopoly to what Morse taught and gave the world. The lack of that limitation in the latter type of claim (i.e., claim 8) both gave Morse more than was commensurate with what he had contributed to society and discouraged the inventive efforts of others who might come up with different and/or better ways to send signals at a distance using the electromagnetic force.[20]
+The Supreme Court sustained, however, Morse's claim to such telecommunication when effectuated by means of Morse's inventive "repeater" apparatus. This was an electrical circuit in which a cascade of many sets comprising a relay and a battery were connected in series, so that when each relay closed, it closed a circuit to cause the next battery to power the succeeding relay, as suggested in the accompanying figure. This caused Morse's signal to pass along the cascade without degrading into noise as its amplitude decreased with the distance traveled. (Each time the amplitude of the signal approaches the noise level, the repeater [in effect, a nonlinear amplifier] boosts the signal amplitude well above the noise level.) This use of "repeaters" permitted a message to be sent to great distances, which was previously not feasible. upright=1.1 The Supreme Court thus held that Morse could properly claim a patent monopoly on the system or process of transmitting signals at any distance by means of the repeater circuitry indicated above, but he could not properly claim a monopoly over any and all uses of electromagnetic force to transmit signals. The apparatus limitation in the former type of claim limited the patent monopoly to what Morse taught and gave the world. The lack of that limitation in the latter type of claim (i.e., claim 8) both gave Morse more than was commensurate with what he had contributed to society and discouraged the inventive efforts of others who might come up with different and/or better ways to send signals at a distance using the electromagnetic force.[20]
 
 The problem that Morse faced (the deterioration of the signal with distance)[21] and how he solved it is discussed in more detail in the article _O'Reilly v. Morse_. In summary, the solution, as the Supreme Court stated, was the repeater apparatus described in the preceding paragraphs.
 
@@ -163,7 +151,7 @@ The importance of this legal precedent in patent law cannot be overstated, as it
 
 Foreign recognition
 
-Samuel_Morse.jpg (Ottoman); Order of the Tower and Sword (Portugal); Order of the Dannebrog (Denmark); cross of the Order of Isabella the Catholic (Spain); Legion of Honour (France); Order of Saints Maurice and Lazarus (Italy). Bottom row: Grand cross of the Order of Isabella the Catholic (Spain)]]
+(Ottoman); Order of the Tower and Sword (Portugal); Order of the Dannebrog (Denmark); cross of the Order of Isabella the Catholic (Spain); Legion of Honour (France); Order of Saints Maurice and Lazarus (Italy). Bottom row: Grand cross of the Order of Isabella the Catholic (Spain)]]
 
 Assisted by the American ambassador in Paris, the governments of Europe were approached about their long neglect of Morse while their countries were using his invention. There was a widespread recognition that something must be done, and in 1858 Morse was awarded the sum of 400,000 French francs (equivalent to about $80,000 at the time) by the governments of France, Austria, Belgium, the Netherlands, Piedmont, Russia, Sweden, Tuscany, and Turkey, each of which contributed a share according to the number of Morse instruments in use in each country. In 1858, he was also elected a foreign member of the Royal Swedish Academy of Sciences.
 
@@ -184,7 +172,7 @@ He died in New York City on April 2, 1872, and was interred at Green-Wood Cemete
 
 Honors and awards
 
-Morse_statue_72_jeh.JPG, dedicated 1871]] Samuel_FB_Morse_1940_Issue-2c.jpg postal issue of 1940.]]
+, dedicated 1871]] postal issue of 1940.]]
 
 Morse was elected a member of the American Antiquarian Society in 1815.[23]
 
@@ -200,8 +188,6 @@ On April 1, 2012, Google announced the release of "Gmail Tap", an April Fools' D
 
 
 Patents
-
-Coat_of_Arms_of_Samuel_Morse.svg
 
 -   US Patent 1,647, Improvement in the mode of communicating information by signals by the application of electro-magnetism, June 20, 1840
 -   US Patent 1,647 (Reissue #79), Improvement in the mode of communicating information by signals by the application of electro-magnetism, January 15, 1846

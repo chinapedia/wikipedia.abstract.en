@@ -1,4 +1,4 @@
-William_Hogarth_-_A_Rake's_Progress_-_Plate_1_-_The_Young_Heir_Takes_Possession_Of_The_Miser's_Effects.jpg's _A Rake's Progress_. "The Young Heir Takes Possession Of The Miser's Effects".]]
+'s _A Rake's Progress_. "The Young Heir Takes Possession Of The Miser's Effects".]]
 
 INHERITANCE is the practice of passing on property, titles, debts, rights, and obligations upon the death of an individual. The rules of inheritance differ among societies and have changed over time.
 
@@ -47,7 +47,7 @@ The Quran introduced a number of different rights and restrictions on matters of
 
 Inequality
 
-Inheritance_by_amount_and_distribution_received_and_action_taken_with_inheritances_in_Great_Britain_between_2008_and_2010.png The distribution of the inherited wealth has varied greatly among different cultures and legal traditions. In nations using civil law, for example, the right of children to inherit wealth from parents in pre-defined ratios is enshrined in law,[11] as far back as the Code of Hammurabi (ca. 1750 BC).[12] In the US State of Louisiana, the only US state to use Napoleonic Code for state law, this system is known as "forced heirship" which prohibits disinheritance of adult children except for a few narrowly-defined reasons that a parent is obligated to prove.[13] Other legal traditions, particularly in nations using common law, allow inheritances to be divided however one wishes, or to disinherit any child for any reason.
+The distribution of the inherited wealth has varied greatly among different cultures and legal traditions. In nations using civil law, for example, the right of children to inherit wealth from parents in pre-defined ratios is enshrined in law,[11] as far back as the Code of Hammurabi (ca. 1750 BC).[12] In the US State of Louisiana, the only US state to use Napoleonic Code for state law, this system is known as "forced heirship" which prohibits disinheritance of adult children except for a few narrowly-defined reasons that a parent is obligated to prove.[13] Other legal traditions, particularly in nations using common law, allow inheritances to be divided however one wishes, or to disinherit any child for any reason.
 
 In cases of unequal inheritance, the majority might receive little while only a small number inherit a larger amount, with the lesser amount given to the daughter in the family. The amount of inheritance is often far less than the value of a business initially given to the son, especially when a son takes over a thriving multimillion-dollar business, yet the daughter is given the balance of the actual inheritance amounting to far less than the value of business that was initially given to the son. This is especially seen in old world cultures, but continues in many families to this day.[14]
 

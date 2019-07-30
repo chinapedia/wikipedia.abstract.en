@@ -1,6 +1,6 @@
 MARTIAL ARTS are codified systems and traditions of combat practiced for a number of reasons such as self-defense, military and law enforcement applications, competition, for physical, mental and spiritual development; as well as for entertainment or the preservation of a nation's intangible cultural heritage.
 
-Although the term _martial art_ has become associated with the fighting arts of East Asia, it originally referred to the combat systems of Europe as early as the 1550s. The term is derived from Latin and means "arts of Mars", the Roman god of war.[1] Some authors have argued that FIGHTING ARTS or FIGHTING SYSTEMS would be more appropriate on the basis that many martial arts were never "martial" in the sense of being used or created by professional warriors.[2] Young_boxers_fresco,_Akrotiri,_Greece.jpg was practiced in ancient Thera.]]
+Although the term _martial art_ has become associated with the fighting arts of East Asia, it originally referred to the combat systems of Europe as early as the 1550s. The term is derived from Latin and means "arts of Mars", the Roman god of war.[1] Some authors have argued that FIGHTING ARTS or FIGHTING SYSTEMS would be more appropriate on the basis that many martial arts were never "martial" in the sense of being used or created by professional warriors.[2] was practiced in ancient Thera.]]
 
 
 Variation and scope
@@ -63,7 +63,7 @@ History
 
 Historical martial arts
 
-Beni_Hassan_tomb_15_wrestling_detail.jpg.]] The oldest works of art depicting scenes of battle are cave paintings from eastern Spain (Spanish Levant) dated between 10,000 and 6,000 BCE that show organized groups fighting with bows and arrows.[5][6]
+.]] The oldest works of art depicting scenes of battle are cave paintings from eastern Spain (Spanish Levant) dated between 10,000 and 6,000 BCE that show organized groups fighting with bows and arrows.[5][6]
 
 Chinese martial arts originated during the legendary, possibly apocryphal, Xia Dynasty more than 4000 years ago. It is said the Yellow Emperor Huangdi (legendary date of ascension 2698 BC) introduced the earliest fighting systems to China. The Yellow Emperor is described as a famous general who before becoming China's leader, wrote lengthy treatises on medicine, astrology and martial arts. One of his main opponents was Chi You who was credited as the creator of jiao di, a forerunner to the modern art of Chinese wrestling.
 
@@ -91,7 +91,7 @@ Fencing and Greco-Roman wrestling was included in the 1896 Summer Olympics. FILA
 
 20th century (1914 to 1989)
 
-The_age_of_18_Bruce_Lee_and_Ye_Wen.jpg and his teacher Ip Man.]] upright=0.7, one of the best known Hollywood actors and martial artists.]] The International Boxing Association was established in 1920. World Fencing Championships have been held since 1921.
+and his teacher Ip Man.]] upright=0.7, one of the best known Hollywood actors and martial artists.]] The International Boxing Association was established in 1920. World Fencing Championships have been held since 1921.
 
 As Western influence grew in Asia a greater number of military personnel spent time in China, Japan and South Korea during World War II and the Korean War and were exposed to local fighting styles. Jujutsu, judo and karate first became popular among the mainstream from the 1950s-60s. Due in part to Asian and Hollywood martial arts movies, most modern American martial arts are either Asian-derived or Asian influenced.[11] The term kickboxing (キックボクシング) was created by the Japanese boxing promoter Osamu Noguchi for a variant of muay Thai and karate that he created in the 1950s. American kickboxing was developed in the 1970s, as a combination of boxing and karate. Taekwondo was developed in the context of the Korean War in the 1950s.
 
@@ -120,7 +120,7 @@ Many martial arts which originated in Southern India were banned by the governme
 
 Testing and competition
 
-Testing or evaluation is important to martial artists of many disciplines who wish to determine their progression or own level of skill in specific contexts. Students often undergo periodic testing and grading by their own teacher in order to advance to a higher level of recognized achievement, such as a different belt color or title. The type of testing used varies from system to system but may include forms or sparring. Steven_Ho_Martial_Arts_Kick.jpg executing a Jump Spin Hook Kick]] Various forms and sparring are commonly used in martial art exhibitions and tournaments. Some competitions pit practitioners of different disciplines against each other using a common set of rules, these are referred to as mixed martial arts competitions. Rules for sparring vary between art and organization but can generally be divided into _light-contact_, _medium-contact_, and _full-contact_ variants, reflecting the amount of force that should be used on an opponent.
+Testing or evaluation is important to martial artists of many disciplines who wish to determine their progression or own level of skill in specific contexts. Students often undergo periodic testing and grading by their own teacher in order to advance to a higher level of recognized achievement, such as a different belt color or title. The type of testing used varies from system to system but may include forms or sparring. executing a Jump Spin Hook Kick]] Various forms and sparring are commonly used in martial art exhibitions and tournaments. Some competitions pit practitioners of different disciplines against each other using a common set of rules, these are referred to as mixed martial arts competitions. Rules for sparring vary between art and organization but can generally be divided into _light-contact_, _medium-contact_, and _full-contact_ variants, reflecting the amount of force that should be used on an opponent.
 
 Light- and medium-contact
 
@@ -140,7 +140,7 @@ Nearly all mixed martial arts organizations such as UFC, Pancrase, Shooto use a 
 
 Martial sport
 
-050907-M-7747B-002-Judo.jpg, are Olympic sports.]] Martial arts have crossed over into sports when forms of sparring become competitive, becoming a sport in its own right that is dissociated from the original combative origin, such as with western fencing. The Summer Olympic Games includes judo, taekwondo, western archery, boxing, javelin, wrestling and fencing as events, while Chinese wushu recently failed in its bid to be included, but is still actively performed in tournaments across the world. Practitioners in some arts such as kickboxing and Brazilian jiu-jitsu often train for sport matches, whereas those in other arts such as aikido generally spurn such competitions. Some schools believe that competition breeds better and more efficient practitioners, and gives a sense of good sportsmanship. Others believe that the rules under which competition takes place have diminished the combat effectiveness of martial arts or encourage a kind of practice which focuses on winning trophies rather than a focus such as cultivating a particular moral character.
+, are Olympic sports.]] Martial arts have crossed over into sports when forms of sparring become competitive, becoming a sport in its own right that is dissociated from the original combative origin, such as with western fencing. The Summer Olympic Games includes judo, taekwondo, western archery, boxing, javelin, wrestling and fencing as events, while Chinese wushu recently failed in its bid to be included, but is still actively performed in tournaments across the world. Practitioners in some arts such as kickboxing and Brazilian jiu-jitsu often train for sport matches, whereas those in other arts such as aikido generally spurn such competitions. Some schools believe that competition breeds better and more efficient practitioners, and gives a sense of good sportsmanship. Others believe that the rules under which competition takes place have diminished the combat effectiveness of martial arts or encourage a kind of practice which focuses on winning trophies rather than a focus such as cultivating a particular moral character.
 
 The question of "which is the best martial art" has led to inter style competitions fought with very few rules allowing a variety of fighting styles to enter with few limitations. This was the origin of the first Ultimate Fighting Championship tournament (later renamed UFC 1: The Beginning) in the U.S. inspired by the Brazilian Vale tudo tradition and along with other minimal rule competitions, most notably those from Japan such as Shooto and Pancrase, have evolved into the combat sport of Mixed Martial Arts (MMA).
 
@@ -158,7 +158,7 @@ According to Bruce Lee, martial arts also have the nature of an art, since there
 
 Self-defense, military and law enforcement applications
 
-ArmyMilCombativesChokehold.jpg Combatives instructor Matt Larsen demonstrates a chokehold.]] Some traditional martial concepts have seen new use within modern military training. Perhaps the most recent example of this is point shooting which relies on muscle memory to more effectively utilize a firearm in a variety of awkward situations, much the way an iaidoka would master movements with their sword.
+Combatives instructor Matt Larsen demonstrates a chokehold.]] Some traditional martial concepts have seen new use within modern military training. Perhaps the most recent example of this is point shooting which relies on muscle memory to more effectively utilize a firearm in a variety of awkward situations, much the way an iaidoka would master movements with their sword.
 
 During the World War II era William E. Fairbairn and Eric A. Sykes were recruited by the Special Operations Executive (SOE) to teach their martial art of defendu (itself drawing on Western boxing and jujutsu) and pistol shooting to UK, US, and Canadian special forces. The book _Kill or Get Killed_, written by Colonel Rex Applegate, was based on the defendu taught by Sykes and Fairbairn. Both Fairbairn's _Get Tough_ and Appelgate's _Kill or Get Killed_ became classic works on hand-to-hand combat.
 

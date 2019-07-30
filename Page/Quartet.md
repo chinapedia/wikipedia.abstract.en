@@ -5,8 +5,6 @@ Classical
 
 String quartet
 
-String_quartet.JPG
-
 In Classical music, the most important combination of four instruments in chamber music is the string quartet.[5] String quartets most often consist of two violins, a viola, and a cello. The particular choice and number of instruments derives from the registers of the human voice: soprano, alto, tenor and bass. In the string quartet, two violins play the soprano and alto vocal registers, the viola plays the tenor register and the cello plays the bass register.
 
 Composers of notable string quartets include Joseph Haydn (68 compositions), Wolfgang Amadeus Mozart (23), Ludwig van Beethoven (17), Felix Mendelssohn (6), Franz Schubert (15), Johannes Brahms (3), Antonín Dvořák (14), Alexander Borodin (2), Béla Bartók (6), Elizabeth Maconchy (13), and Dmitri Shostakovich (15).[6] The Italian composer Luigi Boccherini (1743–1805), wrote more than 100 string quartets.

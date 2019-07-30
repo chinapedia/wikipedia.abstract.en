@@ -36,8 +36,6 @@ Like tungsten and molybdenum, with which it shares chemical similarities, rheniu
 
 Oxides and sulfides
 
-Perrhenic-acid-3D-balls.png
-
 The most common oxide is the volatile colourless Re₂O₇. Rhenium trioxide ReO₃ adopts a perovskite-like structure. Other oxides include Re₂O₅, ReO₂, and Re₂O₃.[23] The sulfides are ReS₂ and Re₂S₇. Perrhenate salts can be converted to tetrathioperrhenate by the action of ammonium hydrosulfide.[24]
 
 Other compounds
@@ -62,29 +60,27 @@ Analogous alkyl and aryl derivatives are known. MTO catalyses for the oxidations
 
 Nonahydridorhenate
 
-Nonahydridorhenate-3D-balls.png A distinctive derivative of rhenium is nonahydridorhenate, originally thought to be the _rhenide_ anion, Re^(−), but actually containing the anion in which the oxidation state of rhenium is +7.
+A distinctive derivative of rhenium is nonahydridorhenate, originally thought to be the _rhenide_ anion, Re^(−), but actually containing the anion in which the oxidation state of rhenium is +7.
 
 Occurrence
 
-Molybdenit_1.jpg Rhenium is one of the rarest elements in Earth's crust with an average concentration of 1 ppb;[30] other sources quote the number of 0.5 ppb making it the 77th most abundant element in Earth's crust.[31] Rhenium is probably not found free in nature (its possible natural occurrence is uncertain), but occurs in amounts up to 0.2%[32] in the mineral molybdenite (which is primarily molybdenum disulfide), the major commercial source, although single molybdenite samples with up to 1.88% have been found.[33] Chile has the world's largest rhenium reserves, part of the copper ore deposits, and was the leading producer as of 2005.[34] It was only recently that the first rhenium mineral was found and described (in 1994), a rhenium sulfide mineral (ReS₂) condensing from a fumarole on Kudriavy volcano, Iturup island, in the Kuril Islands.[35] Kudriavy discharges up to 20–60 kg rhenium per year mostly in the form of rhenium disulfide.[36][37] Named rheniite, this rare mineral commands high prices among collectors.[38]
+Rhenium is one of the rarest elements in Earth's crust with an average concentration of 1 ppb;[30] other sources quote the number of 0.5 ppb making it the 77th most abundant element in Earth's crust.[31] Rhenium is probably not found free in nature (its possible natural occurrence is uncertain), but occurs in amounts up to 0.2%[32] in the mineral molybdenite (which is primarily molybdenum disulfide), the major commercial source, although single molybdenite samples with up to 1.88% have been found.[33] Chile has the world's largest rhenium reserves, part of the copper ore deposits, and was the leading producer as of 2005.[34] It was only recently that the first rhenium mineral was found and described (in 1994), a rhenium sulfide mineral (ReS₂) condensing from a fumarole on Kudriavy volcano, Iturup island, in the Kuril Islands.[35] Kudriavy discharges up to 20–60 kg rhenium per year mostly in the form of rhenium disulfide.[36][37] Named rheniite, this rare mineral commands high prices among collectors.[38]
 
 
 Production
 
-Ammonium_perrhenate.jpg Commercial rhenium is extracted from molybdenum roaster-flue gas obtained from copper-sulfide ores. Some molybdenum ores contain 0.001% to 0.2% rhenium.[39][40] Rhenium(VII) oxide and perrhenic acid readily dissolve in water; they are leached from flue dusts and gasses and extracted by precipitating with potassium or ammonium chloride as the perrhenate salts, and purified by recrystallization.[41] Total world production is between 40 and 50 tons/year; the main producers are in Chile, the United States, Peru, and Poland.[42] Recycling of used Pt-Re catalyst and special alloys allow the recovery of another 10 tons per year. Prices for the metal rose rapidly in early 2008, from $1000–$2000 per kg in 2003–2006 to over $10,000 in February 2008.[43][44] The metal form is prepared by reducing ammonium perrhenate with hydrogen at high temperatures:[45]
+Commercial rhenium is extracted from molybdenum roaster-flue gas obtained from copper-sulfide ores. Some molybdenum ores contain 0.001% to 0.2% rhenium.[39][40] Rhenium(VII) oxide and perrhenic acid readily dissolve in water; they are leached from flue dusts and gasses and extracted by precipitating with potassium or ammonium chloride as the perrhenate salts, and purified by recrystallization.[41] Total world production is between 40 and 50 tons/year; the main producers are in Chile, the United States, Peru, and Poland.[42] Recycling of used Pt-Re catalyst and special alloys allow the recovery of another 10 tons per year. Prices for the metal rose rapidly in early 2008, from $1000–$2000 per kg in 2003–2006 to over $10,000 in February 2008.[43][44] The metal form is prepared by reducing ammonium perrhenate with hydrogen at high temperatures:[45]
 
     2 NH₄ReO₄ + 7 H₂ → 2 Re + 8 H₂O + 2 NH₃
 
 
 Applications
 
-Engine.f15.arp.750pix.jpg uses rhenium-containing second-generation superalloys]] Rhenium is added to high-temperature superalloys that are used to make jet engine parts, using 70% of the worldwide rhenium production.[46] Another major application is in platinum–rhenium catalysts, which are primarily used in making lead-free, high-octane gasoline.[47]
+uses rhenium-containing second-generation superalloys]] Rhenium is added to high-temperature superalloys that are used to make jet engine parts, using 70% of the worldwide rhenium production.[46] Another major application is in platinum–rhenium catalysts, which are primarily used in making lead-free, high-octane gasoline.[47]
 
 Alloys
 
 The nickel-based superalloys have improved creep strength with the addition of rhenium. The alloys normally contain 3% or 6% of rhenium.[48] Second-generation alloys contain 3%; these alloys were used in the engines for the F-15 and F-16, whereas the newer single-crystal third-generation alloys contain 6% of rhenium; they are used in the F-22 and F-35 engines.[49][50] Rhenium is also used in the superalloys, such as CMSX-4 (2nd gen) and CMSX-10 (3rd gen) that are used in industrial gas turbine engines like the GE 7FA. Rhenium can cause superalloys to become microstructurally unstable, forming undesirable TCP (topologically close packed) phases. In 4th- and 5th-generation superalloys, ruthenium is used to avoid this effect. Among others the new superalloys are EPM-102 (with 3% Ru) and TMS-162 (with 6% Ru),[51] as well as TMS-138[52] and TMS-174.[53][54]
-
-CFM56_P1220759.jpg
 
 For 2006, the consumption is given as 28% for General Electric, 28% Rolls-Royce plc and 12% Pratt & Whitney, all for superalloys, whereas the use for catalysts only accounts for 14% and the remaining applications use 18%.[55] In 2006, 77% of the rhenium consumption in the United States was in alloys.[56] The rising demand for military jet engines and the constant supply made it necessary to develop superalloys with a lower rhenium content. For example, the newer CFM International CFM56 high-pressure turbine (HPT) blades will use Rene N515 with a rhenium content of 1.5% instead of Rene N5 with 3%.[57][58]
 

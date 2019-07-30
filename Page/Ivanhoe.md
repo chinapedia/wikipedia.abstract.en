@@ -1,4 +1,4 @@
-Ivanhoe_as_sculpted_on_the_Scott_Monument,_Edinburgh.jpg, Edinburgh (sculpted by John Rhind)]]
+, Edinburgh (sculpted by John Rhind)]]
 
 _IVANHOE_ () is a historical novel by Sir Walter Scott, first published in 1819 (all first editions carry the date of 1820, but it was released at the end of December 1819) in three volumes and subtitled _A Romance_. At the time it was written it represented a shift by Scott away from fairly realistic novels set in Scotland in the comparatively recent past, to a somewhat fanciful depiction of medieval England. It has proved to be one of the best known and most influential of Scott's novels.
 
@@ -49,8 +49,6 @@ Ivanhoe is severely wounded in the competition yet his father does not move quic
 Capture and rescue
 
 In the forests between Ashby and York, Isaac, Rebecca and the wounded Ivanhoe are abandoned by their guards, who fear bandits and take all of Isaac’s horses. Cedric, Athelstane and the Lady Rowena meet them and agree to travel together. The party is captured by de Bracy and his companions and taken to Torquilstone, the castle of Front-de-Boeuf. The swineherd Gurth and Wamba the jester manage to escape, and then encounter Locksley, who plans a rescue.
-
-J._Cooper,_Sr._-_Sir_Walter_Scott_-_Le_Noir_Faineant_in_the_Hermit's_Cell_-_Ivanhoe.jpg
 
 The Black Knight, having taken refuge for the night in the hut of local friar, the Holy Clerk of Copmanhurst, volunteers his assistance on learning about the captives from Robin of Locksley. They then besiege the Castle of Torquilstone with Robin's own men, including the friar and assorted Saxon yeomen. Inside Torquilstone, de Bracy expresses his love for the Lady Rowena but is refused. Brian de Bois-Guilbert tries to seduce Rebecca and is rebuffed. Front-de-Boeuf tries to wring a hefty ransom from Isaac of York, but Isaac refuses to pay unless his daughter is freed.
 
@@ -257,7 +255,7 @@ The Eglinton Tournament of 1839 held by the 13th Earl of Eglinton at Eglinton Ca
 
 Sequels
 
-CC_No_02_Ivanhoe_2.jpg'' issue #2]]
+'' issue #2]]
 
 -   In 1850, novelist William Makepeace Thackeray wrote a spoof sequel to Ivanhoe called _Rebecca and Rowena_.
 -   Edward Eager's book _Knight's Castle_ (1956) magically transports four children into the story of Ivanhoe.

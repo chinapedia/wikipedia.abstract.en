@@ -10,8 +10,6 @@ Photonic crystals are non-conducting materials that reflect various wavelengths 
 
 Microdisks, microtoroids, and microspheres
 
-Silica_optical_microdisk.jpg
-
 An optical microdisk, optical microtoroid, or optical microsphere uses internal reflection in a circular geometry to hold on to the photons. This type of circularly symmetric optical resonance is called a Whispering gallery mode, after Lord Rayleigh coined the term.
 
 

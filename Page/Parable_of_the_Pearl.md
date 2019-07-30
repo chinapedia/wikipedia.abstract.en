@@ -1,4 +1,4 @@
-Treasure_and_Pearl.jpg (left) paired with the Parable of the Pearl (right) on a stained glass window in Scots' Church, Melbourne.]]
+(left) paired with the Parable of the Pearl (right) on a stained glass window in Scots' Church, Melbourne.]]
 
 The PARABLE OF THE PEARL (also called the PEARL OF GREAT PRICE) is one of the parables of Jesus. It appears in and illustrates the great value of the Kingdom of Heaven. It is the penultimate parable in Matthew 13, just before the Parable of the Dragnet.
 
@@ -9,7 +9,7 @@ The parable reads as follows:
 
 Interpretation
 
-Domenico_Fetti_014.jpg, 17th century.]] This parable is generally interpreted as illustrating the great value of the Kingdom of Heaven. Anglican bishop Charles Ellicott notes that:
+, 17th century.]] This parable is generally interpreted as illustrating the great value of the Kingdom of Heaven. Anglican bishop Charles Ellicott notes that:
 
   "the caprices of luxury in the Roman empire had given a prominence to pearls, as an article of commerce, which they had never had before, and have probably never had since. They, rather than emeralds and sapphires, were the typical instance of all costliest adornments (; ). The story of Cleopatra and the fact that the opening of a new pearl market was one of the alleged motives which led the Emperor Claudius to invade Britain, are indications of the value that was then set on the “goodly pearls” of the parable",[3]
 
@@ -26,8 +26,6 @@ A less common interpretation of the parable is that the merchant represents Jesu
 The phrase "Pearl of Great Price" has also been interpreted more widely to apply to things of great value in a number of religious contexts. For example, it is the title of a selection of Mormon writings. Pope Pius XII used the phrase to describe virginity.[11]
 
 The pearl itself is a beautiful, single entity, formed through suffering in the heart of the oyster (in the same way that believers endure lack of wealth or comfort) and like the Church, will be put on display in a coming day. Unlike precious stones which must be cut and polished to reveal their clarity and beauty, the pearl is perfect as it comes from the oyster.[12]
-
-The_Pearl_from_parable.jpg
 
 
 Gospel of Thomas

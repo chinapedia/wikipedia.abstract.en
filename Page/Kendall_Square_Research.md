@@ -1,5 +1,3 @@
-KSR1-logo-small.jpg
-
 KENDALL SQUARE RESEARCH (KSR) was a supercomputer company headquartered originally in Kendall Square in Cambridge, Massachusetts in 1986, near Massachusetts Institute of Technology (MIT). It was co-founded by Steven Frank[1] and Henry Burkhardt III, who had formerly helped found Data General and Encore Computer and was one of the original team that designed the PDP-8. KSR produced two models of supercomputer, the KSR1 and KSR2.
 
 
@@ -10,8 +8,6 @@ The KSR systems ran a specially customized version of the OSF/1 operating system
 Software
 
 Besides the traditional scientific applications, KSR with Oracle Corporation, addressed the massively parallel database market for commercial applications. The KSR-1 and -2 supported Micro Focus COBOL and C/C++ programming languages, and the Oracle PRDBMS and the MATISSE OODBMS from ADB, Inc. Their own product, the KSR Query Decomposer, complemented the functions of the Oracle product for SQL uses. The TUXEDO transaction monitor for OLTP was also provided. The KAP program (Kuck & Associate Preprocessor) provided for pre-processing for source code analysis and parallelization. The runtime environment was termed PRESTO, and was a POSIX compliant multithreading manager.
-
-Ksr_cell_top.jpg
 
 Hardware
 

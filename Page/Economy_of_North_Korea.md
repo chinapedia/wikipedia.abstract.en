@@ -36,7 +36,7 @@ North and South Korea both suffered from the massive destruction caused during t
 
 Early efforts at modernization
 
-Hamhung_cyclist.jpg in Hamhung in 2012.]]
+in Hamhung in 2012.]]
 
 In 1961 an ambitious seven-year plan was launched to continue industrial expansion and increase living standards, but within three years it became clear this was failing and the plan period was extended to 1970. The failure was due to reduced support from the Soviet Union when North Korea aligned more with China, and military pressure from the U.S. leading to increased defence spending. In 1965 South Korea's rate of economic growth first exceeded North Korea's in most industrial areas, though South Korea's per capita GNP remained lower than North Korea's.[30]
 
@@ -65,8 +65,6 @@ Although general economic policy objectives are decided by the Central People's 
 Under "unified planning", regional committees are established in each province, city, and county to systematically coordinate planning work. These committees do not belong to any regional organization and are directly supervised by the State Planning Committee. As a result of a reorganization in 1969, they are separated into provincial planning committees, city/county committees, and enterprise committees (for large-scale enterprises).[43]
 
 The planning committees, under the auspices of the State Planning Committee, coordinate their work with the planning offices of the economy-related government organizations the corresponding regional and local areas. The system attempts to enable the regional planning staff to better coordinate with economic establishments in their areas, which are directly responsible to them in planning, as well as communicating directly with staff at the CPC. "Detailed planning" seeks to construct plans with precision and scientific methods based on concrete assessment of the resources, labour, funds, plant capacities, and other necessary information.[44]
-
-Nkorea-economic-planning-2.svg
 
 There are four stages in drafting the final national economic plan.[45]
 
@@ -135,7 +133,7 @@ In 2017 Dr. Mitsuhiro Mimura, Senior Research Fellow at Japan's Economic Researc
 
 Budget and finance
 
-Two_koreas_gdp_1950_1977.jpg trends on two Koreas from 1950 to 1977 (in 1990 Geary–Khamis dollars)]] North_Korean_GDP_per_capita_1950-2016.jpg The state budget is a major government instrument in carrying out the country's economic goals.[78] Expenditures represented about three-quarters of GNP in the mid-1980s, the allocation of which reflected the priorities assigned to different economic sectors.[79] Taxes were abolished in 1974 as "remnants of an antiquated society". This action, however, was not expected to have any significant effect on state revenue because the overwhelming proportion of government funds—an average of 98.1% during 1961–1970—was from turnover (sales) taxes, deductions from profits paid by state enterprises, and various user fees on machinery and equipment, irrigation facilities, television sets, and water.[80]
+trends on two Koreas from 1950 to 1977 (in 1990 Geary–Khamis dollars)]] The state budget is a major government instrument in carrying out the country's economic goals.[78] Expenditures represented about three-quarters of GNP in the mid-1980s, the allocation of which reflected the priorities assigned to different economic sectors.[79] Taxes were abolished in 1974 as "remnants of an antiquated society". This action, however, was not expected to have any significant effect on state revenue because the overwhelming proportion of government funds—an average of 98.1% during 1961–1970—was from turnover (sales) taxes, deductions from profits paid by state enterprises, and various user fees on machinery and equipment, irrigation facilities, television sets, and water.[80]
 
 In order to provide a certain degree of local autonomy as well as to lessen the financial burden of the central government, a "local budget system" was introduced in 1973. Under this system, provincial authorities are responsible for the operating costs of institutions and enterprises not under direct central government control, such as schools, hospitals, shops, and local consumer goods production. In return, they are expected to organize as many profitable ventures as possible and to turn over profits to the central government.[81]
 
@@ -166,7 +164,7 @@ Economic sectors
 
 Manufacturing
 
-Fábrica_máquinas-herramienta_Huichón_(5).jpg]]
+]]
 
 North Korea's self-reliant development strategy assigned top priority to developing heavy industry, with parallel development in agriculture and light industry. This policy was achieved mainly by giving heavy industry preferential allocation of state investment funds. More than 50% of state investment went to the industrial sector during the 1954–1976 period (47.6%, 51.3%, 57.0%, and 49.0%, respectively, during the Three-Year Plan, Five-Year Plan, First Seven-Year Plan, and Six-Year Plan). As a result, gross industrial output grew rapidly.[89]
 
@@ -176,7 +174,7 @@ Industry's share of the combined total of gross agricultural and industrial outp
 
 North Korea claims to have fulfilled the Second Seven-Year Plan (1978–1984) target of raising the industrial output in 1984 to 120% of the 1977 target, equivalent to an average annual growth rate of 12.2%. Judging from the production of major commodities that form the greater part of industrial output, however, it is unlikely that this happened. For example, the increase during the 1978–1984 plan period for electric power, coal, steel, metal-cutting machines, tractors, passenger cars, chemical fertilizers, chemical fibers, cement, and textiles, respectively, was 78%, 50%, 85%, 67%, 50%, 20%, 56%, 80%, 78%, and 45%.[92] Raw materials were in short supply and so were energy and hard currency. Infrastructure decayed and machinery became obsolete. Unlike other socialist countries in the Eastern Europe, North Korea kept planning in a highly centralized manner and refused to liberalize economic management.
 
-Fabrica_de_cristal_duro_Huichon4.jpg]] In the mid-1980s, the speculation that North Korea would emulate China in establishing Chinese-style special economic zones was flatly denied by then deputy chairman of the Economic Policy Commission Yun Ki-pok (Yun became chairman as of June 1989). China's special economic zones typically are coastal areas established to promote economic development and the introduction of advanced technology through foreign investment. Investors are offered preferential tax terms and facilities. The zones, which allow greater reliance on market forces, have more decision making power in economic activities than do provincial-level units. Over the years, China has tried to convince the North Korean leadership of the advantages of these zones by giving tours of the various zones and explaining their values to visiting high-level officials.[93]
+]] In the mid-1980s, the speculation that North Korea would emulate China in establishing Chinese-style special economic zones was flatly denied by then deputy chairman of the Economic Policy Commission Yun Ki-pok (Yun became chairman as of June 1989). China's special economic zones typically are coastal areas established to promote economic development and the introduction of advanced technology through foreign investment. Investors are offered preferential tax terms and facilities. The zones, which allow greater reliance on market forces, have more decision making power in economic activities than do provincial-level units. Over the years, China has tried to convince the North Korean leadership of the advantages of these zones by giving tours of the various zones and explaining their values to visiting high-level officials.[93]
 
 In April 1982, Kim Il-sung announced a new economic policy giving priority to increased agricultural production through land reclamation, development of the country's infrastructure—especially power plants and transportation facilities—and reliance on domestically produced equipment. There also was more emphasis on trade.
 
@@ -192,11 +190,11 @@ The most successful export industry is the garment industry. Production is by a 
 
 Automotive industry
 
-Pyongyang_bus.jpg The North Korean motor vehicle production establishes military, industrial and construction goals, with private car ownership by citizens remaining on low demand. Having Soviet origins (the subsequent practice of cloning foreign specimens, and a recent automobile joint-venture), North Korea has developed a wide-range automotive industry with production of all types of vehicles. The basis for production is in urban and off-road minis; luxury cars; SUV cars; small, medium, heavy, and super-heavy cargo; construction and off-road trucks; minibuses/minivans, coach buses, civilian and articulated buses, trolleybuses, and trams. However, North Korea produces far fewer vehicles than its production capability due to the ongoing economic crisis. North Korea has not joined or collaborated with the OICA, or with any other automotive organization, so any critical information about its motor vehicle industry is limited.
+The North Korean motor vehicle production establishes military, industrial and construction goals, with private car ownership by citizens remaining on low demand. Having Soviet origins (the subsequent practice of cloning foreign specimens, and a recent automobile joint-venture), North Korea has developed a wide-range automotive industry with production of all types of vehicles. The basis for production is in urban and off-road minis; luxury cars; SUV cars; small, medium, heavy, and super-heavy cargo; construction and off-road trucks; minibuses/minivans, coach buses, civilian and articulated buses, trolleybuses, and trams. However, North Korea produces far fewer vehicles than its production capability due to the ongoing economic crisis. North Korea has not joined or collaborated with the OICA, or with any other automotive organization, so any critical information about its motor vehicle industry is limited.
 
 Power and energy
 
-Electrical_engineering_components.jpg The energy sector is one of the most serious bottlenecks in the North Korean economy. Since 1990, the supply of oil, coal, and electricity declined steadily, and seriously affected all sectors of the economy. Crude oil was formerly imported by pipeline at "friendship prices" from the former Soviet Union or China, but the withdrawal of Russian concessions and the reduction of imports from China brought down annual imports from about in 1988 to less than by 1997. As the imported oil was refined for fuels for transportation and agricultural machinery, a serious cutback in oil imports caused critical problems in transportation and agriculture.
+The energy sector is one of the most serious bottlenecks in the North Korean economy. Since 1990, the supply of oil, coal, and electricity declined steadily, and seriously affected all sectors of the economy. Crude oil was formerly imported by pipeline at "friendship prices" from the former Soviet Union or China, but the withdrawal of Russian concessions and the reduction of imports from China brought down annual imports from about in 1988 to less than by 1997. As the imported oil was refined for fuels for transportation and agricultural machinery, a serious cutback in oil imports caused critical problems in transportation and agriculture.
 
 According to statistics compiled by the South Korean agency Statistics Korea based on International Energy Agency (IEA) data, per capita electricity consumption fell from its peak in 1990 of 1247 kilowatt hours to a low of 712 kilowatt hours in 2000. It slowly rose since then to 819 kilowatt hours in 2008, a level below that of 1970.[100][101]
 
@@ -210,7 +208,7 @@ Some hydroelectric facilities were believed to be out of operation due to damage
 
 Construction
 
-PYONGYANG_CITY_DPRK_NORTH_KOREA_OCT_2012_(8647588769).jpg Construction has been an active sector in North Korea. This was demonstrated not only through large housing programmes, of which most were visible in the high-rise apartment blocks in Pyongyang, but also in the smaller modern apartment complexes widespread even in the countryside. These are dwarfed in every sense by "grand monumental edifices". The same may apply even to apparently economically useful projects such as the Nampo Dam, which cost US$4bn.[103]
+Construction has been an active sector in North Korea. This was demonstrated not only through large housing programmes, of which most were visible in the high-rise apartment blocks in Pyongyang, but also in the smaller modern apartment complexes widespread even in the countryside. These are dwarfed in every sense by "grand monumental edifices". The same may apply even to apparently economically useful projects such as the Nampo Dam, which cost US$4bn.[103]
 
 The years of economic contraction in the 1990s slowed this sector as it did others; the shell of the 105-story Ryugyŏng Hotel towered unfinished on Pyongyang's skyline for over a decade. The Bank of Korea claims that construction's share of GDP fell by almost one-third between 1992 and 1994, from 9.1% to 6.3%. This accords with a rare official figure of 6% for 1993, when the sector was said to have employed 4.2% of the labour force. However, the latter figure excludes the Korean People's Army, which visibly does much of the country's construction work.[104]
 
@@ -222,7 +220,7 @@ The Central Bank of North Korea, under the Ministry of Finance, has a network of
 
 In late 2009, North Korea revalued its currency, effectively confiscating all privately held money above the equivalent of US$35 per person.[107] The revaluation effectively wiped out the savings of many North Koreans. Days after the revaluation the won dropped 96% against the United States dollar.[108] Pak Nam-gi, the director of the Planning and Finance Department of North Korea's ruling Workers' Party, was blamed for the disaster and later executed in 2010.[109]
 
-Koryo_Credit_Card.jpg In 2004 and 2006 laws were passed to codify rules for savings and commercial banking. However it was not until 2012 that North Korean banks started to seriously compete for retail customers. Competing electronic cash cards have become widely accepted in Pyongyang and other cities, but are generally not linked to bank accounts. North Korean banks have introduced retail products which permit a mobile phone app to make payments and top-ups.[110][111]
+In 2004 and 2006 laws were passed to codify rules for savings and commercial banking. However it was not until 2012 that North Korean banks started to seriously compete for retail customers. Competing electronic cash cards have become widely accepted in Pyongyang and other cities, but are generally not linked to bank accounts. North Korean banks have introduced retail products which permit a mobile phone app to make payments and top-ups.[110][111]
 
 As of May 2013, the Chinese banks, China Merchants Bank,[112] Industrial and Commercial Bank of China, China Construction Bank, and Agricultural Bank of China, stopped "all cross-border cash transfers, regardless of the nature of the business" with North Korea.[113] The Bank of China, the China's primary institution for foreign exchange transactions, said, on May 14, 2013, that "it had closed the account of Foreign Trade Bank, North Korea's main foreign exchange bank".[114][115] However, "smaller banks based in northeastern China across the border from North Korea said it was still handling large-scale cross-border transfers." For example, the Bank of Dalian branch in Dandong was still doing transfers to North Korea.[116]
 
@@ -240,7 +238,7 @@ Food
 
 Agriculture
 
-DPRK_rice.jpg North Korea's sparse agricultural resources limit agricultural production. Climate, terrain, and soil conditions are not particularly favorable for farming,[125] with a relatively short cropping season. Only about 17% of the total landmass, or approximately , is arable, of which is well suited for cereal cultivation;[126] the major portion of the country is rugged mountain terrain.[127]
+North Korea's sparse agricultural resources limit agricultural production. Climate, terrain, and soil conditions are not particularly favorable for farming,[125] with a relatively short cropping season. Only about 17% of the total landmass, or approximately , is arable, of which is well suited for cereal cultivation;[126] the major portion of the country is rugged mountain terrain.[127]
 
 The weather varies markedly according to elevation, and lack of precipitation, along with infertile soil, makes land at elevations higher than 400 meters unsuitable for purposes other than grazing. Precipitation is geographically and seasonally irregular, and in most parts of the country as much as half the annual rainfall occurs in the three summer months. This pattern favors the cultivation of paddy rice in warmer regions that are outfitted with irrigation and flood control networks.[128] Rice yields are 5.3 tonnes per hectare, close to international norms.[129] In 2005, North Korea was ranked by the FAO as an estimated 10th in the production of fresh fruit[130] and as an estimated 19th in the production of apples.[131]
 
@@ -248,7 +246,7 @@ Farming is concentrated in the flatlands of the four west coast provinces, where
 
 Since self-sufficiency remains an important pillar of North Korean ideology, self-sufficiency in food production is deemed a worthy goal. Another aim of government policies—to reduce the gap between urban and rural living standards—requires continued investment in the agricultural sector. The stability of the country depends on steady, if not rapid, increases in the availability of food items at reasonable prices. In the early 1990s, there were severe food shortages.[133][134][135]
 
-North_Korea_tractor.jpg The most far-reaching statement on agricultural policy is embodied in Kim Il-sung's 1964 _Theses on the Socialist Agrarian Question in Our Country_, which underscores the government's concern for agricultural development.[136] Kim emphasized technological and educational progress in the countryside as well as collective forms of ownership and management. As industrialization progressed, the share of agriculture, forestry, and fisheries in the total national output declined from 63.5% and 31.4%, respectively, in 1945 and 1946, to a low of 26.8% in 1990. Their share in the labor force also declined from 57.6% in 1960 to 34.4% in 1989.[137]
+The most far-reaching statement on agricultural policy is embodied in Kim Il-sung's 1964 _Theses on the Socialist Agrarian Question in Our Country_, which underscores the government's concern for agricultural development.[136] Kim emphasized technological and educational progress in the countryside as well as collective forms of ownership and management. As industrialization progressed, the share of agriculture, forestry, and fisheries in the total national output declined from 63.5% and 31.4%, respectively, in 1945 and 1946, to a low of 26.8% in 1990. Their share in the labor force also declined from 57.6% in 1960 to 34.4% in 1989.[137]
 
 In the 1990s, the decreasing ability to carry out mechanized operations (including the pumping of water for irrigation), as well as lack of chemical inputs, was clearly contributing to reduced yields and increased harvesting and post-harvest losses.[138]
 
@@ -357,8 +355,6 @@ Labor force (12.6 million)—by occupation:[198]
 
 
 External trade
-
-Kore_DR_Export_Treemap.jpg
 
 Statistics from North Korea's trade partners is collected by international organizations like the United Nations and the International Monetary Fund, and by the South Korean Ministry of Unification.
 

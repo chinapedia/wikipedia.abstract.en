@@ -10,7 +10,7 @@ In the centre of the Sound, midway between Bovisand Bay and Cawsand Bay, is Plym
 
 Drake's Island is 400 metres long and around 100 metres wide and situated at the north of the Sound. It was fortified to defend Drake's Channel, the only deep-water route to Devonport. The _Bridge_ is a shallow reef that links Drake's Island and the Cornish mainland. At low water the depth of the Bridge can be less than one metre but at high water it can rise to 5 metres. In World War I this natural barrier was supplemented by other obstructions to prevent submarines and small ships attacking the naval base.
 
-Plymouth_sound_from_wembury.jpg]] Mount Batten, a former Royal Air Force flying boat and search and rescue base, is located at the northeast corner of the Sound. T. E. Lawrence was stationed here as Aircraftman Shaw.
+]] Mount Batten, a former Royal Air Force flying boat and search and rescue base, is located at the northeast corner of the Sound. T. E. Lawrence was stationed here as Aircraftman Shaw.
 
 Over the years, the Sound has been defended by Drake's Island, Picklecombe Fort, Cawsand Fort, the Breakwater Fort, Fort Bovisand, Staddon Fort and Stamford Fort.
 
@@ -25,7 +25,7 @@ Notable events
 -   The Pelican 15 November 1577: departed on Sir Francis Drake's circumnavigation
 -   The Mayflower 1620, bearing the Pilgrim Fathers
 
-HMS_Bellerophon_and_Napoleon.jpg, oil on canvas]]
+, oil on canvas]]
 
 -   The first recorded submarine fatality in history occurred in the Sound in June 1774, when a carpenter named John Day perished north of Drake's Island while testing a wooden diving chamber attached to the sloop _Maria_.[3]
 -   Following his surrender to Captain Frederick Maitland of off Rochefort in 1815, Napoleon was taken to Plymouth Sound where he remained on board, 26 July – 4 August, while his future was decided.[4] This event caused a local and national sensation as thousands took to the water; several paintings in London's National Maritime Museum document the event, such as the one shown here.

@@ -1,4 +1,4 @@
-Vajracharya_priest.jpg'' (thunderbolt-carrier), a Newar Buddhist priest.]] Bronze_egyptian_priest_(6th_century_B.C.)_-_Ephesus_Museum.JPG A PRIEST or PRIESTESS is a religious leader authorized to perform the sacred rituals of a religion, especially as a mediatory agent between humans and one or more deities. They also have the authority or power to administer religious rites; in particular, rites of sacrifice to, and propitiation of, a deity or deities. Their office or position is the PRIESTHOOD, a term which also may apply to such persons collectively.
+'' (thunderbolt-carrier), a Newar Buddhist priest.]] A PRIEST or PRIESTESS is a religious leader authorized to perform the sacred rituals of a religion, especially as a mediatory agent between humans and one or more deities. They also have the authority or power to administer religious rites; in particular, rites of sacrifice to, and propitiation of, a deity or deities. Their office or position is the PRIESTHOOD, a term which also may apply to such persons collectively.
 
 
 Description
@@ -25,7 +25,7 @@ The feminine English noun, _priestess_, was coined in the 17th century, to refer
 
 Historical religions
 
-Vestalin-2.jpg priestess of Ancient Rome]] Romans_murdering_Druids_and_burning_their_groves_cropped.jpgs and burning their groves on Anglesey, as described by Tacitus]] In historical polytheism, a priest administers the sacrifice to a deity, often in highly elaborate ritual. In the Ancient Near East, the priesthood also acted on behalf of the deities in managing their property.
+priestess of Ancient Rome]] s and burning their groves on Anglesey, as described by Tacitus]] In historical polytheism, a priest administers the sacrifice to a deity, often in highly elaborate ritual. In the Ancient Near East, the priesthood also acted on behalf of the deities in managing their property.
 
 Priestesses in antiquity often performed sacred prostitution, and in Ancient Greece, some priestesses such as Pythia, priestess at Delphi, acted as oracles.
 
@@ -66,7 +66,7 @@ Abrahamic religions
 
 Judaism
 
-Synagoge,_Enschede,_Mozaiek.jpg gesture depicted on an Mosaic in the synagogue of Enschede]] In ancient Israel the priests were required by the Law of Moses to be of direct patrilineal descent from Aaron, Moses' elder brother. In Exodus 30:22–25 God instructs Moses to make a holy anointing oil to consecrate the priests "for all of eternity." During the times of the two Jewish Temples in Jerusalem, the Aaronic priests were responsible for the daily and special Jewish holiday offerings and sacrifices within the temples, these offerings are known as the _korbanot_.
+gesture depicted on an Mosaic in the synagogue of Enschede]] In ancient Israel the priests were required by the Law of Moses to be of direct patrilineal descent from Aaron, Moses' elder brother. In Exodus 30:22–25 God instructs Moses to make a holy anointing oil to consecrate the priests "for all of eternity." During the times of the two Jewish Temples in Jerusalem, the Aaronic priests were responsible for the daily and special Jewish holiday offerings and sacrifices within the temples, these offerings are known as the _korbanot_.
 
 In Hebrew the word "priest" is _kohen_ (singular כהן _kohen_, plural כּהנִים _kohanim_), hence the family names _Cohen_, _Cahn_, _Kahn_, _Kohn_, _Kogan_, etc. These families are from the tribe of Levi (Levites) and in twenty-four instances are called by scripture as such (Jerusalem Talmud to Mishnaic tractate Maaser Sheini p. 31a). In Hebrew the word for "priesthood" is _kehunnah_.
 
@@ -76,7 +76,7 @@ Orthodox Judaism regard the _kohanim_ as being held in reserve for a future rest
 
 Christianity
 
-Georgischer_Priester.jpg priest wearing epitrachelion (stole) and epimanikia (cuffs), Mtskheta, Republic of Georgia]] Cassock_priest_french_african.jpg Parish Priest from the Belgian Congo]]
+priest wearing epitrachelion (stole) and epimanikia (cuffs), Mtskheta, Republic of Georgia]] Parish Priest from the Belgian Congo]]
 
 With the spread of Christianity and the formation of parishes, the Greek word _ἱερεύς_ (hiereus), and Latin _sacerdos_, which Christians had since the 3rd century applied to bishops and only in a secondary sense to presbyters, began in the 6th century to be used of presbyters,[13] and is today commonly used of presbyters, distinguishing them from bishops.[14]
 
@@ -90,13 +90,13 @@ In these traditions, only men who meet certain requirements may become priests. 
 
 Anglican or Episcopalian
 
-Choirhabit.jpg priest in choir dress]] The role of a priest in the Anglican Communion is largely the same as within the Roman Catholic Church and Eastern Christianity, except that canon law in almost every Anglican province restricts the administration of confirmation to the bishop, just as with ordination. Whilst Anglican priests who are members of religious orders must remain celibate (although there are exceptions, such as priests in the Anglican Order of Cistercians), the secular clergy—bishops, priests, and deacons who are not members of religious orders—are permitted to marry before or after ordination (although in most provinces they are not permitted to marry a person of the same sex.) The Anglican churches, unlike the Roman Catholic or Eastern Christian traditions, have allowed the ordination of women as priests (referred to as "priests" not "priestesses") in some provinces since 1971.[19] This practice remains controversial, however; a minority of provinces (10 out of the 38 worldwide) retain an all-male priesthood.[20] Most Continuing Anglican churches do not ordain women to the priesthood.
+priest in choir dress]] The role of a priest in the Anglican Communion is largely the same as within the Roman Catholic Church and Eastern Christianity, except that canon law in almost every Anglican province restricts the administration of confirmation to the bishop, just as with ordination. Whilst Anglican priests who are members of religious orders must remain celibate (although there are exceptions, such as priests in the Anglican Order of Cistercians), the secular clergy—bishops, priests, and deacons who are not members of religious orders—are permitted to marry before or after ordination (although in most provinces they are not permitted to marry a person of the same sex.) The Anglican churches, unlike the Roman Catholic or Eastern Christian traditions, have allowed the ordination of women as priests (referred to as "priests" not "priestesses") in some provinces since 1971.[19] This practice remains controversial, however; a minority of provinces (10 out of the 38 worldwide) retain an all-male priesthood.[20] Most Continuing Anglican churches do not ordain women to the priesthood.
 
 As Anglicanism represents a broad range of theological opinion, its presbyterate includes priests who consider themselves no different in any respect from those of the Roman Catholic Church, and a minority who prefer to use the title _presbyter_ in order to distance themselves from the more sacrificial theological implications which they associate with the word _priest_. While _priest_ is the official title of a member of the presbyterate in every Anglican province worldwide (retained by the Elizabethan Settlement), the ordination rite of certain provinces (including the Church of England) recognizes the breadth of opinion by adopting the title _The Ordination of Priests (also called Presbyters)._ Even though both words mean 'elders' historically the term _priest_ has been more associated with the "High Church" or Anglo-Catholic wing, whereas the term "minister" has been more commonly used in "Low Church" or Evangelical circles.[21]
 
 Lutheranism
 
-Strängnäs_Cathedral_interior.jpg prepares for the celebration of Mass in Strängnäs Cathedral]] The general priesthood or the priesthood of all believers, is a Christian doctrine derived from several passages of the New Testament. It is a foundational concept of Protestantism.[22] It is this doctrine that Martin Luther adduces in his 1520 _To the Christian Nobility of the German Nation_ in order to dismiss the medieval Christian belief that Christians were to be divided into two classes: "spiritual" and "temporal" or non-spiritual.
+prepares for the celebration of Mass in Strängnäs Cathedral]] The general priesthood or the priesthood of all believers, is a Christian doctrine derived from several passages of the New Testament. It is a foundational concept of Protestantism.[22] It is this doctrine that Martin Luther adduces in his 1520 _To the Christian Nobility of the German Nation_ in order to dismiss the medieval Christian belief that Christians were to be divided into two classes: "spiritual" and "temporal" or non-spiritual.
 
 The conservative reforms of Lutherans are reflected in the theological and practical view of the ministry of the Church. Much of European Lutheranism follows the traditional Catholic governance of deacon, priest and bishop. The Lutheran archbishops of Finland, Sweden, etc. and Baltic countries are the historic national primates and some ancient cathedrals and parishes in the Lutheran church were constructed many centuries before the Reformation. Indeed, ecumenical work within the Anglican Communion and among Scandinavian Lutherans mutually recognize the historic apostolic legitimacy and full communion. Likewise in America, Lutherans have embraced the apostolic succession of bishops in the full communion with Episcopalians and most Lutheran ordinations are performed by a bishop.
 
@@ -105,8 +105,6 @@ In some Lutheran churches, ordained clergy are called priests as in Sweden and F
 Methodism
 
 Methodist clergy often have the title of pastor, minister, reverend, etc.
-
-Priesthood03080u.jpg
 
 Latter Day Saints
 
@@ -121,7 +119,7 @@ Islam has no sacerdotal priesthood, as every believer _(mu'min)_ is individually
 
 Eastern religions
 
-Yajna1.jpg cast performs a yajna, Kerala]] Soothsayer-outside-of-Changchun-Temple-0352.jpg with a customer outside of Changchun Temple, Wuhan.]]
+cast performs a yajna, Kerala]] with a customer outside of Changchun Temple, Wuhan.]]
 
 Hinduism
 
@@ -148,7 +146,7 @@ Indigenous and ethnic religions
 
 Shintoism
 
-Yasaka-jinja_01.jpg priest and priestess in Japan.]] The Shinto priest is called a '', originally pronounced _kamunushi_, sometimes referred to as a . A kannushi is the person responsible for the maintenance of a Shinto shrine, or _jinja_, purificatory rites, and for leading worship and veneration of a certain _kami_. Additionally, priests are aided by '' for many rites as a kind of shaman or medium. The maidens may either be family members in training, apprentices, or local volunteers.
+priest and priestess in Japan.]] The Shinto priest is called a '', originally pronounced _kamunushi_, sometimes referred to as a . A kannushi is the person responsible for the maintenance of a Shinto shrine, or _jinja_, purificatory rites, and for leading worship and veneration of a certain _kami_. Additionally, priests are aided by '' for many rites as a kind of shaman or medium. The maidens may either be family members in training, apprentices, or local volunteers.
 
 _Saiin_ were female relatives of the Japanese emperor (termed _saiō_) who served as High Priestesses in Kamo Shrine. _Saiō_ also served at Ise Shrine. _Saiin_ priestesses usually were elected from royalty. In principle, _Saiin_ remained unmarried, but there were exceptions. Some _Saiin_ became consorts of the emperor, called _Nyōgo_ in Japanese. The _Saiin_ order of priestesses existed throughout the Heian and Kamakura periods.
 
@@ -161,12 +159,12 @@ Neo-Paganism
 
 Wicca
 
-Wiccan_priestess_preaching,_USA.PNG According to traditional Wiccan beliefs, every member of the religion is considered a priestess or priest, as it is believed that no person can stand between another and the Divine. However, in response to the growing number of Wiccan temples and churches, several denominations of the religion have begun to develop a core group of ordained priestesses and priests serving a larger laity. This trend is far from widespread, but is gaining acceptance due to increased interest in the religion.[27][28][29]
+According to traditional Wiccan beliefs, every member of the religion is considered a priestess or priest, as it is believed that no person can stand between another and the Divine. However, in response to the growing number of Wiccan temples and churches, several denominations of the religion have begun to develop a core group of ordained priestesses and priests serving a larger laity. This trend is far from widespread, but is gaining acceptance due to increased interest in the religion.[27][28][29]
 
 
 Dress
 
-Kruisheren_1964_Canons_Regular_of_the_Order_Sanctae_Crucis.jpg and live in the Netherlands, wear distinctive clothing which distinguishes them from other clergy, whether secular or religious]] AGMA_Kylix_femme_autel.jpg by Chairias, c. 510–500 BC, Ancient Agora Museum in Athens]] The dress of religious workers in ancient times may be demonstrated in frescoes and artifacts from the cultures. The dress is presumed to be related to the customary clothing of the culture, with some symbol of the deity worn on the head or held by the person. Sometimes special colors, materials, or patterns distinguish celebrants, as the white wool veil draped on the head of the Vestal Virgins.
+and live in the Netherlands, wear distinctive clothing which distinguishes them from other clergy, whether secular or religious]] by Chairias, c. 510–500 BC, Ancient Agora Museum in Athens]] The dress of religious workers in ancient times may be demonstrated in frescoes and artifacts from the cultures. The dress is presumed to be related to the customary clothing of the culture, with some symbol of the deity worn on the head or held by the person. Sometimes special colors, materials, or patterns distinguish celebrants, as the white wool veil draped on the head of the Vestal Virgins.
 
 Occasionally the celebrants at religious ceremonies shed all clothes in a symbolic gesture of purity. This was often the case in ancient times. An example of this is shown to the left on a Kylix dating from c. 500 BC where a priestess is featured. Modern religious groups tend to avoid such symbolism and some may be quite uncomfortable with the concept.
 

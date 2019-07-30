@@ -1,4 +1,4 @@
-Lennon_Wall,_August_2014.jpg John_Lennon_-_Prag_-_1981.jpg PrahaJohnLennon1993.jpg April22Wall.jpg mural. 2019]]
+mural. 2019]]
 
 The LENNON WALL or JOHN LENNON WALL is a wall in Prague, Czech Republic. Once a normal wall, since the 1980s it has been filled with John Lennon-inspired graffiti, pieces of lyrics from Beatles' songs, and other designs relating to local and global causes.[1]
 
@@ -22,7 +22,7 @@ In July 2019, artists painted a memorial on the wall for Hong Kong democracy act
 
 Lennon Walls in Hong Kong
 
-2014_Hong_Kong_protests_October_21_-_Lennon_Wall.JPG protests; Lennon Wall @ Central Government Offices 21 October 2014]] Lennon_Wall_in_CGO_201906.jpg, the Lennon Wall returns. June 2019]] During the 2014 democracy protests in Hong Kong, a similar Lennon Wall appeared along the staircase outside of the Hong Kong Central Government Offices. Inspired by the original in Prague, many thousands of people posted colourful post-it notes expressing democratic wishes for Hong Kong.[9] The wall was one of the major arts of the Umbrella Movement.[10] Throughout the several months of occupations and protest, many efforts were made by different groups to ensure physical and digital preservation of the Hong Kong Lennon Wall.[11][12][13]
+protests; Lennon Wall @ Central Government Offices 21 October 2014]] , the Lennon Wall returns. June 2019]] During the 2014 democracy protests in Hong Kong, a similar Lennon Wall appeared along the staircase outside of the Hong Kong Central Government Offices. Inspired by the original in Prague, many thousands of people posted colourful post-it notes expressing democratic wishes for Hong Kong.[9] The wall was one of the major arts of the Umbrella Movement.[10] Throughout the several months of occupations and protest, many efforts were made by different groups to ensure physical and digital preservation of the Hong Kong Lennon Wall.[11][12][13]
 
 Five years later, during the 2019 Hong Kong anti-extradition bill protests, the same wall was again created, with new post-it notes. Within days, dozens of post-it-note Lennon Walls had "blossomed everywhere" (遍地開花)[14] throughout Hong Kong, including on Hong Kong Island itself, Kowloon, the New Territories, and on the many outlying islands.[15][16][17] According to a crowd-sourced map of Hong Kong, there are over 140 Lennon Walls throughout the region.[18]
 

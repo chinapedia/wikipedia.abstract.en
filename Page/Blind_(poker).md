@@ -1,4 +1,4 @@
-Texas_Hold'em_Poker_Table_with_Blinds.svg The BLINDS are forced bets posted by players to the left of the dealer button in flop-style poker games. The number of blinds is usually two, but it can range from none to three.
+The BLINDS are forced bets posted by players to the left of the dealer button in flop-style poker games. The number of blinds is usually two, but it can range from none to three.
 
 The small blind is placed by the player to the left of the dealer button and the big blind is then posted by the next player to the left. The one exception is when there are only two players (a "heads-up" game), when the player on the button is the small blind, and the other player is the big blind. (Both the player and the bet may be referred to as big or small blind.)
 

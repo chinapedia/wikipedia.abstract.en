@@ -1,4 +1,4 @@
-Multiply_4_bags_3_marbles.svg per bag gives twelve marbles (4 × 3 = 12).]] Multiply_scaling.svg. Here we see 2 being multiplied by 3 using scaling, giving 6 as a result.]] Multiplication_as_scaling_integers.gif Multiplication_scheme_4_by_5.jpg Multiply_field_fract.svg MULTIPLICATION (often denoted by the cross symbol "×", by the dot "⋅", by juxtaposition, or, on computers, by an asterisk "∗") is one of the four elementary mathematical operations of arithmetic, with the others being addition, subtraction and division.
+per bag gives twelve marbles (4 × 3 = 12).]] . Here we see 2 being multiplied by 3 using scaling, giving 6 as a result.]] MULTIPLICATION (often denoted by the cross symbol "×", by the dot "⋅", by juxtaposition, or, on computers, by an asterisk "∗") is one of the four elementary mathematical operations of arithmetic, with the others being addition, subtraction and division.
 
 The multiplication of whole numbers may be thought as a repeated addition; that is, the multiplication of two numbers is equivalent to adding as many copies of one of them, the _multiplicand_, as the value of the other one, the _multiplier_. The multiplier can be written first and multiplicand second (though the custom can vary by culture[1]); both can be called _factors_.
 
@@ -26,7 +26,7 @@ Multiplication is also defined for other types of numbers, such as complex numbe
 
 Notation and terminology
 
-Multiplication_Sign.svg In arithmetic, multiplication is often written using the sign "×" between the terms; that is, in infix notation.[3] For example,
+In arithmetic, multiplication is often written using the sign "×" between the terms; that is, in infix notation.[3] For example,
 
 2 × 3 = 6
 (verbally, "two times three equals six")
@@ -84,11 +84,11 @@ The Babylonians used a sexagesimal positional number system, analogous to the mo
 
 Chinese
 
-Multiplication_algorithm.GIF In the mathematical text _Zhoubi Suanjing_, dated prior to 300 BC, and the _Nine Chapters on the Mathematical Art_, multiplication calculations were written out in words, although the early Chinese mathematicians employed Rod calculus involving place value addition, subtraction, multiplication and division. Chinese were already using a decimal multiplication table since the Warring States period[9].
+In the mathematical text _Zhoubi Suanjing_, dated prior to 300 BC, and the _Nine Chapters on the Mathematical Art_, multiplication calculations were written out in words, although the early Chinese mathematicians employed Rod calculus involving place value addition, subtraction, multiplication and division. Chinese were already using a decimal multiplication table since the Warring States period[9].
 
 Modern methods
 
-Gelosia_multiplication_45_256.png.]] The modern method of multiplication based on the Hindu–Arabic numeral system was first described by Brahmagupta. Brahmagupta gave rules for addition, subtraction, multiplication and division. Henry Burchard Fine, then professor of Mathematics at Princeton University, wrote the following:
+.]] The modern method of multiplication based on the Hindu–Arabic numeral system was first described by Brahmagupta. Brahmagupta gave rules for addition, subtraction, multiplication and division. Henry Burchard Fine, then professor of Mathematics at Princeton University, wrote the following:
 
     _The Indians are the inventors not only of the positional decimal system itself, but of most of the processes involved in elementary reckoning with the system. Addition and subtraction they performed quite as they are performed nowadays; multiplication they effected in many ways, ours among them, but division they did cumbrously._[10]
 
@@ -166,7 +166,7 @@ provided both limits exist.
 
 Properties
 
-Multiplication_chart.svg where the determinant is 0. In this process, information is lost and cannot be regained.]] For the real and complex numbers, which includes for example natural numbers, integers, and fractions, multiplication has certain properties:
+where the determinant is 0. In this process, information is lost and cannot be regained.]] For the real and complex numbers, which includes for example natural numbers, integers, and fractions, multiplication has certain properties:
 
 Commutative property
     The order in which two numbers are multiplied does not matter:

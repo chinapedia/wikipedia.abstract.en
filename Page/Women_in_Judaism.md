@@ -64,7 +64,7 @@ After the expulsion of the Jews from Spain in 1492, women became virtually the o
 
 Domestic life
 
-Brooklyn_Museum_-_Jewish_Marriage_Certificate_-_overall.jpg)]]
+)]]
 
 Marriage, domestic violence and divorce are all topics discussed by Jewish sages of the Medieval world. Marriage is an important institution in Judaism (see Marriage in Judaism). The sages of this period discussed this topic at length.
 
@@ -107,7 +107,7 @@ His response to detractors was that indeed, in truth, there is a prohibition aga
 
 Yisrael Meir Kagan
 
-Chofetzreal.jpg in his old age]] One of the most important Ashkenazic rabbanim of the past century, Yisrael Meir Kagan, known popularly as the "Chofetz Chaim", favored Torah education for girls to counteract the French "finishing schools" prevalent in his day for the daughters of the bourgeoisie.
+in his old age]] One of the most important Ashkenazic rabbanim of the past century, Yisrael Meir Kagan, known popularly as the "Chofetz Chaim", favored Torah education for girls to counteract the French "finishing schools" prevalent in his day for the daughters of the bourgeoisie.
 
 Joseph Solovetchik
 
@@ -116,7 +116,7 @@ Rabbi Yoseph Solovetchik "amended" the teachings of The Hafetz Haim. Rabbi Solov
 
 Present day
 
-ShabbatCandles669.jpg]]
+]]
 
 Orthodox Judaism
 
@@ -160,7 +160,7 @@ In 2017, the Orthodox Union adopted a policy banning women from serving as clerg
 
 Women's prayer groups
 
-Torah_Reading_at_Robinson's_Arch.jpg Reading at Robinson's Arch]] Separate Jewish women's prayer groups were a sanctioned custom among German Jews in the Middle Ages. The _Kol Bo_ provides, in the laws for Tisha B'Av:
+Reading at Robinson's Arch]] Separate Jewish women's prayer groups were a sanctioned custom among German Jews in the Middle Ages. The _Kol Bo_ provides, in the laws for Tisha B'Av:
 
     And they recite dirges there for about a quarter of the night, the men in their synagogue and the women in their synagogue. And likewise during the day the men recite dirges by themselves and the women by themselves, until about a third of the day has passed.
 
@@ -198,7 +198,7 @@ Agunot (Hebrew: "chained women") are women who wish to divorce their husbands, b
 
 Conservative Judaism
 
-Rabot_-_Torah.JPG Although the position of Conservative Judaism toward women originally differed little from the Orthodox position, it has in recent years minimized legal and ritual differences between men and women. The Committee on Jewish Law and Standards (CJLS) of the Rabbinical Assembly has approved a number of decisions and responsa on this topic. These provide for women's active participation in areas such as:
+Although the position of Conservative Judaism toward women originally differed little from the Orthodox position, it has in recent years minimized legal and ritual differences between men and women. The Committee on Jewish Law and Standards (CJLS) of the Rabbinical Assembly has approved a number of decisions and responsa on this topic. These provide for women's active participation in areas such as:
 
 -   Publicly reading the Torah (_ba'al kriah_)
 -   Being counted as part of a _minyan_
@@ -218,7 +218,7 @@ The CJLS recently reaffirmed the obligation of Conservative women to observe _ni
 
 Changes in the Conservative position
 
-JTSA_122_Bway_jeh.JPG building at 3080 Broadway in Manhattan]]
+building at 3080 Broadway in Manhattan]]
 
 Prior to 1973, Conservative Judaism had more limited roles for women and was more similar to current Orthodoxy. However, there were some notable changes in favor of expanded roles for women in Conservative Judaism prior to 1973. In 1946, the new Silverman siddur changed the traditional words of thanking God for "not making me a woman", instead using words thanking God for "making me a free person."[107] In 1955, the CJLS of the Rabbinical Assembly issued a decision that allowed women to have an aliyah at Torah-readings services.[108]
 
@@ -247,8 +247,6 @@ In 1993, Professor Judith Hauptman of JTS issued an influential paper[120] argui
 In 2002, the CJLS returned to the issue of justifying its actions regarding women's status, and adopted a single authoritative approach, the Fine responsum,[121] as the definitive Conservative halakha on role-of-women issues. This responsum holds that although Jewish women do not traditionally have the same obligations as men, Conservative women have, as a collective whole, voluntarily undertaken them. Because of this collective undertaking, the Fine responsum holds that Conservative women are eligible to serve as agents and decision-makers for others. The Responsum also holds that traditionally minded communities and individual women can opt out without being regarded by the Conservative movement as sinning. By adopting this Responsum, the CJLS found itself in a position to provide a considered Jewish-law justification for its egalitarian practices, without having to rely on potentially unconvincing arguments, undermine the religious importance of community and clergy, ask individual women intrusive questions, repudiate the _halakhic_ tradition, or label women following traditional practices as sinners.
 
 Reform Judaism
-
-ReformJewishService.jpg
 
 Reform Judaism believes in the equality of men and women. The Reform movement rejects the idea that halakha (Jewish law) is the sole legitimate form of Jewish decision making, and holds that Jews can and must consider their conscience and ethical principles inherent in the Jewish tradition when deciding upon a right course of action. There is widespread consensus among Reform Jews that traditional distinctions between the role of men and women are antithetical to the deeper ethical principles of Judaism. This has enabled Reform communities to allow women to perform many rituals traditionally reserved for men, such as:
 

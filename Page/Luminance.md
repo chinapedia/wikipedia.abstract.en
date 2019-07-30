@@ -1,4 +1,4 @@
-TealightLuminanceImage.jpg-type candle, imaged with a luminance camera; false colors indicate luminance levels per the bar on the right (cd/m²)]] LUMINANCE is a photometric measure of the luminous intensity per unit area of light travelling in a given direction. It describes the amount of light that passes through, is emitted from, or is reflected from a particular area, and falls within a given solid angle.
+-type candle, imaged with a luminance camera; false colors indicate luminance levels per the bar on the right (cd/m²)]] LUMINANCE is a photometric measure of the luminous intensity per unit area of light travelling in a given direction. It describes the amount of light that passes through, is emitted from, or is reflected from a particular area, and falls within a given solid angle.
 
 Brightness is the term for the _subjective_ impression of the _objective_ luminance measurement standard (see for the importance of this contrast).
 
@@ -28,7 +28,7 @@ A LUMINANCE METER is a device used in photometry that can measure the luminance 
 
 Mathematical definition
 
-Etendue-Free_space.png The luminance of a specified point of a light source, in a specified direction, is defined by the derivative
+The luminance of a specified point of a light source, in a specified direction, is defined by the derivative
 
 $$L_\mathrm{v} = \frac{\mathrm{d}^2\Phi_\mathrm{v}}
     {\mathrm{d}\Sigma\,\mathrm{d}\Omega_\Sigma \cos \theta_\Sigma}$$

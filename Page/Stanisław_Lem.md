@@ -9,7 +9,7 @@ Life
 
 Early life
 
-4_Lepkoho_Street,_Lviv_(02).jpg Street in Lwów, where, according to his autobiography "Wysoki zamek", Lem spent his childhood]] Lem was born in 1921 in Lwów, interwar Poland (now Lviv, Ukraine) to a family of Jewish origin. According to his own account, he was actually born on the 13th of September, but the date was changed to the 12th on his birth certificate because of superstition.[5] He was the son of Sabina Woller (1892–1979) and Samuel Lem (1879–1954), a wealthy laryngologist and former physician in the Austro-Hungarian Army,[6][7] and first cousin to Polish poet Marian Hemar (Lem's father's sister's son).[8] In later years Lem sometimes claimed to have been raised Roman Catholic, but he went to Jewish religious lessons during his school years.[9] He later became an atheist "for moral reasons ... the world appears to me to be put together in such a painful way that I prefer to believe that it was not created ... intentionally".[10][11] In later years he would call himself both an agnostic[12] and an atheist.[13]
+Street in Lwów, where, according to his autobiography "Wysoki zamek", Lem spent his childhood]] Lem was born in 1921 in Lwów, interwar Poland (now Lviv, Ukraine) to a family of Jewish origin. According to his own account, he was actually born on the 13th of September, but the date was changed to the 12th on his birth certificate because of superstition.[5] He was the son of Sabina Woller (1892–1979) and Samuel Lem (1879–1954), a wealthy laryngologist and former physician in the Austro-Hungarian Army,[6][7] and first cousin to Polish poet Marian Hemar (Lem's father's sister's son).[8] In later years Lem sometimes claimed to have been raised Roman Catholic, but he went to Jewish religious lessons during his school years.[9] He later became an atheist "for moral reasons ... the world appears to me to be put together in such a painful way that I prefer to believe that it was not created ... intentionally".[10][11] In later years he would call himself both an agnostic[12] and an atheist.[13]
 
 After the Soviet invasion and occupation of Eastern Poland, he was not allowed to study at Lwow Polytechnic as he wished because of his "bourgeois origin", and only due to his father's connections was accepted to study medicine at Lwów University in 1940.[14] During the subsequent Nazi occupation (1941–1944), Lem's family, which had Jewish roots, avoided imprisonment in a ghetto, surviving with false papers.[15] He would later recall:[16][17]
 
@@ -19,7 +19,7 @@ In 1945, the Polish Eastern Borderlands were annexed into Soviet Ukraine, and th
 
 Rise to fame
 
-Stanisław_Lem.jpg, 1966]] Lem made his literary debut in 1946 with a number of works of different genres, including poetry as well as a science fiction novel, _The Man from Mars_ (_Człowiek z Marsa_), serialized in __ (_New World of Adventures_).[23] Between 1948 and 1950 Lem was working as a scientific research assistant at the Jagiellonian University, and published a number of short stories, poems, reviews and similar works, particularly at _Tygodnik Powszechny_.[24] In 1951, he published his first book, _The Astronauts_ (_Astronauci_).[25] In 1953 he met and married (civil marriage) Barbara Leśniak, a medical student.[26] Their church marriage ceremony was performed in February, 1954.[27] In 1954, he published a short story anthology, _Sesame and Other Stories_ (__).[28] The following year, 1955, saw the publication of another science fiction novel, _The Magellanic Cloud_ (_Obłok Magellana_).[29]
+, 1966]] Lem made his literary debut in 1946 with a number of works of different genres, including poetry as well as a science fiction novel, _The Man from Mars_ (_Człowiek z Marsa_), serialized in __ (_New World of Adventures_).[23] Between 1948 and 1950 Lem was working as a scientific research assistant at the Jagiellonian University, and published a number of short stories, poems, reviews and similar works, particularly at _Tygodnik Powszechny_.[24] In 1951, he published his first book, _The Astronauts_ (_Astronauci_).[25] In 1953 he met and married (civil marriage) Barbara Leśniak, a medical student.[26] Their church marriage ceremony was performed in February, 1954.[27] In 1954, he published a short story anthology, _Sesame and Other Stories_ (__).[28] The following year, 1955, saw the publication of another science fiction novel, _The Magellanic Cloud_ (_Obłok Magellana_).[29]
 
 During the era of Stalinism, which had begun in Poland in the late 1940s, all published works had to be directly approved by the communist regime. Thus _Astronauci_ was not, in fact, the first novel Lem finished, just the first that made it past the censors.[30] Going by the date of finished manuscript, Lem's first book was a partly autobiographical novella _Hospital of the Transfiguration_ (_Szpital Przemienienia_), finished in 1948.[31] It would be published seven years later, in 1955, as a trilogy under a title _Czas nieutracony_ (_Time Not Lost_).[32] The experience of trying to push _Czas nieutracony_ through the censors was one of the major reasons Lem decided to focus on the less-censored genre of science fiction.[33] Nonetheless, most of Lem's works published in the 1950s also contain—forced upon him by the censors and editors—various references to socialist realism as well as the "glorious future of communism".[34][35] Lem later criticized several of his early pieces as compromised by the ideological pressure.[36]
 
@@ -27,7 +27,7 @@ Lem became truly productive after 1956, when the de-Stalinization period in the 
 
 In 1957, he published his first non-fiction, philosophical book, _Dialogues_ (), as well as a science fiction anthology, _The Star Diaries_ (_Dzienniki gwiazdowe_),[42] collecting short stories about one of his most popular characters, Ijon Tichy.[43] 1959 saw the publication of three books: _Eden_, _Śledztwo_ and the short story anthology _Inwazja z Aldebarana_.[44] 1961 saw two more books, the first regarded as being among his top works: _Pamiętnik znaleziony w wannie_, _Solaris_, as well as _Powrót z gwiazd_.[45] This was followed by a collections of his essays and non-fiction prose, _Wejście na orbitę_ (1962), and a short story anthology _Noc księżycowa_ (1963).[46] In 1964, Lem published a large work on the border of philosophy and sociology of science and futurology, _Summa Technologiae_, as well as a novel, _The Invincible_ (_Niezwyciężony_).[47][48]
 
-Stanislaw_Lem_by_Kubik.JPG, 30 October 2005.]]
+, 30 October 2005.]]
 
 1965 saw the publication of _The Cyberiad_ (_Cyberiada_) and of a short story anthology, _The Hunt_ ().[49] 1966 is the year of _Wysoki Zamek_, followed in 1968 by '"Głos Pana and _Tales of Pirx the Pilot_ (_Opowieści o pilocie Pirxie_).[50][51] _Wysoki Zamek_ was another of Lem's autobiographical works, and touched upon a theme that usually was not favored by the censors: Lem's youth in the pre-war, then-Polish, Lviv.[52] 1967 and 1970 saw two more non-fiction treatises, _Filozofia przypadku_ and _Fantastyka i futurologia_.[53] Ijon Tichy returned in 1971's _The Futurological Congress_ _Kongres futurologiczny_; in the same year he released a genre-mixing experiment, _Doskonała próżnia_, a collection of reviews of non-existent books.[54] In 1973 a similar work, _Wielkość urojona_, was published.[55] In 1976, Lem published two novels: _Maska_ and _Katar_.[56] In 1980, he published another set of reviews of non-existent works, _Prowokacja_.[57] The following year sees another Tichy novel, _Wizja lokalna_,[58] and _Golem XIV_. Later in that decade, he published _Pokój na Ziemi_ (1984) and _Fiasko_ (1986), Lem's final science fiction novel.[59]
 
@@ -44,7 +44,7 @@ In the early 1990s, Lem met with the literary scholar and critic Peter Swirski f
 
 Personal life
 
-Grób_Stanisława_Lema.jpg, Kraków ]]
+, Kraków ]]
 
 Lem was a polyglot: he knew Polish, Latin (from medical school), German, French, English, Russian and Ukrainian.[68]
 
@@ -68,7 +68,7 @@ Dick, suffering from mental health issues, would go on to maintain that Stanisł
 
 Significance
 
-Stanisław_Lem_books.jpg Lem is one of the most highly acclaimed science fiction writers, hailed by critics as equal to such classic authors as H. G. Wells and Olaf Stapledon.[81] In 1976, Theodore Sturgeon wrote that Lem was the most widely read science fiction writer in the world.[82]
+Lem is one of the most highly acclaimed science fiction writers, hailed by critics as equal to such classic authors as H. G. Wells and Olaf Stapledon.[81] In 1976, Theodore Sturgeon wrote that Lem was the most widely read science fiction writer in the world.[82]
 
 In Poland, in the 1960s and 1970s, Lem remained under the radar of mainstream critics, who dismissed him as a "mass market", low-brow, youth-oriented writer; such dismissal might have given him a form of invisibility from censorship.[83]
 

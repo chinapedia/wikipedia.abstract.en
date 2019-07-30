@@ -13,13 +13,13 @@ In the Conquest of Melilla, the duke sent Pedro Estopiñán, who conquered the c
 
 The current limits of the Spanish territory around the fortress were fixed by treaties with Morocco in 1859, 1860, 1861, and 1894. In the late 19th century, as Spanish influence expanded, Melilla became the only authorized centre of trade on the Rif coast between Tetuan and the Algerian frontier. The value of trade increased, goat skins, eggs and beeswax being the principal exports, and cotton goods, tea, sugar and candles being the chief imports.
 
-War_in_Morocco_Death_of_Spanish_general_Margallo.JPG during the First Melillan campaign in 1893]] In 1893, the Rif Berbers launched the First Melillan campaign and 25,000 Spanish soldiers had to be dispatched against them. The conflict was also known as the _Margallo War_, after the Governor of Melilla and Spanish General Juan García y Margallo, who was killed in the battle.
+during the First Melillan campaign in 1893]] In 1893, the Rif Berbers launched the First Melillan campaign and 25,000 Spanish soldiers had to be dispatched against them. The conflict was also known as the _Margallo War_, after the Governor of Melilla and Spanish General Juan García y Margallo, who was killed in the battle.
 
 In 1908 two companies, under the protection of Bou Hmara, a chieftain then ruling the Rif region, started mining lead and iron some 20 kilometers (12.4 miles) from Melilla. A railway to the mines was begun. In October of that year the Bou Hmara's vassals revolted against him and raided the mines, which remained closed until June 1909. By July the workmen were again attacked and several of them killed. Severe fighting between the Spaniards and the tribesmen followed, in the Second Melillan campaign.
 
 In 1910, with the Rif having submitted, the Spaniards restarted the mines and undertook harbor works at Mar Chica, but hostilities broke out again in 1911. In 1921 the Berbers under the leadership of Abd el Krim inflicted a grave defeat on the Spanish (see Battle of Annual), and were not defeated until 1926, when the Spanish Protectorate finally managed to control the area again.
 
-Estatua_de_Franco_en_Melilla.jpg General Francisco Franco used the city as one of his staging grounds for his Nationalist rebellion in 1936, starting the Spanish Civil War. A statue of him – the last statue of Franco in Spain – is still prominently featured.
+General Francisco Franco used the city as one of his staging grounds for his Nationalist rebellion in 1936, starting the Spanish Civil War. A statue of him – the last statue of Franco in Spain – is still prominently featured.
 
 On 6 November 2007, King Juan Carlos I and Queen Sofia visited the city, which caused a massive demonstration of support. The visit also sparked protests from the Moroccan government.[11] It was the first time a Spanish monarch had visited Melilla in 80 years.
 
@@ -28,7 +28,7 @@ Melilla (and Ceuta) have declared the Muslim holiday of Eid al-Adha or Feast of 
 
 Geography
 
-Melilla_en.png Melilla is located in the northwest of the African continent, next to the Alboran Sea and across the sea from the Spanish provinces of Granada and Almería. The city layout is arranged in a wide semicircle around the beach and the Port of Melilla, on the eastern side of the peninsula of Cape Tres Forcas, at the foot of Mount Gurugú and the mouth of the Río de Oro, above sea level. The urban nucleus was originally a fortress, Melilla la Vieja, built on a peninsular mound about in height.
+Melilla is located in the northwest of the African continent, next to the Alboran Sea and across the sea from the Spanish provinces of Granada and Almería. The city layout is arranged in a wide semicircle around the beach and the Port of Melilla, on the eastern side of the peninsula of Cape Tres Forcas, at the foot of Mount Gurugú and the mouth of the Río de Oro, above sea level. The urban nucleus was originally a fortress, Melilla la Vieja, built on a peninsular mound about in height.
 
 The Moroccan settlement of Beni Ansar lies immediately south of Melilla. The nearest Moroccan city is Nador, and the ports of Melilla and Nador are both within the same bay; nearby is the Bou Areg Lagoon[14]
 
@@ -101,11 +101,11 @@ Many people travelling between Europe and Morocco use the ferry links to Melilla
 
 City culture and society
 
-Frente_de_la_Marina,_Melilla_la_Vieja.jpg Melilla's Capilla de Santiago, or James's Chapel, by the city walls, is the only authentic Gothic structure in Africa.
+Melilla's Capilla de Santiago, or James's Chapel, by the city walls, is the only authentic Gothic structure in Africa.
 
 In the first quarter of the 20th century, Melilla became a thriving port benefitting from the recently established Protectorate of Spanish Morocco in the contiguous Rif. The new architectural style of Modernisme was expressed by a new bourgeois class. This style, frequently referred to as the Catalan version of Art Nouveau, was extremely popular in the early part of the 20th century in Spain.
 
-The workshops inspired by the Catalan architect Enrique Nieto continued in the modernist style, even after Modernisme went out of fashion elsewhere. Accordingly, Melilla has the second most important concentration of Modernist works in Spain after Barcelona. Nieto was in charge of designing the main Synagogue, the Central Mosque and various Catholic Churches.[21] Semana_Santa_en_Melilla_2008_(2).jpg procession in Melilla]]
+The workshops inspired by the Catalan architect Enrique Nieto continued in the modernist style, even after Modernisme went out of fashion elsewhere. Accordingly, Melilla has the second most important concentration of Modernist works in Spain after Barcelona. Nieto was in charge of designing the main Synagogue, the Central Mosque and various Catholic Churches.[21] procession in Melilla]]
 
 Melilla has been praised as an example of multiculturalism, being a small city in which one can find four major religions represented. However, the Christian majority of the past, constituting around 65% of the population at one point, has been shrinking, while the number of native Muslim inhabitants has steadily increased to its present 45% of the population. The Jewish and Hindu communities have also been shrinking due to economic emigration to mainland Spain (notably Malaga and Madrid).
 
@@ -116,19 +116,19 @@ The amateur radio call sign used for both cities is EA9.[23]
 
 Immigration
 
-Verjamelilla.jpg aims to stop illegal immigration into Spain.]] Melilla has been a popular destination for refugees and people leaving countries with poor economies in order to enter the European Union. The border is secured by the Melilla border fence, a six-metre-tall double fence with watch towers; yet refugees frequently manage to cross it.[24] Detection wires, radar, and day/night vision cameras are planned to increase security and prevent illegal immigration. In February 2014, over 200 migrants from sub-Saharan Africa scaled a security fence to get into the Melilla migrant reception centre. The reception centre, built for 480 migrants, was already overcrowded with 1,300 people.[25]
+aims to stop illegal immigration into Spain.]] Melilla has been a popular destination for refugees and people leaving countries with poor economies in order to enter the European Union. The border is secured by the Melilla border fence, a six-metre-tall double fence with watch towers; yet refugees frequently manage to cross it.[24] Detection wires, radar, and day/night vision cameras are planned to increase security and prevent illegal immigration. In February 2014, over 200 migrants from sub-Saharan Africa scaled a security fence to get into the Melilla migrant reception centre. The reception centre, built for 480 migrants, was already overcrowded with 1,300 people.[25]
 
 
 Transportation
 
-Air_Nostrum_(Iberia_Regional)_ATR_ATR-72-500_(ATR-72-212A).jpgFerry_approaching_Playa_Blanca.jpg Melilla Airport is serviced by Air Nostrum, flying to the Spanish cities of Málaga, Madrid, Barcelona, Las Palmas de Gran Canaria, Palma de Mallorca, Granada, Badajoz, Sevilla and Almería. In April 2013, a local enterprise set up Melilla Airlines, flying from the city to Málaga.[26] The city is linked to Málaga, Almería and Motril by ferry.
+Melilla Airport is serviced by Air Nostrum, flying to the Spanish cities of Málaga, Madrid, Barcelona, Las Palmas de Gran Canaria, Palma de Mallorca, Granada, Badajoz, Sevilla and Almería. In April 2013, a local enterprise set up Melilla Airlines, flying from the city to Málaga.[26] The city is linked to Málaga, Almería and Motril by ferry.
 
 Three roads connect Melilla and Morocco but require clearance through border checkpoints.
 
 
 Sport
 
-Kitesurf-LNI_Ostia_race-2011-IMG0010.jpg at Melilla beach]] Melilla is a surfing destination.[27] The city's football club, UD Melilla, plays in the third tier of Spanish football, the Segunda División B. The club was founded in 1943 and since 1945 have played at the 12,000-seater Estadio Municipal Álvarez Claro. Until the other club was dissolved in 2012, UD Melilla played the Ceuta-Melilla derby against AD Ceuta. The clubs travelled to each other via the Spanish mainland to avoid entering Morocco.[28] The second-highest ranked club in the city are Casino del Real CF of the fourth-tier Tercera División. Football in the exclave is administered by the Melilla Football Federation.
+at Melilla beach]] Melilla is a surfing destination.[27] The city's football club, UD Melilla, plays in the third tier of Spanish football, the Segunda División B. The club was founded in 1943 and since 1945 have played at the 12,000-seater Estadio Municipal Álvarez Claro. Until the other club was dissolved in 2012, UD Melilla played the Ceuta-Melilla derby against AD Ceuta. The clubs travelled to each other via the Spanish mainland to avoid entering Morocco.[28] The second-highest ranked club in the city are Casino del Real CF of the fourth-tier Tercera División. Football in the exclave is administered by the Melilla Football Federation.
 
 
 Twin towns and sister cities

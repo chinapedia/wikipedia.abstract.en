@@ -1,4 +1,4 @@
-Apotekarnes_julmust,_glasflaska.jpg of _julmust_.]]
+of _julmust_.]]
 
 _JULMUST_ ( "Christmas" and __ "not-yet-fermented juice of fruit or berries", though there is no such juice in _julmust_) is a soft drink that is mainly consumed in Sweden around Christmas. During the rest of the year, except Easter, it is usually quite difficult to find in stores, but sometimes it is sold at other times of the year under the name _must_. During Easter the name is __ (from __, "Easter"). The content is the same regardless of the marketing name, although the length of time it is stored before bottling differs; however, the beverage is more closely associated with Christmas, somewhat less with Easter and traditionally not at all with the summer. 45 million litres of _julmust_ are consumed during December, which is around 50% of the total soft drink volume in December and 75% of the total yearly must sales.[1]
 

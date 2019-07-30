@@ -5,7 +5,7 @@ Roads consist of one or two roadways (British English: carriageways), each with 
 
 Definitions
 
-Road_side_view_at_chalna,_Khulna_-_33.jpg Historically many roads were simply recognizable routes without any formal construction or maintenance.[1]
+Historically many roads were simply recognizable routes without any formal construction or maintenance.[1]
 
 The Organisation for Economic Co-operation and Development (OECD) defines a road as "a line of communication (travelled way) using a stabilized base other than rails or air strips open to public traffic, primarily for the use of road motor vehicles running on their own wheels", which includes "bridges, tunnels, supporting structures, junctions, crossings, interchanges, and toll roads, but not cycle paths".[2]
 
@@ -30,7 +30,7 @@ Maintenance is becoming an increasing problem in the United States. Between 1997
 
 History
 
-transfagarasan.jpg called "the best road in the world" by Top Gear[16]]] Greek_street_-_III_century_BC_-_Porta_Rosa_-_Velia_-_Italy.JPG, with a paved surface and gutters]] PompeiiStreet.jpg]] Stora_tvärvägen_-_Ystad_11sep2013.jpg, Sweden ]] The assertion that the first pathways were the trails made by animals has not been universally accepted; in many cases animals do not follow constant paths.[17] Some believe that some roads originated from following animal trails.[18][19] The Icknield Way may examplify this type of road origination, where human and animal both selected the same natural line.[20] By about 10,000 BC human travelers used rough roads/pathways.[21]
+called "the best road in the world" by Top Gear[16]]] , with a paved surface and gutters]] ]] , Sweden ]] The assertion that the first pathways were the trails made by animals has not been universally accepted; in many cases animals do not follow constant paths.[17] Some believe that some roads originated from following animal trails.[18][19] The Icknield Way may examplify this type of road origination, where human and animal both selected the same natural line.[20] By about 10,000 BC human travelers used rough roads/pathways.[21]
 
 -   The world's oldest known paved road was constructed in Egypt some time between 2600 and 2200 BC.
 
@@ -64,7 +64,6 @@ All-weather road: Unpaved road that is constructed of a material that does not c
 Banked turn
 Bicycle boulevard: A street that allows local vehicle traffic, but is prioritized for bicycles and other non-motorized travel
 Belisha Beacon: an orange globe, lit at night, used to highlight a pedestrian crossing
-Roads_to_Beaches_of_Newcastle,_NSW_in_Australia.JPG
 Bollard: Rigid posts that can be arranged in a line to close a road or path to vehicles above a certain width
 Byway: Highway over which the public have a right to travel for vehicular and other kinds of traffic, but is used mainly as a footpath or bridleway
 Bypass: Road that avoids or "bypasses" a built-up area, town, or village
@@ -132,7 +131,7 @@ Zebra crossing (UK): a pedestrian crossing marked by black and white stripes on 
 
 Construction
 
-MortarlessPavement.jpg B.) Subbase C.) Base course D.) Paver base E.) Pavers F.) Fine-grained sand]] In transport engineering, SUBGRADE is the native material underneath a constructed road us_land_survey_officer.jpg]] Road_building-Hungary-1.jpg road roller]] Motorway_construction_in_Ireland.JPG composed of cement-based material being applied during construction of the M8 motorway in Ireland]] MyanmarRoadConstruction2.jpg.]]
+B.) Subbase C.) Base course D.) Paver base E.) Pavers F.) Fine-grained sand]] In transport engineering, SUBGRADE is the native material underneath a constructed road ]] road roller]] composed of cement-based material being applied during construction of the M8 motorway in Ireland]] .]]
 
     _"Roadbed" (from the 'related terms' Bed (geology) & streambed), as well as the term "Road building" redirects here._
 
@@ -148,7 +147,7 @@ Old road surfaces, fences, and buildings may need to be removed before construct
 
 Processes during earthwork include excavation, removal of material to spoil, filling, compacting, construction and trimming. If rock or other unsuitable material is discovered it is removed, moisture content is managed and replaced with standard fill compacted to meet the design requirements (generally 90–95% relative compaction). Blasting is not frequently used to excavate the roadbed as the intact rock structure forms an ideal road base. When a depression must be filled to come up to the road grade the native bed is compacted after the topsoil has been removed. The fill is made by the "compacted layer method" where a layer of fill is spread then compacted to specifications, under saturated conditions. The process is repeated until the desired grade is reached.[59]
 
-PavementStratum.JPG General fill material should be free of organics, meet minimum California bearing ratio (CBR) results and have a low plasticity index. The lower fill generally comprises sand or a sand-rich mixture with fine gravel, which acts as an inhibitor to the growth of plants or other vegetable matter. The compacted fill also serves as lower-stratum drainage. Select second fill (sieved) should be composed of gravel, decomposed rock or broken rock below a specified particle size and be free of large lumps of clay. Sand clay fill may also be used. The roadbed must be "proof rolled" after each layer of fill is compacted. If a roller passes over an area without creating visible deformation or spring the section is deemed to comply.[60]
+General fill material should be free of organics, meet minimum California bearing ratio (CBR) results and have a low plasticity index. The lower fill generally comprises sand or a sand-rich mixture with fine gravel, which acts as an inhibitor to the growth of plants or other vegetable matter. The compacted fill also serves as lower-stratum drainage. Select second fill (sieved) should be composed of gravel, decomposed rock or broken rock below a specified particle size and be free of large lumps of clay. Sand clay fill may also be used. The roadbed must be "proof rolled" after each layer of fill is compacted. If a roller passes over an area without creating visible deformation or spring the section is deemed to comply.[60]
 
 Geosynthetics such as geotextiles, geogrids and geocells are frequently used in the various pavement layers to improve road quality. These materials and methods are used in low-traffic private roadways as well as public roads and highways.[61] Geosynthetics perform four main functions in roads: separation, reinforcement, filtration and drainage; which increase the pavement performance, reduce construction costs and decrease maintenance.[62]
 
@@ -161,9 +160,7 @@ When a single carriageway road is converted into dual carriageway by building a 
 
 Maintenance
 
-Baustelle.svg Like all structures, roads deteriorate over time. Deterioration is primarily due to accumulated damage from vehicles, however environmental effects such as frost heaves, thermal cracking and oxidation often contribute.[64] According to a series of experiments carried out in the late 1950s, called the AASHO Road Test, it was empirically determined that the effective damage done to the road is roughly proportional to the Fourth power of axle weight.[65] A typical tractor-trailer weighing 80,000 pounds (36.287 t) with 8,000 pounds (3.629 t) on the steer axle and 36,000 pounds (16.329 t) on both of the tandem axle groups is expected to do 7,800 times more damage than a passenger vehicle with 2,000 pounds (0.907 t) on each axle. Potholes on roads are caused by rain damage and vehicle braking or related construction works.
-
-Making_lines_on_the_road.JPG
+Like all structures, roads deteriorate over time. Deterioration is primarily due to accumulated damage from vehicles, however environmental effects such as frost heaves, thermal cracking and oxidation often contribute.[64] According to a series of experiments carried out in the late 1950s, called the AASHO Road Test, it was empirically determined that the effective damage done to the road is roughly proportional to the Fourth power of axle weight.[65] A typical tractor-trailer weighing 80,000 pounds (36.287 t) with 8,000 pounds (3.629 t) on the steer axle and 36,000 pounds (16.329 t) on both of the tandem axle groups is expected to do 7,800 times more damage than a passenger vehicle with 2,000 pounds (0.907 t) on each axle. Potholes on roads are caused by rain damage and vehicle braking or related construction works.
 
 Pavements are designed for an expected service life or design life. In some parts of the United Kingdom the standard design life is 40 years for new bitumen and concrete pavement. Maintenance is considered in the whole life cost of the road with service at 10, 20 and 30 year milestones.[66] Roads can be and are designed for a variety of lives (8-, 15-, 30-, and 60-year designs). When pavement lasts longer than its intended life, it may have been overbuilt, and the original costs may have been too high. When a pavement fails before its intended design life, the owner may have excessive repair and rehabilitation costs. Some asphalt pavements are designed as _perpetual pavements_ with an expected structural life in excess of 50 years.[67]
 
@@ -200,7 +197,7 @@ Also called joint and crack repair, this method's purpose is to minimize infiltr
 
 Safety considerations
 
-Wavy_lines_before_pedestrian_crossing.jpg, line markings and street furniture.]] Careful design and construction of roads can increase road traffic safety and reduce the harm (deaths, injuries, and property damage) on the highway system from traffic collisions.
+, line markings and street furniture.]] Careful design and construction of roads can increase road traffic safety and reduce the harm (deaths, injuries, and property damage) on the highway system from traffic collisions.
 
 On neighborhood roads traffic calming, safety barriers, pedestrian crossings and cycle lanes can help protect pedestrians, cyclists, and drivers.
 
@@ -222,7 +219,7 @@ Various government agencies and private entities, including local news services,
 
 Environmental performance
 
-Aab_Pasadena_Highway_Los_Angeles.jpg DelhiFlyover_EDITED.jpg section of National Highway 8 connecting Delhi to Gurgaon]] Careful design and construction of a road can reduce any negative environmental impacts. Road_in_Rain.JPG Water management systems can be used to reduce the effect of pollutants from roads.[84][85] Rainwater and snowmelt running off of roads tends to pick up gasoline, motor oil, heavy metals, trash and other pollutants and result in water pollution. Road runoff is a major source of nickel, copper, zinc, cadmium, lead and polycyclic aromatic hydrocarbons (PAHs), which are created as combustion byproducts of gasoline and other fossil fuels.[86]
+section of National Highway 8 connecting Delhi to Gurgaon]] Careful design and construction of a road can reduce any negative environmental impacts. Water management systems can be used to reduce the effect of pollutants from roads.[84][85] Rainwater and snowmelt running off of roads tends to pick up gasoline, motor oil, heavy metals, trash and other pollutants and result in water pollution. Road runoff is a major source of nickel, copper, zinc, cadmium, lead and polycyclic aromatic hydrocarbons (PAHs), which are created as combustion byproducts of gasoline and other fossil fuels.[86]
 
 De-icing chemicals and sand can run off into roadsides, contaminate groundwater and pollute surface waters;[87] and road salts can be toxic to sensitive plants and animals.[88] Sand applied to icy roads can be ground up by traffic into fine particulates and contribute to air pollution.
 
@@ -230,12 +227,10 @@ Roads are a chief source of noise pollution. In the early 1970s it was recognize
 
 Motor vehicle emissions contribute air pollution. Concentrations of air pollutants and adverse respiratory health effects are greater near the road than at some distance away from the road.[90] Road dust kicked up by vehicles may trigger allergic reactions.[91] In addition, on-road transportation greenhouse gas emissions are the largest single cause of climate change, scientists say.[92]
 
-A22_northbound_towards_East_Grinstead_-_geograph.org.uk_-_68150.jpg with line markings near Summer Hill, East Sussex, England]] Kaluga_Region_Trassa.jpgs in Kaluga Oblast, Russia]] Lützelflüh-Goldbach3.jpgs in the outskirts of Bern, Switzerland]] NH_73_from_Bangalore.JPG going to Bangalore]] 401_3x3x3x3.jpg, a route with a collector / express setup]] Manila_Cavite_Expwy_Tollgate.jpg ]] Ruta_Nacional_9_en_la_Quebrada_de_Humahuaca,_Jujuy_(1).jpg
+with line markings near Summer Hill, East Sussex, England]] s in Kaluga Oblast, Russia]] s in the outskirts of Bern, Switzerland]] going to Bangalore]] , a route with a collector / express setup]] ]]
 
 
 Regulation
-
-drive_on_left_in_australia.jpg
 
 Right- and left-hand traffic
 
@@ -246,7 +241,7 @@ About 33% of the world by population drive on the left, and 67% keep right. By r
 
 Economics
 
-Roadmumbaiindia.jpg with left-hand traffic]] Transport economics is used to understand both the relationship between the transport system and the wider economy and the complex network effects when there are multiple paths and competing modes for both personal and freight (road/rail/air/ferry) and where Induced demand can result in increased on decreased transport levels when road provision is increased by building new roads or decreased (for example California State Route 480). Roads are generally built and maintained by the public sector using taxation although implementation may be through private contractors).[97][98] or occasionally using road tolls.[99]
+with left-hand traffic]] Transport economics is used to understand both the relationship between the transport system and the wider economy and the complex network effects when there are multiple paths and competing modes for both personal and freight (road/rail/air/ferry) and where Induced demand can result in increased on decreased transport levels when road provision is increased by building new roads or decreased (for example California State Route 480). Roads are generally built and maintained by the public sector using taxation although implementation may be through private contractors).[97][98] or occasionally using road tolls.[99]
 
 Public-private partnerships are a way for communities to address the rising cost by injecting private funds into the infrastructure. There are four main ones:[100]
 

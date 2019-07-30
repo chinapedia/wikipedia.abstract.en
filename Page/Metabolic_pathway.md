@@ -9,8 +9,6 @@ Pathways are required for the maintenance of homeostasis within an organism and 
 
 Overview
 
-Net_reactions_for_glycolysis_of_glucose,_oxidative_decarboxylation_of_pyruvate,_and_Krebs_cycle..png
-
 Each metabolic pathway consists of a series of biochemical reactions that are connected by their intermediates: the products of one reaction are the substrates for subsequent reactions, and so on. Metabolic pathways are often considered to flow in one direction. Although all chemical reactions are technically reversible, conditions in the cell are often such that it is thermodynamically more favorable for flux to proceed in one direction of a reaction.[9] For example, one pathway may be responsible for the synthesis of a particular amino acid, but the breakdown of that amino acid may occur via a separate and distinct pathway. One example of an exception to this "rule" is the metabolism of glucose. Glycolysis results in the breakdown of glucose, but several reactions in the glycolysis pathway are reversible and participate in the re-synthesis of glucose (gluconeogenesis).
 
 -   Glycolysis was the first metabolic pathway discovered:
@@ -35,7 +33,7 @@ Fructose − 6 − Phosphate + ATP → Fructose − 1, 6�
 
 Cellular respiration
 
-A core set of energy-producing catabolic pathways occur within all living organisms in some form. These pathways transfer the energy released by breakdown of nutrients into ATP and other small molecules used for energy (e.g. GTP, NADPH, FADH). All cells can perform anaerobic respiration by glycolysis. Additionally, most organisms can perform more efficient aerobic respiration through the citric acid cycle and oxidative phosphorylation. Additionally plants, algae and cyanobacteria are able to use sunlight to anabolically synthesize compounds from non-living matter by photosynthesis. Gluconeogenese_Schema_2.png
+A core set of energy-producing catabolic pathways occur within all living organisms in some form. These pathways transfer the energy released by breakdown of nutrients into ATP and other small molecules used for energy (e.g. GTP, NADPH, FADH). All cells can perform anaerobic respiration by glycolysis. Additionally, most organisms can perform more efficient aerobic respiration through the citric acid cycle and oxidative phosphorylation. Additionally plants, algae and cyanobacteria are able to use sunlight to anabolically synthesize compounds from non-living matter by photosynthesis.
 
 Anabolic pathway (anabolism)
 
@@ -44,8 +42,6 @@ In contrast to catabolic pathways, ANABOLIC PATHWAYS require an energy input to 
 An anabolic pathway is a biosynthetic pathway, meaning that it combines smaller molecules to form larger and more complex ones.[16] An example is the reversed pathway of glycolysis, otherwise known as gluconeogenesis, which occurs in the liver and sometimes in the kidney to maintain proper glucose concentration in the blood and supply the brain and muscle tissues with adequate amount of glucose. Although gluconeogenesis is similar to the reverse pathway of glycolysis, it contains three distinct enzymes from glycolysis that allow the pathway to occur spontaneously.[17] An example of the pathway for gluconeogenesis is illustrated in the image titled "Gluconeogenesis Mechanism".
 
 Amphibolic pathway
-
-Amphibolic Properties of the Citric Acid Cycle
 
 An AMPHIBOLIC PATHWAY is one that can be either catabolic or anabolic based on the availability of or the need for energy.[18] The currency of energy in a biological cell is adenosine triphosphate (ATP), which stores its energy in the phosphoanhydride bonds. The energy is utilized to conduct biosynthesis, facilitate movement, and regulate active transport inside of the cell.[19] Examples of amphibolic pathways are the citric acid cycle and the glyoxylate cycle. These sets of chemical reactions contain both energy producing and utilizing pathways.[20] To the right is an illustration of the amphibolic properties of the TCA cycle.
 

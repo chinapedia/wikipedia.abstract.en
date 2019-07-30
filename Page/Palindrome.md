@@ -7,11 +7,11 @@ The word "palindrome" was first published by Henry Peacham in his book, "The Tru
 
 History
 
-Sator_Square_at_Oppède.jpg.]] Palindromes date back at least to 79 AD, as a palindrome was found as a graffito at Herculaneum, a city buried by ash in that year. This palindrome, called the Sator Square, consists of a sentence written in Latin: "Sator Arepo Tenet Opera Rotas" ("The sower Arepo holds with effort the wheels"). It is remarkable for the fact that the first letters of each word form the first word, the second letters form the second word, and so forth. Hence, it can be arranged into a word square that reads in four different ways: horizontally or vertically from either top left to bottom right or bottom right to top left. As such, they can be referred to as palindromatic.
+.]] Palindromes date back at least to 79 AD, as a palindrome was found as a graffito at Herculaneum, a city buried by ash in that year. This palindrome, called the Sator Square, consists of a sentence written in Latin: "Sator Arepo Tenet Opera Rotas" ("The sower Arepo holds with effort the wheels"). It is remarkable for the fact that the first letters of each word form the first word, the second letters form the second word, and so forth. Hence, it can be arranged into a word square that reads in four different ways: horizontally or vertically from either top left to bottom right or bottom right to top left. As such, they can be referred to as palindromatic.
 
 A palindrome with the same square property is the Hebrew palindrome, "We explained the glutton who is in the honey was burned and incinerated", (פרשנו רעבתן שבדבש נתבער ונשרף; _perashnu: ra`avtan shebad'vash nitba`er venisraf_), credited to Abraham ibn Ezra in 1924,[2] and referring to the halachic question as to whether a fly landing in honey makes the honey _treif_ (non-kosher).
 
-Greek_palindrome_on_the_font.jpg]]
+]]
 
 The palindromic Latin riddle "_In girum imus nocte et consumimur igni_" ("we go in a circle at night and are consumed by fire") describes the behavior of moths. It is likely that this palindrome is from medieval rather than ancient times. The second word, borrowed from Greek, should properly be spelled _gyrum_.
 
@@ -72,7 +72,7 @@ A phonetic palindrome is a portion of speech that is identical or roughly identi
 
 Classical music
 
-Berg_lulu_palindrome_mirror_point.png Joseph Haydn's Symphony No. 47 in G is nicknamed "the Palindrome". The third movement, minuet and trio is a musical palindrome. The second half of the piece is the same as the first but backwards.
+Joseph Haydn's Symphony No. 47 in G is nicknamed "the Palindrome". The third movement, minuet and trio is a musical palindrome. The second half of the piece is the same as the first but backwards.
 
 The interlude from Alban Berg's opera _Lulu_ is a palindrome, as are sections and pieces, in arch form, by many other composers, including James Tenney, and most famously Béla Bartók. George Crumb also used musical palindrome to text paint the Federico García Lorca poem "¿Por qué nací?", the first movement of three in his fourth book of Madrigals. Igor Stravinsky's final composition, _The Owl and the Pussy Cat_, is a palindrome.
 
@@ -102,7 +102,6 @@ According to Guinness World Records, the Finnish 19-letter word _saippuakivikaup
 
 Biological structures
 
-DNA_palindrome.svg
 A: Palindrome, B: Loop, C: Stem]] In most genomes or sets of genetic instructions, palindromic motifs are found. The meaning of palindrome in the context of genetics is slightly different, however, from the definition used for words and sentences. Since the DNA is formed by two paired strands of nucleotides, and the nucleotides always pair in the same way (Adenine (A) with Thymine (T), Cytosine (C) with Guanine (G)), a (single-stranded) sequence of DNA is said to be a palindrome if it is equal to its complementary sequence read backward. For example, the sequence ACCTAGGT is palindromic because its complement is TGGATCCA, which is equal to the original sequence in reverse complement.
 
 A palindromic DNA sequence may form a hairpin. Palindromic motifs are made by the order of the nucleotides that specify the complex chemicals (proteins) that, as a result of those genetic instructions, the cell is to produce. They have been specially researched in bacterial chromosomes and in the so-called Bacterial Interspersed Mosaic Elements (BIMEs) scattered over them. Recently a research genome sequencing project discovered that many of the bases on the Y-chromosome are arranged as palindromes.[32] A palindrome structure allows the Y-chromosome to repair itself by bending over at the middle if one side is damaged.

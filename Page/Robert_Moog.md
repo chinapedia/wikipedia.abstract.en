@@ -20,7 +20,7 @@ In 1953, Moog produced his own theremin design, and the following year he publis
 
 Development of Moog synthesizer
 
-Moog_Modular_55_img2.jpg]] At Cornell, Moog began work on his first synthesizer modules with composer Herb Deutsch.[9] At the time, synthesizers were enormous, room-filling instruments;[10] Moog hoped to build a more compact synthesizer that would appeal to musicians.[11] He believed that practicality and affordability were the most important parameters.[12]
+]] At Cornell, Moog began work on his first synthesizer modules with composer Herb Deutsch.[9] At the time, synthesizers were enormous, room-filling instruments;[10] Moog hoped to build a more compact synthesizer that would appeal to musicians.[11] He believed that practicality and affordability were the most important parameters.[12]
 
 In 1964, Moog began creating the Moog synthesizer.[13] The synthesizer was composed of separate modules which created and shaped sounds, connected by patch cords.[14] One innovative feature was its envelope, which controlled how notes swell and fade.[15] Moog debuted the instrument at the 1964 Audio Engineering Society convention in New York.[16] It was much smaller than other synthesizers, such as the one introduced by the RCA a decade earlier, and much cheaper, at $10,000USD compared to the six-figure sums of other synthesizers.[17] Whereas the RCA's synthesizer was programmed with punchcards, Moog's synthesizer could be played via keyboard, making it attractive to musicians.[18] _New Scientist_ described it as the first commercial synthesizer.[19]
 
@@ -36,7 +36,7 @@ In 1971, following a recession, Moog Music took on investors, merged with anothe
 
 Big Briar and rebirth of Moog Music
 
-Dr._Moog_on_the_wall_art_-_Asheville,_North_Carolina_(2013-11-08_03.15.15_by_denise_carbonell).jpg In 1978, Moog moved to North Carolina and founded a new electronic instrument company, Big Briar.[39] He also worked as a consultant and vice president for new product research at Kurzweil Music Systems from 1984 to 1988.[40] In the early 1990s, he was a research professor of music at the University of North Carolina at Asheville.[41] In 2002, he renamed Big Briar to Moog Music after buying back the rights to the name.[42] In later years, he designed electronic instruments including a piano operated by touchscreen.[43]
+In 1978, Moog moved to North Carolina and founded a new electronic instrument company, Big Briar.[39] He also worked as a consultant and vice president for new product research at Kurzweil Music Systems from 1984 to 1988.[40] In the early 1990s, he was a research professor of music at the University of North Carolina at Asheville.[41] In 2002, he renamed Big Briar to Moog Music after buying back the rights to the name.[42] In later years, he designed electronic instruments including a piano operated by touchscreen.[43]
 
 Death
 

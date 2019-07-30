@@ -5,7 +5,7 @@ Classification
 
 Monomers can be classified in many ways. They can be subdivided into two broad classes, depending on the kind of the polymer that they form. Monomers that participate in condensation polymerization have a different stoichiometry than monomers that participate in addition polymerization:[3]
 
-    Condensation_polymerization_diacid_diamine.svg
+
 
 Other classifications include:
 

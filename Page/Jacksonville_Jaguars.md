@@ -9,7 +9,7 @@ Franchise history
 
 1989–1994
 
-US_Navy_041227-N-6631E-001_Commanding_officer_of_the_aircraft_carrier_USS_John_F._Kennedy_(CV_67),_Capt._Dennis_E._FitzPatrick_shakes_hands_with_Jacksonville_Jaguar_owner_Wayne_Weaver.jpg (right) was the first owner of the Jacksonville Jaguars from 1993 to 2011.]] In 1989, the prospective ownership group _Touchdown Jacksonville!_ was organized. The group initially included future Florida Governor Jeb Bush and Jacksonville developer Tom Petway, and came to be led by shoe magnate Wayne Weaver, founder of Nine West. In 1991, the NFL announced plans to add two expansion teams in 1994 (later delayed until 1995), its first expansion since the 1976 addition of the Seattle Seahawks and the Tampa Bay Buccaneers. Touchdown Jacksonville! announced its bid for a team, and Jacksonville was ultimately chosen as one of five finalists, along with Charlotte, St. Louis, Baltimore, and Memphis.[5]
+(right) was the first owner of the Jacksonville Jaguars from 1993 to 2011.]] In 1989, the prospective ownership group _Touchdown Jacksonville!_ was organized. The group initially included future Florida Governor Jeb Bush and Jacksonville developer Tom Petway, and came to be led by shoe magnate Wayne Weaver, founder of Nine West. In 1991, the NFL announced plans to add two expansion teams in 1994 (later delayed until 1995), its first expansion since the 1976 addition of the Seattle Seahawks and the Tampa Bay Buccaneers. Touchdown Jacksonville! announced its bid for a team, and Jacksonville was ultimately chosen as one of five finalists, along with Charlotte, St. Louis, Baltimore, and Memphis.[5]
 
 Jacksonville was considered the least likely expansion candidate for several reasons. The Jacksonville metropolitan area and television market were smaller than those of nearly every team in the league.[6] Jacksonville was the 54th largest television market, and only Green Bay had a smaller TV market (Jacksonville has since moved up to 42nd, trailed by New Orleans, Buffalo and Green Bay.)[7] Although Jacksonville was the 15th largest city in the nation at the time (It has since grown to become the 11th-largest), it has always been a medium-sized market because the surrounding suburbs and rural areas are far smaller than the city itself. There were 635,000 people in Jacksonville proper according to the 1990 census, but only 900,000 people in the metropolitan area.[8][9] Additionally, the Gator Bowl was outdated, and the ownership group struggled to negotiate a lease with the city. The troubled negotiations over the Gator Bowl lease led the ownership group to withdraw from the NFL expansion bidding in July 1993.[10]
 
@@ -19,17 +19,15 @@ After the Gator Bowl game on December 31, 1993, the old stadium was essentially 
 
 1995–2002
 
-Army.Coughlin.jpg was Jacksonville's head coach for its first eight seasons]] In January 1994 Wayne Weaver chose Tom Coughlin as the first-ever head coach of the Jaguars. Coughlin had worked in the NFL as a position coach, but he had been neither a head coach nor a coordinator in the NFL.[14]
+was Jacksonville's head coach for its first eight seasons]] In January 1994 Wayne Weaver chose Tom Coughlin as the first-ever head coach of the Jaguars. Coughlin had worked in the NFL as a position coach, but he had been neither a head coach nor a coordinator in the NFL.[14]
 
 The Jaguars' hiring of Coughlin contrasted with the hiring moves made by their fellow expansion team. The same month that Weaver hired Coughlin as his head _coach_, Carolina Panthers owner Jerry Richardson went a more conventional route and hired former Buffalo Bills general manager Bill Polian as the Panthers' first GM (the Panthers' head coach, Dom Capers, would not be hired until a full year after Coughlin). As it emerged that Weaver had no intention of hiring a general manager, it became apparent that Coughlin would have most of the authority regarding hiring decisions. Coughlin spent his year as "head coach without a team"[15] preparing for the personnel moves that would come from the expansion draft, free agency, and the rookie draft in the spring of 1995.
 
 1995
 
-JaguarsInauguralSeasonlogo.gif
-
 Along with the Carolina Panthers, the Jacksonville Jaguars entered the NFL as the first expansion teams in almost 20 years. Both teams participated in the 1995 NFL expansion draft, with the Jaguars taking Steve Beuerlein with the first pick. Beuerlein quickly lost his starting job to former Green Bay Packers backup Mark Brunell. The Jaguars finished their inaugural season with a record of 4–12. Both the Jaguars and the Panthers (7–9) broke the previous record for most wins by an expansion team (3) set by the Cincinnati Bengals in 1968.[16] The inaugural season featured many of the players who would lead Jacksonville into the playoffs in the team's next four seasons, including quarterback Mark Brunell (acquired in a draft day trade from Green Bay), offensive lineman Tony Boselli (drafted with the 2nd pick overall in the 1995 NFL Draft) running back James Stewart (also drafted in 1995), and wide receiver Jimmy Smith (signed as a free agent).
 
-MarkBrunell95.jpg practicing with the Jaguars before their inaugural game on September 3, 1995.]] The team played its first regular season game at home in front of a crowd of 72,363 on September 3, 1995, a 10–3 loss against the Houston Oilers. The team picked up its first win in Week 4 as the Jaguars defeated the Oilers 17–16 on October 1 in Houston. The next week against the Pittsburgh Steelers, the Jaguars earned their first home win by defeating the eventual AFC Champions 20–16. The team's other two wins came in a season sweep of the Cleveland Browns including a Week 17 24–21 victory sealed by a Mike Hollis 34-yard field goal[17] in the Browns' final game before the team relocated to Baltimore and was renamed the Ravens.
+practicing with the Jaguars before their inaugural game on September 3, 1995.]] The team played its first regular season game at home in front of a crowd of 72,363 on September 3, 1995, a 10–3 loss against the Houston Oilers. The team picked up its first win in Week 4 as the Jaguars defeated the Oilers 17–16 on October 1 in Houston. The next week against the Pittsburgh Steelers, the Jaguars earned their first home win by defeating the eventual AFC Champions 20–16. The team's other two wins came in a season sweep of the Cleveland Browns including a Week 17 24–21 victory sealed by a Mike Hollis 34-yard field goal[17] in the Browns' final game before the team relocated to Baltimore and was renamed the Ravens.
 
 1996
 
@@ -39,7 +37,7 @@ The Jaguars visited the Buffalo Bills in their first playoff game in franchise h
 
 1997–99
 
-JaguarsBengalsJan2000.jpg In 1997, the franchise's third season, the Jaguars and the Steelers both finished the season with an 11–5 record, tops in the AFC Central Division. Pittsburgh won the division in a tiebreaker as a result of having higher net in division games than Jacksonville.[23] As a result, the Jaguars settled for 2nd place in the division, a Wild Card berth and, for the second straight year, the 5th seed in the AFC playoffs. The Jags postseason would end quickly as they fell in their first game, a 42–17 defeat against the eventual Super Bowl champion Denver Broncos at Mile High Stadium. The Broncos, led by Terrell Davis, ran at will against the Jaguars, rushing for 5 touchdowns and over 300 yards.[24]
+In 1997, the franchise's third season, the Jaguars and the Steelers both finished the season with an 11–5 record, tops in the AFC Central Division. Pittsburgh won the division in a tiebreaker as a result of having higher net in division games than Jacksonville.[23] As a result, the Jaguars settled for 2nd place in the division, a Wild Card berth and, for the second straight year, the 5th seed in the AFC playoffs. The Jags postseason would end quickly as they fell in their first game, a 42–17 defeat against the eventual Super Bowl champion Denver Broncos at Mile High Stadium. The Broncos, led by Terrell Davis, ran at will against the Jaguars, rushing for 5 touchdowns and over 300 yards.[24]
 
 In 1998, the Jaguars again finished 11–5 and won their first AFC Central Division title. The team became the first NFL expansion team to make the playoffs three times in its first four seasons of play. In the Wild Card Round, the Jaguars hosted their first home playoff game, a 25–10 win over the New England Patriots. The team's season ended the next week in the Divisional Round as the New York Jets defeated the Jaguars 34–24.[25]
 
@@ -55,13 +53,13 @@ After the 2002 season, head coach Tom Coughlin was fired after eight seasons, le
 
 2003–2011
 
-Jack_del_Rio_2008.jpg set an NFL-record for consecutive seasons (9) coaching a team without once winning a division title.]]
+set an NFL-record for consecutive seasons (9) coaching a team without once winning a division title.]]
 
 2003–05
 
 In 2003, the Jaguars hired Jack Del Rio as head coach. Del Rio was a linebacker during the late 80s and early 90s before retiring. He was formerly the Carolina Panthers' defensive coordinator, bringing the team's defensive ranking from 30th to second. Prior to that, Del Rio was the Baltimore Ravens linebackers coach, participating in that capacity on the Ravens' record setting championship 2000 defense. The Jaguars selected quarterback Byron Leftwich with the seventh pick of the NFL draft. The Jaguars had high hopes for their new quarterback. The team had many failures and heartbreaking moments, ending the 2003 season at 5–11 and missing the playoffs for the fourth consecutive season. Despite resolving their salary cap problems, the team's rebuilding was clearly taking longer than expected.
 
-Byron_Leftwich_Jaguars_2005.jpg was the quarterback of the Jaguars from 2003 to 2006]] Maurice_Jones-Drew_ESPNWeekend2010-066.jpg, one of the league's smallest running backs turned out to be a second round steal for the Jags]] Reggie_Nelson_Reggie_Wayne_MNF.jpg hitting Reggie Wayne of the Indianapolis Colts on Monday Night Football in 2007.]] Josh_Scobee.jpg is the all-time leading scorer for the Jaguars with 1,022 points.]]
+was the quarterback of the Jaguars from 2003 to 2006]] , one of the league's smallest running backs turned out to be a second round steal for the Jags]] hitting Reggie Wayne of the Indianapolis Colts on Monday Night Football in 2007.]] is the all-time leading scorer for the Jaguars with 1,022 points.]]
 
 The 2004 season, the 10th season of the Jaguars franchise, resulted in a 9–7 record, their first winning season since 1999, with road victories against the Green Bay Packers at Lambeau Field and the Indianapolis Colts at the RCA Dome. The Jaguars' defense was a strong suit, as it included two Pro Bowl players, defensive tackles Marcus Stroud and John Henderson. Josh Scobee was selected in the 5th round of the 2004 NFL Draft and became a dominant placekicker for the Jaguars setting multiple franchise records.[30] Byron Leftwich enjoyed a solid year in 2004, helped by strong performances from holdovers Fred Taylor and Jimmy Smith. Unfortunately, Taylor sustained a season-ending injury at Green Bay. The very next week the Jaguars fell to the Houston Texans, which would ultimately eliminate them from playoff contention.[31]
 
@@ -85,15 +83,15 @@ However, the Jaguars failed to live up to those expectations, struggling to a 5�
 
 2009–2010
 
-The Jaguars hoped to begin a new era in 2009 under their first-ever general manager, Gene Smith. Smith made his mark early on in the 2009 NFL Draft by acquiring talent such as Eugene Monroe, Terrance Knighton, Derek Cox, Eben Britton and Mike Thomas, who all made significant contributions in their rookie years. The Jaguars finished off this season 7–9 and did not manage to make the playoffs. In the offseason, the Jaguars parted ways with veteran players John Henderson and Reggie Hayward as part of the team's "youth movement". Jaguars2009Entrance.jpg However, 2009 also saw the team's attendance numbers plummet, leading to television blackouts and speculation that the team could eventually be moved or sold.[37] 2009 marked a low point, with the team's attendance averaging around 50,000,[38] causing seven of the eight home games to be blacked out, and leading NFL commissioner Roger Goodell to address the issue with owner Wayne Weaver.[39][40] Jacksonville is one of the league's smallest markets, though its stadium is relatively large; since 2005 the team has covered nearly 10,000 of the stadium's 73,000 total seats with tarp in order to lower the stadium's official capacity to a more typical size and reduce blackouts.[41] 73,000 total seats still ranks as one of the largest in the NFL. From 2008 the team further suffered from the late-2000s recession, which hit Florida particularly hard, and structural changes within the NFL that disadvantage teams in smaller markets.[42]
+The Jaguars hoped to begin a new era in 2009 under their first-ever general manager, Gene Smith. Smith made his mark early on in the 2009 NFL Draft by acquiring talent such as Eugene Monroe, Terrance Knighton, Derek Cox, Eben Britton and Mike Thomas, who all made significant contributions in their rookie years. The Jaguars finished off this season 7–9 and did not manage to make the playoffs. In the offseason, the Jaguars parted ways with veteran players John Henderson and Reggie Hayward as part of the team's "youth movement". However, 2009 also saw the team's attendance numbers plummet, leading to television blackouts and speculation that the team could eventually be moved or sold.[37] 2009 marked a low point, with the team's attendance averaging around 50,000,[38] causing seven of the eight home games to be blacked out, and leading NFL commissioner Roger Goodell to address the issue with owner Wayne Weaver.[39][40] Jacksonville is one of the league's smallest markets, though its stadium is relatively large; since 2005 the team has covered nearly 10,000 of the stadium's 73,000 total seats with tarp in order to lower the stadium's official capacity to a more typical size and reduce blackouts.[41] 73,000 total seats still ranks as one of the largest in the NFL. From 2008 the team further suffered from the late-2000s recession, which hit Florida particularly hard, and structural changes within the NFL that disadvantage teams in smaller markets.[42]
 
 In 2010, to address this issue, the team and the City of Jacksonville undertook several measures aimed at ensuring the franchise's continued viability in Jacksonville. Supporters began the "Team Teal" drive to drum up ticket sales.[43][44] The city negotiated a five-year, $16.6 million naming rights deal with Jacksonville-based EverBank to rename the stadium EverBank Field.[45][46] As a result, the Jaguars' attendance increased dramatically in 2010. While attendance figures were stagnant for most of the NFL, Jacksonville saw an increase of 36.5%, by far the highest in the league, and had none of their home games blacked out.[47][48]
 
-NightJXFL112.jpg with their "Go Jaguars" lighting for the 2011 season.]] The 2010 season proved a big year for the Jaguars on the field as well. Running back Maurice Jones-Drew emerged as second in the league in rushing yards and David Garrard threw for 23 touchdowns, a franchise record. Marcedes Lewis went to his first Pro Bowl and the Jags had one of the best young defensive tackle pairs with Terrance Knighton and rookie Tyson Alualu.[49] Josh Scobee set a team record with a 59-yard field goal to beat the Indianapolis Colts. Heading into December, Jacksonville was at the top of the AFC South and in playoff contention. In Week 15, they lost to Indianapolis, 34–24, which placed the Colts back atop the AFC South. The Jaguars lost their last two games, placing themselves out of playoff contention. They finished the season 8–8.
+with their "Go Jaguars" lighting for the 2011 season.]] The 2010 season proved a big year for the Jaguars on the field as well. Running back Maurice Jones-Drew emerged as second in the league in rushing yards and David Garrard threw for 23 touchdowns, a franchise record. Marcedes Lewis went to his first Pro Bowl and the Jags had one of the best young defensive tackle pairs with Terrance Knighton and rookie Tyson Alualu.[49] Josh Scobee set a team record with a 59-yard field goal to beat the Indianapolis Colts. Heading into December, Jacksonville was at the top of the AFC South and in playoff contention. In Week 15, they lost to Indianapolis, 34–24, which placed the Colts back atop the AFC South. The Jaguars lost their last two games, placing themselves out of playoff contention. They finished the season 8–8.
 
 2011
 
-US_Navy_110911-N-YR391-035_Service_members,_firemen_and_police_officers_participate_in_a_ceremony_commemorating_the_10th_anniversary_of_the_Sept._1.jpg.]] In the 2011 NFL draft, the Jaguars traded a first and a second round pick in order to move up to the 10th pick and select Missouri quarterback Blaine Gabbert.[50]
+.]] In the 2011 NFL draft, the Jaguars traded a first and a second round pick in order to move up to the 10th pick and select Missouri quarterback Blaine Gabbert.[50]
 
 On September 6, 2011, quarterback David Garrard was cut from the team just days before the start of the season; Luke McCown was named starter. The move was similar to the one that named Garrard himself the starter over Byron Leftwich in 2007. McCown started two games until he threw four interceptions in a lopsided loss to the New York Jets and Blaine Gabbert was named the starter the following week. The Jaguars offense would continue to struggle under the rookie quarterback, losing the next 4 games in a row, until an upset victory over the Baltimore Ravens at home on Monday Night Football.
 
@@ -101,7 +99,7 @@ On November 29, 2011, owner Wayne Weaver announced the firing of head coach Jack
 
 2012
 
-Shahid_Khan_2012.jpg purchased the Jaguars in 2012.]] Immediately following the announcement of Del Rio being fired, Weaver also announced that the team would be sold to Illinois businessman Shahid Khan.[51][52] Khan's assumption of ownership was approved a couple of weeks later by the NFL team owners, and Khan took over full ownership on January 4, 2012. He immediately began the team's search for head coaching candidates.[53]
+purchased the Jaguars in 2012.]] Immediately following the announcement of Del Rio being fired, Weaver also announced that the team would be sold to Illinois businessman Shahid Khan.[51][52] Khan's assumption of ownership was approved a couple of weeks later by the NFL team owners, and Khan took over full ownership on January 4, 2012. He immediately began the team's search for head coaching candidates.[53]
 
 On February 13, 2012, the Jaguars hired MetLife Stadium president and CEO Mark Lamping as team president. Lamping also spent 13 years as the president of the St. Louis Cardinals. Lamping is the second team president in franchise history and the first since 1997, when David Seldin left that position.[54]
 
@@ -117,19 +115,19 @@ On August 21, 2012, the Jaguars announced they had finalized a deal to play one 
 
 2013–2016
 
-Airman,_Jaguars_take_American_football_to_UK's_capital_131027-F-WZ808-034.jpg game at Wembley Stadium in London on October 27, 2013.]]
+game at Wembley Stadium in London on October 27, 2013.]]
 
 On January 8, 2013, former Atlanta Falcons Director of Player Personnel David Caldwell was hired as the second full-time General Manager in Jaguars history.[61] He formerly served as a scout for the Indianapolis Colts for 10 years from 1998–2007. His first task with the team was to lead the interview process for a new head coach. Nine days later former Seattle Seahawks defensive coordinator Gus Bradley was named head coach of the Jaguars.[62] The Jaguars struggled early on in 2013 and went into the bye week with an 0–8 record. On November 1, wide receiver Justin Blackmon was suspended indefinitely after violating the NFL's Policy and Program for Substances of Abuse.[63] Despite the loss of Blackmon the Jaguars got their first win with Gus Bradley on November 10 with a 29–27 victory over the Tennessee Titans. This was followed by a respectable showing against the Arizona Cardinals, despite a 27–14 loss, and the Jaguars' second and third victory of the season against the Houston Texans and the Cleveland Browns. The Jaguars would win again the very next week against the Houston Texans 27–20 on Thursday night, improving to 4–9. They finished the season 4–12.
 
 2014–2015
 
-Blake_Bortles_hands_off_to_Toby_Gerhart_vs._Ravens_2014.jpg handing off to Toby Gerhart in December 2014.]] After finishing the 2013 season with a 4–12 record, a two-win improvement over the previous season, the Jaguars traded their 2011 NFL draft first round draft pick Blaine Gabbert to the San Francisco 49ers for the 6th round pick of the 2014 NFL draft.[64] Maurice Jones-Drew, after 7 years with the Jaguars, also left the team and signed a three-year contract with the Oakland Raiders.[65]
+handing off to Toby Gerhart in December 2014.]] After finishing the 2013 season with a 4–12 record, a two-win improvement over the previous season, the Jaguars traded their 2011 NFL draft first round draft pick Blaine Gabbert to the San Francisco 49ers for the 6th round pick of the 2014 NFL draft.[64] Maurice Jones-Drew, after 7 years with the Jaguars, also left the team and signed a three-year contract with the Oakland Raiders.[65]
 
 In the first round of the 2014 NFL draft the Jaguars selected quarterback Blake Bortles from University of Central Florida and then wide receiver Marqise Lee from University of Southern California in the second round. The new draft picks helped put more confidence in the struggling team.[66] Justin Blackmon was suspended yet again for violating the NFL's Policy and Program for Substances of Abuse in July.[67] Later in July, EverBank Field unveiled their two new endzone scoreboards, which are considered to be the world's largest.[68] The Jaguars managed to end their season with a 3–13 record.[69]
 
 Dante Fowler Jr. was selected by the Jaguars as the third overall pick in the 2015 NFL draft.[70] However, Fowler tore his ACL at rookie minicamp on May 8 and did not return for the 2015 season.[71] Josh Scobee was traded to the Pittsburgh Steelers for a 2016 NFL Draft sixth round pick. Jason Myers took over as the main placekicker for the Jaguars.[72] The Jaguars finished the 2015 season with a record of 5–11, the team's fifth straight losing season and their eighth straight non-winning season.
 
-JaguarsEverbank15.jpg performed before a Jaguars game at EverBank Field in 2015.]]
+performed before a Jaguars game at EverBank Field in 2015.]]
 
 2016–2017
 
@@ -194,7 +192,7 @@ Prior to the 2012 season, new Jaguars owner Shahid Khan announced that the team 
 
 2013–2017
 
-Jags_Uniforms.jpg–2017.]]
+–2017.]]
 
 On April 23, 2013, the Jaguars unveiled new uniforms designed by Nike. The primary home jersey is black with white numerals outlined in teal and gold. The road jersey is white with teal numerals outlined in black and gold, marking the first time since 2003 that the team has used teal numbers on their road jersey. The alternate jersey is teal with black numerals outlined in white and gold. The team had never before used black numbers on their teal jersey. All three jerseys feature a contrasting stripe that bends around the neck, and semi-glossy patches on the shoulders meant to resemble claw marks. The team added their new shield logo onto a patch just above the player's heart, meant to pay tribute to Jacksonville's military heritage.[92]
 
@@ -210,7 +208,7 @@ On April 19, 2018, the Jaguars again revealed re-designed uniforms. The new desi
 
 Mascot
 
-Phil_Stacey_American_Idol_finalist.jpg'' season 6 finalist Phil Stacey.]] Since his introduction in 1996, Jaxson de Ville has served as the Jaguars' mascot. Jaxson entertains the crowd before and during games with his antics. The mascot has established a reputation for making dramatic entrances including bungee jumping off the stadium lights, sliding down a rope from the scoreboard and parachuting into the stadium.
+'' season 6 finalist Phil Stacey.]] Since his introduction in 1996, Jaxson de Ville has served as the Jaguars' mascot. Jaxson entertains the crowd before and during games with his antics. The mascot has established a reputation for making dramatic entrances including bungee jumping off the stadium lights, sliding down a rope from the scoreboard and parachuting into the stadium.
 
 Jaxson's antics got him into trouble in 1998 and stemmed the changing of the NFL's mascot rules, and also caused him to calm down.[96] However, Jaxson was still seen, by some, as a mascot that gets in the way during the game. After the October 22, 2007 game against Indianapolis, Colts President Bill Polian complained to the NFL, and Jaxson was reprimanded again.[97][98]
 
@@ -277,7 +275,7 @@ Players of note
 
 Retired numbers
 
-Prideofthejaguars15.jpg Although not officially retired, the number 71 worn by offensive tackle Tony Boselli, the Jaguars' first-ever draft pick, has not been worn since his retirement in 2002.[114] According to team officials, while the number is not in circulation, the number (along with Fred Taylor's number 28) is officially available for use if the circumstances warrant it.[115]
+Although not officially retired, the number 71 worn by offensive tackle Tony Boselli, the Jaguars' first-ever draft pick, has not been worn since his retirement in 2002.[114] According to team officials, while the number is not in circulation, the number (along with Fred Taylor's number 28) is officially available for use if the circumstances warrant it.[115]
 
 Pride of the Jaguars
 
@@ -338,7 +336,7 @@ Current coaching staff
 
 Work in the community
 
-JagsFound.gif The Jacksonville Jaguars Foundation was established in 1994, when the franchise deal was first announced.[119] Since then, the Foundation has given over $20 million to area efforts in community improvement.[120] The Foundation focuses on many initiatives, such as Honor Rows, anti-tobacco programs, NFL Play 60, and support for veterans.[121] The Foundation grants over $1 million annually to organizations that assist "economically and socially disadvantaged youth and families".[122]
+The Jacksonville Jaguars Foundation was established in 1994, when the franchise deal was first announced.[119] Since then, the Foundation has given over $20 million to area efforts in community improvement.[120] The Foundation focuses on many initiatives, such as Honor Rows, anti-tobacco programs, NFL Play 60, and support for veterans.[121] The Foundation grants over $1 million annually to organizations that assist "economically and socially disadvantaged youth and families".[122]
 
 The Jaguars' first head coach, Tom Coughlin, established the Tom Coughlin Jay Fund Foundation in 1996 to help young cancer victims and their families with emotional and financial assistance. The charity remained in Jacksonville after Coughlin left to coach the New York Giants.[123]
 

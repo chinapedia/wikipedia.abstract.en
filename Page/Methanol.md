@@ -35,7 +35,7 @@ Methanol is primarily converted to formaldehyde, which is widely used in many ar
 
     2 CH₃OH + O₂ → 2 CH₂O + 2 H₂O
 
-Acetic acid can be produced from methanol. Cativa-process-catalytic-cycle.png converts methanol into acetic acid.[23]]]
+Acetic acid can be produced from methanol. converts methanol into acetic acid.[23]]]
 
 Methanol and isobutene are combined to give methyl _tert_-butyl ether (MTBE). MTBE is a major octane booster in gasoline.
 

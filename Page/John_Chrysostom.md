@@ -23,13 +23,13 @@ In Antioch, over the course of twelve years (386–397), John gained popularity 
 
   Do you wish to honour the body of Christ? Do not ignore him when he is naked. Do not pay him homage in the temple clad in silk, only then to neglect him outside where he is cold and ill-clad. He who said: "This is my body" is the same who said: "You saw me hungry and you gave me no food", and "Whatever you did to the least of my brothers you did also to me"... What good is it if the Eucharistic table is overloaded with golden chalices when your brother is dying of hunger? Start by satisfying his hunger and then with what is left you may adorn the altar as well.''[17]
 
-St.Patrick's_Cathedral_NYC2.jpg, New York City]] His straightforward understanding of the Scriptures – in contrast to the Alexandrian tendency towards allegorical interpretation – meant that the themes of his talks were practical, explaining the Bible's application to everyday life. Such straightforward preaching helped Chrysostom to garner popular support. He founded a series of hospitals in Constantinople to care for the poor.[18]
+, New York City]] His straightforward understanding of the Scriptures – in contrast to the Alexandrian tendency towards allegorical interpretation – meant that the themes of his talks were practical, explaining the Bible's application to everyday life. Such straightforward preaching helped Chrysostom to garner popular support. He founded a series of hospitals in Constantinople to care for the poor.[18]
 
 One incident that happened during his service in Antioch illustrates the influence of his homilies. When Chrysostom arrived in Antioch, Flavian, the bishop of the city, had to intervene with Emperor Theodosius I on behalf of citizens who had gone on a rampage mutilating statues of the Emperor and his family. During the weeks of Lent in 387, John preached more than twenty homilies in which he entreated the people to see the error of their ways. These made a lasting impression on the general population of the city: many pagans converted to Christianity as a result of the homilies. As a result, Theodosius' vengeance was not as severe as it might have been.[19]
 
 Archbishop of Constantinople
 
-Augustins_-_Saint_Jean_Chrysostome_et_l'Impératrice_Eudoxie_-_Jean_Paul_Laurens_2004_1_156.jpg, in a 19th-century painting by Jean-Paul Laurens]]
+, in a 19th-century painting by Jean-Paul Laurens]]
 
 In the autumn of 397, John was appointed Archbishop of Constantinople, after having been nominated without his knowledge by the eunuch Eutropius. He had to leave Antioch in secret due to fears that the departure of such a popular figure would cause civil unrest.[20]
 
@@ -53,7 +53,7 @@ John wrote letters which still held great influence in Constantinople. As a resu
 
 Veneration and canonization
 
-John_Chrysostom_Louvre_OA3970.jpg 11th-century soapstone relief of John Chrysostom, Louvre]] Menologion_of_Basil_061.jpg in Constantinople]] John came to be venerated as a saint soon after his death. Almost immediately after, an anonymous supporter of John (known as pseudo-Martyrius) wrote a funeral oration to reclaim John as a symbol of Christian orthodoxy.[35] But three decades later, some of his adherents in Constantinople remained in schism.[36] Saint Proclus, Patriarch of Constantinople (434–446), hoping to bring about the reconciliation of the Johannites, preached a homily praising his predecessor in the Church of Hagia Sophia. He said, "O John, your life was filled with sorrow, but your death was glorious. Your grave is blessed and reward is great, by the grace and mercy of our Lord Jesus Christ O graced one, having conquered the bounds of time and place! Love has conquered space, unforgetting memory has annihilated the limits, and place does not hinder the miracles of the saint."[37]
+11th-century soapstone relief of John Chrysostom, Louvre]] in Constantinople]] John came to be venerated as a saint soon after his death. Almost immediately after, an anonymous supporter of John (known as pseudo-Martyrius) wrote a funeral oration to reclaim John as a symbol of Christian orthodoxy.[35] But three decades later, some of his adherents in Constantinople remained in schism.[36] Saint Proclus, Patriarch of Constantinople (434–446), hoping to bring about the reconciliation of the Johannites, preached a homily praising his predecessor in the Church of Hagia Sophia. He said, "O John, your life was filled with sorrow, but your death was glorious. Your grave is blessed and reward is great, by the grace and mercy of our Lord Jesus Christ O graced one, having conquered the bounds of time and place! Love has conquered space, unforgetting memory has annihilated the limits, and place does not hinder the miracles of the saint."[37]
 
 These homilies helped to mobilize public opinion, and the patriarch received permission from the emperor to return Chrysostom's relics to Constantinople, where they were enshrined in the Church of the Holy Apostles on 28 January 438. The Eastern Orthodox Church commemorates him as a "Great Ecumenical Teacher", with Basil the Great and Gregory the Theologian. These three saints, in addition to having their own individual commemorations throughout the year, are commemorated together on 30 January, a feast known as the Synaxis of the Three Hierarchs.[38]
 
@@ -71,7 +71,7 @@ Homilies
 
 Paschal Homily
 
-Nicephorus_III_and_chrysostome_BnF_Coislin79_fol2v.jpg receives a book of homilies from John Chrysostom; the Archangel Michael stands on his left (11th-century illuminated manuscript).]] The best known of his many homilies, the Paschal Homily (_Hieratikon_), is rather brief. In the Eastern Orthodox Church it is traditionally read in full each year at the Paschal Divine Liturgy (eucharistic) service following the midnight Orthros (or Matins).
+receives a book of homilies from John Chrysostom; the Archangel Michael stands on his left (11th-century illuminated manuscript).]] The best known of his many homilies, the Paschal Homily (_Hieratikon_), is rather brief. In the Eastern Orthodox Church it is traditionally read in full each year at the Paschal Divine Liturgy (eucharistic) service following the midnight Orthros (or Matins).
 
 General
 
@@ -136,7 +136,7 @@ James Joyce's novel _Ulysses_ includes a character named Mulligan who brings 'Ch
 
 The legend of the penance of Saint John Chrysostom
 
-Lucas_Cranach_the_Elder_-_The_Penance_of_St._John_Chrysostom.jpg, 1509. The saint can be seen in the background on all fours, whilst the princess and their baby dominate the foreground.]]
+, 1509. The saint can be seen in the background on all fours, whilst the princess and their baby dominate the foreground.]]
 
 A late medieval legend (not included in the Golden Legend) relates that, when John Chrysostom was a hermit in the desert, he was approached by a royal princess in distress.[69] The Saint, thinking she was a demon, at first refused to help her, but the princess convinced him that she was a Christian and would be devoured by wild beasts if she were not allowed to enter his cave. He therefore admitted her, carefully dividing the cave in two parts, one for each of them. In spite of these precautions, the sin of fornication was committed, and in an attempt to hide it the distraught saint took the princess and threw her over a precipice. He then went to Rome to beg absolution, which was refused. Realising the appalling nature of his crimes, Chrysostom made a vow that he would never rise from the ground until his sins were expiated, and for years he lived like a beast, crawling on all fours and feeding on wild grasses and roots. Subsequently, the princess reappeared, alive, and suckling the saint's baby, who miraculously pronounced his sins forgiven. This last scene was very popular from the late 15th century onwards as a subject for engravers and artists. The theme was depicted by Albrecht Dürer around 1496,[70] Hans Sebald Beham and Lucas Cranach the Elder, among others. Martin Luther mocked this same legend in his _Die Lügend von S. Johanne Chrysostomo_ (1537).[71][72] The legend was recorded in Croatia in the 16th century.[73]
 

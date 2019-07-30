@@ -3,7 +3,7 @@ _PĀRAMITĀ_ (Sanskrit, Pali) or _PĀRAMĪ_ (Pāli) is "perfection" or "complete
 
 Etymology
 
-Donald S. Lopez, Jr. describes the etymology of the term: Astasahasrika_Prajnaparamita_Bodhisattva_Helping.jpeg benefitting sentient beings. Palm-leaf manuscript. Nalanda, Bihar, India]]
+Donald S. Lopez, Jr. describes the etymology of the term: benefitting sentient beings. Palm-leaf manuscript. Nalanda, Bihar, India]]
 
 
 Theravāda Buddhism

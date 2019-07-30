@@ -7,7 +7,7 @@ On 17 July 2016, seventeen projects by Le Corbusier in seven countries were insc
 
 Early life (1887–1904)
 
-Le_Corbusier_(Charles-Édouard_Jeanneret),_1920,_Still_Life,_oil_on_canvas,_80.9_x_99.7_cm,_Museum_of_Modern_Art.jpg, New York]]
+, New York]]
 
 Charles-Édouard Jeanneret was born on 6 October 1887 in La Chaux-de-Fonds, a small city in the French-speaking Neuchâtel canton in north-western Switzerland, in the Jura mountains, just across the border from France. It was an industrial town, devoted to the manufacture of watches. (He adopted the pseudonym of _Le Corbusier_ in 1920.) His father was an artisan who enameled boxes and watches, while his mother gave piano lessons. His elder brother Albert was an amateur violinist. He attended a kindergarten that used Fröbelian methods.[2][3][4]
 
@@ -29,13 +29,11 @@ In 1912, he began his most ambitious project; a new house for his parents. also 
 
 Dom-ino House and Schwob House (1914–1918)
 
-Charles-Édouard_Jeanneret_(Le_Corbusier),_1914-15,_Maison_Dom-Ino.jpg ]]
+]]
 
 During World War I, Le Corbusier taught at his old school in La-Chaux-de-Fonds, He concentrated on theoretical architectural studies using modern techniques.[8] In December 1914, along with the engineer Max Dubois, he began a serious study of the use of reinforced concrete as a building material. He had first discovered concrete working with Auguste Perret in Paris, but now wanted to use it in new ways.
 
 "Reinforced concrete provided me with incredible resources," he wrote later, "and variety, and a passionate plasticity in which by themselves my structures will be rhythm of a palace, and a Pompieen tranquility.".[9] This led him to his plan for the Dom-Ino House (1914–15). This model proposed an open floor plan consisting of three concrete slabs supported by six thin reinforced concrete columns, with a stairway providing access to each level on one side of the floor plan.[10] The system was originally designed to provide large numbers of temporary residences after World War I, producing only slabs, columns and stairways, and residents could build exterior walls with the materials around the site. He described it in his patent application as "a juxtiposable system of construction according to an infinite number of combinations of plans. This would permit, he wrote, "the construction of the dividing walls at any point on the façade or the interior."
-
-CF05.jpg
 
 Under this system, the structure of the house did not have to appear on the outside, but could be hidden behind a glass wall, and the interior could be arranged in any way the architect liked.[11] After it was patented, Le Corbusier designed a number of houses according to the system, which were all white concrete boxes. Although some of these were never built, they illustrated his basic architectural ideas which would dominate his works throughout the 1920s. He refined the idea in his 1927 book on the _Five Points of a New Architecture_. This design, which called for the disassociation of the structure from the walls, and the freedom of plans and façades, became the foundation for most of his architecture over the next ten years.
 
@@ -46,7 +44,7 @@ Le Corbusier's grand ambitions collided with the ideas and budget of his client,
 
 Painting, Cubism, Purism and _L'Esprit Nouveau_ (1918–1922)
 
-Le_Corbusier,_1921,_Nature_morte,_oil_on_canvas,_54_x_81_cm,_Musée_National_d'Art_Moderne.jpg, Paris]] Le_Corbusier_(Charles_Edouard_Jeanneret),_1922,_Nature_morte_verticale_(Vertical_Still_Life),_oil_on_canvas,_146.3_x_89.3_cm,_Kunstmuseum,_Basel.jpg ]] Le_Corbusier_(Charles-Édouard_Jeanneret),_1920,_Guitare_verticale_(2ème_version),_oil_on_canvas,_100_x_81_cm,_Fondation_Le_Corbusier,_Paris.jpg
+, Paris]] ]]
 
 Le Corbusier moved to Paris definitively in 1917 and began his own architectural practice with his cousin, Pierre Jeanneret (1896–1967), a partnership that would last until the 1950s, with an interruption in the World War II years[13]
 
@@ -64,7 +62,7 @@ In 1922 and 1923, Le Corbusier devoted himself to advocating his new concepts of
 
 L'Esprit Nouveau Pavilion (1925)
 
-L'Esprit_Nouveau_pavilion_at_the_1925_Paris_International_Exposition_of_Modern_Decorative_and_Industrial_Arts.jpg Plan_Voisin_model.jpg for the reconstruction of Paris displayed at the Pavilion of the Esprit Nouveau]]
+for the reconstruction of Paris displayed at the Pavilion of the Esprit Nouveau]]
 
 An important early work of Le Corbusier was the Esprit Nouveau Pavilion, built for the 1925 Paris International Exhibition of Modern Decorative and Industrial Arts, the event which later gave Art Deco its name. Le Corbusier built the pavilion in collaboration with Amédée Ozenfant and with his cousin Pierre Jeanneret. Le Corbusier and Ozenfant had broken with Cubism and formed the Purism movement in 1918 and in 1920 founded their journal _L'Esprit Nouveau_ in 1920. In his new journal, Le Corbusier vividly denounced the decorative arts: "Decorative Art, as opposed to the machine phenomenon, is the final twitch of the old manual modes, a dying thing." To illustrate his ideas, he and Ozenfant decided to create small pavilion at the Exposition, representing his idea of the future urban housing unit. A house, he wrote, "is a cell within the body of a city. The cell is made up of the vital elements which are the mechanics of a house...Decorative art is antistandarizational. Our pavilion will contain only standard things created by industry in factories and mass produced, objects truly of the style of today...my pavilion will therefore be a cell extracted from a huge apartment building."
 
@@ -99,7 +97,7 @@ Le Corbusier was quite rhapsodic when describing the house in _Précisions_ in 1
 
 League of Nations Competition and Pessac Housing Project (1926–1930)
 
-Pessac_Quartiers_Modernes_Frugès_004.jpg in Pessac (1927)]] Thanks to his passionate articles in L'Esprit Nouveau, his participation in the 1925 Decorative Arts Exposition and the conferences he gave on the new spirit of architecture, Le Corbusier had become well known in the architectural world, though he had only built residences for wealthy clients. In 1926, he entered the competition for the construction of a headquarters for the League of Nations in Geneva with a plan for an innovative lakeside complex of modernist white concrete office buildings and meeting halls. There were three-hundred thirty seven projects in competition. It appeared that the Corbusier's project was the first choice of the architectural jury, but after much behind-the scenes maneuvering the jury declared it was unable to pick a single winner, and the project was given instead to the top five architects, who were all neoclassicists. Le Corbusier was not discouraged; he presented his own plans to the public in articles and lectures to show the opportunity that the League of Nations had missed.
+in Pessac (1927)]] Thanks to his passionate articles in L'Esprit Nouveau, his participation in the 1925 Decorative Arts Exposition and the conferences he gave on the new spirit of architecture, Le Corbusier had become well known in the architectural world, though he had only built residences for wealthy clients. In 1926, he entered the competition for the construction of a headquarters for the League of Nations in Geneva with a plan for an innovative lakeside complex of modernist white concrete office buildings and meeting halls. There were three-hundred thirty seven projects in competition. It appeared that the Corbusier's project was the first choice of the architectural jury, but after much behind-the scenes maneuvering the jury declared it was unable to pick a single winner, and the project was given instead to the top five architects, who were all neoclassicists. Le Corbusier was not discouraged; he presented his own plans to the public in articles and lectures to show the opportunity that the League of Nations had missed.
 
 In 1927, Le Corbusier received the opportunity he had been looking for; he was commissioned by a Bordeaux industrialist, Henry Frugès a fervent admirer of his ideas on urban planning, to build a complex of worker housing, the Quartiers Modernes Frugès, at Pessac, near Bordeaux. Le Corbusier described Pessac as "A little like a Balzac novel", a chance to create a whole community for living and working. The Fruges quarter became his first laboratory for a residential housing; a series of rectangular blocks composed of modular housing units located in a garden setting. Like the unit displayed at the 1925 Exposition, each housing unit had its own small terrace. The earlier villas he constructed all had white exterior walls, but for Pessac, at the request of his clients, he added color; panels of brown, yellow and jade green, coordinated by Le Corbusier. Originally planned to have some two hundred units, it finally contained about fifty to seventy housing units, in eight buildings. Pessac became the model on a small scale for his later and much larger Cité Radieuse projects.[21]
 
@@ -111,7 +109,7 @@ In 1928, Le Corbusier took a major step toward establishing modernist architectu
 
 Moscow projects (1928–1934)
 
-Centrosoyuz_Moscow_-_Ak_Sakharova_view.jpg, headquarters of Soviet trade unions, Moscow (1928–34)]]
+, headquarters of Soviet trade unions, Moscow (1928–34)]]
 
 Le Corbusier saw the new society founded in the Soviet Union after the Russian Revolution as a promising laboratory for his architectural ideas. He met the Russian architect Konstantin Melnikov during the 1925 Decorative Arts Exposition in Paris, and admired the construction of Melnikov's constructvist USSR pavilion, the only truly modernist building in the Exposition other than his own Esprit Nouveau pavilion. At Melnikov's invitation he traveled to Moscow, where found that his writings had been published in Russian; he gave lectures and interviews, and between 1928 and 1932 he constructed an office building for the Tsentrosoyuz, the headquarters of Soviet trade unions.
 
@@ -159,7 +157,7 @@ The Unité d'Habitation marked a turning point in the career of Le Corbusier; in
 
 Postwar projects, United Nations Headquarters (1947–1952)
 
-67º_Período_de_Sesiones_de_la_Asamblea_General_de_Naciones_Unidas_(8020913157).jpg designed by Le Corbusier, Oscar Niemeyer and Wallace K. Harrison (1947–1952)]] Le Corbusier made another almost identical Unité d'Habitation in Rezé-les-Nantes in the Loire-Atlantique Department between 1948 and 1952, and three more over the following years, in Berlin, Briey-en-Forêt and Firminy; and he designed a factory for the company of Claude and Duval, in Saint-Dié in the Vosges.
+designed by Le Corbusier, Oscar Niemeyer and Wallace K. Harrison (1947–1952)]] Le Corbusier made another almost identical Unité d'Habitation in Rezé-les-Nantes in the Loire-Atlantique Department between 1948 and 1952, and three more over the following years, in Berlin, Briey-en-Forêt and Firminy; and he designed a factory for the company of Claude and Duval, in Saint-Dié in the Vosges.
 
 In early 1947 Le Corbusier submitted a design for the Headquarters of the United Nations, which was to be built beside the East River in New York. Instead of competition, the design was to be selected by a Board of Design Consultants composed of leading international architects nominated by member governments, including Le Corbusier, Oscar Niemeyer of Brazil, Howard Robertson from Britain, Nikolai Bassov of the Soviet Union, and five others from around the world. The committee was under the direction of the American architect Wallace K. Harrison, who was also architect for the Rockefeller family, which had donated the site for the building.
 
@@ -211,7 +209,7 @@ At the time of his death in 1965, several projects were on the drawing boards; t
 
 Death
 
-Cabanon_Le_Corbusier.jpg]] Against his doctor's orders, on 27 August 1965, Le Corbusier went for a swim in the Mediterranean Sea at Roquebrune-Cap-Martin, France. His body was found by bathers and he was pronounced dead at 11 a.m. It was assumed that he may have suffered a heart attack. His funeral took place in the courtyard of the Louvre Palace on 1 September 1965, under the direction of writer and thinker André Malraux, who was at the time France's Minister of Culture. He was buried alongside his wife in the grave he had designated at Roquebrune.
+]] Against his doctor's orders, on 27 August 1965, Le Corbusier went for a swim in the Mediterranean Sea at Roquebrune-Cap-Martin, France. His body was found by bathers and he was pronounced dead at 11 a.m. It was assumed that he may have suffered a heart attack. His funeral took place in the courtyard of the Louvre Palace on 1 September 1965, under the direction of writer and thinker André Malraux, who was at the time France's Minister of Culture. He was buried alongside his wife in the grave he had designated at Roquebrune.
 
 Le Corbusier's death had a strong impact on the cultural and political world. Tributes came from around the world, even from some of Le Corbusier's strongest artistic critics. Painter Salvador Dalí recognised his importance and sent a floral tribute. United States President Lyndon B. Johnson said, "His influence was universal and his works are invested with a permanent quality possessed by those of very few artists in our history." The Soviet Union added, "Modern architecture has lost its greatest master". While his funeral occurred in Paris, Japanese TV channels broadcast his Museum in Tokyo in what was at the time a unique media homage.
 
@@ -264,14 +262,14 @@ Le Corbusier placed systems of harmony and proportion at the centre of his desig
 
 Open Hand
 
-Open_Hand_Monument_in_Chandigarh.jpg'' in Chandigarh, India]]
+'' in Chandigarh, India]]
 
 The Open Hand (La Main Ouverte) is a recurring motif in Le Corbusier's architecture, a sign for him of "peace and reconciliation. It is open to give and open to receive." The largest of the many Open Hand sculptures that Le Corbusier created is a version in Chandigarh, India known as _Open Hand Monument_.
 
 
 Furniture
 
-Le Corbusier was an eloquent critic of the finely crafted, hand-made furniture, made with rare and exotic woods, inlays and coverings, presented at the 1925 Exposition of Decorative Arts. Following his usual method, Le Corbusier first wrote a book with his theories of furniture, complete with memorable slogans. In his 1925 book _L'Art Décoratif d'aujourd'hui_, he called for furniture that used inexpensive materials and could be mass-produced. Le Corbusier described three different furniture types: _type-needs_, _type-furniture_, and _human-limb objects_. He defined human-limb objects as: "Extensions of our limbs and adapted to human functions that are type-needs and type-functions, therefore type-objects and type-furniture. The human-limb object is a docile servant. A good servant is discreet and self-effacing in order to leave his master free. Certainly, works of art are tools, beautiful tools. And long live the good taste manifested by choice, subtlety, proportion, and harmony". He further declared, "Chairs are architecture, sofas are bourgeois", LC4_Chair_by_Le_Corbusier_and_Perriand_1927-28.jpg Le Corbusier first relied on ready-made furniture from Thonet to furnish his projects, such as his pavilion at the 1925 Exposition. In 1928, following the publication of his theories, he began experimenting with furniture design. In 1928, he invited the architect Charlotte Perriand to join his studio as a furniture designer. His cousin, Pierre Jeanneret, also collaborated on many of the designs. For the manufacture of his furniture, he turned to the German firm Gebrüder Thonet, which had begun making chairs with tubular steel, a material originally used for bicycles, in the early 1920s. Le Corbusier admired the design of Marcel Breuer and the Bauhaus, who in 1925 had begun making sleek modern tubular club chairs. Mies van der Rohe had begun making his own version in a sculptural curved form with a cane seat in 1927.
+Le Corbusier was an eloquent critic of the finely crafted, hand-made furniture, made with rare and exotic woods, inlays and coverings, presented at the 1925 Exposition of Decorative Arts. Following his usual method, Le Corbusier first wrote a book with his theories of furniture, complete with memorable slogans. In his 1925 book _L'Art Décoratif d'aujourd'hui_, he called for furniture that used inexpensive materials and could be mass-produced. Le Corbusier described three different furniture types: _type-needs_, _type-furniture_, and _human-limb objects_. He defined human-limb objects as: "Extensions of our limbs and adapted to human functions that are type-needs and type-functions, therefore type-objects and type-furniture. The human-limb object is a docile servant. A good servant is discreet and self-effacing in order to leave his master free. Certainly, works of art are tools, beautiful tools. And long live the good taste manifested by choice, subtlety, proportion, and harmony". He further declared, "Chairs are architecture, sofas are bourgeois", Le Corbusier first relied on ready-made furniture from Thonet to furnish his projects, such as his pavilion at the 1925 Exposition. In 1928, following the publication of his theories, he began experimenting with furniture design. In 1928, he invited the architect Charlotte Perriand to join his studio as a furniture designer. His cousin, Pierre Jeanneret, also collaborated on many of the designs. For the manufacture of his furniture, he turned to the German firm Gebrüder Thonet, which had begun making chairs with tubular steel, a material originally used for bicycles, in the early 1920s. Le Corbusier admired the design of Marcel Breuer and the Bauhaus, who in 1925 had begun making sleek modern tubular club chairs. Mies van der Rohe had begun making his own version in a sculptural curved form with a cane seat in 1927.
 
 The first results of the collaboration between Le Corbusier and Perriand were three types of chairs made with chrome-plated tubular steel frames: The LC4, Chaise Longue, (1927–28), with a covering of cowhide, which gave it a touch of exoticism; the _Fauteuil Grand Confort_ (LC3) (1928–29), a club chair with a tubular frame which resembled the comfortable Art Deco club chairs that became popular in the 1920s; and the _Fauteuil à dossier basculant_ (LC4) (1928–29), a low seat suspended in a tubular steel frame, also with a cowhide upholstery. These chairs were designed specifically for two of his projects, the _Maison la Roche_ in Paris and a pavilion for Barbara and Henry Church. All three clearly showed the influence of Mies van der Rohe and Marcel Breuer. The line of furniture was expanded with additional designs for Le Corbusier's 1929 _Salon d'Automne_ installation, 'Equipment for the Home'. Despite the intention of Le Corbusier that his furniture should be inexpensive and mass-produced, his pieces were originally costly to make and were not mass-produced until many years later, when he was famous.
 
@@ -300,7 +298,7 @@ For some critics, the urbanism of Le Corbusier's was the model for a fascist sta
 
 Influence
 
-MESP4.jpg, Rio de Janeiro (Brazil)]]
+, Rio de Janeiro (Brazil)]]
 
 Le Corbusier was concerned by problems he saw in industrial cities at the turn of the 20th century. He thought that industrial housing techniques led to crowding, dirtiness, and a lack of a moral landscape. He was a leader of the modernist movement to create better living conditions and a better society through housing. Ebenezer Howard's _Garden Cities of Tomorrow_ heavily influenced Le Corbusier and his contemporaries.[52]
 
@@ -319,7 +317,7 @@ Le Corbusier's design was cited as an inspiration for Kanye West's album _My Bea
 
 Fondation Le Corbusier
 
-Le_Corbusier_(Charles-Édouard_Jeanneret),_reproduced_in_Život_2_(1922).jpg The Fondation Le Corbusier is a private foundation and archive honoring the work of Le Corbusier. It operates Maison La Roche, a museum located in the 16th arrondissement at 8–10, square du Dr Blanche, Paris, France, which is open daily except Sunday.
+The Fondation Le Corbusier is a private foundation and archive honoring the work of Le Corbusier. It operates Maison La Roche, a museum located in the 16th arrondissement at 8–10, square du Dr Blanche, Paris, France, which is open daily except Sunday.
 
 The foundation was established in 1968. It now owns Maison La Roche and Maison Jeanneret (which form the foundation's headquarters), as well as the apartment occupied by Le Corbusier from 1933 to 1965 at rue Nungesser et Coli in Paris 16e, and the "Small House" he built for his parents in Corseaux on the shores of Lac Leman (1924).
 

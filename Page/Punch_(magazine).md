@@ -19,7 +19,7 @@ The illustrator Archibald Henning designed the cover of the magazine's first iss
 
 Liberal competition
 
-In the 1860s and 1870s, conservative _Punch_ faced competition from upstart liberal journal _Fun_, but after about 1874, _Fun_'s fortunes faded. At Evans's café in London, the two journals had "Round tables" in competition with each other.[3] True_humility.png, originally published in 1895]]
+In the 1860s and 1870s, conservative _Punch_ faced competition from upstart liberal journal _Fun_, but after about 1874, _Fun_'s fortunes faded. At Evans's café in London, the two journals had "Round tables" in competition with each other.[3] , originally published in 1895]]
 
 Gaining a market and relations with other papers
 
@@ -51,8 +51,6 @@ Gallery of selected early covers
 
 Contributors
 
-PunchMagazineMeeting.jpg
-
 Editors
 
 -   Mark Lemon (1841–1870)
@@ -76,7 +74,7 @@ Editors
 
 Cartoonists
 
-Our_New_First_Lord_at_Sea.png's "Our New 'First Lord' at Sea" for the 13 October 1877 issue]]
+'s "Our New 'First Lord' at Sea" for the 13 October 1877 issue]]
 
 Authors
 

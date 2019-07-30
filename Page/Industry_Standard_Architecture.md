@@ -7,7 +7,7 @@ The 16-bit ISA bus was also used with 32-bit processors for several years. An at
 
 History
 
-Bussysteme_Extended_ISA_32Bit,_ISA_16Bit,_XT_8Bit.JPG (top to bottom)]] Adlib.jpg EISA_TokenRing_NIC.JPG NIC]] EISA_Ethernet_NIC.JPG 10Base-5/2 NIC]] Us_robotics_isa_modem-2011-04-11.jpg 56k Modem]]
+(top to bottom)]]  NIC]] 10Base-5/2 NIC]] 56k Modem]]
 
 The ISA bus was developed by a team led by Mark Dean at IBM as part of the IBM PC project in 1981 [1] Compaq created the term "Industry Standard Architecture" (ISA) to replace "PC compatible".[2] ISA originated as an 8-bit system. A 16-bit version, the IBM AT bus, was introduced with the release of the IBM PC/AT in 1984. In 1988, the 32-bit Extended Industry Standard Architecture (EISA) standard was proposed by the "Gang of Nine" group of PC-compatible manufacturers that included Compaq. In the process, they retroactively renamed the AT bus to "ISA" to avoid infringing IBM's trademark on its PC/AT computer.
 
@@ -30,9 +30,9 @@ The AT Attachment (ATA) hard disk interface is directly descended from the 16-bi
 
 ISA bus architecture
 
-+-----------------+------------------+
-| XT_Bus_pins.svg | ISA_Bus_pins.svg |
-+-----------------+------------------+
++--+--+
+|  |  |
++--+--+
 
 The PC/XT-BUS is an eight-bit ISA bus used by Intel 8086 and Intel 8088 systems in the IBM PC and IBM PC XT in the 1980s. Among its 62 pins were demultiplexed and electrically buffered versions of the 8 data and 20 address lines of the 8088 processor, along with power lines, clocks, read/write strobes, interrupt lines, etc. Power lines included −5 V and ±12 V in order to directly support pMOS and enhancement mode nMOS circuits such as dynamic RAMs among other things. The XT bus architecture uses a single Intel 8259 PIC, giving eight vectorized and prioritized interrupt lines. It has four DMA channels originally provided by the Intel 8237, 3 of the DMA channels are brought out to the XT bus expansion slots; of these, 2 are normally already allocated to machine functions (diskette drive and hard disk controller):
 

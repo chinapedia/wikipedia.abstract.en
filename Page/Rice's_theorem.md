@@ -73,8 +73,6 @@ This method doesn't depend specifically on being able to recognize functions tha
 
 Formal proof
 
-Rice_reduction.svg
-
 For the formal proof, algorithms are presumed to define partial functions over strings and are themselves represented by strings. The partial function computed by the algorithm represented by a string _a_ is denoted F_(_a_). This proof proceeds by reductio ad absurdum: we assume that there is a non-trivial property that is decided by an algorithm, and then show that it follows that we can decide the halting problem, which is not possible, and therefore a contradiction.
 
 Let us now assume that _P_(_a_) is an algorithm that decides some non-trivial property of F_(_a_). Without loss of generality we may assume that _P_(_no-halt_) = "no", with _no-halt_ being the representation of an algorithm that never halts. If this is not true, then this holds for the negation of the property. Since _P_ decides a non-trivial property, it follows that there is a string _b_ that represents an algorithm and _P_(_b_) = "yes". We can then define an algorithm _H_(_a_, _i_) as follows:

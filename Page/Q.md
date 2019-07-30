@@ -3,12 +3,12 @@ Q (named _cue_ )[1] is the 17th letter of the modern English alphabet and the IS
 
 History
 
-+---------------------+--------------------+------------------+--------------------------------+
-| Egyptian hieroglyph | Phoenician         | Etruscan         | Greek                          |
-| _wj_                | _qoph_             | Q                | _Qoppa_                        |
-+=====================+====================+==================+================================+
-| V24                 | PhoenicianQ-01.png | EtruscanQ-01.svg | Capital_Greek_letter_qoppa.svg |
-+---------------------+--------------------+------------------+--------------------------------+
++---------------------+------------+----------+---------+
+| Egyptian hieroglyph | Phoenician | Etruscan | Greek   |
+| _wj_                | _qoph_     | Q        | _Qoppa_ |
++=====================+============+==========+=========+
+| V24                 |            |          |         |
++---------------------+------------+----------+---------+
 
 The Semitic sound value of Qôp was (voiceless uvular stop), and the form of the letter could have been based on the eye of a needle, a knot, or even a monkey with its tail hanging down.[2][3][4] is a sound common to Semitic languages, but not found in many European languages. Some have even suggested that the form of the letter Q is even more ancient: it could have originated from Egyptian hieroglyphics.[5][6]
 
@@ -19,7 +19,7 @@ The Etruscans used Q in conjunction with V to represent , and this usage was cop
 
 Typography
 
-Q_typographic_styles.svg Champfleury_letter_Q_illustration_Geoffroy_Tory_(1529).png in his 1529 book _Champfleury_]] Base_columna_trajana.jpg: this long-tailed Q, used here in the Latin word "POPVLVSQVE", was carved into Trajan's column c. AD 113.]] Short_tailed_Q_vs_long_tailed_Q_text_example.svg
+in his 1529 book _Champfleury_]] : this long-tailed Q, used here in the Latin word "POPVLVSQVE", was carved into Trajan's column c. AD 113.]]
 
 Uppercase "Q"
 
@@ -44,7 +44,7 @@ Some typographers prefer one "Q" design over another: Adrian Frutiger, famous fo
 
 Lowercase "q"
 
-Q_and_g_comparison.svgs of and ]] The lowercase "q" is usually seen as a lowercase "o" with a descender (i.e., downward vertical tail) extending from the right side of the bowl, with or without a swash (i.e., flourish), even a reversed lowercase p. The "q"'s descender is usually typed without a swash due to the major style difference typically seen between the descenders of the "g" (a loop) and "q" (vertical). When handwritten, or as part of a handwriting font, the descender of the "q" sometimes finishes with a rightward swash to distinguish it from the letter "g" (or, particularly in mathematics, the digit "9").
+s of and ]] The lowercase "q" is usually seen as a lowercase "o" with a descender (i.e., downward vertical tail) extending from the right side of the bowl, with or without a swash (i.e., flourish), even a reversed lowercase p. The "q"'s descender is usually typed without a swash due to the major style difference typically seen between the descenders of the "g" (a loop) and "q" (vertical). When handwritten, or as part of a handwriting font, the descender of the "q" sometimes finishes with a rightward swash to distinguish it from the letter "g" (or, particularly in mathematics, the digit "9").
 
 
 Use in writing systems

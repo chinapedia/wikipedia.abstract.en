@@ -1,5 +1,3 @@
-Clock_group.svg
-
 In mathematics, MODULAR ARITHMETIC is a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the MODULUS (plural MODULI). The modern approach to modular arithmetic was developed by Carl Friedrich Gauss in his book _Disquisitiones Arithmeticae_, published in 1801.
 
 A familiar use of modular arithmetic is in the 12-hour clock, in which the day is divided into two 12-hour periods. If the time is 7:00 now, then 8 hours later it will be 3:00. Usual addition would suggest that the later time should be 15}}, but this is not the answer because clock time "wraps around" every 12 hours. Because the hour number starts over after it reaches 12, this is arithmetic _modulo_ 12. According to the definition below, 12 is congruent not only to 12 itself, but also to 0, so the time called "12:00" could also be called "0:00", since 12 is congruent to 0 modulo 12.

@@ -7,13 +7,13 @@ The term _Machiavellian_ often connotes political deceit, deviousness, and realp
 
 Life
 
-Niccolo_Machiavelli.jpg Machiavelli was born in Florence, Italy, the third child and first son of attorney Bernardo di Niccolò Machiavelli and his wife, Bartolomea di Stefano Nelli.[15] The Machiavelli family is believed to be descended from the old marquesses of Tuscany and to have produced thirteen Florentine Gonfalonieres of Justice,[16] one of the offices of a group of nine citizens selected by drawing lots every two months and who formed the government, or Signoria; but he was never a full citizen of Florence because of the nature of Florentine citizenship in that time even under the republican regime. Machiavelli married Marietta Corsini in 1502.[17]
+Machiavelli was born in Florence, Italy, the third child and first son of attorney Bernardo di Niccolò Machiavelli and his wife, Bartolomea di Stefano Nelli.[15] The Machiavelli family is believed to be descended from the old marquesses of Tuscany and to have produced thirteen Florentine Gonfalonieres of Justice,[16] one of the offices of a group of nine citizens selected by drawing lots every two months and who formed the government, or Signoria; but he was never a full citizen of Florence because of the nature of Florentine citizenship in that time even under the republican regime. Machiavelli married Marietta Corsini in 1502.[17]
 
 Machiavelli was born in a tumultuous era in which popes waged acquisitive wars against Italian city-states, and people and cities often fell from power as France, Spain, and the Holy Roman Empire battled for regional influence and control. Political-military alliances continually changed, featuring condottieri (mercenary leaders), who changed sides without warning, and the rise and fall of many short-lived governments.[18]
 
 Machiavelli was taught grammar, rhetoric, and Latin. It is thought that he did not learn Greek even though Florence was at the time one of the centers of Greek scholarship in Europe. In 1494 Florence restored the republic, expelling the Medici family that had ruled Florence for some sixty years. Shortly after the execution of Savonarola, Machiavelli was appointed to an office of the second chancery, a medieval writing office that put Machiavelli in charge of the production of official Florentine government documents. Shortly thereafter, he was also made the secretary of the _Dieci di Libertà e Pace._
 
-Portrait_of_Niccolò_Machiavelli_Cristofano_di_Papi_dell'Altissimo.jpg]]
+]]
 
 In the first decade of the sixteenth century, he carried out several diplomatic missions: most notably to the Papacy in Rome. Moreover, from 1502 to 1503, he witnessed the brutal reality of the state-building methods of Cesare Borgia (1475–1507) and his father, Pope Alexander VI, who were then engaged in the process of trying to bring a large part of Central Italy under their possession. The pretext of defending Church interests was used as a partial justification by the Borgias. Other excursions to the court of Louis XII and the Spanish court influenced his writings such as _The Prince_.
 
@@ -21,7 +21,7 @@ Between 1503 and 1506, Machiavelli was responsible for the Florentine militia. H
 
 However, Machiavelli's success did not last. In August 1512 the Medici, backed by Pope Julius II, used Spanish troops to defeat the Florentines at Prato, but many historians have argued that it was due to Piero Soderini's unwillingness to compromise with the Medici, who were holding Prato under siege. In the wake of the siege, Soderini resigned as Florentine head of state and left in exile. The experience would, like Machiavelli's time in foreign courts and with the Borgia, heavily influence his political writings.
 
-Santa_Croce_Firenze_Apr_2008_(20).JPG in the Santa Croce Church in Florence]]
+in the Santa Croce Church in Florence]]
 
 After the Medici victory, the Florentine city-state and the republic were dissolved, and Machiavelli was deprived of office in 1512. In 1513 the Medici accused him of conspiracy against them and had him imprisoned.[19] Despite having been subjected to torture ("with the rope" in which the prisoner is hanged from his bound wrists, from the back, forcing the arms to bear the body's weight and dislocating the shoulders), he denied involvement and was released after three weeks.
 
@@ -37,8 +37,6 @@ Machiavelli died in 1527 at 58 after receiving his last rites.[23] He was buried
 
 
 Originality
-
-Niccolò-Machiavelli-Amelot-de-La-Houssaie-Il-principe_MG_1089.tif
 
 Commentators have taken very different approaches to Machiavelli and not always agreed. Major discussion has tended to be about two issues: first, how unified and philosophical his work is, and second, concerning how innovative or traditional it is.[24]
 
@@ -56,7 +54,7 @@ That Machiavelli had a wide range of influences is in itself not controversial. 
 
 2. CLASSICAL REPUBLICANISM. Commentators such as Quentin Skinner and J.G.A. Pocock, in the so-called "Cambridge School" of interpretation, have been able to show that some of the republican themes in Machiavelli's political works, particularly the _Discourses on Livy_, can be found in medieval Italian literature which was influenced by classical authors such as Sallust.[29][30]
 
-Xenophon.jpg, author of the _Cyropedia_]]
+, author of the _Cyropedia_]]
 
 3. CLASSICAL POLITICAL PHILOSOPHY: XENOPHON, PLATO AND ARISTOTLE. The Socratic school of classical political philosophy, especially Aristotle, had become a major influence upon European political thinking in the late Middle Ages. It existed both in the Catholicised form presented by Thomas Aquinas, and in the more controversial "Averroist" form of authors like Marsilius of Padua. Machiavelli was critical of Catholic political thinking and may have been influenced by Averroism. But he cites Plato and Aristotle very infrequently and apparently did not approve of them. Leo Strauss argued that the strong influence of Xenophon, a student of Socrates more known as an historian, rhetorician and soldier, was a major source of Socratic ideas for Machiavelli, sometimes not in line with Aristotle. While interest in Plato was increasing in Florence during Machiavelli's lifetime, Machiavelli does not show particular interest in him, but was indirectly influenced by his readings of authors such as Polybius, Plutarch and Cicero.
 
@@ -117,7 +115,7 @@ Mansfield however argues that Machiavelli's own aims have not been shared by tho
 
 _Machiavellian_
 
-Cesareborgia.jpg'' (Cesare Borgia), used as an example of a successful ruler in _The Prince_]]
+'' (Cesare Borgia), used as an example of a successful ruler in _The Prince_]]
 
 Machiavelli is most famous for a short political treatise, _The Prince_, written in 1513 but not published until 1532, five years after his death. Although he privately circulated _The Prince_ among friends, the only theoretical work to be printed in his lifetime was _The Art of War_, which was about military science. Since the 16th century, generations of politicians remain attracted and repelled by its apparently neutral acceptance, and even positive encouragement, of the immorality of powerful men, described especially in _The Prince_ but also in his other works.
 
@@ -128,13 +126,13 @@ While Machiavellianism is notable in the works of Machiavelli, scholars generall
 
 Influence
 
-Machiavel_Offices_Florence.jpg]] To quote Robert Bireley:[56]
+]] To quote Robert Bireley:[56]
 
 Machiavelli's ideas had a profound impact on political leaders throughout the modern west, helped by the new technology of the printing press. During the first generations after Machiavelli, his main influence was in non-Republican governments. Pole reported that _The Prince_ was spoken of highly by Thomas Cromwell in England and had influenced Henry VIII in his turn towards Protestantism, and in his tactics, for example during the Pilgrimage of Grace.[57] A copy was also possessed by the Catholic king and emperor Charles V.[58] In France, after an initially mixed reaction, Machiavelli came to be associated with Catherine de' Medici and the St. Bartholomew's Day massacre. As reports, in the 16th century, Catholic writers "associated Machiavelli with the Protestants, whereas Protestant authors saw him as Italian and Catholic". In fact, he was apparently influencing both Catholic and Protestant kings.[59]
 
 One of the most important early works dedicated to criticism of Machiavelli, especially _The Prince_, was that of the Huguenot, Innocent Gentillet, whose work commonly referred to as _Discourse against Machiavelli_ or _Anti Machiavel_ was published in Geneva in 1576.[60] He accused Machiavelli of being an atheist and accused politicians of his time by saying that his works were the "Koran of the courtiers", that "he is of no reputation in the court of France which hath not Machiavel's writings at the fingers ends".[61] Another theme of Gentillet was more in the spirit of Machiavelli himself: he questioned the effectiveness of immoral strategies (just as Machiavelli had himself done, despite also explaining how they could sometimes work). This became the theme of much future political discourse in Europe during the 17th century. This includes the Catholic Counter Reformation writers summarised by Bireley: Giovanni Botero, Justus Lipsius, Carlo Scribani, Adam Contzen, Pedro de Ribadeneira, and Diego Saavedra Fajardo.[62] These authors criticized Machiavelli, but also followed him in many ways. They accepted the need for a prince to be concerned with reputation, and even a need for cunning and deceit, but compared to Machiavelli, and like later modernist writers, they emphasized economic progress much more than the riskier ventures of war. These authors tended to cite Tacitus as their source for realist political advice, rather than Machiavelli, and this pretense came to be known as "Tacitism".[63] "Black tacitism" was in support of princely rule, but "red tacitism" arguing the case for republics, more in the original spirit of Machiavelli himself, became increasingly important.
 
-Francis_Bacon.jpg argued the case for what would become modern science which would be based more upon real experience and experimentation, free from assumptions about metaphysics, and aimed at increasing control of nature. He named Machiavelli as a predecessor.]] Modern materialist philosophy developed in the 16th, 17th and 18th centuries, starting in the generations after Machiavelli. This philosophy tended to be republican, but as with the Catholic authors, Machiavelli's realism and encouragement of using innovation to try to control one's own fortune were more accepted than his emphasis upon war and factional violence. Not only was innovative economics and politics a result, but also modern science, leading some commentators to say that the 18th century Enlightenment involved a "humanitarian" moderating of Machiavellianism.[64]
+argued the case for what would become modern science which would be based more upon real experience and experimentation, free from assumptions about metaphysics, and aimed at increasing control of nature. He named Machiavelli as a predecessor.]] Modern materialist philosophy developed in the 16th, 17th and 18th centuries, starting in the generations after Machiavelli. This philosophy tended to be republican, but as with the Catholic authors, Machiavelli's realism and encouragement of using innovation to try to control one's own fortune were more accepted than his emphasis upon war and factional violence. Not only was innovative economics and politics a result, but also modern science, leading some commentators to say that the 18th century Enlightenment involved a "humanitarian" moderating of Machiavellianism.[64]
 
 The importance of Machiavelli's influence is notable in many important figures in this endeavor, for example Bodin,[65] Francis Bacon,[66] Algernon Sidney,[67] Harrington, John Milton,[68] Spinoza,[69] Rousseau, Hume,[70] Edward Gibbon, and Adam Smith. Although he was not always mentioned by name as an inspiration, due to his controversy, he is also thought to have been an influence for other major philosophers, such as Montaigne,[71] Descartes,[72] Hobbes, Locke[73] and Montesquieu.[74]
 
@@ -142,7 +140,7 @@ Although Jean-Jacques Rousseau is associated with very different political ideas
 
   In the seventeenth century it was in England that Machiavelli's ideas were most substantially developed and adapted, and that republicanism came once more to life; and out of seventeenth-century English republicanism there were to emerge in the next century not only a theme of English political and historical reflection—of the writings of the Bolingbroke circle and of Gibbon and of early parliamentary radicals—but a stimulus to the Enlightenment in Scotland, on the Continent, and in America.[75]
 
-John_Adams,_Gilbert_Stuart,_c1800_1815.jpg.]] Scholars have argued that Machiavelli was a major indirect and direct influence upon the political thinking of the Founding Fathers of the United States due to his overwhelming favoritism of republicanism and the republican type of government. According to John McCormick, it is still very much debatable whether or not Machiavelli was "an advisor of tyranny or partisan of liberty."[76] Benjamin Franklin, James Madison and Thomas Jefferson followed Machiavelli's republicanism when they opposed what they saw as the emerging aristocracy that they feared Alexander Hamilton was creating with the Federalist Party.[77] Hamilton learned from Machiavelli about the importance of foreign policy for domestic policy, but may have broken from him regarding how rapacious a republic needed to be in order to survive[78][79] George Washington was less influenced by Machiavelli.[80]
+.]] Scholars have argued that Machiavelli was a major indirect and direct influence upon the political thinking of the Founding Fathers of the United States due to his overwhelming favoritism of republicanism and the republican type of government. According to John McCormick, it is still very much debatable whether or not Machiavelli was "an advisor of tyranny or partisan of liberty."[76] Benjamin Franklin, James Madison and Thomas Jefferson followed Machiavelli's republicanism when they opposed what they saw as the emerging aristocracy that they feared Alexander Hamilton was creating with the Federalist Party.[77] Hamilton learned from Machiavelli about the importance of foreign policy for domestic policy, but may have broken from him regarding how rapacious a republic needed to be in order to survive[78][79] George Washington was less influenced by Machiavelli.[80]
 
 The Founding Father who perhaps most studied and valued Machiavelli as a political philosopher was John Adams, who profusely commented on the Italian's thought in his work, _A Defence of the Constitutions of Government of the United States of America_.[81] In this work, John Adams praised Machiavelli, with Algernon Sidney and Montesquieu, as a philosophic defender of mixed government. For Adams, Machiavelli restored empirical reason to politics, while his analysis of factions was commendable. Adams likewise agreed with the Florentine that human nature was immutable and driven by passions. He also accepted Machiavelli's belief that all societies were subject to cyclical periods of growth and decay. For Adams, Machiavelli lacked only a clear understanding of the institutions necessary for good government.[82]
 
@@ -165,7 +163,7 @@ Machiavelli's best-known book _Il Principe_ contains several maxims concerning p
 
 Scholars often note that Machiavelli glorifies instrumentality in state building, an approach embodied by the saying, which may or may not be inspired by Machiavelli, "The ends justify the means".[87] Fraud and deceit are held by Machiavelli as necessary for a prince to use.[88] Violence may be necessary for the successful stabilisation of power and introduction of new political institutions. Force may be used to eliminate political rivals, to destroy resistant populations, and to purge the community of other men strong enough of a character to rule, who will inevitably attempt to replace the ruler.[89] Machiavelli has become infamous for such political advice, ensuring that he would be remembered in history through the adjective, "Machiavellian".
 
-Duke-Lorenzo.jpg to whom the final version of _The Prince_ was dedicated]]
+to whom the final version of _The Prince_ was dedicated]]
 
 Due to the treatise's controversial analysis on politics, the Catholic Church banned _The Prince_, putting it on the _Index Librorum Prohibitorum_. Humanists also viewed the book negatively, including Erasmus of Rotterdam. As a treatise, its primary intellectual contribution to the history of political thought is the fundamental break between political realism and political idealism, due to it being a manual on acquiring and keeping political power. In contrast with Plato and Aristotle, Machiavelli insisted that an imaginary ideal society is not a model by which a prince should orient himself.
 
@@ -189,8 +187,6 @@ From _The Discourses_:
 -   "Let not princes complain of the faults committed by the people subjected to their authority, for they result entirely from their own negligence or bad example." Book III, Chapter XXIX[102]
 
 Other political and historical works
-
-Art_of_War-1573.jpg
 
 -   _Discorso sopra le cose di Pisa_ (1499)
 -   _Del modo di trattare i popoli della Valdichiana ribellati_ (1502)

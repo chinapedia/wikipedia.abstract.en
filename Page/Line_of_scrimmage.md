@@ -1,4 +1,4 @@
-2006_UT_football_fall_scrimmage.JPG line of scrimmage, prior to a play]] Calgary_Stampeders_training_camp_2006.jpg line of scrimmage, prior to a play]]
+line of scrimmage, prior to a play]] line of scrimmage, prior to a play]]
 
 In American and Canadian football, a LINE OF SCRIMMAGE is an imaginary transverse line (across the width of the football field) beyond which a team cannot cross until the next play has begun. Its location is based on the spot where the ball is placed after the end of the most recent play and following the assessment of any penalty yards.
 

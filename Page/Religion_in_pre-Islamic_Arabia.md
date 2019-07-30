@@ -1,4 +1,4 @@
-Antico_yemen,_al-jawf,_statuette_di_donne_sedute,_III-I_sec._ac._03.JPG votive figurines from Yemen, now in the National Museum of Oriental Art, Rome]]
+votive figurines from Yemen, now in the National Museum of Oriental Art, Rome]]
 
 RELIGION IN PRE-ISLAMIC ARABIA included indigenous polytheistic beliefs, as well as Christianity, Judaism, Mandaeism, and Iranian religions of Zoroastrianism, Mithraism, and Manichaeism. Arabian polytheism, the dominant form of religion in pre-Islamic Arabia, was based on veneration of deities and spirits. Worship was directed to various gods and goddesses, including Hubal and the goddesses al-Lāt, al-‘Uzzā, and Manāt, at local shrines and temples such as the Kaaba in Mecca. Deities were venerated and invoked through a variety of rituals, including pilgrimages and divination, as well as ritual sacrifice. Different theories have been proposed regarding the role of Allah in Meccan religion. Many of the physical descriptions of the pre-Islamic gods are traced to idols, especially near the Kaaba, which is said to have contained up to 360 of them.
 
@@ -22,7 +22,7 @@ Worship
 
 Deities
 
-Nabataean_betyl_1.JPG baetyl depicting a goddess, possibly al-Uzza.]]
+baetyl depicting a goddess, possibly al-Uzza.]]
 
 The pre-Islamic Arabian religions were polytheistic, with many of the deities' names known. Formal pantheons are more noticeable at the level of kingdoms, of variable sizes, ranging from simple city-states to collections of tribes.[2] Tribes, towns, clans, lineages and families had their own cults too.[3] Christian Julien Robin suggests that this structure of the divine world reflected the society of the time.[4]
 
@@ -58,7 +58,7 @@ South Arabian inscriptions from the fourth century AD refer to a god called Rahm
 
 Al-Lat, al-Uzza and Manat
 
-Nemesis_Allat_and_dedicater-MBA_Lyon-IMG_0557.JPG, al-Lat and the dedicator. Palmyrene, 2nd-3rd century AD.|alt=]]
+, al-Lat and the dedicator. Palmyrene, 2nd-3rd century AD.|alt=]]
 
 Al-Lāt, Al-‘Uzzá and Manāt were common names used for multiple goddesses across Arabia. G.R. Hawting states that modern scholars have frequently associated the names of Arabian goddesses Al-lāt, Al-‘Uzzá and Manāt with cults devoted to celestial bodies, particularly Venus, drawing upon evidence external to the Muslim tradition as well as in relation to Syria, Mesopotamia and the Sinai Peninsula.
 
@@ -74,7 +74,7 @@ According to F.E. Peters, "one of the characteristics of Arab paganism as it has
 
 Practices
 
-Votive_Niche_60.10_the_Siq_Petra_Jordan1155.jpg, Jordan.|alt=]]
+, Jordan.|alt=]]
 
 Cult images and idols
 
@@ -82,7 +82,7 @@ Cult images of a deity were most often an unworked stone block. The most common 
 
 The _Book of Idols_ describes two types of statues: idols (_sanam_) and images (_wathan_). If a statue were made of wood, gold, or silver, after a human form, it would be an idol_,_ but if the statue were made of stone, it would be an image.
 
-Representation of deities in animal-form was common in south Arabia, such as the god Sayin from Hadhramaut, who was represented as either an eagle fighting a serpent or a bull.[11]Awwam.jpg temple in Ma'rib.|alt=|left]]
+Representation of deities in animal-form was common in south Arabia, such as the god Sayin from Hadhramaut, who was represented as either an eagle fighting a serpent or a bull.[11] temple in Ma'rib.|alt=|left]]
 
 Sacred places
 
@@ -120,7 +120,7 @@ There were three methods of chance-based divination attested in pre-Islamic Arab
 
 Offerings and ritual sacrifice
 
-Petroglyphs_Wadi_Rum_Jordan1551.jpg petroglyphs from Wadi Rum, depicting a hunter, ibex, a camel and a rider on horseback. Camels were among the sacrificial animals in pre-Islamic Arabia.]] The most common offerings were animals, crops, food, liquids, inscribed metal plaques or stone tablets, aromatics, edifices and manufactured objects. Camel-herding Arabs would devote some of their beasts to certain deities. The beasts would have their ears slit and would be left to pasture without a herdsman, allowing them to die a natural death.
+petroglyphs from Wadi Rum, depicting a hunter, ibex, a camel and a rider on horseback. Camels were among the sacrificial animals in pre-Islamic Arabia.]] The most common offerings were animals, crops, food, liquids, inscribed metal plaques or stone tablets, aromatics, edifices and manufactured objects. Camel-herding Arabs would devote some of their beasts to certain deities. The beasts would have their ears slit and would be left to pasture without a herdsman, allowing them to die a natural death.
 
 Pre-Islamic Arabians, especially pastoralist tribes, sacrificed animals as an offering to a deity. This type of offering was common and involved domestic animals such as camels, sheep and cattle, while game animals and poultry were rarely or never mentioned. Sacrifice rites were not tied to a particular location though they were usually practiced in sacred places. Sacrifice rites could be performed by the devotee, though according to Hoyland, women were probably not allowed. The victim's blood, according to pre-Islamic Arabic poetry and certain south Arabian inscriptions, was also 'poured out' on the altar stone, thus forming a bond between the human and the deity. According to Muslim sources, most sacrifices were concluded with communal feasts.
 
@@ -141,7 +141,7 @@ By geography
 
 Eastern Arabia
 
-Slave.png, 2500 BC]]
+, 2500 BC]]
 
 The Dilmun civilization, which existed along the Persian Gulf coast and Bahrain until the 6th century BC, worshipped a pair of deities, Inzak and Meskilak. It is not known whether these were the only deities in the pantheon or whether there were others. The discovery of wells at the sites of a Dilmun temple and a shrine suggests that sweet water played an important part in religious practices.
 
@@ -149,13 +149,13 @@ In the subsequent Greco-Roman period, there is evidence that the worship of non-
 
 South Arabia
 
-South_Arabian_-_Stele_with_a_Female_Bust_-_Walters_2173.jpg priestess raising her hand to intercede with the sun goddess on behalf of a donor. Probably first century.]] The main sources of religious information in pre-Islamic south Arabia are inscriptions, which number in the thousands, as well as the Quran, complemented by archaeological evidence.
+priestess raising her hand to intercede with the sun goddess on behalf of a donor. Probably first century.]] The main sources of religious information in pre-Islamic south Arabia are inscriptions, which number in the thousands, as well as the Quran, complemented by archaeological evidence.
 
 The civilizations of south Arabia are considered to have the most developed pantheon in the Arabian peninsula. In south Arabia, the most common god was 'Athtar, who was considered remote. The patron deity (_shym_) was considered to be of much more immediate significance than 'Athtar. Thus, the kingdom of Saba' had Almaqah, the kingdom of Ma'in had Wadd, the kingdom of Qataban had 'Amm, and the kingdom of Hadhramaut had Sayin. Each people was termed the “children” of their respective patron deity. Patron deities played a vital role in sociopolitical terms, their cults serving as the focus of a person’s cohesion and loyalty.
 
 Evidence from surviving inscriptions suggests that each of the southern kingdoms had its own pantheon of three to five deities, the major deity always being a god.[25] For example, the pantheon of Saba comprised Almaqah, the major deity, together with 'Athtar, Haubas, Dhat-Himyam, and Dhat-Badan.[26] The main god in Ma'in and Himyar was 'Athtar, in Qataban it was Amm, and in Hadhramaut it was Sayin.[27] 'Amm was a lunar deity and was associated with the weather, especially lightning. One of the most frequent titles of the god Almaqah was "Lord of Awwam".
 
-Anbay was an oracular god of Qataban and also the spokesman of Amm. His name was invoked in royal regulations regarding water supply. Anbay's name was related to that of the Babylonian deity Nabu. Hawkam was invoked alongside Anbay as god of "command and decision" and his name is derived from the root word "to be wise". Jemen1988-026_hg.jpg, dedicated to Almaqah.]] Each kingdom's central temple was the focus of worship for the main god and would be the destination for an annual pilgrimage, with regional temples dedicated to a local manifestation of the main god.[28] Other beings worshipped included local deities or deities dedicated to specific functions as well as deified ancestors.[29]
+Anbay was an oracular god of Qataban and also the spokesman of Amm. His name was invoked in royal regulations regarding water supply. Anbay's name was related to that of the Babylonian deity Nabu. Hawkam was invoked alongside Anbay as god of "command and decision" and his name is derived from the root word "to be wise". , dedicated to Almaqah.]] Each kingdom's central temple was the focus of worship for the main god and would be the destination for an annual pilgrimage, with regional temples dedicated to a local manifestation of the main god.[28] Other beings worshipped included local deities or deities dedicated to specific functions as well as deified ancestors.[29]
 
 Influence of Arab tribes
 
@@ -189,8 +189,6 @@ The majority of extant information about Mecca during the rise of Islam and earl
 
 Role of Mecca and the Kaaba
 
-Black_Stone_front_and_side.PNG
-
 The Kaaba, whose environs were regarded as sacred (_haram_), became a national shrine under the custodianship of the Quraysh, the chief tribe of Mecca, which made the Hejaz the most important religious area in north Arabia. Its role was solidified by a confrontation with the Christian king Abraha, who controlled much of Arabia from a seat of power in Yemen in the middle of the sixth century.[46] Abraha had recently constructed a splendid church in Sana'a, and he wanted to make that city a major center of pilgrimage, but Mecca's Kaaba presented a challenge to his plan.[47] Abraha found a pretext for an attack on Mecca, presented by different sources alternatively as pollution of the church by a tribe allied to the Meccans or as an attack on Abraha's grandson in Najran by a Meccan party.[48] The defeat of the army he assembled to conquer Mecca is recounted with miraculous details by the Islamic tradition and is also alluded to in the Quran and pre-Islamic poetry.[49] After the battle, which probably occurred around 565, the Quraysh became a dominant force in western Arabia, receiving the title "God's people" (_ahl Allah_) according to Islamic sources, and formed the cult association of _ḥums_, which tied members of many tribes in western Arabia to the Kaaba.[50]
 
 The Kaaba, Allah, and Hubal
@@ -215,7 +213,7 @@ To counter the effects of anarchy, the institution of sacred months, during whic
 
 Advent of Islam
 
-Muhammad_destroying_idols_-_L'Histoire_Merveilleuse_en_Vers_de_Mahomet_BNF.jpg depicting the destruction of idols during the conquest of Mecca; here Muhammad is represented as a flame.]]
+depicting the destruction of idols during the conquest of Mecca; here Muhammad is represented as a flame.]]
 
 According to Ibn Sa'd, the opposition in Mecca started when the prophet of Islam, Muhammad, delivered verses that "spoke shamefully of the idols they (the Meccans) worshiped other than Himself (God) and mentioned the perdition of their fathers who died in disbelief." According to William Montogomery Watt, as the ranks of Muhammad's followers swelled, he became a threat to the local tribes and the rulers of the city, whose wealth rested upon the Kaaba, the focal point of Meccan religious life, which Muhammad threatened to overthrow.[71] Muhammad's denunciation of the Meccan traditional religion was especially offensive to his own tribe, the Quraysh, as they were the guardians of the Kaaba.[72]
 
@@ -229,7 +227,7 @@ The Safaitic tribes in particular prominently worshipped the goddess al-Lat as a
 
 Religious worship amongst the Qedarites, an ancient tribal confederation that was probably subsumed into Nabataea around the 2nd century AD, was centered around a polytheistic system in which women rose to prominence. Divine images of the gods and goddesses worshipped by Qedarite Arabs, as noted in Assyrian inscriptions, included representations of Atarsamain, Nuha, Ruda, Dai, Abirillu and Atarquruma. The female guardian of these idols, usually the reigning queen, served as a priestess (_apkallatu_, in Assyrian texts) who communed with the other world. There is also evidence that the Qedar worshipped al-Lat to whom the inscription on a silver bowl from a king of Qedar is dedicated. In the Babylonian Talmud, which was passed down orally for centuries before being transcribed c. 500 AD, in tractate Taanis (folio 5b), it is said that most Qedarites worshiped pagan gods.
 
-Stele_Salm_Louvre_AO5009.jpg dedicated to the god Salm]]
+dedicated to the god Salm]]
 
 The Aramaic stele inscription discovered by Charles Hubert in 1880 at Tayma mentions the introduction of a new god called Salm of _hgm_ into the city's pantheon being permitted by three local gods - Salm of Mahram who was the chief god, Shingala and Ashira. The name Salm means "image" or "idol".
 
@@ -241,11 +239,11 @@ According to the _Book of Idols_, the Tayy tribe worshipped al-Fals, whose idol 
 
 Nabataeans
 
-Dhushara.JPG, National Museum of Damascus]]The Nabataeans worshipped primarily northern Arabian deities. Under foreign influences, they also incorporated foreign deities and elements into their beliefs.
+, National Museum of Damascus]]The Nabataeans worshipped primarily northern Arabian deities. Under foreign influences, they also incorporated foreign deities and elements into their beliefs.
 
 The Nabataeans’ chief-god is Dushara. In Petra, the only major goddess is al-’Uzza, assuming the traits of Isis, Tyche and Aphrodite. It is unknown if her worship and identity is related to her cult at Nakhla and others. The Nabatean inscriptions define Allāt and Al-Uzza as the "bride of Dushara". Al-Uzza may have been an epithet of Allāt in the Nabataean religion according to John F. Healey.[73]
 
-Outside Petra, other deities were worshipped; for example, Hubal and Manat were invoked in the Hejaz, and al-Lat was invoked in the Hauran and the Syrian desert. The Nabataean king Obodas I, who founded Obodat, was deified and worshipped as a god. They also worshipped Shay al-Qawm, al-Kutba', and various Greco-Roman deities such as Nike and Tyche. Maxime Rodinson suggests that Hubal, who was popular in Mecca, had an Nabataean origin. Nike_with_Zodiac_(copy)_Archaeological_Museum_Amman_Citadel_Jordan0820.jpg holding up a bust of Atargatis, crowned as Tyche and encircled by the signs of the zodiac. Amman Museum copy of Nabataean statue, 100 AD.]]The worship of Pakidas, a Nabataean god, is attested at Gerasa alongside Hera in an inscription dated to the first century A.D. while an Arabian god is also attested by three inscriptions dated to the second century.
+Outside Petra, other deities were worshipped; for example, Hubal and Manat were invoked in the Hejaz, and al-Lat was invoked in the Hauran and the Syrian desert. The Nabataean king Obodas I, who founded Obodat, was deified and worshipped as a god. They also worshipped Shay al-Qawm, al-Kutba', and various Greco-Roman deities such as Nike and Tyche. Maxime Rodinson suggests that Hubal, who was popular in Mecca, had an Nabataean origin. holding up a bust of Atargatis, crowned as Tyche and encircled by the signs of the zodiac. Amman Museum copy of Nabataean statue, 100 AD.]]The worship of Pakidas, a Nabataean god, is attested at Gerasa alongside Hera in an inscription dated to the first century A.D. while an Arabian god is also attested by three inscriptions dated to the second century.
 
 The Nabataeans were known for their elaborate tombs, but they were not just for show; they were meant to be comfortable places for the dead. Petra has many "sacred high places" which include altars that have usually been interpreted as places of human sacrifice, although, since the 1960s, an alternative theory that they are "exposure platforms" for placing the corpses of the deceased as part of a funerary ritual has been put forward. However, there is, in fact, little evidence for either proposition.
 
@@ -282,7 +280,7 @@ Abrahamic religions
 
 Judaism
 
-04ring.jpg with writing "Yishaq bar Hanina" and a Torah ark, 330 BC–200 AD|alt=]] A thriving community of Jewish tribes existed in pre-Islamic Arabia and included both sedentary and nomadic communities. Jews had migrated into Arabia from Roman times onwards. Arabian Jews spoke Arabic as well as Hebrew and Aramaic and had contact with Jewish religious centers in Babylonia and Palestine. The Yemeni Himyarites converted to Judaism in the 4th century, and some of the Kindah, a tribe in central Arabia who were their vassals, were also converted in the 4th/5th century. Jewish tribes existed in all major Arabian towns during Muhammad's time including in Tayma and Khaybar as well as Medina with twenty tribes living in the peninsula. From tomb inscriptions, it is visible that Jews also lived in Mada'in Saleh and Al-`Ula.
+with writing "Yishaq bar Hanina" and a Torah ark, 330 BC–200 AD|alt=]] A thriving community of Jewish tribes existed in pre-Islamic Arabia and included both sedentary and nomadic communities. Jews had migrated into Arabia from Roman times onwards. Arabian Jews spoke Arabic as well as Hebrew and Aramaic and had contact with Jewish religious centers in Babylonia and Palestine. The Yemeni Himyarites converted to Judaism in the 4th century, and some of the Kindah, a tribe in central Arabia who were their vassals, were also converted in the 4th/5th century. Jewish tribes existed in all major Arabian towns during Muhammad's time including in Tayma and Khaybar as well as Medina with twenty tribes living in the peninsula. From tomb inscriptions, it is visible that Jews also lived in Mada'in Saleh and Al-`Ula.
 
 There is evidence that Jewish converts in the Hejaz were regarded as Jews by other Jews and non-Jews alike and have sought advice from Babylonian rabbis on matters of attire and kosher food. In at least one case, it is known that an Arab tribe agreed to adopting Judaism as a condition for settling in a town dominated by Jewish inhabitants. Some Arab women in Yathrib/Medina are said to have vowed to make their child a Jew if the child survived, since they considered the Jews to be people "of knowledge and the book" (_`ilmin wa-kitābin_). Philip Hitti infers from proper names and agricultural vocabulary that the Jewish tribes of Yathrib consisted mostly of Judaized clans of Arabian and Aramaean origin.
 
@@ -292,7 +290,7 @@ Jewish agriculturalists lived in the region of Eastern Arabia. According to Robe
 
 Christianity
 
-Jubail_Church.jpg in eastern Saudi Arabia. The 4th century remains are thought to be one of the oldest surviving church buildings in the world.]] The main areas of Christian influence in Arabia were on the north eastern and north western borders and in what was to become Yemen in the south. The north west was under the influence of Christian missionary activity from the Roman Empire where the Ghassanids, a client kingdom of the Romans, were converted to Christianity. In the south, particularly at Najran, a centre of Christianity developed as a result of the influence of the Christian Kingdom of Axum based on the other side of the Red Sea in Ethiopia. Some of the Banu Harith had converted to Christianity. One family of the tribe built a large church at Najran called _Deir Najran_, also known as the "Ka'ba of Najran". Both the Ghassanids and the Christians in the south adopted Monophysitism.
+in eastern Saudi Arabia. The 4th century remains are thought to be one of the oldest surviving church buildings in the world.]] The main areas of Christian influence in Arabia were on the north eastern and north western borders and in what was to become Yemen in the south. The north west was under the influence of Christian missionary activity from the Roman Empire where the Ghassanids, a client kingdom of the Romans, were converted to Christianity. In the south, particularly at Najran, a centre of Christianity developed as a result of the influence of the Christian Kingdom of Axum based on the other side of the Red Sea in Ethiopia. Some of the Banu Harith had converted to Christianity. One family of the tribe built a large church at Najran called _Deir Najran_, also known as the "Ka'ba of Najran". Both the Ghassanids and the Christians in the south adopted Monophysitism.
 
 The third area of Christian influence was on the north eastern borders where the Lakhmids, a client tribe of the Sassanians, adopted Nestorianism, being the form of Christianity having the most influence in the Sassanian Empire. As the Persian Gulf region of Arabia increasingly fell under the influence of the Sassanians from the early third century, many of the inhabitants were exposed to Christianity following the eastward dispersal of the religion by Mesopotamian Christians. However, it was not until the fourth century that Christianity gained popularity in the region with the establishment of monasteries and a diocesan structure.
 

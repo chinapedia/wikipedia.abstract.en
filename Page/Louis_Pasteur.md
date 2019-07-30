@@ -11,7 +11,7 @@ He was the director of the Pasteur Institute, established in 1887, until his dea
 
 Education and early life
 
-Louis_Pasteur_Geburtshaus_in_Dole.jpg]] Louis Pasteur was born on December 27, 1822, in Dole, Jura, France, to a Catholic family of a poor tanner.[8] He was the third child of Jean-Joseph Pasteur and Jeanne-Etiennette Roqui. The family moved to Marnoz in 1826 and then to Arbois in 1827.[9][10] Pasteur entered primary school in 1831.[11]
+]] Louis Pasteur was born on December 27, 1822, in Dole, Jura, France, to a Catholic family of a poor tanner.[8] He was the third child of Jean-Joseph Pasteur and Jeanne-Etiennette Roqui. The family moved to Marnoz in 1826 and then to Arbois in 1827.[9][10] Pasteur entered primary school in 1831.[11]
 
 He was an average student in his early years, and not particularly academic, as his interests were fishing and sketching.[12] He drew many pastels and portraits of his parents, friends and neighbors.[13] Pasteur attended secondary school at the Collège d'Arbois.[14] In October 1838, he left for Paris to join the Pension Barbet, but became homesick and returned in November.[15]
 
@@ -24,7 +24,7 @@ After serving briefly as professor of physics at the Dijon Lycée in 1848, he be
 
 Career
 
-Louis_Pasteur_en_1857.jpg Pasteur was appointed professor of chemistry at the University of Strasbourg in 1848, and became the chair of chemistry in 1852.[30] In 1854, he was named dean of the new faculty of sciences at University of Lille, where he began his studies on fermentation.[31] It was on this occasion that Pasteur uttered his oft-quoted remark: "_dans les champs de l'observation, le hasard ne favorise que les esprits préparés_" ("In the field of observation, chance favors only the prepared mind").[32]
+Pasteur was appointed professor of chemistry at the University of Strasbourg in 1848, and became the chair of chemistry in 1852.[30] In 1854, he was named dean of the new faculty of sciences at University of Lille, where he began his studies on fermentation.[31] It was on this occasion that Pasteur uttered his oft-quoted remark: "_dans les champs de l'observation, le hasard ne favorise que les esprits préparés_" ("In the field of observation, chance favors only the prepared mind").[32]
 
 In 1857, he moved to Paris as the director of scientific studies at the _École Normale Supérieure_ where he took control from 1858 to 1867 and introduced a series of reforms to improve the standard of scientific work. The examinations became more rigid, which led to better results, greater competition, and increased prestige. Many of his decrees, however, were rigid and authoritarian, leading to two serious student revolts. During "the bean revolt" he decreed that a mutton stew, which students had refused to eat, would be served and eaten every Monday. On another occasion he threatened to expel any student caught smoking, and 73 of the 80 students in the school resigned.[33]
 
@@ -35,7 +35,7 @@ Research
 
 Molecular asymmetry
 
-Pcrystals.svg shapes from each other to form two piles of crystals: in solution one form rotated light to the left, the other to the right, while an equal mixture of the two forms canceled each other's effect, and does not rotate the polarized light.]]
+shapes from each other to form two piles of crystals: in solution one form rotated light to the left, the other to the right, while an equal mixture of the two forms canceled each other's effect, and does not rotate the polarized light.]]
 
 In Pasteur's early work as a chemist, beginning at the _École Normale Supérieure_, and continuing at Strasbourg and Lille, he examined the chemical, optical and crystallographic properties of a group of compounds known as tartrates.[40]
 
@@ -51,7 +51,7 @@ Pasteur was motivated to investigate fermentation while working at Lille. In 185
 
 According to his son-in-law, René Vallery-Radot, in August 1857 Pasteur sent a paper about lactic acid fermentation to the Société des Sciences de Lille, but the paper was read three months later.[53] A memoire was subsequently published on November 30, 1857.[54] In the memoir, he developed his ideas stating that: "I intend to establish that, just as there is an alcoholic ferment, the yeast of beer, which is found everywhere that sugar is decomposed into alcohol and carbonic acid, so also there is a particular ferment, a lactic yeast, always present when sugar becomes lactic acid."[55]
 
-Pasteur also wrote about alcoholic fermentation.[56] It was published in full form in 1858.[57][58] Jöns Jacob Berzelius and Justus von Liebig had proposed the theory that fermentation was caused by decomposition. Pasteur demonstrated that this theory was incorrect, and that yeast was responsible for fermentation to produce alcohol from sugar.[59] He also demonstrated that, when a different microorganism contaminated the wine, lactic acid was produced, making the wine sour.[60] In 1861, Pasteur observed that less sugar fermented per part of yeast when the yeast was exposed to air.[61] The lower rate of fermentation aerobically became known as the Pasteur effect.[62] Louis_Pasteur_experiment.jpg LouisPasteurMonumentLille.jpg]]
+Pasteur also wrote about alcoholic fermentation.[56] It was published in full form in 1858.[57][58] Jöns Jacob Berzelius and Justus von Liebig had proposed the theory that fermentation was caused by decomposition. Pasteur demonstrated that this theory was incorrect, and that yeast was responsible for fermentation to produce alcohol from sugar.[59] He also demonstrated that, when a different microorganism contaminated the wine, lactic acid was produced, making the wine sour.[60] In 1861, Pasteur observed that less sugar fermented per part of yeast when the yeast was exposed to air.[61] The lower rate of fermentation aerobically became known as the Pasteur effect.[62] ]]
 
 Pasteur's research also showed that the growth of micro-organisms was responsible for spoiling beverages, such as beer, wine and milk. With this established, he invented a process in which liquids such as milk were heated to a temperature between 60 and 100 °C.[63] This killed most bacteria and moulds already present within them. Pasteur and Claude Bernard completed tests on blood and urine on April 20, 1862.[64] Pasteur patented the process, to fight the "diseases" of wine, in 1865.[65] The method became known as pasteurization, and was soon applied to beer and milk.[66]
 
@@ -65,7 +65,7 @@ Silkworms with pébrine were covered in corpuscles. In the first three years, Pa
 
 Spontaneous generation
 
-Coldecygne.svg) used by Pasteur]] Louis_Pasteur_Experiment.svg Following his fermentation experiments, Pasteur demonstrated that the skin of grapes was the natural source of yeasts, and that sterilized grapes and grape juice never fermented. He drew grape juice from under the skin with sterilized needles, and also covered grapes with sterilized cloth. Both experiments could not produce wine in sterilized containers.[78]
+) used by Pasteur]] Following his fermentation experiments, Pasteur demonstrated that the skin of grapes was the natural source of yeasts, and that sterilized grapes and grape juice never fermented. He drew grape juice from under the skin with sterilized needles, and also covered grapes with sterilized cloth. Both experiments could not produce wine in sterilized containers.[78]
 
 His findings and ideas were against the prevailing notion of spontaneous generation. He received a particularly stern criticism from Félix Archimède Pouchet, who was director of the Rouen Museum of Natural History. To settle the debate between the eminent scientists, the French Academy of Sciences offered the Alhumbert Prize carrying 2,500 francs to whoever could experimentally demonstrate for or against the doctrine.[79][80][81]
 
@@ -87,7 +87,7 @@ In December 1879, Pasteur used a weakened culture of the bacteria to inoculate c
 
 Anthrax
 
-In the 1870s, he applied this immunization method to anthrax, which affected cattle, and aroused interest in combating other diseases. Pasteur cultivated bacteria from the blood of animals infected with anthrax. When he inoculated animals with the bacteria, anthrax occurred, proving that the bacteria was the cause of the disease.[101] Many cattle were dying of anthrax in "cursed fields".[102] Pasteur was told that sheep that died from anthrax were buried in the field. Pasteur thought that earthworms might have brought the bacteria to the surface. He found anthrax bacteria in earthworms' excrement, showing that he was correct.[103] He told the farmers not to bury dead animals in the fields.[104] Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg in 1885]]
+In the 1870s, he applied this immunization method to anthrax, which affected cattle, and aroused interest in combating other diseases. Pasteur cultivated bacteria from the blood of animals infected with anthrax. When he inoculated animals with the bacteria, anthrax occurred, proving that the bacteria was the cause of the disease.[101] Many cattle were dying of anthrax in "cursed fields".[102] Pasteur was told that sheep that died from anthrax were buried in the field. Pasteur thought that earthworms might have brought the bacteria to the surface. He found anthrax bacteria in earthworms' excrement, showing that he was correct.[103] He told the farmers not to bury dead animals in the fields.[104] in 1885]]
 
 In 1880, Pasteur's rival Jean-Joseph-Henri Toussaint, a veterinary surgeon, used carbolic acid to kill anthrax bacilli and tested the vaccine on sheep. Pasteur thought that this type of killed vaccine should not work because he believed that attenuated bacteria used up nutrients that the bacteria needed to grow. He thought oxidizing bacteria made them less virulent.[105] In early 1881, Pasteur discovered that growing anthrax bacilli at about 42 °C made them unable to produce spores,[106] and he described this method in a speech to the French Academy of Sciences on February 28.[107] Later in 1881, veterinarian Hippolyte Rossignol proposed that the Société d'agriculture de Melun organize an experiment to test Pasteur's vaccine. Pasteur agreed, and the experiment, conducted at Pouilly-le-Fort on sheep, goats and cows, was successful. Pasteur did not directly disclose how he prepared the vaccines used at Pouilly-le-Fort.[108][109] His laboratory notebooks, now in the Bibliothèque Nationale in Paris, show that he actually used heat and potassium dichromate, similar to Toussaint's method.[110][111][112]
 
@@ -153,13 +153,13 @@ Pasteur was made a Chevalier of the Legion of Honour in 1853, promoted to Office
 
 Legacy
 
-Vulitsya_Pastera.JPG, Ukraine]]
+, Ukraine]]
 
 In many localities worldwide, streets are named in his honor. For example, in the US: Palo Alto and Irvine, California, Boston and Polk, Florida, adjacent to the University of Texas Health Science Center at San Antonio; Jonquière, Québec; San Salvador de Jujuy and Buenos Aires (Argentina), Great Yarmouth in Norfolk, in the United Kingdom, Jericho and Wulguru in Queensland, (Australia); Phnom Penh in Cambodia; Ho Chi Minh City; Batna in Algeria; Bandung in Indonesia, Tehran in Iran, near the central campus of the Warsaw University in Warsaw, Poland; adjacent to the Odessa State Medical University in Odessa, Ukraine; Milan in Italy and Bucharest, Cluj-Napoca and Timișoara in Romania. The Avenue Pasteur in Saigon, Vietnam, is one of the few streets in that city to retain its French name. _Avenue Louis Pasteur_ in the Longwood Medical and Academic Area in Boston, Massachusetts was named in his honor in the French manner with "Avenue" preceding the name of the dedicatee.[199]
 
 Both the Institute Pasteur and Université Louis Pasteur were named after Pasteur. The schools Lycée Pasteur in Neuilly-sur-Seine, France, and Lycée Louis Pasteur in Calgary, Alberta, Canada, are named after him. In South Africa, the Louis Pasteur Private Hospital in Pretoria, and Life Louis Pasteur Private Hospital, Bloemfontein, are named after him. Louis Pasteur University Hospital in Košice, Slovakia is also named after Pasteur.
 
-UNLP_Košice,_Poliklinika_(1).JPG, Slovakia ]]
+, Slovakia ]]
 
 A statue of Pasteur is erected at San Rafael High School in San Rafael, California. A bronze bust of him resides on the French Campus of Kaiser Permanente's San Francisco Medical Center in San Francisco. The sculpture was designed by Harriet G. Moore and cast in 1984 by Artworks Foundry.[200]
 

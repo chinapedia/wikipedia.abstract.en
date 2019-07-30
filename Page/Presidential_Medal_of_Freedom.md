@@ -14,7 +14,7 @@ The medal may be awarded to an individual more than once; Colin Powell received 
 
 Insignia
 
-presidential-medal-of-freedom.jpgPMOFwD1.jpg.]] The badge of the Presidential Medal of Freedom is in the form of a golden star with white enamel, with a red enamel pentagon behind it; the central disc bears thirteen gold stars on a blue enamel background (taken from the Great Seal of the United States) within a golden ring. Golden North American bald eagles with spread wings stand between the points of the star. It is worn around the neck on a blue ribbon with white edge stripes.
+.]] The badge of the Presidential Medal of Freedom is in the form of a golden star with white enamel, with a red enamel pentagon behind it; the central disc bears thirteen gold stars on a blue enamel background (taken from the Great Seal of the United States) within a golden ring. Golden North American bald eagles with spread wings stand between the points of the star. It is worn around the neck on a blue ribbon with white edge stripes.
 
 A special rarely given grade of the medal, known as the Presidential Medal of Freedom with Distinction,[10] has a larger execution of the same medal design worn as a star on the left chest along with a sash over the right shoulder (similar to how the insignia of a Grand Cross is worn), with its rosette (blue with white edge, bearing the central disc of the medal at its center) resting on the left hip. When the medal With Distinction is awarded, the star may be presented descending from a neck ribbon and can be identified by its larger size than the standard medal (compare size of medals in pictures below).
 

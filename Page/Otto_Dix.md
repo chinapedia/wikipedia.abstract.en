@@ -11,7 +11,7 @@ The majority of Dix’s early works concentrated on landscapes and portraits whi
 
 World War I service
 
-'Stormtroops_Advancing_Under_Gas',_etching_and_aquatint_by_Otto_Dix,_1924.jpg by Otto Dix, 1924]] When the First World War erupted, Dix enthusiastically volunteered for the German Army. He was assigned to a field artillery regiment in Dresden. In the autumn of 1915 he was assigned as a non-commissioned officer of a machine-gun unit on the Western front and took part in the Battle of the Somme. In November 1917, his unit was transferred to the Eastern front until the end of hostilities with Russia, and in February 1918 he was stationed in Flanders. Back on the western front, he fought in the German Spring Offensive. He earned the Iron Cross (second class) and reached the rank of _vizefeldwebel_. In August of that year he was wounded in the neck, and shortly after he took pilot training lessons.
+by Otto Dix, 1924]] When the First World War erupted, Dix enthusiastically volunteered for the German Army. He was assigned to a field artillery regiment in Dresden. In the autumn of 1915 he was assigned as a non-commissioned officer of a machine-gun unit on the Western front and took part in the Battle of the Somme. In November 1917, his unit was transferred to the Eastern front until the end of hostilities with Russia, and in February 1918 he was stationed in Flanders. Back on the western front, he fought in the German Spring Offensive. He earned the Iron Cross (second class) and reached the rank of _vizefeldwebel_. In August of that year he was wounded in the neck, and shortly after he took pilot training lessons.
 
 He took part in a _Fliegerabwehr-Kurs_ ("Defense Pilot Course") in Tongern, was promoted to Vizefeldwebel and after passing the medical tests transferred to Aviation Replacement Unit Schneidemühl in Posen. He was discharged from service in 22 December 1918 and was home for Christmas.[4]
 
@@ -19,7 +19,7 @@ Dix was profoundly affected by the sights of the war, and later described a recu
 
 Post-war artwork
 
-Otto_Dix_Sy_von_Harden.jpg'', 1926, mixed media on wood, 120 x 88 cm, Paris, Centre Georges Pompidou]] At the end of 1918 Dix returned to Gera, but the next year he moved to Dresden, where he studied at the Hochschule für Bildende Künste. He became a founder of the Dresden Secession group in 1919, during a period when his work was passing through an expressionist phase.[6] In 1920, he met George Grosz and, influenced by Dada, began incorporating collage elements into his works, some of which he exhibited in the first Dada Fair in Berlin. He also participated in the German Expressionists exhibition in Darmstadt that year.[7]
+'', 1926, mixed media on wood, 120 x 88 cm, Paris, Centre Georges Pompidou]] At the end of 1918 Dix returned to Gera, but the next year he moved to Dresden, where he studied at the Hochschule für Bildende Künste. He became a founder of the Dresden Secession group in 1919, during a period when his work was passing through an expressionist phase.[6] In 1920, he met George Grosz and, influenced by Dada, began incorporating collage elements into his works, some of which he exhibited in the first Dada Fair in Berlin. He also participated in the German Expressionists exhibition in Darmstadt that year.[7]
 
 In 1924, he joined the Berlin Secession; by this time he was developing an increasingly realistic style of painting that used thin glazes of oil paint over a tempera underpainting, in the manner of the old masters. His 1923 painting _The Trench_, which depicted dismembered and decomposed bodies of soldiers after a battle, caused such a furore that the Wallraf-Richartz Museum hid the painting behind a curtain. In 1925 the then-mayor of Cologne, Konrad Adenauer, cancelled the purchase of the painting and forced the director of the museum to resign.
 
@@ -41,7 +41,7 @@ During World War II Dix was conscripted into the _Volkssturm_. He was captured b
 
 Later life and death
 
-20_EUR_GM_Deutschland_2016_125_Geburtstag_Otto_Dix_Bildseite.jpg Dix eventually returned to Dresden and remained there until 1966. After the war most of his paintings were religious allegories or depictions of post-war suffering, including his 1948 _Ecce homo with self-likeness behind barbed wire_. In this period, Dix gained recognition in both parts of the then-divided Germany. In 1959 he was awarded the Grand Merit Cross of the Federal Republic of Germany (_Großes Verdienstkreuz_) and in 1950, he was unsuccessfully nominated for the National Prize of the GDR. He received the Lichtwark Prize in Hamburg and the Martin Andersen Nexo Art Prize in Dresden to mark his 75th birthday in 1967. Dix was made an honorary citizen of Gera. Also in 1967 he received the Hans Thoma Prize and in 1968 the Rembrandt Prize of the Goethe Foundation in Salzburg.
+Dix eventually returned to Dresden and remained there until 1966. After the war most of his paintings were religious allegories or depictions of post-war suffering, including his 1948 _Ecce homo with self-likeness behind barbed wire_. In this period, Dix gained recognition in both parts of the then-divided Germany. In 1959 he was awarded the Grand Merit Cross of the Federal Republic of Germany (_Großes Verdienstkreuz_) and in 1950, he was unsuccessfully nominated for the National Prize of the GDR. He received the Lichtwark Prize in Hamburg and the Martin Andersen Nexo Art Prize in Dresden to mark his 75th birthday in 1967. Dix was made an honorary citizen of Gera. Also in 1967 he received the Hans Thoma Prize and in 1968 the Rembrandt Prize of the Goethe Foundation in Salzburg.
 
 Dix died on 25 July 1969 after a second stroke in Singen am Hohentwiel. He is buried at Hemmenhofen on Lake Constance.[15]
 
@@ -50,7 +50,7 @@ Dix had three children: a daughter Nelly (1923–1955) and two sons, Ursus (1927
 
 Otto-Dix-Haus Museum
 
-Gera_-_Otto_Dix_Haus.jpg Since 1991, the 100th anniversary of Dix's birth, the 18th-century house where he was born and grew up, at Mohrenplatz 4 in the city of Gera, has been open to the public as a museum and art gallery. It is managed by the city administration.
+Since 1991, the 100th anniversary of Dix's birth, the 18th-century house where he was born and grew up, at Mohrenplatz 4 in the city of Gera, has been open to the public as a museum and art gallery. It is managed by the city administration.
 
 As well as providing access to the rooms Dix lived in, it houses a permanent collection of 400 of his works on paper and paintings. Visitors can see examples of his childhood sketch books, watercolours and drawings from the 1920s and 1930s, and lithographs. The collection also includes 48 postcards he sent from the front during World War I.[16]
 

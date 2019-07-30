@@ -27,7 +27,7 @@ Economically, the Philippines is a participant in the Asia-Pacific Economic Coop
 
 Foreign policy
 
-Diplomatic_missions_of_the_Philippines.png Philippine foreign policy is based on the advancement of Filipino ideals and values, which include the advancement of democracy and advocacy for human rights worldwide.
+Philippine foreign policy is based on the advancement of Filipino ideals and values, which include the advancement of democracy and advocacy for human rights worldwide.
 
 The nation is currently actively engaging with regional neighbors in Southeast Asia through the Association of Southeast Asian Nations (as a founding member) with the intention of strengthening regional harmony, stability, and prosperity. It has been a supporter of East Timor since the latter's independence and has expanded trade links with its traditional allies Indonesia, Malaysia, Singapore, and Thailand. Relations with Vietnam and Cambodia have thawed in the 1990s after their entry into the ASEAN.
 

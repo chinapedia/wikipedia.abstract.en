@@ -3,8 +3,6 @@ Citizens of Mauritania have various transportation methods. Railways and highway
 
 Railways
 
-Railways_in_Mauritania.svg
-
 -   717 km total of single track (standard gauge), owned and operated by a government mining company, Société Nationale Industrielle et Minière (National Mining and Industrial Company, SNIM). The railway goes from the mines at Zouerat and El Rhein, passes another mine at Fderik, and ends at the port of Nouadhibou/Cansado.
 -   One of the world's longest trains (up to 2.5 km long) runs here, with more than 200 wagons mainly transporting iron ore, and some carriages for passengers; alternatively, people sit on top of the iron piles.[1][2][3]
 

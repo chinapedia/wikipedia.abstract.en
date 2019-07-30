@@ -26,8 +26,6 @@ Mozambique has also been involved in many peacekeeping operations in Burundi (23
 
 Land Forces
 
-FADM_Training_Officer.jpeg
-
 The Mozambican Army was formed in 1976 from three conventional battalions, two of which were trained in Tanzania and a third of which was trained in Zambia.[9] Army officer candidates were initially trained in Maputo by Chinese military instructors.[10] In March 1977, following Mozambique's Treaty of Friendship and Cooperation with the Soviet Union, officer candidates became eligible for training in various Warsaw Pact member states.[11] The Soviet military mission in Mozambique assisted in raising a new army composed of five infantry brigades and an armored brigade.[12] At the height of the civil war, this was gradually increased to eight infantry brigades, an armored brigade, and a counter-insurgency brigade[13] modeled after the Zimbabwean 5th Brigade.[14]
 
 The preexisting army was abolished after the end of the civil war under the auspices of the Joint Commission for the Formation of the Mozambican Defence Force (CCFADM), which included advisers from Portugal, France, and the United Kingdom.[15] The CCFADM recommended that former army personnel and an equal number of demobilised RENAMO insurgents be integrated into a single force numbering about 30,000.[16] Due to logistics problems and budgetary constraints, however, the army only numbered about 12,195 in 1995.[17] Force levels rarely fluctuated between 1995 and the mid-2000s due to the army's limited resources and low budget priority.[18]
@@ -210,8 +208,6 @@ In 2014, the Brazilian Minister of Defense disclosed its intention to donate 3 E
 In 2014, Mozambique News and Clippings 256 (Hanlon, J)reported the following: "The Romanian company Aerostar has completed the overhaul and upgrade of eight Mozambique Air Force MiG-21 fighters, some of which had not flown operationally for more than 20 years. The package also included the overhaul of a L-39 jet trainer along with six single-seat Mig-21 fighter jets and two double-seat MiG-21 trainer aircraft, as well as a full training programme for ground staff and pilots. Two R-40S basic trainer aircraft were also delivered. Six MiG-21s are now back in Mozambique with the final two aircraft shipped from Romania in early July".
 
 Current inventory
-
-Mozambique_Air_Force_insignia.svg
 
   Aircraft           Origin           Type          Variant   In service   Notes
   ------------------ ---------------- ------------- --------- ------------ -------

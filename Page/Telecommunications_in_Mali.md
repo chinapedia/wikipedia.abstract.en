@@ -1,4 +1,4 @@
-Enfants_et_télé_au_Mali.jpg Mali, a large, landlocked, multicultural country in West Africa, consistently ranks low in the Human Development Index. The infrastructure of COMMUNICATIONS IN MALI, while underdeveloped, is crucial to the nation.
+Mali, a large, landlocked, multicultural country in West Africa, consistently ranks low in the Human Development Index. The infrastructure of COMMUNICATIONS IN MALI, while underdeveloped, is crucial to the nation.
 
 
 History
@@ -42,7 +42,7 @@ TELEVISIONS: 45,000 (1997)
 
 Internet
 
-Geekcorps_computer_training_class,_Bamako,_Mali.jpg.]]
+.]]
 
 TOP-LEVEL DOMAIN: .ml
 

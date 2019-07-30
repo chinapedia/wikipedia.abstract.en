@@ -9,11 +9,11 @@ The MCG is listed on the Victorian Heritage Register[2] and was included on the 
 
 Early history
 
-Aboriginal_cricket_team_Tom_Wills_1866.jpg with captain-coach Tom Wills, December 1866. In the background is the original MCC pavilion, built in 1854.]] Founded in November 1838 the Melbourne Cricket Club (MCC) selected the current MCG site in 1853 after previously playing at several grounds around Melbourne. The club's first game was against a military team at the Old Mint site, at the corner of William and Latrobe Streets. Burial Hill (now Flagstaff Gardens) became its home ground in January 1839, but the area was already set aside for Botanical Gardens and the club was moved on in October 1846, to an area on the south bank of the Yarra about where the Herald and Weekly Times building is today. The area was subject to flooding, forcing the club to move again, this time to a ground in South Melbourne.
+with captain-coach Tom Wills, December 1866. In the background is the original MCC pavilion, built in 1854.]] Founded in November 1838 the Melbourne Cricket Club (MCC) selected the current MCG site in 1853 after previously playing at several grounds around Melbourne. The club's first game was against a military team at the Old Mint site, at the corner of William and Latrobe Streets. Burial Hill (now Flagstaff Gardens) became its home ground in January 1839, but the area was already set aside for Botanical Gardens and the club was moved on in October 1846, to an area on the south bank of the Yarra about where the Herald and Weekly Times building is today. The area was subject to flooding, forcing the club to move again, this time to a ground in South Melbourne.
 
 It was not long before the club was forced out again, this time because of the expansion of the railway. The South Melbourne ground was in the path of Victoria's first steam railway line from Melbourne to Sandridge (now Port Melbourne). Governor La Trobe offered the MCC a choice of three sites; an area adjacent to the existing ground, a site at the junction of Flinders and Spring Streets or a ten-acre (about 4 hectares) section of the Government Paddock at Richmond next to Richmond Park.
 
-Police_Paddock_East_Melbourne.jpg This last option, which is now Yarra Park, had been used by Aborigines until 1835. Between 1835 and the early 1860s it was known as the Government or Police Paddock and served as a large agistment area for the horses of the Mounted Police, Border Police and Native Police. The north-eastern section also housed the main barracks for the Mounted Police in the Port Phillip district. In 1850 it was part of a stretch set aside for public recreation extending from Governor La Trobe's Jolimont Estate to the Yarra River. By 1853 it had become a busy promenade for Melbourne residents.
+This last option, which is now Yarra Park, had been used by Aborigines until 1835. Between 1835 and the early 1860s it was known as the Government or Police Paddock and served as a large agistment area for the horses of the Mounted Police, Border Police and Native Police. The north-eastern section also housed the main barracks for the Mounted Police in the Port Phillip district. In 1850 it was part of a stretch set aside for public recreation extending from Governor La Trobe's Jolimont Estate to the Yarra River. By 1853 it had become a busy promenade for Melbourne residents.
 
 An MCC sub-committee chose the Richmond Park option because it was level enough for cricket but sloped enough to prevent inundation. That ground was located where the Richmond, or outer, end of the current MCG is now.
 
@@ -26,7 +26,7 @@ In 1863 a corridor of land running diagonally across Yarra Park was granted to t
 
 Stadium development
 
-MCG_grandstand.jpg's 1877 visit]] MCG_1914.jpg MCG99.jpg The first grandstand at the MCG was the original wooden members’ stand built in 1854, while the first public grandstand was a 200-metre long 6000-seat temporary structure built in 1861. Another grandstand seating 2000, facing one way to the cricket ground and the other way to the park where football was played, was built in 1876 for the 1877 visit of James Lillywhite's English cricket team. It was during this tour that the MCG hosted the world's first Test match.
+'s 1877 visit]] The first grandstand at the MCG was the original wooden members’ stand built in 1854, while the first public grandstand was a 200-metre long 6000-seat temporary structure built in 1861. Another grandstand seating 2000, facing one way to the cricket ground and the other way to the park where football was played, was built in 1876 for the 1877 visit of James Lillywhite's English cricket team. It was during this tour that the MCG hosted the world's first Test match.
 
 In 1881 the original members' stand was sold to the Richmond Cricket Club for £55. A new brick stand, considered at the time to be the world's finest cricket facility, was built in its place. The foundation stone was laid by Prince George of Wales and Prince Albert Victor on 4 July and the stand opened in December that year. It was also in 1881 that a telephone was installed at the ground, and the wickets and goal posts were changed from an east-west orientation to north-south. In 1882 a scoreboard was built which showed details of the batsman's name and how he was dismissed.
 
@@ -42,7 +42,7 @@ The MCG was the home of Australia's first full colour video scoreboard, which re
 
 In 1988 inspections of the old Southern Stand found concrete cancer and provided the opportunity to replace the increasingly run-down 50-year-old facility. The projected cost of $100 million was outside what the Melbourne Cricket Club could afford so the Victorian Football League took the opportunity to part fund the project in return for a 30-year deal to share the ground. The new Great Southern Stand was completed in 1992, in time for the 1992 Cricket World Cup, at a final cost of $150 million.
 
-New_Ponsford_Stand_Construction.jpg The 1928 Members' stand, the 1956 Olympic stand and the 1968 Ponsford stand were demolished one by one between late 2003 to 2005 and replaced with a new structure in time for the 2006 Commonwealth Games.[8] Despite now standing as a single unbroken stand, the individual sections retain the names of Ponsford, Olympic and Members Stands. The redevelopment cost exceeded 400 million and pushed the ground's capacity to just above 100,000. Since redevelopment, the highest attendance was the 2018 Grand Final of the AFL with 100,022, followed by 100,021 in the 2017 Grand Final.
+The 1928 Members' stand, the 1956 Olympic stand and the 1968 Ponsford stand were demolished one by one between late 2003 to 2005 and replaced with a new structure in time for the 2006 Commonwealth Games.[8] Despite now standing as a single unbroken stand, the individual sections retain the names of Ponsford, Olympic and Members Stands. The redevelopment cost exceeded 400 million and pushed the ground's capacity to just above 100,000. Since redevelopment, the highest attendance was the 2018 Grand Final of the AFL with 100,022, followed by 100,021 in the 2017 Grand Final.
 
 From 2011 until 2013, the Victorian Government and the Melbourne Cricket Club funded a $55 million refurbishment of the facilities of Great Southern Stand, including renovations to entrance gates and ticket outlets, food and beverage outlets, _etc._, without significantly modifying the stand.[9] New scoreboards, more than twice the size of the original ones, were installed in the same positions in late 2013.[10]
 
@@ -51,7 +51,7 @@ Cricket
 
 Early years
 
-MCG-1864.JPG and George Parr's touring All-England Eleven]] The first cricket match at the venue was played on 30 September 1854.
+and George Parr's touring All-England Eleven]] The first cricket match at the venue was played on 30 September 1854.
 
 The first inter-colonial cricket match to be played at the MCG was between Victoria and New South Wales in March 1856. Victoria had played Tasmania (then known as Van Diemen's Land) as early as 1851 but the Victorians had included two professionals in the 1853 team upsetting the Tasmanians and causing a cooling of relations between the two colonies. To replace the disgruntled Tasmanians the Melbourne Cricket Club issued a challenge to play any team in the colonies for £1000. Sydney publican William Tunks accepted the challenge on behalf of New South Wales although the Victorians were criticised for playing for money. Ethics aside, New South Wales could not afford the £1000 and only managed to travel to Melbourne after half the team's travel cost of £181 was put up by Sydney barrister Richard Driver.
 
@@ -75,7 +75,7 @@ On Boxing Day 1866 an Indigenous Australian cricket team played at the MCG with 
 
 First Test match
 
-Mcg_1878.jpg match was played at the MCG in 1877]] Up until the fourth tour in 1877, led by Lillywhite, touring teams had played first-class games against the individual colonial sides, but Lillywhite felt that his side had done well enough against New South Wales to warrant a game against an All Australian team.
+match was played at the MCG in 1877]] Up until the fourth tour in 1877, led by Lillywhite, touring teams had played first-class games against the individual colonial sides, but Lillywhite felt that his side had done well enough against New South Wales to warrant a game against an All Australian team.
 
 When Lillywhite headed off to New Zealand he left Melbourne cricketer John Conway to arrange the match for their return. Conway ignored the cricket associations in each colony and selected his own Australian team, negotiating directly with the players. Not only was the team he selected of doubtful representation but it was also probably not the strongest available as some players had declined to take part for various reasons. Demon bowler Fred Spofforth refused to play because wicket-keeper Billy Murdoch was not selected. Paceman Frank Allan was at Warnambool Agricultural Show and Australia's best all-rounder Edwin Evans could not get away from work. In the end only five Australian-born players were selected.
 
@@ -99,7 +99,7 @@ By the 1980s, the integral MCG pitch – grown from Merri Creek black soil – w
 
 Highlights and lowlights
 
-MCG_stadium.jpg, packed with 87,182 people]] MCG_stands.jpg Cricket_World_Cup_Final_(16351625604).jpg with 93,013 in attendance]] The highest first class team score in history was posted at the MCG in the Boxing Day match against New South Wales in 1926–27. Victoria scored 1107 in two days, with Bill Ponsford scoring 352 and Jack Ryder scoring 295.
+, packed with 87,182 people]] with 93,013 in attendance]] The highest first class team score in history was posted at the MCG in the Boxing Day match against New South Wales in 1926–27. Victoria scored 1107 in two days, with Bill Ponsford scoring 352 and Jack Ryder scoring 295.
 
 One of the most sensational incidents in Test cricket occurred at the MCG during the Melbourne test of the 1954–55 England tour of Australia. Big cracks had appeared in the pitch during a very hot Saturday's play and on the rest day Sunday, groundsman Jack House watered the pitch to close them up. This was illegal and the story was leaked by The Age newspaper. The teams agreed to finish the match and England won by 128 runs after Frank Tyson took 7 for 27 in the final innings.
 
@@ -143,7 +143,7 @@ Australian rules football
 
 Origins
 
-Football_electric_lighting_MCG_1879.jpg match played under electric lights]] Football_crowd_MCG.jpg Despite being called the Melbourne Cricket Ground, the stadium has been and continues to be used much more often for Australian rules football. Spectator numbers for football are larger than for any other sport in Australia, and it makes more money for the MCG than any of the other sports played there.
+match played under electric lights]] Despite being called the Melbourne Cricket Ground, the stadium has been and continues to be used much more often for Australian rules football. Spectator numbers for football are larger than for any other sport in Australia, and it makes more money for the MCG than any of the other sports played there.
 
 Although the Melbourne Cricket Club members were instrumental in founding Australian Rules Football, there were understandable concerns in the early days about the damage that might be done to the playing surface if football was allowed to be played at the MCG. Therefore, football games were often played in the parklands next to the cricket ground, and this was the case for the first documented football match to be played at the ground. The match which today is considered to be the first Australian rules football, played between Melbourne Grammar and Scotch College over three Saturdays beginning 7 August 1858 was played in this area.
 
@@ -157,7 +157,7 @@ Several Australian Football League (AFL) clubs later joined Melbourne in using t
 
 Finals and Grand Finals
 
-Mcg_football.jpg]] The VFL/AFL Grand Final has been played at the MCG every season since 1902, except in 1924 when no Grand Final was held because of the season's round-robin finals format (it hosted three of the six games in the Finals Series) 1942–1945, when the ground was used by the military during World War II; and in 1991, as the construction of the Great Southern Stand had temporarily reduced the ground's capacity below that of Waverley Park. All three Grand Final Replays have been played at the MCG.
+]] The VFL/AFL Grand Final has been played at the MCG every season since 1902, except in 1924 when no Grand Final was held because of the season's round-robin finals format (it hosted three of the six games in the Finals Series) 1942–1945, when the ground was used by the military during World War II; and in 1991, as the construction of the Great Southern Stand had temporarily reduced the ground's capacity below that of Waverley Park. All three Grand Final Replays have been played at the MCG.
 
 Before the ground was fully seated, the Grand Final could draw attendances above 110,000. The record for the highest attendance in the history of the sport was set in the 1970 VFL Grand Final, with 121,696 in attendance.
 
@@ -228,7 +228,7 @@ Forty-four years later at the 2000 Summer Olympics in Sydney, the ground hosted 
 
 Commonwealth Games
 
-MSC,_2006_Commonwealth_Games.jpg]] The Opening and Closing Ceremonies of the 2006 Commonwealth Games were held at the MCG, as well as athletics events during the games. The games began on 15 March and ended on 26 March.
+]] The Opening and Closing Ceremonies of the 2006 Commonwealth Games were held at the MCG, as well as athletics events during the games. The games began on 15 March and ended on 26 March.
 
 The seating capacity of the stadium during the games was 80,000. A total of 47 events were contested, of which 24 by male and 23 by female athletes. Furthermore, three men's and three women's disability events were held within the programme. All athletics events took place within the Melbourne Cricket Ground, while the marathon and racewalking events took place on the streets of Melbourne and finished at the main stadium.
 
@@ -269,7 +269,7 @@ It was announced in June 2014 that the ground would host its first State of Orig
 
 Soccer
 
-On 9 February 2006 Victorian premier Steve Bracks and Football Federation Australia chairman Frank Lowy announced that the MCG would host a world class soccer event each year from 2006 until 2009 inclusive.[47] CG-MelbCricketGround-Pano.jpg and Greece playing an International Friendly at the MCG on 25 May 2006.]] The agreement sees an annual fixture at the MCG, beginning with a clash between Australia and European champions Greece on 25 May 2006 in front of a sell-out crowd of 95,103, before Australia left to contest in the World Cup finals. Australia beat Greece 1–0. The Socceroos also hosted a match in 2007 against Argentina, losing 1–0, as well as 2010 FIFA World Cup qualification matches in 2009 against Japan, which attracted 81,872 fans as Australia beat Japan 2–1 via 2 Tim Cahill headers after falling behind 1–0 late in the 1st half. In 2010 it was announced that as a warm up to the 2010 FIFA World Cup which the Australians had qualified for, they would play fellow qualified nation New Zealand on 24 May at the MCG.
+On 9 February 2006 Victorian premier Steve Bracks and Football Federation Australia chairman Frank Lowy announced that the MCG would host a world class soccer event each year from 2006 until 2009 inclusive.[47] and Greece playing an International Friendly at the MCG on 25 May 2006.]] The agreement sees an annual fixture at the MCG, beginning with a clash between Australia and European champions Greece on 25 May 2006 in front of a sell-out crowd of 95,103, before Australia left to contest in the World Cup finals. Australia beat Greece 1–0. The Socceroos also hosted a match in 2007 against Argentina, losing 1–0, as well as 2010 FIFA World Cup qualification matches in 2009 against Japan, which attracted 81,872 fans as Australia beat Japan 2–1 via 2 Tim Cahill headers after falling behind 1–0 late in the 1st half. In 2010 it was announced that as a warm up to the 2010 FIFA World Cup which the Australians had qualified for, they would play fellow qualified nation New Zealand on 24 May at the MCG.
 
 Other matches played at the MCG include the following:
 
@@ -325,8 +325,6 @@ Other uses
 
 
 Records
-
-Melbourne_Cricket_Ground_from_city.JPG
 
 Sporting records
 
@@ -431,7 +429,7 @@ VFL/AFL Records
 
 Statues
 
-Tom_wills_statue.jpg umpiring an 1858 football match]]
+umpiring an 1858 football match]]
 
 +---------------------------------------------------------------------------+----------------------------+----------+-------------+---------+
 | Statue                                                                    | Sport                      | Unveiled | Location    | Link    |

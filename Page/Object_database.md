@@ -1,5 +1,3 @@
-Object-Oriented_Model.svg
-
 An OBJECT DATABASE is a database management system in which information is represented in the form of objects as used in object-oriented programming. Object databases are different from relational databases which are table-oriented. Object-relational databases are a hybrid of both approaches.
 
 Object databases have been considered since the early 1980s.[1]

@@ -1,6 +1,6 @@
 _PLAYBOY_ is an American men's lifestyle and entertainment magazine. It was founded in Chicago in 1953, by Hugh Hefner and his associates, and funded in part by a $1,000 loan from Hefner's mother.[1] Notable for its centerfolds of nude and semi-nude[2] models (Playmates), _Playboy_ played an important role in the sexual revolution[3] and remains one of the world's best-known brands, having grown into Playboy Enterprises, Inc. (PEI), with a presence in nearly every medium.[4] In addition to the flagship magazine in the United States, special nation-specific versions of _Playboy_ are published worldwide.
 
-The magazine has a long history of publishing short stories by novelists such as Arthur C. Clarke,[5] Ian Fleming,[6] Vladimir Nabokov,[7] Saul Bellow, Chuck Palahniuk, P. G. Wodehouse,[8] Roald Dahl,[9] Haruki Murakami, and Margaret Atwood.[10] With a regular display of full-page color cartoons, it became a showcase for notable cartoonists, including Harvey Kurtzman, Jack Cole,[11] Eldon Dedini,[12] Jules Feiffer,[13] Shel Silverstein,[14] Erich Sokol,[15] Roy Raymonde,[16] Gahan Wilson, and Rowland B. Wilson.[17] _Playboy_ features monthly interviews of notable public figures, such as artists, architects, economists, composers, conductors, film directors, journalists, novelists, playwrights, religious figures, politicians, athletes, and race car drivers. The magazine generally reflects a liberal editorial stance, although it often interviews conservative celebrities.[18] Pb1253.jpg of the first issue of _Playboy_, featuring Marilyn Monroe, December 1953]]
+The magazine has a long history of publishing short stories by novelists such as Arthur C. Clarke,[5] Ian Fleming,[6] Vladimir Nabokov,[7] Saul Bellow, Chuck Palahniuk, P. G. Wodehouse,[8] Roald Dahl,[9] Haruki Murakami, and Margaret Atwood.[10] With a regular display of full-page color cartoons, it became a showcase for notable cartoonists, including Harvey Kurtzman, Jack Cole,[11] Eldon Dedini,[12] Jules Feiffer,[13] Shel Silverstein,[14] Erich Sokol,[15] Roy Raymonde,[16] Gahan Wilson, and Rowland B. Wilson.[17] _Playboy_ features monthly interviews of notable public figures, such as artists, architects, economists, composers, conductors, film directors, journalists, novelists, playwrights, religious figures, politicians, athletes, and race car drivers. The magazine generally reflects a liberal editorial stance, although it often interviews conservative celebrities.[18] of the first issue of _Playboy_, featuring Marilyn Monroe, December 1953]]
 
 After a year-long removal of most nude photos in _Playboy_ magazine, the March–April 2017 issue brought back nudity.
 
@@ -9,7 +9,7 @@ Publication history
 
 1950s
 
-1953_Playboy_centerfold.jpg of Marilyn Monroe from the first issue of _Playboy_, December 1953]]
+of Marilyn Monroe from the first issue of _Playboy_, December 1953]]
 
 By spring 1953, Hugh Hefner—a 1949 University of Illinois psychology graduate who had worked in Chicago for _Esquire_ magazine writing promotional copy; Publisher's Development Corporation in sales and marketing; and _Children's Activities_ magazine as circulation promotions manager[19]—had planned out the elements of his own magazine, that he would call _Stag Party_.[20] He formed HMH Publishing Corporation, and recruited his friend Eldon Sellers to find investors.[21] Hefner eventually raised just over $8,000, including from his brother and mother.[22] However, the publisher of an unrelated men's adventure magazine, _Stag,_ contacted Hefner and informed him it would file suit to protect their trademark if he were to launch his magazine with that name.[23][24] Hefner, his wife Millie, and Sellers met to seek a new name, considering "Top Hat", "Gentleman", "Sir'", "Satyr", "Pan" and "Bachelor" before Sellers suggested "Playboy".[25][26]
 
@@ -21,7 +21,7 @@ An urban legend started about Hefner and the Playmate of the Month because of ma
 
 1960s–1990s
 
-Playboy_Staff_in_1970.jpg, Nat Lehrman, Richard M. Koff, Murray Fisher, Arthur Kretchmer; front: Sheldon Wax, Auguste Comte Spectorsky, Jack Kessie.]]
+, Nat Lehrman, Richard M. Koff, Murray Fisher, Arthur Kretchmer; front: Sheldon Wax, Auguste Comte Spectorsky, Jack Kessie.]]
 
 From 1966 to 1976, Robie Macauley was the Fiction Editor at _Playboy_. During this period the magazine published fiction by Saul Bellow, Seán Ó Faoláin, John Updike, James Dickey, John Cheever, Doris Lessing, Joyce Carol Oates, Vladimir Nabokov, Michael Crichton, John le Carré, Irwin Shaw, Jean Shepherd, Arthur Koestler, Isaac Bashevis Singer, Bernard Malamud, John Irving, Anne Sexton, Nadine Gordimer, Kurt Vonnegut and J. P. Donleavy, as well as poetry by Yevgeny Yevtushenko.[34]
 
@@ -70,11 +70,11 @@ Features and format
 
 Rabbit logo
 
-Playboy_lighter.jpg ]]
+]]
 
 Playboy's iconic and enduring mascot, a stylized silhouette of a rabbit wearing a tuxedo bow tie, was created by _Playboy_ art director Art Paul for the second issue as an endnote, but was adopted as the official logo and has appeared ever since.[62][63] A running joke in the magazine involves hiding the logo somewhere in the cover art or photograph. Hefner said he chose the rabbit for its "humorous sexual connotation", and because the image was "frisky and playful". In an interview Hefner explained his choice of a rabbit as _Playboy's_ logo to the Italian journalist Oriana Fallaci:
 
-Clinton_Trump_2000_08.jpg, Bill Clinton and an unidentified woman wearing a Playboy shirt, 2000]] The jaunty rabbit was quickly made into a popular symbol of extroverted male culture, becoming a lucrative source of merchandizing revenue for Playboy.[64] In the 1950s, it was adopted as the military aircraft insignia for the Navy's VX-4 fighter-evaluation squadron.
+, Bill Clinton and an unidentified woman wearing a Playboy shirt, 2000]] The jaunty rabbit was quickly made into a popular symbol of extroverted male culture, becoming a lucrative source of merchandizing revenue for Playboy.[64] In the 1950s, it was adopted as the military aircraft insignia for the Navy's VX-4 fighter-evaluation squadron.
 
 The _Playboy_ Interview
 

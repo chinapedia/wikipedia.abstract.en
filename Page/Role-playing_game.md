@@ -20,7 +20,7 @@ Role-playing games are played in a wide variety of formats ranging from discussi
 
 Tabletop
 
-RPG-2009-Berlin-2.jpg to hide dice rolls from the players.]] Tabletop and _pen-and-paper_ (PnP) RPGs are conducted through discussion in a small social gathering. The GM describes the game world and its inhabitants. The other players describe the intended actions of their characters, and the GM describes the outcomes.[16] Some outcomes are determined by the game system, and some are chosen by the GM.[17]
+to hide dice rolls from the players.]] Tabletop and _pen-and-paper_ (PnP) RPGs are conducted through discussion in a small social gathering. The GM describes the game world and its inhabitants. The other players describe the intended actions of their characters, and the GM describes the outcomes.[16] Some outcomes are determined by the game system, and some are chosen by the GM.[17]
 
 This is the format in which role-playing games were first popularized. The first commercially available RPG, _Dungeons & Dragons_ (D&D), was inspired by fantasy literature and the wargaming hobby and was published in 1974.[18] The popularity of D&D led to the birth of the tabletop role-playing game industry, which publishes games with many different themes, rules, and styles of play. The popularity of tabletop games has decreased since the modern releases of online MMO RPGs.[19]
 
@@ -28,13 +28,13 @@ This format is often referred to simply as a _role-playing game_. To distinguish
 
 Live action
 
-Hardenstein_2014_-_Adventurers.jpg A LARP is played more like improvisational theatre.[21] Participants act out their characters' actions instead of describing them, and the real environment is used to represent the imaginary setting of the game world.[22] Players are often costumed as their characters and use appropriate props, and the venue may be decorated to resemble the fictional setting.[23][24] Some live action role-playing games use rock-paper-scissors or comparison of attributes to resolve conflicts symbolically, while other LARPs use physical combat with simulated arms such as airsoft guns or foam weapons.[25]
+A LARP is played more like improvisational theatre.[21] Participants act out their characters' actions instead of describing them, and the real environment is used to represent the imaginary setting of the game world.[22] Players are often costumed as their characters and use appropriate props, and the venue may be decorated to resemble the fictional setting.[23][24] Some live action role-playing games use rock-paper-scissors or comparison of attributes to resolve conflicts symbolically, while other LARPs use physical combat with simulated arms such as airsoft guns or foam weapons.[25]
 
 LARPs vary in size from a handful of players to several thousand, and in duration from a couple of hours to several days.[26][27] Because the number of players in a LARP is usually larger than in a tabletop role-playing game, and the players may be interacting in separate physical spaces, there is typically less of an emphasis on tightly maintaining a narrative or directly entertaining the players, and game sessions are often managed in a more distributed manner.[28]
 
 Electronic media
 
-Screenshot-Falcons-Eye.png''.]] Tabletop role-playing games have been translated into a variety of electronic formats.[29] As early as 1974, the same year as the release of Dungeons & Dragons, unlicensed versions of it were developed on mainframe university systems under titles such as _dnd_ and _Dungeon_. These early computer RPGs influenced all of electronic gaming, as well as spawning the role-playing video game genre.[30] Some authors divide digital role-playing games into two intertwined groups: single player games using RPG-style mechanics, and multiplayer games incorporating social interaction.[31][32][33]
+''.]] Tabletop role-playing games have been translated into a variety of electronic formats.[29] As early as 1974, the same year as the release of Dungeons & Dragons, unlicensed versions of it were developed on mainframe university systems under titles such as _dnd_ and _Dungeon_. These early computer RPGs influenced all of electronic gaming, as well as spawning the role-playing video game genre.[30] Some authors divide digital role-playing games into two intertwined groups: single player games using RPG-style mechanics, and multiplayer games incorporating social interaction.[31][32][33]
 
 Single-player
 
@@ -42,7 +42,7 @@ Single player role-playing video games form a loosely defined genre of computer 
 
 Multiplayer
 
-God_Wars_II_screenshot_of_dungeon_with_MUSHclient_plugin.png''.]]
+''.]]
 
 Online text-based role-playing games involve many players using some type of text-based interface and an Internet connection to play an RPG. Games played in a real-time way include MUDs, MUSHes, and other varieties of MU*. Games played in a turn-based fashion include play-by-mail games and play-by-post games.
 

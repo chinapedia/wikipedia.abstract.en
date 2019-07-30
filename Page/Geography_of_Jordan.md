@@ -1,5 +1,3 @@
-Jordanien.svg
-
 JORDAN is situated geographically in Southwest Asia, south of Syria, west of Iraq, northwest of Saudi Arabia and east of Israel and the West Bank; politically, the area has also been referred to in the West as the Middle or Near East. The territory of Jordan now covers about .
 
 Between 1950 and the Six-Day War in 1967, although not widely recognized, Jordan claimed and administered an additional encompassing the West Bank; in 1988 and with continuing Israeli occupation, King Hussein relinquished Jordan's claim to the West Bank in favor of the Palestinians.
@@ -11,16 +9,16 @@ GEOGRAPHIC COORDINATES:
 
 Boundaries
 
-Jordan_Topography.png.]] Except for small sections of the borders with Israel and Syria, Jordan's international boundaries do not follow well-defined natural features of the terrain. The country's boundaries were established by various international agreements and with the exception of the border with Israel, none was in dispute in early 1989.
+.]] Except for small sections of the borders with Israel and Syria, Jordan's international boundaries do not follow well-defined natural features of the terrain. The country's boundaries were established by various international agreements and with the exception of the border with Israel, none was in dispute in early 1989.
 
 Jordan's boundaries with Syria, Iraq, and Saudi Arabia do not have the special significance that the border with Israel does; these borders have not always hampered tribal nomads in their movements, yet for a few groups borders did separate them from traditional grazing areas and delimited by a series of agreements between the United Kingdom and the government of what eventually became Saudi Arabia) was first formally defined in the Hadda Agreement of 1925.
 
-Jordan-Saudi_Arabia_Land_Exchange.gif In 1965 Jordan and Saudi Arabia concluded an agreement that realigned and delimited the boundary. Jordan gained 19 kilometers of land on the Gulf of Aqaba and 6,000 square kilometers of territory in the interior, and 7,000 square kilometers of Jordanian-administered, landlocked territory was ceded to Jordan.[1] The new boundary enabled Jordan to expand its port facilities and established a zone in which the two parties agreed to share petroleum revenues equally if oil were discovered. The agreement also protected the pasturage and watering rights of nomadic tribes inside the exchanged territories.
+In 1965 Jordan and Saudi Arabia concluded an agreement that realigned and delimited the boundary. Jordan gained 19 kilometers of land on the Gulf of Aqaba and 6,000 square kilometers of territory in the interior, and 7,000 square kilometers of Jordanian-administered, landlocked territory was ceded to Jordan.[1] The new boundary enabled Jordan to expand its port facilities and established a zone in which the two parties agreed to share petroleum revenues equally if oil were discovered. The agreement also protected the pasturage and watering rights of nomadic tribes inside the exchanged territories.
 
 
 Topography
 
-Middle_East_Topographic_Political_EN.svg Salt,_Jordan.jpg in the Balqa Governorate.]] wadirum66.jpg in Southern Jordan.]]
+in the Balqa Governorate.]] in Southern Jordan.]]
 
 The country consists mainly of a plateau between and meters high, divided into ridges by valleys and gorges, and a few mountainous areas. West of the plateau, land descents form the East Bank of the Jordan Rift Valley. The valley is part of the north-south Great Rift Valley, and its successive depressions are Lake Tiberias (Sea of Galilee; its bottom is about ), Jordan Valley, the Dead Sea (its bottom is about ), Arabah, and the Gulf of Aqaba at the Red Sea. Jordan's western border follows the bottom of the rift. Although an earthquake-prone region, no severe shocks had been recorded for several centuries.
 
@@ -41,7 +39,7 @@ The Dead Sea occupies the deepest depression on the land surface of the earth. T
 
 Climate
 
-Jordan_map_of_Köppen_climate_classification.svg map of Jordan.]] jordan232.jpg.]] Jordansnow9.jpg The major characteristic of the climate is the contrast between a relatively rainy season from November to April and very dry weather for the rest of the year. With hot, dry, uniform summers and cool, variable winters during which practically all of the precipitation occurs, the country has a Mediterranean-style climate.
+map of Jordan.]] .]] The major characteristic of the climate is the contrast between a relatively rainy season from November to April and very dry weather for the rest of the year. With hot, dry, uniform summers and cool, variable winters during which practically all of the precipitation occurs, the country has a Mediterranean-style climate.
 
 In general, the farther inland from the Mediterranean Sea a given part of the country lies, the greater are the seasonal contrasts in temperature and the less rainfall. Atmospheric pressures during the summer months are relatively uniform, whereas the winter months bring a succession of marked low pressure areas and accompanying cold fronts. These cyclonic disturbances generally move eastward from over the Mediterranean Sea several times a month and result in sporadic precipitation.
 
@@ -78,7 +76,7 @@ _highest point:_ Jabal Umm ad Dami 1,854 m
 
 Resources and land use
 
-Phosphate_Mines_in_Jordan_ast_2005258.jpg NATURAL RESOURCES: phosphates, potash, oil shale
+NATURAL RESOURCES: phosphates, potash, oil shale
 
 LAND USE:
 _arable land:_ 2.41%

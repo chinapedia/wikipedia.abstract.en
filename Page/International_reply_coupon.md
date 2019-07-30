@@ -11,7 +11,7 @@ The IRC was introduced in 1906 at a Universal Postal Union congress in Rome. At 
 
 The current IRC, which features the theme "the Post and sustainable development", was designed by Vietnamese artist Nguyen Du for 2017-2021 and was adopted in Istanbul in 2016, it is known also as the "Istanbul model" for this reason.[1] The previous design, "Water for Life" by Czech artist and graphic designer Michal Sindelar, was issued in 2013 and was valid until 31 December 2017.[2]
 
-IRCs are ordered from the UPU headquarters in Bern, Switzerland by postal authorities. They are generally available at large post offices; in the U.S., they were requisitioned along with regular domestic stamps by any post office that had sufficient demand for them. British-International-Reply-Coupon.jpg Prices for IRCs vary by country. In the United States in November 2012, the purchase price was $2.20[3] USD; however, the US Postal Service discontinued sales of IRCs on 27 January 2013 due to declining demand.[4] Britain's Royal Mail also stopped selling IRCs on 18 February 2012, citing minimal sales and claiming that the average post office sold less than one IRC per year. IRCs purchased in foreign countries may be used in the United States toward the purchase of postage stamps and embossed stamped envelopes at the current one-ounce First Class International rate ($1.05 USD as of April 2012) per coupon.[5]
+IRCs are ordered from the UPU headquarters in Bern, Switzerland by postal authorities. They are generally available at large post offices; in the U.S., they were requisitioned along with regular domestic stamps by any post office that had sufficient demand for them. Prices for IRCs vary by country. In the United States in November 2012, the purchase price was $2.20[3] USD; however, the US Postal Service discontinued sales of IRCs on 27 January 2013 due to declining demand.[4] Britain's Royal Mail also stopped selling IRCs on 18 February 2012, citing minimal sales and claiming that the average post office sold less than one IRC per year. IRCs purchased in foreign countries may be used in the United States toward the purchase of postage stamps and embossed stamped envelopes at the current one-ounce First Class International rate ($1.05 USD as of April 2012) per coupon.[5]
 
 IRCs are often used by amateur radio operators sending QSL cards to each other; it has traditionally been considered good practice and common courtesy to include an IRC when writing to a foreign operator and expecting a reply by mail.[6] If the operator's home country does not sell IRCs, then a foreign IRC may be used.
 
@@ -45,8 +45,6 @@ The selling price and exchange value in stamps in each country have been adjuste
 
 
 U.S. Postal Service description of international reply coupons
-
-US_Postal_Service_International_Reply_Coupon_1978.png
 
 International reply coupons[12] (in French, _Coupons-Reponse Internationaux_) are printed in blue ink on paper that has the letters “UPU” in large characters in the watermark. The front of each coupon is printed in French. The reverse side of the coupon, which has text relating to its use, is printed in German, English, Arabic, Chinese, Spanish, and Russian. Under Universal Postal Union’s regulations, participating member countries are not required to place a control stamp or postmark on the international reply coupons that they sell. Therefore, some foreign issue reply coupons that are tendered for redemption may bear the name of the issuing country (generally in French) rather than the optional control stamp or postmark.
 

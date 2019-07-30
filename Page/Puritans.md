@@ -9,7 +9,7 @@ Puritanism was never a formally defined religious division within Protestantism,
 
 Terminology
 
-PuritanGallery.jpg, William Bridge, Thomas Manton, John Flavel, Richard Sibbes, Stephen Charnock, William Bates, John Owen, John Howe and Richard Baxter]]
+, William Bridge, Thomas Manton, John Flavel, Richard Sibbes, Stephen Charnock, William Bates, John Owen, John Howe and Richard Baxter]]
 
 In the 17th century, the word _Puritan_ was a term applied not to just one group but to many. Historians still debate a precise definition of Puritanism.[6] Originally, _Puritan_ was a pejorative term characterizing certain Protestant groups as extremist. Thomas Fuller, in his _Church History_, dates the first use of the word to 1564. Archbishop Matthew Parker of that time used it and _precisian_ with a sense similar to the modern _stickler_.[7] Puritans, then, were distinguished for being "more intensely protestant than their protestant neighbors or even the Church of England".
 
@@ -38,7 +38,7 @@ The Puritan movement of Jacobean times became distinctive by adaptation and comp
 
 Fragmentation and political failure
 
-_Assertion_of_Liberty_of_Conscience_by_the_Independents_of_the_Westminster_Assembly_of_Divines,_1644.jpg, which saw disputes on Church polity in England (Victorian history painting by John Rogers Herbert).]] The Puritan movement in England was riven over decades by emigration and inconsistent interpretations of Scripture, as well as some political differences that surfaced at that time. The Fifth Monarchy Men, a radical millenarian wing of Puritanism, aided by strident, popular clergy like Vavasor Powell, agitated from the right wing of the movement, even as sectarian groups like the Ranters, Levellers, and Quakers pulled from the left.[15][16] The fragmentation created a collapse of the centre and, ultimately, sealed a political failure, while depositing an enduring spiritual legacy that would remain and grow in English-speaking Christianity.[17]
+, which saw disputes on Church polity in England (Victorian history painting by John Rogers Herbert).]] The Puritan movement in England was riven over decades by emigration and inconsistent interpretations of Scripture, as well as some political differences that surfaced at that time. The Fifth Monarchy Men, a radical millenarian wing of Puritanism, aided by strident, popular clergy like Vavasor Powell, agitated from the right wing of the movement, even as sectarian groups like the Ranters, Levellers, and Quakers pulled from the left.[15][16] The fragmentation created a collapse of the centre and, ultimately, sealed a political failure, while depositing an enduring spiritual legacy that would remain and grow in English-speaking Christianity.[17]
 
 The Westminster Assembly was called in 1643, assembling clergy of the Church of England. The Assembly was able to agree to the Westminster Confession of Faith doctrinally, a consistent Reformed theological position. The _Directory of Public Worship_ was made official in 1645, and the larger framework (now called the Westminster Standards) was adopted by the Church of Scotland. In England, the Standards were contested by Independents up to 1660.[18]
 
@@ -52,7 +52,7 @@ The Dissenters divided themselves from all Christians in the Church of England a
 
 Puritans in North America
 
-InteriorOldShip.jpg, a Puritan meetinghouse in Hingham, Massachusetts. Puritans were Calvinists, so their churches were unadorned and plain. It is the oldest building in continuous ecclesiastical use in America and today serves a Unitarian Universalist congregation.]] Some Puritans left for New England, particularly in the years after 1630, supporting the founding of the Massachusetts Bay Colony and other settlements among the northern colonies. The large-scale Puritan immigration to New England ceased by 1641, with around 21,000 having moved across the Atlantic. This English-speaking population in America did not all consist of original colonists, since many returned to England shortly after arriving on the continent, but it produced more than 16 million descendants.[23][24] This so-called "Great Migration" is not so named because of sheer numbers, which were much less than the number of English citizens who immigrated to Virginia and the Caribbean during this time.[25] The rapid growth of the New England colonies (around 700,000 by 1790) was almost entirely due to the high birth rate and lower death rate per year.[26]
+, a Puritan meetinghouse in Hingham, Massachusetts. Puritans were Calvinists, so their churches were unadorned and plain. It is the oldest building in continuous ecclesiastical use in America and today serves a Unitarian Universalist congregation.]] Some Puritans left for New England, particularly in the years after 1630, supporting the founding of the Massachusetts Bay Colony and other settlements among the northern colonies. The large-scale Puritan immigration to New England ceased by 1641, with around 21,000 having moved across the Atlantic. This English-speaking population in America did not all consist of original colonists, since many returned to England shortly after arriving on the continent, but it produced more than 16 million descendants.[23][24] This so-called "Great Migration" is not so named because of sheer numbers, which were much less than the number of English citizens who immigrated to Virginia and the Caribbean during this time.[25] The rapid growth of the New England colonies (around 700,000 by 1790) was almost entirely due to the high birth rate and lower death rate per year.[26]
 
 Puritan hegemony lasted for at least a century. That century can be broken down into three parts: the generation of John Cotton and Richard Mather, 1630–62 from the founding to the Restoration, years of virtual independence and nearly autonomous development; the generation of Increase Mather, 1662–89 from the Restoration and the Halfway Covenant to the Glorious Revolution, years of struggle with the British crown; and the generation of Cotton Mather, 1689–1728 from the overthrow of Edmund Andros (in which Cotton Mather played a part) and the new charter, mediated by Increase Mather, to the death of Cotton Mather.[27]
 
@@ -91,7 +91,7 @@ Puritans rejected both Roman Catholic (transubstantiation) and Lutheran (sacrame
 
 Ecclesiology
 
-Catalogue_of_Sects.GIF with a _Catalogue of Sects_, 1647.]] While the Puritans were united in their goal of furthering the English Reformation, they were always divided over issues of ecclesiology and church polity, specifically questions relating to the manner of organizing congregations, how individual congregations should relate with one another and whether established national churches were scriptural. On these questions, Puritans divided between supporters of episcopal polity, presbyterian polity and congregational polity.
+with a _Catalogue of Sects_, 1647.]] While the Puritans were united in their goal of furthering the English Reformation, they were always divided over issues of ecclesiology and church polity, specifically questions relating to the manner of organizing congregations, how individual congregations should relate with one another and whether established national churches were scriptural. On these questions, Puritans divided between supporters of episcopal polity, presbyterian polity and congregational polity.
 
 The episcopalians (known as the prelatical party) were conservatives who supported retaining bishops if those leaders supported reform and agreed to share power with local churches. They also supported the idea of having a Book of Common Prayer, but they were against demanding strict conformity or having too much ceremony. In addition, these Puritans called for a renewal of preaching, pastoral care and Christian discipline within the Church of England.
 
@@ -103,7 +103,7 @@ Most congregational Puritans remained within the Church of England, hoping to re
 
 Family life
 
-The_Snake_in_the_Grass_or_Satan_Transform'd_to_an_Angel_of_Light.jpg, ca. 1660]] Based on Biblical portrayals of Adam and Eve, Puritans believed that marriage was rooted in procreation, love, and, most importantly, salvation.[34] Husbands were the spiritual heads of the household, while women were to demonstrate religious piety and obedience under male authority.[35] Furthermore, marriage represented not only the relationship between husband and wife, but also the relationship between spouses and God. Puritan husbands commanded authority through family direction and prayer. The female relationship to her husband and to God was marked by submissiveness and humility.[36]
+, ca. 1660]] Based on Biblical portrayals of Adam and Eve, Puritans believed that marriage was rooted in procreation, love, and, most importantly, salvation.[34] Husbands were the spiritual heads of the household, while women were to demonstrate religious piety and obedience under male authority.[35] Furthermore, marriage represented not only the relationship between husband and wife, but also the relationship between spouses and God. Puritan husbands commanded authority through family direction and prayer. The female relationship to her husband and to God was marked by submissiveness and humility.[36]
 
 Thomas Gataker describes Puritan marriage as:
 
@@ -134,13 +134,13 @@ David Brady describes a "lull before the storm" in the early 17th century, in wh
 
 Cultural consequences
 
-George-Henry-Boughton-Pilgrims-Going-To-Church.jpg'' by George Henry Boughton (1867)]]
+'' by George Henry Boughton (1867)]]
 
 Some strong religious beliefs common to Puritans had direct impacts on culture. Puritans believed it was the government's responsibility to enforce moral standards and ensure true religious worship was established and maintained. Education was essential to every person, male and female, so that they could read the Bible for themselves. However, the Puritans' emphasis on individual spiritual independence was not always compatible with the community cohesion that was also a strong ideal.[51] Anne Hutchinson (1591–1643), the well educated daughter of a teacher, argued with the established theological orthodoxy, and was forced to leave the colony with her followers.[52]
 
 Education
 
-Cotton_Mather.jpg, influential New England Puritan minister, portrait by Peter Pelham.]] At a time when the literacy rate in England was less than 30 percent, the Puritan leaders of colonial New England believed children should be educated for both religious and civil reasons, and they worked to achieve universal literacy.[53] In 1642, Massachusetts required heads of households to teach their wives, children and servants basic reading and writing so that they could read the Bible and understand colonial laws. In 1647, the government required all towns with 50 or more households to hire a teacher and towns of 100 or more households to hire a grammar school instructor to prepare promising boys for college. Boys interested in the ministry were often sent to colleges such as Harvard (founded in 1636) or Yale (founded in 1707). Aspiring lawyers or doctors apprenticed to a local practitioner, or in rare cases were sent to England or Scotland.[54]
+, influential New England Puritan minister, portrait by Peter Pelham.]] At a time when the literacy rate in England was less than 30 percent, the Puritan leaders of colonial New England believed children should be educated for both religious and civil reasons, and they worked to achieve universal literacy.[53] In 1642, Massachusetts required heads of households to teach their wives, children and servants basic reading and writing so that they could read the Bible and understand colonial laws. In 1647, the government required all towns with 50 or more households to hire a teacher and towns of 100 or more households to hire a grammar school instructor to prepare promising boys for college. Boys interested in the ministry were often sent to colleges such as Harvard (founded in 1636) or Yale (founded in 1707). Aspiring lawyers or doctors apprenticed to a local practitioner, or in rare cases were sent to England or Scotland.[54]
 
 Puritan scientists
 
@@ -148,7 +148,7 @@ The Merton Thesis is an argument about the nature of early experimental science 
 
 Behavioral regulations
 
-PuritanChristmasBan.jpg deeming Christmas illegal]] Puritans in both England and New England believed that the state should protect and promote true religion and that religion should influence politics and social life.[58] Certain holidays were outlawed when Puritans came to power. In 1647, Parliament outlawed the celebration of Christmas, Easter and Whitsuntide.[59] Christmas was outlawed in Boston from 1659.[60] Puritans objected to Christmas because the festivities surrounding the holiday were seen as impious. (English jails were usually filled with drunken revelers and brawlers.)
+deeming Christmas illegal]] Puritans in both England and New England believed that the state should protect and promote true religion and that religion should influence politics and social life.[58] Certain holidays were outlawed when Puritans came to power. In 1647, Parliament outlawed the celebration of Christmas, Easter and Whitsuntide.[59] Christmas was outlawed in Boston from 1659.[60] Puritans objected to Christmas because the festivities surrounding the holiday were seen as impious. (English jails were usually filled with drunken revelers and brawlers.)
 
 Puritans were opposed to Sunday sport or recreation because these distracted from religious observance of the Sabbath. Other forms of leisure and entertainment were completely forbidden on moral grounds. For example, Puritans were universally opposed to blood sports such as bearbaiting and cockfighting because they involved unnecessary injury to God's creatures. For similar reasons, they also opposed boxing. These sports were illegal in England during Puritan rule.
 
@@ -162,7 +162,7 @@ Bounds were not set on enjoying sexuality within the bounds of marriage, as a gi
 
 Opposition to other religious views
 
-Mary_dyer_being_led.jpg led to execution on Boston Common, 1 June 1660, by an unknown 19th century artist]] The Puritans exhibited intolerance to other religious views, including Quaker, Anglican and Baptist theologies. The Puritans of the Massachusetts Bay Colony were the most active of the New England persecutors of Quakers, and the persecuting spirit was shared by the Plymouth Colony and the colonies along the Connecticut river.[71]
+led to execution on Boston Common, 1 June 1660, by an unknown 19th century artist]] The Puritans exhibited intolerance to other religious views, including Quaker, Anglican and Baptist theologies. The Puritans of the Massachusetts Bay Colony were the most active of the New England persecutors of Quakers, and the persecuting spirit was shared by the Plymouth Colony and the colonies along the Connecticut river.[71]
 
 In 1660, one of the most notable victims of the religious intolerance was English Quaker Mary Dyer, who was hanged in Boston for repeatedly defying a Puritan law banning Quakers from the colony.[72] She was one of the four executed Quakers known as the Boston martyrs. The hanging of Dyer on Boston Common marked the beginning of the end of the Puritan theocracy.[73] In 1661, King Charles II explicitly forbade Massachusetts from executing anyone for professing Quakerism.[74] In 1684, England revoked the Massachusetts charter, sent over a royal governor to enforce English laws in 1686 and, in 1689, passed a broad Toleration Act.[75]
 
@@ -171,7 +171,7 @@ The first two of the four Boston martyrs were executed by the Puritans on 27 Oct
 
 Historiography
 
-Pilgrim_Fairmount_1.jpg, a late 19th-century sculpture by Augustus Saint-Gaudens.]] The literature on Puritans, particularly biographical literature on individual Puritan ministers, was already voluminous in the 17th century and, indeed, the interests of Puritans in the narratives of early life and conversions made the recording of the internal lives important to them. The historical literature on Puritans is, however, quite problematic and subject to controversies over interpretation. The early writings are those of the defeated, excluded and victims. The great interest of authors of the 19th century in Puritan figures was routinely accused in the 20th century of consisting of anachronism and the reading back of contemporary concerns.
+, a late 19th-century sculpture by Augustus Saint-Gaudens.]] The literature on Puritans, particularly biographical literature on individual Puritan ministers, was already voluminous in the 17th century and, indeed, the interests of Puritans in the narratives of early life and conversions made the recording of the internal lives important to them. The historical literature on Puritans is, however, quite problematic and subject to controversies over interpretation. The early writings are those of the defeated, excluded and victims. The great interest of authors of the 19th century in Puritan figures was routinely accused in the 20th century of consisting of anachronism and the reading back of contemporary concerns.
 
 A debate continues on the definition of "Puritanism".[80] English historian Patrick Collinson believes that "Puritanism had no content beyond what was attributed to it by its opponents."[81] The analysis of "mainstream Puritanism" in terms of the evolution from it of Separatist and antinomian groups that did not flourish, and others that continue to this day, such as Baptists and Quakers, can suffer in this way. The national context (England and Wales, as well as the kingdoms of Scotland and Ireland) frames the definition of Puritans, but was not a self-identification for those Protestants who saw the progress of the Thirty Years' War from 1620 as directly bearing on their denomination, and as a continuation of the religious wars of the previous century, carried on by the English Civil Wars. English historian Christopher Hill, who has contributed to analyses of Puritan concerns that are more respected than accepted, writes of the 1630s, old church lands, and the accusations that William Laud was a crypto-Catholic:
 
@@ -180,7 +180,7 @@ Puritans were politically important in England, but it is debated whether the mo
 
 Puritans
 
-Oliver_Cromwell_by_Samuel_Cooper.jpg, Lord Protector of the Commonwealth of England, Scotland, and Ireland]]
+, Lord Protector of the Commonwealth of England, Scotland, and Ireland]]
 
 -   Peter Bulkley was an influential Puritan minister and founder of Concord.
 -   John Bunyan, famous for _The Pilgrim's Progress_

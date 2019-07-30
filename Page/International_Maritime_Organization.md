@@ -7,7 +7,7 @@ IMO is supported by a permanent secretariat of employees who are representative 
 
 History
 
-International_Maritime_Organization_Headquarters.jpg, London.]]
+, London.]]
 
 SOLAS
 
@@ -25,7 +25,7 @@ The _Torrey Canyon_ grounding was the largest oil pollution incident recorded up
 
 Maritime pollution convention
 
-IMO_Secretaries-General.jpg IMO held an emergency session of its Council to deal with the need to readdress regulations pertaining to maritime pollution. In 1969, the IMO Assembly decided to host an international gathering in 1973 dedicated to this issue.[9] The goal at hand was to develop an international agreement for controlling general environmental contamination by ships when out at sea.
+IMO held an emergency session of its Council to deal with the need to readdress regulations pertaining to maritime pollution. In 1969, the IMO Assembly decided to host an international gathering in 1973 dedicated to this issue.[9] The goal at hand was to develop an international agreement for controlling general environmental contamination by ships when out at sea.
 
 During the next few years IMO brought to the forefront a series of measures designed to prevent large ship accidents and to minimise their effects. It also detailed how to deal with the environmental threat caused by routine ship duties such as the cleaning of oil cargo tanks or the disposal of engine room wastes. By tonnage, the aforementioned was a bigger problem than accidental pollution.[10]
 
@@ -43,7 +43,7 @@ The IMO headquarters are located in a large purpose-built building facing the Ri
 
 Membership
 
-IMO_Participation.svg To become a member of the IMO, a state ratifies a multilateral treaty known as the Convention on the International Maritime Organization. As of 2018, there are 173 member states of the IMO, which includes 172 of the UN member states plus the Cook Islands. The first state to ratify the convention was the United Kingdom in 1949. The most recent members to join were Armenia and Nauru, which became IMO members in January and May 2018, respectively.[18]
+To become a member of the IMO, a state ratifies a multilateral treaty known as the Convention on the International Maritime Organization. As of 2018, there are 173 member states of the IMO, which includes 172 of the UN member states plus the Cook Islands. The first state to ratify the convention was the United Kingdom in 1949. The most recent members to join were Armenia and Nauru, which became IMO members in January and May 2018, respectively.[18]
 
 The three associate members of the IMO are the Faroe Islands, Hong Kong and Macao.
 
@@ -115,7 +115,7 @@ Previous Secretaries-General:
 
 Technical committees
 
-International_Maritime_Organization_Committee.jpg The technical work of the International Maritime Organisation is carried out by a series of Committees.[30][31] These include:
+The technical work of the International Maritime Organisation is carried out by a series of Committees.[30][31] These include:
 
 -   The Maritime Safety Committee (MSC)
 -   The Marine environment Protection Committee (MEPC)

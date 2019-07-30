@@ -70,11 +70,11 @@ The Meritorious Service Medal (MSM) was established in 1969 as a "junior" versio
 
 Insignia
 
-  Chief Commander                                 Commander                                 Officer                              Legionnaire
-  ----------------------------------------------- ----------------------------------------- ------------------------------------ ------------------------------------
-  Us_legion_of_merit_chief_commander.png          Us_legion_of_meit_commander.png           Us_legion_of_merit_officer.png       Us_legion_of_merit_legionnaire.png
+  Chief Commander   Commander   Officer   Legionnaire
+  ----------------- ----------- --------- -------------
+
   Ribbon
-  US_Legion_of_Merit_Chief_Commander_ribbon.png   US_Legion_of_Merit_Commander_ribbon.png   Us_legion_of_merit_officer_rib.png   Legion_of_Merit_ribbon.svg
+
 
 -   The CHIEF COMMANDER DEGREE of the Legion of Merit Medal is, on a wreath of green laurel joined at the bottom by a gold bow-knot (rosette), a domed five-pointed white star bordered crimson, points reversed with v-shaped extremities tipped with a gold ball. In the center, a blue disk encircled by gold clouds, with 13 white stars arranged in the pattern that appears on the Great Seal of the United States. Between each point, within the wreath are crossed arrows pointing outwards. The overall width is . The words "UNITED STATES OF AMERICA" are engraved in the center of the reverse. A miniature of the decoration in gold on a horizontal gold bar is worn on the service ribbon.
 -   The COMMANDER DEGREE of the Legion of Merit Medal is, on a wreath of green laurel joined at the bottom by a gold bow-knot (rosette), a five-pointed white star bordered crimson, points reversed with v-shaped extremities tipped with a gold ball. In the center, a blue disk encircled by gold clouds, with 13 white stars arranged in the pattern that appears on the Great Seal of the United States. Between each star point, within the wreath, are crossed war arrows pointing outwards, representing armed protection to the Nation. The overall width is . A gold laurel wreath in the v-shaped angle at the top connects an oval suspension ring to the neck ribbon that is in width. The reverse of the five-pointed star is enameled in white, and the border is crimson. In the center, a disk for engraving the name of the recipient surrounded by the words "ANNUIT COEPTIS MDCCLXXXII": a combination of the motto from the Great Seal, "He [God] Has Favored Our Undertakings", with the date for the first award of a US decoration, the Purple Heart. An outer scroll contains the words "UNITED STATES OF AMERICA." A miniature of the decoration in silver on a horizontal silver bar is worn on the service ribbon.

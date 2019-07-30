@@ -1,4 +1,4 @@
-Making_a_Nova.jpg hydrogen from the Roche lobe of its larger companion star]]
+hydrogen from the Roche lobe of its larger companion star]]
 
 A NOVA (plural novae or NOVAS) or CLASSICAL NOVA (CN, plural CNe, or Q) is a transient astronomical event that causes the sudden appearance of a bright, apparently "new" star, that slowly fades over several weeks or many months.
 
@@ -20,7 +20,7 @@ Ironically, despite the term "stella nova" meaning "new star", novae most often 
 
 Stellar evolution of novae
 
-Nova-Eridani-2009-LB4.jpg (apparent magnitude ~8.4)]] Evolution of potential novae begins with two main sequence stars in a binary system. One of the two evolves into a red giant, leaving its remnant white dwarf core in orbit with the remaining star. The second star—which may be either a main sequence star or an aging giant—begins to shed its envelope onto its white dwarf companion when it overflows its Roche lobe. As a result, the white dwarf steadily captures matter from the companion's outer atmosphere in an accretion disk, and in turn, the accreted matter falls into the atmosphere. As the white dwarf consists of degenerate matter, the accreted hydrogen does not inflate, but its temperature increases. Runaway fusion occurs when the temperature of this atmospheric layer reaches ~20 million K, initiating nuclear burning, via the CNO cycle.[2]
+(apparent magnitude ~8.4)]] Evolution of potential novae begins with two main sequence stars in a binary system. One of the two evolves into a red giant, leaving its remnant white dwarf core in orbit with the remaining star. The second star—which may be either a main sequence star or an aging giant—begins to shed its envelope onto its white dwarf companion when it overflows its Roche lobe. As a result, the white dwarf steadily captures matter from the companion's outer atmosphere in an accretion disk, and in turn, the accreted matter falls into the atmosphere. As the white dwarf consists of degenerate matter, the accreted hydrogen does not inflate, but its temperature increases. Runaway fusion occurs when the temperature of this atmospheric layer reaches ~20 million K, initiating nuclear burning, via the CNO cycle.[2]
 
 Hydrogen fusion may occur in a stable manner on the surface of the white dwarf for a narrow range of accretion rates, giving rise to a super soft X-ray source, but for most binary system parameters, the hydrogen burning is unstable thermally and rapidly converts a large amount of the hydrogen into other, heavier chemical elements in a runaway reaction,[3] liberating an enormous amount of energy. This blows the remaining gases away from the surface of the white dwarf surface and produces an extremely bright outburst of light.
 
@@ -58,7 +58,7 @@ Novae are classified according to the light curve development speed, so in
 
 Remnants
 
-GKPersei-MiniSuperNova-20150316.jpg: Nova of 1901]] Some novae leave behind visible nebulosity, material expelled in the nova explosion or in multiple explosions. [22]
+: Nova of 1901]] Some novae leave behind visible nebulosity, material expelled in the nova explosion or in multiple explosions. [22]
 
 
 Novae as distance indicators
@@ -102,7 +102,7 @@ RECURRENT NOVAE (RNE) are objects that have been seen to experience multiple nov
 
 Extragalactic novae
 
-Nova_in_M31.jpg]] Novae are relatively common in the Andromeda galaxy (M31).[26] Approximately several dozen novae (brighter than about apparent magnitude 20) are discovered in M31 each year.[27] The Central Bureau for Astronomical Telegrams (CBAT) tracks novae in M31, M33, and M81.[28]
+]] Novae are relatively common in the Andromeda galaxy (M31).[26] Approximately several dozen novae (brighter than about apparent magnitude 20) are discovered in M31 each year.[27] The Central Bureau for Astronomical Telegrams (CBAT) tracks novae in M31, M33, and M81.[28]
 
 
 See also

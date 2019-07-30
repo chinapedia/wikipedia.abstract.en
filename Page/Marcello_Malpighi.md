@@ -16,7 +16,7 @@ In 1656, Ferdinand II of Tuscany invited him to the professorship of theoretical
 
 Career
 
-SA_178-Marcello_Malpighi_(1628-1694).jpg of a baby's skull, by an unknown painter]] In 1653, his father, mother, and grandmother being dead, Malpighi left his family villa and returned to the University of Bologna to study anatomy. In 1656, he was made a reader at Bologna, and then a professor of physics at Pisa, where he began to abandon the disputative method of learning and apply himself to a more experimental method of research. Based on this research, he wrote some _Dialogues against the Peripatetics and Galenists_ (those who followed the precepts of Galen), which were destroyed when his house burned down. Weary of philosophical disputation, in 1660, Malpighi returned to Bologna and dedicated himself to the study of anatomy. He subsequently discovered a new structure of the lungs which led him to several disputes with the learned medical men of the times. In 1662, he was made a professor of Physics at the Academy of Messina.
+of a baby's skull, by an unknown painter]] In 1653, his father, mother, and grandmother being dead, Malpighi left his family villa and returned to the University of Bologna to study anatomy. In 1656, he was made a reader at Bologna, and then a professor of physics at Pisa, where he began to abandon the disputative method of learning and apply himself to a more experimental method of research. Based on this research, he wrote some _Dialogues against the Peripatetics and Galenists_ (those who followed the precepts of Galen), which were destroyed when his house burned down. Weary of philosophical disputation, in 1660, Malpighi returned to Bologna and dedicated himself to the study of anatomy. He subsequently discovered a new structure of the lungs which led him to several disputes with the learned medical men of the times. In 1662, he was made a professor of Physics at the Academy of Messina.
 
 Retiring from university life to his villa in the country near Bologna in 1663, he worked as a physician while continuing to conduct experiments on the plants and insects he found on his estate. There he made discoveries of the structure of plants which he published in his _Observations_. At the end of 1666, Malpighi was invited to return to the public academy at Messina, which he did in 1667. Although he accepted temporary chairs at the universities of Pisa and Messina, throughout his life he continuously returned to Bologna to practice medicine, a city that repaid him by erecting a monument in his memory after his death.[8]
 
@@ -46,7 +46,7 @@ Malpighi's investigations of the lifecycle of plants and animals led him into th
 
 Years in Rome
 
-Bologna,_Marcello_Malpighi's_tomb.JPG In 1691 Pope Innocent XII invited him to Rome as papal physician. He taught medicine in the Papal Medical School and wrote a long treatise about his studies which he donated to the Royal Society of London.
+In 1691 Pope Innocent XII invited him to Rome as papal physician. He taught medicine in the Papal Medical School and wrote a long treatise about his studies which he donated to the Royal Society of London.
 
 Marcello Malpighi died of apoplexy (an old-fashioned term for a stroke or stroke-like symptoms) in Rome on 29 September 1694, at the age of 66. In accordance with his wishes, an autopsy was performed. The Royal Society published his studies in 1696. Asteroid 11121 Malpighi is named in his honor.
 
@@ -57,8 +57,6 @@ Malpighi is buried in the church of the Santi Gregorio e Siro, in Bologna, where
 
 
 Some of Malpighi's important works
-
-Malpighi_-_Opere,_1687_-_3053086.tif
 
 -   _Anatome Plantarum_, two volumes published in 1675 and 1679, an exhaustive study of botany published by the Royal Society
 -   _De viscerum structura exercitatio_

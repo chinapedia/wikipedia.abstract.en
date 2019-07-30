@@ -10,7 +10,7 @@ Mindanao is considered the major breadbasket of the Philippines,[7] with eight o
 
 Mindanao is known for its moniker being _The Philippines' Land of Promise_.[9]
 
-Spanish_map_of_Mindanao.jpg Krieger_1926_Philippine_ethnic_weapons_Plate_20.png Two_Spanish_missionaries_baptise_a_Moro_convert_to_Roman_Catholic,_circa_1890.jpg a Moro convert to Roman Catholicism, circa 1890.]] Davao City's Chinatown is said to be the Philippines' biggest in terms of land area.
+a Moro convert to Roman Catholicism, circa 1890.]]
 
 
 Etymology
@@ -77,7 +77,7 @@ Tropical storm Sendong (international name, Washi) made landfall on 15 December 
 
 Economy
 
-DavaoSkyline.jpg CAG_Skyline_Jan_2018.jpgMindanao's economy accounts for 14% of the country's gross domestic product. The region grew 4.9% in 2016 against Luzon's 5.5% and Visayas' 9.1%.
+Mindanao's economy accounts for 14% of the country's gross domestic product. The region grew 4.9% in 2016 against Luzon's 5.5% and Visayas' 9.1%.
 
 Agriculture, forestry and fishing make up more than 40% of Mindanao's market, being the country's largest supplier of major crops such as pineapples and bananas.[27]
 
@@ -104,33 +104,33 @@ Administrative divisions
 
 The island consists of 6 administrative regions,[32] 22 provinces, and 30 cities (27 provinces and 33 cities if associated islands are included).
 
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| Location                                                                            | Region                       | [33]      | Area[34][35] | Density         | Regional            | scope="col" style="width:14em;text-align:left;" data-sort-type="number" | |
-|                                                                                     |                              |           |              |                 | center              |                                                                           |
-+=====================================================================================+==============================+===========+==============+=================+=====================+===========================================================================+
-| scope="row" style="width:8em;" data-sort-value="1" | Ph_fil_zamboanga_peninsula.png | Zamboanga                    | 3,407,353 |              |                 | Pagadian City       | {{Collapsible list                                                        |
-|                                                                                     | Peninsula                    | (__)      |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| scope="row" style="width:8em;" data-sort-value="2" | Ph_fil_northern_mindanao.png   | Northern                     | 4,297,323 |              |                 | Cagayan de Oro City | {{Collapsible list                                                        |
-|                                                                                     | Mindanao                     | (__)      |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| scope="row" style="width:8em;" data-sort-value="6" | Ph_fil_davao_region.png        | Davao Region                 | 4,468,563 |              |                 | DAVAO CITY          | {{Collapsible list                                                        |
-|                                                                                     |                              | (__)      |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| scope="row" style="width:8em;" data-sort-value="5" | Ph_fil_soccsksargen.png        | Soccsksargen                 | 4,109,571 |              |                 | Koronadal           | {{Collapsible list                                                        |
-|                                                                                     |                              | (__)      |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| scope="row" style="width:8em;" data-sort-value="3" | Ph_fil_caraga.png              | Caraga Region                | 2,429,224 |              |                 | Butuan              | {{Collapsible list                                                        |
-|                                                                                     |                              | (__)      |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| scope="row" style="width:8em;" data-sort-value="4" | Ph_fil_barmm.png               | Bangsamoro Autonomous Region | 3,256,140 |              |                 | Cotabato City       | {{Collapsible list                                                        |
-|                                                                                     | in Muslim                    | (__)      |              |                 |                     |                                                                           |
-|                                                                                     | Mindanao                     |           |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| Region                                                                              | 2010 census                  | Area      | Density      | Regional center | Component LGUs      |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
-| Table notes                                                                         |                              |           |              |                 |                     |                                                                           |
-+-------------------------------------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| Location                                             | Region                       | [33]      | Area[34][35] | Density         | Regional            | scope="col" style="width:14em;text-align:left;" data-sort-type="number" | |
+|                                                      |                              |           |              |                 | center              |                                                                           |
++======================================================+==============================+===========+==============+=================+=====================+===========================================================================+
+| scope="row" style="width:8em;" data-sort-value="1" | | Zamboanga                    | 3,407,353 |              |                 | Pagadian City       | {{Collapsible list                                                        |
+|                                                      | Peninsula                    | (__)      |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| scope="row" style="width:8em;" data-sort-value="2" | | Northern                     | 4,297,323 |              |                 | Cagayan de Oro City | {{Collapsible list                                                        |
+|                                                      | Mindanao                     | (__)      |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| scope="row" style="width:8em;" data-sort-value="6" | | Davao Region                 | 4,468,563 |              |                 | DAVAO CITY          | {{Collapsible list                                                        |
+|                                                      |                              | (__)      |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| scope="row" style="width:8em;" data-sort-value="5" | | Soccsksargen                 | 4,109,571 |              |                 | Koronadal           | {{Collapsible list                                                        |
+|                                                      |                              | (__)      |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| scope="row" style="width:8em;" data-sort-value="3" | | Caraga Region                | 2,429,224 |              |                 | Butuan              | {{Collapsible list                                                        |
+|                                                      |                              | (__)      |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| scope="row" style="width:8em;" data-sort-value="4" | | Bangsamoro Autonomous Region | 3,256,140 |              |                 | Cotabato City       | {{Collapsible list                                                        |
+|                                                      | in Muslim                    | (__)      |              |                 |                     |                                                                           |
+|                                                      | Mindanao                     |           |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| Region                                               | 2010 census                  | Area      | Density      | Regional center | Component LGUs      |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
+| Table notes                                          |                              |           |              |                 |                     |                                                                           |
++------------------------------------------------------+------------------------------+-----------+--------------+-----------------+---------------------+---------------------------------------------------------------------------+
 
 Largest cities and municipalities in Mindanao
 
@@ -149,7 +149,7 @@ The mountains of Mindanao can be grouped into ten ranges, including both complex
 
 In the eastern portion of the island, from Bilas Point in Surigao del Norte to Cape San Agustin in Davao Oriental, is a range of complex mountains known in their northern portion as the Diwata Mountains. This range is low and rolling in its central portion. A proposed road connecting Bislig on the east coast with the Agusan River would pass through of broad saddle across the mountains at a maximum elevation of less than ; while the existing east–west road from Lianga, north of Bislig, reaches a maximum elevation of only . The Diwata Mountains, north of these low points, are considerably higher and more rugged, reaching an elevation of in Mount Hilong-Hilong, along the eastern portion of Cabadbaran City. The southern portion of this range is broader and even more rugged than the northern section. In Davao Oriental, several peaks rise above and one mountain rises to .
 
-MountApo1.jpg, the highest peak in the Philippines]]
+, the highest peak in the Philippines]]
 
 The east-facing coastal regions of Davao and Surigao del Sur are marked by a series of small coastal lowlands separated from each other by rugged forelands which extend to the water's edge. Offshore are numerous coral reefs and tiny islets. This remote and forbidding coast is made doubly difficult to access during the months from October to March by the heavy surf driven before the northeast trade winds. A few miles offshore is found the Philippine Deep. This ocean trench, reaching measured depths of , is the third-deepest trench, (after the Mariana Trench and Tonga Trench) on the earth's surface.
 
@@ -160,8 +160,6 @@ West of Davao City stand two inactive volcanoes: Mount Talomo at , and Mount Apo
 In Western Mindanao, a range of complex structural mountains forms the long, hand-like Zamboanga Peninsula. These mountains, reaching heights of only , are not as high as the other structural belts in Mindanao. There are several places in the Zamboanga Mountains where small inter-mountain basins have been created, with some potential for future agricultural development. The northeastern end of this range is marked by the twin peaks of the now-extinct volcano, Mount Malindang, that towers over Ozamis City at a height of . Mount Dapia is the highest mountain in the Zamboanga Peninsula, reaching a height of . Batorampon Point is the highest mountain of the southernmost end of the peninsula, reaching a height of only ; it is located in the boundary of Zamboanga City.
 
 A series of volcanic mountains is located within the vicinity of Lake Lanao forming a broad arc through the Lanao del Sur, Cotabato and Bukidnon provinces. At least six of the twenty odd peaks in this area are active and several stand in semi-isolation. The Butig Peaks, with their four crater lakes, are easily seen from Cotabato. Mount Ragang, an active volcano cone reaching , is the most isolated, while the greatest height is reached by Mount Kitanglad at .
-
-Philippinen_mindanao_boot_ph06p73.jpg
 
 In South Cotabato, is another range of volcanic mountains, this time paralleling the coast. These mountains have a maximum extent of from northwest to southeast and measures some across. One of the well-known mountains here is Mount Parker, whose almost circular crater lake measures a mile-and-a-quarter in diameter and lies below its summit. Mount Matutum is a protected area and is considered as one of the major landmarks in the South Cotabato province.
 
@@ -206,7 +204,7 @@ Dozens of languages are spoken in Mindanao; among them, Cebuano, Hiligaynon, Sur
 
 Religion
 
-Sultan_Hajji_Hassanal_Bolkhia_Mosque_1.jpg of Cotabato City is the largest mosque in the Philippines. ]]
+of Cotabato City is the largest mosque in the Philippines. ]]
 
 Christianity is the dominant religious affiliation in Mindanao with 60.9% of the household population, majority of which are adherents of Roman Catholicism, Islam comprised 23.39%,[41] and other religions were Evangelical (5.34%), Aglipayan (2.16%), and Iglesia ni Cristo (1.66%).[42]
 

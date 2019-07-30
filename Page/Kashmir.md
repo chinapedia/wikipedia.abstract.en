@@ -1,4 +1,4 @@
-Kashmir_region_2004.jpg range and the Kashmir Valley or Vale of Kashmir.]] Pahalgam_Valley.jpg, Kashmir.]] Nanga_parbat,_Pakistan_by_gul791.jpg in Kashmir, the ninth-highest mountain on Earth, is the western anchor of the Himalayas.]] Karakash_River_in_the_Western_Kunlun_Shan,_seen_from_the_Tibet-Xinjiang_highway.jpg (Black Jade River) which flows north from its source near the town of Sumde in Aksai Chin, to cross the Kunlun Mountains.]]
+range and the Kashmir Valley or Vale of Kashmir.]] , Kashmir.]] in Kashmir, the ninth-highest mountain on Earth, is the western anchor of the Himalayas.]] (Black Jade River) which flows north from its source near the town of Sumde in Aksai Chin, to cross the Kunlun Mountains.]]
 
 KASHMIR is the northernmost geographical region of the Indian subcontinent. Until the mid-19th century, the term "Kashmir" denoted only the Kashmir Valley between the Great Himalayas and the Pir Panjal Range. Today, it denotes a larger area that includes the Indian-administered territory of Jammu and Kashmir (which includes the divisions Jammu, Kashmir Valley, and Ladakh), the Pakistani-administered territories of Azad Kashmir and Gilgit-Baltistan, and Chinese-administered territories of Aksai Chin and the Trans-Karakoram Tract.[1][2][3]
 
@@ -26,7 +26,7 @@ History
 
 Hinduism and Buddhism in Kashmir
 
-Buddhist_tope_baramula1868.jpg stupa near Baramulla, with two figures standing on the summit, and another at the base with measuring scales, was taken by John Burke in 1868. The stupa, which was later excavated, dates to 500 CE.]] During ancient and medieval period, Kashmir has been an important centre for the development of a Hindu-Buddhist syncretism, in which Madhyamaka and Yogachara were blended with Shaivism and Advaita Vedanta. The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari, now ruins on the outskirts of modern Srinagar. Kashmir was long to be a stronghold of Buddhism.[23] As a Buddhist seat of learning, the Sarvastivada school strongly influenced Kashmir.[24] East and Central Asian Buddhist monks are recorded as having visited the kingdom. In the late 4th century CE, the famous Kuchanese monk Kumārajīva, born to an Indian noble family, studied Dīrghāgama and Madhyāgama in Kashmir under Bandhudatta. He later became a prolific translator who helped take Buddhism to China. His mother Jīva is thought to have retired to Kashmir. Vimalākṣa, a Sarvāstivādan Buddhist monk, travelled from Kashmir to Kucha and there instructed Kumārajīva in the _Vinayapiṭaka_.
+stupa near Baramulla, with two figures standing on the summit, and another at the base with measuring scales, was taken by John Burke in 1868. The stupa, which was later excavated, dates to 500 CE.]] During ancient and medieval period, Kashmir has been an important centre for the development of a Hindu-Buddhist syncretism, in which Madhyamaka and Yogachara were blended with Shaivism and Advaita Vedanta. The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari, now ruins on the outskirts of modern Srinagar. Kashmir was long to be a stronghold of Buddhism.[23] As a Buddhist seat of learning, the Sarvastivada school strongly influenced Kashmir.[24] East and Central Asian Buddhist monks are recorded as having visited the kingdom. In the late 4th century CE, the famous Kuchanese monk Kumārajīva, born to an Indian noble family, studied Dīrghāgama and Madhyāgama in Kashmir under Bandhudatta. He later became a prolific translator who helped take Buddhism to China. His mother Jīva is thought to have retired to Kashmir. Vimalākṣa, a Sarvāstivādan Buddhist monk, travelled from Kashmir to Kucha and there instructed Kumārajīva in the _Vinayapiṭaka_.
 
 Karkoṭa Empire (625 CE – 885 CE) was a powerful Hindu empire, which originated in the region of Kashmir.[25] It was founded by Durlabhvardhana during the lifetime of Harsha. The dynasty marked the rise of Kashmir as a power in South Asia.[26] Avanti Varman ascended the throne of Kashmir on 855 CE, establishing the Utpala dynasty and ending the rule of Karkoṭa dynasty.[27]
 
@@ -40,7 +40,7 @@ Queen Kota Rani was medieval Hindu ruler of Kashmir, ruling until 1339. She was 
 
 Shah Mir Dynasty
 
-Zeinulabuddin-tomb-srinagar1866.JPG. Oriental and India Office Collection. British Library.]] Shams-ud-Din SHAH MIR (reigned 1339–42) was the first Muslim ruler of Kashmir[46] and founder of the Shah Mir dynasty.[47][48] Kashmiri historian Jonaraja, in his _Dvitīyā Rājataraṅginī_ mentioned Shah Mir was from the country of _Panchagahvara_ (identified as the Panjgabbar valley between Rajouri and Budhal), and his ancestors were Kshatriya, who converted to Islam.[49][50] Scholar A. Q. Rafiqi states:
+. Oriental and India Office Collection. British Library.]] Shams-ud-Din SHAH MIR (reigned 1339–42) was the first Muslim ruler of Kashmir[46] and founder of the Shah Mir dynasty.[47][48] Kashmiri historian Jonaraja, in his _Dvitīyā Rājataraṅginī_ mentioned Shah Mir was from the country of _Panchagahvara_ (identified as the Panjgabbar valley between Rajouri and Budhal), and his ancestors were Kshatriya, who converted to Islam.[49][50] Scholar A. Q. Rafiqi states:
 
 Rinchan, from Ladakh, and Lankar Chak, from Dard territory near Gilgit, came to Kashmir and played a notable role in the subsequent political history of the Valley. All the three men were granted Jagirs (feudatory estates) by the King. Rinchan became the ruler of Kashmir for three years.
 
@@ -48,11 +48,11 @@ Shah Mir was the first ruler of Shah Mir dynasty, which had established in 1339 
 
 Mughal rule
 
-Nishat_Bagh_(14545903241).jpg, a Mughal Garden built by the Mughal emperor Shah Jahan in Srinagar, Kashmir]] The Mughal padishah (emperor) Akbar conquered Kashmir from 1585-86, taking advantage of Kashmir's internal Sunni-Shia divisions,[54] and thus ended indigenous Kashmiri Muslim rule.[55] Akbar added it to the Kabul Subah (encompassing modern-day northeastern Afghanistan, northern Pakistan and the Kashmir Valley of India), but Shah Jahan carved it out as a separate subah (imperial top-level province) with its seat at Srinagar. Kashmir became the northern-most region of Mughal India as well as a pleasure ground in the summertime. They built Persian water-gardens in Srinagar, along the shores of Dal Lake, with cool and elegantly proportioned terraces, fountains, roses, jasmine and rows of chinar trees[56].
+, a Mughal Garden built by the Mughal emperor Shah Jahan in Srinagar, Kashmir]] The Mughal padishah (emperor) Akbar conquered Kashmir from 1585-86, taking advantage of Kashmir's internal Sunni-Shia divisions,[54] and thus ended indigenous Kashmiri Muslim rule.[55] Akbar added it to the Kabul Subah (encompassing modern-day northeastern Afghanistan, northern Pakistan and the Kashmir Valley of India), but Shah Jahan carved it out as a separate subah (imperial top-level province) with its seat at Srinagar. Kashmir became the northern-most region of Mughal India as well as a pleasure ground in the summertime. They built Persian water-gardens in Srinagar, along the shores of Dal Lake, with cool and elegantly proportioned terraces, fountains, roses, jasmine and rows of chinar trees[56].
 
 Afghan rule
 
-Coin_of_Timur_Shah_Durrani,_minted_in_Kashmir.jpg (1772–1793), minted in Kashmir, dated 1787]] The Afghan Durrani dynasty's Durrani Empire controlled Kashmir from 1751, when weakling 15th Mughal padshah (emperor) Ahmad Shah Bahadur's viceroy Muin-ul-Mulk was defeated and reinstated by the Durrani founder Ahmad Shah Durrani (who conquered, roughly, modern day Afghanistan and Pakistan from the Mughals and local rulers), until the 1820 Sikh triumph. The Afghan rulers brutally repressed Kashmiris of all faiths (according to Kashmiri historians).[57]
+(1772–1793), minted in Kashmir, dated 1787]] The Afghan Durrani dynasty's Durrani Empire controlled Kashmir from 1751, when weakling 15th Mughal padshah (emperor) Ahmad Shah Bahadur's viceroy Muin-ul-Mulk was defeated and reinstated by the Durrani founder Ahmad Shah Durrani (who conquered, roughly, modern day Afghanistan and Pakistan from the Mughals and local rulers), until the 1820 Sikh triumph. The Afghan rulers brutally repressed Kashmiris of all faiths (according to Kashmiri historians).[57]
 
 Sikh rule
 
@@ -62,7 +62,7 @@ The state of Jammu, which had been on the ascendant after the decline of the Mug
 
 Princely state
 
-NWFP-Kashmir1909-a.jpg. The names of regions, important cities, rivers, and mountains are underlined in red.]]
+. The names of regions, important cities, rivers, and mountains are underlined in red.]]
 
 In 1845, the First Anglo-Sikh War broke out. According to _The Imperial Gazetteer of India_,
 
@@ -74,7 +74,7 @@ In the British census of India of 1941, Kashmir registered a Muslim majority pop
 
 1947 and 1948
 
-Brit_IndianEmpireReligions3.jpg Ranbir Singh's grandson Hari Singh, who had ascended the throne of Kashmir in 1925, was the reigning monarch in 1947 at the conclusion of British rule of the subcontinent and the subsequent partition of the British Indian Empire into the newly independent Dominion of India and the Dominion of Pakistan.
+Ranbir Singh's grandson Hari Singh, who had ascended the throne of Kashmir in 1925, was the reigning monarch in 1947 at the conclusion of British rule of the subcontinent and the subsequent partition of the British Indian Empire into the newly independent Dominion of India and the Dominion of Pakistan.
 
 In the run up to 1947 partition, there were two major parties in the princely state: the National Conference and the Muslim Conference. The former was led by the charismatic Kashmiri leader Sheikh Abdullah, who tilted towards the accession of the state to India, whilst the latter tilted towards accession to Pakistan.[84] The National Conference enjoyed popular support in the Kashmir Valley whilst the Muslim Conference was more popular in the Jammu region.[85] The Hindus and Sikhs of the state were firmly in favour of joining India, as were the Buddhists.[86] However, the sentiments of the state's Muslim population were divided. Scholar Christopher Snedden states that the Muslims of Western Jammu, and also the Muslims of the Frontier Districts Province, strongly wanted Jammu and Kashmir to join Pakistan.[87] The ethnic Kashmiri Muslims of the Kashmir Valley, on the other hand, were ambivalent about Pakistan (possibly due to their secular nature).[88][89][90][91][92] The fact that Kashmiris were not particularly enamoured with the idea of Pakistan reflected the failure of the idea of Pan-Islamic identity in satisfying the political urges of Kashmiris.[93] At the same time there was also a lack of interest in merging with Indian nationalism.[94]
 
@@ -84,7 +84,7 @@ According to Burton Stein's _History of India_,
 
 In the last days of 1948, a ceasefire was agreed under UN auspices. However, since the referendum demanded by the UN was never conducted, relations between India and Pakistan soured,[97] and eventually led to two more wars over Kashmir in 1965 and 1999.
 
-Kashmir_top.jpg of Kashmir]]
+of Kashmir]]
 
 Current status and political divisions
 
@@ -109,7 +109,7 @@ Demographics
 
 In the 1901 Census of the British Indian Empire, the population of the princely state of _Kashmir and Jammu_ was 2,905,578. Of these, 2,154,695 (74.16%) were Muslims, 689,073 (23.72%) Hindus, 25,828 (0.89%) Sikhs, and 35,047 (1.21%) Buddhists (implying 935 (0.032%) others).
 
-Muslim-shawl-makers-kashmir1867.jpg KashmirPundit1895BritishLibrary.jpg sects of Hinduism, shown in 1895.]]
+sects of Hinduism, shown in 1895.]]
 
 Among the Muslims of the _Kashmir province_ within the princely state, four divisions were recorded: "Shaikhs, Saiyids, Mughals, and Pathans. The Shaikhs, who are by far the most numerous, are the descendants of Hindus, but have retained none of the caste rules of their forefathers. They have clan names known as _krams_ ..."[103] These _kram_ names included "Tantre", "Shaikh", "Bat", "Manto", "Ganai", "Dar", "Lon", "Wani" etc. The Saiyids "could be divided into those who follow the profession of religion and those who have taken to agriculture and other pursuits. Their _kram_ name is 'Mir.' While a Saiyid retains his saintly profession Mir is a prefix; if he has taken to agriculture, Mir is an affix to his name."[104] The _Mughals_ who were not numerous had _kram_ names like "Mir" (a corruption of "Mirza"), "Beg", "Bandi", "Bach" and "Ashaye". Finally, it was recorded that the Pathans "who are more numerous than the Mughals, ... are found chiefly in the south-west of the valley, where Pathan colonies have from time to time been founded. The most interesting of these colonies is that of Kuki-Khel Afridis at Dranghaihama, who retain all the old customs and speak Pashto."[105] Among the main tribes of Muslims in the princely state are the Butts, Dar, Lone, Jat, Gujjar, Rajput, Sudhan and Khatri. Some Kashmiri families belonging to Butt, Lone and Wani/Wain clans use the title of Khawaja which was given to them by Mughal governors as these families were associated with Mughal Darbar. The Khatri use the title Shaikh and the Gujjar use the title Chaudhary. All these tribes are indigenous to the princely state which converted to Islam from Hinduism during its arrival in the region.
 
@@ -145,12 +145,10 @@ The total population of India's division of Jammu and Kashmir is 12,541,302[117]
 | -   Statistics from the BBC In Depth report. |                  |                         |          |         |            |         |
 +----------------------------------------------+------------------+-------------------------+----------+---------+------------+---------+
 
-Kashmir_Ladakh_women_in_local_costume.jpg women from Kargil, northern Ladakh, in local costumes]]
+women from Kargil, northern Ladakh, in local costumes]]
 
 
 Economy
-
-Srinagar_pano.jpg
 
 Kashmir's economy is centred around agriculture. Traditionally the staple crop of the valley was rice, which formed the chief food of the people. In addition, Indian corn, wheat, barley and oats were also grown. Given its temperate climate, it is suited for crops like asparagus, artichoke, seakale, broad beans, scarletrunners, beetroot, cauliflower and cabbage. Fruit trees are common in the valley, and the cultivated orchards yield pears, apples, peaches, and cherries. The chief trees are deodar, firs and pines, chenar or plane, maple, birch and walnut, apple, cherry.
 

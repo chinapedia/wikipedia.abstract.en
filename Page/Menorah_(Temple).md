@@ -1,11 +1,11 @@
-Menorah_0307.jpg]]
+]]
 
 The MENORAH (; ) is described in the Bible as the seven-lamp (six branches) ancient Hebrew lampstand made of pure gold and used in the portable sanctuary set up by Moses in the wilderness and later in the Temple in Jerusalem. Fresh olive oil of the purest quality was burned daily to light its lamps. The menorah has been a symbol of Judaism since ancient times and is the emblem on the coat of arms of the modern state of Israel.
 
 
 Construction
 
-Fray_Juan_Ricci,_Menorah.jpg (1600–1681), sketch of the menorah as described in Exodus, undated. Biblioteca Statale del Monumento Nazionale di Monte Cassino, cod. 469, fol. 199v]]
+(1600–1681), sketch of the menorah as described in Exodus, undated. Biblioteca Statale del Monumento Nazionale di Monte Cassino, cod. 469, fol. 199v]]
 
 The Hebrew Bible states that God revealed the design for the menorah to Moses and describes the construction of the menorah as follows ():
 
@@ -13,7 +13,7 @@ The Hebrew Bible states that God revealed the design for the menorah to Moses an
 
   ³⁷Then make its seven lamps and set them up on it so that they light the space in front of it. ³⁸Its wick trimmers and trays are to be of pure gold. ³⁹A talent of pure gold is to be used for the lampstand and all these accessories. ⁴⁰See that you make them according to the pattern shown you on the mountain.[1]
 
-Menorah_Rambam.jpg Numbers, chapter 8, adds that the seven lamps are to give light in front of the lampstand and reiterates that the lampstand was made in accordance with the pattern shown to Moses on the mountain.[2]
+Numbers, chapter 8, adds that the seven lamps are to give light in front of the lampstand and reiterates that the lampstand was made in accordance with the pattern shown to Moses on the mountain.[2]
 
 In Jewish oral tradition, the menorah stood 18 handbreadths high, or approximately .[3] Although the menorah was placed in the antechamber of the Temple sanctuary, over against its southernmost wall, the Talmud (_Menahot_ 98b) brings down a dispute between two scholars on whether or not the menorah was situated north to south, or east to west. The historian Josephus, who witnessed the Temple's destruction, says that the menorah was actually situated obliquely, to the east and south.[4]
 
@@ -21,13 +21,13 @@ The branches are often artistically depicted as semicircular, but Rashi,[5] (acc
 
 The most famous preserved representation[11] of the menorah of the Temple was depicted in a frieze on the Arch of Titus, commemorating his triumphal parade in Rome following the destruction of Jerusalem in the year 70 CE. In that frieze, the menorah is shown resting upon a double hexagonal base, built all around in the form of a step. The lower base was identical in design to the upper base, only larger in circumference. Each facet of the hexagonal base was made with two vertical stiles and two horizontal rails, a top rail and a bottom rail, resembling a protruding frame set against a sunken panel. These panels have some relief design set or sculpted within them. The panels depict the Ziz and the Leviathan from Jewish mythology.
 
-Magdala_Stone_(4).jpg with Menorah that was found in the Archaeological site Magdala.]]
+with Menorah that was found in the Archaeological site Magdala.]]
 
 In 2009, the ruins of a synagogue with pottery dating from before the destruction of the Second Temple were discovered under land in Magdala owned by the _Legionaries of Christ_, who had intended to construct a center for women's studies.[12] Inside that synagogue's ruins was discovered a rectangular stone, which had on its surface, among other ornate carvings, a depiction of the seven-lamp menorah differing markedly from the depiction on the Arch of Titus, which could possibly have been carved by an eyewitness to the actual menorah present at the time in the Temple at Jerusalem. This menorah has arms which are polygonal, not rounded, and the base is not graduated but triangular. It is notable, however, that this artifact was found a significant distance from Jerusalem and the Arch of Titus has often been interpreted as an eyewitness account of the original menorah being looted from the temple in Jerusalem.
 
 Representations of the seven lamp artifact have been found on tombs and monuments dating from the 1st century as a frequently used symbol of Judaism and the Jewish people.[13]
 
-It has been noted that the shape of the menorah bears a certain resemblance to that of the plant Salvia palaestina.[14] Acta_Eruditorum_-_III_menorah_eliche,_1709_–_BEIC_13373207.jpg, 1709]] Contrary to some modern designs, the ancient menorah did not contain anything resembling seven candles, as candles were unknown in the Middle East until about 400 CE.
+It has been noted that the shape of the menorah bears a certain resemblance to that of the plant Salvia palaestina.[14] , 1709]] Contrary to some modern designs, the ancient menorah did not contain anything resembling seven candles, as candles were unknown in the Middle East until about 400 CE.
 
 
 Use
@@ -39,7 +39,7 @@ The Roman-Jewish historian Flavius Josephus states that three of the seven lamps
 
 History and fate
 
-Arch_of_Titus_Menorah.png in Rome, displayed in the Beit Hatfutsot: Museum of the Jewish People in Tel Aviv.]]
+in Rome, displayed in the Beit Hatfutsot: Museum of the Jewish People in Tel Aviv.]]
 
 Tabernacle
 
@@ -80,7 +80,7 @@ The seven lamps allude to the branches of human knowledge, represented by the si
 
 Christianity
 
-Menorah_(Temple)_מנורת_בית_המקדש_Temple_vessels_Vatican_מדלייה_שיצא_עי_הוותיקן_בשנת_1590_בעת_מינוי_האפיפיור_אורבנוס_השביעיאורבנוס.JPG with menorah and the legend
+with menorah and the legend
 SIC•LUCEAT•LUX•VESTRA
 (Let your light so shine - Matt. 5:16)]]
 
@@ -102,7 +102,7 @@ The Talmud (Menahot 28b) states that it is prohibited to use a seven-lamp menora
 
 Modern Jewish use
 
-Menora-Mahnmal_des_Staates_Israel_mit_Ehrenkränzen,_Gedenkstätte_KZ_Mauthausen_2004.jpg, Austria]]
+, Austria]]
 
 Synagogues have a continually lit lamp or light in front of the Ark, where the Torah scroll is kept, called the _ner tamid_ (eternal light). This lamp represents the continually lit _ner Elohim_ of the menorah used in Temple times.[34]
 

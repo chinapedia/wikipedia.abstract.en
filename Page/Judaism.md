@@ -1,4 +1,4 @@
-judaica.jpg (clockwise from top): Shabbat candlesticks, handwashing cup, Chumash and Tanakh, Torah pointer, shofar and etrog box]]
+(clockwise from top): Shabbat candlesticks, handwashing cup, Chumash and Tanakh, Torah pointer, shofar and etrog box]]
 
 JUDAISM (originally from Hebrew , _Yehudah_, "Judah";[1][2] via Latin and Greek) is the ethnic religion of the Jewish people. It is an ancient, monotheistic, Abrahamic religion with the Torah as its foundational text.[3] It encompasses the religion, philosophy, and culture of the Jewish people.[4] Judaism is considered by religious Jews to be the expression of the covenant that God established with the Children of Israel.[5] It encompasses a wide body of texts, practices, theological positions, and forms of organization. The Torah is part of the larger text known as the Tanakh or the Hebrew Bible, and supplemental oral tradition represented by later texts such as the Midrash and the Talmud. With between 14.5 and 17.4 million adherents worldwide,[6] Judaism is the tenth largest religion in the world.
 
@@ -13,7 +13,7 @@ Defining characteristics and principles of faith
 
 Defining characteristics
 
-5492_-_Venezia_-_Ghetto_Nuovo_-_Negozio_ebraico_-_Foto_Giovanni_Dall'Orto,_1-Aug-2008.jpg Македонска_ханукија_-_מקדוני_חנוכייה_-_Macedonian_Hanukkah_menorah.jpg Hanukkah menorah]] Unlike other ancient Near Eastern gods, the Hebrew God is portrayed as unitary and solitary; consequently, the Hebrew God's principal relationships are not with other gods, but with the world, and more specifically, with the people he created.[27] Judaism thus begins with ethical monotheism: the belief that God is one and is concerned with the actions of mankind.[28] According to the Tanakh (Hebrew Bible), God promised Abraham to make of his offspring a great nation.[29] Many generations later, he commanded the nation of Israel to love and worship only one God; that is, the Jewish nation is to reciprocate God's concern for the world.[30] He also commanded the Jewish people to love one another; that is, Jews are to imitate God's love for people.[31] These commandments are but two of a large corpus of commandments and laws that constitute this covenant, which is the substance of Judaism.
+Hanukkah menorah]] Unlike other ancient Near Eastern gods, the Hebrew God is portrayed as unitary and solitary; consequently, the Hebrew God's principal relationships are not with other gods, but with the world, and more specifically, with the people he created.[27] Judaism thus begins with ethical monotheism: the belief that God is one and is concerned with the actions of mankind.[28] According to the Tanakh (Hebrew Bible), God promised Abraham to make of his offspring a great nation.[29] Many generations later, he commanded the nation of Israel to love and worship only one God; that is, the Jewish nation is to reciprocate God's concern for the world.[30] He also commanded the Jewish people to love one another; that is, Jews are to imitate God's love for people.[31] These commandments are but two of a large corpus of commandments and laws that constitute this covenant, which is the substance of Judaism.
 
 Thus, although there is an esoteric tradition in Judaism (Kabbalah), Rabbinic scholar Max Kadushin has characterized normative Judaism as "normal mysticism", because it involves everyday personal experiences of God through ways or modes that are common to all Jews.[32] This is played out through the observance of the Halakha (Jewish law) and given verbal expression in the Birkat Ha-Mizvot, the short blessings that are spoken every time a positive commandment is to be fulfilled.
 
@@ -124,7 +124,7 @@ Jewish identity
 
 Origin of the term "Judaism"
 
-Macedonian_Mezuzah.jpg case]]
+case]]
 
 The term "Judaism" derives from _Iudaismus_, a Latinized form of the Ancient Greek _Ioudaismos_ (Ἰουδαϊσμός) (from the verb , "to side with or imitate the [Judeans]").[78] Its ultimate source was the Hebrew יהודה, _Yehudah_, "Judah",[79][80] which is also the source of the Hebrew term for Judaism: יַהֲדוּת, _Yahadut_. The term _Ἰουδαϊσμός_ first appears in the Hellenistic Greek book of 2 Maccabees in the 2nd century BCE. In the context of the age and period it meant "seeking or forming part of a cultural entity"[81] and it resembled its antonym _hellenismos_, a word that signified a people's submission to Hellenic (Greek) cultural norms. The conflict between _iudaismos_ and _hellenismos_ lay behind the Maccabean revolt and hence the invention of the term _iudaismos_.[82]
 
@@ -211,7 +211,7 @@ Jewish ethics may be guided by halakhic traditions, by other moral principles, o
 
 Prayers
 
-YemeniJew1914.jpg skullcap, prayer shawl and tefillin]] Traditionally, Jews recite prayers three times daily, Shacharit, Mincha, and Ma'ariv with a fourth prayer, Mussaf added on Shabbat and holidays. At the heart of each service is the _Amidah_ or _Shemoneh Esrei_. Another key prayer in many services is the declaration of faith, the _Shema Yisrael_ (or _Shema_). The _Shema_ is the recitation of a verse from the Torah (Deuteronomy 6:4): _Shema Yisrael Adonai Eloheinu Adonai Echad_—"Hear, O Israel! The Lord is our God! The Lord is One!"
+skullcap, prayer shawl and tefillin]] Traditionally, Jews recite prayers three times daily, Shacharit, Mincha, and Ma'ariv with a fourth prayer, Mussaf added on Shabbat and holidays. At the heart of each service is the _Amidah_ or _Shemoneh Esrei_. Another key prayer in many services is the declaration of faith, the _Shema Yisrael_ (or _Shema_). The _Shema_ is the recitation of a verse from the Torah (Deuteronomy 6:4): _Shema Yisrael Adonai Eloheinu Adonai Echad_—"Hear, O Israel! The Lord is our God! The Lord is One!"
 
 Most of the prayers in a traditional Jewish service can be recited in solitary prayer, although communal prayer is preferred. Communal prayer requires a quorum of ten adult Jews, called a _minyan_. In nearly all Orthodox and a few Conservative circles, only male Jews are counted toward a _minyan_; most Conservative Jews and members of other Jewish denominations count female Jews as well.
 
@@ -247,14 +247,14 @@ upright=1.15 in Jerusalem]] Jewish holy days (_chaggim_), celebrate landmark eve
 
 High Holy Days
 
-Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg'' by Maurycy Gottlieb (1878)]] The High Holidays (_Yamim Noraim_ or "Days of Awe") revolve around judgment and forgiveness.
+'' by Maurycy Gottlieb (1878)]] The High Holidays (_Yamim Noraim_ or "Days of Awe") revolve around judgment and forgiveness.
 
 -   Rosh Hashanah, (also _Yom Ha-Zikkaron_ or "Day of Remembrance", and _Yom Teruah_, or "Day of the Sounding of the Shofar"). Rosh Hashanah is the Jewish New Year (literally, "head of the year"), although it falls on the first day of the seventh month of the Hebrew calendar, Tishri. Rosh Hashanah marks the beginning of the 10-day period of atonement leading up to Yom Kippur, during which Jews are commanded to search their souls and make amends for sins committed, intentionally or not, throughout the year. Holiday customs include blowing the shofar, or ram's horn, in the synagogue, eating apples and honey, and saying blessings over a variety of symbolic foods, such as pomegranates.
 -   Yom Kippur, ("Day of Atonement") is the holiest day of the Jewish year. It is a day of communal fasting and praying for forgiveness for one's sins. Observant Jews spend the entire day in the synagogue, sometimes with a short break in the afternoon, reciting prayers from a special holiday prayerbook called a "Machzor". Many non-religious Jews make a point of attending synagogue services and fasting on Yom Kippur. On the eve of Yom Kippur, before candles are lit, a prefast meal, the "seuda mafseket", is eaten. Synagogue services on the eve of Yom Kippur begin with the Kol Nidre prayer. It is customary to wear white on Yom Kippur, especially for Kol Nidre, and leather shoes are not worn. The following day, prayers are held from morning to evening. The final prayer service, called "Ne'ilah", ends with a long blast of the shofar.
 
 Purim
 
-Jerusalem_Purim_street_scene.jpg Présentation_de_la_Loi,_Edouard_Moyse_(1860)_-_Musée_d'art_et_d'histoire_du_Judaïsme.jpg reading, France, 1860 Museum of Jewish Art and History]] Purim (Hebrew: _Pûrîm_ "lots") is a joyous Jewish holiday that commemorates the deliverance of the Persian Jews from the plot of the evil Haman, who sought to exterminate them, as recorded in the biblical Book of Esther. It is characterized by public recitation of the Book of Esther, mutual gifts of food and drink, charity to the poor, and a celebratory meal (Esther 9:22). Other customs include drinking wine, eating special pastries called hamantashen, dressing up in masks and costumes, and organizing carnivals and parties.
+reading, France, 1860 Museum of Jewish Art and History]] Purim (Hebrew: _Pûrîm_ "lots") is a joyous Jewish holiday that commemorates the deliverance of the Persian Jews from the plot of the evil Haman, who sought to exterminate them, as recorded in the biblical Book of Esther. It is characterized by public recitation of the Book of Esther, mutual gifts of food and drink, charity to the poor, and a celebratory meal (Esther 9:22). Other customs include drinking wine, eating special pastries called hamantashen, dressing up in masks and costumes, and organizing carnivals and parties.
 
 Purim has celebrated annually on the 14th of the Hebrew month of Adar, which occurs in February or March of the Gregorian calendar.
 
@@ -284,7 +284,7 @@ The core of festival and Shabbat prayer services is the public reading of the To
 
 Synagogues and religious buildings
 
-Belz_World_Center_Inside.jpg in Jerusalem.]]
+in Jerusalem.]]
 
 Synagogues are Jewish houses of prayer and study. They usually contain separate rooms for prayer (the main sanctuary), smaller rooms for study, and often an area for community or educational use. There is no set blueprint for synagogues and the architectural shapes and interior designs of synagogues vary greatly. The Reform movement mostly refer to their synagogues as temples. Some traditional features of a synagogue are:
 
@@ -315,11 +315,11 @@ Survival concerns supersede all the laws of _kashrut_, as they do for most halak
 
 Laws of ritual purity
 
-Шабатна_кибритна_кутија_-_Shabbat_matchbox_holder.jpg with inscription in Hebrew]] The Tanakh describes circumstances in which a person who is _tahor_ or ritually pure may become _tamei_ or ritually impure. Some of these circumstances are contact with human corpses or graves, seminal flux, vaginal flux, menstruation, and contact with people who have become impure from any of these.[121][122] In Rabbinic Judaism, Kohanim, members of the hereditary caste that served as priests in the time of the Temple, are mostly restricted from entering grave sites and touching dead bodies.[123] During the Temple period, such priests (Kohanim) were required to eat their bread offering (Terumah) in a state of ritual purity, which laws eventually led to more rigid laws being enacted, such as hand-washing which became a requisite of all Jews before consuming ordinary bread.
+with inscription in Hebrew]] The Tanakh describes circumstances in which a person who is _tahor_ or ritually pure may become _tamei_ or ritually impure. Some of these circumstances are contact with human corpses or graves, seminal flux, vaginal flux, menstruation, and contact with people who have become impure from any of these.[121][122] In Rabbinic Judaism, Kohanim, members of the hereditary caste that served as priests in the time of the Temple, are mostly restricted from entering grave sites and touching dead bodies.[123] During the Temple period, such priests (Kohanim) were required to eat their bread offering (Terumah) in a state of ritual purity, which laws eventually led to more rigid laws being enacted, such as hand-washing which became a requisite of all Jews before consuming ordinary bread.
 
 Family purity
 
-Fauteuil_de_circoncision_("Fauteuil_d'Elie").jpg]]
+]]
 
 An important subcategory of the ritual purity laws relates to the segregation of menstruating women. These laws are also known as _niddah_, literally "separation", or family purity. Vital aspects of halakha for traditionally observant Jews, they are not usually followed by Jews in liberal denominations.[124]
 
@@ -341,7 +341,7 @@ Community leadership
 
 Classical priesthood
 
-Jewish_Children_with_their_Teacher_in_Samarkand.jpg, Uzbekistan c. 1910.]] The role of the priesthood in Judaism has significantly diminished since the destruction of the Second Temple in 70 CE when priests attended to the Temple and sacrifices. The priesthood is an inherited position, and although priests no longer have any but ceremonial duties, they are still honored in many Jewish communities. Many Orthodox Jewish communities believe that they will be needed again for a future Third Temple and need to remain in readiness for future duty.
+, Uzbekistan c. 1910.]] The role of the priesthood in Judaism has significantly diminished since the destruction of the Second Temple in 70 CE when priests attended to the Temple and sacrifices. The priesthood is an inherited position, and although priests no longer have any but ceremonial duties, they are still honored in many Jewish communities. Many Orthodox Jewish communities believe that they will be needed again for a future Third Temple and need to remain in readiness for future duty.
 
 -   Kohen (priest) – patrilineal descendant of Aaron, brother of Moses. In the Temple, the _kohanim_ were charged with performing the sacrifices. Today, a Kohen is the first one called up at the reading of the Torah, performs the Priestly Blessing, as well as complying with other unique laws and ceremonies, including the ceremony of redemption of the first-born.
 -   Levi (Levite) – Patrilineal descendant of Levi the son of Jacob. In the Temple in Jerusalem, the levites sang Psalms, performed construction, maintenance, janitorial, and guard duties, assisted the priests, and sometimes interpreted the law and Temple ritual to the public. Today, a Levite is called up second to the reading of the Torah.
@@ -382,9 +382,9 @@ History
 
 Origins
 
-Duraeuropa-1-.gif decorate the Dura-Europos synagogue dating from 244 CE]] At its core, the Tanakh is an account of the Israelites' relationship with God from their earliest history until the building of the Second Temple (c. 535 BCE). Abraham is hailed as the first Hebrew and the father of the Jewish people. As a reward for his act of faith in one God, he was promised that Isaac, his second son, would inherit the Land of Israel (then called Canaan). Later, the descendants of Isaac's son Jacob were enslaved in Egypt, and God commanded Moses to lead the Exodus from Egypt. At Mount Sinai, they received the Torah—the five books of Moses. These books, together with Nevi'im and Ketuvim are known as _Torah Shebikhtav_ as opposed to the Oral Torah, which refers to the Mishnah and the Talmud. Eventually, God led them to the land of Israel where the tabernacle was planted in the city of Shiloh for over 300 years to rally the nation against attacking enemies. As time went on, the spiritual level of the nation declined to the point that God allowed the Philistines to capture the tabernacle. The people of Israel then told Samuel the prophet that they needed to be governed by a permanent king, and Samuel appointed Saul to be their King. When the people pressured Saul into going against a command conveyed to him by Samuel, God told Samuel to appoint David in his stead.
+decorate the Dura-Europos synagogue dating from 244 CE]] At its core, the Tanakh is an account of the Israelites' relationship with God from their earliest history until the building of the Second Temple (c. 535 BCE). Abraham is hailed as the first Hebrew and the father of the Jewish people. As a reward for his act of faith in one God, he was promised that Isaac, his second son, would inherit the Land of Israel (then called Canaan). Later, the descendants of Isaac's son Jacob were enslaved in Egypt, and God commanded Moses to lead the Exodus from Egypt. At Mount Sinai, they received the Torah—the five books of Moses. These books, together with Nevi'im and Ketuvim are known as _Torah Shebikhtav_ as opposed to the Oral Torah, which refers to the Mishnah and the Talmud. Eventually, God led them to the land of Israel where the tabernacle was planted in the city of Shiloh for over 300 years to rally the nation against attacking enemies. As time went on, the spiritual level of the nation declined to the point that God allowed the Philistines to capture the tabernacle. The people of Israel then told Samuel the prophet that they needed to be governed by a permanent king, and Samuel appointed Saul to be their King. When the people pressured Saul into going against a command conveyed to him by Samuel, God told Samuel to appoint David in his stead.
 
-Western_wall_jerusalem_night.jpg in Jerusalem is a remnant of the wall encircling the Second Temple. The Temple Mount is the holiest site in Judaism.]]
+in Jerusalem is a remnant of the wall encircling the Second Temple. The Temple Mount is the holiest site in Judaism.]]
 
 Once King David was established, he told the prophet Nathan that he would like to build a permanent temple, and as a reward for his actions, God promised David that he would allow his son, Solomon, to build the First Temple and the throne would never depart from his children.
 
@@ -404,7 +404,7 @@ Following the destruction of Jerusalem and the expulsion of the Jews, Jewish wor
 
 Historical Jewish groupings (to 1700)
 
-Parochet_of_Beth_Jakov_Macedonia.jpg of the Beth Jakov synagogue in Macedonia]] Around the 1st century CE, there were several small Jewish sects: the Pharisees, Sadducees, Zealots, Essenes, and Christians. After the destruction of the Second Temple in 70 CE, these sects vanished.[139] Christianity survived, but by breaking with Judaism and becoming a separate religion; the Pharisees survived but in the form of Rabbinic Judaism (today, known simply as "Judaism"). The Sadducees rejected the divine inspiration of the Prophets and the Writings, relying only on the Torah as divinely inspired. Consequently, a number of other core tenets of the Pharisees' belief system (which became the basis for modern Judaism), were also dismissed by the Sadducees. (The Samaritans practiced a similar religion, which is traditionally considered separate from Judaism.)
+of the Beth Jakov synagogue in Macedonia]] Around the 1st century CE, there were several small Jewish sects: the Pharisees, Sadducees, Zealots, Essenes, and Christians. After the destruction of the Second Temple in 70 CE, these sects vanished.[139] Christianity survived, but by breaking with Judaism and becoming a separate religion; the Pharisees survived but in the form of Rabbinic Judaism (today, known simply as "Judaism"). The Sadducees rejected the divine inspiration of the Prophets and the Writings, relying only on the Torah as divinely inspired. Consequently, a number of other core tenets of the Pharisees' belief system (which became the basis for modern Judaism), were also dismissed by the Sadducees. (The Samaritans practiced a similar religion, which is traditionally considered separate from Judaism.)
 
 Like the Sadducees who relied only on the Torah, some Jews in the 8th and 9th centuries rejected the authority and divine inspiration of the oral law as recorded in the Mishnah (and developed by later rabbis in the two Talmuds), relying instead only upon the Tanakh. These included the Isunians, the Yudganites, the Malikites, and others. They soon developed oral traditions of their own, which differed from the rabbinic traditions, and eventually formed the Karaite sect. Karaites exist in small numbers today, mostly living in Israel. Rabbinical and Karaite Jews each hold that the others are Jews, but that the other faith is erroneous.
 
@@ -428,7 +428,7 @@ In Central Europe, followed by Great Britain and the United States, Reform (or L
 
 Spectrum of observance
 
-KnesetEliyahooSynagogue.JPG.]] Countries such as the United States, Israel, Canada, United Kingdom, Argentina and South Africa contain large Jewish populations. Jewish religious practice varies widely through all levels of observance. According to the 2001 edition of the National Jewish Population Survey, in the United States' Jewish community—the world's second largest—4.3 million Jews out of 5.1 million had some sort of connection to the religion.[145] Of that population of connected Jews, 80% participated in some sort of Jewish religious observance, but only 48% belonged to a congregation, and fewer than 16% attend regularly.[146]
+.]] Countries such as the United States, Israel, Canada, United Kingdom, Argentina and South Africa contain large Jewish populations. Jewish religious practice varies widely through all levels of observance. According to the 2001 edition of the National Jewish Population Survey, in the United States' Jewish community—the world's second largest—4.3 million Jews out of 5.1 million had some sort of connection to the religion.[145] Of that population of connected Jews, 80% participated in some sort of Jewish religious observance, but only 48% belonged to a congregation, and fewer than 16% attend regularly.[146]
 
 Birth rates for American Jews have dropped from 2.0 to 1.7.[147] (Replacement rate is 2.1.) Intermarriage rates range from 40–50% in the US, and only about a third of children of intermarried couples are raised as Jews. Due to intermarriage and low birth rates, the Jewish population in the US shrank from 5.5 million in 1990 to 5.1 million in 2001. This is indicative of the general population trends among the Jewish community in the Diaspora, but a focus on total population obscures growth trends in some denominations and communities, such as Haredi Judaism. The Baal teshuva movement is a movement of Jews who have "returned" to religion or become more observant.
 

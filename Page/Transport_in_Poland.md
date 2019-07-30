@@ -5,7 +5,7 @@ The country's most important waterway is the Vistula river. The largest seaports
 
 Rail transport
 
-Poland_rail_map.svg Wrocław_Dworzec_Główny.jpg, the busiest train station in Wrocław.]] Polish_Pendolino_front_2.JPG ED250 Pendolino at Wrocław Main Station.]] Gdańsk_Główny,_Blick_von_Marienkirche.jpg, one of Poland's most important railway terminals]] Bwe_loco_change_rzepin.jpg unit at Rzepin on a Berlin-Warsaw Express train]] Poland is served by an extensive network of railways. In most cities the main railway station is located near a city centre and is well connected to the local transportation system. The infrastructure is operated by PKP Group. The rail network is very dense in western and northern Poland, while eastern part of the country is less developed. The capital city, Warsaw, has the country's only rapid transit system: the Warsaw Metro.
+, the busiest train station in Wrocław.]] ED250 Pendolino at Wrocław Main Station.]] , one of Poland's most important railway terminals]] unit at Rzepin on a Berlin-Warsaw Express train]] Poland is served by an extensive network of railways. In most cities the main railway station is located near a city centre and is well connected to the local transportation system. The infrastructure is operated by PKP Group. The rail network is very dense in western and northern Poland, while eastern part of the country is less developed. The capital city, Warsaw, has the country's only rapid transit system: the Warsaw Metro.
 
 The only high-speed rail line (though by most definitions, real high-speed rail only includes speeds over 200 km/h) in central-eastern Europe is the Central Rail Line (Poland), _Centralna Magistrala Kolejowa_ (CMK). It has a length of , and was built in 1971–1977; it links Warsaw with Kraków and Katowice. Most trains on the CMK operate at speeds up to , but since December 2014 new Alstom Pendolino ED250 trains operate on a 90 km section of the CMK at , and improvements under way should raise the authorized speed to on most of the line. In test runs on the CMK in November 2013 a new Pendolino ED250 train set a new Polish speed record of .[1]
 
@@ -58,7 +58,7 @@ Freight transport market
 
 Broad-gauge railways
 
-Mapa_LHS.png Except for Linia Hutnicza Szerokotorowa, and a few very short stretches near border crossings, Poland uses the standard gauge for its railways. Therefore, Linia Hutnicza Szerokotorowa (known by its acronym _LHS_, English: _Broad-gauge steelworks line_) in Sławków is the longest broad-gauge railway line in Poland. The line runs on a single track for almost from the Polish-Ukrainian border, crossing it just east of Hrubieszów. It is the westernmost broad-gauge railway line in Europe that is connected to the broad-gauge rail system of the countries of the former Soviet Union.
+Except for Linia Hutnicza Szerokotorowa, and a few very short stretches near border crossings, Poland uses the standard gauge for its railways. Therefore, Linia Hutnicza Szerokotorowa (known by its acronym _LHS_, English: _Broad-gauge steelworks line_) in Sławków is the longest broad-gauge railway line in Poland. The line runs on a single track for almost from the Polish-Ukrainian border, crossing it just east of Hrubieszów. It is the westernmost broad-gauge railway line in Europe that is connected to the broad-gauge rail system of the countries of the former Soviet Union.
 
 Rail system
 
@@ -85,7 +85,7 @@ Rail links with adjacent countries
 
 Road transport
 
-Polish motorway and expressway network. Legend of sections: DocelowyUkladDrog.svg PL_A2_Poznan_Komorniki.JPG, opened in 2003]] Ruch_tirow_2015.svg average daily traffic in 2015]]
+, opened in 2003]] average daily traffic in 2015]]
 
 Polish public roads are grouped into categories related to administrative division. Poland has of public roads, of which are unsurfaced (2011):[7]
 
@@ -100,16 +100,16 @@ Motorways and expressways
 
 Polish motorways and expressways are part of national roads network. As of December 2018, there are of motorways (_autostrady_, singular - _autostrada_) and of expressways (_drogi ekspresowe_, singular - _droga ekspresowa_).[9]
 
-Znak_D9.svg Motorways in Poland, (2018):
+Motorways in Poland, (2018):
 A1 | A2 | A4 | A6 | A8 | A18
 
-Znak_D7.svg Expressways in Poland, (2018):
+Expressways in Poland, (2018):
 S1 | S2 | S3 | S5 | S6 | S7 | S8 | S10 | S11 | S12 | S14 | S16 | S17 | S19 | S22 | S51 | S52 | S61 | S74 | S79 | S86
 
 
 Air transport
 
-Airports_in_Poland_-_status_since_2014.svg Warsaw_Airport.jpg]] Terminal_T2_we_Wrocławiu_-_landside.jpg - interior of the terminal T2]] Gdansk-Lotnisko-Terminal2_5.JPG]] The most important airport in Poland is Warsaw 'Frederic Chopin' International Airport. Warsaw's airport is the main international hub for LOT Polish Airlines.
+]] - interior of the terminal T2]] ]] The most important airport in Poland is Warsaw 'Frederic Chopin' International Airport. Warsaw's airport is the main international hub for LOT Polish Airlines.
 
 In addition to Warsaw Chopin, Wrocław, Gdańsk, Katowice, Kraków and Poznań all have international airports.
 
@@ -164,7 +164,7 @@ HELIPORTS: 2 (2005)
 
 Water transport
 
-MF_Skania_1.jpg in the city of Szczecin]] Gdynia_kamienna_marina.jpg's main municipal marina]] The country's most important waterway is the river Vistula. The largest seaports are the Port of Szczecin and Port of Gdańsk.
+in the city of Szczecin]] 's main municipal marina]] The country's most important waterway is the river Vistula. The largest seaports are the Port of Szczecin and Port of Gdańsk.
 
 Marine transport in Poland has two main sub-groups, riverine and seaborne. On the Baltic Sea coast, a number of large seaports exist to serve the international freight and passenger trade; these are typically deep water ports and are able to serve very large ships, including the ro-ro ferries of Unity Line, Polferries and Stena Line which operate the Poland – Scandinavia passenger lines.
 
@@ -176,9 +176,9 @@ Poland has of navigable rivers and canals (as of 2009).
 
 Ports and harbors
 
--   Port of Gdańsk _Znak_T-11.svg (Polferries: Gdańsk — Nynäshamn / Ystad)_
--   Port of Gdynia _Znak_T-11.svg (Stena Line: Gdynia — Karlskrona / Gothenburg_ and _Finnlines: Gdynia — Helsinki / Rostock)_
--   Port of Szczecin-Świnoujście _Znak_T-11.svg (Polferries: Świnoujście — Copenhagen / Ystad / Rønne_ and _Unity Line: Świnoujście — Ystad / Trelleborg)_
+-   Port of Gdańsk _ (Polferries: Gdańsk — Nynäshamn / Ystad)_
+-   Port of Gdynia _ (Stena Line: Gdynia — Karlskrona / Gothenburg_ and _Finnlines: Gdynia — Helsinki / Rostock)_
+-   Port of Szczecin-Świnoujście _ (Polferries: Świnoujście — Copenhagen / Ystad / Rønne_ and _Unity Line: Świnoujście — Ystad / Trelleborg)_
 -   Port of Police
 -   Port of Kołobrzeg
 -   Port of Ustka
@@ -194,11 +194,11 @@ Ships by type: bulk 50, cargo 2, chemical tanker 2, roll-on/roll-off 1, short-se
 
 Municipal transport
 
-Solaris_Urbino_10_1006.jpg]]
+]]
 
 Bus
 
-Znak_D-15.svg Most Polish towns and cities have well developed municipal bus services. Typically, a city possesses its own local bus service, however, in some cases they have private competitors operating on certain lines upon the agreement with local authorities.
+Most Polish towns and cities have well developed municipal bus services. Typically, a city possesses its own local bus service, however, in some cases they have private competitors operating on certain lines upon the agreement with local authorities.
 
 Until the 1990s, interurban connections were operated by a single, state-owned company PKS. Since then, it has been broken into a number of independent national and municipal enterprises. In addition, several private operators emerged. There are two classes of service distinguished by vehicle length:
 
@@ -209,7 +209,7 @@ While they often use the same bus stops, they tend to use different stations.
 
 Tram
 
-Znak_D-17.svg Bombardier_NGT6_-2027.jpeg tram in Kraków]]
+tram in Kraków]]
 
 Bigger cities run dense tram networks, which are the primary mean of public transport. Currently, there are 14 systems serving over 30 cities including Bydgoszcz, Gdańsk, Katowice, Kraków, Łódź, Poznań, Szczecin, Warsaw and Wrocław, with the total track length varying from (Silesian Interurbans) to less than (Tramways in Grudziądz). A new network has been constructed in Olsztyn in 2015. See the list of town tramway systems in Poland
 
@@ -217,11 +217,9 @@ Since the 1990s, a number of cities attempts to upgrade certain parts of their n
 
 Trolleybus
 
-Znak_D-16.svg Trolleybuses can be found in three cities: Gdynia (with some lines reaching Sopot), Lublin and Tychy.
+Trolleybuses can be found in three cities: Gdynia (with some lines reaching Sopot), Lublin and Tychy.
 
 Rapid transit
-
-Warsaw_Metro_logo.svg
 
 The first metro line was opened in Warsaw in 1995. Part of the second line was opened in 2015. This is part of the country's rail transport infrastructure. There are no official plans to build metro in other cities due to the lack of funds, but there is an ongoing debate whether they should be built, especially in Kraków.
 

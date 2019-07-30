@@ -151,7 +151,7 @@ Minimax treats the two players (the maximizing player and the minimizing player)
 
 Example
 
-Minimax.svg Plminmax.gif coding simplifications.]]
+coding simplifications.]]
 
 Suppose the game being played only has a maximum of two possible moves per player each turn. The algorithm generates the tree on the right, where the circles represent the moves of the player running the algorithm (_maximizing player_), and squares represent the moves of the opponent (_minimizing player_). Because of the limitation of computation resources, as explained above, the tree is limited to a _look-ahead_ of 4 moves.
 

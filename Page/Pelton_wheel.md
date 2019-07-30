@@ -1,4 +1,4 @@
-peltonturbine-1.jpg, Germany.]]
+, Germany.]]
 
 A PELTON WHEEL is an impulse-type water turbine invented by Lester Allan Pelton in the 1870s.[1][2] The Pelton wheel extracts energy from the impulse of moving water, as opposed to water's dead weight like the traditional overshot water wheel. Many earlier variations of impulse turbines existed, but they were less efficient than Pelton's design. Water leaving those wheels typically still had high speed, carrying away much of the dynamic energy brought to the wheels. Pelton's paddle geometry was designed so that when the rim ran at half the speed of the water jet, the water left the wheel with very little speed; thus his design extracted almost all of the water's impulse energywhich allowed for a very efficient turbine.
 
@@ -7,7 +7,7 @@ History
 
 Lester Allan Pelton was born in Vermillion, Ohio in 1829. In 1850, he travelled overland to California, to take part in the Gold Rush. Pelton worked by selling fish he caught in the Sacramento River.[3] In 1860, he moved to Camptonville, a center of placer mining activity. At this time many mining operations were powered by steam engines which consumed vast amounts of wood as their fuel. Some water wheels were used in the larger rivers, but they were ineffective in the smaller streams that were found near the mines. Pelton worked on a design for a water wheel that would work with the relatively small flow found in these streams.[4]
 
-Pelton_wheel_(patent).png's original patent (October 1880).]] By the mid 1870's, Pelton had developed a wooden prototype of his new wheel. In 1876, he approached the Miners Foundry in Nevada City to build the first commercial models in iron. The first Pelton Wheel was installed at the Mayflower Mine in Nevada City in 1878.[5]. The efficiency advantages of Pelton's invention were quickly recognized and his product was soon in high demand. By the mid-1880s, the Miners Foundry could not meet the demand, and in 1888, Pelton sold the rights to his name and the patents to his invention to the Pelton Water Wheel Company in San Francisco. The company established a factory at 121/123 Main Street in San Francisco.[6]
+'s original patent (October 1880).]] By the mid 1870's, Pelton had developed a wooden prototype of his new wheel. In 1876, he approached the Miners Foundry in Nevada City to build the first commercial models in iron. The first Pelton Wheel was installed at the Mayflower Mine in Nevada City in 1878.[5]. The efficiency advantages of Pelton's invention were quickly recognized and his product was soon in high demand. By the mid-1880s, the Miners Foundry could not meet the demand, and in 1888, Pelton sold the rights to his name and the patents to his invention to the Pelton Water Wheel Company in San Francisco. The company established a factory at 121/123 Main Street in San Francisco.[6]
 
 The Pelton Water Wheel Company manufactured a large number of Pelton Wheels in San Francisco which were shipped around the world. In 1892, the Company added a branch on the east coast at 143 Liberty Street in New York City. By 1900, over 11,000 turbines were in use. In 1914, the company moved manufacturing to new, larger premises at 612 Alabama Street in San Francisco. In 1956, the company was acquired by the Baldwin-Lima-Hamilton Company, which ended manufacture of Pelton Wheels.[7]
 
@@ -23,14 +23,14 @@ Because water is nearly incompressible, almost all of the available energy is ex
 
 Applications
 
-Walchenseewerk_Pelton_120.jpg, Germany.]] Pelton wheels are the preferred turbine for hydro-power where the available water source has relatively high hydraulic head at low flow rates. Pelton wheels are made in all sizes. There exist multi-ton Pelton wheels mounted on vertical oil pad bearings in hydroelectric plants. The largest units – the Bieudron Hydroelectric Power Station at the Grande Dixence Dam complex in Switzerland – are over 400 megawatts.[8]
+, Germany.]] Pelton wheels are the preferred turbine for hydro-power where the available water source has relatively high hydraulic head at low flow rates. Pelton wheels are made in all sizes. There exist multi-ton Pelton wheels mounted on vertical oil pad bearings in hydroelectric plants. The largest units – the Bieudron Hydroelectric Power Station at the Grande Dixence Dam complex in Switzerland – are over 400 megawatts.[8]
 
 The smallest Pelton wheels are only a few inches across, and can be used to tap power from mountain streams having flows of a few gallons per minute. Some of these systems use household plumbing fixtures for water delivery. These small units are recommended for use with or more of head, in order to generate significant power levels. Depending on water flow and design, Pelton wheels operate best with heads from , although there is no theoretical limit.
 
 
 Design rules
 
-S_vs_pelton_schnitt_1_zoom.png The specific speed η_(s) parameter is independent of a particular turbine's size.
+The specific speed η_(s) parameter is independent of a particular turbine's size.
 
 Compared to other turbine designs, the relatively low specific speed of the Pelton wheel, implies that the geometry is inherently a "low gear" design. Thus it is most suitable to being fed by a hydro source with a low ratio of flow to pressure, (meaning relatively low flow and/or relatively high pressure).
 
@@ -84,8 +84,6 @@ A wheel power divided by the initial jet power, is the turbine efficiency, _η_�
 
 
 System components
-
-Pelton-wheel.jpg
 
 The conduit bringing high-pressure water to the impulse wheel is called the penstock. Originally the penstock was the name of the valve, but the term has been extended to include all of the fluid supply hydraulics. Penstock is now used as a general term for a water passage and control that is under pressure, whether it supplies an impulse turbine or not.[16]
 

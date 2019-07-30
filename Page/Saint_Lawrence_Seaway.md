@@ -1,4 +1,4 @@
-Eisenhower_Locks.jpg.]] upright=1.25 upright=1.25. ]] The SAINT LAWRENCE SEAWAY () is a system of locks, canals, and channels in Canada and the United States that permits oceangoing vessels to travel from the Atlantic Ocean to the Great Lakes of North America, as far inland as Duluth, Minnesota at the western end of Lake Superior. The seaway is named for the Saint Lawrence River, which flows from Lake Ontario to the Atlantic Ocean. Legally, the seaway extends from Montreal, Quebec, to Lake Erie and includes the Welland Canal.
+.]] upright=1.25 upright=1.25. ]] The SAINT LAWRENCE SEAWAY () is a system of locks, canals, and channels in Canada and the United States that permits oceangoing vessels to travel from the Atlantic Ocean to the Great Lakes of North America, as far inland as Duluth, Minnesota at the western end of Lake Superior. The seaway is named for the Saint Lawrence River, which flows from Lake Ontario to the Atlantic Ocean. Legally, the seaway extends from Montreal, Quebec, to Lake Erie and includes the Welland Canal.
 
 The Saint Lawrence River portion of the seaway is not a continuous canal; rather, it consists of several stretches of navigable channels within the river, a number of locks, and canals along the banks of the Saint Lawrence River to bypass several rapids and dams. A number of the locks are managed by the St. Lawrence Seaway Management Corporation in Canada, and others in the United States by the Saint Lawrence Seaway Development Corporation; the two bodies together advertise the seaway as part of "HIGHWAY H₂O".[1] The section of the river from Montreal to the Atlantic is under Canadian jurisdiction, regulated by the offices of Transport Canada in the Port of Quebec.
 
@@ -36,7 +36,7 @@ Certain seaway users have been concerned about the low water levels of the Great
 
 Expansion proposal
 
-Ship_measurements_comparison.svg of Panamax and Seawaymax.]]
+of Panamax and Seawaymax.]]
 
 The Panama Canal was completed in 1914 and also serves oceangoing traffic. In the 1950s, seaway designers chose not to build the locks to match the size of ships permitted by the 1914 locks at the Panama Canal (, known as the Panamax limit). Instead, the seaway locks were built to match the smaller locks of Welland Canal, which opened in 1932. The seaway locks permit passage of a ship long by feet wide (the Seawaymax limit).[15]
 
@@ -76,7 +76,7 @@ Water Level Elevations:
 
 Locks in the Welland Canal
 
-There are eight locks on the Welland Canal. From the north to the south, there is lock 1 at Port Weller, followed by Lock 2 and then Lock 3, a site with a visitors' information centre and museum in St. Catharines, Ontario. There are four locks in Thorold, Ontario, including twin-flight locks 4, 5 and 6, with Lock 7 leading up to the main channel. The Lake Erie level control lock sits in Port Colborne, Ontario. Welland_Canal_aerial.png
+There are eight locks on the Welland Canal. From the north to the south, there is lock 1 at Port Weller, followed by Lock 2 and then Lock 3, a site with a visitors' information centre and museum in St. Catharines, Ontario. There are four locks in Thorold, Ontario, including twin-flight locks 4, 5 and 6, with Lock 7 leading up to the main channel. The Lake Erie level control lock sits in Port Colborne, Ontario.
 
 
 Lock, channel dimensions, and additional statistical data
@@ -136,7 +136,7 @@ A list of organisations that serve the seaway in some fashion, such as chambers 
 
 Map
 
-_Map of the North American Great Lakes and the Saint Lawrence Seaway from 1959,_ depicting the entire length beginning at the Gulf of Saint Lawrence in the east to the western-most terminus at Lake Superior. Great_Lakes_and_St._Lawrence_Seaway_map_1959.png upright=3.65, Ogdensburg-Prescott International Bridge, International High Level Bridge, Valleyfield Bridge, St. Louis Bridge, Champlain Bridge
+_Map of the North American Great Lakes and the Saint Lawrence Seaway from 1959,_ depicting the entire length beginning at the Gulf of Saint Lawrence in the east to the western-most terminus at Lake Superior. upright=3.65, Ogdensburg-Prescott International Bridge, International High Level Bridge, Valleyfield Bridge, St. Louis Bridge, Champlain Bridge
 Lake Ontario, Lake Saint Francis (Canada), Lake Saint-Louis, Montreal Harbour ]]
 
 

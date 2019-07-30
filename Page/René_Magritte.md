@@ -40,7 +40,7 @@ Magritte died of pancreatic cancer on 15 August 1967, aged 68, and was interred 
 
 Philosophical and artistic gestures
 
-The_Empire_of_Light_MOMA.jpg'', c. 1950–1954, Museum of Modern Art]] Magritte's work frequently displays a collection of ordinary objects in an unusual context, giving new meanings to familiar things. The use of objects as other than what they seem is typified in his painting,[23] _The Treachery of Images_ (_La trahison des images_), which shows a pipe that looks as though it is a model for a tobacco store advertisement. Magritte painted below the pipe "_Ceci n'est pas une pipe_" ("This is not a pipe"),[24] which seems a contradiction, but is actually true: the painting is not a pipe, it is an _image_ of a pipe. It does not "satisfy emotionally"—when Magritte was once asked about this image, he replied that of course it was not a pipe, just try to fill it with tobacco.[25]
+'', c. 1950–1954, Museum of Modern Art]] Magritte's work frequently displays a collection of ordinary objects in an unusual context, giving new meanings to familiar things. The use of objects as other than what they seem is typified in his painting,[23] _The Treachery of Images_ (_La trahison des images_), which shows a pipe that looks as though it is a model for a tobacco store advertisement. Magritte painted below the pipe "_Ceci n'est pas une pipe_" ("This is not a pipe"),[24] which seems a contradiction, but is actually true: the painting is not a pipe, it is an _image_ of a pipe. It does not "satisfy emotionally"—when Magritte was once asked about this image, he replied that of course it was not a pipe, just try to fill it with tobacco.[25]
 
 Magritte used the same approach in a painting of an apple: he painted the fruit and then used an internal caption or framing device to deny that the item was an apple. In these "_Ceci n'est pas_" works, Magritte points out that no matter how naturalistically we depict an object, we never do catch the item itself.
 
@@ -62,7 +62,7 @@ Magritte's use of simple graphic and everyday imagery has been compared to that 
 
 In popular culture
 
-BEL-500f-anv.jpg showing portrait of Magritte]]
+showing portrait of Magritte]]
 
 The 1960s brought a great increase in public awareness of Magritte's work.[35] Thanks to his "sound knowledge of how to present objects in a manner both suggestive and questioning", his works have been frequently adapted or plagiarized in advertisements, posters, book covers and the like.[36] Examples include album covers such as _Beck-Ola_ by The Jeff Beck Group (reproducing Magritte's _The Listening Room_), Alan Hull's 1973 album Pipedream which used _The Philosopher's Lamp_, Jackson Browne's 1974 album _Late for the Sky_, with artwork inspired by _The Empire of Light_, Oregon's album _Oregon_ referring to _Carte Blanche_, the Firesign Theatre's album _Just Folks... A Firesign Chat_ based on _The Mysteries of the Horizon_, and Styx's album _The Grand Illusion_ incorporating an adaptation of the painting _The Blank Check_. The Nigerian rapper Jesse Jagz's 2014 album _Jagz Nation Vol. 2: Royal Niger Company_ has cover art inspired by Magritte's works.[37] In 2015 the band Punch Brothers used _The Lovers_ as the cover of their album _The Phosphorescent Blues_.
 

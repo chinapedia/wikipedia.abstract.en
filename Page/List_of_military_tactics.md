@@ -15,13 +15,13 @@ General tactics
 
 Small unit tactics
 
-Flickr_-_The_U.S._Army_-_Suppressive_Fire.jpg is a key part of modern small unit tactics]]
+is a key part of modern small unit tactics]]
 
 
 Eight classical maneuvers of warfare
 
-1.  Penetration of the center: This involves the creation of a gap in the enemy line and its exploitation. Two ways of accomplishing this are separating enemy forces and using a reserve to exploit the gap that forms between them (e.g. Battle of Chaeronea (338 BC), the first recorded use of the penetration of the center) or having fast, elite forces smash at a specific point in the enemy line (an enemy weak spot or an area where your elites are at their best in striking power) and, while reserves and holding forces hold your opponent, drive quickly and immediately for the enemy's command or base (i.e., blitzkrieg)._Battle_issus_decisive.gif
-2.  Attack from a defensive position: Establishing a strong defensive position from which to defend and attack your opponent. However, the defensive can become too passive and result in ultimate defeat (e.g., Siege of Alesia and the Battle of the Granicus).300 px
+1.  Penetration of the center: This involves the creation of a gap in the enemy line and its exploitation. Two ways of accomplishing this are separating enemy forces and using a reserve to exploit the gap that forms between them (e.g. Battle of Chaeronea (338 BC), the first recorded use of the penetration of the center) or having fast, elite forces smash at a specific point in the enemy line (an enemy weak spot or an area where your elites are at their best in striking power) and, while reserves and holding forces hold your opponent, drive quickly and immediately for the enemy's command or base (i.e., blitzkrieg).
+2.  Attack from a defensive position: Establishing a strong defensive position from which to defend and attack your opponent. However, the defensive can become too passive and result in ultimate defeat (e.g., Siege of Alesia and the Battle of the Granicus).
 3.  Single envelopment: A strong flank beating its opponent opposite and, with the aid of holding attacks, attack an opponent in the rear. Sometimes, the establishment of a strong, hidden force behind a weak flank will prevent your opponent from carrying out their own single envelopment (e.g., Battle of Rocroi).
 4.  Double envelopment: Both flanks defeat their opponent opposite and launch a rear attack on the enemy center. Its most famous use was Hannibal's tactical masterpiece, the Battle of Cannae and was frequently used by the Wehrmacht on the Eastern Front of World War II.
 5.  Attack in oblique order: This involves placing your flanks in a slanted fashion (refusing one's flank) or giving a vast part of your force to a single flank (e.g., Battle of Leuthen). The latter can be disastrous, however, due to the imbalance of force.
@@ -32,17 +32,17 @@ Eight classical maneuvers of warfare
 
 Offensive tactics
 
-Wagram_charge.jpg is a quintessential offensive military tactic]]
+is a quintessential offensive military tactic]]
 
 
 Defensive tactics
 
-WWI-French-trench-Hirtzbach-Woods-16-June-1917.jpg were used commonly during World War I]]
+were used commonly during World War I]]
 
 
 Deception
 
-Ming_mounted_archer.JPG of the Ming Dynasty Army fires a parthian shot]]
+of the Ming Dynasty Army fires a parthian shot]]
 
 -   Deception and misdirection
     -   Deception: Sun Tzu said that all war is based on deception back in the 4th century BC; a wise commander takes measures to let his opponent only react to the wrong circumstances. Diversionary attacks, feints, decoys; there are thousands of tricks that have been successfully used, and still have a role in the future.

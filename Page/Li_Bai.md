@@ -22,7 +22,7 @@ He is also known by his (_hao_), or pen-name _Qīnglián Jūshì_ (青蓮居士)
 
 Life
 
-Nanling_Wushuang_Pu_-_Li_Qinglian.jpg The two "Books of Tang", _The Old Book of Tang_ and _The New Book of Tang_, remain the primary sources of bibliographical material on Li Bai.[4] Other sources include internal evidence from poems by or about Li Bai, and certain other sources, such the preface to his collected poems by his relative and literary executor, Li Yangbin.
+The two "Books of Tang", _The Old Book of Tang_ and _The New Book of Tang_, remain the primary sources of bibliographical material on Li Bai.[4] Other sources include internal evidence from poems by or about Li Bai, and certain other sources, such the preface to his collected poems by his relative and literary executor, Li Yangbin.
 
 Background and birth
 
@@ -52,8 +52,6 @@ In 720, he was interviewed by Governor Su Ting, who considered him a genius. Tho
 
 On the way to Chang'an
 
-Dufuschina.jpg
-
 Leaving Sichuan
 
 In his mid-twenties, about 725, Li Bai left Sichuan, sailing down the Yangzi River through Dongting Lake to Nanjing, beginning his days of wandering. He then went back up-river, to Yunmeng, in what is now Hubei, where his marriage to the granddaughter of a retired prime minister, Xu Yushi, seems to have formed but a brief interlude.[22] During the first year of his trip, he met celebrities and gave away much of his wealth to needy friends.
@@ -66,7 +64,7 @@ Wu Yun's praise of Li Bai led Emperor Xuanzong (born Li Longji and also known as
 
 Emperor Xuanzong employed him as a translator, as Li Bai knew at least one non-Chinese language.[30] Ming Huang eventually gave him a post at the Hanlin Academy, which served to provide scholarly expertise and poetry for the Emperor.
 
-L'empereur_Minghuang_regardant_Li_Bai.jpgWhen the emperor ordered Li Bai to the palace, he was often drunk, but quite capable of performing on the spot.
+When the emperor ordered Li Bai to the palace, he was often drunk, but quite capable of performing on the spot.
 
 Li Bai wrote several poems about the Emperor's beautiful and beloved Yang Guifei, the favorite royal consort.[31] A story, probably apocryphal, circulates about Li Bai during this period. Once, while drunk, Li Bai had gotten his boots muddy, and Gao Lishi, the most politically powerful eunuch in the palace, was asked to assist in the removal of these, in front of the Emperor. Gao took offense at being asked to perform this menial service, and later managed to persuade Yang Guifei to take offense at Li's poems concerning her.[32] At the persuasion of Yang Guifei and Gao Lishi, Xuanzong reluctantly, but politely, and with large gifts of gold and silver, sent Li Bai away from the royal court.[33] After leaving the court, Li Bai formally became a Taoist, making a home in Shandong, but wandering far and wide for the next ten some years, writing poems.[34] Li Bai lived and wrote poems at Bishan (or Bi Mountain (碧山), today Baizhao Mountain (白兆山)) in Yandian, Hubei. Bi Mountain (碧山) in the poem _Question and Answer Amongst the Mountains_ (山中问答 Shanzhong Wenda) refers to this mountain.[35]
 
@@ -76,7 +74,7 @@ He met Du Fu in the autumn of 744, when they shared a single room and various ac
 
 War and exile
 
-Riders_on_Horseback,_Northern_Qi_Dynasty.jpg At the end of 755, the disorders instigated by the rebel general An Lushan burst across the land. The Emperor eventually fled to Sichuan and abdicated. During the confusion, the Crown Prince opportunely declared himself Emperor and head of the government. The An Shi disturbances continued (as they were later called, since they lasted beyond the death of their instigator, carried on by Shi Siming, and others). Li Bai became a staff adviser to Prince Yong, one of Ming Huang's (Emperor Xuanzong's) sons, who was far from the top of the primogeniture list, yet named to share the imperial power as a general after Xuanzong had abdicated, in 756.
+At the end of 755, the disorders instigated by the rebel general An Lushan burst across the land. The Emperor eventually fled to Sichuan and abdicated. During the confusion, the Crown Prince opportunely declared himself Emperor and head of the government. The An Shi disturbances continued (as they were later called, since they lasted beyond the death of their instigator, carried on by Shi Siming, and others). Li Bai became a staff adviser to Prince Yong, one of Ming Huang's (Emperor Xuanzong's) sons, who was far from the top of the primogeniture list, yet named to share the imperial power as a general after Xuanzong had abdicated, in 756.
 
 However, even before the empire's external enemies were defeated, the two brothers fell to fighting each other with their armies. Upon the defeat of the Prince's forces by his brother the new emperor in 757, Li Bai escaped, but was later captured, imprisoned in Jiujiang, and sentenced to death. The famous and powerful army general Guo Ziyi and others intervened; Guo Ziyi was the very person whom Li Bai had saved from court martial a couple of decades before.[37] His wife, the lady Zong, and others (such as Song Ruosi) wrote petitions for clemency.[38] Upon General Guo Ziyi's offering to exchange his official rank for Li Bai's life, Li Bai's death sentence was commuted to exile: he was consigned to Yelang.[39] Yelang (in what is now Guizhou) was in the remote extreme southwestern part of the empire, and was considered to be outside the main sphere of Chinese civilization and culture. Li Bai headed toward Yelang with little sign of hurry, stopping for prolonged social visits (sometimes for months), and writing poetry along the way, leaving detailed descriptions of his journey for posterity. Notice of an imperial pardon recalling Li Bai reached him before he even got near Yelang.[40] He had only gotten as far as Wushan, when news of his pardon caught up with him in 759.[41]
 
@@ -86,7 +84,7 @@ When Li received the news of his imperial reprieve, he returned down the river t
 
 Death
 
-LiBaimemorialhall000.jpg, Sichuan]] The new Emperor Daizong named Li Bai the Registrar of the Left Commandant's office in 762. However, by the time that the imperial edict arrived in Dangtu, Anhui, Li Bai was already dead.
+, Sichuan]] The new Emperor Daizong named Li Bai the Registrar of the Left Commandant's office in 762. However, by the time that the imperial edict arrived in Dangtu, Anhui, Li Bai was already dead.
 
 There is a long and sometimes fanciful tradition regarding his death, from uncertain Chinese sources, that Li Bai drowned after falling from his boat one day he had gotten very drunk as he tried to embrace the reflection of the moon in the Yangtze River, something later believed by Herbert Giles.[46] However, the actual cause appears to have been natural enough, although perhaps related to his hard-living lifestyle. Nevertheless, the legend has a place in Chinese culture.[47]
 
@@ -94,7 +92,7 @@ A memorial of Li Bai lies just west of Ma'anshan.
 
 Calligraphy
 
-Libai_shangyangtai.jpg in Beijing, China.[48]]] Li Bai was also a skilled calligrapher, though there is only one surviving piece of his work in his own handwriting that exists today.[49] The piece is titled _Shangyangtai_ (_Going Up To Sun Terrace_), a long scroll (with later addition of a title written by Emperor Huizong of Song and a postscript added by Qianlong Emperor himself); the calligraphy is housed in the Palace Museum in Beijing, China.[50]
+in Beijing, China.[48]]] Li Bai was also a skilled calligrapher, though there is only one surviving piece of his work in his own handwriting that exists today.[49] The piece is titled _Shangyangtai_ (_Going Up To Sun Terrace_), a long scroll (with later addition of a title written by Emperor Huizong of Song and a postscript added by Qianlong Emperor himself); the calligraphy is housed in the Palace Museum in Beijing, China.[50]
 
 Surviving texts and editing
 
@@ -113,7 +111,7 @@ A more general appreciation for history, is shown on the part of Li Bai in his p
 
 Rapt with wine and moon
 
-Chinesericewine.jpg John C. H. Wu observed that "while some may have drunk more wine than Li [Bai], no-one has written more poems about wine."[59] Classical Chinese poets were often associated with drinking wine, and Li Bai was part of the group of Chinese scholars in Chang'an his fellow poet Du Fu called the "Eight Immortals of the Wine Cup." The Chinese generally did not find the moderate use of alcohol to be immoral or unhealthy. James J. Y Liu comments that _zui_ in poetry "does not mean quite the same thing as 'drunk', 'intoxicated', or 'inebriated', but rather means being mentally carried away from one's normal preoccupations ..." Liu translates _zui_ as "rapt with wine".[60] The "Eight Immortals", however, drank to an unusual degree, though they still were viewed as pleasant eccentrics.[61] Burton Watson concluded that "[n]early all Chinese poets celebrate the joys of wine, but none so tirelessly and with such a note of genuine conviction as Li [Bai]".[62]
+John C. H. Wu observed that "while some may have drunk more wine than Li [Bai], no-one has written more poems about wine."[59] Classical Chinese poets were often associated with drinking wine, and Li Bai was part of the group of Chinese scholars in Chang'an his fellow poet Du Fu called the "Eight Immortals of the Wine Cup." The Chinese generally did not find the moderate use of alcohol to be immoral or unhealthy. James J. Y Liu comments that _zui_ in poetry "does not mean quite the same thing as 'drunk', 'intoxicated', or 'inebriated', but rather means being mentally carried away from one's normal preoccupations ..." Liu translates _zui_ as "rapt with wine".[60] The "Eight Immortals", however, drank to an unusual degree, though they still were viewed as pleasant eccentrics.[61] Burton Watson concluded that "[n]early all Chinese poets celebrate the joys of wine, but none so tirelessly and with such a note of genuine conviction as Li [Bai]".[62]
 
 One of Li Bai's most famous poems is _Waking From Drunkenness on a Spring Day_ (). Arthur Waley[63] translated it as follows:
 
@@ -152,7 +150,7 @@ Li Bai was noted for his mastery of the Lüshi (poetry), or "regulated verse", t
 
 Influence
 
-Leng_Mei_-_Figures_-_Spring_Evening_Banquet.jpg, late 17th or early 18th century, National Palace Museum, Taipei]]
+, late 17th or early 18th century, National Palace Museum, Taipei]]
 
 In the East
 
@@ -195,7 +193,7 @@ Li Bai became a favorite among translators for his straightforward and seemingly
 
 Exemplary translation
 
-月下獨酌一.svg One of Li Bai's best known poems and a good example of his writing is his _Drinking Alone by Moonlight_ (, pinyin: Yuè Xià Dú Zhuó), which has been translated into English by various authors, including this translation, by Arthur Waley:[97]
+One of Li Bai's best known poems and a good example of his writing is his _Drinking Alone by Moonlight_ (, pinyin: Yuè Xià Dú Zhuó), which has been translated into English by various authors, including this translation, by Arthur Waley:[97]
 
 (Note: the "Cloudy River of the sky" refers to the Milky Way)
 

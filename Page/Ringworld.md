@@ -47,15 +47,13 @@ In addition to the two aliens, Niven includes a number of concepts from his othe
 
 Errors
 
-Ringworld_render.png The opening chapter of the original paperback edition of _Ringworld_ featured Louis Wu teleporting eastward around the Earth in order to extend his birthday. Moving in this direction would, in fact, make local time later rather than earlier, so that Wu would soon arrive in the early morning of the next calendar day. Niven was "endlessly teased" about this error, which he corrected in subsequent printings to show Wu teleporting westward.[5]
+The opening chapter of the original paperback edition of _Ringworld_ featured Louis Wu teleporting eastward around the Earth in order to extend his birthday. Moving in this direction would, in fact, make local time later rather than earlier, so that Wu would soon arrive in the early morning of the next calendar day. Niven was "endlessly teased" about this error, which he corrected in subsequent printings to show Wu teleporting westward.[5]
 
 In his dedication to _The Ringworld Engineers_, Niven wrote, "If you own a first paperback edition of _Ringworld_, it's the one with the mistakes in it. It's worth money."[6]
 
 After the publication of _Ringworld_, many fans identified numerous engineering problems in the Ringworld as described in the novel. One major one was that the Ringworld, being a rigid structure, was not actually in orbit around the star it encircled and would eventually drift, ultimately colliding with its sun and disintegrating. This led MIT students attending the 1971 Worldcon to chant, "The Ringworld is unstable!" Niven wrote the 1980 sequel _The Ringworld Engineers_ in part to address these engineering issues. In it, the ring is found to have a system of attitude jets atop the rim walls, but the Ringworld has become gravely endangered because most of the jets have been removed by the natives, to power their interstellar ships. (The natives had forgotten the original purpose of the jets.)
 
 The second chapter refers to standard Earth gravity as 9.98 meters/second, while standard Earth gravity is 9.81 m/s. In chapter 8, The Liar is referred to as thrusting at .992 gee, and later Ringworld gravity is referred to as 9.94 meters per second.
-
-Ringworld_.jpg
 
 
 Influence

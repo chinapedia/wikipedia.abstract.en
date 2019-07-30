@@ -1,4 +1,4 @@
-John_William_Waterhouse_-_Consulting_the_Oracle_-_Christie's.jpg'' by John William Waterhouse, showing eight priestesses in a temple of prophecy]]
+'' by John William Waterhouse, showing eight priestesses in a temple of prophecy]]
 
 An ORACLE is a person or agency considered to provide wise and insightful counsel or prophetic predictions or precognition of the future, inspired by the gods. As such it is a form of divination.
 
@@ -66,7 +66,7 @@ In Celtic polytheism, divination was performed by the priestly caste, either the
 
 China
 
-Shang_dynasty_inscribed_scapula.jpg of the Shang dynasty, ancient China]] In China, oracle bones were used for divination in the late Shang dynasty, (c. 1600–1046 BC). Diviners applied heat to these bones, usually ox scapulae or tortoise plastrons, and interpreted the resulting cracks.
+of the Shang dynasty, ancient China]] In China, oracle bones were used for divination in the late Shang dynasty, (c. 1600–1046 BC). Diviners applied heat to these bones, usually ox scapulae or tortoise plastrons, and interpreted the resulting cracks.
 
 A different divining method, using the stalks of the yarrow plant, was practiced in the subsequent Zhou dynasty (1046–256 BC). Around the late 9th century BC, the divination system was recorded in the _I Ching_, or "Book of Changes", a collection of linear signs used as oracles. In addition to its oracular power, the _I Ching_ has had a major influence on the philosophy, literature and statecraft of China since the Zhou period.
 

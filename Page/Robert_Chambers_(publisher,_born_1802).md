@@ -62,7 +62,7 @@ Robert Chambers was a golfer and was elected an Honorary Member of The Musselbur
 
 _Book of Days_
 
-The_grave_of_Robert_Chambers,_St_Andrews_Cathedral_churchyard.jpg churchyard]]
+churchyard]]
 
 The _Book of Days_ was Chambers's last major publication, and perhaps his most elaborate. It was a miscellany of popular antiquities in connection with the calendar, and it is supposed that his excessive labour in connexion with this book hastened his death. Two years before, the University of St Andrews had conferred on him the degree of Doctor of Laws, and he was elected a member of the Athenaeum Club in London.
 

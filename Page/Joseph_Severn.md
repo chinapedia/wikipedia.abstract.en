@@ -1,4 +1,4 @@
-J.Severn.2.jpg JOSEPH SEVERN (7 December 1793 – 3 August 1879) was an English portrait and subject painter and a personal friend of the famous English poet John Keats. He exhibited portraits, Italian genre, literary and biblical subjects, and a selection of his paintings can today be found in some of the most important museums in London, including the National Portrait Gallery, the Victoria and Albert Museum and Tate Britain.
+JOSEPH SEVERN (7 December 1793 – 3 August 1879) was an English portrait and subject painter and a personal friend of the famous English poet John Keats. He exhibited portraits, Italian genre, literary and biblical subjects, and a selection of his paintings can today be found in some of the most important museums in London, including the National Portrait Gallery, the Victoria and Albert Museum and Tate Britain.
 
 
 Background
@@ -8,7 +8,7 @@ The eldest son of a music teacher, Severn was born at Hoxton, near London, and a
 
 Early years in London 1815-1820
 
-JohnKeats1819_hires.jpg In 1815, he was admitted to the Royal Academy Schools in London and exhibited his first work in oil, _Hermia and Helena_, a subject from _A Midsummer Night's Dream_, along with a portrait miniature, "J. Keats, Esq", in the Royal Academy Exhibition of 1819. He probably first met the poet John Keats in the spring of 1816.
+In 1815, he was admitted to the Royal Academy Schools in London and exhibited his first work in oil, _Hermia and Helena_, a subject from _A Midsummer Night's Dream_, along with a portrait miniature, "J. Keats, Esq", in the Royal Academy Exhibition of 1819. He probably first met the poet John Keats in the spring of 1816.
 
 In 1819, Severn was awarded the gold medal of the Royal Academy for his painting _Una and the Red Cross Knight in the Cave of Despair_ which was inspired by the epic poem The Faerie Queene by Edmund Spenser. It was the first time the prize had been awarded in eight years and the painting was exhibited at the Academy in 1820. This award also allowed Severn to apply for a three years' traveling studentship, paid for by the Royal Academy.
 
@@ -17,11 +17,11 @@ According to a new edition of Severn's letters and memoirs, Severn fathered an i
 
 Journey to Italy with John Keats, 1820–1821
 
-Joseph_Severn_-_Posthumous_Portrait_of_Shelley_Writing_Prometheus_Unbound_1845.jpg Writing Prometheus Unbound'' (1845)]] On 17 September 1820, Severn set sail onboard the _Maria Crowther_ from England to Italy with the famous English poet John Keats. Keats and Severn had known one another in England, but they were only passing acquaintances. Yet it was Severn who agreed to accompany the poet to Rome when all others could, or would, not. The trip was intended to cure Keats's lingering illness, which he suspected was tuberculosis; however, his friends and several doctors disagreed and urged him to spend some time in a warm climate. After a harrowing voyage, they arrived in the Bay of Naples on 21 October, only to be placed in quarantine for ten days. The two men remained in Naples for a week before heading off to Rome in a small carriage, where they arrived mid-November 1820 and met Keats's physician, Dr. James Clark. In Rome they lived in an apartment at number 26 Piazza di Spagna, just at the bottom right of the Spanish Steps and overlooking Bernini's famous Barcaccia fountain.
+Writing Prometheus Unbound'' (1845)]] On 17 September 1820, Severn set sail onboard the _Maria Crowther_ from England to Italy with the famous English poet John Keats. Keats and Severn had known one another in England, but they were only passing acquaintances. Yet it was Severn who agreed to accompany the poet to Rome when all others could, or would, not. The trip was intended to cure Keats's lingering illness, which he suspected was tuberculosis; however, his friends and several doctors disagreed and urged him to spend some time in a warm climate. After a harrowing voyage, they arrived in the Bay of Naples on 21 October, only to be placed in quarantine for ten days. The two men remained in Naples for a week before heading off to Rome in a small carriage, where they arrived mid-November 1820 and met Keats's physician, Dr. James Clark. In Rome they lived in an apartment at number 26 Piazza di Spagna, just at the bottom right of the Spanish Steps and overlooking Bernini's famous Barcaccia fountain.
 
 Severn had left England against his father's wishes and with little money. In fact, his father was so incensed by his departure that, as Severn reported in a late memoir, "in his insane rage he struck me a blow which fell me to the ground."[3] He was never to see his father again. While in Rome during the winter of 1820-21, Severn wrote numerous letters about Keats to their mutual friends in England, in particular William Haslam and Charles Armitage Brown, who then shared them with other members of the Keats circle, including the poet's fiancée, Fanny Brawne. These journal-letters now represent the only surviving account of the poet's final months and as a consequence are used as the primary historical source for biographers of Keats's last days.
 
-EJTbySevern1838.jpg Severn nursed Keats until his death on 23 February 1821, three months after they had arrived in Rome. As he reported to John Taylor two weeks afterwards, "Each day he would look up in the doctors face to discover how long he should live -- he would say -- "how long will this posthumous life of mine last"—that look was more than we could ever bear—the extreme brightness of his eyes—with his poor pallid face—were not earthly --"[4] Severn's ordeal was recognized by Keats himself, who, a month before his death, said, "Severn I can see under your quiet look -- immense twisting and contending -- you dont know what you are reading -- you are induring for me more than I'd have you -- O! that my last hour was come --"[5] He was later thanked for his devotion by the poet Percy B. Shelley in the preface to his elegy, Adonais, which was written for Keats in 1821. It was also at this time that Severn met, among other notables, the sculptors John Gibson and Antonio Canova, and Lord Byron's friend, the adventurer Edward John Trelawny. Severn made a sketch of Trelawny in 1838.
+Severn nursed Keats until his death on 23 February 1821, three months after they had arrived in Rome. As he reported to John Taylor two weeks afterwards, "Each day he would look up in the doctors face to discover how long he should live -- he would say -- "how long will this posthumous life of mine last"—that look was more than we could ever bear—the extreme brightness of his eyes—with his poor pallid face—were not earthly --"[4] Severn's ordeal was recognized by Keats himself, who, a month before his death, said, "Severn I can see under your quiet look -- immense twisting and contending -- you dont know what you are reading -- you are induring for me more than I'd have you -- O! that my last hour was come --"[5] He was later thanked for his devotion by the poet Percy B. Shelley in the preface to his elegy, Adonais, which was written for Keats in 1821. It was also at this time that Severn met, among other notables, the sculptors John Gibson and Antonio Canova, and Lord Byron's friend, the adventurer Edward John Trelawny. Severn made a sketch of Trelawny in 1838.
 
 
 Life and work after the death of Keats
@@ -42,7 +42,7 @@ In 1828 Severn married Elizabeth Montgomerie, the natural (i.e. illegitimate) da
 
 Death
 
-Keats_grave.jpg in Rome. Severn's tombstone is on the right. Severn's stele is ornamented with a palette in low relief, and Keats' with a lyre.]]
+in Rome. Severn's tombstone is on the right. Severn's stele is ornamented with a palette in low relief, and Keats' with a lyre.]]
 
 Severn died on 3 August 1879 at the age of 85, and was buried in the Protestant Cemetery alongside John Keats. Both gravestones are still standing today. Shelley and Trelawny are also buried side by side in the same Cemetery.
 
@@ -91,8 +91,6 @@ In 2009, Sue Brown published the biography _Joseph Severn, A Life: The Rewards o
 
 
 Notes
-
-Severn.by.Mary.jpg
 
 
 References

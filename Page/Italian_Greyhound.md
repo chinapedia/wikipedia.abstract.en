@@ -14,7 +14,7 @@ The modern Italian Greyhound's appearance is a result of breeders throughout Eur
 
 Temperament
 
-Double-suspension.kozmo.jpg, note all four feet off the ground.]]
+, note all four feet off the ground.]]
 
 The Italian Greyhound makes a good companion dog and enjoys the company of people. However, the breed's slim build and short coat make them somewhat fragile, and injury can result from rough or careless play with children. They are fast, agile and athletic, and love to run. Due to their size, and in some lineages poor bone density, they are prone to broken legs. Italian Greyhounds make reasonably good watchdogs, as they bark at unfamiliar sounds. They may also bark at passers-by and other animals. However, they should not be considered "true" guard dogs as they are often aloof with strangers and easily spooked to run.
 
@@ -22,8 +22,6 @@ As sighthounds, Italian Greyhounds instinctively hunt by sight and have an extre
 
 
 Grooming
-
-IG_Valerka.jpg
 
 Dogs of this breed have an extremely short and almost odorless coat that requires little more than an occasional bath about once a month (though many veterinarians suggest that even bathing once per month is too frequent for this breed), but a wipe-down with a damp cloth is recommended after walks as seeds, burrs and floating dust in the air can get into the coat and irritate the skin. This breed sheds medium to little hair.
 
@@ -55,7 +53,7 @@ Responsible breeders will routinely check their dogs for the onset of various in
 
 History
 
-Catherine_II_walking_by_V.Borovikovskiy_(1794,_Tretyakov_gallery).jpg.]]
+.]]
 
 By the Middle Ages, the breed had become distributed throughout Southern Europe and was later a favorite of the Italians of the sixteenth century, among whom miniature dogs were in great demand. Sadly, though, 'designer' breeders tried, and failed, to make the breed even smaller by crossbreeding it with other breeds of dogs. This only led to mutations with deformed skulls, bulging eyes and dental problems. The original Italian Greyhound had almost disappeared when groups of breeders got together and managed to return the breed to normal. From this period onward the history of the breed can be fairly well traced as it spread through Europe, arriving in England in the seventeenth century.
 

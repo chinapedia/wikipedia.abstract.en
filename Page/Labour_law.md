@@ -61,7 +61,7 @@ Following World War One, the Treaty of Versailles contained the first constituti
 
 These require freedom to join a union, bargain collectively and take action (Conventions No. 87 and 98), abolition of forced labour (29 and 105), abolition of labour by children before the end of compulsory school (138 and 182), and no discrimination at work (No. 100 and 111). Member compliance with the core Conventions is obligatory, even if the country has not ratified the Convention in question. To ensure compliance, the ILO is limited to gathering evidence and reporting on member states' progress, relying on publicity to create pressure to reform. Global reports on core standards are produced yearly, while individual reports on countries who have ratified other Conventions are compiled on a bi-annual or less frequent basis.
 
-Wto_logo.svg with real enforcement power through trade sanctions, the WTO has been the target for calls by labour lawyers to incorporate global standards of the International Labour Organization.]] Because the ILO's enforcement mechanisms are weak, incorporating labour standards in the World Trade Organization's (WTO) operation has been proposed. WTO oversees, primarily, the General Agreement on Tariffs and Trade treaty aimed at reducing customs, tariffs and other barriers to import and export of goods, services and capital between its 157 member countries. Unlike for the ILO, contravening WTO rules as recognized by the dispute settlement procedures opens a country to retaliation through trade sanctions. This could include reinstatement of targeted tariffs against the offender.
+with real enforcement power through trade sanctions, the WTO has been the target for calls by labour lawyers to incorporate global standards of the International Labour Organization.]] Because the ILO's enforcement mechanisms are weak, incorporating labour standards in the World Trade Organization's (WTO) operation has been proposed. WTO oversees, primarily, the General Agreement on Tariffs and Trade treaty aimed at reducing customs, tariffs and other barriers to import and export of goods, services and capital between its 157 member countries. Unlike for the ILO, contravening WTO rules as recognized by the dispute settlement procedures opens a country to retaliation through trade sanctions. This could include reinstatement of targeted tariffs against the offender.
 
 Proponents have called for a "social clause" to be inserted into the GATT agreements, for example, by amending Article XX, which provides an exception that allows imposition of sanctions for breaches of human rights. An explicit reference to core labour standards could allow comparable action where a WTO member state breaches ILO standards. Opponents argue that such an approach could undermine labour rights, because industries, and therefore workforces could be harmed with no guarantee of reform. Furthermore, it was argued in the 1996 Singapore Ministerial Declaration 1996 that "the comparative advantage of countries, particularly low-age developing countries, must in no way be put into question."[6] Some countries want to take advantage of low wages and fewer rules as a comparative advantage to boost their economies. Another contested point is whether business moves production from high wage to low wage countries, given potential differences in worker productivity.[7] Since GATT, most trade agreements have been bilateral. Some of these protect core labour standards. Moreover, in domestic tariff regulations, some countries give preference to countries that respect core labour rights, for example under the EC Tariff Preference Regulation, articles 7 and 8.[8]
 
@@ -88,7 +88,7 @@ The Fair Work Act of 2009 provides the regulations governing Australian workplac
 
 Canada
 
-Eatons_Factory_Interior.jpg In Canadian law, "labour law" refers to matters connected with unionized workplaces, while "employment law" deals with non-unionized employees.
+In Canadian law, "labour law" refers to matters connected with unionized workplaces, while "employment law" deals with non-unionized employees.
 
 In 2017, Premier Brad Wall announced that Saskatchewan's government is to cut 3.5 percent from its workers and officers' wages in 2018. This salary cut includes MLA ministers and the Premier's office staff along all people employed by the government. Unpaid days off, will also be implemented as well as limiting overtime to assist the wage cut.[15][16]
 
@@ -135,8 +135,6 @@ The Factory Acts (first one in 1802, then 1833) and the 1823 Master and Servant 
 The first significant expansion was the Equal Pay Act of 1970. This act was introduced to bring about pay equality for women in the workplace. Since 1997, changes in UK employment law include enhanced maternity and paternity rights,[29] the introduction of a National Minimum Wage[30] and the Working Time Regulations,[31] which covers working time, rest breaks and the right to paid annual leave. Discrimination law has been tightened, with protection from discrimination now available on the grounds of age, religion or belief and sexual orientation as well as gender, race and disability.
 
 United States
-
-PalmercarpenterA.jpg
 
 The Fair Labor Standards Act of 1938 set the maximum standard work week to 44 hours. In 1950 this was reduced to 40 hours. A green card entitles immigrants to work, without the requirement of a separate work permit. Despite the 40-hour standard maximum work week,[32] some lines of work require more than 40 hours. For example, farm workers may work over 72 hours a week, followed by at least 24 hours off. Exceptions to the break period exist for certain harvesting employees, such as those involved in harvesting grapes, tree fruits and cotton.
 
@@ -185,7 +183,7 @@ Collective bargaining
 
 Collective action
 
-Tyldesley_miners_outside_the_Miners_Hall_during_the_1926_General_Strike.jpg in the 1926 General Strike in the U.K.]]
+in the 1926 General Strike in the U.K.]]
 
 Strike action is the worker tactic most associated with industrial disputes. In most countries, strikes are legal under a circumscribed set of conditions. Among them may be that:
 
@@ -246,7 +244,7 @@ Convention no. 158 of the International Labour Organization states that an emplo
 
 Child labour
 
-Abolish_child_slavery.jpg parade in New York City]] Child labour was not seen as a problem throughout most of history, only disputed with the beginning of universal schooling and the concepts of labourers' and children's rights. Use of child labour was commonplace, often in factories. In England and Scotland in 1788, about two-thirds of persons working in water-powered textile factories were children.[53] Child labour can be factory work, mining or quarrying, agriculture, helping in the parents' business, operating a small business (such as selling food), or doing odd jobs. Children work as guides for tourists, sometimes combined with bringing in business for shops and restaurants (where they may also work). Other children do jobs such as assembling boxes or polishing shoes. However, rather than in factories and sweatshops, most child labour in the twenty-first century occurs in the informal sector, "selling on the street, at work in agriculture or hidden away in houses — far from the reach of official inspectors and from media scrutiny."[54]
+parade in New York City]] Child labour was not seen as a problem throughout most of history, only disputed with the beginning of universal schooling and the concepts of labourers' and children's rights. Use of child labour was commonplace, often in factories. In England and Scotland in 1788, about two-thirds of persons working in water-powered textile factories were children.[53] Child labour can be factory work, mining or quarrying, agriculture, helping in the parents' business, operating a small business (such as selling food), or doing odd jobs. Children work as guides for tourists, sometimes combined with bringing in business for shops and restaurants (where they may also work). Other children do jobs such as assembling boxes or polishing shoes. However, rather than in factories and sweatshops, most child labour in the twenty-first century occurs in the informal sector, "selling on the street, at work in agriculture or hidden away in houses — far from the reach of official inspectors and from media scrutiny."[54]
 
 
 See also

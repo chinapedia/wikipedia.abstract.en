@@ -49,7 +49,7 @@ In 2018, Mexico elected Andrés Manuel López Obrador as President.
 
 State elections
 
-Mexican states governed by political party The elections in each state are done at different times, depending on the state, and are not necessarily held at the same time with the federal elections. :
+The elections in each state are done at different times, depending on the state, and are not necessarily held at the same time with the federal elections. :
 
 -   PRI governs 13 states: Campeche, Coahuila, Colima, Guerrero, Hidalgo, Jalisco, Mexico, Oaxaca, San Luis Potosí, Sinaloa, Sonora, Tlaxcala, Yucatán and Zacatecas.
 -   PAN governs 11 states: Aguascalientes, Baja California, Baja California Sur, Chihuahua, Durango, Guanajuato, Nayarit, Puebla, Querétaro, Tamaulipas, and Veracruz.
@@ -60,7 +60,7 @@ Mexican states governed by political party The elections in each state are done 
 
 Historical political development
 
-Fox133318.jpg, president 2000-2006]] The Mexican Revolution was followed by the Great Depression, which led to a severely fragmented society and very weak institutions.[13] In 1929, all factions and generals of the Mexican Revolution were united into a single party, the National Revolutionary Party (NRP), with the aim of stabilizing the country and ending internal conflicts. During the following administrations, since 1928, many of the revolutionary ideals were put into effect, among them the free distribution of land to peasants and farmers, the nationalization of the oil companies, the birth and rapid growth of the Social Security Institute as well as that of Labor Unions, and the protection of national industries.
+, president 2000-2006]] The Mexican Revolution was followed by the Great Depression, which led to a severely fragmented society and very weak institutions.[13] In 1929, all factions and generals of the Mexican Revolution were united into a single party, the National Revolutionary Party (NRP), with the aim of stabilizing the country and ending internal conflicts. During the following administrations, since 1928, many of the revolutionary ideals were put into effect, among them the free distribution of land to peasants and farmers, the nationalization of the oil companies, the birth and rapid growth of the Social Security Institute as well as that of Labor Unions, and the protection of national industries.
 
 President Lázaro Cárdenas was fundamental to recover some of the social control that was lost during the Revolution and the following economic meltdown in the United States. However, Cárdenas was followed by a series of less-talented leaders that were unable to continue this path and establish an effective rule of law on Mexican society. Moreover, Cárdenas presidency happened before the UN focused on states as the rule in the 1940s and 1950s.[14]
 

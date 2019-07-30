@@ -3,7 +3,7 @@ IVO CAPRINO (17 February 1920 – 8 February 2001) was a Norwegian film directo
 
 Early career
 
-Filmmuseet_Oslo.jpg In the mid-1940s, Caprino helped his mother design puppets for a puppet theatre, which inspired him to try making a film using his mother's designs. The result of their collaboration was _Tim og Tøffe_, an 8-minute film released in 1949.
+In the mid-1940s, Caprino helped his mother design puppets for a puppet theatre, which inspired him to try making a film using his mother's designs. The result of their collaboration was _Tim og Tøffe_, an 8-minute film released in 1949.
 
 Several films followed in the next couple of years, including two 15-minute shorts that are still shown regularly in Norway today, _Veslefrikk med Fela_ (Little Freddy and his Fiddle), based on a Norwegian folk tale, and _Karius og Baktus_, a story by Thorbjørn Egner of two little trolls, representing Caries and Bacterium, living in a boy's teeth. Ingeborg Gude made the puppets for these films as well, as she would continue to do up until her death in the mid sixties.
 
@@ -43,7 +43,7 @@ Caprino was the son of Italian furniture designer Mario Caprino and the artist I
 
 Filmography
 
-Il_Tempo_Gigante.jpg'', a Norwegian stop motion-animated feature film from 1975, was Ivo Caprino's most successful film. The image is of a toy model of "Il Tempo Gigante", the main race car featured in the movie.]]
+'', a Norwegian stop motion-animated feature film from 1975, was Ivo Caprino's most successful film. The image is of a toy model of "Il Tempo Gigante", the main race car featured in the movie.]]
 
 -   1975 – _Flåklypa Grand Prix_
 -   1967 – _Gutten som kappåt med trollet_

@@ -27,7 +27,7 @@ This was used to great effect in Chile where General Pinochet looked to remove a
 
 Assassination
 
-Orlando_Letelier_&_Ronni_K_Moffit_Memorial_28375046.jpg, Washington DC]]Letelier was killed by a car bomb explosion on September 21, 1976, in Sheridan Circle in Washington, D.C., along with his American co-worker, Ronni Karpen Moffitt.[4][5]
+, Washington DC]]Letelier was killed by a car bomb explosion on September 21, 1976, in Sheridan Circle in Washington, D.C., along with his American co-worker, Ronni Karpen Moffitt.[4][5]
 
 Moffit's husband, Michael Moffitt, was injured but survived. Several people were prosecuted and convicted for the murder. Among them were Michael Townley, a U.S. expatriate working for DINA, General Manuel Contreras, former head of the DINA, and Brigadier Pedro Espinoza, also formerly of DINA. Townley was convicted in the United States in 1978 and served 62 months in prison for the murder;[6] he is now free as a participant in the United States Federal Witness Protection Program. Contreras and Espinoza were convicted in Chile in 1993.[7]
 

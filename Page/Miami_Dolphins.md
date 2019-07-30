@@ -79,7 +79,7 @@ Facilities
 
 Stadiums
 
-NFL_Jets_at_Dolphins-Sun_Life_Stadium-2012-09-24.JPG in 2012.]] The Dolphins originally played all home games in the Orange Bowl in Miami. They moved to the new Joe Robbie Stadium after the 1986 season. From 1993 to 2011, the Dolphins shared the stadium with Major League Baseball's Florida Marlins. The venue has had multiple naming rights deals since 1996, carrying the names Pro Player Stadium, Dolphins Stadium, Dolphin Stadium, LandShark Stadium, Sun Life Stadium, New Miami Stadium and, as of August 2016, Hard Rock Stadium. The facility is located in Miami Gardens, a suburb of Miami located approximately north of downtown Miami. The Miami Dolphins share Hard Rock Stadium with the NCAA Miami Hurricanes. The 2015–2016 season was the first season in the newly renovated Hard Rock Stadium. The Dolphins spent more than two years and over $400 million on a major overhaul to Hard Rock Stadium. Every seat was replaced and the lower level seats were moved closer to the field. There are roughly 10,000 fewer seats.[5]
+in 2012.]] The Dolphins originally played all home games in the Orange Bowl in Miami. They moved to the new Joe Robbie Stadium after the 1986 season. From 1993 to 2011, the Dolphins shared the stadium with Major League Baseball's Florida Marlins. The venue has had multiple naming rights deals since 1996, carrying the names Pro Player Stadium, Dolphins Stadium, Dolphin Stadium, LandShark Stadium, Sun Life Stadium, New Miami Stadium and, as of August 2016, Hard Rock Stadium. The facility is located in Miami Gardens, a suburb of Miami located approximately north of downtown Miami. The Miami Dolphins share Hard Rock Stadium with the NCAA Miami Hurricanes. The 2015–2016 season was the first season in the newly renovated Hard Rock Stadium. The Dolphins spent more than two years and over $400 million on a major overhaul to Hard Rock Stadium. Every seat was replaced and the lower level seats were moved closer to the field. There are roughly 10,000 fewer seats.[5]
 
 Training
 
@@ -94,7 +94,7 @@ Logos and uniforms
 
 Leaping dolphin (1966–2012)
 
-Miami_Dolphins_wordmark_1997-2012.png The Dolphins logo and uniforms remained fairly consistent from the team's founding through 2012. The team's colors were originally teal and coral, with the original logo consisted of a sunburst with a leaping dolphin wearing a football helmet bearing the letter M. At their debut in 1966, the dolphin's head was near the center of the sunburst. For the 1967, the dolphin was in the center of the sunburst, but reverted to the original logo between 1968 and 1973. By 1974, the dolphin's body was centered on the sunburst in a slightly smaller logo than the 1967 version. The uniforms featured white pants with teal and coral stripes, paired with either a white or teal jersey. On the white jersey, teal block numbers and names were outlined in coral, with teal and coral sleeve stripes. These uniforms were used as the primary uniforms for road games and daytime home games, due to the extreme heat of South Florida. The team also had an teal jersey used mainly for night home games or road games in which the opponent chose to wear white. The teal jersey featured white block numbers and names with an coral outline, and coral and white sleeve stripes.
+The Dolphins logo and uniforms remained fairly consistent from the team's founding through 2012. The team's colors were originally teal and coral, with the original logo consisted of a sunburst with a leaping dolphin wearing a football helmet bearing the letter M. At their debut in 1966, the dolphin's head was near the center of the sunburst. For the 1967, the dolphin was in the center of the sunburst, but reverted to the original logo between 1968 and 1973. By 1974, the dolphin's body was centered on the sunburst in a slightly smaller logo than the 1967 version. The uniforms featured white pants with teal and coral stripes, paired with either a white or teal jersey. On the white jersey, teal block numbers and names were outlined in coral, with teal and coral sleeve stripes. These uniforms were used as the primary uniforms for road games and daytime home games, due to the extreme heat of South Florida. The team also had an teal jersey used mainly for night home games or road games in which the opponent chose to wear white. The teal jersey featured white block numbers and names with an coral outline, and coral and white sleeve stripes.
 
 An update was given to the logo in 1997 – the sunburst was simplified and the dolphin was darkened and given a more serious game-face expression.[7] The uniforms remained the same, however a different block number font was used and navy drop shadows were added.
 
@@ -106,7 +106,7 @@ The Dolphins' final game in the original style uniforms with block numbers and t
 
 New logo (2013–present)
 
-Miami_Dolphins_logo.svg A radically new logo and new uniforms were unveiled shortly before the 2013 NFL Draft.[9][10][11] The new logo features a stylized aqua dolphin swimming in front of a heavily modified version of the orange sunburst. The dolphin in the logo is more vague and artistic, and is not wearing a helmet as it is merely a silhouette of a dolphin cast in aqua and navy.
+A radically new logo and new uniforms were unveiled shortly before the 2013 NFL Draft.[9][10][11] The new logo features a stylized aqua dolphin swimming in front of a heavily modified version of the orange sunburst. The dolphin in the logo is more vague and artistic, and is not wearing a helmet as it is merely a silhouette of a dolphin cast in aqua and navy.
 
 Navy was incorporated as featured color for the first time, with orange becoming greatly de-emphasized. The uniforms feature both white pants and aqua pants, with a white or aqua jersey. The Dolphins continue to wear white at home, just as they had with the previous uniforms, with aqua being used for primetime home games. The white jersey features aqua numbers and names in a unique custom font, with orange and navy outlines on the numbers, however the names only use navy as an outline color. The aqua jerseys use white numbers with an orange and aqua outline, and white names with a navy outline. The helmets are white with a white facemask, just like the final years of the previous look, however navy is a prominent color on the helmet stripe, joining aqua and a de-emphasized orange. Both jerseys have large "Dolphins" text above the numbers, written in the team's new script. The pants are either aqua (worn only with the white jersey) or white, and contain no markings other than a small team wordmark.[12]
 
@@ -118,7 +118,7 @@ The song was written and composed by Lee Ofman. Ofman approached the Dolphins wi
 
 Cheerleaders
 
-Miami_Dolphins_Cheerleaders.jpg The team's cheerleaders are known collectively as the Miami Dolphins Cheerleaders.[17] The company had its debut in 1978 as the Dolphins Starbrites. (The name referred to the co-sponsor, Starbrite Car Polish.) The cheerleaders' founding choreographer was June Taylor, famed colleague of Jackie Gleason, who led the squad until her retirement in 1990.
+The team's cheerleaders are known collectively as the Miami Dolphins Cheerleaders.[17] The company had its debut in 1978 as the Dolphins Starbrites. (The name referred to the co-sponsor, Starbrite Car Polish.) The cheerleaders' founding choreographer was June Taylor, famed colleague of Jackie Gleason, who led the squad until her retirement in 1990.
 
 Special Teams/Volunteer Program
 
@@ -178,7 +178,7 @@ Current roster
 
 Pro Football Hall of Famers
 
-Larry_Little_2013.jpg The Dolphins currently have ten players, one coach, and one contributor enshrined in the Pro Football Hall of Fame, that have spent the majority (or entirety) of their careers, or made significant contributions with the Miami Dolphins. Three other players and one contributor that have spent only a "minor portion" of their careers with the Dolphins, have also been enshrined in the Pro Football Hall of Fame.
+The Dolphins currently have ten players, one coach, and one contributor enshrined in the Pro Football Hall of Fame, that have spent the majority (or entirety) of their careers, or made significant contributions with the Miami Dolphins. Three other players and one contributor that have spent only a "minor portion" of their careers with the Dolphins, have also been enshrined in the Pro Football Hall of Fame.
 
   MIAMI DOLPHINS HALL OF FAMERS
   -------------------------------
@@ -421,7 +421,7 @@ SPECIAL TEAMS:
 
 The Miami Dolphins Honor Roll
 
-Larry_Csonka_1972.jpg The Miami Dolphin Honor Roll is a ring around the second tier of Hard Rock Stadium that honor former players, coaches, owners and contributors who have made significant contributions to the franchise throughout their history. BOLD indicates those elected to the Pro Football Hall of Fame.
+The Miami Dolphin Honor Roll is a ring around the second tier of Hard Rock Stadium that honor former players, coaches, owners and contributors who have made significant contributions to the franchise throughout their history. BOLD indicates those elected to the Pro Football Hall of Fame.
 
 Each of these players is honored with a placard on the facing of the upper level around Hard Rock Stadium including team founder-owner Joe Robbie. In place of a jersey number, Shula has the number 347, representing his record number of NFL coaching victories, 274 of them as Dolphins head coach.
 

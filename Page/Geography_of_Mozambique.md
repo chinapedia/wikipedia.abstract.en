@@ -1,4 +1,4 @@
-upright=1.4 LocationMozambique.svg Mozambique_Topography.png Zambezi_River_Delta.jpg The GEOGRAPHY OF MOZAMBIQUE consists mostly of coastal lowlands with uplands in its center and high plateaus in the northwest. There are also mountains in the western portion. The country is located on the east coast of southern Africa, directly west of the island of Madagascar. Mozambique has a tropical climate with two seasons, a wet season from October to March and a dry season from April to September.
+upright=1.4 The GEOGRAPHY OF MOZAMBIQUE consists mostly of coastal lowlands with uplands in its center and high plateaus in the northwest. There are also mountains in the western portion. The country is located on the east coast of southern Africa, directly west of the island of Madagascar. Mozambique has a tropical climate with two seasons, a wet season from October to March and a dry season from April to September.
 
 
 Physical features
@@ -24,7 +24,7 @@ The lower reaches of both streams are navigable, the Busi for , the Pungwe for a
 
 Climate
 
-Mozambique_map_of_Köppen_climate_classification.svg Mozambique has a tropical climate with two seasons, a wet season from October to March and a dry season from April to September. Climatic conditions vary depending on altitude. Rainfall is heavy along the coast and decreases in the north and south.
+Mozambique has a tropical climate with two seasons, a wet season from October to March and a dry season from April to September. Climatic conditions vary depending on altitude. Rainfall is heavy along the coast and decreases in the north and south.
 
 Annual precipitation varies from depending on the region with an average of . Cyclones are also common during the wet season. Average temperature ranges in Maputo are from in July to in February.
 

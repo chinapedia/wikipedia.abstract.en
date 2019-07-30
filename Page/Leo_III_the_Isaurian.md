@@ -3,7 +3,7 @@ LEO III THE ISAURIAN, also known as THE SYRIAN (; 685 – 18 June 741), was Byza
 
 Life
 
-Leo_III_base_gold_solidus_minted_in_Rome.jpg.]] Leo_III_and_Constantine_V_miliaresion.jpg'' silver coins, first struck by Leo III to commemorate the coronation of his son, Constantine V, as co-emperor in 720.]] ByzantineEmpire717+extrainfo+themes.svg]]
+.]] '' silver coins, first struck by Leo III to commemorate the coronation of his son, Constantine V, as co-emperor in 720.]] ]]
 
 Early life
 

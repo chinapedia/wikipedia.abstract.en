@@ -91,7 +91,7 @@ Marmite is presently fortified with added vitamins, resulting in it being banned
 
 Marketing and packaging
 
-Marmite_Jars.jpg Marmite's publicity campaigns initially emphasised the spread's healthy nature, extolling it as "The growing up spread you never grow out of". The first major Marmite advertising campaign began during the 1930s, with characters whose faces incorporated the word "good". Soon afterwards, the increasing awareness of vitamins was used in Marmite advertising, with slogans proclaiming that "A small quantity added to the daily diet will ensure you and your family are taking sufficient vitamin B to keep nerves, brain, and digestion in proper working order".
+Marmite's publicity campaigns initially emphasised the spread's healthy nature, extolling it as "The growing up spread you never grow out of". The first major Marmite advertising campaign began during the 1930s, with characters whose faces incorporated the word "good". Soon afterwards, the increasing awareness of vitamins was used in Marmite advertising, with slogans proclaiming that "A small quantity added to the daily diet will ensure you and your family are taking sufficient vitamin B to keep nerves, brain, and digestion in proper working order".
 
 During the 1980s, the spread was advertised with the slogan "My mate, Marmite", chanted in television commercials by an army platoon. The spread had been a standard vitamin supplement for British-based German POWs during the Second World War.
 
@@ -100,7 +100,7 @@ By the 1990s Marmite's distinctive and powerful flavour had earned it as many de
 
 Availability worldwide
 
-Our_Mate_jar_of_UK_Made_Marmite_Spread_branded_for_sale_in_Australia.JPG Because of the local product named Marmite, British Marmite is sold by the name "Our Mate" in Australia and New Zealand. New Zealand Marmite uses the name "NZ-Mite" elsewhere.
+Because of the local product named Marmite, British Marmite is sold by the name "Our Mate" in Australia and New Zealand. New Zealand Marmite uses the name "NZ-Mite" elsewhere.
 
 In Denmark, food safety legislation dictates that foodstuffs that contain added vitamins can only be sold by retailers which have been licensed by the Veterinary and Food Administration.[28] During May 2011, the company that imports the product to Denmark revealed that it wasn't licensed and had therefore stopped selling the product: this resulted in widespread but inaccurate reports by the British media that Marmite had been banned by the Danish authorities.[29][30][31]
 
@@ -115,7 +115,7 @@ Marmite is manufactured by licence in South Africa by Pioneer Foods in tradition
 
 Special editions
 
-Marmite-Guinness_edition.JPG Marmite.]] Marmite_packaging_UK_2012.jpg During 2002 a 100th anniversary jar was released.
+Marmite.]] During 2002 a 100th anniversary jar was released.
 
 During February 2007, Marmite produced a limited edition Guinness Marmite of 300,000 250g jars of their yeast extract with 30% Guinness yeast, giving it a noticeable hint of "Guinness" flavour. During January 2008 Champagne Marmite was released for Valentine's Day,[34] with a limited-edition production of 600,000 units initially released exclusively to Selfridges of London. The product had 0.3% champagne added to the recipe, and a modified heart-shaped label with "I love you" in place of the logo.
 

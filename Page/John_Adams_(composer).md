@@ -1,4 +1,4 @@
-JA-portrait-1-LW.jpg JOHN COOLIDGE ADAMS (born February 15, 1947) is an American composer, clarinetist, and conductor of classical music and opera, with strong roots in minimalism.[1][2][3]
+JOHN COOLIDGE ADAMS (born February 15, 1947) is an American composer, clarinetist, and conductor of classical music and opera, with strong roots in minimalism.[1][2][3]
 
 His works include _Nixon in China_ (1987), _Harmonielehre_ (1985), _Short Ride in a Fast Machine_ (1986), _On the Transmigration of Souls_ (2002), a choral piece commemorating the victims of the September 11, 2001 attacks (for which he won the Pulitzer Prize for Music in 2003), and _Shaker Loops_ (1978), a minimalist four-movement work for strings.
 
@@ -61,8 +61,6 @@ The music of Adams is usually categorized as minimalist or post-minimalist, alth
 Many of Adams's ideas in composition are a reaction to the philosophy of serialism and its depictions of "the composer as scientist."[18] The Darmstadt school of twelve tone composition was dominant during the time that Adams was receiving his college education, and he compared class to a "mausoleum where we would sit and count tone-rows in Webern."[19]
 
 Adams experienced a musical epiphany after reading John Cage's book _Silence_ (1973), which he claimed "dropped into [his] psyche like a time bomb."[20] Cage posed fundamental questions about what music was, and regarded all types of sounds as viable sources of music. This perspective offered to Adams a liberating alternative to the rule-based techniques of serialism. At this point Adams began to experiment with electronic music, and his experiences are reflected in the writing of _Phrygian Gates_ (1977–78), in which the constant shifting between modules in Lydian mode and Phrygian mode refers to activating electronic gates rather than architectural ones. Adams explained that working with synthesizers caused a "diatonic conversion," a reversion to the belief that tonality was a force of nature.[21]
-
-Phrygian_Gates,_mm_21-40.JPG
 
 Some of Adams's compositions are an amalgamation of different styles. One example is _Grand Pianola Music (1981–82)_, a humorous piece that purposely draws its content from musical cliches. In _The Dharma at Big Sur,_ Adams draws from literary texts such as Jack Kerouac, Gary Snyder and Henry Miller to illustrate the California landscape. Adams professes his love of other genres other than classical music; his parents were jazz musicians, and he has also listened to rock music, albeit only passively. Adams once claimed that originality wasn't an urgent concern for him the way it was necessary for the minimalists, and compared his position to that of Gustav Mahler, J. S. Bach, and Johannes Brahms, who "were standing at the end of an era and were embracing all of the evolutions that occurred over the previous thirty to fifty years."[22]
 

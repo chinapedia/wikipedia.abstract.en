@@ -1,11 +1,11 @@
-Damascus_Bowie.jpg Messerbank_2_fcm.jpg resting on a stand]] A KNIFE (plural KNIVES; possibly from Old Norse '' knifr'' ("blade")[1]) is a tool with a cutting edge or blade attached to a handle. Mankind's first tool, knives were used at least two-and-a-half million years ago, as evidenced by the Oldowan tools.[2][3] Originally made of rock, bone, flint, and obsidian, over the centuries, in step with improvements in metallurgy or manufacture, knife blades have been made from bronze, copper, iron, steel, ceramics, and titanium. Most modern knives have either fixed or folding blades; blade patterns and styles vary by maker and country of origin.
+resting on a stand]] A KNIFE (plural KNIVES; possibly from Old Norse '' knifr'' ("blade")[1]) is a tool with a cutting edge or blade attached to a handle. Mankind's first tool, knives were used at least two-and-a-half million years ago, as evidenced by the Oldowan tools.[2][3] Originally made of rock, bone, flint, and obsidian, over the centuries, in step with improvements in metallurgy or manufacture, knife blades have been made from bronze, copper, iron, steel, ceramics, and titanium. Most modern knives have either fixed or folding blades; blade patterns and styles vary by maker and country of origin.
 
 Knives can serve various purposes. Hunters use a hunting knife, soldiers use the combat knife, scouts, campers, and hikers carry a pocket knife; there are kitchen knives for preparing foods (the chef's knife, the paring knife, bread knife, cleaver), table knives (butter knives and steak knives), weapons (daggers or switchblades), knives for throwing or juggling, and knives for religious ceremony or display (the kirpan).[4]
 
 
 Parts
 
-Knife_parts.jpg A modern knife consists of:
+A modern knife consists of:
 
 1.  the _blade_
 2.  the _handle_
@@ -23,13 +23,13 @@ The blade edge can be plain or serrated, or a combination of both. Single-edged 
 
 The handle, used to grip and manipulate the blade safely, may include a _tang_, a portion of the blade that extends into the handle. Knives are made with partial tangs (extending part way into the handle, known as "stick tangs") or full tangs (extending the full length of the handle, often visible on top and bottom). The handle may include a bolster, a piece of heavy material (usually metal) situated at the front or rear of the handle. The bolster, as its name suggests, is used to mechanically strengthen the knife.
 
-Fixed_Blade_Full_Tang_Survival_Knife.png-made full-tang survival knife. The metal from the blade extends into the handle.]]
+-made full-tang survival knife. The metal from the blade extends into the handle.]]
 
 Blade
 
-Chinese_knife_factory.jpg Knife blades can be manufactured from a variety of materials, each of which has advantages and disadvantages. Carbon steel, an alloy of iron and carbon, can be very sharp. It holds its edge well, and remains easy to sharpen, but is vulnerable to rust and stains. Stainless steel is an alloy of iron, chromium, possibly nickel, and molybdenum, with only a small amount of carbon. It is not able to take quite as sharp an edge as carbon steel, but is highly resistant to corrosion. High carbon stainless steel is stainless steel with a higher amount of carbon, intended to incorporate the better attributes of carbon steel and stainless steel. High carbon stainless steel blades do not discolor or stain, and maintain a sharp edge. Laminated blades use multiple metals to create a layered sandwich, combining the attributes of both. For example, a harder, more brittle steel may be sandwiched between an outer layer of softer, tougher, stainless steel to reduce vulnerability to corrosion. In this case, however, the part most affected by corrosion, the edge, is still vulnerable. Damascus steel is a form of pattern welding with similarities to laminate construction. Layers of different steel types are welded together, but then the stock is manipulated to create patterns in the steel.[5]
+Knife blades can be manufactured from a variety of materials, each of which has advantages and disadvantages. Carbon steel, an alloy of iron and carbon, can be very sharp. It holds its edge well, and remains easy to sharpen, but is vulnerable to rust and stains. Stainless steel is an alloy of iron, chromium, possibly nickel, and molybdenum, with only a small amount of carbon. It is not able to take quite as sharp an edge as carbon steel, but is highly resistant to corrosion. High carbon stainless steel is stainless steel with a higher amount of carbon, intended to incorporate the better attributes of carbon steel and stainless steel. High carbon stainless steel blades do not discolor or stain, and maintain a sharp edge. Laminated blades use multiple metals to create a layered sandwich, combining the attributes of both. For example, a harder, more brittle steel may be sandwiched between an outer layer of softer, tougher, stainless steel to reduce vulnerability to corrosion. In this case, however, the part most affected by corrosion, the edge, is still vulnerable. Damascus steel is a form of pattern welding with similarities to laminate construction. Layers of different steel types are welded together, but then the stock is manipulated to create patterns in the steel.[5]
 
-Titanium is a metal that has a better strength-to-weight ratio, is more wear resistant, and more flexible than steel. Although less hard and unable to take as sharp an edge, carbides in the titanium alloy allow them to be heat-treated to a sufficient hardness. Ceramic blades are hard, brittle, and lightweight: they may maintain a sharp edge for years with no maintenance at all, but are as fragile as glass and will break if dropped on a hard surface. They are immune to common corrosion, and can only be sharpened on silicon carbide sandpaper and some grinding wheels. Plastic blades are not especially sharp and typically serrated. They are often disposable. Microtome-knife-profile.svg
+Titanium is a metal that has a better strength-to-weight ratio, is more wear resistant, and more flexible than steel. Although less hard and unable to take as sharp an edge, carbides in the titanium alloy allow them to be heat-treated to a sufficient hardness. Ceramic blades are hard, brittle, and lightweight: they may maintain a sharp edge for years with no maintenance at all, but are as fragile as glass and will break if dropped on a hard surface. They are immune to common corrosion, and can only be sharpened on silicon carbide sandpaper and some grinding wheels. Plastic blades are not especially sharp and typically serrated. They are often disposable.
 
 Steel blades are commonly shaped by forging or stock removal. Forged blades are made by heating a single piece of steel, then shaping the metal while hot using a hammer or press. Stock removal blades are shaped by grinding and removing metal. With both methods, after shaping, the steel must be heat treated. This involves heating the steel above its critical point, then quenching the blade to harden it. After hardening, the blade is tempered to remove stresses and make the blade tougher. Mass manufactured kitchen cutlery uses both the forging and stock removal processes[6]. Forging tends to be reserved for manufacturers' more expensive product lines, and can often be distinguished from stock removal product lines by the presence of an integral bolster, though integral bolsters can be crafted through either shaping method.
 
@@ -39,11 +39,11 @@ Many knives have holes in the blade for various uses[7]. Holes are commonly dril
 
 Fixed blade features
 
-CKc_Pen_Knife.jpg A fixed blade knife, sometimes called a sheath knife, does not fold or slide, and is typically stronger due to the tang, the extension of the blade into the handle, and lack of moving parts.
+A fixed blade knife, sometimes called a sheath knife, does not fold or slide, and is typically stronger due to the tang, the extension of the blade into the handle, and lack of moving parts.
 
 Folding blade features
 
-Swiss_army_knife_open_20050612_(cropped).jpg]] A folding knife connects the blade to the handle through a pivot, allowing the blade to fold into the handle. To prevent injury to the knife user through the blade accidentally closing on the user's hand, folding knives typically have a locking mechanism. Different locking mechanisms are favored by various individuals for reasons such as perceived strength (lock safety), legality, and ease of use. Popular locking mechanisms include:
+]] A folding knife connects the blade to the handle through a pivot, allowing the blade to fold into the handle. To prevent injury to the knife user through the blade accidentally closing on the user's hand, folding knives typically have a locking mechanism. Different locking mechanisms are favored by various individuals for reasons such as perceived strength (lock safety), legality, and ease of use. Popular locking mechanisms include:
 
 -   _Slip joint_ – Found most commonly on traditional pocket knives, the opened blade does not lock, but is held in place by a spring device that allows the blade to fold if a certain amount of pressure is applied.[8]
 -   _Lockback_ – Also known as the _spine lock_, the lockback includes a pivoted latch affixed to a spring, and can be disengaged only by pressing the latch down to release the blade.
@@ -51,7 +51,7 @@ Swiss_army_knife_open_20050612_(cropped).jpg]] A folding knife connects the blad
 -   _Compression Lock_ – A variant of the Liner Lock, it uses a small piece of metal at the tip of the lock to lock into a small corresponding impression in the blade. This creates a lock that doesn't disengage when the blade is torqued, instead becoming more tightly locked. It is released by pressing the tab of metal to the side, to allow the blade to be placed into its groove set into the handle.[10]
 -   _Frame Lock_ – Also known as the _integral lock_ or _monolock_, this locking mechanism was invented by custom knifemaker Chris Reeve for the Sebenza as an update to the liner lock. The frame lock works in a manner similar to the liner lock but uses a partial cutout of the actual knife handle, rather than a separate liner inside the handle to hold the blade in place.[11][12]
 -   _Collar lock_ – found on Opinel knives.[13]
--   _Button Lock_ – Found mainly on automatic knives, this type of lock uses a small push-button to open and release the knife.BM-AxisLock.jpg
+-   _Button Lock_ – Found mainly on automatic knives, this type of lock uses a small push-button to open and release the knife.
 -   _Axis Lock_ – A locking mechanism exclusively licensed to the Benchmade Knife Company. A cylindrical bearing is tensioned such that it will jump between the knife blade and some feature of the handle to lock the blade open.[14]
 -   _Arc Lock_ – A locking mechanism exclusively licensed to SOG Specialty Knives. It differs from an axis lock in that the cylindrical bearing is tensioned by a rotary spring rather than an axial spring.[15]
 -   _Ball Bearing Lock_ – A locking mechanism exclusively licensed to Spyderco. This lock is conceptually similar to the axis and arc locks but the bearing is instead a ball bearing.[16]
@@ -78,7 +78,7 @@ In the LINER LOCK, an "L"-shaped split in the liner allows part of the liner to 
 
 Sliding blade features
 
-OTF_knife_GM08.jpg A sliding knife is a knife that can be opened by sliding the knife blade out the front of the handle. One method of opening is where the blade exits out the front of the handle point-first and then is locked into place (an example of this is the gravity knife). Another form is an OTF (out-the-front) switchblade, which only requires the push of a button or spring to cause the blade to slide out of the handle and lock into place. To retract the blade back into the handle, a release lever or button, usually the same control as to open, is pressed. A very common form of sliding knife is the sliding utility knife (commonly known as a stanley knife or boxcutter).
+A sliding knife is a knife that can be opened by sliding the knife blade out the front of the handle. One method of opening is where the blade exits out the front of the handle point-first and then is locked into place (an example of this is the gravity knife). Another form is an OTF (out-the-front) switchblade, which only requires the push of a button or spring to cause the blade to slide out of the handle and lock into place. To retract the blade back into the handle, a release lever or button, usually the same control as to open, is pressed. A very common form of sliding knife is the sliding utility knife (commonly known as a stanley knife or boxcutter).
 
 Handle
 
@@ -93,16 +93,16 @@ The handles of knives can be made from a number of different materials, each of 
 -   Skeleton handles refers to the practice of using the tang itself as the handle, usually with sections of material removed to reduce weight. Skeleton handled knives are often wrapped with parachute cord or other wrapping materials to enhance grip.
 -   Stainless steel and aluminum handles are durable and sanitary, but can be slippery. To counter this, premium knife makers make handles with ridges, bumps, or indentations to provide extra grip. Another problem with knives that have metal handles is that, since metal is an excellent heat-conductor, these knives can be very uncomfortable, and even painful or dangerous, when handled without gloves or other protective handwear in (very) cold climates.
 
-Knife_handle_made_of_buffalo_horn.jpg, Indonesia)]] More exotic materials usually only seen on art or ceremonial knives include: Stone, bone, mammoth tooth, mammoth ivory, oosik (walrus penis bone), walrus tusk, antler (often called stag in a knife context), sheep horn, buffalo horn, teeth, and mop (mother of pearl or "pearl"). Many materials have been employed in knife handles.
+, Indonesia)]] More exotic materials usually only seen on art or ceremonial knives include: Stone, bone, mammoth tooth, mammoth ivory, oosik (walrus penis bone), walrus tusk, antler (often called stag in a knife context), sheep horn, buffalo horn, teeth, and mop (mother of pearl or "pearl"). Many materials have been employed in knife handles.
 
-Handles may be adapted to accommodate the needs of people with disabilities. For example, knife handles may be made thicker or with more cushioning for people with arthritis in their hands. A non-slip handle accommodates people with palmar hyperhidrosis. Birchbark_handle.jpg
+Handles may be adapted to accommodate the needs of people with disabilities. For example, knife handles may be made thicker or with more cushioning for people with arthritis in their hands. A non-slip handle accommodates people with palmar hyperhidrosis.
 
 
 Types
 
 Weapons
 
-Tuarknife.jpg knife.]] As a weapon, the knife is universally adopted as an essential tool. It is the essential element of a knife fight. For example:
+knife.]] As a weapon, the knife is universally adopted as an essential tool. It is the essential element of a knife fight. For example:
 
 -   Ballistic knife: A specialized combat knife with a detachable gas- or spring-propelled blade that can be fired to a distance of several feet or meters by pressing a trigger or switch on the handle.
 -   Bayonet: A knife-shaped close-quarters fighting weapon designed to attach to the muzzle of a rifle or similar weapon.
@@ -123,7 +123,7 @@ Sports equipment
 
 Utensils
 
-Old_Swiss_table_knives.JPG]] A primary aspect of the knife as a tool includes dining, used either in food preparation or as cutlery. Examples of this include:
+]] A primary aspect of the knife as a tool includes dining, used either in food preparation or as cutlery. Examples of this include:
 
 -   Bread knife: A knife with a serrated blade for cutting bread
 -   Boning knife: A knife used for removing the bones of poultry, meat, and fish.
@@ -141,12 +141,10 @@ Old_Swiss_table_knives.JPG]] A primary aspect of the knife as a tool includes di
 
 Tools
 
-Diving_knife.JPG]] As a utility tool the knife can take many forms, including:
+]] As a utility tool the knife can take many forms, including:
 
 -   Balisong: A folding knife also known as a "butterfly knife" or "_batangas_", with two handles counter-rotating around the tang such that, when closed, the blade is hidden within the handles.
 -   Bowie knife: Commonly, any large sheath knife, or a specific style of large knife popularized by Jim Bowie.
-
-Arbelos_Shoemakers_Knife.jpg
 
 -   Bushcraft knife: A sturdy, normally fixed blade knife used while camping in the wilderness.
 -   Camping Knife: A camping knife is used for camping and survival purposes in a wilderness environment.
@@ -175,8 +173,6 @@ Arbelos_Shoemakers_Knife.jpg
 -   Wood carving knife and whittling knives: Knives used to shape wood in the arts of wood carving and whittling, often with short, thin replaceable blades for better control.
 -   X-Acto knife: A scalpel-like knife with a long handle and a replaceable pointed blade, used for precise, clean cutting in arts and crafts
 
-Japanese-Letter-Opener.jpg
-
 Traditional or religious implements
 
 -   Athame: A typically black-handled and double-edged ritual knife used in Wicca and other derivative forms of Neopagan witchcraft. (see also Boline).
@@ -194,7 +190,7 @@ Traditional or religious implements
 
 Rituals and superstitions
 
-The_Sacrifice_of_Isaac_by_Caravaggio.jpg'' by Caravaggio, (1590–1610; Oil on canvas; Uffizi). Abraham is holding the sacrificial knife.]] The knife plays a significant role in some cultures through ritual and superstition, as the knife was an essential tool for survival since early man.[27] Knife symbols can be found in various cultures to symbolize all stages of life; for example, a knife placed under the bed while giving birth is said to ease the pain, or, stuck into the headboard of a cradle, to protect the baby;[28][29] knives were included in some Anglo-Saxon burial rites, so the dead would not be defenseless in the next world.[30][31][32] The knife plays an important role in some initiation rites, and many cultures perform rituals with a variety of knives, including the ceremonial sacrifices of animals.[33] Samurai warriors, as part of bushido, could perform ritual suicide, or seppuku, with a tantō, a common Japanese knife.[34] An athame, a ceremonial knife, is used in Wicca and derived forms of neopagan witchcraft.[35][36]
+'' by Caravaggio, (1590–1610; Oil on canvas; Uffizi). Abraham is holding the sacrificial knife.]] The knife plays a significant role in some cultures through ritual and superstition, as the knife was an essential tool for survival since early man.[27] Knife symbols can be found in various cultures to symbolize all stages of life; for example, a knife placed under the bed while giving birth is said to ease the pain, or, stuck into the headboard of a cradle, to protect the baby;[28][29] knives were included in some Anglo-Saxon burial rites, so the dead would not be defenseless in the next world.[30][31][32] The knife plays an important role in some initiation rites, and many cultures perform rituals with a variety of knives, including the ceremonial sacrifices of animals.[33] Samurai warriors, as part of bushido, could perform ritual suicide, or seppuku, with a tantō, a common Japanese knife.[34] An athame, a ceremonial knife, is used in Wicca and derived forms of neopagan witchcraft.[35][36]
 
 In Greece, a black-handled knife placed under the pillow is used to keep away nightmares.[37] As early as 1646 reference is made to a superstition of laying a knife across another piece of cutlery being a sign of witchcraft.[38] A common belief is that if a knife is given as a gift, the relationship of the giver and recipient will be severed. Something such as a small coin, dove or a valuable item is exchanged for the gift, rendering "payment."[39]
 

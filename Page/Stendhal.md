@@ -5,7 +5,7 @@ Life
 
 Born in Grenoble, Isère, he was an unhappy child, disliking his "unimaginative" father and mourning his mother, whom he passionately loved, and who died when he was seven. His closest friend was his younger sister, Pauline, with whom he maintained a steady correspondence throughout the first decade of the 19th century.
 
-Casa_di_Stendhal.JPG where Stendhal stayed in December 1812 during Napoleon's retreat from Russia.]] The military and theatrical worlds of the First French Empire were a revelation to Beyle. He was named an auditor with the Conseil d'État on 3 August 1810, and thereafter took part in the French administration and in the Napoleonic wars in Italy. He travelled extensively in Germany and was part of Napoleon's army in the 1812 invasion of Russia.[5]
+where Stendhal stayed in December 1812 during Napoleon's retreat from Russia.]] The military and theatrical worlds of the First French Empire were a revelation to Beyle. He was named an auditor with the Conseil d'État on 3 August 1810, and thereafter took part in the French administration and in the Napoleonic wars in Italy. He travelled extensively in Germany and was part of Napoleon's army in the 1812 invasion of Russia.[5]
 
 Stendhal witnessed the burning of Moscow from just outside the city. Stendhal was appointed Commissioner of War Supplies and sent to Smolensk to prepare provisions for the returning army. He crossed the Berezina River by finding a usable ford rather than the overwhelmed pontoon bridge, which probably saved his life and those of his companions. Stendhal arrived in Paris in 1813, largely unaware of the general fiasco that the retreat had become.[6] Stendhal became known, during the Russian campaign, for keeping his wits about him, and maintaining his "sang-froid and clear-headedness." He also maintained his daily routine, shaving each day during the retreat from Moscow.[7]
 
@@ -85,8 +85,6 @@ His other works include short stories, journalism, travel books (_A Roman Journa
 Crystallization
 
 In Stendhal's 1822 classic _On Love_ he describes or compares the "birth of love", in which the love object is 'crystallized' in the mind, as being a process similar or analogous to a trip to Rome. In the analogy, the city of Bologna represents _indifference_ and Rome represents _perfect love_:
-
-Crystallization.jpg
 
 When we are in Bologna, we are entirely indifferent; we are not concerned to admire in any particular way the person with whom we shall perhaps one day be madly in love; even less is our imagination inclined to overrate their worth. In a word, in Bologna "crystallization" has not yet begun. When the journey begins, love departs. One leaves Bologna, climbs the Apennines, and takes the road to Rome. The departure, according to Stendhal, has nothing to do with one's will; it is an instinctive moment. This transformative process actuates in terms of four steps along a journey:
 

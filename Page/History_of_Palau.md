@@ -1,4 +1,4 @@
-Palau-CIA_WFB_Map.png]] Palau was initially settled around 1000 BC.
+]] Palau was initially settled around 1000 BC.
 
 For the first time, Palau was probably sighted by Europeans early as 1522, when the Spanish mission of the Trinidad, the flagship of Ferdinand Magellan's voyage of circumnavigation, sighted two small islands around the 5th parallel north, naming them "San Juan" without visiting them.
 
@@ -25,7 +25,7 @@ For thousands of years, Palauans have had a well established matrilineal society
 
 European contact and discovery in 1696
 
-View_of_part_of_the_town_of_Pelew_cph.3b32619.jpg There still is a debate whether the islands were or were not seen by some of the early European discoverers in the 16th century. Historians take note of the early navigational routes of European explorers in the Pacific. There is disagreement as to whether Spaniard Ruy López de Villalobos, who landed in several Caroline Islands, spotted the Palau archipelago in 1543. No conclusive evidence exists, but some believe he could have seen the tip of a southernmost island in the group.
+There still is a debate whether the islands were or were not seen by some of the early European discoverers in the 16th century. Historians take note of the early navigational routes of European explorers in the Pacific. There is disagreement as to whether Spaniard Ruy López de Villalobos, who landed in several Caroline Islands, spotted the Palau archipelago in 1543. No conclusive evidence exists, but some believe he could have seen the tip of a southernmost island in the group.
 
 Nevertheless, the true and conscious discovery of Palau came a century later in December 1696, when a group of islanders shipwrecked on the Philippines island of Samar. They were interviewed by the Czech missionary Paul Klein on 28 December 1696. Klein was not only able to draw the first map of Palau based on a drawing and a set of pebbles on the beach but also to send an important letter in June 1697[6] to Europe. This map and the letter caused a vast interest in the new islands and resulted in the first and failed Jesuit attempts to travel to Palau from the Philippines in 1700, 1708 and 1709.[7]
 
@@ -38,19 +38,19 @@ Englishman Henry Wilson, captain of the East India Company's packet ship _Antelo
 
 Spanish rule
 
-HH1883_pg141_Aba_Thule,_König_von_Palao.jpg Islas_Marianas_Palaos_y_Carolinas.JPG, including Palau Islands (map without Philippines)]] In the late 19th century, possession of the islands was claimed by Britain, Spain, and Imperial Germany. In 1885, the matter was brought to Pope Leo XIII for a decision. The Pope recognized the Spanish claim, but granted economic concessions to Britain and Germany. Palau then became part of the Spanish East Indies, along with the Mariana Islands, the Marshall Islands. and the rest of the Caroline Islands. They were all administered from the Philippines.
+, including Palau Islands (map without Philippines)]] In the late 19th century, possession of the islands was claimed by Britain, Spain, and Imperial Germany. In 1885, the matter was brought to Pope Leo XIII for a decision. The Pope recognized the Spanish claim, but granted economic concessions to Britain and Germany. Palau then became part of the Spanish East Indies, along with the Mariana Islands, the Marshall Islands. and the rest of the Caroline Islands. They were all administered from the Philippines.
 
 After being defeated in 1898 in the Spanish–American War and losing possession of the Philippine Islands, Spain sold the Palau archipelago to Imperial Germany in the 1899 German–Spanish Treaty.[9][10]
 
 
 German era
 
-Palau-Inseln.jpg, from _Das Buch von unseren Kolonien_ by Ottomar Beta (Leipzig, 1908)]] Koror_chiefs_in_1915.jpg Palau was administered from German New Guinea, and a period of economic development began. German engineers began exploiting the islands' deposits of bauxite and phosphate, and a rich harvest in copra was made.
+, from _Das Buch von unseren Kolonien_ by Ottomar Beta (Leipzig, 1908)]] Palau was administered from German New Guinea, and a period of economic development began. German engineers began exploiting the islands' deposits of bauxite and phosphate, and a rich harvest in copra was made.
 
 
 Japanese mandate
 
-Koror_in_the_Japanese_Period.JPG during the Japanese Mandate]] The_Headquarters_of_the_South_Pacific_Mandate.JPG Under the terms of the Anglo-Japanese Alliance, the Empire of Japan declared war on the German Empire in 1914 and invaded German overseas territories in the Pacific Ocean. Palau was seized by ships of the Japanese navy. After the war, the League of Nations awarded Palau to Japan as a Class C League of Nations Mandate.[11]
+during the Japanese Mandate]] Under the terms of the Anglo-Japanese Alliance, the Empire of Japan declared war on the German Empire in 1914 and invaded German overseas territories in the Pacific Ocean. Palau was seized by ships of the Japanese navy. After the war, the League of Nations awarded Palau to Japan as a Class C League of Nations Mandate.[11]
 
 Japan incorporated the islands as an integral part of its empire, establishing the Nanyo-cho government with Koror Island as the capital.[12] From 1914 to 1922, the Japanese Imperial Navy had been in control. Civilian control was introduced from 1922, and Palau was one of six administrative districts within the Mandate. Japan mounted an aggressive economic development program and promoted large scale immigration by Japanese, Okinawans and Koreans. Native Palauans soon became a small minority in their own homeland. The Japanese continued the German mining activities, and also established bonito (skipjack tuna) canning and copra processing plants in Palau.
 
@@ -62,11 +62,9 @@ The Japanese presence made Palau a major target for the Allied forces in World W
 
 Post-war development
 
-Palau_Museum_Bai_in_1970s.jpg Vote_No_sign,_Micronesian_constitutional_referendum_in_Palau.jpg in Palau, 1979]]
+in Palau, 1979]]
 
 In 1947, the United Nations decided the United States would administer Palau as part of the Trust Territory of the Pacific Islands. In 1979, Palauans voted against joining the Federated States of Micronesia, the Marshall Islands and the Marianas (except Guam) because of language and cultural differences. A long period of transition occurred between 1979 and 1994, specifically in the capital, Koror, on the topic of relations with the United States. After a long period of transition, including the violent deaths of two presidents (Haruo Remeliik in 1985 and Lazarus Salii in 1988), Palau voted in 1994 to freely associate with the United States while retaining independence under the Compact of Free Association.
-
-Capitol-complex-melekeok-palau20071220_crop.jpg
 
 
 See also

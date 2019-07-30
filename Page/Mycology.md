@@ -1,4 +1,4 @@
-Mycena_leaiana_var._australis.jpg are considered a kind of fungal reproductive organism.]]
+are considered a kind of fungal reproductive organism.]]
 
 MYCOLOGY is the branch of biology concerned with the study of fungi, including their genetic and biochemical properties, their taxonomy and their use to humans as a source for tinder, medicine, food, and entheogens, as well as their dangers, such as toxicity or infection.
 

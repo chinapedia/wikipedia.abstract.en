@@ -47,8 +47,6 @@ The client authenticates itself to the SERVER (AS) which forwards the username t
 
 When the client needs to communicate with another node ("principal" in Kerberos parlance) to some service on that node the client sends the TGT to the TGS, which usually shares the same host as the KDC. Service must be registered at TGT with a SERVICE PRINCIPAL NAME (SPN). The client uses the SPN to request access to this service. After verifying that the TGT is valid and that the user is permitted to access the requested service, the TGS issues ticket and session keys to the client. The client then sends the ticket to the SERVICE SERVER (SS) along with its service request.
 
-Kerberos.svg
-
 The protocol is described in detail below.
 
 User Client-based Logon

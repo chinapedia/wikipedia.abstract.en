@@ -26,9 +26,9 @@ Carl Troll has argued that the development of the Inca state in the central Ande
 
 Origin
 
-Manqu_Qhapaqwan_Mama_Uqllu.gif]] The Inca people were a pastoral tribe in the Cusco area around the 12th century. Incan oral history tells an origin story of three caves. The center cave at Tampu T'uqu _(Tambo Tocco)_ was named Qhapaq T'uqu ("principal niche", also spelled _Capac Tocco_). The other caves were Maras T'uqu _(Maras Tocco)_ and Sutiq T'uqu _(Sutic Tocco)_. Four brothers and four sisters stepped out of the middle cave. They were: Ayar Manco, Ayar Cachi, Ayar Awqa _(Ayar Auca)_ and Ayar Uchu; and Mama Ocllo, Mama Raua, Mama Huaco and Mama Qura _(Mama Cora)_. Out of the side caves came the people who were to be the ancestors of all the Inca clans.
+]] The Inca people were a pastoral tribe in the Cusco area around the 12th century. Incan oral history tells an origin story of three caves. The center cave at Tampu T'uqu _(Tambo Tocco)_ was named Qhapaq T'uqu ("principal niche", also spelled _Capac Tocco_). The other caves were Maras T'uqu _(Maras Tocco)_ and Sutiq T'uqu _(Sutic Tocco)_. Four brothers and four sisters stepped out of the middle cave. They were: Ayar Manco, Ayar Cachi, Ayar Awqa _(Ayar Auca)_ and Ayar Uchu; and Mama Ocllo, Mama Raua, Mama Huaco and Mama Qura _(Mama Cora)_. Out of the side caves came the people who were to be the ancestors of all the Inca clans.
 
-Brooklyn_Museum_-_Manco_Capac,_First_Inca,_1_of_14_Portraits_of_Inca_Kings_-_overall.jpg, First Inca, 1 of 14 Portraits of Inca Kings, Probably mid-18th century. Oil on canvas. Brooklyn Museum]]
+, First Inca, 1 of 14 Portraits of Inca Kings, Probably mid-18th century. Oil on canvas. Brooklyn Museum]]
 
 Ayar Manco carried a magic staff made of the finest gold. Where this staff landed, the people would live. They traveled for a long time. On the way, Ayar Cachi boasted about his strength and power. His siblings tricked him into returning to the cave to get a sacred llama. When he went into the cave, they trapped him inside to get rid of him.
 
@@ -40,7 +40,7 @@ After that, Ayar Manco became known as Manco Cápac, the founder of the Inca. It
 
 Kingdom of Cusco
 
-Inca_Expansion.svg Under the leadership of Manco Cápac, the Inca formed the small city-state Kingdom of Cusco (Quechua _Qusqu', Qosqo_). In 1438, they began a far-reaching expansion under the command of Sapa Inca (paramount leader) Pachacuti-Cusi Yupanqui, whose name literally meant "earth-shaker". The name of Pachacuti was given to him after he conquered the Tribe of Chancas (modern Apurímac). During his reign, he and his son Tupac Yupanqui brought much of the modern-day territory of Peru under Inca control.[18]
+Under the leadership of Manco Cápac, the Inca formed the small city-state Kingdom of Cusco (Quechua _Qusqu', Qosqo_). In 1438, they began a far-reaching expansion under the command of Sapa Inca (paramount leader) Pachacuti-Cusi Yupanqui, whose name literally meant "earth-shaker". The name of Pachacuti was given to him after he conquered the Tribe of Chancas (modern Apurímac). During his reign, he and his son Tupac Yupanqui brought much of the modern-day territory of Peru under Inca control.[18]
 
 Reorganization and formation
 
@@ -64,7 +64,7 @@ The Inca Empire was an amalgamation of languages, cultures and peoples. The comp
 
 Inca Civil War and Spanish conquest
 
-Capitulo-XXXVIII.jpg, _Cronica del Peru_, 1553]] Spanish conquistadors led by Francisco Pizarro and his brothers explored south from what is today Panama, reaching Inca territory by 1526.[30] It was clear that they had reached a wealthy land with prospects of great treasure, and after another expedition in 1529 Pizarro traveled to Spain and received royal approval to conquer the region and be its viceroy. This approval was received as detailed in the following quote: "In July 1529 the Queen of Spain signed a charter allowing Pizarro to conquer the Incas. Pizarro was named governor and captain of all conquests in Peru, or New Castile, as the Spanish now called the land."[31]
+, _Cronica del Peru_, 1553]] Spanish conquistadors led by Francisco Pizarro and his brothers explored south from what is today Panama, reaching Inca territory by 1526.[30] It was clear that they had reached a wealthy land with prospects of great treasure, and after another expedition in 1529 Pizarro traveled to Spain and received royal approval to conquer the region and be its viceroy. This approval was received as detailed in the following quote: "In July 1529 the Queen of Spain signed a charter allowing Pizarro to conquer the Incas. Pizarro was named governor and captain of all conquests in Peru, or New Castile, as the Spanish now called the land."[31]
 
 When the conquistadors returned to Peru in 1532, a war of succession between the sons of Sapa Inca Huayna Capac, Huáscar and Atahualpa, and unrest among newly conquered territories weakened the empire. Perhaps more importantly, smallpox, influenza, typhus and measles had spread from Central America.
 
@@ -80,7 +80,7 @@ Although "defeat" often implies an unwanted loss in battle, much of the Inca eli
 
 Last Incas
 
-Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg, the last Sapa Inca of the empire, was executed by the Spanish on 29 August 1533]] Over_Machu_Picchu.jpg]] Peru_-_Cusco_Sacred_Valley_&_Incan_Ruins_005_-_Sacsaywamán_(6948620856).jpg, the Inca stronghold of Cusco]] The Spanish installed Atahualpa's brother Manco Inca Yupanqui in power; for some time Manco cooperated with the Spanish while they fought to put down resistance in the north. Meanwhile, an associate of Pizarro, Diego de Almagro, attempted to claim Cusco. Manco tried to use this intra-Spanish feud to his advantage, recapturing Cusco in 1536, but the Spanish retook the city afterwards. Manco Inca then retreated to the mountains of Vilcabamba and established the small Neo-Inca State, where he and his successors ruled for another 36 years, sometimes raiding the Spanish or inciting revolts against them. In 1572 the last Inca stronghold was conquered and the last ruler, Túpac Amaru, Manco's son, was captured and executed. This ended resistance to the Spanish conquest under the political authority of the Inca state.
+, the last Sapa Inca of the empire, was executed by the Spanish on 29 August 1533]] ]] , the Inca stronghold of Cusco]] The Spanish installed Atahualpa's brother Manco Inca Yupanqui in power; for some time Manco cooperated with the Spanish while they fought to put down resistance in the north. Meanwhile, an associate of Pizarro, Diego de Almagro, attempted to claim Cusco. Manco tried to use this intra-Spanish feud to his advantage, recapturing Cusco in 1536, but the Spanish retook the city afterwards. Manco Inca then retreated to the mountains of Vilcabamba and established the small Neo-Inca State, where he and his successors ruled for another 36 years, sometimes raiding the Spanish or inciting revolts against them. In 1572 the last Inca stronghold was conquered and the last ruler, Túpac Amaru, Manco's son, was captured and executed. This ended resistance to the Spanish conquest under the political authority of the Inca state.
 
 After the fall of the Inca Empire many aspects of Inca culture were systematically destroyed, including their sophisticated farming system, known as the vertical archipelago model of agriculture. Spanish colonial officials used the Inca mita corvée labor system for colonial aims, sometimes brutally. One member of each family was forced to work in the gold and silver mines, the foremost of which was the titanic silver mine at Potosí. When a family member died, which would usually happen within a year or two, the family was required to send a replacement.
 
@@ -105,7 +105,7 @@ The Incas were not known to develop a written form of communication; however, th
 
 Age and defining gender
 
-Llullaillaco_mummies_in_Salta_city,_Argentina.jpg, Inca human sacrifice, Salta province (Argentina)]] The high infant mortality rates that plagued the Inca Empire caused newborn infants to solely be given the term ‘wawa’ when they were born. Most families did not invest very much into their child until they reached the age of two or three years old. Once the child reached the age of three, a ‘coming of age’ ceremony occurred, called the _rutuchikuy_. For the Incas, this ceremony indicated that the child had entered the stage of ‘ignorance’. During this ceremony the family would invite all relatives to their house for food and dance and then each member of the family would receive a lock of hair from the child. After each family member had received a lock of hair, the father would then shave the child's head. According to Covey, this stage of life was categorized by a stage of "ignorance, inexperience, and lack of reason, a condition that the child would overcome with time."[40] For the Incan society, in order to advance from the stage of ignorance to development the child must learn the roles around the family associated with their gender.
+, Inca human sacrifice, Salta province (Argentina)]] The high infant mortality rates that plagued the Inca Empire caused newborn infants to solely be given the term ‘wawa’ when they were born. Most families did not invest very much into their child until they reached the age of two or three years old. Once the child reached the age of three, a ‘coming of age’ ceremony occurred, called the _rutuchikuy_. For the Incas, this ceremony indicated that the child had entered the stage of ‘ignorance’. During this ceremony the family would invite all relatives to their house for food and dance and then each member of the family would receive a lock of hair from the child. After each family member had received a lock of hair, the father would then shave the child's head. According to Covey, this stage of life was categorized by a stage of "ignorance, inexperience, and lack of reason, a condition that the child would overcome with time."[40] For the Incan society, in order to advance from the stage of ignorance to development the child must learn the roles around the family associated with their gender.
 
 The next important ritual was to celebrate the maturity of a child. Unlike the previous ritual ceremony, the celebration of maturity signified the child's sexual potency. In the western world this ceremony would be known as a celebration of puberty, however for the Incas it was called _warachikuy_ for boys and _qikuchikuy_ for girls. The _warachikuy_ ceremony included dancing, fasting, tasks to show their strength, and family ceremonies. The boy would also be given new clothes and taught how to act as an unmarried man. On the other hand, the girls ceremony _qikuchikuy_ signified the onset of menstruation, therefore the girl would go into the forest alone and not return until the bleeding had ended. In the forest she would fast, and upon arrival the girl would be given a new name, adult clothing, and advice. This 'folly' stage of life was important because this was the time the young adults could have sex without having to be a parent.[41]
 
@@ -136,8 +136,6 @@ In the eyes of the Inca, male and female roles were considered equal. The "indig
 
 Religion
 
-Cabeza_de_Viracocha,_Museo_de_América.jpg
-
 Inca myths were transmitted orally until early Spanish colonists recorded them; however, some scholars claim that they were recorded on quipus, Andean knotted string records.[58]
 
 The Inca believed in reincarnation.[59] After death, the passage to the next world was fraught with difficulties. The spirit of the dead, _camaquen,_ would need to follow a long road and during the trip the assistance of a black dog that could see in the dark was required. Most Incas imagined the after world to be like an earthly paradise with flower-covered fields and snow-capped mountains.
@@ -148,7 +146,7 @@ The Incas made human sacrifices. As many as 4,000 servants, court officials, fav
 
 Deities
 
-Viracocha.jpg, is the great creator god in Inca mythology]] The Incas were polytheists who worshipped many gods. These included:
+, is the great creator god in Inca mythology]] The Incas were polytheists who worshipped many gods. These included:
 
 -   Viracocha (also Pachacamac) – Created all living things
 -   Apu Illapu – Rain God, prayed to when they need rain
@@ -167,7 +165,7 @@ Viracocha.jpg, is the great creator god in Inca mythology]] The Incas were polyt
 
 Economy
 
-Trabajo-inca8.jpg using a _chakitaqlla_ (Andean foot plough)]]
+using a _chakitaqlla_ (Andean foot plough)]]
 
 The Inca Empire employed central planning. The Inca Empire traded with outside regions, although they did not operate a substantial internal market economy. While axe-monies were used along the northern coast, presumably by the provincial _mindaláe_ trading class,[64] most households in the empire lived in a traditional economy in which households were required to pay taxes, usually in the form of the _mit'a_ corvée labor, and military obligations,[65] though barter (or _trueque_) was present in some areas. In return, the state provided security, food in times of hardship through the supply of emergency resources, agricultural projects (e.g. aqueducts and terraces) to increase productivity and occasional feasts. The economy rested on the material foundations of the vertical archipelago, a system of ecological complementarity in accessing resources[66] and the cultural foundation of _ayni_, or reciprocal exchange.[67][68]
 
@@ -176,19 +174,17 @@ Government
 
 Beliefs
 
-José_Bernardo_de_Tagle_Inti.svg, as represented by José Bernardo de Tagle of Peru]] The Sapa Inca was conceptualized as divine and was effectively head of the state religion. The _Willaq Umu_ (or Chief Priest) was second to the emperor. Local religious traditions continued and in some cases such as the Oracle at Pachacamac on the Peruvian coast, were officially venerated. Following Pachacuti, the Sapa Inca claimed descent from Inti, who placed a high value on imperial blood; by the end of the empire, it was common to incestuously wed brother and sister. He was "son of the sun," and his people the _intip churin_, or "children of the sun," and both his right to rule and mission to conquer derived from his holy ancestor. The Sapa Inca also presided over ideologically important festivals, notably during the _Inti Raymi_, or "Sunfest" attended by soldiers, mummified rulers, nobles, clerics and the general population of Cusco beginning on the June solstice and culminating nine days later with the ritual breaking of the earth using a foot plow by the Inca. Moreover, Cusco was considered cosmologically central, loaded as it was with _huacas_ and radiating _ceque_ lines and geographic center of the Four-Quarters; Inca Garcilaso de la Vega called it "the navel of the universe".[69]
+, as represented by José Bernardo de Tagle of Peru]] The Sapa Inca was conceptualized as divine and was effectively head of the state religion. The _Willaq Umu_ (or Chief Priest) was second to the emperor. Local religious traditions continued and in some cases such as the Oracle at Pachacamac on the Peruvian coast, were officially venerated. Following Pachacuti, the Sapa Inca claimed descent from Inti, who placed a high value on imperial blood; by the end of the empire, it was common to incestuously wed brother and sister. He was "son of the sun," and his people the _intip churin_, or "children of the sun," and both his right to rule and mission to conquer derived from his holy ancestor. The Sapa Inca also presided over ideologically important festivals, notably during the _Inti Raymi_, or "Sunfest" attended by soldiers, mummified rulers, nobles, clerics and the general population of Cusco beginning on the June solstice and culminating nine days later with the ritual breaking of the earth using a foot plow by the Inca. Moreover, Cusco was considered cosmologically central, loaded as it was with _huacas_ and radiating _ceque_ lines and geographic center of the Four-Quarters; Inca Garcilaso de la Vega called it "the navel of the universe".[69]
 
 Organization of the empire
 
-Inca_Chile1.1.JPG or Maipo River (scholars differ).[70] Inca troops never crossed the Bío Bío River.]]
+or Maipo River (scholars differ).[70] Inca troops never crossed the Bío Bío River.]]
 
 The Inca Empire was a federalist system consisting of a central government with the Inca at its head and four-quarters, or _suyu_: Chinchay Suyu (NW), Anti Suyu (NE), Kunti Suyu (SW) and Qulla Suyu (SE). The four corners of these quarters met at the center, Cusco. These _suyu_ were likely created around 1460 during the reign of Pachacuti before the empire reached its largest territorial extent. At the time the _suyu_ were established they were roughly of equal size and only later changed their proportions as the empire expanded north and south along the Andes.[71]
 
 Cusco was likely not organized as a _wamani_, or province. Rather, it was probably somewhat akin to a modern federal district, like Washington, DC or Mexico City. The city sat at the center of the four _suyu_ and served as the preeminent center of politics and religion. While Cusco was essentially governed by the Sapa Inca, his relatives and the royal _panaqa_ lineages, each _suyu_ was governed by an _Apu_, a term of esteem used for men of high status and for venerated mountains. Both Cusco as a district and the four _suyu_ as administrative regions were grouped into upper _hanan_ and lower _hurin_ divisions. As the Inca did not have written records, it is impossible to exhaustively list the constituent _wamani_. However, colonial records allow us to reconstruct a partial list. There were likely more than 86 _wamani_, with more than 48 in the highlands and more than 38 on the coast.[72]
 
 Suyu
-
-Inca_Empire_South_America.png
 
 The most populous _suyu_ was Chinchaysuyu, which encompassed the former Chimu empire and much of the northern Andes. At its largest extent, it extended through much of modern Ecuador and into modern Colombia.
 
@@ -235,7 +231,7 @@ This process was first used on a large scale by the Pucara (c. 300 BC–AD 300) 
 
 Measures, calendrics and mathematics
 
-Tupa-inca-tunic.png All-tocapu-sin-BV.png. Textiles worn by the Inca elite consisting of geometric figures enclosed by rectangles or squares. There is evidence that the designs were an ideographic language]] Inca._Quipu.jpg]]
+. Textiles worn by the Inca elite consisting of geometric figures enclosed by rectangles or squares. There is evidence that the designs were an ideographic language]] ]]
 
 Physical measures used by the Inca were based on human body parts. Units included fingers, the distance from thumb to forefinger, palms, cubits and wingspans. The most basic distance unit was _thatkiy_ or _thatki_, or one pace. The next largest unit was reported by Cobo to be the _topo_ or _tupu_, measuring 6,000 _thatkiy_s, or about ; careful study has shown that a range of is likely. Next was the _wamani_, composed of 30 _topo_s (roughly ). To measure area, 25 by 50 wingspans were used, reckoned in _topo_s (roughly ). It seems likely that distance was often interpreted as one day's walk; the distance between _tambo_ way-stations varies widely in terms of distance, but far less in terms of time to walk that distance.
 
@@ -247,7 +243,7 @@ According to mid-17th-century Jesuit chronicler Bernabé Cobo,[78] the Inca desi
 
 Ceramics, precious metals and textiles
 
-Camelid_Conopa,_1470-1532,_36.683.jpg, Small stone figurines, or _conopas_, of llamas and alpacas were the most common ritual effigies used in the highlands of Peru and Bolivia. These devotional objects were often buried in the animals' corrals to bring protection and prosperity to their owners and fertility to the herds. The cylindrical cavities in their backs were filled with offerings to the gods in the form of a mixture including animal fat, coca leaves, maize kernels and seashells. ]]
+, Small stone figurines, or _conopas_, of llamas and alpacas were the most common ritual effigies used in the highlands of Peru and Bolivia. These devotional objects were often buried in the animals' corrals to bring protection and prosperity to their owners and fertility to the herds. The cylindrical cavities in their backs were filled with offerings to the gods in the form of a mixture including animal fat, coca leaves, maize kernels and seashells. ]]
 
 Ceramics were painted using the polychrome technique portraying numerous motifs including animals, birds, waves, felines (popular in the Chavin culture) and geometric patterns found in the Nazca style of ceramics. In a culture without a written language, ceramics portrayed the basic scenes of everyday life, including the smelting of metals, relationships and scenes of tribal warfare. The most distinctive Inca ceramic objects are the Cusco bottles or "aryballos".[81] Many of these pieces are on display in Lima in the Larco Archaeological Museum and the National Museum of Archaeology, Anthropology and History.
 
@@ -261,13 +257,13 @@ The Inca made many discoveries in medicine.[83] They performed successful skull 
 
 Coca
 
-Erythroxylum-coca-foliage2.jpg leaves]]
+leaves]]
 
 The Incas revered the coca plant as sacred/magical. Its leaves were used in moderate amounts to lessen hunger and pain during work, but were mostly used for religious and health purposes.[85] The Spaniards took advantage of the effects of chewing coca leaves.[86] The Chasqui, messengers who ran throughout the empire to deliver messages, chewed coca leaves for extra energy. Coca leaves were also used as an anaesthetic during surgeries.
 
 Weapons, armor and warfare
 
-MapvsInc.JPG between the Incas (right) and the Mapuches (left)]] The Inca army was the most powerful at that time, because any ordinary villager or farmer could be recruited as a soldier as part of the _mit'a_ system of mandatory public service. Every able bodied male Inca of fighting age had to take part in war in some capacity at least once and to prepare for warfare again when needed. By the time the empire reached its largest size, every section of the empire contributed in setting up an army for war.
+between the Incas (right) and the Mapuches (left)]] The Inca army was the most powerful at that time, because any ordinary villager or farmer could be recruited as a soldier as part of the _mit'a_ system of mandatory public service. Every able bodied male Inca of fighting age had to take part in war in some capacity at least once and to prepare for warfare again when needed. By the time the empire reached its largest size, every section of the empire contributed in setting up an army for war.
 
 The Incas had no iron or steel and their weapons were not much more effective than those of their opponents so they often defeated opponents by sheer force of numbers, or else by persuading them to surrender beforehand by offering generous terms.[87] Inca weaponry included "hardwood spears launched using throwers, arrows, javelins, slings, the bolas, clubs, and maces with star-shaped heads made of copper or bronze."[88][89] Rolling rocks downhill onto the enemy was a common strategy, taking advantage of the hilly terrain.[90] Fighting was sometimes accompanied by drums and trumpets made of wood, shell or bone.[91][92] Armor included:[93][94]
 

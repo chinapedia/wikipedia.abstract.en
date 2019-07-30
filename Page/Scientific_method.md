@@ -1,4 +1,4 @@
-David_Deutsch.jpg with David Deutsch, proponent of invariant scientific explanations. _See § DNA example_ below.]] The SCIENTIFIC METHOD is an empirical method of acquiring knowledge that has characterized the development of science since at least the 17th century. It involves careful observation, applying rigorous skepticism about what is observed, given that cognitive assumptions can distort how one interprets the observation. It involves formulating hypotheses, via induction, based on such observations; experimental and measurement-based testing of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are _principles_ of the scientific method, as distinguished from a definitive series of steps applicable to all scientific enterprises.[1][2][3]
+with David Deutsch, proponent of invariant scientific explanations. _See § DNA example_ below.]] The SCIENTIFIC METHOD is an empirical method of acquiring knowledge that has characterized the development of science since at least the 17th century. It involves careful observation, applying rigorous skepticism about what is observed, given that cognitive assumptions can distort how one interprets the observation. It involves formulating hypotheses, via induction, based on such observations; experimental and measurement-based testing of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are _principles_ of the scientific method, as distinguished from a definitive series of steps applicable to all scientific enterprises.[1][2][3]
 
 Though diverse models for the scientific method are available, there is in general a continuous PROCESS that includes observations about the natural world. People are naturally inquisitive, so they often come up with questions about things they see or hear, and they often develop ideas or hypotheses about why things are the way they are. The best hypotheses lead to predictions that can be tested in various ways. The most conclusive testing of hypotheses comes from reasoning based on carefully controlled experimental data. Depending on how well additional tests match the predictions, the original hypothesis may require refinement, alteration, expansion or even rejection. If a particular hypothesis becomes very well supported, a general theory may be developed.[4]
 
@@ -61,7 +61,7 @@ This involves determining what the results of the experiment show and deciding o
 
 DNA example
 
-DNA_icon_(25x25).png The basic elements of the scientific method are illustrated by the following example from the discovery of the structure of DNA:
+The basic elements of the scientific method are illustrated by the following example from the discovery of the structure of DNA:
 
 -   _Question_: Previous investigation of DNA had determined its chemical composition (the four nucleotides), the structure of each individual nucleotide, and other properties. It had been identified as the carrier of genetic information by the Avery–MacLeod–McCarty experiment in 1944,[41] but the mechanism of how genetic information was stored in DNA was unclear.
 -   _Hypothesis_: Linus Pauling, Francis Crick and James D. Watson hypothesized that DNA had a helical structure.[42]
@@ -171,11 +171,11 @@ New theories are sometimes developed after realizing certain terms have not prev
 
 DNA-characterizations
 
-DNA_icon_(25x25).png The history of the discovery of the structure of DNA is a classic example of the elements of the scientific method: in 1950 it was known that genetic inheritance had a mathematical description, starting with the studies of Gregor Mendel, and that DNA contained genetic information (Oswald Avery's _transforming principle_).[74] But the mechanism of storing genetic information (i.e., genes) in DNA was unclear. Researchers in Bragg's laboratory at Cambridge University made X-ray diffraction pictures of various molecules, starting with crystals of salt, and proceeding to more complicated substances. Using clues painstakingly assembled over decades, beginning with its chemical composition, it was determined that it should be possible to characterize the physical structure of DNA, and the X-ray images would be the vehicle.[75] .._2. DNA-hypotheses_
+The history of the discovery of the structure of DNA is a classic example of the elements of the scientific method: in 1950 it was known that genetic inheritance had a mathematical description, starting with the studies of Gregor Mendel, and that DNA contained genetic information (Oswald Avery's _transforming principle_).[74] But the mechanism of storing genetic information (i.e., genes) in DNA was unclear. Researchers in Bragg's laboratory at Cambridge University made X-ray diffraction pictures of various molecules, starting with crystals of salt, and proceeding to more complicated substances. Using clues painstakingly assembled over decades, beginning with its chemical composition, it was determined that it should be possible to characterize the physical structure of DNA, and the X-ray images would be the vehicle.[75] .._2. DNA-hypotheses_
 
 Another example: precession of Mercury
 
-Perihelio.svg of the perihelion (exaggerated)]]
+of the perihelion (exaggerated)]]
 
 The characterization element can require extended and extensive study, even centuries. It took thousands of years of measurements, from the Chaldean, Indian, Persian, Greek, Arabic and European astronomers, to fully record the motion of planet Earth. Newton was able to include those measurements into consequences of his laws of motion. But the perihelion of the planet Mercury's orbit exhibits a precession that cannot be fully explained by Newton's laws of motion (see diagram to the right), as Leverrier pointed out in 1859. The observed difference for Mercury's precession between Newtonian theory and observation was one of the things that occurred to Albert Einstein as a possible early test of his theory of General relativity. His relativistic calculations matched observation much more closely than did Newtonian theory. The difference is approximately 43 arc-seconds per century.
 
@@ -195,7 +195,7 @@ To minimize the confirmation bias which results from entertaining a single hypot
 
 DNA-hypotheses
 
-DNA_icon_(25x25).png Linus Pauling proposed that DNA might be a triple helix.[79] This hypothesis was also considered by Francis Crick and James D. Watson but discarded. When Watson and Crick learned of Pauling's hypothesis, they understood from existing data that Pauling was wrong[80] and that Pauling would soon admit his difficulties with that structure. So, the race was on to figure out the correct structure (except that Pauling did not realize at the time that he was in a race) _..3. DNA-predictions_
+Linus Pauling proposed that DNA might be a triple helix.[79] This hypothesis was also considered by Francis Crick and James D. Watson but discarded. When Watson and Crick learned of Pauling's hypothesis, they understood from existing data that Pauling was wrong[80] and that Pauling would soon admit his difficulties with that structure. So, the race was on to figure out the correct structure (except that Pauling did not realize at the time that he was in a race) _..3. DNA-predictions_
 
 Predictions from the hypothesis
 
@@ -207,13 +207,13 @@ If the predictions are not accessible by observation or experience, the hypothes
 
 DNA-predictions
 
-DNA_icon_(25x25).png James D. Watson, Francis Crick, and others hypothesized that DNA had a helical structure. This implied that DNA's X-ray diffraction pattern would be 'x shaped'.[81][82] This prediction followed from the work of Cochran, Crick and Vand[83] (and independently by Stokes). The Cochran-Crick-Vand-Stokes theorem provided a mathematical explanation for the empirical observation that diffraction from helical structures produces x shaped patterns.
+James D. Watson, Francis Crick, and others hypothesized that DNA had a helical structure. This implied that DNA's X-ray diffraction pattern would be 'x shaped'.[81][82] This prediction followed from the work of Cochran, Crick and Vand[83] (and independently by Stokes). The Cochran-Crick-Vand-Stokes theorem provided a mathematical explanation for the empirical observation that diffraction from helical structures produces x shaped patterns.
 
 In their first paper, Watson and Crick also noted that the double helix structure they proposed provided a simple mechanism for DNA replication, writing, "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material".[84] '' ..4. DNA-experiments''
 
 Another example: general relativity
 
-Gravitational_lens-full.jpg]]
+]]
 
 Einstein's theory of General Relativity makes several specific predictions about the observable structure of space-time, such as that light bends in a gravitational field, and that the amount of bending depends in a precise way on the strength of that gravitational field. Arthur Eddington's observations made during a 1919 solar eclipse supported General Relativity rather than Newtonian gravitation.[85]
 
@@ -227,7 +227,7 @@ Scientists assume an attitude of openness and accountability on the part of thos
 
 DNA-experiments
 
-DNA_icon_(25x25).png Watson and Crick showed an initial (and incorrect) proposal for the structure of DNA to a team from Kings College – Rosalind Franklin, Maurice Wilkins, and Raymond Gosling. Franklin immediately spotted the flaws which concerned the water content. Later Watson saw Franklin's detailed X-ray diffraction images which showed an X-shape and was able to confirm the structure was helical.[88][89] This rekindled Watson and Crick's model building and led to the correct structure. _..1. DNA-characterizations_
+Watson and Crick showed an initial (and incorrect) proposal for the structure of DNA to a team from Kings College – Rosalind Franklin, Maurice Wilkins, and Raymond Gosling. Franklin immediately spotted the flaws which concerned the water content. Later Watson saw Franklin's detailed X-ray diffraction images which showed an X-shape and was able to confirm the structure was helical.[88][89] This rekindled Watson and Crick's model building and led to the correct structure. _..1. DNA-characterizations_
 
 Evaluation and improvement
 
@@ -237,7 +237,7 @@ Other scientists may start their own research and enter the process at any stage
 
 DNA-iterations
 
-DNA_icon_(25x25).png After considerable fruitless experimentation, being discouraged by their superior from continuing, and numerous false starts,[90][91][92] Watson and Crick were able to infer the essential structure of DNA by concrete modeling of the physical shapes of the nucleotides which comprise it.[93] "Suddenly I became aware that an adenine-thymine pair held together by two hydrogen bonds was identical in shape to a guanine-cytosine pair held together by at least two hydrogen bonds. ..." – .
+After considerable fruitless experimentation, being discouraged by their superior from continuing, and numerous false starts,[90][91][92] Watson and Crick were able to infer the essential structure of DNA by concrete modeling of the physical shapes of the nucleotides which comprise it.[93] "Suddenly I became aware that an adenine-thymine pair held together by two hydrogen bonds was identical in shape to a guanine-cytosine pair held together by at least two hydrogen bonds. ..." – .
 
 -   p. 57 Saturday, February 28, 1953, Watson tried 'like with like' and admitted these base pairs didn't have hydrogen bonds that line up. But after trying 'unlike with unlike', and getting Jerry Donohue's approval, the base pairs turned out to be identical in shape (as Watson stated above in his 1968 _Double Helix_ memoir quoted above). Watson now felt confident enough to inform Crick. (Of course, 'unlike with unlike' increases the number of possible codons, if this scheme were a genetic code.)
 

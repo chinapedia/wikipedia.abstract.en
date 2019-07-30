@@ -1,4 +1,4 @@
-Procession_of_the_Precious_Blood_of_Jesus_Christ-Bruges;_Mgr_Rauber_50.JPG, former nuncio to Belgium and Luxembourg]]
+, former nuncio to Belgium and Luxembourg]]
 
 An APOSTOLIC NUNCIO (also known as a PAPAL NUNCIO or simply as a NUNCIO) is an ecclesiastical diplomat, serving as an envoy or a permanent diplomatic representative of the Holy See to a state or to an international organization. A nuncio is appointed by and represents the Holy See, and is the head of the diplomatic mission, called an Apostolic Nunciature, which is the equivalent of an embassy. The Holy See is legally distinct from the Vatican City or the Catholic Church. A nuncio is usually an archbishop.
 

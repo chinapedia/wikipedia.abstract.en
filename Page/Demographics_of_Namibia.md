@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Namibia, inc
 
 Population
 
-Namibia-demography.png, year 2005; Number of inhabitants in thousands.]] Namibia_Population_Density_(2011).jpg
+, year 2005; Number of inhabitants in thousands.]]
 
 Census results
 
@@ -143,7 +143,7 @@ Languages
 -   Other African languages 2.3%
 -   Other 1.7%
 
-Nama_Woman_Smoking_Kalahari_Desert_Namibia_Luca_Galuzzi_2004.JPG woman]] Distribution_of_Oshiwambo_in_Namibia.png Distribution_of_Nama_(Damara)_in_Namibia.png Distribution_of_Afrikaans_in_Namibia.png Distribution_of_Otjiherero_in_Namibia.png Distribution_of_Kavango_languages_in_Namibia.png Distribution_of_Caprivi_languages_in_Namibia.png
+woman]]
 
 
 Religion
@@ -172,8 +172,6 @@ Population
     2,533,224 (July 2018 est.)
 
 Age structure
-
-Namibiapop.svg
 
     _0-14 years:_ 36.54% (male 467,392 /female 458,190)
     _15-24 years:_ 20.34% (male 257,190 /female 257,984)

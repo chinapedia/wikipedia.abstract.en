@@ -5,8 +5,6 @@ The Census Inegi in Mexico is the Instituto Nacional de Estadística y Geografí
 
 Demographic dynamics
 
-MXPopgrowth.jpg Mexico_estados_densidad.svg
-
 In 1900, the Mexican population was 13.6 million.[3] During the period of economic prosperity that was dubbed by economists as the "Mexican Miracle", the government invested in efficient social programs that reduced the infant mortality rate and increased life expectancy. These measures jointly led to an intense demographic increase between 1930 and 1980. The population's annual growth rate has been reduced from a 3.5% peak in 1965 to 0.99% in 2005. While Mexico is now transitioning to the third phase of demographic transition, close to 50% of the population in 2009 was 25 years old or younger.[4] Fertility rates have also decreased from 5.7 children per woman in 1976 to 2.2 in 2006.[5] The average annual population growth rate of the capital, the Federal District, was the first in the country at 0.2%. The state with the lowest population growth rate over the same period was Michoacán (-0.1%), whereas the states with the highest population growth rates were Quintana Roo (4.7%) and Baja California Sur (3.4%),[6] both of which are two of the least populous states and the last to be admitted to the Union in the 1970s. The average annual net migration rate of the Federal District over the same period was negative and the lowest of all political divisions of Mexico, whereas the states with the highest net migration rate were Quintana Roo (2.7), Baja California (1.8) and Baja California Sur (1.6).[7] While the national annual growth rate was still positive (1.0%) in the early years of the 2000s, the national net migration rate was negative (-4.75/1000 inhabitants), given the former strong flow of immigrants to the United States; an estimated 5.3 million illegal Mexican immigrants lived in the United States in 2004[8] and 18.2 million American citizens in the 2000 Census declared having Mexican ancestry.[9] However, as of recent years in the 2010s, the net migration rate reached 0, given the strong economy of Mexico, changes in US Immigration Policy & Enforcement, US Legislative and CFR-8 decisions, plus the (then) slowly recovering US economy, causing many of its former residents to return. The Mexican government projects[10] that the Mexican population will grow to about 123 million by 2042 and then start declining slowly. Assumptions underlying this projection include fertility stabilizing at 1.85 children per woman and continued high net emigration (slowly decreasing from 583,000 in 2005 to 393,000 in 2050).
 
 The states and the Federal District that make up the Mexican federation are collectively called "federal entities". The five most populous federal entities in 2005 were the State of Mexico (14.4 million), the Federal District (8.7 million), Veracruz (7.1 million), Jalisco (6.7 million) and Puebla (5.4 million), which collectively contain 40.7% of the national population. Mexico City, being coextensive with the Federal District, is the most populous city in the country, while Greater Mexico City, that includes the adjacent municipalities that comprise a metropolitan area, is estimated to be the second most populous in the world (after Tokyo), according to the UN Urbanization Report.
@@ -15,7 +13,7 @@ Intense population growth in the northern states, especially along the US-Mexica
 
 UN estimates
 
-Mexicopop.svg (2009)]] According to the 2012 revision of the World Population Prospects, the total population was 117,886,000 in 2010, compared to only 28,296,000 in 1950. The proportion of children below the age of 15 in 2010 was 30%, 64% of the population was between 15 and 65 years of age, and 6% was 65 years or older.[12]
+(2009)]] According to the 2012 revision of the World Population Prospects, the total population was 117,886,000 in 2010, compared to only 28,296,000 in 1950. The proportion of children below the age of 15 in 2010 was 30%, 64% of the population was between 15 and 65 years of age, and 6% was 65 years or older.[12]
 
 +------+------------------+------------+------------+------------+
 |      | Total population | Proportion | Proportion | Proportion |
@@ -326,17 +324,16 @@ Cities and metropolitan areas
 
 Settlements, cities and municipalities
 
-        Most populated municipalities
-  ------------------------------------------
-   Palacio_de_Gobierno_y_Plaza_de_Armas.JPG
-        _Municipality of Guadalajara_
-                 Municipality
-             Ecatepec de Morelos
-                 Guadalajara
-                    Puebla
-                   Tijuana
-                     León
-                    Juárez
+   Most populated municipalities
+  -------------------------------
+   _Municipality of Guadalajara_
+           Municipality
+        Ecatepec de Morelos
+            Guadalajara
+              Puebla
+              Tijuana
+               León
+              Juárez
 
 In 2005 Mexico had 187,938 _localidades_ (lit. "localities" or "settlements"), which are census-designated places, which could be defined as a small town, a large city, or simply as a single unit housing in a rural area whether situated remotely or close to an urban area. A city is defined to be a settlement with more than 2,500 inhabitants. In 2005 there were 2,640 cities with a population between 2,500 and 15,000 inhabitants, 427 with a population between 15,000 and 100,000 inhabitants, 112 with a population between 100,000 and one million, and 11 with a population of more than one million.[54] All cities are considered "urban areas" and represent 76.5% of total population. Settlements with less than 2,500 inhabitants are considered "rural communities" (in fact, more than 80,000 of those settlements have only one or two housing units). Rural population in Mexico is 22.2% of total population.[55]
 
@@ -354,40 +351,37 @@ A metropolitan area in Mexico is defined to be the group of municipalities that 
 
 In 2004 there were 55 metropolitan areas in Mexico, in which close to 53% of the country's population lives. The most populous metropolitan area in Mexico is the _Metropolitan Area of the Valley of Mexico_, or Greater Mexico City, which in 2005 had a population of 19.23 million, or 19% of the nation's population. The next four largest metropolitan areas in Mexico are Greater Guadalajara (4.1 million), Greater Monterrey (3.7 million), Greater Puebla (2.1 million) and Greater Toluca (1.6 million),[58] whose added population, along with Greater Mexico City, is equivalent to 30% of the nation's population. Greater Mexico City was the fastest growing metropolitan area in the country since the 1930s until the late 1980s. Since then, the country has slowly become economically and demographically less centralized. From 2000 to 2005 the average annual growth rate of Greater Mexico City was the lowest of the five largest metropolitan areas, whereas the fastest growing metropolitan area was Puebla (2.0%) followed by Monterrey (1.9%), Toluca (1.8%) and Guadalajara (1.8%).[59]
 
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg | Ranks           | Core city | State      | Metro area population | Catedral_de_Puebla_en_paisaje..jpg |
-| Mexico City                                                         |                 |           |            |                       | Puebla                             |
-| Zapopan.jpg                                                         |                 |           |            |                       | Toluca_a_los_pies_del_nevado.jpg   |
-| Guadalajara                                                         |                 |           |            |                       | Toluca                             |
-| Cerro_de_la_Silla_y_edificios.jpg                                   |                 |           |            |                       | Rio_Zone,_Tijuana.jpg              |
-| Monterrey                                                           |                 |           |            |                       | Tijuana                            |
-+=====================================================================+=================+===========+============+=======================+====================================+
-| 1                                                                   | MEXICO CITY     |           | 20,137,152 |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 2                                                                   | GUADALAJARA     |           | 4,434,878  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 3                                                                   | MONTERREY       |           | 4,106,054  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 4                                                                   | PUEBLA          |           | 2,728,790  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 5                                                                   | TOLUCA          |           | 1,936,126  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 6                                                                   | TIJUANA         |           | 1,751,430  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 7                                                                   | LEÓN            |           | 1,609,504  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 8                                                                   | JUÁREZ          |           | 1,495,094  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 9                                                                   | TORREÓN         |           | 1,275,993  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 10                                                                  | QUERÉTARO       |           | 1,097,025  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 11                                                                  | SAN LUIS POTOSÍ |           | 1,040,443  |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-| 12                                                                  | MÉRIDA          |           | 973,046    |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
-|                                                                     |                 |           |            |                       |                                    |
-+---------------------------------------------------------------------+-----------------+-----------+------------+-----------------------+------------------------------------+
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| Mexico City | Ranks           | Core city | State      | Metro area population | Puebla  |
+| Guadalajara |                 |           |            |                       | Toluca  |
+| Monterrey   |                 |           |            |                       | Tijuana |
++=============+=================+===========+============+=======================+=========+
+| 1           | MEXICO CITY     |           | 20,137,152 |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 2           | GUADALAJARA     |           | 4,434,878  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 3           | MONTERREY       |           | 4,106,054  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 4           | PUEBLA          |           | 2,728,790  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 5           | TOLUCA          |           | 1,936,126  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 6           | TIJUANA         |           | 1,751,430  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 7           | LEÓN            |           | 1,609,504  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 8           | JUÁREZ          |           | 1,495,094  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 9           | TORREÓN         |           | 1,275,993  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 10          | QUERÉTARO       |           | 1,097,025  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 11          | SAN LUIS POTOSÍ |           | 1,040,443  |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+| 12          | MÉRIDA          |           | 973,046    |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
+|             |                 |           |            |                       |         |
++-------------+-----------------+-----------+------------+-----------------------+---------+
 
 
 Ethnic groups
@@ -396,7 +390,7 @@ Mexico is ethnically diverse. The second article of the Mexican Constitution def
 
 Mestizo
 
-General_Porfirio_Díaz.JPG was of Mestizo descent]] A large majority of Mexicans have been classified as "Mestizos", meaning in modern Mexican usage that they identify fully neither with any indigenous culture nor with a Spanish cultural heritage, but rather identify as having cultural traits incorporating elements from both indigenous and Spanish traditions. By the deliberate efforts of post-revolutionary governments the "Mestizo identity" was constructed as the base of the modern Mexican national identity, through a process of cultural synthesis referred to as _mestizaje_ . Mexican politicians and reformers such as José Vasconcelos and Manuel Gamio were instrumental in building a Mexican national identity upon the concept of mestizaje.[60][61]
+was of Mestizo descent]] A large majority of Mexicans have been classified as "Mestizos", meaning in modern Mexican usage that they identify fully neither with any indigenous culture nor with a Spanish cultural heritage, but rather identify as having cultural traits incorporating elements from both indigenous and Spanish traditions. By the deliberate efforts of post-revolutionary governments the "Mestizo identity" was constructed as the base of the modern Mexican national identity, through a process of cultural synthesis referred to as _mestizaje_ . Mexican politicians and reformers such as José Vasconcelos and Manuel Gamio were instrumental in building a Mexican national identity upon the concept of mestizaje.[60][61]
 
 Since the Mestizo identity promoted by the government is more of a cultural identity than a biological one it has achieved a strong influence in the country, with a good number of phenotypically white people identifying with it, leading to being considered Mestizos in Mexico's demographic investigations and censuses due the ethnic criteria having its base on cultural traits rather than biological ones.[62] A similar situation occurs regarding the distinctions between Indigenous peoples and Mestizos: while the term _Mestizo_ is sometimes used in English with the meaning of a person with mixed indigenous and European blood, In Mexican society a non-indigenous person can be considered mestizo.[63] and a person with none or a very low percentage of indigenous genetic heritage would be considered fully indigenous either by speaking an indigenous language or by identifying with a particular indigenous cultural heritage.[64][65][66] In the Yucatán peninsula the word Mestizo has a different meaning, with it being to refer to the Maya-speaking populations living in traditional communities, because during the caste war of the late 19th century those Maya who did not join the rebellion were classified as Mestizos.[67] In Chiapas the word "Ladino" is used instead of mestizo.[68]
 
@@ -418,7 +412,7 @@ Indigenous peoples
       Totonac (Tachihuiin)
       Source: CDI (2000) 4
 
-Benito_Juarez_1.jpg, the first native American President of Mexico]] Prior to contact with Europeans the indigenous peoples of Mexico had not had any kind of shared identity.[83] Indigenous identity was constructed by the dominant Euro-Mestizo majority and imposed upon the indigenous people as a negatively defined identity, characterized by the lack of assimilation into modern Mexico. Indigenous identity therefore became socially stigmatizing.[84] Cultural policies in early post-revolutionary Mexico were paternalistic towards the indigenous people, with efforts designed to help indigenous peoples achieve the same level of progress as the rest of society, eventually assimilating indigenous peoples completely to Mestizo Mexican culture, working toward the goal of eventually solving the "Indian problem" by transforming indigenous communities into mestizo communities.[85]
+, the first native American President of Mexico]] Prior to contact with Europeans the indigenous peoples of Mexico had not had any kind of shared identity.[83] Indigenous identity was constructed by the dominant Euro-Mestizo majority and imposed upon the indigenous people as a negatively defined identity, characterized by the lack of assimilation into modern Mexico. Indigenous identity therefore became socially stigmatizing.[84] Cultural policies in early post-revolutionary Mexico were paternalistic towards the indigenous people, with efforts designed to help indigenous peoples achieve the same level of progress as the rest of society, eventually assimilating indigenous peoples completely to Mestizo Mexican culture, working toward the goal of eventually solving the "Indian problem" by transforming indigenous communities into mestizo communities.[85]
 
 The category of "indigena" (indigenous) in Mexico has been defined based on different criteria through history, this means that the percentage of the Mexican population defined as "indigenous" varies according to the definition applied. It can be defined narrowly according to linguistic criteria including only persons that speak an Indigenous language, based on this criteria approximately 5.4% of the population is Indigenous.[86] Nonetheless, activists for the rights of indigenous peoples have referred to the usage of this criteria for census purposes as "statistical genocide"[87][88]
 Other surveys made by the Mexican government do count as Indigenous all persons who speak an indigenous language and people who do not speak indigenous languages nor live in indigenous communities but self-identifies as Indigenous. According to this criteria, the National Commission for the Development of Indigenous Peoples (Comisión Nacional para el Desarrollo de los Pueblos Indígenas, or CDI in Spanish) and the INEGI (Mexico's National Institute of Statistics and Geography), state that there are 15.7 million indigenous people in Mexico of many different ethnic groups,[89] which constitute 14.9% of the population in the country.[90]
@@ -430,7 +424,7 @@ According to official statistics —as reported by the National Commission for t
 
 Mexicans of European descent
 
-Mexican_Girls.jpg, Jalisco]] European Mexicans are Mexican citizens of full or majority European descent.[95] Europeans began arriving in Mexico during the Spanish conquest of the Aztec Empire and continued immigrating to the country during colonial and independent Mexico. According to 20th and 21st century academics, large scale intermixing between the European immigrants and the native Indigenous peoples would produce a Mestizo group which would become the overwhelming majority of Mexico's population by the time of the Mexican revolution.[96] However according to church registers from the colonial times, the majority (73%) of Spanish men married with Spanish women. Said registers also put in question other narratives held by contemporary academics, such as European immigrants who arrived to Mexico being almost exclusively men or that "pure Spanish" people were all part of a small powerful elite as Spaniards were often the most numerous ethnic group in the colonial cities[97][98](currently on discussion) as there were menial workers and people in poverty who were of complete Spanish origin.[99]
+, Jalisco]] European Mexicans are Mexican citizens of full or majority European descent.[95] Europeans began arriving in Mexico during the Spanish conquest of the Aztec Empire and continued immigrating to the country during colonial and independent Mexico. According to 20th and 21st century academics, large scale intermixing between the European immigrants and the native Indigenous peoples would produce a Mestizo group which would become the overwhelming majority of Mexico's population by the time of the Mexican revolution.[96] However according to church registers from the colonial times, the majority (73%) of Spanish men married with Spanish women. Said registers also put in question other narratives held by contemporary academics, such as European immigrants who arrived to Mexico being almost exclusively men or that "pure Spanish" people were all part of a small powerful elite as Spaniards were often the most numerous ethnic group in the colonial cities[97][98](currently on discussion) as there were menial workers and people in poverty who were of complete Spanish origin.[99]
 
 Estimates of Mexico's white population differ greatly in both, methodology and percentages given, extra-official sources such as the World factbook and Encyclopedia Britannica, which use the 1921 census results as the base of their estimations calculate Mexico's White population as only 9%[100] or between one tenth to one fifth one tenth or one fifth[101] (the results of the 1921 census, however, have been contested by various historians and deemed innaccurate).[102] Surveys that account for phenotypical traits and have performed actual field research suggest rather higher percentages: using the presence of blond hair as reference to classify a Mexican as white, the Metropolitan Autonomous University of Mexico calculated the percentage of said ethnic group at 23%.[103] With a similar methodology, the American Sociological Association obtained a percentage of 18.8% having its higher frequency on the North region (22.3%–23.9%) followed by the Center region (18.4%–21.3%) and the South region (11.9%).[104] Another study made by the University College London in collaboration with Mexico's National Institute of Anthropology and History found that the frequencies of blond hair and light eyes in Mexicans are of 18% and 28% respectively,[105] surveys that use as reference skin color such as those made by Mexico's National Council to Prevent Discrimination and Mexico's National Institute of Statistics and Geography reported a percentages of 47% in 2010[106][107][108] and 49% in 2017[109][110] respectively. A study performed in hospitals of Mexico City reported that an average 51.8% of Mexican newborns presented the congenital skin birthmark known as the Mongolian spot whilst it was absent in 48.2% of the analyzed babies.[111] The Mongolian spot appears with a very high frequency (85-95%) in Asian, Native American, and African children.[112] The skin lesion reportedly almost always appears on South American[113] and Mexican children who are racially Mestizos,[114] while having a very low frequency (5–10%) in Caucasian children.[115] According to the Mexican Social Security Institute (shortened as IMSS) nationwide, around half of Mexican babies have the Mongolian spot.[116]
 
@@ -440,7 +434,7 @@ While the majority of European immigration to Mexico has been Spanish with the f
 
 Arab Mexicans
 
-Carlos_Slim_Helú.jpg is of Lebanese descent.]] An Arab Mexican is a Mexican citizen of Arabic-speaking origin who can be of various ancestral origins. The vast majority of Mexico's 1.1 million Arabs are from either Lebanese, Syrian, Iraqi, or Palestinian background.[126]
+is of Lebanese descent.]] An Arab Mexican is a Mexican citizen of Arabic-speaking origin who can be of various ancestral origins. The vast majority of Mexico's 1.1 million Arabs are from either Lebanese, Syrian, Iraqi, or Palestinian background.[126]
 
 The interethnic marriage in the Arab community, regardless of religious affiliation, is very high; most community members have only one parent who has Arab ethnicity. As a result of this, the Arab community in Mexico shows marked language shift away from Arabic. Only a few speak any Arabic, and such knowledge is often limited to a few basic words. Instead the majority, especially those of younger generations, speak Spanish as a first language. Today, the most common Arabic surnames in Mexico include Nader, Hayek, Ali, Haddad, Nasser, Malik, Abed, Mansoor, Harb and Elias.
 
@@ -456,7 +450,7 @@ The majority of Arab-Mexicans are Christians who belong to the Maronite Church, 
 
 Afro-Mexicans
 
-Abrazo_de_Acatempan-zoom.JPG, major figure during the late Mexican War of Independence, abolitionist and second President of Mexico, was an African-Mexican.[130]]]
+, major figure during the late Mexican War of Independence, abolitionist and second President of Mexico, was an African-Mexican.[130]]]
 
 Afro-Mexicans are an ethnic group that predominate in certain areas of Mexico. Such as the Costa Chica of Oaxaca and the Costa Chica of Guerrero, Veracruz (e.g. Yanga) and in some towns in northern Mexico. The existence of blacks in Mexico is unknown, denied or diminished in both Mexico and abroad for a number of reasons: their small numbers, heavy intermarriage with other ethnic groups and Mexico's tradition of defining itself as a "mestizaje" or mixing of European and indigenous. Mexico did have an active slave trade since the early Spanish period but from the beginning, intermarriage and mixed race offspring created an elaborate caste system. This system broke down in the very late Spanish period and after Independence the legal notion of race was eliminated. The creation of a national Mexican identity, especially after the Mexican Revolution, emphasized Mexico's indigenous and European past actively or passively eliminating its African one from popular consciousness.
 
@@ -464,7 +458,7 @@ The majority of Mexico's native Afro-descendants are _Afromestizos_, i.e. "mixed
 
 Asian Mexicans
 
-Comunidad_japonesa_de_Monterrey.jpg youths in Monterrey]] Although Asian Mexicans make up less than 1% of the total population of modern Mexico, they are nonetheless a notable minority. Due to the historical and contemporary perception in Mexican society of what constitutes Asian culture (associated with the Far East rather than the Near East), Asian Mexicans are of East, South and Southeast Asian descent and Mexicans of West Asian descent are not considered to be part of the group.
+youths in Monterrey]] Although Asian Mexicans make up less than 1% of the total population of modern Mexico, they are nonetheless a notable minority. Due to the historical and contemporary perception in Mexican society of what constitutes Asian culture (associated with the Far East rather than the Near East), Asian Mexicans are of East, South and Southeast Asian descent and Mexicans of West Asian descent are not considered to be part of the group.
 
 Asian immigration began with the arrival of Filipinos to Mexico during the Spanish period. For two and a half centuries, between 1565 and 1815, many Filipinos and Mexicans sailed to and from Mexico and the Philippines as sailors, crews, slaves, prisoners, adventurers and soldiers in the Manila-Acapulco Galleon assisting Spain in its trade between Asia and the Americas. Also on these voyages, thousands of Asian individuals (mostly males) were brought to Mexico as slaves and were called "Chino",[132] which meant Chinese. Although in reality they were of diverse origins, including Japanese, Koreans, Malays, Filipinos, Javanese, Cambodians, Timorese, and people from Bengal, India, Ceylon, Makassar, Tidore, Terenate, and China.[133][134][135] A notable example is the story of Catarina de San Juan (Mirra), an Indian girl captured by the Portuguese and sold into slavery in Manila. She arrived in New Spain and eventually she gave rise to the "China Poblana".
 
@@ -482,7 +476,7 @@ Historically, population studies and censuses have never been up to the standard
 
 1793 census
 
-Mapa_del_Virreinato_de_la_Nueva_España_(1819).svg]] Also known as the "Revillagigedo census" from the name of the Count who ordered that it be conducted, this census was the first nationwide population census of Mexico (then known as the Viceroyalty of New Spain). Most of its original datasets have reportedly been lost, so most of what is known about it nowadays comes from essays and field investigations made by academics who had access to the census data and used it as reference for their works, such as Prussian geographer Alexander von Humboldt. Each author gives different estimations for each racial group in the country although they don't vary greatly, with Europeans ranging from 18% to 22% of New Spain's population, Mestizos from 21% to 25%, Indians from 51% to 61%, and Africans from 6,000 and 10,000. The estimations given for the total population range from 3,799,561 to 6,122,354. It is concluded then, that across nearly three centuries of colonization, the population growth trends of whites and mestizos were even, while the total percentage of the indigenous population decreased at a rate of 13%–17% per century. The authors assert that rather than whites and mestizos having higher birthrates, the reason for the indigenous population's numbers decreasing lies in their suffering higher mortality rates due to living in remote locations rather than in cities and towns founded by the Spanish colonists or in being at war with them. For the same reasons, the number of Indigenous Mexicans presents the greatest variation range between publications, as in some cases their numbers in a given location were estimated rather than counted, leading to possible overestimations in some provinces and possible underestimations in others.[140]
+]] Also known as the "Revillagigedo census" from the name of the Count who ordered that it be conducted, this census was the first nationwide population census of Mexico (then known as the Viceroyalty of New Spain). Most of its original datasets have reportedly been lost, so most of what is known about it nowadays comes from essays and field investigations made by academics who had access to the census data and used it as reference for their works, such as Prussian geographer Alexander von Humboldt. Each author gives different estimations for each racial group in the country although they don't vary greatly, with Europeans ranging from 18% to 22% of New Spain's population, Mestizos from 21% to 25%, Indians from 51% to 61%, and Africans from 6,000 and 10,000. The estimations given for the total population range from 3,799,561 to 6,122,354. It is concluded then, that across nearly three centuries of colonization, the population growth trends of whites and mestizos were even, while the total percentage of the indigenous population decreased at a rate of 13%–17% per century. The authors assert that rather than whites and mestizos having higher birthrates, the reason for the indigenous population's numbers decreasing lies in their suffering higher mortality rates due to living in remote locations rather than in cities and towns founded by the Spanish colonists or in being at war with them. For the same reasons, the number of Indigenous Mexicans presents the greatest variation range between publications, as in some cases their numbers in a given location were estimated rather than counted, leading to possible overestimations in some provinces and possible underestimations in others.[140]
 
   Intendecy or territory   European population (%)   Indigenous population (%)   Mestizo population (%)
   ------------------------ ------------------------- --------------------------- ------------------------

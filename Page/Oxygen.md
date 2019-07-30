@@ -27,7 +27,7 @@ Highly combustible materials that leave little residue, such as wood or coal, we
 
 Discovery
 
-PriestleyFuseli.jpg is usually given priority in the discovery.|alt=A drawing of an elderly man sitting by a table and facing parallel to the drawing. His left arm rests on a notebook, legs crossed.]]
+is usually given priority in the discovery.|alt=A drawing of an elderly man sitting by a table and facing parallel to the drawing. His left arm rests on a notebook, legs crossed.]]
 
 Polish alchemist, philosopher, and physician Michael Sendivogius in his work _De Lapide Philosophorum Tractatus duodecim e naturae fonte et manuali experientia depromti_ (1604) described a substance contained in air, referring to it as 'cibus vitae' (food of life[13]), and this substance is identical with oxygen.[14] Sendivogius, during his experiments performed between 1598 and 1604, properly recognized that the substance is equivalent to the gaseous byproduct released by the thermal decomposition of potassium nitrate. In Bugaj’s view, the isolation of oxygen and the proper association of the substance to that part of air which is required for life, lends sufficient weight to the discovery of oxygen by Sendivogius. This discovery of Sendivogius was however frequently denied by the generations of scientists and chemists which succeeded him.
 
@@ -39,7 +39,7 @@ The French chemist Antoine Laurent Lavoisier later claimed to have discovered th
 
 Lavoisier's contribution
 
-Antoine_lavoisier.jpg discredited the phlogiston theory.|alt=A drawing of a young man facing towards the viewer, but looking on the side. He wear a white curly wig, dark suit and white scarf.]]
+discredited the phlogiston theory.|alt=A drawing of a young man facing towards the viewer, but looking on the side. He wear a white curly wig, dark suit and white scarf.]]
 
 Lavoisier conducted the first adequate quantitative experiments on oxidation and gave the first correct explanation of how combustion works.[24] He used these and similar experiments, all started in 1774, to discredit the phlogiston theory and to prove that the substance discovered by Priestley and Scheele was a chemical element.
 
@@ -51,7 +51,7 @@ _Oxygen_ entered the English language despite opposition by English scientists a
 
 Later history
 
-Goddard_and_Rocket.jpg and a liquid oxygen-gasoline rocket|alt=A metal frame structure stands on the snow near a tree. A middle-aged man wearing a coat, boots, leather gloves and a cap stands by the structure and holds it with his right hand.]]
+and a liquid oxygen-gasoline rocket|alt=A metal frame structure stands on the snow near a tree. A middle-aged man wearing a coat, boots, leather gloves and a cap stands by the structure and holds it with his right hand.]]
 
 John Dalton's original atomic hypothesis presumed that all elements were monatomic and that the atoms in compounds would normally have the simplest atomic ratios with respect to one another. For example, Dalton assumed that water's formula was HO, leading to the conclusion that the atomic mass of oxygen was 8 times that of hydrogen, instead of the modern value of about 16.[31] In 1805, Joseph Louis Gay-Lussac and Alexander von Humboldt showed that water is formed of two volumes of hydrogen and one volume of oxygen; and by 1811 Amedeo Avogadro had arrived at the correct interpretation of water's composition, based on what is now called Avogadro's law and the diatomic elemental molecules in those gases.[32][33]
 
@@ -68,19 +68,19 @@ Characteristics
 
 Properties and molecular structure
 
-Oxygen_molecule_orbitals_diagram.JPG filling of the orbitals with the 12 electrons, 6 from each O atom, beginning from the lowest energy orbitals, and resulting in covalent double bond character from filled orbitals (and cancellation of the contributions of the pairs of σ and σ^(*) and and ^(*) orbital pairs).]] At standard temperature and pressure, oxygen is a colorless, odorless, and tasteless gas with the molecular formula , referred to as dioxygen.[43]
+filling of the orbitals with the 12 electrons, 6 from each O atom, beginning from the lowest energy orbitals, and resulting in covalent double bond character from filled orbitals (and cancellation of the contributions of the pairs of σ and σ^(*) and and ^(*) orbital pairs).]] At standard temperature and pressure, oxygen is a colorless, odorless, and tasteless gas with the molecular formula , referred to as dioxygen.[43]
 
 As _dioxygen_, two oxygen atoms are chemically bound to each other. The bond can be variously described based on level of theory, but is reasonably and simply described as a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms, the filling of which results in a bond order of two. More specifically, the double bond is the result of sequential, low-to-high energy, or Aufbau, filling of orbitals, and the resulting cancellation of contributions from the 2s electrons, after sequential filling of the low σ and σ^(*) orbitals; σ overlap of the two atomic 2p orbitals that lie along the O-O molecular axis and overlap of two pairs of atomic 2p orbitals perpendicular to the O-O molecular axis, and then cancellation of contributions from the remaining two of the six 2p electrons after their partial filling of the lowest and ^(*) orbitals.[44]
 
 This combination of cancellations and σ and overlaps results in dioxygen's double bond character and reactivity, and a triplet electronic ground state. An electron configuration with two unpaired electrons, as is found in dioxygen orbitals (see the filled * orbitals in the diagram) that are of equal energy—i.e., degenerate—is a configuration termed a spin triplet state. Hence, the ground state of the molecule is referred to as triplet oxygen.[45][46] The highest energy, partially filled orbitals are antibonding, and so their filling weakens the bond order from three to two. Because of its unpaired electrons, triplet oxygen reacts only slowly with most organic molecules, which have paired electron spins; this prevents spontaneous combustion.[47]
 
-Liquid_oxygen_in_a_magnet_2.jpg In the triplet form, molecules are paramagnetic. That is, they impart magnetic character to oxygen when it is in the presence of a magnetic field, because of the spin magnetic moments of the unpaired electrons in the molecule, and the negative exchange energy between neighboring molecules.[48] Liquid oxygen is so magnetic that, in laboratory demonstrations, a bridge of liquid oxygen may be supported against its own weight between the poles of a powerful magnet.[49]
+In the triplet form, molecules are paramagnetic. That is, they impart magnetic character to oxygen when it is in the presence of a magnetic field, because of the spin magnetic moments of the unpaired electrons in the molecule, and the negative exchange energy between neighboring molecules.[48] Liquid oxygen is so magnetic that, in laboratory demonstrations, a bridge of liquid oxygen may be supported against its own weight between the poles of a powerful magnet.[49]
 
 Singlet oxygen is a name given to several higher-energy species of molecular in which all the electron spins are paired. It is much more reactive with common organic molecules than is molecular oxygen per se. In nature, singlet oxygen is commonly formed from water during photosynthesis, using the energy of sunlight.[50] It is also produced in the troposphere by the photolysis of ozone by light of short wavelength,[51] and by the immune system as a source of active oxygen.[52] Carotenoids in photosynthetic organisms (and possibly animals) play a major role in absorbing energy from singlet oxygen and converting it to the unexcited ground state before it can cause harm to tissues.[53]
 
 Allotropes
 
-Oxygen_molecule.png representation of dioxygen (O₂) molecule]] The common allotrope of elemental oxygen on Earth is called dioxygen, , the major part of the Earth's atmospheric oxygen (see Occurrence). O₂ has a bond length of 121 pm and a bond energy of 498 kJ/mol,[54] which is smaller than the energy of other double bonds or pairs of single bonds in the biosphere and responsible for the exothermic reaction of O₂ with any organic molecule.[55][56] Due to its energy content, O₂ is used by complex forms of life, such as animals, in cellular respiration. Other aspects of are covered in the remainder of this article.
+representation of dioxygen (O₂) molecule]] The common allotrope of elemental oxygen on Earth is called dioxygen, , the major part of the Earth's atmospheric oxygen (see Occurrence). O₂ has a bond length of 121 pm and a bond energy of 498 kJ/mol,[54] which is smaller than the energy of other double bonds or pairs of single bonds in the biosphere and responsible for the exothermic reaction of O₂ with any organic molecule.[55][56] Due to its energy content, O₂ is used by complex forms of life, such as animals, in cellular respiration. Other aspects of are covered in the remainder of this article.
 
 Trioxygen () is usually known as ozone and is a very reactive allotrope of oxygen that is damaging to lung tissue.[57] Ozone is produced in the upper atmosphere when combines with atomic oxygen made by the splitting of by ultraviolet (UV) radiation.[58] Since ozone absorbs strongly in the UV region of the spectrum, the ozone layer of the upper atmosphere functions as a protective radiation shield for the planet.[59] Near the Earth's surface, it is a pollutant formed as a by-product of automobile exhaust.[60] At low earth orbit altitudes, sufficient atomic oxygen is present to cause corrosion of spacecraft.[61]
 
@@ -88,7 +88,7 @@ The metastable molecule tetraoxygen () was discovered in 2001,[62][63] and was a
 
 Physical properties
 
-Oxygen_discharge_tube.jpg Oxygen dissolves more readily in water than nitrogen, and in freshwater more readily than seawater. Water in equilibrium with air contains approximately 1 molecule of dissolved for every 2 molecules of (1:2), compared with an atmospheric ratio of approximately 1:4. The solubility of oxygen in water is temperature-dependent, and about twice as much (14.6 mg·L^(−1)) dissolves at 0 °C than at 20 °C (7.6 mg·L^(−1)).[69][70] At 25 °C and of air, freshwater contains about 6.04 milliliters (mL) of oxygen per liter, and seawater contains about 4.95 mL per liter.[71] At 5 °C the solubility increases to 9.0 mL (50% more than at 25 °C) per liter for water and 7.2 mL (45% more) per liter for sea water.
+Oxygen dissolves more readily in water than nitrogen, and in freshwater more readily than seawater. Water in equilibrium with air contains approximately 1 molecule of dissolved for every 2 molecules of (1:2), compared with an atmospheric ratio of approximately 1:4. The solubility of oxygen in water is temperature-dependent, and about twice as much (14.6 mg·L^(−1)) dissolves at 0 °C than at 20 °C (7.6 mg·L^(−1)).[69][70] At 25 °C and of air, freshwater contains about 6.04 milliliters (mL) of oxygen per liter, and seawater contains about 4.95 mL per liter.[71] At 5 °C the solubility increases to 9.0 mL (50% more than at 25 °C) per liter for water and 7.2 mL (45% more) per liter for sea water.
 
                5 °C     25 °C
   ------------ -------- ---------
@@ -105,7 +105,7 @@ The spectroscopy of molecular oxygen is associated with the atmospheric processe
 
 Isotopes and stellar origin
 
-Evolved_star_fusion_shells.svg Naturally occurring oxygen is composed of three stable isotopes, ¹⁶O, ¹⁷O, and ¹⁸O, with ¹⁶O being the most abundant (99.762% natural abundance).[79]
+Naturally occurring oxygen is composed of three stable isotopes, ¹⁶O, ¹⁷O, and ¹⁸O, with ¹⁶O being the most abundant (99.762% natural abundance).[79]
 
 Most ¹⁶O is synthesized at the end of the helium fusion process in massive stars but some is made in the neon burning process.[80] ¹⁷O is primarily made by the burning of hydrogen into helium during the CNO cycle, making it a common isotope in the hydrogen burning zones of stars.[81] Most ¹⁸O is produced when ¹⁴N (made abundant from CNO burning) captures a ⁴He nucleus, making ¹⁸O common in the helium-rich zones of evolved, massive stars.[82]
 
@@ -130,15 +130,13 @@ Occurrence
 
 Oxygen is the most abundant chemical element by mass in the Earth's biosphere, air, sea and land. Oxygen is the third most abundant chemical element in the universe, after hydrogen and helium.[90] About 0.9% of the Sun's mass is oxygen.[91] Oxygen constitutes 49.2% of the Earth's crust by mass[92] as part of oxide compounds such as silicon dioxide and is the most abundant element by mass in the Earth's crust. It is also the major component of the world's oceans (88.8% by mass).[93] Oxygen gas is the second most common component of the Earth's atmosphere, taking up 20.8% of its volume and 23.1% of its mass (some 10¹⁵ tonnes).[94][95][96] Earth is unusual among the planets of the Solar System in having such a high concentration of oxygen gas in its atmosphere: Mars (with 0.1% by volume) and Venus have much less. The surrounding those planets is produced solely by the action of ultraviolet radiation on oxygen-containing molecules such as carbon dioxide.
 
-WOA09_sea-surf_O2_AYool.png
-
 The unusually high concentration of oxygen gas on Earth is the result of the oxygen cycle. This biogeochemical cycle describes the movement of oxygen within and between its three main reservoirs on Earth: the atmosphere, the biosphere, and the lithosphere. The main driving factor of the oxygen cycle is photosynthesis, which is responsible for modern Earth's atmosphere. Photosynthesis releases oxygen into the atmosphere, while respiration, decay, and combustion remove it from the atmosphere. In the present equilibrium, production and consumption occur at the same rate.[97]
 
 Free oxygen also occurs in solution in the world's water bodies. The increased solubility of at lower temperatures (see Physical properties) has important implications for ocean life, as polar oceans support a much higher density of life due to their higher oxygen content.[98] Water polluted with plant nutrients such as nitrates or phosphates may stimulate growth of algae by a process called eutrophication and the decay of these organisms and other biomaterials may reduce the content in eutrophic water bodies. Scientists assess this aspect of water quality by measuring the water's biochemical oxygen demand, or the amount of needed to restore it to a normal concentration.[99]
 
 Analysis
 
-Phanerozoic_Climate_Change.png vs. ¹⁸O|alt=Time evolution of oxygen-18 concentration on the scale of 500 million years showing many local peaks.]]
+vs. ¹⁸O|alt=Time evolution of oxygen-18 concentration on the scale of 500 million years showing many local peaks.]]
 
 Paleoclimatologists measure the ratio of oxygen-18 and oxygen-16 in the shells and skeletons of marine organisms to determine the climate millions of years ago (see oxygen isotope ratio cycle). Seawater molecules that contain the lighter isotope, oxygen-16, evaporate at a slightly faster rate than water molecules containing the 12% heavier oxygen-18, and this disparity increases at lower temperatures.[100] During periods of lower global temperatures, snow and rain from that evaporated water tends to be higher in oxygen-16, and the seawater left behind tends to be higher in oxygen-18. Marine organisms then incorporate more oxygen-18 into their skeletons and shells than they would in a warmer climate.[101] Paleoclimatologists also directly measure this ratio in the water molecules of ice core samples as old as hundreds of thousands of years.
 
@@ -151,7 +149,7 @@ Biological role of O₂
 
 Photosynthesis and respiration
 
-Simple_photosynthesis_overview.svg.|alt=A diagram of photosynthesis processes, including income of water and carbon dioxide, illumination and release of oxygen. Reactions produce ATP and NADPH in a Calvin cycle with a sugar as a by product.]] In nature, free oxygen is produced by the light-driven splitting of water during oxygenic photosynthesis. According to some estimates, green algae and cyanobacteria in marine environments provide about 70% of the free oxygen produced on Earth, and the rest is produced by terrestrial plants.[104] Other estimates of the oceanic contribution to atmospheric oxygen are higher, while some estimates are lower, suggesting oceans produce ~45% of Earth's atmospheric oxygen each year.[105]
+.|alt=A diagram of photosynthesis processes, including income of water and carbon dioxide, illumination and release of oxygen. Reactions produce ATP and NADPH in a Calvin cycle with a sugar as a by product.]] In nature, free oxygen is produced by the light-driven splitting of water during oxygenic photosynthesis. According to some estimates, green algae and cyanobacteria in marine environments provide about 70% of the free oxygen produced on Earth, and the rest is produced by terrestrial plants.[104] Other estimates of the oceanic contribution to atmospheric oxygen are higher, while some estimates are lower, suggesting oceans produce ~45% of Earth's atmospheric oxygen each year.[105]
 
 A simplified overall formula for photosynthesis is:[106]
 
@@ -200,8 +198,6 @@ The free oxygen partial pressure in the body of a living vertebrate organism is 
 
 Build-up in the atmosphere
 
-Oxygenation-atm.svg
-
 Free oxygen gas was almost nonexistent in Earth's atmosphere before photosynthetic archaea and bacteria evolved, probably about 3.5 billion years ago. Free oxygen first appeared in significant quantities during the Paleoproterozoic eon (between 3.0 and 2.3 billion years ago).[130] Even if there was much dissolved iron in the oceans when oxygenic photosynthesis was getting more common, it appears the banded iron formations were created by anoxyenic or micro-aerophilic iron-oxidizing bacteria which dominated the deeper areas of the photic zone, while oxygen-producing cyanobacteria covered the shallows.[131] Free oxygen began to outgas from the oceans 3–2.7 billion years ago, reaching 10% of its present level around 1.7 billion years ago.[132][133]
 
 The presence of large amounts of dissolved and free oxygen in the oceans and atmosphere may have driven most of the extant anaerobic organisms to extinction during the Great Oxygenation Event (_oxygen catastrophe_) about 2.4 billion years ago. Cellular respiration using enables aerobic organisms to produce much more ATP than anaerobic organisms.[134] Cellular respiration of occurs in all eukaryotes, including all complex multicellular organisms such as plants and animals.
@@ -215,7 +211,7 @@ At the current rate of photosynthesis it would take about 2,000 years to regene
 
 Industrial production
 
-Hofmann_voltameter_fr.svg used in electrolysis of water.|alt=A drawing of three vertical pipes connected at the bottom and filled with oxygen (left pipe), water (middle) and hydrogen (right). Anode and cathode electrodes are inserted into the left and right pipes and externally connected to a battery.]]
+used in electrolysis of water.|alt=A drawing of three vertical pipes connected at the bottom and filled with oxygen (left pipe), water (middle) and hydrogen (right). Anode and cathode electrodes are inserted into the left and right pipes and externally connected to a battery.]]
 
 One hundred million tonnes of are extracted from air for industrial uses annually by two primary methods.[140] The most common method is fractional distillation of liquefied air, with distilling as a vapor while is left as a liquid.[141]
 
@@ -226,7 +222,7 @@ Oxygen gas can also be produced through electrolysis of water into molecular oxy
 
 Storage
 
-Compressed_gas_cylinders.mapp_and_oxygen.triddle.jpg compressed gas cylinders with regulators]]
+compressed gas cylinders with regulators]]
 
 Oxygen storage methods include high pressure oxygen tanks, cryogenics and chemical compounds. For reasons of economy, oxygen is often transported in bulk as a liquid in specially insulated tankers, since one liter of liquefied oxygen is equivalent to 840 liters of gaseous oxygen at atmospheric pressure and .[145] Such tankers are used to refill bulk liquid oxygen storage containers, which stand outside hospitals and other institutions that need large volumes of pure oxygen gas. Liquid oxygen is passed through heat exchangers, which convert the cryogenic liquid into gas before it enters the building. Oxygen is also stored and shipped in smaller cylinders containing the compressed gas; a form that is useful in certain portable medical applications and oxy-fuel welding and cutting.[146]
 
@@ -235,7 +231,7 @@ Applications
 
 Medical
 
-Home_oxygen_concentrator.jpg in an emphysema patient's house|alt=A gray device with a label DeVILBISS LT4000 and some text on the front panel. A green plastic pipe is running from the device.]]
+in an emphysema patient's house|alt=A gray device with a label DeVILBISS LT4000 and some text on the front panel. A green plastic pipe is running from the device.]]
 
 Uptake of from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen.[147]
 
@@ -245,7 +241,7 @@ Hyperbaric (high-pressure) medicine uses special oxygen chambers to increase the
 
 Life support and recreational use
 
-Wisoff_on_the_Arm_-_GPN-2000-001069.jpgs.]]
+s.]]
 
 An application of as a low-pressure breathing gas is in modern space suits, which surround their occupant's body with the breathing gas. These devices use nearly pure oxygen at about one-third normal pressure, resulting in a normal blood partial pressure of . This trade-off of higher oxygen concentration for lower pressure is needed to maintain suit flexibility.[161][162]
 
@@ -259,7 +255,7 @@ Other recreational uses that do not involve breathing include pyrotechnic applic
 
 Industrial
 
-Clabecq_JPG01.jpg and/or decarburize iron.|alt=An elderly worker in a helmet is facing his side to the viewer in an industrial hall. The hall is dark but is illuminated yellow glowing splashes of a melted substance.]]
+and/or decarburize iron.|alt=An elderly worker in a helmet is facing his side to the viewer in an industrial hall. The hall is dark but is illuminated yellow glowing splashes of a melted substance.]]
 
 Smelting of iron ore into steel consumes 55% of commercially produced oxygen.[172] In this process, is injected through a high-pressure lance into molten iron, which removes sulfur impurities and excess carbon as the respective oxides, and . The reactions are exothermic, so the temperature increases to 1,700 °C.[173]
 
@@ -270,13 +266,13 @@ Most of the remaining 20% of commercially produced oxygen is used in medical app
 
 Compounds
 
-Stilles_Mineralwasser.jpg () is the most familiar oxygen compound.|alt=Water flowing from a bottle into a glass.]] The oxidation state of oxygen is −2 in almost all known compounds of oxygen. The oxidation state −1 is found in a few compounds such as peroxides.[178] Compounds containing oxygen in other oxidation states are very uncommon: −1/2 (superoxides), −1/3 (ozonides), 0 (elemental, hypofluorous acid), +1/2 (dioxygenyl), +1 (dioxygen difluoride), and +2 (oxygen difluoride).[179]
+() is the most familiar oxygen compound.|alt=Water flowing from a bottle into a glass.]] The oxidation state of oxygen is −2 in almost all known compounds of oxygen. The oxidation state −1 is found in a few compounds such as peroxides.[178] Compounds containing oxygen in other oxidation states are very uncommon: −1/2 (superoxides), −1/3 (ozonides), 0 (elemental, hypofluorous acid), +1/2 (dioxygenyl), +1 (dioxygen difluoride), and +2 (oxygen difluoride).[179]
 
 Oxides and other inorganic compounds
 
 Water () is an oxide of hydrogen and the most familiar oxygen compound. Hydrogen atoms are covalently bonded to oxygen in a water molecule but also have an additional attraction (about 23.3 kJ/mol per hydrogen atom) to an adjacent oxygen atom in a separate molecule.[180] These hydrogen bonds between water molecules hold them approximately 15% closer than what would be expected in a simple liquid with just van der Waals forces.[181][182]
 
-Rust_screw.jpg or rust, form when oxygen combines with other elements.|alt=A rusty piece of a bolt.]] Due to its electronegativity, oxygen forms chemical bonds with almost all other elements to give corresponding oxides. The surface of most metals, such as aluminium and titanium, are oxidized in the presence of air and become coated with a thin film of oxide that passivates the metal and slows further corrosion. Many oxides of the transition metals are non-stoichiometric compounds, with slightly less metal than the chemical formula would show. For example, the mineral FeO (wüstite) is written as $\ce{Fe}_{1-x}\ce{O}$, where _x_ is usually around 0.05.[183]
+or rust, form when oxygen combines with other elements.|alt=A rusty piece of a bolt.]] Due to its electronegativity, oxygen forms chemical bonds with almost all other elements to give corresponding oxides. The surface of most metals, such as aluminium and titanium, are oxidized in the presence of air and become coated with a thin film of oxide that passivates the metal and slows further corrosion. Many oxides of the transition metals are non-stoichiometric compounds, with slightly less metal than the chemical formula would show. For example, the mineral FeO (wüstite) is written as $\ce{Fe}_{1-x}\ce{O}$, where _x_ is usually around 0.05.[183]
 
 Oxygen is present in the atmosphere in trace quantities in the form of carbon dioxide (). The Earth's crustal rock is composed in large part of oxides of silicon (silica , as found in granite and quartz), aluminium (aluminium oxide , in bauxite and corundum), iron (iron(III) oxide , in hematite and rust), and calcium carbonate (in limestone). The rest of the Earth's crust is also made of oxygen compounds, in particular various complex silicates (in silicate minerals). The Earth's mantle, of much larger mass than the crust, is largely composed of silicates of magnesium and iron.
 
@@ -286,7 +282,7 @@ Oxygen also acts as a ligand for transition metals, forming transition metal dio
 
 Organic compounds
 
-Acetone-3D-vdW.png is an important feeder material in the chemical industry. |alt=A ball structure of a molecule. Its backbone is a zig-zag chain of three carbon atoms connected in the center to an oxygen atom and on the end to 6 hydrogens.]]
+is an important feeder material in the chemical industry. |alt=A ball structure of a molecule. Its backbone is a zig-zag chain of three carbon atoms connected in the center to an oxygen atom and on the end to 6 hydrogens.]]
 
 Among the most important classes of organic compounds that contain oxygen are (where "R" is an organic group): alcohols (R-OH); ethers (R-O-R); ketones (R-CO-R); aldehydes (R-CO-H); carboxylic acids (R-COOH); esters (R-COO-R); acid anhydrides (R-CO-O-CO-R); and amides (). There are many important organic solvents that contain oxygen, including: acetone, methanol, ethanol, isopropanol, furan, THF, diethyl ether, dioxane, ethyl acetate, DMF, DMSO, acetic acid, and formic acid. Acetone () and phenol () are used as feeder materials in the synthesis of many different substances. Other important organic compounds that contain oxygen are: glycerol, formaldehyde, glutaraldehyde, citric acid, acetic anhydride, and acetamide. Epoxides are ethers in which the oxygen atom is part of a ring of three atoms. The element is similarly found in almost all biomolecules that are important to (or generated by) life.
 
@@ -299,8 +295,6 @@ The NFPA 704 standard rates compressed oxygen gas as nonhazardous to health, non
 
 Toxicity
 
-Symptoms_of_oxygen_toxicity.png
-
 Oxygen gas () can be toxic at elevated partial pressures, leading to convulsions and other health problems.[190][191][192] Oxygen toxicity usually begins to occur at partial pressures more than 50 kilopascals (kPa), equal to about 50% oxygen composition at standard pressure or 2.5 times the normal sea-level partial pressure of about 21 kPa. This is not a problem except for patients on mechanical ventilators, since gas supplied through oxygen masks in medical applications is typically composed of only 30%–50% by volume (about 30 kPa at standard pressure).[193]
 
 At one time, premature babies were placed in incubators containing -rich air, but this practice was discontinued after some babies were blinded by the oxygen content being too high.[194]
@@ -311,7 +305,7 @@ Oxygen toxicity to the lungs and central nervous system can also occur in deep s
 
 Combustion and other hazards
 
-Apollo_1_fire.jpg Command Module. Pure at higher than normal pressure and a spark led to a fire and the loss of the Apollo 1 crew.|alt=The inside of a small spaceship, charred and apparently destroyed.]] Highly concentrated sources of oxygen promote rapid combustion. Fire and explosion hazards exist when concentrated oxidants and fuels are brought into close proximity; an ignition event, such as heat or a spark, is needed to trigger combustion.[205][206] Oxygen is the oxidant, not the fuel, but nevertheless the source of most of the chemical energy released in combustion.[207][208]
+Command Module. Pure at higher than normal pressure and a spark led to a fire and the loss of the Apollo 1 crew.|alt=The inside of a small spaceship, charred and apparently destroyed.]] Highly concentrated sources of oxygen promote rapid combustion. Fire and explosion hazards exist when concentrated oxidants and fuels are brought into close proximity; an ignition event, such as heat or a spark, is needed to trigger combustion.[205][206] Oxygen is the oxidant, not the fuel, but nevertheless the source of most of the chemical energy released in combustion.[207][208]
 
 Concentrated will allow combustion to proceed rapidly and energetically.[209] Steel pipes and storage vessels used to store and transmit both gaseous and liquid oxygen will act as a fuel; and therefore the design and manufacture of systems requires special training to ensure that ignition sources are minimized.[210] The fire that killed the Apollo 1 crew in a launch pad test spread so rapidly because the capsule was pressurized with pure but at slightly more than atmospheric pressure, instead of the normal pressure that would be used in a mission.[211]
 

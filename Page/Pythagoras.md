@@ -48,8 +48,6 @@ Around 530 BC, when Pythagoras was around forty years old, he left Samos. His la
 
 Family and friends
 
-The_story_of_the_greatest_nations;_a_comprehensive_history,_extending_from_the_earliest_times_to_the_present,_founded_on_the_most_modern_authorities,_and_including_chronological_summaries_and_(14783288925).jpg
-
 Diogenes Laërtius states that Pythagoras "did not indulge in the pleasures of love" and that he cautioned others to only have sex "whenever you are willing to be weaker than yourself". According to Porphyry, Pythagoras married Theano, a lady of Crete and the daughter of Pythenax and had several children with her. Porphyry writes that Pythagoras had two sons named Telauges and Arignote, and a daughter named Myia, who "took precedence among the maidens in Croton and, when a wife, among married women." Iamblichus mentions none of these children and instead only mentions a son named Mnesarchus after his grandfather. This son was raised by Pythagoras's appointed successor Aristaeus and eventually took over the school when Aristaeus was too old to continue running it.
 
 The wrestler Milo of Croton was said to have been a close associate of Pythagoras and was credited with having saved the philosopher's life when a roof was about to collapse. This association may been the result of confusion with a different man named Pythagoras, who was an athletics trainer. Diogenes Laërtius records Milo's wife's name as Myia. Iamblichus mentions Theano as the wife of Brontinus of Croton. Diogenes Laërtius states that the same Theano was Pythagoras's pupil and that Pythagoras's wife Theano was her daughter. Diogenes Laërtius also records that works supposedly written by Theano were still extant during his own lifetime and quotes several opinions attributed to her. These writings are now known to be pseudepigraphical.
@@ -65,7 +63,7 @@ Teachings
 
 Metempsychosis
 
-Cropped_image_of_Pythagoras_from_Raphael's_School_of_Athens.jpg's fresco _The School of Athens_, Pythagoras is shown writing in a book as a young man presents him with a tablet showing a diagrammatic representation of a lyre above a drawing of the sacred _tetractys_.]]
+'s fresco _The School of Athens_, Pythagoras is shown writing in a book as a young man presents him with a tablet showing a diagrammatic representation of a lyre above a drawing of the sacred _tetractys_.]]
 
 Although the exact details of Pythagoras's teachings are uncertain, it is possible to reconstruct a general outline of his main ideas. Aristotle writes at length about the teachings of the Pythagoreans, but without mentioning Pythagoras directly. One of Pythagoras's main doctrines appears to have been _metempsychosis_, the belief that all souls are immortal and that, after death, a soul is transferred into a new body. This teaching is referenced by Xenophanes, Ion of Chios, and Herodotus.[31] Nothing whatsoever, however, is known about the nature or mechanism by which Pythagoras believed metempsychosis to occur.
 
@@ -79,7 +77,7 @@ Pythagoras was said to have practiced divination and prophecy.[35] In the visits
 
 Numerology
 
-Tetractys.svg, an important sacred symbol in later Pythagoreanism.]]
+, an important sacred symbol in later Pythagoreanism.]]
 
 According to Aristotle, the Pythagoreans used mathematics for solely mystical reasons, devoid of practical application. They believed that all things were made of numbers. The number one (the monad) represented the origin of all things and the number two (the dyad) represented matter. The number three was an "ideal number" because it had a beginning, middle, and end and was the smallest number of points that could be used to define a plane triangle, which they revered as a symbol of the god Apollo. The number four signified the four seasons and the four elements. The number seven was also sacred because it was the number of planets and the number of strings on a lyre, and because Apollo's birthday was celebrated on the seventh day of each month. They believed that odd numbers were masculine, that even numbers were feminine, and that the number five represented marriage, because it was the sum of two and three.
 
@@ -92,13 +90,13 @@ Pythagoreanism
 
 Communal lifestyle
 
-Bronnikov_gimnpifagoreizev.jpg]] Both Plato and Isocrates state that, above all else, Pythagoras was known as the founder of a new way of life.[38] The organization Pythagoras founded at Croton was called a "school",[39][40][41] but, in many ways, resembled a monastery. The adherents were bound by a vow to Pythagoras and each other, for the purpose of pursuing the religious and ascetic observances, and of studying his religious and philosophical theories.[42] The members of the sect shared all their possessions in common and were devoted to each other to the exclusion of outsiders.[43] Ancient sources record that the Pythagoreans ate meals in common after the manner of the Spartans.[44] One Pythagorean maxim was "_koinà tà phílōn_" ("All things in common among friends"). Both Iamblichus and Porphyry provide detailed accounts of the organization of the school, although the primary interest of both writers is not historical accuracy, but rather to present Pythagoras as a divine figure, sent by the gods to benefit humankind.[45] Iamblichus, in particular, presents the "Pythagorean Way of Life" as a pagan alternative to the Christian monastic communities of his own time.
+]] Both Plato and Isocrates state that, above all else, Pythagoras was known as the founder of a new way of life.[38] The organization Pythagoras founded at Croton was called a "school",[39][40][41] but, in many ways, resembled a monastery. The adherents were bound by a vow to Pythagoras and each other, for the purpose of pursuing the religious and ascetic observances, and of studying his religious and philosophical theories.[42] The members of the sect shared all their possessions in common and were devoted to each other to the exclusion of outsiders.[43] Ancient sources record that the Pythagoreans ate meals in common after the manner of the Spartans.[44] One Pythagorean maxim was "_koinà tà phílōn_" ("All things in common among friends"). Both Iamblichus and Porphyry provide detailed accounts of the organization of the school, although the primary interest of both writers is not historical accuracy, but rather to present Pythagoras as a divine figure, sent by the gods to benefit humankind.[45] Iamblichus, in particular, presents the "Pythagorean Way of Life" as a pagan alternative to the Christian monastic communities of his own time.
 
 Two groups existed within early Pythagoreanism: the _mathematikoi_ ("learners") and the _akousmatikoi_ ("listeners"). The _akousmatikoi_ are traditionally identified by scholars as "old believers" in mysticism, numerology, and religious teachings; whereas the _mathematikoi_ are traditionally identified as a more intellectual, modernist faction who were more rationalist and scientific. Gregory cautions that there was probably not a sharp distinction between them and that many Pythagoreans probably believed the two approaches were compatible. The study of mathematics and music may have been connected to the worship of Apollo.[46] The Pythagoreans believed that music was a purification for the soul, just as medicine was a purification for the body. One anecdote of Pythagoras reports that when he encountered some drunken youths trying to break into the home of a virtuous woman, he sang a solemn tune with long spondees and the boys' "raging willfulness" was quelled. The Pythagoreans also placed particular emphasis on the importance of physical exercise; therapeutic dancing, daily morning walks along scenic routes, and athletics were major components of the Pythagorean lifestyle. Moments of contemplation at the beginning and end of each day were also advised.
 
 Prohibitions and regulations
 
-Do_Not_Eat_Beans.jpg in revulsion]]
+in revulsion]]
 
 Pythagorean teachings were known as "symbols" (_symbola_) and members took a vow of silence that they would not reveal these symbols to non-members.[47] Those who did not obey the laws of the community were expelled and the remaining members would erect tombstones for them as though they had died. A number of "oral sayings" (_akoúsmata_) attributed to Pythagoras have survived, dealing with how members of the Pythagorean community should perform sacrifices, how they should honor the gods, how they should "move from here", and how they should be buried. Many of these sayings emphasize the importance of ritual purity and avoiding defilement. For instance, a saying which Leonid Zhmud concludes can probably be genuinely traced back to Pythagoras himself forbids his followers from wearing woolen garments. Other extant oral sayings forbid Pythagoreans from breaking bread, poking fires with swords, or picking up crumbs and teach that a person should always put the right sandal on before the left. The exact meanings of these sayings, however, are frequently obscure. Iamblichus preserves Aristotle's descriptions of the original, ritualistic intentions behind a few of these sayings, but these apparently later fell out of fashion, because Porphyry provides markedly different ethical-philosophical interpretations of them:
 
@@ -115,7 +113,7 @@ Pythagoreanism also entailed a number of dietary prohibitions.[48] It is more or
 
 Legends
 
-'Pythagoras_Emerging_from_the_Underworld',_oil_on_canvas_painting_by_Salvator_Rosa.jpg]]
+]]
 
 Within his own lifetime, Pythagoras was already the subject of elaborate hagiographic legends. Aristotle described Pythagoras as a wonder-worker and somewhat of a supernatural figure. In a fragment, Aristotle writes that Pythagoras had a golden thigh, which he publicly exhibited at the Olympic Games and showed to Abaris the Hyperborean as proof of his identity as the "Hyperborean Apollo".[55] Supposedly, the priest of Apollo gave Pythagoras a magic arrow, which he used to fly over long distances and perform ritual purifications. He was supposedly once seen at both Metapontum and Croton at the same time.[56] When Pythagoras crossed the river Kosas (the modern-day Basento), "several witnesses" reported that they heard it greet him by name. In Roman times, a legend claimed that Pythagoras was the son of Apollo. According to Muslim tradition, Pythagoras was said to have been initiated by Hermes (Egyptian Thoth).[57]
 
@@ -128,15 +126,13 @@ Attributed discoveries
 
 In mathematics
 
-Pythagorean.svg
-
 Although Pythagoras is most famous today for his alleged mathematical discoveries, classical historians dispute whether he himself ever actually made any significant contributions to the field. Many mathematical and scientific discoveries were attributed to Pythagoras, including his famous theorem,[58] as well as discoveries in the fields of music,[59] astronomy,[60] and medicine.[61] Since at least the first century BC, Pythagoras has commonly been given credit for discovering the Pythagorean theorem, a theorem in geometry that states that "in a right-angled triangle the square of the hypotenuse is equal [to the sum of] the squares of the two other sides"—that is, a² + b² = c². According to a popular legend, after he discovered this theorem, Pythagoras sacrificed an ox, or possibly even a whole _hecatomb_, to the gods. Cicero rejected this story as spurious because of the much more widely held belief that Pythagoras forbade blood sacrifices. Porphyry attempted to explain the story by asserting that the ox was actually made of dough.
 
 The Pythagorean theorem was known and used by the Babylonians and Indians centuries before Pythagoras, but it is possible that he may have been the first one to introduce it to the Greeks. Some historians of mathematics have even suggested that he—or his students—may have constructed the first proof. Burkert rejects this suggestion as implausible, noting that Pythagoras was never credited with having proved any theorem in antiquity. Furthermore, the manner in which the Babylonians employed Pythagorean numbers implies that they knew that the principle was generally applicable, and knew some kind of proof, which has not yet been found in the (still largely unpublished) cuneiform sources. Pythagoras's biographers state that he also was the first to identify the five regular solids and that he was the first to discover the Theory of Proportions.
 
 In music
 
-Gaffurio_Pythagoras.png's _Theoria musice_ (1492), showing Pythagoras with bells and other instruments in Pythagorean tuning]] According to legend, Pythagoras discovered that musical notes could be translated into mathematical equations when he passed blacksmiths at work one day and heard the sound of their hammers clanging against the anvils. Thinking that the sounds of the hammers were beautiful and harmonious, except for one, he rushed into the blacksmith shop and began testing the hammers. He then realized that the tune played when the hammer struck was directly proportional to the size of the hammer and therefore concluded that music was mathematical. However, this legend is demonstrably false, as these ratios are only relevant to string length (such as the string of a monochord), and not to hammer weight.
+'s _Theoria musice_ (1492), showing Pythagoras with bells and other instruments in Pythagorean tuning]] According to legend, Pythagoras discovered that musical notes could be translated into mathematical equations when he passed blacksmiths at work one day and heard the sound of their hammers clanging against the anvils. Thinking that the sounds of the hammers were beautiful and harmonious, except for one, he rushed into the blacksmith shop and began testing the hammers. He then realized that the tune played when the hammer struck was directly proportional to the size of the hammer and therefore concluded that music was mathematical. However, this legend is demonstrably false, as these ratios are only relevant to string length (such as the string of a monochord), and not to hammer weight.
 
 In astronomy
 
@@ -147,7 +143,7 @@ Later influence in antiquity
 
 On Greek philosophy
 
-Timaeus_trans_calcidius_med_manuscript.jpg's Latin translation of Plato's _Timaeus_, which is one of the Platonic dialogues with the most overt Pythagorean influences]]
+'s Latin translation of Plato's _Timaeus_, which is one of the Platonic dialogues with the most overt Pythagorean influences]]
 
 Sizeable Pythagorean communities existed in Magna Graecia, Phlius, and Thebes during the early fourth century BC. Around the same time, the Pythagorean philosopher Archytas was highly influential on the politics of the city of Tarentum in Magna Graecia. According to later tradition, Archytas was elected as _strategos_ ("general") seven times, even though others were prohibited from serving more than a year. Archytas was also a renowned mathematician and musician. He was a close friend of Plato and he is quoted in Plato's _Republic_.[62] Aristotle states that the philosophy of Plato was heavily dependent on the teachings of the Pythagoreans.[63] Cicero repeats this statement, remarking that _Platonem ferunt didicisse Pythagorea omnia_ ("They say Plato learned all things Pythagorean").[64] According to Charles H. Kahn, Plato's middle dialogues, including _Meno_, _Phaedo_, and _The Republic_, have a strong "Pythagorean coloring", and his last few dialogues (particularly _Philebus_ and _Timaeus_) are extremely Pythagorean in character.
 
@@ -157,7 +153,7 @@ A revival of Pythagorean teachings occurred in the first century BC when Middle 
 
 On art and architecture
 
-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg's Pantheon in Rome, depicted in this eighteenth-century painting by Giovanni Paolo Panini, was built according to Pythagorean teachings.]]
+'s Pantheon in Rome, depicted in this eighteenth-century painting by Giovanni Paolo Panini, was built according to Pythagorean teachings.]]
 
 Greek sculpture sought to represent the permanent reality behind superficial appearances. Early Archaic sculpture represents life in simple forms, and may have been influenced by the earliest Greek natural philosophies. The Greeks generally believed that nature expressed itself in ideal forms and was represented by a type (), which was mathematically calculated. When dimensions changed, architects sought to relay permanence through mathematics. Maurice Bowra believes that these ideas influenced the theory of Pythagoras and his students, who believed that "all things are numbers".
 
@@ -176,7 +172,7 @@ After antiquity
 
 In the Middle Ages
 
-Pythagore-chartres.jpg over the right door of the west portal at Chartres Cathedral.]]
+over the right door of the west portal at Chartres Cathedral.]]
 
 During the Middle Ages, Pythagoras was revered as the founder of mathematics and music, two of the Seven Liberal Arts. He appears in numerous medieval depictions, in illuminated manuscripts and in the relief sculptures on the portal of the Cathedral of Chartres. The _Timaeus_ was the only dialogue of Plato to survive in Latin translation in western Europe, which led William of Conches (c. 1080-1160) to declare that Plato was Pythagorean. In the 1430s, the Camaldolese friar Ambrose Traversari translated Diogenes Laërtius's _Lives and Opinions of Eminent Philosophers_ from Greek into Latin and, in the 1460s, the philosopher Marsilio Ficino translated Porphyry and Iamblichus's _Lives of Pythagoras_ into Latin as well, thereby allowing them to be read and studied by western scholars. In 1494, the Greek Neopythagorean scholar Constantine Lascaris published _The Golden Verses of Pythagoras_, translated into Latin, with a printed edition of his _Grammatica_, thereby bringing them to a widespread audience. In 1499, he published the first Renaissance biography of Pythagoras in his work _Vitae illustrium philosophorum siculorum et calabrorum_, issued in Messina.
 
@@ -188,7 +184,7 @@ Isaac Newton firmly believed in the Pythagorean teaching of the mathematical har
 
 On vegetarianism
 
-Pythagoras_advocating_vegetarianism_(1618-20);_Peter_Paul_Rubens.jpg was inspired by Pythagoras's speech in Ovid's _Metamorphoses_. The painting portrays the Pythagoreans with corpulent bodies, indicating a belief that vegetarianism was healthful and nutritious.]]
+was inspired by Pythagoras's speech in Ovid's _Metamorphoses_. The painting portrays the Pythagoreans with corpulent bodies, indicating a belief that vegetarianism was healthful and nutritious.]]
 
 A fictionalized portrayal of Pythagoras appears in Book XV of Ovid's _Metamorphoses_, in which he delivers a speech imploring his followers to adhere to a strictly vegetarian diet. It was through Arthur Golding's 1567 English translation of Ovid's _Metamorphoses_ that Pythagoras was best known to English-speakers throughout the early modern period. John Donne's _Progress of the Soul_ discusses the implications of the doctrines expounded in the speech and Michel de Montaigne quoted the speech no less than three times in his treatise "Of Cruelty" to voice his moral objections against the mistreatment of animals. William Shakespeare references the speech in his play _The Merchant of Venice_. John Dryden included a translation of the scene with Pythagoras in his 1700 work _Fables, Ancient and Modern_ and John Gay's 1726 fable "Pythagoras and the Countryman" reiterates its major themes, linking carnivorism with tyranny. Lord Chesterfield records that his conversion to vegetarianism had been motivated by reading Pythagoras's speech in Ovid's _Metamorphoses_. Until the word _vegetarianism_ was coined in the 1840s, vegetarians were referred to in English as "Pythagoreans". Percy Bysshe Shelley wrote an ode entitled "To the Pythagorean Diet" and Leo Tolstoy adopted the Pythagorean diet himself.
 
@@ -200,7 +196,7 @@ Heinrich Cornelius Agrippa's popular and influential three-volume treatise _De O
 
 On literature
 
-Paradiso_Canto_31.jpg's description of Heaven in his _Paradiso_ incorporates Pythagorean numerology.]]
+'s description of Heaven in his _Paradiso_ incorporates Pythagorean numerology.]]
 
 Dante Alighieri was fascinated by Pythagorean numerology and based his descriptions of Hell, Purgatory, and Heaven on Pythagorean numbers. Dante wrote that Pythagoras saw Unity as Good and Plurality as Evil and, in _Paradiso_ XV, 56–57, he declares: "five and six, if understood, ray forth from unity." The number eleven and its multiples are found throughout the _Divine Comedy_, each book of which has thirty-three cantos, except for the _Inferno_, which has thirty-four, the first of which serves as a general introduction. Dante describes the ninth and tenth bolgias in the Eighth Circle of Hell as being twenty-two miles and eleven miles respectively, which correspond to the fraction , which was the Pythagorean approximation of pi. Hell, Purgatory, and Heaven are all described as circular and Dante compares the wonder of God's majesty to the mathematical puzzle of squaring the circle. The number three also features prominently: the _Divine Comedy_ has three parts and Beatrice is associated with the number nine, which is equal to three times three.
 

@@ -1,5 +1,3 @@
-US_Army_infantrymen_unload_from_an_M113,_1985.jpg
-
 MECHANIZED INFANTRY are infantry units equipped with armored personnel carriers (APCs) or infantry fighting vehicles (IFVs) for transport and combat (see also mechanized force).
 
 Mechanized infantry is distinguished from motorized infantry in that its vehicles provide a degree of protection from hostile fire, as opposed to "soft-skinned" wheeled vehicles (trucks or jeeps) for motorized infantry. Most APCs and IFVs are fully tracked or are all-wheel drive vehicles (6×6 or 8×8), for mobility across rough ground. Some nations distinguish between mechanized and ARMORED INFANTRY, designating troops carried by APCs as mechanized and those in IFVs as armored.
@@ -11,7 +9,7 @@ Compared with "light" truck-mobile infantry, mechanized infantry can maintain ra
 
 History
 
-Bundesarchiv_Bild_183-P1013-316,_Westfront,_deutscher_Panzer_in_Roye.jpg tanks in Roye, Somme during Operation Michael.]] Some of the first mechanized infantry were assault teams mounted on A7V tanks. The vehicles were extra-large to let them carry sizeable assault teams and would regularly carry infantry on board in addition to their already large crews that were trained as storm troopers. All machine-gun-armed A7V tanks carried two small flame throwers for their dismounts to use. A7V tank would often carry a second officer to lead the assault team.
+tanks in Roye, Somme during Operation Michael.]] Some of the first mechanized infantry were assault teams mounted on A7V tanks. The vehicles were extra-large to let them carry sizeable assault teams and would regularly carry infantry on board in addition to their already large crews that were trained as storm troopers. All machine-gun-armed A7V tanks carried two small flame throwers for their dismounts to use. A7V tank would often carry a second officer to lead the assault team.
 
 During the Battle of St. Quentin, A7Vs were accompanied by 20 storm troopers from Rohr Assault Battalion, but it is unspecified if they were acting as dismounts or were accompanying the tanks on foot. During the battle, tank crews were reported to have dismounted and attacked enemy positions with grenades and flamethrowers on numerous occasions.
 
@@ -28,8 +26,6 @@ Although some proponents of mobile warfare, such as J. F. C. Fuller, advocated b
 As the Germans rearmed in the 1930s, they equipped some infantry units in their new _Panzer_ divisions with the half-track Sd.Kfz. 251, which could keep up with tanks on most terrain. The French Army also created "light mechanized" (_légère mécanisée_) divisions in which some of the infantry units possessed small tracked carriers. Together with the motorization of the other infantry and support units, this gave both armies highly mobile combined-arms formations. The German doctrine was to use them to exploit breakthroughs in _Blitzkrieg_ offensives, whereas the French envisaged them being used to shift reserves rapidly in a defensive battle.
 
 World War II
-
-A_column_of_halftrac_armored_cars_waits_for_orders_to_proceed_to_a_practice_engagement_at_Fort_Knox,_Ky._-_NARA_-_196277.jpg
 
 As World War II progressed, most major armies integrated tanks or assault guns with mechanized infantry, as well as other supporting arms, such as artillery and engineers, as combined arms units.
 
@@ -66,7 +62,7 @@ A line of development in the Soviet Armed Forces from the 1980s was the provisio
 
 Present day
 
-1st_BDE_25th_ID(L)_Irak_2004.jpg in Mosul, Iraq 2004.]]
+in Mosul, Iraq 2004.]]
 
 At present, almost all infantry units from industrialized nations are provided with some type of motor transport. Infantry units equipped with IFVs rather than lighter vehicles are commonly designated as "heavy", indicating more combat power but also more costly long-range transportation requirements. In Operation Desert Shield, during the buildup phase of the First Gulf War, the U.S. Army was concerned about the lack of mobility, protection and firepower offered by existing rapid deployment (i.e., airborne) formations; and also about the slowness of deploying regular armored units. The experience led the U.S. Army to form combat brigades based on the Stryker wheeled IFV.
 

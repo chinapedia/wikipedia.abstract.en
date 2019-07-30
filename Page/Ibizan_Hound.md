@@ -3,8 +3,6 @@ The IBIZAN HOUND (, ) is a lean, agile dog of the hound family. There are two ha
 
 Description
 
-6_month_old_ibizan_hounds.jpg
-
 Appearance
 
 The Ibizan Hound is an elegant and agile breed, with an athletic and attractive outline and a ground-covering springy trot. Though graceful in appearance, it has good bone girth and is a rugged/hardy breed. Its large upright ears - a hallmark of the breed - are broad at the base and frame a long and elegant headpiece. The neck is long and lean. It has a unique front assembly with well laid-back shoulders and relatively straight upper arm. Coming in both smooth and wire-coated varieties, their coat is a combination of red and white with the nose, ears, eye rims, and pads of feet being a light tan color. Its eyes are a striking amber color and have an alert and intelligent expression. The Ibizan may range in height, depending on which Standard you follow, from and weigh from , males being larger than females.
@@ -23,7 +21,7 @@ The Ibizan Hound is typical of the Hound Group in that it rarely suffers from he
 
 History and use
 
-Femelle_Podenco_Ibicenco.jpg This breed originates in the island of Eivissa and has been traditionally used in the Catalan-speaking areas of Spain, and France where it was known under the name of _le charnigue_, to hunt rabbits and other small game. The Ibizan Hound is a fast dog that can hunt on all types of terrain, working by scent, sound and sight. Hunters run these dogs in mostly female packs, with perhaps a male or two, as the female is considered the better hunter.
+This breed originates in the island of Eivissa and has been traditionally used in the Catalan-speaking areas of Spain, and France where it was known under the name of _le charnigue_, to hunt rabbits and other small game. The Ibizan Hound is a fast dog that can hunt on all types of terrain, working by scent, sound and sight. Hunters run these dogs in mostly female packs, with perhaps a male or two, as the female is considered the better hunter.
 
 Traditionally a farmer may have one dog and a very well off farmer two dogs to catch rabbits for food. However in the last twenty years it is seen as a sport where between five and fifteen dogs can be seen in the chase of one rabbit.
 

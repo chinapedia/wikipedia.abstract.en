@@ -25,7 +25,7 @@ The Dutch Republic formally claimed Saint Helena in 1633, although there is no 
 
 East India Company (1658–1815)
 
-Thornton,_St_Helena.jpg'', engraving, c. 1790.]] In 1657, Oliver Cromwell[16] granted the English East India Company a charter to govern Saint Helena and, the following year, the company decided to fortify the island and colonise it with planters. The first governor, Captain John Dutton, arrived in 1659, making Saint Helena one of Britain's earliest colonies outside North America and the Caribbean. A fort and houses were built. After the Restoration of the English monarchy in 1660, the East India Company received a royal charter giving it the sole right to fortify and colonise the island. The fort was renamed James Fort and the town Jamestown, in honour of the Duke of York, later King James II of England.
+'', engraving, c. 1790.]] In 1657, Oliver Cromwell[16] granted the English East India Company a charter to govern Saint Helena and, the following year, the company decided to fortify the island and colonise it with planters. The first governor, Captain John Dutton, arrived in 1659, making Saint Helena one of Britain's earliest colonies outside North America and the Caribbean. A fort and houses were built. After the Restoration of the English monarchy in 1660, the East India Company received a royal charter giving it the sole right to fortify and colonise the island. The fort was renamed James Fort and the town Jamestown, in honour of the Duke of York, later King James II of England.
 
 Between January and May 1673, the Dutch East India Company forcibly took the island, before English reinforcements restored English East India Company control. The company experienced difficulty attracting new immigrants, and sentiments of unrest and rebellion arose among the inhabitants. Ecological problems of deforestation, soil erosion, vermin and drought led Governor Isaac Pyke in 1715 to suggest that the population be moved to Mauritius, but this was not acted upon and the company continued to subsidise the community because of the island's strategic location. A census in 1723 recorded 1,110 people, including 610 slaves.
 
@@ -39,7 +39,7 @@ The importation of slaves was made illegal in 1792. Governor Robert Patton (1802
 
 British rule (1815–1821) and Napoleon's exile
 
-Napoleon_sainthelene.jpg 16_Napoleons_exole_St_Helena_June1970.jpg In 1815, the British government selected Saint Helena as the place of detention for Napoleon Bonaparte. He was taken to the island in October 1815. Britain also took the precaution of sending a garrison of soldiers, with an experienced officer (Edward Nicolls), to uninhabited Ascension Island, which lay between St. Helena and Europe.[19]
+In 1815, the British government selected Saint Helena as the place of detention for Napoleon Bonaparte. He was taken to the island in October 1815. Britain also took the precaution of sending a garrison of soldiers, with an experienced officer (Edward Nicolls), to uninhabited Ascension Island, which lay between St. Helena and Europe.[19]
 
 Napoleon stayed at the Briars pavilion on the grounds of the Balcombe family's home until his permanent residence at Longwood House was completed in December 1815. Napoleon died there on 5 May 1821.[20]
 
@@ -73,7 +73,7 @@ From 1958, the Union Castle shipping line gradually reduced its service calls to
 
 1981 to present
 
-Saint_Helena_Island.jpg The British Nationality Act 1981 reclassified Saint Helena and the other Crown colonies as British Dependent Territories. The islanders lost their right of abode in Britain. For the next 20 years, many could find only low-paid work with the island government, and the only available employment outside Saint Helena was on the Falkland Islands and Ascension Island. The Development and Economic Planning Department (which still operates) was formed in 1988 to contribute to raising the living standards of the people of Saint Helena.
+The British Nationality Act 1981 reclassified Saint Helena and the other Crown colonies as British Dependent Territories. The islanders lost their right of abode in Britain. For the next 20 years, many could find only low-paid work with the island government, and the only available employment outside Saint Helena was on the Falkland Islands and Ascension Island. The Development and Economic Planning Department (which still operates) was formed in 1988 to contribute to raising the living standards of the people of Saint Helena.
 
 In 1989, Prince Andrew launched the replacement RMS _St Helena_ to serve the island; the vessel was specially built for the Cardiff–Cape Town route and featured a mixed cargo/passenger layout.
 
@@ -82,7 +82,7 @@ The Saint Helena Constitution took effect in 1989 and provided that the island 
 
 Geography
 
-LocationStHelena.PNG, Saint Helena, and Tristan da Cunha in the South Atlantic Ocean]]
+, Saint Helena, and Tristan da Cunha in the South Atlantic Ocean]]
 
 Located in the South Atlantic Ocean on the Mid-Atlantic Ridge, more than from the nearest major landmass, Saint Helena is one of the most remote places in the world. The nearest port on the continent is Moçâmedes in southern Angola; connections to Cape Town in South Africa are used for most shipping needs, such as the mail boat that serves the island, the RMS _St Helena_.
 
@@ -102,8 +102,6 @@ The climate of Saint Helena is tropical, marine and mild, tempered by the Bengue
 
 
 Administrative divisions
-
-Districts_of_St_Helena.svg
 
 Saint Helena is divided into eight districts,[32] with the majority housing a community Centre. The districts also serve as statistical divisions. The island is a single electoral area and elects 12 representatives to the Legislative Council[33] of 15.
 
@@ -137,7 +135,7 @@ Population
 
 Demographics
 
-St-Helena-Jamestown-from-above.jpg, from above]] St-Helena-Jamestown.jpg, the capital of Saint Helena]] Saint Helena was first settled by the English in 1659. , the island had a population of 4,897 inhabitants,[38] mainly descended from people from Britain – settlers ("planters") and soldiers – and slaves who were brought there from the beginning of settlement – initially from Africa (the Cape Verde Islands, Gold Coast and west coast of Africa are mentioned in early records), then India and Madagascar. The importation of slaves was made illegal in 1792, thus preventing any further increase in their numbers.
+, from above]] , the capital of Saint Helena]] Saint Helena was first settled by the English in 1659. , the island had a population of 4,897 inhabitants,[38] mainly descended from people from Britain – settlers ("planters") and soldiers – and slaves who were brought there from the beginning of settlement – initially from Africa (the Cape Verde Islands, Gold Coast and west coast of Africa are mentioned in early records), then India and Madagascar. The importation of slaves was made illegal in 1792, thus preventing any further increase in their numbers.
 
 In 1840, Saint Helena became a provisioning station for the British West Africa Squadron,[39] preventing the transportation of slaves to Brazil (mainly), and many thousands of slaves were freed on the island. These were all African, and about 500 stayed while the rest were sent on to the West Indies and Cape Town, and eventually to Sierra Leone.
 
@@ -220,7 +218,7 @@ For more information on currency in the wider region, see pound sterling in the 
 
 Transport
 
-RMS_St_Helena.jpg in James Bay]] St-Helena-view-when-leaving.jpg
+in James Bay]]
 
 Saint Helena is one of the most remote islands in the world. It has one commercial airport, and since air traffic opened in 2017, the island is a little less remote.[63]
 
@@ -232,7 +230,7 @@ Until 2017, the Royal Mail Ship ran between Saint Helena and Cape Town on a five
 
 Air
 
-First_Comair_Boeing_737-800_flight_to_Saint_Helena_Airport_(191).jpg in 2016]] In March 2005, the British government announced plans to construct the Saint Helena Airport.[65] On 22 July 2010, the British government agreed to help pay for the new airport.[66] In November 2011, a deal was signed between the British government and South African civil engineering company Basil Read, and the airport was scheduled to open in February 2016 with flights to and from South Africa and the UK.[67] The cost was £250 million. This is aimed at helping the island become more self-sufficient, encouraging economic development while reducing dependence on British government aid. It is also expected to kick-start the tourism industry, with up to 30,000 visitors expected annually.[68]
+in 2016]] In March 2005, the British government announced plans to construct the Saint Helena Airport.[65] On 22 July 2010, the British government agreed to help pay for the new airport.[66] In November 2011, a deal was signed between the British government and South African civil engineering company Basil Read, and the airport was scheduled to open in February 2016 with flights to and from South Africa and the UK.[67] The cost was £250 million. This is aimed at helping the island become more self-sufficient, encouraging economic development while reducing dependence on British government aid. It is also expected to kick-start the tourism industry, with up to 30,000 visitors expected annually.[68]
 
 The first aircraft landed at the new airport on 15 September 2015, a South African Beechcraft King Air 200, prior to conducting a series of flights to calibrate the airport's radio navigation equipment.[69][70] The airport's opening was scheduled for May 2016, but it was announced in June 2016 that it had been delayed indefinitely due to high winds and wind shear.[71] In 2017, South African airline Airlink became the preferred bidder to provide weekly air service between the island and Johannesburg. The first commercial flight ever to land at Saint Helena was a charter flight carried out by Airlink of South Africa on Wednesday, May 3, 2017 from Cape Town via Moçâmedes, Angola, using the Avro RJ85 ZS-SSH (msn 2285). The flight picked up passengers of RMS _St Helena_ stranded on the island when _St Helena_ suffered propeller damage.[72]
 

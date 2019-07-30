@@ -1,4 +1,4 @@
-Mayotte_topographic_map-fr.svg MAYOTTE (, ; Shimaore: _Maore_, ; ) is an overseas department and region of France officially named the DEPARTMENT OF MAYOTTE (French: _Département de Mayotte_).[1] It consists of a main island, Grande-Terre (or Maore), a smaller island, Petite-Terre (or Pamanzi), and several islets around these two. Mayotte is part of the Comoros archipelago, located in the northern Mozambique Channel in the Indian Ocean off the coast of Southeast Africa, between northwestern Madagascar and northeastern Mozambique. The department status of Mayotte is recent and the region remains, by a significant margin, the poorest in France. Mayotte is nevertheless much more prosperous than the other countries of the Mozambique Channel, making it a major destination for illegal immigration.
+MAYOTTE (, ; Shimaore: _Maore_, ; ) is an overseas department and region of France officially named the DEPARTMENT OF MAYOTTE (French: _Département de Mayotte_).[1] It consists of a main island, Grande-Terre (or Maore), a smaller island, Petite-Terre (or Pamanzi), and several islets around these two. Mayotte is part of the Comoros archipelago, located in the northern Mozambique Channel in the Indian Ocean off the coast of Southeast Africa, between northwestern Madagascar and northeastern Mozambique. The department status of Mayotte is recent and the region remains, by a significant margin, the poorest in France. Mayotte is nevertheless much more prosperous than the other countries of the Mozambique Channel, making it a major destination for illegal immigration.
 
 Mayotte's area is and, with its 270,372 people according to January 2019 official estimates,[2] is very densely populated at 723 per km² (1,872 per sq mi). The biggest city and prefecture is Mamoudzou on Grande-Terre. However, the Dzaoudzi–Pamandzi International Airport is located on the neighbouring island of Petite-Terre. The territory is also known as Maore, the native name of its main island, especially by advocates of its inclusion in the Union of the Comoros.
 
@@ -20,7 +20,7 @@ Environment
 
 Geology
 
-2019-03-08-Mayotte-Bathymetry-EQs-Section.png 2019-03-08-Mayotte_Bathymetry-EW-profile.png Mayotte is a primarily volcanic island rising steeply from the bed of the ocean to a height of on Mont Bénara (Open Street Map gives this as ).
+Mayotte is a primarily volcanic island rising steeply from the bed of the ocean to a height of on Mont Bénara (Open Street Map gives this as ).
 
 Two volcanic centres are reported, a southern one (Pic Chongui, , with a breached crater to the NW, and a northern centre (Mont M'Tsapéré, ) with a breached crater to the south-east. Mont Bénara is on the curving ridge between these two peaks, approximately at the contact point of the two structures. Volcanic activity started about 7.7 million years ago in the south, ceasing about 2.7 million years ago. In the north, activity started about 4.7 million years ago and lasted until about 1.4 million years ago. Both centres had several phases of activity.[7] The most recent age reported for an ash band is 7000 year BP.[8]
 
@@ -38,7 +38,7 @@ The outer coral reef is 195 km long, housing 1,500 km2 of lagoon, including 7.3
 
 Terrestrial environment
 
-Pteropus_seychellensis_comorensis.JPG comorensis'').]] In terms of flora, Mayotte is a true heaven : more than 1300 species are recorded, half of them being endemic, making this island one of the richest in the world compared to its size.[14] 15% of the island is classified as natural reserve; however, the primal forest now covers barely 5% of the island due to illegal deforestation.
+comorensis'').]] In terms of flora, Mayotte is a true heaven : more than 1300 species are recorded, half of them being endemic, making this island one of the richest in the world compared to its size.[14] 15% of the island is classified as natural reserve; however, the primal forest now covers barely 5% of the island due to illegal deforestation.
 
 Just like many volcanic islands, Mayotte shelters quite a limited mammal biodiversity, the only native species being flying foxes (_Pteropus seychellensis comorensis_). However, there are 18 species of reptiles, 23 of terrestrial mollusks, 116 butterflies, 38 dragonflies, 50 grasshoppers, 150 beetles.[15]
 
@@ -47,7 +47,7 @@ History
 
 In 1500, the Maore sultanate was established on the island. In 1503, Mayotte was observed and named (firstly _Espiritu Santu_) by Portuguese explorers, but not colonized. The island has known several eras of wealth (especially during the 11th century at Acoua or between 9th and 12th centuries at Dembéni), being an important part of the swahili coast culture. However, its sister island Anjouan was prefered by international traders due to its better suitability to large boats, and for a long time Mayotte remained poorly developed compared to the three other Comoros islands, and often targeted by pirates and Malagasy or Comorian raids.
 
-Andriantsoly.jpg, last sultan of Mayotte, from 1832 to 1843.]] In 1832, Mayotte was conquered by Andriantsoly, former king of Iboina on Madagascar; in 1833, it was conquered by the neighbouring sultanate of Mwali (Mohéli island in French). On 19 November 1835, Mayotte was again conquered by the Ndzuwani Sultanate (Anjouan sultanate in French); a governor was installed with the unusual Islamic style of Qadi (from the Arabic قاض which means judge). However, in 1836 it regained its independence under a last local Sultan. Andriantsoly won again the island in 1836, but his depopulated and unfortified island was in a weak position towards the sultans of Comoros, Malagasy kings and pirates. Looking for the help of a powerful ally, he began to negociate with the French, installed in the nearby Malagasy island of Nosy Bé in 1840.
+, last sultan of Mayotte, from 1832 to 1843.]] In 1832, Mayotte was conquered by Andriantsoly, former king of Iboina on Madagascar; in 1833, it was conquered by the neighbouring sultanate of Mwali (Mohéli island in French). On 19 November 1835, Mayotte was again conquered by the Ndzuwani Sultanate (Anjouan sultanate in French); a governor was installed with the unusual Islamic style of Qadi (from the Arabic قاض which means judge). However, in 1836 it regained its independence under a last local Sultan. Andriantsoly won again the island in 1836, but his depopulated and unfortified island was in a weak position towards the sultans of Comoros, Malagasy kings and pirates. Looking for the help of a powerful ally, he began to negociate with the French, installed in the nearby Malagasy island of Nosy Bé in 1840.
 
 Mayotte was purchased by France in 1841, and integrated to the Crown. This also entailed the end of the slavery regime which had dominated the island for centuries : the slaves were sent free and most of the masters, ruined, had to leave the island.
 
@@ -59,14 +59,14 @@ At the Berlin conference in 1885, France takes control over the whole Comoros ar
 
 In 1898, two cyclones raze the island to the ground, and a smallpox epidemic decimates the survivors. Mayotte has to start from the beginning once again, and the French government has to repopulate the island with workers from Mozambique, Comoros and Madagascar. The sugar industry is abandoned, replaced by vanilla, coffee, copra, sisal, then fragrant plants such as vetiver, citronelle, sandalwood and especially ylang-ylang, which will later become ont of the symbols of the island.
 
-Comores_carte.png Mayotte was the only island in the archipelago that voted in referenda in 1974 and 1976 to retain its link with France and forgo independence (with 63.8% and 99.4% of votes respectively). The United Nations' constant policy regarding decolonisation has been that independence must be effected in the framework of the colonial borders and for that reason it has not recognized the validity of that referendum; over twenty UN resolutions have condemned France's annexation of Mayotte, while the independent Comoros have never ceased to claim the island.[16] A draft 1976 United Nations Security Council resolution recognizing Comorian sovereignty over Mayotte, supported by 11 of the 15 members of the Council, was vetoed by France.[17] It was the last time, , that France cast a lone veto in the Council.[18] The United Nations General Assembly adopted a series of resolutions on the issues, under the title "Question of the Comorian Island of Mayotte" up to 1995. Since 1995, the subject of Mayotte has not been discussed by the General Assembly, and all the following referenda over Mayotte independance have shown a strong will of Mayotte people to remain French.
+Mayotte was the only island in the archipelago that voted in referenda in 1974 and 1976 to retain its link with France and forgo independence (with 63.8% and 99.4% of votes respectively). The United Nations' constant policy regarding decolonisation has been that independence must be effected in the framework of the colonial borders and for that reason it has not recognized the validity of that referendum; over twenty UN resolutions have condemned France's annexation of Mayotte, while the independent Comoros have never ceased to claim the island.[16] A draft 1976 United Nations Security Council resolution recognizing Comorian sovereignty over Mayotte, supported by 11 of the 15 members of the Council, was vetoed by France.[17] It was the last time, , that France cast a lone veto in the Council.[18] The United Nations General Assembly adopted a series of resolutions on the issues, under the title "Question of the Comorian Island of Mayotte" up to 1995. Since 1995, the subject of Mayotte has not been discussed by the General Assembly, and all the following referenda over Mayotte independance have shown a strong will of Mayotte people to remain French.
 
-2004_12_12_18-24-04_rose_sea_in_mamoudzou_mayotte_island.jpg.]] Mayotte became an overseas department of France in March 2011 in consequence of a 29 March 2009 referendum.[19] The outcome was a 95.5 per cent vote in favour of changing the island's status from a French "overseas community" to become France's 101st département.[20] Its non-official traditional Islamic law, applied in some aspects of the day-to-day life, will be gradually abolished and replaced by the uniform French civil code.[21] Additionally, French social welfare and taxes apply in Mayotte, though some of each will be brought in gradually.[22] Comoros continues to claim the island, while criticising the French military base there.[23] At the time of writing (March 2019), there is a continuing series of minor earthquakes taking place to the east of the island, as reported in the Environment/ Geology section. The significance, insignificance, and consequences of this remain unclear at this time.
+.]] Mayotte became an overseas department of France in March 2011 in consequence of a 29 March 2009 referendum.[19] The outcome was a 95.5 per cent vote in favour of changing the island's status from a French "overseas community" to become France's 101st département.[20] Its non-official traditional Islamic law, applied in some aspects of the day-to-day life, will be gradually abolished and replaced by the uniform French civil code.[21] Additionally, French social welfare and taxes apply in Mayotte, though some of each will be brought in gradually.[22] Comoros continues to claim the island, while criticising the French military base there.[23] At the time of writing (March 2019), there is a continuing series of minor earthquakes taking place to the east of the island, as reported in the Environment/ Geology section. The significance, insignificance, and consequences of this remain unclear at this time.
 
 
 Politics
 
-EU_OCT_and_OMR_map_en.png House_in_Kawéni,_Mayotte.jpg The politics of Mayotte takes place in a framework of a parliamentary representative democratic French local government, whereby the President of the Departmental Council is the head of the local assembly, and of a multi-party system. Executive power is exercised by the French government.
+The politics of Mayotte takes place in a framework of a parliamentary representative democratic French local government, whereby the President of the Departmental Council is the head of the local assembly, and of a multi-party system. Executive power is exercised by the French government.
 
 Mayotte also sends one deputy to the French National Assembly and two senators to the French Senate.
 
@@ -84,8 +84,6 @@ Despite its domestic constitutional evolution from the status of an overseas col
 Administrative divisions
 
 Mayotte is divided into 17 communes. There are also 13 cantons (not shown here). There are no arrondissements.
-
-Mayotte_administrative1.PNG
 
 1.  Dzaoudzi
 2.  Pamandzi
@@ -123,8 +121,6 @@ Transport
 
 Economy
 
-Agropaysage_mahorais.jpg
-
 The official currency in Mayotte is the euro.[29]
 
 In 2017, the GDP of Mayotte at market exchange rates was €2.9 billion (US $3.3 bn).[30] In that same year the GDP per capita of Mayotte at market exchange rates, not at PPP, was €11,354 (US $12,820),[31] which was 16 times larger than the GDP per capita of the Comoros that year, but only 49.5% of the GDP per capita of Réunion and 33% of the GDP per capita of Metropolitan France.
@@ -136,7 +132,7 @@ Demographics
 
 On January 1, 2019, a record 270,372 people were living in Mayotte (official INSEE estimate).[32] According to the 2017 census, 58.5% of the people living in Mayotte were born in Mayotte (down from 63.5% at the 2007 census), 5.6% were born in the rest of the French Republic (either metropolitan France or overseas France except Mayotte) (up from 4.8% in 2007), and 35.8% were immigrants born in foreign countries (up from 31.7% at the 2007 census, with the following countries of birth in 2007: 28.3% born in the Union of the Comoros, 2.6% in Madagascar, and the remaining 0.8% in other countries).[33][34]
 
-Vue-Sada.jpg including mosque]] Tsingoni_minaret.jpg.]] Most of the inhabitants of the island are culturally Comorians. The Comorians are a blend of settlers from many areas: Iranian traders, mainland Africans, Arabs and Malagasy. Comorian communities can also be found in other parts of the Comoros chain as well as in Madagascar.
+including mosque]] .]] Most of the inhabitants of the island are culturally Comorians. The Comorians are a blend of settlers from many areas: Iranian traders, mainland Africans, Arabs and Malagasy. Comorian communities can also be found in other parts of the Comoros chain as well as in Madagascar.
 
 Due to large inflows of immigrants from the Union of the Comoros, the native Mahorans have now become a minority on the island among the adult population. At the 2017 census, the people born in Mayotte made up only 39.9% of the adult population, while the people born in foreign countries (predominantly the Union of the Comoros) made up 54.6% of the adult population.[35] In 2017, the mothers born in foreign countries (predominantly the Union of the Comoros) were responsible for 75.7% of the births that took place in Mayotte.[36]
 

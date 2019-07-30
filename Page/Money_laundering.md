@@ -1,4 +1,4 @@
-Money-laundering.svg MONEY LAUNDERING is the illegal process of concealing the origins of money obtained illegally by passing it through a complex sequence of banking transfers or commercial transactions. The overall scheme of this process returns the money to the launderer in an obscure and indirect way.[1]
+MONEY LAUNDERING is the illegal process of concealing the origins of money obtained illegally by passing it through a complex sequence of banking transfers or commercial transactions. The overall scheme of this process returns the money to the launderer in an obscure and indirect way.[1]
 
 One problem of criminal activities is accounting for the proceeds without raising the suspicion of law enforcement agencies. Considerable time and effort may be put into strategies which enable the safe use of those proceeds without raising unwanted suspicion. Implementing such strategies is generally called money laundering. After money has been laundered, it can be used for legitimate purposes. Law enforcement agencies of many jurisdictions have set up sophisticated systems in an effort to detect suspicious transactions or activities, and many have set up international cooperative arrangements to assist each other in these endeavors.
 
@@ -18,7 +18,7 @@ The September 11 attacks in 2001, which led to the Patriot Act in the U.S. and s
 
 Definition
 
-Money-laundering.svg The conversion or transfer of property, the concealment or disguising of the nature of the proceeds, the acquisition, possession or use of property, knowing that these are derived from criminal activity and participate or assist the movement of funds to make the proceeds appear legitimate, is money laundering.
+The conversion or transfer of property, the concealment or disguising of the nature of the proceeds, the acquisition, possession or use of property, knowing that these are derived from criminal activity and participate or assist the movement of funds to make the proceeds appear legitimate, is money laundering.
 
 Money obtained from certain crimes, such as extortion, insider trading, drug trafficking, and illegal gambling is "dirty" and needs to be "cleaned" to appear to have been derived from legal activities, so that banks and other financial institutions will deal with it without suspicion. Money can be laundered by many methods which vary in complexity and sophistication.
 
@@ -326,7 +326,7 @@ The Intelligence Reform & Terrorism Prevention Act of 2004 amended the Bank Secr
 
 Notable cases
 
-1998_Senate_Investigation_Contribution_Money_Laundering.pdf, Contribution Laundering/Third-Party Transfers. Includes investigation of Gandhi Memorial International Foundation.]]
+, Contribution Laundering/Third-Party Transfers. Includes investigation of Gandhi Memorial International Foundation.]]
 
 -   Bank of Credit and Commerce International: Unknown amount, estimated in billions, of criminal proceeds, including drug trafficking money, laundered during the mid-1980s.[140]
 -   BTA Bank: $6 billion of bank funds embezzled or fraudulently loaned to shell companies and offshore holdings by the banks former chairman and CEO Mukhtar Ablyazov.[141]

@@ -7,7 +7,7 @@ History
 
 Origin and early acclaim
 
-Willwrightatsxsw.jpg Maxis was founded in 1987 by Will Wright and Jeff Braun to help publish _SimCity_ on home computers. Before then, the game was only available on a limited basis on the Commodore 64 due to few publishers showing any interest in porting it. The reason for this is because _SimCity_ was not a traditional game that had definite "win" and "lose" conditions. The title went on to become one of the most popular and successful video games of all time.[3] The _SimCity_ series has spawned multiple sequels and spin-offs. Following the broad success of _SimCity 2000_, Maxis moved from Orinda, California, to Walnut Creek[4] in 1994.
+Maxis was founded in 1987 by Will Wright and Jeff Braun to help publish _SimCity_ on home computers. Before then, the game was only available on a limited basis on the Commodore 64 due to few publishers showing any interest in porting it. The reason for this is because _SimCity_ was not a traditional game that had definite "win" and "lose" conditions. The title went on to become one of the most popular and successful video games of all time.[3] The _SimCity_ series has spawned multiple sequels and spin-offs. Following the broad success of _SimCity 2000_, Maxis moved from Orinda, California, to Walnut Creek[4] in 1994.
 
 After such success with the _SimCity_ series, Maxis tried various other _Sim-_ titles. Some of these attempts include _SimAnt_, _SimFarm_, _SimEarth_, _SimLife_, _SimTower_, _SimIsle_ and _SimHealth_. Maxis was also approached by companies to design business aids; _SimRefinery_ is one example. The success of these franchises varies, but none matched that of the original _SimCity_.
 
@@ -15,7 +15,7 @@ Maxis released some non-simulation titles, such as 1991's _RoboSport_ and 1995's
 
 Origin of the name
 
-Maxis_logo_(former).svg Maxis's name was derived from a formula suggested by Jeff Braun's father: video game companies should have two-syllable names and should include an 'x'.[6]
+Maxis's name was derived from a formula suggested by Jeff Braun's father: video game companies should have two-syllable names and should include an 'x'.[6]
 
 Decline
 

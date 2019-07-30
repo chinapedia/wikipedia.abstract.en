@@ -1,4 +1,4 @@
-Common_lipids_lmaps.png[1] and oleic acid.[2] The middle structure is a triglyceride composed of oleoyl, stearoyl, and palmitoyl chains attached to a glycerol backbone. At the bottom is the common phospholipid phosphatidylcholine.]] In biology and biochemistry, a LIPID is a biomolecule that is soluble in nonpolar solvents.[3] Non-polar solvents are typically hydrocarbons used to dissolve other naturally occurring hydrocarbon lipid molecules that do not (or do not easily) dissolve in water, including fatty acids, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, and phospholipids.
+[1] and oleic acid.[2] The middle structure is a triglyceride composed of oleoyl, stearoyl, and palmitoyl chains attached to a glycerol backbone. At the bottom is the common phospholipid phosphatidylcholine.]] In biology and biochemistry, a LIPID is a biomolecule that is soluble in nonpolar solvents.[3] Non-polar solvents are typically hydrocarbons used to dissolve other naturally occurring hydrocarbon lipid molecules that do not (or do not easily) dissolve in water, including fatty acids, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, and phospholipids.
 
 The functions of lipids include storing energy, signaling, and acting as structural components of cell membranes.[4][5] Lipids have applications in the cosmetic and food industries as well as in nanotechnology.[6]
 
@@ -28,7 +28,7 @@ Categories of Lipids
 
 Fatty acids
 
-Prostacyclin-2D-skeletal.png (an example of a prostaglandin, an eicosanoid fatty acid)]] Leukotriene_B4.svg (an example of a leukotriene, an eicosanoid fatty acid)]]
+(an example of a prostaglandin, an eicosanoid fatty acid)]] (an example of a leukotriene, an eicosanoid fatty acid)]]
 
 Fatty acids, or fatty acid residues when they are part of a lipid, are a diverse group of molecules synthesized by chain-elongation of an acetyl-CoA primer with malonyl-CoA or methylmalonyl-CoA groups in a process called fatty acid synthesis.[25][26] They are made of a hydrocarbon chain that terminates with a carboxylic acid group; this arrangement confers the molecule with a polar, hydrophilic end, and a nonpolar, hydrophobic end that is insoluble in water. The fatty acid structure is one of the most fundamental categories of biological lipids, and is commonly used as a building-block of more structurally complex lipids. The carbon chain, typically between four and 24 carbons long,[27] may be saturated or unsaturated, and may be attached to functional groups containing oxygen, halogens, nitrogen, and sulfur. If a fatty acid contains a double bond, there is the possibility of either a _cis_ or _trans_ geometric isomerism, which significantly affects the molecule's configuration. _Cis_-double bonds cause the fatty acid chain to bend, an effect that is compounded with more double bonds in the chain. Three double bonds in 18-carbon _linolenic acid_, the most abundant fatty-acyl chains of plant _thylakoid membranes_, render these membranes highly _fluid_ despite environmental low-temperatures,[28] and also makes linolenic acid give dominating sharp peaks in high resolution 13-C NMR spectra of chloroplasts. This in turn plays an important role in the structure and function of cell membranes.[29] Most naturally occurring fatty acids are of the _cis_ configuration, although the _trans_ form does exist in some natural and partially hydrogenated fats and oils.[30]
 
@@ -36,13 +36,13 @@ Examples of biologically important fatty acids include the eicosanoids, derived 
 
 Glycerolipids
 
-Fat_triglyceride_shorthand_formula.PNG; right part, from top to bottom: palmitic acid, oleic acid, alpha-linolenic acid.]] Glycerolipids are composed of mono-, di-, and tri-substituted glycerols,[34] the best-known being the fatty acid triesters of glycerol, called triglycerides. The word "triacylglycerol" is sometimes used synonymously with "triglyceride". In these compounds, the three hydroxyl groups of glycerol are each esterified, typically by different fatty acids. Because they function as an energy store, these lipids comprise the bulk of storage fat in animal tissues. The hydrolysis of the ester bonds of triglycerides and the release of glycerol and fatty acids from adipose tissue are the initial steps in metabolizing fat.[35]
+; right part, from top to bottom: palmitic acid, oleic acid, alpha-linolenic acid.]] Glycerolipids are composed of mono-, di-, and tri-substituted glycerols,[34] the best-known being the fatty acid triesters of glycerol, called triglycerides. The word "triacylglycerol" is sometimes used synonymously with "triglyceride". In these compounds, the three hydroxyl groups of glycerol are each esterified, typically by different fatty acids. Because they function as an energy store, these lipids comprise the bulk of storage fat in animal tissues. The hydrolysis of the ester bonds of triglycerides and the release of glycerol and fatty acids from adipose tissue are the initial steps in metabolizing fat.[35]
 
 Additional subclasses of glycerolipids are represented by glycosylglycerols, which are characterized by the presence of one or more sugar residues attached to glycerol via a glycosidic linkage. Examples of structures in this category are the digalactosyldiacylglycerols found in plant membranes[36] and seminolipid from mammalian sperm cells.[37]
 
 Glycerophospholipids
 
-Phosphatidyl-ethanolamine.svg]]
+]]
 
 Glycerophospholipids, usually referred to as phospholipids (though sphingomyelins are also classified as phospholipids), are ubiquitous in nature and are key components of the lipid bilayer of cells,[38] as well as being involved in metabolism and cell signaling.[39] Neural tissue (including the brain) contains relatively high amounts of glycerophospholipids, and alterations in their composition has been implicated in various neurological disorders.[40] Glycerophospholipids may be subdivided into distinct classes, based on the nature of the polar headgroup at the _sn_-3 position of the glycerol backbone in eukaryotes and eubacteria, or the _sn_-1 position in the case of archaebacteria.[41]
 
@@ -50,7 +50,7 @@ Examples of glycerophospholipids found in biological membranes are phosphatidylc
 
 Sphingolipids
 
-Sphingomyelin-horizontal-2D-skeletal.png]]
+]]
 
 Sphingolipids are a complicated family of compounds[44] that share a common structural feature, a sphingoid base backbone that is synthesized _de novo_ from the amino acid serine and a long-chain fatty acyl CoA, then converted into ceramides, phosphosphingolipids, glycosphingolipids and other compounds. The major sphingoid base of mammals is commonly referred to as sphingosine. Ceramides (N-acyl-sphingoid bases) are a major subclass of sphingoid base derivatives with an amide-linked fatty acid. The fatty acids are typically saturated or mono-unsaturated with chain lengths from 16 to 26 carbon atoms.[45]
 
@@ -62,11 +62,11 @@ Sterol lipids, such as cholesterol and its derivatives, are an important compone
 
 Prenol lipids
 
-Prenol_lipid_2e_geraniol.jpeg Prenol lipids are synthesized from the five-carbon-unit precursors isopentenyl diphosphate and dimethylallyl diphosphate that are produced mainly via the mevalonic acid (MVA) pathway.[55] The simple isoprenoids (linear alcohols, diphosphates, etc.) are formed by the successive addition of C5 units, and are classified according to number of these terpene units. Structures containing greater than 40 carbons are known as polyterpenes. Carotenoids are important simple isoprenoids that function as antioxidants and as precursors of vitamin A.[56] Another biologically important class of molecules is exemplified by the quinones and hydroquinones, which contain an isoprenoid tail attached to a quinonoid core of non-isoprenoid origin.[57] Vitamin E and vitamin K, as well as the ubiquinones, are examples of this class. Prokaryotes synthesize polyprenols (called bactoprenols) in which the terminal isoprenoid unit attached to oxygen remains unsaturated, whereas in animal polyprenols (dolichols) the terminal isoprenoid is reduced.[58]
+Prenol lipids are synthesized from the five-carbon-unit precursors isopentenyl diphosphate and dimethylallyl diphosphate that are produced mainly via the mevalonic acid (MVA) pathway.[55] The simple isoprenoids (linear alcohols, diphosphates, etc.) are formed by the successive addition of C5 units, and are classified according to number of these terpene units. Structures containing greater than 40 carbons are known as polyterpenes. Carotenoids are important simple isoprenoids that function as antioxidants and as precursors of vitamin A.[56] Another biologically important class of molecules is exemplified by the quinones and hydroquinones, which contain an isoprenoid tail attached to a quinonoid core of non-isoprenoid origin.[57] Vitamin E and vitamin K, as well as the ubiquinones, are examples of this class. Prokaryotes synthesize polyprenols (called bactoprenols) in which the terminal isoprenoid unit attached to oxygen remains unsaturated, whereas in animal polyprenols (dolichols) the terminal isoprenoid is reduced.[58]
 
 Saccharolipids
 
-Kdo2-lipidA.png residues in blue, Kdo residues in red, acyl chains in black and phosphate groups in green.]]
+residues in blue, Kdo residues in red, acyl chains in black and phosphate groups in green.]]
 
 Saccharolipids describe compounds in which fatty acids are linked directly to a sugar backbone, forming structures that are compatible with membrane bilayers. In the saccharolipids, a monosaccharide substitutes for the glycerol backbone present in glycerolipids and glycerophospholipids. The most familiar saccharolipids are the acylated glucosamine precursors of the Lipid A component of the lipopolysaccharides in Gram-negative bacteria. Typical lipid A molecules are disaccharides of glucosamine, which are derivatized with as many as seven fatty-acyl chains. The minimal lipopolysaccharide required for growth in _E. coli_ is Kdo₂-Lipid A, a hexa-acylated disaccharide of glucosamine that is glycosylated with two 3-deoxy-D-manno-octulosonic acid (Kdo) residues.[59]
 
@@ -83,7 +83,7 @@ Eukaryotic cells feature the compartmentalized membrane-bound organelles that ca
 
 Plant thylakoid membranes have the largest lipid component of a non-bilayer forming monogalactosyl diglyceride (MGDG), and little phospholipids; despite this unique lipid composition, chloroplast thylakoid membranes have been shown to contain a dynamic lipid-bilayer matrix as revealed by magnetic resonance and electron microscope studies.[66]
 
-Phospholipids_aqueous_solution_structures.svgs: a spherical liposome, a micelle, and a lipid bilayer.]]
+s: a spherical liposome, a micelle, and a lipid bilayer.]]
 
 A biological membrane is a form of lamellar phase lipid bilayer. The formation of lipid bilayers is an energetically preferred process when the glycerophospholipids described above are in an aqueous environment.[67] This is known as the hydrophobic effect. In an aqueous system, the polar heads of lipids align towards the polar, aqueous environment, while the hydrophobic tails minimize their contact with water and tend to cluster together, forming a vesicle; depending on the concentration of the lipid, this biophysical interaction may result in the formation of micelles, liposomes, or lipid bilayers. Other aggregations are also observed and form part of the polymorphism of amphiphile (lipid) behavior. Phase behavior is an area of study within biophysics and is the subject of current academic research.[68][69] Micelles and bilayers form in the polar medium by a process known as the hydrophobic effect.[70] When dissolving a lipophilic or amphiphilic substance in a polar environment, the polar molecules (i.e., water in an aqueous solution) become more ordered around the dissolved lipophilic substance, since the polar molecules cannot form hydrogen bonds to the lipophilic areas of the amphiphile. So in an aqueous environment, the water molecules form an ordered "clathrate" cage around the dissolved lipophilic molecule.[71]
 

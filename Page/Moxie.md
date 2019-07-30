@@ -15,7 +15,7 @@ Thompson claimed that he named the beverage after a Lieutenant Moxie,[10] a purp
 
 After a few years, Thompson added soda water to the formula and changed the product's name to "Beverage Moxie Nerve Food". By 1884 he was selling Moxie both in bottles and in bulk as a soda fountain syrup. In 1885, he received a trade mark for the term. He marketed it as "a delicious blend of bitter and sweet, a drink to satisfy everyone's taste".[12] Thompson died in 1903.[13]
 
-1914_-_Allentown_Independence_Day_Outing.jpg, celebrating the 4th of July holiday in 1913 with a case of Moxie at a grove.]]
+, celebrating the 4th of July holiday in 1913 with a case of Moxie at a grove.]]
 
 In 1907, the Moxie Nerve Food Company of New England filed a lawsuit in Boston against the Modox Company and others, alleging that they had copied the ingredients of Moxie and were using the name "Modox",[14] which closely resembled "Moxie", and were infringing upon patents and trademarks.[15] The suit was dismissed by the judge, who said the court could not protect the legitimate part of the plaintiff's business in this case. In a later case in New York, the Moxie Nerve Food Company won a lawsuit against Modox, which subsequently went out of business.[16]
 
@@ -33,7 +33,7 @@ The Moxie brand was purchased in 1966 by the Monarch Beverage Company of Atlanta
 
 In its decision to step up efforts to distribute the product, Cornucopia cited increasing requests for Moxie from fans across the country. In 2007 it launched pilot sales in Florida and in 2010 granted distribution in Florida to Florida Micro Beverage Distributors.[25]
 
-Moxie_Horsemobile.jpg sedan. It is on display at Clark's Trading Post in Lincoln, New Hampshire.]] A_classic-styled_modern_label_from_a_bottle_of_Moxie_brand_cream_soda.jpg
+sedan. It is on display at Clark's Trading Post in Lincoln, New Hampshire.]]
 
 In 2011, Cornucopia began doing business as the Moxie Beverage Company to market Moxie and Moxie-branded products. A website, DrinkMoxie.com, was created to promote Moxie. Drink recipes using Moxie were created.
 

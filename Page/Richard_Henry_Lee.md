@@ -20,7 +20,7 @@ In August 1774, Lee was chosen as a delegate to the First Continental Congress i
 
 Lee had returned to Virginia by the time Congress voted on and adopted the Declaration of Independence, but he signed the document when he returned to Congress.
 
-Coat_of_Arms_of_the_Lee_Family.svg]]
+]]
 
 President of Congress
 

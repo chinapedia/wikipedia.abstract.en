@@ -4,8 +4,6 @@ Traditionally, a MOJITO is a cocktail that consists of five ingredients: white r
 
 When preparing a mojito, fresh lime juice is added to sugar (or to simple syrup) and mint leaves. The mixture is then gently mashed with a muddler. The mint leaves should only be bruised to release the essential oils and should not be shredded.[5] Then rum is added and the mixture is briefly stirred to dissolve the sugar and to lift the mint leaves up from the bottom for better presentation. Finally, the drink is topped with crushed ice and sparkling soda water. Mint leaves and lime wedges are used to garnish the glass.
 
-MojitoReydelmojito.jpg
-
 The mojito is one of the most famous rum-based highballs. There are several versions of the mojito.[6]
 
 

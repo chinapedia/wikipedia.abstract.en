@@ -5,8 +5,6 @@ _Polyamory_ has come to be an umbrella term for various forms of non-monogamous,
 
 Terminology
 
-Polyamory_woven.svg
-
 The word _polyamorous_ first appeared in an article by Morning Glory Zell-Ravenheart, "A Bouquet of Lovers", published in May 1990 in _Green Egg Magazine_, as "poly-amorous".[12] In May 1992, Jennifer L. Wesp created the Usenet newsgroup _alt.polyamory_, and the Oxford English Dictionary cites the proposal to create that group as the first verified appearance of the word.[13] In 1999 Zell-Ravenheart was asked by the editor of the OED to provide a definition of the term, and had provided it for the UK version as "the practice, state or ability of having more than one sexual loving relationship at the same time, with the full knowledge and consent of all partners involved."[14] The words _polyamory_, _polyamorous_, and _polyamorist_ were added to the OED in 2006.[15]
 
 Although some reference works define "polyamory" as a relational form (whether interpersonal or romantic or sexual) that involves multiple people with the consent of all the people involved,[16][17][18] the North American version of the OED declares it a philosophy of life, and some believe polyamory should be classified as an orientation or identity similar to romantic orientation, sexual orientation, or gender identity.[19]
@@ -122,7 +120,7 @@ Unitarian Universalists for Polyamory Awareness, founded in 2001, has engaged in
 
 Marriage implications
 
-Polyamory_pride_in_San_Francisco_2004.jpg 2004]] Bigamy is the act of marrying one person while already being married to another, and is legally prohibited in most countries in which monogamy is the cultural norm. Some bigamy statutes are broad enough to potentially encompass polyamorous relationships involving cohabitation, even if none of the participants claim marriage to more than one partner.
+2004]] Bigamy is the act of marrying one person while already being married to another, and is legally prohibited in most countries in which monogamy is the cultural norm. Some bigamy statutes are broad enough to potentially encompass polyamorous relationships involving cohabitation, even if none of the participants claim marriage to more than one partner.
 
 In most countries, it is legal for three or more people to form and share a sexual relationship (subject sometimes to laws against homosexuality or adultery if two of the three are married). With only minor exceptions no developed countries permit _marriage_ among more than two people, nor do the majority of countries give legal protection (e.g., of rights relating to children) to non-married partners. Individuals involved in polyamorous relationships are generally considered by the law to be no different from people who live together, or "date", under other circumstances. In 2017 John Alejandro Rodriguez, Victor Hugo Prada, and Manuel Jose Bermudez become Colombia's first polyamorous family to have a legally recognized relationship,[67] though not a marriage: "By Colombian law a marriage is between two people, so we had to come up with a new word: a special patrimonial union."[68]
 
@@ -195,7 +193,7 @@ Polyamorous relationships present practical pitfalls.
 
 Symbols
 
-Polyamory_simple.svg A number of symbols have been created to represent polyamory. These include a parrot (a pun, as "Polly" is a common name for domesticated parrots)[107][108][109] and the _infinity heart_. The "infinity heart" symbol has appeared on pins, T-shirts, bumper stickers and other media.[110][111] Polyamory_Pride_Flag.svg]] The polyamory pride flag, designed by Jim Evans in 1995, has stripes of blue (representing openness and honesty among all partners), red (representing love and passion), and black (representing solidarity with those who must hide their polyamorous relationships from the outside world). In the center of the flag is a gold Greek lowercase letter 'pi', as the first letter of 'polyamory'. Gold represents "the value that we place on the emotional attachment to others... as opposed to merely primarily physical relationships".[112] There is also a similar ribbon.[113]
+A number of symbols have been created to represent polyamory. These include a parrot (a pun, as "Polly" is a common name for domesticated parrots)[107][108][109] and the _infinity heart_. The "infinity heart" symbol has appeared on pins, T-shirts, bumper stickers and other media.[110][111] ]] The polyamory pride flag, designed by Jim Evans in 1995, has stripes of blue (representing openness and honesty among all partners), red (representing love and passion), and black (representing solidarity with those who must hide their polyamorous relationships from the outside world). In the center of the flag is a gold Greek lowercase letter 'pi', as the first letter of 'polyamory'. Gold represents "the value that we place on the emotional attachment to others... as opposed to merely primarily physical relationships".[112] There is also a similar ribbon.[113]
 
 
 See also

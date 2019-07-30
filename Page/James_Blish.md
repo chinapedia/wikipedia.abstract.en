@@ -11,13 +11,13 @@ Blish was born on May 23, 1921 at East Orange, New Jersey.[2] While in high scho
 
 Futurian members Damon Knight and Cyril M. Kornbluth became close friends. However, Blish's relationships with other members were often bitter.[4] A personal target was fellow member Judith Merril, with whom he would debate politics. Merril would frequently dismiss Blish's self-description of being a "paper fascist". She wrote in _Better to Have Loved_ (2002), "Of course [Blish] was not fascist, antisemitic, or any of those terrible things, but every time he used the phrase, I saw red."[5]
 
-BlishGrave.jpg Blish studied microbiology at Rutgers University, graduating in 1942. He was drafted into Army service, and he served briefly as a medical laboratory technician. The United States Army discharged him for refusing orders to clean a grease trap in 1944. Following discharge, Blish entered Columbia University as a masters student of zoology. He did not complete the program, opting to write fiction full-time.[6]
+Blish studied microbiology at Rutgers University, graduating in 1942. He was drafted into Army service, and he served briefly as a medical laboratory technician. The United States Army discharged him for refusing orders to clean a grease trap in 1944. Following discharge, Blish entered Columbia University as a masters student of zoology. He did not complete the program, opting to write fiction full-time.[6]
 
 In 1947, he married Virginia Kidd, a fellow Futurian. They divorced in 1963. Blish then married artist J. A. Lawrence in 1968, moving to England that same year.
 
 From 1962 to 1968, Blish worked for the Tobacco Institute, as a writer and critic. Much of his work for the institute went uncredited.
 
-Blish died on July 30, 1975 from complications related to lung cancer. He was buried in Holywell Cemetery, Oxford. The Bodleian Library at Oxford is the custodian of Blish's papers.[7] The library also has a complete catalog of Blish's published works. Two_complete_science_adventure_books_1951sum_n3.jpg'' in 1951 as "Sword of Xota"]]
+Blish died on July 30, 1975 from complications related to lung cancer. He was buried in Holywell Cemetery, Oxford. The Bodleian Library at Oxford is the custodian of Blish's papers.[7] The library also has a complete catalog of Blish's published works. '' in 1951 as "Sword of Xota"]]
 
 
 Career
@@ -38,7 +38,7 @@ The stories detail the life of the Okies, humans who migrate throughout space lo
 
 More stories followed: In 1956, _They Shall Have Stars_, which edited together "Bridge" and "At Death’s End", and in 1958, Blish released _The Triumph of Time_. Four years later, he published a new Okies novel, _A Life for the Stars_. The Okies sequence was edited together and published as _Cities In Flight_ (1970).
 
-Clute notes, "the brilliance of _Cities in Flight_ does not lie in the assemblage of its parts, but in the momentum of the ideas embodied in it (albeit sometimes obscurely)."[13] Two_complete_science_adventure_books_1953spr_n8.jpg'' in 1953. ]]
+Clute notes, "the brilliance of _Cities in Flight_ does not lie in the assemblage of its parts, but in the momentum of the ideas embodied in it (albeit sometimes obscurely)."[13] '' in 1953. ]]
 
 _After Such Knowledge_ (1958–1971)
 
@@ -319,8 +319,6 @@ _Fantasy Book_ (1986)
 
 -   "The White Empire" (September 1986).
 
-Cover_If_195309.jpg
-
 Anthologized short fiction (1952–2008)
 
 -   _Beanstalk_,^(ε) _Future Tense_ (1952), ed. Kendell Foster Crossen. Greenberger.
@@ -397,7 +395,7 @@ Anthologies (1959–1970)
 -   _Anywhen_ (1970). Doubleday.
 -   _Nebula Award Stories 5_ (1970). Gollancz.
 
-Amazing_stories_196011.jpg'', illustrated by Ed Emshwiller. ]]
+'', illustrated by Ed Emshwiller. ]]
 
 Nonfiction (1964–1987)
 

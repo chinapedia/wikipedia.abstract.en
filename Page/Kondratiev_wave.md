@@ -1,4 +1,4 @@
-Kondratieff_Wave.svg In economics, KONDRATIEV WAVES (also called SUPERCYCLES, GREAT SURGES, LONG WAVES, K-WAVES or THE LONG ECONOMIC CYCLE) are hypothesized cycle-like phenomena in the modern world economy.[1]
+In economics, KONDRATIEV WAVES (also called SUPERCYCLES, GREAT SURGES, LONG WAVES, K-WAVES or THE LONG ECONOMIC CYCLE) are hypothesized cycle-like phenomena in the modern world economy.[1]
 
 It is stated that the period of a wave ranges from forty to sixty years, the cycles consist of alternating intervals of high sectoral growth and intervals of relatively slow growth.[2]
 
@@ -39,7 +39,7 @@ Understanding the cause and effect of Kondratiev waves is a useful academic disc
 
 The causes documented by Kondratiev waves, primarily include inequity, opportunity and social freedoms; although very often, much more discussion is made of the notable effects of these causes as well. Effects are both good and bad and include, to name just a few, technological advance, birthrates and revolutions/populism—and revolution's contributing causes which can include racism, religious or political intolerance, failed-freedoms and opportunity, incarceration rates, terrorism and similar.
 
-Birthrates_higher_in_Spring_Economies;_where_Opportunity_is_high.jpg When inequity is low and opportunity is easily available, peaceful, moral decisions are preferred and Aristotle's "Good Life" is possible (Americans call the good life "the American Dream"). Opportunity created the simple inspiration and genius for the Mayflower Compact for one example. Post-World War II and 1840's post-California gold rush bonanza were times of great opportunity, low inequity and this resulted in unprecedented technological industrial advance too. Alternatively, when the 1893's global economic panics were not met with sufficient wealth-distributing government policies internationally, a dozen major revolutions resulted—perhaps also creating an effect we now call World War I.[9] Few would argue that World War II also began in response to failed attempts at creating economic opportunity-supporting government policy during the Great Depression of 1929 and the World War I's Treaty of Versailles.
+When inequity is low and opportunity is easily available, peaceful, moral decisions are preferred and Aristotle's "Good Life" is possible (Americans call the good life "the American Dream"). Opportunity created the simple inspiration and genius for the Mayflower Compact for one example. Post-World War II and 1840's post-California gold rush bonanza were times of great opportunity, low inequity and this resulted in unprecedented technological industrial advance too. Alternatively, when the 1893's global economic panics were not met with sufficient wealth-distributing government policies internationally, a dozen major revolutions resulted—perhaps also creating an effect we now call World War I.[9] Few would argue that World War II also began in response to failed attempts at creating economic opportunity-supporting government policy during the Great Depression of 1929 and the World War I's Treaty of Versailles.
 
 Technological innovation theory
 
@@ -110,7 +110,7 @@ For the end of an application phase of any wave there are typical an economic cr
 
 Criticism of long cycles
 
-Kondratiev-waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt-AJW_2004.jpg Long wave theory is not accepted by many academic economists. However, is important for innovation-based, development and evolutionary economics. Yet, among economists who accept it there has been no formal universal agreement about the standards that should be used universally to place start and the end years for each wave. Agreement of start and end years can be +1 to 3 years for each 40- to 65-year cycle.
+Long wave theory is not accepted by many academic economists. However, is important for innovation-based, development and evolutionary economics. Yet, among economists who accept it there has been no formal universal agreement about the standards that should be used universally to place start and the end years for each wave. Agreement of start and end years can be +1 to 3 years for each 40- to 65-year cycle.
 
 Health economist and biostatistician Andreas J. W. Goldschmidt searched for patterns and proposed that there is a phase shift and overlap of the so-called Kondratiev cycles of IT and health (shown in the figure). He argued that historical growth phases in combination with key technologies does not necessarily imply the existence of regular cycles in general. Goldschmidt is of the opinion that different fundamental innovations and their economic stimuli do not exclude each other as they mostly vary in length and their benefit is not applicable to all participants in a market.[34]
 

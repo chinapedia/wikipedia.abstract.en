@@ -53,7 +53,7 @@ There have been fifteen video games based on the _Ranma ½_ franchise. While mos
 
 Live action special
 
-Ranma_Drama_Poster.jpg A live action television adaption of _Ranma ½_ aired on Nippon TV, in a two-hour time-slot, on December 9, 2011.[30][31] Although it was initially reported that the special would contain an original story, the movie does take its main plot from one of the manga's early stories with several other early scenes mixed in. The special stars Yui Aragaki as Akane, with Kento Kaku and Natsuna Watanabe playing male and female Ranma respectively.[32] Ryōsei Tayama is cast as the antagonist, the new original character Okamada.[33] The all-girl pop group 9nine contribute "Chikutaku☆2Nite" as the theme song.[34] It was released on both DVD and Blu-ray on March 21, 2012.[35][36]
+A live action television adaption of _Ranma ½_ aired on Nippon TV, in a two-hour time-slot, on December 9, 2011.[30][31] Although it was initially reported that the special would contain an original story, the movie does take its main plot from one of the manga's early stories with several other early scenes mixed in. The special stars Yui Aragaki as Akane, with Kento Kaku and Natsuna Watanabe playing male and female Ranma respectively.[32] Ryōsei Tayama is cast as the antagonist, the new original character Okamada.[33] The all-girl pop group 9nine contribute "Chikutaku☆2Nite" as the theme song.[34] It was released on both DVD and Blu-ray on March 21, 2012.[35][36]
 
 Other media
 

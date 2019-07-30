@@ -61,11 +61,9 @@ Dimerization
 
 UV radiation promotes the formation of a cyclobutyl ring between adjacent thymines, resulting in the formation of pyrimidine dimers.[36] In human skin cells, thousands of dimers may be formed in a day due to normal exposure to sunlight. DNA polymerase η may help bypass these lesions in an error-free manner;[37] however, individuals with defective DNA repair function, such as sufferers of xeroderma pigmentosum, are sensitive to sunlight and may be prone to skin cancer.
 
-DNA_intercalation2.jpg
-
 Intercalation between bases
 
-The planar structure of chemicals such as ethidium bromide and proflavine allows them to insert between bases in DNA. This insert causes the DNA's backbone to stretch and makes slippage in DNA during replication more likely to occur since the bonding between the strands is made less stable by the stretching. Forward slippage will result in deletion mutation, while reverse slippage will result in an insertion mutation. Also, the intercalation into DNA of anthracyclines such as daunorubicin and doxorubicin interferes with the functioning of the enzyme topoisomerase II, blocking replication as well as causing mitotic homologous recombination. brokechromo.jpg
+The planar structure of chemicals such as ethidium bromide and proflavine allows them to insert between bases in DNA. This insert causes the DNA's backbone to stretch and makes slippage in DNA during replication more likely to occur since the bonding between the strands is made less stable by the stretching. Forward slippage will result in deletion mutation, while reverse slippage will result in an insertion mutation. Also, the intercalation into DNA of anthracyclines such as daunorubicin and doxorubicin interferes with the functioning of the enzyme topoisomerase II, blocking replication as well as causing mitotic homologous recombination.
 
 Backbone damage
 

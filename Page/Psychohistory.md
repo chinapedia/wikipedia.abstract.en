@@ -3,7 +3,7 @@ PSYCHOHISTORY is an amalgam of psychology, history, and related social sciences 
 
 Description
 
-Rembrandt_Harmensz._van_Rijn_035.jpg.22). Psychohistory holds that ritual child sacrifice once occurred in most cultures.]]
+.22). Psychohistory holds that ritual child sacrifice once occurred in most cultures.]]
 
 Psychohistory derives many of its concepts from areas that are perceived to be ignored by conventional historians and anthropologists as shaping factors of human history, in particular, the effects of parenting practice and child abuse.[2] According to conventional historians "the science of culture is independent of the laws of biology and psychology".[3] and "[t]he determining cause of a social fact should be sought among social facts preceding and not among the states of individual consciousness".[4]
 
@@ -84,7 +84,6 @@ The major psychogenic modes described by deMause are:[12][13]
 Psychohistorians maintain that the five modes of abusive childrearing (excluding the "helping mode") are related to psychiatric disorders from psychoses to neuroses.
 
 The chart below shows the dates at which these modes are believed to have evolved in the most advanced nations, based on contemporary accounts from historical records. A black-and-white version of the chart appears in _Foundations of Psychohistory_.[22]
-centre
 
 The Y-Axis on the above chart serves as an indicator of the new stage and not a measurement of the stage's size or relation to the x-axis.
 

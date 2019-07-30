@@ -1,5 +1,3 @@
-View to the town from the railway bridge Nijmegen_Marktplatz.jpg
-
 NIJMEGEN (; Nijmeegs: _Nimwegen_ ) is a city in the Dutch province of Gelderland, on the Waal river close to the German border.
 
 Nijmegen is the oldest city in the Netherlands, the first to be recognized as such in Roman times, and in 2005 celebrated 2,000 years of existence.
@@ -40,7 +38,7 @@ The arts also flourished in this period. Famous medieval painters like the Limbo
 
 Early modern period
 
-During the Dutch Revolt, trade came to a halt and even though Nijmegen became a part of the Republic of United Provinces after its capture from the Spanish in 1591, it remained a border town and had to endure multiple sieges. View_on_the_waal_janvangoyen.jpg Nijmegen_-_Stadhuis_en_Grote_Markt_1900.jpg In 1678 Nijmegen was host to the negotiations between the European powers that aimed to put an end to the constant warfare that had ravaged the continent for years. The result was the Treaty of Nijmegen that, unfortunately, failed to provide for a lasting peace.
+During the Dutch Revolt, trade came to a halt and even though Nijmegen became a part of the Republic of United Provinces after its capture from the Spanish in 1591, it remained a border town and had to endure multiple sieges. In 1678 Nijmegen was host to the negotiations between the European powers that aimed to put an end to the constant warfare that had ravaged the continent for years. The result was the Treaty of Nijmegen that, unfortunately, failed to provide for a lasting peace.
 
 In the second half of the 19th century, the fortifications around the city became a major problem. There were too many inhabitants inside the walls, but the fortifications could not be demolished because Nijmegen was deemed as being of vital importance to the defence of the Netherlands. When events in the Franco-Prussian war proved that old-fashioned fortifications were no more of use, this policy was changed and the fortifications were dismantled in 1874. The old castle had already been demolished in 1797, so that its bricks could be sold.
 
@@ -97,9 +95,9 @@ Museums in and around Nijmegen
 
 Parks
 
-  -------------------------- ----------------------------------------------------- ---------------------------------------------- ----------------------------------- --------------------
-  Goffertpark_Nijmegen.jpg   Nijmegen_Stadscentrum_Kronenburger_park_zomer.jpg]]   Barbarossa-ruïne,_Valkhof_park,_Nijmegen.jpg   Belvédère_Hunnerpark_Nijmegen.jpg   Hees_Park_West.jpg
-  -------------------------- ----------------------------------------------------- ---------------------------------------------- ----------------------------------- --------------------
+  -- ---- -- -- --
+     ]]
+  -- ---- -- -- --
 
 
 Politics
@@ -132,8 +130,6 @@ Later in 2014, a city council member of the VVD, Paul Eigenhuijsen, left the VVD
 
 International relations
 
-Nijmegen-plaats-OpenTopo.jpg
-
 Twin towns – sister cities
 
 Nijmegen is twinned with:
@@ -153,7 +149,7 @@ Culture
 
 Events
 
-1997_81_4daagse_nijmegen.jpg]]
+]]
 
  Marches
 
@@ -164,8 +160,6 @@ A piece of music that's often sung and played during the marches is the "Four-Da
 People
 
     _See also People from Nijmegen_
-
-Nijmegen_Stevenskerk_R10.jpg
 
 Natives
 
@@ -200,15 +194,15 @@ Other residents
 
 Religion
 
-Grote_of_Sint-Stevenskerk.jpg In 1968, prominent liberal theologians in the Roman Catholic Church issued what is now known as the Nijmegen Statement, demanding sweeping reforms in the Vatican's Holy Office, previously known as The Inquisition, and calling for greater scope for theological inquiry. Among its signatories was the then-progressive theologian Fr. Joseph Ratzinger, then a member of the faculty at the University of Tübingen, but later a much more conservative figure as the head of the successor to the Holy Office, the Congregation for the Doctrine of the Faith, and later still Pope Benedict XVI.
+In 1968, prominent liberal theologians in the Roman Catholic Church issued what is now known as the Nijmegen Statement, demanding sweeping reforms in the Vatican's Holy Office, previously known as The Inquisition, and calling for greater scope for theological inquiry. Among its signatories was the then-progressive theologian Fr. Joseph Ratzinger, then a member of the faculty at the University of Tübingen, but later a much more conservative figure as the head of the successor to the Holy Office, the Congregation for the Doctrine of the Faith, and later still Pope Benedict XVI.
 
 The Nijmegen Statement said: "Any form of Inquisition however subtle, not only harms the development of sound theology, it also causes irreparable damage to the credibility of the church". The signatories, a group of predominantly German-speaking theologians asserted that "the freedom of theologians, and theology in the service of the church, regained by Vatican II, must not be jeopardised again." The signatories pledged their loyalty to the Pope, but argued that the teaching office of pope and bishops "cannot and must not supersede, hamper and impede the teaching task of theologians as scholars."
 
-There are several English-language religious meetings in Nijmegen. See the external link for a list of church services in English (the link from the official site is non-working). Goffertstadion_N.E.C._Nijmegen.jpg
+There are several English-language religious meetings in Nijmegen. See the external link for a list of church services in English (the link from the official site is non-working).
 
 Sport
 
-Toeters_en_confetti_voor_kampioensteam_bandy.webm]] Sport in the city is principally focused on its football club N.E.C. Nijmegen or just NEC, short for Nijmegen Eendracht Combinatie, which plays at the 12,500 seat Stadion de Goffert. The club plays in the Eerste Divisie.
+]] Sport in the city is principally focused on its football club N.E.C. Nijmegen or just NEC, short for Nijmegen Eendracht Combinatie, which plays at the 12,500 seat Stadion de Goffert. The club plays in the Eerste Divisie.
 
 Bandy Vereniging Nijmegen[6] is the biggest bandy club in the country. The national team got celebrated by over a hundred fans and Mayor Hubert Bruls after winning Division B of the 2018 Bandy World Championship.[7][8]
 

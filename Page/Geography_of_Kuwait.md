@@ -1,4 +1,4 @@
-Satellite_image_of_Kuwait_in_November_2001.jpg.]] KUWAIT is situated in Southwest Asia, bordering the Persian Gulf, between Iraq and Saudi Arabia. A prosperous trade center for many centuries, Kuwait came to greater international prominence in the post-World War II era, largely because of its strategic location at the head of the Persian Gulf and oil revenues.
+.]] KUWAIT is situated in Southwest Asia, bordering the Persian Gulf, between Iraq and Saudi Arabia. A prosperous trade center for many centuries, Kuwait came to greater international prominence in the post-World War II era, largely because of its strategic location at the head of the Persian Gulf and oil revenues.
 
 Since 2006, Kuwait has been partially governed by Sabah Al-Ahmad Al-Jaber Al-Sabah and his designated successor, Nawaf Al-Ahmad Al-Jaber Al-Sabah, the Prime Minister and Crown Prince. In the postwar period, these men have supported the strengthening of democratic participation in decision making, as provided for in the Constitution.
 
@@ -6,8 +6,6 @@ Kuwait is located at the far northwestern corner of the Persian Gulf. Kuwait is 
 
 
 Boundaries
-
-Kuwait_pol_06.jpg
 
 As previously mentioned, Kuwait borders the Persian Gulf with of coast. Within its territory are nine islands, two of which, Bubiyan (the largest) and Warbah, are largely uninhabited but strategically important. Due to the Iraq-Kuwait war (see Invasion of Kuwait), many people left their homes on islands and have since not returned to their homes.
 
@@ -26,7 +24,7 @@ In November 2008, the KAA Protocols were historically signed at Kuwait Naval Bas
 
 Climate
 
-Kuwait.A2003106.0805.250m.jpg Kuwait has an arid climate. Kuwait has a huge temperature difference between winter and summer. Rainfall in the nation varies from a year. Actual rainfall has ranged from a year to as much as . In summer, average daily high temperatures range from ; the highest ever temperature recorded in Kuwait was at Mitribah on 21 July, 2016 which is the highest recorded temperature in Asia and also the third highest in the world.[1] [2] Mitribah temperatures until mid 2010 were affected by overexposure conditions and the station was later fixed.
+Kuwait has an arid climate. Kuwait has a huge temperature difference between winter and summer. Rainfall in the nation varies from a year. Actual rainfall has ranged from a year to as much as . In summer, average daily high temperatures range from ; the highest ever temperature recorded in Kuwait was at Mitribah on 21 July, 2016 which is the highest recorded temperature in Asia and also the third highest in the world.[1] [2] Mitribah temperatures until mid 2010 were affected by overexposure conditions and the station was later fixed.
 
 The summers are quite long, punctuated mainly by dramatic dust storms in March and April when northwesterly winds cover the cities in sand. In the late summer, which is more humid. By the end of October all of the hot weather is over, and colder winter weather sets in, dropping temperatures to as low as at night. On the other hand, daytime temperature is between . In this time, there are brief but strong thunderstorms. Frost occurs when the temperatures drop below .
 
@@ -97,8 +95,6 @@ Freshwater withdrawal (domestic/industrial/agricultural):
 
 
 Environmental concerns
-
-Q8desert.jpg
 
 Natural hazards:
     Sudden cloudbursts are common from October to April - they bring heavy rain which can damage roads and houses; sandstorms and dust storms occur throughout the year, but are most common between March and August

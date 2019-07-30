@@ -27,7 +27,7 @@ The Catholic Church has long regarded pantheistic ideas as heresy.[19][20] Giord
 
 Baruch Spinoza
 
-Spinoza.jpg In the West, pantheism was formalized as a separate theology and philosophy based on the work of the 17th-century philosopher Baruch Spinoza.[22] Spinoza was a Dutch philosopher of Portuguese descent raised in the Sephardi Jewish community in Amsterdam.[23] He developed highly controversial ideas regarding the authenticity of the Hebrew Bible and the nature of the Divine, and was effectively excluded from Jewish society at age 23, when the local synagogue issued a _herem_ against him.[24] A number of his books were published posthumously, and shortly thereafter included in the Catholic Church's _Index of Forbidden Books_. The breadth and importance of Spinoza's work would not be realized for many years - as the groundwork for the 18th-century Enlightenment[25] and modern biblical criticism,[26] including modern conceptions of the self and the universe.[27]
+In the West, pantheism was formalized as a separate theology and philosophy based on the work of the 17th-century philosopher Baruch Spinoza.[22] Spinoza was a Dutch philosopher of Portuguese descent raised in the Sephardi Jewish community in Amsterdam.[23] He developed highly controversial ideas regarding the authenticity of the Hebrew Bible and the nature of the Divine, and was effectively excluded from Jewish society at age 23, when the local synagogue issued a _herem_ against him.[24] A number of his books were published posthumously, and shortly thereafter included in the Catholic Church's _Index of Forbidden Books_. The breadth and importance of Spinoza's work would not be realized for many years - as the groundwork for the 18th-century Enlightenment[25] and modern biblical criticism,[26] including modern conceptions of the self and the universe.[27]
 
 In the posthumous _Ethics_, "Spinoza wrote the last indisputable Latin masterpiece, and one in which the refined conceptions of medieval philosophy are finally turned against themselves and destroyed entirely.".[28] In particular, he opposed René Descartes' famous mind–body dualism, the theory that the body and spirit are separate.[29] Spinoza held the monist view that the two are the same, and monism is a fundamental part of his philosophy. He was described as a "God-intoxicated man," and used the word God to describe the unity of all substance.[30] This view influenced philosophers such as Georg Wilhelm Friedrich Hegel, who said, "You are either a Spinozist or not a philosopher at all."[31] Spinoza earned praise as one of the great rationalists of 17th-century philosophy[32] and one of Western philosophy's most important thinkers.[33] Although the term "pantheism" was not coined until after his death, he is regarded as the most celebrated advocate of the concept.[34] _Ethics_ was the major source from which Western pantheism spread.[35]
 
@@ -75,11 +75,11 @@ Cheondoism, which arose in the Joseon Dynasty of Korea, and Won Buddhism are als
 
 In a letter written to Eduard Büsching (25 October 1929), after Büsching sent Albert Einstein a copy of his book _Es gibt keinen Gott_ ("There is no God"), Einstein wrote, "We followers of Spinoza see our God in the wonderful order and lawfulness of all that exists and in its soul [_Beseeltheit_] as it reveals itself in man and animal."[71] According to Einstein, the book only dealt with the concept of a personal god and not the impersonal God of pantheism.[72] In a letter written in 1954 to philosopher Eric Gutkind, Einstein wrote "the word God is for me nothing more than the expression and product of human weaknesses."[73][74] In another letter written in 1954 he wrote "I do not believe in a personal God and I have never denied this but have expressed it clearly.".[75]
 
-In the late 20th century, some declared that pantheism was an underlying theology of Neopaganism,[76] and pantheists began forming organizations devoted specifically to pantheism and treating it as a separate religion.[77] LuminariesofPantheism.jpg's _Luminaries of Pantheism_ in Venice, California for The Paradise Project.]]
+In the late 20th century, some declared that pantheism was an underlying theology of Neopaganism,[76] and pantheists began forming organizations devoted specifically to pantheism and treating it as a separate religion.[77] 's _Luminaries of Pantheism_ in Venice, California for The Paradise Project.]]
 
 21st century
 
-Einstein_1921_portrait2.jpg In 2007, Dorion Sagan, the son of famous scientist and science communicator, Carl Sagan, published a book entitled _Dazzle Gradually: Reflections on the Nature of Nature_ co-written with his mother, Lynn Margulis. In a chapter entitled, "Truth of My Father", he declares: "My father believed in the God of Spinoza and Einstein, God not behind nature, but as nature, equivalent to it."[78]
+In 2007, Dorion Sagan, the son of famous scientist and science communicator, Carl Sagan, published a book entitled _Dazzle Gradually: Reflections on the Nature of Nature_ co-written with his mother, Lynn Margulis. In a chapter entitled, "Truth of My Father", he declares: "My father believed in the God of Spinoza and Einstein, God not behind nature, but as nature, equivalent to it."[78]
 
 Pantheism is mentioned in a Papal encyclical in 2009[79] and a statement on New Year's Day in 2010,[80] criticizing pantheism for denying the superiority of humans over nature and seeing the source of man{{'s}} salvation in nature.[81] In a review of the 2009 film _Avatar_, Ross Douthat, an author, described pantheism as "Hollywood's religion of choice for a generation now".[82]
 
@@ -111,7 +111,7 @@ It may also be possible to distinguish two types of pantheism, one being more re
 
 Form of monism
 
-Dualism-vs-Monism.png Philosophers and theologians have often suggested that pantheism implies monism.[98] Different types of monism include:[99]
+Philosophers and theologians have often suggested that pantheism implies monism.[98] Different types of monism include:[99]
 
 1.  Substance monism, "the view that the apparent plurality of substances is due to different states or appearances of a single substance"
 2.  Attributive monism, "the view that whatever the number of substances, they are of a single ultimate kind"

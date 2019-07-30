@@ -1,4 +1,4 @@
-USCG_Org_Chart.jpg for the United States Coast Guard shows the hierarchy of managerial roles in that organization.]]
+for the United States Coast Guard shows the hierarchy of managerial roles in that organization.]]
 
 MANAGEMENT (or MANAGING) is the administration of an organization, whether it is a business, a not-for-profit organization, or government body. Management includes the activities of setting the strategy of an organization and coordinating the efforts of its employees (or of volunteers) to accomplish its objectives through the application of available resources, such as financial, natural, technological, and human resources. The term "management" may also refer to those people who manage an organization.
 

@@ -9,7 +9,7 @@ Rather than retiring from public service, Adams won election to the House of Rep
 
 Early life, education, and early career
 
-upright=0.8 John_Quincy_Adams_birthplace,_Quincy,_Massachusetts.JPG
+upright=0.8
 
 John Quincy Adams was born on July 11, 1767, to John and Abigail Adams (née Smith) in a part of Braintree, Massachusetts that is now Quincy.[1] He was named for his mother's maternal grandfather, Colonel John Quincy, after whom Quincy, Massachusetts, is named.[2] Young Adams was educated by private tutors – his cousin James Thaxter and his father's law clerk, Nathan Rice.[3] He soon began to exhibit his literary skills, and in 1779 he initiated a diary which he kept until just before he died in 1848.[4] Until the age of ten, Adams grew up on the family farm in Braintree, largely in the care of his mother. Though frequently absent due to his participation in the American Revolution, John Adams maintained a correspondence with his son, encouraging him to read works by authors like Thucydides and Hugo Grotius.[5] With his father's encouragement, Adams would also translate classical authors like Virgil, Horace, Plutarch, and Aristotle.[6]
 
@@ -22,13 +22,11 @@ Early political career (1793–1817)
 
 Early diplomatic career and marriage
 
-John_Quincy_Adams,_by_John_Singleton_Copley.jpg
-
 Adams initially avoided becoming directly involved in politics, instead focusing on building his legal career. In 1791, he wrote a series of pseudonymously-published essays in which he argued that Britain provided a better governmental model than France. Two years later, he published another series of essays in which he attacked Edmond-Charles Genêt, a French diplomat who sought to undermine President George Washington's policy of neutrality in the French Revolutionary Wars.[16] In 1794, Washington appointed Adams as the U.S. ambassador to the Netherlands; Adams considered declining the role but ultimately took the position at the advice of his father.[17] While abroad, Adams continued to urge neutrality, arguing that the United States would benefit economically by staying out of the ongoing French Revolutionary Wars.[18] His chief duty as the ambassador to the Netherlands was to secure and maintain the loans that were essential to U.S. finances. On his way to the Netherlands, he met with John Jay, who was then negotiating the Jay Treaty with Great Britain. Adams supported the Jay Treaty, but it proved unpopular with many in the United States, contributing to a growing partisan split between the Federalist Party of Alexander Hamilton and the Democratic-Republican Party of Thomas Jefferson.[19]
 
 Adams spent the winter of 1795–96 in London, where he met Louisa Catherine Johnson, the second daughter of American merchant Joshua Johnson. In April 1796, Louisa accepted Adams's proposal of marriage. Adams's parents disapproved of his decision to marry a woman who had grown up in England, but he informed his parents that he would not reconsider his decision.[20] Adams initially wanted to delay his wedding to Louisa until he returned to the United States, but they were married in All Hallows-by-the-Tower in July 1797.[21] Shortly after the wedding, Joshua Johnson fled England to escape his debtors, and Adams did not receive the dowry that Johnson had promised him, much to the embarrassment of Louisa. Nonetheless, Adams noted in his own diary that he had no regrets about his decision to marry Louisa.[22]
 
-Louisa_Catherine_Johnson_Adams_by_Gilbert_Stuart,_1821-26.jpg _Portrait of Louisa Adams (1821–26)_]]
+_Portrait of Louisa Adams (1821–26)_]]
 
 In 1796, Washington appointed Adams as the U.S. ambassador to Portugal.[23] Later in that same year, John Adams defeated Jefferson in the 1796 presidential election. When the elder Adams became president, he appointed his son as the U.S. ambassador to Prussia.[24] Though concerned that his appointment would be criticized as nepotistic, Adams accepted the position and traveled to the Prussian capital of Berlin with his wife and his younger brother, Thomas Boylston Adams. The State Department charged Adams with developing commercial relations with Prussia and Sweden, but President Adams also asked his son to write him frequently about affairs in Europe.[25] In 1799, Adams negotiated a new trade agreement between the United States and Prussia, though he was never able to complete an agreement with Sweden.[26] He frequently wrote to family members in the United States, and in 1801 his letters about the Prussian region of Silesia were published in a book titled _Letters on Silesia_.[27] In the 1800 presidential election, Jefferson defeated John Adams, and both Adams left office in early 1801.[28]
 
@@ -44,8 +42,6 @@ Minister to Russia
 
 After resigning from the Senate, Adams was ostracized by Massachusetts Federalist leaders, but he declined Democratic-Republican entreaties to seek office.[38] In 1809, he argued before the Supreme Court of the United States in the case of _Fletcher v. Peck_, and the Supreme Court ultimately agreed with Adams's argument that the Constitution's Contract Clause prevented the state of Georgia from invalidating a land sale to out-of-state companies.[39] Later that year, President James Madison appointed Adams as the first United States Minister to Russia in 1809. Though Adams had only recently broken with the Federalist Party, his support of Jefferson's foreign policy had earned him goodwill with the Madison Administration.[40] Adams was well-qualified for the role after his experiences in Europe generally and Russia specifically.[41]
 
-1815_US_passport_-_LONDON.jpg
-
 After a difficult passage through the Baltic Sea, Adams arrived in the Russian capital of St. Petersburg in October 1809. He quickly established a productive working relationship with Russian official Nikolay Rumyantsev and eventually befriended Tsar Alexander I of Russia. Adams continued to favor American neutrality between France and Britain in the midst of the Napoleonic War.[42] Louisa was initially distraught at the prospect of living in Russia, but she became a popular figure at the Russian court.[43] From his diplomatic post, Adams observed the French Emperor Napoleon's invasion of Russia, which ended in defeat for the French.[44] In February 1811, Adams was nominated by President Madison as an Associate Justice of the United States Supreme Court.[45] The nomination was unanimously confirmed by the Senate, but Adams declined the seat, preferring a career in politics and diplomacy, so Joseph Story took the seat instead.[46]
 
 Treaty of Ghent and ambassador to Britain
@@ -59,7 +55,7 @@ In May 1815, Adams learned that President Madison had appointed him as the U.S. 
 
 Secretary of State (1817–1825)
 
-Gilbert_Stuart_-_John_Quincy_Adams_-_Google_Art_Project.jpg, 1818]]
+, 1818]]
 
 Adams served as Secretary of State throughout Monroe's eight-year presidency, from 1817 to 1825. Taking office in the aftermath of the War of 1812, Adams thought that the country had been fortunate in avoiding territorial losses, and he prioritized avoiding another war with a European power, particularly Britain.[56] He also sought to avoid exacerbating sectional tensions, which had been a major issue for the country during the War of 1812.[57] One of the major challenges confronting Adams was how to respond to the power vacuum in Latin America that arose from Spain's weakness following the Peninsular War.[58] In addition to his foreign policy role, Adams held several domestic duties, including overseeing the 1820 Census.[59]
 
@@ -69,7 +65,7 @@ During his time as ambassador to Britain, Adams had begun negotiations over seve
 
 Adams–Onís Treaty
 
-Adams_onis_map.png, the United States acquired Florida and set the western border of the 1803 Louisiana Purchase]]
+, the United States acquired Florida and set the western border of the 1803 Louisiana Purchase]]
 
 When Adams took office, Spanish possessions bordered the United States to the South and West. In the South, Spain retained control of Florida, which the U.S. had long sought to purchase. Spain struggled to control the Native American tribes active in Florida, and some of those tribes raided U.S. territory. In the West, New Spain bordered the territory acquired by the U.S. in the Louisiana Purchase, but no clear boundary had been established between U.S. and Spanish territory.[65] After taking office, Adams began negotiations with Luis de Onís, the Spanish minister to the United States, for the purchase of Florida and the settlement of a border between the U.S. and New Spain. The negotiations were interrupted by an escalation of the Seminole War, and in December 1818 Monroe ordered General Andrew Jackson to enter Florida and retaliate against Seminoles that had raided Georgia. Exceeding his orders, Jackson captured the Spanish outposts of St. Marks and Pensacola and executed two Englishmen. While the rest of the cabinet was outraged by Jackson's actions, Adams defended them as necessary to the country's self-defense, and he eventually convinced Monroe and most of the cabinet to support Jackson.[66] Adams informed Spain that Jackson had been compelled to act by Spain's failure to police its own territory, and he advised Spain to either secure the region or sell it to the United States.[67] The British, meanwhile, declined to risk their recent rapprochement with the United States, and did not make a major diplomatic issue out of Jackson's execution of two British nationals.[68]
 
@@ -81,8 +77,6 @@ As the Spanish Empire continued to fracture during Monroe's second term, Adams a
 
 
 1824 presidential election
-
-ElectoralCollege1824.svg
 
 Immediately upon becoming Secretary of State, Adams emerged as one of Monroe's most likely successors, as the last three presidents had all served in the role at some point before taking office. As the 1824 election approached, Henry Clay, John C. Calhoun (who later dropped out of the race), and William H. Crawford appeared to be Adams's primary competition to succeed Monroe.[77] Crawford favored state sovereignty and a strict constructionist view of the Constitution, while Clay, Calhoun, and Adams embraced federally-funded internal improvements, high tariffs, and the Second Bank of the United States, which was also known as the national bank.[78] Because the Federalist Party had nearly collapsed in the aftermath of the War of 1812, all of the major presidential candidates were members of the Democratic-Republican Party.[79] Adams felt that his own election as president would vindicate his father, while also allowing him to pursue an ambitious domestic policy. Though he lacked the charisma of his competitors, Adams was widely respected and benefited from the lack of other prominent Northern political leaders.[80]
 
@@ -129,7 +123,7 @@ Domestic affairs
 
 Ambitious agenda
 
-John_Quincy_Adams_by_GPA_Healy,_1858.jpg, 1858]]
+, 1858]]
 
 In his 1825 annual message to Congress, Adams presented a comprehensive and ambitious agenda. He called for major investments in internal improvements as well as the creation of a national university, a naval academy, and a national astronomical observatory. Noting the healthy status of the treasury and the possibility for more revenue via land sales, Adams argued for the completion of several projects that were in various stages of construction or planning, including a road from Washington to New Orleans.[104] He also proposed the establishment of a Department of the Interior as a new cabinet-level department that would preside over these internal improvements.[105] Adams hoped to fund these measures primarily through Western land sales, rather than increased taxes or public debt.[106] The domestic agenda of Adams and Clay, which would come to be known as the American System, was designed to unite disparate regional interests in the promotion of a thriving national economy.[107]
 
@@ -143,7 +137,7 @@ Among the many firsts in his career, Adams was the first and only president to k
 
 Formation of political parties
 
-Andrew_Jackson.jpg]]
+]]
 
 In the immediate aftermath of the 1825 contingent election, Jackson was gracious to Adams.[118] Nevertheless, Adams's appointment of Clay rankled Jackson, who received a flood of letters encouraging him to run. In 1825, Jackson accepted the presidential nomination of the Tennessee legislature for the 1828 election.[119] Though he had been close with Adams during Monroe's presidency, Vice President Calhoun was also politically alienated from the president by the appointment of Clay, since that appointment established Clay as the natural heir to Adams.[120] Adams's ambitious December 1825 annual message to Congress further galvanized the opposition, with important figures such as Francis Preston Blair of Kentucky and Thomas Hart Benton of Missouri breaking with the Adams administration.[121] By the end of the first session of the 19th United States Congress, an anti-Adams congressional coalition consisting of Jacksonians (led by Benton and Hugh Lawson White), Crawfordites (led by Martin Van Buren and Nathaniel Macon), and Calhounites (led by Robert Y. Hayne and George McDuffie) had emerged.[122] Aside from Clay, Adams lacked strong supporters outside of the North, and Edward Everett, John Taylor, and Daniel Webster served as his strongest advocates in Congress.[123] Supporters of Adams began calling themselves National Republicans, while supporters of Jackson began calling themselves Democrats.[124] In the press, they were often described as "Adams Men" and "Jackson Men."[125]
 
@@ -161,7 +155,7 @@ Foreign affairs
 
 Trade and claims
 
-Henry_Clay.JPG]]
+]]
 
 One of the major foreign policy goals of the Adams administration was the expansion of American trade.[139] His administration reached reciprocity treaties with a number of nations, including Denmark, the Hanseatic League, the Scandinavian countries, Prussia, and the Federal Republic of Central America. The administration also reached commercial agreements with the Kingdom of Hawaii and the Kingdom of Tahiti.[140] Agreements with Denmark and Sweden opened their colonies to American trade, but Adams was especially focused on opening trade with the British West Indies. The United States had reached a commercial agreement with Britain in 1815, but that agreement excluded British possessions in the Western Hemisphere. In response to U.S. pressure, the British had begun to allow a limited amount of American imports to the West Indies in 1823, but U.S. leaders continued to seek an end to Britain's protective Imperial Preference system.[141] In 1825, Britain banned U.S. trade with the British West Indies, dealing a blow to Adams's prestige.[142] The Adams administration negotiated extensively with the British to lift this ban, but the two sides were unable to come to an agreement.[143] Despite the loss of trade with the British West Indies, the other commercial agreements secured by Adams helped expand overall volume of U.S. exports.[144]
 
@@ -170,8 +164,6 @@ Latin America
 With the exception of an unsuccessful attempt to purchase Texas from Mexico, President Adams did not seek to expand into Latin America or North America.[145] Adams and Clay instead sought engagement with Latin America in order to prevent it from falling under the British Empire's economic influence.[146] As part of this goal, the administration favored sending a U.S. delegation to the Congress of Panama, an 1826 conference of New World republics organized by Simón Bolívar.[147] Clay and Adams hoped that the conference would inaugurate a "Good Neighborhood Policy" among the independent states of the Americas.[148] However, the funding for a delegation and the confirmation of delegation nominees became entangled in a political battle over Adams's domestic policies, with opponents such as Van Buren impeding the process of confirming a delegation.[149] Van Buren saw the Panama Congress as an unwelcome deviation from the more isolationist foreign policy established by President Washington,[150] while many Southerners opposed involvement with any conference attended by delegates of Haiti, a republic that had been established through a slave revolt.[151] Though the U.S. delegation finally won confirmation from the Senate, it never reached the Congress of Panama due to the Senate's delay.[152]
 
 1828 presidential election
-
-ElectoralCollege1828.svg
 
 The Jacksonians formed an effective party apparatus that adopted many modern campaign techniques. Rather than focusing on issues, they emphasized Jackson's popularity and the supposed corruption of Adams and the federal government. Jackson himself described the campaign as a "struggle between the virtue of the people and executive patronage."[153] Adams, meanwhile, refused to adapt to the new reality of political campaigns, and he avoided public functions and refused to invest in pro-administration tools such as newspapers.[154] In early 1827, Jackson was publicly accused of having encouraged his wife, Rachel, to desert her first husband.[155] In response, followers of Jackson attacked Adams's personal life, and the campaign turned increasingly nasty.[156] The Jacksonian press portrayed Adams as an out-of-touch elitist,[157] while pro-Adams newspapers attacked Jackson's past involvement in various duels and scuffles, portraying him as too emotional and impetuous for the presidency. Though Adams and Clay had hoped that the campaign would focus on the American System, it was instead dominated by personalities of Jackson and Adams.[158]
 
@@ -206,15 +198,13 @@ Anti-slavery movement
 
 In the 1830s, slavery emerged as an increasingly polarizing issue in the United States.[199] A longtime opponent of slavery, Adams used his new role in Congress to fight it, and he became the most prominent national leader opposing slavery.[200] After one of his reelection victories, he said that he must "bring about a day prophesied when slavery and war shall be banished from the face of the earth." He wrote in his private journal in 1820:[201]
 
-John_Quincy_Adams_drawing2.jpg
-
 In 1836, partially in response to Adams's consistent presentation of citizen petitions requesting the abolition of slavery in the District of Columbia, the House of Representatives imposed a "gag rule" that immediately tabled any petitions about slavery. The rule was favored by Democrats and Southern Whigs but was largely opposed by Northern Whigs like Adams.[202] In late 1836, Adams began a campaign to ridicule slave owners and the gag rule. He frequently attempted to present anti-slavery petitions, often in ways that provoked strong reactions from Southern representatives.[203] Though the gag rule remained in place,[204] the discussion ignited by his actions and the attempts of others to quiet him raised questions of the right to petition, the right to legislative debate, and the morality of slavery. Adams fought actively against the gag rule for another seven years, eventually moving the resolution that led to its repeal in 1844.[205]
 
 In 1841, at the request of Lewis Tappan and Ellis Gray Loring, Adams joined the case of _United States v. The Amistad_. Adams went before the Supreme Court on behalf of African slaves who had revolted and seized the Spanish ship _Amistad_. Adams appeared on 24 February 1841, and spoke for four hours. His argument succeeded; the Court ruled in favor of the Africans, who were declared free and returned to their homes.[206]
 
 Smithsonian Institution
 
-John_Quincy_Adams_by_George_Caleb_Bingham_(detail),_c._1850_after_1844_original_-_DSC03235.JPG by George Bingham c. 1850]]
+by George Bingham c. 1850]]
 
 Adams also became a leading force for the promotion of science. In 1829, British scientist James Smithson died, and he left his fortune for the "increase and diffusion of knowledge." In Smithson's will, he stated that should his nephew, Henry James Hungerford, die without heirs, the Smithson estate would go to the government of the United States to create an "Establishment for the increase & diffusion of Knowledge among men." After the nephew died without heirs in 1835, President Andrew Jackson informed Congress of the bequest, which amounted to about US$500,000 ($75,000,000 in 2008 U.S. dollars after inflation). Adams realized that this might allow the United States to realize his dream of building a national institution of science and learning. Adams thus became Congress's primary supporter of the future Smithsonian Institution.[207]
 
@@ -222,7 +212,7 @@ The money was invested in shaky state bonds, which quickly defaulted. After heat
 
 Death
 
-JQAdams_QRc_CC.JPG at the Congressional Cemetery ]] JQ_Adams_Vault,_Hancock_Cemetery.jpg, across the street from United First Parish Church]]
+at the Congressional Cemetery ]] , across the street from United First Parish Church]]
 
 In 1846, the 78-year-old former president suffered a stroke that left him partially paralyzed. After a few months of rest, he made a full recovery and resumed his duties in Congress. When Adams entered the House chamber, everyone "stood up and applauded."[211]
 
@@ -237,7 +227,7 @@ Adams and Louisa had three sons and a daughter. Their daughter, Louisa, was born
 
 Personality
 
-John_Quincy_Adams_Presidential_$1_Coin_obverse.jpg of John Quincy Adams]] Adams's personality and political beliefs were much like his father's.[225] He always preferred secluded reading to social engagements, and several times had to be pressured by others to remain in public service. Historian Paul Nagel states that, like Abraham Lincoln after him, Adams often suffered from depression, for which he sought some form of treatment in early years. Adams thought his depression was due to the high expectations demanded of him by his father and mother. Throughout his life he felt inadequate and socially awkward because of his depression, and was constantly bothered by his physical appearance.[226] He was closer to his father, whom he spent much of his early life with abroad, than he was to his mother. When he was younger and the American Revolution was going on, his mother told her children what their father was doing, and what he was risking, and because of this Adams grew to greatly respect his father.[227] His relationship with his mother was rocky; she had high expectations of him and was afraid her children might end up dead alcoholics like her brother.[228] His biographer, Nagel, concludes that his mother's disapproval of Louisa Johnson motivated him to marry Johnson in 1797, despite Adams's reservations that Johnson, like his mother, had a strong personality.[229]
+of John Quincy Adams]] Adams's personality and political beliefs were much like his father's.[225] He always preferred secluded reading to social engagements, and several times had to be pressured by others to remain in public service. Historian Paul Nagel states that, like Abraham Lincoln after him, Adams often suffered from depression, for which he sought some form of treatment in early years. Adams thought his depression was due to the high expectations demanded of him by his father and mother. Throughout his life he felt inadequate and socially awkward because of his depression, and was constantly bothered by his physical appearance.[226] He was closer to his father, whom he spent much of his early life with abroad, than he was to his mother. When he was younger and the American Revolution was going on, his mother told her children what their father was doing, and what he was risking, and because of this Adams grew to greatly respect his father.[227] His relationship with his mother was rocky; she had high expectations of him and was afraid her children might end up dead alcoholics like her brother.[228] His biographer, Nagel, concludes that his mother's disapproval of Louisa Johnson motivated him to marry Johnson in 1797, despite Adams's reservations that Johnson, like his mother, had a strong personality.[229]
 
 Though Adams wore a powdered wig in his youth,[230] he abandoned this fashion and became the first president to adopt a short haircut instead of long hair tied in a queue and to regularly wear long trousers instead of knee breeches.[231][232] It has been suggested that John Quincy Adams had the highest I.Q. of any U.S. president.[233][234] Dean Simonton, a professor of psychology at UC Davis, estimated his I.Q. score at 165.[235]
 
@@ -246,7 +236,7 @@ Legacy
 
 Historical reputation
 
-Graves_of_the_Adams,_Quincy,_Massachusetts.JPG (left) and John Quincy Adams (right) and their wives, in a family crypt beneath the United First Parish Church]]
+(left) and John Quincy Adams (right) and their wives, in a family crypt beneath the United First Parish Church]]
 
 Adams is widely regarded as one of the most effective diplomats and secretaries of state in American history,[236][237] but scholars generally rank him as an average president.[238][239] Adams is remembered as a man eminently qualified for the presidency, yet hopelessly weakened in his presidential leadership potential as a result of the election of 1824. Most importantly, Adams is remembered as a poor politician in an era when politics had begun to matter more. He spoke of trying to serve as a man above the "baneful weed of party strife" at the precise moment in history when the Second Party System was emerging with nearly revolutionary force.[240] Biographer and historian William J. Cooper notes that Adams "does not loom large in the American imagination," but that he has received more public attention since the late 20th century due to his anti-slavery stances. Cooper writes that Adams was the first "major public figure" to publicly question whether the United States could remain united so long as the institution of slavery persisted.[241] Historian Daniel Walker Howe writes that Adams's "intellectual ability and courage were above reproach, and his wisdom in perceiving the national interest has stood the test of time."[242] Historians have often included Adams among the leading conservatives of his day.[243][244][245][246] Russell Kirk, however, sees Adams as a flawed conservative who was imprudent in opposing slavery.[247]
 

@@ -15,11 +15,11 @@ There are six periods in the Paleozoic Era: Cambrian, Ordovician, Silurian, Devo
 
 Cambrian Period
 
-Trilobite_Heinrich_Harder.jpgs]]The Cambrian spans from 541 million years to 485 million years and is the first period of the Paleozoic era of the Phanerozoic. The Cambrian marked a boom in evolution in an event known as the Cambrian explosion in which the largest number of creatures evolved in any single period of the history of the Earth. Creatures like algae evolved, but the most ubiquitous of that period were the armored arthropods, like trilobites. Almost all marine phyla evolved in this period. During this time, the supercontinent Pannotia begins to break up, most of which later became the supercontinent Gondwana.[6]
+s]]The Cambrian spans from 541 million years to 485 million years and is the first period of the Paleozoic era of the Phanerozoic. The Cambrian marked a boom in evolution in an event known as the Cambrian explosion in which the largest number of creatures evolved in any single period of the history of the Earth. Creatures like algae evolved, but the most ubiquitous of that period were the armored arthropods, like trilobites. Almost all marine phyla evolved in this period. During this time, the supercontinent Pannotia begins to break up, most of which later became the supercontinent Gondwana.[6]
 
 Ordovician Period
 
-Ostracoderm_digital_recreation..jpg (a jawless fish)]]The Ordovician spanned from approximately 485 million years to approximately 443 million years ago. The Ordovician was a time in Earth's history in which many of the biological classes still prevalent today evolved, such as primitive fish, cephalopods, and coral. The most common forms of life, however, were trilobites, snails and shellfish. More importantly, the first arthropods went ashore to colonize the empty continent of Gondwana. By the end of the Ordovician, Gondwana was at the south pole, early North America had collided with Europe, closing the Atlantic Ocean. Glaciation of Africa resulted in a major drop in sea level, killing off all life that had established along coastal Gondwana. Glaciation may have caused the Ordovician–Silurian extinction events, in which 60% of marine invertebrates and 25% of families became extinct, and is considered the first mass extinction event and the second deadliest.[7]
+(a jawless fish)]]The Ordovician spanned from approximately 485 million years to approximately 443 million years ago. The Ordovician was a time in Earth's history in which many of the biological classes still prevalent today evolved, such as primitive fish, cephalopods, and coral. The most common forms of life, however, were trilobites, snails and shellfish. More importantly, the first arthropods went ashore to colonize the empty continent of Gondwana. By the end of the Ordovician, Gondwana was at the south pole, early North America had collided with Europe, closing the Atlantic Ocean. Glaciation of Africa resulted in a major drop in sea level, killing off all life that had established along coastal Gondwana. Glaciation may have caused the Ordovician–Silurian extinction events, in which 60% of marine invertebrates and 25% of families became extinct, and is considered the first mass extinction event and the second deadliest.[7]
 
 Silurian Period
 
@@ -27,7 +27,7 @@ The Silurian spanned from 443 to 416 million years ago. The Silurian saw the rej
 
 Devonian Period
 
-Eogyrinus_BW.jpg (an amphibian) of the Carboniferous]]The Devonian spanned from 416 million years to 359 million years ago. Also known as "The Age of the Fish", the Devonian featured a huge diversification of fish, including armored fish like _Dunkleosteus_ and lobe-finned fish which eventually evolved into the first tetrapods. On land, plant groups diversified incredibly in an event known as the Devonian Explosion when plants made lignin allowing taller growth and vascular tissue: the first trees evolved, as well as seeds. This event also diversified arthropod life, by providing them new habitats. The first amphibians also evolved, and the fish were now at the top of the food chain. Near the end of the Devonian, 70% of all species became extinct in an event known as the Late Devonian extinction, which was the Earth's second mass extinction event.[9]
+(an amphibian) of the Carboniferous]]The Devonian spanned from 416 million years to 359 million years ago. Also known as "The Age of the Fish", the Devonian featured a huge diversification of fish, including armored fish like _Dunkleosteus_ and lobe-finned fish which eventually evolved into the first tetrapods. On land, plant groups diversified incredibly in an event known as the Devonian Explosion when plants made lignin allowing taller growth and vascular tissue: the first trees evolved, as well as seeds. This event also diversified arthropod life, by providing them new habitats. The first amphibians also evolved, and the fish were now at the top of the food chain. Near the end of the Devonian, 70% of all species became extinct in an event known as the Late Devonian extinction, which was the Earth's second mass extinction event.[9]
 
 Carboniferous Period
 
@@ -35,7 +35,7 @@ The Carboniferous spanned from 359 million to 299 million years ago. During this
 
 Permian Period
 
-DimetrodonKnight.jpg]]
+]]
 
 The Permian spanned from 299 to 252 million years ago and was the last period of the Paleozoic Era. At the beginning of this period, all continents joined together to form the supercontinent Pangaea, which was encircled by one ocean called Panthalassa. The land mass was very dry during this time, with harsh seasons, as the climate of the interior of Pangaea was not regulated by large bodies of water. Diapsids and synapsids flourished in the new dry climate. Creatures such as Dimetrodon and Edaphosaurus ruled the new continent. The first conifers evolved, and dominated the terrestrial landscape. Near the end of the Permian, however, Pangaea grew drier. The interior was desert, and new species such as Scutosaurus and Gorgonopsids filled it. Eventually they disappeared, along with 95% of all life on Earth, in a cataclysm known as "The Great Dying", the third and most severe mass extinction.[12][13]
 
@@ -58,7 +58,7 @@ There are many unanswered questions about the late Paleozoic. The Mississippian 
 
 Flora
 
-Devonianscene-green.jpg While macroscopic plant life appeared early in the Paleozoic Era and possibly late in the Neoproterozoic Era of the earlier eon, plants mostly remained aquatic until the Silurian Period, about 420 million years ago, when they began to transition onto dry land. Terrestrial flora reached its climax in the Carboniferous, when towering lycopsid rainforests dominated the tropical belt of Euramerica. Climate change caused the Carboniferous Rainforest Collapse which fragmented this habitat, diminishing the diversity of plant life in the late Carboniferous and Permian.[15]
+While macroscopic plant life appeared early in the Paleozoic Era and possibly late in the Neoproterozoic Era of the earlier eon, plants mostly remained aquatic until the Silurian Period, about 420 million years ago, when they began to transition onto dry land. Terrestrial flora reached its climax in the Carboniferous, when towering lycopsid rainforests dominated the tropical belt of Euramerica. Climate change caused the Carboniferous Rainforest Collapse which fragmented this habitat, diminishing the diversity of plant life in the late Carboniferous and Permian.[15]
 
 
 Fauna

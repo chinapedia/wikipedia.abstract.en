@@ -11,7 +11,7 @@ The study of ligaments is known as (from Greek , _desmos_, "bond"; and , _-logia
 
 Articular ligaments
 
-Ligament.jpg "Ligament" most commonly refers to a band of dense regular connective tissue bundles made of collagenous fibers, with bundles protected by dense irregular connective tissue sheaths. Ligaments connect bones to other bones to form joints, while tendons connect bone to muscle. Some ligaments limit the mobility of articulations or prevent certain movements altogether.
+"Ligament" most commonly refers to a band of dense regular connective tissue bundles made of collagenous fibers, with bundles protected by dense irregular connective tissue sheaths. Ligaments connect bones to other bones to form joints, while tendons connect bone to muscle. Some ligaments limit the mobility of articulations or prevent certain movements altogether.
 
 Capsular ligaments are part of the articular capsule that surrounds synovial joints. They act as mechanical reinforcements. Extra-capsular ligaments join together in harmony with the other ligaments and provide joint stability. Intra-capsular ligaments, which are much less common, also provide stability but permit a far larger range of motion. Cruciate ligaments are paired ligaments in the form of a cross.[2]
 

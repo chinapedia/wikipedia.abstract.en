@@ -5,7 +5,7 @@ Recreational drugs include alcohol (as found in beer, wine, and distilled spirit
 
 Reasons for use
 
-Bhang_eaters_before_two_huts_(6124556163).jpg eaters from India c. 1790. Bhang is an edible preparation of cannabis native to the Indian subcontinent. It has been used in food and drink as early as 1000 BCE by Hindus in ancient India.[1]]] Ganja_Smoking_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2646.JPG.]] Many researchers have explored the etiology of recreational drug use. Some of the most common theories are: genetics, personality type, psychological problems, self-medication, gender, age, instant gratification, basic human need, curiosity, rebelliousness, a sense of belonging to a group, family and attachment issues, history of trauma, failure at school or work, socioeconomic stressors, peer pressure, juvenile delinquency, availability, historical factors, or sociocultural influences.[2] There has not been agreement around any one single cause. Instead, experts tend to apply the biopsychosocial model. Any number of these factors are likely to influence an individual's drug use as they are not mutually exclusive.[3][4] Regardless of genetics, mental health or traumatic experiences, social factors play a large role in exposure to and availability of certain types of drugs and patterns of drug use.[5]
+eaters from India c. 1790. Bhang is an edible preparation of cannabis native to the Indian subcontinent. It has been used in food and drink as early as 1000 BCE by Hindus in ancient India.[1]]] .]] Many researchers have explored the etiology of recreational drug use. Some of the most common theories are: genetics, personality type, psychological problems, self-medication, gender, age, instant gratification, basic human need, curiosity, rebelliousness, a sense of belonging to a group, family and attachment issues, history of trauma, failure at school or work, socioeconomic stressors, peer pressure, juvenile delinquency, availability, historical factors, or sociocultural influences.[2] There has not been agreement around any one single cause. Instead, experts tend to apply the biopsychosocial model. Any number of these factors are likely to influence an individual's drug use as they are not mutually exclusive.[3][4] Regardless of genetics, mental health or traumatic experiences, social factors play a large role in exposure to and availability of certain types of drugs and patterns of drug use.[5]
 
 According to addiction researcher Martin A. Plant, many people go through a period of self-redefinition before initiating recreational drug use. They tend to view using drugs as part of a general lifestyle that involves belonging to a subculture that they associate with heightened status and the challenging of social norms. Plant says, “From the user's point of view there are many positive reasons to become part of the milieu of drug taking. The reasons for drug use appear to have as much to do with needs for friendship, pleasure and status as they do with unhappiness or poverty. Becoming a drug taker, to many people, is a positive affirmation rather than a negative experience.”[6]
 
@@ -16,7 +16,7 @@ Anthropological research has suggested that humans "may have evolved to counter-
 
 Risks
 
-Rational_harm_assessment_of_drugs_radar_plot.svg and ranked 20 popular recreational drugs by their dependence liability and physical and social harms.[9]]] Вытрезвитель_при_Московской_части_Петербурга.jpg
+and ranked 20 popular recreational drugs by their dependence liability and physical and social harms.[9]]]
 
 Severity and type of risks that come with recreational drug use vary widely with the drug in question and the amount being used. There are many factors in the environment and within the user that interact with each drug differently. Overall, some studies suggest that alcohol is one of the most dangerous of all recreational drugs; only heroin, crack cocaine, and methamphetamines are judged to be more harmful. However, studies which focus on a moderate level of alcohol consumption have concluded that there can be substantial health benefits from its use, such as decreased risk of cardiac disease, stroke and cognitive decline.[10][11][12][13] This claim has been disputed. Researcher David Nutt stated that these studies showing benefits for "moderate" alcohol consumption lacked control for the variable of what the subjects were drinking, beforehand.[14] Experts in the UK have suggested that some drugs that may be causing less harm, to fewer users (although they are also used less frequently in the first place), include cannabis, psilocybin mushrooms, LSD, and ecstasy. These drugs are not without their own particular risks.[15]
 
@@ -36,7 +36,7 @@ One in four adolescents has used an illegal drug and one in ten of those adolesc
 
 Demographics
 
-Male_Smoking_by_Country.png.)]] Alcohol_by_Country.png (15+), in liters of pure alcohol[20]]]
+.)]] (15+), in liters of pure alcohol[20]]]
 
 Australia
 
@@ -85,7 +85,7 @@ The following substances are used recreationally:[37]
 
 Routes of administration
 
-Caffeineinsufflation.JPG Injecting_Heroin.JPG Drugs often associated with a particular route of administration. Many drugs can be consumed in more than one way. For example, marijuana can be swallowed like food or smoked, and cocaine can be "sniffed" in the nostrils, injected, or, with various modifications, smoked.
+Drugs often associated with a particular route of administration. Many drugs can be consumed in more than one way. For example, marijuana can be swallowed like food or smoked, and cocaine can be "sniffed" in the nostrils, injected, or, with various modifications, smoked.
 
 -   inhalation: all intoxicative inhalants (see below) that are gases or solvent vapours that are inhaled through the trachea, as the name suggests
 -   insufflation: also known as "sniffing", or "snorting", this method involves the user placing a powder in the nostrils and breathing in through the nose, so that the drug is absorbed by the mucous membranes. Drugs that are "sniffed", or "snorted", include powdered amphetamines, cocaine, heroin, ketamine and MDMA. Additionally, snuff tobacco
@@ -146,7 +146,7 @@ Tranquilizers (GABAergics):
 
 Stimulants
 
-Cocaine_lines_2.jpg is a commonly used stimulant]]
+is a commonly used stimulant]]
 
 Stimulants, also known as "psychostimulants",[60] induce euphoria with improvements in mental and physical function, such as enhanced alertness, wakefulness, and locomotion. Due to their effects typically having an "up" quality to them, stimulants are also occasionally referred to as "uppers". Depressants or "downers", which decrease mental or physical function, are in stark contrast to stimulants and are considered to be their functional opposites.
 

@@ -20,7 +20,7 @@ The word "Manx" is frequently spelled "Manks" in historical sources, particularl
 
 History
 
-Clagh_Ogham_ec_Thie_Tashtee_Vannin.jpg on a stone in the Manx Museum written in Primitive Irish and which reads DOVAIDONA MAQI DROATA, "Of Dovaido, son of Droata"[3]]] Illiam_Dhone.JPG (Brown-haired William)]] Lag_ny_Keeilley,_West_slope_of_Cronk_ny_Arrey_Laa_-_geograph.org.uk_-_181312.jpg (Hill of the Day Watch). The Manx language has had a substantial influence on the island's toponymy and nomenclature.]]
+on a stone in the Manx Museum written in Primitive Irish and which reads DOVAIDONA MAQI DROATA, "Of Dovaido, son of Droata"[3]]] (Brown-haired William)]] (Hill of the Day Watch). The Manx language has had a substantial influence on the island's toponymy and nomenclature.]]
 
 Manx is a Goidelic language, closely related to Irish and Scottish Gaelic. On the whole it is partially mutually intelligible with these, and native speakers of one find it easy to gain passive, and even spoken, competency in the other two.
 
@@ -114,7 +114,7 @@ Manx is used in the annual Tynwald ceremony and Manx words are used in official 
 
 For the purpose of strengthening its contribution to local culture and community, Manx is recognised under the European Charter for Regional or Minority Languages and in the framework of the British-Irish Council.
 
-BunscoillSignageOct2017.jpg Manx is taught as a second language at all of the island's primary and secondary schools. The lessons are optional and instruction is provided by the Department of Education's Manx Language Team which teach up to A Level standard.[39]
+Manx is taught as a second language at all of the island's primary and secondary schools. The lessons are optional and instruction is provided by the Department of Education's Manx Language Team which teach up to A Level standard.[39]
 
 The Bunscoill Ghaelgagh, a primary school at St John's, has 67 children, as of September 2016, who receive nearly all of their education through the medium of the language. Children who have attended the school have the opportunity to receive some of their secondary education through the language at Queen Elizabeth II High School in Peel.
 
@@ -135,7 +135,7 @@ The first film to be made in Manx – the 22-minute-long _Ny Kirree fo Niaghtey_
 
 Signage
 
-Manx-museum.JPG, underneath the English]] Bilingual road, street, village and town boundary signs are common throughout the Isle of Man. All other road signs are in English only.
+, underneath the English]] Bilingual road, street, village and town boundary signs are common throughout the Isle of Man. All other road signs are in English only.
 
 Business signage in Manx is gradually being introduced but is not mandated by law.
 
@@ -178,7 +178,7 @@ Like southern and western varieties of Irish and northern varieties of Scottish 
 
 Another similarity with southern Irish is the treatment of Middle Irish word-final unstressed , spelled _-(e)adh_ in Irish and Scottish Gaelic. In nouns (including verbal nouns), this became in Manx, as it did in southern Irish, e.g. ("war") , ("to praise") ; cf. Irish and , pronounced and in southern Irish.[58] In finite verb forms before full nouns (as opposed to pronouns) became in Manx, as in southern Irish, e.g. ("would praise"), cf. Irish , pronounced in southern Irish.[59]
 
-Manx_dialects.png Linguistic analysis of the last few dozen native speakers reveals a number of dialectal differences between the northern and the southern parts of the island. Northern Manx is reflected by speakers from towns and villages from Maughold in the northeast of the island to Peel on the west coast. Southern Manx is used by speakers from the Sheading of Rushen. It is possible that written Manx represents a 'midlands' dialect of Douglas and surrounding areas.
+Linguistic analysis of the last few dozen native speakers reveals a number of dialectal differences between the northern and the southern parts of the island. Northern Manx is reflected by speakers from towns and villages from Maughold in the northeast of the island to Peel on the west coast. Southern Manx is used by speakers from the Sheading of Rushen. It is possible that written Manx represents a 'midlands' dialect of Douglas and surrounding areas.
 
 In Southern Manx, older _á_ and in some cases _ó_ have become . In Northern Manx the same happens, but _á_ sometimes remains as well. For example, ("day", cf. Irish ) is in the south but or in the north. Old _ó_ is always in both dialects, e.g. ("young", cf. Irish ) is in both dialects.[60] In many words before _rt_, _rd_ and _rg_, and in one or two other words _á_, lengthened _a_ and _ó_ have become /œ:/, as in _paayrt_ 'part' /pœ:rt/, _ard_ 'high' /œ:rd/, _jiarg_ 'red' /dʒœ:rg/, _argid_ 'money, silver' /œ:rgid/ and _aarey_ 'gold GEN' /œ:rə/.
 
@@ -1398,7 +1398,7 @@ See Celtic Swadesh lists for the complete list in all the Celtic languages.
 
 Loanwords
 
-Manx_loaghtan.jpg, a Manx breed of primitive sheep. The name means "mousy grey" in Manx.]] Foreign loanwords are primarily Norse and English, with a smaller number coming from French. Some examples of Norse loanwords are _garey_ ("garden", from _garðr_, "enclosure") and _sker_ meaning a sea rock (from _sker_, compare with _skjær_ and _sker_). Examples of French loanwords are _danjeyr_ ("danger", from _danger_) and _vondeish_ ("advantage", from _avantage_).
+, a Manx breed of primitive sheep. The name means "mousy grey" in Manx.]] Foreign loanwords are primarily Norse and English, with a smaller number coming from French. Some examples of Norse loanwords are _garey_ ("garden", from _garðr_, "enclosure") and _sker_ meaning a sea rock (from _sker_, compare with _skjær_ and _sker_). Examples of French loanwords are _danjeyr_ ("danger", from _danger_) and _vondeish_ ("advantage", from _avantage_).
 
 English loanwords were common in late (pre-revival) Manx, e.g. _boy_ ("boy"), _badjer_ ("badger"), rather than the more usual Gaelic _guilley_ and _brock_. Henry Jenner, on asking someone what he was doing, was told _Ta mee smokal pipe_ ("I am smoking a pipe"), and that "[he] certainly considered that he was talking Manx, and not English, in saying it." In more recent years, there has been a reaction against such borrowing, resulting in coinages for technical vocabulary. Despite this, calques exist in Manx, not necessarily obvious to its speakers.
 

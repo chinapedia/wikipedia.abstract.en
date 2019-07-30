@@ -1,9 +1,9 @@
-Un-pakistan.png TRANSPORT IN PAKISTAN () is extensive and varied, and serves a population of over 191 million people. In recent years, new national highways have been built, with the addition of motorways which have improved trade and logistics within the country. Pakistan's rail network owned by Pakistan Railways is also undergoing expansion in recent years. Airports and seaports have been built with the addition of foreign and domestic funding.
+TRANSPORT IN PAKISTAN () is extensive and varied, and serves a population of over 191 million people. In recent years, new national highways have been built, with the addition of motorways which have improved trade and logistics within the country. Pakistan's rail network owned by Pakistan Railways is also undergoing expansion in recent years. Airports and seaports have been built with the addition of foreign and domestic funding.
 
 
 History
 
-General_View_of_Railway_Station_1895.jpg, c.1895.]] The history of transport in modern-day Pakistan dates back to the Indus Valley Civilization.
+, c.1895.]] The history of transport in modern-day Pakistan dates back to the Indus Valley Civilization.
 
 The Grand Trunk Road was a major road commissioned by Sher Shah Suri in the 16th century and used during the Suri and Mughal periods. Trees were planted, and mosques and temples built along the road. Caravanserais were built for travelers to spend the night.
 
@@ -11,8 +11,6 @@ Railways and Airways were developed during the British Raj. The first railway's 
 
 
 Road
-
-Pakistan_Nationalhighways.PNG
 
 Motorways
 
@@ -25,7 +23,7 @@ The construction of motorways began in the early 1990s, with the idea of buildin
 
 National highways
 
-Pakistani_truck_in_Karakoram_Highway,_Passu,_Northern_Areas,_Pakistan.jpgs on Karakoram Highway]] During the 1990s, Pakistan began an ongoing project to rebuild all national highways throughout the country specifically to important financial, cargo and textile centers. The National Highway Authority or NHA is responsible for the maintenance of all national highways in Pakistan.
+s on Karakoram Highway]] During the 1990s, Pakistan began an ongoing project to rebuild all national highways throughout the country specifically to important financial, cargo and textile centers. The National Highway Authority or NHA is responsible for the maintenance of all national highways in Pakistan.
 
 -   The Makran Coastal Highway follows the coast of Sindh and Balochistan provinces, linking Karachi and Gwadar. Journey time has been reduced to six or seven hours with the construction of the new Coastal Highway. The highway was built as part of an overall plan to improve transport facilities in southern Balochistan.
 -   The Karakoram Highway is the highest paved international road in the world. It connects China and Pakistan across the Karakoram mountain range, through the Khunjerab Pass.
@@ -73,7 +71,7 @@ Without segregated lanes
 
 With segregated lanes
 
--   The_Red_Metro_Bus_in_Blue_Area.jpg in Islamabad. ]]Lahore: Metrobus (Lahore) Bus Service was inaugurated on Feb 10, 2013 by CM Punjab Shehbaz Sharif.[2] It consist of 27-kilometres long road track for the Metro Bus Service, from Gajumata to Shahadra, out of this track 8.5 km is elevated. It has 27 bus stations and e-ticketing and intelligent transportation system are part of the MBS.
+-   in Islamabad. ]]Lahore: Metrobus (Lahore) Bus Service was inaugurated on Feb 10, 2013 by CM Punjab Shehbaz Sharif.[2] It consist of 27-kilometres long road track for the Metro Bus Service, from Gajumata to Shahadra, out of this track 8.5 km is elevated. It has 27 bus stations and e-ticketing and intelligent transportation system are part of the MBS.
 -   Islamabad-Rawalpindi: Rawalpindi-Islamabad Metrobus Service is an operational bus rapid transit system which connects key areas in city of Rawalpindi and the national capital city of Islamabad. It is long, and has 24 stations. The project was inaugurated on 4 June 2015 by Prime Minister Nawaz Sharif.[3]
 -   Multan Metrobus is an operational bus rapid transit in the city of Multan. The long BRT system connects the main commercial areas of the city.
 
@@ -140,7 +138,7 @@ To meet future needs, students and teachers from the National University of Scie
 
 Auto rickshaws
 
-Auto-rickshaw_on_Canal_Bank_Road_Lahore_2009-06.jpg Auto rickshaws are a popular method of travelling in cities and are found in almost every city and town in Pakistan. The fare is usually negotiable before commencing a journey; however, due to the level of pollution contributed by auto-rickshaws, the government has recently begun banning older ones and replacing them with CNG auto rickshaws, which tend to be less noisy, form less pollutants and are much bigger and more comfortable. The Punjab government decided in 2005 to replace two-stroke three-wheelers with CNG-fitted four-stroke rickshaws in Lahore, Multan, Faisalabad, Rawalpindi and Gujranwala. Three manufacturers were ordered to produce 60,000 four-stroke vehicles, but they reportedly supplied 2,000 to the government which are now plying on city roads. Similar ordinances are now being considered in other provinces of Pakistan.
+Auto rickshaws are a popular method of travelling in cities and are found in almost every city and town in Pakistan. The fare is usually negotiable before commencing a journey; however, due to the level of pollution contributed by auto-rickshaws, the government has recently begun banning older ones and replacing them with CNG auto rickshaws, which tend to be less noisy, form less pollutants and are much bigger and more comfortable. The Punjab government decided in 2005 to replace two-stroke three-wheelers with CNG-fitted four-stroke rickshaws in Lahore, Multan, Faisalabad, Rawalpindi and Gujranwala. Three manufacturers were ordered to produce 60,000 four-stroke vehicles, but they reportedly supplied 2,000 to the government which are now plying on city roads. Similar ordinances are now being considered in other provinces of Pakistan.
 
 A new form of transport in Pakistan is the Qing-Qi (pronounced "ching-chee"), which is a cross between a motorcycle and auto-rickshaw. It runs just like a motorcycle but has three wheels instead of two and can carry a much heavier load. It is an urban transport vehicle and is used mostly for short distances.
 
@@ -151,7 +149,7 @@ Motorcycling is another means of transportation in Pakistan. It is considered to
 
 Rail
 
-Pakistan_Railways_Network_Map.png Lahore_railway_station.jpeg]] Karachi_Cantt_st_1.jpg]]
+]] ]]
 
 Domestic
 
@@ -197,8 +195,6 @@ In Ghangha Pur, a narrow gauge horse-drawn tramway is operational.[22] It was fi
 
 
 Air
-
-Pakistan_Airports_&_Seaports.png
 
 Pakistan has 151 airports. The major airports are:
 

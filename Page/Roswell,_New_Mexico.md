@@ -5,7 +5,7 @@ The Roswell UFO incident was named after the town, though the crash site of the 
 
 History
 
-thumb thumb Roswell_New_Mexico_Flood.jpg The first non-indigenous settlers of the area around Roswell were a group of pioneers from Missouri, who attempted to start a settlement southwest of what is now Roswell in 1865, but were forced to abandon the site because of a lack of water. It was called Missouri Plaza. It also had many Hispanic people from Lincoln, New Mexico. John Chisum had his famous Jingle Bob Ranch about from the center of Roswell, at South Spring Acres. At the time, it was the largest ranch in the United States.
+thumb thumb The first non-indigenous settlers of the area around Roswell were a group of pioneers from Missouri, who attempted to start a settlement southwest of what is now Roswell in 1865, but were forced to abandon the site because of a lack of water. It was called Missouri Plaza. It also had many Hispanic people from Lincoln, New Mexico. John Chisum had his famous Jingle Bob Ranch about from the center of Roswell, at South Spring Acres. At the time, it was the largest ranch in the United States.
 
 Van C. Smith, a businessman from Omaha, Nebraska, and his partner, Aaron Wilburn, constructed two adobe buildings in 1869 that began what is now Roswell. The two buildings became the settlement's general store, post office, and sleeping quarters for paying guests. In 1871, Smith filed a claim with the federal government for the land around the buildings, and on August 20, 1873, he became the town's first postmaster. Smith was the son of Roswell Smith, a prominent lawyer in Lafayette, Indiana, and Annie Ellsworth, daughter of U.S. Patent Commissioner Henry Leavitt Ellsworth. He called the town Roswell, after his father's first name.
 
@@ -17,7 +17,7 @@ In the 1930s, Roswell was a site for much of Robert H. Goddard's early rocketry 
 
 Roswell was a location of military importance from 1941 to 1967. In 1967, the Walker Air Force Base was decommissioned. After the closure of the base, Roswell capitalized on its pleasant climate and reinvented itself as a retirement community.
 
-RoswellDailyRecordJuly8,1947.jpg'', July 8, 1947, announcing the "capture" of a "flying saucer"]] International_UFO_Museum_and_Research_Center_Roswell_New_Mexico.jpg]]
+'', July 8, 1947, announcing the "capture" of a "flying saucer"]] ]]
 
 Roswell has benefited from interest in the alleged UFO incident of 1947. It was the report of an object that crashed in the general vicinity in June or July 1947, allegedly an extraterrestrial spacecraft and its alien occupants. Since the late 1970s, the incident has been the subject of intense controversy and of a conspiracy theory regarding a classified program named "Mogul". Many UFO proponents maintain that an alien craft was found and its occupants were captured, and that the military then engaged in a cover-up. In recent times, the business community has deliberately sought out tourists interested in UFOs, science fiction, and aliens.
 
@@ -30,7 +30,7 @@ Geography
 
 Roswell is located in southeastern New Mexico about west of the Pecos River and some east of highlands that rise to the Sierra Blanca range. U.S. Routes 70, 285, and 380 intersect in the city. US 70 leads northeast to Clovis and west to Alamogordo; US 285 leads north to Santa Fe and south to Carlsbad; and US 380 leads east to Brownfield, Texas, and west to Socorro.
 
-According to the United States Census Bureau, Roswell has a total area of , of which is land and , or 0.19%, is covered by water.[4] Main_Street_Roswell.jpg
+According to the United States Census Bureau, Roswell has a total area of , of which is land and , or 0.19%, is covered by water.[4]
 
 Climate
 
@@ -105,7 +105,7 @@ Major highways
 
 Local industry
 
-Njtmillennium4101c8nx.jpg Roswell is home to Leprino Foods, one of the world's largest mozzarella factories.[9] It is also the location of the former Transportation Manufacturing Corporation factory, best known for producing various iterations of the RTS city bus since 1987. The factory was operated by Nova Bus from 1994 to 2003 and subsequently by Millennium Transit Services.
+Roswell is home to Leprino Foods, one of the world's largest mozzarella factories.[9] It is also the location of the former Transportation Manufacturing Corporation factory, best known for producing various iterations of the RTS city bus since 1987. The factory was operated by Nova Bus from 1994 to 2003 and subsequently by Millennium Transit Services.
 
 
 Notable residents
@@ -152,10 +152,10 @@ References
 
 External links
 
-  -------------------- ------------------------
-  bitterlake.jpg       RoswellMuseum.jpg
-  RoswellChamber.jpg   Roswell_UFO_Museum.jpg
-  -------------------- ------------------------
+  -- --
+
+
+  -- --
 
 Community info:
 

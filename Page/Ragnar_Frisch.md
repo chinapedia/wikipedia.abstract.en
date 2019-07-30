@@ -7,7 +7,7 @@ Biography
 
 Family and education
 
-Anton_Frisch_(1865-1928).jpg of silver miners and goldsmiths]] Ragnar Frisch[2] was born on 3 March 1895 in Christiania as the son of gold- and silversmith Anton Frisch and Ragna Fredrikke Frisch (née Kittilsen). The Frisch family had emigrated from Germany to Kongsberg in Norway in the 17th century and his ancestors had worked for the Kongsberg Silver Mines for generations;[3] Ragnar's grandfather Antonius Frisch had become a goldsmith in Christiania in 1856. His family had thus worked with precious metals like silver and gold for at least 300 years.
+of silver miners and goldsmiths]] Ragnar Frisch[2] was born on 3 March 1895 in Christiania as the son of gold- and silversmith Anton Frisch and Ragna Fredrikke Frisch (née Kittilsen). The Frisch family had emigrated from Germany to Kongsberg in Norway in the 17th century and his ancestors had worked for the Kongsberg Silver Mines for generations;[3] Ragnar's grandfather Antonius Frisch had become a goldsmith in Christiania in 1856. His family had thus worked with precious metals like silver and gold for at least 300 years.
 
 Being expected to continue his family business, Frisch became an apprentice in the David Andersen workshop in Oslo. However at his mother's advice, while doing his apprenticeship Frisch also started studying at the Royal Frederick University. His chosen topic was economics, as it seemed to be "the shortest and easiest study" available at the university,[4] and passed his degree in 1919. In 1920 he also passed his handicraftsman tests and became a partner in his father's workshop.
 

@@ -5,8 +5,6 @@ Schwitters worked in several genres and media, including dadaism, constructivism
 
 Early influences and the beginnings of Merz, 1887–1922
 
-DasUndbild.jpg
-
 Hanover
 
 Kurt Schwitters was born on 20 June 1887 in Hanover, at Rumannstraße No.2, now: No. 8,[1][2][3] the only child of Eduard Schwitters and his wife Henriette (née Beckemeyer). His father was (co-)proprietor of a ladies' clothes shop. The business was sold in 1898, and the family used the money to buy some properties in Hanover, which they rented out, allowing the family to live off the income for the rest of Schwitters' life in Germany. In 1893, the family moved to Waldstraße (later Waldhausenstraße) 5, future site of the _Merzbau_. In 1901, Schwitters suffered his first epileptic seizure, a condition that would exempt him from military service in World War I until late in the war, when conscription was loosened.
@@ -33,7 +31,7 @@ Whilst Schwitters still created work in an expressionist style into 1919 (and wo
 
 Dada and Merz
 
-An_Anna_Blume.jpg, Dichtungen'', 1919]] Schwitters asked to join Berlin Dada either in late 1918 or early 1919, according to the memoirs of Raoul Hausmann.[14] Hausmann claimed that Richard Huelsenbeck rejected the application because of Schwitters' links to Der Sturm and to Expressionism in general, which were seen by the Dadaists as hopelessly romantic and obsessed with aesthetics.[15] Ridiculed by Huelsenbeck as 'the Caspar David Friedrich of the Dadaist Revolution',[16] he would reply with an absurdist short story _Franz Mullers Drahtfrühling, Ersters Kapitel: Ursachen und Beginn der grossen glorreichen Revolution in Revon_ published in Der Sturm (xiii/11, 1922), which featured an innocent bystander who started a revolution 'merely by being there'.[17]
+, Dichtungen'', 1919]] Schwitters asked to join Berlin Dada either in late 1918 or early 1919, according to the memoirs of Raoul Hausmann.[14] Hausmann claimed that Richard Huelsenbeck rejected the application because of Schwitters' links to Der Sturm and to Expressionism in general, which were seen by the Dadaists as hopelessly romantic and obsessed with aesthetics.[15] Ridiculed by Huelsenbeck as 'the Caspar David Friedrich of the Dadaist Revolution',[16] he would reply with an absurdist short story _Franz Mullers Drahtfrühling, Ersters Kapitel: Ursachen und Beginn der grossen glorreichen Revolution in Revon_ published in Der Sturm (xiii/11, 1922), which featured an innocent bystander who started a revolution 'merely by being there'.[17]
 
 Hausmann's anecdote about Schwitters asking to join Berlin Dada is, however, somewhat dubious, for there is well-documented evidence that Schwitters and Huelsenbeck were on amicable terms at first.[18] When they first met in 1919, Huelsenbeck was enthusiastic about Schwitters's work and promised his assistance, while Schwitters reciprocated by finding an outlet for Huelsenbeck's Dada publications. When Huelsenbeck visited him at the end of the year, Schwitters gave him a lithograph (which he kept all his life)[19] and though their friendship was by now strained, Huelsenbeck wrote him a conciliatory note. "You know I am well-disposed towards you. I think too that certain disagreements we have both noticed in our respective opinions should not be an impediment to our attack on the common enemy, the bourgeoisie and philistinism."[20] It was not until mid-1920 that the two men fell out, either because of the success of Schwitters's poem _An Anna Blume_ (which Huelsenbeck considered unDadaistic) or because of quarrels about Schwitters' contribution to Dadaco, a projected Dada atlas edited by Huelsenbeck. It is unlikely that Schwitters ever considered joining Berlin Dada, however, for he was under contract to Der Sturm, which offered far better long-term opportunities than Dada's quarrelsome and erratic venture. If Schwitters contacted Dadaists at this time, it was generally because he was searching for opportunities to exhibit his work.
 
@@ -48,8 +46,6 @@ Whilst these works were usually collages incorporating found objects, such as bu
 
 Internationalism, 1922–1937
 
-OvalConstruction-Schwitters,1925.jpg
-
 _Merz_ (periodical)
 
 As the political climate in Germany became more liberal and stable, Schwitters' work became less influenced by Cubism and Expressionism. He started to organize and participate in lecture tours with other members of the international avant-garde, such as Hans Arp, Raoul Hausmann and Tristan Tzara, touring Czechoslovakia, the Netherlands, and Germany with provocative evening recitals and lectures.
@@ -62,7 +58,7 @@ Thanks to Schwitters' lifelong patron and friend Katherine Dreier, his work was 
 
 _The Merzbau_
 
-Merzbau.jpg Alongside his collages, Schwitters also dramatically altered the interiors of a number of spaces throughout his life. The most famous was the _Merzbau_, the transformation of six (or possibly more) rooms of the family house in Hanover, Waldhausenstrasse 5. This took place very gradually; work started in about 1923, the first room was finished in 1933, and Schwitters subsequently extended the Merzbau to other areas of the house until he fled to Norway in early 1937. Most of the house was let to tenants, so that the final extent of the Merzbau was less than is normally assumed. On the evidence of Schwitters' correspondence, by 1937 it had spread to two rooms of his parents' apartment on the ground floor, the adjoining balcony, the space below the balcony, one or two rooms of the attic and possibly part of the cellar. In 1943 it was destroyed in an Allied bombing raid.
+Alongside his collages, Schwitters also dramatically altered the interiors of a number of spaces throughout his life. The most famous was the _Merzbau_, the transformation of six (or possibly more) rooms of the family house in Hanover, Waldhausenstrasse 5. This took place very gradually; work started in about 1923, the first room was finished in 1933, and Schwitters subsequently extended the Merzbau to other areas of the house until he fled to Norway in early 1937. Most of the house was let to tenants, so that the final extent of the Merzbau was less than is normally assumed. On the evidence of Schwitters' correspondence, by 1937 it had spread to two rooms of his parents' apartment on the ground floor, the adjoining balcony, the space below the balcony, one or two rooms of the attic and possibly part of the cellar. In 1943 it was destroyed in an Allied bombing raid.
 
 Early photos show the _Merzbau_ with a grotto-like surface and various columns and sculptures, possibly referring to similar pieces by Dadaists, including the _Great Plasto-Dio-Dada-Drama_ by Johannes Baader, shown at the first International Dada Fair, Berlin, 1920. Work by Hannah Höch, Raoul Hausmann and Sophie Tauber, amongst others, were incorporated into the fabric of the installation. By 1933, it had been transformed into a sculptural environment, and three photos from this year show a series of angled surfaces aggressively protruding into a room painted largely in white, with a series of tableaux spread across the surfaces. In his essay 'Ich und meine Ziele' in Merz 21, Schwitters referred to the first column of his work as the _Cathedral of Erotic Misery_. There is no evidence that he used this name after 1930, however. The first use of the word 'Merzbau' occurs in 1933.[32]
 
@@ -81,7 +77,7 @@ Exile, 1937–1948
 
 Norway
 
-Entartete_Kunst,_Degenerate_Art_exhibition_catalogue,_1937,_p._23,_Johannes_Molzahn,_Jean_Metzinger,_Kurt_Schwitters.jpg catalogue, 1937, p. 23, Johannes Molzahn, Jean Metzinger (_En Canot_), Kurt Schwitters]] As the political situation in Germany under the Nazis continued to deteriorate throughout the 1930s, Schwitters' work began to be included in the _Entartete Kunst_ (Degenerate Art) touring exhibition organised by the Nazi party from 1933. He lost his contract with Hanover City Council in 1934 and examples of his work in German museums were confiscated and publicly ridiculed in 1935. By the time his close friends Christof and Luise Spengemann and their son Walter were arrested by the Gestapo in August 1936[37] the situation had clearly become perilous.
+catalogue, 1937, p. 23, Johannes Molzahn, Jean Metzinger (_En Canot_), Kurt Schwitters]] As the political situation in Germany under the Nazis continued to deteriorate throughout the 1930s, Schwitters' work began to be included in the _Entartete Kunst_ (Degenerate Art) touring exhibition organised by the Nazi party from 1933. He lost his contract with Hanover City Council in 1934 and examples of his work in German museums were confiscated and publicly ridiculed in 1935. By the time his close friends Christof and Luise Spengemann and their son Walter were arrested by the Gestapo in August 1936[37] the situation had clearly become perilous.
 
 On 2 January 1937 Schwitters, wanted for an "interview" with the Gestapo,[38] fled to Norway to join his son Ernst, who had already left Germany on 26 December 1936. His wife Helma decided to remain in Hanover, to manage their four properties.[39] In the same year, his _Merz_ pictures were included in the _Entartete Kunst_ exhibition titled in Munich, making his return impossible.
 
@@ -93,7 +89,7 @@ The Isle of Man
 
 Following Nazi Germany's invasion of Norway, Schwitters was amongst a number of German citizens who were interned by the Norwegian authorities at Vågan Folk High School in Kabelvåg on the Lofoten Islands,[41] Following his release, Schwitters fled to Leith, Scotland with his son and daughter-in-law on the Norwegian patrol vessel between 8 and 18 June 1940. By now officially an 'enemy alien', he was moved between various internment camps in Scotland and England before arriving on 17 July 1940 in Hutchinson Camp in the Isle of Man.[42][43]
 
-Hutchinson_Square,_Douglas,_Isle_of_Man_-_Street_on_the_South_side,_looking_West.JPG The camp was situated in a collection of terraced houses around Hutchinson Square in Douglas. The camp soon comprised some 1,205 internees by end of July 1940,[44] almost all of whom were German or Austrian. The camp was soon known as "the artist's camp", comprising as it did many artists, writers, university professors and other intellectuals.[45] In this environment, Schwitters was popular as a character, a raconteur and as an artist.
+The camp was situated in a collection of terraced houses around Hutchinson Square in Douglas. The camp soon comprised some 1,205 internees by end of July 1940,[44] almost all of whom were German or Austrian. The camp was soon known as "the artist's camp", comprising as it did many artists, writers, university professors and other intellectuals.[45] In this environment, Schwitters was popular as a character, a raconteur and as an artist.
 
 He was soon provided studio space and took on students, many of whom would later become significant artists in their own right.[46] He produced over 200 works during his internment, including more portraits than at any other time in his career, many of which he charged for.[47] He contributed at least two portraits to the second art exhibition within the camp in November 1940, and in December he contributed (in English) to the camp newsletter, _The Camp_.
 
@@ -125,7 +121,7 @@ In August 1942 he moved with his son to 39 Westmoreland Road, Barnes, London. In
 
 The Lake District
 
-ForKate.jpg Schwitters first visited the Lake District on holiday with Edith Thomas in September 1942. He moved there permanently on 26 June 1945, to 2 Gale Crescent Ambleside. However, after another stroke in February of the following year and further illness, he and Edith moved to a more easily accessible house at 4 Millans Park.
+Schwitters first visited the Lake District on holiday with Edith Thomas in September 1942. He moved there permanently on 26 June 1945, to 2 Gale Crescent Ambleside. However, after another stroke in February of the following year and further illness, he and Edith moved to a more easily accessible house at 4 Millans Park.
 
 During his time in Ambleside Schwitters created a sequence of proto-pop art pictures, such as _For Käte_, 1947, after the encouragement from his friend, Käte Steinitz. Having emigrated to the United States in 1936, Steinitz sent Schwitters letters describing life in the emerging consumer society, and wrapped the letters in pages of comics to give a flavour of the new world, which she encouraged Schwitters to ‘Merz’.[58]
 
@@ -147,8 +143,6 @@ One entire wall of the Merzbarn was removed to the Hatton Gallery in Newcastle f
 
 Influences
 
-Grave_kurt_schwitters.jpg
-
 Many artists have cited Schwitters as a major influence, including Ed Ruscha,[64] Robert Rauschenberg,[65] Damien Hirst,[66] Al Hansen,[67] and Arman.[68]
 
   "The language of Merz now finds common acceptance and today there is scarcely an artist working with materials other than paint who does not refer to Schwitters in some way. In his bold and wide-ranging experiments he can be seen as the grandfather of Pop Art, Happenings, Concept Art, Fluxus, multimedia art and post-modernism." Gwendolyn Webster[69]
@@ -168,7 +162,7 @@ Archival and forgeries
 
 Schwitters' visual work has now been completely catalogued in the Catalogue Raisonné.[72] Forgeries of collages by Schwitters turn up almost weekly on eBay. Before purchasing any work supposedly by Schwitters, it is best to consult the Kurt Schwitters Archive at the Sprengel Museum in Hanover, Germany.
 
-Kurt_Schwitters_1887-1948_Artist_lived_here.jpg at 39 Westmoreland Road, Barnes, London SW13]]
+at 39 Westmoreland Road, Barnes, London SW13]]
 
 
 Legacy

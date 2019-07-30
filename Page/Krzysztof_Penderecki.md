@@ -1,4 +1,4 @@
-Krzysztof_Penderecki_20080706.jpg, 2008 centre]]
+, 2008 ]]
 
 KRZYSZTOF EUGENIUSZ PENDERECKI (; born 23 November 1933) is a Polish composer and conductor. _The Guardian_ has called him Poland's greatest living composer.[1] Among his best known works are _Threnody to the Victims of Hiroshima_, Symphony No. 3, his _St. Luke Passion_, _Polish Requiem_, _Anaklasis_ and _Utrenja_. Penderecki composed four operas, eight symphonies and other orchestral pieces, a variety of instrumental concertos, choral settings of mainly religious texts, as well as chamber and instrumental works.
 
@@ -49,14 +49,14 @@ Penderecki has three children, a daughter from his first marriage by his pianist
 
 Legacy
 
-Popiersie_Krzysztof_Penderecki_ssj_20110627.jpg]]
+]]
 
 A main-belt asteroid – 21059 Penderecki is named in Penderecki's honor.[27]
 
 
 Works
 
-Prague_Autumn_Penderecki.JPG during the rehearsal, Rudolfinum, Prague Autumn International Music Festival, 2008]]
+during the rehearsal, Rudolfinum, Prague Autumn International Music Festival, 2008]]
 
 Penderecki's compositions include operas, symphonies, choral works, as well as chamber and instrumental music.
 

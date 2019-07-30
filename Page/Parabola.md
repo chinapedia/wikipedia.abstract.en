@@ -1,4 +1,4 @@
-In mathematics, a PARABOLA is a plane curve that is mirror-symmetrical and is approximately U-shaped. It fits several superficially different other mathematical descriptions, which can all be proved to define exactly the same curves. Parts_of_Parabola.svg
+In mathematics, a PARABOLA is a plane curve that is mirror-symmetrical and is approximately U-shaped. It fits several superficially different other mathematical descriptions, which can all be proved to define exactly the same curves.
 
 One description of a parabola involves a point (the focus) and a line (the directrix). The focus does not lie on the directrix. The parabola is the locus of points in that plane that are equidistant from both the directrix and the focus. Another description of a parabola is as a conic section, created from the intersection of a right circular conical surface and a plane which is parallel to another plane that is tangential to the conical surface.
 
@@ -6,12 +6,12 @@ The line perpendicular to the directrix and passing through the focus (that is, 
 
 Parabolas have the property that, if they are made of material that reflects light, then light which travels parallel to the axis of symmetry of a parabola and strikes its concave side is reflected to its focus, regardless of where on the parabola the reflection occurs. Conversely, light that originates from a point source at the focus is reflected into a parallel ("collimated") beam, leaving the parabola parallel to the axis of symmetry. The same effects occur with sound and other forms of energy. This reflective property is the basis of many practical uses of parabolas.
 
-The parabola has many important applications, from a parabolic antenna or parabolic microphone to automobile headlight reflectors to the design of ballistic missiles. They are frequently used in physics, engineering, and many other areas. Conic_Sections.svgs.]]
+The parabola has many important applications, from a parabolic antenna or parabolic microphone to automobile headlight reflectors to the design of ballistic missiles. They are frequently used in physics, engineering, and many other areas. s.]]
 
 
 History
 
-Leonardo_parabolic_compass.JPG]] The earliest known work on conic sections was by Menaechmus in the fourth century BC. He discovered a way to solve the problem of doubling the cube using parabolas. (The solution, however, does not meet the requirements of compass-and-straightedge construction.) The area enclosed by a parabola and a line segment, the so-called "parabola segment", was computed by Archimedes via the method of exhaustion in the third century BC, in his _The Quadrature of the Parabola_. The name "parabola" is due to Apollonius who discovered many properties of conic sections. It means "application", referring to "application of areas" concept, that has a connection with this curve, as Apollonius had proved.[1] The focus–directrix property of the parabola and other conic sections is due to Pappus.
+]] The earliest known work on conic sections was by Menaechmus in the fourth century BC. He discovered a way to solve the problem of doubling the cube using parabolas. (The solution, however, does not meet the requirements of compass-and-straightedge construction.) The area enclosed by a parabola and a line segment, the so-called "parabola segment", was computed by Archimedes via the method of exhaustion in the third century BC, in his _The Quadrature of the Parabola_. The name "parabola" is due to Apollonius who discovered many properties of conic sections. It means "application", referring to "application of areas" concept, that has a connection with this curve, as Apollonius had proved.[1] The focus–directrix property of the parabola and other conic sections is due to Pappus.
 
 Galileo showed that the path of a projectile follows a parabola, a consequence of uniform acceleration due to gravity.
 
@@ -33,7 +33,7 @@ In a cartesian coordinate system
 
 Axis of symmetry parallel to the y-axis
 
-Parabel-def-p-v.svg Parabel-py.svg Parabel-abc.svg If one introduces cartesian coordinates, such that F = (0, f) , f > 0, and the directrix has the equation y =  − f one obtains for a point P = (x, y) from |PF|² = |Pl|² the equation x² + (y − f)² = (y + f)². Solving for y yields
+If one introduces cartesian coordinates, such that F = (0, f) , f > 0, and the directrix has the equation y =  − f one obtains for a point P = (x, y) from |PF|² = |Pl|² the equation x² + (y − f)² = (y + f)². Solving for y yields
 
 $$y=\frac{1}{4f}x^2$$
 .
@@ -79,7 +79,7 @@ such that b² − 4ac = 0, or, equivalently, such that ax² + bxy 
 
 As a graph of a function
 
-Parabeln-var-s.svg The previous section shows: any parabola with the origin as vertex and the y-axis as axis of symmetry can be considered as the graph of a function
+The previous section shows: any parabola with the origin as vertex and the y-axis as axis of symmetry can be considered as the graph of a function
 
 _f_(_x_) = _a__x_² with _a_ ≠ 0
 .
@@ -113,7 +113,7 @@ $$f(x)= a\left(x+\frac{b}{2a}\right)^2 + \frac{4ac-b^2}{4a}$$
 
 Similarity to the unit parabola
 
-Parabel-scal2.svg Two objects in the Euclidean plane are _similar_ if one can be transformed to the other by a _similarity_, that is, an arbitrary composition of rigid motions (translations and rotations) and uniform scalings.
+Two objects in the Euclidean plane are _similar_ if one can be transformed to the other by a _similarity_, that is, an arbitrary composition of rigid motions (translations and rotations) and uniform scalings.
 
 A parabola 𝒫 with vertex V = (v₁, v₂) can be transformed by the translation (x, y) → (x − v₁, y − v₂) to one with the origin as vertex. A suitable rotation around the origin can then transform the parabola to one that has the -axis as axis of symmetry. Hence the parabola 𝒫 can be transformed by a rigid motion to a parabola with an equation y = ax², a ≠ 0. Such a parabola can then be transformed by the uniform scaling (x, y) → (ax, ay) into the unit parabola with equation y = x². Thus, any parabola can be mapped to the unit parabola by a similarity.[6]
 
@@ -126,7 +126,7 @@ There are other simple affine transformations that map the parabola y = ax²
 
 As a special conic section
 
-Kegelschnitt-schar-ev.svg The pencil of conic sections with the x-axis as axis of symmetry, one vertex at the origin (0,0) and the same semi-latus rectum p can be represented by the equation
+The pencil of conic sections with the x-axis as axis of symmetry, one vertex at the origin (0,0) and the same semi-latus rectum p can be represented by the equation
 
 _y_² = 2_p__x_ + (_e_² − 1)_x_²  , _e_ ≥ 0
 , with e the eccentricity.
@@ -139,7 +139,7 @@ _y_² = 2_p__x_ + (_e_² − 1)_x_²  , _e_ ≥ 0
 
 In polar coordinates
 
-Kegelschnittschar-polar-e.svg If , the parabola with equation y² = 2px (opening to the right) has the polar coordinate representation:
+If , the parabola with equation y² = 2px (opening to the right) has the polar coordinate representation:
 
 $$r = 2p \frac{\cos\varphi}{\sin^2\varphi} \text{ with } \varphi \in \left[ -\tfrac{\pi}{2} , \tfrac{\pi}{2} \right] \setminus\{0\}.$$
 
@@ -213,7 +213,7 @@ An alternative proof can be done using Dandelin spheres. It works without calcul
 
 Proof of the reflective property
 
-Parabel_2.svg The reflective property states that, if a parabola can reflect light, then light which enters it travelling parallel to the axis of symmetry is reflected toward the focus. This is derived from the wave nature of light in the paragraph "description of final diagram", which describes a diagram just above it, at the end of this article. This derivation is valid, but may not be satisfying to readers who would prefer a mathematical approach. In the following proof, the fact that every point on the parabola is equidistant from the focus and from the directrix is taken as axiomatic.
+The reflective property states that, if a parabola can reflect light, then light which enters it travelling parallel to the axis of symmetry is reflected toward the focus. This is derived from the wave nature of light in the paragraph "description of final diagram", which describes a diagram just above it, at the end of this article. This derivation is valid, but may not be satisfying to readers who would prefer a mathematical approach. In the following proof, the fact that every point on the parabola is equidistant from the focus and from the directrix is taken as axiomatic.
 
 Consider the parabola _x_²}}. Since all parabolas are similar, this simple case represents all others. The right-hand side of the diagram shows part of this parabola.
 
@@ -239,7 +239,7 @@ The above proof and the accompanying diagram show that the tangent bisects the a
 
 Intersection of a tangent and perpendicular from focus
 
-Parabola-antipodera.gif Since triangles △FBE and △CBE are congruent, is perpendicular to the tangent . Since B is on the -axis, which is the tangent to the parabola at its vertex, it follows that the point of intersection between any tangent to a parabola and the perpendicular from the focus to that tangent lies on the line that is tangential to the parabola at its vertex. See animated diagram [9] and pedal curve.
+Since triangles △FBE and △CBE are congruent, is perpendicular to the tangent . Since B is on the -axis, which is the tangent to the parabola at its vertex, it follows that the point of intersection between any tangent to a parabola and the perpendicular from the focus to that tangent lies on the line that is tangential to the parabola at its vertex. See animated diagram [9] and pedal curve.
 
 Reflection of light striking the convex side
 
@@ -247,7 +247,7 @@ If light travels along the line , it moves parallel to the axis of symmetry and 
 
 Alternative proofs
 
-Parábola_y_tangente-prueba.svg The above proofs of the reflective and tangent bisection properties use a line of calculus. For readers who are not comfortable with calculus, the following alternative is presented.
+The above proofs of the reflective and tangent bisection properties use a line of calculus. For readers who are not comfortable with calculus, the following alternative is presented.
 
 In this diagram, F is the focus of the parabola, and T and U lie on its directrix. P is an arbitrary point on the parabola. is perpendicular to the directrix, and the line bisects angle ∠FPT. Q is another point on the parabola, with perpendicular to the directrix. We know that  =  and  = . Clearly,  > , so  > . All points on the bisector are equidistant from F and T, but Q is closer to F than to T. This means that Q is to the left of , i.e., on the same side of it as the focus. The same would be true if Q were located anywhere else on the parabola (except at the point P), so the entire parabola, except the point P, is on the focus side of . Therefore, is the tangent to the parabola at P. Since it bisects the angle ∠FPT, this proves the tangent bisection property.
 
@@ -256,7 +256,7 @@ The logic of the last paragraph can be applied to modify the above proof of the 
 
 Pin and string construction
 
-Parabola-pin-string.svg The definition of a parabola by its focus and directrix can be used for drawing it with help of pins and strings [10]:
+The definition of a parabola by its focus and directrix can be used for drawing it with help of pins and strings [10]:
 
 (0) Choose the _focus_ F and the _directrix_ l of the parabola.
 (1) Take a triangle of a _set square_ and prepare a _string_ with length |AB| (see diagram).
@@ -274,7 +274,7 @@ The following properties of a parabola deal only with terms _connect, intersect,
 
 4-points-property
 
-Parabel-pk-s.svg Any parabola can be described in a suitable coordinate system by an equation y = ax².
+Any parabola can be described in a suitable coordinate system by an equation y = ax².
 
 -   Let P₁ = (x₁, y₁), P₂ = (x₂, y₂), P₃ = (x₃, y₃), P₄ = (x₄, y₄) be four points of the parabola y = ax² and Q₂ the intersection of the secant line P₁P₄ with the line x = x₂, and let Q₁ be the intersection of the secant line P₂P₃ with the line x = x₁ (see picture). Then the secant line P₃P₄ is parallel to line Q₁Q₂.
 
@@ -288,8 +288,6 @@ _Remark:_ the 4-points-property of a parabola is an affine version of the 5-poin
 
 3-points-1-tangent-property
 
-Parabel-tk-s.svg
-
 -   Let P₀ = (x₀, y₀), P₁ = (x₁, y₁), P₂ = (x₂, y₂) be three points of the parabola with equation y = ax² and Q₂ the intersection of the secant line P₀P₁ with the line x = x₂ and Q₁ the intersection of the secant line P₀P₂ with the line x = x₁ (see picture), then the tangent at point P₀ is parallel to the line Q₁Q₂.
 
     (The lines x = x₁ and x = x₂ are parallel to the axis of the parabola.)
@@ -301,8 +299,6 @@ _Application:_ The 3-points-1-tangent-property of a parabola can be used for the
 _Remark:_ The 3-points-1-tangent-property of a parabola is an affine version of the 4-point-degeneration of Pascal's theorem.
 
 2-points-2-tangents-property
-
-Parabel-tk-2-s.svg
 
 -   Let P₁ = (x₁, y₁), P₂ = (x₂, y₂) be two points of the parabola with equation y = ax² and Q₂ the intersection of the tangent at point P₁ with the line x = x₂ and Q₁ the intersection of the tangent at point P₂ with the line x = x₁ (see picture) then the secant P₁P₂ is parallel to the line Q₁Q₂.
 
@@ -317,8 +313,6 @@ _Remark 1:_ The 2-points-2-tangents-property of a parabola is an affine version 
 _Remark 2:_ The 2-points-2-tangents-property should not be confused with the following property of a parabola, which deals with 2 points and 2 tangents, too, but is _not_ related to Pascal's theorem.
 
 Axis-direction
-
-Parabel-ak-s.svg
 
 The statements above presume the knowledge of the axis-direction of the parabola, in order to construct the points Q₁, Q₂. The following property determines the points Q₁, Q₂ by two given points and their tangents only, and the result is: the line Q₁Q₂ is parallel to the axis of the parabola.
 
@@ -338,7 +332,7 @@ Steiner generation
 
 Parabola
 
-Parabel-steiner-s.svg Steiner established the following procedure for the construction of a non-degenerate conic (see Steiner conic):
+Steiner established the following procedure for the construction of a non-degenerate conic (see Steiner conic):
 
 -   Given two pencils B(U), B(V) of lines at two points U, V (all lines containing U and V respectively) and a projective but not perspective mapping π of B(U) onto B(V). Then the intersection points of corresponding lines form a non-degenerate projective conic section.
 
@@ -355,9 +349,6 @@ _Proof:_ straightforward calculation.
 _Remark:_ Steiner's generation is also available for ellipses and hyperbolas.
 
 Dual parabola
-
-Dual parabola and Bezier curve of degree 2
-(right: curve point and division points Q₀, Q₁ for parameter t = 0.4)
 
 -   A _dual parabola_ consists of the set of tangents of an ordinary parabola.
 
@@ -377,7 +368,7 @@ The _proof_ is a consequence of the _de Casteljau algorithm_ for a Bezier curve 
 
 Inscribed angles and the 3-point-form
 
-Parabel-pws-s.svg A parabola with equation y = ax² + bx + c, a ≠ 0 is uniquely determined by three points (x₁, y₁), (x₂, y₂), (x₃, y₃) with different x-coordinates. The usual procedure to determine the coefficients a, b, c is to insert the point coordinates into the equation. The result is a linear system of three equations, which can be solved by Gaussian elimination or Cramer's rule, for example. An alternative way uses the _inscribed angle theorem_ for parabolas:
+A parabola with equation y = ax² + bx + c, a ≠ 0 is uniquely determined by three points (x₁, y₁), (x₂, y₂), (x₃, y₃) with different x-coordinates. The usual procedure to determine the coefficients a, b, c is to insert the point coordinates into the equation. The result is a linear system of three equations, which can be solved by Gaussian elimination or Cramer's rule, for example. An alternative way uses the _inscribed angle theorem_ for parabolas:
 
 In the following, the angle of two lines will be measured by the difference of the slopes of the line with respect to the directrix of the parabola. That is, for a parabola of equation y = ax² + bx + c, the angle between two lines of equations y = m₁x + d₁, y = m₂x + d₂ is measured by m₁ − m₂.
 
@@ -399,7 +390,7 @@ $$(x_1-x_2){\color{red}y}=({\color{green}x}-x_1)({\color{green}x}-x_2)\left(\fra
 
 Pole-polar relation
 
-Parabel-pol-s.svg In a suitable coordinate system any parabola can be described by an equation y = ax². The equation of the tangent at a point P₀ = (x₀, y₀), y₀ = ax₀² is
+In a suitable coordinate system any parabola can be described by an equation y = ax². The equation of the tangent at a point P₀ = (x₀, y₀), y₀ = ax₀² is
 
 _y_ = 2_a__x_₀(_x_ − _x_₀) + _y_₀ = 2_a__x_₀_x_ − _a__x_₀² = 2_a__x_₀_x_ − _y_₀
 . One obtains the function
@@ -428,7 +419,7 @@ Tangent properties
 
 Two tangent properties related to the latus rectum
 
-Let the line of symmetry intersect the parabola at point Q, and denote the focus as point F and its distance from point Q as . Let the perpendicular to the line of symmetry, through the focus, intersect the parabola at a point T. Then (1) the distance from F to T is , and (2) a tangent to the parabola at point T intersects the line of symmetry at a 45° angle.[14] Parabel-orthop.svg
+Let the line of symmetry intersect the parabola at point Q, and denote the focus as point F and its distance from point Q as . Let the perpendicular to the line of symmetry, through the focus, intersect the parabola at a point T. Then (1) the distance from F to T is , and (2) a tangent to the parabola at point T intersects the line of symmetry at a 45° angle.[14]
 
 Orthoptic property
 
@@ -467,8 +458,6 @@ This formula can be compared with the area of a triangle: .
 
 In general, the enclosed area can be calculated as follows. First, locate the point on the parabola where its slope equals that of the chord. This can be done with calculus, or by using a line that is parallel with the axis of symmetry of the parabola and passes through the midpoint of the chord. The required point is where this line intersects the parabola. Then, using the formula given in the article "Distance from a point to a line", calculate the perpendicular distance from this point to the chord. Multiply this by the length of the chord to get the area of the parallelogram, then by to get the required enclosed area.
 
-Parabel-psehnen-s.svg
-
 Corollary concerning midpoints and endpoints of chords
 
 A corollary of the above discussion is that if a parabola has several parallel chords, their midpoints all lie on a line which is parallel to the axis of symmetry. If tangents to the parabola are drawn through the endpoints of any of these chords, the two tangents intersect on this same line parallel to the axis of symmetry (see Axis-direction of a parabola). at and intersect at a point whose -coordinate is the mean of and . Thus if there is a chord between these two points, the intersection point of the tangents has the same -coordinate as the midpoint of the chord.}}
@@ -498,8 +487,6 @@ This calculation can be used for a parabola in any orientation. It is not restri
 
 
 A geometrical construction to find a sector area
-
-Sector Area Prop 30
 
 S is the Focus and V is the Principal Vertex of the parabola VG. Draw VX perpendicular to SV.
 
@@ -567,7 +554,7 @@ A concave mirror which is a small segment of a sphere behaves approximately like
 
 As the affine image of the unit parabola
 
-Parabel-aff-s.svg Another definition of a parabola uses affine transformations:
+Another definition of a parabola uses affine transformations:
 
 -   Any _parabola_ is the affine image of the unit parabola with equation y = x².
 
@@ -602,8 +589,6 @@ is the _focus_ of the parabola.
 
 As quadratic Bézier curve
 
-_Bezier_quadratic_anim.gif
-
 A quadratic Bézier curve is a curve c⃗(t) defined by three points P₀ : p⃗₀, P₁ : p⃗₁ and P₂ : p⃗₂, its _control points_:
 
 $$\begin{align}
@@ -613,8 +598,6 @@ $$\begin{align}
 \end{align}$$
 
 This curve is an arc of a parabola (see ).
-
-Simpsons_method_illustration.svg
 
 
 Numerical integration
@@ -642,7 +625,7 @@ Quadric Cone.jpg|Elliptic cone Parabolic Cylinder Quadric.png|Parabolic cylinder
 
 As trisectrix
 
-Angle_trisection_with_parabola2.svg A parabola can be used as a trisectrix, that is it allows the exact trisection of an arbitrary angle with straightedge and compass. Note that this is not in contradiction to the impossibility of an angle trisection with compass-and-straightedge constructions alone, as the use of parabolas is not allowed in the classic rules for compass-and-straightedge constructions.
+A parabola can be used as a trisectrix, that is it allows the exact trisection of an arbitrary angle with straightedge and compass. Note that this is not in contradiction to the impossibility of an angle trisection with compass-and-straightedge constructions alone, as the use of parabolas is not allowed in the classic rules for compass-and-straightedge constructions.
 
 To trisect ∠AOB place its leg OB on the _x_-axis such that the vertex O is in the coordinate system's origin. The coordinate system also contains the parabola y = 2x². The unit circle with radius 1 around the origin intersects the angle's other leg OA and from this point of intersection draw the perpendicular onto the _y_-axis. The parallel to _y_-axis through the midpoint of that perpendicular and the tangent on the unit circle in (0, 1) intersect in C. The circle around C with radius OC intersects the parabola in P₁. The perpendicular from P₁ onto the _x_-axis intersects the unit circle in P₂ and ∠P₂OB is exactly one third of ∠AOB.
 

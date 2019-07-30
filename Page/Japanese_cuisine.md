@@ -1,4 +1,4 @@
-Oseti.jpg, new year special dishes]]
+, new year special dishes]]
 
 JAPANESE CUISINE encompasses the regional and traditional foods of Japan, which have developed through centuries of political, economic, and social changes. The traditional cuisine of Japan, (or ), is based on rice with miso soup and other dishes; there is an emphasis on seasonal ingredients. Side dishes often consist of fish, pickled vegetables, and vegetables cooked in broth. Seafood is common, often grilled, but also served raw as sashimi or in sushi. Seafood and vegetables are also deep-fried in a light batter, as tempura. Apart from rice, staples include noodles, such as soba and udon. Japan also has many simmered dishes such as fish products in broth called oden, or beef in sukiyaki and nikujaga.
 
@@ -9,11 +9,11 @@ In 2011, Japan overtook France to become the country with the most 3-starred Mic
 
 Overview of traditional Japanese cuisine
 
-Tempura,_sashimi,_pickles,_ris_og_misosuppe_(6289116752).jpg, sashimi, and miso soup]] Japanese cuisine is based on combining the staple food, which is steamed white rice or , with one or several _okazu_ or main dishes and side dishes. This may be accompanied by a clear or miso soup and _tsukemono_ (pickles).The phrase refers to the makeup of a typical meal served, but has roots in classic _kaiseki_, _honzen,_ and _yūsoku_ cuisine. The term is also used to describe the first course served in standard _kaiseki_ cuisine nowadays.[2]
+, sashimi, and miso soup]] Japanese cuisine is based on combining the staple food, which is steamed white rice or , with one or several _okazu_ or main dishes and side dishes. This may be accompanied by a clear or miso soup and _tsukemono_ (pickles).The phrase refers to the makeup of a typical meal served, but has roots in classic _kaiseki_, _honzen,_ and _yūsoku_ cuisine. The term is also used to describe the first course served in standard _kaiseki_ cuisine nowadays.[2]
 
 Rice is served in its own small bowl (_chawan_), and each main course item is placed on its own small plate (_sara_) or bowl (_hachi_) for each individual portion. This is done even in Japanese homes. It contrasts with the Western-style dinners at home, where each individual takes helpings from the large serving dishes of food presented at the middle of the dining table. Japanese style traditionally abhors different flavored dishes touching each other on a single plate, so different dishes are given their own individual plates as mentioned, or are partitioned using leaves, etc. Placing main dishes on top of rice and "soiling" it is also frowned upon by old-fashioned etiquette.[3]
 
-Breakfast_at_Tamahan_Ryokan,_Kyoto.jpg, featuring grilled mackerel, Kansai style _dashimaki_ egg, tofu in _kaminabe_ (paper pot)]] Though this tradition originated from Classical Chinese dining formalities, especially after the adoption of Buddhism with its tea ceremony, it became most popular and common during and after the _Kamakura period_, such as the _Kaiseki_. Japanese cuisine keeps such tradition still, whereas in modern times such practice is in sharp contrast to present day Chinese cuisine, where placing food on rice is standard. However, an exception is the popular _donburi_.
+, featuring grilled mackerel, Kansai style _dashimaki_ egg, tofu in _kaminabe_ (paper pot)]] Though this tradition originated from Classical Chinese dining formalities, especially after the adoption of Buddhism with its tea ceremony, it became most popular and common during and after the _Kamakura period_, such as the _Kaiseki_. Japanese cuisine keeps such tradition still, whereas in modern times such practice is in sharp contrast to present day Chinese cuisine, where placing food on rice is standard. However, an exception is the popular _donburi_.
 
 The small rice bowl or _chawan_ (lit. "tea bowl") doubles as a word for the large tea bowls in tea ceremonies. Thus in common speech, the drinking cup is referred to as _yunomi-jawan_ or _yunomi_ for the purpose of distinction. In the olden days, among the nobility, each course of a full-course Japanese meal would be brought on serving napkins called , which were originally platformed trays or small dining tables. In the modern age, faldstool trays or stackup-type legged trays may still be seen used in _zashiki_, i.e. tatami-mat rooms, for large banquets or at a ryokan type inn. Some restaurants might use the suffix as a more sophisticated though dated synonym to the more familiar , since the latter basically is a term for a combo meal served at a _taishū-shokudō_, akin to a diner.[4] _Teishoku_ means a meal of fixed menu, a dinner _à prix fixe_[5] served at or , which is somewhat vague (_shokudō_ can mean a diner-type restaurant or a corporate lunch hall); but e.g. writer on Japanese popular culture Ishikawa Hiroyoshi[6] defines it as fare served at , etc., a diner-like establishment.
 
@@ -31,7 +31,7 @@ In 1854, Japan started to gain new trade deals with Western countries when a new
 
 Seasonality
 
-Zensai.JPG Emphasis is placed on seasonality of food or ,[13][14] and dishes are designed to herald the arrival of the four seasons or calendar months.
+Emphasis is placed on seasonality of food or ,[13][14] and dishes are designed to herald the arrival of the four seasons or calendar months.
 
 Seasonality means taking advantage of the (e.g. bamboo shoots in spring, chestnuts in the autumn) as well as the as they come into season. Thus that arrives with the Kuroshio Current has traditionally been greatly prized.
 
@@ -46,7 +46,7 @@ A characteristic of traditional Japanese food is the sparing use of red meat, oi
 
 Meat consumption
 
-090906_yakiniku.jpg]] As Japan is an island nation surrounded by an ocean, its people have always taken advantage of the abundant seafood supply.[18] It is the opinion of some food scholars that the Japanese diet always relied mainly on "grains with vegetables or seaweeds as main, with poultry secondary, and red meat in slight amounts" even before the advent of Buddhism which placed an even stronger taboo.[19] The eating of was spoken of as taboo,[20] unclean or something to be avoided by personal choice through the Edo period.[21] The consumption of whale and terrapin meat were not forbidden under this definition. Despite this, the consumption of red meat did not completely disappear in Japan. Eating wild game—as opposed to domesticated livestock—was tolerated; in particular, trapped hare was counted using the measure word , a term normally reserved for birds.
+]] As Japan is an island nation surrounded by an ocean, its people have always taken advantage of the abundant seafood supply.[18] It is the opinion of some food scholars that the Japanese diet always relied mainly on "grains with vegetables or seaweeds as main, with poultry secondary, and red meat in slight amounts" even before the advent of Buddhism which placed an even stronger taboo.[19] The eating of was spoken of as taboo,[20] unclean or something to be avoided by personal choice through the Edo period.[21] The consumption of whale and terrapin meat were not forbidden under this definition. Despite this, the consumption of red meat did not completely disappear in Japan. Eating wild game—as opposed to domesticated livestock—was tolerated; in particular, trapped hare was counted using the measure word , a term normally reserved for birds.
 
 Vegetable consumption has dwindled while processed foods have become more prominent in Japanese households due to the rising costs of general foodstuffs.[22] Nonetheless, Kyoto vegetables, or Kyoyasai, are rising in popularity and different varieties of Kyoto vegetables are being revived.[23]
 
@@ -58,7 +58,7 @@ Also, certain homey or rustic sorts of traditional Japanese foods such as kinpir
 
 Seasonings
 
-Kikkoman_Soy_Sauce,_Front-view_jp-type_,.jpg is prevalent in Japanese cuisine]]
+is prevalent in Japanese cuisine]]
 
 Traditional Japanese food is typically seasoned with a combination of dashi, soy sauce, sake and mirin, vinegar, sugar, and salt. These are typically the only seasonings used when grilling or braising an item. A modest number of herbs and spices may be used during cooking as a hint or accent, or as a means of neutralizing fishy or gamy odors present. Examples of such spices include ginger and red pepper. This contrasts conceptually with barbecue or stew, where a blend of seasonings is used before and during cooking.
 
@@ -67,14 +67,12 @@ Once a main dish has been cooked, spices such as minced ginger and various punge
 
 Dishes
 
-Soi_yakizakana.JPG
-
 In the aforementioned stock phrase , the word has the basic meaning of "vegetable", but secondarily means any accompanying dish[28] including fish or meat. It figures in the Japanese word for appetizer, ; main dish, ; or (formal synonym for _okazu_ – considered somewhat of a housewife's term[29]).
 
 
 Salads
 
-Marlowe_(Yokosuka)_(506109544).jpg The [30] is boiled green-leaf vegetables bunched and cut to size, steeped in dashi broth,[31] eaten with dashes of soy sauce. Another item is , which could be made with wakame seaweed,[32] or be something like a made from thin toothpick slices of daikon and carrot. The so-called vinegar that is blended with the ingredient here is often [33] which is a blend of vinegar, mirin, and soy sauce. A adds katsuo dashi to this. Note sparing use of oil, compared with Western salads.
+The [30] is boiled green-leaf vegetables bunched and cut to size, steeped in dashi broth,[31] eaten with dashes of soy sauce. Another item is , which could be made with wakame seaweed,[32] or be something like a made from thin toothpick slices of daikon and carrot. The so-called vinegar that is blended with the ingredient here is often [33] which is a blend of vinegar, mirin, and soy sauce. A adds katsuo dashi to this. Note sparing use of oil, compared with Western salads.
 
 An is another group of items, describable as a sort of "tossed salad" or "dressed" (though _aemono_ also includes thin strips of squid or fish sashimi (_itozukuri_) etc. similarly prepared). One types are [34] where usually vegetables such as green beans are tossed with white or black sesame seeds ground in a suribachi mortar bowl, flavored additionally with sugar and soy sauce. adds tofu (bean curd) in the mix.[35] An _aemono_ is tossed with vinegar-white miso mix and uses _wakegi_[36] scallion and as standard.
 
@@ -86,7 +84,7 @@ Different cooking techniques are applied to each of the three _okazu_; they may 
 
 List of dishes
 
-Tempura.JPG'' battered and deep fried seafood and vegetables ]] Muroran_Yakitori.jpg'' grilled chicken]]
+'' battered and deep fried seafood and vegetables ]] '' grilled chicken]]
 
 Below are listed some of the most common dishes:
 
@@ -107,20 +105,20 @@ Classification
 
 Kaiseki
 
-Japanese_Cuisine_Kaiseki_Ryori_3.jpg _Kaiseki_, closely associated with tea ceremony (_chanoyu_), is a high form of hospitality through cuisine. The style is minimalist, extolling the aesthetics of wabi-sabi. Like the tea ceremony, appreciation of the diningware and vessels is part of the experience. In the modern standard form, the first course consists of _ichijū-sansai_ (one soup, three dishes), followed by the serving of sake accompanied by dish(es) plated on a square wooden bordered tray of sorts called . Sometimes another element called is served to complement the sake, for guests who are heavier drinkers.
+_Kaiseki_, closely associated with tea ceremony (_chanoyu_), is a high form of hospitality through cuisine. The style is minimalist, extolling the aesthetics of wabi-sabi. Like the tea ceremony, appreciation of the diningware and vessels is part of the experience. In the modern standard form, the first course consists of _ichijū-sansai_ (one soup, three dishes), followed by the serving of sake accompanied by dish(es) plated on a square wooden bordered tray of sorts called . Sometimes another element called is served to complement the sake, for guests who are heavier drinkers.
 
 The tea ceremony kaiseki(懐石) is often confounded with another , which is an outgrowth of meals served at a gathering for haiku and renga composition, which turned into a term for sumptuous sake-accompanied banquet, or .[38]
 
 Vegetarian
 
-Natto_mixed.jpg, Japanese soybean-based vegetarian food]] Strictly vegetarian food is rare since even vegetable dishes are flavored with the ubiquitous dashi stock, usually made with katsuobushi (dried skipjack tuna flakes), and are therefore pescetarian more often than carnivorous. An exception is _shōjin-ryōri_ (精進料理), vegetarian dishes developed by Buddhist monks. However, the advertised _shōjin-ryōri_ at public eating places includes some non-vegetarian elements. Regarding vegetarianism, was introduced from China by the Ōbaku sect (a sub-sect of Zen Buddhism), and which some sources still regard as part of "Japanese cuisine".[39] The sect in Japan was founded by the priest Ingen (d. 1673), and is headquartered in Uji, Kyoto. The Japanese name for the common green bean takes after this priest who allegedly introduced the New World crop via China. One aspect of the fucha-ryōri practiced at the temple is the wealth of , one example being mock-eel, made from strained tofu, with nori seaweed used expertly to mimic the black skin.[40] The secret ingredient used is grated _gobō_ (burdock) roots.[41][42]
+, Japanese soybean-based vegetarian food]] Strictly vegetarian food is rare since even vegetable dishes are flavored with the ubiquitous dashi stock, usually made with katsuobushi (dried skipjack tuna flakes), and are therefore pescetarian more often than carnivorous. An exception is _shōjin-ryōri_ (精進料理), vegetarian dishes developed by Buddhist monks. However, the advertised _shōjin-ryōri_ at public eating places includes some non-vegetarian elements. Regarding vegetarianism, was introduced from China by the Ōbaku sect (a sub-sect of Zen Buddhism), and which some sources still regard as part of "Japanese cuisine".[39] The sect in Japan was founded by the priest Ingen (d. 1673), and is headquartered in Uji, Kyoto. The Japanese name for the common green bean takes after this priest who allegedly introduced the New World crop via China. One aspect of the fucha-ryōri practiced at the temple is the wealth of , one example being mock-eel, made from strained tofu, with nori seaweed used expertly to mimic the black skin.[40] The secret ingredient used is grated _gobō_ (burdock) roots.[41][42]
 
 Dr. Masakazu Tada, Honorary Vice-President of the International Vegetarian Union for 25 years from 1960, stated that "Japan was vegetarian for a 1,000 years". Although this is not totally true, British journalist J. W. Robertson Scott reported in the 1920s that the society was 90% vegetarian. 50–60% of the population ate fish only on festive occasions, probably more because of poverty than for any other reason.
 
 
 Rice
 
-Sukiya_Jakarta_Niku_Ramen_Gyudon_Combo_1.jpg'' beef rice bowl (right) and _niku shoyu ramen_ beef noodle (left).]] Rice has been the staple food for the Japanese historically. Its fundamental importance is evident from the fact that the word for cooked rice, _gohan_ and _meshi_, also stands for a "meal".[43] While rice has a long history of cultivation in Japan, its use as a staple has not been universal. Notably, in northern areas (northern Honshū and Hokkaidō), other grain such as wheat were more common into the 19th century.
+'' beef rice bowl (right) and _niku shoyu ramen_ beef noodle (left).]] Rice has been the staple food for the Japanese historically. Its fundamental importance is evident from the fact that the word for cooked rice, _gohan_ and _meshi_, also stands for a "meal".[43] While rice has a long history of cultivation in Japan, its use as a staple has not been universal. Notably, in northern areas (northern Honshū and Hokkaidō), other grain such as wheat were more common into the 19th century.
 
 In most of Japan, rice used to be consumed for almost every meal, and although a 2007 survey showed that 70% of Japanese still eat it once or twice a day, its popularity is now declining. In the 20th century there has been a shift in dietary habits, with an increasing number of people choosing wheat based products (such as bread and noodles) over rice.[44]
 
@@ -129,7 +127,7 @@ Japanese rice is short-grained and becomes sticky when cooked. Most rice is sold
 
 Noodles
 
-Udon-M1336.jpg noodles]] Otsu_Tsuruki-soba01st3200.jpg noodles]]
+noodles]] noodles]]
 
 Japanese noodles often substitute for a rice-based meal. _Soba_ (thin, grayish-brown noodles containing buckwheat flour) and _udon_ (thick wheat noodles) are the main traditional noodles, while ramen is a modern import and now very popular. There are also other, less common noodles.
 
@@ -221,14 +219,12 @@ In Japanese tradition some dishes are strongly tied to a festival or event. Thes
 
 In some regions every 1st and 15th day of the month people eat a mixture of rice and azuki (_azuki meshi_ (小豆飯), see Sekihan).
 
-Grilled_Alaskan_Crab-Kobe_Jones.jpg
-
 
 Imported and adapted foods
 
 Japan has a long history of importing food from other countries, some of which are now part of Japan's most popular cuisine. Ramen is considered an important part to their culinary history, to the extent where in survey of 2,000 Tokyo residents, instant ramen came up many times as a product they thought was an outstanding Japanese invention.[62] Believed to have originated in China, Ramen became popular in Japan after the Second Sino-Japanese war (1937–1945), when many Chinese students were displaced to Japan.[63]
 
-Curry_rice_by_Hyougushi_in_Kyoto.jpg is so widely consumed that it can be called a national dish.[64]]] Curry is another popular imported dish and is ranked near the top of nearly all Japanese surveys for favorite foods. The average Japanese eats curry at least once a week.[65] The origins of curry, as well many other foreign imports such as _pan_ or bread are linked to the emergence of _Yōshoku_, or western cuisine. _Yōshoku_ can be traced as far back as the late Muromachi period (1336–1573) during a culinary revolution called _namban ryori_ (南蛮料理), which means “Southern barbarian cooking”, as it is rooted in European cuisine.[66] This cuisine style was first seen in Nagasaki, which served as the point of contact between Europe and Japan at that point in time. Food items such as potatoes, corn, dairy products, as well as the hard candy _kompeito_ (金平糖), spread during this time.[67] This cuisine became popular in the Meiji period, which is considered by many historians to be when Japan first opened itself to the outside world. Today, many of these imported items still hold a heavy presence in Japan.
+is so widely consumed that it can be called a national dish.[64]]] Curry is another popular imported dish and is ranked near the top of nearly all Japanese surveys for favorite foods. The average Japanese eats curry at least once a week.[65] The origins of curry, as well many other foreign imports such as _pan_ or bread are linked to the emergence of _Yōshoku_, or western cuisine. _Yōshoku_ can be traced as far back as the late Muromachi period (1336–1573) during a culinary revolution called _namban ryori_ (南蛮料理), which means “Southern barbarian cooking”, as it is rooted in European cuisine.[66] This cuisine style was first seen in Nagasaki, which served as the point of contact between Europe and Japan at that point in time. Food items such as potatoes, corn, dairy products, as well as the hard candy _kompeito_ (金平糖), spread during this time.[67] This cuisine became popular in the Meiji period, which is considered by many historians to be when Japan first opened itself to the outside world. Today, many of these imported items still hold a heavy presence in Japan.
 
 -   Foods imported from Portugal in the 16th century
 -   Other adapted cuisines in Japan
@@ -241,11 +237,11 @@ Many _yōshoku_ items from that time have been adapted to a degree that they are
 
 Okonomiyaki
 
-Okonomiyaki_-_shrimp_and_cheese_okonomiyaki.jpg]] Okonomiyaki is a savoury pancake containing a variety of ingredients.
+]] Okonomiyaki is a savoury pancake containing a variety of ingredients.
 
 Tonkatsu
 
-Tonkatsu_by_ayustety_in_Tokyo.jpg'' pork cutlet]] Tonkatsu is a breaded, deep-fried pork cutlet.
+'' pork cutlet]] Tonkatsu is a breaded, deep-fried pork cutlet.
 
 Curry
 
@@ -253,7 +249,7 @@ Curry was introduced to Japan by the British in the Meiji period. Japanese versi
 
 Ramen
 
-Soy_ramen.jpg noodles]] Chinese-style wheat noodles served in a meat stock broth known as ramen have become extremely popular over the last century.[69]
+noodles]] Chinese-style wheat noodles served in a meat stock broth known as ramen have become extremely popular over the last century.[69]
 
 Wafū burgers (Japanese Styled-Burgers)
 
@@ -266,7 +262,7 @@ High-class Japanese chefs have preserved many Italian seafood dishes that are fo
 
 Outside Japan
 
-California_Rolls.JPG, a fusion makizushi created outside of Japan.]] Many countries have imported portions of Japanese cuisine. Some may adhere to the traditional preparations of the cuisines, but in some cultures the dishes have been adapted to fit the palate of the local populace. In 1970s sushi travelled from Japan to Canada and the United States, it was modified to suit the American palate, and re-entered the Japanese market as "American Sushi".[71] An example of this phenomenon is the California roll, which was created in North America in the 1970s, rose in popularity across the United States through the 1980s, and thus sparked Japanese food's – more precisely, sushi's – global popularity.
+, a fusion makizushi created outside of Japan.]] Many countries have imported portions of Japanese cuisine. Some may adhere to the traditional preparations of the cuisines, but in some cultures the dishes have been adapted to fit the palate of the local populace. In 1970s sushi travelled from Japan to Canada and the United States, it was modified to suit the American palate, and re-entered the Japanese market as "American Sushi".[71] An example of this phenomenon is the California roll, which was created in North America in the 1970s, rose in popularity across the United States through the 1980s, and thus sparked Japanese food's – more precisely, sushi's – global popularity.
 
 In 2014, Japanese Restaurant Organization has selected potential countries where Japanese food is becoming increasingly popular, and conducted research concerning the Japanese restaurants abroad. These key nations or region are Taiwan, Hong Kong, China, Singapore, Thailand and Indonesia.[72] This was meant as an effort to promote Japanese cuisine and to expand the market of Japanese ingredients, products and foodstuffs. Numbers of Japanese foodstuff and seasoning brands such as Ajinomoto, Kikkoman, Nissin and Kewpie mayonnaise, are establishing production base in other Asian countries, such as China, Thailand and Indonesia.
 
@@ -284,11 +280,11 @@ In Southeast Asia, Thailand is the largest market for Japanese food. This is par
 
 Indonesia
 
-Chicken_Teriyaki_Bento_Ichiban_Sushi.jpg bento set,[75] including salmon sashimi, gyoza, salad and miso soup, served in a Japanese restaurant in Jakarta.]] In the ASEAN region, Indonesia is the second largest market for Japanese food, after Thailand. Japanese cuisine has been increasingly popular as the growth of the Indonesian middle-class expecting higher quality foods.[76] This is also contributed to the fact that Indonesia has large numbers of Japanese expatriates. The main concern is the halal issue. As a Muslim majority country, Indonesians expected that Japanese food served there are halal according to Islamic dietary law, which means no pork and alcohol allowed. Japanese restaurants in Indonesia often offer a set menu which include rice served with an array of Japanese favourites in a single setting. A set menu might include a choice of yakiniku or sukiyaki, including a sample of sushi, tempura, gyoza and miso soup. Quite authentic Japanese style izakaya and ramen shops can be found in Little Tokyo (Melawai) area in Blok M, South Jakarta, serving both Japanese expats and local clienteles.[77] Today, Japanese restaurants can be found in most of Indonesian major cities, with high concentration in Greater Jakarta area, Bandung, Surabaya and Bali.
+bento set,[75] including salmon sashimi, gyoza, salad and miso soup, served in a Japanese restaurant in Jakarta.]] In the ASEAN region, Indonesia is the second largest market for Japanese food, after Thailand. Japanese cuisine has been increasingly popular as the growth of the Indonesian middle-class expecting higher quality foods.[76] This is also contributed to the fact that Indonesia has large numbers of Japanese expatriates. The main concern is the halal issue. As a Muslim majority country, Indonesians expected that Japanese food served there are halal according to Islamic dietary law, which means no pork and alcohol allowed. Japanese restaurants in Indonesia often offer a set menu which include rice served with an array of Japanese favourites in a single setting. A set menu might include a choice of yakiniku or sukiyaki, including a sample of sushi, tempura, gyoza and miso soup. Quite authentic Japanese style izakaya and ramen shops can be found in Little Tokyo (Melawai) area in Blok M, South Jakarta, serving both Japanese expats and local clienteles.[77] Today, Japanese restaurants can be found in most of Indonesian major cities, with high concentration in Greater Jakarta area, Bandung, Surabaya and Bali.
 
 In some cases, Japanese cuisine in Indonesia is often slanted to suit Indonesian taste. Hoka Hoka Bento in particular is an Indonesian-owned Japanese fast food restaurant chain that cater to the Indonesian clientele. As a result the foods served there have been adapted to suit Indonesians' taste. Examples of the change include stronger flavours compared to the authentic subtle Japanese taste, the preference for fried food, as well as the addition of sambal to cater to the Indonesians' preference for hot and spicy food.
 
-Asian_Games_2018_GBK_Jakarta_Okonomiyaki_Takoyaki.jpg and takoyaki served in a festival of 2018 Asian Games in Jakarta]]
+and takoyaki served in a festival of 2018 Asian Games in Jakarta]]
 
 Japanese food popularity also had penetrated street food culture, as modest _Warjep_ or _Warung Jepang_ (Japanese food stall) offer Japanese food such as tempura, okonomiyaki and takoyaki, at very moderately low prices.[78] Today, okonomiyaki and takoyaki are popular street fare in Jakarta and other Indonesian cities.[79][80] This is also pushed further by the Japanese convenience stores operating in Indonesia, such as 7-Eleven and Lawson offering Japanese favourites such as oden, chicken katsu (deep-fried chicken cutlet), chicken teriyaki and onigiri.[81]
 
@@ -306,7 +302,7 @@ Sushi in particular has been described as being "as popular as sandwiches", part
 
 United Kingdom
 
-Kokoro_Sushi_restaurant,_Sutton_High_Street,_Sutton,_Surrey,_Greater_London.JPG, Sutton, Greater London]] Japanese food restaurant chains in the UK include Wagamama, YO! Sushi, Nudo Sushi Box, Wasabi and Kokoro.
+, Sutton, Greater London]] Japanese food restaurant chains in the UK include Wagamama, YO! Sushi, Nudo Sushi Box, Wasabi and Kokoro.
 
 Canada
 
@@ -336,7 +332,7 @@ In February 2012, the Agency for Cultural Affairs recommended that 'Washoku: Tra
 
 Food controversies
 
-Blue_whale_meat_sashimi_and_sea_urchin_sushi.JPG sashimi, one of the most controversial Japanese dishes]] Japanese obsession with fresh food — which manifested in certain aspect of Japanese cuisine traditions of eating live seafood, which includes Ikizukuri and Odori ebi, has gained criticism — condemned as a form of animal cruelty.[106]
+sashimi, one of the most controversial Japanese dishes]] Japanese obsession with fresh food — which manifested in certain aspect of Japanese cuisine traditions of eating live seafood, which includes Ikizukuri and Odori ebi, has gained criticism — condemned as a form of animal cruelty.[106]
 
 Japanese cuisine is heavily dependent on seafood products. Compared to other developed countries, the Japanese eat more fish than any of them, consuming about 27 kilograms of seafood per capita annually. An aspect of environmental concern is Japanese appetite for seafood, which might lead to depletion of natural ocean resources through overfishing. For example, Japan consumes 80% of the global supply of blue fin tuna, a popularly sought sushi and sashimi ingredient, which might lead to its extinction due to commercial overfishing.[107] Another environmental concern is commercial whaling and the consumption of whale meat, since Japan is the world's largest market for whale meat.[108][109]
 

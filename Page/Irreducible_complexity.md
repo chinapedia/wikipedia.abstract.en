@@ -70,7 +70,7 @@ After James Watson and Francis Crick published the structure of DNA in the early
 
 Origins
 
-Darwinsblackbox.jpg's controversial book _Darwin's Black Box_ popularized the concept of irreducible complexity.]]
+'s controversial book _Darwin's Black Box_ popularized the concept of irreducible complexity.]]
 
 Michael Behe developed his ideas on the concept around 1992, in the early days of the 'wedge movement', and first presented his ideas about "irreducible complexity" in June 1993 when the "Johnson-Behe cadre of scholars" met at Pajaro Dunes in California.[49] He set out his ideas in the second edition of _Of Pandas and People_ published in 1993, extensively revising Chapter 6 _Biochemical Similarities_ with new sections on the complex mechanism of blood clotting and on the origin of proteins.[50]
 
@@ -86,7 +86,7 @@ According to the theory of evolution, genetic variations occur without specific 
 
 The mousetrap example
 
-Mausefalle_300px.jpg believes that many aspects of life show evidence of design, using the mousetrap in an analogy disputed by others.[55]]]
+believes that many aspects of life show evidence of design, using the mousetrap in an analogy disputed by others.[55]]]
 
 Behe uses the mousetrap as an illustrative example of this concept. A mousetrap consists of five interacting pieces: the base, the catch, the spring, the hammer, and the hold-down bar. All of these must be in place for the mousetrap to work, as the removal of any one piece destroys the function of the mousetrap. Likewise, he asserts that biological systems require multiple parts working together in order to function. Intelligent design advocates claim that natural selection could not create from scratch those systems for which science is currently unable to find a viable evolutionary pathway of successive, slight modifications, because the selectable function is only present when all parts are assembled.
 
@@ -132,12 +132,11 @@ The "improbability argument" also misrepresents natural selection. It is correct
 
 Eye
 
-Stages_in_the_evolution_of_the_eye.png
 (d) The complex lensed eye of the marine snail and the octopus]] The eye is an example of a supposedly irreducibly complex structure, due to its many elaborate and interlocking parts, seemingly all dependent upon one another. It is frequently cited by intelligent design and creationism advocates as an example of irreducible complexity. Behe used the "development of the eye problem" as evidence for intelligent design in _Darwin's Black Box_. Although Behe acknowledged that the evolution of the larger anatomical features of the eye have been well-explained, he pointed out that the complexity of the minute biochemical reactions required at a molecular level for light sensitivity still defies explanation. Creationist Jonathan Sarfati has described the eye as evolutionary biologists' "greatest challenge as an example of superb 'irreducible complexity' in God's creation", specifically pointing to the supposed "vast complexity" required for transparency.[68]
 
 In an often misquoted[69] passage from _On the Origin of Species_, Charles Darwin appears to acknowledge the eye's development as a difficulty for his theory. However, the quote in context shows that Darwin actually had a very good understanding of the evolution of the eye (see fallacy of quoting out of context). He notes that "to suppose that the eye ... could have been formed by natural selection, seems, I freely confess, absurd in the highest possible degree". Yet this observation was merely a rhetorical device for Darwin. He goes on to explain that if gradual evolution of the eye could be shown to be possible, "the difficulty of believing that a perfect and complex eye could be formed by natural selection ... can hardly be considered real". He then proceeded to roughly map out a likely course for evolution using examples of gradually more complex eyes of various species.[70]
 
-Evolution_eye.svg (right) developed independently: vertebrates evolved an inverted retina with a blind spot over their optic disc, whereas octopuses avoided this with a non-inverted retina.]]
+(right) developed independently: vertebrates evolved an inverted retina with a blind spot over their optic disc, whereas octopuses avoided this with a non-inverted retina.]]
 
 Since Darwin's day, the eye's ancestry has become much better understood. Although learning about the construction of ancient eyes through fossil evidence is problematic due to the soft tissues leaving no imprint or remains, genetic and comparative anatomical evidence has increasingly supported the idea of a common ancestry for all eyes.[71][72][73]
 

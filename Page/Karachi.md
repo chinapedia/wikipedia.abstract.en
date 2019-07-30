@@ -16,7 +16,7 @@ History
 
 Early history
 
-Chowkandi_Tombs-17.jpg are located east of Karachi.]] Late Palaeolithic and Mesolithic sites discovered by a team from Karachi University on the Mulri Hills constitute one of the most important archaeological discoveries made in Sindh during the last 50 years. The earliest inhabitants of the Karachi region are believed to have been hunter-gatherers, with ancient flint tools discovered at several sites. A sea port called Barbarikon by the Greeks was situated in Karachi.
+are located east of Karachi.]] Late Palaeolithic and Mesolithic sites discovered by a team from Karachi University on the Mulri Hills constitute one of the most important archaeological discoveries made in Sindh during the last 50 years. The earliest inhabitants of the Karachi region are believed to have been hunter-gatherers, with ancient flint tools discovered at several sites. A sea port called Barbarikon by the Greeks was situated in Karachi.
 
 The Karachi region is believed to have been known to the ancient Greeks. The region may be the site of Krokola, where Alexander the Great once camped to prepare a fleet for Babylonia, as well as Morontobara which may possibly be Karachi's Manora neighbourhood.
 
@@ -30,7 +30,7 @@ Karachi was founded in 1729 as the settlement of _Kolachi_ under the rule of the
 
 British Raj
 
-Frere_Hall_Karachi._Pakistan.jpg, date from the British Raj.]] KMC_Headoffice_day_view.JPG.]] Old_building_of_State_Bank_of_Pakistan,_Now_its_known_as_State_Bank_Museum.jpg The British East India Company captured Karachi on 3 February 1839 after opened fire and quickly destroyed the local mud fort at Manora.[41] The town was annexed to British India in 1843. Later a large part Sindh region was captured by Major General Charles James Napier after the victory in the Battle of Miani, and the city was declared capital of the newly formed Sindh province.
+, date from the British Raj.]] .]] The British East India Company captured Karachi on 3 February 1839 after opened fire and quickly destroyed the local mud fort at Manora.[41] The town was annexed to British India in 1843. Later a large part Sindh region was captured by Major General Charles James Napier after the victory in the Battle of Miani, and the city was declared capital of the newly formed Sindh province.
 
 The city was recognized for its strategic importance, prompting the British to establish the Port of Karachi in 1854. Karachi rapidly became a transportation hub for British India owing to newly built port and rail infrastructure, as well as the increase in agricultural exports from the opening of productive tracts of newly irrigated land in Punjab and interior Sindh.[42] The British also developed the Karachi Cantonment as a military garrison in order to aid the British war effort in the First Anglo-Afghan War.[43]
 
@@ -53,7 +53,7 @@ In the late 1980s and early 1990s, Karachi was rocked by political conflict, whi
 
 Geography
 
-Karachi_ali_2010008_lrg.jpg Karachi is located on the coastline of Sindh province in southern Pakistan, along a natural harbour on the Arabian Sea. Karachi is built on a coastal plains with scattered rocky outcroppings, hills and coastal marshlands. Coastal mangrove forests grow in the brackish waters around the Karachi Harbour, and farther southeast towards the expansive Indus River Delta. West of Karachi city is the Cape Monze, locally known as Ras Muari, which is an area characterised by sea cliffs, rocky sandstone promontories and undeveloped beaches.
+Karachi is located on the coastline of Sindh province in southern Pakistan, along a natural harbour on the Arabian Sea. Karachi is built on a coastal plains with scattered rocky outcroppings, hills and coastal marshlands. Coastal mangrove forests grow in the brackish waters around the Karachi Harbour, and farther southeast towards the expansive Indus River Delta. West of Karachi city is the Cape Monze, locally known as Ras Muari, which is an area characterised by sea cliffs, rocky sandstone promontories and undeveloped beaches.
 
 Within the city of Karachi are two small ranges: the Khasa Hills and Mulri Hills, which lie in the northwest and act as a barrier between North Nazimabad Town and Orangi Town.[63] Karachi's hills are barren and are part of the larger Kirthar Range, and have a maximum elevation of .
 
@@ -61,7 +61,7 @@ Between the hills are wide coastal plains interspersed with dry river beds and w
 
 Climate
 
-Karachi_beach_panorama.jpg province.]] Karachi has an arid climate (Köppen: _BWh_) dominated by a long "Summer Season" while moderated by oceanic influence from the Arabian Sea. The city has low annual average precipitation levels (approx. per annum), the bulk of which occurs during the July–August monsoon season. While the summers are hot and humid, cool sea breezes typically provide relief during hot summer months, though Karachi is prone to deadly heat waves,[65] though a text-message based early warning system is now in place that helped prevent any fatalities during an unusually strong heatwave in October 2017.[66] The winter climate is dry and lasts between December and February. It is dry and pleasant relative to the warm hot season, which starts in March and lasts until monsoons arrive in June. Proximity to the sea maintains humidity levels at near-constant levels year-round.
+province.]] Karachi has an arid climate (Köppen: _BWh_) dominated by a long "Summer Season" while moderated by oceanic influence from the Arabian Sea. The city has low annual average precipitation levels (approx. per annum), the bulk of which occurs during the July–August monsoon season. While the summers are hot and humid, cool sea breezes typically provide relief during hot summer months, though Karachi is prone to deadly heat waves,[65] though a text-message based early warning system is now in place that helped prevent any fatalities during an unusually strong heatwave in October 2017.[66] The winter climate is dry and lasts between December and February. It is dry and pleasant relative to the warm hot season, which starts in March and lasts until monsoons arrive in June. Proximity to the sea maintains humidity levels at near-constant levels year-round.
 
 The city's highest monthly rainfall, , occurred in July 1967.[67] The city's highest rainfall in 24 hours occurred on 7 August 1953, when about of rain lashed the city, resulting in major flooding.[68] Karachi's highest recorded temperature is which was recorded on 9 May 1938,[69] and the lowest is recorded on 21 January 1934.[70]
 
@@ -75,16 +75,14 @@ There can be shortages of Drinking water, Tap water. And water for sanitary reas
 
 Cityscape
 
-Karachi_Chamber_of_Commerce.jpg
-
 The city first developed around the Karachi Harbour, and owes much of its growth to its role as a seaport at the end of the 18th century,[71] contrasted with Pakistan's millennia-old cities such as Lahore, Multan, and Peshawar. Karachi's Mithadar neighbourhood represents the extent of _Kolachi_ prior to British rule.
 
-British Karachi was divided between the "New Town" and the "Old Town," with British investments focused primarily in the New Town.[72] The Old Town was a largely unplanned neighbourhood which housed most of the city's indigenous residents, and had no access to sewerage systems, electricity, and water.[73] The New Town was subdivided into residential, commercial, and military areas.[74] Given the strategic value of the city, the British developed the Karachi Cantonment as a military garrison in the New Town to aid the British war effort in the First Anglo-Afghan War.[75] Clifton_Beach,_Karachi_-_Pakistan.jpg The city's development was largely confined to the area north of the Chinna Creek prior to independence, although the seaside area of Clifton was also developed as a posh locale under the British, and its large bungalows and estates remain some of the city's most desirable properties. The aforementioned historic areas form the oldest portions of Karachi, and contain its most important monuments and government buildings, with the I. I. Chundrigar Road being home to most of Pakistan's banks, including the Habib Bank Plaza which was Pakistan's tallest building from 1963 until the early 2000s.[76] Karachi_after_rain-20160629.jpg Situated on a coastal plain northwest of Karachi's historic core lies the sprawling district of Orangi Town. North of the historic core is the largely middle-class district of Nazimabad, and upper-middle class North Nazimabad, which were developed in the 1950s. To the east of the historic core is the area known as Defence – an expansive upscale suburb developed and administered by the Pakistan Army. Karachi's coastal plains along the Arabian Sea south of Clifton were also developed much later as part of the greater Defence Housing Authority project. KarachiSkyline-View_from_Hill_Park-Panorama.jpg Karachi's city limits also include several islands, including Baba and Bhit Islands, Oyster Rocks, and Manora, a former island which is now connected to the mainland by a thin 12-kilometre long shoal known as Sandspit. The city has been described as one divided into sections for those able to afford to live in planned localities with access to urban amenities, and those who live in unplanned communities with inadequate access to such services.[77] Up to 60% of Karachi's residents live in such unplanned communities.[78]
+British Karachi was divided between the "New Town" and the "Old Town," with British investments focused primarily in the New Town.[72] The Old Town was a largely unplanned neighbourhood which housed most of the city's indigenous residents, and had no access to sewerage systems, electricity, and water.[73] The New Town was subdivided into residential, commercial, and military areas.[74] Given the strategic value of the city, the British developed the Karachi Cantonment as a military garrison in the New Town to aid the British war effort in the First Anglo-Afghan War.[75] The city's development was largely confined to the area north of the Chinna Creek prior to independence, although the seaside area of Clifton was also developed as a posh locale under the British, and its large bungalows and estates remain some of the city's most desirable properties. The aforementioned historic areas form the oldest portions of Karachi, and contain its most important monuments and government buildings, with the I. I. Chundrigar Road being home to most of Pakistan's banks, including the Habib Bank Plaza which was Pakistan's tallest building from 1963 until the early 2000s.[76] Situated on a coastal plain northwest of Karachi's historic core lies the sprawling district of Orangi Town. North of the historic core is the largely middle-class district of Nazimabad, and upper-middle class North Nazimabad, which were developed in the 1950s. To the east of the historic core is the area known as Defence – an expansive upscale suburb developed and administered by the Pakistan Army. Karachi's coastal plains along the Arabian Sea south of Clifton were also developed much later as part of the greater Defence Housing Authority project. Karachi's city limits also include several islands, including Baba and Bhit Islands, Oyster Rocks, and Manora, a former island which is now connected to the mainland by a thin 12-kilometre long shoal known as Sandspit. The city has been described as one divided into sections for those able to afford to live in planned localities with access to urban amenities, and those who live in unplanned communities with inadequate access to such services.[77] Up to 60% of Karachi's residents live in such unplanned communities.[78]
 
 
 Economy
 
-IICROAD.jpg Empress_Market,_Karachi.jpg is located in Saddar.]] Katrak_Bandstand_(Jehangir_Kothari_Parade)_Karachi.jpg Karachi is Pakistan's financial and commercial capital.[79] Since Pakistan's independence, Karachi has been the centre of the nation's economy, and remain's Pakistan's largest urban economy despite the economic stagnation caused by sociopolitical unrest during the late 1980s and 1990s. The city forms the centre of an economic corridor stretching from Karachi to nearby Hyderabad, and Thatta.[80]
+is located in Saddar.]] Karachi is Pakistan's financial and commercial capital.[79] Since Pakistan's independence, Karachi has been the centre of the nation's economy, and remain's Pakistan's largest urban economy despite the economic stagnation caused by sociopolitical unrest during the late 1980s and 1990s. The city forms the centre of an economic corridor stretching from Karachi to nearby Hyderabad, and Thatta.[80]
 
 With an estimated GDP of $113 billion ,[81] Karachi contributes the bulk of Sindh's gross domestic product.[82][83][84][85] and accounts for approximately 20% of the total GDP of Pakistan.[86][87] The city has a large informal economy which is not typically reflected in GDP estimates.[88] The informal economy may constitute up to 36% of Pakistan's total economy, versus 22% of India's economy, and 13% of the Chinese economy.[89] The informal sector employs up to 70% of the city's workforce.[90] In 2018 The Global Metro Monitor Report ranked Karachi's economy as the best performing metropolitan economy in Pakistan.[91]
 
@@ -100,7 +98,7 @@ Karachi has been the pioneer in cable networking in Pakistan with the most sophi
 
 Industry
 
-Movenpick_Karachi.jpg Industry contributes a large portion of Karachi's economy, with the city home to several of Pakistan's largest companies dealing in textiles, cement, steel, heavy machinery, chemicals, and food products.[100] The city is home to approximately 30 percent of Pakistan's manufacturing sector,[101] and produces approximately 42 percent of Pakistan's value added in large scale manufacturing.[102] At least 4500 industrial units form Karachi's formal industrial economy.[103] Karachi's informal manufacturing sector employs far more people than the formal sector, though proxy data suggest that the capital employed and value added from such informal enterprises is far smaller than that offormal sector enterprises.[104] An estimated 63% of the Karachi's workforce is employed in trade and manufacturing.[105]
+Industry contributes a large portion of Karachi's economy, with the city home to several of Pakistan's largest companies dealing in textiles, cement, steel, heavy machinery, chemicals, and food products.[100] The city is home to approximately 30 percent of Pakistan's manufacturing sector,[101] and produces approximately 42 percent of Pakistan's value added in large scale manufacturing.[102] At least 4500 industrial units form Karachi's formal industrial economy.[103] Karachi's informal manufacturing sector employs far more people than the formal sector, though proxy data suggest that the capital employed and value added from such informal enterprises is far smaller than that offormal sector enterprises.[104] An estimated 63% of the Karachi's workforce is employed in trade and manufacturing.[105]
 
 Karachi Export Processing Zone, SITE, Korangi, Northern Bypass Industrial Zone, Bin Qasim and North Karachi serve as large industrial estates in Karachi.[106] The Karachi Expo Centre also complements Karachi's industrial economy by hosting regional and international exhibitions.[107]
 
@@ -132,7 +130,7 @@ Karachi is the most linguistically, ethnically, and religiously diverse city in 
 
 Population
 
-Karachi_rising_skyline.jpg At the end of the 19th century, Karachi had an estimated population of 105,000.[129] By the dawn of Pakistan's independence in 1947, the city had an estimated population of 400,000.[130] The city's population grew dramatically with the arrival of hundreds of thousands of Muslim refugees from the newly independent Republic of India.[131] Rapid economic growth following independence attracted further migrants from throughout Pakistan and South Asia.[132] The 2017 census numerated Karachi's population to be 14,910,352, having grown 2.49% per year since the 1998 census, which had listed Karachi's population at approximately 9.3 million.[133]
+At the end of the 19th century, Karachi had an estimated population of 105,000.[129] By the dawn of Pakistan's independence in 1947, the city had an estimated population of 400,000.[130] The city's population grew dramatically with the arrival of hundreds of thousands of Muslim refugees from the newly independent Republic of India.[131] Rapid economic growth following independence attracted further migrants from throughout Pakistan and South Asia.[132] The 2017 census numerated Karachi's population to be 14,910,352, having grown 2.49% per year since the 1998 census, which had listed Karachi's population at approximately 9.3 million.[133]
 
 Lower than expected population figures from the census suggest that Karachi's poor infrastructure, law and order situation, and weakened economy relative to other parts of Pakistan made the city less attractive to in-migration than previously thought.[134] The figure is disputed by all the major political parties in Sindh.[135][136][137] Karachi's population grew by 59.8% since the 1998 census to 14.9 million, while Lahore city grew 75.3%[138] – though Karachi's census district had not been altered by the provincial government since 1998, while Lahore's had been expanded by Punjab's government,[139] leading to some of Karachi's growth to have occurred outside the city's census boundaries.[140] Karachi's population had grown at a rate of 3.49% between the 1981 and 1998 census, leading many analysts to estimate Karachi's 2017 population to be approximately 18 million by extrapolating a continued annual growth rate of 3.49%. Some had expected that the city's population to be between 22 and 30 million,[141] which would require an annual growth rate accelerating to between 4.6% and 6.33%.[142]
 
@@ -160,7 +158,7 @@ During World War II, about 3,000 Polish refugees from the Soviet Union, with som
 
 Religion
 
-Inside_the_Shahs_Shrine.jpg, an 8th-century Sufi mystic, is considered to be the patron saint of Karachi.[194] ]] Karachi_St._Patricks_Cathedral-2.jpg serves as the seat of the Archdiocese of Karachi.]] Karachi_Mandir.jpg is the largest Hindu temple in Karachi.]] Karachi is one of Pakistan's most religiously diverse cities.[195] _Karachiites_ adhere to numerous sects and sub-sects of Islam, as well as Protestant Christianity, and community of Goan Catholics. The city also is home to large numbers of Hindus, and a small community of Zoroastrians.
+, an 8th-century Sufi mystic, is considered to be the patron saint of Karachi.[194] ]] serves as the seat of the Archdiocese of Karachi.]] is the largest Hindu temple in Karachi.]] Karachi is one of Pakistan's most religiously diverse cities.[195] _Karachiites_ adhere to numerous sects and sub-sects of Islam, as well as Protestant Christianity, and community of Goan Catholics. The city also is home to large numbers of Hindus, and a small community of Zoroastrians.
 
 Prior to Pakistan's independence in 1947, the population of the city was estimated to be 50% Muslim, 40% Hindu, with the remaining 10% primarily Christians (both British and native), with a small numbers of Jews. Following the independence of Pakistan, much of Karachi's Sindhi Hindu population left for India while Muslim refugees from India in turn settled in the city. The city continued to attract migrants from throughout Pakistan, who were overwhelmingly Muslim, and city's population nearly doubled again in the 1950s.[196] As a result of continued migration, over 96.5% of the city currently is estimated to be Muslim.[197]
 
@@ -206,17 +204,17 @@ Within the city of Karachi, the Lyari Expressway is a controlled-access highway 
 
 Rail
 
-Karachi_cantt._station_facade.JPG is one of the city's primary transport hubs.]] Karachi is linked by rail to the rest of the country by Pakistan Railways. The Karachi City Station and Karachi Cantonment Railway Station are the city's two major railway stations.[222] The city has an international rail link, the Thar Express which links Karachi Cantonment Station with Bhagat Ki Kothi station in Jodhpur, India.[223]
+is one of the city's primary transport hubs.]] Karachi is linked by rail to the rest of the country by Pakistan Railways. The Karachi City Station and Karachi Cantonment Railway Station are the city's two major railway stations.[222] The city has an international rail link, the Thar Express which links Karachi Cantonment Station with Bhagat Ki Kothi station in Jodhpur, India.[223]
 
 The railway system also handles freight linking Karachi port to destinations up-country in northern Pakistan.[224] The city is the terminus for the Main Line-1 Railway which connects Karachi to Peshawar. Pakistan's rail network, including the Main Line-1 Railway is being upgraded as part of the China Pakistan Economic Corridor, allowing trains to depart Karachi and travel on Pakistani railways at an average speed of versus the average speed currently possible on existing track.[225]
 
 Public transport
 
-Karachi_Circular_Railway_map.png route.]] Karachi's public transport infrastructure is inadequate and constrained by low levels of investment.[226] Karachi is not currently served by any municipal public transit, and is instead serviced primarily by the private and informal sector.[227]
+route.]] Karachi's public transport infrastructure is inadequate and constrained by low levels of investment.[226] Karachi is not currently served by any municipal public transit, and is instead serviced primarily by the private and informal sector.[227]
 
 Metrobus
 
-The Pakistani Government is developing the Karachi Metrobus project, which is a multi-line bus rapid transit system currently under construction. The Metrobus project was inaugurated by then-Prime Minister Nawaz Sharif on 25 February 2016. Sharif stated that the "project will be more beautiful than Lahore Metro Bus."[228] The projects initial launch date was February 2017, but due to the slow pace of work, it is not yet operational. Karachi_Airport_Asuspine.jpg is the largest and busiest airport in Pakistan.]]
+The Pakistani Government is developing the Karachi Metrobus project, which is a multi-line bus rapid transit system currently under construction. The Metrobus project was inaugurated by then-Prime Minister Nawaz Sharif on 25 February 2016. Sharif stated that the "project will be more beautiful than Lahore Metro Bus."[228] The projects initial launch date was February 2017, but due to the slow pace of work, it is not yet operational. is the largest and busiest airport in Pakistan.]]
 
 Karachi Circular Railway
 
@@ -224,7 +222,7 @@ Karachi was once served by numerous trams and the Karachi Circular Railway, alth
 
 Air
 
-Karachi's Jinnah International Airport is the busiest airport of Pakistan with a total of 6.2 million passengers in 2015.[230] The current terminal structure was built in 1992, and is divided into international and domestic sections. Karachi's airport serves as a hub for the flag carrier, Pakistan International Airlines (PIA), as well as for Air Indus, Shaheen Air, and airblue. The airport offers non-stop flights to destinations throughout East Asia, South Asia, Southeast Asia, the Persian Gulf States, Europe and North America.[231][232]Kharachi_Port.JPG is one of South Asia's largest and busiest deep-water seaports.]]
+Karachi's Jinnah International Airport is the busiest airport of Pakistan with a total of 6.2 million passengers in 2015.[230] The current terminal structure was built in 1992, and is divided into international and domestic sections. Karachi's airport serves as a hub for the flag carrier, Pakistan International Airlines (PIA), as well as for Air Indus, Shaheen Air, and airblue. The airport offers non-stop flights to destinations throughout East Asia, South Asia, Southeast Asia, the Persian Gulf States, Europe and North America.[231][232] is one of South Asia's largest and busiest deep-water seaports.]]
 
 Sea
 
@@ -233,7 +231,7 @@ The largest shipping ports in Pakistan are the Port of Karachi and the nearby Po
 
 Civic administration
 
-Karachi_Municipal_Corporation_(KMC)_Head_Office_at_M.A_Jinnah_Road_-_Photo_By_Aliraza_Khatri.jpg.]]
+.]]
 
 Historical background
 
@@ -275,7 +273,7 @@ Karachi has the highest percentage of residents in Pakistan who report that thei
 
 Education
 
-Bvs_608.jpg]]
+]]
 
 Primary and secondary
 
@@ -285,14 +283,14 @@ Several of Karachi's schools, such as St Patrick's High School, and St Paul's En
 
 Higher
 
-Anilk0018.jpg is one of Karachi's second oldest university, and dates from 1887.]] Karachi is home to several major public universities. Karachi's first public university's date from the British colonial era. The Sindh Madressatul Islam founded in 1885, was granted university status in 2012. Establishment of the Sindh Madressatul Islam was followed by the establishment of the D. J. Sindh Government Science College in 1887, and the institution was granted university status in 2014. The Nadirshaw Edulji Dinshaw University of Engineering and Technology (NED), was founded in 1921, and is Pakistan's oldest institution of higher learning. The Dow University of Health Sciences was established in 1945, and is now one of Pakistan's top medical research institutions.
+is one of Karachi's second oldest university, and dates from 1887.]] Karachi is home to several major public universities. Karachi's first public university's date from the British colonial era. The Sindh Madressatul Islam founded in 1885, was granted university status in 2012. Establishment of the Sindh Madressatul Islam was followed by the establishment of the D. J. Sindh Government Science College in 1887, and the institution was granted university status in 2014. The Nadirshaw Edulji Dinshaw University of Engineering and Technology (NED), was founded in 1921, and is Pakistan's oldest institution of higher learning. The Dow University of Health Sciences was established in 1945, and is now one of Pakistan's top medical research institutions.
 
 The University of Karachi, founded in 1951, is Pakistan's largest university with a student population of 24,000. The Institute of Business Administration (IBA), founded in 1955, is the oldest business school outside of North America and Europe, and was set up with technical support from the Wharton School and the University of Southern California. The Dawood University of Engineering and Technology, which opened in 1962, offers degree programmes in petroleum, gas, chemical, and industrial engineering. The Pakistan Navy Engineering College (PNEC), operated by the Pakistan Navy, is associated with the National University of Sciences and Technology (NUST) in Islamabad.
 
 Karachi is also home to numerous private universities. The Aga Khan University, founded in 1983, is Karachi's oldest private educational institution, and is one of Pakistan's most prestigious medical schools. The Indus Valley School of Art and Architecture was founded in 1989, and offers degree programmes in arts and architectural fields. Hamdard University is the largest private university in Pakistan with faculties including Eastern Medicine, Medical, Engineering, Pharmacy, and Law. The National University of Computer and Emerging Sciences (NUCES-FAST), one of Pakistan's top universities in computer education, operates two campuses in Karachi. Sir Syed University of Engineering and Technology (SSUET) offers degree programmes in biomedical, electronics, telecom and computer engineering. Karachi Institute of Economics & Technology (KIET) has two campuses in Karachi. The Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology (SZABIST), founded in 1995 by former Prime Minister Benazir Bhutto, operates a campus in Karachi.
 
 -   Iqra University
--   Habib UniversityHabib_University_3.jpg is a liberal arts college in Karachi.]]
+-   Habib University is a liberal arts college in Karachi.]]
 -   Dow University
 -   Jinnah Medical and Dental College
 -   Jinnah Sindh Medical University
@@ -304,7 +302,7 @@ Karachi is also home to numerous private universities. The Aga Khan University, 
 
 Healthcare
 
-Aga_Khan_University_.jpg. jpg|thumb|Aga Khan University's hospital.]] Karachi is a centre of research in biomedicine with at least 30 public hospitals, 80 registered private hospitals and 12 recognized medical colleges,[273] including the Indus Hospital, Karachi Institute of Heart Diseases,[274] National Institute of Cardiovascular Diseases,[275] Civil Hospital,[276] Combined Military Hospital, PNS Rahat, PNS Shifa, Aga Khan University Hospital, Liaquat National Hospital, Jinnah Postgraduate Medical Centre, Holy Family Hospital and Ziauddin Hospital. In 1995, Ziauddin Hospital was the site of Pakistan's first bone marrow transplant.
+. jpg|thumb|Aga Khan University's hospital.]] Karachi is a centre of research in biomedicine with at least 30 public hospitals, 80 registered private hospitals and 12 recognized medical colleges,[273] including the Indus Hospital, Karachi Institute of Heart Diseases,[274] National Institute of Cardiovascular Diseases,[275] Civil Hospital,[276] Combined Military Hospital, PNS Rahat, PNS Shifa, Aga Khan University Hospital, Liaquat National Hospital, Jinnah Postgraduate Medical Centre, Holy Family Hospital and Ziauddin Hospital. In 1995, Ziauddin Hospital was the site of Pakistan's first bone marrow transplant.
 
 Karachi municipal authorities in October 2017 launched a new early warning system that alerted city residents to a forecasted heatwave. Previous heatwaves had routinely claimed lives in the city, but implementation of the warning system was credited for no reported heat-related fatalities.[277]
 
@@ -317,7 +315,7 @@ Karachi is home to Pakistan and South Asia's largest shopping Mall, Lucky One Ma
 
 Museums and galleries
 
-Khi_National_Museum.jpg is located in Karachi.]] Mohatta_Palace.jpg is now a museum open to the public.]] Karachi is home to several of Pakistan's most important museums. The National Museum of Pakistan and Mohatta Palace display artwork, while the city also has several private art galleries.[283] The city is also home to the Pakistan Airforce Museum and Pakistan Maritime Museum are also located in the city. Wazir Mansion, the birthplace of Pakistan's founder Muhammad Ali Jinnah has also been preserved as a museum open to the public.
+is located in Karachi.]] is now a museum open to the public.]] Karachi is home to several of Pakistan's most important museums. The National Museum of Pakistan and Mohatta Palace display artwork, while the city also has several private art galleries.[283] The city is also home to the Pakistan Airforce Museum and Pakistan Maritime Museum are also located in the city. Wazir Mansion, the birthplace of Pakistan's founder Muhammad Ali Jinnah has also been preserved as a museum open to the public.
 
 Theatre and cinema
 
@@ -331,7 +329,7 @@ The All Pakistan Music Conference, linked to the 45-year-old similar institution
 
 Tourist attractions
 
-HawkesBay.jpg.]]
+.]]
 
 Karachi is a tourist destination for domestic and international tourists. Tourist attractions near Karachi city include:
 

@@ -203,7 +203,7 @@ In the 2014 census, out of the 2,804,801 people living in Moldova, 24% (652,394)
 
 In Vojvodina, Serbia
 
-Vojvodina_romanian_map.png, Serbia]] Romanian_and_Vlach_language_in_Serbia.png)'', census 2002
+, Serbia]] )'', census 2002
 
 +--+--+
 |  |  |
@@ -272,7 +272,7 @@ Classification
 
 Romance language
 
-Romance_languages_and_Romanian.png Romanian is a Romance language, belonging to the Italic branch of the Indo-European language family, having much in common with languages such as French, Italian, Spanish and Portuguese.[75]
+Romanian is a Romance language, belonging to the Italic branch of the Indo-European language family, having much in common with languages such as French, Italian, Spanish and Portuguese.[75]
 
 However, the languages closest to Romanian are the other Eastern Romance languages, spoken south of the Danube: Aromanian, Megleno-Romanian and Istro-Romanian. An alternative name for Romanian used by linguists to disambiguate with the other Eastern Romance languages is "Daco-Romanian", referring to the area where it is spoken (which corresponds roughly to the onetime Roman province of Dacia).
 
@@ -345,8 +345,6 @@ In the 20th century, an increasing number of English words have been borrowed (s
 
 
 Lexis
-
-CuvinteleLimbiiRomane.svg
 
 A statistical analysis sorting Romanian words by etymological source carried out by Macrea (1961)[101] based on the DLRM[102] (49,649 words) showed the following makeup:[103]
 
@@ -423,13 +421,13 @@ Romanian has entirely lost Latin (QU), turning it either into (Lat. QUattuor →
 
 Writing system
 
-Scrisoarea-lui-neacsu-din-campulung.jpg is the oldest surviving document written in Romanian]]
+is the oldest surviving document written in Romanian]]
 
 The first written record about a Romance language spoken in the Middle Ages in the Balkans is from 587. A Vlach muleteer accompanying the Byzantine army noticed that the load was falling from one of the animals and shouted to a companion _Torna, torna frate_ (meaning "Return, return brother!"), and, "sculca" (out of bed) . Theophanes Confessor recorded it as part of a 6th-century military expedition by Commentiolus and Priscus against the Avars and Slovenes.[107]
 
 "Libri III de moribus et actis primorum Normanniae ducum" by Dudo of Saint-Quentin states that Richard I of Normandy was sent by his father William I Longsword to learn the Dacian language with Bothon because the inhabitants of Bayeux spoke more Dacian than Roman.[108]
 
-The oldest surviving written text in Romanian is a letter from late June 1521,[109] in which Neacșu of Câmpulung wrote to the mayor of Brașov about an imminent attack of the Turks. It was written using the Cyrillic alphabet, like most early Romanian writings. The earliest surviving writing in Latin script was a late 16th-century Transylvanian text which was written with the Hungarian alphabet conventions. Romanian-kirilitza-tatal-nostru.jpg, which was still in use in the early 19th century]]
+The oldest surviving written text in Romanian is a letter from late June 1521,[109] in which Neacșu of Câmpulung wrote to the mayor of Brașov about an imminent attack of the Turks. It was written using the Cyrillic alphabet, like most early Romanian writings. The earliest surviving writing in Latin script was a late 16th-century Transylvanian text which was written with the Hungarian alphabet conventions. , which was still in use in the early 19th century]]
 
 In the 18th century, Transylvanian scholars noted the Latin origin of Romanian and adapted the Latin alphabet to the Romanian language, using some orthographic rules from Italian, recognized as Romanian's closest relative. The Cyrillic alphabet remained in (gradually decreasing) use until 1860, when Romanian writing was first officially regulated.
 
@@ -464,8 +462,6 @@ Today the Romanian alphabet is largely phonemic. However, the letters _â_ and _
 Stressed vowels also are not marked in writing, except very rarely in cases where by misplacing the stress a word might change its meaning and if the meaning is not obvious from the context. For example, _trei copíi_ means "three children" while _trei cópii_ means "three copies".
 
 Pronunciation
-
-Romanian_keyboard_letters.jpg
 
 -   _h_ is not silent like in other Romance languages such as Spanish, Italian, Portuguese, Catalan and French, but represents the phoneme , except in the digraphs _ch_ /k/ and _gh_ /g/ (see below)
 -   _j_ represents , as in French, Catalan or Portuguese (the sound spelled with _s_ in the English words "vision, pleasure, treasure").

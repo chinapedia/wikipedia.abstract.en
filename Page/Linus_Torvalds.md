@@ -54,8 +54,6 @@ Torvalds holds the "Linux" trademark[50] and monitors the use of it,[51] chiefly
 
 Personal life
 
-Linus_Torvalds.jpeg
-
 Linus Torvalds is married to Tove Torvalds (née Monni)—a six-time Finnish national karate champion—whom he first met in late 1993. Linus was running introductory computer laboratory exercises for students and instructed the course attendees to send him an e-mail as a test, to which Tove responded with an e-mail asking for a date.[52] Tove and Linus were later married and have three daughters, Patricia Miranda (born 1996), Daniela Yolanda (born 1998), and Celeste Amanda (born 2000),[53] two of whom were born in the United States.[54] The Linux kernel's _reboot_ system call accepts their dates of birth (written in hexadecimal) as magic values.[55][56]
 
 Torvalds has described himself as "completely a-religious—atheist", adding that "I find that people seem to think religion brings morals and appreciation of nature. I actually think it detracts from both. It gives people the excuse to say, 'Oh, nature was just created,' and so the act of creation is seen to be something miraculous. I appreciate the fact that, 'Wow, it's incredible that something like this could have happened in the first place.{{'"}} He later added that while in Europe religion is mostly a personal issue, in the United States it has become very politicized. When discussing the issue of church and state separation, Torvalds also said, "Yeah, it's kind of ironic that in many European countries, there is actually a kind of legal binding between the state and the state religion."[57] However, in a story about the March LinuxWorld Conference titled "Linus the Liberator", Torvalds is quoted as saying "There are like two golden rules in life. One is 'Do unto others as you would want them to do unto you.' For some reason, people associate this with Christianity. I'm not a Christian. I'm agnostic. The other rule is 'Be proud of what you do.{{'"}}[58]
@@ -67,7 +65,7 @@ Linus developed an interest in scuba diving in the early 2000s and went on to ac
 
 Awards and achievements
 
-Linus-Torvalds_IEEE_Ibuka_Award_2018.jpg and IEEE President James A. Jefferies at ICCE 2018 on 12 Jan 2018 in Las Vegas]]
+and IEEE President James A. Jefferies at ICCE 2018 on 12 Jan 2018 in Las Vegas]]
 
   Awards and achievements
   -------------------------

@@ -1,5 +1,3 @@
-International_System_of_Units_Logo.png
-
     {|
 
 |- ! Symbol !! Name !! Quantity |- | style="text-align: center;" | s || second || time |- | style="text-align: center;" | m || metre || length |- | style="text-align: center;" | kg || kilogram || mass |- | style="text-align: center;" | A || ampere || electric current |- | style="text-align: center;" | K || kelvin || temperature |- | style="text-align: center;" | mol || mole || amount of substance |- | style="text-align: center;" | cd || candela || luminous intensity |- |} ]]
@@ -174,8 +172,6 @@ Non-SI units accepted for use with SI
 
 Many non-SI units continue to be used in the scientific, technical, and commercial literature. Some units are deeply embedded in history and culture, and their use has not been entirely replaced by their SI alternatives. The CIPM recognised and acknowledged such traditions by compiling a list of non-SI units accepted for use with SI:[22]
 
-CubeLitre.svg
-
 Some units of time, angle, and legacy non-SI units have a long history of use. Most societies have used the solar day and its non-decimal subdivisions as a basis of time and, unlike the foot or the pound, these were the same regardless of where they were being measured. The radian, being of a revolution, has mathematical advantages but is rarely used for navigation. Further, the units used in navigation around the world are similar. The tonne, litre, and hectare were adopted by the CGPM in 1879 and have been retained as units that may be used alongside SI units, having been given unique symbols. The catalogued units are given below:
 
 +------------------+--------------------+-------------------------+-----------------------------------------------+
@@ -252,8 +248,6 @@ General rules[31] for writing SI units and quantities apply to text that is eith
 -   Symbols for derived units formed by multiplication are joined with a centre dot (⋅) or a non-breaking space; e.g., N⋅m or N m.
 -   Symbols for derived units formed by division are joined with a solidus (/), or given as a negative exponent. E.g., the "metre per second" can be written m/s, m s^(−1), m⋅s^(−1), or . A solidus must not be used more than once in a given expression without parentheses to remove ambiguities; e.g., kg/(m⋅s²) and kg⋅m^(−1)⋅s^(−2) are acceptable, but kg/m/s² is ambiguous and unacceptable.
 
-981ms2.png
-
 -   The first letter of symbols for units derived from the name of a person is written in upper case; otherwise, they are written in lower case. E.g., the unit of pressure is named after Blaise Pascal, so its symbol is written "Pa", but the symbol for mole is written "mol". Thus, "T" is the symbol for tesla, a measure of magnetic field strength, and "t" the symbol for tonne, a measure of mass. Since 1979, the litre may exceptionally be written using either an uppercase "L" or a lowercase "l", a decision prompted by the similarity of the lowercase letter "l" to the numeral "1", especially with certain typefaces or English-style handwriting. The American NIST recommends that within the United States "L" be used rather than "l".
 -   Symbols do not have a plural form, e.g., 25 kg, but not 25 .
 -   Uppercase and lowercase prefixes are not interchangeable. E.g., the quantities 1 mW and 1 MW represent two different quantities (milliwatt and megawatt).
@@ -287,7 +281,7 @@ International System of Quantities
 
         SI BROCHURE
 
-SI_Brochure_Cover.jpg The CGPM publishes a brochure that defines and presents the SI.[37] Its official version is in French, in line with the Metre Convention.[38] It leaves some scope for local interpretation, particularly regarding names and terms in different languages.[39][40]
+The CGPM publishes a brochure that defines and presents the SI.[37] Its official version is in French, in line with the Metre Convention.[38] It leaves some scope for local interpretation, particularly regarding names and terms in different languages.[39][40]
 
 The writing and maintenance of the CGPM brochure is carried out by one of the committees of the International Committee for Weights and Measures (CIPM). The definitions of the terms "quantity", "unit", "dimension" etc. that are used in the _SI Brochure_ are those given in the International vocabulary of metrology.[41]
 
@@ -296,7 +290,7 @@ The quantities and equations that provide the context in which the SI units are 
 
 Realisation of units
 
-Silicon_sphere_for_Avogadro_project.jpg used for measuring the Avogadro constant to a relative standard uncertainty of or less, held by Achim Leistner.[44]]] Metrologists carefully distinguish between the definition of a unit and its realisation. The definition of each base unit of the SI is drawn up so that it is unique and provides a sound theoretical basis on which the most accurate and reproducible measurements can be made. The realisation of the definition of a unit is the procedure by which the definition may be used to establish the value and associated uncertainty of a quantity of the same kind as the unit. A description of the _mise en pratique_[45] of the base units is given in an electronic appendix to the SI Brochure.[46][47]
+used for measuring the Avogadro constant to a relative standard uncertainty of or less, held by Achim Leistner.[44]]] Metrologists carefully distinguish between the definition of a unit and its realisation. The definition of each base unit of the SI is drawn up so that it is unique and provides a sound theoretical basis on which the most accurate and reproducible measurements can be made. The realisation of the definition of a unit is the procedure by which the definition may be used to establish the value and associated uncertainty of a quantity of the same kind as the unit. A description of the _mise en pratique_[45] of the base units is given in an electronic appendix to the SI Brochure.[46][47]
 
 The published _mise en pratique_ is not the only way in which a base unit can be determined: the SI Brochure states that "any method consistent with the laws of physics could be used to realise any SI unit."[48] In the current (2016) exercise to overhaul the definitions of the base units, various consultative committees of the CIPM have required that more than one _mise en pratique_ shall be developed for determining the value of each unit. In particular:
 
@@ -320,7 +314,7 @@ A few changes to notation conventions have also been made to alleviate lexicogra
 
 2019 redefinitions
 
-Unit_relations_in_the_new_SI.svgs, which are assigned exact numerical values in the 2019 redefinition. Unlike in the previous definitions, the base units are all derived exclusively from constants of nature.]]
+s, which are assigned exact numerical values in the 2019 redefinition. Unlike in the previous definitions, the base units are all derived exclusively from constants of nature.]]
 
 After the metre was redefined in 1960, the kilogram remained the only SI base unit directly based on a specific physical artefact, the International Prototype of the Kilogram (IPK), for its definition and thus the only unit that was still subject to periodic comparisons of national standard kilograms with the IPK.[63] During the 2nd and 3rd Periodic Verification of National Prototypes of the Kilogram, a significant divergence had occurred between the mass of the IPK and all of its official copies stored around the world: the copies had all noticeably increased in mass with respect to the IPK. During _extraordinary verifications_ carried out in 2014 preparatory to redefinition of metric standards, continuing divergence was not confirmed. Nonetheless, the residual and irreducible instability of a physical IPK undermined the reliability of the entire metric system to precision measurement from small (atomic) to large (astrophysical) scales.
 
@@ -338,7 +332,7 @@ The new definitions were adopted at the 26th CGPM on 16 November 2018, and came 
 
 History
 
-Alter_Grenzstein_Pontebba_01.jpg/Italian border at Pontebba displaying myriametres, a unit of 10 km used in Central Europe in the 19th century (but since deprecated).[66]]]
+/Italian border at Pontebba displaying myriametres, a unit of 10 km used in Central Europe in the 19th century (but since deprecated).[66]]]
 
 The improvisation of units
 
@@ -346,7 +340,7 @@ The units and unit magnitudes of the metric system which became the SI were impr
 
 The degree centigrade as a unit of temperature resulted from the scale devised by Swedish astronomer Anders Celsius in 1742. His scale counter-intuitively designated 100 as the freezing point of water and 0 as the boiling point. Independently, in 1743, the French physicist Jean-Pierre Christin described a scale with 0 as the freezing point of water and 100 the boiling point. The scale became known as the centi-grade, or 100 gradations of temperature, scale.
 
-The metric system was developed from 1791 onwards by a committee of the French Academy of Sciences, commissioned to create a unified and rational system of measures.[67] The group, which included preeminent French men of science,[68] used the same principles for relating length, volume, and mass that had been proposed by the English clergyman John Wilkins in 1668[69][70] and the concept of using the Earth's meridian as the basis of the definition of length, originally proposed in 1670 by the French abbot Mouton.[71][72] Carl_Friedrich_Gauss.jpg
+The metric system was developed from 1791 onwards by a committee of the French Academy of Sciences, commissioned to create a unified and rational system of measures.[67] The group, which included preeminent French men of science,[68] used the same principles for relating length, volume, and mass that had been proposed by the English clergyman John Wilkins in 1668[69][70] and the concept of using the Earth's meridian as the basis of the definition of length, originally proposed in 1670 by the French abbot Mouton.[71][72]
 
 ]] In March 1791, the Assembly adopted the committee's proposed principles for the new decimal system of measure including the metre defined to be 1/10,000,000th of the length of the quadrant of earth's meridian passing through Paris, and authorised a survey to precisely establish the length of the meridian. In July 1792, the committee proposed the names _metre_, _are_, _litre_ and _grave_ for the units of length, area, capacity, and mass, respectively. The committee also proposed that multiples and submultiples of these units were to be denoted by decimal-based prefixes such as _centi_ for a hundredth and _kilo_ for a thousand.[73]
 
@@ -388,7 +382,7 @@ The treaty also established a number of international organisations to oversee t
 
 The CGS and MKS systems
 
-US_National_Length_Meter.JPG In the 1860s, James Clerk Maxwell, William Thomson (later Lord Kelvin) and others working under the auspices of the British Association for the Advancement of Science, built on Gauss's work and formalised the concept of a coherent system of units with base units and derived units christened the centimetre–gram–second system of units in 1874. The principle of coherence was successfully used to define a number of units of measure based on the CGS, including the erg for energy, the dyne for force, the barye for pressure, the poise for dynamic viscosity and the stokes for kinematic viscosity.[89]
+In the 1860s, James Clerk Maxwell, William Thomson (later Lord Kelvin) and others working under the auspices of the British Association for the Advancement of Science, built on Gauss's work and formalised the concept of a coherent system of units with base units and derived units christened the centimetre–gram–second system of units in 1874. The principle of coherence was successfully used to define a number of units of measure based on the CGS, including the erg for energy, the dyne for force, the barye for pressure, the poise for dynamic viscosity and the stokes for kinematic viscosity.[89]
 
 In 1879, the CIPM published recommendations for writing the symbols for length, area, volume and mass, but it was outside its domain to publish recommendations for other quantities. Beginning in about 1900, physicists who had been using the symbol "μ" (mu) for "micrometre" or "micron", "λ" (lambda) for "microlitre", and "γ" (gamma) for "microgram" started to use the symbols "μm", "μL" and "μg".[90]
 
@@ -406,7 +400,7 @@ The 9th CGPM also approved the first formal recommendation for the writing of sy
 
 Birth of the SI
 
-Metric_system_adoption_map.svg In 1960, the 11th CGPM synthesised the results of the 12-year study into a set of 16 resolutions. The system was named the _International System of Units_, abbreviated SI from the French name, .[101][102]
+In 1960, the 11th CGPM synthesised the results of the 12-year study into a set of 16 resolutions. The system was named the _International System of Units_, abbreviated SI from the French name, .[101][102]
 
 Redefinition of the SI system
 

@@ -14,8 +14,6 @@ Bilateral relations
 
 Overview
 
-Diplomatic_relations_of_Laos.svg
-
 Laos has established relations with 134 countries (including the Sahrawi Arab Democratic Republic and the State of Palestine) and the European Union. Laos has not yet established diplomatic relations with:
 
 -   Guatemala, El Salvador, Honduras, Bolivia, Uruguay

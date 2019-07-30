@@ -1,8 +1,6 @@
 x95px |image_coat = Coat of Arms of Switzerland (Pantone).svg |national_motto =
 |national_anthem = "Swiss Psalm"
 
-Swiss_Psalm.ogg
-
 |image_map = Europe-Switzerland.svg |map_caption = |capital = None
 Bern [1][2][3] |coordinates = |largest_city = Zürich |official_languages = German
 French
@@ -43,7 +41,7 @@ Early history
 
 The oldest traces of hominid existence in Switzerland date back about 150,000 years.[38] The oldest known farming settlements in Switzerland, which were found at Gächlingen, have been dated to around 5300 BC.[39]
 
-Theater_Kaiseraugst.jpg, Augusta Raurica (near Basel) was the first Roman settlement on the Rhine and is now among the most important archaeological sites in Switzerland.[40]]]
+, Augusta Raurica (near Basel) was the first Roman settlement on the Rhine and is now among the most important archaeological sites in Switzerland.[40]]]
 
 The earliest known cultural tribes of the area were members of the Hallstatt and La Tène cultures, named after the archaeological site of La Tène on the north side of Lake Neuchâtel. La Tène culture developed and flourished during the late Iron Age from around 450 BC,[41] possibly under some influence from the Greek and Etruscan civilisations. One of the most important tribal groups in the Swiss region was the Helvetii. Steadily harassed by the Germanic tribes, in 58 BC the Helvetii decided to abandon the Swiss plateau and migrate to western Gallia, but Julius Caesar's armies pursued and defeated them at the Battle of Bibracte, in today's eastern France, forcing the tribe to move back to its original homeland.[42] In 15 BC, Tiberius, who would one day become the second Roman emperor, and his brother Drusus, conquered the Alps, integrating them into the Roman Empire. The area occupied by the Helvetii—the namesakes of the later _Confoederatio Helvetica_—first became part of Rome's Gallia Belgica province and then of its Germania Superior province, while the eastern portion of modern Switzerland was integrated into the Roman province of Raetia. Sometime around the start of the Common Era, the Romans maintained a large legionary camp called Vindonissa, now a ruin at the confluence of the Aare and Reuss rivers, near the town of Windisch, an outskirt of Brugg.
 
@@ -59,11 +57,9 @@ By 1200, the Swiss plateau comprised the dominions of the houses of Savoy, Zähr
 
 Old Swiss Confederacy
 
-Bundesbrief.jpg
-
 The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy, governed by nobles and patricians of various cantons, facilitated management of common interests and ensured peace on the important mountain trade routes. The Federal Charter of 1291 agreed between the rural communes of Uri, Schwyz, and Unterwalden is considered the confederacy's founding document, even though similar alliances are likely to have existed decades earlier.[50][51]
 
-Old_Swiss_Confederation.jpg By 1353, the three original cantons had joined with the cantons of Glarus and Zug and the Lucerne, Zürich and Bern city states to form the "Old Confederacy" of eight states that existed until the end of the 15th century. The expansion led to increased power and wealth for the confederation.[52] By 1460, the confederates controlled most of the territory south and west of the Rhine to the Alps and the Jura mountains, particularly after victories against the Habsburgs (Battle of Sempach, Battle of Näfels), over Charles the Bold of Burgundy during the 1470s, and the success of the Swiss mercenaries. The Swiss victory in the Swabian War against the Swabian League of Emperor Maximilian I in 1499 amounted to _de facto_ independence within the Holy Roman Empire.[53]
+By 1353, the three original cantons had joined with the cantons of Glarus and Zug and the Lucerne, Zürich and Bern city states to form the "Old Confederacy" of eight states that existed until the end of the 15th century. The expansion led to increased power and wealth for the confederation.[52] By 1460, the confederates controlled most of the territory south and west of the Rhine to the Alps and the Jura mountains, particularly after victories against the Habsburgs (Battle of Sempach, Battle of Näfels), over Charles the Bold of Burgundy during the 1470s, and the success of the Swiss mercenaries. The Swiss victory in the Swabian War against the Swabian League of Emperor Maximilian I in 1499 amounted to _de facto_ independence within the Holy Roman Empire.[53]
 
 The Old Swiss Confederacy had acquired a reputation of invincibility during these earlier wars, but expansion of the confederation suffered a setback in 1515 with the Swiss defeat in the Battle of Marignano. This ended the so-called "heroic" epoch of Swiss history.[54] The success of Zwingli's Reformation in some cantons led to inter-cantonal religious conflicts in 1529 and 1531 (Wars of Kappel). It was not until more than one hundred years after these internal wars that, in 1648, under the Peace of Westphalia, European countries recognised Switzerland's independence from the Holy Roman Empire and its neutrality.[55][56]
 
@@ -71,7 +67,7 @@ During the Early Modern period of Swiss history, the growing authoritarianism of
 
 Napoleonic era
 
-Acte_de_Médiation_mg_0643.jpg and a Republic.]]
+and a Republic.]]
 
 In 1798, the revolutionary French government conquered Switzerland and imposed a new unified constitution.[58] This centralised the government of the country, effectively abolishing the cantons: moreover, Mülhausen joined France and the Valtellina valley became part of the Cisalpine Republic, separating from Switzerland. The new regime, known as the Helvetic Republic, was highly unpopular. It had been imposed by a foreign invading army and destroyed centuries of tradition, making Switzerland nothing more than a French satellite state. The fierce French suppression of the Nidwalden Revolt in September 1798 was an example of the oppressive presence of the French Army and the local population's resistance to the occupation.
 
@@ -81,13 +77,13 @@ In 1815 the Congress of Vienna fully re-established Swiss independence and the E
 
 Federal state
 
-Bern,_Federal_Palace,_1857.jpg in Bern (1857). One of the three cantons presiding over the Tagsatzung (former legislative and executive council), Bern was chosen as the permanent seat of federal legislative and executive institutions in 1848, in part because of its closeness to the French-speaking area.[64]]] The restoration of power to the patriciate was only temporary. After a period of unrest with repeated violent clashes, such as the Züriputsch of 1839, civil war (the _Sonderbundskrieg_) broke out in 1847 when some Catholic cantons tried to set up a separate alliance (the _Sonderbund_).[65] The war lasted for less than a month, causing fewer than 100 casualties, most of which were through friendly fire. Yet however minor the Sonderbundskrieg appears compared with other European riots and wars in the 19th century, it nevertheless had a major impact on both the psychology and the society of the Swiss and of Switzerland.
+in Bern (1857). One of the three cantons presiding over the Tagsatzung (former legislative and executive council), Bern was chosen as the permanent seat of federal legislative and executive institutions in 1848, in part because of its closeness to the French-speaking area.[64]]] The restoration of power to the patriciate was only temporary. After a period of unrest with repeated violent clashes, such as the Züriputsch of 1839, civil war (the _Sonderbundskrieg_) broke out in 1847 when some Catholic cantons tried to set up a separate alliance (the _Sonderbund_).[65] The war lasted for less than a month, causing fewer than 100 casualties, most of which were through friendly fire. Yet however minor the Sonderbundskrieg appears compared with other European riots and wars in the 19th century, it nevertheless had a major impact on both the psychology and the society of the Swiss and of Switzerland.
 
 The war convinced most Swiss of the need for unity and strength towards its European neighbours. Swiss people from all strata of society, whether Catholic or Protestant, from the liberal or conservative current, realised that the cantons would profit more if their economic and religious interests were merged.
 
 Thus, while the rest of Europe saw revolutionary uprisings, the Swiss drew up a constitution which provided for a federal layout, much of it inspired by the American example. This constitution provided for a central authority while leaving the cantons the right to self-government on local issues. Giving credit to those who favoured the power of the cantons (the Sonderbund Kantone), the national assembly was divided between an upper house (the Council of States, two representatives per canton) and a lower house (the National Council, with representatives elected from across the country). Referendums were made mandatory for any amendment of this constitution.[66] This new constitution also brought a legal end to nobility in Switzerland.[67]
 
-Gotthard_Eröffnungszug_Bellinzona.jpg connecting the southern canton of Ticino, the longest in the world at the time]] A system of single weights and measures was introduced and in 1850 the Swiss franc became the Swiss single currency. Article 11 of the constitution forbade sending troops to serve abroad, with the exception of serving the Holy See, though the Swiss were still obliged to serve Francis II of the Two Sicilies with Swiss Guards present at the Siege of Gaeta in 1860, marking the end of foreign service.
+connecting the southern canton of Ticino, the longest in the world at the time]] A system of single weights and measures was introduced and in 1850 the Swiss franc became the Swiss single currency. Article 11 of the constitution forbade sending troops to serve abroad, with the exception of serving the Holy See, though the Swiss were still obliged to serve Francis II of the Two Sicilies with Swiss Guards present at the Siege of Gaeta in 1860, marking the end of foreign service.
 
 An important clause of the constitution was that it could be re-written completely if this was deemed necessary, thus enabling it to evolve as a whole rather than being modified one amendment at a time.[68]
 
@@ -97,7 +93,7 @@ In 1891, the constitution was revised with unusually strong elements of direct d
 
 Modern history
 
-Ulrich_Wille.jpg, appointed commander-in-chief of the Swiss Army for the duration of World War I]] Switzerland was not invaded during either of the world wars. During World War I, Switzerland was home to Vladimir Illych Ulyanov (Vladimir Lenin) and he remained there until 1917.[71] Swiss neutrality was seriously questioned by the Grimm–Hoffmann Affair in 1917, but it was short-lived. In 1920, Switzerland joined the League of Nations, which was based in Geneva, on condition that it was exempt from any military requirements.
+, appointed commander-in-chief of the Swiss Army for the duration of World War I]] Switzerland was not invaded during either of the world wars. During World War I, Switzerland was home to Vladimir Illych Ulyanov (Vladimir Lenin) and he remained there until 1917.[71] Swiss neutrality was seriously questioned by the Grimm–Hoffmann Affair in 1917, but it was short-lived. In 1920, Switzerland joined the League of Nations, which was based in Geneva, on condition that it was exempt from any military requirements.
 
 During World War II, detailed invasion plans were drawn up by the Germans,[72] but Switzerland was never attacked.[73] Switzerland was able to remain independent through a combination of military deterrence, concessions to Germany, and good fortune as larger events during the war delayed an invasion.[74][75] Under General Henri Guisan, appointed the commander-in-chief for the duration of the war, a general mobilisation of the armed forces was ordered. The Swiss military strategy was changed from one of static defence at the borders to protect the economic heartland, to one of organised long-term attrition and withdrawal to strong, well-stockpiled positions high in the Alps known as the Reduit. Switzerland was an important base for espionage by both sides in the conflict and often mediated communications between the Axis and Allied powers.[76]
 
@@ -111,7 +107,7 @@ During the Cold War, Swiss authorities considered the construction of a Swiss nu
 
 Switzerland was the last Western republic to grant women the right to vote. Some Swiss cantons approved this in 1959, while at the federal level it was achieved in 1971[84][85] and, after resistance, in the last canton Appenzell Innerrhoden (one of only two remaining _Landsgemeinde_) in 1990. After obtaining suffrage at the federal level, women quickly rose in political significance, with the first woman on the seven member Federal Council executive being Elisabeth Kopp, who served from 1984 to 1989,[86] and the first female president being Ruth Dreifuss in 1999.
 
-Bundesrat_der_Schweiz_2003.jpg a second seat in the governing cabinet, the Parliament altered the coalition which had dominated Swiss politics since 1959.]]
+a second seat in the governing cabinet, the Parliament altered the coalition which had dominated Swiss politics since 1959.]]
 
 Switzerland joined the Council of Europe in 1963.[87] In 1979 areas from the canton of Bern attained independence from the Bernese, forming the new canton of Jura. On 18 April 1999 the Swiss population and the cantons voted in favour of a completely revised federal constitution.[88]
 
@@ -119,8 +115,6 @@ In 2002 Switzerland became a full member of the United Nations, leaving the Vati
 
 
 Geography
-
-Reliefkarte_Schweiz.png
 
 Extending across the north and south side of the Alps in west-central Europe, Switzerland encompasses a great diversity of landscapes and climates on a limited area of .[91] The population is about 8 million, resulting in an average population density of around 195 people per square kilometre (500/sq mi).[92][93] The more mountainous southern half of the country is far more sparsely populated than the northern half.[94] In the largest Canton of Graubünden, lying entirely in the Alps, population density falls to 27 /km² (70 /sq mi).[95]
 
@@ -134,7 +128,7 @@ Within Switzerland there are two small enclaves: Büsingen belongs to Germany, C
 
 Climate
 
-Koppen-Geiger_Map_CHE_present.svg map for Switzerland.]]
+map for Switzerland.]]
 
 The Swiss climate is generally temperate, but can vary greatly between the localities,[102] from glacial conditions on the mountaintops to the often pleasant near Mediterranean climate at Switzerland's southern tip. There are some valley areas in the southern part of Switzerland where some cold-hardy palm trees are found. Summers tend to be warm and humid at times with periodic rainfall so they are ideal for pastures and grazing. The less humid winters in the mountains may see long intervals of stable conditions for weeks, while the lower lands tend to suffer from inversion, during these periods, thus seeing no sun for weeks.
 
@@ -158,11 +152,11 @@ Switzerland's ecosystems can be particularly fragile, because the many delicate 
 
 Politics
 
-Bundesrat_der_Schweiz_2016.jpg in 2016 with President Johann Schneider-Ammann (front, centre)[108]]]
+in 2016 with President Johann Schneider-Ammann (front, centre)[108]]]
 
 The Federal Constitution adopted in 1848 is the legal foundation of the modern federal state.[109] A new Swiss Constitution was adopted in 1999, but did not introduce notable changes to the federal structure. It outlines basic and political rights of individuals and citizen participation in public affairs, divides the powers between the Confederation and the cantons and defines federal jurisdiction and authority. There are three main governing bodies on the federal level:[110] the bicameral parliament (legislative), the Federal Council (executive) and the Federal Court (judicial).
 
-Bern_104.jpg, seat of the Federal Assembly and the Federal Council]]
+, seat of the Federal Assembly and the Federal Council]]
 
 The Swiss Parliament consists of two houses: the Council of States which has 46 representatives (two from each canton and one from each half-canton) who are elected under a system determined by each canton, and the National Council, which consists of 200 members who are elected under a system of proportional representation, depending on the population of each canton. Members of both houses serve for 4 years and only serve as members of parliament part-time (so-called _Milizsystem_ or citizen legislature).[111] When both houses are in joint session, they are known collectively as the Federal Assembly. Through referendums, citizens may challenge any law passed by parliament and through initiatives, introduce amendments to the federal constitution, thus making Switzerland a direct democracy.[112]
 
@@ -179,7 +173,7 @@ The function of the Federal Supreme Court is to hear appeals against rulings of 
 
 Direct democracy
 
-Landsgemeinde_Glarus_2006.jpg is an old form of direct democracy, still in practice in two cantons.]] Direct democracy and federalism are hallmarks of the Swiss political system.[115] Swiss citizens are subject to three legal jurisdictions: the municipality, canton and federal levels. The 1848 and 1999 Swiss Constitutions define a system of direct democracy (sometimes called half-direct or representative direct democracy because it is aided by the more commonplace institutions of a representative democracy). The instruments of this system at the federal level, known as popular rights (, , ),[116] include the right to submit a federal initiative and a referendum, both of which may overturn parliamentary decisions.[117][118]
+is an old form of direct democracy, still in practice in two cantons.]] Direct democracy and federalism are hallmarks of the Swiss political system.[115] Swiss citizens are subject to three legal jurisdictions: the municipality, canton and federal levels. The 1848 and 1999 Swiss Constitutions define a system of direct democracy (sometimes called half-direct or representative direct democracy because it is aided by the more commonplace institutions of a representative democracy). The instruments of this system at the federal level, known as popular rights (, , ),[116] include the right to submit a federal initiative and a referendum, both of which may overturn parliamentary decisions.[117][118]
 
 By calling a federal referendum, a group of citizens may challenge a law passed by parliament, if they gather 50,000 signatures against the law within 100 days. If so, a national vote is scheduled where voters decide by a simple majority whether to accept or reject the law. Any 8 cantons together can also call a constitutional referendum on a federal law.[119]
 
@@ -189,25 +183,24 @@ Cantons
 
 The Swiss Confederation consists of 26 cantons:[123][124]
 
-  --------
-  500 px
-  --------
+  --
+  --
 
-  Canton                                        ID                        Capital   Canton      ID                                         Capital
-  --------------------------------------------- ------------------------- --------- ----------- ------------------------------------------ --------------
-  Wappen_Aargau_matt.svg                        Aargau                    19        Aarau       Wappen_Nidwalden_matt.svg                  *Nidwalden
-  Wappen_Appenzell_Ausserrhoden_matt.svg        *Appenzell Ausserrhoden   15        Herisau     Wappen_Obwalden_matt.svg                   *Obwalden
-  Wappen_Appenzell_Innerrhoden_matt.svg         *Appenzell Innerrhoden    16        Appenzell   Wappen_Schaffhausen_matt.svg               Schaffhausen
-  Coat_of_arms_of_Kanton_Basel-Landschaft.svg   *Basel-Landschaft         13        Liestal     Wappen_Schwyz_matt.svg                     Schwyz
-  Wappen_Basel-Stadt_matt.svg                   *Basel-Stadt              12        Basel       Wappen_Solothurn_matt.svg                  Solothurn
-  Wappen_Bern_matt.svg                          Bern                      2         Bern        Coat_of_arms_of_canton_of_St._Gallen.svg   St. Gallen
-  Wappen_Freiburg_matt.svg                      Fribourg                  10        Fribourg    Wappen_Thurgau_matt.svg                    Thurgau
-  Wappen_Genf_matt.svg                          Geneva                    25        Geneva      Wappen_Tessin_matt.svg                     Ticino
-  Wappen_Glarus_matt.svg                        Glarus                    8         Glarus      Wappen_Uri_matt.svg                        Uri
-  Wappen_Graubünden_matt.svg                    Grisons                   18        Chur        Wappen_Wallis_matt.svg                     Valais
-  Wappen_Jura_matt.svg                          Jura                      26        Delémont    Wappen_Waadt_matt.svg                      Vaud
-  Wappen_Luzern_matt.svg                        Lucerne                   3         Lucerne     Wappen_Zug_matt.svg                        Zug
-  Wappen_Neuenburg_matt.svg                     Neuchâtel                 24        Neuchâtel   Wappen_Zürich_matt.svg                     Zürich
+  Canton   ID                        Capital   Canton      ID   Capital
+  -------- ------------------------- --------- ----------- ---- --------------
+           Aargau                    19        Aarau            *Nidwalden
+           *Appenzell Ausserrhoden   15        Herisau          *Obwalden
+           *Appenzell Innerrhoden    16        Appenzell        Schaffhausen
+           *Basel-Landschaft         13        Liestal          Schwyz
+           *Basel-Stadt              12        Basel            Solothurn
+           Bern                      2         Bern             St. Gallen
+           Fribourg                  10        Fribourg         Thurgau
+           Geneva                    25        Geneva           Ticino
+           Glarus                    8         Glarus           Uri
+           Grisons                   18        Chur             Valais
+           Jura                      26        Delémont         Vaud
+           Lucerne                   3         Lucerne          Zug
+           Neuchâtel                 24        Neuchâtel        Zürich
 
 *These cantons are known as half-cantons.
 
@@ -221,7 +214,7 @@ Foreign relations and international institutions
 
 Traditionally, Switzerland avoids alliances that might entail military, political, or direct economic action and has been neutral since the end of its expansion in 1515. Its policy of neutrality was internationally recognised at the Congress of Vienna in 1815.[126][127] Only in 2002 did Switzerland become a full member of the United Nations[128] and it was the first state to join it by referendum. Switzerland maintains diplomatic relations with almost all countries and historically has served as an intermediary between other states.[129] Switzerland is not a member of the European Union; the Swiss people have consistently rejected membership since the early 1990s.[130] However, Switzerland does participate in the Schengen Area.[131]
 
-Flag_of_the_Red_Cross.svg reversed Swiss flag became the symbol of the Red Cross Movement,[132] founded in 1863 by Henry Dunant.[133]]]
+reversed Swiss flag became the symbol of the Red Cross Movement,[132] founded in 1863 by Henry Dunant.[133]]]
 
 A large number of international institutions have their seats in Switzerland, in part because of its policy of neutrality. Geneva is the birthplace of the Red Cross and Red Crescent Movement and the Geneva Conventions and, since 2006, hosts the United Nations Human Rights Council. Even though Switzerland is one of the most recent countries to have joined the United Nations, the Palace of Nations in Geneva is the second biggest centre for the United Nations after New York, and Switzerland was a founding member and home to the League of Nations.
 
@@ -231,13 +224,13 @@ Furthermore, many sport federations and organisations are located throughout the
 
 Military
 
-Switzerland_-_Air_Force_McDonnell_Douglas_FA-18C_Hornet_-_cropped.jpg at Axalp Air Show]]
+at Axalp Air Show]]
 
 The Swiss Armed Forces, including the Land Forces and the Air Force, are composed mostly of conscripts, male citizens aged from 20 to 34 (in special cases up to 50) years. Being a landlocked country, Switzerland has no navy; however, on lakes bordering neighbouring countries, armed military patrol boats are used. Swiss citizens are prohibited from serving in foreign armies, except for the Swiss Guards of the Vatican, or if they are dual citizens of a foreign country and reside there.
 
 The structure of the Swiss militia system stipulates that the soldiers keep their Army issued equipment, including all personal weapons, at home. Some organisations and political parties find this practice controversial.[136] Women can serve voluntarily. Men usually receive military conscription orders for training at the age of 18.[137] About two thirds of the young Swiss are found suited for service; for those found unsuited, various forms of alternative service exist.[138] Annually, approximately 20,000 persons are trained in recruit centres for a duration from 18 to 21 weeks. The reform "Army XXI" was adopted by popular vote in 2003, it replaced the previous model "Army 95", reducing the effectives from 400,000 to about 200,000. Of those, 120,000 are active in periodic Army training and 80,000 are non-training reserves.[139]
 
-SKdt-Fahrzeug_-_Schweizer_Armee_-_Steel_Parade_2006.jpgs of the Land Forces]] Overall, three general mobilisations have been declared to ensure the integrity and neutrality of Switzerland. The first one was held on the occasion of the Franco-Prussian War of 1870–71. The second was in response to the outbreak of the First World War in August 1914. The third mobilisation of the army took place in September 1939 in response to the German attack on Poland; Henri Guisan was elected as the General-in-Chief.
+s of the Land Forces]] Overall, three general mobilisations have been declared to ensure the integrity and neutrality of Switzerland. The first one was held on the occasion of the Franco-Prussian War of 1870–71. The second was in response to the outbreak of the First World War in August 1914. The third mobilisation of the army took place in September 1939 in response to the German attack on Poland; Henri Guisan was elected as the General-in-Chief.
 
 Because of its neutrality policy, the Swiss army does not currently take part in armed conflicts in other countries, but is part of some peacekeeping missions around the world. Since 2000 the armed force department has also maintained the Onyx intelligence gathering system to monitor satellite communications.[140]
 
@@ -264,11 +257,11 @@ Thus as of today, no city in Switzerland has the official status either of capit
 
 Economy and labour law
 
-Vintage_Omega_Speedmaster_145.012-67.jpg worn on the moon during the _Apollo_ missions. In terms of value, Switzerland is responsible for half of the world production of watches.[151][152]]] Switzerland has a stable, prosperous and high-tech economy and enjoys great wealth, being ranked as the wealthiest country in the world per capita in multiple rankings. In 2011 it was ranked as the wealthiest country in the world in per capita terms (with "wealth" being defined to include both financial and non-financial assets), while the 2013 Credit Suisse Global Wealth Report showed that Switzerland was the country with the highest average wealth per adult in 2013.[153][154][155] It has the world's nineteenth largest economy by nominal GDP and the thirty-sixth largest by purchasing power parity. It is the twentieth largest exporter, despite its small size. Switzerland has the highest European rating in the Index of Economic Freedom 2010, while also providing large coverage through public services.[156] The nominal per capita GDP is higher than those of the larger Western and Central European economies and Japan.[157] If adjusted for purchasing power parity, Switzerland ranks 8th in the world in terms of GDP per capita, according to the World Bank and IMF (ranked 15th according to the CIA Worldfactbook[158]).
+worn on the moon during the _Apollo_ missions. In terms of value, Switzerland is responsible for half of the world production of watches.[151][152]]] Switzerland has a stable, prosperous and high-tech economy and enjoys great wealth, being ranked as the wealthiest country in the world per capita in multiple rankings. In 2011 it was ranked as the wealthiest country in the world in per capita terms (with "wealth" being defined to include both financial and non-financial assets), while the 2013 Credit Suisse Global Wealth Report showed that Switzerland was the country with the highest average wealth per adult in 2013.[153][154][155] It has the world's nineteenth largest economy by nominal GDP and the thirty-sixth largest by purchasing power parity. It is the twentieth largest exporter, despite its small size. Switzerland has the highest European rating in the Index of Economic Freedom 2010, while also providing large coverage through public services.[156] The nominal per capita GDP is higher than those of the larger Western and Central European economies and Japan.[157] If adjusted for purchasing power parity, Switzerland ranks 8th in the world in terms of GDP per capita, according to the World Bank and IMF (ranked 15th according to the CIA Worldfactbook[158]).
 
 The World Economic Forum's Global Competitiveness Report currently ranks Switzerland's economy as the most competitive in the world,[159] while ranked by the European Union as Europe's most innovative country.[160][161] For much of the 20th century, Switzerland was the wealthiest country in Europe by a considerable margin (by GDP – per capita).[162] In 2017, average gross household income in Switzerland was 9,946 francs per month (equivalent to US$10,720 per month), though 61% of the population made less than the average income.[163] Switzerland also has one of the world's largest account balances as a percentage of GDP.
 
-Aerial_view_of_Zurich.JPG Area, home to 1.5 million inhabitants and 150,000 companies, is one of the most important economic centres in the world.[164]]]
+Area, home to 1.5 million inhabitants and 150,000 companies, is one of the most important economic centres in the world.[164]]]
 
 Switzerland is home to several large multinational corporations. The largest Swiss companies by revenue are Glencore, Gunvor, Nestlé, Novartis, Hoffmann-La Roche, ABB, Mercuria Energy Group and Adecco.[165] Also, notable are UBS AG, Zurich Financial Services, Credit Suisse, Barry Callebaut, Swiss Re, Tetra Pak, The Swatch Group and Swiss International Air Lines. Switzerland is ranked as having one of the most powerful economies in the world.[166]
 
@@ -276,7 +269,7 @@ Switzerland's most important economic sector is manufacturing. Manufacturing con
 
 Slightly more than 5 million people work in Switzerland;[169] about 25% of employees belonged to a trade union in 2004.[170] Switzerland has a more flexible job market than neighbouring countries and the unemployment rate is very low. The unemployment rate increased from a low of 1.7% in June 2000 to a peak of 4.4% in December 2009.[171] The unemployment rate decreased to 3.2% in 2014 without further decrease in 2015 and 2016.[172][173] Population growth from net immigration is quite high, at 0.52% of population in 2004.[174] The foreign citizen population was 21.8% in 2004,[175] about the same as in Australia. GDP per hour worked is the world's 16th highest, at 49.46 international dollars in 2012.[176]
 
-Engadine.jpge. Tourism constitutes an important revenue for the less industrialised alpine regions.]] Switzerland has an overwhelmingly private sector economy and low tax rates by Western World standards; overall taxation is one of the smallest of developed countries. Switzerland is a relatively easy place to do business, currently ranking 20th of 189 countries in the Ease of Doing Business Index. The slow growth Switzerland experienced in the 1990s and the early 2000s has brought greater support for economic reforms and harmonisation with the European Union.[177][178] According to Credit Suisse, only about 37% of residents own their own homes, one of the lowest rates of home ownership in Europe. Housing and food price levels were 171% and 145% of the EU-25 index in 2007, compared to 113% and 104% in Germany.[179]
+e. Tourism constitutes an important revenue for the less industrialised alpine regions.]] Switzerland has an overwhelmingly private sector economy and low tax rates by Western World standards; overall taxation is one of the smallest of developed countries. Switzerland is a relatively easy place to do business, currently ranking 20th of 189 countries in the Ease of Doing Business Index. The slow growth Switzerland experienced in the 1990s and the early 2000s has brought greater support for economic reforms and harmonisation with the European Union.[177][178] According to Credit Suisse, only about 37% of residents own their own homes, one of the lowest rates of home ownership in Europe. Housing and food price levels were 171% and 145% of the EU-25 index in 2007, compared to 113% and 104% in Germany.[179]
 
 The Swiss Federal budget had a size of 62.8 billion Swiss francs in 2010, which is an equivalent 11.35% of the country's GDP in that year; however, the regional (canton) budgets and the budgets of the municipalities are not counted as part of the federal budget and the total rate of government spending is closer to 33.8% of GDP. The main sources of income for the federal government are the value-added tax (33%) and the direct federal tax (29%) and the main expenditure is located in the areas of social welfare and finance & tax. The expenditures of the Swiss Confederation have been growing from 7% of GDP in 1960 to 9.7% in 1990 and to 10.7% in 2010. While the sectors social welfare and finance & tax have been growing from 35% in 1990 to 48.2% in 2010, a significant reduction of expenditures has been occurring in the sectors of agriculture and national defence; from 26.5% in to 12.4% (estimation for the year 2015).[180][181]
 
@@ -284,7 +277,7 @@ Agricultural protectionism—a rare exception to Switzerland's free trade polici
 
 Education and science
 
-Swiss_scientists.jpg (mathematics)
+(mathematics)
 Louis Agassiz (glaciology)
 Auguste Piccard (aeronautics)
 Albert Einstein (physics)]]
@@ -293,7 +286,7 @@ Education in Switzerland is very diverse because the constitution of Switzerland
 
 At the end of primary school (or at the beginning of secondary school), pupils are separated according to their capacities in several (often three) sections. The fastest learners are taught advanced classes to be prepared for further studies and the matura,[189] while students who assimilate a little more slowly receive an education more adapted to their needs.
 
-ETHZ.JPG (ETHZ)]] There are 12 universities in Switzerland, ten of which are maintained at cantonal level and usually offer a range of non-technical subjects. The first university in Switzerland was founded in 1460 in Basel (with a faculty of medicine) and has a tradition of chemical and medical research in Switzerland. The largest university in Switzerland is the University of Zurich with nearly 25,000 students.The Swiss Federal Institute of Technology Zurich (ETHZ) and the University of Zurich are listed 20th and 54th respectively, on the 2015 Academic Ranking of World Universities.[190][191][192]
+(ETHZ)]] There are 12 universities in Switzerland, ten of which are maintained at cantonal level and usually offer a range of non-technical subjects. The first university in Switzerland was founded in 1460 in Basel (with a faculty of medicine) and has a tradition of chemical and medical research in Switzerland. The largest university in Switzerland is the University of Zurich with nearly 25,000 students.The Swiss Federal Institute of Technology Zurich (ETHZ) and the University of Zurich are listed 20th and 54th respectively, on the 2015 Academic Ranking of World Universities.[190][191][192]
 
 The two institutes sponsored by the federal government are the Swiss Federal Institute of Technology Zurich (ETHZ) in Zürich, founded 1855 and the EPFL in Lausanne, founded 1969 as such, which was formerly an institute associated with the University of Lausanne.[193][194][195]
 
@@ -303,7 +296,7 @@ As might befit a country that plays home to innumerable international organisati
 
 Many Nobel Prize laureates have been Swiss scientists. They include the world-famous physicist Albert Einstein[202] in the field of physics, who developed his special relativity while working in Bern. More recently Vladimir Prelog, Heinrich Rohrer, Richard Ernst, Edmond Fischer, Rolf Zinkernagel, Kurt Wüthrich and Jacques Dubochet received Nobel Prizes in the sciences. In total, 114 Nobel Prize winners in all fields stand in relation to Switzerland[203][204] and the Nobel Peace Prize has been awarded nine times to organisations residing in Switzerland.[205]
 
-LHC,_CERN.jpg tunnel. CERN is the world's largest laboratory and also the birthplace of the World Wide Web.[206]]]
+tunnel. CERN is the world's largest laboratory and also the birthplace of the World Wide Web.[206]]]
 
 Geneva and the nearby French department of Ain co-host the world's largest laboratory, CERN,[207] dedicated to particle physics research. Another important research centre is the Paul Scherrer Institute. Notable inventions include lysergic acid diethylamide (LSD), diazepam (Valium), the scanning tunnelling microscope (Nobel prize) and Velcro. Some technologies enabled the exploration of new worlds such as the pressurised balloon of Auguste Piccard and the Bathyscaphe which permitted Jacques Piccard to reach the deepest point of the world's oceans.
 
@@ -325,9 +318,9 @@ In December 2016, a compromise with the European Union was attained effectively 
 
 Energy, infrastructure and environment
 
-Mauvoisin_Dam.jpg in Europe, among which the Mauvoisin Dam, in the Alps. Hydroelectricity is the most important domestic source of energy in the country.]] Electricity generated in Switzerland is 56% from hydroelectricity and 39% from nuclear power, resulting in a nearly CO₂-free electricity-generating network. On 18 May 2003, two anti-nuclear initiatives were turned down: _Moratorium Plus_, aimed at forbidding the building of new nuclear power plants (41.6% supported and 58.4% opposed),[222] and Electricity Without Nuclear (33.7% supported and 66.3% opposed) after a previous moratorium expired in 2000.[223] However, as a reaction to the Fukushima nuclear disaster, the Swiss government announced in 2011 that it plans to end its use of nuclear energy in the next 2 or 3 decades.[224] In November 2016, Swiss voters rejected a proposal by the Green Party to accelerate the phaseout of nuclear power (45.8% supported and 54.2% opposed).[225] The Swiss Federal Office of Energy (SFOE) is the office responsible for all questions relating to energy supply and energy use within the Federal Department of Environment, Transport, Energy and Communications (DETEC). The agency is supporting the 2000-watt society initiative to cut the nation's energy use by more than half by the year 2050.[226]
+in Europe, among which the Mauvoisin Dam, in the Alps. Hydroelectricity is the most important domestic source of energy in the country.]] Electricity generated in Switzerland is 56% from hydroelectricity and 39% from nuclear power, resulting in a nearly CO₂-free electricity-generating network. On 18 May 2003, two anti-nuclear initiatives were turned down: _Moratorium Plus_, aimed at forbidding the building of new nuclear power plants (41.6% supported and 58.4% opposed),[222] and Electricity Without Nuclear (33.7% supported and 66.3% opposed) after a previous moratorium expired in 2000.[223] However, as a reaction to the Fukushima nuclear disaster, the Swiss government announced in 2011 that it plans to end its use of nuclear energy in the next 2 or 3 decades.[224] In November 2016, Swiss voters rejected a proposal by the Green Party to accelerate the phaseout of nuclear power (45.8% supported and 54.2% opposed).[225] The Swiss Federal Office of Energy (SFOE) is the office responsible for all questions relating to energy supply and energy use within the Federal Department of Environment, Transport, Energy and Communications (DETEC). The agency is supporting the 2000-watt society initiative to cut the nation's energy use by more than half by the year 2050.[226]
 
-Lötschberg_Tunnel.jpg, the third-longest railway tunnel in the world, under the old Lötschberg railway line. It was the first completed tunnel of the greater project NRLA.]] The most dense rail network in Europe[227] of carries over 596 million passengers annually (as of 2015).[228] In 2015, each Swiss resident travelled on average by rail, which makes them the keenest rail users.[229] Virtually 100% of the network is electrified. The vast majority (60%) of the network is operated by the Swiss Federal Railways (SBB CFF FFS). Besides the second largest standard gauge railway company BLS AG two railways companies operating on narrow gauge networks are the Rhaetian Railway (RhB) in the southeastern canton of Graubünden, which includes some World Heritage lines,[230] and the Matterhorn Gotthard Bahn (MGB), which co-operates together with RhB the Glacier Express between Zermatt and St. Moritz/Davos. On 31 May 2016 the world's longest and deepest railway tunnel and the first flat, low-level route through the Alps, the Gotthard Base Tunnel, opened as the largest part of the New Railway Link through the Alps (NRLA) project after 17 years of realization. It started its daily business for passenger transport on 11 December 2016 replacing the old, mountainous, scenic route over and through the St Gotthard Massif.
+, the third-longest railway tunnel in the world, under the old Lötschberg railway line. It was the first completed tunnel of the greater project NRLA.]] The most dense rail network in Europe[227] of carries over 596 million passengers annually (as of 2015).[228] In 2015, each Swiss resident travelled on average by rail, which makes them the keenest rail users.[229] Virtually 100% of the network is electrified. The vast majority (60%) of the network is operated by the Swiss Federal Railways (SBB CFF FFS). Besides the second largest standard gauge railway company BLS AG two railways companies operating on narrow gauge networks are the Rhaetian Railway (RhB) in the southeastern canton of Graubünden, which includes some World Heritage lines,[230] and the Matterhorn Gotthard Bahn (MGB), which co-operates together with RhB the Glacier Express between Zermatt and St. Moritz/Davos. On 31 May 2016 the world's longest and deepest railway tunnel and the first flat, low-level route through the Alps, the Gotthard Base Tunnel, opened as the largest part of the New Railway Link through the Alps (NRLA) project after 17 years of realization. It started its daily business for passenger transport on 11 December 2016 replacing the old, mountainous, scenic route over and through the St Gotthard Massif.
 
 Switzerland has a publicly managed road network without road tolls that is financed by highway permits as well as vehicle and gasoline taxes. The Swiss autobahn/autoroute system requires the purchase of a vignette (toll sticker)—which costs 40 Swiss francs—for one calendar year in order to use its roadways, for both passenger cars and trucks. The Swiss autobahn/autoroute network has a total length of (as of 2000) and has, by an area of , also one of the highest motorway densities in the world.[231] Zurich Airport is Switzerland's largest international flight gateway, which handled 22.8 million passengers in 2012.[232] The other international airports are Geneva Airport (13.9 million passengers in 2012),[233] EuroAirport Basel Mulhouse Freiburg which is located in France, Bern Airport, Lugano Airport, St. Gallen-Altenrhein Airport and Sion Airport. Swiss International Air Lines is the flag carrier of Switzerland. Its main hub is Zürich.
 
@@ -340,7 +333,7 @@ Switzerland also has an economic system for garbage disposal, which is based mos
 
 Demographics
 
-Bevölkerungsdichte_der_Schweiz_2016.png Ausländeranteil_der_Schweiz_2016.png In 2018, Switzerland's population slightly exceeded 8.5 million. In common with other developed countries, the Swiss population increased rapidly during the industrial era, quadrupling between 1800 and 1990. Growth has since stabilised, and like most of Europe, Switzerland faces an ageing population, albeit with consistent annual growth projected into 2035, due mostly to immigration and a fertility rate close to replacement level.[242] Switzerland subsequently has one of the oldest populations in the world, with the average age of 42.5 years.[243]
+In 2018, Switzerland's population slightly exceeded 8.5 million. In common with other developed countries, the Swiss population increased rapidly during the industrial era, quadrupling between 1800 and 1990. Growth has since stabilised, and like most of Europe, Switzerland faces an ageing population, albeit with consistent annual growth projected into 2035, due mostly to immigration and a fertility rate close to replacement level.[242] Switzerland subsequently has one of the oldest populations in the world, with the average age of 42.5 years.[243]
 
 , resident foreigners made up 23.3% of the population, one of the largest proportions in the developed world.[244] Most of these (64%) were from European Union or EFTA countries.[245] Italians were the largest single group of foreigners, with 15.6% of total foreign population, followed closely by Germans (15.2%), immigrants from Portugal (12.7%), France (5.6%), Serbia (5.3%), Turkey (3.8%), Spain (3.7%), and Austria (2%). Immigrants from Sri Lanka, most of them former Tamil refugees, were the largest group among people of Asian origin (6.3%).[246]
 
@@ -350,31 +343,29 @@ In the 2000s, domestic and international institutions expressed concern about wh
 
 Languages
 
-National languages in Switzerland (2016): [249]
+Switzerland has four national languages: mainly German (spoken by 62.8% of the population in 2016); French (22.9%) in the west; and Italian (8.2%) in the south.[249][250] The fourth national language, Romansh (0.5%), is a Romance language spoken locally in the southeastern trilingual canton of Grisons, and is designated by Article 4 of the Federal Constitution as a national language along with German, French, and Italian, and in Article 70 as an official language if the authorities communicate with persons who speak Romansh. However, federal laws and other official acts do not need to be decreed in Romansh.
 
-Switzerland has four national languages: mainly German (spoken by 62.8% of the population in 2016); French (22.9%) in the west; and Italian (8.2%) in the south.[250][251] The fourth national language, Romansh (0.5%), is a Romance language spoken locally in the southeastern trilingual canton of Grisons, and is designated by Article 4 of the Federal Constitution as a national language along with German, French, and Italian, and in Article 70 as an official language if the authorities communicate with persons who speak Romansh. However, federal laws and other official acts do not need to be decreed in Romansh.
+In 2016, the languages most spoken at home among permanent residents aged 15 and older were Swiss German (59.4%), French (23.5%), Standard German (10.6%), and Italian (8.5%). Other languages spoken at home included English (5.0%), Portuguese (3.8%), Albanian (3.0%), Spanish (2.6%) and Serbian and Croatian (2.5%). 6.9% reported speaking another language at home.[251] In 2014 almost two-thirds (64.4%) of the permanent resident population indicated speaking more than one language regularly.[252]
 
-In 2016, the languages most spoken at home among permanent residents aged 15 and older were Swiss German (59.4%), French (23.5%), Standard German (10.6%), and Italian (8.5%). Other languages spoken at home included English (5.0%), Portuguese (3.8%), Albanian (3.0%), Spanish (2.6%) and Serbian and Croatian (2.5%). 6.9% reported speaking another language at home.[252] In 2014 almost two-thirds (64.4%) of the permanent resident population indicated speaking more than one language regularly.[253]
+The federal government is obliged to communicate in the official languages, and in the federal parliament simultaneous translation is provided from and into German, French and Italian.[253]
 
-The federal government is obliged to communicate in the official languages, and in the federal parliament simultaneous translation is provided from and into German, French and Italian.[254]
+Aside from the official forms of their respective languages, the four linguistic regions of Switzerland also have their local dialectal forms. The role played by dialects in each linguistic region varies dramatically: in the German-speaking regions, Swiss German dialects have become ever more prevalent since the second half of the 20th century, especially in the media, such as radio and television, and are used as an everyday language for many, while the Swiss variety of Standard German is almost always used instead of dialect for written communication (c.f. diglossic usage of a language).[254] Conversely, in the French-speaking regions the local dialects have almost disappeared (only 6.3% of the population of Valais, 3.9% of Fribourg, and 3.1% of Jura still spoke dialects at the end of the 20th century), while in the Italian-speaking regions dialects are mostly limited to family settings and casual conversation.[255]
 
-Aside from the official forms of their respective languages, the four linguistic regions of Switzerland also have their local dialectal forms. The role played by dialects in each linguistic region varies dramatically: in the German-speaking regions, Swiss German dialects have become ever more prevalent since the second half of the 20th century, especially in the media, such as radio and television, and are used as an everyday language for many, while the Swiss variety of Standard German is almost always used instead of dialect for written communication (c.f. diglossic usage of a language).[255] Conversely, in the French-speaking regions the local dialects have almost disappeared (only 6.3% of the population of Valais, 3.9% of Fribourg, and 3.1% of Jura still spoke dialects at the end of the 20th century), while in the Italian-speaking regions dialects are mostly limited to family settings and casual conversation.[256]
+The principal official languages (German, French, and Italian) have terms, not used outside of Switzerland, known as Helvetisms. German Helvetisms are, roughly speaking, a large group of words typical of Swiss Standard German, which do not appear either in Standard German, nor in other German dialects. These include terms from Switzerland's surrounding language cultures (German _Billett_[256] from French), from similar terms in another language (Italian _azione_ used not only as _act_ but also as _discount_ from German _Aktion_).[257] The French spoken in Switzerland has similar terms, which are equally known as Helvetisms. The most frequent characteristics of Helvetisms are in vocabulary, phrases, and pronunciation, but certain Helvetisms denote themselves as special in syntax and orthography likewise. Duden, the comprehensive German dictionary, contains about 3000 Helvetisms.[258] Current French dictionaries, such as the Petit Larousse, include several hundred Helvetisms.[259]
 
-The principal official languages (German, French, and Italian) have terms, not used outside of Switzerland, known as Helvetisms. German Helvetisms are, roughly speaking, a large group of words typical of Swiss Standard German, which do not appear either in Standard German, nor in other German dialects. These include terms from Switzerland's surrounding language cultures (German _Billett_[257] from French), from similar terms in another language (Italian _azione_ used not only as _act_ but also as _discount_ from German _Aktion_).[258] The French spoken in Switzerland has similar terms, which are equally known as Helvetisms. The most frequent characteristics of Helvetisms are in vocabulary, phrases, and pronunciation, but certain Helvetisms denote themselves as special in syntax and orthography likewise. Duden, the comprehensive German dictionary, contains about 3000 Helvetisms.[259] Current French dictionaries, such as the Petit Larousse, include several hundred Helvetisms.[260]
-
-Learning one of the other national languages at school is compulsory for all Swiss pupils, so many Swiss are supposed to be at least bilingual, especially those belonging to linguistic minority groups.[261]
+Learning one of the other national languages at school is compulsory for all Swiss pupils, so many Swiss are supposed to be at least bilingual, especially those belonging to linguistic minority groups.[260]
 
 Health
 
-Swiss residents are universally required to buy health insurance from private insurance companies, which in turn are required to accept every applicant. While the cost of the system is among the highest, it compares well with other European countries in terms of health outcomes; patients have been reported as being, in general, highly satisfied with it.[262][263][264] In 2012, life expectancy at birth was 80.4 years for men and 84.7 years for women[265] — the highest in the world.[266][267] However, spending on health is particularly high at 11.4% of GDP (2010), on par with Germany and France (11.6%) and other European countries, but notably less than spending in the USA (17.6%).[268] From 1990, a steady increase can be observed, reflecting the high costs of the services provided.[269] With an ageing population and new healthcare technologies, health spending will likely continue to rise.[270]
+Swiss residents are universally required to buy health insurance from private insurance companies, which in turn are required to accept every applicant. While the cost of the system is among the highest, it compares well with other European countries in terms of health outcomes; patients have been reported as being, in general, highly satisfied with it.[261][262][263] In 2012, life expectancy at birth was 80.4 years for men and 84.7 years for women[264] — the highest in the world.[265][266] However, spending on health is particularly high at 11.4% of GDP (2010), on par with Germany and France (11.6%) and other European countries, but notably less than spending in the USA (17.6%).[267] From 1990, a steady increase can be observed, reflecting the high costs of the services provided.[268] With an ageing population and new healthcare technologies, health spending will likely continue to rise.[269]
 
 Urbanisation
 
 Towns of Switzerland}}
 
-Sion_de_la_Bisse_de_Clavau.jpg (outskirts of Sion)]] Between two thirds and three quarters of the population live in urban areas.[271][272] Switzerland has gone from a largely rural country to an urban one in just 70 years. Since 1935 urban development has claimed as much of the Swiss landscape as it did during the previous 2,000 years. This urban sprawl does not only affect the plateau but also the Jura and the Alpine foothills[273] and there are growing concerns about land use.[274] However, from the beginning of the 21st century, the population growth in urban areas is higher than in the countryside.[275]
+(outskirts of Sion)]] Between two thirds and three quarters of the population live in urban areas.[270][271] Switzerland has gone from a largely rural country to an urban one in just 70 years. Since 1935 urban development has claimed as much of the Swiss landscape as it did during the previous 2,000 years. This urban sprawl does not only affect the plateau but also the Jura and the Alpine foothills[272] and there are growing concerns about land use.[273] However, from the beginning of the 21st century, the population growth in urban areas is higher than in the countryside.[274]
 
-Switzerland has a dense network of towns, where large, medium and small towns are complementary.[276] The plateau is very densely populated with about 450 people per km² and the landscape continually shows signs of human presence.[277] The weight of the largest metropolitan areas, which are Zürich, Geneva–Lausanne, Basel and Bern tend to increase.[278] In international comparison the importance of these urban areas is stronger than their number of inhabitants suggests.[279] In addition the two main centres of Zürich and Geneva are recognised for their particularly great quality of life.[280]
+Switzerland has a dense network of towns, where large, medium and small towns are complementary.[275] The plateau is very densely populated with about 450 people per km² and the landscape continually shows signs of human presence.[276] The weight of the largest metropolitan areas, which are Zürich, Geneva–Lausanne, Basel and Bern tend to increase.[277] In international comparison the importance of these urban areas is stronger than their number of inhabitants suggests.[278] In addition the two main centres of Zürich and Geneva are recognised for their particularly great quality of life.[279]
 
 Largest towns
 
@@ -397,70 +388,70 @@ Religion
   _Other non-Christian faith_   ''{{bartable|0.3
   UNAFFILIATED                  '''{{bartable|24.0
 
-  : style="font-size:100%" | Religion (age 15+) in Switzerland – 2016[281]
+  : style="font-size:100%" | Religion (age 15+) in Switzerland – 2016[280]
 
-Switzerland has no official state religion, though most of the cantons (except Geneva and Neuchâtel) recognise official churches, which are either the Roman Catholic Church or the Swiss Reformed Church. These churches, and in some cantons also the Old Catholic Church and Jewish congregations, are financed by official taxation of adherents.[282]
+Switzerland has no official state religion, though most of the cantons (except Geneva and Neuchâtel) recognise official churches, which are either the Roman Catholic Church or the Swiss Reformed Church. These churches, and in some cantons also the Old Catholic Church and Jewish congregations, are financed by official taxation of adherents.[281]
 
-Christianity is the predominant religion of Switzerland (about 68% of resident population in 2016[283] and 75% of Swiss citizens[284]), divided between the Roman Catholic Church (37.2% of the population), the Swiss Reformed Church (25.0%), further Protestant churches (2.2%), Eastern Orthodoxy (around 2%), and other Christian denominations (1.3%).[285] Immigration has established Islam (5.1%) as a sizeable minority religion.[286]
+Christianity is the predominant religion of Switzerland (about 68% of resident population in 2016[282] and 75% of Swiss citizens[283]), divided between the Roman Catholic Church (37.2% of the population), the Swiss Reformed Church (25.0%), further Protestant churches (2.2%), Eastern Orthodoxy (around 2%), and other Christian denominations (1.3%).[284] Immigration has established Islam (5.1%) as a sizeable minority religion.[285]
 
-24% of Swiss permanent residents are not affiliated with any church (Atheism, Agnosticism, and others).[287]
+24% of Swiss permanent residents are not affiliated with any church (Atheism, Agnosticism, and others).[286]
 
-As of the 2000 census other Christian minority communities included Neo-Pietism (0.44%), Pentecostalism (0.28%, mostly incorporated in the Schweizer Pfingstmission), Methodism (0.13%), the New Apostolic Church (0.45%), Jehovah's Witnesses (0.28%), other Protestant denominations (0.20%), the Old Catholic Church (0.18%), other Christian denominations (0.20%). Non-Christian religions are Hinduism (0.38%), Buddhism (0.29%), Judaism (0.25%) and others (0.11%); 4.3% did not make a statement.[288]
+As of the 2000 census other Christian minority communities included Neo-Pietism (0.44%), Pentecostalism (0.28%, mostly incorporated in the Schweizer Pfingstmission), Methodism (0.13%), the New Apostolic Church (0.45%), Jehovah's Witnesses (0.28%), other Protestant denominations (0.20%), the Old Catholic Church (0.18%), other Christian denominations (0.20%). Non-Christian religions are Hinduism (0.38%), Buddhism (0.29%), Judaism (0.25%) and others (0.11%); 4.3% did not make a statement.[287]
 
-The country was historically about evenly balanced between Catholic and Protestant, with a complex patchwork of majorities over most of the country. Switzerland played an exceptional role during the Reformation as it became home to many reformers. Geneva converted to Protestantism in 1536, just before John Calvin arrived there. In 1541, he founded the _Republic of Geneva_ on his own ideals. It became known internationally as the _Protestant Rome_, and housed such reformers as Theodore Beza, William Farel or Pierre Viret. Zürich became another stronghold around the same time, with Huldrych Zwingli and Heinrich Bullinger taking the lead there. Anabaptists Felix Manz and Conrad Grebel also operated there. They were later joined by the fleeing Peter Martyr Vermigli and Hans Denck. Other centres included Basel (Andreas Karlstadt and Johannes Oecolampadius), Berne (Berchtold Haller and Niklaus Manuel), and St. Gallen (Joachim Vadian). One canton, Appenzell, was officially divided into Catholic and Protestant sections in 1597. The larger cities and their cantons (Bern, Geneva, Lausanne, Zürich and Basel) used to be predominantly Protestant. Central Switzerland, the Valais, the Ticino, Appenzell Innerrhodes, the Jura, and Fribourg are traditionally Catholic. The Swiss Constitution of 1848, under the recent impression of the clashes of Catholic vs. Protestant cantons that culminated in the Sonderbundskrieg, consciously defines a consociational state, allowing the peaceful co-existence of Catholics and Protestants. A 1980 initiative calling for the complete separation of church and state was rejected by 78.9% of the voters.[289] Some traditionally Protestant cantons and cities nowadays have a slight Catholic majority, not because they were growing in members, quite the contrary, but only because since about 1970 a steadily growing minority became not affiliated with any church or other religious body (21.4% in Switzerland, 2012) especially in traditionally Protestant regions, such as Basel-City (42%), canton of Neuchâtel (38%), canton of Geneva (35%), canton of Vaud (26%), or Zürich city (city: >25%; canton: 23%).[290]
+The country was historically about evenly balanced between Catholic and Protestant, with a complex patchwork of majorities over most of the country. Switzerland played an exceptional role during the Reformation as it became home to many reformers. Geneva converted to Protestantism in 1536, just before John Calvin arrived there. In 1541, he founded the _Republic of Geneva_ on his own ideals. It became known internationally as the _Protestant Rome_, and housed such reformers as Theodore Beza, William Farel or Pierre Viret. Zürich became another stronghold around the same time, with Huldrych Zwingli and Heinrich Bullinger taking the lead there. Anabaptists Felix Manz and Conrad Grebel also operated there. They were later joined by the fleeing Peter Martyr Vermigli and Hans Denck. Other centres included Basel (Andreas Karlstadt and Johannes Oecolampadius), Berne (Berchtold Haller and Niklaus Manuel), and St. Gallen (Joachim Vadian). One canton, Appenzell, was officially divided into Catholic and Protestant sections in 1597. The larger cities and their cantons (Bern, Geneva, Lausanne, Zürich and Basel) used to be predominantly Protestant. Central Switzerland, the Valais, the Ticino, Appenzell Innerrhodes, the Jura, and Fribourg are traditionally Catholic. The Swiss Constitution of 1848, under the recent impression of the clashes of Catholic vs. Protestant cantons that culminated in the Sonderbundskrieg, consciously defines a consociational state, allowing the peaceful co-existence of Catholics and Protestants. A 1980 initiative calling for the complete separation of church and state was rejected by 78.9% of the voters.[288] Some traditionally Protestant cantons and cities nowadays have a slight Catholic majority, not because they were growing in members, quite the contrary, but only because since about 1970 a steadily growing minority became not affiliated with any church or other religious body (21.4% in Switzerland, 2012) especially in traditionally Protestant regions, such as Basel-City (42%), canton of Neuchâtel (38%), canton of Geneva (35%), canton of Vaud (26%), or Zürich city (city: >25%; canton: 23%).[289]
 
 
 Culture
 
-Vals06.JPG concert in Vals]] Three of Europe's major languages are official in Switzerland. Swiss culture is characterised by diversity, which is reflected in a wide range of traditional customs.[291] A region may be in some ways strongly culturally connected to the neighbouring country that shares its language, the country itself being rooted in western European culture.[292] The linguistically isolated Romansh culture in Graubünden in eastern Switzerland constitutes an exception, it survives only in the upper valleys of the Rhine and the Inn and strives to maintain its rare linguistic tradition.
+concert in Vals]] Three of Europe's major languages are official in Switzerland. Swiss culture is characterised by diversity, which is reflected in a wide range of traditional customs.[290] A region may be in some ways strongly culturally connected to the neighbouring country that shares its language, the country itself being rooted in western European culture.[291] The linguistically isolated Romansh culture in Graubünden in eastern Switzerland constitutes an exception, it survives only in the upper valleys of the Rhine and the Inn and strives to maintain its rare linguistic tradition.
 
-Switzerland is home to many notable contributors to literature, art, architecture, music and sciences. In addition the country attracted a number of creative persons during time of unrest or war in Europe.[293] Some 1000 museums are distributed through the country; the number has more than tripled since 1950.[294] Among the most important cultural performances held annually are the Paléo Festival, Lucerne Festival,[295] the Montreux Jazz Festival,[296] the Locarno International Film Festival and the Art Basel.[297]
+Switzerland is home to many notable contributors to literature, art, architecture, music and sciences. In addition the country attracted a number of creative persons during time of unrest or war in Europe.[292] Some 1000 museums are distributed through the country; the number has more than tripled since 1950.[293] Among the most important cultural performances held annually are the Paléo Festival, Lucerne Festival,[294] the Montreux Jazz Festival,[295] the Locarno International Film Festival and the Art Basel.[296]
 
-Alpine symbolism has played an essential role in shaping the history of the country and the Swiss national identity.[298][299] Nowadays some concentrated mountain areas have a strong highly energetic ski resort culture in winter, and a hiking () or Mountain biking culture in summer. Other areas throughout the year have a recreational culture that caters to tourism, yet the quieter seasons are spring and autumn when there are fewer visitors. A traditional farmer and herder culture also predominates in many areas and small farms are omnipresent outside the towns. Folk art is kept alive in organisations all over the country. In Switzerland it is mostly expressed in music, dance, poetry, wood carving and embroidery. The alphorn, a trumpet-like musical instrument made of wood, has become alongside yodeling and the accordion an epitome of traditional Swiss music.[300][301]
+Alpine symbolism has played an essential role in shaping the history of the country and the Swiss national identity.[297][298] Nowadays some concentrated mountain areas have a strong highly energetic ski resort culture in winter, and a hiking () or Mountain biking culture in summer. Other areas throughout the year have a recreational culture that caters to tourism, yet the quieter seasons are spring and autumn when there are fewer visitors. A traditional farmer and herder culture also predominates in many areas and small farms are omnipresent outside the towns. Folk art is kept alive in organisations all over the country. In Switzerland it is mostly expressed in music, dance, poetry, wood carving and embroidery. The alphorn, a trumpet-like musical instrument made of wood, has become alongside yodeling and the accordion an epitome of traditional Swiss music.[299][300]
 
 Literature
 
-Rousseau_Geneve.JPG was not only a writer but also an influential philosopher of the eighteenth century[302] (his statue in Geneva).]] As the Confederation, from its foundation in 1291, was almost exclusively composed of German-speaking regions, the earliest forms of literature are in German. In the 18th century, French became the fashionable language in Bern and elsewhere, while the influence of the French-speaking allies and subject lands was more marked than before.[303]
+was not only a writer but also an influential philosopher of the eighteenth century[301] (his statue in Geneva).]] As the Confederation, from its foundation in 1291, was almost exclusively composed of German-speaking regions, the earliest forms of literature are in German. In the 18th century, French became the fashionable language in Bern and elsewhere, while the influence of the French-speaking allies and subject lands was more marked than before.[302]
 
-Among the classic authors of Swiss German literature are Jeremias Gotthelf (1797–1854) and Gottfried Keller (1819–1890). The undisputed giants of 20th-century Swiss literature are Max Frisch (1911–91) and Friedrich Dürrenmatt (1921–90), whose repertoire includes _Die Physiker_ (The Physicists) and _Das Versprechen_ (The Pledge), released in 2001 as a Hollywood film.[304]
+Among the classic authors of Swiss German literature are Jeremias Gotthelf (1797–1854) and Gottfried Keller (1819–1890). The undisputed giants of 20th-century Swiss literature are Max Frisch (1911–91) and Friedrich Dürrenmatt (1921–90), whose repertoire includes _Die Physiker_ (The Physicists) and _Das Versprechen_ (The Pledge), released in 2001 as a Hollywood film.[303]
 
-Famous French-speaking writers were Jean-Jacques Rousseau (1712–1778) and Germaine de Staël (1766–1817). More recent authors include Charles Ferdinand Ramuz (1878–1947), whose novels describe the lives of peasants and mountain dwellers, set in a harsh environment and Blaise Cendrars (born Frédéric Sauser, 1887–1961).[305] Italian and Romansh-speaking authors also contributed to the Swiss literary landscape, but generally in more modest ways given their small number.
+Famous French-speaking writers were Jean-Jacques Rousseau (1712–1778) and Germaine de Staël (1766–1817). More recent authors include Charles Ferdinand Ramuz (1878–1947), whose novels describe the lives of peasants and mountain dwellers, set in a harsh environment and Blaise Cendrars (born Frédéric Sauser, 1887–1961).[304] Italian and Romansh-speaking authors also contributed to the Swiss literary landscape, but generally in more modest ways given their small number.
 
-Probably the most famous Swiss literary creation, _Heidi_, the story of an orphan girl who lives with her grandfather in the Alps, is one of the most popular children's books ever and has come to be a symbol of Switzerland. Her creator, Johanna Spyri (1827–1901), wrote a number of other books on similar themes.[306]
+Probably the most famous Swiss literary creation, _Heidi_, the story of an orphan girl who lives with her grandfather in the Alps, is one of the most popular children's books ever and has come to be a symbol of Switzerland. Her creator, Johanna Spyri (1827–1901), wrote a number of other books on similar themes.[305]
 
 Media
 
-The freedom of the press and the right to free expression is guaranteed in the federal constitution of Switzerland.[307] The Swiss News Agency (SNA) broadcasts information around-the-clock in three of the four national languages—on politics, economics, society and culture. The SNA supplies almost all Swiss media and a couple dozen foreign media services with its news.[308]
+The freedom of the press and the right to free expression is guaranteed in the federal constitution of Switzerland.[306] The Swiss News Agency (SNA) broadcasts information around-the-clock in three of the four national languages—on politics, economics, society and culture. The SNA supplies almost all Swiss media and a couple dozen foreign media services with its news.[307]
 
-Switzerland has historically boasted the greatest number of newspaper titles published in proportion to its population and size.[309] The most influential newspapers are the German-language Tages-Anzeiger and Neue Zürcher Zeitung NZZ, and the French-language Le Temps, but almost every city has at least one local newspaper. The cultural diversity accounts for a large number of newspapers.[310]
+Switzerland has historically boasted the greatest number of newspaper titles published in proportion to its population and size.[308] The most influential newspapers are the German-language Tages-Anzeiger and Neue Zürcher Zeitung NZZ, and the French-language Le Temps, but almost every city has at least one local newspaper. The cultural diversity accounts for a large number of newspapers.[309]
 
-The government exerts greater control over broadcast media than print media, especially due to finance and licensing.[311] The Swiss Broadcasting Corporation, whose name was recently changed to SRG SSR, is charged with the production and broadcast of radio and television programmes. SRG SSR studios are distributed throughout the various language regions. Radio content is produced in six central and four regional studios while the television programmes are produced in Geneva, Zürich, and Lugano. An extensive cable network also allows most Swiss to access the programmes from neighbouring countries.[312]
+The government exerts greater control over broadcast media than print media, especially due to finance and licensing.[310] The Swiss Broadcasting Corporation, whose name was recently changed to SRG SSR, is charged with the production and broadcast of radio and television programmes. SRG SSR studios are distributed throughout the various language regions. Radio content is produced in six central and four regional studios while the television programmes are produced in Geneva, Zürich, and Lugano. An extensive cable network also allows most Swiss to access the programmes from neighbouring countries.[311]
 
 Sports
 
-Allalinhorn_4027_2007_04_17.JPG]] Skiing, snowboarding and mountaineering are among the most popular sports in Switzerland, the nature of the country being particularly suited for such activities.[313] Winter sports are practised by the natives and tourists since the second half of the 19th century with the invention of bobsleigh in St. Moritz.[314] The first world ski championships were held in Mürren (1931) and St. Moritz (1934). The latter town hosted the second Winter Olympic Games in 1928 and the fifth edition in 1948. Among the most successful skiers and world champions are Pirmin Zurbriggen and Didier Cuche.
+]] Skiing, snowboarding and mountaineering are among the most popular sports in Switzerland, the nature of the country being particularly suited for such activities.[312] Winter sports are practised by the natives and tourists since the second half of the 19th century with the invention of bobsleigh in St. Moritz.[313] The first world ski championships were held in Mürren (1931) and St. Moritz (1934). The latter town hosted the second Winter Olympic Games in 1928 and the fifth edition in 1948. Among the most successful skiers and world champions are Pirmin Zurbriggen and Didier Cuche.
 
-The most prominently watched sports in Switzerland are football, ice hockey, Alpin skiing, "Schwingen", and tennis.[315]
+The most prominently watched sports in Switzerland are football, ice hockey, Alpin skiing, "Schwingen", and tennis.[314]
 
 The headquarters of the international football's and ice hockey's governing bodies, the International Federation of Association Football (FIFA) and International Ice Hockey Federation (IIHF), are located in Zürich. Actually many other headquarters of international sports federations are located in Switzerland. For example, the International Olympic Committee (IOC), IOC's Olympic Museum and the Court of Arbitration for Sport (CAS) are located in Lausanne.
 
-Switzerland hosted the 1954 FIFA World Cup, and was the joint host, with Austria, of the UEFA Euro 2008 tournament. The Swiss Super League is the nation's professional football club league. Europe's highest football pitch, at above sea level, is located in Switzerland and is named the _Ottmar Hitzfeld Stadium_.[316]
+Switzerland hosted the 1954 FIFA World Cup, and was the joint host, with Austria, of the UEFA Euro 2008 tournament. The Swiss Super League is the nation's professional football club league. Europe's highest football pitch, at above sea level, is located in Switzerland and is named the _Ottmar Hitzfeld Stadium_.[315]
 
-Many Swiss also follow ice hockey and support one of the 12 teams of the National League, which is the most attended league in Europe.[317] In 2009, Switzerland hosted the IIHF World Championship for the 10th time.[318] It also became World Vice-Champion in 2013 and 2018. The numerous lakes make Switzerland an attractive place for sailing. The largest, Lake Geneva, is the home of the sailing team Alinghi which was the first European team to win the America's Cup in 2003 and which successfully defended the title in 2007. Tennis has become an increasingly popular sport, and Swiss players such as Martina Hingis, Roger Federer, and Stanislas Wawrinka have won multiple Grand Slams.
+Many Swiss also follow ice hockey and support one of the 12 teams of the National League, which is the most attended league in Europe.[316] In 2009, Switzerland hosted the IIHF World Championship for the 10th time.[317] It also became World Vice-Champion in 2013 and 2018. The numerous lakes make Switzerland an attractive place for sailing. The largest, Lake Geneva, is the home of the sailing team Alinghi which was the first European team to win the America's Cup in 2003 and which successfully defended the title in 2007. Tennis has become an increasingly popular sport, and Swiss players such as Martina Hingis, Roger Federer, and Stanislas Wawrinka have won multiple Grand Slams.
 
-Federer_Cincinnati_(2007).jpg has won a record 20 Grand Slam singles titles, making him the most successful men's tennis player ever.[319]]] Motorsport racecourses and events were banned in Switzerland following the 1955 Le Mans disaster with exception to events such as Hillclimbing. During this period, the country still produced successful racing drivers such as Clay Regazzoni, Sébastien Buemi, Jo Siffert, Dominique Aegerter, successful World Touring Car Championship driver Alain Menu, 2014 24 Hours of Le Mans winner Marcel Fässler and 2015 24 Hours Nürburgring winner Nico Müller. Switzerland also won the A1GP World Cup of Motorsport in 2007–08 with driver Neel Jani. Swiss motorcycle racer Thomas Lüthi won the 2005 MotoGP World Championship in the 125cc category. In June 2007 the Swiss National Council, one house of the Federal Assembly of Switzerland, voted to overturn the ban, however the other house, the Swiss Council of States rejected the change and the ban remains in place.[320][321]
+has won a record 20 Grand Slam singles titles, making him the most successful men's tennis player ever.[318]]] Motorsport racecourses and events were banned in Switzerland following the 1955 Le Mans disaster with exception to events such as Hillclimbing. During this period, the country still produced successful racing drivers such as Clay Regazzoni, Sébastien Buemi, Jo Siffert, Dominique Aegerter, successful World Touring Car Championship driver Alain Menu, 2014 24 Hours of Le Mans winner Marcel Fässler and 2015 24 Hours Nürburgring winner Nico Müller. Switzerland also won the A1GP World Cup of Motorsport in 2007–08 with driver Neel Jani. Swiss motorcycle racer Thomas Lüthi won the 2005 MotoGP World Championship in the 125cc category. In June 2007 the Swiss National Council, one house of the Federal Assembly of Switzerland, voted to overturn the ban, however the other house, the Swiss Council of States rejected the change and the ban remains in place.[319][320]
 
-Traditional sports include Swiss wrestling or "Schwingen". It is an old tradition from the rural central cantons and considered the national sport by some. Hornussen is another indigenous Swiss sport, which is like a cross between baseball and golf.[322] Steinstossen is the Swiss variant of stone put, a competition in throwing a heavy stone. Practised only among the alpine population since prehistoric times, it is recorded to have taken place in Basel in the 13th century. It is also central to the Unspunnenfest, first held in 1805, with its symbol the 83.5 stone named _Unspunnenstein_.[323]
+Traditional sports include Swiss wrestling or "Schwingen". It is an old tradition from the rural central cantons and considered the national sport by some. Hornussen is another indigenous Swiss sport, which is like a cross between baseball and golf.[321] Steinstossen is the Swiss variant of stone put, a competition in throwing a heavy stone. Practised only among the alpine population since prehistoric times, it is recorded to have taken place in Basel in the 13th century. It is also central to the Unspunnenfest, first held in 1805, with its symbol the 83.5 stone named _Unspunnenstein_.[322]
 
 Cuisine
 
-Full_cheese_fondue_set_-_in_Switzerland.JPG is melted cheese, into which bread is dipped]] The cuisine of Switzerland is multifaceted. While some dishes such as fondue, raclette or rösti are omnipresent through the country, each region developed its own gastronomy according to the differences of climate and languages.[324][325] Traditional Swiss cuisine uses ingredients similar to those in other European countries, as well as unique dairy products and cheeses such as Gruyère or Emmental, produced in the valleys of Gruyères and Emmental. The number of fine-dining establishments is high, particularly in western Switzerland.[326][327]
+is melted cheese, into which bread is dipped]] The cuisine of Switzerland is multifaceted. While some dishes such as fondue, raclette or rösti are omnipresent through the country, each region developed its own gastronomy according to the differences of climate and languages.[323][324] Traditional Swiss cuisine uses ingredients similar to those in other European countries, as well as unique dairy products and cheeses such as Gruyère or Emmental, produced in the valleys of Gruyères and Emmental. The number of fine-dining establishments is high, particularly in western Switzerland.[325][326]
 
-Chocolate has been made in Switzerland since the 18th century but it gained its reputation at the end of the 19th century with the invention of modern techniques such as conching and tempering which enabled its production on a high quality level. Also a breakthrough was the invention of solid milk chocolate in 1875 by Daniel Peter. The Swiss are the world's largest consumers of chocolate.[328][329]
+Chocolate has been made in Switzerland since the 18th century but it gained its reputation at the end of the 19th century with the invention of modern techniques such as conching and tempering which enabled its production on a high quality level. Also a breakthrough was the invention of solid milk chocolate in 1875 by Daniel Peter. The Swiss are the world's largest consumers of chocolate.[327][328]
 
 Due to the popularisation of processed foods at the end of the 19th century, Swiss health food pioneer Maximilian Bircher-Benner created the first nutrition-based therapy in form of the well-known rolled oats cereal dish, called Birchermüesli.
 
-The most popular alcoholic drink in Switzerland is wine. Switzerland is notable for the variety of grapes grown because of the large variations in terroirs, with their specific mixes of soil, air, altitude and light. Swiss wine is produced mainly in Valais, Vaud (Lavaux), Geneva and Ticino, with a small majority of white wines. Vineyards have been cultivated in Switzerland since the Roman era, even though certain traces can be found of a more ancient origin. The most widespread varieties are the Chasselas (called Fendant in Valais) and Pinot noir. The Merlot is the main variety produced in Ticino.[330][331]
+The most popular alcoholic drink in Switzerland is wine. Switzerland is notable for the variety of grapes grown because of the large variations in terroirs, with their specific mixes of soil, air, altitude and light. Swiss wine is produced mainly in Valais, Vaud (Lavaux), Geneva and Ticino, with a small majority of white wines. Vineyards have been cultivated in Switzerland since the Roman era, even though certain traces can be found of a more ancient origin. The most widespread varieties are the Chasselas (called Fendant in Valais) and Pinot noir. The Merlot is the main variety produced in Ticino.[329][330]
 
 
 See also
@@ -1027,31 +1018,31 @@ Switzerland Category:Central European countries Category:Federal republics Categ
 
 [267]
 
-[268]
+[268] OECD and WHO survey of Switzerland's health system oecd.org. Retrieved on 29 June 2009
 
-[269] OECD and WHO survey of Switzerland's health system oecd.org. Retrieved on 29 June 2009
+[269]
 
-[270]
+[270] Where people live swissworld.org. Retrieved on 26 June 2009
 
-[271] Where people live swissworld.org. Retrieved on 26 June 2009
+[271] Städte und Agglomerationen unter der Lupe admin.ch. Retrieved on 26 June 2009
 
-[272] Städte und Agglomerationen unter der Lupe admin.ch. Retrieved on 26 June 2009
+[272] Swiss countryside succumbs to urban sprawl swissinfo.ch. Retrieved on 30 June 2009
 
-[273] Swiss countryside succumbs to urban sprawl swissinfo.ch. Retrieved on 30 June 2009
+[273] Enquête représentative sur l'urbanisation de la Suisse (Pronatura) gfs-zh.ch. Retrieved on 30 June 2009
 
-[274] Enquête représentative sur l'urbanisation de la Suisse (Pronatura) gfs-zh.ch. Retrieved on 30 June 2009
+[274]
 
 [275]
 
-[276]
+[276] Swiss plateau swissworld.org. Retrieved on 29 June 2009
 
-[277] Swiss plateau swissworld.org. Retrieved on 29 June 2009
+[277]
 
 [278]
 
-[279]
+[279] Quality of living mercer.com. Retrieved on 26 June 2009
 
-[280] Quality of living mercer.com. Retrieved on 26 June 2009
+[280]
 
 [281]
 
@@ -1067,59 +1058,59 @@ Switzerland Category:Central European countries Category:Federal republics Categ
 
 [287]
 
-[288]
+[288] Volksabstimmung vom 2. März 1980 admin.ch. Retrieved on 2010
 
-[289] Volksabstimmung vom 2. März 1980 admin.ch. Retrieved on 2010
+[289]
 
-[290]
+[290] Swiss culture swissworld.org. Retrieved on 1 December 2009
 
-[291] Swiss culture swissworld.org. Retrieved on 1 December 2009
+[291] European Year of Intercultural Dialogue Dr Michael Reiterer. Retrieved on 1 December 2009
 
-[292] European Year of Intercultural Dialogue Dr Michael Reiterer. Retrieved on 1 December 2009
+[292] Switzerland: culture traveldocs.com. Retrieved on 1 December 2009
 
-[293] Switzerland: culture traveldocs.com. Retrieved on 1 December 2009
+[293] Museums swissworld.org. Retrieved on 2 December 2009
 
-[294] Museums swissworld.org. Retrieved on 2 December 2009
+[294] Lucerne Festival nytimes.com. Retrieved on 15 December 2010
 
-[295] Lucerne Festival nytimes.com. Retrieved on 15 December 2010
+[295] Montreux Jazz Festival Retrieved on 26 August 2013
 
-[296] Montreux Jazz Festival Retrieved on 26 August 2013
+[296] Film festivals swissworld.org. Retrieved on 2 December 2009
 
-[297] Film festivals swissworld.org. Retrieved on 2 December 2009
+[297]
 
-[298]
+[298] Mountains and hedgehogs . swissworld.org. Retrieved on 1 December 2009
 
-[299] Mountains and hedgehogs . swissworld.org. Retrieved on 1 December 2009
+[299] Folk music swissworld.org. Retrieved on 2 December 2009
 
-[300] Folk music swissworld.org. Retrieved on 2 December 2009
+[300] Culture of Switzerland europe-cities.com. Retrieved on 14 December 2009
 
-[301] Culture of Switzerland europe-cities.com. Retrieved on 14 December 2009
+[301] Art in literature cp-pc.ca. Retrieved on 14 December 2009
 
-[302] Art in literature cp-pc.ca. Retrieved on 14 December 2009
+[302] From Encyclopædia Britannica Eleventh Edition, Swiss literature
 
-[303] From Encyclopædia Britannica Eleventh Edition, Swiss literature
+[303] Literature swissworld.org, Retrieved on 23 June 2009
 
-[304] Literature swissworld.org, Retrieved on 23 June 2009
+[304]
 
 [305]
 
-[306]
+[306] Press and the media ch.ch. Retrieved on 25 June 2009
 
-[307] Press and the media ch.ch. Retrieved on 25 June 2009
+[307]
 
-[308]
+[308] Press in Switzerland pressreference.com. Retrieved on 25 June 2009
 
-[309] Press in Switzerland pressreference.com. Retrieved on 25 June 2009
+[309]
 
 [310]
 
 [311]
 
-[312]
+[312] Sport in Switzerland europe-cities.com. Retrieved on 14 December 2009
 
-[313] Sport in Switzerland europe-cities.com. Retrieved on 14 December 2009
+[313] A brief history of bobsleigh fibt.com. Retrieved on 2 November 2009
 
-[314] A brief history of bobsleigh fibt.com. Retrieved on 2 November 2009
+[314]
 
 [315]
 
@@ -1127,30 +1118,28 @@ Switzerland Category:Central European countries Category:Federal republics Categ
 
 [317]
 
-[318]
+[318] Roger Federer's Grand Slam Titles sportsillustrated.cnn.com. Retrieved on 14 June 2010
 
-[319] Roger Federer's Grand Slam Titles sportsillustrated.cnn.com. Retrieved on 14 June 2010
+[319] Wikinews:Switzerland lifts ban on motor racing
 
-[320] Wikinews:Switzerland lifts ban on motor racing
+[320]
 
-[321]
+[321] Hornussen swissroots.org. Retrieved on 25 January 2010
 
-[322] Hornussen swissroots.org. Retrieved on 25 January 2010
+[322] Tradition and history interlaken.ch. Retrieved on 25 January 2010
 
-[323] Tradition and history interlaken.ch. Retrieved on 25 January 2010
+[323] Zürcher Geschnetzeltes _Zürcher Geschnetzeltes_, engl.: sliced meat Zürich style
 
-[324] Zürcher Geschnetzeltes _Zürcher Geschnetzeltes_, engl.: sliced meat Zürich style
+[324] Flavors of Switzerland theworldwidegourmet.com. Retrieved on 24 June 2009
 
-[325] Flavors of Switzerland theworldwidegourmet.com. Retrieved on 24 June 2009
+[325] Michelin Guide Switzerland 2010 attests to the high quality of gourmet cooking with one new 2 star restaurant and 8 new one star Press information, Michelin. Retrieved on 14 December 2009
 
-[326] Michelin Guide Switzerland 2010 attests to the high quality of gourmet cooking with one new 2 star restaurant and 8 new one star Press information, Michelin. Retrieved on 14 December 2009
+[326] Swiss region serves up food with star power usatoday.com. Retrieved on 14 December 2009
 
-[327] Swiss region serves up food with star power usatoday.com. Retrieved on 14 December 2009
+[327] Chocolate swissworld.org. Retrieved on 24 June 2009
 
-[328] Chocolate swissworld.org. Retrieved on 24 June 2009
+[328] Swiss Chocolate germanworldonline.com (4 December 2009). Retrieved on 14 June 2010
 
-[329] Swiss Chocolate germanworldonline.com (4 December 2009). Retrieved on 14 June 2010
+[329] Wine-producing Switzerland in short swisswine.ch. Retrieved on 24 June 2009
 
-[330] Wine-producing Switzerland in short swisswine.ch. Retrieved on 24 June 2009
-
-[331] Table 38. Top wine consuming nations per capita, 2006 winebiz.com. Retrieved on 14 June 2010
+[330] Table 38. Top wine consuming nations per capita, 2006 winebiz.com. Retrieved on 14 June 2010

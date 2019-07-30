@@ -9,7 +9,7 @@ In 1967, readers of _Melody Maker_ voted Hendrix the Pop Musician of the Year, a
 
 Ancestry and childhood
 
-Bertran_Philander_Ross_Hendrix_and_Zenora_"Nora"_Rose_Hendrix.jpg Jimi Hendrix had a diverse heritage.[3][4] His paternal grandmother, Zenora "Nora" Rose Moore, was African American and one-quarter Cherokee. Hendrix's paternal grandfather, Bertran Philander Ross Hendrix (born 1866), was born out of an extramarital affair between a woman named Fanny, and a grain merchant from Urbana, Ohio, or Illinois, one of the wealthiest men in the area at that time.[5] After Hendrix and Moore relocated to Vancouver, British Columbia, Canada, they had a son they named James Allen Hendrix on June 10, 1919; the family called him "Al".[6]
+Jimi Hendrix had a diverse heritage.[3][4] His paternal grandmother, Zenora "Nora" Rose Moore, was African American and one-quarter Cherokee. Hendrix's paternal grandfather, Bertran Philander Ross Hendrix (born 1866), was born out of an extramarital affair between a woman named Fanny, and a grain merchant from Urbana, Ohio, or Illinois, one of the wealthiest men in the area at that time.[5] After Hendrix and Moore relocated to Vancouver, British Columbia, Canada, they had a son they named James Allen Hendrix on June 10, 1919; the family called him "Al".[6]
 
 In 1941, after moving to Seattle, Al met Lucille Jeter (1925–1958) at a dance; they married on March 31, 1942.[7] Lucille's father (Jimi's maternal grandfather) was Preston Jeter (born 1875), whose mother was born in similar circumstances as Bertran Philander Ross Hendrix. Lucille's mother, née Clarice Lawson, had African American and Cherokee ancestors. Al, who had been drafted by the U.S. Army to serve in World War II, left to begin his basic training three days after the wedding.[8] Johnny Allen Hendrix was born on November 27, 1942, in Seattle; he was the first of Lucille's five children. In 1946, Johnny's parents changed his name to James Marshall Hendrix, in honor of Al and his late brother Leon Marshall.
 
@@ -29,8 +29,6 @@ Soon after he acquired the acoustic guitar, Hendrix formed his first band, the V
 
 
 Military service
-
-Hendrix_in_Army.jpg
 
 Before Hendrix was 19 years old, law authorities had twice caught him riding in stolen cars. Given a choice between prison or joining the Army, he chose the latter and enlisted on May 31, 1961.[19] After completing eight weeks of basic training at Fort Ord, California, he was assigned to the 101st Airborne Division and stationed at Fort Campbell, Kentucky.[20] He arrived on November 8, and soon afterward he wrote to his father: "There's nothing but physical training and harassment here for two weeks, then when you go to jump school ... you get hell. They work you to death, fussing and fighting." In his next letter home, Hendrix, who had left his guitar at his girlfriend Betty Jean Morgan's house in Seattle, asked his father to send it to him as soon as possible, stating: "I really need it now." His father obliged and sent the red Silvertone Danelectro on which Hendrix had hand-painted the words "Betty Jean" to Fort Campbell.[21] His apparent obsession with the instrument contributed to his neglect of his duties, which led to taunting and physical abuse from his peers, who at least once hid the guitar from him until he had begged for its return. In November 1961, fellow serviceman Billy Cox walked past an army club and heard Hendrix playing. Impressed by Hendrix's technique, which Cox described as a combination of "John Lee Hooker and Beethoven", Cox borrowed a bass guitar and the two jammed. Within weeks, they began performing at base clubs on the weekends with other musicians in a loosely organized band, the Casuals.
 
@@ -59,13 +57,11 @@ Feeling restricted by his experiences as an R&B sideman, Hendrix moved in 1966 t
 
 The Jimi Hendrix Experience
 
-Jimi_Hendrix_experience_1968.jpg
-
 By May 1966, Hendrix was struggling to earn a living wage playing the R&B circuit, so he briefly rejoined Curtis Knight and the Squires for an engagement at one of New York City's most popular nightspots, the Cheetah Club. During a performance, Linda Keith, the girlfriend of Rolling Stones guitarist Keith Richards, noticed Hendrix and was "mesmerised" by his playing. She invited him to join her for a drink, and the two became friends.
 
 While Hendrix was playing with Jimmy James and the Blue Flames, Keith recommended him to Stones manager Andrew Loog Oldham and producer Seymour Stein. They failed to see Hendrix's musical potential, and rejected him. Keith referred him to Chas Chandler, who was leaving the Animals and interested in managing and producing artists.[30] Chandler saw Hendrix play in Cafe Wha?, a Greenwich Village, New York City nightclub.[31] Chandler liked the Billy Roberts song "Hey Joe", and was convinced he could create a hit single with the right artist. Impressed with Hendrix's version of the song, he brought him to London on September 24, 1966,[32] and signed him to a management and production contract with himself and ex-Animals manager Michael Jeffery. On September 24, Hendrix gave an impromptu solo performance at The Scotch of St James, and later that night began a relationship with Kathy Etchingham that lasted for two and a half years.[33]
 
-Jimi_Hendrix_1967_uncropped.jpg Following Hendrix's arrival in London, Chandler began recruiting members for a band designed to highlight his talents, the Jimi Hendrix Experience. Hendrix met guitarist Noel Redding at an audition for the New Animals, where Redding's knowledge of blues progressions impressed Hendrix, who stated that he also liked Redding's hairstyle. Chandler asked Redding if he wanted to play bass guitar in Hendrix's band; Redding agreed. Chandler began looking for a drummer and soon after contacted Mitch Mitchell through a mutual friend. Mitchell, who had recently been fired from Georgie Fame and the Blue Flames, participated in a rehearsal with Redding and Hendrix where they found common ground in their shared interest in rhythm and blues. When Chandler phoned Mitchell later that day to offer him the position, he readily accepted.[34] Chandler also convinced Hendrix to change the spelling of his first name from _Jimmy_ to the more exotic _Jimi_.
+Following Hendrix's arrival in London, Chandler began recruiting members for a band designed to highlight his talents, the Jimi Hendrix Experience. Hendrix met guitarist Noel Redding at an audition for the New Animals, where Redding's knowledge of blues progressions impressed Hendrix, who stated that he also liked Redding's hairstyle. Chandler asked Redding if he wanted to play bass guitar in Hendrix's band; Redding agreed. Chandler began looking for a drummer and soon after contacted Mitch Mitchell through a mutual friend. Mitchell, who had recently been fired from Georgie Fame and the Blue Flames, participated in a rehearsal with Redding and Hendrix where they found common ground in their shared interest in rhythm and blues. When Chandler phoned Mitchell later that day to offer him the position, he readily accepted.[34] Chandler also convinced Hendrix to change the spelling of his first name from _Jimmy_ to the more exotic _Jimi_.
 
 On October 1, 1966, Chandler brought Hendrix to the London Polytechnic at Regent Street, where Cream was scheduled to perform, and where Hendrix and guitarist Eric Clapton met. Clapton later said: "He asked if he could play a couple of numbers. I said, 'Of course', but I had a funny feeling about him." Halfway through Cream's set, Hendrix took the stage and performed a frantic version of the Howlin' Wolf song "Killing Floor". In 1989, Clapton described the performance: "He played just about every style you could think of, and not in a flashy way. I mean he did a few of his tricks, like playing with his teeth and behind his back, but it wasn't in an upstaging sense at all, and that was it ... He walked off, and my life was never the same again".
 
@@ -73,15 +69,11 @@ UK success
 
 In mid-October 1966, Chandler arranged an engagement for the Experience as Johnny Hallyday's supporting act during a brief tour of France. Thus, the Jimi Hendrix Experience performed their very first show on October 13, 1966, at the Novelty in Evreux.[35] Their enthusiastically received 15-minute performance at the Olympia theatre in Paris on October 18 marks the earliest known recording of the band. In late October, Kit Lambert and Chris Stamp, managers of the Who, signed the Experience to their newly formed label, Track Records, and the group recorded their first song, "Hey Joe", on October 23.[36] "Stone Free", which was Hendrix's first songwriting effort after arriving in England, was recorded on November 2.
 
-Banks_Hendrix.jpg
-
 In mid-November, they performed at the Bag O'Nails nightclub in London, with Clapton, John Lennon, Paul McCartney, Jeff Beck, Pete Townshend, Brian Jones, Mick Jagger, and Kevin Ayers in attendance. Ayers described the crowd's reaction as stunned disbelief: "All the stars were there, and I heard serious comments, you know 'shit', 'Jesus', 'damn' and other words worse than that." The performance earned Hendrix his first interview, published in _Record Mirror_ with the headline: "Mr. Phenomenon". "Now hear this ... we predict that [Hendrix] is going to whirl around the business like a tornado", wrote Bill Harry, who asked the rhetorical question: "Is that full, big, swinging sound really being created by only three people?" Hendrix said: "We don't want to be classed in any category ... If it must have a tag, I'd like it to be called, 'Free Feeling'. It's a mixture of rock, freak-out, rave and blues". Through a distribution deal with Polydor Records, the Experience's first single, "Hey Joe", backed with "Stone Free", was released on December 16, 1966. After appearances on the UK television shows _Ready Steady Go!_ and the _Top of the Pops_, "Hey Joe" entered the UK charts on December 29 and peaked at number six.[37] Further success came in March 1967 with the UK number three hit "Purple Haze", and in May with "The Wind Cries Mary", which remained on the UK charts for eleven weeks, peaking at number six. On March 12, 1967, he performed at the Troutbeck Hotel, Ilkley, West Yorkshire, where, after about 900 people turned up (the hotel was licensed for 250) the local police stopped the gig due to safety concerns.[38]
 
 On March 31, 1967, while the Experience waited to perform at the London Astoria, Hendrix and Chandler discussed ways in which they could increase the band's media exposure. When Chandler asked journalist Keith Altham for advice, Altham suggested that they needed to do something more dramatic than the stage show of the Who, which involved the smashing of instruments. Hendrix joked: "Maybe I can smash up an elephant", to which Altham replied: "Well, it's a pity you can't set fire to your guitar". Chandler then asked road manager Gerry Stickells to procure some lighter fluid. During the show, Hendrix gave an especially dynamic performance before setting his guitar on fire at the end of a 45-minute set. In the wake of the stunt, members of London's press labeled Hendrix the "Black Elvis" and the "Wild Man of Borneo".
 
 _Are You Experienced_
-
-Are_You_Experienced_-_US_cover-edit.jpg
 
 After the UK chart success of their first two singles, "Hey Joe" and "Purple Haze", the Experience began assembling material for a full-length LP. Recording began at De Lane Lea Studios and later moved to the prestigious Olympic Studios. The album, _Are You Experienced_, features a diversity of musical styles, including blues tracks such as "Red House" and "Highway Chile", and the R&B song "Remember". It also included the experimental science fiction piece, "Third Stone from the Sun" and the post-modern soundscapes of the title track, with prominent backwards guitar and drums.[39] "I Don't Live Today" served as a medium for Hendrix's guitar feedback improvisation and "Fire" was driven by Mitchell's drumming.
 
@@ -90,8 +82,6 @@ Released in the UK on May 12, 1967, _Are You Experienced_ spent 33 weeks on the 
 In 1989, Noe Goldwasser, the founding editor of _Guitar World_ magazine, described _Are You Experienced_ as "the album that shook the world ... leaving it forever changed". In 2005, _Rolling Stone_ called the double-platinum LP Hendrix's "epochal debut", and they ranked it the 15th greatest album of all time, noting his "exploitation of amp howl", and characterizing his guitar playing as "incendiary ... historic in itself".[42]
 
 Monterey Pop Festival
-
-Jimi_Hendrix_burning_his_guitar_at_the_Monterey_Pop_Festival,_June_18,_1967.jpg
 
 Although popular in Europe at the time, the Experience's first U.S. single, "Hey Joe", failed to reach the _Billboard_ Hot 100 chart upon its release on May 1, 1967. The group's fortunes improved when McCartney recommended them to the organizers of the Monterey Pop Festival. He insisted that the event would be incomplete without Hendrix, whom he called "an absolute ace on the guitar", and he agreed to join the board of organizers on the condition that the Experience perform at the festival in mid-June.[43]
 
@@ -107,8 +97,6 @@ The second Experience album, _Axis: Bold as Love_, opens with the track "EXP", w
 
 The scheduled release date for _Axis_ was almost delayed when Hendrix lost the master tape of side one of the LP, leaving it in the back seat of a London taxi. With the deadline looming, Hendrix, Chandler, and engineer Eddie Kramer remixed most of side one in a single overnight session, but they could not match the quality of the lost mix of "If 6 Was 9". Bassist Noel Redding had a tape recording of this mix, which had to be smoothed out with an iron as it had gotten wrinkled.[53] During the verses, Hendrix doubled his singing with a guitar line which he played one octave lower than his vocals. Hendrix voiced his disappointment about having re-mixed the album so quickly, and he felt that it could have been better had they been given more time.
 
-Axiscover.jpg
-
 _Axis_ featured psychedelic cover art that depicts Hendrix and the Experience as various avatars of Vishnu, incorporating a painting of them by Roger Law, from a photo-portrait by Karl Ferris. The painting was then superimposed on a copy of a mass-produced religious poster. Hendrix stated that the cover, which Track spent $5,000 producing, would have been more appropriate had it highlighted his American Indian heritage. He said: "You got it wrong ... I'm not that kind of Indian." Track released the album in the UK on December 1, 1967, where it peaked at number five, spending 16 weeks on the charts.[54] In February 1968, _Axis: Bold as Love_ reached number three in the U.S.
 
 While author and journalist Richie Unterberger described _Axis_ as the least impressive Experience album, according to author Peter Doggett, the release "heralded a new subtlety in Hendrix's work".[55] Mitchell said: "_Axis_ was the first time that it became apparent that Jimi was pretty good working behind the mixing board, as well as playing, and had some positive ideas of how he wanted things recorded. It could have been the start of any potential conflict between him and Chas in the studio."[56]
@@ -123,7 +111,7 @@ In 1989, Noe Goldwasser, the founding editor of _Guitar World_ magazine, describ
 
 Break-up of the Experience
 
-London_003_Hendrix_and_Handel_houses.jpg; the building on the right is the Handel House Museum.|left|thumb|upright]]
+; the building on the right is the Handel House Museum.|left|thumb|upright]]
 
 In January 1969, after an absence of more than six months, Hendrix briefly moved back into his girlfriend Kathy Etchingham's Brook Street apartment, which was next door to the Handel House Museum in the West End of London.[62] After a performance of "Voodoo Chile", on BBC's _Happening for Lulu_ show in January 1969, the band stopped midway through an attempt at their first hit "Hey Joe" and then launched into a wholly unrehearsed version of "Sunshine of Your Love", as a tribute to the recently-disbanded band Cream, until producers brought the song to a premature end.[63] Hendrix was told he would never work at the BBC again.[64] During this time, the Experience toured Scandinavia, Germany, and gave their final two performances in France. On February 18 and 24, they played sold-out concerts at London's Royal Albert Hall, which were the last European appearances of this lineup.
 
@@ -135,7 +123,7 @@ Soon after Redding's departure, Hendrix began lodging at the eight-bedroom Ashok
 
 Woodstock
 
-Jimi_Hendrix_performing_"The_Star_Spangled_Banner"_at_Woodstock,_August_18,_1969.jpg at the start of his performance of "The Star-Spangled Banner" at Woodstock, August 18, 1969. |alt=A color image of three men standing on stage performing music]]
+at the start of his performance of "The Star-Spangled Banner" at Woodstock, August 18, 1969. |alt=A color image of three men standing on stage performing music]]
 
 By 1969, Hendrix was the world's highest-paid rock musician.[68] In August, he headlined the Woodstock Music and Art Fair that included many of the most popular bands of the time.[69] For the concert, he added rhythm guitarist Larry Lee and conga players Juma Sultan and Jerry Velez. The band rehearsed for less than two weeks before the performance, and according to Mitchell, they never connected musically.[70] Before arriving at the engagement, Hendrix heard reports that the size of the audience had grown enormously, which concerned him as he did not enjoy performing for large crowds. He was an important draw for the event, and although he accepted substantially less money for the appearance than his usual fee, he was the festival's highest-paid performer.
 
@@ -193,8 +181,6 @@ Hendrix was passing through customs at Toronto International Airport on May 3, 1
 
 Death, post-mortem, and burial
 
-SamarkandHotel1.JPG
-
 Details are disputed concerning Hendrix's last day and death. He spent much of September 17, 1970 with Monika Dannemann in London, the only witness to his final hours.[84] Dannemann said that she prepared a meal for them at her apartment in the Samarkand Hotel around 11 p.m., when they shared a bottle of wine. She drove him to the residence of an acquaintance at approximately 1:45 a.m., where he remained for about an hour before she picked him up and drove them back to her flat at 3 a.m. She said that they talked until around 7 a.m., when they went to sleep. She awoke around 11 a.m. and found Hendrix breathing but unconscious and unresponsive. She called for an ambulance at 11:18 which arrived at 11:27.[85] Paramedics then transported Hendrix to St Mary Abbot's Hospital where Dr. John Bannister pronounced him dead at 12:45 on September 18.
 
 Coroner Gavin Thurston ordered a post-mortem examination which was performed on September 21 by Professor Robert Donald Teare, a forensic pathologist. Thurston completed the inquest on September 28 and concluded that Hendrix aspirated his own vomit and died of asphyxia while intoxicated with barbiturates.[86] Citing "insufficient evidence of the circumstances", he declared an open verdict. Dannemann later revealed that Hendrix had taken nine of her prescribed Vesparax sleeping tablets, 18 times the recommended dosage.[87]
@@ -223,8 +209,6 @@ During 1965, and 1966, while Hendrix was playing back-up for soul and R&B acts i
 
 Effects
 
-1968_King_Vox_Wah_pedal.JPG
-
 One of Hendrix's signature effects was the wah-wah pedal, which he first heard used with an electric guitar in Cream's "Tales of Brave Ulysses", released in May 1967.[97] That July, while performing at the Scene club in New York City, Hendrix met Frank Zappa, whose band the Mothers of Invention were performing at the adjacent Garrick Theater. Hendrix was fascinated by Zappa's application of the pedal, and he experimented with one later that evening. He used a wah pedal during the opening to "Voodoo Child (Slight Return)", creating one of the best-known wah-wah riffs of the classic rock era. He also uses the effect on "Up from the Skies", "Little Miss Lover", and "Still Raining, Still Dreaming".
 
 Hendrix used a Dallas Arbiter Fuzz Face and a Vox wah pedal during recording sessions and performances, but also experimented with other guitar effects. He enjoyed a fruitful long-term collaboration with electronics enthusiast Roger Mayer, whom he once called "the secret" of his sound.[98] Mayer introduced him to the Octavia, an octave-doubling effect pedal, in December 1966, and he first recorded with it during the guitar solo to "Purple Haze".[99]
@@ -251,7 +235,7 @@ Hendrix has influenced numerous funk and funk rock artists, including Prince, Ge
 
 Recognition and awards
 
-Jimi_Hendrix_statue_outside_Dimbola_Lodge.JPG]]
+]]
 
 Hendrix received several prestigious rock music awards during his lifetime and posthumously. In 1967, readers of _Melody Maker_ voted him the Pop Musician of the Year. In 1968, _Rolling Stone_ declared him the Performer of the Year. Also in 1968, the City of Seattle gave him the Keys to the City. _Disc & Music Echo_ newspaper honored him with the World Top Musician of 1969 and in 1970 _Guitar Player_ magazine named him the Rock Guitarist of the Year.[119]
 

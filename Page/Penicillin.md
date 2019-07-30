@@ -89,7 +89,7 @@ Some bacteria produce enzymes that break down the beta-lactam ring, called beta-
 
 Mechanism of action
 
-Penicillin_spheroplast_generation_horizontal.svg Penicillin_inhibition.svg, which normally catalyze cross-linking of bacterial cell walls.]]
+, which normally catalyze cross-linking of bacterial cell walls.]]
 
 Bacteria constantly remodel their peptidoglycan cell walls, simultaneously building and breaking down portions of the cell wall as they grow and divide. _β_-Lactam antibiotics inhibit the formation of peptidoglycan cross-links in the bacterial cell wall; this is achieved through binding of the four-membered _β_-lactam ring of penicillin to the enzyme DD-transpeptidase. As a consequence, DD-transpeptidase cannot catalyze formation of these cross-links, and an imbalance between cell wall production and degradation develops, causing the cell to rapidly die.[19]
 
@@ -110,7 +110,7 @@ Penicillin has low protein binding in plasma, the bioavailability of penicillin 
 
 Structure
 
-Penicillin-G_3D.png ring are shown in yellow and blue respectively. The image shows that the thiazolidine ring and fused four-membered _β_-lactam are not in the same plane.]]
+ring are shown in yellow and blue respectively. The image shows that the thiazolidine ring and fused four-membered _β_-lactam are not in the same plane.]]
 
 The term "penam" is used to describe the common core skeleton of a member of the penicillins. This core has the molecular formula R-C₉H₁₁N₂O₄S, where R is the variable side chain that differentiates the penicillins from one another. The penam core has a molar mass of 243 g/mol, with larger penicillins having molar mass near 450—for example, cloxacillin has a molar mass of 436 g/mol. The key structural feature of the penicillins is the four-membered _β_-lactam ring; this structural moiety is essential for penicillin's antibacterial activity. The _β_-lactam ring is itself fused to a five-membered thiazolidine ring. The fusion of these two rings causes the _β_-lactam ring to be more reactive than monocyclic _β_-lactams because the two fused rings distort the _β_-lactam amide bond and therefore remove the resonance stabilisation normally found in these chemical bonds.[26]
 
@@ -118,8 +118,6 @@ The term "penam" is used to describe the common core skeleton of a member of the
 History
 
 Discovery
-
-Alexander_Fleming.jpg Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod,_1935_(9672239344).jpg
 
 Starting in the late 19th century there had been many accounts by scientists and physicians on the antibacterial properties of the different types of moulds including the mould penicillium but they were unable to discern what process was causing the effect.[27] The effects of penicillium mould would finally be isolated in 1928 by Scottish scientist Alexander Fleming, in work that seems to have been independent of those earlier observations.[28] Fleming recounted that the date of his discovery of penicillin was on the morning of Friday 28 September 1928.[29] The traditional version of this story describes the discovery as a serendipitous accident: in his laboratory in the basement of St Mary's Hospital in London (now part of Imperial College), Fleming noticed a Petri dish containing Staphylococci that had been mistakenly left open was contaminated by blue-green mould from an open window, which formed a visible growth.[30] There was a halo of inhibited bacterial growth around the mould. Fleming concluded that the mould released a substance that repressed the growth and caused lysing of the bacteria.[31]
 
@@ -131,29 +129,27 @@ Despite the lack of interest of his fellow scientists, he did conduct several ex
 
 Medical application
 
-Howard_Walter_Florey_1945.jpg In 1930, Cecil George Paine, a pathologist at the Royal Infirmary in Sheffield, attempted to use penicillin to treat sycosis barbae, eruptions in beard follicles, but was unsuccessful. Moving on to ophthalmia neonatorum, a gonococcal infection in infants, he achieved the first recorded cure with penicillin, on November 25, 1930. He then cured four additional patients (one adult and three infants) of eye infections, and failed to cure a fifth.[39][40][41]
+In 1930, Cecil George Paine, a pathologist at the Royal Infirmary in Sheffield, attempted to use penicillin to treat sycosis barbae, eruptions in beard follicles, but was unsuccessful. Moving on to ophthalmia neonatorum, a gonococcal infection in infants, he achieved the first recorded cure with penicillin, on November 25, 1930. He then cured four additional patients (one adult and three infants) of eye infections, and failed to cure a fifth.[39][40][41]
 
 In 1939, Australian scientist Howard Florey (later Baron Florey) and a team of researchers (Ernst Boris Chain, Edward Abraham, Arthur Duncan Gardner, Norman Heatley, Margaret Jennings, J. Orr-Ewing and G. Sanders) at the Sir William Dunn School of Pathology, University of Oxford made progress in showing the _in vivo_ bactericidal action of penicillin.[42][43] In 1940, they showed that penicillin effectively cured bacterial infection in mice.[44][45] In 1941, they treated a policeman, Albert Alexander, with a severe face infection; his condition improved, but then supplies of penicillin ran out and he died. Subsequently, several other patients were treated successfully.[46] In December 1942, survivors of the Cocoanut Grove fire in Boston were the first burn patients to be successfully treated with penicillin.[47]
 
 Mass production
 
-Penicillin_Past,_Present_and_Future-_the_Development_and_Production_of_Penicillin,_England,_1943_D16959.jpg By late 1940, the Oxford team under Howard Florey had devised a method of mass-producing the drug, but yields remained low.[48] In 1941, Florey and Heatley travelled to the US in order to interest pharmaceutical companies in producing the drug and inform them about their process.[49]
+By late 1940, the Oxford team under Howard Florey had devised a method of mass-producing the drug, but yields remained low.[48] In 1941, Florey and Heatley travelled to the US in order to interest pharmaceutical companies in producing the drug and inform them about their process.[49]
 
 Florey and Chain shared the 1945 Nobel Prize in Medicine with Fleming for their work.
 
 The challenge of mass-producing this drug was daunting. On March 14, 1942, the first patient was treated for streptococcal sepsis with US-made penicillin produced by Merck & Co.[50] Half of the total supply produced at the time was used on that one patient, Anne Miller.[51] By June 1942, just enough US penicillin was available to treat ten patients.[52] In July 1943, the War Production Board drew up a plan for the mass distribution of penicillin stocks to Allied troops fighting in Europe.[53] The results of fermentation research on corn steep liquor at the Northern Regional Research Laboratory at Peoria, Illinois, allowed the United States to produce 2.3 million doses in time for the invasion of Normandy in the spring of 1944. After a worldwide search in 1943, a mouldy cantaloupe in a Peoria, Illinois market was found to contain the best strain of mould for production using the corn steep liquor process.[54] Pfizer scientist Jasper H. Kane suggested using a deep-tank fermentation method for producing large quantities of pharmaceutical-grade penicillin.[55][56] Large-scale production resulted from the development of a deep-tank fermentation plant by chemical engineer Margaret Hutchinson Rousseau.[57] As a direct result of the war and the War Production Board, by June 1945, over 646 billion units per year were being produced.[58]
 
-PenicillinPSAedit.jpg G. Raymond Rettew made a significant contribution to the American war effort by his techniques to produce commercial quantities of penicillin, wherein he combined his knowledge of mushroom spawn with the function of the Sharples Cream Separator.[59] By 1943, Rettew's lab was producing most of the world's penicillin. During World War II, penicillin made a major difference in the number of deaths and amputations caused by infected wounds among Allied forces, saving an estimated 12%–15% of lives. Availability was severely limited, however, by the difficulty of manufacturing large quantities of penicillin and by the rapid renal clearance of the drug, necessitating frequent dosing. Methods for mass production of penicillin were patented by Andrew Jackson Moyer in 1945.[60][61][62] Florey had not patented penicillin, having been advised by Sir Henry Dale that doing so would be unethical.[63]
+G. Raymond Rettew made a significant contribution to the American war effort by his techniques to produce commercial quantities of penicillin, wherein he combined his knowledge of mushroom spawn with the function of the Sharples Cream Separator.[59] By 1943, Rettew's lab was producing most of the world's penicillin. During World War II, penicillin made a major difference in the number of deaths and amputations caused by infected wounds among Allied forces, saving an estimated 12%–15% of lives. Availability was severely limited, however, by the difficulty of manufacturing large quantities of penicillin and by the rapid renal clearance of the drug, necessitating frequent dosing. Methods for mass production of penicillin were patented by Andrew Jackson Moyer in 1945.[60][61][62] Florey had not patented penicillin, having been advised by Sir Henry Dale that doing so would be unethical.[63]
 
 Penicillin is actively excreted, and about 80% of a penicillin dose is cleared from the body within three to four hours of administration. Indeed, during the early penicillin era, the drug was so scarce and so highly valued that it became common to collect the urine from patients being treated, so that the penicillin in the urine could be isolated and reused.[64] This was not a satisfactory solution, so researchers looked for a way to slow penicillin excretion. They hoped to find a molecule that could compete with penicillin for the organic acid transporter responsible for excretion, such that the transporter would preferentially excrete the competing molecule and the penicillin would be retained. The uricosuric agent probenecid proved to be suitable. When probenecid and penicillin are administered together, probenecid competitively inhibits the excretion of penicillin, increasing penicillin's concentration and prolonging its activity. Eventually, the advent of mass-production techniques and semi-synthetic penicillins resolved the supply issues, so this use of probenecid declined.[65] Probenecid is still useful, however, for certain infections requiring particularly high concentrations of penicillins.[66]
 
 After World War II, Australia was the first country to make the drug available for civilian use. In the U.S., penicillin was made available to the general public on March 15, 1945.[67]
 
-Dorothy_Hodgkin_Nobel.jpg
-
 Structure determination and total synthesis
 
-Molecular_model_of_Penicillin_by_Dorothy_Hodgkin_(9663803982).jpg The chemical structure of penicillin was first proposed by Edward Abraham in 1942[68] and was later confirmed in 1945 using X-ray crystallography by Dorothy Crowfoot Hodgkin, who was also working at Oxford.[69] She later received the Nobel prize for this and other structure determinations.
+The chemical structure of penicillin was first proposed by Edward Abraham in 1942[68] and was later confirmed in 1945 using X-ray crystallography by Dorothy Crowfoot Hodgkin, who was also working at Oxford.[69] She later received the Nobel prize for this and other structure determinations.
 
 Chemist John C. Sheehan at the Massachusetts Institute of Technology (MIT) completed the first chemical synthesis of penicillin in 1957.[70][71][72] Sheehan had started his studies into penicillin synthesis in 1948, and during these investigations developed new methods for the synthesis of peptides, as well as new protecting groups—groups that mask the reactivity of certain functional groups.[73][74] Although the initial synthesis developed by Sheehan was not appropriate for mass production of penicillins, one of the intermediate compounds in Sheehan's synthesis was 6-aminopenicillanic acid (6-APA), the nucleus of penicillin.[75][76][77] Attaching different groups to the 6-APA 'nucleus' of penicillin allowed the creation of new forms of penicillin.
 
@@ -168,7 +164,7 @@ Another development of the line of true penicillins was the antipseudomonal peni
 
 Production
 
-Penicillin_bioreactor.jpg Penicillin is a secondary metabolite of certain species of _Penicillium_ and is produced when growth of the fungus is inhibited by stress. It is not produced during active growth. Production is also limited by feedback in the synthesis pathway of penicillin.
+Penicillin is a secondary metabolite of certain species of _Penicillium_ and is produced when growth of the fungus is inhibited by stress. It is not produced during active growth. Production is also limited by feedback in the synthesis pathway of penicillin.
 
 
 
@@ -184,7 +180,7 @@ Semisynthetic penicillins are prepared starting from the penicillin nucleus 6-AP
 
 Biosynthesis
 
-Penicillin-biosynthesis.png Overall, there are three main and important steps to the biosynthesis of penicillin G (benzylpenicillin).
+Overall, there are three main and important steps to the biosynthesis of penicillin G (benzylpenicillin).
 
 -   The first step is the condensation of three amino acids—L-α-aminoadipic acid, L-cysteine, L-valine into a tripeptide.[80][81][82] Before condensing into the tripeptide, the amino acid L-valine must undergo epimerization to become D-valine.[83][84] The condensed tripeptide is named δ-(L-α-aminoadipyl)-L-cysteine-D-valine (ACV). The condensation reaction and epimerization are both catalyzed by the enzyme δ-(L-α-aminoadipyl)-L-cysteine-D-valine synthetase (ACVS), a nonribosomal peptide synthetase or NRPS.
 -   The second step in the biosynthesis of penicillin G is the oxidative conversion of linear ACV into the bicyclic intermediate isopenicillin N by isopenicillin N synthase (IPNS), which is encoded by the gene _pcbC_.[85][86] Isopenicillin N is a very weak intermediate, because it does not show strong antibiotic activity.[87]

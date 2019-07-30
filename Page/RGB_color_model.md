@@ -1,4 +1,4 @@
-RGB_illumination.jpg lights on a white screen shows secondary colors where two overlap; the combination of all three of red, green, and blue in equal intensities makes white.]] Additive_colors.ogv
+lights on a white screen shows secondary colors where two overlap; the combination of all three of red, green, and blue in equal intensities makes white.]]
 
 The RGB COLOR MODEL is an additive color model[1] in which red, green and blue light are added together in various ways to reproduce a broad array of colors. The name of the model comes from the initials of the three additive primary colors, red, green, and blue.
 
@@ -13,7 +13,7 @@ This article discusses concepts common to all the different color spaces that us
 
 Additive colors
 
-AdditiveColor.svg Color_wheel_circle.png, orange, yellow, chartreuse, green, spring, cyan, azure, blue, violet, magenta, and rose]]
+, orange, yellow, chartreuse, green, spring, cyan, azure, blue, violet, magenta, and rose]]
 
 To form a color with RGB, three light beams (one red, one green, and one blue) must be superimposed (for example by emission from a black screen or by reflection from a white screen). Each of the three beams is called a _component_ of that color, and each of them can have an arbitrary intensity, from fully off to fully on, in the mixture.
 
@@ -28,7 +28,7 @@ The RGB color model itself does not define what is meant by _red_, _green_ and _
 
 Physical principles for the choice of red, green, and blue
 
-CIExy1931_sRGB_gamut_D65.png primaries, define a color triangle; only colors within this triangle can be reproduced by mixing the primary colors. Colors outside the color triangle are therefore shown here as gray. The primaries and the D65 white point of sRGB are shown.]] The choice of primary colors is related to the physiology of the human eye; good primaries are stimuli that maximize the difference between the responses of the cone cells of the human retina to light of different wavelengths, and that thereby make a large color triangle.[4]
+primaries, define a color triangle; only colors within this triangle can be reproduced by mixing the primary colors. Colors outside the color triangle are therefore shown here as gray. The primaries and the D65 white point of sRGB are shown.]] The choice of primary colors is related to the physiology of the human eye; good primaries are stimuli that maximize the difference between the responses of the cone cells of the human retina to light of different wavelengths, and that thereby make a large color triangle.[4]
 
 The normal three kinds of light-sensitive photoreceptor cells in the human eye (cone cells) respond most to yellow (long wavelength or L), green (medium or M), and violet (short or S) light (peak wavelengths near 570 nm, 540 nm and 440 nm, respectively[5]). The difference in the signals received from the three kinds allows the brain to differentiate a wide gamut of different colors, while being most sensitive (overall) to yellowish-green light and to differences between hues in the green-to-orange region.
 
@@ -66,7 +66,7 @@ RGB devices
 
 RGB and displays
 
-CRT_color_enhanced.png RGB_color_wheel_10.svg RGB_pixels_on_a_CRT_monitor.jpg dots in a CRT monitor]] RGB_pixels.jpgs in an LCD TV (on the right: an orange and a blue color; on the left: a close-up)]]
+dots in a CRT monitor]] s in an LCD TV (on the right: an orange and a blue color; on the left: a close-up)]]
 
 One common application of the RGB color model is the display of colors on a cathode ray tube (CRT), liquid-crystal display (LCD), plasma display, or organic light emitting diode (OLED) display such as a television, a computer's monitor, or a large scale screen. Each pixel on the screen is built by driving three small and very close but still separated RGB light sources. At common viewing distance, the separate sources are indistinguishable, which tricks the eye to see a given solid color. All the pixels together arranged in the rectangular screen surface conforms the color image.
 
@@ -102,7 +102,7 @@ Similarly, the intensity of the output on TV and computer display devices is not
 
 RGB and cameras
 
-Bayer_pattern_on_sensor.svg arrangement of color filters on the pixel array of a digital image sensor]]
+arrangement of color filters on the pixel array of a digital image sensor]]
 
 In color television and video cameras manufactured before the 1990s, the incoming light was separated by prisms and filters into the three RGB primary colors feeding each color into a separate video camera tube (or _pickup tube_). These tubes are a type of cathode ray tube, not to be confused with that of CRT displays.
 
@@ -119,7 +119,7 @@ Currently available scanners typically use charge-coupled device (CCD) or contac
 
 Numeric representations
 
-RGB_sliders.svg ranges from 0 to 255.]] Palette_of_125_main_colors_with_RGB_components_divisible_by_64.gif A color in the RGB color model is described by indicating how much of each of the red, green, and blue is included. The color is expressed as an RGB triplet (_r_,_g_,_b_), each component of which can vary from zero to a defined maximum value. If all the components are at zero the result is black; if all are at maximum, the result is the brightest representable white.
+ranges from 0 to 255.]] A color in the RGB color model is described by indicating how much of each of the red, green, and blue is included. The color is expressed as an RGB triplet (_r_,_g_,_b_), each component of which can vary from zero to a defined maximum value. If all the components are at zero the result is black; if all are at maximum, the result is the brightest representable white.
 
 These ranges may be quantified in several different ways:
 
@@ -155,8 +155,6 @@ The RGB color model is one of the most common ways to encode color in computing,
 
 
 Geometric representation
-
-RGB_color_solid_cube.png
 
     _See also RGB color space_
 

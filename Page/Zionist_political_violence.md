@@ -1,4 +1,4 @@
-King_david_hotel_bombing1.jpg, 1946]]
+, 1946]]
 
 ZIONIST POLITICAL VIOLENCE refers to acts of violence or terror[1][2] committed by Zionists.
 
@@ -28,7 +28,7 @@ At the beginning of the civil war, the Jewish militias organized several bombing
 
 Condemnation as terrorism
 
-Albert_Einstein_and_others_letter.jpg, Jessurun Cardozo, Albert Einstein and others letter]] Irgun was described as a terrorist organization by the United Nations, British, and United States governments, and in media such as _The New York Times_ newspaper,[25][26] and by the Anglo-American Committee of Inquiry.[27] In 1946, The World Zionist Congress strongly condemned terrorist activities in Palestine and "the shedding of innocent blood as a means of political warfare". Irgun was specifically condemned.[28]
+, Jessurun Cardozo, Albert Einstein and others letter]] Irgun was described as a terrorist organization by the United Nations, British, and United States governments, and in media such as _The New York Times_ newspaper,[25][26] and by the Anglo-American Committee of Inquiry.[27] In 1946, The World Zionist Congress strongly condemned terrorist activities in Palestine and "the shedding of innocent blood as a means of political warfare". Irgun was specifically condemned.[28]
 
 Menachem Begin was called a terrorist and a fascist by Albert Einstein and 27 other prominent Jewish intellectuals in a letter to the New York Times which was published on December 4, 1948. Specifically condemned was the participation of the Irgun in the Deir Yassin massacre:[29]
 

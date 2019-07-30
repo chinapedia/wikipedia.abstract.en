@@ -1,15 +1,15 @@
-François_Barraud_-_Le_Philateliste.jpg (1929).]] STAMP COLLECTING is the collecting of postage stamps and related objects. It is related to philately, which is the study of stamps. It has been one of the world's most popular hobbies since the late nineteenth century with the rapid growth of the postal service,[1] as a never-ending stream of new stamps was produced by countries that sought to advertise their distinctiveness through their stamps.
+(1929).]] STAMP COLLECTING is the collecting of postage stamps and related objects. It is related to philately, which is the study of stamps. It has been one of the world's most popular hobbies since the late nineteenth century with the rapid growth of the postal service,[1] as a never-ending stream of new stamps was produced by countries that sought to advertise their distinctiveness through their stamps.
 
 
 Collecting
 
-Jongen_bezig_met_een_postzegelverzameling,_Bestanddeelnr_252-8770.jpg Stamp collecting is generally accepted as one of the areas that make up the wider subject of philately, which is the study of stamps. A philatelist may, but does not have to, collect stamps. It is not uncommon for the term _philatelist_ to be used to mean a stamp collector. Many casual stamp collectors accumulate stamps for sheer enjoyment and relaxation without worrying about the tiny details. The creation of a large or comprehensive collection, however, generally requires some philatelic knowledge and will usually contain areas of philatelic studies.
+Stamp collecting is generally accepted as one of the areas that make up the wider subject of philately, which is the study of stamps. A philatelist may, but does not have to, collect stamps. It is not uncommon for the term _philatelist_ to be used to mean a stamp collector. Many casual stamp collectors accumulate stamps for sheer enjoyment and relaxation without worrying about the tiny details. The creation of a large or comprehensive collection, however, generally requires some philatelic knowledge and will usually contain areas of philatelic studies.
 
 Postage stamps are often collected for their historical value and geographical aspects and also for the many subjects depicted on them, ranging from ships, horses, and birds to kings, queens and presidents.[2]
 
 Sales of postage stamps are an important source of income for some countries whose stamp issues may exceed their postal needs, but have designs that appeal to many stamp collectors.
 
-Stamp_Falkland_Islands_1891_0.5p.jpg, shown here on a half-penny stamp of the Falkland Islands, 1891.]]
+, shown here on a half-penny stamp of the Falkland Islands, 1891.]]
 
 
 History
@@ -51,15 +51,13 @@ Many dealers sell stamps through the Internet while others have neighborhood sho
 
 Collecting specialties
 
-A worldwide collection would be enormous, running to thousands of volumes, and would be incredibly expensive to acquire. Many consider that Count Philipp von Ferrary's collection at the beginning of the 20th century was the most complete ever formed. Many collectors limit their collecting to particular countries, certain time periods or particular subjects (called "topicals") like birds or aircraft. British_Empire_pair_1924_issue-1p.jpg Some of the more popular collecting areas include:
+A worldwide collection would be enormous, running to thousands of volumes, and would be incredibly expensive to acquire. Many consider that Count Philipp von Ferrary's collection at the beginning of the 20th century was the most complete ever formed. Many collectors limit their collecting to particular countries, certain time periods or particular subjects (called "topicals") like birds or aircraft. Some of the more popular collecting areas include:
 
 -   Postage stamps – particular countries and/or time periods
     -   Airmail stamps – stamps may be required for airmail, which is typically more expensive and has special postage rates.
     -   Commemorative stamps – stamps to commemorate events, anniversaries, etc., on sale for a limited time.
     -   Definitive stamps – the most common type of stamps
     -   Postage due stamps are special stamps applied by a post office to mail bearing insufficient postage. The stamps were issued in several denominations to make up different amounts due.
-
-967_-20¢_Multicolored_-“Columbia_Jays”_-C71.jpg
 
 -   Topical stamp collecting – many collectors choose to organize their philatelic collection on the theme of the stamps, covers, or postmarks. Popular topical themes are animals, dogs, cats, butterflies, birds, flowers, art, sports, Olympics, maps, Disney, scouting, space, ships, Americana (topics relating to the US), stamps on stamps, famous people, chess, Chinese new year, and many others.
     -   Birds on stamps
@@ -85,7 +83,7 @@ A worldwide collection would be enormous, running to thousands of volumes, and w
 
 Organizations
 
-Spring_Stampex_2011_-_from_the_back.jpg containing a bourse at which collectors and dealers meet.]] There are thousands of organizations for collectors: local stamp clubs, special-interest groups, and national organizations. Most nations have a national collectors' organization, such as the American Philatelic Society in the United States. The Internet has greatly expanded the availability of information and made it easier to obtain stamps and other philatelic material. The American Topical Association (ATA) is now a part of the APS and promotes thematic collecting as well as encouraging sub-groups of numerous topics.
+containing a bourse at which collectors and dealers meet.]] There are thousands of organizations for collectors: local stamp clubs, special-interest groups, and national organizations. Most nations have a national collectors' organization, such as the American Philatelic Society in the United States. The Internet has greatly expanded the availability of information and made it easier to obtain stamps and other philatelic material. The American Topical Association (ATA) is now a part of the APS and promotes thematic collecting as well as encouraging sub-groups of numerous topics.
 
 Stamp clubs and philatelic societies can add a social aspect to stamp collecting and provide a forum where novices can meet experienced collectors. Although such organizations are often advertised in stamp magazines and online, the relatively small number of collectors – especially outside urban areas – means that a club may be difficult to set up and sustain. The Internet partially solves this problem, as the association of collectors online is not limited by geographical distance. For this reason, many highly specific stamp clubs have been established on the Web, with international membership.[10]
 
@@ -118,7 +116,7 @@ Stamp catalogues are the primary tool used by serious collectors to organize the
 
 Notable collectors
 
-John_Lennon's_stamp_collection.jpg's stamp album]] The stamp collection assembled by French-Austrian aristocrat Philipp von Ferrary (1850–1917) at the beginning of the 20th century is widely considered the most complete stamp collection ever formed (or likely to be formed). It included, for example, all of the rare stamps described above that had been issued by 1917. However, as Ferrary was an Austrian citizen, the collection was broken up and sold by the French government after the First World War, as war reparations. A close rival was Thomas Tapling (1855–1891), whose Tapling Collection was donated to the British Museum.
+'s stamp album]] The stamp collection assembled by French-Austrian aristocrat Philipp von Ferrary (1850–1917) at the beginning of the 20th century is widely considered the most complete stamp collection ever formed (or likely to be formed). It included, for example, all of the rare stamps described above that had been issued by 1917. However, as Ferrary was an Austrian citizen, the collection was broken up and sold by the French government after the First World War, as war reparations. A close rival was Thomas Tapling (1855–1891), whose Tapling Collection was donated to the British Museum.
 
 Several European monarchs were keen stamp collectors, including King George V of the United Kingdom and King Carol II of Romania. King George V possessed one of the most valuable stamp collections in the world and became President of the Royal Philatelic Society. His collection was passed on to Queen Elizabeth II who, while not a serious philatelist, has a collection of British and Commonwealth first day covers which she started in 1952.[14]
 

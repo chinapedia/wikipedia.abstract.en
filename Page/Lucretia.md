@@ -1,4 +1,4 @@
-Tizian_094.jpg's _Tarquin and Lucretia_ (1571)]] Poorter_Lucrèce_(2004_1_379).jpg]] Campeny-Lucrecia_0002.JPG
+'s _Tarquin and Lucretia_ (1571)]] ]]
 
 According to Roman tradition, LUCRETIA () or LUCRECE (; died ) was a noblewoman in ancient Rome whose rape by Sextus Tarquinius (Tarquin), an Etruscan king's son, was the cause of a rebellion that overthrew the Roman monarchy and led to the transition of Roman government from a kingdom to a republic. There are no contemporary sources; information regarding Lucretia, her rape and suicide, and the consequence of this being the start of the Roman Republic, come from the later accounts of Roman historian Livy and Greco-Roman historian Dionysius of Halicarnassus.
 
@@ -11,7 +11,7 @@ As the events of the story move rapidly, the date of the incident is probably th
 
 Rape
 
-Monogrammist_I.W._-_Lucretia_(1525).jpg active in the Cranach studio c. 1520–40. The most common type of depiction.]] Lucius Tarquinius Superbus, last king of Rome, being engaged in the siege of Ardea, sent his son, Tarquin, on a military errand to Collatia. Tarquin was received with great hospitality at the governor's mansion, home of Lucius Tarquinius Collatinus, son of the king's nephew, Arruns Tarquinius, former governor of Collatia and first of the Tarquinii Collatini. Collatinus' wife, Lucretia, daughter of Spurius Lucretius, prefect of Rome, "a man of distinction,"[3] made sure that the king's son was treated as became his rank, although her husband was away at the siege.
+active in the Cranach studio c. 1520–40. The most common type of depiction.]] Lucius Tarquinius Superbus, last king of Rome, being engaged in the siege of Ardea, sent his son, Tarquin, on a military errand to Collatia. Tarquin was received with great hospitality at the governor's mansion, home of Lucius Tarquinius Collatinus, son of the king's nephew, Arruns Tarquinius, former governor of Collatia and first of the Tarquinii Collatini. Collatinus' wife, Lucretia, daughter of Spurius Lucretius, prefect of Rome, "a man of distinction,"[3] made sure that the king's son was treated as became his rank, although her husband was away at the siege.
 
 In a variant of the story,[4] Tarquin and Collatinus, at a wine party on furlough, were debating the virtues of wives when Collatinus volunteered to settle the debate by all of them riding to his home to see what Lucretia was doing. She was weaving with her maids. The party awarded her the palm of victory and Collatinus invited them to visit, but for the time being they returned to camp.
 
@@ -26,7 +26,7 @@ In the alternative version, she did not go to Rome, but sent for her father and 
 
 In another version Collatinus and Brutus were encountered returning to Rome unaware, were briefed, and were brought to the death scene. Brutus happened to be a politically motivated participant. By kinship he was a Tarquin on his mother's side, the son of Tarquinia, daughter of Lucius Tarquinius Priscus, the third king before last. He was a candidate for the throne if anything should happen to Superbus. By law, however, as he was a Junius on his father's side, he was not a Tarquin and therefore could later propose the exile of the Tarquins without fear for himself. Superbus had taken his inheritance and left him a pittance, keeping him at court for entertainment.[7]
 
-N03Brutus-u-Lucretia.jpg holding the dead Lucretia and swearing the oath]] Collatinus, seeing his wife dead, became distraught. He held her, kissed her, called her name and spoke to her. Seeing the hand of Destiny in these events, his friend Brutus called the grieving party to order, explained that his simplicity had been a sham, and proposed that they drive the Tarquins from Rome. Grasping the bloody dagger,[8] he swore by Mars and all the other gods that he would do everything in his power to overthrow the dominion of the Tarquinii and that he would neither be reconciled to the tyrants himself nor tolerate any who should be reconciled to them, but would look upon every man who thought otherwise as an enemy and till his death would pursue with unrelenting hatred both the tyranny and its abettors; and if he should violate his oath, he prayed that he and his children might meet with the same end as Lucretia.
+holding the dead Lucretia and swearing the oath]] Collatinus, seeing his wife dead, became distraught. He held her, kissed her, called her name and spoke to her. Seeing the hand of Destiny in these events, his friend Brutus called the grieving party to order, explained that his simplicity had been a sham, and proposed that they drive the Tarquins from Rome. Grasping the bloody dagger,[8] he swore by Mars and all the other gods that he would do everything in his power to overthrow the dominion of the Tarquinii and that he would neither be reconciled to the tyrants himself nor tolerate any who should be reconciled to them, but would look upon every man who thought otherwise as an enemy and till his death would pursue with unrelenting hatred both the tyranny and its abettors; and if he should violate his oath, he prayed that he and his children might meet with the same end as Lucretia.
 
 He passed the dagger around and each mourner swore the same oath by it. The two stories agree on this point: Livy's version is:[9]
 
@@ -35,7 +35,7 @@ He passed the dagger around and each mourner swore the same oath by it. The two 
 
 Revolution
 
-7031_Lucrecia_romana.jpg ]] Gentileschi-Lucrezia-Potsdam.jpg]] The newly sworn revolutionary committee paraded the bloody corpse to the Roman Forum and arriving there heard grievances against the Tarquins and began to enlist an army. Brutus "urged them to act as men and Romans and take up arms against their insolent foes."[10] The gates of Rome were blockaded by the new revolutionary soldiers and more were sent to guard Collatia. By now a crowd had gathered in the forum; the presence of the magistrates among the revolutionaries kept them in good order.
+]] ]] The newly sworn revolutionary committee paraded the bloody corpse to the Roman Forum and arriving there heard grievances against the Tarquins and began to enlist an army. Brutus "urged them to act as men and Romans and take up arms against their insolent foes."[10] The gates of Rome were blockaded by the new revolutionary soldiers and more were sent to guard Collatia. By now a crowd had gathered in the forum; the presence of the magistrates among the revolutionaries kept them in good order.
 
 Brutus happened to be Tribune of the Celeres, a minor office of some religious duties, but one which as a magistracy gave him the theoretical power to summon the curiae, an organization of patrician families used mainly to ratify the decrees of the king. Summoning them on the spot he transformed the crowd into an authoritative legislative assembly and began to harangue them in one of the more noted and effective speeches of ancient Rome.
 
@@ -52,14 +52,14 @@ The constitutional consequences of this event were, formally at least, to reverb
 
 Aftermath
 
-Sandro_Botticelli_078.jpg'' (), by Sandro Botticelli. Here citizens with swords are swearing the overthrow of the monarchy.[13]]] Hearing of the doings at Rome, the king, his sons and a party of retainers rode posthaste for the city, leaving Titus Herminius and Marcus Horatius in command of the troops at Ardea. The gates of Rome being barred and armed men on the wall, they returned to camp. Meanwhile, letters had arrived from the revolutionary committee and were read to the troops by Herminius and Horatius. The men were assembled by unit for a vote, by which the revolution was confirmed. In one story the Tarquins escaped to Gabii. A 15-year truce was made with Ardea. The troops returned to Rome.
+'' (), by Sandro Botticelli. Here citizens with swords are swearing the overthrow of the monarchy.[13]]] Hearing of the doings at Rome, the king, his sons and a party of retainers rode posthaste for the city, leaving Titus Herminius and Marcus Horatius in command of the troops at Ardea. The gates of Rome being barred and armed men on the wall, they returned to camp. Meanwhile, letters had arrived from the revolutionary committee and were read to the troops by Herminius and Horatius. The men were assembled by unit for a vote, by which the revolution was confirmed. In one story the Tarquins escaped to Gabii. A 15-year truce was made with Ardea. The troops returned to Rome.
 
 Superbus was not long in Gabii. He had to retire with his men to Tarquinii, where he raised the standard of intervention among the Etruscans. In an alternative story he went directly to Tarquinii with two of his sons; the third, Tarquin, attempted to resume control of Gabii, but was assassinated. The Romans had to face one intervention by the Etruscans (Horatius Cocles) and another by the Latin League (Battle of Lake Regillus). Sentiment ran high against the Tarquins. Collatinus was asked to resign over constitutional issues. He complied and was replaced by Publius Valerius Publicola.
 
 
 In literature and music
 
-Lucretia_MR.jpg's 1534 engraving of her suicide]]
+'s 1534 engraving of her suicide]]
 
 Livy's account in _Ab Urbe Condita Libri_ (c. 25–8 BC) is the earliest surviving full historical treatment. In his account her husband has boasted of the virtue of his wife to Tarquin and others. Livy contrasts the virtue of the Roman Lucretia, who remained in her room weaving, with the Etruscan ladies who feasted with friends. Ovid recounts the story of Lucretia in Book II of his _Fasti_, published in 8 AD, concentrating on the bold over-reaching character of Tarquin. Later, St. Augustine made use of the figure of Lucretia in _The City of God_ (published 426AD) to defend the honour of Christian women who had been raped in the sack of Rome and had not committed suicide.
 

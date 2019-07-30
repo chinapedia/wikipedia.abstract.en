@@ -1,11 +1,11 @@
-Papyrus.jpg PAPYRUS is a material similar to thick paper that was used in ancient times as a writing surface. It was made from the pith of the papyrus plant, _Cyperus papyrus_, a wetland sedge.[1] _Papyrus_ (plural: _papyri_) can also refer to a document written on sheets of such material, joined together side by side and rolled up into a scroll, an early form of a book.
+PAPYRUS is a material similar to thick paper that was used in ancient times as a writing surface. It was made from the pith of the papyrus plant, _Cyperus papyrus_, a wetland sedge.[1] _Papyrus_ (plural: _papyri_) can also refer to a document written on sheets of such material, joined together side by side and rolled up into a scroll, an early form of a book.
 
-Letter_on_Papyrus.jpg Papyrus is first known to have been used in Egypt (at least as far back as the First Dynasty), as the papyrus plant was once abundant across the Nile Delta. It was also used throughout the Mediterranean region and in the Kingdom of Kush. Apart from a writing material, ancient Egyptians employed papyrus in the construction of other artifacts, such as reed boats, mats, rope, sandals, and baskets.[2]
+Papyrus is first known to have been used in Egypt (at least as far back as the First Dynasty), as the papyrus plant was once abundant across the Nile Delta. It was also used throughout the Mediterranean region and in the Kingdom of Kush. Apart from a writing material, ancient Egyptians employed papyrus in the construction of other artifacts, such as reed boats, mats, rope, sandals, and baskets.[2]
 
 
 History
 
-Egypt.Papyrus.01.jpg'' written on papyrus]] Busto_maschile.JPG fresco of a young man with a papyrus scroll, from Herculaneum, 1st century AD]] Papyrus was first manufactured in Egypt as far back as the fourth millennium BCE.[3] [4][5] The earliest archaeological evidence of papyrus was excavated in 2012 and 2013 at Wadi al-Jarf, an ancient Egyptian harbor located on the Red Sea coast. These documents date from c. 2560–2550 BCE (end of the reign of Khufu).[6] The papyrus rolls describe the last years of building the Great Pyramid of Giza.[7] In the first centuries BCE and CE, papyrus scrolls gained a rival as a writing surface in the form of parchment, which was prepared from animal skins.[8] Sheets of parchment were folded to form quires from which book-form codices were fashioned. Early Christian writers soon adopted the codex form, and in the Græco-Roman world, it became common to cut sheets from papyrus rolls to form codices.
+'' written on papyrus]] fresco of a young man with a papyrus scroll, from Herculaneum, 1st century AD]] Papyrus was first manufactured in Egypt as far back as the fourth millennium BCE.[3] [4][5] The earliest archaeological evidence of papyrus was excavated in 2012 and 2013 at Wadi al-Jarf, an ancient Egyptian harbor located on the Red Sea coast. These documents date from c. 2560–2550 BCE (end of the reign of Khufu).[6] The papyrus rolls describe the last years of building the Great Pyramid of Giza.[7] In the first centuries BCE and CE, papyrus scrolls gained a rival as a writing surface in the form of parchment, which was prepared from animal skins.[8] Sheets of parchment were folded to form quires from which book-form codices were fashioned. Early Christian writers soon adopted the codex form, and in the Græco-Roman world, it became common to cut sheets from papyrus rolls to form codices.
 
 Codices were an improvement on the papyrus scroll, as the papyrus was not pliable enough to fold without cracking and a long roll, or scroll, was required to create large-volume texts. Papyrus had the advantage of being relatively cheap and easy to produce, but it was fragile and susceptible to both moisture and excessive dryness. Unless the papyrus was of perfect quality, the writing surface was irregular, and the range of media that could be used was also limited.
 
@@ -25,14 +25,12 @@ In the Egyptian language, papyrus was called _wadj_ (_w3ḏ_), _tjufy_ (_ṯwfy_
 
 Documents written on papyrus
 
-Papyrus_bill_of_sale_donkey.jpg
-
 The word for the material papyrus is also used to designate documents written on sheets of it, often rolled up into scrolls. The plural for such documents is papyri. Historical papyri are given identifying names — generally the name of the discoverer, first owner or institution where they are kept—and numbered, such as "Papyrus Harris I". Often an abbreviated form is used, such as "pHarris I". These documents provide important information on ancient writings; they give us the only extant copy of Menander, the Egyptian Book of the Dead, Egyptian treatises on medicine (the Ebers Papyrus) and on surgery (the Edwin Smith papyrus), Egyptian mathematical treatises (the Rhind papyrus), and Egyptian folk tales (the Westcar papyrus). When, in the 18th century, a library of ancient papyri was found in Herculaneum, ripples of expectation spread among the learned men of the time. However, since these papyri were badly charred, their unscrolling and deciphering is still going on today.
 
 
 Manufacture and use
 
-Papyrus_sheet.svg kew.gardens.papyrus.plant.arp.jpg Cyperus_papyrus-pjt3.jpg]]
+]]
 
 Papyrus is made from the stem of the papyrus plant, _Cyperus papyrus_. The outer rind is first removed, and the sticky fibrous inner pith is cut lengthwise into thin strips of about long. The strips are then placed side by side on a hard surface with their edges slightly overlapping, and then another layer of strips is laid on top at a right angle. The strips may have been soaked in water long enough for decomposition to begin, perhaps increasing adhesion, but this is not certain. The two layers possibly were glued together.[21] While still moist, the two layers are hammered together, mashing the layers into a single sheet. The sheet is then dried under pressure. After drying, the sheet is polished with some rounded object, possibly a stone or seashell or round hardwood.[22]
 
@@ -47,7 +45,7 @@ Papyrus is still used by communities living in the vicinity of swamps, to the ex
 
 Collections of papyri
 
-HeraclesPapyrus.jpg]]
+]]
 
 -   _Amherst Papyri_: This is a collection of William Tyssen-Amherst, 1st Baron Amherst of Hackney. It includes biblical manuscripts, early church fragments, and classical documents from the Ptolemaic, Roman, and Byzantine eras. The collection was edited by Bernard Grenfell and Arthur Hunt in 1900–1901. It is housed at the Pierpont Morgan Library (New York).
 -   _Archduke Rainer Papyri_: One of the world's largest collection of papyri (about 180,000 objects) in the Austrian National Library.[31]
@@ -92,8 +90,6 @@ See also
 
 
 Papyrus art
-
-Dictionnaire_pittoresque_d'histoire_naturelle_et_des_phénomènes_de_la_nature_(1838)_(14780745242).jpg
 
 Other ancient writing materials:
 

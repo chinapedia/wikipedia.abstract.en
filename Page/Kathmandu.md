@@ -22,8 +22,6 @@ The spelling "Katmandu" was often used in older English-language text. More rece
 
 History
 
-Medbud_BuddhaManjushri.jpg
-
 Archaeological excavations in parts of Kathmandu have found evidence of ancient civilizations. The oldest of these findings is a statue, found in Maligaon, that was dated at 185 AD.[7] The excavation of Dhando Chaitya uncovered a brick with an inscription in Brahmi script. Archaeologists believe it is two thousand years old.[8] Stone inscriptions are a ubiquitous element at heritage sites and are key sources for the history of Nepal.
 
 The earliest Western reference to Kathmandu appears in an account of Jesuit Fathers Johann Grueber and Albert d'Orville. In 1661, they passed through Nepal on their way from Tibet to India, and reported that they reached "Cadmendu", the capital of Nepal kingdom.[9]
@@ -36,8 +34,6 @@ Kotirudra Samhita of Shiva Purana, Chapter 11, shloka 18 refers to the place as 
 
 Very few historical record exists of the period before medieval Licchavis rulers. According to Gopalraj Vansawali, a genealogy of Nepali monarchy, the rulers of Kathmandu Valley before the Licchavis were Gopalas, Mahispalas, Aabhirs, Kirants, and Somavanshi.[13][14] The Kirata dynasty was established by Yalamber. During the Kirata era, a settlement called Yambu existed in the northern half of old Kathmandu. In some of the Sino-Tibetan languages, Kathmandu is still called Yambu. Another smaller settlement called Yengal was present in the southern half of old Kathmandu, near Manjupattan. During the reign of the seventh Kirata ruler, Jitedasti, Buddhist monks entered Kathmandu valley and established a forest monastery at Sankhu.
 
-Nepaul_valley_map_1802.jpg
-
 Licchavi era
 
 The Licchavis from the Indo-Gangetic plain migrated north and defeated the Kiratas, establishing the Licchavi dynasty, circa 400 AD. During this era, following the genocide of Shakyas in Lumbini by Virudhaka, the survivors migrated north and entered the forest monastery lora masquerading as Koliyas. From Sankhu, they migrated to Yambu and Yengal (Lanjagwal and Manjupattan) and established the first permanent Buddhist monasteries of Kathmandu. This created the basis of Newar Buddhism, which is the only surviving Sanskrit-based Buddhist tradition in the world.[15] With their migration, Yambu was called Koligram and Yengal was called Dakshin Koligram[16] during most of the Licchavi era.[17]
@@ -46,13 +42,11 @@ Eventually, the Licchavi ruler Gunakamadeva merged Koligram and Dakshin Koligram
 
 Malla era
 
-Kathmandu_1811.jpg Kathmandu_durbar_square.jpg The Licchavi era was followed by the Malla era. Rulers from Tirhut, upon being attacked by Muslims, fled north to the Kathmandu valley. They intermarried with Nepali royalty, and this led to the Malla era. The early years of the Malla era were turbulent, with raids and attacks from Khas and Turk Muslims. There was also a devastating earthquake which claimed the lives of a third of Kathmandu's population, including the king Abhaya Malla. These disasters led to the destruction of most of the architecture of the Licchavi era (such as Mangriha and Kailashkut Bhawan), and the loss of literature collected in various monasteries within the city. Despite the initial hardships, Kathmandu rose to prominence again and, during most of the Malla era, dominated the trade between India and Tibet. Nepali currency became the standard currency in trans-Himalayan trade.
+The Licchavi era was followed by the Malla era. Rulers from Tirhut, upon being attacked by Muslims, fled north to the Kathmandu valley. They intermarried with Nepali royalty, and this led to the Malla era. The early years of the Malla era were turbulent, with raids and attacks from Khas and Turk Muslims. There was also a devastating earthquake which claimed the lives of a third of Kathmandu's population, including the king Abhaya Malla. These disasters led to the destruction of most of the architecture of the Licchavi era (such as Mangriha and Kailashkut Bhawan), and the loss of literature collected in various monasteries within the city. Despite the initial hardships, Kathmandu rose to prominence again and, during most of the Malla era, dominated the trade between India and Tibet. Nepali currency became the standard currency in trans-Himalayan trade.
 
 During the later part of the Malla era, Kathmandu Valley comprised four fortified cities: Kantipur, Lalitpur, Bhaktapur, and Kirtipur. These served as the capitals of the Malla confederation of Nepal. These states competed with each other in the arts, architecture, esthetics, and trade, resulting in tremendous development. The kings of this period directly influenced or involved themselves in the construction of public buildings, squares, and temples, as well as the development of waterspouts, the institutionalisation of trusts (called guthis), the codification of laws, the writing of dramas, and the performance of plays in city squares. Evidence of an influx of ideas from India, Tibet, China, Persia, and Europe among other places can be found in a stone inscription from the time of king Pratap Malla. Books have been found from this era that describe their tantric tradition (e.g. Tantrakhyan), medicine (e.g. Haramekhala), religion (e.g. Mooldevshashidev), law, morals, and history. Amarkosh, a Sanskrit-Nepal Bhasa dictionary from 1381 AD, was also found. Architecturally notable buildings from this era include Kathmandu Durbar Square, Patan Durbar Square, Bhaktapur Durbar Square, the former durbar of Kirtipur, Nyatapola, Kumbheshwar, the Krishna temple, and others.
 
 Modern era
-
-Old_narayanhiti_palace.jpg
 
 Early Shah rule
 
@@ -102,7 +96,7 @@ Air pollution is a major issue in Kathmandu.[32][33][34] According to the 2016 W
 
 Economy
 
-Shanker.jpg is one of the city's popular heritage hotels]] Rastrabank.JPG]] Binod_K_Chaudhary,_President_of_Chaudhary_Group.jpg Binod Chaudhary is listed by _Forbes_ as Nepal's richest man]] The location and terrain of Kathmandu have played a significant role in the development of a stable economy which spans millennia. The city is in an ancient lake basin, with fertile soil and flat terrain. This geography helped form a society based on agriculture. This, combined with its location between India and China, helped establish Kathmandu as an important trading centre over the centuries. Kathmandu's trade is an ancient profession that flourished along an offshoot of the Silk Road which linked India and Tibet. From centuries past, Lhasa Newar merchants of Kathmandu have conducted trade across the Himalaya and contributed to spreading art styles and Buddhism across Central Asia.[40] Other traditional occupations are farming, metal casting, woodcarving, painting, weaving, and pottery.[41]
+is one of the city's popular heritage hotels]] ]] Binod Chaudhary is listed by _Forbes_ as Nepal's richest man]] The location and terrain of Kathmandu have played a significant role in the development of a stable economy which spans millennia. The city is in an ancient lake basin, with fertile soil and flat terrain. This geography helped form a society based on agriculture. This, combined with its location between India and China, helped establish Kathmandu as an important trading centre over the centuries. Kathmandu's trade is an ancient profession that flourished along an offshoot of the Silk Road which linked India and Tibet. From centuries past, Lhasa Newar merchants of Kathmandu have conducted trade across the Himalaya and contributed to spreading art styles and Buddhism across Central Asia.[40] Other traditional occupations are farming, metal casting, woodcarving, painting, weaving, and pottery.[41]
 
 Kathmandu is the most important industrial and commercial centre in Nepal. The Nepal Stock Exchange, the head office of the national bank, the chamber of commerce, as well as head offices of national and international banks, telecommunication companies, the electricity authority, and various other national and international organizations are in Kathmandu. The major economic hubs are the New Road, Durbar Marg, Ason and Putalisadak.[42]
 
@@ -110,7 +104,7 @@ The economic output of the metropolitan area alone is worth more than one third 
 
 Tourism
 
-Hyatt_Regency_Kathmandu_Hotel.jpg, Kathmandu]] Tourism is considered another important industry in Nepal. This industry started around 1950, as the country's political makeup changed and ended the country's isolation from the rest of the world. In 1956, air transportation was established and the Tribhuvan Highway, between Kathmandu and Raxaul (at India's border), was started. Separate organizations were created in Kathmandu to promote this activity; some of these include the Tourism Development Board, the Department of Tourism and the Civil Aviation Department. Furthermore, Nepal became a member of several international tourist associations. Establishing diplomatic relations with other nations further accentuated this activity. The hotel industry, travel agencies, training of tourist guides, and targeted publicity campaigns are the chief reasons for the remarkable growth of this industry in Nepal, and in Kathmandu in particular.[48]
+, Kathmandu]] Tourism is considered another important industry in Nepal. This industry started around 1950, as the country's political makeup changed and ended the country's isolation from the rest of the world. In 1956, air transportation was established and the Tribhuvan Highway, between Kathmandu and Raxaul (at India's border), was started. Separate organizations were created in Kathmandu to promote this activity; some of these include the Tourism Development Board, the Department of Tourism and the Civil Aviation Department. Furthermore, Nepal became a member of several international tourist associations. Establishing diplomatic relations with other nations further accentuated this activity. The hotel industry, travel agencies, training of tourist guides, and targeted publicity campaigns are the chief reasons for the remarkable growth of this industry in Nepal, and in Kathmandu in particular.[48]
 
 Since then, tourism in Nepal has thrived. It is the country's most important industry.[49] Tourism is a major source of income for most of the people in the city, with several hundred thousand visitors annually. Hindu and Buddhist pilgrims from all over the world visit Kathmandu's religious sites such as Pashupatinath, Swayambhunath, Boudhanath, Changunarayan and Budhanilkantha. From a mere 6,179 tourists in 1961/62, the number increased to 491,504 in 1999/2000. Following the end of the Maoist insurgency, there was a significant rise of 509,956 tourist arrivals in 2009. Since then, tourism has improved as the country turned into the Democratic Republic. In economic terms, the foreign exchange registered 3.8% of the GDP in 1995/96 but then started declining. The high level of tourism is attributed to the natural grandeur of the Himalayas and the rich cultural heritage of the country.[50]
 
@@ -121,17 +115,17 @@ With the opening of the tourist industry after the change in the political scena
 
 Government and public services
 
-Primeminister's_Office_01.jpg]]
+]]
 
 Civic administration
 
-Kathmandu Municipal Corporation (KMC) is the chief nodal agency for the administration of Kathmandu. The Municipality of Kathmandu was upgraded to incorporated in 1994. SAARC_Secretariat_at_Kathmandu.JPG Secretariat in Kathmandu]] Metropolitan Kathmandu is divided into five sectors: the Central Sector, the East Sector, the North Sector, the City Core and the West Sector. For civic administration, the city is further divided into 35 administrative wards. The Council administers the Metropolitan area of Kathmandu city through its 177 elected representatives and 20 nominated members. It holds biannual meetings to review, process and approve the annual budget and make major policy decisions.[54][55] The ward's profile documents for the 35 wards prepared by the Kathmandu Metropolitan Council is detailed and provides information for each ward on population, the structure and condition of houses, the type of roads, educational, health and financial institutions, entertainment facilities, parking space, security provisions, etc. It also includes lists of development projects completed, on-going and planned, along with informative data about the cultural heritage, festivals, historical sites and the local inhabitants. Ward 16 is the largest, with an area of 437.4 ha; ward 26 is the smallest, with an area of 4 ha.[56]
+Kathmandu Municipal Corporation (KMC) is the chief nodal agency for the administration of Kathmandu. The Municipality of Kathmandu was upgraded to incorporated in 1994. Secretariat in Kathmandu]] Metropolitan Kathmandu is divided into five sectors: the Central Sector, the East Sector, the North Sector, the City Core and the West Sector. For civic administration, the city is further divided into 35 administrative wards. The Council administers the Metropolitan area of Kathmandu city through its 177 elected representatives and 20 nominated members. It holds biannual meetings to review, process and approve the annual budget and make major policy decisions.[54][55] The ward's profile documents for the 35 wards prepared by the Kathmandu Metropolitan Council is detailed and provides information for each ward on population, the structure and condition of houses, the type of roads, educational, health and financial institutions, entertainment facilities, parking space, security provisions, etc. It also includes lists of development projects completed, on-going and planned, along with informative data about the cultural heritage, festivals, historical sites and the local inhabitants. Ward 16 is the largest, with an area of 437.4 ha; ward 26 is the smallest, with an area of 4 ha.[56]
 
 Kathmandu is the headquarters of the surrounding Kathmandu District. The city of Kathmandu forms this district with Kirtipur Municipality and some 57 Village Development Committees. According to the 2001 census, there are 235,387 households in the metropolitan city.
 
 Law and order
 
-The Metropolitan Police is the main law enforcement agency in the city. It is headed by a commissioner of police. The Metropolitan Police is a division of the Nepal Police, and the administrative control lies with the National Home Ministry. Dutch_Embassy_in_Kathmandu.jpg Consulate. Kathmandu hosts 28 diplomatic missions]]
+The Metropolitan Police is the main law enforcement agency in the city. It is headed by a commissioner of police. The Metropolitan Police is a division of the Nepal Police, and the administrative control lies with the National Home Ministry. Consulate. Kathmandu hosts 28 diplomatic missions]]
 
 Fire service
 
@@ -177,7 +171,7 @@ Kasthamandap is a three-storeyed temple enshrining an image of Gorakhnath. It wa
 
 Pashupatinath temple
 
-Pashupati_dec_20_2009.jpg]] Pashupatinath_temple,kathmandu,Nepal.jpg
+]]
 
 The Pashupatinath Temple is a famous 5th century Hindu temple dedicated to Lord Shiva (Pashupati). On the banks of the Bagmati River, Pashupatinath Temple is the oldest Hindu temple in Kathmandu.[73] It served as the seat of national deity, Lord Pashupatinath, until Nepal was secularized. However, a significant part of the temple was destroyed by Mughal invaders in the 14th century and little or nothing remains of the original 5th-century temple exterior. The temple as it stands today was built in the 19th century, although the image of the bull and the black four-headed image of Pashupati are at least 300 years old.[74] The temple is a UNESCO World Heritage Site.[75][76] Shivaratri, or the night of Lord Shiva, is the most important festival that takes place here, attracting thousands of devotees and sadhus.
 
@@ -187,11 +181,9 @@ The temple is built in the pagoda style of architecture, with cubic construction
 
 Boudhanath
 
-P37275-Kathmandu-Boudhanath.jpg
-
 The Boudhanath (also written as _Bouddhanath_, _Bodhnath_, _Baudhanath_ or the _Khāsa_ Chaitya), is one of the holiest Buddhist sites in Nepal, along with the Swayambhu. It is a very popular tourist site. Boudhanath is known as Khāsti by Newars and as Bauddha or Bodhnāth by speakers of Nepali.[79] About from the centre and northeastern outskirts of Kathmandu, the stupa's massive mandala makes it one of the largest spherical stupas in Nepal.[80] Boudhanath became a UNESCO World Heritage Site in 1979.
 
-Bouddha_and_Devotee.jpg Stupa, one of the largest in Nepal. It is shown during renovations following the 2015 earthquake.]]
+Stupa, one of the largest in Nepal. It is shown during renovations following the 2015 earthquake.]]
 
 The base of the stupa has 108 small depictions of the Dhyani Buddha Amitabha. It is surrounded with a brick wall with 147 niches, each with four or five prayer wheels engraved with the mantra, _om mani padme hum_.[81] At the northern entrance where visitors must pass is a shrine dedicated to Ajima, the goddess of smallpox.[82] Every year the stupa attracts many Tibetan Buddhist pilgrims who perform full body prostrations in the inner lower enclosure, walk around the stupa with prayer wheels, chant, and pray.[83] Thousands of prayer flags are hoisted up from the top of the stupa downwards and dot the perimeter of the complex. The influx of many Tibetan refugees from China has seen the construction of over 50 Tibetan gompas (monasteries) around Boudhanath.
 
@@ -205,8 +197,6 @@ Ranipokhari which is translated as "Queen's Pond" is a historic artificial pond 
 
 
 Culture
-
-Daura_Suruwal_by_Mahalaxmi_Silwal.jpg Chaitya_at_Bakunani.jpg
 
 Arts
 
@@ -232,8 +222,6 @@ Kathmandu museums and art galleries include:[89]
 -   Narayanhity Palace Museum
 -   The Taragaon Museum
 
-Nepal.Museum.JPG
-
 The National Museum is in the western part of Kathmandu, near the Swayambhunath stupa in an historical building. This building was constructed in the early 19th century by General Bhimsen Thapa. It is the most important museum in the country, housing an extensive collection of weapons, art and antiquities of historic and cultural importance. The museum was established in 1928 as a collection house of war trophies and weapons, and the initial name of this museum was _Chhauni Silkhana_, meaning "the stone house of arms and ammunition". Given its focus, the museum contains many weapons, including locally made firearms used in wars, leather cannons from the 18th–19th century, and medieval and modern works in wood, bronze, stone and paintings.[90]
 
 The Natural History Museum is in the southern foothills of Swayambhunath hill and has a sizeable collection of different species of animals, butterflies, and plants. The museum is noted for its display of species, from prehistoric shells to stuffed animals.[91]
@@ -246,8 +234,6 @@ The Taragaon Museum presents the modern history of the Kathmandu Valley.[96] It 
 
 Art galleries
 
-Cloisonne_Buddha_Statue_in_Buddhist_Art_Gallery,_Kathmandu,_Nepal.jpg
-
 Kathmandu is a centre for art in Nepal, displaying the work of contemporary artists in the country and also collections of historical artists. Patan in particular is an ancient city noted for its fine arts and crafts. Art in Kathmandu is vibrant, demonstrating a fusion of traditionalism and modern art, derived from a great number of national, Asian, and global influences. Nepali art is commonly divided into two areas: the idealistic traditional painting known as Paubhas in Nepal and perhaps more commonly known as Thangkas in Tibet, closely linked to the country's religious history and on the other hand the contemporary western-style painting, including nature-based compositions or abstract artwork based on Tantric elements and social themes of which painters in Nepal are well noted for.[100] Internationally, the British-based charity, the Kathmandu Contemporary Art Centre is involved with promoting arts in Kathmandu.[101]
 
 Kathmandu contains many notable art galleries. The NAFA Gallery, operated by the Arts and crafts Department of the Nepal Academy is housed in Sita Bhavan, a neo-classical old Rana palace.[102]
@@ -255,8 +241,6 @@ Kathmandu contains many notable art galleries. The NAFA Gallery, operated by the
 The Srijana Contemporary Art Gallery, inside the Bhrikutimandap Exhibition grounds, hosts the work of contemporary painters and sculptors, and regularly organizes exhibitions. It also runs morning and evening classes in the schools of art. Also of note is the Moti Azima Gallery, in a three-storied building in Bhimsenthan which contains an impressive collection of traditional utensils and handmade dolls and items typical of a medieval Newar house, giving an important insight into Nepali history. The J Art Gallery is also in Kathmandu, near the Royal Palace in Durbarmarg, Kathmandu and displays the artwork of eminent, established Nepali painters. The Nepal Art Council Gallery, in the Babar Mahal, on the way to Tribhuvan International Airport contains artwork of both national and international artists and extensive halls regularly used for art exhibitions.[103]
 
 Literature
-
-Asa_Archives,_Kathmandu.jpg
 
 The National Library of Nepal is in Patan. It is the largest library in the country with more than 70,000 books. English, Nepali, Sanskrit, Hindi, and Nepal Bhasa books are found here. The library is in possession of rare scholarly books in Sanskrit and English dating from the 17th century AD. Kathmandu also contains the Keshar Library, in the Keshar Mahal on the ground floor of the Ministry of Education building. This collection of around 45,000 books is derived from a personal collection of Keshar Shamsher Jang Bahadur Rana. It covers a wide range of subjects including history, law, art, religion, and philosophy, as well as a Sanskrit manual of Tantra, which is believed to be over 1,000 years old.[104] The 2015 earthquake caused severe damage to the Ministry of Education building, and the contents of the Kaiser Library have been temporarily relocated.
 
@@ -270,7 +254,7 @@ Kathmandu has a number of cinemas (old single screen establishments and some new
 
 Music
 
-Gunla_bajan_performance.jpg]]
+]]
 
 Kathmandu is the centre of music and dance in Nepal, and these art forms are integral to understanding the city. Musical performances are organized in cultural venues. Music is a part of the traditional aspect of Kathmandu. Gunla is the traditional music festival according to Nepal Sambat. Newar music originated in Kathmandu. Furthermore, music from all over Nepal can be found in Kathmandu.
 
@@ -280,7 +264,7 @@ The city has been referenced in numerous songs, including works by Cat Stevens (
 
 Cuisine
 
-Dalbath.jpg in Kathmandu]]
+in Kathmandu]]
 
 The staple food of most people in Kathmandu is dal bhat. This consists of rice and lentil soup, generally served with vegetable curries, achar and sometimes Chutney. Momo, a type of Nepali version of Tibetan dumpling, has become prominent in Nepal with many street vendors and restaurants selling it. It is one of the most popular fast foods in Kathmandu. Various Nepali variants of momo including buff (i.e. buffalo) momo, chicken momo, and vegetarian momo are famous in Kathmandu.
 
@@ -290,15 +274,11 @@ Kathmandu had only one western-style restaurant in 1955.[107] A large number of 
 
 Kathmandu has a larger proportion of tea drinkers than coffee drinkers. Tea is widely served but is extremely weak by western standards. It is richer and contains tea leaves boiled with milk, sugar and spices. Alcohol is widely drunk, and there are numerous local variants of alcoholic beverages. Drinking and driving is illegal, and authorities have a zero tolerance policy.[110] Ailaa and thwon (alcohol made from rice) are the alcoholic beverages of Kathmandu, found in all the local bhattis (alcohol serving eateries). Chhyaang, tongba (fermented millet or barley) and rakshi are alcoholic beverages from other parts of Nepal which are found in Kathmandu. However, shops and bars in Kathmandu widely sell western and Nepali beers.
 
-Samyak_fest.jpg, a Buddhist festival during which statues of Buddhas from the ancient monasteries are displayed together. Note the statue of Hanuman next to the Buddhas in the picture, a common example of religious harmony in Kathmandu.]]
+, a Buddhist festival during which statues of Buddhas from the ancient monasteries are displayed together. Note the statue of Hanuman next to the Buddhas in the picture, a common example of religious harmony in Kathmandu.]]
 
 Festivals
 
-Indra_jatra_01.jpg observing the street festival of Yenya, which literally means "festival of Kathmandu"]]
-
-Nepalese_lakhe_dancer.jpg
-
-Dipawali_2013_of_Kathmandu.jpg
+observing the street festival of Yenya, which literally means "festival of Kathmandu"]]
 
 Most of the fairs and festivals in Kathmandu originated in the Malla period or earlier. Traditionally, these festivals were celebrated by Newars. In recent years, these festivals have found wider participation from other Kathmanduites as well. As the capital of the Republic of Nepal, various national festivals are celebrated in Kathmandu. With mass migration to the city, the cultures of Khas from the west, Kirats from the east, Bon/Tibetan from the north, and Mithila from the south meet in the capital and mingle harmoniously. The festivities such as the Ghode (horse) Jatra, Indra Jatra, Dashain Durga Puja festivals, Shivratri and many more are observed by all Hindu and Buddhist communities of Kathmandu with devotional fervor and enthusiasm. Social regulation in the codes enacted incorporate Hindu traditions and ethics. These were followed by the Shah kings and previous kings, as devout Hindus and protectors of Buddhist religion.
 
@@ -341,7 +321,7 @@ Institute of Medicine, the central college of Tribhuwan University is the first 
 
 Sports
 
-Kathmandu_Rangasaala(Football_Stadium)_(2).JPG Football and Cricket are the most popular sports among the younger generation in Nepal and there are several stadiums in the city.[119] The sport is governed by the National Sports Council from its headquarters in Kathmandu. The only international football stadium in the city is the Dasarath Rangasala Stadium, a multi-purpose stadium used mostly for football matches and cultural events, in the neighbourhood of Tripureshwor. It is the largest stadium in Nepal with a capacity of 25,000 spectators, built in 1956. Martyr's Memorial League is also held in this ground every year. The stadium was renovated with Chinese help before the 8th South Asian Games were held in Kathmandu and had floodlights installed. Kathmandu is home to the oldest football clubs of Nepal such as RCT, Sankata and NRT. Other prominent clubs include MMC, Machhindra FC, Tribhuvan Army Club (TAC) and MPC.
+Football and Cricket are the most popular sports among the younger generation in Nepal and there are several stadiums in the city.[119] The sport is governed by the National Sports Council from its headquarters in Kathmandu. The only international football stadium in the city is the Dasarath Rangasala Stadium, a multi-purpose stadium used mostly for football matches and cultural events, in the neighbourhood of Tripureshwor. It is the largest stadium in Nepal with a capacity of 25,000 spectators, built in 1956. Martyr's Memorial League is also held in this ground every year. The stadium was renovated with Chinese help before the 8th South Asian Games were held in Kathmandu and had floodlights installed. Kathmandu is home to the oldest football clubs of Nepal such as RCT, Sankata and NRT. Other prominent clubs include MMC, Machhindra FC, Tribhuvan Army Club (TAC) and MPC.
 
 Kathmandu is also home of some of the oldest cricket clubs in Nepal, such as Yengal Sports Club. Kathmandu has the only recognised international cricket ground in the country, TU Cricket Ground at the Tribhuvan University in Kirtipur. The Mulpani Cricket Stadium is the under-construction cricket stadium in Mulpani, Kathmandu which will be the largest cricket stadium in the country with capacity of 30,000. Kathmandu Kings XI represents Kathmandu in Everest Premier League.[120]
 
@@ -349,8 +329,6 @@ An international stadium for swimming events is in Satdobato, Lalitpur, near Kat
 
 
 Transport
-
-Kathmandu_Avion_04.JPG
 
 The total length of roads in Nepal is recorded to be (), as of 2003–04. This fairly large network has helped the economic development of the country, particularly in the fields of agriculture, horticulture, vegetable farming, industry and also tourism.[121] In view of the hilly terrain, transportation takes place in Kathmandu are mainly by road and air. Kathmandu is connected by the Tribhuvan Highway to the south, Prithvi Highway to the west and Araniko Highway to the north. The BP Highway, connecting Kathmandu to the eastern part of Nepal is under construction.
 
@@ -376,7 +354,7 @@ Tilganga Institute of Ophthalmology is an Ophthalmological hospital in Kathmandu
 
 Media
 
-Thaunkanhe_first_issue_cover.jpg Kathmandu is the television hub of Nepal. Nepal Television, established in 1985, is the oldest and most watched television channel in Nepal, as is government-owned NTV 2 Metro, Channel Nepal, Image Channel, Kantipur Television, Sagarmatha TV, Himalayan Television and other channels.
+Kathmandu is the television hub of Nepal. Nepal Television, established in 1985, is the oldest and most watched television channel in Nepal, as is government-owned NTV 2 Metro, Channel Nepal, Image Channel, Kantipur Television, Sagarmatha TV, Himalayan Television and other channels.
 
 The headquarters of many of the country's news outlets are also in the city including Kathmandu Tribune, the government-owned Gorkhapatra, the oldest national daily newspaper in Nepal, The Kathmandu Post, Nepali Times, Kantipur Publications and its paper Kantipur, Naya Patrika the largest selling Nepali language paper, The Himalayan Times, the largest selling English broadsheet in Nepal, Karobar Economic Daily and Aarthik Abhiyan National Daily are the only economic daily in Nepal and Jana Aastha National Weekly.
 
@@ -387,7 +365,7 @@ Radio Nepal is a state-run organization which operates national and regional rad
 
 International relations and organizations
 
-Victor_Skumin_1995_Nepal.jpg Meditation Centre at Kathmandu in 1995. Victor Skumin and Gyan Jyoti Kansakar (center of the group).[131]]]
+Meditation Centre at Kathmandu in 1995. Victor Skumin and Gyan Jyoti Kansakar (center of the group).[131]]]
 
 Kathmandu Metropolitan City (KMC), in order to promote international relations has established an International Relations Secretariat (IRC). KMC's first international relationship was established in 1975 with the city of Eugene, Oregon, United States. This activity has been further enhanced by establishing formal relationships with 8 other cities: Motsumoto City (Nagano Prefecture, Japan), Rochester (New York (state), U.S.), Yangon (formerly Rangoon, Myanmar), Xi'an (Shaanxi, China), Minsk (Belarus), and Pyongyang (North Korea). KMC's constant endeavour is to enhance its interaction with SAARC countries, other International agencies and many other major cities of the world to achieve better urban management and developmental programs for Kathmandu.[132]
 

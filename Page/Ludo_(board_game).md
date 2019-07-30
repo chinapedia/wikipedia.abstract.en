@@ -40,14 +40,14 @@ Other
 
 Ludo board
 
-Ludo-3.jpg Special areas of the Ludo board are typically coloured bright yellow, green, red, and blue. Each player is assigned a colour and has four tokens in their colour. The board is normally square with a cross-shaped , with each arm of the cross having three columns of squares, usually six per column. The middle columns usually have five squares coloured; these represent a player's _home column_. A sixth coloured square not on the home column is a player's _starting square_. At the centre of the board is a large _finishing square_, often composed of coloured triangles atop the players' home columns (thus depicting "arrows" pointing to the finish).
+Special areas of the Ludo board are typically coloured bright yellow, green, red, and blue. Each player is assigned a colour and has four tokens in their colour. The board is normally square with a cross-shaped , with each arm of the cross having three columns of squares, usually six per column. The middle columns usually have five squares coloured; these represent a player's _home column_. A sixth coloured square not on the home column is a player's _starting square_. At the centre of the board is a large _finishing square_, often composed of coloured triangles atop the players' home columns (thus depicting "arrows" pointing to the finish).
 
 
 Rules
 
 Overview
 
-Ludo_board.png Two, three, or four can play, without partnerships. At the beginning of the game, each player's four tokens are out of play and in the player's _yard_ (one of the large corner areas of the board in the player's colour). When able to, the players will enter their tokens one per time on their respective starting squares, and proceed to race them clockwise around the board along the _game track_ (the path of squares not part of any player's home column). When reaching the square below his home column, a player continues by moving tokens up the column to the finishing square. The rolls of a single die [6][7] control the swiftness of the tokens, and entry to the finishing square requires a precise roll from the player. The first to bring all their tokens to the finish wins the game. The others often continue play to determine second-, third-, and fourth-place finishers.
+Two, three, or four can play, without partnerships. At the beginning of the game, each player's four tokens are out of play and in the player's _yard_ (one of the large corner areas of the board in the player's colour). When able to, the players will enter their tokens one per time on their respective starting squares, and proceed to race them clockwise around the board along the _game track_ (the path of squares not part of any player's home column). When reaching the square below his home column, a player continues by moving tokens up the column to the finishing square. The rolls of a single die [6][7] control the swiftness of the tokens, and entry to the finishing square requires a precise roll from the player. The first to bring all their tokens to the finish wins the game. The others often continue play to determine second-, third-, and fourth-place finishers.
 
 Gameplay
 
@@ -62,7 +62,7 @@ Players may not end their move on a square they already occupy. If the advance o
 
 Variations
 
-Narayangarh-12.JPG variant being played on a Ludo board in Nepal]]
+variant being played on a Ludo board in Nepal]]
 
 -   Ludo played in the Indian continent features a safe square in each quadrant, normally the fourth square from the top in the rightmost column. These squares are usually marked with a star. In India Ludo is often played with two dice, and rolling _1_ on a die also allows a token to enter active play. Thus if a player rolls a _1_ and a _6_, they may get a token out and move it six steps.
 -   To get a game started faster, some house rules allow a player with no pieces on the board to bring their first piece into play on any roll, on a _1_ or a _6_, or allow multiple tries to roll a _6_ (with three rolls being the most popular).
@@ -78,8 +78,6 @@ Narayangarh-12.JPG variant being played on a Ludo board in Nepal]]
 -   In Denmark and some other countries the board has eight spaces marked with a globe and eight with a star. The globes are safe spaces where a piece cannot be captured. The exception is that a player who has not yet entered all pieces, can always enter a piece on a roll of _6_. If the entry space is occupied by another player's piece, that piece is captured. Otherwise the entry spaces work like the other globe spaces. A piece which would have landed on a star instead moves to the next star.
 -   In Vietnam, it is called "Cờ cá ngựa", where the game is modeled after a horse race with the tokens modeled as horse heads. In this variation, a _1_ is given equal status to a _6_ (meaning that the player can enter a token into play and can roll again). Furthermore, once a player's token reaches their home column, it can only go up each square with an exact roll. This means that a person outside the column must roll a _1_ to enter the first square, a _2_ afterwards to enter the second, and so forth.
 -   In Pakistan, a variation that uses two dice allows backwards movement. The dice are rolled and the die values can be used independently or in combination to move two pieces or a single piece forwards or backwards or both. (E.g., if the roll gives _1_ and _4_, the player can move a single piece 4 steps forwards and then 1 step backwards, or 1 step forwards and 4 steps backwards, or 1 then 4 steps forwards or backwards. Or the player can move a piece 1 step forwards or backwards, and another piece 4 steps forwards or backwards.)
-
-Ludu_Play_02.jpg
 
 African variations
 

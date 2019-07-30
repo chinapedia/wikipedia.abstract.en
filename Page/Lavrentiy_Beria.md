@@ -21,7 +21,7 @@ In 1924, he led the repression of a Georgian nationalist uprising, after which u
 
 In 1926, Beria became head of the Georgian OGPU; Sergo Ordzhonikidze, head of the Transcaucasian party, introduced him to fellow-Georgian Iosef Dzhughashvili, later known as Joseph Stalin. As a result, Beria became an ally in Stalin's rise to power. During his years at the helm of the Georgian OGPU, Beria effectively destroyed the intelligence networks that Turkey and Iran had developed in the Soviet Caucasus, while successfully penetrating the governments of these countries with his agents. He also took over Stalin's holiday security.
 
-Makharadze,_Mir-Jafar_Bagirov,_Beria.jpg caucus, 1935. Left to right: Filipp Makharadze, Mir Jafar Baghirov, Beria.]]
+caucus, 1935. Left to right: Filipp Makharadze, Mir Jafar Baghirov, Beria.]]
 
 Beria was appointed Secretary of the Communist Party in Georgia in 1931, and for the whole Transcaucasian region in 1932. He became a member of the Central Committee of the Communist Party of the Soviet Union in 1934. During this time, he began to attack fellow members of the Georgian Communist Party, particularly Gaioz Devdariani, who served as Minister of Education of the Georgian SSR. Beria ordered the executions of Devdariani's brothers George and Shalva, who held important positions in the Cheka and the Communist Party respectively.
 
@@ -32,7 +32,7 @@ In June 1937, he said in a speech, "Let our enemies know that anyone who attempt
 
 Head of the NKVD
 
-Katyn_-_decision_of_massacre_p1.jpg and other places in the Soviet Union]] Khrushchyov,_Beria_and_Khanjian.jpg, Nikita Khrushchev, Lavrenti Beria and Aghasi Khanjian during the opening of the Moscow Metro in 1936. The same year Lakoba and Khanjian were killed by Beria.]] In August 1938, Stalin brought Beria to Moscow as deputy head of the People's Commissariat for Internal Affairs (NKVD), the ministry which oversaw the state security and police forces. Under Nikolai Yezhov, the NKVD carried out the Great Purge: the imprisonment or execution of millions of people throughout the Soviet Union as alleged "enemies of the people." By 1938, however, the oppression had become so extensive that it was damaging the infrastructure, economy and even the armed forces of the Soviet state, prompting Stalin to wind the purge down. Stalin had voted to appoint Georgy Malenkov as head of the NKVD, but he was overruled. In September, Beria was appointed head of the Main Administration of State Security (GUGB) of the NKVD, and in November he succeeded Yezhov as NKVD head. Yezhov was executed in 1940 and one account says he was personally strangled by Beria.[14] The NKVD was purged next, with half of its personnel replaced by Beria loyalists, many of them from the Caucasus.
+and other places in the Soviet Union]] , Nikita Khrushchev, Lavrenti Beria and Aghasi Khanjian during the opening of the Moscow Metro in 1936. The same year Lakoba and Khanjian were killed by Beria.]] In August 1938, Stalin brought Beria to Moscow as deputy head of the People's Commissariat for Internal Affairs (NKVD), the ministry which oversaw the state security and police forces. Under Nikolai Yezhov, the NKVD carried out the Great Purge: the imprisonment or execution of millions of people throughout the Soviet Union as alleged "enemies of the people." By 1938, however, the oppression had become so extensive that it was damaging the infrastructure, economy and even the armed forces of the Soviet state, prompting Stalin to wind the purge down. Stalin had voted to appoint Georgy Malenkov as head of the NKVD, but he was overruled. In September, Beria was appointed head of the Main Administration of State Security (GUGB) of the NKVD, and in November he succeeded Yezhov as NKVD head. Yezhov was executed in 1940 and one account says he was personally strangled by Beria.[14] The NKVD was purged next, with half of its personnel replaced by Beria loyalists, many of them from the Caucasus.
 
 Although Beria's name is closely identified with the Great Purge because of his activities while deputy head of the NKVD, his leadership of the organisation marked an easing of the repression begun under Yezhov. Over 100,000 people were released from the labour camps. The government officially admitted that there had been some injustice and "excesses" during the purges, which were blamed entirely on Yezhov. The liberalisation was only relative: arrests and executions continued, and in 1940, as war approached, the pace of the purges again accelerated. During this period, Beria supervised deportations of people identified as political enemies from Poland and the Baltic states after Soviet occupation of those regions.
 
@@ -53,7 +53,7 @@ Abroad, Beria had met with Kim Il-sung, the future leader of North Korea, severa
 
 Post-war politics
 
-Lavrenti_Beria_Stalins_family.jpg, and Nestor Lakoba (obscured)[19]]]
+, and Nestor Lakoba (obscured)[19]]]
 
 With Stalin nearing 70, a concealed struggle for succession amongst his entourage dominated Kremlin politics in the post-war years. At the end of the war, Andrei Zhdanov seemed the most likely candidate. Zhdanov had served as the Communist Party leader in Leningrad during the war, and by 1946 had charge of all cultural matters. After 1946, Beria formed an alliance with Malenkov to counter Zhdanov's rise.[20]
 

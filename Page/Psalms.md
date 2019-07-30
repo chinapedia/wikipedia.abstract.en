@@ -1,9 +1,9 @@
-Gerard_van_Honthorst_-_King_David_Playing_the_Harp_-_Google_Art_Project.jpg, _King David Playing the Harp_, 1622]] The BOOK OF PSALMS ( or ; , , "praises"), commonly referred to simply as PSALMS or "the Psalms", is the first book of the _Ketuvim_ ("Writings"), the third section of the Hebrew Bible, and thus a book of the Christian Old Testament. The title is derived from the Greek translation, , meaning "instrumental music" and, by extension, "the words accompanying the music". The book is an anthology of individual psalms, with 150 in the Jewish and Western Christian tradition and more in the Eastern Christian churches. Many are linked to the name of David, but his authorship is not accepted by modern scholars.
+, _King David Playing the Harp_, 1622]] The BOOK OF PSALMS ( or ; , , "praises"), commonly referred to simply as PSALMS or "the Psalms", is the first book of the _Ketuvim_ ("Writings"), the third section of the Hebrew Bible, and thus a book of the Christian Old Testament. The title is derived from the Greek translation, , meaning "instrumental music" and, by extension, "the words accompanying the music". The book is an anthology of individual psalms, with 150 in the Jewish and Western Christian tradition and more in the Eastern Christian churches. Many are linked to the name of David, but his authorship is not accepted by modern scholars.
 
 
 Structure
 
-below}} The_Sunday_at_Home_1880_-_Psalm_23.jpg illustration of Psalm 23, from the Religious Tract Society's magazine _The Sunday at Home_]]
+below}} illustration of Psalm 23, from the Religious Tract Society's magazine _The Sunday at Home_]]
 
 Benedictions
 
@@ -48,7 +48,7 @@ _Hymns_, songs of praise for God's work in creation or history. They typically o
 
 Communal laments
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_136.png]] _Communal laments_, in which the nation laments some communal disaster. Both communal and individual laments typically but not always include the following elements:
+]] _Communal laments_, in which the nation laments some communal disaster. Both communal and individual laments typically but not always include the following elements:
 
 1.  address to God,
 2.  description of suffering,
@@ -63,7 +63,7 @@ In general, the individual and communal subtypes can be distinguished by the use
 
 Royal psalms
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_135.png]] _Royal psalms_, dealing with such matters as the king's coronation, marriage and battles. None of them mentions any specific king by name, and their origin and use remain obscure; several psalms, especially Ps. 93–99, concern the kingship of God, and might relate to an annual ceremony in which Yahweh would be ritually reinstated as king.
+]] _Royal psalms_, dealing with such matters as the king's coronation, marriage and battles. None of them mentions any specific king by name, and their origin and use remain obscure; several psalms, especially Ps. 93–99, concern the kingship of God, and might relate to an annual ceremony in which Yahweh would be ritually reinstated as king.
 
 Individual laments
 
@@ -83,8 +83,6 @@ In addition to these five major genres, Gunkel also recognised a number of minor
 
 
 Composition
-
-Psalms_scroll.PNG
 
 Origins
 
@@ -106,7 +104,7 @@ Two clauses expressing the idea of amplifying the first claim is known as expans
 
 Editorial agenda
 
-Utrecht_Psalter_(cropped).jpg (11) in the 9th-century Utrecht Psalter, where the illustration of the text is often literal.]] Many scholars believe the individual Psalms were redacted into a single collection in Second-Temple times. It had long been recognized that the collection bore the imprint of an underlying message or metanarrative, but that this message remained concealed, as Augustine of Hippo said, "The sequence of the Psalms seems to me to contain the secret of a mighty mystery, but its meaning has not been revealed to me." (_Enarr._ on Ps. 150.1) Others pointed out the presence of concatenation, that is, adjacent Psalms sharing similar words and themes. In time, this approach developed into recognizing overarching themes shared by whole groups of psalms.[9]
+(11) in the 9th-century Utrecht Psalter, where the illustration of the text is often literal.]] Many scholars believe the individual Psalms were redacted into a single collection in Second-Temple times. It had long been recognized that the collection bore the imprint of an underlying message or metanarrative, but that this message remained concealed, as Augustine of Hippo said, "The sequence of the Psalms seems to me to contain the secret of a mighty mystery, but its meaning has not been revealed to me." (_Enarr._ on Ps. 150.1) Others pointed out the presence of concatenation, that is, adjacent Psalms sharing similar words and themes. In time, this approach developed into recognizing overarching themes shared by whole groups of psalms.[9]
 
 In 1985, Gerald H. Wilson's _The Editing of the Hebrew Psalter_ proposed – by parallel with other ancient eastern hymn collections – that psalms at the beginning and end (or "seams") of the five books of Psalms have thematic significance, corresponding in particular with the placement of the royal psalms. He pointed out that there was a progression of ideas, from adversity, through the crux of the collection in the apparent failure of the covenant in Psalm 89, leading to a concert of praise at the end. He concluded that the collection was redacted to be a retrospective of the failure of the Davidic covenant, exhorting Israel to trust in God alone in a non-messianic future.[10] Walter Brueggemann suggested that the underlying editorial purpose was oriented rather towards wisdom or sapiential concerns, addressing the issues of how to live the life of faith. Psalm 1 calls the reader to a life of obedience; Psalm 73 (Brueggemann's crux psalm) faces the crisis when divine faithfulness is in doubt; Psalm 150 represents faith's triumph, when God is praised not for his rewards, but for his being.[11] In 1997, David. C. Mitchell's _The Message of the Psalter_ took a quite different line. Building on the work of Wilson and others,[12] Mitchell proposed that the Psalter embodies an eschatological timetable like that of Zechariah 9–14.[13] This programme includes the gathering of exiled Israel by a bridegroom-king; his establishment of a kingdom; his violent death; Israel scattered in the wilderness, regathered and again imperilled, then rescued by a king from the heavens, who establishes his kingdom from Zion, brings peace and prosperity to the earth and receives the homage of the nations.
 
@@ -133,7 +131,7 @@ Some psalms are called "maskil" (maschil) because in addition they impart wisdom
 
 Later interpretation and influence
 
-David_Playing_the_Harp_1670_Jan_de_Bray.jpg, 1670]] Bhs_psalm1.gif text of Psalm 1:1-2]] Psalms_WesternWall.jpg man reads Psalm 119 at the Western Wall.]]
+, 1670]] text of Psalm 1:1-2]] man reads Psalm 119 at the Western Wall.]]
 
 Overview
 
@@ -160,7 +158,7 @@ The reading of psalms is viewed in Jewish tradition as a vehicle for gaining God
 
 In Christian worship
 
-Psałterz_florianski1.jpg's psalter, 14th or 15th century, Polish translation]] Cantoria_Della_Robbia_OPA_Florence_9.jpg)]] Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_134.png]] New Testament references show that the earliest Christians used the Psalms in worship, and the Psalms have remained an important part of worship in most Christian Churches. The Eastern Orthodox, Catholic, Presbyterian, Lutheran and Anglican Churches have always made systematic use of the Psalms, with a cycle for the recitation of all or most of them over the course of one or more weeks. In the early centuries of the Church, it was expected that any candidate for bishop would be able to recite the entire Psalter from memory, something they often learned automatically[29] during their time as monks.
+'s psalter, 14th or 15th century, Polish translation]] )]] ]] New Testament references show that the earliest Christians used the Psalms in worship, and the Psalms have remained an important part of worship in most Christian Churches. The Eastern Orthodox, Catholic, Presbyterian, Lutheran and Anglican Churches have always made systematic use of the Psalms, with a cycle for the recitation of all or most of them over the course of one or more weeks. In the early centuries of the Church, it was expected that any candidate for bishop would be able to recite the entire Psalter from memory, something they often learned automatically[29] during their time as monks.
 
 Paul the Apostle quotes psalms (specifically Psalms 14 and 53, which are nearly identical) as the basis for his theory of original sin, and includes the scripture in the Epistle to the Romans, chapter 3.
 
@@ -208,7 +206,7 @@ Over the centuries, the use of complete Psalms in the liturgy declined. After th
 
 Protestant usage
 
-Überführung_der_Bundeslade_durch_den_singenden_und_tanzenden_König_David.jpg, c. 1650.]] Psalm_1_metrical_1628.jpg version widespread in Anglican usage before the English Civil War (1628 printing). It was from this version that the armies sang before going into battle.]]
+, c. 1650.]] version widespread in Anglican usage before the English Civil War (1628 printing). It was from this version that the armies sang before going into battle.]]
 
 Following the Protestant Reformation, versified translations of many of the Psalms were set as hymns. These were particularly popular in the Calvinist tradition, where in the past they were typically sung to the exclusion of hymns. John Calvin himself made some French translations of the Psalms for church usage, but the completed Genevan Psalter eventually used in church services consisted exclusively of translations by Clément Marot and Théodore de Bèze, on melodies by a number of composers, including Louis Bourgeois and a certain Maistre Pierre. Martin Luther's Ein feste Burg ist unser Gott is based on Psalm 46. Among famous hymn settings of the Psalter were the Scottish Psalter and the paraphrases by Isaac Watts. The first book printed in North America was a collection of Psalm settings, the Bay Psalm Book (1640).
 
@@ -244,8 +242,6 @@ According to Ahrens (1930) the last reference is quoted from Psalms.[38] He says
 
 
 Psalms set to music
-
-Psalm_at_the_Grand_Canyon.jpg
 
 Multiple psalms as a single composition
 

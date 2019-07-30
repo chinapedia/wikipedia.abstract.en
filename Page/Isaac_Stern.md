@@ -1,9 +1,9 @@
-Isaac_Stern_-_1980.JPG, 1980]] ISAAC STERN (21 July 1920 – 22 September 2001) was an American violinist.[1]
+, 1980]] ISAAC STERN (21 July 1920 – 22 September 2001) was an American violinist.[1]
 
 
 Biography
 
-Isaac_Stern_1979b.jpg The son of Solomon and Clara Stern,[2] Isaac Stern was born in Kremenets, Poland (now Ukraine), into a Jewish family. He was 14 months old when his family moved to San Francisco in 1921. He received his first music lessons from his mother. In 1928, he enrolled at the San Francisco Conservatory of Music, where he studied until 1931 before going on to study privately with Louis Persinger.[3] He returned to the San Francisco Conservatory to study for five years with Naoum Blinder, to whom he said he owed the most.[4] At his public début on 18 February 1936, aged 15, he played Saint-Saëns' Violin Concerto No. 3 in B minor with the San Francisco Symphony under the direction of Pierre Monteux. Reflecting on his background, Stern once memorably quipped that cultural exchanges between the U.S. and Soviet Russia were simple affairs:
+The son of Solomon and Clara Stern,[2] Isaac Stern was born in Kremenets, Poland (now Ukraine), into a Jewish family. He was 14 months old when his family moved to San Francisco in 1921. He received his first music lessons from his mother. In 1928, he enrolled at the San Francisco Conservatory of Music, where he studied until 1931 before going on to study privately with Louis Persinger.[3] He returned to the San Francisco Conservatory to study for five years with Naoum Blinder, to whom he said he owed the most.[4] At his public début on 18 February 1936, aged 15, he played Saint-Saëns' Violin Concerto No. 3 in B minor with the San Francisco Symphony under the direction of Pierre Monteux. Reflecting on his background, Stern once memorably quipped that cultural exchanges between the U.S. and Soviet Russia were simple affairs:
 
 
 
@@ -49,8 +49,6 @@ In 2001, Stern's collection of instruments, bows and musical ephemera was sold t
 
 Awards and commemoration
 
-Isaac_Stern_1971.jpg
-
 -   Sonning Award (1982; Denmark)
 -   Wolf Prize
 -   Kennedy Center Honors (1984)
@@ -68,7 +66,7 @@ In 2012, a street in Tel Aviv was named for Stern.[21]
 
 Discography
 
-Isaac_Stern_1979.jpg Bezalel_schatz_002.jpg painting a portrait of Isaac Stern]]
+painting a portrait of Isaac Stern]]
 
 
 

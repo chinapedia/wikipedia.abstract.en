@@ -3,7 +3,7 @@ PAINT is any pigmented liquid, liquefiable, or mastic composition that, after ap
 
 History
 
-Lascaux,_Megaloceros.jpg from Lascaux, France]] Paint was one of the earliest inventions of mankind. Some cave paintings drawn with red or yellow ochre, hematite, manganese oxide, and charcoal may have been made by early _Homo sapiens_ as long as 40,000 years ago.[1] Paint may be even older. In 2003 and 2004, South African archeologists reported finds in Blombos Cave of a 100,000-year-old human-made ochre-based mixture that could have been used like paint.[2][3] Further excavation in the same cave resulted in the 2011 report of a complete toolkit for grinding pigments and making a primitive paint-like substance.[4][5]
+from Lascaux, France]] Paint was one of the earliest inventions of mankind. Some cave paintings drawn with red or yellow ochre, hematite, manganese oxide, and charcoal may have been made by early _Homo sapiens_ as long as 40,000 years ago.[1] Paint may be even older. In 2003 and 2004, South African archeologists reported finds in Blombos Cave of a 100,000-year-old human-made ochre-based mixture that could have been used like paint.[2][3] Further excavation in the same cave resulted in the 2011 report of a complete toolkit for grinding pigments and making a primitive paint-like substance.[4][5]
 
 Ancient colored walls at Dendera, Egypt, which were exposed for years to the elements, still possess their brilliant color, as vivid as when they were painted about 2,000 years ago. The Egyptians mixed their colors with a gummy substance, and applied them separately from each other without any blending or mixture. They appear to have used six colors: white, black, blue, red, yellow, and green. They first covered the area entirely with white, then traced the design in black, leaving out the lights of the ground color. They used minium for red, generally of a dark tinge.
 
@@ -98,9 +98,9 @@ Color can also change depending on viewing angle, using iridescence, for example
 
 Art
 
-Brush_and_watercolours.jpgs as applied with a brush]] Since the time of the Renaissance, siccative (drying) oil paints, primarily linseed oil, have been the most commonly used kind of paints in fine art applications; oil paint is still common today. However, in the 20th century, water-based paints, including watercolors and acrylic paints, became very popular with the development of acrylic and other latex paints. Milk paints (also called casein), where the medium is derived from the natural emulsion that is milk, were popular in the 19th century and are still available today. Egg tempera (where the medium is an emulsion of raw egg yolk mixed with oil) is still in use as well, as are encaustic wax-based paints. Gouache is a variety of opaque watercolor that was also used in the Middle Ages and Renaissance for manuscript illuminations. The pigment was often made from ground semiprecious stones such as lapis lazuli and the binder made from either gum arabic or egg white. Gouache, also known as 'designer color' or 'body color' is commercially available today.
+s as applied with a brush]] Since the time of the Renaissance, siccative (drying) oil paints, primarily linseed oil, have been the most commonly used kind of paints in fine art applications; oil paint is still common today. However, in the 20th century, water-based paints, including watercolors and acrylic paints, became very popular with the development of acrylic and other latex paints. Milk paints (also called casein), where the medium is derived from the natural emulsion that is milk, were popular in the 19th century and are still available today. Egg tempera (where the medium is an emulsion of raw egg yolk mixed with oil) is still in use as well, as are encaustic wax-based paints. Gouache is a variety of opaque watercolor that was also used in the Middle Ages and Renaissance for manuscript illuminations. The pigment was often made from ground semiprecious stones such as lapis lazuli and the binder made from either gum arabic or egg white. Gouache, also known as 'designer color' or 'body color' is commercially available today.
 
-Poster paint has been used primarily in the creation of student works, or by children. Unio_pictorum.jpg", a European freshwater mussel. Individual shell valves were used by artists as a small dish for paint.]]
+Poster paint has been used primarily in the creation of student works, or by children. ", a European freshwater mussel. Individual shell valves were used by artists as a small dish for paint.]]
 
 
 Application
@@ -147,7 +147,7 @@ To dispose of paint it can be dried and disposed of in the domestic waste stream
 
 Product variants
 
-EWM_paint_2007.jpg Vlg_shop.jpg, Tver City, 2011.]] Kwadi.jpg
+, Tver City, 2011.]]
 
 -   PRIMER is a preparatory coating put on materials before applying the paint itself. The primed surface ensures better adhesion of the paint, thereby increasing the durability of the paint and providing improved protection for the painted surface. Suitable primers also may block and seal stains, or hide a color that is to be painted over.
 -   EMULSION PAINTS are water-based paints in which the paint material is dispersed in a liquid that consists mainly of water. For suitable purposes this has advantages in fast drying, low toxicity, low cost, easier application, and easier cleaning of equipment, among other factors.

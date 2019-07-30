@@ -2,7 +2,7 @@ MAY is the fifth month of the year in the Julian and Gregorian calendars and the
 
 May is a month of spring in the Northern Hemisphere and autumn in the Southern Hemisphere. Therefore, May in the Southern Hemisphere is the seasonal equivalent of November in the Northern Hemisphere and vice versa. Late May typically marks the of the summer vacation season in the United States and Canada that ends on Labor Day, the first Monday of September.
 
-The month of May (in Latin, _Maius_) was named for the Greek Goddess Maia, who was identified with the Roman era goddess of fertility, Bona Dea, whose festival was held in May. Conversely, the Roman poet Ovid provides a second etymology, in which he says that the month of May is named for the _maiores,_ Latin for "elders," and that the following month (June) is named for the _iuniores,_ or "young people" (_Fasti VI.88_). MTA_Peregrina_2.jpg Mayovka, in the context of the late Russian Empire, was a picnic in the countryside or in a park in the early days of May, hence the name. Eventually, "mayovka" (specifically, "proletarian mayovka") came to mean an illegal celebration of May 1 by revolutionary public, typically presented as an innocent picnic.[1]
+The month of May (in Latin, _Maius_) was named for the Greek Goddess Maia, who was identified with the Roman era goddess of fertility, Bona Dea, whose festival was held in May. Conversely, the Roman poet Ovid provides a second etymology, in which he says that the month of May is named for the _maiores,_ Latin for "elders," and that the following month (June) is named for the _iuniores,_ or "young people" (_Fasti VI.88_). Mayovka, in the context of the late Russian Empire, was a picnic in the countryside or in a park in the early days of May, hence the name. Eventually, "mayovka" (specifically, "proletarian mayovka") came to mean an illegal celebration of May 1 by revolutionary public, typically presented as an innocent picnic.[1]
 
 Special devotions to the Virgin Mary take place in May. See May devotions to the Blessed Virgin Mary.
 
@@ -15,11 +15,11 @@ Under the calendar of ancient Rome, the festival of Bona Dea fell on May 1, Arge
 
 May symbols
 
-Lily_of_the_valley.jpg]]
+]]
 
--   Hooker_emerald.jpg brooch]]May's birthstone is the emerald which is emblematic of love and success.
--   Crataegus-monogyna.JPG]]The May birth flowers are the Lily of the Valley and the _Crataegus monogyna_.[2] Both are native throughout the cool temperate Northern Hemisphere in Asia, Europe, and in the southern Appalachian Mountains in the United States, but have been naturalized throughout the temperate climactic world.
--   Trailing_arbutus.jpgThe "Mayflower" _Epigaea repens_ is a North American harbinger of May, and the floral emblem of both Nova Scotia and Massachusetts. Its native range extends from Newfoundland south to Florida, west to Kentucky in the southern range, and to Northwest Territories in the north.
+-   brooch]]May's birthstone is the emerald which is emblematic of love and success.
+-   ]]The May birth flowers are the Lily of the Valley and the _Crataegus monogyna_.[2] Both are native throughout the cool temperate Northern Hemisphere in Asia, Europe, and in the southern Appalachian Mountains in the United States, but have been naturalized throughout the temperate climactic world.
+-   The "Mayflower" _Epigaea repens_ is a North American harbinger of May, and the floral emblem of both Nova Scotia and Massachusetts. Its native range extends from Newfoundland south to Florida, west to Kentucky in the southern range, and to Northwest Territories in the north.
 -   The zodiac signs for the month of May are Taurus (until May 20) and Gemini (May 21 onwards).
 
 
@@ -317,7 +317,7 @@ Last Thursday: May 30
 
 Fixed observances in May
 
-Les_Très_Riches_Heures_du_duc_de_Berry_mai.jpg'']] Mai_Leandro_Bassano.jpg]] Rosa_chinensis.jpg, the flower symbol of May]]
+'']] ]] , the flower symbol of May]]
 
 -   April 29 to May 5 in Japan, which includes four different holidays, is called "Golden Week". Many workers have up to 10 days off. There is also 'May sickness', where new students or workers start to be tired of their new routine. (In Japan the school year and fiscal year start on April 1.)
 -   May 1

@@ -49,7 +49,7 @@ The Muppets appeared in their first theatrical feature film _The Muppet Movie_ i
 
 Henson also aided others in their work. The producers of _The Empire Strikes Back_ (1980) asked him to aid make-up artist Stuart Freeborn in the creation and articulation of Yoda. He suggested that George Lucas use Frank Oz as the puppeteer and voice of Yoda, and Oz did so in it and the five subsequent _Star Wars_ films. Lucas lobbied unsuccessfully to have Oz nominated for an Academy Award for Best Supporting Actor.[41]
 
-Lucas_-_Henson_-_1986.jpg working on _Labyrinth_ in 1986]] In 1982, Henson founded the Jim Henson Foundation to promote and develop the art of puppetry in the United States. Around that time, he began creating darker and more realistic fantasy films that did not feature the Muppets and displayed "a growing, brooding interest in mortality."[42] He co-directed _The Dark Crystal_ (1982) with Frank Oz, "trying to go toward a sense of realism—toward a reality of creatures that are actually alive".[43] To provide a visual style distinct from the Muppets, the puppets in _The Dark Crystal_ were based on conceptual artwork by Brian Froud, and it was a financial and critical success.
+working on _Labyrinth_ in 1986]] In 1982, Henson founded the Jim Henson Foundation to promote and develop the art of puppetry in the United States. Around that time, he began creating darker and more realistic fantasy films that did not feature the Muppets and displayed "a growing, brooding interest in mortality."[42] He co-directed _The Dark Crystal_ (1982) with Frank Oz, "trying to go toward a sense of realism—toward a reality of creatures that are actually alive".[43] To provide a visual style distinct from the Muppets, the puppets in _The Dark Crystal_ were based on conceptual artwork by Brian Froud, and it was a financial and critical success.
 
 Oz directed _The Muppets Take Manhattan_ (1984) which grossed $25.5 million domestically and ranked one of the top 40 films of 1984.[44] _Labyrinth_ (1986) was a fantasy that Henson directed by himself, but it was considered a commercial disappointment, despite some positive reviews; _The New York Times_ called it "a fabulous film".[45] This demoralized Henson; his son Brian Henson described it as "the closest I've seen him to turning in on himself and getting quite depressed."[46] The film later became a cult classic.[47]
 
@@ -83,7 +83,7 @@ One of Henson's last projects was the attraction _Muppet*Vision 3D_, which opene
 
 Tributes
 
-Mickeykermit.jpg artists Joe Lanzisero and Tim Kirk drew this tribute of Mickey Mouse consoling Kermit the Frog, which appeared in the Summer 1990 issue of _WD Eye_, Walt Disney Imagineering's employee magazine.]]
+artists Joe Lanzisero and Tim Kirk drew this tribute of Mickey Mouse consoling Kermit the Frog, which appeared in the Summer 1990 issue of _WD Eye_, Walt Disney Imagineering's employee magazine.]]
 
 -   In 1971, the University of Maryland's National Residence Hall Honorary chapter was founded as the Jim Henson Chapter. The UMD NRHH Chapter is still the Jim Henson Chapter to this day.
 -   Henson is honored both as himself and as Kermit the Frog on the Hollywood Walk of Fame. Only three other people have received this honor: Walt Disney as both himself and Mickey Mouse; Mel Blanc as both himself and Bugs Bunny; and Mike Myers as both himself and Shrek. Henson was posthumously inducted into the Walk of Fame in 1991.[77]

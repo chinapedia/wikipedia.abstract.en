@@ -1,4 +1,4 @@
-F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg around 1639, at the height of mercantilism]] MERCANTILISM is a national economic policy that is designed to maximize the exports of a nation. Mercantilism was dominant in modernized parts of Europe from the 16th to the 18th centuries, a period of proto-industrialization,[1] before falling into decline, although some commentators argue that it is still practiced in the economies of industrializing countries,[2] in the form of economic interventionism.[3][4][5][6][7]
+around 1639, at the height of mercantilism]] MERCANTILISM is a national economic policy that is designed to maximize the exports of a nation. Mercantilism was dominant in modernized parts of Europe from the 16th to the 18th centuries, a period of proto-industrialization,[1] before falling into decline, although some commentators argue that it is still practiced in the economies of industrializing countries,[2] in the form of economic interventionism.[3][4][5][6][7]
 
 It promotes government regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers. Mercantilism includes a national economic policy aimed at accumulating monetary reserves through a positive balance of trade, especially of finished goods. Historically, such policies frequently led to war and also motivated colonial expansion.[8]
 
@@ -6,7 +6,7 @@ Mercantilist theory varies in sophistication from one writer to another and has 
 
 With the efforts of supranational organizations such as the World Trade Organization to reduce tariffs globally, non-tariff barriers to trade have assumed a greater importance in neomercantilism.
 
-Il_Ritorno_del_Bucintoro_al_molo_nel_giorno_dell'Ascensione_(c.1738)_Canaletto_-_Wells-Next-The-Sea,_The_Earl_of_Leicester_and_Trustees_of_the_Holkham_Estate.jpg]]
+]]
 
 
 History
@@ -70,7 +70,7 @@ The policies have included:
 
 France
 
-Jean-Baptiste_Colbert.jpg served for over 20 years.]]
+served for over 20 years.]]
 
 Mercantilism arose in France in the early 16th century soon after the monarchy had become the dominant force in French politics. In 1539, an important decree banned the import of woolen goods from Spain and some parts of Flanders. The next year, a number of restrictions were imposed on the export of bullion.[30]
 
@@ -86,7 +86,7 @@ Great Britain
 
 In England, mercantilism reached its peak during the Long Parliament government (1640–60). Mercantilist policies were also embraced throughout much of the Tudor and Stuart periods, with Robert Walpole being another major proponent. In Britain, government control over the domestic economy was far less extensive than on the Continent, limited by common law and the steadily increasing power of Parliament.[33] Government-controlled monopolies were common, especially before the English Civil War, but were often controversial.[34]
 
-De_slag_bij_Terheide_-_The_Battle_of_Schevening_-_August_10_1653_(Willem_van_de_Velde_I,_1657).jpg were fought between the English and the Dutch for control over the seas and trade routes.]]
+were fought between the English and the Dutch for control over the seas and trade routes.]]
 
 With respect to its colonies, British mercantilism meant that the government and the merchants became partners with the goal of increasing political power and private wealth, to the exclusion of other empires. The government protected its merchants—and kept others out—through trade barriers, regulations, and subsidies to domestic industries in order to maximize exports from and minimize imports to the realm. The government had to fight smuggling, which became a favorite American technique in the 18th century to circumvent the restrictions on trading with the French, Spanish, or Dutch. The goal of mercantilism was to run trade surpluses so that gold and silver would pour into London. The government took its share through duties and taxes, with the remainder going to merchants in Britain. The government spent much of its revenue on a superb Royal Navy, which not only protected the British colonies but threatened the colonies of the other empires, and sometimes seized them. Thus the British Navy captured New Amsterdam (New York) in 1664. The colonies were captive markets for British industry, and the goal was to enrich the mother country.[35]
 
@@ -96,7 +96,7 @@ Mercantilism taught that trade was a zero-sum game, with one country's gain equi
 
 Other countries
 
-Triangle_trade2.png in the North Atlantic, in which raw materials were imported to the metropolis and then processed and redistributed to other colonies.]]
+in the North Atlantic, in which raw materials were imported to the metropolis and then processed and redistributed to other colonies.]]
 
 The other nations of Europe also embraced mercantilism to varying degrees. The Netherlands, which had become the financial centre of Europe by being its most efficient trader, had little interest in seeing trade restricted and adopted few mercantilist policies. Mercantilism became prominent in Central Europe and Scandinavia after the Thirty Years' War (1618–48), with Christina of Sweden, Jacob Kettler of Courland, and Christian IV of Denmark being notable proponents.
 
@@ -147,7 +147,7 @@ In 1690, Locke argued that prices vary in proportion to the quantity of money. L
 
 For instance, imagine that Portugal was a more efficient producer of wine than England, yet in England, cloth could be produced more efficiently than it could in Portugal. Thus if Portugal specialized in wine and England in cloth, _both_ states would end up _better off_ if they traded. This is an example of the reciprocal benefits of trade (whether due to comparative or absolute advantage). In modern economic theory, trade is _not_ a zero-sum game of cutthroat competition, because both sides can benefit from it.
 
-AdamSmith.jpg's _The Wealth of Nations_ is an attack on mercantilism.]]
+'s _The Wealth of Nations_ is an attack on mercantilism.]]
 
 Hume famously noted the impossibility of the mercantilists' goal of a constant positive balance of trade. As bullion flowed into one country, the supply would increase, and the value of bullion in that state would steadily decline relative to other goods. Conversely, in the state exporting bullion, its value would slowly rise. Eventually, it would no longer be cost-effective to export goods from the high-price country to the low-price country, and the balance of trade would reverse. Mercantilists fundamentally misunderstood this, long arguing that an increase in the money supply simply meant that everyone gets richer.[51]
 

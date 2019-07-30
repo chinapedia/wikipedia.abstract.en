@@ -4,7 +4,7 @@ The Principality has successfully sought to diversify into services and small, h
 
 Though official economic statistics are not published, year 2011 estimates place the national product at $5.748 billion and the per capita income at $188,409. The unemployment rate is 2%, as of 2012.1
 
-Living standards are high and roughly comparable to those in the prosperous French metropolitan areas. Monaco does not publish national income figures; the estimates below are extremely rough. _Rubber_discs_for_suctions-5.jpg
+Living standards are high and roughly comparable to those in the prosperous French metropolitan areas. Monaco does not publish national income figures; the estimates below are extremely rough.
 
 
 Background

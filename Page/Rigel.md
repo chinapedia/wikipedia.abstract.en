@@ -7,7 +7,7 @@ Rigel is a massive blue supergiant calculated to be anywhere from 61,500 to 363,
 
 Nomenclature
 
-Orion_Head_to_Toe.jpg, with Rigel at bottom right, at optical wavelengths plus Hα to emphasize gas clouds]]
+, with Rigel at bottom right, at optical wavelengths plus Hα to emphasize gas clouds]]
 
 The traditional name _Rigel_ is derived from Arabic, meaning the leg or foot of Orion. In 2016, the International Astronomical Union (IAU) included the name Rigel in the IAU Catalog of Star Names.[1][2]
 
@@ -49,7 +49,7 @@ From observations of the variable Hα spectral line, Rigel is estimated to lose 
 
 Distance
 
-Treasures3.jpg IC 2118 in Eridanus. Rigel B is not visible in the glare of the main star.]] Rigel's distance from the Sun is somewhat uncertain, with different distance estimates obtained with different methods. The 2007 Hipparcos reduction of Rigel's parallax is , giving a distance of with a margin of error of about 9%.[48] A companion star to Rigel, usually considered to be physically associated and at the same distance, has a Gaia Data Release 2 parallax of , suggesting a distance around . However, the measurements for this object may be unreliable, possibly because it is a close double star.[49]
+IC 2118 in Eridanus. Rigel B is not visible in the glare of the main star.]] Rigel's distance from the Sun is somewhat uncertain, with different distance estimates obtained with different methods. The 2007 Hipparcos reduction of Rigel's parallax is , giving a distance of with a margin of error of about 9%.[48] A companion star to Rigel, usually considered to be physically associated and at the same distance, has a Gaia Data Release 2 parallax of , suggesting a distance around . However, the measurements for this object may be unreliable, possibly because it is a close double star.[49]
 
 Indirect distance estimation methods have also been employed. For example, Rigel is believed to be in a region of nebulosity, with its radiation illuminating several nearby clouds. Most notable of these is the 5°–long IC 2118 (Witch Head Nebula),[50][51] located at an angular separation of 2.5° from the star,[52] or a distance of away.[53] From measures of other nebula-embedded stars, IC 2118's distance is estimated to be .[54]
 
@@ -77,7 +77,7 @@ A spectroscopic companion to Rigel was reported on the basis of radial velocity 
 
 Physical characteristics
 
-Hertzsprung-Russel_StarData.png]]
+]]
 
 Estimation of many physical characteristics of Rigel and other blue supergiant stars are difficult due to their rarity and uncertainty about how far they are from the Sun. As such, much of our understanding about their characteristics is based on theoretical stellar evolution models.[85]
 
@@ -98,7 +98,7 @@ Etymology and cultural significance
 
 The earliest known recording of the modern name _Rigel_ is in the Alfonsine Tables of 1521. It is derived from the Arabic name __, "the left leg (foot) of Jauzah" (i.e. _rijl_ meaning "leg, foot"),[106] which can be traced to the 10th century.[107] "Jauzah" was a proper name of the Orion figure, an alternative Arabic name was __, "the foot of the great one", which is the source of the rarely used variant names _Algebar_ or _Elgebar_. The _Alphonsine Tables_ saw its name split into "Rigel" and "Algebar", with the note, _et dicitur Algebar. Nominatur etiam Rigel._[108] Alternate spellings from the 17th century include _Regel_ by Italian astronomer Giovanni Battista Riccioli, _Riglon_ by German astronomer Wilhelm Schickard, and _Rigel Algeuze_ or _Algibbar_ by English scholar Edmund Chilmead.[109]
 
-Diane_auprès_du_cadavre_d'Orion.jpg's 1685 painting of Diana over Orion's corpse, before he is placed in the heavens]] In the constellation of Orion as the mythological Greek huntsman, Rigel represents his knee or (as its name suggests) foot; with the nearby star Beta Eridani marking Orion's footstool.[110] Rigel is presumably the star known as "Aurvandil's toe" in Norse mythology.[111] In the Caribbean, Rigel represented the severed leg of the folkloric figure _Trois Rois_, himself represented by the three stars of Orion's Belt. The leg had been severed with a cutlass by the maiden _Bįhi_ (Sirius).[112] The Lacandon people of southern Mexico knew it as _tunsel_ ("little woodpecker").[113]
+'s 1685 painting of Diana over Orion's corpse, before he is placed in the heavens]] In the constellation of Orion as the mythological Greek huntsman, Rigel represents his knee or (as its name suggests) foot; with the nearby star Beta Eridani marking Orion's footstool.[110] Rigel is presumably the star known as "Aurvandil's toe" in Norse mythology.[111] In the Caribbean, Rigel represented the severed leg of the folkloric figure _Trois Rois_, himself represented by the three stars of Orion's Belt. The leg had been severed with a cutlass by the maiden _Bįhi_ (Sirius).[112] The Lacandon people of southern Mexico knew it as _tunsel_ ("little woodpecker").[113]
 
 Rigel was known as _Yerrerdet-kurrk_ to the Wotjobaluk koori of southeastern Australia, and held to be the mother-in-law of _Totyerguil_ (Altair). The distance between them signified the taboo preventing a man from approaching his mother-in-law.[114] The indigenous Boorong people of northwestern Victoria named Rigel as _Collowgullouric Warepil_.[115] The Wardaman people of northern Australia know Rigel as the Red Kangaroo Leader _Unumburrgu_ and chief conductor of ceremonies in a songline when Orion is high in the sky. Eridanus, the river, marks a line of stars in the sky leading to it, and the other stars of Orion are his ceremonial tools and entourage. Betelgeuse is _Ya-jungin_ "Owl Eyes Flicking", watching the ceremonies.[116]
 
@@ -107,7 +107,7 @@ The Māori people of New Zealand named Rigel as _Puanga_, said to be a daughter 
 
 In modern culture
 
-Rigel_sinking,_V-boat_burning_1944.jpg The MS Rigel was originally a Norwegian ship, built in Copenhagen in 1924. It was requisitioned by the Germans during World War II and sunk in 1944 while being used to transport prisoners of war.[123] Two US Navy ships have borne the name USS Rigel.
+The MS Rigel was originally a Norwegian ship, built in Copenhagen in 1924. It was requisitioned by the Germans during World War II and sunk in 1944 while being used to transport prisoners of war.[123] Two US Navy ships have borne the name USS Rigel.
 
 The SSM-N-6 Rigel was a cruise missile program for the US Navy that was cancelled in 1953 before reaching deployment.[124]
 

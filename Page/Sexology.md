@@ -13,7 +13,7 @@ The scientific study of sexual behavior in human beings began in the 19th centur
 
 Victorian Era to WWII
 
-Portrait_of_Havelock_Ellis_(1859-1939),_Psychologist_and_Biologist_(2575987702)_crop.jpg, a pioneering figure in the movement towards sexual emancipation in the late 19th century.]]
+, a pioneering figure in the movement towards sexual emancipation in the late 19th century.]]
 
 Despite the prevailing social attitude of sexual repression in the Victorian era, the movement towards sexual emancipation began towards the end of the nineteenth century in England and Germany. In 1886, Richard Freiherr von Krafft-Ebing published _Psychopathia Sexualis._ That work is considered as having established sexology as a scientific discipline.[5]
 
@@ -25,7 +25,7 @@ In 1908, the first scholarly journal of the field, _Journal of Sexology_ (Zeitsc
 
 Freud developed a theory of sexuality. These stages of development include: Oral, Anal, Phallic, Latency and Genital. These stages run from infancy to puberty and onwards.[12] based on his studies of his clients, between the late 19th and early 20th centuries. Wilhelm Reich and Otto Gross, were disciples of Freud, but rejected by his theories because of their emphasis on the role of sexuality in the revolutionary struggle for the emancipation of mankind.
 
-1933-may-10-berlin-book-burning.JPG Pre-Nazi Germany, under the sexually liberal Napoleonic code, organized and resisted the anti-sexual, Victorian cultural influences. The momentum from those groups led them to coordinate sex research across traditional academic disciplines, bringing Germany to the leadership of sexology. Physician Magnus Hirschfeld was an outspoken advocate for sexual minorities, founding the Scientific Humanitarian Committee, the first advocacy for homosexual and transgender rights.[13]
+Pre-Nazi Germany, under the sexually liberal Napoleonic code, organized and resisted the anti-sexual, Victorian cultural influences. The momentum from those groups led them to coordinate sex research across traditional academic disciplines, bringing Germany to the leadership of sexology. Physician Magnus Hirschfeld was an outspoken advocate for sexual minorities, founding the Scientific Humanitarian Committee, the first advocacy for homosexual and transgender rights.[13]
 
 Hirschfeld also set up the first Institut für Sexualwissenschaft (Institute for Sexology) in Berlin in 1919. Its library housed over 20,000 volumes, 35,000 photographs, a large collection of art and other objects. People from around Europe visited the Institute to gain a clearer understanding of their sexuality and to be treated for their sexual concerns and dysfunctions.
 

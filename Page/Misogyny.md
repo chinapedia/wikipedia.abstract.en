@@ -18,7 +18,7 @@ Historical usage
 
 Classical Greece
 
-Seated_Euripides_Louvre_Ma343.jpg]]
+]]
 
 In his book _City of Sokrates: An Introduction to Classical Athens_, J.W. Roberts argues that older than tragedy and comedy was a misogynistic tradition in Greek literature, reaching back at least as far as Hesiod.[12] The term _misogyny_ itself comes directly into English from the Ancient Greek word _misogunia_ (), which survives in several passages.
 
@@ -34,7 +34,7 @@ In the _Routledge philosophy guidebook to Plato and the Republic_, Nickolas Papp
 
 _Misogynist_ is also found in the Greek—_misogunēs_ ()—in _Deipnosophistae_ (above) and in Plutarch's _Parallel Lives_, where it is used as the title of Heracles in the history of Phocion. It was the title of a play by Menander, which we know of from book seven (concerning Alexandria) of Strabo's 17 volume _Geography_,[19][20] and quotations of Menander by Clement of Alexandria and Stobaeus that relate to marriage.[21] A Greek play with a similar name, _Misogunos_ (Μισόγυνος) or _Woman-hater_, is reported by Marcus Tullius Cicero (in Latin) and attributed to the poet Marcus Atilius.[22]
 
-CiceroBust.jpg]] Cicero reports that Greek philosophers considered misogyny to be caused by gynophobia, a fear of women.[23]
+]] Cicero reports that Greek philosophers considered misogyny to be caused by gynophobia, a fear of women.[23]
 
 In summary, Greek literature considered misogyny to be a disease—an anti-social condition—in that it ran contrary to their perceptions of the value of women as wives and of the family as the foundation of society. These points are widely noted in the secondary literature.[24]
 
@@ -51,7 +51,7 @@ In his book _The Power of Denial: Buddhism, Purity, and Gender_, professor Berna
 
 Christianity
 
-Maria_laach_eva_teufel.jpg rides astride the Serpent on a capital in Laach Abbey church, 13th century]]
+rides astride the Serpent on a capital in Laach Abbey church, 13th century]]
 
 Differences in tradition and interpretations of scripture have caused sects of Christianity to differ in their beliefs with regard their treatment of women.
 
@@ -73,7 +73,7 @@ In his book _No god but God_, University of Southern California professor Reza A
 
 Sikhism
 
-Sikh_Gurus_with_Bhai_Bala_and_Bhai_Mardana.jpg in the center, amongst other Sikh figures]]
+in the center, amongst other Sikh figures]]
 
 Scholars William M. Reynolds and Julie A. Webber have written that Guru Nanak, the founder of the Sikh faith tradition, was a "fighter for women's rights" that was "in no way misogynistic" in contrast to some of his contemporaries.[34]
 

@@ -40,7 +40,7 @@ The global climate became seasonal and continued an overall drying and cooling t
 
 Flora and fauna
 
-Miocene.jpg Marine and continental flora and fauna have a modern appearance. The reptile group Choristodera became extinct in the early part of the period, while the amphibians known as Allocaudata disappeared at the end. Mammals and birds continued to be the dominant terrestrial vertebrates, and took many forms as they adapted to various habitats. The first hominins, the ancestors of humans, may have appeared in southern Europe and migrated into Africa.[4][5]
+Marine and continental flora and fauna have a modern appearance. The reptile group Choristodera became extinct in the early part of the period, while the amphibians known as Allocaudata disappeared at the end. Mammals and birds continued to be the dominant terrestrial vertebrates, and took many forms as they adapted to various habitats. The first hominins, the ancestors of humans, may have appeared in southern Europe and migrated into Africa.[4][5]
 
 In response to the cooler, seasonal climate, tropical plant species gave way to deciduous ones and grasslands replaced many forests. Grasses therefore greatly diversified, and herbivorous mammals evolved alongside it, creating the many grazing animals of today such as horses, antelope, and bison. Eucalyptus fossil leaves occur in the Miocene of New Zealand, where the genus is not native today, but have been introduced from Australia.[6]
 

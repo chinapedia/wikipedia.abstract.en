@@ -1,5 +1,3 @@
-John_Abernethy(1764b).jpg John_Abernethy(1764c).jpg
-
 JOHN ABERNETHY FRS (3 April 1764 – 20 April 1831) was an English surgeon. He is popularly remembered today for having given his name to the Abernethy biscuit, a coarse-meal baked good meant to aid digestion.
 
 

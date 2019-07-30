@@ -17,7 +17,7 @@ In 1918, World War I ended with Germany's defeat. In late February 1919, civil u
 
 As a result of the conditions of the Treaty of Versailles, hyperinflation spread across Germany and many lost their life savings. Halle was not spared. By 1921, few townspeople there could afford a musical education at Bruno Heydrich's conservatory. This led to a financial crisis for the Heydrich family.
 
-heydrichensign.jpg cadet in 1922]]
+cadet in 1922]]
 
 
 Naval career
@@ -39,7 +39,7 @@ On 1 August 1931, Heydrich began his job as chief of the new 'Ic Service' (intel
 
 In 1932, rumours were spread by Heydrich's enemies of his alleged Jewish ancestry. Wilhelm Canaris said he had obtained photocopies proving Heydrich's Jewish ancestry, but these photocopies never surfaced.[2] Nazi Gauleiter Rudolf Jordan claimed Heydrich was not a pure Aryan. Within the Nazi organisation such innuendo could be damning, even for the head of the Reich's counterintelligence service. Gregor Strasser passed the allegations on to the Nazi Party's racial expert, Achim Gercke, who investigated Heydrich's genealogy. Gercke reported that Heydrich was "... of German origin and free from any coloured and Jewish blood". He insisted that the rumours were baseless. Even so, Heydrich privately engaged SD member Ernst Hoffmann to further investigate and dispel the rumours.
 
-Bundesarchiv_Bild_183-R97512,_Berlin,_Geheimes_Staatspolizeihauptamt.jpg headquarters on Prinz-Albrecht-Strasse in Berlin, 1933]]
+headquarters on Prinz-Albrecht-Strasse in Berlin, 1933]]
 
 Gestapo and SD
 
@@ -49,13 +49,13 @@ In 1933, Hitler became Chancellor of Germany, and through a series of decrees be
 
 Hermann Göring founded the Gestapo in 1933 as a Prussian police force. When Göring transferred full authority over the Gestapo to Himmler in April 1934, it immediately became an instrument of terror under the SS's purview. Himmler named Heydrich to head the Gestapo on 22 April 1934. On 9 June 1934, Rudolf Hess declared the SD the official Nazi intelligence service.
 
-Bundesarchiv_Bild_152-50-10,_Reinhard_Heydrich.jpg, in Munich, 1934]]
+, in Munich, 1934]]
 
 Crushing the SA
 
 Beginning in April 1934, and at Hitler's request, Heydrich and Himmler began building a dossier on _Sturmabteilung_ (SA) leader Ernst Röhm in an effort to remove him as a rival for party leadership. At this point, the SS was still part of the SA, the early Nazi paramilitary organisation which now numbered over 3 million men. At Hitler's direction, Heydrich, Himmler, Göring, and Viktor Lutze drew up lists of those who should be killed, starting with seven top SA officials and including many more. On 30 June 1934 the SS and Gestapo acted in coordinated mass arrests that continued for two days. Röhm was shot without trial, along with the leadership of the SA. The purge became known as the Night of the Long Knives. Up to 200 people were killed in the action. Lutze was appointed SA's new head and it was converted into a sports and training organisation.
 
-Pruchtnow_and_Himmler.jpg With the SA out of the way, Heydrich began building the Gestapo into an instrument of fear. He improved his index-card system, creating categories of offenders with colour-coded cards. The Gestapo had the authority to arrest citizens on the suspicion that they might commit a crime, and the definition of a crime was at their discretion. The Gestapo Law, passed in 1936, gave police the right to act extra-legally. This led to the sweeping use of _Schutzhaft_—"protective custody", a euphemism for the power to imprison people without judicial proceedings. The courts were not allowed to investigate or interfere. The Gestapo was considered to be acting legally as long as it was carrying out the leadership's will. People were arrested arbitrarily, sent to concentration camps, or killed.
+With the SA out of the way, Heydrich began building the Gestapo into an instrument of fear. He improved his index-card system, creating categories of offenders with colour-coded cards. The Gestapo had the authority to arrest citizens on the suspicion that they might commit a crime, and the definition of a crime was at their discretion. The Gestapo Law, passed in 1936, gave police the right to act extra-legally. This led to the sweeping use of _Schutzhaft_—"protective custody", a euphemism for the power to imprison people without judicial proceedings. The courts were not allowed to investigate or interfere. The Gestapo was considered to be acting legally as long as it was carrying out the leadership's will. People were arrested arbitrarily, sent to concentration camps, or killed.
 
 Himmler began developing the notion of a Germanic religion and wanted SS members to leave the church. In early 1936, Heydrich left the Catholic Church. His wife, Lina, had already done so the year before. Heydrich not only felt he could no longer be a member, but came to consider the church's political power and influence a danger to the state.
 
@@ -65,7 +65,7 @@ On 17 June 1936, all police forces throughout Germany were united, following Hit
 
 Heydrich was assigned to help organise the 1936 Summer Olympics in Berlin. The games were used to promote the propaganda aims of the Nazi regime. Goodwill ambassadors were sent to countries that were considering a boycott. Anti-Jewish violence was forbidden for the duration, and news stands were required to stop displaying copies of _Der Stürmer_. For his part in the games' success, Heydrich was awarded the _Deutsches Olympiaehrenzeichen_ or German Olympic Games Decoration (First Class).[3]
 
-Bundesarchiv_Bild_119-5243,_Wien,_Arthur_Seyß-Inquart,_Adolf_Hitler.jpg, Adolf Hitler, Heinrich Himmler, and Heydrich in Vienna, March 1938]] In January 1937, Heydrich directed the SD to secretly begin collecting and analysing public opinion and report back its findings. He then had the Gestapo carry out house searches, arrests, and interrogations, thus in effect exercising control over public opinion. In February 1938 when the Austrian Chancellor Kurt Schuschnigg resisted Hitler's proposed merger with Germany, Heydrich intensified the pressure on Austria by organising Nazi demonstrations and distributing propaganda in Vienna stressing the common Germanic blood of the two countries. In the _Anschluss_ on 12 March, Hitler declared the unification of Austria with Nazi Germany.
+, Adolf Hitler, Heinrich Himmler, and Heydrich in Vienna, March 1938]] In January 1937, Heydrich directed the SD to secretly begin collecting and analysing public opinion and report back its findings. He then had the Gestapo carry out house searches, arrests, and interrogations, thus in effect exercising control over public opinion. In February 1938 when the Austrian Chancellor Kurt Schuschnigg resisted Hitler's proposed merger with Germany, Heydrich intensified the pressure on Austria by organising Nazi demonstrations and distributing propaganda in Vienna stressing the common Germanic blood of the two countries. In the _Anschluss_ on 12 March, Hitler declared the unification of Austria with Nazi Germany.
 
 In mid-1939, Heydrich created the Stiftung Nordhav Foundation to obtain real estate for the SS and Security Police to use as guest houses and vacation spots. The Wannsee Villa, which the Stiftung Nordhav acquired in November 1940, was the site of the Wannsee Conference (20 January 1942). At the conference, senior Nazi officials formalised plans to deport and exterminate all Jews in German-occupied territory and those countries not yet conquered. This action was to be coordinated among the representatives from the Nazi state agencies present at the meeting.
 
@@ -75,7 +75,7 @@ Red Army purges
 
 In 1936, Heydrich learned that a top-ranking Soviet officer was plotting to overthrow Joseph Stalin. Sensing an opportunity to strike a blow at both the Soviet Army and Admiral Canaris of Germany's Abwehr, Heydrich decided that the Soviet officers should be "unmasked". He discussed the matter with Himmler and both in turn brought it to Hitler's attention. But the "information" Heydrich had received was actually misinformation planted by Stalin himself in an attempt to legitimise his planned purges of the Red Army's high command. Stalin ordered one of his best NKVD agents, General Nikolai Skoblin, to pass Heydrich false information suggesting that Marshal Mikhail Tukhachevsky and other Soviet generals were plotting against Stalin. Hitler approved Heydrich's plan to act on the information immediately. Heydrich's SD forged documents and letters implicated Tukhachevsky and other Red Army commanders. The material was delivered to the NKVD. The Great Purge of the Red Army followed on Stalin's orders. While Heydrich believed they had successfully deluded Stalin into executing or dismissing 35,000 of his officer corps, the importance of Heydrich's part is a matter of speculation and conjecture. Soviet military prosecutors did not use the forged documents against the generals in their secret trial; they instead relied on false confessions extorted or beaten out of the defendants.
 
-KZ-Hinzert-Plakette-Nacht-und-Nebel.jpg]]
+]]
 
 Night-and-Fog decree
 
@@ -87,7 +87,7 @@ Heydrich created the "Zentralstelle IIP Polen" unit of the Gestapo in order to c
 
 Acting Reich Protector of Bohemia and Moravia
 
-Bundesarchiv_Bild_146-1972-039-26,_Reinhard_Heydrich_im_Prager_Schloß_crop.jpg at Prague Castle in 1941]] On 27 September 1941, Heydrich was appointed Deputy Reich Protector of the Protectorate of Bohemia and Moravia (the part of Czechoslovakia incorporated into the Reich on 15 March 1939) and assumed control of the territory. The Reich Protector, Konstantin von Neurath, remained the territory's titular head, but was sent on "leave" because Hitler, Himmler, and Heydrich felt his "soft approach" to the Czechs had promoted anti-German sentiment and encouraged anti-German resistance via strikes and sabotage. Upon his appointment, Heydrich told his aides: "We will Germanize the Czech vermin."
+at Prague Castle in 1941]] On 27 September 1941, Heydrich was appointed Deputy Reich Protector of the Protectorate of Bohemia and Moravia (the part of Czechoslovakia incorporated into the Reich on 15 March 1939) and assumed control of the territory. The Reich Protector, Konstantin von Neurath, remained the territory's titular head, but was sent on "leave" because Hitler, Himmler, and Heydrich felt his "soft approach" to the Czechs had promoted anti-German sentiment and encouraged anti-German resistance via strikes and sabotage. Upon his appointment, Heydrich told his aides: "We will Germanize the Czech vermin."
 
 Heydrich came to Prague to enforce policy, fight resistance to the Nazi regime, and keep up production quotas of Czech motors and arms that were "extremely important to the German war effort". He viewed the area as a bulwark of Germandom and condemned the Czech resistance's "stabs in the back". To realise his goals Heydrich demanded racial classification of those who could and could not be Germanized. He explained, "Making this Czech garbage into Germans must give way to methods based on racist thought."
 
@@ -112,7 +112,7 @@ Heydrich was one of the organisers of _Kristallnacht_, a pogrom against Jews thr
 
 When Hitler asked for a pretext for the invasion of Poland in 1939, Himmler, Heydrich, and Heinrich Müller masterminded a false flag plan code-named Operation _Himmler_. It involved a fake attack on the German radio station at Gleiwitz on 31 August 1939. Heydrich masterminded the plan and toured the site, which was about four miles from the Polish border. Wearing Polish uniforms, 150 German troops carried out several attacks along the border. Hitler used the ruse as an excuse to launch his invasion.
 
-Bundesarchiv_Bild_183-B01718,_Ausstellung_"Planung_und_Aufbau_im_Osten".jpg, Himmler, and Heydrich listening to Konrad Meyer at a _Generalplan Ost_ exhibition, 20 March 1941.]] On Himmler's instructions, Heydrich formed the _Einsatzgruppen_ (task forces) to travel in the wake of the German armies at the start of World War II. On 21 September 1939, Heydrich sent out a teleprinter message on the "Jewish question in the occupied territory" to the chiefs of all _Einsatzgruppen_ with instructions to round up Jewish people for placement into ghettos, called for the formation of Judenräte (Jewish councils), ordered a census, and promoted Aryanization plans for Jewish-owned businesses and farms, among other measures. The _Einsatzgruppen_ units followed the army into Poland to implement the plans. Later, in the Soviet Union, they were charged with rounding up and killing Jews via firing squad and gas vans. Historian Raul Hilberg estimates that between 1941 and 1945 the _Einsatzgruppen_ and related auxiliary troops killed more than two million people, including 1.3 million Jews. Heydrich, however, moved to ensure the safety and well-being of certain Jews, such as Paul Sommer, the former German champion fencer he knew from his pre-SS days. He also protected the Polish Olympic fencing team that competed at the 1936 Summer Olympics.
+, Himmler, and Heydrich listening to Konrad Meyer at a _Generalplan Ost_ exhibition, 20 March 1941.]] On Himmler's instructions, Heydrich formed the _Einsatzgruppen_ (task forces) to travel in the wake of the German armies at the start of World War II. On 21 September 1939, Heydrich sent out a teleprinter message on the "Jewish question in the occupied territory" to the chiefs of all _Einsatzgruppen_ with instructions to round up Jewish people for placement into ghettos, called for the formation of Judenräte (Jewish councils), ordered a census, and promoted Aryanization plans for Jewish-owned businesses and farms, among other measures. The _Einsatzgruppen_ units followed the army into Poland to implement the plans. Later, in the Soviet Union, they were charged with rounding up and killing Jews via firing squad and gas vans. Historian Raul Hilberg estimates that between 1941 and 1945 the _Einsatzgruppen_ and related auxiliary troops killed more than two million people, including 1.3 million Jews. Heydrich, however, moved to ensure the safety and well-being of certain Jews, such as Paul Sommer, the former German champion fencer he knew from his pre-SS days. He also protected the Polish Olympic fencing team that competed at the 1936 Summer Olympics.
 
 On 29 November 1939, Heydrich issued a cable about the "Evacuation of New Eastern Provinces", detailing the deportation of people by railway to concentration camps, and giving guidance surrounding the December 1939 census, which would be the basis on which those deportations were performed.[18] In May 1941 Heydrich drew up regulations with Quartermaster general Eduard Wagner for the upcoming invasion of the Soviet Union, which ensured that the _Einsatzgruppen_ and army would co-operate in murdering Soviet Jews.
 
@@ -123,7 +123,7 @@ Earlier on 31 July 1941, Hermann Göring gave written authorisation to Heydrich 
 
 Assassination
 
-Bundesarchiv_Bild_146-1972-039-44,_Heydrich-Attentat.jpg in which Heydrich was mortally wounded]]
+in which Heydrich was mortally wounded]]
 
 Death in Prague
 
@@ -139,19 +139,15 @@ Funeral
 
 After an elaborate funeral held in Prague on 7 June 1942, Heydrich's coffin was placed on a train to Berlin, where a second ceremony was held in the new Reich Chancellery on 9 June. Himmler gave the eulogy. Hitler attended and placed Heydrich's decorations—including the highest grade of the German Order, the Blood Order Medal, the Wound Badge in Gold, and the War Merit Cross 1st Class with Swords—on his funeral pillow. Although Heydrich's death was employed for pro-Reich propaganda, Hitler privately blamed Heydrich for his own death, through carelessness:
 
-Heydrichmarke.jpg of Heydrich]]
+of Heydrich]]
 
 Heydrich was interred in Berlin's Invalidenfriedhof, a military cemetery. The exact burial spot is not known—a temporary wooden marker that disappeared when the Red Army overran the city in 1945 was never replaced, so that Heydrich's grave could not become a rallying point for Neo-Nazis. A photograph of Heydrich's burial shows the wreaths and mourners to be in section A, which abuts the north wall of the Invalidenfriedhof and Scharnhorststraße, at the front of the cemetery. A recent biography of Heydrich also places the grave in Section A. Hitler planned for Heydrich to have a monumental tomb (designed by sculptor Arno Breker and architect Wilhelm Kreis) but, due to Germany's declining fortunes, it was never built.
 
 Heydrich's widow Lina won the right to a pension following a series of court cases against the West German government in 1956 and 1959. She was declared entitled to a substantial pension as her husband was a German general killed in action. The government had previously declined to pay due to Heydrich's role in the Holocaust. The couple had four children: Klaus, born in 1933, killed in a traffic accident in 1943; Heider, born in 1934; Silke, born in 1939; and Marte, born shortly after her father's death in 1942. Lina wrote a memoir, _Leben mit einem Kriegsverbrecher_ (_Living With a War Criminal_), which was published in 1976. She remarried once and died in 1985.
 
-Lidice_massacred_men.jpg
-
 Aftermath
 
 Heydrich's assailants hid in safe houses and eventually took refuge in Ss. Cyril and Methodius Cathedral, an Orthodox church in Prague. After a traitor in the Czech resistance betrayed their location, the church was surrounded by 800 members of the SS and Gestapo. Several Czechs were killed, and the remainder hid in the church's crypt. The Germans attempted to flush the men out with gunfire, tear gas, and by flooding the crypt. Eventually an entrance was made using explosives. Rather than surrender, the soldiers killed themselves. Supporters of the assassins who were killed in the wake of these events included the church's leader, Bishop Gorazd, who is now revered as a martyr of the Orthodox Church.
-
-CyrilMethodious.JPG
 
 Infuriated by Heydrich's death, Hitler ordered the arrest and execution of 10,000 randomly selected Czechs. But after consultations with Karl Hermann Frank, he altered his response. The Czech lands were an important industrial zone for the German military, and indiscriminate killing could reduce the region's productivity. Hitler ordered a quick investigation. Intelligence falsely linked the assassins to the towns of Lidice and Ležáky. A Gestapo report stated that Lidice, north-west of Prague, was suspected as the assailants' hiding place because several Czech army officers, then in England, had come from there and the Gestapo found a resistance radio transmitter in Ležáky. On 9 June, after discussions with Himmler and Karl Hermann Frank, Hitler ordered brutal reprisals. Beginning on 10 June, all males over the age of 16 in the villages of Lidice and Ležáky were murdered. All the women in Ležáky were also murdered in the Lidice massacre.
 

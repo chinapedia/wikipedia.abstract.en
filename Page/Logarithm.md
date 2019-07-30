@@ -1,4 +1,4 @@
-Logarithm_plots.png Binary_logarithm_plot_with_ticks.svg of the logarithm to base 2 crosses the _x_-axis at 1}} and passes through the points , , and , depicting, e.g., 3}} and 8}}. The graph gets arbitrarily close to the -axis, but does not meet it.]] In mathematics, the LOGARITHM is the inverse function to exponentiation. That means the logarithm of a given number  is the exponent to which another fixed number, the _base_ , must be raised, to produce that number . In the simplest case, the logarithm counts repeated multiplication of the same factor; e.g., since 10 × 10 × 10 {{=}} 10³}}, the "logarithm to base " of is . The logarithm of to _base_ is denoted as (or, without parentheses, as , or even without explicit base as , when no confusion is possible). More generally, exponentiation allows any positive real number to be raised to any real power, always producing a positive result, so for any two positive real numbers  and  where  is not equal to , is always a unique real number . More explicitly, the defining relation between exponentiation and logarithm is:
+of the logarithm to base 2 crosses the _x_-axis at 1}} and passes through the points , , and , depicting, e.g., 3}} and 8}}. The graph gets arbitrarily close to the -axis, but does not meet it.]] In mathematics, the LOGARITHM is the inverse function to exponentiation. That means the logarithm of a given number  is the exponent to which another fixed number, the _base_ , must be raised, to produce that number . In the simplest case, the logarithm counts repeated multiplication of the same factor; e.g., since 10 × 10 × 10 {{=}} 10³}}, the "logarithm to base " of is . The logarithm of to _base_ is denoted as (or, without parentheses, as , or even without explicit base as , when no confusion is possible). More generally, exponentiation allows any positive real number to be raised to any real power, always producing a positive result, so for any two positive real numbers  and  where  is not equal to , is always a unique real number . More explicitly, the defining relation between exponentiation and logarithm is:
 
 log_(_b_)(_x_) = _y_ 
 exactly if  b^(y) = x.
@@ -106,8 +106,6 @@ Slide rules
 
 Another critical application was the slide rule, a pair of logarithmically divided scales used for calculation. The non-sliding logarithmic scale, Gunter's rule, was invented shortly after Napier's invention. William Oughtred enhanced it to create the slide rule—a pair of logarithmic scales movable with respect to each other. Numbers are placed on sliding scales at distances proportional to the differences between their logarithms. Sliding the upper scale appropriately amounts to mechanically adding logarithms, as illustrated here:
 
-Slide_rule_example2_with_labels.svg
-
 For example, adding the distance from 1 to 2 on the lower scale to the distance from 1 to 3 on the upper scale yields a product of 6, which is read off at the lower part. The slide rule was an essential calculating tool for engineers and scientists until the 1970s, because it allows, at the expense of precision, much faster computation than techniques based on tables.[7]
 
 
@@ -135,7 +133,7 @@ _f_(_x__y_) = _f_(_x_) + _f_(_y_).
 
 Inverse function
 
-Logarithm_inversefunctiontoexp.svg the graph of the function (red) at the diagonal line ().|alt=The graphs of two functions.]] The formula for the logarithm of a power says in particular that for any number ,
+the graph of the function (red) at the diagonal line ().|alt=The graphs of two functions.]] The formula for the logarithm of a power says in particular that for any number ,
 
 log_(_b_)(_b_^(_x_)) = _x_log_(_b_)_b_ = _x_.
 In prose, taking the power of and then the logarithm gives back . Conversely, given a positive number , the formula
@@ -147,7 +145,7 @@ Inverse functions are closely related to the original functions. Their graphs co
 
 Derivative and antiderivative
 
-Logarithm_derivative.svg (green) and its tangent at 1.5}} (black)|alt=A graph of the logarithm function and a line touching it in one point.]] Analytic properties of functions pass to their inverses.[13] Thus, as is a continuous and differentiable function, so is . Roughly, a continuous function is differentiable if its graph has no sharp "corners". Moreover, as the derivative of evaluates to by the properties of the exponential function, the chain rule implies that the derivative of is given by[14][15]
+(green) and its tangent at 1.5}} (black)|alt=A graph of the logarithm function and a line touching it in one point.]] Analytic properties of functions pass to their inverses.[13] Thus, as is a continuous and differentiable function, so is . Roughly, a continuous function is differentiable if its graph has no sharp "corners". Moreover, as the derivative of evaluates to by the properties of the exponential function, the chain rule implies that the derivative of is given by[14][15]
 
     $\frac{d}{dx} \log_b x = \frac{1}{x\ln b}.$
 
@@ -209,11 +207,11 @@ While at Los Alamos National Laboratory working on the Manhattan Project, Richar
 
 Applications
 
-NautilusCutawayLogarithmicSpiral.jpg displaying a logarithmic spiral|alt=A photograph of a nautilus' shell.]] Logarithms have many applications inside and outside mathematics. Some of these occurrences are related to the notion of scale invariance. For example, each chamber of the shell of a nautilus is an approximate copy of the next one, scaled by a constant factor. This gives rise to a logarithmic spiral.[21] Benford's law on the distribution of leading digits can also be explained by scale invariance.[22] Logarithms are also linked to self-similarity. For example, logarithms appear in the analysis of algorithms that solve a problem by dividing it into two similar smaller problems and patching their solutions.[23] The dimensions of self-similar geometric shapes, that is, shapes whose parts resemble the overall picture are also based on logarithms. Logarithmic scales are useful for quantifying the relative change of a value as opposed to its absolute difference. Moreover, because the logarithmic function grows very slowly for large , logarithmic scales are used to compress large-scale scientific data. Logarithms also occur in numerous scientific formulas, such as the Tsiolkovsky rocket equation, the Fenske equation, or the Nernst equation.
+displaying a logarithmic spiral|alt=A photograph of a nautilus' shell.]] Logarithms have many applications inside and outside mathematics. Some of these occurrences are related to the notion of scale invariance. For example, each chamber of the shell of a nautilus is an approximate copy of the next one, scaled by a constant factor. This gives rise to a logarithmic spiral.[21] Benford's law on the distribution of leading digits can also be explained by scale invariance.[22] Logarithms are also linked to self-similarity. For example, logarithms appear in the analysis of algorithms that solve a problem by dividing it into two similar smaller problems and patching their solutions.[23] The dimensions of self-similar geometric shapes, that is, shapes whose parts resemble the overall picture are also based on logarithms. Logarithmic scales are useful for quantifying the relative change of a value as opposed to its absolute difference. Moreover, because the logarithmic function grows very slowly for large , logarithmic scales are used to compress large-scale scientific data. Logarithms also occur in numerous scientific formulas, such as the Tsiolkovsky rocket equation, the Fenske equation, or the Nernst equation.
 
 Logarithmic scale
 
-A logarithmic chart depicting the value of one German gold mark in Papiermarks during the German hyperinflation in the 1920s|right|thumb|alt=A graph of the value of one mark over time. The line showing its value is increasing very quickly, even with logarithmic scale. Scientific quantities are often expressed as logarithms of other quantities, using a _logarithmic scale_. For example, the decibel is a unit of measurement associated with logarithmic-scale quantities. It is based on the common logarithm of ratios—10 times the common logarithm of a power ratio or 20 times the common logarithm of a voltage ratio. It is used to quantify the loss of voltage levels in transmitting electrical signals,[24] to describe power levels of sounds in acoustics,[25] and the absorbance of light in the fields of spectrometry and optics. The signal-to-noise ratio describing the amount of unwanted noise in relation to a (meaningful) signal is also measured in decibels.[26] In a similar vein, the peak signal-to-noise ratio is commonly used to assess the quality of sound and image compression methods using the logarithm.[27]
+Scientific quantities are often expressed as logarithms of other quantities, using a _logarithmic scale_. For example, the decibel is a unit of measurement associated with logarithmic-scale quantities. It is based on the common logarithm of ratios—10 times the common logarithm of a power ratio or 20 times the common logarithm of a voltage ratio. It is used to quantify the loss of voltage levels in transmitting electrical signals,[24] to describe power levels of sounds in acoustics,[25] and the absorbance of light in the fields of spectrometry and optics. The signal-to-noise ratio describing the amount of unwanted noise in relation to a (meaningful) signal is also measured in decibels.[26] In a similar vein, the peak signal-to-noise ratio is commonly used to assess the quality of sound and image compression methods using the logarithm.[27]
 
 The strength of an earthquake is measured by taking the common logarithm of the energy emitted at the quake. This is used in the moment magnitude scale or the Richter magnitude scale. For example, a 5.0 earthquake releases 32 times and a 6.0 releases 1000 times the energy of a 4.0.[28] Another logarithmic scale is apparent magnitude. It measures the brightness of stars logarithmically.[29] Yet another example is pH in chemistry; pH is the negative of the common logarithm of the activity of hydronium ions (the form hydrogen ions take in water).[30] The activity of hydronium ions in neutral water is 10^(−7) mol·L^(−1), hence a pH of 7. Vinegar typically has a pH of about 3. The difference of 4 corresponds to a ratio of 10⁴ of the activity, that is, vinegar's hydronium ion activity is about .
 
@@ -227,7 +225,7 @@ Psychological studies found that individuals with little mathematics education t
 
 Probability theory and statistics
 
-PDF-log_normal_distributions.svgs (PDF) of random variables with log-normal distributions. The location parameter , which is zero for all three of the PDFs shown, is the mean of the logarithm of the random variable, not the mean of the variable itself.]] Distribution of first digits (in %, red bars) in the List of countries by population of the world. Black dots indicate the distribution predicted by Benford's law.|thumb|right|alt=A bar chart and a superimposed second chart. The two differ slightly, but both decrease in a similar fashion. Logarithms arise in probability theory: the law of large numbers dictates that, for a fair coin, as the number of coin-tosses increases to infinity, the observed proportion of heads approaches one-half. The fluctuations of this proportion about one-half are described by the law of the iterated logarithm.[40]
+s (PDF) of random variables with log-normal distributions. The location parameter , which is zero for all three of the PDFs shown, is the mean of the logarithm of the random variable, not the mean of the variable itself.]] Logarithms arise in probability theory: the law of large numbers dictates that, for a fair coin, as the number of coin-tosses increases to infinity, the observed proportion of heads approaches one-half. The fluctuations of this proportion about one-half are described by the law of the iterated logarithm.[40]
 
 Logarithms also occur in log-normal distributions. When the logarithm of a random variable has a normal distribution, the variable is said to have a log-normal distribution.[41] Log-normal distributions are encountered in many fields, wherever a variable is formed as the product of many independent positive random variables, for example in the study of turbulence.[42]
 
@@ -245,7 +243,7 @@ A function is said to grow logarithmically if is (exactly or approximately) prop
 
 Entropy and chaos
 
-Chaotic_Bunimovich_stadium.png on an oval billiard table. Two particles, starting at the center with an angle differing by one degree, take paths that diverge chaotically because of reflections at the boundary.|alt=An oval shape with the trajectories of two particles.]]
+on an oval billiard table. Two particles, starting at the center with an angle differing by one degree, take paths that diverge chaotically because of reflections at the boundary.|alt=An oval shape with the trajectories of two particles.]]
 
 Entropy is broadly a measure of the disorder of some system. In statistical thermodynamics, the entropy _S_ of some physical system is defined as
 
@@ -255,8 +253,6 @@ The sum is over all possible states _i_ of the system in question, such as the p
 Lyapunov exponents use logarithms to gauge the degree of chaoticity of a dynamical system. For example, for a particle moving on an oval billiard table, even small changes of the initial conditions result in very different paths of the particle. Such systems are chaotic in a deterministic way, because small measurement errors of the initial state predictably lead to largely different final states.[53] At least one Lyapunov exponent of a deterministically chaotic system is positive.
 
 Fractals
-
-The Sierpinski triangle (at the right) is constructed by repeatedly replacing equilateral triangles by three smaller ones.|right|thumb|400px|alt=Parts of a triangle are removed in an iterated way.
 
 Logarithms occur in definitions of the dimension of fractals.[54] Fractals are geometric objects that are self-similar: small parts reproduce, at least roughly, the entire global structure. The Sierpinski triangle (pictured) can be covered by three copies of itself, each having sides half the original length. This makes the Hausdorff dimension of this structure . Another logarithm-based notion of dimension is obtained by counting the number of boxes needed to cover the fractal in question.
 
@@ -294,7 +290,7 @@ _z_ = _x_ + _i__y_ = _r_(cos _φ_ + _i_sin _φ_) = _r_(c
 
 for any integer number . Evidently the argument of is not uniquely specified: both and ' = + 2_k_ are valid arguments of for all integers , because adding 2_k_ radian or _k_⋅360° to corresponds to "winding" around the origin counter-clock-wise by turns. The resulting complex number is always , as illustrated at the right for 1}}. One may select exactly one of the possible arguments of as the so-called _principal argument_, denoted , with a capital , by requiring to belong to one, conveniently selected turn, e.g.,  − π < φ ≤ π[56] or 0 ≤ φ < 2π.[57] These regions, where the argument of is uniquely determined are called _branches_ of the argument function.
 
-Complex_log.jpg of the complex logarithm, . The black point at 1}} corresponds to absolute value zero and brighter (more saturated) colors refer to bigger absolute values. The hue of the color encodes the argument of .|alt=A density plot. In the middle there is a black point, at the negative axis the hue jumps sharply and evolves smoothly otherwise.]]
+of the complex logarithm, . The black point at 1}} corresponds to absolute value zero and brighter (more saturated) colors refer to bigger absolute values. The hue of the color encodes the argument of .|alt=A density plot. In the middle there is a black point, at the negative axis the hue jumps sharply and evolves smoothly otherwise.]]
 
 Euler's formula connects the trigonometric functions sine and cosine to the complex exponential:
 

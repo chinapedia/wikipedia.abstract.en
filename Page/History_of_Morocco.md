@@ -20,17 +20,17 @@ Early history
 
 Carthage (c. 800 – c. 300 BCE)
 
-Phenician_plate_with_red_slip_7th_century_BCE_excavated_in_Mogador_island.jpgn plate with red slip, 7th century BCE, excavated on Mogador Island, Essaouira. Sidi Mohammed ben Abdallah Museum.]] The arrival of Phoenicians on the Moroccan coast heralded many centuries of rule by foreign powers in the north of Morocco. Phoenician traders penetrated the western Mediterranean before the 8th century BCE, and soon after set up depots for salt and ore along the coast and up the rivers of the territory of present-day Morocco.[17] Major early settlements of the Phoenicians included those at Chellah, Lixus and Mogador.[18] Mogador is known to have been a Phoenician colony by the early 6th century BCE.[19]
+n plate with red slip, 7th century BCE, excavated on Mogador Island, Essaouira. Sidi Mohammed ben Abdallah Museum.]] The arrival of Phoenicians on the Moroccan coast heralded many centuries of rule by foreign powers in the north of Morocco. Phoenician traders penetrated the western Mediterranean before the 8th century BCE, and soon after set up depots for salt and ore along the coast and up the rivers of the territory of present-day Morocco.[17] Major early settlements of the Phoenicians included those at Chellah, Lixus and Mogador.[18] Mogador is known to have been a Phoenician colony by the early 6th century BCE.[19]
 
 By the 5th century BCE, the state of Carthage had extended its hegemony across much of North Africa. Carthage developed commercial relations with the Berber tribes of the interior, and paid them an annual tribute to ensure their cooperation in the exploitation of raw materials[20]
 
 Mauretania (c. 300 BCE – c. 430 AD)
 
-Roman_coins_excavated_in_Essaouira_3rd_century_and_late_Roman_Empire.jpg coins excavated in Essaouira, 3rd century.]] Mauretania was an independent tribal Berber kingdom on the Mediterranean coast of north Africa, corresponding to northern modern-day Morocco from about the 3rd century BCE.[21] The earliest known king of Mauretania was Bocchus I, who ruled from 110 BCE to 81 BCE . Some of its earliest recorded history relates to Phoenician and Carthaginian settlements such as Lixus and Chellah.[22] The Berber kings ruled inland territories overshadowing the coastal outposts of Carthage and Rome, often as satellites, allowing Roman rule to exist. It became a client of the Roman empire in 33 BCE, then a full province after Emperor Caligula had the last king, Ptolemy of Mauretania, executed (AD 40).
+coins excavated in Essaouira, 3rd century.]] Mauretania was an independent tribal Berber kingdom on the Mediterranean coast of north Africa, corresponding to northern modern-day Morocco from about the 3rd century BCE.[21] The earliest known king of Mauretania was Bocchus I, who ruled from 110 BCE to 81 BCE . Some of its earliest recorded history relates to Phoenician and Carthaginian settlements such as Lixus and Chellah.[22] The Berber kings ruled inland territories overshadowing the coastal outposts of Carthage and Rome, often as satellites, allowing Roman rule to exist. It became a client of the Roman empire in 33 BCE, then a full province after Emperor Caligula had the last king, Ptolemy of Mauretania, executed (AD 40).
 
 Rome controlled the vast, ill-defined territory through alliances with the tribes rather than through military occupation, expanding its authority only to those areas, that were economically useful or that could be defended without additional manpower. Hence, Roman administration never extended outside the restricted area of the northern coastal plain and valleys. This strategic region formed part of the Roman Empire, governed as Mauretania Tingitana, with the city of Volubilis as its capital.
 
-Volubilis01.jpg]] During the time of the Roman emperor Augustus, Mauretania was a vassal state, and its rulers, such as Juba II, controlled all the areas south of Volubilis. But the effective control of Roman legionaries reached as far as the area of Sala Colonia (the castra "Exploratio Ad Mercurios" south of Sala is the southernmost discovered up to now). Some historians believe the Roman frontier reached present-day Casablanca, known then as Anfa, which had been settled by the Romans as a port.
+]] During the time of the Roman emperor Augustus, Mauretania was a vassal state, and its rulers, such as Juba II, controlled all the areas south of Volubilis. But the effective control of Roman legionaries reached as far as the area of Sala Colonia (the castra "Exploratio Ad Mercurios" south of Sala is the southernmost discovered up to now). Some historians believe the Roman frontier reached present-day Casablanca, known then as Anfa, which had been settled by the Romans as a port.
 
 During the reign of Juba II, the Augustus founded three colonies, with Roman citizens, in Mauretania close to the Atlantic coast: Iulia Constantia Zilil, Iulia Valentia Banasa, and Iulia Campestris Babba. Augustus would eventually found twelve colonies in the region.[23] During that period, the area controlled by Rome experienced significant economic development, aided by the construction of Roman roads. The area was initially not completely under the control of Rome, and only in the mid-2nd century was a limes built south of Sala extending to Volubilis. Around 278 AD the Romans moved their regional capital to Tangier and Volubilis started to lose importance.
 
@@ -38,8 +38,6 @@ Christianity was introduced to the region in the 2nd century AD, and gained conv
 
 
 Early Islamic Morocco (c. 700 – c. 1060)
-
-Morocco_and_the_Maghreb_after_the_Berber_Revolt.PNG
 
 Muslim conquest (c. 700)
 
@@ -57,7 +55,7 @@ The Barghawatas were a confederation of Berber groups inhabiting the Atlantic co
 
 Sijilmassa (700s – 1300s)
 
-Trans-Saharan_routes_early.svg along the trade routes of the Western Sahara, c. 1000–1500. Goldfields are indicated by light brown shading.]] Sijilmasa was a medieval Moroccan city and trade entrepôt at the northern edge of the Sahara desert. The ruins of the town lie for along the River Ziz in the Tafilalt oasis near the town of Rissani. The town's history was marked by several successive invasions by Berber dynasties. Up until the 14th century, as the northern terminus for the western trans-Sahara trade route, it was one of the most important trade centres in the Maghreb during the Middle Ages.[30]
+along the trade routes of the Western Sahara, c. 1000–1500. Goldfields are indicated by light brown shading.]] Sijilmasa was a medieval Moroccan city and trade entrepôt at the northern edge of the Sahara desert. The ruins of the town lie for along the River Ziz in the Tafilalt oasis near the town of Rissani. The town's history was marked by several successive invasions by Berber dynasties. Up until the 14th century, as the northern terminus for the western trans-Sahara trade route, it was one of the most important trade centres in the Maghreb during the Middle Ages.[30]
 
 Kingdom of Nekor (710 – 1019)
 
@@ -67,7 +65,7 @@ In 859, the kingdom became subject to a 62 ship-strong group of Vikings, who def
 
 Idrisi dynasty (789 – 974)
 
-Fes_November_2008-42.JPG in Fes, established by Fatima al-Fihri during the Idrisid dynasty in the 9th century.]] The Idrisi dynasty was a Muslim polity centered in Morocco,[32] which ruled from 788 to 974. Named after the founder Idriss I, the great grandchild of Hasan ibn Ali, the Idrisids are believed by some historians to be the founders of the first Moroccan state.[33]
+in Fes, established by Fatima al-Fihri during the Idrisid dynasty in the 9th century.]] The Idrisi dynasty was a Muslim polity centered in Morocco,[32] which ruled from 788 to 974. Named after the founder Idriss I, the great grandchild of Hasan ibn Ali, the Idrisids are believed by some historians to be the founders of the first Moroccan state.[33]
 
 Fatimid, Umayyad and Zenata polities (c. 900 – c. 1060)
 
@@ -78,7 +76,7 @@ The Fatimids had assigned the Zirids, a Zenaga Berber clan centered in Ifriqiya,
 
 Berber dynasties (c. 1060 – 1549)
 
-Rabat_tour_Hassan.jpg, an incomplete minaret in Rabat begun during the Almohad dynasty]] Morocco was at its most powerful under a series of Berber dynasties, which rose to power south of the Atlas Mountains and expanded their rule northward, replacing local rulers. The 11th and 12th centuries witnessed the founding of several significant Berber dynasties led by religious reformers, each dynasty based on a tribal confederation that dominated the Maghreb and Al-Andalus for more than 200 years. The Berber dynasties of the (Almoravids, Almohads, Marinids and Wattasids gave the Berber people some measure of collective identity and political unity under a native regime for the first time in their history. The dynasties created the idea of an "imperial Maghreb" under Berber aegis, an idea that survived in some form from another.
+, an incomplete minaret in Rabat begun during the Almohad dynasty]] Morocco was at its most powerful under a series of Berber dynasties, which rose to power south of the Atlas Mountains and expanded their rule northward, replacing local rulers. The 11th and 12th centuries witnessed the founding of several significant Berber dynasties led by religious reformers, each dynasty based on a tribal confederation that dominated the Maghreb and Al-Andalus for more than 200 years. The Berber dynasties of the (Almoravids, Almohads, Marinids and Wattasids gave the Berber people some measure of collective identity and political unity under a native regime for the first time in their history. The dynasties created the idea of an "imperial Maghreb" under Berber aegis, an idea that survived in some form from another.
 
 Almoravid dynasty (c. 1060 – 1147)
 
@@ -96,7 +94,7 @@ The Almohad movement was started by Ibn Tumart among the Masmuda tribes of south
 
 Marinid dynasty (1248 – 1465)
 
-Chefchaouen,_view_,_Morocco.jpg was founded in 1471 by Moorish exiles from Spain]] The Marinid dynasty was a Sunni Muslim[40] dynasty of Zenata Berber descent that ruled Morocco from the 13th to the 15th century.[41][42]
+was founded in 1471 by Moorish exiles from Spain]] The Marinid dynasty was a Sunni Muslim[40] dynasty of Zenata Berber descent that ruled Morocco from the 13th to the 15th century.[41][42]
 
 The Marinids overthrew the Almohad dynasty controlling Morocco in 1244,[43] and briefly controlled all the Maghreb in the mid-14th century. They supported the Kingdom of Granada in Al-Andalus in the 13th and 14th centuries; an attempt to gain a direct foothold on the European side of the Strait of Gibraltar was however defeated at the Battle of Río Salado in 1340 and finished after the Castilian conquest of Algeciras from the Marinids in 1344.[44]
 
@@ -107,14 +105,14 @@ The Wattasid dynasty were a ruling dynasty of Morocco. Like the Marinids, they w
 
 Saadi dynasty (1549 – 1659)
 
-Kasbahs_in_Aït_Benhaddou.JPG photographed in the evening]] Beginning in 1549, the region was ruled by successive Arab dynasties known as the Sharifian dynasties, who claimed descent from the prophet Muhammad. The first of these polities was the Saadi dynasty, which ruled Morocco from 1549 to 1659. From 1509 to 1549, the Saadi rulers had control of only the southern areas. While still recognizing the Wattasids as Sultans until 1528, Saadian's growing power led the Wattasids to attack them and, after an indecisive battle, to recognize their rule over southern Morocco through the Treaty of Tadla.[47]
+photographed in the evening]] Beginning in 1549, the region was ruled by successive Arab dynasties known as the Sharifian dynasties, who claimed descent from the prophet Muhammad. The first of these polities was the Saadi dynasty, which ruled Morocco from 1549 to 1659. From 1509 to 1549, the Saadi rulers had control of only the southern areas. While still recognizing the Wattasids as Sultans until 1528, Saadian's growing power led the Wattasids to attack them and, after an indecisive battle, to recognize their rule over southern Morocco through the Treaty of Tadla.[47]
 
 In 1659, Mohammed al-Hajj ibn Abu Bakr al-Dila'i, the head of the zaouia of Dila,[48] was proclaimed sultan of Morocco after the fall of the Saadi dynasty.[49]
 
 
 Alaouite dynasty (since 1666)
 
-Ambassador_Admiral_Abelkader_Perez_1723_1737.jpg was sent by Ismail Ibn Sharif as an ambassador to England in 1723.]] The Alaouite dynasty is the current Moroccan royal family. The name Alaouite comes from the _‘Alī_ of ‘Alī ibn Abī Ṭālib, whose descendant Sharif ibn Ali became Prince of Tafilalt in 1631. His son Mulay Al-Rashid (1664–1672) was able to unite and pacify the country. The Alaouite family claim descent from Muhammad through his daughter Fāṭimah az-Zahrah and her husband ‘Alī ibn Abī Ṭālib.
+was sent by Ismail Ibn Sharif as an ambassador to England in 1723.]] The Alaouite dynasty is the current Moroccan royal family. The name Alaouite comes from the _‘Alī_ of ‘Alī ibn Abī Ṭālib, whose descendant Sharif ibn Ali became Prince of Tafilalt in 1631. His son Mulay Al-Rashid (1664–1672) was able to unite and pacify the country. The Alaouite family claim descent from Muhammad through his daughter Fāṭimah az-Zahrah and her husband ‘Alī ibn Abī Ṭālib.
 
 The kingdom was consolidated by Ismail Ibn Sharif (1672–1727), who began to create a unified state in the face of opposition from local tribes . Since the Alaouites, in contrast to previous dynasties, did not have the support of a single Berber or Bedouin tribe, Isma'īl controlled Morocco through an army of slaves. With these soldiers he drove the English from Tangiers (1684) and the Spanish from Larache in 1689. The unity of Morocco did not survive his death — in the ensuing power struggles the tribes became a political and military force once again, and it was only with Muhammad III (1757–1790) that the kingdom was unified again.The idea of centralization was abandoned and the tribes allowed to preserve their autonomy. On 20 December 1777,[50] Morocco became one of the first states to recognize the sovereignty of a newly independent United States.[51]
 
@@ -123,7 +121,7 @@ During the reigns of Muhammad IV (1859–1873) and Hassan I (1873–1894), the A
 
 European influence (c. 1830 – 1956)
 
-Algeria,_Morocco_and_Tunis_(XIX_century).jpg Morocco_Fez_Embroidery_Horse_Cover.JPG embroidery]] The successful Portuguese efforts to control the Atlantic coast in the 15th century did not affect the interior of Morocco. After the Napoleonic Wars, North Africa became increasingly ungovernable from Istanbul by the Ottoman Empire. As a result, it became the resort of pirates under local beys. The Maghreb also had far greater known wealth than the rest of Africa, and its location near the entrance to the Mediterranean gave it strategic importance. France showed a strong interest in Morocco as early as 1830. The Alaouite dynasty succeeded in maintaining the independence of Morocco in the 18th and 19th centuries, while other states in the region succumbed to Ottoman, French, or British domination. In the latter part of the 19th century Morocco's instability resulted in European countries intervening to protect investments and to demand economic concessions. The first years of the 20th century saw major diplomatic efforts by European powers, especially France, to further its interests in the region.[53]
+embroidery]] The successful Portuguese efforts to control the Atlantic coast in the 15th century did not affect the interior of Morocco. After the Napoleonic Wars, North Africa became increasingly ungovernable from Istanbul by the Ottoman Empire. As a result, it became the resort of pirates under local beys. The Maghreb also had far greater known wealth than the rest of Africa, and its location near the entrance to the Mediterranean gave it strategic importance. France showed a strong interest in Morocco as early as 1830. The Alaouite dynasty succeeded in maintaining the independence of Morocco in the 18th and 19th centuries, while other states in the region succumbed to Ottoman, French, or British domination. In the latter part of the 19th century Morocco's instability resulted in European countries intervening to protect investments and to demand economic concessions. The first years of the 20th century saw major diplomatic efforts by European powers, especially France, to further its interests in the region.[53]
 
 In the 1890s, the French administration and military in Algiers called for the annexation of the Touat, the Gourara and the Tidikelt,[54] a complex that had been part of the Moroccan Empire for many centuries prior to the arrival of the French in Algeria.[55]
 
@@ -131,7 +129,7 @@ Morocco nominally was ruled by its Sultan. But in 1894 a child was given the off
 
 French and Spanish protectorate (1912 – 1956)
 
-Maroc_preco.jpg at Rabat in 1911]] A second "Moroccan crisis" increased tensions among the powerful European countries, and resulted in the Treaty of Fez (signed on March 30, 1912), which made Morocco a protectorate of France. By a second treaty signed by the French and Spanish heads of state, Spain was granted a Zone of influence in northern and southern Morocco on November 27, 1912. The northern part became the Spanish protectorate in Morocco, while the southern part was ruled from El Aiun as a buffer zone between the Spanish Colony of Rio de Oro and Morocco. The treaty of Fez triggered the 1912 Fez riots. By the Tangier Protocol signed in December 1923, Tangier received special status and became an international zone.[58]
+at Rabat in 1911]] A second "Moroccan crisis" increased tensions among the powerful European countries, and resulted in the Treaty of Fez (signed on March 30, 1912), which made Morocco a protectorate of France. By a second treaty signed by the French and Spanish heads of state, Spain was granted a Zone of influence in northern and southern Morocco on November 27, 1912. The northern part became the Spanish protectorate in Morocco, while the southern part was ruled from El Aiun as a buffer zone between the Spanish Colony of Rio de Oro and Morocco. The treaty of Fez triggered the 1912 Fez riots. By the Tangier Protocol signed in December 1923, Tangier received special status and became an international zone.[58]
 
 The treaties officially assured Morocco of its legal status as a sovereign state, and the sultan remained the country's head of state.[59] In practice, the sultan had no real power and the country was ruled by the colonial administration. French civil servants allied themselves with the French settlers and with their supporters in France to prevent any moves in the direction of Moroccan autonomy. As pacification proceeded, the French government focused on the exploitation of Morocco's mineral wealth, the creation of a modern transportation system, and the development of a modern agricultural sector geared to the French market. Tens of thousands of _colons_, or colonists, entered Morocco and acquired large tracts of the rich agricultural land.
 
@@ -139,7 +137,7 @@ Morocco was home to half a million Europeans.[60] They formed almost half the po
 
 Opposition to European control
 
-1955-07-21_Morocco_Riots_Terror_Mounts_In_Revolt_Of_Arabs.ogv, 21 July 1955]] The separatist Republic of the Rif was declared on 18 September 1921, by the people of the Rif. It was dissolved by Spanish and French forces on 27 May 1926.
+, 21 July 1955]] The separatist Republic of the Rif was declared on 18 September 1921, by the people of the Rif. It was dissolved by Spanish and French forces on 27 May 1926.
 
 In December 1934, a small group of nationalists, members of the newly formed _Comité d'Action Marocaine_, or Moroccan Action Committee (CAM), proposed a Plan of Reforms that called for a return to indirect rule as envisaged by the Treaty of Fez, admission of Moroccans to government positions, and establishment of representative councils. CAM used petitions, newspaper editorials, and personal appeals to French officials to further its cause, but these proved inadequate, and the tensions created in the CAM by the failure of the plan caused it to split. The CAM was reconstituted as a nationalist political party to gain mass support for more radical demands, but the French suppressed the party in 1937.
 
@@ -154,7 +152,7 @@ France's exile of the highly respected Sultan Mohammed V to Madagascar in 1953 a
 
 Independent Morocco (since 1956)
 
-Mohammed_V_1954,_Madagascar.jpg and his family in exile in Madagascar, 1954.]] In late 1955, in the middle of what came to be known as the ,[63] Sultan Mohammed V successfully negotiated the gradual restoration of Moroccan independence within a framework of French-Moroccan interdependence. The sultan agreed to institute reforms that would transform Morocco into a constitutional monarchy with a democratic form of government. In February 1956, Morocco acquired limited home rule. Further negotiations for full independence culminated in the French-Moroccan Agreement signed in Paris on March 2, 1956.[64]
+and his family in exile in Madagascar, 1954.]] In late 1955, in the middle of what came to be known as the ,[63] Sultan Mohammed V successfully negotiated the gradual restoration of Moroccan independence within a framework of French-Moroccan interdependence. The sultan agreed to institute reforms that would transform Morocco into a constitutional monarchy with a democratic form of government. In February 1956, Morocco acquired limited home rule. Further negotiations for full independence culminated in the French-Moroccan Agreement signed in Paris on March 2, 1956.[64]
 
 On April 7, 1956, France officially relinquished its protectorate in Morocco. The internationalized city of Tangier was reintegrated with the signing of the Tangier Protocol on October 29, 1956. The abolition of the Spanish protectorate and the recognition of Moroccan independence by Spain were negotiated separately and made final in the Joint Declaration of April 1956.[65] Through this agreement with Spain in 1956 and another in 1958, Moroccan control over certain Spanish-ruled areas was restored. Attempts to claim other Spanish possessions through military action were less successful.
 
@@ -162,7 +160,7 @@ In the months that followed independence, Mohammed V proceeded to build a modern
 
 Reign of Hassan II (1961 – 1999)
 
-Hassan_II,_Marrakech,_1966.jpg, on his way to Friday prayers in Marrakesh, 1967.]] Mohammed V's son Hassan II became King of Morocco on March 3, 1961. His rule saw significant political unrest, and the ruthless government response earned the period the name "the years of lead". Hassan took personal control of the government as prime minister, and named a new cabinet. Aided by an advisory council, he drew up a new constitution, which was approved overwhelmingly in a December 1962 referendum. Under its provisions, the king remained the central figure in the executive branch of the government, but legislative power was vested in a bicameral parliament, and an independent judiciary was guaranteed.
+, on his way to Friday prayers in Marrakesh, 1967.]] Mohammed V's son Hassan II became King of Morocco on March 3, 1961. His rule saw significant political unrest, and the ruthless government response earned the period the name "the years of lead". Hassan took personal control of the government as prime minister, and named a new cabinet. Aided by an advisory council, he drew up a new constitution, which was approved overwhelmingly in a December 1962 referendum. Under its provisions, the king remained the central figure in the executive branch of the government, but legislative power was vested in a bicameral parliament, and an independent judiciary was guaranteed.
 
 In May 1963, legislative elections took place for the first time, and the royalist coalition secured a small plurality of seats. However, following a period of political upheaval in June 1965, Hassan II assumed full legislative and executive powers under a "state of exception," which remained in effect until 1970. Subsequently, a reform constitution was approved, restoring limited parliamentary government, and new elections were held. However, dissent remained, revolving around complaints of widespread corruption and malfeasance in government. In July 1971 and again in August 1972, the regime was challenged by two attempted military coups.
 

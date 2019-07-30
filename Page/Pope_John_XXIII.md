@@ -9,7 +9,7 @@ He did not live to see the Vatican Council to completion. His cause for canoniza
 
 Early life
 
-Young_Pope_John_XXIII.jpg Angelo Giuseppe Roncalli was born on 25 November 1881 in Sotto il Monte, a small country village in the Bergamo province of the Lombardy region of Italy. He was the eldest son of Giovanni Battista Roncalli (1854 – July 1935) and his wife Marianna Giulia Mazzolla (1855 – 20 February 1939), and fourth in a family of 13. His siblings were:
+Angelo Giuseppe Roncalli was born on 25 November 1881 in Sotto il Monte, a small country village in the Bergamo province of the Lombardy region of Italy. He was the eldest son of Giovanni Battista Roncalli (1854 – July 1935) and his wife Marianna Giulia Mazzolla (1855 – 20 February 1939), and fourth in a family of 13. His siblings were:
 
 -   Maria Caterina (1877–1883)
 -   Teresa (1879–1954)
@@ -77,7 +77,7 @@ In 1965, the Catholic Herald newspaper quoted Pope John XXIII as saying:
 
 On 7 September 2000, the International Raoul Wallenberg Foundation launched the International Campaign for the Acknowledgement of the humanitarian actions undertaken by Vatican Nuncio Angelo Giuseppe Roncalli for people, most of whom were Jewish, persecuted by the Nazi regime. The launching took place at the Permanent Observation Mission of the Vatican to the United Nations, in the presence of Vatican State Secretary Cardinal Angelo Sodano.
 
-Angelo_Giuseppe_Roncalli_Patriarch_of_Venezia_(1953-1958).JPG (1953–1958)]] The International Raoul Wallenberg Foundation has carried out exhaustive historical research related to different events connected with interventions of Nuncio Roncalli in favour of Jewish refugees during the Holocaust. As of September 2000 three reports have been published compiling different studies and materials of historical research about the humanitarian actions carried out by Roncalli when he was nuncio.[45][46]
+(1953–1958)]] The International Raoul Wallenberg Foundation has carried out exhaustive historical research related to different events connected with interventions of Nuncio Roncalli in favour of Jewish refugees during the Holocaust. As of September 2000 three reports have been published compiling different studies and materials of historical research about the humanitarian actions carried out by Roncalli when he was nuncio.[45][46]
 
 In 2011, the International Raoul Wallenberg Foundation submitted a massive file (the Roncalli Dossier) to Yad Vashem, with a strong petition and recommendation to bestow upon him the title of Righteous among the Nations.[47]
 
@@ -88,7 +88,7 @@ After 1944 he played an active role in gaining Catholic Church support for the e
 
 Cardinal
 
-Legion_Honneur_Commandeur_ribbon.svg received in 1953]] Roncalli received a message from Mgr. Montini on 14 November 1952 asking him if he would want to become the new Patriarch of Venice in light of the nearing death of Carlo Agostini. Furthermore, Montini said to him via letter on 29 November 1952 that Pius XII had decided to raise him to the cardinalate. Roncalli knew that he would be appointed to lead the patriarchy of Venice due to the death of Agostini, who was to have been raised to the rank of cardinal.[49]
+received in 1953]] Roncalli received a message from Mgr. Montini on 14 November 1952 asking him if he would want to become the new Patriarch of Venice in light of the nearing death of Carlo Agostini. Furthermore, Montini said to him via letter on 29 November 1952 that Pius XII had decided to raise him to the cardinalate. Roncalli knew that he would be appointed to lead the patriarchy of Venice due to the death of Agostini, who was to have been raised to the rank of cardinal.[49]
 
 On 12 January 1953, he was appointed Patriarch of Venice and raised to the rank of Cardinal-Priest of Santa Prisca by Pope Pius XII. Roncalli left France for Venice on 23 February 1953 stopping briefly in Milan and then to Rome. On 15 March 1953, he took possession of his new diocese in Venice. As a sign of his esteem, the President of France, Vincent Auriol, claimed the ancient privilege possessed by French monarchs and bestowed the red biretta on Roncalli at a ceremony in the Élysée Palace. It was around this time that he, with the aid of Monsignor Bruno Heim, formed his coat of arms with a lion of Saint Mark on a white ground. Auriol also awarded Roncalli three months later with the award of Commander of the Legion of Honour.
 
@@ -119,13 +119,13 @@ After he answered the two ritual questions, the traditional Habemus Papam announ
 
 His coronation took place on 4 November 1958, on the feast of Saint Charles Borromeo, and it occurred on the central loggia of the Vatican. He was crowned with the 1877 Palatine Tiara. His coronation ran for the traditional five hours.
 
-In John XXIII's first consistory on 15 December of that same year, Montini was created a cardinal and would become John XXIII's successor in 1963, taking the name of Paul VI. Johnxxiii-color-tiara-sm.jpg.]]
+In John XXIII's first consistory on 15 December of that same year, Montini was created a cardinal and would become John XXIII's successor in 1963, taking the name of Paul VI. .]]
 
 Following his election the new pope told the tale of how in his first weeks he was walking when he heard a woman exclaim in a loud voice: "My God, he's so fat!" The new pope casually remarked: "Madame, the holy conclave isn't exactly a beauty contest!"[53]
 
 Visits around Rome
 
-Pope_John_XXIII_-_Porto_Viro_-_Rovigo.jpg (Rovigo)]] On 25 December 1958, he became the first pope since 1870 to make pastoral visits in his Diocese of Rome, when he visited children infected with polio at the Bambino Gesù Hospital and then visited Santo Spirito Hospital. The following day, he visited Rome's Regina Coeli prison, where he told the inmates: "You could not come to me, so I came to you." These acts created a sensation, and he wrote in his diary: "... great astonishment in the Roman, Italian and international press. I was hemmed in on all sides: authorities, photographers, prisoners, wardens..."[54]
+(Rovigo)]] On 25 December 1958, he became the first pope since 1870 to make pastoral visits in his Diocese of Rome, when he visited children infected with polio at the Bambino Gesù Hospital and then visited Santo Spirito Hospital. The following day, he visited Rome's Regina Coeli prison, where he told the inmates: "You could not come to me, so I came to you." These acts created a sensation, and he wrote in his diary: "... great astonishment in the Roman, Italian and international press. I was hemmed in on all sides: authorities, photographers, prisoners, wardens..."[54]
 
 During these visits, John XXIII put aside the normal papal use of the formal "we" when referring to himself, such as when he visited a reformatory school for juvenile delinquents in Rome telling them "I have wanted to come here for some time". The media noticed this and reported that "He talked to the youths in their own language".[55]
 
@@ -141,7 +141,7 @@ While Vatican II was being held, John XXIII tasked Cardinal Augustin Bea with th
 
 Calling the Council
 
-Pope_John_XXIII_and_Sami_as-Solh.png, 1959]] Far from being a mere "stopgap" pope, to great excitement, John XXIII called for an ecumenical council fewer than ninety years after the First Vatican Council (Vatican I's predecessor, the Council of Trent, had been held in the 16th century). This decision was announced on 25 January 1959 at the Basilica of Saint Paul Outside the Walls. Cardinal Giovanni Battista Montini, who later became Pope Paul VI, remarked to Giulio Bevilacqua that "this holy old boy doesn't realise what a hornet's nest he's stirring up".[58] From the Second Vatican Council came changes that reshaped the face of Catholicism: a comprehensively revised liturgy, a stronger emphasis on ecumenism, and a new approach to the world.
+, 1959]] Far from being a mere "stopgap" pope, to great excitement, John XXIII called for an ecumenical council fewer than ninety years after the First Vatican Council (Vatican I's predecessor, the Council of Trent, had been held in the 16th century). This decision was announced on 25 January 1959 at the Basilica of Saint Paul Outside the Walls. Cardinal Giovanni Battista Montini, who later became Pope Paul VI, remarked to Giulio Bevilacqua that "this holy old boy doesn't realise what a hornet's nest he's stirring up".[58] From the Second Vatican Council came changes that reshaped the face of Catholicism: a comprehensively revised liturgy, a stronger emphasis on ecumenism, and a new approach to the world.
 
 Prior to the first session of the council, John XXIII visited Assisi and Loreto on 4 October 1962 to pray for the new upcoming council as well as to mark the feast day of St. Francis of Assisi. He was the first pope to travel outside of Rome since Pope Pius IX. Along the way, there were several halts at Orte, Narni, Terni, Spoleto, Foligno, Fabriano, Iesi, Falconara and Ancona where the crowds greeted him.[59]
 
@@ -149,7 +149,7 @@ Moral theology
 
 Contraception
 
-Olympische_Spelen_te_Rome,_Paus_Johannes_XXIII_zegent_de_deelnemers_aan_de_Spele,_Bestanddeelnr_911-5390.jpg on 28 August 1960.]] In 1963, John XXIII established a commission of six non-theologians to investigate questions of birth control.[60][61]
+on 28 August 1960.]] In 1963, John XXIII established a commission of six non-theologians to investigate questions of birth control.[60][61]
 
 Human rights
 
@@ -218,7 +218,7 @@ The citation for the medal reads: _His Holiness Pope John XXIII, dedicated serva
 
 Beatification and canonization
 
-Reliquienschrein_Papst_Johannes_XXIII._-_Petersdom_1.JPG Canonization_2014-_The_Canonization_of_Saint_John_XXIII_and_Saint_John_Paul_II_(14036819834).jpg He was known affectionately as "Good Pope John".[73] His cause for canonization was opened under Pope Paul VI during the final session of the Second Vatican Council on 18 November 1965,[74] along with the cause of Pope Pius XII. On 3 September 2000, John XXIII was declared "Blessed" alongside Pope Pius IX by Pope John Paul II, the penultimate step on the road to sainthood after a miracle of curing an ill woman was discovered. He was the first pope since Pope Pius X to receive this honour. Following his beatification, his body was moved from its original burial place in the grottoes below the Vatican to the altar of St. Jerome and displayed for the veneration of the faithful.
+He was known affectionately as "Good Pope John".[73] His cause for canonization was opened under Pope Paul VI during the final session of the Second Vatican Council on 18 November 1965,[74] along with the cause of Pope Pius XII. On 3 September 2000, John XXIII was declared "Blessed" alongside Pope Pius IX by Pope John Paul II, the penultimate step on the road to sainthood after a miracle of curing an ill woman was discovered. He was the first pope since Pope Pius X to receive this honour. Following his beatification, his body was moved from its original burial place in the grottoes below the Vatican to the altar of St. Jerome and displayed for the veneration of the faithful.
 
 At the time, the body was observed to be extremely well preserved—a condition which the Church ascribes to embalming[75] and the lack of air flow in his sealed triple coffin rather than a miracle. When John XXIII's body was moved in 2001, it was once again treated to prevent deterioration.[76] The original vault above the floor was removed and a new one built beneath the ground; it was here that the body of Pope John Paul II was entombed from 9 April 2005 to April 2011, before being moved for his beatification on 1 May 2011.[77]
 
@@ -229,7 +229,7 @@ The date assigned for the liturgical celebration of John XXIII is not 3 June, th
 
 Legacy
 
-Estátua_do_Papa_João_XXIII_na_Lourinhã.jpg From his teens when he entered the seminary, he maintained a diary of spiritual reflections that was subsequently published as the _Journal of a Soul_. The collection of writings charts Roncalli's goals and his efforts as a young man to "grow in holiness" and continues after his election to the papacy; it remains widely read.[85]
+From his teens when he entered the seminary, he maintained a diary of spiritual reflections that was subsequently published as the _Journal of a Soul_. The collection of writings charts Roncalli's goals and his efforts as a young man to "grow in holiness" and continues after his election to the papacy; it remains widely read.[85]
 
 The opening titles of Pier Paolo Pasolini's film _The Gospel According to St. Matthew_ (1964) dedicate the film to the memory of John XXIII.[86]
 

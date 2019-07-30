@@ -34,8 +34,6 @@ Models that assume perfect competition in the labour market, as discussed below,
 
 Neoclassical microeconomic model – Supply
 
-Tompkins_Square_Park_Central_Knoll.jpg RAILROAD_WORK_CREW_IMPROVES_THE_TRACKS_AND_BED_OF_THE_ATCHISON,_TOPEKA_AND_SANTA_FE_RAILROAD_NEAR_BELLEFONT,_KANSAS..._-_NARA_-_556012.jpg
-
 Households are suppliers of labour. In microeconomic theory, people are assumed to be rational and seeking to maximize their utility function. In the labour market model, their utility function expresses trade-offs in preference between leisure time and income from time used for labour. However, they are constrained by the hours available to them.
 
 Let _w_ denote the hourly wage, _k_ denote total hours available for labour and leisure, _L_ denote the chosen number of working hours, π denote income from non-labour sources, and _A_ denote leisure hours chosen. The individual's problem is to maximise utility _U_, which depends on total income available for spending on consumption and also depends on time spent in leisure, subject to a time constraint, with respect to the choices of labour time and leisure time:
@@ -50,19 +48,16 @@ $${{MU^L}\over{MU^Y}} = {{dY}\over{dL}},$$
 
 where _Y_ is total income and the right side is the wage rate.
 
-Effects of a wage increase
 _Effects of a wage increase_
 
 If the wage rate increases, this individual's constraint line pivots up from X,Y₁ to X,Y₂. He/she can now purchase more goods and services. His/her utility will increase from point A on IC₁ to point B on IC₂. To understand what effect this might have on the decision of how many hours to work, one must look at the income effect and substitution effect.
 
 The wage increase shown in the previous diagram can be decomposed into two separate effects. The pure income effect is shown as the movement from point A to point C in the next diagram. Consumption increases from Y_(A) to Y_(C) and – since the diagram assumes that leisure is a normal good – leisure time increases from X_(A) to X_(C). (Employment time decreases by the same amount as leisure increases.)
 
-The Income and Substitution effects of a wage increase
 _The Income and Substitution effects of a wage increase_
 
 But that is only part of the picture. As the wage rate rises, the worker will substitute away from leisure and into the provision of labour—that is, will work more hours to take advantage of the higher wage rate, or in other words substitute away from leisure because of its higher opportunity cost. This substitution effect is represented by the shift from point C to point B. The net impact of these two effects is shown by the shift from point A to point B. The relative magnitude of the two effects depends on the circumstances. In some cases, such as the one shown, the substitution effect is greater than the income effect (in which case more time will be allocated to working), but in other cases the income effect will be greater than the substitution effect (in which case less time is allocated to working). The intuition behind this latter case is that the individual decides that the higher earnings on the previous amount of labour can be "spent" by purchasing more leisure.
 
-The Labour Supply curve
 _The Labour Supply curve_
 
 If the substitution effect is greater than the income effect, an individual's supply of labour services will increase as the wage rate rises, which is represented by a positive slope in the LABOUR SUPPLY CURVE (as at point E in the adjacent diagram, which exhibits a positive wage elasticity). This positive relationship is increasing until point F, beyond which the income effect dominates the substitution effect and the individual starts to reduce the amount of labour hours he supplies (point G) as wage increases; in other words, the wage elasticity is now negative.
@@ -85,7 +80,6 @@ Additionally, although the MRP is a good way of expressing an employer's demand,
 
 Neoclassical microeconomic model – Equilibrium
 
-A Firm's Labour Demand in the Short Run
 _A firm's labour demand in the short run (D) and a horizontal supply curve (S)_
 
 The marginal revenue product of labour can be used as the demand for labour curve for this firm in the short run. In competitive markets, a firm faces a perfectly elastic supply of labour which corresponds with the wage rate and the marginal resource cost of labour (W = S_(L) = MFC_(L)). In imperfect markets, the diagram would have to be adjusted because MFC_(L) would then be equal to the wage rate divided by marginal costs. Because optimum resource allocation requires that marginal factor costs equal marginal revenue product, this firm would demand L units of labour as shown in the diagram.
@@ -102,7 +96,7 @@ Some labour markets have a single employer and thus do not satisfy the perfect c
 
 Information approaches
 
-Sabah_Sarawak_labour_advert_Kuala_Lumpur.JPG, Kuala Lumpur.]] In many real-life situations the assumption of perfect information is unrealistic. An employer does not necessarily know how hard workers are working or how productive they are. This provides an incentive for workers to shirk from providing their full effort – since it is difficult for the employer to identify the hard-working and the shirking employees, there is no incentive to work hard and productivity falls overall, leading to the hiring of more workers and a lower unemployment rate.
+, Kuala Lumpur.]] In many real-life situations the assumption of perfect information is unrealistic. An employer does not necessarily know how hard workers are working or how productive they are. This provides an incentive for workers to shirk from providing their full effort – since it is difficult for the employer to identify the hard-working and the shirking employees, there is no incentive to work hard and productivity falls overall, leading to the hiring of more workers and a lower unemployment rate.
 
 One solution used recently – stock options – grants employees the chance to benefit directly from a firm's success. However, this solution has attracted criticism as executives with large stock-option packages have been suspected of acting to over-inflate share values to the detriment of the long-run welfare of the firm. Another solution, foreshadowed by the rise of temporary workers in Japan and the firing of many of these workers in response to the financial crisis of 2008, is more flexible job- contracts and -terms that encourage employees to work less than full-time by partially compensating for the loss of hours, relying on workers to adapt their working time in response to job requirements and economic conditions instead of the employer trying to determine how much work is needed to complete a given task and overestimating.
 

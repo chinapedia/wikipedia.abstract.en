@@ -3,7 +3,7 @@ REHOBOAM (; Hebrew: רְחַבְעָם‬, _Rehav'am_; Greek: Ροβοαμ, _Rov
 
 Biblical background
 
-Rehoboam's_Insolence,_by_Hans_Holbein_the_Younger.jpg]] According to the Jewish Encyclopaedia, "Solomon's wisdom and power were not sufficient to prevent the rebellion of several of his border cities. Damascus under Rezon secured its independence [from] Solomon; and Jeroboam, a superintendent of works, his ambition stirred by the words of the prophet Ahijah (), fled to Egypt. Thus before the death of Solomon the apparently unified kingdom of David began to disintegrate. With Damascus independent and a powerful man of Ephraim, the most prominent of the Ten Tribes, awaiting his opportunity, the future of Solomon's kingdom became dubious".[1]
+]] According to the Jewish Encyclopaedia, "Solomon's wisdom and power were not sufficient to prevent the rebellion of several of his border cities. Damascus under Rezon secured its independence [from] Solomon; and Jeroboam, a superintendent of works, his ambition stirred by the words of the prophet Ahijah (), fled to Egypt. Thus before the death of Solomon the apparently unified kingdom of David began to disintegrate. With Damascus independent and a powerful man of Ephraim, the most prominent of the Ten Tribes, awaiting his opportunity, the future of Solomon's kingdom became dubious".[1]
 
 According to , Solomon had broken the mandate of the Torah[2] by marrying foreign wives and being influenced by them, worshipping and building shrines to the Moabite and Ammonite gods.
 
@@ -12,7 +12,7 @@ Rehoboam's mother, Naamah, was an Ammonitess, and thus one of the foreign wives 
 
 Biblical narrative
 
-Conventional biblical chronology dates the start of Rehoboam's reign to the mid-10th century BC. His reign is described in and and in in the Hebrew Bible. Rehoboam was 41 years old when he ascended the throne.[5] The_divided_kingdom.jpg
+Conventional biblical chronology dates the start of Rehoboam's reign to the mid-10th century BC. His reign is described in and and in in the Hebrew Bible. Rehoboam was 41 years old when he ascended the throne.[5]
 
 The assembly for the coronation of Solomon's successor, Rehoboam, was called at Shechem, the one sacredly historic city within the territory of the Ten Tribes. Before the coronation took place the assembly requested certain reforms in the policy followed by Rehoboam's father, Solomon. The reforms requested would materially reduce the royal exchequer and hence its power to continue the magnificence of Solomon's court.[6] The older men counseled Rehoboam at least to speak to the people in a civil manner (it is not clear whether they counseled him to accept the demands). However, the new king sought the advice from the young men he had grown up with, who advised the king to show no weakness to the people, and to tax them even more, which Rehoboam did. He proclaimed to the people,
 
@@ -28,7 +28,7 @@ Rehoboam went to war against the new Kingdom of Israel with a force of 180,000 s
 
 Egyptian invasion
 
-Bubastis_portal_at_Karnak.jpg at Karnak, showing cartouches of Sheshonq I mentioning the invasion from the Egyptian perspective.]]
+at Karnak, showing cartouches of Sheshonq I mentioning the invasion from the Egyptian perspective.]]
 
 In the fifth year of Rehoboam's reign, Shishak, king of Egypt, brought a huge army and took many cities. According to Joshua, son of Nadav, the mention in 2 Chronicles 11, 6 sqq., that Rehoboam built fifteen fortified cities, indicates that the attack was not unexpected.[12] The account in Chronicles states that Shishaq marched with 1,200 chariots, 60,000 horsemen and troops who came with him from Egypt: Libyans, Sukkites, and Kushites.[13] Shishaq's armies captured all of the fortified towns leading to Jerusalem between Gezer and Gibeon. When they laid siege to Jerusalem, Rehoboam gave Shishaq all of the treasures out of the temple as a tribute. The Egyptian campaign cut off trade with south Arabia via Elath and the Negev that had been established during Solomon's reign.[14] Judah became a vassal state of Egypt.
 

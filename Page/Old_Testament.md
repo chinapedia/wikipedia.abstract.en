@@ -184,7 +184,7 @@ The problem of evil plays a large part in the Old Testament. The problem the Old
 
 Formation
 
-Texts_of_the_OT.svg'' (1903). Some manuscripts are identified by their siglum. LXX here denotes the original Septuagint.]]
+'' (1903). Some manuscripts are identified by their siglum. LXX here denotes the original Septuagint.]]
 
 The process by which scriptures became canons and Bibles was a long one, and its complexities account for the many different Old Testaments which exist today. Timothy H. Lim, a professor of Hebrew Bible and Second Temple Judaism at the University of Edinburgh, identifies the Old Testament as "a collection of authoritative texts of apparently divine origin that went through a human process of writing and editing."[50] He states that it is not a magical book, nor was it literally written by God and passed to mankind. By about the 5th century BC Jews saw the five books of the Torah (the Old Testament Pentateuch) as having authoritative status; by the 2nd century BC the Prophets had a similar status, although without quite the same level of respect as the Torah; beyond that, the Jewish scriptures were fluid, with different groups seeing authority in different books.
 

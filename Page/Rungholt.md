@@ -3,14 +3,14 @@ RUNGHOLT was a settlement in Nordfriesland, in what was then the Danish Duchy of
 
 Location
 
-Strand_i_Valdemarernes_Tid.png The exact location of Rungholt remains unclear. It is likely that Rungholt was situated on the island of Strand, which was rent asunder by another storm tide in 1634, and of which the islets of Pellworm, Nordstrand and Nordstrandischmoor are the only remaining fragments.
+The exact location of Rungholt remains unclear. It is likely that Rungholt was situated on the island of Strand, which was rent asunder by another storm tide in 1634, and of which the islets of Pellworm, Nordstrand and Nordstrandischmoor are the only remaining fragments.
 
 One possible location is west of the Hallig Südfall, where in 1921 significant ruins were discovered: wells, trenches and part of a tidal lock. Another theory places Rungholt to the north of the Hallig Südfall.[1][2][3]
 
 
 History
 
-Funde_Rungholt.JPG Today it is widely accepted that Rungholt did in fact exist and was not just a local legend. Documents support this, although they mostly date from much later times (16th century). Archaeologists think Rungholt was an important town and port. It might have contained up to 500 houses, with about 3,000 people. Findings indicate trade in agricultural products and possibly amber. Supposed relics of the town have been found in the Wadden Sea, but shifting sediments make it hard to preserve them.[4][5]
+Today it is widely accepted that Rungholt did in fact exist and was not just a local legend. Documents support this, although they mostly date from much later times (16th century). Archaeologists think Rungholt was an important town and port. It might have contained up to 500 houses, with about 3,000 people. Findings indicate trade in agricultural products and possibly amber. Supposed relics of the town have been found in the Wadden Sea, but shifting sediments make it hard to preserve them.[4][5]
 
 There definitely was a great storm known as the _Grote Mandrenke_, and sometimes also named after the saint Marcellus, on 15 or 16 January 1362.[6] Estimates put the number of deaths at around 10,000. Possibly 30 settlements were destroyed, and the coastline shifted east, leaving formerly inhabited land in the tidal Wadden Sea.[7][8]
 

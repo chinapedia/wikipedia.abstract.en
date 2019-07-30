@@ -9,7 +9,7 @@ Characteristics
 
 Allotropes
 
-White_phosphorus_glowing_e17.png upright=0.55 upright=0.55 Phosphorus has several allotropes that exhibit strikingly different properties.[1] The two most common allotropes are WHITE PHOSPHORUS and RED PHOSPHORUS.[2]
+upright=0.55 upright=0.55 Phosphorus has several allotropes that exhibit strikingly different properties.[1] The two most common allotropes are WHITE PHOSPHORUS and RED PHOSPHORUS.[2]
 
 From the perspective of applications and chemical literature, the most important form of elemental phosphorus is white phosphorus, often abbreviated as WP. It is a soft, waxy solid which consists of tetrahedral molecules, in which each atom is bound to the other three atoms by a single bond. This tetrahedron is also present in liquid and gaseous phosphorus up to the temperature of when it starts decomposing to molecules.[3] White phosphorus exists in two crystalline forms: α (alpha) and β (beta). At room temperature, the α-form is stable, which is more common and it has cubic crystal structure and at , it transforms into β-form, which has hexagonal crystal structure. These forms differ in terms of the relative orientations of the constituent P₄ tetrahedra.[4][5]
 
@@ -74,7 +74,7 @@ Compounds
 
 Phosphorus(V)
 
-Phosphorus-pentoxide-3D-balls.png The most prevalent compounds of phosphorus are derivatives of phosphate (PO₄^(3−)), a tetrahedral anion.[35] Phosphate is the conjugate base of phosphoric acid, which is produced on a massive scale for use in fertilisers. Being triprotic, phosphoric acid converts stepwise to three conjugate bases:
+The most prevalent compounds of phosphorus are derivatives of phosphate (PO₄^(3−)), a tetrahedral anion.[35] Phosphate is the conjugate base of phosphoric acid, which is produced on a massive scale for use in fertilisers. Being triprotic, phosphoric acid converts stepwise to three conjugate bases:
 
     H₃PO₄ + H₂O H₃O⁺ + H₂PO₄^(−)       _K__(a1)= 7.25×10^(−3)
 
@@ -106,7 +106,7 @@ Phosphorus(III) oxide, P₄O₆ (also called tetraphosphorus hexoxide) is the an
 
 Phosphorus(I) and phosphorus(II)
 
-YoshifujiR2P2.png, a derivative of phosphorus(I).]] These compounds generally feature P-P bonds.[39] Examples include catenated derivatives of phosphine and organophosphines. Compounds containing P=P double bonds have also been observed, although they are rare.
+, a derivative of phosphorus(I).]] These compounds generally feature P-P bonds.[39] Examples include catenated derivatives of phosphine and organophosphines. Compounds containing P=P double bonds have also been observed, although they are rare.
 
 Phosphides and phosphines
 
@@ -166,7 +166,7 @@ According to the Oxford English Dictionary, the correct spelling of the element 
 
 Discovery
 
-Robert_boyle.jpg]] The discovery of phosphorus, the first element to be discovered that was not known since ancient times,[46] is credited to the German alchemist Hennig Brand in 1669, although other chemists might have discovered phosphorus around the same time.[47] Brand experimented with urine, which contains considerable quantities of dissolved phosphates from normal metabolism.[48] Working in Hamburg, Brand attempted to create the fabled philosopher's stone through the distillation of some salts by evaporating urine, and in the process produced a white material that glowed in the dark and burned brilliantly. It was named _phosphorus mirabilis_ ("miraculous bearer of light").[49]
+]] The discovery of phosphorus, the first element to be discovered that was not known since ancient times,[46] is credited to the German alchemist Hennig Brand in 1669, although other chemists might have discovered phosphorus around the same time.[47] Brand experimented with urine, which contains considerable quantities of dissolved phosphates from normal metabolism.[48] Working in Hamburg, Brand attempted to create the fabled philosopher's stone through the distillation of some salts by evaporating urine, and in the process produced a white material that glowed in the dark and burned brilliantly. It was named _phosphorus mirabilis_ ("miraculous bearer of light").[49]
 
 Brand's process originally involved letting urine stand for days until it gave off a terrible smell. Then he boiled it down to a paste, heated this paste to a high temperature, and led the vapours through water, where he hoped they would condense to gold. Instead, he obtained a white, waxy substance that glowed in the dark. Brand had discovered phosphorus. We now know that Brand produced ammonium sodium hydrogen phosphate, . While the quantities were essentially correct (it took about of urine to make about 60 g of phosphorus), it was unnecessary to allow the urine to rot first. Later scientists discovered that fresh urine yielded the same amount of phosphorus.[50]
 
@@ -182,7 +182,7 @@ Phosphorus was the 13th element to be discovered. Because of its tendency to spo
 
 Bone ash and guano
 
-DSCN5766-guano-glantz_crop_b.jpg mining in the Central Chincha Islands, ca. 1860.]] In 1769, Johan Gottlieb Gahn and Carl Wilhelm Scheele showed that calcium phosphate () is found in bones, and they obtained elemental phosphorus from bone ash. Antoine Lavoisier recognised phosphorus as an element in 1777.[56] Bone ash was the major source of phosphorus until the 1840s. The method started by roasting bones, then employed the use of clay retorts encased in a very hot brick furnace to distill out the highly toxic elemental phosphorus product.[57] Alternately, precipitated phosphates could be made from ground-up bones that had been de-greased and treated with strong acids. White phosphorus could then be made by heating the precipitated phosphates, mixed with ground coal or charcoal in an iron pot, and distilling off phosphorus vapour in a retort.[58] Carbon monoxide and other flammable gases produced during the reduction process were burnt off in a flare stack.
+mining in the Central Chincha Islands, ca. 1860.]] In 1769, Johan Gottlieb Gahn and Carl Wilhelm Scheele showed that calcium phosphate () is found in bones, and they obtained elemental phosphorus from bone ash. Antoine Lavoisier recognised phosphorus as an element in 1777.[56] Bone ash was the major source of phosphorus until the 1840s. The method started by roasting bones, then employed the use of clay retorts encased in a very hot brick furnace to distill out the highly toxic elemental phosphorus product.[57] Alternately, precipitated phosphates could be made from ground-up bones that had been de-greased and treated with strong acids. White phosphorus could then be made by heating the precipitated phosphates, mixed with ground coal or charcoal in an iron pot, and distilling off phosphorus vapour in a retort.[58] Carbon monoxide and other flammable gases produced during the reduction process were burnt off in a flare stack.
 
 In the 1840s, world phosphate production turned to the mining of tropical island deposits formed from bird and bat guano (see also Guano Islands Act). These became an important source of phosphates for fertiliser in the latter half of the 19th century.[59]
 
@@ -199,7 +199,7 @@ Early matches used white phosphorus in their composition, which was dangerous du
 
 Production
 
-The_site_of_secondary_mining_of_Phosphate_rock_in_Nauru,_2007._Photo-_Lorrie_Graham_(10729889683).jpg]] Most production of phosphorus-bearing material is for agriculture fertilisers. For this purpose, phosphate minerals are converted to phosphoric acid. It follows two distinct chemical routes, the main one being treatment of phosphate minerals with sulfuric acid. The other process utilises white phosphorus, which may be produced by reaction and distillation from very low grade phosphate sources. The white phosphorus is then oxidised to phosphoric acid and subsequently neutralised with base to give phosphate salts. Phosphoric acid produced from white phosphorus is relatively pure and is the main route for the production of phosphates for all purposes, including detergent production.
+]] Most production of phosphorus-bearing material is for agriculture fertilisers. For this purpose, phosphate minerals are converted to phosphoric acid. It follows two distinct chemical routes, the main one being treatment of phosphate minerals with sulfuric acid. The other process utilises white phosphorus, which may be produced by reaction and distillation from very low grade phosphate sources. The white phosphorus is then oxidised to phosphoric acid and subsequently neutralised with base to give phosphate salts. Phosphoric acid produced from white phosphorus is relatively pure and is the main route for the production of phosphates for all purposes, including detergent production.
 
 In the early 1990s, Albright and Wilson's purified wet phosphoric acid business was being adversely affected by phosphate rock sales by China and the entry of their long-standing Moroccan phosphate suppliers into the purified wet phosphoric acid business.[73]
 
@@ -262,7 +262,7 @@ Phosphorus is also an important component in steel production, in the making of 
 
 Matches
 
-Match_striking_surface.jpg The first striking match with a phosphorus head was invented by Charles Sauria in 1830. These matches (and subsequent modifications) were made with heads of white phosphorus, an oxygen-releasing compound (potassium chlorate, lead dioxide, or sometimes nitrate), and a binder. They were poisonous to the workers in manufacture,[93] sensitive to storage conditions, toxic if ingested, and hazardous when accidentally ignited on a rough surface.[94][95] Production in several countries was banned between 1872 and 1925.[96] The international Berne Convention, ratified in 1906, prohibited the use of white phosphorus in matches.
+The first striking match with a phosphorus head was invented by Charles Sauria in 1830. These matches (and subsequent modifications) were made with heads of white phosphorus, an oxygen-releasing compound (potassium chlorate, lead dioxide, or sometimes nitrate), and a binder. They were poisonous to the workers in manufacture,[93] sensitive to storage conditions, toxic if ingested, and hazardous when accidentally ignited on a rough surface.[94][95] Production in several countries was banned between 1872 and 1925.[96] The international Berne Convention, ratified in 1906, prohibited the use of white phosphorus in matches.
 
 In consequence, the 'strike-anywhere' matches were gradually replaced by 'safety matches', wherein the white phosphorus was replaced by phosphorus sesquisulfide (P₄S₃), sulfur, or antimony sulfide. Such matches are difficult to ignite on any surface other than a special strip. The strip contains red phosphorus that heats up upon striking, reacts with the oxygen-releasing compound in the head, and ignites the flammable material of the head.[97][98]
 
@@ -314,7 +314,7 @@ The main food sources for phosphorus are the same as those containing protein, a
 
 Precautions
 
-Phosphorus_explosion.gif Organic compounds of phosphorus form a wide class of materials; many are required for life, but some are extremely toxic. Fluorophosphate esters are among the most potent neurotoxins known. A wide range of organophosphorus compounds are used for their toxicity as pesticides (herbicides, insecticides, fungicides, etc.) and weaponised as nerve agents against enemy humans. Most inorganic phosphates are relatively nontoxic and essential nutrients.[124]
+Organic compounds of phosphorus form a wide class of materials; many are required for life, but some are extremely toxic. Fluorophosphate esters are among the most potent neurotoxins known. A wide range of organophosphorus compounds are used for their toxicity as pesticides (herbicides, insecticides, fungicides, etc.) and weaponised as nerve agents against enemy humans. Most inorganic phosphates are relatively nontoxic and essential nutrients.[124]
 
 The white phosphorus allotrope presents a significant hazard because it ignites in air and produces phosphoric acid residue. Chronic white phosphorus poisoning leads to necrosis of the jaw called "phossy jaw". White phosphorus is toxic, causing severe liver damage on ingestion and may cause a condition known as "Smoking Stool Syndrome".[125]
 

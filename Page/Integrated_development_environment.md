@@ -1,4 +1,4 @@
-Anjuta-2.0.0-2.png is an IDE for C and C++ programming in the GNOME desktop environment.]]
+is an IDE for C and C++ programming in the GNOME desktop environment.]]
 
 An INTEGRATED DEVELOPMENT ENVIRONMENT (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools, and a debugger. Some IDEs, such as NetBeans and Eclipse, contain the necessary compiler, interpreter, or both; others, such as SharpDevelop and Lazarus, do not.
 
@@ -18,7 +18,7 @@ While most modern IDEs are graphical, text-based IDEs such as Turbo Pascal were 
 
 History
 
-Emacs-screenshot.png, an extensible editor that is commonly used as an IDE on Unix-like systems]]
+, an extensible editor that is commonly used as an IDE on Unix-like systems]]
 
 IDEs initially became possible when developing via a console or terminal. Early systems could not support one, since programs were prepared using flowcharts, entering programs with punched cards (or paper tape, etc.) before submitting them to a compiler. Dartmouth BASIC was the first language to be created with an IDE (and was also the first to be designed for use while sitting in front of a console or terminal). Its IDE (part of the Dartmouth Time Sharing System) was command-based, and therefore did not look much like the menu-driven, graphical IDEs popular after the advent of the Graphical User Interface. However it integrated editing, file management, compilation, debugging and execution in a manner consistent with a modern IDE.
 

@@ -24,7 +24,7 @@ Emergence of Saudi state
 
 Pact with Muhammad bin Saud
 
-First_Saudi_State_Big.png Upon his expulsion from 'Uyayna, Ibn ʿAbd al-Wahhab was invited to settle in neighboring Diriyah by its ruler Muhammad bin Saud. After some time in Diriyah, Muhammad ibn ʿAbd al-Wahhab concluded his second and more successful agreement with a ruler.[60] Ibn ʿAbd al-Wahhab and Muhammad bin Saud agreed that, together, they would bring the Arabs of the peninsula back to the "true" principles of Islam as they saw it. According to one source, when they first met, bin Saud declared:
+Upon his expulsion from 'Uyayna, Ibn ʿAbd al-Wahhab was invited to settle in neighboring Diriyah by its ruler Muhammad bin Saud. After some time in Diriyah, Muhammad ibn ʿAbd al-Wahhab concluded his second and more successful agreement with a ruler.[60] Ibn ʿAbd al-Wahhab and Muhammad bin Saud agreed that, together, they would bring the Arabs of the peninsula back to the "true" principles of Islam as they saw it. According to one source, when they first met, bin Saud declared:
 
 Muhammad ibn ʿAbd al-Wahhab replied:
 
@@ -92,7 +92,7 @@ A list of scholars with opposing views, along with names of their books and rela
 
 Contemporary recognition
 
-Flickr_-_omar_chatriwala_-_The_State_Mosque.jpg The state mosque of Qatar is named after him.[119] The "Imam Muhammad ibn Abd al-Wahhab Mosque" was opened in 2011, with the Emir of Qatar presiding over the occasion.[120] The mosque can hold a congregation of 30,000 people.[121] There has been request from descendants of Ibn Abd al-Wahhab that the name of the mosque be changed.[122]
+The state mosque of Qatar is named after him.[119] The "Imam Muhammad ibn Abd al-Wahhab Mosque" was opened in 2011, with the Emir of Qatar presiding over the occasion.[120] The mosque can hold a congregation of 30,000 people.[121] There has been request from descendants of Ibn Abd al-Wahhab that the name of the mosque be changed.[122]
 
 Despite Wahhabi destruction of many Islamic, non-Islamic, and historical sites associated with the first Muslims (the Prophet's family and companions), the Saudi government undertook a large-scale development of Muhammad ibn Abd al-Wahhab's domain, Diriyah, turning it into a major tourist attraction.[123][124] Other features in the area include the _Sheikh Muhammad bin Abdul Wahab Foundation_ which is planned to include a light and sound presentation[125] located near the _Mosque of Sheikh Mohammad bin Abdulwahab_.[126]
 

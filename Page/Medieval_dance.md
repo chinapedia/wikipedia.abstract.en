@@ -1,11 +1,11 @@
-Print,_Dance_at_Herod's_Court,_ca._1490_(CH_18420585-2).jpg, engraving. Couples circling in a basse danse.]] 40-svaghi,suono_e_ballo,Taccuino_Sanitatis,_Casanatense_4182.jpg casanatense (14th century)]] Sources for an understanding of dance in Europe in the Middle Ages are limited and fragmentary, being composed of some interesting depictions in paintings and illuminations, a few musical examples of what may be dances, and scattered allusions in literary texts. The first detailed descriptions of dancing only date from 1451 in Italy, which is after the start of the Renaissance in Western Europe.[1]
+, engraving. Couples circling in a basse danse.]] casanatense (14th century)]] Sources for an understanding of dance in Europe in the Middle Ages are limited and fragmentary, being composed of some interesting depictions in paintings and illuminations, a few musical examples of what may be dances, and scattered allusions in literary texts. The first detailed descriptions of dancing only date from 1451 in Italy, which is after the start of the Renaissance in Western Europe.[1]
 
 By the end of the Middle Ages, some characteristics that were to remain for centuries can be seen to be established. Court dance largely involved mixed couples but dancing in a larger formation. The basse danse (low dance) type is seen in most illustrations, where the dancers process in a dignified fashion without raising their feet far from the floor. Perhaps this is because it was easier for artists to depict. Popular dance styles, some no doubt related to modern folk dance, British country dance and other styles, tended to be more energetic, and were often performed by a single gender, as circle dances, line dances, or in other formations. They might involve singing by the dancers, which court dances apparently did not.
 
 
 Carol
 
-R-20100927-0036.jpg, _The Grand Ball_, signed MZ and dated 1500 (22 x 31 cm). Engraving based on the court of Albert IV, Duke of Bavaria, with basse danse.]]
+, _The Grand Ball_, signed MZ and dated 1500 (22 x 31 cm). Engraving based on the court of Albert IV, Duke of Bavaria, with basse danse.]]
 
     _For the carol as a musical form see: Carol, Christmas carol_
 
@@ -15,7 +15,7 @@ Mullally in his book on the carole makes the case that the dance, at least in Fr
 
 Chretien de Troyes
 
-Meister_des_Rosenromans_001.jpg'', c. 1430.]] Some of the earliest mentions of the carol occur in the works of the French poet Chretien de Troyes in his series of Arthurian romances. In the wedding scene in Erec and Enide (about 1170)
+'', c. 1430.]] Some of the earliest mentions of the carol occur in the works of the French poet Chretien de Troyes in his series of Arthurian romances. In the wedding scene in Erec and Enide (about 1170)
 
 
 
@@ -53,7 +53,7 @@ and later at a court setting:
 
 Italy
 
-Lorenzetti_Good_Govt_Detail.jpg Dante (1265-1321) has a few minor references to dance in his works but a more substantive description of the round dance with song from Bologna comes from Giovanni del Virgilio (floruit 1319–1327).[14]
+Dante (1265-1321) has a few minor references to dance in his works but a more substantive description of the round dance with song from Bologna comes from Giovanni del Virgilio (floruit 1319–1327).[14]
 
 Later in the 14th century Giovanni Boccaccio (1313–1375) shows us the "carola" in Florence in the _Decameron_ (about 1350–1353) which has several passages describing men and women dancing to their own singing or accompanied by musicians.[15] Boccaccio also uses two other terms for contemporary dances, _ridda_ and _ballonchio_, both of which refer to round dances with singing.[16][17]
 
@@ -70,7 +70,7 @@ Circle or line dances also existed in other parts of Europe outside England, Fra
 
 Scandinavia
 
-Ørslev_kirke_20090411-22.jpg In Denmark, old ballads mention a closed Ring dance which can open into a Chain dance. A fresco in Ørslev church in Zealand from about 1400 shows nine people, men and women, dancing in a line. The leader and some others in the chain carry bouquets of flowers.[22] Dances could be for men and women, or for men alone, or women alone. In the case of women's dances, however, there may have been a man who acted as the leader.[23] Two dances specifically named in the Danish ballads which appear to be line dances of this type are _The Beggar Dance_, and _The Lucky Dance_ which may have been a dance for women.[24] A modern version of these medieval chains is seen in the Faroese chain dance, the earliest account of which goes back only to the 17th century.[25]
+In Denmark, old ballads mention a closed Ring dance which can open into a Chain dance. A fresco in Ørslev church in Zealand from about 1400 shows nine people, men and women, dancing in a line. The leader and some others in the chain carry bouquets of flowers.[22] Dances could be for men and women, or for men alone, or women alone. In the case of women's dances, however, there may have been a man who acted as the leader.[23] Two dances specifically named in the Danish ballads which appear to be line dances of this type are _The Beggar Dance_, and _The Lucky Dance_ which may have been a dance for women.[24] A modern version of these medieval chains is seen in the Faroese chain dance, the earliest account of which goes back only to the 17th century.[25]
 
 In Sweden too, medieval songs often mentioned dancing. A long chain was formed, with the leader singing the verses and setting the time while the other dancers joined in the chorus. These "Long Dances" have lasted into modern times in Sweden.[26] A similar type of song dance may have existed in Norway in the Middle Ages as well, but no historical accounts have been found.[27]
 
@@ -78,13 +78,13 @@ Central Europe
 
 The same dance in Germany was called "Reigen" and may have originated from devotional dances at early Christian festivals. Dancing around the church or a fire was frequently denounced by church authorities which only underscores how popular it was. There are records of church and civic officials in various German towns forbidding dancing and singing from the 8th to the 10th centuries.[28][29] Once again, in singing processions, the leader provided the verse and the other dancers supplied the chorus.[30][31] The minnesinger Neidhart von Reuental, who lived in the first half of the 13th century wrote several songs for dancing, some of which use the term "reigen".[32]
 
-Runkelstein_3363.JPG, Italy]] In southern Tyrol, at Runkelstein Castle, a series of frescos was executed in the last years of the 14th century.[33] One of the frescos depicts Elisabeth of Poland, Queen of Hungary leading a chain dance.[34]
+, Italy]] In southern Tyrol, at Runkelstein Castle, a series of frescos was executed in the last years of the 14th century.[33] One of the frescos depicts Elisabeth of Poland, Queen of Hungary leading a chain dance.[34]
 
 Circle dances were also found in the area that is today the Czech Republic. Descriptions and illustrations of dancing can be found in church registers, chronicles and the 15th century writings of Bohuslav Hasištejnský z Lobkovic. Dancing was primarily done around trees on the village green but special houses for dancing appear from the 14th century.[35] In Poland as well the earliest village dances were in circles or lines accompanied by the singing or clapping of the participants.[36]
 
 The Balkans
 
-The present day folk dances in the Balkans consist of dancers linked together in a hand or shoulder hold in an open or closed circle or a line. The basic round dance goes by many names in the various countries of the region: _kolo_, _oro_, _horo_ or _hora_. The modern couple dance so common in western and northern Europe has only made a few inroads into the Balkan dance repertory.[37] Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci14.jpg
+The present day folk dances in the Balkans consist of dancers linked together in a hand or shoulder hold in an open or closed circle or a line. The basic round dance goes by many names in the various countries of the region: _kolo_, _oro_, _horo_ or _hora_. The modern couple dance so common in western and northern Europe has only made a few inroads into the Balkan dance repertory.[37]
 
 Chain dances of a similar type to these modern dance forms have been documented from the medieval Balkans. Tens of thousands of medieval tombstones called "Stećci" are found in Bosnia and Hercegovina and neighboring areas in Montenegro, Serbia and Croatia. They date from the end of the 12th century to the 16th century. Many of the stones bear inscription and figures, several of which have been interpreted as dancers in a ring or line dance. These mostly date to the 14th and 15th centuries. Usually men and women are portrayed dancing together holding hands at shoulder level but occasionally the groups consist of only one sex.[38][39]
 
@@ -107,7 +107,7 @@ Another traveler, the German pharmacist Reinhold Lubenau, was in Constantinople 
 
 Estampie
 
-German_-_Box_for_Board_Games_-_Walters_7193_-_Top_(cropped).jpg If the story is true that troubadour Raimbaut de Vaqueiras (about 1150–1207) wrote the famous Provençal song _Kalenda Maya_ to fit the tune of an estampie that he heard two jongleurs play, then the history of the estampie extends back to the 12th century.[45] The only musical examples actually identified as "estampie" or "istanpita" occur in two 14th-century manuscripts. The same manuscripts also contain other pieces named "danse real" or other dance names. These are similar in musical structure to the estampies but consensus is divided as to whether these should be considered the same.[46][47] Hausbuch_Wolfegg_15r_Venus.jpg, Germany, c. 1480s]]
+If the story is true that troubadour Raimbaut de Vaqueiras (about 1150–1207) wrote the famous Provençal song _Kalenda Maya_ to fit the tune of an estampie that he heard two jongleurs play, then the history of the estampie extends back to the 12th century.[45] The only musical examples actually identified as "estampie" or "istanpita" occur in two 14th-century manuscripts. The same manuscripts also contain other pieces named "danse real" or other dance names. These are similar in musical structure to the estampies but consensus is divided as to whether these should be considered the same.[46][47] , Germany, c. 1480s]]
 
 In addition to these instrumental music compositions, there are also mentions of the estampie in various literary sources from the 13th and 14th centuries. One of these as "stampenie" is found in Gottfried von Strassburg's _Tristan_ from 1210 in a catalog of Tristan's accomplishments:
 
@@ -159,7 +159,7 @@ Opinion is divided as to whether the Estampie was actually a dance or simply ear
 
 Couple dances
 
-HeinrichStretelingen.jpg According to German dance historian Aenne Goldschmidt, the oldest notice of a couple dance comes from the southern German Latin romance Ruodlieb probably composed in the early to mid-11th century.[57] The dance is done at a wedding feast and is described in the translation by Edwin Zeydel as follows:[58]
+According to German dance historian Aenne Goldschmidt, the oldest notice of a couple dance comes from the southern German Latin romance Ruodlieb probably composed in the early to mid-11th century.[57] The dance is done at a wedding feast and is described in the translation by Edwin Zeydel as follows:[58]
 
 
 
@@ -169,8 +169,6 @@ HeinrichStretelingen.jpg According to German dance historian Aenne Goldschmidt, 
         he seemed to move (glide) along, she to float.
 
 Another literary mention comes from a later period in Germany with a description of couple dancing in Wolfram von Eschenbach's epic poem _Parzival_, usually dated to the beginning of the 13th century. The scene occurs on manuscript page 639, the host is Gawain, the tables from the meal have been removed and musicians have been recruited:
-
-Meister_der_Manessischen_Liederhandschrift_003.jpg
 
 
 

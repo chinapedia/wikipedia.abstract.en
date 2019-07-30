@@ -9,7 +9,7 @@ Japan extends from 20° to 45° north latitude (Okinotorishima to Benten-jima) a
 
 Overview
 
-Japan-CIA_WFB_Map.png Ogasawara_islands.png of the Japanese archipelago]]
+of the Japanese archipelago]]
 
 The Japanese archipelago is over long in a north-to-southwardly direction from the Sea of Okhotsk to the Philippine Sea in the Pacific Ocean.[12] The major islands, sometimes called the "Home Islands", are (from east to west) Hokkaido, Honshu (the "mainland"), Shikoku and Kyushu. There are 6,852 islands in total,[13] including the Nansei Islands, the Nanpō Islands and islets, with 430 islands being inhabited and others uninhabited. In total, as of 2018, Japan's territory is , of which is land and water.[14] Japan has the sixth longest coastline in the world (). It is the largest island country in East Asia and fourth largest island country in the world. There are a wide range of climatic zones and ecosystems.
 
@@ -64,8 +64,6 @@ FRESHWATER WITHDRAWAL (DOMESTIC/INDUSTRIAL/AGRICULTURAL):
 
 Regions
 
-Regions_and_Prefectures_Japan.png
-
 Japan is informally divided into eight regions from north to south:[19]
 
 -   Hokkaidō
@@ -83,8 +81,6 @@ The regions are not official administrative units, but have been traditionally u
 
 
 Composition, topography and geography
-
-Japan_topo_en.jpg
 
 About 73% of Japan is mountainous, with a mountain range running through each of the main islands. Japan's highest mountain is Mount Fuji, with an elevation of . Japan's forest cover rate is 68.55% since the mountains are heavily forested. The only other developed nations with such a high forest cover percentage are Finland and Sweden.[20]
 
@@ -128,8 +124,6 @@ Central Japan is marked by the convergence of the three mountain chains—the Hi
 
 Plains
 
-Kanto_plain.png
-
 There are three major plains in central Honshū. The largest is the Kantō Plain which covers in the Kantō region. The capital Tokyo and the largest metropolitan population is located there. The second largest plain is the Nōbi Plain with the third-most-populous urban area Nagoya. The third largest plain is the Osaka Plain which covers in the Kinki region. It features the second largest urban area of Osaka (part of the Keihanshin metropolitan area). Osaka and Nagoya extend inland from their bays until they reach steep mountains. The Osaka Plain is connected with Kyoto and Nara. Kyoto is located in the Yamashiro Basin and Nara is in the Nara Basin .
 
 The Kantō Plain, Osaka Plain and Nōbi Plain are the most important economical, political and cultural areas of Japan. These plains had the biggest agricultural production and large bays with ports for fishing and trade. This made them the biggest population centers. Kyoto and Nara are the ancient capitals and cultural heart of Japan. The Kantō Plain became Japan's center of power, because it's the biggest plain with a central location and historically it had the most agricultural production that could be taxed. The Tokugawa Shogunate established a bakufu in Kamakura in 1603 CE.[27] This evolved into the capital Tokyo in 1868 CE.
@@ -140,7 +134,7 @@ Other important plains are e.g. the Sendai Plain around the city of Sendai in no
 
 Rivers, lakes and coasts
 
-Seto_Inland_Sea.jpg]]
+]]
 
 Rivers are generally steep and swift, and few are suitable for navigation except in their lower reaches. Although most rivers are less than 300 kilometers in length, their rapid flow from the mountains provides a valuable, renewable resource: hydroelectric power generation. Japan's hydroelectric power potential has been exploited almost to capacity. Seasonal variations in flow have led to extensive development of flood control measures. Most of the rivers are relatively short. The longest, the Shinano River, which winds through Nagano Prefecture to Niigata Prefecture and flows into the Sea of Japan, is long. The largest freshwater lake is Lake Biwa , northeast of Kyoto.
 
@@ -150,7 +144,7 @@ In November 2008, Japan filed a request to expand its claimed continental shelf.
 
 Land reclamation
 
-151229_Kobe_Port_Japan02bs.jpg in Osaka Bay]]
+in Osaka Bay]]
 
 The Japanese archipelago is mainly rugged and mountainous (73%) so the relatively small amount of habitable land has prompted significant terrain modification by humans over many centuries.
 
@@ -180,7 +174,7 @@ There is a risk of contamination on artificial islands with landfill and reclaim
 
 Geology
 
-Japan_separation.png were separated from the Asian continent by back-arc spreading]] Tectonic_map_of_Japan-fr.png
+were separated from the Asian continent by back-arc spreading]]
 
 Tectonic plates
 
@@ -197,7 +191,7 @@ The subduction zone is where the oceanic crust slides beneath the continental cr
 
 Median Tectonic Line
 
-Tectonic_map_of_southwest_Japan.png (western blue line).]]
+(western blue line).]]
 
 The (aka Median Tectonic Line or MTL), is Japan's longest fault system.[55][56] The MTL begins near Ibaraki Prefecture, where it connects with the Itoigawa-Shizuoka Tectonic Line (ISTL) and the Fossa Magna. It runs parallel to Japan's volcanic arc, passing through central Honshū to near Nagoya, through Mikawa Bay, then through the Inland Sea from the Kii Channel and Naruto Strait to Shikoku along the Sadamisaki Peninsula and the Bungo Channel and Hōyo Strait to Kyūshū.[57]
 
@@ -205,7 +199,7 @@ The Japan Median Tectonic Line moves right-lateral strike-slip, at about 5–10 
 
 Oceanic trenches
 
-Japan_Trench_Map.jpg, Japan Trench, Izu-Ogasawara Trench and Mariana Trench]]
+, Japan Trench, Izu-Ogasawara Trench and Mariana Trench]]
 
 East of the Japanese archipelago are three oceanic trenches in the Pacific Ring of Fire.
 
@@ -235,8 +229,6 @@ The 2011 Tōhoku earthquake and tsunami caused portions of northeastern Japan to
 
 Sea of Japan
 
-Sea_of_Japan_Map_en.png
-
 History
 
 During the Pleistocene (2.58 million years BCE) glacial cycles, the Japanese islands may have occasionally been connected to the Eurasian Continent via the Korea Strait and the Korean Peninsula or Sakhalin (Karafuto). The Sea of Japan was considered to be a frozen inner lake due to the lack of warm Tsushima Current. Various plants and large animals, such as the _Palaeoloxodon naumanni_ migrated into the Japan archipelago.[83]
@@ -245,7 +237,7 @@ The Sea of Japan was a landlocked sea when the land bridge of East Asia existed 
 
 The northern part of the Japanese archipelago was further fragmented until orogenesis of the northeastern Japanese archipelago began in the Late Miocene. The orogenesis of the high mountain ranges in northeastern Japan started in the Late Miocene and lasted in the Pliocene.[88] The south part of the Japanese archipelago remained as a relatively large landmass. The land area expanded northward during the Miocene.[89]
 
-Last_Glacial_Maximum_Vegetation_Map.svg period 16,000 BCE]]
+period 16,000 BCE]]
 
 During the advance of the last Ice Age (115,000 BCE till 9682 BCE) the world sea level dropped. This dried and closed the exit straits of the Sea of Japan one by one. The deepest, and thus the last to close, is the western channel of the Korea Strait. There is controversy as to whether or not the Sea of Japan became a huge cold inland lake.[90] The Japanese archipelago's Honshu, Kyushu, Shikoku, the Ryukyu islands and Nanpō Islands had a taiga biome (open boreal woodlands). It was characterized by coniferous forests consisting mostly of pines, spruces and larches. Hokkaido, Karafuto (Sakhalin) and the Kuril islands had mammoth steppe biome (steppe-tundra). The vegetation was dominated by palatable high-productivity grasses, herbs and willow shrubs.
 
@@ -260,7 +252,7 @@ The geographical location of the Japanese archipelago has defined the Sea of Jap
 
 Ocean currents
 
-Japan%27s_ocean_currents.PNG 2. Kuroshio extension 3. Kuroshio countercurrent 4. Tsushima Current 5. Tsugaru Current 6. Sōya Current 7. Oyashio 8. Liman Current]]
+2. Kuroshio extension 3. Kuroshio countercurrent 4. Tsushima Current 5. Tsugaru Current 6. Sōya Current 7. Oyashio 8. Liman Current]]
 
 The Japanese archipelago is surrounded by eight ocean currents. These are 1. Kuroshio 2. Kuroshio extension 3. Kuroshio countercurrent 4. Tsushima Current 5. Tsugaru Current 6. Sōya Current 7. Oyashio 8. Liman Current.
 
@@ -287,7 +279,7 @@ There are small deposits of coal, oil, iron and minerals in the Japanese archipe
 
 Marine resources
 
-Japan_Exclusive_Economic_Zones.png:]]
+:]]
 
 There are big untapped marine resources in Japan's Exclusive Economic Zone. There are confirmed large quantities of methane clathrate, natural gas, metallic minerals and rare-earth mineral reserves stored in Japan's EEZ. Seabed mineral resources such as manganese nodules, cobalt-rich crust and submarine hydrothermal deposits are located at depths over . Most of these deep sea resources are unexplored at the seabed. Much of the seabed has a depth of to . Japan's mining law restricts offshore oil and gas production. There are technological hurdles to mine at such extreme depths and to limit the ecological impact. There are no successful commercial ventures that mine the deep sea yet. So currently there are few deep sea mining projects to retrieve minerals or deepwater drilling on the ocean floor.
 
@@ -314,7 +306,7 @@ National Parks and Scenic Beauty
 
 National Parks
 
-Jrb_2007_LakeToya_Showashinzan.jpg and Shōwa-shinzan in Shikotsu-Tōya National Park]]
+and Shōwa-shinzan in Shikotsu-Tōya National Park]]
 
 Japan has 34 and 56 in 2019. These are designated and managed for protection and sustainable usage by the Ministry of the Environment under the of 1957.[121]. The Quasi-National Parks have slightly less beauty, size, diversity, or preservation. They are recommended for ministerial designation and managed by the Prefectures under the supervision of the Ministry of the Environment.[122]
 
@@ -328,7 +320,7 @@ The over long Japanese archipelago has diverse landscapes.[123] For example, the
 
 Places of Scenic Beauty
 
-Ritsurin_park16s3200.jpg, Takamatsu, Japan]]
+, Takamatsu, Japan]]
 
 The Places of Scenic Beauty and Natural Monuments are selected by the government via the Agency for Cultural Affairs in order to protect Japan's cultural heritage.[128]As of November 17, 2017 there are 1,027 and 410 . The highest classification are 75 and 36 .
 
@@ -341,13 +333,13 @@ File:Matsushima miyagi z.JPG|Pine-clad islands of Matsushima File:Amanohashidate
 
 Climate
 
-Koppen-Geiger_Map_JPN_present.svg map of Japan]]
+map of Japan]]
 
 Most regions of Japan, such as much of Honshu, Shikoku and Kyushu, belong to the temperate zone with humid subtropical climate (Köppen climate classification _Cfa_) characterized by four distinct seasons. However, its climate varies from cool humid continental climate (Köppen climate classification _Dfb_) in the north such as northern Hokkaido, to warm tropical rainforest climate (Köppen climate classification _Af_) in the south such as Ishigaki in the Yaeyama Islands.
 
 Climate zones
 
-Kabira_Bay_Ishigaki_Island41s3s4500.jpg on Ishigaki Island, Okinawa Prefecture in March]] Himejijo_sakura2.jpg blossoms with Himeji Castle in Hyōgo Prefecture in April]] Mt.Yarigatake_from_Enzansou.jpg, Nagano Prefecture in August]] Japan's varied geographical features divide it into six principal climatic zones.
+on Ishigaki Island, Okinawa Prefecture in March]] blossoms with Himeji Castle in Hyōgo Prefecture in April]] , Nagano Prefecture in August]] Japan's varied geographical features divide it into six principal climatic zones.
 
 -   : Belonging to the humid continental climate, Hokkaido has long, cold winters and cool summers. Precipitation is not great.
 
@@ -383,7 +375,7 @@ Mid June to mid July is generally the rainy season in Honshu, Shikoku and Kyushu
 
 Winter
 
-Snow_Mountains_Japan_2006_001.jpg in January]]
+in January]]
 
 In winter, the Siberian High develops over the Eurasian land mass and the Aleutian Low develops over the northern Pacific Ocean. The result is a flow of cold air southeastward across Japan that brings freezing temperatures and heavy snowfalls to the central mountain ranges facing the Sea of Japan, but clear skies to areas fronting on the Pacific.
 
@@ -428,8 +420,6 @@ The highest recorded temperature in Japan was 41.1 °C (106.0 °F) on 23 July 
 
 Population distribution
 
-JapanCitiesTownsOMC.PNG
-
 Japan has a population of 126.3 million in 2019.[135] It is the eleventh most populous country and second most populous island country in the world.
 
 The terrain of Japan is mostly rugged and mountainous with 66% forest.[136] This caused the population to be clustered in urban areas on the coast, plains and valleys.[137] In 2010, 90.7% of the total Japanese population lived in cities.[138] Japan is an urban society with about only 5% of the labor force working in agriculture. About 80 million of the urban population is heavily concentrated on the Pacific coast of Honshu.[139]
@@ -464,7 +454,7 @@ are the groups of islands that are located to the south of the main islands of t
 
 Taiheiyō Belt
 
-Major_metropolitan_employment_areas_of_Taiheiyō_Belt.svg]]
+]]
 
 The Taiheiyō Belt is a megalopolis that includes the Greater Tokyo Area and Keihanshin megapoles. It's almost long from Ibaraki Prefecture in the northeast to Fukuoka Prefecture in the southwest. Satellite images at night show a dense and continuous strip of light (demarcating urban zones) that delineates the region with overlapping metropolitan areas in Japan.[151] It has a total population of approximately 81,859,345 (2016).
 
@@ -479,7 +469,7 @@ There are plans to build underwater habitats in Japan's Exclusive Economic Zone.
 
 Extreme points
 
-Extreme_points_japan_map.png]] Numazu_and_Mount_Fuji.jpg is the highest point in Japan]]
+]] is the highest point in Japan]]
 
 Japan extends from 20° to 45° north latitude (Okinotorishima to Benten-jima) and from 122° to 153° east longitude (Yonaguni to Minami Torishima).[158] These are the points that are farther north, south, east or west than any other location in Japan.
 
@@ -654,7 +644,7 @@ Geological hazards
 
 Earthquakes and tsunami
 
-SH-60B_helicopter_flies_over_Sendai.jpg]]
+]]
 
 Japan is substantially prone to earthquakes, tsunami and volcanoes due to its location along the Pacific Ring of Fire.[168] It has the 15th highest natural disaster risk as measured in the 2013 World Risk Index.[169]
 
@@ -670,7 +660,7 @@ Japan has become a world leader in research on causes and prediction of earthqua
 
 Volcanic eruptions
 
-Sakurajima_20091003.jpg eruption on October 3, 2009]]
+eruption on October 3, 2009]]
 
 Japan has 108 active volcanoes. That's 10% of all active volcanoes in the world. Japan has stratovolcanoes near the subduction zones of the tectonic plates. During the twentieth century several new volcanoes emerged, including Shōwa-shinzan on Hokkaido and Myōjin-shō off the Bayonnaise Rocks in the Pacific.[175] In 1991, Japan's Unzen Volcano on Kyushu about east of Nagasaki, awakened from its 200-year slumber to produce a new lava dome at its summit. Beginning in June, repeated collapse of this erupting dome generated ash flows that swept down the mountain's slopes at speeds as high as . Unzen erupted in 1792 and killed more than 15,000 people. It is the worst volcanic disaster in the country's recorded history.[176]
 
@@ -680,7 +670,7 @@ During a volcanic eruption the volcano spews large quantities of hot ash. The vo
 
 Giant Caldera and VEI-7 volcanoes
 
-Aso-4_tephra_90-85ka.svg 4 pyroclastic flow and the spread of Aso 4 tephra. The pyroclastic flow reaches almost the whole area of Kyushu, and volcanic ash is deposited over 15 cm in a wide area from Kyushu to southern Hokkaido.]]
+4 pyroclastic flow and the spread of Aso 4 tephra. The pyroclastic flow reaches almost the whole area of Kyushu, and volcanic ash is deposited over 15 cm in a wide area from Kyushu to southern Hokkaido.]]
 
 There are three VEI-7 volcanoes in Japan. These are the Aira Caldera, Kikai Caldera and Aso Caldera. These giant caldera are remnants of past eruptions. Mount Aso is the largest active volcano in Japan. 300,000 to 90,000 years ago there were four eruptions of Mount Aso which emitted huge amounts of volcanic ash that covered all of Kyushu and up to Yamaguchi Prefecture.
 

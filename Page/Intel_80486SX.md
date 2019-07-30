@@ -1,5 +1,3 @@
-Intel_i486_sx_25mhz_2007_03_27b.jpg
-
 Intel's I486SX was a modified Intel 486DX microprocessor with its floating-point unit (FPU) disabled. It was intended as a lower-cost CPU for use in low-end systems. Computer manufacturers that used these processors include Packard Bell, Compaq, ZEOS and IBM.
 
 

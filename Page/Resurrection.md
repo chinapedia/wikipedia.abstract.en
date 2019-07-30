@@ -1,5 +1,3 @@
-Plaque_resurrection_dead_VandA_M.104-1945.jpg
-
 RESURRECTION or ANASTASIS is the concept of coming back to life after death. In a number of ancient religions, a dying-and-rising god is a deity which dies and resurrects.
 
 The resurrection of the dead is a standard eschatological belief in the Abrahamic religions. As a religious concept, it is used in two distinct respects: a belief in the resurrection of individual souls that is current and ongoing (Christian idealism, realized eschatology), or else a belief in a singular resurrection of the dead at the end of the world. Some believe the soul is the actual vehicle by which people are resurrected.[1]
@@ -44,7 +42,7 @@ According to Brichto, the early Israelites apparently believed that the graves o
 
 Christianity
 
-Pilon-risenchrist2.jpg In Christianity, resurrection most critically concerns the resurrection of Jesus, but also includes the resurrection of Judgment Day known as the resurrection of the dead by those Christians who subscribe to the Nicene Creed (which is the majority or Mainstream Christianity), as well as the resurrection miracles done by Jesus and the prophets of the Old Testament (see Judaism and Samaritanism below).
+In Christianity, resurrection most critically concerns the resurrection of Jesus, but also includes the resurrection of Judgment Day known as the resurrection of the dead by those Christians who subscribe to the Nicene Creed (which is the majority or Mainstream Christianity), as well as the resurrection miracles done by Jesus and the prophets of the Old Testament (see Judaism and Samaritanism below).
 
 Resurrection of Jesus
 
@@ -52,7 +50,7 @@ Christians regard the resurrection of Jesus as the central doctrine in Christian
 
 Resurrection miracles
 
-Bonnat01.jpg, France, 1857.]] During the Ministry of Jesus on earth, before his death, Jesus commissioned his Twelve Apostles to, among other things, raise the dead.[24] In the New Testament, Jesus is said to have raised several persons from death. These resurrections included the daughter of Jairus shortly after death, a young man in the midst of his own funeral procession, and Lazarus, who had been buried for four days. According to the Gospel of Matthew, after Jesus's resurrection, many of those previously dead came out of their tombs and entered Jerusalem, where they appeared to many.
+, France, 1857.]] During the Ministry of Jesus on earth, before his death, Jesus commissioned his Twelve Apostles to, among other things, raise the dead.[24] In the New Testament, Jesus is said to have raised several persons from death. These resurrections included the daughter of Jairus shortly after death, a young man in the midst of his own funeral procession, and Lazarus, who had been buried for four days. According to the Gospel of Matthew, after Jesus's resurrection, many of those previously dead came out of their tombs and entered Jerusalem, where they appeared to many.
 
 Similar resurrections are credited to the apostles and Catholic saints. In the Acts of the Apostles, Saint Peter raised a woman named Dorcas (also called Tabitha), and Paul the Apostle revived a man named Eutychus who had fallen asleep and fell from a window to his death. Following the Apostolic Age, many saints were said to resurrect the dead, as recorded in Orthodox Christian hagiographies. St Columba supposedly raised a boy from the dead in the land of Picts.[25]
 

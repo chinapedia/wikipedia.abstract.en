@@ -1,4 +1,4 @@
-Gottfried_Wilhelm_Leibniz,_Bernhard_Christoph_Francke.jpg argued that idealized numbers containing infinitesimals be introduced.]]
+argued that idealized numbers containing infinitesimals be introduced.]]
 
 The history of calculus is fraught with philosophical debates about the meaning and logical validity of fluxions or infinitesimal numbers. The standard way to resolve these debates is to define the operations of calculus using epsilon–delta procedures rather than infinitesimals. NON-STANDARD ANALYSIS[1][2][3] instead reformulates the calculus using a logically rigorous notion of infinitesimal numbers.
 

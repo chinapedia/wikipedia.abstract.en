@@ -63,7 +63,7 @@ According to Islamic tradition, the history of Mecca goes back to Abraham (Ibrah
 
 Muhammad and conquest of Mecca
 
-Jabal_Nur.JPG is where Muhammad is believed to have received the first revelation of God through the Archangel Gabriel]]
+is where Muhammad is believed to have received the first revelation of God through the Archangel Gabriel]]
 
 Muhammad was born in Mecca in 570, and thus Islam has been inextricably linked with it ever since. He was born in a minor faction, the Hashemites, of the ruling Quraysh tribe. It was in Mecca, in the nearby mountain cave of Hira on Jabal al-Nour, that, according to Islamic tradition, Muhammad began receiving divine revelations from God through the Archangel Gabriel in 610 AD, and advocated his form of Abrahamic monotheism against Meccan paganism. After enduring persecution from the pagan tribes for 13 years, Muhammad emigrated (see Hijrah) in 622 with his companions, the _Muhajirun_, to Yathrib (later called Medina). The conflict between the Quraysh and the Muslims, however, continued: The two fought in the Battle of Badr, where the Muslims defeated the Quraysh outside Medina; while the Battle of Uhud ended indecisively. Overall, Meccan efforts to annihilate Islam failed and proved to be costly and unsuccessful. During the Battle of the Trench in 627, the combined armies of Arabia were unable to defeat Muhammad's forces.[71]
 
@@ -75,7 +75,7 @@ Mecca also attracted a year-round population of scholars, pious Muslims who wish
 
 Medieval and pre-modern times
 
-First_Saudi_State_Big.png]]
+]]
 
 Mecca was never the capital of any of the Islamic states but Muslim rulers did contribute to its upkeep. During the reigns of Umar (634–644 CE) and Uthman ibn Affan (644–656) concerns of flooding caused the caliphs to bring in Christian engineers to build barrages in the low-lying quarters and construct dykes and embankments to protect the area round the Kaaba.[74]
 
@@ -126,7 +126,7 @@ The reason for much of the destruction of historic buildings has been for the co
 
 Pilgrimage
 
-La_mecque_pelerinage.png involves pilgrims visiting Al-Haram Mosque, but mainly camping and spending time in the plains of Mina and Arafah]]
+involves pilgrims visiting Al-Haram Mosque, but mainly camping and spending time in the plains of Mina and Arafah]]
 
 The pilgrimage to Mecca attracts millions of Muslims from all over the world. There are two pilgrimages: the Hajj and the Umrah. The Hajj, the 'greater' pilgrimage is performed annually in Mecca and nearby sites. During the Hajj, several million people of varying nationalities worship in unison. Every adult, healthy Muslim who has the financial and physical capacity to travel to Mecca and can make arrangements for the care of his/her dependents during the trip, must perform the Hajj at least once in a lifetime. Umrah, the lesser pilgrimage, is not obligatory, but is recommended in the Qur'an.[94] Often, they perform the Umrah while visiting Al-Haram Mosque.
 
@@ -181,8 +181,6 @@ Mecca features a hot desert climate. Like most Saudi Arabian cities, Mecca retai
 
 Landmarks
 
-Masjid_al-Haram_panorama.JPG
-
 Mecca houses Al-Haram Mosque, the largest mosque in the world. The mosque surrounds the Kaaba, which Muslims turn towards while offering daily prayer. This mosque is also commonly known as the _Ḥaram_ or _Grand Mosque_.[113]
 
 As mentioned above, because of the Wahhabist hostility to reverence being paid to historic and religious buildings, Mecca has lost most of its heritage in recent years and few buildings from the last 1,500 years have survived Saudi rule.[114]
@@ -191,16 +189,16 @@ Expansion of the city is ongoing and includes the construction of tall Abraj Al 
 
 The Zamzam Well is home to a celebrated water spring. The Qishla of Mecca was an Ottoman castle facing the Grand Mosque and defending the city from attack. However, the Saudi government removed the structure to give space for hotels and business buildings near to the Grand Mosque.[117] _Ḥirā’_ () is a cave near Mecca, on the mountain named _Jabal an-Nūr_ (, "Mountain of Light") in the region of Tihamah of present-day Saudi Arabia. It is notable for being the location where Muhammad received his first revelations from God through the angel _Jibrā’īl_ (), who known as Gabriel to Christians.[118][119]
 
-ISS-44_Mecca,_Saudi_Arabia.jpg]] Entry-Gate-of-Mecca-on-Jaddah-Makkah-Highway_2.jpg The Qur'an Gate, located on the Jeddah-Mecca Highway, marks the boundary of the area where non-Muslims are prohibited to enter. It is the entrance to Makkah and the birthplace of Muhammad. The gate was designed in 1979 by an Egyptian architect, Samir Elabd, for the architectural firm IDEA Center. The structure is that of a book, representing the Qur'an, sitting on a rehal, or book stand.[120]
+]] The Qur'an Gate, located on the Jeddah-Mecca Highway, marks the boundary of the area where non-Muslims are prohibited to enter. It is the entrance to Makkah and the birthplace of Muhammad. The gate was designed in 1979 by an Egyptian architect, Samir Elabd, for the architectural firm IDEA Center. The structure is that of a book, representing the Qur'an, sitting on a rehal, or book stand.[120]
 
 
 Economy
 
-Abraj-al-Bait-Towers.JPG]] The Meccan economy has been heavily dependent on the annual pilgrimage. As one academic put it, "[Meccans] have no means of earning a living but by serving the hajjis." Income generated from the Hajj, in fact, not only powers the Meccan economy but has historically had far-reaching effects on the economy of the entire Arabian Peninsula. The income was generated in a number of ways. One method was taxing the pilgrims. Taxes especially increased during the Great Depression, and many of these taxes existed as late as 1972. Another way the Hajj generates income is through services to pilgrims. For example, the Saudi national airline, Saudia, generates 12% of its income from the pilgrimage. Fares paid by pilgrims to reach Mecca by land also generate income; as do the hotels and lodging companies that house them.[121]
+]] The Meccan economy has been heavily dependent on the annual pilgrimage. As one academic put it, "[Meccans] have no means of earning a living but by serving the hajjis." Income generated from the Hajj, in fact, not only powers the Meccan economy but has historically had far-reaching effects on the economy of the entire Arabian Peninsula. The income was generated in a number of ways. One method was taxing the pilgrims. Taxes especially increased during the Great Depression, and many of these taxes existed as late as 1972. Another way the Hajj generates income is through services to pilgrims. For example, the Saudi national airline, Saudia, generates 12% of its income from the pilgrimage. Fares paid by pilgrims to reach Mecca by land also generate income; as do the hotels and lodging companies that house them.[121]
 
 The city takes in more than $100 million, while the Saudi government spends about $50 million on services for the Hajj. There are some industries and factories in the city, but Mecca no longer plays a major role in Saudi Arabia's economy, which is mainly based on oil exports.[122] The few industries operating in Mecca include textiles, furniture, and utensils. The majority of the economy is service-oriented.
 
-Downtown_Makkah_Azizia.jpg Nevertheless, many industries have been set up in Mecca. Various types of enterprises that have existed since 1970: corrugated iron manufacturing, copper smithies, carpentry shops, upholstering establishments, vegetable oil extraction plants, sweets manufacturies, flour mills, bakeries, poultry farms, frozen food importing, photography processing, secretarial establishments, ice factories, bottling plants for soft drinks, barber shops, book shops, travel agencies and banks.[123]
+Nevertheless, many industries have been set up in Mecca. Various types of enterprises that have existed since 1970: corrugated iron manufacturing, copper smithies, carpentry shops, upholstering establishments, vegetable oil extraction plants, sweets manufacturies, flour mills, bakeries, poultry farms, frozen food importing, photography processing, secretarial establishments, ice factories, bottling plants for soft drinks, barber shops, book shops, travel agencies and banks.[123]
 
 The city has grown substantially in the 20th and 21st centuries, as the convenience and affordability of jet travel has increased the number of pilgrims participating in the Hajj. Thousands of Saudis are employed year-round to oversee the Hajj and staff the hotels and shops that cater to pilgrims; these workers in turn have increased the demand for housing and services. The city is now ringed by freeways, and contains shopping malls and skyscrapers.[124]
 
@@ -225,7 +223,7 @@ There are also many walk-in clinics available for both residents and pilgrims.
 
 Culture
 
-Mecca.JPG]]
+]]
 
 Mecca's culture has been affected by the large number of pilgrims that arrive annually, and thus boasts a rich cultural heritage. As a result of the vast numbers of pilgrims coming to the city each year, Mecca has become by far the most diverse city in the Muslim world. In contrast to the rest of Saudi Arabia, and particularly Najd, Mecca has, according to _The New York Times_, become "a striking oasis" of free thought and discussion and, also, of "unlikely liberalism" as "Meccans see themselves as a bulwark against the creeping extremism that has overtaken much Islamic debate".[126]
 
@@ -283,8 +281,6 @@ Transportation
 
 Air
 
-KAAirport-NT.JPG
-
 Mecca has only the small Mecca East Airport with no airline service, so Mecca is served by King Abdulaziz International Airport located at Jeddah, about 100 kilometres from the city centre. To cater the large number of Hajj pilgrims, this airport has a specifically built Hajj terminal which can accommodate 47 planes simultaneously and it can receive 3,800 pilgrims per hour during the Hajj season.[148]
 
 Rail
@@ -299,8 +295,6 @@ Al Mashaaer Al Mugaddassah Metro is a metro line in Mecca opened in 13 November 
 
 Mecca Metro
 
-Mecca_Metro_Route_Map.png
-
 Mecca Metro, officially known as MAKKAH MASS RAIL TRANSIT, is a planned four-line metro system for the city.[152] This will be in addition to[153] the Al Mashaaer Al Mugaddassah Metro which carries pilgrims during Hajj.
 
 Intercity
@@ -308,8 +302,6 @@ Intercity
 A high speed inter-city rail line (Haramain High Speed Rail Project also known as the "Western Railway"), is under construction in Saudi Arabia. It will link along 444 kilometres (276 mi), the Muslim holy cities of Medina and Mecca via King Abdullah Economic City, Rabigh, Jeddah and King Abdulaziz International Airport.[154] This rail line is planned to provide a safe and comfortable transport in electric trains in-turn reducing the travel time to less than two hours between Mecca and Medina .[155] It will be built by a business consortium from Spain.[156]
 
 Roads
-
-Entry-Gate-of-Mecca-on-Jaddah-Makkah-Highway.jpg
 
 Some of the intercity highways which connects the city of Mecca are:[157][158]
 

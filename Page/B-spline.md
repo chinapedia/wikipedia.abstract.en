@@ -1,5 +1,3 @@
-B-spline_curve.svg
-
 In the mathematical subfield of numerical analysis, a B-SPLINE, or BASIS SPLINE, is a spline function that has minimal support with respect to a given degree, smoothness, and domain partition. Any spline function of given degree can be expressed as a linear combination of B-splines of that degree. Cardinal B-splines have knots that are equidistant from each other. B-splines can be used for curve-fitting and numerical differentiation of experimental data.
 
 In computer-aided design and computer graphics, spline functions are constructed as linear combinations of B-splines with a set of control points.
@@ -13,8 +11,6 @@ B-splines of order n are basis functions for spline functions of the same order 
 
 
 Definition
-
-Cardinal_quadratic_B_spline.svg Cardinal_cubic_B-spline2.svg Cardinal_quartic_B-spline.svg
 
 A spline of order n is a piecewise polynomial function of degree n − 1 in a variable x. The values of x where the pieces of polynomial meet are known as knots, denoted …, t₀, t₁, t₂, … and sorted into non-decreasing order. When the knots are distinct, the first n − 1 derivatives of the polynomial pieces are continuous across each knot. When r knots are coincident, then only the first n − r derivatives of the spline are continuous across that knot.
 
@@ -211,11 +207,9 @@ A less desirable feature is that the parametric curve does not interpolate the c
 
 NURBS
 
-RationalBezier2D.svg
-
 In computer aided design, computer aided manufacturing, and computer graphics, a powerful extension of B-splines is non-uniform rational B-splines (NURBS). NURBS are essentially B-splines in homogeneous coordinates. Like B-splines, they are defined by their order, and a knot vector, and a set of control points, but unlike simple B-splines, the control points each have a weight. When the weight is equal to 1, a NURBS is simply a B-spline and as such NURBS generalizes both B-splines and Bézier curves and surfaces, the primary difference being the weighting of the control points which makes NURBS curves "rational".
 
-Surface_modelling.svg By evaluating a NURBS at various values of the parameters, the curve can be traced through space; likewise, by evaluating a NURBS surface at various values of the two parameters, the surface can be represented in Cartesian space.
+By evaluating a NURBS at various values of the parameters, the curve can be traced through space; likewise, by evaluating a NURBS surface at various values of the two parameters, the surface can be represented in Cartesian space.
 
 Like B-splines, NURBS control points determine the shape of the curve. Each point of the curve is computed by taking a weighted sum of a number of control points. The weight of each point varies according to the governing parameter. For a curve of degree _d_, the influence of any control point is only nonzero in _d_+1 intervals (knot spans) of the parameter space. Within those intervals, the weight changes according to a polynomial function (basis functions) of degree _d_. At the boundaries of the intervals, the basis functions go smoothly to zero, the smoothness being determined by the degree of the polynomial.
 

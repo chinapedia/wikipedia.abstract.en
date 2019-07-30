@@ -75,7 +75,7 @@ Port infrastructure
 
 Airport
 
-Three_Middle_East_Airlines_Airbus_A321.jpg, Beirut]] The main national airport is the Beirut Rafic Hariri International Airport and is located in the southern suburbs. The Travel and Tourism Competitiveness report ranked the country 51st in terms of air transport infrastructure.[5]
+, Beirut]] The main national airport is the Beirut Rafic Hariri International Airport and is located in the southern suburbs. The Travel and Tourism Competitiveness report ranked the country 51st in terms of air transport infrastructure.[5]
 
 In 2017, a delegation from Lebanon's Civil Aviation Authority inspected the Rene Mouawad Air Base in order to assess the needs and requirements of reconstructing the air base.[6]
 

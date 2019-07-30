@@ -1,4 +1,4 @@
-Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg]] James_Madison.jpg]]
+]] ]]
 
 The KENTUCKY AND VIRGINIA RESOLUTIONS (or RESOLVES) were political statements drafted in 1798 and 1799, in which the Kentucky and Virginia legislatures took the position that the federal Alien and Sedition Acts were unconstitutional. The resolutions argued that the states had the right and the duty to declare as unconstitutional those acts of Congress that were not authorized by the Constitution. In doing so, they argued for states' rights and strict constructionism of the Constitution. The Kentucky and Virginia Resolutions of 1798 were written secretly by Vice President Thomas Jefferson and James Madison respectively.
 

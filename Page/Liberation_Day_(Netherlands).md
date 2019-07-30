@@ -1,4 +1,4 @@
-The_Girls_@_bevrijdingsdag_Zwolle.JPG]]
+]]
 
 In the Netherlands, LIBERATION DAY () is celebrated each year on May the 5th to mark the end of the occupation by Nazi Germany during World War II.
 

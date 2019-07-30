@@ -4,12 +4,12 @@ The design implements a 32-bit instruction set, with 32-bit registers and a 32-b
 
 As one of the first widely available processors with a 32-bit instruction set, and running at relatively high speeds for the era, the 68k was a popular design through the 1980s. It was widely used in a new generation of personal computers with graphical user interfaces, including the Apple Macintosh, Commodore Amiga, Atari ST and many others. It competed primarily against the Intel 8088, found in the IBM PC, which it easily outperformed. The 68k and 8088 pushed other designs, like the Zilog Z8000 and National Semiconductor 32016, into niche markets, and made Motorola a major player in the CPU space.
 
-The 68k was soon expanded with additional family members, implementing full 32-bit ALUs as part of the growing Motorola 68000 series. The original 68k is generally software forward-compatible with the rest of the line despite being limited to a 16-bit wide external bus.[3] After 40 years in production, the 68000 architecture is still in use. XC68000.agr.jpg Motorola_68000_die.JPG of Motorola 68000]]
+The 68k was soon expanded with additional family members, implementing full 32-bit ALUs as part of the growing Motorola 68000 series. The original 68k is generally software forward-compatible with the rest of the line despite being limited to a 16-bit wide external bus.[3] After 40 years in production, the 68000 architecture is still in use. of Motorola 68000]]
 
 
 History
 
-KL_Motorola_MC68000_CLCC.jpg package)]] KL_Motorola_MC68000_PLCC.jpg package)]]
+package)]] package)]]
 
 Motorola's first widely-produced CPU was the Motorola 6800. Although a capable design, it was eclipsed by more powerful designs like the Zilog Z80 and less powerful but faster designs like the MOS 6502. As the sales prospects of the 6800 dimmed, Motorola began a totally new design to replace it. This became the Motorola Advanced Computer System on Silicon project, or MACSS, begun in 1976.
 
@@ -27,7 +27,7 @@ To support lower-cost systems and control applications with smaller memory sizes
 
 Second-sourcing
 
-KL_Hitachi_HD68000.jpg HD68000]] KL_Thomson_TS68000.jpg
+HD68000]]
 
 Several other companies were second-source manufacturers of the HMOS 68000. These included Hitachi (HD68000), who shrank the feature size to 2.7 µm for their 12.5 MHz version,[8] Mostek (MK68000), Rockwell (R68000), Signetics (SCN68000), Thomson/SGS-Thomson (originally EF68000 and later TS68000), and Toshiba (TMP68000). Toshiba was also a second-source maker of the CMOS 68HC000 (TMP68HC000).
 
@@ -35,7 +35,7 @@ Encrypted variants of the 68000, being the Hitachi FD1089 and FD1094, store decr
 
 CMOS versions
 
-Motorola_MC68HC000LC8-2413.jpg The 68HC000, the first CMOS version of the 68000, was designed by Hitachi and jointly introduced in 1985.[10] Motorola's version was called the MC68HC000, while Hitachi's was the HD68HC000. The 68HC000 was eventually offered at speeds of 8–20 MHz. Except for using CMOS circuitry, it behaved identically to the HMOS MC68000, but the change to CMOS greatly reduced its power consumption. The original HMOS MC68000 consumed around 1.35 watts at an ambient temperature of 25 °C, regardless of clock speed, while the MC68HC000 consumed only 0.13 watts at 8 MHz and 0.38 watts at 20 MHz. (Unlike CMOS circuits, HMOS still draws power when idle, so power consumption varies little with clock rate.) Apple selected the 68HC000 for use in the Macintosh Portable.
+The 68HC000, the first CMOS version of the 68000, was designed by Hitachi and jointly introduced in 1985.[10] Motorola's version was called the MC68HC000, while Hitachi's was the HD68HC000. The 68HC000 was eventually offered at speeds of 8–20 MHz. Except for using CMOS circuitry, it behaved identically to the HMOS MC68000, but the change to CMOS greatly reduced its power consumption. The original HMOS MC68000 consumed around 1.35 watts at an ambient temperature of 25 °C, regardless of clock speed, while the MC68HC000 consumed only 0.13 watts at 8 MHz and 0.38 watts at 20 MHz. (Unlike CMOS circuits, HMOS still draws power when idle, so power consumption varies little with clock rate.) Apple selected the 68HC000 for use in the Macintosh Portable.
 
 Motorola replaced the MC68008 with the MC68HC001 in 1990.[11] This chip resembled the 68HC000 in most respects, but its data bus could operate in either 16-bit or 8-bit mode, depending on the value of an input pin at reset. Thus, like the 68008, it could be used in systems with cheaper 8-bit memories.
 
@@ -49,8 +49,6 @@ After being succeeded by "true" 32-bit microprocessors, the 68000 was used as th
 
 
 Applications
-
-burning_force_pcb.PNG
 
 At its introduction, the 68000 was first used in high-priced systems, including multiuser microcomputers like the WICAT 150,[17] early Alpha Microsystems computers, Sage II / IV, Tandy TRS-80 Model 16, and Fortune 32:16; single-user workstations such as Hewlett-Packard's HP 9000 Series 200 systems, the first Apollo/Domain systems, Sun Microsystems' Sun-1, and the Corvus Concept; and graphics terminals like Digital Equipment Corporation's VAXstation 100 and Silicon Graphics' IRIS 1000 and 1200. Unix systems rapidly moved to the more capable later generations of the 68k line, which remained popular in that market throughout the 1980s.
 
@@ -206,8 +204,6 @@ Most instructions are DYADIC, that is, the operation has a source, and a destina
 
 
 68EC000
-
-KL_Motorola_68EC000_PLCC.jpg
 
 The 68EC000 is a low-cost version of the 68000, designed for embedded controller applications. The 68EC000 can have either a 8-bit or 16-bit data bus, switchable at reset.[28]
 

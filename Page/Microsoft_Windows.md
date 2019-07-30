@@ -30,7 +30,7 @@ The term _Windows_ collectively describes any or all of several generations of M
 
 Early versions
 
-Windows1.0.png, the first version, released in 1985]]
+, the first version, released in 1985]]
 
 The history of Windows dates back to 1981, when Microsoft started work on a program called "Interface Manager". It was announced in November 1983 (after the Apple Lisa, but before the Macintosh) under the name "Windows", but Windows 1.0 was not released until November 1985.[7] Windows 1.0 was to compete with Apple's operating system, but achieved little popularity. Windows 1.0 is not a complete operating system; rather, it extends MS-DOS. The shell of Windows 1.0 is a program known as the MS-DOS Executive. Components included Calculator, Calendar, Cardfile, Clipboard viewer, Clock, Control Panel, Notepad, Paint, Reversi, Terminal and Write. Windows 1.0 does not allow overlapping windows. Instead all windows are tiled. Only modal dialog boxes may appear over other windows. Microsoft sold as included Windows Development libraries with the C development environment, which included numerous windows samples.[8]
 
@@ -44,7 +44,7 @@ The early versions of Windows are often thought of as graphical shells, mostly b
 
 Windows 3.x
 
-Windows_3.0_workspace.png, released in 1990]]
+, released in 1990]]
 
 Windows 3.0, released in 1990, improved the design, mostly because of virtual memory and loadable virtual device drivers (VxDs) that allow Windows to share arbitrary devices between multi-tasked DOS applications. Windows 3.0 applications can run in protected mode, which gives them access to several megabytes of memory without the obligation to participate in the software virtual memory scheme. They run inside the same address space, where the segmented memory provides a degree of protection. Windows 3.0 also featured improvements to the user interface. Microsoft rewrote critical operations from C into assembly. Windows 3.0 is the first Microsoft Windows version to achieve broad commercial success, selling 2 million copies in the first six months.[13][14]
 
@@ -116,7 +116,7 @@ An edition of Windows 8 known as Windows RT was specifically created for compute
 
 Windows CE
 
-WindowsCE7.png, displaying a concept media player UI]]
+, displaying a concept media player UI]]
 
 Windows CE (officially known as _Windows Embedded Compact_), is an edition of Windows that runs on minimalistic computers, like satellite navigation systems and some mobile phones. Windows Embedded Compact is based on its own dedicated kernel, dubbed Windows CE kernel. Microsoft licenses Windows CE to OEMs and device makers. The OEMs and device makers can modify and create their own user interfaces and experiences, while Windows CE provides the technical foundation to do so.
 

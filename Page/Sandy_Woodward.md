@@ -29,23 +29,21 @@ In 1983, Woodward was appointed Flag Officer Submarines and NATO Commander Subma
 
 Later life
 
-Admiral_Woodward_-_Command_Responsibilities.webm The first edition of Woodward's memoirs was published in 1992. They were well received and were updated in 2003 and 2012 with updated recollections as well as responses to the memoirs and responses made by Commodore Michael Clapp.[24] In his later life Woodward wrote various opinion pieces for British newspapers regarding defence matters, particularly the Strategic Defence and Security Review.[25]
+The first edition of Woodward's memoirs was published in 1992. They were well received and were updated in 2003 and 2012 with updated recollections as well as responses to the memoirs and responses made by Commodore Michael Clapp.[24] In his later life Woodward wrote various opinion pieces for British newspapers regarding defence matters, particularly the Strategic Defence and Security Review.[25]
 
 Woodward died of a heart attack on 4 August 2013 in Bosham, West Sussex, England.[26][27][28][29]
 
 
 Honours and decorations
 
-Order_of_the_British_Empire_(Military)_Ribbon.png Order_of_the_Bath_(ribbon).svg South_Atlantic_Medal_w_rosette_BAR.svg Queen_Elizabeth_II_Silver_Jubilee_Medal_ribbon.png
-
 On 11 October 1982, Woodward was appointed Knight Commander of the Order of the Bath (KCB) 'in recognition of service within the operations in the South Atlantic'.[30] In the 1989 Queen's Birthday Honours, he was appointed Knight Grand Cross of the Order of the British Empire (GBE).[31]
 
-  Ribbon                                               Details                                                 Year awarded
-  ---------------------------------------------------- ------------------------------------------------------- --------------
-  Order_of_the_British_Empire_(Military)_Ribbon.png    Knight Grand Cross of the Order of the British Empire   1989
-  Order_of_the_Bath_(ribbon).svg                       Knight Commander of the Order of the Bath               1982
-  South_Atlantic_Medal_w_rosette_BAR.svg               South Atlantic Medal                                    1982
-  Queen_Elizabeth_II_Silver_Jubilee_Medal_ribbon.png   Queen Elizabeth II Silver Jubilee Medal                 1977
+  Ribbon   Details                                                 Year awarded
+  -------- ------------------------------------------------------- --------------
+           Knight Grand Cross of the Order of the British Empire   1989
+           Knight Commander of the Order of the Bath               1982
+           South Atlantic Medal                                    1982
+           Queen Elizabeth II Silver Jubilee Medal                 1977
 
 
 Publications

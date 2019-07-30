@@ -30,7 +30,7 @@ Laws of Kashrut
 
 Prohibited foods
 
-Kosher_BethDin.jpg approved by The Johannesburg Beth Din]]
+approved by The Johannesburg Beth Din]]
 
 The laws of _kashrut_ can be classified according to the origin of the prohibition (Biblical or rabbinical) and whether the prohibition concerns the food itself or a mixture of foods.[23]
 
@@ -64,7 +64,7 @@ Rabbinically prohibited foods include:[41]
 
 Permitted and forbidden animals
 
-Hoof_montage.jpg in goats (upper left), pigs (lower left) and cattle (lower right). But horses lack cloven hooves (upper right).]] Only meat from particular species is permissible. Mammals that _both_ chew their cud (ruminate) and have cloven hooves can be kosher. Animals with one characteristic but not the other (the camel, the hyrax, and the hare because they have no cloven hooves, and the pig because it does not ruminate) are specifically excluded.[42][43][44] In 2008, a rabbinical ruling determined that giraffes and their milk are eligible to be considered kosher. The giraffe has both split hooves and chews its cud, characteristics of animals considered kosher. Findings from 2008 show that giraffe milk curdles, meeting kosher standards. Although kosher, the giraffe is not slaughtered today because the process would be very costly. Giraffes are difficult to restrain, and their use for food could cause the species to become endangered.[45][46][47]
+in goats (upper left), pigs (lower left) and cattle (lower right). But horses lack cloven hooves (upper right).]] Only meat from particular species is permissible. Mammals that _both_ chew their cud (ruminate) and have cloven hooves can be kosher. Animals with one characteristic but not the other (the camel, the hyrax, and the hare because they have no cloven hooves, and the pig because it does not ruminate) are specifically excluded.[42][43][44] In 2008, a rabbinical ruling determined that giraffes and their milk are eligible to be considered kosher. The giraffe has both split hooves and chews its cud, characteristics of animals considered kosher. Findings from 2008 show that giraffe milk curdles, meeting kosher standards. Although kosher, the giraffe is not slaughtered today because the process would be very costly. Giraffes are difficult to restrain, and their use for food could cause the species to become endangered.[45][46][47]
 
 Non-kosher birds are listed outright[48] but the exact _zoological_ references are disputed and some references refer to families of birds (24 are mentioned). The Mishnah[49] refers to four signs provided by the sages.[50] First, a _dores_ (predatory bird) is not kosher. Additionally, kosher birds possess three physical characteristics: an extra toe in the back (which does not join the other toes in supporting the leg), a _zefek_ (crop), and a _korkoban_ (gizzard) with a peelable lumen. However, individual Jews are barred from merely applying these regulations alone; an established tradition (_masorah_) is necessary to allow birds to be consumed, even if it can be substantiated that they meet all four criteria. The only exception to this is the turkey. There was a time when certain authorities considered the signs sufficient, so Jews started eating this bird without a _masorah_ because it possesses all the signs (_simanim_) in Hebrew.[51]
 
@@ -84,7 +84,7 @@ Meat and milk (or derivatives) cannot be mixed[57] in the sense that meat and da
 
 Kosher slaughter
 
-Schect.jpg'']]
+'']]
 
 Mammals and fowl must be slaughtered by a trained individual (a _shochet_) using a special method of slaughter, _shechita_.[60] Among other features, _shechita_ slaughter severs the jugular vein, carotid artery, esophagus, and trachea in a single continuous cutting movement with an unserrated, sharp knife. Failure of any of these criteria renders the meat of the animal unsuitable. The body must be checked after slaughter to confirm that the animal had no medical condition or defect that would have caused it to die of its own accord within a year, which would make the meat unsuitable.[61] These conditions (_treifot_) include 70 different categories of injuries, diseases, and abnormalities whose presence renders the animal non-kosher. It is forbidden to consume certain parts of the animal, such as certain fats (_chelev_) and the sciatic nerves from the legs, the process of excision being done by experts before the meat is sold. As much blood as possible must be removed[62] through the _kashering_ process; this is usually done through soaking and salting the meat, but the liver, as it is rich in blood, is grilled over an open flame.[63] Fish (and kosher locusts, for those who follow the traditions permitting them) must be killed before being eaten, but no particular method has been specified in Jewish law.[64][65] Legal aspects of ritual slaughter are governed not only by Jewish law but civil law as well.
 
@@ -96,13 +96,13 @@ A late Commentary on the Shulchan Arukh known as the _Taz_ (_Turei Zahav_), on _
 
 Kosher utensils
 
-Kosher_dishes_P7160076.JPG.]]
+.]]
 
 Utensils used for non-kosher foods become non-kosher, and make even otherwise kosher food prepared with them non-kosher. Some such utensils, depending on the material they are made from, can be made suitable for preparing kosher food again by immersion in boiling water or by the application of a blowtorch. Food prepared in a manner that violates the _Shabbat_ (Sabbath) may not be eaten; although in certain instances it is permitted after the Shabbat is over.[70]
 
 Passover laws
 
-Kosher_for_Passover_orange_juice.JPG certifying that it is kosher for Passover.]]
+certifying that it is kosher for Passover.]]
 
 Passover has special dietary rules, the most important of which is the prohibition on eating leavened bread or derivatives of this, which are known as _chametz_. This prohibition is derived from Exodus 12:15.[71] Utensils used in preparing and serving _chametz_ are also forbidden on Passover unless they have been ritually cleansed (_kashered_).[72] Observant Jews often keep separate sets of meat and dairy utensils for Passover use only. In addition, some groups follow various eating restrictions on Passover that go beyond the rules of _kashrut_, such as not eating _gebrochts_[73] or garlic.[74]
 
@@ -112,7 +112,7 @@ Biblical rules also control the use of agriculture produce. For produce grown in
 
 Vegetables
 
-Barley_bug.jpg found among barleycorns in a commercially available bag of barley. Foods such as seeds, nuts and vegetables need to be checked to avoid eating insects.]] Many vegetarian restaurants and producers of vegetarian foods acquire a _hechsher_, certifying that a Rabbinical organization has approved their products as being kosher. The _hechsher_ usually certifies that certain vegetables have been checked for insect infestation and steps have been taken to ensure that cooked food meets the requirements of _bishul Yisrael_.[77] Vegetables such as spinach and cauliflower must be checked for insect infestation. The proper procedure for inspecting and cleaning varies by species, growing conditions, and views of individual rabbis.[78]
+found among barleycorns in a commercially available bag of barley. Foods such as seeds, nuts and vegetables need to be checked to avoid eating insects.]] Many vegetarian restaurants and producers of vegetarian foods acquire a _hechsher_, certifying that a Rabbinical organization has approved their products as being kosher. The _hechsher_ usually certifies that certain vegetables have been checked for insect infestation and steps have been taken to ensure that cooked food meets the requirements of _bishul Yisrael_.[77] Vegetables such as spinach and cauliflower must be checked for insect infestation. The proper procedure for inspecting and cleaning varies by species, growing conditions, and views of individual rabbis.[78]
 
 Pareve foods
 
@@ -149,7 +149,7 @@ Certain foods must be prepared in whole or in part by Jews. This includes grape 
 
 Product labeling standards
 
-OUKosher.JPG (OU). The word "pareve" indicates that this product contains neither milk- nor meat-derived ingredients]] OK_kosher_D_symbol.jpg (circled K) symbol with a Dairy designation, on a bag of Trader Joe's chocolate chips.]] Although reading the label of food products can identify obviously non-kosher ingredients, some countries allow manufacturers to omit identification of certain ingredients. Such "hidden" ingredients may include lubricants and flavorings, among other additives; in some cases, for instance, the use of _natural_ flavorings, these ingredients are more likely to be derived from non-kosher substances.[93] Furthermore, certain products, such as fish, have a high rate of mislabeling, which may result in a non-kosher fish being sold in a package labeled as a species of kosher fish.[94]
+(OU). The word "pareve" indicates that this product contains neither milk- nor meat-derived ingredients]] (circled K) symbol with a Dairy designation, on a bag of Trader Joe's chocolate chips.]] Although reading the label of food products can identify obviously non-kosher ingredients, some countries allow manufacturers to omit identification of certain ingredients. Such "hidden" ingredients may include lubricants and flavorings, among other additives; in some cases, for instance, the use of _natural_ flavorings, these ingredients are more likely to be derived from non-kosher substances.[93] Furthermore, certain products, such as fish, have a high rate of mislabeling, which may result in a non-kosher fish being sold in a package labeled as a species of kosher fish.[94]
 
 Producers of foods and food additives can contact Jewish religious authorities to have their products certified as _kosher_: this involves a visit to the manufacturing facilities by an individual rabbi or a committee from a rabbinic organization, who will inspect the production methods and contents, and if everything is sufficiently _kosher_ a certificate would be issued.[95]
 
@@ -170,7 +170,7 @@ Products labeled kosher-style are non-kosher products that have characteristics 
 
 History of kosher supervision and marketing
 
-Kosher_McDonald's,_Abasto_Shopping,_Buenos_Aires.jpg in Buenos Aires, Argentina.]] Food producers often look to expand their markets or marketing potential, and offering kosher food has become a way to do that. The uniqueness of kosher food was advertised as early as 1849.[103] In 1911 Procter & Gamble became the first company to advertise one of their products, Crisco, as kosher.[104] Over the next two decades, companies such as Lender's Bagels, Maxwell House, Manischewitz, and Empire evolved and gave the kosher market more shelf-space. In the 1960s, Hebrew National hotdogs launched a "we answer to a higher authority" campaign to appeal to Jews and non-Jews alike. From that point on, "kosher" became a symbol for both quality and value. The kosher market quickly expanded, and with it more opportunities for kosher products. Menachem Lubinsky, founder of the Kosherfest trade fair, estimates as many as kosher consumers and in sales of kosher products in the USA.[105]
+in Buenos Aires, Argentina.]] Food producers often look to expand their markets or marketing potential, and offering kosher food has become a way to do that. The uniqueness of kosher food was advertised as early as 1849.[103] In 1911 Procter & Gamble became the first company to advertise one of their products, Crisco, as kosher.[104] Over the next two decades, companies such as Lender's Bagels, Maxwell House, Manischewitz, and Empire evolved and gave the kosher market more shelf-space. In the 1960s, Hebrew National hotdogs launched a "we answer to a higher authority" campaign to appeal to Jews and non-Jews alike. From that point on, "kosher" became a symbol for both quality and value. The kosher market quickly expanded, and with it more opportunities for kosher products. Menachem Lubinsky, founder of the Kosherfest trade fair, estimates as many as kosher consumers and in sales of kosher products in the USA.[105]
 
 In 2014 the Israeli Defense Forces decided to allow female kosher supervisors to work in its kitchens on military bases, and the first women kosher inspectors were certified in Israel.[106][107]
 

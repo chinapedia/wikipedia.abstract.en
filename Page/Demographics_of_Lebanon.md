@@ -1,5 +1,5 @@
 +----------------------------------------------------------------+
-| DEMOGRAPHICS OF LEBANON Flag_of_Lebanon.svg                    |
+| DEMOGRAPHICS OF LEBANON                                        |
 +================================================================+
 | Indicator                                                      |
 +----------------------------------------------------------------+
@@ -78,8 +78,6 @@ Generally, the cultural and linguistic heritage of the Lebanese people is a blen
 
 Religious groups
 
-Zahlefashion.jpg
-
 The Lebanese Christians are some of the oldest Christians in the world, preceded only by the oriental Orthodox of Armenia and Copts of Egypt. The Maronite Christians, belong to the West Syriac Rite. Their Liturgical language is the Syriac-Aramaic language.[7][8] The Melkite Greek Catholics and the Greek Orthodox, tend to focus more on the Greco-Hellenistic heritage of the region from the days of the Byzantine Empire, and the fact that Greek was maintained as a liturgical language until very recently. Some Lebanese even claim partial descent from Crusader knights who ruled Lebanon for a couple of centuries during the Middle Ages, also backed by recent genetic studies which confirmed this among Lebanese people, especially in the north of the country that was under the Crusader County of Tripoli. This identification with non-Arab civilizations also exists in other religious communities, albeit not to the same extent.
 
 The sectarian system
@@ -90,11 +88,11 @@ Lebanon has by far the largest proportion of Christians of any Middle Eastern co
 
 Religion has traditionally been of overriding importance in defining the Lebanese population. Dividing state power between the religious denominations and sects, and granting religious authorities judicial power, dates back to Ottoman times (the millet system). The practice was reinforced during French mandate, when Christian groups were granted privileges. This system of government, while partly intended as a compromise between sectarian demands, has caused tensions that still dominate Lebanese politics to this day.
 
-The Christian population majority is believed to have ended in the early 1960s, but government leaders would agree to no change in the political power balance. This led to Muslim demands of increased representation, and the constant sectarian tension slid into violent conflict in 1958 (prompting U.S. intervention) and again in the grueling Lebanese Civil War, in 1975–90. Natural_Growth_Rate_in_Lebanon_throughout_years.png The balance of power has been slightly adjusted in the 1943 National Pact, an informal agreement struck at independence, in which positions of power were divided according to the 1932 census. The Sunni elite was then accorded more power, but Maronites continued to dominate the system. The sectarian balance was again adjusted towards the Muslim side but simultaneously further reinforced and legitimized. Shia Muslims (by now the second largest sect) then gained additional representation in the state apparatus, and the obligatory Christian-Muslim representation in Parliament was downgraded from a 6:5 to a 1:1 ratio. Christians of various denominations were then generally thought to constitute about 40% of the population, although often Muslim leaders would cite lower numbers, and some Christians would claim that they still held a majority of the population.
+The Christian population majority is believed to have ended in the early 1960s, but government leaders would agree to no change in the political power balance. This led to Muslim demands of increased representation, and the constant sectarian tension slid into violent conflict in 1958 (prompting U.S. intervention) and again in the grueling Lebanese Civil War, in 1975–90. The balance of power has been slightly adjusted in the 1943 National Pact, an informal agreement struck at independence, in which positions of power were divided according to the 1932 census. The Sunni elite was then accorded more power, but Maronites continued to dominate the system. The sectarian balance was again adjusted towards the Muslim side but simultaneously further reinforced and legitimized. Shia Muslims (by now the second largest sect) then gained additional representation in the state apparatus, and the obligatory Christian-Muslim representation in Parliament was downgraded from a 6:5 to a 1:1 ratio. Christians of various denominations were then generally thought to constitute about 40% of the population, although often Muslim leaders would cite lower numbers, and some Christians would claim that they still held a majority of the population.
 
 18 recognized religious groups
 
-Lebanon_religious_groups.jpg Lebanon_religious_groups_distribution.jpg The present Lebanese Constitution officially acknowledges 18 religious groups (see below). These have the right to handle family law according to their own courts and traditions, and they are the basic players in Lebanon's complex sectarian politics.
+The present Lebanese Constitution officially acknowledges 18 religious groups (see below). These have the right to handle family law according to their own courts and traditions, and they are the basic players in Lebanon's complex sectarian politics.
 
 -   Alawite
 -   Armenian Catholic
@@ -133,7 +131,7 @@ In 2017, the CIA World Factbook specified that of those residing in Lebanon, 57.
 
 Muslims
 
-Population_map_Syria_&_Liban_(1935).jpg According to the CIA World Factbook,[12] in 2017 the Muslim population was estimated at 57.7% within Lebanese territory and 20% of the 8.6[13]–14[14] million Lebanese diaspora population. In 2012 a more detailed breakdown of the size of each Muslim sect in Lebanon was made:
+According to the CIA World Factbook,[12] in 2017 the Muslim population was estimated at 57.7% within Lebanese territory and 20% of the 8.6[13]–14[14] million Lebanese diaspora population. In 2012 a more detailed breakdown of the size of each Muslim sect in Lebanon was made:
 
 -   The Shia Muslims are around 27%[15]–29%[16][17] of the total population. The Speaker of Parliament is always a Shia Muslim, as it is the only high post that Shias are eligible for.[18][19][20][21] The Shias are largely concentrated in northern and western Beqaa, Southern Lebanon and in the southern suburbs of Beirut.[22]
 -   The Sunni Muslims constitute also about 27%[23]–29%[24] of the total population. Sunni notables traditionally held power in the Lebanese state together, and they are still the only sect eligible for the post of Prime Minister[25] Sunnis are mostly concentrated in west Beirut, Tripoli, Sidon, Central and Western Beqaa, and Akkar in the north.[26]
@@ -141,7 +139,7 @@ Population_map_Syria_&_Liban_(1935).jpg According to the CIA World Factbook,[12]
 
 Christians
 
-Michel_Suleiman_2012.jpeg.]]
+.]]
 
 According to the CIA World Factbook,[27] in 2017 the Christian population was estimated at 36.2% within Lebanese territory and 80% of the 8.6[28]–14[29] million Lebanese diaspora population. In 2012 a more detailed breakdown of the size of each Christian sect in Lebanon was made:
 
@@ -192,7 +190,7 @@ Arabic is the official language of the country. Lebanese Arabic is mostly spoken
 
 CIA World Factbook demographic statistics
 
-PopulationPyramid_of_Lebanon.jpg The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
+The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 
 -   POPULATION:
 
@@ -304,7 +302,7 @@ There are substantial numbers of immigrants from other Arab countries (mainly Pa
 
 Armenians, Jews and Iranians
 
-Antelias_-_Armeni.jpg in north Beirut]] Lebanese Armenians, Jews and Iranians form more distinct ethnic minorities, all of them in possession of a separate languages (Armenian, Hebrew, Persian) and a national home area (Armenia, Israel, Iran) outside of Lebanon. However, they combined total 5% of the population.
+in north Beirut]] Lebanese Armenians, Jews and Iranians form more distinct ethnic minorities, all of them in possession of a separate languages (Armenian, Hebrew, Persian) and a national home area (Armenia, Israel, Iran) outside of Lebanon. However, they combined total 5% of the population.
 
 French and Italians
 

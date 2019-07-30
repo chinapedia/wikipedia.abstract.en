@@ -5,7 +5,7 @@ Geography
 
 Division of the town
 
-Lette_Vitus2.JPG Oelde consists of 5 districts:
+Oelde consists of 5 districts:
 
 -   Oelde
 -   Stromberg
@@ -31,12 +31,12 @@ International relations
 
 Oelde is twinned with:
 
--   Flag_of_Germany.svg Niesky (Saxony, Germany)
+-   Niesky (Saxony, Germany)
 
 
 History
 
-St._Johannes_der_Täufer_(Kirche_in_Oelde).JPG Records from the 9th century show that there was a settlement named "Ulidi" on the site, although Oelde only received township in the year 1800. In the 14th century, a castle was built in Oelde.
+Records from the 9th century show that there was a settlement named "Ulidi" on the site, although Oelde only received township in the year 1800. In the 14th century, a castle was built in Oelde.
 
 
 Economy
@@ -52,7 +52,7 @@ Oelde is connected to the Bundesautobahn 2.
 
 Railways
 
-Oelde_Bahnhof.JPG The Hamm–Minden railway connects Oelde station to the German rail network. The line is served by the Rhein-Weser-Express and the Ems-Börde-Bahn every hour.
+The Hamm–Minden railway connects Oelde station to the German rail network. The line is served by the Rhein-Weser-Express and the Ems-Börde-Bahn every hour.
 
 
 References

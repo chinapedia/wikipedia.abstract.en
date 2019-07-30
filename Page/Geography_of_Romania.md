@@ -1,11 +1,9 @@
-Romania_general_map.png
-
 With an area of 238,400 square kilometers, Romania is the twelfth-largest country in Europe. Located in Southeastern Europe, bordering on the Black Sea, the country is halfway between the equator and the North Pole and equidistant from the westernmost part of Europe—the Atlantic Coast—and the most easterly—the Ural Mountains. Romania has 3,195 kilometers of border. Republic of Moldova and Ukraine lie to the east, Bulgaria lies to the south, and Serbia and Hungary to the west. In the southeast, 245 kilometers of sea coastline provide an important outlet to the Black Sea and the Atlantic Ocean.
 
 
 History
 
-Traditionally Romania is divided into several historic regions that no longer perform any administrative function: Physical_map_of_Romania.jpg in grey (_Țara Românească_ means Wallachia).]]Dobruja is the easternmost region, extending from the northward course of the Danube to the shores of the Black Sea.
+Traditionally Romania is divided into several historic regions that no longer perform any administrative function: in grey (_Țara Românească_ means Wallachia).]]Dobruja is the easternmost region, extending from the northward course of the Danube to the shores of the Black Sea.
 
 Moldavia stretches from the Eastern Carpathians to the Prut River on the Moldovan and Ukrainian border.
 
@@ -20,13 +18,13 @@ Romania's current administrative divisions include 41 counties and one city - Bu
 
 Topography
 
-Romania-relief.png]] RomGeolActual.jpg
+]]
 
 Romania's natural landscape is almost evenly divided among mountains (31 percent), plains (33 percent), and hills (36 percent). These varied relief forms spread rather symmetrically from the Carpathian Mountains, which reach elevations of more than 2,500 meters, to the Danube Delta, which is just a few meters above sea level.
 
 The arc of the Carpathians extends over 1,000 kilometers through the center of the country, covering an area of 71,000 square kilometers. These mountains are of low to medium altitude and are no wider than 100 kilometers. They are deeply fragmented by longitudinal and transverse valleys and crossed by several major rivers. These features and the fact that there are many summit passes—some at altitudes up to 2,256 meters—have made the Carpathians less of a barrier to movement than other European ranges. Another distinguishing feature is the many eroded platforms that provide tableland at relatively high altitudes. There are permanent settlements here at above 1,200 meters.
 
-Romania's Carpathians are differentiated into three ranges: the Eastern Carpathians, the Southern Carpathians or Transylvanian Alps, and the Western Romanian Carpathians. Each of these ranges has important distinguishing features. The Eastern Carpathians are composed of three parallel ridges that run from northwest to southeast. The westernmost ridge is an extinct volcanic range with many preserved cones and craters. The range has many large depressions, in the largest of which the city of Brașov is situated. Important mining and industrial centers as well as agricultural areas are found within these depressions. The Eastern Carpathians are covered with forests—some 32 percent of the country's woodlands are there. They also contain important ore deposits, including gold and silver, and their mineral water springs feed numerous health resorts. Bucegi_Sphinx,_Romania.jpg situated on the plateau of Bucegi Mountains at 2,216 m. altitude, measures 8 meters in height and 12 meters in width]] The Southern Carpathians offer the highest peaks at Moldoveanu Peak (2,544 m) and Negoiu (2,535 m) and more than 150 glacial lakes. They have large grassland areas and some woodlands but few large depressions and subsoil resources. At higher elevations, the wind and rain have turned the rocks into spectacular figures such as the Sphinx and _Babele_.
+Romania's Carpathians are differentiated into three ranges: the Eastern Carpathians, the Southern Carpathians or Transylvanian Alps, and the Western Romanian Carpathians. Each of these ranges has important distinguishing features. The Eastern Carpathians are composed of three parallel ridges that run from northwest to southeast. The westernmost ridge is an extinct volcanic range with many preserved cones and craters. The range has many large depressions, in the largest of which the city of Brașov is situated. Important mining and industrial centers as well as agricultural areas are found within these depressions. The Eastern Carpathians are covered with forests—some 32 percent of the country's woodlands are there. They also contain important ore deposits, including gold and silver, and their mineral water springs feed numerous health resorts. situated on the plateau of Bucegi Mountains at 2,216 m. altitude, measures 8 meters in height and 12 meters in width]] The Southern Carpathians offer the highest peaks at Moldoveanu Peak (2,544 m) and Negoiu (2,535 m) and more than 150 glacial lakes. They have large grassland areas and some woodlands but few large depressions and subsoil resources. At higher elevations, the wind and rain have turned the rocks into spectacular figures such as the Sphinx and _Babele_.
 
 The region was crisscrossed by an ancient network of trans-Carpathian roads, and vestiges of the old Roman Way are still visible. Numerous passes and the valleys of the Olt, Jiu, and Danube rivers provide routes for roads and railways through the mountains.
 
@@ -41,7 +39,7 @@ Romania's lowest land is found on the northern edge of the Dobruja region in the
 
 Hydrography
 
-Cheile_Turzii_(Turda_Gorges).jpg and Hășdate River in Transylvania.]]
+and Hășdate River in Transylvania.]]
 
 Rivers
 
@@ -52,7 +50,7 @@ The Danube is by far Romania's most important river, not only for transportation
 
 Climate
 
-Romania_map_of_Köppen_climate_classification.png, according with _Clima României_ from the _Administrația Națională de Meteorologie_, Bucharest 2008]] Because of its position on the southeastern portion of the European continent, Romania has a climate that is transitional between temperate and continental. Climatic conditions are somewhat modified by the country's varied relief. The Carpathians serve as a barrier to Atlantic air masses, restricting their oceanic influences to the west and center of the country, where they make for milder winters and heavier rainfall. The mountains also block the continental influences of the vast plain to the north in Ukraine, which bring frosty winters and less rain to the south and southeast. In the extreme southeast, Mediterranean influences offer a milder, maritime climate. The average annual temperature is in the south and in the north. In Bucharest, the temperature ranges from in January to in July, with average temperatures of in January and in July. Rainfall, although adequate throughout the country, decreases from west to east and from mountains to plains. Some mountainous areas receive more than of precipitation each year. Annual precipitation averages about in central Transylvania, at Iași in Moldavia, and only at Constanța on the Black Sea.
+, according with _Clima României_ from the _Administrația Națională de Meteorologie_, Bucharest 2008]] Because of its position on the southeastern portion of the European continent, Romania has a climate that is transitional between temperate and continental. Climatic conditions are somewhat modified by the country's varied relief. The Carpathians serve as a barrier to Atlantic air masses, restricting their oceanic influences to the west and center of the country, where they make for milder winters and heavier rainfall. The mountains also block the continental influences of the vast plain to the north in Ukraine, which bring frosty winters and less rain to the south and southeast. In the extreme southeast, Mediterranean influences offer a milder, maritime climate. The average annual temperature is in the south and in the north. In Bucharest, the temperature ranges from in January to in July, with average temperatures of in January and in July. Rainfall, although adequate throughout the country, decreases from west to east and from mountains to plains. Some mountainous areas receive more than of precipitation each year. Annual precipitation averages about in central Transylvania, at Iași in Moldavia, and only at Constanța on the Black Sea.
 
 Temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms. Winters generally are from November to March. The springs are short, occasionally turning right into summer. Summer lasts from May to August. They have a prolonged Autumn, from September to November. The average January temperature is and the average July temperature is . Facts: Record High Temperature: - August 10, 1951 South-Eastern Romania; Record Low Temperature: - January 24, 1942 (Central Romania)
 
@@ -100,7 +98,7 @@ Coastline
 
 Terrain
 
-Salina_Turda_5.jpg]]
+]]
 
 Central Transylvanian Basin is separated from the Plain of Moldavia on the east by the Carpathian Mountains and separated from the Wallachian Plain on the south by the Transylvanian Alps.
 

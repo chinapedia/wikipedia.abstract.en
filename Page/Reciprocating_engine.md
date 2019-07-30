@@ -1,5 +1,3 @@
-INTERNAL COMBUSTION PISTON ENGINE Components of a typical, four-stroke cycle, internal combustion piston engine.
-
 A RECIPROCATING ENGINE, also often known as a PISTON ENGINE, is typically a heat engine (although there are also pneumatic and hydraulic reciprocating engines) that uses one or more reciprocating pistons to convert pressure into a rotating motion. This article describes the common features of all types. The main types are: the internal combustion engine, used extensively in motor vehicles; the steam engine, the mainstay of the Industrial Revolution; and the niche application Stirling engine. Internal combustion engines are further classified in two ways: either a spark-ignition (SI) engine, where the spark plug initiates the combustion; or a compression-ignition (CI) engine, where the air within the cylinder is compressed, thus heating it, so that the heated air ignites fuel that is injected then or earlier.[1]
 
 
@@ -8,9 +6,6 @@ Common features in all types
 There may be one or more pistons. Each piston is inside a cylinder, into which a gas is introduced, either already under pressure (e.g. steam engine), or heated inside the cylinder either by ignition of a fuel air mixture (internal combustion engine) or by contact with a hot heat exchanger in the cylinder (Stirling engine). The hot gases expand, pushing the piston to the bottom of the cylinder. This position is also known as the Bottom Dead Center (BDC), or where the piston forms the largest volume in the cylinder. The piston is returned to the cylinder top (Top Dead Centre) (TDC) by a flywheel, the power from other pistons connected to the same shaft or (in a double acting cylinder) by the same process acting on the other side of the piston. This is where the piston forms the smallest volume in the cylinder. In most types the expanded or "exhausted" gases are removed from the cylinder by this stroke. The exception is the Stirling engine, which repeatedly heats and cools the same sealed quantity of gas. The stroke is simply the distance between the TDC and the BDC, or the greatest distance that the piston can travel in one direction.
 
 In some designs the piston may be powered in both directions in the cylinder, in which case it is said to be double-acting.
-
-STEAM PISTON ENGINE
-A labeled schematic diagram of a typical single-cylinder, simple expansion, double-acting high pressure steam engine. Power takeoff from the engine is by way of a belt.
 
 In most types, the linear movement of the piston is converted to a rotating movement via a connecting rod and a crankshaft or by a swashplate or other suitable mechanism. A flywheel is often used to ensure smooth rotation or to store energy to carry the engine through an un-powered part of the cycle. The more cylinders a reciprocating engine has, generally, the more vibration-free (smoothly) it can operate. The power of a reciprocating engine is proportional to the volume of the combined pistons' displacement.
 
@@ -24,7 +19,7 @@ The bore/stroke ratio is the ratio of the diameter of the piston, or "bore", to 
 
 Cylinders may be aligned in line, in a V configuration, horizontally opposite each other, or radially around the crankshaft. Opposed-piston engines put two pistons working at opposite ends of the same cylinder and this has been extended into triangular arrangements such as the Napier Deltic. Some designs have set the cylinders in motion around the shaft, such as the Rotary engine.
 
-BetaStirlingTG4web.svg – Beta Stirling Engine Design, showing the second displacer piston (green) within the cylinder, which shunts the working gas between the hot and cold ends, but produces no power itself. ]]
+– Beta Stirling Engine Design, showing the second displacer piston (green) within the cylinder, which shunts the working gas between the hot and cold ends, but produces no power itself. ]]
 
 In steam engines and internal combustion engines, valves are required to allow the entry and exit of gases at the correct times in the piston's cycle. These are worked by cams, eccentrics or cranks driven by the shaft of the engine. Early designs used the D slide valve but this has been largely superseded by Piston valve or Poppet valve designs. In steam engines the point in the piston cycle at which the steam inlet valve closes is called the cutoff and this can often be controlled to adjust the torque supplied by the engine and improve efficiency. In some steam engines, the action of the valves can be replaced by an oscillating cylinder.
 

@@ -1,4 +1,4 @@
-Narcissus-Caravaggio_(1594-96)_edited.jpg depicts Narcissus gazing at his own reflection.]] In Greek mythology, NARCISSUS (; Ancient Greek: Νάρκισσος _Nárkissos_) was a hunter from Thespiae in Boeotia who was known for his beauty. According to Tzetzes, he was a Laconian hunter who loved everything beautiful.[1] Narcissus was proud, in that he disdained those who loved him, causing some to commit suicide to prove their unrelenting devotion to his striking beauty. Narcissus is the origin of the term _narcissism_, a fixation with oneself and one's physical appearance or public perception.
+depicts Narcissus gazing at his own reflection.]] In Greek mythology, NARCISSUS (; Ancient Greek: Νάρκισσος _Nárkissos_) was a hunter from Thespiae in Boeotia who was known for his beauty. According to Tzetzes, he was a Laconian hunter who loved everything beautiful.[1] Narcissus was proud, in that he disdained those who loved him, causing some to commit suicide to prove their unrelenting devotion to his striking beauty. Narcissus is the origin of the term _narcissism_, a fixation with oneself and one's physical appearance or public perception.
 
 
 Etymology
@@ -37,7 +37,7 @@ The myth of Narcissus has inspired artists for at least two thousand years, even
 
 Literature
 
-Roman_de_la_Rose_f._11v_(Narcissus_gazes_at_the_spring).jpg]] Benczur-narcissus.jpg]] In Stendhal's novel _Le Rouge et le Noir_ (1830), there is a classic narcissist in the character of Mathilde. Says Prince Korasoff to Julien Sorel, the protagonist, with respect to his beloved girl:
+]] ]] In Stendhal's novel _Le Rouge et le Noir_ (1830), there is a classic narcissist in the character of Mathilde. Says Prince Korasoff to Julien Sorel, the protagonist, with respect to his beloved girl:
 
   She looks at herself instead of looking at you, and so doesn't know you. During the two or three little outbursts of passion she has allowed herself in your favor, she has, by a great effort of imagination, seen in you the hero of her dreams, and not yourself as you really are.
   (Page 401, 1953 Penguin Edition, trans. Margaret R.B. Shaw).

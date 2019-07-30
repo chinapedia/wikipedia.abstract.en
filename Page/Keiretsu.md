@@ -1,5 +1,3 @@
-Keiretsu.svg
-
 A is a set of companies with interlocking business relationships and shareholdings. It is a type of informal business group. The _keiretsu_ maintained dominance over the Japanese economy for the second half of the 20th century, and to a lesser extent, the early 21st century.
 
 The member's companies own small portions of the shares in each other's companies, centered on a core bank; this system helps insulate each company from stock market fluctuations and takeover attempts, thus enabling long-term planning in projects. It is a key element of the manufacturing industry in Japan.
@@ -11,7 +9,7 @@ The prototypical _keiretsu_ appeared in Japan during the "economic miracle" foll
 
 Prior to World War II, Japan's industrialized economy was dominated by four major zaibatsu: Mitsubishi, Sumitomo, Yasuda and Mitsui. They focused on steel, banking, international trading and various other key sectors in the economy, all of which was controlled by a holding company. Apart from this, they remained in close connection to influential banks that provided funding to their various projects.[1]
 
-Seizure_of_the_Zaibatsu_families_assets.JPG The _zaibatsu_ had been viewed with some ambivalence by the Japanese military, which nationalized a significant portion of their production capability during World War II. Remaining assets were also highly damaged by the destruction of the war.
+The _zaibatsu_ had been viewed with some ambivalence by the Japanese military, which nationalized a significant portion of their production capability during World War II. Remaining assets were also highly damaged by the destruction of the war.
 
 Under the American occupation after the surrender of Japan, a partially successful attempt was made to dissolve the _zaibatsu_. Many of the economic advisors accompanying the SCAP administration had experience with the New Deal program under President Franklin Roosevelt, and were highly suspicious of monopolies and restrictive business practices, which they felt to be both inefficient, and to be a form of corporatocracy (and thus inherently anti-democratic).
 

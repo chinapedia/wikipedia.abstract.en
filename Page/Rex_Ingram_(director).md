@@ -1,4 +1,4 @@
-The_Four_Horsemen_of_the_Apocalypse_(1921)_-_Ingram.jpg The_Conquering_Power_(1921)_-_10.jpg, Rudolph Valentino, and his wife, Alice Terry, on the set of _The Conquering Power_]]
+, Rudolph Valentino, and his wife, Alice Terry, on the set of _The Conquering Power_]]
 
 REX INGRAM (15 January 1892 – 21 July 1950) was an Irish film director, producer, writer and actor.[1] Director Erich von Stroheim once called him "the world's greatest director".[2]
 

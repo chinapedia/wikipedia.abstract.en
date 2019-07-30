@@ -11,7 +11,7 @@ History
 
 Early years
 
-Father_McGivney_300.jpg, founder of the Knights of Columbus]] NewHavenStMarys.JPG
+, founder of the Knights of Columbus]]
 
 Michael J. McGivney, an Irish-American Catholic priest, founded the Knights of Columbus in New Haven, Connecticut.[16] He gathered a group of men from St. Mary's Parish for an organizational meeting on October 2, 1881. Several months later, the order was incorporated under the laws of the state of Connecticut on March 29, 1882.[17] Although its first councils were all in Connecticut, the order spread throughout New England and the United States.[18]
 
@@ -29,7 +29,7 @@ To prove that good Catholics could also be good Americans, during World War I th
 
 During the nadir of American race relations, a bogus oath was circulated claiming that Fourth Degree Knights swore to exterminate Freemasons and Protestants. The Ku Klux Klan (KKK), which was growing into a newly powerful force through the 1920s, spread the bogus oath far and wide as part of their contemporary campaign against Catholics. Numerous state councils and the Supreme Council believed publication would stop if the KKK were assessed fines or punished by jail time assessed and began suing distributors for libel. As a result, the KKK ended its publication of the false oath. As the order did not wish to appear motivated by a "vengeful spirit", it asked for leniency from judges when sentencing offenders.
 
-See_him_through--Help_us_to_help_the_boys.jpg After World War I, many Americans had concerns about the assimilation of immigrants and worries about "foreign" values; they wanted public schools to teach children to be American. Numerous states drafted laws designed to use schools to promote a common American culture, and in 1922, the voters of Oregon passed the Oregon Compulsory Education Act. The law was primarily aimed at eliminating parochial schools, including Catholic schools.[22][23] The Compulsory Education Act required almost all children in Oregon between eight and sixteen years of age to attend public school by 1926. Roger Nash Baldwin, an associate director of the American Civil Liberties Union and a personal friend of then-Supreme Advocate and future Supreme Knight Luke E. Hart, offered to join forces with the order to challenge the law. The Knights of Columbus pledged an immediate $10,000 to fight the law and any additional funds necessary to defeat it. The case became known as _Pierce v. Society of Sisters_ and in a unanimous decision, the Court held that the act was unconstitutional and that parents, not the state, had the authority to educate children as they thought best.
+After World War I, many Americans had concerns about the assimilation of immigrants and worries about "foreign" values; they wanted public schools to teach children to be American. Numerous states drafted laws designed to use schools to promote a common American culture, and in 1922, the voters of Oregon passed the Oregon Compulsory Education Act. The law was primarily aimed at eliminating parochial schools, including Catholic schools.[22][23] The Compulsory Education Act required almost all children in Oregon between eight and sixteen years of age to attend public school by 1926. Roger Nash Baldwin, an associate director of the American Civil Liberties Union and a personal friend of then-Supreme Advocate and future Supreme Knight Luke E. Hart, offered to join forces with the order to challenge the law. The Knights of Columbus pledged an immediate $10,000 to fight the law and any additional funds necessary to defeat it. The case became known as _Pierce v. Society of Sisters_ and in a unanimous decision, the Court held that the act was unconstitutional and that parents, not the state, had the authority to educate children as they thought best.
 
 Postwar social unrest was also related to the difficulties of absorbing the veterans from the war in the job market. Competition among groups for work heightened tensions. In the 1920s there was growing anti-Semitism in the United States related to economic competition and the fears of social change from decades of changed immigration, a lingering anti-German sentiment left over from World War I, and anti-black violence erupted in numerous locations as well. To combat the animus targeted at racial and religious minorities, including Catholics, the order formed a historical commission which published a series of books on their contributions, among other activities. The "Knights of Columbus Racial Contributions Series" of books included three titles: _The Gift of Black Folk_, by W. E. B. Du Bois, _The Jews in the Making of America_ by George Cohen, and _The Germans in the Making of America_ by Frederick Schrader.
 
@@ -49,8 +49,6 @@ The order is dedicated to the principles of charity, unity, fraternity, and patr
 The first ritual handbook, printed in 1885, contained only sections teaching unity and charity. Supreme Knight Mullen, along with primary ritual author Daniel Colwell, believed that the initiation ceremony should be held in three sections "in accord with the 'Trinity of Virtues, Charity, Unity, and Brotherly love.'" The third section, expounding fraternity, was officially adopted in 1891.
 
 Fourth degree
-
-Kofc_emblem_fourth.JPG
 
 After taking their third degree, knights are eligible to receive their fourth degree, the primary purpose of which is to foster the spirit of patriotism and to encourage active Catholic citizenship. Fourth degree members, in addition to being members of their individual councils, are also members of Fourth-Degree assemblies which typically comprise members of several councils. , there were 3,109 assemblies worldwide.[27]
 
@@ -207,8 +205,6 @@ Knights of Columbus _councils_, Fourth Degree _assemblies_, and Columbian Squire
 
 Supreme Council
 
-Knights_of_Columbus_headquarters_straightened.jpg
-
 The Supreme Council is the governing body of the order and is composed of elected representatives from each jurisdiction. The Supreme Council comprises[109]
 
 -   The State Deputy and the last living Past State Deputy of each State Council.
@@ -238,7 +234,7 @@ Supreme Knights
 
 Supreme Convention
 
-George_W._Bush_meeting_Knights_of_Columbus_in_Dallas,_Texas.jpg greets Fourth Degree Knights at the 122nd Annual Convention.]] The Knights of Columbus invites the head of state of every country in which they operate to the annual Supreme Convention.[114] In 1971, US President Richard Nixon gave the keynote address at the States Dinner; Secretary of Transportation and Knight John Volpe had arranged this first appearance of a US President at a Supreme Council gathering.
+greets Fourth Degree Knights at the 122nd Annual Convention.]] The Knights of Columbus invites the head of state of every country in which they operate to the annual Supreme Convention.[114] In 1971, US President Richard Nixon gave the keynote address at the States Dinner; Secretary of Transportation and Knight John Volpe had arranged this first appearance of a US President at a Supreme Council gathering.
 
 President Ronald Reagan spoke at the Centennial Convention in 1982.[115] Reagan presented the order with a President's Volunteer Action Award at the White House in 1984.[116] President George H. W. Bush appeared in 1992. President Bill Clinton sent a written message while he was in office, and President George W. Bush sent videotaped messages before he attended in person at the 2004 convention.[117] President Barack Obama also sent written messages during his term in office.[118]
 
@@ -263,7 +259,7 @@ As part of the effort, the order distributed pamphlets, and lecturers toured the
 
 Chair of American history
 
-Knights_of_Columbus_check_presentation_to_The_Catholic_University_of_America.jpg On March 7, 1899, Phillip Garrigan, Vice Rector of The Catholic University of America, addressed the National Council, as the Supreme Convention was then called, asking for establishment of a Knights of Columbus Chair of American History at the university, to counter the somewhat anti-Catholic bias of history-writing at the time.[131] The convention enthusiastically accepted the proposal. By March 5, 1901, Supreme Knight Edward L. Hearn reported unhappily to the national convention that only $10,000 has been collected of the $50,000 commitment made two years earlier. It would take an additional three years to collect the total amount.
+On March 7, 1899, Phillip Garrigan, Vice Rector of The Catholic University of America, addressed the National Council, as the Supreme Convention was then called, asking for establishment of a Knights of Columbus Chair of American History at the university, to counter the somewhat anti-Catholic bias of history-writing at the time.[131] The convention enthusiastically accepted the proposal. By March 5, 1901, Supreme Knight Edward L. Hearn reported unhappily to the national convention that only $10,000 has been collected of the $50,000 commitment made two years earlier. It would take an additional three years to collect the total amount.
 
 Over 10,000 Knights were on hand on April 13, 1904, to present a $55,633.79 check[132] ($1,399,831.80 in 2012 dollars[133]) to endow the Knights of Columbus Chair of American History Cardinal James Gibbons, Chancellor of the university and a strong supporter of the Knights. The outdoor ceremony was held on the steps of the university's McMahon Hall.[134] The gigantic check was ten feet high and four feet wide, and was beautifully executed on vellum in the style of an illuminated manuscript.[135] The check represented "the Order's first response to a call from the American Church", which demonstrates to any doubters, and the early Knights did encounter opposition within the church, that the order was thoroughly Catholic.
 
@@ -313,7 +309,7 @@ In addition to the wholly owned subsidiary, it also purchased 20 percent of Bost
 
 Notable Knights
 
-John_F._Kennedy_-_NARA_-_518134.jpg Many notable Catholic men from all over the world have been Knights of Columbus. In the United States, some of the most notable include John F. Kennedy; Ted Kennedy;, Vince Lombardi, Al Smith; Sargent Shriver; Samuel Alito; John Boehner;[167] Ray Flynn; Jeb Bush;[168] and Sergeant Major Daniel Daly,[169] a two-time Medal of Honor recipient.[170]
+Many notable Catholic men from all over the world have been Knights of Columbus. In the United States, some of the most notable include John F. Kennedy; Ted Kennedy;, Vince Lombardi, Al Smith; Sargent Shriver; Samuel Alito; John Boehner;[167] Ray Flynn; Jeb Bush;[168] and Sergeant Major Daniel Daly,[169] a two-time Medal of Honor recipient.[170]
 
 Many notable clerics are also Knights, including Cardinal William Levada, prefect of the Congregation for the Doctrine of the Faith;[171] Cardinal Sean O'Malley, Archbishop of Boston;[172] and Cardinal Jaime Sin, former Archbishop of Manila.[173] In the world of sports, Vince Lombardi, the famed former coach of the Green Bay Packers; wrestler Lou Albano;[174] James Connolly, the first Olympic gold-medal champion in modern times; Floyd Patterson, former heavyweight boxing champion;[175] and baseball legend Babe Ruth were all knights.
 
@@ -324,13 +320,13 @@ Emblems of the order
 
 Emblem of the order
 
-Knights_of_Columbus_LOGO.png The emblem of the order was designed by Past Supreme Knight James T. Mullen and adopted at the second Supreme Council meeting on May 12, 1883. Shields used by medieval knights served as the inspiration. The emblem consists of a shield mounted on a Formée cross, which is an artistic representation of the cross of Christ. This represents the Catholic identity of the order.[177]
+The emblem of the order was designed by Past Supreme Knight James T. Mullen and adopted at the second Supreme Council meeting on May 12, 1883. Shields used by medieval knights served as the inspiration. The emblem consists of a shield mounted on a Formée cross, which is an artistic representation of the cross of Christ. This represents the Catholic identity of the order.[177]
 
 Mounted on the shield are three objects: a fasces; an anchor; and a dagger. In ancient Rome, the fasces was carried before magistrates as an emblem of authority. The order uses it as "symbolic of authority which must exist in any tightly-bonded and efficiently operating organization."[178] The anchor represents Christopher Columbus, patron of the order. The short sword, or dagger, was a weapon used by medieval knights. The shield as a whole, with the letters "K of C", represents "Catholic Knighthood in organized merciful action."[179]
 
 Fourth Degree emblem
 
-Kofc_emblem_fourth.JPG The Fourth Degree emblem features a dove, a cross, and a globe. In the tradition of the Knights these symbols "typify the union of the three Divine Persons in one Godhead, referred to as the most Blessed Trinity."[180] The red, white, and blue are taken from the American flag and represent patriotism, the basic principle of the Fourth Degree. Styled with the continents of the western hemisphere in white, the blue globe represents God the Father. A red Isabella cross, for the queen who sponsored Columbus, serves as a symbol of God the Son. The white dove is a symbol of peace and God the Holy Spirit. Columbus' name in Italian (_Colombo_) also means "dove."[181]
+The Fourth Degree emblem features a dove, a cross, and a globe. In the tradition of the Knights these symbols "typify the union of the three Divine Persons in one Godhead, referred to as the most Blessed Trinity."[180] The red, white, and blue are taken from the American flag and represent patriotism, the basic principle of the Fourth Degree. Styled with the continents of the western hemisphere in white, the blue globe represents God the Father. A red Isabella cross, for the queen who sponsored Columbus, serves as a symbol of God the Son. The white dove is a symbol of peace and God the Holy Spirit. Columbus' name in Italian (_Colombo_) also means "dove."[181]
 
 Columbian Squires emblem
 

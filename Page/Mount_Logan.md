@@ -44,11 +44,9 @@ History
 
 First ascent
 
-Mountain_and_footprints.JPG In 1922, a geologist approached the Alpine Club of Canada with the suggestion that the club send a team to the mountain to reach the summit for the first time. An international team of Canadian, British and American climbers was assembled and initially they had planned their attempt in 1924 but funding and preparation delays postponed the trip until 1925. The international team of climbers began their journey in early May, crossing the mainland from the Pacific coast by train. They then walked the remaining to within of the Logan Glacier where they established base camp. In the early evening of June 23, 1925, Albert H. MacCarthy (leader), H.F. Lambart, Allen Carpé, W.W. Foster, Norman H. Read and Andy Taylor stood on top for the first time.[21][22] It had taken them 65 days to approach the mountain from the nearest town, McCarthy, summit and return, with all climbers intact.[23]
+In 1922, a geologist approached the Alpine Club of Canada with the suggestion that the club send a team to the mountain to reach the summit for the first time. An international team of Canadian, British and American climbers was assembled and initially they had planned their attempt in 1924 but funding and preparation delays postponed the trip until 1925. The international team of climbers began their journey in early May, crossing the mainland from the Pacific coast by train. They then walked the remaining to within of the Logan Glacier where they established base camp. In the early evening of June 23, 1925, Albert H. MacCarthy (leader), H.F. Lambart, Allen Carpé, W.W. Foster, Norman H. Read and Andy Taylor stood on top for the first time.[21][22] It had taken them 65 days to approach the mountain from the nearest town, McCarthy, summit and return, with all climbers intact.[23]
 
 Subsequent notable ascents and attempts
-
-Mount_Logan_Knife_ridge,_east_ridge_by_Christian_Stangl_(flickr).jpg
 
 -   1957 _East Ridge_. Don Monk, Gil Roberts and three others (US) reached the summit on July 19.[24]
 -   1965 _Hummingbird Ridge_ (South Ridge). Dick Long, Allen Steck, Jim Wilson, John Evans, Franklin Coale Sr. and Paul Bacon (US) over 30 days, mid-July to Mid-August. Fred Beckey remarked: "When they got back we just couldn't believe that they had climbed that thing. We didn't think they had a chance".[25] Featured in _Fifty Classic Climbs of North America_.
@@ -60,8 +58,6 @@ Mount_Logan_Knife_ridge,_east_ridge_by_Christian_Stangl_(flickr).jpg
 -   1987 an alpine-style attempt on the _Hummingbird Ridge_ ended with the deaths of Catherine Freer (US), North America's strongest female alpinist, and David Cheesmond from South Africa and Canada, considered among the best alpinists in the world, when a snow cornice broke.[31]
 -   1992 June 6, an expedition sponsored by the Royal Canadian Geographic Society confirmed the height of Mount Logan using GPS. The leader was Michael Schmidt, with Lisel Currie, Leo Nadeay, Charlie Roots, J-C. Lavergne, Roger Laurilla, Pat Morrow, Karl Nagy, Sue Gould, Alan Björn, Lloyd Freese, Kevin McLaughlin and Rick Staley.[32]
 -   2017 May 23, 15-year-old Naomi Prohaska reached the summit, the youngest person to do so. She was part of a team led by her father.[33]
-
-Mount_Logan_3D_version_1.gif
 
 Proposed renaming
 

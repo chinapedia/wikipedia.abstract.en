@@ -7,8 +7,6 @@ The Listerine brand name is also used in toothpaste, Listerine Whitening rinse, 
 
 History
 
-Old_Listerine_bottle.jpg
-
 Inspired by Louis Pasteur's ideas on microbial infection, the English doctor Joseph Lister demonstrated in 1865 that use of carbolic acid on surgical dressings would significantly reduce rates of post-surgical infection. Lister's work in turn inspired St. Louis-based doctor Joseph Lawrence to develop an alcohol-based formula for a surgical antiseptic which included eucalyptol, menthol, methyl salicylate, and thymol (Its exact composition is a trade secret). Lawrence named his antiseptic "Listerine" in honor of Lister.[2]
 
 Lawrence hoped to promote Listerine's use as a general germicide as well as a surgical antiseptic, and licensed his formula to a local pharmacist named Jordan Wheat Lambert in 1881. Lambert subsequently started the Lambert Pharmacal Company, marketing Listerine.[3] Listerine was promoted to dentists for oral care in 1895[4] and was the first over-the-counter mouthwash sold in the United States, in 1914.[5] It became widely known and entered common household use after Jordan Wheat Lambert's son Gerard Lambert joined the company and promoted an aggressive marketing campaign.[6]

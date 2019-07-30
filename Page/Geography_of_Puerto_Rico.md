@@ -7,7 +7,7 @@ Physical geography
 
 The archipelago of Puerto Rico is located between the Caribbean Sea and the North Atlantic Ocean, east of the Dominican Republic and west of the Virgin Islands. Located in the northeastern Caribbean Sea, Puerto Rico was key to the Spanish Empire since the early years of exploration, conquest and colonization of the New World.
 
-Puerto_Rico_geography.gif The topography of the main island is divided into three major regions: the mountainous region, which includes the _Cordillera Central_, _Sierra de Luquillo_, _Sierra de Cayey_ and _Sierra Bermeja_, the coastal plains and the northern karst region. The _Cordillera Central_ extends through the entire island, dividing it into the northern and southern region. The mountain region accounts for approximately 60% of the land area.
+The topography of the main island is divided into three major regions: the mountainous region, which includes the _Cordillera Central_, _Sierra de Luquillo_, _Sierra de Cayey_ and _Sierra Bermeja_, the coastal plains and the northern karst region. The _Cordillera Central_ extends through the entire island, dividing it into the northern and southern region. The mountain region accounts for approximately 60% of the land area.
 
 The archipelago of Culebra, located east of Puerto Rico, north of Vieques, and west of the Virgin Islands, is composed of the main island of Culebra and 28 uninhabited islets.[2] Mainly mountainous, the island of Culebra possesses renowned beaches.
 
@@ -17,11 +17,11 @@ Located in the tropics, Puerto Rico enjoys an average temperature of throughout 
 
 Rivers and lakes
 
-Río_Piedras_Watershed_»_Sub-watersheds.jpg, also known as the San Juan Bay Estuary Watershed (2015), and ends in the San Juan Bay]] Puerto Rico has lakes (none of them natural)[3] and more than 50 rivers. Most of these rivers are born in the _Cordillera Central_, Puerto Rico's principal mountain range located across the center of the island. The rivers in the north of the island are bigger and with higher flow capacity than those of the south. The south is thus drier and hotter than the north. These rivers make up 60 watersheds throughout the island, where over 95% of the runoff goes back to sea.
+, also known as the San Juan Bay Estuary Watershed (2015), and ends in the San Juan Bay]] Puerto Rico has lakes (none of them natural)[3] and more than 50 rivers. Most of these rivers are born in the _Cordillera Central_, Puerto Rico's principal mountain range located across the center of the island. The rivers in the north of the island are bigger and with higher flow capacity than those of the south. The south is thus drier and hotter than the north. These rivers make up 60 watersheds throughout the island, where over 95% of the runoff goes back to sea.
 
 Flora and fauna
 
-Puerto_Rico_ecosystems_map-en.jpg As of 1998,[4] 239 plants, 16 birds and 39 amphibians/reptiles have been discovered that are endemic to the archipelago of Puerto Rico. The majority of these (234, 12 and 33 respectively) are found on the main island. The most recognizable endemic species and a symbol of Puerto Rican pride are the Coquís (_Eleutherodactylus_ spp.), small frogs easily recognized by the sound from which they get their name. El Yunque National Forest, a tropical rainforest, is home to the majority (13 of 16) of species of Coquí. It is also home to more than 240 plants, 26 of which are endemic, and 50 bird species, including the critically endangered Puerto Rican amazon (_Amazona vittata_).
+As of 1998,[4] 239 plants, 16 birds and 39 amphibians/reptiles have been discovered that are endemic to the archipelago of Puerto Rico. The majority of these (234, 12 and 33 respectively) are found on the main island. The most recognizable endemic species and a symbol of Puerto Rican pride are the Coquís (_Eleutherodactylus_ spp.), small frogs easily recognized by the sound from which they get their name. El Yunque National Forest, a tropical rainforest, is home to the majority (13 of 16) of species of Coquí. It is also home to more than 240 plants, 26 of which are endemic, and 50 bird species, including the critically endangered Puerto Rican amazon (_Amazona vittata_).
 
 Forests
 
@@ -42,7 +42,7 @@ Mario Javier Fernandez-Vega is a Puerto Rican forester who uses silvicultural te
 
 Topography
 
-Puerto_Rico_Map_Topographic_fixed.jpg Puerto Rico is mostly mountainous with large coastal areas in the north and south. The main mountain range is called "La Cordillera Central" (The Central Range). The highest elevation in Puerto Rico, Cerro de Punta ,[8] is located in this range. Another important peak is El Yunque, one of the highest in the _Sierra de Luquillo_ at the El Yunque National Forest, with an elevation of .[9]
+Puerto Rico is mostly mountainous with large coastal areas in the north and south. The main mountain range is called "La Cordillera Central" (The Central Range). The highest elevation in Puerto Rico, Cerro de Punta ,[8] is located in this range. Another important peak is El Yunque, one of the highest in the _Sierra de Luquillo_ at the El Yunque National Forest, with an elevation of .[9]
 
 Geology
 
@@ -53,13 +53,13 @@ Lying about north of Puerto Rico in the Atlantic Ocean at the boundary between t
 
 Political geography
 
-USA_Puerto_Rico_labeled.svg As an unincorporated territory of the United States, Puerto Rico does not have any first-order administrative divisions as defined by the U.S. Government, but there are 78 municipalities at the second level. Municipalities are further subdivided into _barrios_, and those into sectors. Each municipality has a mayor and a municipal legislature elected for a 4-year term.
+As an unincorporated territory of the United States, Puerto Rico does not have any first-order administrative divisions as defined by the U.S. Government, but there are 78 municipalities at the second level. Municipalities are further subdivided into _barrios_, and those into sectors. Each municipality has a mayor and a municipal legislature elected for a 4-year term.
 
 History
 
 The first municipality (previously called "town") of Puerto Rico, San Juan, was founded in 1521. In the 16th century two more municipalities were established, Coamo (1570) and San Germán (1570). Three more municipalities were established in the 17th century. These were Arecibo (1614), Aguada (1692) and Ponce (1692). The 18th and 19th century saw an increase in settlement in Puerto Rico with 30 municipalities being established in the 18th century and 34 more in the 19th century. Only six municipalities were founded in the 20th century with the last, Florida, being founded in 1971.[12]
 
-Puerto_Rico_departamentos_1886.jpg Under Spanish rule, as of the 1880s, Puerto Rico was subdivided into regional districts (or "departamentos") that contained smaller ayuntamientes (municipalities):[13]
+Under Spanish rule, as of the 1880s, Puerto Rico was subdivided into regional districts (or "departamentos") that contained smaller ayuntamientes (municipalities):[13]
 
 -   Aguadilla district[14]
     -   Ayuntamientes: Aguada, Aguadilla, Isabella, Lares, Moca, Rincon, San Sebastian[15]

@@ -12,7 +12,7 @@ Like Martin Scorsese and James Cameron, Sayles began his career working with Rog
 
 In 1983, after the films _Baby It's You_ (starring Rosanna Arquette) and _Lianna_ (a story in which a married woman becomes discontented with her marriage and falls in love with another woman), Sayles received a MacArthur Fellowship. He put the money into the fantasy _The Brother from Another Planet_,[4] a film about a black, three-toed slave who escapes from another planet and after crash-landing on Earth, finds himself at home among the people of Harlem, being pursued by white male agents from his home planet dressed as men in black.
 
-Sayles,_John_IMGP2516-A.jpg, 2011]]
+, 2011]]
 
 In 1989, Sayles created and wrote the pilot episode for the short-lived television show _Shannon's Deal_ about a down-and-out Philadelphia lawyer played by Jamey Sheridan. Sayles received a 1990 Edgar Award for his teleplay for the pilot. The show ran for 16 episodes before being cancelled in 1991.
 

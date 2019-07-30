@@ -14,8 +14,6 @@ In English, the pronunciation is the more common one in the UK and Commonwealth.
 
 History
 
-GoldThebes750.jpg
-
 The earliest recorded metal employed by humans appears to be gold, which can be found free or "native". Small amounts of natural gold have been found in Spanish caves used during the late Paleolithic period, c. 40,000 BC.[3] Silver, copper, tin and meteoric iron can also be found in native form, allowing a limited amount of metalworking in early cultures.[4] Egyptian weapons made from meteoric iron in about 3000 BC were highly prized as "daggers from heaven".[5]
 
 Certain metals, notably tin, lead and (at a higher temperature) copper, can be recovered from their ores by simply heating the rocks in a fire or blast furnace, a process known as smelting. The first evidence of this extractive metallurgy, dating from the 5th and 6th millennia BC,[6] has been found at archaeological sites in Majdanpek, Jarmovac near Priboj and Pločnik, in present-day Serbia. To date, the earliest evidence of copper smelting is found at the Belovode site near Plocnik.[7] This site produced a copper axe from 5500 BC, belonging to the Vinča culture.[8]
@@ -26,7 +24,7 @@ The earliest use of lead is documented from the late neolithic settlement of Yar
 
 Copper smelting is also documented at this site at about the same time period (soon after 6000 BC), although the use of lead seems to precede copper smelting. Early metallurgy is also documented at the nearby site of Tell Maghzaliyah, which seems to be dated even earlier, and completely lacks pottery.
 
-Other signs of early metals are found from the third millennium BC in places like Palmela (Portugal), Los Millares (Spain), and Stonehenge (United Kingdom). However, the ultimate beginnings cannot be clearly ascertained and new discoveries are both continuous and ongoing. Metal_production_in_Ancient_Middle_East.svg. Boxes colors: arsenic is in brown, copper in red, tin in grey, iron in reddish brown, gold in yellow, silver in white and lead in black. Yellow area stands for arsenic bronze, while grey area stands for tin bronze.]]
+Other signs of early metals are found from the third millennium BC in places like Palmela (Portugal), Los Millares (Spain), and Stonehenge (United Kingdom). However, the ultimate beginnings cannot be clearly ascertained and new discoveries are both continuous and ongoing. . Boxes colors: arsenic is in brown, copper in red, tin in grey, iron in reddish brown, gold in yellow, silver in white and lead in black. Yellow area stands for arsenic bronze, while grey area stands for tin bronze.]]
 
 In the Near East, about 3500 BC, it was discovered that by combining copper and tin, a superior metal could be made, an alloy called bronze. This represented a major technological shift known as the Bronze Age.
 
@@ -39,7 +37,7 @@ A 16th century book by Georg Agricola called _De re metallica_ describes the hig
 
 Extraction
 
-Yuan_Dynasty_-_waterwheels_and_smelting.pngs, Yuan Dynasty, China.]] Žiar_nad_Hronom2.JPG (Central Slovakia)]] Extractive metallurgy is the practice of removing valuable metals from an ore and refining the extracted raw metals into a purer form. In order to convert a metal oxide or sulphide to a purer metal, the ore must be reduced physically, chemically, or electrolytically.
+s, Yuan Dynasty, China.]] (Central Slovakia)]] Extractive metallurgy is the practice of removing valuable metals from an ore and refining the extracted raw metals into a purer form. In order to convert a metal oxide or sulphide to a purer metal, the ore must be reduced physically, chemically, or electrolytically.
 
 Extractive metallurgists are interested in three primary streams: feed, concentrate (valuable metal oxide/sulphide) and tailings(waste). After mining, large pieces of the ore feed are broken through crushing and/or grinding in order to obtain particles small enough where each particle is either mostly valuable or mostly waste. Concentrating the particles of value in a form supporting separation enables the desired metal to be removed from waste products.
 
@@ -49,8 +47,6 @@ Ore bodies often contain more than one valuable metal. Tailings of a previous pr
 
 
 Alloys
-
-Bois-du-Luc_-_Fondeur_d'art_2.JPG
 
 Common engineering metals include aluminium, chromium, copper, iron, magnesium, nickel, titanium and zinc. These are most often used as alloys. Much effort has been placed on understanding the iron-carbon alloy system, which includes steels and cast irons. Plain carbon steels (those that contain essentially only carbon as an alloying element) are used in low-cost, high-strength applications where weight and corrosion are not a problem. Cast irons, including ductile iron, are also part of the iron-carbon system.
 
@@ -98,8 +94,6 @@ Shot peening is a cold working process used to finish metal parts. In the proces
 Thermal spraying
 
 Thermal spraying techniques are another popular finishing option, and often have better high temperature properties than electroplated coatings.Thermal spraying, also known as a spray welding process,[22] is an industrial coating process that consists of a heat source (flame or other) and a coating material that can be in a powder or wire form which is melted then sprayed on the surface of the material being treated at a high velocity. The spray treating process is known by many different names such as hvof, plasma spray, flame spray, arc spray, and metalizing.
-
-AlubronzeCuAl20v500.png
 
 
 Microstructure

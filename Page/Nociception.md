@@ -3,7 +3,7 @@ NOCICEPTION (also NOCIOCEPTION or NOCIPERCEPTION, from Latin _nocere_ 'to harm o
 
 Detection of noxious stimuli
 
-Nociceptive_pain.jpg]] Potentially damaging mechanical, thermal, and chemical stimuli are detected by nerve endings called nociceptors, which are found in the skin, on internal surfaces such as the periosteum, joint surfaces, and in some internal organs. The concentration of nociceptors varies throughout the body; they are found in greater numbers in the skin than in deep internal surfaces. Some nociceptors are unspecialized free nerve endings that have their cell bodies outside the spinal column in the dorsal root ganglia.[3] Nociceptors are categorized according to the axons which travel from the receptors to the spinal cord or brain.
+]] Potentially damaging mechanical, thermal, and chemical stimuli are detected by nerve endings called nociceptors, which are found in the skin, on internal surfaces such as the periosteum, joint surfaces, and in some internal organs. The concentration of nociceptors varies throughout the body; they are found in greater numbers in the skin than in deep internal surfaces. Some nociceptors are unspecialized free nerve endings that have their cell bodies outside the spinal column in the dorsal root ganglia.[3] Nociceptors are categorized according to the axons which travel from the receptors to the spinal cord or brain.
 
 Nociceptors have a certain threshold; that is, they require a minimum intensity of stimulation before they trigger a signal. Once this threshold is reached a signal is passed along the axon of the neuron into the spinal cord.
 

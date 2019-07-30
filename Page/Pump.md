@@ -1,4 +1,4 @@
-Jet_pump.jpg Wasserwerk_pumpe01.jpg near the Hengsteysee, Germany]]A PUMP is a device that moves fluids (liquids or gases), or sometimes slurries, by mechanical action. Pumps can be classified into three major groups according to the method they use to move the fluid: _direct lift_, _displacement_, and _gravity_ pumps.[1]
+near the Hengsteysee, Germany]]A PUMP is a device that moves fluids (liquids or gases), or sometimes slurries, by mechanical action. Pumps can be classified into three major groups according to the method they use to move the fluid: _direct lift_, _displacement_, and _gravity_ pumps.[1]
 
 Pumps operate by some mechanism (typically reciprocating or rotary), and consume energy to perform mechanical work moving the fluid. Pumps operate via many energy sources, including manual operation, electricity, engines, or wind power, come in many sizes, from microscopic for use in medical applications to large industrial pumps.
 
@@ -17,7 +17,7 @@ Pumps can be classified by their method of displacement into positive displaceme
 
 Positive displacement pumps
 
-LobePump_en.svg internals]]
+internals]]
 
 A positive displacement pump makes a fluid move by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe.
 
@@ -41,7 +41,7 @@ A positive displacement pump can be further classified according to the mechanis
 
 Rotary positive displacement pumps
 
-Pompe_à_palettes.gif ]]
+]]
 
 These pumps move fluid using a rotating mechanism that creates a vacuum that captures and draws in the liquid.[3]
 
@@ -57,7 +57,7 @@ Rotary positive displacement pumps fall into three main types:
 
 Reciprocating positive displacement pumps
 
-Hand_pump.png Old_hand_water_pump.jpg Reciprocating pumps move the fluid using one or more oscillating pistons, plungers, or membranes (diaphragms), while valves restrict fluid motion to the desired direction. In order for suction to take place, the pump must first pull the plunger in an outward motion to decrease pressure in the chamber. Once the plunger pushes back, it will increase the pressure chamber and the inward pressure of the plunger will then open the discharge valve and release the fluid into the delivery pipe at a high velocity.[6]
+Reciprocating pumps move the fluid using one or more oscillating pistons, plungers, or membranes (diaphragms), while valves restrict fluid motion to the desired direction. In order for suction to take place, the pump must first pull the plunger in an outward motion to decrease pressure in the chamber. Once the plunger pushes back, it will increase the pressure chamber and the inward pressure of the plunger will then open the discharge valve and release the fluid into the delivery pipe at a high velocity.[6]
 
 Pumps in this category range from _simplex_, with one cylinder, to in some cases _quad_ (four) cylinders, or more. Many reciprocating-type pumps are _duplex_ (two) or _triplex_ (three) cylinder. They can be either _single-acting_ with suction during one direction of piston motion and discharge on the other, or _double-acting_ with suction and discharge in both directions. The pumps can be powered manually, by air or steam, or by a belt driven by an engine. This type of pump was used extensively in the 19th century—in the early days of steam propulsion—as boiler feed water pumps. Now reciprocating pumps typically pump highly viscous fluids like concrete and heavy oils, and serve in special applications that demand low flow rates against high resistance. Reciprocating hand pumps were widely used to pump water from wells. Common bicycle pumps and foot pumps for inflation use reciprocating action.
 
@@ -89,21 +89,15 @@ The positive displacement principle applies in these pumps:
 
 Gear pump
 
-Gear_pump.png
-
 This is the simplest of rotary positive displacement pumps. It consists of two meshed gears that rotate in a closely fitted casing. The tooth spaces trap fluid and force it around the outer periphery. The fluid does not travel back on the meshed part, because the teeth mesh closely in the center. Gear pumps see wide use in car engine oil pumps and in various hydraulic power packs.
 
 Screw pump
-
-Lysholm_screw_rotors.jpg
 
 A screw pump is a more complicated type of rotary pump that uses two or three screws with opposing thread — e.g., one screw turns clockwise and the other counterclockwise. The screws are mounted on parallel shafts that have gears that mesh so the shafts turn together and everything stays in place. The screws turn on the shafts and drive fluid through the pump. As with other forms of rotary pumps, the clearance between moving parts and the pump's casing is minimal.
 
 Progressing cavity pump
 
 Widely used for pumping difficult materials, such as sewage sludge contaminated with large particles, this pump consists of a helical rotor, about ten times as long as its width. This can be visualized as a central core of diameter _x_ with, typically, a curved spiral wound around of thickness half _x_, though in reality it is manufactured in single casting. This shaft fits inside a heavy duty rubber sleeve, of wall thickness also typically _x_. As the shaft rotates, the rotor gradually forces fluid up the rubber sleeve. Such pumps can develop very high pressure at low volumes.
-
-Pcp-thumb.gif
 
 Roots-type pumps
 
@@ -118,8 +112,6 @@ Applications include:
 -   A brand of civil defense siren, the Federal Signal Corporation's Thunderbolt.
 
 Peristaltic pump
-
-eccentric_pump.gif
 
 A _peristaltic pump_ is a type of positive displacement pump. It contains fluid within a flexible tube fitted inside a circular pump casing (though linear peristaltic pumps have been made). A number of _rollers_, _shoes_, or _wipers_ attached to a rotor compresses the flexible tube. As the rotor turns, the part of the tube under compression closes (or _occludes_), forcing the fluid through the tube. Additionally, when the tube opens to its natural state after the passing of the cam it draws (_restitution_) fluid into the pump. This process is called peristalsis and is used in many biological systems such as the gastrointestinal tract.
 
@@ -145,8 +137,6 @@ One modern application of positive displacement pumps is compressed-air-powered 
 
 Rope pumps
 
-Rope_Pump.svg
-
 Devised in China as chain pumps over 1000 years ago, these pumps can be made from very simple materials: A rope, a wheel and a PVC pipe are sufficient to make a simple rope pump. Rope pump efficiency has been studied by grass roots organizations and the techniques for making and running them have been continuously improved.[12]
 
 Impulse pumps
@@ -171,7 +161,7 @@ The hydraulic ram is sometimes used in remote areas, where there is both a sourc
 
 Velocity pumps
 
-Centrifugal_2.png uses an impeller with backward-swept arms]]
+uses an impeller with backward-swept arms]]
 
 Rotodynamic pumps (or dynamic pumps) are a type of velocity pump in which kinetic energy is added to the fluid by increasing the flow velocity. This increase in energy is converted to a gain in potential energy (pressure) when the velocity is reduced prior to or as the flow exits the pump into the discharge pipe. This conversion of kinetic energy to pressure is explained by the _First law of thermodynamics_, or more specifically by _Bernoulli's principle_.
 
@@ -216,7 +206,7 @@ Valveless pumping assists in fluid transport in various biomedical and engineeri
 
 Pump repairs
 
-Derelict_windpump_with_water_tank_in_the_foreground_next_to_the_Boorowa_railway_in_Galong_NSW_Australia.JPG tank in the foreground]] Examining pump repair records and mean time between failures (MTBF) is of great importance to responsible and conscientious pump users. In view of that fact, the preface to the 2006 Pump User’s Handbook alludes to "pump failure" statistics. For the sake of convenience, these failure statistics often are translated into MTBF (in this case, installed life before failure).[17]
+tank in the foreground]] Examining pump repair records and mean time between failures (MTBF) is of great importance to responsible and conscientious pump users. In view of that fact, the preface to the 2006 Pump User’s Handbook alludes to "pump failure" statistics. For the sake of convenience, these failure statistics often are translated into MTBF (in this case, installed life before failure).[17]
 
 In early 2005, Gordon Buck, John Crane Inc.’s chief engineer for Field Operations in Baton Rouge, LA, examined the repair records for a number of refinery and chemical plants to obtain meaningful reliability data for centrifugal pumps. A total of 15 operating plants having nearly 15,000 pumps were included in the survey. The smallest of these plants had about 100 pumps; several plants had over 2000. All facilities were located in the United States. In addition, considered as "new", others as "renewed" and still others as "established". Many of these plants—but not all—had an alliance arrangement with John Crane. In some cases, the alliance contract included having a John Crane Inc. technician or engineer on-site to coordinate various aspects of the program.
 
@@ -229,7 +219,7 @@ As has been noted, a typical pump failure, based on actual year 2002 reports, co
 
 Applications
 
-Dosierpumpe.png and additives.]]
+and additives.]]
 
 Pumps are used throughout society for a variety of purposes. Early applications includes the use of the windmill or watermill to pump water. Today, the pump is used for irrigation, water supply, gasoline supply, air conditioning systems, refrigeration (usually called a compressor), chemical movement, sewage movement, flood control, marine services, etc.
 
@@ -243,7 +233,7 @@ Positive–displacement pumps, however, tend to have sufficiently tight sealing 
 
 Pumps as public water supplies
 
-Taccola_first_piston.jpg pump, by Taccola, c.1450.[21]]] Pump-enabled_Riverside_Irrigation_in_Comilla,_Bangladesh,_25_April_2014.jpg is underway by pump-enabled extraction directly from the Gumti, seen in the background, in Comilla, Bangladesh.]]
+pump, by Taccola, c.1450.[21]]] is underway by pump-enabled extraction directly from the Gumti, seen in the background, in Comilla, Bangladesh.]]
 
 One sort of pump once common worldwide was a hand-powered water pump, or 'pitcher pump'. It was commonly installed over community water wells in the days before piped water supplies.
 

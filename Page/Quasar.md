@@ -1,4 +1,4 @@
-Artist's_rendering_ULAS_J1120+0641.jpg, a very distant quasar powered by a supermassive black hole with a mass two billion times that of the Sun.[1]]]
+, a very distant quasar powered by a supermassive black hole with a mass two billion times that of the Sun.[1]]]
 
 A QUASAR () (also known as a QUASI-STELLAR OBJECT abbreviated QSO) is an extremely luminous active galactic nucleus (AGN), in which a supermassive black hole with mass ranging from millions to billions of times the mass of the Sun is surrounded by a gaseous accretion disk. As gas in the disk falls towards the black hole, energy is released in the form of electromagnetic radiation, which can be observed across the electromagnetic spectrum. The power radiated by quasars is enormous: the most powerful quasars have luminosities thousands of times greater than a galaxy such as the Milky Way.[2]
 
@@ -14,7 +14,7 @@ The term "quasar" was first used in a paper by Chinese-born U.S. astrophysicist 
 
 History of observation and interpretation
 
-SDSS_image_of_quasar_3C273.jpg image of quasar 3C 273, illustrating the object's star-like appearance. The quasar's jet can be seen extending downward and to the right from the quasar.]] Quasar_viewed_from_Hubble.jpg images of quasar 3C 273. At right, a coronagraph is used to block the quasar's light, making it easier to detect the surrounding host galaxy.]]
+image of quasar 3C 273, illustrating the object's star-like appearance. The quasar's jet can be seen extending downward and to the right from the quasar.]] images of quasar 3C 273. At right, a coronagraph is used to block the quasar's light, making it easier to detect the surrounding host galaxy.]]
 
 Background
 
@@ -50,9 +50,9 @@ The accretion disc energy-production mechanism was finally modeled in the 1970s,
 
 Modern observations (1970s onward)
 
-UZC_J224030.2+032131.jpg. Four apparent images are actually from the same quasar.]]
+. Four apparent images are actually from the same quasar.]]
 
-MUSE_spies_accreting_giant_structure_around_a_quasar.tif.[27]]]
+.[27]]]
 
 Later it was found that not all quasars have strong radio emission; in fact only about 10% are "radio-loud". Hence the name 'QSO' (quasi-stellar object) is used (in addition to "quasar") to refer to these objects, including the 'radio-loud' and the 'radio-quiet' classes. The discovery of the quasar had large implications for the field of astronomy in the 1960s, including drawing physics and astronomy closer together.[28]
 
@@ -78,7 +78,7 @@ The highest redshift quasar known () is ULAS J1342+0928, with a redshift of 7.54
 
 Properties
 
-Bright_halos_around_distant_quasars.jpg PKS_1127-145_X-rays.jpg X-ray image is of the quasar PKS 1127-145, a highly luminous source of X-rays and visible light about 10 billion light-years from Earth. An enormous X-ray jet extends at least a million light-years from the quasar. Image is 60 arcsec on a side. RA 11h 30m 7.10s Dec −14° 49' 27" in Crater. Observation date: May 28, 2000. Instrument: ACIS.]]
+X-ray image is of the quasar PKS 1127-145, a highly luminous source of X-rays and visible light about 10 billion light-years from Earth. An enormous X-ray jet extends at least a million light-years from the quasar. Image is 60 arcsec on a side. RA 11h 30m 7.10s Dec −14° 49' 27" in Crater. Observation date: May 28, 2000. Instrument: ACIS.]]
 
 More than 200,000 quasars are known, most from the Sloan Digital Sky Survey. All observed quasar spectra have redshifts between 0.056 and 7.54 (as of 2017). Applying Hubble's law to these redshifts, it can be shown that they are between 600 million[42] and 29.36 billion light-years away (in terms of comoving distance). Because of the great distances to the farthest quasars and the finite velocity of light, they and their surrounding space appear as they existed in the very early universe.
 
@@ -92,8 +92,6 @@ Quasars were much more common in the early universe than they are today. This di
 
 Quasars' luminosities are variable, with time scales that range from months to hours. This means that quasars generate and emit their energy from a very small region, since each part of the quasar would have to be in contact with other parts on such a time scale as to allow the coordination of the luminosity variations. This would mean that a quasar varying on a time scale of a few weeks cannot be larger than a few light-weeks across. The emission of large amounts of power from a small region requires a power source far more efficient than the nuclear fusion that powers stars. The conversion of gravitational potential energy to radiation by infalling to a black hole converts between 6% and 32% of the mass to energy, compared to 0.7% for the conversion of mass to energy in a star like our sun.[45] It is the only process known that can produce such high power over a very long term. (Stellar explosions such as supernovas and gamma-ray bursts, and direct matter-antimatter annihilation, can also produce very high power output, but supernovae only last for days, and the universe does not appear to have had large amounts of antimatter at the relevant times).
 
-Quasar_HE_1104-1805.jpg Artist's_impression_of_mysterious_alignment_of_quasar_rotation_axes.ogv
-
 Since quasars exhibit all the properties common to other active galaxies such as Seyfert galaxies, the emission from quasars can be readily compared to those of smaller active galaxies powered by smaller supermassive black holes. To create a luminosity of 10⁴⁰ watts (the typical brightness of a quasar), a super-massive black hole would have to consume the material equivalent of 10 stars per year. The brightest known quasars devour 1000 solar masses of material every year. The largest known is estimated to consume matter equivalent to 600 Earths per minute. Quasar luminosities can vary considerably over time, depending on their surroundings. Since it is difficult to fuel quasars for many billions of years, after a quasar finishes accreting the surrounding gas and dust, it becomes an ordinary galaxy.
 
 Radiation from quasars is partially 'nonthermal' (i.e., not due to black body radiation), and approximately 10 percent are observed to also have jets and lobes like those of radio galaxies that also carry significant (but poorly understood) amounts of energy in the form of particles moving at relativistic speeds. Extremely high energies might be explained by several mechanisms (see Fermi acceleration and Centrifugal mechanism of acceleration). Quasars can be detected over the entire observable electromagnetic spectrum including radio, infrared, visible light, ultraviolet, X-ray and even gamma rays. Most quasars are brightest in their rest-frame near-ultraviolet wavelength of 121.6 nm Lyman-alpha emission line of hydrogen, but due to the tremendous redshifts of these sources, that peak luminosity has been observed as far to the red as 900.0 nm, in the near infrared. A minority of quasars show strong radio emission, which is generated by jets of matter moving close to the speed of light. When viewed downward, these appear as blazars and often have regions that seem to move away from the center faster than the speed of light (superluminal expansion). This is an optical illusion due to the properties of special relativity.
@@ -106,7 +104,7 @@ _Iron quasars_ show strong emission lines resulting from low ionization iron (Fe
 
 Spectral lines, reionization, and the early universe
 
-QuasarStarburst.jpg ever seen in such a combination.]] Fingerprint_of_the_early_Universe.jpg.]]
+ever seen in such a combination.]] .]]
 
 Quasars also provide some clues as to the end of the Big Bang's reionization. The oldest known quasars (redshift = 6) display a Gunn-Peterson trough and have absorption regions in front of them indicating that the intergalactic medium at that time was neutral gas. More recent quasars show no absorption region but rather their spectra contain a spiky area known as the Lyman-alpha forest; this indicates that the intergalactic medium has undergone reionization into plasma, and that neutral gas exists only in small clouds.
 
@@ -130,14 +128,12 @@ The taxonomy of quasars includes various subtypes representing subsets of the qu
 
 Role in celestial reference systems
 
-Quasar_HE_0109-3518.tiff glow, helping astronomers to understand the obscure early stages of galaxy formation.[60] ]] Because quasars are extremely distant, bright, and small in apparent size, they are useful reference points in establishing a measurement grid on the sky.[61] The International Celestial Reference System (ICRS) is based on hundreds of extra-galactic radio sources, mostly quasars, distributed around the entire sky. Because they are so distant, they are apparently stationary to our current technology, yet their positions can be measured with the utmost accuracy by very-long-baseline interferometry (VLBI). The positions of most are known to 0.001 arcsecond or better, which is orders of magnitude more precise than the best optical measurements.
+glow, helping astronomers to understand the obscure early stages of galaxy formation.[60] ]] Because quasars are extremely distant, bright, and small in apparent size, they are useful reference points in establishing a measurement grid on the sky.[61] The International Celestial Reference System (ICRS) is based on hundreds of extra-galactic radio sources, mostly quasars, distributed around the entire sky. Because they are so distant, they are apparently stationary to our current technology, yet their positions can be measured with the utmost accuracy by very-long-baseline interferometry (VLBI). The positions of most are known to 0.001 arcsecond or better, which is orders of magnitude more precise than the best optical measurements.
 
 
 Multiple quasars
 
 A multiple-image quasar is a quasar whose light undergoes gravitational lensing, resulting in double, triple or quadruple images of the same quasar. The first such gravitational lens to be discovered was the double-imaged quasar Q0957+561 (or Twin Quasar) in 1979.[62] A grouping of two or more quasars can result from a chance alignment, physical proximity, actual close physical interaction, or effects of gravity bending the light of a single quasar into two or more images.
-
-Quasars_in_interacting_galaxies.jpg
 
 As quasars are rare objects, the probability of three or more separate quasars being found near the same location is very low. The first true triple quasar was found in 2007 by observations at the W. M. Keck Observatory Mauna Kea, Hawaii.[63] LBQS 1429-008 (or QQQ J1432-0106) was first observed in 1989 and was found to be a double quasar; itself a rare occurrence. When astronomers discovered the third member, they confirmed that the sources were separate and not the result of gravitational lensing. This triple quasar has a red shift of _z_ = 2.076, which is equivalent to 10.5 billion light-years.[64] The components are separated by an estimated 30–50 kpc, which is typical of interacting galaxies.[65] An example of a triple quasar that is formed by lensing is PG1115 +08.[66]
 

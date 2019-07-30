@@ -3,8 +3,6 @@ The 1986 UNITED STATES BOMBING OF LIBYA, code-named OPERATION EL DORADO CANYON, 
 
 Origins
 
-Libya_Bombing_Reagan_Meeting_14_March_1986.jpg
-
 Libya represented a high priority for President Ronald Reagan shortly after his 1981 inauguration. Libyan leader Muammar Gaddafi was firmly anti-Israel and had supported violent organizations in the Palestinian territories and Syria. There were reports that Libya was attempting to become a nuclear power[3][4] and Gaddafi's occupation of Chad, which was rich in uranium, was of major concern to the United States. Gaddafi's ambitions to set up a federation of Arab and Muslim states in North Africa were alarming to U.S. interests. Furthermore, then-Secretary of State Alexander Haig wanted to take proactive measures against Gaddafi because he had been using former Central Intelligence Agency (CIA) operatives to help set up terrorist camps (most notably Edwin P. Wilson and Frank E. Terpil).[5]
 
 After the December 1985 Rome and Vienna airport attacks, which killed 19 and wounded approximately 140, Gaddafi indicated that he would continue to support the Red Army Faction, the Red Brigades, and the Irish Republican Army as long as the European governments supported anti-Gaddafi Libyans.[6]
@@ -15,7 +13,7 @@ On 5 April 1986, Libyan agents bombed "La Belle" nightclub in West Berlin, killi
 
 More detailed information was retrieved years later when Stasi archives were investigated by the reunited Germany. Libyan agents who had carried out the operation from the Libyan embassy in East Germany were identified and prosecuted by Germany in the 1990s.[8]
 
-F-111F_GBU-10_bound_for_Libya.jpg F-111F aircraft for an air strike on Libya]]
+F-111F aircraft for an air strike on Libya]]
 
 After several unproductive days of meeting with European and Arab nations, and influenced by an American serviceman's death, Ronald Reagan, on 14 April, ordered an air raid on Libya. Eighteen F-111F strike aircraft of the 48th Tactical Fighter Wing, flying from RAF Lakenheath and supported by four EF-111A Ravens of the 20th Tactical Fighter Wing from RAF Upper Heyford in Britain, in conjunction with fifteen A-6, A-7, F/A-18 attack aircraft and EA-6B Prowler Electronic Warfare Aircraft from the aircraft carriers USS _Saratoga_, USS _America_ and USS _Coral Sea_ on station in the Gulf of Sidra, struck five targets at 02:00 on 15 April, with the stated objectives of sending a message and reducing Libya's ability to support and train terrorists. Reagan warned that "if necessary, [they] shall do it again."[9]
 
@@ -28,7 +26,7 @@ For the Libyan raid, the United States was denied overflight rights by France, S
 
 The raid
 
-Il-76_destroyed_Operation_El_Dorado_Canyon.jpg targeted by the bombing.]]
+targeted by the bombing.]]
 
 The attack began at 0200 hours (Libyan time), and lasted about twelve minutes, with 60 tons of munitions dropped. Eighteen F-111 bombers supported by four EF-111 electronic countermeasures aircraft flying from the United Kingdom bombed Tripoli airfield, a frogman training center at a naval academy, and the Bab al-Azizia barracks in Tripoli. During the bombing of the Bab al-Azizia barracks, an American F-111 was shot down by a Libyan ZSU-23-4 over the Gulf of Sidra. Some bombs landed off-target, striking diplomatic and civilian sites in Tripoli, and narrowly missing the French embassy. Some Libyan soldiers abandoned their positions in fright and confusion, and officers were slow to give orders. Libyan anti-aircraft fire did not begin until after the planes had passed over their targets. Twenty-four aircraft of Carrier Wing 13, CVW-13, A-6 Intruders and F/A-18 Hornets, armed with anti-radar HARM missiles in their first combat use, launched from aircraft carriers USS _Coral Sea_ and USS _America_ bombed radar and antiaircraft sites in Benghazi before bombing the Benina and Jamahiriya barracks.[16][17][18]
 

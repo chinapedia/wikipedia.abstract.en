@@ -19,7 +19,7 @@ Pre-history and Middle Ages
 
 Merseburg was first mentioned in 850. King Henry the Fowler built a royal palace at Merseburg; in the 933 Battle of Riade, he gained his great victory over the Hungarians in the vicinity.
 
-Thietmar, appointed in 973, became the first bishop of the newly created bishopric of Prague in Bohemia. Prague had been part of the archbishopric of Mainz for a hundred years before that. From 968 until the Protestant Reformation, Merseburg was the seat of the Bishop of Merseburg, and in addition to being for a time the residence of the margraves of Meissen, it was a favorite residence of the German kings during the 10th, 11th and 12th centuries. Fifteen diets were held here during the Middle Ages, during which time its fairs enjoyed the importance which was afterwards transferred to those of Leipzig. Merseburg was the site of a failed assassination attempt on Polish ruler Bolesław I Chrobry in 1002.[4] The town suffered severely during the German Peasants' War and also during the Thirty Years' War. Merseburg-1650-Merian.jpg
+Thietmar, appointed in 973, became the first bishop of the newly created bishopric of Prague in Bohemia. Prague had been part of the archbishopric of Mainz for a hundred years before that. From 968 until the Protestant Reformation, Merseburg was the seat of the Bishop of Merseburg, and in addition to being for a time the residence of the margraves of Meissen, it was a favorite residence of the German kings during the 10th, 11th and 12th centuries. Fifteen diets were held here during the Middle Ages, during which time its fairs enjoyed the importance which was afterwards transferred to those of Leipzig. Merseburg was the site of a failed assassination attempt on Polish ruler Bolesław I Chrobry in 1002.[4] The town suffered severely during the German Peasants' War and also during the Thirty Years' War.
 
 17th century to 20th century
 
@@ -93,8 +93,6 @@ Merseburg is twinned with:
 
 
 Notable people
-
-ErnstHaeckel.jpg
 
 -   Thietmar of Merseburg, bishop and chronist
 -   Johannes Knolleisen, (died 1511), theological professor

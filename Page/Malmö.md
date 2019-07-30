@@ -5,23 +5,23 @@ Malmö was one of the earliest and most industrialized towns of Scandinavia, but
 
 History
 
-Malmo_Vapenbrev.png]] The earliest written mention of Malmö as a city dates from 1275.[7] It is thought to have been founded shortly before that date,[8] as a fortified quay or ferry berth of the Archbishop of Lund,[9] some to the north-east. Malmö was for centuries Denmark's second-biggest city. Its original name was _Malmhaug_ (with alternate spellings), meaning "Gravel pile" or "Ore Hill".
+]] The earliest written mention of Malmö as a city dates from 1275.[7] It is thought to have been founded shortly before that date,[8] as a fortified quay or ferry berth of the Archbishop of Lund,[9] some to the north-east. Malmö was for centuries Denmark's second-biggest city. Its original name was _Malmhaug_ (with alternate spellings), meaning "Gravel pile" or "Ore Hill".
 
 In the 15th century, Malmö became one of Denmark's largest and most visited cities, reaching a population of approximately 5,000 inhabitants. It became the most important city around the Øresund, with the German Hanseatic League frequenting it as a marketplace, and was notable for its flourishing herring fishery. In 1437, King Eric of Pomerania (King of Denmark from 1396 to 1439) granted the city's arms: argent with a griffin gules, based on Eric's arms from Pomerania. The griffin's head as a symbol of Malmö extended to the entire province of Scania from 1660.
 
 In 1434, a new citadel was constructed at the beach south of the town. This fortress, known today as _Malmöhus_, did not take its current form until the mid-16th century. Several other fortifications were constructed, making Malmö Sweden's most fortified city, but only _Malmöhus_ remains.
 
-Malmö_city_1580.png can be seen at far left, Sankt Petri Church's tower at center]] Lutheran teachings spread during the 16th century Protestant Reformation, and Malmö became one of the first cities in Scandinavia to fully convert (1527–1529) to this Protestant denomination.
+can be seen at far left, Sankt Petri Church's tower at center]] Lutheran teachings spread during the 16th century Protestant Reformation, and Malmö became one of the first cities in Scandinavia to fully convert (1527–1529) to this Protestant denomination.
 
 In the 17th century, Malmö and the Scanian region (_Skåneland_) came under control of Sweden following the Treaty of Roskilde with Denmark, signed in 1658. Fighting continued, however; in June 1677, 14,000 Danish troops laid siege to Malmö for a month, but were unable to defeat the Swedish troops holding it.
 
 By the dawn of the 18th century, Malmö had about 2,300 inhabitants. However, owing to the wars of Charles XII of Sweden (reigned 1697–1718) and to bubonic plague epidemics, the population dropped to 1,500 by 1727. The population did not grow much until the modern harbor was constructed in 1775. The city started to expand and the population in 1800 was 4,000. 15 years later, it had increased to 6,000.[10]
 
-Sodergatan-1913.jpg In 1840, Frans Henrik Kockum founded the workshop from which the Kockums shipyard eventually developed as one of the largest shipyards in the world. The Southern Main Line was built between 1856 and 1864; this enabled Malmö to become a center of manufacture, with major textile and mechanical industries. In 1870, Malmö overtook Norrköping to become Sweden's third-most populous city, and by 1900 Malmö had strengthened this position with 60,000 inhabitants. Malmö continued to grow through the first half of the 20th century. The population had swiftly increased to 100,000 by 1915 and to 200,000 by 1952.
+In 1840, Frans Henrik Kockum founded the workshop from which the Kockums shipyard eventually developed as one of the largest shipyards in the world. The Southern Main Line was built between 1856 and 1864; this enabled Malmö to become a center of manufacture, with major textile and mechanical industries. In 1870, Malmö overtook Norrköping to become Sweden's third-most populous city, and by 1900 Malmö had strengthened this position with 60,000 inhabitants. Malmö continued to grow through the first half of the 20th century. The population had swiftly increased to 100,000 by 1915 and to 200,000 by 1952.
 
 1900–1969
 
-Meeting_of_Scandinavian_kings_2.jpeg In 1914 (15 May to 4 October) Malmö hosted the Baltic Exhibition. The large park Pildammsparken was arranged and planted for this large event. The Russian part of the exhibition was never picked down, owing to the outbreak of World War I.
+In 1914 (15 May to 4 October) Malmö hosted the Baltic Exhibition. The large park Pildammsparken was arranged and planted for this large event. The Russian part of the exhibition was never picked down, owing to the outbreak of World War I.
 
 On 18 and 19 December 1914, the _Three Kings Meeting_ was held in Malmö. After a somewhat infected period (1905–1914), which included the dissolution of the Swedish-Norwegian Union, King Oscar II was replaced with King Håkon VII in Norway, who was the younger brother of the Danish King Christian X. As Oscar died in 1907, and his son Gustav V became the new King of Sweden, the tensions within Scandinavia were still unclear, but during this historical meeting, the Scandinavian Kings found internal understanding, as well as a common line about remaining neutral in the ongoing war.
 
@@ -48,7 +48,7 @@ The city is part of the transnational Øresund Region and, since 2000, has been 
 
 Climate
 
-Central_Malmö.JPG Vattentornet_vid_Pildammarna.jpg with the old water tower]] Malmö, like the rest of southern Sweden, has an oceanic climate. Despite its northern location, the climate is mild compared to other locations at similar latitudes, mainly because of the influence of the Gulf Stream and also its westerly position on the Eurasian landmass. Owing to its northern latitude, daylight lasts 17 hours in midsummer, but only around seven hours in midwinter. According to data from 2002–2014 Falsterbo, to the south of the city, received an annual average of 1,895 hours of sunshine while Lund, to the north, received 1,803 hours. The sunshine data in the weather box is based on the data for Falsterbo.[14]
+with the old water tower]] Malmö, like the rest of southern Sweden, has an oceanic climate. Despite its northern location, the climate is mild compared to other locations at similar latitudes, mainly because of the influence of the Gulf Stream and also its westerly position on the Eurasian landmass. Owing to its northern latitude, daylight lasts 17 hours in midsummer, but only around seven hours in midwinter. According to data from 2002–2014 Falsterbo, to the south of the city, received an annual average of 1,895 hours of sunshine while Lund, to the north, received 1,803 hours. The sunshine data in the weather box is based on the data for Falsterbo.[14]
 
 Summers are mild with average high temperatures of and lows of around . Heat waves during the summer arise occasionally. Winters are fairly cold and windy, with temperatures steady between , but it rarely drops below .
 
@@ -57,7 +57,7 @@ Rainfall is light to moderate throughout the year with 169 wet days. Snowfall oc
 
 Transport
 
-Oresund_bridge.jpg, connecting Malmö to Copenhagen and the Scandinavian peninsula with Central Europe through Denmark.]]
+, connecting Malmö to Copenhagen and the Scandinavian peninsula with Central Europe through Denmark.]]
 
 Oresund Line trains cross the Øresund Bridge every 20 minutes (hourly late night) connecting Malmö to Copenhagen, and the Copenhagen Airport. The trip takes around 35–40 minutes. Additionally, some of the X 2000 and Intercity trains to Stockholm, Gothenburg, and Kalmar cross the bridge, stopping at Copenhagen Airport. In March 2005, excavation began on a new railway connection called the City Tunnel, which opened for traffic on 4 December 2010. The tunnel runs south from Malmö Central Station through an underground station at the Triangeln railway station to Hyllievång (Hyllie Meadow). Then, the line comes to the surface to enter Hyllie Station, also created as part of the tunnel project. From Hyllie Station, the line connects to the existing Øresund line in either direction, with the Øresund Bridge lying due West.
 
@@ -78,7 +78,7 @@ A local train line with circular traffic at seven stations was opened in Decembe
 
 Municipality
 
-Jorchr-Malmö_rådhus.jpg Malmö Municipality is an administrative unit defined by geographical borders, consisting of the _City of Malmö_[19] and its immediate surroundings.
+Malmö Municipality is an administrative unit defined by geographical borders, consisting of the _City of Malmö_[19] and its immediate surroundings.
 
 Malmö (_Malmö tätort_) consists of the urban part of the municipality together with the small town of Arlöv in the Burlöv Municipality. Both municipalities also include smaller urban areas and rural areas, such as the suburbs of Oxie and Åkarp. _Malmö tätort_ is to be distinguished from _Malmö stad_ (the city of Malmö), which is a semi-official name of Malmö Municipality.
 
@@ -133,8 +133,6 @@ Greater Malmö is one of Sweden's three officially recognized metropolitan areas
 
 
 Economy
-
-SCB_Malmo_taxable_income_as_percentage_of_national_average_1995_2016.png
 
 The economy of Malmö was traditionally based on shipbuilding (Kockums) and construction related industries, such as concrete factories. The region's leading university, along with its associated hi-tech and pharmaceutical industries, is located in Lund about to the north-east. As a result, Malmö had a troubled economic situation following the mid-1970s. Between 1990–1995, 27,000 jobs were lost, and the budget deficit was more than one billion Swedish krona (SEK). In 1995, Malmö had Sweden's highest unemployment rate.
 
@@ -197,7 +195,7 @@ The Malmö Konsthall is one of the largest exhibition halls in Europe for contem
 
 Architecture
 
-St_Petri_church_in_Malmö.jpg in Malmö]] Malmö_synagoga_2.jpg]] Malmö's oldest building is St. Peter's Church (). It was built in the early 14th century in Baltic Brick Gothic probably after St Mary's Church in Lübeck. The church is built with a nave, two aisles, a transept and a tower. Its exterior is characterized above all by the flying buttresses spanning its airy arches over the aisles and ambulatory. The tower, which fell down twice during the 15th century, got its current look in 1890.[53] Another major church of significance is the Church of Our Saviour, Malmö, which was founded in 1870.
+in Malmö]] ]] Malmö's oldest building is St. Peter's Church (). It was built in the early 14th century in Baltic Brick Gothic probably after St Mary's Church in Lübeck. The church is built with a nave, two aisles, a transept and a tower. Its exterior is characterized above all by the flying buttresses spanning its airy arches over the aisles and ambulatory. The tower, which fell down twice during the 15th century, got its current look in 1890.[53] Another major church of significance is the Church of Our Saviour, Malmö, which was founded in 1870.
 
 Another old building is Tunneln, to the west of Sankt Petri Church, which also dates back to around 1300.
 
@@ -211,15 +209,13 @@ Since the late 1990s, Malmö have seen a more cosmopolitan architecture. _Västr
 
 Other sights
 
-Stortorget_in_Malmö,_Sweden.jpg
-
 The beach _Ribersborg_, by locals usually called _Ribban_,[58] south-west of the harbor area, is a man-made shallow beach, stretching along Malmö's coastline. Despite Malmö's chilly climate, it is sometimes referred to as the "Copacabana of Malmö".[59] It is the site of Ribersborgs open-air bath, opened in the 1890s.
 
 The long boardwalk at The Western Harbor, _Scaniaparken_ and _Daniaparken_, has become a favorite summer hang-out for the people of Malmö and is a popular place for bathing.[60] The harbor is particularly popular with Malmö's vibrant student community and has been the scene of several impromptu outdoor parties and gatherings.
 
 Annual events
 
-Malmöfestivalen_2018-08-16_12.jpg In the third week of August each year a festival, _Malmöfestivalen_, fills the streets of Malmö with different kinds of cuisines and events.
+In the third week of August each year a festival, _Malmöfestivalen_, fills the streets of Malmö with different kinds of cuisines and events.
 
 BUFF International Film Festival, an international children and young people's film festival, is held in Malmö every year in March.
 
@@ -239,7 +235,7 @@ In addition to these, a number of free-of-charge papers, generally dealing with 
 
 Sports
 
-Swedbank_stadion_29_june_2009.jpg, the home of Malmö FF]] Malmö_Arena_ESC2013_01.jpg, the home of Malmö Redhawks]]Sports in southern Sweden are dominated by football. Over the years the city's best football teams have been Malmö FF who play in the top level Allsvenskan Malmö FF had their most successful periods in the 1970s and 1980s, when they won the league several times. In 1979, they advanced to the final of the European Cup defeating _AS Monaco, Dynamo Kiew, Wisla Krakow_ and _Austria Wien (Vienna)_ but lost in the final at the Munich Olympic Stadium against Nottingham Forest by a single goal just before half time scored by Trevor Francis. To date, they are the only Swedish football club to have reached the final of the competition. Malmö FF is the club where for instance, Bosse Larsson and Zlatan Ibrahimović began their football careers. A second football team, IFK Malmö played in Sweden's top flight for about 20 years and the club's quarterfinal in the European Cup is the club's greatest achievement in its history. Today, the club resides in the sixth tier of the Swedish league system.
+, the home of Malmö FF]] , the home of Malmö Redhawks]]Sports in southern Sweden are dominated by football. Over the years the city's best football teams have been Malmö FF who play in the top level Allsvenskan Malmö FF had their most successful periods in the 1970s and 1980s, when they won the league several times. In 1979, they advanced to the final of the European Cup defeating _AS Monaco, Dynamo Kiew, Wisla Krakow_ and _Austria Wien (Vienna)_ but lost in the final at the Munich Olympic Stadium against Nottingham Forest by a single goal just before half time scored by Trevor Francis. To date, they are the only Swedish football club to have reached the final of the competition. Malmö FF is the club where for instance, Bosse Larsson and Zlatan Ibrahimović began their football careers. A second football team, IFK Malmö played in Sweden's top flight for about 20 years and the club's quarterfinal in the European Cup is the club's greatest achievement in its history. Today, the club resides in the sixth tier of the Swedish league system.
 
 FC Rosengård (former LdB Malmö) are playing in the top level in Damallsvenskan, women's football league. FC Rosengård girls have won the league 10 times and the national cup title 5 times. In 2014, they reached the semi-final in Champions League, which they ultimately went on to lose to the German side 1. FFC Frankfurt. Brazilian football player Marta, widely regarded the best female football player of all time, played in FC Rosengård between 2014 and 2017.
 

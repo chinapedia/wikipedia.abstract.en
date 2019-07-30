@@ -1,4 +1,4 @@
-Fuochi_d'artificio.gif]] Rio_New_Year_Fireworks.jpg celebration in Copacabana, Rio de Janeiro, Brazil]] New_Year_celebration_in_Sanandaj_(13970101000005636571882740976326_78974).jpg's celebration in Sanandaj on date and time of March equinox.]] NEW YEAR is the time or day at which a new calendar year begins and the calendar's year count increments by one.
+]] celebration in Copacabana, Rio de Janeiro, Brazil]] 's celebration in Sanandaj on date and time of March equinox.]] NEW YEAR is the time or day at which a new calendar year begins and the calendar's year count increments by one.
 
 Many cultures celebrate the event in some manner[1] and the 1st day of January is often marked as a national holiday.
 
@@ -15,14 +15,12 @@ By month or season
 
 January
 
-McCutcheonNY1905.jpg 1905 chases old 1904 into the history books in this cartoon by John T. McCutcheon.]]
+1905 chases old 1904 into the history books in this cartoon by John T. McCutcheon.]]
 
 -   January 1: The first day of the civil year in the Gregorian calendar used by most countries.
     -   Contrary to common belief in the west, the civil New Year of January 1 is not an Orthodox Christian religious holiday. The Eastern Orthodox liturgical calendar makes no provision for the observance of a New Year. January 1 is itself a religious holiday, but that is because it is the feast of the circumcision of Christ (seven days after His birth), and a commemoration of saints. While the liturgical calendar begins September 1, there is also no particular religious observance attached to the start of the new cycle. Orthodox nations may, however, make civil celebrations for the New Year. Those that adhere to the revised Julian calendar (which synchronizes dates with the Gregorian calendar), including Bulgaria, Cyprus, Egypt, Greece, Romania, Syria, and Turkey, observe both the religious and civil holidays on January 1. In other nations and locations where Orthodox churches still adhere to the Julian calendar, including Georgia, Israel, Russia, the Republic of Macedonia, Serbia, Montenegro, and Ukraine, the civil new year is observed on January 1 of the civil calendar, while those same religious feasts occur on January 14 (which is January 1 Julian), in accord with the liturgical calendar.
 
 East Asian New Year
-
-A_journey_to_the_Liaohe_River_Bridge_in_Tieling_County_31.jpg
 
 -   The Chinese New Year, also known as the Lunar New Year, occurs every year on the new moon of the first lunar month, about the beginning of spring (Lichun). The exact date can fall any time between January 21 and February 21 (inclusive) of the Gregorian Calendar. Traditionally, years were marked by one of twelve Earthly Branches, represented by an animal, and one of ten Heavenly Stems, which correspond to the five elements. This combination cycles every 60 years. It is the most important Chinese celebration of the year.
 -   The Korean New Year is a Seollal or Lunar New Year’s Day. Although January 1 is, in fact, the first day of the year, Seollal, the first day of the lunar calendar, is more meaningful for Koreans. A celebration of the Lunar New Year is believed to have started to let in good luck and ward off bad spirits all throughout the year. With the old year out and a new one in, people gather at home and sit around with their families and relatives, catching up on what they have been doing.

@@ -9,7 +9,7 @@ Escher's art became well known among scientists and mathematicians, and in popul
 
 Early life
 
-Leeuwarden_-_Keramiekmuseum_Princessehof.jpg, in Leeuwarden, Friesland, the Netherlands]]
+, in Leeuwarden, Friesland, the Netherlands]]
 
 Maurits Cornelis Escher was born on 17 June 1898 in Leeuwarden, Friesland, the Netherlands, in a house that forms part of the Princessehof Ceramics Museum today. He was the youngest son of the civil engineer George Arnold Escher and his second wife, Sara Gleichman. In 1903, the family moved to Arnhem, where he attended primary and secondary school until 1918.[1][2] Known to his friends and family as "Mauk", he was a sickly child and was placed in a special school at the age of seven; he failed the second grade.[3] Although he excelled at drawing, his grades were generally poor. He took carpentry and piano lessons until he was thirteen years old.[4][5]
 
@@ -18,11 +18,9 @@ In 1918, he went to the Technical College of Delft.[6][7] From 1919 to 1922, Esc
 
 Study journeys
 
-Alhambra-p3-closeup.jpg tessellations including this one at the Alhambra inspired Escher's work with tilings of the plane. He made sketches of this and other Alhambra patterns in 1936.[11]]]
+tessellations including this one at the Alhambra inspired Escher's work with tilings of the plane. He made sketches of this and other Alhambra patterns in 1936.[11]]]
 
 In 1922, an important year of his life, Escher traveled through Italy, visiting Florence, San Gimignano, Volterra, Siena, and Ravello. In the same year, he traveled through Spain, visiting Madrid, Toledo, and Granada.[12] He was impressed by the Italian countryside and, in Granada, by the Moorish architecture of the fourteenth-century Alhambra. The intricate decorative designs of the Alhambra, based on geometrical symmetries featuring interlocking repetitive patterns in the coloured tiles or sculpted into the walls and ceilings, triggered his interest in the mathematics of tessellation and became a powerful influence on his work.[13][14]
-
-Escher_Alhambra_Tessellation_Sketch.jpg
 
 Escher returned to Italy and lived in Rome from 1923 to 1935. While in Italy, Escher met Jetta Umiker – a Swiss woman, like himself attracted to Italy  – whom he married in 1924. The couple settled in Rome where their first son, Giorgio (George) Arnaldo Escher, named after his grandfather, was born. Escher and Jetta later had two more sons – Arthur and Jan.[15] [16]
 
@@ -37,7 +35,7 @@ In 1935, the political climate in Italy (under Mussolini) became unacceptable to
 
 The Netherlands post office had Escher design a semi-postal stamp for the "Air Fund" in 1935,[22] and again in 1949 he designed Netherlands stamps. These were for the 75th anniversary of the Universal Postal Union; a different design was used by Surinam and the Netherlands Antilles for the same commemoration.[23][24]
 
-Escher_Snakes.jpg'', 1969]] Escher, who had been very fond of and inspired by the landscapes in Italy, was decidedly unhappy in Switzerland. In 1937, the family moved again, to Uccle (Ukkel), a suburb of Brussels, Belgium.[25][26] World War II forced them to move in January 1941, this time to Baarn, Netherlands, where Escher lived until 1970.[27] Most of Escher's best-known works date from this period. The sometimes cloudy, cold, and wet weather of the Netherlands allowed him to focus intently on his work.[28] After 1953, Escher lectured widely. A planned series of lectures in North America in 1962 was cancelled after an illness, and he stopped creating artworks for a time,[29] but the illustrations and text for the lectures were later published as part of the book _Escher on Escher_.[30] He was awarded the Knighthood of the Order of Orange-Nassau in 1955;[31] he was later made an Officer in 1967.[32]
+'', 1969]] Escher, who had been very fond of and inspired by the landscapes in Italy, was decidedly unhappy in Switzerland. In 1937, the family moved again, to Uccle (Ukkel), a suburb of Brussels, Belgium.[25][26] World War II forced them to move in January 1941, this time to Baarn, Netherlands, where Escher lived until 1970.[27] Most of Escher's best-known works date from this period. The sometimes cloudy, cold, and wet weather of the Netherlands allowed him to focus intently on his work.[28] After 1953, Escher lectured widely. A planned series of lectures in North America in 1962 was cancelled after an illness, and he stopped creating artworks for a time,[29] but the illustrations and text for the lectures were later published as part of the book _Escher on Escher_.[30] He was awarded the Knighthood of the Order of Orange-Nassau in 1955;[31] he was later made an Officer in 1967.[32]
 
 In July 1969 he finished his last work, a large woodcut with threefold rotational symmetry called _Snakes_, in which snakes wind through a pattern of linked rings. These shrink to infinity toward both the center and the edge of a circle. It was exceptionally elaborate, being printed using three blocks, each rotated three times about the center of the image and precisely aligned to avoid gaps and overlaps, for a total of nine print operations for each finished print. The image encapsulates Escher's love of symmetry; of interlocking patterns; and, at the end of his life, of his approach to infinity.[33][34][35] The care that Escher took in creating and printing this woodcut can be seen in a video recording.[36]
 
@@ -56,7 +54,7 @@ Tessellation
 
 In his early years, Escher sketched landscapes and nature. He also sketched insects such as ants, bees, grasshoppers, and mantises,[49] which appeared frequently in his later work. His early love of Roman and Italian landscapes and of nature created an interest in tessellation, which he called _Regular Division of the Plane_; this became the title of his 1958 book, complete with reproductions of a series of woodcuts based on tessellations of the plane, in which he described the systematic buildup of mathematical designs in his artworks. He wrote, "Mathematicians have opened the gate leading to an extensive domain".[50]
 
-Study_of_Regular_Division_of_the_Plane_with_Reptiles.jpg''.]]
+''.]]
 
 After his 1936 journey to the Alhambra and to La Mezquita, Cordoba, where he sketched the Moorish architecture and the tessellated mosaic decorations,[51] Escher began to explore the properties and possibilities of tessellation using geometric grids as the basis for his sketches. He then extended these to form complex interlocking designs, for example with animals such as birds, fish, and reptiles.[52] One of his first attempts at a tessellation was his pencil, India ink, and watercolour _Study of Regular Division of the Plane with Reptiles_ (1939), constructed on a hexagonal grid. The heads of the red, green, and white reptiles meet at a vertex; the tails, legs, and sides of the animals interlock exactly. It was used as the basis for his 1943 lithograph _Reptiles_.[53]
 
@@ -66,13 +64,13 @@ In 1941 and 1942, Escher summarized his findings for his own artistic use in a s
 
 Geometries
 
-Escher's_Relativity.jpg'', 1953]]
+'', 1953]]
 
 Although Escher did not have mathematical training—his understanding of mathematics was largely visual and intuitive—his art had a strong mathematical component, and several of the worlds that he drew were built around impossible objects. After 1924, Escher turned to sketching landscapes in Italy and Corsica with irregular perspectives that are impossible in natural form. His first print of an impossible reality was _Still Life and Street_ (1937); impossible stairs and multiple visual and gravitational perspectives feature in popular works such as _Relativity_ (1953). _House of Stairs_ (1951) attracted the interest of the mathematician Roger Penrose and his father, the biologist Lionel Penrose. In 1956, they published a paper, "Impossible Objects: A Special Type of Visual Illusion" and later sent Escher a copy. Escher replied, admiring the Penroses' continuously rising flights of steps, and enclosed a print of _Ascending and Descending_ (1960). The paper also contained the tribar or Penrose triangle, which Escher used repeatedly in his lithograph of a building that appears to function as a perpetual motion machine, _Waterfall_ (1961).[61][62][63][64]
 
 Escher was interested enough in Hieronymus Bosch's 1500 triptych _The Garden of Earthly Delights_ to re-create part of its right-hand panel, _Hell_, as a lithograph in 1935. He reused the figure of a Mediaeval woman in a two-pointed headdress and a long gown in his lithograph _Belvedere_ in 1958; the image is, like many of his other "extraordinary invented places",[65] peopled with "jesters, knaves, and contemplators".[66] Thus, Escher not only was interested in possible or impossible geometry but was, in his own words, a "reality enthusiast";[67] he combined "formal astonishment with a vivid and idiosyncratic vision".[68]
 
-Escher_Waterfall.jpg machine with Penrose triangles: _Waterfall_, 1961]]
+machine with Penrose triangles: _Waterfall_, 1961]]
 
 Escher worked primarily in the media of lithographs and woodcuts, although the few mezzotints he made are considered to be masterpieces of the technique. In his graphic art, he portrayed mathematical relationships among shapes, figures, and space. Integrated into his prints were mirror images of cones, spheres, cubes, rings, and spirals.[69]
 
@@ -84,7 +82,7 @@ Escher's interest in curvilinear perspective was encouraged by his friend and "k
 
 Platonic and other solids
 
-Universiteit_Twente_Mesa_Plus_Escher_Object.jpg, as in Escher's 1952 work _Gravitation_ (University of Twente)]]
+, as in Escher's 1952 work _Gravitation_ (University of Twente)]]
 
 Escher often incorporated three-dimensional objects such as the Platonic solids such as spheres, tetrahedrons, and cubes into his works, as well as mathematical objects such as cylinders and stellated polyhedra. In the print _Reptiles_, he combined two- and three-dimensional images. In one of his papers, Escher emphasized the importance of dimensionality:
 
@@ -94,24 +92,24 @@ The two towers of _Waterfall_{{'s}} impossible building are topped with compound
 
 Levels of reality
 
-DrawingHands.jpg'', 1948]]
+'', 1948]]
 
 Escher's artistic expression was created from images in his mind, rather than directly from observations and travels to other countries. His interest in the multiple levels of reality in art is seen in works such as _Drawing Hands_ (1948), where two hands are shown, each drawing the other. The critic Steven Poole commented that
 
 Infinity and hyperbolic geometry
 
-Schattschneider_Reconstruction_of_Escher's_Coxeter_Diagram.jpg's reconstruction of the diagram of hyperbolic tiling sent by Escher to the mathematician H. S. M. Coxeter[81]]]
+'s reconstruction of the diagram of hyperbolic tiling sent by Escher to the mathematician H. S. M. Coxeter[81]]]
 
 In 1954, the International Congress of Mathematicians met in Amsterdam, and N. G. de Bruin organized a display of Escher's work at the Stedelijk Museum for the participants. Both Roger Penrose and H. S. M. Coxeter were deeply impressed with Escher's intuitive grasp of mathematics. Inspired by _Relativity_, Penrose devised his tribar, and his father, Lionel Penrose, devised an endless staircase. Roger Penrose sent sketches of both objects to Escher, and the cycle of invention was closed when Escher then created the perpetual motion machine of _Waterfall_ and the endless march of the monk-figures of _Ascending and Descending_.[82] In 1957, Coxeter obtained Escher's permission to use two of his drawings in his paper "Crystal symmetry and its generalizations".[83][84] He sent Escher a copy of the paper; Escher recorded that Coxeter's figure of a hyperbolic tessellation "gave me quite a shock": the infinite regular repetition of the tiles in the hyperbolic plane, growing rapidly smaller towards the edge of the circle, was precisely what he wanted to allow him to represent infinity on a two-dimensional plane.[85][86]
 
-Escher_Circle_Limit_III.jpg'', 1959]]
+'', 1959]]
 
 Escher carefully studied Coxeter's figure, marking it up to analyse the successively smaller circles with which (he deduced) it had been constructed. He then constructed a diagram, which he sent to Coxeter, showing his analysis; Coxeter confirmed it was correct, but disappointed Escher with his highly technical reply. All the same, Escher persisted with hyperbolic tiling, which he called "Coxetering".[87] Among the results were the series of wood engravings _Circle Limit I–IV_.[88] In 1959, Coxeter published his finding that these works were extraordinarily accurate: "Escher got it absolutely right to the millimeter".[89]
 
 
 Legacy
 
-Gevel_Escher_in_Het_Paleis_300_dpi.jpg in The Hague. The poster shows a detail from _Day and Night_, 1938]]
+in The Hague. The poster shows a detail from _Day and Night_, 1938]]
 
 Escher's special way of thinking and rich graphics have had a continuous influence in mathematics and art, as well as in popular culture.
 
@@ -123,13 +121,13 @@ The primary institutional collections of original works by M.C. Escher are the E
 
 Exhibitions
 
-Escher_Poster_Dulwich_Picture_Gallery_2015.jpg, 14 October 2015 – 17 January 2016). The image is based on _Hand with Reflecting Sphere_, 1935.]]
+, 14 October 2015 – 17 January 2016). The image is based on _Hand with Reflecting Sphere_, 1935.]]
 
 Despite wide popular interest, Escher was for a long time somewhat neglected in the art world; even in his native Netherlands, he was 70 before a retrospective exhibition was held.[94] In the twenty-first century, major exhibitions have been held in cities across the world.[95][96][97] An exhibition of his work in Rio de Janeiro attracted more than 573,000 visitors in 2011;[98] its daily visitor count of 9,677 made it the most visited museum exhibition of the year, anywhere in the world.[99] No major exhibition of Escher's work was held in Britain until 2015, when the Scottish National Gallery of Modern Art ran one in Edinburgh from June to September 2015,[100] moving in October 2015 to the Dulwich Picture Gallery, London.[101] The exhibition moved to Italy in 2015–2016, attracting over 500,000 visitors in Rome and Bologna,[102] and then Milan.[103][104][105]
 
 In mathematics and science
 
-Leeuwarden_-_Tegeltableau_Escher.jpg in Leeuwarden]]
+in Leeuwarden]]
 
 Doris Schattschneider identifies 11 strands of mathematical and scientific research anticipated or directly inspired by Escher. These are the classification of regular tilings using the edge relationships of tiles: two-color and two-motif tilings (counterchange symmetry or antisymmetry); color symmetry (in crystallography); metamorphosis or topological change; covering surfaces with symmetric patterns; Escher's algorithm (for generating patterns using decorated squares); creating tile shapes; local versus global definitions of regularity; symmetry of a tiling induced by the symmetry of a tile; orderliness not induced by symmetry groups; the filling of the central void in Escher's lithograph _Print Gallery_ by H. Lenstra and B. de Smit.[106]
 

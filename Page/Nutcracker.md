@@ -1,9 +1,9 @@
-Nüsse_mit_Nusszange_(Nussknacker)_(11545246275).jpg A NUTCRACKER is a tool designed to open nuts by cracking their shells. There are many designs, including levers, screws, and ratchets. A well-known type portrays a person whose mouth forms the jaws of the nutcracker, though many of these are meant for decoration.
+A NUTCRACKER is a tool designed to open nuts by cracking their shells. There are many designs, including levers, screws, and ratchets. A well-known type portrays a person whose mouth forms the jaws of the nutcracker, though many of these are meant for decoration.
 
 
 Functions
 
-Benutzung_eines_Nussknackers.gif Notenkraker,_Nutcracker_and_walnuts.jpg Heatmaster_Crackerjack_nutcracker_2.JPG Nuts were historically opened using a hammer and anvil, often made of stone.[1] Some nuts such as walnuts can also be opened by hand, by holding the nut in the palm of the hand and applying pressure with the other palm or thumb, or using another nut.[2]
+Nuts were historically opened using a hammer and anvil, often made of stone.[1] Some nuts such as walnuts can also be opened by hand, by holding the nut in the palm of the hand and applying pressure with the other palm or thumb, or using another nut.[2]
 
 Manufacturers produce modern functional nutcrackers usually somewhat resembling pliers, but with the pivot point at the end beyond the nut, rather than in the middle. These are also used for cracking the shells of crab and lobster to make the meat inside available for eating. Hinged lever nutcrackers, often called a "pair of nutcrackers", may date back to Ancient Greece.[3] By the 14th century in Europe, nutcrackers were documented in England, including in the _Canterbury Tales_, and in France.[4] The lever design may derive from blacksmiths' pincers. Materials included metals such as silver, cast-iron and bronze,[5] and wood including boxwood, especially those from France and Italy.[6] More rarely, porcelain was used.[7] Many of the wooden carved nutcrackers were in the form of people and animals.[8]
 
@@ -18,7 +18,7 @@ In the 17th century, screw nutcrackers were introduced that applied more gradual
 
 Decorative
 
-Nutcrackers.jpg NutcrackerCollection.JPG Maurice_Ascalon,_Pal-Bell_Nutcracker.jpg nutcracker by the industrial designer Maurice Ascalon]]
+nutcracker by the industrial designer Maurice Ascalon]]
 
 Nutcrackers in the form of wood carvings of a soldier, knight, king, or other profession have existed since at least the 15th century. Figurative nutcrackers are a good luck symbol in Germany, and a folktale recounts that a puppet-maker won a nutcracking challenge by creating a doll with a mouth for a lever to crack the nuts.[20] These nutcrackers portray a person with a large mouth which the operator opens by lifting a lever in the back of the figurine. Originally one could insert a nut in the big-toothed mouth, press down and thereby crack the nut. Modern nutcrackers in this style serve mostly for decoration, mainly at Christmas time, a season of which they have long been a traditional symbol.[21] The ballet _The Nutcracker_ derives its name from this festive holiday decoration.
 

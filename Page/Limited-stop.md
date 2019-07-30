@@ -5,7 +5,7 @@ The term is normally used on routes with a mixture of fast and slow services, an
 
 Railways
 
-Outbound_MNRR_train_approaching_Fordham_station,_June_2016.jpg On railways, the layout of the tracks and number and length of platforms at stations will normally limit the extent to which a blend of fast/semi-fast/slow services can be operated.
+On railways, the layout of the tracks and number and length of platforms at stations will normally limit the extent to which a blend of fast/semi-fast/slow services can be operated.
 
 In Australia, particularly in Brisbane and Sydney, limited stop services are formed by commuter trains which run as limited stops or express services from the city centre to the edge of the suburban area and then as all stops in the interurban area (an example of such an express pattern can be seen on the Gold Coast line). Same is done in Helsinki, Finland by VR commuter rail.
 

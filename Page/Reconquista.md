@@ -11,7 +11,7 @@ Concept and duration
 
 Since the 19th century traditional historiography has stressed the existence of the _Reconquista_,[4] a continuous phenomenon by which the Christian Iberian kingdoms opposed and conquered the Muslim kingdoms, understood as a common enemy who had militarily seized territory from native Iberian Christians.[5] The concept of a Christian reconquest of the peninsula first emerged, in tenuous form, at the end of the 9th century.[6] A landmark was set by the Christian _Chronica Prophetica_ (883–884), a document stressing the Christian and Muslim cultural and religious divide in Iberia and the necessity to drive the Muslims out.
 
-Almohad1200.pngc Almohad dynasty and surrounding states, including the Christian Kingdoms of Portugal, León, Castile, Navarre, and the Crown of Aragon, c. 1200.]]
+c Almohad dynasty and surrounding states, including the Christian Kingdoms of Portugal, León, Castile, Navarre, and the Crown of Aragon, c. 1200.]]
 
 Both Christian and Muslim rulers fought amongst themselves. Alliances between Muslims and Christians were not uncommon.[7] Blurring distinctions even further were the mercenaries from both sides who simply fought for whoever paid the most. The period is seen today to have had long episodes of relative religious tolerance.[8]
 
@@ -47,7 +47,7 @@ Reconquista
 
 Beginning of the _Reconquista_
 
-Escudo_de_Alcanadre-La_Rioja.svg. La Rioja, Spain. Depicting heads of slain Moors]] A drastic increase of taxes by the emir Anbasa ibn Suhaym Al-Kalbi provoked several rebellions in Al-Andalus, which a series of succeeding weak emirs were unable to suppress. Around 722, a Muslim military expedition was sent into the north in late summer to suppress a rebellion led by Pelagius of Asturias (Pelayo in Spanish, Pelayu in Asturian). Traditional historiography has hailed Pelagius' victory at Covadonga as the beginning of the _Reconquista_. No Muslim source mentions the battle at Covadonga, in contrast with the Battle of Toulouse in 721, with a death toll of perhaps tens of thousands, which was mourned for centuries as a large scale tragedy by the Iberian Muslims. For Pelagius, however, the Christian victory secured his independent rule, while the precise date and circumstances of the battle are unclear. Among the possibilities is that Pelagius' rebellion was successful because the greater part of the Muslim forces were focusing in Septimania and Toulouse (721).
+. La Rioja, Spain. Depicting heads of slain Moors]] A drastic increase of taxes by the emir Anbasa ibn Suhaym Al-Kalbi provoked several rebellions in Al-Andalus, which a series of succeeding weak emirs were unable to suppress. Around 722, a Muslim military expedition was sent into the north in late summer to suppress a rebellion led by Pelagius of Asturias (Pelayo in Spanish, Pelayu in Asturian). Traditional historiography has hailed Pelagius' victory at Covadonga as the beginning of the _Reconquista_. No Muslim source mentions the battle at Covadonga, in contrast with the Battle of Toulouse in 721, with a death toll of perhaps tens of thousands, which was mourned for centuries as a large scale tragedy by the Iberian Muslims. For Pelagius, however, the Christian victory secured his independent rule, while the precise date and circumstances of the battle are unclear. Among the possibilities is that Pelagius' rebellion was successful because the greater part of the Muslim forces were focusing in Septimania and Toulouse (721).
 
 Two northern realms, the Basque Navarre[31] and Asturias, despite their small size, demonstrated an ability to maintain their independence. Because the Umayyad rulers based in Córdoba were unable to extend their power over the Pyrenees, they decided to consolidate their power within the Iberian peninsula. Arab-Berber forces made periodic incursions deep into Asturias, but this area was a _cul-de-sac_ on the fringes of the Islamic world fraught with inconveniences during campaigns and little interest.[32]
 
@@ -75,7 +75,7 @@ In the late 9th century under Count Wilfred, Barcelona became the _de facto_ cap
 
 Expansion into the Crusades and military orders
 
-Cantigas_battle.jpg'']] In the High Middle Ages, the fight against the Moors in the Iberian Peninsula became linked to the fight of the whole of Christendom. The _Reconquista_ was originally a mere war of conquest. It only later underwent a significant shift in meaning toward a religiously justified war of liberation (see the Augustinian concept of a Just War). The papacy and the influential Abbey of Cluny in Burgundy not only justified the acts of war but actively encouraged Christian knights to seek armed confrontation with Moorish "infidels" instead of with each other.
+'']] In the High Middle Ages, the fight against the Moors in the Iberian Peninsula became linked to the fight of the whole of Christendom. The _Reconquista_ was originally a mere war of conquest. It only later underwent a significant shift in meaning toward a religiously justified war of liberation (see the Augustinian concept of a Just War). The papacy and the influential Abbey of Cluny in Burgundy not only justified the acts of war but actively encouraged Christian knights to seek armed confrontation with Moorish "infidels" instead of with each other.
 
 From the 11th century onwards indulgences were granted: In 1064 Pope Alexander II promised the participants of an expedition against Barbastro (_Tagr al-Andalus_, Aragon) a collective indulgence 30 years before Pope Urban II called the First Crusade. Papal interest in Christian-Muslim relations in the peninsula was not without precedent – Popes Leo IV (847–855), John VIII (872–882) and John XIX (1024–33) are all known to have displayed substantial interest in the region. Not until 1095 and the Council of Clermont did the _Reconquista_ amalgamate the conflicting concepts of a peaceful pilgrimage and armed knight-errantry. But the papacy left no doubt about the heavenly reward for knights fighting for Christ (_militia Christi_): in a letter, Urban II tried to persuade the _reconquistadores_ fighting at Tarragona to stay in the Peninsula rather than joining the armed pilgrimage to conquer Jerusalem, saying that their contribution for Christianity was equally important. The pope promised them the same indulgences that he had promised to those who chose to join the First Crusade.
 
@@ -108,7 +108,7 @@ Technological changes
 
 This style of warfare remained dominant in the Iberian Peninsula until the late 11th century, when lance tactics entered from France, although the traditional horse javelin-shot techniques continued to be used. In the 12th and 13th centuries, soldiers typically carried a sword, a lance, a javelin, and either bow and arrows or crossbow and darts/bolts. Armor consisted of a coat of mail over a quilted jacket, extending at least to the knees, a helmet or iron cap, and bracers protecting the arms and thighs, either metal or leather.
 
-Batalla_de_las_Navas_de_Tolosa,_por_Francisco_van_Halen.jpg (13th century), an important turning point of the Reconquista]]
+(13th century), an important turning point of the Reconquista]]
 
 Shields were round or triangular, made of wood, covered with leather, and protected by an iron band; the shields of knights and nobles would bear the family's coat of arms. Knights rode in both the Muslim style, _a la jineta_ (i.e. the equivalent of a modern jockey's seat), a short stirrup strap and bended knees allowed for better control and speed, or in the French style, _a la brida_, a long stirrup strap allowed for more security in the saddle (i.e. the equivalent of the modern cavalry seat, which is more secure) when acting as heavy cavalry. Horses were occasionally fitted with a coat of mail as well.
 
@@ -127,7 +127,7 @@ Pelagius' kingdom initially was little more than a gathering point for the exist
 
 Alfonso's military strategy was typical of Iberian warfare at the time. Lacking the means needed for wholesale conquest of large territories, his tactics consisted of raids in the border regions of Vardulia. With the plunder he gained further military forces could be paid, enabling him to raid the Muslim cities of Lisbon, Zamora, and Coimbra. Alfonso I also expanded his realm westwards conquering Galicia.
 
-Painting_of_Santiago_Matamoros.jpg, depicted as Santiago Matamoros (Santiago the Moor-slayer)]]
+, depicted as Santiago Matamoros (Santiago the Moor-slayer)]]
 
 During the reign of King Alfonso II (791–842), the kingdom was firmly established, and a series of Muslim raids caused the transfer of the Asturian capital to Oviedo. The king is believed to have initiated diplomatic contacts with the kings of Pamplona and the Carolingians, thereby gaining official recognition for his kingdom and his crown from the Pope and Charlemagne.
 
@@ -147,7 +147,7 @@ The conquest of León did not include Galicia which was left to temporary indepe
 
 Kingdom of Castile (1037–1230)
 
-Alfonso_VI_reconquista_Toledo.JPG]] Ferdinand I of León was the leading king of the mid-11th century. He conquered Coimbra and attacked the taifa kingdoms, often demanding the tributes known as parias. Ferdinand's strategy was to continue to demand parias until the taifa was greatly weakened both militarily and financially. He also repopulated the Borders with numerous _fueros_. Following the Navarrese tradition, on his death in 1064 he divided his kingdom between his sons. His son Sancho II of Castile wanted to reunite the kingdom of his father and attacked his brothers, with a young noble at his side: Rodrigo Díaz, later known as El Cid Campeador. Sancho was killed in the siege of Zamora by the traitor Bellido Dolfos (also known as Vellido Adolfo) in 1072. His brother Alfonso VI took over León, Castile and Galicia.
+]] Ferdinand I of León was the leading king of the mid-11th century. He conquered Coimbra and attacked the taifa kingdoms, often demanding the tributes known as parias. Ferdinand's strategy was to continue to demand parias until the taifa was greatly weakened both militarily and financially. He also repopulated the Borders with numerous _fueros_. Following the Navarrese tradition, on his death in 1064 he divided his kingdom between his sons. His son Sancho II of Castile wanted to reunite the kingdom of his father and attacked his brothers, with a young noble at his side: Rodrigo Díaz, later known as El Cid Campeador. Sancho was killed in the siege of Zamora by the traitor Bellido Dolfos (also known as Vellido Adolfo) in 1072. His brother Alfonso VI took over León, Castile and Galicia.
 
 Alfonso VI the Brave gave more power to the _fueros_ and repopulated Segovia, Ávila and Salamanca. Once he had secured the Borders, King Alfonso conquered the powerful Taifa kingdom of Toledo in 1085. Toledo, which was the former capital of the Visigoths, was a very important landmark, and the conquest made Alfonso renowned throughout the Christian world. However, this "conquest" was conducted rather gradually, and mostly peacefully, during the course of several decades. It was not until after sporadic and consistent population resettlements had taken place that Toledo was decisively conquered.
 
@@ -163,7 +163,7 @@ In the 12th century, however, the kingdom contracted to its core, and in 1162 Ki
 
 Kingdom of Aragon (1035–1706)
 
-Jaume_I,_Cantigas_de_Santa_Maria,_s.XIII.jpg]]
+]]
 
 The Kingdom of Aragon started off as an offshoot of the Kingdom of Navarre. It was formed when Sancho III of Navarre decided to divide his large realm among all his sons. Aragon was the portion of the realm which passed to Ramiro I of Aragon, an illegitimate son of Sancho III. The kingdoms of Aragon and Navarre were several times united in personal union until the death of Alfonso the Battler in 1135.
 
@@ -177,7 +177,7 @@ Later on, Ferdinand II of Aragon, married Isabella of Castile, leading to a dyna
 
 Kingdom of Portugal (1139–1910)
 
-GeraldoGeraldesSemPavor.jpg. A Portuguese folk hero with the head of a Moor]]
+. A Portuguese folk hero with the head of a Moor]]
 
 In 1139, after an overwhelming victory in the Battle of Ourique against the Almoravids, Afonso Henriques was proclaimed the first King of Portugal by his troops. According to the legend, Christ announced from heaven Afonso's great deeds, whereby he would establish the first Portuguese Cortes at Lamego and be crowned by the Primate Archbishop of Braga. In the Treaty of Zamora in 1143, Alfonso VII of León and Castile recognized Portuguese independence from the Kingdom of León.
 
@@ -185,7 +185,7 @@ In 1147, Portugal captured Santarém, and seven months later the city of Lisbon 
 
 With Portugal finally recognized as an independent kingdom by its neighbours, Afonso Henriques and his successors, aided by Crusaders and the military monastic orders the Knights Templar, the Order of Aviz or the Order of Saint James, pushed the Moors to the Algarve on the southern coast of Portugal. After several campaigns, the Portuguese part in the _Reconquista_ came to an end with the definitive capture of the Algarve in 1249. With all of Portugal now under the control of Afonso III of Portugal, religious, cultural and ethnic groups became gradually homogenized.
 
-OrderOfCristCross.svg]]
+]]
 
 After the completion of the _Reconquista_, the Portuguese territory was a Roman Catholic realm. Nonetheless, Denis of Portugal carried out a short war with Castile for possession of the towns of Serpa and Moura. After this, Denis avoided war; he signed the Treaty of Alcanizes with Ferdinand IV of Castile in 1297, establishing the present-day borders.
 
@@ -222,7 +222,7 @@ Muslim decline and defeat
 
 Fall of the Caliphate
 
-Batalla_del_Puig_por_Marzal_de_Sas_(1410-20).jpg at El Puig de Santa Maria in 1237]]
+at El Puig de Santa Maria in 1237]]
 
 During the 9th century the Berbers returned to North Africa in the aftermath of revolts. Many governors of large cities distant from the capital, Córdoba, had planned to establish their independence. Then, in 929, the Emir of Córdoba (Abd-ar-Rahman III), the leader of the Umayyad dynasty, declared himself Caliph, independent from the Abbasids in Baghdad. He took all the military, religious, and political power and reorganised the army and the bureaucracy.
 
@@ -234,7 +234,7 @@ The split into the taifa states weakened the Islamic presence, and the Christian
 
 Almoravids
 
-Mapa_reconquista_almohades-en.svg Capture_de_Séville_par_Ferdinand_III.jpg (painted by Francisco Pacheco)]] The Almoravids were a Muslim militia primarily composed of Berber and African Moors, and unlike previous Muslim rulers, they were not so tolerant towards Christians and Jews. Their armies entered the Iberian peninsula on several occasions (1086, 1088, 1093) and defeated King Alfonso at the Battle of Sagrajas in 1086, but initially their purpose was to unite all the taifas into a single Almoravid Caliphate. Their actions halted the southward expansion of the Christian kingdoms. Their only defeat came at Valencia in 1094, due to the actions of El Cid.
+(painted by Francisco Pacheco)]] The Almoravids were a Muslim militia primarily composed of Berber and African Moors, and unlike previous Muslim rulers, they were not so tolerant towards Christians and Jews. Their armies entered the Iberian peninsula on several occasions (1086, 1088, 1093) and defeated King Alfonso at the Battle of Sagrajas in 1086, but initially their purpose was to unite all the taifas into a single Almoravid Caliphate. Their actions halted the southward expansion of the Christian kingdoms. Their only defeat came at Valencia in 1094, due to the actions of El Cid.
 
 Meanwhile, Navarre lost all importance under King Sancho IV, for he lost Rioja to Sancho II of Castile, and nearly became the vassal of Aragon. At his death, the Navarrese chose as their king Sancho Ramírez, King of Aragon, who thus became Sancho V of Navarre and I of Aragon. Sancho Ramírez gained international recognition for Aragon, uniting it with Navarre and expanding the borders south, conquering _Wasqa^(t)_ Huesca deep in the valleys in 1096 and building a fort, El Castellar, 25 km from _Saraqusta^(t)_ Zaragoza.
 
@@ -242,7 +242,7 @@ Catalonia came under intense pressure from the taifas of Zaragoza and Lérida, a
 
 Almohads
 
-La_Rendición_de_Granada_-_Pradilla.jpg]] After a brief period of disintegration (the second Taifa period), the Almohads, the rising power in North Africa, took over most of _Al-Andalus_. However they were decisively defeated at the Battle of Las Navas de Tolosa (1212) by a Christian coalition, losing almost all the remaining lands of _Al-Andalus_ in the following decades. By 1252 only the Kingdom of Granada remained intact but as a vassal state of Castile.
+]] After a brief period of disintegration (the second Taifa period), the Almohads, the rising power in North Africa, took over most of _Al-Andalus_. However they were decisively defeated at the Battle of Las Navas de Tolosa (1212) by a Christian coalition, losing almost all the remaining lands of _Al-Andalus_ in the following decades. By 1252 only the Kingdom of Granada remained intact but as a vassal state of Castile.
 
 Granada War and the end of Muslim rule in Iberia
 
@@ -253,7 +253,7 @@ In 1497 Spanish forces took Melilla, west of Oran, and the island of Djerba, sou
 
 Conversions and expulsions
 
-Higueruela.jpg, Nasrid Sultan of Granada, at the Battle of La Higueruela, 1431]]
+, Nasrid Sultan of Granada, at the Battle of La Higueruela, 1431]]
 
 As elsewhere in the Muslim world, Christians and Jews were allowed to retain their religions, with their own legal systems and courts, by paying a tax, the _jizya_. The penalty for not paying it was imprisonment and death.
 
@@ -268,7 +268,7 @@ Making things more complex were the many former Muslims and Jews known as _Moris
 
 Classifications and later consequences
 
-Pedro_Berruguete_Saint_Dominic_Presiding_over_an_Auto-da-fe_1495.jpg presiding over an _auto-da-fé_, by Pedro Berruguete (around 1495)[55]]] The many advances and retreats created several social types:
+presiding over an _auto-da-fé_, by Pedro Berruguete (around 1495)[55]]] The many advances and retreats created several social types:
 
 -   The _Muladi_: Christians under Islamic rule who converted to Islam after the arrival of the Berbers.
 -   The _Mozarabs_: Christians in Muslim-held lands. Some of them migrated to the north of the peninsula in times of persecution bringing elements of the styles, food and agricultural practices learned from the Andalusians, while they continued practicing their Christianity with older forms of Catholic worship and their own versions of the Latin language.
@@ -279,7 +279,7 @@ Pedro_Berruguete_Saint_Dominic_Presiding_over_an_Auto-da-fe_1495.jpg presiding o
 
 Legacy
 
-Real, legendary, and fictional episodes from the _Reconquista_ are the subject of much of medieval Galician-Portuguese, Spanish, and Catalan literature such as the _cantar de gesta_. Itin_mertola.jpg, Portugal. Converted into a church.]] Some noble genealogies show the close relations (although not very numerous) between Muslims and Christians. For example, Al-Mansur Ibn Abi Aamir, whose rule is considered to have marked the peak of power for Moorish _Al-Andalus_ Iberia, married Abda, daughter of Sancho Garcés II of Navarra, who bore him a son, named Abd al-Rahman and commonly known in a pejorative sense as Sanchuelo (_Little Sancho_; in Arabic: _Shanjoul_).
+Real, legendary, and fictional episodes from the _Reconquista_ are the subject of much of medieval Galician-Portuguese, Spanish, and Catalan literature such as the _cantar de gesta_. , Portugal. Converted into a church.]] Some noble genealogies show the close relations (although not very numerous) between Muslims and Christians. For example, Al-Mansur Ibn Abi Aamir, whose rule is considered to have marked the peak of power for Moorish _Al-Andalus_ Iberia, married Abda, daughter of Sancho Garcés II of Navarra, who bore him a son, named Abd al-Rahman and commonly known in a pejorative sense as Sanchuelo (_Little Sancho_; in Arabic: _Shanjoul_).
 
 After his father's death, Sanchuelo/Abd al-Rahman, as a son of a Christian princess, was a strong contender to take over the ultimate power in Muslim al-Andalus. A hundred years later, King Alfonso VI of Castile, considered among the greatest of the Medieval Spanish kings, designated as his heir his son (also a Sancho) by the refugee Muslim princess Zaida of Seville.
 
@@ -287,7 +287,7 @@ The _Reconquista_ was a war with long periods of respite between the adversaries
 
 Festivals in modern Spain
 
-Filà_mora_Al-Hagamba-Muza_Moros_i_Cristians_Pego.jpg, 2016]] Currently, festivals called _moros y cristianos_ (Castilian), _moros i cristians_ (Catalan), _mouros e cristãos_ (Portuguese) and _mouros e cristiáns_ (Galician), which all mean "Moors and Christians", recreate the fights as colorful parades with elaborate garments and lots of fireworks, especially on the central and southern towns of the Land of Valencia, like Alcoi, Ontinyent or Villena.
+, 2016]] Currently, festivals called _moros y cristianos_ (Castilian), _moros i cristians_ (Catalan), _mouros e cristãos_ (Portuguese) and _mouros e cristiáns_ (Galician), which all mean "Moors and Christians", recreate the fights as colorful parades with elaborate garments and lots of fireworks, especially on the central and southern towns of the Land of Valencia, like Alcoi, Ontinyent or Villena.
 
 Persistent effects
 
@@ -295,7 +295,7 @@ A 2016 study found that the "rate of Reconquest"—how rapidly the Christian fro
 
 Reverberations
 
-Assault-on-Asilah.JPG, in the conquest of Asilah, Morocco, 1471, from the _Pastrana Tapestries_.]] On the conclusion of Iberian victory over the Moors, the Iberian powers, Spain and Portugal didn't stop their warring against the Muslims solely in their homelands—they extended the conflict against Islam overseas. The Spanish under the Habsburg dynasty soon became the champions of Roman Catholicism in Europe and the Mediterranean against the encroaching threat of the Ottoman Empire. In a similar vein, the Portuguese also extended the Reconquista, this time against Muslim states overseas. The conquest of Ceuta marked the beginning of Portuguese expansion into Muslim Africa. Soon, the Portuguese also went into conflict with the Ottoman Caliphate in the Mediterranean[57], Indian Ocean[58] and Southeast Asia as the Portuguese conquered the Ottomans' allies: the Sultanate of Adal in East Africa, the Sultanate of Delhi in South Asia and the Sultanate of Malacca in Southeast Asia.[59] Meanwhile, the Spanish also went to war against the Sultanate of Brunei in Southeast Asia. The Spanish sent expeditions from New Spain (Mexico) to conquer and Christianize the Philippines, then a territory of the Sultanate of Brunei. Brunei itself was assaulted during the Castilian War.[60][61] Spain also went to war against the Sultanates of Sulu, Maguindanao, and Lanao in the Spanish-Moro Conflict.[62] The primary inspiration for these wars against Muslim states overseas was the Reconquista.
+, in the conquest of Asilah, Morocco, 1471, from the _Pastrana Tapestries_.]] On the conclusion of Iberian victory over the Moors, the Iberian powers, Spain and Portugal didn't stop their warring against the Muslims solely in their homelands—they extended the conflict against Islam overseas. The Spanish under the Habsburg dynasty soon became the champions of Roman Catholicism in Europe and the Mediterranean against the encroaching threat of the Ottoman Empire. In a similar vein, the Portuguese also extended the Reconquista, this time against Muslim states overseas. The conquest of Ceuta marked the beginning of Portuguese expansion into Muslim Africa. Soon, the Portuguese also went into conflict with the Ottoman Caliphate in the Mediterranean[57], Indian Ocean[58] and Southeast Asia as the Portuguese conquered the Ottomans' allies: the Sultanate of Adal in East Africa, the Sultanate of Delhi in South Asia and the Sultanate of Malacca in Southeast Asia.[59] Meanwhile, the Spanish also went to war against the Sultanate of Brunei in Southeast Asia. The Spanish sent expeditions from New Spain (Mexico) to conquer and Christianize the Philippines, then a territory of the Sultanate of Brunei. Brunei itself was assaulted during the Castilian War.[60][61] Spain also went to war against the Sultanates of Sulu, Maguindanao, and Lanao in the Spanish-Moro Conflict.[62] The primary inspiration for these wars against Muslim states overseas was the Reconquista.
 
 
 Timeline of major dates

@@ -75,7 +75,7 @@ Associations have been shown between PPI use and an increased risk of pneumonia,
 
 Mechanism of action
 
-Proton_pump_inhibitors_mechanism.svg G_cell_hyperplasia_-_very_high_mag.jpg of the gastric antrum showing G cell hyperplasia, a histomorphologic change seen with PPI use (H&E stain)]] Proton pump inhibitors act by irreversibly blocking the hydrogen/potassium adenosine triphosphatase enzyme system (the H⁺/K⁺ ATPase, or, more commonly, the gastric proton pump) of the gastric parietal cells.[75] The proton pump is the terminal stage in gastric acid secretion, being directly responsible for secreting H⁺ ions into the gastric lumen, making it an ideal target for inhibiting acid secretion.
+of the gastric antrum showing G cell hyperplasia, a histomorphologic change seen with PPI use (H&E stain)]] Proton pump inhibitors act by irreversibly blocking the hydrogen/potassium adenosine triphosphatase enzyme system (the H⁺/K⁺ ATPase, or, more commonly, the gastric proton pump) of the gastric parietal cells.[75] The proton pump is the terminal stage in gastric acid secretion, being directly responsible for secreting H⁺ ions into the gastric lumen, making it an ideal target for inhibiting acid secretion.
 
 Targeting the terminal step in acid production, as well as the irreversible nature of the inhibition, results in a class of drugs that are significantly more effective than H₂ antagonists and reduce gastric acid secretion by up to 99%.
 

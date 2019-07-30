@@ -18,7 +18,7 @@ The state was named after the southern English county of Hampshire by Captain Jo
 
 Geography
 
-National-atlas-new-hampshire.png New_Hampshire_Shaded_Relief_5.jpg Mount_Adams_NH_from_Madison.jpg.]] Lake_Winnipesaukee_and_the_Ossipee_Mountains.jpg and the Ossipee Mountains]]
+.]] and the Ossipee Mountains]]
 
 New Hampshire is part of the six-state New England region. It is bounded by Quebec, Canada, to the north and northwest; Maine and the Atlantic Ocean to the east; Massachusetts to the south; and Vermont to the west. New Hampshire's major regions are the Great North Woods, the White Mountains, the Lakes Region, the Seacoast, the Merrimack Valley, the Monadnock Region, and the Dartmouth-Lake Sunapee area. New Hampshire has the shortest ocean coastline of any U.S. coastal state, with a length of ,[3] sometimes measured as only .[4] New Hampshire was home to the rock formation called the Old Man of the Mountain, a face-like profile in Franconia Notch, until the formation disintegrated in May 2003.
 
@@ -42,7 +42,7 @@ Winter season lengths are projected to decline at ski areas across New Hampshire
 
 Climate
 
-New_Hampshire_Köppen.svg New_hampshire_in_autumn.jpg.]] Winter_in_New_Hampshire.JPG New Hampshire experiences a humid continental climate (Köppen climate classification _Dfa_ in some southern areas, _Dfb_ in most of the state, and _Dfc_ subarctic in some northern highland areas), with warm, humid summers, and long, cold, and snowy winters. Precipitation is fairly evenly distributed all year. The climate of the southeastern portion is moderated by the Atlantic Ocean and averages relatively milder winters (for New Hampshire), while the northern and interior portions experience colder temperatures and lower humidity. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. Average annual snowfall ranges from to over across the state.[13]
+.]] New Hampshire experiences a humid continental climate (Köppen climate classification _Dfa_ in some southern areas, _Dfb_ in most of the state, and _Dfc_ subarctic in some northern highland areas), with warm, humid summers, and long, cold, and snowy winters. Precipitation is fairly evenly distributed all year. The climate of the southeastern portion is moderated by the Atlantic Ocean and averages relatively milder winters (for New Hampshire), while the northern and interior portions experience colder temperatures and lower humidity. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. Average annual snowfall ranges from to over across the state.[13]
 
 Average daytime highs are in the mid 70s°F to low 80s°F (around 24–28 °C) throughout the state in July, with overnight lows in the mid 50s°F to low 60s°F (13–15 °C). January temperatures range from an average high of on the coast to overnight lows below in the far north and at high elevations. Average annual precipitation statewide is roughly with some variation occurring in the White Mountains due to differences in elevation and annual snowfall. New Hampshire's highest recorded temperature was in Nashua on July 4, 1911, while the lowest recorded temperature was atop Mount Washington on January 29, 1934. Mount Washington also saw an unofficial reading on January 22, 1885, which, if made official, would tie the all-time record low for New England (also at Big Black River, Maine, on January 16, 2009, and Bloomfield, Vermont on December 30, 1933).
 
@@ -66,7 +66,7 @@ The National Arbor Day Foundation plant hardiness zone map depicts zones 3, 4, 5
 
 Metropolitan areas
 
-upright=0.75]] Nashua_NH_Main_Street_50.JPG]]
+upright=0.75]] ]]
 
 Metropolitan areas in the New England region are defined by the U.S. Census Bureau as New England City and Town Areas (NECTAs). The following is a list of NECTAs fully or partially in New Hampshire:[18][19]
 
@@ -89,7 +89,7 @@ Metropolitan areas in the New England region are defined by the U.S. Census Bure
 
 History
 
-New_Hampshire_state_coat_of_arms_(illustrated,_1876).jpg Site_of_first_house_in_New_Hampshire,_present_mansion_constructed_in_1750,_by_Gov._W._B._Wentworth_(NYPL_Hades-247509-423903).jpg] Detail_of_Fort_William_and_Mary,_1705.jpg in 1705]] State_of_New_Hampshire.JPG in Berlin]] Various Algonquian-speaking Abenaki tribes, largely divided between the Androscoggin and Pennacook nations, inhabited the area before European settlement.[20] Despite the similar language, they had a very different culture and religion from other Algonquian peoples. English and French explorers visited New Hampshire in 1600–1605, and David Thompson settled at Odiorne's Point in present-day Rye in 1623. The first permanent settlement was at Hilton's Point (present-day Dover). By 1631, the Upper Plantation comprised modern-day Dover, Durham and Stratham; in 1679, it became the "Royal Province". Father Rale's War was fought between the colonists and the Wabanaki Confederacy throughout New Hampshire.
+] in 1705]] in Berlin]] Various Algonquian-speaking Abenaki tribes, largely divided between the Androscoggin and Pennacook nations, inhabited the area before European settlement.[20] Despite the similar language, they had a very different culture and religion from other Algonquian peoples. English and French explorers visited New Hampshire in 1600–1605, and David Thompson settled at Odiorne's Point in present-day Rye in 1623. The first permanent settlement was at Hilton's Point (present-day Dover). By 1631, the Upper Plantation comprised modern-day Dover, Durham and Stratham; in 1679, it became the "Royal Province". Father Rale's War was fought between the colonists and the Wabanaki Confederacy throughout New Hampshire.
 
 New Hampshire was one of the thirteen colonies that rebelled against British rule during the American Revolution. By the time of the American Revolution, New Hampshire was a divided province. The economic and social life of the Seacoast region revolved around sawmills, shipyards, merchants' warehouses, and established village and town centers. Wealthy merchants built substantial homes, furnished them with the finest luxuries, and invested their capital in trade and land speculation. At the other end of the social scale, there developed a permanent class of day laborers, mariners, indentured servants and even slaves.
 
@@ -104,15 +104,11 @@ Starting in 1952, New Hampshire gained national and international attention for 
 
 Demographics
 
-New_Hampshire_population_map.png
-
 Population
 
 The United States Census Bureau estimates the population of New Hampshire was 1,356,458 on July 1, 2018, a 3.04% increase since the 2010 United States Census.[22] The center of population of New Hampshire is in Merrimack County, in the town of Pembroke.[23] The center of population has moved south since 1950,[24] a reflection of the fact the state's fastest growth has been along its southern border, which is within commuting range of Boston and other Massachusetts cities.
 
 The most densely populated areas generally lie within of the Massachusetts border, and are concentrated in two areas: along the Merrimack River Valley running from Concord to Nashua, and in the Seacoast Region along an axis stretching from Rochester to Portsmouth. Outside of those two regions, only one community, the city of Keene, has a population over 20,000. The four counties covering these two areas account for 72% of the state population, and one (Hillsborough) has nearly 30% of the state population, as well as the two most populous communities, Manchester and Nashua. The northern portion of the state is very sparsely populated: the largest county by area, Coos, covers the northern 1/4 of the state and has only around 31,000 people, about a third of whom live in a single community (Berlin). The trends over the past several decades have been for the population to shift southward, as many northern communities lack the economic base to maintain their populations, while southern communities have been absorbed by the Greater Boston metropolis.
-
-NH_ancestry.png
 
 As of the 2010 Census, the population of New Hampshire was 1,316,470. The gender makeup of the state was 49.3% male and 50.7% female. 21.8% of the population were under the age of 18; 64.6% were between the ages of 18 and 64; and 13.5% were 65 years of age or older.[25]
 
@@ -219,7 +215,7 @@ New Hampshire's state government employs approximately 6,100 people. Additionall
 
 Law and government
 
-Concord_New_Hampshire_state_house_20041229.jpg in Concord]]
+in Concord]]
 
 The governor of New Hampshire, since January 5, 2017, is Chris Sununu (Republican). New Hampshire's two U.S. senators are Jeanne Shaheen and Maggie Hassan (both Democrats), both of whom are former governors. New Hampshire's two U.S. representatives as of January 2019 are Chris Pappas and Ann McLane Kuster (both Democrats).
 
@@ -255,7 +251,7 @@ As of February 5, 2016, there were 882,959 registered voters, of whom 389,472 (4
 
 New Hampshire primary
 
-Alumni_Hall_1889_Sun.jpg has held several national debates on campus.]]
+has held several national debates on campus.]]
 
 New Hampshire is internationally known for the New Hampshire primary, the first primary in the quadrennial American presidential election cycle. State law requires that the Secretary of State schedule this election at least one week before any "similar event". However, the Iowa caucus has preceded the New Hampshire primary. This primary, as the nation's first contest that uses the same procedure as the general election, draws more attention than those in other states, and it has been decisive in shaping the national contest.
 
@@ -267,7 +263,7 @@ Saint Anselm College in Goffstown has become a popular campaign spot for politic
 
 Elections
 
-Dartmouth_College_campus_-_Democratic_Presidential_Candidates_Debate_51.jpg In the past, New Hampshire has often voted Republican. Between 1856 and 1988, New Hampshire cast its electoral votes for the Democratic presidential ticket six times: Woodrow Wilson (twice), Franklin D. Roosevelt (three times), and Lyndon B. Johnson (once).
+In the past, New Hampshire has often voted Republican. Between 1856 and 1988, New Hampshire cast its electoral votes for the Democratic presidential ticket six times: Woodrow Wilson (twice), Franklin D. Roosevelt (three times), and Lyndon B. Johnson (once).
 
 Beginning in 1992, New Hampshire became a swing state in both national and local elections. The state supported Democrats Bill Clinton in 1992 and 1996, John Kerry in 2004, Barack Obama in 2008 and 2012, and Hillary Clinton in 2016. It was the only state in the country to switch from supporting Republican George W. Bush in the 2000 election to supporting his Democratic challenger in the 2004 election, when John Kerry, a senator from neighboring Massachusetts, won the state. Donald Trump very narrowly lost the state in 2016.
 
@@ -290,15 +286,15 @@ Highways
 
 New Hampshire has a well-maintained, well-signed network of Interstate highways, U.S. highways, and state highways. State highway markers still depict the Old Man of the Mountain despite that rock formation's demise in 2003. Several route numbers align with the same route numbers in neighboring states. State highway numbering does not indicate the highway's direction. Major routes include:
 
--   I-89.svg Interstate 89 runs northwest from near Concord to Lebanon on the Vermont border.
--   I-93.svg Interstate 93 is the main Interstate highway in New Hampshire and runs north from Salem (on the Massachusetts border) to Littleton (on the Vermont border). I-93 connects the more densely populated southern part of the state to the Lakes Region and the White Mountains further to the north.
--   I-95.svg Interstate 95 runs north–south briefly along New Hampshire's seacoast to serve the city of Portsmouth, before entering Maine
--   US_1.svg U.S. Route 1 runs north–south briefly along New Hampshire's seacoast to the east of and paralleling I-95.
--   US_2.svg U.S. Route 2 runs east–west through Coos County from Maine, intersecting Route 16, skirting the White Mountain National Forest passing through Jefferson and into Vermont.
--   US_3.svg U.S. Route 3 is the longest numbered route in the state, and the only one to run completely through the state from the Massachusetts border to the Canada–US border. It generally parallels Interstate 93. South of Manchester, it takes a more westerly route through Nashua. North of Franconia Notch, U.S. 3 takes a more easterly route, before terminating at the Canada–US border.
--   US_4.svg U.S. Route 4 terminates at the Portsmouth Traffic Circle and runs east–west across the southern part of the state connecting Durham, Concord, Boscawen and Lebanon.
--   NH_Route_16.svg New Hampshire Route 16 is a major north–south highway in the eastern part of the state that generally parallels the border with Maine, eventually entering Maine as Maine Route 16. The southernmost portion of NH 16 is a four-lane freeway, co-signed with U.S. Route 4.
--   NH_Route_101.svg New Hampshire Route 101 is a major east–west highway in the southern part of the state that connects Keene with Manchester and the Seacoast region. East of Manchester, NH 101 is a four-lane, limited access highway that runs to Hampton Beach and I-95.
+-   Interstate 89 runs northwest from near Concord to Lebanon on the Vermont border.
+-   Interstate 93 is the main Interstate highway in New Hampshire and runs north from Salem (on the Massachusetts border) to Littleton (on the Vermont border). I-93 connects the more densely populated southern part of the state to the Lakes Region and the White Mountains further to the north.
+-   Interstate 95 runs north–south briefly along New Hampshire's seacoast to serve the city of Portsmouth, before entering Maine
+-   U.S. Route 1 runs north–south briefly along New Hampshire's seacoast to the east of and paralleling I-95.
+-   U.S. Route 2 runs east–west through Coos County from Maine, intersecting Route 16, skirting the White Mountain National Forest passing through Jefferson and into Vermont.
+-   U.S. Route 3 is the longest numbered route in the state, and the only one to run completely through the state from the Massachusetts border to the Canada–US border. It generally parallels Interstate 93. South of Manchester, it takes a more westerly route through Nashua. North of Franconia Notch, U.S. 3 takes a more easterly route, before terminating at the Canada–US border.
+-   U.S. Route 4 terminates at the Portsmouth Traffic Circle and runs east–west across the southern part of the state connecting Durham, Concord, Boscawen and Lebanon.
+-   New Hampshire Route 16 is a major north–south highway in the eastern part of the state that generally parallels the border with Maine, eventually entering Maine as Maine Route 16. The southernmost portion of NH 16 is a four-lane freeway, co-signed with U.S. Route 4.
+-   New Hampshire Route 101 is a major east–west highway in the southern part of the state that connects Keene with Manchester and the Seacoast region. East of Manchester, NH 101 is a four-lane, limited access highway that runs to Hampton Beach and I-95.
 
 Air
 
@@ -323,7 +319,7 @@ Freight railways in New Hampshire include Claremont & Concord Railroad (CCRR), P
 
 Education
 
-BakerLibrary.jpg's Baker Library]] T-Hall2.jpg, was built in 1892.]]
+'s Baker Library]] , was built in 1892.]]
 
 High schools
 

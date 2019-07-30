@@ -9,7 +9,7 @@ PEI is located about north of Halifax, Nova Scotia, and east of Quebec City and 
 
 Etymology
 
-Scriven_Prince_Edward.jpg, after W. Beechey's portrait]]
+, after W. Beechey's portrait]]
 
 In 1798, the British named the island colony for Prince Edward, Duke of Kent and Strathearn (1767–1820), the fourth son of King George III and the father of Queen Victoria. Prince Edward has been called "Father of the Canadian Crown".[6] The following island landmarks are also named after the Duke of Kent:
 
@@ -24,13 +24,13 @@ In French, the island is today called _Île-du-Prince-Édouard_, but its former 
 
 Geography
 
-Day256jgreenwichd.JPG in Prince Edward Island National Park in Greenwich]]
+in Prince Edward Island National Park in Greenwich]]
 
 Prince Edward Island is located in the Gulf of St. Lawrence, west of Cape Breton Island, north of the Nova Scotia peninsula, and east of New Brunswick. Its southern shore bounds the Northumberland Strait. The island has two urban areas. The larger surrounds Charlottetown Harbour, situated centrally on the island's southern shore, and consists of the capital city Charlottetown, and suburban towns Cornwall and Stratford and a developing urban fringe. A much smaller urban area surrounds Summerside Harbour, situated on the southern shore west of Charlottetown Harbour, and consists primarily of the city of Summerside. As with all natural harbours on the island, Charlottetown and Summerside harbours are created by rias.
 
 The island's landscape is pastoral. Rolling hills, woods, reddish white sand beaches, ocean coves and the famous red soil have given Prince Edward Island a reputation as a province of outstanding natural beauty. The provincial government has enacted laws to preserve the landscape through regulation, although there is a lack of consistent enforcement, and an absence of province-wide zoning and land-use planning. Under the Planning Act of the province, municipalities have the option to assume responsibility for land-use planning through the development and adoption of official plans and land use bylaws. Thirty-one municipalities have taken responsibility for planning. In areas where municipalities have not assumed responsibility for planning, the Province remains responsible for development control.
 
-Dunes_on_PEI.jpg]]
+]]
 
 The island's lush landscape has a strong bearing on its economy and culture. The author Lucy Maud Montgomery drew inspiration from the land during the late Victorian Era for the setting of her classic novel _Anne of Green Gables_ (1908). Today, many of the same qualities that Montgomery and others found in the island are enjoyed by tourists who visit year-round. They enjoy a variety of leisure activities, including beaches, various golf courses, eco-tourism adventures, touring the countryside, and enjoying cultural events in local communities around the island.
 
@@ -42,15 +42,13 @@ Large dune fields on the north shore can be found on barrier islands at the entr
 
 Despite Prince Edward Island's small size and reputation as a largely rural province, it is the most densely populated province in Canada.
 
-Prince_Edward_Island_location_in_the_Maritimes.svg
-
 Climate
 
 The climate of the island is considered to be moderate and strongly influenced by the surrounding seas.[7][8] As such, it is milder than inland locations owing to the warm waters from the Gulf of St. Lawrence.[9] The climate is characterized by changeable weather throughout the year; it has some of the most variable day-to-day weather in Canada, in which specific weather conditions seldom last for long.[10]
 
-Cavendish_beach_with_bluffs06.JPG]] During July and August, the average daytime high in PEI is ; however, the temperature can sometimes exceed during these months. In the winter months of January and February, the average daytime high is . The Island receives an average yearly rainfall of and an average yearly snowfall of .
+]] During July and August, the average daytime high in PEI is ; however, the temperature can sometimes exceed during these months. In the winter months of January and February, the average daytime high is . The Island receives an average yearly rainfall of and an average yearly snowfall of .
 
-Bye_Bye_PEI_(208645591).jpg Winters are moderately cold and long but are milder than inland locations, with clashes of cold Arctic air and milder Atlantic air causing frequent temperature swings.[11] The climate is considered to be more continental than oceanic since the Gulf of St. Lawrence freezes over, thus eliminating any moderation.[12] The mean temperature is in January.[13] During the winter months, the island usually has many storms (which may produce rain as well as snow) and blizzards since during this time, storms originating from the North Atlantic or the Gulf of Mexico frequently pass through.[14] Springtime temperatures typically remain cool until the sea ice has melted, usually in late April or early May.
+Winters are moderately cold and long but are milder than inland locations, with clashes of cold Arctic air and milder Atlantic air causing frequent temperature swings.[11] The climate is considered to be more continental than oceanic since the Gulf of St. Lawrence freezes over, thus eliminating any moderation.[12] The mean temperature is in January.[13] During the winter months, the island usually has many storms (which may produce rain as well as snow) and blizzards since during this time, storms originating from the North Atlantic or the Gulf of Mexico frequently pass through.[14] Springtime temperatures typically remain cool until the sea ice has melted, usually in late April or early May.
 
 Summers are moderately warm, but rarely uncomfortable, with the daily maximum temperature only occasionally reaching as high as . Autumn is a pleasant season, as the moderating Gulf waters delay the onset of frost, although storm activity increases compared to the summer. There is ample precipitation throughout the year, although it is heaviest in the late autumn, early winter and mid spring.
 
@@ -83,7 +81,7 @@ Some species are unique to the province. In 2008, a new ascomycete species, _Jah
 
 History
 
-panmure_island_lighthouse.JPG]]
+]]
 
 Since before the influx of Europeans, the Mi'kmaq First Nations have inhabited Prince Edward Island as part of the region of Mi'kma'ki. They named the Island _Epekwitk_, meaning "cradled on the waves"; Europeans represented the pronunciation as _Abegweit_.[38] Another name is _Minegoo_.[39] The Mi'kmaq's legend is that the island was formed by the Great Spirit placing on the Blue Waters some dark red crescent-shaped clay.[40] There are two Mi'kmaq First Nation communities on Epekwitk today.[41]
 
@@ -95,7 +93,7 @@ Battle at Port-la-Joye (1745)
 
 After capturing Louisbourg during the War of the Austrian Succession, the New Englanders also attacked Île Saint-Jean (Prince Edward Island). An English detachment landed at Port-la-Joye. Under the command of Joseph du Pont Duvivier, the French had a garrison of 20 French troops at Port-la-Joye.[43] The troops fled and New Englanders burned the capital to the ground. Duvivier and the twenty men retreated up the Northeast River (Hillsborough River), pursued by the New Englanders until the French troops received reinforcements from the Acadian militia and the Mi'kmaq.[44]
 
-The French troops and their allies were able to drive the New Englanders to their boats. Nine New Englanders were killed, wounded or made prisoner. The New Englanders took six Acadian hostages, who would be executed if the Acadians or Mi'kmaq rebelled against New England control.[45] The New England troops left for Louisbourg. Duvivier and his 20 troops left for Quebec. After the fall of Louisbourg, the resident French population of Île Royale were deported to France. The Acadians of Île Saint-Jean lived under the threat of deportation for the remainder of the war.[46] Marquis_de_Boishébert_-_Charles_Deschamps_de_Boishébert_et_de_Raffetot_(1753)_McCord_Museum_McGill.jpg]]
+The French troops and their allies were able to drive the New Englanders to their boats. Nine New Englanders were killed, wounded or made prisoner. The New Englanders took six Acadian hostages, who would be executed if the Acadians or Mi'kmaq rebelled against New England control.[45] The New England troops left for Louisbourg. Duvivier and his 20 troops left for Quebec. After the fall of Louisbourg, the resident French population of Île Royale were deported to France. The Acadians of Île Saint-Jean lived under the threat of deportation for the remainder of the war.[46] ]]
 
 Battle at Port-la-Joye (1746)
 
@@ -131,8 +129,6 @@ Confederation
 
 In September 1864, Prince Edward Island hosted the Charlottetown Conference, which was the first meeting in the process leading to the Quebec Resolutions and the creation of Canada in 1867. Prince Edward Island did not find the terms of union favourable and balked at joining in 1867, choosing to remain a colony of the United Kingdom. In the late 1860s, the colony examined various options, including the possibility of becoming a discrete dominion unto itself, as well as entertaining delegations from the United States, who were interested in Prince Edward Island joining the United States.
 
-PrinceEdwardIsland_map_1874.jpg
-
 In 1871, the colony began construction of a railway and, frustrated by Great Britain's Colonial Office, began negotiations with the United States. In 1873, Canadian Prime Minister Sir John A. Macdonald, anxious to thwart American expansionism and facing the distraction of the Pacific Scandal, negotiated for Prince Edward Island to join Canada. The Dominion Government of Canada assumed the colony's extensive railway debts and agreed to finance a buy-out of the last of the colony's absentee landlords to free the island of leasehold tenure and from any new immigrants entering the island (accomplished through the passage of the _Land Purchase Act, 1875_).[57] Prince Edward Island entered Confederation on July 1, 1873.[58]
 
 As a result of having hosted the inaugural meeting of Confederation, the Charlottetown Conference, Prince Edward Island presents itself as the "Birthplace of Confederation" and this is commemorated through several buildings, a ferry vessel, and the Confederation Bridge (constructed 1993 to 1997). The most prominent building in the province honouring this event is the Confederation Centre of the Arts, presented as a gift to Prince Edward Islanders by the 10 provincial governments and the Federal Government upon the centenary of the Charlottetown Conference, where it stands in Charlottetown as a national monument to the "Fathers of Confederation". The Centre is one of the 22 National Historic Sites of Canada located in Prince Edward Island.[59][60]
@@ -146,7 +142,7 @@ _Source: Statistics Canada_[64][65]
 
 Language
 
-Ile-du-Prince-Edouard_langues.png.]]
+.]]
 
 The Canada 2016 Census showed a population of 142,910. Of the 140,020 singular responses to the census question concerning mother tongue, the most commonly reported languages were as follows:
 
@@ -176,13 +172,11 @@ Traditionally the population has been evenly divided between Catholic and Protes
 
 Economy
 
-prince_edward_island_fish.jpg peiredcliff.JPG cliffs at North Cape shrouded in fog]] Landscape_of_PEI.jpg The provincial economy is dominated by the seasonal industries of agriculture, tourism, and the fishery. The province is limited in terms of heavy industry and manufacturing, though Cavendish Farms runs extensive food manufacturing operations on PEI.
+cliffs at North Cape shrouded in fog]] The provincial economy is dominated by the seasonal industries of agriculture, tourism, and the fishery. The province is limited in terms of heavy industry and manufacturing, though Cavendish Farms runs extensive food manufacturing operations on PEI.
 
 Agriculture remains the dominant industry in the provincial economy, as it has since colonial times. The Island has a total land area of with approximately cleared for agricultural use.[68] In 2006, the Census of Agriculture counted 1700 farms on the Island.[69] During the 20th century, potatoes replaced mixed farming as the leading cash crop, accounting for one-third of provincial farm income. The number of acres under potato production in 2010 was 88,000,[70] while soy accounted for 55,000.[71] There are approximately 330 potato growers on PEI, with the grand majority of these being family farms, often with multiple generations working together.[72] The province currently accounts for a third of Canada's total potato production, producing approximately annually.[73] Comparatively, the state of Idaho produces approximately annually, with a population approximately 9.5 times greater.[74] The province is a major producer of seed potatoes, exporting to more than twenty countries around the world.[75] An estimated total of 70% of the land is cultivated and 25% of all potatoes grown in Canada originate from P.E.I.[76] The processing of frozen fried potatoes, green vegetables, and berries is a leading business activity.[77]
 
 As a legacy of the island's colonial history, the provincial government enforces extremely strict rules for non-resident land ownership, especially since the PEI _Lands Protection Act_ of 1982.[78] Residents and corporations are limited to maximum holdings of 400 and 1,200 hectares respectively. There are also restrictions on non-resident ownership of shorelines.[79]
-
-prince_edward_island_farm_rainbow.JPG
 
 The island's economy has grown significantly over the last decade in key areas of innovation. Aerospace, bioscience, information and communications technology, and renewable energy have been a focus for growth and diversification. Aerospace alone now accounts for over 25% of the province's international exports and is the island's fourth largest industry at $355 million in annual sales. The bioscience industry employs over 1,300 people and generates over $150 million in sales.[80]
 
@@ -221,8 +215,6 @@ The Mi'kmaq Confederacy of PEI is the tribal council and provincial-territorial 
 
 Municipalities
 
-PEI-basemap.png
-
 [TABLE]
 
 : Ten largest communities by population
@@ -230,13 +222,13 @@ PEI-basemap.png
 
 Transportation
 
-CardiganRiver_2008.jpg]]
+]]
 
 Prince Edward Island's transportation network has traditionally revolved around its seaports of Charlottetown, Summerside, Borden, Georgetown, and Souris —linked to its railway system, and the two main airports in Charlottetown and Summerside, for communication with mainland North America. The railway system was abandoned by CN in 1989 in favour of an agreement with the federal government to improve major highways.
 
 Until 1997, the province was linked by two passenger-vehicle ferry services to the mainland: one, provided by Marine Atlantic, operated year-round between Borden and Cape Tormentine, New Brunswick; the other, provided by Northumberland Ferries Limited, operates seasonally between Wood Islands and Caribou, Nova Scotia. A third ferry service provided by CTMA operates all year round with seasonal times between Souris and Cap-aux-Meules, Quebec, in the Magdalen Islands.
 
-Confederation_Bridge_from_Prince_Edward_Island_16x9.jpg On June 1, 1997, the Confederation Bridge opened, connecting Borden-Carleton to Cape Jourimain, New Brunswick. The world's longest bridge over ice-covered waters,[105] it replaced the Marine Atlantic ferry service. Since then, the Confederation Bridge's assured transportation link to the mainland has altered the province's tourism and agricultural and fisheries export economies.
+On June 1, 1997, the Confederation Bridge opened, connecting Borden-Carleton to Cape Jourimain, New Brunswick. The world's longest bridge over ice-covered waters,[105] it replaced the Marine Atlantic ferry service. Since then, the Confederation Bridge's assured transportation link to the mainland has altered the province's tourism and agricultural and fisheries export economies.
 
 Several airlines service the Charlottetown Airport (CYYG); the Summerside Airport (CYSU) is an additional option for general aviation.
 
@@ -249,7 +241,7 @@ There is an extensive bicycling and hiking trail that spans the island. The Conf
 
 Education
 
-Holland_College_Prince_Edward_Island.jpg]] Prince Edward Island is home to one university, the University of Prince Edward Island (UPEI), located in the city of Charlottetown.
+]] Prince Edward Island is home to one university, the University of Prince Edward Island (UPEI), located in the city of Charlottetown.
 
 The university was created by the Island legislature to replace Prince of Wales College and St. Dunstan's University. UPEI is also home to the Atlantic Veterinary College, which offers the region's only veterinary medicine program.
 
@@ -264,7 +256,7 @@ Today 23.5 per cent of residents aged 15 to 19 have bilingual skills, an increas
 
 Health care
 
-Newglasgowpano2.jpg]] Prince_edward_island_cavendish_red_cliffs.JPG
+]]
 
 The province has a single health administrative region (or district health authority) called Health PEI. Health PEI receives funding for its operations and is regulated by the Department of Health and Wellness.
 
@@ -298,8 +290,6 @@ Prince Edward Island is the only province in Canada that does not provide aborti
 
 
 Culture
-
-prince_edward_island_sandstone_arch.jpg
 
 Arts
 

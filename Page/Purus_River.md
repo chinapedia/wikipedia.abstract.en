@@ -9,8 +9,6 @@ In the state of Amazonas the river runs through the Arapixi Extractive Reserve, 
 
 William Chandless found its elevation above sea level to be only 107 feet (33 m) 590 miles (950 km) from its mouth. It is one of the most crooked streams in the world, and its length in a straight line is less than half of its length following its curves. It is practically only a drainage ditch for the half-submerged, lake-flooded district it crosses. Its width is very uniform for 1000 miles (1600 km) up, and for 800 miles (1300 km) its depth is never less than 45 feet (15 m).
 
-Purus_Red_Howler_Monkey.jpg
-
 
 Biodiversity
 

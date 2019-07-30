@@ -1,4 +1,4 @@
-Democracy_and_Education_title_page.jpg A MANIFESTO is a published declaration of the intentions, motives, or views of the issuer, be it an individual, group, political party or government.[1][2][3][4] A manifesto usually accepts a previously published opinion or public consensus or promotes a new idea with prescriptive notions for carrying out changes the author believes should be made. It often is political or artistic in nature, but may present an individual's life stance. Manifestos relating to religious belief are generally referred to as creeds.
+A MANIFESTO is a published declaration of the intentions, motives, or views of the issuer, be it an individual, group, political party or government.[1][2][3][4] A manifesto usually accepts a previously published opinion or public consensus or promotes a new idea with prescriptive notions for carrying out changes the author believes should be made. It often is political or artistic in nature, but may present an individual's life stance. Manifestos relating to religious belief are generally referred to as creeds.
 
 
 Etymology
@@ -83,8 +83,6 @@ Examples of notable manifestos:
 -   _The Great Replacement_ (2018) by Brenton Harrison Tarrant
 
 Artistic
-
-Premiere_manifeste_de_la_Revue_de_stijl.JPG
 
 -   _The Symbolist Manifesto_ (1886), by Jean Moreas
 -   _The Futurist Manifesto_ (1909), by Filippo Tommaso Marinetti

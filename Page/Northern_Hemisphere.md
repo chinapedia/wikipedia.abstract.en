@@ -1,4 +1,4 @@
-Global_hemispheres.svg not being shown, but in reality are the same size.]] Northern_Hemisphere_Azimuthal_projections.svg]]
+not being shown, but in reality are the same size.]] ]]
 
 The NORTHERN HEMISPHERE is the half of Earth that is north of the Equator. For other planets in the Solar System, north is defined as being in the same celestial hemisphere relative to the invariable plane of the solar system as Earth's North Pole.[1]
 

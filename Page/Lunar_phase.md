@@ -1,4 +1,4 @@
-Moon_Phases_2019_-_Southern_Hemisphere_-_4K.webm Moondrop.jpg (Big Bear Mountain}, in mid summer, and appears almost transparent]]
+(Big Bear Mountain}, in mid summer, and appears almost transparent]]
 
 The LUNAR PHASE or PHASE OF THE MOON is the shape of the directly sunlit portion of the Moon as viewed from Earth. The lunar phases gradually and cyclically change over the period of a synodic month (about 29.53 days), as the orbital positions of the Moon around Earth and of Earth around the Sun shift.
 
@@ -17,7 +17,7 @@ The eight principal and intermediate phases are given the following names, in se
 
 : Principal and intermediate phases of the Moon
 
-Moon_phases_en.jpg. Each phase would be rotated 180° if seen looking northward from the Southern Hemisphere. The upper part of the diagram is not to scale, as the Moon is much farther from Earth than shown here.]] Expedition_24_Crescent_Moon.jpg crew member.]] The_Moon's_Phases_as_Seen_from_Space.ogv
+. Each phase would be rotated 180° if seen looking northward from the Southern Hemisphere. The upper part of the diagram is not to scale, as the Moon is much farther from Earth than shown here.]] crew member.]]
 
 Non-Western cultures may use a different number of lunar phases; for example, traditional Hawaiian culture has a total of 30 phases (one per day).[1]
 
@@ -39,14 +39,10 @@ The lunar crescent can open upward or downward, with the "horns" of the crescent
 
 Earthshine
 
-Earthshine-1.jpg
-
 When the Moon as seen from Earth is a narrow crescent, Earth as viewed from the Moon is almost fully lit by the Sun. Often, the dark side of the Moon is dimly illuminated by indirect sunlight reflected from Earth, but is bright enough to be easily visible from Earth. This phenomenon is called earthshine and sometimes picturesquely described as "the old moon in the new moon's arms" or "the new moon in the old moon's arms".
 
 
 Calendar
-
-Moon_phase_calendar_May2005.jpg
 
 The Gregorian calendar month, which is of a tropical year, is about 30.44 days, while the cycle of lunar phases (the Moon's synodic period) repeats every 29.53 days on average. Therefore, the timing of the lunar phases shifts by an average of almost one day for each successive month. (A lunar year lasts about 354 days.)
 
@@ -57,7 +53,7 @@ Similarly, on a calendar listing moonrise or moonset times, some days will appea
 
 Calculating phase
 
-BethinAZ_-_10-13.002_(by).jpg.]] Each of the 4 lunar phases lasts approximately 7 days (~7.4 days), but varies slightly due to lunar apogee and perigee.
+.]] Each of the 4 lunar phases lasts approximately 7 days (~7.4 days), but varies slightly due to lunar apogee and perigee.
 
 The number of days counted from the time of the New Moon is the Moon's "age". Each complete cycle of phases is called a "lunation".[4]
 
@@ -70,8 +66,6 @@ The Earth subtends an angle of about two degrees, when seen from the Moon. This 
 
 
 Misconceptions
-
-Orbit_of_the_Moon_in_2013.ogv
 
 It might be expected that once every month, when the Moon passes between Earth and the Sun during a new moon, its shadow would fall on Earth causing a solar eclipse, but this does not happen every month. Nor is it true that during every full moon, the Earth's shadow falls on the Moon, causing a lunar eclipse. Solar and lunar eclipses are not observed _every_ month because the plane of the Moon's orbit around the Earth is tilted by about 5° with respect to the plane of Earth's orbit around the Sun (the plane of the ecliptic). Thus, when new and full moons occur, the Moon usually lies to the north or south of a direct line through the Earth and Sun. Although an eclipse can only occur when the Moon is either new (solar) or full (lunar), it must also be positioned very near the intersection of Earth's orbital plane about the Sun and the Moon's orbital plane about the Earth (that is, at one of its nodes). This happens about twice per year, and so there are between four and seven eclipses in a calendar year. Most of these eclipses are partial; total eclipses of the Moon or Sun are less frequent.
 

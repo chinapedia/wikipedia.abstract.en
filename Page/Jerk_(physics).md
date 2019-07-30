@@ -117,7 +117,7 @@ Another example of significant jerk, analogous to the first setting, is given by
 
 In rotation
 
-Animiertes_Prinzip_Malteserkreuzgetriebe_3D.gif in operation]] Chronogrammes_croix_malte_4_branches_complet.svg
+in operation]]
 
 Consider a rotational movement of a rigid body about a fixed axis in an inertial frame. The orientation of the solid can be expressed by an angle θ, the angular position, from which one can express:
 
@@ -154,11 +154,7 @@ In elastically deformable matter
 
 A force/acceleration acting on an elastically deformable mass will affect a deformation which depends on its stiffness and the acceleration applied. If the change of this force is slow, the jerk is small, and the propagation of this deformation through the body may be considered instantaneously compared to the change in acceleration. The distorted body acts as if it were in a quasi-static regime. It is the common thread that only a changing force, i.e. a non-zero jerk, can cause mechanical (or on a charged particle: electromagnetic) waves to be radiated. So for non-zero to high jerk a shock wave and its propagation through the body is to be considered. The left picture shows the propagation of a deformation as a compressional, plane wave through an elastically deformable material. For angular jerk the deformation waves are arranged circularly and cause shear stress as shown in the adjacent picture, which also might cause other modes of vibration. As usual with waves, one has to consider their reflections along all boundaries and the emerging interference patterns, i.e. destructive as well as constructive interference, which may lead to exceeding boundaries of structural integrity. As a rough estimate the deformation waves result in vibrations of the whole device and, generally, vibrations cause noise, wear, and, especially in resonance cases, even disruption.
 
-Acceleration_et_deformation_elastique.svg
-
 The picture to the left shows a massive top bending the elastic pole, to which it is connected, to the left, when the bottom block is accelerated to the right. When the block stops accelerating, the top on the pole will start a (damped) oscillation under the regime of the stiffness of the pole. This could make plausible, how a bigger (periodic) jerk might excite a bigger amplitude of the oscillations, because any small oscillations are damped before they get reinforced by another amplitude of the shock wave.
-
-Chronogrammes_loi_sinusoidale_par_partie_en_vitesse.svg
 
 One can also argue that a _steeper_ slope of the acceleration, i.e. a bigger jerk, excites bigger wave components in the shockwave with higher frequencies, belonging to higher Fourier coefficients, and so an increased probability of exciting a resonant mode.
 
@@ -166,8 +162,6 @@ As a general rule, to reduce the amplitude of excited stress waves, causing vibr
 
 
 In the geometric design of roads and tracks
-
-Easement_curve.svg
 
 The principles of geometric design apply to the jerk oriented orthogonally to the path of motion, considering the centripetal acceleration, whereas the velocity along the path is assumed to be constant, and so the tangential jerk is zero. Any change in curvature of the path implies non-zero jerk, arising from purely geometric reasons. To avoid the unbounded (centripetal) jerk when moving from a straight path into a curve or vice versa, track transition curves are constructed, which limit the jerk by gradually increasing the centripetal acceleration, i.e. the curvature, to the value that belongs to the radius of the circle and the speed of travel. The theoretical optimum is achieved by the Euler spiral, which linearly increases the acceleration, i.e., constant jerk. As a design rule a maximum value of 0.5 m/s³ and for convenience purposes a value of 0.35 m/s³ are recommended in railway design. The picture shows a piece of an Euler spiral leading as track transition curve from a straight line to an arc of a circle. In the real scenario the plane of the track is inclined in the course of the curve and so also this vertical acceleration of the necessary lifting of the center of mass of the rail car has to be considered to minimize the wear on the embankment and the tracks by following a slightly different curve. This has been patented as the _Wiener Kurve_ (Viennese Curve).[3][4]
 
@@ -179,8 +173,6 @@ In motion control
 In motion control the focus is on straight linear motion, where the need is to move a system from one steady position to another (point-to-point motion). So effectively, the jerk resulting from tangential acceleration is under control. Prominent applications are elevators in people transportation, and the support of tools in machining. It is reported[6] that most passengers rate a vertical jerk of 2.0 m/s³ in a lift ride as acceptable, 6.0 m/s³ as intolerable and for a hospital environment 0.7 m/s³ is suggested. In any case, limiting jerk is considered essential for riding convenience.[7] ISO 18 738[8] defines how to measure elevator ride quality with respect to jerk, acceleration, vibrations and noise, but does not venture into defining what are different levels of elevator ride quality.
 
 Achieving the shortest possible transition time, thereby not exceeding given limit magnitudes for speed, acceleration, and jerk, will result in a third-order motion profile, with quadratic ramping and de-ramping phases in the velocity, as illustrated below:
-
-Schematic_diagram_of_Jerk,_Acceleration,_and_Speed.svg
 
 This motion profile consists of up to seven segments defined by the following:
 

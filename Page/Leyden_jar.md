@@ -7,7 +7,7 @@ The Leyden jar was used to conduct many early experiments in electricity, and it
 
 History
 
-Cuneus_discovering_the_Leyden_jar.png was conducted by the chain through the suspended bar to the water in the glass held by assistant Andreas Cunaeus. A large charge accumulated in the water and an opposite charge in Cunaeus' hand on the glass. When he touched the wire dipping in the water, he received a powerful shock. ]] Leidse_flessen_Museum_Boerhave_december_2003_2.jpg of four water-filled Leyden jars, Museum Boerhaave, Leiden]]
+was conducted by the chain through the suspended bar to the water in the glass held by assistant Andreas Cunaeus. A large charge accumulated in the water and an opposite charge in Cunaeus' hand on the glass. When he touched the wire dipping in the water, he received a powerful shock. ]] of four water-filled Leyden jars, Museum Boerhaave, Leiden]]
 
 The Ancient Greeks already knew that pieces of amber could attract lightweight particles after being rubbed. The amber becomes electrified by triboelectric effect, mechanical separation of charge in a dielectric. The Greek word for amber is ἤλεκτρον ("ēlektron") and is the origin of the word "electricity".[5]
 
@@ -42,7 +42,7 @@ Beginning in the late 18th century it was used in the Victorian medical field of
 
 Design
 
-Leyden_jar_showing_construction.png A typical design consists of a glass jar with conducting tin foil coating the inner and outer surfaces. The foil coatings stop short of the mouth of the jar, to prevent the charge from arcing between the foils. A metal rod electrode projects through the stopper at the mouth of the jar, electrically connected by some means (usually a hanging chain) to the inner foil, to allow it to be charged. The jar is charged by an electrostatic generator, or other source of electric charge, connected to the inner electrode while the outer foil is grounded. The inner and outer surfaces of the jar store equal but opposite charges.[28]
+A typical design consists of a glass jar with conducting tin foil coating the inner and outer surfaces. The foil coatings stop short of the mouth of the jar, to prevent the charge from arcing between the foils. A metal rod electrode projects through the stopper at the mouth of the jar, electrically connected by some means (usually a hanging chain) to the inner foil, to allow it to be charged. The jar is charged by an electrostatic generator, or other source of electric charge, connected to the inner electrode while the outer foil is grounded. The inner and outer surfaces of the jar store equal but opposite charges.[28]
 
 The original form of the device is just a glass bottle partially filled with water, with a metal wire passing through a cork closing it. The role of the outer plate is provided by the hand of the experimenter. Soon John Bevis found (in 1747) that it was possible to coat the exterior of the jar with metal foil, and he also found that he could achieve the same effect by using a plate of glass with metal foil on both sides.[29] These developments inspired William Watson in the same year to have a jar made with a metal foil lining both inside and outside, dropping the use of water.[30]
 
@@ -53,7 +53,7 @@ Further developments in electrostatics revealed that the dielectric material was
 
 Storage of the charge
 
-Dissectible_Leyden_jar.png Leyden_unit_jar.png It was initially believed that the charge was stored in the water in early Leyden jars. In the 1700s American statesman and scientist Benjamin Franklin performed extensive investigations of both water-filled and foil Leyden jars, which led him to conclude that the charge was stored in the glass, not in the water. A popular experiment, due to Franklin, which seems to demonstrate this involves taking a jar apart after it has been charged and showing that little charge can be found on the metal plates, and therefore it must be in the dielectric. The first documented instance of this demonstration is in a 1749 letter by Franklin.[32] Franklin designed a "dissectible" Leyden jar _(right)_, which was widely used in demonstrations. The jar is constructed out of a glass cup nested between two fairly snugly fitting metal cups. When the jar is charged with a high voltage and carefully dismantled, it is discovered that all the parts may be freely handled without discharging the jar. If the pieces are re-assembled, a large spark may still be obtained from it.
+It was initially believed that the charge was stored in the water in early Leyden jars. In the 1700s American statesman and scientist Benjamin Franklin performed extensive investigations of both water-filled and foil Leyden jars, which led him to conclude that the charge was stored in the glass, not in the water. A popular experiment, due to Franklin, which seems to demonstrate this involves taking a jar apart after it has been charged and showing that little charge can be found on the metal plates, and therefore it must be in the dielectric. The first documented instance of this demonstration is in a 1749 letter by Franklin.[32] Franklin designed a "dissectible" Leyden jar _(right)_, which was widely used in demonstrations. The jar is constructed out of a glass cup nested between two fairly snugly fitting metal cups. When the jar is charged with a high voltage and carefully dismantled, it is discovered that all the parts may be freely handled without discharging the jar. If the pieces are re-assembled, a large spark may still be obtained from it.
 
 This demonstration appears to suggest that capacitors store their charge inside their dielectric. This theory was taught throughout the 1800s. However, this phenomenon is a special effect caused by the high voltage on the Leyden jar.[33] In the dissectible Leyden jar, charge is transferred to the surface of the glass cup by corona discharge when the jar is disassembled; this is the source of the residual charge after the jar is reassembled. Handling the cup while disassembled does not provide enough contact to remove all the surface charge. Soda glass is hygroscopic and forms a partially conductive coating on its surface, which holds the charge.[34] Addenbrooke (1922) found that in a dissectible jar made of paraffin wax, or glass baked to remove moisture, the charge remained on the metal plates.[35] Zeleny (1944) confirmed these results and observed the corona charge transfer.[36]
 
@@ -70,7 +70,7 @@ If a charged Leyden jar is discharged by shorting the inner and outer coatings a
 
 Series connection
 
-PSM_V09_D356_Wired_series_of_leyden_jars.jpg In 1747–1748, Benjamin Franklin experimented with charging Leyden jars in series.[39]
+In 1747–1748, Benjamin Franklin experimented with charging Leyden jars in series.[39]
 
 
 See also

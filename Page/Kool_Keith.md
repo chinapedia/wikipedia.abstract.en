@@ -50,7 +50,7 @@ Thornton's fan site refers to his discography of roughly fifty album releases, m
 
 Lyrical and performance style
 
-Kool-Keith-2009.jpg.]] Thornton's lyrics are often abstract,[36] surreal,[37] and filled with non-sequiturs and profane humor.[38] Thornton is also known for an explicit style focusing on sexual themes, which Thornton has referred to as "pornocore".[39][40] In a 2007 interview, Thornton claims to have "invented horrorcore".[41]
+.]] Thornton's lyrics are often abstract,[36] surreal,[37] and filled with non-sequiturs and profane humor.[38] Thornton is also known for an explicit style focusing on sexual themes, which Thornton has referred to as "pornocore".[39][40] In a 2007 interview, Thornton claims to have "invented horrorcore".[41]
 
 Thornton's lyrics are particularly dense, and he is a master of internal rhyme. His extensive use of internal rhyme pre-dates Eminem and other artists who have embraced this style.
 

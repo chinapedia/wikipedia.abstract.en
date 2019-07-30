@@ -16,8 +16,6 @@ Founded in 1989 by eleven companies (including Hewlett-Packard, IBM, Sun Microsy
 
 Since 2000, the group's international headquarters has been located in Needham, Massachusetts.
 
-OMG_Headquarters.jpeg
-
 In 1997, the Unified Modeling Language (UML) was added to the list of OMG adopted technologies. UML is a standardized general-purpose modeling language in the field of object-oriented software engineering.
 
 In June 2005, the Business Process Management Initiative (BPMI.org) and OMG announced the merger of their respective Business Process Management (BPM) activities to form the Business Modeling and Integration Domain Task Force (BMI DTF).

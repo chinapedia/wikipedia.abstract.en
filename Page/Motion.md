@@ -6,7 +6,7 @@ As there is no absolute frame of reference, _absolute motion_ cannot be determin
 
 Motion applies to various physical systems: to objects, bodies, matter particles, matter fields, radiation, radiation fields, radiation particles, curvature and space-time. One can also speak of motion of images, shapes and boundaries. So, the term motion, in general, signifies a continuous change in the configuration of a physical system in space. For example, one can talk about motion of a wave or about motion of a quantum particle, where the configuration consists of probabilities of occupying specific positions.
 
-Leaving_Yongsan_Station.jpg.]] Dravya.jpeg]]
+.]] ]]
 
 
 Laws of motion

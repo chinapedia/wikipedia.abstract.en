@@ -57,8 +57,6 @@ Not for sale (6 titles)
 
 Internal details
 
-Bandai-Playdia-Motherboard-FL.jpg
-
 -   Sanyo Lc89515 - CD-ROM Host Interface
 -   Toshiba TA2035F - CD Focus tracking server
 -   Toshiba tc9263f - CD Single Chip processor

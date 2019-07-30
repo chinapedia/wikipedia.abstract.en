@@ -24,7 +24,7 @@ Josephus further writes that Herod the Great captured it in the power struggle t
 
 Herodian palace-fortress
 
-Termas_en_Masada.JPG'' (hot room) in northern Roman-style public bath (#35 on plan)]]
+'' (hot room) in northern Roman-style public bath (#35 on plan)]]
 
 According to Josephus, between 37 and 31 BCE, Herod the Great built a large fortress on the plateau as a refuge for himself in the event of a revolt, and erected there two palaces.[9]
 
@@ -126,7 +126,7 @@ In May 2015, 20-year old American tourist Briana McHam fell 25 feet on Masada's 
 
 Phases and layout
 
-Masada_BW_A.JPG An example of Herodian architecture, Masada was the first site Herod the Great fortified after he gained control of his kingdom.[64]
+An example of Herodian architecture, Masada was the first site Herod the Great fortified after he gained control of his kingdom.[64]
 
 Phase I: Western Palace etc.
 
@@ -143,8 +143,7 @@ Phase III: casemate wall etc.
 In 15 BCE, during the third and final building phase, the entire site of Masada – except for the Northern Palace – was enclosed by a casemate wall, which consisted of a double wall with a space between that was divided into rooms by perpendicular walls; these were used as living chambers for the soldiers and as extra storage space. The Western Palace was also extended for a third time to include more rooms for the servants and their duties.[68]
 
   Site Plan
-  -------------------
-  Map_of_Masada.svg
+  -----------
 
 
 Gallery
@@ -160,7 +159,7 @@ The Masada story was the inspiration for the "Masada plan" devised by the Britis
 
 Israeli army
 
-Masada_Stamps.jpg The chief of staff of the Israel Defense Forces (IDF), Moshe Dayan, initiated the practice of holding the swearing-in ceremony of Israeli Armoured Corps soldiers who had completed their _tironut_ (IDF basic training) on top of Masada. The ceremony ended with the declaration: "Masada shall not fall again." The soldiers climbed the Snake Path at night and were sworn in with torches lighting the background.[72] These ceremonies are now also held at various other locations, including the Armoured Corps Memorial at Latrun, the Western Wall and Ammunition Hill in Jerusalem, Akko prison, and training bases.
+The chief of staff of the Israel Defense Forces (IDF), Moshe Dayan, initiated the practice of holding the swearing-in ceremony of Israeli Armoured Corps soldiers who had completed their _tironut_ (IDF basic training) on top of Masada. The ceremony ended with the declaration: "Masada shall not fall again." The soldiers climbed the Snake Path at night and were sworn in with torches lighting the background.[72] These ceremonies are now also held at various other locations, including the Armoured Corps Memorial at Latrun, the Western Wall and Ammunition Hill in Jerusalem, Akko prison, and training bases.
 
 
 In popular culture

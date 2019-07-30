@@ -1,4 +1,4 @@
-Scottish_mercenaries_in_the_Thirty_Years_War.jpg A KILT ( )[1] is a type of knee-length non-bifurcated skirt with pleats at the back, originating in the traditional dress of Gaelic men and boys in the Scottish Highlands. It is first recorded in the 16th century as the great kilt, a full-length garment whose upper half could be worn as a cloak. The small kilt or _modern_ kilt emerged in the 18th century, and is essentially the bottom half of the great kilt. Since the 19th century, it has become associated with the wider culture of Scotland, and more broadly with Gaelic or Celtic heritage. It is most often made of woollen cloth in a tartan pattern.
+A KILT ( )[1] is a type of knee-length non-bifurcated skirt with pleats at the back, originating in the traditional dress of Gaelic men and boys in the Scottish Highlands. It is first recorded in the 16th century as the great kilt, a full-length garment whose upper half could be worn as a cloak. The small kilt or _modern_ kilt emerged in the 18th century, and is essentially the bottom half of the great kilt. Since the 19th century, it has become associated with the wider culture of Scotland, and more broadly with Gaelic or Celtic heritage. It is most often made of woollen cloth in a tartan pattern.
 
 Although the kilt is most often worn on formal occasions and at Highland games and sports events, it has also been adapted as an item of informal male clothing in recent years, returning to its roots as an everyday garment. Particularly in North America, kilts are now made for casual wear in a variety of materials. Alternative fastenings may be used and pockets inserted to avoid the need for a sporran. Kilts have also been adopted as female wear for some sports.
 
@@ -19,8 +19,6 @@ The name "kilt" is applied to a range of garments:
 According to the _Dictionary of the Scots Language_ and _Oxford English Dictionary_, the noun derives from a verb _to kilt_, originally meaning "to gird up; to tuck up (the skirts) round the body", which is apparently of Scandinavian origin.
 
 Scotland
-
-Kilt&Sporran.jpg
 
 Organisations that sanction and grade the competitions in Highland dancing and piping all have rules governing acceptable attire for the competitors. These rules specify that kilts are to be worn (except that in the national dances, the female competitors will be wearing the Aboyne dress).[5][6]
 
@@ -46,7 +44,7 @@ Today there are also tartans for districts, counties, societies and corporations
 
 Setts are always arranged horizontally and vertically, never diagonally (except when adapted for women's skirts). They are specified by their thread counts, the sequence of colours and their units of width. As an example, the Wallace tartan has a thread count given as "K/4 R32 K32 Y/4" (K is black, R is red, and Y is yellow). This means that 4 units of black thread will be succeeded by 32 units of red, etc., in both the warp and the weft. Typically, the units are the actual number of threads, but as long as the proportions are maintained, the resulting pattern will be the same. This thread count also includes a pivot point indicated by the slash between the colour and thread number. The weaver is supposed to reverse the weaving sequence at the pivot point to create a mirror image of the pattern. This is called a symmetrical tartan. Some tartans, like Buchanan, are asymmetrical, which means they do not have a pivot point. The weaver weaves the sequence all the way through and then starts at the beginning again for the next sett.
 
-Kilted.jpg tartan kilt (2006)]]
+tartan kilt (2006)]]
 
 Setts are further characterised by their size, the number of inches (or centimetres) in one full repeat. The size of a given sett depends on not only the number of threads in the repeat but also the weight of the fabric. This is because the heavier the fabric, the thicker the threads will be, and thus the same number of threads of a heavier-weight fabric will occupy more space. The colours given in the thread count are specified as in heraldry, although tartan patterns are not heraldic. The exact shade which is used is a matter of artistic freedom and will vary from one fabric mill to another as well as in dye lot to another within the same mill.
 
@@ -56,15 +54,11 @@ Setts were registered until 2008, with the _International Tartan Index_ (_ITI_) 
 
 Measurements
 
-kilt_stitching_001.jpg
-
 Although ready-to-wear kilts can be obtained in standard sizes, a custom kilt is tailored to the individual proportions of the wearer. At least three measurements, the waist, hips, and length of the kilt, are usually required. Sometimes the rise (distance above the waist) or the fell (distance from waistline to the widest part of the hips) is also required.
 
 A properly made kilt, when buckled on the tightest holes of the straps, is not so loose that the wearer can easily twist the kilt around their body, nor so tight that it causes "scalloping" of the fabric where it is buckled. Additionally, the length of the kilt when buckled at the waist reaches a point no lower than halfway across the kneecap and no higher than about an inch above it.
 
 Pleating and stitching
-
-kilt_pleats_002.jpg kilt_pleats_001.jpg
 
 A kilt can be pleated with either box or knife pleats. A knife pleat is a simple fold, while the box pleat is bulkier, consisting of two knife pleats back-to-back. Knife pleats are the most common in modern civilian kilts. Regimental traditions vary. The Argyll and Sutherland Highlanders use box pleats, while the Black Watch make their kilts of the same tartan with knife pleats. These traditions were also passed on to affiliated regiments in the Commonwealth, and were retained in successor battalions to these regiments in the amalgamated Royal Regiment of Scotland.
 
@@ -83,8 +77,6 @@ The pleats across the fell are tapered slightly since the wearer's waist is usua
 In Highland dancing, it is easy to see the effect of the stitching on the action of a kilt. The kilt hugs the dancer's body from the waist down to the hipline and, from there, in response to the dancer's movements, it breaks sharply out. The way the kilt moves in response to the dance steps is an important part of the dance. If the pleats were not stitched down in this portion of the kilt, the action, or movement, would be quite different.
 
 Accessories
-
-Highland_Dance_002.jpg
 
 The Scottish kilt is usually worn with kilt hose (woollen socks), turned down at the knee, often with garters and flashes, and a (Gaelic for "purse": a type of pouch), which hangs around the waist from a chain or leather strap. This may be plain or embossed leather, or decorated with sealskin, fur, or polished metal plating.
 
@@ -109,7 +101,7 @@ It is not uncommon to see kilts worn at Irish pubs in the United States, and it 
 
 Ireland
 
-Irish_Army_Pipe_Band.jpg pipers wearing saffron kilts]]
+pipers wearing saffron kilts]]
 
 Though the origins of the Irish kilt continue to be a subject of debate, current evidence suggests that kilts originated in the Scottish Highlands and Isles and were worn by Irish nationalists from at least 1890 onwards and then cemented from the early 1900s as a symbol of Gaelic identity.[15]
 
@@ -127,13 +119,9 @@ There are two Galician tartans recorded in the Scottish registries: Galicia and 
 
 Contemporary designs
 
-EdinburghModelKilt.JPG
-
 Contemporary kilts (also known as modern kilts and, especially in the United States of America, utility kilts) have appeared in the clothing marketplace in Scotland,[33] the US, and Canada in a range of fabrics, including leather, denim, corduroy, and cotton.[34] They may be designed for formal or casual dress, for use in sports or outdoor recreation, or as white or blue collar workwear. Some are closely modelled on traditional Scottish kilts, but others are similar only in being knee-length skirt-like garments for men. They may have box pleats, symmetrical knife pleats and be fastened by studs or velcro instead of buckles. Many are designed to be worn without a sporran, and may have pockets or tool belts attached.
 
 In Canada, kilts are widely common as part of female dress at schools with a uniform policy. As well, due to the rich Scottish heritage of the country, they may frequently be seen at weddings and formal events. In Nova Scotia, they may even be worn as common daily attire.
-
-Scottish_Kilt.jpg
 
 In 2008, a USPS letter carrier, Dean Peterson, made a formal proposal that the kilt be approved as an acceptable postal uniform—for reasons of comfort.[35][36] The proposal was defeated at the convention of the 220,000-member National Association of Letter Carriers in 2008 by a large margin.[37]
 

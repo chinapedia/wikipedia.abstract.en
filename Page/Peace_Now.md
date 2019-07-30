@@ -16,7 +16,7 @@ Objectives/positions
 
 Origins
 
-OfficerLetter.jpg Peace Now was formed during the 1978 Israeli-Egyptian peace talks between Israeli Prime Minister Menachem Begin and Egyptian President Anwar Sadat at a time when the talks looked close to collapse.
+Peace Now was formed during the 1978 Israeli-Egyptian peace talks between Israeli Prime Minister Menachem Begin and Egyptian President Anwar Sadat at a time when the talks looked close to collapse.
 
 348 reserve officers and soldiers from Israeli army combat units published an open letter to the Prime Minister of Israel in which they called for the Israeli government not to squander the historic opportunity for peace between the two nations.[6] The officers realised that Israel could not retain its Jewish-democratic nature whilst it continued to perpetuate its rule over one million Arabs. They concluded that Israel's security needs could only be met by the attainment of peace between Israel and its neighbours via a negotiated agreement.[7] Subsequently, tens of thousands of Israelis petitioned the Israeli government in support of the letter, and as a result the movement known as Peace Now was born.
 
@@ -64,7 +64,7 @@ Settlement Watch
 
 Settlement activity
 
-settlements_map_eng.pdf One of the most important activities of Peace Now is its ongoing Settlement Watch project which monitors and protests against the building of Jewish settlements in the West Bank, including East Jerusalem. Dror Aktes headed this committee until 2007 when he was replaced by Hagit Ofran. The project focuses on the following issues with regards to the settlements:-
+One of the most important activities of Peace Now is its ongoing Settlement Watch project which monitors and protests against the building of Jewish settlements in the West Bank, including East Jerusalem. Dror Aktes headed this committee until 2007 when he was replaced by Hagit Ofran. The project focuses on the following issues with regards to the settlements:-
 
 -   Physical development – Where and why are there construction and expansion activities connected to the settlements or their residents? And what are the short- and long-term implications of these activities?
 -   Economy – How much do the settlements cost and who is paying for them?
@@ -118,9 +118,9 @@ One such tour was conducted by Peace Now in August 2009 and attended by such fig
 
 Demonstrations/rallies
 
-Rabin_Square_011114_02.jpg Peace Now organises demonstrations and rallies in support of peace and human rights:-
+Peace Now organises demonstrations and rallies in support of peace and human rights:-
 
-Graffiti_Tel_Aviv,_Ha-Rav_Yitskhak_Yedidya_Frenkel_St_-_close_up.jpg, a mural affiliated with Peace Now in Tel Aviv depicting Palestinian Handala and Israeli Srulik embracing one another.]]
+, a mural affiliated with Peace Now in Tel Aviv depicting Palestinian Handala and Israeli Srulik embracing one another.]]
 
 -   Rally Against Racism (26 February 2011) – Peace Now joined 1,500 other activists at Zion Square, Jerusalem, to protest against the spate of government policies dealing with the nature of the citizenship of Arab-Israelis living within the Israeli state; especially those forwarded by Israel's outspoken Foreign Minister Avigdor Lieberman (Yisrael Beiteinu).[50]
 -   In support of a Palestinian state in the West Bank and the Gaza Strip (4 June 2011) – Peace Now joined 5000 other activists in a march in Tel Aviv, to support the Palestinian bid for United Nations membership as an independent state.[51]

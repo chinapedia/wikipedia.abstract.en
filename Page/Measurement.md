@@ -2,7 +2,7 @@ __ MEASUREMENT is the assignment of a number to a characteristic of an object or
 
 Measurement is a cornerstone of trade, science, technology, and quantitative research in many disciplines. Historically, many measurement systems existed for the varied fields of human existence to facilitate comparisons in these fields. Often these were achieved by local agreements between trading partners or collaborators. Since the 18th century, developments progressed towards unifying, widely accepted standards that resulted in the modern International System of Units (SI). This system reduces all physical measurements to a mathematical combination of seven base units. The science of measurement is pursued in the field of metrology.
 
-Measuring_Tape_Inch+CM.jpg with both metric and imperial units and two US pennies for comparison]]
+with both metric and imperial units and two US pennies for comparison]]
 
 
 Methodology
@@ -19,8 +19,6 @@ Standardization of measurement units
 
 Measurements most commonly use the International System of Units (SI) as a comparison framework. The system defines seven fundamental units: kilogram, metre, candela, second, ampere, kelvin, and mole. Six of these units are defined without reference to a particular physical object which serves as a standard (artifact-free), while the kilogram is still embodied in an artifact which rests at the headquarters of the International Bureau of Weights and Measures in Sèvres near Paris. Artifact-free definitions fix measurements at an exact value related to a physical constant or other invariable phenomena in nature, in contrast to standard artifacts which are subject to deterioration or destruction. Instead, the measurement unit can only ever change through increased accuracy in determining the value of the constant it is tied to.
 
-SI_base_unit.svg
-
 The first proposal to tie an SI base unit to an experimental standard independent of fiat was by Charles Sanders Peirce (1839–1914),[6] who proposed to define the metre in terms of the wavelength of a spectral line.[7] This directly influenced the Michelson–Morley experiment; Michelson and Morley cite Peirce, and improve on his method.[8]
 
 Standards
@@ -34,7 +32,7 @@ In the United States, the National Institute of Standards and Technology (NIST),
 
 Units and systems
 
-MetricImperialUSCustomaryUnits.jpg that measures in three measurement systems—metric, imperial (UK), and US customary.]] FourMetricInstruments.JPG
+that measures in three measurement systems—metric, imperial (UK), and US customary.]]
 
 Imperial and US customary systems
 
@@ -68,7 +66,7 @@ The SI allows easy multiplication when switching among units having the same bas
 
 Length
 
-CarpentersRule.png]]
+]]
 
 A ruler or rule is a tool used in, for example, geometry, technical drawing, engineering, and carpentry, to measure lengths or distances or to draw straight lines. Strictly speaking, the _ruler_ is the instrument used to RULE straight lines and the calibrated instrument used for determining length is called a _measure_, however common usage calls both instruments _rulers_ and the special name _straightedge_ is used for an unmarked rule. The use of the word _measure_, in the sense of a measuring instrument, only survives in the phrase _tape measure_, an instrument that can be used to measure but cannot be used to draw straight lines. As can be seen in the photographs on this page, a two-metre carpenter's rule can be folded down to a length of only 20 centimetres, to easily fit in a pocket, and a five-metre-long tape measure easily retracts to fit within a small housing.
 

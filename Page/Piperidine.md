@@ -23,11 +23,11 @@ Conformation
 
 Piperidine prefers a chair conformation, similar to cyclohexane. Unlike cyclohexane, piperidine has two distinguishable chair conformations: one with the N–H bond in an axial position, and the other in an equatorial position. After much controversy during the 1950s–1970s, the equatorial conformation was found to be more stable by 0.72 kcal/mol in the gas phase.[15] In nonpolar solvents, a range between 0.2 and 0.6 kcal/mol has been estimated, but in polar solvents the axial conformer may be more stable.[16] The two conformers interconvert rapidly through nitrogen inversion; the free energy activation barrier for this process, estimated at 6.1 kcal/mol, is substantially lower than the 10.4 kcal/mol for ring inversion.[17] In the case of _N_-methylpiperidine, the equatorial conformation is preferred by 3.16 kcal/mol,[18] which is much larger than the preference in methylcyclohexane, 1.74 kcal/mol.
 
-+---------------------------------+--------------------------------------+
-| Piperidine-axial-3D-balls-A.png | Piperidine-equatorial-3D-balls-A.png |
-+---------------------------------+--------------------------------------+
-| axial conformation              | equatorial conformation              |
-+---------------------------------+--------------------------------------+
++--------------------+-------------------------+
+|                    |                         |
++--------------------+-------------------------+
+| axial conformation | equatorial conformation |
++--------------------+-------------------------+
 
 
 Reactions
@@ -52,7 +52,7 @@ A significant industrial application of piperidine is for the production of dipi
 
 List of piperidine medications
 
-Minoxidil_structure.svg is a piperidine derivative widely used to prevent hair loss.]] Piperidine and its derivatives are ubiquitous building blocks in pharmaceuticals[23] and fine chemicals. The piperidine structure is found in, for example:
+is a piperidine derivative widely used to prevent hair loss.]] Piperidine and its derivatives are ubiquitous building blocks in pharmaceuticals[23] and fine chemicals. The piperidine structure is found in, for example:
 
 -   Icaridin (Insect repellent)
 -   SSRIs (selective serotonin reuptake inhibitors)

@@ -1,11 +1,11 @@
-Wellington_infrastructure.jpg]] TRANSPORT IN NEW ZEALAND, with its mountainous topography and a relatively small population mostly located near its long coastline, has always faced many challenges. Before Europeans arrived, Māori either walked or used watercraft on rivers or along the coasts. Later on, European shipping and railways revolutionised the way of transporting goods and people, before being themselves overtaken by road and air, which are nowadays the dominant forms of transport. However, bulk freight still continues to be transported by coastal shipping and by rail transport, and there are attempts to (re)introduce public transport as a major transport mode in the larger population centres.
+]] TRANSPORT IN NEW ZEALAND, with its mountainous topography and a relatively small population mostly located near its long coastline, has always faced many challenges. Before Europeans arrived, Māori either walked or used watercraft on rivers or along the coasts. Later on, European shipping and railways revolutionised the way of transporting goods and people, before being themselves overtaken by road and air, which are nowadays the dominant forms of transport. However, bulk freight still continues to be transported by coastal shipping and by rail transport, and there are attempts to (re)introduce public transport as a major transport mode in the larger population centres.
 
 Historically very car-dependent, transport funding in New Zealand is still heavily dominated by money for road projects–in 2010 the government proposed to spend $21 billion on roading infrastructure after 2012, yet only $0.7 billion on other transport projects (public transport, walking and cycling). This was criticised by opponents as irresponsible, in light of increasing fuel prices and congestion.[1] Public transport is primarily a local government responsibility whereas state highways are the responsibility of central government.
 
 
 Road transport
 
-Bullock_Team_Wool_Wagon.jpg in the 1880s. Their tracks later often formed the first roads.]] Auckland_State_Highway_One.jpg
+in the 1880s. Their tracks later often formed the first roads.]]
 
 The state highway network is the principal road infrastructure connecting New Zealand urban centres. It is administered by the NZ Transport Agency. The majority of smaller or urban roads are managed by city or district councils, although some fall under the control of other authorities, such as the New Zealand Department of Conservation or port and airport authorities.
 
@@ -57,7 +57,7 @@ As of 2010, transport funding in New Zealand is still heavily biased towards roa
 
 Vehicle fleet
 
-Repetition_on_Auckland_wharf.jpg One of the earliest counts/estimates of motor vehicles in New Zealand had them at 82,000 in 1925. This soon increased to 170,000 on the eve of World War II in 1939, continuing to 425,000 in 1953 and increasing to 1,000,000 in 1971.[32] In the first national vehicle registration of 1925, 99,233 plates were issued.[33] In 1931 156,180 motor-vehicles were registered[34] and those licensed were 298,586 in 1939 and 380,503 in 1950.[35]
+One of the earliest counts/estimates of motor vehicles in New Zealand had them at 82,000 in 1925. This soon increased to 170,000 on the eve of World War II in 1939, continuing to 425,000 in 1953 and increasing to 1,000,000 in 1971.[32] In the first national vehicle registration of 1925, 99,233 plates were issued.[33] In 1931 156,180 motor-vehicles were registered[34] and those licensed were 298,586 in 1939 and 380,503 in 1950.[35]
 
 Just over half of the light passenger vehicles first registered in New Zealand are used imports. In 2013 new car registrations were up 7% on 2012 to 82,235 sold, with used vehicle sales up to 98,971.[36]
 
@@ -92,7 +92,7 @@ Intercity and Tourism Holdings Ltd are significant sightseeing / tourism coach o
 
 Cycling
 
-Lake_Road_Northshore_Nov_08.jpg, prior to the introduction of cycle lanes in the 2000s. Such perceived or actual safety issues discourage many New Zealanders from cycling.[48]]]
+, prior to the introduction of cycle lanes in the 2000s. Such perceived or actual safety issues discourage many New Zealanders from cycling.[48]]]
 
 While relatively popular for sport and recreation, bicycle use is a very marginal commuting mode, with the percentage share hovering around 1% in many major cities, and around 2% nationwide (2000s figures). This is primarily due to safety fears. For instance Auckland Regional Transport Authority reports that "over half of Aucklanders believe it is usually unsafe, or always unsafe, to cycle".[49]
 
@@ -101,7 +101,7 @@ The high risk to bicycle users is due to a number of factors. Motorists tend to 
 
 Rail transport
 
-Wellington_Motorway.jpg was for a long time the only city of New Zealand that retained a well-patronised commuter rail system. Only in the 2000s was there a (continuing) resurgence in Auckland's commuter rail patronage, driven in great part by new investment in infrastructure.]]
+was for a long time the only city of New Zealand that retained a well-patronised commuter rail system. Only in the 2000s was there a (continuing) resurgence in Auckland's commuter rail patronage, driven in great part by new investment in infrastructure.]]
 
 Network
 
@@ -124,7 +124,7 @@ The Federation of Rail Organisations of New Zealand coordinates the work of appr
 
 Water transport
 
-Mariposa_Leaves_Auckland_Harbour.jpg'' casting off in Auckland in the 1880s, with a paddle steamer ferry in the front.]]
+'' casting off in Auckland in the 1880s, with a paddle steamer ferry in the front.]]
 
 New Zealand has a long history of international and coastal shipping. Both Maori and the New Zealand European settlers arrived from overseas, and during the early European settler years, coastal shipping was one of the main methods of transportation,[55] while it was hard to move goods to or from the hinterlands, thus limiting the locations of early settlement.[56] The two main islands are separated by Cook Strait, 24 km wide at its narrowest point, but requiring a 70-km ferry trip to cross. This is the only large-scale long-distance car / passenger shipping service left, with all others restricted to short ferry routes to islands like Stewart Island/Rakiura or Great Barrier Island.
 
@@ -156,7 +156,7 @@ In 2009, the National Party announced that funding for coastal shipping and supp
 
 Ferry services
 
-Cookstraitferry.jpg's in the Marlborough Sounds]] Regular roll-on/roll-off ferry services have crossed Cook Strait, linking the North and South Islands between Wellington and Picton, since 1962.[69] Services are provided five ferries operated by two companies: Interislander (a division of KiwiRail), and Bluebridge (Strait Shipping). One ferry used by the Interislander, , is a rail ferry capable of transporting both road and rail on separate decks. The four remaining ferries carry passengers and road vehicles only: Interislander's and , and Bluebridge's and .
+'s in the Marlborough Sounds]] Regular roll-on/roll-off ferry services have crossed Cook Strait, linking the North and South Islands between Wellington and Picton, since 1962.[69] Services are provided five ferries operated by two companies: Interislander (a division of KiwiRail), and Bluebridge (Strait Shipping). One ferry used by the Interislander, , is a rail ferry capable of transporting both road and rail on separate decks. The four remaining ferries carry passengers and road vehicles only: Interislander's and , and Bluebridge's and .
 
 Depending on the vessel, usual transit time between the North and South Islands is 3 to 3.5 hours. Faster catamaran ferries were used by Tranz Rail and its competitors between 1994 and 2004. To reduce voyage times, Tranz Rail proposed to relocate the South Island terminal of its services to Clifford Bay in Marlborough, which would also avoid a steep section of railway. This proposal has been shelved since the takeover by Toll Holdings in 2003.
 
@@ -182,7 +182,7 @@ New Zealand's air travel sector is served by 15 airlines.[71] The largest airlin
 
 Airports
 
-NewZealandAirportsMap.png WP_20140908_025.jpg, the largest in the South Island]]
+, the largest in the South Island]]
 
 There are 123 airports (and aerodromes) in New Zealand.[73] Six airports provide international air services (besides domestic services); Auckland and Christchurch (the largest airports in the North and South Islands, respectively) providing long-haul and short-haul international air services; and Wellington, Hamilton, Dunedin and Queenstown providing short-haul international air services to Australia and Fiji. There were around 30 other airports provide scheduled domestic air services.[74] The busiest airport is Auckland, which handled 16,487,648 (9,005,612 international and 7,482,036 domestic) passengers in the year ended December 2015.[75]
 

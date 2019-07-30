@@ -14,7 +14,7 @@ History
 
 Early history
 
-Original_Jell-O_Factory_Le_Roy_NY_Aug_10.jpg]] Original_Jell-O_Factory_Historic_Marker_Le_Roy_NY_Aug_10.JPG Gelatin, a protein produced from collagen extracted from boiled bones, connective tissues, and other animal products, has been a component of food, particularly desserts, since the 15th century.[1]
+]] Gelatin, a protein produced from collagen extracted from boiled bones, connective tissues, and other animal products, has been a component of food, particularly desserts, since the 15th century.[1]
 
 Gelatin was popularized in New York in the Victorian era with spectacular and complex jelly moulds. Gelatin was sold in sheets and had to be purified, which was time-consuming. Gelatin desserts were the province of royalty and the relatively well-to-do. In 1845, a patent for powdered gelatin was obtained by industrialist Peter Cooper, who built the first American steam-powered locomotive, the _Tom Thumb_.[2][3] This powdered gelatin was easy to manufacture and easier to use in cooking.
 
@@ -28,7 +28,7 @@ Initially Woodward struggled to sell the powdered product. Beginning in 1902, to
 
 In 1923, the newly rechristened Jell-O Company launched D-Zerta, an artificially sweetened version of Jell-O. Two years later, Postum and Genesee merged, and in 1927 Postum acquired Clarence Birdseye's frozen foods company to form the General Foods Corporation.
 
-Quick,_Easy_Jell-O_Wonder_Dishes_1930_Cover.jpg By 1930, there appeared a vogue in American cuisine for congealed salads, and the company introduced lime-flavored Jell-O to complement the add-ins that cooks across the country were combining in these aspics and salads. Popular Jell-O recipes often included ingredients like cabbage, celery, green peppers, and even cooked pasta.[12]
+By 1930, there appeared a vogue in American cuisine for congealed salads, and the company introduced lime-flavored Jell-O to complement the add-ins that cooks across the country were combining in these aspics and salads. Popular Jell-O recipes often included ingredients like cabbage, celery, green peppers, and even cooked pasta.[12]
 
 By the 1950s, salads would become so popular that Jell-O responded with savory and vegetable flavors such as celery, Italian, mixed vegetable, and seasoned tomato. These flavors have since been discontinued.[13]
 
@@ -50,7 +50,7 @@ New flavors were continually added and unsuccessful flavors were removed: in the
 
 Sales decline and turnaround
 
-Day_18_-_Still_Eating_The_Green_Jello_(gifrancis).jpg In 1964, the slogan "There's always room for Jell-O" was introduced, promoting the product as a "light dessert" that could easily be consumed even after a heavy meal.
+In 1964, the slogan "There's always room for Jell-O" was introduced, promoting the product as a "light dessert" that could easily be consumed even after a heavy meal.
 
 Throughout the 1960s through the 1980s, Jell-O's sales steadily decreased. Many Jell-O dishes, such as desserts and Jell-O salads, became special occasion foods rather than everyday items. Marketers blamed this decline on decreasing family sizes, a "fast-paced" lifestyle and women's increasing employment. By 1986, a market study concluded that mothers with young children rarely purchased Jell-O.[21]
 
@@ -80,7 +80,7 @@ American singer-songwriter Tom Lehrer claims to have invented the Jell-O shot in
 
 Manufacturing and tourism
 
-Jell-O_Museum_Le_Roy_NY_Aug_10.JPG , LeRoy, New York, is known as the home of Jell-O and has the only Jell-O Museum in the world, located on the main road through the small town. Jell-O was manufactured here until General Foods closed the plant in 1964 and relocated manufacturing to Dover, Delaware.[38] The Jell-O Gallery museum is operated by the Le Roy Historical Society at the Le Roy House and Union Free School, listed on the National Register of Historic Places in 1997.[39]
+, LeRoy, New York, is known as the home of Jell-O and has the only Jell-O Museum in the world, located on the main road through the small town. Jell-O was manufactured here until General Foods closed the plant in 1964 and relocated manufacturing to Dover, Delaware.[38] The Jell-O Gallery museum is operated by the Le Roy Historical Society at the Le Roy House and Union Free School, listed on the National Register of Historic Places in 1997.[39]
 
 At the museum, visitors can learn about the history of the dessert from its inception. Visitors starting on East Main Street, follow Jell-O Brick Road, whose stones are inscribed with the names of former factory employees. The museum offers looks at starting materials for Jell-O, such as sturgeon bladder and calves' hooves, and various molds.
 
@@ -88,8 +88,6 @@ The Jell-O plant in Mason City, Iowa, produces America's supply of ready-to-eat 
 
 
 Advertising
-
-Jell-O_Thermometer.jpg
 
 Jack Benny's top-rated radio show did not break for commercials. Instead, announcer Don Wilson incorporated speeches about Jell-O into the program at appropriate places, to Jack's feigned comic annoyance. Lucille Ball's _My Favorite Husband_, the radio predecessor to TV's _I Love Lucy_, was another popular program sponsored by Jell-O for much of its 124-episode run. Ball's character Liz Cooper often opened the program with the lively greeting "jell-o everybody!"
 

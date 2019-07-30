@@ -1,4 +1,4 @@
-Domine,_quo_vadis.jpg'' (1602) by Annibale Carracci]]
+'' (1602) by Annibale Carracci]]
 
 _QUŌ VĀDIS?_ (, ) is a Latin phrase meaning "Where are you marching?" It is also commonly translated as "Where are you going?" or, poetically, "Whither goest thou?"
 

@@ -32,7 +32,7 @@ Zeniff dies and passes rule to his son Noah. Noah is a wicked king. He is one of
 
 Evil King Noah and the preaching of righteous Abinadi
 
-Alma-the-Elder(BoM).jpg" was published in the book called _Cities in the Sun_, published by Elizabeth Rachel Cannon in 1910.]]
+" was published in the book called _Cities in the Sun_, published by Elizabeth Rachel Cannon in 1910.]]
 
 Then along comes a man named Abinadi. He is a holy man, a prophet, and he begins to preach that they must repent. He speaks against King Noah and prophecies that he will be killed if he doesn't repent. Abinadi is arrested and brought before King Noah where he gives what is considered a very important discourse in the Book of Mormon (chapters 12-16). Abinadi asks the ministers what they preach and they respond that they preach the Law of Moses. Abinadi then tells them that they ought to teach the Law of Moses, but rebukes them for not obeying it themselves, including the Ten Commandments, which he quotes to them. Abinadi then continues to explain that the Law of Moses is a teaching method to prepare people for the coming of Jesus Christ. He speaks of the atonement, faith, repentance and redemption through Jesus. He quotes Isaiah 53 and explains the seed of Christ, the resurrection, and that little children who die are saved in Christ.
 

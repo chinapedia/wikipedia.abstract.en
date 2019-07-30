@@ -1,5 +1,3 @@
-Wedding_kimono.jpg Uchikake.jpg Stylish_person_at_Fukuoka_City_Hall.jpg
-
 The is a traditional Japanese garment. The word _kimono_ literally means + .[1][2][3]
 
 Over time, the kimono has come to be a T-shaped wrapped garment with set sleeve lengths, variations and a set way of construction. The plural of _kimono_ is _kimono_, as Japanese does not distinguish plural nouns, though the English plural _kimonos_ is also used. Kimono are often worn for important public holidays and festivals, and for formal occasions such as weddings and funerals.
@@ -15,7 +13,7 @@ The people who tend to wear kimono the most on a daily basis are older men and w
 
 History
 
-Takamat1.jpg, 7th century) |250x250px]] Genji_emaki_YADORIGI_2.JPG, 12th century) ]] Iwasa_Matabei_001.jpg The overall silhouette transformed due to the evolution of obi, sleeves, and the layering of heavy fabrics. (Utagawa Kuniyoshi, Plum Blossoms at Night, woodblock print, 19th century)
+, 7th century) |250x250px]] , 12th century) ]]
 
 Chinese fashion had a huge influence on Japan from the Kofun period to the early Heian period as a result of mass immigration from the continent and a Japanese envoy to the Tang dynasty. There is an opinion that _Kimono_ was basically derived from the Chinese clothing[6][7] in the Wu region. During Japan's Heian period (794–1192 AD), the kimono became increasingly stylized, though one still wore a half-apron, called a _mo_, over it.[8] During the Muromachi age (1336–1573 AD), the _Kosode_, a single kimono formerly considered underwear, began to be worn without the hakama (trousers, divided skirt) over it, and thus began to be held closed by an _obi_ "belt".[9] During the Edo period (1603–1867 AD), the sleeves began to grow in length, especially among unmarried women, and the _Obi_ became wider, with various styles of tying coming into fashion.[10] Since then, the basic shape of both the men's and women's kimono has remained essentially unchanged. Kimonos made with exceptional skill from fine materials have been regarded as great works of art.[11]
 
@@ -27,8 +25,6 @@ In 2019, the mayor of Kyoto announced that his staff were working to register �
 
 
 Textiles and construction of kimono
-
-Komono_cropped.png
 
 Over time, the proportions of kimono have evolved differently for men and women. Men's kimono should fall approximately to the ankle, with no hip fold – the _ohashori_. A woman's kimono, however, should be as tall as she is, in order to allow the correct length for the ohashori to be formed. An ideally tailored kimono has sleeves that fall to the wrist when the arms are lowered; however, in informal situations, this is not strictly necessary, and indeed, kimono are worn casually by some women without the ohashori.
 
@@ -46,8 +42,6 @@ Traditionally, kimono are sewn by hand; even machine-made kimono require substan
 
 The kimono and obi are traditionally made of hemp, linen, silk, silk brocade, silk crepes (such as _chirimen_) and satin weaves (such as _rinzu_). Modern kimonos are widely available in less-expensive easy-care fabrics such as rayon, cotton sateen, cotton, polyester and other synthetic fibers. Silk is still considered the ideal fabric.
 
-MoriokaStudentinnen.JPG
-
 Customarily, woven patterns and dyed repeat patterns are considered informal. Formal kimonos have free-style designs dyed over the whole surface or along the hem.[25] During the Heian period, kimonos were worn with up to a dozen or more colorful contrasting layers, with each combination of colors being a named pattern.[26] Today, the kimono is normally worn with a single layer on top of one or more undergarments.
 
 The pattern of the kimono can determine in which season it should be worn. For example, a pattern with butterflies or cherry blossoms would be worn in spring. Watery designs are common during the summer. A popular autumn motif is the russet leaf of the Japanese maple; for winter, designs may include bamboo, pine trees and plum blossoms.
@@ -61,8 +55,6 @@ Kimono were also used to create dounuki, underkimono worn on top of the juban, a
 Historically, skilled craftsmen would laboriously cut old silk kimono into strips roughly 1cm wide to weave into obi, called _saki-ori_ obi. The technique was a kind of rag-weaving, creating a mostly one-sided obi that was relatively narrow and informal. Saki-ori obi are prized for their craftsmanship and rustic quality today, as they would have taken many hours to create, and saki-ori obi often feature patterns of stripes, checks and arrows. The technique is kept alive to this day by craftspeople interested in rustic arts.
 
 Parts
-
-Kimono_parts.png
 
 These terms refer to parts of a kimono:
 
@@ -101,8 +93,6 @@ These terms refer to parts of a kimono:
 
 Cost
 
-Kiminorecycleshop-asakusa01.jpg
-
 A brand-new women's kimono may easily exceed US$10,000;[28] a complete outfit, with kimono, undergarments, obi, socks, shoes and accessories can easily exceed US$20,000, with a single brand-new obi costing upwards of several thousand dollars.
 
 However, most kimono owned by kimono hobbyists or practitioners of the traditional arts are far less expensive. Cheaper and synthetic fabrics can substitute for traditional hand-dyed silk, and modern-day brand-new synthetic kimono are sold as 'washable' and easy to care for. Some people make their own kimono, as kimono do not require a paper pattern or extensive fitting to sew, and can be made of whatever fabrics the owner wants.
@@ -128,7 +118,7 @@ _Yukata_ () A Japanese garment, a casual summer _kimono_, usually made of cotton
 
 _Furisode_
 
-Kimono2.jpg _Furisode_ () literally translates as _swinging sleeves_—-the sleeves of furisode average between 39 and in length. _Furisode_ are the most formal kimono for unmarried women, with colorful patterns that cover the entire garment. They are usually worn at coming-of-age ceremonies (_seijin shiki_) and by unmarried female relatives of the bride at weddings and wedding receptions.
+_Furisode_ () literally translates as _swinging sleeves_—-the sleeves of furisode average between 39 and in length. _Furisode_ are the most formal kimono for unmarried women, with colorful patterns that cover the entire garment. They are usually worn at coming-of-age ceremonies (_seijin shiki_) and by unmarried female relatives of the bride at weddings and wedding receptions.
 
 _Hōmongi_
 
@@ -172,11 +162,11 @@ _Tsukesage_ () has more modest patterns that cover a smaller area—mainly below
 
 _Uchikake_
 
-Uchikake_MNA.jpg _Uchikake_ () is a highly formal kimono worn only by a bride or at a stage performance. The _uchikake_ is often heavily brocaded and is supposed to be worn outside the actual kimono and _obi_, as a sort of coat. One therefore never ties the obi around the _uchikake_. It is supposed to trail along the floor, this is also why it is heavily padded along the hem. The uchikake of the bridal costume is either white or very colorful often with red as the base colour.
+_Uchikake_ () is a highly formal kimono worn only by a bride or at a stage performance. The _uchikake_ is often heavily brocaded and is supposed to be worn outside the actual kimono and _obi_, as a sort of coat. One therefore never ties the obi around the _uchikake_. It is supposed to trail along the floor, this is also why it is heavily padded along the hem. The uchikake of the bridal costume is either white or very colorful often with red as the base colour.
 
 _Shiromuku_
 
-Wedding_kimono.jpg _Shiromuku_ () is a traditional, huge, thick, heavy, formal, ornate, brocaded, pure-white-on-white _kimono_, worn by the bride for a traditional Japanese Shinto wedding ceremony; a Japanese Shinto wedding dress. Comparable to a _uchikake_ and sometimes described as just a white _uchikake_; a _shiromuku_ _kimono_ is worn for the formal solemn ceremony, symbolizing the purity and maidenhood of the bride coming into the marriage. The bride may change into a red kimono for the events after the ceremony for good luck. A _shiromuku_ will also come with matching accessories, such as _kanzashi_, a _sensu_ (see below), etc. Due to the expense of making a _shiromuku_, few own, or are likely to buy, a brand-new _shiromuku_ _kimono_ (those who do already own one are likely to have inherited it from close family elders); it is not unusual to rent _kimono_, _shiromuku_ in particular, for special occasions; and indeed Shinto shrines are known to keep and rent-out such _shiromuku_ _kimono_ heirlooms for traditional weddings.
+_Shiromuku_ () is a traditional, huge, thick, heavy, formal, ornate, brocaded, pure-white-on-white _kimono_, worn by the bride for a traditional Japanese Shinto wedding ceremony; a Japanese Shinto wedding dress. Comparable to a _uchikake_ and sometimes described as just a white _uchikake_; a _shiromuku_ _kimono_ is worn for the formal solemn ceremony, symbolizing the purity and maidenhood of the bride coming into the marriage. The bride may change into a red kimono for the events after the ceremony for good luck. A _shiromuku_ will also come with matching accessories, such as _kanzashi_, a _sensu_ (see below), etc. Due to the expense of making a _shiromuku_, few own, or are likely to buy, a brand-new _shiromuku_ _kimono_ (those who do already own one are likely to have inherited it from close family elders); it is not unusual to rent _kimono_, _shiromuku_ in particular, for special occasions; and indeed Shinto shrines are known to keep and rent-out such _shiromuku_ _kimono_ heirlooms for traditional weddings.
 
 Worn with the _shiromuku_ is a headdress called a , a headdress made from a rectangular piece of cloth, often made of white silk (to match the bride's _shiromuku_ _kimono_), which covers the bridal high topknot (a _Bunkin Takashimada_), a kind of _chonmage_ (a traditional topknot); they're traditionally worn to veil the bride's metaphorical 'horns of jealousy, ego and selfishness', and also symbolizes the bride's resolve to become a gentle and obedient wife. Alternately, the bride can wear a , an all-white hood or cowl, worn as an alternative to the _tsunokakushi_, and the Japanese equivalent to the Western marriage ceremony's bridal veil; its purpose is to hide the bride's face from all others, except for the bridegroom, until the end of the wedding ceremony. It was adapted from the _katsuki_, a hood worn outdoors to keep away dust and prevent from the cold, by married women in samurai families, from the Muromachi to Momoyama periods, before being taken up by younger women from the Edo period onwards. Like the _shiromuku_ its worn in concert with, the _wataboshi_ is a symbol of innocence and purity; its worn only outside in outdoor receptions with the _shiromuku_-only, not with coloured wedding _iro-uchikake kimono_, or during indoor receptions.
 
@@ -190,26 +180,20 @@ So that the underarm does not show when the collar is pulled down, the sleeves a
 
 _Jūnihitoe_
 
-Junihitoe.jpg _Jūnihitoe_ () is an extremely elegant and highly complex kimono that was only worn by Japanese court-ladies. The _jūnihitoe_ consist of various layers which are silk garments, with the innermost garment being made of white silk. The total weight of the _jūnihitoe_ could add up to 20 kilograms. An important accessory was an elaborate fan, which could be tied together by a rope when folded. Today, the _jūnihitoe_ can only be seen in museums, movies, costume demonstrations, tourist attractions or at certain festivals. These robes are one of the most expensive items of Japanese clothing. Only the Imperial Household still officially uses them at some important functions.
+_Jūnihitoe_ () is an extremely elegant and highly complex kimono that was only worn by Japanese court-ladies. The _jūnihitoe_ consist of various layers which are silk garments, with the innermost garment being made of white silk. The total weight of the _jūnihitoe_ could add up to 20 kilograms. An important accessory was an elaborate fan, which could be tied together by a rope when folded. Today, the _jūnihitoe_ can only be seen in museums, movies, costume demonstrations, tourist attractions or at certain festivals. These robes are one of the most expensive items of Japanese clothing. Only the Imperial Household still officially uses them at some important functions.
 
 Men's kimono
 
-Shinto_married_couple.jpg
-
 In contrast to women's kimono, men's kimono outfits are far simpler, typically consisting of five pieces, not including footwear.
 
-Men's kimono sleeves are attached to the body of the kimono with no more than a few inches unattached at the bottom, unlike the women's style of very deep sleeves mostly unattached from the body of the kimono. Men's sleeves are less deep than women's kimono sleeves to accommodate the obi around the waist beneath them, whereas on a woman's kimono, the long, unattached bottom of the sleeve can hang over the obi without getting in the way. Armored_Samurai_with_Jin-Haori.jpg In the modern era, the principal distinctions between men's kimono are in the fabric. The typical men's kimono is a subdued, dark color; black, dark blues, greens, and browns are common. Fabrics are usually matte. Some have a subtle pattern, and textured fabrics are common in more casual kimono. More casual kimono may be made in slightly brighter colors, such as lighter purples, greens and blues. Sumo wrestlers have occasionally been known to wear quite bright colors such as fuchsia.
+Men's kimono sleeves are attached to the body of the kimono with no more than a few inches unattached at the bottom, unlike the women's style of very deep sleeves mostly unattached from the body of the kimono. Men's sleeves are less deep than women's kimono sleeves to accommodate the obi around the waist beneath them, whereas on a woman's kimono, the long, unattached bottom of the sleeve can hang over the obi without getting in the way. In the modern era, the principal distinctions between men's kimono are in the fabric. The typical men's kimono is a subdued, dark color; black, dark blues, greens, and browns are common. Fabrics are usually matte. Some have a subtle pattern, and textured fabrics are common in more casual kimono. More casual kimono may be made in slightly brighter colors, such as lighter purples, greens and blues. Sumo wrestlers have occasionally been known to wear quite bright colors such as fuchsia.
 
 The most formal style of kimono is plain black silk with five _kamon_ on the chest, shoulders and back. Slightly less formal is the three-_kamon_ kimono.
 
 
 Accessories and related garments
 
-Kamogawa_ceremony_02.jpg
-
 : A kind of ceremonial overcoat with a long white hem, worn by _Kannushi_, _Miko_, the sweeper or branch-holder, in certain Shinto shrine ceremonies.
-
-Datejime.png
 
  : A wide undersash used to tie the _nagajuban_ and the outer _kimono_ and hold them in place.
 : A fur collar, boa or stole (usually white) worn by women over a _kimono_; usually on _furisode_ by young women out celebrating their _Coming of Age_ at shrines, etc.
@@ -217,14 +201,10 @@ Datejime.png
 : Traditional Japanese stylized headband, worn to keep sweat off of one's face, and as a symbol of effort or courage by the wearer, especially by those in the military.
 : Traditional, special undergarments for wearing under kimono, similar to a Western undershirt, camisole, etc.; usually short in make, going down to the hips, and made from cotton, so as to absorb sweat and provide comfort. A _kosode_ can serve the same function, too.
 
-Mariko's_Graduation_'96.jpg
-
 : A divided (_umanori-bakama_) or undivided skirt (_andon-bakama_) which resembles a wide pair of trousers, traditionally worn by men but contemporarily also by women in less formal situations. A _hakama_ typically is pleated and fastened by ribbons, tied around the waist over the obi. Men's _hakama_ also have a _koshi ita_, which is a stiff or padded part in the lower back of the wearer. Hakama are worn in several budo arts such as aikido, kendo, iaidō and naginata. Hakama are often worn by women at college graduation ceremonies, and by Miko on shinto shrines. Depending on the pattern and material, hakama can range from very formal to visiting wear.
 : A pair of boots (leather or faux leather), with low-to-mid heels, worn with a pair of _hakama_ (a pair of traditional Japanese trousers); boots are a style of footwear that came in from the West during the Meiji Era; worn by women while wearing a _hakama_, optional footwear worn by young women, students and teachers at high-school and university graduation ceremonies, and by young women out celebrating their _Coming of Age_ at shrines, etc., often with a _hakama_ with _furisode_ combination.
 : A small box-shaped billfold accessory; sometimes covered in materials to coordinate with the wearer's _kimono_ or _obi_. Fastened closed with a cord, and carried tucked-within a person's _futokoro_, the space within the front of _kimono_ collar and above the _obi_. Used for formal occasions that require traditional dress, such as a traditional Shinto wedding or a child's _Shichi-Go-San_ ceremony. Originally used for practical uses, such as carrying around a woman's _beni ita_ (lipstick), _omamori_ (an amulet/talisman), _kagami_ (mirror), _tenugui_ (handkerchief), coins, and the like, it now has a more of a decorative role.
 : The worker's version of the more formal _haori_. As winterwear, it is often padded for warmth, giving it insulating properties, as opposed to the somewhat lighter _happi_. It could be worn outside in the wintertime by fieldworkers out working in the fields, by people at home as a housecoat or a cardigan, and even slept-in over one's bedclothes.
-
-黒平絹地富士図羽織_男物-Man's_Formal_Jacket_(Haori)_MET_DP330781.jpg
 
 : A hip- or thigh-length kimono-like overcoat of varied length, which adds formality to an outfit. Haori were originally worn only by men, until it became a fashion for women in the Meiji period. They are now worn by both men and women. . The  was specifically made for armoured samurai to wear.
 : A tasseled, woven string fastener for _haori_. The most formal color is white (see also _fusa_ above).
@@ -237,8 +217,6 @@ Mariko's_Graduation_'96.jpg
  : A thin garment similar to an undershirt. It is worn under the nagajuban.[34][35]
 : Sometimes called a _jittoku haori_, is a type of haori worn only by men. Jittoku are made of unlined silk gauze. The garment falls to the hip, and has sewn _himo_ cords made of the same fabric as the main garment. While a haori has a small sleeve opening like that of a kimono, a jittoku is fully open at the wrist side. Jittoku originated in the Kamakura period (1185–1333 CE), and in the modern day they are worn without hakama, mainly by male practitioners of tea ceremony who have achieved a sufficiently high rank.
 
-Kanzashi1.jpg
-
 : Hair ornaments worn by women. Many different styles exist, including silk flowers, wooden combs, and jade hairpins. A smaller version can be paired inter-changeably with a _hakoseko_, a traditional Japanese clutch-purse.
 : A type of gown-like apron; first designed to protect kimono from food stains, it has baggy sleeves, is as long as the wearer's knees, and fastens with strips of cloth ties that are tied at the back of the neck and the waist. Particularly used when cooking and cleaning, it is worn by Japanese housewives, lunch ladies, cleaners, etc.
 : A traditional Japanese drawstring bag or pouch, worn like a purse or handbag (similar to the English reticule), for carrying around personal possessions (money, etc.), similar to a _sagemono_ (see below). Also referred to as _Kimono Bags_ (as well as Western-style handbags) that have been made with the same materials as the _kimono_, the _obi_ (and even from _tenugui_ material), so as to co-ordinate them with the _kimono_, _obi_ and other accessories).
@@ -248,8 +226,6 @@ Kanzashi1.jpg
 : A traditional Japanese overcoat (not to be confused with a _haori_ or a _hifu_), characterised with a signature square neckline (for showing-off the multiple-collars of the _kimono_ worn beneath), and for duel-fastenings (either tie, snap or button closures). It is worn over the _kimono_ for warmth and protection while outdoors on day-outings and long-distance journeys, as a casual housecoat or coatdress in winter, and as an artist's work smock, apron, pinafore, overalls or a tunic), perfect for art-studio and garden tasks. Some _michiyuki_ will include a hidden pocket beneath the front panel. Although historically there are versions for men, most modern _michiyuki_ are made for women. There is no standard length, and some can be as long as the _kimono_-itself worn beneath it, which is more common for the style of _michiyuki_ that are designed as rainwear.
 : A _kimono_-shaped robe worn by both men and women beneath the main outer garment.[39] Since silk kimono are delicate and difficult to clean, the _nagajuban_ helps to keep the outer kimono clean by preventing contact with the wearer's skin. Only the collar edge of the nagajuban shows from beneath the outer kimono.[40] Many _nagajuban_ have removable collars, to allow them to be changed to match the outer garment, and to be easily washed without washing the entire garment. While the most formal type of _nagajuban_ are white, they are often as beautifully ornate and patterned as the outer kimono. Since men's kimono are usually fairly subdued in pattern and color, the _nagajuban_ allows for discreetly wearing very striking designs and colours.[41] Often worn over a _hadajuban_ (see above).
 : Japanese nightclothes (which may-or-may-not also include a _yukata_).
-
-Kimono_backshot_by_sth.jpg
 
 : The tie belt, sash or wrap for traditional Japanese dress, _keikogi_ (uniforms for Japanese martial arts), and part of _kimono_ outfits. The formal ones worn with women's' kimono can be 30 centimetres (12 in') wide and more than 4 metres (13 ft.) long, and include some of the most elaborate and conspicuous features of her attire, more-so then the kimono-itself, as they can be tied into variously-named decorative  (lit. "knot"). A _koshihimo_ can also count as a _obi_ (albeit a simple one).
 : The scarf-like sash, often silk, which is knotted and tied above the obi and tucked into the top of the _obi_, to hide the _obi-makura_. Worn with the more formal varieties of kimono, and serves as decorates the top part of an _obi_ belt; there are many types and designs: _shibori_, embroidered, etc.; although you can only see a little bit of it, it has an important role as a decoration, and there are different styles of tucking it in and is often more visible with furisode kimonos. Used for tying more complex bows with the _obi_.
@@ -273,19 +249,13 @@ Kimono_backshot_by_sth.jpg
 : A handy piece of fabric, usually cotton or linen, they can come in a wide variety of colours and patterns, and with an myriad amount of uses—but mostly as a hankerchief, a hand towel, and larger ones can even serve as a napkin, bib, headscarf/kerchief/bandana (or to ad-lib as a _hachimaki_), and can double as a _furoshiki_ (a traditional Japanese wrapping cloth), and even a shawl or a babysling.
 : A traditional Japanese oil-paper umbrella/parasol, ideal as an outdoor accessory, come rain or shine. See also Gifu umbrellas.
 
-Bride_at_meiji_shrine.jpg
-
 : A headdress worn in traditional Shinto wedding ceremonies in Japan: A _tsunokakushi_ is a rectangular piece of cloth, often made of white silk (to match the bride's _shiromuku_ _kimono_ (see above)), which covers the bridal high topknot (a _Bunkin Takashimada_), a kind of _chonmage_ (a traditional topknot). They're traditionally worn to veil the bride's horns of jealousy, ego and selfishness, and also symbolizes the bride's resolve to become a gentle and obedient wife. A _tsunokakushi_ can be worn co-ordinated with _kanzashi_.
 : Japanese slippers worn indoors at home, school or certain companies and public buildings where street shoes are prohibited.
 : Traditional sandals made of straw rope and bamboo bark and designed to wrap securely around the wearer's foot and up around the ankle; mostly worn by monks, and others who often travelled long-distance by foot (traders and merchants, etc.).
 : Worn by brides at traditional Shinto weddings, it is an all-white hood, worn as an alternative to the _Tsunokakushi_, and the equivalent to the Western marriage ceremony's bridal veil; it purpose is to hide the bride's face from all others, except for the bridegroom, until the end of the wedding ceremony. It was adapted from the _katsuki_, a hood worn outdoors to keep away dust and prevent from the cold, by married women in samurai families, from the Muromachi to Momoyama periods, and then from the Edo period onwards, this custom was taken up by younger women. Like the _shiromuku_ its worn in concert with, the _wataboshi_ is a symbol of innocence and purity; its worn only outside in outdoor receptions with the _shiromuku_-only, not with coloured wedding _iro-uchikake_ _kimono_, or during indoor receptions.
 
-Yukata_tokyo.JPG
-
 : An unlined kimono-like garment for summer use, usually made of cotton, linen, or hemp. Yukata are strictly informal, most often worn to outdoor festivals, by men and women of all ages. They are also worn at onsen (hot spring) resorts, where they are often provided for the guests in the resort's own pattern.
 : The traditional Japanese undergarment (like a loincloth or perizoma) for adult females; it may also be worn as a kimono underskirt, and as a single-layer absorbent bathrobe (worn during or after a bath).
-
-Zoori_straw.png
 
 : Traditional sandals worn by both men and women, similar in design to flip-flops. Their formality ranges from strictly informal to fully formal. They are made of many materials, including cloth, leather, vinyl and woven grass, and can be highly decorated or very simple.
 
@@ -300,7 +270,7 @@ Old-fashioned kimono styles meant that hiyoku were entire under-kimono, however 
 
 Care
 
-Kimonofold.jpg In the past, a kimono would often be entirely taken apart for washing, and then re-sewn for wearing.[44] This traditional washing method is called _arai hari_. Because the stitches must be taken out for washing, traditional kimono need to be hand sewn. _Arai hari_ is very expensive and difficult and is one of the causes of the declining popularity of kimono. Modern fabrics and cleaning methods have been developed that eliminate this need, although the traditional washing of kimono is still practiced, especially for high-end garments.
+In the past, a kimono would often be entirely taken apart for washing, and then re-sewn for wearing.[44] This traditional washing method is called _arai hari_. Because the stitches must be taken out for washing, traditional kimono need to be hand sewn. _Arai hari_ is very expensive and difficult and is one of the causes of the declining popularity of kimono. Modern fabrics and cleaning methods have been developed that eliminate this need, although the traditional washing of kimono is still practiced, especially for high-end garments.
 
 New, custom-made kimono are generally delivered to a customer with long, loose basting stitches placed around the outside edges. These stitches are called _shitsuke ito_. They are sometimes replaced for storage. They help to prevent bunching, folding and wrinkling, and keep the kimono's layers in alignment.
 

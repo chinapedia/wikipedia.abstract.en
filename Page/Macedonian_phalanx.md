@@ -3,7 +3,7 @@ The MACEDONIAN PHALANX is an infantry formation developed by Philip II and used 
 
 Development
 
-Fresco_of_a_Macedonian_soldier,_from_the_Tomb_of_Agios_Athanasios,_4th_century_BC.jpg of an ancient Macedonian soldier wielding a spear and wearing a cap, from the tomb of Agios Athanasios, Thessaloniki, Greece.]]
+of an ancient Macedonian soldier wielding a spear and wearing a cap, from the tomb of Agios Athanasios, Thessaloniki, Greece.]]
 
 Philip II spent much of his youth as a hostage at Thebes, where he studied under the renowned general Epaminondas, whose reforms were the basis for the phalanx. PHALANGITES were professional soldiers, and were among the first troops ever to be drilled, thereby allowing them to execute complex maneuvers well beyond the reach of most other armies. They fought packed in a close rectangular formation, usually eight men deep, with a leader at the head of each column and a secondary leader in the middle, so that the back rows could move off to the sides if more frontage was needed.
 

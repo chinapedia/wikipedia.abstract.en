@@ -5,7 +5,7 @@ Typically, when the sample space is finite, any subset of the sample space is an
 
 A simple example
 
-If we assemble a deck of 52 playing cards with no jokers, and draw a single card from the deck, then the sample space is a 52-element set, as each card is a possible outcome. An event, however, is any subset of the sample space, including any singleton set (an elementary event), the empty set (an impossible event, with probability zero) and the sample space itself (a certain event, with probability one). Other events are proper subsets of the sample space that contain multiple elements. So, for example, potential events include: Venn_A_subset_B.svg of an event. _B_ is the sample space and _A_ is an event.
+If we assemble a deck of 52 playing cards with no jokers, and draw a single card from the deck, then the sample space is a 52-element set, as each card is a possible outcome. An event, however, is any subset of the sample space, including any singleton set (an elementary event), the empty set (an impossible event, with probability zero) and the sample space itself (a certain event, with probability one). Other events are proper subsets of the sample space that contain multiple elements. So, for example, potential events include: of an event. _B_ is the sample space and _A_ is an event.
 By the ratio of their areas, the probability of _A_ is approximately 0.4.]]
 
 -   "Red and black at the same time without being a joker" (0 elements),

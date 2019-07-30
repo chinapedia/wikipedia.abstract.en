@@ -5,7 +5,7 @@ The real yellowwood has been declared the national tree of South Africa and is p
 
 Appearance
 
-Podocarpus_latifolius_-_Cape_Town_-_2.JPG The real yellowwood is a large evergreen tree that grows up to 30 meters in height. It grows relatively slowly but forms a wood of exceptional quality.
+The real yellowwood is a large evergreen tree that grows up to 30 meters in height. It grows relatively slowly but forms a wood of exceptional quality.
 
 The leaves are strap-shaped, 25–40 mm long on mature trees, larger, to 100 mm long, on vigorous young trees, and 6–12 mm broad, with a bluntly pointed tip. The species name _"latifolius"_ actually means "wide-leaved". The bright-coloured foliage of new growth stands out against the dark leaves of mature foliage.
 
@@ -21,7 +21,7 @@ It is commonly found in afro-temperate forests and often in mountainous areas. I
 
 Human usage
 
-Podocarpus_latifolius_-_Cape_Town_-_1.JPG]] It is a slow-growing tree but exceptionally long-lived, and is increasingly grown as an ornamental feature in South African gardens. The unusual texture of the foliage is a reason for its growing popularity. The bright edible berries attract birds, which spread the seed.
+]] It is a slow-growing tree but exceptionally long-lived, and is increasingly grown as an ornamental feature in South African gardens. The unusual texture of the foliage is a reason for its growing popularity. The bright edible berries attract birds, which spread the seed.
 
 The wood is hard, similar to yew wood, used for furniture, panelling, etc. Due to past over-exploitation, little is now cut.
 

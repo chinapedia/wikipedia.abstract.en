@@ -13,7 +13,7 @@ The parsec is defined as being equal to the length of the longer leg of an extre
 
 One of the oldest methods used by astronomers to calculate the distance to a star is to record the difference in angle between two measurements of the position of the star in the sky. The first measurement is taken from the Earth on one side of the Sun, and the second is taken approximately half a year later, when the Earth is on the opposite side of the Sun. The distance between the two positions of the Earth when the two measurements were taken is twice the distance between the Earth and the Sun. The difference in angle between the two measurements is twice the parallax angle, which is formed by lines from the Sun and Earth to the star at the distant vertex. Then the distance to the star could be calculated using trigonometry.[4] The first successful published direct measurements of an object at interstellar distances were undertaken by German astronomer Friedrich Wilhelm Bessel in 1838, who used this approach to calculate the 3.5-parsec distance of 61 Cygni.[5]
 
-ParallaxV2.svg The parallax of a star is defined as half of the angular distance that a star appears to move relative to the celestial sphere as Earth orbits the Sun. Equivalently, it is the subtended angle, from that star's perspective, of the semimajor axis of the Earth's orbit. The star, the Sun and the Earth form the corners of an imaginary right triangle in space: the right angle is the corner at the Sun, and the corner at the star is the parallax angle. The length of the opposite side to the parallax angle is the distance from the Earth to the Sun (defined as one astronomical unit (au)), and the length of the adjacent side gives the distance from the sun to the star. Therefore, given a measurement of the parallax angle, along with the rules of trigonometry, the distance from the Sun to the star can be found. A parsec is defined as the length of the side adjacent to the vertex occupied by a star whose parallax angle is one arcsecond.
+The parallax of a star is defined as half of the angular distance that a star appears to move relative to the celestial sphere as Earth orbits the Sun. Equivalently, it is the subtended angle, from that star's perspective, of the semimajor axis of the Earth's orbit. The star, the Sun and the Earth form the corners of an imaginary right triangle in space: the right angle is the corner at the Sun, and the corner at the star is the parallax angle. The length of the opposite side to the parallax angle is the distance from the Earth to the Sun (defined as one astronomical unit (au)), and the length of the adjacent side gives the distance from the sun to the star. Therefore, given a measurement of the parallax angle, along with the rules of trigonometry, the distance from the Sun to the star can be found. A parsec is defined as the length of the side adjacent to the vertex occupied by a star whose parallax angle is one arcsecond.
 
 The use of the parsec as a unit of distance follows naturally from Bessel's method, because the distance in parsecs can be computed simply as the reciprocal of the parallax angle in arcseconds (i.e. if the parallax angle is 1 arcsecond, the object is 1 pc from the Sun; if the parallax angle is 0.5 arcseconds, the object is 2 pc away; etc.). No trigonometric functions are required in this relationship because the very small angles involved mean that the approximate solution of the skinny triangle can be applied.
 
@@ -21,7 +21,7 @@ Though it may have been used before, the term _parsec_ was first mentioned in an
 
 Calculating the value of a parsec
 
-    Parsec_(1).svg
+
 
 In the diagram above (not to scale), S represents the Sun, and E the Earth at one point in its orbit. Thus the distance ES is one astronomical unit (au). The angle SDE is one arcsecond ( of a degree) so by definition D is a point in space at a distance of one parsec from the Sun. Through trigonometry, the distance SD is calculated as follows:
 
@@ -69,7 +69,7 @@ Distances expressed in fractions of a parsec usually involve objects within a si
 -   The most distant space probe, _Voyager 1_, was parsecs from Earth . _Voyager 1_ took 41 years to cover that distance.
 -   The Oort cloud is estimated to be approximately 0.6 parsecs in diameter
 
-M87_jet.jpg of M87 is thought to be () long. (image from Hubble Space Telescope)]]
+of M87 is thought to be () long. (image from Hubble Space Telescope)]]
 
 Parsecs and kiloparsecs
 

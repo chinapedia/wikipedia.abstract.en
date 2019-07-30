@@ -1,5 +1,3 @@
-Meta-stability.svg
-
 In physics, METASTABILITY is a stable state of a dynamical system other than the system's state of least energy. A ball resting in a hollow on a slope is a simple example of metastability. If the ball is only slightly pushed, it will settle back into its hollow, but a stronger push may start the ball rolling down the slope. Bowling pins show similar metastability by either merely wobbling for a moment or tipping over completely. A common example of metastability in science is isomerisation. Higher energy isomers are long lived as they are prevented from rearranging to their preferred ground state by (possibly large) barriers in the potential energy.
 
 During a metastable state of finite lifetime, all state-describing parameters reach and hold stationary values. In isolation:
@@ -25,7 +23,7 @@ Metastable states of matter (also referred as metastates) range from MELTING SOL
 
 Condensed matter and macromolecules
 
-MtBaker-Chair8-Top.jpg.]]
+.]]
 
 Metastable phases are common in condensed matter. For example, diamond is a metastable form of carbon at standard temperature and pressure. It can be converted to graphite (plus leftover kinetic energy), but only after overcoming an activation energy – an intervening hill. Martensite is a metastable phase used to control the hardness of most steel. The bonds between the building blocks of polymers such as DNA, RNA, and proteins are also metastable. Adenosine triphosphate is a highly metastable molecule, colloquially described as being "full of energy" that can be used in many ways in biology.[1] Metastable polymorphs of silica are commonly observed. In some cases, such as in the allotropes of solid boron, acquiring a sample of the stable phase is difficult.[2] Generally speaking, emulsions/colloidal systems and glasses are metastable.
 

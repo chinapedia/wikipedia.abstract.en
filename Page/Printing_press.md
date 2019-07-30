@@ -1,4 +1,4 @@
-PrintMus_038.jpg press at the International Printing Museum, Carson, California]]
+press at the International Printing Museum, Carson, California]]
 
 A PRINTING PRESS is a mechanical device for applying pressure to an inked surface resting upon a print medium (such as paper or cloth), thereby transferring the ink. It marked a dramatic improvement on earlier printing methods in which the cloth, paper or other medium was brushed or rubbed repeatedly to achieve the transfer of ink, and accelerated the process. Typically used for texts, the invention and global spread of the printing press was one of the most influential events in the second millennium.[1][2]
 
@@ -13,7 +13,7 @@ History
 
 Economic conditions and intellectual climate
 
-Laurentius_de_Voltolina_001.jpg class (1350s)]]
+class (1350s)]]
 
 The rapid economic and socio-cultural development of late medieval society in Europe created favorable intellectual and technological conditions for Gutenberg's improved version of the printing press: the entrepreneurial spirit of emerging capitalism increasingly made its impact on medieval modes of production, fostering economic thinking and improving the efficiency of traditional work-processes. The sharp rise of medieval learning and literacy amongst the middle class led to an increased demand for books which the time-consuming hand-copying method fell far short of accommodating.[11]
 
@@ -21,13 +21,13 @@ Technological factors
 
 Technologies preceding the press that led to the press's invention included: manufacturing of paper, development of ink, woodblock printing, and distribution of eyeglasses.[12] At the same time, a number of medieval products and technological processes had reached a level of maturity which allowed their potential use for printing purposes. Gutenberg took up these far-flung strands, combined them into one complete and functioning system, and perfected the printing process through all its stages by adding a number of inventions and innovations of his own:
 
-Holzspindelkelter_von_1702.jpg. Such screw presses were applied in Europe to a wide range of uses and provided Gutenberg with the model for his printing press.]]
+. Such screw presses were applied in Europe to a wide range of uses and provided Gutenberg with the model for his printing press.]]
 
 The screw press which allowed direct pressure to be applied on flat-plane was already of great antiquity in Gutenberg's time and was used for a wide range of tasks.[13] Introduced in the 1st century AD by the Romans, it was commonly employed in agricultural production for pressing wine grapes and (olive) oil fruit, both of which formed an integral part of the Mediterranean and medieval diet.[14] The device was also used from very early on in urban contexts as a cloth press for printing patterns.[15] Gutenberg may have also been inspired by the paper presses which had spread through the German lands since the late 14th century and which worked on the same mechanical principles.[16]
 
 Gutenberg adopted the basic design, thereby mechanizing the printing process.[17] Printing, however, put a demand on the machine quite different from pressing. Gutenberg adapted the construction so that the pressing power exerted by the platen on the paper was now applied both evenly and with the required sudden elasticity. To speed up the printing process, he introduced a movable undertable with a plane surface on which the sheets could be swiftly changed.[18]
 
-metal_movable_type.jpg sorted in a letter case and loaded in a composing stick on top]]
+sorted in a letter case and loaded in a composing stick on top]]
 
 The concept of movable type was not new in the 15th century; movable type printing had been invented in China during the Song dynasty, and was later used in Korea during the Goryeo Dynasty, where metal movable-type printing technology was developed in 1234.[19][20] In Europe, sporadic evidence that the typographical principle, the idea of creating a text by reusing individual characters, was well understood and employed in pre-Gutenberg Europe had been cropping up since the 12th century and possibly before. The known examples range from Germany (Prüfening inscription) to England (letter tiles) to Italy.[21] However, the various techniques employed (imprinting, punching and assembling individual letters) did not have the refinement and efficiency needed to become widely accepted.
 
@@ -35,7 +35,7 @@ Gutenberg greatly improved the process by treating typesetting and printing as t
 
 Another factor conducive to printing arose from the book existing in the format of the codex, which had originated in the Roman period.[25] Considered the most important advance in the history of the book prior to printing itself, the codex had completely replaced the ancient scroll at the onset of the Middle Ages (500 AD).[26] The codex holds considerable practical advantages over the scroll format; it is more convenient to read (by turning pages), is more compact, less costly, and, in particular, unlike the scroll, both recto and verso could be used for writing − and printing.[27]
 
-Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg of the acclaimed 42-line Bible, Gutenberg's major work]]
+of the acclaimed 42-line Bible, Gutenberg's major work]]
 
 A fourth development was the early success of medieval papermakers at mechanizing paper manufacture. The introduction of water-powered paper mills, the first certain evidence of which dates to 1282,[28] allowed for a massive expansion of production and replaced the laborious handcraft characteristic of both Chinese[29] and Muslim papermaking.[30] Papermaking centres began to multiply in the late 13th century in Italy, reducing the price of paper to one sixth of parchment and then falling further; papermaking centers reached Germany a century later.[31]
 
@@ -44,7 +44,7 @@ Despite this it appears that the final breakthrough of paper depended just as mu
 
 Function and approach
 
-Press_skeen_1872_with_description.png Printer_in_1568-ce.png from 1568 shows the left printer removing a page from the press while the one at right inks the text-blocks. Such a duo could reach 14,000 hand movements per working day, printing around 3,600 pages in the process.[36]]]A printing press, in its classical form, is a standing mechanism, ranging from long, wide, and tall. The small individual metal letters known as type would be set up by a compositor into the desired lines of text. Several lines of text would be arranged at once and were placed in a wooden frame known as a galley. Once the correct number of pages were composed, the galleys would be laid face up in a frame, also known as a forme.[37], which itself is placed onto a flat stone, 'bed,' or 'coffin.' The text is inked using two balls, pads mounted on handles. The balls were made of dog skin leather, because it has no pores,[38] and stuffed with sheep's wool and were inked. This ink was then applied to the text evenly. One damp piece of paper was then taken from a heap of paper and placed on the tympan. The paper was damp as this lets the type 'bite' into the paper better. Small pins hold the paper in place. The paper is now held between a frisket and tympan (two frames covered with paper or parchment).
+from 1568 shows the left printer removing a page from the press while the one at right inks the text-blocks. Such a duo could reach 14,000 hand movements per working day, printing around 3,600 pages in the process.[36]]]A printing press, in its classical form, is a standing mechanism, ranging from long, wide, and tall. The small individual metal letters known as type would be set up by a compositor into the desired lines of text. Several lines of text would be arranged at once and were placed in a wooden frame known as a galley. Once the correct number of pages were composed, the galleys would be laid face up in a frame, also known as a forme.[37], which itself is placed onto a flat stone, 'bed,' or 'coffin.' The text is inked using two balls, pads mounted on handles. The balls were made of dog skin leather, because it has no pores,[38] and stuffed with sheep's wool and were inked. This ink was then applied to the text evenly. One damp piece of paper was then taken from a heap of paper and placed on the tympan. The paper was damp as this lets the type 'bite' into the paper better. Small pins hold the paper in place. The paper is now held between a frisket and tympan (two frames covered with paper or parchment).
 
 These are folded down, so that the paper lies on the surface of the inked type. The bed is rolled under the platen, using a windlass mechanism. A small rotating handle is used called the 'rounce' to do this, and the impression is made with a screw that transmits pressure through the platen. To turn the screw the long handle attached to it is turned. This is known as the bar or 'Devil's Tail.' In a well-set-up press, the springiness of the paper, frisket, and tympan caused the bar to spring back and raise the platen, the windlass turned again to move the bed back to its original position, the tympan and frisket raised and opened, and the printed sheet removed. Such presses were always worked by hand. After around 1800, iron presses were developed, some of which could be operated by steam power.
 
@@ -66,7 +66,7 @@ The Printing Revolution occurred when the spread of the printing press facilitat
 
 Mass production and spread of printed books
 
-Printing_towns_incunabula.svg, Germany]] European_Output_of_Printed_Books_ca._1450–1800.png
+, Germany]]
 
 The invention of mechanical movable type printing led to a huge increase of printing activities across Europe within only a few decades. From a single print shop in Mainz, Germany, printing had spread to no less than around 270 cities in Central, Western and Eastern Europe by the end of the 15th century.[45] As early as 1480, there were printers active in 110 different places in Germany, Italy, France, Spain, the Netherlands, Belgium, Switzerland, England, Bohemia and Poland.[46] From that time on, it is assumed that "the printed book was in universal use in Europe".[47]
 
@@ -84,7 +84,7 @@ Incunable are surviving pre-16th century print works which are collected by many
 
 Circulation of information and ideas
 
-Printing3_Walk_of_Ideas_Berlin.JPG, commemorating Gutenberg's invention on the occasion of the 2006 World Cup in Germany]]
+, commemorating Gutenberg's invention on the occasion of the 2006 World Cup in Germany]]
 
 The printing press was also a factor in the establishment of a community of scientists who could easily communicate their discoveries through the establishment of widely disseminated scholarly journals, helping to bring on the scientific revolution. Because of the printing press, authorship became more meaningful and profitable. It was suddenly important who had said or written what, and what the precise formulation and time of composition was. This allowed the exact citing of references, producing the rule, "One Author, one work (title), one piece of information" (Giesecke, 1989; 325). Before, the author was less important, since a copy of Aristotle made in Paris would not be exactly identical to one made in Bologna. For many works prior to the printing press, the name of the author has been entirely lost.
 
@@ -101,7 +101,7 @@ Industrial printing presses
 
 At the dawn of the Industrial Revolution, the mechanics of the hand-operated Gutenberg-style press were still essentially unchanged, although new materials in its construction, amongst other innovations, had gradually improved its printing efficiency. By 1800, Lord Stanhope had built a press completely from cast iron which reduced the force required by 90%, while doubling the size of the printed area.[65] With a capacity of 480 pages per hour, the Stanhope press doubled the output of the old style press.[66] Nonetheless, the limitations inherent to the traditional method of printing became obvious.
 
-Koenig's_steam_press_-_1814.png's 1814 steam-powered printing press]]
+'s 1814 steam-powered printing press]]
 
 Two ideas altered the design of the printing press radically: First, the use of steam power for running the machinery, and second the replacement of the printing flatbed with the rotary motion of cylinders. Both elements were for the first time successfully implemented by the German printer Friedrich Koenig in a series of press designs devised between 1802 and 1818.[67] Having moved to London in 1804, Koenig soon met Thomas Bensley and secured financial support for his project in 1807.[68] Patented in 1810, Koenig had designed a steam press "much like a hand press connected to a steam engine."[69] The first production trial of this model occurred in April 1811. He produced his machine with assistance from German engineer Andreas Friedrich Bauer.
 

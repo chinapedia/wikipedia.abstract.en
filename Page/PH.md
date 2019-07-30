@@ -1,5 +1,3 @@
-216_pH_Scale-01.jpg
-
 In chemistry, PH () is a scale used to specify how acidic or basic a water-based solution is. Acidic solutions have a lower pH, while basic solutions have a higher pH. At room temperature (25 °C), pure water is neither acidic nor basic and has a pH of 7.
 
 The pH scale is logarithmic and approximates the negative of the base 10 logarithm of the molar concentration (measured in units of moles per liter) of hydrogen ions in a solution. More precisely it is the negative of the base 10 logarithm of the activity of the hydrogen ion.[1] At 25 °C, solutions with a pH less than 7 are acidic and solutions with a pH greater than 7 are basic. The neutral value of the pH depends on the temperature, being lower than 7 if the temperature increases. The pH value can be less than 0 for very strong acids, or greater than 14 for very strong bases.[2]
@@ -68,11 +66,11 @@ The difference between p[H] and pH is quite small. It has been stated[18] that p
 
 pH indicators
 
-Universal_indicator_paper.jpg Indicators may be used to measure pH, by making use of the fact that their color changes with pH. Visual comparison of the color of a test solution with a standard color chart provides a means to measure pH accurate to the nearest whole number. More precise measurements are possible if the color is measured spectrophotometrically, using a colorimeter or spectrophotometer. Universal indicator consists of a mixture of indicators such that there is a continuous color change from about pH 2 to pH 10. Universal indicator paper is made from absorbent paper that has been impregnated with universal indicator. Another method of measuring pH is using an electronic pH meter.
+Indicators may be used to measure pH, by making use of the fact that their color changes with pH. Visual comparison of the color of a test solution with a standard color chart provides a means to measure pH accurate to the nearest whole number. More precise measurements are possible if the color is measured spectrophotometrically, using a colorimeter or spectrophotometer. Universal indicator consists of a mixture of indicators such that there is a continuous color change from about pH 2 to pH 10. Universal indicator paper is made from absorbent paper that has been impregnated with universal indicator. Another method of measuring pH is using an electronic pH meter.
 
 pOH
 
-PHscalenolang.svg pOH is sometimes used as a measure of the concentration of hydroxide ions. OH^(−). pOH values are derived from pH measurements. The concentration of hydroxide ions in water is related to the concentration of hydrogen ions by
+pOH is sometimes used as a measure of the concentration of hydroxide ions. OH^(−). pOH values are derived from pH measurements. The concentration of hydroxide ions in water is related to the concentration of hydrogen ions by
 
     $[\ce{OH^-}] = \frac{K_\ce{W}}{[\ce{H^+}]}$
 
@@ -117,7 +115,7 @@ pH in soil
 
 Classification of soil pH ranges
 
-The United States Department of Agriculture Natural Resources Conservation Service, formerly Soil Conservation Service classifies soil pH ranges as follows: [26] Soil_pH_effect_on_nutrient_availability.svg
+The United States Department of Agriculture Natural Resources Conservation Service, formerly Soil Conservation Service classifies soil pH ranges as follows: [26]
 
   Denomination             pH range
   ------------------------ ----------
@@ -136,7 +134,7 @@ The United States Department of Agriculture Natural Resources Conservation Servi
 
 pH in nature
 
-Lemon.jpg tastes sour because it contains 5% to 6% citric acid and has a pH of 2.2. (high acidity)]] pH-dependent plant pigments that can be used as pH indicators occur in many plants, including hibiscus, red cabbage (anthocyanin) and red wine. The juice of citrus fruits is acidic mainly because it contains citric acid. Other carboxylic acids occur in many living systems. For example, lactic acid is produced by muscle activity. The state of protonation of phosphate derivatives, such as ATP, is pH-dependent. The functioning of the oxygen-transport enzyme hemoglobin is affected by pH in a process known as the Root effect.
+tastes sour because it contains 5% to 6% citric acid and has a pH of 2.2. (high acidity)]] pH-dependent plant pigments that can be used as pH indicators occur in many plants, including hibiscus, red cabbage (anthocyanin) and red wine. The juice of citrus fruits is acidic mainly because it contains citric acid. Other carboxylic acids occur in many living systems. For example, lactic acid is produced by muscle activity. The state of protonation of phosphate derivatives, such as ATP, is pH-dependent. The functioning of the oxygen-transport enzyme hemoglobin is affected by pH in a process known as the Root effect.
 
 Seawater
 

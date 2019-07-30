@@ -1,4 +1,4 @@
-Duccio_di_Buoninsegna_066.jpg, c. 1310-1311 (Museo dell'Opera del Duomo, Siena Cathedral).]]
+, c. 1310-1311 (Museo dell'Opera del Duomo, Siena Cathedral).]]
 
 MALACHI, MALACHIAS, MALACHE or MAL'ACHI (; ) was the writer of the Book of Malachi, the last book of the Neviim (prophets) section in the Hebrew Bible. No allusion is made to him by Ezra, however, and he does not directly mention the restoration of the temple. The editors of the 1906 Jewish Encyclopedia implied that he prophesied after Haggai and Zechariah (; , ) and speculated that he delivered his prophecies about 420 BCE, after the second return of Nehemiah from Persia (Book of Nehemiah ), or possibly before his return, comparing with ( with ).
 
@@ -12,7 +12,7 @@ Because Malachi's name does not occur elsewhere in the Bible, some scholars doub
 
 Works
 
-Tissot_Malachi.jpg)]] The Jews of his day ascribed the Book of Malachi, the last book of prophecy, to Ezra but if Ezra's name was originally associated with the book, it would hardly have been dropped by the collectors of the prophetic canon who lived only a century or two subsequent to Ezra's time. Certain traditions ascribe the book to Zerubbabel and Nehemiah; others, still, to Malachi, whom they designate as a Levite and a member of the "Great Synagogue." Certain modern scholars, however, on the basis of the similarity of the title (compare Malachi 1:1 to Zechariah 9:1 and Zechariah 12:1), declare it to be anonymous. Professor G.G. Cameron, suggests that the termination of the word "Malachi" is adjectival, and equivalent to the Latin angelicus, signifying "one charged with a message or mission" (a missionary). The term would thus be an official title; and the thought would not be unsuitable to one whose message closed the prophetical canon of the Old Testament.[3]
+)]] The Jews of his day ascribed the Book of Malachi, the last book of prophecy, to Ezra but if Ezra's name was originally associated with the book, it would hardly have been dropped by the collectors of the prophetic canon who lived only a century or two subsequent to Ezra's time. Certain traditions ascribe the book to Zerubbabel and Nehemiah; others, still, to Malachi, whom they designate as a Levite and a member of the "Great Synagogue." Certain modern scholars, however, on the basis of the similarity of the title (compare Malachi 1:1 to Zechariah 9:1 and Zechariah 12:1), declare it to be anonymous. Professor G.G. Cameron, suggests that the termination of the word "Malachi" is adjectival, and equivalent to the Latin angelicus, signifying "one charged with a message or mission" (a missionary). The term would thus be an official title; and the thought would not be unsuitable to one whose message closed the prophetical canon of the Old Testament.[3]
 
 
 Period

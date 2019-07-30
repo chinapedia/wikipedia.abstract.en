@@ -1,4 +1,4 @@
-31337_h4x0r.jpg sticker]] LEET (or "1337"), also known as ELEET or LEETSPEAK, is a system of modified spellings used primarily on the Internet. It often uses character replacements in ways that play on the similarity of their glyphs via reflection or other resemblance. Additionally, it modifies certain words based on a system of suffixes and alternate meanings. There are many dialects or linguistic varieties in different online communities.
+sticker]] LEET (or "1337"), also known as ELEET or LEETSPEAK, is a system of modified spellings used primarily on the Internet. It often uses character replacements in ways that play on the similarity of their glyphs via reflection or other resemblance. Additionally, it modifies certain words based on a system of suffixes and alternate meanings. There are many dialects or linguistic varieties in different online communities.
 
 The term "leet" is derived from the word _elite_, used as an adjective to describe formidable prowess or accomplishment, especially in the fields of online gaming or computer hacking. The leet lexicon includes spellings of the word as _1337_ or _l33t_.
 

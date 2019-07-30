@@ -1,4 +1,4 @@
-Radiosity_-_RRV,_step_79.png In 3D computer graphics, RADIOSITY is an application of the finite element method to solving the rendering equation for scenes with surfaces that reflect light diffusely. Unlike rendering methods that use Monte Carlo algorithms (such as path tracing), which handle all types of light paths, typical radiosity only account for paths (represented by the code "LD*E") which leave a light source and are reflected diffusely some number of times (possibly zero) before hitting the eye. Radiosity is a global illumination algorithm in the sense that the illumination arriving on a surface comes not just directly from the light sources, but also from other surfaces reflecting light. Radiosity is viewpoint independent, which increases the calculations involved, but makes them useful for all viewpoints.
+In 3D computer graphics, RADIOSITY is an application of the finite element method to solving the rendering equation for scenes with surfaces that reflect light diffusely. Unlike rendering methods that use Monte Carlo algorithms (such as path tracing), which handle all types of light paths, typical radiosity only account for paths (represented by the code "LD*E") which leave a light source and are reflected diffusely some number of times (possibly zero) before hitting the eye. Radiosity is a global illumination algorithm in the sense that the illumination arriving on a surface comes not just directly from the light sources, but also from other surfaces reflecting light. Radiosity is viewpoint independent, which increases the calculations involved, but makes them useful for all viewpoints.
 
 Radiosity methods were first developed in about 1950 in the engineering field of heat transfer. They were later refined specifically for the problem of rendering computer graphics in 1984 by researchers at Cornell University[1] and Hiroshima University.[2]
 
@@ -7,7 +7,7 @@ Notable commercial radiosity engines are Enlighten by Geomerics (used for games 
 
 Visual characteristics
 
-Radiosity_Comparison.jpg The inclusion of radiosity calculations in the rendering process often lends an added element of realism to the finished scene, because of the way it mimics real-world phenomena. Consider a simple room scene.
+The inclusion of radiosity calculations in the rendering process often lends an added element of realism to the finished scene, because of the way it mimics real-world phenomena. Consider a simple room scene.
 
 The image on the left was rendered with a typical DIRECT ILLUMINATION RENDERER. There are _three types_ of lighting in this scene which have been specifically chosen and placed by the artist in an attempt to create realistic lighting: SPOT LIGHTING with shadows (placed outside the window to create the light shining on the floor), AMBIENT LIGHTING (without which any part of the room not lit directly by a light source would be totally dark), and OMNIDIRECTIONAL LIGHTING without shadows (to reduce the flatness of the ambient lighting).
 
@@ -21,8 +21,6 @@ The surfaces of the scene to be rendered are each divided up into one or more sm
 The view factors are used as coefficients in a linear system of rendering equations. Solving this system yields the radiosity, or brightness, of each patch, taking into account diffuse interreflections and soft shadows.
 
 Progressive radiosity solves the system iteratively with intermediate radiosity values for the patch, corresponding to bounce levels. That is, after each iteration, we know how the scene looks after one light bounce, after two passes, two bounces, and so forth. This is useful for getting an interactive preview of the scene. Also, the user can stop the iterations once the image looks good enough, rather than wait for the computation to numerically converge.
-
-Radiosity_Progress.png
 
 Another common method for solving the radiosity equation is "shooting radiosity," which iteratively solves the radiosity equation by "shooting" light from the patch with the most energy at each step. After the first pass, only those patches which are in direct line of sight of a light-emitting patch will be illuminated. After the second pass, more patches will become illuminated as the light begins to bounce around the scene. The scene continues to grow brighter and eventually reaches a steady state.
 
@@ -47,7 +45,7 @@ where:
 -   θ_(x) and θ_(x') are the angles between the line joining _x_ and ''x' '' and vectors normal to the surface at _x_ and ''x' '' respectively.
 -   Vis(_x_,''x' '') is a visibility function, defined to be 1 if the two points _x_ and ''x' '' are visible from each other, and 0 if they are not.
 
-Nusselt_analog.svg If the surfaces are approximated by a finite number of planar patches, each of which is taken to have a constant radiosity _B_(i)_ and reflectivity _ρ_(i)_, the above equation gives the discrete radiosity equation,
+If the surfaces are approximated by a finite number of planar patches, each of which is taken to have a constant radiosity _B_(i)_ and reflectivity _ρ_(i)_, the above equation gives the discrete radiosity equation,
 
 $$B_i = E_i + \rho_i \sum_{j=1}^n F_{ij} B_j$$
 
@@ -91,7 +89,7 @@ Static, pre-computed radiosity may be displayed in realtime via Lightmaps on cur
 
 Advantages
 
-Utah_teapot_simple_2.png. Radiosity was used for all diffuse illumination in this scene.]] One of the advantages of the Radiosity algorithm is that it is relatively simple to explain and implement. This makes it a useful algorithm for teaching students about global illumination algorithms. A typical direct illumination renderer already contains nearly all of the algorithms (perspective transformations, texture mapping, hidden surface removal) required to implement radiosity. A strong grasp of mathematics is not required to understand or implement this algorithm.
+. Radiosity was used for all diffuse illumination in this scene.]] One of the advantages of the Radiosity algorithm is that it is relatively simple to explain and implement. This makes it a useful algorithm for teaching students about global illumination algorithms. A typical direct illumination renderer already contains nearly all of the algorithms (perspective transformations, texture mapping, hidden surface removal) required to implement radiosity. A strong grasp of mathematics is not required to understand or implement this algorithm.
 
 
 Limitations

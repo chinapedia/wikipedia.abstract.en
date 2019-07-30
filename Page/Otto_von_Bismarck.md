@@ -9,8 +9,6 @@ Bismarck – a Junker himself – was strong-willed, outspoken and overbearing, 
 
 Early years
 
-Otto_von_Bismarck,_Jugendbildnis_im_Alter_von_22_Jahren.jpg
-
 Bismarck was born in 1815 at Schönhausen, a noble family estate west of Berlin in the Prussian province of Saxony. His father, Karl Wilhelm Ferdinand von Bismarck (1771–1845), was a Junker estate owner and a former Prussian military officer; his mother, Wilhelmine Luise Mencken (1789–1839), was the well educated daughter of a senior government official in Berlin. In 1816, the family moved to its Pomeranian estate, Kniephof (now Konarzewo, Poland), northeast of Stettin (now Szczecin), in the then-Prussian province of Farther Pomerania. There Bismarck spent his childhood in a bucolic setting.[5]
 
 Bismarck had two siblings: his older brother Bernhard (1810–1893) and his younger sister Malwine (1827–1908). The world saw Bismarck as a typical backwoods Prussian Junker, an image that he encouraged by wearing military uniforms. However, he was well educated and cosmopolitan with a gift for conversation, and knew English, French, Italian, Polish and Russian.[6]
@@ -27,8 +25,6 @@ Early political career
 Young politician
 
 In 1847 Bismarck, aged thirty-two, was chosen as a representative to the newly created Prussian legislature, the _Vereinigter Landtag_. There, he gained a reputation as a royalist and reactionary politician with a gift for stinging rhetoric; he openly advocated the idea that the monarch had a divine right to rule. His selection was arranged by the Gerlach brothers, fellow Pietist Lutherans whose ultra-conservative faction was known as the "Kreuzzeitung" after their newspaper, the _Neue Preußische Zeitung_, which was so nicknamed because it featured an Iron Cross on its cover.[9]
-
-BismarckLandtag.jpg
 
 In March 1848, Prussia faced a revolution (one of the revolutions of 1848 across Europe), which completely overwhelmed King Frederick William IV. The monarch, though initially inclined to use armed forces to suppress the rebellion, ultimately declined to leave Berlin for the safety of military headquarters at Potsdam. Bismarck later recorded that there had been a "rattling of sabres in their scabbards" from Prussian officers when they learned that the King would not suppress the revolution by force. He offered numerous concessions to the liberals: he wore the black-red-gold revolutionary colours (as seen on the flag of today's Germany), promised to promulgate a constitution, agreed that Prussia and other German states should merge into a single nation-state, and appointed a liberal, Gottfried Ludolf Camphausen, as Minister President.[10]
 
@@ -48,7 +44,7 @@ Ambassador to Russia and France
 
 In October 1857, Frederick William IV suffered a paralysing stroke, and his brother Wilhelm took over the Prussian government as Regent. Wilhelm was initially seen as a moderate ruler, whose friendship with liberal Britain was symbolised by the recent marriage of his son Frederick William to Queen Victoria's eldest daughter. As part of his "New Course", Wilhelm brought in new ministers, moderate conservatives known as the _Wochenblatt_ after their newspaper.
 
-BismarckRoonMoltke.jpg (centre) and Moltke (right), the three leaders of Prussia in the 1860s]]
+(centre) and Moltke (right), the three leaders of Prussia in the 1860s]]
 
 The Regent soon replaced Bismarck as envoy in Frankfurt and made him Prussia's ambassador to the Russian Empire.[19] In theory, this was a promotion, as Russia was one of Prussia's two most powerful neighbors. But Bismarck was sidelined from events in Germany and could only watch impotently as France drove Austria out of Lombardy during the Italian War of 1859. Bismarck proposed that Prussia should exploit Austria's weakness to move her frontiers "as far south as Lake Constance" on the Swiss border; instead, Prussia mobilised troops in the Rhineland to deter further French advances into Venetia.
 
@@ -59,7 +55,7 @@ Despite his lengthy stay abroad, Bismarck was not entirely detached from German 
 
 Minister President of Prussia
 
-Otto+von+bismarck.jpg_]] Prince Wilhelm became King of Prussia upon his brother Frederick Wilhelm IV's death in 1861. The new monarch often came into conflict with the increasingly liberal Prussian Diet (_Landtag''). A crisis arose in 1862, when the Diet refused to authorize funding for a proposed re-organization of the army. The King's ministers could not convince legislators to pass the budget, and the King was unwilling to make concessions. Wilhelm threatened to abdicate in favour of his son Crown Prince Frederick William, who opposed his doing so, believing that Bismarck was the only politician capable of handling the crisis. However, Wilhelm was ambivalent about appointing a person who demanded unfettered control over foreign affairs. It was in September 1862, when the _Abgeordnetenhaus_ (House of Deputies) overwhelmingly rejected the proposed budget, that Wilhelm was persuaded to recall Bismarck to Prussia on the advice of Roon. On 23 September 1862, Wilhelm appointed Bismarck Minister President and Foreign Minister.[20]
+_]] Prince Wilhelm became King of Prussia upon his brother Frederick Wilhelm IV's death in 1861. The new monarch often came into conflict with the increasingly liberal Prussian Diet (_Landtag''). A crisis arose in 1862, when the Diet refused to authorize funding for a proposed re-organization of the army. The King's ministers could not convince legislators to pass the budget, and the King was unwilling to make concessions. Wilhelm threatened to abdicate in favour of his son Crown Prince Frederick William, who opposed his doing so, believing that Bismarck was the only politician capable of handling the crisis. However, Wilhelm was ambivalent about appointing a person who demanded unfettered control over foreign affairs. It was in September 1862, when the _Abgeordnetenhaus_ (House of Deputies) overwhelmingly rejected the proposed budget, that Wilhelm was persuaded to recall Bismarck to Prussia on the advice of Roon. On 23 September 1862, Wilhelm appointed Bismarck Minister President and Foreign Minister.[20]
 
 Bismarck, Roon and Moltke took charge at a time when relations among the Great Powers (Great Britain, France, Austria and Russia) had been shattered by the Crimean War and the Italian War. In the midst of this disarray, the European balance of power was restructured with the creation of the German Empire as the dominant power in continental Europe apart from Russia. This was achieved by Bismarck's diplomacy, Roon's reorganization of the army and Moltke's military strategy.
 
@@ -71,8 +67,6 @@ Blood and Iron speech
 
 German unification had been a major objective of the revolutions of 1848, when representatives of the German states met in Frankfurt and drafted a constitution, creating a federal union with a national parliament to be elected by universal male suffrage. In April 1849, the Frankfurt Parliament offered the title of Emperor to King Frederick William IV. Fearing the opposition of the other German princes and the military intervention of Austria and Russia, the King renounced this popular mandate. Thus, the Frankfurt Parliament ended in failure for the German liberals.
 
-Otto_vBismark.jpg
-
 On 30 September 1862, Bismarck made a famous speech to the Budget Committee of the Prussian Chamber of Deputies in which he expounded on the use of "iron and blood" to achieve Prussia's goals:
 
 Defeat of Denmark
@@ -83,7 +77,7 @@ Bismarck faced a diplomatic crisis when King Frederick VII of Denmark died in No
 
 At first this seemed like a victory for Augustenburg, but Bismarck soon removed him from power by making a series of unworkable demands, namely that Prussia should have control over the army and navy of the duchies. Originally, it had been proposed that the Diet of the German Confederation, in which all the states of Germany were represented, should determine the fate of the duchies; but before this scheme could be effected, Bismarck induced Austria to agree to the Gastein Convention. Under this agreement signed on 20 August 1865, Prussia received Schleswig, while Austria received Holstein. In that year Bismarck was given the title of Count (_Graf_) of Bismarck-Schönhausen.[22]
 
-1868_Bleibtreu_Schlacht_bei_Koeniggraetz_anagoria.JPG.]]
+.]]
 
 Defeat of Austria
 
@@ -91,7 +85,7 @@ In 1866, Austria reneged on the agreement and demanded that the Diet determine t
 
 Meanwhile, as the war began, a German radical named Ferdinand Cohen-Blind attempted to assassinate Bismarck in Berlin, shooting him five times at close range. Bismarck had only minor injuries. Subsequently, Cohen-Blind committed suicide while in custody.
 
-Httpdigi.ub.uni-heidelberg.dediglitklabismarck18900050a.jpg, the Prussian-dominated German customs union.]]
+, the Prussian-dominated German customs union.]]
 
 The war lasted seven weeks; Germans called it a _Blitzkrieg_ ("lightning war"), a term also used in 1939.[24] Austria had a seemingly powerful army that was allied with most of the north German and all of the south German states. Nevertheless, Prussia won the decisive Battle of Königgrätz. The King and his generals wanted to push onward, conquer Bohemia and march to Vienna, but Bismarck, worried that Prussian military luck might change or that France might intervene on Austria's side, enlisted the help of the Crown Prince, who had opposed the war but had commanded one of the Prussian armies at Königgrätz, to dissuade his father after stormy arguments. Bismarck insisted on a "soft peace" with no annexations and no victory parades, so as to be able to quickly restore friendly relations with Austria.[25]
 
@@ -107,7 +101,7 @@ Jonathan Steinberg says of Bismarck's achievements to this point:
 
   The scale of Bismarck's triumph cannot be exaggerated. He alone had brought about a complete transformation of the European international order. He had told those who would listen what he intended to do, how he intended to do it, and he did it. He achieved this incredible feat without commanding an army, and without the ability to give an order to the humblest common soldier, without control of a large party, without public support, indeed, in the face of almost universal hostility, without a majority in parliament, without control of his cabinet, and without a loyal following in the bureaucracy. He no longer had the support of the powerful conservative interest groups who had helped him achieve power. The most senior diplomats in the foreign service ... were sworn enemies and he knew it. The Queen and the Royal Family hated him and the King, emotional and unreliable, would soon have his 70th birthday. ... With perfect justice, in August 1866, he punched his fist on his desk and cried "I have beaten them all! All!"[26]
 
-Napoleon_übergibt_seinen_Degen.JPG, 1 September 1870]]
+, 1 September 1870]]
 
 Franco-Prussian War 1870–71
 
@@ -121,7 +115,7 @@ France mobilized and declared war on 19 July. The German states saw France as th
 
 Bismarck quoted the first verse lyrics of "La Marseillaise", amongst others, when being recorded on an Edison phonograph in 1889, the only known recording of his voice. A biographer stated that he did so, 19 years after the war, to mock the French.[32]
 
-Wernerprokla.jpg's patriotic, much-reproduced depiction of the proclamation of Wilhelm I as German emperor in the Hall of Mirrors at Versailles. Focus is on Bismarck, center, wearing white uniform. (1885)]]
+'s patriotic, much-reproduced depiction of the proclamation of Wilhelm I as German emperor in the Hall of Mirrors at Versailles. Focus is on Bismarck, center, wearing white uniform. (1885)]]
 
 Unification of Germany
 
@@ -138,13 +132,11 @@ Jonathan Steinberg said of Bismarck's creation of the German Empire that:
 
 Chancellor of the German Empire
 
-Otto_von_Bismarck.JPG In 1871, Bismarck was raised to the rank of _Fürst_ (Prince). He was also appointed as the first Imperial Chancellor (_Reichskanzler_) of the German Empire, but retained his Prussian offices, including those of Minister-President and Foreign Minister. He was also promoted to the rank of lieutenant-general, and bought a former hotel in Friedrichsruh near Hamburg, which became an estate. He also continued to serve as his own foreign minister. Because of both the imperial and the Prussian offices that he held, Bismarck had near complete control over domestic and foreign policy. The office of Minister President of Prussia was temporarily separated from that of Chancellor in 1873, when Albrecht von Roon was appointed to the former office. But by the end of the year, Roon resigned due to ill health, and Bismarck again became Minister-President.
+In 1871, Bismarck was raised to the rank of _Fürst_ (Prince). He was also appointed as the first Imperial Chancellor (_Reichskanzler_) of the German Empire, but retained his Prussian offices, including those of Minister-President and Foreign Minister. He was also promoted to the rank of lieutenant-general, and bought a former hotel in Friedrichsruh near Hamburg, which became an estate. He also continued to serve as his own foreign minister. Because of both the imperial and the Prussian offices that he held, Bismarck had near complete control over domestic and foreign policy. The office of Minister President of Prussia was temporarily separated from that of Chancellor in 1873, when Albrecht von Roon was appointed to the former office. But by the end of the year, Roon resigned due to ill health, and Bismarck again became Minister-President.
 
 _Kulturkampf_
 
 Bismarck launched an anti-Catholic _Kulturkampf_ ("culture struggle") in Prussia in 1871. This was partly motivated by Bismarck's fear that Pius IX and his successors would use papal infallibility to achieve the "papal desire for international political hegemony.... The result was the Kulturkampf, which, with its largely Prussian measures, complemented by similar actions in several other German states, sought to curb the clerical danger by legislation restricting the Catholic church's political power." In May 1872 Bismarck thus attempted to reach an understanding with other European governments to manipulate future papal elections; governments should agree beforehand on unsuitable candidates, and then instruct their national cardinals to vote appropriately. The goal was to end the pope's control over the bishops in a given state, but the project went nowhere.
-
-Kladderadatsch_1875_-_Zwischen_Berlin_und_Rom.png
 
 Bismarck accelerated the _Kulturkampf_. In its course, all Prussian bishops and many priests were imprisoned or exiled. Prussia's population had greatly expanded in the 1860s and was now one-third Catholic. Bismarck believed that the pope and bishops held too much power over the German Catholics and was further concerned about the emergence of the Catholic Centre Party, organised in 1870. With support from the anticlerical National Liberal Party, which had become Bismarck's chief ally in the Reichstag, he abolished the Catholic Department of the Prussian Ministry of Culture. That left the Catholics without a voice in high circles. Moreover, in 1872, the Jesuits were expelled from Germany. In 1873, more anti-Catholic laws allowed the Prussian government to supervise the education of the Roman Catholic clergy and curtailed the disciplinary powers of the Church. In 1875, civil ceremonies were required for civil weddings. Hitherto, weddings in churches were civilly recognized.
 
@@ -160,7 +152,7 @@ Steinberg comments:
 
 Economy
 
-Krupp_factory_1880.jpg factory in Essen in 1880]] In 1873, Germany and much of Europe and America entered the Long Depression, the _Gründerkrise_. A downturn hit the German economy for the first time since industrial development began to surge in the 1850s. To aid faltering industries, the Chancellor abandoned free trade and established protectionist import-tariffs, which alienated the National Liberals who demanded free trade. The _Kulturkampf_ and its effects had also stirred up public opinion against the party that supported it, and Bismarck used this opportunity to distance himself from the National Liberals. That marked a rapid decline in the support of the National Liberals, and by 1879 their close ties with Bismarck had all but ended. Bismarck instead returned to conservative factions, including the Centre Party, for support. He helped foster support from the conservatives by enacting several tariffs protecting German agriculture and industry from foreign competitors in 1879.[39]
+factory in Essen in 1880]] In 1873, Germany and much of Europe and America entered the Long Depression, the _Gründerkrise_. A downturn hit the German economy for the first time since industrial development began to surge in the 1850s. To aid faltering industries, the Chancellor abandoned free trade and established protectionist import-tariffs, which alienated the National Liberals who demanded free trade. The _Kulturkampf_ and its effects had also stirred up public opinion against the party that supported it, and Bismarck used this opportunity to distance himself from the National Liberals. That marked a rapid decline in the support of the National Liberals, and by 1879 their close ties with Bismarck had all but ended. Bismarck instead returned to conservative factions, including the Centre Party, for support. He helped foster support from the conservatives by enacting several tariffs protecting German agriculture and industry from foreign competitors in 1879.[39]
 
 Germanisation
 
@@ -176,13 +168,11 @@ Foreign policies
 
 Early relations with Europe and its government
 
-Late_19th_century_web_alliance.jpg Having unified his nation, Bismarck now devoted himself to promoting peace in Europe with his skills in statesmanship. He was forced to contend with French revanchism, the desire to avenge the losses of the Franco-Prussian War. Bismarck, therefore, engaged in a policy of diplomatically isolating France while maintaining cordial relations with other nations in Europe. He had little interest in naval or colonial entanglements and thus avoided discord with Great Britain. Historians emphasize that he wanted no more territorial gains after 1871, and vigorously worked to form cross-linking alliances that prevented any war in Europe from starting. By 1878 both the Liberal and Conservative spokesmen in Britain hailed him as the champion of peace in Europe.[44] A. J. P. Taylor, a leading British diplomatic historian, concludes that, "Bismarck was an honest broker of peace; and his system of alliances compelled every Power, whatever its will, to follow a peaceful course."[45]
+Having unified his nation, Bismarck now devoted himself to promoting peace in Europe with his skills in statesmanship. He was forced to contend with French revanchism, the desire to avenge the losses of the Franco-Prussian War. Bismarck, therefore, engaged in a policy of diplomatically isolating France while maintaining cordial relations with other nations in Europe. He had little interest in naval or colonial entanglements and thus avoided discord with Great Britain. Historians emphasize that he wanted no more territorial gains after 1871, and vigorously worked to form cross-linking alliances that prevented any war in Europe from starting. By 1878 both the Liberal and Conservative spokesmen in Britain hailed him as the champion of peace in Europe.[44] A. J. P. Taylor, a leading British diplomatic historian, concludes that, "Bismarck was an honest broker of peace; and his system of alliances compelled every Power, whatever its will, to follow a peaceful course."[45]
 
 Well aware that Europe was skeptical of his powerful new Reich, Bismarck turned his attention to preserving peace in Europe based on a balance of power that would allow Germany's economy to flourish. Bismarck feared that a hostile combination of Austria, France, and Russia would crush Germany. If two of them were allied, then the third would ally with Germany only if Germany conceded excessive demands. The solution was to ally with two of the three. In 1873 he formed the League of the Three Emperors (_Dreikaiserbund_), an alliance of Wilhelm, Tsar Alexander II of Russia, and Emperor Francis Joseph of Austria-Hungary. Together they would control Eastern Europe, making sure that restive ethnic groups such as the Poles were kept under control. The Balkans posed a more serious issue, and Bismarck's solution was to give Austria predominance in the western areas, and Russia in the eastern areas. This system collapsed in 1887.[46][47]
 
 In 1872, a protracted quarrel began to fester between Bismarck and Count Harry von Arnim, the imperial ambassador to France. Arnim saw himself as a rival and competitor for the chancellorship, but the rivalry escalated out of hand, and Arnim took sensitive records from embassy files at Paris to back up his case. He was formally accused of misappropriating official documents, indicted, tried and convicted, finally fleeing into exile where he died. No one again openly challenged Bismarck in foreign policy matters until his resignation.
-
-Otto_Fürst_von_Bismarck.JPG
 
 France
 
@@ -204,17 +194,17 @@ Bismarck realized that both Russia and Britain considered control of central Asi
 
 Triple Alliance
 
-Triple_Alliance_Lustige_Blatter.jpg The League of the Three Emperors having fallen apart, Bismarck negotiated the Dual Alliance with Austria-Hungary, in which each guaranteed the other against Russian attack. He also negotiated the Triple Alliance in 1882 with Austria-Hungary and Italy, and Italy and Austria-Hungary soon reached the "Mediterranean Agreement" with Britain. Attempts to reconcile Germany and Russia did not have a lasting effect: the Three Emperors' League was re-established in 1881 but quickly fell apart, ending Russian-Austrian-Prussian solidarity, which had existed in various forms since 1813. Bismarck therefore negotiated the secret Reinsurance Treaty of 1887 with Russia, in order to prevent Franco-Russian encirclement of Germany. Both powers promised to remain neutral towards one another unless Russia attacked Austria-Hungary. However, after Bismarck's departure from office in 1890, the Treaty was not renewed, thus creating a critical problem for Germany in the event of a war.
+The League of the Three Emperors having fallen apart, Bismarck negotiated the Dual Alliance with Austria-Hungary, in which each guaranteed the other against Russian attack. He also negotiated the Triple Alliance in 1882 with Austria-Hungary and Italy, and Italy and Austria-Hungary soon reached the "Mediterranean Agreement" with Britain. Attempts to reconcile Germany and Russia did not have a lasting effect: the Three Emperors' League was re-established in 1881 but quickly fell apart, ending Russian-Austrian-Prussian solidarity, which had existed in various forms since 1813. Bismarck therefore negotiated the secret Reinsurance Treaty of 1887 with Russia, in order to prevent Franco-Russian encirclement of Germany. Both powers promised to remain neutral towards one another unless Russia attacked Austria-Hungary. However, after Bismarck's departure from office in 1890, the Treaty was not renewed, thus creating a critical problem for Germany in the event of a war.
 
 Colonies
 
-Hissen_der_kaiserlichen_Flagge_auf_Mioko.jpg, German New Guinea in 1884]]
+, German New Guinea in 1884]]
 
 Bismarck had opposed colonial acquisitions, arguing that the burden of obtaining, maintaining, and defending such possessions would outweigh any potential benefit. He felt that colonies did not pay for themselves, that the German bureaucratic system would not work well in the easy-going tropics, and that the diplomatic disputes colonies brought would distract Germany from its central interest, Europe itself.[56] As for French designs on Morocco, Chlodwig, Prince of Hohenlohe-Schillingsfürst wrote in his memoirs that Bismarck had told him that Germany "could only be pleased if France took possession of the country" since "she would then be very occupied" and distracted from the loss of Alsace-Lorraine.[57] However, in 1883–84 he suddenly reversed himself and overnight built a colonial empire in Africa and the South Pacific. The Berlin Conference of 1884–85 organized by Bismarck can be seen as the formalization of the Scramble for Africa.
 
 Historians have debated the exact motive behind Bismarck's sudden and short-lived move. He was aware that public opinion had started to demand colonies for reasons of German prestige. He also wanted to undercut the anti-colonial liberals who were sponsored by the Crown Prince, who—given Wilhelm I's old age—might soon become emperor and remove Bismarck. Bismarck was influenced by Hamburg merchants and traders, his neighbors at Friedrichsruh. The establishment of the German colonial empire proceeded smoothly, starting with German New Guinea in 1884.[58]
 
-Kongokonferenz.jpg in the Conference of Berlin in 1884]] Other European nations, led by Britain and France, were acquiring colonies in a rapid fashion (see New Imperialism). Bismarck therefore joined in the Scramble for Africa. Germany's new colonies included Togoland (now Togo and part of Ghana), German Kamerun (now Cameroon and part of Nigeria), German East Africa (now Rwanda, Burundi, and the mainland part of Tanzania), and German South-West Africa (now Namibia). The Berlin Conference (1884–85) established regulations for the acquisition of African colonies; in particular, it protected free trade in certain parts of the Congo basin. Germany also acquired colonies in the Pacific, such as German New Guinea.[59]
+in the Conference of Berlin in 1884]] Other European nations, led by Britain and France, were acquiring colonies in a rapid fashion (see New Imperialism). Bismarck therefore joined in the Scramble for Africa. Germany's new colonies included Togoland (now Togo and part of Ghana), German Kamerun (now Cameroon and part of Nigeria), German East Africa (now Rwanda, Burundi, and the mainland part of Tanzania), and German South-West Africa (now Namibia). The Berlin Conference (1884–85) established regulations for the acquisition of African colonies; in particular, it protected free trade in certain parts of the Congo basin. Germany also acquired colonies in the Pacific, such as German New Guinea.[59]
 
 Avoiding war
 
@@ -230,7 +220,7 @@ Langer concludes:
 
   His had been a great career, beginning with three wars in eight years and ending with a period of 20 years during which he worked for the peace of Europe, despite countless opportunities to embark on further enterprises with more than even chance of success.... No other statesman of his standing had ever before shown the same great moderation and sound political sense of the possible and desirable.... Bismarck at least deserves full credit for having steered European politics through this dangerous transitional period without serious conflict between the great powers."[61]
 
-Franz_von_Lenbach_-_Portrait_of_Otto_Eduard_Leopold_von_Bismarck_-_Walters_371007_-_View_B.jpg's portrait of Bismarck in his 75th year.]]
+'s portrait of Bismarck in his 75th year.]]
 
 Social legislation
 
@@ -267,7 +257,7 @@ In 1888 Kaiser Wilhelm I died, leaving the throne to his son, Friedrich III. The
 
 Bismarck was sixteen years older than Friedrich; before the latter became terminally ill, Bismarck did not expect he would live to see Wilhelm ascend to the throne and thus had no strategy to deal with him. Conflicts between Wilhelm and his chancellor soon poisoned their relationship. Their final split occurred after Bismarck tried to implement far-reaching anti-socialist laws in early 1890. The _Kartell_ majority in the Reichstag, including the amalgamated Conservative Party and the National Liberal Party, was willing to make most of the laws permanent. However, it was split about the law granting the police the power to expel socialist agitators from their homes, a power that had been used excessively at times against political opponents. The National Liberals refused to make this law permanent, while the Conservatives supported only the entirety of the bill, threatening to and eventually vetoing the entire bill in session because Bismarck would not agree to a modified bill.[74]
 
-Franz_von_Lenbach_Bismarck.jpg painting of Bismarck in retirement (1895)]]
+painting of Bismarck in retirement (1895)]]
 
 As the debate continued, Wilhelm became increasingly interested in social problems, especially the treatment of mine workers during their strike in 1889. Keeping with his active policy in government, he routinely interrupted Bismarck in Council to make clear his social views. Bismarck sharply disagreed with Wilhelm's policies and worked to circumvent them. Even though Wilhelm supported the altered anti-socialist bill, Bismarck pushed for his support to veto the bill in its entirety. When his arguments could not convince Wilhelm, Bismarck became excited and agitated until uncharacteristically blurting out his motive to see the bill fail: to have the socialists agitate until a violent clash occurred that could be used as a pretext to crush them. Wilhelm countered that he was not willing to open his reign with a bloody campaign against his own subjects. The next day, after realizing his blunder, Bismarck attempted to reach a compromise with Wilhelm by agreeing to his social policy towards industrial workers and even suggested a European council to discuss working conditions, presided over by the Emperor.[75]
 
@@ -277,7 +267,7 @@ The final break came as Bismarck searched for a new parliamentary majority, as h
 
 In a parliamentary state, the head of government depends on the confidence of the parliamentary majority and has the right to form coalitions to ensure their policies have majority support. However, in Germany, the Chancellor depended on the confidence of the Emperor alone, and Wilhelm believed that the Emperor had the right to be informed before his minister's meeting. After a heated argument in Bismarck's office, Wilhelm—to whom Bismarck had shown a letter from Tsar Alexander III describing Wilhelm as a "badly brought-up boy"—stormed out, after first ordering the rescinding of the Cabinet Order of 1851, which had forbidden Prussian Cabinet Ministers from reporting directly to the King of Prussia and required them instead to report via the Chancellor. Bismarck, forced for the first time into a situation that he could not use to his advantage, wrote a blistering letter of resignation, decrying Wilhelm's interference in foreign and domestic policy. The letter, however, was published only after Bismarck's death.[78][79]
 
-1890_Bismarcks_Ruecktritt.jpg" – Cartoon by Sir John Tenniel (1820–1914), first published in the British magazine _Punch_, 29 March 1890.]]
+" – Cartoon by Sir John Tenniel (1820–1914), first published in the British magazine _Punch_, 29 March 1890.]]
 
 Bismarck resigned at Wilhelm II's insistence on 18 March 1890, at the age of seventy-five. Steinberg sums up:
 
@@ -293,7 +283,7 @@ Subsequently, Bismarck made this prediction:
 
 The year before his death, Bismarck again predicted:
 
-Bismarck_auf_dem_Totenbett.jpg Sarkophag_von_Otto_Fürst_von_Bismarck_crop.JPG German_Medal_by_Schwenzer_1898_(ND)_commemorating_Bismarck's_Death.jpg 1898 (ND) commemorating Bismarck's death]]
+1898 (ND) commemorating Bismarck's death]]
 
 Death
 
@@ -316,8 +306,6 @@ Historians stress that Bismarck's peace-oriented, "saturated continental diploma
 
 Bismarck's psychology and personal traits have not been so favourably received by scholars. The historian Jonathan Steinberg portrays a demonic genius who was deeply vengeful, even toward his closest friends and family members:
 
-Bismarck-Nationaldenkmal,_März_2008.jpg
-
   [Bismarck's friend, German diplomat Kurd von Schlözer] began to see Bismarck as a kind of malign genius who, behind the various postures, concealed an ice-cold contempt for his fellow human beings and a methodical determination to control and ruin them. His easy chat combined blunt truths, partial revelations, and outright deceptions. His extraordinary double ability to see how groups would react and the willingness to use violence to make them obey, the capacity to read group behavior and the force to make them move to his will, gave him the chance to exercise what [Steinberg has] called his "sovereign self"[92]
 
 Evans says he was "intimidating and unscrupulous, playing to others' frailties, not their strengths."[93] British historians, including Steinberg, Evans, Taylor, Palmer and Crankshaw, see Bismarck as an ambivalent figure, undoubtedly a man of great skill but who left no lasting system in place to guide successors less skilled than himself. Being a committed monarchist himself, Bismarck allowed no effective constitutional check on the power of the Emperor, thus placing a time bomb in the foundation of the Germany that he created.
@@ -338,7 +326,7 @@ Immediately after he left office, citizens started to praise him and established
 
 Numerous statues and memorials dot the cities, towns, and countryside of Germany, including the famous Bismarck Memorial in Berlin and numerous Bismarck towers on four continents. The only memorial depicting him as a student at Göttingen University (together with a dog, possibly his _Reichshund_ Tyras) and as a member of his Corps Hannovera was re-erected in 2006 at the Rudelsburg. The gleaming white 1906 Bismarck Monument in the city of Hamburg, stands in the centre of the St. Pauli district, and is the largest, and probably best-known, memorial to Bismarck worldwide. The statues depicted him as massive, monolithic, rigid and unambiguous.[95] Two warships were named in his honour, the of the German Imperial Navy, and the from the World War II–era.
 
-1915_WWI_Judaica_Silver_Medal_100th_Anniversary_of_Bismarck,_obverse.jpg Judaica Silver Medal by Hugo Grünthal and Paul Sturm for Bismarck's 100th Birthday, obverse.]] 1915_WWI_Judaica_Silver_Medal_100th_Anniversary_of_Bismarck,_reverse.jpg
+Judaica Silver Medal by Hugo Grünthal and Paul Sturm for Bismarck's 100th Birthday, obverse.]]
 
 Bismarck: memory and myth
 
@@ -371,7 +359,7 @@ Bismarck was created __ ("Count of Bismarck-Schönhausen") in 1865; this comital
 
 Duke of Lauenburg
 
-Bismarcks_Wappen.gif In 1890, Bismarck was granted the title of __ ("Duke of Lauenburg"); the duchy was one of the territories that Prussia seized from the king of Denmark in 1864.
+In 1890, Bismarck was granted the title of __ ("Duke of Lauenburg"); the duchy was one of the territories that Prussia seized from the king of Denmark in 1864.
 
 It was Bismarck's ambition to be assimilated into the mediatized houses of Germany. He attempted to persuade Kaiser Wilhelm I that he should be endowed with the sovereign duchy of Lauenburg, in reward for his services to the imperial family and the German empire. This was on the understanding that Bismarck would immediately restore the duchy to Prussia; all he wanted was the status and privileges of a mediatized family for himself and his descendants. This novel idea was rejected by the conservative emperor, who thought that he had already given the chancellor enough rewards. There is reason to believe that he informed Wilhelm II of his wishes. After being forced by the sovereign to resign, he received the purely honorific title of "Duke of Lauenburg", without the duchy itself and the sovereignty that would have transformed his family into a mediatized house. Bismarck regarded it as a mockery of his ambition, and he considered nothing more cruel than this action of the emperor.[109]
 

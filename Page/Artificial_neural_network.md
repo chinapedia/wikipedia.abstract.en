@@ -1,4 +1,4 @@
-Colored_neural_network.svgs in a brain. Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another.]] ARTIFICIAL NEURAL NETWORKS (ANN) or CONNECTIONIST SYSTEMS are computing systems that are inspired by, but not necessarily identical to, the biological neural networks that constitute animal brains. Such systems "learn" to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the results to identify cats in other images. They do this without any prior knowledge about cats, for example, that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.
+s in a brain. Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another.]] ARTIFICIAL NEURAL NETWORKS (ANN) or CONNECTIONIST SYSTEMS are computing systems that are inspired by, but not necessarily identical to, the biological neural networks that constitute animal brains. Such systems "learn" to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the results to identify cats in other images. They do this without any prior knowledge about cats, for example, that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.
 
 An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit a signal from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it.
 
@@ -62,7 +62,7 @@ Artificial neural networks were able to guarantee shift invariance to deal with 
 
 Models
 
-Neuron3.png An _artificial neural network_ is a network of simple elements called _artificial neurons_, which receive input, change their internal state (_activation_) according to that input, and produce output depending on the input and activation.
+An _artificial neural network_ is a network of simple elements called _artificial neurons_, which receive input, change their internal state (_activation_) according to that input, and produce output depending on the input and activation.
 
 An artificial neuron mimics the working of a biophysical neuron with inputs and outputs, but is not a biological neuron model.
 
@@ -112,8 +112,6 @@ Neural network models can be viewed as simple mathematical models defining a fun
 
 Mathematically, a neuron's network function $\textstyle f(x)$ is defined as a composition of other functions $\textstyle g_i(x)$, that can further be decomposed into other functions. This can be conveniently represented as a network structure, with arrows depicting the dependencies between functions. A widely used type of composition is the _nonlinear weighted sum_, where $\textstyle f (x) = K \left(\sum_i w_i g_i(x)\right)$, where $\textstyle K$ (commonly referred to as the activation function[65]) is some predefined function, such as the hyperbolic tangent, sigmoid function, softmax function, or rectifier function. The important characteristic of the activation function is that it provides a smooth transition as input values change, i.e. a small change in input produces a small change in output. The following refers to a collection of functions $\textstyle g_i$ as a vector $\textstyle g = (g_1, g_2, \ldots, g_n)$.
 
-Ann_dependency_(graph).svg
-
 This figure depicts such a decomposition of $\textstyle f$, with dependencies between variables indicated by arrows. These can be interpreted in two ways.
 
 The first view is the functional view: the input $\textstyle x$ is transformed into a 3-dimensional vector $\textstyle h$, which is then transformed into a 2-dimensional vector $\textstyle g$, which is finally transformed into $\textstyle f$. This view is most commonly encountered in the context of optimization.
@@ -121,8 +119,6 @@ The first view is the functional view: the input $\textstyle x$ is transformed i
 The second view is the probabilistic view: the random variable $\textstyle F = f(G)$ depends upon the random variable $\textstyle G = g(H)$, which depends upon $\textstyle H=h(X)$, which depends upon the random variable $\textstyle X$. This view is most commonly encountered in the context of graphical models.
 
 The two views are largely equivalent. In either case, for this particular architecture, the components of individual layers are independent of each other (e.g., the components of $\textstyle g$ are independent of each other given their input $\textstyle h$). This naturally enables a degree of parallelism in the implementation.
-
-Recurrent_ann_dependency_graph.png
 
 Networks such as the previous one are commonly called feedforward, because their graph is a directed acyclic graph. Networks with cycles are commonly called recurrent. Such networks are commonly depicted in the manner shown at the top of the figure, where $\textstyle f$ is shown as being dependent upon itself. However, an implied temporal dependence is not shown.
 
@@ -337,7 +333,7 @@ Deep Reservoir Computing and Deep Echo State Networks (deepESNs)[147][148] provi
 
 Deep belief networks
 
-Restricted_Boltzmann_machine.svg (RBM) with fully connected visible and hidden units. Note there are no hidden-hidden or visible-visible connections.]] A deep belief network (DBN) is a probabilistic, generative model made up of multiple layers of hidden units. It can be considered a composition of simple learning modules that make up each layer.[149]
+(RBM) with fully connected visible and hidden units. Note there are no hidden-hidden or visible-visible connections.]] A deep belief network (DBN) is a probabilistic, generative model made up of multiple layers of hidden units. It can be considered a composition of simple learning modules that make up each layer.[149]
 
 A DBN can be used to generatively pre-train a DNN by using the learned DBN weights as the initial DNN weights. Backpropagation or other discriminative algorithms can then tune these weights. This is particularly helpful when training data are limited, because poorly initialized weights can significantly hinder model performance. These pre-trained weights are in a region of the weight space that is closer to the optimal weights than were they randomly chosen. This allows for both improved modeling and faster convergence of the fine-tuning phase.[150]
 
@@ -536,7 +532,7 @@ Generalization and statistics
 
 Applications whose goal is to create a system that generalizes well to unseen examples, face the possibility of over-training. This arises in convoluted or over-specified systems when the capacity of the network significantly exceeds the needed free parameters. Two approaches address over-training. The first is to use cross-validation and similar techniques to check for the presence of over-training and optimally select hyperparameters to minimize the generalization error. The second is to use some form of _regularization_. This concept emerges in a probabilistic (Bayesian) framework, where regularization can be performed by selecting a larger prior probability over simpler models; but also in statistical learning theory, where the goal is to minimize over two quantities: the 'empirical risk' and the 'structural risk', which roughly corresponds to the error over the training set and the predicted error in unseen data due to overfitting.
 
-Synapse_deployment.jpg Supervised neural networks that use a mean squared error (MSE) cost function can use formal statistical methods to determine the confidence of the trained model. The MSE on a validation set can be used as an estimate for variance. This value can then be used to calculate the confidence interval of the output of the network, assuming a normal distribution. A confidence analysis made this way is statistically valid as long as the output probability distribution stays the same and the network is not modified.
+Supervised neural networks that use a mean squared error (MSE) cost function can use formal statistical methods to determine the confidence of the trained model. The MSE on a validation set can be used as an estimate for variance. This value can then be used to calculate the confidence interval of the output of the network, assuming a normal distribution. A confidence analysis made this way is statistically valid as long as the output probability distribution stays the same and the network is not modified.
 
 By assigning a softmax activation function, a generalization of the logistic function, on the output layer of the neural network (or a softmax component in a component-based neural network) for categorical target variables, the outputs can be interpreted as posterior probabilities. This is very useful in classification as it gives a certainty measure on classifications.
 

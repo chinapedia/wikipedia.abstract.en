@@ -18,7 +18,7 @@ The pH of an electrophoretic gel is determined by the buffer used for that gel. 
 Examples
 
   ------------------------- --------------------------------------------
-  Glycine_pI.png            AMP_pI.png
+
   glycine pK = 2.72, 9.60   adenosine monophosphate pK = 0.9, 3.8, 6.1
   ------------------------- --------------------------------------------
 

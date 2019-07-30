@@ -33,7 +33,7 @@ Romania ranks 52nd in the Human Development Index,[10] and is a developing count
 
 Etymology
 
-_Romania_ derives from the Latin , meaning "citizen of Rome".[14] The first known use of the appellation was attested to in the 16th century by Italian humanists travelling in Transylvania, Moldavia, and Wallachia.[15][16][17][18] Neacşu's_letter.jpg from 1521, the oldest surviving document written in Romanian.]] The oldest known surviving document written in Romanian, a 1521 letter known as the "Letter of Neacșu from Câmpulung",[19] is also notable for including the first documented occurrence of the country's name: Wallachia is mentioned as (old spelling for "The Romanian Land"; from the Latin , "land"; current spelling: ).
+_Romania_ derives from the Latin , meaning "citizen of Rome".[14] The first known use of the appellation was attested to in the 16th century by Italian humanists travelling in Transylvania, Moldavia, and Wallachia.[15][16][17][18] from 1521, the oldest surviving document written in Romanian.]] The oldest known surviving document written in Romanian, a 1521 letter known as the "Letter of Neacșu from Câmpulung",[19] is also notable for including the first documented occurrence of the country's name: Wallachia is mentioned as (old spelling for "The Romanian Land"; from the Latin , "land"; current spelling: ).
 
 Two spelling forms: and were used interchangeably[20] until sociolinguistic developments in the late 17th century led to semantic differentiation of the two forms: came to mean "bondsman", while retained the original ethnolinguistic meaning.[21] After the abolition of serfdom in 1746, the word _rumân_ gradually fell out of use and the spelling stabilised to the form .[22] , a revolutionary leader of the early 19th century, used the term to refer exclusively to the principality of Wallachia."[23]
 
@@ -56,17 +56,17 @@ History
 
 Prehistory and antiquity
 
-Oase_2_skull_(Homo_sapiens).jpg" (the oldest known remain of _Homo sapiens_ in Europe).]] Human remains found in Peștera cu Oase ("Cave with Bones"), radiocarbon dated as being from circa 40,000 years ago, represent the oldest known _Homo sapiens_ in Europe. Neolithic techniques and agriculture spread after the arrival of a mixed group of people from Thessaly in the 6th millennium BC. Excavations near a salt spring at Lunca yielded the earliest evidence for salt exploitation in Europe; here the production of salt started between 6050 and 5900 BC.[29] The first permanent settlements also appeared in the Neolithic. Some of them developed into "proto-cities", which were larger than .[30] The Cucuteni–Trypillia culturethe best known archaeological culture of Old Europeflourished in Muntenia, southeastern Transylvania and northeastern Moldavia in the 3rd millennium BC. The first fortified settlements appeared around 1800 BC, showing the militant character of Bronze Age societies.
+" (the oldest known remain of _Homo sapiens_ in Europe).]] Human remains found in Peștera cu Oase ("Cave with Bones"), radiocarbon dated as being from circa 40,000 years ago, represent the oldest known _Homo sapiens_ in Europe. Neolithic techniques and agriculture spread after the arrival of a mixed group of people from Thessaly in the 6th millennium BC. Excavations near a salt spring at Lunca yielded the earliest evidence for salt exploitation in Europe; here the production of salt started between 6050 and 5900 BC.[29] The first permanent settlements also appeared in the Neolithic. Some of them developed into "proto-cities", which were larger than .[30] The Cucuteni–Trypillia culturethe best known archaeological culture of Old Europeflourished in Muntenia, southeastern Transylvania and northeastern Moldavia in the 3rd millennium BC. The first fortified settlements appeared around 1800 BC, showing the militant character of Bronze Age societies.
 
-Dacia_82_vChr.png during Burebista's reign (early 40s BC.)]]
+during Burebista's reign (early 40s BC.)]]
 
-Greek colonies established on the Black Sea coast in the 7th century BC became important centers of commerce with the local tribes. Among the native peoples, Herodotus listed the Getae of the Lower Danube region, the Agathyrsi of Transylvania and the Syginnae of the plains along the river Tisza at the beginning of the 5th century BC. Centuries later, Strabo associated the Getae with the Dacians who dominated the lands along the southern Carpathian Mountains in the 1st century BC. Burebista was the first Dacian ruler to unite the local tribes. He also conquered the Greek colonies in Dobruja and the neighboring peoples as far as the Middle Danube and the Balkan Mountains between around 55 and 44 BC. After Burebista was murdered in 44 BC, his empire collapsed. Sarmizegetusa_Regia.JPG (Dacia's capital during the reigns of Burebista and Decebalus).]] The Romans reached Dacia during Burebista's reign and conquered Dobruja in 46 AD. Dacia was again united under Decebalus around 85. He resisted the Romans for decades, but the Roman army annihilated his troops in 106. Emperor Trajan transformed Banat, Oltenia and the greater part of Transylvania into the new Roman province of Dacia, but Dacian, Germanic and Sarmatian tribes continued to dominate the lands along the Roman frontiers. The Romans pursued an organized colonization policy and the provincials enjoyed a long period of peace and prosperity in the 2nd century. Scholars accepting the Daco-Roman continuity theoryone of the main theories about the origin of the Romanianssay that the cohabitation of the native Dacians and the Roman colonists in Roman Dacia was the first phase of the Romanians' ethnogenesis.
+Greek colonies established on the Black Sea coast in the 7th century BC became important centers of commerce with the local tribes. Among the native peoples, Herodotus listed the Getae of the Lower Danube region, the Agathyrsi of Transylvania and the Syginnae of the plains along the river Tisza at the beginning of the 5th century BC. Centuries later, Strabo associated the Getae with the Dacians who dominated the lands along the southern Carpathian Mountains in the 1st century BC. Burebista was the first Dacian ruler to unite the local tribes. He also conquered the Greek colonies in Dobruja and the neighboring peoples as far as the Middle Danube and the Balkan Mountains between around 55 and 44 BC. After Burebista was murdered in 44 BC, his empire collapsed. (Dacia's capital during the reigns of Burebista and Decebalus).]] The Romans reached Dacia during Burebista's reign and conquered Dobruja in 46 AD. Dacia was again united under Decebalus around 85. He resisted the Romans for decades, but the Roman army annihilated his troops in 106. Emperor Trajan transformed Banat, Oltenia and the greater part of Transylvania into the new Roman province of Dacia, but Dacian, Germanic and Sarmatian tribes continued to dominate the lands along the Roman frontiers. The Romans pursued an organized colonization policy and the provincials enjoyed a long period of peace and prosperity in the 2nd century. Scholars accepting the Daco-Roman continuity theoryone of the main theories about the origin of the Romanianssay that the cohabitation of the native Dacians and the Roman colonists in Roman Dacia was the first phase of the Romanians' ethnogenesis.
 
 The Carpians, Goths and other neighboring tribes made regular raids against Dacia from the 210s. The Romans could not resist and Emperor Aurelian ordered the evacuation of the province Dacia Trajana in 271. Scholars supporting the continuity theory are convinced that most Latin-speaking commoners stayed behind when the army and civil administration was withdrawn. The Romans did not abandon their fortresses along the northern banks of the Lower Danube for decades, and Dobruja (known as Scythia Minor) remained an integral part of the Roman Empire until the early 7th century.
 
 Middle Ages
 
-Gutthiuda.jpg-speaking Thervingi, and the neighboring tribes (370s AD).]] The Goths were expanding towards the Lower Danube from the 230s, forcing the native peoples to flee to the Roman Empire or to accept their suzerainty. The Goths' rule came to an abrupt end when the Huns invaded their territory in 376, causing new waves of migrations. The Huns forced the remnants of the local population into submission, but their empire collapsed in 454. The Gepids took possession of the former Dacia province. The nomadic Avars defeated the Gepids and established a powerful empire around 570. The Bulgars, who also came from the Eurasian steppes, occupied the Lower Danube region in 680. According to scholars who accept the Daco-Roman continuity theory, the Romanians' ancestors, known by the exonym Vlachs in the Middle Ages, lived in densely forested areas, separated from the Goths, Huns, Gepids and Avars during these centuries.
+-speaking Thervingi, and the neighboring tribes (370s AD).]] The Goths were expanding towards the Lower Danube from the 230s, forcing the native peoples to flee to the Roman Empire or to accept their suzerainty. The Goths' rule came to an abrupt end when the Huns invaded their territory in 376, causing new waves of migrations. The Huns forced the remnants of the local population into submission, but their empire collapsed in 454. The Gepids took possession of the former Dacia province. The nomadic Avars defeated the Gepids and established a powerful empire around 570. The Bulgars, who also came from the Eurasian steppes, occupied the Lower Danube region in 680. According to scholars who accept the Daco-Roman continuity theory, the Romanians' ancestors, known by the exonym Vlachs in the Middle Ages, lived in densely forested areas, separated from the Goths, Huns, Gepids and Avars during these centuries.
 
 Place names of Slavic origin abound in Romania, indicating that a numerous Slavic-speaking population used to live in the territory. The first Slavic groups settled in Moldavia and Wallachia in the 6th century, in Transylvania around 600. After the Avar Khaganate collapsed in the 790s, Bulgaria became the dominant power of the region, occupying lands as far as the river Tisa. The Council of Preslav declared Old Church Slavonic the language of liturgy in the First Bulgarian Empire in 893. The Romanians also adopted Old Church Slavonic as their liturgical language.
 
@@ -76,7 +76,7 @@ Byzantine missionaries proselytized in the lands east of the Tisa from the 940s 
 
 Exposed to nomadic incursions, Transylvania developed into an important border province of the Kingdom of Hungary. The Székelysa community of free warriorssettled in central Transylvania around 1100, and moved to the easternmost regions around 1200. Colonists from the Holy Roman Empirethe Transylvanian Saxons' ancestorscame to the province in the 1150s. A high-ranking royal official, styled voivode, ruled the Transylvanian counties from the 1170s, but the Székely and Saxon seats (or districts) were not subject to the voivodes' authority. Royal charters wrote of the "Vlachs' land" in southern Transylvania in the early 13th century, indicating the existence of autonomous Romanian communities. Papal correspondence mentioned the activities of Orthodox prelates among the Romanians in Muntenia in the 1230s.
 
-The Mongols destroyed large territories during their invasion of Eastern and Central Europe in 1241 and 1242. The Mongols' Golden Horde emerged as the dominant power of Eastern Europe, but Béla IV of Hungary's land grant to the Knights Hospitallers in Oltenia and Muntenia shows that the local Vlach rulers were subject to the king's authority in 1247. Basarab I of Wallachia united the Romanian polities between the southern Carpathians and the Lower Danube in the 1310s. He defeated the Hungarian royal army in the Battle of Posada and secured the independence of Wallachia in 1330. The second Romanian principality, Moldavia, achieved full autonomy during the reign of Bogdan I around 1360. A local dynasty ruled the Despotate of Dobruja in the second half of the 14th century, but the Ottoman Empire took possession of the territory after 1388. Vlad_Tepes_002.jpg (also known as Vlad the Impaler), medieval ruler of Wallachia]] Princes Mircea I and Vlad III of Wallachia, and Stephen III of Moldavia defended their countries independence against the Ottomans, but most Wallachian and Moldavian princes paid a regular tribute to the Ottoman sultans from 1417 and 1456, respectively. A military commander of Romanian origin, John Hunyadi, organized the defence of the Kingdom of Hungary until his death in 1456. Increasing taxes outraged the Transylvanian peasants and they rose up in an open rebellion in 1437, but the Hungarian nobles and the heads of the Saxon and Székely communities jointly pushed their revolt. The formal alliance of the Hungarian, Saxon and Székely leaders, known as the Union of the Three Nations, became an important element of the self-government of Transylvania. The Orthodox Romanian _knezes_ (or chiefs) were excluded from the Union.
+The Mongols destroyed large territories during their invasion of Eastern and Central Europe in 1241 and 1242. The Mongols' Golden Horde emerged as the dominant power of Eastern Europe, but Béla IV of Hungary's land grant to the Knights Hospitallers in Oltenia and Muntenia shows that the local Vlach rulers were subject to the king's authority in 1247. Basarab I of Wallachia united the Romanian polities between the southern Carpathians and the Lower Danube in the 1310s. He defeated the Hungarian royal army in the Battle of Posada and secured the independence of Wallachia in 1330. The second Romanian principality, Moldavia, achieved full autonomy during the reign of Bogdan I around 1360. A local dynasty ruled the Despotate of Dobruja in the second half of the 14th century, but the Ottoman Empire took possession of the territory after 1388. (also known as Vlad the Impaler), medieval ruler of Wallachia]] Princes Mircea I and Vlad III of Wallachia, and Stephen III of Moldavia defended their countries independence against the Ottomans, but most Wallachian and Moldavian princes paid a regular tribute to the Ottoman sultans from 1417 and 1456, respectively. A military commander of Romanian origin, John Hunyadi, organized the defence of the Kingdom of Hungary until his death in 1456. Increasing taxes outraged the Transylvanian peasants and they rose up in an open rebellion in 1437, but the Hungarian nobles and the heads of the Saxon and Székely communities jointly pushed their revolt. The formal alliance of the Hungarian, Saxon and Székely leaders, known as the Union of the Three Nations, became an important element of the self-government of Transylvania. The Orthodox Romanian _knezes_ (or chiefs) were excluded from the Union.
 
 Early Modern Times and national awakening
 
@@ -90,13 +90,11 @@ A census revealed that the Romanians were more numerous than any of the other et
 
 Independence and monarchy
 
-RomaniaBorderHistoryAnnimation_1859-2010.gif
-
 The Treaty of Küçük Kaynarca authorized the Russian ambassador in Istanbul to defend the autonomy of Moldavia and Wallachia (known as the Danubian Principalities) in 1774. Taking advantage of the Greek War of Independence, a Wallachian lesser nobleman, Tudor Vladimirescu, stirred up a revolt against the Ottomans in January 1821, but he was murdered in June by Phanariot Greeks. After a new Russo-Turkish War, the Treaty of Adrianople strengthened the autonomy of the Danubian Principalities in 1829, although it also acknowledged the sultan's right to confirm the election of the princes.
 
 Mihail Kogălniceanu, Nicolae Bălcescu and other leaders of the 1848 revolutions in Moldavia and Wallachia demanded the emancipation of the peasants and the union of the two principalities, but Russian and Ottoman troops crushed their revolt. The Wallachian revolutionists were the first to adopt the blue, yellow and red tricolor as national flag. In Transylvania, most Romanians supported the imperial government against the Hungarian revolutioners after the Diet passed a law about the union of Transylvania and Hungary. Bishop Andrei Șaguna proposed the unification of the Romanians of the Habsburg Monarchy in a separate duchy, but the central government refused to change the internal frontiers.
 
-Al_I_Cuza.jpg was the first Domnitor (i.e. Prince) of Romania (at that time the United Principalities of Wallachia and Moldavia) between 1862 and 1866.]]
+was the first Domnitor (i.e. Prince) of Romania (at that time the United Principalities of Wallachia and Moldavia) between 1862 and 1866.]]
 
 The Treaty of Paris put the Danubian Principalities under the collective guardianship of the Great Powers in 1856. After special assemblies convoked in Moldavia and Wallachia urged the unification of the two principalities, the Great Powers did not prevent the election of Alexandru Ioan Cuza as their collective _domnitor_ (or ruling prince) in January 1859. The united principalities officially adopted the name Romania on 21 February 1862. Cuza's government carried out a series of reforms, including the secularization of the property of monasteries and agrarian reform, but a coalition of conservative and radical politicians forced him to abdicate in February 1866.
 
@@ -106,21 +104,21 @@ The Transylvanian Romanians and Saxons wanted to maintain the separate status of
 
 World Wars and Greater Romania
 
-Austria-Hungary_(ethnic).jpg ethnic map of Central Europe depicting predominantly Romanian-inhabited territories in blue. Hungarians are marked in yellow and Germans in pink.]]
+ethnic map of Central Europe depicting predominantly Romanian-inhabited territories in blue. Hungarians are marked in yellow and Germans in pink.]]
 
 Fearing of Russian expansionism, Romania secretly joined the Triple Alliance of Germany, Austria-Hungary and Italy in 1883, but public opinion remained hostile to Austria-Hungary. Romania seized Southern Dobruja from Bulgaria in the Second Balkan War in 1913. For German and Austrian-Hungarian diplomacy supported Bulgaria during the war, it brought about a rapprochement between Romania and the Triple Entente of France, Russia and the United Kingdom. The country remained neutral when World War I broke out in 1914, but Prime Minister Ion I. C. Brătianu started negotiations with the Entente Powers. After they promised Austrian-Hungarian territories with a majority of ethnic Romanian population to Romania in the Treaty of Bucharest, Romania entered the war against the Central Powers in 1916. The German and Austrian-Hungarian troops defeated the Romanian army and occupied three-quarters of the country by early 1917. After the October Revolution turned Russia from ally into enemy, Romania was forced to sign a harsh peace treaty with the Central Powers in May 1918, but the collapse of Russia also enabled the union of Bessarabia with Romania. King Ferdinand again mobilized the Romanian army on behalf of the Entente Powers a day before Germany capitulated on 11 November 1918.
 
-King_Carol_I_of_Romania_with_his_nephew_and_great_nephew.jpg with his nephew Ferdinand I of Romania and great-nephew Carol II of Romania.]]
+with his nephew Ferdinand I of Romania and great-nephew Carol II of Romania.]]
 
 Austria-Hungary quickly disintegrated after the war. The General Congress of Bukovina proclaimed the union of the province with Romania on 28 November 1918, and the Grand National Assembly decided the union of Transylvania, Banat, Crișana and Maramureș with the kingdom on 1 December. Peace treaties with Austria, Bulgaria and Hungary delineated the new borders in 1919 and 1920, but the Soviet Union did not acknowledge the loss of Bessarabia. Romania achieved its greatest territorial extend, expanding from the pre-war to . A new electoral system granted voting rights to all adult male citizens, and a series of radical agrarian reforms transformed the country into a "nation of small landowners" between 1918 and 1921. Gender equality as a principle was enacted, but women could not vote or be candidates. Calypso Botez established the National Council of Romanian Women to promote feminist ideas. Romania was a multiethnic country, with ethnic minorities making up about 30% of the population, but the new constitution declared it a unitary national state in 1923. Although minorities could establish their own schools, Romanian language, history and geography could only be taught in Romanian.
 
 Agriculture remained the principal sector of economy, but several branches of industryespecially the production of coal, oil, metals, synthetic rubber, explosives and cosmeticsdeveloped during the interwar period. With oil production of 5.8 million tons in 1930, Romania ranked sixth in the world. Two parties, the National Liberal Party and the National Peasants' Party, dominated the political life, but the Great Depression brought about significant changes in the 1930s. The democratic parties were squeezed between conflicts with the fascist and Anti-Semitic Iron Guard and the authoritarian tendencies of King Carol II. The King promulgated a new constitution and dissolved the political parties in 1938, replacing the parliamentary system with a royal dictatorship.
 
-PérdidasTerritorialesRumanas1940-ro.svg was regained after the end of World War II.]]
+was regained after the end of World War II.]]
 
 The 1938 Munich Agreement convinced King Carol II that France and the United Kingdom could no more defend Romanian interests. German preparations for a new war required the regular supply of Romanian oil and agricultural products. The two countries concluded a treaty about the coordination of their economic policies in 1939, but the King could not persuade Adolf Hitler to guarantee Romania's frontiers. Romania was forced to cede Bessarabia and northern Bukovina to the Soviet Union on 26 June 1940, Northern Transylvania to Hungary on 30 August, and Southern Dobruja to Bulgaria in September. After the territorial losses, the King was forced to abdicate in favor of his minor son, Michael I, on 6 September, and Romania was transformed into a national-legionary state under the leadership of General Ion Antonescu. Antonescu signed the Tripartite Pact of Germany, Italy and Japan on 23 November. The Iron Guard staged a coup against Antonescu, but he crushed the riot with German support and introduced a military dictatorship in early 1941.
 
-Operation_Tidal_Wave_in_1943.jpg flying over a burning oil refinery at Ploiești, as part of Operation Tidal Wave on 1 August 1943. Due to its role as a significant supplier of oil to the Axis, Romania was a prime target of Allied strategic bombing in 1943 and 1944.]]
+flying over a burning oil refinery at Ploiești, as part of Operation Tidal Wave on 1 August 1943. Due to its role as a significant supplier of oil to the Axis, Romania was a prime target of Allied strategic bombing in 1943 and 1944.]]
 
 Romania entered World War II soon after the German invasion of the Soviet Union in June 1941. The country regained Bessarabia and northern Bucovina, and the Germans placed Transnistria (the territory between the rivers Dniester and Dnieper) under Romanian administration. The Romanian and German troops massacred at least 160,000 local Jews in these territories; more than 105,000 Jews and about 11,000 Gypsies died during their deportation from Bessarabia to Transnistria.[31] The vast majority of the Jewish population of Moldavia, Wallachia, Banat and Southern Transylvania survived, but their fundamental rights were limited. After the German occupation of Hungary in March 1944, about 132,000 (mainly Hungarian-speaking) Jews were deported to extermination camps from Northern Transylvania with the Hungarian authorities' support.[32]
 
@@ -128,23 +126,21 @@ After the Soviet victory in the Battle of Stalingrad in 1943, Iuliu Maniu, a lea
 
 Communism
 
-Mihai_I.jpg was forced to abdicate by the Communists in late December 1947, concomitant with the Soviet occupation of the country.]]
+was forced to abdicate by the Communists in late December 1947, concomitant with the Soviet occupation of the country.]]
 
 During the Soviet occupation of Romania, the Communist-dominated government called for new elections in 1946, which were fraudulently won, with a fabricated 70% majority of the vote.[33] Thus, they rapidly established themselves as the dominant political force.[34] Gheorghe Gheorghiu-Dej, a Communist party leader imprisoned in 1933, escaped in 1944 to become Romania's first Communist leader. In 1947 he and others forced King Michael I to abdicate and leave the country, and proclaimed Romania a people's republic.[35][36] Romania remained under the direct military occupation and economic control of the USSR until the late 1950s. During this period, Romania's vast natural resources were continuously drained by mixed Soviet-Romanian companies (SovRoms) set up for unilateral exploitative purposes.[37][38][39]
 
 In 1948, the state began to nationalize private firms and to collectivize agriculture.[40] Until the early 1960s, the government severely curtailed political liberties and vigorously suppressed any dissent with the help of the Securitate (the Romanian secret police). During this period the regime launched several campaigns of purges in which numerous "enemies of the state" and "parasite elements" were targeted for different forms of punishment, such as deportation, internal exile, and internment in forced labour camps and prisons, sometimes for life, as well as extrajudicial killing.[41] Nevertheless, anti-Communist resistance was one of the most long-lasting in the Eastern Bloc.[42] A 2006 Commission estimated the number of direct victims of the Communist repression at two million people.[43]
 
-Ceausescu_Anul_Nou.jpg ruled Romania as its Communist leader from 1965 until 1989.]]
+ruled Romania as its Communist leader from 1965 until 1989.]]
 
 In 1965, Nicolae Ceaușescu came to power and started to conduct the foreign policy more independently from the Soviet Union. Thus, Communist Romania was the only Warsaw Pact country which refused to participate in the Soviet-led 1968 invasion of Czechoslovakia (with Ceaușescu at the time even publicly condemning the action as "a big mistake, [and] a serious danger to peace in Europe and to the fate of Communism in the world"[44]); it was also the only Communist state to maintain diplomatic relations with Israel after 1967's Six-Day War; and established diplomatic relations with West Germany the same year.[45] At the same time, close ties with the Arab countries (and the PLO) allowed Romania to play a key role in the Israel–Egypt and Israel–PLO peace talks.[46]
 
-Revolutia_Bucuresti_1989_000.JPG of 1989 was one of the few violent revolutions in the Iron Curtain that brought an end to Communist rule.]]
+of 1989 was one of the few violent revolutions in the Iron Curtain that brought an end to Communist rule.]]
 
 As Romania's foreign debt sharply increased between 1977 and 1981 (from US$3 billion to $10 billion),[47] the influence of international financial organizations (such as the IMF and the World Bank) grew, gradually conflicting with Ceaușescu's autocratic rule. The latter eventually initiated a policy of total reimbursement of the foreign debt by imposing austerity steps that impoverished the population and exhausted the economy. The process succeeded in repaying all foreign government debt of Romania in 1989. At the same time, Ceaușescu greatly extended the authority of the Securitate secret police and imposed a severe cult of personality, which led to a dramatic decrease in the dictator's popularity and culminated in his overthrow and eventual execution, together with his wife, in the violent Romanian Revolution of December 1989 in which thousands were killed or injured. The charges for which they were executed were, among others, genocide by starvation.
 
 Contemporary period
-
-RO_B_University_square_rally.jpg
 
 After the 1989 revolution, the National Salvation Front (NSF), led by Ion Iliescu, took partial multi-party democratic and free market measures.[48][49] In April 1990, a sit-in protest contesting the results of that year's legislative elections and accusing the NSF, including Iliescu, of being made up of former Communists and members of the Securitate — rapidly grew to become what was called the Golaniad. The peaceful demonstrations degenerated into violence, prompting the intervention of coal miners summoned by Iliescu. This episode has been documented widely by both local[50] and foreign media,[51] and is remembered as the June 1990 Mineriad.[52][53]
 
@@ -152,7 +148,7 @@ The subsequent disintegration of the Front produced several political parties, i
 
 In November 2014, Sibiu () mayor Klaus Johannis was elected president, unexpectedly defeating former Prime Minister Victor Ponta, who had been in the lead in the opinion polls. This surprise victory is attributed by many to the Romanian diaspora, of which almost 50 percent voted for Iohannis in the first tour, compared to 16 percent for Ponta.[55]
 
-Protest_against_corruption_-_Bucharest_2017_-_Arcul_de_Triumf_-_2.jpg.]]
+.]]
 
 The post-1989 period is also characterized by the fact that most of the former industrial and economic enterprises which were built and operated during the Communist period have been closed, mainly as a result of the policies of privatization of the post-1989 regimes.[56]
 
@@ -162,18 +158,16 @@ Nevertheless, in recent years, many efforts have been made to tackle corruption.
 
 NATO and EU integration
 
-Tratado_de_Lisboa_13_12_2007_(081).jpg in 2007 and signed the Treaty of Lisbon.]] After the end of the Cold War, Romania developed closer ties with Western Europe and the United States, eventually joining NATO in 2004, and hosting the 2008 summit in Bucharest.[65]
+in 2007 and signed the Treaty of Lisbon.]] After the end of the Cold War, Romania developed closer ties with Western Europe and the United States, eventually joining NATO in 2004, and hosting the 2008 summit in Bucharest.[65]
 
 The country applied in June 1993 for membership in the European Union and became an Associated State of the EU in 1995, an Acceding Country in 2004, and a full member on 1 January 2007.[66]
 
-During the 2000s, Romania enjoyed one of the highest economic growth rates in Europe and has been referred at times as "the Tiger of Eastern Europe".[67] This has been accompanied by a significant improvement in living standards as the country successfully reduced internal poverty and established a functional democratic state.[68][69] However, Romania's development suffered a major setback during the late-2000s recession leading to a large gross domestic product contraction and budget deficit in 2009.[70] This led to Romania borrowing from the International Monetary Fund.[71] The worsening economic conditions led to unrest and triggered a political crisis in 2012.[72] 2008_Bucharest_summit_(5).JPG in 2004 and hosted its 2008 summit in Bucharest.]] Romania still faces problems related to infrastructure,[73] medical services,[74] education,[75] and corruption.[76] Near the end of 2013, The Economist reported Romania again enjoying 'booming' economic growth at 4.1% that year, with wages rising fast and a lower unemployment than in Britain. Economic growth accelerated in the midst of government liberalisations in opening up new sectors to competition and investment—most notably, energy and telecoms.[77] In 2016 the Human Development Index ranked Romania as a nation of "Very High Human Development".[78]
+During the 2000s, Romania enjoyed one of the highest economic growth rates in Europe and has been referred at times as "the Tiger of Eastern Europe".[67] This has been accompanied by a significant improvement in living standards as the country successfully reduced internal poverty and established a functional democratic state.[68][69] However, Romania's development suffered a major setback during the late-2000s recession leading to a large gross domestic product contraction and budget deficit in 2009.[70] This led to Romania borrowing from the International Monetary Fund.[71] The worsening economic conditions led to unrest and triggered a political crisis in 2012.[72] in 2004 and hosted its 2008 summit in Bucharest.]] Romania still faces problems related to infrastructure,[73] medical services,[74] education,[75] and corruption.[76] Near the end of 2013, The Economist reported Romania again enjoying 'booming' economic growth at 4.1% that year, with wages rising fast and a lower unemployment than in Britain. Economic growth accelerated in the midst of government liberalisations in opening up new sectors to competition and investment—most notably, energy and telecoms.[77] In 2016 the Human Development Index ranked Romania as a nation of "Very High Human Development".[78]
 
 Following the experience of economic instability throughout the 1990s, and the implementation of a free travel agreement with the EU, a great number of Romanians emigrated to Western Europe and North America, with particularly large communities in Italy and Spain. In 2008, the Romanian diaspora was estimated to be at over two million people.[79]
 
 
 Geography and climate
-
-Romania_general_map.png
 
 With an area of , Romania is the largest country in Southeastern Europe and the twelfth-largest in Europe.[80] It lies between latitudes 43° and 49° N and longitudes 20° and 30° E.
 
@@ -215,9 +209,7 @@ The justice system is independent of the other branches of government, and is ma
 
 Foreign relations
 
-Diplomatic_missions_of_Romania.PNG
-
-Secretary_Tillerson_and_Romanian_President_Iohannis_Meet_Before_Reporters_in_Washington_(34356507264).jpg, being the first NATO member state that agreed to support increasing its defence spending after the 2017 Trump-Iohannis meeting at the White House.]]
+, being the first NATO member state that agreed to support increasing its defence spending after the 2017 Trump-Iohannis meeting at the White House.]]
 
 Since December 1989, Romania has pursued a policy of strengthening relations with the West in general, more specifically with the United States and the European Union, albeit with limited relations involving the Russian Federation. It joined the North Atlantic Treaty Organization (NATO) on 29 March 2004, the European Union (EU) on 1 January 2007, while it had joined the International Monetary Fund and the World Bank in 1972, and is a founding member of the World Trade Organization.[106]
 
@@ -229,7 +221,7 @@ Relations with Moldova are a special case, considering that the two countries sh
 
 Military
 
-Exercitiu_de_debarcare_a_infanteristilor_marini_pe_plaja_de_la_Vadu.jpg beach.]] Misiune_de_patrulare.jpg in Afghanistan.]]
+beach.]] in Afghanistan.]]
 
 The Romanian Armed Forces consist of Land, Air, and Naval Forces, and are led by a Commander-in-chief under the supervision of the Ministry of Defense, and by the president as the Supreme Commander during wartime. The Armed Forces consist of approximately 15,000 civilians and 75,000 are military personnel—45,800 for land, 13,250 for air, 6,800 for naval forces, and 8,800 in other fields.[116] The total defence spending in 2007 accounted for 2.05% of total national GDP, or approximately US$2.9 billion, with a total of $11 billion spent between 2006 and 2011 for modernization and acquisition of new equipment.[117]
 
@@ -259,13 +251,13 @@ The NUTS-3 (Nomenclature of Territorial Units for Statistics) level divisions of
 
 Economy
 
-EU_Single_Market.svg.]]
+.]]
 
 In 2019, Romania has a GDP (PPP) of around $547 billion and a GDP per capita (PPP) of $28,189.[135] According to the World Bank, Romania is a high income country with a mixed economy.[136] According to Eurostat, Romania's GDP per capita (PPS) was at 64% of the EU average in 2018, an increase from 41% in 2007 (the year of Romania's accession to the EU), making Romania one of the fastest growing economies in the EU.[137]
 
 After 1989 the country experienced a decade of economic instability and decline, led in part by an obsolete industrial base and a lack of structural reform. From 2000 onward, however, the Romanian economy was transformed into one of relative macroeconomic stability, characterized by high growth, low unemployment and declining inflation. In 2006, according to the Romanian Statistics Office, GDP growth in real terms was recorded at 7.7%, one of the highest rates in Europe.[138] However, a recession following the global financial crisis of 2008–2009 forced the government to borrow externally, including an IMF €20bn bailout program.[139] GDP has been growing by over 2% each year since.[140] According to The World Bank, the GDP per capita purchasing power parity grew from $13,442 in 2007 to an estimated $22,124 in 2015.[141] Romania still has one of the lowest net average monthly wages in the EU of €540 in 2016,[142] and an inflation rate of −1.1% in 2016.[143] Unemployment in Romania is at 4.3% in August 2018, which is very low compared to other EU countries.[144]
 
-Palacio_CEC,_Bucarest,_Rumanía,_2016-05-29,_DD_65.jpg is situated on Bucharest's Victory Avenue.]] Bucharest_-_Smârdan_Street_(28547822606).jpg Palace, situated in the capital's historical city centre.]]
+is situated on Bucharest's Victory Avenue.]] Palace, situated in the capital's historical city centre.]]
 
 Industrial output growth reached 6.5% year-on-year in February 2013, the highest in the EU-27.[145] The largest local companies include car maker Automobile Dacia, Petrom, Rompetrol, Ford Romania, Electrica, Romgaz, RCS & RDS and Banca Transilvania.[146] Exports have increased substantially in the past few years, with a 13% annual rise in exports in 2010. Romania's main exports are cars, software, clothing and textiles, industrial machinery, electrical and electronic equipment, metallurgic products, raw materials, military equipment, pharmaceuticals, fine chemicals, and agricultural products (fruits, vegetables, and flowers). Trade is mostly centered on the member states of the European Union, with Germany and Italy being the country's single largest trading partners. The account balance in 2012 was estimated to be −4.52% of the GDP.[147]
 
@@ -273,7 +265,7 @@ After a series of privatizations and reforms in the late 1990s and 2000s, govern
 
 Since 2000, Romania has attracted increasing amounts of foreign investment, becoming the single largest investment destination in Southeastern and Central Europe. Foreign direct investment was valued at €8.3 billion in 2006.[151] According to a 2011 World Bank report, Romania currently ranks 72nd out of 175 economies in the ease of doing business, scoring lower than other countries in the region such as the Czech Republic.[152] Additionally, a study in 2006 judged it to be the world's second-fastest economic reformer (after Georgia).[153]
 
-Dacia_Duster_Salon_de_l'Auto.jpg concept at the Geneva Motor Show (2009)]]
+concept at the Geneva Motor Show (2009)]]
 
 Since 1867 the official currency has been the Romanian _leu_ ("lion") and following a denomination in 2005, it has been valued at €0.2–0.3. After joining the EU in 2007, Romania is expected to adopt the Euro sometime around 2020.[154]
 
@@ -281,7 +273,7 @@ On 1 July 2015, Romania's external debt was reported to be situated at the sum o
 
 Infrastructure
 
-Romania-drumuri.svg.]] Graph_Romania_electricity_supply_mix_2015.svg According to the _INSSE_, Romania's total road network was estimated in 2015 at .[157] The World Bank estimates the railway network at of track, the fourth-largest railroad network in Europe.[158] Rail transport experienced a dramatic decline after 1989, and was estimated at 99 million passenger journeys in 2004; but has experienced a recent (2013) revival due to infrastructure improvements and partial privatization of lines,[159] accounting for 45% of all passenger and freight movements in the country.[160] Bucharest Metro, the only underground railway system, was opened in 1979 and measures with an average ridership in 2007 of 600,000 passengers during the workweek.[161] There are sixteen international commercial airports in service today. Over 12.8 million passengers flew through Bucharest's Henri Coandă International Airport in 2017.[162]
+.]] According to the _INSSE_, Romania's total road network was estimated in 2015 at .[157] The World Bank estimates the railway network at of track, the fourth-largest railroad network in Europe.[158] Rail transport experienced a dramatic decline after 1989, and was estimated at 99 million passenger journeys in 2004; but has experienced a recent (2013) revival due to infrastructure improvements and partial privatization of lines,[159] accounting for 45% of all passenger and freight movements in the country.[160] Bucharest Metro, the only underground railway system, was opened in 1979 and measures with an average ridership in 2007 of 600,000 passengers during the workweek.[161] There are sixteen international commercial airports in service today. Over 12.8 million passengers flew through Bucharest's Henri Coandă International Airport in 2017.[162]
 
 Romania is a net exporter of electrical energy and is 48th worldwide in terms of consumption of electric energy.[163] Around a third of the produced energy comes from renewable sources, mostly as hydroelectric power.[164] In 2015, the main sources were coal (28%), hydroelectric (30%), nuclear (18%), and hydrocarbons (14%).[165] It has one of the largest refining capacities in Eastern Europe, even though oil and natural gas production has been decreasing for more than a decade.[166] With one of the largest reserves of crude oil and shale gas in Europe,[167] it is among the most energy-independent countries in the European Union,[168] and is looking to further expand its nuclear power plant at Cernavodă.[169]
 
@@ -312,7 +304,7 @@ The nuclear physics facility of the European Union's proposed Extreme Light Infr
 
 Demographics
 
-Ethnic-map-of-Romania-2011.png Romania_1930_ethnic_map_EN.png based on the 1930 census data.]]
+based on the 1930 census data.]]
 
 According to the 2011 census, Romania's population is 20,121,641.[201] Like other countries in the region, its population is expected to gradually decline in the coming years as a result of sub-replacement fertility rates and negative net migration rate. In October 2011, Romanians made up 88.9% of the population. The largest ethnic minorities are the Hungarians, 6.1% of the population, and the Roma, 3.0% of the population.[202][203] Hungarians constitute a majority in the counties of Harghita and Covasna. Other minorities include Ukrainians, Germans, Turks, Lipovans, Aromanians, Tatars, and Serbs.[204] In 1930, there were 745,421 Germans in Romania,[205] but only about 36,000 remain today.[206] , there were also approximately 133,000 immigrants living in Romania, primarily from Moldova and China.[207]
 
@@ -322,7 +314,7 @@ The number of Romanians and individuals with ancestors born in Romania living ab
 
 Languages
 
-LatinEuropeans.png, part of the larger linguistic family of Romance languages alongside French, Italian, Spanish, Portuguese and Catalan.]]
+, part of the larger linguistic family of Romance languages alongside French, Italian, Spanish, Portuguese and Catalan.]]
 
 The official language is Romanian, a Romance language (the most widely spoken of the Eastern Romance branch), which presents a consistent degree of similarity to Aromanian, Megleno-Romanian, and Istro-Romanian, but equally shares many features with the rest of the Western Romance languages, specifically Italian, French, Spanish, Portuguese, and Catalan. The Romanian alphabet contains the same 26 letters of the standard Latin alphabet, as well as five additional ones (namely 'ă','â','î','ț', and 'ș'), totaling 31.
 
@@ -332,7 +324,7 @@ According to the Constitution, local councils ensure linguistic rights to all mi
 
 Religion
 
-Ortodocsi_Romania_(2002).png is the most widespread religious denomination in the country.]]
+is the most widespread religious denomination in the country.]]
 
 Romania is a secular state and has no state religion. An overwhelming majority of the population identify themselves as Christians. At the country's 2011 census, 81.0% of respondents identified as Orthodox Christians belonging to the Romanian Orthodox Church. Other denominations include Protestantism (6.2%), Roman Catholicism (4.3%), and Greek Catholicism (0.8%). From the remaining population, 195,569 people belong to other Christian denominations or have another religion, which includes 64,337 Muslims (mostly of Turkish and Tatar ethnicity) and 3,519 Jewish (Jews once constituted 4% of the Romanian population, 728,115 persons in the 1930 census). Moreover, 39,660 people have no religion or are atheist, whilst the religion of the rest is unknown.[225]
 
@@ -344,9 +336,9 @@ Although 54.0% of the population lived in urban areas in 2011,[228] this percent
 
 Education
 
-Universitatea_din_Bucuresti_din_Piata_Universitatii.jpg was opened in 1864.]]
+was opened in 1864.]]
 
-Bucuresti,_Romania._SPITALUL_COLTEA_(B-II-m-A-18220.02).jpg|accessdate=22 January 2019|language=Romanian}}]]
+|accessdate=22 January 2019|language=Romanian}}]]
 
 Since the Romanian Revolution of 1989, the Romanian educational system has been in a continuous process of reform that has received mixed criticism.[236] In 2004, some 4.4 million of the population were enrolled in school. Out of these, 650,000 in kindergarten (3–6 years), 3.11 million in primary and secondary level, and 650,000 in tertiary level (universities).[237] In 2018, the adult literacy rate was 98.8%.[238] Kindergarten is optional between 3 and 6 years. Since 2012, compulsory schooling starts at age 6 with the "preparatory school year" (_clasa pregătitoare_)[239] and is compulsory until tenth grade.[240] Primary and secondary education is divided into 12 or 13 grades. There also exists a semi-legal, informal private tutoring system used mostly during secondary school, which has prospered during the Communist regime.[241]
 
@@ -363,7 +355,7 @@ Culture
 
 Arts and monuments
 
-Sibiuphoto.jpg was the European Capital of Culture in 2007.]] upright=1 was designated the European Capital of Culture in 2021.]]
+was the European Capital of Culture in 2007.]] upright=1 was designated the European Capital of Culture in 2021.]]
 
 The topic of the origin of the Romanians began to be discussed by the end of the 18th century among the Transylvanian School scholars.[253] Several writers rose to prominence in the 19th century, including George Coșbuc, Ioan Slavici, Mihail Kogălniceanu, Vasile Alecsandri, Nicolae Bălcescu, Ion Luca Caragiale, Ion Creangă, and Mihai Eminescu, the later being considered the greatest and most influential Romanian poet, particularly for the poem _Luceafărul_.[254]
 
@@ -379,7 +371,7 @@ The list of World Heritage Sites includes six cultural sites located within Roma
 
 Holidays, traditions, and cuisine
 
-Piata_Universitatii_-_Targ_de_Craciun_2014.jpg]]
+]]
 
 There are 12 non-working public holidays, including the Great Union Day, celebrated on 1 December in commemoration of the 1918 union of Transylvania with Romania.[272] Winter holidays include the Christmas festivities and the New Year during which, various unique folklore dances and games are common: _plugușorul_, _sorcova_, _ursul_, and _capra_.[273][274] The traditional Romanian dress that otherwise has largely fallen out of use during the 20th century, is a popular ceremonial vestment worn on these festivities, especially in the rural areas.[275] Sacrifices of live pigs during Christmas and lambs during Easter has required a special derogation from EU law after 2007.[276] During Easter, painted eggs are very common, while on 1 March features _mărțișor_ gifting, a tradition likely of Thracian origin.[277]
 

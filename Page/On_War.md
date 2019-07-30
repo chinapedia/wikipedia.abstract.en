@@ -1,4 +1,4 @@
-Vomkriege.jpg _VOM KRIEGE_ () is a book on war and military strategy by Prussian general Carl von Clausewitz (1780–1831), written mostly after the Napoleonic wars, between 1816 and 1830, and published posthumously by his wife Marie von Brühl in 1832.[1] It has been translated into English several times as _ON WAR_. _On War_ is actually an unfinished work; Clausewitz had set about revising his accumulated manuscripts in 1827, but did not live to finish the task. His wife edited his collected works and published them between 1832 and 1835. His 10-volume collected works contain most of his larger historical and theoretical writings, though not his shorter articles and papers or his extensive correspondence with important political, military, intellectual and cultural leaders in the Prussian state. _On War_ is formed by the first three volumes and represents his theoretical explorations. It is one of the most important treatises on political-military analysis and strategy ever written, and remains both controversial and influential on strategic thinking.
+_VOM KRIEGE_ () is a book on war and military strategy by Prussian general Carl von Clausewitz (1780–1831), written mostly after the Napoleonic wars, between 1816 and 1830, and published posthumously by his wife Marie von Brühl in 1832.[1] It has been translated into English several times as _ON WAR_. _On War_ is actually an unfinished work; Clausewitz had set about revising his accumulated manuscripts in 1827, but did not live to finish the task. His wife edited his collected works and published them between 1832 and 1835. His 10-volume collected works contain most of his larger historical and theoretical writings, though not his shorter articles and papers or his extensive correspondence with important political, military, intellectual and cultural leaders in the Prussian state. _On War_ is formed by the first three volumes and represents his theoretical explorations. It is one of the most important treatises on political-military analysis and strategy ever written, and remains both controversial and influential on strategic thinking.
 
 
 History
@@ -8,7 +8,7 @@ Clausewitz was among those intrigued by the manner in which the leaders of the F
 
 Synopsis
 
-Clausewitz-Vom-Kriege-9061.tif's military expedition to Italy, 1796. Map from Clausewitz: Vom Kriege, 1857.]]
+'s military expedition to Italy, 1796. Map from Clausewitz: Vom Kriege, 1857.]]
 
 The book contains a wealth of historical examples used to illustrate its various concepts. Frederick II of Prussia (the Great) figures prominently for having made very efficient use of the limited forces at his disposal, though Napoleon is perhaps the central figure.
 

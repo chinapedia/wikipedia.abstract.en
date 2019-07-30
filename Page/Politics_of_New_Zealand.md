@@ -16,7 +16,7 @@ Political institutions
 
 Legislature
 
-Parliament_Buildings,_Wellington_(4484506063).jpg is the home of the House of Representatives]] |Queen |Elizabeth II | |6 February 1952 |- |Governor-General |Dame Patsy Reddy | |28 September 2016 |- |Speaker of the House |Trevor Mallard |Labour |7 November 2017 |- |Leader of the House |Chris Hipkins |Labour |26 October 2017 |- |}
+is the home of the House of Representatives]] |Queen |Elizabeth II | |6 February 1952 |- |Governor-General |Dame Patsy Reddy | |28 September 2016 |- |Speaker of the House |Trevor Mallard |Labour |7 November 2017 |- |Leader of the House |Chris Hipkins |Labour |26 October 2017 |- |}
 
 Parliament is responsible for passing laws (statutes), adopting the state's budgets, and exercising control of the Government.[7] It currently has a single chamber, the House of Representatives. Before 1951 there was a second chamber, the Legislative Council.[8] Suffrage is extended to everyone over the age of 18 years, women having gained the vote in 1893.[9] Members of Parliament (MPs) are elected for a maximum term of three years, although an election may be called earlier in exceptional circumstances.[10] The House of Representatives meets in Parliament House, Wellington.[11]
 
@@ -28,9 +28,9 @@ Seven seats are reserved for MPs elected on a separate Māori roll. However, Mā
 
 Executive
 
-SIF-Beehive-3-Cropped.jpg" is the seat of the New Zealand Government]] |Queen |Elizabeth II | |6 February 1952 |- |Governor-General |Dame Patsy Reddy | |28 September 2016 |- |Prime Minister |Jacinda Ardern |Labour |26 October 2017 |- |} Queen Elizabeth II is New Zealand's sovereign and head of state.[19][20] The New Zealand monarchy has been distinct from the British monarchy since the Statute of Westminster Adoption Act 1947, and all Elizabeth II's official business in New Zealand is conducted in the name of the "Queen of New Zealand".[21] The Queen's role is largely ceremonial, and her residual powers—the "Royal Prerogative"—are mostly exercised through the government of the day. These include the power to enact legislation, to sign treaties and to declare war.[22]
+" is the seat of the New Zealand Government]] |Queen |Elizabeth II | |6 February 1952 |- |Governor-General |Dame Patsy Reddy | |28 September 2016 |- |Prime Minister |Jacinda Ardern |Labour |26 October 2017 |- |} Queen Elizabeth II is New Zealand's sovereign and head of state.[19][20] The New Zealand monarchy has been distinct from the British monarchy since the Statute of Westminster Adoption Act 1947, and all Elizabeth II's official business in New Zealand is conducted in the name of the "Queen of New Zealand".[21] The Queen's role is largely ceremonial, and her residual powers—the "Royal Prerogative"—are mostly exercised through the government of the day. These include the power to enact legislation, to sign treaties and to declare war.[22]
 
-Patsy_Reddy_and_Jacinda_Ardern.jpg with Governor-General Dame Patsy Reddy, May 2018]] Since the Queen is not usually resident in New Zealand, the functions of the monarchy are conducted by her representative, the Governor-General.[23] , the Governor-General is Dame Patsy Reddy.[24] The Governor-General formally has the power to appoint and dismiss ministers and to dissolve Parliament; and the power to reject or sign bills into law by Royal Assent after passage by the House of Representatives.[25] The Governor-General chairs the Executive Council, which is a formal committee consisting of all ministers. Members of the Executive Council are required to be members of Parliament (MPs), and most are also in the Cabinet.[26]
+with Governor-General Dame Patsy Reddy, May 2018]] Since the Queen is not usually resident in New Zealand, the functions of the monarchy are conducted by her representative, the Governor-General.[23] , the Governor-General is Dame Patsy Reddy.[24] The Governor-General formally has the power to appoint and dismiss ministers and to dissolve Parliament; and the power to reject or sign bills into law by Royal Assent after passage by the House of Representatives.[25] The Governor-General chairs the Executive Council, which is a formal committee consisting of all ministers. Members of the Executive Council are required to be members of Parliament (MPs), and most are also in the Cabinet.[26]
 
 Cabinet is the most senior policy-making body and is led by the Prime Minister, who is also, by convention, the parliamentary leader of the governing party or coalition. The Prime Minister, being the _de facto_ leader of New Zealand, exercises executive functions that are formally vested in the monarch (by way of the royal prerogative powers).[27] Cabinet is directly responsible to the New Zealand Parliament, from which its members are derived; ministers are collectively responsible for all decisions made.[28]
 
@@ -40,7 +40,7 @@ The most recent general election, held in September 2017, saw Labour finish in s
 
 Judiciary
 
-New_Zealand_Supreme_Court_entrance_2015.JPG The New Zealand judiciary has four basic levels of courts:[33]
+The New Zealand judiciary has four basic levels of courts:[33]
 
 -   The Supreme Court;
 -   the Court of Appeal;
@@ -83,7 +83,7 @@ Prior to New Zealand becoming a British colony in 1840, politics in New Zealand 
 
 Colonial politics
 
-The_Treaty_of_Waitangi_(in_Maori).jpeg (in Māori)]] After the 1840 Treaty of Waitangi, a colonial Governor and his small staff acted on behalf of the British government based on the British political system.[67] Whereas Māori systems had dominated prior to 1840 governors attempting to introduce British systems met with mixed success in Māori communities. More isolated Māori were little influenced by the Government. Most influences were felt in and around Russell, the first capital, and Auckland, the second capital.
+(in Māori)]] After the 1840 Treaty of Waitangi, a colonial Governor and his small staff acted on behalf of the British government based on the British political system.[67] Whereas Māori systems had dominated prior to 1840 governors attempting to introduce British systems met with mixed success in Māori communities. More isolated Māori were little influenced by the Government. Most influences were felt in and around Russell, the first capital, and Auckland, the second capital.
 
 The first voting rights in New Zealand were legislated in 1852 as the New Zealand Constitution Act for the 1853 elections and reflected British practice.[68] Initially only property owners could vote, but by the late 1850s 75% of British males over 21 were eligible to vote compared to 20% in England and 12% in Scotland. Around 100 Māori chiefs voted in the 1853 election.[69]
 
@@ -93,7 +93,7 @@ After the brief Land War period ending in 1864, Parliament moved to extend the f
 
 In 1879 an economic depression hit, resulting in poverty and many people, especially miners, returning to Australia. Between 1879 and 1881 Government was concerned at the activities of Māori activists based on confiscated land at Parihaka. Activists destroyed settlers' farm fences and ploughed up roads and land[72] which incensed local farmers. Arrests followed but the activities persisted. Fears grew among settlers that the resistance campaign was a prelude to armed conflict.[73] The government itself was puzzled as to why the land had been confiscated and offered a huge 25,000 acre reserve to the activists, provided they stopped the destruction. Commissioners set up to investigate the issue said that the activities "could fairly be called hostile". A power struggle ensued resulting in the arrest of all the prominent leaders by a large government force in 1881. Historian Hazel Riseborough describes the event as a conflict over who had authority or mana—the Government or the Parihaka protestors.
 
-Seddon_Statue,_Wellington,_New_Zealand_(94).JPG's statue stands outside Parliament buildings in Wellington.]] In 1882 the export of meat in the first refrigerated ship started a period of sustained economic export led growth. This period is notable for the influence of new social ideas and movements such as the Fabians and the creation in 1890 of the first political party, the Liberals. Their leader, former gold miner Richard Seddon from Lancashire, was Premier from 1893 to 1906. The Liberals introduced new taxes to break the influence of the wealthy conservative sheep farm owners. They also purchased more land from Māori.[74] In 1896 Maori made up 2.9% of the population but owned 15% of the land. Far more small farms and a new land owning class were created during this period.
+'s statue stands outside Parliament buildings in Wellington.]] In 1882 the export of meat in the first refrigerated ship started a period of sustained economic export led growth. This period is notable for the influence of new social ideas and movements such as the Fabians and the creation in 1890 of the first political party, the Liberals. Their leader, former gold miner Richard Seddon from Lancashire, was Premier from 1893 to 1906. The Liberals introduced new taxes to break the influence of the wealthy conservative sheep farm owners. They also purchased more land from Māori.[74] In 1896 Maori made up 2.9% of the population but owned 15% of the land. Far more small farms and a new land owning class were created during this period.
 
 Māori politics and legislation
 

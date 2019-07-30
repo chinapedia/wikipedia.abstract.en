@@ -1,4 +1,4 @@
-Airspeed_p1230157.jpg, combines a pitot tube (right) with a static port and an angle-of-attack vane (left). Air-flow is right to left.]] Pitot_tube_types.svg pitot_tube_manometer.svg Pitot-cső_helikopteren_4.jpg helicopter]] Renault_R25_(2005)_Fernando_Alonso_pitot_probe.jpg]] B777-381_JA8752_nose_Pitot_tube_ja.jpg]] A PITOT ( ) TUBE, also known as PITOT PROBE, is a flow measurement device used to measure fluid flow velocity. The pitot tube was invented by the French engineer Henri Pitot in the early 18th century[1] and was modified to its modern form in the mid-19th century by French scientist Henry Darcy.[2] It is widely used to determine the airspeed of an aircraft, water speed of a boat, and to measure liquid, air and gas flow velocities in certain industrial applications.
+, combines a pitot tube (right) with a static port and an angle-of-attack vane (left). Air-flow is right to left.]] helicopter]] ]] ]] A PITOT ( ) TUBE, also known as PITOT PROBE, is a flow measurement device used to measure fluid flow velocity. The pitot tube was invented by the French engineer Henri Pitot in the early 18th century[1] and was modified to its modern form in the mid-19th century by French scientist Henry Darcy.[2] It is widely used to determine the airspeed of an aircraft, water speed of a boat, and to measure liquid, air and gas flow velocities in certain industrial applications.
 
 
 Theory of operation
@@ -59,7 +59,7 @@ Aeroperú Flight 603 had a pitot-static system failure due to the cleaning crew 
 
 Industry applications
 
-FA18pitot.png]] Instruments_at_Mount_Washington_Observatory.JPG. Pitot tube static anemometer is on the right.]]
+]] . Pitot tube static anemometer is on the right.]]
 
 In industry, the flow velocities being measured are often those flowing in ducts and tubing where measurements by an anemometer would be difficult to obtain. In these kinds of measurements, the most practical instrument to use is the pitot tube. The pitot tube can be inserted through a small hole in the duct with the pitot connected to a U-tube water gauge or some other differential pressure gauge for determining the flow velocity inside the ducted wind tunnel. One use of this technique is to determine the volume of air that is being delivered to a conditioned space.
 

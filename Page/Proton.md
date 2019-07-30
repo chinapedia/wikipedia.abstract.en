@@ -18,7 +18,7 @@ Protons and neutrons are both nucleons, which may be bound together by the nucle
 
 History
 
-The concept of a hydrogen-like particle as a constituent of other atoms was developed over a long period. As early as 1815, William Prout proposed that all atoms are composed of hydrogen atoms (which he called "protyles"), based on a simplistic interpretation of early values of atomic weights (see Prout's hypothesis), which was disproved when more accurate values were measured.[8] Rutherford_1911_Solvay.jpg at the first Solvay Conference, 1911]] Proton_detected_in_an_isopropanol_cloud_chamber.jpg cloud chamber]] In 1886, Eugen Goldstein discovered canal rays (also known as anode rays) and showed that they were positively charged particles (ions) produced from gases. However, since particles from different gases had different values of charge-to-mass ratio (e/m), they could not be identified with a single particle, unlike the negative electrons discovered by J. J. Thomson. Wilhelm Wien in 1898 identified the hydrogen ion as particle with highest charge-to-mass ratio in ionized gases.[9]
+The concept of a hydrogen-like particle as a constituent of other atoms was developed over a long period. As early as 1815, William Prout proposed that all atoms are composed of hydrogen atoms (which he called "protyles"), based on a simplistic interpretation of early values of atomic weights (see Prout's hypothesis), which was disproved when more accurate values were measured.[8] at the first Solvay Conference, 1911]] cloud chamber]] In 1886, Eugen Goldstein discovered canal rays (also known as anode rays) and showed that they were positively charged particles (ions) produced from gases. However, since particles from different gases had different values of charge-to-mass ratio (e/m), they could not be identified with a single particle, unlike the negative electrons discovered by J. J. Thomson. Wilhelm Wien in 1898 identified the hydrogen ion as particle with highest charge-to-mass ratio in ionized gases.[9]
 
 Following the discovery of the atomic nucleus by Ernest Rutherford in 1911, Antonius van den Broek proposed that the place of each element in the periodic table (its atomic number) is equal to its nuclear charge. This was confirmed experimentally by Henry Moseley in 1913 using X-ray spectra.
 
@@ -118,8 +118,6 @@ In chemistry, the number of protons in the nucleus of an atom is known as the at
 All atoms of a given element are not necessarily identical, however. The number of neutrons may vary to form different isotopes, and energy levels may differ, resulting in different nuclear isomers. For example, there are two stable isotopes of chlorine: with 35 − 17 = 18 neutrons and with 37 − 17 = 20 neutrons.
 
 Hydrogen ion
-
-Hydrogen.svg
 
 In chemistry, the term proton refers to the hydrogen ion, . Since the atomic number of hydrogen is 1, a hydrogen ion has no electrons and corresponds to a bare nucleus, consisting of a proton (and 0 neutrons for the most abundant isotope _protium_ ). The proton is a "bare charge" with only about 1/64,000 of the radius of a hydrogen atom, and so is extremely reactive chemically. The free proton, thus, has an extremely short lifetime in chemical systems such as liquids and it reacts immediately with the electron cloud of any available molecule. In aqueous solution, it forms the hydronium ion, H₃O⁺, which in turn is further solvated by water molecules in clusters such as [H₅O₂]⁺ and [H₉O₄]⁺.[45]
 

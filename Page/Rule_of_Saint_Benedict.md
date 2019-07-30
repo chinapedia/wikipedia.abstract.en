@@ -1,7 +1,5 @@
 The _RULE OF SAINT BENEDICT_ () is a book of precepts written in 516[1] by Benedict of Nursia ( AD 480–550) for monks living communally under the authority of an abbot.
 
-MS._Hatton_48_fol._6v-7r.jpg
-
 The spirit of Saint Benedict's Rule is summed up in the motto of the Benedictine Confederation: _pax_ ("peace") and the traditional _ora et labora_ ("pray and work"). Compared to other precepts, the Rule provides a moderate path between individual zeal and formulaic institutionalism; because of this middle ground it has been widely popular. Benedict's concerns were the needs of monks in a community environment: namely, to establish due order, to foster an understanding of the relational nature of human beings, and to provide a spiritual father to support and strengthen the individual's ascetic effort and the spiritual growth that is required for the fulfillment of the human vocation, theosis.
 
 The _Rule of Saint Benedict_ has been used by Benedictines for 15 centuries, and thus St. Benedict is sometimes regarded as the founder of Western monasticism due to reform that his rules had on the current Catholic hierarchy.[2] There is, however, no evidence to suggest that Benedict intended to found a religious order in the modern sense and it was not until the later Middle Ages that mention was made of an "Order of Saint Benedict". His _Rule_ was written as a guide for individual, autonomous communities, and all Benedictine Houses (and the Congregations in which they have grouped themselves) still remain self-governing. Advantages seen in retaining this unique Benedictine emphasis on autonomy include cultivating models of tightly bonded communities and contemplative lifestyles. Perceived disadvantages comprise geographical isolation from important activities in adjacent communities. Other perceived losses include inefficiency and lack of mobility in the service of others, and insufficient appeal to potential members. These different emphases emerged within the framework of the Rule in the course of history and are to some extent present within the Benedictine Confederation and the Cistercian Orders of the Common and the Strict Observance.
@@ -9,7 +7,7 @@ The _Rule of Saint Benedict_ has been used by Benedictines for 15 centuries, and
 
 Origins
 
-Christian monasticism first appeared in the Egyptian desert, in the Eastern Roman Empire a few generations before Benedict of Nursia. Under the inspiration of Saint Anthony the Great (251-356), ascetic monks led by Saint Pachomius (286-346) formed the first Christian monastic communities under what became known as an _Abbot_, from the Aramaic _abba_ (father).[3]Heiligenkreuz.St._Benedict.jpg (1849–1928).]]Within a generation, both solitary as well as communal monasticism became very popular which spread outside of Egypt, first to Palestine and the Judean Desert and thence to Syria and North Africa. Saint Basil of Caesarea codified the precepts for these eastern monasteries in his Ascetic Rule, or _Ascetica_, which is still used today in the Eastern Orthodox Church.
+Christian monasticism first appeared in the Egyptian desert, in the Eastern Roman Empire a few generations before Benedict of Nursia. Under the inspiration of Saint Anthony the Great (251-356), ascetic monks led by Saint Pachomius (286-346) formed the first Christian monastic communities under what became known as an _Abbot_, from the Aramaic _abba_ (father).[3] (1849–1928).]]Within a generation, both solitary as well as communal monasticism became very popular which spread outside of Egypt, first to Palestine and the Judean Desert and thence to Syria and North Africa. Saint Basil of Caesarea codified the precepts for these eastern monasteries in his Ascetic Rule, or _Ascetica_, which is still used today in the Eastern Orthodox Church.
 
 In the West in about the year 500, Benedict became so upset by the immorality of society in Rome that he gave up his studies there, at age fourteen, and chose the life of an ascetic monk in the pursuit of personal holiness, living as a hermit in a cave near the rugged region of Subiaco. In time, setting an example with his zeal, he began to attract disciples. After considerable initial struggles with his first community at Subiaco, he eventually founded the monastery of Monte Cassino in 529, where he wrote his Rule near the end of his life.[4]
 
@@ -23,11 +21,11 @@ The _Rule_ opens with a hortatory preface, in which Saint Benedict sets forth th
 -   Chapter 1 defines four kinds of monk:
 
 1.  Cenobites, those "in a monastery, where they serve under a rule and an abbot".
-2.  Anchorites, or hermits, who, after long successful training in a monastery, are now coping single-handedly, with only God for their help.Benedictus_-_Regula,_Anno_domini_MCCCCLXXXXV_die_XXVII_otubrio_-_2472028_ib00310000_TMD_MASTER_IMG_Scan00011.tif
+2.  Anchorites, or hermits, who, after long successful training in a monastery, are now coping single-handedly, with only God for their help.
 3.  Sarabaites, living by twos and threes together or even alone, with no experience, rule and superior, and thus a law unto themselves.[9]
 4.  Gyrovagues, wandering from one monastery to another, slaves to their own wills and appetites.[10]
 
-St._Benedict_delivering_his_rule_to_the_monks_of_his_order.jpg, France, 1129]]
+, France, 1129]]
 
 -   Chapter 2 describes the necessary qualifications of an abbot, forbids the abbot to make distinctions between persons in the monastery except for particular merit, and warns him he will be answerable for the salvation of the souls in his care.[11]
 -   Chapter 3 ordains the calling of the brothers to council upon all affairs of importance to the community.[12]
@@ -87,7 +85,7 @@ Charlemagne had Benedict's rule copied and distributed to encourage monks throug
 
 Outline of the Benedictine life
 
-JR_Herbert_Laborare.jpg'' (Pray and Work). This 1862 painting by John Rogers Herbert depicts monks at work in the fields]] Saint Benedict's model for the monastic life was the family, with the abbot as father and all the monks as brothers. Priesthood was not initially an important part of Benedictine monasticism – monks used the services of their local priest. Because of this, almost all the Rule is applicable to communities of women under the authority of an abbess. This appeal to multiple groups would later make the Rule of Saint Benedict an integral set of guidelines for the development of the Christian faith.
+'' (Pray and Work). This 1862 painting by John Rogers Herbert depicts monks at work in the fields]] Saint Benedict's model for the monastic life was the family, with the abbot as father and all the monks as brothers. Priesthood was not initially an important part of Benedictine monasticism – monks used the services of their local priest. Because of this, almost all the Rule is applicable to communities of women under the authority of an abbess. This appeal to multiple groups would later make the Rule of Saint Benedict an integral set of guidelines for the development of the Christian faith.
 
 Saint Benedict's Rule organises the monastic day into regular periods of communal and private prayer, sleep, spiritual reading, and manual labour – _ut in omnibus glorificetur Deus_, "that in all [things] God may be glorified" (cf. Rule ch. 57.9). In later centuries, intellectual work and teaching took the place of farming, crafts, or other forms of manual labour for many – if not most – Benedictines.
 

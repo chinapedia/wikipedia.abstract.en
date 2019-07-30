@@ -12,7 +12,7 @@ Medicine (, ) is the science and practice of the diagnosis, prognosis, treatment
 
 Clinical practice
 
-The_Doctor_Luke_Fildes_crop.jpg (1891)|350 px]] Medical availability and clinical practice varies across the world due to regional differences in culture and technology. Modern scientific medicine is highly developed in the Western world, while in developing countries such as parts of Africa or Asia, the population may rely more heavily on traditional medicine with limited evidence and efficacy and no required formal training for practitioners.[8] Even in the developed world however, evidence-based medicine is not universally used in clinical practice; for example, a 2007 survey of literature reviews found that about 49% of the interventions lacked sufficient evidence to support either benefit or harm.[9]
+(1891)|350 px]] Medical availability and clinical practice varies across the world due to regional differences in culture and technology. Modern scientific medicine is highly developed in the Western world, while in developing countries such as parts of Africa or Asia, the population may rely more heavily on traditional medicine with limited evidence and efficacy and no required formal training for practitioners.[8] Even in the developed world however, evidence-based medicine is not universally used in clinical practice; for example, a 2007 survey of literature reviews found that about 49% of the interventions lacked sufficient evidence to support either benefit or harm.[9]
 
 In modern clinical practice, physicians personally assess patients in order to diagnose, prognose, treat, and prevent disease using clinical judgment. The doctor-patient relationship typically begins an interaction with an examination of the patient's medical history and medical record, followed by a medical interview[10] and a physical examination. Basic diagnostic medical devices (e.g. stethoscope, tongue depressor) are typically used. After examination for signs and interviewing for symptoms, the doctor may order medical tests (e.g. blood tests), take a biopsy, or prescribe pharmaceutical drugs or other therapies. Differential diagnosis methods help to rule out conditions based on the information provided. During the encounter, properly informing the patient of all relevant facts is an important part of the relationship and the development of trust. The medical encounter is then documented in the medical record, which is a legal document in many jurisdictions.[11] Follow-ups may be shorter but follow the same general procedure, and specialists follow a similar process. The diagnosis and treatment may take only a few minutes or a few weeks depending upon the complexity of the issue.
 
@@ -54,13 +54,13 @@ On subsequent visits, the process may be repeated in an abbreviated manner to ob
 
 Institutions
 
-Pellegrinaio_Santa_Maria_della_Scala_n5.jpg, fresco by Domenico di Bartolo, 1441–1442]] Contemporary medicine is in general conducted within health care systems. Legal, credentialing and financing frameworks are established by individual governments, augmented on occasion by international organizations, such as churches. The characteristics of any given health care system have significant impact on the way medical care is provided.
+, fresco by Domenico di Bartolo, 1441–1442]] Contemporary medicine is in general conducted within health care systems. Legal, credentialing and financing frameworks are established by individual governments, augmented on occasion by international organizations, such as churches. The characteristics of any given health care system have significant impact on the way medical care is provided.
 
 From ancient times, Christian emphasis on practical charity gave rise to the development of systematic nursing and hospitals and the Catholic Church today remains the largest non-government provider of medical services in the world.[16] Advanced industrial countries (with the exception of the United States)[17][18] and many developing countries provide medical services through a system of universal health care that aims to guarantee care for all through a single-payer health care system, or compulsory private or co-operative health insurance. This is intended to ensure that the entire population has access to medical care on the basis of need rather than ability to pay. Delivery may be via private medical practices or by state-owned hospitals and clinics, or by charities, most commonly by a combination of all three.
 
 Most tribal societies provide no guarantee of healthcare for the population as a whole. In such societies, healthcare is available to those that can afford to pay for it or have self-insured it (either directly or as part of an employment contract) or who may be covered by care financed by the government or tribe directly.
 
-Drug_ampoule_JPN.jpgs]]
+s]]
 
 Transparency of information is another factor defining a delivery system. Access to information on conditions, treatments, quality, and pricing greatly affects the choice by patients/consumers and, therefore, the incentives of medical professionals. While the US healthcare system has come under fire for lack of openness,[19] new legislation may encourage greater openness. There is a perceived tension between the need for transparency on the one hand and such issues as patient confidentiality and the possible exploitation of information for commercial gain on the other.
 
@@ -68,7 +68,7 @@ Delivery
 
 Provision of medical care is classified into primary, secondary, and tertiary care categories.
 
-Nurses_at_Butawin_Urban_Clinic,_PNG_(10711159465).jpg, East New Britain, Papua New Guinea|upright]] Primary care medical services are provided by physicians, physician assistants, nurse practitioners, or other health professionals who have first contact with a patient seeking medical treatment or care. These occur in physician offices, clinics, nursing homes, schools, home visits, and other places close to patients. About 90% of medical visits can be treated by the primary care provider. These include treatment of acute and chronic illnesses, preventive care and health education for all ages and both sexes.
+, East New Britain, Papua New Guinea|upright]] Primary care medical services are provided by physicians, physician assistants, nurse practitioners, or other health professionals who have first contact with a patient seeking medical treatment or care. These occur in physician offices, clinics, nursing homes, schools, home visits, and other places close to patients. About 90% of medical visits can be treated by the primary care provider. These include treatment of acute and chronic illnesses, preventive care and health education for all ages and both sexes.
 
 Secondary care medical services are provided by medical specialists in their offices or clinics or at local community hospitals for a patient referred by a primary care provider who first diagnosed or treated the patient. Referrals are made for those patients who required the expertise or procedures performed by specialists. These include both ambulatory care and inpatient services, Emergency departments, intensive care medicine, surgery services, physical therapy, labor and delivery, endoscopy units, diagnostic laboratory and medical imaging services, hospice centers, etc. Some primary care providers may also take care of hospitalized patients and deliver babies in a secondary care setting.
 
@@ -83,7 +83,7 @@ Separation of prescribing and dispensing is a practice in medicine and pharmacy 
 
 Branches
 
-Drawing_by_Marguerite_Martyn_of_a_visiting_nurse_with_medicine_and_four_babies,_1918.jpg of a visiting nurse in St. Louis, Missouri, with medicine and babies]] Working together as an interdisciplinary team, many highly trained health professionals besides medical practitioners are involved in the delivery of modern health care. Examples include: nurses, emergency medical technicians and paramedics, laboratory scientists, pharmacists, podiatrists, physiotherapists, respiratory therapists, speech therapists, occupational therapists, radiographers, dietitians, and bioengineers, surgeons, surgeon's assistant, surgical technologist.
+of a visiting nurse in St. Louis, Missouri, with medicine and babies]] Working together as an interdisciplinary team, many highly trained health professionals besides medical practitioners are involved in the delivery of modern health care. Examples include: nurses, emergency medical technicians and paramedics, laboratory scientists, pharmacists, podiatrists, physiotherapists, respiratory therapists, speech therapists, occupational therapists, radiographers, dietitians, and bioengineers, surgeons, surgeon's assistant, surgical technologist.
 
 The scope and sciences underpinning human medicine overlap many other fields. Dentistry, while considered by some a separate discipline from medicine, is a medical field.
 
@@ -106,7 +106,7 @@ Basic sciences
 -   _Biophysics_ is an interdisciplinary science that uses the methods of physics and physical chemistry to study biological systems.
 -   _Cytology_ is the microscopic study of individual cells.
 
-Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg'', as portrayed in his laboratory, 1885 by Albert Edelfelt]]
+'', as portrayed in his laboratory, 1885 by Albert Edelfelt]]
 
 -   _Embryology_ is the study of the early development of organisms.
 -   _Endocrinology_ is the study of hormones and their effect throughout the body of animals.
@@ -134,7 +134,7 @@ Within medical circles, specialities usually fit into one of two broad categorie
 
 Surgical specialty
 
-Surgeons_at_Work.jpg]] SURGERY is an ancient medical specialty that uses operative manual and instrumental techniques on a patient to investigate or treat a pathological condition such as disease or injury, to help improve bodily function or appearance or to repair unwanted ruptured areas (for example, a perforated ear drum). Surgeons must also manage pre-operative, post-operative, and potential surgical candidates on the hospital wards. Surgery has many sub-specialties, including _general surgery, ophthalmic surgery, cardiovascular surgery, colorectal surgery, neurosurgery, oral and maxillofacial surgery, oncologic surgery, orthopedic surgery, otolaryngology, plastic surgery, podiatric surgery, transplant surgery, trauma surgery, urology, vascular surgery, and pediatric surgery._ In some centers, anesthesiology is part of the division of surgery (for historical and logistical reasons), although it is not a surgical discipline. Other medical specialties may employ surgical procedures, such as ophthalmology and dermatology, but are not considered surgical sub-specialties per se.
+]] SURGERY is an ancient medical specialty that uses operative manual and instrumental techniques on a patient to investigate or treat a pathological condition such as disease or injury, to help improve bodily function or appearance or to repair unwanted ruptured areas (for example, a perforated ear drum). Surgeons must also manage pre-operative, post-operative, and potential surgical candidates on the hospital wards. Surgery has many sub-specialties, including _general surgery, ophthalmic surgery, cardiovascular surgery, colorectal surgery, neurosurgery, oral and maxillofacial surgery, oncologic surgery, orthopedic surgery, otolaryngology, plastic surgery, podiatric surgery, transplant surgery, trauma surgery, urology, vascular surgery, and pediatric surgery._ In some centers, anesthesiology is part of the division of surgery (for historical and logistical reasons), although it is not a surgical discipline. Other medical specialties may employ surgical procedures, such as ophthalmology and dermatology, but are not considered surgical sub-specialties per se.
 
 Surgical training in the U.S. requires a minimum of five years of residency after medical school. Sub-specialties of surgery often require seven or more years. In addition, fellowships can last an additional one to three years. Because post-residency fellowships can be competitive, many trainees devote two additional years to research. Thus in some cases surgical training will not finish until more than a decade after medical school. Furthermore, surgical training can be very difficult and time-consuming.
 
@@ -199,7 +199,7 @@ The following are some major medical specialties that do not directly fit into a
 -   _Emergency medicine_ is concerned with the diagnosis and treatment of acute or life-threatening conditions, including trauma, surgical, medical, pediatric, and psychiatric emergencies.
 -   _Family medicine_, _family practice_, _general practice_ or _primary care_ is, in many countries, the first port-of-call for patients with non-emergency medical problems. Family physicians often provide services across a broad range of settings including office based practices, emergency department coverage, inpatient care, and nursing home care.
 
-Changing_lives_for_girls_and_women_every_week_(12330467294).jpg Michel Akotionga of Ouagadougou, Burkina Faso]]
+Michel Akotionga of Ouagadougou, Burkina Faso]]
 
 -   _Obstetrics and gynecology_ (often abbreviated as _OB/GYN_ (American English) or _Obs & Gynae_ (British English)) are concerned respectively with childbirth and the female reproductive and associated organs. Reproductive medicine and fertility medicine are generally practiced by gynecological specialists.
 -   _Medical genetics_ is concerned with the diagnosis and management of hereditary disorders.
@@ -252,13 +252,11 @@ Some interdisciplinary sub-specialties of medicine include:
 
 Education and legal controls
 
-Medical_students_learning_about_stitches_(2760577402).jpg
-
 Medical education and training varies around the world. It typically involves entry level education at a university medical school, followed by a period of supervised practice or internship, or residency. This can be followed by postgraduate vocational training. A variety of teaching methods have been employed in medical education, still itself a focus of active research. In Canada and the United States of America, a Doctor of Medicine degree, often abbreviated M.D., or a Doctor of Osteopathic Medicine degree, often abbreviated as D.O. and unique to the United States, must be completed in and delivered from a recognized university.
 
 Since knowledge, techniques, and medical technology continue to evolve at a rapid rate, many regulatory authorities require continuing medical education. Medical practitioners upgrade their knowledge in various ways, including medical journals, seminars, conferences, and online programs. A database of objectives covering medical knowledge, as suggested by national societies across the United States, can be searched at http://data.medobjectives.marian.edu/.[26]
 
-Madrid_(RPS_13-07-2010)_Organización_Médica_Colegial_de_España,_fachada.jpg, which regulates the medical profession in Spain]] In most countries, it is a legal requirement for a medical doctor to be licensed or registered. In general, this entails a medical degree from a university and accreditation by a medical board or an equivalent national organization, which may ask the applicant to pass exams. This restricts the considerable legal authority of the medical profession to physicians that are trained and qualified by national standards. It is also intended as an assurance to patients and as a safeguard against charlatans that practice inadequate medicine for personal gain. While the laws generally require medical doctors to be trained in "evidence based", Western, or Hippocratic Medicine, they are not intended to discourage different paradigms of health.
+, which regulates the medical profession in Spain]] In most countries, it is a legal requirement for a medical doctor to be licensed or registered. In general, this entails a medical degree from a university and accreditation by a medical board or an equivalent national organization, which may ask the applicant to pass exams. This restricts the considerable legal authority of the medical profession to physicians that are trained and qualified by national standards. It is also intended as an assurance to patients and as a safeguard against charlatans that practice inadequate medicine for personal gain. While the laws generally require medical doctors to be trained in "evidence based", Western, or Hippocratic Medicine, they are not intended to discourage different paradigms of health.
 
 In the European Union, the profession of doctor of medicine is regulated. A profession is said to be regulated when access and exercise is subject to the possession of a specific professional qualification. The regulated professions database contains a list of regulated professions for doctor of medicine in the EU member states, EEA countries and Switzerland. This list is covered by the Directive 2005/36/EC.
 
@@ -267,7 +265,7 @@ Doctors who are negligent or intentionally harmful in their care of patients can
 
 Medical ethics
 
-HippocraticOath.jpg manuscript of the Hippocratic Oath]] Medical ethics is a system of moral principles that apply values and judgments to the practice of medicine. As a scholarly discipline, medical ethics encompasses its practical application in clinical settings as well as work on its history, philosophy, theology, and sociology. Six of the values that commonly apply to medical ethics discussions are:
+manuscript of the Hippocratic Oath]] Medical ethics is a system of moral principles that apply values and judgments to the practice of medicine. As a scholarly discipline, medical ethics encompasses its practical application in clinical settings as well as work on its history, philosophy, theology, and sociology. Six of the values that commonly apply to medical ethics discussions are:
 
 -   autonomy – the patient has the right to refuse or choose their treatment. (_Voluntas aegroti suprema lex_.)
 -   beneficence – a practitioner should act in the best interest of the patient. (_Salus aegroti suprema lex_.)
@@ -281,7 +279,7 @@ Values such as these do not give answers as to how to handle a particular situat
 
 History
 
-Imhotep-Louvre.JPG, the first physician from antiquity known by name.]]
+, the first physician from antiquity known by name.]]
 
 Ancient world
 
@@ -301,7 +299,7 @@ Most of our knowledge of ancient Hebrew medicine during the 1st millennium BC 
 
 Middle Ages
 
-Al-Risalah_al-Dhahabiah.JPG'' by Ali al-Ridha, the eighth Imam of Shia Muslims. The text says: "Golden dissertation in medicine which is sent by Imam Ali ibn Musa al-Ridha, peace be upon him, to al-Ma'mun."]]
+'' by Ali al-Ridha, the eighth Imam of Shia Muslims. The text says: "Golden dissertation in medicine which is sent by Imam Ali ibn Musa al-Ridha, peace be upon him, to al-Ma'mun."]]
 
 The concept of hospital as institution to offer medical care and possibility of a cure for the patients due to the ideals of Christian charity, rather than just merely a place to die, appeared in the Byzantine Empire.[39]
 
@@ -311,7 +309,7 @@ After 750 CE, the Muslim world had the works of Hippocrates, Galen and Sushruta 
 
 In Europe, Charlemagne decreed that a hospital should be attached to each cathedral and monastery and the historian Geoffrey Blainey likened the activities of the Catholic Church in health care during the Middle Ages to an early version of a welfare state: "It conducted hospitals for the old and orphanages for the young; hospices for the sick of all ages; places for the lepers; and hostels or inns where pilgrims could buy a cheap bed and meal". It supplied food to the population during famine and distributed food to the poor. This welfare system the church funded through collecting taxes on a large scale and possessing large farmlands and estates. The Benedictine order was noted for setting up hospitals and infirmaries in their monasteries, growing medical herbs and becoming the chief medical care givers of their districts, as at the great Abbey of Cluny. The Church also established a network of cathedral schools and universities where medicine was studied. The Schola Medica Salernitana in Salerno, looking to the learning of Greek and Arab physicians, grew to be the finest medical school in Medieval Europe.[58]
 
-SantaMariaDellaScalaSienaBack.JPG, one of Europe's oldest hospitals. During the Middle Ages, the Catholic Church established universities which revived the study of sciences – drawing on the learning of Greek and Arab physicians in the study of medicine.]]
+, one of Europe's oldest hospitals. During the Middle Ages, the Catholic Church established universities which revived the study of sciences – drawing on the learning of Greek and Arab physicians in the study of medicine.]]
 
 However, the fourteenth and fifteenth century Black Death devastated both the Middle East and Europe, and it has even been argued that Western Europe was generally more effective in recovering from the pandemic than the Middle East.[59] In the early modern period, important early figures in medicine and anatomy emerged in Europe, including Gabriele Falloppio and William Harvey.
 
@@ -321,7 +319,7 @@ Andreas Vesalius was the author of _De humani corporis fabrica_, an important bo
 
 Modern
 
-Paul-Louis_Simond_injecting_plague_vaccine_June_4th_1898_Karachi.jpg injecting a plague vaccine in Karachi, 1898]]
+injecting a plague vaccine in Karachi, 1898]]
 
 Veterinary medicine was, for the first time, truly separated from human medicine in 1761, when the French veterinarian Claude Bourgelat founded the world's first veterinary school in Lyon, France. Before this, medical doctors treated both humans and other animals.
 
@@ -333,7 +331,7 @@ From New Zealand and Australia came Maurice Wilkins, Howard Florey, and Frank Ma
 
 Others that did significant work include William Williams Keen, William Coley, James D. Watson (United States); Salvador Luria (Italy); Alexandre Yersin (Switzerland); Kitasato Shibasaburō (Japan); Jean-Martin Charcot, Claude Bernard, Paul Broca (France); Adolfo Lutz (Brazil); Nikolai Korotkov (Russia); Sir William Osler (Canada); and Harvey Cushing (United States).
 
-Alexander_Fleming.jpg's discovery of penicillin in September 1928 marks the start of modern antibiotics.]] As science and technology developed, medicine became more reliant upon medications. Throughout history and in Europe right until the late 18th century, not only animal and plant products were used as medicine, but also human body parts and fluids.[64] Pharmacology developed in part from herbalism and some drugs are still derived from plants (atropine, ephedrine, warfarin, aspirin, digoxin, _vinca_ alkaloids,[65] taxol, hyoscine, etc.).[66] Vaccines were discovered by Edward Jenner and Louis Pasteur.
+'s discovery of penicillin in September 1928 marks the start of modern antibiotics.]] As science and technology developed, medicine became more reliant upon medications. Throughout history and in Europe right until the late 18th century, not only animal and plant products were used as medicine, but also human body parts and fluids.[64] Pharmacology developed in part from herbalism and some drugs are still derived from plants (atropine, ephedrine, warfarin, aspirin, digoxin, _vinca_ alkaloids,[65] taxol, hyoscine, etc.).[66] Vaccines were discovered by Edward Jenner and Louis Pasteur.
 
 The first antibiotic was arsphenamine (Salvarsan) discovered by Paul Ehrlich in 1908 after he observed that bacteria took up toxic dyes that human cells did not. The first major class of antibiotics was the sulfa drugs, derived by German chemists originally from azo dyes.
 

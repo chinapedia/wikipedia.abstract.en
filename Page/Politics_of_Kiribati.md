@@ -3,7 +3,7 @@ POLITICS OF KIRIBATI takes place in a framework of a parliamentary representativ
 
 Executive branch
 
-KiribatiParliamentHouse.jpg After each general election, the new _Maneaba ni Maungatabu_ (House of Assembly) nominates three or four of its own members to stand as candidates for President (_Te Beretitenti_). The voting public then elects the Beretitenti from among these candidates. The Beretitenti appoints a _Kauoman-ni-Beretitenti_ (Vice-President) and up to ten other Cabinet Ministers from among the members of the Maneaba.
+After each general election, the new _Maneaba ni Maungatabu_ (House of Assembly) nominates three or four of its own members to stand as candidates for President (_Te Beretitenti_). The voting public then elects the Beretitenti from among these candidates. The Beretitenti appoints a _Kauoman-ni-Beretitenti_ (Vice-President) and up to ten other Cabinet Ministers from among the members of the Maneaba.
 
   Office           Name            Party                    Since
   ---------------- --------------- ------------------------ ---------------
@@ -56,7 +56,7 @@ The Attorney General of Kiribati[2] is also a member of Cabinet. According to a 
 
 Legislative branch
 
-Kiribati_House_of_Assembly.jpg The unicameral House of Assembly (_Maneaba ni Maungatabu_) has 46 members: 44 elected for a four-year term in single-seat and multi-seat constituencies; one appointed member from the Banaban community on Rabi Island in Fiji, and the Attorney-General in an _ex officio_ capacity. The elected members of the Maneaba ni Maungatabu serve four-year terms. The Speaker of the Maneaba ni Maungatabu is elected by the members of the Maneaba from outside of its membership. All citizens are eligible to vote at the age of 18.
+The unicameral House of Assembly (_Maneaba ni Maungatabu_) has 46 members: 44 elected for a four-year term in single-seat and multi-seat constituencies; one appointed member from the Banaban community on Rabi Island in Fiji, and the Attorney-General in an _ex officio_ capacity. The elected members of the Maneaba ni Maungatabu serve four-year terms. The Speaker of the Maneaba ni Maungatabu is elected by the members of the Maneaba from outside of its membership. All citizens are eligible to vote at the age of 18.
 
 
 Judicial branch

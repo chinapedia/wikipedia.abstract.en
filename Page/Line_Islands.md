@@ -1,4 +1,4 @@
-Map_of_Kiribati_CIA_WFB.png The LINE ISLANDS, TERAINA ISLANDS or EQUATORIAL ISLANDS, is a chain of atolls (with partially or fully enclosed lagoons) and coral islands (with a surrounding reef). Kingman Reef is largely submerged and Filippo Reef is shown on some maps, although its existence is doubted. The islands were formed by volcanic activity and are located in the central Pacific Ocean, south of the Hawaiian Islands. The 11 islands stretch for in a northwest–southeast direction, making it one of the longest island chains of the world. Eight of the islands form part of Kiribati, while the remaining three (Kingman Reef, Palmyra Island and Jarvis Island) are United States territories grouped with the United States Minor Outlying Islands. Only Kiritimati and Tabuaeran atolls and Teraina Island have a permanent population.
+The LINE ISLANDS, TERAINA ISLANDS or EQUATORIAL ISLANDS, is a chain of atolls (with partially or fully enclosed lagoons) and coral islands (with a surrounding reef). Kingman Reef is largely submerged and Filippo Reef is shown on some maps, although its existence is doubted. The islands were formed by volcanic activity and are located in the central Pacific Ocean, south of the Hawaiian Islands. The 11 islands stretch for in a northwest–southeast direction, making it one of the longest island chains of the world. Eight of the islands form part of Kiribati, while the remaining three (Kingman Reef, Palmyra Island and Jarvis Island) are United States territories grouped with the United States Minor Outlying Islands. Only Kiritimati and Tabuaeran atolls and Teraina Island have a permanent population.
 
 The International Date Line passes through the Line Islands. The Line Islands that are part of Kiribati are in the world's farthest forward time zone, UTC+14:00. The time of day is the same as in the U.S. state of Hawaii, but the date is one day ahead. The time is 1 day and 2 hours ahead of some other islands in Oceania like Baker Island, which uses UTC−12:00.
 
@@ -60,8 +60,6 @@ Copra and "Petfish" are the main export products (with seaweed).
 
 
 Time zone realignment
-
-DateLine-with-Caroline-Island.PNG
 
 On December 23, 1994, the Republic of Kiribati announced a change of time zone for the Line Islands, to take effect December 31, 1994. This adjustment effectively moved the International Date Line over to the east within Kiribati, placing all of Kiribati on the Asian or western side of the date line, despite the fact that Caroline's longitude of 150 degrees west corresponds to UTC−10 rather than its official time zone of UTC+14. Caroline Island now is at the same time as the Hawaiian Islands (Hawaii-Aleutian Standard Time Zone), but one day ahead.[21] This move made Caroline Island both the easternmost land in the earliest time zone (by some definitions, the easternmost point on Earth), and one of the first points of land which would see sunrise on January 1, 2000 — at 5:43 a.m., as measured by local time.
 

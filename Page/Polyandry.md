@@ -68,8 +68,6 @@ Asia
 
 Europe
 
-Sepulchral_inscription_of_Allia_Potestas_(1st–4th_century_CE)_-_200505.jpg
-
 -   Reporting on the mating patterns in ancient Greece, specifically Sparta, Plutarch writes: "Thus if an older man with a young wife should take a liking to one of the well-bred young men and approve of him, he might well introduce him to her so as to fill her with noble sperm and then adopt the child as his own. Conversely a respectable man who admired someone else’s wife noted for her lovely children and her good sense, might gain the husband’s permission to sleep with her thereby planting in fruitful soil, so to speak, and producing fine children who would be linked to fine ancestors by blood and family."[50]
 -   "According to Julius Caesar, it was customary among the ancient Britons for brothers, and sometimes for fathers and sons, to have their wives in common."[51]
 -   "Polyandry prevailed among the Lacedaemonians according to Polybius."[52] (Polybius vii.7.732, following Timæus)[53]
@@ -101,7 +99,7 @@ Religious attitudes
 
 Hinduism
 
-2716_PandavaDraupadifk.jpg.jpg with her five husbands - the Pandavas. The central figure is Yudhishthira; the two to his left are Bhima and Arjuna . Nakula and Sahadeva, the twins, are to his right. Their wife, at far right, is Draupadi. Deogarh, Dashavatara Hindu Temple.]] There is at least one reference to polyandry in the ancient Hindu epic _Mahabharata_. Draupadi married the five Pandava brothers, as this is what she chose in a previous life. This ancient text remains largely neutral to the concept of polyandry, accepting this as her way of life.[63] However, in the same epic, when questioned by Kunti to give an example of polyandry, Yudhishthira cites Gautam-clan Jatila (married to seven Saptarishis) and Hiranyaksha's sister Pracheti (married to ten brothers), thereby implying a more open attitude toward polyandry in Vedic society.[64]
+with her five husbands - the Pandavas. The central figure is Yudhishthira; the two to his left are Bhima and Arjuna . Nakula and Sahadeva, the twins, are to his right. Their wife, at far right, is Draupadi. Deogarh, Dashavatara Hindu Temple.]] There is at least one reference to polyandry in the ancient Hindu epic _Mahabharata_. Draupadi married the five Pandava brothers, as this is what she chose in a previous life. This ancient text remains largely neutral to the concept of polyandry, accepting this as her way of life.[63] However, in the same epic, when questioned by Kunti to give an example of polyandry, Yudhishthira cites Gautam-clan Jatila (married to seven Saptarishis) and Hiranyaksha's sister Pracheti (married to ten brothers), thereby implying a more open attitude toward polyandry in Vedic society.[64]
 
 Judaism
 

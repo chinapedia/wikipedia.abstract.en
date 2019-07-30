@@ -3,8 +3,6 @@ JOHN SIGISMUND (; 8 November 1572 – 23 December 1619) was a Prince-elector of 
 
 Elector of Brandenburg and Duke of Prussia
 
-Johann_Sigismund_Grunewald.jpg
-
 John Sigismund was born in Halle an der Saale to Joachim III Frederick, Elector of Brandenburg, and his first wife Catherine of Brandenburg-Küstrin. He succeeded his father as Margrave of Brandenburg in 1608. In 1611, John Sigismund traveled from Königsberg to Warsaw, where on 16 November 1611 he gave feudal homage to Sigismund III Vasa, King of Poland (the Duchy of Prussia was a Polish fief at the time). He officially became Duke of Prussia in 1618, although he had served as regent on behalf of the mentally-disturbed Albert Frederick, Duke of Prussia, for several years prior. John Sigismund died in the following year.
 
 John Sigismund gave the Reichshof Castrop to his teacher and educator Carl Friedrich von Bordelius, whereas he received the territories of Cleves, Mark, and Ravensberg in the Treaty of Xanten in 1614.

@@ -187,7 +187,7 @@ Contemporary work from a neorepublican include jurist K. Sabeel Rahman's book _D
 
 Democracy
 
-Thomas_Paine.jpg]] Upprop_för_republik_1848.jpg, reading: "Dethrone Oscar he is not fit to be a king – rather the Republic! Reform! Down with the Royal house – long live Aftonbladet! Death to the king – Republic! Republic! – the people! Brunkeberg this evening." The writer's identity is unknown.]]
+]] , reading: "Dethrone Oscar he is not fit to be a king – rather the Republic! Reform! Down with the Royal house – long live Aftonbladet! Death to the king – Republic! Republic! – the people! Brunkeberg this evening." The writer's identity is unknown.]]
 
 In the late 18th century there was convergence of democracy and republicanism. Republicanism is a system that replaces or accompanies inherited rule. There is an emphasis on liberty, and a rejection of corruption.[55] It strongly influenced the American Revolution and the French Revolution in the 1770s and 1790s, respectively.[56] Republicans, in these two examples, tended to reject inherited elites and aristocracies, but left open two questions: whether a republic, to restrain unchecked majority rule, should have an unelected upper chamber—perhaps with members appointed as meritorious experts—and whether it should have a constitutional monarch.[57]
 

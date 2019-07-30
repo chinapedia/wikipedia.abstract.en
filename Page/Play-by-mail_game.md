@@ -11,7 +11,7 @@ In the late 1990s, computer and Internet games marginalized play-by-mail conduct
 
 Postal gaming
 
-Postcard-for-correspondence-chess_(trimmed_image).png POSTAL GAMING developed as a way for geographically separated gamers to compete with each other. It was especially useful for those living in isolated areas and those whose tastes in games were uncommon.
+POSTAL GAMING developed as a way for geographically separated gamers to compete with each other. It was especially useful for those living in isolated areas and those whose tastes in games were uncommon.
 
 In the case of a two player game such as chess, players would simply send their moves to each other alternately. In the case of a multi-player game such as _Diplomacy_, a central game master would run the game, receiving the moves and publishing adjudications. Such adjudications were often published in postal game zines, some of which contained far more than just games.
 

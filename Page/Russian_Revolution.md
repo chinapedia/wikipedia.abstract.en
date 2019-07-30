@@ -11,7 +11,7 @@ Soon after, civil war erupted among the "Reds" (Bolsheviks), the "Whites" (count
 
 Background
 
-U_Narvskikh_vorot.jpg on Bloody Sunday]]
+on Bloody Sunday]]
 
 The Russian Revolution of 1905 was said to be a major factor contributing to the cause of the Revolutions of 1917. The events of Bloody Sunday triggered nationwide protests and soldier mutinies. A council of workers called the St. Petersburg Soviet was created in this chaos.[2] While the 1905 Revolution was ultimately crushed, and the leaders of the St. Petersburg Soviet were arrested, this laid the groundwork for the later Petrograd Soviet and other revolutionary movements during the lead up to 1917. The 1905 Revolution also led to the creation of a Duma (parliament), that would later form the Provisional Government following February 1917.[3]
 
@@ -30,8 +30,6 @@ Meanwhile, Socialist Revolutionary leaders in exile, many of them living in Swit
 It was these views of Martov that predominated in a manifesto drawn up by Leon Trotsky (at the time a Menshevik) at a conference in Zimmerwald, attended by 35 Socialist leaders in September 1915. Inevitably Vladimir Lenin, supported by Zinoviev and Radek, strongly contested them. Their attitudes became known as the Zimmerwald Left. Lenin rejected both the defence of Russia and the cry for peace. Since the autumn of 1914, he had insisted that "from the standpoint of the working class and of the labouring masses the lesser evil would be the defeat of the Tsarist Monarchy"; the war must be turned into a civil war of the proletarian soldiers against their own governments, and if a proletarian victory should emerge from this in Russia, then their duty would be to wage a revolutionary war for the liberation of the masses throughout Europe.[9]
 
 Economic and social changes
-
-Soldiers_demonstration.February_1917.jpg
 
 An elementary theory of property, believed by many peasants, was that land should belong to those who work on it. At the same time, peasant life and culture was changing constantly. Change was facilitated by the physical movement of growing numbers of peasant villagers who migrated to and from industrial and urban environments, but also by the introduction of city culture into the village through material goods, the press, and word of mouth.[10]
 
@@ -52,7 +50,7 @@ World War I added to the chaos. Conscription across Russia resulted in unwilling
 
 Political issues
 
-1917petrogradsoviet_assembly.jpg meeting in 1917]]
+meeting in 1917]]
 
 Many sections of the country had reason to be dissatisfied with the existing autocracy. Nicholas II was a deeply conservative ruler and maintained a strict authoritarian system. Individuals and society in general were expected to show self-restraint, devotion to community, deference to the social hierarchy and a sense of duty to the country. Religious faith helped bind all of these tenets together as a source of comfort and reassurance in the face of difficult conditions and as a means of political authority exercised through the clergy. Perhaps more than any other modern monarch, Nicholas II attached his fate and the future of his dynasty to the notion of the ruler as a saintly and infallible father to his people.[14]
 
@@ -74,8 +72,6 @@ In 1915, things took a critical turn for the worse when Germany shifted its focu
 
 These staggering losses played a definite role in the mutinies and revolts that began to occur. In 1916, reports of fraternizing with the enemy began to circulate. Soldiers went hungry, lacked shoes, munitions, and even weapons. Rampant discontent lowered morale, which was further undermined by a series of military defeats.
 
-Russian_Troops_NGM-v31-p379.jpg
-
 Casualty rates were the most vivid sign of this disaster. By the end of 1914, only five months into the war, around 390,000 Russian men had lost their lives and nearly 1,000,000 were injured. Far sooner than expected, inadequately trained recruits were called for active duty, a process repeated throughout the war as staggering losses continued to mount. The officer class also saw remarkable changes, especially within the lower echelons, which were quickly filled with soldiers rising up through the ranks. These men, usually of peasant or working-class backgrounds, were to play a large role in the politicization of the troops in 1917.
 
 The army quickly ran short of rifles and ammunition (as well as uniforms and food), and by mid-1915, men were being sent to the front bearing no arms. It was hoped that they could equip themselves with arms recovered from fallen soldiers, of both sides, on the battlefields. The soldiers did not feel as if they were valuable, rather they felt as if they were expendable.
@@ -92,8 +88,6 @@ Tsar Nicholas was blamed for all of these crises, and what little support he had
 
 
 February Revolution
-
-Feb_1917.jpg RJB23_–_Friede_1917_1.jpg RJB23_–_Friede_1917_2.jpg
 
 At the beginning of February, Petrograd workers began several strikes and demonstrations. On , workers at Putilov, Petrograd's largest industrial plant, announced a strike.[21]
 
@@ -114,8 +108,6 @@ The leaders of the Petrograd Soviet believed that they represented particular cl
 
 The relationship between these two major powers was complex from the beginning and would shape the politics of 1917. The representatives of the Provisional Government agreed to "take into account the opinions of the Soviet of Workers' Deputies", though they were also determined to prevent "interference in the actions of the government", which would create "an unacceptable situation of dual power".[33] In fact, this was precisely what was being created, though this "dual power" (dvoevlastie) was the result less of the actions or attitudes of the leaders of these two institutions than of actions outside their control, especially the ongoing social movement taking place on the streets of Russia's cities, factories, shops, barracks, villages, and in the trenches.
 
-BatallónDeLaMuerteDesfilandoAnteElPalacioDeInvierno--historywartimes14londuoft.jpg
-
 A series of political crises – see the chronology below – in the relationship between population and government and between the Provisional Government and the Soviets (which developed into a nationwide movement with a national leadership). The All-Russian Central Executive Committee of Soviets (VTsIK) undermined the authority of the Provisional Government but also of the moderate socialist leaders of the Soviets. Although the Soviet leadership initially refused to participate in the "bourgeois" Provisional Government, Alexander Kerensky, a young, popular lawyer and a member of the Socialist Revolutionary Party (SRP), agreed to join the new cabinet, and became an increasingly central figure in the government, eventually taking leadership of the Provisional Government. As minister of war and later Prime Minister, Kerensky promoted freedom of speech, released thousands of political prisoners, continued the war effort, even organizing another offensive (which, however, was no more successful than its predecessors). Nevertheless, Kerensky still faced several great challenges, highlighted by the soldiers, urban workers, and peasants, who claimed that they had gained nothing by the revolution:
 
 -   Other political groups were trying to undermine him.
@@ -128,7 +120,7 @@ The political group that proved most troublesome for Kerensky, and would eventua
 
 On the way to Russia, Lenin prepared the April Theses, which outlined central Bolshevik policies. These included that the Soviets take power (as seen in the slogan "all power to the Soviets") and denouncing the liberals and social revolutionaries in the Provisional Government, forbidding co-operation with it. Many Bolsheviks, however, had supported the Provisional Government, including Lev Kamenev.[34]
 
-19170704_Riot_on_Nevsky_prosp_Petrograd.jpg in Petrograd just after troops of the Provisional Government opened fire in the July Days]] Revolución-marzo-rusia--russianbolshevik00rossuoft.png
+in Petrograd just after troops of the Provisional Government opened fire in the July Days]]
 
 With Lenin's arrival, the popularity of the Bolsheviks increased steadily. Over the course of the spring, public dissatisfaction with the Provisional Government and the war, in particular among workers, soldiers and peasants, pushed these groups to radical parties. Despite growing support for the Bolsheviks, buoyed by maxims that called most famously for "all power to the Soviets", the party held very little real power in the moderate-dominated Petrograd Soviet. In fact, historians such as Sheila Fitzpatrick have asserted that Lenin's exhortations for the Soviet Council to take power were intended to arouse indignation both with the Provisional Government, whose policies were viewed as conservative, and the Soviets themselves, which were viewed as subservients to the conservative government. By some other historians' accounts, Lenin and his followers were unprepared for how their groundswell of support, especially among influential worker and soldier groups, would translate into real power in the summer of 1917.
 
@@ -157,14 +149,12 @@ Lenin did not believe as Karl Marx that a socialist revolution presupposed a dev
 
 Though Lenin was the leader of the Bolshevik Party, it has been argued that since Lenin was not present during the actual takeover of the Winter Palace, it was really Trotsky's organization and direction that led the revolution, merely spurred by the motivation Lenin instigated within his party.[42] Critics on the Right have long argued that the financial and logistical assistance of German intelligence via their key agent, Alexander Parvus was a key component as well, though historians are divided, since there is little evidence supporting that claim.
 
-Protección_del_Palacio_Tauride_durante_el_Segundo_Congreso_Regional_de_los_Soviets.jpg on 6 January 1918. The Tauride Palace is locked and guarded by Trotsky, Sverdlov, Zinoviev and Lashevich.]]
+on 6 January 1918. The Tauride Palace is locked and guarded by Trotsky, Sverdlov, Zinoviev and Lashevich.]]
 
 Soviet membership was initially freely elected, but many members of the Socialist Revolutionary Party, anarchists, and other leftists created opposition to the Bolsheviks through the Soviets themselves. The elections to the Russian Constituent Assembly took place 25 November 1917. The Bolsheviks gained 25% of the vote.[43] When it became clear that the Bolsheviks had little support outside of the industrialized areas of Saint Petersburg and Moscow, they simply barred non-Bolsheviks from membership in the Soviets. The Bolsheviks dissolved the Constituent Assembly in January 1918.[44] Not surprisingly, this caused mass domestic tension with many individuals who called for another series of political reform, revolting, and calling for "a third Russian revolution," a movement that received a significant amount of support. The most notable instances of this anti-Bolshevik mentality were expressed in the Tambov rebellion, 1919–1921, and the Kronstadt rebellion in March 1921. These movements, which made a wide range of demands and lacked effective coordination, were eventually defeated along with the White Army during the Civil War.
 
 
 Russian Civil War
-
-IntervenciónInternacionalEnVladivostok--throughrussianre00willuoft.jpg
 
 The Russian Civil War, which broke out in 1918 shortly after the October Revolution, resulted in the deaths and suffering of millions of people regardless of their political orientation. The war was fought mainly between the Red Army ("Reds"), consisting of the uprising majority led by the Bolshevik minority, and the "Whites" – army officers and cossacks, the "bourgeoisie", and political groups ranging from the far Right, to the Socialist Revolutionaries who opposed the drastic restructuring championed by the Bolsheviks following the collapse of the Provisional Government, to the Soviets (under clear Bolshevik dominance).[45][46] The Whites had backing from other countries such as Great Britain, France, the United States, and Japan, while the Reds possessed internal support, proving to be much more effective. Though the Allied nations, using external interference, provided substantial military aid to the loosely knit anti-Bolshevik forces, they were ultimately defeated.[47]
 
@@ -181,14 +171,14 @@ Revolutionary tribunals were present during both the Revolution and the Civil Wa
 
 Execution of the imperial family
 
-Le_Petit_Journal,_1926_cover.png'']] The Bolsheviks executed the tsar and his family on 16 July 1918.[55] In early March, the Provisional Government placed Nicholas and his family under house arrest in the Alexander Palace at Tsarskoye Selo, south of Petrograd. In August 1917 the Kerensky government evacuated the Romanovs to Tobolsk in the Urals, to protect them from the rising tide of revolution. However, Kerensky lost control after the Bolsheviks came to power in October 1917, and the conditions of their imprisonment grew stricter and talk of putting Nicholas on trial increased. As the counter revolutionary White movement gathered force, leading to full-scale civil war by the summer, the Romanovs were moved during April and May 1918 to Yekaterinburg, a militant Bolshevik stronghold.
+'']] The Bolsheviks executed the tsar and his family on 16 July 1918.[55] In early March, the Provisional Government placed Nicholas and his family under house arrest in the Alexander Palace at Tsarskoye Selo, south of Petrograd. In August 1917 the Kerensky government evacuated the Romanovs to Tobolsk in the Urals, to protect them from the rising tide of revolution. However, Kerensky lost control after the Bolsheviks came to power in October 1917, and the conditions of their imprisonment grew stricter and talk of putting Nicholas on trial increased. As the counter revolutionary White movement gathered force, leading to full-scale civil war by the summer, the Romanovs were moved during April and May 1918 to Yekaterinburg, a militant Bolshevik stronghold.
 
 During the early morning of 16 July, Nicholas, Alexandra, their children, their physician, and several servants were taken into the basement and shot. According to Edvard Radzinsky and Dmitrii Volkogonov, the order came directly from Lenin and Sverdlov in Moscow. That the order came from the top has long been believed, although there is a lack of hard evidence. The execution may have been carried out on the initiative of local Bolshevik officials, or it may have been an option pre-approved in Moscow should White troops approach Yekaterinburg. Radzinsky noted that Lenin's bodyguard personally delivered the telegram ordering the execution and that he was ordered to destroy the evidence.[56][57]
 
 
 Symbolism
 
-Vladimir_Lenin_1_May_1920_by_Isaak_Brodsky.jpg _Vladimir Lenin_, by Isaac Brodsky.]]
+_Vladimir Lenin_, by Isaac Brodsky.]]
 
 The Russian Revolution became the site for many instances of symbolism, both physical and non-physical. Communist symbolism is perhaps the most notable of this time period, such as the debut of the iconic hammer and sickle as a representation of the October Revolution in 1917, eventually becoming the official symbol of the USSR in 1924. Although the Bolsheviks did not have extensive political experience, their portrayal of the revolution itself as both a political and symbolic order resulted in Communism's portrayal as a messianic faith, formally known as communist messianism.[58] Portrayals of notable revolutionary figures such as Lenin were done in iconographic methods, equating them similarly to religious figures, though religion itself was banned in the USSR and groups such as the Russian Orthodox Church were persecuted.[59]
 

@@ -246,7 +246,7 @@ Religious affiliation
 
 _CIA World Factbook_ demographic statistics
 
-Myanmar_demography.png, year 2009 ; Number of inhabitants in thousands.]]
+, year 2009 ; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 

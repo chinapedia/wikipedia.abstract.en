@@ -1,4 +1,4 @@
-Lasers.jpeg Many scientific, military, medical and commercial LASER APPLICATIONS have been developed since the invention of the laser in 1958. The coherency, high monochromaticity, and ability to reach extremely high powers are all properties which allow for these specialized applications.
+Many scientific, military, medical and commercial LASER APPLICATIONS have been developed since the invention of the laser in 1958. The coherency, high monochromaticity, and ability to reach extremely high powers are all properties which allow for these specialized applications.
 
 
 Scientific
@@ -112,13 +112,13 @@ Laser guidance is a technique of guiding a missile or other projectile or vehicl
 
 Target designator
 
-DHY_307_laser_target_designator_P1220816.jpg Another military use of lasers is as a _laser target designator_. This is a low-power laser pointer used to indicate a target for a precision-guided munition, typically launched from an aircraft. The guided munition adjusts its flight-path to home in to the laser light reflected by the target, enabling a great precision in aiming. The beam of the laser target designator is set to a pulse rate that matches that set on the guided munition to ensure munitions strike their designated targets and do not follow other laser beams which may be in use in the area. The laser designator can be shone onto the target by an aircraft or nearby infantry. Lasers used for this purpose are usually infrared lasers, so the enemy cannot easily detect the guiding laser light.
+Another military use of lasers is as a _laser target designator_. This is a low-power laser pointer used to indicate a target for a precision-guided munition, typically launched from an aircraft. The guided munition adjusts its flight-path to home in to the laser light reflected by the target, enabling a great precision in aiming. The beam of the laser target designator is set to a pulse rate that matches that set on the guided munition to ensure munitions strike their designated targets and do not follow other laser beams which may be in use in the area. The laser designator can be shone onto the target by an aircraft or nearby infantry. Lasers used for this purpose are usually infrared lasers, so the enemy cannot easily detect the guiding laser light.
 
 Firearms
 
 Laser sight
 
-Flickr_-_Israel_Defense_Forces_-_Nachal_Brigade_Reconnaissance_Battalion_in_"Commando"_Training_(2).jpg during commando training]] S&W_.357_Magnum_With_Laser_Sight.jpg revolver equipped with a laser sight mounted on the trigger guard.]] The laser has in most firearms applications been used as a tool to enhance the targeting of other weapon systems. For example, a _laser sight_ is a small, usually visible-light laser placed on a handgun or a rifle and aligned to emit a beam parallel to the barrel. Since a laser beam has low divergence, the laser light appears as a small spot even at long distances; the user places the spot on the desired target and the barrel of the gun is aligned (but not necessarily allowing for bullet drop, windage, distance between the direction of the beam and the axis of the barrel, and the target mobility while the bullet travels).
+during commando training]] revolver equipped with a laser sight mounted on the trigger guard.]] The laser has in most firearms applications been used as a tool to enhance the targeting of other weapon systems. For example, a _laser sight_ is a small, usually visible-light laser placed on a handgun or a rifle and aligned to emit a beam parallel to the barrel. Since a laser beam has low divergence, the laser light appears as a small spot even at long distances; the user places the spot on the desired target and the barrel of the gun is aligned (but not necessarily allowing for bullet drop, windage, distance between the direction of the beam and the axis of the barrel, and the target mobility while the bullet travels).
 
 Most laser sights use a red laser diode. Others use an infrared diode to produce a dot invisible to the naked human eye but detectable with night vision devices. The firearms adaptive target acquisition module LLM01 laser light module combines visible and infrared laser diodes. In the late 1990s, green diode pumped solid state laser (DPSS) laser sights (532 nm) became available. Modern laser sights are small and light enough for attachment to the firearms.
 
@@ -153,7 +153,7 @@ Medical
 
 Industrial and commercial
 
-Classical_spectacular_laser_effects.jpg.)]] LaserFlooring1.jpg
+.)]]
 
 Industrial laser applications can be divided into two categories depending on the power of the laser: material processing and micro-material processing.
 

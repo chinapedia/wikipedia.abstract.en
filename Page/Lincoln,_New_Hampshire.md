@@ -5,7 +5,7 @@ The primary settlement in town, where 993 people resided at the 2010 census,[2] 
 
 History
 
-General_View_of_Lincoln,_NH.jpg In 1764, Colonial Governor Benning Wentworth granted to a group of approximately 70 land investors from Connecticut. Lincoln was named after Henry Fiennes Pelham-Clinton, 2nd Duke of Newcastle, 9th Earl of Lincoln – a cousin of the Wentworth governors. He held the position of comptroller of customs for the port of London under George II and George III, which was important to trade between America and England.[3]
+In 1764, Colonial Governor Benning Wentworth granted to a group of approximately 70 land investors from Connecticut. Lincoln was named after Henry Fiennes Pelham-Clinton, 2nd Duke of Newcastle, 9th Earl of Lincoln – a cousin of the Wentworth governors. He held the position of comptroller of customs for the port of London under George II and George III, which was important to trade between America and England.[3]
 
 The town was settled about 1782. The 1790 census indicates that it had 22 inhabitants. Rocky soil yielded poor farming, but the area's abundant timber, combined with water power to run sawmills on the Pemigewasset River and its East Branch, helped Lincoln develop into a center for logging. By 1853, the Merrimack River Lumber Company was operating. The railroad transported freight, and increasingly brought tourists to the beautiful mountain region. In 1892, James E. Henry bought approximately of virgin timber and established a logging enterprise at what is today the center of Lincoln. In 1902, he built a pulp and paper mill. He erected the Lincoln House hotel in 1903, although a 1907 fire would nearly raze the community. Until he died in 1912, Henry controlled his company town, installing relatives in positions of civic authority.[4]
 
@@ -23,7 +23,7 @@ Lincoln is drained by the Pemigewasset River and its East Branch. Lincoln lies a
 
 Demographics
 
-Franconianotchtrail.JPG]] The_Flume,_Franconia_Notch,_NH.jpg c. 1915]] As of the census of 2010, there were 1,662 people, 794 households, and 439 families residing in the town. There were 2,988 housing units, of which 2,194, or 73.4%, were vacant. 2,083 of the vacant units were for seasonal or recreational use. The racial makeup of the town was 96.9% white, 0.3% African American, 0.1% Native American, 1.7% Asian, 0.0% Native Hawaiian or Pacific Islander, 0.3% some other race, and 0.6% from two or more races. 1.7% of the population were Hispanic or Latino of any race.[8]
+]] c. 1915]] As of the census of 2010, there were 1,662 people, 794 households, and 439 families residing in the town. There were 2,988 housing units, of which 2,194, or 73.4%, were vacant. 2,083 of the vacant units were for seasonal or recreational use. The racial makeup of the town was 96.9% white, 0.3% African American, 0.1% Native American, 1.7% Asian, 0.0% Native Hawaiian or Pacific Islander, 0.3% some other race, and 0.6% from two or more races. 1.7% of the population were Hispanic or Latino of any race.[8]
 
 Of the 794 households, 21.5% had children under the age of 18 living with them, 43.1% were headed by married couples living together, 7.8% had a female householder with no husband present, and 44.7% were non-families. 37.0% of all households were made up of individuals, and 13.4% were someone living alone who was 65 years of age or older. The average household size was 2.09, and the average family size was 2.75.[9]
 

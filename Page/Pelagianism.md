@@ -3,7 +3,7 @@ PELAGIANISM, also called PELAGIAN HERESY, is the Christian theological position 
 
 History
 
-Nuremberg_chronicles_f_135r_2.jpg depicted in the _Nuremberg Chronicle_, 1493]]
+depicted in the _Nuremberg Chronicle_, 1493]]
 
 According to Augustinian theologians, Pelagius rejected the Biblical concept of grace.[1] According to his opponents, Pelagius taught moral perfection was attainable in this life without the assistance of divine grace through human free will. Augustine contradicted this by saying perfection was impossible without grace because we are born sinners with a sinful heart and will. The Pelagians charged Augustine with departing from the accepted teaching (e.g.: John 8:11) of the Apostles and the Bible, demonstrating the doctrine of original sin amounted to Manichaeism, which taught that the flesh was in itself sinful (and thus denied Jesus came in the flesh). This charge would have carried added weight since contemporaries knew Augustine had himself been a Manichaean layman before converting to Christianity. Augustine also taught a person's salvation comes solely through a free gift, the efficacious grace of God, but this was a gift one had no free choice to accept or refuse.[2]
 

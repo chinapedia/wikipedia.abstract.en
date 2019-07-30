@@ -11,7 +11,7 @@ While the current version of the TEU entered into force in 2009, following the T
 
 Signing
 
-Stone_memorial_in_front_of_the_entry_to_the_Limburg_Province_government_building_in_Maastricht,_Netherlands,_commemorating_the_signing_of_the_Maastricht_Treaty_in_February_1992.jpg The signing of the Treaty of Maastricht took place in Maastricht, Netherlands, on 7 February 1992. The Dutch government, by virtue of holding Presidency of the Council of the European Union during the negotiations in the second half of 1991, arranged a ceremony inside the government buildings of the Limburg province on the river Maas (Meuse). Representatives from the twelve member states of the European Communities were present, and signed the treaty as plenipotentiaries, marking the conclusion of the period of negotiations.
+The signing of the Treaty of Maastricht took place in Maastricht, Netherlands, on 7 February 1992. The Dutch government, by virtue of holding Presidency of the Council of the European Union during the negotiations in the second half of 1991, arranged a ceremony inside the government buildings of the Limburg province on the river Maas (Meuse). Representatives from the twelve member states of the European Communities were present, and signed the treaty as plenipotentiaries, marking the conclusion of the period of negotiations.
 
 Ratification
 

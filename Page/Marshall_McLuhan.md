@@ -214,8 +214,6 @@ The laws of the tetrad exist simultaneously, not successively or chronologically
 
 Visually, a tetrad can be depicted as four diamonds forming an X, with the name of a medium in the centre. The two diamonds on the left of a tetrad are the _Enhancement_ and _Retrieval_ qualities of the medium, both _Figure_ qualities. The two diamonds on the right of a tetrad are the _Obsolescence_ and _Reversal_ qualities, both _Ground_ qualities.[96]
 
-MediaTetrad.svg
-
 Using the example of radio:
 
 -   Enhancement (figure): What the medium amplifies or intensifies. _Radio amplifies news and music via sound._
@@ -234,7 +232,7 @@ All technologies have embedded within them their own assumptions about time and 
 
 Legacy
 
-Marshall_McLuhan_Way_Toronto.jpg After the publication of _Understanding Media_, McLuhan received an astonishing amount of publicity, making him perhaps the most publicized English teacher in the twentieth century and arguably the most controversial. This publicity began with the work of two California advertising executives, Howard Gossage and Gerald Feigen who used personal funds to fund their practice of "genius scouting."[99][100] Much enamoured with McLuhan's work, Feigen and Gossage arranged for McLuhan to meet with editors of several major New York magazines in May 1965 at the Lombardy Hotel in New York. Philip Marchand reports that, as a direct consequence of these meetings, McLuhan was offered the use of an office in the headquarters of both _Time_ and _Newsweek_, any time he needed it.[101]
+After the publication of _Understanding Media_, McLuhan received an astonishing amount of publicity, making him perhaps the most publicized English teacher in the twentieth century and arguably the most controversial. This publicity began with the work of two California advertising executives, Howard Gossage and Gerald Feigen who used personal funds to fund their practice of "genius scouting."[99][100] Much enamoured with McLuhan's work, Feigen and Gossage arranged for McLuhan to meet with editors of several major New York magazines in May 1965 at the Lombardy Hotel in New York. Philip Marchand reports that, as a direct consequence of these meetings, McLuhan was offered the use of an office in the headquarters of both _Time_ and _Newsweek_, any time he needed it.[101]
 
 In August 1965, Feigen and Gossage held what they called a "McLuhan festival" in the offices of Gossage's advertising agency in San Francisco. During this "festival", McLuhan met with advertising executives, members of the mayor's office, and editors from the _San Francisco Chronicle_ and _Ramparts_ magazine. More significant was the presence at the festival of Tom Wolfe, who wrote about McLuhan in a subsequent article, "What If He Is Right?", published in _New York Magazine_ and Wolfe's own _The Pump House Gang_. According to Feigen and Gossage, their work had only a moderate effect on McLuhan's eventual celebrity: they claimed that their work only "probably speeded up the recognition of [McLuhan's] genius by about six months."[102] In any case, McLuhan soon became a fixture of media discourse. _Newsweek_ magazine did a cover story on him; articles appeared in _Life Magazine_, _Harper's_, _Fortune_, _Esquire_, and others. Cartoons about him appeared in _The New Yorker_.[103] In 1969, _Playboy_ magazine published a lengthy interview with him.[104] In a running gag on the popular sketch comedy _Rowan & Martin's Laugh-In_, the "poet" Henry Gibson would randomly say, "Marshall McLuhan, what are you doin'?"[105]
 

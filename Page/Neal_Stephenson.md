@@ -16,7 +16,7 @@ Stephenson studied at Boston University,[4] first specializing in physics, then 
 
 Career
 
-Neal_Stephenson_Anathem_Discussion_at_MIT_crop.jpg'' at MIT in 2008]] Stephenson's first novel, _The Big U_, published in 1984, was a satirical take on life at American Megaversity, a vast, bland, and alienating research university beset by chaotic riots.[8][9] His next novel, _Zodiac_ (1988), was a thriller following the exploits of a radical environmentalist protagonist in his struggle against corporate polluters.[10] Neither novel attracted much critical attention on first publication, but showcased concerns that Stephenson would further develop in his later work.[11]
+'' at MIT in 2008]] Stephenson's first novel, _The Big U_, published in 1984, was a satirical take on life at American Megaversity, a vast, bland, and alienating research university beset by chaotic riots.[8][9] His next novel, _Zodiac_ (1988), was a thriller following the exploits of a radical environmentalist protagonist in his struggle against corporate polluters.[10] Neither novel attracted much critical attention on first publication, but showcased concerns that Stephenson would further develop in his later work.[11]
 
 Stephenson's breakthrough came in 1992 with _Snow Crash_, a comic novel in the late cyberpunk or post-cyberpunk tradition fusing memetics, computer viruses, and other high-tech themes with Sumerian mythology, along with a sociological extrapolation of extreme laissez-faire capitalism and collectivism.[12][13] _Snow Crash_ was the first of Stephenson's epic science fiction novels. Stephenson at this time would later be described by Mike Godwin as "a slight, unassuming grad-student type whose soft-spoken demeanor gave no obvious indication that he had written the manic apotheosis of cyberpunk science fiction."[14] In 1994, Stephenson joined with his uncle, J. Frederick George, to publish a political thriller, _Interface_, under the pen name "Stephen Bury";[15] they followed this in 1996 with _The Cobweb_.
 
@@ -51,14 +51,12 @@ Style
 
 In his earlier novels Stephenson deals heavily in pop culture-laden metaphors and imagery and in quick, hip dialogue, as well as in extended narrative monologues. The tone of his books is generally more irreverent and less serious than that of previous cyberpunk novels such as those of William Gibson.
 
-NealStephensonByPhilKonstantin.jpg
-
 Stephenson's books tend to have elaborate, inventive plots drawing on numerous technological and sociological ideas at the same time. The discursive nature of his writing, together with significant plot and character complexity and an abundance of detail suggests a baroque writing style, which Stephenson brought fully to bear in the three-volume _Baroque Cycle_.[34] His book _The Diamond Age_ follows a simpler plot but features "neo-Victorian" characters and employs Victorian-era literary conceits. In keeping with the baroque style, Stephenson's books have become longer as he has gained recognition. For example, the paperback editions of _Cryptonomicon_ are over eleven hundred pages long[35] with the novel containing various digressions, including a lengthy erotic story about antique furniture and stockings.
 
 
 Bibliography
 
-Neal_Stephenson.jpg in 2004]]
+in 2004]]
 
 Novels
 

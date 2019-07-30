@@ -1,4 +1,4 @@
-The_star_cluster_NGC_3572_and_its_dramatic_surroundings.jpg and its surroundings.[1] ]]
+and its surroundings.[1] ]]
 
 An OPEN CLUSTER is a group of up to a few thousand stars that were formed from the same giant molecular cloud and have roughly the same age. More than 1,100 open clusters have been discovered within the Milky Way Galaxy, and many more are thought to exist.[2] They are loosely bound by mutual gravitational attraction and become disrupted by close encounters with other clusters and clouds of gas as they orbit the galactic center. This can result in a migration to the main body of the galaxy and a loss of cluster members through internal close encounters.[3] Open clusters generally survive for a few hundred million years, with the most massive ones surviving for a few billion years. In contrast, the more massive globular clusters of stars exert a stronger gravitational attraction on their members, and can survive for longer. Open clusters have been found only in spiral and irregular galaxies, in which active star formation is occurring.[4]
 
@@ -9,17 +9,17 @@ Open clusters are key objects in the study of stellar evolution. Because the clu
 
 Historical observations
 
-VISTA_Finds_Star_Clusters_Galore.jpg's data. The open clusters were hidden by the dust in the Milky Way.[8] Credit ESO.]]
+'s data. The open clusters were hidden by the dust in the Milky Way.[8] Credit ESO.]]
 
 The prominent open cluster the Pleiades has been recognized as a group of stars since antiquity, while the Hyades forms part of Taurus, one of the oldest constellations. Other open clusters were noted by early astronomers as unresolved fuzzy patches of light. The Roman astronomer Ptolemy mentions the Praesepe, the Double Cluster in Perseus, and the Ptolemy Cluster, while the Persian astronomer Al-Sufi wrote of the Omicron Velorum cluster.[9] However, it would require the invention of the telescope to resolve these nebulae into their constituent stars.[10] Indeed, in 1603 Johann Bayer gave three of these clusters designations as if they were single stars.[11]
 
-NGC_3590_open_cluster_Eso1416a.jpg.[12]]]
+.[12]]]
 
 The first person to use a telescope to observe the night sky and record his observations was the Italian scientist Galileo Galilei in 1609. When he turned the telescope toward some of the nebulous patches recorded by Ptolemy, he found they were not a single star, but groupings of many stars. For Praesepe, he found more than 40 stars. Where previously observers had noted only 6–7 stars in the Pleiades, he found almost 50.[13] In his 1610 treatise _Sidereus Nuncius_, Galileo Galilei wrote, "the galaxy is nothing else but a mass of innumerable stars planted together in clusters."[14] Influenced by Galileo's work, the Sicilian astronomer Giovanni Hodierna became possibly the first astronomer to use a telescope to find previously undiscovered open clusters.[15] In 1654, he identified the objects now designated Messier 41, Messier 47, NGC 2362 and NGC 2451.[16]
 
 It was realised as early as 1767 that the stars in a cluster were physically related,[17] when the English naturalist Reverend John Michell calculated that the probability of even just one group of stars like the Pleiades being the result of a chance alignment as seen from Earth was just 1 in 496,000.[18] Between 1774–1781, French astronomer Charles Messier published a catalogue of celestial objects that had a nebulous appearance similar to comets. This catalogue included 26 open clusters.[19] In the 1790s, English astronomer William Herschel began an extensive study of nebulous celestial objects. He discovered that many of these features could be resolved into groupings of individual stars. Herschel conceived the idea that stars were initially scattered across space, but later became clustered together as star systems because of gravitational attraction.[20] He divided the nebulae into eight classes, with classes VI through VIII being used to classify clusters of stars.[21]
 
-NGC265.jpg, an open star cluster in the Small Magellanic Cloud]]
+, an open star cluster in the Small Magellanic Cloud]]
 
 The number of clusters known continued to increase under the efforts of astronomers. Hundreds of open clusters were listed in the New General Catalogue, first published in 1888 by the Danish-Irish astronomer J. L. E. Dreyer, and the two supplemental Index Catalogues, published in 1896 and 1905.[22] Telescopic observations revealed two distinct types of clusters, one of which contained thousands of stars in a regular spherical distribution and was found all across the sky but preferentially towards the centre of the Milky Way.[23] The other type consisted of a generally sparser population of stars in a more irregular shape. These were generally found in or near the galactic plane of the Milky Way.[24][25] Astronomers dubbed the former globular clusters, and the latter open clusters. Because of their location, open clusters are occasionally referred to as _galactic clusters_, a term that was introduced in 1925 by the Swiss-American astronomer Robert Julius Trumpler.[26]
 
@@ -30,13 +30,13 @@ The first color-magnitude diagrams of open clusters were published by Ejnar Hert
 
 Formation
 
-Trapezium_cluster_optical_and_infrared_comparison.jpg light reveals the dense open cluster forming at the heart of the Orion nebula.]]
+light reveals the dense open cluster forming at the heart of the Orion nebula.]]
 
 The formation of an open cluster begins with the collapse of part of a giant molecular cloud, a cold dense cloud of gas and dust containing up to many thousands of times the mass of the Sun. These clouds have densities that vary from 10² to 10⁶ molecules of neutral hydrogen per cm³, with star formation occurring in regions with densities above 10⁴ molecules per cm³. Typically, only 1–10% of the cloud by volume is above the latter density.[32] Prior to collapse, these clouds maintain their mechanical equilibrium through magnetic fields, turbulence, and rotation.[33]
 
 Many factors may disrupt the equilibrium of a giant molecular cloud, triggering a collapse and initiating the burst of star formation that can result in an open cluster. These include shock waves from a nearby supernova, collisions with other clouds, or gravitational interactions. Even without external triggers, regions of the cloud can reach conditions where they become unstable against collapse.[34] The collapsing cloud region will undergo hierarchical fragmentation into ever smaller clumps, including a particularly dense form known as infrared dark clouds, eventually leading to the formation of up to several thousand stars. This star formation begins enshrouded in the collapsing cloud, blocking the protostars from sight but allowing infrared observation.[35] In the Milky Way galaxy, the formation rate of open clusters is estimated to be one every few thousand years.[36]
 
-Eagle_nebula_pillars.jpg", a region of the Eagle Nebula where the molecular cloud is being evaporated by young, massive stars]] The hottest and most massive of the newly formed stars (known as OB stars) will emit intense ultraviolet radiation, which steadily ionizes the surrounding gas of the giant molecular cloud, forming an H II region. Stellar winds and radiation pressure from the massive stars begins to drive away the hot ionized gas at a velocity matching the speed of sound in the gas. After a few million years the cluster will experience its first core-collapse supernovae, which will also expel gas from the vicinity. In most cases these processes will strip the cluster of gas within ten million years and no further star formation will take place. Still, about half of the resulting protostellar objects will be left surrounded by circumstellar disks, many of which form accretion disks.[37]
+", a region of the Eagle Nebula where the molecular cloud is being evaporated by young, massive stars]] The hottest and most massive of the newly formed stars (known as OB stars) will emit intense ultraviolet radiation, which steadily ionizes the surrounding gas of the giant molecular cloud, forming an H II region. Stellar winds and radiation pressure from the massive stars begins to drive away the hot ionized gas at a velocity matching the speed of sound in the gas. After a few million years the cluster will experience its first core-collapse supernovae, which will also expel gas from the vicinity. In most cases these processes will strip the cluster of gas within ten million years and no further star formation will take place. Still, about half of the resulting protostellar objects will be left surrounded by circumstellar disks, many of which form accretion disks.[37]
 
 As only 30 to 40 per cent of the gas in the cloud core forms stars, the process of residual gas expulsion is highly damaging to the star formation process. All clusters thus suffer significant infant weight loss, while a large fraction undergo infant mortality. At this point, the formation of an open cluster will depend on whether the newly formed stars are gravitationally bound to each other; otherwise an unbound stellar association will result. Even when a cluster such as the Pleiades does form, it may only hold on to a third of the original stars, with the remainder becoming unbound once the gas is expelled.[38] The young stars so released from their natal cluster become part of the Galactic field population.
 
@@ -47,7 +47,7 @@ It is common for two or more separate open clusters to form out of the same mole
 
 Morphology and classification
 
-The_colourful_star_cluster_NGC_2367.jpg is an infant stellar grouping that lies at the center of an immense and ancient structure on the margins of the Milky Way.[44]]] Open clusters range from very sparse clusters with only a few members to large agglomerations containing thousands of stars. They usually consist of quite a distinct dense core, surrounded by a more diffuse 'corona' of cluster members. The core is typically about 3–4 light years across, with the corona extending to about 20 light years from the cluster centre. Typical star densities in the centre of a cluster are about 1.5 stars per cubic light year; the stellar density near the Sun is about 0.003 stars per cubic light year.[45]
+is an infant stellar grouping that lies at the center of an immense and ancient structure on the margins of the Milky Way.[44]]] Open clusters range from very sparse clusters with only a few members to large agglomerations containing thousands of stars. They usually consist of quite a distinct dense core, surrounded by a more diffuse 'corona' of cluster members. The core is typically about 3–4 light years across, with the corona extending to about 20 light years from the cluster centre. Typical star densities in the centre of a cluster are about 1.5 stars per cubic light year; the stellar density near the Sun is about 0.003 stars per cubic light year.[45]
 
 Open clusters are often classified according to a scheme developed by Robert Trumpler in 1930. The Trumpler scheme gives a cluster a three part designation, with a Roman numeral from I-IV indicating its concentration and detachment from the surrounding star field (from strongly to weakly concentrated), an Arabic numeral from 1 to 3 indicating the range in brightness of members (from small to large range), and _p_, _m_ or _r_ to indication whether the cluster is poor, medium or rich in stars. An 'n' is appended if the cluster lies within nebulosity.[46]
 
@@ -56,7 +56,7 @@ Under the Trumpler scheme, the Pleiades are classified as I3rn (strongly concent
 
 Numbers and distribution
 
-NGC_346_in_Small_magellanic_cloud.jpg, an open cluster in the Small Magellanic Cloud]]
+, an open cluster in the Small Magellanic Cloud]]
 
 There are over 1,000 known open clusters in our galaxy, but the true total may be up to ten times higher than that.[47] In spiral galaxies, open clusters are largely found in the spiral arms where gas densities are highest and so most star formation occurs, and clusters usually disperse before they have had time to travel beyond their spiral arm. Open clusters are strongly concentrated close to the galactic plane, with a scale height in our galaxy of about 180 light years, compared to a galactic radius of approximately 50,000 light years.[48]
 
@@ -67,7 +67,7 @@ In our galaxy, the distribution of clusters depends on age, with older clusters 
 
 Stellar composition
 
-Tarantula_nebula_detail.jpg in the Large Magellanic Cloud.]]
+in the Large Magellanic Cloud.]]
 
 Because open clusters tend to be dispersed before most of their stars reach the end of their lives, the light from them tends to be dominated by the young, hot blue stars. These stars are the most massive, and have the shortest lives of a few tens of millions of years. The older open clusters tend to contain more yellow stars.
 
@@ -80,7 +80,7 @@ Because of their high density, close encounters between stars in an open cluster
 
 Eventual fate
 
-Nursery_of_New_Stars_-_GPN-2000-000972.jpg in the Triangulum Galaxy is a very massive open cluster surrounded by an H II region.]]
+in the Triangulum Galaxy is a very massive open cluster surrounded by an H II region.]]
 
 Many open clusters are inherently unstable, with a small enough mass that the escape velocity of the system is lower than the average velocity of the constituent stars. These clusters will rapidly disperse within a few million years. In many cases, the stripping away of the gas from which the cluster formed by the radiation pressure of the hot young stars reduces the cluster mass enough to allow rapid dispersal.[56]
 
@@ -93,7 +93,7 @@ After a cluster has become gravitationally unbound, many of its constituent star
 
 Studying stellar evolution
 
-Open_cluster_HR_diagram_ages.gifs for two open clusters. NGC 188 is older, and shows a lower turn off from the main sequence than that seen in M67.]]
+s for two open clusters. NGC 188 is older, and shows a lower turn off from the main sequence than that seen in M67.]]
 
 When a Hertzsprung-Russell diagram is plotted for an open cluster, most stars lie on the main sequence.[62] The most massive stars have begun to evolve away from the main sequence and are becoming red giants; the position of the turn-off from the main sequence can be used to estimate the age of the cluster.
 
@@ -106,7 +106,7 @@ Studies have shown that the abundances of these light elements are much lower th
 
 Astronomical distance scale
 
-Messier11.jpg, the Wild Duck Cluster is a very rich cluster located towards the center of the Milky Way.]]
+, the Wild Duck Cluster is a very rich cluster located towards the center of the Milky Way.]]
 
 Determining the distances to astronomical objects is crucial to understanding them, but the vast majority of objects are too far away for their distances to be directly determined. Calibration of the astronomical distance scale relies on a sequence of indirect and sometimes uncertain measurements relating the closest objects, for which distances can be directly measured, to increasingly distant objects.[66] Open clusters are a crucial step in this sequence.
 

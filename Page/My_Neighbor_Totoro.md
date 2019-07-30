@@ -127,7 +127,7 @@ _My Neighbor Totoro_ set its writer-director Hayao Miyazaki on the road to succe
 
 The environmental journal _Ambio_ described the influence of _My Neighbor Totoro_, "[It] has served as a powerful force to focus the positive feelings that the Japanese people have for satoyama and traditional village life." The film's central character Totoro was used as a mascot by the Japanese "Totoro Hometown Fund Campaign" to preserve areas of satoyama in the Saitama Prefecture.[45] The fund, started in 1990 after the film's release, held an auction in August 2008 at Pixar Animation Studios to sell over 210 original paintings, illustrations, and sculptures inspired by _My Neighbor Totoro_.[46]
 
-Totoro has made cameo appearances in multiple Studio Ghibli films, including _Pom Poko_, _Kiki's Delivery Service_, and _Whisper of the Heart_. Various other anime series and films have featured cameos, including one episode of the Gainax TV series _His and Her Circumstances_. Miyazaki uses Totoro as a part of his Studio Ghibli company logo.[47] Eoperipatus_totoro.jpg'' – a velvet worm from Vietnam]]
+Totoro has made cameo appearances in multiple Studio Ghibli films, including _Pom Poko_, _Kiki's Delivery Service_, and _Whisper of the Heart_. Various other anime series and films have featured cameos, including one episode of the Gainax TV series _His and Her Circumstances_. Miyazaki uses Totoro as a part of his Studio Ghibli company logo.[47] '' – a velvet worm from Vietnam]]
 
 A main-belt asteroid, discovered on December 31, 1994, was named 10160 Totoro after the film's central character.[48]
 

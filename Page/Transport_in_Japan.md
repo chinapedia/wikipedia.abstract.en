@@ -1,5 +1,3 @@
-JRE-TEC-E5_omiya.JPG
-
 TRANSPORTATION IN JAPAN is modern and highly developed. Japan's transport sector stands out for its energy efficiency: it uses less energy per person compared to other countries, thanks to a high share of rail transport and low overall travel distances.[1] Transport in Japan is also very expensive in international comparison, reflecting high tolls and taxes, particularly on automobile transport.[2]
 
 Japan's spending on roads has been large.[3] The 1.2 million kilometres of paved road are the main means of transport.[4] Japan has left-hand traffic. A single network of high-speed, divided, limited-access toll roads connects major cities, which are operated by toll-collecting enterprises.
@@ -11,7 +9,7 @@ There are 176 airports,[5] and the largest domestic airport, Haneda Airport, is 
 
 Railway
 
-Yamanote_line_train.jpg, Tokyo]] KumamotoStreetcarA.jpg in Kumamoto]]
+, Tokyo]] in Kumamoto]]
 
 In Japan, railways are a major means of passenger transport, especially for mass and high-speed transport between major cities and for commuter transport in metropolitan areas. Seven Japan Railways Group companies, state-owned until 1987, cover most parts of Japan. There also are railway services operated by private rail companies, regional governments, and companies funded by both regional governments and private companies.
 
@@ -23,7 +21,7 @@ Most Japanese people travelled on foot until the later part of the 19th century.
 
 Shinkansen (bullet train)
 
-Shinkansen_map_201703_en.png and Gala-Yuzawa Line]] The Shinkansen, or "bullet trains", as they are often known, are the high-speed rail trains that run across Japan.[8] The of 8 Shinkansen lines run on completely separate lines from their commuting train counterparts, with a few exceptions. Shinkansen take up a large portion of the long distance travel in Japan, with the whole system carrying over 10 billion passengers in its lifetime. 1,114 journeys are made daily, with the fastest train being the JR East E5 and E6 series trains, which operate at a maximum speed of . Shinkansen trains are known to be very safe, with no accident-related deaths or injuries from passengers in its 50-plus year history.[9] Shinkansen trains are also known to be very punctual, following suit with all other Japanese transport; in 2003, the average delay per train on the Tokaido Shinkansen was a mere 6 seconds.[10] Japan has been trying to sell its Shinkansen technology overseas, and has struck deals to help build systems in India, Thailand, and the United States.[11]
+and Gala-Yuzawa Line]] The Shinkansen, or "bullet trains", as they are often known, are the high-speed rail trains that run across Japan.[8] The of 8 Shinkansen lines run on completely separate lines from their commuting train counterparts, with a few exceptions. Shinkansen take up a large portion of the long distance travel in Japan, with the whole system carrying over 10 billion passengers in its lifetime. 1,114 journeys are made daily, with the fastest train being the JR East E5 and E6 series trains, which operate at a maximum speed of . Shinkansen trains are known to be very safe, with no accident-related deaths or injuries from passengers in its 50-plus year history.[9] Shinkansen trains are also known to be very punctual, following suit with all other Japanese transport; in 2003, the average delay per train on the Tokaido Shinkansen was a mere 6 seconds.[10] Japan has been trying to sell its Shinkansen technology overseas, and has struck deals to help build systems in India, Thailand, and the United States.[11]
 
 The first Shinkansen line opened between Tokyo and Osaka in 1964, and trains can now make the journey in 2 hours and 25 minutes.[12] Additional Shinkansen lines connect Tokyo to Aomori, Niigata, Kanazawa, and Hakodate and Osaka to Fukuoka and Kagoshima, with new lines under construction to Tsuruga, Sapporo and Nagasaki.
 
@@ -32,7 +30,7 @@ Japan has been developing maglev technology trains, and broke the world maglev s
 
 Road
 
-FujiChuoExpressway.jpg]] Tokyo_Gaikan_Expressway_and_Japanese_national_route_298.jpg
+]]
 
 According to Japan Statistical Yearbook 2015, Japan in April 2012 had approximately 1,215,000 km of roads made up of 1,022,000 km of city, town and village roads, 129,000 km of prefectural roads, 55,000 km of general national highways and 8,050 km of national expressways.[14][15] The Foreign Press Center/Japan cites a total length of expressways at 7,641 km (fiscal 2008).[16] A single network of high-speed, divided, limited-access toll roads connects major cities on Honshu, Shikoku and Kyushu. Hokkaido has a separate network, and Okinawa Island has a highway of this type. In the year 2005, the toll collecting companies, formerly Japan Highway Public Corporation, have been transformed into private companies in public ownership, and there are plans to sell parts of them. The aim of this policy is to encourage competition and decrease tolls.
 
@@ -47,11 +45,9 @@ Although road fatalities have been decreasing, due in part to stricter enforceme
 
 Airway
 
-Kansai_International_Airport_(1).jpg, Osaka]]
+, Osaka]]
 
 In 2013 Japan had the fourth largest passenger air market in the world with 105,913,000 passengers.[17] In 2013 Japan had 98 airports.[18] The main international gateways are Narita International Airport (Tokyo area), Kansai International Airport (Osaka/Kobe/Kyoto area), and Chūbu Centrair International Airport (Nagoya area). The main domestic hub is Tokyo International Airport (Haneda Airport), Asia's busiest airport and the world's 4th busiest airport; other major traffic hubs include Osaka International Airport, New Chitose Airport outside Sapporo, and Fukuoka Airport. 14 heliports are estimated to exist (1999).
-
-Airlines_of_Japan.svg
 
 The two main airlines are Japan Airlines and All Nippon Airways. Other passenger carriers include Skymark Airlines, Skynet Asia Airways, Air Do, Star Flyer and Fuji Dream Airlines. United Airlines and Delta Air Lines, formerly Northwest Airlines, are major international operators from Narita Airport.
 
@@ -60,7 +56,7 @@ Domestic air travel in Japan has historically been highly regulated. From 1972, 
 
 Maritime
 
-FerryMiyajima7511.jpg on the Inland Sea near Miyajima, Hiroshima]] There are 1770 km of waterways in Japan; seagoing craft ply all coastal inland seas.[19]
+on the Inland Sea near Miyajima, Hiroshima]] There are 1770 km of waterways in Japan; seagoing craft ply all coastal inland seas.[19]
 
 There are some 994 ports in Japan as of April 2014.[20] There are overlapping classifications of these ports, some of which are multi-purpose, e.g. cargo, passenger, naval, and fishery. The five designated "super" container ports are: Yokkaichi, Yokohama, Nagoya, Kobe and Osaka. 23 are designated major/international, 125 designated as important, while there are also purely fisherman ports.
 

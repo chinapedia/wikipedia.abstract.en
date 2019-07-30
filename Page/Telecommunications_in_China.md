@@ -34,7 +34,7 @@ In 1987 the Ministry of Posts and Telecommunications (now the Ministry of Inform
 
 As of 1987 the quality of telecommunications services in China had improved markedly over earlier years. A considerable influx of foreign technology and increased domestic production capabilities had a major impact in the post-Mao period.
 
-China_Shenzhen_phonebooth.jpg, Shenzhen]]
+, Shenzhen]]
 
 The primary form of telecommunications in the 1980s was local and long-distance telephone service administered by six regional bureaus: Beijing (north region), Shanghai (east region), Xi'an (northwest region), Chengdu (southwest region), Wuhan (centralsouth region), and Shenyang (northeast region). These regional headquarters served as switching centers for provincial-level subsystems. By 1986 China had nearly 3 million telephone exchange lines, including 34,000 long-distance exchange lines with direct, automatic service to 24 cities. By late 1986 fiber optic communications technology was being employed to relieve the strain on existing telephone circuits. International service was routed through overseas exchanges located in Beijing and Shanghai. Guangdong Province had coaxial cable and microwave lines linking it to Hong Kong and Macau.
 
@@ -78,8 +78,6 @@ Since 2014, the Cyberspace Administration of China is responsible for setting po
 Sectors
 
 Telephone
-
-Map_of_the_telephone_area_codes_of_the_People's_Republic_of_China.png
 
     _See: Telecommunications industry in China_
 
@@ -133,8 +131,6 @@ Internet
 -   Broadband Internet users: 363.81 million (June 2010)
 -   Personal computers: 52,990,000 units [4 per 100 persons] (2004)
 -   Hosting 29% of the globally installed bandwidth capacity in 2014 (see Figure)
-
-GlobalBandwidthConcentration.jpg
 
 In 2014 only 3 countries (China, US, Japan) host 50% of the globally installed telecommunication bandwidth potential. China replaced the U.S. in its global leadership in terms of installed bandwidth in 2011. By 2014, China hosts more than twice as much national bandwidth potential than the U.S., the historical leader in terms of installed telecommunication bandwidth (29% versus 13% of the global total) (see pie charts).[13]
 

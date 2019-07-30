@@ -1,4 +1,4 @@
-This article is about the demographic features of the population of Mali, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. Mali-demography.png
+This article is about the demographic features of the population of Mali, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 
 Population
@@ -29,7 +29,7 @@ The proportion of the population aged below 15 in 2010 was 47.2%.[12] 50.6% of t
 
 Structure of the population[14]
 
-Bevölkerungspyramide_Mali_2016.png Structure of the population (01.04.2009) (Census, Complete tabulation):
+Structure of the population (01.04.2009) (Census, Complete tabulation):
 
   Age Group   Male        Female      Total        %
   ----------- ----------- ----------- ------------ -------
@@ -95,7 +95,7 @@ Structure of the population (DHS 2012-2013) (Males 27 571, Females 28 264 = 55 8
 
 Ethnic groups
 
-Family_trip.jpg, Mali.]]
+, Mali.]]
 
 Ethnic groups include:[15] Bambara 34.1%, Fulani (; ) 14.7%, Sarakole 10.8%, Senufo 10.5%, Dogon 8.9%, Malinke 8.7%, Bobo 2.9%, Songhai 1.6%, Tuareg 0.9%, other Malian 6.1%, ECOWAS citizens 0.3%, other 0.4%
 
@@ -185,8 +185,6 @@ Population
     18,429,893 (July 2018 est.)
 
 Age structure
-
-Malipop.svg
 
     _0-14 years:_ 48.03% (male 4,449,790 /female 4,402,076)
     _15-24 years:_ 18.89% (male 1,657,609 /female 1,823,453)

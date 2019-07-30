@@ -7,7 +7,7 @@ The Pierre de Coubertin medal (also known as the Coubertin medal or the True Spi
 
 Early life
 
-BlasonCoubertin.svg Pierre de Frédy was born in Paris on 1 January 1863, into an aristocratic family. He was the fourth child of Baron Charles Louis de Frédy, Baron de Coubertin and Marie–Marcelle Gigault de Crisenoy.[3] Family tradition held that the Frédy name had first arrived in France in the early 15th century, and the first recorded title of nobility granted to the family was given by Louis XI to an ancestor, also named Pierre de Frédy, in 1477. But other branches of his family tree delved even further into French history, and the annals of both sides of his family included nobles of various stations, military leaders and associates of kings and princes of France. The_young_Pierre_de_Coubertin_with_his_sister.jpg (detail of _Le Départ_, 1869).|alt=A portion of a painting showing a young girl in a red jacket and pleated black skirt with her arm draped over the shoulder of a young boy, who is dressed in a blue tunic and black pants and looks back over his shoulder at the viewer.]]
+Pierre de Frédy was born in Paris on 1 January 1863, into an aristocratic family. He was the fourth child of Baron Charles Louis de Frédy, Baron de Coubertin and Marie–Marcelle Gigault de Crisenoy.[3] Family tradition held that the Frédy name had first arrived in France in the early 15th century, and the first recorded title of nobility granted to the family was given by Louis XI to an ancestor, also named Pierre de Frédy, in 1477. But other branches of his family tree delved even further into French history, and the annals of both sides of his family included nobles of various stations, military leaders and associates of kings and princes of France. (detail of _Le Départ_, 1869).|alt=A portion of a painting showing a young girl in a red jacket and pleated black skirt with her arm draped over the shoulder of a young boy, who is dressed in a blue tunic and black pants and looks back over his shoulder at the viewer.]]
 
 His father Charles was a staunch royalist and accomplished artist whose paintings were displayed and given prizes at the Parisian salon, at least in those years when he was not absent in protest of the rise to power of Louis Napoleon. His paintings often centred on themes related to the Roman Catholic Church, classicism, and nobility, which reflected those things he thought most important. In a later semi-fictional autobiographical piece called _Le Roman d'un rallié_, Coubertin describes his relationship with both his mother and his father as having been somewhat strained during his childhood and adolescence. His memoirs elaborated further, describing as a pivotal moment his disappointment upon meeting Henri, Count of Chambord, whom the elder Coubertin believed to be the rightful king.
 
@@ -91,7 +91,7 @@ Pierre was the last person to the family name. In the words of his biographer Jo
 
 Criticism
 
-Picswiss_VD-46-57.jpg]] A number of scholars have criticized Coubertin's legacy. David C. Young believes that Coubertin's assertion that ancient Olympic athletes were amateurs was incorrect. The issue is the subject of scholarly debate. Young and others argue that the athletes of the ancient Games were professional, while opponents led by Pleket argue that the earliest Olympic athletes were in fact amateur, and that the Games only became professionalized after about 480 BC. Coubertin agreed with this latter view, and saw this professionalization as undercutting the morality of the competition.
+]] A number of scholars have criticized Coubertin's legacy. David C. Young believes that Coubertin's assertion that ancient Olympic athletes were amateurs was incorrect. The issue is the subject of scholarly debate. Young and others argue that the athletes of the ancient Games were professional, while opponents led by Pleket argue that the earliest Olympic athletes were in fact amateur, and that the Games only became professionalized after about 480 BC. Coubertin agreed with this latter view, and saw this professionalization as undercutting the morality of the competition.
 
 Further, Young asserts that the effort to limit international competition to amateur athletes, which Coubertin was a part of, was in fact part of efforts to give the upper classes greater control over athletic competition, removing such control from the working classes. Coubertin may have played a role in such a movement, but his defenders argue that he did so unconscious of any class repercussions.
 
@@ -106,7 +106,7 @@ Questions have also been raised about the veracity of Coubertin's account of his
 
 Legacy
 
-RUSMARKA-1776.jpg The Olympic motto _Citius, Altius, Fortius_ (Faster, Higher, Stronger) was proposed by Coubertin in 1894 and has been official since 1924. The motto was coined by Henri Didon OP, a friend of Coubertin, for a Paris youth gathering of 1891.[20][21]
+The Olympic motto _Citius, Altius, Fortius_ (Faster, Higher, Stronger) was proposed by Coubertin in 1894 and has been official since 1924. The motto was coined by Henri Didon OP, a friend of Coubertin, for a Paris youth gathering of 1891.[20][21]
 
 The Pierre de Coubertin medal (also known as the Coubertin medal or the True Spirit of Sportsmanship medal) is an award given by the International Olympic Committee to those athletes that demonstrate the spirit of sportsmanship in the Olympic Games. This medal is considered by many athletes and spectators to be the highest award that an Olympic athlete can receive, even greater than a gold medal. The International Olympic Committee considers it as its highest honour.[22]
 
@@ -145,7 +145,7 @@ External links
 -   The International Pierre De Coubertin Committee (CIPC) – Lausanne
 -   Coubertin reader of Flaubert
 -   The Wenlock Olympian Society
--   Discourse of Pierre de Coubertin at Sorbonne announcing the restoring of the Olympic games (in french, audio) Speaker_Icon.svg
+-   Discourse of Pierre de Coubertin at Sorbonne announcing the restoring of the Olympic games (in french, audio)
 -   -
 
 Category:1863 births Category:1937 deaths Category:Sciences Po alumni Category:Barons of France Category:French rugby union referees Category:Founders of the modern Olympic Games Category:International Olympic Committee members Category:International Scouting leaders Category:World Rugby Hall of Fame inductees Category:Presidents of the International Olympic Committee Category:Presidents of the Organising Committees for the Olympic Games Category:Scouting and Guiding in France Category:Scouting pioneers Category:Sportspeople from Paris Category:Knights of the Order of the Polar Star Category:Knights of the Order of Orange-Nassau Category:Knights of the Order of the Star of Romania Category:Olympic gold medalists for France

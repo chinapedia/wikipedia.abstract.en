@@ -1,4 +1,4 @@
-Hasse_diagram_of_powerset_of_3.svg with respect to inclusion.]]
+with respect to inclusion.]]
 
 In mathematics, the POWER SET (or POWERSET) of any set is the set of all subsets of , including the empty set and itself, variously denoted as (), 𝒫(), ℘() (using the "Weierstrass p"), , , or, identifying the powerset of with the set of all functions from to a given set of two elements, . In axiomatic set theory (as developed, for example, in the ZFC axioms), the existence of the power set of any set is postulated by the axiom of power set.[1]
 

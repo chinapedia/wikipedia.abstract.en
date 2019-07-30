@@ -5,7 +5,7 @@ In biology, adding phosphates to—and removing them from—proteins in cells ar
 
 Chemical properties
 
-Phosphate_Group.svg of the phosphoric acid functional group as found in weakly acidic aqueous solution. In more basic aqueous solutions, the group donates its two hydrogen atoms and ionizes as a phosphate group with a negative charge of 2. [2]]]
+of the phosphoric acid functional group as found in weakly acidic aqueous solution. In more basic aqueous solutions, the group donates its two hydrogen atoms and ionizes as a phosphate group with a negative charge of 2. [2]]]
 
 The phosphate ion is a polyatomic ion with the empirical formula and a molar mass of 94.97 g/mol. It consists of one central phosphorus atom surrounded by four oxygen atoms in a tetrahedral arrangement. The phosphate ion carries a −3 formal charge and is the conjugate base of the HYDROGEN PHOSPHATE ion, , which is the conjugate base of , the DIHYDROGEN PHOSPHATE ion, which in turn is the conjugate base of , phosphoric acid. A phosphate salt forms when a positively charged ion attaches to the negatively charged oxygen atoms of the ion, forming an ionic compound.
 
@@ -35,8 +35,6 @@ the corresponding constants at 25 °C (in mol/L) are (see phosphoric acid):
     $K_\mathrm{a1}=\frac{[\mbox{H}^+][\mbox{H}_2\mbox{PO}_4^-]}{[\mbox{H}_3\mbox{PO}_4]}\simeq 7.5\times10^{-3}$ (p_K__(a1) ≈ 2.12)
     $K_\mathrm{a2}=\frac{[\mbox{H}^+][\mbox{HPO}_4^{2-}]}{[\mbox{H}_2\mbox{PO}_4^-]}\simeq 6.2\times10^{-8}$ (p_K__(a2) ≈ 7.21)
     $K_\mathrm{a3}=\frac{[\mbox{H}^+][\mbox{PO}_4^{3-}]}{[\mbox{HPO}_4^{2-}]}\simeq 2.14\times10^{-13}$ (p_K__(a3) ≈ 12.67)
-
-Phosphoric_acid_speciation.png
 
 Speciation
 
@@ -71,7 +69,7 @@ Plants take up phosphorus through several pathways: the arbuscular mycorrhizal p
 
 Occurrence and mining
 
-Phosphate_Mine_Panorama.jpg, Utah, 2008]] Train_loaded_with_phosphate_rock,_Metlaoui_Tunisia-4298B.jpg, Tunisia, 2012]] Phosphates are the naturally occurring form of the element phosphorus, found in many phosphate minerals. In mineralogy and geology, phosphate refers to a rock or ore containing phosphate ions. Inorganic phosphates are mined to obtain phosphorus for use in agriculture and industry.[3]
+, Utah, 2008]] , Tunisia, 2012]] Phosphates are the naturally occurring form of the element phosphorus, found in many phosphate minerals. In mineralogy and geology, phosphate refers to a rock or ore containing phosphate ions. Inorganic phosphates are mined to obtain phosphorus for use in agriculture and industry.[3]
 
 The largest global producer and exporter of phosphates is Morocco. Within North America, the largest deposits lie in the Bone Valley region of central Florida, the Soda Springs region of southeastern Idaho, and the coast of North Carolina. Smaller deposits are located in Montana, Tennessee, Georgia, and South Carolina. The small island nation of Nauru and its neighbor Banaba Island, which used to have massive phosphate deposits of the best quality, have been mined excessively. Rock phosphate can also be found in Egypt, Israel, Western Sahara, Navassa Island, Tunisia, Togo, and Jordan, countries that have large phosphate-mining industries.
 
@@ -150,7 +148,7 @@ The three principal phosphate producer countries (China, Morocco and the United 
 (USGS, 2016)[13]
 
 
-WOA09_sea-surf_PO4_AYool.png]] PhosphatetoNitrate.png.]] In ecological terms, because of its important role in biological systems, phosphate is a highly sought after resource. Once used, it is often a limiting nutrient in environments, and its availability may govern the rate of growth of organisms. This is generally true of freshwater environments, whereas nitrogen is more often the limiting nutrient in marine (seawater) environments. Addition of high levels of phosphate to environments and to micro-environments in which it is typically rare can have significant ecological consequences. For example, blooms in the populations of some organisms at the expense of others, and the collapse of populations deprived of resources such as oxygen (see eutrophication) can occur. In the context of pollution, phosphates are one component of total dissolved solids, a major indicator of water quality, but not all phosphorus is in a molecular form that algae can break down and consume.[14]
+]] .]] In ecological terms, because of its important role in biological systems, phosphate is a highly sought after resource. Once used, it is often a limiting nutrient in environments, and its availability may govern the rate of growth of organisms. This is generally true of freshwater environments, whereas nitrogen is more often the limiting nutrient in marine (seawater) environments. Addition of high levels of phosphate to environments and to micro-environments in which it is typically rare can have significant ecological consequences. For example, blooms in the populations of some organisms at the expense of others, and the collapse of populations deprived of resources such as oxygen (see eutrophication) can occur. In the context of pollution, phosphates are one component of total dissolved solids, a major indicator of water quality, but not all phosphorus is in a molecular form that algae can break down and consume.[14]
 
 Calcium hydroxyapatite and calcite precipitates can be found around bacteria in alluvial topsoil.[15] As clay minerals promote biomineralization, the presence of bacteria and clay minerals resulted in calcium hydroxyapatite and calcite precipitates.[16]
 

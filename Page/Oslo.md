@@ -108,7 +108,7 @@ by John William Edy File:Christiania Norway in 1814 by MK Tholstrup.jpg|Christia
 
 Geography
 
-Oslo_by_Sentinel-2.jpg Tettstedet_Oslo_2005.png Oslo occupies an arc of land at the northernmost end of the Oslofjord. The fjord, which is nearly bisected by the Nesodden peninsula opposite Oslo, lies to the south; in all other directions Oslo is surrounded by green hills and mountains. There are 40 islands within the city limits, the largest being Malmøya (), and scores more around the Oslofjord. Oslo has 343 lakes, the largest being Maridalsvannet (). This is also a main source of drinking water for large parts of Oslo.
+Oslo occupies an arc of land at the northernmost end of the Oslofjord. The fjord, which is nearly bisected by the Nesodden peninsula opposite Oslo, lies to the south; in all other directions Oslo is surrounded by green hills and mountains. There are 40 islands within the city limits, the largest being Malmøya (), and scores more around the Oslofjord. Oslo has 343 lakes, the largest being Maridalsvannet (). This is also a main source of drinking water for large parts of Oslo.
 
 Although Eastern Norway has a number of rivers, none of these flow into the ocean at Oslo. Instead Oslo has two smaller rivers: Akerselva (draining Maridalsvannet, which flows into the fjord in Bjørvika), and Alna. The waterfalls in Akerselva gave power to some of the first modern industry of Norway in the 1840s. Later in the century, the river became the symbol of the stable and consistent economic and social divide of the city into an East End and a West End; the labourers' neighbourhoods lie on both sides of the river, and the divide in reality follows Uelands street a bit further west. River Alna flows through Groruddalen, Oslo's major suburb and industrial area. The highest point is Kirkeberget, at . Although the city's population is small compared to most European capitals, it occupies an unusually large land area, of which two-thirds are protected areas of forests, hills and lakes. Its boundaries encompass many parks and open areas, giving it an airy and green appearance.
 
@@ -123,7 +123,7 @@ May 2018 saw hotter than average temperatures throughout the month.[38] On 30 Ma
 
 Parks and recreation areas
 
-Frogner_Park_with_Vigeland_Sculpture_Arrangement.jpg]] Oslo has a large number of parks and green areas within the city core, as well as outside it.
+]] Oslo has a large number of parks and green areas within the city core, as well as outside it.
 
 -   Frogner Park is a large park located a few minutes' walk away from the city centre. This is the biggest and best-known park in Norway, with a large collection of sculptures by Gustav Vigeland.
 -   Bygdøy is a large green area, commonly called the Museum Peninsula of Oslo. The area is surrounded by the sea and is one of the most expensive districts in Norway.
@@ -146,7 +146,7 @@ Oslo's cityscape is being redeveloped as a modern city with various access-point
 
 Architecture
 
-Fjordbyen.gif is a large construction project in the seaside of central Oslo, stretching from Bygdøy in the west to Ormøya in the east. Some areas include: Bjørvika, Aker brygge, Tjuvholmen, the cental station area]] Oslo's architecture is very diverse. The architect Carl Frederik Stanley (1769–1805), who was educated in Copenhagen, spent some years in Norway around the turn of the 19th century. He did minor works for wealthy patrons in and around Oslo, but his major achievement was the renovation of the Oslo Katedralskole, completed in 1800. [46] He added a classical portico to the front of an older structure, and a semicircular auditorium that was sequestered by Parliament in 1814 as a temporary place to assemble, now preserved at Norsk Folkemuseum as a national monument.
+is a large construction project in the seaside of central Oslo, stretching from Bygdøy in the west to Ormøya in the east. Some areas include: Bjørvika, Aker brygge, Tjuvholmen, the cental station area]] Oslo's architecture is very diverse. The architect Carl Frederik Stanley (1769–1805), who was educated in Copenhagen, spent some years in Norway around the turn of the 19th century. He did minor works for wealthy patrons in and around Oslo, but his major achievement was the renovation of the Oslo Katedralskole, completed in 1800. [46] He added a classical portico to the front of an older structure, and a semicircular auditorium that was sequestered by Parliament in 1814 as a temporary place to assemble, now preserved at Norsk Folkemuseum as a national monument.
 
 When Christiania was made capital of Norway in 1814, there were practically no buildings suitable for the many new government institutions. An ambitious building program was initiated, but realised very slowly because of economic constraints. The first major undertaking was the Royal Palace, designed by Hans Linstow and built between 1824 and 1848. Linstow also planned Karl Johans gate, the avenue connecting the Palace and the city, with a monumental square halfway to be surrounded by buildings for University, the Parliament (Storting) and other institutions. Only the university buildings were realised according to this plan. Christian Heinrich Grosch, one of the first architects educated completely within Norway, designed the original building for the Oslo Stock Exchange (1826–1828), the local branch of the Bank of Norway (1828), Christiania Theatre (1836–1837), and the first campus for the University of Oslo (1841–1856). For the university buildings, he sought the assistance of the renowned German architect Karl Friedrich Schinkel. German architectural influence persisted in Norway, and many wooden buildings followed the principles of Neoclassicism. In Oslo, the German architect Alexis de Chateauneuf designed Trefoldighetskirken, the first neo-gothic church, completed by von Hanno in 1858.
 
@@ -187,7 +187,7 @@ The Governing Mayor of Oslo is the head of the City government. The post was cre
 
 Economy
 
-Oslo_at_night.jpg, part of the redesign of former dock and industrial land in Oslo known as The Barcode Project.]] Oslo has a varied and strong economy and was ranked number one among European large cities in economic potential in the fDi Magazine report European Cities of the Future 2012.[49] It was ranked 2nd in the category of business friendliness, behind Amsterdam.
+, part of the redesign of former dock and industrial land in Oslo known as The Barcode Project.]] Oslo has a varied and strong economy and was ranked number one among European large cities in economic potential in the fDi Magazine report European Cities of the Future 2012.[49] It was ranked 2nd in the category of business friendliness, behind Amsterdam.
 
 Oslo is an important centre of maritime knowledge in Europe and is home to approximately 1980 companies and 8,500 employees within the maritime sector. Some of them are the world's largest shipping companies, shipbrokers, and insurance brokers.[50] Det Norske Veritas, headquartered at Høvik outside Oslo, is one of the three major maritime classification societies in the world, with 16.5% of the world fleet to class in its register.[51] The city's port is the largest general cargo port in the country and its leading passenger gateway. Close to 6,000 ships dock at the Port of Oslo annually with a total of 6 million tonnes of cargo and over five million passengers.
 
@@ -204,8 +204,6 @@ Oslo is a compact city. It is easy to move around by public transportation and r
 
 
 Education
-
-Universitetet_i_Oslo_sentrum.jpg BI_Norwegian_School_of_Management_Nydalen_Oslo.jpg UiO_004.jpg
 
 Institutions of higher education
 
@@ -242,11 +240,11 @@ As of March 2018 six Oslo restaurants were mentioned in the Michelin Guide. Maae
 
 Museums, galleries
 
-Munch-museet-jody.JPG]] Oslo houses several major museums and galleries. The Munch Museum contains _The Scream_ and other works by Edvard Munch, who donated all his work to the city after his death.[70] The city council is currently planning a new Munch Museum which is most likely to be built in Bjørvika, in the southeast of the city.[71] The museum will be named Munch/Stenersen.[72] 50 different museums are located around the city.[73]
+]] Oslo houses several major museums and galleries. The Munch Museum contains _The Scream_ and other works by Edvard Munch, who donated all his work to the city after his death.[70] The city council is currently planning a new Munch Museum which is most likely to be built in Bjørvika, in the southeast of the city.[71] The museum will be named Munch/Stenersen.[72] 50 different museums are located around the city.[73]
 
 Folkemuseet is located on the Bygdøy peninsula and is dedicated to Folk art, Folk Dress, Sami culture and the viking culture. The outdoor museum contains 155 authentic old buildings from all parts of Norway, including a Stave Church.[74]
 
-The Vigeland Museum located in the large Frogner Park, is free to access and contains over 212 sculptures by Gustav Vigeland including an obelisk and the Wheel of Life.[75] Another popular sculpture is Sinnataggen, a baby boy stamping his foot in fury. This statue is very well known as an icon in the city.[76] There is also a newer landscaped sculpture park, Ekebergparken Sculpture Park, with works by Norwegian and international artists such as Salvador Dalí.[77] Telemarkstunet_Norsk_Folkemuseum_0.jpg]] The Viking Ship Museum features three Viking ships found at Oseberg, Gokstad and Tune and several other unique items from the Viking age.[78]
+The Vigeland Museum located in the large Frogner Park, is free to access and contains over 212 sculptures by Gustav Vigeland including an obelisk and the Wheel of Life.[75] Another popular sculpture is Sinnataggen, a baby boy stamping his foot in fury. This statue is very well known as an icon in the city.[76] There is also a newer landscaped sculpture park, Ekebergparken Sculpture Park, with works by Norwegian and international artists such as Salvador Dalí.[77] ]] The Viking Ship Museum features three Viking ships found at Oseberg, Gokstad and Tune and several other unique items from the Viking age.[78]
 
 The Oslo City Museum holds a permanent exhibition about the people in Oslo and the history of the city.[79]
 
@@ -258,7 +256,7 @@ The Nobel Peace Center is an independent organisation opened on 11 June 2005 by 
 
 Music and events
 
-Nobel_peace_center.jpg]] A large number of festivals are held in Oslo, such as Oslo Jazz festival, a six-day jazz festival which has been held annually in August for the past 25 years.[87] Oslo's biggest rock festival is Øyafestivalen or simply "Øya". It draws about 60,000 people to the Tøyen Park east in Oslo and lasts for four days.[88]
+]] A large number of festivals are held in Oslo, such as Oslo Jazz festival, a six-day jazz festival which has been held annually in August for the past 25 years.[87] Oslo's biggest rock festival is Øyafestivalen or simply "Øya". It draws about 60,000 people to the Tøyen Park east in Oslo and lasts for four days.[88]
 
 The Oslo International Church Music Festival[89] has been held annually since 2000. The Oslo World Music Festival showcases people who are stars in their own country but strangers in Norway. The Oslo Chamber Music Festival is held in August every year and world-class chambers and soloists gather in Oslo to perform at this festival. The Norwegian Wood Rock Festival is held every year in June in Oslo.
 
@@ -276,7 +274,7 @@ Oslo has hosted the Eurovision Song Contest twice, in 1996 and 2010.
 
 Performing arts
 
-Nationaltheatret_Oslo_Front_at_Night.jpg is the largest theatre in Norway[95]]] Oslo houses over 20 theatres, such as the Norwegian Theatre and the National Theatre located at Karl Johan Street. The National Theatre is the largest theatre in Norway and is situated between the royal palace and the parliament building, Stortinget.[96] The names of Ludvig Holberg, Henrik Ibsen and Bjørnstjerne Bjørnson are engraved on the façade of the building over the main entrance. This theatre represents the actors and play-writers of the country but the songwriters, singers and dancers are represented in the form of a newly opened Oslo Opera House, situated in Bjørvika. The Opera was opened in 2008 and is a national landmark, designed by the Norwegian architectural firm, Snøhetta. There are two houses, together containing over 2000 seats. The building cost 500 million euro to build and took five years to build and is known for being the first Opera House in the world to let people walk on the roof of the building. The foyer and the roof are also used for concerts as well as the three stages.[97]
+is the largest theatre in Norway[95]]] Oslo houses over 20 theatres, such as the Norwegian Theatre and the National Theatre located at Karl Johan Street. The National Theatre is the largest theatre in Norway and is situated between the royal palace and the parliament building, Stortinget.[96] The names of Ludvig Holberg, Henrik Ibsen and Bjørnstjerne Bjørnson are engraved on the façade of the building over the main entrance. This theatre represents the actors and play-writers of the country but the songwriters, singers and dancers are represented in the form of a newly opened Oslo Opera House, situated in Bjørvika. The Opera was opened in 2008 and is a national landmark, designed by the Norwegian architectural firm, Snøhetta. There are two houses, together containing over 2000 seats. The building cost 500 million euro to build and took five years to build and is known for being the first Opera House in the world to let people walk on the roof of the building. The foyer and the roof are also used for concerts as well as the three stages.[97]
 
 Literature
 
@@ -292,7 +290,7 @@ The newspapers _Aftenposten_, _Dagbladet_, _Verdens Gang_, _Dagens Næringsliv_,
 
 Sports
 
-LIverpool_VS_Lyn_Bislett_Stadion.jpg during a friendly between Lyn Oslo and Liverpool F.C.]] Kavringen_brygge,_Oslo.jpg Oslo is home to the Holmenkollen National Arena and Holmenkollbakken, the country's main biathlon and Nordic skiing venues. It hosts annual world cup tournaments, including the Holmenkollen Ski Festival. Oslo hosted the Biathlon World Championships in 1986, 1990, 2000, 2002 and 2016. FIS Nordic World Ski Championships have been hosted in 1930, 1966, 1982 and 2011, as well as the 1952 Winter Olympics.
+during a friendly between Lyn Oslo and Liverpool F.C.]] Oslo is home to the Holmenkollen National Arena and Holmenkollbakken, the country's main biathlon and Nordic skiing venues. It hosts annual world cup tournaments, including the Holmenkollen Ski Festival. Oslo hosted the Biathlon World Championships in 1986, 1990, 2000, 2002 and 2016. FIS Nordic World Ski Championships have been hosted in 1930, 1966, 1982 and 2011, as well as the 1952 Winter Olympics.
 
 Oslo is the home of several football clubs in the Norwegian league system. Vålerenga, Lyn and Skeid have won both the league and the cup, while Mercantile SFK and Frigg have won the cup.
 
@@ -311,24 +309,24 @@ In 2018 Oslo is named one of Lonely Planet's Top Ten Cities. The travel guide's 
 
 Crime
 
-Norges_Høyesterett_Supreme_Court_of_Norway.jpg Oslo Police District is Norway's largest police district with over 2,300 employees. Over 1,700 of those are police officers, nearly 140 police lawyers and 500 civilian employees. Oslo Police District has five police stations located around the city at Grønland, Sentrum, Stovner, Majorstuen and Manglerud. The National Criminal Investigation Service is located in Oslo, which is a Norwegian special police division under the NMJP. PST is also located in the Oslo District. PST is a security agency which was established in 1936 and is one of the non-secret agencies in Norway. Oslo police stated that the capital is one of Europe's safest. Statistics have shown that crime in Oslo is on the rise, and some media have reported that there are four times as many thefts and robberies in Oslo than in New York City per capita.[102][103] According to the Oslo Police, they receive more than 15,000 reports of petty thefts annually. Fewer than one in a hundred cases get solved.[104]
+Oslo Police District is Norway's largest police district with over 2,300 employees. Over 1,700 of those are police officers, nearly 140 police lawyers and 500 civilian employees. Oslo Police District has five police stations located around the city at Grønland, Sentrum, Stovner, Majorstuen and Manglerud. The National Criminal Investigation Service is located in Oslo, which is a Norwegian special police division under the NMJP. PST is also located in the Oslo District. PST is a security agency which was established in 1936 and is one of the non-secret agencies in Norway. Oslo police stated that the capital is one of Europe's safest. Statistics have shown that crime in Oslo is on the rise, and some media have reported that there are four times as many thefts and robberies in Oslo than in New York City per capita.[102][103] According to the Oslo Police, they receive more than 15,000 reports of petty thefts annually. Fewer than one in a hundred cases get solved.[104]
 
 On 22 July 2011, Oslo was the site of one of two terrorist attacks: the bombing of Oslo government offices.[105]
 
 
 Transport
 
-+-------------------------------------+------------+-----------+-------------------+
-| Airports around Oslo                | Airport    | IATA/ICAO | Passengers (2013) |
-+=====================================+============+===========+===================+
-| OslDomEn.JPG                        | Gardermoen | OSL/ENGM  | 22,956,540        |
-+-------------------------------------+------------+-----------+-------------------+
-| Sandefjord_Lufthavn.jpg             | Torp       | TRF/ENTO  | 1,856,897         |
-+-------------------------------------+------------+-----------+-------------------+
-| Incheckning_Moss_Airport,_Rygge.JPG | Rygge      | RYG/ENRY  | 1,849,294         |
-+-------------------------------------+------------+-----------+-------------------+
++----------------------+------------+-----------+-------------------+
+| Airports around Oslo | Airport    | IATA/ICAO | Passengers (2013) |
++======================+============+===========+===================+
+|                      | Gardermoen | OSL/ENGM  | 22,956,540        |
++----------------------+------------+-----------+-------------------+
+|                      | Torp       | TRF/ENTO  | 1,856,897         |
++----------------------+------------+-----------+-------------------+
+|                      | Rygge      | RYG/ENRY  | 1,849,294         |
++----------------------+------------+-----------+-------------------+
 
-Oslo_S_aerial.jpg]] Oslo has Norway's most extensive public transport system, managed by Ruter.[106] This includes the six-line Oslo Metro,[107] the world's most extensive metro per resident, the six-line Oslo Tramway[108] and the eight-line Oslo Commuter Rail.[109] The tramway operates within the areas close to the city centre, while the metro, which runs underground through the city centre, operates to suburbs further away; this includes two lines that operate to Bærum, and the Ring Line which loops to areas north of the centre.[110] Oslo is also covered by a bus network consisting of 32 city lines, as well as regional buses to the neighboring county of Akershus.[111]
+]] Oslo has Norway's most extensive public transport system, managed by Ruter.[106] This includes the six-line Oslo Metro,[107] the world's most extensive metro per resident, the six-line Oslo Tramway[108] and the eight-line Oslo Commuter Rail.[109] The tramway operates within the areas close to the city centre, while the metro, which runs underground through the city centre, operates to suburbs further away; this includes two lines that operate to Bærum, and the Ring Line which loops to areas north of the centre.[110] Oslo is also covered by a bus network consisting of 32 city lines, as well as regional buses to the neighboring county of Akershus.[111]
 
 Oslo Central Station acts as the central hub,[112] and offers rail services to most major cities in southern Norway as well as Stockholm and Gothenburg in Sweden.[113] The Airport Express Train operates along the high-speed Gardermoen Line. The Drammen Line runs under the city centre in the Oslo Tunnel.[114] Some of the city islands and the neighbouring municipality of Nesodden are connected by ferry.[115] Daily cruiseferry services operate to Copenhagen and Frederikshavn in Denmark, and to Kiel in Germany.[116]
 
@@ -340,8 +338,6 @@ File:GMB BFM 71104 1.jpg|Flytoget – the Airport Express Train – a high-speed
 
 
 Demographics
-
-Oslo_population.svg
 
 +-------------------------------------------+
 | NUMBER OF MINORITIES (1ST AND 2ND GEN.)   |

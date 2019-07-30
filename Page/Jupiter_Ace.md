@@ -11,7 +11,7 @@ The new Ace
 
 The Jupiter Ace was named after the early British computer, the ACE.
 
-Jupiter-ACE_small_system_(modified).jpg The Jupiter ACE is often compared with ZX81 due to its similar size, low cost, and similar form factor.[4] Internally its design is more similar to the ZX Spectrum although the ACE also had a dedicated video memory of 2 kB, partly avoiding the slow down when programs accessed the same bank (same chips) as the video memory. Like the Spectrum, the Ace used black conductive rubber keys.
+The Jupiter ACE is often compared with ZX81 due to its similar size, low cost, and similar form factor.[4] Internally its design is more similar to the ZX Spectrum although the ACE also had a dedicated video memory of 2 kB, partly avoiding the slow down when programs accessed the same bank (same chips) as the video memory. Like the Spectrum, the Ace used black conductive rubber keys.
 
 Audio capabilities were CPU controlled with programmable frequency and duration. Sound output was through a small built-in speaker.
 
@@ -37,7 +37,7 @@ References to the ACE RAM sometimes include the separate 2 kB video memory, whic
 
 ACE's Forth
 
-Jupiter_Ace_vlist_png.png ACE's Forth was based mostly on Forth-79, with some relevant differences,[13] in particular it added syntax checking to control structures and definer constructions (a.k.a. "Safe Compiling"), and a few extra words were added based on common BASIC sound, video and tape commands. The implementation lacked some less frequently used Forth words, these being easily implemented if needed. Runtime error checking could be turned off to raise speed by 25% to 50%.
+ACE's Forth was based mostly on Forth-79, with some relevant differences,[13] in particular it added syntax checking to control structures and definer constructions (a.k.a. "Safe Compiling"), and a few extra words were added based on common BASIC sound, video and tape commands. The implementation lacked some less frequently used Forth words, these being easily implemented if needed. Runtime error checking could be turned off to raise speed by 25% to 50%.
 
 Decompiling
 
@@ -125,8 +125,6 @@ Commercial
 Despite being technically very interesting,[27] sales to the general public were limited by the use of Forth, when all other contemporary home computers used BASIC.[28] The lack of published software, the poor case and small initial memory were also factors.
 
 Models
-
-Jupiter_Ace_4000.jpg
 
 1982 - Original Jupiter ACE in a vacuum-drawn case - Reported 5000 units built.[29]
 

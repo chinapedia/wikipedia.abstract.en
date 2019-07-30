@@ -20,8 +20,6 @@ Small groups of foreign students from Europe or the Indian Ocean region are also
 
 Population
 
-Mauritius_demography.png
-
 According to the total population was in , compared to 479,000 in 1950.[5]
 
 The proportion of the population aged under 15 was 21.9% in 2010.[6] 71.2% were between 15 and 65 years of age, with 6.9% being 65 years or older.[7]
@@ -280,8 +278,6 @@ Life expectancy
 
 Language
 
-Port_Louis_vegetables.jpg
-
 The main languages spoken in Mauritius are English, French and Mauritian Creole. There is no official language. English is the official language of the parliament, though French is also permitted. However, the lingua franca is Mauritian Creole and the newspapers and television programs are usually in French.[13]
 
 Mauritian Creole, which is spoken by 90 percent of the population, is considered to be the native language of the country and is used most often in informal settings.[14] It was developed in the 18th century by slaves who used a pidgin language to communicate with each other as well as with their French masters, who did not understand the various African languages. The pidgin evolved with later generations to become a casual language.[15]
@@ -313,8 +309,6 @@ Population:
     1,364,283 (July 2018 est.)
 
 Age structure:
-
-Mauritiuspop.svg
 
     _0-14 years:_ 19.9% (male 138,707 /female 132,774)
     _15-24 years:_ 14.52% (male 100,281 /female 97,836)

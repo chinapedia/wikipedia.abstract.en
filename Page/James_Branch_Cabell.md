@@ -7,7 +7,7 @@ Interest in Cabell declined in the 1930s, a decline that has been attributed in 
 
 Life
 
-James_Branch_Cabell_1893.jpg Cabell was born into an affluent and well-connected Virginian family, and lived most of his life in Richmond. The first Cabell settled in Virginia in 1664; Cabell's paternal great-grandfather, William H. Cabell, was Governor of the Commonwealth from 1805 to 1808. Cabell County in West Virginia is named after the Governor. James Branch Cabell's grandfather, Robert Gamble Cabell, was a physician; his father, Robert Gamble Cabell II (1847–1922), had an MD, but practiced as a druggist; his mother, Anne Harris (1859–1915), was the daughter of Lieutenant Colonel James R. Branch, of the Army of the Confederate States of America. James was the oldest of three boys—his brothers were Robert Gamble Cabell III (1881–1968) and John Lottier Cabell (1883–1946). His parents separated and were later divorced in 1907.[5] His aunt was the suffragist and educationist Mary-Cooke Branch Munford.[6]
+Cabell was born into an affluent and well-connected Virginian family, and lived most of his life in Richmond. The first Cabell settled in Virginia in 1664; Cabell's paternal great-grandfather, William H. Cabell, was Governor of the Commonwealth from 1805 to 1808. Cabell County in West Virginia is named after the Governor. James Branch Cabell's grandfather, Robert Gamble Cabell, was a physician; his father, Robert Gamble Cabell II (1847–1922), had an MD, but practiced as a druggist; his mother, Anne Harris (1859–1915), was the daughter of Lieutenant Colonel James R. Branch, of the Army of the Confederate States of America. James was the oldest of three boys—his brothers were Robert Gamble Cabell III (1881–1968) and John Lottier Cabell (1883–1946). His parents separated and were later divorced in 1907.[5] His aunt was the suffragist and educationist Mary-Cooke Branch Munford.[6]
 
 Although Cabell's surname is often mispronounced "Ka-BELL", he himself pronounced it "CAB-ble." To remind an editor of the correct pronunciation, Cabell composed this rhyme: "Tell the rabble my name is Cabell."
 
@@ -33,7 +33,7 @@ More recently, VCU spent over $50 million to expand and modernize the James Bran
 
 Works
 
-Jurgen_first.jpg of _Jurgen, A Comedy of Justice_]]
+of _Jurgen, A Comedy of Justice_]]
 
 _Jurgen_
 

@@ -46,8 +46,6 @@ For over a year, Kabir starred in _The Bold and the Beautiful_, the second most-
 
 He had his own cinematic talk show on Indian TV, _"Director's Cut"_, a 13-part special series interviewing the country's leading directors. His success on television continued in 2013 with award-winning prime-time shows “_Guns and Glory: The Indian Soldier_” & “_Vandemataram_”, for India’s news channels - Headlines Today & Aaj Tak.[14]
 
-Knighthood_close-up.jpg
-
 In the Indian Biblical television series 'Bible Ki Kahaniya', Bedi played both the young and aged Abraham.
 
 Radio career

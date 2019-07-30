@@ -1,4 +1,4 @@
-Baltic_Necklace_(BM).JPG, Latvia dating to 12th century AD now in the British Museum.[1]
+, Latvia dating to 12th century AD now in the British Museum.[1]
 
 ]]
 
@@ -17,7 +17,7 @@ Latvia's economy suffered greatly during the Great Recession which caused the 20
 
 Prehistory
 
-Corded_Ware_culture.png area included Latvia]] CombCeramicPottery.jpg Sarnates_apmetnes_depozits-1a.jpg Slav-7-8-obrez.png The Ice Age in the territory of present day Latvia ended 14,000–12,000 years ago. The first human settlers arrived here during the Paleolithic Age 11,000–12,000 years ago. They were hunters, who following the reindeer herds camped along the rivers and shore of the Baltic Ice Lake. As geology of the Baltic Sea indicates, the coastline then reached further inland. The earliest tools found near Salaspils date to the late Paleolithic age, circa 12,000 years ago, and belong to the Swiderian culture.
+area included Latvia]] The Ice Age in the territory of present day Latvia ended 14,000–12,000 years ago. The first human settlers arrived here during the Paleolithic Age 11,000–12,000 years ago. They were hunters, who following the reindeer herds camped along the rivers and shore of the Baltic Ice Lake. As geology of the Baltic Sea indicates, the coastline then reached further inland. The earliest tools found near Salaspils date to the late Paleolithic age, circa 12,000 years ago, and belong to the Swiderian culture.
 
 During the Mesolithic Age (9000 – 5400 BC) permanent settlements of hunter-gatherers were established. They hunted and fished, establishing camps near rivers and lakes; 25 settlements have been found near Lake Lubāns. These people from the Kunda culture made weapons and tools from flint, antler, bone and wood.[3]
 
@@ -33,7 +33,7 @@ Bronze Age, 1800 BC – 500 BC
 
 Iron Age, 500 BC – 1200 AD
 
-Āraišu_ezerpils_2001-05-26.jpg dates back to the late Iron Age]] With introduction of iron tools during the early Iron Age (500 BC – 1st cent. BC) agriculture was greatly improved and emerged as the dominant economic activity. Bronze, which was traded from foreigners because Latvia has no copper or tin, was used for making a wide variety of decorative ornaments.[5]
+dates back to the late Iron Age]] With introduction of iron tools during the early Iron Age (500 BC – 1st cent. BC) agriculture was greatly improved and emerged as the dominant economic activity. Bronze, which was traded from foreigners because Latvia has no copper or tin, was used for making a wide variety of decorative ornaments.[5]
 
 Starting from the Middle Iron Age (400–800 AD) the local inhabitants began to form distinct ethnic and regional identities. Baltic tribesmen eventually became Curonians, Semigallians, Latgalians and Selonians, while Finno-Ugric people became Livonians, Estonians and Vends; local chiefdoms emerged.
 
@@ -46,7 +46,7 @@ During the Late Iron Age (800–1200 AD) the three-field system was introduced, 
 
 Early state formations
 
-Baltic_Tribes_c_1200.svg Jersika.jpg In the 10th century, the various ancient Baltic tribal chiefdoms started forming early realms. Regional tribal cultures developed in the territory of modern-day Latvia and northern Lithuania, including the Curonians, Latgalians, Selonians, Semigallians () and Livonians, who united under their local chiefs.
+In the 10th century, the various ancient Baltic tribal chiefdoms started forming early realms. Regional tribal cultures developed in the territory of modern-day Latvia and northern Lithuania, including the Curonians, Latgalians, Selonians, Semigallians () and Livonians, who united under their local chiefs.
 
 The largest tribe was the Latgalians who also were the most advanced in their socio-political development. The main Latgalian principality, Jersika, was ruled by Greek Orthodox princes from the Latgalian-Polotsk branch of the Rurik dynasty. The last ruler of Jersika, mentioned in the Chronicle of Henry of Livonia (a document that describes events of the late 12th and early 13th centuries) was King Visvaldis (_Vissewalde, rex de Gercike_). When he divided his realm in 1211, part of the country was called "Lettia" (_terra, quae Lettia dicitur_), probably the first time this name is mentioned in written sources.
 
@@ -59,7 +59,7 @@ Before the German invasions started in late 12th century, Latvia was inhabited b
 
 German period, 1185–1561
 
-Ikšķiles_katoļu_baznīcas_drupas_2001-08-19.jpg in 1185]] Medieval_Livonia_1260.svg in 1260.]] By the end of the 12th century, Latvia was increasingly often visited by traders from Western Europe who set out on trading journeys along Latvia's longest river, the Daugava, to Kievan Rus'. Among them were German traders who came with Christian preachers who attempted to convert the pagan Baltic and Finno-Ugric tribes to the Christian faith.
+in 1185]] in 1260.]] By the end of the 12th century, Latvia was increasingly often visited by traders from Western Europe who set out on trading journeys along Latvia's longest river, the Daugava, to Kievan Rus'. Among them were German traders who came with Christian preachers who attempted to convert the pagan Baltic and Finno-Ugric tribes to the Christian faith.
 
 In early 1180s Saint Meinhard began his mission among Daugava Livonians. They did not willingly convert to the new beliefs and practices, they particularly opposed the ritual of baptism. News of this reached Pope Celestine III in Rome, and it was decided in 1195 that Livonian Crusade would be undertaken to convert pagans by force. Meinhard was followed by Berthold of Hanover, who was killed in 1198 near the present-day Riga by Livonians.
 
@@ -90,7 +90,7 @@ LivonianOrder.svg|The seal of Livonian order Teutonic Order 1260.png|Conquest of
 
 Livonian War, 1558–1583
 
-Livland1560-85.gif Livonian war put an end to the Livonian Confederacy. Despite the very real threat of Muscovite rule over the whole Livonia, Western Christian countries managed to establish their control over this area for the next 150 – 200 years.
+Livonian war put an end to the Livonian Confederacy. Despite the very real threat of Muscovite rule over the whole Livonia, Western Christian countries managed to establish their control over this area for the next 150 – 200 years.
 
 In September 1557 the Livonian Confederation and the Polish–Lithuanian union signed the Treaty of Pozvol, which created a mutual defensive and offensive alliance. Tsar Ivan the Terrible of Muscovy regarded this as a provocation, and in January 1558 he reacted with the invasion of Livonia that began the Livonian War of 1558–83. On August 2, 1560 the forces of Ivan the Terrible destroyed the last few hundred soldiers of the Livonian Order and the Archbishop of Riga at the Battle of Ērģeme.
 
@@ -98,7 +98,7 @@ In 1561 the weakened Livonian Order was dissolved by the Treaty of Vilnius. Very
 
 Kingdom of Livonia, 1570–1578
 
-Livonian_war_map_(1570-1577)-es.svg In 1560 Johannes IV von Münchhausen, the prince-bishop of Ösel-Wiek and Courland, sold his lands to king Frederick II of Denmark for 30,000 thalers. To avoid partition of his lands, King Frederick II gave these territories to his younger brother Magnus, Duke of Holstein on condition that he renounce his rights to succession in the duchies of Schleswig and Holstein. Magnus was recognised as sovereign by the Bishop of Ösel-Wiek and Courland and as the prospective ruler of his lands by the authorities of The Bishopric of Dorpat. The Bishopric of Reval with the Harrien-Wierland gentry took his side. Gotthard Kettler, the last Master of the Livonian Order, gave Magnus the portions of Livonia he had taken possession of, along with Archbishop Wilhelm von Brandenburg of the Archbishopric of Riga and his coadjutor Christoph von Mecklenburg.
+In 1560 Johannes IV von Münchhausen, the prince-bishop of Ösel-Wiek and Courland, sold his lands to king Frederick II of Denmark for 30,000 thalers. To avoid partition of his lands, King Frederick II gave these territories to his younger brother Magnus, Duke of Holstein on condition that he renounce his rights to succession in the duchies of Schleswig and Holstein. Magnus was recognised as sovereign by the Bishop of Ösel-Wiek and Courland and as the prospective ruler of his lands by the authorities of The Bishopric of Dorpat. The Bishopric of Reval with the Harrien-Wierland gentry took his side. Gotthard Kettler, the last Master of the Livonian Order, gave Magnus the portions of Livonia he had taken possession of, along with Archbishop Wilhelm von Brandenburg of the Archbishopric of Riga and his coadjutor Christoph von Mecklenburg.
 
 On June 10, 1570 Duke Magnus of Holstein arrived in Moscow, where he was crowned King of Livonia. Magnus took an oath of allegiance to Ivan the Terrible as his overlord and received from him the corresponding charter for the vassal kingdom of Livonia in what Ivan termed his patrimony. The armies of Ivan the Terrible were initially successful, taking Polotsk in 1563 and Pärnu in 1575 and overrunning much of Grand Duchy of Lithuania up to Vilnius.
 
@@ -113,7 +113,7 @@ Polish-Lithuanian and Swedish rule, 1561–1721/95
 
 Duchy of Livonia, 1561–1621
 
-Podział_administracyjny_I_RP.svg Territorial_changes_of_Poland_1655.jpg]] Jan Hieronimowicz Chodkiewicz became the first Governor of the Duchy (1566–1578) with the seat in Sigulda Castle. It was a province of Grand Duchy of Lithuania until 1569. After the Union of Lublin in 1569, it became a joint domain of the Polish Crown and the Grand Duchy. Muscovy recognized Polish–Lithuanian control of Ducatus Ultradunensis in 1582.
+]] Jan Hieronimowicz Chodkiewicz became the first Governor of the Duchy (1566–1578) with the seat in Sigulda Castle. It was a province of Grand Duchy of Lithuania until 1569. After the Union of Lublin in 1569, it became a joint domain of the Polish Crown and the Grand Duchy. Muscovy recognized Polish–Lithuanian control of Ducatus Ultradunensis in 1582.
 
 In 1598 Duchy of Livonia was divided onto:
 
@@ -127,7 +127,7 @@ The larger part of the Duchy was conquered by Swedish Kingdom during the Polish�
 
 Swedish Livonia, 1629–1721
 
-17cenBaltic.jpg During the Polish–Swedish War (1600–1629) Riga and the largest part of Duchy of Livonia came under Swedish rule in 1621. During the Swedish rule this region was known as the "Swedish Bread Basket" because it supplied the larger part of the Swedish Kingdom with wheat.
+During the Polish–Swedish War (1600–1629) Riga and the largest part of Duchy of Livonia came under Swedish rule in 1621. During the Swedish rule this region was known as the "Swedish Bread Basket" because it supplied the larger part of the Swedish Kingdom with wheat.
 
 Riga was the second largest city in the Swedish Empire at the time. Together with other Baltic Sea dominions, Livonia served to secure the Swedish _Dominium maris baltici_. In contrast to Swedish Estonia, which had submitted to Swedish rule voluntarily in 1561 and where traditional local laws remained largely untouched, the uniformity policy was applied in Swedish Livonia under Karl XI of Sweden: serfdom was abolished in the estates owned by the Swedish crown, peasants were offered education and military, administrative or ecclesiastical careers, and nobles had to transfer domains to the king in the Great Reduction. These reforms were subsequently reversed by Peter I of Russia when he conquered Livonia.
 
@@ -135,7 +135,7 @@ In 1632 the Swedish king Gustavus Adolphus founded Dorpat University which becam
 
 Duchy of Courland and Semigallia, 1562–1795
 
-Duchy_of_Courland_&_Semigallia_1740.svg After Gotthard Kettler became the first duke, other members of the Order became the nobility, with their fiefdoms becoming their estates. Kettler received nearly one-third of the land in the new duchy. Mitau (Jelgava) was designated as the capital and a Landtag was to meet there twice a year.
+After Gotthard Kettler became the first duke, other members of the Order became the nobility, with their fiefdoms becoming their estates. Kettler received nearly one-third of the land in the new duchy. Mitau (Jelgava) was designated as the capital and a Landtag was to meet there twice a year.
 
 When Gotthard Kettler died in 1587, his sons Friedrich and Wilhelm became the dukes of Courland. They divided the Duchy into two parts in 1596. Friedrich controlled the eastern part, Semigalia (_Zemgale_), with his residence in Mitau (Jelgava). Wilhelm owned the western part, Courland (_Kurzeme_), with his residence in Goldingen (Kuldīga). Wilhelm regained the Grobiņa district when he married the daughter of the Duke of Prussia. Here he developed metalworking, shipyards, and the new ships delivered the goods of Courland to other countries. Wilhelm's conflict with local nobles ended with his removal from the duke's seat in 1616 and Friedrich became the only duke of Courland after 1616.
 
@@ -154,17 +154,15 @@ Riga1612.jpg|Riga in 1612 The siege of Riga 1656.jpg|Siege of Riga in 1656 20011
 
 Russian period, 1721/95–1915/18
 
-Darstellung_der_neuen_auf_Keiserl(ichen)_Befehl_i._J._1783.jpeg In 1700 the Great Northern War between Sweden and Russia started largely because Peter the Great wanted to secure and enlarge Russian access to the Baltic ports. In 1710 Russians conquered Riga and Estonia and Livonia capitulated. Losses from the military actions were multiplied by the Great Northern War plague outbreak which killed up to 75% of people in some areas.
+In 1700 the Great Northern War between Sweden and Russia started largely because Peter the Great wanted to secure and enlarge Russian access to the Baltic ports. In 1710 Russians conquered Riga and Estonia and Livonia capitulated. Losses from the military actions were multiplied by the Great Northern War plague outbreak which killed up to 75% of people in some areas.
 
-In 1713 Peter established the Riga Governorate, and after various administrative and territorial reforms, Governorate of Livonia was finally established in 1796. Latvians call it Vidzeme Governorate (_Vidzemes guberņa_). Sweden officially gave up its claims to Swedish Livonia with the 1721 Treaty of Nystad. The Treaty enshrined the existing privileges and freedoms of the German Baltic nobility. They were allowed to maintain their financial system, existing customs border, self-governing provincial Landtags and city councils, Lutheran religion and German language. This special position in the Russian Empire was reconfirmed by all Russian Emperors from Peter the Great (reigned 1682–1725) to Alexander II [10] (reigned 1855-1881). Only the 1889 judicial reform imposed Russian laws and a program of Russification enforced school education in Russian. Nikolaja_vārti_(Daugavpils_cietoksnis).JPG After the First Partition of Poland in 1772 Russia gained Inflanty Voivodeship which was first included in the Mogilev Governorate and after 1802 in Vitebsk Governorate. This led to increased cultural and linguistic separation of Latgalians from the rest of ethnic Latvians. A large Daugavpils fortress was built here.
+In 1713 Peter established the Riga Governorate, and after various administrative and territorial reforms, Governorate of Livonia was finally established in 1796. Latvians call it Vidzeme Governorate (_Vidzemes guberņa_). Sweden officially gave up its claims to Swedish Livonia with the 1721 Treaty of Nystad. The Treaty enshrined the existing privileges and freedoms of the German Baltic nobility. They were allowed to maintain their financial system, existing customs border, self-governing provincial Landtags and city councils, Lutheran religion and German language. This special position in the Russian Empire was reconfirmed by all Russian Emperors from Peter the Great (reigned 1682–1725) to Alexander II [10] (reigned 1855-1881). Only the 1889 judicial reform imposed Russian laws and a program of Russification enforced school education in Russian. After the First Partition of Poland in 1772 Russia gained Inflanty Voivodeship which was first included in the Mogilev Governorate and after 1802 in Vitebsk Governorate. This led to increased cultural and linguistic separation of Latgalians from the rest of ethnic Latvians. A large Daugavpils fortress was built here.
 
 After the Third Partition of Poland and financial settlement with the last Duke of Courland and Semigallia in 1795 the Courland Governorate was created in which the Germans retained their privileges and autonomy for another century. Russian empire now possessed all the territories inhabited by Latvians.
 
 In 1812 Napoleon's troops invaded Russia and the Prussian units under the leadership of the field marshal Yorck occupied Courland and approached Riga and the Battle of Mesoten was fought. Napoleon proclaimed restoration of Duchy of Courland and Semigallia under French and Polish protectorate. The Russian governor-general of Riga Ivan Essen was expecting attack, and set the wooden houses of Riga suburbs on fire to deflect the invaders leaving thousands of city residents homeless. However, Yorck did not attack Riga and in December the Napoleon's army retreated.
 
 Emancipation of peasantry
-
-Peasants-speading-hay-for-drying-by-Brotze.jpg
 
 Livonian peasant law, 1804
 
@@ -204,7 +202,7 @@ In 1571 the first Jews were invited to settle in Piltene and a Courland Jewish c
 
 Latvian National Awakening
 
-Krišjānis_Barons_1910.gads.jpg Latvian_Song_festival_2008.jpg Latvian national awakening could start after the emancipation of serfs and growth in literacy and education rates. Educated Latvians no longer wanted to be Germanized.
+Latvian national awakening could start after the emancipation of serfs and growth in literacy and education rates. Educated Latvians no longer wanted to be Germanized.
 
 In 1822 _Latviešu avīzes_ the first weekly in Latvian began publishing. In 1832 weekly _Tas Latviešu Ļaužu Draugs_ began publishing. The first Latvian writers who wrote in Latvian appeared – Ansis Liventāls (1803–77), Jānis Ruģēns (1817–76) and others. In 1839 institute for the elementary school teachers led by Jānis Cimze opened in Valmiera.
 
@@ -233,7 +231,7 @@ Jānis Rainis.jpg|Jānis Rainis, ca. 1900 Brīvības piemineklis-1905 gads.png|L
 
 World War I
 
-1916_Zariņš_Tēvuzemei_Grūti_Laiki.jpg On August 1, 1914 Germany declared war on Russia. Since Courland Governorate had a direct border with Germany it was immediately involved in warfare. On August 2 German warships SMS Augsburg and SMS Magdeburg shelled port city Liepāja, causing it light damage. On August 19 German navy tried to capture Užava Lighthouse but were repelled, after which German artillery destroyed it. In October British submarines HMS E1 and HMS E9 from the British submarine flotilla in the Baltic arrived in Liepāja. On November 17 German navy again shelled Liepāja and military installations of Karosta damaging some 100 buildings.
+On August 1, 1914 Germany declared war on Russia. Since Courland Governorate had a direct border with Germany it was immediately involved in warfare. On August 2 German warships SMS Augsburg and SMS Magdeburg shelled port city Liepāja, causing it light damage. On August 19 German navy tried to capture Užava Lighthouse but were repelled, after which German artillery destroyed it. In October British submarines HMS E1 and HMS E9 from the British submarine flotilla in the Baltic arrived in Liepāja. On November 17 German navy again shelled Liepāja and military installations of Karosta damaging some 100 buildings.
 
 Many Latvians served in the Russian units stationed at German border and took part in Russian invasion of East Prussia. They participated in the early battles of First Battle of the Masurian Lakes, Second Battle of the Masurian Lakes and Battle of Augustow; total Latvian losses during these battles might have reached 25,000 dead.[19]
 
@@ -264,7 +262,7 @@ SMSAugsburg.jpg|SMS Augsburg on August 4, 1914 Strelnieki.JPG|Volunteer riflemen
 
 Competing statehood movements, 1917–20
 
-Iskolata_karogs.png Flag_of_Latvia.svg ValgaTownHall.jpg in Estonia.]] Adolf_Friedrich_of_Mecklenburg_(vor_1910).png Anerkennung_Lettland_26-11-1918.png The_British_Naval_Campaign_in_the_Baltic,_1918-1919_Q19378.jpg PL-RU_war_1919_phase_I.svg Holiday_decorations_to_May_1._1919._Riga_(1).jpg 5_Latvian_Roubles_1919.jpg PL-RU_war_1919_phase_II.svg
+in Estonia.]]
 
 The course of World War I, which directly involved Latvians and Latvian territory, led to the idea of Latvian statehood. During the summer of 1915 German army conquered Kurzeme and Zemgale, which caused a virtual exodus of Latvians from these two provinces. Local politicians gained experience organizing refugee relief and Latvian refugee cultural life. Caught between the attacking Germans and incompetent Russians, Latvian riflemen (_latviešu strēlnieki_) bravely fought on the Russian side during this war and became increasingly radicalized after repeated setbacks under czarist generals. During the Russian Civil War a significant group (known as Red riflemen) fought for Bolsheviks. Meanwhile, German Empire and local Baltic Germans were planning to annex the ancient Livonian and Estonian lands to their Empire. During the chaotic period of Russian and German empire collapses, February Revolution and Bolshevik revolution, Soviet westward offensive and onset of the Russian Civil War there were various efforts to establish a state in Latvia. Not all of them were aimed at establishing an independent state or even a Latvian state.
 
@@ -472,13 +470,13 @@ Bundesarchiv Bild 101I-771-0356-01, Lettland, zerstörter sowjetischer Panzer.jp
 
 Soviet era, 1944–1990
 
-Riga_Fernsehturm_Blick_von_der_Aussichtsplattform_auf_die_Akademie_der_Wissenschaften.JPG In 1944, when the Soviet military advances reached the area heavy fighting took place in Latvia between German and Soviet troops, which ended with another German defeat. Riga was re-captured by the Soviet Red Army on October 13, 1944 while the Courland Pocket held out until May 9, 1945. During the course of the war, both occupying forces conscripted Latvians into their armies, in this way increasing the loss of the nation's "live resources". In 1944, part of the Latvian territory once more came under Soviet control and Latvian national partisans began their fight against another occupier – the Soviet Union. 160,000 Latvian inhabitants took refuge from the Soviet army by fleeing to Germany and Sweden.
+In 1944, when the Soviet military advances reached the area heavy fighting took place in Latvia between German and Soviet troops, which ended with another German defeat. Riga was re-captured by the Soviet Red Army on October 13, 1944 while the Courland Pocket held out until May 9, 1945. During the course of the war, both occupying forces conscripted Latvians into their armies, in this way increasing the loss of the nation's "live resources". In 1944, part of the Latvian territory once more came under Soviet control and Latvian national partisans began their fight against another occupier – the Soviet Union. 160,000 Latvian inhabitants took refuge from the Soviet army by fleeing to Germany and Sweden.
 
 On the other side, many Latvians who had previously supported Bolshevism had chosen to remain in Soviet Russia, where they wielded disproportionate influence in the party.[50] Latvian theatres, Latvian publishing houses, Latvian clubs, were all present in Soviet Russia, a whole culture all wiped out from 1937 onwards when, accused of fascist, nationalist or counter-revolutionary sympathies, Latvians were purged in their thousands.[51]
 
 Stalinist terror
 
-The first post-war years were marked by particularly dismal and sombre events in the fate of the Latvian nation. On March 25, 1949, 43,000 rural residents ("kulaks") and Latvian patriots ("nationalists") were deported to Siberia in a sweeping repressive Operation Priboi in all three Baltic States, which was carefully planned and approved in Moscow already on January 29, 1949. Altogether 120,000 Latvian inhabitants were imprisoned or deported to Soviet concentration camps (the Gulag). Some managed to escape arrest and joined the partisans. Flag_of_the_Latvian_Soviet_Socialist_Republic.svg.]] In the post-war period, Latvia was forced to adopt Soviet farming methods and the economic infrastructure developed in the 1920s and 1930s was eradicated. Rural areas were forced into collectivisation. The massive influx of labourers, administrators, military personnel and their dependents from Russia and other Soviet republics started. By 1959 about 400,000 persons arrived from other Soviet republics and the ethnic Latvian population had fallen to 62%.[52] An extensive programme to impose bilingualism was initiated in Latvia, limiting the use of Latvian language in favor of Russian. All of the minority schools (Jewish, Polish, Belarusian, Estonian, Lithuanian) were closed down leaving only two languages of instructions in the schools- Latvian and Russian.[53] The Russian language were taught notably, as well as Russian literature, music and history of Soviet Union (actually- history of Russia).
+The first post-war years were marked by particularly dismal and sombre events in the fate of the Latvian nation. On March 25, 1949, 43,000 rural residents ("kulaks") and Latvian patriots ("nationalists") were deported to Siberia in a sweeping repressive Operation Priboi in all three Baltic States, which was carefully planned and approved in Moscow already on January 29, 1949. Altogether 120,000 Latvian inhabitants were imprisoned or deported to Soviet concentration camps (the Gulag). Some managed to escape arrest and joined the partisans. .]] In the post-war period, Latvia was forced to adopt Soviet farming methods and the economic infrastructure developed in the 1920s and 1930s was eradicated. Rural areas were forced into collectivisation. The massive influx of labourers, administrators, military personnel and their dependents from Russia and other Soviet republics started. By 1959 about 400,000 persons arrived from other Soviet republics and the ethnic Latvian population had fallen to 62%.[52] An extensive programme to impose bilingualism was initiated in Latvia, limiting the use of Latvian language in favor of Russian. All of the minority schools (Jewish, Polish, Belarusian, Estonian, Lithuanian) were closed down leaving only two languages of instructions in the schools- Latvian and Russian.[53] The Russian language were taught notably, as well as Russian literature, music and history of Soviet Union (actually- history of Russia).
 
 Purge of national communists
 
@@ -495,7 +493,7 @@ File:Gauja portable radio 1961.JPG|Portable radio built in RRR File:Riga 1980 4k
 
 Restoration of independence
 
-Riga_barricade_1991.jpg Liberalization in the communist regime began in the mid-1980s in the USSR with the perestroika and glasnost instituted by Mikhail Gorbachev. In Latvia, several mass political organizations were constituted that made use of this opportunity – Popular Front of Latvia (Tautas Fronte), Latvian National Independence Movement (Latvijas Nacionālās Neatkarības Kustība) and Citizens' Congress (Pilsoņu kongress). These groups began to agitate for the restoration of national independence.
+Liberalization in the communist regime began in the mid-1980s in the USSR with the perestroika and glasnost instituted by Mikhail Gorbachev. In Latvia, several mass political organizations were constituted that made use of this opportunity – Popular Front of Latvia (Tautas Fronte), Latvian National Independence Movement (Latvijas Nacionālās Neatkarības Kustība) and Citizens' Congress (Pilsoņu kongress). These groups began to agitate for the restoration of national independence.
 
 On the 50th anniversary of the Molotov-Ribbentrop pact (August 23, 1989) to the fate of the Baltic nations, Latvians, Lithuanians and Estonians joined hands in a human chain, the Baltic Way, that stretched 600 kilometers from Tallinn, to Riga, to Vilnius. It symbolically represented the united wish of the Baltic States for independence.
 
@@ -504,7 +502,7 @@ Subsequent steps toward full independence were taken on May 4, 1990. The Latvian
 
 Modern history
 
-GW_Bush_in_Riga_2005.jpg, Vaira Vīķe-Freiberga, Arnold Rüütel, and Valdas Adamkus in Riga, May 7, 2005.]] Soon after reinstating independence, Latvia, which had been a member of the League of Nations prior to World War II, became a member of the United Nations. In 1992, Latvia became eligible for the International Monetary Fund and in 1994 took part in the NATO _Partnership for Peace_ program in addition to signing the free trade agreement with the European Union. Latvia became a member of the European Council as well as a candidate for the membership in the European Union and NATO. Latvia was the first of the three Baltic nations to be accepted into the World Trade Organization.
+, Vaira Vīķe-Freiberga, Arnold Rüütel, and Valdas Adamkus in Riga, May 7, 2005.]] Soon after reinstating independence, Latvia, which had been a member of the League of Nations prior to World War II, became a member of the United Nations. In 1992, Latvia became eligible for the International Monetary Fund and in 1994 took part in the NATO _Partnership for Peace_ program in addition to signing the free trade agreement with the European Union. Latvia became a member of the European Council as well as a candidate for the membership in the European Union and NATO. Latvia was the first of the three Baltic nations to be accepted into the World Trade Organization.
 
 At the end of 1999 in Helsinki, the heads of the European Union governments invited Latvia to begin negotiations regarding accession to the European Union. In 2004, Latvia's most important foreign policy goals, membership of the European Union and NATO, were fulfilled. On April 2, Latvia became a member of NATO and on May 1, Latvia, along with the other two Baltic States, became a member of the European Union. Around 67% had voted in favor of EU membership in a September 2003 referendum with turnout at 72.5%.
 

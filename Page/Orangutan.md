@@ -52,7 +52,7 @@ Some fossils described under the name _P. hooijeri_ have been found in Vietnam,
 
 Genomics
 
-Bornean,_Sumatran_&_Tapanuli_orangs_(horizontal).jpg The Sumatran orangutan genome was sequenced in January 2011.[31][32] Following humans and chimpanzees, the Sumatran orangutan became the third species of hominid to have its genome sequenced. Subsequently, the Bornean species had its genome sequenced. Genetic diversity was found to be lower in Bornean orangutans (_P. pygmaeus_) than in Sumatran ones (_P. abelii_), despite the fact that Borneo is home to six or seven times as many orangutans as Sumatra.[33]
+The Sumatran orangutan genome was sequenced in January 2011.[31][32] Following humans and chimpanzees, the Sumatran orangutan became the third species of hominid to have its genome sequenced. Subsequently, the Bornean species had its genome sequenced. Genetic diversity was found to be lower in Bornean orangutans (_P. pygmaeus_) than in Sumatran ones (_P. abelii_), despite the fact that Borneo is home to six or seven times as many orangutans as Sumatra.[33]
 
 The comparison has shown these two species diverged around 400,000 years ago, more recently than was previously thought. Also, the orangutan genome was found to have evolved much more slowly than chimpanzee and human DNA.[34] Previously, the species was estimated to have diverged 2.9 to 4.9 mya.[35] The researchers hope these data may help conservationists save the endangered ape, and also prove useful in further understanding of human genetic diseases.[36] Bornean orangutans have 48 diploid chromosomes.[37]
 
@@ -61,7 +61,7 @@ However, nuclear DNA sequence comparisons reported in 2017 suggest that Tapanuli
 
 Anatomy and physiology
 
-Orang-Utan_Tournai.jpg An orangutan has a large, bulky body, a thick neck, very long, strong arms, short, bowed legs, and no tail. It is mostly covered with long, reddish-brown hair and grey-black skin. Sumatran orangutans have more sparse and lighter-coloured coats.[42] The orangutan has a large head with a prominent mouth area. Though largely hairless, their faces can develop some hair in males, giving them a moustache.[43]
+An orangutan has a large, bulky body, a thick neck, very long, strong arms, short, bowed legs, and no tail. It is mostly covered with long, reddish-brown hair and grey-black skin. Sumatran orangutans have more sparse and lighter-coloured coats.[42] The orangutan has a large head with a prominent mouth area. Though largely hairless, their faces can develop some hair in males, giving them a moustache.[43]
 
 Adult males have large cheek flaps[44] to show their dominance to other males. The cheek flaps are made mostly of fatty tissue and are supported by the musculature of the face.[45] Mature males' throat pouches allow them to make loud calls.[46] The species display significant sexual dimorphism; females typically stand tall and weigh around , while flanged adult males stand tall and weigh .[47] A male orangutan has an arm span of about .[48]
 
@@ -74,11 +74,9 @@ Ecology and behaviour
 
 Orangutans live in primary and old secondary forests, particularly dipterocarp forests and peat swamp forests. Both species can be found in mountainous and lowland swampy areas. Sumatran orangutans live at elevations as high as 1500 m (4921 ft), while Bornean orangutans live no higher than 1000 m (3281 ft).[55] Other habitats used by orangutans include grasslands, cultivated fields, gardens, young secondary forest, and shallow lakes.[56] Orangutans are the most arboreal of the great apes, spending nearly all their time in the trees.
 
-Video_wild_orangutan_Borneo.webm Most of the day is spent feeding, resting, and travelling. They start the day feeding for 2–3 hours in the morning. They rest during midday then travel in the late afternoon. When evening arrives, they begin to prepare their nests for the night.[57] Orangutans do not swim, although they have been recorded wading in water.[58] The main predators of orangutans are tigers. Other predators include clouded leopards, wild dogs and crocodiles.[59] The absence of tigers on Borneo may explain why Bornean orangutans can be found on the ground more often than their Sumatran relatives.[60]
+Most of the day is spent feeding, resting, and travelling. They start the day feeding for 2–3 hours in the morning. They rest during midday then travel in the late afternoon. When evening arrives, they begin to prepare their nests for the night.[57] Orangutans do not swim, although they have been recorded wading in water.[58] The main predators of orangutans are tigers. Other predators include clouded leopards, wild dogs and crocodiles.[59] The absence of tigers on Borneo may explain why Bornean orangutans can be found on the ground more often than their Sumatran relatives.[60]
 
 Diet
-
-Orangutan_-Zoologischer_Garten_Berlin-8a.jpg
 
 Orangutans are opportunistic foragers, and their diets vary markedly from month to month.[61] Fruit makes up 65–90% of the orangutan diet, and those with sugary or fatty pulp are favoured. Ficus fruits are commonly eaten and are easy to harvest and digest. Lowland dipterocarp forests are preferred by orangutans because of their plentiful fruit. Bornean orangutans consume at least 317 different food items that include young leaves, shoots, bark, insects, honey and bird eggs.[62][63] Orangutans in Sumatra occasionally eat slow lorises.[64]
 
@@ -90,7 +88,7 @@ Geophagy, the practice of eating soil or rock, has been observed in orangutans. 
 
 Social life
 
-Leuser-orangs_09N8683.jpg Orangutans live a more solitary lifestyle than the other great apes. Most social bonds occur between adult females and their dependent and weaned offspring. Adult males and independent adolescents of both sexes tend to live alone.[70] Orangutan societies are made up of resident and transient individuals of both sexes. Resident females live with their offspring in defined home ranges that overlap with those of other adult females, which may be their immediate relatives. One to several resident female home ranges are encompassed within the home range of a resident male, who is their main mating partner.[71]
+Orangutans live a more solitary lifestyle than the other great apes. Most social bonds occur between adult females and their dependent and weaned offspring. Adult males and independent adolescents of both sexes tend to live alone.[70] Orangutan societies are made up of resident and transient individuals of both sexes. Resident females live with their offspring in defined home ranges that overlap with those of other adult females, which may be their immediate relatives. One to several resident female home ranges are encompassed within the home range of a resident male, who is their main mating partner.[71]
 
 Transient males and females move widely.[72] Orangutans usually travel alone, but they may travel in small groups in their subadult years. However, this behaviour ends at adulthood. The social structure of the orangutan can be best described as solitary but social. Interactions between adult females range from friendly to avoidance to antagonistic. Resident males may have overlapping ranges and interactions between them tend to be hostile.[73]
 
@@ -104,7 +102,7 @@ Orangutans communicate with various sounds. Males will make long calls, both to 
 
 Nesting
 
-Orangutan_Nest.jpg which have "pillows", "blankets", "bunk-beds" and "roofs".]]
+which have "pillows", "blankets", "bunk-beds" and "roofs".]]
 
 Orangutans build nests specialized for both day or night use. These are carefully constructed; young orangutans learn from observing their mother's nest-building behaviour. In fact, nest-building is a leading cause in young orangutans leaving their mother for the first time. From six months of age onwards, orangutans practice nest-building and gain proficiency by the time they are three years old.[83]
 
@@ -116,7 +114,7 @@ Males mature at around 15 years of age, by which time they have fully descended
 
 Males without them are known as unflanged males in contrast to the more developed flanged males. The transformation from unflanged to flanged can occur very quickly. Unflanged and flanged males have two different mating strategies. Flanged males attract oestrous females with their characteristic long calls.[87] Those calls may also suppress development in younger males.[88] Unflanged males wander widely in search of oestrous females and upon finding one, will force copulation on her. While both strategies are successful,[89] females prefer to mate with flanged males and seek their company for protection against unflanged males.[90] Resident males may form consortships with females that can last days, weeks or months after copulation.[91]
 
-orang2.jpg Female orangutans experience their first ovulatory cycle around 5.8–11.1 years. These occur earlier in females with more body fat.[92] Like other great apes, female orangutans enter a period of infertility during adolescence which may last for 1–4 years.[93] Female orangutans also have a 22– to 30-day menstrual cycle. Gestation lasts for 9 months, with females giving birth to their first offspring between the ages of 14 and 15 years.[94]
+Female orangutans experience their first ovulatory cycle around 5.8–11.1 years. These occur earlier in females with more body fat.[92] Like other great apes, female orangutans enter a period of infertility during adolescence which may last for 1–4 years.[93] Female orangutans also have a 22– to 30-day menstrual cycle. Gestation lasts for 9 months, with females giving birth to their first offspring between the ages of 14 and 15 years.[94]
 
 Female orangutans have eight-year intervals between births, the longest interbirth intervals among the great apes.[95] Unlike many other primates, male orangutans do not seem to practice infanticide. This may be because they cannot ensure they will sire a female's next offspring because she does not immediately begin ovulating again after her infant dies.[96]
 
@@ -133,7 +131,7 @@ A 2008 study of two orangutans at the Leipzig Zoo showed orangutans can use "cal
 
 Tool use and culture
 
-Pongo_abelii_at_the_Philadelphia_Zoo_013.jpg Tool use in orangutans was observed by primatologist Birutė Galdikas in ex-captive populations.[108] In addition, evidence of sophisticated tool manufacture and use in the wild was reported from a population of orangutans in Suaq Balimbing (_Pongo abelii_) in 1996.[109] These orangutans developed a tool kit for use in foraging that consisted of both insect-extraction tools for use in the hollows of trees and seed-extraction tools for harvesting seeds from hard-husked fruit. The orangutans adjusted their tools according to the nature of the task at hand, and preference was given to oral tool use.[110] This preference was also found in an experimental study of captive orangutans (_P. pygmaeus_).[111]
+Tool use in orangutans was observed by primatologist Birutė Galdikas in ex-captive populations.[108] In addition, evidence of sophisticated tool manufacture and use in the wild was reported from a population of orangutans in Suaq Balimbing (_Pongo abelii_) in 1996.[109] These orangutans developed a tool kit for use in foraging that consisted of both insect-extraction tools for use in the hollows of trees and seed-extraction tools for harvesting seeds from hard-husked fruit. The orangutans adjusted their tools according to the nature of the task at hand, and preference was given to oral tool use.[110] This preference was also found in an experimental study of captive orangutans (_P. pygmaeus_).[111]
 
 Primatologist Carel P. van Schaik and biological anthropologist Cheryl D. Knott further investigated tool use in different wild orangutan populations. They compared geographic variations in tool use related to the processing of _Neesia_ fruit. The orangutans of Suaq Balimbing (_P. abelii_) were found to be avid users of insect and seed-extraction tools when compared to other wild orangutans.[112][113] The scientists suggested these differences are cultural. The orangutans at Suaq Balimbing live in dense groups and are socially tolerant; this creates good conditions for social transmission.[114] Further evidence that highly social orangutans are more likely to exhibit cultural behaviours came from a study of leaf-carrying behaviours of ex-captive orangutans that were being rehabilitated on the island of Kaja in Borneo.[115]
 
@@ -150,7 +148,7 @@ During that time, Shapiro instructed ex-captive orangutans in the acquisition an
 
 Orangutans and humans
 
-Malay_Archipelago_Orang-Utan_attacked_by_Dyaks.jpg" by Joseph Wolf, in Alfred Russel Wallace's _The Malay Archipelago_, 1869]]
+" by Joseph Wolf, in Alfred Russel Wallace's _The Malay Archipelago_, 1869]]
 
 Orangutans were known to the native people of Sumatra and Borneo for millennia. While some communities hunted them for food and decoration, others placed taboos on such practices.[124] In central Borneo, some traditional folk beliefs consider it bad luck to look in the face of an orangutan. Some folk tales involve orangutans mating with and kidnapping humans.[125] There are even stories of hunters being seduced by female orangutans.[126]
 
@@ -173,7 +171,7 @@ Conservation
 
 Conservation status
 
-Riau_palm_oil_2007.jpg. 80% of Indonesian logging is performed illegally due to weak law enforcement and high levels of corruption.[147]]]
+. 80% of Indonesian logging is performed illegally due to weak law enforcement and high levels of corruption.[147]]]
 
 The Sumatran and Bornean species are both critically endangered[148][149] according to the IUCN Red List of mammals, and both are listed on Appendix I of CITES.[150][151] The IUCN estimated in 2016 that around 100,000 orangutans survive in the wild (in 1973 there were 288,500), and their population is expected to further decrease to as few as 47,000 individuals by 2025.[152]
 
@@ -182,8 +180,6 @@ The Bornean orangutan population declined by 60% in the past 60 years and is pro
 Sumatran orangutan populations declined by 80% in 75 years.[155] This species is now found only in the northern part of Sumatra, with most of the population inhabiting the Leuser Ecosystem.[156] In late March 2012, a once-significant population in northern Sumatra were reported to be threatened with approaching forest fires and might be wiped out entirely within a matter of weeks.[157]
 
 Estimates between 2000 and 2003 found 7,300 Sumatran orangutans[158] and between 45,000 and 69,000 Bornean orangutans[159] remain in the wild. A 2007 study by the Government of Indonesia noted a total wild population of 61,234 orangutans, 54,567 of which were found on the island of Borneo in 2004. The table below shows a breakdown of the species and subspecies and their estimated populations from this, or (in the case of _P. tapanuliensis_) a more recent, report:[160][161]
-
-Orangutans.ogv
 
 +-----------------------+-----------------------------+-----------------------------+-----------+
 | Scientific            | Common                      | Region                      | Estimated |
@@ -214,7 +210,7 @@ In November 2017, researchers found genomic evidence for a new species of orangu
 
 Conservation centres and organisations
 
-Birute_Galdikas.jpg presenting a book about orangutans.]] A number of organisations are working for the rescue, rehabilitation and reintroduction of orangutans. The largest of these is the Borneo Orangutan Survival Foundation, founded by conservationist Willie Smits. It is audited by a multinational auditor company[176] and operates a number of large projects, such as the Nyaru Menteng Rehabilitation Program founded by conservationist Lone Drøscher Nielsen.[177][178]
+presenting a book about orangutans.]] A number of organisations are working for the rescue, rehabilitation and reintroduction of orangutans. The largest of these is the Borneo Orangutan Survival Foundation, founded by conservationist Willie Smits. It is audited by a multinational auditor company[176] and operates a number of large projects, such as the Nyaru Menteng Rehabilitation Program founded by conservationist Lone Drøscher Nielsen.[177][178]
 
 Other major conservation centres in Indonesia include those at Tanjung Puting National Park and Sebangau National Park in Central Kalimantan, Kutai in East Kalimantan, Gunung Palung National Park in West Kalimantan, and Bukit Lawang in the Gunung Leuser National Park on the border of Aceh and North Sumatra. In Malaysia, conservation areas include Semenggoh Wildlife Centre in Sarawak and Matang Wildlife Centre also in Sarawak, and the Sepilok Orang Utan Sanctuary near Sandakan in Sabah.[179] Major conservation centres that are headquartered outside of the orangutan's home countries; include Frankfurt Zoological Society, Orangutan Foundation International, which was founded by Birutė Galdikas,[180] and the Australian Orangutan Project.[181]
 

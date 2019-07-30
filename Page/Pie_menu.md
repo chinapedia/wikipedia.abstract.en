@@ -1,4 +1,4 @@
-EasyGestures_PieMenu.png In user interface design, a PIE MENU (also known as a RADIAL MENU) is a circular context menu where selection depends on direction. It is a graphical control element. A pie menu is made of several "pie slices" around an inactive center and works best with stylus input, and well with a mouse. Pie slices are drawn with a hole in the middle for an easy way to exit the menu.
+In user interface design, a PIE MENU (also known as a RADIAL MENU) is a circular context menu where selection depends on direction. It is a graphical control element. A pie menu is made of several "pie slices" around an inactive center and works best with stylus input, and well with a mouse. Pie slices are drawn with a hole in the middle for an easy way to exit the menu.
 
 Pie menus work well with keyboard acceleration, particularly four and eight item menus, on the cursor keys and the number pad. A goal of pie menus is to provide a smooth, reliable gestural style of interaction for novices and experts.[1] A slice can lead to another pie menu; selecting this may center the pointer in the new menu.
 

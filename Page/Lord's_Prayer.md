@@ -1,4 +1,4 @@
-Brooklyn_Museum_-_The_Lord's_Prayer_(Le_Pater_Noster)_-_James_Tissot.jpg—_The Lord's Prayer_ (_Le Pater Noster_)—Brooklyn Museum]]
+—_The Lord's Prayer_ (_Le Pater Noster_)—Brooklyn Museum]]
 
 The LORD'S PRAYER, also called the OUR FATHER (Latin, PATER NOSTER), is a venerated Christian prayer which, according to the New Testament, Jesus taught as the way to pray:
 
@@ -64,7 +64,7 @@ ROMANIZATION OF GREEK TEXT
 
 Liturgical Greek and Latin texts
 
-Pater_Noster_in_Cantus_Planus.png annotation ]]
+annotation ]]
 
 PATRIARCHAL EDITION 1904[9]
 
@@ -170,7 +170,7 @@ All these versions are based on the text in Matthew, rather than Luke, of the pr
 
 Analysis
 
-Lord's_Prayer_-_Greek.JPG]] Subheadings use 1662 _Book of Common Prayer_ (BCP) (see above)
+]] Subheadings use 1662 _Book of Common Prayer_ (BCP) (see above)
 
 Introduction
 
@@ -251,7 +251,7 @@ Latin Church Roman Catholics do not use the doxology when reciting the Lord's Pr
 
 Use as a language comparison tool
 
-Lithuanian_language_in_European_language_map_1741.jpg'' in 1741; the map gives the first phrase of the Lord's Prayer in 33 different languages of Europe.]]
+'' in 1741; the map gives the first phrase of the Lord's Prayer in 33 different languages of Europe.]]
 
 In the course of Christianization, one of the first texts to be translated between many languages has historically been the Lord's Prayer, long before the full Bible would be translated into the respective languages. Since the 16th century, collections of translations of the prayer have often been used for a quick comparison of languages.
 
@@ -259,7 +259,7 @@ The first such collection, with 22 versions, was _Mithridates, de differentiis l
 
 Gessner's idea of collecting translations of the prayer was taken up by authors of the 17th century, including Hieronymus Megiserus (1603) and Georg Pistorius (1621). Thomas Lüdeken in 1680 published an enlarged collection of 83 versions of the prayer,[69] of which three were in fictional philosophical languages. Lüdeken quotes as a _Barnum Hagius_ as his source for the exotic scripts used, while their true (anonymous) author was Andreas Müller. In 1700, Lüdeken's collection was re-edited by B. Mottus as _Oratio dominica plus centum linguis versionibus aut characteribus reddita et expressa_. This edition was comparatively inferior, but a second, revised edition was published in 1715 by John Chamberlain. This 1715 edition was used by Gottfried Hensel in his _Synopsis Universae Philologiae_ (1741) to compile "geographico-polyglot maps" where the beginning of the prayer was shown in the geographical area where the respective languages were spoken. Johann Ulrich Kraus also published a collection with more than 100 entries.[70]
 
-Lords_Prayer_in_Chinese.jpg]]These collections continued to be improved and expanded well into the 19th century; Johann Christoph Adelung and Johann Severin Vater in 1806–1817 published the prayer in "well-nigh five hundred languages and dialects".[71]
+]]These collections continued to be improved and expanded well into the 19th century; Johann Christoph Adelung and Johann Severin Vater in 1806–1817 published the prayer in "well-nigh five hundred languages and dialects".[71]
 
 Samples of scripture, including the Lord's Prayer, were published in 52 oriental languages, most of them not previously found in such collections, translated by the brethren of the Serampore Mission and printed at the mission press there in 1818.
 

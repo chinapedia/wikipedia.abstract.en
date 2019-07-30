@@ -7,7 +7,7 @@ In 2007, KAIST partnered with international institutions and adopted dual degree
 
 History
 
-Kaistphotoarchive01.jpg discuss the establishment of the institute.]] The institute was founded in 1971 as the Korea Advanced Institute of Science (KAIS) by a loan of US$6 million (US$34 million[9] 2014) from the United States Agency for International Development (USAID) and supported by President Park Chung-Hee.[10] The institute's academic scheme was mainly designed by Frederick E. Terman, vice president of Stanford University, and Chung Geum-mo, a professor at the Polytechnic Institution of Brooklyn.[11] The institute's two main functions were to train advanced scientists and engineers and develop a structure of graduate education in the country. Research studies began by 1973 and undergraduates studied for bachelor's degrees by 1984.
+discuss the establishment of the institute.]] The institute was founded in 1971 as the Korea Advanced Institute of Science (KAIS) by a loan of US$6 million (US$34 million[9] 2014) from the United States Agency for International Development (USAID) and supported by President Park Chung-Hee.[10] The institute's academic scheme was mainly designed by Frederick E. Terman, vice president of Stanford University, and Chung Geum-mo, a professor at the Polytechnic Institution of Brooklyn.[11] The institute's two main functions were to train advanced scientists and engineers and develop a structure of graduate education in the country. Research studies began by 1973 and undergraduates studied for bachelor's degrees by 1984.
 
 In 1981 the government merged the Korean Advanced Institute of Science and the Korean Institute of Science and Technology (KIST) to form the Korea Advanced Institute of Science and Technology, or KAIST. Due to differing research philosophies, KIST and KAIST split in 1989. In the same year KAIST and the Korea Institute of Technology (KIT) combined and moved from Seoul to the Daedeok Science Town in Daejeon. The first act of President Suh upon his inauguration in July 2006 was to lay out the KAIST Development Plan. The ‘KAIST Development Five-Year Plan’ was finalized on February 5, 2007 by KAIST Steering Committee. The goals of KAIST set by Suh were to become one of the best science and technology universities in the world, and to become one of the top-10 universities by 2011. In January 2008, the university dropped its full name, _Korea Advanced Institute of Science and Technology_, and changed its official name to only _KAIST_.[12]
 
@@ -36,7 +36,7 @@ Academics
 
 Academics
 
-Korean_scientist-Jang_Yeongsil-01.jpg, a Korean scientist, in front of science library, Daejeon campus]] Admission to KAIST is based on overall grades, grades on math and science courses, recommendation letters from teachers, study plan, personal statements, and other data that show the excellence of potential students, and does not rely on a standardized test conducted by the university. In 2014, the acceptance rate for local students was 14.9%, and for international students at 13.2%.[13]
+, a Korean scientist, in front of science library, Daejeon campus]] Admission to KAIST is based on overall grades, grades on math and science courses, recommendation letters from teachers, study plan, personal statements, and other data that show the excellence of potential students, and does not rely on a standardized test conducted by the university. In 2014, the acceptance rate for local students was 14.9%, and for international students at 13.2%.[13]
 
 Full scholarships are given to all students including international students in the bachelor, master and doctorate courses.[14] Doctoral students are given military-exemption benefits from South Korea's compulsory military service. Up to 80% of courses taught in KAIST are conducted in English.
 
@@ -54,7 +54,7 @@ KAIST is organized into 6 colleges, 2 schools and 33 departments/divisions. KAIS
 
 Campus
 
-KAIST_from_across_Gapcheon.jpg Kaist-library.jpg KAIST has two campuses in Daejeon and one campus in Seoul. The university is mainly located in the Daedeok Science Town in the city of Daejeon, 150 kilometers south of the capital Seoul. Daedeok is also home to some 50 public and private research institutes, universities such as CNU and high-tech venture capital companies.
+KAIST has two campuses in Daejeon and one campus in Seoul. The university is mainly located in the Daedeok Science Town in the city of Daejeon, 150 kilometers south of the capital Seoul. Daedeok is also home to some 50 public and private research institutes, universities such as CNU and high-tech venture capital companies.
 
 Most lectures, research activities, and housing services are located in the Daejeon main campus. It has a total of 29 dormitories. Twenty-three dormitories for male students and four dormitories for female students are located on the outskirts of the campus, and two apartments for married students are located outside the campus.
 

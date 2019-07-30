@@ -7,7 +7,7 @@ In 2009, the video game website IGN named the Odyssey² the 21st greatest video 
 
 Design
 
-Videopac_phillips.jpg The original Odyssey had a number of removable circuit cards that switched between the built-in games. With the Odyssey², each game could be a completely unique experience, with its own background graphics, foreground graphics, gameplay, scoring, and music. The potential was enormous, as an unlimited number of games could be individually purchased; a game player could purchase a library of video games tailored to their own interest. Unlike any other system at that time, the Odyssey² included a full alphanumeric membrane keyboard, which was to be used for educational games, selecting options, or programming (Magnavox released a cartridge called _Computer Intro!_ with the intent of teaching simple computer programming).
+The original Odyssey had a number of removable circuit cards that switched between the built-in games. With the Odyssey², each game could be a completely unique experience, with its own background graphics, foreground graphics, gameplay, scoring, and music. The potential was enormous, as an unlimited number of games could be individually purchased; a game player could purchase a library of video games tailored to their own interest. Unlike any other system at that time, the Odyssey² included a full alphanumeric membrane keyboard, which was to be used for educational games, selecting options, or programming (Magnavox released a cartridge called _Computer Intro!_ with the intent of teaching simple computer programming).
 
 The Odyssey² used the standard joystick design of the 1970s and early 1980s: the original console had a moderately sized silver controller, held in one hand, with a square housing for its eight-direction stick that was manipulated with the other hand. Later releases had a similar black controller, with an 8-pointed star-shaped housing for its eight-direction joystick. In the upper corner of the joystick was a single 'Action' button, silver on the original controllers and red on the black controllers. The games, graphics and packaging were designed by Ron Bradford and Steve Lehner.[2]
 
@@ -29,8 +29,6 @@ To sell would-be customers on its technical abilities as a computer-based consol
 No third-party game appeared for the Odyssey² in the United States until Imagic's _Demon Attack_ in 1983.[5] The lack of third-party support kept the number of new games very limited, but the success of the Philips Videopac G7000 overseas led to two other companies producing games for it: Parker Brothers released _Popeye_, _Frogger_, _Q*bert_ and _Super Cobra_, while Imagic also released _Atlantis_.
 
 Europe
-
-Videopac-pete-screen-800px.jpg
 
 In Europe, the Odyssey² did very well on the market. The console was most widely known as the PHILIPS VIDEOPAC G7000, or just the VIDEOPAC, although branded variants were released in some areas of Europe under the names PHILIPS VIDEOPAC C52, RADIOLA JET 25, SCHNEIDER 7000, and SIERA G7000. Philips, as Magnavox's Dutch parent company, used their own name rather than Magnavox's for European marketing. A rare model, the PHILIPS VIDEOPAC G7200, was only released in Europe; it had a built-in black-and-white monitor. Videopac game cartridges are mostly compatible with American Odyssey² units, although some games have color differences and a few are completely incompatible, such as Frogger on the European console, being unable to show the second half of the playing field, and Chess on the American model, as the extra hardware module could not work with the console. A number of additional games were released in Europe that never came out in the U.S.
 
@@ -78,8 +76,6 @@ Technical specifications
     -   Péritel/SCART connector (France only _Videopac C52_)
 -   Media:
     -   ROM cartridges, typically 2 KB, 4 KB, or 8 KB in size.
-
-Videopac_with_chess_module.jpg
 
 -   Expansion modules:
     -   The Voice: provides speech synthesis and enhanced sound effects. Unlike Intellivoice, games compatible with The Voice did not require it; Danny Goodman of _Creative Computing Video & Arcade Games_ predicted "that eliminates any incentive to buy the $100 voice module".[6]

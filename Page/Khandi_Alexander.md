@@ -12,7 +12,7 @@ Khandi Alexander was born in Jacksonville, Florida,[1] the daughter of Alverina 
 
 Career
 
-Khandi_Alexander_2013.jpg Alexander began her acting career in the late 1980s. She made her television debut on the 1985 sketch-comedy show _FTV_.[9] Since the early 1990s, Alexander has concentrated on film and TV, playing supporting roles in several movies, including _CB4_, _Joshua Tree_, _What's Love Got to Do with It_, _Poetic Justice_, and _Sugar Hill_.
+Alexander began her acting career in the late 1980s. She made her television debut on the 1985 sketch-comedy show _FTV_.[9] Since the early 1990s, Alexander has concentrated on film and TV, playing supporting roles in several movies, including _CB4_, _Joshua Tree_, _What's Love Got to Do with It_, _Poetic Justice_, and _Sugar Hill_.
 
 In 1995, Alexander was cast as Catherine Duke on the NBC comedy series _NewsRadio_. She stayed with the show until season 4 episode 7, "Catherine Moves On". She made one final appearance as Catherine in the season 5 premiere episode, "Bill Moves On". She played the recurring character of Jackie Robbins in medical drama series _ER_. Alexander has made a number of guest appearances on other television shows, including _Law & Order: Special Victims Unit_, _NYPD Blue_, _Third Watch_, _Cosby_, _Better off Ted_, _La Femme Nikita_, and _Body of Proof_.
 

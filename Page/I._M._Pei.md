@@ -7,7 +7,7 @@ Pei won a wide variety of prizes and awards in the field of architecture, includ
 
 Childhood
 
-Shizlinhehuaci.jpg in Suzhou to be "an ideal playground".[6]]]
+in Suzhou to be "an ideal playground".[6]]]
 
 Pei's ancestry traces back to the Ming dynasty, when his family moved from Anhui province to Suzhou. The family made their wealth in medicinal herbs, then proceeded to join the ranks of the scholar-gentry, a class which stressed the importance of helping the less fortunate.[7] Ieoh Ming Pei was born on 26 April 1917 to Tsuyee and Lien Kwun, and the family moved to Hong Kong one year later. The family eventually included five children. As a boy, Pei was very close to his mother, a devout Buddhist who was recognized for her skills as a flautist. She invited him (and not his brothers or sisters) to join her on meditation retreats.[8] His relationship with his father was less intimate. Their interactions were respectful but distant.[9]
 
@@ -15,7 +15,7 @@ Pei's ancestors' success meant that the family lived in the upper echelons of so
 
 When Pei was 10, his father was promoted and he moved with his family to Shanghai. Pei attended St. John's Middle School, run by Anglican missionaries. Academic discipline was rigorous; students were allowed only one half-day each month for leisure. Pei enjoyed playing billiards and watching Hollywood movies, especially those of Buster Keaton and Charlie Chaplin. He also learned rudimentary English skills by reading the Bible and novels by Charles Dickens.[12]
 
-Shanghai_Bund_2006.JPG waterfront area (seen here in a 2006 photo) as "very much a colonial past".[13]]]
+waterfront area (seen here in a 2006 photo) as "very much a colonial past".[13]]]
 
 Shanghai's many international elements gave it the name "Paris of the East".[14] The city's global architectural flavors had a profound influence on Pei, from The Bund waterfront area to the Park Hotel, built in 1934. He was also impressed by the many gardens of Suzhou, where he spent the summers with extended family and regularly visited a nearby ancestral shrine. The Shizilin Garden, built in the 14th century by a Buddhist monk and owned by Pei's uncle Bei Runsheng, was especially influential. Its unusual rock formations, stone bridges, and waterfalls remained etched in Pei's memory for decades. He spoke later of his fondness for the garden's blending of natural and human-built structures.[15][16]
 
@@ -49,11 +49,11 @@ In the spring of 1948 Pei was recruited by New York real estate magnate William 
 
 His first project for Webb and Knapp was an apartment building with funding from the Housing Act of 1949. Pei's design was based on a circular tower with concentric rings. The areas closest to the supporting pillar handled utilities and circulation; the apartments themselves were located toward the outer edge. Zeckendorf loved the design and even showed it off to Le Corbusier when they met. The cost of such an unusual design was too high, however, and the building never moved beyond the model stage.[40]
 
-131_Ponce_de_Leon_Ave.,_Atlanta_-_I.M._Pei_building.JPG, Atlanta]]
+, Atlanta]]
 
 Pei finally saw his architecture come to life in 1949,[41] when he designed a two-story corporate building for Gulf Oil in Atlanta, Georgia. The building was demolished in February 2013 although the front facade will be retained as part of an apartment development. His use of marble for the exterior curtain wall brought praise from the journal _Architectural Forum_.[42] Pei's designs echoed the work of Mies van der Rohe in the beginning of his career as also shown in his own weekend-house in Katonah, New York in 1952. Soon Pei was so inundated with projects that he asked Zeckendorf for assistants, which he chose from his associates at the GSD, including Henry N. Cobb and Ulrich Franzen. They set to work on a variety of proposals, including the Roosevelt Field Shopping Mall. The team also redesigned the Webb and Knapp office building, transforming Zeckendorf's office into a circular space with teak walls and a glass clerestory. They also installed a control panel into the desk that allowed their boss to control the lighting in his office. The project took one year and exceeded its budget, but Zeckendorf was delighted with the results.[43]
 
-L'Enfant_Plaza_-_IMG_1926.JPG to be "functionally and visually related" to one another.[44]]]
+to be "functionally and visually related" to one another.[44]]]
 
 In 1952 Pei and his team began work on a series of projects in Denver, Colorado. The first of these was the Mile High Center, which compressed the core building into less than 25 percent of the total site; the rest is adorned with an exhibition hall and fountain-dotted plazas.[45] One block away, Pei's team also redesigned Denver's Courthouse Square, which combined office spaces, commercial venues, and hotels. These projects helped Pei conceptualize architecture as part of the larger urban geography. "I learned the process of development," he said later, "and about the city as a living organism."[46] These lessons, he said, became essential for later projects.[47]
 
@@ -71,7 +71,7 @@ The challenge of coordinating these projects took an artistic toll on Pei. He fo
 
 NCAR and related projects
 
-National_Center_for_Atmospheric_Research_-_Boulder,_Colorado.jpg of the National Center for Atmospheric Research to look "as if it were carved out of the mountain".[60]]]
+of the National Center for Atmospheric Research to look "as if it were carved out of the mountain".[60]]]
 
 Pei was able to return to hands-on design when he was approached in 1961 by Walter Orr Roberts to design the new Mesa Laboratory for the National Center for Atmospheric Research outside Boulder, Colorado. The project differed from Pei's earlier urban work; it would rest in an open area in the foothills of the Rocky Mountains. He drove with his wife around the region, visiting assorted buildings and surveying the natural environs. He was impressed by the United States Air Force Academy in Colorado Springs, but felt it was "detached from nature".[61]
 
@@ -79,7 +79,7 @@ The conceptualization stages were important for Pei, presenting a need and an op
 
 Roberts disliked Pei's initial designs, referring to them as "just a bunch of towers".[65] Roberts intended his comments as typical of scientific experimentation, rather than artistic critique; still, Pei was frustrated. His second attempt, however, fit Roberts' vision perfectly: a spaced-out series of clustered buildings, joined by lower structures and complemented by two underground levels. The complex uses many elements of cubist design, and the walkways are arranged to increase the probability of casual encounters among colleagues.[66]
 
-Palm_court_1995.jpg in the mid-1960s.[67]]]
+in the mid-1960s.[67]]]
 
 Once the laboratory was built, several problems with its construction became apparent. Leaks in the roof caused difficulties for researchers, and the shifting of clay soil beneath caused cracks in the buildings which were expensive to repair. Still, both architect and project manager were pleased with the final result. Pei referred to the NCAR complex as his "breakout building", and he remained a friend of Roberts until the scientist died in .[68]
 
@@ -87,7 +87,7 @@ The success of NCAR brought renewed attention to Pei's design acumen. He was rec
 
 Kennedy Library
 
-JFK_library_Stitch_Crop.jpg "the most important commission" in his life.[70]]]
+"the most important commission" in his life.[70]]]
 
 After President John F. Kennedy was assassinated in , his family and friends discussed how to construct a library that would serve as a fitting memorial. A committee was formed to advise Kennedy's widow Jacqueline, who would make the final decision. The group deliberated for months and considered many famous architects.[71] Eventually, Kennedy chose Pei to design the library, based on two considerations. First, she appreciated the variety of ideas he had used for earlier projects. "He didn't seem to have just one way to solve a problem," she said. "He seemed to approach each commission thinking only of it and then develop a way to make something beautiful."[72] Ultimately, however, Kennedy made her choice based on her personal connection with Pei. Calling it "really an emotional decision", she explained: "He was so full of promise, like Jack; they were born in the same year. I decided it would be fun to take a great leap with him."[73]
 
@@ -107,19 +107,17 @@ The plan called for the demolition of hundreds of old downtown structures in fav
 
 Providence's Cathedral Square
 
-Cathedral_Square,_Providence_Rhode_Island_in_winter.jpg
-
 Another city which turned to Pei for urban renewal during this time was Providence, Rhode Island.[82] In the late 1960s, Providence hired Pei to redesign Cathedral Square, a once-bustling civic center which had become neglected and empty, as part of an ambitious larger plan to redesign downtown.[83] Pei's new plaza, modeled after the Greek Agora marketplace, opened in 1972.[84] Unfortunately, the city ran out of money before Pei's vision could be fully realized.[85] Also, recent construction of a low-income housing complex and Interstate 95 had changed the neighborhood's character permanently.[86] In 1974, The Providence Evening Bulletin called Pei's new plaza a "conspicuous failure".[87] By 2016, media reports characterized the plaza as a neglected, little-visited "hidden gem".[88]
 
 Augusta, Georgia
 
-Augustagaskyline.jpg in 1976.]]
+in 1976.]]
 
 In 1974, the city of Augusta, Georgia turned to Pei and his firm for downtown revitalization.[89] The Chamber of Commerce building and Bicentennial Park were completed from his plan.[90] In 1976, Pei designed a distinctive modern penthouse that was added to the roof of architect William Lee Stoddart's historic Lamar Building, designed in 1916.[91] The penthouse is a modern take on a pyramid, predating Pei's more famous Louvre Pyramid. It has been criticized by architectural critic James Howard Kunstler as an "Eyesore of the Month," with him comparing it to Darth Vader's helmet.[92] In 1980, Pei and his company designed the Augusta Civic Center, now known as the James Brown Arena.[93]
 
 Dallas City Hall
 
-DallasCityHallB.jpg to "convey an image of the people".[94]]]
+to "convey an image of the people".[94]]]
 
 Kennedy's assassination also led indirectly to another commission for Pei's firm. In 1964 the acting mayor of Dallas, Erik Jonsson, began working to change the community's image. Dallas was known and disliked as the city where the president had been killed, but Jonsson began a program designed to initiate a community renewal. One of the goals was a new city hall, which could be a "symbol of the people".[95] Jonsson, a co-founder of Texas Instruments, learned about Pei from his associate Cecil Howard Green, who had recruited the architect for MIT's Earth Sciences building.[96]
 
@@ -131,17 +129,15 @@ The city of Dallas received the building well, and a local television news crew 
 
 Hancock Tower, Boston
 
-Plylwood_palace.jpg required replacing them with plywood; some called it "the world's tallest wood building".[101]]]
+required replacing them with plywood; some called it "the world's tallest wood building".[101]]]
 
 While Pei and Musho were coordinating the Dallas project, their associate Henry Cobb had taken the helm for a commission in Boston. John Hancock Insurance chairman Robert Slater hired I. M. Pei & Partners to design a building that could overshadow the Prudential Tower, erected by their rival.[102]
 
-After the firm's first plan was discarded due to a need for more office space, Cobb developed a new plan around a towering parallelogram, slanted away from the Trinity Church and accented by a wedge cut into each narrow side. To minimize the visual impact, the building was covered in large reflective glass panels; Cobb said this would make the building a "background and foil" to the older structures around it.[103] When the Hancock Tower was finished in 1976, it was the tallest building in New England.[104] Johnson-museum-of-art-cornell.JPG Serious issues of execution became evident in the tower almost immediately. Many glass panels fractured in a windstorm during construction in 1973. Some detached and fell to the ground, causing no injuries but sparking concern among Boston residents. In response, the entire tower was reglazed with smaller panels. This significantly increased the cost of the project. Hancock sued the glass manufacturers, Libbey-Owens-Ford, as well as I. M. Pei & Partners, for submitting plans that were "not good and workmanlike".[105] LOF countersued Hancock for defamation, accusing Pei's firm of poor use of their materials; I. M. Pei & Partners sued LOF in return. All three companies settled out of court in 1981.[106]
+After the firm's first plan was discarded due to a need for more office space, Cobb developed a new plan around a towering parallelogram, slanted away from the Trinity Church and accented by a wedge cut into each narrow side. To minimize the visual impact, the building was covered in large reflective glass panels; Cobb said this would make the building a "background and foil" to the older structures around it.[103] When the Hancock Tower was finished in 1976, it was the tallest building in New England.[104] Serious issues of execution became evident in the tower almost immediately. Many glass panels fractured in a windstorm during construction in 1973. Some detached and fell to the ground, causing no injuries but sparking concern among Boston residents. In response, the entire tower was reglazed with smaller panels. This significantly increased the cost of the project. Hancock sued the glass manufacturers, Libbey-Owens-Ford, as well as I. M. Pei & Partners, for submitting plans that were "not good and workmanlike".[105] LOF countersued Hancock for defamation, accusing Pei's firm of poor use of their materials; I. M. Pei & Partners sued LOF in return. All three companies settled out of court in 1981.[106]
 
 The project became an albatross for Pei's firm. Pei himself refused to discuss it for many years. The pace of new commissions slowed and the firm's architects began looking overseas for opportunities. Cobb worked in Australia and Pei took on jobs in Singapore, Iran, and Kuwait. Although it was a difficult time for everyone involved, Pei later reflected with patience on the experience. "Going through this trial toughened us," he said. "It helped to cement us as partners; we did not give up on each other."[107]
 
 National Gallery East Building, Washington, DC
-
-National_Gallery_East_Wing_by_Matthew_Bisanz.JPG
 
 In the mid-1960s, directors of the National Gallery of Art in Washington, D.C., declared the need for a new building. Paul Mellon, a primary benefactor of the gallery and a member of its building committee, set to work with his assistant J. Carter Brown (who became gallery director in 1969) to find an architect. The new structure would be located to the east of the original building, and tasked with two functions: offer a large space for public appreciation of various popular collections; and house office space as well as archives for scholarship and research. They likened the scope of the new facility to the Library of Alexandria. After inspecting Pei's work at the Des Moines Art Center in Iowa and the Johnson Museum at Cornell University, they offered him the commission.[108]
 
@@ -149,7 +145,7 @@ Pei took to the project with vigor, and set to work with two young architects he
 
 The growing popularity of art museums presented unique challenges to the architecture. Mellon and Pei both expected large crowds of people to visit the new building, and they planned accordingly. To this end, Pei designed a large lobby roofed with enormous skylights. Individual galleries are located along the periphery, allowing visitors to return after viewing each exhibit to the spacious main room. A large mobile sculpture by American artist Alexander Calder was later added to the lobby.[110] Pei hoped the lobby would be exciting to the public in the same way as the central room of the Guggenheim Museum is in New York City. The modern museum, he said later, "must pay greater attention to its educational responsibility, especially to the young".[111]
 
-Nga_fg04.jpg'' about the East Building's "shocking fun-house atmosphere".[112]]]
+'' about the East Building's "shocking fun-house atmosphere".[112]]]
 
 Materials for the building's exterior were chosen with careful precision. To match the look and texture of the original gallery's marble walls, builders re-opened the quarry in Knoxville, Tennessee, from which the first batch of stone had been harvested. The project even found and hired Malcolm Rice, a quarry supervisor who had overseen the original 1941 gallery project. The marble was cut into three-inch-thick blocks and arranged over the concrete foundation, with darker blocks at the bottom and lighter blocks on top.[113]
 
@@ -159,7 +155,7 @@ Some critics disliked the unusual design, however, and criticized the reliance o
 
 Fragrant Hills, China
 
-After U.S. President Richard Nixon made his famous 1972 visit to China, a wave of exchanges took place between the two countries. One of these was a delegation of the American Institute of Architects in 1974, which Pei joined. It was his first trip back to China since leaving in 1935. He was favorably received, returned the welcome with positive comments, and a series of lectures ensued. Pei noted in one lecture that since the 1950s Chinese architects had been content to imitate Western styles; he urged his audience in one lecture to search China's native traditions for inspiration.[118] Fragrant_Hill_Hotel.jpg in China. "Many people thought I was being reactionary," he said.[119]]] In 1978, Pei was asked to initiate a project for his home country. After surveying a number of different locations, Pei fell in love with a valley that had once served as an imperial garden and hunting preserve known as Fragrant Hills. The site housed a decrepit hotel; Pei was invited to tear it down and build a new one. As usual, he approached the project by carefully considering the context and purpose. Likewise, he considered modernist styles inappropriate for the setting. Thus, he said, it was necessary to find "a third way".[120]
+After U.S. President Richard Nixon made his famous 1972 visit to China, a wave of exchanges took place between the two countries. One of these was a delegation of the American Institute of Architects in 1974, which Pei joined. It was his first trip back to China since leaving in 1935. He was favorably received, returned the welcome with positive comments, and a series of lectures ensued. Pei noted in one lecture that since the 1950s Chinese architects had been content to imitate Western styles; he urged his audience in one lecture to search China's native traditions for inspiration.[118] in China. "Many people thought I was being reactionary," he said.[119]]] In 1978, Pei was asked to initiate a project for his home country. After surveying a number of different locations, Pei fell in love with a valley that had once served as an imperial garden and hunting preserve known as Fragrant Hills. The site housed a decrepit hotel; Pei was invited to tear it down and build a new one. As usual, he approached the project by carefully considering the context and purpose. Likewise, he considered modernist styles inappropriate for the setting. Thus, he said, it was necessary to find "a third way".[120]
 
 After visiting his ancestral home in Suzhou, Pei created a design based on some simple but nuanced techniques he admired in traditional residential Chinese buildings. Among these were abundant gardens, integration with nature, and consideration of the relationship between enclosure and opening. Pei's design included a large central atrium covered by glass panels that functioned much like the large central space in his East Building of the National Gallery. Openings of various shapes in walls invited guests to view the natural scenery beyond. Younger Chinese who had hoped the building would exhibit some of Cubist flavor for which Pei had become known were disappointed, but the new hotel found more favour with government officials and architects.[121]
 
@@ -171,7 +167,7 @@ The Fragrant Hill Hotel opened on 17 October 1982 but quickly fell into disrepai
 
 Javits Convention Center, New York
 
-Javits_Center_11av_jeh.JPG: "The complications exceeded even my expectations."[127]]]
+: "The complications exceeded even my expectations."[127]]]
 
 As the Fragrant Hill project neared completion, Pei began work on the Jacob K. Javits Convention Center in New York City, for which his associate James Freed served as lead designer. Hoping to create a vibrant community institution in what was then a run-down neighborhood on Manhattan's west side, Freed developed a glass-coated structure with an intricate space frame of interconnected metal rods and spheres.[128]
 
@@ -179,15 +175,13 @@ The convention center was plagued from the start by budget problems and construc
 
 Le Grand Louvre, Paris
 
-Paris_75001_Cour_Napoléon_Louvre_Aile_Turgot_02a.jpg
-
 When François Mitterrand was elected President of France in 1981, he laid out an ambitious plan for a variety of construction projects. One of these was the renovation of the Louvre Museum. Mitterrand appointed a civil servant named Émile Biasini to oversee it. After visiting museums in Europe and the United States, including the U.S. National Gallery, he asked Pei to join the team. The architect made three secretive trips to Paris, to determine the feasibility of the project; only one museum employee knew why he was there.[130] Pei finally agreed that a reconstruction project was not only possible, but necessary for the future of the museum. He thus became the first foreign architect to work on the Louvre.[131]
 
 The heart of the new design included not only a renovation of the _Cour Napoléon_ in the midst of the buildings, but also a transformation of the interiors. Pei proposed a central entrance, not unlike the lobby of the National Gallery East Building, which would link the three major buildings. Below would be a complex of additional floors for research, storage, and maintenance purposes. At the center of the courtyard he designed a glass and steel pyramid, first proposed with the Kennedy Library, to serve as entrance and anteroom skylight. It was mirrored by another inverted pyramid underneath, to reflect sunlight into the room. These designs were partly an homage to the fastidious geometry of the famous French landscape architect André Le Nôtre (1613–1700).[132] Pei also found the pyramid shape best suited for stable transparency, and considered it "most compatible with the architecture of the Louvre, especially with the faceted planes of its roofs".[133]
 
 Biasini and Mitterrand liked the plans, but the scope of the renovation displeased Louvre director André Chabaud. He resigned from his post, complaining that the project was "unfeasible" and posed "architectural risks".[134] The public also reacted harshly to the design, mostly because of the proposed pyramid.[135] One critic called it a "gigantic, ruinous gadget";[136] another charged Mitterrand with "despotism" for inflicting Paris with the "atrocity".[137] Pei estimated that 90 percent of Parisians opposed his design. "I received many angry glances in the streets of Paris," he said.[138] Some condemnations carried nationalistic overtones. One opponent wrote: "I am surprised that one would go looking for a Chinese architect in America to deal with the historic heart of the capital of France."[139]
 
-Louvre_Museum_Wikimedia_Commons.jpg Soon, however, Pei and his team won the support of several key cultural icons, including the conductor Pierre Boulez and Claude Pompidou, widow of former French President Georges Pompidou, after whom another controversial museum was named. In an attempt to soothe public ire, Pei took a suggestion from then-mayor of Paris Jacques Chirac and placed a full-sized cable model of the pyramid in the courtyard. During the four days of its exhibition, an estimated 60,000 people visited the site. Some critics eased their opposition after witnessing the proposed scale of the pyramid.[140]
+Soon, however, Pei and his team won the support of several key cultural icons, including the conductor Pierre Boulez and Claude Pompidou, widow of former French President Georges Pompidou, after whom another controversial museum was named. In an attempt to soothe public ire, Pei took a suggestion from then-mayor of Paris Jacques Chirac and placed a full-sized cable model of the pyramid in the courtyard. During the four days of its exhibition, an estimated 60,000 people visited the site. Some critics eased their opposition after witnessing the proposed scale of the pyramid.[140]
 
 To minimize the impact of the structure, Pei demanded a method of glass production that resulted in clear panes. The pyramid was constructed at the same time as the subterranean levels below, which caused difficulties during the building stages. As they worked, construction teams came upon an abandoned set of rooms containing 25,000 historical items; these were incorporated into the rest of the structure to add a new exhibition zone.[141]
 
@@ -199,7 +193,7 @@ Meyerson Symphony Center, Dallas
 
 The opening of the Louvre Pyramid coincided with four other projects on which Pei had been working, prompting architecture critic Paul Goldberger to declare 1989 "the year of Pei" in _The New York Times_.[148] It was also the year in which Pei's firm changed its name to Pei Cobb Freed & Partners, to reflect the increasing stature and prominence of his associates. At the age of 72, Pei had begun thinking about retirement, but continued working long hours to see his designs come to light.[149]
 
-Dallas_Meyerson_Center_02.jpg in Dallas.[150]]] One of the projects took Pei back to Dallas, Texas, to design the Morton H. Meyerson Symphony Center. The success of city's performing artists, particularly the Dallas Symphony Orchestra then led by conductor Eduardo Mata, led to interest by city leaders in creating a modern center for musical arts that could rival the best halls in Europe. The organizing committee contacted 45 architects, but at first Pei did not respond, thinking that his work on the Dallas City Hall had left a negative impression. One of his colleagues from that project, however, insisted that he meet with the committee. He did and, although it would be his first concert hall, the committee voted unanimously to offer him the commission. As one member put it: "We were convinced that we would get the world's greatest architect putting his best foot forward."[151]
+in Dallas.[150]]] One of the projects took Pei back to Dallas, Texas, to design the Morton H. Meyerson Symphony Center. The success of city's performing artists, particularly the Dallas Symphony Orchestra then led by conductor Eduardo Mata, led to interest by city leaders in creating a modern center for musical arts that could rival the best halls in Europe. The organizing committee contacted 45 architects, but at first Pei did not respond, thinking that his work on the Dallas City Hall had left a negative impression. One of his colleagues from that project, however, insisted that he meet with the committee. He did and, although it would be his first concert hall, the committee voted unanimously to offer him the commission. As one member put it: "We were convinced that we would get the world's greatest architect putting his best foot forward."[151]
 
 The project presented a variety of specific challenges. Because its main purpose was the presentation of live music, the hall needed a design focused on acoustics first, then public access and exterior aesthetics. To this end, a professional sound technician was hired to design the interior. He proposed a shoebox auditorium, used in the acclaimed designs of top European symphony halls such as the Amsterdam Concertgebouw and Vienna Musikverein. Pei drew inspiration for his adjustments from the designs of the German architect Johann Balthasar Neumann, especially the Basilica of the Fourteen Holy Helpers. He also sought to incorporate some of the panache of the Paris Opéra designed by Charles Garnier.[152]
 
@@ -209,7 +203,7 @@ The building opened and immediately garnered widespread praise, especially for i
 
 Bank of China, Hong Kong
 
-Bank-of-china_clean-img-sma.jpg, one of Pei's most recognized works in the 1990s.]] A new offer had arrived for Pei from the Chinese government in 1982. With an eye toward the transfer of sovereignty of Hong Kong from the British in 1997, authorities in China sought Pei's aid on a new tower for the local branch of the Bank of China. The Chinese government was preparing for a new wave of engagement with the outside world and sought a tower to represent modernity and economic strength. Given the elder Pei's history with the bank before the Communist takeover, government officials visited the 89-year-old man in New York to gain approval for his son's involvement. Pei then spoke with his father at length about the proposal. Although the architect remained pained by his experience with Fragrant Hills, he agreed to accept the commission.[156]
+, one of Pei's most recognized works in the 1990s.]] A new offer had arrived for Pei from the Chinese government in 1982. With an eye toward the transfer of sovereignty of Hong Kong from the British in 1997, authorities in China sought Pei's aid on a new tower for the local branch of the Bank of China. The Chinese government was preparing for a new wave of engagement with the outside world and sought a tower to represent modernity and economic strength. Given the elder Pei's history with the bank before the Communist takeover, government officials visited the 89-year-old man in New York to gain approval for his son's involvement. Pei then spoke with his father at length about the proposal. Although the architect remained pained by his experience with Fragrant Hills, he agreed to accept the commission.[156]
 
 The proposed site in Hong Kong's Central District was less than ideal; a tangle of highways lined it on three sides. The area had also been home to a headquarters for Japanese military police during World War II, and was notorious for prisoner torture. The small parcel of land made a tall tower necessary, and Pei had usually shied away from such projects; in Hong Kong especially, the skyscrapers lacked any real architectural character. Lacking inspiration and unsure of how to approach the building, Pei took a weekend vacation to the family home in Katonah, New York. There he found himself experimenting with a bundle of sticks until he happened upon a cascading sequence.[157]
 
@@ -219,7 +213,7 @@ As the tower neared completion, Pei was shocked to witness the government's mass
 
 1990–2019: museum projects
 
-Rock_and_Roll_Hall_of_Fame.jpg, admitting that he was "operating in a vacuum".[162]]]
+, admitting that he was "operating in a vacuum".[162]]]
 
 As the 1990s began, Pei transitioned into a role of decreased involvement with his firm. The staff had begun to shrink, and Pei wanted to dedicate himself to smaller projects allowing for more creativity. Before he made this change, however, he set to work on his last major project as active partner: the Rock and Roll Hall of Fame in Cleveland, Ohio. Considering his work on such bastions of high culture as the Louvre and U.S. National Gallery, some critics were surprised by his association with what many considered a tribute to low culture. The sponsors of the hall, however, sought Pei for specifically this reason; they wanted the building to have an aura of respectability from the beginning. As in the past, Pei accepted the commission in part because of the unique challenge it presented.[163]
 
@@ -233,7 +227,7 @@ In 1995, Pei was hired to design an extension to the _Deutsches Historisches Mus
 
 Pei also worked at this time on two projects for a new Japanese religious movement called _Shinji Shumeikai_. He was approached by the movement's spiritual leader, Kaishu Koyama, who impressed the architect with her sincerity and willingness to give him significant artistic freedom. One of the buildings was a bell tower, designed to resemble the _bachi_ used when playing traditional instruments like the _shamisen_. Pei was unfamiliar with the movement's beliefs, but explored them in order to represent something meaningful in the tower. As he said: "It was a search for the sort of expression that is not at all technical."[170]
 
-Miho_museum02n3872.jpg was partly inspired by a story from fourth-century Chinese poet Tao Yuanming.[171]]] The experience was rewarding for Pei, and he agreed immediately to work with the group again. The new project was the Miho Museum, to display Koyama's collection of tea ceremony artifacts. Pei visited the site in Shiga Prefecture, and during their conversations convinced Koyama to expand her collection. She conducted a global search and acquired more than 300 items showcasing the history of the Silk Road.[172]
+was partly inspired by a story from fourth-century Chinese poet Tao Yuanming.[171]]] The experience was rewarding for Pei, and he agreed immediately to work with the group again. The new project was the Miho Museum, to display Koyama's collection of tea ceremony artifacts. Pei visited the site in Shiga Prefecture, and during their conversations convinced Koyama to expand her collection. She conducted a global search and acquired more than 300 items showcasing the history of the Silk Road.[172]
 
 One major challenge was the approach to the museum. The Japanese team proposed a winding road up the mountain, not unlike the approach to the NCAR building in Colorado. Instead, Pei ordered a hole cut through a nearby mountain, connected to a major road via a bridge suspended from ninety-six steel cables and supported by a post set into the mountain. The museum itself was built into the mountain, with 80 percent of the building underground.[173]
 
@@ -243,7 +237,7 @@ During the first decade of the 2000s, Pei designed a variety of buildings, inclu
 
 Once again, Pei sought to combine new design elements with the classical aesthetic most appropriate for the location of the building. The sand-colored rectangular boxes rotate evenly to create a subtle movement, with small arched windows at regular intervals into the limestone exterior. Inside, galleries are arranged around a massive atrium, lit from above. The museum's coordinators were pleased with the project; its official website describes its "true splendour unveiled in the sunlight," and speaks of "the shades of colour and the interplay of shadows paying tribute to the essence of Islamic architecture".[176]
 
-Centro_de_Ciência_de_Macau.jpg in Macau, designed by Pei Partnership Architects in association with I. M. Pei.]] The Macao Science Center in Macau was designed by Pei Partnership Architects in association with I. M. Pei. The project to build the science center was conceived in 2001 and construction started in 2006.[177] The center was completed in 2009 and opened by the Chinese President Hu Jintao.[178] The main part of the building is a distinctive conical shape with a spiral walkway and large atrium inside, similar to that of the Solomon R. Guggenheim Museum in New York City. Galleries lead off the walkway, mainly consisting of interactive exhibits aimed at science education. The building is in a prominent position by the sea and is now a Macau landmark.[179]
+in Macau, designed by Pei Partnership Architects in association with I. M. Pei.]] The Macao Science Center in Macau was designed by Pei Partnership Architects in association with I. M. Pei. The project to build the science center was conceived in 2001 and construction started in 2006.[177] The center was completed in 2009 and opened by the Chinese President Hu Jintao.[178] The main part of the building is a distinctive conical shape with a spiral walkway and large atrium inside, similar to that of the Solomon R. Guggenheim Museum in New York City. Galleries lead off the walkway, mainly consisting of interactive exhibits aimed at science education. The building is in a prominent position by the sea and is now a Macau landmark.[179]
 
 Pei's career ended with his death in May 2019.[180]
 

@@ -22,13 +22,6 @@ _international:_ 9 submarine cables; satellite earth stations - 3 Intelsat (1 In
 
 Area codes
 
-ORANGE: Codes starting with 01
-BLUE: Codes starting with 02
-YELLOW: Codes starting with 03
-GREEN: Codes starting with 04
-RED: Codes starting with 05
-PURPLE: Codes starting with 07
-
 -   010 – Rotterdam
 -   0111 – Zierikzee
 -   0113 – Goes

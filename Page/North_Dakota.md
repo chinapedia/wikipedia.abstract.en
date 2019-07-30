@@ -21,7 +21,7 @@ Few white settlers came to the North Dakota region before the 1870's because rai
 
 North Dakota was named for the Sioux people who once lived in the territory. The Sioux called themselves Dakota or Lakota, meaning allies or friends. One of North Dakota's nicknames is the Peace Garden State. This nickname honors the International Peace Garden, which lies on the state's border with Manitoba, Canada. North Dakota is also called the Flickertail State because of the many flickertail ground squirrels that live in the central part of the state.
 
-North Dakota is in the U.S. region known as the Great Plains. The state shares the Red River of the North with Minnesota to the east. South Dakota is to the south, Montana is to the west, and the Canadian provinces of Saskatchewan and Manitoba are to the north. North Dakota is near the middle of North America with a stone marker in Rugby, North Dakota marking the "Geographic Center of the North American Continent". With an area of ,[5] North Dakota is the 19th largest state.[6] Western_North_Dakota.JPG MooseND.jpg Thro_canyon.jpg, North Dakota]]
+North Dakota is in the U.S. region known as the Great Plains. The state shares the Red River of the North with Minnesota to the east. South Dakota is to the south, Montana is to the west, and the Canadian provinces of Saskatchewan and Manitoba are to the north. North Dakota is near the middle of North America with a stone marker in Rugby, North Dakota marking the "Geographic Center of the North American Continent". With an area of ,[5] North Dakota is the 19th largest state.[6] , North Dakota]]
 
 The western half of the state consists of the hilly Great Plains as well as the northern part of the Badlands, which are to the west of the Missouri River. The state's high point, White Butte at , and Theodore Roosevelt National Park[7] are in the Badlands. The region is abundant in fossil fuels including natural gas, crude oil and lignite coal. The Missouri River forms Lake Sakakawea, the third largest artificial lake in the United States, behind the Garrison Dam.[8]
 
@@ -31,7 +31,7 @@ Eastern North Dakota is overall flat; however, there are significant hills and b
 
 Climate
 
-North_Dakota_Köppen.svg North Dakota has a continental climate with hot summers and cold winters. The temperature differences are significant because of its far inland position and being in the center of the Northern Hemisphere, with roughly equal distances to the North Pole and the Equator. As such, summers are almost subtropical, but winters are cold enough to ensure plant hardiness is very low.
+North Dakota has a continental climate with hot summers and cold winters. The temperature differences are significant because of its far inland position and being in the center of the Northern Hemisphere, with roughly equal distances to the North Pole and the Equator. As such, summers are almost subtropical, but winters are cold enough to ensure plant hardiness is very low.
 
   Location      July (°F)   July (°C)   January (°F)   January (°C)
   ------------- ----------- ----------- -------------- --------------
@@ -49,11 +49,11 @@ North_Dakota_Köppen.svg North Dakota has a continental climate with hot summers
 
 History
 
-_Early_Indian_treaty_territories,_North_Dakota._Map_and_overview.png map and overview]] Native American peoples lived in what is now North Dakota for thousands of years before the coming of Europeans. The known tribes included the Mandan people (from around the 11th century),[13] while the first Hidatsa group arrived a few hundred years later.[14] They both assembled in villages on tributaries to Missouri River in what would become the west-central North Dakota. Crow Indians traveled the plains from the west to visit and trade with the related Hidatsas[15] after the split between them - probably in the 17th century.[16] Later came divisions of the Dakota people - the Lakota, the Santee and the Yanktonai. The Assiniboine and the Plains Cree undertook southward journeys to the village Indians, either for trade or for war.[17][18] The Shoshone Indians in present-day Wyoming and Montana may have carried out attacks on Indian enemies as far east as the Missouri.[19] A group of Cheyennes lived in a village of earth lodges at the lower Sheyenne River (Biesterfeldt Site) for decades in the 18th century. Due to attacks by Crees, Assiniboines and Chippewas armed with fire weapons, they left the area around 1780 and crossed Missouri some time after.[20] A band of the few Sotaio Indians lived east of Missouri River and met the uprooted Cheyennes before the end of the century. They soon followed the Cheyennes across Missouri and lived among them south of Cannonball River.[21] Eventually, the Cheyenne and the Sutaio became one tribe and turned into mounted buffalo hunters with ranges mainly outside North Dakota. Before the middle of the 19th century, the Arikara entered the future state from the south and joined the Mandan and Hidatsa.[22] With time, a number of Indians entered into treaties with the United States. Many of the treaties defined the territory of a specific tribe (see the map).
+map and overview]] Native American peoples lived in what is now North Dakota for thousands of years before the coming of Europeans. The known tribes included the Mandan people (from around the 11th century),[13] while the first Hidatsa group arrived a few hundred years later.[14] They both assembled in villages on tributaries to Missouri River in what would become the west-central North Dakota. Crow Indians traveled the plains from the west to visit and trade with the related Hidatsas[15] after the split between them - probably in the 17th century.[16] Later came divisions of the Dakota people - the Lakota, the Santee and the Yanktonai. The Assiniboine and the Plains Cree undertook southward journeys to the village Indians, either for trade or for war.[17][18] The Shoshone Indians in present-day Wyoming and Montana may have carried out attacks on Indian enemies as far east as the Missouri.[19] A group of Cheyennes lived in a village of earth lodges at the lower Sheyenne River (Biesterfeldt Site) for decades in the 18th century. Due to attacks by Crees, Assiniboines and Chippewas armed with fire weapons, they left the area around 1780 and crossed Missouri some time after.[20] A band of the few Sotaio Indians lived east of Missouri River and met the uprooted Cheyennes before the end of the century. They soon followed the Cheyennes across Missouri and lived among them south of Cannonball River.[21] Eventually, the Cheyenne and the Sutaio became one tribe and turned into mounted buffalo hunters with ranges mainly outside North Dakota. Before the middle of the 19th century, the Arikara entered the future state from the south and joined the Mandan and Hidatsa.[22] With time, a number of Indians entered into treaties with the United States. Many of the treaties defined the territory of a specific tribe (see the map).
 
 The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians.[23]
 
-From 1762 to 1802, the region formed part of Spanish Louisiana.[24] Fort_Union_Trading_Post_NHS.JPG]] European Americans settled in Dakota Territory only sparsely until the late 19th century, when railroads opened up the region. With the advantage of grants of land, they vigorously marketed their properties, extolling the region as ideal for agriculture. Congress passed an omnibus bill for statehood for North Dakota, South Dakota, Montana, and Washington, titled the Enabling Act of 1889, on February 22, 1889 during the administration of President Grover Cleveland. His successor, Benjamin Harrison, signed the proclamations formally admitting North Dakota and South Dakota to the Union on November 2, 1889.[25]
+From 1762 to 1802, the region formed part of Spanish Louisiana.[24] ]] European Americans settled in Dakota Territory only sparsely until the late 19th century, when railroads opened up the region. With the advantage of grants of land, they vigorously marketed their properties, extolling the region as ideal for agriculture. Congress passed an omnibus bill for statehood for North Dakota, South Dakota, Montana, and Washington, titled the Enabling Act of 1889, on February 22, 1889 during the administration of President Grover Cleveland. His successor, Benjamin Harrison, signed the proclamations formally admitting North Dakota and South Dakota to the Union on November 2, 1889.[25]
 
 The rivalry between the two new states presented a dilemma of which was to be admitted first. Harrison directed Secretary of State James G. Blaine to shuffle the papers and obscure from him which he was signing first. The actual order went unrecorded, thus no one knows which of the Dakotas was admitted first.[26][27] However, since _North Dakota_ alphabetically appears before _South Dakota_, its proclamation was published first in the Statutes At Large.
 
@@ -72,7 +72,7 @@ Demographics
 
 Population
 
-North_Dakota_population_map.png The United States Census Bureau estimates North Dakota's population was 760,077 on July 1, 2018, a 13.01% increase since the 2010 United States Census.[41] This makes North Dakota the U.S. state with the largest percentage in population growth since 2011. The fourth least-populous state in the country, only Alaska, Vermont, and Wyoming have fewer residents.[42]
+The United States Census Bureau estimates North Dakota's population was 760,077 on July 1, 2018, a 13.01% increase since the 2010 United States Census.[41] This makes North Dakota the U.S. state with the largest percentage in population growth since 2011. The fourth least-populous state in the country, only Alaska, Vermont, and Wyoming have fewer residents.[42]
 
 From fewer than 2,000 people in 1870, North Dakota's population grew to near 680,000 by 1930. Growth then slowed, and the population has fluctuated slightly over the past seven decades, hitting a low of 617,761 in the 1970 census, with 642,200 in the 2000 census.[43] Except for Native Americans, the North Dakota population has a lesser percentage of minorities than in the nation as a whole.[44] As of 2011, 20.7% of North Dakota's population younger than age 1 were minorities.[45] The center of population of North Dakota is in Wells County, near Sykeston.[46]
 
@@ -158,7 +158,7 @@ In the 21st century, most North Dakotans are of Northern European descent. As of
 
 Religion
 
-Vang_Evangelical_Lutheran_Church.jpg in Manfred]] North Dakota has the most churches per capita of any state.[65] Additionally, North Dakota has the highest percentage of church-going population of any state.[66]
+in Manfred]] North Dakota has the most churches per capita of any state.[65] Additionally, North Dakota has the highest percentage of church-going population of any state.[66]
 
 A 2001 survey indicated 35% of North Dakota's population was Lutheran, and 30% was Catholic. Other religious groups represented were Methodists (7%), Baptists (6%), the Assemblies of God (3%), Presbyterians (1.27%),[67] and Jehovah's Witnesses (1%). Christians with unstated or other denominational affiliations, including other Protestants and The Church of Jesus Christ of Latter-day Saints (LDS Church), totaled 3%, bringing the total Christian population to 86%. There were an estimated 920 Muslims and 730 Jews in the state in 2000.[68] Three percent of respondents answered "no religion" on the survey, and 6% declined to answer.[69]
 
@@ -175,7 +175,7 @@ Culture
 
 American Indian Nations
 
-Kane_Métis_Buffalo_Hunt.jpg witnessed and participated in the annual bison hunt of the Métis in June 1846 on the prairies in Dakota.]] In the 21st century, North Dakota has an increasing population of Native Americans, who in 2010 made up 5.44% of the population. By the early 19th century the territory was dominated by Siouan-speaking peoples, whose territory stretched west from the Great Lakes area. The word "Dakota" is a Sioux (Lakota/Dakota) word meaning "allies" or "friends".
+witnessed and participated in the annual bison hunt of the Métis in June 1846 on the prairies in Dakota.]] In the 21st century, North Dakota has an increasing population of Native Americans, who in 2010 made up 5.44% of the population. By the early 19th century the territory was dominated by Siouan-speaking peoples, whose territory stretched west from the Great Lakes area. The word "Dakota" is a Sioux (Lakota/Dakota) word meaning "allies" or "friends".
 
 The primary historic tribal nations in or around North Dakota, are the Lakota and the Dakota ("The Great Sioux Nation" or "Oceti Sakowin," meaning the seven council fires), the Blackfoot, the Cheyenne, the Chippewa (known as Ojibwe in Canada), and the Mandan. The federally recognized tribes have Indian reservations in the state.
 
@@ -187,7 +187,7 @@ A pow wow is an occasion for parades and Native American dancers in regalia, wit
 
 Norwegian and Icelandic influences
 
-Hultstrand61.jpg Around 1870 many European immigrants from Norway settled in North Dakota's northeastern corner, especially near the Red River. Icelanders also arrived from Canada.[73] Pembina was a town of many Norwegians when it was founded; they worked on family farms. They started Lutheran churches and schools, greatly outnumbering other denominations in the area. This group has unique foods such as _lefse_ and _lutefisk._ The continent's largest Scandinavian event, _Norsk Høstfest_, is celebrated each September in Minot's North Dakota State Fair Center, a local attraction featuring art, architecture, and cultural artifacts from all five Scandinavian countries. The Icelandic State Park in Pembina County and an annual Icelandic festival reflect immigrants from that country, who are also descended from Scandinavians.
+Around 1870 many European immigrants from Norway settled in North Dakota's northeastern corner, especially near the Red River. Icelanders also arrived from Canada.[73] Pembina was a town of many Norwegians when it was founded; they worked on family farms. They started Lutheran churches and schools, greatly outnumbering other denominations in the area. This group has unique foods such as _lefse_ and _lutefisk._ The continent's largest Scandinavian event, _Norsk Høstfest_, is celebrated each September in Minot's North Dakota State Fair Center, a local attraction featuring art, architecture, and cultural artifacts from all five Scandinavian countries. The Icelandic State Park in Pembina County and an annual Icelandic festival reflect immigrants from that country, who are also descended from Scandinavians.
 
 Old World folk customs have persisted for decades in North Dakota, with the revival of techniques in weaving, silver crafting, and wood carving. Traditional turf-roof houses are displayed in parks; this style originated in Iceland. A stave church is a landmark in Minot. Ethnic Norwegians constitute nearly one-third or 32.3% of Minot's total population and 30.8% of North Dakota's total population.
 
@@ -224,7 +224,7 @@ The western terminus of the North Country National Scenic Trail is on Lake Sakak
 
 Economy
 
-TraillCountyND.jpegs in Traill County, North Dakota]] Agriculture is North Dakota's largest industry, although petroleum, food processing, and technology are also major industries.[78] Its growth rate is about 4.1%.[79] According to the Bureau of Economic Analysis the economy of North Dakota had a gross domestic product of $55.180 billion in the second quarter of 2018.[80] The per capita income was $34,256,when measured from 2013-2017 by the United States Department of Commerce.[81] The three-year median household income from 2013–2017 was $61,285.[82]
+s in Traill County, North Dakota]] Agriculture is North Dakota's largest industry, although petroleum, food processing, and technology are also major industries.[78] Its growth rate is about 4.1%.[79] According to the Bureau of Economic Analysis the economy of North Dakota had a gross domestic product of $55.180 billion in the second quarter of 2018.[80] The per capita income was $34,256,when measured from 2013-2017 by the United States Department of Commerce.[81] The three-year median household income from 2013–2017 was $61,285.[82]
 
 According to Gallup data, North Dakota led the U.S. in job creation in 2013 and has done so since 2009. The state has a Job Creation Index score of 40, nearly 10 points ahead of its nearest competitors.[83] North Dakota has added 56,600 private-sector jobs since 2011, creating an annual growth rate of 7.32 percent.[84][85] According to statistics released on March 25, 2014 by the Bureau of Economic Analysis, North Dakota's personal income grew 7.6 percent in 2013 to $41.3 billion.[86] The state has recorded the highest personal income growth among all states for the sixth time since 2007. North Dakota's personal income growth is tied to various private business sectors such as agriculture, energy development, and construction.[87][88]
 
@@ -242,7 +242,7 @@ Agriculture
 
 North Dakota's earliest industries were fur trading and agriculture. Although less than 10% of the population is employed in the agricultural sector,[96] it remains a major part of the state's economy. With industrial-scale farming, it ranks 9th in the nation in the value of crops and 18th in total value of agricultural products sold. Large farms generate the most crops. The share of people in the state employed in agriculture is comparatively high: , only approximately 2–3 percent of the population of the United States is directly employed in agriculture.[97] North Dakota has about 90% of its land area in farms with of cropland, the third-largest amount in the nation. Between 2002 and 2007, total cropland increased by about one million acres (4,000  km²); North Dakota was the only state showing an increase. Over the same period, were shifted into soybean and corn monoculture production, the largest such shift in the United States.[98] Agriculturalists are concerned about too much monoculture, as it makes the economy at risk from insect or crop diseases affecting a major crop. In addition, this development has adversely affected habitats of wildlife and birds, and the balance of the ecosystem.
 
-_State_Mill,_Grand_Forks,_ND_1915.JPG The state is the largest producer in the U.S. of many cereal grains, including barley (36% of U.S. crop), durum wheat (58%), hard red spring wheat (48%), oats (17%), and combined wheat of all types (15%). It is the second leading producer of buckwheat (20%). , corn became the state's largest crop produced, although it is only 2% of total U.S. production.[99] The Corn Belt extends to North Dakota, but is more on the edge of the region instead of in its center. Corn yields are high in the southeast part of the state and smaller in other parts of the state. Most of the cereal grains are grown for livestock feed. The state is the leading producer of many oilseeds, including 92% of the U.S. canola crop, 94% of flax seed, 53% of sunflower seeds, 18% of safflower seeds, and 62% of mustard seed. Canola is suited to the cold winters and it matures fast. Processing of canola for oil production produces canola meal as a by-product. The by-product is a high-protein animal feed.
+The state is the largest producer in the U.S. of many cereal grains, including barley (36% of U.S. crop), durum wheat (58%), hard red spring wheat (48%), oats (17%), and combined wheat of all types (15%). It is the second leading producer of buckwheat (20%). , corn became the state's largest crop produced, although it is only 2% of total U.S. production.[99] The Corn Belt extends to North Dakota, but is more on the edge of the region instead of in its center. Corn yields are high in the southeast part of the state and smaller in other parts of the state. Most of the cereal grains are grown for livestock feed. The state is the leading producer of many oilseeds, including 92% of the U.S. canola crop, 94% of flax seed, 53% of sunflower seeds, 18% of safflower seeds, and 62% of mustard seed. Canola is suited to the cold winters and it matures fast. Processing of canola for oil production produces canola meal as a by-product. The by-product is a high-protein animal feed.
 
 Soybeans are also an increasingly important crop, with additional planted between 2002 and 2007.[100] Soybeans are a major crop in the eastern part of the state, and cultivation is common in the southeast part of the state. Soybeans were not grown at all in North Dakota in the 1940s, but the crop has become especially common since 1998.[101] In North Dakota soybeans have to mature fast, because of the comparatively short growing season. Soybeans are grown for livestock feed.
 
@@ -283,7 +283,7 @@ NORTH DAKOTA'S TOP AGRICULTURAL COMMODITIES (according to the USDA )[103]
 
 Energy
 
-Oil_Pump_North_Dakota.jpg in western North Dakota]]
+in western North Dakota]]
 
 The energy industry is a major contributor to the economy. North Dakota has both coal and oil reserves. Shale gas is also produced. Lignite coal reserves in Western North Dakota are used to generate about 90% of the electricity consumed, and electricity is also exported to nearby states.[104] North Dakota has the second largest lignite coal production in the U.S.[105] However, lignite coal is the lowest grade coal. There are larger and higher grade coal reserves (anthracite, bituminous coal and subbituminous coal) in other U.S. states.
 
@@ -315,7 +315,7 @@ The North Dakota Department of Emergency Services[128] provides 24/7 communicati
 
 Transportation
 
-NDI94.jpg Transportation in North Dakota is overseen by the North Dakota Department of Transportation. The major Interstate highways are Interstate 29 and Interstate 94, with I-29 and I-94 meeting at Fargo, with I-29 oriented north to south along the eastern edge of the state, and I-94 bisecting the state from east to west between Minnesota and Montana. A unique feature of the North Dakota Interstate Highway system is virtually all of it is paved in concrete, rather than blacktop, because of the extreme weather conditions it must endure. BNSF and the Canadian Pacific Railway operate the state's largest rail systems. Many branch lines formerly used by BNSF and Canadian Pacific Railway are now operated by the Dakota, Missouri Valley, and Western Railroad and the Red River Valley and Western Railroad.[133][134]
+Transportation in North Dakota is overseen by the North Dakota Department of Transportation. The major Interstate highways are Interstate 29 and Interstate 94, with I-29 and I-94 meeting at Fargo, with I-29 oriented north to south along the eastern edge of the state, and I-94 bisecting the state from east to west between Minnesota and Montana. A unique feature of the North Dakota Interstate Highway system is virtually all of it is paved in concrete, rather than blacktop, because of the extreme weather conditions it must endure. BNSF and the Canadian Pacific Railway operate the state's largest rail systems. Many branch lines formerly used by BNSF and Canadian Pacific Railway are now operated by the Dakota, Missouri Valley, and Western Railroad and the Red River Valley and Western Railroad.[133][134]
 
 North Dakota's principal airports are the Hector International Airport (FAR) in Fargo, Grand Forks International Airport (GFK), Bismarck Municipal Airport (BIS), Minot International Airport (MOT) and Sloulin Field International Airport (ISN) in Williston.
 
@@ -332,7 +332,7 @@ The Constitution of North Dakota and the North Dakota Century Code form the form
 
 Executive
 
-_John_burke.jpg, 10th Governor of North Dakota]] The executive branch is headed by the elected governor. The current governor is Doug Burgum, a Republican who took office December 15, 2016, after his predecessor, Jack Dalrymple did not seek reelection. The current Lieutenant Governor of North Dakota is Brent Sanford, who is also the President of the Senate. The offices of governor and lieutenant governor have four-year terms, which are next up for election in 2020. The governor has a cabinet consisting of appointed leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer.
+, 10th Governor of North Dakota]] The executive branch is headed by the elected governor. The current governor is Doug Burgum, a Republican who took office December 15, 2016, after his predecessor, Jack Dalrymple did not seek reelection. The current Lieutenant Governor of North Dakota is Brent Sanford, who is also the President of the Senate. The offices of governor and lieutenant governor have four-year terms, which are next up for election in 2020. The governor has a cabinet consisting of appointed leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer.
 
 Legislative
 
@@ -360,9 +360,9 @@ Federal court cases are heard in the United States District Court for the Distri
 
 Politics
 
-United_States_presidential_election_in_North_Dakota,_2016.svg of the popular vote by county, 2016 presidential election.]]
+of the popular vote by county, 2016 presidential election.]]
 
-Kevin_Cramer,_official_portrait,_116th_congress.jpg Kevin Cramer (R)]] Hoeven_Official_Portrait_2014.JPG John Hoeven (R)]] The major political parties in North Dakota are the Democratic-NPL and the Republican Party. , the Constitution Party and the Libertarian Party are also organized parties in the state.
+Kevin Cramer (R)]] John Hoeven (R)]] The major political parties in North Dakota are the Democratic-NPL and the Republican Party. , the Constitution Party and the Libertarian Party are also organized parties in the state.
 
 At the state level, the governorship has been held by the Republican Party since 1992, along with a majority of the state legislature and statewide officers. Dem-NPL showings were strong in the 2000 governor's race, and in the 2006 legislative elections, but the League has not had a major breakthrough since the administration of former state governor George Sinner.
 
@@ -383,31 +383,31 @@ Awards and recognition
 
 Major cities
 
-Fargo_North_Dakota.jpg in 2007]] 2009-0521-ND-StateCapitol.jpg in Bismarck, North Dakota]] 56.54% of North Dakota's 755,393 people live in one the top ten most populated cities.
+in 2007]] in Bismarck, North Dakota]] 56.54% of North Dakota's 755,393 people live in one the top ten most populated cities.
 
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| City        | Population | County      |       | Year established | Map                                   |
-+=============+============+=============+=======+==================+=======================================+
-| Fargo       | 122,359    | Cass        | 48.82 | 1871             | ND_Cass_County_Fargo.svg              |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Bismarck    | 72,865     | Burleigh    | 31.23 | 1872             | ND_Burleigh_County_Bismarck.svg       |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Grand Forks | 57,056     | Grand Forks | 20.09 | 1881             | ND_Grand_Forks_County_Grand_Forks.svg |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Minot       | 47,822     | Ward        | 17.45 | 1887             | ND_Ward_County_Minot.svg              |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| West Fargo  | 35,708     | Cass        | 14.72 | 1926             | ND_Cass_County_West_Fargo.svg         |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Williston   | 25,586     | Willams     | 7.56  | 1887             | ND_Williams_County_Williston.svg      |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Mandan      | 22,228     | Morton      | 11.13 | 1881             | ND_Morton_County_Mandan.svg           |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Dickinson   | 22,186     | Stark       | 10.03 | 1881             | ND_Stark_County_Dickinson.svg         |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Jamestown   | 15,387     | Stutsman    | 12.87 | 1872             | ND_Stutsman_County_Jamestown.svg      |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
-| Wahpeton    | 7,826      | Richland    | 5.29  | 1869             | ND_Richland_County_Wahpeton.svg       |
-+-------------+------------+-------------+-------+------------------+---------------------------------------+
++-------------+------------+-------------+-------+------------------+-----+
+| City        | Population | County      |       | Year established | Map |
++=============+============+=============+=======+==================+=====+
+| Fargo       | 122,359    | Cass        | 48.82 | 1871             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Bismarck    | 72,865     | Burleigh    | 31.23 | 1872             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Grand Forks | 57,056     | Grand Forks | 20.09 | 1881             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Minot       | 47,822     | Ward        | 17.45 | 1887             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| West Fargo  | 35,708     | Cass        | 14.72 | 1926             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Williston   | 25,586     | Willams     | 7.56  | 1887             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Mandan      | 22,228     | Morton      | 11.13 | 1881             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Dickinson   | 22,186     | Stark       | 10.03 | 1881             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Jamestown   | 15,387     | Stutsman    | 12.87 | 1872             |     |
++-------------+------------+-------------+-------+------------------+-----+
+| Wahpeton    | 7,826      | Richland    | 5.29  | 1869             |     |
++-------------+------------+-------------+-------+------------------+-----+
 
 : 10 largest cities in North Dakota
 
@@ -473,7 +473,7 @@ PRIVATE INSTITUTIONS:
 
 State symbols
 
-Rosa_arkansana.jpg]]
+]]
 
     State bird: western meadowlark, _Sturnella neglecta_
     State fish: northern pike, _Esox lucius_

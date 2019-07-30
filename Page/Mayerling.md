@@ -1,4 +1,4 @@
-Mayerling01.jpg at Mayerling]]
+at Mayerling]]
 
 MAYERLING is a small village (pop. 200) in Lower Austria belonging to the municipality of Alland in the district of Baden. It is situated on the Schwechat river, in the Wienerwald (_Vienna woods_), 15 miles (24 km) southwest of Vienna. From 1550, it was in the possession of the abbey of Heiligenkreuz.
 

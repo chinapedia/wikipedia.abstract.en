@@ -5,14 +5,14 @@ A binary star system, Procyon consists of a white-hued main-sequence star of spe
 
 Observation
 
-Hubble_heic0206j.jpg (_top right_), and Sirius (_bottom_) form the Winter Triangle. Orion is to the right. ]] Procyon is usually the eighth-brightest star in the night sky, culminating at midnight on January 14.[6] It forms one of the three vertices of the Winter Triangle asterism, in combination with Sirius and Betelgeuse. The prime period for evening viewing of Procyon is in late winter in the northern hemisphere.[7]
+(_top right_), and Sirius (_bottom_) form the Winter Triangle. Orion is to the right. ]] Procyon is usually the eighth-brightest star in the night sky, culminating at midnight on January 14.[6] It forms one of the three vertices of the Winter Triangle asterism, in combination with Sirius and Betelgeuse. The prime period for evening viewing of Procyon is in late winter in the northern hemisphere.[7]
 
 It has a color index of 0.42, and its hue has been described as having a faint yellow tinge to it.
 
 
 Stellar system
 
-Procyonorbitillustration.jpg Procyon is a binary star system with a bright primary component, Procyon A, having an apparent magnitude of 0.34,[8] and a faint companion, Procyon B, at magnitude 10.7.[9] The pair orbit each other with a period of 40.82 years along an elliptical orbit with an eccentricity of 0.407, more eccentric than Mercury's. The plane of their orbit is inclined at an angle of 31.1° to the line of sight with the Earth.[10] The average separation of the two components is 15.0 AU, a little less than the distance between Uranus and the Sun, though the eccentric orbit carries them as close as 8.9 AU and as far as 21.0 AU.[11]
+Procyon is a binary star system with a bright primary component, Procyon A, having an apparent magnitude of 0.34,[8] and a faint companion, Procyon B, at magnitude 10.7.[9] The pair orbit each other with a period of 40.82 years along an elliptical orbit with an eccentricity of 0.407, more eccentric than Mercury's. The plane of their orbit is inclined at an angle of 31.1° to the line of sight with the Earth.[10] The average separation of the two components is 15.0 AU, a little less than the distance between Uranus and the Sun, though the eccentric orbit carries them as close as 8.9 AU and as far as 21.0 AU.[11]
 
 Procyon A
 

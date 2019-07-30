@@ -1,4 +1,4 @@
-Two_dancers.jpg is a type of performance art practiced all over the world.]] PERFORMING ARTS are a form of art in which artists use their voices, bodies or inanimate objects to convey artistic expression. It is different from visual arts, which is when artists use paint, canvas or various materials to create physical or static art objects. Performing arts include a range of disciplines which are performed in front of a live audience.
+is a type of performance art practiced all over the world.]] PERFORMING ARTS are a form of art in which artists use their voices, bodies or inanimate objects to convey artistic expression. It is different from visual arts, which is when artists use paint, canvas or various materials to create physical or static art objects. Performing arts include a range of disciplines which are performed in front of a live audience.
 
 Theatre, music, dance and object manipulation, and other kinds of performances are present in all human cultures. The history of music and dance date to pre-historic times whereas circus skills date to at least Ancient Egypt. Many performing arts are performed professionally. Performance can be in purpose built buildings, such as theatres and opera houses, on open air stages at festivals, on stages in tents such as circuses and on the street.
 
@@ -28,7 +28,7 @@ Theatre is the branch of performing arts; concerned with acting out stories in f
 
 Dance
 
-NatalieBöckNussknacker.jpg en pointe.]] In the context of performing arts, dance generally refers to human movement, typically rhythmic and to music, used as a form of audience entertainment in a performance setting. Definitions of what constitutes dance are dependent on social, cultural, aesthetic artistic and moral constraints and range from functional movement (such as folk dance) to codified, virtuoso techniques such as ballet.[5]
+en pointe.]] In the context of performing arts, dance generally refers to human movement, typically rhythmic and to music, used as a form of audience entertainment in a performance setting. Definitions of what constitutes dance are dependent on social, cultural, aesthetic artistic and moral constraints and range from functional movement (such as folk dance) to codified, virtuoso techniques such as ballet.[5]
 
 There is one another modern form of dance that emerged in 19th- 20th century with the name of Free-Dance style. This form of dance was structured to create a harmonious personality which included features such as physical and spiritual freedom. Isadora Duncan was the first female dancer who argued about “woman of future” and developed novel vector of choreography using Nietzsche’s idea of “supreme mind in free mind”.[6]
 
@@ -38,7 +38,7 @@ Choreography is the art of making dances, and the person who practices this art 
 
 Music
 
-Music is an art form which combines pitch, rhythm, and dynamic in order to create sound. It can be performed using a variety of instruments and styles and is divided into genres such as folk, jazz, hip hop, pop, and rock, etc. As an art form, music can occur in live or recorded formats, and can be planned or improvised. Bildhuggarkonst,_Sofokles,_Nordisk_familjebok.png, as depicted in the Nordisk familjebok.]] As music is a protean art, it easily co-ordinates with words for songs as physical movements do in dance. Moreover, it has a capability of shaping human behaviors as it impacts our emotions.[8]
+Music is an art form which combines pitch, rhythm, and dynamic in order to create sound. It can be performed using a variety of instruments and styles and is divided into genres such as folk, jazz, hip hop, pop, and rock, etc. As an art form, music can occur in live or recorded formats, and can be planned or improvised. , as depicted in the Nordisk familjebok.]] As music is a protean art, it easily co-ordinates with words for songs as physical movements do in dance. Moreover, it has a capability of shaping human behaviors as it impacts our emotions.[8]
 
 
 History
@@ -51,7 +51,7 @@ However, by the 6th century AD, Western performing arts had been largely ended, 
 
 Renaissance
 
-In the 15th century performing arts, along with the arts in general, saw a revival as the Renaissance began in Italy and spread throughout Europe plays, some of which incorporated dance, which were performed and Domenico da Piacenza credited with the first use of the term _ballo_ (in _De Arte Saltandi et Choreas Ducendi_) instead of _danza_ (dance) for his _baletti_ or _balli_. The term eventually became _Ballet_. The first Ballet _per se_ is thought to be Balthasar de Beaujoyeulx's Ballet Comique de la Reine (1581). Jan_Miel_–_Actors_from_the_Commedia_dell’Arte_on_a_Wagon_in_a_Town_Square.jpg troupe on a wagon'', by Jan Miel, 1640]]
+In the 15th century performing arts, along with the arts in general, saw a revival as the Renaissance began in Italy and spread throughout Europe plays, some of which incorporated dance, which were performed and Domenico da Piacenza credited with the first use of the term _ballo_ (in _De Arte Saltandi et Choreas Ducendi_) instead of _danza_ (dance) for his _baletti_ or _balli_. The term eventually became _Ballet_. The first Ballet _per se_ is thought to be Balthasar de Beaujoyeulx's Ballet Comique de la Reine (1581). troupe on a wagon'', by Jan Miel, 1640]]
 
 By the mid-16th century Commedia Dell'arte became popular in Europe, introducing the use of improvisation. This period also introduced the Elizabethan masque, featuring music, dance and elaborate costumes as well as professional theatrical companies in England. William Shakespeare's plays in the late 16th century developed from this new class of professional performance.
 
@@ -69,7 +69,7 @@ At the turn of the 19th century, Beethoven and the Romantic movement ushered in 
 
 The 19th century was a period of growth for the performing arts for all social classes, technical advances such as the introduction of gaslight to theatres, burlesque, minstrel dancing, and variety theatre. In ballet, women make great progress in the previously male-dominated art.
 
-Isadora_Duncan_(grayscale).jpg, one of the developers of free dance.]] Modern dance began in the late 19th century and early 20th century in response to the restrictions of traditional ballet.
+, one of the developers of free dance.]] Modern dance began in the late 19th century and early 20th century in response to the restrictions of traditional ballet.
 
 Konstantin Stanislavski's "System" revolutionized acting in the early 20th century, and continues to have a major influence on actors of stage and screen to the current day. Both impressionism and modern realism were introduced to the stage during this period.
 
@@ -85,7 +85,7 @@ Post-War performance
 
 Post-World War II performing arts were highlighted by the resurgence of both ballet and opera in the Western world.
 
-Street_Theatre_Show,_La_Chaux-de-Fonds.jpg Postmodernism in performing arts dominated the 1960s to large extent.
+Postmodernism in performing arts dominated the 1960s to large extent.
 
 History of Eastern performing arts
 
@@ -125,7 +125,7 @@ In the Song dynasty, there were many popular plays involving acrobatics and musi
 
 Thailand
 
-WatPhraKeaw_Ramayana_Chariot.JPG on his chariot, a scene from the Ramakien in Wat Phra Kaew, Bangkok]]
+on his chariot, a scene from the Ramakien in Wat Phra Kaew, Bangkok]]
 
 In Thailand, it has been a tradition from the Middle Ages to stage plays based on plots drawn from Indian epics. In particular, the theatrical version of Thailand's national epic _Ramakien_, a version of the Indian _Ramayana_, remains popular in Thailand even today.
 

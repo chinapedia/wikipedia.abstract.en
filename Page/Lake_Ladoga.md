@@ -31,7 +31,7 @@ Image:la2-demis-ladoga.png|Map of Lake Ladoga File:Lake Ladoga location.jpg|Loca
 
 Geological history
 
-Baltic_History_7500-BC.svg around 7,000 BC.]] Geologically, the Lake Ladoga depression is a graben and syncline structure of Proterozoic age (Precambrian). This "Ladoga–Pasha structure", as it known, hosts Jotnian sediments. During the Pleistocene glaciations the depression was partially stripped of its sedimentary rock fill by glacial overdeepening.[9] During the Last Glacial Maximum, about 17,000 years BP, the lake served likely as a channel that concentrated ice of the Fennoscandian Ice Sheet into an ice stream that fed glacier lobes further east.[10]
+around 7,000 BC.]] Geologically, the Lake Ladoga depression is a graben and syncline structure of Proterozoic age (Precambrian). This "Ladoga–Pasha structure", as it known, hosts Jotnian sediments. During the Pleistocene glaciations the depression was partially stripped of its sedimentary rock fill by glacial overdeepening.[9] During the Last Glacial Maximum, about 17,000 years BP, the lake served likely as a channel that concentrated ice of the Fennoscandian Ice Sheet into an ice stream that fed glacier lobes further east.[10]
 
 Deglaciation following the Weichselian glaciation took place in the Lake Ladoga basin between 12,500 and 11,500 radiocarbon years BP. Lake Ladoga was initially part of the Baltic Ice Lake (70–80 m. above present sea level), a historical freshwater stage of Baltic Sea. It is possible, though not certain, that Ladoga was isolated from it during regression of the subsequent Yoldia Sea brackish stage (10,200–9,500 BP). The isolation threshold should be at Heinjoki to the east of Vyborg, where the Baltic Sea and Ladoga were connected by a strait or a river outlet at least until the formation of the River Neva, and possibly even much later, until the 12th century AD or so.[11][12]
 
@@ -59,7 +59,7 @@ The Ladoga has a population of Arctic char that is genetically close to the char
 
 History
 
-Konevets_Cathedral_from_east.JPG In the Middle Ages, the lake formed a vital part of the trade route from the Varangians to the Eastern Roman Empire, with the Norse emporium at Staraya Ladoga defending the mouth of the Volkhov since the 8th century. In the course of the Swedish–Novgorodian Wars, the area was disputed between the Novgorod Republic and Sweden. In the early 14th century, the fortresses of Korela (Kexholm) and Oreshek (Nöteborg) were established along the banks of the lake.
+In the Middle Ages, the lake formed a vital part of the trade route from the Varangians to the Eastern Roman Empire, with the Norse emporium at Staraya Ladoga defending the mouth of the Volkhov since the 8th century. In the course of the Swedish–Novgorodian Wars, the area was disputed between the Novgorod Republic and Sweden. In the early 14th century, the fortresses of Korela (Kexholm) and Oreshek (Nöteborg) were established along the banks of the lake.
 
 The ancient Valaam Monastery was founded on the island of Valaam, the largest in Lake Ladoga, abandoned between 1611–1715, magnificently restored in the 18th century, and evacuated to Finland during the Winter War in 1940. In 1989 the monastic activities in the Valaam were resumed. Other historic cloisters in the vicinity are the Konevets Monastery, which sits on the Konevets island, and the Alexander-Svirsky Monastery, which preserves fine samples of medieval Muscovite architecture.
 

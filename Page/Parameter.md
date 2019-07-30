@@ -85,7 +85,7 @@ It is possible to make statistical inferences without assuming a particular para
 
 Probability theory
 
-Poisson_pmf.svgIn probability theory, one may describe the distribution of a random variable as belonging to a _family_ of probability distributions, distinguished from each other by the values of a finite number of _parameters_. For example, one talks about "a Poisson distribution with mean value λ". The function defining the distribution (the probability mass function) is:
+In probability theory, one may describe the distribution of a random variable as belonging to a _family_ of probability distributions, distinguished from each other by the values of a finite number of _parameters_. For example, one talks about "a Poisson distribution with mean value λ". The function defining the distribution (the probability mass function) is:
 
 $$f(k;\lambda)=\frac{e^{-\lambda} \lambda^k}{k!}.$$
 This example nicely illustrates the distinction between constants, parameters, and variables. _e_ is Euler's number, a fundamental mathematical constant. The parameter λ is the mean number of observations of some phenomenon in question, a property characteristic of the system. _k_ is a variable, in this case the number of occurrences of the phenomenon actually observed from a particular sample. If we want to know the probability of observing _k_₁ occurrences, we plug it into the function to get f(k₁; λ). Without altering the system, we can take multiple samples, which will have a range of values of _k_, but the system is always characterized by the same λ.

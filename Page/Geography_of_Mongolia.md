@@ -5,16 +5,16 @@ The landscape includes one of Asia's largest freshwater lakes (Lake Khövsgöl),
 
 Mountain regions
 
-Altay-Sayan_map_en.png, Sayan Mountains and Khangai Mountains]] Mongolia has two major mountain ranges. The highest is the Altai Mountains, which stretch across the western and the southwestern regions of the country on a northwest-to-southeast axis. The range contains the country's highest peak, the high Khüiten Peak.[1]
+, Sayan Mountains and Khangai Mountains]] Mongolia has two major mountain ranges. The highest is the Altai Mountains, which stretch across the western and the southwestern regions of the country on a northwest-to-southeast axis. The range contains the country's highest peak, the high Khüiten Peak.[1]
 
 The Khangai Mountains, mountains also trending northwest to southeast, occupy much of central and north-central Mongolia. These are older, lower, and more eroded mountains, with many forests and alpine pastures. Much of eastern Mongolia is occupied by a plain, and the lowest area is a southwest-to-northeast trending depression that reaches from the Gobi Desert region in the south to the eastern frontier.
 
 
 Rivers and lakes
 
-Mongolia_Topography.png Some of Mongolia's waterways drain to the oceans, but many finish at Endorheic basins in the deserts and the depressions of Inner Asia. Rivers are most extensively developed in the north, and the country's major river system is that of the Selenge, which drains via Lake Baikal to the Arctic Ocean. Some minor tributaries of Siberia's Yenisei River, which also flows to the Arctic Ocean, rise in the mountains of northwestern Mongolia. In northeastern Mongolia the Onon River drains into the Pacific Ocean through the Shilka River in Russia and the Amur (Heilong Jiang) rivers, forming the tenth longest river system in the world.
+Some of Mongolia's waterways drain to the oceans, but many finish at Endorheic basins in the deserts and the depressions of Inner Asia. Rivers are most extensively developed in the north, and the country's major river system is that of the Selenge, which drains via Lake Baikal to the Arctic Ocean. Some minor tributaries of Siberia's Yenisei River, which also flows to the Arctic Ocean, rise in the mountains of northwestern Mongolia. In northeastern Mongolia the Onon River drains into the Pacific Ocean through the Shilka River in Russia and the Amur (Heilong Jiang) rivers, forming the tenth longest river system in the world.
 
-Mongolia_1996_CIA_map.jpg, while the northern and western portions are mountainous.]] Many rivers of western Mongolia end at lakes in the Central Asian Internal Drainage Basin, most often in the Great Lakes Depression, or at Hulun Lake, Ulaan Lake or Ulungur Lake.[2] The few streams of southern Mongolia do not reach the sea but run into lakes or deserts.
+, while the northern and western portions are mountainous.]] Many rivers of western Mongolia end at lakes in the Central Asian Internal Drainage Basin, most often in the Great Lakes Depression, or at Hulun Lake, Ulaan Lake or Ulungur Lake.[2] The few streams of southern Mongolia do not reach the sea but run into lakes or deserts.
 
 Mongolia's largest lake by area, Uvs Lake is in the Great Lakes Depression. Mongolia's largest lake by volume of water, Khövsgöl Nuur, drains via the Selenge river to the Arctic Ocean. One of the most easterly lakes of Mongolia, Hoh Nuur, at an elevation of 557 metres, is the lowest point in the country.[3] In total, the lakes and rivers of Mongolia cover 10,560 square kilometres, or 0.67% of the country.[4]
 
@@ -23,7 +23,7 @@ Climate
 
 Overview
 
-Mongolia_map_of_Köppen_climate_classification.svg Mongolia has a high elevation, with a cold and dry climate. It has an extreme continental climate with long, cold winters and short summers, during which most precipitation falls. The country averages 257 cloudless days a year, and it is usually at the center of a region of high atmospheric pressure. Precipitation is highest in the north, which averages per year, and lowest in the south, which receives . The extreme south is the Gobi Desert, some regions of which receive no precipitation at all in most years. The name Gobi is a Mongol word meaning desert, depression, salt marsh, or steppe, but which usually refers to a category of arid rangeland with insufficient vegetation to support marmots but with enough to support camels. Mongols distinguish Gobi from desert proper, although the distinction is not always apparent to outsiders unfamiliar with the Mongolian landscape. Gobi rangelands are fragile and are easily destroyed by overgrazing, which results in expansion of the true desert, a stony waste where not even Bactrian camels can survive.
+Mongolia has a high elevation, with a cold and dry climate. It has an extreme continental climate with long, cold winters and short summers, during which most precipitation falls. The country averages 257 cloudless days a year, and it is usually at the center of a region of high atmospheric pressure. Precipitation is highest in the north, which averages per year, and lowest in the south, which receives . The extreme south is the Gobi Desert, some regions of which receive no precipitation at all in most years. The name Gobi is a Mongol word meaning desert, depression, salt marsh, or steppe, but which usually refers to a category of arid rangeland with insufficient vegetation to support marmots but with enough to support camels. Mongols distinguish Gobi from desert proper, although the distinction is not always apparent to outsiders unfamiliar with the Mongolian landscape. Gobi rangelands are fragile and are easily destroyed by overgrazing, which results in expansion of the true desert, a stony waste where not even Bactrian camels can survive.
 
 Average temperatures over most of the country are below freezing from November through March and are about freezing in April and October. Winter nights can drop to in most years.[5] Summer extremes reach as high as in the southern Gobi region and in Ulaanbaatar. Most of Mongolia is covered by discontinuous permafrost (grading to continuous at high altitudes), which makes construction, road building, and mining difficult. All rivers and freshwater lakes freeze over in the winter, and smaller streams commonly freeze to the bottom. Ulaanbaatar lies at above sea level in the valley of the Tuul River. Located in the relatively well-watered north, it receives an annual average of of precipitation, almost all of which falls in July and in August. Ulaanbaatar has an average annual temperature of and a frost-free period extending on the average from mid-may to late August.
 
@@ -31,11 +31,9 @@ Mongolia's weather is characterized by extreme variability and short-term unpred
 
 Zud
 
-Zud_2.JPG Although winters are generally cold and clear, and livestock can survive, under various weather conditions livestock are unable to graze and die in large numbers. A winter in which this occurs is known as a _zud;_ causes include blizzards, drought, extreme cold, and freezing rain. Such losses of livestock, which are an inevitable and, in a sense, normal consequence of the climate, have made it difficult for planned increases in livestock numbers to be achieved.
+Although winters are generally cold and clear, and livestock can survive, under various weather conditions livestock are unable to graze and die in large numbers. A winter in which this occurs is known as a _zud;_ causes include blizzards, drought, extreme cold, and freezing rain. Such losses of livestock, which are an inevitable and, in a sense, normal consequence of the climate, have made it difficult for planned increases in livestock numbers to be achieved.
 
 Seasonal blizzards
-
-Mongolia.A2003355.0615.500m.jpg
 
 Severe blizzards can occur in the region. The winters of 1970–1971, 2000–2001, 2008–2009 and 2009–2010 were particularly harsh, featuring extremely severe zuds.
 
@@ -48,7 +46,7 @@ Snowstorms in December 2009 – February 2010 also killed 8,000,000 livestock an
 
 Ecoregions
 
-Uureg_Nuur.jpg in Northern Mongolia]]
+in Northern Mongolia]]
 
 -   Altai montane forest and forest steppe
 -   Khangai Mountains conifer forests

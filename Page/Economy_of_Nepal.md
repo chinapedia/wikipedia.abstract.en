@@ -18,7 +18,7 @@ Huge numbers of Small Foreign Investments come to Nepal via the Non Resident Nep
 
 Imports and exports
 
-Nepal_treemap.png Nepal's merchandise trade balance has improved somewhat since 2000 with the growth of the carpet and garment industries. In the fiscal year 2000-2001, exports posted a greater increase (14%) than imports (4.5%), helping bring the trade deficit down by 4% from the previous year to $749 million. Recently, the European Union has become the largest buyer of ready-made garments; fruits and vegetables (mostly apples, pears, tomatoes, various salads, peach, nectarine, potatoes, rice) from Nepal. Exports to the EU accounted for 46.13 percent of the country’s garment exports.[5]
+Nepal's merchandise trade balance has improved somewhat since 2000 with the growth of the carpet and garment industries. In the fiscal year 2000-2001, exports posted a greater increase (14%) than imports (4.5%), helping bring the trade deficit down by 4% from the previous year to $749 million. Recently, the European Union has become the largest buyer of ready-made garments; fruits and vegetables (mostly apples, pears, tomatoes, various salads, peach, nectarine, potatoes, rice) from Nepal. Exports to the EU accounted for 46.13 percent of the country’s garment exports.[5]
 
 The annual monsoon rain, or lack of it, strongly influences economic growth. From 1996 to 1999, real GDP growth averaged less than 4%. The growth rate recovered in 1999, rising to 6% before slipping slightly in 2001 to 5.5%.
 
@@ -29,7 +29,7 @@ Several multilateral organisations such as the World Bank, the Asian Development
 
 Resources
 
-Tourists_trekking_in_Annapurna_region.jpg region in western Nepal. Tourism plays a vital role in Nepal's economy.]] Progress has been made in exploiting Nepal's natural resources, tourism and hydroelectricity. With eight of the world's 10 highest mountain peaks, including Mount Everest at 8,848 m. In the early 1990s, one large public sector project and a number of private projects were planned; some have been completed. The most significant private sector financed hydroelectric projects currently in operation are the Khimti Khola (60 MW) and the Bhote Koshi Project (36 MW).The project is still undergoing and has dependency on China, India and Japan to take the further steps.
+region in western Nepal. Tourism plays a vital role in Nepal's economy.]] Progress has been made in exploiting Nepal's natural resources, tourism and hydroelectricity. With eight of the world's 10 highest mountain peaks, including Mount Everest at 8,848 m. In the early 1990s, one large public sector project and a number of private projects were planned; some have been completed. The most significant private sector financed hydroelectric projects currently in operation are the Khimti Khola (60 MW) and the Bhote Koshi Project (36 MW).The project is still undergoing and has dependency on China, India and Japan to take the further steps.
 
 Nepal has 83,000 MW of theoretical and 42,133 MW of technically/financially viable hydroelectric potential, however the total installed capacity, at present, is mere 730.47 MW.[9]
 

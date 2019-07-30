@@ -1,5 +1,3 @@
-Kista-flygbild.jpg Kistavictoriahotelnr1_Publish.jpg
-
 KISTA () is a district in the borough of Rinkeby-Kista, Stockholm, Sweden. It has a strategic position located in between Sweden's main airport, the Stockholm-Arlanda International Airport and central Stockholm, and alongside the main national highway E4 economic artery. Kista comprises residential and commercial areas, the latter in the highly technological telecommunication and information technology industry.[1] There are large research efforts in this entire area, which therefore is dubbed Kista Science City. It is known as the research park of KTH Royal Institute of Technology.
 
 Kista is the largest Information and Communications Technology (ICT) cluster in Europe,[2] and the world's second largest[3] cluster after Silicon Valley in California. It is the largest corporate area in Sweden, important to the national economy[4] due to the presence of, among others, Ericsson Group, the largest corporation in Sweden.

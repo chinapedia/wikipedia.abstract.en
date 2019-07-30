@@ -7,8 +7,6 @@ This S-shaped isthmus is situated between 7° and 10° north latitude and 77° a
 
 Elevation
 
-Panama_Topography.png
-
 The dominant feature of Panama's landform is the central spine of mountains and hills that forms the continental divide. The divide does not form part of the great mountain chains of North America, and only near the Colombian border are there highlands related to the Andean system of South America. The spine that forms the divide is the highly eroded arch of an uplift from the sea bottom, in which peaks were formed by volcanic intrusions.
 
 The mountain range of the divide is called the Cordillera de Talamanca near the Costa Rican border. Farther east it becomes the Serranía de Tabasará, and the portion of it closer to the lower saddle of the isthmus, where the canal is located, is often called the Sierra de Veraguas. As a whole, the range between Costa Rica and the canal is generally referred to by Panamanian geographers as the Cordillera Central.
@@ -17,8 +15,6 @@ The highest point in Panama is the Volcán Barú (formerly known as the Volcán 
 
 
 Climate
-
-Koppen-Geiger_Map_PAN_present.svg
 
 Panama has a tropical climate. Temperatures are uniformly high—as is the relative humidity—and there is little seasonal variation. Diurnal ranges are low; on a typical dry-season day in the capital city, the early morning minimum may be and the afternoon maximum . The temperature seldom exceeds for more than a short time.
 
@@ -31,7 +27,7 @@ A third influence that is present during the late autumn is the southwest wind o
 
 Vegetation
 
-Panama_veg_1981.jpg Panama's tropical environment supports an abundance of plants. Forests dominate, interrupted in places by grasslands, scrub, and crops. Nearly 40 percent of Panama is wooded. Deforestation is a continuing threat to the rain-drenched woodlands. Tree cover has been reduced by more than 50 percent since the 1940s.
+Panama's tropical environment supports an abundance of plants. Forests dominate, interrupted in places by grasslands, scrub, and crops. Nearly 40 percent of Panama is wooded. Deforestation is a continuing threat to the rain-drenched woodlands. Tree cover has been reduced by more than 50 percent since the 1940s.
 
 Subsistence farming, widely practiced from the northeastern jungles to the southwestern grasslands, consists largely of corn, bean, and tuber plots. Mangrove swamps occur along parts of both coasts, with banana plantations occupying deltas near Costa Rica. In many places, a multi-canopied rain forest abuts the swamp on one side of Panama and increases to the lower reaches of slopes in the other.
 
@@ -54,12 +50,10 @@ More than 300 rivers empty into the Pacific. These Pacific-oriented rivers are l
 
 Administrative divisions
 
-Countries-Panama-provinces-2005-10-18-en.png Panama is divided into 10 provinces, plus several indigenous _comarcas_. The provinces are divided into districts, which in turn are subdivided into sections called corregimientos. Configurations of the corregimientos are changed periodically to accommodate population changes as revealed in the census reports.
+Panama is divided into 10 provinces, plus several indigenous _comarcas_. The provinces are divided into districts, which in turn are subdivided into sections called corregimientos. Configurations of the corregimientos are changed periodically to accommodate population changes as revealed in the census reports.
 
 
 General facts
-
-Panama_econ_1981.jpg
 
 GEOGRAPHIC COORDINATES:
 

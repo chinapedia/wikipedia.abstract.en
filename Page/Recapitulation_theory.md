@@ -13,7 +13,7 @@ The idea of recapitulation was first formulated in biology from the 1790s onward
 
 The embryological theory was formalised by Serres in 1824–26, based on Meckel's work, in what became known as the "Meckel-Serres Law". This attempted to link comparative embryology with a "pattern of unification" in the organic world. It was supported by Étienne Geoffroy Saint-Hilaire, and became a prominent part of his ideas. It suggested that past transformations of life could have been through environmental causes working on the embryo, rather than on the adult as in Lamarckism. These naturalistic ideas led to disagreements with Georges Cuvier. The theory was widely supported in the Edinburgh and London schools of higher anatomy around 1830, notably by Robert Edmond Grant, but was opposed by Karl Ernst von Baer's ideas of divergence, and attacked by Richard Owen in the 1830s.[7]
 
-Haeckel_drawings.jpg's 1892 copy of Ernst Haeckel's controversial embryo drawings[8]]]
+'s 1892 copy of Ernst Haeckel's controversial embryo drawings[8]]]
 
 Haeckel
 
@@ -27,11 +27,11 @@ Haeckel produced several embryo drawings that often overemphasized similarities 
 
 Contemporary criticism
 
-Wilhelm_His_chick_brain_compared_to_folded_rubber_tube.jpg of chick brain compared to folded rubber tube, 1874. Ag (Anlage) = Optic lobes, matching bulges in rubber tube.]]
+of chick brain compared to folded rubber tube, 1874. Ag (Anlage) = Optic lobes, matching bulges in rubber tube.]]
 
 Haeckel's drawings misrepresented observed human embryonic development to such an extent that he attracted the opposition of several members of the scientific community, including the anatomist Wilhelm His, who had developed a rival "causal-mechanical theory" of human embryonic development.[13][14] His 's work specifically criticised Haeckel's methodology, arguing that the shapes of embryos were caused most immediately by mechanical pressures resulting from local differences in growth. These differences were, in turn, caused by "heredity". His compared the shapes of embryonic structures to those of rubber tubes that could be slit and bent, illustrating these comparisons with accurate drawings. Stephen Jay Gould noted in his 1977 book _Ontogeny and Phylogeny_ that His's attack on Haeckel's recapitulation theory was far more fundamental than that of any empirical critic, as it effectively stated that Haeckel's "biogenetic law" was irrelevant.[15][16]
 
-Haeckel_vs_von_Baer.svg and Karl Ernst von Baer compared]]
+and Karl Ernst von Baer compared]]
 
 Darwin proposed that embryos resembled each other since they shared a common ancestor, which presumably had a similar embryo, but that development did not necessarily recapitulate phylogeny: he saw no reason to suppose that an embryo at any stage resembled an adult of any ancestor. Darwin supposed further that embryos were subject to less intense selection pressure than adults, and had therefore changed less.[17]
 

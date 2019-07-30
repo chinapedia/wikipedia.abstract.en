@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Panama, incl
 
 Population
 
-Panama-demography.png Panama's population was people in , compared to 860,000 in 1950. The proportion of the population aged below 15 in 2010 was 29%. 64.5% of the population were aged between 15 and 65, with 6.6% of the population being 65 years or older.[1]
+Panama's population was people in , compared to 860,000 in 1950. The proportion of the population aged below 15 in 2010 was 29%. 64.5% of the population were aged between 15 and 65, with 6.6% of the population being 65 years or older.[1]
 
 +------+------------------+------------+------------+------------+
 |      | Total population | Proportion | Proportion | Proportion |

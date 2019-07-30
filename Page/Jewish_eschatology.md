@@ -37,13 +37,13 @@ A number of messianic ideas developed during the later Second Temple Period, ran
 
 Talmud
 
-Talmud_set.JPG The Babylonian Talmud (200-500 CE), tractate Sanhedrin, contains a long discussion of the events leading to the coming of the Messiah. Throughout Jewish history Jews have compared these passages (and others) to contemporary events in search of signs of the Messiah's imminent arrival, continuing into present times.
+The Babylonian Talmud (200-500 CE), tractate Sanhedrin, contains a long discussion of the events leading to the coming of the Messiah. Throughout Jewish history Jews have compared these passages (and others) to contemporary events in search of signs of the Messiah's imminent arrival, continuing into present times.
 
 The Talmud tells many stories about the Messiah, some of which represent famous Talmudic rabbis as receiving personal visitations from Elijah the Prophet and the Messiah.
 
 Rabbinic commentaries
 
-Maimonides-Statue.jpg in Córdoba]] In rabbinic literature, the rabbis elaborated and explained the prophecies that were found in the Hebrew Bible along with the oral law and rabbinic traditions about its meaning.[16]
+in Córdoba]] In rabbinic literature, the rabbis elaborated and explained the prophecies that were found in the Hebrew Bible along with the oral law and rabbinic traditions about its meaning.[16]
 
 Maimonides' commentary to tractate Sanhedrin stresses a relatively naturalistic interpretation of the Messiah, de-emphasizing miraculous elements. His commentary became widely (although not universally) accepted in the non- or less-mystical branches of Orthodox Judaism.[17]
 
@@ -98,13 +98,13 @@ Beyond Paradise, according to Legends of the Jews, is the higher Gan Eden, where
 
 In contemporary Judaism
 
-YitzGreenberg.jpg Irving Greenberg, representing a Modern Orthodox viewpoint, describes the afterlife as a central Jewish teaching, deriving from the belief in reward and punishment. According to Greenberg, suffering Medieval Jews emphasized the World to Come as a counterpoint to the difficulties of this life, while early Jewish modernizers portrayed Judaism as interested only in this world as a counterpoint to "otherworldly" Christianity. Greenberg sees each of these views as leading to an undesired extreme - overemphasizing the afterlife leads to asceticism, while devaluing the afterlife deprives Jews of the consolation of eternal life and justice - and calls for a synthesis, in which Jews can work to perfect this world, while also recognizing the immortality of the soul.[53]
+Irving Greenberg, representing a Modern Orthodox viewpoint, describes the afterlife as a central Jewish teaching, deriving from the belief in reward and punishment. According to Greenberg, suffering Medieval Jews emphasized the World to Come as a counterpoint to the difficulties of this life, while early Jewish modernizers portrayed Judaism as interested only in this world as a counterpoint to "otherworldly" Christianity. Greenberg sees each of these views as leading to an undesired extreme - overemphasizing the afterlife leads to asceticism, while devaluing the afterlife deprives Jews of the consolation of eternal life and justice - and calls for a synthesis, in which Jews can work to perfect this world, while also recognizing the immortality of the soul.[53]
 
 Conservative Judaism both affirms belief in the world beyond (as referenced in the _Amidah_ and Maimonides' Thirteen Precepts of Faith) while recognizing that human understanding is limited and we cannot know exactly what the world beyond consists of. Reform and Reconstructionist Judaism affirm belief in the afterlife, though they downplay the theological implications in favor of emphasizing the importance of the "here and now," as opposed to reward and punishment.
 
 Resurrection of the dead
 
-Resurrection_of_the_Dead_vision.jpg Several times, the Bible alludes to eternal life without specifying what form that life will take.[54]
+Several times, the Bible alludes to eternal life without specifying what form that life will take.[54]
 
 The first explicit mention of resurrection is the Vision of the Valley of Dry Bones in the Book of Ezekiel. However, this narrative was intended as a metaphor for national rebirth, promising the Jews return to Israel and reconstruction of the Temple, not as a description of personal resurrection.[55]
 

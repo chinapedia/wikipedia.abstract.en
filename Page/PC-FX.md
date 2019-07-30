@@ -15,11 +15,11 @@ The console was announced in late 1993.[2][3] In a special Game Machine Cross Re
 
 Unusual for a fifth generation console, the PC-FX does not have a polygon graphics processor.[5][6] NEC's reasoning for this was that polygon processors of the time were relatively low-powered, resulting in figures having a blocky appearance, and that it would be better for games to use pre-rendered polygon graphics instead.[7] The shining quality of the PC-FX was the ability to decompress 30 JPEG pictures per second while playing digitally recorded audio (essentially a form of Motion JPEG).[8][9] This resulted in the PC-FX having superior full motion video quality over all other fifth generation consoles.
 
-+----------------------+-----------------+----------------------------+
-| PC-FX-Controller.jpg | PC-FX_Mouse.jpg | PC-FX_BackupMemoryPack.jpg |
-+----------------------+-----------------+----------------------------+
-| FX-PAD controller    | FX-MOU mouse    | FX-BMP Backup Memory Pack  |
-+----------------------+-----------------+----------------------------+
++-------------------+--------------+---------------------------+
+|                   |              |                           |
++-------------------+--------------+---------------------------+
+| FX-PAD controller | FX-MOU mouse | FX-BMP Backup Memory Pack |
++-------------------+--------------+---------------------------+
 
 The system's target audience was roughly five years older than that of the PC Engine, in hopes that PC Engine fans would be brought over to the successor console.[10] In an interview roughly a year before the system launch, a representative stated that though NEC had not entirely ruled out the possibility of a release outside Japan, they had concluded that unless additional non-gaming uses were developed for the PC-FX, it would sell poorly in the USA due to its high price.[11]
 
@@ -32,11 +32,11 @@ The PC-FX was discontinued in early 1998. It sold only 400,000 units over its li
 
 Hardware
 
-+------------------------------+------------------------------+----------------------------------+
-| NEC-PC-FX-Motherboard-L1.jpg | NEC-PC-FX-Motherboard-L2.jpg | NEC-PC-FX-Daughterboard-Flat.jpg |
-+------------------------------+------------------------------+----------------------------------+
-| PC-FX motherboard            | PC-FX motherboard            | PC-FX daughterboard              |
-+------------------------------+------------------------------+----------------------------------+
++-------------------+-------------------+---------------------+
+|                   |                   |                     |
++-------------------+-------------------+---------------------+
+| PC-FX motherboard | PC-FX motherboard | PC-FX daughterboard |
++-------------------+-------------------+---------------------+
 
 The PC-FX uses CD-ROMs as its storage medium, following on from the expansion released for its predecessor, which originally used HuCards. The game controller is virtually identical to a DUO-RX controller, but the rapid fire switches have been replaced with mode A/B switches. Peripherals include a PC-FX mouse, which is supported by strategy games like _Farland Story FX_ and _Power DoLLS FX_.
 
@@ -56,11 +56,11 @@ The system has a reputation for having a higher percentage of adults-only video 
 
 Technical specifications
 
-+-------------------------------------------------------------------+--------------------------------------------------+----------------------+
-| NEC-PC-FX-BR-wCord.jpg                                            | NEC-PC-FX-FL-Open.jpg                            | NEC-PC-FX-Bottom.jpg |
-+-------------------------------------------------------------------+--------------------------------------------------+----------------------+
-| Back of the system, revealing the S-video and composite A/V ports | PC-FX with an open top, revealing the disc drive | Bottom               |
-+-------------------------------------------------------------------+--------------------------------------------------+----------------------+
++-------------------------------------------------------------------+--------------------------------------------------+--------+
+|                                                                   |                                                  |        |
++-------------------------------------------------------------------+--------------------------------------------------+--------+
+| Back of the system, revealing the S-video and composite A/V ports | PC-FX with an open top, revealing the disc drive | Bottom |
++-------------------------------------------------------------------+--------------------------------------------------+--------+
 
 CPU: 32-Bit NEC V810 RISC running at 21.5 MHz, 15.5 MIPS
 CD-ROM Drive: 2X CD-ROM, 300KB / Sec

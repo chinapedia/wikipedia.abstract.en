@@ -1,4 +1,4 @@
-Giza-pyramids.JPG of the Giza Necropolis, as seen from the air]] Koh_Ker_temple(2007).jpg, Cambodia]] PyramidOfTheMoonTeotihuacan.jpg, Teotihuacan]] Candi_Sukuh_2007.JPG in Java, Indonesia]] Pyramide_Güimar.jpg, Tenerife (Spain)]]
+of the Giza Necropolis, as seen from the air]] , Cambodia]] , Teotihuacan]] in Java, Indonesia]] , Tenerife (Spain)]]
 
 A PYRAMID (from __)[1][2] is a structure whose outer surfaces are triangular and converge to a single step at the top, making the shape roughly a pyramid in the geometric sense. The base of a pyramid can be trilateral, quadrilateral, or of any polygon shape. As such, a pyramid has at least three outer triangular surfaces (at least four faces including the base). The square pyramid, with a square base and four triangular outer surfaces, is a common version.
 
@@ -13,7 +13,7 @@ Ancient pyramid}}
 
 Mesopotamia
 
-Choghazanbil2.jpg is an ancient Elamite complex in the Khuzestan province of Iran.]] The Mesopotamians built the earliest pyramidal structures, called _ziggurats_. In ancient times, these were brightly painted in gold/bronze. Since they were constructed of sun-dried mud-brick, little remains of them. Ziggurats were built by the Sumerians, Babylonians, Elamites, Akkadians, and Assyrians for local religions. Each ziggurat was part of a temple complex which included other buildings. The precursors of the ziggurat were raised platforms that date from the Ubaid period[4] during the fourth millennium BC. The earliest ziggurats began near the end of the Early Dynastic Period.[5] The latest Mesopotamian ziggurats date from the 6th century BC.
+is an ancient Elamite complex in the Khuzestan province of Iran.]] The Mesopotamians built the earliest pyramidal structures, called _ziggurats_. In ancient times, these were brightly painted in gold/bronze. Since they were constructed of sun-dried mud-brick, little remains of them. Ziggurats were built by the Sumerians, Babylonians, Elamites, Akkadians, and Assyrians for local religions. Each ziggurat was part of a temple complex which included other buildings. The precursors of the ziggurat were raised platforms that date from the Ubaid period[4] during the fourth millennium BC. The earliest ziggurats began near the end of the Early Dynastic Period.[5] The latest Mesopotamian ziggurats date from the 6th century BC.
 
 Built in receding tiers upon a rectangular, oval, or square platform, the ziggurat was a pyramidal structure with a flat top. Sun-baked bricks made up the core of the ziggurat with facings of fired bricks on the outside. The facings were often glazed in different colors and may have had astrological significance. Kings sometimes had their names engraved on these glazed bricks. The number of tiers ranged from two to seven. It is assumed that they had shrines at the top, but there is no archaeological evidence for this and the only textual evidence is from Herodotus.[6] Access to the shrine would have been by a series of ramps on one side of the ziggurat or by a spiral ramp from base to summit.
 
@@ -29,7 +29,7 @@ The last king to build royal pyramids was Ahmose,[16] with later kings hiding th
 
 Sudan
 
-Nubian20pyramids.jpg with pylon-like entrances.]] While pyramids are associated with Egypt, the nation of Sudan has 220 extant pyramids, the most numerous in the world.[19] Nubian pyramids were constructed (roughly 240 of them) at three sites in Sudan to serve as tombs for the kings and queens of Napata and Meroë. The pyramids of Kush, also known as Nubian Pyramids, have different characteristics than the pyramids of Egypt. The Nubian pyramids were constructed at a steeper angle than Egyptian ones. Pyramids were still being built in Sudan as late as 200 AD.
+with pylon-like entrances.]] While pyramids are associated with Egypt, the nation of Sudan has 220 extant pyramids, the most numerous in the world.[19] Nubian pyramids were constructed (roughly 240 of them) at three sites in Sudan to serve as tombs for the kings and queens of Napata and Meroë. The pyramids of Kush, also known as Nubian Pyramids, have different characteristics than the pyramids of Egypt. The Nubian pyramids were constructed at a steeper angle than Egyptian ones. Pyramids were still being built in Sudan as late as 200 AD.
 
 Nigeria
 
@@ -37,7 +37,7 @@ One of the unique structures of Igbo culture was the NSUDE PYRAMIDS, at the Nige
 
 Greece
 
-Pausanias (2nd century AD) mentions two buildings resembling pyramids, one, 19 kilometres (12 mi) southwest of the still standing structure at Hellenikon,[21] a common tomb for soldiers who died in a legendary struggle for the throne of Argos and another which he was told was the tomb of Argives killed in a battle around 669/8 BC. Neither of these still survive and there is no evidence that they resembled Egyptian pyramids. Pyramide_von_Hellinikon.jpg]]
+Pausanias (2nd century AD) mentions two buildings resembling pyramids, one, 19 kilometres (12 mi) southwest of the still standing structure at Hellenikon,[21] a common tomb for soldiers who died in a legendary struggle for the throne of Argos and another which he was told was the tomb of Argives killed in a battle around 669/8 BC. Neither of these still survive and there is no evidence that they resembled Egyptian pyramids. ]]
 
 There are also at least two surviving pyramid-like structures still available to study, one at Hellenikon and the other at Ligourio/Ligurio, a village near the ancient theatre Epidaurus. These buildings were not constructed in the same manner as the pyramids in Egypt. They do have inwardly sloping walls but other than those there is no obvious resemblance to Egyptian pyramids. They had large central rooms (unlike Egyptian pyramids) and the Hellenikon structure is rectangular rather than square, which means that the sides could not have met at a point.[22] The stone used to build these structures was limestone quarried locally and was cut to fit, not into freestanding blocks like the Great Pyramid of Giza.
 
@@ -55,7 +55,7 @@ Autochthonous Guanche traditions as well as surviving images indicate that simil
 
 China
 
-Tomb_of_the_General_1.jpg, Northeastern China]]
+, Northeastern China]]
 
 There are many square flat-topped mound tombs in China. The First Emperor Qin Shi Huang (circa 221 BC, who unified the 7 pre-Imperial Kingdoms) was buried under a large mound outside modern day Xi'an. In the following centuries about a dozen more Han Dynasty royals were also buried under flat-topped pyramidal earthworks.
 
@@ -69,11 +69,11 @@ Pyramids in Mexico were often used as places of human sacrifice. For the re-cons
 
 North America
 
-Mississippian_culture_mound_components_HRoe_2011.jpg Many pre-Columbian Native American societies of ancient North America built large pyramidal earth structures known as platform mounds. Among the largest and best-known of these structures is Monks Mound at the site of Cahokia in what became Illinois, completed around 1100 AD, which has a base larger than that of the Great Pyramid at Giza. Many of the mounds underwent multiple episodes of mound construction at periodic intervals, some becoming quite large. They are believed to have played a central role in the mound-building peoples' religious life and documented uses include semi-public chief's house platforms, public temple platforms, mortuary platforms, charnel house platforms, earth lodge/town house platforms, residence platforms, square ground and rotunda platforms, and dance platforms.[27][28][29] Cultures who built substructure mounds include the Troyville culture, Coles Creek culture, Plaquemine culture and Mississippian cultures.
+Many pre-Columbian Native American societies of ancient North America built large pyramidal earth structures known as platform mounds. Among the largest and best-known of these structures is Monks Mound at the site of Cahokia in what became Illinois, completed around 1100 AD, which has a base larger than that of the Great Pyramid at Giza. Many of the mounds underwent multiple episodes of mound construction at periodic intervals, some becoming quite large. They are believed to have played a central role in the mound-building peoples' religious life and documented uses include semi-public chief's house platforms, public temple platforms, mortuary platforms, charnel house platforms, earth lodge/town house platforms, residence platforms, square ground and rotunda platforms, and dance platforms.[27][28][29] Cultures who built substructure mounds include the Troyville culture, Coles Creek culture, Plaquemine culture and Mississippian cultures.
 
 Roman Empire
 
-Pyramid_of_cestius.jpg in Rome, Italy]] The 27-metre-high Pyramid of Cestius was built by the end of the 1st century BC and still exists today, close to the Porta San Paolo. Another one, named _Meta Romuli_, standing in the _Ager Vaticanus_ (today's Borgo), was destroyed at the end of the 15th century.[30]
+in Rome, Italy]] The 27-metre-high Pyramid of Cestius was built by the end of the 1st century BC and still exists today, close to the Porta San Paolo. Another one, named _Meta Romuli_, standing in the _Ager Vaticanus_ (today's Borgo), was destroyed at the end of the 15th century.[30]
 
 Medieval Europe
 
@@ -87,7 +87,7 @@ Big Temple-Temple.jpg|The granite gopuram (tower) of Brihadeeswarar Temple, 1010
 
 Indonesia
 
-Borobudur-Nothwest-view.jpg, Central Java, Indonesia.]] Next to menhir, stone table, and stone statue; Austronesian megalithic culture in Indonesia also featured earth and stone step pyramid structures called _punden berundak_ as discovered in Pangguyangan site near Cisolok[32] and in Cipari near Kuningan.[33] The construction of stone pyramids is based on the native beliefs that mountains and high places are the abode for the spirit of the ancestors.[34]
+, Central Java, Indonesia.]] Next to menhir, stone table, and stone statue; Austronesian megalithic culture in Indonesia also featured earth and stone step pyramid structures called _punden berundak_ as discovered in Pangguyangan site near Cisolok[32] and in Cipari near Kuningan.[33] The construction of stone pyramids is based on the native beliefs that mountains and high places are the abode for the spirit of the ancestors.[34]
 
 The step pyramid is the basic design of 8th century Borobudur Buddhist monument in Central Java.[35] However the later temples built in Java were influenced by Indian Hindu architecture, as displayed by the towering spires of Prambanan temple. In the 15th century Java during late Majapahit period saw the revival of Austronesian indigenous elements as displayed by Sukuh temple that somewhat resemble Mesoamerican pyramid, and also stepped pyramids of Mount Penanggungan.[36]
 
@@ -98,7 +98,7 @@ Andean cultures had used pyramids in various architectural structures such as th
 
 Modern examples
 
-Louvre_at_dusk.JPG (Paris, France)]] Luxor_Hotel.jpg in Las Vegas, Nevada]] TamaRe.jpg" village, as seen from the air]] Pyramid_Arena.jpg in Memphis, Tennessee]] Sunway_Pyramid_front.jpg is the mall that has an Egyptian-inspired Pyramid with a lion designed Sphinx.]] Walter_Pyramid.jpg in Long Beach, California]] MAM_Caracas.jpg's design for a museum in Caracas]] SF_Transamerica_full_CA.jpg in San Francisco, California]]
+(Paris, France)]] in Las Vegas, Nevada]] " village, as seen from the air]] in Memphis, Tennessee]] is the mall that has an Egyptian-inspired Pyramid with a lion designed Sphinx.]] in Long Beach, California]] 's design for a museum in Caracas]] in San Francisco, California]]
 
 -   The Louvre Pyramid in Paris, France, in the court of the Louvre Museum, is a 20.6 metre (about 70 foot) glass structure which acts as an entrance to the museum. It was designed by the American architect I. M. Pei and was completed in 1989. The Pyramide Inversée (Inverted Pyramid) is displayed in the underground Louvre shopping mall.
 -   The Tama-Re village was an Egyptian-themed set of buildings and monuments established near Eatonton, Georgia by Nuwaubians in 1993 that was mostly demolished after being sold under government forfeiture in 2005.

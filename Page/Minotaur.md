@@ -7,7 +7,7 @@ The term Minotaur derives from the Ancient Greek , a compound of the name (Minos
 
 Birth and appearance
 
-Gehörnter_Gott,_Enkomi.jpg, Cyprus]]
+, Cyprus]]
 
 After he ascended the throne of the island of Crete, Minos competed with his brothers to rule. Minos prayed to Poseidon, the sea god, to send him a snow-white bull, as a sign of support (the Cretan Bull). He was to kill the bull to show honor to the deity, but decided to keep it instead because of its beauty. He thought Poseidon would not care if he kept the white bull and sacrificed one of his own. To punish Minos, Poseidon made Pasiphaë, Minos's wife, fall deeply in love with the bull. Pasiphaë had craftsman Daedalus make a hollow wooden cow, and climbed inside it in order to mate with the white bull. The offspring was the monstrous Minotaur. Pasiphaë nursed him, but he grew and became ferocious, being the unnatural offspring of a woman and a beast; he had no natural source of nourishment and thus devoured humans for sustenance. Minos, after getting advice from the oracle at Delphi, had Daedalus construct a gigantic labyrinth to hold the Minotaur. Its location was near Minos' palace in Knossos.[8]
 
@@ -18,7 +18,7 @@ From Classical times through the Renaissance, the Minotaur appears at the center
 
 Theseus and the Minotaur
 
-Bullls-head_rhyton,_stone,_Knossos,_1600-1450_BC,_AMH,_145160.jpg in the shape of a bull's head, Heraklion Archaeological Museum]]
+in the shape of a bull's head, Heraklion Archaeological Museum]]
 
 Androgeus, son of Minos, had been killed by the Athenians, who were jealous of the victories he had won at the Panathenaic festival. Others say he was killed at Marathon by the Cretan Bull, his mother's former taurine lover, which Aegeus, king of Athens, had commanded him to slay. The common tradition is that Minos waged war to avenge the death of his son and won. Catullus, in his account of the Minotaur's birth,[11] refers to another version in which Athens was "compelled by the cruel plague to pay penalties for the killing of Androgeos." Aegeus had to avert the plague caused by his crime by sending "young men at the same time as the best of unwed girls as a feast" to the Minotaur. Minos required that seven Athenian youths and seven maidens, drawn by lots, be sent every seventh or ninth year (some accounts say every year[12]) to be devoured by the Minotaur.
 
@@ -27,14 +27,14 @@ When the third sacrifice approached, Theseus volunteered to slay the monster. He
 
 Etruscan view
 
-Pasiphae_Minotauros_Cdm_Paris_DeRidder1066_detail.jpg and the Minotaur, Attic red-figure kylix found at Etruscan Vulci (Cabinet des Médailles, Paris)]]
+and the Minotaur, Attic red-figure kylix found at Etruscan Vulci (Cabinet des Médailles, Paris)]]
 
 This essentially Athenian view of the Minotaur as the antagonist of Theseus reflects the literary sources, which are biased in favour of Athenian perspectives. The Etruscans, who paired Ariadne with Dionysus, never with Theseus, offered an alternative Etruscan view of the Minotaur, never seen in Greek arts: on an Etruscan red-figure wine-cup of the early-to-mid fourth century Pasiphaë tenderly cradles an infant Minotaur on her knee.[14]
 
 
 Interpretations
 
-Theseus_Minotaur_Ramey_Tuileries.jpg Fighting the Minotaur'', 1826, by Jean-Etienne Ramey, marble, Tuileries Gardens, Paris]]
+Fighting the Minotaur'', 1826, by Jean-Etienne Ramey, marble, Tuileries Gardens, Paris]]
 
 The contest between Theseus and the Minotaur was frequently represented in Greek art. A Knossian didrachm exhibits on one side the labyrinth, on the other the Minotaur surrounded by a semicircle of small balls, probably intended for stars; one of the monster's names was Asterion ("star").
 
@@ -42,7 +42,7 @@ While the ruins of Minos' palace at Knossos were discovered, the labyrinth never
 
 Some modern mythologists regard the Minotaur as a solar personification and a Minoan adaptation of the Baal-Moloch of the Phoenicians. The slaying of the Minotaur by Theseus in that case indicates the breaking of Athenian tributary relations with Minoan Crete.[16]
 
-Minotaurus.gif, engraving of a 16th-century AD gem in the Medici Collection in the Palazzo Strozzi, Florence[17]]]
+, engraving of a 16th-century AD gem in the Medici Collection in the Palazzo Strozzi, Florence[17]]]
 
 According to A. B. Cook, _Minos_ and _Minotaur_ are only different forms of the same personage, representing the sun-god of the Cretans, who depicted the sun as a bull. He and J. G. Frazer both explain Pasiphaë's union with the bull as a sacred ceremony, at which the queen of Knossos was wedded to a bull-formed god, just as the wife of the Tyrant in Athens was wedded to Dionysus. E. Pottier, who does not dispute the historical personality of Minos, in view of the story of Phalaris, considers it probable that in Crete (where a bull cult may have existed by the side of that of the labrys) victims were tortured by being shut up in the belly of a red-hot brazen bull. The story of Talos, the Cretan man of brass, who heated himself red-hot and clasped strangers in his embrace as soon as they landed on the island, is probably of similar origin.
 
@@ -55,7 +55,7 @@ Cultural references
 
 Dante's _Inferno_
 
-DVinfernoMinotaurOnCliff_m.jpg and Virgil meet the Minotaur, illustration by Gustave Doré]] Blake_Dante_Hell_XII.jpg's image of the Minotaur to illustrate _Inferno_ XII]] The Minotaur (_infamia di Creti_, Italian for "infamy of Crete"), appears briefly in Dante's _Inferno_, in Canto 12 (l. 12–13, 16–21), where Dante and his guide Virgil find themselves picking their way among boulders dislodged on the slope and preparing to enter into the seventh circle of hell.[18]
+and Virgil meet the Minotaur, illustration by Gustave Doré]] 's image of the Minotaur to illustrate _Inferno_ XII]] The Minotaur (_infamia di Creti_, Italian for "infamy of Crete"), appears briefly in Dante's _Inferno_, in Canto 12 (l. 12–13, 16–21), where Dante and his guide Virgil find themselves picking their way among boulders dislodged on the slope and preparing to enter into the seventh circle of hell.[18]
 
 Dante and Virgil encounter the beast first among the "men of blood": those damned for their violent natures. Some commentators believe that Dante, in a reversal of classical tradition, bestowed the beast with a man's head upon a bull's body,[19] though this representation had already appeared in the Middle Ages.[20]
 
@@ -85,7 +85,7 @@ Virgil and Dante then pass quickly by to the centaurs (Nessus, Chiron, Pholus, a
 
 Surrealist art
 
-Edward_Burne-Jones_-_Tile_Design_-_Theseus_and_the_Minotaur_in_the_Labyrinth_-_Google_Art_Project.jpg's illustration of _Theseus and the Minotaur in the Labyrinth_, 1861]]
+'s illustration of _Theseus and the Minotaur in the Labyrinth_, 1861]]
 
 -   From 1933 to 1939, Albert Skira published an avant-garde literary magazine _Minotaure_, with covers featuring a Minotaur theme. The first issue had cover art by Pablo Picasso. Later covers included work by Salvador Dali, Rene Magritte, Max Ernst, and Diego Rivera.
 -   Pablo Picasso made a series of etchings in the _Vollard Suite_ showing the Minotaur being tormented, possibly inspired also by Spanish bullfighting.[27] He also depicted a Minotaur in his 1933 etching _Minotaur Kneeling over Sleeping Girl_ and in his 1935 etching _Minotauromachy_.

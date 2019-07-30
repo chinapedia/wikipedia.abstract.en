@@ -33,8 +33,6 @@ The political defence strategy of North Macedonia is based upon:
 -   Defending the country in case of an aggression;
 -   Uniformity and conformity in the international co-operation in the area of defence.
 
-New_VTNG_adjutant_general_moves_Macedonia_partnership_forward_130912-Z-DH905-323.jpg
-
 North Macedonia maintains a defensive potential and combat readiness of its Armed Forces which function as a deterring factor in case of a potential aggression in accordance with its capabilities and international arrangements.
 
 In accordance with the Article 123 of the Constitution of North Macedonia, no one in the state has the right to declare capitulation. Therefore, the defence system of North Macedonia is based on the determination to give resistance by use of an armed force against any possible aggression and for a defensive combat on the whole territory. For that purpose, the defence system is responsible to provide conditions so that all of the state authorities and institutions function and conditions for joining the collective defence and security systems as a protection of the independence and sovereignty are provided.
@@ -72,7 +70,7 @@ In 2008, the Macedonian army had roughly 8,000 soldiers.
 
 War in Afghanistan
 
-ISAF-Logo.svg Macedonian_Soldiers_in_Kabul.jpg The then-Republic of Macedonia began its participation in the NATO-led ISAF operation in August 2002, with the allocation of two officers to the Turkish contingent. On 8 September, independence day of the Republic of Macedonia, the Macedonian flag was flown for the first time in Kabul. In March 2003, the Army of the Republic of Macedonia increased its contribution in the ISAF mission by sending one section from the 2nd Infantry Brigade as part of the German contingent. As a result of the successful execution of the mission and the high marks received for participation in ISAF, from August 2004 until the end of 2006, the ARM participated with one mechanized infantry platoon from the Leopard unit. At the same time, in August 2005 medical personnel was sent in ISAF as part of the Combined Medical Team in the A3 format (Macedonia, Albania, Croatia), which successfully carried out tasks at the Kabul airport, firstly in the composition of the Greek Field Hospital, and later in the composition of the Czech Field Hospital.
+The then-Republic of Macedonia began its participation in the NATO-led ISAF operation in August 2002, with the allocation of two officers to the Turkish contingent. On 8 September, independence day of the Republic of Macedonia, the Macedonian flag was flown for the first time in Kabul. In March 2003, the Army of the Republic of Macedonia increased its contribution in the ISAF mission by sending one section from the 2nd Infantry Brigade as part of the German contingent. As a result of the successful execution of the mission and the high marks received for participation in ISAF, from August 2004 until the end of 2006, the ARM participated with one mechanized infantry platoon from the Leopard unit. At the same time, in August 2005 medical personnel was sent in ISAF as part of the Combined Medical Team in the A3 format (Macedonia, Albania, Croatia), which successfully carried out tasks at the Kabul airport, firstly in the composition of the Greek Field Hospital, and later in the composition of the Czech Field Hospital.
 
 Based on the assessments of the Alliance in the part of the declared units from the ARM, which achieved the required strict standards in the field of training and operational procedures, and in line with the Operational Capabilities Concept (OCC), the ARM in June 2006 sent also one mechanized infantry company, part of the first mechanized infantry brigade, in the composition of the British contingent in ISAF. The trust shown from the United Kingdom towards the ninety "Scorpions" from the first infantry brigade, was justified in full.
 
@@ -82,13 +80,11 @@ As a support to the efforts for self-sustainability of the Afghanistan National 
 
 EUFOR Althea
 
-Macedonian_Air_Force_Mi-17.jpg
-
 North Macedonia has reaffirmed its strategic commitment for attaining membership to the EU by its resolute political commitment to support the Common Foreign and Security Policy (CSFP) and by declaring a concrete contribution to the civilian and military operations in the framework of the Common Security and Defence Policy (CSDP). The participation of the then-Republic of Macedonia in the EU crisis management military operation Althea in Bosnia and Herzegovina marked the first in the series of concrete and substantial contributions that the country provided in the framework of the civilian and military CSDP operations aimed at enhancing the EU capacities. The Agreement with the EU for its participation in Althea was signed on 3 July 2006, in Brussels. The contribution of the Republic of Macedonia to the EU operation Althea has confirmed its progress from a consumer of the first EU military operation (Concordia 2003) into an active contributor to the CSDP (Althea 2006). The country's first contribution to an EU-led operation began in July 2006, by declaring a helicopter detachment, consisting of two Mi-8/17 helicopters and 21crew. In November 2006, the Republic of Macedonia enhanced its own contribution to the EU operation Althea in Bosnia and Herzegovina by declaring a medical team composed of 10 personnel for providing Role 1 medical support in Camp Butmir.
 
 Iraq War
 
-Macedonian_soldiers_practice_reflexive_fire_skills_at_Camp_Taji,_Iraq_(April_2008).jpg Soldiers_say_goodbye_to_Macedonian_friends_DVIDS97161.jpg With the political consensus of all political entities in the RM as well as the overall Macedonian public in terms of the support of the Coalition in the "fight against terrorism", the Republic of Macedonia took active participation by sending its units in the Iraqi Freedom Mission. Based on all legal authorizations, the Assembly of the Republic of Macedonia adopted decisions for sending its units to the Iraqi Freedom Mission in the period between June 2003 and December 2008 for each mission separately every 6 months during the term of the mission. The Mission started by sending two officers in the US Central Command in Tampa, in March 2003. Upon the completion of the major combat operations, the toppling of Saddam Hussein’s regime, and the adoption of Resolution 1546 of the United Nations Security Council, in June 2003 on sending a special task platoon that executed the tasks as part of the 4th infantry division of the Multi-National Force Iraq. In 2008, participation in the Iraqi Freedom Mission was increased by an additional platoon. A total of 11 rotations were conducted between June 2003 and December 2008. The eleventh rotation was the last, which completed participation in the Iraqi Mission. The overall number of personnel that participated in this mission is 490.
+With the political consensus of all political entities in the RM as well as the overall Macedonian public in terms of the support of the Coalition in the "fight against terrorism", the Republic of Macedonia took active participation by sending its units in the Iraqi Freedom Mission. Based on all legal authorizations, the Assembly of the Republic of Macedonia adopted decisions for sending its units to the Iraqi Freedom Mission in the period between June 2003 and December 2008 for each mission separately every 6 months during the term of the mission. The Mission started by sending two officers in the US Central Command in Tampa, in March 2003. Upon the completion of the major combat operations, the toppling of Saddam Hussein’s regime, and the adoption of Resolution 1546 of the United Nations Security Council, in June 2003 on sending a special task platoon that executed the tasks as part of the 4th infantry division of the Multi-National Force Iraq. In 2008, participation in the Iraqi Freedom Mission was increased by an additional platoon. A total of 11 rotations were conducted between June 2003 and December 2008. The eleventh rotation was the last, which completed participation in the Iraqi Mission. The overall number of personnel that participated in this mission is 490.
 
 Support for KFOR
 
@@ -161,8 +157,6 @@ Formed in 2001, the Logistics Command oversees all combat service support operat
 
 Tasks:
 
-Military_of_the_Republic_of_Macedonia.png
-
 1. Planning, organizing, coordinating and executing logistical support in the following functional areas:
 
 -   supply
@@ -195,231 +189,231 @@ In order to improve the quality of training of the Army in 1996, were establishe
 
 Equipment
 
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| Vehicle                    | Photo                               | Origin | Type                        | In service | Notes                                        |
-+============================+=====================================+========+=============================+============+==============================================+
-| Tanks                      |                                     |        |                             |            |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| T-72A                      | Macedonian_Army_T-72.jpg            | /      | Main battle tank            | 31[2]      |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| Armoured Fighting Vehicles |                                     |        |                             |            |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| BMP-2                      | Macedonian_Army_BMP-2.jpg           |        | Infantry fighting vehicle   | 11[3]      |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| MT-LB                      | Macedonian_MT-LB.jpg                |        | Armored personnel carrier   | 11[4]      |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| BTR-80                     | Macedonian_Army_BTR-80.jpg          |        | Armored personnel carrier   | 12[5]      | Used by Special Forces                       |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| BTR-70                     | Macedonian_Army_BTR-70.jpg          |        | Armored personnel carrier   | 60[6]      | Some modified with diesel engine             |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| TM-170 "Hermelin"          | Macedonian_Army_ТМ-170_Hermelin.jpg |        | Armored personnel carrier   | 115[7]     | Modernized by Eurokompozit                   |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| ELBO Leonidas-2            | ELDYK_APCs.JPG                      |        | Armored personnel carrier   | 10[8]      |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| M113                       | US_M113_in_Samarra_Iraq.jpg         |        | Armored personnel carrier   | 30[9]      | In reserve                                   |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| Light Military Vehicles    |                                     |        |                             |            |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| HMMWV                      | Macedonian_Army_HMMWV.jpg           |        | Light armored vehicle       | 80[10]     | Variants:                                    |
-|                            |                                     |        |                             |            |                                              |
-|                            |                                     |        |                             |            | -   Armoured                                 |
-|                            |                                     |        |                             |            | -   Semi Armored                             |
-|                            |                                     |        |                             |            | -   Communications system                    |
-|                            |                                     |        |                             |            | -   Тransport variant                        |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| Otokar Cobra               | Macedonian_Army_Cobra_4x4.jpg       |        | Light armored vehicle       | 2[11]      | Donation from Turkey use by Military Police  |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-| Land Rover                 | Macedonian_Army_Lend_Rover_Wolf.jpg |        | Light high mobility vehicle | [12]       | Turkish variant of Land Rover Wolf by Otokar |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
-|                            |                                     |        |                             |            |                                              |
-+----------------------------+-------------------------------------+--------+-----------------------------+------------+----------------------------------------------+
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| Vehicle                    | Photo | Origin | Type                        | In service | Notes                                        |
++============================+=======+========+=============================+============+==============================================+
+| Tanks                      |       |        |                             |            |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| T-72A                      |       | /      | Main battle tank            | 31[2]      |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| Armoured Fighting Vehicles |       |        |                             |            |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| BMP-2                      |       |        | Infantry fighting vehicle   | 11[3]      |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| MT-LB                      |       |        | Armored personnel carrier   | 11[4]      |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| BTR-80                     |       |        | Armored personnel carrier   | 12[5]      | Used by Special Forces                       |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| BTR-70                     |       |        | Armored personnel carrier   | 60[6]      | Some modified with diesel engine             |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| TM-170 "Hermelin"          |       |        | Armored personnel carrier   | 115[7]     | Modernized by Eurokompozit                   |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| ELBO Leonidas-2            |       |        | Armored personnel carrier   | 10[8]      |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| M113                       |       |        | Armored personnel carrier   | 30[9]      | In reserve                                   |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| Light Military Vehicles    |       |        |                             |            |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| HMMWV                      |       |        | Light armored vehicle       | 80[10]     | Variants:                                    |
+|                            |       |        |                             |            |                                              |
+|                            |       |        |                             |            | -   Armoured                                 |
+|                            |       |        |                             |            | -   Semi Armored                             |
+|                            |       |        |                             |            | -   Communications system                    |
+|                            |       |        |                             |            | -   Тransport variant                        |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| Otokar Cobra               |       |        | Light armored vehicle       | 2[11]      | Donation from Turkey use by Military Police  |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+| Land Rover                 |       |        | Light high mobility vehicle | [12]       | Turkish variant of Land Rover Wolf by Otokar |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
+|                            |       |        |                             |            |                                              |
++----------------------------+-------+--------+-----------------------------+------------+----------------------------------------------+
 
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| Vehicle                        | Photo                                                                                                                                                                                                                                | Origin | Type                  | In service | Notes      |
-+================================+======================================================================================================================================================================================================================================+========+=======================+============+============+
-| Logistics and Utility Vehicles |                                                                                                                                                                                                                                      |        |                       |            |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| Land Rover Defender            | Macedonian_Army_Land_Rover.jpg                                                                                                                                                                                                       |        | Light Utility Vehicle | 100+[13]   |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| Mercedes G                     | Red_Cross_Vehicles_2.JPG                                                                                                                                                                                                             |        | Light Utility Vehicle | [14]       |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| Military Trucks                |                                                                                                                                                                                                                                      |        |                       |            |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| Oshkosh FMTV                   | A_U.S._Air_Force_truck_assigned_to_the_726th_Air_Control_Squadron_(ACS),_part_of_a_six-truck_convoy,_moves_across_the_Idaho_desert,_roughly_75_miles_from_Mountain_Home_Air_Force_Base_in_Idaho,_Oct._4,_2013_131004-F-WU507-061.jpg |        | Medium utility truck  | [15]       |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| Iveco                          | San_Hist_WELASYS_-_Schweizer_Armee_-_Steel_Parade_2006.jpg                                                                                                                                                                           |        | Medium utility truck  | 44[16]     |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| DAF                            | DAF_YBZ-3300_takelauto.JPG                                                                                                                                                                                                           |        | Medium utility truck  | 126[17]    |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| BMC                            | Macedonian_Army_BMC.jpg                                                                                                                                                                                                              |        | Medium utility truck  | [18]       |            |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
-| M35/44 truck                   | M35A2_with_winch.jpg                                                                                                                                                                                                                 |        | Medium utility truck  | 150[19]    | In reserve |
-+--------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+-----------------------+------------+------------+
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| Vehicle                        | Photo | Origin | Type                  | In service | Notes      |
++================================+=======+========+=======================+============+============+
+| Logistics and Utility Vehicles |       |        |                       |            |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| Land Rover Defender            |       |        | Light Utility Vehicle | 100+[13]   |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| Mercedes G                     |       |        | Light Utility Vehicle | [14]       |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| Military Trucks                |       |        |                       |            |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| Oshkosh FMTV                   |       |        | Medium utility truck  | [15]       |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| Iveco                          |       |        | Medium utility truck  | 44[16]     |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| DAF                            |       |        | Medium utility truck  | 126[17]    |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| BMC                            |       |        | Medium utility truck  | [18]       |            |
++--------------------------------+-------+--------+-----------------------+------------+------------+
+| M35/44 truck                   |       |        | Medium utility truck  | 150[19]    | In reserve |
++--------------------------------+-------+--------+-----------------------+------------+------------+
 
 Artillery
 
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| Artillery     | Photo                                           | Origin | Type                     | In service |
-+===============+=================================================+========+==========================+============+
-| Artillery     |                                                 |        |                          |            |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| BM-21 Grad    | Russian_BM-21_Grad_in_Saint_Petersburg.JPG      |        | Multiple rocket launcher | 12[20]     |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M-63 "Plamen" | PlamenS_VS1.jpg                                 |        | Multiple rocket launcher | 12[21]     |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M2A1          | M101-105mm-howitzer-camp-pendleton-20050326.jpg |        | Howitzer                 | 36[22]     |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M-30          | 122mm_M-30_kalemegdan.jpg                       |        | Howitzer                 | 108[23]    |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| Mortars       |                                                 |        |                          |            |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M57 60mm      | Минобацач_М57_60мм.jpg                          |        | Light mortars            | [24]       |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M69 82mm      | Минобацач_М69_82мм.jpg                          |        | Infantry mortar          | [25]       |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| 82-BM-37      | Zagan_82_mm_moździerz_wz_37.jpg                 |        | Infantry mortar          | [26]       |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M43 120mm     | 120_mm_regimental_mortar_M1943.jpg              |        | Heavy mortars            | [27]       |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
-| M52UB 120mm   | Teski_minobacac_120_mm_UB_M52_2011_7242.jpg     |        | Heavy mortars            | [28]       |
-+---------------+-------------------------------------------------+--------+--------------------------+------------+
++---------------+-------+--------+--------------------------+------------+
+| Artillery     | Photo | Origin | Type                     | In service |
++===============+=======+========+==========================+============+
+| Artillery     |       |        |                          |            |
++---------------+-------+--------+--------------------------+------------+
+| BM-21 Grad    |       |        | Multiple rocket launcher | 12[20]     |
++---------------+-------+--------+--------------------------+------------+
+| M-63 "Plamen" |       |        | Multiple rocket launcher | 12[21]     |
++---------------+-------+--------+--------------------------+------------+
+| M2A1          |       |        | Howitzer                 | 36[22]     |
++---------------+-------+--------+--------------------------+------------+
+| M-30          |       |        | Howitzer                 | 108[23]    |
++---------------+-------+--------+--------------------------+------------+
+| Mortars       |       |        |                          |            |
++---------------+-------+--------+--------------------------+------------+
+| M57 60mm      |       |        | Light mortars            | [24]       |
++---------------+-------+--------+--------------------------+------------+
+| M69 82mm      |       |        | Infantry mortar          | [25]       |
++---------------+-------+--------+--------------------------+------------+
+| 82-BM-37      |       |        | Infantry mortar          | [26]       |
++---------------+-------+--------+--------------------------+------------+
+| M43 120mm     |       |        | Heavy mortars            | [27]       |
++---------------+-------+--------+--------------------------+------------+
+| M52UB 120mm   |       |        | Heavy mortars            | [28]       |
++---------------+-------+--------+--------------------------+------------+
 
 Small arms
 
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Name           | Photo                                            | Type                 | Origin | Notes      |
-+================+==================================================+======================+========+============+
-| CZ 75          | Cz75.jpg                                         | Pistol               |        | 9×19mm     |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| CZ-99/999      | Zastava_CZ_99-IMG_6547-white.jpg                 | Pistol               |        | 9×19mm     |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Daewoo DP-51   | Daewoo_DP51.JPG                                  | Pistol               |        | 9×19mm     |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| HS2000[29]     | HS_2000_cal._9x19.JPG                            | Pistol               |        | 9×19mm     |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| H&K MP5        | MP5A3_Marinir.jpg                                | Submachine gun       |        | 9×19mm     |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M4             | PEO_M4_Carbine_RAS_M68_CCO.jpg                   | Assault rifle        |        | 5.56×45mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| H&K G3         | DCB_Shooting_G3_pictures.jpg                     | Assault rifle        | /      | 7.62×51mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M21    | M21A.jpg                                         | Assault rifle        |        | 5.56×45mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M90    | -                                                | Assault rifle        |        | 5.56×45mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M70    | Zastava_M-70.jpg                                 | Assault rifle        |        | 7.62×39mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M92    | M92.jpg                                          | Assault rifle        |        | 7.62×39mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zvi Falcon     | -                                                | Sniper rifle         |        | 12.7×108mm |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M93    | Sniper_Zastava_M93.jpg                           | Sniper rifle         |        | 12.7×108mm |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Sako TRG-42    | Sako_TRG-42.jpg                                  | Sniper rifle         |        | 12.7×57mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| SVD Dragunov   | Interpolitex_2013_(536-15).jpg                   | Sniper rifle         |        | 7.62×54mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M76    | Zastava-M76-Full.jpg                             | Sniper rifle         |        | 7.92×57mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M2 Browning    | M2_Browning,_Musée_de_l'Armée.jpg                | Heavy machine gun    |        | 12.7×99mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| NSV            | 12,7_NSV_Turku_3.JPG                             | Heavy machine gun    |        | 12.7×108mm |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M240           | PEO_M240B_Profile.jpg                            | Machine gun          |        | 7.62×51mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M249 SAW       | PEO_M249_Para_ACOG.jpg                           | Machine gun          |        | 5.56×45mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| PKM            | 7,62_KK_PKM_Helsinki_2012.JPG                    | Machine gun          |        | 7.62×54mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava M84    | Zastava_M84.jpg                                  | Machine gun          |        | 7.62×54mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| MG3            | BundeswehrMG3.jpg                                | Machine gun          |        | 7.62×51mm  |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Protecta       | Protecta-shotgun-p1030163.jpg                    | Shotgun              |        | 12 gauge   |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Benelli Nova   | Benelli_nova_camo.jpg                            | Shotgun              |        | 12 gauge   |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Zastava BGA 30 | 30-мм_автоматический_гранатомет_АГС-17_Пламя.jpg | Grenade launcher     |        | 30mm       |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| RBG-6          | RBG6.png                                         | Grenade launcher     |        | 40mm       |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M203           | M203_1.jpg                                       | Grenade launcher     |        | 40mm       |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| GP-25          | GP-25_at_Tula_State_Museum_of_Weapons.jpg        | Grenade launcher     |        | 40mm       |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-|                |                                                  |                      |        |            |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| Milan ATGM     | MILAN-IWM_PR_27-IMG_6500-gradient.jpg            | ATGM                 |        | 115mm      |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M80 Zolja      | Zolja1.jpg                                       | Man-portable missile | /      | 64mm       |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M79 Osa        | M79-OSA.jpg                                      | Man-portable missile | /      | 90mm       |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
-| M90 Stršljen   | Stršljen_M90.jpg                                 | Man-portable missile | /      | 120mm      |
-+----------------+--------------------------------------------------+----------------------+--------+------------+
++----------------+-------+----------------------+--------+------------+
+| Name           | Photo | Type                 | Origin | Notes      |
++================+=======+======================+========+============+
+| CZ 75          |       | Pistol               |        | 9×19mm     |
++----------------+-------+----------------------+--------+------------+
+| CZ-99/999      |       | Pistol               |        | 9×19mm     |
++----------------+-------+----------------------+--------+------------+
+| Daewoo DP-51   |       | Pistol               |        | 9×19mm     |
++----------------+-------+----------------------+--------+------------+
+| HS2000[29]     |       | Pistol               |        | 9×19mm     |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| H&K MP5        |       | Submachine gun       |        | 9×19mm     |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| M4             |       | Assault rifle        |        | 5.56×45mm  |
++----------------+-------+----------------------+--------+------------+
+| H&K G3         |       | Assault rifle        | /      | 7.62×51mm  |
++----------------+-------+----------------------+--------+------------+
+| Zastava M21    |       | Assault rifle        |        | 5.56×45mm  |
++----------------+-------+----------------------+--------+------------+
+| Zastava M90    | -     | Assault rifle        |        | 5.56×45mm  |
++----------------+-------+----------------------+--------+------------+
+| Zastava M70    |       | Assault rifle        |        | 7.62×39mm  |
++----------------+-------+----------------------+--------+------------+
+| Zastava M92    |       | Assault rifle        |        | 7.62×39mm  |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| Zvi Falcon     | -     | Sniper rifle         |        | 12.7×108mm |
++----------------+-------+----------------------+--------+------------+
+| Zastava M93    |       | Sniper rifle         |        | 12.7×108mm |
++----------------+-------+----------------------+--------+------------+
+| Sako TRG-42    |       | Sniper rifle         |        | 12.7×57mm  |
++----------------+-------+----------------------+--------+------------+
+| SVD Dragunov   |       | Sniper rifle         |        | 7.62×54mm  |
++----------------+-------+----------------------+--------+------------+
+| Zastava M76    |       | Sniper rifle         |        | 7.92×57mm  |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| M2 Browning    |       | Heavy machine gun    |        | 12.7×99mm  |
++----------------+-------+----------------------+--------+------------+
+| NSV            |       | Heavy machine gun    |        | 12.7×108mm |
++----------------+-------+----------------------+--------+------------+
+| M240           |       | Machine gun          |        | 7.62×51mm  |
++----------------+-------+----------------------+--------+------------+
+| M249 SAW       |       | Machine gun          |        | 5.56×45mm  |
++----------------+-------+----------------------+--------+------------+
+| PKM            |       | Machine gun          |        | 7.62×54mm  |
++----------------+-------+----------------------+--------+------------+
+| Zastava M84    |       | Machine gun          |        | 7.62×54mm  |
++----------------+-------+----------------------+--------+------------+
+| MG3            |       | Machine gun          |        | 7.62×51mm  |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| Protecta       |       | Shotgun              |        | 12 gauge   |
++----------------+-------+----------------------+--------+------------+
+| Benelli Nova   |       | Shotgun              |        | 12 gauge   |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| Zastava BGA 30 |       | Grenade launcher     |        | 30mm       |
++----------------+-------+----------------------+--------+------------+
+| RBG-6          |       | Grenade launcher     |        | 40mm       |
++----------------+-------+----------------------+--------+------------+
+| M203           |       | Grenade launcher     |        | 40mm       |
++----------------+-------+----------------------+--------+------------+
+| GP-25          |       | Grenade launcher     |        | 40mm       |
++----------------+-------+----------------------+--------+------------+
+|                |       |                      |        |            |
++----------------+-------+----------------------+--------+------------+
+| Milan ATGM     |       | ATGM                 |        | 115mm      |
++----------------+-------+----------------------+--------+------------+
+| M80 Zolja      |       | Man-portable missile | /      | 64mm       |
++----------------+-------+----------------------+--------+------------+
+| M79 Osa        |       | Man-portable missile | /      | 90mm       |
++----------------+-------+----------------------+--------+------------+
+| M90 Stršljen   |       | Man-portable missile | /      | 120mm      |
++----------------+-------+----------------------+--------+------------+
 
 
 Air Force
 
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-| Aircraft         | Photo                                       | Origin | Type              | In service | Notes                                     |
-+==================+=============================================+========+===================+============+===========================================+
-| Helicopters      |                                             |        |                   |            |                                           |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-|                  |                                             |        |                   |            |                                           |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-| Mil Mi-24        | Macedonian_Air_Force_Mil_Mi-24V_Lofting.jpg | /      | Attack            | 4          | Supplied by Ukraine 4 modernized by Elbit |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-| Mil Mi-17        | Macedonian_Air_Force_Mi-17.jpg              | /      | Transport /Attack | [30] 6     | Supplied by Ukraine 4 modernized by Elbit |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-| Bell UH-1        | UH-1H_Macedonia_(21101995201).jpg           |        | Transport         | [31] 2     | In reserve                                |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-|                  |                                             |        |                   |            |                                           |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-| Trainer Aircraft |                                             |        |                   |            |                                           |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-| Bell 206         | LAPD_Bell_206_Jetranger.jpg                 |        | Trainer           | [32] 4     |                                           |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
-|                  |                                             |        |                   |            |                                           |
-+------------------+---------------------------------------------+--------+-------------------+------------+-------------------------------------------+
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+| Aircraft         | Photo | Origin | Type              | In service | Notes                                     |
++==================+=======+========+===================+============+===========================================+
+| Helicopters      |       |        |                   |            |                                           |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+|                  |       |        |                   |            |                                           |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+| Mil Mi-24        |       | /      | Attack            | 4          | Supplied by Ukraine 4 modernized by Elbit |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+| Mil Mi-17        |       | /      | Transport /Attack | [30] 6     | Supplied by Ukraine 4 modernized by Elbit |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+| Bell UH-1        |       |        | Transport         | [31] 2     | In reserve                                |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+|                  |       |        |                   |            |                                           |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+| Trainer Aircraft |       |        |                   |            |                                           |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+| Bell 206         |       |        | Trainer           | [32] 4     |                                           |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
+|                  |       |        |                   |            |                                           |
++------------------+-------+--------+-------------------+------------+-------------------------------------------+
 
 Air defense
 
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| System                 | Photo                         | Origin | Type       | In service | Notes      |
-+========================+===============================+========+============+============+============+
-| Surface to Air Missile |                               |        |            |            |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-|                        |                               |        |            |            |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| 9K35 Strela-10         | Macedonian_Army_Strela-10.jpg |        | SAM        | [33] 8     |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| 9K38 Igla              | Macedonian_Army_9K38_Igla.jpg |        | MANPADS    | [34]       |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| 9K32 Strela-2          | Fliegerfaust_STRELA.jpg       |        | MANPADS    | [35]       |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-|                        |                               |        |            |            |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| Anti Aircraft Gun      |                               |        |            |            |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| Zastava M55 20mm       |                               |        | Autocannon | [36]       |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-| Bofors 40mm            |                               |        | Autocannon | [37]       | In reserve |
-+------------------------+-------------------------------+--------+------------+------------+------------+
-|                        |                               |        |            |            |            |
-+------------------------+-------------------------------+--------+------------+------------+------------+
++------------------------+-------+--------+------------+------------+------------+
+| System                 | Photo | Origin | Type       | In service | Notes      |
++========================+=======+========+============+============+============+
+| Surface to Air Missile |       |        |            |            |            |
++------------------------+-------+--------+------------+------------+------------+
+|                        |       |        |            |            |            |
++------------------------+-------+--------+------------+------------+------------+
+| 9K35 Strela-10         |       |        | SAM        | [33] 8     |            |
++------------------------+-------+--------+------------+------------+------------+
+| 9K38 Igla              |       |        | MANPADS    | [34]       |            |
++------------------------+-------+--------+------------+------------+------------+
+| 9K32 Strela-2          |       |        | MANPADS    | [35]       |            |
++------------------------+-------+--------+------------+------------+------------+
+|                        |       |        |            |            |            |
++------------------------+-------+--------+------------+------------+------------+
+| Anti Aircraft Gun      |       |        |            |            |            |
++------------------------+-------+--------+------------+------------+------------+
+| Zastava M55 20mm       |       |        | Autocannon | [36]       |            |
++------------------------+-------+--------+------------+------------+------------+
+| Bofors 40mm            |       |        | Autocannon | [37]       | In reserve |
++------------------------+-------+--------+------------+------------+------------+
+|                        |       |        |            |            |            |
++------------------------+-------+--------+------------+------------+------------+
 
 Retired equipment
 

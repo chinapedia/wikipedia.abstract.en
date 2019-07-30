@@ -24,7 +24,7 @@ Scholars variously surmise that _Jersey_ and _Jèrri_ derive from _jarð_ (Old N
 
 History
 
-Assize_d'Heritage.jpg.]] Jersey history is influenced by its strategic location between the northern coast of France and the southern coast of England; the island's recorded history extends over a thousand years.
+.]] Jersey history is influenced by its strategic location between the northern coast of France and the southern coast of England; the island's recorded history extends over a thousand years.
 
 La Cotte de St Brelade is a Palaeolithic site inhabited before rising sea levels transformed Jersey into an island. Jersey was a centre of Neolithic activity, as demonstrated by the concentration of dolmens. Evidence of Bronze Age and early Iron Age settlements can be found in many locations around the island.
 
@@ -36,7 +36,7 @@ In the Treaty of Paris (1259), the English king formally surrendered his claim t
 
 On 7 October 1406, 1,000 French men at arms led by Pero Niño invaded Jersey, landing at St Aubin's Bay and defeated the 3,000 defenders but failed to capture the island.[29]
 
-In the late 16th century, islanders travelled across the North Atlantic to participate in the Newfoundland fisheries.[30] In recognition for help given to him during his exile in Jersey in the 1640s, King Charles II of England gave Vice Admiral Sir George Carteret, bailiff and governor, a large grant of land in the American colonies in between the Hudson and Delaware rivers, which he promptly named New Jersey. It is now a state in the United States.[31][32] Jour_d'la_Libéthâtion_Jèrri_9_d'Mai_2012_81.jpg
+In the late 16th century, islanders travelled across the North Atlantic to participate in the Newfoundland fisheries.[30] In recognition for help given to him during his exile in Jersey in the 1640s, King Charles II of England gave Vice Admiral Sir George Carteret, bailiff and governor, a large grant of land in the American colonies in between the Hudson and Delaware rivers, which he promptly named New Jersey. It is now a state in the United States.[31][32]
 
 Aware of the military importance of Jersey, the British government had ordered that the island be heavily fortified. On 6 January 1781, a French invasion force of 2,000 men set out to take over the island, but only half of the force arrived and landed. The Battle of Jersey lasted about half an hour, with the English successfully defending the island. There were about thirty casualties on each side, and the English took 600 French prisoners who were subsequently sent to England. The French commanders were slain.
 
@@ -47,7 +47,7 @@ During the Second World War, some citizens were evacuated to the UK but most rem
 
 Politics
 
-States_Building_in_St_Helier_Jersey.jpg Jersey's unicameral legislature is the States Assembly. It includes 49 elected members: 8 senators (elected on an island-wide basis), 12 Connétables (often called 'constables', heads of parishes) and 29 deputies (representing constituencies), all elected for four-year terms as from the October 2011 elections.[35] There are also five non-voting members appointed by the Crown: the Bailiff, the Lieutenant Governor of Jersey, the Dean of Jersey, the Attorney General and Solicitor General.[36] Jersey has one of the lowest voter turnouts internationally, with just 33% of the electorate voting in 2005, putting it well below the 77% European average for that year.[37]
+Jersey's unicameral legislature is the States Assembly. It includes 49 elected members: 8 senators (elected on an island-wide basis), 12 Connétables (often called 'constables', heads of parishes) and 29 deputies (representing constituencies), all elected for four-year terms as from the October 2011 elections.[35] There are also five non-voting members appointed by the Crown: the Bailiff, the Lieutenant Governor of Jersey, the Dean of Jersey, the Attorney General and Solicitor General.[36] Jersey has one of the lowest voter turnouts internationally, with just 33% of the electorate voting in 2005, putting it well below the 77% European average for that year.[37]
 
 The Council of Ministers, consisting of a Chief Minister and nine ministers, makes up part of the Government of Jersey.[38][39] Each minister may appoint up to two assistant ministers.[40] A Chief Executive is head of the civil service.[41] Some government functions are carried out in the island's 12 parishes.
 
@@ -69,7 +69,7 @@ The principal court is the Royal Court, with appeals to the Jersey Court of Appe
 
 Parishes
 
-Jersey_Map.svg Administratively, Jersey is divided into 12 parishes. All border on the sea. They were named after the Christian saints to whom their ancient parish churches were dedicated:
+Administratively, Jersey is divided into 12 parishes. All border on the sea. They were named after the Christian saints to whom their ancient parish churches were dedicated:
 
 The parishes of Jersey are further divided into _vingtaines_ (or, in St. Ouen, _cueillettes_), divisions that are historic. Today they are used chiefly for purposes of local administration and electoral constituency.
 
@@ -112,7 +112,7 @@ In October 2012, the Council of Ministers issued a "Common policy for external r
 
 Geography
 
-Jersey_by_Sentinel-2.jpg Bonne_Nuit_Bay.jpg bay]] Jersey-islands.png of Jersey]] Jersey is an island measuring (or 66,436 vergées),[66] including reclaimed land and intertidal zone. It lies in the English Channel, about from the Cotentin Peninsula in Normandy, France, and about south of Great Britain.[67] It is the largest and southernmost of the Channel Islands, with a maximum land elevation of 143 m (469 ft) above sea level.
+bay]] of Jersey]] Jersey is an island measuring (or 66,436 vergées),[66] including reclaimed land and intertidal zone. It lies in the English Channel, about from the Cotentin Peninsula in Normandy, France, and about south of Great Britain.[67] It is the largest and southernmost of the Channel Islands, with a maximum land elevation of 143 m (469 ft) above sea level.
 
 The central two parishes (St.John and St.Lawrence) occupy the centre of the island and offer many direct routes from north to south through a number of valleys including water works valley.
 
@@ -136,7 +136,7 @@ Thanks to specialisation in a few high-return sectors, at purchasing power parit
 
 Tourism supports not only hotels, but also retail and services: in 2015 there were 717,600 visitors spending £243 million.[73] Duty-free goods are available for purchase on travel to and from the island.
 
-Aerial_view_of_fields_in_St_Clement,_Jersey.jpg]] In 2009 57% of the Island's area was agricultural land (an increase on 2008). Major agricultural products are potatoes and dairy produce; agriculture's share of GVA increased 5% in 2009, a fifth successive year of growth.[74] Jersey cattle are a small breed of cow widely known for its rich milk and cream; the quality of its meat is also appreciated on a small scale.[75][76] The herd total in 2009 was 5,090 animals.[77] Fisheries and aquaculture make use of Jersey's marine resources to a total value of over £6 million in 2009.[78]
+]] In 2009 57% of the Island's area was agricultural land (an increase on 2008). Major agricultural products are potatoes and dairy produce; agriculture's share of GVA increased 5% in 2009, a fifth successive year of growth.[74] Jersey cattle are a small breed of cow widely known for its rich milk and cream; the quality of its meat is also appreciated on a small scale.[75][76] The herd total in 2009 was 5,090 animals.[77] Fisheries and aquaculture make use of Jersey's marine resources to a total value of over £6 million in 2009.[78]
 
 Farmers and growers often sell surplus food and flowers in boxes on the roadside, relying on the honesty of customers to drop the correct change into the money box and take what they want. In the 21st century, diversification of agriculture and amendments in planning strategy have led to farm shops replacing many of the roadside stalls.
 
@@ -160,7 +160,7 @@ Jersey is considered to be a tax haven by some organisations - for example the F
 
 Currency
 
-Dual_currency_cash_machines_in_Jersey.jpg at a bank that dispensed a choice of Bank of England or Jersey banknotes. Since the intervention of the Treasurer of the States in 2005, cash machines generally (with the exception of those at the airport and Elizabeth Harbour) no longer dispense British notes.]] Commemorative_stamps_for_Mesny's_150th_anniversary_1992.jpg]] Jersey issues its own postage stamps and Jersey banknotes and coins that circulate with UK coinage, Bank of England notes, Scottish notes and Guernsey currency within the island. Jersey currency is not legal tender outside Jersey: However, in the United Kingdom it is _acceptable tender_[84] and can be surrendered at banks within that country in exchange for Bank of England-issued currency on a like-for-like basis.
+at a bank that dispensed a choice of Bank of England or Jersey banknotes. Since the intervention of the Treasurer of the States in 2005, cash machines generally (with the exception of those at the airport and Elizabeth Harbour) no longer dispense British notes.]] ]] Jersey issues its own postage stamps and Jersey banknotes and coins that circulate with UK coinage, Bank of England notes, Scottish notes and Guernsey currency within the island. Jersey currency is not legal tender outside Jersey: However, in the United Kingdom it is _acceptable tender_[84] and can be surrendered at banks within that country in exchange for Bank of England-issued currency on a like-for-like basis.
 
 Coinage
 
@@ -183,7 +183,7 @@ In July 2014, the Jersey Financial Services Commission approved the establishmen
 
 Demographics
 
-Mont_Orgueil_and_Gorey_harbour,_Jersey.jpg was built in the 13th century after its split from Normandy.]] Censuses have been undertaken in Jersey since 1821. In the 2011 census, the total resident population was estimated to be 97,857, of whom 34% live in Saint Helier, the island's only town.[86] Approximately half the island's population was born in Jersey; 31% of the population were born elsewhere in the British Isles, 7% in continental Portugal or Madeira, 8% in other European countries and 4% elsewhere.[87]
+was built in the 13th century after its split from Normandy.]] Censuses have been undertaken in Jersey since 1821. In the 2011 census, the total resident population was estimated to be 97,857, of whom 34% live in Saint Helier, the island's only town.[86] Approximately half the island's population was born in Jersey; 31% of the population were born elsewhere in the British Isles, 7% in continental Portugal or Madeira, 8% in other European countries and 4% elsewhere.[87]
 
 The people of Jersey are often called Islanders or, in individual terms, Jerseyman or Jerseywoman. Some Jersey-born people identify as British.
 
@@ -223,9 +223,9 @@ The established church is the Church of England, from 2015 under the See of Cant
 
 Culture
 
-La_Nethe_Rue_road_sign_Jersey.jpg.]] Until the 19th century, indigenous Jèrriais – a variety of Norman – was the language of the island, though French was used for official business. During the 20th century, British cultural influence saw an intense language shift take place and Jersey today is predominantly English-speaking.[100] Jèrriais nonetheless survives; around 2,600 islanders (three percent) are reckoned to be habitual speakers, and some 10,000 (12 percent) in all claim some knowledge of the language, particularly amongst the elderly in rural parishes. There have been efforts to revive Jèrriais in schools, and the highest number of declared Jèrriais speakers is in the capital.
+.]] Until the 19th century, indigenous Jèrriais – a variety of Norman – was the language of the island, though French was used for official business. During the 20th century, British cultural influence saw an intense language shift take place and Jersey today is predominantly English-speaking.[100] Jèrriais nonetheless survives; around 2,600 islanders (three percent) are reckoned to be habitual speakers, and some 10,000 (12 percent) in all claim some knowledge of the language, particularly amongst the elderly in rural parishes. There have been efforts to revive Jèrriais in schools, and the highest number of declared Jèrriais speakers is in the capital.
 
-Lillie_langtry.JPG, nicknamed the _Jersey Lily_.]] The dialects of Jèrriais differ in phonology and, to a lesser extent, lexis between parishes, with the most marked differences to be heard between those of the west and east. Many place names are in Jèrriais, and French and English place names are also to be found. Anglicisation of the place names increased apace with the migration of English people to the island.
+, nicknamed the _Jersey Lily_.]] The dialects of Jèrriais differ in phonology and, to a lesser extent, lexis between parishes, with the most marked differences to be heard between those of the west and east. Many place names are in Jèrriais, and French and English place names are also to be found. Anglicisation of the place names increased apace with the migration of English people to the island.
 
 Some Neolithic carvings are the earliest works of artistic character to be found in Jersey. Only fragmentary wall-paintings remain from the rich mediaeval artistic heritage, after the wholesale iconoclasm of the Calvinist Reformation of the 16th century.
 
@@ -237,7 +237,7 @@ Media
 
 Broadcast
 
-Haûlîngu'thie_d'la_couleu_d'Jèrri_l'7_d'Avri_2011_11.jpg]] BBC Radio Jersey provides a radio service, and BBC Channel Islands News with headquarters in Jersey provides a joint television news service with Guernsey. ITV Channel Television is a regional ITV franchise shared with the Bailiwick of Guernsey but with its headquarters in Jersey.
+]] BBC Radio Jersey provides a radio service, and BBC Channel Islands News with headquarters in Jersey provides a joint television news service with Guernsey. ITV Channel Television is a regional ITV franchise shared with the Bailiwick of Guernsey but with its headquarters in Jersey.
 
 Channel 103 is a commercial radio station. Bailiwick Radio broadcasts two music services, Classics and Hits, online at bailiwickradio.com, Apple & Android apps and on TuneIn. Radio Youth FM is an internet radio station run by young people.
 
@@ -249,7 +249,7 @@ Jersey has only one newspaper, the _Jersey Evening Post_, which is printed six d
 
 Music
 
-Jersey_Town_Criterium_2011_07.jpg The traditional folk music of Jersey was common in country areas until the mid-20th century. It cannot be separated from the musical traditions of continental Europe, and the majority of songs and tunes that have been documented have close parallels or variants, particularly in France. Most of the surviving traditional songs are in French, with a minority in Jèrriais.
+The traditional folk music of Jersey was common in country areas until the mid-20th century. It cannot be separated from the musical traditions of continental Europe, and the majority of songs and tunes that have been documented have close parallels or variants, particularly in France. Most of the surviving traditional songs are in French, with a minority in Jèrriais.
 
 In contemporary music, Nerina Pallot has enjoyed international success along with rock group The Gaa Gaas. Music festivals include Jersey Live, Weekender, Rock in the Park, Avanchi presents Jazz in July, the music section of the Jersey Eisteddfod and the Liberation Jersey Music Festival.[105]
 
@@ -265,7 +265,7 @@ First held in 2008, the Branchage Jersey International Film Festival[109] attrac
 
 Food and drink
 
-Jersey_wonders.jpg Seafood has traditionally been important to the cuisine of Jersey: mussels (called _moules_ in the island), oysters, lobster and crabs – especially spider crabs – ormers and conger.
+Seafood has traditionally been important to the cuisine of Jersey: mussels (called _moules_ in the island), oysters, lobster and crabs – especially spider crabs – ormers and conger.
 
 Jersey milk being very rich, cream and butter have played a large part in insular cooking. _(See Channel Island milk)_ However, there is no indigenous tradition of cheese making, contrary to the custom of mainland Normandy, but some cheese is produced commercially. Jersey fudge, mostly imported and made with milk from overseas Jersey cattle herds, is a popular food product with tourists.
 
@@ -277,7 +277,7 @@ Among other traditional dishes are cabbage loaf, Jersey wonders (_les mèrvelles
 
 Sport
 
-Harry_Vardon_statue_Grouville_3.jpg, stands at the entrance to the Royal Jersey Golf Club]] In its own right Jersey participates in the Commonwealth Games and in the biennial Island Games, which it first hosted in 1997 and more recently in 2015.[112]
+, stands at the entrance to the Royal Jersey Golf Club]] In its own right Jersey participates in the Commonwealth Games and in the biennial Island Games, which it first hosted in 1997 and more recently in 2015.[112]
 
 In sporting events in which Jersey does not have international representation, when the British Home Nations are competing separately, islanders that do have high athletic skill may choose to compete for any of the Home Nations – there are, however, restrictions on subsequent transfers to represent another Home Nation.
 
@@ -299,7 +299,7 @@ An independent body that promotes sports in Jersey and support clubs, 'Jersey Sp
 
 Literature
 
-Victor_Hugo-Exile.jpg in exile, 1850s.]] Wace, a Norman poet of the 12th century, is Jersey's earliest known author. Printing arrived in Jersey only in the 1780s, but the island supported a multitude of regular publications in French (and Jèrriais) and English throughout the 19th century, in which poetry, most usually topical and satirical, flourished (see Jèrriais literature).The first Jèrriais book to be published was _Rimes et Poésies Jersiaises de divers auteurs réunies et mises en ordre_, edited by Abraham Mourant in 1865. Writers born in Jersey include Elinor Glyn, John Lemprière, Philippe Le Sueur Mourant, Robert Pipon Marett and Augustus Asplet Le Gros. Frederick Tennyson and Gerald Durrell were among authors who made Jersey their home. Contemporary authors based in Jersey include Jack Higgins.
+in exile, 1850s.]] Wace, a Norman poet of the 12th century, is Jersey's earliest known author. Printing arrived in Jersey only in the 1780s, but the island supported a multitude of regular publications in French (and Jèrriais) and English throughout the 19th century, in which poetry, most usually topical and satirical, flourished (see Jèrriais literature).The first Jèrriais book to be published was _Rimes et Poésies Jersiaises de divers auteurs réunies et mises en ordre_, edited by Abraham Mourant in 1865. Writers born in Jersey include Elinor Glyn, John Lemprière, Philippe Le Sueur Mourant, Robert Pipon Marett and Augustus Asplet Le Gros. Frederick Tennyson and Gerald Durrell were among authors who made Jersey their home. Contemporary authors based in Jersey include Jack Higgins.
 
 
 Education

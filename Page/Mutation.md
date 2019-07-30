@@ -1,4 +1,4 @@
-A tulip flower exhibiting a partially yellow petal because of a mutation in its genes. In biology, a MUTATION is the alteration of the nucleotide sequence of the genome of an organism, virus, or extrachromosomal DNA.[1]
+In biology, a MUTATION is the alteration of the nucleotide sequence of the genome of an organism, virus, or extrachromosomal DNA.[1]
 
 Mutations result from errors during DNA replication (especially during meiosis) or other types of damage to DNA (such as may be caused by exposure to radiation or carcinogens), which then may undergo error-prone repair (especially microhomology-mediated end joining[2]), or cause an error during other forms of repair,[3][4] or else may cause an error during replication (translesion synthesis). Mutations may also result from insertion or deletion of segments of DNA due to mobile genetic elements.[5][6][7] Mutations may or may not produce discernible changes in the observable characteristics (phenotype) of an organism. Mutations play a part in both normal and abnormal biological processes including: evolution, cancer, and the development of the immune system, including junctional diversity.
 
@@ -19,7 +19,7 @@ Sequences of DNA that can move about the genome, such as transposons, make up a 
 
 Nonlethal mutations accumulate within the gene pool and increase the amount of genetic variation.[26] The abundance of some genetic changes within the gene pool can be reduced by natural selection, while other "more favorable" mutations may accumulate and result in adaptive changes.
 
-Prodryas.png'', a Late Eocene butterfly]] For example, a butterfly may produce offspring with new mutations. The majority of these mutations will have no effect; but one might change the color of one of the butterfly's offspring, making it harder (or easier) for predators to see. If this color change is advantageous, the chances of this butterfly's surviving and producing its own offspring are a little better, and over time the number of butterflies with this mutation may form a larger percentage of the population.
+'', a Late Eocene butterfly]] For example, a butterfly may produce offspring with new mutations. The majority of these mutations will have no effect; but one might change the color of one of the butterfly's offspring, making it harder (or easier) for predators to see. If this color change is advantageous, the chances of this butterfly's surviving and producing its own offspring are a little better, and over time the number of butterflies with this mutation may form a larger percentage of the population.
 
 Neutral mutations are defined as mutations whose effects do not influence the fitness of an individual. These can increase in frequency over time due to genetic drift. It is believed that the overwhelming majority of mutations have no significant effect on an organism's fitness.[27][28] Also, DNA repair mechanisms are able to mend most changes before they become permanent mutations, and many organisms have mechanisms for eliminating otherwise-permanently mutated somatic cells.
 
@@ -28,7 +28,7 @@ Beneficial mutations can improve reproductive success.[29][30]
 
 History
 
-Hugo_de_Vries_(1848-1935),_by_Thérèse_Schwartze_(1851-1918).jpg, making a painting of an evening primrose, the plant which had apparently produced new forms by large mutations in his experiments, by Thérèse Schwartze, 1918]]
+, making a painting of an evening primrose, the plant which had apparently produced new forms by large mutations in his experiments, by Thérèse Schwartze, 1918]]
 
 MUTATIONISM is one of several alternatives to evolution by natural selection that have existed both before and after the publication of Charles Darwin's 1859 book, _On the Origin of Species_. In the theory, mutation was the source of novelty, creating new forms and new species, potentially instantaneously,[31] in a sudden jump.[32] This was envisaged as driving evolution, which was limited by the supply of mutations.
 
@@ -63,7 +63,7 @@ There is increasing evidence that the majority of spontaneously arising mutation
 
 Errors introduced during DNA repair
 
-Although naturally occurring double-strand breaks occur at a relatively low frequency in DNA, their repair often causes mutation. Non-homologous end joining (NHEJ) is a major pathway for repairing double-strand breaks. NHEJ involves removal of a few nucleotides to allow somewhat inaccurate alignment of the two ends for rejoining followed by addition of nucleotides to fill in gaps. As a consequence, NHEJ often introduces mutations.[57] Benzopyrene_DNA_adduct_1JDG.png adduct between the metabolite of [[Benzo(a)pyrene|benzo[_a_]pyrene]], the major mutagen in tobacco smoke, and DNA[58]]]
+Although naturally occurring double-strand breaks occur at a relatively low frequency in DNA, their repair often causes mutation. Non-homologous end joining (NHEJ) is a major pathway for repairing double-strand breaks. NHEJ involves removal of a few nucleotides to allow somewhat inaccurate alignment of the two ends for rejoining followed by addition of nucleotides to fill in gaps. As a consequence, NHEJ often introduces mutations.[57] adduct between the metabolite of [[Benzo(a)pyrene|benzo[_a_]pyrene]], the major mutagen in tobacco smoke, and DNA[58]]]
 
 Induced mutation
 
@@ -78,7 +78,7 @@ _Induced mutations_ on the molecular level can be caused by:
     -   Agents that form DNA adducts (e.g., ochratoxin A)[59]
     -   DNA intercalating agents (e.g., ethidium bromide)
     -   DNA crosslinkers
-    -   Gene_structure_eukaryote_2_annotated.svgOxidative damage
+    -   Oxidative damage
     -   Nitrous acid converts amine groups on A and C to diazo groups, altering their hydrogen bonding patterns, which leads to incorrect base pairing during replication.
 -   Radiation
     -   Ultraviolet light (UV) (non-ionizing radiation). Two nucleotide bases in DNA—cytosine and thymine—are most vulnerable to radiation that can change their properties. UV light can induce adjacent pyrimidine bases in a DNA strand to become covalently joined as a pyrimidine dimer. UV radiation, in particular longer-wave UVA, can also cause oxidative damage to DNA.[60]
@@ -91,7 +91,7 @@ Classification of types
 
 By effect on structure
 
-Chromosomes_mutations-en.svg Notable_mutations.svg of amino acids.[65]]]
+of amino acids.[65]]]
 
 The sequence of a gene can be altered in a number of ways.[66] Gene mutations have varying effects on health depending on where they occur and whether they alter the function of essential proteins. Mutations in the structure of genes can be classified into several types.
 
@@ -142,7 +142,7 @@ Attempts have been made to infer the distribution of fitness effects (DFE) using
 
 -   Mutagenesis experiment: The direct method to investigate the DFE is to induce mutations and then measure the mutational fitness effects, which has already been done in viruses, bacteria, yeast, and _Drosophila_. For example, most studies of the DFE in viruses used site-directed mutagenesis to create point mutations and measure relative fitness of each mutant.[84][85][86][87] In _Escherichia coli_, one study used transposon mutagenesis to directly measure the fitness of a random insertion of a derivative of Tn10.[88] In yeast, a combined mutagenesis and deep sequencing approach has been developed to generate high-quality systematic mutant libraries and measure fitness in high throughput.[89] However, given that many mutations have effects too small to be detected[90] and that mutagenesis experiments can detect only mutations of moderately large effect; DNA sequence data analysis can provide valuable information about these mutations.
 
-DFE_in_VSV.png. In this experiment, random mutations were introduced into the virus by site-directed mutagenesis, and the fitness of each mutant was compared with the ancestral type. A fitness of zero, less than one, one, more than one, respectively, indicates that mutations are lethal, deleterious, neutral, and advantageous.[91]]]
+. In this experiment, random mutations were introduced into the virus by site-directed mutagenesis, and the fitness of each mutant was compared with the ancestral type. A fitness of zero, less than one, one, more than one, respectively, indicates that mutations are lethal, deleterious, neutral, and advantageous.[91]]]
 
 -   Molecular sequence analysis: With rapid development of DNA sequencing technology, an enormous amount of DNA sequence data is available and even more is forthcoming in the future. Various methods have been developed to infer the DFE from DNA sequence data.[92][93][94][95] By examining DNA sequence differences within and between species, we are able to infer various characteristics of the DFE for neutral, deleterious and advantageous mutations.[96] To be specific, the DNA sequence analysis approach allows us to estimate the effects of mutations with very small effects, which are hardly detectable through mutagenesis experiments.
 
@@ -163,7 +163,7 @@ By impact on protein sequence
 
 By inheritance
 
-Portulaca_grandiflora_mutant1.jpg plant to produce flowers of different colors. This is a somatic mutation that may also be passed on in the germline.]] In multicellular organisms with dedicated reproductive cells, mutations can be subdivided into germline mutations, which can be passed on to descendants through their reproductive cells, and somatic mutations (also called acquired mutations),[112] which involve cells outside the dedicated reproductive group and which are not usually transmitted to descendants.
+plant to produce flowers of different colors. This is a somatic mutation that may also be passed on in the germline.]] In multicellular organisms with dedicated reproductive cells, mutations can be subdivided into germline mutations, which can be passed on to descendants through their reproductive cells, and somatic mutations (also called acquired mutations),[112] which involve cells outside the dedicated reproductive group and which are not usually transmitted to descendants.
 
 A germline mutation gives rise to a _constitutional mutation_ in the offspring, that is, a mutation that is present in every cell. A constitutional mutation can also occur very soon after fertilisation, or continue from a previous constitutional mutation in a parent.[113]
 

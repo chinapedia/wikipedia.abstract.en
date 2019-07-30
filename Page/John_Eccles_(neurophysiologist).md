@@ -27,7 +27,7 @@ In 1981, Eccles became a founding member of the World Cultural Council.[11]
 
 In 1990 he was appointed a Companion of the Order of Australia (AC) in recognition of service to science, particularly in the field of neurophysiology.[12] He died in 1997 in Tenero-Contra, Locarno, Switzerland.[13]
 
-Eccles_and_Hoschl.jpg (left) in 1993]]
+(left) in 1993]]
 
 
 Philosophy

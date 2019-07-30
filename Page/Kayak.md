@@ -1,17 +1,17 @@
-GreatFallsKayaker2.jpg at Great Falls, Virginia, United States|alt=Man wearing helmet sitting in fiberglass boat, paddling through frothy water]]
+at Great Falls, Virginia, United States|alt=Man wearing helmet sitting in fiberglass boat, paddling through frothy water]]
 
 A KAYAK is a small, narrow watercraft which is typically propelled by means of a double-bladed paddle. The word kayak originates from the Greenlandic word _qajaq_ ().
 
 The traditional kayak has a covered deck and one or more cockpits, each seating one paddler. The cockpit is sometimes covered by a spray deck that prevents the entry of water from waves or spray, differentiating the craft from a canoe. The spray deck makes it possible for suitably skilled kayakers to roll the kayak: that is, to capsize and right it without it filling with water or ejecting the paddler.
 
-Greenland_kayak_seal_hunter_2006.jpg seal hunter in a kayak, armed with a harpoon|alt=Man sitting with legs covered in boat that tapers to a point at each end holding long, pointed, wooden pole]] Kayak-interior-Smithsonian-NMAI.jpg] Some modern boats vary considerably from a traditional design but still claim the title "kayak", for instance in eliminating the cockpit by seating the paddler on top of the boat ("sit-on-top" kayaks); having inflated air chambers surrounding the boat; replacing the single hull by twin hulls, and replacing paddles with other human-powered propulsion methods, such as foot-powered rotational propellers and "flippers". Kayaks are also being sailed, as well as propelled by means of small electric motors, and even by outboard gas engines.
+seal hunter in a kayak, armed with a harpoon|alt=Man sitting with legs covered in boat that tapers to a point at each end holding long, pointed, wooden pole]] ] Some modern boats vary considerably from a traditional design but still claim the title "kayak", for instance in eliminating the cockpit by seating the paddler on top of the boat ("sit-on-top" kayaks); having inflated air chambers surrounding the boat; replacing the single hull by twin hulls, and replacing paddles with other human-powered propulsion methods, such as foot-powered rotational propellers and "flippers". Kayaks are also being sailed, as well as propelled by means of small electric motors, and even by outboard gas engines.
 
-Kayaks are often used to get closer to marine animals, such as sea otters|thumb|alt=Photo of person sitting in boat holding paddle with otters swimming in foreground. Boat is approximately 12 feet long and only slightly wider than paddler. The kayak was first used by the indigenous Aleut, Inuit, Yupik and possibly Ainu[1] hunters in subarctic regions of the world. Upsala_Kayak_Experience.JPG in Los Glaciares National Park]]
+The kayak was first used by the indigenous Aleut, Inuit, Yupik and possibly Ainu[1] hunters in subarctic regions of the world. in Los Glaciares National Park]]
 
 
 History
 
-Edward_S._Curtis_Collection_People_035.jpg, Alaska, photographed by Edward S. Curtis, 1930|alt=Photo of two males wearing fur sitting in well of large kayak]] Kayaks (Inuktitut: _qajaq_ (ᖃᔭᖅ ), Yup'ik: _qayaq_ (from _qai-_ "surface; top"),[2] Aleut: _Iqyax_) were originally developed by the Inuit, Yup'ik, and Aleut. They used the boats to hunt on inland lakes, rivers and coastal waters of the Arctic Ocean, North Atlantic, Bering Sea and North Pacific oceans. These first kayaks were constructed from stitched seal or other animal skins stretched over a wood or whalebone-skeleton frame. (Western Alaskan Natives used wood whereas the eastern Inuit used whalebone due to the treeless landscape). Kayaks are believed to be at least 4,000 years old. The oldest existing kayaks are exhibited in the North America department of the State Museum of Ethnology in Munich, with the oldest dating from 1577.[3]
+, Alaska, photographed by Edward S. Curtis, 1930|alt=Photo of two males wearing fur sitting in well of large kayak]] Kayaks (Inuktitut: _qajaq_ (ᖃᔭᖅ ), Yup'ik: _qayaq_ (from _qai-_ "surface; top"),[2] Aleut: _Iqyax_) were originally developed by the Inuit, Yup'ik, and Aleut. They used the boats to hunt on inland lakes, rivers and coastal waters of the Arctic Ocean, North Atlantic, Bering Sea and North Pacific oceans. These first kayaks were constructed from stitched seal or other animal skins stretched over a wood or whalebone-skeleton frame. (Western Alaskan Natives used wood whereas the eastern Inuit used whalebone due to the treeless landscape). Kayaks are believed to be at least 4,000 years old. The oldest existing kayaks are exhibited in the North America department of the State Museum of Ethnology in Munich, with the oldest dating from 1577.[3]
 
 Native people made many types of boats for different purposes. The Aleut baidarka was made in double or triple cockpit designs, for hunting and transporting passengers or goods. An umiak is a large open sea canoe, ranging from , made with seal skins and wood. It is considered a kayak although it was originally paddled with single-bladed paddles, and typically had more than one paddler.
 
@@ -25,12 +25,12 @@ Traditional kayaks encompass three types: _Baidarkas_, from the Bering sea & Ale
 
 Most of the Aleut people in the Aleutian Islands eastward to Greenland Inuit relied on the kayak for hunting a variety of prey—primarily seals, though whales and caribou were important in some areas. Skin-on-frame kayaks are still being used for hunting by Inuit people in Greenland, because the smooth and flexible skin glides silently through the waves. In other parts of the world home builders are continuing the tradition of skin on frame kayaks, usually with modern skins of canvas or synthetic fabric, such as sc. ballistic nylon.
 
-Contemporary traditional-style kayaks trace their origins primarily to the native boats of Alaska, northern Canada, and Southwest Greenland. Wooden kayaks and fabric kayaks on wooden frames dominated the market up until the 1950s, when fiberglass boats were first introduced in the US, and inflatable rubberized fabric boats were first introduced in Europe. Rotomolded plastic kayaks first appeared in 1973, and most kayaks today are made from roto-molded polyethylene resins. The development of plastic and rubberized inflatable kayaks arguably initiated the development of freestyle kayaking as we see it today, since these boats could be made smaller, stronger and more resilient than fiberglass boats. Greenland_Paddle_2.JPG
+Contemporary traditional-style kayaks trace their origins primarily to the native boats of Alaska, northern Canada, and Southwest Greenland. Wooden kayaks and fabric kayaks on wooden frames dominated the market up until the 1950s, when fiberglass boats were first introduced in the US, and inflatable rubberized fabric boats were first introduced in Europe. Rotomolded plastic kayaks first appeared in 1973, and most kayaks today are made from roto-molded polyethylene resins. The development of plastic and rubberized inflatable kayaks arguably initiated the development of freestyle kayaking as we see it today, since these boats could be made smaller, stronger and more resilient than fiberglass boats.
 
 
 Design principles
 
-Campamento_Las_Pavas_2007-2_086.jpg is also large enough to slip off over his head while fastened.]] Typically, kayak design is largely a matter of trade-offs: directional stability ("tracking") vs maneuverability; stability vs speed; and primary vs secondary stability. Multihull kayaks face a different set of trade-offs. The paddler's body shape and size is an integral part of the structure, and will also affect the trade-offs made.
+is also large enough to slip off over his head while fastened.]] Typically, kayak design is largely a matter of trade-offs: directional stability ("tracking") vs maneuverability; stability vs speed; and primary vs secondary stability. Multihull kayaks face a different set of trade-offs. The paddler's body shape and size is an integral part of the structure, and will also affect the trade-offs made.
 
 Displacement
 
@@ -48,7 +48,7 @@ Kayaks that are built to cover longer distances such as touring and sea kayaks a
 
 Rocker
 
-Canoe_Polo_Kayak.jpg has a lot of rocker; that is, the bottom is not flat when seen from the side.]] Length alone does not fully predict a kayak's maneuverability: a second design element is _rocker_, i.e. its lengthwise curvature. A heavily _rockered_ boat curves more, shortening its effective waterline. For example, an kayak with no rocker is in the water from end to end. In contrast, the bow and stern of a rockered boat are out of the water, shortening its lengthwise waterline to only . Rocker is generally most evident at the ends, and in moderation improves handling. Similarly, although a rockered whitewater boat may only be a few feet shorter than a typical recreational kayak, its waterline is far shorter and its maneuverability far greater. When surfing, a heavily rockered boat is less likely to lock into the wave as the bow and stern are still above water. A boat with less rocker cuts into the wave and makes it harder to turn while surfing.
+has a lot of rocker; that is, the bottom is not flat when seen from the side.]] Length alone does not fully predict a kayak's maneuverability: a second design element is _rocker_, i.e. its lengthwise curvature. A heavily _rockered_ boat curves more, shortening its effective waterline. For example, an kayak with no rocker is in the water from end to end. In contrast, the bow and stern of a rockered boat are out of the water, shortening its lengthwise waterline to only . Rocker is generally most evident at the ends, and in moderation improves handling. Similarly, although a rockered whitewater boat may only be a few feet shorter than a typical recreational kayak, its waterline is far shorter and its maneuverability far greater. When surfing, a heavily rockered boat is less likely to lock into the wave as the bow and stern are still above water. A boat with less rocker cuts into the wave and makes it harder to turn while surfing.
 
 Beam profile
 
@@ -58,11 +58,11 @@ A narrower kayak makes a somewhat shorter paddle appropriate and a shorter paddl
 
 Types of stability
 
-Chines.svg (angles) give a more rounded profile, decreasing stability, tracking, and the wetted area, and increasing speed.|alt=1) a five-sided polygon which is nearly a wide rectangle, with the lower long side (the boat's bottom) a bit shorter than the upper (the deck) and the fifth point (the keel) slightly bending the nearly-flat bottom downwards. 2) The short sides retain the same angle, but the keel is a bit lower and the chines a bit higher. 3) The chines are substantially closer together and higher than the keel, so that the angles of the hull at the chines and at the keel are all three approximately equal. 4) Two additional chines make a seven-sided polygon which approximates a half-circle with the flat side up. 5) A 9-sided polygon approximating a half-circle more closely.]] _Primary_ (sometimes called _initial_) stability describes how much a boat tips, or rocks back and forth, when displaced from level by paddler weight shifts. _Secondary_ stability describes how stable a kayak feels when put on edge or when waves are passing under the hull perpendicular to the length of the boat. For kayak rolling, _tertiary_ stability, or the stability of an upside-down kayak, is also important (lower tertiary stability makes rolling up easier).
+(angles) give a more rounded profile, decreasing stability, tracking, and the wetted area, and increasing speed.|alt=1) a five-sided polygon which is nearly a wide rectangle, with the lower long side (the boat's bottom) a bit shorter than the upper (the deck) and the fifth point (the keel) slightly bending the nearly-flat bottom downwards. 2) The short sides retain the same angle, but the keel is a bit lower and the chines a bit higher. 3) The chines are substantially closer together and higher than the keel, so that the angles of the hull at the chines and at the keel are all three approximately equal. 4) Two additional chines make a seven-sided polygon which approximates a half-circle with the flat side up. 5) A 9-sided polygon approximating a half-circle more closely.]] _Primary_ (sometimes called _initial_) stability describes how much a boat tips, or rocks back and forth, when displaced from level by paddler weight shifts. _Secondary_ stability describes how stable a kayak feels when put on edge or when waves are passing under the hull perpendicular to the length of the boat. For kayak rolling, _tertiary_ stability, or the stability of an upside-down kayak, is also important (lower tertiary stability makes rolling up easier).
 
 Primary stability is often a big concern to a beginner, while secondary stability matters both to beginners and experienced travelers. By example, a wide, flat-bottomed kayak will have high primary stability and feel very stable on flat water. However, when a steep wave breaks on such a boat, it can be easily overturned because the flat bottom is no longer level. By contrast, a kayak with a narrower, more rounded hull with more hull flare can be edged or leaned into waves and (in the hands of a skilled kayaker) provides a safer, more comfortable response on stormy seas. Kayaks with only moderate primary, but excellent secondary stability are, in general, considered more seaworthy, especially in challenging conditions.
 
-West_Greenland_kayak_cross-section_after_Nansen.svg, the two stringers, and the keel.]] The shape of the cross section affects stability, maneuverability, and drag. Hull shapes are categorized by roundness/flatness, and by the presence and angle of chines. This cross–section may vary along the length of the boat.
+, the two stringers, and the keel.]] The shape of the cross section affects stability, maneuverability, and drag. Hull shapes are categorized by roundness/flatness, and by the presence and angle of chines. This cross–section may vary along the length of the boat.
 
 A chine typically increases secondary stability by effectively widening the beam of the boat when it heels (tips). A V-shaped hull tends to travel straight (track) well, but makes turning harder. V-shaped hulls also have the greatest secondary stability. Conversely, flat-bottomed hulls are easy to turn, but harder to direct in a constant direction. A round-bottomed boat has minimal wetter area, and thus minimizes drag; however, it may be so unstable that it will not remain upright when floating empty, and needs continual effort to keep it upright. In a skin-on-frame kayak, chine placement may be constrained by the need to avoid the bones of the pelvis.[17]
 
@@ -78,7 +78,7 @@ Newcomers will often want a craft with high primary stability (see above). The s
 
 Hull surface profile
 
-3_kayak_shapes.svg Some kayak hulls are categorized according to the shape from bow to stern
+Some kayak hulls are categorized according to the shape from bow to stern
 
 Common shapes include:
 
@@ -88,7 +88,7 @@ Common shapes include:
 
 Seating position and contact points
 
-Kayak_sitting_positions.svg Traditional-style and some modern types of kayaks (e.g. sit-on-top) require that paddler be seated with their legs stretched in front of them, in a right angle, in a position called the "L" kayaking position. Other kayaks offer a different sitting position, in which the paddler's legs are not stretched out in front of them, and the thigh brace bears more on the inside than the top of the thighs (see diagram).
+Traditional-style and some modern types of kayaks (e.g. sit-on-top) require that paddler be seated with their legs stretched in front of them, in a right angle, in a position called the "L" kayaking position. Other kayaks offer a different sitting position, in which the paddler's legs are not stretched out in front of them, and the thigh brace bears more on the inside than the top of the thighs (see diagram).
 
 A kayaker must be able to move the hull of their kayak by moving their lower body, and brace themselves against the hull (mostly with the feet) on each stroke. Most kayaks therefore have footrests and a backrest. Some kayaks fit snugly on the hips; others rely more on thigh braces. Mass-produced kayaks generally have adjustable bracing points. Many paddlers also customize their kayaks by putting in shims of closed-cell foam, or more elaborate structure, to make it fit more tightly.[27]
 
@@ -118,7 +118,7 @@ A special type of skin-on-frame kayak is the folding kayak. It has a collapsible
 
 Modern design
 
-Sea_Kayak.JPG in west Wales]]
+in west Wales]]
 
 Modern kayaks differ greatly from native kayaks in every aspect—from initial form through conception, design, manufacturing and usage. Modern kayaks are designed with computer-aided design (CAD) software, often in combination with CAD customized for naval design.
 
@@ -144,7 +144,7 @@ Recreational kayaks are designed for the casual paddler interested in fishing, p
 
 Sea
 
-Recreational_kayak.jpg in Seattle, Washington, United States|alt=Photo of rear of person wearing orange life preserver sitting in kayak with buildings in far background]]
+in Seattle, Washington, United States|alt=Photo of rear of person wearing orange life preserver sitting in kayak with buildings in far background]]
 
 _Sea kayaks_ are typically designed for travel by one, two or even three paddlers on open water and in many cases trade maneuverability for seaworthiness, stability, and cargo capacity. Sea-kayak sub-types include "skin-on-frame" kayaks with traditionally constructed frames, open-deck "sit-on-top" kayaks, and recreational kayaks.
 
@@ -152,9 +152,9 @@ The sea kayak, though descended directly from traditional types, is implemented 
 
 Sit-on-top
 
-sea_kayak_hawaii.JPG in Hawaii.|alt=Photo of person sitting in boat with paddle. Island in background.]] Sealed-hull (unsinkable) craft were developed for leisure use, as derivatives of surfboards (e.g. paddle or wave skis), or for surf conditions. Variants include planing surf craft, touring kayaks, and sea marathon kayaks. Increasingly, manufacturers build leisure 'sit-on-top' variants of extreme sports craft, typically using polyethylene to ensure strength and affordability, often with a skeg for directional stability. Water that enters the cockpit drains out through scupper holes—tubes that run from the cockpit to the bottom of the hull.
+in Hawaii.|alt=Photo of person sitting in boat with paddle. Island in background.]] Sealed-hull (unsinkable) craft were developed for leisure use, as derivatives of surfboards (e.g. paddle or wave skis), or for surf conditions. Variants include planing surf craft, touring kayaks, and sea marathon kayaks. Increasingly, manufacturers build leisure 'sit-on-top' variants of extreme sports craft, typically using polyethylene to ensure strength and affordability, often with a skeg for directional stability. Water that enters the cockpit drains out through scupper holes—tubes that run from the cockpit to the bottom of the hull.
 
-Runaground.jpg|alt=Photo of single-person kayak sitting on land]]
+|alt=Photo of single-person kayak sitting on land]]
 
 Sit-on-top kayaks come in 1-4 paddler configurations. Sit-on-top kayaks are particularly popular for fishing and SCUBA diving, since participants need to easily enter and exit the water, change seating positions, and access hatches and storage wells. Ordinarily the seat of a sit-on-top is slightly above water level, so the center of gravity for the paddler is higher than in a traditional kayak. To compensate for the higher center of gravity, sit-on-tops are often wider and slower than a traditional kayak of the same length.
 
@@ -162,7 +162,7 @@ Contrary to popular belief, the sit-on-top kayak hull is not self bailing, since
 
 Surf
 
-Mcneil-surffest2007a.JPG competition, Tofino, British Columbia|alt=Photo of beach, with several kayaks strewn around and people in background]] Specialty surf boats typically have flat bottoms, and hard edges, similar to surf boards. The design of a surf kayak promotes the use of an ocean surf wave (moving wave) as opposed to a river or feature wave (moving water). They are typically made from rotomolded plastic, or fiberglass.
+competition, Tofino, British Columbia|alt=Photo of beach, with several kayaks strewn around and people in background]] Specialty surf boats typically have flat bottoms, and hard edges, similar to surf boards. The design of a surf kayak promotes the use of an ocean surf wave (moving wave) as opposed to a river or feature wave (moving water). They are typically made from rotomolded plastic, or fiberglass.
 
 Surf kayaking comes in two main varieties, High Performance (HP) and International Class (IC). HP boats tend to have a lot of nose rocker, little to no tail rocker, flat hulls, sharp rails and up to four fins set up as either a three fin thruster or a quad fin. This enables them to move at high speed and maneuver dynamically. IC boats have to be at least long and until a recent rule change had to have a convex hull; now flat and slightly concave hulls are also allowed, although fins are not. Surfing on international boats tends to be smoother and more flowing, and they are thought of as kayaking's _long boarding_. Surf boats come in a variety of materials ranging from tough but heavy plastics to super light, super stiff but fragile foam–cored carbon fiber. Surf kayaking has become popular in traditional surfing locations, as well as new locations such as the Great Lakes.
 
@@ -172,7 +172,7 @@ A variation on the closed cockpit surf kayak is called a waveski. Although the w
 
 Whitewater
 
-Whitewater_kayaking_Isere.jpg|alt=Photo of man in kayak holding paddle nearly parallel to the boat, surrounded by white water]]
+|alt=Photo of man in kayak holding paddle nearly parallel to the boat, surrounded by white water]]
 
 Whitewater kayaks are rotomolded in a semi-rigid, high impact plastic, usually polyethylene. Careful construction ensures that the boat remains structurally sound when subjected to fast-moving water. The plastic hull allows these kayaks to bounce off rocks without leaking, although they scratch and eventually puncture with enough use. Whitewater kayaks range from long. There are two main types of whitewater kayak:
 
@@ -216,8 +216,6 @@ The term "kayak" is increasingly applied to craft that look little like traditio
 
 Inflatable
 
-Inflatable_kayak.JPG
-
 Inflatables, also known as the _duckies_ or _IKs_, can usually be transported by hand using a carry bag. They are generally made of hypalon (a kind of neoprene), Nytrylon (a rubberized fabric), PVC, or polyurethane coated cloth. They can be inflated with foot, hand or electric pumps. Multiple compartments in all but the least expensive increase safety. They generally use low pressure air, almost always below 3 psi.
 
 While many inflatables are non-rigid, essentially pointed rafts, best suited for use on rivers and calm water, the higher end inflatables are designed to be hardy, seaworthy vessels. Recently some manufacturers have added an internal frame (folding-style) to a multi-section inflatable sit-on-top kayak to produce a seaworthy boat.
@@ -238,7 +236,7 @@ A kayak with pedals allows the kayaker to propel the vessel with a rotating prop
 
 Twin hull and outrigger
 
-Fishing_kayak_FeelFree_Lure_with_shark.jpg Traditional multi-hull vessels such as catamarans and outrigger canoes benefit from increased lateral stability without sacrificing speed, and these advantages have been successfully applied in twin hull kayaks. _Outrigger kayaks_ attach one or two smaller hulls to the main hull to enhance stability, especially for fishing, touring, kayak sailing and motorized kayaking. Twin hull kayaks feature two long and narrow hulls, and since all their buoyancy is distributed as far as possible from their center line, they are stabler than mono hull kayaks outfitted with outriggers.
+Traditional multi-hull vessels such as catamarans and outrigger canoes benefit from increased lateral stability without sacrificing speed, and these advantages have been successfully applied in twin hull kayaks. _Outrigger kayaks_ attach one or two smaller hulls to the main hull to enhance stability, especially for fishing, touring, kayak sailing and motorized kayaking. Twin hull kayaks feature two long and narrow hulls, and since all their buoyancy is distributed as far as possible from their center line, they are stabler than mono hull kayaks outfitted with outriggers.
 
 Fishing
 
@@ -246,7 +244,7 @@ While native people of the Arctic regions hunted rather than fished from kayaks,
 
 Military
 
-Klepper_vouwkano.jpg Kayaks were adapted for military use in the Second World War. Used mainly by British Commando and special forces, principally the Combined Operations Pilotage Parties (COPPs), the Special Boat Service and the Royal Marines Boom Patrol Detachment. The latter made perhaps the best known use of them in the Operation Frankton raid on Bordeaux harbor.[32] Both the Special Air Service (SAS) and the Special Boat Service (SBS) used kayaks for reconnaissance in the 1982 Falklands War.[33] US Navy SEALs reportedly used them at the start of Unified Task Force operations in Somalia in 1992.[34] The SBS currently use Klepper two-man folding kayaks that can be launched from surfaced submarines or carried to the surface by divers from submerged ones. They can be parachuted from transport aircraft into the ocean or dropped from the back of Chinook helicopters.[35] US Special Forces have used Kleppers but now primarily use Long Haul folding kayaks, which are made in the US.[36]
+Kayaks were adapted for military use in the Second World War. Used mainly by British Commando and special forces, principally the Combined Operations Pilotage Parties (COPPs), the Special Boat Service and the Royal Marines Boom Patrol Detachment. The latter made perhaps the best known use of them in the Operation Frankton raid on Bordeaux harbor.[32] Both the Special Air Service (SAS) and the Special Boat Service (SBS) used kayaks for reconnaissance in the 1982 Falklands War.[33] US Navy SEALs reportedly used them at the start of Unified Task Force operations in Somalia in 1992.[34] The SBS currently use Klepper two-man folding kayaks that can be launched from surfaced submarines or carried to the surface by divers from submerged ones. They can be parachuted from transport aircraft into the ocean or dropped from the back of Chinook helicopters.[35] US Special Forces have used Kleppers but now primarily use Long Haul folding kayaks, which are made in the US.[36]
 
 The Australian Military MKII and MKIII folding kayaks were extensively used during the 1941-1945 Pacific War for some 33 raids and missions on and around the South-East Asian islands. Documentation for this will be found in the National Archives of Australia official records, reference No. NAA K1214-123/1/06. They were deployed from disguised watercraft, submarines, Catalina aircraft, P.T. boats, motor launches and by parachute.[37]
 

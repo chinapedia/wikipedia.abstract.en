@@ -1,4 +1,4 @@
-Geographical distribution of Northern Sesotho in South Africa: proportion of the population that speaks a form of Northern Sesotho at home. Geographical distribution of Northern Sotho in South Africa: density of Northern Sotho home-language speakers. NORTHERN SOTHO (_Sesotho sa Leboa_), also known by the name of its standardised dialect version SEPEDI (or PEDI) is a Bantu language spoken primarily in South Africa, where it is one of the 11 official languages. According to the 2011 census it was the first language of 4,618,576 people in South Africa, principally in the provinces of Limpopo, Gauteng and Mpumalanga.[1]
+NORTHERN SOTHO (_Sesotho sa Leboa_), also known by the name of its standardised dialect version SEPEDI (or PEDI) is a Bantu language spoken primarily in South Africa, where it is one of the 11 official languages. According to the 2011 census it was the first language of 4,618,576 people in South Africa, principally in the provinces of Limpopo, Gauteng and Mpumalanga.[1]
 
 
 Classification

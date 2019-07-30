@@ -20,7 +20,7 @@ Over the next several months, Madison continually refused to deliver Marbury's c
 
 Decision
 
-Marshall-john-engraving-LOC-1808.jpg made by Charles-Balthazar-Julien Fevret de Saint-Mémin in 1808.]] On February 24, 1803, the Court rendered a unanimous 4–0 decision against Marbury. The Court's opinion was written by the Chief Justice, John Marshall. Marshall structured the Court's opinion around a series of three questions that Marshall answered in turn:
+made by Charles-Balthazar-Julien Fevret de Saint-Mémin in 1808.]] On February 24, 1803, the Court rendered a unanimous 4–0 decision against Marbury. The Court's opinion was written by the Chief Justice, John Marshall. Marshall structured the Court's opinion around a series of three questions that Marshall answered in turn:
 
 -   First, did Marbury have a right to his commission?
 -   Second, if Marbury had a right to his commission, was there a legal remedy for him to obtain it?
@@ -36,7 +36,7 @@ Turning to the second question, the Court said that the laws clearly afforded Ma
 
 Jurisdiction
 
-Uscapitolindaylight.jpg – home of the U.S. Congress, and also where the U.S. Supreme Court convened from 1801 until the opening of the Supreme Court Building in 1935.[2]]] This brought Marshall to the most important issue of the opinion: the propriety of the Supreme Court's jurisdiction over the matter, which would determine whether or not the Court had the power to issue the writ Marbury requested. This issue depended entirely on how the Court interpreted the text of a law Congress had passed that dealt with the Supreme Court's original and appellate jurisdictions. As Marshall explains in the opinion, under , a court has the power to be the first to hear and decide a case; under , a party to an instituted decision appeals to a higher court, which has the power to "revise and correct" the previous decision.
+– home of the U.S. Congress, and also where the U.S. Supreme Court convened from 1801 until the opening of the Supreme Court Building in 1935.[2]]] This brought Marshall to the most important issue of the opinion: the propriety of the Supreme Court's jurisdiction over the matter, which would determine whether or not the Court had the power to issue the writ Marbury requested. This issue depended entirely on how the Court interpreted the text of a law Congress had passed that dealt with the Supreme Court's original and appellate jurisdictions. As Marshall explains in the opinion, under , a court has the power to be the first to hear and decide a case; under , a party to an instituted decision appeals to a higher court, which has the power to "revise and correct" the previous decision.
 
 Congress had passed the Judiciary Act of 1789 to establish the American federal court system, since Article III of the U.S. Constitution only specifies that there is to be a Supreme Court, and leaves the rest of the federal judicial power to reside in "such inferior Courts as the Congress may from time to time ordain and establish."[3] The Judiciary Act contained a section that defines areas in which the Supreme Court has original jurisdiction, and areas in which it has appellate jurisdiction.
 
@@ -48,7 +48,7 @@ This section says that the Supreme Court only has original jurisdiction over cas
 
 Judicial review and striking down the law
 
-Plaque_of_Marbury_v._Madison_at_SCOTUS_Building.JPG from _Marbury v. Madison_, in which Chief Justice John Marshall outlined the concept of judicial review.]] After ruling that it conflicted with the Constitution, Marshall struck down the relevant portion of the Judiciary Act in the U.S. Supreme Court's first ever declaration of the power of judicial review. Marshall ruled that American federal courts have the power to refuse to give any effect to congressional legislation that is inconsistent with their interpretation of the Constitutiona move known as "striking down" laws.
+from _Marbury v. Madison_, in which Chief Justice John Marshall outlined the concept of judicial review.]] After ruling that it conflicted with the Constitution, Marshall struck down the relevant portion of the Judiciary Act in the U.S. Supreme Court's first ever declaration of the power of judicial review. Marshall ruled that American federal courts have the power to refuse to give any effect to congressional legislation that is inconsistent with their interpretation of the Constitutiona move known as "striking down" laws.
 
 The U.S. Constitution does not explicitly give the American judiciary the power of judicial review. Nevertheless, Marshall's opinion gives a number of reasons in support of the judiciary's possession of the power. First, Marshall reasoned that the written nature of the Constitution inherently established judicial review. In a line borrowed from Alexander Hamilton's essay Federalist No. 78, Marshall wrote: "The powers of the legislature are defined and limited; and that those limits may not be mistaken or forgotten, the constitution is written."[4] He continued:
 
@@ -61,7 +61,7 @@ Marshall then gave several other reasons in favor of judicial review. He argued 
 
 Analysis
 
-John_Marshall_by_Henry_Inman,_1832.jpg in 1832, after having presided over the American judiciary for over 30 years.]]
+in 1832, after having presided over the American judiciary for over 30 years.]]
 
 Besides its inherent legal questions, the case of _Marbury v. Madison_ also created a difficult political dilemma for Marshall and the rest of the Supreme Court. If the Court ruled in favor of Marbury and issued a writ of mandamus ordering Madison to deliver the commission, Jefferson and Madison would probably have simply ignored the order, which would have made the Court look impotent and emphasized the "shakiness" of the judiciary. On the other hand, a plain and simple ruling against Marbury would have given Jefferson and the Democratic-Republicans a clear political victory.
 
@@ -83,7 +83,7 @@ Additionally, it is questionable whether Marshall should have participated in th
 
 Impact
 
-Grand_Jury_Subpoena_Duces_Tecum_to_Richard_M._Nixon_to_Testify_and_Bring_Documents_or_Objects_Listed,_with_Attached_Schedule_of_Documents_or_Objects_to_be_Produced_by_or_on_Behalf_of_Richard_M._Nixon_-_NARA_-_7582824_(page_1).jpg'' (order to bring items as evidence) issued to President Richard Nixon that was the center of the dispute in the 1974 judicial review case _United States v. Nixon_.]] _Marbury v. Madison_ remains the single most important decision in American constitutional law. It established American judges' authority to review the constitutionality of Congress's legislative acts, and to this day the Supreme Court's power to review the constitutionality of American laws at both the federal and state level "is generally rested upon the epic decision of _Marbury v. Madison_."
+'' (order to bring items as evidence) issued to President Richard Nixon that was the center of the dispute in the 1974 judicial review case _United States v. Nixon_.]] _Marbury v. Madison_ remains the single most important decision in American constitutional law. It established American judges' authority to review the constitutionality of Congress's legislative acts, and to this day the Supreme Court's power to review the constitutionality of American laws at both the federal and state level "is generally rested upon the epic decision of _Marbury v. Madison_."
 
 Although the Court's opinion in _Marbury_ established judicial review in American federal law, it did not create or invent it. Some 18th-century British jurists had argued that British courts had the power to circumscribe Parliament, and the principle became generally accepted in Colonial Americaespecially in Marshall's native Virginiadue to the idea that in America only the people were sovereign, rather than the government, and therefore that the courts should only implement legitimate laws. By the time of the Constitutional Convention in 1787, American courts' "independent power and duty to interpret the law" was well established. Nevertheless, Marshall's opinion in _Marbury_ was the power's first announcement and exercise by the Supreme Court. It made the practice more routine, rather than exceptional, and prepared the way for the Court's opinion in the 1819 case _McCulloch v. Maryland_, in which Marshall implied that the Supreme Court was the supreme interpreter of the U.S. Constitution.
 

@@ -1,4 +1,4 @@
-Diplomatic_missions_of_Malaysia-2010-21-03.PNG Malaysia is an active member of various international organisations, including the Commonwealth of Nations, the United Nations, the Organisation of Islamic Cooperation, and the Non-Aligned Movement. It has also in recent times been an active proponent of regional co-operation.
+Malaysia is an active member of various international organisations, including the Commonwealth of Nations, the United Nations, the Organisation of Islamic Cooperation, and the Non-Aligned Movement. It has also in recent times been an active proponent of regional co-operation.
 
 
 Foreign Policy 1957–1969

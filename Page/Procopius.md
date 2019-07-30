@@ -14,8 +14,6 @@ It is not certain when Procopius died. Many historiansincluding Howard-Johnson, 
 
 Writings
 
-Meister_von_San_Vitale_in_Ravenna.jpg
-
 The writings of Procopius are the primary source of information for the rule of the emperor JustinianI. Procopius was the author of a history in eight books on the wars prosecuted by Justinian, a panegyric on the emperor's public works projects throughout the empire, and a book (written after 565) known as the _Secret History_ that claims to report the scandals that Procopius could not include in his officially sanctioned history for fear of angering the emperor, his wife, Belisarius, and the general's wife and had to wait until all of them were dead to avoid retaliation.
 
 _History of the Wars_
@@ -32,7 +30,7 @@ The _Wars_ was influential on later Byzantine historiography.[12] _Histories_, a
 
 _Secret History_
 
-Meister_von_San_Vitale_in_Ravenna_013.jpg in the mosaic in the Church of San Vitale, Ravenna, which celebrates the reconquest of Italy by the Roman army under the skillful leadership of Belisarius.]] Procopius's now famous _Anecdota_ also known as _Secret History_ (, _Apókryphe Historía_; ) was discovered centuries later at the Vatican Library in Rome[13] and published in Lyon by Niccolò Alamanni in 1623. Its existence was already known from the _Suda_, which referred to it as Procopius's "unpublished works" (, _Anékdota_; __). The _Secret History_ covers roughly the same years as the first seven books of _The History of the Wars_ and appears to have been written after they were published. Current consensus generally dates it to 550 or 558, although others set it as late as 562.
+in the mosaic in the Church of San Vitale, Ravenna, which celebrates the reconquest of Italy by the Roman army under the skillful leadership of Belisarius.]] Procopius's now famous _Anecdota_ also known as _Secret History_ (, _Apókryphe Historía_; ) was discovered centuries later at the Vatican Library in Rome[13] and published in Lyon by Niccolò Alamanni in 1623. Its existence was already known from the _Suda_, which referred to it as Procopius's "unpublished works" (, _Anékdota_; __). The _Secret History_ covers roughly the same years as the first seven books of _The History of the Wars_ and appears to have been written after they were published. Current consensus generally dates it to 550 or 558, although others set it as late as 562.
 
 In the eyes of many scholars, the _Secret History_ reveals an author who had become deeply disillusioned with Emperor Justinian, his wife Theodora, the general Belisarius, and his wife Antonina. The work claims to expose the secret springs of their public actions, as well as the private lives of the emperor and his entourage. Justinian is portrayed as cruel, venal, prodigal, and incompetent. In one passage, it is even claimed that he was possessed by demonic spirits or was himself a demon:
 
@@ -42,7 +40,7 @@ On the other hand, it has been argued that Procopius prepared the _Secret Histor
 
 _The Buildings_
 
-Sangarius_Bridge._Drawing_01.jpg]]
+]]
 
 _The Buildings_ (, _Perì Ktismáton_; , "On Buildings") is a panegyric on Justinian's public works projects throughout the empire.[15] The first book may date to before the collapse of the first dome of Hagia Sophia in 557, but some scholars think that it is possible that the work postdates the building of the bridge over the Sangarius in the late 550s.[16] Historians consider _Buildings_ to be an incomplete work due to evidence of the surviving version being a draft with two possible redactions.[17][18]
 

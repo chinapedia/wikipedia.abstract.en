@@ -3,7 +3,7 @@ PETER MARK ROGET ( ; 18 January 1779 – 12 September 1869) was a British physi
 
 Early life
 
-Peter_Mark_Roget_plaque,_Edinburgh_University.jpg Peter Mark Roget was born in London, the son of Jean (John) Roget (1751–1783), a Genevan cleric, and his wife Catherine Romilly, sister of Samuel Romilly.[1][2] After his father's death, the family moved to Edinburgh, in 1793, and he shortly began to study medicine at the University of Edinburgh, graduating in 1798.[3] Samuel Romilly, who had supported his education, also introduced Roget into Whig social circles.[4]
+Peter Mark Roget was born in London, the son of Jean (John) Roget (1751–1783), a Genevan cleric, and his wife Catherine Romilly, sister of Samuel Romilly.[1][2] After his father's death, the family moved to Edinburgh, in 1793, and he shortly began to study medicine at the University of Edinburgh, graduating in 1798.[3] Samuel Romilly, who had supported his education, also introduced Roget into Whig social circles.[4]
 
 Roget then attended lectures at London medical schools.[5] Living in Clifton, Bristol in 1798–9, he knew Thomas Beddoes and Humphry Davy, and frequented the Pneumatic Institute.[6]
 
@@ -33,7 +33,7 @@ It was a catalogue of words organized by their meanings. Its first printed editi
 
 Other interests
 
-Peter_Mark_Roget.jpg Roget was elected a Fellow of the Royal Society in 1815, in recognition of a paper on a slide rule with a loglog scale. He was a secretary of the Society from 1827 to 1848.[25] On 9 December 1824, Roget presented a paper on persistence of vision to the _Philosophical Transactions_, which was published in 1825, as _Explanation of an optical deception in the appearance of the spokes of a wheel when seen through vertical apertures.[26]_[27] The context was contemporary discussion of the thaumatrope by Fellows including Charles Babbage and William Henry Fitton. The "moving picture" ideas were then combined by Joseph Antoine Ferdinand Plateau, and by Michael Faraday in Faraday's Wheel, by 1830.[28]
+Roget was elected a Fellow of the Royal Society in 1815, in recognition of a paper on a slide rule with a loglog scale. He was a secretary of the Society from 1827 to 1848.[25] On 9 December 1824, Roget presented a paper on persistence of vision to the _Philosophical Transactions_, which was published in 1825, as _Explanation of an optical deception in the appearance of the spokes of a wheel when seen through vertical apertures.[26]_[27] The context was contemporary discussion of the thaumatrope by Fellows including Charles Babbage and William Henry Fitton. The "moving picture" ideas were then combined by Joseph Antoine Ferdinand Plateau, and by Michael Faraday in Faraday's Wheel, by 1830.[28]
 
 One of the promoters of the Medical and Chirurgical Society of London, which later became the Royal Society of Medicine, Roget was also a founder of the Society for the Diffusion of Useful Knowledge, writing a series of popular manuals for it.[29] He wrote numerous papers on physiology and health, among them the fifth _Bridgewater Treatise_, _Animal and Vegetable Physiology considered with reference to Natural Theology_ (1834), and articles for the _Encyclopædia Britannica_. He was hostile to phrenology, writing against it in a _Britannica_ supplement in 1818, and devoting a two-volume work to it (1838).[30]
 

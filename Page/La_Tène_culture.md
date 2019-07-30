@@ -1,4 +1,4 @@
-Hallstatt_LaTene.png and La Tène cultures. The core Hallstatt territory (800 BCE) is shown in solid yellow, the area of influence by 500 BCE (HaD) in light yellow. The core territory of the La Tène culture (450 BCE) is shown in solid green, the eventual area of La Tène influence by 50 BCE in light green. The territories of some major Celtic tribes are labelled. Map drawn after _Atlas of the Celtic World_, by John Haywood (2001: 30–37).]] Dôme_aux_dragons_-_Bronze_gaulois_de_Roissy,_dans_le_Lieu_dit_de_La_Fosse_Cotheret_(Val_d'Oise).jpg
+and La Tène cultures. The core Hallstatt territory (800 BCE) is shown in solid yellow, the area of influence by 500 BCE (HaD) in light yellow. The core territory of the La Tène culture (450 BCE) is shown in solid green, the eventual area of La Tène influence by 50 BCE in light green. The territories of some major Celtic tribes are labelled. Map drawn after _Atlas of the Celtic World_, by John Haywood (2001: 30–37).]]
 
 The LA TÈNE CULTURE (; ) was a European Iron Age culture. It developed and flourished during the late Iron Age (from about 450 BCE to the Roman conquest in the 1st century BCE), succeeding the early Iron Age Hallstatt culture without any definite cultural break, under the impetus of considerable Mediterranean influence from the Greeks in pre-Roman Gaul, the Etruscans,[1] and Golasecca culture.[2]
 
@@ -27,7 +27,7 @@ The archaeological period is now mostly divided into four sub-periods, following
 
 History
 
-Hallstatt.png The preceding final phase of the Hallstatt culture, HaD, c. 650–450 BC, was also widespread across Central Europe, and the transition over this area was gradual, being mainly detected through La Tène style elite artefacts, which first appear on the western edge of the old Hallstatt region.
+The preceding final phase of the Hallstatt culture, HaD, c. 650–450 BC, was also widespread across Central Europe, and the transition over this area was gradual, being mainly detected through La Tène style elite artefacts, which first appear on the western edge of the old Hallstatt region.
 
 Though there is no agreement on the precise region in which La Tène culture first developed, there is a broad consensus that the centre of the culture lay on the northwest edges of Hallstatt culture, north of the Alps, within the region between in the West the valleys of the Marne and Moselle, and the part of the Rhineland nearby. In the east the western end of the old Hallstatt core area in modern Bavaria, Austria and Switzerland formed a somewhat separate "eastern style Province" in the early La Tène, joining with the western area in Alsace.[13] In 1994 a prototypical ensemble of elite grave sites of the early 5th century BCE was excavated at Glauberg in Hesse, northeast of Frankfurt-am-Main, in a region that had formerly been considered peripheral to the La Tène sphere.[14] The site at La Tène itself was therefore near the southern edge of the original "core" area (as is also the case for the Hallstatt site for its core).
 
@@ -44,7 +44,7 @@ After about 275, Roman expansion into the La Tène areal began, at first with th
 
 Material culture
 
-Casque_d'Agris,_musée_d'Angoulême,_Lamiot_2015_07.JPG]] London_-_British_Museum_-_2453.jpg, insular late La Tène style]] La Tène metalwork in bronze, iron and gold, developing technologically out of Hallstatt culture, is stylistically characterized by inscribed and inlaid intricate spirals and interlace, on fine bronze vessels, helmets and shields, horse trappings and elite jewelry, especially the neck rings called torcs and elaborate clasps called _fibulae_. It is characterized by elegant, stylized curvilinear animal and vegetal forms, allied with the Hallstatt traditions of geometric patterning.
+]] , insular late La Tène style]] La Tène metalwork in bronze, iron and gold, developing technologically out of Hallstatt culture, is stylistically characterized by inscribed and inlaid intricate spirals and interlace, on fine bronze vessels, helmets and shields, horse trappings and elite jewelry, especially the neck rings called torcs and elaborate clasps called _fibulae_. It is characterized by elegant, stylized curvilinear animal and vegetal forms, allied with the Hallstatt traditions of geometric patterning.
 
 The Early Style of La Tène art and culture mainly featured static, geometric decoration, while the transition to the Developed Style constituted a shift to movement-based forms, such as triskeles. Some subsets within the Developed Style contain more specific design trends, such as the recurrent serpentine scroll of the Waldalgesheim Style [21]
 
@@ -64,7 +64,7 @@ Whether the usage of classical sources means that the whole of La Tène culture 
 
 Type site
 
-Latenium_Celtic_bridge_mg_2221.jpg The La Téne type site is on the northern shore of Lake Neuchâtel, Switzerland, where the small river Thielle, connecting to another lake, enters the Lake Neuchâtel.[25] In 1857, prolonged drought lowered the waters of the lake by about 2 m. On the northernmost tip of the lake, between the river and a point south of the village of Epagnier (), Hansli Kopp, looking for antiquities for Colonel Frédéric Schwab, discovered several rows of wooden piles that still reached up about 50 cm into the water. From among these, Kopp collected about forty iron swords.
+The La Téne type site is on the northern shore of Lake Neuchâtel, Switzerland, where the small river Thielle, connecting to another lake, enters the Lake Neuchâtel.[25] In 1857, prolonged drought lowered the waters of the lake by about 2 m. On the northernmost tip of the lake, between the river and a point south of the village of Epagnier (), Hansli Kopp, looking for antiquities for Colonel Frédéric Schwab, discovered several rows of wooden piles that still reached up about 50 cm into the water. From among these, Kopp collected about forty iron swords.
 
 The Swiss archaeologist Ferdinand Keller published his findings in 1868 in his influential first report on the Swiss pile dwellings (_Pfahlbaubericht_). In 1863 he interpreted the remains as a Celtic village built on piles. Eduard Desor, a geologist from Neuchâtel, started excavations on the lakeshore soon afterwards. He interpreted the site as an armory, erected on platforms on piles over the lake and later destroyed by enemy action. Another interpretation accounting for the presence of cast iron swords that had not been sharpened, was of a site for ritual depositions.
 
@@ -77,7 +77,7 @@ An exhibition marking the 150th anniversary of the discovery of the La Tène sit
 
 Sites
 
-Stone_sculpture_of_celtic_hero.jpg]] Some sites are:
+]] Some sites are:
 
 +-------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | -   La Tène, Marin-Epagnier                                             | -   Fellbach-Schmiden, near Stuttgart: _Viereckschanze_; ritual objects recovered from a well |
@@ -98,7 +98,7 @@ Stone_sculpture_of_celtic_hero.jpg]] Some sites are:
 
 Artifacts
 
-Britishmuseumsnettishamgreattorc.jpg, England, 1st century BC.]] See :Category:Celtic art.
+, England, 1st century BC.]] See :Category:Celtic art.
 
 Some outstanding La Tène artifacts are:
 

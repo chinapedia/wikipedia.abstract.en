@@ -24,8 +24,6 @@ General definition
 
 The inverse limit can be defined abstractly in an arbitrary category by means of a universal property. Let (_X__(_i_), _f__(_ij_)) be an inverse system of objects and morphisms in a category _C_ (same definition as above). The INVERSE LIMIT of this system is an object _X_ in _C_ together with morphisms π_(_i_): _X_ → _X__(_i_) (called _projections_) satisfying π_(_i_) = _f__(_ij_) ∘ π_(_j_) for all _i_ ≤ _j_. The pair (_X_, π_(_i_)) must be universal in the sense that for any other such pair (_Y_, ψ_(_i_)) (i.e. ψ_(_i_): _Y_ → _X__(_i_) with ψ_(_i_) = _f__(_ij_) ∘ ψ_(_j_) for all _i_ ≤ _j_) there exists a unique morphism _u_: _Y_ → _X_ such that the diagram
 
-Image:InverseLimit-01.png
-
 commutes for all _i_ ≤ _j_, for which it suffices to show that ψ_(_i_) = π_(_i_) ∘ _u_ for all _i_. The inverse limit is often denoted
 
 $$X = \varprojlim X_i$$

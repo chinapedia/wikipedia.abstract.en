@@ -1,4 +1,4 @@
-Disqvisitiones-800.jpg published the first and second proofs of the law of quadratic reciprocity on arts 125–146 and 262 of _Disquisitiones Arithmeticae_ in 1801.]] In number theory, the LAW OF QUADRATIC RECIPROCITY is a theorem about modular arithmetic that gives conditions for the solvability of quadratic equations modulo prime numbers. Due to its subtlety, it has many formulations, but the most standard statement is: . }}
+published the first and second proofs of the law of quadratic reciprocity on arts 125–146 and 262 of _Disquisitiones Arithmeticae_ in 1801.]] In number theory, the LAW OF QUADRATIC RECIPROCITY is a theorem about modular arithmetic that gives conditions for the solvability of quadratic equations modulo prime numbers. Due to its subtlety, it has many formulations, but the most standard statement is: . }}
 
 This law allows the easy calculation of any Legendre symbol, making it possible to determine whether there is an integer solution for any quadratic equation of the form $x^2\equiv a \!\!\!\pmod{p}$ for _p_ an odd prime; that is, to determine the "perfect squares" mod _p_. However, this is a non-constructive result: it gives no help at all for _finding_ a specific solution; for this, one uses quadratic residues.
 
@@ -314,7 +314,7 @@ but he couldn't prove that either. Hilbert symbol (below) discusses how techniqu
 
 Gauss
 
-Disquisitiones-Arithmeticae-p133.jpg'', listing the 8 cases of quadratic reciprocity]]
+'', listing the 8 cases of quadratic reciprocity]]
 
 Gauss first proves[12] the supplementary laws. He sets[13] the basis for induction by proving the theorem for ±3 and ±5. Noting[14] that it is easier to state for −3 and +5 than it is for +3 or −5, he states[15] the general theorem in the form:
 

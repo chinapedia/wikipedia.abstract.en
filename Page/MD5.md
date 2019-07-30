@@ -79,8 +79,6 @@ Applications
 
 MD5 digests have been widely used in the software world to provide some assurance that a transferred file has arrived intact. For example, file servers often provide a pre-computed MD5 (known as md5sum) checksum for the files, so that a user can compare the checksum of the downloaded file to it. Most unix-based operating systems include MD5 sum utilities in their distribution packages; Windows users may use the included PowerShell function "Get-FileHash", install a Microsoft utility,[49][50] or use third-party applications. Android ROMs also use this type of checksum.
 
-CPT-Hashing-File-Transmission.svg
-
 As it is easy to generate MD5 collisions, it is possible for the person who created the file to create a second file with the same checksum, so this technique cannot protect against some forms of malicious tampering. In some cases, the checksum cannot be trusted (for example, if it was obtained over the same channel as the downloaded file), in which case MD5 can only provide error-checking functionality: it will recognize a corrupt or incomplete download, which becomes more likely when downloading larger files.
 
 Historically, MD5 has been used to store a one-way hash of a password, often with key stretching.[51][52] NIST does not include MD5 in their list of recommended hashes for password storage.[53]
@@ -89,8 +87,6 @@ MD5 is also used in the field of electronic discovery, in order to provide a uni
 
 
 Algorithm
-
-MD5_algorithm.svg
 
 MD5 processes a variable-length message into a fixed-length output of 128 bits. The input message is broken up into chunks of 512-bit blocks (sixteen 32-bit words); the message is padded so that its length is divisible by 512. The padding works as follows: first a single bit, 1, is appended to the end of the message. This is followed by as many zeros as are required to bring the length of the message up to 64 bits fewer than a multiple of 512. The remaining bits are filled up with 64 bits representing the length of the original message, modulo 2⁶⁴.
 

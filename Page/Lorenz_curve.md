@@ -55,7 +55,7 @@ For an example of a Lorenz curve, see Pareto distribution.
 
 Properties
 
-Lorenz_curve_of_Denmark,_Hungary,_and_Namibia.png A Lorenz curve always starts at (0,0) and ends at (1,1).
+A Lorenz curve always starts at (0,0) and ends at (1,1).
 
 The Lorenz curve is not defined if the mean of the probability distribution is zero or infinite.
 

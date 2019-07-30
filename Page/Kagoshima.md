@@ -3,7 +3,7 @@ is the capital city of Kagoshima Prefecture at the south western tip of the isla
 
 History
 
-Bombing_of_Kagoshima_Map_-_1863.PNG on 15 to 18 August 1863]] Kagoshima_1914.jpg volcano which is seen in the distance across the bay]]
+on 15 to 18 August 1863]] volcano which is seen in the distance across the bay]]
 
 Kagoshima Prefecture (also known as the Satsuma Domain) was the center of the territory of the Shimazu clan for many centuries. It was a busy political and commercial port city throughout the medieval period and into the Edo period (1603–1868) when it formally became the capital of the Shimazu's fief, the Satsuma Domain. The official emblem is a modification of the Shimazu's kamon designed to resemble the character 市 (_shi_, "city"). Satsuma remained one of the most powerful and wealthiest domains in the country throughout the period, and though international trade was banned for much of this period, the city remained quite active and prosperous. It served not only as the political center for Satsuma, but also for the semi-independent vassal kingdom of Ryūkyū; Ryūkyūan traders and emissaries frequented the city, and a special Ryukyuan embassy building was established to help administer relations between the two polities and to house visitors and emissaries. Kagoshima was also a significant center of Christian activity in Japan prior to the imposition of bans against that religion in the late 16th and early 17th centuries.
 
@@ -55,8 +55,6 @@ As of 1 January 2015, Kagoshima City has an estimated population of 606,624 and 
 
 Culture
 
-ISS034-E-027139.jpg
-
 Food
 
 Kagoshima Prefecture has a distinct and rich food culture. The warm weather and diverse environments allow for the agriculture and aquaculture of Kagoshima to thrive and gain nationwide and worldwide recognition for unique and quality products. Numerous restaurants around Kagoshima feature Satsuma Province local cuisine. Popular cuisine incorporating local agriculture include _kibinago　sashimi_ (silver-striped herring), _buri_ Amberjack, _kampachi_ yellowtail, "Black Label Products" such as _kuro-ushi_ Wagyu beef, _kuro-buta_ Berkshire pork dishes, and _kuro-Satsuma jidori_ chicken (sometimes served as raw, chicken _sashimi_); smoked eel, keihan, and _miki_ (fermented rice milk consumed among residents of the Amami Islands).
@@ -71,7 +69,7 @@ There are many types of sweets produced in Kagoshima Prefecture. has produced so
 
 Beverages
 
-Kagoshima_City_Hall_1.jpg In 1559, at in a carpenter wrote atop a wooden board "the Shintō Priest of this shrine is too stingy to offer me showing an early love for the spirits. Kagoshima Prefecture is officially recognized (by the World Trade Organization) as the home to one of the most traditional beverages of Japan, _shōchū_. In Kagoshima there are 113+ distilleries, producing about 1,500 highly acclaimed brands, placing Kagoshima in the top for production quantity and shipment. While visiting Kagoshima, one may notice labels reading . _Honkaku-shōchū_ is a distilled beverage produced with traditional skills using ingredients such as natural spring water, sweet potatoes, locally-grown sugar cane, and grains. There is a variety of _honkaku-shōchū_ including , _shōchū_ distilled from sweet potatoes), , distilled from barley), , distilled from rice), etc. Another type of _shōchū_ is , _shōchū_ distilled with brown sugar). _Shōchū_ has long gained international favor and has come to be comparable to Bordeaux for wine, Scotch for whiskey, and Cognac for brandy. Also, the Amami Islands of Kagoshima Prefecture are the only areas sanctioned to bear the label of _kokutō-shōchū_.
+In 1559, at in a carpenter wrote atop a wooden board "the Shintō Priest of this shrine is too stingy to offer me showing an early love for the spirits. Kagoshima Prefecture is officially recognized (by the World Trade Organization) as the home to one of the most traditional beverages of Japan, _shōchū_. In Kagoshima there are 113+ distilleries, producing about 1,500 highly acclaimed brands, placing Kagoshima in the top for production quantity and shipment. While visiting Kagoshima, one may notice labels reading . _Honkaku-shōchū_ is a distilled beverage produced with traditional skills using ingredients such as natural spring water, sweet potatoes, locally-grown sugar cane, and grains. There is a variety of _honkaku-shōchū_ including , _shōchū_ distilled from sweet potatoes), , distilled from barley), , distilled from rice), etc. Another type of _shōchū_ is , _shōchū_ distilled with brown sugar). _Shōchū_ has long gained international favor and has come to be comparable to Bordeaux for wine, Scotch for whiskey, and Cognac for brandy. Also, the Amami Islands of Kagoshima Prefecture are the only areas sanctioned to bear the label of _kokutō-shōchū_.
 
 or black vinegar is another item of the "Black Label Products" of Kagoshima, the other of which is _Kokutō-shōchū_. There are a number of _kurozu_ farms around Kagoshima, most of which are located around the Kirishima area. Most _kurozu_ farms produce _kurozu_ bottled vinegar (fermented for a single year, 2+ years) along with other items such as salad dressing, powders, capsules, spices, candy, etc. _Kurozu_ also comes in different flavors such as grape, orange, _ume plum_, etc. though the most popular flavor by far is apple. The farms are open to visitations and often offer tours.
 
@@ -80,8 +78,6 @@ Dialect
 Today, Kagoshima is home to a distinctive dialect of Japanese known as or , differing from the usual Kyushu dialects with its pronunciations of the yotsugana.
 
 Points of interest
-
-Tenmonkan_G3_Kagoshima_Japan.jpg
 
 -   Ishibashi Park
 -   Kagoshima Aquarium
@@ -103,8 +99,6 @@ Events and festivals
 -   Sendai City Great Tug-of-War (_Sendai Ō-tsunahiki_ 川内大綱引, September)
 -   Kagoshima _Ōhara_ Festival (November)
 
-Ohara_Festival_2011.JPG
-
 -   2015 National Cultural Festival (October–November |Official Website: http://kagoshima-kokubunsai.jp/)
 
 
@@ -117,7 +111,7 @@ High schools
 
 Transportation
 
-Kagoshima-Chuo_Station_20180505.jpg]] 高見馬場_-_panoramio.jpg Ibusuki_Skyline_Ends.JPG]]
+]] ]]
 
 Railways
 

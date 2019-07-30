@@ -18,7 +18,7 @@ The first two decades of the 20th century were marred by personal tragedy. Tsiol
 
 Scientific achievements
 
-Циолковский_за_работой.jpg Konstantin_Tsiolkovsky_1930s.jpg Tsiolkovsky stated that he developed the theory of rocketry only as a supplement to philosophical research on the subject.[11] He wrote more than 400 works including approximately 90 published pieces on space travel and related subjects.[12] Among his works are designs for rockets with steering thrusters, multistage boosters, space stations, airlocks for exiting a spaceship into the vacuum of space, and closed-cycle biological systems to provide food and oxygen for space colonies.
+Tsiolkovsky stated that he developed the theory of rocketry only as a supplement to philosophical research on the subject.[11] He wrote more than 400 works including approximately 90 published pieces on space travel and related subjects.[12] Among his works are designs for rockets with steering thrusters, multistage boosters, space stations, airlocks for exiting a spaceship into the vacuum of space, and closed-cycle biological systems to provide food and oxygen for space colonies.
 
 Tsiolkovsky's first scientific study dates back to 1880–1881. He wrote a paper called "Theory of Gases," in which he outlined the basis of the kinetic theory of gases, but after submitting it to the Russian Physico-Chemical Society (RPCS), he was informed that his discoveries had already been made 25 years earlier. Undaunted, he pressed ahead with his second work, "The Mechanics of the Animal Organism". It received favorable feedback, and Tsiolkovsky was made a member of the Society. Tsiolkovsky's main works after 1884 dealt with four major areas: the scientific rationale for the all-metal balloon (airship), streamlined airplanes and trains, hovercraft, and rockets for interplanetary travel.
 
@@ -59,7 +59,7 @@ Hearing problems did not prevent the scientist from having a good understanding 
 
 Later life
 
-Konstantin_Tsiolkovsky_1934.jpg Although Tsiolkovsky supported the Bolshevik Revolution, he did not particularly flourish under a communist system. Eager to promote science and technology, the new Soviet government elected him a member of the Socialist Academy in 1918. He worked as a high school mathematics teacher until retiring in 1920 at the age of 63. In 1921, he received a lifetime pension.
+Although Tsiolkovsky supported the Bolshevik Revolution, he did not particularly flourish under a communist system. Eager to promote science and technology, the new Soviet government elected him a member of the Socialist Academy in 1918. He worked as a high school mathematics teacher until retiring in 1920 at the age of 63. In 1921, he received a lifetime pension.
 
 Only late in his lifetime was Tsiolkovsky honored for his pioneering work. In particular, his support of eugenics made him politically unpopular.[19] However, from the mid 1920s onwards the importance of his other work was acknowledged, and he was honoured for it and the Soviet state provided financial backing for his research. He was initially popularized in Soviet Russia in 1931–1932 mainly by two writers:[20] Iakov Perel'man and Nikolai Rynin. Tsiolkovsky died in Kaluga on 19 September 1935 after undergoing an operation for stomach cancer. He bequeathed his life's work to the Soviet state.[21]
 
@@ -73,12 +73,10 @@ In 1989, Tsiolkovsky was inducted into the International Air & Space Hall of Fam
 
 Philosophical work
 
-Volition-of-the-Cosmos.jpg philosophy.]] Tsiolkovsky wrote a book called _The Will of the Universe. The Unknown Intelligence_ in 1928 in which he propounded a philosophy of panpsychism. He believed humans would eventually colonize the Milky Way galaxy. His thought preceded the Space Age by several decades, and some of what he foresaw in his imagination has come into being since his death. Tsiolkovsky also did not believe in traditional religious cosmology, but instead (and to the chagrin of the Soviet authorities) he believed in a cosmic being that governed humans as "marionettes, mechanical puppets, machines, movie characters",[24] thereby adhering to a mechanical view of the universe, which he believed would be controlled in the millennia to come through the power of human science and industry.
+philosophy.]] Tsiolkovsky wrote a book called _The Will of the Universe. The Unknown Intelligence_ in 1928 in which he propounded a philosophy of panpsychism. He believed humans would eventually colonize the Milky Way galaxy. His thought preceded the Space Age by several decades, and some of what he foresaw in his imagination has come into being since his death. Tsiolkovsky also did not believe in traditional religious cosmology, but instead (and to the chagrin of the Soviet authorities) he believed in a cosmic being that governed humans as "marionettes, mechanical puppets, machines, movie characters",[24] thereby adhering to a mechanical view of the universe, which he believed would be controlled in the millennia to come through the power of human science and industry.
 
 
 Tributes
-
-Chertrg_Tsiolkovsky.jpg
 
 -   In 1964, The Monument to the Conquerors of Space was erected to celebrate the achievements of the Soviet people in space exploration. Located in Moscow, the monument is 107 meters (350 feet) tall and covered with titanium cladding. The main part of the monument is a giant obelisk topped by a rocket and resembling in shape the exhaust plume of the rocket. A statue of Konstantin Tsiolkovsky, the precursor of astronautics, is located in front of the obelisk.
 -   The State Museum of the History of Cosmonautics in Kaluga now bears his name.
@@ -110,8 +108,6 @@ In popular culture
 
 
 Works
-
-Tsiolk_na_lune_(pic_Gofman)_3.png
 
 -   Tsiolkovsky, Konstantin E., Collection of over 210 philosophical works available online (Russian)
 -   Tsiolkovsky, Konstantin E., Collection of philosophical works available online (English)

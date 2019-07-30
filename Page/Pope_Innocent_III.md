@@ -25,15 +25,13 @@ Celestine III died on 8 January 1198. Before his death he had urged the College 
 
 Reassertion of papal power
 
-Papal_Bulla_of_Innocent_III_(FindID_235228).jpg of Innocent III ]]
+of Innocent III ]]
 
 As pope, Innocent III began with a very wide sense of his responsibility and of his authority. During the reign of Pope Innocent III, the papacy was at the height of its powers. He was considered to be the most powerful person in Europe at the time.[14] In 1198, Innocent wrote to the prefect Acerbius and the nobles of Tuscany expressing his support of the medieval political theory of the sun and the moon.[15] His papacy asserted the absolute spiritual authority of his office, while still respecting the temporal authority of kings.[16]
 
 The Muslim recapture of Jerusalem in 1187 was to him a divine judgment on the moral lapses of Christian princes. He was also determined to protect what he called "the liberty of the Church" from inroads by secular princes. This determination meant, among other things, that princes should not be involved in the selection of bishops, and it was focused especially on the "patrimonium" of the papacy, the section of central Italy claimed by the popes and later called the Papal States. The patrimonium was routinely threatened by Hohenstaufen German kings who, as Roman emperors, claimed it for themselves. The Holy Roman Emperor Henry VI expected to be succeeded by his infant son Frederick as king of Sicily, king of the Germans, and Roman Emperor, a combination that would have brought Germany, Italy, and Sicily under a single ruler and left the patrimonium exceedingly vulnerable.[17]
 
 The early death of Henry VI left his 3-year-old son Frederick II as king. Henry VI's widow Constance of Sicily ruled over Sicily for her young son before he reached the age of majority. She was as eager to remove German power from the kingdom of Sicily as was Innocent III. Before her death in 1198, she named Innocent as guardian of the young Frederick until he reached his maturity. In exchange, Innocent was also able to recover papal rights in Sicily that had been surrendered decades earlier to King William I of Sicily by Pope Adrian IV. The Pope invested the young Frederick II as King of Sicily in November 1198. He also later induced Frederick II to marry the widow of King Emeric of Hungary in 1209.[18]
-
-Coat_of_arms_of_Innocent_III.png
 
 Involvement in Imperial elections
 
@@ -58,7 +56,7 @@ Despite papal support, Otto could not oust his rival Philip until the latter was
 
 The conflict was decided by the Battle of Bouvines on 27 July 1214, which pitted Otto, allied to King John of England against Philip II Augustus. Otto was defeated by the French and thereafter lost all influence. He died on 19 May 1218, leaving Frederick II the undisputed emperor. Meanwhile, King John was forced to acknowledge the Pope as his feudal lord and accept Stephen Langton as Archbishop of Canterbury.[27]
 
-Joao_sem_terra_assina_carta_Magna.jpg''. Illustration from _Cassell's History of England_ (1902).]]
+''. Illustration from _Cassell's History of England_ (1902).]]
 
 Feudal power over Europe
 
@@ -66,13 +64,13 @@ Innocent III played further roles in the politics of Norway,[28] France, Sweden,
 
 Crusades and suppression of heresy
 
-Albigensian_Crusade_01.jpg against the Cathars.]]
+against the Cathars.]]
 
 Innocent III was a vigorous opponent of religious heresy and undertook campaigns against it. At the beginning of his pontificate, he focused on the Albigenses, also known as the Cathars, a sect that had become widespread in southwestern France, then under the control of local princes, such as the Counts of Toulouse. The Cathars rejected the Christian authority and the teachings of the Catholic Church, claiming it corrupt.[31] In 1198, Innocent III dispatched a monk named Rainier to visit France with the power to excommunicate heretics, and orders to local temporal authorities to confiscate the lands of heretics or to "as became Christians to deal with them more severely."[32]
 
 The murder of Pierre de Castelnau – Innocent's legate – in 1208, by unknown assailants commonly believed to be friends of Count Raymond of Toulouse (who was not a Cathar himself but was seen as supportive of them), caused Innocent to change his methods from words to weapons. Innocent called upon King Philip II Augustus of France to suppress the Albigenses. The Crusade was prosecuted primarily by the French crown and soon took on a political flavor, resulting in a significant reduction in the number of practising Cathars and realignment of the County of Toulouse in Languedoc, bringing it into the sphere of the French crown and diminishing the distinct regional culture and high level of influence of the Counts of Barcelona. Under the leadership of Simon de Montfort, 5th Earl of Leicester, a campaign was launched. The Albigensian Crusade, which led to the deaths of approximately 20,000[33] men, women and children, Cathar and Catholic alike[34] and brought the region firmly under the control of the king of France. It was directed not only against heretical Christians, but also the nobility of Toulouse and vassals of the Crown of Aragon. King Peter II of Aragon was directly involved in the conflict, and was killed in the course of the Battle of Muret in 1213. The conflict largely ended with the Treaty of Paris of 1229, in which the integration of the Occitan territory in the French crown was agreed upon.
 
-Burning_of_the_Waldensians.jpg''. Toulouse in the 13th century.]] Pope Innocent III spent a majority of his tenure as Pope (1198–1216) preparing for a great crusade on the Holy Land. His first attempt was the Fourth Crusade (1202–1204) which he decreed with the papal bull _Post miserabile_ in 1198.[35][36] Unlike past popes, Innocent III displayed interest in leading the crusade himself, rather than simply instigating it and allowing secular leaders to organize the expedition according to their own aspirations.[37]
+''. Toulouse in the 13th century.]] Pope Innocent III spent a majority of his tenure as Pope (1198–1216) preparing for a great crusade on the Holy Land. His first attempt was the Fourth Crusade (1202–1204) which he decreed with the papal bull _Post miserabile_ in 1198.[35][36] Unlike past popes, Innocent III displayed interest in leading the crusade himself, rather than simply instigating it and allowing secular leaders to organize the expedition according to their own aspirations.[37]
 
 Innocent III's first order of business in preaching the crusade was to send missionaries to every Catholic state to endorse the campaign. Innocent III sent Peter of Capua to the kings France and England with specific instructions to convince them to settle their differences. As a result, in 1199, Innocent was successful in forging a truce of five years between the two nations. The intent of the truce between the kings was not to allow them to lead the crusade, but rather to improve the likelihood that they would provide assistance. For the army's leadership, Innocent aimed his pleas at the knights and nobles of Europe.[38] The pleadings were successful in France, where many lords answered the pope's call, including the army's two eventual leaders, Theobald of Champagne and Boniface, marquis of Montferrat. Innocent III's calls to action were not received with as much enthusiasm in England or Germany. For this reason, the Fourth Crusade became mainly a French affair.[39]
 
@@ -94,7 +92,7 @@ In order to define fundamental doctrines, the council reviewed the nature of the
 
 Death and legacy
 
-Innocent_III_bas-relief_in_the_U.S._House_of_Representatives_chamber.jpg]] The Council had set the beginning of the Fifth Crusade for 1217, under the direct leadership of the Church. After the Council, in the spring of 1216, Innocent moved to northern Italy in an attempt to reconcile the maritime cities of Pisa and Genoa by removing the excommunication cast over Pisa by his predecessor Celestine III and concluding a pact with Genoa.[53]
+]] The Council had set the beginning of the Fifth Crusade for 1217, under the direct leadership of the Church. After the Council, in the spring of 1216, Innocent moved to northern Italy in an attempt to reconcile the maritime cities of Pisa and Genoa by removing the excommunication cast over Pisa by his predecessor Celestine III and concluding a pact with Genoa.[53]
 
 Innocent III, however, died suddenly at Perugia[54] on 16 July 1216. He was buried in the cathedral of Perugia, where his body remained until Pope Leo XIII had it transferred to the Lateran in December 1891.[55]
 

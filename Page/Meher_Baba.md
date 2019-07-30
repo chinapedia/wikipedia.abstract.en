@@ -32,8 +32,6 @@ Life and works
 
 Early life
 
-Meherwan_irani.jpg
-
 Meher Baba was an Irani[14] born in Pune, India, to a Zoroastrian family.[15] His given name was Merwan Sheriar Irani. He was the second son of Sheriar Irani, a Persian Zoroastrian who had spent years wandering in search of spiritual experience before settling in Poona (now Pune), and Shireen Irani.[16]
 
 As a boy, he formed the Cosmopolitan Club, which was dedicated to remaining informed in world affairs and donating money to charity.[17] He was a multi-instrumentalist and poet. Fluent in several languages, he was especially fond of the poetry of Hafez, Shakespeare, and Shelley.[18]
@@ -53,8 +51,6 @@ From July 1925 onwards, Meher Baba initiated a life-long period of self-imposed 
 
 In the 1930s, Meher Baba began a period of extensive world travel and took several trips to Europe and the United States. It was during this period that he established contact with his first close group of Western disciples.[28] He traveled on a Persian passport because he had given up writing as well as speaking and would not sign the forms required by the British government of India.[29]
 
-Baba_dictating.jpg
-
 On his first trip to England in 1931, he traveled on the _SS Rajputana_, the same ship that was carrying Mahatma Gandhi, who was sailing to the second Round Table Conference in London. Baba and Gandhi had three meetings on board, one of which lasted for three hours.[30] The British press publicized these meetings,[31] but an aide to Gandhi said, "You may say emphatically that Gandhi never asked Meher Baba for help or for spiritual or other advice."[32]
 
 On 20 May 1932, Baba arrived in New York and provided the press with a 1000 word written statement, which was described by devotee Quentin Tod as his "Message to America". In it, Baba proclaimed himself "one with the infinite source of everything" and declared his intention to break his silence. "When I speak, my original message will be delivered to the world and it will have to be accepted." When asked about the Indo-British political situation he had no comment, but his followers explained that he had told Gandhi to abandon politics.
@@ -70,7 +66,7 @@ In the late 1930s, Meher Baba invited a group of Western women to join him in In
 
 1940s – Masts and the New Life
 
-Wayf_154.jpg in Bangalore, 1940]]
+in Bangalore, 1940]]
 
 In the 1930s and 1940s, Meher Baba worked extensively with masts, persons "intoxicated with God".[41] According to Baba, these individuals are disabled by their enchanting experience of the higher spiritual planes. Although outwardly masts may appear irrational or insane, Baba claimed that their spiritual status was elevated, and that by meeting with them he helped them to move forward spiritually while enlisting their aid in his spiritual work.[42] One of the best known of these masts, known as Mohammed Mast, lived at Meher Baba's encampment at Meherabad until his death in 2003.[43]
 
@@ -119,8 +115,6 @@ From 10 July 1925, until his death in 1969, Meher Baba was silent.[75][76][77] H
 
   Man's inability to live God's words makes the Avatar's teaching a mockery. Instead of practicing the compassion he taught, man has waged wars in his name. Instead of living the humility, purity, and truth of his words, man has given way to hatred, greed, and violence. Because man has been deaf to the principles and precepts laid down by God in the past, in this present Avataric form, I observe silence.[79]
 
-Pointingalphabet.jpg
-
 Meher Baba often signaled the moment "that he would 'break' his silence by speaking the 'Word' in every heart, thereby giving a spiritual push forward to all living things".[80]
 
   When I break My Silence, the impact of My Love will be universal and all life in creation will know, feel and receive of it. It will help every individual to break himself free from his own bondage in his own way. I am the Divine Beloved who loves you more than you can ever love yourself. The breaking of My Silence will help you to help yourself in knowing your real Self.[81]
@@ -164,8 +158,6 @@ The majority of Meher Baba's followers accept his claim of avatarhood,[103] and 
 
 
 Legacy
-
-Meher_Baba_Samadhi2.jpg
 
 Baba's travels and teachings left a legacy of followers and devotees worldwide.[105]
 

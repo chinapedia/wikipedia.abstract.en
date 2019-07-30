@@ -44,7 +44,7 @@ Forms of mass media
 
 Broadcast
 
-Crystal_radio_advertisement.png in the 1920s.]] The sequencing of content in a broadcast is called a schedule. With all technological endeavours a number of technical terms and slang have developed. Please see the list of broadcasting terms for a glossary of terms used.
+in the 1920s.]] The sequencing of content in a broadcast is called a schedule. With all technological endeavours a number of technical terms and slang have developed. Please see the list of broadcasting terms for a glossary of terms used.
 
 Radio and television programs are distributed over frequency bands which are highly regulated in the United States. Such regulation includes determination of the width of the bands, range, licensing, types of receivers and transmitters used, and acceptable content.
 
@@ -140,7 +140,7 @@ Outdoor media is a form of mass media which comprises billboards, signs, placard
 
 Purposes
 
-911-Panel.JPG in Washington, D.C., shows the September 12 headlines in America and around the world.]]
+in Washington, D.C., shows the September 12 headlines in America and around the world.]]
 
 Mass media encompasses much more than just news, although it is sometimes misunderstood in this way. It can be used for various purposes:
 
@@ -191,7 +191,7 @@ A YouTuber is anyone who has made their fame from creating and promoting videos 
 
 History
 
-Press1520.png The history of mass media can be traced back to the days when dramas were performed in various ancient cultures. This was the first time when a form of media was "broadcast" to a wider audience. The first dated printed book known is the "Diamond Sutra", printed in China in 868 AD, although it is clear that books were printed earlier. Movable clay type was invented in 1041 in China. However, due to the slow spread of literacy to the masses in China, and the relatively high cost of paper there, the earliest printed mass-medium was probably European popular prints from about 1400. Although these were produced in huge numbers, very few early examples survive, and even most known to be printed before about 1600 have not survived. The term "mass media" was coined with the creation of print media, which is notable for being the first example of mass media, as we use the term today. This form of media started in Europe in the Middle Ages.
+The history of mass media can be traced back to the days when dramas were performed in various ancient cultures. This was the first time when a form of media was "broadcast" to a wider audience. The first dated printed book known is the "Diamond Sutra", printed in China in 868 AD, although it is clear that books were printed earlier. Movable clay type was invented in 1041 in China. However, due to the slow spread of literacy to the masses in China, and the relatively high cost of paper there, the earliest printed mass-medium was probably European popular prints from about 1400. Although these were produced in huge numbers, very few early examples survive, and even most known to be printed before about 1600 have not survived. The term "mass media" was coined with the creation of print media, which is notable for being the first example of mass media, as we use the term today. This form of media started in Europe in the Middle Ages.
 
 Johannes Gutenberg's invention of the printing press allowed the mass production of books to sweep the nation. He printed the first book, a Latin Bible, on a printing press with movable type in 1453. The invention of the printing press gave rise to some of the first forms of mass communication, by enabling the publication of books and newspapers on a scale much larger than was previously possible.[17][18][19] The invention also transformed the way the world received printed materials, although books remained too expensive really to be called a mass-medium for at least a century after that. Newspapers developed from about 1612, with the first example in English in 1620;[20] but they took until the 19th century to reach a mass-audience directly. The first high-circulation newspapers arose in London in the early 1800s, such as The Times, and were made possible by the invention of high-speed rotary steam printing presses, and railroads which allowed large-scale distribution over wide geographical areas. The increase in circulation, however, led to a decline in feedback and interactivity from the readership, making newspapers a more one-way medium.[21][22][23][24]
 
@@ -226,7 +226,7 @@ Since the 1950s, when cinema, radio and TV began to be the primary or the only s
 
 Mass media play a significant role in shaping public perceptions on a variety of important issues, both through the information that is dispensed through them, and through the interpretations they place upon this information.[34] They also play a large role in shaping modern culture, by selecting and portraying a particular set of beliefs, values, and traditions (an entire way of life), as reality. That is, by portraying a certain interpretation of reality, they shape reality to be more in line with that interpretation.[35] Mass media also play a crucial role in the spread of civil unrest activities such as anti-government demonstrations, riots, and general strikes.[36] That is, the use of radio and television receivers has made the unrest influence among cities not only by the geographic location of cities, but also by proximity within the mass media distribution networks.[37]
 
-Virginia_Minstrels,_1843.jpg lampooned the assumed stupidity of black people. Detail from cover of _The Celebrated Negro Melodies, as Sung by the Virginia Minstrels_, 1843.]] Bettie_Page_driving.jpg as the model.]] TheUsualIrishWayofDoingThings_(cr).jpg'', 1871.]]
+lampooned the assumed stupidity of black people. Detail from cover of _The Celebrated Negro Melodies, as Sung by the Virginia Minstrels_, 1843.]] as the model.]] '', 1871.]]
 
 Racism and stereotyping
 

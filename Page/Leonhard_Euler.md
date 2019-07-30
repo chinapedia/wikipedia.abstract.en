@@ -19,7 +19,7 @@ Saint Petersburg
 
 Around this time Johann Bernoulli's two sons, Daniel and Nicolaus, were working at the Imperial Russian Academy of Sciences in Saint Petersburg. On 31 July 1726, Nicolaus died of appendicitis after spending less than a year in Russia.[11][12] When Daniel assumed his brother's position in the mathematics/physics division, he recommended that the post in physiology that he had vacated be filled by his friend Euler. In November 1726 Euler eagerly accepted the offer, but delayed making the trip to Saint Petersburg while he unsuccessfully applied for a physics professorship at the University of Basel.[13]
 
-1957_CPA_2000.jpg stamp commemorating the 250th birthday of Euler. The text says: 250 years from the birth of the great mathematician, academician Leonhard Euler.]] Euler arrived in Saint Petersburg on 17 May 1727. He was promoted from his junior post in the medical department of the academy to a position in the mathematics department. He lodged with Daniel Bernoulli with whom he often worked in close collaboration. Euler mastered Russian and settled into life in Saint Petersburg. He also took on an additional job as a medic in the Russian Navy.[14]
+stamp commemorating the 250th birthday of Euler. The text says: 250 years from the birth of the great mathematician, academician Leonhard Euler.]] Euler arrived in Saint Petersburg on 17 May 1727. He was promoted from his junior post in the medical department of the academy to a position in the mathematics department. He lodged with Daniel Bernoulli with whom he often worked in close collaboration. Euler mastered Russian and settled into life in Saint Petersburg. He also took on an additional job as a medic in the Russian Navy.[14]
 
 The Academy at Saint Petersburg, established by Peter the Great, was intended to improve education in Russia and to close the scientific gap with Western Europe. As a result, it was made especially attractive to foreign scholars like Euler. The academy possessed ample financial resources and a comprehensive library drawn from the private libraries of Peter himself and of the nobility. Very few students were enrolled in the academy in order to lessen the faculty's teaching burden. The academy emphasized research and offered to its faculty both the time and the freedom to pursue scientific questions.[15]
 
@@ -31,7 +31,7 @@ On 7 January 1734, he married Katharina Gsell (1707–1773), a daughter of Georg
 
 Berlin
 
-Euler_GDR_stamp.jpg honoring Euler on the 200th anniversary of his death. Across the centre it shows his polyhedral formula, in English written as "_v_ − _e_ + _f_ = 2".]]
+honoring Euler on the 200th anniversary of his death. Across the centre it shows his polyhedral formula, in English written as "_v_ − _e_ + _f_ = 2".]]
 
 Concerned about the continuing turmoil in Russia, Euler left St. Petersburg on 19 June 1741 to take up a post at the _Berlin Academy_, which he had been offered by Frederick the Great of Prussia. He lived for 25 years in Berlin, where he wrote over 380 articles. In Berlin, he published the two works for which he would become most renowned: the _Introductio in analysin infinitorum_, a text on functions published in 1748, and the _Institutiones calculi differentialis_,[19] published in 1755 on differential calculus.[20] In 1755, he was elected a foreign member of the Royal Swedish Academy of Sciences.
 
@@ -39,7 +39,7 @@ In addition, Euler was asked to tutor Friederike Charlotte of Brandenburg-Schwed
 
 Despite Euler's immense contribution to the Academy's prestige, he eventually incurred the ire of Frederick and ended up having to leave Berlin. The Prussian king had a large circle of intellectuals in his court, and he found the mathematician unsophisticated and ill-informed on matters beyond numbers and figures. Euler was a simple, devoutly religious man who never questioned the existing social order or conventional beliefs, in many ways the polar opposite of Voltaire, who enjoyed a high place of prestige at Frederick's court. Euler was not a skilled debater and often made it a point to argue subjects that he knew little about, making him the frequent target of Voltaire's wit.[23] Frederick also expressed disappointment with Euler's practical engineering abilities:
 
-Leonhard_Euler.jpg, which indicates problems with Euler's right eyelid, possibly strabismus. Euler's left eye, which here appears healthy, was later affected by a cataract.[24]]]
+, which indicates problems with Euler's right eyelid, possibly strabismus. Euler's left eye, which here appears healthy, was later affected by a cataract.[24]]]
 
 Eyesight deterioration
 
@@ -53,7 +53,7 @@ Three years after his wife's death, Euler married her half-sister, Salome Abigai
 
 In St. Petersburg on 18 September 1783, after a lunch with his family, Euler was discussing the newly discovered planet Uranus and its orbit with a fellow academician Anders Johan Lexell, when he collapsed from a brain hemorrhage. He died a few hours later.[31] Jacob von Staehlin-Storcksburg wrote a short obituary for the Russian Academy of Sciences and Russian mathematician Nicolas Fuss, one of Euler's disciples, wrote a more detailed eulogy,[32] which he delivered at a memorial meeting. In his eulogy for the French Academy, French mathematician and philosopher Marquis de Condorcet, wrote:
 
-Euler_Grave_at_Alexander_Nevsky_Monastry.jpg]] Euler was buried next to Katharina at the Smolensk Lutheran Cemetery on Goloday Island. In 1785, the Russian Academy of Sciences put a marble bust of Leonhard Euler on a pedestal next to the Director's seat and, in 1837, placed a headstone on Euler's grave. To commemorate the 250th anniversary of Euler's birth, the headstone was moved in 1956, together with his remains, to the 18th-century necropolis at the Alexander Nevsky Monastery.
+]] Euler was buried next to Katharina at the Smolensk Lutheran Cemetery on Goloday Island. In 1785, the Russian Academy of Sciences put a marble bust of Leonhard Euler on a pedestal next to the Director's seat and, in 1837, placed a headstone on Euler's grave. To commemorate the 250th anniversary of Euler's birth, the headstone was moved in 1956, together with his remains, to the 18th-century necropolis at the Alexander Nevsky Monastery.
 
 
 Contributions to mathematics and physics
@@ -76,7 +76,7 @@ Notably, Euler directly proved the power series expansions for and the inverse t
 
 $$\sum_{n=1}^\infty {1 \over n^2} = \lim_{n \to \infty}\left(\frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \cdots + \frac{1}{n^2}\right) = \frac{\pi ^2}{6}.$$
 
-Euler's_formula.svg]]
+]]
 
 Euler introduced the use of the exponential function and logarithms in analytic proofs. He discovered ways to express various logarithmic functions using power series, and he successfully defined logarithms for negative and complex numbers, thus greatly expanding the scope of mathematical applications of logarithms.[40] He also defined the exponential function for complex numbers, and discovered its relation to the trigonometric functions. For any real number {{math (taken to be radians), Euler's formula states that the complex exponential function satisfies
 
@@ -103,7 +103,7 @@ Euler proved Newton's identities, Fermat's little theorem, Fermat's theorem on s
 
 Graph theory
 
-Konigsberg_bridges.png in Euler's time showing the actual layout of the seven bridges, highlighting the river Pregel and the bridges.]] In 1735, Euler presented a solution to the problem known as the Seven Bridges of Königsberg.[47] The city of Königsberg, Prussia was set on the Pregel River, and included two large islands that were connected to each other and the mainland by seven bridges. The problem is to decide whether it is possible to follow a path that crosses each bridge exactly once and returns to the starting point. It is not possible: there is no Eulerian circuit. This solution is considered to be the first theorem of graph theory, specifically of planar graph theory.[48]
+in Euler's time showing the actual layout of the seven bridges, highlighting the river Pregel and the bridges.]] In 1735, Euler presented a solution to the problem known as the Seven Bridges of Königsberg.[47] The city of Königsberg, Prussia was set on the Pregel River, and included two large islands that were connected to each other and the mainland by seven bridges. The problem is to decide whether it is possible to follow a path that crosses each bridge exactly once and returns to the starting point. It is not possible: there is no Eulerian circuit. This solution is considered to be the first theorem of graph theory, specifically of planar graph theory.[48]
 
 Euler also discovered the formula V − E + F = 2 relating the number of vertices, edges and faces of a convex polyhedron,[49] and hence of a planar graph. The constant in this formula is now known as the Euler characteristic for the graph (or other mathematical object), and is related to the genus of the object.[50] The study and generalization of this formula, specifically by Cauchy[51] and L'Huilier,[52] is at the origin of topology.
 
@@ -166,7 +166,7 @@ where
 
 Logic
 
-Euler is also credited with using closed curves to illustrate syllogistic reasoning (1768). These diagrams have become known as Euler diagrams.[58] Euler_Diagram.svg
+Euler is also credited with using closed curves to illustrate syllogistic reasoning (1768). These diagrams have become known as Euler diagrams.[58]
 
 An Euler diagram is a diagrammatic means of representing sets and their relationships. Euler diagrams consist of simple closed curves (usually circles) in the plane that depict sets. Each Euler curve divides the plane into two regions or "zones": the interior, which symbolically represents the elements of the set, and the exterior, which represents all elements that are not members of the set. The sizes or shapes of the curves are not important; the significance of the diagram is in how they overlap. The spatial relationships between the regions bounded by each curve (overlap, containment or neither) corresponds to set-theoretic relationships (intersection, subset and disjointness). Curves whose interior zones do not intersect represent disjoint sets. Two curves whose interior zones intersect represent sets that have common elements; the zone inside both curves represents the set of elements common to both sets (the intersection of the sets). A curve that is contained completely within the interior zone of another represents a subset of it. Euler diagrams (and their generalization in Venn diagrams) were incorporated as part of instruction in set theory as part of the new math movement in the 1960s. Since then, they have also been adopted by other curriculum fields such as reading.[59]
 
@@ -196,7 +196,7 @@ There is a famous legend[71] inspired by Euler's arguments with secular philosop
 
 Commemorations
 
-Euler-10_Swiss_Franc_banknote_(front).jpg banknote]] Euler was featured on the sixth series of the Swiss 10-franc banknote and on numerous Swiss, German, and Russian postage stamps. The asteroid 2002 Euler was named in his honor. He is also commemorated by the Lutheran Church on their Calendar of Saints on 24 May—he was a devout Christian (and believer in biblical inerrancy) who wrote apologetics and argued forcefully against the prominent atheists of his time.[76]
+banknote]] Euler was featured on the sixth series of the Swiss 10-franc banknote and on numerous Swiss, German, and Russian postage stamps. The asteroid 2002 Euler was named in his honor. He is also commemorated by the Lutheran Church on their Calendar of Saints on 24 May—he was a devout Christian (and believer in biblical inerrancy) who wrote apologetics and argued forcefully against the prominent atheists of his time.[76]
 
 
 Selected bibliography

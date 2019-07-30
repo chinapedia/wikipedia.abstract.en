@@ -1,4 +1,4 @@
-Lubeck_Trave.jpg LÜBECK (, ) is a city in Schleswig-Holstein, northern Germany, and one of the major ports of Germany. On the river Trave, it was the leading city of the Hanseatic League, and because of its extensive Brick Gothic architecture, it is listed by UNESCO as a World Heritage Site. In 2015, it had a population of 218,523.
+LÜBECK (, ) is a city in Schleswig-Holstein, northern Germany, and one of the major ports of Germany. On the river Trave, it was the leading city of the Hanseatic League, and because of its extensive Brick Gothic architecture, it is listed by UNESCO as a World Heritage Site. In 2015, it had a population of 218,523.
 
 The old part of Lübeck is on an island enclosed by the Trave. The Elbe–Lübeck Canal connects the Trave with the Elbe River. Another important river near the town centre is the Wakenitz. Autobahn 1 connects Lübeck with Hamburg and Denmark. Travemünde is a sea resort and ferry port on the coast of the Baltic Sea. Lübeck Hauptbahnhof links Lübeck to a number of railway lines, notably the line to Hamburg.
 
@@ -10,8 +10,6 @@ Humans settled in the area around what today is Lübeck after the last Ice Age e
 Around AD 700, Slavic peoples started moving into the eastern parts of Holstein, an area previously settled by Germanic inhabitants who had moved on in the Migration Period. Charlemagne (Holy Roman Emperor 800–814), whose efforts to Christianise the area were opposed by the Germanic Saxons, expelled many of the Saxons and brought in Polabian Slavs allies. Liubice (the place-name means "lovely") was founded on the banks of the River Trave about four kilometers () north of the present-day city-center of Lübeck. In the 10th century it became the most important settlement of the Obotrite confederacy and a castle was built. In 1128 the pagan Rani from Rügen razed Liubice.
 
 In 1143 Adolf II, Count of Schauenburg and Holstein, founded the modern town as a German settlement on the river island of Bucu. He built a new castle, first mentioned by the chronicler Helmold as existing in 1147. Adolf had to cede the castle to the Duke of Saxony, Henry the Lion, in 1158. After Henry's fall from power in 1181 the town became an Imperial city for eight years. Emperor Barbarossa (reigned 1152–1190) ordained that the city should have a ruling council of twenty members. With the council dominated by merchants, pragmatic trade interests shaped Lübeck's politics for centuries. The council survived into the 19th century. The town and castle changed ownership for a period afterwards and formed part of the Duchy of Saxony until 1192, of the County of Holstein until 1217, and of the kingdom of Denmark until the Battle of Bornhöved in 1227.
-
-Stadssigill_foer_staden_Luebeck.png
 
 Hanseatic city
 
@@ -83,8 +81,6 @@ Several conflicts about trading privileges resulted in fighting between Lübeck 
 
 After its defeat in the Count's Feud, Lübeck's power slowly declined. The city remained neutral in the Thirty Years' War of 1618–1648, but the combination of the devastation from the decades-long war and the new transatlantic orientation of European trade caused the Hanseatic League – and thus Lübeck with it – to decline in importance. However, even after the _de facto_ disbanding of the Hanseatic League in 1669, Lübeck still remained an important trading town on the Baltic Sea.
 
-Nuremberg_chronicles_f_265-66_(Lubeca).jpg
-
 Old traditions, new challenges
 
 Franz Tunder was the organist in the Marienkirche. It was part of the tradition in this Lutheran congregation that the organist would pass on the duty in a dynastic marriage. In 1668, his daughter Anna Margarethe married the great Danish-German composer Dieterich Buxtehude, who was the organist at the Marienkirche in Lübeck until at least 1703. Some of the greatest composers of the day came to the church to hear his renowned playing.
@@ -92,10 +88,6 @@ Franz Tunder was the organist in the Marienkirche. It was part of the tradition 
 In the course of the war of the Fourth Coalition against Napoleon, troops under Bernadotte (who would later become King of Sweden) occupied the neutral Lübeck after a battle against Blücher on 6 November 1806. Under the Continental System, the State bank went into bankruptcy. In 1811, the French Empire formally annexed Lübeck as part of France; the anti-Napoleonic Allies liberated the area in 1813, and the Congress of Vienna of 1815 recognised Lübeck as an independent Free City.
 
 The writer Thomas Mann was a member of the Mann family of Lübeck merchants. His well-known 1901 novel _Buddenbrooks_ made readers in Germany (and later worldwide, through numerous translations) familiar with the manner of life and mores of the 19th Century Lübeck bourgeoisie.
-
-Lubeka_kolorowa_litografia_książkowa_XIVw.jpg
-
-Luebeck-1641-Merian.jpg
 
 In 1937, the Nazis passed the so-called Greater Hamburg Act, which merged the city of Lübeck with Prussia.
 
@@ -107,7 +99,7 @@ Lübeck's population grew considerably – from about 150,000 in 1939 to more th
 
 Lübeck became the scene of a notable art scandal in the 1950s. Lothar Malskat was hired to restore the medieval frescoes of the cathedral of the Marienkirche, which were discovered after the cathedral had been badly damaged during World War II. Instead he painted new works which he passed off as restorations, fooling many experts. Malskat later revealed the deception himself. Günter Grass featured this incident in his 1986 novel _The Rat_.
 
-HL_Damals_–_Hafenstraße_52.jpg On the night of 18 January 1996 a fire broke out in a home for foreign refugees, killing 10 people and severely injuring more than 30 others, mostly children. Most of the shelter's inhabitants thought it was a racist attack, as they stated that they had encountered other overt hostility in the city.[5] The police and the local court were criticized at the time for ruling out racism as a possible motive before even beginning preliminary investigations.[6] But by 2002, the courts found all the Germans involved[7] not guilty; the perpetrators have not been caught.[8]
+On the night of 18 January 1996 a fire broke out in a home for foreign refugees, killing 10 people and severely injuring more than 30 others, mostly children. Most of the shelter's inhabitants thought it was a racist attack, as they stated that they had encountered other overt hostility in the city.[5] The police and the local court were criticized at the time for ruling out racism as a possible motive before even beginning preliminary investigations.[6] But by 2002, the courts found all the Germans involved[7] not guilty; the perpetrators have not been caught.[8]
 
 In April 2015, Lübeck hosted the G7 conference.[9]
 
@@ -147,7 +139,7 @@ Population structure:[10]
 
 Main sights
 
-Marienkirche_am_Abend.jpg]] Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg Dom_zu_Lübeck_im_Winter.jpg and historic buildings at the Obertrave]] Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg A_house_in_Lübeck.jpgd town house]]
+]] and historic buildings at the Obertrave]] d town house]]
 
 Buildings
 
@@ -191,8 +183,6 @@ Lübeck has three universities, the University of Lübeck, the Lübeck Academy o
 
 Notable people
 
-HeinekenFritzsch1726.jpg Ephraim_Carlebach.jpg
-
 -   Laurentius Surius (1522-1578), Carthusian monk [14] and Hagiograph
 -   August Hermann Francke (1663-1727), pedagogue, [15] theologian, founded the Francke Foundations
 -   Adam Brand, (before 1692-1746), German merchant and researcher
@@ -213,8 +203,6 @@ HeinekenFritzsch1726.jpg Ephraim_Carlebach.jpg
 
 Politics
 
-Bundesarchiv_B_145_Bild-F057884-0009,_Willy_Brandt.jpg
-
 -   Johann Wittenborg (1321– (beheaded 1363) Mayor of Lübeck, lost the Battle of Helsingborg (1362)
 -   Jürgen Wullenwever (c.1492–1537) was burgomaster of Lübeck from 1533 to 1535
 -   Friedrich Krüger (1819-1896) diplomat, served the Hanseatic cities of Lübeck, Hamburg and Bremen
@@ -230,8 +218,6 @@ Bundesarchiv_B_145_Bild-F057884-0009,_Willy_Brandt.jpg
 
 Art
 
-Friedrich_Overbeck_011.jpg
-
 -   Benjamin Block (1631–1690) German-Hungarian Baroque [19] painter
 -   Sir Godfrey Kneller (1646-1723), court painter [20] of several British monarchs
 -   Catharina Elisabeth Heinecken (1683–1757), German artist and alchemist
@@ -245,8 +231,6 @@ Friedrich_Overbeck_011.jpg
 -   Justus von Dohnányi (born 1960), actor
 -   Jonas Nay (born 1990), actor
 
-Imagebuxtehude.jpg
-
 Music
 
 -   Franz Tunder (1614-1667), organist and composer
@@ -256,8 +240,6 @@ Music
 -   Friedrich Ludwig Æmilius Kunzen (1761-1817), composer
 
 Science
-
-WP_Robert_Christian_Ave-Lallemant.jpg
 
 -   Joachim Jungius (1587-1657), mathematician, physicist and philosopher
 -   Heinrich Meibom (1638-1700), medical expert, discovered the Meibomian gland
@@ -274,8 +256,6 @@ WP_Robert_Christian_Ave-Lallemant.jpg
 
 Writing
 
-Heinrich_Thomas_Mann.jpg
-
 -   Erasmus Finx (1627-1694), polyhistorian, author and church writer
 -   Christian Adolph Overbeck (1755-1821), mayor and poet
 -   Johann Bernhard Vermehren (1777-1803), romanticist and lecturer
@@ -289,7 +269,7 @@ Heinrich_Thomas_Mann.jpg
 
 Parts
 
-Lübeck-skyline-von-norden.JPG Hauptbahnhof_Lübeck_239-zh.jpg Standesamt_lübeck.jpg Travemünde-strandpromenade-strand-ostsee.JPG The city of Lübeck is divided into 10 zones. These again are arranged into altogether 35 urban districts. The 10 zones with their official numbers, their associated urban districts and the numbers of inhabitants of the quarters:
+The city of Lübeck is divided into 10 zones. These again are arranged into altogether 35 urban districts. The 10 zones with their official numbers, their associated urban districts and the numbers of inhabitants of the quarters:
 
 -   01 CITY CENTRE (~ 12,000 Inhabitants)
 

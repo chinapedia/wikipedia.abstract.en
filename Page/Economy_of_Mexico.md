@@ -9,13 +9,13 @@ Mexico's labor force is 52.8 million as of 2015.[6] The OECD and WTO both rank M
 
 History
 
-_Porfirio_Diaz_in_uniform.jpg, (1876–1911) in whose presidency rapid industrialization took place in foreign capital.]] Mexican president Porfirio Díaz brought unprecedented economic growth during the last quarter of the nineteenth century. This growth was accompanied by foreign investment and European immigration, the development of an efficient railroad network and the exploitation of the country's natural resources. Annual economic growth between 1876 and 1910 averaged 3.3%.[12] Large-scale ownership is making considerable progress while foreign land companies are accumulating millions of hectares. At the end of the dictatorship, 97% of the arable land will belong to 1% of the population and 95% of the peasants will no longer have land. They will become farm workers in huge haciendas or form a miserable urban proletariat whose revolts will be crushed one by one.[13]
+, (1876–1911) in whose presidency rapid industrialization took place in foreign capital.]] Mexican president Porfirio Díaz brought unprecedented economic growth during the last quarter of the nineteenth century. This growth was accompanied by foreign investment and European immigration, the development of an efficient railroad network and the exploitation of the country's natural resources. Annual economic growth between 1876 and 1910 averaged 3.3%.[12] Large-scale ownership is making considerable progress while foreign land companies are accumulating millions of hectares. At the end of the dictatorship, 97% of the arable land will belong to 1% of the population and 95% of the peasants will no longer have land. They will become farm workers in huge haciendas or form a miserable urban proletariat whose revolts will be crushed one by one.[13]
 
 Political repression and fraud, as well as huge income (in)equalities exacerbated by the land distribution system based on _latifundios_, in which large haciendas were owned by a few but worked by millions of underpaid peasants living in precarious conditions, led to the Mexican Revolution (1910–1920), an armed conflict that drastically transformed Mexico's political, social, cultural, and economical structure during the twentieth century under a premise of social democracy. The war itself left a harsh toll on the economy and population, which decreased over the 11-year period between 1910 and 1921. The reconstruction of the country was to take place in the following decades.
 
 The period from 1930 to 1970 was dubbed by economic historians as the Mexican Miracle, a period of economic growth that followed the end of the Mexican Revolution and the resumption of capital accumulation during peacetime. During this period the nation adopted the economic model of import substitution industrialization (ISI) which protected and promoted the development of national industries. Mexico experienced an economic boom through which industries rapidly expanded their production.[14] Important changes in the economic structure included free land distribution to peasants under the concept of _ejido_, the nationalization of the oil and railroad companies, the introduction of social rights into the constitution, the birth of large and influential labor unions, and the upgrading of infrastructure. While population doubled from 1940 to 1970, GDP increased sixfold during the same period.[15]
 
-Jose_Lopez_Portillo.jpg 1976-1982, during whose administration the economy soared with the discovery of oil and then crashed when the price dropped.]] Growth while under the ISI model had reached its peak in the late 1960s. During the 1970s, the presidential administrations of Echeverría (1970–76) and López Portillo (1976–82), tried to include social development in their policies, an effort that entailed more public spending. With the discovery of vast oil fields in a time in which oil prices were surging and international interest rates were low -and even negative- the government decided to borrow from international capital markets to invest in the state-owned oil company, which in turn seemed to provide a long-run income source to promote social welfare. This method produced a remarkable growth in public expenditure,[16] and president López Portillo announced that the time had come to "manage prosperity"[17] as Mexico multiplied its oil production to become the world's fourth largest exporter.[18]
+1976-1982, during whose administration the economy soared with the discovery of oil and then crashed when the price dropped.]] Growth while under the ISI model had reached its peak in the late 1960s. During the 1970s, the presidential administrations of Echeverría (1970–76) and López Portillo (1976–82), tried to include social development in their policies, an effort that entailed more public spending. With the discovery of vast oil fields in a time in which oil prices were surging and international interest rates were low -and even negative- the government decided to borrow from international capital markets to invest in the state-owned oil company, which in turn seemed to provide a long-run income source to promote social welfare. This method produced a remarkable growth in public expenditure,[16] and president López Portillo announced that the time had come to "manage prosperity"[17] as Mexico multiplied its oil production to become the world's fourth largest exporter.[18]
 
   Average annual GDP growth by period
   -------------------------------------
@@ -163,15 +163,13 @@ The following table shows the main economic indicators in 1980–2017. Inflation
 
 Poverty
 
-Percent_of_population_living_on_less_than_$1.25_per_day.svg Poverty in Mexico is measured under parameters such as nutrition, clean water, shelter, education, health care, social security, quality and basic services in the household, income and social cohesion as defined by social development laws in the country.[46] It is divided in two categories: Moderate poverty and Extreme poverty.
+Poverty in Mexico is measured under parameters such as nutrition, clean water, shelter, education, health care, social security, quality and basic services in the household, income and social cohesion as defined by social development laws in the country.[46] It is divided in two categories: Moderate poverty and Extreme poverty.
 
 While less than 2% of Mexico's population lives below the international poverty line set by the World Bank, as of 2013, Mexico's government estimates that 33% of Mexico's population lives in moderate poverty and 9% lives in extreme poverty,[47] which leads to 42% of Mexico's total population living below the national poverty line.[48] The huge gap might be explained by the government's adopting the multidimensional poverty method as a way to measure poverty, so a person who has an income higher than the "international poverty line" or "well being income line" set by the Mexican government might fall in the "moderate poverty" category if he or she has one or more deficiencies related to social rights such as education (did not complete studies), nutrition (malnutrition or obesity), or living standards (including elemental, such as water or electricity, and secondary domestic assets, such as refrigerators). Extreme poverty is defined by the Mexican government as persons who have deficiencies in both social rights and an income lower than the "well being income line".[49] Additional figures from SEDESOL (Mexico's social development agency) estimates that 6% (7.4 millions of people) live in extreme poverty and suffer from food insecurity.[50]
 
 Recently, extensive changes in government economic policy[51] and attempts at reducing government interference through privatization of several sectors,[52] for better[53] or worse,[54] allowed Mexico to remain the biggest economy in Latin America,[55] until 2005 when it became the second-largest;[56] and a so-called "trillion dollar club" member.[57] Despite these changes, Mexico continues to suffer great social inequality and lack of opportunities.[58] The Peña Nieto's administration made an attempt at reducing poverty in the country, to provide more opportunities to its citizens such as jobs,[59] education, and the installation of universal healthcare.[60][61]
 
 Income inequality
-
-Mexico_GDP_per_capita_2012.png
 
 A single person in Mexico, Carlos Slim[62], has a net worth equal to six percent of GDP. Additionally, only ten percent of Mexicans represent 25% of Mexican GDP. A smaller group, 3.5%, represent 12.5% of Mexican GDP.[63]
 
@@ -189,7 +187,7 @@ The main states receiving remittances in 2014 were Michoacán, Guanajuato, Jalis
 
 Regional economies
 
-Mexico_StatesHDI_2015.png, 2015.]] Regional disparities and income inequality are a feature of the Mexican economy. While all constituent states of the federation have a Human Development Index (HDI) higher than 0.70 (medium to high development), the northern and central states have higher levels of HDI than the southern states. Nuevo León, Jalisco and the Federal District have HDI levels similar to European countries, whereas that of Oaxaca and Chiapas is similar to that of China or Vietnam.[73]
+, 2015.]] Regional disparities and income inequality are a feature of the Mexican economy. While all constituent states of the federation have a Human Development Index (HDI) higher than 0.70 (medium to high development), the northern and central states have higher levels of HDI than the southern states. Nuevo León, Jalisco and the Federal District have HDI levels similar to European countries, whereas that of Oaxaca and Chiapas is similar to that of China or Vietnam.[73]
 
 At the municipal level, economic disparities are even greater: Delegacion Benito Juarez in Mexico City has an HDI similar to that of Germany or New Zealand, whereas, Metlatonoc in Guerrero, would have an HDI similar to that of Malawi. The majority of the federal entities with high development (higher than 0.80) are located in the northern region (with the exception of Colima, Jalisco, Aguascalientes, the Federal District, Querétaro, as well as the southeastern states of Quintana Roo and Campeche). The less developed states (with medium development in terms of HDI, higher than 0.70) are located along the southern Pacific coast.
 
@@ -210,7 +208,6 @@ History
 
   Food and agriculture
   -----------------------
-  Puebla_farmers.jpg
   _Farmers in Puebla_
   PRODUCT
   Avocados
@@ -255,7 +252,7 @@ Industry
   Labor force
   GDP of sector
 
-The industrial sector as a whole has benefited from trade liberalization; in 2000 it accounted for almost 50% of all export earnings.[97] CEMEX_Monterrey.jpg plant on the outskirts of Monterrey.]] Among the most important industrial manufacturers in Mexico is the automotive industry, whose standards of quality are internationally recognized. The automobile sector in Mexico differs from that in other Latin American countries and developing nations in that it does not function as a mere assembly manufacturer. The industry produces technologically complex components and engages in some research and development activities, an example of that is the new Volkswagen Jetta model with up to 70% of parts designed in Mexico.[98][99]
+The industrial sector as a whole has benefited from trade liberalization; in 2000 it accounted for almost 50% of all export earnings.[97] plant on the outskirts of Monterrey.]] Among the most important industrial manufacturers in Mexico is the automotive industry, whose standards of quality are internationally recognized. The automobile sector in Mexico differs from that in other Latin American countries and developing nations in that it does not function as a mere assembly manufacturer. The industry produces technologically complex components and engages in some research and development activities, an example of that is the new Volkswagen Jetta model with up to 70% of parts designed in Mexico.[98][99]
 
 The "Big Three" (General Motors, Ford and Chrysler) have been operating in Mexico since the 1930s, while Volkswagen and Nissan built their plants in the 1960s.[100] Later, Toyota, Honda, BMW, and Mercedes-Benz joined in. Given the high requirements of North American components in the industry, many European and Asian parts suppliers have also moved to Mexico: in Puebla alone, 70 industrial part-makers cluster around Volkswagen.[101]
 
@@ -269,7 +266,7 @@ As compared with the United States or countries in Western Europe a larger secto
 
 Electronics
 
-Meebox_electronics.PNG]] The electronics industry of Mexico has grown enormously within the last decade. Mexico has the sixth largest electronics industry in the world after China, United States, Japan, South Korea, and Taiwan. Mexico is the second largest exporter of electronics to the United States where it exported $71.4 billion worth of electronics in 2011.[120] The Mexican electronics industry is dominated by the manufacture and OEM design of televisions, displays, computers, mobile phones, circuit boards, semiconductors, electronic appliances, communications equipment and LCD modules. The Mexican electronics industry grew 20% between 2010 and 2011, up from its constant growth rate of 17% between 2003 and 2009.[121] Currently electronics represent 30% of Mexico's exports.[122]
+]] The electronics industry of Mexico has grown enormously within the last decade. Mexico has the sixth largest electronics industry in the world after China, United States, Japan, South Korea, and Taiwan. Mexico is the second largest exporter of electronics to the United States where it exported $71.4 billion worth of electronics in 2011.[120] The Mexican electronics industry is dominated by the manufacture and OEM design of televisions, displays, computers, mobile phones, circuit boards, semiconductors, electronic appliances, communications equipment and LCD modules. The Mexican electronics industry grew 20% between 2010 and 2011, up from its constant growth rate of 17% between 2003 and 2009.[121] Currently electronics represent 30% of Mexico's exports.[122]
 
 Televisions
 
@@ -281,11 +278,11 @@ Mexico is the third largest manufacturers of computers in the world with both do
 
 OEM and ODM manufacturing
 
-LANIX_LED_Monitor.jpg LCD television.]] Mexico is also home to a large number of OEM and ODM manufactures both foreign and domestic. Among them include Foxconn,[155] Celestica, Sanmina-SCI,[156][157] Jabil,[158] Elcoteq,[159][160] Falco,[161] Kimball International, Compal,[162] Benchmark Electronics,[163] Plexus, Lanix[164] and Flextronics.[165][166] These companies assemble finished electronics or design and manufacture electronic components on behalf of larger companies such as Sony or Microsoft using locally sourced components, for example the ODM, Flextronics manufactures Xbox video games systems in Guadalajara, Mexico[167][168] for Microsoft using components such as power systems and printed circuit boards from a local company, Falco Electronics which acts as the OEM.
+LCD television.]] Mexico is also home to a large number of OEM and ODM manufactures both foreign and domestic. Among them include Foxconn,[155] Celestica, Sanmina-SCI,[156][157] Jabil,[158] Elcoteq,[159][160] Falco,[161] Kimball International, Compal,[162] Benchmark Electronics,[163] Plexus, Lanix[164] and Flextronics.[165][166] These companies assemble finished electronics or design and manufacture electronic components on behalf of larger companies such as Sony or Microsoft using locally sourced components, for example the ODM, Flextronics manufactures Xbox video games systems in Guadalajara, Mexico[167][168] for Microsoft using components such as power systems and printed circuit boards from a local company, Falco Electronics which acts as the OEM.
 
 Engineering and Design
 
-ITESM_Ciudad_de_México_Set_Dominguez.jpg is one of Mexico's most prestigious technology and engineering universities and is ranked one of the leading engineering institutions in Latin America.[169]]] The success and rapid growth of the Mexican electronics sector is driven primarily by the relatively low cost of manufacturing and design in Mexico; its strategic position as a major consumer electronics market coupled with its proximity to both the large North American and South American markets whom Mexico shares free trade agreements with; government support in the form of low business taxes, simplified access to loans and capital for both foreign multinational and domestic startup tech-based firms; and a very large pool of highly skilled, educated labor across all sectors of the tech industry. For example, German multinational engineering and electronics conglomerate Siemens has a significant Mexican base, which also serves as its business and strategy hub for Central American countries and the Caribbean region.[170]
+is one of Mexico's most prestigious technology and engineering universities and is ranked one of the leading engineering institutions in Latin America.[169]]] The success and rapid growth of the Mexican electronics sector is driven primarily by the relatively low cost of manufacturing and design in Mexico; its strategic position as a major consumer electronics market coupled with its proximity to both the large North American and South American markets whom Mexico shares free trade agreements with; government support in the form of low business taxes, simplified access to loans and capital for both foreign multinational and domestic startup tech-based firms; and a very large pool of highly skilled, educated labor across all sectors of the tech industry. For example, German multinational engineering and electronics conglomerate Siemens has a significant Mexican base, which also serves as its business and strategy hub for Central American countries and the Caribbean region.[170]
 
 There are almost half a million (451,000) students enrolled in electronics engineering programs[171] with an additional 114,000 electronics engineers entering the Mexican workforce each year[172] and Mexico had over half a million (580,000) certified electronic engineering professionals employed in 2007.[173] From the late 1990s, the Mexican electronics industry began to shift away from simple line assembly to more advanced work such as research, design, and the manufacture of advanced electronics systems such as LCD panels, semiconductors, printed circuit boards, microelectronics, microprocessors, chipsets and heavy electronic industrial equipment and in 2006 the number of certified engineers being graduated annually in Mexico surpassed that of the United States.[174] Many Korean, Japanese and American appliances sold in the US are actually of Mexican design and origin but sold under the OEM's client names.[175][176] In 2008 one out of every four consumer appliances sold in the United States was of Mexican design.[177]
 
@@ -299,11 +296,11 @@ Some of these subsidiaries have grown to expand into multiple branches effective
 
 Domestic Industry
 
-LANIX_W10_SLATE.jpg W10 Ilium Tablet PC.]] Although much of Mexico's electronics industry is driven by foreign companies, Mexico also has a sizeable domestic electronics industry and a number of electronics companies including Mabe, a major appliance manufacturer and OEM which has been functioning since the nineteen fifties and has expanded into the global market, Meebox, a designer and manufacturer desktop and tablet computers, solar power panels and electronics components, Texa, which manufactures computers laptops and servers, Falco, a major international manufacturer of electronic components such as printed circuitboards, power systems, semiconductors, gate drives and which has production facilities in Mexico, India and China, and Lanix, Mexico's largest electronics company which manufactures products such as computers, laptops, smartphones, LED and LCDs, flash memory, tablets, servers, hard drives, RAM, optical disk drives, and printed circuitboards and employs over 11,000 people in Mexico and Chile and distributes its products throughout Latin America.[184][185][186] Another area being currently developed in Mexico is Robotics, Mexico's new Mexone robot has been designed with the idea that in future years develop a commercial application for such advanced robots[187]
+W10 Ilium Tablet PC.]] Although much of Mexico's electronics industry is driven by foreign companies, Mexico also has a sizeable domestic electronics industry and a number of electronics companies including Mabe, a major appliance manufacturer and OEM which has been functioning since the nineteen fifties and has expanded into the global market, Meebox, a designer and manufacturer desktop and tablet computers, solar power panels and electronics components, Texa, which manufactures computers laptops and servers, Falco, a major international manufacturer of electronic components such as printed circuitboards, power systems, semiconductors, gate drives and which has production facilities in Mexico, India and China, and Lanix, Mexico's largest electronics company which manufactures products such as computers, laptops, smartphones, LED and LCDs, flash memory, tablets, servers, hard drives, RAM, optical disk drives, and printed circuitboards and employs over 11,000 people in Mexico and Chile and distributes its products throughout Latin America.[184][185][186] Another area being currently developed in Mexico is Robotics, Mexico's new Mexone robot has been designed with the idea that in future years develop a commercial application for such advanced robots[187]
 
 Oil
 
-Gulf_Offshore_Platform.jpg.]] Mineral resources are the "nation's property" (i.e. public property) by constitution. As such, the energy sector is administered by the government with varying degrees of private investment. Mexico is the sixth-largest oil producer in the world, with .[188] Pemex, the public company in charge of administering research, exploration and sales of oil, is the largest company (oil or otherwise) in Mexico, and the second largest in Latin America after Brazil's Petrobras.[189] Pemex is heavily taxed of almost 62 per cent of the company's sales, a significant source of revenue for the government.[190]
+.]] Mineral resources are the "nation's property" (i.e. public property) by constitution. As such, the energy sector is administered by the government with varying degrees of private investment. Mexico is the sixth-largest oil producer in the world, with .[188] Pemex, the public company in charge of administering research, exploration and sales of oil, is the largest company (oil or otherwise) in Mexico, and the second largest in Latin America after Brazil's Petrobras.[189] Pemex is heavily taxed of almost 62 per cent of the company's sales, a significant source of revenue for the government.[190]
 
 Without enough money to continue investing in finding new sources or upgrading infrastructure, and being protected constitutionally from private and foreign investment, some have predicted the company may face institutional collapse.[191] While the oil industry is still relevant for the government's budget, its importance in GDP and exports has steadily fallen since the 1980s. In 1980 oil exports accounted for 61.6% of total exports; by 2000 it was only 7.3%.[192]
 
@@ -345,7 +342,7 @@ A wave of acquisitions has left Mexico's financial sector in foreign hands. Thei
 
 Securities market
 
-Bolsa_Mexicana_de_Valores.png Mexico has a single securities market, the Mexican Stock Exchange (BOLSA MEXICANA DE VALORES, known as the Bolsa). The market has grown steadily, with its main indices increasing by more than 600% in the last decade. It is Latin America's second largest exchange, after Brazil's. The total value of the domestic market capitalization of the BMV was calculated at US$409 billion at the end of 2011, and raised to US$451 billion by the end of February this year.[218]
+Mexico has a single securities market, the Mexican Stock Exchange (BOLSA MEXICANA DE VALORES, known as the Bolsa). The market has grown steadily, with its main indices increasing by more than 600% in the last decade. It is Latin America's second largest exchange, after Brazil's. The total value of the domestic market capitalization of the BMV was calculated at US$409 billion at the end of 2011, and raised to US$451 billion by the end of February this year.[218]
 
 The _Indice de Precios y Cotizaciones_ (IPC, the general equities index) is the benchmark stock index on the Bolsa. In 2005 the IPC surged 37.8%, to 17,802.71 from 12,917.88, backed by a stronger Mexican economy and lower interest rates. It continued its steep rise through the beginning of 2006, reaching 19,272.63 points at end-March 2006. The stockmarket also posted a record low vacancy rate, according to the central bank. Local stockmarket capitalisation totalled US$236bn at end-2005, up from US$170 bn at end-2004. As of March 2006 there were 135 listed companies, down from 153 a year earlier. Only a handful of the listed companies are foreign. Most are from Mexico City or Monterrey; companies from these two cities compose 67% of the total listed companies.
 
@@ -364,7 +361,6 @@ Banco de México
 
   Financial indicators
   --------------------------------
-  BankofMexicoBuilding.JPG
   _Banco de México headquarters_
   Currency exchange rate
   Reserves
@@ -416,7 +412,6 @@ Trade
 
   International trade
   -------------------------------------
-  Torre_wtc_mexico.jpg
   _World Trade Center in Mexico City_
   Exports
   Imports
@@ -440,8 +435,6 @@ Mexico has signed 12 free trade agreements with 44 countries:
 -   Free Trade Agreement with Bolivia (1994); terminated in 2010;
 -   Free Trade Agreement with Nicaragua (1997); superseded by the 2011 integrated Free Trade Agreement with the Central American countries;
 
-Countries_with_wich_Mexico_has_a_FTA.svg
-
 -   Free Trade Agreement with Chile (1998);
 -   Free Trade Agreement with the European Union (2000);
 -   Free Trade Agreement with Israel (2000);
@@ -458,7 +451,7 @@ Mexico has shown interest in becoming an associate member of Mercosur.[238] The 
 
 North American Trade Agreement
 
-NAFTA_logo.png emblem]]
+emblem]]
 
 The North American Trade Agreement (NAFTA) is by far the most important Trade Agreement Mexico has signed both in the magnitude of reciprocal trade with its partners as well as in its scope. Unlike the rest of the Free Trade Agreements that Mexico has signed, NAFTA is more comprehensive in its scope and was complemented by the North American Agreement for Environmental Cooperation (NAAEC) and the North American Agreement on Labor Cooperation (NAALC).
 

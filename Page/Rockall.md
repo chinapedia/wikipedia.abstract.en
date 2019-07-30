@@ -29,7 +29,7 @@ Rockall has been a point of interest for adventurers and amateur radio operators
 
 Geography
 
-N-Atlantic-topo.png separating Ireland and Scotland from the Rockall Plateau on which Rockall is situated]]
+separating Ireland and Scotland from the Rockall Plateau on which Rockall is situated]]
 
 Rockall is one of the few pinnacles of the surrounding Helen's Reef; it is located west of the island of Soay, St Kilda, Scotland,[24] and northwest of Tory Island, County Donegal, Ireland.[25] Its location was precisely determined by Nick Hancock during his 2014 expedition.[26] The surrounding elevated seabed is called the Rockall Bank, lying directly south from an area known as the Rockall Plateau. It is separated from the Outer Hebrides by the Rockall Trough, itself located within the Rockall Basin (also known as the "Hatton Rockall Basin").
 
@@ -37,7 +37,7 @@ In 1956 the British scientist James Fisher referred to the island as "the most i
 
 Rockall is about wide and long at its base[28] and rises sheer to a height of .[29][30][31] It is often washed over by large storm waves, particularly in winter. There is a small ledge of , known as Hall's Ledge, from the summit on the rock's western face.[32] It is the only named geographical location on the rock.
 
-Rockall_wave_March_1943.jpg winter waves breaking over the islet, 11 March 1943]] The nearest point on land from Rockall is , east at the uninhabited Scottish island of Soay in the St Kilda archipelago. The nearest inhabited area lies east at Hirta[33], the largest island in the St. Kilda group, which is populated intermittently at a single military base.[34][35] The nearest permanently inhabited settlement is west of the headland of Aird an Rùnair,[36] near the crofting township of Hogha Gearraidh on the island of North Uist at . North Uist is part of _Na h-Eileanan Siar_ council area of Scotland.
+winter waves breaking over the islet, 11 March 1943]] The nearest point on land from Rockall is , east at the uninhabited Scottish island of Soay in the St Kilda archipelago. The nearest inhabited area lies east at Hirta[33], the largest island in the St. Kilda group, which is populated intermittently at a single military base.[34][35] The nearest permanently inhabited settlement is west of the headland of Aird an Rùnair,[36] near the crofting township of Hogha Gearraidh on the island of North Uist at . North Uist is part of _Na h-Eileanan Siar_ council area of Scotland.
 
 The exact position of Rockall and the size and shape of the Rockall Bank was first charted in 1831 by Captain A. T. E. Vidal, a Royal Navy surveyor. The first scientific expedition to Rockall was led by Miller Christie in 1896 when the Royal Irish Academy sponsored a study of the flora and fauna.[37] They chartered the _Granuaile_.[38][39]
 
@@ -47,8 +47,6 @@ Rockall is located in the pathway of the warming and moderating Gulf Stream. Alt
 
 
 Geology
-
-Rockall_island.jpg
 
 Rockall is made of a type of peralkaline granite that is relatively rich in sodium and potassium. Within this granite are darker bands richer in iron because they contain two iron-sodium silicate minerals called aegirine and riebeckite. The darker bands are a type of granite that geologists have named "rockallite", although use of this term is now discouraged.[41][42]
 
@@ -77,7 +75,7 @@ In December 2013 surveys by Marine Scotland discovered four new species of anima
 
 Visits to Rockall
 
-Rockall_Basil_Hall_landing_from_HMS_Endymion_1811.jpg's landing party in their boat at Rockall, with _Endymion_ in the background]] The earliest recorded date of landing on the island is often given as 8 July 1810, when a Royal Navy officer named Basil Hall led a small landing party from the frigate to the summit. However, research by James Fisher (see below), in the log of _Endymion_ and elsewhere, indicates that the actual date for this first landing was on Sunday 8 September 1811.[53]
+'s landing party in their boat at Rockall, with _Endymion_ in the background]] The earliest recorded date of landing on the island is often given as 8 July 1810, when a Royal Navy officer named Basil Hall led a small landing party from the frigate to the summit. However, research by James Fisher (see below), in the log of _Endymion_ and elsewhere, indicates that the actual date for this first landing was on Sunday 8 September 1811.[53]
 
 The landing party left _Endymion_ for the rock by boat. Whilst there, _Endymion_, which was taking depth measurements around Rockall, lost visual contact with the rock as a haze descended. The ship drifted away, leaving the landing party stranded. The expedition made a brief attempt to return to the ship, but could not find the frigate in the haze, and soon gave up and returned to Rockall. After the haze became a fog, the lookout sent to the top of Rockall spotted the ship again, but it turned away from Rockall before the expedition in their boats reached it. Finally, just before sunset, the frigate was again spotted from the top of Rockall, and the expedition was able to get back on board. The crew of _Endymion_ reported that they had been searching for five or six hours, firing their cannon every ten minutes. Hall related this experience and other adventures in a book entitled _Fragment of Voyages and Travels Including Anecdotes of a Naval Life_.
 
@@ -122,7 +120,7 @@ Ownership
 
 United Kingdom
 
-Rockall_Union_flag_hoisted_1955.jpg in 1955.]] The UK claims Rockall along with a territorial sea around the islet inside the country's exclusive economic zone (EEZ).[80] The UK also claims "a circle of UK sovereign airspace over the islet of Rockall".[81]
+in 1955.]] The UK claims Rockall along with a territorial sea around the islet inside the country's exclusive economic zone (EEZ).[80] The UK also claims "a circle of UK sovereign airspace over the islet of Rockall".[81]
 
 The UK claimed Rockall on 18 September 1955 when "Two Royal Marines and a civilian naturalist, led by Royal Navy officer Lieutenant Commander Desmond Scott, raised a Union flag on the island and cemented a plaque into the rock".[82] Prior to this the island was legally _terra nullius_.[83] In 1972, the British Island of Rockall Act formally annexed Rockall to the United Kingdom.[84]
 
@@ -136,7 +134,7 @@ In May 2017, declassified documents revealed that the 1955 decision to claim the
 
 Ireland
 
-LE_Roisin_at_Rockall.jpg vessel _Róisín_ at Rockall conducting routine maritime security patrols off the north-west coast of Ireland]]
+vessel _Róisín_ at Rockall conducting routine maritime security patrols off the north-west coast of Ireland]]
 
 Potential Irish claims to Rockall are based on its proximity to the Irish mainland;[90] however, the country has never formally claimed sovereignty over the rock. Although Rockall is closer to the UK coast than to the Irish coast,[91][92] Ireland does not recognise the UK's territorial claim to Rockall, "which would be the basis for a claim to a 12-mile territorial sea".[93][94]
 
@@ -149,7 +147,7 @@ In October 2012, the _Irish Independent_ published a picture of the Irish Navy s
 
 Shipping disasters
 
-IMRAY(1884)_p0231_ROCKALL.jpg There have been various disasters on the neighbouring Hasselwood Rock and Helen's Reef (the latter was named in 1830).
+There have been various disasters on the neighbouring Hasselwood Rock and Helen's Reef (the latter was named in 1830).
 
 -   1686 – a Spanish, French, or Spanish-French ship ran aground around Rockall. Several men of the crew, Spanish and French, were able to reach St. Kilda in a pinnace and save their lives. Some details of this event were recounted by Martin Martin in his _A late voyage to St. Kilda_, published in 1698.[102] The ship was perhaps a fishing vessel based in the Bay of Biscay and bound for North Atlantic cod fisheries.
 -   1812 – a survey vessel _Leonidas_ foundered on Helen's Reef.

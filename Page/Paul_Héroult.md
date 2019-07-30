@@ -1,5 +1,3 @@
-Thury_harcourt_Heroult.jpg
-
 PAUL (LOUIS-TOUSSAINT) HÉROULT (10 April 1863 – 9 May 1914) was a French scientist. He was the inventor of the aluminium electrolysis and developed the first successful commercial electric arc furnace.[1] He lived in Thury-Harcourt, Normandy.
 
 
@@ -34,9 +32,9 @@ See also
     -   Steel mill or Steelworks
 -   History of aluminium
 
-  ----------------------------------------------------------- ------------------------------------------
-  Remscheid_-_Werkzeugmuseum_in_-_Lichtbogenofen_02_ies.jpg   Remscheid_-_Werkzeugmuseum_in_40_ies.jpg
-  ----------------------------------------------------------- ------------------------------------------
+  -- --
+
+  -- --
 
 
 External links

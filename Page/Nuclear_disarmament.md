@@ -1,4 +1,4 @@
-Peace_symbol.svg (☮) was the Campaign for Nuclear Disarmament symbol, designed by Gerald Holtom in 1958.[1]]] Nuclear disarmament is the act of reducing or eliminating nuclear weapons. It can also be the end state of a nuclear-weapons-free world, in which nuclear weapons are completely eliminated. The term DENUCLEARIZATION is also used to describe the process leading to complete nuclear disarmament.[2][3]
+(☮) was the Campaign for Nuclear Disarmament symbol, designed by Gerald Holtom in 1958.[1]]] Nuclear disarmament is the act of reducing or eliminating nuclear weapons. It can also be the end state of a nuclear-weapons-free world, in which nuclear weapons are completely eliminated. The term DENUCLEARIZATION is also used to describe the process leading to complete nuclear disarmament.[2][3]
 
 Nuclear disarmament groups include the Campaign for Nuclear Disarmament, Peace Action, Greenpeace, Soka Gakkai International, International Physicians for the Prevention of Nuclear War, Mayors for Peace, Global Zero, the International Campaign to Abolish Nuclear Weapons, and the Nuclear Age Peace Foundation. There have been many large anti-nuclear demonstrations and protests. On June 12, 1982, one million people demonstrated in New York City's Central Park against nuclear weapons and for an end to the cold war arms race. It was the largest anti-nuclear protest and the largest political demonstration in American history.[4][5]
 
@@ -9,7 +9,7 @@ Proponents of nuclear disarmament say that it would lessen the probability of nu
 
 History
 
-Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg over Hiroshima after the dropping of the atomic bomb nicknamed 'Little Boy' (Atomic bombings of Hiroshima and Nagasaki in 1945).]] Operation_Crossroads_Baker_Edit.jpg.]] Exercise_Desert_Rock_I_(Buster-Jangle_Dog)_002.jpg, from Operation Buster, with a yield of 21 kilotons. It was the first U.S. nuclear field exercise conducted on land; troops shown are from the blast.]]
+over Hiroshima after the dropping of the atomic bomb nicknamed 'Little Boy' (Atomic bombings of Hiroshima and Nagasaki in 1945).]] .]] , from Operation Buster, with a yield of 21 kilotons. It was the first U.S. nuclear field exercise conducted on land; troops shown are from the blast.]]
 
 In 1945 in the New Mexico desert, American scientists conducted "Trinity," the first nuclear weapons test, marking the beginning of the atomic age.[6] Even before the Trinity test, national leaders debated the impact of nuclear weapons on domestic and foreign policy. Also involved in the debate about nuclear weapons policy was the scientific community, through professional associations such as the Federation of Atomic Scientists and the Pugwash Conference on Science and World Affairs.[7]
 
@@ -22,7 +22,7 @@ Radioactive fallout from nuclear weapons testing was first drawn to public atten
 
 Nuclear disarmament movement
 
-Fotothek_df_roe-neg_0006331_028_Delegationen.jpg showing Picasso's peace dove above the stage]] Women_Strike_for_Peace_NYWTS.jpg during the Cuban Missile Crisis in 1962]] Essais_nucleaires_manif.jpg, France in the 1980s against nuclear weapons tests]] Embracing_the_base,_Greenham_Common_December_1982_-_geograph.org.uk_-_759090.jpg base to protest the decision to site American cruise missiles there.]]
+showing Picasso's peace dove above the stage]] during the Cuban Missile Crisis in 1962]] , France in the 1980s against nuclear weapons tests]] base to protest the decision to site American cruise missiles there.]]
 
 Peace movements emerged in Japan and in 1954 they converged to form a unified "Japanese Council Against Atomic and Hydrogen Bombs". Japanese opposition to the Pacific nuclear weapons tests was widespread, and "an estimated 35 million signatures were collected on petitions calling for bans on nuclear weapons".[16] In the United Kingdom, the first Aldermaston March organised by the Direct Action Committee and supported by the Campaign for Nuclear Disarmament took place on Easter 1958, when several thousand people marched for four days from Trafalgar Square, London, to the Atomic Weapons Research Establishment close to Aldermaston in Berkshire, England, to demonstrate their opposition to nuclear weapons.[17][18] CND organised Aldermaston marches into the late 1960s when tens of thousands of people took part in the four-day events.[19]
 
@@ -53,7 +53,7 @@ The WPC had uneasy relations with the non-aligned peace movement and has been de
 
 Arms reduction treaties
 
-US_and_USSR_nuclear_stockpiles.svg and USSR/Russian nuclear weapons stockpiles, 1945-2014. These numbers include warheads not actively deployed, including those on reserve status or scheduled for dismantlement. Stockpile totals do not necessarily reflect nuclear capabilities since they ignore size, range, type, and delivery mode.]] After the 1986 Reykjavik Summit between U.S. President Ronald Reagan and the new Soviet General Secretary Mikhail Gorbachev, the United States and the Soviet Union concluded two important nuclear arms reduction treaties: the INF Treaty (1987) and START I (1991). After the end of the Cold War, the United States and the Russian Federation concluded the Strategic Offensive Reductions Treaty (2003) and the New START Treaty (2010).
+and USSR/Russian nuclear weapons stockpiles, 1945-2014. These numbers include warheads not actively deployed, including those on reserve status or scheduled for dismantlement. Stockpile totals do not necessarily reflect nuclear capabilities since they ignore size, range, type, and delivery mode.]] After the 1986 Reykjavik Summit between U.S. President Ronald Reagan and the new Soviet General Secretary Mikhail Gorbachev, the United States and the Soviet Union concluded two important nuclear arms reduction treaties: the INF Treaty (1987) and START I (1991). After the end of the Cold War, the United States and the Russian Federation concluded the Strategic Offensive Reductions Treaty (2003) and the New START Treaty (2010).
 
 When the extreme danger intrinsic to nuclear war and the possession of nuclear weapons became apparent to all sides during the Cold War, a series of disarmament and nonproliferation treaties were agreed upon between the United States, the Soviet Union, and several other states throughout the world. Many of these treaties involved years of negotiations, and seemed to result in important steps in arms reductions and reducing the risk of nuclear war.
 
@@ -77,7 +77,7 @@ Only one country has been known to ever dismantle their nuclear arsenal complete
 
 United Nations
 
-Angela_Kane_at_Nagasaki_Peace_Memorial_Ceremony.jpg, Angela Kane, at a 2012 ceremony marking the anniversary of the Hiroshima and Nagasaki atomic bombings]] In its landmark resolution 1653 of 1961, "Declaration on the prohibition of the use of nuclear and thermo-nuclear weapons," the UN General Assembly stated that use of nuclear weaponry “would exceed even the scope of war and cause indiscriminate suffering and destruction to mankind and civilization and, as such, is contrary to the rules of international law and to the laws of humanity”.[67]
+, Angela Kane, at a 2012 ceremony marking the anniversary of the Hiroshima and Nagasaki atomic bombings]] In its landmark resolution 1653 of 1961, "Declaration on the prohibition of the use of nuclear and thermo-nuclear weapons," the UN General Assembly stated that use of nuclear weaponry “would exceed even the scope of war and cause indiscriminate suffering and destruction to mankind and civilization and, as such, is contrary to the rules of international law and to the laws of humanity”.[67]
 
 The UN Office for Disarmament Affairs (UNODA) is a department of the United Nations Secretariat established in January 1998 as part of the United Nations Secretary-General Kofi Annan's plan to reform the UN as presented in his report to the General Assembly in July 1997.[68]
 
@@ -113,7 +113,7 @@ Key programs:
 
 Other states
 
-Nuclear_weapon_programs_worldwide_oct2006.png represented by color. ]] While the vast majority of states have adhered to the stipulations of the Nuclear Nonproliferation Treaty, a few states have either refused to sign the treaty or have pursued nuclear weapons programs while not being members of the treaty. Many view the pursuit of nuclear weapons by these states as a threat to nonproliferation and world peace.[75]
+represented by color. ]] While the vast majority of states have adhered to the stipulations of the Nuclear Nonproliferation Treaty, a few states have either refused to sign the treaty or have pursued nuclear weapons programs while not being members of the treaty. Many view the pursuit of nuclear weapons by these states as a threat to nonproliferation and world peace.[75]
 
 -   Declared nuclear weapon states not party to the NPT:[76]
 

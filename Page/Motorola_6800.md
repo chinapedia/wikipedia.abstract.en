@@ -11,15 +11,13 @@ History
 
 Motorola's history in semiconductors
 
-Motorola_Transistor_Radio_1960.jpg Galvin Manufacturing Corporation was founded in 1928; the company name was changed to Motorola in 1947. They began commercial production of transistors at a new US$1.5 million facility in Phoenix in 1955.[8]
+Galvin Manufacturing Corporation was founded in 1928; the company name was changed to Motorola in 1947. They began commercial production of transistors at a new US$1.5 million facility in Phoenix in 1955.[8]
 
 Motorola's transistors and integrated circuits were used in-house for their communication, military, automotive and consumer products and they were also sold to other companies. By 1973 the Semiconductor Products Division (SPD) had sales of $419 million and was the second largest semiconductor company after Texas Instruments.[9]
 
 In the early 1970s Motorola started a project that developed their first microprocessor, the MC6800. This was followed by single-chip microcontrollers such as the MC6801 and MC6805.
 
 Development team
-
-M6800_Family_Block_Diagram.png
 
 Motorola did not chronicle the development of the 6800 microprocessor the way that Intel did for their microprocessors. In 2008 the Computer History Museum interviewed four members of the 6800 microprocessor design team. Their recollections can be confirmed and expanded by magazine and journal articles written at the time.
 
@@ -35,15 +33,11 @@ Bill Lattin joined Motorola in 1969 and his group provided the computer simulati
 
 Bill Mensch joined Motorola in 1971 after graduating from the University of Arizona. He had worked several years as an electronics technician before earning his BSEE degree. The first year at Motorola was a series of three-month rotations through four different areas. Mensch did a flowchart for a modem that would become the 6860. He also worked the application group that was defining the M6800 system. After this training year, he was assigned to the 6820 Peripheral Interface Adapter (PIA) development team. Mensch was a major contributor to the design of this chip and received a patent on the IC layout[22] and was named as a co-inventor of seven other M6800 system patents.[23] Later Mensch would design the MOS Technology 6502 microprocessor.
 
-Motorola_M6800_manuals.jpg
-
 Mike Wiles was a design engineer in Jeff LaVell's group and made numerous customer visits with Tom Bennett during 6800 product definition phase. He is listed as an inventor on eighteen 6800 patents but is best known for a computer program, MIKBUG.[24] This was a monitor for a 6800 computer system that allowed the user to examine the contents of RAM and to save or load programs to tape. This 512 byte program occupied half of an MCM6830 ROM.[25] This ROM was used in the Motorola MEK6800 design evaluation kit and early hobby computer kits.[26] Wiles stayed with Motorola, moved to Austin and helped design the MC6801 microcontroller that was released in 1978.[27]
 
 Chuck Peddle joined the design team in 1973 after the 6800 processor design was done but he contributed to overall system design and to several peripheral chips, particularly the 6820 (PIA) parallel interface.[28] Peddle is listed as an inventor on sixteen Motorola patents, most have six or more co-inventors.[29] Like the other engineers on the team, Peddle visited potential customers and solicited their feedback. Peddle and John Buchanan built one of the earliest 6800 demonstration boards.[30] In August 1974 Chuck Peddle left Motorola and joined a small semiconductor company in Pennsylvania, MOS Technology. There he led the team that designed the 6500 microprocessor family.
 
 MC6800 microprocessor design
-
-MC6800_Processor_Diagram.png
 
 +----------------------------------------------------------------------------------------------------------------------------------------------+
 | _Motorola 6800 registers_                                                                                                                    |
@@ -71,8 +65,6 @@ Other divisions in Motorola developed components for the M6800 family. The Compo
 
 MOS ICs
 
-Silicon_wafer.jpg
-
 The first-generation metal–oxide–semiconductor (MOS) chips used p-channel field-effect transistors, known as p-channel MOSFETs (p-channel describes the configuration of the transistor). These ICs were used in calculators and in the first microprocessor, the Intel 4004. They were easy to produce but were slow and difficult to interface to the popular TTL digital logic ICs. An n-channel MOS integrated circuit could operate two or three times faster and was compatible with TTL. They were much more difficult to produce because of an increased sensitivity to contamination that required an ultra clean production line and meticulous process control.[37] Motorola did not have an n-channel MOS production capability and had to develop one for the 6800 family.
 
 Motorola's n-channel MOS test integrated circuits were complete in late 1971 and these indicated the clock rate would be limited to 1 MHz. These used "enhancement-mode" MOS transistors. There was a newer fabrication technology that used "depletion-mode" MOS transistors as loads, which would allow smaller and faster circuits (this was also known as depletion-load nMOS). The "depletion-mode" processing required extra steps so Motorola decided to stay with "enhancement-mode" for the new single-supply-voltage design. The 1 MHz clock rate meant the chip designers would have to come up with several architectural innovations to speed up the microprocessor throughput.[38] These resulting circuits were faster but required more area on the chip.[39]
@@ -82,8 +74,6 @@ In the 1970s, semiconductors were fabricated on 3 inch (75 mm) diameter silicon
 Processing wafers required multiple steps and flaws would appear at various locations on the wafer during each step. The larger the chip the more likely it would encounter a defect. The percentage of working chips, or yield, began to decline for chips larger than 160 mils (4 mm) on a side. The target size for the 6800 was 180 mils (4.6 mm) on each side but the final size was 212 mils (5.4 mm ) with an area of (29.0 mm²). At 180 mils, a wafer will hold about 190 chips, 212 mils reduces that to 140 chips. At this size the yield may be 20% or 28 chips per wafer.[41][42] The Motorola 1975 annual report highlights the new MC6800 microprocessor but has several paragraphs on the "MOS yield problems."[43] The yield problem was solved with a design revision started in 1975 to use depletion mode in the M6800 family devices. The 6800 die size was reduced to 160 mils (4 mm) per side with an area of 16.5 mm². This also allowed faster clock speeds, the MC68A00 would operate at 1.5 MHz and the MC68B00 at 2.0 MHz. The new parts were available in July 1976.[44][45]
 
 M6800 family introduction
-
-Motorola_M6800_microcomputer_ad_April_1975.jpg
 
 The March 7, 1974 issue of _Electronics_ had a two-page story on the Motorola MC6800 microprocessor along with the MC6820 Peripheral Interface Adapter, the MC6850 communications interface adapter, the MCM6810 128 byte RAM and the MCM6830 1024 byte ROM.[46] This was followed by an eight-page article in the April 18, 1974 issue, written by the Motorola design team.[47] This issue also had an article introducing the Intel 8080.[48]
 
@@ -103,8 +93,6 @@ A recession hit the semiconductor industry in mid-1974 resulting in thousands of
 
 Chuck Peddle (and other Motorola engineers) had been visiting customers to explain the benefits of microprocessors. Both Intel and Motorola had initially set the price of a single microprocessor at $360. Many customers were hesitant to adopt this new microprocessor technology with such a high price tag. (The actual price for production quantities was much lower.) In mid-1974 Peddle proposed a simplified microprocessor that could be sold at a much lower price. Motorola's "total product family" strategy did not focus on the price of MPU but on reducing the customer's total design cost.[65][66] Their immediate goal was to get their completed system into production and they would work on improvements in 1975.
 
-MOS_6501_Ad_August_1975.jpg
-
 Peddle continued working for Motorola while looking for investors for his new microprocessor concept.[67] In August 1974 Chuck Peddle left Motorola and joined a small semiconductor company in Pennsylvania, MOS Technology. He was followed by seven other Motorola engineers: Harry Bawcum, Ray Hirt, Terry Holdt, Mike James, Will Mathis, Bill Mensch and Rod Orgill.[68] Peddle's group at MOS Technology developed two new microprocessors that were compatible with the Motorola peripheral chips like the 6820 PIA. Rod Orgill designed the MCS6501 processor that would plug into a MC6800 socket and Bill Mensch did the MCS6502 that had the clock generation circuit on chip. These microprocessors would not run 6800 programs because they had a different architecture and instruction set. The major goal was a microprocessor that would sell for under $25. This would be done by removing non-essential features to reduce the chip size. An 8-bit stack pointer was used instead of a 16-bit one. The second accumulator was omitted. The address buffers did not have a three-state mode for Direct Memory Access (DMA) data transfers.[69] The goal was to get the chip size down to 153 mils x 168 mils (3.9 mm x 4.3 mm).[70]
 
 Chuck Peddle was a very effective spokesman and the MOS Technology microprocessors were extensively covered in the trade press. One of the earliest was a full-page story on the MCS6501 and MCS6502 microprocessors in the July 24, 1975 issue of _Electronics_ magazine.[71] Stories also ran in _EE Times_ (August 24, 1975),[72] _EDN_ (September 20, 1975), _Electronic News_ (November 3, 1975) and _Byte_ (November 1975). Advertisements for the 6501 appeared in several publications the first week of August 1975. The 6501 would be for sale at the WESCON trade show in San Francisco, September 16–19, 1975, for $20 each.[73] In September 1975 the advertisements included both the 6501 and the 6502 microprocessors. The 6502 would only cost $25.[74]
@@ -115,7 +103,7 @@ The MOS Technology vs. Motorola lawsuit has developed a David and Goliath narrat
 
 Move to Austin
 
-Motorola_MC6820L_MC6821L.jpg Gary Daniels was designing ICs for electronic wristwatches when Motorola shut down their Timepiece Electronics Unit. Tom Bennett offered him a job in the microprocessor group in November 1974. Bennett did not want to leave the Phoenix area so Gary Daniels managed the microprocessor development in Austin. (Daniels was the microprocessor design manager for the next ten years before he was promoted to a vice president.)
+Gary Daniels was designing ICs for electronic wristwatches when Motorola shut down their Timepiece Electronics Unit. Tom Bennett offered him a job in the microprocessor group in November 1974. Bennett did not want to leave the Phoenix area so Gary Daniels managed the microprocessor development in Austin. (Daniels was the microprocessor design manager for the next ten years before he was promoted to a vice president.)
 
 The first task was to redesign the 6800 MPU to improve the manufacturing yield and to operate at a faster clock. This design used depletion-mode technology and was known internally as the MC6800D. The transistor count went from 4000 to 5000 but the die area was reduced from 29.0 mm² to 16.5 mm². The maximum clock rate for selected parts doubled to 2 MHz. The other chips in the M6800 family were also redesigned to use depletion-mode technology. The Peripheral Interface Adapter had a slight change in the electrical characteristics of the I/O pins so the MC6820 became the MC6821.[89] These new IC were completed in July 1976.
 
@@ -140,13 +128,9 @@ In 2004 they spun off their microprocessor business as Freescale Semiconductor b
 
 Use in personal computers
 
-SWTPC6800_open.jpg
-
 The MITS Altair 8800, the first successful personal computer, used the Intel 8080 microprocessor and was featured on the January 1975 cover of _Popular Electronics_.[97] The first personal computers using the Motorola 6800 were introduced in late 1975. Sphere Corporation of Bountiful, Utah ran a quarter-page advertisement in the July 1975 issue of _Radio-Electronics_ for a computer kit with a 6800 microprocessor, of RAM, a video board and a keyboard. This would display 16 lines of 32 characters on a TV or monitor.[98] The Sphere computer kits began shipping in November 1975.[99] Southwest Technical Products Corporation of San Antonio, Texas, officially announced their SWTPC 6800 Computer System in November 1975. Wayne Green visited SWTPC in August 1975 and described the SWTPC computer kit complete with photos of a working system in the October 1975 issue of _73_. The SWTPC 6800 was based on the Motorola MEK6800 design evaluation kit chip set and used the MIKBUG ROM Software.[100] The MITS Altair 680 was on the cover of the November 1975 issue of _Popular Electronics_. The Altair 680 used a 6800 microprocessor and, unlike the SWTPC machine, also had a front panel with toggle switches and LEDs. The initial design had to be revised and first deliveries of the Altair 680B were in April 1976.[101]
 
 Sphere was a small startup company and had difficulties delivering all of the products they announced. They filed for a Chapter 11 bankruptcy in April 1977.[102] The Altair 680B was popular but MITS focused most of the resources on their Altair 8800 computer system and they exited the hobby market in 1978. The Southwest Technical Products computer was the most successful 6800 based personal computer.[103][104] Other companies, for instance, Smoke Signal Broadcasting (California), Gimix (Chicago), Midwest Scientific (Olathe, Kansas), and Helix Systems (Hazelwood, Missouri), started producing SWTPC 6800 bus compatible boards and complete systems. Technical Systems Consultants of West Lafayette, Indiana, supplied tape based software for the 6800 (and later 6809) based computers and, after disk systems became available, operating systems and disk software as well. The 8080 systems were far more popular than the 6800 ones.[105]
-
-Tektronix_4051_ad_April_1976.jpg
 
 The Tektronix 4051 Graphics Computing System was introduced in October 1975. This was a professional desktop computer that had a 6800 microprocessor with up to 32 kB of user RAM, 300 kB magnetic tape storage, BASIC in ROM and a 1024 by 780 graphics display. The Tektronix 4051 sold for $7000, rather higher than the personal computers using the 6800.[106]
 

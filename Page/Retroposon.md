@@ -1,4 +1,4 @@
-Phylogenetic_tree_of_marsupials_derived_from_retroposon_data_-_journal.pbio.1000436.g002.png of marsupials derived from retroposon data[1]]] RETROPOSONS are repetitive DNA fragments which are inserted into chromosomes after they had been reverse transcribed from any RNA molecule.
+of marsupials derived from retroposon data[1]]] RETROPOSONS are repetitive DNA fragments which are inserted into chromosomes after they had been reverse transcribed from any RNA molecule.
 
 
 Difference Between Retroposons And Retrotransposons

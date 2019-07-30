@@ -15,7 +15,7 @@ Oregano is related to the herb marjoram, sometimes being referred to as wild mar
 
 Taxonomy
 
-Majorana_syriaca_-_za'atar.jpg (_Origanum syriacum_)]] Bombus_lucorum_-_Origanum_vulgare_-_Keila.jpg]] Origanum_vulgare_young_plant_2.JPG Many subspecies and strains of oregano have been developed by humans over centuries for their unique flavours or other characteristics. Tastes range from spicy or astringent to more complicated and sweet. Simple oregano sold in garden stores as _Origanum vulgare_ may have a bland taste and larger, less-dense leaves, and is not considered the best for culinary use, with a taste less remarkable and pungent. It can pollinate other more sophisticated strains, but the offspring are rarely better in quality.
+(_Origanum syriacum_)]] ]] Many subspecies and strains of oregano have been developed by humans over centuries for their unique flavours or other characteristics. Tastes range from spicy or astringent to more complicated and sweet. Simple oregano sold in garden stores as _Origanum vulgare_ may have a bland taste and larger, less-dense leaves, and is not considered the best for culinary use, with a taste less remarkable and pungent. It can pollinate other more sophisticated strains, but the offspring are rarely better in quality.
 
 The related species, _Origanum onites_ (Greece, Turkey) and _O. syriacum_ (West Asia), have similar flavours. A closely related plant is marjoram from Turkey, which differs significantly in taste though, because phenolic compounds are missing from its essential oil. Some varieties show a flavour intermediate between oregano and marjoram.
 
@@ -46,8 +46,6 @@ Uses
 
 Culinary
 
-Oregano_(অরেগানো).JPG
-
 Oregano is a culinary herb, used for the flavor of its leaves, which can be more flavorful when dried than fresh. It has an aromatic, warm, and slightly bitter taste, which can vary in intensity. Good-quality oregano may be strong enough almost to numb the tongue, but cultivars adapted to colder climates may have a lesser flavor. Factors such as climate, season, and soil composition may affect the aromatic oils present, and this effect may be greater than the differences between the various species of plants. Among the chemical compounds contributing to the flavour are carvacrol, thymol, limonene, pinene, ocimene, and caryophyllene.[14]
 
 Oregano's most prominent modern use is as the staple herb of Italian cuisine. Its popularity in the U.S. began when soldiers returning from World War II brought back with them a taste for the "pizza herb", which had probably been eaten in southern Italy for centuries.[15] There, it is most frequently used with roasted, fried, or grilled vegetables, meat, and fish. Oregano combines well with spicy foods popular in southern Italy. It is less commonly used in the north of the country, as marjoram generally is preferred.
@@ -59,8 +57,6 @@ In Turkish cuisine, oregano is mostly used for flavoring meat, especially for mu
 The dried and ground leaves are most often used in Greece to add flavor to Greek salad, and is usually added to the lemon-olive oil sauce that accompanies fish or meat grills and casseroles.
 
 Oregano oil
-
-OreganoEssentialOil.png
 
 Oregano oil has been used in folk medicine over centuries.[16][17] Oregano essential oil is extracted from the leaves of the oregano plant. Although oregano or its oil may be used as a dietary supplement, there is no clinical evidence to indicate that either has any effect on human health.[18][19]
 

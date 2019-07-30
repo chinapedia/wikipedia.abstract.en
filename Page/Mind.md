@@ -1,4 +1,4 @@
-Phrenology1.jpg mapping[1] of the brain. Phrenology was among the first attempts to correlate mental functions with specific parts of the Brain]] Descartes_mind_and_body.gif' illustration of mind/body dualism. Descartes believed inputs are passed on by the Sensory organs to the epiphysis in the brain and from there to the immaterial spirit.[2]]]
+mapping[1] of the brain. Phrenology was among the first attempts to correlate mental functions with specific parts of the Brain]] ' illustration of mind/body dualism. Descartes believed inputs are passed on by the Sensory organs to the epiphysis in the brain and from there to the immaterial spirit.[2]]]
 
 The MIND is the set of cognitive faculties including consciousness, imagination, perception, thinking, judgement, language and memory, which is housed in the brain (sometimes including the central nervous system). It is usually defined as the faculty of an entity's thoughts and consciousness.[3] It holds the power of imagination, recognition, and appreciation, and is responsible for processing feelings and emotions, resulting in attitudes and actions.
 
@@ -124,8 +124,6 @@ Continued progress in neuroscience has helped to clarify many of these issues, a
 
 Scientific study
 
-Architecture_of_Spaun.jpeg
-
 Neuroscience
 
 Neuroscience studies the nervous system, the physical basis of the mind. At the systems level, neuroscientists investigate how biological neural networks form and physiologically interact to produce mental functions and content such as reflexes, multisensory integration, motor coordination, circadian rhythms, emotional responses, learning, and memory. At a larger scale, efforts in computational neuroscience have developed large-scale models that simulate simple, functioning brains.[66] As of 2012, such models include the thalamus, basal ganglia, prefrontal cortex, motor cortex, and occipital cortex, and consequentially simulated brains can learn, respond to visual stimuli, coordinate motor responses, form short-term memories, and learn to respond to patterns. Currently, researchers aim to program the hippocampus and limbic system, hypothetically imbuing the simulated mind with long-term memory and crude emotions.[67]
@@ -160,7 +158,7 @@ Animal cognition, or cognitive ethology, is the title given to a modern approach
 
 Artificial intelligence
 
-Forest_of_synthetic_pyramidal_dendrites_grown_using_Cajal's_laws_of_neuronal_branching.png of the branching architecture of the dendrites of pyramidal neurons.[70]]] In 1950 Alan M. Turing published "Computing machinery and intelligence" in _Mind_, in which he proposed that machines could be tested for intelligence using questions and answers. This process is now named the Turing Test. The term Artificial Intelligence (AI) was first used by John McCarthy who considered it to mean "the science and engineering of making intelligent machines".[71] It can also refer to intelligence as exhibited by an artificial (_man-made_, _non-natural_, _manufactured_) entity. AI is studied in overlapping fields of computer science, psychology, neuroscience and engineering, dealing with intelligent behavior, learning and adaptation and usually developed using customized machines or computers.
+of the branching architecture of the dendrites of pyramidal neurons.[70]]] In 1950 Alan M. Turing published "Computing machinery and intelligence" in _Mind_, in which he proposed that machines could be tested for intelligence using questions and answers. This process is now named the Turing Test. The term Artificial Intelligence (AI) was first used by John McCarthy who considered it to mean "the science and engineering of making intelligent machines".[71] It can also refer to intelligence as exhibited by an artificial (_man-made_, _non-natural_, _manufactured_) entity. AI is studied in overlapping fields of computer science, psychology, neuroscience and engineering, dealing with intelligent behavior, learning and adaptation and usually developed using customized machines or computers.
 
 Research in AI is concerned with producing machines to automate tasks requiring intelligent behavior. Examples include control, planning and scheduling, the ability to answer diagnostic and consumer questions, handwriting, natural language, speech and facial recognition. As such, the study of AI has also become an engineering discipline, focused on providing solutions to real life problems, knowledge mining, software applications, strategy games like computer chess and other video games. One of the biggest limitations of AI is in the domain of actual machine comprehension. Consequentially natural language understanding and connectionism (where behavior of neural networks is investigated) are areas of active research and development.
 

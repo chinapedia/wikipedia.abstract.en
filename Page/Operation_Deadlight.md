@@ -1,4 +1,4 @@
-HMS_Ferret_surrendered_Uboats.jpg, Northern Ireland in June 1945]] The_Polish_Navy_during_the_Second_World_War_HU55913.jpg
+, Northern Ireland in June 1945]]
 
 OPERATION DEADLIGHT was the code name for the Royal Navy operation to scuttle German U-boats surrendered to the Allies after the defeat of Germany near the end of World War II.
 

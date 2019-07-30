@@ -1,4 +1,4 @@
-6x8_80dpi_-_Piment_rouge_-_view_of_cellar_fm_mezz_stairs_to_Peel.JPG]]
+]]
 
 A RESTAURANT (), or an EATERY, is a business which prepares and serves food and drinks to customers in exchange for money. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, including a wide variety of cuisines and service models ranging from inexpensive fast food restaurants and cafeterias, to mid-priced family restaurants, to high-priced luxury establishments.
 
@@ -32,7 +32,7 @@ A restaurant's proprietor is called a _restaurateur_, this derives from the Fren
 
 Chef's table
 
-Chef's_table_at_Marcus.jpg]] A chef's table is a table located in the kitchen of a restaurant,[13][14] reserved for VIPs and special guests.[15] Patrons may be served a themed[16] tasting menu prepared and served by the head chef. Restaurants can require a minimum party[17] and charge a higher flat fee.[18] Because of the demand on the kitchen's facilities, chef's tables are generally only available during off-peak times.[19]
+]] A chef's table is a table located in the kitchen of a restaurant,[13][14] reserved for VIPs and special guests.[15] Patrons may be served a themed[16] tasting menu prepared and served by the head chef. Restaurants can require a minimum party[17] and charge a higher flat fee.[18] Because of the demand on the kitchen's facilities, chef's tables are generally only available during off-peak times.[19]
 
 
 History
@@ -41,7 +41,7 @@ Asia
 
 China
 
-Nanjing_Hunan_Road_Ajisen_Ramen.jpg.]] Restaurant_for_People,_Shigatse._1993.JPG, Tibet. 1993]] In China, food catering establishments that may be described as restaurants have been known since the 11th century in Kaifeng, China's capital during the first half of the Song dynasty (960–1279). Probably growing out of the tea houses and taverns that catered to travellers, Kaifeng's restaurants blossomed into an industry catering to locals as well as people from other regions of China.[20] There is a direct correlation between the growth of the restaurant businesses and institutions of theatrical stage drama, gambling and prostitution which served the burgeoning merchant middle class during the Song dynasty.[21] Restaurants catered to different styles of cuisine, price brackets, and religious requirements. Even within a single restaurant choices were available, and people ordered the entree from written menus.[22] An account from 1275 writes of Hangzhou, the capital city for the last half of the dynasty:
+.]] , Tibet. 1993]] In China, food catering establishments that may be described as restaurants have been known since the 11th century in Kaifeng, China's capital during the first half of the Song dynasty (960–1279). Probably growing out of the tea houses and taverns that catered to travellers, Kaifeng's restaurants blossomed into an industry catering to locals as well as people from other regions of China.[20] There is a direct correlation between the growth of the restaurant businesses and institutions of theatrical stage drama, gambling and prostitution which served the burgeoning merchant middle class during the Song dynasty.[21] Restaurants catered to different styles of cuisine, price brackets, and religious requirements. Even within a single restaurant choices were available, and people ordered the entree from written menus.[22] An account from 1275 writes of Hangzhou, the capital city for the last half of the dynasty:
 
 The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families formerly from Kaifeng.[23]
 
@@ -59,8 +59,6 @@ File:GrandeTaberna.JPG%7CA Roman thermopolium in Pompeii
 
 France
 
-Paris_75006_Rue_de_Seine_no_26_enseigne_Au_Petit_Maure_(1).jpg
-
 Before the restaurant
 
 In the thirteenth century, inns served varied food — bread, cheese, bacon, roasts, usually served at a common table. Parisians could buy what was essentially take-out food from _rotisseurs_, who prepared roasted meat dishes. and pastry-cooks, who could prepare meat pies and often more elaborate dishes. Municipal statutes stated that the official prices per item were to be posted at the entrance; this was the first official mention of menus.[25],
@@ -73,7 +71,7 @@ At the end of the 16th century, the guild of cook-caterers (later known as "trai
 
 Birth of the modern restaurant
 
-Paris_Palais_Royal_Restaurant_Grand_Véfour_4.jpg restaurant at the Palais Royal in Paris, opened as a café in 1784]] RitzParisGarden.jpg (1904), Pierre-Georges Jeanniot]] The earliest "restaurants" to use that name in Paris were the establishments which served bouillon a broth made of meat and egg. which was said to restore health and vigor. The first restaurant of this kind opened in 1765 or 1766 by Mathurin Roze de Chantoiseau on rue des Poulies, now part of the Rue de Louvre. [26] [27] Unlike earlier eating places, it was elegantly decorated, and besides meat broth offered a menu of several other "restorative" dishes, including macaroni. Chantoiseau and other chefs took the title "traiteurs-restaurateurs".
+restaurant at the Palais Royal in Paris, opened as a café in 1784]] (1904), Pierre-Georges Jeanniot]] The earliest "restaurants" to use that name in Paris were the establishments which served bouillon a broth made of meat and egg. which was said to restore health and vigor. The first restaurant of this kind opened in 1765 or 1766 by Mathurin Roze de Chantoiseau on rue des Poulies, now part of the Rue de Louvre. [26] [27] Unlike earlier eating places, it was elegantly decorated, and besides meat broth offered a menu of several other "restorative" dishes, including macaroni. Chantoiseau and other chefs took the title "traiteurs-restaurateurs".
 
 In June 1786 the Provost of Paris issued a decree giving the new kind of eating establishment official status, authorizing _restaurateurs_ to receive clients and to offer them meals until eleven in the evening in winter and midnight in summer. Ambitious cooks from noble households began to open more elaborate eating places. The first luxury restaurant in Paris, the Taverne Anglaise, was opened at the Palais-Royal at the beginning of 1786, shortly before the French Revolution, by Antoine Beauvilliers, the former chef of the Count of Provence, It had mahogany tables, linen tablecloths, chandeliers, well-dressed and trained waiters, a long wine list and an extensive menu of elaborately prepared and presented dishes.
 
@@ -87,7 +85,7 @@ North America
 
 United States
 
-Tom's_Restaurant,_NYC.jpg in Manhattan was made internationally famous by _Seinfeld_]] In the United States, it was not until the late 18th century that establishments that provided meals without also providing lodging began to appear in major metropolitan areas in the form of coffee and oyster houses. The actual term "restaurant" did not enter into the common parlance until the following century. Prior to being referred to as "restaurants" these eating establishments assumed regional names such as "eating house" in New York City, "restorator" in Boston, or "victualing house" in other areas. Restaurants were typically located in populous urban areas during the 19th century and grew both in number and sophistication in the mid-century due to a more affluent middle class and to suburbanization. The highest concentration of these restaurants were in the West, followed by industrial cities on the Eastern Seaboard. [30]Early Restaurants in America.
+in Manhattan was made internationally famous by _Seinfeld_]] In the United States, it was not until the late 18th century that establishments that provided meals without also providing lodging began to appear in major metropolitan areas in the form of coffee and oyster houses. The actual term "restaurant" did not enter into the common parlance until the following century. Prior to being referred to as "restaurants" these eating establishments assumed regional names such as "eating house" in New York City, "restorator" in Boston, or "victualing house" in other areas. Restaurants were typically located in populous urban areas during the 19th century and grew both in number and sophistication in the mid-century due to a more affluent middle class and to suburbanization. The highest concentration of these restaurants were in the West, followed by industrial cities on the Eastern Seaboard. [30]Early Restaurants in America.
 
 In the 1970s, there was one restaurant for every 7,500 persons. In 2016, there were 1,000,000 restaurants; one for every 310 people. The average person eats out five to six times weekly. 10% of the nation's workforce is composed of restaurant workers.[31]
 
@@ -108,9 +106,9 @@ In Peru, many indigenous, Spanish, and Chinese dishes are frequently found. Beca
 
 Guides
 
-Noma_entrance.jpg in Copenhagen, Denmark rated 2 stars in the Michelin guide, and named Best Restaurant in the World by _Restaurant_.]] Restaurant guides review restaurants, often ranking them or providing information to guide consumers (type of food, handicap accessibility, facilities, etc.). One of the most famous contemporary guides is the Michelin series of guides which accord from 1 to 3 stars to restaurants they perceive to be of high culinary merit. Restaurants with stars in the Michelin guide are formal, expensive establishments; in general the more stars awarded, the higher the prices.
+in Copenhagen, Denmark rated 2 stars in the Michelin guide, and named Best Restaurant in the World by _Restaurant_.]] Restaurant guides review restaurants, often ranking them or providing information to guide consumers (type of food, handicap accessibility, facilities, etc.). One of the most famous contemporary guides is the Michelin series of guides which accord from 1 to 3 stars to restaurants they perceive to be of high culinary merit. Restaurants with stars in the Michelin guide are formal, expensive establishments; in general the more stars awarded, the higher the prices.
 
-The main competitor to the Michelin guide in Europe is the guidebook series published by Gault Millau. Unlike the Michelin guide which takes the restaurant décor and service into consideration with its rating, Gault Millau only judges the quality of the food. Its ratings are on a scale of 1 to 20, with 20 being the highest. PerSe.jpg in New York City has three Michelin stars, and is rated at or near the top of multiple Zagat lists.[35]]] In the United States, the Forbes Travel Guide (previously the Mobil travel guides) and the AAA rate restaurants on a similar 1 to 5 star (Forbes) or diamond (AAA) scale. Three, four, and five star/diamond ratings are roughly equivalent to the Michelin one, two, and three star ratings while one and two star ratings typically indicate more casual places to eat. In 2005, Michelin released a New York City guide, its first for the United States. The popular Zagat Survey compiles individuals' comments about restaurants but does not pass an "official" critical assessment. FreshNYC recommends plausible New York City restaurants for busy New Yorkers and visitors alike.[36]
+The main competitor to the Michelin guide in Europe is the guidebook series published by Gault Millau. Unlike the Michelin guide which takes the restaurant décor and service into consideration with its rating, Gault Millau only judges the quality of the food. Its ratings are on a scale of 1 to 20, with 20 being the highest. in New York City has three Michelin stars, and is rated at or near the top of multiple Zagat lists.[35]]] In the United States, the Forbes Travel Guide (previously the Mobil travel guides) and the AAA rate restaurants on a similar 1 to 5 star (Forbes) or diamond (AAA) scale. Three, four, and five star/diamond ratings are roughly equivalent to the Michelin one, two, and three star ratings while one and two star ratings typically indicate more casual places to eat. In 2005, Michelin released a New York City guide, its first for the United States. The popular Zagat Survey compiles individuals' comments about restaurants but does not pass an "official" critical assessment. FreshNYC recommends plausible New York City restaurants for busy New Yorkers and visitors alike.[36]
 
 The _Good Food Guide,_ published by the Fairfax Newspaper Group in Australia,[37] is the Australian guide listing the best places to eat. Chefs Hats are awarded for outstanding restaurants and range from one hat through three hats. The _Good Food Guide_ also incorporates guides to bars, cafes and providers. _The Good Restaurant Guide_ is another Australian restaurant guide that has reviews on the restaurants as experienced by the public and provides information on locations and contact details. Any member of the public can submit a review.
 
@@ -136,11 +134,11 @@ Fully 63% of restaurants in Canada are independent brands. Chain restaurants acc
 
 European Union
 
-Inside_Le_Procope.jpg restaurant in Paris, France]] Restoran_Pozoj,_Čakovec.JPG, Croatia]] The EU-27 has an estimated 1.6m businesses involved in 'accommodation & food services', more than 75% of which are small and medium enterprises.[40]
+restaurant in Paris, France]] , Croatia]] The EU-27 has an estimated 1.6m businesses involved in 'accommodation & food services', more than 75% of which are small and medium enterprises.[40]
 
 United States
 
-The_Kitchen_at_Delmonico's,_1902.JPG, New York, 1902.]] As of 2006, there are approximately 215,000 full-service restaurants in the United States, accounting for $298 billion in sales, and approximately 250,000 limited-service (fast food) restaurants, accounting for $260 billion.[41] Starting in 2016, Americans spent more on restaurants than groceries.[42]
+, New York, 1902.]] As of 2006, there are approximately 215,000 full-service restaurants in the United States, accounting for $298 billion in sales, and approximately 250,000 limited-service (fast food) restaurants, accounting for $260 billion.[41] Starting in 2016, Americans spent more on restaurants than groceries.[42]
 
 In October 2017, _The New York Times_ reported there are 620,000 eating and drinking places in the United States, according to the Bureau of Labor Statistics. They also reported that the number of restaurants are growing almost twice as fast as the population.[43]
 

@@ -9,8 +9,6 @@ Biography
 
 Personal life
 
-Lead_Belly_draft_registration_card,_ca._1942.jpg
-
 The youngest of two children, Lead Belly was born Huddie William Ledbetter to Sallie Brown and Wesley Ledbetter on a plantation near Mooringsport, Louisiana, on January 20, 1888.[6] The 1900 United States Census lists "Hudy Ledbetter" as 12 years old, born January 1888, and the 1910 and 1930 censuses also give his age as corresponding to a birth in 1888. The 1940 census lists his age as 51, with information supplied by wife Martha. However, in April 1942, when Ledbetter filled out his World War II draft registration card, he gave his birth date as January 23, 1889, and his birthplace as Freeport, Louisiana ("Shreveport"). His grave marker bears the date given on his draft registration.
 
 The pronunciation of his name is often purported to be "HYEW-dee" or "HUGH-dee".[7] Leadbelly, himself, can be heard pronouncing his name correctly as "HUH-dee" on the track "Boll Weevil," from the Smithsonian Folkways album _Lead Belly Sings for Children._[8] His parents had cohabited for several years, but they legally married on February 26, 1888. When Huddie was five years old, the family settled in Bowie County, Texas.
@@ -43,7 +41,7 @@ Lead Belly died later that year in New York City and was buried in the Shiloh Ba
 
 Legal Issues
 
-AngolaLAPrison.jpg, where Lead Belly served time]] Lead Belly was imprisoned multiple times beginning in 1915 when he was convicted of carrying a pistol and sentenced to time on the Harrison County chain gang. He later escaped and found work in nearby Bowie County under the assumed name of Walter Boyd. Later, in January 1918, he was imprisoned at the Imperial Farm (now Central Unit)[16] in Sugar Land, Texas, after killing one of his relatives, Will Stafford, in a fight over a woman. During his second prison term, another inmate stabbed him in the neck (leaving him with a fearsome scar he subsequently covered with a bandana); Ledbetter nearly killed his attacker with his own knife.[17]
+, where Lead Belly served time]] Lead Belly was imprisoned multiple times beginning in 1915 when he was convicted of carrying a pistol and sentenced to time on the Harrison County chain gang. He later escaped and found work in nearby Bowie County under the assumed name of Walter Boyd. Later, in January 1918, he was imprisoned at the Imperial Farm (now Central Unit)[16] in Sugar Land, Texas, after killing one of his relatives, Will Stafford, in a fight over a woman. During his second prison term, another inmate stabbed him in the neck (leaving him with a fearsome scar he subsequently covered with a bandana); Ledbetter nearly killed his attacker with his own knife.[17]
 
 In 1925 he was pardoned and released after writing a song to Governor Pat Morris Neff seeking his freedom, having served the minimum seven years of a 7-to-35-year sentence. Combined with his good behavior, which included entertaining the guards and fellow prisoners, his appeal to Neff's strong religious beliefs proved sufficient. It was a testament to his persuasive powers, as Neff had run for governor on a pledge not to issue pardons (the only recourse for prisoners, since in most Southern prisons there was no provision for parole). According to Charles K. Wolfe and Kip Lornell in their book _The Life and Legend of Leadbelly_ (1999), Neff had regularly brought guests to the prison on Sunday picnics to hear Ledbetter perform.
 
@@ -51,7 +49,7 @@ In 1930, Ledbetter was sentenced to Louisiana's Angola Prison Farm after a summa
 
 Nicknamed "Lead Belly"
 
-Huddie_Ledbetter_(Leadbelly)_and_Martha_Promise_Ledbetter,_Wilton,_Conn..jpg, Connecticut, February 1935]] There are several conflicting stories about how Ledbetter acquired the nickname "Lead Belly", but he probably acquired it while in prison. Some claim his fellow inmates called him "Lead Belly" as a play on his family name and his physical toughness. Others say he earned the name after being wounded in the stomach with buckshot.[18] Another theory is that the name refers to his ability to drink moonshine, the homemade liquor that Southern farmers, black and white, made to supplement their incomes.
+, Connecticut, February 1935]] There are several conflicting stories about how Ledbetter acquired the nickname "Lead Belly", but he probably acquired it while in prison. Some claim his fellow inmates called him "Lead Belly" as a play on his family name and his physical toughness. Others say he earned the name after being wounded in the stomach with buckshot.[18] Another theory is that the name refers to his ability to drink moonshine, the homemade liquor that Southern farmers, black and white, made to supplement their incomes.
 
 Blues singer Big Bill Broonzy thought it came from a supposed tendency to lie about as if "with a stomach weighted down by lead" in the shade when the chain gang was supposed to be working.[19] Yet another theory is that it may be a corruption of his last name pronounced with a Southern accent. Whatever its origin, he adopted the nickname as a pseudonym while performing.
 

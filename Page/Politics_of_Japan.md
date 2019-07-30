@@ -1,4 +1,4 @@
-National_Diet_Building.jpg in Tokyo]]
+in Tokyo]]
 
 The POLITICS OF JAPAN are conducted in a framework of a multi-party bicameral parliamentary representative democratic constitutional monarchy whereby the Emperor is the ceremonial head of state and the Prime Minister is the head of government and the head of the Cabinet, which directs the executive branch.
 
@@ -9,7 +9,7 @@ The Economist Intelligence Unit rated Japan as a "flawed democracy" in 2016.[1]
 
 Government
 
-KokyoL0059.jpg in Tokyo is the primary residence of the Emperor.]] The Constitution of Japan defines the Emperor[2] to be "the symbol of the State and of the unity of the people". He performs ceremonial duties and holds no real power. Political power is held mainly by the Prime Minister and other elected members of the Diet. The Imperial Throne is succeeded by a member of the Imperial House as designated by the Imperial Household Law.
+in Tokyo is the primary residence of the Emperor.]] The Constitution of Japan defines the Emperor[2] to be "the symbol of the State and of the unity of the people". He performs ceremonial duties and holds no real power. Political power is held mainly by the Prime Minister and other elected members of the Diet. The Imperial Throne is succeeded by a member of the Imperial House as designated by the Imperial Household Law.
 
 The chief of the executive branch, the Prime Minister, is appointed by the Emperor as directed by the Diet. He is a member of either house of the Diet and must be a civilian. The Cabinet members are nominated by the Prime Minister, and are also required to be civilian. With the Liberal Democratic Party (LDP) in power, it has been convention that the President of the party serves as the Prime Minister.
 
@@ -17,8 +17,6 @@ The chief of the executive branch, the Prime Minister, is appointed by the Emper
 Political parties and elections
 
 Several political parties exist in Japan, however, the politics of Japan have primarily been dominated by the LDP since 1955, with the DPJ playing an important role as opposition several times. LDP was a ruling party during decades since 1955. Despite the existence of multiple parties, other parties were completely ignored. Most of the prime ministers were elected from inner factions of the LDP.
-
-Japanese_General_election,_2005_en.svg Japanese_House_of_Councillors_election,_2007_en.svg Seating after the election.
 
 
 Policy making

@@ -1,4 +1,4 @@
-Prayer_in_Cairo_1865.jpg'', painting by Jean-Léon Gérôme, 1865.]] IMAM (; __; plural: __) is an Islamic leadership position.
+'', painting by Jean-Léon Gérôme, 1865.]] IMAM (; __; plural: __) is an Islamic leadership position.
 
 It is most commonly used as the title of a worship leader of a mosque and Muslim community among Sunni Muslims. In this context, imams may lead Islamic worship services, serve as community leaders, and provide religious guidance. In Yemen, the title was formerly given to the king of the country.
 

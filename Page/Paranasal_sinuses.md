@@ -3,7 +3,7 @@ Sinus}} PARANASAL SINUSES are a group of four paired air-filled spaces that surr
 
 Structure
 
-3DPX-002305_Upper_respiratory_cast_3DFile_Nevit_Dilmen.stl Humans possess four paired paranasal sinuses, divided into subgroups that are named according to the bones within which the sinuses lie:
+Humans possess four paired paranasal sinuses, divided into subgroups that are named according to the bones within which the sinuses lie:
 
 -   The maxillary sinuses, the largest of the paranasal sinuses, are under the eyes, in the maxillary bones (open in the back of the semilunar hiatus of the nose). They are innervated by the trigeminal nerve (CN Vb).[2]
 -   The frontal sinuses, superior to the eyes, in the frontal bone, which forms the hard part of the forehead. They are also innervated by the trigeminal nerve (CN Va).[3]

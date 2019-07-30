@@ -7,7 +7,7 @@ In 1989, _Nanook of the North_ was one of the first 25 films to be selected for 
 
 Plot
 
-Robert_Flaherty_Nyla_1920.jpg Nanuk_Port_Harrison_1920.jpg The documentary follows the lives of an Inuk, Nanook, and his family as they travel, search for food, and trade in the Ungava Peninsula of northern Quebec, Canada. Nanook; his wife, Nyla; and their family are introduced as fearless heroes who endure rigors no other race could survive. The audience sees Nanook, often with his family, hunt a walrus, build an igloo, go about his day, and perform other tasks.
+The documentary follows the lives of an Inuk, Nanook, and his family as they travel, search for food, and trade in the Ungava Peninsula of northern Quebec, Canada. Nanook; his wife, Nyla; and their family are introduced as fearless heroes who endure rigors no other race could survive. The audience sees Nanook, often with his family, hunt a walrus, build an igloo, go about his day, and perform other tasks.
 
 
 Production
@@ -58,8 +58,6 @@ In 1999, _Nanook of the North_ was digitally remastered and released on DVD by T
 
 
 Popular culture
-
-Robert_J_Flaherty_-_1922_-_Nanook_Of_The_North_(Nanuk_El_Esquimal).ogv
 
 Music
 

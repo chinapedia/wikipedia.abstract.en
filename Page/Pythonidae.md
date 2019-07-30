@@ -15,7 +15,7 @@ Many species have been hunted aggressively, which has greatly reduced the popula
 
 Behavior
 
-Blackheaded_python2.jpg'']] Most members of this family are ambush predators, in that they typically remain motionless in a camouflaged position, and then strike suddenly at passing prey. Attacks on humans, although known to occur, are extremely rare.[4][5]
+'']] Most members of this family are ambush predators, in that they typically remain motionless in a camouflaged position, and then strike suddenly at passing prey. Attacks on humans, although known to occur, are extremely rare.[4][5]
 
 
 Feeding
@@ -24,7 +24,7 @@ Pythons use their sharp, backward-curving teeth, four rows in the upper jaw, two
 
 Larger specimens usually eat animals about the size of a house cat, but larger food items are known; some large Asian species have been known to take down adult deer, and the African rock python, _Python sebae_, has been known to eat antelope. In 2017, there was a recorded case of a human devoured by a python in Sulawesi, Indonesia.[8] All prey is swallowed whole, and may take several days or even weeks to fully digest.
 
-Contrary to popular belief, even the larger species, such as the reticulated python, _P. reticulatus_, do not crush their prey to death; in fact, prey is not even noticeably deformed before it is swallowed. The speed with which the coils are applied is impressive and the force they exert may be significant, but death is caused by cardiac arrest. Python_skull_rotation.gif
+Contrary to popular belief, even the larger species, such as the reticulated python, _P. reticulatus_, do not crush their prey to death; in fact, prey is not even noticeably deformed before it is swallowed. The speed with which the coils are applied is impressive and the force they exert may be significant, but death is caused by cardiac arrest.
 
 
 Reproduction

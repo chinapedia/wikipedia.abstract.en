@@ -1,19 +1,19 @@
-Susan_B_Anthony_c1855.png]] Jorge_Luis_Borges_1951,_by_Grete_Stern.jpg]] WEB_DuBois_1918.jpg]] Hedayat113.jpeg]] Janusz_Korczak.PNG]] Edward_Snowden-2.jpg]] Elie_Wiesel_(1987)_by_Erling_Mandelmann_-_2.jpg]] Henry_Dunant-young.jpg]] Hideaki_Anno.jpg]] Ingmar_Bergman_Smultronstallet.jpg]] JohannesBrahms.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]]
 
-Charlie_Chaplin.jpg]] Salvador_Dalí_1939.jpg]] Gaiman-headshot.jpg]] Stan_Lee_by_Gage_Skidmore_3.jpg]] Photo_of_Gustav_Mahler_by_Moritz_Nähr_01.jpg]] Paul_McCartney_black_and_white_2010.jpg]] Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg]]
+]] ]] ]] ]] ]] ]] ]]
 
 Listed here are persons who have identified themselves as theologically agnostic. Also included are individuals who have expressed the view that the veracity of a god's existence is unknown or inherently unknowable.
 
 
 List
 
-Confucius_Tang_Dynasty.jpg]] Democritus2.jpg]] Epicurus_bust2.jpg]] Immanuel_Kant_(painted_portrait).jpg]]
+]] ]] ]] ]]
 
-Karl_Popper.jpg]] Honourable_Bertrand_Russell.jpg]] Ludwig_Wittgenstein_1910.jpg]] Norman_Angell_01.jpg]] Clarence_Darrow.jpg]] RobertGIngersoll.jpg]]
+]] ]] ]] ]] ]] ]]
 
-Bardeen.jpg]] Alexander_Graham_Bell.jpg]] George_Boole.jpg]] J.C.Bose.JPG]] Cavendish_Henry_signature.jpg]] Mariecurie.jpg]] Charles_Darwin_by_Julia_Margaret_Cameron.jpg]] Dirac_4.jpg]] Albert_Einstein_photo_1921.jpg]] Enrico_Fermi_1943-49.jpg]] Howard_Walter_Florey_1945.jpg]] Hermann_von_Helmholtz.jpg]] Hilbert.jpg]] Edwin-hubble.jpg]] Thomas_Henry_Huxley.jpg, coiner of the term _agnostic_.]] Langrange_portrait.jpg]] Pierre-Simon-Laplace_(1749-1827).jpg]] Albert_Abraham_Michelson2.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] , coiner of the term _agnostic_.]] ]] ]] ]]
 
-Cecilia_Helena_Payne_Gaposchkin_(1900-1979)_(2).jpg]] JH_Poincare.jpg]] Simeon_Poisson.jpg]] Sir_CV_Raman.JPG]] John_William_Strutt.jpg]] Josef_Rotblat_ID_badge.png]] Carl_Sagan_Planetary_Society.JPG]] Frederick_Sanger2.jpg]] Leo_Szilard.jpg]] Edward_Teller_(boy).jpg]] John_Tyndall_portrait_mid_career.jpg]] Neil_deGrasse_Tyson.jpg]] Stanislaw_Ulam_ID_badge.png]] JohnvonNeumann-LosAlamos.gif]] Weil.jpg]] Norbert_wiener.jpg]] CNYang.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]]
 
 Activists and authors
 

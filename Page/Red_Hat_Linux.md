@@ -35,8 +35,6 @@ Red Hat Linux was originally developed exclusively inside Red Hat, with the only
 
 Version history
 
-redhat_5.2_box.jpg Redhat_5_0_cds.jpeg
-
 Release dates were drawn from announcements on _comp.os.linux.announce_. Version names are chosen as to be cognitively related to the prior release, yet not related in the same way as the release before that.[15][16]
 
 The Fedora and Red Hat Projects were merged on September 22, 2003.[17]

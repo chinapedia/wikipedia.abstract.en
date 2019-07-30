@@ -20,7 +20,7 @@ The pronunciation differs: _Kiribas_ is the official pronunciation as _ti_ in th
 
 History
 
-Tabiteuean_warriors_of_the_Gilberts_Islands,_about_1840.png, with shark's teeth weapons, about 1841 ]]
+, with shark's teeth weapons, about 1841 ]]
 
 Early history
 
@@ -32,17 +32,17 @@ Chance visits by European ships occurred in the 17th and 18th centuries,[16][17]
 
 The passing trade gave rise to European, Chinese, Samoan and other residents from the 1830s: they included beachcombers, castaways, traders and missionaries. In 1892 local authorities (an _uea_, a chief from the Gilbert Group, and _atun te boti_ or head of a clan[21]) on each of the Gilbert Islands agreed to Captain Davis of the Royal Navy declaring them part of a British protectorate with the nearby Ellice Islands. They were administered by a resident commissioner based in Butaritari (1893–95), Tarawa (1896–1908) and Banaba (1908–1941), who was under the Western Pacific High Commission based in Fiji.[22] Banaba, known to Europeans as Ocean Island, was added to the protectorate in 1900.
 
-Stamp_Gilbert_Ellice_Islands_1939_3p.jpg, 1939]] The conduct of W. Telfer Campbell, the resident commissioner of the Gilberts of 1896 to 1908, was criticised as to his legislative, judicial and administrative management (including allegations of forced labour exacted from islanders) and became the subject of the 1909 report by Arthur Mahaffy.[23] In 1913 an anonymous correspondent to the New Age journal described the mis-administration of W. Telfer Campbell and questioned the partiality of Arthur Mahaffy as he was a former colonial official in the Gilberts.[24] The anonymous correspondent also criticised the operations of the Pacific Phosphate Company on Ocean Island.[25]
+, 1939]] The conduct of W. Telfer Campbell, the resident commissioner of the Gilberts of 1896 to 1908, was criticised as to his legislative, judicial and administrative management (including allegations of forced labour exacted from islanders) and became the subject of the 1909 report by Arthur Mahaffy.[23] In 1913 an anonymous correspondent to the New Age journal described the mis-administration of W. Telfer Campbell and questioned the partiality of Arthur Mahaffy as he was a former colonial official in the Gilberts.[24] The anonymous correspondent also criticised the operations of the Pacific Phosphate Company on Ocean Island.[25]
 
 The islands became the crown colony of the Gilbert and Ellice Islands in 1916.[26] The Line Islands, including Christmas Island (later spelled Kiritimati) and Fanning Island (Tabuaeran), were added to the colony in 1919 and the Phoenix Islands were added in 1937.
 
-Flag_of_the_Gilbert_and_Ellice_Islands_(1937–1976).svg]] Sir Arthur Grimble was a cadet administrative officer based at Tarawa (1913–1919) and became Resident Commissioner of the Gilbert and Ellice Islands colony in 1926.[27]
+]] Sir Arthur Grimble was a cadet administrative officer based at Tarawa (1913–1919) and became Resident Commissioner of the Gilbert and Ellice Islands colony in 1926.[27]
 
 In 1902, the Pacific Cable Board laid the first trans-Pacific telegraph cable from Bamfield, British Columbia to Fanning Island (Tabuaeran) in the Line Islands and from Fiji to Fanning Island, thus completing the All Red Line, a series of telegraph lines circumnavigating the globe completely within the British Empire. The location of Fanning Island, one of the closest formations to Hawaii, led to its annexation by the British Empire in 1888. Nearby candidates including Palmyra Island were disfavored due to the lack of adequate landing sites.
 
-165th_Infantry_assault_wave_attacking_Butaritari,_Yellow_Beach_Two,_find_it_slow_going_in_the_coral_bottom_waters...._-_NARA_-_531172.tif, 20 November 1943]] The United States eventually incorporated the Northern Line into its territories and did the same with the Phoenix Islands which lie between Kiribati and the Line Islands including Howland, Jarvis, and Baker islands, thus, bringing about a territorial dispute. This was eventually resolved and they became part of Kiribati as part of the Treaty of Tarawa. This was signed shortly after independence and ratified in 1983, the United States relinquishing all claims to the sparsely inhabited Phoenix Islands and those of the Line Islands that are part of Kiribati territory.
+, 20 November 1943]] The United States eventually incorporated the Northern Line into its territories and did the same with the Phoenix Islands which lie between Kiribati and the Line Islands including Howland, Jarvis, and Baker islands, thus, bringing about a territorial dispute. This was eventually resolved and they became part of Kiribati as part of the Treaty of Tarawa. This was signed shortly after independence and ratified in 1983, the United States relinquishing all claims to the sparsely inhabited Phoenix Islands and those of the Line Islands that are part of Kiribati territory.
 
-Tarawa.jpg, November 1943.]] Tarawa Atoll and others of the Gilbert group were occupied by Japan from 1941 to 1943 during World War II. Betio became an airfield and supply base. The expulsion of the Japanese military in late 1943 involved one of the bloodiest battles in US Marine Corps history. Marines landed in November 1943 and the Battle of Tarawa ensued.
+, November 1943.]] Tarawa Atoll and others of the Gilbert group were occupied by Japan from 1941 to 1943 during World War II. Betio became an airfield and supply base. The expulsion of the Japanese military in late 1943 involved one of the bloodiest battles in US Marine Corps history. Marines landed in November 1943 and the Battle of Tarawa ensued.
 
 Further military operations in the colony occurred in the late 1950s and early 1960s when Christmas Island was used by the United States and United Kingdom for nuclear weapons testing including hydrogen bombs.
 
@@ -67,7 +67,7 @@ In early 2012, the government of Kiribati purchased the 2,200-hectare Natoavatu 
 
 Politics
 
-KiribatiParliamentHouse.jpg KiribatiPresidential_Residence.jpg The Kiribati Constitution, promulgated 12 July 1979, provides for free and open elections. The executive branch consists of a president (_te Beretitenti_), a vice-president and a cabinet. The president, who is also chief of the cabinet, is elected from the legislature and is limited to three four-year terms. He remains a member of the Assembly while serving as president. The cabinet is composed of the president, vice-president, and 10 ministers (appointed by the president) who are also members of the House of Assembly.
+The Kiribati Constitution, promulgated 12 July 1979, provides for free and open elections. The executive branch consists of a president (_te Beretitenti_), a vice-president and a cabinet. The president, who is also chief of the cabinet, is elected from the legislature and is limited to three four-year terms. He remains a member of the Assembly while serving as president. The cabinet is composed of the president, vice-president, and 10 ministers (appointed by the president) who are also members of the House of Assembly.
 
 The legislative branch is the unicameral _Maneaba Ni Maungatabu_ (House of Assembly). It has elected members, including by constitutional mandate a representative of the Banaban people in Fiji (Banaba Island, former Ocean Island), in addition to the attorney general, who serves as an _ex-officio_ member. Legislators serve for a four-year term.
 
@@ -101,7 +101,7 @@ The main prison in Kiribati is located in Betio, named the Walter Betio Prison. 
 
 Administrative divisions
 
-CarolinePic-Kepler-Long.JPG: Caroline Atoll channel between west side of Long Island and Nake Island.]] Marakei_Atoll.jpg Atoll, North Gilbert Islands]] There are a total of 21 inhabited islands in Kiribati. Kiribati is divided geographically into three island groups, including a group that unites the Line Islands and the Phoenix Islands (ministry at London, Kiritimati Island). The groups have no administrative function. They are:
+: Caroline Atoll channel between west side of Long Island and Nake Island.]] Atoll, North Gilbert Islands]] There are a total of 21 inhabited islands in Kiribati. Kiribati is divided geographically into three island groups, including a group that unites the Line Islands and the Phoenix Islands (ministry at London, Kiritimati Island). The groups have no administrative function. They are:
 
 -   Gilbert Islands
 -   Phoenix Islands, in one of the largest marine protected areas on Earth (was largest from 2008 to 2010)[57]
@@ -123,8 +123,6 @@ Each of the 21 inhabited islands[58] has its own local council that takes care o
 
 Geography
 
-Kiribati_map_LOC.jpg Abaiang_top_view.jpg
-
 Kiribati consists of 32 atolls and one solitary island (Banaba), extending into the eastern and western hemispheres, as well as the northern and southern hemispheres. It is the only country that is situated within all four hemispheres.[59] The groups of islands are:
 
 -   Banaba: an isolated island between Nauru and the Gilbert Islands
@@ -144,7 +142,7 @@ According to the Pacific Regional Environment Programme (previously South Pacifi
 
 The exposure of Kiribati to changes in sea levels is exacerbated by the Pacific decadal oscillation, which is a climate switch phenomenon that results in changes from periods of La Niña to periods of El Niño. This has an effect on sea levels. For example, in 2000 there was a switch from periods of downward pressure of El Niño on sea levels to an upward pressure of La Niña on sea levels, which upward pressure causes more frequent and higher high tide levels. The Perigean spring tide (often called a king tide) can result in seawater flooding low-lying areas of the islands of Kiribati.[66]
 
-Onotoa.png Atoll]] South_Tarawa_from_the_air.jpg]]
+Atoll]] ]]
 
 The atolls and reef islands can respond to changes in sea-level. Paul Kench at the University of Auckland in New Zealand and Arthur Webb at the South Pacific Applied Geoscience Commission in Fiji released a study in 2010 on the dynamic response of atolls and reef islands in the central Pacific. Kiribati was mentioned in the study, and Webb and Kench found that the three major urbanised islands in Kiribati—Betio, Bairiki and Nanikai—increased by 30% (36 hectares), 16.3% (5.8 hectares) and 12.5% (0.8 hectares), respectively.[67][68][69][70][71]
 
@@ -158,15 +156,15 @@ The Kiribati Adaptation Program (KAP), started in 2003, is a US $5.5 million ini
 
 Climate
 
-Line5304_-_Flickr_-_NOAA_Photo_Library.jpg The climate is pleasant from April to October, with predominant northeastern winds and stable temperatures close to . From November to March, western gales bring rain. Kiribati does not experience cyclones but effects may occasionally be experienced during cyclone seasons affecting nearby Pacific Island countries such as Fiji.[78][79][80]
+The climate is pleasant from April to October, with predominant northeastern winds and stable temperatures close to . From November to March, western gales bring rain. Kiribati does not experience cyclones but effects may occasionally be experienced during cyclone seasons affecting nearby Pacific Island countries such as Fiji.[78][79][80]
 
 Precipitation varies significantly between islands. For example, the annual average is 3,000 mm (120 in) in the north and 500 mm (20 in) in the south of the Gilbert Islands.[81] Most of these islands are in the dry belt of the equatorial oceanic climatic zone and experience prolonged droughts.[82]
 
 Ecology
 
-AcrocephalusPistorKeulemans.jpg (_Acrocephalus aequinoctialis_) is the only land wildlife species endemic to Kiribati.]] Because of the young geological age of the islands and atolls and high level of soil salination the flora of Kiribati is relatively poor. It contains about 83 indigenous and 306 introduced plants on Gilbert Islands, whereas the corresponding numbers for Line and Phoenix Islands are 67 and 283. None of these species are endemic, and about half of the indigenous ones have a limited distribution and became endangered or nearly extinct due to human activities such as phosphate mining.[83] Coconut and pandanus palms and breadfruit trees are most common wild plants,[84][85] whereas the five most cultivated crops are Chinese cabbage, pumpkin, tomato, watermelon and cucumber.[86] Over eighty percent of the population participates in either farming or fishing.[87]
+(_Acrocephalus aequinoctialis_) is the only land wildlife species endemic to Kiribati.]] Because of the young geological age of the islands and atolls and high level of soil salination the flora of Kiribati is relatively poor. It contains about 83 indigenous and 306 introduced plants on Gilbert Islands, whereas the corresponding numbers for Line and Phoenix Islands are 67 and 283. None of these species are endemic, and about half of the indigenous ones have a limited distribution and became endangered or nearly extinct due to human activities such as phosphate mining.[83] Coconut and pandanus palms and breadfruit trees are most common wild plants,[84][85] whereas the five most cultivated crops are Chinese cabbage, pumpkin, tomato, watermelon and cucumber.[86] Over eighty percent of the population participates in either farming or fishing.[87]
 
-Rotjan_-_Enderbury_Day_1_-_2nd_half_(62).JPG]] Seaweed farming is an important part of the economy , with two major species _Eucheuma alcarezii_ and _Eucheuma spinosium_ introduced to the local lagoons from the Philippines in 1977. It competes with collection of the black-lipped pearl oyster (_Pinctada margaritifera_) and shellfish,[88] which are dominated by the strombid gastropod (_Strombus luhuanus_) and Anadara cockles (_Anadara uropigimelana_), whereas the stocks of the giant clam (_Tridacna gigas_) have been largely exhausted.[89]
+]] Seaweed farming is an important part of the economy , with two major species _Eucheuma alcarezii_ and _Eucheuma spinosium_ introduced to the local lagoons from the Philippines in 1977. It competes with collection of the black-lipped pearl oyster (_Pinctada margaritifera_) and shellfish,[88] which are dominated by the strombid gastropod (_Strombus luhuanus_) and Anadara cockles (_Anadara uropigimelana_), whereas the stocks of the giant clam (_Tridacna gigas_) have been largely exhausted.[89]
 
 Kiribati has a few land mammals, none being indigenous or endemic. They include the Polynesian rat (_Rattus exulans_), dogs and pigs. Among the 75 bird species, the Bokikokiko (_Acrocephalus aequinoctialis_) is endemic to Kiritimati.[90]
 
@@ -177,7 +175,7 @@ Dogs introduced by European settlers have continued to grow in numbers and are r
 
 Economy
 
-Kiribatisupermarket.jpg Kiribati_Abaiang_Store.jpg Kiribati_Exports_Treemap_(2013).png Kiribati has few natural resources. Commercially viable phosphate deposits on Banaba were exhausted at the time of independence. Copra and fish now represent the bulk of production and exports. Kiribati is considered one of the least developed countries in the world.
+Kiribati has few natural resources. Commercially viable phosphate deposits on Banaba were exhausted at the time of independence. Copra and fish now represent the bulk of production and exports. Kiribati is considered one of the least developed countries in the world.
 
 In one form or another, Kiribati gets a large portion of its income from abroad. Examples include fishing licenses, development assistance, worker remittances, and tourism. Given Kiribati's limited domestic production ability, it must import nearly all of its essential foodstuffs and manufactured items; it depends on these external sources of income for financing.
 
@@ -193,7 +191,7 @@ A major Australian bank, ANZ, maintains a presence on Kiribati[103] with a numbe
 
 Transport
 
-Bonriki_International_Airport2.jpg.]]
+.]]
 
 Since January 2009, Kiribati has had two domestic airlines: Air Kiribati and Coral Sun Airways. Both airlines are based in Tarawa's Bonriki International Airport and serve destinations across the Gilbert Islands only .
 
@@ -202,9 +200,9 @@ Neither the Phoenix nor Line Islands are served by the domestic carriers. The on
 
 Demographics
 
-Children_in_Bairiki_Square,_Tarawa,_Kiribati.JPG children in South Tarawa.]] The November 2015 census showed a population of 110,136. About 90% of that population lived in the Gilbert Islands, with about 40% of them on South Tarawa. If nearby Betio is included with South Tarawa, the percentage rises to more than 50%.[104]
+children in South Tarawa.]] The November 2015 census showed a population of 110,136. About 90% of that population lived in the Gilbert Islands, with about 40% of them on South Tarawa. If nearby Betio is included with South Tarawa, the percentage rises to more than 50%.[104]
 
-Until recently, the people of Kiribati mostly lived in villages with populations between 50 and 3,000 on the outer islands. Most houses are made of materials obtained from coconut and pandanus trees. Frequent droughts and infertile soil hinder reliable large-scale agriculture, so the islanders have largely turned to the sea for livelihood and subsistence. Most are outrigger sailors and fishermen. Copra plantations serve as a second source of employment. In recent years large numbers of citizens have moved to the more urban island capital of Tarawa. Increasing urbanisation has raised the population of South Tarawa to 50,182.[105] Landscape,_Kiribati,_2011._Photo-_Erin_Magee_-_DFAT_(12425893525).jpg
+Until recently, the people of Kiribati mostly lived in villages with populations between 50 and 3,000 on the outer islands. Most houses are made of materials obtained from coconut and pandanus trees. Frequent droughts and infertile soil hinder reliable large-scale agriculture, so the islanders have largely turned to the sea for livelihood and subsistence. Most are outrigger sailors and fishermen. Copra plantations serve as a second source of employment. In recent years large numbers of citizens have moved to the more urban island capital of Tarawa. Increasing urbanisation has raised the population of South Tarawa to 50,182.[105]
 
 Ethnic groups
 
@@ -216,7 +214,7 @@ The people of Kiribati speak an Oceanic language called Gilbertese. Although Eng
 
 Religion
 
-Kiribati(008).JPG Christianity is the major religion in Kiribati, having been introduced by missionaries in the 19th century. The population is predominantly Roman Catholic (56%) and Protestant faith (Kiribati Protestant Church and Kiribati Uniting Church) account for (34%). The Church of Jesus Christ of Latter-day Saints, Jehovah’s Witnesses, Baha'i and others account for (10%).
+Christianity is the major religion in Kiribati, having been introduced by missionaries in the 19th century. The population is predominantly Roman Catholic (56%) and Protestant faith (Kiribati Protestant Church and Kiribati Uniting Church) account for (34%). The Church of Jesus Christ of Latter-day Saints, Jehovah’s Witnesses, Baha'i and others account for (10%).
 
 Health
 
@@ -230,7 +228,7 @@ Fresh water remains a concern of Kiribati – during the dry season (Aumaiaki), 
 
 Education
 
-University_of_South_Pacific,_Kiribati_Campus.jpg, Kiribati Campus.]] Primary education is free and compulsory for the first six years, now being extended to nine years. Mission schools are slowly being absorbed into the government primary school system. Higher education is expanding; students may seek technical, teacher or marine training, or study in other countries. To date, most choosing to do the latter have gone to Fiji to attend University of South Pacific, and those wishing to complete medical training have been sent to Cuba.[116]
+, Kiribati Campus.]] Primary education is free and compulsory for the first six years, now being extended to nine years. Mission schools are slowly being absorbed into the government primary school system. Higher education is expanding; students may seek technical, teacher or marine training, or study in other countries. To date, most choosing to do the latter have gone to Fiji to attend University of South Pacific, and those wishing to complete medical training have been sent to Cuba.[116]
 
 Kiribati Ministry of Education is the education ministry. The government high schools are King George V and Elaine Bernacchi School, Tabiteuea North Senior Secondary School, and Melaengi Tabai Secondary School. 13 high schools are operated by Christian churches.[117]
 
@@ -249,7 +247,7 @@ Kiribati folk music is generally based on chanting or other forms of vocalising,
 
 Dance
 
-Bonriki_International_Airportwelcomejpg.jpg The uniqueness of Kiribati when compared with other forms of Pacific island dance is its emphasis on the outstretched arms of the dancer and the sudden birdlike movement of the head. The Frigate bird (_Fregata minor_) on the Kiribati flag refers to this bird-like style of Kiribati dancing. Most dances are in the standing or sitting position with movement limited and staggered. Smiling whilst dancing is generally considered vulgar within the context of Kiribati dancing. This is due to its origin of not being solely as a form of entertainment but as a form of storytelling and a display of the skill, beauty and endurance of the dancer.[118]
+The uniqueness of Kiribati when compared with other forms of Pacific island dance is its emphasis on the outstretched arms of the dancer and the sudden birdlike movement of the head. The Frigate bird (_Fregata minor_) on the Kiribati flag refers to this bird-like style of Kiribati dancing. Most dances are in the standing or sitting position with movement limited and staggered. Smiling whilst dancing is generally considered vulgar within the context of Kiribati dancing. This is due to its origin of not being solely as a form of entertainment but as a form of storytelling and a display of the skill, beauty and endurance of the dancer.[118]
 
 Sport
 

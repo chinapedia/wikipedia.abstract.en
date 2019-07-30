@@ -3,12 +3,12 @@ An OVO-LACTO VEGETARIAN or LACTO-OVO VEGETARIAN is a vegetarian who consumes som
 
 Etymology
 
-Fourme_d'Ambert.JPG 3_jaja.jpg The terminology stems from the Latin _lac_ meaning "milk" (as in 'lactation'), _ovum_ meaning "egg", and the English term _vegetarian_, so as giving the definition of a vegetarian diet containing milk and eggs.
+The terminology stems from the Latin _lac_ meaning "milk" (as in 'lactation'), _ovum_ meaning "egg", and the English term _vegetarian_, so as giving the definition of a vegetarian diet containing milk and eggs.
 
 
 Diet
 
-牛柄カップ_(5211219880).jpg In the Western world, ovo-lacto vegetarians are the most common type of vegetarian.[2] Generally speaking, when one uses the term _vegetarian_, an ovo-lacto vegetarian is assumed.[3] Ovo-lacto vegetarians are often well-catered to in restaurants and shops, especially in some parts of Europe and metropolitan cities in North America.
+In the Western world, ovo-lacto vegetarians are the most common type of vegetarian.[2] Generally speaking, when one uses the term _vegetarian_, an ovo-lacto vegetarian is assumed.[3] Ovo-lacto vegetarians are often well-catered to in restaurants and shops, especially in some parts of Europe and metropolitan cities in North America.
 
 
 Religion

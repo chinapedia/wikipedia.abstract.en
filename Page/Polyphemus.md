@@ -3,13 +3,13 @@ POLYPHEMUS (; _Polyphēmos_) is the one-eyed giant son of Poseidon and Thoosa in
 
 Odysseus and Polyphemus
 
-Polyphemos_reclining_and_holding_a_drinking_bowl.jpg, _Polyphemos reclining and holding a drinking bowl_. Late 5th to early 4th century BCE, Boeotia. Museum of Fine Arts, Boston.]]
+, _Polyphemos reclining and holding a drinking bowl_. Late 5th to early 4th century BCE, Boeotia. Museum of Fine Arts, Boston.]]
 
 The Classical accounts
 
 In Homer's epic, Odysseus lands on the island of the Cyclops during his journey home from the Trojan War and, together with some of his men, enters a cave filled with provisions. When the giant Polyphemus returns home with his flocks, he blocks the entrance with a great stone and, scoffing at the usual custom of hospitality, eats two of the men. Next morning, the giant kills and eats two more and leaves the cave to graze his sheep.
 
-Gruppo_di_polifemo,_sperlonga_0.jpg, 1st century AD]]
+, 1st century AD]]
 
 After the giant returns in the evening and eats two more of the men, Odysseus offers Polyphemus some strong and undiluted wine given to him earlier on his journey. Drunk and unwary, the giant asks Odysseus his name, promising him a guest-gift if he answers. Odysseus tells him "Οὖτις", which means "nobody"[2] and Polyphemus promises to eat this "Nobody" last of all. With that, he falls into a drunken sleep. Odysseus had meanwhile hardened a wooden stake in the fire and drives it into Polyphemus' eye. When Polyphemus shouts for help from his fellow giants, saying that "Nobody" has hurt him, they think Polyphemus is being afflicted by divine power and recommend prayer as the answer.
 
@@ -21,11 +21,11 @@ Julien d'Huy speculates that the myth may be palaeolithic.[5] Elements of the st
 
 Artistic representations
 
-Polyphemus_Eleusis_2630.jpg museum)]] The vivid nature of the Polyphemus episode made it a favorite theme of ancient Greek painted pottery, on which the scenes most often illustrated are the blinding of the Cyclops and the ruse by which Odysseus and his men escape.[9] One such episode, on a vase featuring the hero carried beneath a sheep, was used on a 27 drachma Greek postage stamp in 1983.
+museum)]] The vivid nature of the Polyphemus episode made it a favorite theme of ancient Greek painted pottery, on which the scenes most often illustrated are the blinding of the Cyclops and the ruse by which Odysseus and his men escape.[9] One such episode, on a vase featuring the hero carried beneath a sheep, was used on a 27 drachma Greek postage stamp in 1983.
 
 The blinding was depicted in life-size sculpture, including a giant Polyphemus, in the Sperlonga sculptures probably made for the Emperor Tiberius. This may be an interpretation of an existing composition, and was apparently repeated in variations in later Imperial palaces by Claudius, Nero and at Hadrian's Villa.[10]
 
-Eckersberg,_Christoffer_Wilhelm,_Ulysses_Fleeing_the_Cave_of_Polyphemus,_1812.jpg, _Ulysses Fleeing the Cave of Polyphemus_, 1812, Princeton University Art Museum]]
+, _Ulysses Fleeing the Cave of Polyphemus_, 1812, Princeton University Art Museum]]
 
 Of the European painters of the subject, the Flemish Jacob Jordaens depicted Odysseus escaping from the cave of Polyphemus in 1635 (see gallery below) and others chose the dramatic scene of the giant casting boulders at the escaping ship. In Guido Reni's painting of 1639/40 (see below), the furious giant is tugging a boulder from the cliff as Odysseus and his men row out to the ship far below. Polyphemus is portrayed, as it often happens, with two empty eye sockets and his damaged eye located in the middle on his forehead. This convention goes back to Greek statuary and painting[11] and is reproduced in Johann Heinrich Wilhelm Tischbein's 1802 head and shoulders portrait of the giant (see below).
 
@@ -44,11 +44,9 @@ However, there are indications that Polyphemus’ courtship had a more successfu
 
 In addition, a later development in the courtship is described by Theocritus in his Idyll VI. Here two herdsmen engage in a musical competition, one of them playing the part of Polyphemus, who asserts that since he had adopted the ruse of ignoring Galatea, she has now become the one who pursues him.[17]
 
-Affreschi_romani_-_polifemo_galatea_-_pompei.JPG The happy ending to their story was well known in the centuries that followed and is attested in both literature and the arts. In the course of a 1st-century BC love elegy on the power of music, the Latin poet Propertius mentions as one example that "Even Galatea, it’s true, below wild Etna, wheeled her brine-wet horses, Polyphemus, to your songs."[18] The division of contrary elements, in other words, is brought into harmony.
+The happy ending to their story was well known in the centuries that followed and is attested in both literature and the arts. In the course of a 1st-century BC love elegy on the power of music, the Latin poet Propertius mentions as one example that "Even Galatea, it’s true, below wild Etna, wheeled her brine-wet horses, Polyphemus, to your songs."[18] The division of contrary elements, in other words, is brought into harmony.
 
 That their conjunction was fruitful is brought out in a later Greek epic from the turn of the 5th century AD. In the course of his _Dionysiaca_, Nonnus gives an account of the wedding of Poseidon and Beroe, at which the Nereid "Galatea twangled a marriage dance and restlessly twirled in capering step, and she sang the marriage verses, for she had learnt well how to sing, being taught by Polyphemos with a shepherd’s syrinx."[19]
-
-Cyclops_Polyphemus_&_Galatea_Family_Tree_(Greek_Mythology)_(English).jpg
 
 In one of the murals rescued from the site of Pompeii, Polyphemus is pictured seated on a rock with a cithara (rather than a syrinx) by his side, holding out a hand to receive a love letter from Galatea, which is carried by a winged Cupid riding on a dolphin.
 
@@ -62,7 +60,7 @@ During Renaissance and Baroque times Ovid's story emerged again as a popular the
 
 In France the story was condensed to the fourteen lines of Tristan L'Hermite's sonnet _Polyphème en furie_ (1641). In it the giant expresses his fury upon viewing the loving couple, ultimately throwing the huge rock that kills Acis and even injures Galatea.[25] Later in the century, Jean-Baptiste Lully composed his opera Acis et Galatée (1686) on the theme.[26]
 
-Fontaine_Médicis_Luxembourg.jpg's Médici Fountain, 1866]] In Italy Giovanni Bononcini composed the one-act opera _Polifemo_ (1703). Shortly afterwards George Frideric Handel worked in that country and composed the cantata _Aci, Galatea e Polifemo_ (1708), laying as much emphasis on the part of Polifemo as on the lovers. Written in Italian, Polifemo's deep bass solo _Fra l'ombre e gl'orrori_ (From horrid shades) establishes his character from the start. After Handel's move to England, he gave the story a new treatment in his pastoral opera _Acis and Galatea_ with an English libretto provided by John Gay.[27] Initially composed in 1718, the work went through many revisions and was later to be given updated orchestrations by both Mozart and Mendelssohn.[28] As a pastoral work it is suffused with Theocritan atmosphere but largely centres on the two lovers. When Polyphemus declares his love in the lyric “O ruddier than the cherry”, the effect is almost comic.[29] Handel's rival for a while on the London scene, Nicola Porpora, also made the story the subject of his opera _Polifemo_ (1735).
+'s Médici Fountain, 1866]] In Italy Giovanni Bononcini composed the one-act opera _Polifemo_ (1703). Shortly afterwards George Frideric Handel worked in that country and composed the cantata _Aci, Galatea e Polifemo_ (1708), laying as much emphasis on the part of Polifemo as on the lovers. Written in Italian, Polifemo's deep bass solo _Fra l'ombre e gl'orrori_ (From horrid shades) establishes his character from the start. After Handel's move to England, he gave the story a new treatment in his pastoral opera _Acis and Galatea_ with an English libretto provided by John Gay.[27] Initially composed in 1718, the work went through many revisions and was later to be given updated orchestrations by both Mozart and Mendelssohn.[28] As a pastoral work it is suffused with Theocritan atmosphere but largely centres on the two lovers. When Polyphemus declares his love in the lyric “O ruddier than the cherry”, the effect is almost comic.[29] Handel's rival for a while on the London scene, Nicola Porpora, also made the story the subject of his opera _Polifemo_ (1735).
 
 Later in the century Joseph Haydn composed _Acide e Galatea_ (1763) as his first opera while in Vienna.[30] Designed for an imperial wedding, it was given a happy ending centred on the transformation scene after the murder of Acis as the pair declare their undying love.[31] Johann Gottlieb Naumann was to turn the story into a comic opera, _Aci e Galatea_, with the subtitle _i ciclopi amanti_ (the amorous cyclops). The work was first performed in Dresden in 1801 and its plot was made more complicated by giving Polifemo a companion, Orgonte. There were also two other lovers, Dorinda and Lisia, with Orgonte Lisia's rival for Dorinda's love.[32]
 
@@ -72,11 +70,11 @@ There have also been two Spanish musical items that reference Polyphemus' name. 
 
 Painting and sculpture
 
-Odysseus_Polyphemos_Cdm_Paris_190.jpg Paintings that include Polyphemus in the story of Acis and Galatea can be grouped according to their themes. Most notably the story takes place within a pastoral landscape in which the figures are almost incidental. This is particularly so in Nicholas Poussin's 1649 "Landscape with Polyphemus" (see gallery below) in which the lovers play a minor part in the foreground.[39] To the right, Polyphemus merges with a distant mountain top on which he plays his pipes. In an earlier painting by Poussin from 1630 (now housed at the Dublin National Gallery) the couple are among several embracing figures in the foreground, shielded from view of Polyphemus, who is playing his flute higher up the slope. Another variation on the theme was painted by Pietro Dandini during this period.
+Paintings that include Polyphemus in the story of Acis and Galatea can be grouped according to their themes. Most notably the story takes place within a pastoral landscape in which the figures are almost incidental. This is particularly so in Nicholas Poussin's 1649 "Landscape with Polyphemus" (see gallery below) in which the lovers play a minor part in the foreground.[39] To the right, Polyphemus merges with a distant mountain top on which he plays his pipes. In an earlier painting by Poussin from 1630 (now housed at the Dublin National Gallery) the couple are among several embracing figures in the foreground, shielded from view of Polyphemus, who is playing his flute higher up the slope. Another variation on the theme was painted by Pietro Dandini during this period.
 
 An earlier fresco by Giulio Romano from 1528 seats Polyphemus against a rocky foreground with a lyre in his raised right hand. The lovers can just be viewed through a gap in the rock that gives onto the sea at the lower right. (1681) represents a seated Polyphemus in his sculpture, except that in his version it is pipes that the giant holds in his lowered hand. Otherwise he has a massive club held across his body and turns to the left to look over his shoulder.
 
-Moreau_Galatée.jpg Other paintings take up the Theocritan theme of the pair divided by the elements with which they are identified, land and water. There are a series of paintings, often titled "The Triumph of Galatea", in which the nymph is carried through the sea by her Nereid sisters, while a minor figure of Polyphemus serenades her from the land. Typical examples of this were painted by François Perrier, Giovanni Lanfranco and Jean-Baptiste van Loo.
+Other paintings take up the Theocritan theme of the pair divided by the elements with which they are identified, land and water. There are a series of paintings, often titled "The Triumph of Galatea", in which the nymph is carried through the sea by her Nereid sisters, while a minor figure of Polyphemus serenades her from the land. Typical examples of this were painted by François Perrier, Giovanni Lanfranco and Jean-Baptiste van Loo.
 
 A whole series of paintings by Gustave Moreau make the same point in a variety of subtle ways.[40] The giant spies on Galatea through the wall of a sea grotto or emerges from a cliff to adore her sleeping figure (see below). Again, Polyphemus merges with the cliff where he meditates in the same way that Galatea merges with her element within the grotto in the painting at Musée d'Orsay. The visionary interpretation of the story also finds its echo in Odilon Redon's 1913 painting "The Cyclops" in which the giant towers over the slope on which Galatea sleeps.[41]
 

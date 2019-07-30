@@ -1,4 +1,4 @@
-Phonogram}} Edison_and_phonograph_edit1.jpg with his second phonograph, photographed by Levin Corbin Handy in Washington, April 1878]] EdisonPhonograph.jpg Amberola_close-up.jpg The PHONOGRAPH is a device for the mechanical recording and reproduction of sound. In its later forms, it is also called a GRAMOPHONE (as a trademark since 1887, as a generic name in the UK since 1910) or, since the 1940s, a RECORD PLAYER. The sound vibration waveforms are recorded as corresponding physical deviations of a spiral groove engraved, etched, incised, or impressed into the surface of a rotating cylinder or disc, called a "record". To recreate the sound, the surface is similarly rotated while a playback stylus traces the groove and is therefore vibrated by it, very faintly reproducing the recorded sound. In early acoustic phonographs, the stylus vibrated a diaphragm which produced sound waves which were coupled to the open air through a flaring horn, or directly to the listener's ears through stethoscope-type earphones.
+Phonogram}} with his second phonograph, photographed by Levin Corbin Handy in Washington, April 1878]] The PHONOGRAPH is a device for the mechanical recording and reproduction of sound. In its later forms, it is also called a GRAMOPHONE (as a trademark since 1887, as a generic name in the UK since 1910) or, since the 1940s, a RECORD PLAYER. The sound vibration waveforms are recorded as corresponding physical deviations of a spiral groove engraved, etched, incised, or impressed into the surface of a rotating cylinder or disc, called a "record". To recreate the sound, the surface is similarly rotated while a playback stylus traces the groove and is therefore vibrated by it, very faintly reproducing the recorded sound. In early acoustic phonographs, the stylus vibrated a diaphragm which produced sound waves which were coupled to the open air through a flaring horn, or directly to the listener's ears through stethoscope-type earphones.
 
 The phonograph was invented in 1877 by Thomas Edison.[1][2][3][4] While other inventors had produced devices that could record sounds, Edison's phonograph was the first to be able to reproduce the recorded sound. His phonograph originally recorded sound onto a tinfoil sheet wrapped around a rotating cylinder. A stylus responding to sound vibrations produced an up and down or hill-and-dale groove in the foil. Alexander Graham Bell's Volta Laboratory made several improvements in the 1880s and introduced the _graphophone_, including the use of wax-coated cardboard cylinders and a cutting stylus that moved from side to side in a zigzag groove around the record. In the 1890s, Emile Berliner initiated the transition from phonograph cylinders to flat discs with a spiral groove running from the periphery to near the center, coining the term _gramophone_ for disc record players, which is predominantly used in many languages. Later improvements through the years included modifications to the turntable and its drive system, the stylus or needle, and the sound and equalization systems.
 
@@ -21,7 +21,7 @@ In British English, "gramophone" may refer to any sound-reproducing machine usin
 
 United States
 
-Early_phonograph,_Deaf_Smith_County_Museum,_Hereford,_TX_IMG_4857.JPG in Hereford, Texas]]
+in Hereford, Texas]]
 
 In American English, "phonograph", properly specific to machines made by Edison, was sometimes used in a generic sense as early as the 1890s to include cylinder-playing machines made by others. But it was then considered strictly incorrect to apply it to Emile Berliner's upstart Gramophone, a very different machine which played discs. "Talking machine" was the comprehensive generic term, but from about 1902 on, the general public was increasingly applying the word "phonograph" indiscriminately to both cylinder and disc machines and to the records they played. By the time of the First World War, the mass advertising and popularity of the Victrola (a line of disc-playing machines characterized by their concealed horns) sold by the Victor Talking Machine Company was leading to widespread generic use of the word "victrola" for any machine that played discs, which were generally called "phonograph records" or simply "records", but almost never "Victrola records".
 
@@ -33,11 +33,9 @@ _Gramophone_, as a brand name, was not used in the United States after 1902, and
 
 Modern amplifier-component manufacturers continue to label the input jack which accepts the output from a modern magnetic pickup cartridge as the "phono" input, abbreviated from "phonograph".
 
-Phonograph.jpg
-
 Australia
 
-In Australian English, "record player" was the term; "turntable" was a more technical term; "gramophone" was restricted to the old mechanical (i.e., wind-up) players; and "phonograph" was used as in British English. The "phonograph" was first demonstrated in Australia on 14 June, 1878 to a meeting of the Royal Society of Victoria by the Society's Honorary Secretary, Alex Sutherland who published "The Sounds of the Consonants, as Indicated by the Phonograph" in the Society's journal in November that year.[7] On 8 August, 1878 the phonograph was publicly demonstrated at the Society's annual _conversazione_, along with a range of other new inventions, including the microphone.[8] Conversatione_of_the_Royal_Society_of_Victoria.jpg
+In Australian English, "record player" was the term; "turntable" was a more technical term; "gramophone" was restricted to the old mechanical (i.e., wind-up) players; and "phonograph" was used as in British English. The "phonograph" was first demonstrated in Australia on 14 June, 1878 to a meeting of the Royal Society of Victoria by the Society's Honorary Secretary, Alex Sutherland who published "The Sounds of the Consonants, as Indicated by the Phonograph" in the Society's journal in November that year.[7] On 8 August, 1878 the phonograph was publicly demonstrated at the Society's annual _conversazione_, along with a range of other new inventions, including the microphone.[8]
 
 
 Early history
@@ -48,7 +46,7 @@ Several inventors devised machines to record sound prior to Thomas Edison's phon
 
 Phonautograph
 
-Phonautograph-cent2.png. This version uses a barrel made of plaster of Paris.]]
+. This version uses a barrel made of plaster of Paris.]]
 
 Direct tracings of the vibrations of sound-producing objects such as tuning forks had been made by English physician Thomas Young in 1807,[9] but the first known device for recording airborne speech, music and other sounds is the phonautograph, patented in 1857 by French typesetter and inventor Édouard-Léon Scott de Martinville. In this device, sound waves travelling through the air vibrated a parchment diaphragm which was linked to a bristle, and the bristle traced a line through a thin coating of soot on a sheet of paper wrapped around a rotating cylinder. The sound vibrations were recorded as undulations or other irregularities in the traced line. Scott's phonautograph was intended purely for the visual study and analysis of the tracings. Reproduction of the recorded sound was not possible with the original phonautograph.[10]
 
@@ -68,7 +66,7 @@ Throughout the first decade (1890–1900) of commercial production of the earlie
 
 The Early Phonographs
 
-PhonographPatentEdison1880.jpg for Edison's phonograph, May 18, 1880]]
+for Edison's phonograph, May 18, 1880]]
 
 Thomas Alva Edison conceived the principle of recording and reproducing sound between May and July 1877 as a byproduct of his efforts to "play back" recorded telegraph messages and to automate speech sounds for transmission by telephone.[17] His first experiments were with waxed paper.[18] He announced his invention of the first _phonograph_, a device for recording and replaying sound, on November 21, 1877 (early reports appear in Scientific American and several newspapers in the beginning of November, and an even earlier announcement of Edison working on a 'talking-machine' can be found in the Chicago Daily Tribune on May 9), and he demonstrated the device for the first time on November 29 (it was patented on February 19, 1878 as US Patent 200,521). "In December, 1877, a young man came into the office of the SCIENTIFIC AMERICAN, and placed before the editors a small, simple machine about which very few preliminary remarks were offered. The visitor without any ceremony whatever turned the crank, and to the astonishment of all present the machine said: "Good morning. How do you do? How do you like the phonograph?" The machine thus spoke for itself, and made known the fact that it was the phonograph..."[19]
 
@@ -86,7 +84,7 @@ The Argus (Melbourne) newspaper reported on an 1878 demonstration at the Royal S
 
 Early machines
 
-Edison_phonograph_1912.jpg, 1912. The clockwork portion of the phonograph is concealed in the base beneath the statue; the amplifying horn is the shell behind the human figure.]]
+, 1912. The clockwork portion of the phonograph is concealed in the base beneath the statue; the amplifying horn is the shell behind the human figure.]]
 
 Edison's early phonographs recorded onto a thin sheet of metal, normally tinfoil, which was temporarily wrapped around a helically grooved cylinder mounted on a correspondingly threaded rod supported by plain and threaded bearings. While the cylinder was rotated and slowly progressed along its axis, the airborne sound vibrated a diaphragm connected to a stylus that indented the foil into the cylinder's groove, thereby recording the vibrations as "hill-and-dale" variations of the depth of the indentation.[22]
 
@@ -127,8 +125,6 @@ In 1879 Hubbard got Bell interested in improving the phonograph, and it was agre
 
 Volta Graphophone
 
-Transcription_using_cylinder_phonograph.png
-
 By 1881, the Volta associates had succeeded in improving an Edison tinfoil machine to some extent. Wax was put in the grooves of the heavy iron cylinder, and no tinfoil was used. Rather than apply for a patent at that time, however, they deposited the machine in a sealed box at the Smithsonian, and specified that it was not to be opened without the consent of two of the three men.
 
 The sound vibrations had been indented in the wax which had been applied to the Edison phonograph. The following was the text of one of their recordings: "There are more things in heaven and earth, Horatio, than are dreamed of in your philosophy. I am a Graphophone and my mother was a phonograph."[37] Most of the disc machines designed at the Volta Lab had their disc mounted on vertical turntables. The explanation is that in the early experiments, the turntable, with disc, was mounted on the shop lathe, along with the recording and reproducing heads. Later, when the complete models were built, most of them featured vertical turntables.[38]
@@ -141,7 +137,7 @@ The basic distinction between the Edison's first phonograph patent and the Bell 
 
 Graphophone commercialization
 
-Graphophone1901.jpg Edison_Phonograph_1AA.webm In 1885, when the Volta Associates were sure that they had a number of practical inventions, they filed patent applications and began to seek out investors. The Volta Graphophone Company of Alexandria, Virginia, was created on January 6, 1886 and incorporated on February 3, 1886. It was formed to control the patents and to handle the commercial development of their sound recording and reproduction inventions, one of which became the first Dictaphone.[41]
+In 1885, when the Volta Associates were sure that they had a number of practical inventions, they filed patent applications and began to seek out investors. The Volta Graphophone Company of Alexandria, Virginia, was created on January 6, 1886 and incorporated on February 3, 1886. It was formed to control the patents and to handle the commercial development of their sound recording and reproduction inventions, one of which became the first Dictaphone.[41]
 
 After the Volta Associates gave several demonstrations in the City of Washington, businessmen from Philadelphia created the American Graphophone Company on March 28, 1887, in order to produce and sell the machines for the budding phonograph marketplace.[42] The Volta Graphophone Company then merged with American Graphophone,[43] which itself later evolved into Columbia Records.[44][45]
 
@@ -160,7 +156,7 @@ Recordings made on a cylinder remain at a constant linear velocity for the entir
 
 Edison's patented recording method recorded with vertical modulations in a groove. Berliner utilized a laterally modulated groove.
 
-VictorVPhonograph.jpg Though Edison's recording technology was better than Berliner's, there were commercial advantages to a disc system since the disc could be easily mass-produced by molding and stamping and it required less storage space for a collection of recordings.
+Though Edison's recording technology was better than Berliner's, there were commercial advantages to a disc system since the disc could be easily mass-produced by molding and stamping and it required less storage space for a collection of recordings.
 
 Berliner successfully argued that his technology was different enough from Edison's that he did not need to pay royalties on it, which reduced his business expenses.
 
@@ -171,7 +167,7 @@ From the mid-1890s until World War I, both phonograph cylinder and disc recordin
 
 Dominance of the disc record
 
-Portable_78_rpm_record_player.jpg (His Master's Voice)]] Berliner's lateral disc record was the ancestor of the 78 rpm, 45 rpm, 33⅓ rpm, and all other analogue disc records popular for use in sound recording. See gramophone record.
+(His Master's Voice)]] Berliner's lateral disc record was the ancestor of the 78 rpm, 45 rpm, 33⅓ rpm, and all other analogue disc records popular for use in sound recording. See gramophone record.
 
 The 1920s brought improved radio technology and radio sales, bringing many phonograph dealers to near financial ruin. With efforts at improved audio fidelity, the big record companies succeeded in keeping business booming through the end of the decade, but the record sales plummeted during the Great Depression, with many companies merging or going out of business.
 
@@ -184,8 +180,6 @@ Booms in record sales returned after the Second World War, as industry standards
 Shortcomings include surface noise caused by dirt or abrasions (scratches) and failure caused by deep surface scratches causing skipping of the stylus forward and missing a section, or groove lock, causing a section to repeat, usually punctuated by a popping noise. This was so common that the phrase: "you sound like a broken record,” was coined, referring to someone who is being annoyingly repetitious.
 
 First all-transistor phonograph
-
-Philco_All-Transistor_Phonograph-1955.jpg Philco_TPA-1_All-Transistor_phonograph_-_Radio_and_Television_News_Oct_1955.jpg
 
 In 1955, Philco developed and produced the world's first all-transistor phonograph models TPA-1 and TPA-2, which were announced in the June 28, 1955 edition of the _Wall Street Journal_.[52] Philco started to sell these all-transistor phonographs in the fall of 1955, for the price of $59.95. The October 1955 issue of _Radio & Television News_ magazine (page 41), had a full page detailed article on Philco's new consumer product. The all-transistor portable phonograph TPA-1 and TPA-2 models played only 45rpm records and used four 1.5 volt "D" batteries for their power supply. The "TPA" stands for "Transistor Phonograph Amplifier". Their circuitry used three Philco germanium PNP alloy-fused junction audio frequency transistors. After the 1956 season had ended, Philco decided to discontinue both models, for transistors were too expensive compared to vacuum tubes,[53][54] but by 1961 a $49.95 ($ in ) portable, battery-powered radio-phonograph with seven transistors was available.[55]
 
@@ -202,7 +196,7 @@ By the turn of the 21st century, the turntable had become a niche product, as th
 
 Turntable technology
 
-Romanian_pickup1.jpg turntable atop an Electromureș (Unitra-Diora) receiver, circa 1979]] Bluetooth_turntables_at_Bed_Bath_jeh.jpg
+turntable atop an Electromureș (Unitra-Diora) receiver, circa 1979]]
 
 Turntable construction
 
@@ -247,7 +241,7 @@ Arm systems
 
 The tone arm (or tonearm) holds the pickup cartridge over the groove, the stylus tracking the groove with the desired force to give the optimal compromise between good tracking and minimizing wear of the stylus and record groove. At its simplest, a tone arm is a pivoted lever, free to move in two axes (vertical and horizontal) with a counterbalance to maintain tracking pressure.
 
-Gr_cwg_02_ubt.jpeg adjustment.]] However, the requirements of high-fidelity reproduction place more demands upon the arm design. In a perfect world:
+adjustment.]] However, the requirements of high-fidelity reproduction place more demands upon the arm design. In a perfect world:
 
 -   The tone arm must track the groove without distorting the stylus assembly, so an ideal arm would have no mass, and frictionless bearings, requiring zero force to move it.
 -   The arm should not oscillate following a displacement, so it should either be both light and very stiff, or suitably damped.
@@ -262,13 +256,13 @@ Prices varied widely. The well-known and extremely popular high-end S-type SME a
 
 Quality arms employ an adjustable counterweight to offset the mass of the arm and various cartridges and headshells. On this counterweight, a calibrated dial enables easy adjustment of stylus force. After perfectly balancing the arm, the dial itself is "zeroed"; the stylus force can then be dialed in by screwing the counterweight towards the fulcrum. (Sometimes a separate spring or smaller weight provides fine tuning.) Stylus forces of 10 to 20 mN (1 to 2 grams-force) are typical for modern consumer turntables, while forces of up to 50 mN (5 grams) are common for the tougher environmental demands of party deejaying or turntablism. Of special adjustment consideration, Stanton cartridges of the 681EE(E) series [and others like them] feature a small record brush ahead of the cartridge. The upforce of this brush, and its added drag require compensation of both tracking force (add 1 gram) and anti-skating adjustment values (see next paragraph for description).
 
-Romanian_pickup2.jpg Even on a perfectly flat LP, tonearms are prone to two types of tracking errors that affect the sound. As the tonearm tracks the groove, the stylus exerts a frictional force tangent to the arc of the groove, and since this force does not intersect the tone arm pivot, a clockwise rotational force (moment) occurs and a reaction _skating force_ is exerted on the stylus by the record groove wall away from center of the disc. Modern arms provide an _anti-skate_ mechanism, using springs, hanging weights, or magnets to produce an offsetting counter-clockwise force at the pivot, making the net lateral force on the groove walls near zero. The second error occurs as the arm sweeps in an arc across the disc, causing the angle between the cartridge head and groove to change slightly. A change in angle, albeit small, will have a detrimental effect (especially with stereo recordings) by creating different forces on the two groove walls, as well as a slight timing shift between left/right channels. Making the arm longer to reduce this angle is a partial solution, but less than ideal. A longer arm weighs more, and only an infinitely long [pivoted] arm would reduce the error to zero. Some designs (Burne-Jones, and Garrard "Zero" series) use dual arms in a parallelogram arrangement, pivoting the cartridge head to maintain a constant angle as it moves across the record. Unfortunately this "solution" creates more problems than it solves, compromising rigidity and creating sources of unwanted noise.
+Even on a perfectly flat LP, tonearms are prone to two types of tracking errors that affect the sound. As the tonearm tracks the groove, the stylus exerts a frictional force tangent to the arc of the groove, and since this force does not intersect the tone arm pivot, a clockwise rotational force (moment) occurs and a reaction _skating force_ is exerted on the stylus by the record groove wall away from center of the disc. Modern arms provide an _anti-skate_ mechanism, using springs, hanging weights, or magnets to produce an offsetting counter-clockwise force at the pivot, making the net lateral force on the groove walls near zero. The second error occurs as the arm sweeps in an arc across the disc, causing the angle between the cartridge head and groove to change slightly. A change in angle, albeit small, will have a detrimental effect (especially with stereo recordings) by creating different forces on the two groove walls, as well as a slight timing shift between left/right channels. Making the arm longer to reduce this angle is a partial solution, but less than ideal. A longer arm weighs more, and only an infinitely long [pivoted] arm would reduce the error to zero. Some designs (Burne-Jones, and Garrard "Zero" series) use dual arms in a parallelogram arrangement, pivoting the cartridge head to maintain a constant angle as it moves across the record. Unfortunately this "solution" creates more problems than it solves, compromising rigidity and creating sources of unwanted noise.
 
 The pivoted arm produces yet another problem which is unlikely to be significant to the audiophile, though. As the master was originally cut in a linear motion from the edge towards the center, but the stylus on the pivoted arm always draws an arc, this causes a timing drift that is most significant when digitizing music and beat mapping the data for synchronization with other songs in a DAW or DJ software unless the software allows building a non-linear beat map. As the contact point of the stylus on the record wanders farther from the linear path between the starting point and center hole, the tempo and pitch tend to decrease towards the middle of the record, until the arc reaches its apex. After that the tempo and pitch increase towards the end as the contact point comes closer to the linear path again. Because the surface speed of the record is lower at the end, the relative speed error from the same absolute distance error is higher at the end, and the increase in tempo is more notable towards the end than the decrease towards the middle. This can be somewhat reduced by a curved arm pivoted so that the end point of the arc stays farther from the linear path than the starting point, or by a long straight arm that pivots perpendicularly to the linear path in the middle of the record. However the tempo droop at the middle can only be completely avoided by a linear tracking arm.
 
 Linear tracking
 
-Technics_SL-Q6.JPG If the arm is not pivoted, but instead carries the stylus along a radius of the disc, there is no skating force and little to no cartridge angle error. Such arms are known as _linear tracking_ or _tangential_ arms. These are driven along a track by various means, from strings and pulleys, to worm gears or electromagnets. The cartridge's position is usually regulated by an electronic servomechanism or mechanical interface, moving the stylus properly over the groove as the record plays, or for song selection.
+If the arm is not pivoted, but instead carries the stylus along a radius of the disc, there is no skating force and little to no cartridge angle error. Such arms are known as _linear tracking_ or _tangential_ arms. These are driven along a track by various means, from strings and pulleys, to worm gears or electromagnets. The cartridge's position is usually regulated by an electronic servomechanism or mechanical interface, moving the stylus properly over the groove as the record plays, or for song selection.
 
 There are long-armed and short-armed linear arm designs. On a perfectly flat record a short arm will do, but once the record is even slightly warped, a short arm will be troublesome. Any vertical motion of the record surface at the stylus contact point will cause the stylus to considerably move longitudinally in the groove. This will cause the stylus to ride non-tangentially in the groove and cause a stereo phase error as well as pitch error every time the stylus rides over the warp. Also the arm track can come into touch with the record. A long arm will not completely eliminate this problem but will tolerate warped records much better.
 
@@ -280,8 +274,6 @@ Since the early 1980s, an elegant solution has been the near-frictionless air be
 
 
 Pickup systems
-
-NadelAufPlatte.JPG
 
 Historically, most high-fidelity "component" systems (preamplifiers or receivers) that accepted input from a phonograph turntable had separate inputs for both ceramic and magnetic cartridges (typically labeled "CER" and "MAG"). One piece systems often had no additional phono inputs at all, regardless of type.
 
@@ -336,7 +328,7 @@ An alternative approach is to take a high-resolution photograph or scan of each 
 
 Stylus
 
-RedDevilNeedle.jpg using shellac 78 rpm records, 1940s]] A smooth-tipped _stylus_ (in popular usage often called a _needle_ due to the former use of steel needles for the purpose) is used to play the recorded groove. A special chisel-like stylus is used to engrave the groove into the _master record_.
+using shellac 78 rpm records, 1940s]] A smooth-tipped _stylus_ (in popular usage often called a _needle_ due to the former use of steel needles for the purpose) is used to play the recorded groove. A special chisel-like stylus is used to engrave the groove into the _master record_.
 
 The stylus is subject to hard wear as it is the only small part that comes into direct contact with the spinning record. In terms of the pressure imposed on its minute areas of actual contact, the forces it must bear are enormous. There are three desired qualities in a stylus: first, that it faithfully follows the contours of the recorded groove and transmits its vibrations to the next part in the chain; second, that it does not damage the recorded disc; and third, that it is resistant to wear. A worn-out, damaged or defective stylus tip will degrade audio quality and injure the groove.
 
@@ -344,7 +336,7 @@ Different materials for the stylus have been used over time. Thomas Edison intro
 
 Other than the Edison and European Pathé disc machines, early disc players, both external horn and internal horn "Victrola" style models, normally used very short-lived disposable needles. The most common material was steel, although other materials such as copper, tungsten, bamboo and cactus were used. Steel needles needed to be replaced frequently, preferably after each use, due to their very rapid wear from bearing down heavily on the mildly abrasive shellac record. Rapid wear was an essential feature so that their imprecisely formed tips would be quickly worn into compliance with the groove's contours. Advertisements implored customers to replace their steel needles after each record side. Steel needles were inexpensive, e.g., a box of 500 for 50 US cents, and were widely sold in packets and small tins. They were available in different thicknesses and lengths. Thick, short needles produced strong, loud tones while thinner, longer needles produces softer, muted tones. In 1916, in the face of a wartime steel shortage, Victor introduced their "Tungs-Tone" brand extra-long-playing needle, which was advertised to play between 100 and 300 records. It consisted of a brass shank into which a very hard and strong tungsten wire, somewhat narrower than the standard record groove, had been fitted. The protruding wire wore down, but not out, until it was worn too short to use. Later in the 78 rpm era, hardened steel and chrome-plated needles came on the market, some of which were claimed to play 10 to 20 record sides each.
 
-When sapphires were introduced for the 78 rpm disc and the LP, they were made by tapering a stem and polishing the tip to a sphere with a radius of around 70 and 25 micrometers respectively. A sphere is not equal to the form of the cutting stylus and by the time diamond needles came to the market, a whole discussion was started on the effect of circular forms moving through a non-circular cut groove. It can be easily shown that vertical, so called "pinching" movements were a result and when stereophonic LPs were introduced, unwanted vertical modulation was recognized as a problem. Also, the needle started its life touching the groove on a very small surface, giving extra wear on the walls. Spherical_vs._Elliptical_Styli.jpg
+When sapphires were introduced for the 78 rpm disc and the LP, they were made by tapering a stem and polishing the tip to a sphere with a radius of around 70 and 25 micrometers respectively. A sphere is not equal to the form of the cutting stylus and by the time diamond needles came to the market, a whole discussion was started on the effect of circular forms moving through a non-circular cut groove. It can be easily shown that vertical, so called "pinching" movements were a result and when stereophonic LPs were introduced, unwanted vertical modulation was recognized as a problem. Also, the needle started its life touching the groove on a very small surface, giving extra wear on the walls.
 
 Another problem is in the tapering along a straight line, while the side of the groove is far from straight. Both problems were attacked together: by polishing the diamond in a certain way that it could be made doubly elliptic. 1) the side was made into one ellipse as seen from behind, meaning the groove touched along a short line and 2) the ellipse form was also polished as seen from above and curvature in the direction of the groove became much smaller than 25 micrometers e.g. 13 micrometers. With this approach a number of irregularities were eliminated. Furthermore, the angle of the stylus, which used to be always sloping backwards, was changed into the forward direction, in line with the slope the original cutting stylus possessed. These styli were expensive to produce, but the costs were effectively offset by their extended lifespans.
 
@@ -387,7 +379,7 @@ Since the late 1950s, almost all phono input stages have used the RIAA equalizat
 
 Phonographs in the 21st century
 
-Fonoteca_Nacional_02.JPG (National Sound Archive of Mexico)]] Turntables continue to be manufactured and sold in the 2010s, although in small numbers. While some audiophiles still prefer the sound of vinyl records over that of digital music sources (mainly compact discs), they represent a minority of listeners. As of 2015 the sale of vinyl LP's has increased 49–50% percent from the previous year although small in comparison to the sale of other formats which although more units were sold (Digital Sales, CDs) the more modern formats experienced a decline in sales.[72] The quality of available record players, tonearms, and cartridges has continued to improve, despite diminishing demand, allowing turntables to remain competitive in the high-end audio market. Vinyl enthusiasts are often committed to the refurbishment and sometimes tweaking of vintage systems. The chart on the right illustrates that users of one enthusiasts' forum post as many pictures of discontinued gear as they do of current models.
+(National Sound Archive of Mexico)]] Turntables continue to be manufactured and sold in the 2010s, although in small numbers. While some audiophiles still prefer the sound of vinyl records over that of digital music sources (mainly compact discs), they represent a minority of listeners. As of 2015 the sale of vinyl LP's has increased 49–50% percent from the previous year although small in comparison to the sale of other formats which although more units were sold (Digital Sales, CDs) the more modern formats experienced a decline in sales.[72] The quality of available record players, tonearms, and cartridges has continued to improve, despite diminishing demand, allowing turntables to remain competitive in the high-end audio market. Vinyl enthusiasts are often committed to the refurbishment and sometimes tweaking of vintage systems. The chart on the right illustrates that users of one enthusiasts' forum post as many pictures of discontinued gear as they do of current models.
 
 In 2017, vinyl LP sales were slightly decreased, at a rate of 5%, in comparison to previous years’ numbers, regardless of the noticeable rise of vinyl records sales worldwide.[73]
 

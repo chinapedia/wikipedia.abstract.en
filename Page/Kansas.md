@@ -7,13 +7,13 @@ By 2015, Kansas was one of the most productive agricultural states, producing hi
 
 History
 
-War_dance_in_the_interiour_of_a_Konza_lodge.jpg lodge and dance is the oldest drawing known to be done in Kansas.]]
+lodge and dance is the oldest drawing known to be done in Kansas.]]
 
 For a millennium, the land that is currently Kansas was inhabited by Native Americans. The first European to set foot in present-day Kansas was the Spanish conquistador Francisco Vázquez de Coronado, who explored the area in 1541. In 1803, most of modern Kansas was acquired by the United States as part of the Louisiana Purchase. Southwest Kansas, however, was still a part of Spain, Mexico, and the Republic of Texas until the conclusion of the Mexican–American War in 1848, when these lands were ceded to the United States. From 1812 to 1821, Kansas was part of the Missouri Territory. The Santa Fe Trail traversed Kansas from 1821 to 1880, transporting manufactured goods from Missouri and silver and furs from Santa Fe, New Mexico. Wagon ruts from the trail are still visible in the prairie today.
 
 In 1827, Fort Leavenworth became the first permanent settlement of white Americans in the future state.[13] The Kansas–Nebraska Act became law on May 30, 1854, establishing Nebraska Territory and Kansas Territory, and opening the area to broader settlement by whites. Kansas Territory stretched all the way to the Continental Divide and included the sites of present-day Denver, Colorado Springs, and Pueblo.
 
-Battle_of_Lawrence.png on Lawrence]]
+on Lawrence]]
 
 Missouri and Arkansas sent settlers into Kansas all along its eastern border. These settlers attempted to sway votes in favor of slavery. The secondary settlement of Americans in Kansas Territory were abolitionists from Massachusetts and other Free-Staters, who attempted to stop the spread of slavery from neighboring Missouri. Directly presaging the American Civil War, these forces collided, entering into skirmishes that earned the territory the name of Bleeding Kansas.
 
@@ -28,7 +28,7 @@ In response to demands of Methodists and other evangelical Protestants, in 1881 
 
 Geography
 
-Great_Plains_LCC_(14285769265).jpg of Kansas]] Kanopolissp.JPG]] Wabaunsee_County_View.JPG in Wabaunsee County]]
+of Kansas]] ]] in Wabaunsee County]]
 
 Kansas is bordered by Nebraska on the north; Missouri on the east; Oklahoma on the south; and Colorado on the west. The state is divided into 105 counties with 628 cities, and is located equidistant from the Pacific and Atlantic oceans. The geographic center of the 48 contiguous states is in Smith County near Lebanon. Until 1989, the Meades Ranch Triangulation Station in Osborne County was the geodetic center of North America: the central reference point for all maps of North America. The geographic center of Kansas is in Barton County.
 
@@ -42,7 +42,7 @@ The western two-thirds of the state, lying in the great central plain of the Uni
 
 Rivers
 
-Spring_River_2006-07-03_2104.jpg, Kansas]]
+, Kansas]]
 
 Nearly of the state's northeastern boundary is defined by the Missouri River. The Kansas River (locally known as the Kaw), formed by the junction of the Smoky Hill and Republican rivers at appropriately-named Junction City, joins the Missouri River at Kansas City, after a course of across the northeastern part of the state.
 
@@ -68,8 +68,6 @@ Areas under the protection of the National Park Service include:[18]
 Flora and fauna
 
 Climate
-
-Kansas_Köppen.svg Kansas_Windmills.JPG Kansas_Summer_Wheat_and_Storm_Panorama.jpg
 
 According to the Köppen climate classification, Kansas's climate can be characterized in terms of three types: it has humid continental, semi-arid steppe, and humid subtropical. The eastern two-thirds of the state (especially the northeastern portion) has a humid continental climate, with cool to cold winters and hot, often humid summers. Most of the precipitation falls during both the summer and the spring.
 
@@ -149,8 +147,6 @@ Mexicans are present in the southwest and make up nearly half the population in 
 
 As of 2011, 35.0% of Kansas's population younger than one year of age belonged to minority groups (i.e., did not have two parents of non-Hispanic white ancestry).[35]
 
-Kansas_population_map.png
-
 Language
 
 English is the most-spoken language in Kansas, and Spanish is second.[36]
@@ -188,7 +184,7 @@ The 2014 Pew Religious Landscape Survey showed the religious makeup of adults in
 
     Don't know < 1%
 
-Charles_M_Sheldon.jpg, Topeka resident and coiner of the phrase "what would Jesus do?"]]
+, Topeka resident and coiner of the phrase "what would Jesus do?"]]
 
 As of 2010, the Association of Religion Data Archives (ARDA) reported that the Catholic Church has the highest number of adherents in Kansas (at 426,611), followed by the United Methodist Church with 202,989 members, and the Southern Baptist Convention, reporting 99,329 adherents.[38]
 
@@ -294,15 +290,13 @@ Olathe is the county seat and home to Johnson County Executive Airport. The citi
 
 Several institutions of higher education are located in Northeast Kansas including Baker University (the oldest university in the state, founded in 1858 and affiliated with the United Methodist Church) in Baldwin City, Benedictine College (sponsored by St. Benedict's Abbey and Mount St. Scholastica Monastery and formed from the merger of St. Benedict's College (1858) and Mount St. Scholastica College (1923)) in Atchison, MidAmerica Nazarene University in Olathe, Ottawa University in Ottawa and Overland Park, Kansas City Kansas Community College and KU Medical Center in Kansas City, and KU Edwards Campus in Overland Park. Less than an hour's drive to the west, Lawrence is home to the University of Kansas, the largest public university in the state, and Haskell Indian Nations University.
 
-Milky_Way_over_Monument_Rocks,_Kansas,_USA.jpg
-
 To the north, Kansas City, with the second largest land area in the state, contains a number of diverse ethnic neighborhoods. Its attractions include the Kansas Speedway, Sporting Kansas City, Kansas City T-Bones, Schlitterbahn, and The Legends at Village West retail and entertainment center. Nearby, Kansas's first settlement Bonner Springs [48] is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. Further up the Missouri River, the city of Lansing is the home of the state's first maximum-security prison. Historic Leavenworth, founded in 1854, was the first incorporated city in Kansas. North of the city, Fort Leavenworth is the oldest active Army post west of the Mississippi River. The city of Atchison was an early commercial center in the state and is well known as the birthplace of Amelia Earhart.
 
 To the west, nearly a quarter million people reside in the Topeka metropolitan area. Topeka is the state capital and home to Washburn University and Washburn Institute of Technology. Built at a Kansas River crossing along the old Oregon Trail, this historic city has several nationally registered historic places. Further westward along Interstate 70 and the Kansas River is Junction City with its historic limestone and brick buildings and nearby Fort Riley, well known as the home to the U.S. Army's 1st Infantry Division (nicknamed "the Big Red One"). A short distance away, the city of Manhattan is home to Kansas State University, the second-largest public university in the state and the nation's oldest land-grant university, dating back to 1863. South of the campus, Aggieville dates back to 1889 and is the state's oldest shopping district of its kind.
 
 Wichita
 
-Wichita_pan_1.jpg, the largest city in the state of Kansas]]
+, the largest city in the state of Kansas]]
 
 In south-central Kansas, the Wichita metropolitan area is home to over 600,000 people.[49] Wichita is the largest city in the state in terms of both land area and population. 'The Air Capital' is a major manufacturing center for the aircraft industry and the home of Wichita State University. Before Wichita was 'The Air Capital' it was a Cowtown.[50] With a number of nationally registered historic places, museums, and other entertainment destinations, it has a desire to become a cultural mecca in the Midwest. Wichita's population growth has grown by double digits and the surrounding suburbs are among the fastest growing cities in the state. The population of Goddard has grown by more than 11% per year since 2000.[51] Other fast-growing cities include Andover, Maize, Park City, Derby, and Haysville.
 
@@ -311,8 +305,6 @@ Wichita was one of the first cities to add the city commissioner and city manage
 Up river (the Arkansas River) from Wichita is the city of Hutchinson. The city was built on one of the world's largest salt deposits, and it has the world's largest and longest wheat elevator. It is also the home of Kansas Cosmosphere and Space Center, Prairie Dunes Country Club and the Kansas State Fair. North of Wichita along Interstate 135 is the city of Newton, the former western terminal of the Santa Fe Railroad and trailhead for the famed Chisholm Trail. To the southeast of Wichita are the cities of Winfield and Arkansas City with historic architecture and the Cherokee Strip Museum (in Ark City). The city of Udall was the site of the deadliest tornado in Kansas on May 25, 1955; it killed 80 people in and near the city.[54] To the southwest of Wichita is Freeport, the state's smallest incorporated city (population 5).
 
 Around the state
-
-09DI1525-23_-_Flickr_-_USDAgov.jpg
 
 Located midway between Kansas City, Topeka, and Wichita in the heart of the Bluestem Region of the Flint Hills, the city of Emporia has several nationally registered historic places and is the home of Emporia State University, well known for its Teachers College. It was also the home of newspaper man William Allen White.
 
@@ -324,13 +316,9 @@ Central and North-Central Kansas
 
 Salina is the largest city in central and north-central Kansas. South of Salina is the small city of Lindsborg with its numerous Dala horses. Much of the architecture and decor of this town has a distinctly Swedish style. To the east along Interstate 70, the historic city of Abilene was formerly a trailhead for the Chisholm Trail and was the boyhood home of President Dwight D. Eisenhower, and is the site of his Presidential Library and the tombs of the former President, First Lady and son who died in infancy. To the west is Lucas, the Grassroots Art Capital of Kansas.
 
-Kansas_Farmland_4891551781.jpg
-
 Northwest Kansas
 
-Aerial_view_Lawrence,_Kansas_8-31-2013.JPG
-
-Kansas_City_Kansas_aerial_view.jpg]]
+]]
 
 Westward along the Interstate, the city of Russell, traditionally the beginning of sparsely-populated northwest Kansas, was the base of former U.S. Senator Bob Dole and the boyhood home of U.S. Senator Arlen Specter. The city of Hays is home to Fort Hays State University and the Sternberg Museum of Natural History, and is the largest city in the northwest with a population of around 20,001.
 
@@ -396,7 +384,7 @@ In February 2017, a bi-partisan coalition presented a bill that would repeal the
 
 Transportation
 
-I35Kansas.jpg as it enters Kansas in Rosedale.]]
+as it enters Kansas in Rosedale.]]
 
 Highways
 
@@ -409,8 +397,6 @@ I-35 is a major north–south route connecting to Oklahoma City, Oklahoma and De
 Spur routes serve as connections between the two major routes. I-135, a north–south route, connects I-35 at Wichita to I-70 at Salina. I-335, a southwest–northeast route, connects I-35 at Emporia to I-70 at Topeka. I-335 and portions of I-35 and I-70 make up the Kansas Turnpike. Bypasses include I-470 around Topeka, I-235 around Wichita, and I-670 in downtown Kansas City. I-435 is a beltway around the Kansas City metropolitan area while I-635 bypasses through Kansas City.
 
 U.S. Route 69 (US-69) travels south to north, from Oklahoma to Missouri. The highway passes through the eastern section of Kansas, traveling through Baxter Springs, Pittsburg, Frontenac, Fort Scott, Louisburg, and the Kansas City area.
-
-National-atlas-kansas.PNG
 
 Kansas also has the country's third largest state highway system after Texas and California. This is because of the high number of counties and county seats (105) and their intertwining.
 
@@ -469,8 +455,6 @@ JUDICIAL BRANCH: The judicial branch of the state government is headed by the Ka
 
 Political culture
 
-FEMA_-_33068_-_Greensburg_fire_chief_holding_up_flags_in_Kansas.jpg
-
 Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation. The 1990s brought the defeat of prominent Democrats, including Dan Glickman, and the Kansas State Board of Education's 1999 decision to eliminate evolution from the state teaching standards, a decision that was later reversed.[90] In 2005, voters accepted a constitutional amendment to ban same-sex marriage. The next year, the state passed a law setting a minimum age for marriage at 15 years.[91] Kansas's path to a solid Republican state has been examined by historian Thomas Frank in his 2004 book _What's the Matter with Kansas?_.
 
 Kansas has a history of many firsts in legislative initiatives—it was the first state to institute a system of workers' compensation (1910) and to regulate the securities industry (1911). Kansas also permitted women's suffrage in 1912, almost a decade before the federal constitution was amended to require it. Suffrage in all states would not be guaranteed until ratification of the 19th Amendment to the U.S. Constitution in 1920.
@@ -485,7 +469,7 @@ In 2010, Sam Brownback was elected governor with 63 percent of the state vote. H
 
 National politics
 
-United_States_presidential_election_in_Kansas,_2016.svg of the popular vote by county, 2016 presidential election.]]
+of the popular vote by county, 2016 presidential election.]]
 
 The state's current delegation to the Congress of the United States includes Republican Senators Pat Roberts of Dodge City and Jerry Moran of Manhattan; and Republican Representatives Roger Marshall of Great Bend (District 1), Steve Watkins (District 2), Ron Estes of Wichita (District 4), and Democratic Representative Sharice Davids (District 3).
 
@@ -513,7 +497,7 @@ Twice since 1999 the Board of Education has approved changes in the state scienc
 
 Culture
 
-Overland_Theater.jpg]]
+]]
 
 Music
 
@@ -539,7 +523,7 @@ Lawrence is the setting for a number of science fiction writer James Gunn's nove
 
 Film
 
-Oldest_movie_theater_in_the_world_-_Downtown_Ottawa,_Kansas.jpg Fox_Theater,_Hutchinson,_KS.JPG]]
+]]
 
 The first film theater in Kansas was the Patee Theater in Lawrence. Most theaters at the time only showed films as part of vaudeville acts but not as an exclusive and stand alone form of entertainment. Though the Patee family had been involved in vaudeville, they believed films could carry the evening without other variety acts, but in order to show the films it was necessary for the Patee's to establish a generating plant (back in 1903 Lawrence was not yet fully electrified). The Patee Theater was one of the first of its kind west of the Mississippi River. The specialized equipment like the projector came from New York.[102]
 
@@ -574,7 +558,7 @@ Sports
 
 Professional
 
-Livestrong_Sporting_Park_-_Sporting_KC_v_New_England_Revolution.jpg]]
+]]
 
   Team                   Sport             League                      City
   ---------------------- ----------------- --------------------------- -------------------------------------
@@ -610,7 +594,7 @@ The governing body for intercollegiate sports in the United States, the National
 
 NCAA Division I schools
 
-Allen_Fieldhouse_(3301441111).jpg, home of the Kansas Jayhawks]]
+, home of the Kansas Jayhawks]]
 
 While there are no franchises of the four major professional sports within the state, many Kansans are fans of the state's major college sports teams, especially the Jayhawks of the University of Kansas (KU), and the Wildcats of Kansas State University (KSU or "K-State"). The teams are rivals in the Big 12 Conference.
 

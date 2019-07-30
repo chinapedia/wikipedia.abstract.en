@@ -11,7 +11,7 @@ Important Bird Area
 
 The island has been identified as an Important Bird Area (IBA) by BirdLife International because it supports a very large colony of sooty terns, with up to 100,000 breeding pairs. It also has a much smaller colony of greater crested terns (with at least 50 breeding pairs recorded in 1994). Of at least seven species of land birds present, most are probably introduced.[2]
 
-Juan_de_Nova_Island_and_reef_land_cover_map-fr.jpg Juan_de_Nova_Island_NASA_ISS005_image-georectified.jpg.]]
+.]]
 
 
 History

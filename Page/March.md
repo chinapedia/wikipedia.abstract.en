@@ -3,7 +3,7 @@ MAR}} MARCH is the third month of the year and named after Mars in both the Juli
 
 Origin
 
-Les_Très_Riches_Heures_du_duc_de_Berry_mars.jpg,'' a book of prayers to be said at canonical hours]]
+,'' a book of prayers to be said at canonical hours]]
 
 The name of March comes from _Martius_, the first month of the earliest Roman calendar. It was named after Mars, the Roman god of war, and an ancestor of the Roman people through his sons Romulus and Remus. His month _Martius_ was the beginning of the season for warfare,[1] and the festivals held in his honor during the month were mirrored by others in October, when the season for these activities came to a close.[2] _Martius_ remained the first month of the Roman calendar year perhaps as late as 153 BC,[3] and several religious observances in the first half of the month were originally new year's celebrations.[4] Even in late antiquity, Roman mosaics picturing the months sometimes still placed March first.[5]
 
@@ -23,9 +23,9 @@ In Slovene, the traditional name is _sušec_, meaning the month when the earth b
 
 March symbols
 
-Daffodil.jpg, the floral emblem of March]]
+, the floral emblem of March]]
 
--   5_Brazilian_aquamarine.JPG gemstones]]Bloodstone_gems_stone.jpg]]March's birthstones are aquamarine and bloodstone. These stones symbolize courage.
+-   gemstones]]]]March's birthstones are aquamarine and bloodstone. These stones symbolize courage.
 -   Its birth flower is the daffodil.[7]
 -   The zodiac signs for the month of March are Pisces (until March 20) and Aries (March 21 onwards).
 

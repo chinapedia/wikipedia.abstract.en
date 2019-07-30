@@ -1,5 +1,3 @@
-Loran_C_Navigator.jpg Loran-c-at-100-kHz.ogg
-
 LORAN-C was a _hyperbolic_ radio navigation system that allowed a receiver to determine its position by listening to low frequency radio signals transmitted by fixed land-based radio beacons. Loran-C combined two different techniques to provide a signal that was both long-range and highly accurate, traits that had formerly been at odds. The disadvantage was the expense of the equipment needed to interpret the signals, which meant that Loran-C was used primarily by militaries after it was first introduced in 1957.
 
 By the 1970s the cost, weight and size of electronics needed to implement Loran-C had been dramatically reduced due to the introduction of solid-state electronics, and especially the use of early microcontrollers to interpret the signal. Low-cost and easy-to-use Loran-C units became common from the late 1970s, especially in the early 1980s, leading to the earlier LORAN system being turned off in favour of installing more Loran-C stations around the world. Loran-C became one of the most common and widely used navigation systems for large areas of North America, Europe, Japan and the entire Atlantic and Pacific areas. The Soviet Union operated a nearly identical system, CHAYKA.
@@ -110,7 +108,7 @@ Description
 
 Hyperbolic navigation
 
-Crude_LORAN_diagram.svg In conventional navigation, measuring one's location, or _taking a fix_, is accomplished by taking two measurements against well known locations. In optical systems this is typically accomplished by measuring the angle to two landmarks, and then drawing lines on a nautical chart at those angles, producing an intersection that reveals the ship's location. Radio methods can also use the same concept with the aid of a radio direction finder, but due to the nature of radio propagation, such instruments are subject to significant errors, especially at night. More accurate radio navigation can be made using pulse timing or phase comparison techniques, which rely on the time-of-flight of the signals. In comparison to angle measurements, these remain fairly steady over time, and most of the effects that change these values are fixed objects like rivers and lakes that can be accounted for on charts.
+In conventional navigation, measuring one's location, or _taking a fix_, is accomplished by taking two measurements against well known locations. In optical systems this is typically accomplished by measuring the angle to two landmarks, and then drawing lines on a nautical chart at those angles, producing an intersection that reveals the ship's location. Radio methods can also use the same concept with the aid of a radio direction finder, but due to the nature of radio propagation, such instruments are subject to significant errors, especially at night. More accurate radio navigation can be made using pulse timing or phase comparison techniques, which rely on the time-of-flight of the signals. In comparison to angle measurements, these remain fairly steady over time, and most of the effects that change these values are fixed objects like rivers and lakes that can be accounted for on charts.
 
 Timing systems can reveal the absolute distance to an object, as is the case in radar. The problem in the navigational case is that the receiver has to know when the original signal was sent. In theory, one could synchronize an accurate clock to the signal before leaving port, and then use that to compare the timing of the signal during the voyage. However, in the 1940s no suitable system was available that could hold an accurate signal over the time span of an operational mission.
 
@@ -122,7 +120,7 @@ In practice, radio navigation systems normally use a _chain_ of three or four st
 
 LORAN method
 
-loran_pulse.svg In the case of LORAN, one station remains constant in each application of the principle, the _primary_, being paired up separately with two other _secondary_ stations. Given two secondary stations, the time difference (TD) between the primary and first secondary identifies one curve, and the time difference between the primary and second secondary identifies another curve, the intersections of which will determine a geographic point in relation to the position of the three stations. These curves are referred to as _TD lines_.[22]
+In the case of LORAN, one station remains constant in each application of the principle, the _primary_, being paired up separately with two other _secondary_ stations. Given two secondary stations, the time difference (TD) between the primary and first secondary identifies one curve, and the time difference between the primary and second secondary identifies another curve, the intersections of which will determine a geographic point in relation to the position of the three stations. These curves are referred to as _TD lines_.[22]
 
 In practice, LORAN is implemented in integrated regional arrays, or _chains_, consisting of one _primary_ station and at least two (but often more) _secondary_ stations, with a uniform _group repetition interval_ (GRI) defined in microseconds. The amount of time before transmitting the next set of pulses is defined by the distance between the start of transmission of primary to the next start of transmission of primary signal.
 
@@ -130,13 +128,13 @@ The secondary stations receive this pulse signal from the primary, then wait a p
 
 LORAN chains (GRIs)
 
-LORAN_Station_Malone-Outside-Large.jpg Great Lakes chain (GRI 8970)/Southeast U.S. chain (GRI 7980)]] Every LORAN chain in the world uses a unique Group Repetition Interval, the number of which, when multiplied by ten, gives how many microseconds pass between pulses from a given station in the chain. In practice, the delays in many, but not all, chains are multiples of 100 microseconds. LORAN chains are often referred to by this designation, _e.g._, GRI 9960, the designation for the LORAN chain serving the Northeastern United States.
+Great Lakes chain (GRI 8970)/Southeast U.S. chain (GRI 7980)]] Every LORAN chain in the world uses a unique Group Repetition Interval, the number of which, when multiplied by ten, gives how many microseconds pass between pulses from a given station in the chain. In practice, the delays in many, but not all, chains are multiples of 100 microseconds. LORAN chains are often referred to by this designation, _e.g._, GRI 9960, the designation for the LORAN chain serving the Northeastern United States.
 
 Due to the nature of hyperbolic curves, a particular combination of a primary and two secondary stations can possibly result in a "grid" where the grid lines intersect at shallow angles. For ideal positional accuracy, it is desirable to operate on a navigational grid where the grid lines are closer to right angles (orthogonal) to each other. As the receiver travels through a chain, a certain selection of secondaries whose TD lines initially formed a near-orthogonal grid can become a grid that is significantly skewed. As a result, the selection of one or both secondaries should be changed so that the TD lines of the new combination are closer to right angles. To allow this, nearly all chains provide at least three, and as many as five, secondaries.
 
 LORAN charts
 
-New_York_Harbor_Nautical_Chart.jpg Harbor includes LORAN-A TD lines. Note that the printed lines do not extend into inland waterway areas.]] Where available, common marine nautical charts include visible representations of TD lines at regular intervals over water areas. The TD lines representing a given primary-secondary pairing are printed with distinct colors, and note the specific time difference indicated by each line. On a nautical chart, the denotation for each Line of Position from a receiver, relative to axis and color, can be found at the bottom of the chart. The color on official charts for stations and the timed-lines of position follow no specific conformance for the purpose of the International Hydrographic Organization (IHO). However, local chart producers may color these in a specific conformance to their standard. Always consult the chart notes, administrations Chart1 reference, and information given on the chart for the most accurate information regarding surveys, datum, and reliability.
+Harbor includes LORAN-A TD lines. Note that the printed lines do not extend into inland waterway areas.]] Where available, common marine nautical charts include visible representations of TD lines at regular intervals over water areas. The TD lines representing a given primary-secondary pairing are printed with distinct colors, and note the specific time difference indicated by each line. On a nautical chart, the denotation for each Line of Position from a receiver, relative to axis and color, can be found at the bottom of the chart. The color on official charts for stations and the timed-lines of position follow no specific conformance for the purpose of the International Hydrographic Organization (IHO). However, local chart producers may color these in a specific conformance to their standard. Always consult the chart notes, administrations Chart1 reference, and information given on the chart for the most accurate information regarding surveys, datum, and reliability.
 
 There are three major factors when considering signal delay and propagation in relation to LORAN-C:
 
@@ -153,14 +151,12 @@ Traditional LORAN receivers display the time difference between each pairing of 
 
 Timing and synchronization
 
-LORAN_Station_Malone-Cesiums-Large.jpg Each LORAN station is equipped with a suite of specialized equipment to generate the precisely timed signals used to modulate / drive the transmitting equipment. Up to three commercial cesium atomic clocks are used to generate 5 MHz and pulse per second (or 1 Hz) signals that are used by timing equipment to generate the various GRI-dependent drive signals for the transmitting equipment.
+Each LORAN station is equipped with a suite of specialized equipment to generate the precisely timed signals used to modulate / drive the transmitting equipment. Up to three commercial cesium atomic clocks are used to generate 5 MHz and pulse per second (or 1 Hz) signals that are used by timing equipment to generate the various GRI-dependent drive signals for the transmitting equipment.
 
 While each U.S.-operated LORAN station is supposed to be synchronized to within 100 ns of Coordinated Universal Time (UTC), the actual accuracy achieved as of 1994 was within 500 ns.[23]
 
 
 Transmitters and antennas
-
-LORAN_Station_Malone-Transmitter_Middle-Large.jpg
 
 LORAN-C transmitters operate at peak powers of 100–4,000 kilowatts, comparable to longwave broadcasting stations. Most use 190–220 metre tall mast radiators, insulated from ground. The masts are inductively lengthened and fed by a loading coil (see: electrical length). A well known-example of a station using such an antenna is Rantum. Free-standing tower radiators in this height range are also used . Carolina Beach uses a free-standing antenna tower. Some LORAN-C transmitters with output powers of 1,000 kW and higher used extremely tall mast radiators (see below). Other high power LORAN-C stations, like George, used four T-antennas mounted on four guyed masts arranged in a square.
 
@@ -230,7 +226,7 @@ Despite these plans, in light of the decision by France and Norway to cease Lora
 
 List of LORAN-C transmitters
 
-Loranstationscrkl.jpg A list of LORAN-C transmitters. Stations with an antenna tower taller than 300 metres (984 feet) are shown in bold.
+A list of LORAN-C transmitters. Stations with an antenna tower taller than 300 metres (984 feet) are shown in bold.
 
 +-------------------+--------------------------------+------------------------------------+-------------+--------------------------------------------------------------------------------------------------------------------------------+
 | Station           | Country                        | Chain                              | Coordinates | Remarks                                                                                                                        |

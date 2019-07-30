@@ -62,7 +62,6 @@ DNA evidence supports a South American origin for marsupials, with Australian ma
 
 Anatomy
 
-Koala_climbing_tree.jpg
 (_Phascolarctos cinereus_)]]
 
 Marsupials have the typical characteristics of mammals—e.g., mammary glands, three middle ear bones, and true hair. There are, however, striking differences as well as a number of anatomical features that separate them from Eutherians.
@@ -87,13 +86,13 @@ Some species resemble placental mammals and are examples of convergent evolution
 
 Reproductive system
 
-Kangaroo_and_joey03.jpg with a joey in her pouch]] Marsupials' reproductive systems differ markedly from those of placental mammals.[13][14] During embryonic development, a choriovitelline placenta forms in all marsupials. In bandicoots, an additional chorioallantoic placenta forms, although it lacks the chorionic villi found in eutherian placentas.
+with a joey in her pouch]] Marsupials' reproductive systems differ markedly from those of placental mammals.[13][14] During embryonic development, a choriovitelline placenta forms in all marsupials. In bandicoots, an additional chorioallantoic placenta forms, although it lacks the chorionic villi found in eutherian placentas.
 
 The evolution of reproduction in marsupials, and speculation about the ancestral state of mammalian reproduction, have engaged discussion since the end of the 19th century. Both sexes possess a cloaca,[15] which is connected to a urogenital sac used to store waste before expulsion. The bladder of marsupials functions as a site to concentrate urine and empties into the common urogenital sinus in both females and males.[16]
 
 Male reproductive system
 
-The_cyclopædia_of_anatomy_and_physiology_(1847)_(20821803985).jpg Most male marsupials, except for macropods[17] and marsupial moles,[18] have a bifurcated penis, separated into two columns, so that the penis has two ends corresponding to the females' two vaginas.[19][20][21][22][23][24] The penis is used only during copulation, and is separate from the urinary tract.[25][26] It curves forward when erect,[27] and when not erect, it is retracted into the body in an S-shaped curve.[28] Neither marsupials nor monotremes possess a baculum. The shape of the glans penis varies among marsupial species.[29][30][31][32]
+Most male marsupials, except for macropods[17] and marsupial moles,[18] have a bifurcated penis, separated into two columns, so that the penis has two ends corresponding to the females' two vaginas.[19][20][21][22][23][24] The penis is used only during copulation, and is separate from the urinary tract.[25][26] It curves forward when erect,[27] and when not erect, it is retracted into the body in an S-shaped curve.[28] Neither marsupials nor monotremes possess a baculum. The shape of the glans penis varies among marsupial species.[29][30][31][32]
 
 The male thylacine had a pouch that acted as a protective sheath, covering his external reproductive organs while he ran through thick brush.[33]
 
@@ -103,7 +102,7 @@ The only accessory sex glands marsupials possess are the prostate and bulboureth
 
 Female reproductive system
 
-Cambridge_Natural_History_Mammalia_Fig_048.png Female marsupials have two lateral vaginas, which lead to separate uteri, but both open externally through the same orifice. A third canal, the median vagina, is used for birth. This canal can be transitory or permanent. Some marsupial species are able to store sperm in the oviduct after mating.[41]
+Female marsupials have two lateral vaginas, which lead to separate uteri, but both open externally through the same orifice. A third canal, the median vagina, is used for birth. This canal can be transitory or permanent. Some marsupial species are able to store sperm in the oviduct after mating.[41]
 
 Marsupials give birth at a very early stage of development; after birth, newborn marsupials crawl up the bodies of their mothers and attach themselves to a teat, which is located on the underside of the mother, either inside a pouch called the marsupium, or open to the environment. There they remain for a number of weeks, attached to the teat. The offspring are eventually able to leave the marsupium for short periods, returning to it for warmth, protection, and nourishment.
 
@@ -133,11 +132,11 @@ From the start of the 17th century more accounts of marsupials arrived. For inst
 
 Evolution
 
-Djarthia_murgonensis.jpg of _Djarthia murgonensis_, Australia's oldest marsupial fossils[53]]] 170 px
+of _Djarthia murgonensis_, Australia's oldest marsupial fossils[53]]]
 
 The relationships among the three extant divisions of mammals (monotremes, marsupials, and placentals) were long a matter of debate among taxonomists.[54] Most morphological evidence comparing traits such as number and arrangement of teeth and structure of the reproductive and waste elimination systems as well as most genetic and molecular evidence favors a closer evolutionary relationship between the marsupials and placental mammals than either has with the monotremes.[55]
 
-Phylogenetic_tree_of_marsupials_derived_from_retroposon_data_-_journal.pbio.1000436.g002.png of marsupials derived from retroposon data[56]]] The ancestors of marsupials, part of a larger group called metatherians, probably split from those of placental mammals (eutherians) during the mid-Jurassic period, though no fossil evidence of metatherians themselves are known from this time.[57] From DNA and protein analyses, the time of divergence of the two lineages has been estimated to be around 100 to 120 mya.[58] Fossil metatherians are distinguished from eutherians by the form of their teeth; metatherians possess four pairs of molar teeth in each jaw, whereas eutherian mammals (including true placentals) never have more than three pairs.[59] Using this criterion, the earliest known metatherian is _Sinodelphys szalayi_, which lived in China around 125 mya.[60] This makes it a contemporary to some early eutherian species which have been found in the same area.[61] While placental fossils dominate in Asia, marsupial fossils occur in larger numbers in North America.[62]
+of marsupials derived from retroposon data[56]]] The ancestors of marsupials, part of a larger group called metatherians, probably split from those of placental mammals (eutherians) during the mid-Jurassic period, though no fossil evidence of metatherians themselves are known from this time.[57] From DNA and protein analyses, the time of divergence of the two lineages has been estimated to be around 100 to 120 mya.[58] Fossil metatherians are distinguished from eutherians by the form of their teeth; metatherians possess four pairs of molar teeth in each jaw, whereas eutherian mammals (including true placentals) never have more than three pairs.[59] Using this criterion, the earliest known metatherian is _Sinodelphys szalayi_, which lived in China around 125 mya.[60] This makes it a contemporary to some early eutherian species which have been found in the same area.[61] While placental fossils dominate in Asia, marsupial fossils occur in larger numbers in North America.[62]
 
 The oldest metatherian fossils are found in present-day China.[63] About 100 mya, the supercontinent Pangaea was in the process of splitting into the northern continent Laurasia and the southern continent Gondwana, with what would become China and Australia already separated by the Tethys Ocean. From there, metatherians spread westward into modern North America (still attached to Eurasia), where the earliest true marsupials are found. Marsupials are difficult to distinguish from other fossils, as they are characterized by aspects of the reproductive system which do not normally fossilize (including pouches) and by subtle changes in the bone and tooth structure that show a metatherian is part of the marsupial crown group (the most exclusive group that contains all living marsupials). The earliest definite marsupial fossil belongs to the species _Peradectes minor_, from the Paleocene of Montana, dated to about 65 million years ago.[64] From their point of origin in Laurasia, marsupials spread to South America, which was possibly connected to North America at around 65 mya through a ridge that has since moved on to become the Caribbean Archipelago.[65][66] Laurasian marsupials eventually died off, for not entirely clear reasons; convention has it that they disappeared due to competition with placentals, but this is no longer accepted to be the primary reason.[67]
 

@@ -1,4 +1,4 @@
-Avatele_Niue.jpg NIUE is a small island in the South Pacific Ocean, to the east of Tonga. It has an area of 260 square kilometres, and a coastline of 64 km. It claims an exclusive economic zone of 200 nm, and a territorial sea of 12 nm. It is one of world's largest coral islands.
+NIUE is a small island in the South Pacific Ocean, to the east of Tonga. It has an area of 260 square kilometres, and a coastline of 64 km. It claims an exclusive economic zone of 200 nm, and a territorial sea of 12 nm. It is one of world's largest coral islands.
 
 
 Climate
@@ -8,7 +8,7 @@ Niue's climate is tropical, modified by south-east trade winds. Cyclones pose a 
 
 Terrain
 
-Talava_arches.jpg The terrain consists of steep coastal cliffs made from limestone and a central plateau. The lowest point is at sea level, and the highest is an unnamed point near Mutalau settlement, at 68 m.
+The terrain consists of steep coastal cliffs made from limestone and a central plateau. The lowest point is at sea level, and the highest is an unnamed point near Mutalau settlement, at 68 m.
 
 
 Natural resources

@@ -7,7 +7,7 @@ Though the word kami is translated multiple ways into English, no one English wo
 
 Etymology
 
-Amaterasu_cave_crop.jpg, one of the central kami in the Shinto faith]] _Kami_ is the Japanese word for a god, deity, divinity, or spirit.[5] It has been used to describe mind (心霊), God (ゴッド), supreme being (至上者), one of the Shinto deities, an effigy, a principle, and anything that is worshipped.[6]
+, one of the central kami in the Shinto faith]] _Kami_ is the Japanese word for a god, deity, divinity, or spirit.[5] It has been used to describe mind (心霊), God (ゴッド), supreme being (至上者), one of the Shinto deities, an effigy, a principle, and anything that is worshipped.[6]
 
 Although _deity_ is the common interpretation of _kami_, some Shinto scholars argue that such a translation can cause a misunderstanding of the term.[7] The wide variety of usage of the word _kami_ can be compared to the Sanskrit _Deva_ and the Hebrew _Elohim_, which also refer to God, gods, angels, or spirits.
 
@@ -76,7 +76,7 @@ Ceremonies and festivals
 
 One of the first recorded rituals we know of is ,[29] the ceremony in which the Emperor offers newly harvested rice to the kami to secure their blessing for a bountiful harvest. A yearly festival, Niiname-sai is also performed when a new Emperor comes to power, in which case it is called . In the ceremony, the Emperor offers crops from the new harvest to the kami, including rice, fish, fruits, soup, and stew. The Emperor first feasts with the deities, then the guests. The feast could go on for some time; for example, Emperor Shōwa's feast spanned two days.[30]
 
-Itsukushima_Shinto_Shrine.jpg, Miyajima Island, Hiroshima Prefecture, Japan. This shrine is believed to be where the kami dwell, and hosts many ceremonies and festivals.]]
+, Miyajima Island, Hiroshima Prefecture, Japan. This shrine is believed to be where the kami dwell, and hosts many ceremonies and festivals.]]
 
 Visitors to a Shinto shrine follow a purification ritual before presenting themselves to the kami. This ritual begins with hand washing, and swallowing and later spitting a small amount of water in front of the shrine to purify the body, heart, and mind. Once this is complete they turn their focus to gaining the kami's attention. The traditional method of doing this is to bow twice, clap twice and bow again, alerting the kami to their presence and desire to commune with them. During the last bow, the supplicant offers words of gratitude and praise to the kami; if they are offering a prayer for aid they will also state their name and address. After the prayer and/or worship they repeat the two bows, two claps and a final bow in conclusion.[31]
 

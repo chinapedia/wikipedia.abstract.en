@@ -7,7 +7,7 @@ History and philosophy
 
 Early life of the founder
 
-Kano_Jigoro.jpg]]
+]]
 
 The early history of judo is inseparable from its founder, Japanese polymath and educator , born . Kano was born into a relatively affluent family. His father, Jirosaku, was the second son of the head priest of the Shinto Hiyoshi shrine in Shiga Prefecture. He married Sadako Kano, daughter of the owner of Kiku-Masamune sake brewing company and was adopted by the family, changing his name to Kano. He ultimately became an official in the Shogunal government.[1]
 
@@ -21,13 +21,13 @@ On Fukuda's death in 1880, Kano, who had become his keenest and most able studen
 
 Founding of the Kodokan
 
-Eishoji.JPG In February 1882, Kano founded a school and dojo at the , a Buddhist temple in what was then the Shitaya ward of Tokyo (now the Higashi Ueno district of Taitō ward).[13] Iikubo, Kano's _Kitō-ryū_ instructor, attended the dojo three days a week to help teach and, although two years would pass before the temple would be called by the name , and Kano had not yet received his in _Kitō-ryū_, this is now regarded as the Kodokan founding.
+In February 1882, Kano founded a school and dojo at the , a Buddhist temple in what was then the Shitaya ward of Tokyo (now the Higashi Ueno district of Taitō ward).[13] Iikubo, Kano's _Kitō-ryū_ instructor, attended the dojo three days a week to help teach and, although two years would pass before the temple would be called by the name , and Kano had not yet received his in _Kitō-ryū_, this is now regarded as the Kodokan founding.
 
 The _Eisho-ji_ dojo was originally shoin. It was a relatively small affair, consisting of a 12 jo[14] (214 sq ft) training area. Kano took in resident and non-resident students, the first two being Tomita Tsunejirō and Shiro Saigo.[15] In August, the following year, the pair were granted grades, the first that had been awarded in any martial art.[16]
 
 Judo versus jujutsu
 
-Central to Kano's vision for judo were the principles of and . He illustrated the application of _seiryoku zen'yō_ with the concept of : Judo.svg]]
+Central to Kano's vision for judo were the principles of and . He illustrated the application of _seiryoku zen'yō_ with the concept of : ]]
 
 Kano realised that _seiryoku zen'yō_, initially conceived as a jujutsu concept, had a wider philosophical application. Coupled with the Confucianist-influenced _jita kyōei_, the wider application shaped the development of judo from a to a . Kano rejected techniques that did not conform to these principles and emphasised the importance of efficiency in the execution of techniques. He was convinced that practice of jujutsu while conforming to these ideals was a route to self-improvement and the betterment of society in general.[17] He was, however, acutely conscious of the Japanese public's negative perception of jujutsu:
 
@@ -58,7 +58,7 @@ _Nage-waza_ are typically drilled by the use of , repeated turning-in, taking th
 
 Traditionally, _nage-waza_ are further categorised into , throws that are performed with _tori_ maintaining an upright position, and , throws in which _tori_ sacrifices his upright position in order to throw _uke_.[28]
 
-_Tachi-waza_ are further subdivided into , in which _tori_ predominantly uses his arms to throw _uke_; throws that predominantly use a lifting motion from the hips; and , throws in which _tori_ predominantly utilises his legs.[29] Haraigoshi.jpg''|払腰||sweeping hip}}, a _koshi-waza_]]
+_Tachi-waza_ are further subdivided into , in which _tori_ predominantly uses his arms to throw _uke_; throws that predominantly use a lifting motion from the hips; and , throws in which _tori_ predominantly utilises his legs.[29] ''|払腰||sweeping hip}}, a _koshi-waza_]]
 
 +---------------------------+---------------------------+-----------------+
 | throwing techniques       | standing techniques       | hand techniques |
@@ -78,7 +78,7 @@ _Katame-waza_ is further categorised into , in which _tori_ traps and pins _uke_
 
 A related concept is that of , in which _waza_ are applied from a non-standing position.[31]
 
-In competitive judo, _Kansetsu-waza_ is currently limited to elbow joint manipulation.[32] Manipulation and locking of other joints can be found in various kata, such as _Katame-no-kata_ and _Kodokan goshin jutsu_.[33] Juji.jpg|十字固||cross lock}}(armbar), a _kansetsu-waza_]]
+In competitive judo, _Kansetsu-waza_ is currently limited to elbow joint manipulation.[32] Manipulation and locking of other joints can be found in various kata, such as _Katame-no-kata_ and _Kodokan goshin jutsu_.[33] |十字固||cross lock}}(armbar), a _kansetsu-waza_]]
 
 +--------------------------+-------------------------------+
 | grappling techniques     | holding or pinning techniques |
@@ -101,7 +101,7 @@ Judo pedagogy emphasizes . This term covers a variety of forms of practice, and 
 
 Kata (forms)
 
-Hiki-otoshi.jpg and Yamashita Yoshitsugu performing _Koshiki-no-kata_]] are pre-arranged patterns of techniques and in judo, with the exception of the _Seiryoku-Zen'yō Kokumin-Taiiku_, they are all practised with a partner. Their purposes include illustrating the basic principles of judo, demonstrating the correct execution of a technique, teaching the philosophical tenets upon which judo is based, allowing for the practice of techniques that are not allowed in randori, and to preserve ancient techniques that are historically important but are no longer used in contemporary judo.[37]
+and Yamashita Yoshitsugu performing _Koshiki-no-kata_]] are pre-arranged patterns of techniques and in judo, with the exception of the _Seiryoku-Zen'yō Kokumin-Taiiku_, they are all practised with a partner. Their purposes include illustrating the basic principles of judo, demonstrating the correct execution of a technique, teaching the philosophical tenets upon which judo is based, allowing for the practice of techniques that are not allowed in randori, and to preserve ancient techniques that are historically important but are no longer used in contemporary judo.[37]
 
 There are ten kata that are recognized by the Kodokan today:[38]
 
@@ -144,7 +144,7 @@ Competitive judo
 
 History
 
-Yoshimatsu_vs._Daigo_in_1951.jpg attempting to throw Toshiro Daigo with an uchi mata in the final of the 1951 All-Japan Judo Championships]] is a vitally important aspect of judo. In 1899, Kano was asked to chair a committee of the Dai Nippon Butoku Kai to draw up the first formal set of contest rules for jujutsu. These rules were intended to cover contests between different various traditional schools of jujutsu as well as practitioners of Kodokan judo. Contests were 15 minutes long and were judged on the basis of nage waza and katame waza, excluding atemi waza. Wins were by two ippons, awarded in every four-main different path of winning alternatives, by "Throwing", where the opponent's back strikes flat onto the mat with sufficient force, by "Pinning" them on their back for a "sufficient" amount of time, or by Submission, which could be achieved via "Shime-waza" or "Kansetsu-waza", in which the opponent was forced to give himself or herself up or summon a referee's or corner-judge's stoppage. Finger, toe and ankle locks were prohibited.[55] In 1900, these rules were adopted by the Kodokan with amendments made to prohibit all joint locks for kyu grades and added wrist locks to the prohibited kansetsu-waza for _dan_ grades. It was also stated that the ratio of tachi-waza to ne-waza should be between 70% to 80% for kyu grades and 60% to 70% for dan grades.[56]
+attempting to throw Toshiro Daigo with an uchi mata in the final of the 1951 All-Japan Judo Championships]] is a vitally important aspect of judo. In 1899, Kano was asked to chair a committee of the Dai Nippon Butoku Kai to draw up the first formal set of contest rules for jujutsu. These rules were intended to cover contests between different various traditional schools of jujutsu as well as practitioners of Kodokan judo. Contests were 15 minutes long and were judged on the basis of nage waza and katame waza, excluding atemi waza. Wins were by two ippons, awarded in every four-main different path of winning alternatives, by "Throwing", where the opponent's back strikes flat onto the mat with sufficient force, by "Pinning" them on their back for a "sufficient" amount of time, or by Submission, which could be achieved via "Shime-waza" or "Kansetsu-waza", in which the opponent was forced to give himself or herself up or summon a referee's or corner-judge's stoppage. Finger, toe and ankle locks were prohibited.[55] In 1900, these rules were adopted by the Kodokan with amendments made to prohibit all joint locks for kyu grades and added wrist locks to the prohibited kansetsu-waza for _dan_ grades. It was also stated that the ratio of tachi-waza to ne-waza should be between 70% to 80% for kyu grades and 60% to 70% for dan grades.[56]
 
 In 1916, additional rulings were brought in to further limit _kansetsu waza_ with the prohibition of _ashi garami_ and neck locks, as well as _do jime_.[57] These were further added to in 1925.
 
@@ -154,7 +154,7 @@ Nevertheless, judo became an Olympic sport for men in the 1964 Games in Tokyo. T
 
 Current international contest rules
 
-石井と鈴木.jpg, 2007 men's final]]
+, 2007 men's final]]
 
 Penalties may be given for: passivity or preventing progress in the match; for safety infringements for example by using prohibited techniques, or for behavior that is deemed to be against the spirit of judo. Fighting must be stopped if a participant is outside the designated area on the mat.[60]
 
@@ -228,7 +228,7 @@ A judo teacher is called .[83] The word _sensei_ comes from _sen_ or _saki_ (bef
 
 Judogi (uniform)
 
-Judo_orange_belt_(Brusselsshrek).JPG Judo practitioners traditionally wear white uniforms called or .[85] sometimes abbreviated in the west as "gi". It comprises a heavy cotton kimono-like jacket called an , similar to traditional fastened by an , coloured to indicate rank, and cotton draw-string .[86] Early examples of keikogi had short sleeves and trouser legs and the modern long-sleeved judogi was adopted in 1906.[87]
+Judo practitioners traditionally wear white uniforms called or .[85] sometimes abbreviated in the west as "gi". It comprises a heavy cotton kimono-like jacket called an , similar to traditional fastened by an , coloured to indicate rank, and cotton draw-string .[86] Early examples of keikogi had short sleeves and trouser legs and the modern long-sleeved judogi was adopted in 1906.[87]
 
 The modern use of the blue judogi for high level competition was first suggested by Anton Geesink at the 1986 Maastricht IJF DC Meeting.[88] For competition, a blue judogi is worn by one of the two competitors for ease of distinction by judges, referees, and spectators. In Japan, both judoka use a white judogi and the traditional red obi (based on the colors of the Japanese flag) is affixed to the belt of one competitor. Outside Japan, a colored obi may also be used for convenience in minor competitions, the blue judogi only being mandatory at the regional or higher levels, depending on organization. Japanese practitioners and traditionalists tend to look down on the use of blue because of the fact that judo is considered a pure sport, and replacing the pure white judogi for the impure blue is an offense.[89]
 
@@ -244,7 +244,7 @@ The international governing body for judo is the International Judo Federation (
 
 Rank and grading
 
-Judo_children.jpg]] Judo is a hierarchical art, where seniority of judoka is designated by what is known as the - ranking system. This system was developed by Jigoro Kano and was based on the ranking system in the board game Go. [92]
+]] Judo is a hierarchical art, where seniority of judoka is designated by what is known as the - ranking system. This system was developed by Jigoro Kano and was based on the ranking system in the board game Go. [92]
 
 Beginning students progress through kyu grades towards dan grades.
 

@@ -26,15 +26,13 @@ After the 7th-century Muslim conquest of the Levant, it was part of the Rashidun
 
 Ancient Lebanon
 
-PhoenicianTrade.png
-
 Evidence dating back to an early settlement in Lebanon was found in Byblos, considered one of the oldest continuously inhabited cities in the world.[16] The evidence dates back to earlier than 5000 BC. Archaeologists discovered remnants of prehistoric huts with crushed limestone floors, primitive weapons, and burial jars left by the Neolithic and Chalcolithic fishing communities who lived on the shore of the Mediterranean Sea over 7,000 years ago.[17]
 
 Lebanon was a part of northern Canaan, and consequently became the homeland of Canaanite descendants – the Phoenicians, a seafaring people who spread across the Mediterranean in the first millennium BC .[18] The most prominent Phoenician cities were Byblos, Sidon and Tyre, while their most famous colonies were Carthage in present-day Tunisia and Cádiz in present-day Spain. The Canaanite-Phoenicians are credited with the invention of the Phoenician alphabet. The cities of Phoenicia were incorporated into the Persian Achaemenid Empire by Cyrus the Great in 539 BCE.[19] The Phoenician city-states were later incorporated into the empire of Alexander the Great following the Siege of Tyre in 332 BC.[20]
 
 Maronites, Druze, and the Crusades
 
-Siege_of_Tripoli_Painting_(1289).jpg to the Egyptian Mamluks and destruction of the Crusader state, the County of Tripoli, 1289]]
+to the Egyptian Mamluks and destruction of the Crusader state, the County of Tripoli, 1289]]
 
 The region that is now Lebanon, as with the rest of Syria and much of Anatolia, became a major center of Christianity in the Roman Empire during the early spread of the religion. During the late 4th and early 5th century, a hermit named Maron established a monastic tradition focused on the importance of monotheism and asceticism, near the Mediterranean mountain range known as Mount Lebanon. The monks who followed Maron spread his teachings among Lebanese in the region. These Christians came to be known as Maronites and moved into the mountains to avoid religious persecution by Roman authorities.[21] During the frequent Roman-Persian Wars that lasted for many centuries, the Sassanid Persians occupied what is now Lebanon from 619 till 629.[22]
 
@@ -48,17 +46,17 @@ One of the most lasting effects of the Crusades in this region was the contact b
 
 Ottoman Lebanon and French Mandate
 
-DeirAlQamar-FakhredinePalace.jpg, 17th century]] Lebanon_as_envisaged_by_French_General_Charles-Marie-Napoléon_de_Beaufort_d'Hautpoul_Beaufort_d'Hautpoul_in_1862.jpg,[24] later used as a template for the 1920 borders of Greater Lebanon.[25][26]]]
+, 17th century]] ,[24] later used as a template for the 1920 borders of Greater Lebanon.[25][26]]]
 
 During this period Lebanon was divided into several provinces: Northern and Southern Mount Lebanon, Tripoli, Baalbek and Beqaa Valley and Jabal Amel. In southern Mount Lebanon in 1590, Fakhr-al-Din II became the successor to Korkmaz. He soon established his authority as paramount prince of the Druze in the Shouf area of Mount Lebanon. Eventually, Fakhr-al-Din II was appointed Sanjakbey (Governor) of several Ottoman sub-provinces, with responsibility for tax-gathering. He extended his control over a substantial part of Mount Lebanon and its coastal area, even building a fort as far inland as Palmyra.[27] This over-reaching eventually became too much for Ottoman Sultan Murad IV, who sent a punitive expedition to capture him in 1633. He was taken to Istanbul, kept in prison for two years and then executed along with one of his sons in April 1635.[28] Surviving members of Fakhr al-Din's family ruled a reduced area under closer Ottoman control until the end of the 17th century.
 
 On the death of the last Maan emir, various members of the Shihab clan ruled Mount Lebanon until 1830. Approximately 10,000 Christians were killed by the Druzes during inter-communal violence in 1860.[29] Shortly afterwards, the Emirate of Mount Lebanon, which lasted about 400 years, was replaced by the Mount Lebanon Mutasarrifate, as a result of a European-Ottoman treaty called the Règlement Organique. The Baalbek and Beqaa Valley and Jabal Amel was ruled intermittently by various Shia feudal families, especially the Al Ali Alsagheer in Jabal Amel that remained in power until 1865 when Ottomans took direct ruling of the region. Youssef Bey Karam,[30] a Lebanese nationalist played an influential role in Lebanon's independence during this era.
 
-In 1920, following World War I, the area of the Mutasarrifate, plus some surrounding areas which were predominantly Shia and Sunni, became a part of the state of Greater Lebanon under the French Mandate of Syria and Lebanon. Around 100,000 people in Beirut and Mount Lebanon died of starvation during World War I.[31] In the first half of 1920, Lebanese territory was claimed as part of the Arab Kingdom of Syria, but shortly the Franco-Syrian War resulted in Arab defeat and capitulation of the Hashemites. Centre-ville_de_Beyrouth.JPG On 1 September 1920, France reestablished Greater Lebanon after the Moutasarrifiya rule removed several regions belonging to the Principality of Lebanon and gave them to Syria.[32] Lebanon was a largely Christian country (mainly Maronite territory with some Greek Orthodox enclaves) but it also included areas containing many Muslims and Druze. On 1 September 1926, France formed the Lebanese Republic. A constitution was adopted on 25 May 1926 establishing a democratic republic with a parliamentary system of government.
+In 1920, following World War I, the area of the Mutasarrifate, plus some surrounding areas which were predominantly Shia and Sunni, became a part of the state of Greater Lebanon under the French Mandate of Syria and Lebanon. Around 100,000 people in Beirut and Mount Lebanon died of starvation during World War I.[31] In the first half of 1920, Lebanese territory was claimed as part of the Arab Kingdom of Syria, but shortly the Franco-Syrian War resulted in Arab defeat and capitulation of the Hashemites. On 1 September 1920, France reestablished Greater Lebanon after the Moutasarrifiya rule removed several regions belonging to the Principality of Lebanon and gave them to Syria.[32] Lebanon was a largely Christian country (mainly Maronite territory with some Greek Orthodox enclaves) but it also included areas containing many Muslims and Druze. On 1 September 1926, France formed the Lebanese Republic. A constitution was adopted on 25 May 1926 establishing a democratic republic with a parliamentary system of government.
 
 Independence from France
 
-Beirut's_Martyrs'_Square_during_celebrations_marking_the_release_by_the_French_of_Lebanon's_government_from_Rashayya_prison_on_November_22,_1943,_the_day_of_Lebanon's_independence._Adib_Ibrahim.jpg during celebrations marking the release by the French of Lebanon's government from Rashayya prison on 22 November 1943]]
+during celebrations marking the release by the French of Lebanon's government from Rashayya prison on 22 November 1943]]
 
 Lebanon gained a measure of independence while France was occupied by Germany.[33] General Henri Dentz, the Vichy High Commissioner for Syria and Lebanon, played a major role in the independence of the nation. The Vichy authorities in 1941 allowed Germany to move aircraft and supplies through Syria to Iraq where they were used against British forces. The United Kingdom, fearing that Nazi Germany would gain full control of Lebanon and Syria by pressure on the weak Vichy government, sent its army into Syria and Lebanon.
 
@@ -80,7 +78,7 @@ With the defeat of the PLO in Jordan, many Palestinian militants relocated to Le
 
 Civil war and Syrian occupation
 
-Green_Line,_Beirut_1982.jpg that separated west and east Beirut, 1982]]
+that separated west and east Beirut, 1982]]
 
 In 1975, following increasing sectarian tensions, a full-scale civil war broke out in Lebanon. The Lebanese Civil War pitted a coalition of Christian groups against the joint forces of the PLO, left-wing Druze and Muslim militias. In June 1976 Lebanese President Elias Sarkis asked for the Syrian Army to intervene on the side of the Christians and help restore peace.[41] In October 1976 the Arab League agreed to establish a predominantly Syrian Arab Deterrent Force, which was charged with restoring calm.[42]
 
@@ -91,8 +89,6 @@ In September 1988, the Parliament failed to elect a successor to President Gemay
 In the same month, the Lebanese Parliament agreed to the Taif Agreement, which included an outline timetable for Syrian withdrawal from Lebanon and a formula for the de-confessionalisation of the Lebanese political system.[46] The war ended at the end of 1990 after sixteen years; it had caused massive loss of human life and property, and devastated the country's economy. It is estimated that 150,000 people were killed and another 200,000 wounded.[47] Nearly a million civilians were displaced by the war, and some never returned.[48] Parts of Lebanon were left in ruins.[49] The Taif Agreement has still not been implemented in full and Lebanon's political system continues to be divided along sectarian lines.
 
 Syrian withdrawal and aftermath
-
-Demonstration_14_March_2005_31.jpg
 
 The internal political situation in Lebanon significantly changed in the early 2000s. After the Israeli withdrawal from southern Lebanon and the death of Hafez Al-Assad in 2000, the Syrian military presence faced criticism and resistance from the Lebanese population.[50]
 
@@ -117,7 +113,7 @@ In 2012, the Syrian civil war threatened to spill over in Lebanon, causing more 
 
 Geography
 
-Qadisha.jpg, a gorge in northern Lebanon]] Satellite_image_of_Lebanon_in_March_2002.jpg and eastern Anti-Lebanon mountain ranges]]
+, a gorge in northern Lebanon]] and eastern Anti-Lebanon mountain ranges]]
 
 Lebanon is located in Western Asia between latitudes 33° and 35° N and longitudes 35° and 37° E. Its land straddles the "northwest of the Arabian plate".[88]
 
@@ -135,7 +131,7 @@ Lebanon has a moderate Mediterranean climate. In coastal areas, winters are gene
 
 Environment
 
-Cedars02(js).jpg is the national emblem of Lebanon.]]
+is the national emblem of Lebanon.]]
 
 In ancient times, Lebanon was covered by large forests of cedar trees, the national emblem of the country.[97] Millennia of deforestation have altered the hydrology in Mount Lebanon and changed the regional climate adversely.[98] Today, forests cover 13.4% of the Lebanese land area;[99] they are under constant threat from wildfires caused by the long dry summer season.[100]
 
@@ -157,7 +153,7 @@ In September 2018, Lebanon's parliament passed a law that banned open dumping an
 
 Government and politics
 
-BeirutParliament.jpg building at the Place de l'Étoile]] Beirut_protest.jpg
+building at the Place de l'Étoile]]
 
 Lebanon is a parliamentary democracy that includes confessionalism,[119] in which high-ranking offices are reserved for members of specific religious groups. The President, for example, has to be a Maronite Christian, the Prime Minister a Sunni Muslim, the Speaker of the Parliament a Shi’a Muslim, the Deputy Prime Minister and the Deputy Speaker of Parliament Eastern Orthodox.[120][121] This system is intended to deter sectarian conflict and attempts to represent fairly the demographic distribution of the 18 recognized religious groups in government.[122][123]
 
@@ -196,8 +192,6 @@ Lebanon concluded negotiations on an association agreement with the European Uni
 Lebanon enjoys good relations with virtually all of the other Arab countries (despite historic tensions with Libya, the Palestinians, Syria and Iraq), and hosted an Arab League Summit in March 2002 for the first time in more than 35 years. Lebanon is a member of the Francophone countries and hosted the Francophone Summit in October 2002 as well as the Jeux de la Francophonie in 2009.
 
 Military
-
-Lebanese_Armed_Forces.jpg
 
 The Lebanese Armed Forces (LAF) has 72,000 active personnel,[144] including 1,100 in the air force, and 1,000 in the navy.[145]
 
@@ -246,12 +240,10 @@ Lebanon is divided into eight governorates (_mohaafazaat_, ; singular _mohafazah
     -   Sidon (_Saida_)
     -   Tyre (_Sur_)
 
-Baalbek-109927.jpg capitals in Baalbek]]
+capitals in Baalbek]]
 
 
 Economy
-
-Lebanon_Export_Treemap.jpg
 
 Lebanon's constitution states that 'the economic system is free and ensures private initiative and the right to private property'. Lebanon's economy follows a laissez-faire model.[155] Most of the economy is dollarized, and the country has no restrictions on the movement of capital across its borders.[156] The Lebanese government's intervention in foreign trade is minimal.[157]
 
@@ -281,7 +273,7 @@ The Syrian crisis has significantly affected Lebanese economic and financial sit
 
 History
 
-Lebanese_real_GDP_Growth_in_%.PNG In the 1950s, GDP growth was the second highest in the world. Despite not having oil reserves, Lebanon, as the banking center of the Middle East and one of the trading centers, had a high national income.[186]
+In the 1950s, GDP growth was the second highest in the world. Despite not having oil reserves, Lebanon, as the banking center of the Middle East and one of the trading centers, had a high national income.[186]
 
 The 1975–1990 civil war heavily damaged Lebanon's economic infrastructure,[187] cut national output by half, and all but ended Lebanon's position as a West Asian entrepôt and banking hub.[188] The subsequent period of relative peace enabled the central government to restore control in Beirut, begin collecting taxes, and regain access to key port and government facilities. Economic recovery has been helped by a financially sound banking system and resilient small- and medium-scale manufacturers, with family remittances, banking services, manufactured and farm exports, and international aid as the main sources of foreign exchange.[189]
 
@@ -291,16 +283,14 @@ Over the course of 2008 Lebanon rebuilt its infrastructure mainly in the real es
 
 Tourism
 
-Baalbek_-_temple_of_Jupiter.jpg, temple of Jupiter]]
+, temple of Jupiter]]
 
 The tourism industry accounts for about 10% of GDP.[198] Lebanon managed to attract around 1,333,000 tourists in 2008, thus placing it as rank 79 out of 191 countries.[199] In 2009, _The New York Times_ ranked Beirut the No. 1 travel destination worldwide due to its nightlife and hospitality.[200] In January 2010, the Ministry of Tourism announced that 1,851,081 tourists had visited Lebanon in 2009, a 39% increase from 2008.[201] In 2009, Lebanon hosted the largest number of tourists to date, eclipsing the previous record set before the Lebanese Civil War.[202] Tourist arrivals reached two million in 2010, but fell by 37% for the first 10 months of 2012, a decline caused by the war in neighbouring Syria.[203]
 
-Anjar-109900.jpg Saudi Arabia, Jordan, and Japan are the three most popular origin countries of foreign tourists to Lebanon.[204] The recent influx of Japanese tourists has caused the recent rise in popularity of Japanese Cuisine in Lebanon.[205]
+Saudi Arabia, Jordan, and Japan are the three most popular origin countries of foreign tourists to Lebanon.[204] The recent influx of Japanese tourists has caused the recent rise in popularity of Japanese Cuisine in Lebanon.[205]
 
 
 Demographics
-
-Tripoli,_Lebanon_(5074428682).jpg
 
 The population of Lebanon was estimated to be in , however no official census has been conducted since 1932 due to the sensitive confessional political balance between Lebanon's various religious groups.[206] Identifying all Lebanese as ethnically Arab is a widely employed example of panethnicity since in reality, the Lebanese "are descended from many different peoples who are either indigenous, or have occupied, invaded, or settled this corner of the world", making Lebanon, "a mosaic of closely interrelated cultures".[207] While at first glance, this ethnic, linguistic, religious and denominational diversity might seem to cause civil and political unrest, "for much of Lebanon’s history this multitudinous diversity of religious communities has coexisted with little conflict".[208]
 
@@ -347,11 +337,11 @@ English is increasingly used in science and business interactions.[250][251] Leb
 
 Culture
 
-Baalbek-Bacchus.jpg is considered one of the best preserved Roman temples in the world, c. 150 AD]] Byblos-109933.jpg.]] The culture of Lebanon reflects the legacy of various civilizations spanning thousands of years. Originally home to the Canaanite- Phoenicians, and then subsequently conquered and occupied by the Assyrians, the Persians, the Greeks, the Romans, the Arabs, the Fatimids, the Crusaders, the Ottoman Turks and most recently the French, Lebanese culture has over the millennia evolved by borrowing from all of these groups. Lebanon's diverse population, composed of different ethnic and religious groups, has further contributed to the country's festivals, musical styles and literature as well as cuisine. Despite the ethnic, linguistic, religious and denominational diversity of the Lebanese, they "share an almost common culture".[253] Lebanese Arabic is universally spoken while food, music, and literature are deep-rooted "in wider Mediterranean and Arab Levantine norms".[254]
+is considered one of the best preserved Roman temples in the world, c. 150 AD]] .]] The culture of Lebanon reflects the legacy of various civilizations spanning thousands of years. Originally home to the Canaanite- Phoenicians, and then subsequently conquered and occupied by the Assyrians, the Persians, the Greeks, the Romans, the Arabs, the Fatimids, the Crusaders, the Ottoman Turks and most recently the French, Lebanese culture has over the millennia evolved by borrowing from all of these groups. Lebanon's diverse population, composed of different ethnic and religious groups, has further contributed to the country's festivals, musical styles and literature as well as cuisine. Despite the ethnic, linguistic, religious and denominational diversity of the Lebanese, they "share an almost common culture".[253] Lebanese Arabic is universally spoken while food, music, and literature are deep-rooted "in wider Mediterranean and Arab Levantine norms".[254]
 
 Arts
 
-Votive_statue_from_eshmun.jpg sanctuary, c. 400s BC]]
+sanctuary, c. 400s BC]]
 
 In visual arts, Moustafa Farroukh was one of Lebanon's most prominent painters of the 20th century. Formally trained in Rome and Paris, he exhibited in venues from Paris to New York to Beirut over his career.[255] Many more contemporary artists are currently active, such as Walid Raad, a contemporary media artist currently residing in New York.[256]
 
@@ -369,7 +359,7 @@ Several contemporary Lebanese writers have also achieved international success; 
 
 Music
 
-Fairuz_in_btd_concert_2001.jpg]] Casino_du_Liban_2007.jpg, first rock star in the Middle East]]
+]] , first rock star in the Middle East]]
 
 The music of Lebanon is pervasive in Lebanese society.[259] While traditional folk music remains popular in Lebanon, modern music reconciling Western and traditional Arabic styles, pop, and fusion are rapidly advancing in popularity.[260] Lebanese artists like Fairuz, Wadih El Safi or Sabah are widely known and appreciated in Lebanon and in the Arab world. Lebanese singer Lydia Canaan is listed in the catalog of the Rock and Roll Hall of Fame and Museum's Library and Archives in Cleveland, Ohio, USA[261][262] as the first rock star of the Middle East.[263][264][265][266][267] Radio stations feature a variety of music, including traditional Lebanese, classical Arabic, Armenian[268] and modern French, English, American, and Latin tunes.[269]
 
@@ -381,7 +371,7 @@ The media of Lebanon is not only a regional center of production but also the mo
 
 Holidays and festivals
 
-Beiteddine_Palace_InnerCourtyard.jpg, venue of the Beiteddine Festival]]
+, venue of the Beiteddine Festival]]
 
 Lebanon celebrates national and both Christian and Muslim holidays. Christian holidays are celebrated following both the Gregorian Calendar and Julian Calendar. Greek Orthodox (with the exception of Easter), Catholics, Protestants, and Melkite Christians follow the Gregorian Calendar and thus celebrate Christmas on 25 December. Armenian Apostolic Christians celebrate Christmas on 6 January, as they follow the Julian Calendar. Muslim holidays are followed based on the Islamic lunar calendar. Muslim holidays that are celebrated include Eid al-Fitr (the three-day feast at the end of the Ramadan month), Eid al-Adha (The Feast of the Sacrifice) which is celebrated during the annual pilgrimage to Mecca and also celebrates Abraham's willingness to sacrifice his son to God, the Birth of the Prophet Muhammad, and Ashura (the Shiite Day of Mourning). Lebanon's National Holidays include Workers Day, Independence day, and Martyrs Day.
 
@@ -418,7 +408,7 @@ Water sports have also shown to be very active in the past years, in Lebanon. Si
 
 Education
 
-upright=0.8 in Beirut.]] AUB_1.jpg College Hall in Beirut.]]
+upright=0.8 in Beirut.]] College Hall in Beirut.]]
 
 Listed by the World Economic Forum's 2013 Global Information Technology Report, Lebanon has been ranked globally as the fourth best country for math and science education, and as the tenth best overall for quality of education. In quality of management schools, the country was ranked 13th worldwide.[296]
 

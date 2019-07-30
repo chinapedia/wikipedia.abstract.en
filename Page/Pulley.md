@@ -7,7 +7,7 @@ Hero of Alexandria identified the _pulley_ as one of six simple machines used to
 
 Block and tackle
 
-Tackles.png A set of pulleys assembled so that they rotate independently on the same axle form a block. Two blocks with a rope attached to one of the blocks and threaded through the two sets of pulleys form a block and tackle.[4][5]
+A set of pulleys assembled so that they rotate independently on the same axle form a block. Two blocks with a rope attached to one of the blocks and threaded through the two sets of pulleys form a block and tackle.[4][5]
 
 A block and tackle is assembled so one block is attached to fixed mounting point and the other is attached to the moving load. The ideal mechanical advantage of the block and tackle is equal to the number of parts of the rope that support the moving block.
 
@@ -22,7 +22,7 @@ In the diagram on the right the ideal mechanical advantage of each of the block 
 
 Rope and pulley systems
 
-Pulley_in_Oil_Well.jpg Crane_pulley_4x.jpg. The two movable pulleys (joined together) are attached to the hook. One end of the rope is attached to the crane frame, another to the winch.]] A rope and pulley system—that is, a block and tackle—is characterised by the use of a single continuous rope to transmit a tension force around one or more pulleys to lift or move a load—the rope may be a light line or a strong cable. This system is included in the list of simple machines identified by Renaissance scientists.[7][8]
+. The two movable pulleys (joined together) are attached to the hook. One end of the rope is attached to the crane frame, another to the winch.]] A rope and pulley system—that is, a block and tackle—is characterised by the use of a single continuous rope to transmit a tension force around one or more pulleys to lift or move a load—the rope may be a light line or a strong cable. This system is included in the list of simple machines identified by Renaissance scientists.[7][8]
 
 If the rope and pulley system does not dissipate or store energy, then its mechanical advantage is the number of parts of the rope that act on the load. This can be shown as follows.
 
@@ -67,7 +67,7 @@ Thus, the mechanical advantage of the system is equal to the number of sections 
 
 Belt and pulley systems
 
-Flachriemen.png Keilriemen-V-Belt.png PutnamLatheHagley01.jpg]] A belt and pulley system is characterised by two or more pulleys in common to a belt. This allows for mechanical power, torque, and speed to be transmitted across axles. If the pulleys are of differing diameters, a mechanical advantage is realised.
+]] A belt and pulley system is characterised by two or more pulleys in common to a belt. This allows for mechanical power, torque, and speed to be transmitted across axles. If the pulleys are of differing diameters, a mechanical advantage is realised.
 
 A belt drive is analogous to that of a chain drive; however, a belt sheave may be smooth (devoid of discrete interlocking members as would be found on a chain sprocket, spur gear, or timing belt) so that the mechanical advantage is approximately given by the ratio of the pitch diameter of the sheaves only, not fixed exactly by the ratio of teeth as with gears and sprockets.
 

@@ -20,7 +20,7 @@ Ideology
 
 Marxist thought
 
-PolPot.jpg, General Secretary of the Communist Party of Kampuchea and Prime Minister of Democratic Kampuchea]] In power, the movement's ideology was shaped by a power struggle during 1976 in which the so-called Party Centre led by Pol Pot defeated other regional elements of the leadership. The Party Centre's ideology combined elements of Marxism with a strongly xenophobic form of Khmer nationalism. Due in part to secrecy and changes in the government's presentation of itself, academic interpretations of its political position within Marxist thought vary widely,[8] ranging from interpreting it as the "purest" Marxist-Leninist movement to characterising it as an anti-Marxist "peasant revolution".[9]
+, General Secretary of the Communist Party of Kampuchea and Prime Minister of Democratic Kampuchea]] In power, the movement's ideology was shaped by a power struggle during 1976 in which the so-called Party Centre led by Pol Pot defeated other regional elements of the leadership. The Party Centre's ideology combined elements of Marxism with a strongly xenophobic form of Khmer nationalism. Due in part to secrecy and changes in the government's presentation of itself, academic interpretations of its political position within Marxist thought vary widely,[8] ranging from interpreting it as the "purest" Marxist-Leninist movement to characterising it as an anti-Marxist "peasant revolution".[9]
 
 Its leaders and theorists, most of whom had been exposed to the heavily Stalinist outlook of the French Communist Party during the 1950s,[10] developed a distinctive and eclectic "post-Leninist" ideology that drew on elements of Stalinism, Maoism and the postcolonial theory of Frantz Fanon.[11] In the early 1970s, the Khmer Rouge looked to the model of Enver Hoxha's Albania, which they believed was the most advanced communist state then in existence.[12] Many of the regime's characteristics, such as its focus on the rural peasantry rather than the urban proletariat as the bulwark of revolution, its emphasis on Great Leap Forward-type initiatives, its desire to abolish personal interest in human behaviour, its promotion of communal living and eating and its focus on perceived common sense over technical knowledge appear to have been heavily influenced by Maoist ideology.[13] However, the Khmer Rouge displayed these characteristics in a more extreme form.[14]
 
@@ -34,7 +34,7 @@ Once in power, the Khmer Rouge explicitly targeted the Chinese (Han), the Vietna
 
 Autarky
 
-Bullet_holes_at_angkor_wat.jpg temple]] Khmer Rouge economic policy, based largely on the plans of Khieu Samphan, focused on the achievement of national self-reliance through an initial phase of agricultural collectivism. This would then be used as a route to achieve rapid social transformation and industrial and technological development without assistance from foreign powers, a process which the party characterised as a "Super Great Leap Forward".[23] The strong emphasis on autarky in Khmer Rouge planning was probably influenced by the early writing of Samir Amin, who was cited in Khieu Samphan's PhD thesis.
+temple]] Khmer Rouge economic policy, based largely on the plans of Khieu Samphan, focused on the achievement of national self-reliance through an initial phase of agricultural collectivism. This would then be used as a route to achieve rapid social transformation and industrial and technological development without assistance from foreign powers, a process which the party characterised as a "Super Great Leap Forward".[23] The strong emphasis on autarky in Khmer Rouge planning was probably influenced by the early writing of Samir Amin, who was cited in Khieu Samphan's PhD thesis.
 
 The party's General Secretary Pol Pot strongly influenced the propagation of this policy. He was reportedly impressed with the self-sufficient manner in which the mountain tribes of Cambodia lived, which the party interpreted as a form of primitive communism. Khmer Rouge theory developed the concept that the nation should take "agriculture as the basic factor and use the fruits of agriculture to build industry".[24] Pol Pot's belief was that collectivisation of agriculture was capable of "[creating] a complete Communist society without wasting time on the intermediate steps" as the Khmer Rouge said to China in 1975.[25] Society was accordingly classified into peasant "base people", who would be the bulwark of the transformation; and urban "new people", who were to be reeducated or liquidated. The focus of the Khmer Rouge leadership on the peasantry as the base of the revolution was according to Michael Vickery a product of their status as "petty-bourgeois radicals overcome by peasantist romanticism".[26] The opposition of the peasantry and the urban population in Khmer Rouge ideology was heightened by the structure of the Cambodian rural economy, where small farmers and peasants had historically suffered through indebtedness to urban money-lenders rather than through oppression by landlords.[27] The policy of evacuating major towns as well as providing a reserve of easily exploitable agricultural labour was likely viewed positively by the Khmer Rouge's peasant supporters as removal of the source of their debt.[28]
 
@@ -169,7 +169,7 @@ Commercial fishing was said to have been banned by the Khmer Rouge in 1976.[111]
 
 Family relations
 
-Photos_of_victims_in_Tuol_Sleng_prison.JPG contain thousands of photos taken by the Khmer Rouge of their victims]]
+contain thousands of photos taken by the Khmer Rouge of their victims]]
 
 The regulations made by the Angkar also had effects on the traditional Cambodian family unit. The regime was primarily interested in increasing the young population and one of the strictest regulations prohibited sex outside marriage, which was punishable by execution.[112] In this as in some other respects, the Khmer Rouge followed a morality based on an idealised conception of the attitudes of prewar rural Cambodia.[113] Marriage required permission from the authorities and the Khmer Rouge were strict in only giving permission for people of the same class and level of education to marry. Such rules were applied even more strictly to party cadres.[114] While some refugees spoke of families being deliberately broken up, this appears to have referred mainly to the traditional Cambodian extended family unit, which the regime actively sought to destroy in favour of small nuclear units of parents and children.[115]
 
@@ -192,8 +192,6 @@ Language was also transformed in other ways. The Khmer Rouge invented new terms.
 Many Cambodians crossed the border into Thailand to seek asylum. From there, they were transported to refugee camps such as Sa Kaeo or Khao-I-Dang, the only camp allowing resettlement in countries such as the United States, France, Canada and Australia. In some refugee camps, such as Site 8, Phnom Chat, or Ta Prik, the Khmer Rouge cadres controlled food distribution and restricted the activities of international aid agencies.[128]
 
 Crimes against humanity
-
-Choeungek2.JPG Khmer_Rouge_Victims.JPG
 
 The Khmer Rouge government arrested, tortured and eventually executed anyone suspected of belonging to several categories of supposed "enemies",[129] including the following:
 
@@ -218,7 +216,7 @@ An additional 300,000 Cambodians starved to death between 1979 and 1980, largely
 
 Fall
 
-Thảm_sát.jpg at a Vietnamese museum, as the massacre was one of the events that prompted the 1978 Vietnamese invasion of Kampuchea]]
+at a Vietnamese museum, as the massacre was one of the events that prompted the 1978 Vietnamese invasion of Kampuchea]]
 
 Fearing a Vietnamese attack, Pol Pot ordered a pre-emptive invasion of Vietnam on 18 April 1978. His Cambodian forces crossed the border and looted nearby villages, mostly in the border town of Ba Chúc. Of the 3,157 civilians who had lived in Ba Chúc,[143] only two survived the massacre. These Cambodian forces were repelled by the Vietnamese.[144]
 
@@ -237,8 +235,6 @@ Ramifications of the Vietnamese victory
 Vietnam's victory was supported by the Soviet Union and had significant ramifications for the region. The People's Republic of China launched a punitive invasion of northern Vietnam but then retreated, with both sides claiming victory. China, the United States and the ASEAN countries sponsored the creation and the military operations of a Cambodian government-in-exile, known as the Coalition Government of Democratic Kampuchea, which included the Khmer Rouge, the republican KPNLF and the royalist ANS.[152]
 
 Eastern and central Cambodia were firmly under the control of Vietnam and its Cambodian allies by 1980, while the western part of the country continued to be a battlefield throughout the 1980s, and millions of land mines were sown across the countryside. The Khmer Rouge, still led by Pol Pot, was the strongest of the three rebel groups in the Coalition Government, which received extensive military aid from China, Britain and the United States and intelligence from the Thai military. Britain and the United States in particular gave aid to the two non-Khmer Rouge members of the coalition.[153]
-
-TuolSlang3.jpg
 
 In an attempt to broaden its support base, the Khmer Rouge formed the Patriotic and Democratic Front of the Great National Union of Kampuchea in 1979. In 1981, the Khmer Rouge went so far as to officially renounce communism[154] and somewhat moved their ideological emphasis to nationalism and anti-Vietnamese rhetoric instead. However, some analysts argue that this change meant little in practice because, as historian Kelvin Rowley stated, "CPK propaganda had always relied on nationalist rather than revolutionary appeals".[155]
 
@@ -261,7 +257,7 @@ Members of this younger generation may know of the Khmer Rouge only through word
 
 Extraordinary Chambers in the Courts of Cambodia
 
-Kang_Kek_Iew_(Kaing_Guek_Eav_or_Duch)_before_the_Extraordinary_Chambers_in_the_Courts_of_Cambodia_-_20090720.jpg before the Cambodian Genocide Tribunal on July 20, 2009]] The Extraordinary Chambers in the Courts of Cambodia (ECCC) was established as a Cambodian court with international participation and assistance to bring to trial senior leaders and those most responsible for crimes committed during the Khmer Rouge regime.[168] It has been handling four cases since 2007.[169] ECCC's efforts for outreach toward both national and international audience include public trial hearings, study tours, video screenings, school lectures and video archives on the web site.[170] As of May 2018, cases against the former leadership of the Khmer Rouge regime for crimes including genocide and crimes against humanity remain ongoing.[171]
+before the Cambodian Genocide Tribunal on July 20, 2009]] The Extraordinary Chambers in the Courts of Cambodia (ECCC) was established as a Cambodian court with international participation and assistance to bring to trial senior leaders and those most responsible for crimes committed during the Khmer Rouge regime.[168] It has been handling four cases since 2007.[169] ECCC's efforts for outreach toward both national and international audience include public trial hearings, study tours, video screenings, school lectures and video archives on the web site.[170] As of May 2018, cases against the former leadership of the Khmer Rouge regime for crimes including genocide and crimes against humanity remain ongoing.[171]
 
 After claiming to feel great remorse for his part in Khmer Rouge atrocities, Kaing Guek Eav (alias Duch), head of a torture centre from which 16,000 men, women and children were sent to their deaths, surprised the court in his genocide trial on 27 November 2009 with a plea for his freedom. His Cambodian lawyer Kar Savuth stunned the tribunal further by issuing the trial's first call for an acquittal of his client even after his French lawyer denied seeking such a verdict.[172] On 26 July 2010, he was convicted and sentenced to thirty years. Many condemned the sentence as too lenient.[173] Theary Seng responded: "We hoped this tribunal would strike hard at impunity, but if you can kill 14,000 people and serve only 19 years – 11 hours per life taken – what is that? It's a joke", voicing concerns about political interference.[174] In February 2012, Duch's sentence was increased to life imprisonment following appeals by both the prosecution and defence. In dismissing the defence's appeal, Judge Kong Srim stated that "Duch's crimes were "undoubtedly among the worst in recorded human history" and deserved "the highest penalty available".[175]
 
@@ -269,7 +265,7 @@ Public trial hearings in Phnom Penh are open to the people of Cambodia over the 
 
 Museums
 
-Skulls_from_the_killing_fields.jpg The Tuol Sleng Museum of Genocide and Choeng Ek Killing Fields are two major museums to learn the history of the Khmer Rouge.
+The Tuol Sleng Museum of Genocide and Choeng Ek Killing Fields are two major museums to learn the history of the Khmer Rouge.
 
 The Tuol Sleng Museum of Genocide is a former high school building, which was transformed into a torture, interrogation and execution center between 1976 and 1979.[182] The Khmer Rouge called the center S-21.[183] Of the estimated 15,000 to 30,000 prisoners,[184] only seven prisoners survived.[185] The Khmer Rouge photographed the vast majority of the inmates and left a photographic archive, which enables visitors to see almost 6,000 S-21 portraits on the walls.[186] Visitors can also learn how the inmates were tortured from the equipment and facilities exhibited in the buildings. In addition, one of the seven survivors shares his story with visitors at the museum.
 

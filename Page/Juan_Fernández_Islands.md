@@ -9,7 +9,7 @@ The group of islands is part of Chile's Valparaíso Region (which also includes 
 
 Geography
 
-Vortex-street-1.jpg image of the Juan Fernández Islands on 15 September 1999, shows the unique pattern of clouds known as "Kármán vortex street" caused by the interaction of winds with the islands' mountains]]
+image of the Juan Fernández Islands on 15 September 1999, shows the unique pattern of clouds known as "Kármán vortex street" caused by the interaction of winds with the islands' mountains]]
 
 -   Robinson Crusoe Island (), also known as Isla Más a Tierra, is located closest to the mainland of continental South America, and is surrounded by a number of islets, including Juanango, Viñilla, Los Chamelos, Los Claveles and El Verdugo.
     -   Santa Clara (), lying southwest of Robinson Crusoe.
@@ -50,15 +50,13 @@ The Magellanic penguin breeds on Robinson Crusoe Island within the archipelago.[
 
 History
 
-Isla_Robinson1890-1922.JPG, as seen in the late 19th or early 20th century. The ship in Cumberland Bay is the cruiser _Esmeralda_.]]
+, as seen in the late 19th or early 20th century. The ship in Cumberland Bay is the cruiser _Esmeralda_.]]
 
 The archipelago was discovered on 22 November 1574, by the Spanish sailor Juan Fernández, who was sailing south between Callao and Valparaíso along a route which he also discovered, hundreds of miles west of the coast of Chile, which avoided the northerly Humboldt current. He called the islands Más Afuera, Más a Tierra, and Santa Clara.[7]
 
 In the 17th and 18th centuries, the islands were used as a hideout for pirates and became the location of a penal colony. It was during this period that Alexander Selkirk became marooned on the islands. In the 1740s, they were visited by Commodore Anson's flotilla during his ill-fated venture to the South Seas. The location of the archipelago was fixed by Alessandro Malaspina in 1790; previous charts had differed on the location.[8] British and American whaling vessels were regular visitors to the islands, starting with the _London_ (Captain Joshua Coffin) in 1795.[9]
 
 During the maritime fur trade era of the early 19th century the islands were a source of fur seal skins, and the Juan Fernández fur seal was nearly driven to extinction. In his book, _Two Years Before the Mast_ (Chapter VII), Richard Henry Dana, Jr. described the islands as he found them circa 1834. At this time the main island was being used as a penal colony. However, when Dr John Coulter visited the penal colony in the early 1840s, he reported it deserted after the convicts had risen up and killed the soldiers who had held them captive. The prisoners fled to mainland Chile, where they were later hunted down and shot. The story appears in Coulter's book _Adventures in the Pacific_ (1845). In 1908, the islands were visited by the Swedish Magellanic Expedition and Carl Skottsberg is believed to have been the last to have seen the _Santalum fernandezianum_ tree alive.
-
-SMS_Dresden_before_scuttling.jpg
 
 Late in 1914 the islands were the rendezvous for Admiral Maximilian von Spee's East Asiatic Squadron as he gathered his ships together before defeating the British under Admiral Christopher Cradock at the Battle of Coronel. Following the Royal Navy's win at the Battle of the Falkland Islands a month later, the only surviving German cruiser, , was hunted down and cornered illegally at Más a Tierra early in 1915, although she was in Chilean territorial waters, where it was scuttled after a brief battle with British cruisers.[10]
 

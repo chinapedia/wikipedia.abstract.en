@@ -1,4 +1,4 @@
-H._P._Lovecraft,_June_1934.jpg created the _Necronomicon_ as a fictional grimoire and featured it in many of his stories.]]
+created the _Necronomicon_ as a fictional grimoire and featured it in many of his stories.]]
 
 The _NECRONOMICON_ is a fictional grimoire (textbook of magic) appearing in stories by the horror writer H. P. Lovecraft and his followers. It was first mentioned in Lovecraft's 1924 short story "The Hound",[1] written in 1922, though its purported author, the "Mad Arab" Abdul Alhazred, had been quoted a year earlier in Lovecraft's "The Nameless City".[2] Among other things, the work contains an account of the Old Ones, their history, and the means for summoning them.
 
@@ -77,7 +77,7 @@ Other copies, Lovecraft wrote, were kept by private individuals. Joseph Curwen, 
 
 Hoaxes and alleged translations
 
-Necronomicon_prop.jpg prop representing the _Necronomicon_ (2004)]]
+prop representing the _Necronomicon_ (2004)]]
 
 Although Lovecraft insisted that the book was pure invention (and other writers invented passages from the book for their own works), there are accounts of some people actually believing the _Necronomicon_ to be a real book. Lovecraft himself sometimes received letters from fans inquiring about the _Necronomicon_{{'}}s authenticity. Pranksters occasionally listed the _Necronomicon_ for sale in book store newsletters or inserted phony entries for the book in library card catalogues (where it may be checked out to one 'A. Alhazred', ostensibly the book's author and original owner). The Vatican also receives requests for this book from those who believe the Vatican Library holds a copy.[19]
 

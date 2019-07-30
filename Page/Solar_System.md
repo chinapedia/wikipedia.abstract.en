@@ -9,7 +9,7 @@ The solar wind, a stream of charged particles flowing outwards from the Sun, cre
 
 Discovery and exploration
 
-Heliocentric.jpg's illustration of the Copernican system, from the _Harmonia Macrocosmica_ (1660)|alt=]] For most of history, humanity did not recognize or understand the concept of the Solar System. Most people up to the Late Middle Ages–Renaissance believed Earth to be stationary at the centre of the universe and categorically different from the divine or ethereal objects that moved through the sky. Although the Greek philosopher Aristarchus of Samos had speculated on a heliocentric reordering of the cosmos, Nicolaus Copernicus was the first to develop a mathematically predictive heliocentric system.[8][9]
+'s illustration of the Copernican system, from the _Harmonia Macrocosmica_ (1660)|alt=]] For most of history, humanity did not recognize or understand the concept of the Solar System. Most people up to the Late Middle Ages–Renaissance believed Earth to be stationary at the centre of the universe and categorically different from the divine or ethereal objects that moved through the sky. Although the Greek philosopher Aristarchus of Samos had speculated on a heliocentric reordering of the cosmos, Nicolaus Copernicus was the first to develop a mathematically predictive heliocentric system.[8][9]
 
 In the 17th century, Galileo discovered that the Sun was marked with sunspots, and that Jupiter had four satellites in orbit around it.[10] Christiaan Huygens followed on from Galileo's discoveries by discovering Saturn's moon Titan and the shape of the rings of Saturn.[11] Edmond Halley realised in 1705 that repeated sightings of a comet were recording the same object, returning regularly once every 75–76 years. This was the first evidence that anything other than the planets orbited the Sun.[12] Around this time (1704), the term "Solar System" first appeared in English.[13] In 1838, Friedrich Bessel successfully measured a stellar parallax, an apparent shift in the position of a star created by Earth's motion around the Sun, providing the first direct, experimental proof of heliocentrism.[14] Improvements in observational astronomy and the use of unmanned spacecraft have since enabled the detailed investigation of other bodies orbiting the Sun.
 
@@ -45,9 +45,9 @@ If the Sun–Neptune distance is scaled to 100 metres, then the Sun would be abo
 
 Formation and evolution
 
-Protoplanetary-disk.jpg]] The Solar System formed 4.568 billion years ago from the gravitational collapse of a region within a large molecular cloud. This initial cloud was likely several light-years across and probably birthed several stars.[43] As is typical of molecular clouds, this one consisted mostly of hydrogen, with some helium, and small amounts of heavier elements fused by previous generations of stars. As the region that would become the Solar System, known as the pre-solar nebula,[44] collapsed, conservation of angular momentum caused it to rotate faster. The centre, where most of the mass collected, became increasingly hotter than the surrounding disc.[45] As the contracting nebula rotated faster, it began to flatten into a protoplanetary disc with a diameter of roughly 200 AU[46] and a hot, dense protostar at the centre.[47][48] The planets formed by accretion from this disc,[49] in which dust and gas gravitationally attracted each other, coalescing to form ever larger bodies. Hundreds of protoplanets may have existed in the early Solar System, but they either merged or were destroyed, leaving the planets, dwarf planets, and leftover minor bodies.
+]] The Solar System formed 4.568 billion years ago from the gravitational collapse of a region within a large molecular cloud. This initial cloud was likely several light-years across and probably birthed several stars.[43] As is typical of molecular clouds, this one consisted mostly of hydrogen, with some helium, and small amounts of heavier elements fused by previous generations of stars. As the region that would become the Solar System, known as the pre-solar nebula,[44] collapsed, conservation of angular momentum caused it to rotate faster. The centre, where most of the mass collected, became increasingly hotter than the surrounding disc.[45] As the contracting nebula rotated faster, it began to flatten into a protoplanetary disc with a diameter of roughly 200 AU[46] and a hot, dense protostar at the centre.[47][48] The planets formed by accretion from this disc,[49] in which dust and gas gravitationally attracted each other, coalescing to form ever larger bodies. Hundreds of protoplanets may have existed in the early Solar System, but they either merged or were destroyed, leaving the planets, dwarf planets, and leftover minor bodies.
 
-NASA-UltimaThule-Geology-NewHorizons-20190318.jpg visited by a spacecraft, with comet 67P to scale. Notable surface features are highlighted at right. The eight subunits of the larger lobe, labeled _ma_ to _mh_, are thought to have been its building blocks. The two lobes came together later, forming a contact binary. Objects such as are believed in turn to have formed protoplanets.[50]
+visited by a spacecraft, with comet 67P to scale. Notable surface features are highlighted at right. The eight subunits of the larger lobe, labeled _ma_ to _mh_, are thought to have been its building blocks. The two lobes came together later, forming a contact binary. Objects such as are believed in turn to have formed protoplanets.[50]
 
 ]] Due to their higher boiling points, only metals and silicates could exist in solid form in the warm inner Solar System close to the Sun, and these would eventually form the rocky planets of Mercury, Venus, Earth, and Mars. Because metallic elements only comprised a very small fraction of the solar nebula, the terrestrial planets could not grow very large. The giant planets (Jupiter, Saturn, Uranus, and Neptune) formed further out, beyond the frost line, the point between the orbits of Mars and Jupiter where material is cool enough for volatile icy compounds to remain solid. The ices that formed these planets were more plentiful than the metals and silicates that formed the terrestrial inner planets, allowing them to grow massive enough to capture large atmospheres of hydrogen and helium, the lightest and most abundant elements. Leftover debris that never became planets congregated in regions such as the asteroid belt, Kuiper belt, and Oort cloud. The Nice model is an explanation for the creation of these regions and how the outer planets could have formed in different positions and migrated to their current orbits through various gravitational interactions.
 
@@ -58,7 +58,7 @@ The Solar System will remain roughly as we know it today until the hydrogen in t
 
 Sun
 
-Planets_and_sun_size_comparison.jpg and the planets]]
+and the planets]]
 
 The Sun is the Solar System's star and by far its most massive component. Its large mass (332,900 Earth masses),[57] which comprises 99.86% of all the mass in the Solar System,[58] produces temperatures and densities in its core high enough to sustain nuclear fusion of hydrogen into helium, making it a main-sequence star.[59] This releases an enormous amount of energy, mostly radiated into space as electromagnetic radiation peaking in visible light.[60]
 
@@ -69,7 +69,7 @@ The Sun is a population I star; it has a higher abundance of elements heavier th
 
 Interplanetary medium
 
-Heliospheric-current-sheet.gif]] The vast majority of the Solar System consists of a near-vacuum known as the interplanetary medium. Along with light, the Sun radiates a continuous stream of charged particles (a plasma) known as the solar wind. This stream of particles spreads outwards at roughly 1.5 million kilometres per hour,[65] creating a tenuous atmosphere that permeates the interplanetary medium out to at least 100 AU _(see )_.[66] Activity on the Sun's surface, such as solar flares and coronal mass ejections, disturbs the heliosphere, creating space weather and causing geomagnetic storms.[67] The largest structure within the heliosphere is the heliospheric current sheet, a spiral form created by the actions of the Sun's rotating magnetic field on the interplanetary medium.[68][69]
+]] The vast majority of the Solar System consists of a near-vacuum known as the interplanetary medium. Along with light, the Sun radiates a continuous stream of charged particles (a plasma) known as the solar wind. This stream of particles spreads outwards at roughly 1.5 million kilometres per hour,[65] creating a tenuous atmosphere that permeates the interplanetary medium out to at least 100 AU _(see )_.[66] Activity on the Sun's surface, such as solar flares and coronal mass ejections, disturbs the heliosphere, creating space weather and causing geomagnetic storms.[67] The largest structure within the heliosphere is the heliospheric current sheet, a spiral form created by the actions of the Sun's rotating magnetic field on the interplanetary medium.[68][69]
 
 Earth's magnetic field stops its atmosphere from being stripped away by the solar wind.[70] Venus and Mars do not have magnetic fields, and as a result the solar wind is causing their atmospheres to gradually bleed away into space.[71] Coronal mass ejections and similar events blow a magnetic field and huge quantities of material from the surface of the Sun. The interaction of this magnetic field and material with Earth's magnetic field funnels charged particles into Earth's upper atmosphere, where its interactions create aurorae seen near the magnetic poles.
 
@@ -84,7 +84,7 @@ The INNER SOLAR SYSTEM is the region comprising the terrestrial planets and the 
 
  Inner planets
 
-Telluric_planets_size_comparison.jpg, Mars, Venus, and Mercury (sizes to scale).]] Solar_system_orrery_inner_planets.png showing the motions of the inner four planets. The small spheres represent the position of each planet on every Julian day, beginning July 6, 2018 (aphelion) and ending January 3, 2019 (perihelion).]] The four terrestrial or INNER PLANETS have dense, rocky compositions, few or no moons, and no ring systems. They are composed largely of refractory minerals, such as the silicateswhich form their crusts and mantlesand metals, such as iron and nickel, which form their cores. Three of the four inner planets (Venus, Earth and Mars) have atmospheres substantial enough to generate weather; all have impact craters and tectonic surface features, such as rift valleys and volcanoes. The term _inner planet_ should not be confused with _inferior planet_, which designates those planets that are closer to the Sun than Earth is (i.e. Mercury and Venus).
+, Mars, Venus, and Mercury (sizes to scale).]] showing the motions of the inner four planets. The small spheres represent the position of each planet on every Julian day, beginning July 6, 2018 (aphelion) and ending January 3, 2019 (perihelion).]] The four terrestrial or INNER PLANETS have dense, rocky compositions, few or no moons, and no ring systems. They are composed largely of refractory minerals, such as the silicateswhich form their crusts and mantlesand metals, such as iron and nickel, which form their cores. Three of the four inner planets (Venus, Earth and Mars) have atmospheres substantial enough to generate weather; all have impact craters and tectonic surface features, such as rift valleys and volcanoes. The term _inner planet_ should not be confused with _inferior planet_, which designates those planets that are closer to the Sun than Earth is (i.e. Mercury and Venus).
 
 Mercury
 
@@ -104,7 +104,7 @@ Mars
 
 Asteroid belt
 
-InnerSolarSystem-en.png is located between the orbits of Mars and Jupiter.
+is located between the orbits of Mars and Jupiter.
 
 +--+--+
 |  |  |
@@ -117,8 +117,6 @@ Asteroids except for the largest, Ceres, are classified as small Solar System bo
 The asteroid belt occupies the orbit between Mars and Jupiter, between from the Sun. It is thought to be remnants from the Solar System's formation that failed to coalesce because of the gravitational interference of Jupiter.[96] The asteroid belt contains tens of thousands, possibly millions, of objects over one kilometre in diameter.[97] Despite this, the total mass of the asteroid belt is unlikely to be more than a thousandth of that of Earth.[98] The asteroid belt is very sparsely populated; spacecraft routinely pass through without incident.
 
 Ceres
-
-PIA22083-Ceres-DwarfPlanet-GravityMapping-20171026.gif
 
     Ceres (2.77 AU) is the largest asteroid, a protoplanet, and a dwarf planet.[99] It has a diameter of slightly under , and a mass large enough for its own gravity to pull it into a spherical shape. Ceres was considered a planet when it was discovered in 1801, and was reclassified to asteroid in the 1850s as further observations revealed additional asteroids.[100] It was classified as a dwarf planet in 2006 when the definition of a planet was created.
 
@@ -137,7 +135,7 @@ The outer region of the Solar System is home to the giant planets and their larg
 
 Outer planets
 
-upright=1.25, Saturn, Uranus and Neptune, compared to the inner planets Earth, Venus, Mars and Mercury (in the foreground).]] Solar_system_orrery_outer_planets.png showing the motions of the outer four planets. The small spheres represent the position of each planet on every 100 Julian days, beginning January 21, 2023 (Jovian perihelion) and ending December 2, 2034 (Jovian perihelion).]]
+upright=1.25, Saturn, Uranus and Neptune, compared to the inner planets Earth, Venus, Mars and Mercury (in the foreground).]] showing the motions of the outer four planets. The small spheres represent the position of each planet on every 100 Julian days, beginning January 21, 2023 (Jovian perihelion) and ending December 2, 2034 (Jovian perihelion).]]
 
 The four outer planets, or giant planets (sometimes called Jovian planets), collectively make up 99% of the mass known to orbit the Sun.[104] Jupiter and Saturn are together more than 400 times the mass of Earth and consist overwhelmingly of hydrogen and helium. Uranus and Neptune are far less massiveless than 20 Earth masses () eachand are composed primarily of ices. For these reasons, some astronomers suggest they belong in their own category, ice giants.[105] All four giant planets have rings, although only Saturn's ring system is easily observed from Earth. The term _superior planet_ designates planets outside Earth's orbit and thus includes both the outer planets and Mars.
 
@@ -164,7 +162,7 @@ The centaurs are icy comet-like bodies whose orbits have semi-major axes greater
 
 Comets
 
-Comet-Hale-Bopp-29-03-1997_hires_adj.jpg seen in 1997]]
+seen in 1997]]
 
 Comets are small Solar System bodies,[114] typically only a few kilometres across, composed largely of volatile ices. They have highly eccentric orbits, generally a perihelion within the orbits of the inner planets and an aphelion far beyond Pluto. When a comet enters the inner Solar System, its proximity to the Sun causes its icy surface to sublimate and ionise, creating a coma: a long tail of gas and dust often visible to the naked eye.
 
@@ -177,15 +175,13 @@ Beyond the orbit of Neptune lies the area of the "trans-Neptunian region", with 
 
 Kuiper belt
 
-Kuiper_belt_plot_objects_of_outer_solar_system.png
-
 +--+--+
 |  |  |
 +--+--+
 
 ]]
 
-EightTNOs.png with Earth: and its moons, , , , Sedna, , Quaoar, and Orcus.]]
+with Earth: and its moons, , , , Sedna, , Quaoar, and Orcus.]]
 
 The Kuiper belt is a great ring of debris similar to the asteroid belt, but consisting mainly of objects composed primarily of ice.[119] It extends between 30 and 50 AU from the Sun. Though it is estimated to contain anything from dozens to thousands of dwarf planets, it is composed mainly of small Solar System bodies. Many of the larger Kuiper belt objects, such as Quaoar, Varuna, and Orcus, may prove to be dwarf planets with further data. There are estimated to be over 100,000 Kuiper belt objects with a diameter greater than 50 km, but the total mass of the Kuiper belt is thought to be only a tenth or even a hundredth the mass of Earth.[120] Many Kuiper belt objects have multiple satellites,[121] and most have orbits that take them outside the plane of the ecliptic.[122]
 
@@ -214,13 +210,13 @@ Eris
 
 Farthest regions
 
-Solarmap.png in astronomical units (AU)]]
+in astronomical units (AU)]]
 
 The point at which the Solar System ends and interstellar space begins is not precisely defined because its outer boundaries are shaped by two separate forces: the solar wind and the Sun's gravity. The limit of the solar wind's influence is roughly four times Pluto's distance from the Sun; this _heliopause_, the outer boundary of the heliosphere, is considered the beginning of the interstellar medium.[134] The Sun's Hill sphere, the effective range of its gravitational dominance, is thought to extend up to a thousand times farther and encompasses the theorized Oort cloud.[135]
 
  Heliosphere
 
-NewHeliopause_558121.jpg with its various transitional regions moving through the interstellar medium]]
+with its various transitional regions moving through the interstellar medium]]
 
 The heliosphere is a stellar-wind bubble, a region of space dominated by the Sun, which radiates at roughly 400 km/s its solar wind, a stream of charged particles, until it collides with the wind of the interstellar medium.
 
@@ -228,7 +224,7 @@ The collision occurs at the _termination shock_, which is roughly 80–100 AU f
 
 The outer boundary of the heliosphere, the _heliopause_, is the point at which the solar wind finally terminates and is the beginning of interstellar space.[139] _Voyager 1_ and _Voyager 2_ are reported to have passed the termination shock and entered the heliosheath, at 94 and 84 AU from the Sun, respectively.[140][141] _Voyager 1_ is reported to have crossed the heliopause in August 2012.[142]
 
-The shape and form of the outer edge of the heliosphere is likely affected by the fluid dynamics of interactions with the interstellar medium as well as solar magnetic fields prevailing to the south, e.g. it is bluntly shaped with the northern hemisphere extending 9 AU farther than the southern hemisphere.[143] Beyond the heliopause, at around 230 AU, lies the bow shock, a plasma "wake" left by the Sun as it travels through the Milky Way.[144] Zooming out the Solar System:
+The shape and form of the outer edge of the heliosphere is likely affected by the fluid dynamics of interactions with the interstellar medium as well as solar magnetic fields prevailing to the south, e.g. it is bluntly shaped with the northern hemisphere extending 9 AU farther than the southern hemisphere.[143] Beyond the heliopause, at around 230 AU, lies the bow shock, a plasma "wake" left by the Sun as it travels through the Milky Way.[144]
 
 Due to a lack of data, conditions in local interstellar space are not known for certain. It is expected that NASA's Voyager spacecraft, as they pass the heliopause, will transmit valuable data on radiation levels and solar wind to Earth.[145] How well the heliosphere shields the Solar System from cosmic rays is poorly understood. A NASA-funded team has developed a concept of a "Vision Mission" dedicated to sending a probe to the heliosphere.[146][147]
 
@@ -238,7 +234,7 @@ Detached objects
 
 Oort cloud
 
-Kuiper_oort-en.svg}}, with a spherical outer cloud and a disc-shaped inner cloud]] The Oort cloud is a hypothetical spherical cloud of up to a trillion icy objects that is thought to be the source for all long-period comets and to surround the Solar System at roughly 50,000 AU (around 1 light-year (ly)), and possibly to as far as 100,000 AU (1.87 ly). It is thought to be composed of comets that were ejected from the inner Solar System by gravitational interactions with the outer planets. Oort cloud objects move very slowly, and can be perturbed by infrequent events, such as collisions, the gravitational effects of a passing star, or the galactic tide, the tidal force exerted by the Milky Way.[152][153]
+}}, with a spherical outer cloud and a disc-shaped inner cloud]] The Oort cloud is a hypothetical spherical cloud of up to a trillion icy objects that is thought to be the source for all long-period comets and to surround the Solar System at roughly 50,000 AU (around 1 light-year (ly)), and possibly to as far as 100,000 AU (1.87 ly). It is thought to be composed of comets that were ejected from the inner Solar System by gravitational interactions with the outer planets. Oort cloud objects move very slowly, and can be perturbed by infrequent events, such as collisions, the gravitational effects of a passing star, or the galactic tide, the tidal force exerted by the Milky Way.[152][153]
 
 Boundaries
 
@@ -255,7 +251,7 @@ The Solar System's location in the Milky Way is a factor in the evolutionary his
 
 Neighbourhood
 
-Local_Interstellar_Clouds_with_motion_arrows.jpg.]] The Solar System is in the Local Interstellar Cloud or Local Fluff. It is thought to be near the neighbouring G-Cloud but it is not known if the Solar System is embedded in the Local Interstellar Cloud, or if it is in the region where the Local Interstellar Cloud and G-Cloud are interacting.[166][167] The Local Interstellar Cloud is an area of denser cloud in an otherwise sparse region known as the Local Bubble, an hourglass-shaped cavity in the interstellar medium roughly 300 light-years (ly) across. The bubble is suffused with high-temperature plasma, that suggests it is the product of several recent supernovae.[168]
+.]] The Solar System is in the Local Interstellar Cloud or Local Fluff. It is thought to be near the neighbouring G-Cloud but it is not known if the Solar System is embedded in the Local Interstellar Cloud, or if it is in the region where the Local Interstellar Cloud and G-Cloud are interacting.[166][167] The Local Interstellar Cloud is an area of denser cloud in an otherwise sparse region known as the Local Bubble, an hourglass-shaped cavity in the interstellar medium roughly 300 light-years (ly) across. The bubble is suffused with high-temperature plasma, that suggests it is the product of several recent supernovae.[168]
 
 There are relatively few stars within ten light-years of the Sun. The closest is the triple star system Alpha Centauri, which is about 4.4 light-years away. Alpha Centauri A and B are a closely tied pair of Sun-like stars, whereas the small red dwarf, Proxima Centauri, orbits the pair at a distance of 0.2 light-year. In 2016, a potentially habitable exoplanet was confirmed to be orbiting Proxima Centauri, called Proxima Centauri b, the closest confirmed exoplanet to the Sun.[169] The stars next closest to the Sun are the red dwarfs Barnard's Star (at 5.9 ly), Wolf 359 (7.8 ly), and Lalande 21185 (8.3 ly).
 
@@ -273,8 +269,8 @@ Visual summary
 This section is a sampling of Solar System bodies, selected for size and quality of imagery, and sorted by volume. Some omitted objects are larger than the ones included here, notably Eris, because these have not been imaged in high quality.
 
   _Voyager 1_ views the Solar System from over 6 billion km from Earth.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  PIA00453-SolarSystem-VenusEarthJupiterSaturnUranusNeptune-Voyager1-19960913.jpg Venus, Earth (_Pale Blue Dot_), Jupiter, Saturn, Uranus, Neptune (13 September 1996).
+  ---------------------------------------------------------------------------------------
+  Venus, Earth (_Pale Blue Dot_), Jupiter, Saturn, Uranus, Neptune (13 September 1996).
 
 
 See also

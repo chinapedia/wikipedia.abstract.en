@@ -31,7 +31,7 @@ The original PNG specification was authored by an ad-hoc group of computer graph
 
 File format
 
-PNG-Gradient_hex.png viewed with a hex editor]]
+viewed with a hex editor]]
 
 File header
 
@@ -167,7 +167,7 @@ Alpha storage can be "associated" ("premultiplied") or "unassociated", but PNG s
 
 Compression
 
-PNG_demo_Banana.pngPNG_demo_heatmap_Banana.png PNG uses a 2-stage compression process:
+PNG uses a 2-stage compression process:
 
 -   pre-compression: filtering (prediction)
 -   compression: DEFLATE
@@ -177,8 +177,6 @@ PNG uses DEFLATE, a non-patented lossless data compression algorithm involving a
 Compared to formats with lossy compression such as JPG, choosing a compression setting higher than average delays processing, but often does not result in a significantly smaller file size.
 
 Filtering
-
-Pixel-prediction.svg PNG-Gradient.png
 
 Before DEFLATE is applied, the data is transformed via a prediction method: a single _filter method_ is used for the entire image, while for each image line, a _filter type_ is chosen to transform the data to make it more efficiently compressible.[19] The filter type used for a scanline is prepended to the scanline to enable inline decompression.
 
@@ -202,13 +200,13 @@ If interlacing is used, each stage of the interlacing is filtered separately, me
 
 Interlacing
 
-Adam7_passes.gif PNG offers an optional 2-dimensional, 7-pass interlacing scheme—the Adam7 algorithm. This is more sophisticated than GIF's 1-dimensional, 4-pass scheme, and allows a clearer low-resolution image to be visible earlier in the transfer, particularly if interpolation algorithms such as bicubic interpolation are used.[23]
+PNG offers an optional 2-dimensional, 7-pass interlacing scheme—the Adam7 algorithm. This is more sophisticated than GIF's 1-dimensional, 4-pass scheme, and allows a clearer low-resolution image to be visible earlier in the transfer, particularly if interpolation algorithms such as bicubic interpolation are used.[23]
 
 However, the 7-pass scheme tends to reduce the data's compressibility more than simpler schemes.
 
 Animation
 
-Animated_PNG_example_bouncing_beach_ball.png)]] PNG itself does not support animation at all. MNG is an extension to PNG that does; it was designed by members of the PNG Group. MNG shares PNG's basic structure and chunks, but it is significantly more complex and has a different file signature, which automatically renders it incompatible with standard PNG decoders.
+)]] PNG itself does not support animation at all. MNG is an extension to PNG that does; it was designed by members of the PNG Group. MNG shares PNG's basic structure and chunks, but it is significantly more complex and has a different file signature, which automatically renders it incompatible with standard PNG decoders.
 
 The complexity of MNG led to the proposal of APNG by developers of the Mozilla Foundation. It is based on PNG, supports animation and is simpler than MNG. APNG offers fallback to single-image display for PNG decoders that do not support APNG. However, neither of these formats is currently widely supported. APNG is supported in Firefox 3.0 and up, Pale Moon (all versions), and Opera 9.5,[24] but since Opera changed its layout engine to Blink, support was dropped. The latest version of Safari on iOS 8 and Safari 8 for OS X Yosemite support APNG.[25] Chromium 59.0 has added APNG support,[26][27] then Opera added back in 46.0.[28] The PNG Group decided in April 2007 not to embrace APNG.[29] Several alternatives were under discussion, ANG, aNIM/mPNG, "PNG in GIF" and its subset "RGBA in GIF".[30]
 
@@ -227,8 +225,6 @@ Graphics Interchange Format (GIF)
 PNG images are less widely supported by older browsers. In particular, IE6 has limited support for PNG.[32]
 
 JPEG
-
-Comparison_of_JPEG_and_PNG.png
 
 The JPEG (Joint Photographic Experts Group) format can produce a smaller file than PNG for photographic (and photo-like) images, since JPEG uses a lossy encoding method specifically designed for photographic image data, which is typically dominated by soft, low-contrast transitions, and an amount of noise or similar irregular structures. Using PNG instead of a high-quality JPEG for such images would result in a large increase in filesize with negligible gain in quality. In comparison, when storing images that contain text, line art, or graphics – images with sharp transitions and large areas of solid color – the PNG format can compress image data more than JPEG can. Additionally, PNG is lossless, while JPEG produces visual artifacts around high-contrast areas. (Such artifacts depend on the settings used in the JPG compression; they can be quite noticeable when a low-quality [high-compression] setting is used.) Where an image contains both sharp transitions and photographic parts, a choice must be made between the two effects. JPEG does not support transparency.
 

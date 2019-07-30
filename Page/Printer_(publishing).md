@@ -1,5 +1,3 @@
-Printing_towns_incunabula.svg
-
 In publishing, '''printers ''' are both companies providing printing services and individuals who directly operate printing presses.[1]
 
 Printers include:

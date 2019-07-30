@@ -14,7 +14,7 @@ The _Reichsmarine_ was considered the armed naval force of the _Reichswehrminist
 
 Naval headquarters
 
-Red_Castle_by_the_Sea_1929.jpg in 1929]] The naval commander oversaw a headquarters office known as the _Marinekommandiertenabteilung_ which was headquartered in Berlin. The Naval Command also maintained a headquarters intelligence office (_Marinenachrichtenoffizier_) and a naval archives. Internal to the naval headquarters five offices known as the:
+in 1929]] The naval commander oversaw a headquarters office known as the _Marinekommandiertenabteilung_ which was headquartered in Berlin. The Naval Command also maintained a headquarters intelligence office (_Marinenachrichtenoffizier_) and a naval archives. Internal to the naval headquarters five offices known as the:
 
 -   _Marinekommandoamt_ (A) – Operations
 -   _Allgemeine Marineamt_ (B) – General Administration
@@ -54,7 +54,7 @@ The Treaty of Versailles limited the size and armament of the _Reichsmarine_ and
 
 Germany was only allowed six battleships, six cruisers, twelve destroyers, and twelve torpedo boats. The _Reichsmarine_ tried to meet the arms restrictions with secret armament and technical innovations such as the introduction of the pocket battleship.
 
-List of _Reichsmarine_ ships: Bundesarchiv_DVM_10_Bild-23-63-33,_Kriegsschiffe_der_Reichsmarine_in_Kiellinie.jpg
+List of _Reichsmarine_ ships:
 
 -   s
 

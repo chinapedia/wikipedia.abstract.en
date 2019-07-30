@@ -1,5 +1,3 @@
-Relais-Finder-12A.webm Relay.jpg
-
 A RELAY is an electrically operated switch. Many relays use an electromagnet to mechanically operate a switch, but other operating principles are also used, such as solid-state relays. Relays are used where it is necessary to control a circuit by a separate low-power signal, or where several circuits must be controlled by one signal. The first relays were used in long distance telegraph circuits as amplifiers: they repeated the signal coming in from one circuit and re-transmitted it on another circuit. Relays were used extensively in telephone exchanges and early computers to perform logical operations.
 
 A type of relay that can handle the high power required to directly control an electric motor or other loads is called a contactor. Solid-state relays control power circuits with no moving parts, instead using a semiconductor device to perform switching. Relays with calibrated operating characteristics and sometimes multiple operating coils are used to protect electrical circuits from overload or faults; in modern electric power systems these functions are performed by digital instruments still called "protective relays". Magnetic latching relays require one pulse of coil power to move their contacts in one direction, and another, redirected pulse to move them back. Repeated pulses from the same input have no effect. Magnetic latching relays are useful in applications where interrupted power should not affect the circuits that the relay is controlling.
@@ -11,7 +9,7 @@ History
 
 In 1809 Samuel Thomas von Sömmerring designed an electrolytic relay as part of his electrochemical telegraph.[1]
 
-American scientist Joseph Henry is often claimed to have invented a relay in 1835 in order to improve his version of the electrical telegraph, developed earlier in 1831.[2][3][4][5] Relay_contacts.jpg It is claimed that English inventor Edward Davy _"certainly invented the electric relay"_[6] in his electric telegraph c.1835.
+American scientist Joseph Henry is often claimed to have invented a relay in 1835 in order to improve his version of the electrical telegraph, developed earlier in 1831.[2][3][4][5] It is claimed that English inventor Edward Davy _"certainly invented the electric relay"_[6] in his electric telegraph c.1835.
 
 A simple device, which is now called a relay, was included in the original 1840 telegraph patent of Samuel Morse.[7] The mechanism described acted as a digital amplifier, repeating the telegraph signal, and thus allowing signals to be propagated as far as desired.[8]
 
@@ -19,8 +17,6 @@ The word _relay_ appears in the context of electromagnetic operations from 1860.
 
 
 Basic design and operation
-
-Relay_Parts.jpg Relay2.jpg
 
 A simple electromagnetic relay consists of a coil of wire wrapped around a soft iron core (a solenoid), an iron yoke which provides a low reluctance path for magnetic flux, a movable iron armature, and one or more sets of contacts (there are two contacts in the relay pictured). The armature is hinged to the yoke and mechanically linked to one or more sets of moving contacts. The armature is held in place by a spring so that when the relay is de-energized there is an air gap in the magnetic circuit. In this condition, one of the two sets of contacts in the relay pictured is closed, and the other set is open. Other relays may have more or fewer sets of contacts depending on their function. The relay in the picture also has a wire connecting the armature to the yoke. This ensures continuity of the circuit between the moving contacts on the armature, and the circuit track on the printed circuit board (PCB) via the yoke, which is soldered to the PCB.
 
@@ -57,8 +53,6 @@ Force-guided contact relays are made with different main contact sets, either NO
 
 Latching relay
 
-Latching_relay_bistable_permanent_magnet.jpg
-
 A _latching relay_ (also called "latch", "impulse", "bistable", "keep", or "stay" relays) maintains either contact position indefinitely without power applied to the coil. The advantage is that one coil consumes power only for an instant while the relay is being switched, and the relay contacts retain this setting across a power outage. A latching relay allows remote control of building lighting without the hum that may be produced from a continuously (AC) energized coil.
 
 In one mechanism, two opposing coils with an over-center spring or permanent magnet hold the contacts in position after the coil is de-energized. A pulse to one coil turns the relay on and a pulse to the opposite coil turns the relay off. This type is widely used where control is from simple switches or single-ended outputs of a control system, and such relays are found in avionics and numerous industrial applications.
@@ -89,8 +83,6 @@ A mercury relay is a relay that uses mercury as the switching element. They are 
 
 Mercury-wetted relay
 
-Clare_HGRM-55211-P00_mercury-wetted_reed_relay.jpg
-
 A MERCURY-WETTED REED RELAY is a form of reed relay in which the contacts are wetted with mercury. Such relays are used to switch low-voltage signals (one volt or less) where the mercury reduces the contact resistance and associated voltage drop, for low-current signals where surface contamination may make for a poor contact, or for high-speed applications where the mercury eliminates contact bounce. Mercury wetted relays are position-sensitive and must be mounted according to the manufacturer's specifications to work properly. Because of the toxicity and expense of liquid mercury, these relays are now rarely used.
 
 The mercury-wetted relay has one particular advantage, in that the contact closure appears to be virtually instantaneous, as the mercury globules on each contact coalesce. The current rise time through the contacts is generally considered to be a few picoseconds, however in a practical circuit it will be limited by the inductance of the contacts and wiring. It was quite common, before the restrictions on the use of mercury, to use a mercury-wetted relay in the laboratory as a convenient means of generating fast rise time pulses, however although the rise time may be picoseconds, the exact timing of the event is, like all other types of relay, subject to considerable jitter, possibly milliseconds, due to mechanical imperfections.
@@ -117,7 +109,7 @@ A POLARIZED RELAY places the armature between the poles of a permanent magnet to
 
 Reed relay
 
-Reedrelay.jpg A reed relay is a reed switch enclosed in a solenoid. The switch has a set of contacts inside an evacuated or inert gas-filled glass tube that protects the contacts against atmospheric corrosion; the contacts are made of magnetic material that makes them move under the influence of the field of the enclosing solenoid or an external magnet.
+A reed relay is a reed switch enclosed in a solenoid. The switch has a set of contacts inside an evacuated or inert gas-filled glass tube that protects the contacts against atmospheric corrosion; the contacts are made of magnetic material that makes them move under the influence of the field of the enclosing solenoid or an external magnet.
 
 Reed relays can switch faster than larger relays and require very little power from the control circuit. However, they have relatively low switching current and voltage ratings. Though rare, the reeds can become magnetized over time, which makes them stick "on", even when no current is present; changing the orientation of the reeds or degaussing the switch with respect to the solenoid's magnetic field can resolve this problem.
 
@@ -133,7 +125,7 @@ A SOLID-STATE CONTACTOR is a heavy-duty solid state relay, including the necessa
 
 Solid-state relay
 
-Solid_state_relay.jpg relays have no moving parts.]] Solid-state-contactor.jpg
+relays have no moving parts.]]
 
 A SOLID-STATE RELAY (SSR) is a solid state electronic component that provides a function similar to an electromechanical relay but does not have any moving components, increasing long-term reliability. A solid-state relay uses a thyristor, TRIAC or other solid-state switching device, activated by the control signal, to switch the controlled load, instead of a solenoid. An optocoupler (a light-emitting diode (LED) coupled with a photo transistor) can be used to isolate control and controlled circuits.[25]
 
@@ -157,8 +149,6 @@ A sensitive relay having its contacts mounted in a highly evacuated glass housin
 
 
 Pole and throw
-
-Relay_symbols.svg
 
 Since relays are switches, the terminology applied to switches is also applied to relays; a relay switches one or more _poles_, each of whose contacts can be _thrown_ by energizing the coil. Normally open (NO) contacts connect the circuit when the relay is activated; the circuit is disconnected when the relay is inactive. Normally closed (NC) contacts disconnect the circuit when the relay is activated; the circuit is connected when the relay is inactive. All of the contact forms involve combinations of NO and NC connections.
 
@@ -187,8 +177,6 @@ DIN 72552 defines contact numbers in relays for automotive use;
 
 Applications
 
-ACRelay.jpg
-
 Relays are used wherever it is necessary to control a high power or high voltage circuit with a low power circuit, especially when galvanic isolation is desirable. The first application of relays was in long telegraph lines, where the weak signal received at an intermediate station could control a contact, regenerating the signal for further transmission. High-voltage or high-current devices can be controlled with small, low voltage wiring and pilots switches. Operators can be isolated from the high voltage circuit. Low power devices such as microprocessors can drive relays to control electrical loads beyond their direct drive capability. In an automobile, a starter relay allows the high current of the cranking motor to be controlled with small wiring and contacts in the ignition key.
 
 Electromechanical switching systems including Strowger and Crossbar telephone exchanges made extensive use of relays in ancillary control circuits. The Relay Automatic Telephone Company also manufactured telephone exchanges based solely on relay switching techniques designed by Gotthilf Ansgarius Betulander. The first public relay based telephone exchange in the UK was installed in Fleetwood on 15 July 1922 and remained in service until 1959.[30][31]
@@ -202,7 +190,7 @@ Because relays are much more resistant than semiconductors to nuclear radiation,
 
 Relay application considerations
 
-Uy-multi1-hy.jpg and 5XB switch telephone exchanges; cover removed on one.]]
+and 5XB switch telephone exchanges; cover removed on one.]]
 
 Selection of an appropriate relay for a particular application requires evaluation of many different factors:
 
@@ -255,8 +243,6 @@ For protection of electrical apparatus and transmission lines, electromechanical
 
 
 Railway signalling
-
-Relay_room.jpg
 
 Railway signalling relays are large considering the mostly small voltages (less than 120 V) and currents (perhaps 100 mA) that they switch. Contacts are widely spaced to prevent flashovers and short circuits over a lifetime that may exceed fifty years.
 

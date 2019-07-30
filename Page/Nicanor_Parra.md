@@ -3,11 +3,11 @@ NICANOR SEGUNDO PARRA SANDOVAL (5 September 1914 – 23 January 2018) was a Chil
 
 Life
 
-Nicanor_Parra_(c._1935).jpg Parra, the son of a schoolteacher, was born in 1914 in San Fabián de Alico, near Chillán, in Chile.[1] He came from the artistically prolific Parra family of performers, musicians, artists, and writers. His sister, Violeta Parra, was a folk singer, as was his brother Roberto Parra Sandoval.
+Parra, the son of a schoolteacher, was born in 1914 in San Fabián de Alico, near Chillán, in Chile.[1] He came from the artistically prolific Parra family of performers, musicians, artists, and writers. His sister, Violeta Parra, was a folk singer, as was his brother Roberto Parra Sandoval.
 
 In 1933, he entered the Instituto Pedagógico of the University of Chile, where he qualified as a teacher of mathematics and physics in 1938, one year after the publication of his first book, _Cancionero sin Nombre_. After teaching in Chilean secondary schools, in 1943 he enrolled in Brown University in the United States to study physics. In 1948, he attended Oxford University to study cosmology.[2] He returned to Chile as a professor at the Universidad de Chile in 1946. Parra served as a professor of theoretical physics at the University of Chile from 1952 to 1991, and was a visiting professor at Louisiana State University, New York University, and Yale University.[3] He read his poetry in England, France, Russia, Mexico, Cuba, and the United States. He published dozens of books.
 
-Parra chose to leave behind the conventions of poetry; his poetic language renounced the refinement of most Latin American literature and adopted a more colloquial tone. His first collection, _Poemas y Antipoemas_ (1954) is a classic of Latin American literature, one of the most influential Spanish poetry collections of the twentieth century. It is cited as an inspiration by American Beat writers such as Allen Ginsberg.[4][5] Nicanor_Parra_en_2014.jpg
+Parra chose to leave behind the conventions of poetry; his poetic language renounced the refinement of most Latin American literature and adopted a more colloquial tone. His first collection, _Poemas y Antipoemas_ (1954) is a classic of Latin American literature, one of the most influential Spanish poetry collections of the twentieth century. It is cited as an inspiration by American Beat writers such as Allen Ginsberg.[4][5]
 
 A fictionalized version of Parra appeared in Alejandro Jodorowsky's autobiographical film _Endless Poetry_ (2016).
 

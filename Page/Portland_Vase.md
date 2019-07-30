@@ -21,7 +21,7 @@ Interpretations include:
 
 Scene 2
 
-Portland_Vase_BM_Gem4036_n4.jpg Interpretations include:
+Interpretations include:
 
 -   A divinatory dream by Hecuba that the Judgement of Paris would lead to the destruction of Troy
 -   Ariadne languishing on Naxos
@@ -29,7 +29,7 @@ Portland_Vase_BM_Gem4036_n4.jpg Interpretations include:
 
 Octavian theory
 
-Portland_Vase_BM_Gem4036_n3.jpg]] Another variant theory is that the vase dates back to circa 32 BC, and was commissioned by Octavian (later Caesar Augustus), as an attempt to promote his case against his fellow-consuls, Mark Antony and Marcus Lepidus in the period after the death of Julius Caesar. It is based on the skill of the famous Greek carver of engraved gems Dioskourides, who is recorded as active and at his peak circa 40–15 BC and three of whose attributed cameos bear a close resemblance in line and quality to the Portland vase figures. This theory proposes that the first two figures are Gaius Octavius, father of the future emperor, and Atia Balba Caesonia, his mother (hence Cupid with the arrow) who had a dream of being impregnated by Apollo in the form of a sea serpent (ketos), note the snake's prominent teeth. The onlooker with his staff, could be Aeneas, a hero of the Trojan Wars who saved his father by carrying over his back (hence his hunched position, and his Trojan beard) and who is believed to have founded Rome, and from whom the Julian gens, including Julius Caesar and Attia, claimed descent, witnessing the conception of Rome's future savior as an Empire, and the greatest of all the Emperors.
+]] Another variant theory is that the vase dates back to circa 32 BC, and was commissioned by Octavian (later Caesar Augustus), as an attempt to promote his case against his fellow-consuls, Mark Antony and Marcus Lepidus in the period after the death of Julius Caesar. It is based on the skill of the famous Greek carver of engraved gems Dioskourides, who is recorded as active and at his peak circa 40–15 BC and three of whose attributed cameos bear a close resemblance in line and quality to the Portland vase figures. This theory proposes that the first two figures are Gaius Octavius, father of the future emperor, and Atia Balba Caesonia, his mother (hence Cupid with the arrow) who had a dream of being impregnated by Apollo in the form of a sea serpent (ketos), note the snake's prominent teeth. The onlooker with his staff, could be Aeneas, a hero of the Trojan Wars who saved his father by carrying over his back (hence his hunched position, and his Trojan beard) and who is believed to have founded Rome, and from whom the Julian gens, including Julius Caesar and Attia, claimed descent, witnessing the conception of Rome's future savior as an Empire, and the greatest of all the Emperors.
 
 On the reverse is Octavian, Octavia his sister, widow of Mark Anthony (downcast flambeau, broken tablets) and Livia, Octavian's third wife who outlived him. These two are looking directly at each other. Octavian commanded she divorce her then husband and marry him with a few weeks of meeting, she was mother to the future Emperor Tiberius.
 
@@ -49,7 +49,7 @@ Jerome Eisenberg has argued in _Minerva_ that the vase was produced in the 16th 
 
 Rediscovery and provenance
 
-V&A,_6th_Dec_05_228.jpg, London, with its original roundel base still in place]]
+, London, with its original roundel base still in place]]
 
 One story suggests that it was discovered by Fabrizio Lazzaro in what was then thought to be the sarcophagus of the Emperor Alexander Severus (died 235) and his mother, at Monte del Grano near Rome, and excavated some time around 1582.
 
@@ -63,8 +63,6 @@ The 3rd Duke lent the original vase to Josiah Wedgwood and then to the British M
 
 Copies
 
-Portland_Vase_V&A.jpg
-
 The 3rd Duke lent the vase to Josiah Wedgwood, who had already had it described to him by the sculptor John Flaxman as "the finest production of Art that has been brought to England and seems to be the very apex of perfection to which you are endeavoring". Wedgwood devoted four years of painstaking trials at duplicating the vase – not in glass but in black and white jasperware. He had problems with his copies ranging from cracking and blistering (clearly visible on the example at the Victoria and Albert Museum) to the sprigged reliefs 'lifting' during the firing, and in 1786 he feared that he could never apply the Jasper relief thinly enough to match the glass original's subtlety and delicacy. He finally managed to perfect it in 1790, with the issue of the "first-edition" of copies (with some of this edition, including the V&A one, copying the cameo's delicacy by a combination of undercutting and shading the reliefs in grey), and it marks his last major achievement.
 
 Wedgwood put the first edition on private show between April and May 1790, with that exhibition proving so popular that visitor numbers had to be restricted by only printing 1,900 tickets, before going on show in his public London showrooms. (One ticket to the private exhibition, illustrated by Samuel Alkin and printed with 'Admission to see Mr Wedgwood's copy of The Portland Vase, Greek Street, Soho, between 12 o'clock and 5', was bound into the Wedgwood catalogue on view in the Victoria and Albert Museum's British Galleries.) As well as the V&A copy (said to have come from the collection of Wedgwood's grandson, the naturalist Charles Darwin),[8] others are held at the Fitzwilliam Museum (this is the copy sent by Wedgwood to Erasmus Darwin which his descendants lent to the Museum in 1963 and later sold to them); the Indianapolis Museum of Art[9] and the Department of Prehistory and Europe at the British Museum.
@@ -75,11 +73,9 @@ The Wedgwood Museum, in Barlaston, near Stoke-on-Trent, contains a display descr
 
 Vandalism and reconstruction
 
-Thomas_H._Shepherd_-_The_Portland_Vase_fragments.jpg (1845)]]
+(1845)]]
 
 At 3:45 p.m. on 7 February 1845, the vase was shattered by William Lloyd, who, after drinking all the previous week, threw a nearby sculpture on top of the case, smashing both it and the vase. He was arrested and charged with the crime of willful damage. When his lawyer pointed out an error in the wording of the act which seemed to limit its application to the destruction of objects worth no more than five pounds, he was convicted instead of the destruction of the glass case in which the vase had sat. He was ordered to pay a fine of three pounds (approximately 350 pounds equivalent in 2017[11]) or spend two months in prison. He remained in prison until an anonymous benefactor paid the fine by mail. The name William Lloyd is thought to be a pseudonym. Investigators hired by the British Museum concluded that he was actually William Mulcahy, a student who had gone missing from Trinity College. Detectives reported that the Mulcahy family was impoverished. The owner of the vase declined to bring a civil action against William Mulcahy because he did not want his family to suffer for "an act of folly or madness which they could not control".
-
-Portland_Vase_BM_Gem4036_n8.jpg
 
 The vase was pieced together with fair success in 1845 by British Museum restorer John Doubleday, though he was unable to replace thirty-seven small fragments. It appears they had been put into a box and forgotten. On 5 October 1948, the keeper Bernard Ashmole received them in a box from Mr. G.A. Croker of Putney, who did not know what they were. After Doubleday's death, a fellow restorer from the British Museum took them to Mr. G.H. Gabb, a box maker, who was asked to make a box with thirty seven compartments, one for each fragment. However, the restorer also died and the box was never collected. After Gabb's death, his executrix, Miss Amy Reeves, brought in Croker to value Gabb's effects. This was how Crocker came to bring them to the museum to ask for help in identifying them.
 

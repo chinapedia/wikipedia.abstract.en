@@ -1,4 +1,4 @@
-James_Watt_by_Francis_Chantrey,_Hunterian_Museum,_Glasgow.jpg, by Francis Chantrey.)]] JAMES WATT (; 30 January 1736 (19 January 1736 OS) – 25 August 1819)[1] was a Scottish inventor, mechanical engineer, and chemist who improved on Thomas Newcomen's 1712 Newcomen steam engine with his Watt steam engine in 1776, which was fundamental to the changes brought by the Industrial Revolution in both his native Great Britain and the rest of the world.
+, by Francis Chantrey.)]] JAMES WATT (; 30 January 1736 (19 January 1736 OS) – 25 August 1819)[1] was a Scottish inventor, mechanical engineer, and chemist who improved on Thomas Newcomen's 1712 Newcomen steam engine with his Watt steam engine in 1776, which was fundamental to the changes brought by the Industrial Revolution in both his native Great Britain and the rest of the world.
 
 While working as an instrument maker at the University of Glasgow, Watt became interested in the technology of steam engines. He realised that contemporary engine designs wasted a great deal of energy by repeatedly cooling and reheating the cylinder. Watt introduced a design enhancement, the separate condenser, which avoided this waste of energy and radically improved the power, efficiency, and cost-effectiveness of steam engines. Eventually he adapted his engine to produce rotary motion, greatly broadening its use beyond pumping water.
 
@@ -20,7 +20,7 @@ After leaving school Watt worked in the workshops of his father's businesses, de
 
 Biography
 
-James-watt-1736-1819-engineer-inventor-of-the-stea.jpg, after Sir William Beechey (1806)[14][15]]] Bust_of_James_Watt.JPG]] When he was 18 his mother died and his father's health began to fail. Watt travelled to London and was able to obtain a period of training as an instrument maker for a year (1755/56), then returned to Scotland, settling in the major commercial city of Glasgow intent on setting up his own instrument-making business. He was still very young and having not had a full apprenticeship did not have the usual connections via a former master to establish himself as a journeyman instrument maker.
+, after Sir William Beechey (1806)[14][15]]] ]] When he was 18 his mother died and his father's health began to fail. Watt travelled to London and was able to obtain a period of training as an instrument maker for a year (1755/56), then returned to Scotland, settling in the major commercial city of Glasgow intent on setting up his own instrument-making business. He was still very young and having not had a full apprenticeship did not have the usual connections via a former master to establish himself as a journeyman instrument maker.
 
 Watt was saved from this impasse by the arrival from Jamaica of astronomical instruments bequeathed by Alexander Macfarlane to the University of Glasgow, instruments that required expert attention.[16] Watt restored them to working order and was remunerated. These instruments were eventually installed in the Macfarlane Observatory. Subsequently three professors offered him the opportunity to set up a small workshop within the university. It was initiated in 1757 and two of the professors, the physicist and chemist Joseph Black as well as the famed Adam Smith, became Watt's friends.[17]
 
@@ -40,7 +40,7 @@ Although it is often dismissed as a myth, like most good stories the story of Ja
 
 Early experiments with steam
 
-James_Eckford_Lauder_-_James_Watt_and_the_Steam_Engine-_the_Dawn_of_the_Nineteenth_Century_-_Google_Art_Project.jpg: _James Watt and the Steam Engine: the Dawn of the Nineteenth Century_, 1855]] Watts_First_Condenser.jpg by Watt (Science Museum)]]
+: _James Watt and the Steam Engine: the Dawn of the Nineteenth Century_, 1855]] by Watt (Science Museum)]]
 
 In 1759 Watt's friend, John Robison, called his attention to the use of steam as a source of motive power.[23] The design of the Newcomen engine, in use for almost 50 years for pumping water from mines, had hardly changed from its first implementation. Watt began to experiment with steam, though he had never seen an operating steam engine. He tried constructing a model; it failed to work satisfactorily, but he continued his experiments and began to read everything he could about the subject. He came to realise the importance of latent heat—the thermal energy released or absorbed during a constant-temperature process—in understanding the engine, which, unknown to Watt, his friend Joseph Black had previously discovered some years before. Understanding of the steam engine was in a very primitive state, for the science of thermodynamics would not be formalised for nearly another 100 years.
 
@@ -48,7 +48,7 @@ In 1763, Watt was asked to repair a model Newcomen engine belonging to the unive
 
 Watt's critical insight, arrived at in May 1765,[26] was to cause the steam to condense in a separate chamber apart from the piston, and to maintain the temperature of the cylinder at the same temperature as the injected steam by surrounding it with a "steam jacket."[27] Thus very little energy was absorbed by the cylinder on each cycle, making more available to perform useful work. Watt had a working model later that same year.
 
-James_Watt_Cottage_ruin,_Kinneil_House,_Bo'ness.JPG[28]]] James_Watt_steam_engine_relic_at_the_Carron_Works.JPG fragment of Watt's first operational engine at the Carron Works, Falkirk]]
+[28]]] fragment of Watt's first operational engine at the Carron Works, Falkirk]]
 
 Despite a potentially workable design, there were still substantial difficulties in constructing a full-scale engine. This required more capital, some of which came from Black. More substantial backing came from John Roebuck, the founder of the celebrated Carron Iron Works near Falkirk, with whom he now formed a partnership. Roebuck lived at Kinneil House in Bo'ness, during which time Watt worked at perfecting his steam engine in a cottage adjacent to the house.[29] The shell of the cottage, and a very large part of one of his projects, still exist to the rear.[30]
 
@@ -60,7 +60,7 @@ Through Boulton, Watt finally had access to some of the best iron workers in the
 
 First engines
 
-SteamEngine_Boulton&Watt_1784.png designed by Boulton and Watt.]] In 1776, the first engines were installed and working in commercial enterprises. These first engines were used to power pumps and produced only reciprocating motion to move the pump rods at the bottom of the shaft. The design was commercially successful, and for the next five years Watt was very busy installing more engines, mostly in Cornwall for pumping water out of mines.
+designed by Boulton and Watt.]] In 1776, the first engines were installed and working in commercial enterprises. These first engines were used to power pumps and produced only reciprocating motion to move the pump rods at the bottom of the shaft. The design was commercially successful, and for the next five years Watt was very busy installing more engines, mostly in Cornwall for pumping water out of mines.
 
 These early engines were not manufactured by Boulton and Watt, but were made by others according to drawings made by Watt, who served in the role of consulting engineer. The erection of the engine and its shakedown was supervised by Watt, at first, and then by men in the firm's employ. These were large machines. The first, for example, had a cylinder with a diameter of some 50 inches and an overall height of about 24 feet, and required the construction of a dedicated building to house it. Boulton and Watt charged an annual payment, equal to one third of the value of the coal saved in comparison to a Newcomen engine performing the same work.
 
@@ -72,13 +72,13 @@ Because of the danger of exploding boilers, which were in a very primitive stage
 
 Patent trials
 
-20070616_Dampfmaschine.jpg in Germany]] Edward Bull started constructing engines for Boulton and Watt in Cornwall in 1781. By 1792 he had started making engines of his own design, but which contained a separate condenser, and so infringed Watt's patents. Two brothers, Jabez Carter Hornblower and Jonathan Hornblower Jnr also started to build engines about the same time. Others began to modify Newcomen engines by adding a condenser, and the mine owners in Cornwall became convinced that Watt's patent could not be enforced. They started to withhold payments due to Boulton and Watt, which by 1795 had fallen. Of the total £21,000 (equivalent to £ as of ) owed, only £2,500 had been received. Watt was forced to go to court to enforce his claims.[34]
+in Germany]] Edward Bull started constructing engines for Boulton and Watt in Cornwall in 1781. By 1792 he had started making engines of his own design, but which contained a separate condenser, and so infringed Watt's patents. Two brothers, Jabez Carter Hornblower and Jonathan Hornblower Jnr also started to build engines about the same time. Others began to modify Newcomen engines by adding a condenser, and the mine owners in Cornwall became convinced that Watt's patent could not be enforced. They started to withhold payments due to Boulton and Watt, which by 1795 had fallen. Of the total £21,000 (equivalent to £ as of ) owed, only £2,500 had been received. Watt was forced to go to court to enforce his claims.[34]
 
 He first sued Bull in 1793. The jury found for Watt, but the question of whether or not the original specification of the patent was valid was left to another trial. In the meantime, injunctions were issued against the infringers, forcing their payments of the royalties to be placed in escrow. The trial on determining the validity of the specifications which was held in the following year was inconclusive, but the injunctions remained in force and the infringers, except for Jonathan Hornblower, all began to settle their cases. Hornblower was soon brought to trial and the verdict of the four judges (in 1799) was decisively in favour of Watt. Their friend John Wilkinson, who had solved the problem of boring an accurate cylinder, was a particularly grievous case. He had erected about twenty engines without Boulton's and Watts' knowledge. They finally agreed to settle the infringement in 1796.[35] Boulton and Watt never collected all that was owed them, but the disputes were all settled directly between the parties or through arbitration. These trials were extremely costly in both money and time, but ultimately were successful for the firm.
 
 Copying machine
 
-Portable_Copying_Machine_by_James_Watt_&_Co.jpg Before 1780 there was no good method for making copies of letters or drawings. The only method sometimes used was a mechanical one using linked multiple pens. Watt at first experimented with improving this method, but soon gave up on this approach because it was so cumbersome. He instead decided to try to physically transfer some ink from the front of the original to the back of another sheet, moistened with a solvent, and pressed to the original. The second sheet had to be thin, so that the ink could be seen through it when the copy was held up to the light, thus reproducing the original exactly.[36][37]
+Before 1780 there was no good method for making copies of letters or drawings. The only method sometimes used was a mechanical one using linked multiple pens. Watt at first experimented with improving this method, but soon gave up on this approach because it was so cumbersome. He instead decided to try to physically transfer some ink from the front of the original to the back of another sheet, moistened with a solvent, and pressed to the original. The second sheet had to be thin, so that the ink could be seen through it when the copy was held up to the light, thus reproducing the original exactly.[36][37]
 
 Watt started to develop the process in 1779, and made many experiments to formulate the ink, select the thin paper, to devise a method for wetting the special thin paper, and to make a press suitable for applying the correct pressure to effect the transfer. All of these required much experimentation, but he soon had enough success to patent the process a year later. Watt formed another partnership with Boulton (who provided financing) and James Keir (to manage the business) in a firm called James Watt and Co. The perfection of the invention required much more development work before it could be routinely used by others, but this was carried out over the next few years. Boulton and Watt gave up their shares to their sons in 1794.[38] It became a commercial success and was widely used in offices even into the twentieth century.
 
@@ -88,7 +88,7 @@ From an early age Watt was very interested in chemistry. In late 1786, while in 
 
 With McGrigor and his wife Annie, he started to scale up the process, and in March 1788, McGrigor was able to bleach 1500 yards of cloth to his satisfaction. About this time Berthollet discovered the salt and sulphuric acid process, and published it so it became public knowledge. Many others began to experiment with improving the process, which still had many shortcomings, not the least of which was the problem of transporting the liquid product. Watt's rivals soon overtook him in developing the process, and he dropped out of the race. It was not until 1799, when Charles Tennant patented a process for producing solid bleaching powder (calcium hypochlorite) that it became a commercial success.
 
-By 1794 Watt had been chosen by Thomas Beddoes to manufacture apparatus to produce, clean and store gases for use in the new Pneumatic Institution at Hotwells in Bristol. Watt continued to experiment with various gases for several years, but by 1797 the medical uses for the "factitious airs" had come to a dead end.[40]Watt_apparatus_3.JPG in preparation of the Pneumatic Institution in Bristol]]
+By 1794 Watt had been chosen by Thomas Beddoes to manufacture apparatus to produce, clean and store gases for use in the new Pneumatic Institution at Hotwells in Bristol. Watt continued to experiment with various gases for several years, but by 1797 the medical uses for the "factitious airs" had come to a dead end.[40] in preparation of the Pneumatic Institution in Bristol]]
 
 Personality
 
@@ -98,7 +98,7 @@ He was greatly respected by other prominent men of the Industrial Revolution.[42
 
 Watt was a prolific correspondent. During his years in Cornwall, he wrote long letters to Boulton several times per week. He was averse to publishing his results in, for example, the Philosophical Transactions of the Royal Society however, and instead preferred to communicate his ideas in patents.[44] He was an excellent draughtsman.
 
-James_Watt's_letters_from_the_Science_Museum_Library_&_Archives_in_Wroughton.jpg, near Swindon.]]
+, near Swindon.]]
 
 He was a rather poor businessman, and especially hated bargaining and negotiating terms with those who sought to use the steam engine. In a letter to William Small in 1772, Watt confessed that "he would rather face a loaded cannon than settle an account or make a bargain."[45] Until he retired, he was always much concerned about his financial affairs, and was something of a worrier. His health was often poor and he suffered frequent nervous headaches and depression.
 
@@ -108,7 +108,7 @@ At first the partnership made the drawing and specifications for the engines, an
 
 Later years
 
-Heathfield_Hall,_Handsworth_by_Allen_Edward_Everitt.jpg", Watt's house in Handsworth, by Allen Edward Everitt ]] James_Watt's_Workshop.jpg Watt retired in 1800, the same year that his fundamental patent and partnership with Boulton expired. The famous partnership was transferred to the men's sons, Matthew Robinson Boulton and James Watt Jr.. Longtime firm engineer William Murdoch was soon made a partner and the firm prospered.
+", Watt's house in Handsworth, by Allen Edward Everitt ]] Watt retired in 1800, the same year that his fundamental patent and partnership with Boulton expired. The famous partnership was transferred to the men's sons, Matthew Robinson Boulton and James Watt Jr.. Longtime firm engineer William Murdoch was soon made a partner and the firm prospered.
 
 Watt continued to invent other things before and during his semi-retirement. Within his home in Handsworth, Staffordshire, Watt made use of a garret room as a workshop, and it was here that he worked on many of his inventions.[47] Among other things, he invented and constructed several machines for copying sculptures and medallions which worked very well, but which he never patented.[48] One of the first sculptures he produced with the machine was a small head of his old professor friend Adam Smith. He maintained his interest in civil engineering and was a consultant on several significant projects. He proposed, for example, a method for constructing a flexible pipe to be used for pumping water under the Clyde at Glasgow.[49]
 
@@ -142,7 +142,7 @@ Watt patented the application of the sun and planet gear to steam in 1781 and a 
 
 Legacy
 
-Loughborough_Beam_Engine_-_geograph.org.uk_-_2734519.jpg at Loughborough University]]
+at Loughborough University]]
 
 James Watt's improvements to the steam engine "converted it from a prime mover of marginal efficiency into the mechanical workhorse of the Industrial Revolution".[58] The availability of efficient, reliable motive power made whole new classes of industry economically viable, and altered the economies of continents.[59] In doing so it brought about immense social change, attracting millions of rural families to the towns and cities.
 
@@ -162,7 +162,7 @@ In 2011 he was one of seven inaugural inductees to the Scottish Engineering Hall
 
 Memorials
 
-James_Watt_Memorial_College.jpg in Greenock.]]
+in Greenock.]]
 
 Watt was buried in the grounds of St. Mary's Church, Handsworth, in Birmingham. Later expansion of the church, over his grave, means that his tomb is now buried _inside_ the church.[66]
 
@@ -172,7 +172,7 @@ The approximate location of James Watt's birth in Greenock is commemorated by a 
 
 The James Watt College has expanded from its original location to include campuses in Kilwinning (North Ayrshire), Finnart Street and The Waterfront in Greenock, and the Sports campus in Largs. Heriot-Watt University near Edinburgh was at one time the School of Arts of Edinburgh, founded in 1821 as the world's first Mechanics Institute, but to commemorate George Heriot, the 16th-century financier to King James, and James Watt, after Royal Charter the name was changed to Heriot-Watt University. Dozens of university and college buildings (chiefly of science and technology) are named after him. Matthew Boulton's home, Soho House, is now a museum, commemorating the work of both men. The University of Glasgow's Faculty of Engineering has its headquarters in the James Watt Building, which also houses the department of Mechanical Engineering and the department of Aerospace Engineering. The huge painting _James Watt contemplating the steam engine_ by James Eckford Lauder is now owned by the National Gallery of Scotland.
 
-Watt_James_Chantrey.jpg's statue of James Watt]]
+'s statue of James Watt]]
 
 There is a statue of James Watt in Piccadilly Gardens, Manchester and City Square, Leeds.
 

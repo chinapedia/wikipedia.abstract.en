@@ -1,4 +1,4 @@
-Slavic_europe.svg of Europe. South Slavs appear in dark blue, East Slavs in dark green, and West Slavs in light green.]] PAN-SLAVISM, a movement which crystallized in the mid-19th century, is the political ideology concerned with the advancement of integrity and unity for the Slavic-speaking peoples. Its main impact occurred in the Balkans, where non-Slavic empires had ruled the South Slavs for centuries. These were mainly the Byzantine Empire, Austria-Hungary (both as separate entities for most of the period), the Ottoman Empire, and Venice.
+of Europe. South Slavs appear in dark blue, East Slavs in dark green, and West Slavs in light green.]] PAN-SLAVISM, a movement which crystallized in the mid-19th century, is the political ideology concerned with the advancement of integrity and unity for the Slavic-speaking peoples. Its main impact occurred in the Balkans, where non-Slavic empires had ruled the South Slavs for centuries. These were mainly the Byzantine Empire, Austria-Hungary (both as separate entities for most of the period), the Ottoman Empire, and Venice.
 
 
 Origins
@@ -12,14 +12,14 @@ The first pan-Slavists were the 16th-century Croatian writer Vinko Pribojević a
 
 First Pan-Slav Congress, Prague, 1848
 
-Flag_of_the_Kingdom_of_Yugoslavia.svg in 1848]] The First Pan-Slav congress was held in Prague, Bohemia in June, 1848, during the revolutionary movement of 1848. The Czechs had refused to send representatives to the Frankfurt Assembly feeling that Slavs had a distinct interest from the Germans. The Austroslav, František Palacký, presided over the event. Most of the delegates were Czech and Slovak. Palacký called for the co-operation of the Habsburgs and had also endorsed the Habsburg monarchy as the political formation most likely to protect the peoples of central Europe. When the Germans asked him to declare himself in favour of their desire for national unity, he replied that he would not as this would weaken the Habsburg state: “Truly, if it were not that Austria had long existed, it would be necessary, in the interest of Europe, in the interest of humanity itself, to create it.”
+in 1848]] The First Pan-Slav congress was held in Prague, Bohemia in June, 1848, during the revolutionary movement of 1848. The Czechs had refused to send representatives to the Frankfurt Assembly feeling that Slavs had a distinct interest from the Germans. The Austroslav, František Palacký, presided over the event. Most of the delegates were Czech and Slovak. Palacký called for the co-operation of the Habsburgs and had also endorsed the Habsburg monarchy as the political formation most likely to protect the peoples of central Europe. When the Germans asked him to declare himself in favour of their desire for national unity, he replied that he would not as this would weaken the Habsburg state: “Truly, if it were not that Austria had long existed, it would be necessary, in the interest of Europe, in the interest of humanity itself, to create it.”
 
 The Pan-Slav congress met during the revolutionary turmoil of 1848. Young inhabitants of Prague had taken to the streets and in the confrontation, a stray bullet had killed the wife of Field Marshal Alfred I, Prince of Windisch-Grätz, the commander of the Austrian forces in Prague. Enraged, Windischgrätz seized the city, disbanded the congress, and established martial law throughout Bohemia.
 
 
 Pan-Slavism in the Czech lands and Slovakia
 
-Pan-Slavic_postcard_"Dědictví_otců,_zachovej_nám,_Pane".jpg, with the text "God/Our Lord, watch over our heritage/grandfatherland" in 9 Slavic languages.]]
+, with the text "God/Our Lord, watch over our heritage/grandfatherland" in 9 Slavic languages.]]
 
 The first Pan-Slavic convention was held in Prague on June 2 through 16, 1848.[5] The delegates at the Congress were specifically both anti-Austrian and anti-Russian. Still "the Right"—the moderately liberal wing of the Congress—under the leadership of František Palacký (1798–1876), a Czech historian and politician,[6] and Pavol Jozef Šafárik (1795–1861), a Slovak philologist, historian and archaeologist,[7] favored autonomy of the Slav lands within the framework of Austrian (Habsburg) monarchy.[8] In contrast "the Left"—the radical wing of the Congress—under the leadership of Karel Sabina (1813–1877), a Czech writer and journalist, Josef Václav Frič, a Czech nationalist, Karol Libelt (1817–1861), a Polish writer and politician, and others, pressed for a close alliance with the revolutionary-democratic movement going on in Germany and Hungary in 1848.[9]
 

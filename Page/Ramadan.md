@@ -12,7 +12,7 @@ The word _Ramadan_ derives from the Arabic root _ramiḍa_ or _ar-ramaḍ_ "scor
 
 History
 
-002185_Al-Baqarah_UsmaniScript.png, Verse 185 in Arabic.]]
+, Verse 185 in Arabic.]]
 
 Muslims hold that all scripture was revealed during Ramadan, the scrolls of Abraham, Torah, Psalms, Gospel, and Quran having been handed down on the first, sixth, twelfth, thirteenth (in some sources, eighteenth)[24] and twenty-fourth Ramadans, respectively.[25] Muhammed is said to have received his first quranic revelation on _Laylat al-Qadr_, one of five odd-numbered nights that fall during the last ten days of Ramadan.[26]
 
@@ -25,7 +25,7 @@ The first and last dates of Ramadan are determined by the lunar Islamic calendar
 
 Beginning
 
-Ramadan100years1938-2037.png Because _Hilāl_, the crescent moon, typically occurs approximately one day after the new moon, Muslims can usually estimate the beginning of Ramadan;[34] however, many prefer to confirm the opening of Ramadan by direct visual observation of the crescent.[35]
+Because _Hilāl_, the crescent moon, typically occurs approximately one day after the new moon, Muslims can usually estimate the beginning of Ramadan;[34] however, many prefer to confirm the opening of Ramadan by direct visual observation of the crescent.[35]
 
 Night of Power
 
@@ -38,7 +38,7 @@ The holiday of _Eid al-Fitr_ (Arabic:عيد الفطر), which marks the end of 
 
 Religious practices
 
-Ramazan_with_the_poor.jpg. Ramadan of the poor people. 1938]] The common practice is to fast from dawn to sunset. The pre-dawn meal before the fast is called the _suhur_, while the meal at sunset that breaks the fast is called _iftar_.
+. Ramadan of the poor people. 1938]] The common practice is to fast from dawn to sunset. The pre-dawn meal before the fast is called the _suhur_, while the meal at sunset that breaks the fast is called _iftar_.
 
 Muslims devote more time to prayer and acts of charity, striving to improve their self-discipline, motivated by hadith:[41][42] "When Ramadan arrives, the gates of Paradise are opened and the gates of hell are locked up and devils are put in chains."[43]
 
@@ -50,7 +50,7 @@ Exemptions to fasting include travel, menstruation, severe illness, pregnancy, a
 
 _Suhoor_
 
-Iftar_in_Istanbul_Turkey.jpg at Sultan Ahmed Mosque in Istanbul, Turkey]] Each day, before dawn, Muslims observe a pre-fast meal called the _suhoor_. After stopping a short time before dawn, Muslims begin the first prayer of the day, _Fajr_.[48][49]
+at Sultan Ahmed Mosque in Istanbul, Turkey]] Each day, before dawn, Muslims observe a pre-fast meal called the _suhoor_. After stopping a short time before dawn, Muslims begin the first prayer of the day, _Fajr_.[48][49]
 
 _Iftar_
 
@@ -60,11 +60,11 @@ Social gatherings, many times in buffet style, are frequent at _iftar_. Traditio
 
 In the Middle East, _iftar_ consists of water, juices, dates, salads and appetizers; one or more main dishes; and rich desserts, with dessert considered the most important aspect of the meal. Typical main dishes include lamb stewed with wheat berries, lamb kebabs with grilled vegetables, and roasted chicken served with chickpea-studded rice pilaf. Desserts may include _luqaimat_, baklava or _kunafeh_.[52]
 
-Over time, the practice of _iftar_ has involved into banquets that may accommodate hundreds or even thousands of diners.[53] The Sheikh Zayed Grand Mosque in Abu Dhabi, the largest mosque in the UAE, feeds up to thirty thousand people every night.[54] Some twelve thousand people attend _iftar_ at the Imam Reza shrine in Mashhad.[55] Iftar_Serving_for_fasting_people_in_the_holy_shrine_of_Imam_Reza_05_().jpg]]
+Over time, the practice of _iftar_ has involved into banquets that may accommodate hundreds or even thousands of diners.[53] The Sheikh Zayed Grand Mosque in Abu Dhabi, the largest mosque in the UAE, feeds up to thirty thousand people every night.[54] Some twelve thousand people attend _iftar_ at the Imam Reza shrine in Mashhad.[55] ]]
 
 Charity
 
-Men_praying_in_Afghanistan.jpg or "Blue Mosque" in Mazar-i-Sharif, Afghanistan]] _Zakāt_, often translated as "the poor-rate", is the fixed percentage of income a believer is required to give to the poor; the practice is obligatory as one of the pillars of Islam. Muslims believe that good deeds are rewarded more handsomely during Ramadan than at any other time of the year; consequently, many donate a larger portion—or even all—of their yearly _zakāt_ during this month.
+or "Blue Mosque" in Mazar-i-Sharif, Afghanistan]] _Zakāt_, often translated as "the poor-rate", is the fixed percentage of income a believer is required to give to the poor; the practice is obligatory as one of the pillars of Islam. Muslims believe that good deeds are rewarded more handsomely during Ramadan than at any other time of the year; consequently, many donate a larger portion—or even all—of their yearly _zakāt_ during this month.
 
 Nightly prayers
 
@@ -121,7 +121,7 @@ Various mechanisms have been proposed for the effect of Ramadan on crime:
 
 Ramadan in polar regions
 
-Netanyahu_and_Mubarak_checking_their_watches.jpg and Benjamin Netanyahu check their watches to see if the Sun has set.]] The length of the dawn to sunset time varies in different parts of the world according to summer or winter solstices of the Sun. Most Muslims fast for eleven to sixteen hours during Ramadan. However, in polar regions, the period between dawn and sunset may exceed twenty-two hours in summer. For example, in 2014, Muslims in Reykjavik, Iceland, and Trondheim, Norway, fasted almost twenty-two hours, while Muslims in Sydney, Australia, fasted for only about eleven hours. In areas characterized by continuous night or day, some Muslims follow the fasting schedule observed in the nearest city that experiences sunrise and sunset, while others follow Mecca time.[103][104][105]
+and Benjamin Netanyahu check their watches to see if the Sun has set.]] The length of the dawn to sunset time varies in different parts of the world according to summer or winter solstices of the Sun. Most Muslims fast for eleven to sixteen hours during Ramadan. However, in polar regions, the period between dawn and sunset may exceed twenty-two hours in summer. For example, in 2014, Muslims in Reykjavik, Iceland, and Trondheim, Norway, fasted almost twenty-two hours, while Muslims in Sydney, Australia, fasted for only about eleven hours. In areas characterized by continuous night or day, some Muslims follow the fasting schedule observed in the nearest city that experiences sunrise and sunset, while others follow Mecca time.[103][104][105]
 
 
 Employment during Ramadan

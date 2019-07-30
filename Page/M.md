@@ -3,12 +3,12 @@ M (named _em_ )[1] is the thirteenth letter of the modern English alphabet and t
 
 History
 
-+-------------------------+--------------------+------------------+--------------+---------------+
-| Egyptian hieroglyph "n" | Phoenician         | Etruscan M       | Greek        | Roman M       |
-|                         | _Mem_              |                  | _Mu_         |               |
-+=========================+====================+==================+==============+===============+
-| n                       | PhoenicianM-01.png | EtruscanM-01.svg | Mu_uc_lc.svg | RomanM-01.png |
-+-------------------------+--------------------+------------------+--------------+---------------+
++-------------------------+------------+------------+-------+---------+
+| Egyptian hieroglyph "n" | Phoenician | Etruscan M | Greek | Roman M |
+|                         | _Mem_      |            | _Mu_  |         |
++=========================+============+============+=======+=========+
+| n                       |            |            |       |         |
++-------------------------+------------+------------+-------+---------+
 
 The letter M is derived from the Phoenician Mem, via the Greek Mu (Μ, μ). Semitic Mem is most likely derived from a "Proto-Sinaitic" (Bronze Age) adoption of the "water" ideogram in Egyptian writing. The Egyptian sign had the acrophonic value , from the Egyptian word for "water", _nt_; the adoption as the Semitic letter for was presumably also on acrophonic grounds, from the Semitic word for "water", _*mā(y)-_.[2]
 

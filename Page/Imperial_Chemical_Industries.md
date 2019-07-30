@@ -7,8 +7,6 @@ History
 
 Development of the business (1926–44)
 
-Catalyst_-_ICI_magazine_volumes_1.jpg
-
 The company was founded in December 1926 from the merger of four companies: Brunner Mond, Nobel Explosives, the United Alkali Company, and British Dyestuffs Corporation.[4] It established its head office at Millbank in London in 1928.[5] Competing with DuPont and IG Farben, the new company produced chemicals, explosives, fertilisers, insecticides, dyestuffs, non-ferrous metals, and paints.[6] In its first year turnover was £27 million.[7]
 
 In the 1920s and 30s, the company played a key role in the development of new chemical products, including the dyestuff phthalocyanine (1929), the acrylic plastic Perspex (1932),[8] Dulux paints (1932, co-developed with DuPont),[9] polyethylene (1937),[10] and polyethylene terephthalate fibre known as Terylene (1941).[11] In 1940, ICI started British Nylon Spinners as a joint venture with Courtaulds.[12][13]
@@ -19,7 +17,7 @@ During the Second World War, ICI was involved with the United Kingdom's nuclear 
 
 Postwar innovation (1945–90)
 
-ICI_UK_Works_Map_May_1955.png In the 1940s and 50s, the company established its pharmaceutical business and developed a number of key products, including Paludrine (1940s, an anti-malarial drug),[16] halothane (1951, an anaesthetic agent), Inderal (1965, a beta-blocker),[17] tamoxifen (1978, a frequently used drug for breast cancer),[18] and PEEK (1979, a high performance thermoplastic).[19] ICI formed ICI Pharmaceuticals in 1957.
+In the 1940s and 50s, the company established its pharmaceutical business and developed a number of key products, including Paludrine (1940s, an anti-malarial drug),[16] halothane (1951, an anaesthetic agent), Inderal (1965, a beta-blocker),[17] tamoxifen (1978, a frequently used drug for breast cancer),[18] and PEEK (1979, a high performance thermoplastic).[19] ICI formed ICI Pharmaceuticals in 1957.
 
 ICI developed a fabric in the 1950s known as Crimplene, a thick polyester yarn used to make a fabric of the same name. The resulting cloth is heavy and wrinkle-resistant, and retains its shape well. The California-based fashion designer Edith Flagg was the first to import this fabric from Britain to the USA. During the first two years, ICI gave Flagg a large advertising budget to popularise the fabric across America.
 
@@ -54,7 +52,7 @@ Having sold much of its historically profitable commodities businesses, and many
 
 Takeover by AkzoNobel
 
-Syngenta_Chemical_Plant_-_geograph.org.uk_-_95239.jpg, West Yorkshire, now owned by Syngenta.]]
+, West Yorkshire, now owned by Syngenta.]]
 
 Dutch firm AkzoNobel (owner of Crown Berger paints) bid £7.2 billion (€10.66 billion or $14.5 billion) for ICI in June 2007. An area of concern about a potential deal was ICI's British pension fund, which had future liabilities of more than £9 billion at the time.[52] Regulatory issues in the UK and other markets where Dulux and Crown Paints brands each have significant market share were also a cause for concern for the boards of ICI and AkzoNobel. In the UK, any combined operation without divestments would have seen AkzoNobel have a 54 per cent market share in the paint market.[53] The initial bid was rejected by the ICI board and the majority of shareholders.[54] However, a subsequent bid for £8 billion (€11.82 billion) was accepted by ICI in August 2007, pending approval by regulators.[55]
 

@@ -14,9 +14,9 @@ In 1884 he went to England to study oriental languages and archaeology. He becam
 
 Expeditions
 
-AurelSteinWithDog.jpg]] Stein made four major expeditions to Central Asia—in 1900–1901, 1906–1908, 1913–1916 and 1930.[5] He brought to light the hidden treasure of a great civilization which by then was practically lost to the world. One of his significant finds during his first journey during 1900–1901 was the Taklamakan Desert oasis of Dandan Oilik where he was able to uncover a number of relics. During his third expedition in 1913–1916, he excavated at Khara-Khoto.[6]
+]] Stein made four major expeditions to Central Asia—in 1900–1901, 1906–1908, 1913–1916 and 1930.[5] He brought to light the hidden treasure of a great civilization which by then was practically lost to the world. One of his significant finds during his first journey during 1900–1901 was the Taklamakan Desert oasis of Dandan Oilik where he was able to uncover a number of relics. During his third expedition in 1913–1916, he excavated at Khara-Khoto.[6]
 
-Map_of_Central_Asia_from_Serindia,_Vol._5,_p._98.jpg Stein_Letter_BLAR4_MSSEURF302_51_FF13_18_16_17.jpg from Kashgar. Dated 25 May 1901.]] The British Library's Stein collection of Chinese, Tibetan and Tangut manuscripts, Prakrit wooden tablets, and documents in Khotanese, Uyghur, Sogdian and Eastern Turkic is the result of his travels through central Asia during the 1920s and 1930s. Stein discovered manuscripts in the previously lost Tocharian languages of the Tarim Basin at Miran and other oasis towns, and recorded numerous archaeological sites especially in Iran and Balochistan.
+from Kashgar. Dated 25 May 1901.]] The British Library's Stein collection of Chinese, Tibetan and Tangut manuscripts, Prakrit wooden tablets, and documents in Khotanese, Uyghur, Sogdian and Eastern Turkic is the result of his travels through central Asia during the 1920s and 1930s. Stein discovered manuscripts in the previously lost Tocharian languages of the Tarim Basin at Miran and other oasis towns, and recorded numerous archaeological sites especially in Iran and Balochistan.
 
 When Stein visited Khotan he was able to render in Persian a portion of the Shahnama after he came across a local reading the Shahnama in Turki.[7]
 
@@ -26,14 +26,14 @@ Stein's greatest discovery was made at the Mogao Caves also known as "Caves of t
 
 During his expedition of 1906–1908 while surveying in the Kunlun Mountains of western China, Stein suffered frostbite and lost several toes on his right foot.
 
-When he was resting from his extended journeys into Central Asia, he spent most of his time living in a tent in the spectacularly beautiful alpine meadow called Mohanmarg which lies at the mouth atop the Sind Valley where from he translated ''Rajatarangini '' from Sanskrit to English.[11][12] Stein was a lifelong bachelor, but was always accompanied by a dog named "Dash" (of which there were seven).[13][14] AurelSteinGrave.jpg The fourth expedition to Central Asia, however, ended in failure. Stein did not publish any account, but others have written of the frustrations and rivalries between British and American interests in China, between Harvard's Fogg Museum and the British Museum, and finally, between Paul J. Sachs and Langdon Warner, the two Harvard sponsors of the expedition.[15]
+When he was resting from his extended journeys into Central Asia, he spent most of his time living in a tent in the spectacularly beautiful alpine meadow called Mohanmarg which lies at the mouth atop the Sind Valley where from he translated ''Rajatarangini '' from Sanskrit to English.[11][12] Stein was a lifelong bachelor, but was always accompanied by a dog named "Dash" (of which there were seven).[13][14] The fourth expedition to Central Asia, however, ended in failure. Stein did not publish any account, but others have written of the frustrations and rivalries between British and American interests in China, between Harvard's Fogg Museum and the British Museum, and finally, between Paul J. Sachs and Langdon Warner, the two Harvard sponsors of the expedition.[15]
 
 Stein died in Kabul on 26 October 1943 and is buried in Kabul's British Cemetery.[16]
 
 
 Great Game
 
-Stein, as well as his rivals Sven Hedin, Sir Francis Younghusband and Nikolai Przhevalsky, were active players in the British-Russian struggle for influence in Central Asia, the so-called Great Game. Their explorations were supported by the British and Russian Empires as they filled in the remaining "blank spots" on the maps, providing valuable information and creating "spheres of influence" for archaeological exploration as they did for political influence. Textile_fragment_from_Loulan_Xinjiang_China.jpg, Xinjiang, and attributed to 3rd–4th century. Courtesy of The British Museum.]]
+Stein, as well as his rivals Sven Hedin, Sir Francis Younghusband and Nikolai Przhevalsky, were active players in the British-Russian struggle for influence in Central Asia, the so-called Great Game. Their explorations were supported by the British and Russian Empires as they filled in the remaining "blank spots" on the maps, providing valuable information and creating "spheres of influence" for archaeological exploration as they did for political influence. , Xinjiang, and attributed to 3rd–4th century. Courtesy of The British Museum.]]
 
 The art objects he collected are divided between the British Museum, the British Library, the Srinagar Museum, and the National Museum, New Delhi.
 

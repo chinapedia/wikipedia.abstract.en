@@ -107,7 +107,7 @@ United States
 
 Poll tax
 
-PollTaxRecieptJefferson1917.JPG, 1917 (the $1 tax has the purchasing power of $ today)]]
+, 1917 (the $1 tax has the purchasing power of $ today)]]
 
 Prior to the mid 20th century, a poll tax was implemented in some U.S. state and local jurisdictions and paying it was a requirement before one could exercise their right to vote. After this right was extended to all races by the Fifteenth Amendment to the Constitution, many Southern states enacted poll taxes as a means of excluding African-American voters, most of whom were poor and unable to pay a tax. So as not to disenfranchise the many poor whites, such laws typically included a grandfather clause, exempting from the tax any adult male whose father or grandfather had voted. The effect was to exempt whites from the tax blacks had to pay, because no black fathers or grandfathers had been able to vote. The poll tax, along with literacy tests and extra-legal intimidation,[17] achieved the desired effect of disenfranchising African Americans. Often in US discussions, the term _poll tax_ is used to mean a tax that must be paid in order to vote, rather than a capitation tax simply. (For example, a bill that passed the Florida House of Representatives in April 2019 has been compared to a poll tax because it requires former felons to pay all “financial obligations” related to their sentence, including court fines, fees, and judgments, before their voting rights will be restored as required by a referendum that passed with 64% of the vote in 2018.[18][19]) The Twenty-fourth Amendment, ratified in 1964, prohibits both Congress and the states from conditioning the right to vote on payment of a poll tax or any other type of tax.
 

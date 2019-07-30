@@ -1,4 +1,4 @@
-Hydrogen_Density_Plots.pngs of the electron in a hydrogen atom at different energy levels. Quantum mechanics cannot predict the exact location of a particle in space, only the probability of finding it at different locations.[1] The brighter areas represent a higher probability of finding the electron.]]
+s of the electron in a hydrogen atom at different energy levels. Quantum mechanics cannot predict the exact location of a particle in space, only the probability of finding it at different locations.[1] The brighter areas represent a higher probability of finding the electron.]]
 
 QUANTUM MECHANICS (QM; also known as QUANTUM PHYSICS, QUANTUM THEORY, the WAVE MECHANICAL MODEL, or MATRIX MECHANICS), including quantum field theory, is a fundamental theory in physics which describes nature at the smallest scales of energy levels of atoms and subatomic particles.[2]
 
@@ -24,13 +24,13 @@ Among the first to study quantum phenomena in nature were Arthur Compton, C. V. 
 According to Planck, each energy element (_E_)'' _is proportional to its frequency (_ν''):
 
 $$E = h \nu\$$
-, Max_Planck_(1858-1947).jpg is considered the father of the quantum theory.]] where _h_ is Planck's constant.
+, is considered the father of the quantum theory.]] where _h_ is Planck's constant.
 
 Planck cautiously insisted that this was simply an aspect of the processes of absorption and emission of radiation and had nothing to do with the _physical reality_ of the radiation itself.[11] In fact, he considered his quantum hypothesis a mathematical trick to get the right answer rather than a sizable discovery.[12] However, in 1905 Albert Einstein interpreted Planck's quantum hypothesis realistically and used it to explain the photoelectric effect, in which shining light on certain materials can eject electrons from the material. He won the 1921 Nobel Prize in Physics for this work.
 
 Einstein further developed this idea to show that an electromagnetic wave such as light could also be described as a particle (later called the photon), with a discrete quantum of energy that was dependent on its frequency.[13]
 
-Solvay_conference_1927.jpg in Brussels]] The foundations of quantum mechanics were established during the first half of the 20th century by Max Planck, Niels Bohr, Werner Heisenberg, Louis de Broglie, Arthur Compton, Albert Einstein, Erwin Schrödinger, Max Born, John von Neumann, Paul Dirac, Enrico Fermi, Wolfgang Pauli, Max von Laue, Freeman Dyson, David Hilbert, Wilhelm Wien, Satyendra Nath Bose, Arnold Sommerfeld, and others. The Copenhagen interpretation of Niels Bohr became widely accepted.
+in Brussels]] The foundations of quantum mechanics were established during the first half of the 20th century by Max Planck, Niels Bohr, Werner Heisenberg, Louis de Broglie, Arthur Compton, Albert Einstein, Erwin Schrödinger, Max Born, John von Neumann, Paul Dirac, Enrico Fermi, Wolfgang Pauli, Max von Laue, Freeman Dyson, David Hilbert, Wilhelm Wien, Satyendra Nath Bose, Arnold Sommerfeld, and others. The Copenhagen interpretation of Niels Bohr became widely accepted.
 
 In the mid-1920s, developments in quantum mechanics led to its becoming the standard formulation for atomic physics. In the summer of 1925, Bohr and Heisenberg published results that closed the old quantum theory. Out of deference to their particle-like behavior in certain processes and measurements, light quanta came to be called photons (1926). In 1926 Erwin Schrödinger suggested a partial differential equation for the wave functions of particles like electrons. And when effectively restricted to a finite region, this equation allowed only certain modes, corresponding to discrete quantum states – whose properties turned out to be exactly the same as implied by matrix mechanics.[14] From Einstein's simple postulation was born a flurry of debating, theorizing, and testing. Thus, the entire field of quantum physics emerged, leading to its wider acceptance at the Fifth Solvay Conference in 1927.
 
@@ -78,7 +78,7 @@ During a measurement, on the other hand, the change of the initial wave function
 
 Wave functions change as time progresses. The Schrödinger equation describes how wave functions change in time, playing a role similar to Newton's second law in classical mechanics. The Schrödinger equation, applied to the aforementioned example of the free particle, predicts that the center of a wave packet will move through space at a constant velocity (like a classical particle with no forces acting on it). However, the wave packet will also spread out as time progresses, which means that the position becomes more uncertain with time. This also has the effect of turning a position eigenstate (which can be thought of as an infinitely sharp wave packet) into a broadened wave packet that no longer represents a (definite, certain) position eigenstate.[39]
 
-Atomic-orbital-clouds_spd_m0.png corresponding to the wave functions of an electron in a hydrogen atom possessing definite energy levels (increasing from the top of the image to the bottom: _n_ = 1, 2, 3, ...) and angular momenta (increasing across from left to right: _s_, _p_, _d_, ...). Denser areas correspond to higher probability density in a position measurement. Such wave functions are directly comparable to Chladni's figures of acoustic modes of vibration in classical physics, and are modes of oscillation as well, possessing a sharp energy and, thus, a definite frequency. The angular momentum and energy are quantized, and take ONLY discrete values like those shown (as is the case for resonant frequencies in acoustics)]]
+corresponding to the wave functions of an electron in a hydrogen atom possessing definite energy levels (increasing from the top of the image to the bottom: _n_ = 1, 2, 3, ...) and angular momenta (increasing across from left to right: _s_, _p_, _d_, ...). Denser areas correspond to higher probability density in a position measurement. Such wave functions are directly comparable to Chladni's figures of acoustic modes of vibration in classical physics, and are modes of oscillation as well, possessing a sharp energy and, thus, a definite frequency. The angular momentum and energy are quantized, and take ONLY discrete values like those shown (as is the case for resonant frequencies in acoustics)]]
 
 Some wave functions produce probability distributions that are constant, or independent of time – such as when in a stationary state of constant energy, time vanishes in the absolute square of the wave function. Many systems that are treated dynamically in classical mechanics are described by such "static" wave functions. For example, a single electron in an unexcited atom is pictured classically as a particle moving in a circular trajectory around the atomic nucleus, whereas in quantum mechanics it is described by a static, spherically symmetric wave function surrounding the nucleus (Fig. 1) (note, however, that only the lowest angular momentum states, labeled _s_, are spherically symmetric).[40]
 
@@ -167,7 +167,7 @@ Electronics
 
 Many modern electronic devices are designed using quantum mechanics. Examples include the laser, the transistor (and thus the microchip), the electron microscope, and magnetic resonance imaging (MRI). The study of semiconductors led to the invention of the diode and the transistor, which are indispensable parts of modern electronics systems, computer and telecommunication devices. Another application is for making laser diode and light emitting diode which are a high-efficiency source of light.
 
-Rtd_seq_v3.gif device, based on the phenomenon of quantum tunneling through potential barriers. (Left: band diagram; Center: transmission coefficient; Right: current-voltage characteristics) As shown in the band diagram(left), although there are two barriers, electrons still tunnel through via the confined states between two barriers(center), conducting current.]] Many electronic devices operate under effect of quantum tunneling. It even exists in the simple light switch. The switch would not work if electrons could not quantum tunnel through the layer of oxidation on the metal contact surfaces. Flash memory chips found in USB drives use quantum tunneling to erase their memory cells. Some negative differential resistance devices also utilize quantum tunneling effect, such as resonant tunneling diode. Unlike classical diodes, its current is carried by resonant tunneling through two or more potential barriers (see right figure). Its negative resistance behavior can only be understood with quantum mechanics: As the confined state moves close to Fermi level, tunnel current increases. As it moves away, current decreases. Quantum mechanics is necessary to understanding and designing such electronic devices.
+device, based on the phenomenon of quantum tunneling through potential barriers. (Left: band diagram; Center: transmission coefficient; Right: current-voltage characteristics) As shown in the band diagram(left), although there are two barriers, electrons still tunnel through via the confined states between two barriers(center), conducting current.]] Many electronic devices operate under effect of quantum tunneling. It even exists in the simple light switch. The switch would not work if electrons could not quantum tunnel through the layer of oxidation on the metal contact surfaces. Flash memory chips found in USB drives use quantum tunneling to erase their memory cells. Some negative differential resistance devices also utilize quantum tunneling effect, such as resonant tunneling diode. Unlike classical diodes, its current is carried by resonant tunneling through two or more potential barriers (see right figure). Its negative resistance behavior can only be understood with quantum mechanics: As the confined state moves close to Fermi level, tunnel current increases. As it moves away, current decreases. Quantum mechanics is necessary to understanding and designing such electronic devices.
 
 Cryptography
 
@@ -198,7 +198,7 @@ For example, consider a free particle. In quantum mechanics, a free matter is de
 
 Particle in a box
 
-Infinite_potential_well.svg The particle in a one-dimensional potential energy box is the most mathematically simple example where restraints lead to the quantization of energy levels. The box is defined as having zero potential energy everywhere _inside_ a certain region, and therefore infinite potential energy everywhere _outside_ that region. For the one-dimensional case in the x direction, the time-independent Schrödinger equation may be written[91]
+The particle in a one-dimensional potential energy box is the most mathematically simple example where restraints lead to the quantization of energy levels. The box is defined as having zero potential energy everywhere _inside_ a certain region, and therefore infinite potential energy everywhere _outside_ that region. For the one-dimensional case in the x direction, the time-independent Schrödinger equation may be written[91]
 
     $- \frac {\hbar ^2}{2m} \frac {d ^2 \psi}{dx^2} = E \psi.$
 
@@ -242,14 +242,14 @@ $$E = \frac{\hbar^2 \pi^2 n^2}{2mL^2} = \frac{n^2h^2}{8mL^2}.$$
 
 
     PARTICLE IN A BOX WITH BOUNDARY CONDITION V(X)=0 -A/2<X<+A/2
-    Particle_in_a_Box.jpgIn this condition the general solution will be same, there will a little change to the final result, since the boundary conditions are changed
+    In this condition the general solution will be same, there will a little change to the final result, since the boundary conditions are changed
 
     ψ(x) = Csin kx + Dcos kx.​
 
     At x=0, the wave function is not actually zero at all value of n.
     Clearly, from the wave function variation graph we have,
     At n=1,3,4,...... the wave function follows a cosine curve with x=0 as origin
-    At n=2,4,6,...... the wave function follows a sine curve with x=0 as originWave_function_variation.png
+    At n=2,4,6,...... the wave function follows a sine curve with x=0 as origin
 
 
     From this observation we can conclude that the wave function is alternatively sine and cosine.
@@ -272,7 +272,7 @@ This is a model for the quantum tunneling effect which plays an important role i
 
 Harmonic oscillator
 
-QuantumHarmonicOscillatorAnimation.gif (i.e. a ball attached to a spring) in classical mechanics (A-B) and quantum mechanics (C-H). In quantum mechanics, the position of the ball is represented by a wave (called the wave function), with the real part shown in blue and the imaginary part shown in red. Some of the trajectories (such as C, D, E, and F) are standing waves (or "stationary states"). Each standing-wave frequency is proportional to a possible energy level of the oscillator. This "energy quantization" does not occur in classical physics, where the oscillator can have _any_ energy.]]
+(i.e. a ball attached to a spring) in classical mechanics (A-B) and quantum mechanics (C-H). In quantum mechanics, the position of the ball is represented by a wave (called the wave function), with the real part shown in blue and the imaginary part shown in red. Some of the trajectories (such as C, D, E, and F) are standing waves (or "stationary states"). Each standing-wave frequency is proportional to a possible energy level of the oscillator. This "energy quantization" does not occur in classical physics, where the oscillator can have _any_ energy.]]
 
 As in the classical case, the potential for the quantum harmonic oscillator is given by
 
@@ -296,8 +296,6 @@ $$E_n = \hbar \omega \left(n + {1\over 2}\right).$$
 This is another example illustrating the quantification of energy for bound states.
 
 Step potential
-
-Qm_step_pot_temp.png
 
 The potential in this case is given by:
 

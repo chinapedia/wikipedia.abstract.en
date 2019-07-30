@@ -11,7 +11,7 @@ History
 
 Motorola started in Chicago, Illinois, as GALVIN MANUFACTURING CORPORATION (at 847 West Harrison Street)[8] in 1928 when brothers Paul V. and Joseph E. Galvin purchased the bankrupt Stewart Battery Company's battery-eliminator plans and manufacturing equipment at auction for $750. Galvin Manufacturing Corporation set up shop in a small section of a rented building. The company had $565 in working capital and five employees. The first week's payroll was $63.
 
-The company's first products were the battery eliminators, devices that enabled battery-powered radios to operate on household electricity. Due to advances in radio technology, battery-eliminators soon became obsolete. Paul Galvin learned that some radio technicians were installing sets in cars, and challenged his engineers to design an inexpensive car radio that could be installed in most vehicles. His team was successful, and Galvin was able to demonstrate a working model of the radio at the June 1930 Radio Manufacturers Association convention in Atlantic City, New Jersey. He brought home enough orders to keep the company in business.Motorola_Model_50XC_(1940).jpg]]
+The company's first products were the battery eliminators, devices that enabled battery-powered radios to operate on household electricity. Due to advances in radio technology, battery-eliminators soon became obsolete. Paul Galvin learned that some radio technicians were installing sets in cars, and challenged his engineers to design an inexpensive car radio that could be installed in most vehicles. His team was successful, and Galvin was able to demonstrate a working model of the radio at the June 1930 Radio Manufacturers Association convention in Atlantic City, New Jersey. He brought home enough orders to keep the company in business.]]
 
 Paul Galvin wanted a brand name for Galvin Manufacturing Corporation's new car radio, and created the name “Motorola” by linking "motor" (for motorcar) with "ola" (from Victrola), which was also a popular ending for many companies at the time, e.g. Moviola, Crayola.[9] The company sold its first Motorola branded radio on June 23, 1930, to Herbert C. Wall of Fort Wayne, Indiana, for $30. Wall went on to become one of the first Motorola distributors in the country. The Motorola brand name became so well known that Galvin Manufacturing Corporation later changed its name to Motorola, Inc.[10]
 
@@ -21,7 +21,7 @@ Motorola went public in 1943,[13] and became Motorola, Inc. in 1947. At that tim
 
 Post World War II
 
-Motorola_Tube_Box.jpg Motorola_television_advertisement,_1951.ogg In October 1946 Motorola communications equipment carried the first calls on Illinois Bell telephone company's new car radiotelephone service in Chicago. The company began making televisions in 1947, with the model VT-71 with 7-inch cathode ray tube. In 1952, Motorola opened its first international subsidiary in Toronto, Ontario, Canada to produce radios and televisions. In 1953, the company established the Motorola Foundation to support leading universities in the United States.
+In October 1946 Motorola communications equipment carried the first calls on Illinois Bell telephone company's new car radiotelephone service in Chicago. The company began making televisions in 1947, with the model VT-71 with 7-inch cathode ray tube. In 1952, Motorola opened its first international subsidiary in Toronto, Ontario, Canada to produce radios and televisions. In 1953, the company established the Motorola Foundation to support leading universities in the United States.
 
 In 1955, years after Motorola started its research and development laboratory in Phoenix, Arizona, to research new solid-state technology, Motorola introduced the world's first commercial high-power germanium-based transistor. The present "batwing" logo was also introduced in 1955 (having been created by award-winning Chicago graphic designer Morton Goldsholl in late 1954).
 
@@ -41,7 +41,7 @@ In 1976, Motorola moved its headquarters to the Chicago suburb of Schaumburg, Il
 
 In 1980, Motorola's next generation 32-bit microprocessor, the MC68000, led the wave of technologies that spurred the computing revolution in 1984, powering devices from companies such as Apple, Commodore, Atari, Sun, and Hewlett Packard.[19]
 
-2007Computex_e21Forum-MartinCooper.jpg of Motorola made the first private handheld mobile phone call on a larger prototype model in 1973. This is a reenactment in 2007.]] In September 1983, the U.S. Federal Communications Commission (FCC) approved the DynaTAC 8000X telephone, the world's first commercial cellular device. By 1998, cell phones accounted for two-thirds of Motorola's gross revenue.[20] The company was also strong in semiconductor technology, including integrated circuits used in computers. In particular, it is known for the 6800 family and 68000 family of microprocessors and related peripheral ICs; the processors were used in Atari ST, Commodore Amiga, Color Computer, and Apple Macintosh personal computers and in the early HP laser printers, and some 6800-family peripheral devices were used in the IBM PC series of personal computers.[21] The PowerPC family was developed with IBM and in a partnership with Apple (known as the AIM alliance). Motorola also has a diverse line of communication products, including satellite systems, digital cable boxes and modems.
+of Motorola made the first private handheld mobile phone call on a larger prototype model in 1973. This is a reenactment in 2007.]] In September 1983, the U.S. Federal Communications Commission (FCC) approved the DynaTAC 8000X telephone, the world's first commercial cellular device. By 1998, cell phones accounted for two-thirds of Motorola's gross revenue.[20] The company was also strong in semiconductor technology, including integrated circuits used in computers. In particular, it is known for the 6800 family and 68000 family of microprocessors and related peripheral ICs; the processors were used in Atari ST, Commodore Amiga, Color Computer, and Apple Macintosh personal computers and in the early HP laser printers, and some 6800-family peripheral devices were used in the IBM PC series of personal computers.[21] The PowerPC family was developed with IBM and in a partnership with Apple (known as the AIM alliance). Motorola also has a diverse line of communication products, including satellite systems, digital cable boxes and modems.
 
 In 1986, Motorola invented the Six Sigma quality improvement process. This became a global standard. In 1990 General Instrument Corporation, which was later acquired by Motorola, proposed the first all-digital HDTV standard. In the same year, the company introduced the Bravo numeric pager which became the world's best-selling pager.
 
@@ -57,7 +57,7 @@ In 1999, Motorola separated a portion of its semiconductor business—the Semico
 
 In June 2000, Motorola and Cisco supplied the world's first commercial GPRS cellular network to BT Cellnet in the United Kingdom. The world's first GPRS cell phone was also developed by Motorola. In August 2000, with recent acquisitions, Motorola reached its peak employment of 150,000 employees worldwide.[24] Two years later, employment would be at 93,000 due to layoffs and spinoffs.
 
-In 2002, Motorola introduced the world's first wireless cable modem gateway which combined a high-speed cable modem router with an ethernet switch and wireless home gateway. In 2003, Motorola introduced the world's first handset to combine a Linux operating system and Java technology with "full PDA functionality". In 2004, Motorola divested its whole semiconductor business to form Freescale Semiconductor. Razor2000ppx.jpg The Motorola RAZR line sold over 130 million units,[25] which brought the company to the number two mobile phone slot in 2005.
+In 2002, Motorola introduced the world's first wireless cable modem gateway which combined a high-speed cable modem router with an ethernet switch and wireless home gateway. In 2003, Motorola introduced the world's first handset to combine a Linux operating system and Java technology with "full PDA functionality". In 2004, Motorola divested its whole semiconductor business to form Freescale Semiconductor. The Motorola RAZR line sold over 130 million units,[25] which brought the company to the number two mobile phone slot in 2005.
 
 In June 2005, Motorola overtook the intellectual property of Sendo for $30,000 and paid £362,575 for the plant, machinery and equipment.[26]
 
@@ -71,7 +71,7 @@ In 2010, Motorola sold its cellular-infrastructure business to Nokia Siemens Net
 
 Major facilities
 
-Motorola_Danmark_Glostrup.JPG, Denmark]]
+, Denmark]]
 
 Illinois
 

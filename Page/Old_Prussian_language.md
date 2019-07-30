@@ -1,4 +1,4 @@
-Baltic_Tribes_c_1200.svg, circa 1200 CE (boundaries are approximate).]]
+, circa 1200 CE (boundaries are approximate).]]
 
 OLD PRUSSIAN is an extinct Baltic language once spoken by the Old Prussians, the Baltic peoples of the Prussian region. The language is called Old Prussian to avoid confusion with the German dialects of Low Prussian and High Prussian and with the adjective _Prussian_ as it relates to the later German state. Old Prussian began to be written down in the Latin alphabet in about the 13th century, and a small amount of literature in the language survives.
 
@@ -84,8 +84,6 @@ LORD'S PRAYER IN LITHUANIAN DIALECT OF NADRUVIA, CORRUPTED (Simon Prätorius)
     Bet te passarge mus mi wissa Louna (Pikta)
 
 A list of monuments of Old Prussian
-
-The_epigram_of_Basel_-_oldest_known_inscription_in_Prussian_language_and_Baltic_language_in_general,_middle_of_14th_c.jpg
 
 -   Prussian-language geographical names within the territory of (Baltic) Prussia. Georg Gerullis undertook the first basic study of these names in __ ("The Old Prussian Place-names"), written and published with the help of Walter de Gruyter, in 1922.
 -   Prussian personal names.[7]

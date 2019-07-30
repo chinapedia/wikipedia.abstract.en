@@ -15,7 +15,7 @@ In 1198, Celestine confirmed the statutes of the Teutonic Knights as a military 
 
 Death
 
-Pope_Celestine,_St_William_and_an_unidentified_Prelate,_East_Window,_York_Minster.jpg]] Celestine would have resigned the papacy and recommended a successor (Cardinal Giovanni di San Paolo, O.S.B.) shortly before his death,[9] but was not allowed to do so by the cardinals.[10]
+]] Celestine would have resigned the papacy and recommended a successor (Cardinal Giovanni di San Paolo, O.S.B.) shortly before his death,[9] but was not allowed to do so by the cardinals.[10]
 
 
 See also

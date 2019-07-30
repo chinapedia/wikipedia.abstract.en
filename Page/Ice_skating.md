@@ -1,11 +1,9 @@
-Skating,_man,_woman,_ice-skating_rink,_winter,_smile,_free_time_Fortepan_14348.jpg DBP_1994_Tag_der_Briefmarke.jpg ICE SKATING is the self-propulsion of a person across a sheet of ice, using metal-bladed ice skates to glide on the ice surface. This activity can be carried out for various reasons, including recreation, sport, exercise, and travel. Ice skating may be performed on specially prepared ice surfaces (arenas, tracks, parks), both indoors and outdoors, as well as on naturally occurring bodies of frozen water, such as ponds, lakes and rivers.
+ICE SKATING is the self-propulsion of a person across a sheet of ice, using metal-bladed ice skates to glide on the ice surface. This activity can be carried out for various reasons, including recreation, sport, exercise, and travel. Ice skating may be performed on specially prepared ice surfaces (arenas, tracks, parks), both indoors and outdoors, as well as on naturally occurring bodies of frozen water, such as ponds, lakes and rivers.
 
 
 History
 
 Early history of ice skating
-
-SCENEONICE.jpg
 
 Research suggests that the earliest ice skating happened in southern Finland more than 4,000 years ago. This was done to save energy during winter journeys. True skating emerged when a steel blade with sharpened edges was used. Skates now cut into the ice instead of gliding on top of it. Adding edges to ice skates was invented by the Dutch in the 13th or 14th century. These ice skates were made of steel, with sharpened edges on the bottom to aid movement.[1]
 
@@ -13,7 +11,7 @@ The fundamental construction of modern ice skates has stayed largely the same si
 
 Ice skating was also practiced in China during the Song dynasty, and became popular among the ruling family of the Qing dynasty.[2]
 
-The_Skating_Minister.jpg'' by Henry Raeburn, depicting a member of the Edinburgh Skating Club in the 1790s]]
+'' by Henry Raeburn, depicting a member of the Edinburgh Skating Club in the 1790s]]
 
 Rising popularity and first clubs
 
@@ -29,17 +27,17 @@ From this description and others, it is apparent that the form of skating practi
 
 On the Continent, participation in ice skating was limited to members of the upper classes. Emperor Rudolf II of the Holy Roman Empire enjoyed ice skating so much, he had a large ice carnival constructed in his court in order to popularise the sport. King Louis XVI of France brought ice skating to Paris during his reign. Madame de Pompadour, Napoleon I, Napoleon III and the House of Stuart were, among others, royal and upper class fans of ice skating.
 
-Glaciarium_Ice_Rink.jpg in 1876]] The next skating club to be established was in London and was not founded until 1830.[8] By the mid-19th century, ice skating was a popular pastime among the British upper and middle classes—Queen Victoria became acquainted with her future husband, Prince Albert, through a series of ice skating trips[9]—and early attempts at the construction of artificial ice rinks were made during the "rink mania" of 1841–44. As the technology for the maintenance of natural ice did not exist, these early rinks used a substitute consisting of a mixture of hog's lard and various salts. An item in the 8 May 1844 issue of Littell's 'Living Age' headed the 'Glaciarium' reported that "This establishment, which has been removed to Grafton street East' Tottenham Court Road, was opened on Monday afternoon. The area of artificial ice is extremely convenient for such as may be desirous of engaging in the graceful and manly pastime of skating".
+in 1876]] The next skating club to be established was in London and was not founded until 1830.[8] By the mid-19th century, ice skating was a popular pastime among the British upper and middle classes—Queen Victoria became acquainted with her future husband, Prince Albert, through a series of ice skating trips[9]—and early attempts at the construction of artificial ice rinks were made during the "rink mania" of 1841–44. As the technology for the maintenance of natural ice did not exist, these early rinks used a substitute consisting of a mixture of hog's lard and various salts. An item in the 8 May 1844 issue of Littell's 'Living Age' headed the 'Glaciarium' reported that "This establishment, which has been removed to Grafton street East' Tottenham Court Road, was opened on Monday afternoon. The area of artificial ice is extremely convenient for such as may be desirous of engaging in the graceful and manly pastime of skating".
 
 Emergence as a sport
 
-Fenskaters_ronden_ton.jpg]] Skating became popular as a recreation, a means of transport and spectator sport in The Fens in England for people from all walks of life. Racing was the preserve of workers, most of them agricultural labourers. It is not known when the first skating matches were held, but by the early nineteenth century racing was well established and the results of matches were reported in the press.[10] Skating as a sport developed on the lakes of Scotland and the canals of the Netherlands. In the 13th and 14th centuries wood was substituted for bone in skate blades, and in 1572 the first iron skates were manufactured.[11] When the waters froze, skating matches were held in towns and villages all over the Fens. In these local matches men (or sometimes women or children) would compete for prizes of money, clothing or food.[12]
+]] Skating became popular as a recreation, a means of transport and spectator sport in The Fens in England for people from all walks of life. Racing was the preserve of workers, most of them agricultural labourers. It is not known when the first skating matches were held, but by the early nineteenth century racing was well established and the results of matches were reported in the press.[10] Skating as a sport developed on the lakes of Scotland and the canals of the Netherlands. In the 13th and 14th centuries wood was substituted for bone in skate blades, and in 1572 the first iron skates were manufactured.[11] When the waters froze, skating matches were held in towns and villages all over the Fens. In these local matches men (or sometimes women or children) would compete for prizes of money, clothing or food.[12]
 
 The winners of local matches were invited to take part in the grand or championship matches, in which skaters from across the Fens would compete for cash prizes in front of crowds of thousands. The championship matches took the form of a Welsh main or "last man standing" contest. The competitors, 16 or sometimes 32, were paired off in heats and the winner of each heat went through to the next round. A course of 660 yards was measured out on the ice, and a barrel with a flag on it placed at either end. For a one-and-a-half mile race the skaters completed two rounds of the course, with three barrel turns.[13]
 
-Fen_Runners.jpg In the Fens skates were called pattens, fen runners, or Whittlesey runners. The footstock was made of beechwood. A screw at the back was screwed into the heel of the boot, and three small spikes at the front kept the skate steady. There were holes in the footstock for leather straps to fasten it to the foot. The metal blades were slightly higher at the back than the front. In the 1890s, fen skaters started to race in Norwegian style skates.
+In the Fens skates were called pattens, fen runners, or Whittlesey runners. The footstock was made of beechwood. A screw at the back was screwed into the heel of the boot, and three small spikes at the front kept the skate steady. There were holes in the footstock for leather straps to fasten it to the foot. The metal blades were slightly higher at the back than the front. In the 1890s, fen skaters started to race in Norwegian style skates.
 
-On Saturday 1 February 1879, a number of professional ice skaters from Cambridgeshire and Huntingdonshire met in the Guildhall, Cambridge, to set up the National Skating Association, the first national ice skating body in the world.[14] The founding committee consisted of several landowners, a vicar, a fellow of Trinity College, a magistrate, two Members of Parliament, the mayor of Cambridge, the Lord Lieutenant of Cambridge, journalist James Drake Digby, the president of Cambridge University Skating Club, and Neville Goodman, a graduate of Peterhouse, Cambridge (and son of Potto Brown's milling partner, Joseph Goodman).[15] The newly formed Association held their first one-and-a-half-mile British professional championship at Thorney in December 1879. Jackson_Haines.png
+On Saturday 1 February 1879, a number of professional ice skaters from Cambridgeshire and Huntingdonshire met in the Guildhall, Cambridge, to set up the National Skating Association, the first national ice skating body in the world.[14] The founding committee consisted of several landowners, a vicar, a fellow of Trinity College, a magistrate, two Members of Parliament, the mayor of Cambridge, the Lord Lieutenant of Cambridge, journalist James Drake Digby, the president of Cambridge University Skating Club, and Neville Goodman, a graduate of Peterhouse, Cambridge (and son of Potto Brown's milling partner, Joseph Goodman).[15] The newly formed Association held their first one-and-a-half-mile British professional championship at Thorney in December 1879.
 
 Figure skating
 
@@ -47,7 +45,7 @@ The first instructional book concerning ice skating was published in London in 1
 
 The founder of modern figure skating as it is known today was Jackson Haines, an American. He was the first skater to incorporate ballet and dance movements into his skating, as opposed to focusing on tracing patterns on the ice. Haines also invented the sit spin and developed a shorter, curved blade for figure skating that allowed for easier turns. He was also the first to wear blades that were permanently attached to the boot.
 
-NSAPINY9_EXTR.jpg, Winter – The Skating Pond'', 1862 lithograph by Currier and Ives]]
+, Winter – The Skating Pond'', 1862 lithograph by Currier and Ives]]
 
 The International Skating Union was founded in 1892 as the first international ice skating organisation in Scheveningen, in the Netherlands. The Union created the first codified set of figure skating rules and governed international competition in speed and figure skating. The first Championship, known as the Championship of the Internationale Eislauf-Vereingung, was held in Saint Petersburg in 1896. The event had four competitors and was won by Gilbert Fuchs.[16]
 
@@ -61,7 +59,7 @@ It had long been believed that ice is slippery because the pressure of an object
 
 Inherent safety risks
 
-Ice_Skating_(12).jpg A person's ability to ice skate depends on the roughness of the ice, the design of the ice skate, and the skill and experience of the skater. While serious injury is rare, a number of short track speed skaters have been paralysed after a heavy fall when they collided with the boarding. A fall can be fatal if a helmet is not worn to protect against severe head trauma. Accidents are rare but there is a risk of injury from collisions, particularly during hockey games or in pair skating.
+A person's ability to ice skate depends on the roughness of the ice, the design of the ice skate, and the skill and experience of the skater. While serious injury is rare, a number of short track speed skaters have been paralysed after a heavy fall when they collided with the boarding. A fall can be fatal if a helmet is not worn to protect against severe head trauma. Accidents are rare but there is a risk of injury from collisions, particularly during hockey games or in pair skating.
 
 A significant danger when skating outdoors on a frozen body of water, is falling through the ice into the freezing water underneath. Death can result from shock, hypothermia or drowning. It is often difficult or impossible for the skater to climb out of the water, due to the weight of their ice skates and thick winter clothing, and the ice repeatedly breaking as they struggle to get back onto the surface. Also, if the skater becomes disoriented under the water, they might not be able to find the hole in the ice through which they have fallen. Although this can prove fatal, it is also possible for the rapid cooling to produce a condition in which a person can be revived up to hours after falling into the water.
 

@@ -38,29 +38,29 @@ Carbon-sulfur compounds
 
 Important inorganic carbon-sulfur compounds are the carbon sulfides carbon disulfide (CS₂) and carbonyl sulfide (OCS). Carbon monosulfide (CS) unlike carbon monoxide is very unstable. Important compound classes are thiocarbonates, thiocarbamates, dithiocarbamates and trithiocarbonates.
 
-+-----------------------------------+------------------------------------+------------------------------------+
-| CS-CRC-MW-dimensions-2D-Lewis.png | Carbon-disulfide-2D-dimensions.png | Carbonyl-sulfide-2D-dimensions.png |
-+-----------------------------------+------------------------------------+------------------------------------+
-| carbon monosulfide                | carbon disulfide                   | carbonyl sulfide                   |
-+-----------------------------------+------------------------------------+------------------------------------+
-| INORGANIC CARBON-SULFUR COMPOUNDS |                                    |                                    |
-+-----------------------------------+------------------------------------+------------------------------------+
++-----------------------------------+------------------+------------------+
+|                                   |                  |                  |
++-----------------------------------+------------------+------------------+
+| carbon monosulfide                | carbon disulfide | carbonyl sulfide |
++-----------------------------------+------------------+------------------+
+| INORGANIC CARBON-SULFUR COMPOUNDS |                  |                  |
++-----------------------------------+------------------+------------------+
 
 Carbon-nitrogen compounds
 
 Small inorganic carbon – nitrogen compounds are cyanogen, hydrogen cyanide, cyanamide, isocyanic acid and cyanogen chloride.
 
-  ------------------------------------- ------------- ---------------------------------- ---------------------- ------------------ ------------------
-                                        composition                                      |Molar mass (g/mole)   Boiling point °C   Melting point °C
-  cyanogen                              (CN)₂         Cyanogen.png                       52.03                  −21                −28
-  hydrogen cyanide                      HCN           Hydrogen-cyanide-2D.svg            27.03                  25–26              −12 – -14
-  cyanamide                             CN₂H₂         Cyanamide.svg                      42.04                  260 (decomp.)      44
-  isocyanic acid                        HNCO          Isocyansäure.svg                   43.03                  23.5               −86
-  cyanogen chloride                     CNCl          Cyanogen-chloride.png              61.47                  13                 −6
-  chlorosulfonyl isocyanate             CNClO₃S       Chlorosulfonyl-isocyanate-2D.png   141.53                 107                −44
-  cyanuric chloride                     (NCCl)₃       Cyanuric_chloride.png              184.41                 192                154
+  ------------------------------------- ------------- -- ---------------------- ------------------ ------------------
+                                        composition      |Molar mass (g/mole)   Boiling point °C   Melting point °C
+  cyanogen                              (CN)₂            52.03                  −21                −28
+  hydrogen cyanide                      HCN              27.03                  25–26              −12 – -14
+  cyanamide                             CN₂H₂            42.04                  260 (decomp.)      44
+  isocyanic acid                        HNCO             43.03                  23.5               −86
+  cyanogen chloride                     CNCl             61.47                  13                 −6
+  chlorosulfonyl isocyanate             CNClO₃S          141.53                 107                −44
+  cyanuric chloride                     (NCCl)₃          184.41                 192                154
   INORGANIC CARBON-NITROGEN COMPOUNDS
-  ------------------------------------- ------------- ---------------------------------- ---------------------- ------------------ ------------------
+  ------------------------------------- ------------- -- ---------------------- ------------------ ------------------
 
 Paracyanogen is the polymerization product of cyanogen. Cyanuric chloride is the trimer of cyanogen chloride and 2-cyanoguanidine is the dimer of cyanamide.
 

@@ -9,7 +9,7 @@ Polygonaceae contain some of the worst weeds, including species of _Persicaria, 
 
 Taxonomy
 
-Polygonaceae are very well-defined and have long been universally recognized. In the APG III system, the family is placed in the order Caryophyllales.[12] Within the order, it lies outside of the large clade known as the core Caryophyllales.[13] It is sister to the family Plumbaginaceae, which it does not resemble morphologically.[14] Polygonum_plebeium_W_IMG_0462.jpg'' or small knotweed]]
+Polygonaceae are very well-defined and have long been universally recognized. In the APG III system, the family is placed in the order Caryophyllales.[12] Within the order, it lies outside of the large clade known as the core Caryophyllales.[13] It is sister to the family Plumbaginaceae, which it does not resemble morphologically.[14] '' or small knotweed]]
 
 The last comprehensive revision of the family was published in 1993 by John Brandbyge as part of _The Families and Genera of Vascular Plants_.[15] Brandbyge followed earlier systems of plant classification in dividing Polygonaceae into two subfamilies, Eriogonoideae and Polygonoideae. Since 1993, the circumscriptions of these two subfamilies have been changed in light of phylogenetic studies of DNA sequences.[16] Genera related to _Coccoloba_ and _Triplaris_ were moved from Polygonoideae to Eriogonoideae. The genus _Symmeria_ does not belong to either of these subfamilies because it is sister to the rest of the family.[17] _Afrobrunnichia_ might constitute a new subfamily as well.[18]
 
@@ -18,9 +18,9 @@ Brandbyge wrote descriptions for 43 genera of Polygonaceae in 1993.[19] Since th
 
 Description
 
-Ocreae_of_a_Persicaria_maculosa_2006-aug-10_Gothenburg_Sweden.jpg'']]
+'']]
 
-Most Polygonaceae are perennial herbaceous plants with swollen nodes, but trees, shrubs and vines are also present. The leaves of Polygonaceae are simple, and arranged alternately on the stems. Each leaf has a peculiar pair of fused, sheathing stipules known as an OCHREA. Those species that do not have the nodal ochrea can be identified by their possession of involucrate flower heads. The flowers are normally bisexual, small, and actinomorphic, with a perianth of three to six sepals. After flowering, the sepals often become thickened and enlarged around the developing fruit. Flowers lack a corolla and in some, the sepals are petal-like and colorful. The androecium is composed of three to eight stamens that are normally free or united at the base. The ovary consists of three united carpels that form a single locule, which produces only one ovule. The ovary is superior with basal or free-central placentation. The gynoecium terminates in 1 to 3 styles, each of which ends in a single stigma.[23][24][25] Persicaria_capitata_AF_crop.jpg'' or pink knotweed]]
+Most Polygonaceae are perennial herbaceous plants with swollen nodes, but trees, shrubs and vines are also present. The leaves of Polygonaceae are simple, and arranged alternately on the stems. Each leaf has a peculiar pair of fused, sheathing stipules known as an OCHREA. Those species that do not have the nodal ochrea can be identified by their possession of involucrate flower heads. The flowers are normally bisexual, small, and actinomorphic, with a perianth of three to six sepals. After flowering, the sepals often become thickened and enlarged around the developing fruit. Flowers lack a corolla and in some, the sepals are petal-like and colorful. The androecium is composed of three to eight stamens that are normally free or united at the base. The ovary consists of three united carpels that form a single locule, which produces only one ovule. The ovary is superior with basal or free-central placentation. The gynoecium terminates in 1 to 3 styles, each of which ends in a single stigma.[23][24][25] '' or pink knotweed]]
 
 
 Genera

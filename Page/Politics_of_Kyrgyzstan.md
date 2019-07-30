@@ -23,7 +23,7 @@ As May approached the authorities further extended their hold on power, imprison
 
 In November the President faced yet more protests, as the opposition announced it would march on the capital and demand his resignation. The police reacted by arresting large amounts of demonstrators, further adding to international disapproval at the authoritarian nature of Akayev's government.
 
-E8160-Tamchy--police-station.jpg, Issyk Kul Province]] By June 2003, the lower house of Parliament announced that President Akayev and two other leaders of Kyrgyzstan, from the Soviet era, would be given lifetime immunity from prosecution, raising the prospect of Akayev finally stepping down.
+, Issyk Kul Province]] By June 2003, the lower house of Parliament announced that President Akayev and two other leaders of Kyrgyzstan, from the Soviet era, would be given lifetime immunity from prosecution, raising the prospect of Akayev finally stepping down.
 
 In 2005, following disputed results of the 2005 parliamentary elections, Kyrgyzstan was thrown into a state of political turmoil, with different parties claiming that they were the legitimate government. On 10 July 2005 interim President and opposition People's Movement leader Kurmanbek Bakiyev won the presidential election in a landslide victory. (See: Tulip Revolution).
 

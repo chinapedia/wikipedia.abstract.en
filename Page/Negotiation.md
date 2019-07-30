@@ -1,6 +1,6 @@
-Treaty_of_trianon_negotiations.jpg on 4 June 1920. Albert Apponyi standing in the middle.]]
+on 4 June 1920. Albert Apponyi standing in the middle.]]
 
-Negotiations_about_Iranian_Nuclear_Program_-_Foreign_Ministers_and_other_Officials_of_P5+1_Iran_and_EU_in_Lausanne.jpg in Lausanne for a Comprehensive agreement on the Iranian nuclear programme (30 March 2015).]]
+in Lausanne for a Comprehensive agreement on the Iranian nuclear programme (30 March 2015).]]
 
 NEGOTIATION comes from the Latin neg (no) and otsia (leisure) referring to businessmen who, unlike the patricians, had no leisure time in their industriousness; it held the meaning of business (le négoce in French) until the 17th century when it took on the diplomatic connotation as a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues.[1][2] Thus, negotiation is a process of combining divergent positions into a joint agreement under a decision rule of unanimity.
 
@@ -236,7 +236,7 @@ While negotiations involving more than two parties is less often researched, som
 
 Team
 
-Warsaw_Negotiation_Round_Senate_of_Poland_2014_01.JPG and University of Toronto during 5th International Negotiation Tournament – Warsaw Negotiation Round in the Polish Senate (2014).]]
+and University of Toronto during 5th International Negotiation Tournament – Warsaw Negotiation Round in the Polish Senate (2014).]]
 
 Due to globalization and growing business trends, negotiation in the form of teams is becoming widely adopted. Teams can effectively collaborate to break down a complex negotiation. There is more knowledge and wisdom dispersed in a team than in a single mind. Writing, listening, and talking, are specific roles team members must satisfy. The capacity base of a team reduces the amount of blunder, and increases familiarity in a negotiation.[97]
 

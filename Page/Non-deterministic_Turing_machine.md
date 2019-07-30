@@ -92,7 +92,7 @@ An NTM has the property of bounded non-determinism. That is, if an NTM always ha
 
 Comparison with quantum computers
 
-BQP_complexity_class_diagram.svg (BQP). Note that the figure suggests P ≠ NP and NP ≠ PSPACE. If this is not true then the figure should look different.]] Because quantum computers use quantum bits, which can be in superpositions of states, rather than conventional bits, there is a misconception that quantum computers are NTMs.[4] It is believed by experts (but has not been proven) that instead, the power of quantum computers is incomparable to that of NTMs, that is, problems likely exist that an NTM could efficiently solve that a quantum computer cannot and vice versa.[5] In particular, it is likely that NP-complete problems are solvable by NTMs but not by quantum computers in polynomial time.
+(BQP). Note that the figure suggests P ≠ NP and NP ≠ PSPACE. If this is not true then the figure should look different.]] Because quantum computers use quantum bits, which can be in superpositions of states, rather than conventional bits, there is a misconception that quantum computers are NTMs.[4] It is believed by experts (but has not been proven) that instead, the power of quantum computers is incomparable to that of NTMs, that is, problems likely exist that an NTM could efficiently solve that a quantum computer cannot and vice versa.[5] In particular, it is likely that NP-complete problems are solvable by NTMs but not by quantum computers in polynomial time.
 
 
 See also

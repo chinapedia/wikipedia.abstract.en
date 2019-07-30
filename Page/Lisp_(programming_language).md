@@ -39,7 +39,7 @@ Differences between dialects may be quite visible—for instance, Common Lisp us
 
 Historically significant dialects
 
-LISP_machine.jpg in the MIT Museum]] 4.3_BSD_UWisc_VAX_Emulation_Lisp_Manual.png from the University of Wisconsin, displaying the man page for Franz Lisp]]
+in the MIT Museum]] from the University of Wisconsin, displaying the man page for Franz Lisp]]
 
 -   LISP 1[14] – First implementation.
 -   LISP 1.5[15] – First widely distributed version, developed by McCarthy and others at MIT. So named because it contained several improvements on the original "LISP 1" interpreter, but was not a major restructuring as the planned LISP 2 would be.
@@ -197,7 +197,7 @@ As more data types were introduced in later Lisp dialects, and programming style
 
 Conses and lists
 
-Cons-cells.svg diagram for the list (42 69 613)]] A Lisp list is implemented as a singly linked list.[49] Each cell of this list is called a _cons_ (in Scheme, a _pair_), and is composed of two pointers, called the _car_ and _cdr_. These are respectively equivalent to the and fields discussed in the article _linked list_.
+diagram for the list (42 69 613)]] A Lisp list is implemented as a singly linked list.[49] Each cell of this list is called a _cons_ (in Scheme, a _pair_), and is composed of two pointers, called the _car_ and _cdr_. These are respectively equivalent to the and fields discussed in the article _linked list_.
 
 Of the many data structures that can be built out of cons cells, one of the most basic is called a _proper list_. A proper list is either the special (empty list) symbol, or a cons in which the points to a datum (which may be another cons structure, such as a list), and the points to another proper list.
 

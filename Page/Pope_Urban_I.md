@@ -28,7 +28,7 @@ His relic is located in Hungary in the Monok Roman Catholic Church. In 1773 XIV.
 
 Legends and myths
 
-Św_Urban_figura_Cieszowa_254.jpg As no contemporary accounts of Urban's pontificate exist there have been many legends and acts attributed to him which are fictitious or difficult to ascertain the factual nature of. The legendary Acts of St. Cecilia and the _Liber Pontificalis_ both contain information on Urban, although of doubtable accuracy. Chaucer had him a character in his Second Nun's Tale in the Canterbury Tales.
+As no contemporary accounts of Urban's pontificate exist there have been many legends and acts attributed to him which are fictitious or difficult to ascertain the factual nature of. The legendary Acts of St. Cecilia and the _Liber Pontificalis_ both contain information on Urban, although of doubtable accuracy. Chaucer had him a character in his Second Nun's Tale in the Canterbury Tales.
 
 A story that was once included in the Catholic Church's Breviary states that Saint Urban had many converts among whom were Tiburtius and his brother Valerianus, husband of Saint Cecilia. Tradition credits Saint Urban with the miracle of toppling an idol through prayer.[11] This event is believed to have led to Saint Urban being beaten and tortured before being sentenced to death by beheading.
 

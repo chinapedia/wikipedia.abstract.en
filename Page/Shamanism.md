@@ -7,7 +7,7 @@ Terminology
 
 Etymology
 
-Witsen's_Shaman.JPG, 17th century. Witsen called him a "priest of the Devil" and drew clawed feet for the supposed demonic qualities.[6]]]
+, 17th century. Witsen called him a "priest of the Devil" and drew clawed feet for the supposed demonic qualities.[6]]]
 
 The word _shamanism_ probably derives from the Manchu-Tungus word , meaning "one who knows".[7] The word _shaman_ may also have originated from the Evenki word _šamán_, most likely from the southwestern dialect spoken by the Sym Evenki peoples.[8] The Tungusic term was subsequently adopted by Russians interacting with the indigenous peoples in Siberia. It is found in the memoirs of the exiled Russian churchman Avvakum.[9]
 
@@ -23,7 +23,7 @@ A (female shaman) is sometimes called a __, which is not an actual indigenous te
 
 Definitions
 
-SB_-_Altay_shaman_with_drum.jpg, Russian Empire, 1908[20]]]
+, Russian Empire, 1908[20]]]
 
 There is no single agreed-upon definition for the word "shamanism" among anthropologists. The English historian Ronald Hutton noted that by the dawn of the 21st century, there were four separate definitions of the term which appeared to be in use. The first of these uses the term to refer to "anybody who contacts a spirit world while in an altered state of consciousness." The second definition limits the term to refer to those who contact a spirit world while in an altered state of consciousness at the behest of others. The third definition attempts to distinguish shamans from other magico-religious specialists who are believed to contact spirits, such as "mediums", "witch doctors", "spiritual healers" or "prophets," by claiming that shamans undertake some particular technique not used by the others. Problematically, scholars advocating the third view have failed to agree on what the defining technique should be. The fourth definition identified by Hutton uses "shamanism" to refer to the indigenous religions of Siberia and neighboring parts of Asia.[21] According to the Golomt Center for Shamanic Studies, a Mongolian organisation of shamans, the Evenk word _shaman_ would more accurately be translated as "priest".[22]
 
@@ -55,7 +55,7 @@ The wounded healer is an archetype for a shamanic trial and journey. This proces
 
 Roles
 
-COLLECTIE_TROPENMUSEUM_Een_shamaan_op_Zuid-Boeroe_bezweert_boze_geesten_de_kinderen_te_verlaten_waarbij_hij_een_geldstuk_en_een_sirihnoot_offert_TMnr_10001031.jpg shaman in an exorcism ritual involving children, Buru, Indonesia (1920)]]
+shaman in an exorcism ritual involving children, Buru, Indonesia (1920)]]
 
 Shamans claim to gain knowledge and the power to heal by entering into the spiritual world or dimension. Most shamans have dreams or visions that convey certain messages. Shamans may claim to have or have acquired many spirit guides, who they believe guide and direct them in their travels in the spirit world. These spirit guides are always thought to be present within the shaman, although others are said to encounter them only when the shaman is in a trance. The spirit guide energizes the shamans, enabling them to enter the spiritual dimension. Shamans claim to heal within the spiritual dimension by returning lost parts of the human soul from wherever they have gone. Shamans also claim to cleanse excess negative energies, which are said to confuse or pollute the soul.
 
@@ -129,7 +129,7 @@ Generally, shamans traverse the axis mundi and enter the "spirit world" by effec
 
 Entheogens
 
-Flowering_San_Pedro_cactus.jpg, an entheogenic cactus that has been used for over 3,000 years.[84] Today the vast majority of extracted mescaline is from columnar cacti, not vulnerable peyote.[85]]]
+, an entheogenic cactus that has been used for over 3,000 years.[84] Today the vast majority of extracted mescaline is from columnar cacti, not vulnerable peyote.[85]]]
 
 An entheogen ("generating the divine within")[86] is a psychoactive substance used in a religious, shamanic, or spiritual context.[87] Entheogens have been used in a ritualized context for thousands of years; their religious significance is well established in anthropological and modern evidences. Examples of traditional entheogens include: peyote,[88] psilocybin and Amanita muscaria (fly agaric) mushrooms,[89] uncured tobacco,[90] cannabis,[91] ayahuasca,[92] _Salvia divinorum_,[93] iboga,[94] and Mexican morning glory.
 
@@ -153,14 +153,14 @@ Other practices
 
 Paraphernalia
 
-Raven_Rattle,_19th_century,_05.588.7292.jpg]] Shamans may have various kinds of paraphernalia in different cultures. Goldes_shaman_priest_in_his_regalia.png shaman priest in his regalia]]
+]] Shamans may have various kinds of paraphernalia in different cultures. shaman priest in his regalia]]
 
 -   DRUM – The drum is used by shamans of several peoples in Siberia, and many other cultures all over the world,[102][103] The beating of the drum allows the shaman to achieve an altered state of consciousness or to travel on a journey between the physical and spiritual worlds. Much fascination surrounds the role that the acoustics of the drum play to the shaman. Shaman drums are generally constructed of an animal-skin stretched over a bent wooden hoop, with a handle across the hoop.
 
 
 Academic study
 
-Shaman.jpg ''noaidi with his drum]]
+''noaidi with his drum]]
 
 Cognitive and evolutionary approaches
 
@@ -195,7 +195,7 @@ Decline and revitalization and tradition-preserving movements
 
 Shamanism is believed to be declining around the world, possibly due to other organised religious influences, like Christianity, that want people who practice shamanism to convert to their own system and doctrine. Another reason is Western views of shamanism as primitive, superstitious, backward and outdated. Whalers who frequently interact with Inuit tribes are one source of this decline in that region.[146]
 
-Kyzyl_Shaman.jpg, 2005. Attempts are being made to preserve and revitalize Tuvan shamanism:[147] former authentic shamans have begun to practice again, and young apprentices are being educated in an organized way.[148]]]
+, 2005. Attempts are being made to preserve and revitalize Tuvan shamanism:[147] former authentic shamans have begun to practice again, and young apprentices are being educated in an organized way.[148]]]
 
 In many areas, former shamans ceased to fulfill the functions in the community they used to, as they felt mocked by their own community,[149] or regarded their own past as deprecated and were unwilling to talk about it to ethnographers.[150]
 
@@ -247,11 +247,11 @@ A person can become a shaman through hereditary title or through natural ability
 
 Malaysia
 
-Bobohizans.jpeg'' of Sabah, circa 1921.]] Shamanism were also practiced among the Malay community in Malay Peninsula and indigenous people in Sabah and Sarawak. People who practice shamanism in the country are generally called as _bomoh_ or _pawang_ in the Peninsula.[180][181] In Sabah, the Bobohizan is the main shaman among the Kadazan-Dusun indigenous community.[182]
+'' of Sabah, circa 1921.]] Shamanism were also practiced among the Malay community in Malay Peninsula and indigenous people in Sabah and Sarawak. People who practice shamanism in the country are generally called as _bomoh_ or _pawang_ in the Peninsula.[180][181] In Sabah, the Bobohizan is the main shaman among the Kadazan-Dusun indigenous community.[182]
 
 Mongolia
 
-Mongol_Darkhad_Shaman_just_starting_Shamanic_ritual.jpg'' performing rituals, 3 March 2019. At Khovsogol lake worship, during the "Blue Pearl" event in Mongolia.]] Mongolian classics, such as _The Secret History of the Mongols_, provide details about male and female shamans serving as exorcists, healers, rainmakers, oneiromancers, soothsayers, and officials. Shamanic practices continue in present-day Mongolian culture.[183][184][185][186][187]
+'' performing rituals, 3 March 2019. At Khovsogol lake worship, during the "Blue Pearl" event in Mongolia.]] Mongolian classics, such as _The Secret History of the Mongols_, provide details about male and female shamans serving as exorcists, healers, rainmakers, oneiromancers, soothsayers, and officials. Shamanic practices continue in present-day Mongolian culture.[183][184][185][186][187]
 
 The spiritual hierarchy in clan-based Mongolian society was complex. The highest group consisted of 99 _tngri_ (55 of them benevolent or "white" and 44 terrifying or "black"), 77 _natigai_ or "earth-mothers", besides others. The _tngri_ were called upon only by leaders and great shamans and were common to all the clans. After these, three groups of ancestral spirits dominated. The "Lord-Spirits" were the souls of clan leaders to whom any member of a clan could appeal for physical or spiritual help. The "Protector-Spirits" included the souls of great shamans (_ĵigari_) and shamanesses (_abĵiya_). The "Guardian-Spirits" were made up of the souls of smaller shamans (_böge_) and shamanesses (_idugan_) and were associated with a specific locality (including mountains, rivers, etc.) in the clan's territory.[188]
 
@@ -259,7 +259,7 @@ In the 1990s, a form of Mongolian neo-shamanism was created which has given a mo
 
 Philippines
 
-An_Itneg_shaman_renewing_an_offering_to_the_spirit_shield_(1922,_Philippines).jpg renewing an offering to the spirit (_anito_) of a warrior's _kalasag_ shield]] Babaylan_Festival_in_Bago_City.jpg.]] Babaylans ((also balian or katalonan, among many other indigenous names) were shamans of the various ethnic groups of the pre-colonial Philippine islands. These shamans specialized in harnessing the unlimited powers of nature[192] and were almost always women or feminized men (_asog_ or _bayok_). They were believed to have spirit guides, by which they could contact and interact with the spirits and deities (_anito_ or _diwata_) and the spirit world. Their primary role were as mediums during _pag-anito_ séance rituals. There were also various subtypes of _babaylan_ specializing in the arts of healing and herbalism, divination, and sorcery.[193]
+renewing an offering to the spirit (_anito_) of a warrior's _kalasag_ shield]] .]] Babaylans ((also balian or katalonan, among many other indigenous names) were shamans of the various ethnic groups of the pre-colonial Philippine islands. These shamans specialized in harnessing the unlimited powers of nature[192] and were almost always women or feminized men (_asog_ or _bayok_). They were believed to have spirit guides, by which they could contact and interact with the spirits and deities (_anito_ or _diwata_) and the spirit world. Their primary role were as mediums during _pag-anito_ séance rituals. There were also various subtypes of _babaylan_ specializing in the arts of healing and herbalism, divination, and sorcery.[193]
 
 _Babaylan_ were highly respected members of the community, on par with the pre-colonial noble class.[194][195][196] In the absence of the datu (head of the domain), the babaylan takes in the role of interim head of the domain.[197]
 
@@ -269,7 +269,7 @@ Their influence waned when most of the ethnic groups of the Philippines were gra
 
 Siberia and North Asia
 
-AinuBearSacrificeCirca1870.jpg. Japanese scroll painting, circa 1870.]] Шаман_Ташоол_Бууевич_Кунга_-_обряд_приношения_жертвы_духам.jpg, 2014]] Chuonnasuan,_the_last_shaman_of_the_Oroqen,_in_July_1994_(Photo_by_Richard_Noll).jpg shaman, northern China]]
+. Japanese scroll painting, circa 1870.]] , 2014]] shaman, northern China]]
 
 Siberia is regarded as the _locus classicus_ of shamanism.[204] The area is inhabited by many different ethnic groups, and many of its peoples observe shamanistic practices, even in modern times. Many classical ethnographic sources of "shamanism" were recorded among Siberian peoples.
 
@@ -325,7 +325,7 @@ In Vietnam, shamans conduct rituals in many of the religious traditions that co-
 
 Europe
 
-Sami_shamanic_drum.JPG in the Arktikum Science Museum, in Rovaniemi, Finland]] Some of the prehistoric peoples who once lived in Siberia and other parts of Central and Eastern Asia have dispersed and migrated into other regions, bringing aspects of their cultures with them. For example, many Uralic peoples live now outside Siberia; however, the original location of the Proto-Uralic peoples (and its extent) is debated. Combined phytogeographical and linguistic considerations (distribution of various tree species and the presence of their names in various Uralic languages) suggest that this area was north of Central Ural Mountains and on lower and middle parts of Ob River.[225] Newer studies suggest and origin in Northeast Asia.[226] Proto-Uralic is suggested to be linked to the Chinese Liao civilization.[227] The ancestors of Hungarian people or Magyars have wandered from their ancestral proto-Uralic area to the Pannonian Basin. Shamanism has played an important role in Turko-Mongol mythology: Tengriism—the major ancient belief among Xiongnu, Mongol and Turkic peoples, Magyars and Bulgars—incorporates elements of shamanism.[228] Shamanism is no more a living practice among Hungarians, but remnants have been reserved as fragments of folklore, in folktales, customs.[229]
+in the Arktikum Science Museum, in Rovaniemi, Finland]] Some of the prehistoric peoples who once lived in Siberia and other parts of Central and Eastern Asia have dispersed and migrated into other regions, bringing aspects of their cultures with them. For example, many Uralic peoples live now outside Siberia; however, the original location of the Proto-Uralic peoples (and its extent) is debated. Combined phytogeographical and linguistic considerations (distribution of various tree species and the presence of their names in various Uralic languages) suggest that this area was north of Central Ural Mountains and on lower and middle parts of Ob River.[225] Newer studies suggest and origin in Northeast Asia.[226] Proto-Uralic is suggested to be linked to the Chinese Liao civilization.[227] The ancestors of Hungarian people or Magyars have wandered from their ancestral proto-Uralic area to the Pannonian Basin. Shamanism has played an important role in Turko-Mongol mythology: Tengriism—the major ancient belief among Xiongnu, Mongol and Turkic peoples, Magyars and Bulgars—incorporates elements of shamanism.[228] Shamanism is no more a living practice among Hungarians, but remnants have been reserved as fragments of folklore, in folktales, customs.[229]
 
 Some historians of the Late Middle Ages and Early Modern period have argued that traces of shamanistic traditions can be seen in the popular folk belief of this period. Most prominent among these was the Italian Carlo Ginzburg, who claimed shamanistic elements in the _benandanti_ custom of 16th-century Italy,[230] the Hungarian Éva Pócs, who identified them in the _táltos_ tradition of Hungary,[231] and the Frenchman Claude Lecouteux, who has argued that Medieval traditions regarding the soul are based on earlier shamanic ideas.[232] Ginzburg in particular has argued that some of these traditions influenced the conception of witchcraft in Christendom, in particular ideas regarding the witches' sabbath, leading to the events of the witch trials in the early modern period.[233] Some of these Italian traditions survived into the 20th and early 21st centuries, allowing Italian-American sociologist Sabina Magliocco to make a brief study of them (2009).[234]
 
@@ -333,7 +333,7 @@ Circumpolar shamanism
 
 Inuit and Yupik cultures
 
-Yupik_shaman_Nushagak.jpg shaman exorcising evil spirits from a sick boy, Nushagak, Alaska, 1890s[235]]] Eskimo groups inhabit a huge area stretching from eastern Siberia through Alaska and Northern Canada (including Labrador Peninsula) to Greenland. Shamanistic practice and beliefs have been recorded at several parts of this vast area crosscutting continental borders.[236][237][238]
+shaman exorcising evil spirits from a sick boy, Nushagak, Alaska, 1890s[235]]] Eskimo groups inhabit a huge area stretching from eastern Siberia through Alaska and Northern Canada (including Labrador Peninsula) to Greenland. Shamanistic practice and beliefs have been recorded at several parts of this vast area crosscutting continental borders.[236][237][238]
 
 When speaking of "shamanism" in various Eskimo groups, we must remember that (as mentioned above) the term "shamanism" can cover certain characteristics of _various_ different cultures.[239] Mediation is regarded often as an important aspect of shamanism in general.[240] Also in most Eskimo groups, the role of mediator is known well:[241] the person filling it in is actually believed to be able to contact the beings who populate the belief system. Term "shaman" is used in several English-language publications also in relation to Eskimos.[242][243][244][245] Also the _alignalghi_ () of the Asian Eskimos is translated as "shaman" in the Russian[246] and English[247] literature.
 
@@ -353,7 +353,7 @@ Americas
 
 North America
 
-White_indian_conjuror.jpg "conjuror" in a 1590 colonial engraving]] Native American and First Nations cultures have diverse religious beliefs and there was never one universal Native American religion or spiritual system. Although many Native American cultures have traditional healers, ritualists, singers, mystics, lore-keepers and medicine people, none of them ever used, or use, the term "shaman" to describe these religious leaders. Rather, like other indigenous cultures the world over, their spiritual functionaries are described by words in their own languages, and in many cases are not taught to outsiders.
+"conjuror" in a 1590 colonial engraving]] Native American and First Nations cultures have diverse religious beliefs and there was never one universal Native American religion or spiritual system. Although many Native American cultures have traditional healers, ritualists, singers, mystics, lore-keepers and medicine people, none of them ever used, or use, the term "shaman" to describe these religious leaders. Rather, like other indigenous cultures the world over, their spiritual functionaries are described by words in their own languages, and in many cases are not taught to outsiders.
 
 Many of these indigenous religions have been grossly misrepresented by outside observers and anthropologists, even to the extent of superficial or seriously mistaken anthropological accounts being taken as more authentic than the accounts of actual members of the cultures and religions in question. Often these accounts suffer from "noble savage"-type romanticism and racism. Some contribute to the fallacy that Native American cultures and religions are something that only existed in the past, and which can be mined for data despite the opinions of Native communities.[264]
 
@@ -365,7 +365,7 @@ Up until and during the last hundred years, thousands of Native American and Fir
 
 Mesoamerica
 
-Mayan_priest_performing_healing.jpg performing a healing ritual at Tikal]]
+performing a healing ritual at Tikal]]
 
 Maya
 
@@ -373,14 +373,14 @@ Aztec
 
 South America
 
-Body_of_Maroon_child_brought_before_medicine_man,_1955.jpg child brought before a medicine man, Suriname River, Suriname, South America]]
+child brought before a medicine man, Suriname River, Suriname, South America]]
 
 -   The Urarina of the Peruvian Amazon have an elaborate cosmological system predicated on the ritual consumption of ayahuasca, which is a key feature of their society.[268]
 -   Santo Daime and União do Vegetal ( abbreviated to UDV) are syncretic religions with which use an entheogen called ayahuasca in an attempt to connect with the spirit realm and receive divine guidance.[269]
 
 Amazonia
 
-Chaman_amazonie_5_06.jpg shaman in Ecuador Amazonian forest, 2006]] Urarina_shaman_B_Dean.jpg shaman, 1988]] In the Peruvian Amazon basin and north coastal regions of the country, the healers are known as curanderos. _Ayahuasqueros_ are Peruvians who specialize in the use of ayahuasca.[270] _Ayahuasqueros_ have become popular among Western spiritual seekers, who claim that the _ayauasqueros_ and their ayahuasca brews have cured them of everything from depression to addiction to cancer.[271]
+shaman in Ecuador Amazonian forest, 2006]] shaman, 1988]] In the Peruvian Amazon basin and north coastal regions of the country, the healers are known as curanderos. _Ayahuasqueros_ are Peruvians who specialize in the use of ayahuasca.[270] _Ayahuasqueros_ have become popular among Western spiritual seekers, who claim that the _ayauasqueros_ and their ayahuasca brews have cured them of everything from depression to addiction to cancer.[271]
 
 In addition to _curanderos_ use of ayahuasca and their ritualized ingestion of mescaline-bearing San Pedro cactuses (_Echinopsis pachanoi_) for the divination and diagnosis of sorcery, north-coastal shamans are famous throughout the region for their intricately complex and symbolically dense healing altars called mesas (tables).[272] Sharon (1993) has argued that the mesas symbolize the dualistic ideology underpinning the practice and experience of north-coastal shamanism.[273] For Sharon, the mesas are the, "physical embodiment of the supernatural opposition between benevolent and malevolent energies" (Dean 1998: 61).[274]
 
@@ -419,7 +419,7 @@ In Australia various aboriginal groups refer to their shamans as "clever men" an
 
 Africa
 
-Sangoma_performing_a_Baptism.jpg performing a traditional baptism on a baby in order to protect the spirit of the baby, Johannesburg, South Africa]]
+performing a traditional baptism on a baby in order to protect the spirit of the baby, Johannesburg, South Africa]]
 
 In Mali, Dogon sorcerers (both male and female) communicate with a spirit named Amma, who advises them on healing and divination practices.
 
@@ -442,7 +442,7 @@ Many spiritual seekers travel to Peru to work with _ayahuasqueros_, shamans who 
 
 Criticism of the term
 
-Shaman_tableau.png The anthropologist Alice Kehoe criticizes the term "shaman" in her book _Shamans and Religion: An Anthropological Exploration in Critical Thinking_. Part of this criticism involves the notion of cultural appropriation.[307] This includes criticism of New Age and modern Western forms of shamanism, which, according to Kehoe, misrepresent or dilute indigenous practices. Kehoe also believes that the term reinforces racist ideas such as the noble savage.
+The anthropologist Alice Kehoe criticizes the term "shaman" in her book _Shamans and Religion: An Anthropological Exploration in Critical Thinking_. Part of this criticism involves the notion of cultural appropriation.[307] This includes criticism of New Age and modern Western forms of shamanism, which, according to Kehoe, misrepresent or dilute indigenous practices. Kehoe also believes that the term reinforces racist ideas such as the noble savage.
 
 Kehoe is highly critical of Mircea Eliade's work on shamanism as an invention synthesized from various sources unsupported by more direct research. To Kehoe, citing that ritualistic practices (most notably drumming, trance, chanting, entheogens and hallucinogens, spirit communication and healing) as being definitive of shamanism is poor practice. Such citations ignore the fact that those practices exist outside of what is defined as shamanism and play similar roles even in non-shamanic cultures (such as the role of chanting in Judeo-Christian and Islamic rituals) and that in their expression are unique to each culture that uses them. Such practices cannot be generalized easily, accurately, or usefully into a global religion of shamanism. Because of this, Kehoe is also highly critical of the hypothesis that shamanism is an ancient, unchanged, and surviving religion from the Paleolithic period.[308]
 

@@ -61,7 +61,7 @@ The Congregation for the Doctrine of the Faith (CDF), previously known as the Su
 
 Congregation for the Oriental Churches
 
-Nazareth_Church_of_the_Annunciation.jpg ]]
+]]
 
 The Congregation for the Oriental Churches, established by Pope Benedict XV on 1 May 1917, is responsible for contact with the Eastern Catholic Churches for the sake of assisting their development, protecting their rights and also maintaining whole and entire in the one Catholic Church, alongside the liturgical, disciplinary and spiritual patrimony of the Latin Church, the heritage of the various Oriental Christian traditions. It has exclusive authority over the following regions: Egypt and the Sinai Peninsula, Eritrea and northern Ethiopia, southern Albania and Bulgaria, Cyprus, Greece, Israel, Iran, Iraq, Lebanon, Palestine, Syria, Jordan, Turkey, and Ukraine.[28] Its members include all Eastern Catholic patriarchs and major archbishops, as well as the President of the Pontifical Council for Promoting Christian Unity.[29] Cardinal Leonardo Sandri has served as its prefect since his appointment on 9 June 2007.
 
@@ -75,7 +75,7 @@ The Congregation for the Causes of Saints oversees the process that leads to the
 
 Congregation for the Evangelization of Peoples
 
-VasiPropagandaFide.jpg, the southwest facade seen here by Borromini: etching by Giuseppe Vasi, 1761[32]]] The Congregation for the Evangelization of Peoples is responsible for missionary work and related activities. It is perhaps better known by its former title, the Congregation for the Propagation of the Faith. Pope John Paul II renamed it in 1982 without altering its mission. Its prefect is Fernando Filoni, who has held the office since 2011.
+, the southwest facade seen here by Borromini: etching by Giuseppe Vasi, 1761[32]]] The Congregation for the Evangelization of Peoples is responsible for missionary work and related activities. It is perhaps better known by its former title, the Congregation for the Propagation of the Faith. Pope John Paul II renamed it in 1982 without altering its mission. Its prefect is Fernando Filoni, who has held the office since 2011.
 
 Congregation for the Clergy
 
@@ -105,7 +105,7 @@ The Congregation for Bishops[36] oversees the selection of new bishops that are 
 
 Tribunals
 
-B_Gregor_IX2.jpg excommunicating]]
+excommunicating]]
 
 Apostolic Penitentiary
 
@@ -184,7 +184,7 @@ Pontifical commissions
 
 Pontifical Commission for the Cultural Heritage of the Church
 
-Vatican-Le_Laocoon.jpg'' in the Vatican Museum, which was under the care of the Pontifical Commission for the Cultural Heritage of the Church]] The Pontifical Commission for the Cultural Heritage of the Church[61] was established in 1988 by Pope John Paul II, with the purpose of guarding the historical and artistic patrimony of the entire Church which included works of art, historical documents, books, everything kept in museums as well as the libraries and archives. On 30 July 2012, Pope Benedict XVI merged the Commission into the Pontifical Council for Culture.
+'' in the Vatican Museum, which was under the care of the Pontifical Commission for the Cultural Heritage of the Church]] The Pontifical Commission for the Cultural Heritage of the Church[61] was established in 1988 by Pope John Paul II, with the purpose of guarding the historical and artistic patrimony of the entire Church which included works of art, historical documents, books, everything kept in museums as well as the libraries and archives. On 30 July 2012, Pope Benedict XVI merged the Commission into the Pontifical Council for Culture.
 
 Pontifical Commission _Ecclesia Dei_
 
@@ -200,7 +200,7 @@ The Pontifical Commission for the Protection of Minors () was instituted by Pope
 
 Pontifical Commission for Sacred Archaeology
 
-Good_shepherd_02b_close.jpg under the care of the Pontifical Commission for Sacred Archeology]]
+under the care of the Pontifical Commission for Sacred Archeology]]
 
 The Pontifical Commission for Sacred Archaeology[66] was created by Pius IX on 6 January 1852 "to take care of the ancient sacred cemeteries, look after their preventive preservation, further explorations, research and study, and also safeguard the oldest mementos of the early Christian centuries, the outstanding monuments and venerable Basilicas in Rome, in the Roman suburbs and soil, and in the other Dioceses in agreement with the respective Ordinaries". Pius XI made the Commission pontifical and expanded its powers.[67]
 
@@ -229,8 +229,6 @@ Others exist for longer periods. The Standing Interdicasterial Commission for th
 
 
 Swiss Guard
-
-SwissGuardsatPrefettura.jpg
 
 Since 1506, the "Corps of the Pontifical Swiss Guard" or "Swiss Guard", a small armed force, has been responsible for the safety of the Pope, including the security of the Apostolic Palace and access to Vatican City. It originated as a military combat unit and quickly evolved into a police force with responsibility for border control. Its official language is Swiss German. , it consisted of 134 professional soldiers.[74]
 

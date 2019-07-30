@@ -1,4 +1,4 @@
-MRNA-interaction.png in the nucleus; once completely processed, it is transported to the cytoplasm and translated by the ribosome (shown in very pale grey behind the tRNA).]]
+in the nucleus; once completely processed, it is transported to the cytoplasm and translated by the ribosome (shown in very pale grey behind the tRNA).]]
 
 PROTEIN SYNTHESIS is the process whereby biological cells generate new proteins; it is balanced by the loss of cellular proteins via degradation or export. Translation, the assembly of amino acids by ribosomes, is an essential part of the biosynthetic pathway, along with generation of messenger RNA (mRNA), aminoacylation of transfer RNA (tRNA), co-translational transport, and post-translational modification. Protein biosynthesis is strictly regulated at multiple steps.[1] They are principally during transcription (phenomena of RNA synthesis from DNA template) and translation (phenomena of amino acid assembly from RNA).
 
@@ -11,7 +11,7 @@ Protein biosynthesis, although very similar, is different for prokaryotes and eu
 
 Transcription
 
-MRNA.svg In transcription an mRNA chain is generated, with one strand of the DNA double helix in the genome as a template. This strand is called the template strand. Transcription can be divided into 3 stages: initiation, elongation, and termination, each regulated by a large number of proteins such as transcription factors and coactivators that ensure that the correct gene is transcribed.
+In transcription an mRNA chain is generated, with one strand of the DNA double helix in the genome as a template. This strand is called the template strand. Transcription can be divided into 3 stages: initiation, elongation, and termination, each regulated by a large number of proteins such as transcription factors and coactivators that ensure that the correct gene is transcribed.
 
 Transcription occurs in the cell nucleus, where the DNA is held and is never able to leave. The DNA structure of the cell is made up of two helixes made up of sugar and phosphate held together by hydrogen bonds between the bases of opposite strands. The sugar and the phosphate in each strand are joined together by stronger phosphodiester covalent bonds. The DNA is "unzipped" (disruption of hydrogen bonds between different single strands) by the enzyme helicase, leaving the single nucleotide chain open to be copied. RNA polymerase reads the DNA strand from the 3-prime (3') end to the 5-prime (5') end, while it synthesizes a single strand of messenger RNA in the 5'-to-3' direction. The general RNA structure is very similar to the DNA structure, but in RNA the nucleotide uracil takes the place that thymine occupies in DNA. The single strand of mRNA leaves the nucleus through nuclear pores, and migrates into the cytoplasm.
 
@@ -19,8 +19,6 @@ The first product of transcription differs in prokaryotic cells from that of euk
 
 
 Translation
-
-Protein_synthesis.svg Ribosome_mRNA_translation_en.svg
 
 Phenomena of amino acid assembly from RNA. The synthesis of proteins from RNA is known as translation. In eukaryotes, translation occurs in the cytoplasm, where the ribosomes are located. Ribosomes are made of a small and large subunit that surround the mRNA. In translation, messenger RNA (mRNA) is decoded to produce a specific polypeptide according to the rules specified by the trinucleotide genetic code. This uses an mRNA sequence as a template to guide the synthesis of a chain of amino acids that form a protein. Translation proceeds in four phases: activation, initiation, elongation, and termination (all describing the growth of the amino acid chain, or polypeptide that is the product of translation).
 

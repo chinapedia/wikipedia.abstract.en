@@ -1,4 +1,4 @@
-Kwarastatedrummers.jpg drummers: One holds omele ako and batá, the other two hold dunduns.]] 2010Jul1-PercussionByVernBarber.JPG percussion section with timpani, unpitched auxiliary percussion and pitched tubular bells]] SoussousGuiembeBalafon.jpg and balafon played by Susu people of Guinea]] Latin_jazz_clave_percussion_sticks.jpgs (claves), and struck drums (conga drum)]] 20070727-beleuvenissen-gocoo-11.jpg percussion ensemble]] Terry_Bozzio_drums.jpg played by Terry Bozzio]] T_S_Nandakumar_self135.jpg played by T. S. Nandakumar]] Evelyn-glennie.jpg is a percussion soloist]]
+drummers: One holds omele ako and batá, the other two hold dunduns.]] percussion section with timpani, unpitched auxiliary percussion and pitched tubular bells]] and balafon played by Susu people of Guinea]] s (claves), and struck drums (conga drum)]] percussion ensemble]] played by Terry Bozzio]] played by T. S. Nandakumar]] is a percussion soloist]]
 
 A PERCUSSION INSTRUMENT is a musical instrument that is sounded by being struck or scraped by a beater (including attached or enclosed beaters or rattles); struck, scraped or rubbed by hand; or struck against another similar instrument. The percussion family is believed to include the oldest musical instruments, following the human voice.[1]
 
@@ -45,7 +45,7 @@ There are many instruments that have some claim to being percussion, but are cla
 -   Stringed instruments played with beaters such as the hammered dulcimer.
 -   Unpitched whistles and similar instruments, such as the pea whistle and Acme siren.
 
-Percussion_Beaters.jpg Percussion instruments are sometimes classified as "pitched" or "unpitched". While valid, this classification is widely seen as inadequate. Rather, it may be more informative to describe percussion instruments in regards to one or more of the following four paradigms:
+Percussion instruments are sometimes classified as "pitched" or "unpitched". While valid, this classification is widely seen as inadequate. Rather, it may be more informative to describe percussion instruments in regards to one or more of the following four paradigms:
 
 By methods of sound production
 
@@ -218,7 +218,7 @@ Unconventional
 -   Spokes on a bicycle wheel
 -   Tableware
 
-ImprovisedDrumLondon.jpg in Trafalgar Square, London.]] One pre-20th century example of found percussion is the use of cannon (usually loaded with blank charges) in Tchiakovsky's _1812 Overture_. John Cage, Harry Partch, Edgard Varèse, and Peter Schickele, all noted composers, created entire pieces of music using unconventional instruments. Beginning in the early 20th century—perhaps with _Ionisation_ by Edgard Varèse—which used air-raid sirens (among other things), composers began to require that percussionists invent or find objects to produce desired sounds and textures. Another example: the use of a hammer and saw in Penderecki's _De Natura Sonoris No. 2_. By the late 20th century, such instruments were common in modern percussion ensemble music and popular productions, such as the off-Broadway show, Stomp. Rock band Aerosmith used a number of unconventional instruments in their song Sweet Emotion, including shotguns, brooms, and a sugar bag. The metal band Slipknot is well known for playing unusual percussion items, having two percussionists in the band. Along with deep sounding drums, their sound includes hitting baseball bats and other objects on beer kegs to create a distinctive sound.
+in Trafalgar Square, London.]] One pre-20th century example of found percussion is the use of cannon (usually loaded with blank charges) in Tchiakovsky's _1812 Overture_. John Cage, Harry Partch, Edgard Varèse, and Peter Schickele, all noted composers, created entire pieces of music using unconventional instruments. Beginning in the early 20th century—perhaps with _Ionisation_ by Edgard Varèse—which used air-raid sirens (among other things), composers began to require that percussionists invent or find objects to produce desired sounds and textures. Another example: the use of a hammer and saw in Penderecki's _De Natura Sonoris No. 2_. By the late 20th century, such instruments were common in modern percussion ensemble music and popular productions, such as the off-Broadway show, Stomp. Rock band Aerosmith used a number of unconventional instruments in their song Sweet Emotion, including shotguns, brooms, and a sugar bag. The metal band Slipknot is well known for playing unusual percussion items, having two percussionists in the band. Along with deep sounding drums, their sound includes hitting baseball bats and other objects on beer kegs to create a distinctive sound.
 
 By cultural significance or tradition
 
@@ -226,7 +226,7 @@ It is not uncommon to discuss percussion instruments in relation to their cultur
 
 Folk percussion instruments
 
-2002-dmuseum-musik002-800.jpg Eastern_Zhou_Dynasty_Bronze_Bells.jpg, c. 6th century BC.]] Traditional_indonesian_instruments02.jpg orchestra, composed almost entirely of percussion instruments]]
+, c. 6th century BC.]] orchestra, composed almost entirely of percussion instruments]]
 
 -   Berimbau
 -   Bodhrán

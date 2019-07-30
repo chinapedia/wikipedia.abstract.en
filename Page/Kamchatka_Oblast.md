@@ -1,4 +1,4 @@
-RussiaKamchatka2007-01.png Flag_of_Kamchatka_Oblast.svg]] Coat_of_arms_of_Kamchatka_Oblast.svg]]
+]] ]]
 
 KAMCHATKA OBLAST (, _Kamchatskaya oblast_) was, until being incorporated into Kamchatka Krai on July 1, 2007, a federal subject of Russia (an oblast). To the north, it bordered Magadan Oblast and Chukotka Autonomous Okrug. Koryak Autonomous Okrug was located in the northern part of the oblast. Including the autonomous okrug, the total area of the oblast was , encompassing the southern half of the Kamchatka Peninsula. The administrative center of Kamchatka Oblast was the city of Petropavlovsk-Kamchatsky. Population:
 

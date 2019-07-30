@@ -28,8 +28,8 @@ The three primary instruments _Odyssey_ uses are the:
 
 Mission
 
-Odyssey_summary_br.jpg Animation_of_2001_Mars_Odyssey_trajectory_around_Mars.gif from 24 October 2001 to 24 October 2002
-{{·}}]] Mgs_odyssey.gif'']]
+from 24 October 2001 to 24 October 2002
+{{·}}]] '']]
 
 _Mars Odyssey_ launched from Cape Canaveral on April 7, 2001, and arrived at Mars about 200 days later on October 24. The spacecraft's main engine fired in order to decelerate, which allowed it to be captured into orbit around Mars. _Odyssey_ then spent about three months aerobraking, using friction from the upper reaches of the Martian atmosphere to gradually slow down and reduce and circularize its orbit. By using the atmosphere of Mars to slow the spacecraft in its orbit rather than firing its engine or thrusters, _Odyssey_ was able to save more than 200 kilograms (440 lb) of propellant. This reduction in spacecraft weight allowed the mission to be launched on a Delta II 7925 launch vehicle, rather than a larger, more expensive launcher.[13]
 
@@ -37,7 +37,7 @@ Aerobraking ended in January 2002, and Odyssey began its science mapping mission
 
 About 85% of images and other data from NASA's twin Mars Exploration Rovers, _Spirit_ and _Opportunity_, have reached Earth via communications relay by _Odyssey_. The orbiter helped analyze potential landing sites for the rovers and performed the same task for NASA's Phoenix mission, which landed on Mars in May 2008. _Odyssey_ aided NASA's _Mars Reconnaissance Orbiter_, which reached Mars in March 2006, by monitoring atmospheric conditions during months when the newly arrived orbiter used aerobraking to alter its orbit into the desired shape.[15]
 
-_Odyssey_ is in a Sun-synchronous orbit, which provides consistent lighting for its photographs. On September 30, 2008 (sol ) the spacecraft altered its orbit to gain better sensitivity for its infrared mapping of Martian minerals. The new orbit eliminated the use of the gamma ray detector, due to the potential for overheating the instrument at the new orbit. Mars_Radiation_Environment_Experiment.jpg The payload's MARIE radiation experiment stopped taking measurements after a large solar event bombarded the _Odyssey_ spacecraft on October 28, 2003. Engineers believe the most likely cause is that a computer chip was damaged by a solar particle smashing into the MARIE computer board.
+_Odyssey_ is in a Sun-synchronous orbit, which provides consistent lighting for its photographs. On September 30, 2008 (sol ) the spacecraft altered its orbit to gain better sensitivity for its infrared mapping of Martian minerals. The new orbit eliminated the use of the gamma ray detector, due to the potential for overheating the instrument at the new orbit. The payload's MARIE radiation experiment stopped taking measurements after a large solar event bombarded the _Odyssey_ spacecraft on October 28, 2003. Engineers believe the most likely cause is that a computer chip was damaged by a solar particle smashing into the MARIE computer board.
 
 The orbiter's orientation is controlled by a set of three reaction wheels and a spare. When one failed in June 2012, the fourth was spun up and successfully brought into service. Since July 2012, _Odyssey_ has been back in full, nominal operation mode following three weeks of 'safe' mode on remote maintenance.[16][17]
 

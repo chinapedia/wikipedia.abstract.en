@@ -5,7 +5,7 @@ The concept contrasts with Test and first-class matches, which can take up to fi
 
 Structure
 
-Members_area_and_view_of_ground.jpg]]
+]]
 
 Each team bats only once, and each innings is limited to a set number of overs, usually fifty in a One Day International and between forty and sixty in a List A. List A is a classification of the limited-overs (one-day) form of cricket, technically as the domestic level.
 
@@ -29,7 +29,7 @@ Twenty20, a curtailed form of one-day cricket with 20 overs per side, was first 
 
 One Day Internationals
 
-India_Vs_New_zealand_One_day_International,_10_December_2010_(6159936713).jpg hosts an ODI match between India and New Zealand in 2010. The New Zealand batsman is in black, and India in blue are the fielding team.]]
+hosts an ODI match between India and New Zealand in 2010. The New Zealand batsman is in black, and India in blue are the fielding team.]]
 
 One Day International matches are usually played in brightly coloured clothing often in a "day-night" format where the first innings of the day occurs in the afternoon and the second occurs under stadium lights.
 
@@ -68,7 +68,7 @@ The Association of Cricket Statisticians and Historians created this category fo
 
 Australia
 
-Queensland-v-Victoria-in-Brisbane-1.JPG versus Victorian Bushrangers in a one-day match at the Brisbane Cricket Ground (The Gabba), Queensland, Australia]] The JLT ONE DAY CUP is a 50 overs tournament held since 1969. The sides that compete are the following:
+versus Victorian Bushrangers in a one-day match at the Brisbane Cricket Ground (The Gabba), Queensland, Australia]] The JLT ONE DAY CUP is a 50 overs tournament held since 1969. The sides that compete are the following:
 
 -   New South Wales Blues, representing New South Wales
 -   Victorian Bushrangers, representing Victoria

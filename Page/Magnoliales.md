@@ -1,4 +1,4 @@
-Myristica_fragrans_trunk_W_IMG_2464.jpg'' tree from _Myristicaceae_ in Goa, India. ]]
+'' tree from _Myristicaceae_ in Goa, India. ]]
 
 The MAGNOLIALES comprise an order of flowering plants.
 

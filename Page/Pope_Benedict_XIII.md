@@ -39,9 +39,9 @@ In foreign relations, he struggled with both John V of Portugal and the Jansenis
 
 Beatifications and canonizations
 
-Benedict_XIII_on_horseback.jpg Benedict XIII beatified Bernardine of Feltre in 1728 and also beatified Peter Fourier on 20 January 1730. He also beatified Hyacintha of Mariscotti on 1 September 1726, Fidelis of Sigmaringen on 24 March 1729, Vincent de Paul on 13 August 1729 and John del Prado on 24 May 1728.
+Benedict XIII beatified Bernardine of Feltre in 1728 and also beatified Peter Fourier on 20 January 1730. He also beatified Hyacintha of Mariscotti on 1 September 1726, Fidelis of Sigmaringen on 24 March 1729, Vincent de Paul on 13 August 1729 and John del Prado on 24 May 1728.
 
-Through the process of equipollent canonization, Benedict XIII canonized Pope Gregory VII on 24 May 1728. He conferred sainthood upon Agnes of Montepulciano in 1726, Aloysius Gonzaga on 31 December 1726, Boris of Kiev in 1724, Francis Solano on 27 March 1726, Gleb in 1724, James of the Marches and Turibius of Mogroveio on 10 December 1726, John of Nepomuk on 19 March 1729, John of the Cross and Peregrine Laziosi on 27 December 1726, Margaret of Cortona on 16 May 1728 and Serapion of Algiers on 14 April 1728. PopebenedictXIII.jpg
+Through the process of equipollent canonization, Benedict XIII canonized Pope Gregory VII on 24 May 1728. He conferred sainthood upon Agnes of Montepulciano in 1726, Aloysius Gonzaga on 31 December 1726, Boris of Kiev in 1724, Francis Solano on 27 March 1726, Gleb in 1724, James of the Marches and Turibius of Mogroveio on 10 December 1726, John of Nepomuk on 19 March 1729, John of the Cross and Peregrine Laziosi on 27 December 1726, Margaret of Cortona on 16 May 1728 and Serapion of Algiers on 14 April 1728.
 
 Doctor of the Church
 
@@ -60,7 +60,7 @@ Death and burial
 
 Benedict XIII was suddenly attacked by a catarrh caused by his officiating at the funeral service of Cardinal Marco Antonio Ansidei, of which he died on 21 February 1730 at the age of 81. His death was made public to the people the next day.
 
-Tomb_of_Pope_Benedict_XIII.jpg The pope was of middling size; his countenance was mild, his nose aquiline and he had a broad forehead. At the autopsy, it was discovered that his heart was remarkably large. His funeral ceremonies were performed at the Vatican, whence he was removed to the Santa Maria sopra Minerva where he was buried in a tomb completed by Pietro Bracci and others.
+The pope was of middling size; his countenance was mild, his nose aquiline and he had a broad forehead. At the autopsy, it was discovered that his heart was remarkably large. His funeral ceremonies were performed at the Vatican, whence he was removed to the Santa Maria sopra Minerva where he was buried in a tomb completed by Pietro Bracci and others.
 
 After the next papal election elevated Pope Clement XII to the pontificate, Clement excommunicated Benedict XIII's corrupt deputy, Cardinal Coscia. Coscia fled Rome and his punishment, but was later restored and took part in the conclaves of 1730 and 1740.
 
@@ -74,9 +74,9 @@ Pope Benedict XIV would later say of Benedict XIII: "We respectfully love that p
 
 Cause of beatification
 
-Statue_of_Pope_Benedictus_XIII_-_San_Domenico_-_Palermo_-_Italy_2015.jpg.]] The process for his beatification was opened in Tortona in 1755 under Pope Benedict XIV but it did not at all advance and so was stalled. On 21 February 1931, also in Tortona, the process was revitalized but the presumed doubts about the morality of the late pontiff's Cardinal Secretary of State, Cardinal Niccolò Coscia, caused its closing in 1940.
+.]] The process for his beatification was opened in Tortona in 1755 under Pope Benedict XIV but it did not at all advance and so was stalled. On 21 February 1931, also in Tortona, the process was revitalized but the presumed doubts about the morality of the late pontiff's Cardinal Secretary of State, Cardinal Niccolò Coscia, caused its closing in 1940.
 
-The process was reopened on 17 January 2004. The official diocesan process commenced in Rome in early 2012 and the official opening of that process was held in the Basilica of Saint John Lateran, presided by Cardinal Agostino Vallini. The diocesan phase for the beatification process concluded on 24 February 2017 at the Basilica of Saint John Lateran with Cardinal Vallini celebrating the conclusion of the inquest.[12] He now has the posthumous title of Servant of God. Benedict_XIII_plaque,_Spanish_Steps.JPG
+The process was reopened on 17 January 2004. The official diocesan process commenced in Rome in early 2012 and the official opening of that process was held in the Basilica of Saint John Lateran, presided by Cardinal Agostino Vallini. The diocesan phase for the beatification process concluded on 24 February 2017 at the Basilica of Saint John Lateran with Cardinal Vallini celebrating the conclusion of the inquest.[12] He now has the posthumous title of Servant of God.
 
 The current postulator of the cause is the Dominican priest Francesco Maria Ricci.[13]
 

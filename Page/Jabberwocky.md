@@ -1,4 +1,4 @@
-Jabberwocky.jpg]] "JABBERWOCKY" is a nonsense poem written by Lewis Carroll about the killing of a creature named "the Jabberwock". It was included in his 1871 novel _Through the Looking-Glass, and What Alice Found There_, the sequel to _Alice's Adventures in Wonderland_. The book tells of Alice's adventures within the back-to-front world of Looking-Glass Land.
+]] "JABBERWOCKY" is a nonsense poem written by Lewis Carroll about the killing of a creature named "the Jabberwock". It was included in his 1871 novel _Through the Looking-Glass, and What Alice Found There_, the sequel to _Alice's Adventures in Wonderland_. The book tells of Alice's adventures within the back-to-front world of Looking-Glass Land.
 
 In an early scene in which she first encounters the chess piece characters White King and White Queen, Alice finds a book written in a seemingly unintelligible language. Realizing that she is travelling through an inverted world, she recognises that the verses on the pages are written in mirror-writing. She holds a mirror to one of the poems and reads the reflected verse of "Jabberwocky". She finds the nonsense verse as puzzling as the odd land she has passed into, later revealed as a dreamscape.[1]
 
@@ -7,7 +7,7 @@ In an early scene in which she first encounters the chess piece characters White
 
 Origin and publication
 
-Aliceroom2.jpg. Illustration by John Tenniel, 1871]] A decade before the publication of _Alice's Adventures in Wonderland_ and the sequel _Through the Looking-Glass_, Carroll wrote the first stanza to what would become "Jabberwocky" while in Croft on Tees, close to Darlington, where he lived as a child. It was printed in 1855 in _Mischmasch_, a periodical he wrote and illustrated for the amusement of his family. The piece was titled "Stanza of Anglo-Saxon Poetry" and read:
+. Illustration by John Tenniel, 1871]] A decade before the publication of _Alice's Adventures in Wonderland_ and the sequel _Through the Looking-Glass_, Carroll wrote the first stanza to what would become "Jabberwocky" while in Croft on Tees, close to Darlington, where he lived as a child. It was printed in 1855 in _Mischmasch_, a periodical he wrote and illustrated for the amusement of his family. The piece was titled "Stanza of Anglo-Saxon Poetry" and read:
 
   Twas bryllyg, and _y^(e)_ slythy toves Did gyre and gymble in _y^(e)_ wabe: All mimsy were _y^(e)_ borogoves; And _y^(e)_ mome raths outgrabe.
 
@@ -68,7 +68,7 @@ Possible interpretations of words
 
 Linguistics and poetics
 
-Humpty_Dumpty_Tenniel.jpg who explains to Alice the definitions of some of the words in "Jabberwocky". Illustration by John Tenniel, 1871]] Though the poem contains many nonsensical words, English syntax and poetic forms are observed, such as the quatrain verses, the general ABAB rhyme scheme and the iambic meter.[62] Linguist Peter Lucas believes the "nonsense" term is inaccurate. The poem relies on a distortion of sense rather than "non-sense", allowing the reader to infer meaning and therefore engage with narrative while lexical allusions swim under the surface of the poem.[63][64]
+who explains to Alice the definitions of some of the words in "Jabberwocky". Illustration by John Tenniel, 1871]] Though the poem contains many nonsensical words, English syntax and poetic forms are observed, such as the quatrain verses, the general ABAB rhyme scheme and the iambic meter.[62] Linguist Peter Lucas believes the "nonsense" term is inaccurate. The poem relies on a distortion of sense rather than "non-sense", allowing the reader to infer meaning and therefore engage with narrative while lexical allusions swim under the surface of the poem.[63][64]
 
 Marnie Parsons describes the work as a "semiotic catastrophe", arguing that the words create a discernible narrative within the structure of the poem, though the reader cannot know what they symbolise. She argues that Humpty tries, after the recitation, to "ground" the unruly multiplicities of meaning with definitions, but cannot succeed as both the book and the poem are playgrounds for the "carnivalised aspect of language". Parsons suggests that this is mirrored in the prosody of the poem: in the tussle between the tetrameter in the first three lines of each stanza and trimeter in the last lines, such that one undercuts the other and we are left off balance, like the poem's hero.[65]
 
@@ -77,7 +77,7 @@ Carroll wrote many poem parodies such as "Twinkle, twinkle little bat", "You Are
 
 Translations
 
-Jabberwocky_creatures.jpg illustration for the poem.]]
+illustration for the poem.]]
 
 History
 

@@ -1,5 +1,3 @@
-Palmyra_atoll_91.jpg Palmyra_Atoll_2010-03-18,_EO-1_ALI_bands_5-4-3-1,_15m_resolution.png Orthographic_projection_over_Palmyra_Atoll.png Strawn_Island_at_Palmyra_Atoll_NWR_(5123999194).jpg
-
 PALMYRA ATOLL () is one of the Northern Line Islands (southeast of Kingman Reef and north of Kiribati Line Islands), located almost due south of the Hawaiian Islands, roughly one-third of the way between Hawaii and American Samoa. The nearest continent is almost to the northeast. The atoll is , and it is located in the equatorial Northern Pacific Ocean. Its of coastline has one anchorage known as West Lagoon.
 
 Palmyra Atoll is an unoccupied equatorial Northern Pacific atoll administered as an unorganized incorporated territory, the only one of its kind, by the United States federal government. The territory hosts a variable temporary population of 4–25 "non-occupants", namely staff and scientists employed by various departments of the U.S. government and by The Nature Conservancy,[1] as well as a rotating mix of Palmyra Atoll Research Consortium[2] scholars pursuing research. Portions of the atoll are administered by the Department of the Interior's Office of Insular Affairs.[3] Palmyra Atoll is one of the islands in the U.S. Minor Outlying Islands.
@@ -47,8 +45,6 @@ History
 
 First discovery
 
-PalmyraSign.jpg PalmyraNorthBeach.jpg
-
 Palmyra was first sighted in 1798 by captain Edmund Fanning of Stonington, Connecticut, master of the American sealing ship _Betsy_, on a voyage to Asia, according to his published memoir 35 years later.[21] Fanning wrote that he had awakened three times during the night before, and after the third time took it as a premonition, ordering _Betsy_ to heave to for the rest of the night. The next morning, _Betsy_ resumed sailing, but only about a nautical mile further on, and he believed that he sighted the reef later known as Palmyra Island. Had the ship continued on her course at night, the ship might have been wrecked.[22] (Captain Fanning's claim to have discovered Palmyra itself has been challenged, on the view that he had only reached Kingman Reef away and could not possibly have seen Palmyra from that distance.[23] On page 3, the Baltimore newspaper _The Telegraphe and Daily Advertiser_ of July 29, 1803 appears to quote directly from Edmund Fanning’s journal with: "_We supposed that we saw land from the masthead to the southward of the shoal_ (Kingman Reef) _but it was so hazy we were not certain._" This would stand in sheer conflict with Fanning's book of 1833, in which he, while referring to Kingman Reef, wrote “_I went aloft, and with the aid of the glass could plainly see the land over it, far in the south._”[24]
 
 On November 7, 1802, the USS _Palmyra_ under Captain Cornelius Sawle was shipwrecked on the reef, which was given the name of this vessel. The remote atoll, lacking a navigable boat passage through the reef from the sea, had never been inhabited. No marae, basalt artifacts or evidence of Polynesian, Micronesian or other pre-European native settlements before 1802 have been found on Palmyra. Captain Sawle wrote:
@@ -65,7 +61,7 @@ After 43 days, the pirates' ship met a storm, lost course, and struck hard the c
 
 Before he died, he wrote letters describing the affair and the location of the treasure, which originally included 1.5 million Spanish pesos of gold and an equal value in silver (possibly consisting of precolumbian artworks). In around 1903, over 95 years later, the letters were allegedly deposited for safekeeping with Capt. William R. Foster, the harbormaster of Honolulu, by a sailor who was bound for the Solomon Islands but never returned. After holding the letters for 20 years in an iron chest, Capt. Foster revealed them to a reporter who published the details.[28] Palmyra landowner Henry E. Cooper was reported to have researched the matter. A conflicting variant of the story was published by Capt. F. D. Walker of Honolulu in 1903[29] and in 1914.[30] In 1997, William A. Warren filed a federal salvage claim for a ship sunk off the atoll which he claimed had treasure from the _Esperanza_, but he abandoned his claim after legal objection from the Fullard-Leos, who owned most of Palmyra.[31]
 
-The legend of the _Esperanza_ and _Santa Rosa_ (a ship rumored to have recovered the _Esperanza_ treasure and sailed back to Honolulu), inspired a story written by Jack London, called "_The Proud Goat of Aloysius Pankburn_", which was published as part of London's David Grief stories in the _Saturday Evening Post_.[32][33] Flag_of_Palmyra_Atoll_(1941-1947).svg The _Esperanza_ treasure figures in a 2010 work of fiction, _Palmyra – Isle of Death_ by Karl Boyd.[34]
+The legend of the _Esperanza_ and _Santa Rosa_ (a ship rumored to have recovered the _Esperanza_ treasure and sailed back to Honolulu), inspired a story written by Jack London, called "_The Proud Goat of Aloysius Pankburn_", which was published as part of London's David Grief stories in the _Saturday Evening Post_.[32][33] The _Esperanza_ treasure figures in a 2010 work of fiction, _Palmyra – Isle of Death_ by Karl Boyd.[34]
 
 American visits
 
@@ -125,8 +121,6 @@ After World War II, much of the Naval Air Station was demolished, with some of t
 
 U.S. Territory of Palmyra Island (1959–present)
 
-Palmyra_Atoll_NWR_aerial_FWS.jpg
-
 When Hawaii was admitted to the United States in 1959, Palmyra was explicitly separated from the new state,[61] remaining a federal incorporated territory, to be administered by the secretary of the interior[62] under a presidential executive order.[63]
 
 In 1962, the Department of Defense used Palmyra as an observation site during several high-altitude nuclear weapons tests high above Johnston Atoll. A group of about ten men supported the observation posts during this series of tests, while about 40 people carried out the observations.[64]
@@ -151,7 +145,7 @@ National Wildlife Refuge and National Monument
 
 In December 2000, The Nature Conservancy, Inc. bought most of Palmyra Atoll from the three Fullard-Leo brothers[73] for coral reef conservation and research. In 2003, a scientific study was published about fossilized coral that was washing up on Palmyra. This fossilized coral was examined for evidence of the behavior of the effect of El Niño on the tropical Pacific Ocean over the past 1,000 years.[74]
 
-Green_turtle_Palmyra_Atoll_National_Wildlife_Refuge.jpg at Palmyra Atoll National Wildlife Refuge]] Coral_reef_at_palmyra.jpg
+at Palmyra Atoll National Wildlife Refuge]]
 
 On January 18, 2001, Secretary of the Interior Gale Norton signed an order designating Palmyra's tidal lands, submerged lands and surrounding waters out to from the water's edge as a National Wildlife Refuge. Subsequently, the Department of the Interior published a regulation providing for the management of the refuge. 66 Fed. Reg. 7660-01 (January 24, 2001). The pertinent part of the regulation states as follows:
 

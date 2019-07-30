@@ -1,11 +1,11 @@
-Clocks_no_tic_tac.JPG ONOMATOPOEIA (;[1][2] from the Greek ὀνοματοποιία;[3] ὄνομα for "name"[4] and ποιέω for "I make",[5] adjectival form: "onomatopoeic" or "onomatopoetic", also ONOMATOPŒIA is the process of creating a word that phonetically imitates, resembles, or suggests the sound that it describes. As such words are uncountable nouns, _onomatopoeia_ refers to the property of such words. Common occurrences of words of the onomatopoeia process include animal noises such as "oink", "meow" (or "miaow"), "roar" and "chirp". Onomatopoeia can differ between languages: it conforms to some extent to the broader linguistic system;[6][7] hence the sound of a clock may be expressed as "tick tock" in English, "tic tac" in Spanish and Italian, "dī dā" in Mandarin, "katchin katchin" in Japanese, or "tik-tik" in Hindi.
+ONOMATOPOEIA (;[1][2] from the Greek ὀνοματοποιία;[3] ὄνομα for "name"[4] and ποιέω for "I make",[5] adjectival form: "onomatopoeic" or "onomatopoetic", also ONOMATOPŒIA is the process of creating a word that phonetically imitates, resembles, or suggests the sound that it describes. As such words are uncountable nouns, _onomatopoeia_ refers to the property of such words. Common occurrences of words of the onomatopoeia process include animal noises such as "oink", "meow" (or "miaow"), "roar" and "chirp". Onomatopoeia can differ between languages: it conforms to some extent to the broader linguistic system;[6][7] hence the sound of a clock may be expressed as "tick tock" in English, "tic tac" in Spanish and Italian, "dī dā" in Mandarin, "katchin katchin" in Japanese, or "tik-tik" in Hindi.
 
 Although in the English language the term ONOMATOPOEIA means 'the imitation of a sound', the compound word _onomatopoeia_ (ὀνοματοποιία) in the Greek language means 'making or creating names'. For words that imitate sounds, the term ὴχομιμητικό (echomimetico) or echomimetic) is used. The word ὴχομιμητικό (echomimetico) derives from "ὴχώ", meaning 'echo' or 'sound', and "μιμητικό", meaning 'mimetic' or 'imitating'.
 
 
 Uses
 
-Noveltyitems.JPG]]
+]]
 
 In the case of a frog croaking, the spelling may vary because different frog species around the world make different sounds: Ancient Greek _brekekekex koax koax_ (only in Aristophanes' comic play _The Frogs_) probably for marsh frogs; English _ribbit_ for species of frog found in North America; English verb _croak_ for the common frog.[8]
 
@@ -34,7 +34,7 @@ An onomatopoeic effect can also be produced in a phrase or word string with the 
 
 Comics and advertising
 
-CRAC_w.jpg Comic strips and comic books make extensive use of onomatopoeia. Popular culture historian Tim DeForest noted the impact of writer-artist Roy Crane (1901–1977), the creator of _Captain Easy_ and _Buz Sawyer_:
+Comic strips and comic books make extensive use of onomatopoeia. Popular culture historian Tim DeForest noted the impact of writer-artist Roy Crane (1901–1977), the creator of _Captain Easy_ and _Buz Sawyer_:
 
     It was Crane who pioneered the use of onomatopoeic sound effects in comics, adding "bam," "pow" and "wham" to what had previously been an almost entirely visual vocabulary. Crane had fun with this, tossing in an occasional "ker-splash" or "lickety-wop" along with what would become the more standard effects. Words as well as images became vehicles for carrying along his increasingly fast-paced storylines.[14]
 

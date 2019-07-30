@@ -1,5 +1,3 @@
-Two_surfers.jpg Recreation3.jpg
-
 RECREATION is an activity of leisure, leisure being discretionary time.[1] The "need to do something for recreation" is an essential element of human biology and psychology.[2] Recreational activities are often done for enjoyment, amusement, or pleasure and are considered to be "fun".
 
 
@@ -27,8 +25,6 @@ Recreation is an essential part of human life and finds many different forms whi
 
 Public space such as parks and beaches are essential venues for many recreational activities. Tourism has recognized that many visitors are specifically attracted by recreational offerings.[14] In support of recreational activities government has taken an important role in their creation, maintenance, and organization, and whole industries have developed merchandise or services. Recreation-related business is an important factor in the economy; it has been estimated that the outdoor recreation sector alone contributes $730 billion annually to the U.S. economy and generates 6.5 million jobs.[15]
 
-Tompkins_Square_Park_Central_Knoll.jpg
-
 
 Recreation center
 
@@ -37,7 +33,7 @@ A recreation center is a place for recreational activities usually administered 
 
 Organized recreation
 
-University_of_Auckland_Recreation_Centre.JPG Many recreational activities are organized, typically by public institutions, voluntary group-work agencies, private groups supported by membership fees, and commercial enterprises.[18] Examples of each of these are the National Park Service, the YMCA, the Kiwanis, and Walt Disney World.
+Many recreational activities are organized, typically by public institutions, voluntary group-work agencies, private groups supported by membership fees, and commercial enterprises.[18] Examples of each of these are the National Park Service, the YMCA, the Kiwanis, and Walt Disney World.
 
 
 Health and recreation

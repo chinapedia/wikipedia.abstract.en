@@ -11,7 +11,7 @@ For the entire period 1990–2006 estimated population loss tops 1.5 million. Bu
 
 Population evolution
 
-BirthDeath_1950_RO.svg in 1967 is the most prominent feature of these graphs.]] Sources give varied estimates for Romania's historical population. The National Institute for Research and Development in Informatics (NIRDI) gives the following numbers: Colors=
+in 1967 is the most prominent feature of these graphs.]] Sources give varied estimates for Romania's historical population. The National Institute for Research and Development in Informatics (NIRDI) gives the following numbers: Colors=
 
  id:lightgrey value:gray(0.9)
  id:darkgrey  value:gray(0.7)
@@ -91,7 +91,7 @@ TextData=
 
 Ethnic groups
 
-Romania_1930_ethnic_map_EN.png Romania_harta_etnica_1977.PNG RoCensus2002Inhab.png Romani_in_Romania_(2002).png Romania_detailed_ethnic_map.PNG RROMI_2011_JUD.png Slightly more than 10% of the population of Romania is formed of minorities of Romania. The principal minorities are Hungarians and Roma, although other smaller ethnic groups exist too. Before World War II, minorities represented more than 28% of the total population. During the war that percentage was halved, largely by the loss of the border areas of Bessarabia and northern Bukovina (to the former Soviet Union, now Moldova and Ukraine) and southern Dobrudja (to Bulgaria). Two-thirds of the ethnic German population either left or were deported after World War II, a period that was followed by decades of relatively regular (by communist standards) migration. During the interwar period in Romania, the total number of ethnic Germans amounted to as much as 786,000 (according to some sources and estimates dating to 1939),[7][8] a figure which had subsequently fallen to circa 36,000 as of 2011 in contemporary Romania. One of the reasons for which the number of Germans in Romania fell is because after the Romanian Revolution there has been a mass migration of Transylvania Saxons to Germany, in what was referred by British daily newspaper _Guardian_ to as 'the most astonishing, and little reported, ethnic migration in modern Europe'.[9]
+Slightly more than 10% of the population of Romania is formed of minorities of Romania. The principal minorities are Hungarians and Roma, although other smaller ethnic groups exist too. Before World War II, minorities represented more than 28% of the total population. During the war that percentage was halved, largely by the loss of the border areas of Bessarabia and northern Bukovina (to the former Soviet Union, now Moldova and Ukraine) and southern Dobrudja (to Bulgaria). Two-thirds of the ethnic German population either left or were deported after World War II, a period that was followed by decades of relatively regular (by communist standards) migration. During the interwar period in Romania, the total number of ethnic Germans amounted to as much as 786,000 (according to some sources and estimates dating to 1939),[7][8] a figure which had subsequently fallen to circa 36,000 as of 2011 in contemporary Romania. One of the reasons for which the number of Germans in Romania fell is because after the Romanian Revolution there has been a mass migration of Transylvania Saxons to Germany, in what was referred by British daily newspaper _Guardian_ to as 'the most astonishing, and little reported, ethnic migration in modern Europe'.[9]
 
 Of a total official population of over three quarter million Jews before World War II, more than half were killed during the Holocaust.[10] Mass emigration, mostly to Israel and United States, has reduced the surviving Jewish community to less than 6,000 in 2002 (it is estimated that the real numbers could be 3-4 times higher).[11]
 
@@ -474,7 +474,7 @@ Largest urban agglomerations
 
 Demographics statistics
 
-Evolutia_demografica_din_România.png Demographic statistics according to the World Population Review in 2019.[43]
+Demographic statistics according to the World Population Review in 2019.[43]
 
 -   One birth every 3 minutes
 -   One death every 2 minutes
@@ -488,8 +488,6 @@ Population
     21,457,116 (July 2018 est.)
 
 Age structure
-
-Romaniapop.svg
 
     _0-14 years:_ 14.31% (male 1,576,621 /female 1,493,082)
     _15-24 years:_ 10.45% (male 1,151,312 /female 1,091,956)
@@ -658,8 +656,6 @@ Foreign-born population (according to Eurostat):[52]
 
 
 Religion
-
-ROreligion.png Ortodocsi_Romania_(2002).png
 
 -   Romanian Orthodox — 86.7%
 -   Roman Catholic — 4.7%

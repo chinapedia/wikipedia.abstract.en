@@ -8,8 +8,6 @@ Born in Glen Ridge, New Jersey, Milford grew up in Winnetka, Illinois. His older
 
 Career
 
-Kim_Milford_1_Allan_Warren.jpg
-
 Acting
 
 Milford first appeared at the stock theatre in Chicago at age 10. Age 17 he was in the original stage version of _Hair_ on Broadway, playing Woof and Claude. In 1976 he was awarded the Faith and Freedom Award by the Religious Heritage of America for his portrayal of the Prodigal Son in ABC Directories series _Round Trip_. Milford later performed in the first concert tour of _Jesus Christ Superstar_ playing Jesus and Judas. He also appeared in the original American production of _The Rocky Horror Show_ as Rocky with the Los Angeles Roxy Cast and in the Broadway production. He reprised his role in the 1980 North American Tour production. He also appeared in the plays _Henry Sweet Henry_ (1967), _Your Own Thing_, _Rockabye Hamlet_ (1975–76, Laertes), _More Than You Deserve_, _Sunset_, and _All Bets Off_.

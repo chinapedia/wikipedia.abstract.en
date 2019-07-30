@@ -1,4 +1,4 @@
-Soyuz_rocket_ASTP.jpg, at Baikonur cosmodrome's Site 1/5 in Kazakhstan]]
+, at Baikonur cosmodrome's Site 1/5 in Kazakhstan]]
 
 A ROCKET (from Italian _rocchetto_ "bobbin"){{#tag:ref|English _rocket_, first attested in 1566 (OED), adopted from the Italian term, given due to the similarity in shape to the bobbin or spool used to hold the thread to be fed to a spinning wheel. The modern Italian term is _razzo_.|group=nb}}[1] is a missile, spacecraft, aircraft or other vehicle that obtains thrust from a rocket engine. Rocket engine exhaust is formed entirely from propellant carried within the rocket before use.[2] Rocket engines work by action and reaction and push rockets forward simply by expelling their exhaust in the opposite direction at high speed, and can therefore work in the vacuum of space.
 
@@ -17,15 +17,13 @@ Medieval and early modern rockets were used militarily as incendiary weapons in 
 
 In Europe, Konrad Kyeser described rockets in his military treatise _Bellifortis_ around 1405.[8]
 
-William_Congreve_at_Copenhagen_1807.jpg at the bombardment of Copenhagen (1807)]] The name "rocket" comes from the Italian _rocchetta_, meaning "bobbin" or "little spindle", given due to the similarity in shape to the bobbin or spool used to hold the thread to be fed to a spinning wheel. Leonhard Fronsperger and Conrad Haas adopted the Italian term into German in the mid-16th century; "rocket" appears in English by the early 17th century.[9] _Artis Magnae Artilleriae pars prima_, an important early modern work on rocket artillery, by Kazimierz Siemienowicz, was first printed in Amsterdam in 1650.
+at the bombardment of Copenhagen (1807)]] The name "rocket" comes from the Italian _rocchetta_, meaning "bobbin" or "little spindle", given due to the similarity in shape to the bobbin or spool used to hold the thread to be fed to a spinning wheel. Leonhard Fronsperger and Conrad Haas adopted the Italian term into German in the mid-16th century; "rocket" appears in English by the early 17th century.[9] _Artis Magnae Artilleriae pars prima_, an important early modern work on rocket artillery, by Kazimierz Siemienowicz, was first printed in Amsterdam in 1650.
 
 The Mysorean rockets were the first successful iron-cased rockets, developed in the late 18th century in the Kingdom of Mysore (part of present-day India) by Tipu Sultan.[10] The Congreve rocket was a British weapon designed and developed by Sir William Congreve in 1804. This rocket was based directly on the Mysorean rockets, used compressed powder and was fielded in the Napoleonic Wars. It was Congreve rockets that Francis Scott Key was referring to when he wrote of the "rockets' red glare" while held captive on a British ship that was laying siege to Fort McHenry in 1814.[11] Together, the Mysorean and British innovations increased the effective range of military rockets from 100 to 2,000 yards.
 
 The first mathematical treatment of the dynamics of rocket propulsion is due to William Moore (1813). In 1815 Alexander Dmitrievich Zasyadko constructed rocket-launching platforms, which allowed rockets to be fired in salvos (6 rockets at a time), and gun-laying devices. William Hale in 1844 greatly increased the accuracy of rocket artillery. Edward Mounier Boxer further improved the Congreve rocket in 1865.
 
 William Leitch first proposed the concept of using rockets to enable human spaceflight in 1861.[12] Konstantin Tsiolkovsky later (in 1903) also conceived this idea, and extensively developed a body of theory that has provided the foundation for subsequent spaceflight development. Robert Goddard in 1920 published proposed improvements to rocket technology in _A Method of Reaching Extreme Altitudes_. In 1923, Hermann Oberth (1894–1989) published _Die Rakete zu den Planetenräumen_ ("The Rocket into Planetary Space")
-
-Goddard_and_Rocket.jpg
 
 Modern rockets originated in 1926 when Goddard attached a supersonic (de Laval) nozzle to the combustion chamber of a liquid-propellant rocket. These nozzles turn the hot gas from the combustion chamber into a cooler, hypersonic, highly directed jet of gas, more than doubling the thrust and raising the engine efficiency from 2% to 64%. Use of liquid propellants instead of gunpowder greatly improved the effectiveness of rocket artillery in World War II, and opened up the possibility of human spaceflight after 1945.
 
@@ -38,7 +36,7 @@ Types
 
 Vehicle configurations
 
-Apollo_15_launch.ogv Saturn V rocket: _T_ − 30 s through _T_ + 40 s]] Rocket vehicles are often constructed in the archetypal tall thin "rocket" shape that takes off vertically, but there are actually many different types of rockets including:[13][14]
+Saturn V rocket: _T_ − 30 s through _T_ + 40 s]] Rocket vehicles are often constructed in the archetypal tall thin "rocket" shape that takes off vertically, but there are actually many different types of rockets including:[13][14]
 
 -   tiny models such as balloon rockets, water rockets, skyrockets or small solid rockets that can be purchased at a hobby store
 -   missiles
@@ -66,11 +64,11 @@ As well as these components, rockets can have any number of other components, su
 
 Engines
 
-Viking_5C_rocketengine.jpg Rocket engines employ the principle of jet propulsion.[21] The rocket engines powering rockets come in a great variety of different types; a comprehensive list can be found in rocket engine. Most current rockets are chemically powered rockets (usually internal combustion engines,[22] but some employ a decomposing monopropellant) that emit a hot exhaust gas. A rocket engine can use gas propellants, solid propellant, liquid propellant, or a hybrid mixture of both solid and liquid. Some rockets use heat or pressure that is supplied from a source other than the chemical reaction of propellant(s), such as steam rockets, solar thermal rockets, nuclear thermal rocket engines or simple pressurized rockets such as water rocket or cold gas thrusters. With combustive propellants a chemical reaction is initiated between the fuel and the oxidizer in the combustion chamber, and the resultant hot gases accelerate out of a rocket engine nozzle (or nozzles) at the rearward-facing end of the rocket. The acceleration of these gases through the engine exerts force ("thrust") on the combustion chamber and nozzle, propelling the vehicle (according to Newton's Third Law). This actually happens because the force (pressure times area) on the combustion chamber wall is unbalanced by the nozzle opening; this is not the case in any other direction. The shape of the nozzle also generates force by directing the exhaust gas along the axis of the rocket.[23]
+Rocket engines employ the principle of jet propulsion.[21] The rocket engines powering rockets come in a great variety of different types; a comprehensive list can be found in rocket engine. Most current rockets are chemically powered rockets (usually internal combustion engines,[22] but some employ a decomposing monopropellant) that emit a hot exhaust gas. A rocket engine can use gas propellants, solid propellant, liquid propellant, or a hybrid mixture of both solid and liquid. Some rockets use heat or pressure that is supplied from a source other than the chemical reaction of propellant(s), such as steam rockets, solar thermal rockets, nuclear thermal rocket engines or simple pressurized rockets such as water rocket or cold gas thrusters. With combustive propellants a chemical reaction is initiated between the fuel and the oxidizer in the combustion chamber, and the resultant hot gases accelerate out of a rocket engine nozzle (or nozzles) at the rearward-facing end of the rocket. The acceleration of these gases through the engine exerts force ("thrust") on the combustion chamber and nozzle, propelling the vehicle (according to Newton's Third Law). This actually happens because the force (pressure times area) on the combustion chamber wall is unbalanced by the nozzle opening; this is not the case in any other direction. The shape of the nozzle also generates force by directing the exhaust gas along the axis of the rocket.[23]
 
 Propellant
 
-Gas_Core_light_bulb.png Rocket propellant is mass that is stored, usually in some form of propellant tank or casing, prior to being used as the propulsive mass that is ejected from a rocket engine in the form of a fluid jet to produce thrust.[24] For chemical rockets often the propellants are a fuel such as liquid hydrogen or kerosene burned with an oxidizer such as liquid oxygen or nitric acid to produce large volumes of very hot gas. The oxidiser is either kept separate and mixed in the combustion chamber, or comes premixed, as with solid rockets.
+Rocket propellant is mass that is stored, usually in some form of propellant tank or casing, prior to being used as the propulsive mass that is ejected from a rocket engine in the form of a fluid jet to produce thrust.[24] For chemical rockets often the propellants are a fuel such as liquid hydrogen or kerosene burned with an oxidizer such as liquid oxygen or nitric acid to produce large volumes of very hot gas. The oxidiser is either kept separate and mixed in the combustion chamber, or comes premixed, as with solid rockets.
 
 Sometimes the propellant is not burned but still undergoes a chemical reaction, and can be a 'monopropellant' such as hydrazine, nitrous oxide or hydrogen peroxide that can be catalytically decomposed to hot gas.
 
@@ -87,13 +85,13 @@ However, they are also useful in other situations:
 
 Military
 
-Trident_II_missile_image.jpg launched from sea.]]
+launched from sea.]]
 
 Some military weapons use rockets to propel warheads to their targets. A rocket and its payload together are generally referred to as a _missile_ when the weapon has a guidance system (not all missiles use rocket engines, some use other engines such as jets) or as a _rocket_ if it is unguided. Anti-tank and anti-aircraft missiles use rocket engines to engage targets at high speed at a range of several miles, while intercontinental ballistic missiles can be used to deliver multiple nuclear warheads from thousands of miles, and anti-ballistic missiles try to stop them. Rockets have also been tested for reconnaissance, such as the Ping-Pong rocket, which was launched to surveil enemy targets, however, recon rockets have never come into wide use in the military.
 
 Science and research
 
-Bumper.jpg sounding rocket]] Sounding rockets are commonly used to carry instruments that take readings from to above the surface of the Earth.[27]
+sounding rocket]] Sounding rockets are commonly used to carry instruments that take readings from to above the surface of the Earth.[27]
 
 Rocket engines are also used to propel rocket sleds along a rail at extremely high speed. The world record for this is Mach 8.5.[28]
 
@@ -103,7 +101,7 @@ Larger rockets are normally launched from a launch pad that provides stable supp
 
 Rescue
 
-Apollo_Pad_Abort_Test_-2.jpg with boilerplate crew module.]] Rockets were used to propel a line to a stricken ship so that a Breeches buoy can be used to rescue those on board. Rockets are also used to launch emergency flares.
+with boilerplate crew module.]] Rockets were used to propel a line to a stricken ship so that a Breeches buoy can be used to rescue those on board. Rockets are also used to launch emergency flares.
 
 Some crewed rockets, notably the Saturn V[30] and Soyuz[31] have launch escape systems. This is a small, usually solid rocket that is capable of pulling the crewed capsule away from the main vehicle towards safety at a moments notice. These types of systems have been operated several times, both in testing and in flight, and operated correctly each time.
 
@@ -128,7 +126,7 @@ Corpulent Stump is the most powerful non-commercial rocket ever launched on an A
 
 Noise
 
-Sound_suppression_water_system_test_at_KSC_Launch_Pad_39A.jpg Rocket exhaust generates a significant amount of acoustic energy. As the supersonic exhaust collides with the ambient air, shock waves are formed. The sound intensity from these shock waves depends on the size of the rocket as well as the exhaust velocity. The sound intensity of large, high performance rockets could potentially kill at close range.[41]
+Rocket exhaust generates a significant amount of acoustic energy. As the supersonic exhaust collides with the ambient air, shock waves are formed. The sound intensity from these shock waves depends on the size of the rocket as well as the exhaust velocity. The sound intensity of large, high performance rockets could potentially kill at close range.[41]
 
 The Space Shuttle generated 180 dB of noise around its base.[42] To combat this, NASA developed a sound suppression system which can flow water at rates up to 900,000 gallons per minute (57 m³/s) onto the launch pad. The water reduces the noise level from 180 dB down to 142 dB (the design requirement is 145 dB).[43] Without the sound suppression system, acoustic waves would reflect off of the launch pad towards the rocket, vibrating the sensitive payload and crew. These acoustic waves can be so severe as to damage or destroy the rocket.
 
@@ -141,11 +139,9 @@ Physics
 
 Operation
 
-A_balloon_with_a_tapering_nozzle.png
-
 The effect of the combustion of propellant in the rocket engine is to increase the velocity of the resulting gases to very high speeds, hence producing a thrust. Initially, the gases of combustion are sent in every direction, but only those that produce a net thrust have any effect. The ideal direction of motion of the exhaust is in the direction so as to cause thrust. At the top end of the combustion chamber the hot, energetic gas fluid cannot move forward, and so, it pushes upward against the top of the rocket engine's combustion chamber. As the combustion gases approach the exit of the combustion chamber, they increase in speed. The effect of the convergent part of the rocket engine nozzle on the high pressure fluid of combustion gases, is to cause the gases to accelerate to high speed. The higher the speed of the gases, the lower the pressure of the gas (Bernoulli's principle or conservation of energy) acting on that part of the combustion chamber. In a properly designed engine, the flow will reach Mach 1 at the throat of the nozzle. At which point the speed of the flow increases. Beyond the throat of the nozzle, a bell shaped expansion part of the engine allows the gases that are expanding to push against that part of the rocket engine. Thus, the bell part of the nozzle gives additional thrust. Simply expressed, for every action there is an equal and opposite reaction, according to Newton's third law with the result that the exiting gases produce the reaction of a force on the rocket causing it to accelerate the rocket.[46]{{#tag:ref|The confusion is illustrated in http://science.howstuffworks.com/rocket.htm; “If you have ever seen a big fire hose spraying water, you may have noticed that it takes a lot of strength to hold the hose (sometimes you will see two or three firefighters holding the hose). The hose is acting like a rocket engine. The hose is throwing water in one direction, and the firefighters are using their strength and weight to counteract the reaction. If they were to let go of the hose, it would thrash around with tremendous force. If the firefighters were all standing on skateboards, the hose would propel them backward at great speed!”|group=nb}}
 
-Rocket_thrust.svg In a closed chamber, the pressures are equal in each direction and no acceleration occurs. If an opening is provided in the bottom of the chamber then the pressure is no longer acting on the missing section. This opening permits the exhaust to escape. The remaining pressures give a resultant thrust on the side opposite the opening, and these pressures are what push the rocket along.
+In a closed chamber, the pressures are equal in each direction and no acceleration occurs. If an opening is provided in the bottom of the chamber then the pressure is no longer acting on the missing section. This opening permits the exhaust to escape. The remaining pressures give a resultant thrust on the side opposite the opening, and these pressures are what push the rocket along.
 
 The shape of the nozzle is important. Consider a balloon propelled by air coming out of a tapering nozzle. In such a case the combination of air pressure and viscous friction is such that the nozzle does not push the balloon but is _pulled_ by it.[47] Using a convergent/divergent nozzle gives more force since the exhaust also presses on it as it expands outwards, roughly doubling the total force. If propellant gas is continuously added to the chamber then these pressures can be maintained for as long as propellant remains. Note that in the case of liquid propellant engines, the pumps moving the propellant into the combustion chamber must maintain a pressure larger than the combustion chamber – typically on the order of 100 atmospheres.[48]
 
@@ -153,7 +149,7 @@ As a side effect, these pressures on the rocket also act on the exhaust in the o
 
 Forces on a rocket in flight
 
-Rktfor.gif The general study of the forces on a rocket is part of the field of ballistics. Spacecraft are further studied in the subfield of astrodynamics.
+The general study of the forces on a rocket is part of the field of ballistics. Spacecraft are further studied in the subfield of astrodynamics.
 
 Flying rockets are primarily affected by the following:[51]
 
@@ -176,7 +172,7 @@ During a rocket launch, as the vehicle speed increases, and the atmosphere thins
 
 Net thrust
 
-Rocket_nozzle_expansion.svg varies based on external air pressure. From top to bottom: Underexpanded
+varies based on external air pressure. From top to bottom: Underexpanded
 Ideally Expanded
 Overexpanded
 Grossly overexpanded]]
@@ -233,7 +229,7 @@ Thus, the greater the specific impulse, the greater the net thrust and performan
 
 Delta-v (rocket equation)
 
-Delta-Vs_for_inner_Solar_System.svg's around the solar system between Earth and Mars[61][62]]]
+'s around the solar system between Earth and Mars[61][62]]]
 
 The delta-v capacity of a rocket is the theoretical total change in velocity that a rocket can achieve without any external interference (without air drag or gravity or other forces).
 
@@ -263,8 +259,6 @@ The ratio $\frac {m_0} {m_1}$ is sometimes called the _mass ratio_.
 
 Mass ratios
 
-Tsiolkovsky_rocket_equation.svg
-
 Almost all of a launch vehicle's mass consists of propellant.[64] Mass ratio is, for any 'burn', the ratio between the rocket's initial mass and its final mass.[65] Everything else being equal, a high mass ratio is desirable for good performance, since it indicates that the rocket is lightweight and hence performs better, for essentially the same reasons that low weight is desirable in sports cars.
 
 Rockets as a group have the highest thrust-to-weight ratio of any type of engine; and this helps vehicles achieve high mass ratios, which improves the performance of flights. The higher the ratio, the less engine mass is needed to be carried. This permits the carrying of even more propellant, enormously improving the delta-v. Alternatively, some rockets such as for rescue scenarios or racing carry relatively little propellant and payload and thus need only a lightweight structure and instead achieve high accelerations. For example, the Soyuz escape system can produce 20g.[66]
@@ -291,7 +285,7 @@ Some notable mass fractions are found in the following table (some aircraft are 
 
 Staging
 
-Artistsconcept_separation.jpg Ap6-68-HC-191.jpg while dropping the interstage ring]] Thus far, the required velocity (delta-v) to achieve orbit has been unattained by any single rocket because the propellant, tankage, structure, guidance, valves and engines and so on, take a particular minimum percentage of take-off mass that is too great for the propellant it carries to achieve that delta-v carrying reasonable payloads. Since Single-stage-to-orbit has so far not been achievable, orbital rockets always have more than one stage.
+while dropping the interstage ring]] Thus far, the required velocity (delta-v) to achieve orbit has been unattained by any single rocket because the propellant, tankage, structure, guidance, valves and engines and so on, take a particular minimum percentage of take-off mass that is too great for the propellant it carries to achieve that delta-v carrying reasonable payloads. Since Single-stage-to-orbit has so far not been achievable, orbital rockets always have more than one stage.
 
 For example, the first stage of the Saturn V, carrying the weight of the upper stages, was able to achieve a mass ratio of about 10, and achieved a specific impulse of 263 seconds. This gives a delta-v of around 5.9 km/s whereas around 9.4 km/s delta-v is needed to achieve orbit with all losses allowed for.
 
@@ -318,7 +312,7 @@ Energy
 
 Energy efficiency
 
-Atlantis_taking_off_on_STS-27.jpg Rocket launch vehicles take-off with a great deal of flames, noise and drama, and it might seem obvious that they are grievously inefficient. However, while they are far from perfect, their energy efficiency is not as bad as might be supposed.
+Rocket launch vehicles take-off with a great deal of flames, noise and drama, and it might seem obvious that they are grievously inefficient. However, while they are far from perfect, their energy efficiency is not as bad as might be supposed.
 
 The energy density of a typical rocket propellant is often around one-third that of conventional hydrocarbon fuels; the bulk of the mass is (often relatively inexpensive) oxidizer. Nevertheless, at take-off the rocket has a great deal of energy in the fuel and oxidizer stored within the vehicle. It is of course desirable that as much of the energy of the propellant end up as kinetic or potential energy of the body of the rocket as possible.
 
@@ -334,7 +328,7 @@ However, engine efficiency is not the whole story. In common with the other jet-
 
 However, as speeds rise, the resultant exhaust speed goes down, and the overall vehicle energetic efficiency rises, reaching a peak of around 100% of the engine efficiency when the vehicle is travelling exactly at the same speed that the exhaust is emitted. In this case the exhaust would ideally stop dead in space behind the moving vehicle, taking away zero energy, and from conservation of energy, all the energy would end up in the vehicle. The efficiency then drops off again at even higher speeds as the exhaust ends up traveling forwards – trailing behind the vehicle.
 
-Average_propulsive_efficiency_of_rockets.pngFrom these principles it can be shown that the propulsive efficiency η_(p) for a rocket moving at speed u with an exhaust velocity c is:
+From these principles it can be shown that the propulsive efficiency η_(p) for a rocket moving at speed u with an exhaust velocity c is:
 
 $$\eta_p= \frac {2 \frac {u} {c}} {1 + ( \frac {u} {c} )^2 }$$
 [88]
@@ -358,7 +352,7 @@ This fact is used in interplanetary travel. It means that the amount of delta-v 
 
 Safety, reliability and accidents
 
-Challenger_explosion.jpg was torn apart T+73 seconds after hot gases escaped the SRBs, causing the breakup of the Shuttle stack]] The reliability of rockets, as for all physical systems, is dependent on the quality of engineering design and construction.
+was torn apart T+73 seconds after hot gases escaped the SRBs, causing the breakup of the Shuttle stack]] The reliability of rockets, as for all physical systems, is dependent on the quality of engineering design and construction.
 
 Because of the enormous chemical energy in rocket propellants (greater energy by weight than explosives, but lower than gasoline), consequences of accidents can be severe. Most space missions have some problems.[89] In 1986, following the Space Shuttle Challenger disaster, American physicist Richard Feynman, having served on the Rogers Commission estimated that the chance of an unsafe condition for a launch of the Shuttle was very roughly 1%;[90] more recently the historical per person-flight risk in orbital spaceflight has been calculated to be around 2%[91] or 4%.[92]
 

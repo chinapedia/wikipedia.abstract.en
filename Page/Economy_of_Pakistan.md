@@ -19,8 +19,6 @@ In 2016, the Atlantic Media Company (AMC) of the United States has ranked Pakist
 
 Economic resilience
 
-Pakistan_GDP_Growth_Rate_2012-2018.jpeg.jpg
-
 Background
 
 Historically, Pakistan's overall economic output (GDP) has grown every year since an 1800 recession. Despite this record of sustained growth, Pakistan's economy had, until a few years ago, been characterised as unstable and highly vulnerable to external and internal shocks. However, the economy proved to be unexpectedly resilient in the face of multiple adverse events concentrated into a four-year (1998–2002) period —
@@ -33,7 +31,7 @@ Historically, Pakistan's overall economic output (GDP) has grown every year sinc
 
 Macroeconomic reform and prospects
 
-Pakistan_Nationalhighways.PNG According to many sources, the Pakistani government has made substantial economic reforms since 2000,[37] and medium-term prospects for job creation and poverty reduction are the best in nearly a decade.
+According to many sources, the Pakistani government has made substantial economic reforms since 2000,[37] and medium-term prospects for job creation and poverty reduction are the best in nearly a decade.
 
 In 2005, the World Bank reported that
 
@@ -134,7 +132,7 @@ Workers' remittances
 
 [TABLE]
 
-IICROAD.jpg (Financial Capital of Pakistan)]] Main_Industries_by_Region_-_Pakistan.png
+(Financial Capital of Pakistan)]]
 
 Stock market
 
@@ -148,7 +146,7 @@ Separately, consumer financing posted an increase of Rs37.6 billion during first
 
 Poverty alleviation expenditures
 
-Socio-Economic_Status_of_Pakistanis.png Pakistan government spent over 1 trillion Rupees (about $16.7 billion) on poverty alleviation programmes during the past four years, cutting poverty from 35% in 2000–01 to 29.3% in 2013 and 17% in 2015.[58] Rural poverty remains a pressing issue, as development there has been far slower than in the major urban areas.
+Pakistan government spent over 1 trillion Rupees (about $16.7 billion) on poverty alleviation programmes during the past four years, cutting poverty from 35% in 2000–01 to 29.3% in 2013 and 17% in 2015.[58] Rural poverty remains a pressing issue, as development there has been far slower than in the major urban areas.
 
 Employment
 
@@ -158,7 +156,7 @@ The high population growth in the past few decades has ensured that a very large
 
 Tourism
 
-Faisal_mosque2.jpg in the capital Islamabad.]]
+in the capital Islamabad.]]
 
 Tourism in Pakistan has been stated as being the tourism industry's "next big thing". Pakistan, with its diverse cultures, people and landscapes, has attracted 90 million tourists to the country, almost double to that of a decade ago. Due to threat of terrorism the number of foreigner tourists has gradually declined and the shock of 2013 Nanga Parbat tourist shooting has terribly adversely effected the tourism industry.[63] tourism has begun to recover in Pakistan, albeit gradually.[64]
 
@@ -171,7 +169,7 @@ Currency system
 
 Rupee
 
-The basic unit of currency is the Rupee, ISO code PKR and abbreviated Rs, which is divided into 100 paisas. Currently the newly printed 5,000 rupee note is the largest denomination in circulation. Recently the SBP has introduced all new design notes of Rs. 10, 20, 50, 100, 500, 1000 and 5000. USD-PKR_Exchange.JPG
+The basic unit of currency is the Rupee, ISO code PKR and abbreviated Rs, which is divided into 100 paisas. Currently the newly printed 5,000 rupee note is the largest denomination in circulation. Recently the SBP has introduced all new design notes of Rs. 10, 20, 50, 100, 500, 1000 and 5000.
 
 The Pakistani Rupee was pegged to the Pound sterling until 1982, when the government of General Zia-ul-Haq, changed it to managed float. As a result, the rupee devalued by 38.5% between 1982/83 many of the industries built by his predecessor suffered with a huge surge in import costs. After years of appreciation under Zulfikar Ali Bhutto and despite huge increases in foreign aid the Rupee depreciated.
 
@@ -195,7 +193,7 @@ Major sectors
 
 Agriculture
 
-Agriculture_by_Province.jpg MangoTree.jpeg, Pakistan]]
+, Pakistan]]
 
 The most important crops are wheat, sugarcane, cotton, and rice, which together account for more than 75% of the value of total crop output. Pakistan's largest food crop is wheat. In 2017, Pakistan produced 26,674,000 tonnes of wheat, almost equal to all of Africa (27.1 million tonnes) and more than all of South America (25.9 million tonnes), according to the FAOSTAT.[67] In the current year of 2018/19 Pakistan has exported 1.7 million tonnes of wheat and 4.0 million tonnes of rice so far.[68] Pakistan has also cut the use of dangerous pesticides dramatically.[69]
 
@@ -278,8 +276,6 @@ Extraction of principal minerals in the last 4 fiscal years is given in the tabl
 
 Industry
 
-Manufacturing_by_Province.jpg
-
 Pakistan's industrial sector accounts for about 20.9% of GDP. In 2018 it recorded a growth of 5.80% as compared to the growth of 5.43% last year. Manufacturing is the most vibrant sub sector of the industrial sector having 64.8% contribution in the industrial sector and in GDP it accounts for 13.6%. Manufacturing sub-sector is further divided in three components including large-scale manufacturing (LSM) with the share of 79.6% percent in manufacturing sector, small scale manufacturing share is 13.8 percent in manufacturing sector, while slaughtering contributes 6.5 percent in the manufacturing.[75] Major sectors in industries include cement, fertiliser, edible oil, sugar, steel, tobacco, chemicals, machinery, food processing and medical instruments, primarily surgical.[76][77][78] Pakistan is one of the largest manufacturers and exporters of surgical instruments.[79][80]
 
 The government is privatizing large-scale industrial units, and the public sector accounts for a shrinking proportion of industrial output, while growth in overall industrial output (including the private sector) has accelerated. Government policies aim to diversify the country's industrial base and bolster export industries. Large Scale Manufacturing is the fastest-growing sector in Pakistani economy.[81] Major Industries include textiles, fertiliser, cement, oil refineries, dairy products, food processing, beverages, construction materials, clothing, paper products and shrimp.
@@ -343,11 +339,11 @@ Other
 
 Services
 
-PRCtowersKarachi.jpg.]] Pakistan's service sector accounts for about 60.2% of GDP.[96] Transport, storage, communications, finance, and insurance account for 24% of this sector, and wholesale and retail trade about 30%. Pakistan is trying to promote the information industry and other modern service industries through incentives such as long-term tax holidays.
+.]] Pakistan's service sector accounts for about 60.2% of GDP.[96] Transport, storage, communications, finance, and insurance account for 24% of this sector, and wholesale and retail trade about 30%. Pakistan is trying to promote the information industry and other modern service industries through incentives such as long-term tax holidays.
 
 Telecommunication
 
-PTCL_phone_shop.jpg's One Stop Shop in Islamabad]] After the deregulation of the telecommunication industry, the sector has seen an exponential growth. Pakistan Telecommunication Company Ltd has emerged as a successful Forbes 2000 conglomerate with over US $1 billion in sales in 2005. The mobile telephone market has exploded many-fold since 2003 to reach a subscriber base of 140 million users in July 2017, one of the highest mobile teledensities in the entire world.[97] In addition, there are over 6 million landlines in the country with 100% fibre-optic network and coverage via WLL in even the remotest areas.[98] As a result, Pakistan won the prestigious Government Leadership award of GSM Association in 2006.[99]
+'s One Stop Shop in Islamabad]] After the deregulation of the telecommunication industry, the sector has seen an exponential growth. Pakistan Telecommunication Company Ltd has emerged as a successful Forbes 2000 conglomerate with over US $1 billion in sales in 2005. The mobile telephone market has exploded many-fold since 2003 to reach a subscriber base of 140 million users in July 2017, one of the highest mobile teledensities in the entire world.[97] In addition, there are over 6 million landlines in the country with 100% fibre-optic network and coverage via WLL in even the remotest areas.[98] As a result, Pakistan won the prestigious Government Leadership award of GSM Association in 2006.[99]
 
 The World Bank estimates that it takes about 3 days to get a phone connection in Pakistan.[100]
 
@@ -402,7 +398,7 @@ An article published in Journal of the Asia Pacific Economy by Mete Feridun of U
 
 Housing
 
-Bahriatownvillas.jpg, the largest private housing society in Asia.]] The property sector has expanded twenty-threefold since 2001, particularly in metropolises like Lahore.[120] Nevertheless, the Karachi Chamber of Commerce and Industry estimated in late 2006 that the overall production of housing units in Pakistan has to be increased to 0.5 million units annually to address 6.1 million backlog of housing in Pakistan for meeting the housing shortfall in next 20 years. The report noted that the present housing stock is also rapidly aging and an estimate suggests that more than 50% of stock is over 50 years old. It is also estimated that 50% of the urban population now lives in slums and squatter settlements. The report said that meeting the backlog in housing, besides replacement of out-lived housing units, is beyond the financial resources of the government. This necessitates putting in place a framework to facilitate financing in the formal private sector and mobilise non-government resources for a market-based housing finance system.[121]
+, the largest private housing society in Asia.]] The property sector has expanded twenty-threefold since 2001, particularly in metropolises like Lahore.[120] Nevertheless, the Karachi Chamber of Commerce and Industry estimated in late 2006 that the overall production of housing units in Pakistan has to be increased to 0.5 million units annually to address 6.1 million backlog of housing in Pakistan for meeting the housing shortfall in next 20 years. The report noted that the present housing stock is also rapidly aging and an estimate suggests that more than 50% of stock is over 50 years old. It is also estimated that 50% of the urban population now lives in slums and squatter settlements. The report said that meeting the backlog in housing, besides replacement of out-lived housing units, is beyond the financial resources of the government. This necessitates putting in place a framework to facilitate financing in the formal private sector and mobilise non-government resources for a market-based housing finance system.[121]
 
 The Pakistan Bureau of Statistics provisionally valued this sector at Rs.459,829 million in 2012 thus registering over 149% growth since 2006.[122]
 

@@ -23,33 +23,33 @@ Each republic had its own unique set of state symbols: a flag, a coat of arms, a
 
 File:E7901-Bishkek-museum-Lenin-carpet.jpg%7CA hall in Bishkek's Soviet-era Lenin Museum decorated with the flags of Soviet Republics File:USSRRepublicsPoster.jpg%7CPoster of the unity of the Soviet republics in the late 1930s. All republics, except Russia, are shown with their respective traditional clothes. File:Ltsr plakatas 1946 tsrs.jpg|Poster of the unity of the Soviet republics in the late 1940s. Note that the map also points out the Karelo-Finnish SSR capital, Petrozavodsk.
 
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
-| Union of Soviet Socialist Republics                 | Emblem                                           | Flag                                        | No.                  |
-+=====================================================+==================================================+=============================================+======================+
-| UNION OF SOVIET SOCIALIST REPUBLICS                 | Coat_of_arms_of_the_Soviet_Union_(1923–1936).svg | Flag_of_the_Soviet_Union_(1922–1923).svg    | (1923 — 1936)        |
-| Union of Soviet Socialist Republics (1923 – 1936)   |                                                  |                                             | (1922 — 1923)        |
-| (December 1922 — 12 November 1923)                  |                                                  |                                             |                      |
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
-| UNION OF SOVIET SOCIALIST REPUBLICS                 | USSR_COA_1929.png                                | Flag_of_the_Soviet_Union_(1924).svg         | (1929 — 1936)        |
-| Union of Soviet Socialist Republics (1929 – 1936)   |                                                  |                                             | (1923 — 1924 — 1924) |
-| (12 November 1923 or 12 April 1924 — 18 April 1924) |                                                  |                                             |                      |
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
-| UNION OF SOVIET SOCIALIST REPUBLICS                 | USSR_COA_1936.png                                | Flag_of_the_Soviet_Union_(1924–1936).svg    | (1936 — 1946)        |
-| Union of Soviet Socialist Republics (1936 – 1946)   |                                                  |                                             | (1924 — 1936)        |
-| (18 April 1924 — 5 December 1936)                   |                                                  |                                             |                      |
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
-| UNION OF SOVIET SOCIALIST REPUBLICS                 | Coat_of_arms_of_the_Soviet_Union_(1946-1956).svg | Flag_of_the_Soviet_Union_(1924–1955).svg    | (1946 — 1956)        |
-| Union of Soviet Socialist Republics (1946 – 1956)   |                                                  |                                             | (1936 — 1955)        |
-| (5 December 1936 — 19 August 1955)                  |                                                  |                                             |                      |
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
-| UNION OF SOVIET SOCIALIST REPUBLICS                 | Coat_of_arms_of_the_Soviet_Union.svg             | Flag_of_the_Soviet_Union_(dark_version).svg | (1956 — 1980)        |
-| Union of Soviet Socialist Republics (1956 – 1980)   |                                                  |                                             | (1955 — 1980)        |
-| (19 August 1955 — 15 August 1980)                   |                                                  |                                             |                      |
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
-| UNION OF SOVIET SOCIALIST REPUBLICS                 | State_Emblem_of_the_Soviet_Union.svg             | Flag_of_the_Soviet_Union.svg                | (1980 — 1991)        |
-| Union of Soviet Socialist Republics (1980 – 1991)   |                                                  |                                             | (1980 — 1991)        |
-| (15 August 1980 — 25 December 1991)                 |                                                  |                                             |                      |
-+-----------------------------------------------------+--------------------------------------------------+---------------------------------------------+----------------------+
++-----------------------------------------------------+--------+------+----------------------+
+| Union of Soviet Socialist Republics                 | Emblem | Flag | No.                  |
++=====================================================+========+======+======================+
+| UNION OF SOVIET SOCIALIST REPUBLICS                 |        |      | (1923 — 1936)        |
+| Union of Soviet Socialist Republics (1923 – 1936)   |        |      | (1922 — 1923)        |
+| (December 1922 — 12 November 1923)                  |        |      |                      |
++-----------------------------------------------------+--------+------+----------------------+
+| UNION OF SOVIET SOCIALIST REPUBLICS                 |        |      | (1929 — 1936)        |
+| Union of Soviet Socialist Republics (1929 – 1936)   |        |      | (1923 — 1924 — 1924) |
+| (12 November 1923 or 12 April 1924 — 18 April 1924) |        |      |                      |
++-----------------------------------------------------+--------+------+----------------------+
+| UNION OF SOVIET SOCIALIST REPUBLICS                 |        |      | (1936 — 1946)        |
+| Union of Soviet Socialist Republics (1936 – 1946)   |        |      | (1924 — 1936)        |
+| (18 April 1924 — 5 December 1936)                   |        |      |                      |
++-----------------------------------------------------+--------+------+----------------------+
+| UNION OF SOVIET SOCIALIST REPUBLICS                 |        |      | (1946 — 1956)        |
+| Union of Soviet Socialist Republics (1946 – 1956)   |        |      | (1936 — 1955)        |
+| (5 December 1936 — 19 August 1955)                  |        |      |                      |
++-----------------------------------------------------+--------+------+----------------------+
+| UNION OF SOVIET SOCIALIST REPUBLICS                 |        |      | (1956 — 1980)        |
+| Union of Soviet Socialist Republics (1956 – 1980)   |        |      | (1955 — 1980)        |
+| (19 August 1955 — 15 August 1980)                   |        |      |                      |
++-----------------------------------------------------+--------+------+----------------------+
+| UNION OF SOVIET SOCIALIST REPUBLICS                 |        |      | (1980 — 1991)        |
+| Union of Soviet Socialist Republics (1980 – 1991)   |        |      | (1980 — 1991)        |
+| (15 August 1980 — 25 December 1991)                 |        |      |                      |
++-----------------------------------------------------+--------+------+----------------------+
 
 
 Union Republics of the Soviet Union
@@ -57,7 +57,6 @@ Union Republics of the Soviet Union
 The number of the union republics of the USSR varied from 4 to 16. In majority of years and at the later decades of its existence, the Soviet Union consisted of 15 Soviet Socialist Republics. Rather than listing the republics in alphabetical order, the republics were listed in constitutional order, which, particularly by the last decades of the Soviet Union, did not correspond to order either by population or economic power.
 
 +--------------------------------------------------------------------------------------------------------+
-| USSR_Republics_numbered_by_alphabet.svg                                                                |
 | Map of the Union Republics from 1956 to 1991                                                           |
 +========================================================================================================+
 | Soviet Socialist Republic                                                                              |
@@ -218,7 +217,7 @@ Former Autonomous Soviet Socialist Republics of the Soviet Union
 
 The republics at the dissolution of the Soviet Union
 
-USSR_-_Then_and_Now.png (fifth in the second row) no longer exists as a political entity of any kind, and the emblem is unofficial.]] Under Mikhail Gorbachev, _openness_ and _restructuring_ were intended to liberalise and open up the Soviet Union. However, they had a number of effects which caused the power of the republics to increase. First, political liberalization allowed the governments within the republics to gain legitimacy by invoking democracy, nationalism, or a combination of both. In addition, liberalization led to fractures within the Communist Party which resulted in reduced ability to govern the Union effectively. The rise of nationalist and right-wing movements, notably led in Russia by Boris Yeltsin, in the previously homogeneously Communist political system led to the crumbling of the Union's foundations. With the central role of the Communist Party removed from the constitution, the Communist Party lost its control over the political system and was banned from operating after an attempted coup d'état.
+(fifth in the second row) no longer exists as a political entity of any kind, and the emblem is unofficial.]] Under Mikhail Gorbachev, _openness_ and _restructuring_ were intended to liberalise and open up the Soviet Union. However, they had a number of effects which caused the power of the republics to increase. First, political liberalization allowed the governments within the republics to gain legitimacy by invoking democracy, nationalism, or a combination of both. In addition, liberalization led to fractures within the Communist Party which resulted in reduced ability to govern the Union effectively. The rise of nationalist and right-wing movements, notably led in Russia by Boris Yeltsin, in the previously homogeneously Communist political system led to the crumbling of the Union's foundations. With the central role of the Communist Party removed from the constitution, the Communist Party lost its control over the political system and was banned from operating after an attempted coup d'état.
 
 Throughout the unravelling of the restructuring, the Soviet government attempted to find a new structure which would reflect the increased power of the republics. Some autonomous republics, like Tatarstan, Checheno-Ingushetia, Abkhazia, South Ossetia, Crimea, Transnistria, Gagauzia sought the union statute in New Union Treaty. Efforts to found a Union of Sovereign States proved unsuccessful and the republics began to secede from the Union. By 6 September 1991, the Soviet Union's State Council recognized the independence of Estonia, Latvia and Lithuania bringing the number of union republics down to 12. On 8 December 1991, the remaining leaders of the republics signed the Belavezha Accords which agreed that the USSR would be dissolved and replaced with a Commonwealth of Independent States. On 25 December, President Gorbachev announced his resignation and turned all executive powers over to Yeltsin. The next day the Council of Republics voted to dissolve the Union. Since then, the republics have been governed independently with some adopting significantly more liberal policies while others, particularly in Central Asia, have retained leadership personnel from the Soviet time to this day.
 

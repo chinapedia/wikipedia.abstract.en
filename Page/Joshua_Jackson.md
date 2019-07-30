@@ -44,7 +44,7 @@ Filmography
 
 Film
 
-Joshua_Jackson_at_the_premiere_of_Bobby,_Toronto_Film_Festival_2006.jpg'', Toronto International Film Festival, 2006]]
+'', Toronto International Film Festival, 2006]]
 
   Year   Title                       Role                    Notes
   ------ --------------------------- ----------------------- -----------------------------------------

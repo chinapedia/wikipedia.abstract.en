@@ -32,7 +32,7 @@ Player models
 
 Philips models
 
-CD-i-910-Console-Set.jpg Philips-CDi-400-Console-Set.jpg In addition to consumer models, professional and development players were sold by Philips Interactive Media Systems and their VARs. Philips marketed several CD-i player models.
+In addition to consumer models, professional and development players were sold by Philips Interactive Media Systems and their VARs. Philips marketed several CD-i player models.
 
 -   The CD-I PLAYER 200 SERIES, which includes the 205, 210, and 220 models. Models in the 200 series are designed for general consumption, and were available at major home electronics outlets around the world. The Philips CD-i 910 is the American version of the CD-i 205, the most basic model in the series and the first Philips CD-i model (1991).
 -   The CD-I PLAYER 300 SERIES, which includes the 310, 350, 360, and 370 models. The 300 series consists of portable players designed for the professional market and not marketed to home consumers. A popular use was multimedia sales presentations such as those used by pharmaceutical companies to provide product information to physicians, as the devices could be easily transported by sales representatives.
@@ -59,8 +59,6 @@ In 1995 Philips introduced CD-Online, a service which provided the CD-i with ful
 
 
 Technical specifications
-
-Philips-CD-i-Paddle-Controller.jpg CDi_Mouse_Picture_2.jpg
 
 
 Reception

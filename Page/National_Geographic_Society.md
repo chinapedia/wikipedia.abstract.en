@@ -3,7 +3,7 @@ The NATIONAL GEOGRAPHIC SOCIETY (NGS), headquartered in Washington, D.C., United
 
 Overview
 
-Dancer_of_the_Cafes_NGM-v31-p269.jpg, 1917 photograph from _National Geographic Magazine_]] The National Geographic Society was founded in 1888 "to increase and diffuse geographic knowledge". It is governed by a board of trustees, whose 21 members include distinguished educators, business executives, former government officials and conservationists. The organization sponsors and funds scientific research and exploration. National Geographic maintains a museum for the public in its Washington, D.C., headquarters.
+, 1917 photograph from _National Geographic Magazine_]] The National Geographic Society was founded in 1888 "to increase and diffuse geographic knowledge". It is governed by a board of trustees, whose 21 members include distinguished educators, business executives, former government officials and conservationists. The organization sponsors and funds scientific research and exploration. National Geographic maintains a museum for the public in its Washington, D.C., headquarters.
 
 It has helped to sponsor popular traveling exhibits, such as the early 2010s _King Tut_ exhibit featuring artifacts from the tomb of the young Egyptian Pharaoh; _The Cultural Treasures of Afghanistan_ which opened in May 2008 and traveled to other cities for 18 months; and an exhibition of China's Terracotta Warriors in its Washington headquarters in 2009–10. Its Education Foundation gives grants to education organizations and individuals to improve geography education.[1] Its Committee for Research and Exploration has awarded more than 11,000 grants for scientific research and exploration.
 
@@ -14,7 +14,7 @@ The Society's media arm is National Geographic Partners, a joint venture between
 
 History
 
-Natgeo_old.png The National Geographic Society began as a club for an elite group of academics and wealthy patrons interested in travel and exploration.[3] On January 13, 1888, 33 explorers and scientists gathered at the Cosmos Club, a private club then located on Lafayette Square in Washington, D.C., to organize "a society for the increase and diffusion of geographical knowledge." After preparing a constitution and a plan of organization, the National Geographic Society was incorporated two weeks later on January 27. Gardiner Greene Hubbard became its first president and his son-in-law, Alexander Graham Bell, succeeded him in 1897.[4]
+The National Geographic Society began as a club for an elite group of academics and wealthy patrons interested in travel and exploration.[3] On January 13, 1888, 33 explorers and scientists gathered at the Cosmos Club, a private club then located on Lafayette Square in Washington, D.C., to organize "a society for the increase and diffusion of geographical knowledge." After preparing a constitution and a plan of organization, the National Geographic Society was incorporated two weeks later on January 27. Gardiner Greene Hubbard became its first president and his son-in-law, Alexander Graham Bell, succeeded him in 1897.[4]
 
 In 1899, Bell's son-in-law Gilbert Hovey Grosvenor was named the first full-time editor of National Geographic magazine and served the organization for fifty-five years (until 1954), and members of the Grosvenor family have played important roles in the organization since. Bell and Gilbert Hovey Grosvenor devised the successful marketing notion of Society membership and the first major use of photographs to tell stories in magazines.
 
@@ -31,7 +31,7 @@ Activities
 
 Support for research and projects
 
-National_Geographic_Society_Administration_Building.JPG]]
+]]
 
 The Society has helped sponsor many expeditions and research projects over the years, including:
 
@@ -68,7 +68,7 @@ Awards
 
 Hubbard Medal
 
-Hubbard_Gold_Medal,_Anne_Morrow_Lindbergh.JPG's customized medal detailing her flight route]] The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, the first National Geographic Society president. The Hubbard Medal has been presented 44 times , the most recent award going to Peter H. Raven.
+'s customized medal detailing her flight route]] The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, the first National Geographic Society president. The Hubbard Medal has been presented 44 times , the most recent award going to Peter H. Raven.
 
 Alexander Graham Bell Medal
 
@@ -93,7 +93,7 @@ Publications
 
 _National Geographic_
 
-1915NatGeog.jpg _The National Geographic Magazine_, later shortened to _National Geographic_, published its first issue in October 1888, nine months after the Society was founded, as the Society's official journal, a benefit for joining the tax-exempt National Geographic Society. Starting with the February 1910 (Vol XXI, No. 2) issue, the magazine began using its now famous trademarked yellow border around the edge of its covers.
+_The National Geographic Magazine_, later shortened to _National Geographic_, published its first issue in October 1888, nine months after the Society was founded, as the Society's official journal, a benefit for joining the tax-exempt National Geographic Society. Starting with the February 1910 (Vol XXI, No. 2) issue, the magazine began using its now famous trademarked yellow border around the edge of its covers.
 
 There are 12 monthly issues of _National Geographic_ per year. The magazine contains articles about geography, popular science, world history, culture, current events and photography of places and things all over the world and universe. _National Geographic_ magazine is currently published in 40 local-language editions in many countries around the world. Combined English and other language circulation is around 6.8 million monthly, with some 60 million readers.
 

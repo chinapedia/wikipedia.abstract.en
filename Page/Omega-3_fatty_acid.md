@@ -5,7 +5,7 @@ Mammals are unable to synthesize the essential omega−3 fatty acid ALA and can 
 
 Nomenclature
 
-ALAnumbering.svg on carbons numbered 9, 12, and 15). Note that the highest locant is assigned to the terminal methyl group as carbon 18, while the double bond closest to the end begins at carbon 15 = 18−3. Hence, ALA is a _n−_3 fatty acid with _n_ = 18. This classification scheme is useful since most chemical changes occur at the carboxyl end of the molecule, while the methyl group and its nearest double bond are unchanged in most chemical or enzymatic reactions.]]The terms _ω–3 ("omega–3") fatty acid_ and _n–3_ _fatty acid_ are derived from organic nomenclature.[12] One way in which a fatty acid is named is determined by the location of the first double bond, counted from the methyl end, that is, the omega (ω-) or the _n_- end (see illustration). In general terminology using either _n–x_ or ω–_x_, the dash is a minus sign (although it is never read as such), and the number _n–x_ (or ω–_x_) refers to the locant of the double bond linking two carbon atoms.[13] Thus, in omega_–_3 fatty acids in particular, there is a double bond located on the carbon numbered 3 lower than the highest carbon number. By example, α-linolenic acid (ALA; illustration) is an 18-carbon chain having three double bonds, the first being located at the third carbon from the methyl end of the fatty acid chain at carbon 15. α-Linolenic acid is polyunsaturated (containing more than one double bond) and is also described by a lipid number, 18:3, meaning that there are 18 carbon atoms and 3 double bonds (at carbons 9, 12, and 15).[14]
+on carbons numbered 9, 12, and 15). Note that the highest locant is assigned to the terminal methyl group as carbon 18, while the double bond closest to the end begins at carbon 15 = 18−3. Hence, ALA is a _n−_3 fatty acid with _n_ = 18. This classification scheme is useful since most chemical changes occur at the carboxyl end of the molecule, while the methyl group and its nearest double bond are unchanged in most chemical or enzymatic reactions.]]The terms _ω–3 ("omega–3") fatty acid_ and _n–3_ _fatty acid_ are derived from organic nomenclature.[12] One way in which a fatty acid is named is determined by the location of the first double bond, counted from the methyl end, that is, the omega (ω-) or the _n_- end (see illustration). In general terminology using either _n–x_ or ω–_x_, the dash is a minus sign (although it is never read as such), and the number _n–x_ (or ω–_x_) refers to the locant of the double bond linking two carbon atoms.[13] Thus, in omega_–_3 fatty acids in particular, there is a double bond located on the carbon numbered 3 lower than the highest carbon number. By example, α-linolenic acid (ALA; illustration) is an 18-carbon chain having three double bonds, the first being located at the third carbon from the methyl end of the fatty acid chain at carbon 15. α-Linolenic acid is polyunsaturated (containing more than one double bond) and is also described by a lipid number, 18:3, meaning that there are 18 carbon atoms and 3 double bonds (at carbons 9, 12, and 15).[14]
 
 Although _n_ and ω (omega) are synonymous, the IUPAC recommends that _n_ be used to identify the highest carbon number of a fatty acid.[15] Nevertheless, the more common name – omega_–_3 fatty acid – is used in both the lay media and scientific literature.
 
@@ -71,7 +71,7 @@ As of 2015, there was no evidence that taking omega−3 supplements can prevent 
 
 Chemistry
 
-EPAnumbering.png (EPA)]] DHAnumbering.png (DHA)]]
+(EPA)]] (DHA)]]
 
 An omega−3 fatty acid is a fatty acid with multiple double bonds, where the first double bond is between the third and fourth carbon atoms from the end of the carbon atom chain. "Short chain" omega−3 fatty acids have a chain of 18 carbon atoms or less, while "long chain" omega−3 fatty acids have a chain of 20 or more.
 
@@ -219,8 +219,6 @@ The most widely available dietary source of EPA and DHA is oily fish, such as sa
 
 Fish oil
 
-Lachsölkapsel.jpg
-
 Marine and freshwater fish oil vary in content of arachidonic acid, EPA and DHA.[157] They also differ in their effects on organ lipids.[158]
 
 Not all forms of fish oil may be equally digestible. Of four studies that compare bioavailability of the glyceryl ester form of fish oil vs. the ethyl ester form, two have concluded the natural glyceryl ester form is better, and the other two studies did not find a significant difference. No studies have shown the ethyl ester form to be superior, although it is cheaper to manufacture.[159][160]
@@ -231,7 +229,7 @@ Krill oil is a source of omega−3 fatty acids.[161] The effect of krill oil, at
 
 Plant sources
 
-Semillas_de_Chía.jpg is grown commercially for its seeds rich in ALA.]] Flax_seeds.jpg seeds contain linseed oil which has high ALA content]]
+is grown commercially for its seeds rich in ALA.]] seeds contain linseed oil which has high ALA content]]
 
 TABLE 1. ALA content as the percentage of the seed oil.[166]
 

@@ -14,7 +14,7 @@ During his business career, Lynch served as Director of Admissions at Harvard Bu
 
 Governor of New Hampshire
 
-US_Navy_110729-N-ZZ999-070_New_Hampshire_Governor_John_Lynch_poses_with_a_New_Hampshire_state_flag_presented_by_Sailors_assigned_to_USS_New_Hampshi.jpg presented by Sailors assigned to the submarine USS New Hampshire (SSN-778), 29 July 2011]]
+presented by Sailors assigned to the submarine USS New Hampshire (SSN-778), 29 July 2011]]
 
 Electoral history
 
@@ -48,7 +48,7 @@ NEW HAMPSHIRE GUBERNATORIAL ELECTION (General Election)
 
 Tenure
 
-Governor_John_Lynch_in_Milford,_NH_Labor_Day_parade_(234381454).jpg parade, September 2006]]
+parade, September 2006]]
 
 Taxes
 
@@ -64,7 +64,7 @@ Lynch worked with the state Attorney General, police chiefs, and lawmakers to pa
 
 Death penalty
 
-Lynch upheld the death penalty while in office, stating "there are crimes so heinous that the death penalty is warranted."[48] The New Hampshire House of Representatives passed legislation in March 2009 to abolish the death penalty, which Lynch threatened to veto. Due to the veto threat, the Senate tabled the legislation in April of that year.[49] In June, Lynch compromised with legislators and signed legislation to form the New Hampshire Commission to Study the Death Penalty.[50][51][52]Governor_John_Lynch.jpg in 2008]] In December 2010, the Commission recommended, by a 12 to 10 vote, to retain the death penalty. However, the panel unanimously recommended against expanding it.[53][54] In 2011, Lynch signed legislation to expand the death penalty to include home invasions.[55]
+Lynch upheld the death penalty while in office, stating "there are crimes so heinous that the death penalty is warranted."[48] The New Hampshire House of Representatives passed legislation in March 2009 to abolish the death penalty, which Lynch threatened to veto. Due to the veto threat, the Senate tabled the legislation in April of that year.[49] In June, Lynch compromised with legislators and signed legislation to form the New Hampshire Commission to Study the Death Penalty.[50][51][52] in 2008]] In December 2010, the Commission recommended, by a 12 to 10 vote, to retain the death penalty. However, the panel unanimously recommended against expanding it.[53][54] In 2011, Lynch signed legislation to expand the death penalty to include home invasions.[55]
 
 Natural disaster response
 
@@ -91,7 +91,7 @@ Lynch endorsed former Vice President Joe Biden in the 2020 United States preside
 
 Personal life
 
-Gov._John_Lynch_&_Dr._Susan_Lynch_(2617230826).jpg Lynch and his wife, Dr. Susan Lynch, a pediatrician and childhood obesity activist, reside in an home atop Gould Hill in Hopkinton, New Hampshire. The multi-million dollar home offers a tennis court, cabana, and swimming pool among other amenities, and views extending to Mount Washington.[70] The Lynches have three children.
+Lynch and his wife, Dr. Susan Lynch, a pediatrician and childhood obesity activist, reside in an home atop Gould Hill in Hopkinton, New Hampshire. The multi-million dollar home offers a tennis court, cabana, and swimming pool among other amenities, and views extending to Mount Washington.[70] The Lynches have three children.
 
 
 References

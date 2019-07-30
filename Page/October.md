@@ -1,13 +1,13 @@
-Oct}} Maplefall2red.jpg OCTOBER is the tenth month of the year in the Julian and Gregorian Calendars and the sixth of seven months to have a length of 31 days. The eighth month in the old calendar of Romulus , October retained its name (from the Latin _ôctō_ meaning "eight") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Ƿinterfylleþ, because at this full moon (_fylleþ_) winter was supposed to begin.[1]
+Oct}} OCTOBER is the tenth month of the year in the Julian and Gregorian Calendars and the sixth of seven months to have a length of 31 days. The eighth month in the old calendar of Romulus , October retained its name (from the Latin _ôctō_ meaning "eight") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Ƿinterfylleþ, because at this full moon (_fylleþ_) winter was supposed to begin.[1]
 
 October is commonly associated with the season of autumn in the Northern hemisphere and with spring in the Southern hemisphere.
 
 
 October symbols
 
-Calendula_January_2008-1_filtered.jpg]]
+]]
 
--   Opal_Armband_800pix.jpg armband. Opal is the birthstone for October.]]Tourmaline_cut.JPG]]October's birthstones are the tourmaline and opal.[2]
+-   armband. Opal is the birthstone for October.]]]]October's birthstones are the tourmaline and opal.[2]
 -   Its birth flower is the calendula.[3]
 -   The zodiac signs for this month are Libra (until October 22) and Scorpio (from October 23).
 
@@ -231,7 +231,7 @@ Last Monday: October 28
 
 Fixed observances
 
-Les_Très_Riches_Heures_du_duc_de_Berry_octobre.jpg'']] Halloween_Derry_2005.jpg decorated for Halloween]] Pumpkins-2009.jpg pumpkins]]
+'']] decorated for Halloween]] pumpkins]]
 
 -   October 1
     -   Armed Forces Day (South Korea)

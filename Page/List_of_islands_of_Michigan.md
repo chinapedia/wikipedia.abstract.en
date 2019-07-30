@@ -5,7 +5,7 @@ The largest of all the islands is Isle Royale in Lake Superior, which, in additi
 
 Lake Erie
 
-Lake-Erie.svg]] Only Monroe County has territory in the westernmost portion of Lake Erie, which has a surface elevation of . The islands in the southern portion of the county are part of the North Maumee Bay Archeological District of the Detroit River International Wildlife Refuge. Turtle Island is the only island in the state of Michigan that is shared by another state. This remote and tiny island is cut in half and shared with Ohio.
+]] Only Monroe County has territory in the westernmost portion of Lake Erie, which has a surface elevation of . The islands in the southern portion of the county are part of the North Maumee Bay Archeological District of the Detroit River International Wildlife Refuge. Turtle Island is the only island in the state of Michigan that is shared by another state. This remote and tiny island is cut in half and shared with Ohio.
 
 +---------------+------------------------+--------+-------------+-----+
 | Island        | Municipality           | County | Coordinates |     |
@@ -22,14 +22,14 @@ Lake-Erie.svg]] Only Monroe County has territory in the westernmost portion of L
 
 Lake Huron
 
-Lake-Huron.svg]] Lake Huron is the second largest of the Great Lakes (after Lake Superior) with a surface area of . Michigan is the only U.S. state to border Lake Huron, while the portion of the lake on the other side of the international border belongs to the Canadian province of Ontario. The vast majority of Michigan's islands in Lake Huron are centered around Drummond Island in the northernmost portion of the state's lake territory. Drummond Island is the largest of Michigan's islands in Lake Huron and is the second largest Michigan island after Lake Superior's Isle Royale. Another large group of islands is the Les Cheneaux Islands archipelago, which itself contains dozens of small islands. Many of the lake's islands are very small and uninhabited.
+]] Lake Huron is the second largest of the Great Lakes (after Lake Superior) with a surface area of . Michigan is the only U.S. state to border Lake Huron, while the portion of the lake on the other side of the international border belongs to the Canadian province of Ontario. The vast majority of Michigan's islands in Lake Huron are centered around Drummond Island in the northernmost portion of the state's lake territory. Drummond Island is the largest of Michigan's islands in Lake Huron and is the second largest Michigan island after Lake Superior's Isle Royale. Another large group of islands is the Les Cheneaux Islands archipelago, which itself contains dozens of small islands. Many of the lake's islands are very small and uninhabited.
 
 As the most popular tourist destination in the state, Mackinac Island is the most well known of Lake Huron's islands. Drummond Island is the most populous of Michigan's islands in Lake Huron, with a population of 992 at the 2000 census. While Mackinac Island had a population of only 553, there are thousands more seasonal workers and tourists during the summer months.
 
 
 Lake Michigan
 
-Lake-Michigan.svg]] Michigan only has islands in Lake Michigan in the northern portion of the lake. There are no islands in the southern half of Lake Michigan. The largest and most populated of Michigan's islands in Lake Michigan is Beaver Island at and 551 residents. Some of the smaller islands surrounding Beaver Island are part of the larger Michigan Islands National Wildlife Refuge.
+]] Michigan only has islands in Lake Michigan in the northern portion of the lake. There are no islands in the southern half of Lake Michigan. The largest and most populated of Michigan's islands in Lake Michigan is Beaver Island at and 551 residents. Some of the smaller islands surrounding Beaver Island are part of the larger Michigan Islands National Wildlife Refuge.
 
 +----------------------+------------------------+----------------+-------------+--+
 | Island               | Municipality           | County         | Coordinates |  |
@@ -128,7 +128,7 @@ Lake-Michigan.svg]] Michigan only has islands in Lake Michigan in the northern p
 
 Lake Superior
 
-Lake-Superior.svg]] Lake Superior is the largest of the Great Lakes, and the coastline is sparsely populated. At , Isle Royale is the largest Michigan island and is the center of Isle Royale National Park, which itself contains over 450 islands. The following is a list of islands in Lake Superior that are _not_ part of Isle Royale National Park. For those islands, see the list of islands in Isle Royale National Park.
+]] Lake Superior is the largest of the Great Lakes, and the coastline is sparsely populated. At , Isle Royale is the largest Michigan island and is the center of Isle Royale National Park, which itself contains over 450 islands. The following is a list of islands in Lake Superior that are _not_ part of Isle Royale National Park. For those islands, see the list of islands in Isle Royale National Park.
 
 +--------------------------+-----------------------+-----------+-------------+------+
 | Island                   | Municipality          | County    | Coordinates |      |
@@ -185,7 +185,7 @@ Lake-Superior.svg]] Lake Superior is the largest of the Great Lakes, and the coa
 
 Lake St. Clair
 
-Lake-St-Clair.svg]] Lake St. Clair connects Lake Huron and Lake Erie through the St. Clair River in the north and the Detroit River in the south. At , it is one of the largest non-Great Lakes in the United States, but it only contains a small number of islands near the mouth of the St. Clair River, where all of the following islands are located. The largest of these islands is Harsens Island, and all the islands are in Clay Township in St. Clair County.
+]] Lake St. Clair connects Lake Huron and Lake Erie through the St. Clair River in the north and the Detroit River in the south. At , it is one of the largest non-Great Lakes in the United States, but it only contains a small number of islands near the mouth of the St. Clair River, where all of the following islands are located. The largest of these islands is Harsens Island, and all the islands are in Clay Township in St. Clair County.
 
 +-------------------+---------------+-----------+-------------+------+
 | Island            | Municipality  | County    | Coordinates |      |
@@ -220,7 +220,7 @@ Lake-St-Clair.svg]] Lake St. Clair connects Lake Huron and Lake Erie through the
 
 Detroit River
 
-Detroit-River.png]] The Detroit River runs for and connects Lake St. Clair to Lake Erie. For its entire length, it carries the international border between the United States and Canada. Some islands belong to Ontario in Canada and are not included in the list below. All islands on the American side belong to Wayne County. Portions of the southern portion of the river serve as wildlife refuges as part of the Detroit River International Wildlife Refuge. The largest and most populous island is Grosse Ile at and a population of around 10,000. Most of the islands are around and closely connected to Grosse Ile.
+]] The Detroit River runs for and connects Lake St. Clair to Lake Erie. For its entire length, it carries the international border between the United States and Canada. Some islands belong to Ontario in Canada and are not included in the list below. All islands on the American side belong to Wayne County. Portions of the southern portion of the river serve as wildlife refuges as part of the Detroit River International Wildlife Refuge. The largest and most populous island is Grosse Ile at and a population of around 10,000. Most of the islands are around and closely connected to Grosse Ile.
 
 +---------------------+---------------------+--------+-------------+------+
 | Island              | Municipality        | County | Coordinates |      |
@@ -273,7 +273,7 @@ Detroit-River.png]] The Detroit River runs for and connects Lake St. Clair to La
 
 St. Marys River
 
-StMarys-River.png]] The St. Marys River connects Lake Superior and Lake Huron at the easternmost point of the Upper Peninsula. It carries the international border throughout its length, and some of the islands belong to neighboring Ontario. The largest of Michigan's islands in the river are Sugar Island and Neebish Island. Wider portions of the river are designated as Lake George, Lake Nicolet, and the Munuscong Lake. The whole length of the Michigan portion of the river is part of Chippewa County.
+]] The St. Marys River connects Lake Superior and Lake Huron at the easternmost point of the Upper Peninsula. It carries the international border throughout its length, and some of the islands belong to neighboring Ontario. The largest of Michigan's islands in the river are Sugar Island and Neebish Island. Wider portions of the river are designated as Lake George, Lake Nicolet, and the Munuscong Lake. The whole length of the Michigan portion of the river is part of Chippewa County.
 
 +---------------------+-----------------------+----------+-------------+------+
 | Island              | Municipality          | County   | Coordinates |      |
@@ -536,7 +536,7 @@ Michigan has numerous inland lakes and rivers that also contain their own island
 
 Grand Lake
 
-Grand-Lake-River.png]] Grand Lake is a large lake in Presque Isle County. While it is not the largest inland lake in Michigan, it does contain the most inland islands that are officially named. At its shortest distance, it is located less than from Lake Huron, but the two are not connected. Grand Lake contains 14 islands, of which Grand Island is by far the largest.
+]] Grand Lake is a large lake in Presque Isle County. While it is not the largest inland lake in Michigan, it does contain the most inland islands that are officially named. At its shortest distance, it is located less than from Lake Huron, but the two are not connected. Grand Lake contains 14 islands, of which Grand Island is by far the largest.
 
 +----------------------+-----------------------+--------------+-------------+-------+
 | Island               | Municipality          | County       | Coordinates |       |

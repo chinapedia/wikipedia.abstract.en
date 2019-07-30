@@ -1,5 +1,5 @@
 | image_flag = {{#property:p41}} | image_caption = Clockwise, from top: Lake Sentani, Puncak Jaya, Warsa waterfall, Mount Sumantri, Kurulu Village War Chief, Yapen Island, Betlehem Church Wamena | nickname = | motto = _Karya Swadaya_ (Sanskrit)
-(Work with one's own might) | image_map = Papua in Indonesia.svg | map_alt = | map_caption = Location of Papua in Indonesia | coordinates = | coor_pinpoint = Jayapura | coordinates_footnotes = | subdivision_type = Country | subdivision_name = | established_title = Established | established_date = 1 May 1963 | founder = | named_for = | seat_type = Capital | seat = Lambang_Kota_Jayapura.jpeg Jayapura | government_footnotes = | governing_body = Papuan Regional Government | leader_party = PD & Golkar | leader_title = Governor | leader_name = Lukas Enembe[1] | unit_pref = Metric | area_footnotes = | area_total_km2 = 319036.05 | area_rank = 1st | area_note = | elevation_footnotes = | elevation_m = | population_total = 3486432 | population_as_of = 2014 | population_footnotes = | population_density_km2 = auto | population_rank = 21st | population_note = Health Ministry 2014 Estimate | demographics_type1 = Demographics | demographics1_footnotes = | demographics1_title1 = Ethnic groups | timezone1 = Indonesia Eastern Time | utc_offset1 = +9 | postal_code_type = Postcodes | postal_code = 90xxx, 91xxx, 92xxx | area_code = (62)9xx | area_code_type = Area codes | geocode = | iso_code = ID-PA | registration_plate = PA | blank_name_sec1 = HDI | blank_info_sec1 = 0.600 () | blank1_name_sec1 = HDI rank | blank1_info_sec1 = 34th (2016) | blank_name_sec2 = Largest city by area | blank_info_sec2 = Jayapura – | blank1_name_sec2 = Largest city by population | blank1_info_sec2 = Jayapura – (256,705 – 2010) | website = | footnotes = | type = Province | alt_flag = | leader_title2 = Vice Governor | leader_name2 = Klemen Tinal | elevation_max_m = 4884 | demographics1_info1 = Papuan
+(Work with one's own might) | image_map = Papua in Indonesia.svg | map_alt = | map_caption = Location of Papua in Indonesia | coordinates = | coor_pinpoint = Jayapura | coordinates_footnotes = | subdivision_type = Country | subdivision_name = | established_title = Established | established_date = 1 May 1963 | founder = | named_for = | seat_type = Capital | seat = Jayapura | government_footnotes = | governing_body = Papuan Regional Government | leader_party = PD & Golkar | leader_title = Governor | leader_name = Lukas Enembe[1] | unit_pref = Metric | area_footnotes = | area_total_km2 = 319036.05 | area_rank = 1st | area_note = | elevation_footnotes = | elevation_m = | population_total = 3486432 | population_as_of = 2014 | population_footnotes = | population_density_km2 = auto | population_rank = 21st | population_note = Health Ministry 2014 Estimate | demographics_type1 = Demographics | demographics1_footnotes = | demographics1_title1 = Ethnic groups | timezone1 = Indonesia Eastern Time | utc_offset1 = +9 | postal_code_type = Postcodes | postal_code = 90xxx, 91xxx, 92xxx | area_code = (62)9xx | area_code_type = Area codes | geocode = | iso_code = ID-PA | registration_plate = PA | blank_name_sec1 = HDI | blank_info_sec1 = 0.600 () | blank1_name_sec1 = HDI rank | blank1_info_sec1 = 34th (2016) | blank_name_sec2 = Largest city by area | blank_info_sec2 = Jayapura – | blank1_name_sec2 = Largest city by population | blank1_info_sec2 = Jayapura – (256,705 – 2010) | website = | footnotes = | type = Province | alt_flag = | leader_title2 = Vice Governor | leader_name2 = Klemen Tinal | elevation_max_m = 4884 | demographics1_info1 = Papuan
 Melanesian (including Aitinyo, Aefak, Asmat, Agast, Dani, Ayamaru, Mandacan, Biak, Serui)
 Javanese
 Bugis
@@ -32,7 +32,7 @@ The name "West Papua" was adopted in 1961 by the New Guinea Council until the Un
 
 Government
 
-Nius_Kogoya.jpg The province of Papua is governed by a directly elected governor (currently Lukas Enembe) and a regional legislature, PEOPLE'S REPRESENTATIVE COUNCIL OF PROVINCE OF PAPUA (_Dewan Perwakilan Rakyat Papua_).[6] A government organisation that only exists in Papua is the PAPUAN PEOPLE'S COUNCIL (_Majelis Rakyat Papua_) Papuan People's Council), which was formed by the Indonesian Government in 2005 as a coalition of Papuan tribal chiefs, tasked with arbitration and speaking on behalf of Papuan tribal customs.
+The province of Papua is governed by a directly elected governor (currently Lukas Enembe) and a regional legislature, PEOPLE'S REPRESENTATIVE COUNCIL OF PROVINCE OF PAPUA (_Dewan Perwakilan Rakyat Papua_).[6] A government organisation that only exists in Papua is the PAPUAN PEOPLE'S COUNCIL (_Majelis Rakyat Papua_) Papuan People's Council), which was formed by the Indonesian Government in 2005 as a coalition of Papuan tribal chiefs, tasked with arbitration and speaking on behalf of Papuan tribal customs.
 
 Indonesian sovereignty over Papua dates back to 1969, when Indonesia conducted a referendum (referred to by the Indonesian government as the Act of Free Choice) on the self-determination of the peoples of Papua under an agreement with the United Nations to respect any result. Instead of conducting a democratic referendum amongst the general population, Indonesian security forces forcibly coerced a small number of tribal elders to vote to join Indonesia; some elders were not even made aware that a referendum was to be conducted beforehand. Nevertheless, the agreement with the UN was nominally upheld, and was recognised by the international community in spite of protests. This intensified the independence movement among indigenous West Papuans, deepening the Papua conflict, which began when the Dutch withdrew from the East Indies in 1963. The conflict has continued to the present, with Indonesian security forces being accused of numerous human rights abuses in their suppression of the independence movement. The Indonesian government maintains tight control over the region, barring foreign journalists or rights monitors from entering; those who do must do so covertly.[7]
 
@@ -183,7 +183,7 @@ Another new province, to be split from West Papua will be Southwest Papua.[12]
 
 South Papua
 
-Senggo,_Mappi_Regency,_Papua_2016-02-20.jpg The proposed South Papua (_Papua Selatan_) Province would cover an area of 119,749 square km, which is rich in natural resources. It will encompass four existing regencies:
+The proposed South Papua (_Papua Selatan_) Province would cover an area of 119,749 square km, which is rich in natural resources. It will encompass four existing regencies:
 
 -   Asmat, Boven Digoel, Mappi and Merauke
 
@@ -222,12 +222,12 @@ And for THE NEW CENTRAL PAPUA PROVINCE:
 
 Jayapura City
 
-Jayapura3.jpg at night]] The city of Jayapura also has the status of an autonomous city, equal to a regency. It was founded on 7 March 1910 as _Hollandia_ and is the capital. Since Indonesian administration the name of the city has been changed to Kotabaru, then to Sukarnopura before its current name, Jayapura. Jayapura is also the largest city of Papua Province, with a small but active tourism industry. It is built on a slope overlooking the bay. Cenderawasih University (_UNCEN_) campus at Abepura houses the University Museum where some of the Asmat artifacts collected by Michael Rockefeller are stored.[13] Both Tanjung Ria beach, near the market at Hamadi – site of 22 April 1944 Allied invasion during World War II – and the site of General Douglas MacArthur's World War II headquarters at Ifar Gunung have monuments commemorating the events.
+at night]] The city of Jayapura also has the status of an autonomous city, equal to a regency. It was founded on 7 March 1910 as _Hollandia_ and is the capital. Since Indonesian administration the name of the city has been changed to Kotabaru, then to Sukarnopura before its current name, Jayapura. Jayapura is also the largest city of Papua Province, with a small but active tourism industry. It is built on a slope overlooking the bay. Cenderawasih University (_UNCEN_) campus at Abepura houses the University Museum where some of the Asmat artifacts collected by Michael Rockefeller are stored.[13] Both Tanjung Ria beach, near the market at Hamadi – site of 22 April 1944 Allied invasion during World War II – and the site of General Douglas MacArthur's World War II headquarters at Ifar Gunung have monuments commemorating the events.
 
 
 Geography
 
-Puncakjaya.jpg is the tallest mountain between the Himalayas and the Andes.]] A central east–west mountain range dominates the geography of the island of New Guinea, over in total length. The western section is around long and across. The province contains the highest mountains between the Himalayas and the Andes, rising up to high, and ensuring a steady supply of rain from the tropical atmosphere. The tree line is around elevation and the tallest peaks contain permanent equatorial glaciers, increasingly melting due to a changing climate. Various other smaller mountain ranges occur both north and west of the central ranges. Except in high elevations, most areas possess a hot humid climate throughout the year, with some seasonal variation associated with the northeast monsoon season.
+is the tallest mountain between the Himalayas and the Andes.]] A central east–west mountain range dominates the geography of the island of New Guinea, over in total length. The western section is around long and across. The province contains the highest mountains between the Himalayas and the Andes, rising up to high, and ensuring a steady supply of rain from the tropical atmosphere. The tree line is around elevation and the tallest peaks contain permanent equatorial glaciers, increasingly melting due to a changing climate. Various other smaller mountain ranges occur both north and west of the central ranges. Except in high elevations, most areas possess a hot humid climate throughout the year, with some seasonal variation associated with the northeast monsoon season.
 
 The southern and northern lowlands stretch for hundreds of kilometres and include lowland rainforests, extensive wetlands, savanna grasslands, and expanses of mangrove forest. The southern lowlands are the site of Lorentz National Park, also a UNESCO World Heritage Site.[14]
 
@@ -236,7 +236,7 @@ The province's largest river is the Mamberamo located in the northern part of th
 
 Ethnic groups
 
-Papuan_Dance_from_Yapen.jpg]] The following are some of the most well-known ethnic groups of Papua:
+]] The following are some of the most well-known ethnic groups of Papua:
 
 -   Amungme
 -   Asmat
@@ -259,7 +259,7 @@ There are elementary schools in each village. About 10–30% of children continu
 
 Demographics
 
-Impact_of_Javanese_expansion_on_Dani_tribe_in_Irian_Jaya_ABC_1995.webm news report on the impact of transmigration and development on the Dani|left]]
+news report on the impact of transmigration and development on the Dani|left]]
 
 The population of Papua province has a fertility rate of 2.9 children per woman The population grew from the 1.9 million recorded in the 2000 Indonesia Census, to 2.9 million as recorded by the 2010 Census,[15] and is officially estimated to be at about 3.5 million in 2014. Since the early 1990s Papua has had the highest population growth rate of all Indonesian provinces at over 3% annually. This is partly a result of birth rates, but mainly due to migration from other parts of Indonesia. While indigenous Papuans formed the near-totality of the population in 1961, they are now roughly 50% of the population, the other half being composed of non-Papuan migrants coming from other parts of Indonesia. An overwhelming percentage of these migrants came as part of a government-sponsored transmigration program.
 
@@ -279,7 +279,7 @@ The Grasberg Mine, the world's largest gold mine and third largest copper mine,[
 
 Ecology
 
-Paradisaea_apoda_-Bali_Bird_Park-7.jpg'', native to Papua, displaying its feathers]] The island has an estimated 16,000 species of plant, 124 genera of which are endemic. Papua's known forest fauna includes; marsupials (including possums, wallabies, tree-kangaroos, cuscuses); other mammals (including the endangered long-beaked echidna); bird species such as birds-of-paradise, cassowaries, parrots, and cockatoos; the world's longest lizards (Papua monitor); and the world's largest butterflies.[19]
+'', native to Papua, displaying its feathers]] The island has an estimated 16,000 species of plant, 124 genera of which are endemic. Papua's known forest fauna includes; marsupials (including possums, wallabies, tree-kangaroos, cuscuses); other mammals (including the endangered long-beaked echidna); bird species such as birds-of-paradise, cassowaries, parrots, and cockatoos; the world's longest lizards (Papua monitor); and the world's largest butterflies.[19]
 
 The waterways and wetlands of Papua are also home to salt and freshwater crocodile, tree monitors, flying foxes, osprey, bats and other animals; while the equatorial glacier fields remain largely unexplored.
 

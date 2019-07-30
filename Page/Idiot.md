@@ -1,4 +1,4 @@
-Larock-The_Idiot.jpg (1892)]]
+(1892)]]
 
 IDIOT was formerly a legal and psychiatric category of profound intellectual disability in which a person's mental age is two years or less, and he or she cannot guard against common dangers. Along with terms like moron, imbecile, and cretin, the term is now archaic and offensive,[1] and was replaced by the term "profound mental retardation" (which has itself since been replaced by other terms).[2]
 

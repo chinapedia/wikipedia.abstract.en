@@ -66,7 +66,7 @@ As its influence grew, it opposed British rule in Egypt starting in 1936,[63] bu
 
 Post–World War II
 
-Ikhwan48-1.gif]] In November 1948, following several bombings and alleged assassination attempts by the Brotherhood, the Egyptian government arrested 32 leaders of the Brotherhood's "secret apparatus" and banned the Brotherhood.[68] At this time the Brotherhood was estimated to have 2000 branches and 500,000 members or sympathizers.[69] In succeeding months Egypt's prime minister was assassinated by a Brotherhood member, and following that Al-Banna himself was assassinated in what is thought to be a cycle of retaliation.
+]] In November 1948, following several bombings and alleged assassination attempts by the Brotherhood, the Egyptian government arrested 32 leaders of the Brotherhood's "secret apparatus" and banned the Brotherhood.[68] At this time the Brotherhood was estimated to have 2000 branches and 500,000 members or sympathizers.[69] In succeeding months Egypt's prime minister was assassinated by a Brotherhood member, and following that Al-Banna himself was assassinated in what is thought to be a cycle of retaliation.
 
 In 1952, members of the Muslim Brotherhood were accused of taking part in the Cairo Fire that destroyed some 750 buildings in downtown Cairo – mainly night clubs, theatres, hotels, and restaurants frequented by British and other foreigners.[70]
 
@@ -92,7 +92,7 @@ Following the Egyptian Revolution of 2011 and fall of Hosni Mubarak, the Brother
 
 On 30 April 2011, the Brotherhood launched a new party called the Freedom and Justice Party, which won 235 of the 498 seats in the 2011 Egyptian parliamentary elections, far more than any other party.[90][91] The party rejected the "candidacy of women or Copts for Egypt's presidency", but not for cabinet positions.[92]
 
-Secretary_Kerry_Meets_With_Egyptian_President_Morsy_in_Addis_Ababa_(2).jpg meeting with then-Egyptian President Mohamed Morsi, May 2013]] The Muslim Brotherhood's candidate for Egypt's 2012 presidential election was Mohamed Morsi, who defeated Ahmed Shafiq—the last prime minister under Mubarak's rule—with 51.73% of the vote.[93] Some high level supporters[94][95] and former Brotherhood officials[96] have reiterated hostility toward Zionism,[97] although during his campaign Morsi himself promised to stand for peaceful relations with Israel.[98]
+meeting with then-Egyptian President Mohamed Morsi, May 2013]] The Muslim Brotherhood's candidate for Egypt's 2012 presidential election was Mohamed Morsi, who defeated Ahmed Shafiq—the last prime minister under Mubarak's rule—with 51.73% of the vote.[93] Some high level supporters[94][95] and former Brotherhood officials[96] have reiterated hostility toward Zionism,[97] although during his campaign Morsi himself promised to stand for peaceful relations with Israel.[98]
 
 Within a short period, serious public opposition developed to President Morsi. In late November 2012, he "temporarily" granted himself the power to legislate without judicial oversight or review of his acts, on the grounds that he needed to "protect" the nation from the Mubarak-era power structure.[99][100] He also put a draft constitution to a referendum that opponents complained was "an Islamist coup".[101] These issues[102]—and concerns over the prosecutions of journalists, the unleashing of pro-Brotherhood gangs on nonviolent demonstrators, the continuation of military trials, new laws that permitted detention without judicial review for up to 30 days,[103] brought hundreds of thousands of protesters to the streets starting in November 2012.[104][105]
 
@@ -100,7 +100,7 @@ By April 2013, Egypt had "become increasingly divided" between President Mohamed
 
 On 3 July 2013, Mohamed Morsi was removed from office and put into house arrest by the military,[108] that happened shortly after mass protests against him began.[109][110][111][112][113] demanding the resignation of Morsi. There were also significant counter-protests in support of Morsi;[114] those were originally intended to celebrate the one-year anniversary of Morsi's inauguration, and started days before the uprising. On 14 August, the interim government declared a month-long state of emergency, and riot police cleared the pro-Morsi sit-in during the Rabaa sit-in dispersal of August 2013. Violence escalated rapidly following armed protesters attacking police, according to the National Council for Human Rights' report;[115] this led to the deaths of over 600 people and injury of some 4,000,[116][117] with the incident resulting in the most casualties in Egypt's modern history.[118] In retaliation, Brotherhood supporters looted and burned police stations and dozens of churches in response to the violence, though a Muslim Brotherhood spokesperson condemned the attacks on Christians and instead blamed military leaders for plotting the attacks.[119] The crackdown that followed has been called the worst for the Brotherhood's organization "in eight decades".[120] By 19 August, Al Jazeera reported that "most" of the Brotherhood's leaders were in custody.[121][122] On that day Supreme Leader Mohammed Badie was arrested,[123] crossing a "red line", as even Hosni Mubarak had never arrested him.[124] On 23 September, a court ordered the group outlawed and its assets seized.[125] Prime Minister, Hazem Al Beblawi on 21 December 2013, declared the Muslim Brotherhood as a terrorist organisation after a car bomb ripped through a police building and killed at least 14 people in the city of Mansoura, which the government blamed on the Muslim Brotherhood, despite no evidence and an unaffiliated Sinai-based terror group claiming responsibility for the attack.[126]
 
-Anti-coup_protesters_with_R4bia_sign_in_Nasr_City-Cairo_11-Oct-2013.jpg and making the associated gesture during a pro-Brotherhood protest held in October 2013.]]
+and making the associated gesture during a pro-Brotherhood protest held in October 2013.]]
 
 On 24 March 2014, an Egyptian court sentenced 529 members of the Muslim Brotherhood to death[127] following an attack on a police station, an act described by Amnesty International as "the largest single batch of simultaneous death sentences we've seen in recent years […] anywhere in the world".[128] By May 2014, approximately 16,000 people (and as high as more than 40,000 by what _The Economist_ calls an "independent count"),[129] mostly Brotherhood members or supporters, have allegedly been arrested by police since the 2013 uprising.[130] On 2 February 2015, an Egyptian court sentenced another 183 members of the Muslim Brotherhood to death.[131]
 
@@ -124,7 +124,7 @@ How much of the blame for the fall from power in Egypt of the Brotherhood and it
 
 General leaders
 
-Mohammed_Badiea.jpg, the current leader]]
+, the current leader]]
 
 -   Founder and first General Leader (G.L.): (1928–1949) Hassan al Banna
 -   2nd G.L.: (1949–1972) Hassan al-Hudaybi
@@ -150,7 +150,7 @@ Iranian Call and Reform Organization, a Sunni Islamist group active in Iran, has
 
 Turkey
 
-Erdogan_gesturing_Rabia.jpg gesture (which is used by Muslim Brotherhood supporters in Egypt protesting against the post-Brotherhood authorities)]] The Turkish AKP, the ruling party of Turkey, publicly supported the Muslim Brotherhood during and a few months after the overthrow of the Muslim Brotherhood-affiliated Egyptian president Mohamed Morsi in July 2013.[161][162] Then-Turkish Prime Minister Recep Tayyip Erdoğan claimed in an interview that this was because "Turkey would stand by whoever was elected as a result of legitimate elections".[163] According to the Carnegie Endowment for International Peace, each year after Morsi's overthrow has seen the AKP "significantly detach itself from the Muslim Brotherhood in Egypt".[164]
+gesture (which is used by Muslim Brotherhood supporters in Egypt protesting against the post-Brotherhood authorities)]] The Turkish AKP, the ruling party of Turkey, publicly supported the Muslim Brotherhood during and a few months after the overthrow of the Muslim Brotherhood-affiliated Egyptian president Mohamed Morsi in July 2013.[161][162] Then-Turkish Prime Minister Recep Tayyip Erdoğan claimed in an interview that this was because "Turkey would stand by whoever was elected as a result of legitimate elections".[163] According to the Carnegie Endowment for International Peace, each year after Morsi's overthrow has seen the AKP "significantly detach itself from the Muslim Brotherhood in Egypt".[164]
 
 Iraq
 

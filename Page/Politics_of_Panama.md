@@ -40,7 +40,7 @@ State Ministers
 
 Legislative branch
 
-Asamblea_Nacional_de_Panamá.JPG.]] The legislative branch consists of a unicameral National Assembly (_Asamblea Nacional_), composed of 71 members elected to five-year terms from single- and multi-seat constituencies.
+.]] The legislative branch consists of a unicameral National Assembly (_Asamblea Nacional_), composed of 71 members elected to five-year terms from single- and multi-seat constituencies.
 
 
 Judiciary

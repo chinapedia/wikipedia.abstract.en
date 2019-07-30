@@ -1,4 +1,4 @@
-Hugostv.jpg teaching the young canons of Richard's abbey]] RICHARD OF SAINT VICTOR, C.R.S.A. (died 1173) was a Medieval Scottish philosopher and theologian and one of the most influential religious thinkers of his time. A canon regular, he was a prominent mystical theologian, and was prior of the famous Augustinian Abbey of Saint Victor in Paris from 1162 until his death in 1173.
+teaching the young canons of Richard's abbey]] RICHARD OF SAINT VICTOR, C.R.S.A. (died 1173) was a Medieval Scottish philosopher and theologian and one of the most influential religious thinkers of his time. A canon regular, he was a prominent mystical theologian, and was prior of the famous Augustinian Abbey of Saint Victor in Paris from 1162 until his death in 1173.
 
 
 Life
@@ -12,7 +12,7 @@ He was then promoted to prior in 1162, a position he held until his death on 10 
 
 Writings
 
-Richardi_Parisiensis_Opera.tif Richard wrote extensively (Migne's _Patrologia Latina_ contains 34 works attributed to him, and this is not Richard's full corpus).[10] There are some problems with establishing the chronology of Richard’s works. The earliest ones come before 1153, and the latest were written one or two years before his death.[11] His earlier works are similar to the general teaching and writing of the period. His writing develops from basic exegesis, theology and philosophy to more of a study of purely spiritual questions. In his early writings he relies on the moral interpretations of previous theologians such as Augustine of Hippo, Bede, Pope Gregory I and Hugh. He later became more independent and strayed from Hugh's influence.[12] There is some debate between historians about which of Richard's texts are the most influential and important. Because Richard's work covers many spheres of thought it is somewhat difficult to categorise his work.
+Richard wrote extensively (Migne's _Patrologia Latina_ contains 34 works attributed to him, and this is not Richard's full corpus).[10] There are some problems with establishing the chronology of Richard’s works. The earliest ones come before 1153, and the latest were written one or two years before his death.[11] His earlier works are similar to the general teaching and writing of the period. His writing develops from basic exegesis, theology and philosophy to more of a study of purely spiritual questions. In his early writings he relies on the moral interpretations of previous theologians such as Augustine of Hippo, Bede, Pope Gregory I and Hugh. He later became more independent and strayed from Hugh's influence.[12] There is some debate between historians about which of Richard's texts are the most influential and important. Because Richard's work covers many spheres of thought it is somewhat difficult to categorise his work.
 
 _The Book of the Twelve Patriarchs_, or _Benjamin Minor_
 

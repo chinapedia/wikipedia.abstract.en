@@ -9,7 +9,7 @@ The B-24 pilots mistakenly reported they had sunk , and were awarded medals for 
 
 RMS _Laconia_
 
-RMS_Laconia.jpg postcard ]] was built in 1921 as a civilian ocean liner. During World War II she was requisitioned for the war effort, and by 1942 had been converted into a troopship. At the time of the incident she was transporting mostly Italian prisoners of war from Cape Town to Freetown, under the command of Captain Rudolph Sharp. The ship was carrying 463 officers and crew, 87 civilians, 286 British soldiers, 1,793 Italian prisoners and 103 Polish soldiers acting as guards of the prisoners.
+postcard ]] was built in 1921 as a civilian ocean liner. During World War II she was requisitioned for the war effort, and by 1942 had been converted into a troopship. At the time of the incident she was transporting mostly Italian prisoners of war from Cape Town to Freetown, under the command of Captain Rudolph Sharp. The ship was carrying 463 officers and crew, 87 civilians, 286 British soldiers, 1,793 Italian prisoners and 103 Polish soldiers acting as guards of the prisoners.
 
 Sharp had previously commanded , which had been sunk by German bombs on 17 June 1940, off the French port of Saint-Nazaire, while taking part in Operation Aerial, the evacuation of British nationals and troops from France, two weeks after the Dunkirk evacuation.
 
@@ -56,7 +56,7 @@ Second American attack
 
 Five B-25s from Ascension's permanent squadron and Hardin's B-24 continued to search for submarines from dawn till dusk. On 17 September, one B-25 sighted _Laconia_{{'}}s lifeboats and informed _Empire Haven_ of their position. Hardin's B-24 sighted _U-506_, which had 151 survivors on board including nine women and children, and attacked. On the first run the bombs failed to drop, _U-506_ crash dived and on the second run the B-24 dropped two bombs and two depth charges but they caused no damage.
 
-Rescued_British_Sailors,_Soldiers,_Airmen_and_Merchant_Seamen_-_on_the_French_warship_Gloire_Art.IWMARTLD2886.jpg]]
+]]
 
 That same day, the British at Freetown sent an ambiguous message to Ascension informing them that three French ships from Dakar were en route. Captain Richardson assumed the French intended to invade Ascension so the submarine hunting was cancelled in order to prepare for an invasion.
 

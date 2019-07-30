@@ -41,7 +41,7 @@ Concurrent with Kurzweil Music Systems, Kurzweil created the company Kurzweil Ap
 
 Kurzweil started Kurzweil Educational Systems in 1996 to develop new pattern-recognition-based computer technologies to help people with disabilities such as blindness, dyslexia and attention-deficit hyperactivity disorder (ADHD) in school. Products include the Kurzweil 1000 text-to-speech converter software program, which enables a computer to read electronic and scanned text aloud to blind or visually impaired users, and the Kurzweil 3000 program, which is a multifaceted electronic learning system that helps with reading, writing, and study skills.
 
-Raymond_Kurzweil,_Stanford_2006_(square_crop).jpg at Stanford University in 2006]]
+at Stanford University in 2006]]
 
 During the 1990s, Kurzweil founded the Medical Learning Company.[22] The company's products included an interactive computer education program for doctors and a computer-simulated patient. Around the same time, Kurzweil started KurzweilCyberArt.com—a website featuring computer programs to assist the creative art process. The site used to offer free downloads of a program called AARON—a visual art synthesizer developed by Harold Cohen—and of "Kurzweil's Cybernetic Poet", which automatically creates poetry. During this period he also started KurzweilAI.net, a website devoted towards showcasing news of scientific developments, publicizing the ideas of high-tech thinkers and critics alike, and promoting futurist-related discussion among the general population through the Mind-X forum.
 

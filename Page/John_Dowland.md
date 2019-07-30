@@ -1,7 +1,5 @@
 JOHN DOWLAND[1] (1563 – buried 20 February 1626) was an English Renaissance composer, lutenist, and singer. He is best known today for his melancholy songs such as "Come, heavy sleep", "Come again", "Flow my tears", "I saw my Lady weepe" and "In darkness let me dwell", but his instrumental music has undergone a major revival, and with the 20th century's early music revival, has been a continuing source of repertoire for lutenists and classical guitarists.
 
-Dowland_Lachrymæ.gif
-
 
 Career and compositions
 

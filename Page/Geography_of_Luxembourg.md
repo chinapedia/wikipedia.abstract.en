@@ -1,4 +1,4 @@
-LuxembourgOMCmap.png Luxembourg is a small country located in the Low Countries, part of North-West Europe It borders Belgium for to the west and north, France () to the south, and Germany () to the east. Luxembourg is landlocked, separated from the North Sea by Belgium.
+Luxembourg is a small country located in the Low Countries, part of North-West Europe It borders Belgium for to the west and north, France () to the south, and Germany () to the east. Luxembourg is landlocked, separated from the North Sea by Belgium.
 
 The topography of the country is divided very clearly between the hilly Oesling of the northern third of the Grand Duchy and the flat Gutland, which occupies the southern two-thirds. The country's longest river is the Sauer, which is a tributary of the Moselle, the basin of which includes almost all of Luxembourg's area. Other major rivers include the Alzette in the south and the Wiltz in the north.
 
@@ -9,7 +9,7 @@ Physical geography
 
 Topography
 
-lux_topo_en.jpg in the north and the southern Gutland.]] Despite its small size, Luxembourg has a varied topography, with two main features to its landscape. The northern section of the country is formed by part of the plateau of the Ardennes, where the mountain heights range from . The rest of the country is made up of undulating countryside with broad valleys. The capital, Luxembourg City, is located in the southern part of the country.
+in the north and the southern Gutland.]] Despite its small size, Luxembourg has a varied topography, with two main features to its landscape. The northern section of the country is formed by part of the plateau of the Ardennes, where the mountain heights range from . The rest of the country is made up of undulating countryside with broad valleys. The capital, Luxembourg City, is located in the southern part of the country.
 
 Green heart of Europe
 
@@ -48,7 +48,7 @@ Environment
 
 Climate
 
-Luxembourg_City_climate.PNG Luxembourg is part of the West European Continental climatic region, and enjoys a temperate climate without extremes. Winters are mild, summers fairly cool, and rainfall is high.
+Luxembourg is part of the West European Continental climatic region, and enjoys a temperate climate without extremes. Winters are mild, summers fairly cool, and rainfall is high.
 
 Seasonal weather is somewhat different between the northern and southern regions. In the north there is considerable influence from the Atlantic systems, in which the passage of frequent pressure depressions gives rise to unstable weather conditions. This results in overcast skies and considerable drizzle in the winter.
 

@@ -18,8 +18,6 @@ Quantum mechanical description
 
 Symmetrical and antisymmetrical states
 
-Asymmetricwave2.png Symmetricwave2.png
-
 What follows is an example to make the above discussion concrete, using the formalism developed in the article on the mathematical formulation of quantum mechanics.
 
 Let _n_ denote a complete set of (discrete) quantum numbers for specifying single-particle states (for example, for the particle in a box problem, take _n_ to be the quantized wave vector of the wavefunction.) For simplicity, consider a system composed of two particles that are not interacting with each other. Suppose that one particle is in the state _n_₁, and the other is in the state _n_₂. Intuitively, the quantum state of the system is written as

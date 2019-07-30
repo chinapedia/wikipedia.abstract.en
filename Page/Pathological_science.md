@@ -5,7 +5,7 @@ Bart Simon lists it among practices pretending to be science: "categories ... su
 
 Definition
 
-Irving_Langmuir.jpg coined the phrase _pathological science_ in a talk in 1953.]] Pathological science, as defined by Langmuir, is a psychological process in which a scientist, originally conforming to the scientific method, unconsciously veers from that method, and begins a pathological process of wishful data interpretation (see the observer-expectancy effect and cognitive bias). Some characteristics of pathological science are:
+coined the phrase _pathological science_ in a talk in 1953.]] Pathological science, as defined by Langmuir, is a psychological process in which a scientist, originally conforming to the scientific method, unconsciously veers from that method, and begins a pathological process of wishful data interpretation (see the observer-expectancy effect and cognitive bias). Some characteristics of pathological science are:
 
 -   The maximum effect that is observed is produced by a causative agent of barely detectable intensity, and the magnitude of the effect is substantially independent of the intensity of the cause.
 -   The effect is of a magnitude that remains close to the limit of detectability, or many measurements are necessary because of the very low statistical significance of the results.
@@ -19,7 +19,7 @@ Langmuir never intended the term to be rigorously defined; it was simply the tit
 
 Langmuir's examples
 
-Blondlot_N-rays.png: "Registration by Photography of the Action Produced by N Rays on a Small Electric Spark". Nancy, 1904.]]
+: "Registration by Photography of the Action Produced by N Rays on a Small Electric Spark". Nancy, 1904.]]
 
 N-rays
 

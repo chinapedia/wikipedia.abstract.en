@@ -7,7 +7,7 @@ Baskerville was born in the village of Wolverley, near Kidderminster in Worceste
 
 He practised as a printer in Birmingham, England. Baskerville was a member of the Royal Society of Arts, and an associate of some of the members of the Lunar Society. He directed his punchcutter, John Handy, in the design of many typefaces of broadly similar appearance. In 1757, Baskerville published a remarkable quarto edition of Virgil on wove paper, using his own type. It took three years to complete, but it made such an impact that he was appointed printer to the University of Cambridge the following year.[6]
 
-BaskervilleSpec.svg John Baskerville printed works for the University of Cambridge in 1758 and, although an atheist,[7] printed a splendid folio Bible in 1763. His typefaces were greatly admired by Benjamin Franklin, a fellow printer.[8] Baskerville's work was criticised by jealous competitors and soon fell out of favour, but since the 1920s many new fonts have been released by Linotype, Monotype, and other type foundries – revivals of his work and mostly called 'Baskerville'. Emigre released a popular revival of this typeface in 1996 called Mrs Eaves, named for Baskerville's wife, Sarah Eaves.[9] Baskerville's most notable typeface Baskerville represents the peak of transitional type face and bridges the gap between Old Style and Modern type design.[10][11][12]
+John Baskerville printed works for the University of Cambridge in 1758 and, although an atheist,[7] printed a splendid folio Bible in 1763. His typefaces were greatly admired by Benjamin Franklin, a fellow printer.[8] Baskerville's work was criticised by jealous competitors and soon fell out of favour, but since the 1920s many new fonts have been released by Linotype, Monotype, and other type foundries – revivals of his work and mostly called 'Baskerville'. Emigre released a popular revival of this typeface in 1996 called Mrs Eaves, named for Baskerville's wife, Sarah Eaves.[9] Baskerville's most notable typeface Baskerville represents the peak of transitional type face and bridges the gap between Old Style and Modern type design.[10][11][12]
 
 Baskerville also was responsible for significant innovations in printing, paper and ink production. He worked with paper maker James Whatman to produce a smoother whiter paper which showcased his strong black type[13]. Baskerville also pioneered a completely new style of typography adding wide margins and leading between each line.[14]
 
@@ -21,7 +21,7 @@ Baskerville House was built on the grounds of _Easy Hill_. In 1947, BBC radio br
 
 Commemoration
 
-Baskerville_-_Industry_and_Genius.jpg]] A Portland stone sculpture of the Baskerville typeface, _Industry and Genius_, in his honour stands in front of Baskerville House in Centenary Square, Birmingham. It was created by local artist David Patten.[19]
+]] A Portland stone sculpture of the Baskerville typeface, _Industry and Genius_, in his honour stands in front of Baskerville House in Centenary Square, Birmingham. It was created by local artist David Patten.[19]
 
 
 Gallery

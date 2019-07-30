@@ -21,7 +21,7 @@ Polygyny
 
 Incidence
 
-Prince_Manga_Bell_and_favorite_wives.jpg and favorite wives]]
+and favorite wives]]
 
 Polygyny, the practice wherein a man has more than one wife at the same time, is by far the most common form of polygamy. Many Muslim-majority countries and some countries with a sizeable Muslim minority accept polygyny legally and culturally to varying extents; some secular countries also accept it to varying degrees.
 

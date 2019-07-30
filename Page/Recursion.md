@@ -1,9 +1,9 @@
-Droste_Cacao_Alcalinise_blikje,_foto4.JPG''. The woman in this image holds an object that contains a smaller image of her holding an identical object, which in turn contains a smaller image of herself holding an identical object, and so forth. 1904 Droste cocoa tin, designed by Jan Misset]] RECURSION (adjective: _recursive_) occurs when a thing is defined in terms of itself or of its type. Recursion is used in a variety of disciplines ranging from linguistics to logic. The most common application of recursion is in mathematics and computer science, where a function being defined is applied within its own definition. While this apparently defines an infinite number of instances (function values), it is often done in such a way that no loop or infinite chain of references can occur.
+''. The woman in this image holds an object that contains a smaller image of her holding an identical object, which in turn contains a smaller image of herself holding an identical object, and so forth. 1904 Droste cocoa tin, designed by Jan Misset]] RECURSION (adjective: _recursive_) occurs when a thing is defined in terms of itself or of its type. Recursion is used in a variety of disciplines ranging from linguistics to logic. The most common application of recursion is in mathematics and computer science, where a function being defined is applied within its own definition. While this apparently defines an infinite number of instances (function values), it is often done in such a way that no loop or infinite chain of references can occur.
 
 
 Formal definitions
 
-Serpiente_alquimica.jpg, an ancient symbol depicting a serpent or dragon eating its own tail.]] In mathematics and computer science, a class of objects or methods exhibits recursive behavior when it can be defined by two properties:
+, an ancient symbol depicting a serpent or dragon eating its own tail.]] In mathematics and computer science, a class of objects or methods exhibits recursive behavior when it can be defined by two properties:
 
 1.  A simple BASE CASE (or cases)—a terminating scenario that does not use recursion to produce an answer
 
@@ -31,7 +31,7 @@ There are various more tongue-in-cheek "definitions" of recursion; see recursive
 
 Informal definition
 
-Sourdough.jpg, bubbling through fermentation: the recipe calls for some sourdough left over from the last time the same recipe was made.]]
+, bubbling through fermentation: the recipe calls for some sourdough left over from the last time the same recipe was made.]]
 
 Recursion is the process a procedure goes through when one of the steps of the procedure involves invoking the procedure itself. A procedure that goes through recursion is said to be 'recursive'.
 
@@ -67,7 +67,7 @@ Recursive acronyms are other examples of recursive humor. PHP, for example, stan
 
 In mathematics
 
-Sierpinski_triangle.svg—a confined recursion of triangles that form a fractal]]
+—a confined recursion of triangles that form a fractal]]
 
 Recursively defined sets
 
@@ -166,7 +166,7 @@ Use of recursion in an algorithm has both advantages and disadvantages. The main
 
 In art
 
-First_matryoshka_museum_doll_open.jpgs by Zvyozdochkin and Malyutin, 1892]] Polittico_stefaneschi,_verso.jpg's _Stefaneschi Triptych_, 1320, recursively contains an image of itself (held up by the kneeling figure in the central panel).]]
+s by Zvyozdochkin and Malyutin, 1892]] 's _Stefaneschi Triptych_, 1320, recursively contains an image of itself (held up by the kneeling figure in the central panel).]]
 
 The Russian Doll or Matryoshka Doll is a physical artistic example of the recursive concept.[9]
 

@@ -1,5 +1,3 @@
-LithuaniaPhysicalMap-Detailed.png
-
 Lithuania is a country in the Baltic region of Europe. The most populous of the Baltic states, Lithuania has of coastline consisting of the continental coast and the "Curonian Spit" coast.[1] Lithuania's major warm-water port of Klaipėda (Memel) lies at the narrow mouth of Curonian Lagoon, a shallow lagoon extending south to Kaliningrad and separated from the Baltic sea by Curonian Spit, where Kuršių Nerija National Park was established for its remarkable sand dunes.
 
 The Neman River and some of its tributaries are used for internal shipping (in 2000, 89 inland ships carried 900,000 tons of cargo, which is less than 1% of the total goods traffic).
@@ -12,8 +10,6 @@ GEOGRAPHIC COORDINATES:
 
 
 Geographical position
-
-Lithuania_pol_2002.jpg
 
 Lithuania is situated on the eastern shore of the Baltic Sea. Lithuania's boundaries have changed several times since 1918, but they have been stable since 1945. Currently, Lithuania covers an area of about 65,200 square kilometres. About the size of West Virginia, it is larger than Belgium, Denmark, Latvia, the Netherlands, or Switzerland. Lithuania is situated on the eastern shore of the Baltic Sea and borders Latvia on the north, Belarus on the east and south, and Poland and the Kaliningrad region of Russia on the southwest. It is a country of gently rolling hills, many forests, rivers and streams, and lakes. Its principal natural resource is agricultural land.
 
@@ -28,8 +24,6 @@ Once a heavily forested land, Lithuania's territory today consists of only 32.8 
 
 
 Climate
-
-Serksnas_laukuose.jpg
 
 Lithuania has a humid continental climate (_Dfb_ in the Köppen climate classification). Average temperatures on the coast are in January and in July. In Vilnius the average temperatures are in January and in July. Simply speaking, is frequent on summer days and at night. Temperatures occasionally reach in summer. Winters when easterly flows from Siberia predominate, like 1941–42, 1955–56 and 1984–85,[3] are very cold, whereas winters dominated by westerly maritime airflows like 1924–25, 1960–61 and 1988–89 are mild with temperatures above freezing a normal occurrence. occurs almost every winter. Winter extremes are at the coast and in the east of Lithuania. The average annual precipitation is on the coast, in Samogitia highlands and in the eastern part of the country. Snow occurs every year, it can be snowing from October to April. In some years sleet can fall in September or May. The growing season lasts 202 days in the western part of the country and 169 days in the eastern part. Severe storms are rare in the eastern part of Lithuania and common nearer the coast.
 

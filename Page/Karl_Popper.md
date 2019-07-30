@@ -1,4 +1,4 @@
-Karl_Popper_(1902-1994),_Nr._104_bust_(bronce)_in_the_Arkadenhof_of_the_University_of_Vienna-2485.jpg SIR KARL RAIMUND POPPER [1] (28 July 1902 – 17 September 1994) was an Austrian philosopher and professor.[2][3][4]
+SIR KARL RAIMUND POPPER [1] (28 July 1902 – 17 September 1994) was an Austrian philosopher and professor.[2][3][4]
 
 Generally regarded as one of the 20th century's greatest philosophers of science,[5][6][7] Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. A theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can and should be scrutinised by decisive experiments. Popper is also known for his opposition to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely "the first non-justificational philosophy of criticism in the history of philosophy".[8]
 
@@ -23,14 +23,14 @@ In 1937, Popper finally managed to get a position that allowed him to emigrate t
 
 Death
 
-Popper_gravesite.jpg, Austria]] Popper died of "complications of cancer, pneumonia and kidney failure" in Kenley at the age of 92 on 17 September 1994.[27][28] He had been working continuously on his philosophy until two weeks before, when he suddenly fell terminally ill.[29] After cremation, his ashes were taken to Vienna and buried at Lainzer cemetery adjacent to the ORF Centre, where his wife Josefine Anna Popper (called 'Hennie') had already been buried.[30] Popper's estate is managed by his secretary and personal assistant Melitta Mew and her husband Raymond. Popper's manuscripts went to the Hoover Institution at Stanford University, partly during his lifetime and partly as supplementary material after his death. Klagenfurt University has Popper's library, including his precious bibliophilia, as well as hard copies of the original Hoover material and microfilms of the supplementary material. The remaining parts of the estate were mostly transferred to The Karl Popper Charitable Trust.[31] In October 2008 Klagenfurt University acquired the copyrights from the estate.
+, Austria]] Popper died of "complications of cancer, pneumonia and kidney failure" in Kenley at the age of 92 on 17 September 1994.[27][28] He had been working continuously on his philosophy until two weeks before, when he suddenly fell terminally ill.[29] After cremation, his ashes were taken to Vienna and buried at Lainzer cemetery adjacent to the ORF Centre, where his wife Josefine Anna Popper (called 'Hennie') had already been buried.[30] Popper's estate is managed by his secretary and personal assistant Melitta Mew and her husband Raymond. Popper's manuscripts went to the Hoover Institution at Stanford University, partly during his lifetime and partly as supplementary material after his death. Klagenfurt University has Popper's library, including his precious bibliophilia, as well as hard copies of the original Hoover material and microfilms of the supplementary material. The remaining parts of the estate were mostly transferred to The Karl Popper Charitable Trust.[31] In October 2008 Klagenfurt University acquired the copyrights from the estate.
 
 Popper and his wife had chosen not to have children because of the circumstances of war in the early years of their marriage. Popper commented that this "was perhaps a cowardly but in a way a right decision".[32]
 
 
 Honours and awards
 
-Popper_and_Hoschl.jpg. while receiving the Honorary Doctor's degree of Charles University in Prague in May 1994]]
+. while receiving the Honorary Doctor's degree of Charles University in Prague in May 1994]]
 
 Popper won many awards and honours in his field, including the Lippincott Award of the American Political Science Association, the Sonning Prize, the Otto Hahn Peace Medal of the United Nations Association of Germany in Berlin and fellowships in the Royal Society,[33] British Academy, London School of Economics, King's College London, Darwin College, Cambridge, Austrian Academy of Sciences and Charles University, Prague. Austria awarded him the Grand Decoration of Honour in Gold for Services to the Republic of Austria in 1986, and the Federal Republic of Germany its Grand Cross with Star and Sash of the Order of Merit, and the peace class of the Order Pour le Mérite. He received the Humanist Laureate Award from the International Academy of Humanism.[34] He was knighted by Queen Elizabeth II in 1965,[35] and was elected a Fellow of the Royal Society in 1976.[36] He was invested with the Insignia of a Companion of Honour in 1982.[37]
 
@@ -173,8 +173,6 @@ In an interview[74] that Popper gave in 1969 with the condition that it should b
 
 
 Influence
-
-Karl_Popper2.jpg
 
 Popper helped to establish the philosophy of science as an autonomous discipline within philosophy, through his own prolific and influential works, and also through his influence on his own contemporaries and students. Popper founded in 1946 the Department of Philosophy, Logic and Scientific Method at the London School of Economics and there lectured and influenced both Imre Lakatos and Paul Feyerabend, two of the foremost philosophers of science in the next generation of philosophy of science. (Lakatos significantly modified Popper's position,[78] and Feyerabend repudiated it entirely, but the work of both is deeply influenced by Popper and engaged with many of the problems that Popper set.)
 

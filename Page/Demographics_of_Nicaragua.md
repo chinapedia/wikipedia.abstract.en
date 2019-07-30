@@ -26,8 +26,6 @@ The Census Bureau in Nicaragua is the National Institute of Statistics and Censu
 
 Population
 
-Nicaragua-demography.png Nicaragua_boys.jpg
-
 According to the total population was in , compared to only 1,295,000 in 1950. The proportion of children below the age of 15 in 2010 was 34.5%, 60.9% was between 15 and 65 years of age, while 4.6% was 65 years or older .[4]
 
 +------+------------------+------------+------------+------------+
@@ -103,30 +101,29 @@ Ninety percent of Nicaraguans live in the Pacific lowlands and the adjacent inte
 
 Departments by population
 
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| Rank | City       | Department    | Pop.      | Rank | City       | Department   | Pop.             |                                      |
-+:====:+:==========:+:=============:+:=========:+:====:+:==========:+:============:+:================:+======================================+
-| 1    | MANAGUA    | Managua       | 1,262,978 | 10   | ESTELÍ     | Estelí       | 201,548          |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 2    | MATAGALPA  | Matagalpa     | 469,172   | 11   | GRANADA    | Granada      | 168,186          |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 3    | CHINANDEGA | Chinandega    | 378,970   | 12   | JINOTEPE   | Carazo       | 166,073          |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 4    | LEÓN       | León          | 355,779   | 13   | RIVAS      | Rivas        | 156,283          | Managua                              |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 5    | JINOTEGA   | Jinotega      | 331,335   | 14   | JUIGALPA   | Chontales    | 153,932          | Town_Square_-_Granada,_Nicaragua.JPG |
-|      |            |               |           |      |            |              |                  | Granada                              |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 6    | BILWI      | RAAN          | 314,130   | 15   | BOACO      | Boaco        | 150,636          |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 7    | BLUEFIELDS | RAAS          | 306,510   | 16   | SOMOTO     | Madriz       | 132,459          |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 8    | MASAYA     | Masaya        | 289,988   | 17   | SAN CARLOS | Río San Juan | 95,596           |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-| 9    | OCOTAL     | Nueva Segovia | 208,523   | 18   | TOTAL      | --           | 5,142,098 (2005) |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
-|      |            |               |           |      |            |              |                  |                                      |
-+------+------------+---------------+-----------+------+------------+--------------+------------------+--------------------------------------+
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| Rank | City       | Department    | Pop.      | Rank | City       | Department   | Pop.             |         |
++:====:+:==========:+:=============:+:=========:+:====:+:==========:+:============:+:================:+=========+
+| 1    | MANAGUA    | Managua       | 1,262,978 | 10   | ESTELÍ     | Estelí       | 201,548          |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 2    | MATAGALPA  | Matagalpa     | 469,172   | 11   | GRANADA    | Granada      | 168,186          |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 3    | CHINANDEGA | Chinandega    | 378,970   | 12   | JINOTEPE   | Carazo       | 166,073          |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 4    | LEÓN       | León          | 355,779   | 13   | RIVAS      | Rivas        | 156,283          | Managua |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 5    | JINOTEGA   | Jinotega      | 331,335   | 14   | JUIGALPA   | Chontales    | 153,932          | Granada |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 6    | BILWI      | RAAN          | 314,130   | 15   | BOACO      | Boaco        | 150,636          |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 7    | BLUEFIELDS | RAAS          | 306,510   | 16   | SOMOTO     | Madriz       | 132,459          |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 8    | MASAYA     | Masaya        | 289,988   | 17   | SAN CARLOS | Río San Juan | 95,596           |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+| 9    | OCOTAL     | Nueva Segovia | 208,523   | 18   | TOTAL      | --           | 5,142,098 (2005) |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
+|      |            |               |           |      |            |              |                  |         |
++------+------------+---------------+-----------+------+------------+--------------+------------------+---------+
 
 
 Vital statistics
@@ -159,7 +156,7 @@ Ethnic groups
 
 In the 19th century, there had been a substantial indigenous minority, but this group was also largely assimilated culturally into the mestizo majority. Primarily in the 19th century, Nicaragua saw several waves of immigration from other European nations. In particular the northern cities of Estelí, Jinotega and Matagalpa have significant fourth generation Germans. Most of Nicaragua's population lives in the western region of the country in the departments of Managua, Granada and Léon.
 
-Afro-Nica.jpg.]]
+.]]
 
 According to the 2005 census 443,847 (8.6%) residents consider themselves to belong to an indigenous people or to an ethnic community.[10] The remaining majority of the Nicaraguan population (91.6%) are deemed mestizo and white, with the majority of these being of Spanish, with some German, Italian, Portuguese and French ancestry. Mestizos and whites mainly reside in the western region of the country.
 
@@ -185,8 +182,6 @@ In the 19th century, there was still a substantial indigenous minority, but this
 Immigration
 
 Relative to its overall population, Nicaragua has never experienced any large scale wave of immigrants. The total number of immigrants to Nicaragua, both originating from other Latin American countries and all other countries, never surpassed 1% of its total population prior to 1995. The 2005 census showed the foreign-born population at 1.2%, having risen a mere .06% in 10 years.[12] However, in the 19th century, Nicaragua received immigrants from Europe, who established many agricultural businesses such as coffee and sugar cane plantations, and also newspapers, hotels and banks.
-
-DeutscheClub.JPG
 
 Emigration
 

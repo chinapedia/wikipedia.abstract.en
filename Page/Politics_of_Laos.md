@@ -20,7 +20,7 @@ In the early 2000s, bomb attacks against the government occurred, coupled with s
 
 Executive branch
 
-2013_Presidential_palace_Vientiane.jpg.]]
+.]]
 
 |President |Bounnhang Vorachith |Lao People's Revolutionary Party |20 April 2016 |- |Prime Minister |Thongloun Sisoulith |Lao People's Revolutionary Party |20 April 2016 |} The president is elected by the National Assembly for a five-year term. The prime minister and the Council of Ministers are appointed by the president with the approval of the National Assembly for a five-year term.
 
@@ -57,8 +57,6 @@ Government
 -   Foreign Affairs Saleumxay Kommasith
 -   Home Affairs (Interior) Khammanh Sounvileuth
 -   Industry and Commerce Khemmani Pholsena
-
-Bosengkham_Vongdara_(2019).jpg
 
 -   Information, Culture and Tourism Bosengkham Vongdara
 -   Justice Saysi Santhivong

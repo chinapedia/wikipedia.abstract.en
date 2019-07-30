@@ -1,4 +1,4 @@
-A_Mind_Map_on_ICT_and_Pedagogy.jpg A MIND MAP is a diagram used to visually organize information. A mind map is hierarchical and shows relationships among pieces of the whole.[1] It is often created around a single concept, drawn as an image in the center of a blank page, to which associated representations of ideas such as images, words and parts of words are added. Major ideas are connected directly to the central concept, and other ideas branch out from those major ideas.
+A MIND MAP is a diagram used to visually organize information. A mind map is hierarchical and shows relationships among pieces of the whole.[1] It is often created around a single concept, drawn as an image in the center of a blank page, to which associated representations of ideas such as images, words and parts of words are added. Major ideas are connected directly to the central concept, and other ideas branch out from those major ideas.
 
 Mind maps can also be drawn by hand, either as "rough notes" during a lecture, meeting or planning session, for example, or as higher quality pictures when more time is available. Mind maps are considered to be a type of spider diagram.[2] A similar concept in the 1970s was "idea sun bursting".[3]
 
@@ -34,7 +34,7 @@ Buzan suggests the following guidelines for creating mind maps:
 
 Uses
 
-Mindmap.gif As with other diagramming tools, mind maps can be used to generate, visualize, structure, and classify ideas, and as an aid to studying[7] and organizing information, solving problems, making decisions, and writing.
+As with other diagramming tools, mind maps can be used to generate, visualize, structure, and classify ideas, and as an aid to studying[7] and organizing information, solving problems, making decisions, and writing.
 
 Mind maps have many applications in personal, family, educational, and business situations, including notetaking, brainstorming (wherein ideas are inserted into the map radially around the center node, without the implicit prioritization that comes from hierarchy or sequential arrangements, and wherein grouping and organizing is reserved for later stages), summarizing, as a mnemonic technique, or to sort out a complicated idea. Mind maps are also promoted as a way to collaborate in color pen creativity sessions.
 

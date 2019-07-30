@@ -38,8 +38,6 @@ The antibodies found in LEMS associated with lung cancer also bind to calcium ch
 
 Diagnosis
 
-Thorax_pa_peripheres_Bronchialcarcinom_li_OF_markiert.jpg
-
 The diagnosis is usually made with nerve conduction study (NCS) and electromyography (EMG), which is one of the standard tests in the investigation of otherwise unexplained muscle weakness. EMG involves the insertion of small needles into the muscles. NCS involves administering small electrical impulses to the nerves, on the surface of the skin, and measuring the electrical response of the muscle in question. NCS investigation in LEMS primarily involves evaluation of compound motor action potentials (CMAPs) of effected muscles and sometimes EMG single-fiber examination can be used.[36]
 
 CMAPs show small amplitudes but normal latency and conduction velocities. If repeated impulses are administered (2 per second or 2 Hz), it is normal for CMAP amplitudes to become smaller as the acetylcholine in the motor end plate is depleted. In LEMS, this decrease is larger than observed normally. Eventually, stored acetylcholine is made available, and the amplitudes increase again. In LEMS, this remains insufficient to reach a level sufficient for transmission of an impulse from nerve to muscle; all can be attributed to insufficient calcium in the nerve terminal. A similar pattern is witnessed in myasthenia gravis. In LEMS, in response to exercising the muscle, the CMAP amplitude increases greatly (over 200%, often much more). This also occurs on the administration of a rapid burst of electrical stimuli (20 impulses per second for 10 seconds). This is attributed to the influx of calcium in response to these stimuli.[37][38] On single-fiber examination, features may include increased jitter (seen in other diseases of neuromuscular transmission) and blocking.[39]
@@ -49,7 +47,7 @@ Blood tests may be performed to exclude other causes of muscle disease (elevated
 
 Treatment
 
-Diaminopyridine.png If LEMS is caused by an underlying cancer, treatment of the cancer usually leads to resolution of the symptoms.[44] Treatment usually consists of chemotherapy, with radiation therapy in those with limited disease.[45]
+If LEMS is caused by an underlying cancer, treatment of the cancer usually leads to resolution of the symptoms.[44] Treatment usually consists of chemotherapy, with radiation therapy in those with limited disease.[45]
 
 Immunosuppression
 

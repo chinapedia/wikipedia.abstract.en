@@ -21,7 +21,7 @@ Paraguay became the site of radical and progressive colonies inspired by politic
 
 Population
 
-Paraguay-demography.png, year 2005 ; Number of inhabitants in thousands.]] Paraguay_population_density.png According to the total population was in , compared to only 1,473,000 in 1950. The proportion of children below the age of 15 in 2010 was 33.5%, 61.4% was between 15 and 65 years of age, while 5.1% was 65 years or older .[5]
+, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 1,473,000 in 1950. The proportion of children below the age of 15 in 2010 was 33.5%, 61.4% was between 15 and 65 years of age, while 5.1% was 65 years or older .[5]
 
 +------+------------------+------------+------------+------------+
 |      | Total population | Proportion | Proportion | Proportion |

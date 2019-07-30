@@ -1,4 +1,4 @@
-Josh_Kirby.jpg RONALD WILLIAM "JOSH" KIRBY (27 November 1928 – 23 October 2001) was a commercial artist born on the outskirts of Liverpool in the town of Waterloo, Lancashire, in the U.K. With a career spanning 60 years, he is known for being the original artist for Terry Pratchett's Discworld novels, as well as some of science fiction's most acclaimed book cover illustrations.
+RONALD WILLIAM "JOSH" KIRBY (27 November 1928 – 23 October 2001) was a commercial artist born on the outskirts of Liverpool in the town of Waterloo, Lancashire, in the U.K. With a career spanning 60 years, he is known for being the original artist for Terry Pratchett's Discworld novels, as well as some of science fiction's most acclaimed book cover illustrations.
 
 
 Early life
@@ -14,7 +14,7 @@ After leaving art school, Liverpool City Council commissioned him to paint the M
 
 Career
 
-Equal_Rites_full.jpg by Josh Kirby]] His professional freelance career started in the early 1950s when Kirby illustrated film posters for studios in both London and Paris. His first published cover art was for the 1955 science fiction novel _Cee-Tee Man_, by Dan Morgan. His next milestone was in 1956 when he created a cover for Ian Fleming's book, _Moonraker_.
+by Josh Kirby]] His professional freelance career started in the early 1950s when Kirby illustrated film posters for studios in both London and Paris. His first published cover art was for the 1955 science fiction novel _Cee-Tee Man_, by Dan Morgan. His next milestone was in 1956 when he created a cover for Ian Fleming's book, _Moonraker_.
 
 Kirby began to produce artwork for book covers ranging from westerns and crime novels to non-fiction, as well as painting covers and interior art for science fiction magazines. His illustrations appear on the covers of some of the literary science fiction, fantasy and horror books of the 50s, 60s, 70s and 80s. The list of authors includes Ray Bradbury, Isaac Asimov, Alfred Hitchcock, Guy de Maupassant, Jimmy Sangster, Richard Matheson, Ursula Le Guin, Jack Kerouac, Jules Verne, Edgar Rice Burroughs, Robert Heinlein, H. G. Wells, Robert Rankin, Craig Shaw Gardner, Stephen Briggs, Ron Goulart, Brian Aldiss as well as Terry Pratchett.
 

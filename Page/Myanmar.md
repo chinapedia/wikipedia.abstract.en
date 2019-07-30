@@ -47,7 +47,7 @@ History
 
 Prehistory
 
-Pyu_Realm.png c. 8th century; Pagan is shown for comparison only and is not contemporary.]] Archaeological evidence shows that _Homo erectus_ lived in the region now known as Myanmar as early as 750,000 years ago, with no more _erectus_ finds after 75,000 years ago.[43] The first evidence of _Homo sapiens_ is dated to about 25,000 BP with discoveries of stone tools in central Myanmar.[44] Evidence of Neolithic age domestication of plants and animals and the use of polished stone tools dating to sometime between 10,000 and 6,000 BC has been discovered in the form of cave paintings in Padah-Lin Caves.[45]
+c. 8th century; Pagan is shown for comparison only and is not contemporary.]] Archaeological evidence shows that _Homo erectus_ lived in the region now known as Myanmar as early as 750,000 years ago, with no more _erectus_ finds after 75,000 years ago.[43] The first evidence of _Homo sapiens_ is dated to about 25,000 BP with discoveries of stone tools in central Myanmar.[44] Evidence of Neolithic age domestication of plants and animals and the use of polished stone tools dating to sometime between 10,000 and 6,000 BC has been discovered in the form of cave paintings in Padah-Lin Caves.[45]
 
 The Bronze Age arrived _circa_ 1500 BC when people in the region were turning copper into bronze, growing rice and domesticating poultry and pigs; they were among the first people in the world to do so.[46] Human remains and artefacts from this era were discovered in Monywa District in the Sagaing Division.[47] The Iron Age began around 500 BC with the emergence of iron-working settlements in an area south of present-day Mandalay.[48] Evidence also shows the presence of rice-growing settlements of large villages and small towns that traded with their surroundings as far as China between 500 BC and 200 AD.[49] Iron Age Burmese cultures also had influences from outside sources such as India and Thailand, as seen in their funerary practices concerning child burials. This indicates some form of communication between groups in Myanmar and other places, possibly through trade.[50]
 
@@ -59,11 +59,11 @@ By the 9th century, several city-states had sprouted across the land: the Pyu in
 
 Imperial Burma
 
-Bagan,_Burma.jpgs and kyaungs in present-day Bagan, the capital of the Pagan Kingdom.]] Pagan gradually grew to absorb its surrounding states until the 1050s–1060s when Anawrahta founded the Pagan Kingdom, the first ever unification of the Irrawaddy valley and its periphery. In the 12th and 13th centuries, the Pagan Empire and the Khmer Empire were two main powers in mainland Southeast Asia.[54] The Burmese language and culture gradually became dominant in the upper Irrawaddy valley, eclipsing the Pyu, Mon and Pali norms by the late 12th century.[55]
+s and kyaungs in present-day Bagan, the capital of the Pagan Kingdom.]] Pagan gradually grew to absorb its surrounding states until the 1050s–1060s when Anawrahta founded the Pagan Kingdom, the first ever unification of the Irrawaddy valley and its periphery. In the 12th and 13th centuries, the Pagan Empire and the Khmer Empire were two main powers in mainland Southeast Asia.[54] The Burmese language and culture gradually became dominant in the upper Irrawaddy valley, eclipsing the Pyu, Mon and Pali norms by the late 12th century.[55]
 
 Theravada Buddhism slowly began to spread to the village level, although Tantric, Mahayana, Hinduism, and folk religion remained heavily entrenched. Pagan's rulers and wealthy built over 10,000 Buddhist temples in the Pagan capital zone alone. Repeated Mongol invasions (1277–1301) toppled the four-century-old kingdom in 1287.[56]
 
-MysticalMraukU.jpg.]] Pagan's collapse was followed by 250 years of political fragmentation that lasted well into the 16th century. Like the Burmans four centuries earlier, Shan migrants who arrived with the Mongol invasions stayed behind. Several competing Shan States came to dominate the entire northwestern to eastern arc surrounding the Irrawaddy valley. The valley too was beset with petty states until the late 14th century when two sizeable powers, Ava Kingdom and Hanthawaddy Kingdom, emerged. In the west, a politically fragmented Arakan was under competing influences of its stronger neighbours until the Kingdom of Mrauk U unified the Arakan coastline for the first time in 1437. The kingdom was a protectorate of the Bengal Sultanate at different time periods.[57]
+.]] Pagan's collapse was followed by 250 years of political fragmentation that lasted well into the 16th century. Like the Burmans four centuries earlier, Shan migrants who arrived with the Mongol invasions stayed behind. Several competing Shan States came to dominate the entire northwestern to eastern arc surrounding the Irrawaddy valley. The valley too was beset with petty states until the late 14th century when two sizeable powers, Ava Kingdom and Hanthawaddy Kingdom, emerged. In the west, a politically fragmented Arakan was under competing influences of its stronger neighbours until the Kingdom of Mrauk U unified the Arakan coastline for the first time in 1437. The kingdom was a protectorate of the Bengal Sultanate at different time periods.[57]
 
 Early on, Ava fought wars of unification (1385–1424) but could never quite reassemble the lost empire. Having held off Ava, the Mon-speaking Hanthawaddy entered its golden age, and Arakan went on to become a power in its own right for the next 350 years. In contrast, constant warfare left Ava greatly weakened, and it slowly disintegrated from 1481 onward. In 1527, the Confederation of Shan States conquered Ava itself, and ruled Upper Myanmar until 1555.
 
@@ -71,11 +71,11 @@ Like the Pagan Empire, Ava, Hanthawaddy and the Shan states were all multi-ethni
 
 Taungoo and colonialism
 
-Map_of_Taungoo_Empire_(1580).png under Bayinnaung in 1580.]] Political unification returned in the mid-16th century, due to the efforts of Taungoo, a former vassal state of Ava. Taungoo's young, ambitious king Tabinshwehti defeated the more powerful Hanthawaddy in the Toungoo–Hanthawaddy War (1534–41). His successor Bayinnaung went on to conquer a vast swath of mainland Southeast Asia including the Shan states, Lan Na, Manipur, Mong Mao, the Ayutthaya Kingdom, Lan Xang and southern Arakan. However, the largest empire in the history of Southeast Asia unravelled soon after Bayinnaung's death in 1581, completely collapsing by 1599. Ayutthaya seized Tenasserim and Lan Na, and Portuguese mercenaries established Portuguese rule at Thanlyin (Syriam).
+under Bayinnaung in 1580.]] Political unification returned in the mid-16th century, due to the efforts of Taungoo, a former vassal state of Ava. Taungoo's young, ambitious king Tabinshwehti defeated the more powerful Hanthawaddy in the Toungoo–Hanthawaddy War (1534–41). His successor Bayinnaung went on to conquer a vast swath of mainland Southeast Asia including the Shan states, Lan Na, Manipur, Mong Mao, the Ayutthaya Kingdom, Lan Xang and southern Arakan. However, the largest empire in the history of Southeast Asia unravelled soon after Bayinnaung's death in 1581, completely collapsing by 1599. Ayutthaya seized Tenasserim and Lan Na, and Portuguese mercenaries established Portuguese rule at Thanlyin (Syriam).
 
 The dynasty regrouped and defeated the Portuguese in 1613 and Siam in 1614. It restored a smaller, more manageable kingdom, encompassing Lower Myanmar, Upper Myanmar, Shan states, Lan Na and upper Tenasserim. The Restored Toungoo kings created a legal and political framework whose basic features would continue well into the 19th century. The crown completely replaced the hereditary chieftainships with appointed governorships in the entire Irrawaddy valley, and greatly reduced the hereditary rights of Shan chiefs. Its trade and secular administrative reforms built a prosperous economy for more than 80 years. From the 1720s onward, the kingdom was beset with repeated Meithei raids into Upper Myanmar and a nagging rebellion in Lan Na. In 1740, the Mon of Lower Myanmar founded the Restored Hanthawaddy Kingdom. Hanthawaddy forces sacked Ava in 1752, ending the 266-year-old Toungoo Dynasty.
 
-Shwedagon_pagoda.jpg shows British occupation during the First Anglo-Burmese War.]] After the fall of Ava, the Konbaung–Hanthawaddy War involved one resistance group under Alaungpaya defeating the Restored Hanthawaddy, and by 1759, he had reunited all of Myanmar and Manipur, and driven out the French and the British, who had provided arms to Hanthawaddy. By 1770, Alaungpaya's heirs had subdued much of Laos (1765) and fought and won the Burmese–Siamese War (1765–67) against Ayutthaya and the Sino-Burmese War (1765–69) against Qing China (1765–1769).[60]
+shows British occupation during the First Anglo-Burmese War.]] After the fall of Ava, the Konbaung–Hanthawaddy War involved one resistance group under Alaungpaya defeating the Restored Hanthawaddy, and by 1759, he had reunited all of Myanmar and Manipur, and driven out the French and the British, who had provided arms to Hanthawaddy. By 1770, Alaungpaya's heirs had subdued much of Laos (1765) and fought and won the Burmese–Siamese War (1765–67) against Ayutthaya and the Sino-Burmese War (1765–69) against Qing China (1765–1769).[60]
 
 With Burma preoccupied by the Chinese threat, Ayutthaya recovered its territories by 1770, and went on to capture Lan Na by 1776. Burma and Siam went to war until 1855, but all resulted in a stalemate, exchanging Tenasserim (to Burma) and Lan Na (to Ayutthaya). Faced with a powerful China and a resurgent Ayutthaya in the east, King Bodawpaya turned west, acquiring Arakan (1785), Manipur (1814) and Assam (1817). It was the second-largest empire in Burmese history but also one with a long ill-defined border with British India.[61]
 
@@ -87,7 +87,7 @@ British Burma (1824–1948)
 
 Burma in British India
 
-British_forces_arrival_mandalay1885.jpgs, which resulted in the abdication of the last Burmese monarch, King Thibaw Min.]] IND_004723.jpg on the Mawchi road, July 1944.]]
+s, which resulted in the abdication of the last Burmese monarch, King Thibaw Min.]] on the Mawchi road, July 1944.]]
 
 The eighteenth century saw Burmese rulers, whose country had not previously been of particular interest to European traders, seek to maintain their traditional influence in the western areas of Assam, Manipur and Arakan. Pressing them, however, was the British East India Company, which was expanding its interests eastwards over the same territory. Over the next sixty years, diplomacy, raids, treaties and compromises continued until, after three Anglo-Burmese Wars (1824–1885), Britain proclaimed control over most of Burma.[63] British rule brought social, economic, cultural and administrative changes.
 
@@ -107,7 +107,7 @@ Following World War II, Aung San negotiated the Panglong Agreement with ethnic l
 
 Independence (1948–1962)
 
-Sao_Shwe_Thaik_and_Hubert_Elvin_Rance.jpg and Sao Shwe Thaik at the flag raising ceremony on 4 January 1948 (Independence Day of Burma).]] On 4 January 1948, the nation became an independent republic, under the terms of the Burma Independence Act 1947. The new country was named the _Union of Burma_, with Sao Shwe Thaik as its first President and U Nu as its first Prime Minister. Unlike most other former British colonies and overseas territories, Burma did not become a member of the Commonwealth. A bicameral parliament was formed, consisting of a Chamber of Deputies and a Chamber of Nationalities,[73] and multi-party elections were held in 1951–1952, 1956 and 1960.
+and Sao Shwe Thaik at the flag raising ceremony on 4 January 1948 (Independence Day of Burma).]] On 4 January 1948, the nation became an independent republic, under the terms of the Burma Independence Act 1947. The new country was named the _Union of Burma_, with Sao Shwe Thaik as its first President and U Nu as its first Prime Minister. Unlike most other former British colonies and overseas territories, Burma did not become a member of the Commonwealth. A bicameral parliament was formed, consisting of a Chamber of Deputies and a Chamber of Nationalities,[73] and multi-party elections were held in 1951–1952, 1956 and 1960.
 
 The geographical area Burma encompasses today can be traced to the Panglong Agreement, which combined Burma Proper, which consisted of Lower Burma and Upper Burma, and the Frontier Areas, which had been administered separately by the British.[74]
 
@@ -121,15 +121,15 @@ On 2 March 1962, the military led by General Ne Win took control of Burma throug
 
 A new constitution of the Socialist Republic of the Union of Burma was adopted in 1974. Until 1988, the country was ruled as a one-party system, with the General and other military officers resigning and ruling through the Burma Socialist Programme Party (BSPP).[78] During this period, Myanmar became one of the world's most impoverished countries.[79]
 
-8888_Uprising.jpg, 1988.]] There were sporadic protests against military rule during the Ne Win years and these were almost always violently suppressed. On 7 July 1962, the government broke up demonstrations at Rangoon University, killing 15 students.[80] In 1974, the military violently suppressed anti-government protests at the funeral of U Thant. Student protests in 1975, 1976, and 1977 were quickly suppressed by overwhelming force.[81]
+, 1988.]] There were sporadic protests against military rule during the Ne Win years and these were almost always violently suppressed. On 7 July 1962, the government broke up demonstrations at Rangoon University, killing 15 students.[80] In 1974, the military violently suppressed anti-government protests at the funeral of U Thant. Student protests in 1975, 1976, and 1977 were quickly suppressed by overwhelming force.[81]
 
 In 1988, unrest over economic mismanagement and political oppression by the government led to widespread pro-democracy demonstrations throughout the country known as the 8888 Uprising. Security forces killed thousands of demonstrators, and General Saw Maung staged a coup d'état and formed the State Law and Order Restoration Council (SLORC). In 1989, SLORC declared martial law after widespread protests. The military government finalised plans for People's Assembly elections on 31 May 1989.[82] SLORC changed the country's official English name from the "Socialist Republic of the Union of Burma" to the "Union of Myanmar" in 18 June 1989 by enacting the adaptation of the expression law.
 
 In May 1990, the government held free elections for the first time in almost 30 years and the National League for Democracy (NLD), the party of Aung San Suu Kyi, won 392 out of a total 492 seats (i.e., 80% of the seats). However, the military junta refused to cede power[83] and continued to rule the nation as SLORC until 1997, and then as the State Peace and Development Council (SPDC) until its dissolution in March 2011.
 
-2007_Myanmar_protests_7.jpg during the 2007 Saffron Revolution with a banner that reads _non-violence: national movement_ in Burmese. In the background is Shwedagon Pagoda.]] On 23 June 1997, Myanmar was admitted into the Association of Southeast Asian Nations (ASEAN). On 27 March 2006, the military junta, which had moved the national capital from Yangon to a site near Pyinmana in November 2005, officially named the new capital Naypyidaw, meaning "city of the kings".[84]
+during the 2007 Saffron Revolution with a banner that reads _non-violence: national movement_ in Burmese. In the background is Shwedagon Pagoda.]] On 23 June 1997, Myanmar was admitted into the Association of Southeast Asian Nations (ASEAN). On 27 March 2006, the military junta, which had moved the national capital from Yangon to a site near Pyinmana in November 2005, officially named the new capital Naypyidaw, meaning "city of the kings".[84]
 
-Cyclone_Nargis_-Myanmar-3May2008.jpg in southern Myanmar, May 2008.]] In August 2007, an increase in the price of fuel led to the Saffron Revolution led by Buddhist monks that were dealt with harshly by the government.[85] The government cracked down on them on 26 September 2007. The crackdown was harsh, with reports of barricades at the Shwedagon Pagoda and monks killed. There were also rumours of disagreement within the Burmese armed forces, but none was confirmed. The military crackdown against unarmed protesters was widely condemned as part of the international reactions to the Saffron Revolution and led to an increase in economic sanctions against the Burmese Government.
+in southern Myanmar, May 2008.]] In August 2007, an increase in the price of fuel led to the Saffron Revolution led by Buddhist monks that were dealt with harshly by the government.[85] The government cracked down on them on 26 September 2007. The crackdown was harsh, with reports of barricades at the Shwedagon Pagoda and monks killed. There were also rumours of disagreement within the Burmese armed forces, but none was confirmed. The military crackdown against unarmed protesters was widely condemned as part of the international reactions to the Saffron Revolution and led to an increase in economic sanctions against the Burmese Government.
 
 In May 2008, Cyclone Nargis caused extensive damage in the densely populated, rice-farming delta of the Irrawaddy Division.[86] It was the worst natural disaster in Burmese history with reports of an estimated 200,000 people dead or missing, damage totalled to 10 billion US dollars, and as many as 1 million left homeless.[87] In the critical days following this disaster, Myanmar's isolationist government was accused of hindering United Nations recovery efforts.[88] Humanitarian aid was requested but concerns about foreign military or intelligence presence in the country delayed the entry of United States military planes delivering medicine, food, and other supplies.[89]
 
@@ -145,7 +145,7 @@ Armed conflict between ethnic Chinese rebels and the Myanmar Armed Forces have r
 
 Democratic reforms
 
-The goal of the Burmese constitutional referendum of 2008, held on 10 May 2008, is the creation of a "discipline-flourishing democracy". As part of the referendum process, the name of the country was changed from the "Union of Myanmar" to the "Republic of the Union of Myanmar", and general elections were held under the new constitution in 2010. Observer accounts of the 2010 election describe the event as mostly peaceful; however, allegations of polling station irregularities were raised, and the United Nations (UN) and a number of Western countries condemned the elections as fraudulent.[107] Barack_Obama_and_Hillary_Clinton_at_home_of_Aung_San_Suu_Kyi.jpg and Secretary of State Hillary Clinton with Aung San Suu Kyi and her staff at her home in Yangon, 2012]]
+The goal of the Burmese constitutional referendum of 2008, held on 10 May 2008, is the creation of a "discipline-flourishing democracy". As part of the referendum process, the name of the country was changed from the "Union of Myanmar" to the "Republic of the Union of Myanmar", and general elections were held under the new constitution in 2010. Observer accounts of the 2010 election describe the event as mostly peaceful; however, allegations of polling station irregularities were raised, and the United Nations (UN) and a number of Western countries condemned the elections as fraudulent.[107] and Secretary of State Hillary Clinton with Aung San Suu Kyi and her staff at her home in Yangon, 2012]]
 
 The military-backed Union Solidarity and Development Party declared victory in the 2010 elections, stating that it had been favoured by 80 percent of the votes; however, the claim was disputed by numerous pro-democracy opposition groups who asserted that the military regime had engaged in rampant fraud.[108][109] One report documented 77 percent as the official turnout rate of the election.[110] The military junta was dissolved on 30 March 2011.
 
@@ -155,7 +155,7 @@ Since the 2010 election, the government has embarked on a series of reforms to d
 
 The impact of the post-election reforms has been observed in numerous areas, including ASEAN's approval of Myanmar's bid for the position of ASEAN chair in 2014;[113] the visit by United States Secretary of State Hillary Clinton in December 2011 for the encouragement of further progress, which was the first visit by a Secretary of State in more than fifty years,[114] during which Clinton met with the Burmese president and former military commander Thein Sein, as well as opposition leader Aung San Suu Kyi;[115] and the participation of Aung San Suu Kyi's National League for Democracy (NLD) party in the 2012 by-elections, facilitated by the government's abolition of the laws that previously barred the NLD.[116] As of July 2013, about 100[117][118] political prisoners remain imprisoned, while conflict between the Burmese Army and local insurgent groups continues.
 
-Burma_en.png, Kachin State, Rakhine State and Karen State.]] In 1 April 2012 by-elections, the NLD won 43 of the 45 available seats; previously an illegal organisation, the NLD had not won a single seat under new constitution. The 2012 by-elections were also the first time that international representatives were allowed to monitor the voting process in Myanmar.[119]
+, Kachin State, Rakhine State and Karen State.]] In 1 April 2012 by-elections, the NLD won 43 of the 45 available seats; previously an illegal organisation, the NLD had not won a single seat under new constitution. The 2012 by-elections were also the first time that international representatives were allowed to monitor the voting process in Myanmar.[119]
 
 2015 general elections
 
@@ -166,7 +166,7 @@ The new parliament convened on 1 February 2016[121] and, on 15 March 2016, Htin 
 
 Geography
 
-Un-myanmar.png Koppen-Geiger_Map_MMR_present.svg Myanmar has a total area of . It lies between latitudes 9° and 29°N, and longitudes 92° and 102°E. As of February 2011, Myanmar consisted of 14 states and regions, 67 districts, 330 townships, 64 sub-townships, 377 towns, 2,914 Wards, 14,220 village tracts and 68,290 villages.
+Myanmar has a total area of . It lies between latitudes 9° and 29°N, and longitudes 92° and 102°E. As of February 2011, Myanmar consisted of 14 states and regions, 67 districts, 330 townships, 64 sub-townships, 377 towns, 2,914 Wards, 14,220 village tracts and 68,290 villages.
 
 Myanmar is bordered in the northwest by the Chittagong Division of Bangladesh and the Mizoram, Manipur, Nagaland and Arunachal Pradesh states of India. Its north and northeast border is with the Tibet Autonomous Region and Yunnan for a Sino-Myanmar border total of . It is bounded by Laos and Thailand to the southeast. Myanmar has of contiguous coastline along the Bay of Bengal and Andaman Sea to the southwest and the south, which forms one quarter of its total perimeter.[123]
 
@@ -217,7 +217,7 @@ Below are the number of districts, townships, cities/towns, wards, village group
 
 Climate
 
-MonStateMudon.jpg.]] Much of the country lies between the Tropic of Cancer and the Equator. It lies in the monsoon region of Asia, with its coastal regions receiving over of rain annually. Annual rainfall in the delta region is approximately , while average annual rainfall in the Dry Zone in central Myanmar is less than . The Northern regions of Myanmar are the coolest, with average temperatures of . Coastal and delta regions have an average maximum temperature of .[130]
+.]] Much of the country lies between the Tropic of Cancer and the Equator. It lies in the monsoon region of Asia, with its coastal regions receiving over of rain annually. Annual rainfall in the delta region is approximately , while average annual rainfall in the Dry Zone in central Myanmar is less than . The Northern regions of Myanmar are the coolest, with average temperatures of . Coastal and delta regions have an average maximum temperature of .[130]
 
 Environment
 
@@ -234,7 +234,7 @@ Typical jungle animals, particularly tigers, occur sparsely in Myanmar. In upper
 
 Government and politics
 
-Myanmar-Lower-House-Parliament.jpg (Pyidaungsu Hluttaw)]] The constitution of Myanmar, its third since independence, was drafted by its military rulers and published in September 2008. The country is governed as a parliamentary system with a bicameral legislature (with an executive President accountable to the legislature), with 25% of the legislators appointed by the military and the rest elected in general elections.
+(Pyidaungsu Hluttaw)]] The constitution of Myanmar, its third since independence, was drafted by its military rulers and published in September 2008. The country is governed as a parliamentary system with a bicameral legislature (with an executive President accountable to the legislature), with 25% of the legislators appointed by the military and the rest elected in general elections.
 
 The legislature, called the Pyidaungsu Hluttaw, is bicameral and made up of two houses: the 224-seat upper house Amyotha Hluttaw (House of Nationalities) and the 440-seat lower house Pyithu Hluttaw (House of Representatives). The upper house consists of 224 members, of whom 168 are directly elected and 56 are appointed by the Burmese Armed Forces. The lower house consists of 440 members, of whom 330 are directly elected and 110 are appointed by the armed forces.
 
@@ -252,7 +252,7 @@ Myanmar rates as a corrupt nation on the Corruption Perceptions Index with a ran
 
 Foreign relations
 
-Obama-thein-sein.jpg in Yangon, 2012.]] Though the country's foreign relations, particularly with Western nations, have historically been strained, the situation has markedly improved since the reforms following the 2010 elections. After years of diplomatic isolation and economic and military sanctions,[148] the United States relaxed curbs on foreign aid to Myanmar in November 2011[149] and announced the resumption of diplomatic relations on 13 January 2012[150] The European Union has placed sanctions on Myanmar, including an arms embargo, cessation of trade preferences, and suspension of all aid with the exception of humanitarian aid.[151] U_Thant_(1963).jpg, U Thant (1961–1971)]]
+in Yangon, 2012.]] Though the country's foreign relations, particularly with Western nations, have historically been strained, the situation has markedly improved since the reforms following the 2010 elections. After years of diplomatic isolation and economic and military sanctions,[148] the United States relaxed curbs on foreign aid to Myanmar in November 2011[149] and announced the resumption of diplomatic relations on 13 January 2012[150] The European Union has placed sanctions on Myanmar, including an arms embargo, cessation of trade preferences, and suspension of all aid with the exception of humanitarian aid.[151] , U Thant (1961–1971)]]
 
 Sanctions imposed by the United States and European countries against the former military government, coupled with boycotts and other direct pressure on corporations by supporters of the democracy movement, have resulted in the withdrawal from the country of most US and many European companies.[152] On 13 April 2012 British Prime Minister David Cameron called for the economic sanctions on Myanmar to be suspended in the wake of the pro-democracy party gaining 43 seats out of a possible 45 in the 2012 by-elections with the party leader, Aung San Suu Kyi becoming a member of the Burmese parliament.[153]
 
@@ -268,7 +268,7 @@ In July 2019, UN ambassadors of 37 countries, including Myanmar, have signed a j
 
 Military
 
-Myanmar_Air_Force_MiG-29_MRD.jpg Mikoyan MiG-29 multirole fighter.]] Myanmar has received extensive military aid from China in the past.[166] Myanmar has been a member of ASEAN since 1997. Though it gave up its turn to hold the ASEAN chair and host the ASEAN Summit in 2006, it chaired the forum and hosted the summit in 2014.[167] In November 2008, Myanmar's political situation with neighbouring Bangladesh became tense as they began searching for natural gas in a disputed block of the Bay of Bengal.[168] Controversy surrounding the Rohingya population also remains an issue between Bangladesh and Myanmar.[169]
+Mikoyan MiG-29 multirole fighter.]] Myanmar has received extensive military aid from China in the past.[166] Myanmar has been a member of ASEAN since 1997. Though it gave up its turn to hold the ASEAN chair and host the ASEAN Summit in 2006, it chaired the forum and hosted the summit in 2014.[167] In November 2008, Myanmar's political situation with neighbouring Bangladesh became tense as they began searching for natural gas in a disputed block of the Bay of Bengal.[168] Controversy surrounding the Rohingya population also remains an issue between Bangladesh and Myanmar.[169]
 
 Myanmar's armed forces are known as the Tatmadaw, which numbers 488,000. The Tatmadaw comprises the Army, the Navy, and the Air Force. The country ranked twelfth in the world for its number of active troops in service.[170] The military is very influential in Myanmar, with all top cabinet and ministry posts usually held by military officials. Official figures for military spending are not available. Estimates vary widely because of uncertain exchange rates, but Myanmar's military forces' expenses are high.[171] Myanmar imports most of its weapons from Russia, Ukraine, China and India.
 
@@ -276,13 +276,13 @@ Myanmar is building a research nuclear reactor near Pyin Oo Lwin with help from 
 
 In 2010 as part of the Wikileaks leaked cables, Myanmar was suspected of using North Korean construction teams to build a fortified Surface-to-Air Missile facility.[174]
 
-Until 2005, the United Nations General Assembly annually adopted a detailed resolution about the situation in Myanmar by consensus.[175][176][177][178] But in 2006 a divided United Nations General Assembly voted through a resolution that strongly called upon the government of Myanmar to end its systematic violations of human rights.[179] In January 2007, Russia and China vetoed a draft resolution before the United Nations Security Council[180] calling on the government of Myanmar to respect human rights and begin a democratic transition. South Africa also voted against the resolution.[181] Conflict_areas_in_Myanmar.png and regions affected by fighting during and after 1995 are highlighted in yellow.]]
+Until 2005, the United Nations General Assembly annually adopted a detailed resolution about the situation in Myanmar by consensus.[175][176][177][178] But in 2006 a divided United Nations General Assembly voted through a resolution that strongly called upon the government of Myanmar to end its systematic violations of human rights.[179] In January 2007, Russia and China vetoed a draft resolution before the United Nations Security Council[180] calling on the government of Myanmar to respect human rights and begin a democratic transition. South Africa also voted against the resolution.[181] and regions affected by fighting during and after 1995 are highlighted in yellow.]]
 
 Human rights and internal conflicts
 
 There is consensus that the former military regime in Myanmar (1962–2010) was one of the world's most repressive and abusive regimes.[182][183] In November 2012, Samantha Power, Barack Obama's Special Assistant to the President on Human Rights, wrote on the White House blog in advance of the president's visit that "Serious human rights abuses against civilians in several regions continue, including against women and children."[184] Members of the United Nations and major international human rights organisations have issued repeated and consistent reports of widespread and systematic human rights violations in Myanmar. The United Nations General Assembly has repeatedly[185] called on the Burmese Military Junta to respect human rights and in November 2009 the General Assembly adopted a resolution "strongly condemning the ongoing systematic violations of human rights and fundamental freedoms" and calling on the Burmese Military Regime "to take urgent measures to put an end to violations of international human rights and humanitarian law."[186]
 
-International human rights organisations including Human Rights Watch,[187] Amnesty International[188] and the American Association for the Advancement of Science[189] have repeatedly documented and condemned widespread human rights violations in Myanmar. The _Freedom in the World 2011_ report by Freedom House notes, "The military junta has ... suppressed nearly all basic rights; and committed human rights abuses with impunity." In July 2013, the Assistance Association for Political Prisoners indicated that there were approximately 100 political prisoners being held in Burmese prisons.[190][191][192][193] Mae_La_refugee_camp2.jpg, Tak, Thailand, one of the largest of nine UNHCR camps in Thailand where over 700,000 refugees, asylum seekers, and stateless persons have fled.[194]]]
+International human rights organisations including Human Rights Watch,[187] Amnesty International[188] and the American Association for the Advancement of Science[189] have repeatedly documented and condemned widespread human rights violations in Myanmar. The _Freedom in the World 2011_ report by Freedom House notes, "The military junta has ... suppressed nearly all basic rights; and committed human rights abuses with impunity." In July 2013, the Assistance Association for Political Prisoners indicated that there were approximately 100 political prisoners being held in Burmese prisons.[190][191][192][193] , Tak, Thailand, one of the largest of nine UNHCR camps in Thailand where over 700,000 refugees, asylum seekers, and stateless persons have fled.[194]]]
 
 Evidence gathered by a British researcher was published in 2005 regarding the extermination or 'Burmisation' of certain ethnic minorities, such as the Karen, Karenni and Shan.[195]
 
@@ -298,7 +298,7 @@ Forced labour, human trafficking, and child labour are common in Myanmar.[200] T
 
 Genocide allegations and crimes against Rohingya people
 
-Displaced_Rohingya_people_in_Rakhine_State_(8280610831).jpg of Myanmar displaced by decades-long human rights abuses. More than 100,000 Rohingyas in Myanmar continue to live in camps for internally displaced persons.[205][206] |alt=]] The Rohingya people have consistently faced human rights abuses by the Burmese regime that has refused to acknowledge them as Burmese citizens (despite some of them having lived in Burma for over three generations)—the Rohingya have been denied Burmese citizenship since the enactment of a 1982 citizenship law.[207] The law created three categories of citizenship: citizenship, associate citizenship, and naturalised citizenship. Citizenship is given to those who belong to one of the national races such as Kachin, Kayah (Karenni), Karen, Chin, Burman, Mon, Rakhine, Shan, Kaman, or Zerbadee. Associate citizenship is given to those who cannot prove their ancestors settled in Myanmar before 1823, but can prove they have one grandparent, or pre-1823 ancestor, who was a citizen of another country, as well as people who applied for citizenship in 1948 and qualified then by those laws. Naturalised citizenship is only given to those who have at least one parent with one of these types of Burmese citizenship or can provide "conclusive evidence" that their parents entered and resided in Burma prior to independence in 1948.[208] The Burmese regime has attempted to forcibly expel Rohingya and bring in non-Rohingyas to replace them[209]—this policy has resulted in the expulsion of approximately half of the 800,000[210] Rohingya from Burma, while the Rohingya people have been described as "among the world's least wanted"[211] and "one of the world's most persecuted minorities."[212][213][214] But the origin of 'most persecuted minority' statement is unclear.[215]
+of Myanmar displaced by decades-long human rights abuses. More than 100,000 Rohingyas in Myanmar continue to live in camps for internally displaced persons.[205][206] |alt=]] The Rohingya people have consistently faced human rights abuses by the Burmese regime that has refused to acknowledge them as Burmese citizens (despite some of them having lived in Burma for over three generations)—the Rohingya have been denied Burmese citizenship since the enactment of a 1982 citizenship law.[207] The law created three categories of citizenship: citizenship, associate citizenship, and naturalised citizenship. Citizenship is given to those who belong to one of the national races such as Kachin, Kayah (Karenni), Karen, Chin, Burman, Mon, Rakhine, Shan, Kaman, or Zerbadee. Associate citizenship is given to those who cannot prove their ancestors settled in Myanmar before 1823, but can prove they have one grandparent, or pre-1823 ancestor, who was a citizen of another country, as well as people who applied for citizenship in 1948 and qualified then by those laws. Naturalised citizenship is only given to those who have at least one parent with one of these types of Burmese citizenship or can provide "conclusive evidence" that their parents entered and resided in Burma prior to independence in 1948.[208] The Burmese regime has attempted to forcibly expel Rohingya and bring in non-Rohingyas to replace them[209]—this policy has resulted in the expulsion of approximately half of the 800,000[210] Rohingya from Burma, while the Rohingya people have been described as "among the world's least wanted"[211] and "one of the world's most persecuted minorities."[212][213][214] But the origin of 'most persecuted minority' statement is unclear.[215]
 
 Rohingya are also not allowed to travel without official permission, are banned from owning land and are required to sign a commitment to have no more than two children.[216] As of July 2012, the Myanmar Government does not include the Rohingya minority group—classified as stateless Bengali Muslims from Bangladesh since 1982—on the government's list of more than 130 ethnic races and, therefore, the government states that they have no claim to Myanmar citizenship.[217]
 
@@ -340,7 +340,7 @@ The government has also relaxed reporting laws, but these remain highly restrict
 
 2013 onwards
 
-Kutupalong_Refugee_Camp_(John_Owens-VOA).jpg from Myanmar in Bangladesh, March 2017]] Following Thein Sein's first ever visit to the UK and a meeting with Prime Minister David Cameron, the Myanmar president declared that all of his nation's political prisoners will be released by the end of 2013, in addition to a statement of support for the well-being of the Rohingya Muslim community. In a speech at Chatham House, he revealed that "We [Myanmar government] are reviewing all cases. I guarantee to you that by the end of this year, there will be no prisoners of conscience in Myanmar.", in addition to expressing a desire to strengthen links between the UK and Myanmar's military forces.[250]
+from Myanmar in Bangladesh, March 2017]] Following Thein Sein's first ever visit to the UK and a meeting with Prime Minister David Cameron, the Myanmar president declared that all of his nation's political prisoners will be released by the end of 2013, in addition to a statement of support for the well-being of the Rohingya Muslim community. In a speech at Chatham House, he revealed that "We [Myanmar government] are reviewing all cases. I guarantee to you that by the end of this year, there will be no prisoners of conscience in Myanmar.", in addition to expressing a desire to strengthen links between the UK and Myanmar's military forces.[250]
 
 Homosexual acts are illegal in Myanmar and can be punishable by life imprisonment.[251][252]
 
@@ -359,15 +359,13 @@ In April 2015, it was announced that the World Bank and Myanmar would enter a fu
 
 Economy
 
-Myanmar_treemap.png Myanmar is one of the poorest nations in Southeast Asia, suffering from decades of stagnation, mismanagement and isolation. The lack of an educated workforce skilled in modern technology hinders Myanmar's economy, although recent reforms and developments carried out by the new government, in collaboration with foreign countries and organisations, aim to make this a thing of the past.[267] The informal economy's share in Myanmar is one of the biggest in the world and is closely linked to corruption, smuggling and illegal trade activities.[268]
+Myanmar is one of the poorest nations in Southeast Asia, suffering from decades of stagnation, mismanagement and isolation. The lack of an educated workforce skilled in modern technology hinders Myanmar's economy, although recent reforms and developments carried out by the new government, in collaboration with foreign countries and organisations, aim to make this a thing of the past.[267] The informal economy's share in Myanmar is one of the biggest in the world and is closely linked to corruption, smuggling and illegal trade activities.[268]
 
 Myanmar lacks adequate infrastructure. Goods travel primarily across the Thai border (where most illegal drugs are exported) and along the Irrawaddy River. Railways are old and rudimentary, with few repairs since their construction in the late 19th century.[269] Highways are normally unpaved, except in the major cities.[270]
 
 In 2010–2011, Bangladesh exported products worth $9.65 million to Myanmar against its import of $179 million.[271] The annual import of medicine and medical equipment to Myanmar during the 2000s was 160 million USD.[272]
 
 In recent years, both China and India have attempted to strengthen ties with the government for economic benefit. Many nations, including the United States and Canada, and the European Union, have imposed investment and trade sanctions on Myanmar. The United States and European Union eased most of their sanctions in 2012.[273] Foreign investment comes primarily from China, Singapore, the Philippines, South Korea, India, and Thailand.[274]
-
-Rijstvelden_Myanmar_2006.jpg
 
 Economic history
 
@@ -399,7 +397,7 @@ Myanmar Engineering Society has identified at least 39 locations capable of geot
 
 Tourism
 
-Tourists_in_Myanmar_(8397039153).jpg Inle_Lake_Burma_Resort_1.jpg.]] Since 1992, the government has encouraged tourism in the country; however, fewer than 270,000 tourists entered the country in 2006 according to the Myanmar Tourism Promotion Board.[290] Myanmar's Minister of Hotels and Tourism Saw Lwin has stated that the government receives a significant percentage of the income of private sector tourism services.[291]
+.]] Since 1992, the government has encouraged tourism in the country; however, fewer than 270,000 tourists entered the country in 2006 according to the Myanmar Tourism Promotion Board.[290] Myanmar's Minister of Hotels and Tourism Saw Lwin has stated that the government receives a significant percentage of the income of private sector tourism services.[291]
 
 The most popular available tourist destinations in Myanmar include big cities such as Yangon and Mandalay; religious sites in Mon State, Pindaya, Bago and Hpa-An; nature trails in Inle Lake, Kengtung, Putao, Pyin Oo Lwin; ancient cities such as Bagan and Mrauk-U; as well as beaches in Nabule,[292] Ngapali, Ngwe-Saung, Mergui.[293] Nevertheless, much of the country is off-limits to tourists, and interactions between foreigners and the people of Myanmar, particularly in the border regions, are subject to police scrutiny. They are not to discuss politics with foreigners, under penalty of imprisonment and, in 2001, the Myanmar Tourism Promotion Board issued an order for local officials to protect tourists and limit "unnecessary contact" between foreigners and ordinary Burmese people.[294]
 
@@ -438,7 +436,7 @@ Society
 
 Demographics
 
-Downtownflatsyangon.jpg. Much of Yangon's urban population resides in densely populated flats.]]
+. Much of Yangon's urban population resides in densely populated flats.]]
 
 +------------+
 | Population |
@@ -452,7 +450,7 @@ Downtownflatsyangon.jpg. Much of Yangon's urban population resides in densely po
 |            |
 +------------+
 
-Bevölkerungspyramide_Myanmar_2016.png The provisional results of the 2014 Myanmar Census show that the total population is 51,419,420.[325] This figure includes an estimated 1,206,353 persons in parts of northern Rakhine State, Kachin State and Kayin State who were not counted.[326] People who were out of the country at the time of the census are not included in these figures. There are over 600,000 registered migrant workers from Myanmar in Thailand, and millions more work illegally. Burmese migrant workers account for 80% of Thailand's migrant workers.[327] Population density is , among the lowest in Southeast Asia.
+The provisional results of the 2014 Myanmar Census show that the total population is 51,419,420.[325] This figure includes an estimated 1,206,353 persons in parts of northern Rakhine State, Kachin State and Kayin State who were not counted.[326] People who were out of the country at the time of the census are not included in these figures. There are over 600,000 registered migrant workers from Myanmar in Thailand, and millions more work illegally. Burmese migrant workers account for 80% of Thailand's migrant workers.[327] Population density is , among the lowest in Southeast Asia.
 
 Myanmar's fertility rate is 2.23, which is slightly above replacement level[328] and is low compared to Southeast Asian countries of similar economic standing, such Cambodia (3.18) and Laos (4.41).[329] There has been a significant decline in fertility, from a rate of 4.7 children per woman in 1983, down to 2.4 in 2001, despite the absence of any national population policy.[330][331][332] The fertility rate is much lower in urban areas.
 
@@ -463,8 +461,6 @@ These patterns stem from economic dynamics. The economic hardship, which results
 Largest cities
 
 Ethnic groups
-
-Ethnolinguistic_map_of_Burma_1972_en.svg
 
 Myanmar is ethnically diverse. The government recognizes 135 distinct ethnic groups. There are at least 108 different ethnolinguistic groups in Myanmar, consisting mainly of distinct Tibeto-Burman peoples, but with sizable populations of Tai–Kadai, Hmong–Mien, and Austroasiatic (Mon–Khmer) peoples.[338]
 
@@ -492,7 +488,7 @@ Many religions are practised in Myanmar. Religious edifices and orders have been
 
 A large majority of the population practices Buddhism; estimates range from 80%[365] to 89%.[366] According to 2014 Myanmar Census, 87.9% of the population identifies as Buddhists.[367] Theravāda Buddhism is the most widespread.[368] Other religions are practised largely without obstruction, with the notable exception of some religious minorities such as the Rohingya people, who have continued to have their citizenship status denied and treated as illegal immigrants instead,[369] and Christians in Chin State.[370]
 
-According to 2014 census, 6.2% of the population identifies as Christian; 4.3% as Muslim; 0.8% as followers of tribal religions; 0.5% as Hindus; 0.2% as followers of other religions; and 0.1% follow no religion.[371] According to the 2010 estimates of the Pew Research Center, 7% of the population is Christian; 4% is Muslim; 1% follows traditional animistic beliefs; and 2% follow other religions, including Mahayana Buddhism, Hinduism, and East Asian religions.[372][373][374] Jehovah's Witnesses have been present since 1914[375] and have about 80 congregations around the country and a branch office in Yangon publishing in 16 languages.[376] A tiny Jewish community in Rangoon had a synagogue but no resident rabbi to conduct services.[377] A_nun_and_group_of_monks_praying_before_idols_in_Myanmar.jpg]]
+According to 2014 census, 6.2% of the population identifies as Christian; 4.3% as Muslim; 0.8% as followers of tribal religions; 0.5% as Hindus; 0.2% as followers of other religions; and 0.1% follow no religion.[371] According to the 2010 estimates of the Pew Research Center, 7% of the population is Christian; 4% is Muslim; 1% follows traditional animistic beliefs; and 2% follow other religions, including Mahayana Buddhism, Hinduism, and East Asian religions.[372][373][374] Jehovah's Witnesses have been present since 1914[375] and have about 80 congregations around the country and a branch office in Yangon publishing in 16 languages.[376] A tiny Jewish community in Rangoon had a synagogue but no resident rabbi to conduct services.[377] ]]
 
 Although Hinduism is practised by 0.5% of the population, it was a major religion in Myanmar's past. Several strains of Hinduism existed alongside both Theravada Buddhism and Mahayana Buddhism in the Mon and Pyu period in the first millennium,[378] and down to the Pagan period (9th to 13th centuries) when "Saivite and Vaishana elements enjoyed greater elite influence than they would later do."[379] Burmese folk religion is practiced by many Bamars alongside Buddhism.
 
@@ -508,7 +504,7 @@ HIV/AIDS, recognised as a disease of concern by the Burmese Ministry of Health, 
 
 Education
 
-Students,_Hakha,_Chin_State,_Myanmar.jpg, Sagaing Region, Myanmar.]]
+, Sagaing Region, Myanmar.]]
 
 According to the UNESCO Institute of Statistics, Myanmar's official literacy rate as of 2000 was 90%.[388] Historically, Myanmar has had high literacy rates. To qualify for least developed country status by the UN to receive debt relief, Myanmar lowered its official literacy rate from 79% to 19% in 1987.[389]
 
@@ -529,13 +525,13 @@ Myanmar is the largest producer of methamphetamines in the world, with the major
 
 Culture
 
-Burmese_Ramayana_dance.jpg dance]] A diverse range of indigenous cultures exist in Myanmar, with majority culture primarily Buddhist and Bamar. Bamar culture has been influenced by the cultures of neighbouring countries, manifested in its language, cuisine, music, dance and theatre. The arts, particularly literature, have historically been influenced by the local form of Theravada Buddhism. Considered the national epic of Myanmar, the _Yama Zatdaw_, an adaptation of India's _Ramayana_, has been influenced greatly by Thai, Mon, and Indian versions of the play.[397] Buddhism is practised along with nat worship, which involves elaborate rituals to propitiate one from a pantheon of 37 nats.[398][399]
+dance]] A diverse range of indigenous cultures exist in Myanmar, with majority culture primarily Buddhist and Bamar. Bamar culture has been influenced by the cultures of neighbouring countries, manifested in its language, cuisine, music, dance and theatre. The arts, particularly literature, have historically been influenced by the local form of Theravada Buddhism. Considered the national epic of Myanmar, the _Yama Zatdaw_, an adaptation of India's _Ramayana_, has been influenced greatly by Thai, Mon, and Indian versions of the play.[397] Buddhism is practised along with nat worship, which involves elaborate rituals to propitiate one from a pantheon of 37 nats.[398][399]
 
-Myanmar_Traditional_novitiation_march.JPG ceremony in Mandalay.]]
+ceremony in Mandalay.]]
 
 In a traditional village, the monastery is the centre of cultural life. Monks are venerated and supported by the lay people. A novitiation ceremony called shinbyu is the most important coming of age events for a boy, during which he enters the monastery for a short time.[400] All male children in Buddhist families are encouraged to be a novice (beginner for Buddhism) before the age of twenty and to be a monk after the age of twenty. Girls have ear-piercing ceremonies () at the same time.[401] Burmese culture is most evident in villages where local festivals are held throughout the year, the most important being the pagoda festival.[402][403] Many villages have a guardian nat, and superstition and taboos are commonplace.
 
-Rakhine_Thingyan_2011.jpeg (Rakhine) girl pours water at revellers during the Burmese New Year Thingyan Water Festival in Yangon.]]
+(Rakhine) girl pours water at revellers during the Burmese New Year Thingyan Water Festival in Yangon.]]
 
 British colonial rule introduced Western elements of culture to Myanmar. Myanmar's education system is modelled after that of the United Kingdom. Colonial architectural influences are most evident in major cities such as Yangon.[404] Many ethnic minorities, particularly the Karen in the southeast and the Kachin and Chin who populate the north and northeast, practice Christianity.[405] According to The World Factbook, the Burman population is 68% and the ethnic groups constitute 32%. However, the exiled leaders and organisations claims that ethnic population is 40%, which is implicitly contrasted with CIA report (official US report).
 
@@ -549,7 +545,7 @@ Burmese cuisine also includes a variety of salads (_a thoke_), centred on one ma
 
 Sport
 
-Chinlone_Burma_cropped.jpg The Lethwei, Bando, Banshay, and Pongyi thaing martial arts and chinlone are traditional sports in Myanmar.[406] Football is played all over the country, even in villages.
+The Lethwei, Bando, Banshay, and Pongyi thaing martial arts and chinlone are traditional sports in Myanmar.[406] Football is played all over the country, even in villages.
 
 The 2013 Southeast Asian Games took place in Naypyidaw, Yangon, Mandalay and Ngwesaung Beach in December representing the third occasion that the event has been staged in Myanmar. Myanmar previously hosted the Games in 1961 and 1969.[407]
 
@@ -571,7 +567,7 @@ In April 2013, international media reports were published to relay the enactment
 
 Internet
 
-Kayan_women_Burma_1.jpg women in a village near Inle Lake, 2010.]]
+women in a village near Inle Lake, 2010.]]
 
 Internet use is estimated to be relatively low compared to other countries.[410] Myanmar's internet used to be subject to censorship, and authorities viewed e-mails and posts on Internet blogs until 2012 when the government removed media censorship. During the strict censorship days, activity at internet cafes was regulated, and one blogger named Zarganar was sentenced to prison for publishing a video of destruction caused by Cyclone Nargis in 2008; Zarganar was released in October 2011.
 

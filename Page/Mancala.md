@@ -1,4 +1,4 @@
-Bao_players_in_stone_town_zanzibar.jpg]]
+]]
 
 MANCALA is one of the oldest known games to still be widely played today. _Mancala_ is a generic name for a family of two-player turn-based strategy board games played with small stones, beans, or seeds and rows of holes or pits in the earth, a board or other playing surface. The objective is usually to capture all or some set of the opponent's pieces. Versions of the game date back to the 7th century, and evidence suggests the game existed in ancient Egypt.
 
@@ -23,7 +23,7 @@ Although more than 800 names of traditional mancala games are known, some names 
 
 History
 
-AksumGebeta.jpg stele, Axum, Ethiopia]] Evidence of the game was uncovered in Israel in the city of Gedera in a excavated Roman bathhouse where pottery boards and rock cuts were unearthed dating back to between the 2nd and 3rd century AD. Among other early evidence of the game are fragments of a pottery board and several rock cuts found in Aksumite areas in Matara (in Eritrea) and Yeha (in Ethiopia), which are dated by archaeologists to between the 6th and 7th century AD; the game may have been mentioned by Giyorgis of Segla in his 14th century Ge'ez text _Mysteries of Heaven and Earth_, where he refers to a game called qarqis, a term used in Ge'ez to refer to both Gebet'a (mancala) and _Sant'araz_ (modern _sent'erazh_, Ethiopian chess).[6]
+stele, Axum, Ethiopia]] Evidence of the game was uncovered in Israel in the city of Gedera in a excavated Roman bathhouse where pottery boards and rock cuts were unearthed dating back to between the 2nd and 3rd century AD. Among other early evidence of the game are fragments of a pottery board and several rock cuts found in Aksumite areas in Matara (in Eritrea) and Yeha (in Ethiopia), which are dated by archaeologists to between the 6th and 7th century AD; the game may have been mentioned by Giyorgis of Segla in his 14th century Ge'ez text _Mysteries of Heaven and Earth_, where he refers to a game called qarqis, a term used in Ge'ez to refer to both Gebet'a (mancala) and _Sant'araz_ (modern _sent'erazh_, Ethiopian chess).[6]
 
 The similarity of some aspects of the game to agricultural activity and the absence of a need for specialized equipment present the intriguing possibility that it could date to the beginnings of civilization itself; however, there is little verifiable evidence that the game is older than about 1300 years. Some purported evidence comes from the Kurna temple graffiti in Egypt, as reported by Parker in 1909 and Murray in his _A History of Board-Games Other Than Chess_. However, accurate dating of this graffiti seems to be unavailable, and what designs have been found by modern scholars generally resemble games common to the Roman world, rather than anything like Mancala.
 
@@ -49,7 +49,7 @@ If playing in capture mode, once a player ends his/her turn in an empty pit on h
 
 Equipment
 
-YosriCongkak1.jpg]] тогузкоргоол.jpg]]
+]] ]]
 
 Equipment is typically a board, constructed of various materials, with a series of holes arranged in rows, usually two or four. The materials include clay and other shape-able materials. Some games are more often played with holes dug in the earth, or carved in stone. The holes may be referred to as "depressions", "pits", or "houses". Sometimes, large holes on the ends of the board, called _stores_, are used for holding the pieces.
 
@@ -65,7 +65,7 @@ The objective of most two- and three-row mancala games is to capture more stones
 
 At the beginning of a player's turn, they select a hole with seeds that will be sown around the board. This selection is often limited to holes on the current player's side of the board, as well as holes with a certain minimum number of seeds.
 
-Awale.jpg players]] In a process known as _sowing_, all the seeds from a hole are dropped one-by-one into subsequent holes in a motion wrapping around the board. Sowing is an apt name for this activity, since not only are many games traditionally played with seeds, but placing seeds one at a time in different holes reflects the physical act of sowing. If the sowing action stops after dropping the last seed, the game is considered a _single lap_ game.
+players]] In a process known as _sowing_, all the seeds from a hole are dropped one-by-one into subsequent holes in a motion wrapping around the board. Sowing is an apt name for this activity, since not only are many games traditionally played with seeds, but placing seeds one at a time in different holes reflects the physical act of sowing. If the sowing action stops after dropping the last seed, the game is considered a _single lap_ game.
 
 _Multiple laps_ or _relay sowing_ is a frequent feature of mancala games, although not universal. When relay sowing, if the last seed during sowing lands in an occupied hole, all the contents of that hole, including the last sown seed, are immediately re-sown from the hole. The process usually will continue until sowing ends in an empty hole. Another common way to receive "multiple laps" is when the final seed sown lands in your designated hole.
 

@@ -1,4 +1,4 @@
-Fanhe_Town_10_day_interval_contrast.png]]
+]]
 
 SMOG is a type of severe air pollution. The word "smog" was coined in the early 20th century, and is a contraction (portmanteau) of the words smoke and fog to refer to smoky fog; its opacity, and odor.[1] The word was then intended to refer to what was sometimes known as pea soup fog, a familiar and serious problem in London from the 19th century to the mid-20th century. This kind of visible air pollution is composed of nitrogen oxides, sulphur oxides, ozone, smoke and other particulates. Man-made smog is derived from coal combustion emissions, vehicular emissions, industrial emissions, forest and agricultural fires and photochemical reactions of these emissions.
 
@@ -27,9 +27,9 @@ The major culprits from transportation sources are carbon monoxide (CO),[11][12]
 
 Photochemical smog
 
-Photochemical_smog_formation.png Photochemical smog, often referred to as SUMMER SMOG, is the chemical reaction of sunlight, nitrogen oxides and volatile organic compounds in the atmosphere, which leaves airborne particles and ground-level ozone.[21] Photochemical smog depends on primary pollutants as well as the formation of secondary pollutants. These primary pollutants include nitrogen oxides, particularly nitric oxide (NO) and nitrogen dioxide (NO₂), and volatile organic compounds. The relevant secondary pollutants include peroxylacyl nitrates (PAN), tropospheric ozone, and aldehydes. An important secondary pollutant for photochemical smog is ozone, which is formed when hydrocarbons (HC) and nitrogen oxides (NO_(x)) combine in the presence of sunlight; nitrogen dioxide (NO₂), which is formed as nitric oxide (NO) combines with oxygen in the air.[22] In addition, when SO₂ and NO_(x) are emitted they eventually are oxidized in the troposphere to nitric acid and sulfuric acid, which, when mixed with water, form the main components of acid rain.[23] All of these harsh chemicals are usually highly reactive and oxidizing. Photochemical smog is therefore considered to be a problem of modern industrialization. It is present in all modern cities, but it is more common in cities with sunny, warm, dry climates and a large number of motor vehicles.[24] Because it travels with the wind, it can affect sparsely populated areas as well.
+Photochemical smog, often referred to as SUMMER SMOG, is the chemical reaction of sunlight, nitrogen oxides and volatile organic compounds in the atmosphere, which leaves airborne particles and ground-level ozone.[21] Photochemical smog depends on primary pollutants as well as the formation of secondary pollutants. These primary pollutants include nitrogen oxides, particularly nitric oxide (NO) and nitrogen dioxide (NO₂), and volatile organic compounds. The relevant secondary pollutants include peroxylacyl nitrates (PAN), tropospheric ozone, and aldehydes. An important secondary pollutant for photochemical smog is ozone, which is formed when hydrocarbons (HC) and nitrogen oxides (NO_(x)) combine in the presence of sunlight; nitrogen dioxide (NO₂), which is formed as nitric oxide (NO) combines with oxygen in the air.[22] In addition, when SO₂ and NO_(x) are emitted they eventually are oxidized in the troposphere to nitric acid and sulfuric acid, which, when mixed with water, form the main components of acid rain.[23] All of these harsh chemicals are usually highly reactive and oxidizing. Photochemical smog is therefore considered to be a problem of modern industrialization. It is present in all modern cities, but it is more common in cities with sunny, warm, dry climates and a large number of motor vehicles.[24] Because it travels with the wind, it can affect sparsely populated areas as well.
 
-PLANE_(SUPPLIED_BY_NASA)_USES_SPACE_TECHNIQUES_IN_SMOG_RESEARCH._SCIENTISTS_FROM_STATEWIDE_AIR_-_NARA_-_542670.jpg The composition and chemical reactions involved in photochemical smog were not understood until the 1950s. In 1948, flavor chemist Arie Haagen-Smit adapted some of his equipment to collect chemicals from polluted air, and identified ozone as a component of Los Angeles smog. Haagen-Smit went on to discover that nitrogen oxides from automotive exhausts and gaseous hydrocarbons from cars and oil refineries, exposed to sunlight, were key ingredients in the formation of ozone and photochemical smog.[25][26][27] Haagen-Smit worked with Arnold Beckman, who developed various equipment for detecting smog, ranging from an "Apparatus for recording gas concentrations in the atmosphere" patented on October 7, 1952, to "air quality monitoring vans" for use by government and industry.[28]
+The composition and chemical reactions involved in photochemical smog were not understood until the 1950s. In 1948, flavor chemist Arie Haagen-Smit adapted some of his equipment to collect chemicals from polluted air, and identified ozone as a component of Los Angeles smog. Haagen-Smit went on to discover that nitrogen oxides from automotive exhausts and gaseous hydrocarbons from cars and oil refineries, exposed to sunlight, were key ingredients in the formation of ozone and photochemical smog.[25][26][27] Haagen-Smit worked with Arnold Beckman, who developed various equipment for detecting smog, ranging from an "Apparatus for recording gas concentrations in the atmosphere" patented on October 7, 1952, to "air quality monitoring vans" for use by government and industry.[28]
 
 Formation and Reactions
 
@@ -57,7 +57,7 @@ There are certain reactions that can limit the formation of O₃ in smog. The ma
 
 This reaction removes NO₂ which limits the amount of O₃ that can be produced from its photolysis (reaction 4). HNO₃ is a sticky compound that can easily be removed onto surfaces (dry deposition) or dissolved in water and be rained out (wet deposition). Both ways are common in the atmosphere and can efficiently remove the radicals and nitrogen dioxide.
 
-Lightmatter_Golden_gate_bridge.jpg is shown near the Golden Gate Bridge. The brown coloration is due to the NO₂ formed from photochemical smog reactions.]]
+is shown near the Golden Gate Bridge. The brown coloration is due to the NO₂ formed from photochemical smog reactions.]]
 
 Natural causes
 
@@ -68,7 +68,7 @@ Plants are another natural source of hydrocarbons that could undergo reactions i
 
 Health effects
 
-LA_smog_masks.jpg wearing smog-gas masks at banquet, Los Angeles, circa 1954]] Smog is a serious problem in many cities and continues to harm human health.[31][32] Ground-level ozone, sulphur dioxide, nitrogen dioxide and carbon monoxide are especially harmful for senior citizens, children, and people with heart and lung conditions such as emphysema, bronchitis, and asthma.[33] It can inflame breathing passages, decrease the lungs' working capacity, cause shortness of breath, pain when inhaling deeply, wheezing, and coughing. It can cause eye and nose irritation and it dries out the protective membranes of the nose and throat and interferes with the body's ability to fight infection, increasing susceptibility to illness. Hospital admissions and respiratory deaths often increase during periods when ozone levels are high.[34][35] There is a lack of knowledge on the long-term effects of air pollution exposure and the origin of asthma. An experiment was carried out using intense air pollution similar to that of the 1952 Great Smog of London. The results from this experiment concluded that there is a link between early-life pollution exposure that leads to the development of asthma, proposing the ongoing effect of the Great Smog.[36] Modern studies continue to find links between mortality and the presence of smog. One study, published in Nature magazine, found that smog episodes in the city of Jinan, a large city in eastern China, during 2011–15, were associated with a 5.87% (95% CI 0.16–11.58%) increase in the rate of overall mortality. This study highlights the effect of exposure to air pollution on the rate of mortality in China.[37]
+wearing smog-gas masks at banquet, Los Angeles, circa 1954]] Smog is a serious problem in many cities and continues to harm human health.[31][32] Ground-level ozone, sulphur dioxide, nitrogen dioxide and carbon monoxide are especially harmful for senior citizens, children, and people with heart and lung conditions such as emphysema, bronchitis, and asthma.[33] It can inflame breathing passages, decrease the lungs' working capacity, cause shortness of breath, pain when inhaling deeply, wheezing, and coughing. It can cause eye and nose irritation and it dries out the protective membranes of the nose and throat and interferes with the body's ability to fight infection, increasing susceptibility to illness. Hospital admissions and respiratory deaths often increase during periods when ozone levels are high.[34][35] There is a lack of knowledge on the long-term effects of air pollution exposure and the origin of asthma. An experiment was carried out using intense air pollution similar to that of the 1952 Great Smog of London. The results from this experiment concluded that there is a link between early-life pollution exposure that leads to the development of asthma, proposing the ongoing effect of the Great Smog.[36] Modern studies continue to find links between mortality and the presence of smog. One study, published in Nature magazine, found that smog episodes in the city of Jinan, a large city in eastern China, during 2011–15, were associated with a 5.87% (95% CI 0.16–11.58%) increase in the rate of overall mortality. This study highlights the effect of exposure to air pollution on the rate of mortality in China.[37]
 
 Levels of unhealthy exposure
 
@@ -103,11 +103,11 @@ According to the Canadian Science Smog Assessment published in 2012, smog is res
 
 Delhi, India
 
-Aerial_view_of_Air_Pollution_in_North_India,_Agriculture_Fires,_November_2013.jpg, and winds blow from India's north and northwest towards east.[47][48][49] This aerial view shows India's annual crop burning, resulting in smoke and air pollution over Delhi and adjoining areas.]]
+, and winds blow from India's north and northwest towards east.[47][48][49] This aerial view shows India's annual crop burning, resulting in smoke and air pollution over Delhi and adjoining areas.]]
 
 For the past few years, cities in northern India have been covered in a thick layer of winter smog. The situation has turned quite drastic in the National Capital, Delhi. This smog is caused by the collection of Particulate Matter (a very fine type of dust and toxic gases) in the air due to stagnant movement of air during winters.[50]
 
-Delhi is the most polluted[51] city in the world and according to one estimate, air pollution causes the death of about 10,500 people in Delhi every year.[52][53][54] During 2013–14, peak levels of fine particulate matter (PM) in Delhi increased by about 44%, primarily due to high vehicular and industrial emissions, construction work and crop burning in adjoining states.[55][56][57][58] Delhi has the highest level of the airborne particulate matter, PM2.5 considered most harmful to health, with 153 micrograms.[59] Rising air pollution level has significantly increased lung-related ailments (especially asthma and lung cancer) among Delhi's children and women.[60][61] The dense smog in Delhi during winter season results in major air and rail traffic disruptions every year.[62] According to Indian meteorologists, the average maximum temperature in Delhi during winters has declined notably since 1998 due to rising air pollution.[63] Smog_in_the_skies_of_Delhi,_India.jpg]]
+Delhi is the most polluted[51] city in the world and according to one estimate, air pollution causes the death of about 10,500 people in Delhi every year.[52][53][54] During 2013–14, peak levels of fine particulate matter (PM) in Delhi increased by about 44%, primarily due to high vehicular and industrial emissions, construction work and crop burning in adjoining states.[55][56][57][58] Delhi has the highest level of the airborne particulate matter, PM2.5 considered most harmful to health, with 153 micrograms.[59] Rising air pollution level has significantly increased lung-related ailments (especially asthma and lung cancer) among Delhi's children and women.[60][61] The dense smog in Delhi during winter season results in major air and rail traffic disruptions every year.[62] According to Indian meteorologists, the average maximum temperature in Delhi during winters has declined notably since 1998 due to rising air pollution.[63] ]]
 
 Environmentalists have criticised the Delhi government for not doing enough to curb air pollution and to inform people about air quality issues.[64] Most of Delhi's residents are unaware of alarming levels of air pollution in the city and the health risks associated with it.[65][66] Since the mid-1990s, Delhi has undertaken some measures to curb air pollution – Delhi has the third highest quantity of trees among Indian cities[67] and the Delhi Transport Corporation operates the world's largest fleet of environmentally friendly compressed natural gas (CNG) buses.[68] In 1996, the Centre for Science and Environment (CSE) started a public interest litigation in the Supreme Court of India that ordered the conversion of Delhi's fleet of buses and taxis to run on CNG and banned the use of leaded petrol in 1998. In 2003, Delhi won the United States Department of Energy's first 'Clean Cities International Partner of the Year' award for its "bold efforts to curb air pollution and support alternative fuel initiatives".[69] The Delhi Metro has also been credited for significantly reducing air pollutants in the city.[70]
 
@@ -121,7 +121,7 @@ United Kingdom
 
 London
 
-LondonSmog.jpg London was notorious for its thick smogs, or "pea-soupers", a fact that is often recreated (as here) to add an air of mystery to a period costume drama]]
+London was notorious for its thick smogs, or "pea-soupers", a fact that is often recreated (as here) to add an air of mystery to a period costume drama]]
 
 In 1306, concerns over air pollution were sufficient for Edward I to (briefly) ban coal fires in London.[78] In 1661, John Evelyn's _Fumifugium_ suggested burning fragrant wood instead of mineral coal, which he believed would reduce coughing. The "Ballad of Gresham College" the same year describes how the smoke "does our lungs and spirits choke, Our hanging spoil, and rust our iron."
 
@@ -143,7 +143,7 @@ On 29 April 2015, the UK Supreme Court ruled that the government must take immed
 
 Mexico City, Mexico
 
-AerialViewMexicoCity.jpg Due to its location in a highland "bowl", cold air sinks down onto the urban area of Mexico City, trapping industrial and vehicle pollution underneath, and turning it into the most infamously smog-plagued city of Latin America. Within one generation, the city has changed from being known for some of the cleanest air of the world into one with some of the worst pollution, with pollutants like nitrogen dioxide being double or even triple international standards.[86] AerialViewPhotochemicalSmogMexicoCity_2.jpg
+Due to its location in a highland "bowl", cold air sinks down onto the urban area of Mexico City, trapping industrial and vehicle pollution underneath, and turning it into the most infamously smog-plagued city of Latin America. Within one generation, the city has changed from being known for some of the cleanest air of the world into one with some of the worst pollution, with pollutants like nitrogen dioxide being double or even triple international standards.[86]
 
 Santiago, Chile
 
@@ -155,7 +155,7 @@ In December 2005, schools and public offices had to close in Tehran and 1600 peo
 
 United States
 
-Upstatenysmog.jpg astronaut's photograph of a smog layer over central New York]] LAcityhalllookingsouth8.JPG, September 2011]] US_Counties_Designated_Non-attainment_according_to_EPA_NAAQS.jpg are not met, as of October 2015]]
+astronaut's photograph of a smog layer over central New York]] , September 2011]] are not met, as of October 2015]]
 
 Smog was brought to the attention of the general U.S. public in 1933 with the publication of the book "Stop That Smoke", by Henry Obermeyer, a New York public utility official, in which he pointed out the effect on human life and even the destruction of of a farmer's spinach crop.[88] Since then, the United States Environmental Protection Agency has designated over 300 U.S. counties to be non-attainment areas for one or more pollutants tracked as part of the National Ambient Air Quality Standards.[89] These areas are largely clustered around large metropolitan areas, with the largest contiguous non-attainment zones in California and the Northeast. Various U.S. and Canadian government agencies collaborate to produce real-time air quality maps and forecasts.[90] To combat smog conditions, localities may declare "smog alert" days, such as in the Spare the Air program in the San Francisco Bay Area.
 
@@ -181,7 +181,7 @@ In the late 1990s, massive immigration to Ulaanbaatar from the countryside began
 
 Southeast Asia
 
-Downtown_Core,_Singapore,_Oct_06.JPG's Downtown Core on 7 October 2006, when it was affected by forest fires in Sumatra, Indonesia]]
+'s Downtown Core on 7 October 2006, when it was affected by forest fires in Sumatra, Indonesia]]
 
 Smog is a regular problem in Southeast Asia caused by land and forest fires in Indonesia, especially Sumatra and Kalimantan, although the term haze is preferred in describing the problem. Farmers and plantation owners are usually responsible for the fires, which they use to clear tracts of land for further plantings. Those fires mainly affect Brunei, Indonesia, Philippines, Malaysia, Singapore and Thailand, and occasionally Guam and Saipan.[101][102] The economic losses of the fires in 1997 have been estimated at more than US$9 billion.[103] This includes damages in agriculture production, destruction of forest lands, health, transportation, tourism, and other economic endeavours. Not included are social, environmental, and psychological problems and long-term health effects. The second-latest bout of haze to occur in Malaysia, Singapore and the Malacca Straits is in October 2006, and was caused by smoke from fires in Indonesia being blown across the Straits of Malacca by south-westerly winds. A similar haze has occurred in June 2013, with the PSI setting a new record in Singapore on June 21 at 12pm with a reading of 401, which is in the "Hazardous" range.[104]
 
@@ -189,14 +189,14 @@ The Association of Southeast Asian Nations (ASEAN) reacted. In 2002, the Agreeme
 
 Pakistan
 
-Lahore_Smog,_05_November_2016.jpg while dense smog engulf the neighborhood of Lahore, Pakistan, Saturday, Nov. 5, 2016]] Since start of winter season heavy smog loaded with pollutants covered major part of Punjab especially the city of Lahore,[108] causing breathing problems and disrupting normal traffic.[109]
+while dense smog engulf the neighborhood of Lahore, Pakistan, Saturday, Nov. 5, 2016]] Since start of winter season heavy smog loaded with pollutants covered major part of Punjab especially the city of Lahore,[108] causing breathing problems and disrupting normal traffic.[109]
 
 Doctors advised residents to stay indoors and wear facemasks outside.[110]
 
 
 Pollution index
 
-Pollution_over_São_Paulo_(Jardins).jpg, Brazil]]
+, Brazil]]
 
 The severity of smog is often measured using automated optical instruments such as Nephelometers, as haze is associated with visibility and traffic control in ports. Haze however can also be an indication of poor air quality though this is often better reflected using accurate purpose built air indexes such as the American Air Quality Index, the Malaysian API (Air Pollution Index) and the Singaporean Pollutant Standards Index.
 
@@ -207,7 +207,7 @@ The Malaysian API does not have a capped value; hence its most hazardous reading
 
 Cultural references
 
-Claude_Monet_015.jpg made several trips to London between 1899 and 1901, during which he painted views of the Thames and Houses of Parliament which show the sun struggling to shine through London's smog-laden atmosphere.]]
+made several trips to London between 1899 and 1901, during which he painted views of the Thames and Houses of Parliament which show the sun struggling to shine through London's smog-laden atmosphere.]]
 
 -   The London "pea-soupers" earned the capital the nickname of "The Smoke". Similarly, Edinburgh was known as "Auld Reekie". The smogs feature in many London novels as a motif indicating hidden danger or a mystery, perhaps most overtly in Margery Allingham's _The Tiger in the Smoke_ (1952), but also in Dickens's _Bleak House_ (1852) and T.S. Eliot's "The Love Song of J. Alfred Prufrock".
 -   The 1970 made-for-TV movie _A Clear and Present Danger_ was one of the first American television network entertainment programs to warn about the problem of smog and air pollution, as it dramatized a man's efforts toward clean air after emphysema killed his friend.[111]

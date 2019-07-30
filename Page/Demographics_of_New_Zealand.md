@@ -41,7 +41,7 @@ While the demonym for a New Zealand citizen is New Zealander, the informal "Kiwi
 
 Population
 
-New_Zealand_population_projection,_1948_to_2068,_base_2016.gif Change_in_population_by_regions_in_New_Zealand_based_on_2006_-_2013_censuses.gif In , New Zealand has an estimated population of ,[27] up from the 4,027,947 recorded in the 2006 census.[28] According to Statistics New Zealand estimates, population is increasing at a rate of 1.4–2.0% per year and is projected to rise to 5.01–5.51 million in 2025.[29]
+In , New Zealand has an estimated population of ,[27] up from the 4,027,947 recorded in the 2006 census.[28] According to Statistics New Zealand estimates, population is increasing at a rate of 1.4–2.0% per year and is projected to rise to 5.01–5.51 million in 2025.[29]
 
 The median child birthing age was 30 and the total fertility rate is 2.1 births per woman in 2010. In Māori populations the median age is 26 and fertility rate 2.8.[30] In 2010 the age-standardised mortality rate was 3.8 deaths per 1000 (down from 4.8 in 2000) and the infant mortality rate for the total population was 5.1 deaths per 1000 live births.[31] The life expectancy of a New Zealand child born in 2014-16 was 83.4 years for females, and 79.9 years for males,[32] which is among the highest in the world. Life expectancy at birth is forecast to increase from 80 years to 85 years in 2050 and infant mortality is expected to decline.[33] In 2050 the median age is forecast to rise from 36 years to 43 years and the percentage of people 60 years of age and older rising from 18 percent to 29 percent.[34] (The number of people aged 65 and over increased by 22 percent between the 2006 and 2013 censuses.[35]) During early migration in 1858, New Zealand had 131 males for every 100 females, but following changes in migration patterns and the modern longevity advantage of women, females came to outnumber males in 1971.[36] As of 2012 there are 0.99 males per female, with males dominating under 15 years and females dominating in the 65 years and older range.[37]
 
@@ -300,7 +300,7 @@ New Zealand has a growing population, as measured:[47]
 
 Population density
 
-Population density as of the 2006 census New Zealand's population density is relatively low, at |/km2|1|abbr=off}} The vast majority of the population live on the main North and South Islands, with New Zealand's major inhabited smaller islands being Waiheke Island (), the Chatham and Pitt Islands (), and Stewart Island (381).[48] Over three-quarters of the population live in the North Island ( percent), with one-third of the total population living in the Auckland Region. This region is also the fastest growing, accounting for 46 percent of New Zealand's total population growth. Most Māori live in the North Island (86.0 percent), although less than a quarter (23.8 percent) live in Auckland.[49] New Zealand is a predominantly urban country, with  percent of the population living in an urban area. About  percent of the population live in the 17 main urban areas (population of 30,000 or more) and  percent live in the four largest cities of Auckland, Christchurch, Wellington, and Hamilton.[50]
+New Zealand's population density is relatively low, at |/km2|1|abbr=off}} The vast majority of the population live on the main North and South Islands, with New Zealand's major inhabited smaller islands being Waiheke Island (), the Chatham and Pitt Islands (), and Stewart Island (381).[48] Over three-quarters of the population live in the North Island ( percent), with one-third of the total population living in the Auckland Region. This region is also the fastest growing, accounting for 46 percent of New Zealand's total population growth. Most Māori live in the North Island (86.0 percent), although less than a quarter (23.8 percent) live in Auckland.[49] New Zealand is a predominantly urban country, with  percent of the population living in an urban area. About  percent of the population live in the 17 main urban areas (population of 30,000 or more) and  percent live in the four largest cities of Auckland, Christchurch, Wellington, and Hamilton.[50]
 
 Approximately 14 percent of the population live in four different categories of rural areas as defined by Statistics New Zealand. About 18 percent of the rural population live in areas that have a high urban influence (roughly 12.9 people per square kilometre), many working in the main urban area. Rural areas with moderate urban influence and a population density of about 6.5 people per square kilometre account for 26 percent of the rural population. Areas with low urban influence where the majority of the residents work in the rural area house approximately 42 percent of the rural population. Remote rural areas with a density of less than 1 person per square kilometre account for about 14 percent of the rural population.[51]
 
@@ -408,7 +408,7 @@ Unemployment, youth ages 15–24:
 
 Migration
 
-Lion_dancers_at_the_Auckland_lantern_festival_2010.jpgrs perform at the Auckland Lantern Festival.|alt=Lion dancers wearing bright red and yellow costumes]]
+rs perform at the Auckland Lantern Festival.|alt=Lion dancers wearing bright red and yellow costumes]]
 
 +-------------------+-----------+-------+
 | Country           | Number    | %     |
@@ -465,15 +465,15 @@ While most New Zealanders live in New Zealand, there is also a significant diasp
 
 Ethnicity
 
-Ethnic groups as per the 2013 census.[76] New Zealand is a multiethnic society, and home to people of many different national origins. Originally composed solely of the Māori who arrived in the thirteenth century, the ethnic makeup of the population later became dominated by New Zealanders of European descent.[77] In the nineteenth century, European settlers brought diseases for which the Māori had no immunity. By the 1890s, the Māori population was approximately 40 percent of its size pre-contact.[78] The Māori population increased during the twentieth century,[79] though it remains a minority.
+New Zealand is a multiethnic society, and home to people of many different national origins. Originally composed solely of the Māori who arrived in the thirteenth century, the ethnic makeup of the population later became dominated by New Zealanders of European descent.[76] In the nineteenth century, European settlers brought diseases for which the Māori had no immunity. By the 1890s, the Māori population was approximately 40 percent of its size pre-contact.[77] The Māori population increased during the twentieth century,[78] though it remains a minority.
 
-At the latest census in 2013, 74.0 percent identified as European, 14.9 percent, as Māori, 11.8 percent as Asian, 7.4 percent as Pacific peoples, and 1.2 percent as Middle-Eastern, Latin American, and African (MELAA).{{#tag:ref|When completing the census people could select more than one ethnic group (for instance, 53.5 percent of Māori identified with two or more ethnic groups, compared with 46.5 percent who identified solely as Māori.) The proportions of people adding up to each ethnic group do not therefore add up to 100 percent.|group=n}}[80] Most New Zealanders are of English,[81] Scottish,[82] and Irish ancestry,[83] with smaller percentages of other European ancestries, such as Dutch, Dalmatian, French, German and Scandinavian.[84] Auckland was the most diverse region with 59.3 percent identifying as European, 23.1 percent as Asian, 10.7 percent as Māori, and 14.6 percent as Pacific Islanders.[85]
+At the latest census in 2013, 74.0 percent identified as European, 14.9 percent, as Māori, 11.8 percent as Asian, 7.4 percent as Pacific peoples, and 1.2 percent as Middle-Eastern, Latin American, and African (MELAA).{{#tag:ref|When completing the census people could select more than one ethnic group (for instance, 53.5 percent of Māori identified with two or more ethnic groups, compared with 46.5 percent who identified solely as Māori.) The proportions of people adding up to each ethnic group do not therefore add up to 100 percent.|group=n}}[79] Most New Zealanders are of English,[80] Scottish,[81] and Irish ancestry,[82] with smaller percentages of other European ancestries, such as Dutch, Dalmatian, French, German and Scandinavian.[83] Auckland was the most diverse region with 59.3 percent identifying as European, 23.1 percent as Asian, 10.7 percent as Māori, and 14.6 percent as Pacific Islanders.[84]
 
-All major ethnic groups increased when compared with the 2006 census,[86] in which 67.6 percent identified as European, 14.6 percent as Māori, 9.2 percent as Asian, and 6.9 percent of Pacific Islander origin. An additional 11.1 percent identified themselves simply as a "New Zealander" (or similar), and 1.0 percent identified with other ethnicities.[87] There was significant public discussion about usage of the term "New Zealander" during the months leading up to the 2006 census.[88] The number of people identifying with this term increased from approximately 80,000 (2.4 percent) in 2001 to just under 430,000 people (11.1 percent) in 2006.[89] The European grouping significantly decreased from 80.0 percent of the population in 2001 to 67.6 percent in 2006, however, this is broadly proportional to the large increase in "New Zealanders".[90] The number of people identifying as a "New Zealander" dropped back to under 66,000 in 2013.[91]
+All major ethnic groups increased when compared with the 2006 census,[85] in which 67.6 percent identified as European, 14.6 percent as Māori, 9.2 percent as Asian, and 6.9 percent of Pacific Islander origin. An additional 11.1 percent identified themselves simply as a "New Zealander" (or similar), and 1.0 percent identified with other ethnicities.[86] There was significant public discussion about usage of the term "New Zealander" during the months leading up to the 2006 census.[87] The number of people identifying with this term increased from approximately 80,000 (2.4 percent) in 2001 to just under 430,000 people (11.1 percent) in 2006.[88] The European grouping significantly decreased from 80.0 percent of the population in 2001 to 67.6 percent in 2006, however, this is broadly proportional to the large increase in "New Zealanders".[89] The number of people identifying as a "New Zealander" dropped back to under 66,000 in 2013.[90]
 
-As recorded in the 2013 census, the largest Māori _iwi_ is Ngāpuhi with 125,601 people (or 18.8 percent of people of Māori descent).[92] Since 2006, the number of people of Māori descent stating Ngāpuhi as their iwi increased by 3,390 people (2.8 percent). The second-largest was Ngāti Porou, with 71,049 people (down 1.2 percent from 2006). Ngāi Tahu was the largest in the South Island and the third-largest overall, with a count of 54,819 people (an increase of 11.4 percent from 2006). A total of 110,928 people (or 18.5 percent) of Māori descent did not know their iwi (an increase of 8.4 percent compared with 2006).[93] A group of Māori migrated to _Rēkohu_, now known as the Chatham Islands, where they developed their distinct Moriori culture.[94][95] The Moriori population was decimated, first, by disease brought by European sealers and whalers and, second, by Taranaki Māori, with only 101 surviving in 1862 and the last known full-blooded Moriori dying in 1933.[96] The number of people identifying as having Moriori descents increased from 105 in 1991 to 945 in 2006,[97] but decreased to 738 in 2013.[98]
+As recorded in the 2013 census, the largest Māori _iwi_ is Ngāpuhi with 125,601 people (or 18.8 percent of people of Māori descent).[91] Since 2006, the number of people of Māori descent stating Ngāpuhi as their iwi increased by 3,390 people (2.8 percent). The second-largest was Ngāti Porou, with 71,049 people (down 1.2 percent from 2006). Ngāi Tahu was the largest in the South Island and the third-largest overall, with a count of 54,819 people (an increase of 11.4 percent from 2006). A total of 110,928 people (or 18.5 percent) of Māori descent did not know their iwi (an increase of 8.4 percent compared with 2006).[92] A group of Māori migrated to _Rēkohu_, now known as the Chatham Islands, where they developed their distinct Moriori culture.[93][94] The Moriori population was decimated, first, by disease brought by European sealers and whalers and, second, by Taranaki Māori, with only 101 surviving in 1862 and the last known full-blooded Moriori dying in 1933.[95] The number of people identifying as having Moriori descents increased from 105 in 1991 to 945 in 2006,[96] but decreased to 738 in 2013.[97]
 
-Recent increases in interracial marriages has resulted in the New Zealand population of Māori, Asian and Pacific Islander descent growing at a higher rate than those of European descent.[99] In 2013, 11.2 percent of people identified with more than one ethnic group,[100] compared with 10.4 percent in 2006.[101] The ethnic diversity of New Zealand is projected to increase. Europeans (including "New Zealanders") will remain the largest group, although it is predicted to fall to 70 percent in 2026. The Asian, Pacific and Māori groups are the fastest growing and will increase to 3.4 percent, 10 percent and 16 percent, respectively.[102] In 2013, the ethnicity of the population aged under 18 years was 71 percent European, 25 percent Māori, 13 percent Pacific, 12 percent Asian, and 1 percent MELAA.[103][104] The population aged 65 years or older consisted of 87.8 percent European, 5.6 percent Māori, 4.7 percent Asian and 2.4 percent Pacific.[105]
+Recent increases in interracial marriages has resulted in the New Zealand population of Māori, Asian and Pacific Islander descent growing at a higher rate than those of European descent.[98] In 2013, 11.2 percent of people identified with more than one ethnic group,[99] compared with 10.4 percent in 2006.[100] The ethnic diversity of New Zealand is projected to increase. Europeans (including "New Zealanders") will remain the largest group, although it is predicted to fall to 70 percent in 2026. The Asian, Pacific and Māori groups are the fastest growing and will increase to 3.4 percent, 10 percent and 16 percent, respectively.[101] In 2013, the ethnicity of the population aged under 18 years was 71 percent European, 25 percent Māori, 13 percent Pacific, 12 percent Asian, and 1 percent MELAA.[102][103] The population aged 65 years or older consisted of 87.8 percent European, 5.6 percent Māori, 4.7 percent Asian and 2.4 percent Pacific.[104]
 
   Ethnicity                               2001 census   2006 census   2013 census
   --------------------------------------- ------------- ------------- -------------
@@ -503,7 +503,7 @@ Recent increases in interracial marriages has resulted in the New Zealand popula
   Total people stated                     3,586,644                   3,860,163
   Not elsewhere included                  150,702       4.0           167,784
 
-The maps below (taken from 2013 census data[106]) show the percentages of people in each census area unit identifying themselves as European, Māori, Asian, or Pacific Islander (as defined by Statistics New Zealand). As people could identify themselves with multiple groups, percentages are not cumulative.
+The maps below (taken from 2013 census data[105]) show the percentages of people in each census area unit identifying themselves as European, Māori, Asian, or Pacific Islander (as defined by Statistics New Zealand). As people could identify themselves with multiple groups, percentages are not cumulative.
 
 File:NZCensus2013-European.png|EUROPEAN File:NZCensus2013-Maori.png|MĀORI File:NZCensus2013-Asian.png|ASIAN File:NZCensus2013-Pacific.png|PACIFIC ISLANDER
 
@@ -512,34 +512,34 @@ File:NZCensus2013-European.png|EUROPEAN File:NZCensus2013-Maori.png|MĀORI File:
 
 Language
 
-English has long been entrenched as a _de facto_ national language due to its widespread use.[107] In the 2013 census, 96.1 percent of respondents spoke English.[108] The New Zealand English dialect is mostly non-rhotic with an exception being the Southern Burr found principally in Southland and parts of Otago. It is similar to Australian English and many speakers from the Northern Hemisphere are unable to tell the accents apart. In New Zealand English the short I (as in kit) has become centralised, leading to the phrase _fish and chips_ sounding like "fush and chups" to the Australian ear. The words _rarely_ and _really_, _reel_ and _real_, _doll_ and _dole_, _pull_ and _pool_, _witch_ and _which_, and _full_ and _fill_ can sometimes be pronounced as homophones.[109] Some New Zealanders pronounce the past participles _grown_, _thrown_ and _mown_ using two syllables, whereas _groan_, _throne_ and _moan_ are pronounced as one syllable. New Zealanders often reply to a question or emphasise a point by adding a rising intonation at the end of the sentence.
+English has long been entrenched as a _de facto_ national language due to its widespread use.[106] In the 2013 census, 96.1 percent of respondents spoke English.[107] The New Zealand English dialect is mostly non-rhotic with an exception being the Southern Burr found principally in Southland and parts of Otago. It is similar to Australian English and many speakers from the Northern Hemisphere are unable to tell the accents apart. In New Zealand English the short I (as in kit) has become centralised, leading to the phrase _fish and chips_ sounding like "fush and chups" to the Australian ear. The words _rarely_ and _really_, _reel_ and _real_, _doll_ and _dole_, _pull_ and _pool_, _witch_ and _which_, and _full_ and _fill_ can sometimes be pronounced as homophones.[108] Some New Zealanders pronounce the past participles _grown_, _thrown_ and _mown_ using two syllables, whereas _groan_, _throne_ and _moan_ are pronounced as one syllable. New Zealanders often reply to a question or emphasise a point by adding a rising intonation at the end of the sentence.
 
-Speakers of Māori according to the 2013 census: Initially, the Māori language (_te reo Māori_) was permitted in native schools to facilitate English instruction, but as time went on official attitudes hardened against any use of the language. Māori were discouraged from speaking their own language in schools and work places and it existed as a community language only in a few remote areas.[110] The language underwent a revival beginning in the 1970s, and now more people speak Māori.[111][112] The future of the language was the subject of a claim before the Waitangi Tribunal in 1985. As a result, Māori was declared an official language in 1987.[113] In the 2013 census, 21.3 percent of Māori people—and 3.7 percent of all respondents, including some non-Māori people—reported conversational fluency in the language.[114] There are now Māori language immersion schools and two Māori Television channels, the only nationwide television channels to have the majority of their prime-time content delivered in Māori.[115] Many places have officially been given dual Māori and English names in recent years.
+Initially, the Māori language (_te reo Māori_) was permitted in native schools to facilitate English instruction, but as time went on official attitudes hardened against any use of the language. Māori were discouraged from speaking their own language in schools and work places and it existed as a community language only in a few remote areas.[109] The language underwent a revival beginning in the 1970s, and now more people speak Māori.[110][111] The future of the language was the subject of a claim before the Waitangi Tribunal in 1985. As a result, Māori was declared an official language in 1987.[112] In the 2013 census, 21.3 percent of Māori people—and 3.7 percent of all respondents, including some non-Māori people—reported conversational fluency in the language.[113] There are now Māori language immersion schools and two Māori Television channels, the only nationwide television channels to have the majority of their prime-time content delivered in Māori.[114] Many places have officially been given dual Māori and English names in recent years.
 
-In the 2013 census, 20,235 people reported the ability to use New Zealand Sign Language. This is down 16 percent on the 2006 census.[116] NZSL was declared one of New Zealand's official languages in 2006.[117]
+In the 2013 census, 20,235 people reported the ability to use New Zealand Sign Language. This is down 16 percent on the 2006 census.[115] NZSL was declared one of New Zealand's official languages in 2006.[116]
 
-Samoan is the most widely spoken non-official language (2.2 percent), followed by Hindi (1.7 percent), "Northern Chinese" (including Mandarin, 1.3 percent) and French (1.2 percent).[118] A considerable proportion of first- and second-generation migrants are multilingual.
+Samoan is the most widely spoken non-official language (2.2 percent), followed by Hindi (1.7 percent), "Northern Chinese" (including Mandarin, 1.3 percent) and French (1.2 percent).[117] A considerable proportion of first- and second-generation migrants are multilingual.
 
 
 Education
 
-Education follows the three-tier model, which includes primary schools, followed by secondary schools (high schools) and tertiary education at universities or polytechnics. The Programme for International Student Assessment ranked New Zealand's education as the seventh highest in 2009.[119] The Education Index, published with the UN's 2014 Human Development Index and based on data from 2013, listed New Zealand at 0.917, ranked second after Australia.[120]
+Education follows the three-tier model, which includes primary schools, followed by secondary schools (high schools) and tertiary education at universities or polytechnics. The Programme for International Student Assessment ranked New Zealand's education as the seventh highest in 2009.[118] The Education Index, published with the UN's 2014 Human Development Index and based on data from 2013, listed New Zealand at 0.917, ranked second after Australia.[119]
 
-Primary and secondary schooling is compulsory for children aged 6 to 16[121] with most children starting at 5. Early leaving exemptions may be granted to 15-year-old students that have been experiencing some ongoing difficulties at school or are unlikely to benefit from continued attendance.[122] Parents and caregivers can home school their children if they obtain approval from the Ministry of Education and prove that their child will be taught "as regularly and as well as in a registered school".[123] There are 13 school years and attending state (public) schools is nominally free from a person's fifth birthday until the end of the calendar year following their 19th birthday.[124][125]
+Primary and secondary schooling is compulsory for children aged 6 to 16[120] with most children starting at 5. Early leaving exemptions may be granted to 15-year-old students that have been experiencing some ongoing difficulties at school or are unlikely to benefit from continued attendance.[121] Parents and caregivers can home school their children if they obtain approval from the Ministry of Education and prove that their child will be taught "as regularly and as well as in a registered school".[122] There are 13 school years and attending state (public) schools is nominally free from a person's fifth birthday until the end of the calendar year following their 19th birthday.[123][124]
 
-The academic year in New Zealand varies between institutions, but generally runs from late January until mid-December for primary and secondary schools and polytechnics, and from late February until mid-November for universities. New Zealand has an adult literacy rate of 99 percent,[126] and over half of the population aged 15 to 29 hold a tertiary qualification.[127]{{#tag:ref|Tertiary education in New Zealand is used to describe all aspects of post-school education and training. Its ranges from informal non-assessed community courses in schools through to undergraduate degrees and advanced, research-based postgraduate degrees.|group=n}} In the adult population 14.2 percent have a bachelor's degree or higher, 30.4 percent have some form of secondary qualification as their highest qualification and 22.4 percent have no formal qualification.[128]
+The academic year in New Zealand varies between institutions, but generally runs from late January until mid-December for primary and secondary schools and polytechnics, and from late February until mid-November for universities. New Zealand has an adult literacy rate of 99 percent,[125] and over half of the population aged 15 to 29 hold a tertiary qualification.[126]{{#tag:ref|Tertiary education in New Zealand is used to describe all aspects of post-school education and training. Its ranges from informal non-assessed community courses in schools through to undergraduate degrees and advanced, research-based postgraduate degrees.|group=n}} In the adult population 14.2 percent have a bachelor's degree or higher, 30.4 percent have some form of secondary qualification as their highest qualification and 22.4 percent have no formal qualification.[127]
 
 
 Religion
 
-  Religious affiliation in New Zealand (2013)[129]
+  Religious affiliation in New Zealand (2013)[128]
   --------------------------------------------------
-  Affiliation[130]
+  Affiliation[129]
   RELIGION
   Roman Catholic
   Anglican
   Presbyterian
-  Other Christian[131]
+  Other Christian[130]
   Hindu
   Buddhist
   Muslim
@@ -547,18 +547,18 @@ Religion
   NO RELIGION
   Object to answering
 
-New Zealand does not have a state religion,[132] but the principal religion is Christianity. As recorded in the 2013 census, about 49 percent of the population identified themselves as Christians, although regular church attendance is estimated at 15 percent.[133] Another 41.9 percent indicated that they had no religion (up from 34.7 percent in 2006[134]) and around 6 percent affiliated with other religions.[135]
+New Zealand does not have a state religion,[131] but the principal religion is Christianity. As recorded in the 2013 census, about 49 percent of the population identified themselves as Christians, although regular church attendance is estimated at 15 percent.[132] Another 41.9 percent indicated that they had no religion (up from 34.7 percent in 2006[133]) and around 6 percent affiliated with other religions.[134]
 
-The indigenous religion of the Māori population was animistic, but with the arrival of missionaries from the early nineteenth century most of the Māori population converted to Christianity.[136] In the 2013 census, 2,595 Māori still identify themselves as adhering to traditional Māori beliefs.[137] The largest Christian denominations are Roman Catholicism, Anglicanism, Presbyterianism. There are also significant numbers of Christians who identify themselves with Methodist, Pentecostal, Baptist and Latter-day Saint churches, and the New Zealand-based Rātana church has adherents among Māori.[138] Immigration and associated demographic change in recent decades has contributed to the growth of minority religions,[139] especially Hinduism, Buddhism and Islam. [140][141]
+The indigenous religion of the Māori population was animistic, but with the arrival of missionaries from the early nineteenth century most of the Māori population converted to Christianity.[135] In the 2013 census, 2,595 Māori still identify themselves as adhering to traditional Māori beliefs.[136] The largest Christian denominations are Roman Catholicism, Anglicanism, Presbyterianism. There are also significant numbers of Christians who identify themselves with Methodist, Pentecostal, Baptist and Latter-day Saint churches, and the New Zealand-based Rātana church has adherents among Māori.[137] Immigration and associated demographic change in recent decades has contributed to the growth of minority religions,[138] especially Hinduism, Buddhism and Islam. [139][140]
 
 
 Income
 
-New Zealand's early economy was based on sealing, whaling, flax, gold, kauri gum, and native timber.[142] During the 1880s agricultural products became the highest export earner and farming was a major occupation within New Zealand.[143] Farming is still a major employer, with 75 000 people indicating farming as their occupation during the 2006 census,[144] although dairy farming has recently taken over from sheep as the largest sector.[145] The largest occupation recorded during the census was sales assistant with 93,840 people.[146] Most people are on wages or salaries (59.9 percent), with the other sources of income being interest and investments (24.1 percent) and self-employment (16.6 percent).[147]
+New Zealand's early economy was based on sealing, whaling, flax, gold, kauri gum, and native timber.[141] During the 1880s agricultural products became the highest export earner and farming was a major occupation within New Zealand.[142] Farming is still a major employer, with 75 000 people indicating farming as their occupation during the 2006 census,[143] although dairy farming has recently taken over from sheep as the largest sector.[144] The largest occupation recorded during the census was sales assistant with 93,840 people.[145] Most people are on wages or salaries (59.9 percent), with the other sources of income being interest and investments (24.1 percent) and self-employment (16.6 percent).[146]
 
-In 1982 New Zealand had the lowest per-capita income of all the developed nations surveyed by the World Bank.[148] In 2010 the estimated gross domestic product (GDP) at purchasing power parity (PPP) per capita was roughly US$28,250, between the thirty-first and fifty-first highest for all countries.{{#tag:ref|PPP GDP estimates from different organisations vary. The International Monetary Fund's estimate is US$27,420, ranked 32.[149] The CIA World Factbook estimate is $28,000, ranked 51.[150] The World Bank's estimate is US$29,352, ranked 31.[151]|group=n}} The median personal income in 2006 was $24,400. This was up from $15,600 in 1996, with the largest increases in the $50,000 to $70,000 bracket.[152] The median income for men was $31,500, $12,400 more than women.[153] The highest median personal income were for people identifying with the European or "other" ethnic group, while the lowest was from the Asian ethnic group. The median income for people identifying as Māori was $20,900.[154] In 2013, the median personal income had risen slightly to $28,500.[155]
+In 1982 New Zealand had the lowest per-capita income of all the developed nations surveyed by the World Bank.[147] In 2010 the estimated gross domestic product (GDP) at purchasing power parity (PPP) per capita was roughly US$28,250, between the thirty-first and fifty-first highest for all countries.{{#tag:ref|PPP GDP estimates from different organisations vary. The International Monetary Fund's estimate is US$27,420, ranked 32.[148] The CIA World Factbook estimate is $28,000, ranked 51.[149] The World Bank's estimate is US$29,352, ranked 31.[150]|group=n}} The median personal income in 2006 was $24,400. This was up from $15,600 in 1996, with the largest increases in the $50,000 to $70,000 bracket.[151] The median income for men was $31,500, $12,400 more than women.[152] The highest median personal income were for people identifying with the European or "other" ethnic group, while the lowest was from the Asian ethnic group. The median income for people identifying as Māori was $20,900.[153] In 2013, the median personal income had risen slightly to $28,500.[154]
 
-Unemployment peaked above 10 percent in 1991 and 1992,[156] before falling to a record low of 3.7 percent in 2007 (ranking third from twenty-seven comparable OECD nations).[157] Unemployment rose back to 7 percent in late 2009.[158] In the June 2017 quarter, unemployment had fallen to 4.8 percent. This is the lowest unemployment rate since December 2008, after the start of the global financial crisis, when it was 4.4 percent.[159] Most New Zealanders do some form of voluntary work, more women volunteer (92 percent) than males (86 percent).[160] Home ownership has declined since 1991, from 73.8 percent to 66.9 percent in 2006.[161]
+Unemployment peaked above 10 percent in 1991 and 1992,[155] before falling to a record low of 3.7 percent in 2007 (ranking third from twenty-seven comparable OECD nations).[156] Unemployment rose back to 7 percent in late 2009.[157] In the June 2017 quarter, unemployment had fallen to 4.8 percent. This is the lowest unemployment rate since December 2008, after the start of the global financial crisis, when it was 4.4 percent.[158] Most New Zealanders do some form of voluntary work, more women volunteer (92 percent) than males (86 percent).[159] Home ownership has declined since 1991, from 73.8 percent to 66.9 percent in 2006.[160]
 
 
 See also
@@ -804,9 +804,9 @@ Other data from 2001 onwards were taken from:
 
 [107]
 
-[108]
+[108] Trudgill, Peter and Jean Hannah. (2002). International English: A Guide to the Varieties of Standard English, 4th ed. London: Arnold., p 24.
 
-[109] Trudgill, Peter and Jean Hannah. (2002). International English: A Guide to the Varieties of Standard English, 4th ed. London: Arnold., p 24.
+[109]
 
 [110]
 
@@ -820,9 +820,9 @@ Other data from 2001 onwards were taken from:
 
 [115]
 
-[116]
+[116] New Zealand Sign Language Act 2006 No 18 (as at 30 June 2008), Public Act. New Zealand Parliamentary Counsel Office. Retrieved 29 November 2011.
 
-[117] New Zealand Sign Language Act 2006 No 18 (as at 30 June 2008), Public Act. New Zealand Parliamentary Counsel Office. Retrieved 29 November 2011.
+[117]
 
 [118]
 
@@ -844,11 +844,11 @@ Other data from 2001 onwards were taken from:
 
 [127]
 
-[128]
+[128] Table 28, 2013 Census Data – QuickStats About Culture and Identity – Tables.
 
-[129] Table 28, 2013 Census Data – QuickStats About Culture and Identity – Tables.
+[129] This table includes all people who stated each religious affiliation, whether as their only religious affiliation or as one of several. Where a person reported more than one religious affiliation, they were counted in each applicable group.
 
-[130] This table includes all people who stated each religious affiliation, whether as their only religious affiliation or as one of several. Where a person reported more than one religious affiliation, they were counted in each applicable group.
+[130]
 
 [131]
 
@@ -866,9 +866,9 @@ Other data from 2001 onwards were taken from:
 
 [138]
 
-[139]
+[139]  In tables 28 (Religious Affiliation) and 19 (Languages Spoken by Ethnic Group)
 
-[140]  In tables 28 (Religious Affiliation) and 19 (Languages Spoken by Ethnic Group)
+[140]
 
 [141]
 
@@ -909,5 +909,3 @@ Other data from 2001 onwards were taken from:
 [159]
 
 [160]
-
-[161]

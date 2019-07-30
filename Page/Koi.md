@@ -1,4 +1,4 @@
-Koiinapond-swimming-fall-2011.ogv or more specifically _JINLI_ or , are colored varieties of Amur carp (_Cyprinus rubrofuscus_) that are kept for decorative purposes in outdoor koi ponds or water gardens.
+or more specifically _JINLI_ or , are colored varieties of Amur carp (_Cyprinus rubrofuscus_) that are kept for decorative purposes in outdoor koi ponds or water gardens.
 
 Koi is an informal group of the colored variants of _C. carpio_. Several varieties are recognized by the Japanese. Koi varieties are distinguished by coloration, patterning, and scalation. Some of the major colors are white, black, red, orange, yellow, blue, and cream. The most popular category of koi is the _Gosanke_, which is made up of the _Kohaku_, _Taisho Sanshoku_, and _Showa Sanshoku_ varieties.
 
@@ -25,7 +25,7 @@ In the past, koi were commonly believed to have been bred from the common carp (
 
 Varieties
 
-Koi_feeding,_National_Arboretum.jpg Koi varieties are distinguished by coloration, patterning, and scalation. Some of the major colors are white, black, red, yellow, blue, and cream. Although the possible colors are virtually limitless, breeders have identified and named a number of specific categories. The most notable category is _Gosanke_, which is made up of the _Kohaku_, _Taisho Sanshoku_, and _Showa Sanshoku_ varieties.
+Koi varieties are distinguished by coloration, patterning, and scalation. Some of the major colors are white, black, red, yellow, blue, and cream. Although the possible colors are virtually limitless, breeders have identified and named a number of specific categories. The most notable category is _Gosanke_, which is made up of the _Kohaku_, _Taisho Sanshoku_, and _Showa Sanshoku_ varieties.
 
 New koi varieties are still being actively developed.[20] Ghost koi developed in the 1980s have become very popular in the United Kingdom; they are a hybrid of wild carp and Ogon koi, and are distinguished by their metallic scales. Butterfly koi (also known as longfin koi, or dragon carp), also developed in the 1980s, are notable for their long and flowing fins. They are hybrids of koi with Asian carp. Butterfly koi and ghost koi are considered by some to be not true _nishikigoi_.
 
@@ -77,7 +77,7 @@ File:Showa.JPG%7CShowa Sanke
 
 Differences from goldfish
 
-Koi_head_closeup.jpg on the lip that are not visible in goldfish.]]
+on the lip that are not visible in goldfish.]]
 
 Goldfish (金魚) were developed in China more than a thousand years ago by selectively breeding Prussian carp for color mutations. By the Song dynasty (960–1279), yellow, orange, white, and red-and-white colorations had been developed. Goldfish (_Carassius auratus_) and Prussian carp (_Carassius gibelio_) are now considered different species. Goldfish were introduced to Japan in the 16th century and to Europe in the 17th century.[22] Koi, though, were developed from common carp in Japan in the 1820s. Koi are domesticated common carp (_Cyprinus carpio_) that are selected or culled for color; they are not a different species, but a subspecies, and will revert to the original coloration within a few generations if allowed to breed freely.
 
@@ -86,7 +86,7 @@ The length of a koi can average up to about 3.28 feet. On average they also grow
 
 Health, maintenance, and longevity
 
-Yuyuan_Garden.jpg, Shanghai]] The common carp is a hardy fish, and koi retain that durability. Koi are cold-water fish, but benefit from being kept in the range, and do not react well to long, cold, winter temperatures; their immune systems are very weak below 10 °C. Koi ponds usually have a metre or more of depth in areas of the world that become warm during the summer, whereas in areas that have harsher winters, ponds generally have a minimum of . Specific pond construction has been evolved by koi keepers intent on raising show-quality koi.
+, Shanghai]] The common carp is a hardy fish, and koi retain that durability. Koi are cold-water fish, but benefit from being kept in the range, and do not react well to long, cold, winter temperatures; their immune systems are very weak below 10 °C. Koi ponds usually have a metre or more of depth in areas of the world that become warm during the summer, whereas in areas that have harsher winters, ponds generally have a minimum of . Specific pond construction has been evolved by koi keepers intent on raising show-quality koi.
 
 The bright colors of koi put them at a severe disadvantage against predators; a white-skinned _Kohaku_ is a visual dinner bell against the dark green of a pond. Herons, kingfishers, otters, raccoons, cats, foxes, badgers, and hedgehogs are all capable of emptying a pond of its fish. A well-designed outdoor pond has areas too deep for herons to stand, overhangs high enough above the water that mammals cannot reach in, and shade trees overhead to block the view of aerial passers-by. It may prove necessary to string nets or wires above the surface. A pond usually includes a pump and filtration system to keep the water clear.
 
@@ -101,7 +101,7 @@ Koi are very hardy. With proper care, they resist many of the parasites that aff
 
 Breeding
 
-When koi naturally breed on their own they tend to spawn in the spring and summer seasons. The male will start following the female, swimming right behind her and nudging her. After the female koi releases her eggs they sink to the bottom of the pond and stay there. A sticky outer shell around the egg helps keep it in place so it does not float around. Although the female can produce many spawns, many of the fry do not survive due to being eaten by others. On average if the egg survives around 4–7 days the fry will be hatched from the egg.[37]Koi4.jpg]]
+When koi naturally breed on their own they tend to spawn in the spring and summer seasons. The male will start following the female, swimming right behind her and nudging her. After the female koi releases her eggs they sink to the bottom of the pond and stay there. A sticky outer shell around the egg helps keep it in place so it does not float around. Although the female can produce many spawns, many of the fry do not survive due to being eaten by others. On average if the egg survives around 4–7 days the fry will be hatched from the egg.[37]]]
 
 Like most fish, koi reproduce through spawning in which a female lays a vast number of eggs and one or more males fertilize them. Nurturing the resulting offspring (referred to as "fry") is a tricky and tedious job, usually done only by professionals. Although a koi breeder may carefully select the parents they wish based on their desired characteristics, the resulting fry nonetheless exhibit a wide range of color and quality.
 
@@ -112,7 +112,7 @@ The semirandomized result of the koi's reproductive process has both advantages 
 
 In the wild
 
-Koi_Feeding_in_Mt_Qingxiu_Nanning_Close.JPG]]
+]]
 
 Koi have been accidentally or deliberately released into the wild in every continent except Antarctica. They quickly revert to the natural coloration of common carp within a few generations. In many areas, they are considered an invasive species and pests. In the state of Queensland in Australia, they are considered noxious fish.[38]
 

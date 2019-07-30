@@ -20,7 +20,7 @@ An adjectival form is _porcine_. Another adjectival form (technically for the su
 
 Description and behaviour
 
-Domestic_pig_skull_(Sus_domesticus).jpg).]] A typical pig has a large head with a long snout that is strengthened by a special prenasal bone and by a disk of cartilage at the tip.[9] The snout is used to dig into the soil to find food and is a very acute sense organ. There are four hoofed toes on each foot, with the two larger central toes bearing most of the weight, but the outer two also being used in soft ground.[10]
+).]] A typical pig has a large head with a long snout that is strengthened by a special prenasal bone and by a disk of cartilage at the tip.[9] The snout is used to dig into the soil to find food and is a very acute sense organ. There are four hoofed toes on each foot, with the two larger central toes bearing most of the weight, but the outer two also being used in soft ground.[10]
 
 The dental formula of adult pigs is , giving a total of 44 teeth. The rear teeth are adapted for crushing. In the male, the canine teeth form tusks, which grow continuously and are sharpened by constantly being ground against each other.[11]
 
@@ -29,7 +29,7 @@ Occasionally, captive mother pigs may savage their own piglets, often if they be
 
 Distribution and evolution
 
-Sus_scrofa_domesticus,_miniature_pig,_juvenile.jpgPig_in_a_bucket.jpg With around 1 billion individuals alive at any time, the domestic pig is one of the most numerous large mammals on the planet.[14][15]
+With around 1 billion individuals alive at any time, the domestic pig is one of the most numerous large mammals on the planet.[14][15]
 
 The ancestor of the domestic pig is the wild boar, which is one of the most numerous and widespread large mammals. Its many subspecies are native to all but the harshest climates of continental Eurasia and its islands and Africa as well, from Ireland and India to Japan and north to Siberia.
 
@@ -48,7 +48,7 @@ Pigs are omnivores, which means that they consume both plants and animals. In th
 
 Relationship with humans
 
-Cochon_truffier.JPG.]] Domesticated pigs, especially miniature breeds, are commonly kept as pets.[21] Domestic pigs are raised commercially as livestock; materials that are garnered include their meat (known as pork), leather, and their bristly hairs which are used to make brushes. Because of their foraging abilities and excellent sense of smell, they are used to find truffles in many European countries. Both wild and feral pigs are commonly hunted.
+.]] Domesticated pigs, especially miniature breeds, are commonly kept as pets.[21] Domestic pigs are raised commercially as livestock; materials that are garnered include their meat (known as pork), leather, and their bristly hairs which are used to make brushes. Because of their foraging abilities and excellent sense of smell, they are used to find truffles in many European countries. Both wild and feral pigs are commonly hunted.
 
 The relatively short, stiff, coarse hairs of the pig are called bristles, and were once so commonly used in paintbrushes that in 1946 the Australian Government launched Operation Pig Bristle. In May 1946, in response to a shortage of pig bristles for paintbrushes to paint houses in the post-World War II construction boom, the Royal Australian Air Force (RAAF) flew in 28 short tons of pig bristles from China, their only commercially available source at the time.[22]
 
@@ -59,7 +59,7 @@ Human skin is very similar to pig skin, therefore pig skin has been used in many
 
 Species
 
-Bearded_Pigs2.jpg'')]] Pig_hand_skeleton.jpg The genus _Sus_ is currently thought to contain eight living species. A number of extinct species (†) are known from fossils.
+'')]] The genus _Sus_ is currently thought to contain eight living species. A number of extinct species (†) are known from fossils.
 
 -   _Sus ahoenobarbus_ Huet, 1888 – Palawan bearded pig
 -   _Sus amyus_
@@ -91,8 +91,6 @@ The pygmy hog, formerly _Sus salvanius_ is now placed in the monotypic genus _Po
 
 Domestic pigs
 
-Kelgris1909b.jpg Green_glazed_toilet_with_pigsty_model._Eastern_Han_dynasty_25_-_220_CE.jpg
-
 Pigs have been domesticated since ancient times in the Old World. Archaeological evidence suggests that pigs were being managed in the wild in a way similar to the way they are managed by some modern New Guineans from wild boar as early as 13,000–12,700 BP in the Near East in the Tigris Basin,[31] Çayönü, Cafer Höyük, Nevalı Çori.[32] Remains of pigs have been dated to earlier than 11,400 BP in Cyprus that must have been introduced from the mainland which suggests domestication in the adjacent mainland by then.[33] A separate domestication also occurred in China.[34]
 
 In India, pigs have been domesticated for a long time mostly in Goa and some rural areas for pig toilets. This was also done in China. Though ecologically logical as well as economical, pig toilets are waning in popularity as use of septic tanks and/or sewerage systems is increasing in rural areas.
@@ -111,8 +109,6 @@ Cultural and religious reference to pigs
 Pigs appear in the traditional and popular arts, media, and cultures of many societies, where they sometimes carry religious symbolism. In Asia the wild boar is one of 12 animal images comprising the Chinese zodiac, while in Europe the boar represents a standard charge in heraldry. In Islam and Judaism pigs and those who handle them are viewed negatively, and the consumption of pork is forbidden. Epicureans consider the pig as an official mascot or totem, and bronze sculptures of pigs have been found in the Epicurean library at Herculaneum. Pigs are frequently alluded to in folk art, idioms, metaphors, and proverbs, and also occasionally in parables (e.g. Parable of the Prodigal Son).
 
 In folklore, folkways, and mythology
-
-Bundesarchiv_Bild_183-D1224-0012-003,_Neujahr,_Schonsteinfeger_mit_Schwein-crop.jpg
 
 -   In European folklore, there is a widespread belief that pigs are intensely frightened by mirrors.
 -   In many European countries, a feast has formed around slaughtering a pig.
@@ -138,7 +134,7 @@ In religion
 
 Environmental impacts
 
-Wild_Pig_KSC02pd0873.jpgs) in Florida]]
+s) in Florida]]
 
 Domestic pigs that have escaped from urban areas or were allowed to forage in the wild, and in some cases wild boars which were introduced as prey for hunting, have given rise to large populations of feral pigs in North and South America, Australia, New Zealand, Hawaii, and other areas where pigs are not native. Accidental or deliberate releases of pigs into countries or environments where they are an alien species have caused extensive environmental change. Their omnivorous diet, aggressive behaviour, and their feeding method of rooting in the ground all combine to severely alter ecosystems unused to pigs. Pigs will even eat small animals and destroy nests of ground nesting birds.[44] The Invasive Species Specialist Group lists feral pigs on the list of the world's 100 worst invasive species and says:
 

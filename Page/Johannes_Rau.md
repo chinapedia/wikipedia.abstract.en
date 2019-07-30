@@ -29,7 +29,7 @@ Death
 
 In long history of heart disease, he died a few days after his 75th birthday on 27 January 2006. The funeral took place on 7 February following a funeral act of state on the Dorotheenstadt cemetery in Berlin in the closest of family and friends.
 
-Rau_grab.jpg Johannes_Rau_2002.jpeg in 2002.]]
+in 2002.]]
 
 
 Motto and maxim

@@ -34,7 +34,7 @@ The principal grape varieties in the region are fairly evenly split between red 
 
 Caves
 
-Mammoth_Cave_Western_Australia.jpg]] Several hundred caves are located near Margaret River, all of them within Leeuwin-Naturaliste National Park. Six of these are open to the public.[12]
+]] Several hundred caves are located near Margaret River, all of them within Leeuwin-Naturaliste National Park. Six of these are open to the public.[12]
 
 One of which being the multi-chambered Mammoth Cave, which lies south of the town and contains fossils dating back over 35,000 years.[13] The cave was first discovered by European settlers in 1850 and has been open to the public since 1904. The cave can be explored by a self-guided audio tour, and is one of the few caves in Australia offering partial disabled access.[14]
 

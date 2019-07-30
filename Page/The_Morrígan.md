@@ -1,4 +1,4 @@
-Morrigan.jpg THE MORRÍGAN or MÓRRÍGAN, also known as MORRÍGU, is a figure from Irish mythology. The name is MÓR-RÍOGHAIN in Modern Irish. It has been translated as "great queen", "phantom queen" or "queen of phantoms".
+THE MORRÍGAN or MÓRRÍGAN, also known as MORRÍGU, is a figure from Irish mythology. The name is MÓR-RÍOGHAIN in Modern Irish. It has been translated as "great queen", "phantom queen" or "queen of phantoms".
 
 The Morrígan is mainly associated with war and fate, especially with foretelling doom, death or victory in battle. In this role she often appears as a crow, the _badb_.[1] She incites warriors to battle and can help bring about victory over their enemies. The Morrígan encourages warriors to do brave deeds, strikes fear into their enemies, and is portrayed washing the bloodstained clothes of those fated to die.[2][3] She is most frequently seen as a goddess of battle and war and has also been seen as a manifestation of the earth- and sovereignty-goddess,[4][5] chiefly representing the goddess's role as guardian of the territory and its people.[6][7]
 

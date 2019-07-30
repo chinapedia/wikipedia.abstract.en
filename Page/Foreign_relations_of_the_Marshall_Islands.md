@@ -7,7 +7,7 @@ In May 2005, Chen Shui-bian, President of the Republic of China (Taiwan), became
 
 Countries with diplomatic relations
 
-Diplomatic_relations_of_the_Marshall_Islands.svg List of countries with diplomatic relations with the Marshall Islands:[2][3]
+List of countries with diplomatic relations with the Marshall Islands:[2][3]
 
 1.  – 21 October 1986
 

@@ -78,7 +78,7 @@ If a language is _not_ regular, it requires a machine with at least Ω(log log _
 
 Location in the Chomsky hierarchy
 
-Chomsky-hierarchy.svg To locate the regular languages in the Chomsky hierarchy, one notices that every regular language is context-free. The converse is not true: for example the language consisting of all strings having the same number of _a_'s as _b_'s is context-free but not regular. To prove that a language such as this is not regular, one often uses the Myhill–Nerode theorem or the pumping lemma among other methods.[36]
+To locate the regular languages in the Chomsky hierarchy, one notices that every regular language is context-free. The converse is not true: for example the language consisting of all strings having the same number of _a_'s as _b_'s is context-free but not regular. To prove that a language such as this is not regular, one often uses the Myhill–Nerode theorem or the pumping lemma among other methods.[36]
 
 Important subclasses of regular languages include
 

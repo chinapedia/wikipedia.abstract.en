@@ -10,20 +10,20 @@ In 1909 Lucie Belin (1891–1942)—Gris' first wife—gave birth to Georges Gon
 
 Career
 
-Juan_Gris_El_1_de_mayo_en_el_Kursall,_1907.jpg In 1906 he moved to Paris and became friends with the poets Guillaume Apollinaire, Max Jacob, and artists Henri Matisse, Georges Braque, Fernand Léger and Jean Metzinger.[4][5] He submitted darkly humorous illustrations to journals such as the anarchist satirical magazine _L'Assiette au Beurre_, and also _Le Rire_, _Le Charivari_, and _Le Cri de Paris_.[6] In Paris, Gris followed the lead of Metzinger and another friend and fellow countryman, Pablo Picasso.
+In 1906 he moved to Paris and became friends with the poets Guillaume Apollinaire, Max Jacob, and artists Henri Matisse, Georges Braque, Fernand Léger and Jean Metzinger.[4][5] He submitted darkly humorous illustrations to journals such as the anarchist satirical magazine _L'Assiette au Beurre_, and also _Le Rire_, _Le Charivari_, and _Le Cri de Paris_.[6] In Paris, Gris followed the lead of Metzinger and another friend and fellow countryman, Pablo Picasso.
 
 Gris began to paint seriously in 1911 (when he gave up working as a satirical cartoonist), developing at this time a personal Cubist style.[7] In _A Life of Picasso_, John Richardson writes that Jean Metzinger's 1911 work, _Le goûter (Tea Time)_, persuaded Juan Gris of the importance of mathematics in painting.[8] Gris exhibited for the first time at the 1912 Salon des Indépendants (a painting entitled _Hommage à Pablo Picasso_).[9]
 
 "He appears with two styles", writes art historian Peter Brooke, "In one of them a grid structure appears that is clearly reminiscent of the _Goûter_ and of Metzinger's later work in 1912."[10] In the other, Brooke continues, "the grid is still present but the lines are not stated and their continuity is broken. Their presence is suggested by the heavy, often triangular, shading of the angles between them... Both styles are distinguished from the work of Picasso and Braque by their clear, rational and measurable quality."[11] Although Gris regarded Picasso as a teacher, Gertrude Stein wrote in _The Autobiography of Alice B. Toklas_ that "Juan Gris was the only person whom Picasso wished away".[12]
 
-Juan_Gris_-_Portrait_of_Pablo_Picasso_-_Google_Art_Project.jpg]] In 1912 Gris exhibited at the _Exposicío d'art cubista_, Galeries Dalmau in Barcelona, the first declared group exhibition of Cubism worldwide;[13][14] the gallery Der Sturm in Berlin; the _Salon de la Société Normande de Peinture Moderne_ in Rouen; and the Salon de la Section d'Or in Paris. Gris, in that same year, signed a contract that gave Daniel-Henry Kahnweiler exclusive rights to his work.[15]
+]] In 1912 Gris exhibited at the _Exposicío d'art cubista_, Galeries Dalmau in Barcelona, the first declared group exhibition of Cubism worldwide;[13][14] the gallery Der Sturm in Berlin; the _Salon de la Société Normande de Peinture Moderne_ in Rouen; and the Salon de la Section d'Or in Paris. Gris, in that same year, signed a contract that gave Daniel-Henry Kahnweiler exclusive rights to his work.[15]
 
 At first Gris painted in the style of _Analytical Cubism_, a term he himself later coined,[16] but after 1913 he began his conversion to _Synthetic Cubism_, of which he became a steadfast interpreter, with extensive use of papier collé or, collage. Unlike Picasso and Braque, whose Cubist works were practically monochromatic, Gris painted with bright harmonious colors in daring, novel combinations in the manner of his friend Matisse. Gris exhibited with the painters of the Puteaux Group in the Salon de _la Section d'Or_ in 1912.[17] His preference for clarity and order influenced the Purist style of Amédée Ozenfant and Charles Edouard Jeanneret (Le Corbusier), and made Gris an important exemplar of the post-war "return to order" movement.[18] In 1915 he was painted by his friend, Amedeo Modigliani. In November 1917 he made one of his few sculptures, the polychrome plaster _Harlequin_.[19][20]
 
 
 Crystal Cubism
 
-Juan_Gris,_1916,_Woman_with_Mandolin,_after_Corot_(La_femme_à_la_mandoline,_d'après_Corot),_oil_on_canvas,_92_x_60_cm,_Kunstmuseum_Basel.jpg]] Juan_Gris_(José_Victoriano_González_Pérez),_Spanish_-_Still_Life_before_an_Open_Window,_Place_Ravignan_-_Google_Art_Project.jpg]] Gris's works from late 1916 through 1917 exhibit a greater simplification of geometric structure, a blurring of the distinction between objects and setting, between subject matter and background. The oblique overlapping planar constructions, tending away from equilibrium, can best be seen in _Woman with Mandolin, after Corot_ (September 1916) and in its epilogue, _Portrait of Josette Gris_ (October 1916; Museo Reina Sofia).[21]
+]] ]] Gris's works from late 1916 through 1917 exhibit a greater simplification of geometric structure, a blurring of the distinction between objects and setting, between subject matter and background. The oblique overlapping planar constructions, tending away from equilibrium, can best be seen in _Woman with Mandolin, after Corot_ (September 1916) and in its epilogue, _Portrait of Josette Gris_ (October 1916; Museo Reina Sofia).[21]
 
 The clear-cut underlying geometric framework of these works seemingly controls the finer elements of the compositions; the constituent components, including the small planes of the faces, become part of the unified whole. Though Gris certainly had planned the representation of his chosen subject matter, the abstract armature serves as the starting point.[22]
 
@@ -41,7 +41,7 @@ Gris articulated most of his aesthetic theories during 1924 and 1925. He deliver
 
 Death
 
-Juan_Gris,_1915,_Nature_morte_à_la_nappe_à_carreaux_(Still_Life_with_Checked_Tablecloth),_oil_on_canvas,_116.5_x_89.3_cm.jpg'', 1915, oil on canvas, 116.5 x 89.3 cm, Metropolitan Museum of Art, New York]] After October 1925, Gris was frequently ill with bouts of uremia and cardiac problems. He died of renal failure[27] in Boulogne-sur-Seine (Paris) on 11 May 1927, at the age of 40, leaving a wife, Josette, and a son, Georges.
+'', 1915, oil on canvas, 116.5 x 89.3 cm, Metropolitan Museum of Art, New York]] After October 1925, Gris was frequently ill with bouts of uremia and cardiac problems. He died of renal failure[27] in Boulogne-sur-Seine (Paris) on 11 May 1927, at the age of 40, leaving a wife, Josette, and a son, Georges.
 
 
 Art market

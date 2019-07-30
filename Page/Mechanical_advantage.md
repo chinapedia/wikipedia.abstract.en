@@ -7,7 +7,7 @@ The lever is a movable bar that pivots on a fulcrum attached to or positioned on
 
 In modern times, this kind of rotary leverage is widely used; see a (rotary) 2nd-class lever; see gears, pulleys or friction drive, used in a mechanical power transmission scheme. It is common for mechanical advantage to be manipulated in a 'collapsed' form, via the use of more than one gear (a gearset). In such a gearset, gears having smaller radii and less inherent mechanical advantage are used. In order to make use of non-collapsed mechanical advantage, it is necessary to use a 'true length' rotary lever. See, also, the incorporation of mechanical advantage into the design of certain types of electric motors; one design is an 'outrunner'.
 
-Lever_mechanical_advantage.png As the lever pivots on the fulcrum, points farther from this pivot move faster than points closer to the pivot. The power into and out of the lever is the same, so must come out the same when calculations are being done. Power is the product of force and velocity, so forces applied to points farther from the pivot must be less than when applied to points closer in.[2]
+As the lever pivots on the fulcrum, points farther from this pivot move faster than points closer to the pivot. The power into and out of the lever is the same, so must come out the same when calculations are being done. Power is the product of force and velocity, so forces applied to points farther from the pivot must be less than when applied to points closer in.[2]
 
 If _a_ and _b_ are distances from the fulcrum to points _A_ and _B_ and if force _F_(A)_ applied to _A_ is the input force and _F_(B)_ exerted at _B_ is the output, the ratio of the velocities of points _A_ and _B_ is given by _a_/_b_ so the ratio of the output force to the input force, or mechanical advantage, is given by
 
@@ -35,7 +35,7 @@ This shows that for an ideal mechanism the input-output speed ratio equals the m
 
 Gear trains
 
-Gear teeth are designed so that the number of teeth on a gear is proportional to the radius of its pitch circle, and so that the pitch circles of meshing gears roll on each other without slipping. The speed ratio for a pair of meshing gears can be computed from ratio of the radii of the pitch circles and the ratio of the number of teeth on each gear, its gear ratio. Gears_animation.gif
+Gear teeth are designed so that the number of teeth on a gear is proportional to the radius of its pitch circle, and so that the pitch circles of meshing gears roll on each other without slipping. The speed ratio for a pair of meshing gears can be computed from ratio of the radii of the pitch circles and the ratio of the number of teeth on each gear, its gear ratio.
 
 The velocity _v_ of the point of contact on the pitch circles is the same on both gears, and is given by
 
@@ -80,8 +80,6 @@ Chains and belts dissipate power through friction, stretch and wear, which means
 
 Example: bicycle chain drive
 
-Bicycle_mechanical_advantage.svg
-
 Consider the 18-speed bicycle with 7 in (radius) cranks and 26 in (diameter) wheels. If the sprockets at the crank and at the rear drive wheel are the same size, then the ratio of the output force on the tire to the input force on the pedal can be calculated from the law of the lever to be
 
 $$MA = \frac{F_B}{F_A} = \frac{7}{13} = 0.54.$$
@@ -107,7 +105,7 @@ Block and tackle
 
 A block and tackle is an assembly of a rope and pulleys that is used to lift loads. A number of pulleys are assembled together to form the blocks, one that is fixed and one that moves with the load. The rope is threaded through the pulleys to provide mechanical advantage that amplifies that force applied to the rope.[5]
 
-In order to determine the mechanical advantage of a block and tackle system consider the simple case of a gun tackle, which has a single mounted, or fixed, pulley and a single movable pulley. The rope is threaded around the fixed block and falls down to the moving block where it is threaded around the pulley and brought back up to be knotted to the fixed block. Tackles.png
+In order to determine the mechanical advantage of a block and tackle system consider the simple case of a gun tackle, which has a single mounted, or fixed, pulley and a single movable pulley. The rope is threaded around the fixed block and falls down to the moving block where it is threaded around the pulley and brought back up to be knotted to the fixed block.
 
 Let _S_ be the distance from the axle of the fixed block to the end of the rope, which is _A_ where the input force is applied. Let _R_ be the distance from the axle of the fixed block to the axle of the moving block, which is _B_ where the load is applied.
 

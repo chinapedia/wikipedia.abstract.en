@@ -12,7 +12,7 @@ Pope Boniface IX made him cardinal-priest of S. Croce in Gerusalemme (1389) and 
 
 Papacy
 
-Papal_bulla_of_Pope_Innocent_VII_(FindID_602224).jpg of Innocent VII ]]
+of Innocent VII ]]
 
 Migliorati was unanimously chosen – by eight cardinals – on 17 October 1404 and took the name of Innocent VII. There was a general riot by the Ghibelline party in Rome when news of his election got out, but peace was maintained by the aid of King Ladislaus of Naples, who hastened to Rome with a band of soldiers to assist the Pope in suppressing the insurrection. For his services the king extorted various concessions from Innocent VII, among them the promise that Ladislaus' claim to Naples would not be compromised,[4] which claim had been challenged until very recently by Louis II of Anjou. That suited Innocent VII, who had no intention of reaching an agreement with Avignon that would compromise his claims to the Papal States. Thus Innocent VII was laid under embarrassing obligations, from which he freed himself.
 
@@ -27,7 +27,7 @@ It is said that Innocent VII planned the restoration of the Roman University, bu
 
 Death
 
-Pope_Innocent_VII.jpg He died in Rome on 6 November 1406.[9]
+He died in Rome on 6 November 1406.[9]
 
 
 See also

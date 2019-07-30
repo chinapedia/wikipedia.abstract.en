@@ -5,7 +5,7 @@ Legend has it that Achilles was born here. Hippocrates, the "Father of Medicine"
 
 Geography
 
-Kisavos_mountain,_Greece.jpg viewed from Pineios river in Larissa.]]
+viewed from Pineios river in Larissa.]]
 
 There are a number of highways including E75 and the main railway from Athens to Thessaloniki (Salonika) crossing through Thessaly. The region is directly linked to the rest of Europe through the International Airport of Central Greece located in Nea Anchialos a short distance from Larissa (about 60 km). Larissa lies on the river Pineios.
 
@@ -36,8 +36,6 @@ History
 
 Antiquity
 
-Larissa_drachma.jpg
-
 Pre-history
 
 Traces of Paleolithic human settlement have been recovered from the area, but it was peripheral to areas of advanced culture.[8] The area around Larissa was extremely fruitful; it was agriculturally important and in antiquity was known for its horses.
@@ -50,9 +48,9 @@ Classical Era
 
 Larissa was a polis (city-state) during the Classical Era.[12] Larissa is thought to be where the famous Greek physician Hippocrates and the famous philosopher Gorgias of Leontini died.
 
-THESSALY,_Larissa._Circa_370-360_BC.jpg. _Obv_: Head of Aleuas facing slightly left, wearing conical helmet, ALEU to right; labrys behind. _Rev_: Eagle standing right, head left, on thunderbolt; ELLA to left, LARISAYA to right. Thessaly, Larissa. Circa 370-360 BC]] When Larissa ceased minting the federal coins it shared with other Thessalian towns and adopted its own coinage in the late 5th century BC, it chose local types for its coins. The obverse depicted the nymph of the local spring, Larissa, for whom the town was named; probably the choice was inspired by the famous coins of Kimon depicting the Syracusan nymph Arethusa. The reverse depicted a horse in various poses. The horse was an appropriate symbol of Thessaly, a land of plains, which was well known for its horses. Usually there is a male figure; he should perhaps be seen as the eponymous hero of the Thessalians, Thessalos, who is probably also to be identified on many of the earlier, federal coins of Thessaly.
+. _Obv_: Head of Aleuas facing slightly left, wearing conical helmet, ALEU to right; labrys behind. _Rev_: Eagle standing right, head left, on thunderbolt; ELLA to left, LARISAYA to right. Thessaly, Larissa. Circa 370-360 BC]] When Larissa ceased minting the federal coins it shared with other Thessalian towns and adopted its own coinage in the late 5th century BC, it chose local types for its coins. The obverse depicted the nymph of the local spring, Larissa, for whom the town was named; probably the choice was inspired by the famous coins of Kimon depicting the Syracusan nymph Arethusa. The reverse depicted a horse in various poses. The horse was an appropriate symbol of Thessaly, a land of plains, which was well known for its horses. Usually there is a male figure; he should perhaps be seen as the eponymous hero of the Thessalians, Thessalos, who is probably also to be identified on many of the earlier, federal coins of Thessaly.
 
-Ancient_theatre_of_Larisa.jpg of the city. It was constructed inside the ancient city's centre during the reign of Antigonus II Gonatas towards the end of the 3rd century BC. The theatre was in use for six centuries, until the end of the 3rd century AD]] Λάρισα,_Αρχαίο_Θέατρο_Β_7.jpg
+of the city. It was constructed inside the ancient city's centre during the reign of Antigonus II Gonatas towards the end of the 3rd century BC. The theatre was in use for six centuries, until the end of the 3rd century AD]]
 
 Larissa, sometimes written Larisa on ancient coins and inscriptions, is near the site of the Homeric Argissa. It appears in early times, when Thessaly was mainly governed by a few aristocratic families, as an important city under the rule of the Aleuadae, whose authority extended over the whole district of Pelasgiotis. This powerful family possessed for many generations before 369 BC the privilege of furnishing the _tagus_, the local term for the _strategos_ of the combined Thessalian forces. The principal rivals of the Aleuadae were the Scopadae of Crannon, the remains of which are about 14 miles south west.
 
@@ -70,7 +68,7 @@ Larissa is frequently mentioned in connection with the Roman civil wars which pr
 
 Middle Ages and Ottoman period
 
-Λάρισα,_Αρχαιολογικός_χώρος_φρουρίου,_Βυζαντινός_ναός_και_νεκροταφείο_2.jpg, destroyed during the Ottoman times]] Dodwell_Larissa.jpg Frourio_Larissas.JPG, with the Bezesten of Larissa in the background.]] Frourio_-_road.JPG
+, destroyed during the Ottoman times]] , with the Bezesten of Larissa in the background.]]
 
 Larissa was sacked by the Ostrogoths in the late 5th century, and rebuilt under the Byzantine emperor Justinian I.[14]
 
@@ -88,28 +86,20 @@ Larissa was the headquarters of Hursid Pasha during the Greek War of Independenc
 
 Modern Greek era
 
-OldLarisa.jpg
-
 In 1881, the city, along with the rest of Thessaly, was incorporated into the Kingdom of Greece. A considerable portion of the Turkish population emigrated into the Ottoman Empire at that point. During the Greco-Turkish War of 1897, the city was the headquarters of Greek Crown Prince Constantine. The flight of the Greek army from here to Farsala took place on April 23, 1897. Turkish troops entered the city two days later. After a treaty for peace was signed, they withdrew and Larissa remained permanently in Greece. This was followed by a further exodus of Turks in 1898.
-
-Исторически_паметник_в_чест_на_загиналите_в_Балканската_война,_Лариса,_Гърция.jpg
 
 During the Axis Occupation of the country, the Jewish community of the city (dated back to 2nd BC, see Romaniotes) suffered heavy losses. Today in the city there is a Holocaust memorial and a synagogue.
 
 Larissa Nowadays
-
-Λάρισα_κεντρικη_πλατεία_συντριβανι_1.jpg
 
 Today Larissa is the fourth largest Greek city with many squares, taverns and cafes. It has three public hospitals with one being a military hospital. It hosts the Hellenic Air Force Headquarters and NATO Headquarters in Greece. It has a School of Medicine and a School of Biochemistry – Biotechnology and the third largest in the country Institute of Technology. It occupies the first place among Greek cities into green coverage rate per square-metre urban space and the first place with the highest percentance of bars-taverns-restaurants per capita in Greece. It also has two public libraries and five museums.[24]
 
 
 Ecclesiastical history
 
-St_Achilles.jpg
-
 Christianity penetrated early to Larissa, though its first bishop is recorded only in 325 at the Council of Nicaea. St. Achillius of the 4th century, is celebrated for his miracles. Le Quien[25] cites twenty-nine bishops from the fourth to the 18th centuries; the most famous is Jeremias II, who occupied the see until 733, when the Emperor Leo III the Isaurian transferred it from the jurisdiction of the Pope of Rome to the Patriarchate of Constantinople. In the first years of the 10th century it had ten suffragan sees;[26] subsequently the number increased and about the year 1175 under the Emperor Manuel I Comnenus, it reached twenty-eight.[27] At the close of the 15th century, under the Turkish domination, there were only ten suffragan sees,[28] which gradually grew less and finally disappeared.
 
-Larissa_Holocaust_memorial.jpg Larissa_Synagogue_c.jpg of Larissa.]]
+of Larissa.]]
 
 Larissa is an Orthodox Metropolis of the Church of Greece. It was briefly a Latin archbishopric in the early 13th century, and remains a Latin Metropolitan (top-ranking) titular see of the Roman Catholic Church, which must not be confused with the Latin episcopal (low-ranking) titular see Larissa in Syria.
 
@@ -183,8 +173,6 @@ The province of Larissa () was one of the provinces of the Larissa Prefecture. I
 
 Culture
 
-Конят_е_символ_на_Лариса._Изработена_е_през_1994г._от_склуптура_Милто_Папастергиу.jpg SAM_0498-2.jpg Thessalian_Theatre_-_Larissa.JPG
-
 Theatres and Odeons
 
 -   Municipal Conservatory of Larissa[31]
@@ -204,8 +192,6 @@ Archaeological sites
 -   Yeni Mosque
 
 Cuisine
-
-Λάρισα_-_μύλος_Παππά-01.jpg
 
 Local specialities:
 
@@ -250,7 +236,7 @@ The city is in close proximity of many interesting destinations in the region (M
 
 Sports
 
-Larissa_Alkazar.jpg]] AEL_Arena.jpg]]
+]] ]]
 
 The local football club AEL 1964 FC currently participates in Superleague Greece. The team became Greek champion in 1988 and won the Greek Cup in 1985 and 2007. These titles place AEL among the five most important football clubs in Greece. AEL hosts its home games in the newbuild AEL FC Arena since November 2010, a UEFA 3-star-rated football ground. Other important sport venues are the _National Sport Center of Larissa_ (EAK Larissas), which includes the Alcazar Stadium and the Neapoli Indoor Hall.
 
@@ -279,7 +265,7 @@ Historical population
 
 Notable people
 
-Hippocrateslarissa.jpg in Larisa]] Tsokos_-_Theoklitos_Farmakidis.jpg]]
+in Larisa]] ]]
 
 Ancient
 

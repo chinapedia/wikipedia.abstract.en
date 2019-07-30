@@ -1,4 +1,4 @@
-Tetrapeptide_structural_formulae_v.1.png-Gly-Ser-Ala) with GREEN marked amino end (L-VALINE) and
+-Gly-Ser-Ala) with GREEN marked amino end (L-VALINE) and
 BLUE marked carboxyl end (L-ALANINE).]] PEPTIDES (from Greek language πεπτός, _peptós_ "digested"; derived from πέσσειν, _péssein_ "to digest") are short chains of amino acids linked by peptide (amide) bonds.[1] The simplest peptides are dipeptides, followed by tripeptides, tetrapeptides, etc. A POLYPEPTIDE is a long, continuous, and unbranched peptide chain. Hence, peptides fall under the broad chemical classes of biological oligomers and polymers, alongside nucleic acids, oligosaccharides and polysaccharides, etc.
 
 Peptides are distinguished from proteins on the basis of size, and as an arbitrary benchmark can be understood to contain approximately 50 or fewer amino acids.[2][3] Proteins consist of one or more polypeptides arranged in a biologically functional way, often bound to ligands such as coenzymes and cofactors, or to another protein or other macromolecule (DNA, RNA, etc.), or to complex macromolecular assemblies.[4] Finally, while aspects of the lab techniques applied to peptides versus polypeptides and proteins differ (_e.g._, the specifics of electrophoresis, chromatography, etc.), the size boundaries that distinguish peptides from polypeptides and proteins are not absolute: long peptides such as amyloid beta have been referred to as proteins, and smaller proteins like insulin have been considered peptides.
@@ -23,7 +23,7 @@ Peptide fragments refer to fragments of proteins that are used to identify or qu
 
 Chemical synthesis
 
-Peptide_Synthesis.svg using Fmoc-α-amine-protected amino acid]]
+using Fmoc-α-amine-protected amino acid]]
 
 
 Example families
@@ -96,7 +96,7 @@ Several terms related to peptides have no strict length definitions, and there i
 -   A _protein_ consists of one or more polypeptides (more than about 50 amino acids long).
 -   An _oligopeptide_ consists of only a few amino acids (between two and twenty).
 
-Tripeptide_Val-Gly-Ala_Formula_V1.svg-Gly-Ala) with
+-Gly-Ala) with
 GREEN marked amino end (L-VALINE) and
 BLUE marked carboxyl end (L-ALANINE)]]
 

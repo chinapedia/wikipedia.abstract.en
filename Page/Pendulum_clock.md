@@ -7,7 +7,7 @@ History
 
 The pendulum clock was invented in 1656 by Dutch scientist and inventor Christiaan Huygens, and patented the following year. Huygens contracted the construction of his clock designs to clockmaker Salomon Coster, who actually built the clock. Huygens was inspired by investigations of pendulums by Galileo Galilei beginning around 1602. Galileo discovered the key property that makes pendulums useful timekeepers: isochronism, which means that the period of swing of a pendulum is approximately the same for different sized swings.[3][4] Galileo had the idea for a pendulum clock in 1637, which was partly constructed by his son in 1649, but neither lived to finish it.[5] The introduction of the pendulum, the first harmonic oscillator used in timekeeping, increased the accuracy of clocks enormously, from about 15 minutes per day to 15 seconds per day[6] leading to their rapid spread as existing 'verge and foliot' clocks were retrofitted with pendulums.
 
-Edward_East_winged_lantern_clock.jpg that has been converted to use a pendulum. To accommodate the wide pendulum swings caused by the verge escapement, "wings" have been added on the sides]] Grandfather_clock_q.jpg
+that has been converted to use a pendulum. To accommodate the wide pendulum swings caused by the verge escapement, "wings" have been added on the sides]]
 
 These early clocks, due to their verge escapements, had wide pendulum swings of 80–100°. In his 1673 analysis of pendulums, _Horologium Oscillatorium_, Huygens showed that wide swings made the pendulum inaccurate, causing its period, and thus the rate of the clock, to vary with unavoidable variations in the driving force provided by the movement. Clockmakers' realization that only pendulums with small swings of a few degrees are isochronous motivated the invention of the anchor escapement around 1670, which reduced the pendulum's swing to 4–6°.[7] The anchor became the standard escapement used in pendulum clocks. In addition to increased accuracy, the anchor's narrow pendulum swing allowed the clock's case to accommodate longer, slower pendulums, which needed less power and caused less wear on the movement. The seconds pendulum (also called the Royal pendulum), 0.994 m (39.1 in) long, in which the time period is two seconds, became widely used in quality clocks. The long narrow clocks built around these pendulums, first made by William Clement around 1680, became known as grandfather clocks. The increased accuracy resulting from these developments caused the minute hand, previously rare, to be added to clock faces beginning around 1690.[8]
 
@@ -21,8 +21,6 @@ Pendulum clocks remained the world standard for accurate timekeeping for 270 yea
 
 
 Mechanism
-
-Maquinaria_de_un_Ansonia_C-1904.jpg
 
 The mechanism which runs a mechanical clock is called the movement. The movements of all mechanical pendulum clocks have these five parts:[23]
 
@@ -44,8 +42,6 @@ In _electromechanical pendulum clocks_ such as used in mechanical Master clocks 
 
 
 Gravity-swing pendulum
-
-Old_Pendulum_clock.jpg
 
 The pendulum swings with a period that varies with the square root of its effective length. For small swings the period _T_, the time for one complete cycle (two swings), is
 
@@ -75,7 +71,7 @@ To keep time accurately, pendulum clocks must be absolutely level. If they are n
 
 Local gravity
 
-Reloj_de_pendulo_Ansonia_C-1904.jpg Since the pendulum rate will increase with an increase in gravity, and local gravity varies with latitude and elevation on Earth, precision pendulum clocks must be readjusted to keep time after a move. For example, a pendulum clock moved from sea level to will lose 16 seconds per day.[24] With the most accurate pendulum clocks, even moving the clock to the top of a tall building would cause it to lose measurable time due to lower gravity.[25]
+Since the pendulum rate will increase with an increase in gravity, and local gravity varies with latitude and elevation on Earth, precision pendulum clocks must be readjusted to keep time after a move. For example, a pendulum clock moved from sea level to will lose 16 seconds per day.[24] With the most accurate pendulum clocks, even moving the clock to the top of a tall building would cause it to lose measurable time due to lower gravity.[25]
 
 
 Torsion pendulum
@@ -87,7 +83,7 @@ A clock requiring only annual winding is sometimes called a "400-DAY CLOCK" or "
 
 Escapement
 
-Anchor_escapement_animation_217x328px.gif, one of the most common escapements used in pendulum clocks ]]
+, one of the most common escapements used in pendulum clocks ]]
 
 The escapement is a mechanical linkage that converts the force from the clock's wheel train into impulses that keep the pendulum swinging back and forth. It is the part that makes the "ticking" sound in a working pendulum clock. Most escapements consist of a wheel with pointed teeth called the _escape wheel_ which is turned by the clock's wheel train, and surfaces the teeth push against, called _pallets_. During most of the pendulum's swing the wheel is prevented from turning because a tooth is resting against one of the pallets; this is called the "locked" state. Each swing of the pendulum a pallet releases a tooth of the escape wheel. The wheel rotates forward a fixed amount until a tooth catches on the other pallet. These releases allow the clock's wheel train to advance a fixed amount with each swing, moving the hands forward at a constant rate, controlled by the pendulum.
 
@@ -103,7 +99,7 @@ The indicating system is almost always the traditional dial with moving hour and
 
 Styles
 
-One-Year_German_Regulator_Clock.jpg Pendulum clocks were more than simply utilitarian timekeepers; they were status symbols that expressed the wealth and culture of their owners. They evolved in a number of traditional styles, specific to different countries and times as well as their intended use. Case styles somewhat reflect the furniture styles popular during the period. Experts can often pinpoint when an antique clock was made within a few decades by subtle differences in their cases and faces. These are some of the different styles of pendulum clocks:
+Pendulum clocks were more than simply utilitarian timekeepers; they were status symbols that expressed the wealth and culture of their owners. They evolved in a number of traditional styles, specific to different countries and times as well as their intended use. Case styles somewhat reflect the furniture styles popular during the period. Experts can often pinpoint when an antique clock was made within a few decades by subtle differences in their cases and faces. These are some of the different styles of pendulum clocks:
 
 -   Act of Parliament clock
 -   Anniversary clock (uses a torsion pendulum)

@@ -1,5 +1,3 @@
-Raffinerie_Say.JPG
-
 NAG HAMMADI ( ; ) is a city in Upper Egypt. It is located on the west bank of the Nile in the Qena Governorate, about 80 kilometres north-west of Luxor. It had a population of close to 43,000 .
 
 

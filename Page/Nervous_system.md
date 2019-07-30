@@ -4,7 +4,7 @@ At the cellular level, the nervous system is defined by the presence of a specia
 
 Nervous systems are found in most multicellular animals, but vary greatly in complexity.[2] The only multicellular animals that have no nervous system at all are sponges, placozoans, and mesozoans, which have very simple body plans. The nervous systems of the radially symmetric organisms ctenophores (comb jellies) and cnidarians (which include anemones, hydras, corals and jellyfish) consist of a diffuse nerve net. All other animal species, with the exception of a few types of worm, have a nervous system containing a brain, a central cord (or two cords running in parallel), and nerves radiating from the brain and central cord. The size of the nervous system ranges from a few hundred cells in the simplest worms, to around 300 billion cells in African elephants.[3]
 
-The central nervous system functions to send signals from one cell to others, or from one part of the body to others and to receive feedback. Malfunction of the nervous system can occur as a result of genetic defects, physical damage due to trauma or toxicity, infection or simply of ageing. The medical specialty of neurology studies disorders of the nervous system and looks for interventions that can prevent or treat them. In the peripheral nervous system, the most common problem is the failure of nerve conduction, which can be due to different causes including diabetic neuropathy and demyelinating disorders such as multiple sclerosis and amyotrophic lateral sclerosis. Neuroscience is the field of science that focuses on the study of the nervous system. NSdiagram.svg
+The central nervous system functions to send signals from one cell to others, or from one part of the body to others and to receive feedback. Malfunction of the nervous system can occur as a result of genetic defects, physical damage due to trauma or toxicity, infection or simply of ageing. The medical specialty of neurology studies disorders of the nervous system and looks for interventions that can prevent or treat them. In the peripheral nervous system, the most common problem is the failure of nerve conduction, which can be due to different causes including diabetic neuropathy and demyelinating disorders such as multiple sclerosis and amyotrophic lateral sclerosis. Neuroscience is the field of science that focuses on the study of the nervous system.
 
 
 Structure
@@ -33,7 +33,7 @@ Glial cells (named from the Greek for "glue") are non-neuronal cells that provid
 
 Anatomy in vertebrates
 
-Visible_Human_head_slice.jpg The nervous system of vertebrates (including humans) is divided into the central nervous system (CNS) and the peripheral nervous system (PNS).[21]
+The nervous system of vertebrates (including humans) is divided into the central nervous system (CNS) and the peripheral nervous system (PNS).[21]
 
 The (CNS) is the major division, and consists of the brain and the spinal cord.[22] The spinal canal contains the spinal cord, while the cranial cavity contains the brain. The CNS is enclosed and protected by the meninges, a three-layered system of membranes, including a tough, leathery outer layer called the dura mater. The brain is also protected by the skull, and the spinal cord by the vertebrae.
 
@@ -55,11 +55,7 @@ The development of the nervous system in radiata is relatively unstructured. Unl
 
 Bilateria
 
-Bilaterian-plan.svg
-
 The vast majority of existing animals are bilaterians, meaning animals with left and right sides that are approximate mirror images of each other. All bilateria are thought to have descended from a common wormlike ancestor that appeared in the Ediacaran period, 550–600 million years ago.[32] The fundamental bilaterian body form is a tube with a hollow gut cavity running from mouth to anus, and a nerve cord with an enlargement (a "ganglion") for each body segment, with an especially large ganglion at the front, called the "brain".
-
-Gray797.png
 
 Even mammals, including humans, show the segmented bilaterian body plan at the level of the nervous system. The spinal cord contains a series of segmental ganglia, each giving rise to motor and sensory nerves that innervate a portion of the body surface and underlying musculature. On the limbs, the layout of the innervation pattern is complex, but on the trunk it gives rise to a series of narrow bands. The top three segments belong to the brain, giving rise to the forebrain, midbrain, and hindbrain.[33]
 
@@ -67,15 +63,11 @@ Bilaterians can be divided, based on events that occur very early in embryonic d
 
 Worms
 
-Earthworm_nervous_system.png
-
 Worms are the simplest bilaterian animals, and reveal the basic structure of the bilaterian nervous system in the most straightforward way. As an example, earthworms have dual nerve cords running along the length of the body and merging at the tail and the mouth. These nerve cords are connected by transverse nerves like the rungs of a ladder. These transverse nerves help coordinate the two sides of the animal. Two ganglia at the head (the "nerve ring") end function similar to a simple brain. Photoreceptors on the animal's eyespots provide sensory information on light and dark.[37]
 
 The nervous system of one very small roundworm, the nematode _Caenorhabditis elegans_, has been completely mapped out in a connectome including its synapses. Every neuron and its cellular lineage has been recorded and most, if not all, of the neural connections are known. In this species, the nervous system is sexually dimorphic; the nervous systems of the two sexes, males and female hermaphrodites, have different numbers of neurons and groups of neurons that perform sex-specific functions. In _C. elegans_, males have exactly 383 neurons, while hermaphrodites have exactly 302 neurons.[38]
 
 Arthropods
-
-Spider_internal_anatomy-en.svg
 
 Arthropods, such as insects and crustaceans, have a nervous system made up of a series of ganglia, connected by a ventral nerve cord made up of two parallel connectives running along the length of the belly.[39] Typically, each body segment has one ganglion on each side, though some ganglia are fused to form the brain and other large ganglia. The head segment contains the brain, also known as the supraesophageal ganglion. In the insect nervous system, the brain is anatomically divided into the protocerebrum, deutocerebrum, and tritocerebrum. Immediately behind the brain is the subesophageal ganglion, which is composed of three pairs of fused ganglia. It controls the mouthparts, the salivary glands and certain muscles. Many arthropods have well-developed sensory organs, including compound eyes for vision and antennae for olfaction and pheromone sensation. The sensory information from these organs is processed by the brain.
 
@@ -98,7 +90,7 @@ At a more integrative level, the primary function of the nervous system is to co
 
 Neurons and synapses
 
-Chemical_synapse_schema_cropped.jpg travels along the axon of a neuron. When the wave reaches a synapse, it provokes release of a small amount of neurotransmitter molecules, which bind to chemical receptor molecules located in the membrane of the target cell.]]
+travels along the axon of a neuron. When the wave reaches a synapse, it provokes release of a small amount of neurotransmitter molecules, which bind to chemical receptor molecules located in the membrane of the target cell.]]
 
 Most neurons send signals via their axons, although some types are capable of dendrite-to-dendrite communication. (In fact, the types of neurons called amacrine cells have no axons, and communicate only via their dendrites.) Neural signals propagate along an axon in the form of electrochemical waves called action potentials, which produce cell-to-cell signals at points where axon terminals make synaptic contact with other cells.[49]
 
@@ -112,15 +104,13 @@ One very important subset of synapses are capable of forming memory traces by me
 
 Neural circuits and systems
 
-The basic neuronal function of sending signals to other cells includes a capability for neurons to exchange signals with each other. Networks formed by interconnected groups of neurons are capable of a wide variety of functions, including feature detection, pattern generation and timing,[65] and there are seen to be countless types of information processing possible. Warren McCulloch and Walter Pitts showed in 1943 that even artificial neural networks formed from a greatly simplified mathematical abstraction of a neuron are capable of universal computation.[66] Descartes-reflex.JPG's _Treatise of Man_]]
+The basic neuronal function of sending signals to other cells includes a capability for neurons to exchange signals with each other. Networks formed by interconnected groups of neurons are capable of a wide variety of functions, including feature detection, pattern generation and timing,[65] and there are seen to be countless types of information processing possible. Warren McCulloch and Walter Pitts showed in 1943 that even artificial neural networks formed from a greatly simplified mathematical abstraction of a neuron are capable of universal computation.[66] 's _Treatise of Man_]]
 
 Historically, for many years the predominant view of the function of the nervous system was as a stimulus-response associator.[67] In this conception, neural processing begins with stimuli that activate sensory neurons, producing signals that propagate through chains of connections in the spinal cord and brain, giving rise eventually to activation of motor neurons and thereby to muscle contraction, i.e., to overt responses. Descartes believed that all of the behaviors of animals, and most of the behaviors of humans, could be explained in terms of stimulus-response circuits, although he also believed that higher cognitive functions such as language were not capable of being explained mechanistically.[68] Charles Sherrington, in his influential 1906 book _The Integrative Action of the Nervous System_,[69] developed the concept of stimulus-response mechanisms in much more detail, and Behaviorism, the school of thought that dominated Psychology through the middle of the 20th century, attempted to explain every aspect of human behavior in stimulus-response terms.[70]
 
 However, experimental studies of electrophysiology, beginning in the early 20th century and reaching high productivity by the 1940s, showed that the nervous system contains many mechanisms for generating patterns of activity intrinsically, without requiring an external stimulus.[71] Neurons were found to be capable of producing regular sequences of action potentials, or sequences of bursts, even in complete isolation.[72] When intrinsically active neurons are connected to each other in complex circuits, the possibilities for generating intricate temporal patterns become far more extensive.[73] A modern conception views the function of the nervous system partly in terms of stimulus-response chains, and partly in terms of intrinsically generated activity patterns—both types of activity interact with each other to generate the full repertoire of behavior.[74]
 
 Reflexes and other stimulus-response circuits
-
-Nervous_system_organization_en.svg
 
 The simplest type of neural circuit is a reflex arc, which begins with a sensory input and ends with a motor output, passing through a sequence of neurons connected in series.[75] This can be shown in the "withdrawal reflex" causing a hand to jerk back after a hot stove is touched. The circuit begins with sensory receptors in the skin that are activated by harmful levels of heat: a special type of molecular structure embedded in the membrane causes heat to change the electrical field across the membrane. If the change in electrical potential is large enough to pass the given threshold, it evokes an action potential, which is transmitted along the axon of the receptor cell, into the spinal cord. There the axon makes excitatory synaptic contacts with other cells, some of which project (send axonal output) to the same region of the spinal cord, others projecting into the brain. One target is a set of spinal interneurons that project to motor neurons controlling the arm muscles. The interneurons excite the motor neurons, and if the excitation is strong enough, some of the motor neurons generate action potentials, which travel down their axons to the point where they make excitatory synaptic contacts with muscle cells. The excitatory signals induce contraction of the muscle cells, which causes the joint angles in the arm to change, pulling the arm away.
 
@@ -147,9 +137,9 @@ In vertebrates, landmarks of embryonic neural development include the birth and 
 
 All bilaterian animals at an early stage of development form a gastrula, which is polarized, with one end called the animal pole and the other the vegetal pole. The gastrula has the shape of a disk with three layers of cells, an inner layer called the endoderm, which gives rise to the lining of most internal organs, a middle layer called the mesoderm, which gives rise to the bones and muscles, and an outer layer called the ectoderm, which gives rise to the skin and nervous system.[96]
 
-  ------------ ------------------------------------
-  Gray17.png   Development_of_the_neural_tube.png
-  ------------ ------------------------------------
+  -- --
+
+  -- --
 
 In vertebrates, the first sign of the nervous system is the appearance of a thin strip of cells along the center of the back, called the neural plate. The inner portion of the neural plate (along the midline) is destined to become the central nervous system (CNS), the outer portion the peripheral nervous system (PNS). As development proceeds, a fold called the neural groove appears along the midline. This fold deepens, and then closes up at the top. At this point the future CNS appears as a cylindrical structure called the neural tube, whereas the future PNS appears as two strips of tissue called the neural crest, running lengthwise above the neural tube. The sequence of stages from neural plate to neural tube and neural crest is known as neurulation.
 
@@ -162,7 +152,7 @@ As shown in a 2008 study, one factor common to all bilateral organisms (includin
 
 Pathology
 
-CNS_protection.jpg The central nervous system is protected by major physical and chemical barriers. Physically, the brain and spinal cord are surrounded by tough meningeal membranes, and enclosed in the bones of the skull and vertebral column, which combine to form a strong physical shield. Chemically, the brain and spinal cord are isolated by the blood–brain barrier, which prevents most types of chemicals from moving from the bloodstream into the interior of the CNS. These protections make the CNS less susceptible in many ways than the PNS; the flip side, however, is that damage to the CNS tends to have more serious consequences.
+The central nervous system is protected by major physical and chemical barriers. Physically, the brain and spinal cord are surrounded by tough meningeal membranes, and enclosed in the bones of the skull and vertebral column, which combine to form a strong physical shield. Chemically, the brain and spinal cord are isolated by the blood–brain barrier, which prevents most types of chemicals from moving from the bloodstream into the interior of the CNS. These protections make the CNS less susceptible in many ways than the PNS; the flip side, however, is that damage to the CNS tends to have more serious consequences.
 
 Although nerves tend to lie deep under the skin except in a few places such as the ulnar nerve near the elbow joint, they are still relatively exposed to physical damage, which can cause pain, loss of sensation, or loss of muscle control. Damage to nerves can also be caused by swelling or bruises at places where a nerve passes through a tight bony channel, as happens in carpal tunnel syndrome. If a nerve is completely transected, it will often regenerate, but for long nerves this process may take months to complete. In addition to physical damage, peripheral neuropathy may be caused by many other medical problems, including genetic conditions, metabolic conditions such as diabetes, inflammatory conditions such as Guillain–Barré syndrome, vitamin deficiency, infectious diseases such as leprosy or shingles, or poisoning by toxins such as heavy metals. Many cases have no cause that can be identified, and are referred to as idiopathic. It is also possible for nerves to lose function temporarily, resulting in numbness as stiffness—common causes include mechanical pressure, a drop in temperature, or chemical interactions with local anesthetic drugs such as lidocaine.
 

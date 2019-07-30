@@ -1,5 +1,3 @@
-All_18_Pentominoes.svg
-
 PENTOMINO tiling puzzles and games are popular in recreational mathematics.[1] Usually, video games such as Tetris imitations and Rampart consider mirror reflections to be distinct, and thus use the full set of 18 one-sided pentominoes.
 
 Each of the twelve pentominoes satisfies the Conway criterion; hence every pentomino is capable of tiling the plane.[2] Each chiral pentomino can tile the plane without being reflected.[3]
@@ -7,7 +5,7 @@ Each of the twelve pentominoes satisfies the Conway criterion; hence every pento
 
 History
 
-Pentomino_Naming_Conventions.svg Pentominoes were formally defined by American professor Solomon W. Golomb starting in 1953 and later in his 1965 book _Polyominoes: Puzzles, Patterns, Problems, and Packings_.[4][5] They were introduced to the general public by Martin Gardner in his October 1965 Mathematical Games column in Scientific American. Golomb coined the term "pentomino" from the Ancient Greek / _pénte_, "five", and the -omino of domino, fancifully interpreting the "d-" of "domino" as if it were a form of the Greek prefix "di-" (two). Golomb named the 12 _free_ pentominoes after letters of the Latin alphabet that they resemble.
+Pentominoes were formally defined by American professor Solomon W. Golomb starting in 1953 and later in his 1965 book _Polyominoes: Puzzles, Patterns, Problems, and Packings_.[4][5] They were introduced to the general public by Martin Gardner in his October 1965 Mathematical Games column in Scientific American. Golomb coined the term "pentomino" from the Ancient Greek / _pénte_, "five", and the -omino of domino, fancifully interpreting the "d-" of "domino" as if it were a form of the Greek prefix "di-" (two). Golomb named the 12 _free_ pentominoes after letters of the Latin alphabet that they resemble.
 
 John Horton Conway proposed an alternate labeling scheme for pentominoes, using O instead of I, Q instead of L, R instead of F, and S instead of N. The resemblance to the letters is more strained, especially for the O pentomino, but this scheme has the advantage of using 12 consecutive letters of the alphabet. It is used by convention in discussing Conway's Game of Life, where, for example, one speaks of the R-pentomino instead of the F-pentomino.
 
@@ -25,7 +23,7 @@ The F, L, N, P, Y, and Z pentominoes are chiral; adding their reflections (F′,
 
 For example, the eight possible orientations of the L, F, N, P, and Y pentominoes are as follows:
 
-L-pentomino_Symmetry.svg F-pentomino_Symmetry.svg  N-pentomino_Symmetry.svg  P-pentomino_Symmetry.svg Y-pentomino_Symmetry.svg
+    
 
 For 2D figures in general there are two more categories:
 
@@ -35,15 +33,11 @@ For 2D figures in general there are two more categories:
 
 Tiling rectangles
 
-Pentomino_Puzzle_Solutions.svg
-
 A standard PENTOMINO PUZZLE is to tile a rectangular box with the pentominoes, i.e. cover it without overlap and without gaps. Each of the 12 pentominoes has an area of 5 unit squares, so the box must have an area of 60 units. Possible sizes are 6×10, 5×12, 4×15 and 3×20. The avid puzzler can probably solve these problems by hand within a few hours. A more challenging task, typically requiring a computer search, is to count the total number of solutions in each case.
 
 The 6×10 case was first solved in 1960 by Colin Brian and Jenifer Haselgrove.[6] There are exactly 2339 solutions, excluding trivial variations obtained by rotation and reflection of the whole rectangle, but including rotation and reflection of a subset of pentominoes (which sometimes provides an additional solution in a simple way). The 5×12 box has 1010 solutions, the 4×15 box has 368 solutions, and the 3×20 box has just 2 solutions (one is shown in the figure, and the other one can be obtained from the solution shown by rotating, as a whole, the block consisting of the L, N, F, T, W, Y, and Z pentominoes).
 
 A somewhat easier (more symmetrical) puzzle, the 8×8 rectangle with a 2×2 hole in the center, was solved by Dana Scott as far back as 1958.[7] There are 65 solutions. Scott's algorithm was one of the first applications of a backtracking computer program. Variations of this puzzle allow the four holes to be placed in any position. One of the external links uses this rule. Most such patterns are solvable, with the exceptions of placing each pair of holes near two corners of the board in such a way that both corners could only be fitted by a P-pentomino, or forcing a T-pentomino or U-pentomino in a corner such that another hole is created.
-
-File:Pentomino unsolvable.svg
 
 Efficient algorithms have been described to solve such problems, for instance by Donald Knuth.[8] Running on modern hardware, these pentomino puzzles can now be solved in mere seconds.
 
@@ -52,7 +46,7 @@ The solution of tiling rectangles of polyominoes with _n_ cells exists only for 
 
 Filling boxes
 
-A PENTACUBE is a polycube of five cubes. Of the 29 pentacubes, exactly twelve pentacubes are flat (1-layer) and correspond to the twelve pentominoes extruded to a depth of one square. A PENTACUBE PUZZLE or 3D PENTOMINO PUZZLE, amounts to filling a 3-dimensional box with the 12 flat pentacubes, i.e. cover it without overlap and without gaps. Since each pentacube has a volume of 5 unit cubes, the box must have a volume of 60 units. Possible sizes are 2×3×10 (12 solutions), 2×5×6 (264 solutions) and 3×4×5 (3940 solutions). Following are one solution of each case.[9] Pentomino_Cube_Solutions.svg
+A PENTACUBE is a polycube of five cubes. Of the 29 pentacubes, exactly twelve pentacubes are flat (1-layer) and correspond to the twelve pentominoes extruded to a depth of one square. A PENTACUBE PUZZLE or 3D PENTOMINO PUZZLE, amounts to filling a 3-dimensional box with the 12 flat pentacubes, i.e. cover it without overlap and without gaps. Since each pentacube has a volume of 5 unit cubes, the box must have a volume of 60 units. Possible sizes are 2×3×10 (12 solutions), 2×5×6 (264 solutions) and 3×4×5 (3940 solutions). Following are one solution of each case.[9]
 
 Alternatively one could also consider combinations of five cubes that are themselves 3D, i.e., are not part of one layer of cubes. However, in addition to the 12 extruded pentominoes, 6 sets of chiral pairs and 5 pieces make total 29 pieces, resulting in 145 cubes, which will not make a 3D box (as 145 can only be 29×5×1, which the non-flat pentominoes cannot fit into).
 
@@ -87,7 +81,7 @@ In the New York Times crossword puzzle for June 27, 2012, the clue for an 11-let
 
 Architecture
 
-On several occasions, pentominoes had been used as decoration elements for outer walls of Plattenbau buildings, mainly in Eastern Europe. The patterns used were based on solutions of the 6×10 case puzzle. Plattenbau_Pentomino.jpg
+On several occasions, pentominoes had been used as decoration elements for outer walls of Plattenbau buildings, mainly in Eastern Europe. The patterns used were based on solutions of the 6×10 case puzzle.
 
 
 Video games

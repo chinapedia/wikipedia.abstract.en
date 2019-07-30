@@ -49,8 +49,6 @@ Many of the closing titles in the first two series were accompanied by dialogue 
 
 Characters
 
-PressGangPublicity.jpg
-
 Main characters
 
 LYNDA DAY (Julia Sawalha) is the editor of the _Junior Gazette_. She is strong and opinionated, and is feared by many of her team. Moffat has said that the character was partly based on the show's "ball-breaking" producer, Sandra C. Hastie.[52][53] Although she appears very tough, she occasionally exposes her feelings. She quits the paper at the end of "Monday-Tuesday", and in "Day Dreams" laments "Why do I get everything in my whole stupid life wrong?"[54] Intimidated by socialising, she hiccups at the idea. She is so nervous at a cocktail party, in "At Last a Dragon",[55] that she attempts to leave on several occasions. The mixture of Lynda's sensitive side and her self-sufficient attitude is illustrated in the series' final episode "There Are Crocodiles." Reprimanding the ghost of Gary (Mark Sayers), who died after taking a drug overdose, she says:

@@ -9,7 +9,7 @@ In addition to their role as natural hormones, estrogens are used as medications
 
 Types and examples
 
-Chemical_structures_of_major_endogenous_estrogens.pngs of major endogenous estrogens, including estrone (E1), estradiol (E2), estriol (E3), and estetrol (E4).[9]]]
+s of major endogenous estrogens, including estrone (E1), estradiol (E2), estriol (E3), and estetrol (E4).[9]]]
 
 The four major naturally occurring estrogens in women are estrone (E1), estradiol (E2), estriol (E3), and estetrol (E4). Estradiol is the predominant estrogen during reproductive years both in terms of absolute serum levels as well as in terms of estrogenic activity. During menopause, estrone is the predominant circulating estrogen and during pregnancy estriol is the predominant circulating estrogen in terms of serum levels. Given by subcutaneous injection in mice, estradiol is about 10-fold more potent than estrone and about 100-fold more potent than estriol.[10] Thus, estradiol is the most important estrogen in non-pregnant females who are between the menarche and menopause stages of life. However, during pregnancy this role shifts to estriol, and in postmenopausal women estrone becomes the primary form of estrogen in the body. Another type of estrogen called estetrol (E4) is produced only during pregnancy. All of the different forms of estrogen are synthesized from androgens, specifically testosterone and androstenedione, by the enzyme aromatase.
 
@@ -18,7 +18,7 @@ Minor endogenous estrogens, the biosyntheses of which do not involve aromatase, 
 
 Biological function
 
-Estradiol_during_menstrual_cycle.png of estradiol, the primary type of estrogen, during the menstrual cycle.[14]]]
+of estradiol, the primary type of estrogen, during the menstrual cycle.[14]]]
 
 The actions of estrogen are mediated by the estrogen receptor (ER), a dimeric nuclear protein that binds to DNA and controls gene expression. Like other steroid hormones, estrogen enters passively into the cell where it binds to and activates the estrogen receptor. The estrogen:ER complex binds to specific DNA sequences called a hormone response element to activate the transcription of target genes (in a study using an estrogen-dependent breast cancer cell line as model, 89 such genes were identified).[15] Since estrogen enters all cells, its actions are dependent on the presence of the ER in the cell. The ER is expressed in specific tissues including the ovary, uterus and breast. The metabolic effects of estrogen in postmenopausal women has been linked to the genetic polymorphism of the ER.[16]
 
@@ -143,7 +143,7 @@ Biochemistry
 
 Biosynthesis
 
-Steroidogenesis.svg, showing estrogens at bottom right as in pink triangle.[76]]] Estrogens, in females, are produced primarily by the ovaries, and during pregnancy, the placenta.[77] Follicle-stimulating hormone (FSH) stimulates the ovarian production of estrogens by the granulosa cells of the ovarian follicles and corpora lutea. Some estrogens are also produced in smaller amounts by other tissues such as the liver, pancreas, bone, adrenal glands, skin, brain, adipose tissue,[78] and the breasts.[79] These secondary sources of estrogens are especially important in postmenopausal women.[80] The pathway of estrogen biosynthesis in extragonadal tissues is different. These tissues are not able to synthesize C19 steroids, and therefore depend on C19 supplies from other tissues[81] and the level of aromatase.[82]
+, showing estrogens at bottom right as in pink triangle.[76]]] Estrogens, in females, are produced primarily by the ovaries, and during pregnancy, the placenta.[77] Follicle-stimulating hormone (FSH) stimulates the ovarian production of estrogens by the granulosa cells of the ovarian follicles and corpora lutea. Some estrogens are also produced in smaller amounts by other tissues such as the liver, pancreas, bone, adrenal glands, skin, brain, adipose tissue,[78] and the breasts.[79] These secondary sources of estrogens are especially important in postmenopausal women.[80] The pathway of estrogen biosynthesis in extragonadal tissues is different. These tissues are not able to synthesize C19 steroids, and therefore depend on C19 supplies from other tissues[81] and the level of aromatase.[82]
 
 In females, synthesis of estrogens starts in theca interna cells in the ovary, by the synthesis of androstenedione from cholesterol. Androstenedione is a substance of weak androgenic activity which serves predominantly as a precursor for more potent androgens such as testosterone as well as estrogen. This compound crosses the basal membrane into the surrounding granulosa cells, where it is converted either immediately into estrone, or into testosterone and then estradiol in an additional step. The conversion of androstenedione to testosterone is catalyzed by 17β-hydroxysteroid dehydrogenase (17β-HSD), whereas the conversion of androstenedione and testosterone into estrone and estradiol, respectively is catalyzed by aromatase, enzymes which are both expressed in granulosa cells. In contrast, granulosa cells lack 17α-hydroxylase and 17,20-lyase, whereas theca cells express these enzymes and 17β-HSD but lack aromatase. Hence, both granulosa and theca cells are essential for the production of estrogen in the ovaries.
 

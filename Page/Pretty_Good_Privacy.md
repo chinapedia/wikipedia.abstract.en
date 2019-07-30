@@ -5,8 +5,6 @@ PGP and similar software follow the OpenPGP standard (RFC 4880) for encrypting a
 
 Design
 
-PGP_diagram.svg
-
 PGP encryption uses a serial combination of hashing, data compression, symmetric-key cryptography, and finally public-key cryptography; each step uses one of several supported algorithms. Each public key is bound to a username or an e-mail address. The first version of this system was generally known as a web of trust to contrast with the X.509 system, which uses a hierarchical approach based on certificate authority and which was added to PGP implementations later. Current versions of PGP encryption include both options through an automated key management server.
 
 PGP fingerprint

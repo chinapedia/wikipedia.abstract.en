@@ -38,7 +38,7 @@ Church historians such as St. Jerome and Rufinus, championed Damasus. At a synod
 
 Papacy
 
-Damasus_(Nuremberg_chronicles_f_131v_1.).jpg'' ]] Damasus faced accusations of murder and adultery with a married woman[16] in his early years as Pope. Edward Gibbon writes, "The enemies of Damasus styled him _Auriscalpius Matronarum,_ the ladies' ear-scratcher."[17] The neutrality of these claims has come into question with some suggesting that the accusations were motivated by the schismatic conflict with the supporters of Arianism.
+'' ]] Damasus faced accusations of murder and adultery with a married woman[16] in his early years as Pope. Edward Gibbon writes, "The enemies of Damasus styled him _Auriscalpius Matronarum,_ the ladies' ear-scratcher."[17] The neutrality of these claims has come into question with some suggesting that the accusations were motivated by the schismatic conflict with the supporters of Arianism.
 
 Damasus I was active in defending the Catholic Church against the threat of schisms. In two Roman synods (368 and 369) he condemned Apollinarianism and Macedonianism, and sent legates to the First Council of Constantinople that was convoked in 381 to address these heresies.[18]
 

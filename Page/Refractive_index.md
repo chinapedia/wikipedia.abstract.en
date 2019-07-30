@@ -1,11 +1,9 @@
-Refraction_photo.png of light being refracted in a plastic block|alt=refer to caption]]
+of light being refracted in a plastic block|alt=refer to caption]]
 
 In optics, the REFRACTIVE INDEX or INDEX OF REFRACTION of a material is a dimensionless number that describes how fast light propagates through the material. It is defined as
 
 $$n = \frac{c}{v},$$
 where _c_ is the speed of light in vacuum and _v_ is the phase velocity of light in the medium. For example, the refractive index of water is 1.333, meaning that light travels 1.333 times as fast in vacuum as in water.
-
-Refraction_at_interface.svg
 
 The refractive index determines how much the path of light is bent, or refracted, when entering a material. This is described by Snell's law of refraction, _n_₁ sin_θ_₁ = _n_₂ sin_θ_₂, where _θ_₁ and _θ_₂ are the angles of incidence and refraction, respectively, of a ray crossing the interface between two media with refractive indices _n_₁ and _n_₂. The refractive indices also determine the amount of light that is reflected when reaching the interface, as well as the critical angle for total internal reflection and Brewster's angle.[1]
 
@@ -28,7 +26,7 @@ The definition above is sometimes referred to as the ABSOLUTE REFRACTIVE INDEX o
 
 History
 
-Thomas_Young_(scientist).jpg coined the term _index of refraction_.]]
+coined the term _index of refraction_.]]
 
 Thomas Young was presumably the person who first used, and invented, the name "index of refraction", in 1807.[6] At the same time he changed this value of refractive power into a single number, instead of the traditional ratio of two numbers. The ratio had the disadvantage of different appearances. Newton, who called it the "proportion of the sines of incidence and refraction", wrote it as a ratio of two numbers, like "529 to 396" (or "nearly 4 to 3"; for water).[7] Hauksbee, who called it the "ratio of refraction", wrote it as a ratio with a fixed numerator, like "10000 to 7451.9" (for urine).[8] Hutton wrote it as a ratio with a fixed denominator, like 1.3358 to 1 (water).[9]
 
@@ -37,7 +35,7 @@ Young did not use a symbol for the index of refraction, in 1807. In the next yea
 
 Typical values
 
-Brillanten.jpgs have a very high refractive index of 2.42.]]
+s have a very high refractive index of 2.42.]]
 
 +--------------------------------------------+----------+
 | Material                                   | _n_      |
@@ -99,7 +97,7 @@ An example of a plasma with an index of refraction less than unity is Earth's io
 
 Negative refractive index
 
-Split-ring_resonator_array_10K_sq_nm.jpg array arranged to produce a negative index of refraction for microwaves]]
+array arranged to produce a negative index of refraction for microwaves]]
 
 Recent research has also demonstrated the existence of materials with a negative refractive index, which can occur if permittivity and permeability have simultaneous negative values.[26] This can be achieved with periodically constructed metamaterials. The resulting negative refraction (i.e., a reversal of Snell's law) offers the possibility of the superlens and other exotic phenomena.[27]
 
@@ -120,7 +118,7 @@ For most materials at visible-light frequencies, the phase is somewhere between 
 
 Dispersion
 
-WhereRainbowRises.jpg.]] Prism_rainbow_schema.png Mplwp_dispersion_curves.svg
+.]]
 
 The refractive index of materials varies with the wavelength (and frequency) of light.[31] This is called dispersion and causes prisms and rainbows to divide white light into its constituent spectral colors.[32] As the refractive index varies with wavelength, so will the refraction angle as light goes from one material to another. Dispersion also causes the focal length of lenses to be wavelength dependent. This is a type of chromatic aberration, which often needs to be corrected for in imaging systems. In regions of the spectrum where the material does not absorb light, the refractive index tends to decrease with increasing wavelength, and thus increase with frequency. This is called "normal dispersion", in contrast to "anomalous dispersion", where the refractive index increases with wavelength.[33] For visible light normal dispersion means that the refractive index is higher for blue light than for red.
 
@@ -134,7 +132,7 @@ Because of dispersion, it is usually important to specify the vacuum wavelength 
 
 Complex refractive index
 
-Gradndfilter.jpg showing light absorption in the upper half]]
+showing light absorption in the upper half]]
 
 When light passes through a medium, some part of it will always be attenuated. This can be conveniently taken into account by defining a complex refractive index,
 
@@ -173,7 +171,7 @@ Relations to other quantities
 
 Optical path length
 
-Soap_bubble_sky.jpg are determined by the optical path length through the thin soap film in a phenomenon called thin-film interference.]]
+are determined by the optical path length through the thin soap film in a phenomenon called thin-film interference.]]
 
 Optical path length (OPL) is the product of the geometric length _d_ of the path light follows through a system, and the index of refraction of the medium through which it propagates,[41]
 
@@ -182,7 +180,7 @@ This is an important concept in optics because it determines the phase of the li
 
 Refraction
 
-Snells_law.svg of light at the interface between two media of different refractive indices, with _n_₂ > _n_₁. Since the phase velocity is lower in the second medium (_v_₂ < _v_₁), the angle of refraction _θ_₂ is less than the angle of incidence _θ_₁; that is, the ray in the higher-index medium is closer to the normal.]]
+of light at the interface between two media of different refractive indices, with _n_₂ > _n_₁. Since the phase velocity is lower in the second medium (_v_₂ < _v_₁), the angle of refraction _θ_₂ is less than the angle of incidence _θ_₁; that is, the ray in the higher-index medium is closer to the normal.]]
 
 When light moves from one medium to another, it changes direction, i.e. it is refracted. If it moves from a medium with refractive index _n_₁ to one with refractive index _n_₂, with an incidence angle to the surface normal of _θ_₁, the refraction angle _θ_₂ can be calculated from Snell's law:[43]
 
@@ -192,7 +190,7 @@ When light enters a material with higher refractive index, the angle of refracti
 
 Total internal reflection
 
-Total_internal_reflection_of_Chelonia_mydas.jpg can be seen at the air-water boundary.]] If there is no angle _θ_₂ fulfilling Snell's law, i.e.,
+can be seen at the air-water boundary.]] If there is no angle _θ_₂ fulfilling Snell's law, i.e.,
 
 $$\frac{n_1}{n_2} \sin \theta_1 > 1,$$
 the light cannot be transmitted and will instead undergo total internal reflection.[44] This occurs only when going to a less optically dense material, i.e., one with lower refractive index. To get total internal reflection the angles of incidence _θ_₁ must be larger than the critical angle[45]
@@ -211,7 +209,7 @@ $$\theta_\mathrm{B} = \arctan\!\left(\frac{n_2}{n_1}\right)\!.$$
 
 Lenses
 
-Lupa.na.encyklopedii.jpg of a magnifying glass is determined by the shape and refractive index of the lens.]]
+of a magnifying glass is determined by the shape and refractive index of the lens.]]
 
 The focal length of a lens is determined by its refractive index _n_ and the radii of curvature _R_₁ and _R_₂ of its surfaces. The power of a thin lens in air is given by the Lensmaker's formula:[49]
 
@@ -267,7 +265,7 @@ $$R_0 = \left|\frac{n_1 - n_2}{n_1 + n_2}\right|^2\! = \left|\frac{Z_2 - Z_1}{Z_
 
 Density
 
-density-nd.GIF and borosilicate glasses[54]]] In general, the refractive index of a glass increases with its density. However, there does not exist an overall linear relation between the refractive index and the density for all silicate and borosilicate glasses. A relatively high refractive index and low density can be obtained with glasses containing light metal oxides such as Li₂O and MgO, while the opposite trend is observed with glasses containing PbO and BaO as seen in the diagram at the right.
+and borosilicate glasses[54]]] In general, the refractive index of a glass increases with its density. However, there does not exist an overall linear relation between the refractive index and the density for all silicate and borosilicate glasses. A relatively high refractive index and low density can be obtained with glasses containing light metal oxides such as Li₂O and MgO, while the opposite trend is observed with glasses containing PbO and BaO as seen in the diagram at the right.
 
 Many oils (such as olive oil) and ethyl alcohol are examples of liquids which are more refractive, but less dense, than water, contrary to the general correlation between density and refractive index.
 
@@ -327,7 +325,7 @@ So far, we have assumed that refraction is given by linear equations involving a
 
 Birefringence
 
-Calcite.jpg crystal laid upon a paper with some letters showing double refraction]] Plastic_Protractor_Polarized_05375.jpg.]]
+crystal laid upon a paper with some letters showing double refraction]] .]]
 
 In some materials the refractive index depends on the polarization and propagation direction of the light.[66] This is called birefringence or optical anisotropy.
 
@@ -343,8 +341,6 @@ The strong electric field of high intensity light (such as output of a laser) ma
 
 Inhomogeneity
 
-Grin-lens.png
-
 If the refractive index of a medium is not constant, but varies gradually with position, the material is known as a gradient-index or GRIN medium and is described by gradient index optics.[75] Light traveling through such a medium can be bent or focused, and this effect can be exploited to produce lenses, some optical fibers and other devices. Introducing GRIN elements in the design of an optical system can greatly simplify the system, reducing the number of elements by as much as a third while maintaining overall performance.[76] The crystalline lens of the human eye is an example of a GRIN lens with a refractive index varying from about 1.406 in the inner core to approximately 1.386 at the less dense cortex.[77] Some common mirages are caused by a spatially varying refractive index of air.
 
 
@@ -352,19 +348,13 @@ Refractive index measurement
 
 Homogeneous media
 
-Pulfrich_refraktometer_en.png
-
 The refractive index of liquids or solids can be measured with refractometers. They typically measure some angle of refraction or the critical angle for total internal reflection. The first laboratory refractometers sold commercially were developed by Ernst Abbe in the late 19th century.[78] The same principles are still used today. In this instrument a thin layer of the liquid to be measured is placed between two prisms. Light is shone through the liquid at incidence angles all the way up to 90°, i.e., light rays parallel to the surface. The second prism should have an index of refraction higher than that of the liquid, so that light only enters the prism at angles smaller than the critical angle for total reflection. This angle can then be measured either by looking through a telescope, or with a digital photodetector placed in the focal plane of a lens. The refractive index _n_ of the liquid can then be calculated from the maximum transmission angle _θ_ as _n_ = _n__(G) sin _θ_, where _n__(G) is the refractive index of the prism.[79]
-
-Refractometer.jpg
 
 This type of devices are commonly used in chemical laboratories for identification of substances and for quality control. Handheld variants are used in agriculture by, e.g., wine makers to determine sugar content in grape juice, and inline process refractometers are used in, e.g., chemical and pharmaceutical industry for process control.
 
 In gemology a different type of refractometer is used to measure index of refraction and birefringence of gemstones. The gem is placed on a high refractive index prism and illuminated from below. A high refractive index contact liquid is used to achieve optical contact between the gem and the prism. At small incidence angles most of the light will be transmitted into the gem, but at high angles total internal reflection will occur in the prism. The critical angle is normally measured by looking through a telescope.[80]
 
 Refractive index variations
-
-S_cerevisiae_under_DIC_microscopy.jpg
 
 Unstained biological structures appear mostly transparent under Bright-field microscopy as most cellular structures do not attenuate appreciable quantities of light. Nevertheless, the variation in the materials that constitutes these structures also corresponds to a variation in the refractive index. The following techniques convert such variation into measurable amplitude differences:
 

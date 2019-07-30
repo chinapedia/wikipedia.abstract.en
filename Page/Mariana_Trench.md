@@ -1,5 +1,3 @@
-Marianatrenchmap.png
-
 The MARIANA TRENCH or MARIANAS TRENCH[1] is located in the western Pacific Ocean about east of the Mariana Islands, and has the deepest natural trench in the world. It is a crescent-shaped trough in the Earth's crust averaging about long and wide. The maximum known depth is (± ) at the southern end of a small slot-shaped valley in its floor known as the Challenger Deep.[2] However, some unrepeated measurements place the deepest portion at .[3] By comparison: if Mount Everest were placed into the trench at this point, its peak would still be over under water.
 
 At the bottom of the trench the water column above exerts a pressure of , more than 1,000 times the standard atmospheric pressure at sea level. At this pressure, the density of water is increased by 4.96%, so that 95.27 of any unit of volume of water under the pressure of the Challenger Deep would contain the same mass as 100 of those units at the surface. The temperature at the bottom is .[4]
@@ -16,14 +14,14 @@ The Mariana Trench is named after the nearby Mariana Islands (in turn named Las 
 
 Geology
 
-Cross_section_of_mariana_trench.svg The Mariana Trench is part of the Izu-Bonin-Mariana subduction system that forms the boundary between two tectonic plates. In this system, the western edge of one plate, the Pacific Plate, is subducted (i.e., thrust) beneath the smaller Mariana Plate that lies to the west. Crustal material at the western edge of the Pacific Plate is some of the oldest oceanic crust on earth (up to 170 million years old), and is therefore cooler and more dense; hence its great height difference relative to the higher-riding (and younger) Mariana Plate. The deepest area at the plate boundary is the Mariana Trench proper.
+The Mariana Trench is part of the Izu-Bonin-Mariana subduction system that forms the boundary between two tectonic plates. In this system, the western edge of one plate, the Pacific Plate, is subducted (i.e., thrust) beneath the smaller Mariana Plate that lies to the west. Crustal material at the western edge of the Pacific Plate is some of the oldest oceanic crust on earth (up to 170 million years old), and is therefore cooler and more dense; hence its great height difference relative to the higher-riding (and younger) Mariana Plate. The deepest area at the plate boundary is the Mariana Trench proper.
 
 The movement of the Pacific and Mariana plates is also indirectly responsible for the formation of the Mariana Islands. These volcanic islands are caused by flux melting of the upper mantle due to release of water that is trapped in minerals of the subducted portion of the Pacific Plate.
 
 
 Research history
 
-Map00148_(28286522445).jpg The trench was first sounded during the _Challenger_ expedition in 1875, using a weighted rope, which recorded a depth of .[10] In 1877, a map was published called _Tiefenkarte des Grossen Ozeans_ ("Deep map of the Great Ocean") by Petermann, which showed a _Challenger Tief_ ("Challenger deep") at the location of that sounding. In 1899, USS Nero, a converted collier, recorded a depth of .[11]
+The trench was first sounded during the _Challenger_ expedition in 1875, using a weighted rope, which recorded a depth of .[10] In 1877, a map was published called _Tiefenkarte des Grossen Ozeans_ ("Deep map of the Great Ocean") by Petermann, which showed a _Challenger Tief_ ("Challenger deep") at the location of that sounding. In 1899, USS Nero, a converted collier, recorded a depth of .[11]
 
 In 1951, _Challenger II_ surveyed the trench using echo sounding, a much more precise and vastly easier way to measure depth than the sounding equipment and drag lines used in the original expedition. During this survey, the deepest part of the trench was recorded when the _Challenger II_ measured a depth of at , known as the Challenger Deep.[12]
 
@@ -43,7 +41,7 @@ The Mariana Trench is a site chosen by researchers at Washington University and 
 
 Descents
 
-Bathyscaphe_Trieste.jpg _Trieste_ (designed by Auguste Piccard), the first manned vehicle to reach the bottom of the Mariana Trench.[22]]]
+_Trieste_ (designed by Auguste Piccard), the first manned vehicle to reach the bottom of the Mariana Trench.[22]]]
 
 Five descents have been achieved. The first was the manned descent by Swiss-designed, Italian-built, United States Navy-owned bathyscaphe _Trieste_ which reached the bottom at 1:06 pm on 23 January 1960, with Don Walsh and Jacques Piccard on board.[23][24] Iron shot was used for ballast, with gasoline for buoyancy.[25] The onboard systems indicated a depth of 11,521 m (37,799 ft), but this was later revised to 10,916 m (35,814 ft).[26] The depth was estimated from a conversion of pressure measured and calculations based on the water density from sea surface to seabed.[27]
 

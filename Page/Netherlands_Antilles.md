@@ -23,7 +23,7 @@ This island sub-group was located in the southern Caribbean Sea off the north co
 -   Bonaire including an islet called Klein Bonaire ("Little Bonaire")
 -   Curaçao, including an islet called Klein Curaçao ("Little Curaçao")
 
-Kralendijk_en_Klein_Bonaire.jpg]] Encyclopaedie_van_Nederlandsch_West-Indië-Antilles_part_2-Benj004ency01ill_stitched.jpg
+]]
 
 Climate
 
@@ -32,13 +32,13 @@ The Netherlands Antilles have a tropical trade-wind climate, with hot weather al
 
 History
 
-Lower_Town_Sint_Eustatius.jpg was the most important Dutch island in the Caribbean.]]
+was the most important Dutch island in the Caribbean.]]
 
 Spanish-sponsored explorers discovered both the leeward (Alonso de Ojeda, 1499) and windward (Christopher Columbus, 1493) island groups. However, the Spanish Crown only founded settlements in the Leeward Islands. In the 17th century the islands were conquered by the Dutch West India Company and colonized by Dutch settlers. From the last quarter of the 17th century, the group consisted of six Dutch islands: Curaçao (settled in 1634), Aruba (settled in 1636), Bonaire (settled in 1636), Sint Eustatius (settled in 1636), Saba (settled in 1640) and Sint Maarten (settled in 1648). In the past, Anguilla (1631–1650), the present-day British Virgin Islands (1612–1672), St. Croix and Tobago had also been Dutch. During the American Revolution Sint Eustatius, along with Curaçao, was a major trade center in the Caribbean, with Sint Eustatius a major source of supplies for the Thirteen Colonies. It had been called "the Golden Rock" because of the number of wealthy merchants and volume of trade there. The British sacked its only town, Oranjestad, in 1781 and the economy of the island never recovered. Unlike many other regions, few immigrants went to the Dutch islands, due to the weak economy. However, with the discovery of oil in Venezuela in the nineteenth century, British-Dutch Shell Oil Company established refineries in Curaçao, while the U.S. processed Venezuelan crude oil in Aruba. This resulted in booming economies on the two islands, which turned to bust in the 1980s when oil refineries were closed.[4] The various islands were united as a single country — the Netherlands Antilles — in 1954, under the Dutch crown. The country was dissolved on 10 October 2010.[5]
 
 Curaçao and Sint Maarten became distinct constituent countries alongside Aruba which had become a distinct constituent country in 1986; whereas Bonaire, Sint Eustatius, and Saba (the "BES Islands") became special municipalities within the Netherlands proper.[6]
 
-Curaçao_000.jpg]] From 1815 onwards Curaçao and Dependencies formed a colony of the Kingdom of the Netherlands. Slavery was abolished in 1863, and in 1865 a government regulation for Curaçao was enacted that allowed for some very limited autonomy for the colony. Although this regulation was replaced by a constitution () in 1936, the changes to the government structure remained superficial and Curaçao continued to be ruled as a colony.[7]
+]] From 1815 onwards Curaçao and Dependencies formed a colony of the Kingdom of the Netherlands. Slavery was abolished in 1863, and in 1865 a government regulation for Curaçao was enacted that allowed for some very limited autonomy for the colony. Although this regulation was replaced by a constitution () in 1936, the changes to the government structure remained superficial and Curaçao continued to be ruled as a colony.[7]
 
 The island of Curaçao was hit hard by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of oil refineries to service the newly discovered Venezuelan oil fields.
 
@@ -46,11 +46,9 @@ Colonial rule ended after the conclusion of the Second World War. Queen Wilhelmi
 
 In May 1948 a new constitution for the territory entered into force, allowing the largest amount of autonomy possible under the Dutch constitution of 1922. Among other things, universal suffrage was introduced. The territory was also renamed "Netherlands Antilles". After the Dutch constitution was revised in 1948, a new interim Constitution of the Netherlands Antilles was enacted in February 1951. Shortly afterwards, on 3 March 1951, the Island Regulation of the Netherlands Antilles () was issued by royal decree, giving fairly wide autonomy to the various island territories in the Netherlands Antilles. A consolidated version of this regulation remained in force until the dissolution of the Netherlands Antilles in 2010.[9][10]
 
-The new constitution was only deemed an interim arrangement, as negotiations for a Charter for the Kingdom were already under way. On 15 December 1954 the Netherlands Antilles, Suriname and the Netherlands acceded as equal partners to an overarching Kingdom of the Netherlands, established by the Charter for the Kingdom of the Netherlands. With this move, the United Nations deemed decolonization of the territory complete and removed the Netherlands Antilles from the United Nations list of Non-Self-Governing Territories.[11] Driedaags_bezoek_premier_Den_Uyl_Weeknummer_74-36_-_Open_Beelden_-_58221.ogv Aruba seceded from the Netherlands Antilles on 1 January 1986, paving the way for a series of referenda among the remaining islands on the future of the Netherlands Antilles. Whereas the ruling parties campaigned for the dissolution of the Netherlands Antilles, the people voted for a restructuring of the Netherlands Antilles. The coalition campaigning for this option became the Party for the Restructured Antilles, which ruled the Netherlands Antilles for much of the time until its dissolution on 10 October 2010.
+The new constitution was only deemed an interim arrangement, as negotiations for a Charter for the Kingdom were already under way. On 15 December 1954 the Netherlands Antilles, Suriname and the Netherlands acceded as equal partners to an overarching Kingdom of the Netherlands, established by the Charter for the Kingdom of the Netherlands. With this move, the United Nations deemed decolonization of the territory complete and removed the Netherlands Antilles from the United Nations list of Non-Self-Governing Territories.[11] Aruba seceded from the Netherlands Antilles on 1 January 1986, paving the way for a series of referenda among the remaining islands on the future of the Netherlands Antilles. Whereas the ruling parties campaigned for the dissolution of the Netherlands Antilles, the people voted for a restructuring of the Netherlands Antilles. The coalition campaigning for this option became the Party for the Restructured Antilles, which ruled the Netherlands Antilles for much of the time until its dissolution on 10 October 2010.
 
 Dissolution
-
-Flag_of_the_Netherlands_Antilles_(1959-1986).svg
 
 Even though the referendums held in the early 1990s resulted in a vote in favour of retaining the Netherlands Antilles, the arrangement continued to be an unhappy one. Between June 2000 and April 2005, each island of the Netherlands Antilles had a new referendum on its future status. The four options that could be voted on were the following:
 
@@ -70,31 +68,29 @@ The acts of parliament integrating the "BES" islands (Bonaire, Sint Eustatius an
 
 Political grouping
 
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag                                             | Name           | Capital     | Area (km²) | Currency                      | Official languages   | Remarks                                                                         |
-+==================================================+================+=============+============+===============================+======================+=================================================================================+
-| Flag_of_Curaçao.svg                              | Curaçao        | Willemstad  | 444        |                               | Dutch and Papiamento | Capital of the Netherlands Antilles[18]                                         |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag_of_Bonaire.svg                              | Bonaire        | Kralendijk  | 294        | United States dollar          | Dutch and Papiamento |                                                                                 |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag_of_Aruba.svg                                | Aruba          | Oranjestad  | 193        | Aruban florin                 | Dutch and Papiamento | Seceded on 1 January 1986                                                       |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag_of_Sint_Maarten.svg                         | Sint Maarten   | Philipsburg | 34         | Netherlands Antillean guilder | Dutch and English    | Were parts of the island territory of the Windward Islands until 1 January 1983 |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag_of_Sint_Eustatius.svg                       | Sint Eustatius | Oranjestad  | 21         | United States dollar          | Dutch and English    |                                                                                 |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag_of_Saba.svg                                 | Saba           |             | 13         | United States dollar          | Dutch and English    |                                                                                 |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
-| Flag_of_the_Netherlands_Antilles_(1959-1986).svg |                | Willemstad  | 999        | Netherlands Antillean guilder |                      |                                                                                 |
-+--------------------------------------------------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+| Flag | Name           | Capital     | Area (km²) | Currency                      | Official languages   | Remarks                                                                         |
++======+================+=============+============+===============================+======================+=================================================================================+
+|      | Curaçao        | Willemstad  | 444        |                               | Dutch and Papiamento | Capital of the Netherlands Antilles[18]                                         |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+|      | Bonaire        | Kralendijk  | 294        | United States dollar          | Dutch and Papiamento |                                                                                 |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+|      | Aruba          | Oranjestad  | 193        | Aruban florin                 | Dutch and Papiamento | Seceded on 1 January 1986                                                       |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+|      | Sint Maarten   | Philipsburg | 34         | Netherlands Antillean guilder | Dutch and English    | Were parts of the island territory of the Windward Islands until 1 January 1983 |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+|      | Sint Eustatius | Oranjestad  | 21         | United States dollar          | Dutch and English    |                                                                                 |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+|      | Saba           |             | 13         | United States dollar          | Dutch and English    |                                                                                 |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
+|      |                | Willemstad  | 999        | Netherlands Antillean guilder |                      |                                                                                 |
++------+----------------+-------------+------------+-------------------------------+----------------------+---------------------------------------------------------------------------------+
 
 Constitutional grouping at time of dissolution
 
 The Island Regulation had divided the Netherlands Antilles into four island territories: Aruba, Bonaire, Curaçao (ABC), and the islands in the Leeward Islands. In 1983, the island territory of the Leeward was split up to form the new island territories of Sint Maarten, Saba, and Sint Eustatius (SSS). In 1986, Aruba seceded from the Netherlands Antilles, reducing the number of island territories to five. After the dissolution of the Netherlands Antilles in 2010, Curaçao and Sint Maarten became autonomous countries within the Kingdom and Bonaire, Sint Eustatius and Saba (BES) became special municipalities of the Netherlands.
 
 Current constitutional grouping
-
-Kingdom_of_the_Netherlands_location_tree.svg
 
 The islands of the former country of the Netherlands Antilles are currently divided are two main groups for political and constitutional purposes:
 
@@ -114,7 +110,7 @@ There are three Caribbean islands that are special municipalities of the Netherl
 
 Constitution
 
-EU_OCT_and_OMR_map_en.png The Constitution of the Netherlands Antilles was proclaimed on 29 March 1955 by Order-in-Council for the Kingdom. Together with the Islands Regulation of the Netherlands Antilles it formed the constitutional basis for the Netherlands Antilles. Because the Constitution depended on the Islands Regulation, which gave fairly large autonomy to the different island territories, and the Islands Regulation was older than the Constitution, many scholars describe the Netherlands Antilles as a federal arrangement.[19]
+The Constitution of the Netherlands Antilles was proclaimed on 29 March 1955 by Order-in-Council for the Kingdom. Together with the Islands Regulation of the Netherlands Antilles it formed the constitutional basis for the Netherlands Antilles. Because the Constitution depended on the Islands Regulation, which gave fairly large autonomy to the different island territories, and the Islands Regulation was older than the Constitution, many scholars describe the Netherlands Antilles as a federal arrangement.[19]
 
 The head of state was the monarch of the Kingdom of the Netherlands, who was represented in the Netherlands Antilles by a governor. The governor and the council of ministers, chaired by a prime minister, formed the government. The Netherlands Antilles had a unicameral legislature called the Estates of the Netherlands Antilles. Its 22 members were fixed in number for the islands making up the Netherlands Antilles: fourteen for Curaçao, three each for Sint Maarten and Bonaire, and one each for Saba and Sint Eustatius.
 
@@ -143,7 +139,7 @@ Most Netherlands Antilleans were Dutch citizens and this status permitted and en
 
 Culture
 
-bulawaya-1.jpg]] The origins of the population and location of the islands gave the Netherlands Antilles a mixed culture.
+]] The origins of the population and location of the islands gave the Netherlands Antilles a mixed culture.
 
 Tourism and overwhelming media presence from the United States increased the regional United States influence. On all the islands, the holiday of Carnival had become an important event after its importation from other Caribbean and Latin American countries in the 1960s. Festivities included "jump-up" parades with beautifully colored costumes, floats, and live bands as well as beauty contests and other competitions. Carnival on the islands also included a middle-of-the-night j'ouvert (juvé) parade that ended at sunrise with the burning of a straw King Momo, cleansing the island of sins and bad luck.
 

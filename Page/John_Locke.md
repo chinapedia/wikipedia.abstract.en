@@ -1,4 +1,4 @@
-John_Locke's_Kit-cat_portrait_by_Godfrey_Kneller,_National_Portrait_Gallery,_London.JPG, National Portrait Gallery, London]]
+, National Portrait Gallery, London]]
 
 JOHN LOCKE (; 29 August 1632 – 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the "Father of Liberalism".[1][2][3] Considered one of the first of the British empiricists, following the tradition of Sir Francis Bacon, he is equally important to social contract theory. His work greatly affected the development of epistemology and political philosophy. His writings influenced Voltaire and Jean-Jacques Rousseau, many Scottish Enlightenment thinkers, as well as the American revolutionaries. His contributions to classical republicanism and liberal theory are reflected in the United States Declaration of Independence.[4]
 
@@ -36,8 +36,6 @@ Ideas
 
 In the late 17th and early 18th centuries, Locke's _Two Treatises_ were rarely cited. Historian Julian Hoppit said of the book, "except among some Whigs, even as a contribution to the intense debate of the 1690s it made little impression and was generally ignored until 1703 (though in Oxford in 1695 it was reported to have made 'a great noise')".[12] John Kenyon, in his study of British political debate from 1689 to 1720, has remarked that Locke's theories were "mentioned so rarely in the early stages of the [Glorious] Revolution, up to 1692, and even less thereafter, unless it was to heap abuse on them" and that "no one, including most Whigs, [were] ready for the idea of a notional or abstract contract of the kind adumbrated by Locke".[13] In contrast, Kenyon adds that Algernon Sidney's _Discourses Concerning Government_ were "certainly much more influential than Locke's _Two Treatises_".[14]
 
-Locke-John-LOC.jpg
-
 In the 50 years after Queen Anne's death in 1714, the _Two Treatises_ were reprinted only once (except in the collected works of Locke). However, with the rise of American resistance to British taxation, the _Second Treatise_ gained a new readership; it was frequently cited in the debates in both America and Britain. The first American printing occurred in 1773 in Boston.[15]
 
 Locke exercised a profound influence on political philosophy, in particular on modern liberalism. Michael Zuckert has argued that Locke launched liberalism by tempering Hobbesian absolutism and clearly separating the realms of Church and State. He had a strong influence on Voltaire who called him "_le sage_ Locke". His arguments concerning liberty and the social contract later influenced the written works of Alexander Hamilton, James Madison, Thomas Jefferson, and other Founding Fathers of the United States. In fact, one passage from the _Second Treatise_ is reproduced verbatim in the Declaration of Independence, the reference to a "long train of abuses". Such was Locke's influence that Thomas Jefferson wrote: "Bacon, Locke and Newton... I consider them as the three greatest men that have ever lived, without any exception, and as having laid the foundation of those superstructures which have been raised in the Physical and Moral sciences".[16][17][18]
@@ -48,7 +46,7 @@ Locke's theory of association heavily influenced the subject matter of modern ps
 
 Theories of religious tolerance
 
-John_Locke_by_Richard_Westmacott.jpg, University College, London]]
+, University College, London]]
 
 Locke, writing his _Letters Concerning Toleration_ (1689–1692) in the aftermath of the European wars of religion, formulated a classic reasoning for religious tolerance. Three arguments are central: (1) Earthly judges, the state in particular, and human beings generally, cannot dependably evaluate the truth-claims of competing religious standpoints; (2) Even if they could, enforcing a single "true religion" would not have the desired effect, because belief cannot be compelled by violence; (3) Coercing religious uniformity would lead to more social disorder than allowing diversity.[22]
 

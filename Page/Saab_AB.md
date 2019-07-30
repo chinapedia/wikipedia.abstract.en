@@ -48,7 +48,7 @@ Organization
 
 Aeronautics
 
-Swedish_JAS-39_Gripen_landing.jpg]] AT4-johnson2004-02-03.jpg portable anti-tank weapon]] Saab340SwedishAirforce.JPG Aeronautics offers airborne systems, related subsystems, Unmanned Aerial Systems (UAS) and aerostructures. The business area Aeronautics is responsible for airframe structures for JAS 39 Gripen, and whole sections for Airbus, Boeing and NH90; & system development of the JAS 39 Gripen and the Skeldar VTOL UAV. Aeronautics is also partner in the European joint UAV-project Dassault nEUROn, where Saab develop Avionics and is responsible for the overall architecture and design. Marketing and support of the JAS 39 Gripen fighter jet is also included in the Aeronautics business area.[23]
+]] portable anti-tank weapon]] Aeronautics offers airborne systems, related subsystems, Unmanned Aerial Systems (UAS) and aerostructures. The business area Aeronautics is responsible for airframe structures for JAS 39 Gripen, and whole sections for Airbus, Boeing and NH90; & system development of the JAS 39 Gripen and the Skeldar VTOL UAV. Aeronautics is also partner in the European joint UAV-project Dassault nEUROn, where Saab develop Avionics and is responsible for the overall architecture and design. Marketing and support of the JAS 39 Gripen fighter jet is also included in the Aeronautics business area.[23]
 
 Dynamics
 
@@ -104,8 +104,6 @@ Cancelled military aircraft projects
 -   Saab 38 (attack/trainer, 1970s, none built)
 
 Civilian aircraft
-
-Saab_Safir_91B.jpg
 
 -   Saab 90 Scandia (32 passenger short-/medium-haul aircraft: manufactured 1946–1954, 18 built)
 -   Saab 91 Safir (single engine trainer: manufactured 1946–1966, 323 built)

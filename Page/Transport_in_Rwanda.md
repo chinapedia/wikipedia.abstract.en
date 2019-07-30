@@ -1,4 +1,4 @@
-RwandaRoads.jpg The TRANSPORT SYSTEM IN RWANDA centres primarily around the road network. Paved roads lie between the capital, Kigali, and most other major cities and towns in the country. Rwanda is also linked by road with other countries in the African Great Lakes, via which the majority of the country's imports and exports are made.
+The TRANSPORT SYSTEM IN RWANDA centres primarily around the road network. Paved roads lie between the capital, Kigali, and most other major cities and towns in the country. Rwanda is also linked by road with other countries in the African Great Lakes, via which the majority of the country's imports and exports are made.
 
 The country has an international airport at Kigali, serving one domestic and several international destinations, and also has limited transport between the port cities on Lake Kivu. There are currently no railways in Rwanda.
 
@@ -52,7 +52,7 @@ In addition the national express share taxi services (see below) to Gisenyi and 
 
 National
 
-TaxiBusesKigali.jpg The main form of public transport within Rwanda is the Express Bus, which has superseded the Share taxi on the main routes.
+The main form of public transport within Rwanda is the Express Bus, which has superseded the Share taxi on the main routes.
 
 Share Taxis
 
@@ -91,7 +91,7 @@ A recent survey carried out by the Transport Companies Association in Kigali giv
 
 Air transport
 
-KigaliAirport.jpg The country's main air gateway is Kigali International Airport, which is located at Kanombe, a suburb approximately from Kigali city centre. The airport has international flights to Lagos, Brazzaville, Dubai, Nairobi, Entebbe, Addis Ababa, Bujumbura, Johannesburg, Amsterdam, Brussels and Doha and is the main airport for the national carrier RwandAir.
+The country's main air gateway is Kigali International Airport, which is located at Kanombe, a suburb approximately from Kigali city centre. The airport has international flights to Lagos, Brazzaville, Dubai, Nairobi, Entebbe, Addis Ababa, Bujumbura, Johannesburg, Amsterdam, Brussels and Doha and is the main airport for the national carrier RwandAir.
 
 There are plans being discussed to build a new airport at Nyamata in Bugesera district, approximately from Kigali which would be much bigger and could act as a hub for the entire region. The only other airport in the country with passenger service is Kamembe Airport, which is in the city of Cyangugu. RwandAir operates a service between Kigali and Kamembe, which serves southwestern Rwanda and the Congolese city of Bukavu.
 

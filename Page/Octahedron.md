@@ -23,7 +23,7 @@ $$x_m=y_m=z_m=a\,\frac{\sqrt{2}}{2}.$$
 
 Geometric relations
 
-Compound_of_two_tetrahedra.png The interior of the compound of two dual tetrahedra is an octahedron, and this compound, called the stella octangula, is its first and only stellation. Correspondingly, a regular octahedron is the result of cutting off from a regular tetrahedron, four regular tetrahedra of half the linear size (i.e. rectifying the tetrahedron). The vertices of the octahedron lie at the midpoints of the edges of the tetrahedron, and in this sense it relates to the tetrahedron in the same way that the cuboctahedron and icosidodecahedron relate to the other Platonic solids. One can also divide the edges of an octahedron in the ratio of the golden mean to define the vertices of an icosahedron. This is done by first placing vectors along the octahedron's edges such that each face is bounded by a cycle, then similarly partitioning each edge into the golden mean along the direction of its vector. There are five octahedra that define any given icosahedron in this fashion, and together they define a _regular compound_.
+The interior of the compound of two dual tetrahedra is an octahedron, and this compound, called the stella octangula, is its first and only stellation. Correspondingly, a regular octahedron is the result of cutting off from a regular tetrahedron, four regular tetrahedra of half the linear size (i.e. rectifying the tetrahedron). The vertices of the octahedron lie at the midpoints of the edges of the tetrahedron, and in this sense it relates to the tetrahedron in the same way that the cuboctahedron and icosidodecahedron relate to the other Platonic solids. One can also divide the edges of an octahedron in the ratio of the golden mean to define the vertices of an icosahedron. This is done by first placing vectors along the octahedron's edges such that each face is bounded by a cycle, then similarly partitioning each edge into the golden mean along the direction of its vector. There are five octahedra that define any given icosahedron in this fashion, and together they define a _regular compound_.
 
 Octahedra and tetrahedra can be alternated to form a vertex, edge, and face-uniform tessellation of space, called the octet truss by Buckminster Fuller. This is the only such tiling save the regular tessellation of cubes, and is one of the 28 convex uniform honeycombs. Another is a tessellation of octahedra and cuboctahedra.
 
@@ -39,27 +39,27 @@ There are 3 uniform colorings of the octahedron, named by the triangular face co
 
 The octahedron's symmetry group is O_(h), of order 48, the three dimensional hyperoctahedral group. This group's subgroups include D_(3d) (order 12), the symmetry group of a triangular antiprism; D_(4H) (order 16), the symmetry group of a square bipyramid; and T_(d) (order 24), the symmetry group of a rectified tetrahedron. These symmetries can be emphasized by different colorings of the faces.
 
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
-| Name            | Octahedron                   | Rectified tetrahedron        | Triangular antiprism   | Square bipyramid      | Rhombic fusil         |
-|                 |                              | (Tetratetrahedron)           |                        |                       |                       |
-+=================+==============================+==============================+========================+=======================+=======================+
-| Image           | Uniform_polyhedron-43-t2.png | Uniform_polyhedron-33-t1.png | Trigonal_antiprism.png | Square_bipyramid.png  | Rhombic_bipyramid.png |
-| (Face coloring) | (1111)                       | (1212)                       | (1112)                 | (1111)                | (1111)                |
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
-| Coxeter diagram |                              | =                            |                        |                       |                       |
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
-| Schläfli symbol | {3,4}                        | r{3,3}                       | s{2,6}                 | ft{2,4}               | ftr{2,2}              |
-|                 |                              |                              | sr{2,3}                | { } + {4}             | { } + { } + { }       |
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
-| Wythoff symbol  | 4 | 3 2                      | 2 | 4 3                      | 2 | 6 2                |                       |                       |
-|                 |                              |                              | | 2 3 2                |                       |                       |
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
-| Symmetry        | O_(h), [4,3], (*432)         | T_(d), [3,3], (*332)         | D_(3d), [2⁺,6], (2*3)  | D_(4h), [2,4], (*422) | D_(2h), [2,2], (*222) |
-|                 |                              |                              | D₃, [2,3]⁺, (322)      |                       |                       |
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
-| Order           | 48                           | 24                           | 12                     | 16                    | 8                     |
-|                 |                              |                              | 6                      |                       |                       |
-+-----------------+------------------------------+------------------------------+------------------------+-----------------------+-----------------------+
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
+| Name            | Octahedron           | Rectified tetrahedron | Triangular antiprism  | Square bipyramid      | Rhombic fusil         |
+|                 |                      | (Tetratetrahedron)    |                       |                       |                       |
++=================+======================+=======================+=======================+=======================+=======================+
+| Image           | (1111)               | (1212)                | (1112)                | (1111)                | (1111)                |
+| (Face coloring) |                      |                       |                       |                       |                       |
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
+| Coxeter diagram |                      | =                     |                       |                       |                       |
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
+| Schläfli symbol | {3,4}                | r{3,3}                | s{2,6}                | ft{2,4}               | ftr{2,2}              |
+|                 |                      |                       | sr{2,3}               | { } + {4}             | { } + { } + { }       |
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
+| Wythoff symbol  | 4 | 3 2              | 2 | 4 3               | 2 | 6 2               |                       |                       |
+|                 |                      |                       | | 2 3 2               |                       |                       |
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
+| Symmetry        | O_(h), [4,3], (*432) | T_(d), [3,3], (*332)  | D_(3d), [2⁺,6], (2*3) | D_(4h), [2,4], (*422) | D_(2h), [2,2], (*222) |
+|                 |                      |                       | D₃, [2,3]⁺, (322)     |                       |                       |
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
+| Order           | 48                   | 24                    | 12                    | 16                    | 8                     |
+|                 |                      |                       | 6                     |                       |                       |
++-----------------+----------------------+-----------------------+-----------------------+-----------------------+-----------------------+
 
 Nets
 
@@ -69,16 +69,15 @@ Dual
 
 The octahedron is the dual polyhedron to the cube.
 
-    Dual_Cube-Octahedron.svg
+
 
 Faceting
 
 The uniform tetrahemihexahedron is a tetrahedral symmetry faceting of the regular octahedron, sharing edge and vertex arrangement. It has four of the triangular faces, and 3 central squares.
 
-+------------------------------+-------------------------+
-| Uniform_polyhedron-33-t1.png | tetrahemihexahedron.png |
-| Octahedron                   | Tetrahemihexahedron     |
-+------------------------------+-------------------------+
++------------+---------------------+
+| Octahedron | Tetrahemihexahedron |
++------------+---------------------+
 
 
 Irregular octahedra
@@ -106,7 +105,7 @@ Octahedra in the physical world
 
 Octahedra in nature
 
-Fluorite_octahedron.jpg octahedron.]]
+octahedron.]]
 
 -   Natural crystals of diamond, alum or fluorite are commonly octahedral, as the space-filling tetrahedral-octahedral honeycomb.
 -   The plates of kamacite alloy in octahedrite meteorites are arranged paralleling the eight faces of an octahedron.
@@ -115,7 +114,7 @@ Fluorite_octahedron.jpg octahedron.]]
 
 Octahedra in art and culture
 
-Rubiks_snake_octahedron.jpgs can approximate an octahedron.]]
+s can approximate an octahedron.]]
 
 -   Especially in roleplaying games, this solid is known as a "d8", one of the more common polyhedral dice.
 -   In the film _Tron_ (1982), the character Bit took this shape as the "Yes" state.
@@ -131,10 +130,10 @@ Related polyhedra
 
 A regular octahedron can be augmented into a tetrahedron by adding 4 tetrahedra on alternated faces. Adding tetrahedra to all 8 faces creates the stellated octahedron.
 
-  ------------------------------ --------------------------------
-  Triangulated_tetrahedron.png   Compound_of_two_tetrahedra.png
-  tetrahedron                    stellated octahedron
-  ------------------------------ --------------------------------
+  ------------- ----------------------
+
+  tetrahedron   stellated octahedron
+  ------------- ----------------------
 
 The octahedron is one of a family of uniform polyhedra related to the cube.
 

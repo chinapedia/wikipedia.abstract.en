@@ -14,7 +14,7 @@ The sole surviving work attributed to him is the _Epistle of Polycarp to the Phi
 
 Life
 
-Nuremberg_chronicles_f_114r_1.png'' ]]
+'' ]]
 
 There are two chief sources of information concerning the life of Polycarp: the letter of the Smyrnaeans recounting the martyrdom of Polycarp and the passages in Irenaeus' _Adversus Haereses_.[9] Other sources are the epistles of Ignatius, which include one to Polycarp and another to the Smyrnaeans, and Polycarp's own letter to the Philippians. In 1999, some third to 6th century Coptic fragments about Polycarp were also published.[10]
 
@@ -34,7 +34,7 @@ According to Irenaeus, during the time his fellow Syrian, Anicetus, was the Bish
 
 Date of martyrdom
 
-Izmir_St_Polycarp_Church_Icon_Miraculously_Extinguishing_Smyrna_Fire.JPG]]
+]]
 
 In the _Martyrdom_, Polycarp is recorded as saying on the day of his death, "Eighty and six years I have served Him, and He has done me no wrong", which could indicate that he was then eighty-six years old[16] or that he may have lived eighty-six years after his conversion.[17] Polycarp goes on to say "How then can I blaspheme my King and Savior? You threaten me with a fire that burns for a season, and after a little while is quenched; but you are ignorant of the fire of everlasting punishment that is prepared for the wicked."[18] Polycarp was burned at the stake and was pierced with a spear for refusing to burn incense to the Roman Emperor.[19] On his farewell, he said "I bless you Father for judging me worthy of this hour, so that in the company of the martyrs I may share the cup of Christ."[20]
 

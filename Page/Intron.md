@@ -18,8 +18,6 @@ Distribution
 
 The frequency of introns within different genomes is observed to vary widely across the spectrum of biological organisms. For example, introns are extremely common within the nuclear genome of jawed vertebrates (e.g. humans and mice), where protein-coding genes almost always contain multiple introns, while introns are rare within the nuclear genes of some eukaryotic microorganisms,[11] for example baker's/brewer's yeast (_Saccharomyces cerevisiae_). In contrast, the mitochondrial genomes of vertebrates are entirely devoid of introns, while those of eukaryotic microorganisms may contain many introns.[12]
 
-Pre-mRNA_to_mRNA.svg
-
 A particularly extreme case is the _Drosophila dhc7_ gene containing a ≥3.6 megabase (Mb) intron, which takes roughly three days to transcribe.[13][14] On the other extreme, a recent study suggests that the shortest known eukaryotic intron length is 30 base pairs (bp) belonging to the human _MST1L_ gene.[15]
 
 

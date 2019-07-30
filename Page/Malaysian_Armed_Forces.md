@@ -83,26 +83,26 @@ The main theaters of operations were within Malaysian borders, primarily to figh
 -   Deployed in East Timor/East Leste together with Australian, Portuguese and New Zealand forces at the request of East Timor Government. The first team of 25 soldiers from 10 Para Brigade, Royal Intelligence Corp and Commando Regiment were deployed on a fact-finding mission before being reinforced by another 209 soldiers. (as at 27 May 2006)
 -   Deployed in South Lebanon on peace keeping role at present after the withdrawal of Israeli Military forces early 2007 (Invasion of South Lebanon by Israeli Military). Unit mainly consist of GGK, PASKAL, PASKAU and PARA elements.
 
-Istana_Negara_KL_2007_004.jpg outside the main gate of the Istana Negara, Kuala Lumpur]] Other limited participation under UNPKO are United Nations International Police Force (UNIPTF) since December 1995; United Nations Mission in Kosovo (UNMIK) since June 1999; United Nations Observer Mission in Sierra Leone (UNAMSIL) since October 1999; United Nations Transitional Administration in East Timor (UNTAET) since September 1999 and United Nations Organisation Mission in Democratic Republic of Congo (MONUC) since February 2000. 18 Malaysian Armed Forces personnel have been killed during UN peacekeeping operations.
+outside the main gate of the Istana Negara, Kuala Lumpur]] Other limited participation under UNPKO are United Nations International Police Force (UNIPTF) since December 1995; United Nations Mission in Kosovo (UNMIK) since June 1999; United Nations Observer Mission in Sierra Leone (UNAMSIL) since October 1999; United Nations Transitional Administration in East Timor (UNTAET) since September 1999 and United Nations Organisation Mission in Democratic Republic of Congo (MONUC) since February 2000. 18 Malaysian Armed Forces personnel have been killed during UN peacekeeping operations.
 
 
 Current developments
 
-Compilation_of_Malaysian_Armed_Forces.png, Malaysian Army paratrooper with M4A1, and Su-30MKM fighter aircraft.]] Malaysian defence requirements are assigned to the Malaysian Armed Forces (Angkatan Tentera Malaysia – ATM). The armed forces has three branches,the Malaysian Army (Tentera Darat Malaysia – TDM), Royal Malaysian Navy (Tentera Laut Diraja Malaysia – TLDM) and the Royal Malaysian Air Force (Tentera Udara Diraja Malaysia – TUDM). Malaysia does not have conscription, and the required minimum age for voluntary military service is 18.[3]
+, Malaysian Army paratrooper with M4A1, and Su-30MKM fighter aircraft.]] Malaysian defence requirements are assigned to the Malaysian Armed Forces (Angkatan Tentera Malaysia – ATM). The armed forces has three branches,the Malaysian Army (Tentera Darat Malaysia – TDM), Royal Malaysian Navy (Tentera Laut Diraja Malaysia – TLDM) and the Royal Malaysian Air Force (Tentera Udara Diraja Malaysia – TUDM). Malaysia does not have conscription, and the required minimum age for voluntary military service is 18.[3]
 
 In the early 1990s, Malaysia undertook a major program to expand and modernise its armed forces. However, budgetary constraints imposed by the 1997 Asian financial crisis held many of the procurements. The recent economic recovery may lead to relaxation of budgetary constraints on the resumption of major weapons purchases. In October 2000 the Defence Minister also announced a review of national defence and security policy to bring it up to date. The review addressed new security threats that have emerged in the form of low intensity conflicts, such as the kidnapping of Malaysians and foreigners from resort islands located off the east coast of the state of Sabah and risk rising territory dispute with several neighbour countries. Currently, 1.4% of Malaysia's GDP is spent on the military, which employs 1.23% of Malaysia's manpower.[4] Dr Kogila Balakrishnan is the head of the Defence Industry.
 
 Malaysian Army
 
-PT-91M_Pendekar.jpg of Malaysia Army]] Since the recovery from the 1997 economic crisis, the army's modernisation programme has gained momentum.
+of Malaysia Army]] Since the recovery from the 1997 economic crisis, the army's modernisation programme has gained momentum.
 
 Royal Malaysian Navy
 
-KD_Lekiu(FFG30)_and_KD_Jebat(FFG29)_with_USS_George_Washington_(CVN_73).jpeg of RMN]] Following the completion of the , Malaysia's New Generation Patrol Vessel (NGPV) program, Malaysia has ordered six Second Generation Patrol Vessels. Malaysia is also looking to purchase two more s, as well as a batch of Multi-Purpose Support Ship (MPSS) and maritime patrol aircraft.
+of RMN]] Following the completion of the , Malaysia's New Generation Patrol Vessel (NGPV) program, Malaysia has ordered six Second Generation Patrol Vessels. Malaysia is also looking to purchase two more s, as well as a batch of Multi-Purpose Support Ship (MPSS) and maritime patrol aircraft.
 
 Royal Malaysian Air Force
 
-Su30mkm_flying_at_lima_two_(cropped).jpg of RMAF]] TUDM has traditionally looked to the West for its purchases, primarily to the United States. However, limitation imposed by the United States on "new technology" to the region such as the AIM-120 AMRAAM fire-and-forget air-to-air missiles has made TUDM consider purchases from Russia and other non-traditional sources.
+of RMAF]] TUDM has traditionally looked to the West for its purchases, primarily to the United States. However, limitation imposed by the United States on "new technology" to the region such as the AIM-120 AMRAAM fire-and-forget air-to-air missiles has made TUDM consider purchases from Russia and other non-traditional sources.
 
 National Service
 

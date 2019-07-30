@@ -31,7 +31,7 @@ In the United States, oxycodone is only approved for use by mouth, available as 
 
 Side effects
 
-Side_effects_of_Oxycodone.png of oxycodone[43]]] GT-Oxycodon-Sicherheitsblister.jpg
+of oxycodone[43]]]
 
 Serious side effects of oxycodone include reduced sensitivity to pain (beyond the pain the drug is taken to reduce), euphoria, anxiolysis, feelings of relaxation, and respiratory depression.[44] Common side effects of oxycodone include constipation (23%), nausea (23%), vomiting (12%), somnolence (23%), dizziness (13%), itching (13%), dry mouth (6%), and sweating (5%).[45][46] Less common side effects (experienced by less than 5% of patients) include loss of appetite, nervousness, abdominal pain, diarrhea, urine retention, dyspnea, and hiccups.[47] These side effects generally become less intense over time.[48] Oxycodone in combination with naloxone in managed-release tablets, has been formulated to both deter abuse and reduce "opioid-induced constipation".[49]
 

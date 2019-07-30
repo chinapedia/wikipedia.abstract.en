@@ -1,4 +1,4 @@
-Joker_(carte_de_jeu).jpg Watten.jpg may be used as wild cards]]
+may be used as wild cards]]
 
 A WILD CARD in card games is one that may be used to represent any other playing card, sometimes with certain restrictions. These may be jokers, for example in Rummy games, or ordinary ranked and suited cards may be designated as wild cards ("deuces wild" in Poker is a common variant).[1] A card which is not wild may be referred to as a natural card.[2]
 

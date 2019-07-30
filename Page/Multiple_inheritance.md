@@ -23,8 +23,6 @@ PHP uses traits classes to inherit specific method implementations. Ruby uses mo
 
 The diamond problem
 
-Diamond_inheritance.svg
-
 The "DIAMOND PROBLEM" (sometimes referred to as the "Deadly Diamond of Death"[4]) is an ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. If there is a method in A that B and C have overridden, and D does not override it, then which version of the method does D inherit: that of B, or that of C?
 
 For example, in the context of GUI software development, a class Button may inherit from both classes Rectangle (for appearance) and Clickable (for functionality/input handling), and classes Rectangle and Clickable both inherit from the Object class. Now if the equals method is called for a Button object and there is no such method in the Button class but there is an overridden equals method in Rectangle or Clickable (or both), which method should be eventually called?

@@ -18,7 +18,7 @@ Career
 
 1960s
 
-Peter_Cook_Beyond_the_Fringe_1962.JPG'']]
+'']]
 
 In 1961, Cook opened The Establishment, a club at 18 Greek Street in Soho in central London, presenting fellow comedians in a nightclub setting, including American Lenny Bruce. Cook said it was a satirical venue modelled on "those wonderful Berlin cabarets ... which did so much to stop the rise of Hitler and prevent the outbreak of the Second World War";[14] as a members-only venue it was outside the censorship restrictions. The Establishment's regular cabaret performers were Eleanor Bron, John Bird and John Fortune.[15]
 
@@ -34,7 +34,7 @@ Around this time, Cook provided financial backing for the satirical magazine _Pr
 
 Cook's first regular television spot was on Granada Television's _Braden Beat_ with Bernard Braden, where he featured his most enduring character: the static, dour and monotonal E. L. Wisty, whom Cook had conceived for Radley College's Marionette Society.
 
-Dudley_Moore_Peter_Cook_Kraft_Music_Hall.JPG in London for the US television programme _Kraft Music Hall_]]
+in London for the US television programme _Kraft Music Hall_]]
 
 Cook's comedy partnership with Dudley Moore led to _Not Only... But Also_. This was originally intended by the BBC as a vehicle for Moore's music, but Moore invited Cook to write sketches and appear with him. Using few props, they created dry, absurd television that proved hugely popular and lasted for three series between 1965 and 1970. Cook played characters such as Sir Arthur Streeb-Greebling and the two men created their Pete and Dud alter egos. Other sketches included "Superthunderstingcar", a parody of the Gerry Anderson marionette TV shows, and Cook's pastiche of 1960s trendy arts documentaries – satirised in a parodic segment on Greta Garbo.
 
@@ -46,7 +46,7 @@ In 1968, Cook and Moore briefly switched to ATV for four one-hour programmes tit
 
 1970s
 
-Good_Evening_Dudley_Moore_Peter_Cook_1975.JPG]] In 1970, Cook took over a project initiated by David Frost for a satirical film about an opinion pollster who rises to become President of Great Britain. Under Cook's guidance, the character became modelled on Frost. The film, _The Rise and Rise of Michael Rimmer_, was not a success, although the cast contained notable names (including Monty Python's John Cleese and Graham Chapman, who co-wrote the film).
+]] In 1970, Cook took over a project initiated by David Frost for a satirical film about an opinion pollster who rises to become President of Great Britain. Under Cook's guidance, the character became modelled on Frost. The film, _The Rise and Rise of Michael Rimmer_, was not a success, although the cast contained notable names (including Monty Python's John Cleese and Graham Chapman, who co-wrote the film).
 
 Cook became a favourite of the chat show circuit, but his own effort at hosting such a show for the BBC in 1971, _Where Do I Sit?_, was said by the critics to have been a disappointment. He was replaced after only two episodes by Michael Parkinson, the start of Parkinson's career as a chat show host. Parkinson later asked Cook what his ambitions were, Cook replied jocularly "[...] in fact, my ambition is to shut you up altogether you see!"[20]
 
@@ -112,7 +112,7 @@ Cook was an avid spectator of most sports and was a supporter of Tottenham Hotsp
 
 Legacy
 
-Peter_Cook_(3985376490).jpg marking the site of the Establishment Club in Greek Street, Soho, London]]
+marking the site of the Establishment Club in Greek Street, Soho, London]]
 
 Cook is widely acknowledged as a strong influence on the many British comedians who followed him from the amateur dramatic clubs of British universities to the Edinburgh Festival Fringe, and then to radio and television. On his death, some critics choose to see Cook's life as tragic, insofar as the brilliance of his youth had not been sustained in his later years. However, Cook himself always maintained he had no ambitions at all for sustained success. He assessed happiness by his friendships and his enjoyment of life. Eric Idle said Cook had not wasted his talent, but rather that the newspapers had tried to waste him.[31]
 

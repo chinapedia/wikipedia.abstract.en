@@ -5,8 +5,6 @@ Pitcairn is the least populous national jurisdiction in the world.[6] The Pitcai
 
 History
 
-Pitcairn_Island_In_The_Distance.jpg Pitcairnlanding.jpg Adamstown1.jpg
-
 Polynesian settlement and extinction
 
 The earliest known settlers of the Pitcairn Islands were Polynesians who appear to have lived on Pitcairn and Henderson, and on Mangareva Island to the northwest, for several centuries. They traded goods and formed social ties among the three islands despite the long canoe voyages between them, which helped the small populations on each island survive despite their limited resources. Eventually, important natural resources were exhausted, inter-island trade broke down and a period of civil war began on Mangareva, causing the small human populations on Henderson and Pitcairn to be cut off and eventually become extinct.
@@ -23,13 +21,13 @@ Carteret, who sailed without the newly-invented marine chronometer, charted the 
 
 European settlement
 
-Mutiny_HMS_Bounty.jpg In 1790, nine of the mutineers from the _Bounty_, along with the native Tahitian men and women who were with them (six men, eleven women, and a baby girl), settled on Pitcairn Island and set fire to the _Bounty_. The wreck is still visible underwater in Bounty Bay, discovered in 1957 by _National Geographic_ explorer Luis Marden. Although the settlers survived by farming and fishing, the initial period of settlement was marked by serious tensions among them. Alcoholism, murder, disease and other ills took the lives of most mutineers and Tahitian men. John Adams and Ned Young turned to the scriptures, using the ship's Bible as their guide for a new and peaceful society. Young eventually died of an asthmatic infection.
+In 1790, nine of the mutineers from the _Bounty_, along with the native Tahitian men and women who were with them (six men, eleven women, and a baby girl), settled on Pitcairn Island and set fire to the _Bounty_. The wreck is still visible underwater in Bounty Bay, discovered in 1957 by _National Geographic_ explorer Luis Marden. Although the settlers survived by farming and fishing, the initial period of settlement was marked by serious tensions among them. Alcoholism, murder, disease and other ills took the lives of most mutineers and Tahitian men. John Adams and Ned Young turned to the scriptures, using the ship's Bible as their guide for a new and peaceful society. Young eventually died of an asthmatic infection.
 
 Ducie Island was rediscovered in 1791 by Royal Navy captain Edwards aboard , while searching for the _Bounty_ mutineers. He named it after Francis Reynolds-Moreton, 3rd Baron Ducie, also a captain in the Royal Navy.
 
 The Pitcairn islanders reported it was not until 27 December 1795 that the first ship since the _Bounty_ was seen from the island, but it did not approach the land and they could not make out the nationality. A second ship appeared in 1801, but made no attempt to communicate with them. A third came sufficiently near to see their house, but did not try to send a boat on shore. Finally, the American sealing ship _Topaz_, under Mayhew Folger, became the first to visit the island, when the crew spent 10 hours on Pitcairn in February 1808.
 
-A_view_of_Pitcairn's_Island,_South_Seas,_1814,_J._Shillibeer.jpgA report of Folger's discovery was forwarded to the Admiralty, mentioning the mutineers and giving a more precise location of the island: .[12] However, this was not known to Sir Thomas Staines, who commanded a Royal Navy flotilla of two ships, HMS _Briton_ and HMS _Tagus_, which found the island at (by meridian observation) on 17 September 1814. Staines sent a party ashore and wrote a detailed report for the Admiralty.[13][14][15][16] By that time, only one mutineer, John Adams, remained alive. He was granted amnesty for his part in the mutiny.[17]
+A report of Folger's discovery was forwarded to the Admiralty, mentioning the mutineers and giving a more precise location of the island: .[12] However, this was not known to Sir Thomas Staines, who commanded a Royal Navy flotilla of two ships, HMS _Briton_ and HMS _Tagus_, which found the island at (by meridian observation) on 17 September 1814. Staines sent a party ashore and wrote a detailed report for the Admiralty.[13][14][15][16] By that time, only one mutineer, John Adams, remained alive. He was granted amnesty for his part in the mutiny.[17]
 
 Henderson Island was rediscovered on 17 January 1819 by British Captain James Henderson of the British East India Company ship _Hercules_. Captain Henry King, sailing on _Elizabeth_, landed on 2 March to find the king's colours already flying. His crew scratched the name of their ship into a tree. Oeno Island was discovered on 26 January 1824 by American captain George Worth aboard the whaler .
 
@@ -37,9 +35,9 @@ In 1832 a Church Missionary Society missionary, Joshua Hill, arrived. He reporte
 
 British colony
 
-Pitcairn_1940_07.jpg Traditionally, Pitcairn Islanders consider that their islands "officially" became a British colony on 30 November 1838, at the same time becoming one of the first territories to extend voting rights to women. By the mid-1850s, the Pitcairn community was outgrowing the island; its leaders appealed to the British government for assistance, and were offered Norfolk Island. On 3 May 1856, the entire population of 193 people set sail for Norfolk on board the _Morayshire_, arriving on 8 June after a difficult five-week trip. However, just eighteen months later, seventeen of the Pitcairn Islanders returned to their home island, and another 27 followed five years later.[19]
+Traditionally, Pitcairn Islanders consider that their islands "officially" became a British colony on 30 November 1838, at the same time becoming one of the first territories to extend voting rights to women. By the mid-1850s, the Pitcairn community was outgrowing the island; its leaders appealed to the British government for assistance, and were offered Norfolk Island. On 3 May 1856, the entire population of 193 people set sail for Norfolk on board the _Morayshire_, arriving on 8 June after a difficult five-week trip. However, just eighteen months later, seventeen of the Pitcairn Islanders returned to their home island, and another 27 followed five years later.[19]
 
-visited Pitcairn Island on 18 April 1881 and "found the people very happy and contented, and in perfect health". At that time the population was 96, an increase of six since the visit of Admiral de Horsey in September 1878. Stores had recently been delivered from friends in England, including two whale-boats and Portland cement, which was used to make the reservoir watertight. HMS _Thetis_ gave the islanders of biscuits, of candles, and 100 lb of soap and clothing to the value of £31, donated by the ship's company. An American trading ship called _Venus_ had recently bestowed a supply of cotton seed, to provide the islanders with a crop for future trade.[20] Pitcairn_Islanders,_1916.jpg In 1886, the Seventh-day Adventist layman John Tay visited Pitcairn and persuaded most of the islanders to accept his faith. He returned in 1890 on the missionary schooner with an ordained minister to perform baptisms. Since then, the majority of Pitcairn Islanders have been Adventists.[21]
+visited Pitcairn Island on 18 April 1881 and "found the people very happy and contented, and in perfect health". At that time the population was 96, an increase of six since the visit of Admiral de Horsey in September 1878. Stores had recently been delivered from friends in England, including two whale-boats and Portland cement, which was used to make the reservoir watertight. HMS _Thetis_ gave the islanders of biscuits, of candles, and 100 lb of soap and clothing to the value of £31, donated by the ship's company. An American trading ship called _Venus_ had recently bestowed a supply of cotton seed, to provide the islanders with a crop for future trade.[20] In 1886, the Seventh-day Adventist layman John Tay visited Pitcairn and persuaded most of the islanders to accept his faith. He returned in 1890 on the missionary schooner with an ordained minister to perform baptisms. Since then, the majority of Pitcairn Islanders have been Adventists.[21]
 
 The islands of Henderson, Oeno and Ducie were annexed by Britain in 1902: Henderson on 1 July, Oeno on 10 July, and Ducie on 19 December.[22] In 1938, the three islands, along with Pitcairn, were incorporated into a single administrative unit called the "Pitcairn Group of Islands".
 
@@ -84,7 +82,7 @@ File:Pitcairn Island NOAA.jpg|View from east side of Pitcairn Island File:Pitcai
 
 Climate
 
-Geodesy_Collection_Pitcairn_Island.jpg operations on Pitcairn Island]] Pitcairn is located just south of the Tropic of Capricorn and experiences year-round warm weather, with wet summers and drier winters. The rainy season (summer) is from November through to March, when temperatures average and humidity can exceed 95%. Temperatures in the winter range from .[38]
+operations on Pitcairn Island]] Pitcairn is located just south of the Tropic of Capricorn and experiences year-round warm weather, with wet summers and drier winters. The rainy season (summer) is from November through to March, when temperatures average and humidity can exceed 95%. Temperatures in the winter range from .[38]
 
 Flora
 
@@ -109,7 +107,7 @@ In March 2015 the British government established one of the largest marine prote
 
 Politics
 
-EU_OCT_and_OMR_map_en.png]] The Pitcairn Islands are a British overseas territory with a degree of local government. The Queen of the United Kingdom is represented by a Governor, who also holds office as British High Commissioner to New Zealand and is based in Wellington.[49]
+]] The Pitcairn Islands are a British overseas territory with a degree of local government. The Queen of the United Kingdom is represented by a Governor, who also holds office as British High Commissioner to New Zealand and is based in Wellington.[49]
 
 The 2010 constitution gives authority for the islands to operate as a representative democracy, with the United Kingdom retaining responsibility for matters such as defence and foreign affairs. The Governor and the Island Council may enact laws for the "peace, order and good government" of Pitcairn. The Island Council customarily appoints a Mayor of Pitcairn as a day-to-day head of the local administration. There is a Commissioner, appointed by the Governor, who liaises between the Council and the Governor's office.
 
@@ -143,7 +141,7 @@ In 1998 the UK's overseas aid agency, the Department for International Developme
 
 Cuisine
 
-Pepes_ikan_emas_(pais_lauk_mas)_Sunda.jpg Cuisine is not very developed, because only 50 people live on Pitcairn. The most traditional meal is pota, mash from palm leaves and coconut.[62] Domestic tropical plants are abundantly used. These include: basil, breadfruit, sugar cane, coconut, bananas and beans. Meat courses consist mainly of fish and beef. Given that most of the population's ancestry is from the UK, the cuisine is influenced by British cuisine; for example, the meat pie.[63]
+Cuisine is not very developed, because only 50 people live on Pitcairn. The most traditional meal is pota, mash from palm leaves and coconut.[62] Domestic tropical plants are abundantly used. These include: basil, breadfruit, sugar cane, coconut, bananas and beans. Meat courses consist mainly of fish and beef. Given that most of the population's ancestry is from the UK, the cuisine is influenced by British cuisine; for example, the meat pie.[63]
 
 The cuisine of Norfolk Island is very similar to that of the Pitcairn Islands, as Norfolk Islanders trace their origins to Pitcairn. The local cuisine is a blend of British cuisine and Tahitian cuisine.[64][65]
 
@@ -178,7 +176,7 @@ Most resident Pitcairn Islanders are descendants of the _Bounty_ mutineers and T
 
 Religion
 
-The only church building on the island is Seventh-day Adventist.[85] The Seventh-day Adventist Church is not a state religion, as no laws concerning its establishment were passed by the local government. A successful Seventh-day Adventist mission in the 1890s was important in shaping Pitcairn society. In recent years, the church population has declined, and , eight of the then forty islanders attended services regularly,[86] but most attend church on special occasions. From Friday at sunset until Saturday at sunset, Pitcairners observe a day of rest in observance of the Sabbath, or as a mark of respect for observant Adventists. Pitcairn_-_Church_of_Adamstown.jpg The church was built in 1954 and is run by the Church board and resident pastor, who usually serves a two-year term. The Sabbath School meets at 10 am on Saturday mornings, and is followed by Divine Service an hour later. On Tuesday evenings, there is another service in the form of a prayer meeting.
+The only church building on the island is Seventh-day Adventist.[85] The Seventh-day Adventist Church is not a state religion, as no laws concerning its establishment were passed by the local government. A successful Seventh-day Adventist mission in the 1890s was important in shaping Pitcairn society. In recent years, the church population has declined, and , eight of the then forty islanders attended services regularly,[86] but most attend church on special occasions. From Friday at sunset until Saturday at sunset, Pitcairners observe a day of rest in observance of the Sabbath, or as a mark of respect for observant Adventists. The church was built in 1954 and is run by the Church board and resident pastor, who usually serves a two-year term. The Sabbath School meets at 10 am on Saturday mornings, and is followed by Divine Service an hour later. On Tuesday evenings, there is another service in the form of a prayer meeting.
 
 Education
 

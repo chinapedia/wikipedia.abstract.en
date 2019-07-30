@@ -39,7 +39,7 @@ He made cameo appearances as a security guard in both the 2003 film _Hulk_ and t
 
 2009–present
 
-Lou_Ferrigno_at_2009_Dragon_Con_Parade.jpg Parade]] Ferrigno appeared as himself in the 2009 feature film comedy _I Love You, Man_.
+Parade]] Ferrigno appeared as himself in the 2009 feature film comedy _I Love You, Man_.
 
 Ferrigno trained Michael Jackson on and off beginning in the early 1990s, and in 2009, he helped Jackson get into shape for a planned series of concerts in London,[26] which were ultimately cancelled due to Jackson's untimely death.
 
@@ -115,7 +115,7 @@ Magazine covers
 
 Filmography
 
-Lou.JPG theme park]]
+theme park]]
 
 Film
 

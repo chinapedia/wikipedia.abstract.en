@@ -7,7 +7,7 @@ _Quake_ features music composed by Trent Reznor and his band, Nine Inch Nails.[2
 
 Gameplay
 
-Quake_gameplay.png In _Quake_{{'s}} single-player mode, players explore and navigate to the exit of each Gothic and dark level, facing monsters and finding secret areas along the way. Usually there are switches to activate or keys to collect in order to open doors before the exit can be reached. Reaching the exit takes the player to the next level. Before accessing an episode, there is a set of three pathways with easy, medium, and hard skill levels. The fourth skill level, "Nightmare", was "so bad that it was hidden, so people won't wander in by accident";[3] the player must drop through water before the episode four entrance and go into a secret passage to access it.
+In _Quake_{{'s}} single-player mode, players explore and navigate to the exit of each Gothic and dark level, facing monsters and finding secret areas along the way. Usually there are switches to activate or keys to collect in order to open doors before the exit can be reached. Reaching the exit takes the player to the next level. Before accessing an episode, there is a set of three pathways with easy, medium, and hard skill levels. The fourth skill level, "Nightmare", was "so bad that it was hidden, so people won't wander in by accident";[3] the player must drop through water before the episode four entrance and go into a secret passage to access it.
 
 _Quake_{{'s}} single-player campaign is organized into four individual episodes with seven to eight levels in each (including one secret level per episode, one of which is a "low gravity" level that challenges the player's abilities in a different way). As items are collected, they are carried to the next level, each usually more challenging than the last. If the player's character dies, he must restart at the beginning of the level. The game may be saved at any time. Upon completing an episode, the player is returned to the hub "START" level, where another episode can be chosen. Each episode starts the player from scratch, without any previously collected items. Episode one (which formed the shareware or downloadable demo version of _Quake_) has the most traditional ideology of a boss in the last level. The ultimate objective at the end of each episode is to recover a magic rune. After all of the runes are collected, the floor of the hub level opens up to reveal an entrance to the "END" level which contains the final boss of the game.
 
@@ -28,8 +28,6 @@ The single-player campaign consists of 30 separate levels, or "maps", divided in
 
 
 Development
-
-Quake_-_family_tree.svg Quake_-_family_tree_2.svg
 
 A preview included with id's very first release, 1990's _Commander Keen_, advertised a game entitled _The Fight for Justice_ as a follow-up to the _Commander Keen_ trilogy. It would feature a character named Quake, "the strongest, most dangerous person on the continent", armed with thunderbolts and a "Ring of Regeneration". Conceived as a VGA full-color side-scrolling role-playing game, _The Fight for Justice_ was never released.
 

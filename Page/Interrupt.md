@@ -1,4 +1,4 @@
-Interruption}} Interrupt_Process.PNG
+Interruption}}
 
 In system programming, an INTERRUPT is a signal to the processor emitted by hardware or software indicating an event that needs immediate attention. An interrupt alerts the processor to a high-priority condition requiring the interruption of the current code the processor is executing. The processor responds by suspending its current activities, saving its state, and executing a function called an _interrupt handler_ (or an interrupt service routine, ISR) to deal with the event. This interruption is temporary, and, after the interrupt handler finishes, unless handling the interrupt has emitted a fatal error, the processor resumes normal activities.[1] There are two types of interrupts: hardware interrupts and software interrupts (softirqs).
 

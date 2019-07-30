@@ -23,7 +23,7 @@ Pontificate
 
 On 29 April 1670, the papacy was offered to him by fifty-nine Cardinals present at the election; only two being against him. He, however, objected because of his age, for he was almost eighty, and exclaimed, "I am too old to bear such a burden." Pointing to Cardinal Brancaccio, Altieri said he was the Cardinal whom they ought to elect. He persisted in refusing, protesting that he no longer had strength or memory; eventually, with tears he accepted, and out of gratitude to his benefactor, by ten years his junior, he assumed the name of Clement X.[6] He was crowned on 11 May.
 
-Gianlorenzo_bernini,_busto_di_Clemente_X_02.JPG]] On the 8th of June Clement X took possession of St. John Lateran. On 11 June, he confirmed the Minor Observantines in the Holy Land in the privileges and indulgences granted to those who visit the holy places, according to the decree of Popes Alexander VII and Clement IX. In the same month, he granted to the prelate-clerks of the chamber the use of the violet-coloured band around their hats. Occasionally forgetful, he sometimes promised the same favors to different people and came to rely on his cardinal-nephew, Cardinal Paoluzzi-Altieri.[7]
+]] On the 8th of June Clement X took possession of St. John Lateran. On 11 June, he confirmed the Minor Observantines in the Holy Land in the privileges and indulgences granted to those who visit the holy places, according to the decree of Popes Alexander VII and Clement IX. In the same month, he granted to the prelate-clerks of the chamber the use of the violet-coloured band around their hats. Occasionally forgetful, he sometimes promised the same favors to different people and came to rely on his cardinal-nephew, Cardinal Paoluzzi-Altieri.[7]
 
 All but one of the male scions of the Altieri family had chosen the ecclesiastical career. On his accession to the papacy, Clement X, in order to save the Altieri name from extinction, adopted the Paoluzzi family, and proposed that one of the Paluzzi should marry Laura Caterina Altieri, the sole heiress of the family. In exchange for adopting the Altieri surname, he would make one of the Paoluzzi a Cardinal. Following the wedding, which he officiated, he appointed his relative by marriage _Cardinal Paoluzzi-Altieri_, the uncle of Laura's new husband, to the Office of Cardinal Nephew to take on the duties which he was prevented from doing by age. The main activity was to invest the Church's money, and with advancing years gradually entrusted to him the management of affairs, to such an extent that the Romans said he had reserved to himself only the episcopal functions of _benedicere et sanctificare_, resigning in favour of the Cardinal the administrative duties of _regere et gubernare_.[8]
 
@@ -82,7 +82,7 @@ Clement X created 20 cardinals in six consistories including Pietro Francesco Or
 
 Death
 
-ClementeX.jpg On 22 July 1676, the agonies of the gout became so violent that Clement X died under them that afternoon. He was eighty-six years old and had governed the Church six years, two months, and twenty-four days. His tomb is in St. Peter's Basilica.[13]
+On 22 July 1676, the agonies of the gout became so violent that Clement X died under them that afternoon. He was eighty-six years old and had governed the Church six years, two months, and twenty-four days. His tomb is in St. Peter's Basilica.[13]
 
 
 Other accomplishments

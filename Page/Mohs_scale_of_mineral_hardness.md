@@ -1,4 +1,4 @@
-Mohssche-haerteskala_hg.jpg The MOHS SCALE OF MINERAL HARDNESS () is a qualitative ordinal scale characterizing scratch resistance of various minerals through the ability of harder material to scratch softer material. Created in 1812 by German geologist and mineralogist Friedrich Mohs, it is one of several definitions of hardness in materials science, some of which are more quantitative.[1] The method of comparing hardness by observing which minerals can scratch others is of great antiquity, having been mentioned by Theophrastus in his treatise _On Stones_, , followed by Pliny the Elder in his _Naturalis Historia_, .[2][3][4] While greatly facilitating the identification of minerals in the field, the Mohs scale does not show how well hard materials perform in an industrial setting.[5]
+The MOHS SCALE OF MINERAL HARDNESS () is a qualitative ordinal scale characterizing scratch resistance of various minerals through the ability of harder material to scratch softer material. Created in 1812 by German geologist and mineralogist Friedrich Mohs, it is one of several definitions of hardness in materials science, some of which are more quantitative.[1] The method of comparing hardness by observing which minerals can scratch others is of great antiquity, having been mentioned by Theophrastus in his treatise _On Stones_, , followed by Pliny the Elder in his _Naturalis Historia_, .[2][3][4] While greatly facilitating the identification of minerals in the field, the Mohs scale does not show how well hard materials perform in an industrial setting.[5]
 
 
 Usage
@@ -15,17 +15,17 @@ The Mohs scale of mineral hardness is based on the ability of one natural sample
 The Mohs scale is a purely ordinal scale. For example, corundum (9) is twice as hard as topaz (8), but diamond (10) is four times as hard as corundum. The table below shows the comparison with the absolute hardness measured by a sclerometer, with pictorial examples.[9][10]
 
   Mohs hardness   Mineral               Chemical formula                 Absolute hardness[11]   Image
-  --------------- --------------------- -------------------------------- ----------------------- -------------------------------
-  1               Talc                  Mg₃Si₄O₁₀(OH)₂                   1                       Talc_block.jpg
-  2               Gypsum                CaSO₄·2H₂O                       2                       Gypse_Arignac.jpg
-  3               Calcite               CaCO₃                            14                      Calcite-sample2.jpg
-  4               Fluorite              CaF₂                             21                      Fluorite_with_Iron_Pyrite.jpg
-  5               Apatite               Ca₅(PO₄)₃(OH^(−),Cl^(−),F^(−))   48                      Apatite_Canada.jpg
-  6               Orthoclase feldspar   KAlSi₃O₈                         72                      OrthoclaseBresil.jpg
-  7               Quartz                SiO₂                             100                     Quartz_Brésil.jpg
-  8               Topaz                 Al₂SiO₄(OH^(−),F^(−))₂           200                     Topaz_cut.jpg
-  9               Corundum              Al₂O₃                            400                     Cut_Ruby.jpg
-  10              Diamond               C                                1500                    Rough_diamond.jpg
+  --------------- --------------------- -------------------------------- ----------------------- -------
+  1               Talc                  Mg₃Si₄O₁₀(OH)₂                   1
+  2               Gypsum                CaSO₄·2H₂O                       2
+  3               Calcite               CaCO₃                            14
+  4               Fluorite              CaF₂                             21
+  5               Apatite               Ca₅(PO₄)₃(OH^(−),Cl^(−),F^(−))   48
+  6               Orthoclase feldspar   KAlSi₃O₈                         72
+  7               Quartz                SiO₂                             100
+  8               Topaz                 Al₂SiO₄(OH^(−),F^(−))₂           200
+  9               Corundum              Al₂O₃                            400
+  10              Diamond               C                                1500
 
 On the Mohs scale, a streak plate (unglazed porcelain) has a hardness of approximately 7.0. Using these ordinary materials of known hardness can be a simple way to approximate the position of a mineral on the scale.[12]
 

@@ -1,4 +1,4 @@
-Ubuntu_19.04_"Disco_Dingo".png, one of the most popular desktop Linux distributions]] A LINUX DISTRIBUTION (often abbreviated as DISTRO) is an operating system made from a software collection, which is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution).
+, one of the most popular desktop Linux distributions]] A LINUX DISTRIBUTION (often abbreviated as DISTRO) is an operating system made from a software collection, which is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution).
 
 A typical Linux distribution comprises a Linux kernel, GNU tools and libraries, additional software, documentation, a window system (the most common being the X Window System), a window manager, and a desktop environment. Most of the included software is free and open-source software made available both as compiled binaries and in source code form, allowing modifications to the original software. Usually, Linux distributions optionally include some proprietary software that may not be available in source code form, such as binary blobs required for some device drivers.[1] A Linux distribution may also be described as a particular assortment of application and utility software (various GNU tools and libraries, for example), packaged together with the Linux kernel in such a way that its capabilities meet the needs of many users.[2] The software is usually adapted to the distribution and then packaged into software packages by the distribution's maintainers. The software packages are available online in so-called repositories, which are storage locations usually distributed around the world.[3][4] Beside glue components, such as the distribution installers (for example, Debian-Installer and Anaconda) or the package management systems, there are only very few packages that are originally written from the ground up by the maintainers of a Linux distribution.
 
@@ -6,8 +6,6 @@ Almost six hundred Linux distributions exist, with close to five hundred out of 
 
 
 History
-
-Linux_Distribution_Timeline.svg
 
 Linus Torvalds developed the Linux kernel and distributed its first version, 0.01, in 1991. Linux was initially distributed as source code only, and later as a pair of downloadable floppy disk images one bootable and containing the Linux kernel itself, and the other with a set of GNU utilities and tools for setting up a file system. Since the installation procedure was complicated, especially in the face of growing amounts of available software, distributions sprang up to simplify this.[11]
 
@@ -29,7 +27,7 @@ As of 2017, Linux has become more popular in server and embedded devices markets
 
 Components
 
-Linux_kernel_ubiquity.svg, which puts together the Linux kernel, free and open-source software, and occasionally some proprietary software.]]
+, which puts together the Linux kernel, free and open-source software, and occasionally some proprietary software.]]
 
 Many Linux distributions provide an installation system akin to that provided with other modern operating systems. On the other hand, some distributions, including Gentoo Linux, provide only the binaries of a basic kernel, compilation tools, and an installer; the installer compiles all the requested software for the specific architecture of the user's computer, using these tools and the provided source code.
 
@@ -146,8 +144,6 @@ Other distributions target specific niches, such as:
 -   Microsoft's Azure Sphere
 
 Android and non-GNU distributions
-
-AndroidTerminal.png
 
 Whether Google's Android counts as a Linux distribution is a matter of definition. It uses the Linux kernel, so the Linux Foundation[37] and Chris DiBona,[38] Google's open source chief, agree that Android is a Linux distribution; others, such as Google engineer Patrick Brady, disagree by noting the lack of support for many GNU tools in Android, including glibc.[39]
 

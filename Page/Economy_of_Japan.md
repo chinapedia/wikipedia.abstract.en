@@ -39,7 +39,7 @@ Deposits of gold, magnesium, and silver meet current industrial demands, but Jap
 
 Economic history
 
-Hiroshige,_Sugura_street.jpg depicting Echigoya, the current Mitsukoshi]]
+depicting Echigoya, the current Mitsukoshi]]
 
 The economic history of Japan is one of the most studied economies for its spectacular growth in three different periods. First was the foundation of Edo (in 1603) to whole inland economical developments, second was the Meiji Restoration (in 1868) to be the first non-European power, third was after the defeat of World War II (in 1945) when the island nation rose to become the world's second largest economy.
 
@@ -55,7 +55,7 @@ The cargo of the first Portuguese ships (usually about 4 smaller-sized ships eve
 
 Edo period (1603–1868)
 
-鶏文髭皿_肥前焼・古伊万里様式-Barber's_Bowl_with_Cockerel_MET_DP281043_(cropped).jpg in the European shape of a barber's basin, with copulating cock, around 1700.]] The beginning of the Edo period coincides with the last decades of the Nanban trade period, during which intense interaction with European powers, on the economic and religious plane, took place. It is at the beginning of the Edo period that Japan built her first ocean-going Western-style warships, such as the _San Juan Bautista_, a 500-ton galleon-type ship that transported a Japanese embassy headed by Hasekura Tsunenaga to the Americas, which then continued to Europe. Also during that period, the _bakufu_ commissioned around 350 Red Seal Ships, three-masted and armed trade ships, for intra-Asian commerce. Japanese adventurers, such as Yamada Nagamasa, were active throughout Asia.
+in the European shape of a barber's basin, with copulating cock, around 1700.]] The beginning of the Edo period coincides with the last decades of the Nanban trade period, during which intense interaction with European powers, on the economic and religious plane, took place. It is at the beginning of the Edo period that Japan built her first ocean-going Western-style warships, such as the _San Juan Bautista_, a 500-ton galleon-type ship that transported a Japanese embassy headed by Hasekura Tsunenaga to the Americas, which then continued to Europe. Also during that period, the _bakufu_ commissioned around 350 Red Seal Ships, three-masted and armed trade ships, for intra-Asian commerce. Japanese adventurers, such as Yamada Nagamasa, were active throughout Asia.
 
 In order to eradicate the influence of Christianization, Japan entered in a period of isolation called sakoku, during which its economy enjoyed stability and mild progress.[65] But not long after, in the 1650s, the production of Japanese export porcelain increased greatly when civil war put the main Chinese center of porcelain production, in Jingdezhen, out of action for several decades. For the rest of the 17th century most Japanese porcelain production was for export, mostly in Kyushu. The trade dwindled under renewed Chinese competition by the 1740s, before resuming after the opening of Japan in the mid-19th century.[66]
 
@@ -79,8 +79,6 @@ In the mid-1930s, the Japanese nominal wage rates were "10 times less" than the 
 
 Postwar period (1945–present)
 
-2005Japanese_exports.PNG
-
 From the 1960s to the 1980s, overall real economic growth was extremely large: a 10% average in the 1960s, a 5% average in the 1970s and a 4% average in the 1980s.[68] By the end of said period, Japan had moved into being a high-wage economy.[69]
 
 Growth slowed markedly in the late 1990s also termed the Lost Decade after the collapse of the Japanese asset price bubble. As a consequence Japan ran massive budget deficits (added trillions in Yen to Japanese financial system) to finance large public works programs.
@@ -92,7 +90,7 @@ Despite having interest rates down near zero for a long period of time, the quan
 
 Infrastructure
 
-JRC_N700_series_Z28.jpg]]
+]]
 
 In 2005, one half of Japan's energy was produced from petroleum, a fifth from coal, and 14% from natural gas.[75] Nuclear power in Japan made a quarter of electricity production but due to the Fukushima Daiichi nuclear disaster there has been a large desire to end Japan's nuclear power program.[76][77] In September 2013, Japan closed its last 50 nuclear power plants nationwide, causing the nation to be nuclear free.[78]
 
@@ -107,7 +105,7 @@ About 84% of Japan's energy is imported from other countries.[94][95] Japan is t
 
 Macro-economic trend
 
-Real_GDP_growth_rate_in_Japan_(1956-2008).png Okun's_law_Japan.svg.]] This is a chart of trend of gross domestic product of Japan at market prices estimated by the International Monetary Fund with figures in millions of Japanese Yen.[107] See also[108][109]
+.]] This is a chart of trend of gross domestic product of Japan at market prices estimated by the International Monetary Fund with figures in millions of Japanese Yen.[107] See also[108][109]
 
 +------+------------------------+--------------------+-------------+------------------------+----------------+
 | YEAR | GROSS DOMESTIC PRODUCT | US DOLLAR EXCHANGE | PRICE INDEX | NOMINAL PER-CAPITA GDP | PPP CAPITA GDP |
@@ -243,7 +241,7 @@ Sectors of the economy
 
 Agriculture
 
-TawaramotoRiceField.png in Tawaramoto, Nara.]] The Japanese agricultural sector accounts for about 1.4% of the total country's GDP.[115] Only 12% of Japan's land is suitable for cultivation.[116][117] Due to this lack of arable land, a system of terraces is used to farm in small areas.[118] This results in one of the world's highest levels of crop yields per unit area, with an overall agricultural self-sufficiency rate of about 50% on fewer than 56,000 km² (14 million acres) cultivated.
+in Tawaramoto, Nara.]] The Japanese agricultural sector accounts for about 1.4% of the total country's GDP.[115] Only 12% of Japan's land is suitable for cultivation.[116][117] Due to this lack of arable land, a system of terraces is used to farm in small areas.[118] This results in one of the world's highest levels of crop yields per unit area, with an overall agricultural self-sufficiency rate of about 50% on fewer than 56,000 km² (14 million acres) cultivated.
 
 Japan's small agricultural sector, however, is also highly subsidized and protected, with government regulations that favor small-scale cultivation instead of large-scale agriculture as practiced in North America.[119] There has been a growing concern about farming as the current farmers are aging with a difficult time finding successors.[120]
 
@@ -253,7 +251,7 @@ Although Japan is usually self-sufficient in rice (except for its use in making 
 
 Fishery
 
-Global_fish_catch_2004_&_2005.jpg Japan ranked fourth in the world in 1996 in tonnage of fish caught.[131] Japan captured 4,074,580 metric tons of fish in 2005, down from 4,987,703 tons in 2000, 9,558,615 tons in 1990, 9,864,422 tons in 1980, 8,520,397 tons in 1970, 5,583,796 tons in 1960 and 2,881,855 tons in 1950.[132] In 2003, the total aquaculture production was predicted at 1,301,437 tonnes.[133] In 2010, Japan's total fisheries production was 4,762,469 fish.[134] Offshore fisheries accounted for an average of 50% of the nation's total fish catches in the late 1980s although they experienced repeated ups and downs during that period.
+Japan ranked fourth in the world in 1996 in tonnage of fish caught.[131] Japan captured 4,074,580 metric tons of fish in 2005, down from 4,987,703 tons in 2000, 9,558,615 tons in 1990, 9,864,422 tons in 1980, 8,520,397 tons in 1970, 5,583,796 tons in 1960 and 2,881,855 tons in 1950.[132] In 2003, the total aquaculture production was predicted at 1,301,437 tonnes.[133] In 2010, Japan's total fisheries production was 4,762,469 fish.[134] Offshore fisheries accounted for an average of 50% of the nation's total fish catches in the late 1980s although they experienced repeated ups and downs during that period.
 
 Coastal fishing by small boats, set nets, or breeding techniques accounts for about one third of the industry's total production, while offshore fishing by medium-sized boats makes up for more than half the total production. Deep-sea fishing from larger vessels makes up the rest. Among the many species of seafood caught are sardines, skipjack tuna, crab, shrimp, salmon, pollock, squid, clams, mackerel, sea bream, sauries, tuna and Japanese amberjack. Freshwater fishing, including salmon, trout and eel hatcheries and fish farms,[135] takes up about 30% of Japan's fishing industry. Among the nearly 300 fish species in the rivers of Japan are native varieties of catfish, chub, herring and goby, as well as such freshwater crustaceans as crabs and crayfish.[136] Marine and freshwater aquaculture is conducted in all 47 prefectures in Japan.[137]
 
@@ -269,7 +267,7 @@ Japan enjoys high technological development in many fields, including consumer e
 
 Automobile manufacturing
 
-LS_600h_L_Verdigris_Mica.jpg. The rapid growth and success of Toyota's Lexus and other Japanese automakers reflects Japan's strength and global dominance in the automobile industry.]]
+. The rapid growth and success of Toyota's Lexus and other Japanese automakers reflects Japan's strength and global dominance in the automobile industry.]]
 
 Japan is the third biggest producer of automobiles in the world.[149] Toyota is currently the world largest car maker, and the Japanese car makers Nissan, Honda, Suzuki, and Mazda also count for some of the largest car makers in the world.[150][151]
 
@@ -279,25 +277,23 @@ Japan's mining production has been minimal, and Japan has very little mining dep
 
 Services
 
-Japan_Airlines,_Boeing_787-9_JA861J_NRT_(19455285040).jpg, though faced with massive debts as of 2010, is considered one of the largest airlines in the world.]]
+, though faced with massive debts as of 2010, is considered one of the largest airlines in the world.]]
 
 Japan's service sector accounts for about three-quarters of its total economic output.[156] Banking, insurance, real estate, retailing, transportation, and telecommunications are all major industries such as Mitsubishi UFJ, Mizuho, NTT, TEPCO, Nomura, Mitsubishi Estate, ÆON, Mitsui Sumitomo, Softbank, JR East, Seven & I, KDDI and Japan Airlines counting as one of the largest companies in the world.[157][158] Four of the five most circulated newspapers in the world are Japanese newspapers.[159] The Koizumi government set Japan Post, one of the country's largest providers of savings and insurance services for privatization by 2015.[160] The six major keiretsus are the Mitsubishi, Sumitomo, Fuyo, Mitsui, Dai-Ichi Kangyo and Sanwa Groups.[161] Japan is home to 251 companies from the Forbes Global 2000 or 12.55% (as of 2013).[162]
 
 Tourism
 
-Château_de_Himeji02.jpg, Hyōgo Prefecture, is one of the most visited sights in Japan.]]
+, Hyōgo Prefecture, is one of the most visited sights in Japan.]]
 
 In 2012, Japan was the fifth most visited country in Asia and the Pacific, with over 8.3 million tourists.[163] In 2013, due to the weaker yen and easier visa requirements for southwest Asian countries, Japan received a record 11.25 million visitors, which was higher than the government's projected goal of 10 million visitors.[164][165][166] The government hopes to attract 40 million visitors a year by the 2020 Summer Olympics in Tokyo.[167] Some of the most popular visited places include the Shinjuku, Ginza, Shibuya and Asakusa areas in Tokyo, and the cities of Osaka, Kobe and Kyoto, as well as Himeji Castle.[168] Hokkaido is also a popular winter destination for visitors with several ski resorts and luxury hotels being built there.[169][170]
 
 
 Finance
 
-Tokyo_stock_exchange.jpg, one of the largest stock exchanges in the world.]] The Tokyo Stock Exchange is the third largest stock exchange in the world by market capitalization, as well as the 2nd largest stock market in Asia, with 2,292 listed companies.[171][172][173] The Nikkei 225 and the TOPIX are the two important stock market indexes of the Tokyo Stock Exchange.[174][175] The Tokyo Stock Exchange and the Osaka Stock Exchange, another major stock exchange in Japan, merged on 1 January 2013, creating one of the world's largest stock exchanges.[176] Other stock exchanges in Japan include the Nagoya Stock Exchange, Fukuoka Stock Exchange and Sapporo Securities Exchange.[177][178]
+, one of the largest stock exchanges in the world.]] The Tokyo Stock Exchange is the third largest stock exchange in the world by market capitalization, as well as the 2nd largest stock market in Asia, with 2,292 listed companies.[171][172][173] The Nikkei 225 and the TOPIX are the two important stock market indexes of the Tokyo Stock Exchange.[174][175] The Tokyo Stock Exchange and the Osaka Stock Exchange, another major stock exchange in Japan, merged on 1 January 2013, creating one of the world's largest stock exchanges.[176] Other stock exchanges in Japan include the Nagoya Stock Exchange, Fukuoka Stock Exchange and Sapporo Securities Exchange.[177][178]
 
 
 Labor force
-
-Unemployment_Rate_of_Japan_1953-2009.jpg
 
 The unemployment rate in December 2013 was 3.7%, down 1.5 percentage points from the claimed unemployment rate of 5.2% in June 2009 due to the strong economic recovery.[179][180][181]
 
@@ -383,7 +379,7 @@ Among the top 50 deals by value, 92% of the time the acquiring nation is Japan. 
 
 Other economic indicators
 
-Current_Account_Balance_2006.png World Economic Outlook Database, April 2008]] NET INTERNATIONAL INVESTMENT POSITION: 266,223 \ billion[213] (1st)[214]
+World Economic Outlook Database, April 2008]] NET INTERNATIONAL INVESTMENT POSITION: 266,223 \ billion[213] (1st)[214]
 
 INDUSTRIAL PRODUCTION GROWTH RATE: 7.5% (2010 est.)
 

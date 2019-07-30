@@ -1,5 +1,3 @@
-Helwig.png
-
 MARTIN HELWIG () (5 November 1516 – 26 January 1574) was a German cartographer of and from Silesia and pedagogue. He was born in Neisse and died in Breslau, Holy Roman Empire.
 
 

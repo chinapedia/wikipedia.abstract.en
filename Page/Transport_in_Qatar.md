@@ -3,7 +3,7 @@ This article is about TRANSPORT IN QATAR.
 
 Public transport
 
-Qatar_National_Day_Celebration_-_Bus.jpg In 2002, the Qatari government launched Mowasalat, a company 100% owned by the government, managed and operated by the state authorities to ensure the smooth provision of "integrated ground transport services" for the entire country. Previously, 3,000 privately owned orange taxicabs used to rule the streets of Qatar but the government took them off the roads as they saw them as a threat to the new Mowasalat taxis. There has been much controversy over this move, as it is now very hard to find a taxi[1] in Doha.
+In 2002, the Qatari government launched Mowasalat, a company 100% owned by the government, managed and operated by the state authorities to ensure the smooth provision of "integrated ground transport services" for the entire country. Previously, 3,000 privately owned orange taxicabs used to rule the streets of Qatar but the government took them off the roads as they saw them as a threat to the new Mowasalat taxis. There has been much controversy over this move, as it is now very hard to find a taxi[1] in Doha.
 
 Public buses now service over 35 routes covering most locations of Doha with minimal fares making public transport in Qatar an inexpensive solution to the problems of rush hours and parking difficulties.
 
@@ -39,7 +39,7 @@ Standards
 
 Highways
 
-Qatar,_Dukhan_Highway.JPG)]]
+)]]
 
 -   Total: 1,230 km
 -   Paved: 1,107 km
@@ -60,7 +60,7 @@ Pipelines
 
 Crude Oil 235 km; Natural Gas 400 km
 
-Qatar,_Al_Khor_(15),_Dhows_in_the_harbour.JPG]]
+]]
 
 
 Ports and harbours

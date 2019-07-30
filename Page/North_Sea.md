@@ -38,7 +38,7 @@ The International Hydrographic Organization defines the limits of the North Sea 
 
 Hydrology
 
-NorthSeaCurrents.pngs mainly entering via the north entrance exiting along Norwegian coast]] Tiden_loc.png (negative = before)
+s mainly entering via the north entrance exiting along Norwegian coast]] (negative = before)
 • The three amphidromic centers
 • Coasts:
   marshes = green
@@ -148,11 +148,11 @@ The Kelvin tide of the Atlantic ocean is a semidiurnal wave that travels northwa
 
 Coasts
 
-Wattenmeer-Nordfriesland.jpg The eastern and western coasts of the North Sea are jagged, formed by glaciers during the ice ages. The coastlines along the southernmost part are covered with the remains of deposited glacial sediment.[77] The Norwegian mountains plunge into the sea creating deep fjords and archipelagos. South of Stavanger, the coast softens, the islands become fewer.[78] The eastern Scottish coast is similar, though less severe than Norway. From north east of England, the cliffs become lower and are composed of less resistant moraine, which erodes more easily, so that the coasts have more rounded contours.[79][80] In the Netherlands, Belgium and in East Anglia the littoral is low and marshy.[81] The east coast and south-east of the North Sea (Wadden Sea) have coastlines that are mainly sandy and straight owing to longshore drift, particularly along Belgium and Denmark.[82]
+The eastern and western coasts of the North Sea are jagged, formed by glaciers during the ice ages. The coastlines along the southernmost part are covered with the remains of deposited glacial sediment.[77] The Norwegian mountains plunge into the sea creating deep fjords and archipelagos. South of Stavanger, the coast softens, the islands become fewer.[78] The eastern Scottish coast is similar, though less severe than Norway. From north east of England, the cliffs become lower and are composed of less resistant moraine, which erodes more easily, so that the coasts have more rounded contours.[79][80] In the Netherlands, Belgium and in East Anglia the littoral is low and marshy.[81] The east coast and south-east of the North Sea (Wadden Sea) have coastlines that are mainly sandy and straight owing to longshore drift, particularly along Belgium and Denmark.[82]
 
 Coastal management
 
-Afsluitdijk_1031.jpg (Closure-dike) is a major dam in the Netherlands]]
+(Closure-dike) is a major dam in the Netherlands]]
 
 The southern coastal areas were originally amphibious flood plains and swampy land. In areas especially vulnerable to storm surges, people settled behind elevated levees and on natural areas of high ground such as spits and geestland.[83] As early as 500 BC, people were constructing artificial dwelling hills higher than the prevailing flood levels.[84] It was only around the beginning of the High Middle Ages, in 1200 AD, that inhabitants began to connect single ring dikes into a dike line along the entire coast, thereby turning amphibious regions between the land and the sea into permanent solid ground.[85]
 
@@ -162,7 +162,7 @@ Coastal management today consists of several levels.[89] The dike slope reduces 
 
 Storm tides
 
-Watersnoodramp_1953.jpg, North Sea flood of 1953]] Storm surges threaten, in particular, the coasts of the Netherlands, Belgium, Germany, and Denmark and low lying areas of eastern England particularly around The Wash and Fens.[94] Storm surges are caused by changes in barometric pressure combined with strong wind created wave action.[95]
+, North Sea flood of 1953]] Storm surges threaten, in particular, the coasts of the Netherlands, Belgium, Germany, and Denmark and low lying areas of eastern England particularly around The Wash and Fens.[94] Storm surges are caused by changes in barometric pressure combined with strong wind created wave action.[95]
 
 The first recorded storm tide flood was the _Julianenflut_, on 17 February 1164. In its wake the Jadebusen, (a bay on the coast of Germany), began to form. A storm tide in 1228 is recorded to have killed more than 100,000 people.[96] In 1362, the Second Marcellus Flood, also known as the _Grote Manndrenke_, hit the entire southern coast of the North Sea. Chronicles of the time again record more than 100,000 deaths as large parts of the coast were lost permanently to the sea, including the now legendary lost city of Rungholt.[97] In the 20th century, the North Sea flood of 1953 flooded several nations' coasts and cost more than 2,000 lives.[98] 315 citizens of Hamburg died in the North Sea flood of 1962.[99]
 
@@ -173,7 +173,7 @@ Though rare, the North Sea has been the site of a number of historically documen
 
 Geology
 
-Doggerland.svg (c. 8,000 BC), which provided a land bridge between Great Britain and continental Europe]] North_Sea_-.jpg Mediterranean_Rupelian.jpg Shallow epicontinental seas like the current North Sea have since long existed on the European continental shelf. The rifting that formed the northern part of the Atlantic Ocean during the Jurassic and Cretaceous periods, from about , caused tectonic uplift in the British Isles.[104] Since then, a shallow sea has almost continuously existed between the uplands of the Fennoscandian Shield and the British Isles.[105] This precursor of the current North Sea has grown and shrunk with the rise and fall of the eustatic sea level during geologic time. Sometimes it was connected with other shallow seas, such as the sea above the Paris Basin to the south-west, the Paratethys Sea to the south-east, or the Tethys Ocean to the south.[106]
+(c. 8,000 BC), which provided a land bridge between Great Britain and continental Europe]] Shallow epicontinental seas like the current North Sea have since long existed on the European continental shelf. The rifting that formed the northern part of the Atlantic Ocean during the Jurassic and Cretaceous periods, from about , caused tectonic uplift in the British Isles.[104] Since then, a shallow sea has almost continuously existed between the uplands of the Fennoscandian Shield and the British Isles.[105] This precursor of the current North Sea has grown and shrunk with the rise and fall of the eustatic sea level during geologic time. Sometimes it was connected with other shallow seas, such as the sea above the Paris Basin to the south-west, the Paratethys Sea to the south-east, or the Tethys Ocean to the south.[106]
 
 During the Late Cretaceous, about , all of modern mainland Europe except for Scandinavia was a scattering of islands.[107] By the Early Oligocene, , the emergence of Western and Central Europe had almost completely separated the North Sea from the Tethys Ocean, which gradually shrank to become the Mediterranean as Southern Europe and South West Asia became dry land.[108] The North Sea was cut off from the English Channel by a narrow land bridge until that was breached by at least two catastrophic floods between 450,000 and 180,000 years ago.[109][110] Since the start of the Quaternary period about , the eustatic sea level has fallen during each glacial period and then risen again. Every time the ice sheet reached its greatest extent, the North Sea became almost completely dry. The present-day coastline formed after the Last Glacial Maximum when the sea began to flood the European continental shelf.[111]
 
@@ -184,7 +184,7 @@ Nature
 
 Fish and shellfish
 
-Bank_met_ondermeer_kokkels_mosselen_en_Japanse_oesters_in_de_Waddenzee_bij_Schiermonnikoog.jpgs, blue mussels and cockles in the Wadden Sea in the Netherlands]] Copepods and other zooplankton are plentiful in the North Sea. These tiny organisms are crucial elements of the food chain supporting many species of fish.[113] Over 230 species of fish live in the North Sea. Cod, haddock, whiting, saithe, plaice, sole, mackerel, herring, pouting, sprat, and sandeel are all very common and are fished commercially.[114][115] Due to the various depths of the North Sea trenches and differences in salinity, temperature, and water movement, some fish such as blue-mouth redfish and rabbitfish reside only in small areas of the North Sea.[116]
+s, blue mussels and cockles in the Wadden Sea in the Netherlands]] Copepods and other zooplankton are plentiful in the North Sea. These tiny organisms are crucial elements of the food chain supporting many species of fish.[113] Over 230 species of fish live in the North Sea. Cod, haddock, whiting, saithe, plaice, sole, mackerel, herring, pouting, sprat, and sandeel are all very common and are fished commercially.[114][115] Due to the various depths of the North Sea trenches and differences in salinity, temperature, and water movement, some fish such as blue-mouth redfish and rabbitfish reside only in small areas of the North Sea.[116]
 
 Crustaceans are also commonly found throughout the sea. Norway lobster, deep-water prawns, and brown shrimp are all commercially fished, but other species of lobster, shrimp, oyster, mussels and clams all live in the North Sea.[117] Recently non-indigenous species have become established including the Pacific oyster and Atlantic jackknife clam.[118]
 
@@ -194,11 +194,11 @@ The coasts of the North Sea are home to nature reserves including the Ythan Estu
 
 Marine mammals
 
-Bottlenose_dolphin_with_young.JPG with her young in Moray Firth, Scotland]] The North Sea is also home to marine mammals. Common seals, and harbour porpoises can be found along the coasts, at marine installations, and on islands. The very northern North Sea islands such as the Shetland Islands are occasionally home to a larger variety of pinnipeds including bearded, harp, hooded and ringed seals, and even walrus.[122] North Sea cetaceans include various porpoise, dolphin and whale species.[123][124]
+with her young in Moray Firth, Scotland]] The North Sea is also home to marine mammals. Common seals, and harbour porpoises can be found along the coasts, at marine installations, and on islands. The very northern North Sea islands such as the Shetland Islands are occasionally home to a larger variety of pinnipeds including bearded, harp, hooded and ringed seals, and even walrus.[122] North Sea cetaceans include various porpoise, dolphin and whale species.[123][124]
 
 Flora
 
-Phytoplankton_Bloom_in_the_North_Sea.jpg bloom in the North Sea]] Plant species in the North Sea include species of wrack, among them bladder wrack, knotted wrack, and serrated wrack. Algae, macroalgal, and kelp, such as oarweed and laminaria hyperboria, and species of maerl are found as well.[125] Eelgrass, formerly common in the entirety of the Wadden Sea, was nearly wiped out in the 20th century by a disease.[126] Similarly, sea grass used to coat huge tracts of ocean floor, but have been damaged by trawling and dredging have diminished its habitat and prevented its return.[127] Invasive Japanese seaweed has spread along the shores of the sea clogging harbours and inlets and has become a nuisance.[128]
+bloom in the North Sea]] Plant species in the North Sea include species of wrack, among them bladder wrack, knotted wrack, and serrated wrack. Algae, macroalgal, and kelp, such as oarweed and laminaria hyperboria, and species of maerl are found as well.[125] Eelgrass, formerly common in the entirety of the Wadden Sea, was nearly wiped out in the 20th century by a disease.[126] Similarly, sea grass used to coat huge tracts of ocean floor, but have been damaged by trawling and dredging have diminished its habitat and prevented its return.[127] Invasive Japanese seaweed has spread along the shores of the sea clogging harbours and inlets and has become a nuisance.[128]
 
 Biodiversity and conservation
 
@@ -211,7 +211,7 @@ The OSPAR commission manages the OSPAR convention to counteract the harmful effe
 
 Names
 
-Prima_Europe_tabula.jpg'' showing the "Oceanus Germanicus"]] Solar_eclipse_1715May03_Halley_map.png's solar eclipse 1715 map showing _The German Sea_]]
+'' showing the "Oceanus Germanicus"]] 's solar eclipse 1715 map showing _The German Sea_]]
 
 The North Sea has had various names through history. One of the earliest recorded names was _Septentrionalis Oceanus_, or "Northern Ocean," which was cited by Pliny.[138] The name "North Sea" probably came into English, however, via the Dutch "Noordzee", who named it thus either in contrast with the Zuiderzee ("South Sea"), located south of Frisia, or because the sea is generally to the north of the Netherlands. Before the adoption of "North Sea," the names used in English were "German Sea" or "German Ocean", referred to the Latin names "Mare Gemanicum" and "Oceanus Germanicus",[139] and these persisted in use until the First World War.[140]
 
@@ -234,11 +234,11 @@ In the 13th century the Hanseatic League, though centred on the Baltic Sea, star
 
 Age of sail
 
-Willem_van_de_Velde_(II)_-_De_verovering_van_het_Engelse_admiraalschip_de_'Royal_Prince'.jpg of 1666 by Willem van de Velde the Younger]] The 17th century Dutch Golden Age during which Dutch herring, cod and whale fisheries reached an all time high[151] saw Dutch power at its zenith.[152][153] Important overseas colonies, a vast merchant marine, powerful navy and large profits made the Dutch the main challengers to an ambitious England. This rivalry led to the first three Anglo-Dutch Wars between 1652 and 1673, which ended with Dutch victories.[154] After the Glorious Revolution in 1688, the Dutch prince William ascended to the English throne. With unified leadership, commercial, military, and political power began to shift from Amsterdam to London.[155] The British did not face a challenge to their dominance of the North Sea until the 20th century.[156]
+of 1666 by Willem van de Velde the Younger]] The 17th century Dutch Golden Age during which Dutch herring, cod and whale fisheries reached an all time high[151] saw Dutch power at its zenith.[152][153] Important overseas colonies, a vast merchant marine, powerful navy and large profits made the Dutch the main challengers to an ambitious England. This rivalry led to the first three Anglo-Dutch Wars between 1652 and 1673, which ended with Dutch victories.[154] After the Glorious Revolution in 1688, the Dutch prince William ascended to the English throne. With unified leadership, commercial, military, and political power began to shift from Amsterdam to London.[155] The British did not face a challenge to their dominance of the North Sea until the 20th century.[156]
 
 Modern era
 
-Bluecher_sinkend.jpg sinks in the Battle of Dogger Bank on 25 January 1915.]] Tensions in the North Sea were again heightened in 1904 by the Dogger Bank incident. During the Russo-Japanese War, several ships of the Russian Baltic Fleet, which was on its way to the Far East, mistook British fishing boats for Japanese ships and fired on them, and then upon each other, near the Dogger Bank, nearly causing Britain to enter the war on the side of Japan.
+sinks in the Battle of Dogger Bank on 25 January 1915.]] Tensions in the North Sea were again heightened in 1904 by the Dogger Bank incident. During the Russo-Japanese War, several ships of the Russian Baltic Fleet, which was on its way to the Far East, mistook British fishing boats for Japanese ships and fired on them, and then upon each other, near the Dogger Bank, nearly causing Britain to enter the war on the side of Japan.
 
 During the First World War, Great Britain's Grand Fleet and Germany's Kaiserliche Marine faced each other in the North Sea,[157] which became the main theatre of the war for surface action.[158] Britain's larger fleet and North Sea Mine Barrage were able to establish an effective blockade for most of the war, which restricted the Central Powers' access to many crucial resources.[159] Major battles included the Battle of Heligoland Bight,[160] the Battle of the Dogger Bank,[161] and the Battle of Jutland.[162] World War I also brought the first extensive use of submarine warfare, and a number of submarine actions occurred in the North Sea.[163]
 
@@ -251,7 +251,7 @@ After the war, the North Sea lost much of its military significance because it i
 
 Economy
 
-north_sea_eez.PNGs in the North Sea]]
+s in the North Sea]]
 
 Political status
 
@@ -262,8 +262,6 @@ After the discovery of mineral resources in the North Sea, the Convention on the
 Oil and gas
 
 As early as 1859, oil was discovered in onshore areas around the North Sea and natural gas as early as 1910.[174] Onshore resources, for example the K12-B field in the Netherlands continue to be exploited today.
-
-StatfjordA(Jarvin1982).jpg
 
 Offshore test drilling began in 1966 and then, in 1969, Phillips Petroleum Company discovered the Ekofisk oil field[175] distinguished by valuable, low-sulphur oil.[176] Commercial exploitation began in 1971 with tankers and, after 1975, by a pipeline, first to Teesside, England and then, after 1977, also to Emden, Germany.[177]
 
@@ -281,7 +279,7 @@ As of January 2018 The North Sea region contains 184 offshore rigs, which makes 
 
 Fishing
 
-Fischkutterquerinhafen.jpg]] The North Sea is Europe's main fishery accounting for over 5% of international commercial fish caught.[186] Fishing in the North Sea is concentrated in the southern part of the coastal waters. The main method of fishing is trawling.[187] In 1995, the total volume of fish and shellfish caught in the North Sea was approximately 3.5 million tonnes.[188] Besides fish, it is estimated that one million tonnes of unmarketable by-catch is caught and discarded each year.[189]
+]] The North Sea is Europe's main fishery accounting for over 5% of international commercial fish caught.[186] Fishing in the North Sea is concentrated in the southern part of the coastal waters. The main method of fishing is trawling.[187] In 1995, the total volume of fish and shellfish caught in the North Sea was approximately 3.5 million tonnes.[188] Besides fish, it is estimated that one million tonnes of unmarketable by-catch is caught and discarded each year.[189]
 
 In recent decades, overfishing has left many fisheries unproductive, disturbing marine food chain dynamics and costing jobs in the fishing industry.[190] Herring, cod and plaice fisheries may soon face the same plight as mackerel fishing, which ceased in the 1970s due to overfishing.[191] The objective of the European Union Common Fisheries Policy is to minimize the environmental impact associated with resource use by reducing fish discards, increasing productivity of fisheries, stabilising markets of fisheries and fish processing, and supplying fish at reasonable prices for the consumer.[192]
 
@@ -291,7 +289,7 @@ Whaling was an important economic activity from the 9th until the 13th century f
 
 Mineral resources
 
-Amber_Bernstein_many_stones.jpg stones, in varying hues]] In addition to oil, gas, and fish, the states along the North Sea also take millions of cubic metres per year of sand and gravel from the ocean floor. These are used for beach nourishment, land reclamation and construction.[198] Rolled pieces of amber may be picked up on the east coast of England.[199]
+stones, in varying hues]] In addition to oil, gas, and fish, the states along the North Sea also take millions of cubic metres per year of sand and gravel from the ocean floor. These are used for beach nourishment, land reclamation and construction.[198] Rolled pieces of amber may be picked up on the east coast of England.[199]
 
 Renewable energy
 
@@ -303,7 +301,7 @@ Energy production from tidal power is still in a pre-commercial stage. The Europ
 
 Tourism
 
-Netherlands-Scheveningen-beach-1900.jpg, Netherlands in c. 1900]] The beaches and coastal waters of the North Sea are destinations for tourists. The Belgian, Dutch, German and Danish coasts[215][216] are developed for tourism. The North Sea coast of the United Kingdom has tourist destinations with beach resorts and golf courses.
+, Netherlands in c. 1900]] The beaches and coastal waters of the North Sea are destinations for tourists. The Belgian, Dutch, German and Danish coasts[215][216] are developed for tourism. The North Sea coast of the United Kingdom has tourist destinations with beach resorts and golf courses.
 Fife in Scotland is famous for its links golf courses. The coastal City of St. Andrews being renowned as the "Home of Golf". The coast of North East England has several tourist towns such as Scarborough, Bridlington, Seahouses, Whitby, Robin Hood's Bay and Seaton Carew. The coast of North East England has long sandy beaches and links golfing locations such as Seaton Carew Golf Club and Goswick Golf Club.
 The North Sea Trail is a long-distance trail linking seven countries around the North Sea.[217] Windsurfing and sailing[218] are popular sports because of the strong winds. Mudflat hiking,[219] recreational fishing and birdwatching[220] are among other activities.
 
@@ -313,7 +311,7 @@ Marine traffic
 
 The North Sea is important for marine transport and its shipping lanes are among the busiest in the world.[222] Major ports are located along its coasts: Rotterdam, the busiest port in Europe and the fourth busiest port in the world by tonnage , Antwerp (was 16th) and Hamburg (was 27th), Bremen/Bremerhaven and Felixstowe, both in the top 30 busiest container seaports,[223] as well as the Port of Bruges-Zeebrugge, Europe's leading ro-ro port.[224]
 
-ECT_waalhaven_bij_nacht.jpg, Netherlands]]
+, Netherlands]]
 
 Fishing boats, service boats for offshore industries, sport and pleasure craft, and merchant ships to and from North Sea ports and Baltic ports must share routes on the North Sea. The Dover Strait alone sees more than 400 commercial vessels a day.[225] Because of this volume, navigation in the North Sea can be difficult in high traffic zones, so ports have established elaborate vessel traffic services to monitor and direct ships into and out of port.[226]
 

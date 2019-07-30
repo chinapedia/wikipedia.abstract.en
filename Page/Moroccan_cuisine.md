@@ -1,4 +1,4 @@
-LocationMorocco3.svg]] Tajines_in_a_pottery_shop_in_Morocco.jpg
+]]
 
 MOROCCAN CUISINE is influenced by Morocco's interactions and exchanges with other cultures and nations over the centuries.[1] Moroccan cuisine is typically a mix of Berber, Arabic, Andalusian, and Mediterranean cuisines with slight European and sub-Saharan influences.
 
@@ -10,7 +10,7 @@ Morocco produces a large range of Mediterranean fruits, vegetables and even some
 
 Flavorings
 
-Spices1.jpg]] Spices are used extensively in Moroccan food. Although some spices have been imported to Morocco through the Arabs for thousands of years, many ingredients—like saffron from Talaouine, mint and olives from Meknes, and oranges and lemons from Fes—are home-grown, and are being exported internationally. Common spices include cinnamon, cumin, turmeric, ginger, paprika, coriander, saffron, mace, cloves, fennel, anise, nutmeg, cayenne pepper, fenugreek, caraway, black pepper and sesame seeds. Twenty-seven spices are combined for the famous Moroccan spice mixture _ras el hanout_.[5]
+]] Spices are used extensively in Moroccan food. Although some spices have been imported to Morocco through the Arabs for thousands of years, many ingredients—like saffron from Talaouine, mint and olives from Meknes, and oranges and lemons from Fes—are home-grown, and are being exported internationally. Common spices include cinnamon, cumin, turmeric, ginger, paprika, coriander, saffron, mace, cloves, fennel, anise, nutmeg, cayenne pepper, fenugreek, caraway, black pepper and sesame seeds. Twenty-seven spices are combined for the famous Moroccan spice mixture _ras el hanout_.[5]
 
 Common herbs in Moroccan cuisine include mint, parsley, coriander, oregano, peppermint, marjoram, verbena, sage and bay laurel.
 
@@ -22,7 +22,7 @@ A typical lunch meal begins with a series of hot and cold salads, followed by a 
 
 Main dishes
 
-Moroccan_couscous2006.jpg couscous]]The main Moroccan dish most people are familiar with is couscous,[7] the old national delicacy. Beef is the most commonly eaten red meat in Morocco, usually eaten in a tagine with a wide selection of vegetables. Chicken is also very commonly used in tagines, or roasted.
+couscous]]The main Moroccan dish most people are familiar with is couscous,[7] the old national delicacy. Beef is the most commonly eaten red meat in Morocco, usually eaten in a tagine with a wide selection of vegetables. Chicken is also very commonly used in tagines, or roasted.
 
 Lamb is also heavily consumed, and since Moroccan sheep breeds store most of their fat in their tails, Moroccan lamb does not have the pungent flavour that Western lamb and mutton have.
 
@@ -36,8 +36,6 @@ In addition, there are dried salted meats and salted preserved meats such as khl
 
 
 Salads
-
-Salad_asorti,_Beni_Mellal,_Morocco.jpg
 
 Salads include both raw and cooked vegetables, served either hot or cold.[12] Cold salads include _zaalouk,_ an aubergine and tomato mixture, and taktouka (a mixture of tomatoes, smoked green peppers, garlic and spices) characteristic of the cities of Taza and Fes, in the Atlas.[13] Another cold salad is called Bakoula, or Khoubiza. It consists of braised mallow leaves, but can also be made with spinach or arugula, with parsley, cilantro, lemon, olive oil and olives.
 
@@ -54,7 +52,7 @@ Morocco is endowed with over 3000 km of coastline. There is an abundance of fis
 
 Drinks
 
-The most popular drink is green tea with mint. Traditionally, making good mint tea in Morocco is considered an art form and the drinking of it with friends and family is often a daily tradition. The pouring technique is as crucial as the quality of the tea itself. Moroccan tea pots have long, curved pouring spouts and this allows the tea to be poured evenly into tiny glasses from a height. For the best taste, glasses are filled in two stages. The Moroccans traditionally like tea with bubbles, so while pouring they hold the teapot high above the glasses. Finally, the tea is accompanied with hard sugar cones or lumps.[15] Morocco has an abundance of oranges and tangerines, so fresh orange juice is easily found freshly squeezed and is cheap.Moroccan_Mint_Tea.jpg
+The most popular drink is green tea with mint. Traditionally, making good mint tea in Morocco is considered an art form and the drinking of it with friends and family is often a daily tradition. The pouring technique is as crucial as the quality of the tea itself. Moroccan tea pots have long, curved pouring spouts and this allows the tea to be poured evenly into tiny glasses from a height. For the best taste, glasses are filled in two stages. The Moroccans traditionally like tea with bubbles, so while pouring they hold the teapot high above the glasses. Finally, the tea is accompanied with hard sugar cones or lumps.[15] Morocco has an abundance of oranges and tangerines, so fresh orange juice is easily found freshly squeezed and is cheap.
 
 
 Snacks and fast food

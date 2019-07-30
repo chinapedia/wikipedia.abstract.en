@@ -1,5 +1,3 @@
-RudGate-RubyMild&York_Minster.JPG
-
 MILD ALE originally meant a young ale, as opposed to a "stale" aged or old ale. It is now more often interpreted as being mildly hopped.
 
 This style of beer originated in Britain in the 17th century or earlier, and has a predominantly malty palate. Modern mild ales are mainly dark-coloured with an alcohol by volume (ABV) of 3% to 3.6%, although there are lighter-hued examples as well as stronger examples reaching 6% abv and higher.

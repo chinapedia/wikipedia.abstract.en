@@ -1,4 +1,4 @@
-Relaxation}} Tompkins_Square_Park_Central_Knoll.jpg and leisure and sport]] Man-relaxing.jpg Bicis,_rollers_y_skate_en_Palermo_(8392555104).jpg Oasis_de_Pica._I_región..jpg
+Relaxation}} and leisure and sport]]
 
 LEISURE has often been defined as a quality of experience or as FREE TIME.[1][2] Free time is time spent away from business, work, job hunting, domestic chores, and education, as well as necessary activities such as eating and sleeping. Situationist International proposes that leisure does not evolve from free time, and free-time is an illusory concept that is rarely fully "free"; economic and social forces appropriate free time from the individual and sell it back to them as the commodity known as "leisure".[3] Certainly most people's leisure activities are not a completely free choice and may be constrained by social pressures, e.g. people may be coerced into spending time gardening by the need to keep up with the standard of neighbouring gardens or go to a party because of social pressures.
 
@@ -21,7 +21,7 @@ Leisure by the mid-19th century was no longer an individualistic activity. It wa
 
 United Kingdom
 
-DV257_no.10_The_start.png As literacy, wealth, ease of travel, and a broadened sense of community grew in Britain from the mid-19th century onward, there was more time and interest in leisure activities of all sorts, on the part of all classes.[19]
+As literacy, wealth, ease of travel, and a broadened sense of community grew in Britain from the mid-19th century onward, there was more time and interest in leisure activities of all sorts, on the part of all classes.[19]
 
 Opportunities for leisure activities increased because real wages continued to grow and hours of work continued to decline. In urban Britain, the nine-hour day was increasingly the norm; 1874 factory act limited the workweek to 56.5 hours. The movement toward an eight-hour day. Furthermore, system of routine annual vacations came into play, starting with white-collar workers and moving into the working-class.[20][21] Some 200 seaside resorts emerged thanks to cheap hotels and inexpensive railway fares, widespread banking holidays and the fading of many religious prohibitions against secular activities on Sundays.[22]
 
@@ -67,7 +67,7 @@ Project-based leisure
 
 Cultural differences
 
-VietnamCombatArtCAT04JamesPollockGICardgame.jpg Team IV (CAT IV 1967). During the Vietnam War soldiers waiting to go on patrol would sometimes spend their leisure time playing cards. Courtesy National Museum of the United States Army.]]
+Team IV (CAT IV 1967). During the Vietnam War soldiers waiting to go on patrol would sometimes spend their leisure time playing cards. Courtesy National Museum of the United States Army.]]
 
 Time available for leisure varies from one society to the next, although anthropologists have found that hunter-gatherers tend to have significantly more leisure time than people in more complex societies.[49] As a result, band societies such as the Shoshone of the Great Basin came across as extraordinarily lazy to European colonialists.[50]
 

@@ -1,15 +1,13 @@
-+---------------------+
-| Example graphs      |
-+=====================+
-| Planar              |
-+---------------------+
-| Butterfly_graph.svg |
-| Butterfly graph     |
-+---------------------+
-| CGK4PLN.svg         |
-| Complete graph      |
-| _K_₄                |
-+---------------------+
++-----------------+
+| Example graphs  |
++=================+
+| Planar          |
++-----------------+
+| Butterfly graph |
++-----------------+
+| Complete graph  |
+| _K_₄            |
++-----------------+
 
 In graph theory, a PLANAR GRAPH is a graph that can be embedded in the plane, i.e., it can be drawn on the plane in such a way that its edges intersect only at their endpoints. In other words, it can be drawn in such a way that no edges cross each other.[1] Such a drawing is called a PLANE GRAPH or PLANAR EMBEDDING OF THE GRAPH. A plane graph can be defined as a planar graph with a mapping from every node to a point on a plane, and from every edge to a plane curve on that plane, such that the extreme points of each curve are the points mapped from its end nodes, and all curves are disjoint except on their extreme points.
 
@@ -28,7 +26,7 @@ The Polish mathematician Kazimierz Kuratowski provided a characterization of pla
 
     A finite graph is planar if and only if it does not contain a subgraph that is a subdivision of the complete graph _K_₅ or the complete bipartite graph _K__(3,3) (utility graph).
 
-A subdivision of a graph results from inserting vertices into edges (for example, changing an edge •——• to •—•—•) zero or more times. Nonplanar_no_subgraph_K_3_3.svg
+A subdivision of a graph results from inserting vertices into edges (for example, changing an edge •——• to •—•—•) zero or more times.
 
 Instead of considering subdivisions, Wagner's theorem deals with minors:
 
@@ -36,7 +34,7 @@ Instead of considering subdivisions, Wagner's theorem deals with minors:
 
 A minor of a graph results from taking a subgraph and repeatedly contracting an edge into a vertex, with each neighbor of the original end-vertices becoming a neighbor of the new vertex.
 
-Kuratowski.gif contains a minor isomorphic to the K_(3,3) graph, and is therefore non-planar]]
+contains a minor isomorphic to the K_(3,3) graph, and is therefore non-planar]]
 
 Klaus Wagner asked more generally whether any minor-closed class of graphs is determined by a finite set of "forbidden minors". This is now the Robertson–Seymour theorem, proved in a long series of papers. In the language of this theorem, _K_₅ and _K__(3,3) are the forbidden minors for the class of finite planar graphs.
 
@@ -72,7 +70,7 @@ In a finite, connected, _simple_, planar graph, any face (except possibly the ou
 
 _e_ ≤ 3_v_ − 6.
 
-Dodecahedron_schlegel_diagram.png of a regular dodecahedron, forming a planar graph from a convex polyhedron.]] Euler's formula is also valid for convex polyhedra. This is no coincidence: every convex polyhedron can be turned into a connected, simple, planar graph by using the Schlegel diagram of the polyhedron, a perspective projection of the polyhedron onto a plane with the center of perspective chosen near the center of one of the polyhedron's faces. Not every planar graph corresponds to a convex polyhedron in this way: the trees do not, for example. Steinitz's theorem says that the polyhedral graphs formed from convex polyhedra are precisely the finite 3-connected simple planar graphs. More generally, Euler's formula applies to any polyhedron whose faces are simple polygons that form a surface topologically equivalent to a sphere, regardless of its convexity.
+of a regular dodecahedron, forming a planar graph from a convex polyhedron.]] Euler's formula is also valid for convex polyhedra. This is no coincidence: every convex polyhedron can be turned into a connected, simple, planar graph by using the Schlegel diagram of the polyhedron, a perspective projection of the polyhedron onto a plane with the center of perspective chosen near the center of one of the polyhedron's faces. Not every planar graph corresponds to a convex polyhedron in this way: the trees do not, for example. Steinitz's theorem says that the polyhedral graphs formed from convex polyhedra are precisely the finite 3-connected simple planar graphs. More generally, Euler's formula applies to any polyhedron whose faces are simple polygons that form a surface topologically equivalent to a sphere, regardless of its convexity.
 
 Average degree
 
@@ -80,7 +78,7 @@ Connected planar graphs with more than one edge obey the inequality 2e ≥ 3
 
 Coin graphs
 
-Circle_packing_theorem_K5_minus_edge_example.svg We say that two circles drawn in a plane _kiss_ (or _osculate_) whenever they intersect in exactly one point. A "coin graph" is a graph formed by a set of circles, no two of which have overlapping interiors, by making a vertex for each circle and an edge for each pair of circles that kiss. The circle packing theorem, first proved by Paul Koebe in 1936, states that a graph is planar if and only if it is a coin graph.
+We say that two circles drawn in a plane _kiss_ (or _osculate_) whenever they intersect in exactly one point. A "coin graph" is a graph formed by a set of circles, no two of which have overlapping interiors, by making a vertex for each circle and an edge for each pair of circles that kiss. The circle packing theorem, first proved by Paul Koebe in 1936, states that a graph is planar if and only if it is a coin graph.
 
 This result provides an easy proof of Fáry's theorem, that every planar graph can be embedded in the plane in such a way that its edges are straight line segments that do not cross each other. If one places each vertex of the graph at the center of the corresponding circle in a coin graph representation, then the line segments between centers of kissing circles do not cross any of the other edges.
 
@@ -93,7 +91,7 @@ Related families of graphs
 
 Maximal planar graphs
 
-Goldner-Harary_graph.svg is maximal planar. All its faces are bounded by three edges.]] A simple graph is called MAXIMAL PLANAR if it is planar but adding any edge (on the given vertex set) would destroy that property. All faces (including the outer one) are then bounded by three edges, explaining the alternative term PLANE TRIANGULATION. The alternative names "triangular graph"[2] or "triangulated graph"[3] have also been used, but are ambiguous, as they more commonly refer to the line graph of a complete graph and to the chordal graphs respectively. Every maximal planar is 3-vertex-connected.
+is maximal planar. All its faces are bounded by three edges.]] A simple graph is called MAXIMAL PLANAR if it is planar but adding any edge (on the given vertex set) would destroy that property. All faces (including the outer one) are then bounded by three edges, explaining the alternative term PLANE TRIANGULATION. The alternative names "triangular graph"[2] or "triangulated graph"[3] have also been used, but are ambiguous, as they more commonly refer to the line graph of a complete graph and to the chordal graphs respectively. Every maximal planar is 3-vertex-connected.
 
 If a maximal planar graph has _v_ vertices with _v_ > 2, then it has precisely 3_v_ − 6 edges and 2_v_ − 4 faces.
 
@@ -141,7 +139,7 @@ The Four Color Theorem states that every planar graph is 4-colorable (i.e. 4-par
 
 Fáry's theorem states that every simple planar graph admits an embedding in the plane such that all edges are straight line segments which don't intersect. A universal point set is a set of points such that every planar graph with _n_ vertices has such an embedding with all vertices in the point set; there exist universal point sets of quadratic size, formed by taking a rectangular subset of the integer lattice. Every simple outerplanar graph admits an embedding in the plane such that all vertices lie on a fixed circle and all edges are straight line segments that lie inside the disk and don't intersect, so _n_-vertex regular polygons are universal for outerplanar graphs.
 
-dual_graphs.svg]] Given an embedding _G_ of a (not necessarily simple) connected graph in the plane without edge intersections, we construct the DUAL GRAPH _G_* as follows: we choose one vertex in each face of _G_ (including the outer face) and for each edge _e_ in _G_ we introduce a new edge in _G_* connecting the two vertices in _G_* corresponding to the two faces in _G_ that meet at _e_. Furthermore, this edge is drawn so that it crosses _e_ exactly once and that no other edge of _G_ or _G_* is intersected. Then _G_* is again the embedding of a (not necessarily simple) planar graph; it has as many edges as _G_, as many vertices as _G_ has faces and as many faces as _G_ has vertices. The term "dual" is justified by the fact that _G_** = _G_; here the equality is the equivalence of embeddings on the sphere. If _G_ is the planar graph corresponding to a convex polyhedron, then _G_* is the planar graph corresponding to the dual polyhedron.
+]] Given an embedding _G_ of a (not necessarily simple) connected graph in the plane without edge intersections, we construct the DUAL GRAPH _G_* as follows: we choose one vertex in each face of _G_ (including the outer face) and for each edge _e_ in _G_ we introduce a new edge in _G_* connecting the two vertices in _G_* corresponding to the two faces in _G_ that meet at _e_. Furthermore, this edge is drawn so that it crosses _e_ exactly once and that no other edge of _G_ or _G_* is intersected. Then _G_* is again the embedding of a (not necessarily simple) planar graph; it has as many edges as _G_, as many vertices as _G_ has faces and as many faces as _G_ has vertices. The term "dual" is justified by the fact that _G_** = _G_; here the equality is the equivalence of embeddings on the sphere. If _G_ is the planar graph corresponding to a convex polyhedron, then _G_* is the planar graph corresponding to the dual polyhedron.
 
 Duals are useful because many properties of the dual graph are related in simple ways to properties of the original graph, enabling results to be proven about graphs by examining their dual graphs.
 

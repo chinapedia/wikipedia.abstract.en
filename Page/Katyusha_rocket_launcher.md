@@ -20,7 +20,7 @@ The heavy BM-31 launcher was also referred to as _Andryusha_ (_Андрюша_, 
 
 World War II
 
-RIAN_archive_303890_A_battery_of_Katyusha_during_the_1941-1945_Great_Patriotic_War.jpg, 6 October 1942]]
+, 6 October 1942]]
 
 Katyusha rocket launchers, which were invented in Voronezh, were mounted on many platforms during World War II, including on trucks, artillery tractors, tanks, and armoured trains, as well as on naval and riverine vessels as assault support weapons. Soviet engineers also mounted single Katyusha rockets on lengths of railway track to serve in urban combat.
 
@@ -30,7 +30,7 @@ The weapon is less accurate than conventional artillery guns, but is extremely e
 
 Development
 
-Katjuscha_1938_Moscow.jpg Studebaker US6 2½-ton 6x6 truck, at the Museum of the Great Patriotic War, Moscow (2006)]] BM-31-12_on_ZIS-12_chassis_at_the_Museum_on_Sapun_Mountain_Sevastopol_4.jpg) on Sapun Mountain, Sevastopol]] BM-13-Katjuscha_Berlin.JPG truck]] BM_13_TBiU_7.jpg KatyushaMusee.jpg.]]
+Studebaker US6 2½-ton 6x6 truck, at the Museum of the Great Patriotic War, Moscow (2006)]] ) on Sapun Mountain, Sevastopol]] truck]] .]]
 
 In June 1938, the Soviet Reaction-Engine Scientific Research Institute (RNII) in Moscow was authorized by the Main Artillery Directorate (GAU) to develop a multiple rocket launcher for the RS-132 aircraft rocket (RS for , 'rocket-powered shell')[11]. I. Gvay led a design team in Chelyabinsk, Russia, which built several prototype launchers firing the modified 132 mm M-132 rockets over the sides of ZiS-5 trucks. These proved unstable, and V.N. Galkovskiy proposed mounting the launch rails longitudinally. In August 1939, the result was the BM-13 (BM stands for _боевая машина_ (translit. _boyevaya mashina_), 'combat vehicle' for M-13 rockets).[12]
 
@@ -159,7 +159,7 @@ By the end of 1942, 57 regiments were in service—together with the smaller ind
 
 Post-war development
 
-Katyusha-chechen-war.jpg ]] The success and economy of multiple rocket launchers (MRL) have led them to continue to be developed. In the years following WWII, the BM-13 was replaced by the 140 mm BM-14 and the BM-31 was replaced by the 240 mm BM-24.[31] During the Cold War, the Soviet Union fielded several models of Katyusha-like MRL, notably the BM-21 Grad launchers somewhat inspired by the earlier weapon, and the larger BM-27 Uragan. Advances in artillery munitions have been applied to some Katyusha-type multiple launch rocket systems, including bomblet submunitions, remotely deployed land mines, and chemical warheads.
+]] The success and economy of multiple rocket launchers (MRL) have led them to continue to be developed. In the years following WWII, the BM-13 was replaced by the 140 mm BM-14 and the BM-31 was replaced by the 240 mm BM-24.[31] During the Cold War, the Soviet Union fielded several models of Katyusha-like MRL, notably the BM-21 Grad launchers somewhat inspired by the earlier weapon, and the larger BM-27 Uragan. Advances in artillery munitions have been applied to some Katyusha-type multiple launch rocket systems, including bomblet submunitions, remotely deployed land mines, and chemical warheads.
 
 With the breakup of the Soviet Union, Russia inherited most of its military arsenal including its large complement of MRLs. In recent history, they have been used by Russian forces during the First and Second Chechen Wars and by Armenian and Azerbaijani forces during the Nagorno-Karabakh War. Georgian government forces are reported to have used BM-21 Grad or similar rocket artillery in fighting in the 2008 South Ossetia war.[32]
 

@@ -1,4 +1,4 @@
-Resistors_on_tape.jpg-lead resistors on tape. The component is cut from the tape during assembly and the part is inserted into the board.]] Carbon_and_ceramic_resistors_of_different_power_ratings.jpg
+-lead resistors on tape. The component is cut from the tape during assembly and the part is inserted into the board.]]
 
 A RESISTOR is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses. High-power resistors that can dissipate many watts of electrical power as heat, may be used as part of motor controls, in power distribution systems, or as test loads for generators. Fixed resistors have resistances that only change slightly with temperature, time or operating voltage. Variable resistors can be used to adjust circuit elements (such as a volume control or a lamp dimmer), or as sensing devices for heat, light, humidity, force, or chemical activity.
 
@@ -20,7 +20,7 @@ One common scheme is the RKM code following IEC 60062. It avoids using a decimal
 
 Theory of operation
 
-ResistanceHydraulicAnalogy2.svg compares electric current flowing through circuits to water flowing through pipes. When a pipe (left) is clogged with hair (right), it takes a larger pressure to achieve the same flow of water. Pushing electric current through a large resistance is like pushing water through a pipe clogged with hair: It requires a larger push (voltage) to drive the same flow (electric current).[1]]]
+compares electric current flowing through circuits to water flowing through pipes. When a pipe (left) is clogged with hair (right), it takes a larger pressure to achieve the same flow of water. Pushing electric current through a large resistance is like pushing water through a pipe clogged with hair: It requires a larger push (voltage) to drive the same flow (electric current).[1]]]
 
 Ohm's law
 
@@ -38,12 +38,12 @@ Series and parallel resistors
 
 The total resistance of resistors connected in series is the sum of their individual resistance values.
 
-    A diagram of several resistors, connected end to end, with the same amount of current going through each
+
 
 
 R_\mathrm{eq} = R_1 + R_2 + \cdots + R_n. The total resistance of resistors connected in parallel is the reciprocal of the sum of the reciprocals of the individual resistors.
 
-    A diagram of several resistors, side by side, both leads of each connected to the same wires
+
 
 
 \frac{1}{R_\mathrm{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots + \frac{1}{R_n}.
@@ -58,15 +58,13 @@ At any instant, the power _P_ (watts) consumed by a resistor of resistance _R_ (
 
 Resistors are rated according to their maximum power dissipation. Discrete resistors in solid-state electronic systems are typically rated as 1/10, 1/8, or 1/4 watt. They usually absorb much less than a watt of electrical power and require little attention to their power rating.
 
-Danotherm_HS50_power_resistor.jpg Resistors required to dissipate substantial amounts of power, particularly used in power supplies, power conversion circuits, and power amplifiers, are generally referred to as _power resistors_; this designation is loosely applied to resistors with power ratings of 1 watt or greater. Power resistors are physically larger and may not use the preferred values, color codes, and external packages described below.
+Resistors required to dissipate substantial amounts of power, particularly used in power supplies, power conversion circuits, and power amplifiers, are generally referred to as _power resistors_; this designation is loosely applied to resistors with power ratings of 1 watt or greater. Power resistors are physically larger and may not use the preferred values, color codes, and external packages described below.
 
 If the average power dissipated by a resistor is more than its power rating, damage to the resistor may occur, permanently altering its resistance; this is distinct from the reversible change in resistance due to its temperature coefficient when it warms. Excessive power dissipation may raise the temperature of the resistor to a point where it can burn the circuit board or adjacent components, or even cause a fire. There are flameproof resistors that fail (open circuit) before they overheat dangerously.
 
 Since poor air circulation, high altitude, or high operating temperatures may occur, resistors may be specified with higher rated dissipation than is experienced in service.
 
 All resistors have a maximum voltage rating; this may limit the power dissipation for higher resistance values.
-
-USSR_power_resistor_VZR_12W.JPG
 
 
 Nonideal properties
@@ -82,17 +80,13 @@ Practical resistors are also specified as having a maximum power rating which mu
 
 Fixed resistor
 
-Sil_resistor.png
-
-0.25_watts_through-hole_resistor.stl
-
 Lead arrangements
 
-3_Resistors.jpg Through-hole components typically have "leads" (pronounced ) leaving the body "axially," that is, on a line parallel with the part's longest axis. Others have leads coming off their body "radially" instead. Other components may be SMT (surface mount technology), while high power resistors may have one of their leads designed into the heat sink.
+Through-hole components typically have "leads" (pronounced ) leaving the body "axially," that is, on a line parallel with the part's longest axis. Others have leads coming off their body "radially" instead. Other components may be SMT (surface mount technology), while high power resistors may have one of their leads designed into the heat sink.
 
 Carbon composition
 
-Old_Radio_Resistors.jpg (vacuum tube) radio]] Carbon composition resistors (CCR) consist of a solid cylindrical resistive element with embedded wire leads or metal end caps to which the lead wires are attached. The body of the resistor is protected with paint or plastic. Early 20th-century carbon composition resistors had uninsulated bodies; the lead wires were wrapped around the ends of the resistance element rod and soldered. The completed resistor was painted for color-coding of its value.
+(vacuum tube) radio]] Carbon composition resistors (CCR) consist of a solid cylindrical resistive element with embedded wire leads or metal end caps to which the lead wires are attached. The body of the resistor is protected with paint or plastic. Early 20th-century carbon composition resistors had uninsulated bodies; the lead wires were wrapped around the ends of the resistance element rod and soldered. The completed resistor was painted for color-coding of its value.
 
 The resistive element is made from a mixture of finely powdered carbon and an insulating material, usually ceramic. A resin holds the mixture together. The resistance is determined by the ratio of the fill material (the powdered ceramic) to the carbon. Higher concentrations of carbon, which is a good conductor, result in lower resistance. Carbon composition resistors were commonly used in the 1960s and earlier, but are not popular for general use now as other types have better specifications, such as tolerance, voltage dependence, and stress. Carbon composition resistors change value when stressed with over-voltages. Moreover, if internal moisture content, from exposure for some length of time to a humid environment, is significant, soldering heat creates a non-reversible change in resistance value. Carbon composition resistors have poor stability with time and were consequently factory sorted to, at best, only 5% tolerance.[6] These resistors are non-inductive, which provides benefits when used in voltage pulse reduction and surge protection applications.[7] Carbon composition resistors have higher capability to withstand overload relative to the component's size.[8]
 
@@ -104,17 +98,15 @@ A carbon pile resistor is made of a stack of carbon disks compressed between two
 
 Carbon film
 
-Carbon-resistor-TR212-1.jpg A carbon film is deposited on an insulating substrate, and a helix is cut in it to create a long, narrow resistive path. Varying shapes, coupled with the resistivity of amorphous carbon (ranging from 500 to 800 μΩ m), can provide a wide range of resistance values. Compared to carbon composition they feature low noise, because of the precise distribution of the pure graphite without binding.[12] Carbon film resistors feature a power rating range of 0.125 W to 5 W at 70 °C. Resistances available range from 1 ohm to 10 megohm. The carbon film resistor has an operating temperature range of −55 °C to 155 °C. It has 200 to 600 volts maximum working voltage range. Special carbon film resistors are used in applications requiring high pulse stability.[13]
+A carbon film is deposited on an insulating substrate, and a helix is cut in it to create a long, narrow resistive path. Varying shapes, coupled with the resistivity of amorphous carbon (ranging from 500 to 800 μΩ m), can provide a wide range of resistance values. Compared to carbon composition they feature low noise, because of the precise distribution of the pure graphite without binding.[12] Carbon film resistors feature a power rating range of 0.125 W to 5 W at 70 °C. Resistances available range from 1 ohm to 10 megohm. The carbon film resistor has an operating temperature range of −55 °C to 155 °C. It has 200 to 600 volts maximum working voltage range. Special carbon film resistors are used in applications requiring high pulse stability.[13]
 
 Printed carbon resistor
-
-PCB_Carbon_Printed_Resistor.jpg
 
 Carbon composition resistors can be printed directly onto printed circuit board (PCB) substrates as part of the PCB manufacturing process. Although this technique is more common on hybrid PCB modules, it can also be used on standard fibreglass PCBs. Tolerances are typically quite large, and can be in the order of 30%. A typical application would be non-critical pull-up resistors.
 
 Thick and thin film
 
-Laser_Trimmed_Precision_Thin_Film_Resistor_Network.JPG Thick film resistors became popular during the 1970s, and most SMD (surface mount device) resistors today are of this type. The resistive element of thick films is 1000 times thicker than thin films,[14] but the principal difference is how the film is applied to the cylinder (axial resistors) or the surface (SMD resistors).
+Thick film resistors became popular during the 1970s, and most SMD (surface mount device) resistors today are of this type. The resistive element of thick films is 1000 times thicker than thin films,[14] but the principal difference is how the film is applied to the cylinder (axial resistors) or the surface (SMD resistors).
 
 Thin film resistors are made by sputtering (a method of vacuum deposition) the resistive material onto an insulating substrate. The film is then etched in a similar manner to the old (subtractive) process for making printed circuit boards; that is, the surface is coated with a photo-sensitive material, then covered by a pattern film, irradiated with ultraviolet light, and then the exposed photo-sensitive coating is developed, and underlying thin film is etched away.
 
@@ -140,7 +132,7 @@ Metal-oxide film resistors are made of metal oxides which results in a higher op
 
 Wire wound
 
-KTSU_resistors.jpg on an electric railway car. Such resistors may dissipate many kilowatts for an extended length of time.]] Types_of_winding_by_Zureks.png |common on a thin former |Ayrton–Perry}}]]
+on an electric railway car. Such resistors may dissipate many kilowatts for an extended length of time.]] |common on a thin former |Ayrton–Perry}}]]
 
 Wirewound resistors are commonly made by winding a metal wire, usually nichrome, around a ceramic, plastic, or fiberglass core. The ends of the wire are soldered or welded to two caps or rings, attached to the ends of the core. The assembly is protected with a layer of paint, molded plastic, or an enamel coating baked at high temperature. These resistors are designed to withstand unusually high temperatures of up to 450 °C.[19] Wire leads in low power wirewound resistors are usually between 0.6 and 0.8 mm in diameter and tinned for ease of soldering. For higher power wirewound resistors, either a ceramic outer case or an aluminum outer case on top of an insulating layer is used – if the outer case is ceramic, such resistors are sometimes described as "cement" resistors, though they do not actually contain any traditional cement. The aluminum-cased types are designed to be attached to a heat sink to dissipate the heat; the rated power is dependent on being used with a suitable heat sink, e.g., a 50 W power rated resistor overheats at a fraction of the power dissipation if not used with a heat sink. Large wirewound resistors may be rated for 1,000 watts or more.
 
@@ -149,8 +141,6 @@ Because wirewound resistors are coils they have more undesirable inductance than
 Applications of wirewound resistors are similar to those of composition resistors with the exception of the high frequency. The high frequency response of wirewound resistors is substantially worse than that of a composition resistor.[20]
 
 Foil resistor
-
-Metal_foil_resistor.png
 
 In 1960 Felix Zandman and Sidney J. Stein[21] presented a development of resistor film of very high stability.
 
@@ -188,13 +178,13 @@ Where continuous adjustment of the resistance value during operation of equipmen
 
 Potentiometers
 
-Potentiometer_1.jpg Potentiometer_cutaway_drawing.png 12_surface_mount_potentiometers.jpgs.]] A potentiometer (colloquially, _pot_) is a three-terminal resistor with a continuously adjustable tapping point controlled by rotation of a shaft or knob or by a linear slider.[25] The name _potentiometer_ comes from its function as an adjustable voltage divider to provide a variable potential at the terminal connected to the tapping point. Volume control in an audio device is a common application of a potentiometer. A typical low power potentiometer _(see drawing)_ is constructed of a flat resistance element _(B)_ of carbon composition, metal film, or conductive plastic, with a springy phosphor bronze wiper contact _(C)_ which moves along the surface. An alternate construction is resistance wire wound on a form, with the wiper sliding axially along the coil.[26] These have lower resolution, since as the wiper moves the resistance changes in steps equal to the resistance of a single turn.[27]
+s.]] A potentiometer (colloquially, _pot_) is a three-terminal resistor with a continuously adjustable tapping point controlled by rotation of a shaft or knob or by a linear slider.[25] The name _potentiometer_ comes from its function as an adjustable voltage divider to provide a variable potential at the terminal connected to the tapping point. Volume control in an audio device is a common application of a potentiometer. A typical low power potentiometer _(see drawing)_ is constructed of a flat resistance element _(B)_ of carbon composition, metal film, or conductive plastic, with a springy phosphor bronze wiper contact _(C)_ which moves along the surface. An alternate construction is resistance wire wound on a form, with the wiper sliding axially along the coil.[26] These have lower resolution, since as the wiper moves the resistance changes in steps equal to the resistance of a single turn.[27]
 
 High-resolution multiturn potentiometers are used in precision applications. These have wire-wound resistance elements typically wound on a helical mandrel, with the wiper moving on a helical track as the control is turned, making continuous contact with the wire. Some include a conductive-plastic resistance coating over the wire to improve resolution. These typically offer ten turns of their shafts to cover their full range. They are usually set with dials that include a simple turns counter and a graduated dial, and can typically achieve three digit resolution. Electronic analog computers used them in quantity for setting coefficients, and delayed-sweep oscilloscopes of recent decades included one on their panels.
 
 Resistance decade boxes
 
-Odporová_dekáda_KURBELWIDERSTAND_(A).jpg.]] A resistance decade box or resistor substitution box is a unit containing resistors of many values, with one or more mechanical switches which allow any one of various discrete resistances offered by the box to be dialed in. Usually the resistance is accurate to high precision, ranging from laboratory/calibration grade accuracy of 20 parts per million, to field grade at 1%. Inexpensive boxes with lesser accuracy are also available. All types offer a convenient way of selecting and quickly changing a resistance in laboratory, experimental and development work without needing to attach resistors one by one, or even stock each value. The range of resistance provided, the maximum resolution, and the accuracy characterize the box. For example, one box offers resistances from 0 to 100 megohms, maximum resolution 0.1 ohm, accuracy 0.1%.[28]
+.]] A resistance decade box or resistor substitution box is a unit containing resistors of many values, with one or more mechanical switches which allow any one of various discrete resistances offered by the box to be dialed in. Usually the resistance is accurate to high precision, ranging from laboratory/calibration grade accuracy of 20 parts per million, to field grade at 1%. Inexpensive boxes with lesser accuracy are also available. All types offer a convenient way of selecting and quickly changing a resistance in laboratory, experimental and development work without needing to attach resistors one by one, or even stock each value. The range of resistance provided, the maximum resolution, and the accuracy characterize the box. For example, one box offers resistances from 0 to 100 megohms, maximum resolution 0.1 ohm, accuracy 0.1%.[28]
 
 Special devices
 
@@ -261,7 +251,7 @@ Earlier power wirewound resistors, such as brown vitreous-enameled types, howeve
 
 SMT resistors
 
-Zero_ohm_resistors_cropped.jpg) including two zero-ohm resistors. Zero-ohm links are often used instead of wire links, so that they can be inserted by a resistor-inserting machine. Their resistance is negligible. ]]
+) including two zero-ohm resistors. Zero-ohm links are often used instead of wire links, so that they can be inserted by a resistor-inserting machine. Their resistance is negligible. ]]
 
 Surface mounted resistors of larger sizes (metric 1608 and above) are printed with numerical values in a code related to that used on axial resistors. Standard-tolerance surface-mount technology (SMT) resistors are marked with a three-digit code, in which the first two digits are the first two significant digits of the value and the third digit is the power of ten (the number of zeroes). For example:
 

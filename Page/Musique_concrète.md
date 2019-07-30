@@ -11,7 +11,7 @@ In 1928 music critic André Cœuroy wrote in his book _Panorama of Contemporary 
 
 Pierre Schaeffer and Studio d'Essai
 
-L430xH465_jpg_Schaeffer_big-2eb70.jpg In 1942 French composer and theoretician Pierre Schaeffer began his exploration of radiophony when he joined Jacques Copeau and his pupils in the foundation of the Studio d'Essai de la Radiodiffusion nationale. The studio originally functioned as a center for the Resistance movement in French radio, which in August 1944 was responsible for the first broadcasts in liberated Paris. It was here that Schaeffer began to experiment with creative radiophonic techniques using the sound technologies of the time .
+In 1942 French composer and theoretician Pierre Schaeffer began his exploration of radiophony when he joined Jacques Copeau and his pupils in the foundation of the Studio d'Essai de la Radiodiffusion nationale. The studio originally functioned as a center for the Resistance movement in French radio, which in August 1944 was responsible for the first broadcasts in liberated Paris. It was here that Schaeffer began to experiment with creative radiophonic techniques using the sound technologies of the time .
 
 The development of Schaeffer's practice was informed by encounters with voice actors, and microphone usage and radiophonic art played an important part in inspiring and consolidating Schaeffer's conception of sound-based composition . Another important influence on Schaeffer's practice was cinema, and the techniques of recording and montage, which were originally associated with cinematographic practice, came to "serve as the substrate of musique concrète." Marc Battier notes that, prior to Schaeffer, Jean Epstein drew attention to the manner in which sound recording revealed what was hidden in the act of basic acoustic listening. Epstein's reference to this "phenomenon of an epiphanic being", which appears through the transduction of sound, proved influential on Schaeffer's concept of reduced listening. Schaeffer would explicitly cite Jean Epstein with reference to his use of extra-musical sound material. Epstein had already imagined that "through the transposition of natural sounds, it becomes possible to create chords and dissonances, melodies and symphonies of noise, which are a new and specifically cinematographic music" .
 
@@ -78,7 +78,7 @@ During the GRMC period from 1951–1958 time Schaeffer and Jacques Poullin devel
 
 The phonogène
 
-Phonogene.jpg Speed variation was a powerful tool for sound design applications. It had been identified that transformations brought about by varying playback speed lead to modification in the character of the sound material:
+Speed variation was a powerful tool for sound design applications. It had been identified that transformations brought about by varying playback speed lead to modification in the character of the sound material:
 
 -   Variation in the sounds' length, in a manner directly proportional to the ratio of speed variation.
 -   Variation in length is coupled with a variation in pitch, and is also proportional to the ratio of speed variation.
@@ -93,13 +93,11 @@ The phonogène was a machine capable of modifying sound structure significantly 
 
 The three-head tape recorder
 
-This original tape recorder was one of the first machines permitting the simultaneous listening of several synchronised sources. Until 1958 musique concrète, radio and the studio machines were monophonic. The three-head tape recorder superposed three magnetic tapes that were dragged by a common motor, each tape having an independent spool. The objective was to keep the three tapes synchronised from a common starting point. Works could then be conceived polyphonically, and thus each head conveyed a part of the information and was listened to through a dedicated loudspeaker. It was an ancestor of the multi-track player (four then eight tracks) that appeared in the 1960s. _Timbres Durées_ by Olivier Messiaen with the technical assistance of Pierre Henry was the first work composed for this tape recorder in 1952. A rapid rhythmic polyphony was distributed over the three channels . Morphophone.JPG
+This original tape recorder was one of the first machines permitting the simultaneous listening of several synchronised sources. Until 1958 musique concrète, radio and the studio machines were monophonic. The three-head tape recorder superposed three magnetic tapes that were dragged by a common motor, each tape having an independent spool. The objective was to keep the three tapes synchronised from a common starting point. Works could then be conceived polyphonically, and thus each head conveyed a part of the information and was listened to through a dedicated loudspeaker. It was an ancestor of the multi-track player (four then eight tracks) that appeared in the 1960s. _Timbres Durées_ by Olivier Messiaen with the technical assistance of Pierre Henry was the first work composed for this tape recorder in 1952. A rapid rhythmic polyphony was distributed over the three channels .
 
 The morphophone
 
 This machine was conceived to build complex forms through repetition, and accumulation of events through delays, filtering and feedback. It consisted of a large rotating disk, 50 cm in diameter, on which was stuck a tape with its magnetic side facing outward. A series of twelve movable magnetic heads (one each recording head and erasing head, and ten playback heads) were positioned around the disk, in contact with the tape. A sound up to four seconds long could be recorded on the looped tape and the ten playback heads would then read the information with different delays, according to their (adjustable) positions around the disk. A separate amplifier and band-pass filter for each head could modify the spectrum of the sound, and additional feedback loops could transmit the information to the recording head. The resulting repetitions of a sound occurred at different time intervals, and could be filtered or modified through feedback. This system was also easily capable of producing artificial reverberation or continuous sounds .
-
-Pierre_Henry_in_concert,_1952.jpg
 
 Early sound spatialisation system
 
@@ -111,8 +109,6 @@ At the premiere of Pierre Schaeffer's _Symphonie pour un homme seul_ in 1951, a 
 The central concept underlying this method was the notion that music should be controlled during public presentation in order to create a performance situation; an attitude that has stayed with acousmatic music to the present day .
 
 The Coupigny synthesiser and Studio 54 mixing desk
-
-SchaefferStudio54.JPG
 
 After the longstanding rivalry with the "electronic music" of the Cologne studio had subsided, in 1970 the GRM finally created an electronic studio using tools developed by the physicist Enrico Chiarucci, called the Studio 54, which featured the "Coupigny modular synthesiser" and a Moog synthesiser . The Coupigny synthesiser, named for its designer François Coupigny, director of the Group for Technical Research (Battier 2007, 200), and the Studio 54 mixing desk had a major influence on the evolution of GRM and from the point of their introduction on they brought a new quality to the music . The mixing desk and synthesiser were combined in one unit and were created specifically for the creation of musique concrète.
 
@@ -126,7 +122,7 @@ The Coupigny synthesiser also served as the model for a smaller, portable unit, 
 
 The Acousmonium
 
-Psconcer.jpg In 1966 composer and technician François Bayle was placed in charge of the Groupe de Recherches Musicales and in 1975, GRM was integrated with the new Institut national de l'audiovisuel (INA – Audiovisual National Institute) with Bayle as its head. In taking the lead on work that began in the early 1950s, with Jacques Poullin's potentiomètre d'espace, a system designed to move monophonic sound sources across four speakers, Bayle and the engineer Jean-Claude Lallemand created an orchestra of loudspeakers (_un orchestre de haut-parleurs_) known as the Acousmonium in 1974 . An inaugural concert took place on 14 February 1974 at the Espace Pierre Cardin in Paris with a presentation of Bayle's _Expérience acoustique_ .
+In 1966 composer and technician François Bayle was placed in charge of the Groupe de Recherches Musicales and in 1975, GRM was integrated with the new Institut national de l'audiovisuel (INA – Audiovisual National Institute) with Bayle as its head. In taking the lead on work that began in the early 1950s, with Jacques Poullin's potentiomètre d'espace, a system designed to move monophonic sound sources across four speakers, Bayle and the engineer Jean-Claude Lallemand created an orchestra of loudspeakers (_un orchestre de haut-parleurs_) known as the Acousmonium in 1974 . An inaugural concert took place on 14 February 1974 at the Espace Pierre Cardin in Paris with a presentation of Bayle's _Expérience acoustique_ .
 
 The Acousmonium is a specialised sound reinforcement system consisting of between 50 and 100 loudspeakers, depending on the character of the concert, of varying shape and size. The system was designed specifically for the concert presentation of musique-concrète-based works but with the added enhancement of sound spatialisation. Loudspeakers are placed both on stage and at positions throughout the performance space and a mixing console is used to manipulate the placement of acousmatic material across the speaker array, using a performative technique known as _sound diffusion_ . Bayle has commented that the purpose of the Acousmonium is to _"substitute a momentary classical disposition of sound making, which diffuses the sound from the circumference towards the centre of the hall, by a group of sound projectors which form an 'orchestration' of the acoustic image"_ .
 

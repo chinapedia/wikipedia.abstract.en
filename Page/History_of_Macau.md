@@ -1,4 +1,4 @@
-Saopaulo_Chinnery.jpg in the 19th century by George Chinnery (1774–1852)]]
+in the 19th century by George Chinnery (1774–1852)]]
 
 Macau is a Special Administrative Region (SAR) of the People's Republic of China. In 1557 it was leased to Portugal as a trading post but in a exchange for a annual rent of 500 tael in order to stay in Macau, it remained under Chinese sovereignty and authority until 1887, the Portuguese came to consider and administer it as a _de facto_ colony. Following the signing of the Treaty of Nanking between China and Britain in 1842, and the signing of treaties between China and foreign powers during the 1860s, establishing the benefit of "the most favoured nation" for them, the Portuguese attempted to conclude a similar treaty in 1862, but the Chinese refused, owing to a misunderstanding over the sovereignty of Macau. In 1887 the Portuguese finally managed to secure an agreement from China that Macao was Portuguese territory.[1] In 1999 it was handed over to China. Macau was the last extant European territory in continental Asia.
 
@@ -14,7 +14,7 @@ Since the 5th century, merchant ships travelling between Southeast Asia and Guan
 
 Portuguese settlement
 
-Macau_oldmap.jpg in 1639.]] During the age of discovery Portuguese sailors explored the coasts of Africa and Asia. The sailors later established posts at Goa in 1510, and conquered Malacca in 1511, driving the Sultan to the southern tip of the Malay Peninsula from where he kept making raids on the Portuguese. The Portuguese under Jorge Álvares landed at Lintin Island in the Pearl River Delta of China in 1513 with a hired junk sailing from Portuguese Malacca. They erected a stone marker at Lintin Island claiming it for the King of Portugal, Manuel I. In the same year, the Indian Viceroy Afonso de Albuquerque commissioned Rafael Perestrello — a cousin of Christopher Columbus to sail to China in order to open up trade relations. Rafael traded with the Chinese merchants in Guangzhou in that year and in 1516, but was not allowed to move further.
+in 1639.]] During the age of discovery Portuguese sailors explored the coasts of Africa and Asia. The sailors later established posts at Goa in 1510, and conquered Malacca in 1511, driving the Sultan to the southern tip of the Malay Peninsula from where he kept making raids on the Portuguese. The Portuguese under Jorge Álvares landed at Lintin Island in the Pearl River Delta of China in 1513 with a hired junk sailing from Portuguese Malacca. They erected a stone marker at Lintin Island claiming it for the King of Portugal, Manuel I. In the same year, the Indian Viceroy Afonso de Albuquerque commissioned Rafael Perestrello — a cousin of Christopher Columbus to sail to China in order to open up trade relations. Rafael traded with the Chinese merchants in Guangzhou in that year and in 1516, but was not allowed to move further.
 
 Portugal's king Manuel I in 1517 commissioned a diplomatic and trade mission to Guangzhou headed by Tomé Pires and Fernão Pires de Andrade. The embassy lasted until the death of the Zhengde Emperor in Nanjing. The embassy was further rejected by the Chinese Ming court, which now became less interested in new foreign contacts. The Ming Court was also influenced by reports of misbehaviour of Portuguese elsewhere in China, and by the deposed Sultan of Malacca seeking Chinese assistance to drive the Portuguese out of Malacca.
 
@@ -24,14 +24,14 @@ Good relations between the Portuguese and Chinese Ming dynasty resumed in the 15
 
 Diplomatic relations were further improved and salvaged by the Leonel de Sousa agreement with Cantonese authorities in 1554. In 1557, the Ming court finally gave consent for a permanent and official Portuguese trade base at Macau. In 1558, Leonel de Sousa became the second Portuguese Governor of Macau.
 
-They later built some rudimentary stone-houses around the area now called Nam Van. But not until 1557 did the Portuguese establish a permanent settlement in Macau, at an annual rent of 500 taels (~) of silver.[6] Later that year, the Portuguese established a walled village there. Ground rent payments began in 1573. China retained sovereignty and Chinese residents were subject to Chinese law, but the territory was under Portuguese administration. In 1582 a land lease was signed, and annual rent was paid to Xiangshan County. The Portuguese continued to pay an annual tribute up to 1863 in order to stay in Macau.[7]Southern_Chinese_(From_Fukien),_Merchant_in_Penang.JPGese worker and an official, Malaysia, 1880.]] Merchant_from_Penang_in_Festive_Dress,_Woman_from_Macao.JPG, 1880.]]
+They later built some rudimentary stone-houses around the area now called Nam Van. But not until 1557 did the Portuguese establish a permanent settlement in Macau, at an annual rent of 500 taels (~) of silver.[6] Later that year, the Portuguese established a walled village there. Ground rent payments began in 1573. China retained sovereignty and Chinese residents were subject to Chinese law, but the territory was under Portuguese administration. In 1582 a land lease was signed, and annual rent was paid to Xiangshan County. The Portuguese continued to pay an annual tribute up to 1863 in order to stay in Macau.[7]ese worker and an official, Malaysia, 1880.]] , 1880.]]
 
 The Portuguese often married Tanka women since Han Chinese women would not have relations with them. Some of the Tanka's descendants became Macanese people. Some Tanka children were enslaved by Portuguese raiders.[8] The Chinese poet Wu Li wrote a poem, which included a line about the Portuguese in Macau being supplied with fish by the Tanka.[9][10][11][12]
 
 
 Macau's golden age
 
-Macau_Trade_Routes.png Jesuites_en_chine.jpgs used Macau as a point of departure & formation during the 16th century.]]
+s used Macau as a point of departure & formation during the 16th century.]]
 
 After the Portuguese were allowed to permanently settle in Macau, both Chinese and Portuguese merchants flocked to Macau, although the Portuguese were never numerous (numbering just 900 in 1583 and 1200 out of 26,000 in 1640).[13] It quickly became an important node in the development of Portugal's trade along three major routes: Macau–Malacca–Goa–Lisbon, Guangzhou–Macau–Nagasaki and Macau–Manila–Mexico. The Guangzhou–Macau–Nagasaki route was particularly profitable because the Portuguese acted as middlemen, shipping Chinese silks to Japan and Japanese silver to China, pocketing huge markups in the process. This already lucrative trade became even more so when Chinese officials handed Macau's Portuguese traders a monopoly by banning direct trade with Japan in 1547, due to piracy by Chinese and Japanese nationals.[14]
 
@@ -46,13 +46,11 @@ As well as being an important trading post, Macau was a center of activity for C
 
 1637–1844: Decline
 
-Cidade_do_Nome_De_Deus_Nao_Ha_Outra_Mais_Leal.jpg is still displayed to this day inside the Leal Senado, though the building and emblem itself date from the 19th century.]] Crayon_AB_macau_vue_generale.png
+is still displayed to this day inside the Leal Senado, though the building and emblem itself date from the 19th century.]]
 
 In 1637, increasing suspicion of the intentions of Spanish and Portuguese Catholic missionaries in Japan finally led the _shōgun_ to seal Japan off from foreign influence. Later named the sakoku period, this meant that no Japanese were allowed to leave the country (or return if they were living abroad), and no foreign ship was allowed to dock in a Japanese port. An exception was made for the Protestant Dutch, who were allowed to continue to trade with Japan from the confines of a small man-made island in Nagasaki, Deshima. Macau's most profitable trade route, that between Japan and China, had been severed. The crisis was compounded two years later by the loss of Malacca to the Dutch in 1641, damaging the link with Goa.
 
 The news that the Portuguese House of Braganza had regained control of the Crown from the Spanish Habsburgs took two years to reach Macau, arriving in 1642. A ten-week celebration ensued, and despite its new-found poverty, Macau sent gifts to the new King João IV along with expressions of loyalty. In return, the King rewarded Macau with the addition of the words "There is none more Loyal" to its existing title. Macau was now "City of the Name of God in China, There is none more loyal". ("Não há outra mais Leal" []).
-
-Lai_Afong,_view_of_Macau,_1870s-1890s.jpg
 
 In 1685, the privileged position of the Portuguese in trade with China ended, following a decision by the Kangxi Emperor of China to allow trade with all foreign countries. Over the next century, England, the Dutch Republic, France, Denmark, Sweden, the United States and Russia moved in, establishing factories and offices in Guangzhou and Macau. British trading dominance in the 1790s was unsuccessfully challenged by a combined French and Spanish naval squadron at the Macau Incident of 27 January 1799.
 
@@ -61,7 +59,7 @@ Until 20 April 1844 Macau was under the jurisdiction of Portugal's Indian coloni
 
 1844–1938: The Hong Kong effect
 
-Macao_Street_Scene.jpg.]] Situationskärtchen_von_Kanton,_Makao,_Hongkong.jpg)]] After China ceded Hong Kong to the British in 1842, Macau's position as a major regional trading centre declined further still because larger ships were drawn to the deep water port of Victoria Harbour. In an attempt to reverse the decline, Portugal declared Macau a free port, expelled Chinese officials and soldiers, and thereafter levied taxes on Chinese residents. In 1848, there was a revolt of the boatmen that was put down.
+.]] )]] After China ceded Hong Kong to the British in 1842, Macau's position as a major regional trading centre declined further still because larger ships were drawn to the deep water port of Victoria Harbour. In an attempt to reverse the decline, Portugal declared Macau a free port, expelled Chinese officials and soldiers, and thereafter levied taxes on Chinese residents. In 1848, there was a revolt of the boatmen that was put down.
 
 Portugal continued to pay rent to China until 1849, when the Portuguese abolished the Chinese customs house and declared Macau's "independence", a year which also saw Chinese retaliation and finally the assassination of Gov. Ferreira do Amaral during the so-called Baishaling Incident. Portugal gained control of the island of Wanzai (Lapa by the Portuguese and now as Wanzaizhen), to the northwest of Macau and which now is under the jurisdiction of Zhuhai (Xiangzhou District), in 1849 but relinquished it in 1887. Control over Taipa and Coloane, two islands south of Macau, was obtained between 1851 and 1864. Macau and East Timor were again combined as an overseas province of Portugal under control of Goa in 1883. The Protocol Respecting the Relations Between the Two Countries (signed in Lisbon 26 March 1887) and the Beijing Treaty (signed in Beijing on 1 December 1887) confirmed "perpetual occupation and government" of Macau by Portugal (with Portugal's promise "never to alienate Macau and dependencies without agreement with China" in the treaty). Taipa and Coloane were also ceded to Portugal, but the border with the mainland was not delimited. Ilha Verde () was incorporated into Macau's territory in 1890, and, once a kilometre offshore, by 1923 it had been absorbed into peninsula Macau through land reclamation.
 
@@ -122,7 +120,7 @@ Portugal and the People's Republic of China established diplomatic relations on 
 
 The visit underscored both parties' interest in finding a mutually agreeable solution to Macau's status. A joint communiqué signed 20 May 1986 called for negotiations on the Macau question, and four rounds of talks followed between 30 June 1986 and 26 March 1987. The Joint Declaration on the Question of Macau was signed in Beijing on 13 April 1987, setting the stage for the return of Macau to full Chinese sovereignty as a Special Administrative Region on 20 December 1999.
 
-PLA_Enter_Macau.jpg enters Macau for the first time]]
+enters Macau for the first time]]
 
 After four rounds of talks, "the Joint Declaration of the Government of the People's Republic of China and the Government of the Republic of Portugal on the Question of Macau" was officially signed in April 1987. The two sides exchanged instruments of ratification on 15 January 1988 and the Joint Declaration entered into force. During the transitional period between the date of the entry into force of the Joint Declaration and 19 December 1999 the Portuguese government was responsible for the administration of Macau.
 

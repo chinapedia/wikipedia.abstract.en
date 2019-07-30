@@ -23,7 +23,7 @@ With the release of Word 6.0 in 1993, Microsoft again attempted to synchronize t
 
 Word for Windows
 
-MS_Word_2007.png Word for Windows is available stand-alone or as part of the Microsoft Office suite. Word contains rudimentary desktop publishing capabilities and is the most widely used word processing program on the market. Word files are commonly used as the format for sending text documents via e-mail because almost every user with a computer can read a Word document by using the Word application, a Word viewer or a word processor that imports the Word format (see Microsoft Word Viewer).
+Word for Windows is available stand-alone or as part of the Microsoft Office suite. Word contains rudimentary desktop publishing capabilities and is the most widely used word processing program on the market. Word files are commonly used as the format for sending text documents via e-mail because almost every user with a computer can read a Word document by using the Word application, a Word viewer or a word processor that imports the Word format (see Microsoft Word Viewer).
 
 Word 6 for Windows NT was the first 32-bit version of the product,[36] released with Microsoft Office for Windows NT around the same time as Windows 95. It was a straightforward port of Word 6.0. Starting with Word 95, releases of Word were named after the year of its release, instead of its version number.[37]
 
@@ -33,7 +33,7 @@ Word for Mac
 
 The Mac was introduced January 24, 1984 and Microsoft introduced Word 1.0 for Mac a year later, January 18, 1985. The DOS, Mac, and Windows versions are quite different from each other. Only the Mac version was WYSIWYG and used a Graphical User Interface, far ahead of the other platforms. Each platform restarted their version numbering at "1.0" (https://winworldpc.com/product/microsoft-word/1x-mac). There was no version 2 on the Mac, but version 3 came out January 31, 1987 as described above. Word 4.0 came out November 6, 1990, and added automatic linking with Excel, the ability to flow text around graphics and a WYSIWYG page view editing mode.
 
-Word 5.1 for Mac, released in 1992 ran on the original 68000 CPU, and was the last to be specifically designed as a Macintosh application. The later Word 6 was a Windows port and poorly received. Word 5.1 continued to run well till the very last Classic MacOS. Many people continue to run Word 5.1 to this day under an emulated Mac classic system for some of its excellent features like document generation and renumbering or to access their old files.Microsoft_Word_for_Mac_2011.png In 1997, Microsoft formed the Macintosh Business Unit as an independent group within Microsoft focused on writing software for Mac OS. Its first version of Word, Word 98, was released with Office 98 Macintosh Edition. Document compatibility reached parity with Word 97,[42] and it included features from Word 97 for Windows, including spell and grammar checking with squiggles.[43] Users could choose the menus and keyboard shortcuts to be similar to either Word 97 for Windows or Word 5 for Mac OS.
+Word 5.1 for Mac, released in 1992 ran on the original 68000 CPU, and was the last to be specifically designed as a Macintosh application. The later Word 6 was a Windows port and poorly received. Word 5.1 continued to run well till the very last Classic MacOS. Many people continue to run Word 5.1 to this day under an emulated Mac classic system for some of its excellent features like document generation and renumbering or to access their old files. In 1997, Microsoft formed the Macintosh Business Unit as an independent group within Microsoft focused on writing software for Mac OS. Its first version of Word, Word 98, was released with Office 98 Macintosh Edition. Document compatibility reached parity with Word 97,[42] and it included features from Word 97 for Windows, including spell and grammar checking with squiggles.[43] Users could choose the menus and keyboard shortcuts to be similar to either Word 97 for Windows or Word 5 for Mac OS.
 
 Word 2001, released in 2000, added a few new features, including the Office Clipboard, which allowed users to copy and paste multiple items.[44] It was the last version to run on classic Mac OS and, on Mac OS X, it could only run within the Classic Environment. Word X, released in 2001, was the first version to run natively on, and required, Mac OS X,[45] and introduced non-contiguous text selection.[46]
 
@@ -106,7 +106,7 @@ Word can import and display images in common bitmap formats such as JPG and GIF.
 
 WordArt
 
-WordArt.png WordArt enables drawing text in a Microsoft Word document such as a title, watermark, or other text, with graphical effects such as skewing, shadowing, rotating, stretching in a variety of shapes and colors and even including three-dimensional effects. Users can apply formatting effects such as shadow, bevel, glow, and reflection to their document text as easily as applying bold or underline. Users can also spell-check text that uses visual effects, and add text effects to paragraph styles.
+WordArt enables drawing text in a Microsoft Word document such as a title, watermark, or other text, with graphical effects such as skewing, shadowing, rotating, stretching in a variety of shapes and colors and even including three-dimensional effects. Users can apply formatting effects such as shadow, bevel, glow, and reflection to their document text as easily as applying bold or underline. Users can also spell-check text that uses visual effects, and add text effects to paragraph styles.
 
 Macros
 
@@ -174,8 +174,6 @@ Despite its commercial success, it has also been argued in the scientific commun
 
 
 Release history
-
-Word_2010.png
 
 +---------------+-----------------------+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Year Released | Name                  | Version | Comments                                                                                                                                                                                                                                                      |

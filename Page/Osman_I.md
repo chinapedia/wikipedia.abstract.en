@@ -12,9 +12,7 @@ Some scholars have argued that Osman's original name was Turkish, probably Atman
 
 Origin of the Ottoman Empire
 
-Osmanistatue.jpg
-
-The exact date of Osman's birth is unknown, and very little is known about his early life and origins due to the scarcity of sources and the many myths and legends which came to be told about him by the Ottomans in later centuries.[10][11] He was most likely born around the middle of the thirteenth century, possibly in 1254/5, the date given by the sixteenth-century Ottoman historian Kemalpaşazade.[12] According to Ottoman tradition, Osman's father Ertuğrul led the Turkic Kayı tribe west from Central Asia into Anatolia, fleeing the Mongol onslaught. He then pledged allegiance to the Sultan of the Anatolian Seljuks, who granted him dominion over the town of Söğüt on the Byzantine frontier.[13] This connection between Ertuğrul and the Seljuks, however, was largely invented by court chroniclers a century later, and the true origins of the Ottomans thus remain obscure.[14] Osman_I_area_map.PNG
+The exact date of Osman's birth is unknown, and very little is known about his early life and origins due to the scarcity of sources and the many myths and legends which came to be told about him by the Ottomans in later centuries.[10][11] He was most likely born around the middle of the thirteenth century, possibly in 1254/5, the date given by the sixteenth-century Ottoman historian Kemalpaşazade.[12] According to Ottoman tradition, Osman's father Ertuğrul led the Turkic Kayı tribe west from Central Asia into Anatolia, fleeing the Mongol onslaught. He then pledged allegiance to the Sultan of the Anatolian Seljuks, who granted him dominion over the town of Söğüt on the Byzantine frontier.[13] This connection between Ertuğrul and the Seljuks, however, was largely invented by court chroniclers a century later, and the true origins of the Ottomans thus remain obscure.[14]
 
 Osman became chief, or _bey_, upon his father’s death in .[15] Nothing is known for certain about Osman's early activities, except that he controlled the region around the town of Söğüt and from there launched raids against the neighboring Byzantine Empire. The first datable event in Osman's life is the Battle of Bapheus in 1301 or 1302, in which he defeated a Byzantine force sent to counter him.
 
@@ -38,7 +36,7 @@ The dream became an important foundational myth for the empire, imbuing the Hous
 
 Military victories
 
-Osman.jpg According to Shaw, Osman's first real conquests followed the collapse of Seljuk authority when he was able to occupy the fortresses of Eskişehir and Karacahisar. Then he captured the first significant city in his territories, Yenişehir, which became the Ottoman capital.[20]
+According to Shaw, Osman's first real conquests followed the collapse of Seljuk authority when he was able to occupy the fortresses of Eskişehir and Karacahisar. Then he captured the first significant city in his territories, Yenişehir, which became the Ottoman capital.[20]
 
 In 1302, after soundly defeating a Byzantine force near Nicaea, Osman began settling his forces closer to Byzantine controlled areas.[21]
 
@@ -49,7 +47,7 @@ Osman's last campaign was against the city of Bursa.[24] Although Osman did not 
 
 Family
 
-Osman_Gazi_Tomb.jpg Due to the scarcity of sources about his life, very little is known about Osman's family relations. According to certain fifteenth-century Ottoman writers, Osman was descended from the Kayı branch of the Oghuz Turks, a claim which later became part of the official Ottoman genealogy and was eventually enshrined in the Turkish Nationalist historical tradition with the writings of M. F. Köprülü.[25] However, the claim to Kayı lineage does not appear in the earliest extant Ottoman genealogies. Thus many scholars of the early Ottomans regard it as a later fabrication meant to shore up dynastic legitimacy with regard to the empire's Turkish rivals in Anatolia.
+Due to the scarcity of sources about his life, very little is known about Osman's family relations. According to certain fifteenth-century Ottoman writers, Osman was descended from the Kayı branch of the Oghuz Turks, a claim which later became part of the official Ottoman genealogy and was eventually enshrined in the Turkish Nationalist historical tradition with the writings of M. F. Köprülü.[25] However, the claim to Kayı lineage does not appear in the earliest extant Ottoman genealogies. Thus many scholars of the early Ottomans regard it as a later fabrication meant to shore up dynastic legitimacy with regard to the empire's Turkish rivals in Anatolia.
 
 -   -
 
@@ -57,7 +55,7 @@ It is very difficult for historians to determine what is factual and what is leg
 
 -   According to one story, Osman had an uncle named Dündar with whom he had a quarrel early in his career. Osman wished to attack the local Christian lord of Bilecik, while Dündar opposed it, arguing that they already had enough enemies. Interpreting this as a challenge to his leadership position, Osman shot and killed his uncle with an arrow.[26] This story does not appear in many later Ottoman historical works. If it were true, it means that it was likely covered up in order to avoid tarnishing the reputation of the Ottoman dynasty's founder with the murder of a family member. It may also indicate an important change in the relationship of the Ottomans with their neighbors, shifting from relatively peaceful accommodation to a more aggressive policy of conquest.[27]
 
-Türbe_of_Osman_I,_Bursa.jpg (tomb) of Osman Gazi in Bursa]]
+(tomb) of Osman Gazi in Bursa]]
 
 Marriages
 

@@ -9,8 +9,6 @@ Biography
 
 Early years
 
-Zamenhof-1879.jpg
-
 Zamenhof was born on , the son of Markus Zamenhof ( - ) and Rozalia Zamenhof (1839 - ), in the multi-ethnic city of Belostok in Russian Empire (now Białystok in Poland). At that time the city was in the Grodno Governorate of the Russian Empire as a result of the 1807 Treaties of Tilsit. His parents were of Litvak Jewish descent. This group inhabited the former Grand Duchy of Lithuania. He appears to have been natively bilingual in Yiddish and Russian.[8] His father was a teacher of German and French. From him, Zamenhof learned German, French and Hebrew. He also spoke some major language of Białystok: Polish, a Yiddish, Belarusian, and German. Polish became the native language of his children in Warsaw. In school he studied the classical languages Latin, Greek, Hebrew, and Aramaic. He later learned some English, though in his own words not very well. He had an interest in Lithuanian and Italian, and learned Volapük when it came out in 1880. By that point his international language project was already well developed.[9][10]
 
 In addition to the Yiddish-speaking Jewish majority, the population of Białystok included Roman Catholic Poles and Eastern Orthodox Russians (mainly government officials), with smaller groups of Belarusians, Germans and other ethnic groups. Zamenhof was saddened and frustrated by the many quarrels among these groups. He supposed that the main reason for the hate and prejudice lay in the mutual misunderstanding caused by the lack of a common language. If such a language existed, Zamenhof postulated, it could play the role of a neutral communication tool between people of different ethnic and linguistic backgrounds.[11]
@@ -19,13 +17,11 @@ As a student at secondary school in Warsaw, Zamenhof attempted to create an inte
 
 By 1878, his project _Lingwe uniwersala_ was finished.[13] However, Zamenhof was too young then to publish his work. Soon after graduation he began to study medicine, first in Moscow, and later in Warsaw. In 1885, Zamenhof graduated from a university and began his practice as a doctor in Veisiejai. After 1886 he worked as an ophthalmologist in Płock and Vienna. While healing people there, he continued to work on his project of an international language.[14]
 
-Unua_Libro_ru_1st_ed.pdf
-
 For two years he tried to raise funds to publish a booklet describing the language, until he received the financial help from his future wife's father. In 1887, the book titled _Международный язык. Предисловие и полный учебникь_ (International language: Introduction and complete textbook) was published in Russian[15] under the pseudonym "Doktoro Esperanto" (Doctor Hopeful). Zamenhof initially called his language "Lingvo internacia" (international language), but those who learned it began to call it _Esperanto_ after his pseudonym, and this soon became the official name for the language. For Zamenhof, this language, far from being merely a communication tool, was a way to promote peaceful coexistence between people of different cultures.[16]
 
 Work on Yiddish language and Jewish issues
 
-1910-Universo-p322-llzdet.jpg apartment, 1910]] In 1879 Zamenhof wrote the first grammar of the Yiddish. It was partly published years later in the Yiddish magazine _Lebn un visnshaft_.[17] The complete original Russian text of this manuscript was only published in 1982, with parallel Esperanto translation by Adolf Holzhaus, in _L. Zamenhof, provo de gramatiko de novjuda lingvo_ [An attempt at a grammar of neo-Jewish language], Helsinki, pp. 9–36. In this work, not only does he provide a review of Yiddish grammar, but also proposes its transition to the Latin script and other orthographic innovations. In the same period Zamenhof wrote some other works in Yiddish, including perhaps the first survey of Yiddish poetics (see p. 50 in the above-cited book).
+apartment, 1910]] In 1879 Zamenhof wrote the first grammar of the Yiddish. It was partly published years later in the Yiddish magazine _Lebn un visnshaft_.[17] The complete original Russian text of this manuscript was only published in 1982, with parallel Esperanto translation by Adolf Holzhaus, in _L. Zamenhof, provo de gramatiko de novjuda lingvo_ [An attempt at a grammar of neo-Jewish language], Helsinki, pp. 9–36. In this work, not only does he provide a review of Yiddish grammar, but also proposes its transition to the Latin script and other orthographic innovations. In the same period Zamenhof wrote some other works in Yiddish, including perhaps the first survey of Yiddish poetics (see p. 50 in the above-cited book).
 
 In 1882 a wave of pogroms within the Russian Empire, including Congress Poland, motivated Zamenhof to take part in the early Zionist movement, the Hibbat Zion.[18] He left the movement in 1887, and in 1901 published a statement in Russian with the title _Hillelism_, in which he argued that the Zionist project could not solve the problems of the Jewish people.[19]
 
@@ -33,7 +29,7 @@ In 1914 he declined an invitation to join a new organization of Jewish Esperanti
 
 Zamenhof died in Warsaw on , possibly of heart attack,[21] and was buried at the Okopowa Street Jewish Cemetery. The farewell speech was delivered by the chief rabbi and preacher of the Great Synagogue in Warsaw, Samuel Abraham Poznański, who said: "There will be a time where the Polish soil and nation will understand what fame gave this great son of God to his homeland."[22]
 
-Ludwik_Zamenhof_speaking.ogg in Barcelona (Spain) in 1909.]]
+in Barcelona (Spain) in 1909.]]
 
 Family
 
@@ -50,7 +46,7 @@ Besides his linguistic work, Zamenhof published a religious philosophy he called
 
 Name discrepancy
 
-1905-uk-z-m.jpg Zamenhof came from and lived a very-much multilingual life. His name is/was variously transliterated, depending on the language:
+Zamenhof came from and lived a very-much multilingual life. His name is/was variously transliterated, depending on the language:
 
 -   English: Ludwik Lejzer Zamenhof –
 -   Esperanto: –
@@ -70,13 +66,13 @@ While at university, Zamenhof began using the Russian name _Lyudovik_ (also tran
 
 Honours and namesakes
 
-L.Zamenhof.jpg, North Macedonia]] In 1905 Zamenhof received the Légion d'honneur for creating Esperanto.[29] In 1910, Zamenhof was nominated for the Nobel Peace Prize, by four British Members of Parliament (including James O'Grady, Philip Snowden) and Professor Stanley Lane Poole.[30] (The Prize was instead awarded to the International Peace Bureau.) On the occasion of the 5th Universala Kongreso de Esperanto in Barcelona, Zamenhof was made a Commander of the Order of Isabella the Catholic by King Alfonso XIII of Spain.[31]
+, North Macedonia]] In 1905 Zamenhof received the Légion d'honneur for creating Esperanto.[29] In 1910, Zamenhof was nominated for the Nobel Peace Prize, by four British Members of Parliament (including James O'Grady, Philip Snowden) and Professor Stanley Lane Poole.[30] (The Prize was instead awarded to the International Peace Bureau.) On the occasion of the 5th Universala Kongreso de Esperanto in Barcelona, Zamenhof was made a Commander of the Order of Isabella the Catholic by King Alfonso XIII of Spain.[31]
 
 The minor planet 1462 Zamenhof is named in his honour. It was discovered on 6 February 1938, by Yrjö Väisälä. Hundreds of city streets, parks, and bridges worldwide have also been named after Zamenhof.[32] In Lithuania, the best-known Zamenhof Street is in Kaunas, where he lived and owned a house for some time. There are others in Poland, the United Kingdom, France, Hungary, Croatia, the Czech Republic, Spain (mostly in Catalonia), Italy, Israel, Belgium and Brazil. There are Zamenhof Hills in Hungary and Brazil, and a Zamenhof Island in the Danube.[33]
 
 In some Israeli cities, street signs identify Esperanto's creator and give his birth and death dates, but refer to him solely by his Jewish name Eliezer (a variant of which, El'azar, is the origin of Lazarus). Zamenhof is honoured as a deity by the Japanese religion Oomoto, which encourages the use of Esperanto among its followers. Also, a genus of lichen has been named _Zamenhofia_ in his honour.[34]
 
-In Italy, a few streets are named after Esperanto, including Largo Esperanto in Pisa. [35] Zamenhof_Statue_Budapest.jpg]] In 1959, Unesco honoured Zamenhof in the occasion of his centenary.[36] In 2015 Unesco decided to support the celebration of the 100th anniversary of his death.[37]
+In Italy, a few streets are named after Esperanto, including Largo Esperanto in Pisa. [35] ]] In 1959, Unesco honoured Zamenhof in the occasion of his centenary.[36] In 2015 Unesco decided to support the celebration of the 100th anniversary of his death.[37]
 
 Zamenhof was nominated 12 times for the Nobel Peace Prize.[38]
 

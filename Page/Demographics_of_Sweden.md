@@ -47,7 +47,7 @@ The total fertility rate is the number of children born per woman. It is based o
   -------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ----------
   Total Fertility Rate in Sweden   4.26   4.5    4.45   4.52   4.5    4.36   4.42   4.31   3.78   4.67
 
-Demographic_change_in_Sweden_1735-2000.png (blue) and death rate in Sweden for the period of 1735 to 2000. The graph indicates strong population growth for the period of 1800 to 1970, and a beginning population decline from the 1980s.]]
+ (blue) and death rate in Sweden for the period of 1735 to 2000. The graph indicates strong population growth for the period of 1800 to 1970, and a beginning population decline from the 1980s.]]
 
   Years                            1811   1812   1813   1814   1815   1816   1817   1818   1819   1820[19]
   -------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ----------
@@ -64,8 +64,6 @@ Demographic_change_in_Sweden_1735-2000.png (blue) and death rate in Sweden for t
   Years                            1841   1842   1843   1844   1845   1846   1847   1848   1849   1850[22]
   -------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ----------
   Total Fertility Rate in Sweden   4.3    4.49   4.36   4.56   4.46   4.25   4.2    4.3    4.66   4.45
-
-Swedish_family_1898.jpg
 
   Years                            1851   1852   1853   1854   1855   1856   1857   1858   1859   1860[23]
   -------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ----------
@@ -403,8 +401,6 @@ Though there are no official statistics on ethnicity, according to Statistics Sw
 
 Population little increases during 2004–2012 have mainly been attributed to immigration from Muslim-majority countries like Iraq, Afghanistan, and Somalia. This implies a larger influx of Muslim immigrants as opposed to any other religious group.[36]
 
-BirthDeath_1950_SE.svg Swedenpop.svg Swedishpopdensity.svg
-
 Demographic statistics according to the World Population Review.[37]
 
 -   One birth every 4 minutes
@@ -500,7 +496,7 @@ Urbanisation:
 
 Population projections
 
-Born_in_1953.pdf In 1950 Sweden had fewer people aged 10–20 with more people ages 20–30 and 0–10. In 2017 the ratio of male to female remains steady at about 50-50. As a whole the graph broadens with people appearing to live longer. In 2050 its predicted that all ages will increase from below 300,000 males and females to above 300,000 males and females. With about 50,000 people living to the ages of 90–100. In 2100 the graph is shaped as a rectangle with people of all ages and genders remaining steady. It narrows slightly at the top of the graph with about 250,000/300,000 males and females living to be 90–100 years old.[39] Statistics Sweden projects the following population development in Sweden:[40]
+In 1950 Sweden had fewer people aged 10–20 with more people ages 20–30 and 0–10. In 2017 the ratio of male to female remains steady at about 50-50. As a whole the graph broadens with people appearing to live longer. In 2050 its predicted that all ages will increase from below 300,000 males and females to above 300,000 males and females. With about 50,000 people living to the ages of 90–100. In 2100 the graph is shaped as a rectangle with people of all ages and genders remaining steady. It narrows slightly at the top of the graph with about 250,000/300,000 males and females living to be 90–100 years old.[39] Statistics Sweden projects the following population development in Sweden:[40]
 
   Year   Projection
   ------ ------------
@@ -519,7 +515,7 @@ Migration
 
 Immigration
 
-COB_data_Sweden.PNG Asylsökningar_1984-2014(2).jpg As of 2017, Statistics Sweden reported that around 2,439,007 or 24.1% of the inhabitants of Sweden were from a foreign background: that is, each such person either had been born abroad or had been born in Sweden to two parents who themselves had both been born abroad.[42] Also taking into account people with only one parent born abroad, this number increases to almost a third in 2017.[43]
+As of 2017, Statistics Sweden reported that around 2,439,007 or 24.1% of the inhabitants of Sweden were from a foreign background: that is, each such person either had been born abroad or had been born in Sweden to two parents who themselves had both been born abroad.[42] Also taking into account people with only one parent born abroad, this number increases to almost a third in 2017.[43]
 
 Demographics
 

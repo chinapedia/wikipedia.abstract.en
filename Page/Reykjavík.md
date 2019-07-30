@@ -5,7 +5,7 @@ Reykjavík is believed to be the location of the first permanent settlement in I
 
 History
 
-Ingolf_by_Raadsig.jpg of Ingólfur commanding his high seat pillars to be erected]] Reykjavik_1860s.jpg
+of Ingólfur commanding his high seat pillars to be erected]]
 
 The first permanent settlement in Iceland by Norsemen is believed to have been established at Reykjavík by Ingólfr Arnarson around AD 870; this is described in _Landnámabók_, or the Book of Settlement. Ingólfur is said to have decided the location of his settlement using a traditional Norse method; he cast his high seat pillars (Öndvegissúlur) into the ocean when he saw the coastline, then settled where the pillars came to shore. This story is widely regarded as legendary: it appears likely that he settled near the hot springs to keep warm in the winter and would not have decided the location by happenstance. Furthermore, it seems unlikely that the pillars drifted to that location from where they were said to have been thrown from the boat. Nevertheless, that is what the _Landnamabok_ says, and it says furthermore that Ingólfur's pillars are still to be found in a house in the town.
 
@@ -16,8 +16,6 @@ The Reykjavík area was farmland until the 18th century. In 1752, the King of De
 The Danish Crown abolished monopoly trading in 1786 and granted six communities around the country an exclusive trading charter. Reykjavík was one of them and the only one to hold on to the charter permanently. 1786 is thus regarded as the date of the city's founding. Trading rights were limited to subjects of the Danish Crown, and Danish traders continued to dominate trade in Iceland. Over the following decades, their business in Iceland expanded. After 1880, free trade was expanded to all nationalities, and the influence of Icelandic merchants started to grow.
 
 Rise of nationalism
-
-Pg107_Main_street_of_Reykjavik_and_Governors_house.jpg
 
 Icelandic nationalist sentiment gained influence in the 19th century, and the idea of Icelandic independence became widespread. Reykjavík, as Iceland's only city, was central to such ideas. Advocates of an independent Iceland realized that a strong Reykjavík was fundamental to that objective. All the important events in the history of the independence struggle were important to Reykjavík as well. In 1845 Alþingi, the general assembly formed in 930 AD, was re-established in Reykjavík; it had been suspended a few decades earlier when it was located at Þingvellir. At the time it functioned only as an advisory assembly, advising the King about Icelandic affairs. The location of Alþingi in Reykjavík effectively established the city as the capital of Iceland.
 
@@ -40,7 +38,7 @@ In 1972, Reykjavík hosted the world chess championship between Bobby Fischer an
 
 Geography
 
-Reykjavikfromabove.jpg Reykjavik_Esja.jpg, the mountain range to the north of Reykjavík]]
+, the mountain range to the north of Reykjavík]]
 
 Reykjavík is located in the southwest of Iceland. The Reykjavík area coastline is characterized by peninsulas, coves, straits, and islands.
 
@@ -63,8 +61,6 @@ Cityscape
 
 File:Reykjavik rooftops.jpg|Colourful rooftops line Reykjavík File:Islande - Rekjavik du haut de la cathédrale.JPG|Central Reykjavík seen from Hallgrímskirkja File:Instituto de Reikiavik, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 086.JPG|Menntaskólinn (high school) of Reykjavík or MR File:View from Hallgrímskirkja 11.JPG|Looking southeast from Hallgrímskirkja File:View from Hallgrímskirkja 2.JPG|Another view of Reykjavík from Hallgrímskirkja File:Iceland-Reykjavik-Thjodmenningarhus-1.jpg|Þjóðmenningarhúsið File:Skólavörðustígur.JPG|View from Skólavörðustígur File:The pond.jpg|Tjörnin (_The Pond_) in Central Reykjavík File:Austurvöllur - a sunny day.jpg|Austurvöllur on a sunny day File:Vista de Reikiavik desde Perlan, Distrito de la Capital, Islandia, 2014-08-13, DD 118-120 HDR.JPG|View from Perlan File:Catedral de Reikiavik, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 089.JPG|Reykjavík Cathedral
 
-Reykjavik_from_Hallgrimskikrja.jpg
-
 
 City administration
 
@@ -82,8 +78,6 @@ The Independence Party was historically the city's ruling party; it had an overa
 In October 2007 a new majority was formed on the council, consisting of members of the Progressive Party, the Social Democratic Alliance, the Left-Greens and the F-list (liberals and independents), after controversy regarding REI, a subsidiary of OR, the city's energy company. However, three months later the F-list formed a new majority together with the Independence Party. Ólafur F. Magnússon, the leader of the F-list, was elected mayor on 24 January 2008, and in March 2009 the Independence Party was due to appoint a new mayor. This changed once again on 14 August 2008 when the fourth coalition of the term was formed, by the Independence Party and the Social Democratic Alliance, with Hanna Birna Kristjánsdóttir becoming mayor.
 
 The City Council election in May 2010 saw a new political party, The Best Party, win six of 15 seats, and they formed a coalition with the Social Democratic Alliance; comedian Jón Gnarr became mayor.[19] At the 2014 election, the Social Democratic Alliance had its best showing yet, gaining five seats in the council, while Bright Future (successor to the Best Party) received two seats and the two parties formed a coalition with the Left-Green movement and the Pirate Party, which won one seat each. The Independence Party had its worst election ever, with only four seats.
-
-Reykjavik_northeast_aerial_panorama.jpg
 
 Mayor
 
@@ -279,11 +273,9 @@ Children of foreign origin form a more considerable minority in the city's schoo
 | Excluding Iceland.                                                                                                                                                                  |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Reykjavik_population_graph_1889-2016.svg
-
 Districts
 
-Administrative_map_of_Reykjavík.png Reykjavík is divided into 10 districts:
+Reykjavík is divided into 10 districts:
 
 -   Vesturbær (District 1)
 -   Miðborg (District 2, _city centre_)
@@ -301,7 +293,7 @@ In addition there are hinterland areas (lightly shaded on the map) which are not
 
 Economy
 
-Borgartún is the financial centre of Reykjavík, hosting a large number of companies and three investment banks. Hvalur_6,_7,_8_and_9.JPG
+Borgartún is the financial centre of Reykjavík, hosting a large number of companies and three investment banks.
 
 Reykjavík has been at the centre of Iceland's economic growth and subsequent economic contraction over the 2000s, a period referred to in foreign media as the "Nordic Tiger" years,[27][28] or "Iceland's Boom Years".[29] The economic boom led to a sharp increase in construction, with large redevelopment projects such as Harpa concert hall and conference centre and others. Many of these projects came to a screeching halt in the following economic crash of 2008.
 
@@ -316,11 +308,11 @@ Airports and seaports
 
 Reykjavík Airport, the second largest airport in the country (after Keflavík International Airport), is positioned inside the city, just south of the city centre. It is mainly used for domestic flights, as well as flights to Greenland and the Faroe Islands. Since 1962, there has been some controversy regarding the location of the airport, since it takes up a lot of valuable space in central Reykjavík.
 
-Reykjavík has two seaports, the old harbour near the city centre which is mainly used by fishermen and cruise ships, and _Sundahöfn_ in the east city which is the largest cargo port in the country. Reykjavík_Old_Harbor.jpg
+Reykjavík has two seaports, the old harbour near the city centre which is mainly used by fishermen and cruise ships, and _Sundahöfn_ in the east city which is the largest cargo port in the country.
 
 Railways
 
-RHR-Minor.JPG; both are now on display in Reykjavík]]
+; both are now on display in Reykjavík]]
 
 There are no public railways in Iceland, because of its sparse population, but the locomotives used to build the docks are on display. Proposals have been made for a high-speed rail link between the city and Keflavík.
 
@@ -344,7 +336,7 @@ Lifestyle
 
 Nightlife
 
-Laugarvegur01.jpg main street in downtown Reykjavík]]
+main street in downtown Reykjavík]]
 
 Reykjavík is famous for its weekend nightlife. Icelanders tend to go out late, so bars that look rather quiet can fill up suddenly—usually after midnight on a weekend.
 
@@ -366,8 +358,6 @@ Reykjavik has a street art scene featuring works from artists such as Selur, Sig
 
 
 Main sights
-
-Austurstræti_1.JPG
 
 -   Alþingishúsið – the Icelandic parliament building
 -   Austurvöllur – a park in central Reykjavík surrounded by restaurants and bars

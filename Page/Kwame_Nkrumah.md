@@ -33,7 +33,7 @@ Nkrumah read books about politics and divinity, and tutored students in philosop
 
 London
 
-KWAME_NKRUMAH_-_60_Burghley_Road_Kentish_Town_London_NW5_1UN.jpg Nkrumah returned to London in May 1945 and enrolled at the London School of Economics as a PhD candidate in anthropology. He withdrew after one term and the next year enrolled at University College, with the intent to write a philosophy dissertation on "Knowledge and Logical Positivism". His supervisor, A. J. Ayer, declined to rate Nkrumah as a "first-class philosopher", saying, "I liked him and enjoyed talking to him but he did not seem to me to have an analytical mind. He wanted answers too quickly. I think part of the trouble may have been that he wasn't concentrating very hard on his thesis. It was a way of marking time until the opportunity came for him to return to Ghana." Finally, Nkrumah enrolled in, but did not complete, a study in law at Gray's Inn.
+Nkrumah returned to London in May 1945 and enrolled at the London School of Economics as a PhD candidate in anthropology. He withdrew after one term and the next year enrolled at University College, with the intent to write a philosophy dissertation on "Knowledge and Logical Positivism". His supervisor, A. J. Ayer, declined to rate Nkrumah as a "first-class philosopher", saying, "I liked him and enjoyed talking to him but he did not seem to me to have an analytical mind. He wanted answers too quickly. I think part of the trouble may have been that he wasn't concentrating very hard on his thesis. It was a way of marking time until the opportunity came for him to return to Ghana." Finally, Nkrumah enrolled in, but did not complete, a study in law at Gray's Inn.
 
 Nkrumah spent his time on political organising. He and Padmore were among the principal organisers, and co-treasurers, of the Fifth Pan-African Congress in Manchester (15–19 October 1945).[16] The Congress elaborated a strategy for supplanting colonialism with African socialism. They agreed to pursue a federal United States of Africa, with interlocking regional organisations, governing through separate states of limited sovereignty. They planned to pursue a new African culture without tribalism, democratic within a socialist or communist system, synthesising traditional aspects with modern thinking, and for this to be achieved by nonviolent means if possible.[17] Among those who attended the congress was the venerable W. E. B. Dubois along with some who later took leading roles in leading their nations to independence, including Hastings Banda of Nyasaland (which became Malawi), Jomo Kenyatta of Kenya and Obafemi Awolowo of Nigeria
 
@@ -53,8 +53,6 @@ Although the Gold Coast was politically more advanced than Britain's other West 
 The government assumed that the UGCC was responsible for the unrest, and arrested six leaders, including Nkrumah and Danquah. The Big Six were incarcerated together in Kumasi, increasing the rift between Nkrumah and the others, who blamed him for the riots and their detention. After the British learned that there were plots to storm the prison, the six were separated, with Nkrumah sent to Lawra. They were freed in April 1948. Many students and teachers had demonstrated for their release, and been suspended; Nkrumah, using his own funds, began the Ghana National College. This, among other activities, led UGCC committee members to accuse him of acting in the party's name without authority. Fearing he would harm them more outside the party than within, they agreed to make him honorary treasurer. Nkrumah's popularity, already large, was increased with his founding of the _Accra Evening News_, which was not a party organ but was owned by Nkrumah and others. He also founded the Committee on Youth Organisation (CYO) as a youth wing for the UGCC. It soon broke away and adopted the motto "Self-Government Now". The CYO united students, ex-servicemen, and market women. Nkrumah recounted in his autobiography that he knew that a break with the UGCC was inevitable, and wanted the masses behind him when the conflict occurred. Nkrumah's appeals for "Free-Dom" appealed to the great numbers of underemployed youths who had come from the farms and villages to the towns. "Old hymn tunes were adapted to new songs of liberations which welcomed traveling orators, and especially Nkrumah himself, to mass rallies across the Gold Coast."
 
 Convention People's Party
-
-CPP_‒_Convention_People's_Party_logo.jpg
 
 Beginning in April 1949, there was considerable pressure on Nkrumah from his supporters to leave the UGCC and form his own party. On 12 June 1949, he announced the formation of the Convention People's Party (CPP), with the word "convention" chosen, according to Nkrumah, "to carry the masses with us". There were attempts to heal the breach with the UGCC; at one July meeting, it was agreed to reinstate Nkrumah as secretary and disband the CPP. But Nkrumah's supporters would not have it, and persuaded him to refuse the offer and remain at their head.
 
@@ -100,17 +98,15 @@ Ghana's leader (1957–1966)
 
 Political developments and presidential election
 
-25_pesewas_(1958).jpg
-
 Nkrumah had only a short honeymoon before there was unrest among his people. The government deployed troops to Togoland to quell unrest following a disputed plebiscite on membership in the new country.[29] A serious bus strike in Accra stemmed from resentments among the Ga people, who believed members of other tribes were getting preferential treatment in government promotion, and this led to riots there in August. Nkrumah's response was to repress local movements by the Avoidance of Discrimination Act (6 December 1957), which banned regional or tribally-based political parties. Another strike at tribalism fell in Ashanti, where Nkrumah and the CPP got most local chiefs who were not party supporters destooled. These repressive actions concerned the opposition parties, who came together to form the United Party under Kofi Abrefa Busia.
 
 In 1958, an opposition MP was arrested on charges of trying to obtain arms abroad for a planned infiltration of the Ghana Army (GA). Nkrumah was convinced there had been an assassination plot against him, and his response was to have the parliament pass the Preventive Detention Act, allowing for incarceration for up to five years without charge or trial, with only Nkrumah empowered to release prisoners early. According to Nkrumah's biographer, David Birmingham, "no single measure did more to bring down Nkrumah's reputation than his adoption of internment without trial for the preservation of security." Nkrumah intended to bypass the British-trained judiciary, which he saw as opposing his plans when they subjected them to constitutional scrutiny.
 
-Another source of irritation was the regional assemblies, which had been organised on an interim basis pending further constitutional discussions. The opposition, which was strong in Ashanti and the north, proposed significant powers for the assemblies; the CPP wanted them to be more or less advisory. In 1959, Nkrumah used his majority in the parliament to push through the Constitutional Amendment Act, which abolished the assemblies and allowed the parliament to amend the constitution with a simple majority. Queen_Elizabeth_II_and_the_Prime_Ministers_of_the_Commonwealth_Nations,_at_Windsor_Castle_(1960_Commonwealth_Prime_Minister's_Conference).jpg Queen Elizabeth II remained sovereign over Ghana from 1957 to 1960. William Hare, 5th Earl of Listowel was the Governor-General, and Nkrumah remained Prime Minister. On 6 March 1960, Nkrumah announced plans for a new constitution which would make Ghana a republic, headed by a president with broad executive and legislative powers. The draft included a provision to surrender Ghanaian sovereignty to a Union of African States. On 19, 23, and 27 April 1960 a presidential election and plebiscite on the constitution were held. The constitution was ratified and Nkrumah was elected president over J. B. Danquah, the UP candidate, 1,016,076 to 124,623. Ghana remained a part of the British-led Commonwealth of Nations.[30]
+Another source of irritation was the regional assemblies, which had been organised on an interim basis pending further constitutional discussions. The opposition, which was strong in Ashanti and the north, proposed significant powers for the assemblies; the CPP wanted them to be more or less advisory. In 1959, Nkrumah used his majority in the parliament to push through the Constitutional Amendment Act, which abolished the assemblies and allowed the parliament to amend the constitution with a simple majority. Queen Elizabeth II remained sovereign over Ghana from 1957 to 1960. William Hare, 5th Earl of Listowel was the Governor-General, and Nkrumah remained Prime Minister. On 6 March 1960, Nkrumah announced plans for a new constitution which would make Ghana a republic, headed by a president with broad executive and legislative powers. The draft included a provision to surrender Ghanaian sovereignty to a Union of African States. On 19, 23, and 27 April 1960 a presidential election and plebiscite on the constitution were held. The constitution was ratified and Nkrumah was elected president over J. B. Danquah, the UP candidate, 1,016,076 to 124,623. Ghana remained a part of the British-led Commonwealth of Nations.[30]
 
 Opposition to tribalism
 
-Flag_of_Ashanti.svg symbolising Asante political authority[31]]] Ashanti_Empire_Flag.svg
+symbolising Asante political authority[31]]]
 
 Nkrumah also sought to eliminate "tribalism", a source of loyalties held more deeply than those to the nation-state. Thus, as he wrote in _Africa Must Unite_: "We were engaged in a kind of war, a war against poverty and disease, against ignorance, against tribalism and disunity. We needed to secure the conditions which could allow us to pursue our policy of reconstruction and development." To this end, in 1958, his government passed "An Act to prohibit organisations using or engaging in racial or religious propaganda to the detriment of any other racial or religious community, or securing the election of persons on account of their racial or religious affiliations, or for other purposes in connection therewith."[32] Nkrumah attempted to saturate the country in national flags, and declared a widely disobeyed ban on tribal flags.[33]
 
@@ -126,7 +122,7 @@ In 1964, Nkrumah proposed a constitutional amendment which would make the CPP th
 
 Civil service
 
-Dolazak_predsednika_Gane_Kvame_Nkrumaha_na_konferenciju_nesvrstanih,_1961._god.jpg, Josip Broz Tito, to the Non-aligned movement conference, Belgrade, 1961.]] After substantial Africanisation of the civil service in 1952–60, the number of expatriates rose again from 1960 to 1965. Many of the new outside workers came not from the United Kingdom but from the Soviet Union, Poland, Czechoslovakia, Yugoslavia, Italy, and the United Nations.[39]
+, Josip Broz Tito, to the Non-aligned movement conference, Belgrade, 1961.]] After substantial Africanisation of the civil service in 1952–60, the number of expatriates rose again from 1960 to 1965. Many of the new outside workers came not from the United Kingdom but from the Soviet Union, Poland, Czechoslovakia, Yugoslavia, Italy, and the United Nations.[39]
 
 Education
 
@@ -140,7 +136,7 @@ In 1952, the Artisan Trading Scheme, arranged with the Colonial Office and UK Mi
 
 Culture
 
-Pahor_Labib_Watani_0.10_LRcrop1_(2).jpg Pahor Labib at the Coptic Museum, 1956]]
+Pahor Labib at the Coptic Museum, 1956]]
 
 Nkrumah promoted pan-African culture, calling for international libraries and cooperative efforts to study history and culture. He decried the norms of white supremacy and Eurocentrism imposed by British textbooks and cultural institutions. He wore a traditional northern robe, fugu, but donned Kente cloth, from the south, for ceremonies, in order to symbolise his identity as a representative of the whole country. He oversaw the opening of the Ghana Museum on 5 March 1957; the Arts Council of Ghana, a wing of the Ministry of Education and Culture, in 1958; the Research Library on African Affairs in June, 1961; and the Ghana Film Corporation in 1964.[45] In 1962, Nkrumah opened the Institute of African Studies.[46]
 
@@ -176,7 +172,7 @@ The Statutory Corporations Act, passed in November 1959 and revised in 1961 and 
 
 After visiting the Soviet Union, Eastern Europe, and China in 1961, Nkrumah apparently became still more convinced of the need for state control of the economy.[61]
 
-Akosombo_Dam_hydroelectric_plant.jpg hydroelectric dam]]
+hydroelectric dam]]
 
 Nkrumah's time in office began successfully: forestry, fishing, and cattle-breeding expanded, production of cocoa (Ghana's main export) doubled, and modest deposits of bauxite and gold were exploited more effectively. The construction of a dam on the Volta River (launched in 1961) provided water for irrigation and hydro-electric power, which produced enough electricity for the towns and for a new aluminum plant. Government funds were also provided for village projects in which local people built schools and roads,[62] while free health care and education were introduced.[63]
 
@@ -198,7 +194,7 @@ Prices continued to fluctuate. In 1960 one ton of cocoa sold for £250 in London
 
 Foreign and military policy
 
-Nkrumah,_his_family_and_Nasser,_1965.jpg during the 1965 Organisation of African Unity Summit in Accra.]]
+during the 1965 Organisation of African Unity Summit in Accra.]]
 
 Nkrumah actively promoted a policy of Pan-Africanism from the beginning of his presidency. This entailed the creation of a series of new international organisations, which held their inaugural meetings in Accra. These were:
 
@@ -236,18 +232,16 @@ Ghana also gave military support to rebels fighting against Ian Smith's white-mi
 
 Relationship with Communist world
 
-Che_Guevara_Nkrumah_1965-01_Ghana.jpg, January 1965]]
+, January 1965]]
 
 In 1961, Nkrumah went on tour through Eastern Europe, proclaiming solidarity with the Soviet Union and the People's Republic of China.[94]
 
 In 1962 Kwame Nkrumah was awarded the Lenin Peace Prize by the Soviet Union.
 
-Ghana_3.jpg
-
 
 Overthrow
 
-President_John_F._Kennedy_Meets_with_the_President_of_the_Republic_of_Ghana,_Osagyefo_Dr._Kwame_Nkrumah_(JFKWHP-AR6409-B).jpg In February 1966, while Nkrumah was on a state visit to North Vietnam and China, his government was overthrown in a violent _coup d'état_ led by the national military and police forces, with backing from the civil service. The conspirators, led by Joseph Arthur Ankrah, named themselves the National Liberation Council and ruled as a military government for three years. Nkrumah did not learn of the coup until he arrived in China. After the coup, Nkrumah stayed in Beijing for four days and Preimer Zhou Enlai treated him with courtesy.[95]
+In February 1966, while Nkrumah was on a state visit to North Vietnam and China, his government was overthrown in a violent _coup d'état_ led by the national military and police forces, with backing from the civil service. The conspirators, led by Joseph Arthur Ankrah, named themselves the National Liberation Council and ruled as a military government for three years. Nkrumah did not learn of the coup until he arrived in China. After the coup, Nkrumah stayed in Beijing for four days and Preimer Zhou Enlai treated him with courtesy.[95]
 
 Nkrumah alluded to possible American complicity in the coup in his 1969 memoir _Dark Days in Ghana_, though he may have based this conclusion on falsified documents shown to him by the KGB.[96] In 1978 John Stockwell, former Chief of the Angola Task Force of the U.S. Central Intelligence Agency (CIA), wrote that agents at the CIA's Accra station "maintained intimate contact with the plotters as a coup was hatched". Afterward, "inside CIA headquarters the Accra station was given full, if unofficial credit for the eventual coup. ...None of this was adequately reflected in the agency's written records."[97] Later the same year, Seymour Hersh of _The New York Times_, citing "first hand intelligence sources," defended Stockwell's account, claiming that "many CIA operatives in Africa considered the agency's role in the overthrow of Mr. Nkrumah to have been pivotal."[98] These claims have never been verified.[99]
 
@@ -271,7 +265,7 @@ In September 2009, President John Atta Mills declared 21 September (the 100th an
 
 Political philosophy
 
-Nkrumah.JPG in Tanzania]]
+in Tanzania]]
 
 Nkrumah called himself "a scientific socialist and a Marxist" and is considered relatively orthodox in his Marxism–Leninism.[105] He generally took a non-aligned Marxist perspective on economics, and believed capitalism had malignant effects that were going to stay with Africa for a long time. Although he was clear on distancing himself from the African socialism of many of his contemporaries, Nkrumah argued that socialism was the system that would best accommodate the changes that capitalism had brought, while still respecting African values. He specifically addresses these issues and his politics in a 1967 essay entitled "African Socialism Revisited":
 
@@ -300,7 +294,7 @@ Nkrumah is played by Danny Sapani in the Netflix television series _The Crown_ (
 
 Works by Kwame Nkrumah
 
-1989_CPA_6101.jpg marking the 80th anniversary of his birth]] Independence_Arch_-_Accra,_Ghana1.jpg
+marking the 80th anniversary of his birth]]
 
 -   "Negro History: European Government in Africa", _The Lincolnian_, 12 April 1938, p. 2 (Lincoln University, Pennsylvania) – see Special Collections and Archives, Lincoln University
 -   _Ghana: The Autobiography of Kwame Nkrumah_ (1957).

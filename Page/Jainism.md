@@ -11,9 +11,9 @@ Main principles
 
 Non-violence (_ahimsa_)
 
-Ahinsa_Parmo_Dharm.jpg'' (non-violence is the highest virtue or religion)]]
+'' (non-violence is the highest virtue or religion)]]
 
-Ahimsa_Jainism_Gradient.jpg. The word in the middle is _ahiṃsā_. The wheel represents the _dharmachakra_, which stands for the resolve to halt the _saṃsāra_ (transmigration) through relentless pursuit of truth and non-violence.]]
+. The word in the middle is _ahiṃsā_. The wheel represents the _dharmachakra_, which stands for the resolve to halt the _saṃsāra_ (transmigration) through relentless pursuit of truth and non-violence.]]
 
 The principle of _ahimsa_ (non-violence or non-injury) is a fundamental tenet of Jainism. It believes that one must abandon all violent activity and without such a commitment to non-violence all religious behavior is worthless. In Jain theology, it does not matter how correct or defensible the violence may be, one must not kill any being, and "non-violence is one's highest religious duty".
 
@@ -82,13 +82,13 @@ The Digambara Jain scholar Kundakunda, in his _Pravacanasara_ states that a Jain
 
 Rituals and worship
 
-Shravanbelgola_Gomateshvara_feet_prayer1.jpg]]
+]]
 
 There are many rituals in Jainism's various sects. According to Dundas, the ritualistic lay path among Śvētāmbara Jains is "heavily imbued with ascetic values", where the rituals either revere or celebrate the ascetic life of Tirthankaras, or mendicants, or progressively get closer to psychologically and physically living ever more like an ascetic. The ultimate ritual is _sallekhana_, a religious death through ascetic abandonment of food and drinks. The Digambara Jains follow the same theme, but the details differ from Śvētāmbaras, and according to Dundas, the life cycle and religious rituals are closer to the liturgy found among Hindu traditions. The overlap in Jain and Hindu rituals is largely in the life cycle (rites-of-passage) rituals, according to Padmanabh Jaini, and likely one that developed over time because Jains and Hindus societies overlapped, and rituals were viewed as necessary and secular ceremonies.
 
 Jains do not believe in a creator god, but do ritually worship numerous deities. The Jinas are prominent and a large focus of this ritualism, but they are not the only _deva_ in Jainism. A Jina as _deva_ is not an avatar (incarnation) in Jainism, but the highest state of omniscience that an ascetic _tirthankara_ achieved. Out of the 24 Tirthankaras, Jain devotional worship is predominantly addressed to four: Mahāvīra, Parshvanatha, Neminatha and Rishabhanatha. Among the non-_tirthankara_ saints, devotional worship is common for Bahubali among the Digambaras. Some of Jaina rituals remember the five life events of the _tirthankaras_, called the _Panch Kalyanaka_, are rituals such as the _Panch Kalyanaka Pratishtha Mahotsava_, _Panch Kalyanaka Puja_ and _Snatrapuja_.
 
-A_Jain_ritual_offerings_and_puja_recital_at_a_temple,_worship_in_Jainism.jpg The basic worship ritual practised by Jains is _darsana_ (seeing) of _deva_, which includes Jina, or other yaksas, gods and goddesses such as Brahmadeva, 52 Viras, Padmavati, Ambika and 16 Vidyadevis (Sarasvati, Lakshmi, others). The Terapanthi sub-tradition of Digambaras do not worship many of the deities popular among mainstream Digambaras, and they limit their ritual worship to Tirthankaras. The worship ritual is called the _devapuja_, is found in all Jaina sub traditions, which share common features. Typically, the Jaina layperson enters the temple inner sanctum in simple clothing and bare feet, with a plate filled with offerings, bows down, says the namaskara, completes his or her litany and prayers, sometimes is assisted by the temple priest, leaves the offerings and then departs.
+The basic worship ritual practised by Jains is _darsana_ (seeing) of _deva_, which includes Jina, or other yaksas, gods and goddesses such as Brahmadeva, 52 Viras, Padmavati, Ambika and 16 Vidyadevis (Sarasvati, Lakshmi, others). The Terapanthi sub-tradition of Digambaras do not worship many of the deities popular among mainstream Digambaras, and they limit their ritual worship to Tirthankaras. The worship ritual is called the _devapuja_, is found in all Jaina sub traditions, which share common features. Typically, the Jaina layperson enters the temple inner sanctum in simple clothing and bare feet, with a plate filled with offerings, bows down, says the namaskara, completes his or her litany and prayers, sometimes is assisted by the temple priest, leaves the offerings and then departs.
 
 Jain practices include performing _abhisheka_ (ceremonial bath) of the images. Some Jain sects employ a _pujari_ (also called _upadhye_) for rituals, who may be a non-Jain (a Hindu), to perform special rituals and other priestly duties at the temple. More elaborate worship includes ritual offerings such as rice, fresh and dry fruits, flowers, coconut, sweets, and money. Some may light up a lamp with camphor and make auspicious marks with sandalwood paste. Devotees also recite Jain texts, particularly the life stories of the tirthankaras.
 
@@ -96,7 +96,7 @@ The traditional Jains, like Buddhists and Hindus, believe in the efficacy of man
 
 Festivals
 
-Das_Lakshana_(Paryusana)_celebrations,_New_York_City_Jain_temple_2.JPG (Paryusana), Jain Center of America, New York City]] Jains celebrate many annual festivals. Many of the major festivals in Jainism fall in and around the _comasu_ (Sanskrit: _chaturmasa_) period of the calendar. It is the four month monsoon period when the Jain ascetics are mandated to remain in residence at one place in the Jain tradition, rather than be traveling or going around Indian villages and towns and never staying in one place for more than a month. The _comasu_ period allows the four orders of the Jain community to be together and participate in the festive remembrances.
+(Paryusana), Jain Center of America, New York City]] Jains celebrate many annual festivals. Many of the major festivals in Jainism fall in and around the _comasu_ (Sanskrit: _chaturmasa_) period of the calendar. It is the four month monsoon period when the Jain ascetics are mandated to remain in residence at one place in the Jain tradition, rather than be traveling or going around Indian villages and towns and never staying in one place for more than a month. The _comasu_ period allows the four orders of the Jain community to be together and participate in the festive remembrances.
 
 The most important annual Jain festival is called the _Paryushana_ by Svetambaras and _Dasa lakshana parva_ by the Digambaras. It is celebrated from the 12th day of waning moon in the traditional luni-solar month of Bhadrapada in the Indian calendar. This typically falls in August or September of the Gregorian calendar. It lasts eight days for Svetambaras, and ten days among the Digambaras. It is a time when lay people fast and pray. The five vows are emphasized during this time. Svetambaras recite the _Kalpasūtras_, while Digambaras read their own texts. The festival is an occasion where Jains make active effort to stop cruelty towards other life forms, freeing animals in captivity and preventing slaughter of animals.
 
@@ -118,7 +118,7 @@ The Jain monastic organization shares many parallels with those found in Buddhis
 
 Supplementary vows and _Sallekhana_
 
-_Doddahundi nishidhi inscription_, depicting the vow of _sallekhana_, 14th century, Karnataka|thumb Jainism also prescribes seven supplementary vows which include three _guņa vratas_ (merit vows) and four _śikşā vratas_.
+Jainism also prescribes seven supplementary vows which include three _guņa vratas_ (merit vows) and four _śikşā vratas_.
 
 The _Sallekhana_ (or _Santhara_) vow is a "religious death" ritual vow observed at the end of life, historically by Jain monks and nuns, but rare in the modern age. In this vow, there is voluntary and gradual reduction of food and liquid intake to end one's life by choice and with dispassion, In Jainism this is believed to reduce negative karma that affects a soul's future rebirths.
 
@@ -156,7 +156,7 @@ Beliefs and philosophy
 
 _Dravya_ (Substance)
 
-Dravya.jpeg The _dravya_ in Jainism are fundamental entities, called _astikaya_ (literally, 'collection that exists'). They are believed to be eternal, and the ontological building blocks that constitute and explain all existence, whether perceived or not.
+The _dravya_ in Jainism are fundamental entities, called _astikaya_ (literally, 'collection that exists'). They are believed to be eternal, and the ontological building blocks that constitute and explain all existence, whether perceived or not.
 
 According to the Śvētāmbara tradition of Jainism, there are five eternal substances in existence: Soul (_jiva_), Matter (_pudgala_), Space (_akasha_), motion (_Dharma_) and rest (_Adharma_).[21] To this list of five, the Digambara Jain tradition adds "Time" (_kala_) as the sixth eternal substance.[22] In both traditions, the substance of space is conceptualized as "world space" (_lokakasha_) and "non-world space" (_alokiakasha_). Further, both soul and matter are considered as active ontological substances, while the rest are inactive.[23] Another categorization found in Jain philosophy is _jiva_ and _ajiva_, the latter being all _dravya_ that is not _jiva_.
 
@@ -172,7 +172,7 @@ According to Dundas, _Dharma_ as a metaphysical substance in Jain philosophy may
 
 _Tattva_ (Reality)
 
-Tattva.jpg of Jain philosophy]] _Tattva_ connotes "Reality, Truth" in Jain philosophy, and is the framework for salvation. According to Digambara Jains, there are seven _tattvas_, while Śvētāmbaras believe in nine _tattvas_:
+of Jain philosophy]] _Tattva_ connotes "Reality, Truth" in Jain philosophy, and is the framework for salvation. According to Digambara Jains, there are seven _tattvas_, while Śvētāmbaras believe in nine _tattvas_:
 
 -   The sentient (_jiva_, soul)
 -   The insentient (_ajiva_)
@@ -196,23 +196,21 @@ The relationship between the soul and karma, states Padmanabh Jaini, can be expl
 
 _Tirthankara-nama-karma_ is a special type of karma, bondage of which raises a soul to the supreme status of a _tirthankara_.
 
-Jiva.jpg Jain texts state that souls exist as "clothed with material bodies", where it entirely fills up the body. There are five types of bodies in the Jaina thought: earthly (e.g. most humans, animals and plants), metamorphic (e.g. gods, hell beings, fine matter, some animals and a few humans who can morph because of their perfections), transference type (e.g. good and pure substances realized by ascetics), fiery (e.g. heat that transforms or digests food), and karmic (the substrate where the karmic particles reside and which make the soul ever changing).
+Jain texts state that souls exist as "clothed with material bodies", where it entirely fills up the body. There are five types of bodies in the Jaina thought: earthly (e.g. most humans, animals and plants), metamorphic (e.g. gods, hell beings, fine matter, some animals and a few humans who can morph because of their perfections), transference type (e.g. good and pure substances realized by ascetics), fiery (e.g. heat that transforms or digests food), and karmic (the substrate where the karmic particles reside and which make the soul ever changing).
 
 Jain philosophy further divides the earthly body by symmetry, number of sensory organs, vitalities (_ayus_), functional capabilities and whether one body hosts one soul or one body hosts many. Every living being has one to five senses, three _balas_ (power of body, language and mind), respiration (inhalation and exhalation), and life-duration. All living beings, in every realm including the gods and hell beings, accrue and destroy eight types of karma according to the elaborate theories in Jain texts. Elaborate descriptions of the shape and function of the physical and metaphysical universe, and its constituents, are also provided in the Jain texts.[26] All of these elaborate theories attempt to illustrate and consistently explain the Jain karma theory in a deeply moral framework, much like Buddhism and Hinduism but with significant differences in the details and assumptions.
 
 Saṃsāra
 
-Gati_or_existences.jpgs are reborn in various realms of existence depending on their karmas, according to Jainism.]] The conceptual framework of the Saṃsāra doctrine differs between the Jainism traditions and other Indian religions. For instance, in Jaina traditions, soul (_jiva_) is accepted as a truth, as is assumed in the Hindu traditions. It is not assumed in the Buddhist traditions. However, Saṃsāra or the cycle of rebirths, has a definite beginning and end in Jainism. The Jaina theosophy, unlike Hindu and Buddhist theosophies, asserts that each soul passes through 8,400,000 birth-situations, as they circle through _Saṃsāra_. As the soul cycles, states Padmanabh Jaini, Jainism traditions believe that it goes through five types of bodies: earth bodies, water bodies, fire bodies, air bodies and vegetable lives. With all human and non-human activities, such as rainfall, agriculture, eating and even breathing, minuscule living beings are taking birth or dying, their souls are believed to be constantly changing bodies. Perturbing, harming or killing any life form, including any human being, is considered a sin in Jainism, with negative karmic effects.
+s are reborn in various realms of existence depending on their karmas, according to Jainism.]] The conceptual framework of the Saṃsāra doctrine differs between the Jainism traditions and other Indian religions. For instance, in Jaina traditions, soul (_jiva_) is accepted as a truth, as is assumed in the Hindu traditions. It is not assumed in the Buddhist traditions. However, Saṃsāra or the cycle of rebirths, has a definite beginning and end in Jainism. The Jaina theosophy, unlike Hindu and Buddhist theosophies, asserts that each soul passes through 8,400,000 birth-situations, as they circle through _Saṃsāra_. As the soul cycles, states Padmanabh Jaini, Jainism traditions believe that it goes through five types of bodies: earth bodies, water bodies, fire bodies, air bodies and vegetable lives. With all human and non-human activities, such as rainfall, agriculture, eating and even breathing, minuscule living beings are taking birth or dying, their souls are believed to be constantly changing bodies. Perturbing, harming or killing any life form, including any human being, is considered a sin in Jainism, with negative karmic effects.
 
 Souls begin their journey in a primordial state, and exist in a state of consciousness continuum that is constantly evolving through _Saṃsāra_. Some evolve to a higher state; some regress asserts the Jaina theory, a movement that is driven by the karma. Further, Jaina traditions believe that there exist _Abhavya_ (incapable), or a class of souls that can never attain _moksha_ (liberation). The _Abhavya_ state of soul is entered after an intentional and shockingly evil act. Jainism considers souls as pluralistic each in a karma-samsara cycle, and does not subscribe to _Advaita_-style (not two) nondualism of Hinduism, or _Advaya_-style nondualism of Buddhism. A liberated soul in Jainism is one who has gone beyond _Saṃsāra_, is at the apex, is omniscient, remains there eternally, and is known as a _Siddha_.
 
 Cosmology
 
-Jain_universe.JPG
-
 Jain texts propound that the universe consists of many eternal _lokas_ (realms of existence). As in Buddhism and Hinduism, Jain cosmology believes both time and the universe are eternal without beginning and end, and that the universe is transient (impermanent in attributes) at the same time. The universe, body, matter and time are considered in Jain philosophy as separate from the soul (_jiva_ or _jivatman_). Their interaction explains life, living, death and rebirth.
 
-Jain_Cosmic_Time_Cycle.jpg According to the Jain texts, the universe is divided into three parts, the upper, middle, and lower worlds, called respectively _urdhva loka_, _madhya loka_, and _adho loka_. As with the realms of existences, _Kāla_ (time) is without beginning and eternal; the cosmic wheel of time, called _kālachakra_, rotates ceaselessly. According to Jain texts, in this part of the universe, there are six periods of time within two aeons (_ara_), and in the first aeon the universe generates, and in the next it degenerates. Thus, the worldly cycle of time is divided into two parts or half-cycles, _utsarpiṇī_ (ascending) and _avasarpiṇī_ (descending). _Utsarpiṇī_ is a period of progressive prosperity, where happiness increases, while _avasarpiṇī_ is a period of increasing sorrow and immorality. According to Jain cosmology, it is currently the fifth _ara_ of _avasarpiṇī_ (half time cycle of degeneration). The present age is one of sorrow and misery, of religious decline, where the height and shape of living beings shrink. Jain thought holds that after the sixth _ara_, the universe will be reawakened in the new cycle and the start of _utsarpiṇī_ _aras_.
+According to the Jain texts, the universe is divided into three parts, the upper, middle, and lower worlds, called respectively _urdhva loka_, _madhya loka_, and _adho loka_. As with the realms of existences, _Kāla_ (time) is without beginning and eternal; the cosmic wheel of time, called _kālachakra_, rotates ceaselessly. According to Jain texts, in this part of the universe, there are six periods of time within two aeons (_ara_), and in the first aeon the universe generates, and in the next it degenerates. Thus, the worldly cycle of time is divided into two parts or half-cycles, _utsarpiṇī_ (ascending) and _avasarpiṇī_ (descending). _Utsarpiṇī_ is a period of progressive prosperity, where happiness increases, while _avasarpiṇī_ is a period of increasing sorrow and immorality. According to Jain cosmology, it is currently the fifth _ara_ of _avasarpiṇī_ (half time cycle of degeneration). The present age is one of sorrow and misery, of religious decline, where the height and shape of living beings shrink. Jain thought holds that after the sixth _ara_, the universe will be reawakened in the new cycle and the start of _utsarpiṇī_ _aras_.
 
 According to Jain texts, sixty-three illustrious beings, called _śalākāpuruṣas_, are born on this earth in every _Dukhama-sukhamā_ _ara_. The Jain universal history is a compilation of the deeds of these illustrious persons. They comprise twenty-four _Tīrthaṅkaras_, twelve _chakravartins_, nine _balabhadra_, nine _narayana_, and nine _pratinarayana_.
 
@@ -226,7 +224,7 @@ In Jainism, perfect souls _with_ the body are called _arihant_ (victors) and per
 
 God
 
-Jain_24-Tirthankaras.jpg, ]] According to Jainism, the universe was never created, nor will it ever cease to exist. It is independent and self-sufficient, does not require a creator nor any superior power to govern it, nor a judge nor destroyer. In this belief, it is distinct from the monotheistic Abrahamic religions; it is similar to Buddhism. It shares premises with the non-theistic part of the spectrum of diverse beliefs found in different traditions within Hindu philosophy and distinct from theistic Hindu traditions.
+, ]] According to Jainism, the universe was never created, nor will it ever cease to exist. It is independent and self-sufficient, does not require a creator nor any superior power to govern it, nor a judge nor destroyer. In this belief, it is distinct from the monotheistic Abrahamic religions; it is similar to Buddhism. It shares premises with the non-theistic part of the spectrum of diverse beliefs found in different traditions within Hindu philosophy and distinct from theistic Hindu traditions.
 
 Jain texts reject the idea of a creator, ruler or destroyer god and postulate an eternal universe. However, Jainism believes in the world of gods and hell beings who are born, and who die to be reborn like living beings in the earthly realm of existence. Those souls who live in the body of a god do so because of their positive karma. They have a metamorphic body, that is they are believed in Jain thought to be able to change their body at will. The gods live a life of happiness, fun and frolic, whose wishes are automatically fulfilled. They also possess a more transcendent knowledge about material things and can anticipate events in the human realms. However, once their past karmic merit is exhausted, the souls leave the "god body" and are reborn again as humans, animals or other beings.
 
@@ -238,7 +236,7 @@ In Jainism, _jnāna_ (knowledge) is said to be of five kinds – _Kevala Jnana_
 
 Salvation, liberation
 
-MahaveeJi.jpg (top) of a Jain temple represents _Ratnatraya_ (three jewels)]]
+(top) of a Jain temple represents _Ratnatraya_ (three jewels)]]
 
 According to Jainism, purification of soul and liberation can be achieved through the path of three jewels:
 
@@ -251,7 +249,7 @@ Jain texts often add _samyak tap_ (Correct Asceticism) as the fourth jewel, ther
 
 Scriptures and texts
 
-Suryaprajnapati_Sutra.jpg Jain_Agamas.jpeg Pravachanasara4.png text along with English Translation]] Tattvarthsutra.jpg text along with English Translation]]
+text along with English Translation]] text along with English Translation]]
 
 Jain scriptures are called _Agamas_. They are believed to have been verbally transmitted by the oral tradition from one generation to the next, much like the ancient Buddhist and Hindu texts. The Jain tradition believes that their religion is eternal, and the teachings of their first _Tirthankara Rishabhanatha_ were their scriptures millions of years ago. The mythology states that the _tirthankara_ taught in a divine preaching hall called _samavasarana_, which were heard by the gods, the ascetics and laypersons. The discourse delivered is called _Śhrut Jnāna_ and comprises eleven _angas_ and fourteen _purvas_. The discourse is remembered and transmitted by the _Ganadharas_ (chief disciples), and is composed of twelve _angas_ (departments). It is symbolically represented by a tree with twelve branches.
 
@@ -267,7 +265,7 @@ In the Digambara tradition, the texts written by Kundakunda are highly revered a
 
 Influence on Indian literature
 
-Mangulam_inscription.jpg inscription dated 2nd century BCE]] Parts of the Sangam literature in Tamil are attributed to Jaina authors. The authenticity and interpolations are controversial, because the Sangam literature presents Hindu ideas. Some scholars state that the Jain portions of the Sangam literature were added about or after the 8th-century CE, and they are not the ancient layer.
+inscription dated 2nd century BCE]] Parts of the Sangam literature in Tamil are attributed to Jaina authors. The authenticity and interpolations are controversial, because the Sangam literature presents Hindu ideas. Some scholars state that the Jain portions of the Sangam literature were added about or after the 8th-century CE, and they are not the ancient layer.
 
 Tamil Jain texts such as the _Cīvaka Cintāmaṇi_ and _Nālaṭiyār_ are credited to Digambara Jain authors. These texts have seen interpolations and revisions. For example, it is generally accepted now that the Jain nun Kanti inserted a 445-verse poem into _Cīvaka Cintāmaṇi_ in the 12th century. The Tamil Jain literature, according to Dundas, has been "lovingly studied and commented upon for centuries by Hindus as well as Jains". The themes of two of the Tamil epics, including the _Silapadikkaram_, have an embedded influence of Jainism.
 
@@ -291,7 +289,7 @@ Some early colonial scholars stated that Jainism like Buddhism was, in part, a r
 
 Art and architecture
 
-Thirakoil-Parsava_nathar.JPG, Tamil Nadu]] Jainism has contributed significantly to Indian art and architecture. Jain arts depict life legends of _tirthankara_ or other important people, particularly with them in a seated or standing meditative posture. _Yakshas_ and _yakshinis_, attendant spirits who guard the _tirthankara_, are usually shown with them. The earliest known Jain image is in the Patna museum. It is dated approximately to the 3rd century BCE. Bronze images of Pārśva can be seen in the Prince of Wales Museum, Mumbai, and in the Patna museum; these are dated to the 2nd century BCE. Jain_votive_plaque.jpg, Mathura, Uttar Pradesh]] KHANDAGIRI_AND_UDAYGIRI_Cave_Inscriptions_1.jpg.[31]]] _Ayagapata_ is a type of votive tablet used in Jainism for donation and worship in the early centuries. These tablets are decorated with objects and designs central to Jain worship such as the _stupa_, _dharmacakra_ and _triratna_. They present simultaneous trends or image and symbol worship. Numerous such stone tablets were discovered during excavations at ancient Jain sites like Kankali Tila near Mathura in Uttar Pradesh, India. The practice of donating these tablets is documented from 1st century BCE to 3rd century CE.[32][33][34]
+, Tamil Nadu]] Jainism has contributed significantly to Indian art and architecture. Jain arts depict life legends of _tirthankara_ or other important people, particularly with them in a seated or standing meditative posture. _Yakshas_ and _yakshinis_, attendant spirits who guard the _tirthankara_, are usually shown with them. The earliest known Jain image is in the Patna museum. It is dated approximately to the 3rd century BCE. Bronze images of Pārśva can be seen in the Prince of Wales Museum, Mumbai, and in the Patna museum; these are dated to the 2nd century BCE. , Mathura, Uttar Pradesh]] .[31]]] _Ayagapata_ is a type of votive tablet used in Jainism for donation and worship in the early centuries. These tablets are decorated with objects and designs central to Jain worship such as the _stupa_, _dharmacakra_ and _triratna_. They present simultaneous trends or image and symbol worship. Numerous such stone tablets were discovered during excavations at ancient Jain sites like Kankali Tila near Mathura in Uttar Pradesh, India. The practice of donating these tablets is documented from 1st century BCE to 3rd century CE.[32][33][34]
 
 _Samavasarana_, a preaching hall of _tirthankaras_ with various beings concentrically placed, is an important theme of Jain art.
 
@@ -339,7 +337,7 @@ A large number of _ayagapata_, votive tablets for offerings and the worship of _
 
 Symbols
 
-Jain_Prateek_Chihna.svg Jain icons and arts incorporate symbols such as swastika, om, and the _Ashtamangala_.
+Jain icons and arts incorporate symbols such as swastika, om, and the _Ashtamangala_.
 
 Swastika
 
@@ -351,7 +349,7 @@ The hand with a wheel on the palm symbolizes _ahimsā_ in Jainism with _ahiṃs�
 
 _Om_
 
-Om_jaïn_orange.svg in Jainism]] In Jainism, _Om_ is considered a condensed form of reference to the _Pañca-Parameṣṭhi_, by their initials _A+A+A+U+M_ (__). According to the _Dravyasamgraha_ by Acharya Nemicandra, _AAAUM_ (or just _Om_) is a one syllable short form of the initials of the five parameshthis: "_Arihant_, _Ashiri_, _Acharya_, _Upajjhaya_, _Muni_".[50] The _Om_ symbol is also used in ancient Jain scriptures to represent the five lines of the _Ṇamōkāra_ Mantra.
+in Jainism]] In Jainism, _Om_ is considered a condensed form of reference to the _Pañca-Parameṣṭhi_, by their initials _A+A+A+U+M_ (__). According to the _Dravyasamgraha_ by Acharya Nemicandra, _AAAUM_ (or just _Om_) is a one syllable short form of the initials of the five parameshthis: "_Arihant_, _Ashiri_, _Acharya_, _Upajjhaya_, _Muni_".[50] The _Om_ symbol is also used in ancient Jain scriptures to represent the five lines of the _Ṇamōkāra_ Mantra.
 
 Jain emblem
 
@@ -359,7 +357,7 @@ In 1974, on the 2500th anniversary of the nirvana of Mahāvīra, the Jain commun
 
 Jain flag
 
-Jain_flag.jpg The five colours of the Jain flag represent the _Pañca-Parameṣṭhi_ and the five vows, small as well as great:
+The five colours of the Jain flag represent the _Pañca-Parameṣṭhi_ and the five vows, small as well as great:
 
 -   White – represents the _arihants_, souls who have conquered all passions (anger, attachments, aversion) and have attained omniscience and eternal bliss through self-realisation. It also denotes peace or _ahiṃsā_ (non-violence ).
 -   Red – represents the _Siddha_, souls that have attained salvation and truth. It also denotes _satya_ (truthfulness)
@@ -376,7 +374,7 @@ In the Digambara tradition, the eight auspicious symbols are Chatra, _Dhvaja_, _
 
 History
 
-Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG, believed to have lived over a million years ago, is considered the traditional founder of Jainism.]]
+, believed to have lived over a million years ago, is considered the traditional founder of Jainism.]]
 
 Origins
 
@@ -388,7 +386,7 @@ There is inscriptional evidence for the presence of Jain monks in south India by
 
 Political history
 
-Udayagiri_Caves_-_Rani_Gumpha_01.jpg built by King Kharavela of Mahameghavahana dynasty in 2nd century BCE]] Information regarding the political history of Jainism is uncertain and fragmentary. Jains consider the king Bimbisara (c. 558–491 BCE), Ajatashatru (c. 492–460 BCE), and Udayin (c. 460–440 BCE) of the Haryanka dynasty as a patron of Jainism.
+built by King Kharavela of Mahameghavahana dynasty in 2nd century BCE]] Information regarding the political history of Jainism is uncertain and fragmentary. Jains consider the king Bimbisara (c. 558–491 BCE), Ajatashatru (c. 492–460 BCE), and Udayin (c. 460–440 BCE) of the Haryanka dynasty as a patron of Jainism.
 
 Jain tradition states that Chandragupta Maurya (322–298 BCE), the founder of the Mauryan Empire and grandfather of Ashoka, became a monk and disciple of Jain ascetic Bhadrabahu during later part of his life. According to historians, Chandragupta's story appears in various versions in Buddhist, Jain, and Hindu texts. Broadly, Chandragupta was born into a humble family, abandoned, raised as a son by another family, then with the training and counsel of Chanakya of _Arthashastra_ fame ultimately built one of the largest empires in ancient India.[55][56][57] According to Jain history, late in his life, Chandragupta renounced the empire he built and handed over his power to his son, became a Jaina monk, and headed to meditate and pursue spirituality in the Deccan region, under the Jaina teacher Bhadrabahu at Shravanabelagola. There state Jain texts, he died by fasting, a Jaina ascetic method of ending one's life by choice (_Sallenkana vrata_).[58][59] The 3rd century BCE emperor Ashoka, in his pillar edicts, mentions several ancient Indian religious groups including the _Niganthas_ (Jaina).
 
@@ -400,17 +398,17 @@ In the second half of the 1st century CE, Hindu kings sponsored and helped build
 
 Interaction with other religions
 
-Shrine_with_Four_Jinas_(Rishabhanatha_(Adinatha)),_Parshvanatha,_Neminatha,_and_Mahavira)_LACMA_M.85.55_(1_of_4).jpg Mahāvīra and Buddha are generally accepted as contemporaries (circa 5th century BCE).[64] The interaction between Jainism and Buddhism began with the Buddha. Buddhist texts refer to Mahāvīra as _Nigantha Nataputta_.
+Mahāvīra and Buddha are generally accepted as contemporaries (circa 5th century BCE).[64] The interaction between Jainism and Buddhism began with the Buddha. Buddhist texts refer to Mahāvīra as _Nigantha Nataputta_.
 
 Beyond the times of the Mahāvīra and the Buddha, the two ascetic _sramana_ (seeker) religions competed for followers as well as the merchant trade networks that sustained them.[65] Their mutual interaction, along with those of Hindu traditions, have been significant. In some cases the titles of the Buddhist and Jaina texts are the same or similar but present different doctrines.
 
 Royal patronage has been a key factor in the growth as well as the decline of Jainism. The Pallava King Mahendravarman I (600630 CE) converted from Jainism to Shaivism under the influence of Appar. His work _Mattavilasa Prahasana_ ridicules certain Shaiva sects and the Buddhists and also expresses contempt towards Jain ascetics. Sambandar converted the contemporary Pandya king to Shaivism. During the 11th century, Basava, a minister to the Jain Kalachuri king Bijjala, succeeded in converting numerous Jains to the Lingayat Shaivite sect. The Lingayats destroyed various temples belonging to Jains and adapted them to their use. The Hoysala King Vishnuvardhana (c.11081152 CE) became a follower of the Vaishnava sect under the influence of Ramanuja, after which Vaishnavism grew rapidly in what is now Karnataka.
 
-La_grotte_Jain_Indra_Sabha_Ellora_Caves,_India.jpg, are co-located with Hindu and Buddhist monuments.]] Jainism and Hinduism influenced each other. Jain texts declare some of the Hindu gods as blood relatives of legendary _tirthankara_. Neminatha, the 22nd _tirthankara_ for example is presented as a cousin of Krishna in Jain Puranas and other texts.[66] However, Jain scholars such as Haribhadra also wrote satires about Hindu gods, mocking them with novel outrageous stories where the gods misbehave and act unethically.[67] The Hindu gods are presented by some Jain writers as persecuting, tempting, afraid of, or serving a legendary Jina before he gains omniscience. In other stories, the Hindu deities such as Vishnu, or Rama and Sita come to pay respect to a Jina at a major Jain pilgrimage site such as Mount Satrunjaya.
+, are co-located with Hindu and Buddhist monuments.]] Jainism and Hinduism influenced each other. Jain texts declare some of the Hindu gods as blood relatives of legendary _tirthankara_. Neminatha, the 22nd _tirthankara_ for example is presented as a cousin of Krishna in Jain Puranas and other texts.[66] However, Jain scholars such as Haribhadra also wrote satires about Hindu gods, mocking them with novel outrageous stories where the gods misbehave and act unethically.[67] The Hindu gods are presented by some Jain writers as persecuting, tempting, afraid of, or serving a legendary Jina before he gains omniscience. In other stories, the Hindu deities such as Vishnu, or Rama and Sita come to pay respect to a Jina at a major Jain pilgrimage site such as Mount Satrunjaya.
 
 The Jain and Hindu communities have often been very close and mutually accepting. Some Hindu temples have included a Jain _Tirthankara_ within its premises in a place of honour.[68] Similarly numerous temple complexes feature both Hindu and Jain monuments, with Badami cave temples and Khajuraho among some of the most well known.[69]
 
-Gori_Mandar.jpg in Nagarparkar, Pakistan, a pilgrimage site before 1947.[70]]] Jainism faced persecution during and after the Muslim conquests on the Indian subcontinent. Muslims rulers, such as Mahmud Ghazni (1001), Mohammad Ghori (1175) and Ala-ud-din Muhammed Shah Khalji (1298) further oppressed the Jain community. They vandalised idols and destroyed temples or converted them into mosques. They also burned Jain books and killed Jains. There were significant exceptions, such as Emperor Akbar (15421605) whose legendary religious tolerance, out of respect for Jains, ordered the release of caged birds and banned the killing of animals on the Jain festival of Paryusan. After Akbar, Jains faced an intense period of Muslim persecution in the 17th century.[71]
+in Nagarparkar, Pakistan, a pilgrimage site before 1947.[70]]] Jainism faced persecution during and after the Muslim conquests on the Indian subcontinent. Muslims rulers, such as Mahmud Ghazni (1001), Mohammad Ghori (1175) and Ala-ud-din Muhammed Shah Khalji (1298) further oppressed the Jain community. They vandalised idols and destroyed temples or converted them into mosques. They also burned Jain books and killed Jains. There were significant exceptions, such as Emperor Akbar (15421605) whose legendary religious tolerance, out of respect for Jains, ordered the release of caged birds and banned the killing of animals on the Jain festival of Paryusan. After Akbar, Jains faced an intense period of Muslim persecution in the 17th century.[71]
 
 The Jain community were the traditional bankers and financiers, and this significantly impacted the Muslim rulers. However, they rarely were a part of the political power during the Islamic rule period of the Indian subcontinent.
 
@@ -423,11 +421,11 @@ The British colonial government in India, as well as Indian princely states, pas
 
 Jains in the modern era
 
-Pakbirra_Jain_Shrine_of_Purulia_03.jpg ]] Followers of the path practised by the Jinas are known as Jains. The majority of Jains currently reside in India. With four to five million followers worldwide, Jainism is relatively small compared to major world religions. Jains form 0.37% of India's population. Most of them are concentrated in the states of Maharashtra (1.4 million in 2011,[76] 31.46% of Indian Jains), Rajasthan (13.97%), Gujarat (13.02%) and Madhya Pradesh (12.74%). Karnataka (9.89%), Uttar Pradesh (4.79%), Delhi (3.73%) and Tamil Nadu (2.01%) also have significant Jain populations.[77] Outside India, Jain communities can be found in Europe, the United States, Canada, Australia and Kenya.
+]] Followers of the path practised by the Jinas are known as Jains. The majority of Jains currently reside in India. With four to five million followers worldwide, Jainism is relatively small compared to major world religions. Jains form 0.37% of India's population. Most of them are concentrated in the states of Maharashtra (1.4 million in 2011,[76] 31.46% of Indian Jains), Rajasthan (13.97%), Gujarat (13.02%) and Madhya Pradesh (12.74%). Karnataka (9.89%), Uttar Pradesh (4.79%), Delhi (3.73%) and Tamil Nadu (2.01%) also have significant Jain populations.[77] Outside India, Jain communities can be found in Europe, the United States, Canada, Australia and Kenya.
 
 According to the National Family and Health Survey (NFHS-4) conducted in 2015–16, Jains form the wealthiest community in India.[78] Jains have the highest literacy rate (87%) in India, in the 7-years to oldest age group, according to its 2011 census. The Jaina community also has the highest number of college graduates.[79] Excluding the retired senior citizens, Jain literacy rate in India exceeded 97%. The female to male child sex ratio in the 0–6 year age was second lowest for Jains (870 girls per 1,000 boys), higher than Sikhs in India. Further, Jain males have the highest work participation rates, while Jain females have the lowest work participation rates in India.[80]
 
-Major Jain communities: Deogarh,_UP._Jain_temple_complex.jpg ]]
+Major Jain communities: ]]
 
 -   Jain Bunt are a Jain community from Karnataka, India.[81]
 -   Jain Komati is a small community scattered all over South and Central India and patrons of many Jain Institutions.[82][83]

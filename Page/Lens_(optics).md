@@ -1,13 +1,11 @@
 Lens}}
 
-BiconvexLens.jpg Lens_and_wavefronts.gif
-
 A LENS is a transmissive optical device that focuses or disperses a light beam by means of refraction. A simple lens consists of a single piece of transparent material, while a compound lens consists of several simple lenses (_elements_), usually arranged along a common axis. Lenses are made from materials such as glass or plastic, and are ground and polished or molded to a desired shape. A lens can focus light to form an image, unlike a prism, which refracts light without focusing. Devices that similarly focus or disperse waves and radiation other than visible light are also called lenses, such as microwave lenses, electron lenses, acoustic lenses, or explosive lenses.
 
 
 History
 
-Optics_from_Roger_Bacon's_De_multiplicatone_specierum.jpg, 13th century]] The word _lens_ comes from '' lēns '', the Latin name of the lentil, because a double-convex lens is lentil-shaped. The lentil plant also gives its name to a geometric figure.The variant spelling _lense_ is sometimes seen. While it is listed as an alternative spelling in some dictionaries, most mainstream dictionaries do not list it as acceptable.
+, 13th century]] The word _lens_ comes from '' lēns '', the Latin name of the lentil, because a double-convex lens is lentil-shaped. The lentil plant also gives its name to a geometric figure.The variant spelling _lense_ is sometimes seen. While it is listed as an alternative spelling in some dictionaries, most mainstream dictionaries do not list it as acceptable.
 
 -   Reports "lense" as listed in some dictionaries, but not generally considered acceptable.
 
@@ -36,19 +34,19 @@ More complex are aspheric lenses. These are lenses where one or both surfaces ha
 
 Types of simple lenses
 
-Lenses_en.svg Lenses are classified by the curvature of the two optical surfaces. A lens is _biconvex_ (or _double convex_, or just _convex_) if both surfaces are convex. If both surfaces have the same radius of curvature, the lens is _equiconvex_. A lens with two concave surfaces is _biconcave_ (or just _concave_). If one of the surfaces is flat, the lens is _plano-convex_ or _plano-concave_ depending on the curvature of the other surface. A lens with one convex and one concave side is _convex-concave_ or _meniscus_. It is this type of lens that is most commonly used in corrective lenses.
+Lenses are classified by the curvature of the two optical surfaces. A lens is _biconvex_ (or _double convex_, or just _convex_) if both surfaces are convex. If both surfaces have the same radius of curvature, the lens is _equiconvex_. A lens with two concave surfaces is _biconcave_ (or just _concave_). If one of the surfaces is flat, the lens is _plano-convex_ or _plano-concave_ depending on the curvature of the other surface. A lens with one convex and one concave side is _convex-concave_ or _meniscus_. It is this type of lens that is most commonly used in corrective lenses.
 
 If the lens is biconvex or plano-convex, a collimated beam of light passing through the lens converges to a spot (a _focus_) behind the lens. In this case, the lens is called a _positive_ or _converging_ lens. For a thin lens in air, the distance from the lens to the spot is the focal length of the lens, which is commonly represented by _f_ in diagrams and equations. An extended hemispherical lens is a special type of plano-convex lens, in which the lens's curved surface is a full hemisphere and the lens is much thicker than the radius of curvature.
 
-  ----------- -----------------------
-  lens1.svg   Large_convex_lens.jpg
-  ----------- -----------------------
+  -- --
+
+  -- --
 
 If the lens is biconcave or plano-concave, a collimated beam of light passing through the lens is diverged (spread); the lens is thus called a _negative_ or _diverging_ lens. The beam, after passing through the lens, appears to emanate from a particular point on the axis in front of the lens. For a thin lens in air, the distance from this point to the lens is the focal length, though it is negative with respect to the focal length of a converging lens.
 
-  ------------ ------------------
-  lens1b.svg   concave_lens.jpg
-  ------------ ------------------
+  -- --
+
+  -- --
 
 Convex-concave (meniscus) lenses can be either positive or negative, depending on the relative curvatures of the two surfaces. A _negative meniscus_ lens has a steeper concave surface and is thinner at the centre than at the periphery. Conversely, a _positive meniscus_ lens has a steeper convex surface and is thicker at the centre than at the periphery. An ideal thin lens with two surfaces of equal curvature would have zero optical power, meaning that it would neither converge nor diverge light. All real lenses have nonzero thickness, however, which makes a real lens with identical curved surfaces slightly positive. To obtain exactly zero optical power, a meniscus lens must have slightly unequal curvatures to account for the effect of the lens' thickness.
 
@@ -102,9 +100,9 @@ _x_₁_x_₂ = _f_²,​
 
 where x₁ = S₁ − f and x₂ = S₂ − f.
 
-lens3.svg Therefore, if an object is placed at a distance from a positive lens of focal length _f_, we will find an image distance _S_₂ according to this formula. If a screen is placed at a distance _S_₂ on the opposite side of the lens, an image is formed on it. This sort of image, which can be projected onto a screen or image sensor, is known as a _real image_.
+Therefore, if an object is placed at a distance from a positive lens of focal length _f_, we will find an image distance _S_₂ according to this formula. If a screen is placed at a distance _S_₂ on the opposite side of the lens, an image is formed on it. This sort of image, which can be projected onto a screen or image sensor, is known as a _real image_.
 
-lens3b.svg.]] This is the principle of the camera, and of the human eye. The focusing adjustment of a camera adjusts _S_₂, as using an image distance different from that required by this formula produces a defocused (fuzzy) image for an object at a distance of _S_₁ from the camera. Put another way, modifying _S_₂ causes objects at a different _S_₁ to come into perfect focus.
+.]] This is the principle of the camera, and of the human eye. The focusing adjustment of a camera adjusts _S_₂, as using an image distance different from that required by this formula produces a defocused (fuzzy) image for an object at a distance of _S_₁ from the camera. Put another way, modifying _S_₂ causes objects at a different _S_₁ to come into perfect focus.
 
 In some cases _S_₂ is negative, indicating that the image is formed on the opposite side of the lens from where those rays are being considered. Since the diverging light rays emanating from the lens never come into focus, and those rays are not physically present at the point where they _appear_ to form an image, this is called a virtual image. Unlike real images, a virtual image cannot be projected on a screen, but appears to an observer looking through the lens as if it were a real object at the location of that virtual image. Likewise, it appears to a subsequent lens as if it were an object at that location, so that second lens could again focus that light into a real image, _S_₁ then being measured from the virtual image location behind the first lens to the second lens. This is exactly what the eye does when looking through a magnifying glass. The magnifying glass creates a (magnified) virtual image behind the magnifying glass, but those rays are then re-imaged by the lens of the eye to create a _real image_ on the retina.
 
@@ -127,7 +125,7 @@ Using an inappropriate measurement of magnification can be formally correct but 
 
 In the extreme case where an object is an infinite distance away, , and , indicating that the object would be imaged to a single point in the focal plane. In fact, the diameter of the projected spot is not actually zero, since diffraction places a lower limit on the size of the point spread function. This is called the diffraction limit.
 
-Thin_lens_images.svg; and K (at _f_/2) has a double-size, virtual and upright image.]]
+; and K (at _f_/2) has a double-size, virtual and upright image.]]
 
 
 Aberrations
@@ -138,21 +136,15 @@ Spherical aberration
 
 _Spherical aberration_ occurs because spherical surfaces are not the ideal shape for a lens, but are by far the simplest shape to which glass can be ground and polished, and so are often used. Spherical aberration causes beams parallel to, but distant from, the lens axis to be focused in a slightly different place than beams close to the axis. This manifests itself as a blurring of the image. Lenses in which closer-to-ideal, non-spherical surfaces are used are called _aspheric_ lenses. These were formerly complex to make and often extremely expensive, but advances in technology have greatly reduced the manufacturing cost for such lenses. Spherical aberration can be minimised by carefully choosing the surface curvatures for a particular application. For instance, a plano-convex lens, which is used to focus a collimated beam, produces a sharper focal spot when used with the convex side towards the beam source.
 
-lens5.svg
-
 Coma
 
 _Coma_, or _comatic aberration_, derives its name from the comet-like appearance of the aberrated image. Coma occurs when an object off the optical axis of the lens is imaged, where rays pass through the lens at an angle to the axis θ. Rays that pass through the centre of a lens of focal length _f_ are focused at a point with distance from the axis. Rays passing through the outer margins of the lens are focused at different points, either further from the axis (positive coma) or closer to the axis (negative coma). In general, a bundle of parallel rays passing through the lens at a fixed distance from the centre of the lens are focused to a ring-shaped image in the focal plane, known as a _comatic circle_. The sum of all these circles results in a V-shaped or comet-like flare. As with spherical aberration, coma can be minimised (and in some cases eliminated) by choosing the curvature of the two lens surfaces to match the application. Lenses in which both spherical aberration and coma are minimised are called _bestform_ lenses.
-
-lens-coma.svg
 
 Chromatic aberration
 
 _Chromatic aberration_ is caused by the dispersion of the lens material—the variation of its refractive index, _n_, with the wavelength of light. Since, from the formulae above, _f_ is dependent upon _n_, it follows that light of different wavelengths is focused to different positions. Chromatic aberration of a lens is seen as fringes of colour around the image. It can be minimised by using an achromatic doublet (or _achromat_) in which two materials with differing dispersion are bonded together to form a single lens. This reduces the amount of chromatic aberration over a certain range of wavelengths, though it does not produce perfect correction. The use of achromats was an important step in the development of the optical microscope. An apochromat is a lens or lens system with even better chromatic aberration correction, combined with improved spherical aberration correction. Apochromats are much more expensive than achromats.
 
 Different lens materials may also be used to minimise chromatic aberration, such as specialised coatings or lenses made from the crystal fluorite. This naturally occurring substance has the highest known Abbe number, indicating that the material has low dispersion.
-
-Chromatic_aberration_lens_diagram.svg Lens6b-en.svg
 
 Other types of aberration
 
@@ -198,7 +190,7 @@ Other types
 
 Cylindrical lenses have curvature along only one axis. They are used to focus light into a line, or to convert the elliptical light from a laser diode into a round beam. They are also used in motion picture anamorphic lenses.
 
-Flat_flexible_plastic_sheet_lens.JPG.]] A Fresnel lens has its optical surface broken up into narrow rings, allowing the lens to be much thinner and lighter than conventional lenses. Durable Fresnel lenses can be molded from plastic and are inexpensive.
+.]] A Fresnel lens has its optical surface broken up into narrow rings, allowing the lens to be much thinner and lighter than conventional lenses. Durable Fresnel lenses can be molded from plastic and are inexpensive.
 
 Lenticular lenses are arrays of microlenses that are used in lenticular printing to make images that have an illusion of depth or that change when viewed from different angles.
 

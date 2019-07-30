@@ -17,7 +17,7 @@ In the United States, even if a criminal charge for the defendant's conduct is n
 
 Typical misdemeanors and sentences
 
-Graffiti_in_Bucharest,_July_2007.jpg is a common form of misdemeanor vandalism, although in many states it is now a felony.]] In some jurisdictions, those who are convicted of a misdemeanor are known as MISDEMEANANTS (as contrasted with those convicted of a felony who are known as _felons_). Depending on the jurisdiction, examples of misdemeanors may include: petty theft, prostitution, public intoxication, simple assault, disorderly conduct, trespass, vandalism, reckless driving, discharging a firearm within city limits, possession of cannabis and in some jurisdictions first-time possession of certain other drugs, and other similar crimes.
+is a common form of misdemeanor vandalism, although in many states it is now a felony.]] In some jurisdictions, those who are convicted of a misdemeanor are known as MISDEMEANANTS (as contrasted with those convicted of a felony who are known as _felons_). Depending on the jurisdiction, examples of misdemeanors may include: petty theft, prostitution, public intoxication, simple assault, disorderly conduct, trespass, vandalism, reckless driving, discharging a firearm within city limits, possession of cannabis and in some jurisdictions first-time possession of certain other drugs, and other similar crimes.
 
 Punishments for misdemeanors
 
@@ -36,7 +36,7 @@ In Singapore, misdemeanors generally are sentenced to months of jail sentence bu
 
 Misdemeanor classes
 
-Macro_cannabis_bud.jpg may be an unclassified misdemeanor in parts of the US.]] Depending on the jurisdiction, several classes of misdemeanors may exist; the forms of punishment can vary widely between those classes. For example, the federal and some state governments in the United States divide misdemeanors into several classes, with certain classes punishable by jail time and others carrying only a fine.[23] In New York law, a Class A Misdemeanor carries a maximum sentence of one year of imprisonment, while a Class B Misdemeanor "shall not exceed three months".[24]
+may be an unclassified misdemeanor in parts of the US.]] Depending on the jurisdiction, several classes of misdemeanors may exist; the forms of punishment can vary widely between those classes. For example, the federal and some state governments in the United States divide misdemeanors into several classes, with certain classes punishable by jail time and others carrying only a fine.[23] In New York law, a Class A Misdemeanor carries a maximum sentence of one year of imprisonment, while a Class B Misdemeanor "shall not exceed three months".[24]
 
 Unclassified misdemeanors
 

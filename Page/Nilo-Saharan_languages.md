@@ -61,7 +61,7 @@ There is little doubt that the constituent families of Nilo-Saharan—of which o
 
 Greenberg 1963
 
-Lenguas_nilo-saharianas.PNG Joseph Greenberg, in _The Languages of Africa_, set up the family with the following branches. The Chari–Nile core are the connections that had been suggested by previous researchers.
+Joseph Greenberg, in _The Languages of Africa_, set up the family with the following branches. The Chari–Nile core are the connections that had been suggested by previous researchers.
 
 Gumuz was not recognized as distinct from neighboring Koman; it was separated out (forming "Komuz") by Bender (1989).
 
@@ -139,7 +139,7 @@ In summarizing the literature to date, Hammarström et al. in _Glottolog_ do not
 
 Starostin (2016)
 
-NiloSaharanStarostin.png Georgiy Starostin (2016),[20] using lexicostatistics based on Swadesh lists, is slightly more inclusive than Glottolog, and in addition finds probable and possible links between the families that will require reconstruction of the protolanguages for confirmation.
+Georgiy Starostin (2016),[20] using lexicostatistics based on Swadesh lists, is slightly more inclusive than Glottolog, and in addition finds probable and possible links between the families that will require reconstruction of the protolanguages for confirmation.
 
 In addition to the families listed in _Glottolog_ (previous section), Starostin considers the following to be established:
 

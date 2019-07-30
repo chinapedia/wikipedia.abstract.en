@@ -1,4 +1,4 @@
-Knights_of_the_Lambda_Calculus.svg. Y in the emblem refers to the fixed-point combinator and the reappearance of the picture in itself refers to recursion.]]
+. Y in the emblem refers to the fixed-point combinator and the reappearance of the picture in itself refers to recursion.]]
 
 The KNIGHTS OF THE LAMBDA CALCULUS is a semi-fictional organization of expert Lisp and Scheme hackers. The name refers to the lambda calculus, a mathematical formalism invented by Alonzo Church, with which Lisp is intimately connected, and references the Knights Templar.
 

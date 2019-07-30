@@ -33,8 +33,6 @@ After the 2002 debacle, the PDS adopted a new programme and re-installed a respe
 
 Alliance with the WASG
 
-Wahl_2005_Linke.jpg
-
 After marathon negotiations, the PDS and WASG agreed on terms for a combined ticket to compete in the 2005 federal election and pledged to unify into a single left-wing party in 2006 or 2007. According to the pact, the parties did not compete against each another in any district. Instead, WASG candidates—including the former SPD leader, Oskar Lafontaine—were nominated on the PDS electoral list. To symbolize the new relationship, the PDS changed its name to The Left Party/PDS or The Left/PDS, with the letters "PDS" optional in western states where many voters still regarded the PDS as an "eastern" party.
 
 The alliance provided a strong electoral base in the east and benefited from WASG's growing voter potential in the west. Gregor Gysi, returning to public life only months after brain surgery and two heart attacks, shared the spotlight with Lafontaine as co-leader of the party's energetic and professional campaign. Both politicians co-chaired The Left's caucus in the German Bundestag after the election.
@@ -44,8 +42,6 @@ Polls early in the summer showed the unified Left list on a "high-altitude fligh
 Although Germany's once-powerful trade unions distanced themselves from The Left in the 2005 federal election, some union leaders expressed interest in cooperating with the party after the election. A number of regional trade union leaders and mid-level functionaries were active supporters.
 
 2005 federal election outcome
-
-FRGElections.PNG
 
 At the 2005 federal election, the Left Party became the fourth-largest party in the Bundestag, with 54 Members of Parliament (MPs) (full list), ahead of the Greens (51) but behind the Free Democratic Party (61). Three Left Party MPs were directly elected on a constituency basis: Gregor Gysi, Gesine Lötzsch and Petra Pau, all in Eastern Berlin constituencies. In addition, 51 Left Party MPs were elected through the party list element of Germany's Additional Member System of proportional representation. These include Lothar Bisky, Katja Kipping, Oskar Lafontaine, and Paul Schäfer. Besides Lafontaine, a number of other prominent SPD defectors won election to the Bundestag on the Left Party list, including a prominent leader of Germany's Turkish minority, Hakkı Keskin, German Federal Constitutional Court justice Wolfgang Neskovic, and the former SPD leader in Baden-Württemberg, Ulrich Maurer.
 

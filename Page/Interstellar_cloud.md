@@ -1,4 +1,4 @@
-Carved_by_Massive_Stars.jpg NGC 6357. It glows with the characteristic red of an H II region.[1]]]
+NGC 6357. It glows with the characteristic red of an H II region.[1]]]
 
 An INTERSTELLAR CLOUD is generally an accumulation of gas, plasma, and dust in our and other galaxies. Put differently, an interstellar cloud is a denser-than-average region of the interstellar medium, (ISM), the matter and radiation that exists in the space between the star systems in a galaxy. Depending on the density, size, and temperature of a given cloud, its hydrogen can be neutral, making an H I region; ionized, or plasma making it an H II region; or molecular, which are referred to simply as molecular clouds, or sometimetimes dense clouds. Neutral and ionized clouds are sometimes also called _diffuse clouds_. An interstellar cloud is formed by the gas and dust particles from a red giant in its later life.
 
@@ -12,14 +12,14 @@ Radio telescopes can also scan over the frequencies from one point in the map, r
 
 Unexpected chemicals detected in interstellar clouds
 
-Diving_into_the_Lagoon_Nebula.OGG.]] Until recently the rates of reactions in interstellar clouds were expected to be very slow, with minimal products being produced due to the low temperature and density of the clouds. However, organic molecules were observed in the spectra that scientists would not have expected to find under these conditions, such as formaldehyde, methanol, and vinyl alcohol. The reactions needed to create such substances are familiar to scientists only at the much higher temperatures and pressures of earth and earth-based laboratories. The fact that they were found indicates that these chemical reactions in interstellar clouds take place faster than suspected, likely in gas-phase reactions unfamiliar to organic chemistry as observed on earth.[3] These reactions are studied in the CRESU experiment.
+.]] Until recently the rates of reactions in interstellar clouds were expected to be very slow, with minimal products being produced due to the low temperature and density of the clouds. However, organic molecules were observed in the spectra that scientists would not have expected to find under these conditions, such as formaldehyde, methanol, and vinyl alcohol. The reactions needed to create such substances are familiar to scientists only at the much higher temperatures and pressures of earth and earth-based laboratories. The fact that they were found indicates that these chemical reactions in interstellar clouds take place faster than suspected, likely in gas-phase reactions unfamiliar to organic chemistry as observed on earth.[3] These reactions are studied in the CRESU experiment.
 
 Interstellar clouds also provide a medium to study the presence and proportions of metals in space. The presence and ratios of these elements may help develop theories on the means of their production, especially when their proportions are inconsistent with those expected to arise from stars as a result of fusion and thereby suggest alternate means, such as cosmic ray spallation.[4]
 
 
 High-velocity cloud
 
-IRAS_10082-5647.jpg IRAS 10082-5647 observed by the Hubble Space Telescope.]]
+IRAS 10082-5647 observed by the Hubble Space Telescope.]]
 
 These interstellar clouds possess a velocity higher than can be explained by the rotation of the Milky Way.[5] By definition, these clouds must have a v_(lsr) greater than 90 km s^(−1), where v_(lsr) is the local standard rest velocity. They are detected primarily in the 21 cm line of neutral hydrogen,[6] and typically have a lower portion of heavy elements than is normal for interstellar clouds in the Milky Way.
 

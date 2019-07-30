@@ -1,5 +1,3 @@
-Monrovia_3349747776_dbfca1560f.jpg
-
 COMMUNICATIONS IN LIBERIA include the press, radio, television, fixed and mobile telephones, and the Internet.
 
 Much of Liberia's communications infrastructure was destroyed or plundered during the two civil wars (1989-1996 and 1999-2003).[1] With low rates of adult literacy and high poverty rates, television and newspaper use is limited, leaving radio as the predominant means of communicating with the public.[2]
@@ -76,8 +74,6 @@ Television
 
 
 Telephones
-
-ComiumBuildingLiberia_2006.jpg
 
 -   Calling code: +231
 -   International call prefix: 00[44]

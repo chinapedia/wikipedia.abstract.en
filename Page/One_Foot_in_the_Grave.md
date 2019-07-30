@@ -20,7 +20,7 @@ Despite Margaret's frequent exasperation with her husband's antics, the series s
 
 Characters
 
-One_Foot_In_The_Grave_Cast.jpg, Angus Deayton,
+, Angus Deayton,
 Annette Crosbie, Richard Wilson]]
 
 Main characters

@@ -12,8 +12,6 @@ Selim died in 1574 and was succeeded by Murad, who began his reign by having his
 
 The Ottomans had been at peace with the neighbouring rivaling Safavid Empire since 1555, per the Treaty of Amasya, that for some time had settled border disputes. But in 1577 Murad declared war, starting the Ottoman–Safavid War (1578–90), seeking to take advantage of the chaos in the Safavid court after the death of Shah Tahmasp I. Murad also tried to explore North America and make the ideas of colonizing America be more possible. However, he later abandoned all of these ideas after the Spanish navy responded by a naval attack on the ottoman ships trying to explore north America. Murad was influenced by viziers Lala Kara Mustafa Pasha and Sinan Pasha and disregarded the opposing counsel of Grand Vizier Sokollu. Murad also fought the Safavidsidse war would drag on for 12 years, ending with the Treaty of Constantinople (1590), which resulted in temporary significant territorial gains for the Ottomans.[5]
 
-OttomanEmpire1590.png
-
 Murad's reign was a time of financial stress for the Ottoman state. To keep up with changing military techniques, the Ottomans trained infantrymen in the use of firearms, paying them directly from the treasury. By 1580 an influx of silver from the New World had caused high inflation and social unrest, especially among Janissaries and government officials who were paid in debased currency. Deprivation from the resulting rebellions, coupled with the pressure of over-population, was especially felt in Anatolia.[6] Competition for positions within the government grew fierce, leading to bribery and corruption. Ottoman and Habsburg sources accuse Murad himself of accepting enormous bribes, including 20,000 ducats from a statesman in exchange for the governorship of Tripoli and Tunisia, thus outbidding a rival who had tried bribing the Grand Vizier.[7]
 
 Numerous envoys and letters were exchanged between Elizabeth I and Sultan Murad III.[8] In one correspondence, Murad entertained the notion that Islam and Protestantism had "much more in common than either did with Roman Catholicism, as both rejected the worship of idols", and argued for an alliance between England and the Ottoman Empire.[9] To the dismay of Catholic Europe, England exported tin and lead (for cannon-casting) and ammunition the Ottoman Empire, and Elizabeth seriously discussed joint military operations with Murad III during the outbreak of war with Spain in 1585, as Francis Walsingham was lobbying for a direct Ottoman military involvement against the common Spanish enemy.[10] This diplomacy would be continued under Murad's successor Mehmed III, by both the sultan and Safiye Sultan alike.
@@ -29,8 +27,6 @@ Influential ladies of his court included his mother Nurbanu Sultan, his sister I
 
 
 Murad and the arts
-
-Surname-i_huemayun_gazi.jpg
 
 Murad took great interest in the arts, particularly miniatures and books. He actively supported the court Society of Miniaturists, commissioning several volumes including the _Siyer-i Nebi_, the most heavily illustrated biographical work on the life of the Islamic prophet Muhammad, the _Book of Skills_, the _Book of Festivities_ and the _Book of Victories_.[16] He had two large alabaster urns transported from Pergamon and placed on two sides of the nave in the Hagia Sophia in Constantinople and a large wax candle dressed in tin which was donated by him to the Rila monastery in Bulgaria is on display in the monastery museum.
 

@@ -26,8 +26,6 @@ NERO (_Nero Claudius Caesar Augustus Germanicus_) was a great-great-grandson of 
 
 Rise and fall of the Julio-Claudians
 
-Youth_on_horseback.jpg
-
 Augustus
 
 Lacking any male child and heir Augustus married his only daughter Julia to his nephew Marcus Claudius Marcellus. However, Marcellus died of food poisoning in 23 BC. Augustus then married his widowed daughter to his loyal friend, Marcus Vipsanius Agrippa, previously married to Augustus' niece, the sister of Marcellus. This marriage produced five children, three sons and two daughters: Gaius Caesar, Lucius Caesar, Julia the Younger, Agrippina the Elder, and Agrippa Postumus.
@@ -91,7 +89,7 @@ On Livia Drusilla's side of the dynasty, Rubellia Bassa was one of the few remai
 
 Relationships among the rulers
 
-Kujula_Kadphises._Laureate_Julio-Claudian_style.jpg ruler Kujula Kadphises (Circa AD 30/50-80). OBV Laureate "Julio-Claudian" style head right. REV Kujula Kadphises seated right, raising hand; tripartite symbol to left.]] The great-uncle/great-nephew blood relationship and/or adopted son relationship was commonly found among the rulers of the Julio-Claudian dynasty.
+ruler Kujula Kadphises (Circa AD 30/50-80). OBV Laureate "Julio-Claudian" style head right. REV Kujula Kadphises seated right, raising hand; tripartite symbol to left.]] The great-uncle/great-nephew blood relationship and/or adopted son relationship was commonly found among the rulers of the Julio-Claudian dynasty.
 
 1.  Augustus was the great-nephew and posthumously adopted son of Julius Caesar; his mother Atia was the daughter of Caesar's sister Julia.
 2.  Caligula was the great-nephew and adoptive grandson (via the adoption of his father Germanicus) of Tiberius; his father was the son of Tiberius' brother Drusus.
@@ -163,8 +161,6 @@ PlotData=
 
 
 Family tree
-
-JulioClaudian.svg
 
 
 See also

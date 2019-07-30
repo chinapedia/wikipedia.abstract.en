@@ -26,7 +26,7 @@ The winner and runner-up of each pool enter the knockout stage. The knockout sta
 
 History
 
-2011_Rugby_World_Cup_Wales_vs_Samoa_(6168183024).jpg (in blue) and Wales (in red) during the 2011 World Cup]] Prior to the Rugby World Cup, there was no truly global rugby union competition, but there were a number of other tournaments. One of the oldest is the annual Six Nations Championship, which started in 1883 as the Home Nations Championship, a tournament between England, Ireland, Scotland and Wales. It expanded to the Five Nations in 1910, when France joined the tournament. France did not participate from 1931 to 1939, during which period it reverted to a Home Nations championship. In 2000, Italy joined the competition, which became the Six Nations.[19]
+(in blue) and Wales (in red) during the 2011 World Cup]] Prior to the Rugby World Cup, there was no truly global rugby union competition, but there were a number of other tournaments. One of the oldest is the annual Six Nations Championship, which started in 1883 as the Home Nations Championship, a tournament between England, Ireland, Scotland and Wales. It expanded to the Five Nations in 1910, when France joined the tournament. France did not participate from 1931 to 1939, during which period it reverted to a Home Nations championship. In 2000, Italy joined the competition, which became the Six Nations.[19]
 
 Rugby union was also played at the Summer Olympic Games, first appearing at the 1900 Paris games and subsequently at London in 1908, Antwerp in 1920, and Paris again in 1924. France won the first gold medal, then Australasia, with the last two being won by the United States. However rugby union ceased to be on Olympic program after 1924.[20][21]
 
@@ -155,7 +155,7 @@ Tournaments
 
 Performance of nations
 
-Rugby_world_cup_countries_best_results_and_hosts_rev1.png Twenty-five nations have participated at the Rugby World Cup (excluding qualifying tournaments). Of the eight tournaments that have been held, all but one have been won by a national team from the southern hemisphere.[66] The southern hemisphere's dominance has been broken only in 2003, when England beat Australia in the final.[67]
+Twenty-five nations have participated at the Rugby World Cup (excluding qualifying tournaments). Of the eight tournaments that have been held, all but one have been won by a national team from the southern hemisphere.[66] The southern hemisphere's dominance has been broken only in 2003, when England beat Australia in the final.[67]
 
 Thus far the only nations to host and win a tournament are New Zealand (1987 and 2011) and South Africa (1995). The performance of other host nations includes England (1991 final hosts) and Australia (2003 hosts) finishing runners-up. France (2007 hosts) finished fourth, while Wales (1999 hosts) failed to reach the semi-finals. Wales became the first host nation to be eliminated at the pool stages in 1991, while, England became the first solo host nation to be eliminated at the pool stages in 2015. Of the twenty-five nations that have ever participated in at least one tournament, eleven of them have never missed a tournament.
 
@@ -192,7 +192,7 @@ Team records
 
 Records and statistics
 
-Gavin_Hastings.jpg is one of four players to have kicked a record eight penalties in a single World Cup match.]] The record for most points overall is held by English player Jonny Wilkinson, who scored 277 over his World Cup career.[68] Grant Fox of New Zealand holds the record for most points in one competition, with 126 in 1987;[69] Jason Leonard of England holds the record for most World Cup matches: 22 between 1991 and 2003.[70] Simon Culhane holds the record for most points in a match by one player, 45, as well as the record for most conversions in a match, 20.[71] Marc Ellis holds the record for most tries in a match, six, which he scored against Japan in 1995.[72]
+is one of four players to have kicked a record eight penalties in a single World Cup match.]] The record for most points overall is held by English player Jonny Wilkinson, who scored 277 over his World Cup career.[68] Grant Fox of New Zealand holds the record for most points in one competition, with 126 in 1987;[69] Jason Leonard of England holds the record for most World Cup matches: 22 between 1991 and 2003.[70] Simon Culhane holds the record for most points in a match by one player, 45, as well as the record for most conversions in a match, 20.[71] Marc Ellis holds the record for most tries in a match, six, which he scored against Japan in 1995.[72]
 
 All Black Jonah Lomu is the youngest player to appear in a final – aged 20 years and 43 days at the 1995 Final.[73] Lomu shares 2 records with South African Bryan Habana. Most tries in a tournament (8): Lomu in 1999 and Habana in 2007 and total world cup tournament tries, both scored 15.[74] The record for most penalties in a match is 8, held by Matt Burke, Gonzalo Quesada, Gavin Hastings and Thierry Lacroix,[75] and the record for most penalties in a tournament, 31, is held by Gonzalo Quesada. South Africa's Jannie de Beer kicked five drop-goals against England in 1999 – an individual record for a single World Cup match.[76]
 

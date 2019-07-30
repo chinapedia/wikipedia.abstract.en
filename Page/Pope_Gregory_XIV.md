@@ -20,7 +20,7 @@ Gregory XIV's brief pontificate was marked by vigorous intervention in favour of
 
 Gregory XIV levied an army for the invasion of France, and dispatched his nephew Ercole Sfondrati to France at its head. He also sent a monthly subsidy of 15,000 _scudi_ to Paris to reinforce the Catholic League. By coming down solidly on the side of Spanish interests, in part because Gregory XIV was elected due to the influence of the Spanish cardinals, the recent papal policy of trying to maintain a balance between Spain and France was abandoned.
 
-Gregory_XIV.PNG Gregory XIV created five cardinals, among whom was his nephew Paolo Emilio Sfondrati, his Secretary of State. He attempted to convince Philip Neri, a long-time friend, to accept the post of Cardinal, but Neri refused, saying that there were many more deserving of the honour than him.
+Gregory XIV created five cardinals, among whom was his nephew Paolo Emilio Sfondrati, his Secretary of State. He attempted to convince Philip Neri, a long-time friend, to accept the post of Cardinal, but Neri refused, saying that there were many more deserving of the honour than him.
 
 In a decree dated 18 April 1591 (Bulla Cum Sicuti), Gregory XIV ordered reparations to be made by Catholics in the Philippines to the natives, who had been forced into slavery by Europeans, and he commanded under pain of excommunication of the owners that all native slaves in the islands be set free.
 

@@ -9,7 +9,7 @@ Owing to the European colonization of the Americas, most North Americans speak E
 
 Name
 
-Historisch_Nordamerika.jpg The Americas are usually accepted as having been named after the Italian explorer Amerigo Vespucci by the German cartographers Martin Waldseemüller and Matthias Ringmann.[5] Vespucci, who explored South America between 1497 and 1502, was the first European to suggest that the Americas were not the East Indies, but a different landmass previously unknown by Europeans. In 1507, Waldseemüller produced a world map, in which he placed the word "America" on the continent of South America, in the middle of what is today Brazil. He explained the rationale for the name in the accompanying book _Cosmographiae Introductio_:[6]
+The Americas are usually accepted as having been named after the Italian explorer Amerigo Vespucci by the German cartographers Martin Waldseemüller and Matthias Ringmann.[5] Vespucci, who explored South America between 1497 and 1502, was the first European to suggest that the Americas were not the East Indies, but a different landmass previously unknown by Europeans. In 1507, Waldseemüller produced a world map, in which he placed the word "America" on the continent of South America, in the middle of what is today Brazil. He explained the rationale for the name in the accompanying book _Cosmographiae Introductio_:[6]
 
   (from Americus the discoverer ... as if it were the land of Americus, thus America).
 
@@ -172,15 +172,13 @@ History
 
 Geologic history
 
-NorthAmerica-WaterDivides.png
-
 Laurentia is an ancient craton which forms the geologic core of North America; it formed between 1.5 and 1.0 billion years ago during the Proterozoic eon.[45] The Canadian Shield is the largest exposure of this craton. From the Late Paleozoic to Early Mesozoic eras, North America was joined with the other modern-day continents as part of the supercontinent Pangaea, with Eurasia to its east. One of the results of the formation of Pangaea was the Appalachian Mountains, which formed some 480 million years ago, making it among the oldest mountain ranges in the world. When Pangaea began to rift around 200 million years ago, North America became part of Laurasia, before it separated from Eurasia as its own continent during the mid-Cretaceous period.[46] The Rockies and other western mountain ranges began forming around this time from a period of mountain building called the Laramide orogeny, between 80 and 55 million years ago. The formation of the Isthmus of Panama that connected the continent to South America arguably occurred approximately 12 to 15 million years ago,[47] and the Great Lakes (as well as many other northern freshwater lakes and rivers) were carved by receding glaciers about 10,000 years ago.
 
 North America is the source of much of what humanity knows about geologic time periods.[48] The geographic area that would later become the United States has been the source of more varieties of dinosaurs than any other modern country.[49] According to paleontologist Peter Dodson, this is primarily due to stratigraphy, climate and geography, human resources, and history.[50] Much of the Mesozoic Era is represented by exposed outcrops in the many arid regions of the continent.[51] The most significant Late Jurassic dinosaur-bearing fossil deposit in North America is the Morrison Formation of the western United States.[52]
 
 Pre-Columbian
 
-Chichen_Itza_3.jpg pyramid, at Chichén Itzá, Mexico]]
+pyramid, at Chichén Itzá, Mexico]]
 
 The indigenous peoples of the Americas have many creation myths by which they assert that they have been present on the land since its creation,[53] but there is no evidence that humans evolved there.[54] The specifics of the initial settlement of the Americas by ancient Asians are subject to ongoing research and discussion.[55] The traditional theory has been that hunters entered the Beringia land bridge between eastern Siberia and present-day Alaska from 27,000 to 14,000 years ago.[56][57] A growing viewpoint is that the first American inhabitants sailed from Beringia some 13,000 years ago,[58] with widespread habitation of the Americas during the end of the Last Glacial Period, in what is known as the Late Glacial Maximum, around 12,500 years ago.[59] The oldest petroglyphs in North America date from 15,000 to 10,000 years before present.[60] Genetic research and anthropology indicate additional waves of migration from Asia via the Bering Strait during the Early-Middle Holocene.[61][62][63]
 
@@ -194,7 +192,7 @@ The Mayan culture was still present in southern Mexico and Guatemala when the Sp
 
 Colonial period
 
-Benjamin_West_005.jpg's _The Death of General Wolfe_ (1771) depicting the Battle of the Plains of Abraham]]
+'s _The Death of General Wolfe_ (1771) depicting the Battle of the Plains of Abraham]]
 
 During the Age of Discovery, Europeans explored and staked claims to various parts of North America. Upon their arrival in the "New World", the Native American population declined substantially, because of violent conflicts with the invaders and the introduction of European diseases to which the Native Americans lacked immunity.[69] Native culture changed drastically and their affiliation with political and cultural groups also changed. Several linguistic groups died out, and others changed quite quickly. The names and cultures that Europeans recorded were not necessarily the same as the names they had used a few generations before, or the ones in use today.
 
@@ -205,13 +203,11 @@ Over three decades of work on the Panama Canal led to the connection of Atlantic
 
 Geography
 
-North_America_satellite_orthographic.jpg
-
 North America occupies the northern portion of the landmass generally referred to as the New World, the Western Hemisphere, the Americas, or simply America (which, less commonly, is considered by some as a single continent[70][71][72] with North America a subcontinent).[73] North America's only land connection to South America is at the Isthmus of Panama. The continent is delimited on the southeast by most geographers at the Darién watershed along the Colombia-Panama border, placing all of Panama within North America.[74][75][76] Alternatively, some geologists physiographically locate its southern limit at the Isthmus of Tehuantepec, Mexico, with Central America extending southeastward to South America from this point.[77] The Caribbean islands, or West Indies, are considered part of North America.[78] The continental coastline is long and irregular. The Gulf of Mexico is the largest body of water indenting the continent, followed by Hudson Bay. Others include the Gulf of Saint Lawrence and the Gulf of California.
 
 Before the Central American isthmus formed, the region had been underwater. The islands of the West Indies delineate a submerged former land bridge, which had connected North and South America via what are now Florida and Venezuela.
 
-There are numerous islands off the continent's coasts; principally, the Arctic Archipelago, the Bahamas, Turks & Caicos, the Greater and Lesser Antilles, the Aleutian Islands (some of which are in the Eastern Hemisphere proper), the Alexander Archipelago, the many thousand islands of the British Columbia Coast, and Newfoundland. Greenland, a self-governing Danish island, and the world's largest, is on the same tectonic plate (the North American Plate) and is part of North America geographically. In a geologic sense, Bermuda is not part of the Americas, but an oceanic island which was formed on the fissure of the Mid-Atlantic Ridge over 100 million years ago. The nearest landmass to it is Cape Hatteras, North Carolina. However, Bermuda is often thought of as part of North America, especially given its historical, political and cultural ties to Virginia and other parts of the continent. Moraine_Lake.jpg in Banff National Park]] The vast majority of North America is on the North American Plate. Parts of western Mexico, including Baja California, and of California, including the cities of San Diego, Los Angeles, and Santa Cruz, lie on the eastern edge of the Pacific Plate, with the two plates meeting along the San Andreas fault. The southernmost portion of the continent and much of the West Indies lie on the Caribbean Plate, whereas the Juan de Fuca and Cocos plates border the North American Plate on its western frontier.
+There are numerous islands off the continent's coasts; principally, the Arctic Archipelago, the Bahamas, Turks & Caicos, the Greater and Lesser Antilles, the Aleutian Islands (some of which are in the Eastern Hemisphere proper), the Alexander Archipelago, the many thousand islands of the British Columbia Coast, and Newfoundland. Greenland, a self-governing Danish island, and the world's largest, is on the same tectonic plate (the North American Plate) and is part of North America geographically. In a geologic sense, Bermuda is not part of the Americas, but an oceanic island which was formed on the fissure of the Mid-Atlantic Ridge over 100 million years ago. The nearest landmass to it is Cape Hatteras, North Carolina. However, Bermuda is often thought of as part of North America, especially given its historical, political and cultural ties to Virginia and other parts of the continent. in Banff National Park]] The vast majority of North America is on the North American Plate. Parts of western Mexico, including Baja California, and of California, including the cities of San Diego, Los Angeles, and Santa Cruz, lie on the eastern edge of the Pacific Plate, with the two plates meeting along the San Andreas fault. The southernmost portion of the continent and much of the West Indies lie on the Caribbean Plate, whereas the Juan de Fuca and Cocos plates border the North American Plate on its western frontier.
 
 The continent can be divided into four great regions (each of which contains many subregions): the Great Plains stretching from the Gulf of Mexico to the Canadian Arctic; the geologically young, mountainous west, including the Rocky Mountains, the Great Basin, California and Alaska; the raised but relatively flat plateau of the Canadian Shield in the northeast; and the varied eastern region, which includes the Appalachian Mountains, the coastal plain along the Atlantic seaboard, and the Florida peninsula. Mexico, with its long plateaus and cordilleras, falls largely in the western region, although the eastern coastal plain does extend south along the Gulf.
 
@@ -222,7 +218,7 @@ The United States Geographical Survey (USGS) states that the geographic center o
 
 Geology
 
-USGS_Geologic_Map_of_North_America.jpg North_america_rock_types.jpg, volcanic, plutonic, and metamorphic rock types of North America]]
+, volcanic, plutonic, and metamorphic rock types of North America]]
 
 Canadian geology
 
@@ -242,7 +238,7 @@ The geology of Alaska is typical of that of the cordillera, while the major isla
 
 Central American geology
 
-Tectonic_plates_Caribbean.png.}}]]
+.}}]]
 
 Central America is geologically active with volcanic eruptions and earthquakes occurring from time to time. In 1976 Guatemala was hit by a major earthquake, killing 23,000 people; Managua, the capital of Nicaragua, was devastated by earthquakes in 1931 and 1972, the last one killing about 5,000 people; three earthquakes devastated El Salvador, one in 1986 and two in 2001; one earthquake devastated northern and central Costa Rica in 2009, killing at least 34 people; in Honduras a powerful earthquake killed seven people in 2009.
 
@@ -253,7 +249,7 @@ Central America has many mountain ranges; the longest are the Sierra Madre de Ch
 
 Climate
 
-North_America_map_of_Köppen_climate_classification.svg North America is a very large continent which surpasses the Arctic Circle, and the Tropic of Cancer. Greenland, along with the Canadian Shield, is tundra with average temperatures ranging from , but central Greenland is composed of a very large ice sheet. This tundra radiates throughout Canada, but its border ends near the Rocky Mountains (but still contains Alaska) and at the end of the Canadian Shield, near the Great Lakes. Climate west of the Cascades is described as being a temperate weather with average precipitation .[85] Climate in coastal California is described to be Mediterranean, with average temperatures in cities like San Francisco ranging from over the course of the year.[86]
+North America is a very large continent which surpasses the Arctic Circle, and the Tropic of Cancer. Greenland, along with the Canadian Shield, is tundra with average temperatures ranging from , but central Greenland is composed of a very large ice sheet. This tundra radiates throughout Canada, but its border ends near the Rocky Mountains (but still contains Alaska) and at the end of the Canadian Shield, near the Great Lakes. Climate west of the Cascades is described as being a temperate weather with average precipitation .[85] Climate in coastal California is described to be Mediterranean, with average temperatures in cities like San Francisco ranging from over the course of the year.[86]
 
 Stretching from the East Coast to eastern North Dakota, and stretching down to Kansas, is the continental-humid climate featuring intense seasons, with a large amount of annual precipitation, with places like New York City averaging .[87] Starting at the southern border of the continental-humid climate and stretching to the Gulf of Mexico (whilst encompassing the eastern half of Texas) is the subtropical climate. This area has the wettest cities in the contiguous U.S. with annual precipitation reaching in Mobile, Alabama.[88] Stretching from the borders of the continental humid and subtropical climates, and going west to the Cascades Sierra Nevada, south to the southern tip of durango, north to the border with tundra climate, the steppe/desert climate is the driest climate in the U.S.[89] Highland climates cut from north to south of the continent, where subtropical or temperate climates occur just below the tropics, as in central Mexico and Guatemala. Tropical climates appear in the island regions and in the subcontinent's bottleneck. Usually of the savannah type, with rains and high temperatures constants the whole year. Found in countries and states bathed by the Caribbean Sea or to south of the Gulf of Mexico and Pacific Ocean.[90]
 
@@ -267,7 +263,7 @@ Notable plants that were domesticated in North America include tobacco, maize, s
 
 Demographics
 
-Non-Native_American_Nations_Control_over_N_America_1750-2008.gif Langs_N.Amer.png of the US, Canada and Greenland]]
+of the US, Canada and Greenland]]
 
 Economically, Canada and the United States are the wealthiest and most developed nations in the continent, followed by Mexico, a newly industrialized country.[91] The countries of Central America and the Caribbean are at various levels of economic and human development. For example, small Caribbean island-nations, such as Barbados, Trinidad and Tobago, and Antigua and Barbuda, have a higher GDP (PPP) per capita than Mexico due to their smaller populations. Panama and Costa Rica have a significantly higher Human Development Index and GDP than the rest of the Central American nations.[92] Additionally, despite Greenland's vast resources in oil and minerals, much of them remain untapped, and the island is economically dependent on fishing, tourism, and subsidies from Denmark. Nevertheless, the island is highly developed.[93]
 
@@ -275,13 +271,13 @@ Demographically, North America is ethnically diverse. Its three main groups are 
 
 Languages
 
-Languages_of_the_Americas.PNG The dominant languages in North America are English, Spanish, and French. Danish is prevalent in Greenland alongside Greenlandic, and Dutch is spoken side by side local languages in the Dutch Caribbean. The term Anglo-America is used to refer to the anglophone countries of the Americas: namely Canada (where English and French are co-official) and the United States, but also sometimes Belize and parts of the tropics, especially the Commonwealth Caribbean. Latin America refers to the other areas of the Americas (generally south of the United States) where the Romance languages, derived from Latin, of Spanish and Portuguese (but French speaking countries are not usually included) predominate: the other republics of Central America (but not always Belize), part of the Caribbean (not the Dutch-, English-, or French-speaking areas), Mexico, and most of South America (except Guyana, Suriname, French Guiana (France), and the Falkland Islands (UK)).
+The dominant languages in North America are English, Spanish, and French. Danish is prevalent in Greenland alongside Greenlandic, and Dutch is spoken side by side local languages in the Dutch Caribbean. The term Anglo-America is used to refer to the anglophone countries of the Americas: namely Canada (where English and French are co-official) and the United States, but also sometimes Belize and parts of the tropics, especially the Commonwealth Caribbean. Latin America refers to the other areas of the Americas (generally south of the United States) where the Romance languages, derived from Latin, of Spanish and Portuguese (but French speaking countries are not usually included) predominate: the other republics of Central America (but not always Belize), part of the Caribbean (not the Dutch-, English-, or French-speaking areas), Mexico, and most of South America (except Guyana, Suriname, French Guiana (France), and the Falkland Islands (UK)).
 
 The French language has historically played a significant role in North America and now retains a distinctive presence in some regions. Canada is officially bilingual. French is the official language of the Province of Quebec, where 95% of the people speak it as either their first or second language, and it is co-official with English in the Province of New Brunswick. Other French-speaking locales include the Province of Ontario (the official language is English, but there are an estimated 600,000 Franco-Ontarians), the Province of Manitoba (co-official as _de jure_ with English), the French West Indies and Saint-Pierre et Miquelon, as well as the US state of Louisiana, where French is also an official language. Haiti is included with this group based on historical association but Haitians speak both Creole and French. Similarly, French and French Antillean Creole is spoken in Saint Lucia and the Commonwealth of Dominica alongside English.
 
 Religions
 
-WashingtonNationalCathedralHighsmith15393v.jpg, in Washington, D.C. The United States has the most people in the world identifying as Christian.]] Christianity is the largest religion in the United States, Canada and Mexico. According to a 2012 Pew Research Center survey, 77% of the population considered themselves Christians.[94] Christianity also is the predominant religion in the 23 dependent territories in North America.[95] The United States has the largest Christian population in the world, with nearly 247 million Christians (70%), although other countries have higher percentages of Christians among their populations.[96] Mexico has the world's second largest number of Catholics, surpassed only by Brazil.[97] A 2015 study estimates about 493,000 Christian believers from a Muslim background in North America, most of them belonging to some form of Protestantism.[98]
+, in Washington, D.C. The United States has the most people in the world identifying as Christian.]] Christianity is the largest religion in the United States, Canada and Mexico. According to a 2012 Pew Research Center survey, 77% of the population considered themselves Christians.[94] Christianity also is the predominant religion in the 23 dependent territories in North America.[95] The United States has the largest Christian population in the world, with nearly 247 million Christians (70%), although other countries have higher percentages of Christians among their populations.[96] Mexico has the world's second largest number of Catholics, surpassed only by Brazil.[97] A 2015 study estimates about 493,000 Christian believers from a Muslim background in North America, most of them belonging to some form of Protestantism.[98]
 
 According to the same study religiously unaffiliated (include agnostic and atheist) make up about 17% of the population of Canada and the United States.[99] No religion make up about 24% of the United States population, and 24% of Canada total population.[100]
 
@@ -398,11 +394,11 @@ These nations also take part in inter-continental trade blocs. Mexico takes a pa
 
 Transport
 
-PanAmericanHwy.png (including South America), from Prudhoe Bay, Alaska to Ushuaia, Argentina]]
+(including South America), from Prudhoe Bay, Alaska to Ushuaia, Argentina]]
 
 The Pan-American Highway route in the Americas is the portion of a network of roads nearly in length which travels through the mainland nations. No definitive length of the Pan-American Highway exists because the US and Canadian governments have never officially defined any specific routes as being part of the Pan-American Highway, and Mexico officially has many branches connecting to the US border. However, the total length of the portion from Mexico to the northern extremity of the highway is roughly .
 
-Class1rr.png network]]
+network]]
 
 The First Transcontinental Railroad in the United States was built in the 1860s, linking the railroad network of the eastern US with California on the Pacific coast. Finished on 10 May 1869 at the famous golden spike event at Promontory Summit, Utah, it created a nationwide mechanized transportation network that revolutionized the population and economy of the American West, catalyzing the transition from the wagon trains of previous decades to a modern transportation system.[158] Although an accomplishment, it achieved the status of first transcontinental railroad by connecting myriad eastern US railroads to the Pacific and was not the largest single railroad system in the world. The Canadian Grand Trunk Railway (GTR) had, by 1867, already accumulated more than of track by connecting Ontario with the Canadian Atlantic provinces west as far as Port Huron, Michigan, through Sarnia, Ontario.
 

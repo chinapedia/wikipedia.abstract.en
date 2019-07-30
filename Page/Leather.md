@@ -1,11 +1,11 @@
-leathertools.jpg LEATHER is a durable and flexible material created by tanning animal rawhides and skins. The most common raw material is cattle hide. It can be produced at manufacturing scales ranging from artisan to modern industrial scale.
+LEATHER is a durable and flexible material created by tanning animal rawhides and skins. The most common raw material is cattle hide. It can be produced at manufacturing scales ranging from artisan to modern industrial scale.
 
 Leather is used to make a variety of articles, including footwear, automobile seats, clothing, bags, book bindings, fashion accessories, and furniture. It is produced in a wide variety of types and styles and decorated by a wide range of techniques. The earliest record of leather artifacts dates back to 2200 BC.
 
 
 Production processes
 
-Ledertrocknung_in_Suai.jpg]] Leather_tanning,_Fes.jpg, Morocco]] Tanned_leather.JPG]]
+]] , Morocco]] ]]
 
 The leather manufacturing process is divided into three fundamental subprocesses: preparatory stages, tanning, and crusting. A further subprocess, finishing, can be added into the leather process sequence, but not all leathers receive finishing.
 
@@ -50,7 +50,7 @@ In general, leather is produced in the following grades:
 
 From other animals
 
-«PhoneCases».png]] Today, most leather is made of cattle hides, which constitute about 65% of all leather produced. Other animals that are used include sheep, about 13%, goats, about 11%, and pigs, about 10%. Obtaining accurate figures from around the world is difficult, especially for areas where the skin may be eaten.[3][4] Other animals mentioned below only constitute a fraction of a percent of total leather production.
+]] Today, most leather is made of cattle hides, which constitute about 65% of all leather produced. Other animals that are used include sheep, about 13%, goats, about 11%, and pigs, about 10%. Obtaining accurate figures from around the world is difficult, especially for areas where the skin may be eaten.[3][4] Other animals mentioned below only constitute a fraction of a percent of total leather production.
 
 Horse hides are used to make particularly durable leathers. Shell cordovan is a horse leather made not from the outer skin but an under layer found only in equine species called the shell. It is prized for its mirror-like finish and anti-creasing properties.
 
@@ -89,7 +89,7 @@ Leather biodegrades slowly—taking 25 to 40 years to decompose.[12] However, vi
 
 Chemical waste disposal
 
-Rajasthani_style_Leather_Jooti,local_artwork_Jaipur_India.jpg, Jaipur, India]] Tanning is especially polluting in countries where environmental regulations are lax, such as in India, the world's third-largest producer and exporter of leather. To give an example of an efficient pollution prevention system, chromium loads per produced tonne are generally abated from 8 kg to 1.5 kg. VOC emissions are typically reduced from 30 kg/t to 2 kg/t in a properly managed facility. A review of the total pollution load decrease achievable according to the United Nations Industrial Development Organization[14] posts precise data on the abatement achievable through industrially proven low-waste advanced methods, while noting, "even though the chrome pollution load can be decreased by 94% on introducing advanced technologies, the minimum residual load 0.15 kg/t raw hide can still cause difficulties when using landfills and composting sludge from wastewater treatment on account of the regulations currently in force in some countries."
+, Jaipur, India]] Tanning is especially polluting in countries where environmental regulations are lax, such as in India, the world's third-largest producer and exporter of leather. To give an example of an efficient pollution prevention system, chromium loads per produced tonne are generally abated from 8 kg to 1.5 kg. VOC emissions are typically reduced from 30 kg/t to 2 kg/t in a properly managed facility. A review of the total pollution load decrease achievable according to the United Nations Industrial Development Organization[14] posts precise data on the abatement achievable through industrially proven low-waste advanced methods, while noting, "even though the chrome pollution load can be decreased by 94% on introducing advanced technologies, the minimum residual load 0.15 kg/t raw hide can still cause difficulties when using landfills and composting sludge from wastewater treatment on account of the regulations currently in force in some countries."
 
 In Kanpur, the self-proclaimed "Leather City of World"—with 10,000 tanneries as of 2011 and a city of three million on the banks of the Ganges—pollution levels were so high, that despite an industry crisis, the pollution control board decided to shut down 49 high-polluting tanneries out of 404 in July 2009.[15] In 2003 for instance, the main tanneries' effluent disposal unit was dumping 22 tonnes of chromium-laden solid waste per day in the open.[16]
 

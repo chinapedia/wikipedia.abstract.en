@@ -47,8 +47,6 @@ The novel was awarded the following soon after publication
 
 Design and geography of Rama
 
-rama16wiki.jpg
-
 The interior of Rama is essentially a large cylindrical landscape, dubbed "The Central Plain" by the crew, 16 kilometres in diameter and 50 long, with artificial gravity provided by its 0.25 rpm spin. It is split into the "northern" and "southern" plains, divided in the middle by a 10-km wide expanse of water the astronauts dub the "Cylindrical Sea". In the center of the Cylindrical Sea is an island of unknown purpose covered in tall, skyscraper-like structures, which the astronauts name "New York" due to an imagined similarity to Manhattan. At each end of the ship are North and South "Poles". The North Pole is effectively the bow and the South Pole the stern, as Rama accelerates in the direction of the north pole and its drive system is at the South Pole.
 
 The North Pole contains Rama's airlocks, and is where the _Endeavour_ lands. The airlocks open into the hub of the massive bowl shaped cap at the North Pole, with three 8-kilometre long stair systems, called Alpha, Beta, and Gamma by the crew, leading to the plain.
@@ -100,7 +98,7 @@ In an interview with Neil deGrasse Tyson in February 2012, Freeman indicated an 
 
 Non-fictional aspects
 
-Neo-chart.pngs detected by various projects:
+s detected by various projects:
 
 +--+--+
 |  |  |

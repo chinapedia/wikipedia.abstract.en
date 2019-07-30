@@ -1,4 +1,4 @@
-Icannheadquartersplayavista.jpg neighborhood of Los Angeles]]
+neighborhood of Los Angeles]]
 
 The INTERNET CORPORATION FOR ASSIGNED NAMES AND NUMBERS (ICANN ) is a nonprofit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network's stable and secure operation.[1] ICANN performs the actual technical maintenance work of the Central Internet Address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. The contract regarding the IANA stewardship functions between ICANN and the National Telecommunications and Information Administration (NTIA) of the United States Department of Commerce ended on October 1, 2016, formally transitioning the functions to the global multistakeholder community.[2][3][4][5]
 

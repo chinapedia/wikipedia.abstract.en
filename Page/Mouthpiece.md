@@ -1,4 +1,4 @@
-Mouthpiece_horn.jpg]] MOUTHPIECE may refer to:
+]] MOUTHPIECE may refer to:
 
 -   The part of an object which comes near or in contact with one's mouth or nose during use
     -   Mouthpiece (smoking pipe) or cigarette holder

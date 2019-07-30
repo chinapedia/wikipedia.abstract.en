@@ -7,7 +7,7 @@ Moon suffered a number of setbacks during the 1970s, most notably the accidental
 
 Early life
 
-Central_Middlesex_Hospital,_Clock_Tower_entrance_-_geograph.org.uk_-_16176.jpg, Moon's place of birth]]
+, Moon's place of birth]]
 
 Keith John Moon was born to Alfred Charles ("Nobby") and Kathleen Winifred ("Kitty") Moon on 23 August 1946 at Central Middlesex Hospital in northwest London, and grew up in Wembley. He was hyperactive as a boy, with a restless imagination and a particular fondness for _The Goon Show_ and music. Moon attended Alperton Secondary Modern School after failing his eleven plus exam, which precluded his attending a grammar school. His art teacher said in a report: "Retarded artistically. Idiotic in other respects". His music teacher wrote that Moon "has great ability, but must guard against a tendency to show off."
 
@@ -24,7 +24,7 @@ During this time Moon joined his first serious band: the Escorts, replacing his 
 
 The Who
 
-Keith_Moon_1967.jpg, Germany, 1967]]
+, Germany, 1967]]
 
 A commonly cited story of how Moon joined the Who is that he appeared at a show shortly after Sandom's departure, where a session drummer was used. Dressed in ginger clothes and with his hair dyed ginger (future bandmate Pete Townshend later described him as a "ginger vision"),[6] he claimed to his would-be bandmates that he could play better; he played in the set's second half, nearly demolishing the drum kit in the process. In the words of the drummer, "they said go ahead, and I got behind this other guy's drums and did one song-'Road Runner.' I'd several drinks to get me courage up and when I got onstage I went arrgggGhhhh on the drums, broke the bass drum pedal and two skins, and got off. I figured that was it. I was scared to death. Afterwards I was sitting at the bar and Pete came over. He said: 'You ... come 'ere.' I said, mild as you please: 'Yes, yes?' And Roger, who was the spokesman then, said: 'What are you doing next Monday?' I said: 'Nothing.' I was working during the day, selling plaster. He said: 'You'll have to give up work ... there's this gig on Monday. If you want to come, we'll pick you up in the van.' I said: 'Right.' And that was it."[7] Moon later claimed that he was never formally invited to join the Who permanently; when Ringo Starr asked how he had joined the band, he said he had "just been filling in for the last fifteen years."[8]
 
@@ -40,7 +40,7 @@ Who biographer John Atkins wrote that the group's early test sessions for Pye Re
 
 Unlike contemporary rock drummers such as Ginger Baker and John Bonham, Moon hated drum solos and refused to play them in concert. At a Madison Square Garden show on 10 June 1974, Townshend and Entwistle decided to spontaneously stop playing during "Wasp Man" to listen to Moon's drum solo. Moon continued briefly and then stopped, shouting "Drum solos are boring!" However, on June 23 1977, he made a guest appearance at a Led Zeppelin concert in Los Angeles,[12] joining John Bonham for his "Moby Dick" drum solo. The concert was bootlegged as _For Badgeholders Only_.[13]
 
-Keith-Moon_Bellboy.jpg, Toronto, 21 October 1976; he enjoyed singing whenever possible.]]
+, Toronto, 21 October 1976; he enjoyed singing whenever possible.]]
 
 Although not an especially gifted vocalist, Moon was enthusiastic about singing and wanted to sing lead with the rest of the group. While the other three members handled most of the onstage vocals, Moon would attempt to sing backup (particularly on "I Can't Explain"). He provided humorous commentary during song announcements, although sound engineer Bob Pridden preferred to mute his vocal microphone on the mixing desk whenever possible.[14] Moon's knack for making his bandmates laugh around the microphone led them to banish him from the studio when vocals were being recorded; this led to a game in which Moon would sneak in to join the singing.[15] At the end of "Happy Jack," Townshend can be heard saying "I saw ya!" to Moon as he tries to sneak into the studio. The drummer's interest in surf music and his desire to sing lead spawned lead vocals on several early tracks, including "Bucket T" and "Barbara Ann" (_Ready Steady Who_ EP, 1966) and high backing vocals on other songs, such as "Pictures of Lily." Moon's performance on "Bell Boy" (_Quadrophenia,_ 1973) saw him abandon "serious" vocal performances to sing in character, which gave him (in Fletcher's words) "full licence to live up to his reputation as a lecherous drunk"; it was "exactly the kind of performance the Who needed from him to bring them back down to earth."
 
@@ -50,7 +50,7 @@ The drummer produced the violin solo on "Baba O'Riley."[17] Moon sat in on conga
 
 Equipment
 
-Pictures_of_Lily_drumkit.jpg's replica of the "Pictures of Lily" drum kit, which Moon used from 1967 to 1969]]
+'s replica of the "Pictures of Lily" drum kit, which Moon used from 1967 to 1969]]
 
 Moon played a four, then a five-piece drum kit during his early career. Throughout much of 1964 and 1965 his setups consisted of Ludwig drums and Zildjian cymbals. Moon began to endorse Premier Drums in late 1965, and he remained a loyal customer of the company.[19] His first Premier kit was in red sparkle and featured two high toms. In 1966 he moved to an even larger kit, but without the customary hi-hat—at the time Moon preferred keeping backbeats with ride and crash cymbals. His new larger configuration was notable for the presence of two bass drums. Moon, along with Ginger Baker, has been credited as one of the early pioneers of double bass drumming in rock.[20]
 
@@ -71,8 +71,6 @@ Although Moon was known for kicking over his drum kit, Haynes claimed that it wa
 Other work
 
 Music
-
-Don't_Worry_Baby_ad,_1974.png
 
 While Moon generally said he was only interested in working with the Who, he participated in outside musical projects. In 1966 he worked with Yardbirds guitarist Jeff Beck, pianist Nicky Hopkins and future Led Zeppelin members Jimmy Page and John Paul Jones on the instrumental "Beck's Bolero," which was the B-side to "Hi Ho Silver Lining" and appeared on the album _Truth_. Moon also played timpani on another track, a cover of Jerome Kern's "Ol' Man River." He was credited on the album as "You Know Who."[24]
 
@@ -113,7 +111,7 @@ A hotel manager called Moon in his room and asked him to lower the volume on his
 
 Flint Holiday Inn incident
 
-Former_Holiday-Days-Rodeway,_Flint,_MI.jpg, where Moon's 21st birthday party was a notorious event (since this picture was taken, most of the building has been demolished).]]
+, where Moon's 21st birthday party was a notorious event (since this picture was taken, most of the building has been demolished).]]
 
 On 23 August 1967, on tour opening for Herman's Hermits, Moon celebrated what he said was his 21st birthday (although it was thought at the time to be his 20th) at a Holiday Inn in Flint, Michigan. Entwistle later said, "He decided that if it was a publicised fact that it was his 21st birthday, he would be able to drink."
 
@@ -125,7 +123,7 @@ A furious Holiday Inn management presented the groups with a bill for $24,000, w
 
 Passing out on stage
 
-Keith_Moon.jpg, Toronto, 21 October 1976. By this point in his career, it was uncertain whether he could finish a show without incident. Except for two informal shows filmed for _The Kids are Alright_, this was the drummer's last public performance with the Who.]]
+, Toronto, 21 October 1976. By this point in his career, it was uncertain whether he could finish a show without incident. Except for two informal shows filmed for _The Kids are Alright_, this was the drummer's last public performance with the Who.]]
 
 Moon's lifestyle began to undermine his health and reliability. During the 1973 Quadrophenia tour, at the Who's debut US date at the Cow Palace in Daly City, California, Moon ingested a mixture of tranquillisers and brandy. During the concert, Moon passed out on his drum kit during "Won't Get Fooled Again." The band stopped playing, and a group of roadies carried Moon offstage. They gave him a shower and an injection of cortisone, sending him back onstage after a thirty-minute delay.[37] Moon passed out again during "Magic Bus," and was again removed from the stage. The band continued without him for several songs before Townshend asked, "Can anyone play the drums? – I mean somebody good?" A drummer in the audience, Scot Halpin, came up and played the rest of the show.
 
@@ -158,8 +156,6 @@ In 1975 Moon began a relationship with Swedish model Annette Walter-Lax, who lat
 
 Friends
 
-Keith_the_ballerina.jpg
-
 Moon enjoyed being the life of the party. Bill Curbishley remembered that "he wouldn't walk into any room and just listen. He was an attention seeker and he had to have it."
 
 Early in the Who's career, Moon got to know the Beatles. He would join them at clubs, forming a particularly close friendship with Ringo Starr. Moon later became friends with Bonzo Dog Doo-Dah Band members Vivian Stanshall and "Legs" Larry Smith, and the trio would drink and play practical jokes together. Smith remembers one occasion where he and Moon tore apart a pair of trousers, with an accomplice later looking for one-legged trousers. In the early 1970s Moon helped Stanshall with his "Radio Flashes" radio show for BBC Radio 1, filling in for the vacationing John Peel (see Rawlinson End Radio Flashes). Subsequently, in 1973, Moon himself filled in for John Peel in "A Touch of the Moon", a series of four programmes produced by John Walters.[40]
@@ -181,15 +177,13 @@ Those close to Moon said that he was haunted by Boland's death for the rest of h
 
 Death
 
-MoonflatCurzonPlace.JPG
-
 In mid-1978 Moon moved into Flat 12, 9 Curzon Place (later Curzon Square), Shepherd Market, Mayfair, London, renting from Harry Nilsson. Cass Elliot had died there four years earlier, at the age of 32;[49][50] Nilsson was concerned about letting the flat to Moon, believing it was cursed. Townshend disagreed, assuring him that "lightning wouldn't strike the same place twice".
 
 After moving in, Moon began a prescribed course of Heminevrin (clomethiazole, a sedative) to alleviate his alcohol withdrawal symptoms. He wanted to get sober, but due to his fear of psychiatric hospitals he wanted to do it at home. Clomethiazole is discouraged for unsupervised detoxification because of its addictive potential, its tendency to induce tolerance, and its risk of death when mixed with alcohol.[51] The pills were prescribed by Geoffrey Dymond, a physician who was unaware of Moon's lifestyle. Dymond prescribed a bottle of 100 pills, instructing him to take one pill when he felt a craving for alcohol but not more than three pills per day.
 
 By September 1978 Moon was having difficulty playing the drums, according to roadie Dave "Cy" Langston. After seeing Moon in the studio trying to overdub drums for _The Kids Are Alright_, he said, "After two or three hours, he got more and more sluggish, he could barely hold a drum stick."
 
-Keith_Moon_plaque_(Golders_Green_Crematorium).jpg]]
+]]
 
 On 6 September, Moon and Walter-Lax were guests of Paul and Linda McCartney at a preview of a film, _The Buddy Holly Story_. After dining with the McCartneys at Peppermint Park in Covent Garden, Moon and Walter-Lax returned to their flat. He watched a film (_The Abominable Dr. Phibes_), and asked Walter-Lax to cook him steak and eggs. When she objected, Moon replied, "If you don't like it, you can fuck off!" These were his last words.[52] Moon then took 32 clomethiazole tablets. When Walter-Lax checked on him the following afternoon, she discovered he was dead.
 
@@ -208,7 +202,7 @@ The London 2012 Summer Olympic Committee contacted Curbishley about Moon perform
 
 Legacy
 
-Keith_moon_at_marquee.JPG at the site of the former Marquee Club]]
+at the site of the former Marquee Club]]
 
 Moon's drumming has been praised by critics. Author Nick Talevski described him as "the greatest drummer in rock," adding that "he was to the drums what Jimi Hendrix was to the guitar."[60] Holly George-Warren, editor and author of _The Rock and Roll Hall of Fame: The First 25 Years_, said: "With the death of Keith Moon in 1978, rock arguably lost its single greatest drummer."[61] According to Eder, "Moon, with his manic, lunatic side, and his life of excessive drinking, partying, and other indulgences, probably represented the youthful, zany side of rock & roll, as well as its self-destructive side, better than anyone else on the planet."[62] _The New Book of Rock Lists_ ranked Moon No. 1 on its list of "50 Greatest Rock 'n' Roll Drummers,"[63] and he was ranked No. 2 on the 2011 _Rolling Stone_ "Best Drummers of All Time" readers' poll. In 2016, the same magazine ranked him No. 2 in their list of the 100 Greatest Drummers of All Time, behind John Bonham.[64] Adam Budofsky, editor of _Drummer_ magazine, said that Moon's performances on _Who's Next_ and _Quadrophenia_ "represent a perfect balance of technique and passion" and "there's been no drummer who's touched his unique slant on rock and rhythm since."[65]
 

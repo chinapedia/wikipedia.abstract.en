@@ -49,7 +49,7 @@ In 1995, _Love and Kisses and a Halo of Truffles: Letters from Helen Evans Brown
 
 Foundation
 
-jamesBeardHouse.jpgs'' at the James Beard House, January 2007]]
+s'' at the James Beard House, January 2007]]
 
 After Beard's death in 1985, Julia Child wanted to preserve his home in New York City as the gathering place it was during his life. Peter Kump, a former student of Beard's and the founder of the Institute of Culinary Education (formerly Peter Kump's New York Cooking School), spearheaded efforts to purchase the house and create the James Beard Foundation. Beard's renovated brownstone at 167 West 12th Street in Greenwich Village, is North America's only historic culinary center. It is preserved as a gathering place where the press and general public could appreciate the talents of emerging and established chefs.
 

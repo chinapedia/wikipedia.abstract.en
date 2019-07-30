@@ -22,7 +22,7 @@ Branches
 
 Comparative
 
-Indo_European_philology_historical_and_comparative_1969.jpg (1969)]]
+(1969)]]
 
 The comparative linguistics branch of philology studies the relationship between languages. Similarities between Sanskrit and European languages were first noted in the early 16th century[13] and led to speculation of a common ancestor language from which all these descended. It is now named Proto-Indo-European. Philology's interest in ancient languages led to the study of what were, in the 18th century, "exotic" languages, for the light they could cast on problems in understanding and deciphering the origins of older texts.
 

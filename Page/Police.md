@@ -1,4 +1,4 @@
-HH_Polizeihauptmeister_MZ.jpg officer in Hamburg, with the rank of _Polizeihauptmeister mit Zulage_ (Police Chief Master with upgraded pay)]]
+officer in Hamburg, with the rank of _Polizeihauptmeister mit Zulage_ (Police Chief Master with upgraded pay)]]
 
 The POLICE are a constituted body of persons empowered by a state to enforce the law, to protect the lives, liberty and possessions of citizens, and to prevent crime and civil disorder.[1] Their powers include the power of arrest and the legitimized use of force. The term is most commonly associated with the police forces of a sovereign state that are authorized to exercise the police power of that state within a defined legal or territorial area of responsibility. Police forces are often defined as being separate from the military and other organizations involved in the defense of the state against foreign aggressors; however, gendarmerie are military units charged with civil policing.[2] Police forces are usually public sector services, funded through taxes.
 
@@ -52,7 +52,7 @@ Early modern policing
 
 The first centrally organised police force was created by the government of King Louis XIV in 1667 to police the city of Paris, then the largest city in Europe. The royal edict, registered by the _Parlement_ of Paris on March 15, 1667 created the office of _lieutenant général de police_ ("lieutenant general of police"), who was to be the head of the new Paris police force, and defined the task of the police as "ensuring the peace and quiet of the public and of private individuals, purging the city of what may cause disturbances, procuring abundance, and having each and everyone live according to their station and their duties".
 
-Gabriel-Nicolas_de_la_Reynie.jpg, founder of the first uniformed police force in the world.]] This office was first held by Gabriel Nicolas de la Reynie, who had 44 _commissaires de police_ (police commissioners) under his authority. In 1709, these commissioners were assisted by _inspecteurs de police_ (police inspectors). The city of Paris was divided into 16 districts policed by the _commissaires_, each assigned to a particular district and assisted by a growing bureaucracy. The scheme of the Paris police force was extended to the rest of France by a royal edict of October 1699, resulting in the creation of lieutenants general of police in all large French cities and towns.
+, founder of the first uniformed police force in the world.]] This office was first held by Gabriel Nicolas de la Reynie, who had 44 _commissaires de police_ (police commissioners) under his authority. In 1709, these commissioners were assisted by _inspecteurs de police_ (police inspectors). The city of Paris was divided into 16 districts policed by the _commissaires_, each assigned to a particular district and assisted by a growing bureaucracy. The scheme of the Paris police force was extended to the rest of France by a royal edict of October 1699, resulting in the creation of lieutenants general of police in all large French cities and towns.
 
 After the French Revolution, Napoléon I reorganized the police in Paris and other cities with more than 5,000 inhabitants on February 17, 1800 as the Prefecture of Police. On March 12, 1829, a government decree created the first uniformed police in France, known as _sergents de ville_ ("city sergeants"), which the Paris Prefecture of Police's website claims were the first uniformed policemen in the world.[19]
 
@@ -64,7 +64,7 @@ Modern police
 
 In London
 
-Patrick_Colquhoun.jpg, founder of the Thames River Police.]] In 1797, Patrick Colquhoun was able to persuade the West Indies merchants who operated at the Pool of London on the River Thames, to establish a police force at the docks to prevent rampant theft that was causing annual estimated losses of £500,000 worth of cargo.[20] The idea of a police, as it then existed in France, was considered as a potentially undesirable foreign import. In building the case for the police in the face of England's firm anti-police sentiment, Colquhoun framed the political rationale on economic indicators to show that a police dedicated to crime prevention was "perfectly congenial to the principle of the British constitution". Moreover, he went so far as to praise the French system, which had reached "the greatest degree of perfection" in his estimation.[21] No_Police!!_Well_Done_Aberystwyth_Boys_1850.jpg, Wales; April 1850.]]
+, founder of the Thames River Police.]] In 1797, Patrick Colquhoun was able to persuade the West Indies merchants who operated at the Pool of London on the River Thames, to establish a police force at the docks to prevent rampant theft that was causing annual estimated losses of £500,000 worth of cargo.[20] The idea of a police, as it then existed in France, was considered as a potentially undesirable foreign import. In building the case for the police in the face of England's firm anti-police sentiment, Colquhoun framed the political rationale on economic indicators to show that a police dedicated to crime prevention was "perfectly congenial to the principle of the British constitution". Moreover, he went so far as to praise the French system, which had reached "the greatest degree of perfection" in his estimation.[21] , Wales; April 1850.]]
 
 With the initial investment of £4,200, the new trial force of the Thames River Police began with about 50 men charged with policing 33,000 workers in the river trades, of whom Colquhoun claimed 11,000 were known criminals and "on the game". The force was a success after its first year, and his men had "established their worth by saving £122,000 worth of cargo and by the rescuing of several lives". Word of this success spread quickly, and the government passed the Marine Police Bill on 28 July 1800, transforming it from a private to public police agency; now the oldest police force in the world. Colquhoun published a book on the experiment, _The Commerce and Policing of the River Thames_. It found receptive audiences far outside London, and inspired similar forces in other cities, notably, New York City, Dublin, and Sydney.[22]
 
@@ -74,13 +74,13 @@ Meanwhile, the authorities in Glasgow, Scotland successfully petitioned the gove
 
 Metropolitan police force
 
-A_"Peeler"_of_the_Metropolitan_Police_Service_in_the_1850s.jpg in the 1850s.]] London was fast reaching a size unprecedented in world history, due to the onset of the Industrial Revolution.[27] It became clear that the locally maintained system of volunteer constables and "watchmen" was ineffective, both in detecting and preventing crime. A parliamentary committee was appointed to investigate the system of policing in London. Upon Sir Robert Peel being appointed as Home Secretary in 1822, he established a second and more effective committee, and acted upon its findings.
+in the 1850s.]] London was fast reaching a size unprecedented in world history, due to the onset of the Industrial Revolution.[27] It became clear that the locally maintained system of volunteer constables and "watchmen" was ineffective, both in detecting and preventing crime. A parliamentary committee was appointed to investigate the system of policing in London. Upon Sir Robert Peel being appointed as Home Secretary in 1822, he established a second and more effective committee, and acted upon its findings.
 
 Royal assent to the Metropolitan Police Act 1829 was given[28] and the Metropolitan Police Service was established on September 29, 1829 in London as the first modern and professional police force in the world.[29][30][31]
 
 Peel, widely regarded as the father of modern policing,[32] was heavily influenced by the social and legal philosophy of Jeremy Bentham, who called for a strong and centralised, but politically neutral, police force for the maintenance of social order, for the protection of people from crime and to act as a visible deterrent to urban crime and disorder.[33] Peel decided to standardise the police force as an official paid profession, to organise it in a civilian fashion, and to make it answerable to the public.[34]
 
-Christian_Krohg-Albertine_i_politilægens_venteværelse.jpg'' (1885–1887), painting by Christian Krohg.]] Due to public fears concerning the deployment of the military in domestic matters, Peel organised the force along civilian lines, rather than paramilitary. To appear neutral, the uniform was deliberately manufactured in blue, rather than red which was then a military colour, along with the officers being armed only with a wooden truncheon and a rattle to signal the need for assistance. Along with this, police ranks did not include military titles, with the exception of Sergeant.[35]
+'' (1885–1887), painting by Christian Krohg.]] Due to public fears concerning the deployment of the military in domestic matters, Peel organised the force along civilian lines, rather than paramilitary. To appear neutral, the uniform was deliberately manufactured in blue, rather than red which was then a military colour, along with the officers being armed only with a wooden truncheon and a rattle to signal the need for assistance. Along with this, police ranks did not include military titles, with the exception of Sergeant.[35]
 
 To distance the new police force from the initial public view of it as a new tool of government repression, Peel publicised the so-called Peelian principles, which set down basic guidelines for ethical policing:
 
@@ -88,7 +88,7 @@ To distance the new police force from the initial public view of it as a new too
 -   Whether the police are effective is not measured on the number of arrests but on the deterrence of crime.
 -   Above all else, an effective authority figure knows trust and accountability are paramount. Hence, Peel's most often quoted principle that "The police are the public and the public are the police."
 
-Police_group_portrait_Bury_St_Edmunds_Suffolk_England.jpg, Suffolk, England, c. 1900.]] The 1829 Metropolitan Police Act created a modern police force by limiting the purview of the force and its powers, and envisioning it as merely an organ of the judicial system. Their job was apolitical; to maintain the peace and apprehend criminals for the courts to process according to the law.[36] This was very different to the "continental model" of the police force that had been developed in France, where the police force worked within the parameters of the absolutist state as an extension of the authority of the monarch and functioned as part of the governing state.
+, Suffolk, England, c. 1900.]] The 1829 Metropolitan Police Act created a modern police force by limiting the purview of the force and its powers, and envisioning it as merely an organ of the judicial system. Their job was apolitical; to maintain the peace and apprehend criminals for the courts to process according to the law.[36] This was very different to the "continental model" of the police force that had been developed in France, where the police force worked within the parameters of the absolutist state as an extension of the authority of the monarch and functioned as part of the governing state.
 
 In 1863, the Metropolitan Police were issued with the distinctive custodian helmet, and in 1884 they switched to the use of whistles that could be heard from much further away.[37] The Metropolitan Police became a model for the police forces in most countries, such as the United States, and most of the British Empire. Bobbies can still be found in many parts of the Commonwealth of Nations.[38]
 
@@ -96,7 +96,7 @@ Other countries
 
 Australia
 
-Victorian_Police_Motorcycle,_Geelong,_Aust,_jjron,_30.9.2010.jpgs are commonly used for patrols and escorts, as seen here in Australia]] In Australia, the first police force having centralised command as well as jurisdiction over an entire colony was the South Australia Police, formed in 1838 under Henry Inman.
+s are commonly used for patrols and escorts, as seen here in Australia]] In Australia, the first police force having centralised command as well as jurisdiction over an entire colony was the South Australia Police, formed in 1838 under Henry Inman.
 
 However, whilst the New South Wales Police Force was established in 1862, it was made up from a large number of policing and military units operating within the then Colony of New South Wales and traces its links back to the Royal Marines. The passing of the Police Regulation Act of 1862 essentially tightly regulated and centralised all of the police forces operating throughout the Colony of New South Wales.
 
@@ -104,7 +104,7 @@ The New South Wales Police Force remains the largest police force in Australia i
 
 Brazil
 
-Fnst.jpg (Força Nacional de Segurança Pública)]] In 1566, the first police investigator of Rio de Janeiro was recruited. By the 17th century, most captaincies already had local units with law enforcement functions. On July 9, 1775 a Cavalry Regiment was created in the state of Minas Gerais for maintaining law and order. In 1808, the Portuguese royal family relocated to Brazil, because of the French invasion of Portugal. King João VI established the "Intendência Geral de Polícia" (General Police Intendancy) for investigations. He also created a Royal Police Guard for Rio de Janeiro in 1809. In 1831, after independence, each province started organizing its local "military police", with order maintenance tasks. The Federal Railroad Police was created in 1852, Federal Highway Police, was established in 1928, and Federal Police in 1967.
+(Força Nacional de Segurança Pública)]] In 1566, the first police investigator of Rio de Janeiro was recruited. By the 17th century, most captaincies already had local units with law enforcement functions. On July 9, 1775 a Cavalry Regiment was created in the state of Minas Gerais for maintaining law and order. In 1808, the Portuguese royal family relocated to Brazil, because of the French invasion of Portugal. King João VI established the "Intendência Geral de Polícia" (General Police Intendancy) for investigations. He also created a Royal Police Guard for Rio de Janeiro in 1809. In 1831, after independence, each province started organizing its local "military police", with order maintenance tasks. The Federal Railroad Police was created in 1852, Federal Highway Police, was established in 1928, and Federal Police in 1967.
 
 Canada
 
@@ -116,13 +116,13 @@ In Lebanon, modern police were established in 1861, with creation of the Gendarm
 
 India
 
-Gcp_patrol_car.jpg patrol car in India.]] In India, the police are under the control of respective States and union territories and is known to be under State Police Services (SPS). The candidates selected for the SPS are usually posted as Deputy Superintendent of Police or Assistant Commissioner of Police once their probationary period ends. On prescribed satisfactory service in the SPS, the officers are nominated to the Indian Police Service.[40] The service color is usually dark blue and red, while the uniform color is _Khaki_.[41]
+patrol car in India.]] In India, the police are under the control of respective States and union territories and is known to be under State Police Services (SPS). The candidates selected for the SPS are usually posted as Deputy Superintendent of Police or Assistant Commissioner of Police once their probationary period ends. On prescribed satisfactory service in the SPS, the officers are nominated to the Indian Police Service.[40] The service color is usually dark blue and red, while the uniform color is _Khaki_.[41]
 
 United States
 
 In British North America, policing was initially provided by local elected officials. For instance, the New York Sheriff's Office was founded in 1626, and the Albany County Sheriff's Department in the 1660s. In the colonial period, policing was provided by elected sheriffs and local militias.
 
-In 1789 the U.S. Marshals Service was established, followed by other federal services such as the U.S. Parks Police (1791)[42] and U.S. Mint Police (1792).[43] The first city police services were established in Philadelphia in 1751,[44] Richmond, Virginia in 1807,[45] Boston in 1838,[46] and New York in 1845.[47] The U.S. Secret Service was founded in 1865 and was for some time the main investigative body for the federal government.[48] U.S._Marshals_knock_and_announce.jpg covers his fellow officers with an M4 carbine during a "knock-and-announce" procedure]]
+In 1789 the U.S. Marshals Service was established, followed by other federal services such as the U.S. Parks Police (1791)[42] and U.S. Mint Police (1792).[43] The first city police services were established in Philadelphia in 1751,[44] Richmond, Virginia in 1807,[45] Boston in 1838,[46] and New York in 1845.[47] The U.S. Secret Service was founded in 1865 and was for some time the main investigative body for the federal government.[48] covers his fellow officers with an M4 carbine during a "knock-and-announce" procedure]]
 
 In the American Old West, policing was often of very poor quality. The Army often provided some policing alongside poorly resourced sheriffs and temporarily organized posses. Public organizations were supplemented by private contractors, notably the Pinkerton National Detective Agency, which was hired by individuals, businessmen, local governments and the federal government. At its height, the Pinkerton Agency's numbers exceeded those of the United States Army.
 
@@ -134,7 +134,7 @@ Michel Foucault claims that the contemporary concept of police as a paid and fun
 
 As conceptualized by the _Polizeiwissenschaft_, according to Foucault the police had an administrative, economic and social duty ("procuring abundance"). It was in charge of demographic concerns and needed to be incorporated within the western political philosophy system of raison d'état and therefore giving the superficial appearance of empowering the population (and unwittingly supervising the population), which, according to mercantilist theory, was to be the main strength of the state. Thus, its functions largely overreached simple law enforcement activities and included public health concerns, urban planning (which was important because of the miasma theory of disease; thus, cemeteries were moved out of town, etc.), and surveillance of prices.[53]
 
-Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg, philosopher who advocated for the establishment of preventive police forces and influenced the reforms of Sir Robert Peel.]] The concept of preventive policing, or policing to deter crime from taking place, gained influence in the late 18th century. Police Magistrate John Fielding, head of the Bow Street Runners, argued that "...it is much better to prevent even one man from being a rogue than apprehending and bringing forty to justice."[54]
+, philosopher who advocated for the establishment of preventive police forces and influenced the reforms of Sir Robert Peel.]] The concept of preventive policing, or policing to deter crime from taking place, gained influence in the late 18th century. Police Magistrate John Fielding, head of the Bow Street Runners, argued that "...it is much better to prevent even one man from being a rogue than apprehending and bringing forty to justice."[54]
 
 The Utilitarian philosopher, Jeremy Bentham, promoted the views of Italian Marquis Cesare Beccaria, and disseminated a translated version of "Essay on Crime in Punishment". Bentham espoused the guiding principle of "the greatest good for the greatest number:
 
@@ -153,13 +153,13 @@ Police forces include both preventive (uniformed) police and detectives. Termino
 
 Uniformed police
 
-Brazilian_Federal_Highway_Police.jpg at work.]] The police who wear uniforms make up the majority of a police service's personnel. Their main duty is to respond to calls to the emergency telephone number. When not responding to these call-outs, they will do work aimed at preventing crime, such as patrols. The uniformed police are known by varying names such as preventive police, the uniform branch/division, administrative police, order police, the patrol bureau/division or patrol. In Australia and the United Kingdom, patrol personnel are also known as "general duties" officers.[60] Atypically, Brazil's preventive police are known as Military Police.[61]
+at work.]] The police who wear uniforms make up the majority of a police service's personnel. Their main duty is to respond to calls to the emergency telephone number. When not responding to these call-outs, they will do work aimed at preventing crime, such as patrols. The uniformed police are known by varying names such as preventive police, the uniform branch/division, administrative police, order police, the patrol bureau/division or patrol. In Australia and the United Kingdom, patrol personnel are also known as "general duties" officers.[60] Atypically, Brazil's preventive police are known as Military Police.[61]
 
 As implied by the name, uniformed police wear uniforms. They perform functions that require an immediate recognition of an officer's legal authority and a potential need for force. Most commonly this means intervening to stop a crime in progress and securing the scene of a crime that has already happened. Besides dealing with crime, these officers may also manage and monitor traffic, carry out community policing duties, maintain order at public events or carry out searches for missing people (in 2012, the latter accounted for 14% of police time in the United Kingdom).[62] As most of these duties must be available as a 24/7 service, uniformed police are required to do shift work.
 
 Detectives
 
-vehicle_drug_search_australia.jpg officers search the vehicle of a suspected drug smuggler at a border crossing. Wentworth, New South Wales, Australia]] Police detectives are responsible for investigations and detective work. Detectives may be called Investigations Police, Judiciary/Judicial Police, and Criminal Police. In the UK, they are often referred to by the name of their department, the Criminal Investigation Department (CID). Detectives typically make up roughly 15–25% of a police service's personnel.
+officers search the vehicle of a suspected drug smuggler at a border crossing. Wentworth, New South Wales, Australia]] Police detectives are responsible for investigations and detective work. Detectives may be called Investigations Police, Judiciary/Judicial Police, and Criminal Police. In the UK, they are often referred to by the name of their department, the Criminal Investigation Department (CID). Detectives typically make up roughly 15–25% of a police service's personnel.
 
 Detectives, in contrast to uniformed police, typically wear 'business attire' in bureaucratic and investigative functions where a uniformed presence would be either a distraction or intimidating, but a need to establish police authority still exists. "Plainclothes" officers dress in attire consistent with that worn by the general public for purposes of blending in.
 
@@ -177,7 +177,7 @@ Other volunteer organizations work with the police and perform some of their dut
 
 Specialized units
 
-Rakshak.JPG, the Mumbai Police created specialized, quick response teams to deal with terror threats.]]
+, the Mumbai Police created specialized, quick response teams to deal with terror threats.]]
 
 Specialized preventive and detective groups, or Specialist Investigation Departments exist within many law enforcement organizations either for dealing with particular types of crime, such as traffic law enforcement, K9, crash investigation, homicide, or fraud; or for situations requiring specialized skills, such as underwater search, aviation, explosive device disposal ("bomb squad"), and computer crime.
 
@@ -193,7 +193,7 @@ Police may have administrative duties that are not directly related to enforcing
 
 Military police
 
-RUC_PSNI_Dungiven.JPG barracks in Northern Ireland. The high walls are to protect against mortar bomb attacks.]] Military police may refer to:
+barracks in Northern Ireland. The high walls are to protect against mortar bomb attacks.]] Military police may refer to:
 
 -   a section of the military solely responsible for policing the armed forces (referred to as provosts)
 -   a section of the military responsible for policing in both the armed forces and in the civilian population (most gendarmeries, such as the French Gendarmerie, the Italian Carabinieri, the Spanish Guardia Civil and the Portuguese Republican National Guard also known as GNR)
@@ -203,7 +203,7 @@ RUC_PSNI_Dungiven.JPG barracks in Northern Ireland. The high walls are to protec
 
 Religious police
 
-Taliban_beating_woman_in_public_RAWA.jpg Some Islamic societies have religious police, who enforce the application of Islamic Sharia law. Their authority may include the power to arrest unrelated men and women caught socializing, anyone engaged in homosexual behavior or prostitution; to enforce Islamic dress codes, and store closures during Islamic prayer time.[67][68]
+Some Islamic societies have religious police, who enforce the application of Islamic Sharia law. Their authority may include the power to arrest unrelated men and women caught socializing, anyone engaged in homosexual behavior or prostitution; to enforce Islamic dress codes, and store closures during Islamic prayer time.[67][68]
 
 They enforce Muslim dietary laws, prohibit the consumption or sale of alcoholic beverages and pork, and seize banned consumer products and media regarded as un-Islamic, such as CDs/DVDs of various Western musical groups, television shows and film.[69][70] In Saudi Arabia, the Mutaween actively prevent the practice or proselytizing of non-Islamic religions within Saudi Arabia, where they are banned.[71][72]
 
@@ -229,7 +229,7 @@ Equipment
 
 Weapons
 
-Ոստիկանության_իրավապահ_մարմինները_Կոմիտասի_պողոտայում,_ապրիլի_20,_2018_(2).png, Armenia, during the Velvet Revolution]] In many jurisdictions, police officers carry firearms, primarily handguns, in the normal course of their duties. In the United Kingdom (except Northern Ireland), Iceland, Ireland, Norway, New Zealand,[88] and Malta, with the exception of specialist units, officers do not carry firearms as a matter of course.
+, Armenia, during the Velvet Revolution]] In many jurisdictions, police officers carry firearms, primarily handguns, in the normal course of their duties. In the United Kingdom (except Northern Ireland), Iceland, Ireland, Norway, New Zealand,[88] and Malta, with the exception of specialist units, officers do not carry firearms as a matter of course.
 
 Police often have specialist units for handling armed offenders, and similar dangerous situations, and can (depending on local laws), in some extreme circumstances, call on the military (since Military Aid to the Civil Power is a role of many armed forces). Perhaps the most high-profile example of this was, in 1980 the Metropolitan Police handing control of the Iranian Embassy Siege to the Special Air Service.
 
@@ -241,7 +241,7 @@ Modern police forces make extensive use of two-way radio communications equipmen
 
 Vehicles
 
-US_Capitol_Police_Cruiser_Ford_Crown_Vic_fr.jpg, one of the most recognizable models of American police car. This unit belongs to US Capitol Police.]]
+, one of the most recognizable models of American police car. This unit belongs to US Capitol Police.]]
 
 Police vehicles are used for detaining, patrolling and transporting. The average police patrol vehicle is a specially modified, four door sedan (saloon in British English). Police vehicles are usually marked with appropriate logos and are equipped with sirens and flashing light bars to aid in making others aware of police presence.
 
@@ -295,7 +295,7 @@ All police officers in the United Kingdom, whatever their actual rank, are 'cons
 
 Conduct, accountability and public confidence
 
-ftaapolice.png at protesters during the Quebec City Summit of the Americas.
+at protesters during the Quebec City Summit of the Americas.
 The Commission for Public Complaints against the RCMP later concluded the use of tear gas against demonstrators at the summit constituted "excessive and unjustified force".[109]]] Police services commonly include units for investigating crimes committed by the police themselves. These units are typically called Inspectorate-General, or in the US, "internal affairs". In some countries separate organizations outside the police exist for such purposes, such as the British Independent Office for Police Conduct.
 
 Likewise, some state and local jurisdictions, for example, Springfield, Illinois[110] have similar outside review organizations. The Police Service of Northern Ireland is investigated by the Police Ombudsman for Northern Ireland, an external agency set up as a result of the Patten report into policing the province. In the Republic of Ireland the Garda Síochána is investigated by the Garda Síochána Ombudsman Commission, an independent commission that replaced the Garda Complaints Board in May 2007.
@@ -308,7 +308,7 @@ Due to a long-term decline in public confidence for law enforcement in the Unite
 
 Use of force
 
-Police_action_during_Gezi_park_protests_in_Istanbul._Events_of_June_15,_2013-6.jpg riot control officer uses force on a protester in Gezi Park protests.]] Police forces also find themselves under criticism for their use of force, particularly deadly force. Specifically, tension increases when a police officer of one ethnic group harms or kills a suspect of another one. In the United States, such events occasionally spark protests and accusations of racism against police and allegations that police departments practice racial profiling.
+riot control officer uses force on a protester in Gezi Park protests.]] Police forces also find themselves under criticism for their use of force, particularly deadly force. Specifically, tension increases when a police officer of one ethnic group harms or kills a suspect of another one. In the United States, such events occasionally spark protests and accusations of racism against police and allegations that police departments practice racial profiling.
 
 In the United States since the 1960s, concern over such issues has increasingly weighed upon law enforcement agencies, courts and legislatures at every level of government. Incidents such as the 1965 Watts Riots, the videotaped 1991 beating by Los Angeles Police officers of Rodney King, and the riot following their acquittal have been suggested by some people to be evidence that U.S. police are dangerously lacking in appropriate controls.
 

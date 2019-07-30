@@ -58,7 +58,7 @@ Given infinite space, there would, in fact, be an infinite number of Hubble volu
 
 Level II: Universes with different physical constants
 
-Multiverse_-_level_II.svg – every disk represents a bubble universe. Our universe is represented by one of the disks.
+– every disk represents a bubble universe. Our universe is represented by one of the disks.
 Universe 1 to Universe 6 represent bubble universes. Five of them have different physical constants than our universe has.]] In the chaotic inflation theory, which is a variant of the cosmic inflation theory, the multiverse or space as a whole is stretching and will continue doing so forever,[64] but some regions of space stop stretching and form distinct bubbles (like gas pockets in a loaf of rising bread). Such bubbles are embryonic level I multiverses.
 
 Different bubbles may experience different spontaneous symmetry breaking, which results in different properties, such as different physical constants.[65]

@@ -7,7 +7,7 @@ History
 
 "Nasdaq" was initially an acronym for the National Association of Securities Dealers Automated Quotations.[3] It was founded in 1971 by the National Association of Securities Dealers (NASD),[4] which divested itself of Nasdaq in a series of sales in 2000 and 2001. The Nasdaq Stock Market is owned and operated by Nasdaq, Inc., the stock of which was listed on its own securities exchange on July 2, 2002, under the ticker symbol .
 
-NASDAQ.svg The Nasdaq Stock Market began trading on February 8, 1971. It was the world's first electronic stock market.[5] At first, it was merely a "quotation system" and did not provide a way to perform electronic trades.[6] The Nasdaq Stock Market helped lower the spread (the difference between the bid price and the ask price of the stock) but was unpopular among brokerages which made much of their money on the spread.
+The Nasdaq Stock Market began trading on February 8, 1971. It was the world's first electronic stock market.[5] At first, it was merely a "quotation system" and did not provide a way to perform electronic trades.[6] The Nasdaq Stock Market helped lower the spread (the difference between the bid price and the ask price of the stock) but was unpopular among brokerages which made much of their money on the spread.
 
 The NASDAQ Stock Market eventually assumed the majority of major trades that had been executed by the over-the-counter (OTC) system of trading, but there are still many securities traded in this fashion. As late as 1987, the Nasdaq exchange was still commonly referred to as "OTC" in media reports[7] and also in the monthly Stock Guides (stock guides and procedures) issued by Standard & Poor's Corporation.
 
@@ -17,11 +17,11 @@ Its main index is the NASDAQ Composite, which has been published since its incep
 
 In 1992, the Nasdaq Stock Market joined with the London Stock Exchange to form the first intercontinental linkage of securities markets.[8] The National Association of Securities Dealers spun off the Nasdaq Stock Market in 2000 to form a publicly traded company.
 
-Nasdaq_Composite_dot-com_bubble.svg index spiked in the late 1990s and then fell sharply as a result of the dot-com bubble.]]
+index spiked in the late 1990s and then fell sharply as a result of the dot-com bubble.]]
 
 2000–present
 
-NASDAQ_Market_Site_201506.jpg On March 10, 2000, the NASDAQ Composite peaked at 5,132.52, but fell to 3,227 by April 17,[9] and in the following 30 months fell 78% from its peak.[10]
+On March 10, 2000, the NASDAQ Composite peaked at 5,132.52, but fell to 3,227 by April 17,[9] and in the following 30 months fell 78% from its peak.[10]
 
 In 2006, the status of the Nasdaq Stock Market was changed from a stock market to a licensed national securities exchange.[11]
 

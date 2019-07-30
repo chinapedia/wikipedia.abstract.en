@@ -1,4 +1,4 @@
-FA-18_Hornet_breaking_sound_barrier_(7_July_1999).jpg creating a vapor cone at transonic speed just before reaching the speed of sound]]
+creating a vapor cone at transonic speed just before reaching the speed of sound]]
 
 In fluid dynamics, the MACH NUMBER (M or MA) (; ) is a dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound.[1][2]
 
@@ -21,7 +21,7 @@ The Mach number is named after Austrian physicist and philosopher Ernst Mach,[5]
 
 Overview
 
-Comparison_US_standard_atmosphere_1962.svg Mach number is useful because the fluid behaves in a similar manner at a given Mach number, regardless of other variables.[7] As modeled in the International Standard Atmosphere, dry air at mean sea level, standard temperature of , the speed of sound is .[8] The speed of sound is not a constant; in a gas, it increases as the absolute temperature increases, and since atmospheric temperature generally decreases with increasing altitude between sea level and , the speed of sound also decreases. For example, the standard atmosphere model lapses temperature to at altitude, with a corresponding speed of sound (Mach1) of , 86.7% of the sea level value.
+Mach number is useful because the fluid behaves in a similar manner at a given Mach number, regardless of other variables.[7] As modeled in the International Standard Atmosphere, dry air at mean sea level, standard temperature of , the speed of sound is .[8] The speed of sound is not a constant; in a gas, it increases as the absolute temperature increases, and since atmospheric temperature generally decreases with increasing altitude between sea level and , the speed of sound also decreases. For example, the standard atmosphere model lapses temperature to at altitude, with a corresponding speed of sound (Mach1) of , 86.7% of the sea level value.
 
 
 Classification of Mach regimes
@@ -59,10 +59,10 @@ At transonic speeds, the flow field around the object includes both sub- and sup
 
 As the speed increases, the zone of M > 1 flow increases towards both leading and trailing edges. As M = 1 is reached and passed, the normal shock reaches the trailing edge and becomes a weak oblique shock: the flow decelerates over the shock, but remains supersonic. A normal shock is created ahead of the object, and the only subsonic zone in the flow field is a small area around the object's leading edge. (Fig.1b)
 
-  ------------------------------------ ------------------------------------
-  Transsonic_flow_over_airfoil_1.svg   Transsonic_flow_over_airfoil_2.svg
-  (a)                                  (b)
-  ------------------------------------ ------------------------------------
+  ----- -----
+
+  (a)   (b)
+  ----- -----
 
 FIG. 1. _Mach number in transonic airflow around an airfoil; M < 1 (a) and M > 1 (b)._
 

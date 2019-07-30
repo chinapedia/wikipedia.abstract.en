@@ -30,8 +30,6 @@ Another critique of the game system has been the large effect of character age o
 
 Publications
 
-RWCompanion.jpg
-
 Only two publications were ever published, the _Ringworld_ role-playing game box set itself, and the _Ringworld Companion_, both in 1984 by Chaosium. The magazine _Different Worlds_, issue 37, featured a _Ringworld_ adventure, "Louis Wu & His Motley Crew." The article "The Dolphins of Known Space: A new race for the Ringworld Game" appeared in _Dragon Magazine_ issue 95.
 
 _Ringworld_ Box Set

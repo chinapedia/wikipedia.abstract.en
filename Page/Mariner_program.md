@@ -1,4 +1,4 @@
-Atlas_Agena_with_Mariner_1.jpg in 1962]]
+in 1962]]
 
 The MARINER PROGRAM was a 10-mission program conducted by the American space agency NASA in conjunction with Jet Propulsion Laboratory (JPL).[1] The program launched a series of robotic interplanetary probes, from 1962 to 1973, designed to investigate Mars, Venus and Mercury.[2] The program included a number of firsts, including the first planetary flyby, the first planetary orbiter, and the first gravity assist maneuver.
 
@@ -11,7 +11,7 @@ The name of the Mariner program was decided in "May 1960-at the suggestion of Ed
 
 Basic layout
 
-Kennedy_Receives_Mariner_2_Model.jpg, (center) JPL Director, presenting a Mariner 2 spacecraft model to President John F. Kennedy, (right). NASA Administrator James Webb is standing directly behind the Mariner model
+, (center) JPL Director, presenting a Mariner 2 spacecraft model to President John F. Kennedy, (right). NASA Administrator James Webb is standing directly behind the Mariner model
 
 ]]
 
@@ -35,8 +35,6 @@ Mariners:
 
 Mariners 1 and 2
 
-Mariner_2.jpg
-
 Mariner 1 (P-37) and Mariner 2 (P-38) were two deep-space probes making up NASA's Mariner-R project. The primary goal of the project was to develop and launch two spacecraft sequentially to the near vicinity of Venus, receive communications from the spacecraft and to perform radiometric temperature measurements of the planet. A secondary objective was to make interplanetary magnetic field and/or particle measurements on the way to, and in the vicinity of, Venus.[8][9] Mariner 1 (designated Mariner R-1) was launched on July 22, 1962, but was destroyed approximately 5 minutes after liftoff by the Air Force Range Safety Officer when its malfunctioning Atlas-Agena rocket went off course. Mariner 2 (designated Mariner R-2) was launched on August 27, 1962, sending it on a 3½-month flight to Venus. The mission was a success, and Mariner 2 became the first spacecraft to have flown by another planet.
 
 -   Mission: Venus flyby
@@ -51,7 +49,7 @@ Status:
 
 Mariners 3 and 4
 
-Mariner_3_and_4.jpg Sisterships Mariner 3 and Mariner 4 were Mars flyby missions.[10]
+Sisterships Mariner 3 and Mariner 4 were Mars flyby missions.[10]
 
 Mariner 3 was lost when the launch vehicle's nose fairing failed to jettison.
 
@@ -69,7 +67,7 @@ Status:
 
 Mariner 5
 
-Mariner_5.jpgThe Mariner 5 spacecraft was launched to Venus on June 14, 1967 and arrived in the vicinity of the planet in October 1967. It carried a complement of experiments to probe Venus' atmosphere with radio waves, scan its brightness in ultraviolet light, and sample the solar particles and magnetic field fluctuations above the planet.
+The Mariner 5 spacecraft was launched to Venus on June 14, 1967 and arrived in the vicinity of the planet in October 1967. It carried a complement of experiments to probe Venus' atmosphere with radio waves, scan its brightness in ultraviolet light, and sample the solar particles and magnetic field fluctuations above the planet.
 
 -   Mission: Venus flyby
 -   Mass: 245 kg (540 lb)
@@ -80,7 +78,7 @@ Status: Mariner 5 – Defunct. Now in Heliocentric orbit.
 
 Mariners 6 and 7
 
-Mariner_6and7.gifMariners 6 and 7 were identical teammates in a two-spacecraft mission to Mars. Mariner 6 was launched on February 24, 1969, followed by Mariner 7 on March 21, 1969. They flew over the equator and southern hemisphere of the planet Mars.[15]
+Mariners 6 and 7 were identical teammates in a two-spacecraft mission to Mars. Mariner 6 was launched on February 24, 1969, followed by Mariner 7 on March 21, 1969. They flew over the equator and southern hemisphere of the planet Mars.[15]
 
 -   Mission: Mars flybys
 -   Mass 413 kg (908 lb)
@@ -94,7 +92,7 @@ Status:
 
 Mariners 8 and 9
 
-Mariner09.jpgMariner 8 and Mariner 9 were identical sister craft designed to map the Martian surface simultaneously, but Mariner 8 was lost in a launch vehicle failure. Mariner 9 was launched in May 1971 and became the first artificial satellite of Mars. It entered Martian orbit in November 1971 and began photographing the surface and analyzing the atmosphere with its infrared and ultraviolet instruments.
+Mariner 8 and Mariner 9 were identical sister craft designed to map the Martian surface simultaneously, but Mariner 8 was lost in a launch vehicle failure. Mariner 9 was launched in May 1971 and became the first artificial satellite of Mars. It entered Martian orbit in November 1971 and began photographing the surface and analyzing the atmosphere with its infrared and ultraviolet instruments.
 
 -   Mission: orbit Mars
 -   Mass 998 kg (2,200 lb)
@@ -108,7 +106,7 @@ Status:
 
 Mariner 10
 
-Mariner_10.jpgThe Mariner 10 spacecraft launched on November 3, 1973 and was the first to use a gravity assist trajectory, accelerating as it entered the gravitational influence of Venus, then being flung by the planet's gravity onto a slightly different course to reach Mercury. It was also the first spacecraft to encounter two planets at close range, and for 33 years the only spacecraft to photograph Mercury in closeup.
+The Mariner 10 spacecraft launched on November 3, 1973 and was the first to use a gravity assist trajectory, accelerating as it entered the gravitational influence of Venus, then being flung by the planet's gravity onto a slightly different course to reach Mercury. It was also the first spacecraft to encounter two planets at close range, and for 33 years the only spacecraft to photograph Mercury in closeup.
 
 -   Mission: plasma, charged particles, magnetic fields, radio occultation and celestial mechanics
 

@@ -74,7 +74,7 @@ Musicianship
 
 Style and influences
 
-Rush-in-concert.jpg and Geddy Lee) performing with Rush]]
+and Geddy Lee) performing with Rush]]
 
 Peart's drumming skill and technique are well-regarded by fans, fellow musicians, and music journalists.[44][45] His influences are eclectic, ranging from Pete Thomas, John Bonham, Michael Giles, Ginger Baker, Phil Collins, Steve Gadd, Stewart Copeland,[46] Michael Shrieve[47][48] and Keith Moon, to fusion and jazz drummers Billy Cobham, Buddy Rich, Bill Bruford and Gene Krupa.[49][50] The Who was the first group that inspired him to write songs and play the drums.[51] Peart is distinguished for playing "butt-end out", reversing stick orientation for greater impact and increased rimshot capacity. "When I was starting out", Peart said, "if I broke the tips off my sticks I couldn't afford to buy new ones, so I would just turn them around and use the other end. I got used to it, and continue to use the heavy end of lighter sticks – it gives me a solid impact, but with less 'dead weight' to sling around."[52]
 
@@ -82,9 +82,9 @@ Peart had long played matched grip but shifted to traditional as part of his sty
 
 Equipment
 
-Neil_Peart3.jpg With Rush, Peart played Slingerland, Tama, Ludwig, and Drum Workshop drums, in that order.[54]
+With Rush, Peart played Slingerland, Tama, Ludwig, and Drum Workshop drums, in that order.[54]
 
-Peart played Zildjian A-series cymbals and Wuhan china cymbals until the early 2000s when he switched to Paragon, a line created for him by Sabian.[55][56] In concert, Peart used an elaborate 360-degree drum kit, with a large acoustic set in front and electronic drums to the rear. Simmons_SDS5_Electric_Drum.jpg
+Peart played Zildjian A-series cymbals and Wuhan china cymbals until the early 2000s when he switched to Paragon, a line created for him by Sabian.[55][56] In concert, Peart used an elaborate 360-degree drum kit, with a large acoustic set in front and electronic drums to the rear.
 
 During the late 1970s, Peart augmented his acoustic setup with diverse percussion instruments including orchestra bells, tubular bells, wind chimes, crotales, timbales, timpani, gong, temple blocks, bell tree, triangle, and melodic cowbells.[57] Since the mid-1980s, Peart has replaced several of these pieces with MIDI trigger pads. This was done in order to trigger sounds sampled from various pieces of acoustic percussion that would otherwise consume far too much stage area. Some purely electronic non-instrumental sounds are also used. One classic MIDI pad used is the Malletkat Express, which is a two-octave electronic MIDI device that resembles a xylophone or piano. The Malletkat Express is composed of rubber pads for the "keys" so that any stick can be used. Beginning with 1984's _Grace Under Pressure_, he used Simmons electronic drums in conjunction with Akai digital samplers.[58] Peart has performed several songs primarily using the electronic portion of his drum kit. (e.g. "Red Sector A", "Closer to the Heart" on _A Show of Hands_ and "Mystic Rhythms" on _R30_.) Peart's drum solos also feature sections performed primarily on the electronic portion of his kit.
 

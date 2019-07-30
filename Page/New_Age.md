@@ -1,4 +1,4 @@
-Rainbow_Gathering_Bosnia_2007.JPG in Bosnia and Herzegovina, 2007]]
+in Bosnia and Herzegovina, 2007]]
 
 NEW AGE is a term applied to a range of spiritual or religious beliefs and practices that developed in Western nations during the 1970s. Precise scholarly definitions of the New Age differ in their emphasis, largely as a result of its highly eclectic structure. Although analytically often considered to be religious, those involved in it typically prefer the designation of SPIRITUAL or MIND, BODY, SPIRIT and rarely use the term "New Age" themselves. Many scholars of the subject refer to it as the NEW AGE MOVEMENT, although others contest this term and suggest that it is better seen as a milieu or zeitgeist.
 
@@ -52,7 +52,7 @@ A further major influence on the New Age was the Theosophical Society, an occult
 
 Hanegraaff believed that the New Age's direct antecedents could be found in the UFO religions of the 1950s, which he termed a "proto-New Age movement". Many of these new religious movements had strong apocalyptic beliefs regarding a coming new age, which they typically asserted would be brought about by contact with extraterrestrials. Examples of such groups included the Aetherius Society, founded in the UK in 1955, and the Heralds of the New Age, established in New Zealand in 1956.
 
-Barrel_House.jpg.]]
+.]]
 
 1960s
 
@@ -74,7 +74,7 @@ Not everyone who came to be associated with the New Age phenomenon openly embrac
 
 1971 witnessed the foundation of est by Werner H. Erhard, a transformational training course that became a prominent part of the early movement. Melton suggested that the 1970s witnessed the growth of a relationship between the New Age movement and the older New Thought movement, as evidenced by the widespread use of Helen Schucman's _A Course in Miracles_ (1975), New Age music, and crystal healing in New Thought churches. Some figures in the New Thought movement were sceptical, challenging the compatibility of New Age and New Thought perspectives. During these decades, Findhorn had become a site of pilgrimage for many New Agers, and greatly expanded in size as people joined the community, with workshops and conferences being held there that brought together New Age thinkers from across the world.
 
-New_Age_Shrine_Glastonbury_-_geograph.org.uk_-_167848.jpg, England]]
+, England]]
 
 Several key events occurred, which raised public awareness of the New Age subculture: publication of Linda Goodman's best-selling astrology books _Sun Signs_ (1968) and _Love Signs_ (1978); the release of Shirley MacLaine's book _Out on a Limb_ (1983), later adapted into a television mini-series with the same name (1987); and the "Harmonic Convergence" planetary alignment on August 16 and 17, 1987,[3] organized by José Argüelles in Sedona, Arizona. The Convergence attracted more people to the movement than any other single event. Heelas suggested that the movement was influenced by the "enterprise culture" encouraged by the U.S. and U.K. governments during the 1980s onward, with its emphasis on initiative and self-reliance resonating with any New Age ideas.
 
@@ -105,8 +105,6 @@ As part of its eclecticism, the New Age draws ideas from many different cultural
 
 Theology, cosmogony, and cosmology
 
-Snoqualmie_Moondance_meditation_02.jpg
-
 A belief in divinity is integral to New Age ideas, although understandings of this divinity vary. New Age theology exhibits an inclusive and universalistic approach that accepts all personal perspectives on the divine as equally valid. This intentional vagueness as to the nature of divinity also reflects the New Age idea that divinity cannot be comprehended by the human mind or language. New Age literature nevertheless displays recurring traits in its depiction of the divine: the first is the idea that it is holistic, thus frequently being described with such terms as an "Ocean of Oneness", "Infinite Spirit", "Primal Stream", "One Essence", and "Universal Principle". A second trait is the characterisation of divinity as "Mind", "Consciousness", and "Intelligence", while a third is the description of divinity as a form of "energy". A fourth trait is the characterisation of divinity as a "life force", the essence of which is creativity, while a fifth is the concept that divinity consists of love.
 
 Most New Age groups believe in an Ultimate Source from which all things originate, which is usually conflated with the divine. Various creation myths have been articulated in New Age publications outlining how this Ultimate Source created the universe and everything in it. In contrast, some New Agers emphasise the idea of a universal inter-relatedness that is not always emanating from a single source. The New Age worldview emphasises holism and the idea that everything in existence is intricately connected as part of a single whole, in doing so rejecting both the dualism of Judeo-Christian thought and the reductionism of Cartesian science. A number of New Agers have linked this holistic interpretation of the universe to the Gaia hypothesis of James Lovelock. The idea of holistic divinity results in a common New Age belief that humans themselves are divine in essence, a concept described using such terms as "droplet of divinity", "inner Godhead", and "divine self". Influenced by Theosophical and Anthroposophical ideas regarding 'subtle bodies', a common New Age idea holds to the existence of a "Higher Self" that is a part of the human but connects with the divine essence of the universe, and which can advise the human mind through intuition.
@@ -127,8 +125,6 @@ Astrological cycles and the Age of Aquarius
 
 New Age thought typically envisions the world as developing through cosmological cycles that can be identified astrologically. It adopts this concept from Theosophy, although often presents it in a looser and more eclectic way than is found in Theosophical teaching. New Age literature often claims that humanity once lived in an age of spiritual wisdom. In the writings of New Agers like Edgar Cayce, the ancient period of spiritual wisdom is associated with concepts of supremely-advanced societies living on lost continents such as Atlantis, Lemuria, and Mu, as well as the idea that ancient societies like those of Ancient Egypt were far more technologically advanced than modern scholarship accepts. New Age literature often posits that the ancient period of spiritual wisdom gave way to an age of spiritual decline, sometimes termed the Age of Pisces. Although characterised as being a negative period for humanity, New Age literature views the Age of Pisces as an important learning experience for the species. Hanegraaff stated that New Age perceptions of history were "extremely sketchy" in their use of description, reflecting little interest in historiography and conflating history with myth. He also noted that they were highly ethnocentric in placing Western civilization at the centre of historical development.
 
-Venice_ast_sm.jpg
-
 A common belief among the New Age is that humanity has entered, or is coming to enter, a new period known as the Age of Aquarius, which Melton has characterised as a "New Age of love, joy, peace, abundance, and harmony[...] the Golden Age heretofore only dreamed about." In accepting this belief in a coming new age, the milieu has been described as "highly positive, celebratory, [and] utopian", and has also been cited as an apocalyptic movement. Opinions about the nature of the coming Age of Aquarius differ among New Agers. There are for instance differences in belief about its commencement; New Age author David Spangler claimed that it began in 1967, others placed its beginning with the Harmonic Convergence of 1987, author José Argüelles predicted its start in 2012, and some believe that it will not begin until several centuries into the third millennium.
 
 There are also differences in how this new age is envisioned. Those adhering to what Hanegraaff termed the "moderate" perspective believed that it would be marked by an improvement to current society, which affected both New Age concerns—through the convergence of science and mysticism and the global embrace of alternative medicine—to more general concerns, including an end to violence, crime and war, a healthier environment, and international co-operation. Other New Agers adopt a fully utopian vision, believing that the world will be wholly transformed into an "Age of Light", with humans evolving into totally spiritual beings and experiencing unlimited love, bliss, and happiness. Rather than conceiving of the Age of Aquarius as an indefinite period, many believe that it would last for around two thousand years before being replaced by a further age.
@@ -139,7 +135,7 @@ Healing and alternative medicine
 
 Another recurring element of New Age is an emphasis on healing and alternative medicine.[6] The general New Age ethos is that health is the natural state for the human being and that illness is a disruption of that natural balance. Hence, New Age therapies seek to heal "illness" as a general concept that includes physical, mental, and spiritual aspects; in doing so it critiques mainstream Western medicine for simply attempting to cure disease, and thus has an affinity with most forms of traditional medicine. Its focus of self-spirituality has led to the emphasis of self-healing, although also present are ideas on healing both others and the Earth itself.
 
-Siete_chakras.jpg is one of the alternative therapies commonly found in the New Age movement.]]
+is one of the alternative therapies commonly found in the New Age movement.]]
 
 The healing elements of the movement are difficult to classify given that a variety of terms are used, with some New Age authors using different terms to refer to the same trends, while others use the same term to refer to different things. However, Hanegraaff developed a set of categories into which the forms of New Age healing could be roughly categorised. The first of these was the Human Potential Movement, which argues that contemporary Western society suppresses much human potential, and accordingly professes to offer a path through which individuals can access those parts of themselves that they have alienated and suppressed, thus enabling them to reach their full potential and live a meaningful life. Hanegraaff described transpersonal psychology as the "theoretical wing" of this Human Potential Movement; in contrast to other schools of psychological thought, transpersonal psychology takes religious and mystical experiences seriously by exploring the uses of altered states of consciousness. Closely connected to this is the shamanic consciousness current, which argues that the shaman was a specialist in altered states of consciousness and seeks to adopt and imitate traditional shamanic techniques as a form of personal healing and growth.
 
@@ -170,7 +166,7 @@ Sutcliffe noted that although most influential New Age figureheads were male, ap
 
 The majority of New Agers are from the middle and upper-middle classes of Western society. Heelas and Woodhead found that of the active Kendal New Agers, 57% had a university or college degree. Their Kendal Project also determined that 73% of active New Agers were aged over 45, and 55% were aged between 40 and 59; it also determined that many got involved while middle-aged. Comparatively few were either young or elderly. Heelas and Woodhead suggested that the dominance of middle-aged people, particularly women, was because at this stage of life they had greater time to devote to their own inner development, with their time previously having been dominated by raising children. They also suggested that middle-aged people were experiencing more age-related ailments than the young, and thus more keen to pursue New Age activities to improve their health.
 
-Rave_in_the_Henge_2005.jpg is a site visited by New Age pilgrims, as seen in this midsummer rave.]]
+is a site visited by New Age pilgrims, as seen in this midsummer rave.]]
 
 Heelas added that within the baby boomers, the movement had nevertheless attracted a diverse clientele. He typified the typical New Ager as someone who was well-educated yet disenchanted with mainstream society, thus arguing that the movement catered to those who believe that modernity is in crisis. He suggested that the movement appealed to many former practitioners of the 1960s counter-culture because while they came to feel that they were unable to change society, they were nonetheless interested in changing the self. He believed that many individuals had been "culturally primed for what the New Age has to offer", with the New Age attracting "expressive" people who were already comfortable with the ideals and outlooks of the movement's self-spirituality focus. It could be particularly appealing because the New Age suited the needs of the individual, whereas traditional religious options that are available primarily catered for the needs of a community. He believed that although the adoption of New Age beliefs and practices by some fitted the model of religious conversion, others who adopted some of its practices could not easily be considered to have converted to the religion. Sutcliffe described the "typical" participant in the New Age milieu as being "a religious individualist, mixing and matching cultural resources in an animated spiritual quest".
 
@@ -187,7 +183,7 @@ Online connections were one of the ways that interested individuals met new cont
 
 Commercial aspects
 
-New_Age_shop_and_Healing_centre,_St_Albans,_Hertfordshire.jpg that was located in St Albans, southern England]]
+that was located in St Albans, southern England]]
 
 Some New Agers advocate living in a simple and sustainable manner to reduce humanity's impact on the natural resources of Earth; and they shun consumerism.[8] The New Age movement has been centered around rebuilding a sense of community to counter social disintegration; this has been attempted through the formation of intentional communities, where individuals come together to live and work in a communal lifestyle.[9] New Age centres have been set up in various parts of the world, representing an institutionalised form of the movement. Notable examples include the Naropa Institute in Boulder, Colorado, Holly Hock Farm near to Vancouver, the Wrekin Trust in West Malvern, Worcestershire, and the Skyros Centre in Skyros. Criticising mainstream Western education as counterproductive to the ethos of the movement, many New Age groups have established their own schools for the education of children, although in other cases such groups have sought to introduce New Age spiritual techniques into pre-existing establishments.
 
@@ -226,7 +222,7 @@ Many New Agers advocate globalisation and localisation, but reject nationalism a
 
 Groups
 
-New_World_Alliance_1980.jpg was one of several New Age political groups in the 1970s and 1980s.]]
+was one of several New Age political groups in the 1970s and 1980s.]]
 
 Scholars have noted several New Age political groups. Self-Determination: A Personal/Political Network, lauded by Ferguson[19] and Satin,[20] was described at length by sociology of religion scholar Steven Tipton.[21] Founded in 1975 by California state legislator John Vasconcellos and others, it encouraged Californians to engage in personal growth work and political activities at the same time, especially at the grassroots level.[22] Hanegraaff noted another California-based group, the Institute of Noetic Sciences, headed by author Willis Harman. It advocated a change in consciousness – in "basic underlying assumptions" – in order to come to grips with global crises. Kyle said that the New York City-based Planetary Citizens organization, headed by United Nations consultant and _Earth at Omega_ author Donald Keys, sought to implement New Age political ideas.
 
@@ -234,7 +230,7 @@ Scholar J. Gordon Melton and colleagues focused on the New World Alliance, a Was
 
 In the 21st century
 
-Marianne_Williamson_(46644134).jpg campaigned for a seat in the U.S. Congress and for the Democratic Party nomination for president.[26]]]
+campaigned for a seat in the U.S. Congress and for the Democratic Party nomination for president.[26]]]
 
 While the term "New Age" may have fallen out of favor, scholar George Chryssides notes that the New Age by whatever name is "still alive and active" in the 21st century. In the realm of politics, New Ager Mark Satin's book _Radical Middle_ (2004) reached out to mainstream liberals.[27][28] York (2005) identified "key New Age spokespeople" including William Bloom, Satish Kumar, and Starhawk who were emphasizing a link between spirituality and environmental consciousness. Former Esalen Institute staffer Stephen Dinan's _Sacred America, Sacred World_ (2016) prompted a long interview of Dinan in _Psychology Today_, which called the book a "manifesto for our country's evolution that is both political and deeply spiritual".[29]
 
@@ -250,8 +246,6 @@ Mainstream periodicals tended to be less than sympathetic; sociologist Paul Ray 
 Some New Agers and New Age sympathizers responded to such criticisms. For example, sympathizers Ray and Anderson said that much of it was an attempt to "stereotype" the movement for idealistic and spiritual change, and to cut back on its popularity. New Age theoretician David Spangler tried to distance himself from what he called the "New Age glamour" of crystals, talk-show channelers, and other easily commercialized phenomena, and sought to underscore his commitment to the New Age as a vision of genuine social transformation.
 
 Academia
-
-Wouter_Hanegraaff_2006_Alchemy_Conference.jpg
 
 Initially, academic interest in the New Age was minimal. The earliest academic studies of the New Age phenomenon were performed by specialists in the study of new religious movements such as Robert Ellwood. This research was often scanty because many scholars regarded the New Age as an insignificant cultural fad. Having been influenced by the U.S. anti-cult movement, much of it was also largely negative and critical of New Age groups. The "first truly scholarly study" of the phenomenon was an edited volume put together by James R. Lewis and J. Gordon Melton in 1992. From that point on, the number of published academic studies steadily increased.
 

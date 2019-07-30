@@ -229,7 +229,7 @@ Basic principles of chemistry
 
 Chemistry – branch of science that studies the composition, structure, properties and change of matter.[15][16] Chemistry is chiefly concerned with atoms and molecules and their interactions and transformations, for example, the properties of the chemical bonds formed between atoms to create chemical compounds. As such, chemistry studies the involvement of electrons and various forms of energy in photochemical reactions, oxidation-reduction reactions, changes in phases of matter, and separation of mixtures. Preparation and properties of complex substances, such as alloys, polymers, biological molecules, and pharmaceutical agents are considered in specialized fields of chemistry.
 
-Partial_ordering_of_the_sciences_Balaban_Klein_Scientometrics2006_615-637.svg, partial ordering of the sciences proposed by Balaban and Klein.]]
+, partial ordering of the sciences proposed by Balaban and Klein.]]
 
 -   Physical chemistry
     -   Chemical thermodynamics

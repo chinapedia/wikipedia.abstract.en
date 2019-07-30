@@ -15,15 +15,15 @@ Paramount Pictures dates its existence from the 1912 founding date of the Famous
 
 That same year, another aspiring producer, Jesse L. Lasky, opened his Lasky Feature Play Company with money borrowed from his brother-in-law, Samuel Goldfish, later known as Samuel Goldwyn. The Lasky company hired as their first employee a stage director with virtually no film experience, Cecil B. DeMille, who would find a suitable site in Hollywood, near Los Angeles, for his first feature film, _The Squaw Man_.
 
-Paramount_logo_1914.jpg, used from 1917 to 1967.]]
+, used from 1917 to 1967.]]
 
 Starting in 1914, both Lasky and Famous Players released their films through a start-up company, Paramount Pictures Corporation, organized early that year by a Utah theatre owner, W. W. Hodkinson, who had bought and merged several smaller firms. Hodkinson and actor, director, producer Hobart Bosworth had started production of a series of Jack London movies. Paramount was the first successful nationwide distributor; until this time, films were sold on a statewide or regional basis which had proved costly to film producers. Also, Famous Players and Lasky were privately owned while Paramount was a corporation.
 
 Famous Players-Lasky
 
-Spanish_Paramount_logo_(Distribuida_Pela_Paramount),_circa_1929.ogv In 1916, Zukor maneuvered a three-way merger of his Famous Players, the Lasky Company, and Paramount. Zukor and Lasky bought Hodkinson out of Paramount, and merged the three companies into one. The new company Lasky and Zukor founded, FAMOUS PLAYERS-LASKY CORPORATION, grew quickly, with Lasky and his partners Goldwyn and DeMille running the production side, Hiram Abrams in charge of distribution, and Zukor making great plans. With only the exhibitor-owned First National as a rival, Famous Players-Lasky and its "Paramount Pictures" soon dominated the business.[8]
+In 1916, Zukor maneuvered a three-way merger of his Famous Players, the Lasky Company, and Paramount. Zukor and Lasky bought Hodkinson out of Paramount, and merged the three companies into one. The new company Lasky and Zukor founded, FAMOUS PLAYERS-LASKY CORPORATION, grew quickly, with Lasky and his partners Goldwyn and DeMille running the production side, Hiram Abrams in charge of distribution, and Zukor making great plans. With only the exhibitor-owned First National as a rival, Famous Players-Lasky and its "Paramount Pictures" soon dominated the business.[8]
 
-GrangeLasky-DeMille1913.jpg Because Zukor believed in stars, he signed and developed many of the leading early stars, including Mary Pickford, Marguerite Clark, Pauline Frederick, Douglas Fairbanks, Gloria Swanson, Rudolph Valentino, and Wallace Reid. With so many important players, Paramount was able to introduce "block booking", which meant that an exhibitor who wanted a particular star's films had to buy a year's worth of other Paramount productions. It was this system that gave Paramount a leading position in the 1920s and 1930s, but which led the government to pursue it on antitrust grounds for more than twenty years.[9]
+Because Zukor believed in stars, he signed and developed many of the leading early stars, including Mary Pickford, Marguerite Clark, Pauline Frederick, Douglas Fairbanks, Gloria Swanson, Rudolph Valentino, and Wallace Reid. With so many important players, Paramount was able to introduce "block booking", which meant that an exhibitor who wanted a particular star's films had to buy a year's worth of other Paramount productions. It was this system that gave Paramount a leading position in the 1920s and 1930s, but which led the government to pursue it on antitrust grounds for more than twenty years.[9]
 
 The driving force behind Paramount's rise was Zukor. Through the teens and twenties, he built the PUBLIX THEATRES CORPORATION, a chain of nearly 2,000 screens, ran two production studios (in Astoria, New York, now the Kaufman Astoria Studios, and Hollywood, California), and became an early investor in radio, taking a 50% interest in the new Columbia Broadcasting System in 1928 (selling it within a few years; this would not be the last time Paramount and CBS crossed paths).
 
@@ -33,7 +33,7 @@ In 1928, Paramount began releasing _Inkwell Imps,_ animated cartoons produced by
 
 Publix, Balaban and Katz, Loew's competition and wonder theaters
 
-Publix_theatre_Indiana_Repertory_Theatre.jpg.]]
+.]]
 
 By acquiring the successful Balaban & Katz chain in 1926, Zukor gained the services of Barney Balaban (who would eventually become Paramount's president in 1936), his brother A. J. Balaban (who would eventually supervise all stage production nationwide and produce talkie shorts), and their partner Sam Katz (who would run the Paramount-Publix theatre chain in New York City from the thirty-five-story Paramount Theatre Building on Times Square).
 
@@ -47,7 +47,7 @@ As always, Paramount films continued to emphasize stars; in the 1920s there were
 
 Paramount cartoons produced by Fleischer Studios continued to be successful, with characters such as Betty Boop and Popeye the Sailor becoming widely successful. One Fleischer series, _Screen Songs_, featured live-action music stars under contract to Paramount hosting sing-alongs of popular songs. The animation studio would rebound with Popeye, and in 1935, polls showed that Popeye was even more popular than Mickey Mouse.[17] After an unsuccessful expansion into feature films, as well as the fact that Max and Dave Fleischer were no longer speaking to one another, Fleischer Studios was acquired by Paramount, which renamed the operation Famous Studios. That incarnation of the animation studio continued cartoon production until 1967, but has been historically dismissed as having largely failed to maintain the artistic acclaim the Fleischer brothers achieved under their management.[18]
 
-ParamountLogo1930s.JPG'' shorts.]]
+'' shorts.]]
 
 1941–50: _United States v. Paramount Pictures, Inc._
 
@@ -73,7 +73,7 @@ With the loss of the theater chain, Paramount Pictures went into a decline, cutt
 
 1966–70: Early Gulf+Western era
 
-Paramount_Pictures_(Gulf+Western)_logo.jpg byline was introduced following the company's purchase of Paramount. The variant shown here was used in the first three Indiana Jones films, the first of which was released in 1981.]] By the early 1960s, Paramount's future was doubtful. The high-risk movie business was wobbly; the theater chain was long gone; investments in DuMont and in early pay-television came to nothing; and the Golden Age of Hollywood had just ended, even the flagship Paramount building in Times Square was sold to raise cash, as was KTLA (sold to Gene Autry in 1964 for a then-phenomenal $12.5 million). Their only remaining successful property at that point was Dot Records, which Paramount had acquired in 1957, and even its profits started declining by the middle of the 1960s.[33] Founding father Adolph Zukor (born in 1873) was still chairman emeritus; he referred to chairman Barney Balaban (born 1888) as "the boy." Such aged leadership was incapable of keeping up with the changing times, and in 1966, a sinking Paramount was sold to Charles Bluhdorn's industrial conglomerate, Gulf + Western Industries Corporation. Bluhdorn immediately put his stamp on the studio, installing a virtually unknown producer named Robert Evans as head of production. Despite some rough times, Evans held the job for eight years, restoring Paramount's reputation for commercial success with _The Odd Couple_, _Rosemary's Baby_, _Love Story_, _The Godfather_, _Chinatown_, and _3 Days of the Condor_.[34]
+byline was introduced following the company's purchase of Paramount. The variant shown here was used in the first three Indiana Jones films, the first of which was released in 1981.]] By the early 1960s, Paramount's future was doubtful. The high-risk movie business was wobbly; the theater chain was long gone; investments in DuMont and in early pay-television came to nothing; and the Golden Age of Hollywood had just ended, even the flagship Paramount building in Times Square was sold to raise cash, as was KTLA (sold to Gene Autry in 1964 for a then-phenomenal $12.5 million). Their only remaining successful property at that point was Dot Records, which Paramount had acquired in 1957, and even its profits started declining by the middle of the 1960s.[33] Founding father Adolph Zukor (born in 1873) was still chairman emeritus; he referred to chairman Barney Balaban (born 1888) as "the boy." Such aged leadership was incapable of keeping up with the changing times, and in 1966, a sinking Paramount was sold to Charles Bluhdorn's industrial conglomerate, Gulf + Western Industries Corporation. Bluhdorn immediately put his stamp on the studio, installing a virtually unknown producer named Robert Evans as head of production. Despite some rough times, Evans held the job for eight years, restoring Paramount's reputation for commercial success with _The Odd Couple_, _Rosemary's Baby_, _Love Story_, _The Godfather_, _Chinatown_, and _3 Days of the Condor_.[34]
 
 Gulf + Western Industries also bought the neighboring Desilu television studio (once the lot of RKO Pictures) from Lucille Ball in 1967. Using some of Desilu's established shows such as _Star Trek_, _Mission: Impossible_, and _Mannix_ as a foot in the door at the networks, the newly reincorporated Paramount Television eventually became known as a specialist in half-hour situation comedies.[35]
 
@@ -85,7 +85,7 @@ In 1970, Paramount teamed with Universal Studios to form Cinema International Co
 
 Robert Evans abandoned his position as head of production in 1974; his successor, Richard Sylbert, proved to be too literary and too tasteful for Gulf + Western's Bluhdorn. By 1976, a new, television-trained team was in place headed by Barry Diller and his "Killer-Dillers", as they were called by admirers or "Dillettes" as they were called by detractors. These associates, made up of Michael Eisner, Jeffrey Katzenberg, Dawn Steel and Don Simpson would each go on and head up major movie studios of their own later in their careers.
 
-Paramount_Pictures_print_logo_(1968).svg The Paramount specialty was now simpler. "High concept" pictures such as _Saturday Night Fever_ and _Grease_ hit big, hit hard and hit fast all over the world,[37] and Diller's television background led him to propose one of his longest-standing ideas to the board: Paramount Television Service, a fourth commercial network. Paramount Pictures purchased the Hughes Television Network (HTN) including its satellite time in planning for PTVS in 1976. Paramount sold HTN to Madison Square Garden in 1979.[38] But Diller believed strongly in the concept, and so took his fourth-network idea with him when he moved to 20th Century Fox in 1984, where Fox's then freshly installed proprietor, Rupert Murdoch was a more interested listener.
+The Paramount specialty was now simpler. "High concept" pictures such as _Saturday Night Fever_ and _Grease_ hit big, hit hard and hit fast all over the world,[37] and Diller's television background led him to propose one of his longest-standing ideas to the board: Paramount Television Service, a fourth commercial network. Paramount Pictures purchased the Hughes Television Network (HTN) including its satellite time in planning for PTVS in 1976. Paramount sold HTN to Madison Square Garden in 1979.[38] But Diller believed strongly in the concept, and so took his fourth-network idea with him when he moved to 20th Century Fox in 1984, where Fox's then freshly installed proprietor, Rupert Murdoch was a more interested listener.
 
 However, the television division would be playing catch-up for over a decade after Diller's departure in 1984 before launching its own television network – UPN – in 1995. Lasting eleven years before being merged with The WB network to become The CW in 2006, UPN would feature many of the shows it originally produced for other networks, and would take numerous gambles on series such as _Star Trek: Voyager_ and _Star Trek: Enterprise_ that would have otherwise either gone direct-to-cable or become first-run syndication to independent stations across the country (as _Star Trek: Deep Space Nine_ and _Star Trek: The Next Generation_ were).
 
@@ -134,8 +134,6 @@ During this period, Paramount and its related subsidiaries and affiliates, opera
 In 2002, Paramount; along with Buena Vista Distribution, 20th Century Fox, Columbia TriStar Pictures Entertainment, MGM/UA Entertainment, Universal Studios, DreamWorks Pictures, Artisan Entertainment, Lions Gate Entertainment, and Warner Bros. formed the Digital Cinema Initiatives. Operating under a waiver from the anti-trust law, the studios combined under the leadership of Paramount Chief Operating Officer Tom McGrath to develop technical standards for the eventual introduction of digital film projection – replacing the now 100-year-old film technology.[60] DCI was created "to establish and document voluntary specifications for an open architecture for digital cinema that ensures a uniform and high level of technical performance, reliability and quality control."[61] McGrath also headed up Paramount's initiative for the creation and launch of the Blu-ray Disc.
 
 2005–present: Paramount today
-
-Paramountpicturesmelrosegate.jpg
 
 CBS/Viacom split
 
@@ -260,9 +258,9 @@ In March 2012, Paramount licensed their name and logo to a luxury hotel investme
 
 Logo
 
-DarioCampanile.Paramount.jpg''; the 1987 film _Critical Condition_ was the first to feature the finalized version of the logo. 1999's _South Park: Bigger, Longer & Uncut_ was the first to use an enhanced version of the logo, which was last used on 2002's _Crossroads_.]]
+''; the 1987 film _Critical Condition_ was the first to feature the finalized version of the logo. 1999's _South Park: Bigger, Longer & Uncut_ was the first to use an enhanced version of the logo, which was last used on 2002's _Crossroads_.]]
 
-Paramount_Pictures_logo_(2010).jpg's new byline introduced in 2006. The first movie to use the new Viacom byline was _Iron Man 2_.]]
+'s new byline introduced in 2006. The first movie to use the new Viacom byline was _Iron Man 2_.]]
 
 The distinctively pyramidal Paramount mountain has been the company's logo since its inception and is the oldest surviving Hollywood film logo. In the sound era, the logo was accompanied by a fanfare called _Paramount on Parade_ after the film of the same name, released in 1930. The words to the fanfare, originally sung in the 1930 film, were "Proud of the crowd that will never be loud, it's Paramount on Parade."
 

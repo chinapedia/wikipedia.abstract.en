@@ -5,7 +5,7 @@ As of March 1997, there had been 570,000 Neo Geo CD units sold worldwide.[3]
 
 Overview
 
-Neo-Geo-CD-FrontLoader-wController-FL.jpg Neo-Geo-CDZ-wController-FL.jpg The Neo Geo CD was first unveiled at the 1994 Tokyo Toy Show.[4] The console uses the same CPU set-up as the arcade and cartridge-based Neo Geo systems, facilitating conversions. SNK planned to release Neo Geo CD versions of every Neo Geo game still in the arcades.[5]
+The Neo Geo CD was first unveiled at the 1994 Tokyo Toy Show.[4] The console uses the same CPU set-up as the arcade and cartridge-based Neo Geo systems, facilitating conversions. SNK planned to release Neo Geo CD versions of every Neo Geo game still in the arcades.[5]
 
 Three versions of the Neo Geo CD were released:
 
@@ -32,8 +32,6 @@ Reviewing the Neo Geo CD in late 1995, _Next Generation_ noted SNK's reputation 
 
 
 Technical specifications
-
-Neo-Geo-CDZ-Flat-Back.jpg
 
 -   Main Processor: Motorola 68000 running at 12 MHz
     -   Although the original 68000 CPU was designed by Motorola, there are many clones of this CPU found in the Neo Geo hardware. The most common CPU is the TMP68HC000 manufactured by Toshiba.
@@ -62,7 +60,7 @@ The CD system's 56 Mbit / 7 MB of RAM[19] was split accordingly:
 
 Game library
 
-Neo-Geo-Advanced-Controller.jpg While the Neo Geo CD library consists primarily of ports of MVS and AES titles, there are a few MVS arcade games which were not officially released for the Neo Geo AES and ported instead to the Neo Geo CD. These include _Puzzle Bobble_, _Janshin Densetsu: Quest of Jongmaster_ (a Mahjong game also released for the PC Engine), _Power Spikes II_, _Neo Drift Out: New Technology_, and _Pleasure Goal: 5-on-5 Mini Soccer_ (_Futsal: 5-on-5 Mini Soccer_).
+While the Neo Geo CD library consists primarily of ports of MVS and AES titles, there are a few MVS arcade games which were not officially released for the Neo Geo AES and ported instead to the Neo Geo CD. These include _Puzzle Bobble_, _Janshin Densetsu: Quest of Jongmaster_ (a Mahjong game also released for the PC Engine), _Power Spikes II_, _Neo Drift Out: New Technology_, and _Pleasure Goal: 5-on-5 Mini Soccer_ (_Futsal: 5-on-5 Mini Soccer_).
 
 A few games which were unreleased in MVS and AES formats were also released exclusively for the Neo Geo CD. These include _Ironclad: Tesshō Rusha_ (_Chōtetsu Burikingā_, _BRIKIN'GER_), _Crossed Swords II_, _ZinTrick_ (_Oshidashi Zintorikku_), _ADK World_, _Neo Geo CD Special_, _The King of Fighters '96 Neo Collection_, _Samurai Shodown RPG_ (_Shinsetsu Samurai Spirits: Bushidō Retsuden_; an RPG spin-off of the _Samurai Shodown_ series that was also released for the Sony PlayStation and Sega Saturn), and _Idol-Mahjong Final Romance 2_ (an arcade game which is not an MVS game, but was ported directly to the Neo Geo CD).
 

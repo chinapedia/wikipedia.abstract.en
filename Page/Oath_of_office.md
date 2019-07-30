@@ -1,4 +1,4 @@
-Lyndon_B._Johnson_taking_the_oath_of_office,_November_1963.jpg taking the presidential oath of office in 1963, after the assassination of John F. Kennedy]] An OATH OF OFFICE is an oath or affirmation a person takes before undertaking the duties of an office, usually a position in government or within a religious body, although such oaths are sometimes required of officers of other organizations. Such oaths are often required by the laws of the state, religious body, or other organization before the person may actually exercise the powers of the office or any religious body. It may be administered at an inauguration, coronation, enthronement, or other ceremony connected with the taking up of office itself, or it may be administered privately. In some cases it may be administered privately and then repeated during a public ceremony.
+taking the presidential oath of office in 1963, after the assassination of John F. Kennedy]] An OATH OF OFFICE is an oath or affirmation a person takes before undertaking the duties of an office, usually a position in government or within a religious body, although such oaths are sometimes required of officers of other organizations. Such oaths are often required by the laws of the state, religious body, or other organization before the person may actually exercise the powers of the office or any religious body. It may be administered at an inauguration, coronation, enthronement, or other ceremony connected with the taking up of office itself, or it may be administered privately. In some cases it may be administered privately and then repeated during a public ceremony.
 
 Some oaths of office are a statement of loyalty to a constitution or other legal text or to a person or other office-holder (e.g., an oath to support the constitution of the state, or of loyalty to the king). Under the laws of a state it may be considered treason or a high crime to betray a sworn oath of office.
 
@@ -113,7 +113,7 @@ In Walloon the following version is used: "Je jure fidélité au Roi, obéissanc
 
 Brazil
 
-Dilmaoath.jpg takes the oath of office of the President of Brazil.]]
+takes the oath of office of the President of Brazil.]]
 
 The affirmation required by the Constitution of Brazil to be taken by the president-elect upon entering into office is as follows:
 
@@ -152,7 +152,7 @@ Ministers who choose to take the oath as an affirmation use _declare_ instead of
 
 China
 
-李克强宣誓.jpg publicly swore an oath to the Constitution upon formally taking office after he was appointed as the Premier in the 1st Session of the 13th National People's Congress.]] On July 1, 2015, the 15th Meeting of the 12th Standing Committee of the National People's Congress passed the Decision of the National People's Congress Standing Committee Regarding the Implementation of a Constitutional Oath System, with an effective date of January 1, 2016. The Decision requires state civil servants elected or appointed by the National People's Congress, its Standing Committee, the State Council, the Central Military Commission, the Supreme People's Court, the Supreme People's Procuratorate, and other central government organs, as well as equivalent local government organs at or above the county level, to publicly swear an oath to the constitution upon formally taking office.[8]
+publicly swore an oath to the Constitution upon formally taking office after he was appointed as the Premier in the 1st Session of the 13th National People's Congress.]] On July 1, 2015, the 15th Meeting of the 12th Standing Committee of the National People's Congress passed the Decision of the National People's Congress Standing Committee Regarding the Implementation of a Constitutional Oath System, with an effective date of January 1, 2016. The Decision requires state civil servants elected or appointed by the National People's Congress, its Standing Committee, the State Council, the Central Military Commission, the Supreme People's Court, the Supreme People's Procuratorate, and other central government organs, as well as equivalent local government organs at or above the county level, to publicly swear an oath to the constitution upon formally taking office.[8]
 
 As prescribed by the decision, the oath is as follows (as amended in 2018):
 
@@ -327,7 +327,7 @@ For enlisted personnel of the Armed Forces and new cadets to the military academ
 
 Iran
 
-Hassan_Rouhani's_second_term_inauguration_02.jpg takes the oath of office as the President of Iran.]] The oath of office for the President of Iran is as follows:
+takes the oath of office as the President of Iran.]] The oath of office for the President of Iran is as follows:
 
 For members of the Majlis of Iran, the oath is as follows:
 
@@ -599,7 +599,7 @@ In Sweden, a judge, whether a legally trained judge or a lay judge () shall take
 
 Switzerland
 
-Kopp_Vereidigung.JPG's oath of office after her election at the Swiss Federal Council in 1984.]]
+'s oath of office after her election at the Swiss Federal Council in 1984.]]
 
 In Switzerland, according to the Federal Act on the Federal Assembly, people elected at the Swiss Federal Assembly or elected by it (such as the Swiss Federal Council) have to take an oath in front of the assembly.[42]
 

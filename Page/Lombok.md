@@ -35,7 +35,7 @@ The island is administratively divided into four _kabupaten_ (regencies) and one
 
 History
 
-Hoofden_van_Lombok,_1870-1890.jpg of Lombok who allied with the Dutch to resist Balinese occupation.]] 75_ct_diamond_Lombok_treasure_Museum_Volkenkunde_Leiden.jpg, Leiden. It was taken, together with of gold, of silver and three chests of jewels and precious stones from the royal palace of Lombok after a Dutch invasion in 1894. Only part of the treasure was handed back to Indonesia in 1977.[5]]]
+of Lombok who allied with the Dutch to resist Balinese occupation.]] , Leiden. It was taken, together with of gold, of silver and three chests of jewels and precious stones from the royal palace of Lombok after a Dutch invasion in 1894. Only part of the treasure was handed back to Indonesia in 1977.[5]]]
 
 The 14th century Majapahit manuscript Nagarakretagama canto 14 mentioned "Lombok Mirah" as one of island identified under Majapahit suzerainty.[6] Other than the _Babad Lombok_ document which records the 1257 Samalas eruption, little is known about Lombok before the seventeenth century. Before this time it was made up of numerous competing and feuding petty states each of which were presided over by a Sasak 'prince'. This disunity was taken advantage of by the neighbouring Balinese who took control of western Lombok in the early seventeenth century.
 
@@ -43,13 +43,13 @@ The Makassarese meanwhile invaded eastern Lombok from their colonies in neighbou
 
 Relations between the Sasak and Balinese in western Lombok were largely harmonious and intermarriage was common. In the island's east, however, relations were less cordial and the Balinese maintained control from garrisoned forts. While Sasak village government remained in place, the village head became little more than a tax collector for the Balinese. Villagers became a kind of serf and Sasak aristocracy lost much of its power and land holdings.
 
-Lombok_1894_J._Hoynck_van_Papendrecht_1858_1933.jpg against the Balinese in 1894.]]
+against the Balinese in 1894.]]
 
 During one of the many Sasak peasant rebellions against the Balinese, Sasak chiefs sent envoys to the Dutch in Bali and invited them to rule Lombok. In June 1894, the governor general of the Dutch East Indies, Van der Wijck, signed a treaty with Sasak rebels in eastern Lombok. He sent a large army to Lombok and the Balinese raja capitulated to Dutch demands. (see Dutch intervention in Lombok) The younger princes however overruled the raja and attacked and routed the Dutch. The Dutch counterattacked overrunning Mataram and the raja surrendered. The entire island was annexed to the Netherlands East Indies in 1895. The Dutch ruled over Lombok's 500,000 people with a force of no more than 250 by cultivating the support of the Balinese and Sasak aristocracy. The Dutch are remembered in Lombok as liberators from Balinese hegemony.
 
 During World War II a Japanese invasion force comprising elements of the 2nd Southern Expeditionary Fleet invaded and occupied the Lesser Sunda Islands, including the island of Lombok. They sailed from Soerabaja harbour at 09:00 hrs on 8 March 1942 and proceeded towards Lombok Island. On 9 May 1942 at 17:00 hrs the fleet sailed into port of Ampenan on Lombok Island. The Dutch defenders were soon defeated and the island occupied.[7]
 
-Following the cessation of hostilities the Japanese forces occupying Indonesia were withdrawn and Lombok returned temporarily to Dutch control. Following the subsequent Indonesian independence from the Dutch, the Balinese and Sasak aristocracy continued to dominate Lombok. In 1958, the island was incorporated into the province of West Nusa Tenggara with Mataram becoming the provincial capital. Mass killings of communists occurred across the island following the abortive coup attempt in Jakarta and Central Java. During President Suharto's New Order administration (1967–1998), Lombok experienced a degree of stability and development but not to the extent of the boom and wealth in Java and Bali. Crop failures led to famine in 1966 and food shortages in 1973. The national government's _transmigrasi_ program moved a lot of people out of Lombok. The 1980s saw external developers and speculators instigate a nascent tourism boom although local's share of earnings was limited. Indonesia's political and economic crises of the late 1990s hit Lombok hard. In January 2000, riots broke out across Mataram with Christians and ethnic Chinese the main victims, with alleged _agents provocateur_ from outside Lombok. Tourism slumped, but in recent years has seen a renewed growth. Joko_Widodo_Lombok_Earthquake_damage.jpg examining the earthquake damage.]]
+Following the cessation of hostilities the Japanese forces occupying Indonesia were withdrawn and Lombok returned temporarily to Dutch control. Following the subsequent Indonesian independence from the Dutch, the Balinese and Sasak aristocracy continued to dominate Lombok. In 1958, the island was incorporated into the province of West Nusa Tenggara with Mataram becoming the provincial capital. Mass killings of communists occurred across the island following the abortive coup attempt in Jakarta and Central Java. During President Suharto's New Order administration (1967–1998), Lombok experienced a degree of stability and development but not to the extent of the boom and wealth in Java and Bali. Crop failures led to famine in 1966 and food shortages in 1973. The national government's _transmigrasi_ program moved a lot of people out of Lombok. The 1980s saw external developers and speculators instigate a nascent tourism boom although local's share of earnings was limited. Indonesia's political and economic crises of the late 1990s hit Lombok hard. In January 2000, riots broke out across Mataram with Christians and ethnic Chinese the main victims, with alleged _agents provocateur_ from outside Lombok. Tourism slumped, but in recent years has seen a renewed growth. examining the earthquake damage.]]
 
 Earthquake disaster
 
@@ -58,7 +58,7 @@ The July 2018 Lombok earthquake killed 20 people and injured hundreds more, the 
 
 Geography
 
-Gunung_Rinjani_from_Gili_Air_1.jpg seen from Gili Air]] Mt_Rinjani_and_segara_anak_lake.jpg on top of Mt. Rinjani]]
+seen from Gili Air]] on top of Mt. Rinjani]]
 
 The island is to the immediate east of the Lombok Strait which marks the biogeographical division between the fauna of the Indomalayan ecozone and the distinctly different fauna of Australasia; this distinction, known as the "Wallace Line" (or "Wallace's Line") takes its name from Alfred Russel Wallace[12] (1823–1913). Wallace was the first person to comment on the division between the two regions, as well as on the abrupt boundary between the two biomes.[13]
 
@@ -135,7 +135,7 @@ The 2014 census recorded a population of 4,773,795 people[21] in the province of
 
 Religion
 
-Traditional_Sasak_Village_Sade_houses.JPG LombokBayan.JPG Pura_Meru.jpg, a Hindu temple built in 1720.]] TanjungBuddhTemple.JPG COLLECTIE_TROPENMUSEUM_Lombokkers_in_feesttenue_voeren_een_traditionele_krijgsdans_uit._TMnr_60004285.jpg
+, a Hindu temple built in 1720.]]
 
 The island's indigenous Sasak people are predominantly Muslim[23] however before the arrival of Islam Lombok experienced a long period of Hindu and Buddhist influence that reached the island through Java. A minority Balinese Hindu culture remains in Lombok. Islam may have first been brought to Lombok by traders arriving from Sumbawa in the 17th century who then established a following in eastern Lombok. Other accounts describe the first influences arriving in the first half of the sixteenth century. The palm leaf manuscript Babad Lombok which contains the history of Lombok describes how Sunan Prapen was sent by his father The Susuhunan Ratu of Giri on a military expedition to Lombok and Sumbawa in order to convert the population and propagate the new religion. However, the new religion took on a highly syncretistic character, frequently mixing animist and Hindu-Buddhist beliefs and practices with Islam.[24]
 
@@ -158,7 +158,7 @@ Economy and politics
 
 Many of the visitors to Lombok and much of the islands goods come across the Lombok Strait by sea or air links from Bali. Only separate the two islands.[32] Lombok is often marketed as "an unspoiled Bali," or "Bali's sister island." With support from the central government, Lombok and Sumbawa are being developed as Indonesia's second destination for international and domestic tourism. Lombok has retained a more natural, uncrowded and undeveloped environment, which attract travelers who come for its relaxed pace and the opportunity to explore the island's unspoiled natural environment. The more contemporary marketing campaigns for Lombok/Sumbawa seek to differentiate from Bali and promote the island of Lombok as a standalone destination. The opening of the Lombok International Airport on 1 October 2011 assisted in this endeavor.
 
-Sasak1.jpg children ()]]
+children ()]]
 
 Nusa Tenggara Barat and Lombok may be considered economically depressed by First World standards and a large majority of the population live in poverty. Still, the island is fertile, has sufficient rainfall in most areas for agriculture, and possesses a variety of climate zones. Consequently, food in abundant quantity and variety is available inexpensively at local farmer's markets, though locals still suffer from famine due to drought and subsistence farming. A family of 4 can eat rice, vegetables, and fruit for as little as US$0.50. Even though a family's income may be as small as US$1.00 per day from fishing or farming, many families are able to live a contented and productive life on a low income. However, the people of Lombok are coming under increasing pressure from rising food and fuel prices. Access to housing, education and health services remains difficult for many of the island's indigenous population although public education is free throughout the province and elementary schools are tried to be present in even remote areas.
 
@@ -213,7 +213,7 @@ File:Lombok Traditional Hand Weaving.jpg|One of the unique traditional crafts fr
 
 Transport between Bali and Lombok
 
-Lombok_International_Airport.jpg FLIGHTS from Ngurah Rai International Airport to Lombok International Airport take about 40 minutes. Lombok international airport is located in southwest Lombok, 1.5 hours drive to Senggigi main tourist areas in the west Lombok, 2 hours drive to the jetty of Teluk Nara before you cross to Gili Islands and about 30 minutes drive to Kuta south Lombok.
+FLIGHTS from Ngurah Rai International Airport to Lombok International Airport take about 40 minutes. Lombok international airport is located in southwest Lombok, 1.5 hours drive to Senggigi main tourist areas in the west Lombok, 2 hours drive to the jetty of Teluk Nara before you cross to Gili Islands and about 30 minutes drive to Kuta south Lombok.
 
 PUBLIC FERRIES depart from Padang Bai (Southeast Bali) and Lembar (Southwest Lombok) every hour, taking a minimum of 4–5 hours make the crossing in either direction.
 

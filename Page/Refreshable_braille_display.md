@@ -1,9 +1,9 @@
-Plage-braille.jpg A REFRESHABLE BRAILLE DISPLAY or BRAILLE TERMINAL is an electro-mechanical device for displaying braille characters, usually by means of round-tipped pins raised through holes in a flat surface. Visually impaired computer users who cannot use a computer monitor can use it to read text output. Speech synthesizers are also commonly used for the same task, and a blind user may switch between the two systems or use both at the same time depending on circumstances. Deafblind computer users may also use refreshable braille displays.
+A REFRESHABLE BRAILLE DISPLAY or BRAILLE TERMINAL is an electro-mechanical device for displaying braille characters, usually by means of round-tipped pins raised through holes in a flat surface. Visually impaired computer users who cannot use a computer monitor can use it to read text output. Speech synthesizers are also commonly used for the same task, and a blind user may switch between the two systems or use both at the same time depending on circumstances. Deafblind computer users may also use refreshable braille displays.
 
 
 Mechanical details
 
-Baum_David_System_90.jpg The base of a refreshable braille display often integrates a pure braille keyboard. Similar to the Perkins Brailler, the input is performed by two sets of four keys on each side, while output is via a refreshable braille display consisting of a row of electro-mechanical character cells, each of which can raise or lower a combination of eight round-tipped pins. Other variants exist that use a conventional QWERTY keyboard for input and braille pins for output, as well as input-only and output-only devices.
+The base of a refreshable braille display often integrates a pure braille keyboard. Similar to the Perkins Brailler, the input is performed by two sets of four keys on each side, while output is via a refreshable braille display consisting of a row of electro-mechanical character cells, each of which can raise or lower a combination of eight round-tipped pins. Other variants exist that use a conventional QWERTY keyboard for input and braille pins for output, as well as input-only and output-only devices.
 
 On some models the position of the cursor is represented by vibrating the dots, and some models have a switch associated with each cell to move the cursor to that cell directly.
 

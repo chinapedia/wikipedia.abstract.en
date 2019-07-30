@@ -21,7 +21,7 @@ History
 
 Origins
 
-Escavações_no_Claustro_da_Sé_de_Lisboa.jpg.]] During the Neolithic period, the region was inhabited by Pre-Celtic tribes, who built religious and funerary monuments, megaliths, dolmens and menhirs, which still survive in areas on the periphery of Lisbon.[24] The Indo-European Celts invaded in the 1st millennium BC, mixing with the Pre-Indo-European population, thus giving rise to Celtic-speaking local tribes such as the Cempsi.
+.]] During the Neolithic period, the region was inhabited by Pre-Celtic tribes, who built religious and funerary monuments, megaliths, dolmens and menhirs, which still survive in areas on the periphery of Lisbon.[24] The Indo-European Celts invaded in the 1st millennium BC, mixing with the Pre-Indo-European population, thus giving rise to Celtic-speaking local tribes such as the Cempsi.
 
 Although the first fortifications on Lisbon's Castelo hill are known to be no older than the 2nd century BC, recent archaeological finds have shown that Iron Age people occupied the site from the 8th to 6th centuries BC.[25][26][27] This indigenous settlement maintained commercial relations with the Phoenicians, which would account for the recent findings of Phoenician pottery and other material objects. Archaeological excavations made near the Castle of São Jorge (_Castelo de São Jorge_) and Lisbon Cathedral indicate a Phoenician presence at this location since 1200 BC,[28] and it can be stated with confidence that a Phoenician trading post stood on a site[29][30] now the centre of the present city, on the southern slope of Castle hill.[31] The sheltered harbour in the Tagus River estuary was an ideal spot for an Iberian settlement and would have provided a secure harbour for unloading and provisioning Phoenician ships.[32] The Tagus settlement was an important centre of commercial trade with the inland tribes, providing an outlet for the valuable metals, salt and salted-fish they collected, and for the sale of the Lusitanian horses renowned in antiquity.
 
@@ -29,7 +29,7 @@ According to legend, the location was named for the mythical Ulysses, who founde
 
 Roman era
 
-CercaMouraTorreAlfama_(cropped).JPG Following the defeat of Hannibal in 202 BC during the Punic wars, the Romans determined to deprive Carthage of its most valuable possession: Hispania (the Iberian Peninsula). The defeat of Carthaginian forces by Scipio Africanus in Eastern Hispania allowed the pacification of the west, led by Consul Decimus Junius Brutus Callaicus. Decimus obtained the alliance of Olissipo (which sent men to fight alongside the Roman Legions against the northwestern Celtic tribes) by integrating it into the empire, as the _Municipium Cives Romanorum Felicitas Julia_. Local authorities were granted self-rule over a territory that extended ; exempt from taxes, its citizens were given the privileges of Roman citizenship, and it was then integrated with the Roman province of Lusitania (whose capital was Emerita Augusta).
+Following the defeat of Hannibal in 202 BC during the Punic wars, the Romans determined to deprive Carthage of its most valuable possession: Hispania (the Iberian Peninsula). The defeat of Carthaginian forces by Scipio Africanus in Eastern Hispania allowed the pacification of the west, led by Consul Decimus Junius Brutus Callaicus. Decimus obtained the alliance of Olissipo (which sent men to fight alongside the Roman Legions against the northwestern Celtic tribes) by integrating it into the empire, as the _Municipium Cives Romanorum Felicitas Julia_. Local authorities were granted self-rule over a territory that extended ; exempt from taxes, its citizens were given the privileges of Roman citizenship, and it was then integrated with the Roman province of Lusitania (whose capital was Emerita Augusta).
 
 Lusitanian raids and rebellions during Roman occupation required the construction of a wall around the settlement. During Augustus' reign, the Romans also built a great theatre; the Cassian Baths (underneath _Rua da Prata_); temples to Jupiter, Diana, Cybele, Tethys and Idea Phrygiae (an uncommon cult from Asia Minor), in addition to temples to the Emperor; a large necropolis under _Praça da Figueira_; a large forum and other buildings such as insulae (multi-storied apartment buildings) in the area between Castle Hill and the historic city core. Many of these ruins were first unearthed during the mid-18th century (when the recent discovery of Pompeii made Roman archaeology fashionable among Europe's upper classes).
 
@@ -49,7 +49,7 @@ For a brief time Lisbon was an independent Muslim kingdom known as the Taifa of 
 
 In 1108 Lisbon was raided and occupied by Norwegian crusaders led by Sigurd I on their way to the Holy Land as part of the Norwegian Crusade and occupied by crusader forces for three years.[34] It was taken by the Moorish Almoravids in 1111.
 
-Siege_of_Lisbon_1384.JPG in Froissart's Chronicles.]]
+in Froissart's Chronicles.]]
 
 In 1147, as part of the _Reconquista_, crusader knights led by Afonso I of Portugal besieged and conquered Lisbon. The city, with around 154,000 residents at the time, was returned to Christian rule. The reconquest of Portugal and re-establishment of Christianity is one of the most significant events in Lisbon's history, described in the chronicle _Expugnatione Lyxbonensi_, which describes, among other incidents, how the local bishop was killed by the crusaders and the city's residents prayed to the Virgin Mary as it happened. Some of the Muslim residents converted to Roman Catholicism and most of those who did not convert fled to other parts of the Islamic world, primarily Muslim Spain and North Africa. All mosques were either completely destroyed or converted into churches. As a result of the end of Muslim rule, spoken Arabic quickly lost its place in the everyday life of the city and disappeared altogether.
 
@@ -61,9 +61,7 @@ During the last centuries of the Middle Ages, the city expanded substantially an
 
 Early Modern
 
-Lisboa_1500-1510.jpg
-
-Most of the Portuguese expeditions of the Age of Discovery left Lisbon during the period from the end of the 15th century to the beginning of the 17th century, including Vasco da Gama's expedition to India in 1498. In 1506, 3,000 Jews were massacred in Lisbon.[35] The 16th century was Lisbon's golden era: the city was the European hub of commerce between Africa, India, the Far East and later, Brazil, and acquired great riches by exploiting the trade in spices, slaves, sugar, textiles and other goods. This period saw the rise of the exuberant Manueline style in architecture, which left its mark in many 16th-century monuments (including Lisbon's Belém Tower and Jerónimos Monastery, which were declared UNESCO World Heritage Sites). A description of Lisbon in the 16th century was written by Damião de Góis and published in 1554.[36] Vista_dos_Jeronomis_por_Filipe_Lobo_(2).jpg ordered Jerónimos Monastery to be built in Belém, to serve Portuguese discoverers.]] Terreiro_do_Paço_em_1662.jpg and the Terreiro do Praço depicted in 1662 by Dirk Stoop.]] The succession crisis of 1580, initiated a sixty-year period of dual monarchy in Portugal and Spain under the Spanish Habsburgs.[37][38] This is referred to as the "Philippine Dominion" (_Domínio Filipino_), since all three Spanish kings during that period were called Philip (_Filipe_). In 1589 Lisbon was the target of an incursion by the English Armada led by Francis Drake, while Queen Elizabeth supported a Portuguese pretender in Antonio, Prior of Crato, but support for Crato was lacking and the expedition was a failure. The Portuguese Restoration War, which began with a coup d'état organised by the nobility and bourgeoisie in Lisbon and executed on 1 December 1640, restored Portuguese independence. The period from 1640 to 1668 was marked by periodic skirmishes between Portugal and Spain, as well as short episodes of more serious warfare until the Treaty of Lisbon was signed in 1668.
+Most of the Portuguese expeditions of the Age of Discovery left Lisbon during the period from the end of the 15th century to the beginning of the 17th century, including Vasco da Gama's expedition to India in 1498. In 1506, 3,000 Jews were massacred in Lisbon.[35] The 16th century was Lisbon's golden era: the city was the European hub of commerce between Africa, India, the Far East and later, Brazil, and acquired great riches by exploiting the trade in spices, slaves, sugar, textiles and other goods. This period saw the rise of the exuberant Manueline style in architecture, which left its mark in many 16th-century monuments (including Lisbon's Belém Tower and Jerónimos Monastery, which were declared UNESCO World Heritage Sites). A description of Lisbon in the 16th century was written by Damião de Góis and published in 1554.[36] ordered Jerónimos Monastery to be built in Belém, to serve Portuguese discoverers.]] and the Terreiro do Praço depicted in 1662 by Dirk Stoop.]] The succession crisis of 1580, initiated a sixty-year period of dual monarchy in Portugal and Spain under the Spanish Habsburgs.[37][38] This is referred to as the "Philippine Dominion" (_Domínio Filipino_), since all three Spanish kings during that period were called Philip (_Filipe_). In 1589 Lisbon was the target of an incursion by the English Armada led by Francis Drake, while Queen Elizabeth supported a Portuguese pretender in Antonio, Prior of Crato, but support for Crato was lacking and the expedition was a failure. The Portuguese Restoration War, which began with a coup d'état organised by the nobility and bourgeoisie in Lisbon and executed on 1 December 1640, restored Portuguese independence. The period from 1640 to 1668 was marked by periodic skirmishes between Portugal and Spain, as well as short episodes of more serious warfare until the Treaty of Lisbon was signed in 1668.
 
 In the early 18th century, gold from Brazil allowed King John V to sponsor the building of several Baroque churches and theatres in the city. Prior to the 18th century, Lisbon had experienced several significant earthquakes – eight in the 14th century, five in the 16th century (including the 1531 earthquake that destroyed 1,500 houses and the 1597 earthquake in which three streets vanished), and three in the 17th century.
 
@@ -73,13 +71,13 @@ After the 1755 earthquake, the city was rebuilt largely according to the plans o
 
 Modern era
 
-Proclamação_República_Portuguesa.jpg in 1910.]]
+in 1910.]]
 
 In the first years of the 19th century, Portugal was invaded by the troops of Napoléon Bonaparte, forcing Queen Maria I and Prince-Regent John (future John VI) to flee temporarily to Brazil. By the time the new King returned to Lisbon, many of the buildings and properties were pillaged, sacked or destroyed by the invaders.
 
 During the 19th century, the Liberal movement introduced new changes into the urban landscape. The principal areas were in the _Baixa_ and along the _Chiado_ district, where shops, tobacconists shops, cafés, bookstores, clubs and theatres proliferated. The development of industry and commerce determined the growth of the city, seeing the transformation of the Passeio Público, a Pombaline era park, into the Avenida da Liberdade, as the city grew farther from the Tagus.
 
-Lisbon was the site of the regicide of Carlos I of Portugal in 1908, an event which culminated two years later in the First Republic. Lisbon,_the_Palácio_Nacional_da_Ajuda.JPG was built as a residence for the King of Portugal following the 1755 Lisbon Earthquake.]] Teatro_Dona_Maria_II_(2.ª_metade_do_séc._XIX)_(cropped).png was built in 1842.]] The city refounded its university in 1911 after centuries of inactivity in Lisbon, incorporating reformed former colleges and other non-university higher education schools of the city (such as the _Escola Politécnica_ – now _Faculdade de Ciências_). Today there are two public universities in the city (University of Lisbon and New University of Lisbon), a public university institute (ISCTE - Lisbon University Institute) and a polytechnic institute (IPL – Instituto Politécnico de Lisboa).
+Lisbon was the site of the regicide of Carlos I of Portugal in 1908, an event which culminated two years later in the First Republic. was built as a residence for the King of Portugal following the 1755 Lisbon Earthquake.]] was built in 1842.]] The city refounded its university in 1911 after centuries of inactivity in Lisbon, incorporating reformed former colleges and other non-university higher education schools of the city (such as the _Escola Politécnica_ – now _Faculdade de Ciências_). Today there are two public universities in the city (University of Lisbon and New University of Lisbon), a public university institute (ISCTE - Lisbon University Institute) and a polytechnic institute (IPL – Instituto Politécnico de Lisboa).
 
 During World War II, Lisbon was one of the very few neutral, open European Atlantic ports, a major gateway for refugees to the U.S. and a haven for spies. More than 100,000 refugees were able to flee Nazi Germany via Lisbon.[43]
 
@@ -89,7 +87,7 @@ Lisbon was the site of three revolutions in the 20th century. The first, the 5 O
 
 Contemporary
 
-Tratado_de_Lisboa_13_12_2007_(08)_edited.jpg, which forms the constitutional basis of the European Union, was signed at the Jerónimos Monastery in 2007.]] The Carnation Revolution, which took place on 25 April 1974, ended the right-wing Estado Novo regime and reformed the country as the current Portuguese Third Republic.
+, which forms the constitutional basis of the European Union, was signed at the Jerónimos Monastery in 2007.]] The Carnation Revolution, which took place on 25 April 1974, ended the right-wing Estado Novo regime and reformed the country as the current Portuguese Third Republic.
 
 In the 1990s, many of the districts were renovated and projects in the historic quarters were established to modernise those areas; architectural and patrimonial buildings were renovated; the northern margin of the Tagus was re-purposed for leisure and residential use; the Vasco da Gama Bridge was constructed; and the eastern part of the municipality was re-purposed for Expo '98, to commemorate the 500th anniversary of Vasco da Gama's sea voyage to India, a voyage that would bring immense riches to Lisbon and cause many of Lisbon's landmarks to be built.
 
@@ -104,7 +102,7 @@ Geography
 
 Physical geography
 
-Lisbon_SPOT_1015.jpg, with the Portuguese Riviera and the Tagus River.]] Lisbon is located at , situated at the mouth of the Tagus River and is the westernmost capital of a mainland European country.
+, with the Portuguese Riviera and the Tagus River.]] Lisbon is located at , situated at the mouth of the Tagus River and is the westernmost capital of a mainland European country.
 
 The westernmost part of Lisbon is occupied by the _Parque Florestal de Monsanto_ (English: Monsanto Forest Park), a urban park, one of the largest in Europe, and occupying 10% of the municipality.
 
@@ -155,7 +153,7 @@ Locally, Lisbon's inhabitants may commonly refer to the spaces of Lisbon in term
 
 Alcântara
 
-Alcântara_by_wax115.jpg from the Port of Lisbon.]] Although today it is quite central, it was once a mere suburb of Lisbon, comprising mostly farms and country estates of the nobility with their palaces. In the 16th century, there was a brook there which the nobles used to promenade in their boats. During the late 19th century, Alcântara became a popular industrial area, with lots of small factories and warehouses.
+from the Port of Lisbon.]] Although today it is quite central, it was once a mere suburb of Lisbon, comprising mostly farms and country estates of the nobility with their palaces. In the 16th century, there was a brook there which the nobles used to promenade in their boats. During the late 19th century, Alcântara became a popular industrial area, with lots of small factories and warehouses.
 
 In the early 1990s, Alcântara began to attract youth because of the number of pubs and discothèques. This was mainly due to its outer area of mostly commercial buildings, which acted as barriers to the noise-generating nightlife (which acted as a buffer to the residential communities surrounding it). In the meantime, some of these areas began to become gentrified, attracting loft developments and new flats, which have profited from its river views and central location.
 
@@ -163,7 +161,7 @@ The riverfront of Alcântara is known for its nightclubs and bars. The area is c
 
 Alfama
 
-A_ver_S._Vicente.jpg, with the churches of S. Vicente de Fora, S. Engrácia, and S. Estêvão, and the Tagus river behind.]] The oldest district of Lisbon, it spreads down the southern slope from the Castle of São Jorge to the River Tagus. Its name, derived from the Arabic _Al-hamma_, means fountains or baths. During the Islamic invasion of Iberia, the Alfama constituted the largest part of the city, extending west to the Baixa neighbourhood. Increasingly, the Alfama became inhabited by fishermen and the poor: its fame as a poor neighbourhood continues to this day. While the 1755 Lisbon earthquake caused considerable damage throughout the capital, the Alfama survived with little damage, thanks to its compact labyrinth of narrow streets and small squares. It is a historical quarter of mixed-use buildings occupied by Fado bars, restaurants, and homes with small shops downstairs. Modernising trends have invigorated the district: old houses have been re-purposed or remodeled, while new buildings have been constructed. Fado, the typically Portuguese style of melancholy music, is common (but not obligatory) in the restaurants of the district.
+, with the churches of S. Vicente de Fora, S. Engrácia, and S. Estêvão, and the Tagus river behind.]] The oldest district of Lisbon, it spreads down the southern slope from the Castle of São Jorge to the River Tagus. Its name, derived from the Arabic _Al-hamma_, means fountains or baths. During the Islamic invasion of Iberia, the Alfama constituted the largest part of the city, extending west to the Baixa neighbourhood. Increasingly, the Alfama became inhabited by fishermen and the poor: its fame as a poor neighbourhood continues to this day. While the 1755 Lisbon earthquake caused considerable damage throughout the capital, the Alfama survived with little damage, thanks to its compact labyrinth of narrow streets and small squares. It is a historical quarter of mixed-use buildings occupied by Fado bars, restaurants, and homes with small shops downstairs. Modernising trends have invigorated the district: old houses have been re-purposed or remodeled, while new buildings have been constructed. Fado, the typically Portuguese style of melancholy music, is common (but not obligatory) in the restaurants of the district.
 
 Mouraria
 
@@ -171,7 +169,7 @@ The Mouraria, or Moorish quarter, is one of the most traditional neighborhoods o
 
 Bairro Alto
 
-Bairro_Alto,_Lisbon_(34487234082).jpg Square'', bordering Bairro Alto and the Baixa Pombalina.]]
+Square'', bordering Bairro Alto and the Baixa Pombalina.]]
 
 BAIRRO ALTO (literally _the upper quarter_ in Portuguese) is an area of central Lisbon that functions as a residential, shopping and entertainment district; it is the center of the Portuguese capital's nightlife, attracting hipster youth and members of various music subcultures. Lisbon's Punk, Gay, Metal, Goth, Hip Hop and Reggae scenes all find a home in the _Bairro_ with its many clubs and bars that cater to them. The crowds in the Bairro Alto are a multicultural mix of people representing a broad cross-section of modern Portuguese society, many of them being entertainment seekers and devotees of various music genres outside the mainstream, Fado, Portugal's national music, still survives in the midst of the new nightlife.
 
@@ -187,7 +185,7 @@ Perhaps Belém's most famous feature is its tower, Torre de Belém, whose image 
 
 Chiado
 
-Praça_de_Camões162.jpg, considered the greatest poet of the Portuguese language, in Chiado.]]
+, considered the greatest poet of the Portuguese language, in Chiado.]]
 
 The Chiado is a traditional shopping area that mixes old and modern commercial establishments, concentrated specially in the Rua do Carmo and the Rua Garrett. Locals as well as tourists visit the Chiado to buy books, clothing and pottery as well as to have a cup of coffee. The most famous café of Chiado is _A Brasileira_, famous for having had poet Fernando Pessoa among its customers. The Chiado is also an important cultural area, with several museums and theatres, including the opera. Several buildings of the Chiado were destroyed in a fire in 1988, an event that deeply shocked the country. Thanks to a renovation project that lasted more than 10 years, coordinated by celebrated architect Siza Vieira, the affected area has now virtually recovered.
 
@@ -195,7 +193,7 @@ The ornate, late 18th-century Estrela Basilica is the main attraction of this di
 
 Parque das Nações
 
-Lisbon_120_(31787634704).jpg district was initially built for the Lisbon World Expo.]] Parque das Nações (Park of Nations) is the newest district in Lisbon, having emerged from an urban renewal programme leading to the World Exhibition of Lisbon 1998, also known as Expo'98. The area suffered massive changes giving Parque das Nações a futuristic look. A long lasting legacy of the same, the area has become another commercial and higher-end residential area for the city.
+district was initially built for the Lisbon World Expo.]] Parque das Nações (Park of Nations) is the newest district in Lisbon, having emerged from an urban renewal programme leading to the World Exhibition of Lisbon 1998, also known as Expo'98. The area suffered massive changes giving Parque das Nações a futuristic look. A long lasting legacy of the same, the area has become another commercial and higher-end residential area for the city.
 
 Central in the area is the Gare do Oriente (Orient railway station), one of the main transport hubs of Lisbon for trains, buses, taxis, and the metro. Its glass and steel columns are inspired by Gothic architecture, lending the whole structure a visual fascination (especially in sunlight or when illuminated at night). It was designed by the architect Santiago Calatrava from Valencia, Spain. The Parque das Nações is across the street.
 
@@ -204,7 +202,7 @@ The area is pedestrian-friendly with new buildings, restaurants, gardens, the Ca
 
 Politics
 
-Lisboa,_Ayuntamiento.jpg, ceremonial seat of the Lisbon's municipal government.]]
+, ceremonial seat of the Lisbon's municipal government.]]
 
     _See also: List of mayors of Lisbon and Lisbon politics (in German)_
 
@@ -234,15 +232,15 @@ Local election results 1976–2017
 
 Culture
 
-Lisbon_2015_10_14_0648_(23515641921).jpg has the largest collection of royal carriages in the world and is one of Lisbon's most visited institutions]]
+has the largest collection of royal carriages in the world and is one of Lisbon's most visited institutions]]
 
 The city of Lisbon is rich in architecture; Romanesque, Gothic, Manueline, Baroque, Modern and Postmodern constructions can be found all over Lisbon. The city is also crossed by historical boulevards and monuments along the main thoroughfares, particularly in the upper districts; notable among these are the _Avenida da Liberdade_ (Avenue of Liberty), _Avenida Fontes Pereira de Melo_, _Avenida Almirante Reis_ and _Avenida da República_ (Avenue of the Republic).
 
 Lisbon is home to numerous prominent museums and art collections, from all around the world. The National Museum of Ancient Art, which has one of the largest art collections in the world, and the National Coach Museum, which has the world's largest collection of royal coaches and carriages, are the two most visited museums in the city. Other notable national museums include the National Museum of Archaeology, the Museum of Lisbon, the National Azulejo Museum, the National Museum of Contemporary Art, and the [[National Museum of Natural History and Science, Lisbon|National Museum of Natural History &
 
-Museu_Nacional_de_Arte_Antiga2075_(cropped).jpg has one of the largest art collections in the world]]
+has one of the largest art collections in the world]]
 
-Torre_Belém_April_2009-4a.jpg, one of the most famous and visited landmarks in Lisbon and throughout Portugal.]] Prominent private museums and galleries include the Gulbenkian Museum (run by the Calouste Gulbenkian Foundation, one of the wealthiest foundations in the world), which houses one of the largest private collections of antiquaries and art in the world, the Berardo Collection Museum, which houses the private collection of Portuguese billionaire Joe Berardo, the Museum of Art, Architecture and Technology, and the Museum of the Orient. Other popular museums include the Electricity Museum, the Ephemeral Museum, the Museu da Água, and the Museu Benfica, among many others.
+, one of the most famous and visited landmarks in Lisbon and throughout Portugal.]] Prominent private museums and galleries include the Gulbenkian Museum (run by the Calouste Gulbenkian Foundation, one of the wealthiest foundations in the world), which houses one of the largest private collections of antiquaries and art in the world, the Berardo Collection Museum, which houses the private collection of Portuguese billionaire Joe Berardo, the Museum of Art, Architecture and Technology, and the Museum of the Orient. Other popular museums include the Electricity Museum, the Ephemeral Museum, the Museu da Água, and the Museu Benfica, among many others.
 
 Lisbon's Opera House, the _Teatro Nacional de São Carlos_, hosts a relatively active cultural agenda, mainly in autumn and winter. Other important theatres and musical houses are the _Centro Cultural de Belém_, the _Teatro Nacional D. Maria II_, the Gulbenkian Foundation, and the _Teatro Camões_.
 
@@ -252,7 +250,7 @@ The monument to _Christ the King_ (Cristo-Rei) stands on the southern bank of th
 
 Eduardo VII Park, the second largest park in the city following the _Parque Florestal de Monsanto_ (Monsanto Forest Park), extends down the main avenue (Avenida da Liberdade), with many flowering plants and greenspaces, that includes the permanent collection of subtropical and tropical plants in the winter garden (). Originally named _Parque da Liberdade_, it was renamed in honour of Edward VII of England who visited Lisbon in 1903.
 
-Лиссабон_2007_центр_-_panoramio.jpg, with Queen Maria II National Theatre in the background]]
+, with Queen Maria II National Theatre in the background]]
 
 Lisbon is home every year to the Lisbon Gay & Lesbian Film Festival,[58] the Lisboarte, the DocLisboa – Lisbon International Documentary Film Festival,[59] the Festival Internacional de Máscaras e Comediantes, the Lisboa Mágica – Street Magic World Festival, the Monstra – Animated Film Festival, the Lisbon Book Fair,[60] the Peixe em Lisboa – Lisbon Fish and Flavours,[61] and many others.
 
@@ -281,13 +279,13 @@ Lisbon has 552,700[69] inhabitants within the administrative center on the area 
 
 Economy
 
-Avenida_da_Liberdade_(22344060581)_(cropped).jpg is one of the most expensive shopping streets in Europe and famous as a popular destination for luxury goods shopping.]]
+is one of the most expensive shopping streets in Europe and famous as a popular destination for luxury goods shopping.]]
 
 The Lisbon region is the wealthiest region in Portugal and it is well above the European Union's GDP per capita average – it produces 45% of the Portuguese GDP. Lisbon's economy is based primarily on the tertiary sector. Most of the headquarters of multinationals operating in Portugal are concentrated in the Grande Lisboa Subregion, specially in the Oeiras municipality. The Lisbon metropolitan area is heavily industrialized, especially the south bank of the Tagus river (Rio Tejo).
 
 The Lisbon region is rapidly growing, with GDP (PPP) per capita calculated for each year as follows: €22,745 (2004)[77] – €23,816 (2005)[78] – €25,200 (2006)[79] – €26,100 (2007).[80] The Lisbon metropolitan area had a GDP amounting to $96.3 billion, and $32,434 per capita.[81]
 
-06-11-2017_WebSummit_Praça_do_Comércio_Lisboa_(cropped).png, the largest tech event in the world.]] By_the_river_(34263121734).jpg is one of the busiest ports in Europe.[82]]]
+, the largest tech event in the world.]] is one of the busiest ports in Europe.[82]]]
 
 The country's chief seaport, featuring one of the largest and most sophisticated regional markets on the Iberian Peninsula, Lisbon and its heavily populated surroundings are also developing as an important financial centre and a dynamic technological hub. Automobile manufacturers have erected factories in the suburbs, for example, AutoEuropa.
 
@@ -306,15 +304,15 @@ Transport
 
 Metro
 
-HPIM0530_(cropped).JPG is Portugal's oldest and largest subway system.]] The Lisbon Metro connects the city centre with the upper and eastern districts and also reaches some suburbs that are part of the Lisbon metropolitan area, such as Amadora and Loures. It is the fastest way to get around the city and it provides a good number of interchanging stations with other types of transportation. From the Lisbon Airport station to the city centre it may take roughly 25 mins. As of 2018, the Lisbon Metro comprises four lines, identified by individual colours (blue, yellow, green and red) and 56 stations, with a total length of 44.2 km. Several expansion projects have been proposed, being the most recent the transformation of the Green Line into a circular line and the creation of two more stations (Santos and Estrela).
+is Portugal's oldest and largest subway system.]] The Lisbon Metro connects the city centre with the upper and eastern districts and also reaches some suburbs that are part of the Lisbon metropolitan area, such as Amadora and Loures. It is the fastest way to get around the city and it provides a good number of interchanging stations with other types of transportation. From the Lisbon Airport station to the city centre it may take roughly 25 mins. As of 2018, the Lisbon Metro comprises four lines, identified by individual colours (blue, yellow, green and red) and 56 stations, with a total length of 44.2 km. Several expansion projects have been proposed, being the most recent the transformation of the Green Line into a circular line and the creation of two more stations (Santos and Estrela).
 
 Trams
 
-Lisbon_tram_next_to_Lisbon_Cathedral.jpg by Lisbon Cathedral and Santo António Church.]] A traditional form of public transport in Lisbon is the tram. Introduced in 1901, electric trams were originally imported from the US,[85] and called the _americanos_. The earliest trams can still be seen in the Museu da Carris (the Public Transport Museum). Other than on the modern Line 15, the Lisbon tramway system still employs small (four wheel) vehicles of a design dating from the early twentieth century. These distinctive yellow trams are one of the tourist icons of modern Lisbon, and their size is well suited to the steep hills and narrow streets of the central city.[86][87]
+by Lisbon Cathedral and Santo António Church.]] A traditional form of public transport in Lisbon is the tram. Introduced in 1901, electric trams were originally imported from the US,[85] and called the _americanos_. The earliest trams can still be seen in the Museu da Carris (the Public Transport Museum). Other than on the modern Line 15, the Lisbon tramway system still employs small (four wheel) vehicles of a design dating from the early twentieth century. These distinctive yellow trams are one of the tourist icons of modern Lisbon, and their size is well suited to the steep hills and narrow streets of the central city.[86][87]
 
 Trains
 
-Estação_do_Oriente,_Lisboa,_Portugal_(19198862262).jpg train station, designed by Santiago Calatrava.]] There are four commuter train lines departing from Lisbon: the Cascais, Sintra and Azambuja lines (operated by CP – Comboios de Portugal), as well as a fourth line to Setúbal (operated by Fertagus) crossing the Tagus river, over the 25 de Abril Bridge. The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré.
+train station, designed by Santiago Calatrava.]] There are four commuter train lines departing from Lisbon: the Cascais, Sintra and Azambuja lines (operated by CP – Comboios de Portugal), as well as a fourth line to Setúbal (operated by Fertagus) crossing the Tagus river, over the 25 de Abril Bridge. The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré.
 
 Buses
 
@@ -326,7 +324,7 @@ Lisbon is connected to its suburbs and throughout Portugal by an extensive motor
 
 Bridges and ferries
 
-Lisbon_Bridge.jpg crosses the Tagus River from Alcântara to Almada.]] The city is connected to the far side of the Tagus by two important bridges:
+crosses the Tagus River from Alcântara to Almada.]] The city is connected to the far side of the Tagus by two important bridges:
 
 -   The 25 de Abril Bridge, inaugurated (as Ponte Salazar) on 6 August 1966, and later renamed after the date of the Carnation Revolution, was the longest suspension bridge in Europe.[93]
 -   The Vasco da Gama Bridge, inaugurated in May 1998 is, at , the longest bridge in Europe.[94]
@@ -348,7 +346,7 @@ The average amount of time people spend commuting with public transit in Lisbon,
 
 Education
 
-Univ_Nova_Lisboa.jpg.]]
+.]]
 
 International schools
 
@@ -356,7 +354,7 @@ In Greater Lisbon area, particularly in the Portuguese Riviera, an area popular 
 
 Higher education
 
-Fontana_Liminosa_-_panoramio_(1).jpg, including the Instituto Superior Técnico, are based on the Alameda D. Afonso Henriques.]]
+, including the Instituto Superior Técnico, are based on the Alameda D. Afonso Henriques.]]
 
 In the city, there are three public universities and a university institute. The University of Lisbon, which is the largest university in Portugal, was created in 2013 with the union of the Technical University of Lisbon and the Classical University of Lisbon (which was known as the University of Lisbon). The New University of Lisbon, founded in 1973, is another public university in Lisbon and is known internationally by its Nova School of Business and Economics (Nova SBE),its economics and management faculty. The third public university is Universidade Aberta. Additionally, there's ISCTE - Lisbon University Institute (founded in 1972), a university institute that provides degrees in all academic disciplines.
 
@@ -726,7 +724,7 @@ Lisbon Category:Capitals in Europe Category:Cities in Portugal Category:Marinas 
 
 [95]
 
-[96]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[96]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [97]
 

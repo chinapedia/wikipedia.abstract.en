@@ -1,4 +1,4 @@
-Nicaea_icon.jpg'', held by Emperor Constantine (center) in this icon, specifically rejected that Jesus had a human father.[1]]]
+'', held by Emperor Constantine (center) in this icon, specifically rejected that Jesus had a human father.[1]]]
 
 DENIAL OF THE VIRGIN BIRTH OF JESUS is found among various groups and individuals throughout the history of Christianity. These groups and individuals often took an approach to Christology which understands Jesus to be human, the literal son of human parents.[2][3]
 

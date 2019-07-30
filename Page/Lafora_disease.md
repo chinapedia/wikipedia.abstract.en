@@ -24,7 +24,7 @@ NHLRC1 encodes the protein malin, an E3 ubiquitin ligase, that regulates the amo
 
 Laforin is essential for making the normal structure of glycogen. When the mutation occurs on the EPM2A gene, laforin protein is downregulated and less amount of this protein is present or none is made at all. If there is also a mutation in the NHLRC1 gene that makes the protein malin, then laforin cannot be regulated and thus less of it is made.
 
-Less Laforin means more phosphorylation of glycogen, causing conformational changes, rendering it insoluble, leading to an accumulation of misformed glycogen, which has neurotoxic effects. autorecessive.svg pattern of inheritance.[21] EPM2A gene found on chromosome 6q24 and NHLRC1 gene found on chromosome 6p22.3.[22]]] In a laforin mutation, glycogen would be hyperphosphorylated; this has been confirmed in laforin knock-out mice.[23]
+Less Laforin means more phosphorylation of glycogen, causing conformational changes, rendering it insoluble, leading to an accumulation of misformed glycogen, which has neurotoxic effects. pattern of inheritance.[21] EPM2A gene found on chromosome 6q24 and NHLRC1 gene found on chromosome 6p22.3.[22]]] In a laforin mutation, glycogen would be hyperphosphorylated; this has been confirmed in laforin knock-out mice.[23]
 
 Research literature also suggests that over-activity of glycogen synthase, the key enzyme in synthesizing glycogen, can lead to the formation of polyglucosans and it can be inactivated by phosphorylation at various amino acid residues by many molecules, including GSK-3beta, Protein phosphatase 1, and malin.[24][25][26]
 

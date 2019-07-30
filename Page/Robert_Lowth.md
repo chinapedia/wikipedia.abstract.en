@@ -15,8 +15,6 @@ Lowth was good friends with the Scottish Enlightenment figure David Hume, as not
 
 Lowth wrote a Latin epitaph, _Cara, Vale_ ("Dear one, farewell!") on the death of his daughter Maria. Much admired in the late 18th and early 19th centuries, it was set to music by the English composer John Wall Callcott.[2]
 
-RobertLowthMonument01.jpg
-
 Lowth died in 1787, and was buried in the churchyard of All Saints Church, Fulham.
 
 

@@ -1,11 +1,11 @@
 The MELBOURNE CUP is Australia's most famous annual Thoroughbred horse race. It is a 3200-metre race for three-year-olds and over, conducted by the Victoria Racing Club on the Flemington Racecourse in Melbourne, Victoria as part of the Melbourne Spring Racing Carnival. It is the richest "two-mile" handicap in the world, and one of the richest turf races. The event starts at 3pm on the first Tuesday in November and is known locally as "the race that stops a nation".
 
-The Melbourne Cup has a long tradition, with the first race held in 1861. It was originally over but was shortened to in 1972 when Australia adopted the metric system. This reduced the distance by , and Rain Lover's 1968 race record of 3:19.1 was accordingly adjusted to 3:17.9. The present record holder is the 1990 winner Kingston Rule with a time of 3:16.3. Archer_(1856).jpg
+The Melbourne Cup has a long tradition, with the first race held in 1861. It was originally over but was shortened to in 1972 when Australia adopted the metric system. This reduced the distance by , and Rain Lover's 1968 race record of 3:19.1 was accordingly adjusted to 3:17.9. The present record holder is the 1990 winner Kingston Rule with a time of 3:16.3.
 
 
 Qualifying and race conditions
 
-Poseidon_1906_VRC_Melbourne_Cup_Owner_Sir_Hugh_Denison_Randwick_Trainer_Isaac_Earnshaw.jpg, 1906 winner]] PETER_PAN_lll_VRC_MELBOURNE_CUP_1932_&_1934.JPG ridden by jockey Darby Munro, won in 1932 and 1934]] Rising_Fast_(NZ).jpg, 1954 winner.]] The race is a quality handicap for horses 3 years old and over, run over a distance of 3200 metres, on the first Tuesday in November at Flemington Racecourse. The minimum handicap weight is 50 kg. There is no maximum weight, but the top allocated weight must not be less than 57 kg. The weight allocated to each horse is declared by the VRC Handicapper in early September.
+, 1906 winner]] ridden by jockey Darby Munro, won in 1932 and 1934]] , 1954 winner.]] The race is a quality handicap for horses 3 years old and over, run over a distance of 3200 metres, on the first Tuesday in November at Flemington Racecourse. The minimum handicap weight is 50 kg. There is no maximum weight, but the top allocated weight must not be less than 57 kg. The weight allocated to each horse is declared by the VRC Handicapper in early September.
 
 The Melbourne Cup race is a handicap contest in which the weight of the jockey and riding gear is adjusted with ballast to a nominated figure. Older horses carry more weight than younger ones, and weights are adjusted further according to the horse's previous results.
 
@@ -82,7 +82,7 @@ The Cup currently has a $500,000 bonus for the owner of the winner if it has als
 
 Trophies
 
-76MelbCup.jpg.]]
+.]]
 
 The winner of the first Melbourne Cup in 1861 received a gold watch. The first Melbourne Cup trophy was awarded in 1865 and was an elaborate silver bowl on a stand that had been manufactured in England.[9] The first existing and un-altered Melbourne Cup is from 1866, presented to the owners of The Barb; as of 2013, it is in the National Museum of Australia.[10] The silver trophy presented in 1867, now also in the National Museum of Australia,[11] was also made in England but jewellers in Victoria complained to the Victorian Racing Club that the trophy should have been made locally. They believed the work of Melbournian, William Edwards, to be superior in both design and workmanship to the English made trophy. No trophy was awarded to the Melbourne Cup winner for the next eight years.[12]
 
@@ -129,9 +129,9 @@ On 7 November 1876, the three-year-old filly, Briseis, owned and trained by Jame
 
 Briseis wasn't the only sensation surrounding the 1876 Melbourne Cup. Two months before the event, on Saturday 9 September, the _City of Melbourne_ sailed for Melbourne from Sydney with a cargo including 13 racehorses, many of whom were considered serious contenders for the Melbourne Cup. The following day the ship ran into a savage storm and was hit by several rogue waves, with Nemesis (the winner of the 1876 AJC Metropolitan Handicap in Randwick, Sydney and favourite for the Cup, owned by John Moffat) and Robin Hood (another favourite, owned by Etienne de Mestre) being among the 11 horses that were killed.[43] Betting on the big race was paralysed. To the dismay and anger of the public, bookmakers, showing no feeling, presented a purse (loaded with coins) to the captain as token of their appreciation for his part in saving them many thousands of pounds in bets already laid on the favourites who had perished. Perhaps they should have kept their money, however. The outsider Briseis comfortably won by 1 length in the biggest field of all time, and in an extremely good time, so it is unlikely that the horses who perished could have beaten her.
 
-1877 is also the year that the trainer Etienne de Mestre won his fourth Melbourne Cup with Chester owned by Hon. James White. In 1878, as in previous years De Mestre fielded more than one horse. He entered the favourite Firebell (owned by W.S. Cox) who finished last, Chester (owned by Hon. James White) the previous year's winner who fell, and Calamia (owned by de Mestre) who, though less fancied, won easily[44] by two lengths. First prize was £1,790, the crowd was 80,000 and there were 30 starters. De Mestre's 1878 win with Calamia brought to 5 the number of Melbourne Cups he had won.[45] This record was not to be matched for nearly 100 years when the trainer Bart Cummings won his fifth Melbourne Cup in 1975. Bart Cummings, regarded as the best Australian horse trainer of all time, went on to win 12 Melbourne Cups to 2008. MARTINI-HENRY_NZ.jpg In 1883, the hardy New Zealand bred, Martini-Henry won the VRC Derby, the Melbourne Cup and on the following Monday retained his undefeated record by winning Mares' Produce Stakes.[46]
+1877 is also the year that the trainer Etienne de Mestre won his fourth Melbourne Cup with Chester owned by Hon. James White. In 1878, as in previous years De Mestre fielded more than one horse. He entered the favourite Firebell (owned by W.S. Cox) who finished last, Chester (owned by Hon. James White) the previous year's winner who fell, and Calamia (owned by de Mestre) who, though less fancied, won easily[44] by two lengths. First prize was £1,790, the crowd was 80,000 and there were 30 starters. De Mestre's 1878 win with Calamia brought to 5 the number of Melbourne Cups he had won.[45] This record was not to be matched for nearly 100 years when the trainer Bart Cummings won his fifth Melbourne Cup in 1975. Bart Cummings, regarded as the best Australian horse trainer of all time, went on to win 12 Melbourne Cups to 2008. In 1883, the hardy New Zealand bred, Martini-Henry won the VRC Derby, the Melbourne Cup and on the following Monday retained his undefeated record by winning Mares' Produce Stakes.[46]
 
-Pharlap1930melbournecup.jpg winning the Melbourne Cup Race from Second Wind and Shadow King on 5 November 1930.]]
+winning the Melbourne Cup Race from Second Wind and Shadow King on 5 November 1930.]]
 
 Phar Lap, the most famous horse in the world of his day,[47] won the 1930 Melbourne Cup at 11/8 odds on, the shortest priced favourite in the history of the race. He had to be hidden away at Geelong before the race after an attempt was made to shoot him and only emerged an hour before the race time of the Cup.[48] Phar Lap also competed in 1929 and 1931, but came 3rd and 8th respectively, despite heavy favouritism in both years.
 
@@ -154,8 +154,6 @@ The 2005 Melbourne Cup was held before a crowd of 106,479. Makybe Diva made hist
 Due to the 2007 Australian equine influenza outbreak, believed to have been started by a horse brought into Australia from Japan, neither Delta Blues nor Pop Rock participated in the 2007 Melbourne Cup. Both horses had been stabled in Japan. Corowa, NSW trained "Leica Falcon" also was not be permitted to race in Victoria, despite Corowa being close to the Victorian border. Leica Falcon was ordained as the new staying star of Australian racing in 2005 when he ran fourth in both the Caulfield Cup and in Makybe Diva's famous third Melbourne Cup victory. But serious leg injuries saw the horse not race for another 20 months.[61] Efficient, the previous year's VRC Derby winner, won the race.
 
 In 2013, Damien Oliver returned from an eight-month ban, after betting against his own mount at a previous race meet, to win his 3rd Melbourne cup.
-
-Flemington-race-course-180-degree.jpg
 
 Timeline of notable events
 
@@ -187,7 +185,7 @@ Timeline of notable events
 -   1985 – The first sponsored Melbourne Cup, and the first million dollar Cup, with $650,000 for the winner.[80]
 -   1987 – First female jockey to ride in the cup was Maree Lyndon on Argonaut Style.
 
-Dunaden.jpg: 2011 Melbourne Cup winner, painted by Charles Church]]
+: 2011 Melbourne Cup winner, painted by Charles Church]]
 
 -   1993 – The Dermot Weld trained Irish gelding Vintage Crop became the first Northern hemisphere trained horse to win the Melbourne Cup and the first Irish horse.
 -   2001 – Sheila Laxon was the first woman trainer to officially win the Melbourne Cup. However, Mrs. A. McDonald (1938) with Catalogue was really the first woman trainer to win.[81] Women then could not be registered as trainers in Australia, and it was her husband who was the registered trainer.[82] Mrs. McDonald's win was as a female trainer of a female owned horse.
@@ -205,15 +203,13 @@ Dunaden.jpg: 2011 Melbourne Cup winner, painted by Charles Church]]
 -   2017 - Rekindling becomes the first three-year-old to win the Melbourne Cup since Skipton in 1941, however was classed a four-year-old in the southern hemisphere.[88]
 -   2018 - Cross Counter, a four-year-old gelding (male) ridden by jockey Kerrin McEvoy and trained by Charlie Appleby from Great Britain wins.[89] The CliffsofMoher was euthanised after it suffered a fractured right shoulder and couldn't be saved.[90]
 
-Michelle_Payne_on_Yosei.jpg
-
 Public holiday
 
 Melbourne Cup day is a public holiday for all working within metropolitan Melbourne and some parts of regional Victoria, but not for some country Victorian cities and towns which hold their own spring carnivals. For federal public servants it is also observed as a holiday in the entire state of Victoria, and from 2007 to 2009 also in the Australian Capital Territory known as Family and Community Day replacing Picnic Day.[91] The Melbourne cup captures the public's imagination to the extent that people, whether at work, home, school, or out and about, usually stop to watch or listen to the race. Many people from outside of Melbourne take a half or full day off work to celebrate the occasion. Many people feel that the day should be a national public holiday as sick leave is said to increase on the day and productivity wanes.
 
 As early as 1865, Cup Day was a half-holiday in Melbourne for public servants and bank officials. Various businesses also closed at lunchtime.
 
-It took some years before the purpose of the declared holiday was acknowledged in the Victoria Government Gazette. The Gazette of 31 October 1873[92] announced that the following Thursday (Cup Day) be observed as a bank and civil (public) service holiday.[93] Makybe_Diva_-_trackwork_02.jpg
+It took some years before the purpose of the declared holiday was acknowledged in the Victoria Government Gazette. The Gazette of 31 October 1873[92] announced that the following Thursday (Cup Day) be observed as a bank and civil (public) service holiday.[93]
 
 
 Results and records
@@ -261,8 +257,6 @@ Other records
 
 Attendance
 
-Derby-lawn.jpg
-
 The event is one of the most popular spectator events in Australia, with sometimes over 110,000 people, some dressed in traditional formal raceday wear and others in all manner of exotic and amusing costumes, attending the race. The record crowd was 122,736 in 2003. The 1926 running of the Cup was the first time the 100,000 mark had been passed. Today the record at Flemington is held by the 2006 Victoria Derby when almost 130,000 attended.[102]
 
 In 2007, a limit was placed on the Spring Carnival attendance at Flemington Racecourse and race-goers are now required to pre-purchase tickets.[103] Every year more and more people travel to Flemington Racecourse, in 2016 there was A 7.8 per cent increase in the number of out-of-state individuals (80,472) attending the Melbourne Cup Carnival;[104]
@@ -287,7 +281,7 @@ In 2007, a limit was placed on the Spring Carnival attendance at Flemington Race
 
 Off the track
 
-The_Final_Three_-_2013_Myer_Fashions_on_the_Field_(10705855674).jpg ABC_Jean_Shrimpton.ogv news report on Jean Shrimpton's visit to the Melbourne Cup.]]
+news report on Jean Shrimpton's visit to the Melbourne Cup.]]
 
 'Fashions On The Field' is a major focus of the day, with substantial prizes awarded for the best-dressed man and woman. The requirement for elegant hats, and more recently the alternative of a fascinator, almost single-handedly keeps Melbourne's milliners in business. Raceday fashion has occasionally drawn almost as much attention as the race itself, The miniskirt received worldwide publicity when model Jean Shrimpton wore a white shift version of one on Derby Day during Melbourne Cup week in 1965.[114][115]
 

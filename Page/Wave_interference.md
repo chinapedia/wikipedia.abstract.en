@@ -1,15 +1,11 @@
-Interference_of_two_waves.svg, the two lower waves create constructive interference (left), resulting in a wave of greater amplitude. When 180° out of phase, they create destructive interference (right).]]
+, the two lower waves create constructive interference (left), resulting in a wave of greater amplitude. When 180° out of phase, they create destructive interference (right).]]
 
 In physics, INTERFERENCE is a phenomenon in which two waves superpose to form a resultant wave of greater, lower, or the same amplitude. Constructive and destructive interference result from the interaction of waves that are correlated or coherent with each other, either because they come from the same source or because they have the same or nearly the same frequency. Interference effects can be observed with all types of waves, for example, light, radio, acoustic, surface water waves, gravity waves, or matter waves. The resulting images or graphs are called INTERFEROGRAMS.
 
 
 Mechanisms
 
-Waventerference.gif Two_sources_interference.gif 3D_Interference_of_Laser_Light_Through_2_Pinholes_Animation.webm
-
 The principle of superposition of waves states that when two or more propagating waves of same type are incident on the same point, the resultant amplitude at that point is equal to the vector sum of the amplitudes of the individual waves.[1] If a crest of a wave meets a crest of another wave of the same frequency at the same point, then the amplitude is the sum of the individual amplitudes—this is constructive interference. If a crest of one wave meets a trough of another wave, then the amplitude is equal to the difference in the individual amplitudes—this is known as destructive interference.
-
-Interference_colours_in_soap_film_1.jpg
 
 Constructive interference occurs when the phase difference between the waves is an EVEN MULTIPLE of (180°) , whereas destructive interference occurs when the difference is an ODD MULTIPLE of . If the difference between the phases is intermediate between these two extremes, then the magnitude of the displacement of the summed waves lies between the minimum and maximum values.
 
@@ -43,7 +39,7 @@ _W_₁ + _W_₂ = 0 
 
 Between two plane waves
 
-interference_of_plane_waves_3.svgInterferences_plane_waves.jpg A simple form of interference pattern is obtained if two plane waves of the same frequency intersect at an angle. Interference is essentially an energy redistribution process. The energy which is lost at the destructive interference is regained at the constructive interference. One wave is travelling horizontally, and the other is travelling downwards at an angle θ to the first wave. Assuming that the two waves are in phase at the point B, then the relative phase changes along the _x_-axis. The phase difference at the point A is given by
+A simple form of interference pattern is obtained if two plane waves of the same frequency intersect at an angle. Interference is essentially an energy redistribution process. The energy which is lost at the destructive interference is regained at the constructive interference. One wave is travelling horizontally, and the other is travelling downwards at an angle θ to the first wave. Assuming that the two waves are in phase at the point B, then the relative phase changes along the _x_-axis. The phase difference at the point A is given by
 
 $$\Delta \varphi = \frac {2 \pi d} {\lambda} = \frac {2 \pi x \sin \theta} {\lambda}.$$
 
@@ -64,8 +60,6 @@ and is known as the fringe spacing. The fringe spacing increases with increase i
 The fringes are observed wherever the two waves overlap and the fringe spacing is uniform throughout.
 
 Between two spherical waves
-
-wavepanel.png
 
 A point source produces a spherical wave. If the light from two point sources overlaps, the interference pattern maps out the way in which the phase difference between the two waves varies in space. This depends on the wavelength and on the separation of the point sources. The figure to the right shows interference between two spherical waves. The wavelength increases from top to bottom, and the distance between the sources increases from left to right.
 
@@ -94,7 +88,7 @@ A diffraction grating can be considered to be a multiple-beam interferometer; si
 
 Optical interference
 
-Optical_flat_interference.svg on a reflective surface. Light rays from a monochromatic source pass through the glass and reflect off both the bottom surface of the flat and the supporting surface. The tiny gap between the surfaces means the two reflected rays have different path lengths. In addition the ray reflected from the bottom plate undergoes a 180° phase reversal. As a result, at locations _(A)_ where the path difference is an odd multiple of λ/2, the waves reinforce. At locations _(B)_ where the path difference is an even multiple of λ/2 the waves cancel. Since the gap between the surfaces varies slightly in width at different points, a series of alternating bright and dark bands, _interference fringes_, are seen. ]]
+on a reflective surface. Light rays from a monochromatic source pass through the glass and reflect off both the bottom surface of the flat and the supporting surface. The tiny gap between the surfaces means the two reflected rays have different path lengths. In addition the ray reflected from the bottom plate undergoes a 180° phase reversal. As a result, at locations _(A)_ where the path difference is an odd multiple of λ/2, the waves reinforce. At locations _(B)_ where the path difference is an even multiple of λ/2 the waves cancel. Since the gap between the surfaces varies slightly in width at different points, a series of alternating bright and dark bands, _interference fringes_, are seen. ]]
 
 Because the frequency of light waves (~10¹⁴ Hz) is too high to be detected by currently available detectors, it is possible to observe only the intensity of an optical interference pattern. The intensity of the light at a given point is proportional to the square of the average amplitude of the wave. This can be expressed mathematically as follows. The displacement of the two waves at a point is:
 
@@ -130,7 +124,7 @@ A laser beam generally approximates much more closely to a monochromatic source,
 
 Normally, a single laser beam is used in interferometry, though interference has been observed using two independent lasers whose frequencies were sufficiently matched to satisfy the phase requirements.[3] This has also been observed for widefield interference between two incoherent laser sources[4].
 
-Soap_bubble_sky.jpg. The iridescence is due to thin-film interference.]] It is also possible to observe interference fringes using white light. A white light fringe pattern can be considered to be made up of a 'spectrum' of fringe patterns each of slightly different spacing. If all the fringe patterns are in phase in the centre, then the fringes will increase in size as the wavelength decreases and the summed intensity will show three to four fringes of varying colour. Young describes this very elegantly in his discussion of two slit interference. Since white light fringes are obtained only when the two waves have travelled equal distances from the light source, they can be very useful in interferometry, as they allow the zero path difference fringe to be identified.[5]
+. The iridescence is due to thin-film interference.]] It is also possible to observe interference fringes using white light. A white light fringe pattern can be considered to be made up of a 'spectrum' of fringe patterns each of slightly different spacing. If all the fringe patterns are in phase in the centre, then the fringes will increase in size as the wavelength decreases and the summed intensity will show three to four fringes of varying colour. Young describes this very elegantly in his discussion of two slit interference. Since white light fringes are obtained only when the two waves have travelled equal distances from the light source, they can be very useful in interferometry, as they allow the zero path difference fringe to be identified.[5]
 
 Optical arrangements
 
@@ -159,7 +153,7 @@ Interferometry is used in the calibration of slip gauges (called gauge blocks in
 
 Radio interferometry
 
-USA.NM.VeryLargeArray.02.jpg, an interferometric array formed from many smaller telescopes, like many larger radio telescopes.]] In 1946, a technique called astronomical interferometry was developed. Astronomical radio interferometers usually consist either of arrays of parabolic dishes or two-dimensional arrays of omni-directional antennas. All of the telescopes in the array are widely separated and are usually connected together using coaxial cable, waveguide, optical fiber, or other type of transmission line. Interferometry increases the total signal collected, but its primary purpose is to vastly increase the resolution through a process called Aperture synthesis. This technique works by superposing (interfering) the signal waves from the different telescopes on the principle that waves that coincide with the same phase will add to each other while two waves that have opposite phases will cancel each other out. This creates a combined telescope that is equivalent in resolution (though not in sensitivity) to a single antenna whose diameter is equal to the spacing of the antennas furthest apart in the array.
+, an interferometric array formed from many smaller telescopes, like many larger radio telescopes.]] In 1946, a technique called astronomical interferometry was developed. Astronomical radio interferometers usually consist either of arrays of parabolic dishes or two-dimensional arrays of omni-directional antennas. All of the telescopes in the array are widely separated and are usually connected together using coaxial cable, waveguide, optical fiber, or other type of transmission line. Interferometry increases the total signal collected, but its primary purpose is to vastly increase the resolution through a process called Aperture synthesis. This technique works by superposing (interfering) the signal waves from the different telescopes on the principle that waves that coincide with the same phase will add to each other while two waves that have opposite phases will cancel each other out. This creates a combined telescope that is equivalent in resolution (though not in sensitivity) to a single antenna whose diameter is equal to the spacing of the antennas furthest apart in the array.
 
 Acoustic interferometry
 

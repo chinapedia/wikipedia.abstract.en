@@ -10,7 +10,7 @@ In his novel _Do Androids Dream of Electric Sheep?_ (the inspiration for _Blade 
 
 In _Blade Runner_
 
-BladeRunner_Rachael.jpg, a replicant played by Sean Young in the 1982 film]]
+, a replicant played by Sean Young in the 1982 film]]
 
 Prior to the events of the film, replicants became illegal on Earth after a bloody off-world mutiny by a band of Nexus-6 models. Two weeks before the starting point of the film, six Nexus-6 replicants escaped the off-world colonies, killing 23 people and taking a shuttle to Earth; the film focuses on the pursuit of the replicants by Rick Deckard, a category of police-officer bounty-hunter called a "Blade Runner", who investigates, tests, and retires replicants found on Earth.
 

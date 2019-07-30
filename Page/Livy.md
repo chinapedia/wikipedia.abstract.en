@@ -20,7 +20,7 @@ Titus Livius died in his home city of Patavium in either (see below) AD 12 or 17
 
 Works
 
-Ab_Urbe_condita.tif Livy's only surviving work is the "History of Rome" (_Ab Urbe Condita_), which was his career from his mid-life, probably 32, until he left Rome for Padua in old age, probably in the reign of Tiberius after the death of Augustus. When he began this work he was already past his youth; presumably, events in his life prior to that time had led to his intense activity as a historian. Seneca the Younger gives brief mention that he was also known as an orator and philosopher and had written some treatises in those fields from a historical point of view.[11]
+Livy's only surviving work is the "History of Rome" (_Ab Urbe Condita_), which was his career from his mid-life, probably 32, until he left Rome for Padua in old age, probably in the reign of Tiberius after the death of Augustus. When he began this work he was already past his youth; presumably, events in his life prior to that time had led to his intense activity as a historian. Seneca the Younger gives brief mention that he was also known as an orator and philosopher and had written some treatises in those fields from a historical point of view.[11]
 
 
 Reception
@@ -37,7 +37,7 @@ Livy's reasons for returning to Padua after the death of Augustus (if he did) ar
 
 Later
 
-Briosco_Titus_Livius.jpg (_c. 1567_)]] During the Middle Ages, interest in Livy declined because Western scholars were more focused on religious texts. Due to the length of the work, the literate class was already reading summaries rather than the work itself, which was tedious to copy, expensive, and required a lot of storage space. It must have been during this period, if not before, that manuscripts began to be lost without replacement.
+(_c. 1567_)]] During the Middle Ages, interest in Livy declined because Western scholars were more focused on religious texts. Due to the length of the work, the literate class was already reading summaries rather than the work itself, which was tedious to copy, expensive, and required a lot of storage space. It must have been during this period, if not before, that manuscripts began to be lost without replacement.
 
 The Renaissance was a time of intense revival; the population discovered that Livy's work was being lost and large amounts of money changed hands in the rush to collect Livian manuscripts. The poet Beccadelli sold a country home for funding to purchase one manuscript copied by Poggio. Petrarch and Pope Nicholas V launched a search for the now missing books. Laurentius Valla published an amended text initiating the field of Livy scholarship. Dante speaks highly of him in his poetry, and Francis I of France commissioned extensive artwork treating Livian themes; Niccolò Machiavelli's work on republics, the _Discourses on Livy_ is presented as a commentary on the _History of Rome_. Respect for Livy rose to lofty heights. Walter Scott reports in _Waverley_ (1814) as an historical fact that a Scotchman involved in the first Jacobite uprising of 1715 was recaptured (and executed) because, having escaped, he yet lingered near the place of his captivity in "the hope of recovering his favorite _Titus Livius_."[13]
 

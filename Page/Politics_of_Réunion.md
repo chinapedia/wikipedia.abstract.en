@@ -1,5 +1,3 @@
-Flag of France
-
 Réunion, is an overseas département of France.
 
 The island's conventional name is the _Department of Réunion_, or _Réunion_. It is also locally referred to as _Île de la Réunion_. The French flag is used on the island. The island's capital is Saint-Denis, and the island is divided into four arrondissements, 24 communes and 47 cantons.

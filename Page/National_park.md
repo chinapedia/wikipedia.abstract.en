@@ -1,5 +1,3 @@
-Bogdkhan_Uul_Strictly_Protected_Area,_Mongolia_(149199747).jpg
-
 A NATIONAL PARK is a park in use for conservation purposes. Often it is a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns. Although individual nations designate their own national parks differently, there is a common idea: the conservation of 'wild nature' for posterity and as a symbol of national pride.[1]
 
 An international organization, the International Union for Conservation of Nature (IUCN), and its World Commission on Protected Areas (WCPA), has defined "National Park" as its _Category II_ type of protected areas.[2] According to the IUCN, 6,555 national parks worldwide met its criteria in 2006. IUCN is still discussing the parameters of defining a national park.[3]
@@ -11,7 +9,7 @@ National parks are almost always open to visitors.[9]
 
 Definitions
 
-Puerto_Escondido_P_N_Manuel_Antonio.JPG in Costa Rica was listed by _Forbes_ as one of the world's 12 most beautiful national parks.[10]]] Beech_trees_in_Mallard_Wood,_New_Forest_-_geograph.org.uk_-_779513.jpg, Hampshire, England]]
+in Costa Rica was listed by _Forbes_ as one of the world's 12 most beautiful national parks.[10]]] , Hampshire, England]]
 
 In 1969, the IUCN declared a national park to be a relatively large area with the following defining characteristics:[11]
 
@@ -48,8 +46,6 @@ In 1810, the English poet William Wordsworth described the Lake District as a "s
 
 First efforts: Hot Springs, Arkansas and Yosemite Valley
 
-Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg
-
 The first effort by the U.S. Federal government to set aside such protected lands was on 20 April 1832, when President Andrew Jackson signed legislation that the 22nd United States Congress had enacted to set aside four sections of land around what is now Hot Springs, Arkansas, to protect the natural, thermal springs and adjoining mountainsides for the future disposal of the U.S. government.[19][20][21] It was known as Hot Springs Reservation, but no legal authority was established. Federal control of the area was not clearly established until 1877.[22]
 
 John Muir is today referred to as the "Father of the National Parks" due to his work in Yosemite.[23] He published two influential articles in The Century Magazine, which formed the base for the subsequent legislation.[24][25]
@@ -58,7 +54,7 @@ President Abraham Lincoln signed an Act of Congress on 1 July 1864, ceding the Y
 
 First national park: Yellowstone
 
-Grand_prismatic_spring.jpg in Yellowstone National Park, Wyoming, United States; Yellowstone was the first national park in the world.]] In 1872, Yellowstone National Park was established as the United States' first national park,[28] being also the world's first national park. In some European and Asian countries, however, national protection and nature reserves already existed, such as a part of the Forest of Fontainebleau (France, 1861).[29]
+in Yellowstone National Park, Wyoming, United States; Yellowstone was the first national park in the world.]] In 1872, Yellowstone National Park was established as the United States' first national park,[28] being also the world's first national park. In some European and Asian countries, however, national protection and nature reserves already existed, such as a part of the Forest of Fontainebleau (France, 1861).[29]
 
 Yellowstone was part of a federally governed territory. With no state government that could assume stewardship of the land, the federal government took on direct responsibility for the park, the official first national park of the United States. The combined effort and interest of conservationists, politicians and the Northern Pacific Railroad ensured the passage of enabling legislation by the United States Congress to create Yellowstone National Park. Theodore Roosevelt and his group of conservationists, the Boone and Crockett Club, were already an active campaigners, and so influential, as good stump speakers were highly necessary in the pre-telecommunications era, was highly influential in convincing fellow Republicans and big business to back the bill. Yellowstone National Park soon played a pivotal role in the conservation of these national treasures, as it was suffering at the hands of poachers and others who stood at the ready to pillage what they could from the area. Theodore Roosevelt and his newly formed Boone and Crockett Club successfully took the lead in protecting Yellowstone National Park from this plight, resulting in laws designed to conserve the natural resources in Yellowstone and other parks under the Government's purview.
 
@@ -70,7 +66,7 @@ In his book _Dispossessing the Wilderness: Indian Removal and the Making of the 
 
 International growth of national parks
 
-Late_Afternoon_at_North_&_South_Era.jpg, Australia]]
+, Australia]]
 
 The first area to use "national park" in its creation legislation was the U.S.'s Mackinac National Park, in 1875. (The area was later transferred to the state's authority in 1895, thus losing its official "national park" status).[32][33])
 

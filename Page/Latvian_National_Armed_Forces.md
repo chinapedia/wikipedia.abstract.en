@@ -31,19 +31,19 @@ The origin of the current Latvian armed forces can be traced to the establishmen
 
 Structure
 
-Latvia_Armed_Forces_2019.png National Armed Forces consist of:
+National Armed Forces consist of:
 
--   NBS HQ NAF Joint Headquarters
+-   NAF Joint Headquarters
 -   NAF Commander’s Personal Staff
--   Latvian_Land_Forces_logo.png Land Forces
--   Latvian_Naval_Forces_emblem.svg Naval Forces
--   Latvian_Air_Force_emblem.svg Air Force
--   Latvian_National_Guard_emblem.svg National Guard
--   Latvian_Special_Tasks_Unit_emblem.svg Special Operations Command
--   Latvian_Military_Police_emblem.svg Military Police
--   Latvian_National_Armed_Forces_Staff_Battalion_emblem.svg NAF Staff Battalion
--   Latvian_Training_and_Doctrine_Command_emblem.svg Training and Doctrine Command
--   Latvian_Logistics_Command_emblem.svg Support Command
+-   Land Forces
+-   Naval Forces
+-   Air Force
+-   National Guard
+-   Special Operations Command
+-   Military Police
+-   NAF Staff Battalion
+-   Training and Doctrine Command
+-   Support Command
 
 The Security Service of Parliament and State President was a part of the National Armed Forces until its merger with the Military Police in 2009.
 
@@ -84,7 +84,7 @@ Current operations
 
 Modernization
 
-CVRT.jpg After joining the North Atlantic Treaty Organization (NATO), Latvia has undertaken obligations to strengthen common defence within the scope of its capabilities. For this purpose, every NATO member state delegates its military formations — fast response, well-armed and well-equipped units capable to operate beyond the NATO’s borders.
+After joining the North Atlantic Treaty Organization (NATO), Latvia has undertaken obligations to strengthen common defence within the scope of its capabilities. For this purpose, every NATO member state delegates its military formations — fast response, well-armed and well-equipped units capable to operate beyond the NATO’s borders.
 
 After joining NATO, the foundation of the Latvian defence system has shifted from total territorial defence to collective defence. Latvia has acquired small but highly professional troop units that have been fully integrated into NATO structures. NAF soldiers have participated in international operations since 1996. Specialized units (e.g. units of military medics, military police, unexploded ordnance neutralizers, military divers and special forces) have been established in order to facilitate and enhance NAF participation in international operations. Special attention has been paid to establishing a unit to deal with the identification and clearance of nuclear pollution. The successful participation of Latvian soldiers in international exercises, operations and missions demonstrates that their professional skills already comply with the performance requirements set by the Alliance.
 

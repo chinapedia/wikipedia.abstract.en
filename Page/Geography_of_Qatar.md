@@ -1,5 +1,3 @@
-Qatar_31_January_2003.jpg
-
 QATAR is a peninsula in the east of Arabia, bordering the Persian Gulf and Saudi Arabia, in a strategic location near major petroleum deposits. Qatar occupies on a peninsula that extends approximately to north into the Persian Gulf from the Arabian Peninsula.
 
 Varying in width between , the land is mainly flat (the highest point is ) and rocky. Notable features include coastal salt pans, elevated limestone formations (the Dukhan anticline) along the west coast under which lies the Dukhan oil field, and massive sand dunes surrounding Khawr al Udayd, an inlet of the Persian Gulf in the southeast known to local English speakers as the Inland Sea.
@@ -33,14 +31,14 @@ In the south, where groundwater is exceedingly scarce, vegetation can found grow
 
 Fauna
 
-A_mountain_goat_at_Haloul_Island.jpg]] There are 21 species of mammals that have been recorded in Qatar.[19] Larger terrestrial mammals such as the Arabian oryx and Arabian gazelle are protected animals and are held in nature reserves.[20] The Arabian gazelle is the only native gazelle species to Qatar and is locally referred to as 'rheem'.[21]
+]] There are 21 species of mammals that have been recorded in Qatar.[19] Larger terrestrial mammals such as the Arabian oryx and Arabian gazelle are protected animals and are held in nature reserves.[20] The Arabian gazelle is the only native gazelle species to Qatar and is locally referred to as 'rheem'.[21]
 
 Qatar's territorial waters in the Persian Gulf are rich in marine life. Sea turtles nest en masse on the coastline from Fuwayrit to Ras Laffan. The Ministry of Environment (MME) carries out routine patrols of nesting areas to ensure their conservation.[22] Dugongs are known to congregate off the country's coasts. In the course of a study being carried out in 1986 and 1999 on the Persian Gulf, the largest-ever group sightings were made of more than 600 individuals to the west of Qatar.[23]
 
 
 Area and land boundaries
 
-Qatar_Topography.png Qatar has one land border. The country borders Saudi Arabia to the south. The boundary with Saudi Arabia was settled in 1965 but never demarcated. Qatar's northwest coast is fewer than from the main islands of Bahrain, while the small Hawar Islands of Bahrain are only 1.4 km (0.8 mi) off that coast.[24] The peninsula's northernmost point is Ras Rakan.[25]
+Qatar has one land border. The country borders Saudi Arabia to the south. The boundary with Saudi Arabia was settled in 1965 but never demarcated. Qatar's northwest coast is fewer than from the main islands of Bahrain, while the small Hawar Islands of Bahrain are only 1.4 km (0.8 mi) off that coast.[24] The peninsula's northernmost point is Ras Rakan.[25]
 
 Maritime claims
 
@@ -60,7 +58,7 @@ Based on estimates in 2011 estimates, 5.6% of the land is agricultural. Arable l
 
 Geology and mineral deposits
 
-Nakhsh_mountain_in_Qatar.jpg (Nakhsh Mountain)]] Hillock_at_northern_end_of_Al_Khor_Island.jpg]]
+(Nakhsh Mountain)]] ]]
 
 +------------------------+----------------------------------------------------+---------------------------------------------+---------------------------------------+--------------------------------+
 | Era[29][30]            | Period                                             | Formation                                   | Member                                | Mineral deposits and resources |
@@ -96,7 +94,7 @@ Most of Qatar's surface lies on Cenozoic strata. These strata have an abundance 
 
 Political and human geography
 
-Qatar_sandstorm.JPG The capital, Doha, is located on the central east coast on a sweeping (if shallow) harbor. Other ports include Umm Said, Al Khawr, and Al Wakrah. Only Doha and Umm Said are capable of handling commercial shipping, although a large port and a terminal for loading natural gas are planned at Ras Laffan Industrial City, north of Al Khawr. Coral reefs and shallow coastal waters make navigation difficult in areas where channels have not been dredged.[35]
+The capital, Doha, is located on the central east coast on a sweeping (if shallow) harbor. Other ports include Umm Said, Al Khawr, and Al Wakrah. Only Doha and Umm Said are capable of handling commercial shipping, although a large port and a terminal for loading natural gas are planned at Ras Laffan Industrial City, north of Al Khawr. Coral reefs and shallow coastal waters make navigation difficult in areas where channels have not been dredged.[35]
 
 Doha is the capital of the country and the major administrative, commercial, and population center. In 1993 it was linked to other towns and development sites by a system of about of paved roads. Doha's international airport has an approximately main runway, capable of receiving all kinds of aircraft.[36]
 

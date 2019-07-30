@@ -5,8 +5,6 @@ The Neo Geo Pocket is considered to be an unsuccessful console. Lower than expec
 
 Technical specifications
 
-Neo_Geo_Pocket_Motherboard_Back.jpg
-
 -   16-bit Toshiba TLCS-900H high performance core CPU
 -   32-bit/16-bit register bank configuration at 6.144 MHz
 -   Virtual screen 256×256, 16 palettes per plane, 64 sprites per frame

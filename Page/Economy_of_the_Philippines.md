@@ -31,7 +31,7 @@ The Philippine economy is projected to be the 5th largest in Asia and 16th bigge
 
 Pre-Colonial Era (900s–1565)
 
-Japanese_inhabitants_in_the_Philippines.png The economic history of the Philippine Islands had been traced back to the pre-colonial times. The country which was then composed of different kingdoms and thalassocracies oversaw the large number of merchants coming to the islands for trade. Indian, Arab, Chinese and Japanese merchants were welcomed by these kingdoms, which were mostly located by riverbanks, coastal ports and central plains. The merchants traded for goods such as gold, rice, pots and other products. The barter system was implemented at that time and the pre-colonial people enjoyed a life filled with imported goods which reflected their fashion and lifestyle.
+The economic history of the Philippine Islands had been traced back to the pre-colonial times. The country which was then composed of different kingdoms and thalassocracies oversaw the large number of merchants coming to the islands for trade. Indian, Arab, Chinese and Japanese merchants were welcomed by these kingdoms, which were mostly located by riverbanks, coastal ports and central plains. The merchants traded for goods such as gold, rice, pots and other products. The barter system was implemented at that time and the pre-colonial people enjoyed a life filled with imported goods which reflected their fashion and lifestyle.
 
 From the 12th century, a huge industry centred around the manufacture and trade of burnay clay pots, used for the storage of tea and other perishables, was set up in the northern Philippines with Japanese and Okinawan traders. These pots were known as 'Ruson-tsukuri' (Luzon-made) in Japanese, and were considered among the best storage vessels used for the purpose of keeping tea leaves and rice wine fresh. Hence, Ruson-Tsukuri pots became sought after in Northeast Asia. Each Philippine kiln had its own branding symbol, marked on the bottom of the Ruson-tsukuri by a single baybayin letter.
 
@@ -54,7 +54,7 @@ Spanish Era
 
 New Spain (1565–1815)
 
-GoodsManilaGalleonSanDiego.JPG in Acapulco]] The natives were slavered among them by other tribes like Lapu-Lapu which forced other islands to pay taxes. The arrival of the Spanish removed this slavering system. Miguel Lopez de Legazpi with Tlaxcaltecs from Mexico conquered and unified the islands. The conquered was possible thanks to the discovery of the trip back to Mexico coast by Agustino Urdaneta. The administration of Islas Filipinas was done through the Capitania General and depended on Mexico Capital which formed the New Spain Viceroyalty. The economy of Islas Filipinas grew further when the Spanish government inaugurated the Manila Galleon trade system. Trading ships, settlers[24] and military reinforcementsLetter from Fajardo to Felipe III From Manila, August 15 1620.(From the Spanish Archives of the Indies)
+in Acapulco]] The natives were slavered among them by other tribes like Lapu-Lapu which forced other islands to pay taxes. The arrival of the Spanish removed this slavering system. Miguel Lopez de Legazpi with Tlaxcaltecs from Mexico conquered and unified the islands. The conquered was possible thanks to the discovery of the trip back to Mexico coast by Agustino Urdaneta. The administration of Islas Filipinas was done through the Capitania General and depended on Mexico Capital which formed the New Spain Viceroyalty. The economy of Islas Filipinas grew further when the Spanish government inaugurated the Manila Galleon trade system. Trading ships, settlers[24] and military reinforcementsLetter from Fajardo to Felipe III From Manila, August 15 1620.(From the Spanish Archives of the Indies)
 
 ("The infantry does not amount to two hundred men, in three companies. If these men were that number, and Spaniards, it would not be so bad; but, although I have not seen them, because they have not yet arrived here, I am told that they are, as at other times, for the most part BOYS, MESTIZOS, AND MULATTOES, WITH SOME INDIANS (NATIVE AMERICANS). There is no little cause for regret in the great sums that reënforcements of such men waste for, and cost, your Majesty. I cannot see what betterment there will be until your Majesty shall provide it, since I do not think, that more can be done in Nueva Spaña, although the viceroy must be endeavoring to do so, as he is ordered.") made voyages once or twice per year across the Pacific Ocean from the port of Acapulco in Mexico to Manila in the Philippines. Both cities were part of the then Province of New Spain.
 
@@ -66,7 +66,7 @@ On 10 March 1785, King Charles III of Spain confirmed the establishment of the R
 
 Spanish East Indies (1815–98)
 
-Escolta_Manila.jpg After Spain lost Mexico as a territory, New Spain was dissolved making the Philippines and other Pacific islands to form the Spanish East Indies. This resulted in the Philippines being governed directly by the King of Spain and the Captaincy General of the Philippines while the Pacific islands of Northern Mariana Islands, Guam, Micronesia and Palau was governed by the Real Audiencia of Manila and was part of the Philippine territorial governance.
+After Spain lost Mexico as a territory, New Spain was dissolved making the Philippines and other Pacific islands to form the Spanish East Indies. This resulted in the Philippines being governed directly by the King of Spain and the Captaincy General of the Philippines while the Pacific islands of Northern Mariana Islands, Guam, Micronesia and Palau was governed by the Real Audiencia of Manila and was part of the Philippine territorial governance.
 
 It made the economy of the Philippines grow further as people saw the rise of opportunities. Agriculture remained the largest contributor to economy, being the largest producer of coffee in Asia as well as a large produce of tobacco.
 
@@ -84,14 +84,14 @@ The economy of the Philippines during the insurgency of the First Philippine Rep
 
 American Era (1901–35)
 
-Manilastreetcar.jpg When the Americans defeated the first Philippine Republic and made the Philippines a showcase territory of the United States, the country saw a redevelopment under the American system. Economy as well was re-developed. The Philippines saw the growth of the economy once again after the war as the Americans built new public schools, transportation, reform system, boutiques, offices and civic buildings.
+When the Americans defeated the first Philippine Republic and made the Philippines a showcase territory of the United States, the country saw a redevelopment under the American system. Economy as well was re-developed. The Philippines saw the growth of the economy once again after the war as the Americans built new public schools, transportation, reform system, boutiques, offices and civic buildings.
 
 When the Great Depression happened in the United States, the Philippines on the other hand wasn't affected. Instead, the US relied on the Philippine economy throughout the depression era.
 
 
 Commonwealth Era (1935–45)
 
-Jones-Bridge-skyview-with-Post-Office-1930s.jpg When the United States granted the Philippines commonwealth status, the country enjoyed a rapid growth of prosperity. Tourism, industry, and agriculture were among the largest contributors to the economy. Products included abaca (a species of banana Janssen), coconuts and coconut oil, sugar, and timber. Numerous other crops and livestock were grown for local consumption by the Filipino people. Manila became one of the most visited cities in Asia alongside Hong Kong. Manila was considered to be the most beautiful city in Asia. This sentiment drew tourists from around the world, helping to boost the Philippine economy.
+When the United States granted the Philippines commonwealth status, the country enjoyed a rapid growth of prosperity. Tourism, industry, and agriculture were among the largest contributors to the economy. Products included abaca (a species of banana Janssen), coconuts and coconut oil, sugar, and timber. Numerous other crops and livestock were grown for local consumption by the Filipino people. Manila became one of the most visited cities in Asia alongside Hong Kong. Manila was considered to be the most beautiful city in Asia. This sentiment drew tourists from around the world, helping to boost the Philippine economy.
 
 The performance of the economy was good despite challenges from various agrarian uprisings. Taxes collected from a robust coconut industry helped boost the economy by funding infrastructure and other development projects. The people enjoyed a first world economy until the time when the Philippines was dragged into World War II. This led to a recession in the economy.
 
@@ -99,7 +99,7 @@ World War II (1941–45)
 
 Due to the Japanese invasion establishing the unofficial Second Philippine Republic, the economic growth receded and food shortages occurred. Prioritizing the shortages of food, Jose Laurel, the appointed President, organized an agency to distribute rice, even though most of the rice was confiscated by Japanese soldiers. Manila was one of the many places in the country that suffered from severe shortages, due mainly to a typhoon that struck the country in November 1943. The people were forced to cultivate private plots which produced root crops like kangkong. The Japanese, in order to raise rice production in the country, brought a quick-maturing horai rice, which was first used in Taiwan. Horai rice was expected to make the Philippines self-sufficient in rice by 1943, but rains during 1942 prevented this.
 
-PHI-114-Japanese_Government_(Philippines)-500_Pesos_(1944).jpg Also during World War II in the Philippines, the occupying Japanese government issued fiat currency in several denominations; this is known as the Japanese government-issued Philippine fiat peso.
+Also during World War II in the Philippines, the occupying Japanese government issued fiat currency in several denominations; this is known as the Japanese government-issued Philippine fiat peso.
 
 The first issue in 1942 consisted of denominations of 1, 5, 10 and 50 centavos and 1, 5, and 10 Pesos. The next year brought "_replacement notes_" of the 1, 5 and 10 Pesos while 1944 ushered in a 100 Peso note and soon after an inflationary 500 Pesos note. In 1945, the Japanese issued a 1,000 Pesos note. This set of new money, which was printed even before the war, became known in the Philippines as Mickey Mouse money due to its very low value caused by severe inflation. Anti-Japanese newspapers portrayed stories of going to the market laden with suitcases or "_bayong_" (native bags made of woven coconut or _buri_ leaf strips) overflowing with the Japanese-issued bills.[29] In 1944, a box of matches cost more than 100 _Mickey Mouse_ pesos.[30] In 1945, a kilogram of camote cost around 1000 _Mickey Mouse_ pesos.[31] Inflation plagued the country with the devaluation of the Japanese money, evidenced by a 60% inflation experienced in January 1944.[32]
 
@@ -169,7 +169,7 @@ The important policies of the Arroyo administration highlighted the importance o
 
 Benigno Aquino III's Administration (2010–16)
 
-Philippine_economic_boom.png The Philippines consistently coined as one of the Newly Industrialized Countries has had a fair gain during the latter years under the Arroyo Presidency to the current administration. The government managed foreign debts falling from 58% in 2008 to 47% of total government borrowings. According to the 2012 World Wealth Report, the Philippines was the fastest growing economy in the world in 2010 with a GDP growth of 7.3% driven by the growing business process outsourcing and overseas remittances.[55]
+The Philippines consistently coined as one of the Newly Industrialized Countries has had a fair gain during the latter years under the Arroyo Presidency to the current administration. The government managed foreign debts falling from 58% in 2008 to 47% of total government borrowings. According to the 2012 World Wealth Report, the Philippines was the fastest growing economy in the world in 2010 with a GDP growth of 7.3% driven by the growing business process outsourcing and overseas remittances.[55]
 
 The country markedly slipped to 3.6% in 2011 after the government placed less emphasis on exports, as well as spending less on infrastructure. In addition, the disruption of the flow of imports for raw materials as a result from floods in Thailand and the tsunami in Japan have affected the manufacturing sector in the same year. "The Philippines contributed more than $125 million as of end-2011 to the pool of money disbursed by the International Monetary Fund to help address the financial crisis confronting economies in Europe. This was according to the Bangko Sentral ng Pilipinas, which reported Tuesday that the Philippines, which enjoys growing foreign exchange reserves, has made available about $251.5 million to the IMF to finance the assistance program—the Financial Transactions Plan (FTP)—for crisis-stricken countries."[56]
 
@@ -178,7 +178,7 @@ Remarkably the economy grew by 6.68% in 2012. The Philippine Stock Exchange inde
 
 Macroeconomic trends
 
-Historical_GDP_growth_of_the_Philippines.png The Philippine economy has been growing steadily over decades and the International Monetary Fund in 2014 reported it as the 39th largest economy in the world. However its growth has been behind that of many of its Asian neighbors, the so-called Asian Tigers, and it is not a part of the Group of 20 nations. Instead it is grouped in a second tier for emerging markets or newly industrialized countries. Depending on the analyst, this second tier can go by the name the Next Eleven or the Tiger Cub Economies.
+The Philippine economy has been growing steadily over decades and the International Monetary Fund in 2014 reported it as the 39th largest economy in the world. However its growth has been behind that of many of its Asian neighbors, the so-called Asian Tigers, and it is not a part of the Group of 20 nations. Instead it is grouped in a second tier for emerging markets or newly industrialized countries. Depending on the analyst, this second tier can go by the name the Next Eleven or the Tiger Cub Economies.
 
 In the years 2012 and 2013, the Philippines posted high GDP growth rates, reaching 6.8% in 2012 and 7.2% in 2013,[58][59][60] the highest GDP growth rates in Asia for the first two quarters of 2013, followed by China and Indonesia.[61]
 
@@ -295,11 +295,11 @@ Filipinos who go abroad to work–-known as Overseas Filipino Workers or OFWs—
 
 Agriculture
 
-Sugarcane_plantations_Bacolod_Philippines.jpg plantations in Bacolod City, Negros]] Agriculture employs 30% of the Filipino workforce as of 2014.[77] Agriculture accounts for 11% of Philippines GDP as of 2014.[78] The type of activity ranges from small subsistence farming and fishing to large commercial ventures with significant export focus.
+plantations in Bacolod City, Negros]] Agriculture employs 30% of the Filipino workforce as of 2014.[77] Agriculture accounts for 11% of Philippines GDP as of 2014.[78] The type of activity ranges from small subsistence farming and fishing to large commercial ventures with significant export focus.
 
 The Philippines is the world's largest producer of coconuts producing 19,500,000 tons in 2009. Coconut production in the Philippines is generally concentrated in medium-sized farms.[79] The Philippines is also the world's largest producer of pineapples, producing 2,458,420 million metric tons in 2013.[80]
 
-Aerial_shot_of_General_Santos_City_Port_in_South_Cotabato.jpg Rice production in the Philippines is important to the food supply in the country and economy. The Philippines is the 8th largest rice producer in the world, accounting for 2.8% of global rice production.[81] The Philippines was also the world's largest rice importer in 2010.[82] Rice is the most important food crop, a staple food in most of the country. It is produced extensively in Luzon (especially Central Luzon), Western Visayas, Southern Mindanao and Central Mindanao.
+Rice production in the Philippines is important to the food supply in the country and economy. The Philippines is the 8th largest rice producer in the world, accounting for 2.8% of global rice production.[81] The Philippines was also the world's largest rice importer in 2010.[82] Rice is the most important food crop, a staple food in most of the country. It is produced extensively in Luzon (especially Central Luzon), Western Visayas, Southern Mindanao and Central Mindanao.
 
 The Philippines is one of the largest producers of sugar in the world.[83] At least 17 provinces located in eight regions of the nation have grown sugarcane crops, of which the Negros Island Region accounts for half of the country's total production. As of Crop Year 2012-2013, 29 mills are operational divided as follows: 13 mills in Negros, 6 mills in Luzon, 4 mills in Panay, 3 mills in Eastern Visayas and 3 mills in Mindanao.[84] A range from 360,000 to 390,000 hectares are devoted to sugarcane production. The largest sugarcane areas are found in the Negros Island Region, which accounts for 51% of sugarcane areas planted. This is followed by Mindanao which accounts for 20%; Luzon by 17%; Panay by 07% and Eastern Visayas by 04%.[85]
 
@@ -327,7 +327,7 @@ A Texas Instruments plant in Baguio has been operating for 20 years and is the l
 
 Mining and extraction
 
-Puhagan_geothermal_plant.jpg station in Negros Oriental]] The country is rich in mineral and geothermal energy resources. In 2003, it produced 1931 MW of electricity from geothermal sources (27% of total electricity production), second only to the United States,[100] and a recent discovery of natural gas reserves in the Malampaya oil fields off the island of Palawan is already being used to generate electricity in three gas-powered plants. Philippine gold, nickel, copper, palladium and chromite deposits are among the largest in the world. Other important minerals include silver, coal, gypsum, and sulphur. Significant deposits of clay, limestone, marble, silica, and phosphate exist.
+station in Negros Oriental]] The country is rich in mineral and geothermal energy resources. In 2003, it produced 1931 MW of electricity from geothermal sources (27% of total electricity production), second only to the United States,[100] and a recent discovery of natural gas reserves in the Malampaya oil fields off the island of Palawan is already being used to generate electricity in three gas-powered plants. Philippine gold, nickel, copper, palladium and chromite deposits are among the largest in the world. Other important minerals include silver, coal, gypsum, and sulphur. Significant deposits of clay, limestone, marble, silica, and phosphate exist.
 
 About 60% of total mining production are accounted for by non-metallic minerals, which contributed substantially to the industry's steady output growth between 1993 and 1998, with the value of production growing 58%. In 1999, however, mineral production declined 16% to $793 million. Mineral exports have generally slowed since 1996. Led by copper cathodes, Philippine mineral exports amounted to $650 million in 2000, barely up from 1999 levels. Low metal prices, high production costs, lack of investment in infrastructure, and a challenge to the new mining law have contributed to the mining industry's overall decline.
 
@@ -335,7 +335,7 @@ The industry rebounded starting in late 2004 when the Supreme Court upheld the c
 
 Offshoring and outsourcing
 
-Teletech_call_cent_BACOLOD.jpg]]
+]]
 
 In 2008, the Philippines has surpassed India as the world leader in business process outsourcing.[101][102] The majority of the top ten BPO firms of the United States operate in the Philippines.[103] The industry generated 100,000 jobs, and total revenues were placed at $960 million for 2005. In 2012, BPO sector employment ballooned to over 700,000 people and is contributing to a growing middle class. BPO facilities are concentrated in IT parks and centers in Economic Zones across the Philippines.[104] BPO facilities are located mainly in Metro Manila and Cebu City although other regional areas such as Baguio, Bacolod, Cagayan de Oro, Clark Freeport Zone, Dagupan, Davao City, Dumaguete, Lipa, Iloilo City, and Naga City, Camarines Sur are now being promoted and developed for BPO operations.
 
@@ -351,7 +351,7 @@ This growth in the industry is further promoted by the Philippine government. Th
 
 Tourism
 
-Boracay_Sailing_Paraw.jpg, one of the country's top tourist destinations]]
+, one of the country's top tourist destinations]]
 
 Tourism is an important sector for the Philippine economy, contributing 7.8% to the Philippine gross domestic product (GDP) in 2014.[113]
 
@@ -409,8 +409,6 @@ International comparisons
 
 Statistics
 
-Philippines_wealth_chart.png
-
   Economic growth[129][130][131]
   --------------------------------------
   Year
@@ -435,8 +433,6 @@ Philippines_wealth_chart.png
   2017[136]
   _* Computed at Constant 2000 Prices_
   _** Source: NEDA and NSCB_
-
-2006Filipino_exports.PNG Philippines_Export_Treemap.png
 
 Most of the following statistics are sourced from the International Monetary Fund – Philippines (as of 2012; figures are in US dollars unless otherwise indicated).
 

@@ -29,7 +29,7 @@ Kuwait has about of recoverable oil reserves. Estimated capacity, before the war
 
 Reserve funds
 
-Kuwait_Export_Treemap.jpg The Kuwait Investment Authority (KIA) is Kuwait's sovereign wealth fund specializing in foreign investment. The KIA is the world's oldest sovereign wealth fund. Since 1953, the Kuwaiti government has directed investments into Europe, United States and Asia Pacific. , the holdings were valued at $592 billion in assets.[21] It is the 5th largest sovereign wealth fund in the world.
+The Kuwait Investment Authority (KIA) is Kuwait's sovereign wealth fund specializing in foreign investment. The KIA is the world's oldest sovereign wealth fund. Since 1953, the Kuwaiti government has directed investments into Europe, United States and Asia Pacific. , the holdings were valued at $592 billion in assets.[21] It is the 5th largest sovereign wealth fund in the world.
 
 The KIA manages two funds: the General Reserve Fund (GRF) and Future Generations Fund (FGF).[22] The GRF is the main treasurer for the government.[23] It receives all state revenues and all national expenditures are paid out of this fund.[24] The KIA does not disclose its financial assets in public, but it is estimated that the KIA has $410 billion in assets as of February 2014.
 
@@ -63,8 +63,6 @@ In 2017, agriculture (including fisheries) accounts for almost 0.4 percent of th
 
 
 Transport
-
-Kuwait_highway.jpg
 
 Kuwait has an extensive and modern network of highways. Roadways extended , of which is paved. There are more than 2 million passenger cars, and 500,000 commercial taxis, buses, and trucks in use. On major highways the maximum speed is . Since there is no railway system in the country, most people travel by automobiles.
 

@@ -1,5 +1,3 @@
-Niger_Army_322nd_Parachute_Regiment.jpg
-
 The NIGER ARMED FORCES () (FAN) includes military armed force service branches (Niger Army and Niger Air Force), paramilitary services branches (National Gendarmerie of Niger and National Guard of Niger) and the National Police. The Niger Army, Niger Air Force and the National Gendarmerie of Niger are under the Ministry of Defense whereas the National Guard of Niger and the National Police fall under the command of the Ministry of Interior. With the exception of the National Police, all military and paramilitary forces are trained in military fashion. The President of Niger is the supreme commander of the entire armed forces.
 
 
@@ -12,8 +10,6 @@ Niger Army
 The Niger Army is the land military armed forces of Niger with 5,200 personnel.[3] Units include logistics, motorized infantry, airborne infantry, artillery and armoured companies. There is a total of 10 pure motorized infantry battalions, three of which are Saharan. The other battalions are mixed, like the ones in Niamey (12^(eme) Battaillion Inter Armes de Niamey),[4] Zinder, Tahoua and Madawela. The 24th _Batallion Interarmees_ at Dirkou has a company at Madama. Each of these battalions comprises a logistics and engineering or _génie_ company, a fire fighter company, an infantry company, be it airborne or land, an armoured squadron and an artillery company. The Army is commanded by the Chief of Staff of the Army in Niamey through appointed commandeers of each of the seven "Defense Zones", which largely overlap each of the civilian Regions of Niger.[5][6]
 
 History
-
-Motorised_company_armed_forces_niger.png
 
 The Niger Army was created on 28 July 1960 by decree. At the time, the National Police was a subsection of the military. Initially, units of the army were created from three companies of the French Colonial Forces made of Nigerien soldiers officered by Frenchmen who agreed to take joint French-Nigerien citizenship. In 1960, there were only ten African officers in the Nigerien army, all of low ranks. As Nigerien officers gradually assumed command roles, President Diori signed legislation to end the employment of expatriate military officers in 1965. However, French military personnel remained in Niger both to serve in the Niger Army and in the 4th _Régiment Interarmes d'Outre-Mer_ (Troupes de Marine) with bases at Niamey, Zinder, Bilaro and Agadez.[7] In the late 1970s, a smaller French force returned again to Niger. After the 1974 military coup, all French military personnel were evacuated although a smaller French force returned in the late 1970s.
 
@@ -61,7 +57,7 @@ The aircraft inventory of the Niger Air Force is modest though it has increased 
 
 Current inventory
 
-Roundel_of_Niger.svg of the Niger Air Force]]
+of the Niger Air Force]]
 
   Aircraft               Origin          Type                  Variant   In service   Notes
   ---------------------- --------------- --------------------- --------- ------------ -------
@@ -101,8 +97,6 @@ The General Directorate of National Police, headquartered in Niamey was until th
 
 Domestic conflicts
 
-Niger_Rebel-Leader-fighting-01apr08.jpg
-
 The First Tuareg Rebellion of 1985–1995
 
 From 1985 to 1995, the armed forces of Niger were engaged in armed fights with the Popular Front for the Liberation of Niger (FPLN). An armed attack by FPLN members in Tchin-Tabaradene in 1985 sparked the closing of the borders with Libya and Algeria, and the resettlement of thousands of Tuareg and other nomads away from the area. Failed promises by the government of Ali Saïbou fueled growing Tuareg discontent leading to an attack on a police station in Tchin-Tabaradene in May 1990. The Niger Army violently responded in May 1990, arresting, torturing, and killing several hundred Tuareg civilians in Tchin-Tabaradene, Gharo and In-Gall in what is known as the Tchin-Tabaradene massacre.[41] Tuareg outrage sparked the creation of two armed insurgent groups: the Front for the Liberation of Aïr and Azaouak and the Front for the Liberation of Tamoust and continued armed fights until 1995 when a peace agreement end fighting. The Nigerien Armed Forces has been extensively involved in politics since independence, and has been denounced at several points for broad abrogation of human rights and unlawful detentions and killings.
@@ -114,13 +108,13 @@ The Nigerien Armed Forces were involved from 2007 to 2009 in an insurgency in th
 
 Foreign missions
 
-DF-ST-92-07443-C.jpg In 1991, Niger sent a 400-man military contingent to join the American-led allied forces against Iraq during the Gulf War. Niger provides a battalion of peace-keeping forces to the UN Mission in Ivory Coast. As of 2003, the FAN had troops deployed in the following foreign missions:[43]
+In 1991, Niger sent a 400-man military contingent to join the American-led allied forces against Iraq during the Gulf War. Niger provides a battalion of peace-keeping forces to the UN Mission in Ivory Coast. As of 2003, the FAN had troops deployed in the following foreign missions:[43]
 
 -   ECOMOG: Liberia, Guinée-Bissau;
 -   African Union: Burundi (MIOB), Comoros (MIOC), Mali (AFISMA);
 -   United Nations: Saudi Arabia (Iraq War), Rwanda (MINURCA), Democratic Republic of Congo (MONUC); Mali (MINUSMA)
 
-Niger_Panhard_AML.JPG light armored cars with 90mm guns stand in a holding area during Operation Desert Shield.]]
+light armored cars with 90mm guns stand in a holding area during Operation Desert Shield.]]
 
 
 Defense cooperation
@@ -138,7 +132,7 @@ U.S. and France defense cooperation with Niger has intensified post 9/11 as part
 
 Political involvement
 
-In 1974 General Seyni Kountché overthrew the first president of Niger Hamani Diori. The military regime that followed, while plagued by coup attempts of its own, survived until 1991. While a period of relative prosperity, the military government of the period allowed little free expression and engaged in arbitrary imprisonment and killing.[51] Niger_soldier-89-07307.JPEG submachine gun, 1988]] In 1996, a former officer under Kountché and the then Chief of Staff, Ibrahim Baré Maïnassara, staged his own coup, placing the military again in power. During the Maïnassara regime, human rights abuses were reported by foreign NGOs, including the discovery of 150 dead bodies in a mass grave at Boultoungoure, thought to be Toubou rebels. In April 1999, the third coup led by Douada Mallam Wanké was staged leading to murder of President Baré by his own guards. To date, the authors this crime have been prosecuted.[52] Major Daouda Mallam Wanke, commander of the Niamey-based military region and the head of the Republican Guard assumed power, but returned the nation to civilian rule within the year.[53] The military regime of Douada Mallam Wanké ended with the election of Mamadou Tandja in 1999 who deposed ten years later by another military coup, the fourth in the history of the country.
+In 1974 General Seyni Kountché overthrew the first president of Niger Hamani Diori. The military regime that followed, while plagued by coup attempts of its own, survived until 1991. While a period of relative prosperity, the military government of the period allowed little free expression and engaged in arbitrary imprisonment and killing.[51] submachine gun, 1988]] In 1996, a former officer under Kountché and the then Chief of Staff, Ibrahim Baré Maïnassara, staged his own coup, placing the military again in power. During the Maïnassara regime, human rights abuses were reported by foreign NGOs, including the discovery of 150 dead bodies in a mass grave at Boultoungoure, thought to be Toubou rebels. In April 1999, the third coup led by Douada Mallam Wanké was staged leading to murder of President Baré by his own guards. To date, the authors this crime have been prosecuted.[52] Major Daouda Mallam Wanke, commander of the Niamey-based military region and the head of the Republican Guard assumed power, but returned the nation to civilian rule within the year.[53] The military regime of Douada Mallam Wanké ended with the election of Mamadou Tandja in 1999 who deposed ten years later by another military coup, the fourth in the history of the country.
 
 
 Cultural sponsorships

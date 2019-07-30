@@ -10,7 +10,7 @@ By definition, a _magazine_ paginates with each issue starting at page three, wi
 
 Distribution
 
-Jakarta_Magazines_Rack.jpg German_Printmagazines.jpg Magazines can be distributed through the mail, through sales by newsstands, bookstores, or other vendors, or through free distribution at selected pick-up locations. The subscription business models for distribution fall into three main categories.
+Magazines can be distributed through the mail, through sales by newsstands, bookstores, or other vendors, or through free distribution at selected pick-up locations. The subscription business models for distribution fall into three main categories.
 
 Paid circulation
 
@@ -27,7 +27,7 @@ This is the model used by many trade magazines (industry-based periodicals) dist
 
 History
 
-M._Browne_-_Herbert_Railton_-_Sydney_Grundy_-_Arthur_Sullivan_-_Haddon_Hall.jpg'']] The earliest example of magazines was _Erbauliche Monaths Unterredungen_, a literary and philosophy magazine, which was launched in 1663 in Germany.[3] _The Gentleman's Magazine_, first published in 1731, in London was the first general-interest magazine.[4] Edward Cave, who edited _The Gentleman's Magazine_ under the pen name "Sylvanus Urban", was the first to use the term "magazine," on the analogy of a military storehouse.[5] Founded by Herbert Ingram in 1842, _The Illustrated London News_ was the first illustrated magazine.[6]
+'']] The earliest example of magazines was _Erbauliche Monaths Unterredungen_, a literary and philosophy magazine, which was launched in 1663 in Germany.[3] _The Gentleman's Magazine_, first published in 1731, in London was the first general-interest magazine.[4] Edward Cave, who edited _The Gentleman's Magazine_ under the pen name "Sylvanus Urban", was the first to use the term "magazine," on the analogy of a military storehouse.[5] Founded by Herbert Ingram in 1842, _The Illustrated London News_ was the first illustrated magazine.[6]
 
 Britain
 
@@ -55,7 +55,7 @@ United States
 
 Late 19th century
 
-Harper's_January.png In the mid-1800s, monthly magazines gained popularity. They were general interest to begin, containing some news, vignettes, poems, history, political events, and social discussion.[13] Unlike newspapers, they were more of a monthly record of current events along with entertaining stories, poems, and pictures. The first periodicals to branch out from news were _Harper's_ and _The Atlantic_, which focused on fostering the arts.[14] Both _Harper's_ and _The Atlantic_ persist to this day, with Harper's being a cultural magazine and The Atlantic focusing mainly on world events. Early publications of Harper's even held famous works such as early publications of _Moby Dick_ or famous events such as the laying of the world's first transatlantic telegraph cable; however, the majority of early content was trickle down from British events.[15]
+In the mid-1800s, monthly magazines gained popularity. They were general interest to begin, containing some news, vignettes, poems, history, political events, and social discussion.[13] Unlike newspapers, they were more of a monthly record of current events along with entertaining stories, poems, and pictures. The first periodicals to branch out from news were _Harper's_ and _The Atlantic_, which focused on fostering the arts.[14] Both _Harper's_ and _The Atlantic_ persist to this day, with Harper's being a cultural magazine and The Atlantic focusing mainly on world events. Early publications of Harper's even held famous works such as early publications of _Moby Dick_ or famous events such as the laying of the world's first transatlantic telegraph cable; however, the majority of early content was trickle down from British events.[15]
 
 The development of the magazines stimulated an increase in literary criticism and political debate, moving towards more opinionated pieces from the objective newspapers.[16] The increased time between prints and the greater amount of space to write provided a forum for public arguments by scholars and critical observers.[17]
 
@@ -69,7 +69,7 @@ The journalists who specialized in exposing waste, corruption, and scandal opera
 
 21st century
 
-In 2011, 152 magazines ceased operations and in 2012, 82 magazines.[24] Between the years of 2008 to 2015, Oxbridge communications announced that 227 magazines launched and 82 magazines closed in 2012 in North America.[25] Furthermore, according to MediaFinder.com, 93 new magazines launched between the first six months of 2014 and just 30 closed. The category that produced new publications was "Regional interest", six new magazines were launched, including 12th & Broad and Craft Beer & Brewing.[26] However, two magazines had to change their print schedules. Johnson Publishing's Jet stopped printing regular issues making the transition to digital format, however still print an annual print edition.[27] Ladies Home Journal, stopped their monthly schedule and home delivery for subscribers to become a quarterly newsstand-only special interest publication.[28] NMA.0031686,_Fashion_Photo_by_Gunnar_Lundh_1941.jpgAccording to statistics from the end of 2013, subscription levels for 22 of the top 25 magazines declined from 2012 to 2013, with just _Time_, _Glamour_ and _ESPN The Magazine_ gaining numbers.[29]
+In 2011, 152 magazines ceased operations and in 2012, 82 magazines.[24] Between the years of 2008 to 2015, Oxbridge communications announced that 227 magazines launched and 82 magazines closed in 2012 in North America.[25] Furthermore, according to MediaFinder.com, 93 new magazines launched between the first six months of 2014 and just 30 closed. The category that produced new publications was "Regional interest", six new magazines were launched, including 12th & Broad and Craft Beer & Brewing.[26] However, two magazines had to change their print schedules. Johnson Publishing's Jet stopped printing regular issues making the transition to digital format, however still print an annual print edition.[27] Ladies Home Journal, stopped their monthly schedule and home delivery for subscribers to become a quarterly newsstand-only special interest publication.[28] According to statistics from the end of 2013, subscription levels for 22 of the top 25 magazines declined from 2012 to 2013, with just _Time_, _Glamour_ and _ESPN The Magazine_ gaining numbers.[29]
 
 
 Women's magazines

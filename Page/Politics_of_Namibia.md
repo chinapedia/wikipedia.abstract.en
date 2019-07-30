@@ -18,7 +18,7 @@ The Constituent Assembly converted itself into the National Assembly on 16 Febru
 
 President
 
-Hifikepunye_Pohamba_2005.jpg, 2nd President of Namibia]] The Namibian head of state is the president, elected by popular vote every five years. Namibia's founding president is Sam Nujoma, who was in office for three terms from 21 March 1990 (Namibia's Independence Day) until 21 March 2005. Hifikepunye Pohamba was Namibia's second president serving from 2005 to 2015. Since 2015 Hage Geingob has been President of Namibia.
+, 2nd President of Namibia]] The Namibian head of state is the president, elected by popular vote every five years. Namibia's founding president is Sam Nujoma, who was in office for three terms from 21 March 1990 (Namibia's Independence Day) until 21 March 2005. Hifikepunye Pohamba was Namibia's second president serving from 2005 to 2015. Since 2015 Hage Geingob has been President of Namibia.
 
 
 Separation of powers
@@ -31,7 +31,7 @@ The government is headed by the prime minister, who, together with his cabinet, 
 
 Legislative branch
 
-Tintenpalast,_Windhoek.jpg.]] Parliament has two chambers. The National Assembly has 78 members, elected for a five-year term, 72 members elected by proportional representation and six members appointed by the president. The National Council has 26 representatives of the Regional Councils as members, elected for a six-year term. Every Regional Council in the 13 regions of Namibia elects two representatives to serve on this body. The Assembly is the primary legislative body, with the Council playing more of an advisory role.[5]
+.]] Parliament has two chambers. The National Assembly has 78 members, elected for a five-year term, 72 members elected by proportional representation and six members appointed by the president. The National Council has 26 representatives of the Regional Councils as members, elected for a six-year term. Every Regional Council in the 13 regions of Namibia elects two representatives to serve on this body. The Assembly is the primary legislative body, with the Council playing more of an advisory role.[5]
 
 Judicial branch
 

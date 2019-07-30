@@ -1,5 +1,3 @@
-Wenceslas_Hollar_-_Quivers_and_hunting_horns.jpg
-
 A QUIVER is a container for holding arrows, bolts, darts, or javelins. It can be carried on an archer's body, the bow, or the ground, depending on the type of shooting and the archer's personal preference. Quivers were traditionally made of leather, wood, furs, and other natural materials, but are now often made of metal or plastic.
 
 

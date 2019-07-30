@@ -1,4 +1,4 @@
-Malaysia_Transportation.jpg NorthSouth-Expressway.jpg, which runs through seven states in Peninsular Malaysia, is the longest expressway in Malaysia.]] KL_Sentral_at_Night.jpg is the largest railway station in South East Asia]] TRANSPORTATION IN MALAYSIA started to develop during British colonial rule, and the country's transport network is now diverse and developed. Malaysia's road network is extensive, covering 144,403 kilometres, including 1,821 km of expressways. The main highway of the country extends over 800 km, reaching the Thai border from Singapore. Peninsular Malaysia has an extensive road network, whilst the road system in East Malaysia is not as well-developed. The main modes of transport in Peninsular Malaysia include buses, trains, cars and to an extent, commercial travel on airplanes.
+, which runs through seven states in Peninsular Malaysia, is the longest expressway in Malaysia.]] is the largest railway station in South East Asia]] TRANSPORTATION IN MALAYSIA started to develop during British colonial rule, and the country's transport network is now diverse and developed. Malaysia's road network is extensive, covering 144,403 kilometres, including 1,821 km of expressways. The main highway of the country extends over 800 km, reaching the Thai border from Singapore. Peninsular Malaysia has an extensive road network, whilst the road system in East Malaysia is not as well-developed. The main modes of transport in Peninsular Malaysia include buses, trains, cars and to an extent, commercial travel on airplanes.
 
 Malaysia has six international airports. The official airline of Malaysia is Malaysia Airlines, providing international and domestic air service alongside two other carriers. Most of the major cities are connected by air routes. The railway system is state-run, and covers a total of 1,849 km. Popular within the cities are commuter rail and rapid transit, which reduces the traffic load on other systems, and is considered safe, comfortable and reliable.
 
@@ -18,7 +18,7 @@ of it is metre gauge, while is standard gauge. Seven hundred and sixty-seven kil
 
 Air
 
-KLIA_MTB&Tower.jpg is the main international airport in Malaysia.]] Malaysia_air_routes.PNG
+is the main international airport in Malaysia.]]
 
 Airports
 
@@ -54,7 +54,7 @@ Malaysia has of waterways,[13] most of them rivers. Of this, are in Peninsular M
 
 Ports and harbours
 
-Melaka-Indomal-shuttle-2221.jpg-Sumatra ferry (the big yellow boat) anchored offshore near Malacca.]] Malaysia is strategically located on the Strait of Malacca, one of the most important shipping lanes in the world. Malaysia has two ports that are listed in the top 20 busiest ports in the world, Port Klang and Port of Tanjung Pelepas, which are, respectively, the second- and third-busiest ports in Southeast Asia after the Port of Singapore. Port Klang is Malaysia's busiest port, and the thirteenth-busiest port in the world in 2013, handling over 10.3 million TEUs. Port of Tanjung Pelepas is Malaysia's second-busiest port, and the nineteenth-busiest port in the world in 2013, handling over 7.6 million TEUs.
+-Sumatra ferry (the big yellow boat) anchored offshore near Malacca.]] Malaysia is strategically located on the Strait of Malacca, one of the most important shipping lanes in the world. Malaysia has two ports that are listed in the top 20 busiest ports in the world, Port Klang and Port of Tanjung Pelepas, which are, respectively, the second- and third-busiest ports in Southeast Asia after the Port of Singapore. Port Klang is Malaysia's busiest port, and the thirteenth-busiest port in the world in 2013, handling over 10.3 million TEUs. Port of Tanjung Pelepas is Malaysia's second-busiest port, and the nineteenth-busiest port in the world in 2013, handling over 7.6 million TEUs.
 
 This is a list of Malaysian ports and harbours:
 

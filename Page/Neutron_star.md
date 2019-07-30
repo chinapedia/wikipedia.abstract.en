@@ -1,4 +1,4 @@
-Neutron_Star_bending_light_simulation.png, making it appear distorted.]] PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg PSR B1509-58, a rapidly spinning neutron star, makes nearby gas glow in X-rays (gold, from Chandra) and illuminates the rest of the nebula, here seen in infrared (blue and red, from WISE).]]
+, making it appear distorted.]] PSR B1509-58, a rapidly spinning neutron star, makes nearby gas glow in X-rays (gold, from Chandra) and illuminates the rest of the nebula, here seen in infrared (blue and red, from WISE).]]
 
 A NEUTRON STAR is the collapsed core of a giant star which before collapse had a total mass of between 10 and 29 solar masses. Neutron stars are the smallest and densest stars, not counting black holes, hypothetical white holes, quark stars and strange stars.[1] Neutron stars have a radius on the order of and a mass of about 1.4 solar masses.[2] They result from the supernova explosion of a massive star, combined with gravitational collapse, that compresses the core past white dwarf star density to that of atomic nuclei.
 
@@ -15,7 +15,7 @@ Neutron stars in binary systems can undergo accretion which typically makes the 
 
 Formation
 
-Neutronstarsimple.png Any main-sequence star with an initial mass of above 8 times the mass of the sun () has the potential to produce a neutron star. As the star evolves away from the main sequence, subsequent nuclear burning produces an iron-rich core. When all nuclear fuel in the core has been exhausted, the core must be supported by degeneracy pressure alone. Further deposits of mass from shell burning cause the core to exceed the Chandrasekhar limit. Electron-degeneracy pressure is overcome and the core collapses further, sending temperatures soaring to over . At these temperatures, photodisintegration (the breaking up of iron nuclei into alpha particles by high-energy gamma rays) occurs. As the temperature climbs even higher, electrons and protons combine to form neutrons via electron capture, releasing a flood of neutrinos. When densities reach nuclear density of , neutron degeneracy pressure halts the contraction. The infalling outer envelope of the star is halted and flung outwards by a flux of neutrinos produced in the creation of the neutrons, becoming a supernova. The remnant left is a neutron star. If the remnant has a mass greater than about , it collapses further to become a black hole.[19]
+Any main-sequence star with an initial mass of above 8 times the mass of the sun () has the potential to produce a neutron star. As the star evolves away from the main sequence, subsequent nuclear burning produces an iron-rich core. When all nuclear fuel in the core has been exhausted, the core must be supported by degeneracy pressure alone. Further deposits of mass from shell burning cause the core to exceed the Chandrasekhar limit. Electron-degeneracy pressure is overcome and the core collapses further, sending temperatures soaring to over . At these temperatures, photodisintegration (the breaking up of iron nuclei into alpha particles by high-energy gamma rays) occurs. As the temperature climbs even higher, electrons and protons combine to form neutrons via electron capture, releasing a flood of neutrinos. When densities reach nuclear density of , neutron degeneracy pressure halts the contraction. The infalling outer envelope of the star is halted and flung outwards by a flux of neutrinos produced in the creation of the neutrons, becoming a supernova. The remnant left is a neutron star. If the remnant has a mass greater than about , it collapses further to become a black hole.[19]
 
 As the core of a massive star is compressed during a Type II supernova, Type Ib or Type Ic supernova, and collapses into a neutron star, it retains most of its angular momentum. But, because it has only a tiny fraction of its parent's radius (and therefore its moment of inertia is sharply reduced), a neutron star is formed with very high rotation speed, and then over a very long period it slows. Neutron stars are known that have rotation periods from about 1.4 ms to 30 s. The neutron star's density also gives it very high surface gravity, with typical values ranging from 10¹² to 10¹³ m/s² (more than 10¹¹ times that of Earth).[20] One measure of such immense gravity is the fact that neutron stars have an escape velocity ranging from 100,000 km/s to 150,000 km/s, that is, from a third to half the speed of light. The neutron star's gravity accelerates infalling matter to tremendous speed. The force of its impact would likely destroy the object's component atoms, rendering all the matter identical, in most respects, to the rest of the neutron star.
 
@@ -60,8 +60,6 @@ The equation of state for a neutron star is not yet known. It is assumed that it
 
 Structure
 
-Neutron_star_cross_section.svg
-
 Current understanding of the structure of neutron stars is defined by existing mathematical models, but it might be possible to infer some details through studies of neutron-star oscillations. Asteroseismology, a study applied to ordinary stars, can reveal the inner structure of neutron stars by analyzing observed spectra of stellar oscillations.[33]
 
 Current models indicate that matter at the surface of a neutron star is composed of ordinary atomic nuclei crushed into a solid lattice with a sea of electrons flowing through the gaps between them. It is possible that the nuclei at the surface are iron, due to iron's high binding energy per nucleon.[34] It is also possible that heavy elements, such as iron, simply sink beneath the surface, leaving only light nuclei like helium and hydrogen.[35] If the surface temperature exceeds 10⁶ kelvin (as in the case of a young pulsar), the surface should be fluid instead of the solid phase that might exist in cooler neutron stars (temperature <10⁶ kelvin).[36]
@@ -72,8 +70,6 @@ Proceeding inward, one encounters nuclei with ever-increasing numbers of neutron
 
 
 Radiation
-
-Pulsar_anim.ogv
 
 Pulsars
 
@@ -100,7 +96,7 @@ Neutron stars rotate extremely rapidly after their formation due to the conserva
 
 Spin down
 
-PPdot2.pngs (red), anomalous X-ray pulsars (green), high-energy emission pulsars (blue) and binary pulsars (pink)]] Over time, neutron stars slow, as their rotating magnetic fields in effect radiate energy associated with the rotation; older neutron stars may take several seconds for each revolution. This is called _spin down_. The rate at which a neutron star slows its rotation is usually constant and very small.
+s (red), anomalous X-ray pulsars (green), high-energy emission pulsars (blue) and binary pulsars (pink)]] Over time, neutron stars slow, as their rotating magnetic fields in effect radiate energy associated with the rotation; older neutron stars may take several seconds for each revolution. This is called _spin down_. The rate at which a neutron star slows its rotation is usually constant and very small.
 
 The periodic time (_P_) is the rotational period, the time for one rotation of a neutron star. The spin-down rate, the rate of slowing of rotation, is then given the symbol Ṗ (_P_-dot), the derivative of _P_ with respect to time. It is defined as periodic time increase per unit time; it is a dimensionless quantity, but can be given the units of s⋅s^(−1) (seconds per second).[52]
 
@@ -120,7 +116,7 @@ The most rapidly rotating neutron star currently known, PSR J1748-2446ad, rotate
 
 Glitches and starquakes
 
-2004_stellar_quake_full.jpg", or "stellar quake".]] Sometimes a neutron star will undergo a glitch, a sudden small increase of its rotational speed or spin up. Glitches are thought to be the effect of a starquake—as the rotation of the neutron star slows, its shape becomes more spherical. Due to the stiffness of the "neutron" crust, this happens as discrete events when the crust ruptures, creating a starquake similar to earthquakes. After the starquake, the star will have a smaller equatorial radius, and because angular momentum is conserved, its rotational speed has increased.
+", or "stellar quake".]] Sometimes a neutron star will undergo a glitch, a sudden small increase of its rotational speed or spin up. Glitches are thought to be the effect of a starquake—as the rotation of the neutron star slows, its shape becomes more spherical. Due to the stiffness of the "neutron" crust, this happens as discrete events when the crust ruptures, creating a starquake similar to earthquakes. After the starquake, the star will have a smaller equatorial radius, and because angular momentum is conserved, its rotational speed has increased.
 
 Starquakes occurring in magnetars, with a resulting glitch, is the leading hypothesis for the gamma-ray sources known as soft gamma repeaters.[63]
 
@@ -133,7 +129,7 @@ An "anti-glitch", a sudden small decrease in rotational speed, or spin down, of 
 
 Population and distances
 
-Moving_heart_of_the_Crab_Nebula.jpg.[67]]]
+.[67]]]
 
 At present, there are about 2,000 known neutron stars in the Milky Way and the Magellanic Clouds, the majority of which have been detected as radio pulsars. Neutron stars are mostly concentrated along the disk of the Milky Way although the spread perpendicular to the disk is large because the supernova explosion process can impart high translational speeds (400 km/s) to the newly formed neutron star.
 
@@ -144,7 +140,7 @@ Neutron stars are only detectable with modern technology during the earliest sta
 
 Binary neutron star systems
 
-15-137-CircinusX1-XRayLightRings-NeutronStar-Chandra-20150624.jpg: X-ray light rings from a binary neutron star (24 June 2015; Chandra X-ray Observatory)]]
+: X-ray light rings from a binary neutron star (24 June 2015; Chandra X-ray Observatory)]]
 
 About 5% of all known neutron stars are members of a binary system. The formation and evolution of binary neutron stars can be a complex process.[69] Neutron stars have been observed in binaries with ordinary main-sequence stars, red giants, white dwarfs or other neutron stars. According to modern theories of binary evolution it is expected that neutron stars also exist in binary systems with black hole companions. The merger of binaries containing two neutron stars, or a neutron star and a black hole, are expected to be prime sources for the emission of detectable gravitational waves.
 
@@ -159,12 +155,12 @@ Binaries containing two neutron stars are observed to shrink as gravitational wa
 
 Planets
 
-Artist's_concept_of_PSR_B1257+12_system.jpg Neutron stars can host exoplanets. These can be original, circumbinary, captured, or the result of a second round of planet formation. Pulsars can also strip the atmosphere off from a star, leaving a planetary-mass remnant, which may be understood as a chthonian planet or a stellar object depending on interpretation. For pulsars, such pulsar planets can be detected with the pulsar timing method, which allows for high precision and detection of much smaller planets than with other methods. Two systems have been definitively confirmed. The first exoplanets ever to be detected were the three planets Draugr, Poltergeist and Phobetor around PSR B1257+12, discovered in 1992–1994. Of these, Draugr is the smallest exoplanet ever detected, at a mass of twice that of the Moon. Another system is PSR B1620−26, where a circumbinary planet orbits a neutron star-white dwarf binary system. Also, there are several unconfirmed candidates. Pulsar planets receive little visible light, but massive amounts of ionizing radiation and high-energy stellar wind, which makes them rather hostile environments.
+Neutron stars can host exoplanets. These can be original, circumbinary, captured, or the result of a second round of planet formation. Pulsars can also strip the atmosphere off from a star, leaving a planetary-mass remnant, which may be understood as a chthonian planet or a stellar object depending on interpretation. For pulsars, such pulsar planets can be detected with the pulsar timing method, which allows for high precision and detection of much smaller planets than with other methods. Two systems have been definitively confirmed. The first exoplanets ever to be detected were the three planets Draugr, Poltergeist and Phobetor around PSR B1257+12, discovered in 1992–1994. Of these, Draugr is the smallest exoplanet ever detected, at a mass of twice that of the Moon. Another system is PSR B1620−26, where a circumbinary planet orbits a neutron star-white dwarf binary system. Also, there are several unconfirmed candidates. Pulsar planets receive little visible light, but massive amounts of ionizing radiation and high-energy stellar wind, which makes them rather hostile environments.
 
 
 History of discoveries
 
-IsolatedNeutronStar.jpg.]]
+.]]
 
 At the meeting of the American Physical Society in December 1933 (the proceedings were published in January 1934), Walter Baade and Fritz Zwicky proposed the existence of neutron stars,[78] less than two years after the discovery of the neutron by Sir James Chadwick.[79] In seeking an explanation for the origin of a supernova, they tentatively proposed that in supernova explosions ordinary stars are turned into stars that consist of extremely closely packed neutrons that they called neutron stars. Baade and Zwicky correctly proposed at that time that the release of the gravitational binding energy of the neutron stars powers the supernova: "In the supernova process, mass in bulk is annihilated". Neutron stars were thought to be too faint to be detectable and little work was done on them until November 1967, when Franco Pacini pointed out that if the neutron stars were spinning and had large magnetic fields, then electromagnetic waves would be emitted. Unbeknown to him, radio astronomer Antony Hewish and his research assistant Jocelyn Bell at Cambridge were shortly to detect radio pulses from stars that are now believed to be highly magnetized, rapidly spinning neutron stars, known as pulsars.
 
@@ -224,8 +220,6 @@ Subtypes table
 
 
 Examples of neutron stars
-
-Artist's_impression_of_disc_around_a_neutron_star_RX_J0806.4-4123.tif
 
 -   RX J0806.4-4123 – neutron star source of infrared radiation.[109]
 -   PSR J0108−1431 – closest neutron star

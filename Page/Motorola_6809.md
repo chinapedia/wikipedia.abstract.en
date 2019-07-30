@@ -5,7 +5,7 @@ Unlike the 6800 and 6502, the 6809 allowed fully position-independent code and f
 
 Description
 
-6809registers.pngs]] Among the significant enhancements introduced in the 6809 were the use of two 8-bit accumulators (A and B, which could be combined into a single 16-bit register, D), two 16-bit index registers (X, Y) and two 16-bit stack pointers. The index and stack registers allowed advanced addressing modes. Program counter relative addressing allowed for the easy creation of position-independent code, while a user stack pointer (U) facilitated the creation of reentrant code.
+s]] Among the significant enhancements introduced in the 6809 were the use of two 8-bit accumulators (A and B, which could be combined into a single 16-bit register, D), two 16-bit index registers (X, Y) and two 16-bit stack pointers. The index and stack registers allowed advanced addressing modes. Program counter relative addressing allowed for the easy creation of position-independent code, while a user stack pointer (U) facilitated the creation of reentrant code.
 
 The 6809 was assembler source-compatible with the 6800, though the 6800 had 78 instructions to the 6809's 59. Some instructions were replaced by more general ones which the assembler translated into equivalent operations and some were even replaced by addressing modes. The instruction set and register complement were highly orthogonal, making the 6809 easier to program than the 6800 or 6502. Like the 6800, the 6809 included an undocumented address bus test instruction which came to be nicknamed Halt and Catch Fire (HCF).[1]
 
@@ -20,7 +20,7 @@ The 6809 had an internal two-phase clock generator (needing only an external cry
 
 History
 
-Motorola_6809_die.JPG of Motorola 6809]]
+of Motorola 6809]]
 
 Core concepts
 
@@ -43,7 +43,7 @@ The Hitachi 6309 was an enhanced version of the 6809 with extra registers and ad
 
 Use
 
-Commodore_SuperPET_SP9000_(Thomas_Conté).jpg Vectrex-Console-Set.jpg The 6809 was used in Commodore's dual-CPU SuperPET computer, and, in its 68A09 incarnation, in the unique vector graphics based Vectrex home video game console with built-in screen display, and was also used in the Milton Bradley Expansion (MBX) system (an arcade console for use with the Texas Instruments TI-99/4A home computer). The 6809E was featured in the TRS-80 Color Computer, the Acorn System 2, 3 and 4 computers (as an optional alternative to their standard 6502), the Fujitsu FM-7, the Canon CX-1, the Welsh-made Dragon 32/64 home computers, and the SWTPC, Gimix, Smoke Signal Broadcasting, etc. SS-50 bus bus systems, in addition to several of Motorola's own EXORmacs and EXORset development systems. In France, Thomson micro-informatique produced a series of micro-computers based on the 6809E (TO7, TO7/70, TO8, TO8D, TO9, TO9Plus, MO5, MO6, MO5E and MO5NR).
+The 6809 was used in Commodore's dual-CPU SuperPET computer, and, in its 68A09 incarnation, in the unique vector graphics based Vectrex home video game console with built-in screen display, and was also used in the Milton Bradley Expansion (MBX) system (an arcade console for use with the Texas Instruments TI-99/4A home computer). The 6809E was featured in the TRS-80 Color Computer, the Acorn System 2, 3 and 4 computers (as an optional alternative to their standard 6502), the Fujitsu FM-7, the Canon CX-1, the Welsh-made Dragon 32/64 home computers, and the SWTPC, Gimix, Smoke Signal Broadcasting, etc. SS-50 bus bus systems, in addition to several of Motorola's own EXORmacs and EXORset development systems. In France, Thomson micro-informatique produced a series of micro-computers based on the 6809E (TO7, TO7/70, TO8, TO8D, TO9, TO9Plus, MO5, MO6, MO5E and MO5NR).
 
 In addition to home computers and game consoles, the 6809 was also used in a number of arcade games released during the early to mid-1980s. Williams Electronics was an especially prolific user of the processor, which was deployed in arcade hits such as _Defender_, _Joust_, _Sinistar_, and _Robotron: 2084_. The 6809 CPU formed the core of the successful Williams Pinball Controller. The KONAMI-1 was a modified 6809 used by Konami in various arcade games such as _Roc'n Rope_, _Gyruss_, and _The Simpsons_.[5]
 

@@ -26,7 +26,7 @@ Semiconductor memory doubles in size for each address lane added to an integrate
 
 Examples of use
 
-3,5"-Diskette.jpgs can store 1,474,560 bytes of data. MB in this context means 1,000×1,024 bytes.]] Depending on compression methods and file format, a megabyte of data can roughly be:
+s can store 1,474,560 bytes of data. MB in this context means 1,000×1,024 bytes.]] Depending on compression methods and file format, a megabyte of data can roughly be:
 
 -   a 1 megapixel bitmap image with 256 colors (8 bits/pixel color depth) stored without any compression.
 -   a 4 megapixel JPEG image with normal compression.

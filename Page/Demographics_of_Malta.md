@@ -60,7 +60,7 @@ TextData=
 
 Characteristics
 
-Malta_demography.png, year 2005; Number of inhabitants in thousands.]] Malta is the most densely populated country in the EU and one of the most densely populated countries in the world, with about 1,265 inhabitants per square kilometre (3,000 per square mile). This compares with about 32 per square kilometre (85 per square mile) for the United States. A census (held every 10 years) was held in November 2005.
+, year 2005; Number of inhabitants in thousands.]] Malta is the most densely populated country in the EU and one of the most densely populated countries in the world, with about 1,265 inhabitants per square kilometre (3,000 per square mile). This compares with about 32 per square kilometre (85 per square mile) for the United States. A census (held every 10 years) was held in November 2005.
 
 Inhabited since prehistoric times, Malta was first colonized by Sicilians. Subsequently, Phoenicians, Romans, Byzantines, Arabs in 870 CE[1] who may have completely depopulated the islands[2] but in 1224 were themselves expelled from Malta,[3] Normans, Sicilians, Spanish, French and the British have influenced Maltese life and culture to varying degrees.
 
@@ -164,7 +164,7 @@ This list does not include foreign nationals who acquired Maltese nationality an
 
 Emigration
 
-Malta_-_Floriana_-_Valletta_Waterfront_-_Laguna_Marina_-_Child_Migrants'_Memorial_03_ies.jpg, commemorating the 310 Maltese child migrants who travelled to Australia between 1950 and 1965.]]
+, commemorating the 310 Maltese child migrants who travelled to Australia between 1950 and 1965.]]
 
 Malta has long been a country of emigration, with big Maltese communities in English-speaking countries abroad. Mass emigration picked up in the 19th century, reaching its peak in the decades after World War II.
 

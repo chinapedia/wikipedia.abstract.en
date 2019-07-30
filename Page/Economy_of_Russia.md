@@ -17,7 +17,7 @@ Beginning in 1928, the course of the Soviet Union's economy was guided by a seri
 
 Transition to market economy (1991–98)
 
-HDP_PPP_per_capita_Russia.jpg)]] Following the collapse of the Soviet Union, Russia had undergone a radical transformation, moving from a centrally planned economy to a globally integrated market economy. Corrupt and haphazard privatization processes turned over major state-owned firms to politically connected "oligarchs", which has left equity ownership highly concentrated.
+)]] Following the collapse of the Soviet Union, Russia had undergone a radical transformation, moving from a centrally planned economy to a globally integrated market economy. Corrupt and haphazard privatization processes turned over major state-owned firms to politically connected "oligarchs", which has left equity ownership highly concentrated.
 
 Yeltsin's program of radical, market-oriented reform came to be known as a "shock therapy". It was based on the policies associated with the Washington Consensus, recommendations of the IMF and a group of top American economists, including Larry Summers.[19][20][21] The result was disastrous, with real GDP falling by more than 40% by 1999, hyperinflation which wiped out personal savings, crime and destitution spreading rapidly.[22][23] This was accompanied by a drop in the standard of living, including surging economic inequality and poverty,[24] along with increased excess mortality[25][26] and a decline in life expectancy.[27]
 
@@ -29,7 +29,7 @@ In the 1990s Russia was "the largest borrower" from the International Monetary F
 
 Recovery and growth (1999–2008)
 
-Oil_Prices_Medium_Term.png Russia bounced back from the August 1998 financial crash with surprising speed. Much of the reason for the recovery was the devaluation of the ruble, which made domestic producers more competitive nationally and internationally.
+Russia bounced back from the August 1998 financial crash with surprising speed. Much of the reason for the recovery was the devaluation of the ruble, which made domestic producers more competitive nationally and internationally.
 
 Between 2000 and 2002, there was a significant amount of pro-growth economic reforms including a comprehensive tax reform, which introduced a flat income tax of 13%; and a broad effort at deregulation which improved the situation for small and medium-sized enterprises.[34]
 
@@ -39,7 +39,7 @@ Inflation remained a problem however, as the central bank aggressively expanded 
 
 2009–14
 
-Standard_&_Poor’s_rating_dynamics_Russia.png]] Russian banks were hit by the global credit crunch in 2008, though no long term damage was done thanks to proactive and timely response by the government and central bank, which shielded the banking system from effects of the global financial crisis.[46][47][48] A sharp, but brief recession in Russia was followed by a strong recovery beginning in late 2009.[49]
+]] Russian banks were hit by the global credit crunch in 2008, though no long term damage was done thanks to proactive and timely response by the government and central bank, which shielded the banking system from effects of the global financial crisis.[46][47][48] A sharp, but brief recession in Russia was followed by a strong recovery beginning in late 2009.[49]
 
 After 16 years of negotiations, Russia's membership to the WTO was accepted in 2011.[50] In 2013, Russia was labeled a high-income economy by the World Bank.[51]
 
@@ -49,7 +49,7 @@ According to a survey provided by _Financial Times_ in 2012, Russia was second b
 
 2014–present
 
-Average_per_capita_income_in_Russia,_1995-2015.png in Russia in Dollars, 1995-2015]] Countries_by_Natural_Gas_Proven_Reserves_(2014).svg (2014), based on data from The World Factbook. Russia has the world's largest reserves.]] Following the annexation of Crimea in March 2014 and Russia's involvement in the ongoing conflict in Ukraine, the United States, the EU (and some other European countries), Canada and Japan imposed sanctions on Russia's financial, energy and defense sectors.[58] Some EU member countries were split on further sanctions, but have nominated to go down the sanctions route. This led to the decline of the Russian ruble and sparked fears of a Russian financial crisis. Russia responded with sanctions against a number of countries, including a one-year period of total ban on food imports from the European Union and the United States. As of 2018 it is estimated that Western sanctions may have reduced Russian economy by as much as 6%.[59]
+in Russia in Dollars, 1995-2015]] (2014), based on data from The World Factbook. Russia has the world's largest reserves.]] Following the annexation of Crimea in March 2014 and Russia's involvement in the ongoing conflict in Ukraine, the United States, the EU (and some other European countries), Canada and Japan imposed sanctions on Russia's financial, energy and defense sectors.[58] Some EU member countries were split on further sanctions, but have nominated to go down the sanctions route. This led to the decline of the Russian ruble and sparked fears of a Russian financial crisis. Russia responded with sanctions against a number of countries, including a one-year period of total ban on food imports from the European Union and the United States. As of 2018 it is estimated that Western sanctions may have reduced Russian economy by as much as 6%.[59]
 
 According to the Russian economic ministry in July 2014, GDP growth in the first half of 2014 was 1%. The ministry projected growth of 0.5% for 2014.[60] The Russian economy grew by a better than expected 0.6% in 2014.[61] As of the 2nd quarter of 2015 inflation, compared to the second quarter of 2014, was 8%; the economy had contracted by 4.6% as the economy entered recession.[62] To balance the state budget in 2015, oil price would need to be around as opposed to for 2014.[63] Russia used to have around billion in forex reserves, but holds billion in summer 2015 and plans to keep accumulating forex reserves for years to come, until they reach again $500 billion.[64]
 
@@ -138,7 +138,7 @@ The following table shows the main economic indicators in 1992–2017. Inflation
 
 Currency and central bank
 
-Ruble_sign.svg All_coins_of_the_Russian_Federation_in_2014.JPG Banknote_500_rubles_2010_front.jpg, a sailing ship and the sea terminal in Arkhangelsk are depicted on the 500-ruble banknote]] Kursk-8.jpg]]
+, a sailing ship and the sea terminal in Arkhangelsk are depicted on the 500-ruble banknote]] ]]
 
 The Russian ruble is the unit of currency of the Russian Federation. It is also accepted as legal tender in the partially recognised states of Abkhazia and South Ossetia and the unrecognised Donetsk People's Republic and Lugansk People's Republic.
 
@@ -165,7 +165,7 @@ On 1 January 2004, the Government of Russia established the Stabilization fund o
 
 Public debt
 
-Russian_public_debt.jpg Russia has very low debt-to-GDP ratio, it is among the lowest ratios in the world. Most of its external debt is private. In 2016 its debt to GDP ratio was 12%.[109]
+Russia has very low debt-to-GDP ratio, it is among the lowest ratios in the world. Most of its external debt is private. In 2016 its debt to GDP ratio was 12%.[109]
 
 As a chief successor state to the Soviet Union, Russia took up the responsibility for paying USSR's external debts.[110]
 
@@ -188,13 +188,11 @@ Sectors
 
 In Russia, services are the biggest sector of the economy and account for 58% of GDP. Within services the most important segments are: wholesale and retail trade, repair of motor vehicles, motorcycles and personal and household goods (17% of total GDP); public administration, health and education (12%); real estate (9%) and transport storage and communications (7%). Industry contributes 40% to total output. Mining (11% of GDP), manufacturing (13%) and construction (4%) are the most important industry segments. Agriculture accounts for the remaining 2%.
 
-Russia_-_Exports_-_2016.jpg
-
 Primary
 
 Energy
 
-RF_NG_pipestoEU.gif and gas supplier to much of Europe]] The mineral-packed Ural Mountains and the vast fossil fuel (oil, gas, coal), and timber reserves of Siberia and the Russian Far East make Russia rich in natural resources, which dominate Russian exports. Oil and gas exports, specifically, continue to be the main source of hard currency.
+and gas supplier to much of Europe]] The mineral-packed Ural Mountains and the vast fossil fuel (oil, gas, coal), and timber reserves of Siberia and the Russian Far East make Russia rich in natural resources, which dominate Russian exports. Oil and gas exports, specifically, continue to be the main source of hard currency.
 
 The petroleum industry in Russia is one of the largest in the world. Russia has the largest reserves, and is the largest exporter, of natural gas. It has the second largest coal reserves, the eighth largest oil reserves, and is the largest exporter, or second largest exporter of oil in the world in absolute numbers. It periodically changes positions with Saudi Arabia.[131] Per capita oil production in Russia, though, is not that high. As of 2007, Russia was producing 69.603 bbl/day per 1,000 people, much less than Canada (102.575 bbl/day), Saudi Arabia (371.363 bbl/day), or Norway (554.244 bbl/day), but more than two times the USA (28.083 bbl/day) or the UK (27.807 bbl/day).[132]
 
@@ -212,29 +210,29 @@ Russia has more than a fifth of the world's forests, which makes it the largest 
 
 Agriculture
 
-Russian_Caviar_House.jpg products]]
+products]]
 
 Russia comprises roughly three-quarters of the territory of the former Soviet Union. Following the breakup of the Soviet Union in 1991 and after nearly 10 years of decline, Russian agriculture began to show signs of improvement due to organizational and technological modernization. Northern areas concentrate mainly on livestock, and the southern parts and western Siberia produce grain. The restructuring of former state farms has been an extremely slow process. The new land code passed by the Duma in 2002 should speed restructuring and attract new domestic investment to Russian agriculture. Private farms and garden plots of individuals account for over one-half of all agricultural production. In 2016 agriculture has surpassed the arms industry as Russia's second largest export sector after oil and gas.[138]
 
 Industry
 
-Russia_industrial_growth_chart_YoY.PNG per year (%), 1992–2010]]
+per year (%), 1992–2010]]
 
 Defense industry
 
-Alabino110416-22.jpg tanks]]
+tanks]]
 
 Russia's defense industry employs 2.53 million people, accounting for 20% of all manufacturing jobs.[139] Russia is the world's second largest conventional arms exporter after the United States.[140] The largest firearm manufacturer in the country, Kalashnikov Concern, produces about 95% of all small arms in Russia and supplies to more than 27 countries around the world.[141] The most popular types of weaponry bought from Russia are Sukhoi and MiG fighters, air defense systems, helicopters, battle tanks, armored personnel carriers and infantry fighting vehicles.[142] The research organization Centre for Analysis of Strategies and Technologies ranked the air defense system producer Almaz-Antey as the industry's most successful company in 2007, followed by aircraft-maker Sukhoi. Almaz-Antey's revenue that year was $3.122 billion, and it had a work force of 81,857 people.[143]
 
 Aerospace
 
-Sukhoi_Superjet_100_prototype.jpg is Russia's most recent civilian aviation product of its industry. The regional passenger plane was ordered around 280 times for various airlines and leasing companies as of 2018]] Aircraft manufacturing is an important industry sector in Russia, employing around 355,300 people. The Russian aircraft industry offers a portfolio of internationally competitive military aircraft such as MiG-29 and Su-30, while new projects such as the Sukhoi Superjet 100 are hoped to revive the fortunes of the civilian aircraft segment. In 2009, companies belonging to the United Aircraft Corporation delivered 95 new fixed-wing aircraft to its customers, including 15 civilian models. In addition, the industry produced over 141 helicopters. It is one of the most science-intensive hi-tech sectors and employs the largest number of skilled personnel. The production and value of the military aircraft branch far outstrips other defense industry sectors, and aircraft products make up more than half of the country's arms exports.[144]
+is Russia's most recent civilian aviation product of its industry. The regional passenger plane was ordered around 280 times for various airlines and leasing companies as of 2018]] Aircraft manufacturing is an important industry sector in Russia, employing around 355,300 people. The Russian aircraft industry offers a portfolio of internationally competitive military aircraft such as MiG-29 and Su-30, while new projects such as the Sukhoi Superjet 100 are hoped to revive the fortunes of the civilian aircraft segment. In 2009, companies belonging to the United Aircraft Corporation delivered 95 new fixed-wing aircraft to its customers, including 15 civilian models. In addition, the industry produced over 141 helicopters. It is one of the most science-intensive hi-tech sectors and employs the largest number of skilled personnel. The production and value of the military aircraft branch far outstrips other defense industry sectors, and aircraft products make up more than half of the country's arms exports.[144]
 
 Space industry of Russia consists of over 100 companies and employs 250,000 people.[145] The largest company of the industry is RKK Energia, the main manned space flight contractor. Leading launch vehicle producers are Khrunichev and TsSKB Progress. Largest satellite developer is Reshetnev Information Satellite Systems, while NPO Lavochkin is the main developer of interplanetary probes.
 
 Automotive industry
 
-Lada_Vesta_Concept.JPG is a brand of AvtoVAZ, the largest Russian car manufacturer in the Russian automotive industry.]] Aurus_Senat,_GIMS_2019,_Le_Grand-Saconnex_(GIMS1173).jpg, a recent armored limousine project by NAMI]]
+is a brand of AvtoVAZ, the largest Russian car manufacturer in the Russian automotive industry.]] , a recent armored limousine project by NAMI]]
 
 Automobile production is a significant industry in Russia, directly employing around 600,000 people or 0.7% of the country's total workforce. In addition, the industry supports around 2–3 million people in related industries. Russia was the world's 15th largest car producer in 2010, and accounts for about 7% of the worldwide production. In 2009 the industry produced 595,807 light vehicles, down from 1,469,898 in 2008 due to the global financial crisis. The largest companies are light vehicle producers AvtoVAZ and GAZ, while KAMAZ is the leading heavy vehicle producer.
 
@@ -273,7 +271,7 @@ KEY DATA ON THE TELECOMMUNICATIONS MARKET IN RUSSIA[155]
 
 Transportation
 
-Сапсан_в_Санкт-Петербург.jpg train links Moscow with Saint Petersburg]] Russki_Island_Bridge,_Russia1.jpg in Vladivostok is the longest cable-stayed bridge in the world]] Novo-2010-08-27-043.jpg]]
+train links Moscow with Saint Petersburg]] in Vladivostok is the longest cable-stayed bridge in the world]] ]]
 
 Russian Railways accounts for 2.5%[156] of Russia's GDP. The percentage of freight and passenger traffic that goes by rail is unknown, since no statistics are available for private transportation such as private automobiles or company-owned trucks. In 2007, about 1.3 billion passengers[157] and 1.3 billion tons of freight[158] went via Russian Railways. In 2007 the company owned 19,700 goods and passenger locomotives, 24,200 passenger cars (carriages) (2007) and 526,900 freight cars (goods wagons) (2007).[159] A further 270,000 freight cars in Russia are privately owned. In 2009 Russia had 128,000 kilometres of common-carrier railroad line, of which about half was electrified and carried most of the traffic; over 40% was double track or better.[160][161]
 
@@ -289,11 +287,11 @@ Although relative indicators of the Russian insurance market returned to pre-cri
 
 Information technology
 
-Graduates_in_tertiary_education-thousands.jpg: Countries With The MOST College Graduates retrieved 27 September 2013)]]
+: Countries With The MOST College Graduates retrieved 27 September 2013)]]
 
 The IT market is one of the most dynamic sectors of the Russian economy. Russian software exports have risen from just $120 million in 2000 to $3.3 billion in 2010.[165] Since the year 2000 the IT market has started growth rates of 30–40% a year, growing by 54% in 2006 alone. The biggest sector in terms of revenue is system and network integration, which accounts for 28.3% of the total market revenues.[166] Meanwhile, the fastest growing segment of the IT market is offshore programming.
 
-Beriev_aircraft_factory_Taganrog.jpg]]
+]]
 
 Currently, Russia controls 3% of the offshore software development market and is the third leading country (after India and China) among software exporters. Such growth of software outsourcing in Russia is caused by a number of factors. One of them is the supporting role of the Russian Government. The government has launched a program promoting construction of IT-oriented technology parks (Technoparks)—special zones that have an established infrastructure and enjoy a favorable tax and customs regime, in seven different places around the country: Moscow, Novosibirsk, Nizhny Novgorod, Kaluga, Tumen, Republic of Tatarstan and St. Peterburg Regions. Another factor stimulating the IT sector growth in Russia is the presence of global technology corporations such as Intel, Google, Motorola, Sun Microsystems, Boeing, Nortel, Hewlett-Packard, SAP AG, and others, which have intensified their software development activities and opened their R&D centers in Russia.[167]
 
@@ -305,7 +303,7 @@ Known Russian IT companies are ABBYY (FineReader OCR system and Lingvo dictionar
 
 Tourism
 
-RosaSki3.jpg ]] Морской_порт_Сочи_и_прилегающая_территория_02.jpg, a seaside resort on the Black Sea ]]
+]] , a seaside resort on the Black Sea ]]
 
 Tourism in Russia has seen rapid growth since the late Soviet period, first domestic tourism and then international tourism. Rich cultural heritage and great natural variety place Russia among the most popular tourist destinations in the world.
 
@@ -316,7 +314,7 @@ External trade and investment
 
 Trade
 
-Russian_current_account.jpg Russia recorded a trade surplus of USD$15.8 billion in 2013.[174] Balance of trade in Russia is reported by the Central Bank of Russia. Historically, from 1997 until 2013, Russia balance of trade averaged 8338.23 USD million reaching an all-time high of 20647 USD million in December 2011 and a record low of −185 USD million in February 1998. Russia runs regular trade surpluses primarily due to exports of commodities.
+Russia recorded a trade surplus of USD$15.8 billion in 2013.[174] Balance of trade in Russia is reported by the Central Bank of Russia. Historically, from 1997 until 2013, Russia balance of trade averaged 8338.23 USD million reaching an all-time high of 20647 USD million in December 2011 and a record low of −185 USD million in February 1998. Russia runs regular trade surpluses primarily due to exports of commodities.
 
 In 2015, Russia main exports are oil and natural gas (62.8% of total exports), ores and metals (5.9%), chemical products (5.8%), machinery and transport equipment (5.4%) and food (4.7%). Others include: agricultural raw materials (2.2%) and textiles (0.2%).[175]
 
@@ -349,7 +347,7 @@ FOREIGN TRADE OF RUSSIA - RUSSIAN EXPORT AND IMPORT[177]
 
 Foreign trade rose 34% to $151.5 billion in the first half of 2005, mainly due to the increase in oil and gas prices which now form 64% of all exports by value. Trade with CIS countries is up 13.2% to $23.3 billion. Trade with the EU forms 52.9%, with the CIS 15.4%, Eurasian Economic Community 7.8% and Asia-Pacific Economic Community 15.9%.[179]
 
-Russia_GRP_per_capita_2008_US_dollars_(nominal).svg per capita, 2008 (US dollars): ]]
+per capita, 2008 (US dollars): ]]
 
 
 Mergers and acquisitions

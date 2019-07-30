@@ -21,8 +21,6 @@ He was a prolific author, writing juvenile fiction, brief histories, biographies
 
 His _Rollo Books_, such as _Rollo at Work, Rollo at Play, Rollo in Europe_, etc., are the best known of his writings, having as their chief characters a representative boy and his associates. In them Abbott did for one or two generations of young American readers a service not unlike that performed earlier, in England and America, by the authors of _Evenings at Home_, _The History of Sandford and Merton_, and _The Parent's Assistant_. To follow up his Rollo books, he wrote of _Uncle George_, using him to teach the young readers about ethics, geography, history, and science. He also wrote 22 volumes of biographical histories and a 10 volume set titled the _Franconia Stories_.[8]
 
-Jacob_Abbott_House,_Farmington,_ME.jpg
-
 His brothers, John Stevens Cabot Abbott and Gorham Dummer Abbott, were also authors. His sons, Benjamin Vaughan Abbott, Austin Abbott, both eminent lawyers, Lyman Abbott, and Edward Abbott, a clergyman, were also well-known authors.
 
 See his _Young Christian, Memorial Edition, with a Sketch of the Author_ by Edward Abbott with a bibliography of his works.

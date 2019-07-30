@@ -5,8 +5,6 @@ The novel epitomizes many of Dick's themes with its concerns about the nature of
 
 Plot summary
 
-PKD-Time-Out-of-Joint.png
-
 Ragle Gumm lives in the year 1959 in a quiet American suburb. His unusual profession consists of repeatedly winning the cash prize in a local newspaper contest called "Where Will The Little Green Man Be Next?". Gumm's 1959 has some differences from ours: the Tucker car is in production, AM/FM radios are scarce to non-existent, and Marilyn Monroe is a complete unknown. As the novel opens, strange things begin to happen to Gumm. A soft-drink stand disappears, replaced by a small slip of paper with the words "SOFT-DRINK STAND" printed on it in block letters. Intriguing little pieces of the real 1959 turn up: a magazine article on Marilyn Monroe, a telephone book with non-operational exchanges listed and radios hidden away in someone else's house. People with no apparent connection to Gumm, including military pilots using aircraft transceivers, refer to him by name. Few other characters notice these or experience similar anomalies; the sole exception is Gumm's supposed brother-in-law, Victor "Vic" Nielson, in whom he confides. A neighborhood woman, Mrs. Keitelbein, invites him to a civil defense class where he sees a model of a futuristic underground military factory. He has the unshakeable feeling he's been inside that building many times before.
 
 Confusion gradually mounts for Gumm. His neighbor Bill Black knows far more about these events than he admits, and, observing this, begins worrying: "Suppose Ragle [Gumm] is becoming sane again?" In fact, Gumm does become sane, and the deception surrounding him (erected to protect and exploit him) begins to unravel.

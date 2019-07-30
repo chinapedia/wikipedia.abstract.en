@@ -19,7 +19,7 @@ Anacletus had control of Rome, so Innocent II took ship for Pisa, and thence sai
 
 A second expedition by Lothar III in 1136 was not more decisive in its results, and the protracted struggle between the rival pontiffs was terminated only by the death of Anacletus II on 25 January 1138.
 
-B_Innozenz_II1.jpg in the church Santa Maria in Trastevere, rebuilt by Innocent, 1140–43: the Pope, holding a model of the church in his arms, stands at the far left, beside Sts. Laurentius and Calixtus.]]
+in the church Santa Maria in Trastevere, rebuilt by Innocent, 1140–43: the Pope, holding a model of the church in his arms, stands at the far left, beside Sts. Laurentius and Calixtus.]]
 
 Innocent took as cardinal-nephew first his nephew, Gregorio Papareschi, whom he elevated to cardinal in 1134, and then his brother Pietro Papareschi, whom he elevated to cardinal in 1142.[4] Another nephew, Cinzio Papareschi (died 1182), was also a cardinal, raised to the cardinalate in 1158, after Innocent's death.[5]
 

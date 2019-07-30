@@ -1,4 +1,4 @@
-Afulahagana.jpg paramilitaries in 1948 using long guns.]] A LONG GUN is a category of firearms with longer barrels than most other types. In small arms, a _long gun_ is generally designed to be held by both hands and braced against the shoulder, in contrast to a handgun, which can be fired being held with a single hand. In the context of cannons and mounted firearms an artillery _long gun_ would be contrasted with a howitzer or carronade.[1][2]
+paramilitaries in 1948 using long guns.]] A LONG GUN is a category of firearms with longer barrels than most other types. In small arms, a _long gun_ is generally designed to be held by both hands and braced against the shoulder, in contrast to a handgun, which can be fired being held with a single hand. In the context of cannons and mounted firearms an artillery _long gun_ would be contrasted with a howitzer or carronade.[1][2]
 
 
 Small arms
@@ -20,7 +20,7 @@ Shotguns are long guns that are designed to fire many small projectiles at once.
 
 Naval long guns
 
-Naval_long_gun_mg_5322.jpg In historical navy usage, a LONG GUN was the standard type of cannon mounted by a sailing vessel, called such to distinguish it from the much shorter carronades. In informal usage, the length was combined with the weight of shot, yielding terms like "long 9s", referring to full length cannons firing a 9-pound round shot.
+In historical navy usage, a LONG GUN was the standard type of cannon mounted by a sailing vessel, called such to distinguish it from the much shorter carronades. In informal usage, the length was combined with the weight of shot, yielding terms like "long 9s", referring to full length cannons firing a 9-pound round shot.
 
 
 See also

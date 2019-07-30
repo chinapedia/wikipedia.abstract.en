@@ -5,8 +5,6 @@ Today there are three federally recognized Kickapoo tribes in the United States:
 
 History
 
-Babe Shkit, Kickapoo chief and delegate from Indian Territory, ca. 1900
-
 The Kickapoo were an Algonquian-language people who likely migrated to or developed as a people in a large territory along the Wabash River in the area of modern Terre Haute, Indiana. They were confederated with the larger Wabash Confederacy, which included the Piankeshaw to their south, the Wea to their north, and the powerful Miami Tribe, to their east. A subgroup occupied the Upper Iowa River region in what was later known as northeast Iowa and the Root River region in southeast Minnesota in the late 1600s and early 1700s. This group was probably known by the clan name "Mahouea", derived from the Illinoian word for wolf, _m'hwea_.[2]
 
 The earliest European contact with the Kickapoo tribe occurred during the La Salle Expeditions into Illinois Country in the late 17th century. The French colonists set up remote fur trading posts throughout the region, including on the Wabash River. They typically would set up posts at or near Native American villages, and Terre Haute was founded as a French village. The Kickapoo had to contend with a changing cast of Europeans; the British defeated the French in the Seven Years' War and took over nominal rule of this area after 1763. They increased their own trading with the Kickapoo.
@@ -20,7 +18,7 @@ The close of the war led to a change of federal Indian policy in the Indiana Ter
 
 Language
 
-Grupo_Kikapú_en_Coahuila_México.jpg Kickapoo speak an Algonquian language closely related to that of the Sauk and Fox. They are classified with the Central Algonquians, and are also related to the Illinois Confederation.
+Kickapoo speak an Algonquian language closely related to that of the Sauk and Fox. They are classified with the Central Algonquians, and are also related to the Illinois Confederation.
 
 In 1985 the Kickapoo Nation's School in Horton, Kansas began a language immersion program for elementary school grades to revive teaching and use of the Kickapoo language in grades K-6.[3] Efforts in language education continue at most Kickapoo sites. In 2010, the Head Start Program at the Kickapoo Traditional Tribe of Texas (KTTT) reservation, which teaches the Kickapoo language, became "the first Native American school to earn Texas School Ready! (TSR) Project certification."[4]
 
@@ -74,7 +72,7 @@ Other Kickapoo in Maverick County, Texas, constitute the "South Texas Subgroup o
 
 Kickapoo Tribe of Oklahoma
 
-Kickapoo_wickiup.jpg, Sac and Fox Agency, Oklahoma, ca. 1880.]] After being expelled from the Republic of Texas, many Kickapoo moved south to Mexico, but the population of two villages settled in Indian Territory. One village settled within the Chickasaw Nation and the other within the Muscogee Creek Nation. These Kickapoo were granted their own reservation in 1883 and became recognized as the Kickapoo Tribe of Oklahoma.
+, Sac and Fox Agency, Oklahoma, ca. 1880.]] After being expelled from the Republic of Texas, many Kickapoo moved south to Mexico, but the population of two villages settled in Indian Territory. One village settled within the Chickasaw Nation and the other within the Muscogee Creek Nation. These Kickapoo were granted their own reservation in 1883 and became recognized as the Kickapoo Tribe of Oklahoma.
 
 The reservation was short-lived. In 1893 under the Dawes Act, their communal tribal lands were broken up[14] and assigned to separate member households by allotments. The tribe's government was dismantled by the Curtis Act of 1898, which encouraged assimilation by Native Americans to the majority culture. Tribal members struggled under these conditions.
 

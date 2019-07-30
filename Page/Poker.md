@@ -1,4 +1,4 @@
-US_Navy_090620-N-2798F-033_Sailors_assigned_to_the_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)_and_Carrier_Air_Wing_(CVW)_3_compete_in_a_Texas_Hold_'Em_Poker_tournament_aboard_Harry_S._Truman.jpg in progress. "Hold 'em" is a popular form of poker.]]
+in progress. "Hold 'em" is a popular form of poker.]]
 
 POKER is a family of card games that combines gambling, strategy, and skill. All poker variants involve betting as an intrinsic part of play, and determine the winner of each hand according to the combinations of players' cards, at least some of which remain hidden until the end of the hand. Poker games vary in the number of cards dealt, the number of shared or "community" cards, the number of cards that remain hidden, and the betting procedures.
 
@@ -29,7 +29,7 @@ At the end of the last betting round, if more than one player remains, there is 
 
 Variants
 
-2006_WSOP_Main_Event_Table.jpg Main Event table]]
+Main Event table]]
 
 Poker variations are played where a "high hand" or a "low hand" may be the best desired hand. In other words, when playing a poker variant with "low poker" the best hand is one that contains the lowest cards (and it can get further complicated by including or not including flushes and straights etc. from "high hand poker"). So while the "majority" of poker game variations are played "high hand", where the best high "straight, flush etc." wins, there are poker variations where the "worst hand" wins, such as "low ball, acey-ducey, high-lo split etc. game variations". To summarize, there can be variations that are "high poker", "low poker", and "high low split". In the case of "high low split" the pot is divided among the best high hand and low hand.
 

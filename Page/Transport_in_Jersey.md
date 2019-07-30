@@ -1,4 +1,4 @@
-This article details the variety of means of transport in Jersey, Channel Islands. C'mîn_à_bike_d'la_Baie_Saint_Hélyi_Jèrri.jpg
+This article details the variety of means of transport in Jersey, Channel Islands.
 
 
 Air transport
@@ -10,7 +10,7 @@ AIRPORTS:
 
 Rail transport
 
-Jersey_Railway_map.png Historically there were public railway services in the island, provided by two railway companies:
+Historically there were public railway services in the island, provided by two railway companies:
 
 -   The Jersey Railway (closed in 1936)
 -   The Jersey Eastern Railway (closed in 1929).
@@ -33,7 +33,7 @@ _unpaved:_ NA km
 
 Buses
 
-LibertyBus_in_Jersey.JPG Buses are operated by CT Plus Jersey, a local subsidiary of HCT Group. Bus service routes radiate from the Liberation Station in St Helier.
+Buses are operated by CT Plus Jersey, a local subsidiary of HCT Group. Bus service routes radiate from the Liberation Station in St Helier.
 
 In 2012, it was announced that CT Plus would take over the operation of the bus service, commencing on 2 January 2013, ending 10 years of Connex service in Jersey. This new service is called LibertyBus.
 
@@ -43,7 +43,7 @@ Jersey has a well sign posted Island Cycle Network. A traffic-free route for cyc
 
 Driving
 
-Jersey_Traffic-Sign_»Green_Lane«.Jpg License_plate_of_Jersey_(UK).jpg Driving is on the left hand side. The maximum speed limit throughout the entire island is 40 mph (64 km/h), with slower limits on certain stretches of road, such as 20/30 mph (32/48 km/h) in built up areas and 15 mph (24 km/h) on roads designated as _green lanes_.
+Driving is on the left hand side. The maximum speed limit throughout the entire island is 40 mph (64 km/h), with slower limits on certain stretches of road, such as 20/30 mph (32/48 km/h) in built up areas and 15 mph (24 km/h) on roads designated as _green lanes_.
 
 Visitors wishing to drive must possess a Certificate of Insurance or an International Green Card, a valid Driving Licence or International Driving Permit (UK International Driving Permits are not valid). Photocopies are not acceptable. A nationality plate must be displayed on the back of visiting vehicles.
 
@@ -66,7 +66,7 @@ In some roads on the outskirts of St Helier and in the harbours, and also in som
 
 Sea transport
 
-Noirmont_Tower_-_geograph.ci_-_37.jpg catamaran heading west around Jersey past La Tour de Vinde, Saint Brelade]] SEAPORTS AND HARBOURS:
+catamaran heading west around Jersey past La Tour de Vinde, Saint Brelade]] SEAPORTS AND HARBOURS:
 
 Saint Helier is the island's main port, others include Gorey, Saint Aubin, La Rocque, and Bonne Nuit. It is distant from Granville, Manche, from Southampton, from Poole, and from St Malo.
 

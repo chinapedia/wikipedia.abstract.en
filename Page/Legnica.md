@@ -16,7 +16,7 @@ Legnica has 102,708 inhabitants and is the third largest city in the voivodeship
 
 History
 
-Liegnitz-Ring-2.jpg and neoclassical architecture ]]
+and neoclassical architecture ]]
 
 Early history
 
@@ -24,13 +24,13 @@ A settlement of the Lusatian culture people existed in the 8th century B.C. Arou
 
 Slavic borough and early Poland
 
-Slavic Lechitic tribes moved into the area in the 8th century. Legnica.JPG, medieval illuminated manuscript, collection of the J. Paul Getty Museum in Los Angeles, California]] The city was first officially mentioned in chronicles from 1004,[10] although settlement dates to the 7th century. Dendrochronological research proves that during the reign of Mieszko I of Poland, a new fortified settlement was built here in a style typical of the early Piast dynasty.[11] It is mentioned in 1149 when the High Duke of Poland Bolesław IV the Curly funded a chapel at the St. Benedict monastery.[12] Legnica was the most likely place of residence for Bolesław[13] and it became the residence of the High Dukes of Poland in 1163 and was the seat of a principality ruled from 1248 until 1675.
+Slavic Lechitic tribes moved into the area in the 8th century. , medieval illuminated manuscript, collection of the J. Paul Getty Museum in Los Angeles, California]] The city was first officially mentioned in chronicles from 1004,[10] although settlement dates to the 7th century. Dendrochronological research proves that during the reign of Mieszko I of Poland, a new fortified settlement was built here in a style typical of the early Piast dynasty.[11] It is mentioned in 1149 when the High Duke of Poland Bolesław IV the Curly funded a chapel at the St. Benedict monastery.[12] Legnica was the most likely place of residence for Bolesław[13] and it became the residence of the High Dukes of Poland in 1163 and was the seat of a principality ruled from 1248 until 1675.
 
 Legnica became famous for the battle that took place at Legnickie Pole near the city on 9 April 1241 during the Mongol invasion of Europe. The Christian army of the Polish duke Henry II the Pious of Silesia, supported by feudal nobility, which included in addition to Poles, Bavarian miners and military orders and Czech troops, was decisively defeated by the Mongols. The Mongols killed Henry and destroyed his forces, then turned south to rejoin the rest of the Mongol armies, which were massing at the Plain of Mohi in Hungary via Moravia against a coalition of King Bela IV and his armies, and Bela's Kipchak allies.
 
 Duchy of Legnica
 
-SM_Legnica_Zamek_(5)_ID_593146.jpg Legnica,_ul._Partyzantów_22-23.JPG Teatr_im._Heleny_Modrzejewskiej_w_Legnicy.JPG]] Legnica_kamienice.jpg tenements located at _Witelona_ Street]] Legnica_1_lo_10100010.jpg Liegnitz-HausWachtelkorb.jpg Legnica,_kaplica_cmentarna_-_9_grudnia_2008_r..jpg As the capital of the Duchy of Legnica at the beginning of the 14th century, Legnica was one of the most important cities of Central Europe, having a population of nearly 16,000 residents. The city began to expand quickly after the discovery of gold in the Kaczawa River between Legnica and Złotoryja (Goldberg). Unfortunately, such a growth rate can not be maintained long. Shortly after the city reached its maximum population increase, wooden buildings which had been erected during this period of rapid growth were devastated by a huge fire. The fire decreased the number of inhabitants in the city and halted any significant further development for many decades.
+]] tenements located at _Witelona_ Street]] As the capital of the Duchy of Legnica at the beginning of the 14th century, Legnica was one of the most important cities of Central Europe, having a population of nearly 16,000 residents. The city began to expand quickly after the discovery of gold in the Kaczawa River between Legnica and Złotoryja (Goldberg). Unfortunately, such a growth rate can not be maintained long. Shortly after the city reached its maximum population increase, wooden buildings which had been erected during this period of rapid growth were devastated by a huge fire. The fire decreased the number of inhabitants in the city and halted any significant further development for many decades.
 
 Legnica, along with other Silesian duchies, became a vassal of the Kingdom of Bohemia during the 14th century and was included within the Holy Roman Empire. In 1454, a local rebellion prevented Legnica from falling under direct rule of the Bohemian kings.[14]
 
@@ -75,8 +75,6 @@ Legnica is a regional academic center with seven universities enrolling approxim
     -   Legnica University of Management 5
     -   _Wyższe Seminarium Duchowne / Seminary_ 6
 
-SM_Legnica_Piastowska22_(1)_ID_593272.jpg
-
 
 International relations
 
@@ -111,7 +109,7 @@ To the south of Legnica is the A4 motorway. Legnica has also a district, which i
 
 Public transport
 
-Dworzec_PKP_Legnica.jpg]] In the city there are 20 regular bus lines, 1 belt-line, 2 night lines and 3 suburban.
+]] In the city there are 20 regular bus lines, 1 belt-line, 2 night lines and 3 suburban.
 
 The town has an airport (airport code EPLE) with a 1600-metre runway, the remains of a former Soviet air base, but it is () in a poor state and not used for commercial flights.
 

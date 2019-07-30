@@ -4,12 +4,12 @@ An original member of the American Football League (AFL), the Patriots joined th
 
 Since the arrival of head coach Bill Belichick and quarterback Tom Brady in 2000, the Patriots have since become one of the most successful teams in NFL history, claiming 16 AFC East titles as part of 18 consecutive winning seasons since 2001. The franchise has since set numerous notable records, including most wins in a ten-year period (126, in 2003–2012), an undefeated 16-game regular season in 2007, the longest winning streak consisting of regular season and playoff games in NFL history (a 21-game streak from October 2003 to October 2004), and the most consecutive division titles won by a team in NFL history (ten straight division titles from 2009 to 2018). The team owns the record for most Super Bowl appearances (nine) and wins (six) by a head coach–quarterback tandem, most Super Bowl appearances overall (eleven), tied with the Pittsburgh Steelers for the most Super Bowl wins (six), and tied with the Denver Broncos for the most Super Bowl losses (five).
 
-BostonCityhall.jpg following the Super Bowl XXXVIII championship]]
+following the Super Bowl XXXVIII championship]]
 
 
 Franchise history
 
-New_England_Patriots_logo_old.svg On November 16, 1959, Boston business executive Billy Sullivan was awarded the eighth and final franchise of the developing American Football League (AFL). The following winter, locals were allowed to submit ideas for the Boston football team's official name. The most popular choice – and the one that Sullivan selected – was the "Boston Patriots," with "Patriots" referring to those colonists of the Thirteen Colonies who rebelled against British control during the American Revolution and in July 1776 declared the United States of America an independent nation. Immediately thereafter, artist Phil Bissell of _The Boston Globe_ developed the "Pat Patriot" logo.[1]
+On November 16, 1959, Boston business executive Billy Sullivan was awarded the eighth and final franchise of the developing American Football League (AFL). The following winter, locals were allowed to submit ideas for the Boston football team's official name. The most popular choice – and the one that Sullivan selected – was the "Boston Patriots," with "Patriots" referring to those colonists of the Thirteen Colonies who rebelled against British control during the American Revolution and in July 1776 declared the United States of America an independent nation. Immediately thereafter, artist Phil Bissell of _The Boston Globe_ developed the "Pat Patriot" logo.[1]
 
 The Patriots struggled for most of their years in the AFL, and they never had a regular home stadium. Nickerson Field, Harvard Stadium, Fenway Park, and Alumni Stadium all served as home fields during their time in the American Football League. They played in only one AFL championship game, following the 1963 season, in which they lost to the San Diego Chargers 51–10. They did not appear again in an AFL or NFL post-season game for another 13 years.[2]
 
@@ -30,7 +30,7 @@ Logos and uniforms
 
 Logos
 
-New_England_Patriots_wordmark.svg The Patriots original helmet logo was a simple tricorne hat, used only for the 1960 season. From 1961 to 1992, the Patriots used a logo of a Revolutionary War minuteman hiking a football. The Patriots script logo during this time consisted of a western-style font. The minuteman logo became known as the "Pat Patriot" logo, which later became the name of the team's mascot.[24]
+The Patriots original helmet logo was a simple tricorne hat, used only for the 1960 season. From 1961 to 1992, the Patriots used a logo of a Revolutionary War minuteman hiking a football. The Patriots script logo during this time consisted of a western-style font. The minuteman logo became known as the "Pat Patriot" logo, which later became the name of the team's mascot.[24]
 
 In 1979, the Patriots worked with NFL Properties to design a new, streamlined logo, to replace the complex Pat Patriot logo. The new logo featured the blue and white profile of a minuteman in a tricorne hat set against a flag showing three red stripes separated by two white stripes. Team owner Billy Sullivan decided to put the new logo up to a vote against Pat Patriot with the fans at the September 23 home game against the San Diego Chargers, using a sound level meter to judge the crowd's reaction. The new logo was decidedly rejected by the crowd in favor of Pat, and the concept was shelved.[25]
 
@@ -61,13 +61,13 @@ In 2016, the Patriots took part in the NFL Color Rush program, wearing monochrom
 
 Rivalries
 
-Gillette_Stadium04.jpg banners at Gillette Stadium prior to the Patriots winning Super Bowl XLIX]]
+banners at Gillette Stadium prior to the Patriots winning Super Bowl XLIX]]
 
 In terms of number of games played, the Patriots have competed most against other teams teams currently AFC East division: the Buffalo Bills, Miami Dolphins, and New York Jets, who were all a part of the AFC East division since the AFL-NFL Merger, as well as the former AFL Eastern division. The Patriots also share rivalries with several teams outside of their division, including the Indianapolis Colts, who were members of the AFC East from 1970-2001, Baltimore Ravens and Pittsburgh Steelers.
 
 New York Jets
 
-Bill_Belichick_8-28-09_Patriots-vs-Redskins.jpg The closest geographically has been the rivalry with the New York Jets.[47] The Patriots and Jets have been in the same division (what is now the AFC East) since both teams' foundings in 1960, and have played each other at least twice a year since then.[48] The rivalry between the Jets and Patriots has escalated since 1996, when Patriots head coach Bill Parcells left the Patriots under controversy to become the head coach of the Jets; he was replaced by former Jets coach Pete Carroll.[49] Four years later Carroll was fired, and Parcells's assistant, Bill Belichick, resigned the day he was named the Jets' head coach to become the head coach of the Patriots.[50] Six years after that, Eric Mangini, an assistant under Belichick, became the head coach of the Jets.[51]
+The closest geographically has been the rivalry with the New York Jets.[47] The Patriots and Jets have been in the same division (what is now the AFC East) since both teams' foundings in 1960, and have played each other at least twice a year since then.[48] The rivalry between the Jets and Patriots has escalated since 1996, when Patriots head coach Bill Parcells left the Patriots under controversy to become the head coach of the Jets; he was replaced by former Jets coach Pete Carroll.[49] Four years later Carroll was fired, and Parcells's assistant, Bill Belichick, resigned the day he was named the Jets' head coach to become the head coach of the Patriots.[50] Six years after that, Eric Mangini, an assistant under Belichick, became the head coach of the Jets.[51]
 
 Bill Belichick achieved his 200th career head coaching win (regular season and playoffs) on November 22, 2012, defeating the Jets 49–19; it was his 163rd such win as Patriots coach.[52] The Patriots defeated the Jets in Week seven of the 2015 season by a score of 30–23, to give them a 6–0 record to date. [53]
 
@@ -75,7 +75,7 @@ Baltimore/Indianapolis Colts
 
 The Patriots rivalry with the Baltimore/Indianapolis Colts ran through the two clubs' tenure together in the AFC East (1970–2001). The two clubs clashed in several close games, such as on December 19, 1971, as a late Patriots touchdown decided a 21–17 New England win; on September 18, 1978, the Colts rallied to defeat the Patriots 34–27 on _Monday Night Football_ on a virtual one-man scoring rampage by running back Joe Washington; on September 4, 1983, the Colts defeated the Patriots in overtime 29–23 in their final season in Baltimore.[54] The Patriots defeated the Colts in back-to-back overtime games, 23–17 on December 8, 1991, and 37–34 on November 15, 1992.[55]
 
-Colts_vs_Patriots_2011_01.jpg Even though the two clubs were placed in separate divisions in the NFL's 2002 divisional realignment, their rivalry did not diminish. At that time, both teams were among the best in the AFC, and both were led by likely Hall of Fame quarterbacks, Peyton Manning (for the Colts) and Tom Brady (for the Patriots) The teams met three times in four years (2003, 2004, 2006) in the playoffs, with the winner going on to win that season's Super Bowl each time. The Manning portion of the rivalry began in Manning's rookie season, 1998; in 1999 Manning suffered a bitter 31–28 loss in September as the Patriots behind Drew Bledsoe erased a 28–7 Colts lead, then defeated the Patriots 20–15 in Indianapolis on December 12. The Brady–Manning portion of the rivalry began on September 30, 2001, as Brady made his first NFL start in a 44–13 Patriots win at Foxboro; on October 21 the Patriots defeated the Colts at the RCA Dome 38–17.[56]
+Even though the two clubs were placed in separate divisions in the NFL's 2002 divisional realignment, their rivalry did not diminish. At that time, both teams were among the best in the AFC, and both were led by likely Hall of Fame quarterbacks, Peyton Manning (for the Colts) and Tom Brady (for the Patriots) The teams met three times in four years (2003, 2004, 2006) in the playoffs, with the winner going on to win that season's Super Bowl each time. The Manning portion of the rivalry began in Manning's rookie season, 1998; in 1999 Manning suffered a bitter 31–28 loss in September as the Patriots behind Drew Bledsoe erased a 28–7 Colts lead, then defeated the Patriots 20–15 in Indianapolis on December 12. The Brady–Manning portion of the rivalry began on September 30, 2001, as Brady made his first NFL start in a 44–13 Patriots win at Foxboro; on October 21 the Patriots defeated the Colts at the RCA Dome 38–17.[56]
 
 After the Colts left the AFC East in 2002, they first met on November 30, 2003, in a 38–34 Patriots win decided on a last-second goal line stand by the Patriots.[57] The Colts broke a six-game Patriot winning streak in the rivalry in November 2005,[58] then won twice in 2006;[59] in the AFC Championship Game the Colts erased a 21–6 halftime lead; the game lead tied or changed seven times in the second half before a late touchdown led to a 38–34 Colts win. The November 4, 2007, meeting involved both teams being unbeaten to that point; the 8–0 Patriots and the 7–0 Colts. The Patriots rallied to win 24–20.[60] The Colts won again in 2008 and then erased a large Patriots lead in 2009's 4th and 2 game. Manning's final meeting with the Patriots as a Colt came in November 2010; a late interception sealed a 31–28 Patriots win.[61] In 2012, the Patriots faced the Colts, quarterbacked now by Andrew Luck, on November 18; the Patriots defeated the Colts 59–24.[62] The Patriots also beat the Colts on January 12, 2014, 43–22.[63] The Patriots played the Colts in the playoffs again on January 18, 2015, in the AFC title game, winning 45–7.[64]
 
@@ -93,7 +93,7 @@ Baltimore Ravens
 
 The Ravens first met the New England Patriots in 1996,[72] but the rivalry truly started in 2007 when the Ravens suffered a bitter 27–24 loss in the Patriots' quest for perfection.[73] The rivalry began to escalate in 2009 when the Ravens lost to the Patriots 27–21 in a game that involved a confrontation between Patriots quarterback Tom Brady and Ravens linebacker Terrell Suggs.[74] Both players would go on to take verbal shots at each other through the media after the game. The Ravens defeated the Patriots in the 2009 AFC Wild Card playoff game, 33–14.[75] This was the first time the Ravens had ever defeated the Patriots. The Ravens faced the Patriots in week six of the 2010 season. The Patriots ended up winning 23–20 in overtime; the game caused controversy from a hit to the helmet of tight end Todd Heap by Patriots safety Brandon Meriweather.[76]
 
-TomBradyin2008.jpg The Ravens played the Patriots for the third consecutive season in the 2012 AFC championship game, which the Ravens lost 23–20.[77] The rivalry reached a new level of friction with this, the second career playoff game between the two clubs. The Ravens clawed to a 20–16 lead in the fourth quarter, but Patriots quarterback Tom Brady dove into the end zone to make the score 23–20 with around 11 minutes remaining; this proved to be the winning touchdown.[78] On the Ravens' last possession of the game, quarterback Joe Flacco threw a pass to wide receiver Lee Evans in the corner of the end zone which looked to be the game-winning touchdown, before a last-second strip by Sterling Moore forced the ball from the hands of Evans, forcing the game to be decided on a last-minute field goal by Ravens placekicker Billy Cundiff.[79] With 11 seconds remaining on the clock, the kicker missed the 32-yard field goal attempt, allowing the Patriots to kill the clock on their way to Super Bowl XLVI for a rematch with the New York Giants.[80]
+The Ravens played the Patriots for the third consecutive season in the 2012 AFC championship game, which the Ravens lost 23–20.[77] The rivalry reached a new level of friction with this, the second career playoff game between the two clubs. The Ravens clawed to a 20–16 lead in the fourth quarter, but Patriots quarterback Tom Brady dove into the end zone to make the score 23–20 with around 11 minutes remaining; this proved to be the winning touchdown.[78] On the Ravens' last possession of the game, quarterback Joe Flacco threw a pass to wide receiver Lee Evans in the corner of the end zone which looked to be the game-winning touchdown, before a last-second strip by Sterling Moore forced the ball from the hands of Evans, forcing the game to be decided on a last-minute field goal by Ravens placekicker Billy Cundiff.[79] With 11 seconds remaining on the clock, the kicker missed the 32-yard field goal attempt, allowing the Patriots to kill the clock on their way to Super Bowl XLVI for a rematch with the New York Giants.[80]
 
 The Ravens' first regular-season win over the Patriots came on September 23, 2012. The game was emotional as receiver Torrey Smith was competing following the death of his brother in a motorcycle accident just the night before.[81] Smith caught two touchdowns in a back and forth game; the Ravens erased a 13–0 lead in the first half and led 14–13, but the Patriots scored at the end of the second quarter for a 20–14 lead. The lead changed twice in the third quarter and the Patriots led 30–21 in the fourth, but the Ravens scored on Smith's second touchdown catch. The Ravens were stopped on fourth down but the Patriots had to punt; in the final two minutes a pass interference penalty on Devin McCourty put the ball at the Patriots 7-yard line; new Ravens kicker Justin Tucker booted a 27-yard field goal on the final play; the ball sailed directly over the upright and was ruled good; the quality of officiating by replacement referees caused controversy as Bill Belichick angrily reached for one of the referees as they were leaving the field, leading to a $50,000 fine later that week.[82][83]
 
@@ -106,7 +106,7 @@ Culture
 
 Cheerleaders and mascot
 
-New_England_Patriots_Cheerleaders_(USAF).jpg The Patriots' professional cheerleading squad is the New England Patriots Cheerleaders (NEPC) which represents the team in the NFL.[88]
+The Patriots' professional cheerleading squad is the New England Patriots Cheerleaders (NEPC) which represents the team in the NFL.[88]
 
 The Patriots' mascot is Pat Patriot, a revolutionary minuteman wearing a Patriots home jersey.[89]
 
@@ -119,7 +119,7 @@ Facilities
 
 Stadium
 
-Patriots_bills.jpg Since 2002, the Patriots' home stadium has been Gillette Stadium, a $350 million facility privately financed by Kraft. It houses all administrative offices for the team and its owning entity, The Kraft Group, as well as the Kraft-owned Major League Soccer team, the New England Revolution.[93] The field, which was originally natural grass, was replaced with a FieldTurf surface during the 2006 season.[94] The Patriots have a 20-3 playoff record in this stadium as of the conclusion of the 2018 NFL season.[95][96] The area around the stadium was developed, beginning in 2007, into a $375 million "lifestyle and entertainment center" called Patriot Place; among its largest structures is a multi-floor restaurant and bar called CBS Scene.[97]
+Since 2002, the Patriots' home stadium has been Gillette Stadium, a $350 million facility privately financed by Kraft. It houses all administrative offices for the team and its owning entity, The Kraft Group, as well as the Kraft-owned Major League Soccer team, the New England Revolution.[93] The field, which was originally natural grass, was replaced with a FieldTurf surface during the 2006 season.[94] The Patriots have a 20-3 playoff record in this stadium as of the conclusion of the 2018 NFL season.[95][96] The area around the stadium was developed, beginning in 2007, into a $375 million "lifestyle and entertainment center" called Patriot Place; among its largest structures is a multi-floor restaurant and bar called CBS Scene.[97]
 
 Prior to 2002, the Patriots played in Foxboro Stadium dating back to 1971, the team's second year in the NFL after the AFL–NFL merger, and this venue was also privately funded. The final game in this stadium was the 2001 AFC Divisional Playoff game which was a 16-13 overtime win over the visiting Oakland Raiders, known for the raging snowstorm and the "tuck rule" call.[98]
 
@@ -132,7 +132,7 @@ In 2017 the Patriots purchased two Boeing 767-300ERs for use as team planes, wit
 
 Season-by-season records
 
-Sam_bam_cunningham.jpg is the franchise's all-time leading rusher.]]
+is the franchise's all-time leading rusher.]]
 
 Records
 
@@ -154,8 +154,6 @@ Under head coach Bill Belichick, the Patriots have employed specific on-field an
 Players of note
 
 Current roster
-
-John_Hannah_New_England_Patriots_press_photo_1976-1980.jpg
 
 Retired numbers
 

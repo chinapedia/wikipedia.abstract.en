@@ -9,7 +9,7 @@ The highest point in the archipelago, Ward Hill, is on Hoy.
 
 The main naval base for the British fleet in both the First and Second World Wars, Scapa Flow, was at Lyness in the southeast of the island. Some rather incongruous Art Deco structures nearby date from this period. The Arts and Crafts architect William Lethaby rebuilt Melsetter house for mountaineer Thomas Middlemore at the end of the nineteenth century leaving untouched the adjacent barn which is probably mid-18th century.[5][6]
 
-Dwarfie_Stane,_Hoy_-_geograph.org.uk_-_71967.jpg An unusual rock-cut tomb, the Dwarfie Stane, lies in the Rackwick valley towards the north. It is unique in northern Europe, bearing similarity to Neolithic or Bronze Age tombs around the Mediterranean. The tomb has a small rectangular entrance and cleft, hence its name.
+An unusual rock-cut tomb, the Dwarfie Stane, lies in the Rackwick valley towards the north. It is unique in northern Europe, bearing similarity to Neolithic or Bronze Age tombs around the Mediterranean. The tomb has a small rectangular entrance and cleft, hence its name.
 
 Orkney Ferries traverse the west of Scapa Flow with two routes:
 

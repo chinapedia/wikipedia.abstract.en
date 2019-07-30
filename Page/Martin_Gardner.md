@@ -7,8 +7,6 @@ Gardner was one of the foremost anti-pseudoscience polemicists of the 20th centu
 
 Biography
 
-Martin_Gardner_HS_Yearbook.jpeg
-
 Youth and education
 
 Gardner, son of a petroleum geologist father and an educator and artist mother, grew up in and around Tulsa, Oklahoma.[17] His lifelong interest in puzzles started in his boyhood when his father gave him a copy of Sam Loyd's _Cyclopedia of 5000 Puzzles, Tricks and Conundrums_.[18] He attended the University of Chicago, where he earned his bachelor's degree in philosophy in 1936. Early jobs included reporter on the _Tulsa Tribune_, writer at the University of Chicago Office of Press Relations, and case worker in Chicago's Black Belt for the city's Relief Administration. During World War II, he served for four years in the U.S. Navy as a yeoman on board the destroyer escort USS _Pope_ in the Atlantic. His ship was still in the Atlantic when the war came to an end with the surrender of Japan in August 1945.
@@ -43,7 +41,7 @@ For over a quarter century Gardner wrote a monthly column on the subject of recr
 
 The "Mathematical Games" column became the most popular feature of the magazine and was the first thing that many readers turned to.[79] In September 1977 Scientific American acknowledged the prestige and popularity of Gardner's column by moving it from the back to the very front of the magazine.[80] It ran from 1956 to 1981 with sporadic columns afterwards and was the first introduction of many subjects to a wider audience, notably:[81]
 
-All_35_free_hexominoes.svg are depicted.]]
+are depicted.]]
 
 -   Flexagons (Dec 1956)
 -   The Game of Hex (Jul 1957)

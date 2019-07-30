@@ -14,7 +14,7 @@ The Ancient Greeks referred to quartz as κρύσταλλος (_krustallos_) der
 
 Crystal habit and structure
 
-Quartz_crystals_on_section_of_limestone_core.jpg (top right of the sample), easily identifiable by its hexagonal form. It cannot be scratched by steel (see Mohs scale).]]
+(top right of the sample), easily identifiable by its hexagonal form. It cannot be scratched by steel (see Mohs scale).]]
 
 Quartz belongs to the trigonal crystal system. The ideal crystal shape is a six-sided prism terminating with six-sided pyramids at each end. In nature quartz crystals are often twinned (with twin right-handed and left-handed quartz crystals), distorted, or so intergrown with adjacent crystals of quartz or other minerals as to only show part of this shape, or to lack obvious crystal faces altogether and appear massive. Well-formed crystals typically form in a 'bed' that has unconstrained growth into a void; usually the crystals are attached at the other end to a matrix and only one termination pyramid is present. However, doubly terminated crystals do occur where they develop freely without attachment, for instance within gypsum. A quartz geode is such a situation where the void is approximately spherical in shape, lined with a bed of crystals pointing inward.
 
@@ -54,7 +54,7 @@ Although many of the varietal names historically arose from the color of the min
 
 Varieties (according to color)
 
-Transparency.jpg]]
+]]
 
 Pure quartz, traditionally called rock crystal or clear quartz, is colorless and transparent or translucent, and has often been used for hardstone carvings, such as the Lothair Crystal. Common colored varieties include citrine, rose quartz, amethyst, smoky quartz, milky quartz, and others.[7] These color differentiation's arise from chromophores which have been incorporated into the crystal structure of the mineral. Polymorphs of quartz include: α-quartz (low), β-quartz, tridymite, moganite, cristobalite, coesite, and stishovite.
 
@@ -101,7 +101,7 @@ File:Quartz-167895.jpg%7CHerkimer diamond File:Pure Quartz at Senckenberg Natura
 
 Synthetic and artificial treatments
 
-Quartz_synthese.jpg, about 19 cm long and weighing about 127 grams]]
+, about 19 cm long and weighing about 127 grams]]
 
 Not all varieties of quartz are naturally occurring. Some clear quartz crystals can be treated using heat or gamma-irradiation to induce color where it would not otherwise have occurred naturally. Susceptibility to such treatments depends on the location from which the quartz was mined.[21]
 
@@ -114,7 +114,7 @@ Like other crystals, quartz may be coated with metal vapors to give it an attrac
 
 Occurrence
 
-ArideGranite1.jpg, Seychelles. The thin (1–3 cm wide) brighter layers are quartz veins, formed during the late stages of crystallization of granitic magmas. They are sometimes called "hydrothermal veins".]] Quartz is a defining constituent of granite and other felsic igneous rocks. It is very common in sedimentary rocks such as sandstone and shale. It is a common constituent of schist, gneiss, quartzite and other metamorphic rocks. Quartz has the lowest potential for weathering in the Goldich dissolution series and consequently it is very common as a residual mineral in stream sediments and residual soils.
+, Seychelles. The thin (1–3 cm wide) brighter layers are quartz veins, formed during the late stages of crystallization of granitic magmas. They are sometimes called "hydrothermal veins".]] Quartz is a defining constituent of granite and other felsic igneous rocks. It is very common in sedimentary rocks such as sandstone and shale. It is a common constituent of schist, gneiss, quartzite and other metamorphic rocks. Quartz has the lowest potential for weathering in the Goldich dissolution series and consequently it is very common as a residual mineral in stream sediments and residual soils.
 
 While the majority of quartz crystallizes from molten magma, much quartz also chemically precipitates from hot hydrothermal veins as gangue, sometimes with ore minerals like gold, silver and copper. Large crystals of quartz are found in magmatic pegmatites. Well-formed crystals may reach several meters in length and weigh hundreds of kilograms.
 

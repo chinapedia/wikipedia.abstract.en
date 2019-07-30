@@ -5,8 +5,6 @@ INTELSAT CORPORATION—formerly INTEL-SAT, INTELSAT, Intelsat—is a communicati
 
 History
 
-INTELSAT_I_(Early_Bird).jpg INTELSAT_IVA.jpg
-
 John F. Kennedy instigated the creation of _INTELSAT_ with his speech to the United Nations on the 25th of September 1961.[3] Less than a year later, John F. Kennedy signed the Communications Satellite Act of 1962. _INTELSAT_ was originally formed as International Telecommunications Satellite Organization (_ITSO_) and operated from 1964 to 2001 as an intergovernmental consortium owning and managing a constellation of communications satellites providing international broadcast services. In 2001, the international satellite market was fully commercialized, and the US predominant role in INTELSAT was fully privatized after 2001 as Intelsat was formed up as a private Luxembourg corporation.
 
 International Governmental Organization: 1964–2001
@@ -41,7 +39,7 @@ Today, the number of Intelsat satellites, as well as ocean-spanning fiber-optic 
 
 Intelsat Americas-7 (known formerly as Telstar 7 and now known as Galaxy 27) experienced a several-day power failure on 29 November 2004.[17] The satellite returned to service with reduced capacity.[18]
 
-Intelsat_headquarters.JPG in Washington, D.C.]] Intelsat was sold for U.S. $3.1bn in January 2005 to four private equity firms: Madison Dearborn Partners, Apax Partners, Permira and Apollo Global Management. The company acquired PanAmSat on 3 July 2006, and is now the world's largest provider of fixed satellite services, operating a fleet of 52 satellites in prime orbital locations.
+in Washington, D.C.]] Intelsat was sold for U.S. $3.1bn in January 2005 to four private equity firms: Madison Dearborn Partners, Apax Partners, Permira and Apollo Global Management. The company acquired PanAmSat on 3 July 2006, and is now the world's largest provider of fixed satellite services, operating a fleet of 52 satellites in prime orbital locations.
 
 In June 2007 BC Partners announced they had acquired 76 percent of Intelsat for about 3.75 billion euros.[19]
 

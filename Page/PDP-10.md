@@ -1,4 +1,4 @@
-decsystem.svg PDP-10_1090.jpg and 6 Memory Modules]] Arpanet_logical_map,_march_1977_PDP-10.png DECSystem10-KI10.JPG Digital Equipment Corporation's PDP-10, later marketed as the DECSYSTEM-10, was a mainframe computer family[1] manufactured beginning in 1966;[2] it was discontinued in 1983.[3][4][5] 1970s models and beyond were marketed under the DECsystem-10 name, especially as the TOPS-10 operating system became widely used.[6]
+and 6 Memory Modules]] Digital Equipment Corporation's PDP-10, later marketed as the DECSYSTEM-10, was a mainframe computer family[1] manufactured beginning in 1966;[2] it was discontinued in 1983.[3][4][5] 1970s models and beyond were marketed under the DECsystem-10 name, especially as the TOPS-10 operating system became widely used.[6]
 
 The PDP-10's architecture is almost identical to that of DEC's earlier PDP-6, sharing the same 36-bit word length and slightly extending the instruction set (but with improved hardware implementation). Some aspects of the instruction set are unusual, most notably the _byte_ instructions, which operated on bit fields of any size from 1 to 36 bits inclusive, according to the general definition of a byte as _a contiguous sequence of a fixed number of bits_.
 
@@ -9,7 +9,7 @@ Projects to extend the PDP-10 line were eclipsed by the success of the unrelated
 
 Models and technical evolution
 
-KA10_mod_end.jpg from a DEC KA10, containing 9 transistors, 1971]] DEC-10_Memory_Bus_Terminator_H866_top_view.jpg KL10-backplane.jpg
+from a DEC KA10, containing 9 transistors, 1971]]
 
 The original PDP-10 processor is the KA10, introduced in 1968[8]. It uses discrete transistors packaged in DEC's Flip-Chip technology, with backplanes wire wrapped via a semi-automated manufacturing process. Its cycle time is 1 μs and its add time 2.1 μs.[9] In 1973, the KA10 was replaced by the KI10, which uses transistor–transistor logic (TTL) SSI. This was joined in 1975 by the higher-performance KL10 (later faster variants), which is built from emitter-coupled logic (ECL), microprogrammed, and has cache memory. The KL10's performance was about 1 megaflops using 36-bit floating point numbers on matrix row reduction. It was slightly faster than the newer VAX-11/750, although more limited in memory.
 
@@ -27,7 +27,7 @@ KI10 and KL10
 
 The KI10 and later processors offer paged memory management, and also support a larger physical address space of 4 megawords. KI10 models include 1060, 1070 and 1077, the latter incorporating two CPUs.
 
-KS10-open.jpg The original KL10 PDP-10 (also marketed as DECsystem-10) models (1080, 1088, etc.) use the original PDP-10 memory bus, with external memory modules. Module in this context meant a cabinet, dimensions roughly (WxHxD) 30 x 75 x 30 in. with a capacity of 32 to 256 kWords of magnetic core memory (the picture on the right hand side of the introduction shows six of these cabinets). The processors used in the DECSYSTEM-20 (2040, 2050, 2060, 2065), commonly but incorrectly called "KL20", use internal memory, mounted in the same cabinet as the CPU. The 10xx models also have different packaging; they come in the original tall PDP-10 cabinets, rather than the short ones used later on for the DECSYSTEM-20. The differences between the 10xx and 20xx models are more cosmetic than real; some 10xx systems have "20-style" internal memory and I/O, and some 20xx systems have "10-style" external memory and an I/O bus. In particular, all ARPAnet TOPS-20 systems had an I/O bus because the AN20 IMP interface was an I/O bus device. Both could run either TOPS-10 or TOPS-20 microcode and thus the corresponding operating system.
+The original KL10 PDP-10 (also marketed as DECsystem-10) models (1080, 1088, etc.) use the original PDP-10 memory bus, with external memory modules. Module in this context meant a cabinet, dimensions roughly (WxHxD) 30 x 75 x 30 in. with a capacity of 32 to 256 kWords of magnetic core memory (the picture on the right hand side of the introduction shows six of these cabinets). The processors used in the DECSYSTEM-20 (2040, 2050, 2060, 2065), commonly but incorrectly called "KL20", use internal memory, mounted in the same cabinet as the CPU. The 10xx models also have different packaging; they come in the original tall PDP-10 cabinets, rather than the short ones used later on for the DECSYSTEM-20. The differences between the 10xx and 20xx models are more cosmetic than real; some 10xx systems have "20-style" internal memory and I/O, and some 20xx systems have "10-style" external memory and an I/O bus. In particular, all ARPAnet TOPS-20 systems had an I/O bus because the AN20 IMP interface was an I/O bus device. Both could run either TOPS-10 or TOPS-20 microcode and thus the corresponding operating system.
 
 Model B
 
@@ -45,7 +45,7 @@ The KS10 design was crippled to be a Model A even though most of the necessary d
 
 Frontend systems
 
-KL10-front-end.jpg Frontend processors are computers that extend the functionality of the systems to which they are connected.[18]
+Frontend processors are computers that extend the functionality of the systems to which they are connected.[18]
 
 KL frontends
 
@@ -189,7 +189,7 @@ Use by CompuServe
 
 One of the largest collections of DECsystem-10 architecture systems ever assembled was at CompuServe, which, at its peak, operated over 200 loosely coupled systems in three data centers in Columbus, Ohio. CompuServe used these systems as 'hosts', providing access to commercial applications, and the CompuServe Information Service. While the first such systems were bought from DEC, when DEC abandoned the PDP-10 architecture in favor of the VAX, CompuServe and other PDP-10 customers began buying plug compatible computers from Systems Concepts. As of January 2007, CompuServe was operating a small number of PDP-10 architecture machines to perform some billing and routing functions.
 
-The main power supplies used in the KL-series machines were so inefficient that CompuServe engineers designed a replacement supply that used about half the energy. CompuServe offered to license the design for its KL supply to DEC for free if DEC would promise that any new KL bought by CompuServe would have the more efficient supply installed. DEC declined the offer. MF10-Panel.jpg]]
+The main power supplies used in the KL-series machines were so inefficient that CompuServe engineers designed a replacement supply that used about half the energy. CompuServe offered to license the design for its KL supply to DEC for free if DEC would promise that any new KL bought by CompuServe would have the more efficient supply installed. DEC declined the offer. ]]
 
 Another modification made to the PDP-10 by CompuServe engineers was replacing the hundreds of incandescent indicator lamps on the KI10 processor cabinet with LED lamp modules. The cost of conversion was easily offset by cost savings in electricity use, reduced heat, and labor needed to replace burned-out lamps. Digital followed this step all over the world. The picture on the right hand side shows the light panel of the MF10 memory which is contemporary with the KI10 CPU. This item is part of a computer museum, and was populated with LEDs in 2008 for demonstration purposes only. There were no similar banks of indicator lamps on KL and KS processors.
 

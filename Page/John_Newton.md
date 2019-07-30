@@ -68,7 +68,7 @@ In 1792, Newton was presented with the degree of Doctor of Divinity by the Colle
 
 Abolitionist
 
-Newton_j.jpg In 1788, 34 years after he had retired from the slave trade, Newton broke a long silence on the subject with the publication of a forceful pamphlet _Thoughts Upon the Slave Trade_, in which he described the horrific conditions of the slave ships during the Middle Passage. He apologised for "a confession, which ... comes too late ... It will always be a subject of humiliating reflection to me, that I was once an active instrument in a business at which my heart now shudders." He had copies sent to every MP, and the pamphlet sold so well that it swiftly required reprinting.
+In 1788, 34 years after he had retired from the slave trade, Newton broke a long silence on the subject with the publication of a forceful pamphlet _Thoughts Upon the Slave Trade_, in which he described the horrific conditions of the slave ships during the Middle Passage. He apologised for "a confession, which ... comes too late ... It will always be a subject of humiliating reflection to me, that I was once an active instrument in a business at which my heart now shudders." He had copies sent to every MP, and the pamphlet sold so well that it swiftly required reprinting.
 
 Newton became an ally of William Wilberforce, leader of the Parliamentary campaign to abolish the African slave trade. He lived to see the British passage of the Slave Trade Act 1807, which enacted this event.
 
@@ -79,9 +79,9 @@ Newton came to believe that during the first five of his nine years as a slave t
 
 Writer and hymnist
 
-Olney_vicarage.jpg where Newton wrote the hymn that would become "Amazing Grace".]] In 1767 William Cowper, the poet, moved to Olney. He worshipped in Newton's church, and collaborated with the priest on a volume of hymns; it was published as _Olney Hymns_ in 1779. This work had a great influence on English hymnology. The volume included Newton's well-known hymns: "Glorious Things of Thee Are Spoken," "How Sweet the Name of Jesus Sounds!," "Let Us Love, and Sing, and Wonder," "Come, My Soul, Thy Suit Prepare," "Approach, My Soul, the Mercy-seat", and "Faith's Review and Expectation," which has come to be known by its opening phrase, "Amazing Grace".
+where Newton wrote the hymn that would become "Amazing Grace".]] In 1767 William Cowper, the poet, moved to Olney. He worshipped in Newton's church, and collaborated with the priest on a volume of hymns; it was published as _Olney Hymns_ in 1779. This work had a great influence on English hymnology. The volume included Newton's well-known hymns: "Glorious Things of Thee Are Spoken," "How Sweet the Name of Jesus Sounds!," "Let Us Love, and Sing, and Wonder," "Come, My Soul, Thy Suit Prepare," "Approach, My Soul, the Mercy-seat", and "Faith's Review and Expectation," which has come to be known by its opening phrase, "Amazing Grace".
 
-JohnNewtonStMaryWoolnoth.jpg in the City of London]] Many of Newton's (as well as Cowper's) hymns are preserved in the _Sacred Harp,_ a hymnal used in the American South during the Second Great Awakening. Hymns were scored according to the tonal scale for shape note singing. Easily learnt and incorporating singers into four-part harmony, shape note music was widely used by evangelical preachers to reach new congregants.
+in the City of London]] Many of Newton's (as well as Cowper's) hymns are preserved in the _Sacred Harp,_ a hymnal used in the American South during the Second Great Awakening. Hymns were scored according to the tonal scale for shape note singing. Easily learnt and incorporating singers into four-part harmony, shape note music was widely used by evangelical preachers to reach new congregants.
 
 In 1776 Newton contributed a preface to an annotated version of John Bunyan's _The Pilgrim's Progress_.
 
@@ -95,7 +95,7 @@ Newton's wife Mary Catlett died in 1790, after which he published _Letters to a 
 
 Commemoration
 
-Grave_stone_of_John_Newton.JPG, bearing his self-penned epitaph.]] Stained-Glass_Image_of_John_Newton_-_Amazing_Grace_Writer_-_St._Peter_and_Paul_Church_-_Olney_-_Buckinghamshire_-_England_-_02_(27656254594).jpg, where Newton served as parish priest.]]
+, bearing his self-penned epitaph.]] , where Newton served as parish priest.]]
 
 -   Newton is memorialized with his self-penned epitaph on his tomb at Olney.
 -   When he was initially interred in London, a memorial plaque to Newton, containing his self-penned epitaph, was installed on the wall of St Mary Woolnoth. At the bottom of the plaque are the words: "The above Epitaph was written by the Deceased who directed it to be inscribed on a plain Marble Tablet. He died on Dec. the 21st, 1807. Aged 82 Years, and his mortal Remains are deposited in the Vault beneath this Church."

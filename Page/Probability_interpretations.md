@@ -47,7 +47,7 @@ Classical definition
 
 The first attempt at mathematical rigour in the field of probability, championed by Pierre-Simon Laplace, is now known as the CLASSICAL DEFINITION. Developed from studies of games of chance (such as rolling dice) it states that probability is shared equally between all the possible outcomes, provided these outcomes can be deemed equally likely.[18] (3.1)
 
-Dice.jpg This can be represented mathematically as follows: If a random experiment can result in _N_ mutually exclusive and equally likely outcomes and if N_(A) of these outcomes result in the occurrence of the event _A_, the PROBABILITY OF _A_ is defined by
+This can be represented mathematically as follows: If a random experiment can result in _N_ mutually exclusive and equally likely outcomes and if N_(A) of these outcomes result in the occurrence of the event _A_, the PROBABILITY OF _A_ is defined by
 
 $$P(A) = {N_A \over N}.$$
 
@@ -56,7 +56,7 @@ There are two clear limitations to the classical definition.[19] Firstly, it is 
 
 Frequentism
 
-Roulette_wheel.jpg Frequentists posit that the probability of an event is its relative frequency over time,[20] (3.4) i.e., its relative frequency of occurrence after repeating a process a large number of times under similar conditions. This is also known as aleatory probability. The events are assumed to be governed by some random physical phenomena, which are either phenomena that are predictable, in principle, with sufficient information (see determinism); or phenomena which are essentially unpredictable. Examples of the first kind include tossing dice or spinning a roulette wheel; an example of the second kind is radioactive decay. In the case of tossing a fair coin, frequentists say that the probability of getting a heads is 1/2, not because there are two equally likely outcomes but because repeated series of large numbers of trials demonstrate that the empirical frequency converges to the limit 1/2 as the number of trials goes to infinity.
+Frequentists posit that the probability of an event is its relative frequency over time,[20] (3.4) i.e., its relative frequency of occurrence after repeating a process a large number of times under similar conditions. This is also known as aleatory probability. The events are assumed to be governed by some random physical phenomena, which are either phenomena that are predictable, in principle, with sufficient information (see determinism); or phenomena which are essentially unpredictable. Examples of the first kind include tossing dice or spinning a roulette wheel; an example of the second kind is radioactive decay. In the case of tossing a fair coin, frequentists say that the probability of getting a heads is 1/2, not because there are two equally likely outcomes but because repeated series of large numbers of trials demonstrate that the empirical frequency converges to the limit 1/2 as the number of trials goes to infinity.
 
 If we denote by $\textstyle n_a$ the number of occurrences of an event 𝒜 in $\textstyle n$ trials, then if $\lim_{n \to +\infty}{n_a \over n}=p$ we say that _$\textstyle P(\mathcal{A})=p$_.
 
@@ -65,7 +65,7 @@ The frequentist view has its own problems. It is of course impossible to actuall
 
 Subjectivism
 
-Tokyo_Racecourse_3.jpg odds reflect the average bettor's 'degree of belief' in the outcome.]] Subjectivists, also known as BAYESIANS or followers of EPISTEMIC PROBABILITY, give the notion of probability a subjective status by regarding it as a measure of the 'degree of belief' of the individual assessing the uncertainty of a particular situation. Epistemic or subjective probability is sometimes called CREDENCE, as opposed to the term CHANCE for a propensity probability.
+odds reflect the average bettor's 'degree of belief' in the outcome.]] Subjectivists, also known as BAYESIANS or followers of EPISTEMIC PROBABILITY, give the notion of probability a subjective status by regarding it as a measure of the 'degree of belief' of the individual assessing the uncertainty of a particular situation. Epistemic or subjective probability is sometimes called CREDENCE, as opposed to the term CHANCE for a propensity probability.
 
 Some examples of epistemic probability are to assign a probability to the proposition that a proposed law of physics is true, and to determine how probable it is that a suspect committed a crime, based on the evidence presented.
 

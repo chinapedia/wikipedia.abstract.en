@@ -9,11 +9,11 @@ The company's name was spelled alternately in all capitals REO or with only an i
 
 Early REO production
 
-Olds2.jpg By 1907, REO had gross sales of $4.5 million and the company was one of the four wealthiest automobile manufacturers in the U.S. After 1908 however, despite the introduction of improved cars designed by Olds, REO's share of the automobile market decreased due in part to competition from emerging companies like Ford and General Motors.
+By 1907, REO had gross sales of $4.5 million and the company was one of the four wealthiest automobile manufacturers in the U.S. After 1908 however, despite the introduction of improved cars designed by Olds, REO's share of the automobile market decreased due in part to competition from emerging companies like Ford and General Motors.
 
 REO added a truck manufacturing division and a Canadian plant in St. Catharines, Ontario in 1910. Two years later, Olds claimed he had built the best car he could, a tourer able to seat two, four, or five, with a engine, wheelbase, and wheels, for US$1,055 (not including top, windshield, or gas tank, which were US$100 extra);[3] self-starter was US$25 on top of that.[4] By comparison, the Cole Series 30 and Colt Runabout were priced at US$1,500; Kirk's Yale side-entrance US$1,000; the high-volume Oldsmobile Runabout went for US$650; Western's Gale Model A was US$500; a Brush Runabout US$485; the Black started at $375; and the Success hit the amazingly low US$250.
 
-1906reorunabout.jpg In 1915, Olds relinquished the title of general manager to his protégé Richard H. Scott, and eight years later he ended his tenure as the company's presidency as well, retaining the position of chairman of the board.
+In 1915, Olds relinquished the title of general manager to his protégé Richard H. Scott, and eight years later he ended his tenure as the company's presidency as well, retaining the position of chairman of the board.
 
 Perhaps the most famous REO episode was the 1912 Trans-Canada journey. Traveling from Halifax, Nova Scotia, to Vancouver, British Columbia, in a 1912 REO special touring car, mechanic/driver Fonce V. (Jack) Haney and journalist Thomas W. Wilby made the first trip by automobile across Canada (including one short jaunt into northeastern Washington State when the Canadian roads were virtually impassable.)
 
@@ -22,7 +22,7 @@ From 1915 to 1925, under Scott's direction REO remained profitable. In 1923, the
 
 Reo Flying Cloud and Reo Royale
 
-1931-ReoRoyaleVictoriaEight.jpg REO's two most memorable cars were its Reo Flying Cloud introduced in 1927[6] and the Reo Royale 8 of 1931.
+REO's two most memorable cars were its Reo Flying Cloud introduced in 1927[6] and the Reo Royale 8 of 1931.
 
 The FLYING CLOUD was the first car to use Lockheed's new hydraulic internal expanding brake system and featured styling by Fabio Segardi. While Ned Jordan is credited with changing the way advertising was written with his "Somewhere West of Laramie" ads for his Jordan Playboy, Reo's Flying Cloud——a name that provoked evocative images of speed and lightness——changed the way automobiles would be named in the future. It had a wheelbase.[7] The final REO model of 1936 was a Flying Cloud.
 
@@ -35,7 +35,7 @@ File:Reo Runabout 1906.jpg|REO runabout 1906 File:1917 REO Model M 7-passenger T
 
 After passenger cars
 
-Reo_factory_1977.jpg Although truck orders during World War II enabled it to revive somewhat, the company remained unstable in the postwar era, resulting in a bankruptcy reorganization. In 1954, the company was still underperforming, and sold vehicle manufacturing operations (the primary asset of the company) to the Bohn Aluminum and Brass Corporation of Detroit. Three years later, in 1957, Reo's vehicle manufacturing operation became a subsidiary of the White Motor Company. White then merged REO with Diamond T Trucks in 1967 to form Diamond-Reo Trucks, Inc. In 1975, this company filed for bankruptcy and most of its assets were liquidated. Volvo later took over White and thus currently owns the rights to the REO brand name.
+Although truck orders during World War II enabled it to revive somewhat, the company remained unstable in the postwar era, resulting in a bankruptcy reorganization. In 1954, the company was still underperforming, and sold vehicle manufacturing operations (the primary asset of the company) to the Bohn Aluminum and Brass Corporation of Detroit. Three years later, in 1957, Reo's vehicle manufacturing operation became a subsidiary of the White Motor Company. White then merged REO with Diamond T Trucks in 1967 to form Diamond-Reo Trucks, Inc. In 1975, this company filed for bankruptcy and most of its assets were liquidated. Volvo later took over White and thus currently owns the rights to the REO brand name.
 
 Meanwhile, after selling Reo's vehicle manufacturing operation to Bohn in 1954, management began liquidating the remainder of the company, but for tax reasons a group of shareholders successfully challenged the liquidation in a proxy fight in September 1955, and forced REO to take over a tiny nuclear services company called Nuclear Consultants, Inc. in a reverse takeover. The resulting Nuclear Corporation of America, Inc., diversified and purchased other companies to become a conglomerate, spreading into an array of fields including prefabricated housing and steel joist manufacturing in addition to nuclear services. Most of these business were failures and the company was bankrupt again by 1966. After reorganizing, only the successful steel-joist business remained; the company started producing recycled steel, and eventually renamed itself Nucor.
 
@@ -98,8 +98,6 @@ Clients
 
 
 REOs in popular culture
-
-REO_Speedwagon_at_Red_Rocks_July_2010_(cropped).jpg
 
 -   The band REO Speedwagon took their name from the REO Speed Wagon light delivery truck, an ancestor of pickup trucks.
 -   An REO is mentioned in a humorous 1933 short story by James Thurber entitled, _The Car We Had to Push_. It tells the story of Thurber’s family car, which would only start if pushed a long way. After several odd adventures, the car is destroyed by a trolley car.[9]

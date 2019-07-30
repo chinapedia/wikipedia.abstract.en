@@ -5,7 +5,7 @@ In addition to her acting career, Gordon wrote numerous plays, film scripts, and
 
 Early life
 
-Ruth-Gordon-at-Four.jpg Ruth Gordon Jones was born at 31 Marion Street in Quincy, Massachusetts.[2] She was the child of Annie Tapley (née Ziegler) and Clinton Jones, a factory foreman who had been a ship's captain. Her only sibling was an older half-sister Claire, from her father's first marriage.[3] She was baptized an Episcopalian.[4][5] Her first appearance in the public eye came as an infant when her photograph was used in advertising for her father's employer, _Mellin's Food for Infants & Invalids._[6] Prior to graduating from Quincy High School, she wrote to several of her favorite actresses requesting autographed pictures. A personal reply from Hazel Dawn (whom she had seen in a stage production of _The Pink Lady_) inspired her to go into acting.[7] Although her father was skeptical of her chances of success in a difficult profession, in 1914 he took his daughter to New York, where he enrolled her in the American Academy of Dramatic Arts.
+Ruth Gordon Jones was born at 31 Marion Street in Quincy, Massachusetts.[2] She was the child of Annie Tapley (née Ziegler) and Clinton Jones, a factory foreman who had been a ship's captain. Her only sibling was an older half-sister Claire, from her father's first marriage.[3] She was baptized an Episcopalian.[4][5] Her first appearance in the public eye came as an infant when her photograph was used in advertising for her father's employer, _Mellin's Food for Infants & Invalids._[6] Prior to graduating from Quincy High School, she wrote to several of her favorite actresses requesting autographed pictures. A personal reply from Hazel Dawn (whom she had seen in a stage production of _The Pink Lady_) inspired her to go into acting.[7] Although her father was skeptical of her chances of success in a difficult profession, in 1914 he took his daughter to New York, where he enrolled her in the American Academy of Dramatic Arts.
 
 
 Early career
@@ -201,8 +201,6 @@ Writer
 +---------------------+--------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
 
 Broadway appearances
-
-Ruth-Gordon-Seventeen-1918-2.jpg
 
   Year                                     Title                                Role                                                 Notes
   ---------------------------------------- ------------------------------------ ---------------------------------------------------- ---------------------------------------------------------------------------------

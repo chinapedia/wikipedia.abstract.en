@@ -1,6 +1,4 @@
-Mpeg_logo.svg
-
-MPEG.svg (TS and PS) used.]]
+(TS and PS) used.]]
 
 The MOVING PICTURE EXPERTS GROUP (MPEG) is a working group of authorities that was formed by ISO and IEC to set standards for audio and video compression and transmission.[1] It was established in 1988 by the initiative of Hiroshi Yasuda (Nippon Telegraph and Telephone) and Leonardo Chiariglione,[2] group Chair since its inception. The first MPEG meeting was in May 1988 in Ottawa, Canada.[3][4][5] As of late 2005, MPEG has grown to include approximately 350 members per meeting from various industries, universities, and research institutions. MPEG's official designation is ISO/IEC JTC 1/SC 29/WG 11 – _Coding of moving pictures and audio_ (ISO/IEC Joint Technical Committee 1, Subcommittee 29, Working Group 11).[6][7][8][9]
 

@@ -1,4 +1,4 @@
-Fourier_Series.svg for a square wave. Fourier series are an important tool in real analysis.]] In mathematics, REAL ANALYSIS is the branch of mathematical analysis that studies the behavior of real numbers, sequences and series of real numbers, and real-valued functions.[1] Some particular properties of real-valued sequences and functions that real analysis studies include convergence, limits, continuity, smoothness, differentiability and integrability.
+for a square wave. Fourier series are an important tool in real analysis.]] In mathematics, REAL ANALYSIS is the branch of mathematical analysis that studies the behavior of real numbers, sequences and series of real numbers, and real-valued functions.[1] Some particular properties of real-valued sequences and functions that real analysis studies include convergence, limits, continuity, smoothness, differentiability and integrability.
 
 Real analysis is distinguished from complex analysis, which deals with the study of complex numbers and their functions.
 

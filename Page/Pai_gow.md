@@ -1,5 +1,3 @@
-ChineseDominoes.jpg
-
 PAI GOW () is a Chinese gambling game, played with a set of 32 Chinese dominoes. It is played in major casinos in China (including Macau); the United States (including Boston, Massachusetts; Las Vegas, Nevada; Reno, Nevada; Connecticut; Atlantic City, New Jersey; Pennsylvania; Mississippi; and cardrooms in California); Canada (including Edmonton, Alberta and Calgary, Alberta); Australia; and, New Zealand.
 
 The name "pai gow" is sometimes used to refer to a card game called pai gow poker (or “double-hand poker”), which is loosely based on pai gow.
@@ -15,8 +13,6 @@ Next, each player (including the dealer) is given one stack of tiles and must us
 
 There are 35,960 possible ways to select 4 of the 32 tiles when the 32 tiles are considered distinguishable. However, there are 3620 distinct sets of 4 tiles when the tiles of a pair are considered indistinguishable. There are 496 ways to select 2 of the 32 tiles when the 32 tiles are considered distinguishable. There are 136 distinct hands (pairs of tiles) when the tiles of a pair are considered indistinguishable.
 
-Pai_Gow_Example_1.svg
-
 Basic scoring
 
 The name "pai gow" is loosely translated as "make nine" or "card nine". This reflects the fact that, with a few high-scoring exceptions, the maximum score for a hand is nine. If a hand consists of two tiles that do not form a pair, its value is determined by adding up the total number of pips on the tiles and dropping the tens digit (if any). Examples:
@@ -24,8 +20,6 @@ The name "pai gow" is loosely translated as "make nine" or "card nine". This ref
 -   1-3 with 2-3: value 9 (nine pips altogether)
 -   2-3 with 5-6: value 6 (16 pips; drop the 10)
 -   5-5 with 4-6: value 0 (20 pips; ones digit is zero)
-
-Pai_Gow_Example_2.svg
 
 Gongs and Wongs
 
@@ -37,7 +31,7 @@ The 1-2 and the 2-4 tiles are called _Gee Joon_ tiles and act as limited wild ca
 
 Pairs
 
-Pai_Gow_Example_3.svg The 32 tiles in a Chinese dominoes set can be arranged into 16 pairs, as shown in the picture at the top of this article. Eleven of these pairs have identical tiles, and five of these pairs are made up of two tiles that score the same, but look different. (The latter group includes the Gee Joon tiles, which can score the same, whether as three or six.) If a hand is made up of a pair, it always scores higher than a non-pair, no matter what the value of the pips are. (Pairs are often thought of as being worth 12 points each.)
+The 32 tiles in a Chinese dominoes set can be arranged into 16 pairs, as shown in the picture at the top of this article. Eleven of these pairs have identical tiles, and five of these pairs are made up of two tiles that score the same, but look different. (The latter group includes the Gee Joon tiles, which can score the same, whether as three or six.) If a hand is made up of a pair, it always scores higher than a non-pair, no matter what the value of the pips are. (Pairs are often thought of as being worth 12 points each.)
 
 When the player and dealer both have a pair, the higher-ranked pair wins. Ranking is determined not by the sum of the tiles' pips, but rather by aesthetics; the order must be memorized. The highest pairs are the Gee Joon tiles, the Teens, the Days, and the red eights. The lowest pairs are the mismatched nines, eights, sevens, and fives.
 
@@ -53,8 +47,6 @@ There are two exceptions to the method described above. First, although the Gee 
 Strategy
 
 The key element of pai gow strategy is to present the optimal front and rear hands based on the tiles dealt to the player. There are three ways to arrange four tiles into two hands when no two of them form a pair. However, if there is at least one pair among the tiles, there are only two distinct ways to form two hands.
-
-Pai_Gow_Example_4.svg
 
 Using the tiles shown at right, the following hands and scores are possible:
 

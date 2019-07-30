@@ -32,8 +32,6 @@ The Smithsonian Institution's Global Volcanism Program cites the Indonesian name
 
 Geographical setting
 
-Sunda_strait_map_v3.png
-
 Indonesia has over 130 active volcanoes,[13] the most of any nation. They make up the axis of the Indonesian island arc system produced by northeastward subduction of the Indo-Australian Plate. A majority of these volcanoes lie along Indonesia's two largest islands, Java and Sumatra. These two islands are separated by the Sunda Strait located at a bend in the axis of the island arc. Krakatau is directly above the subduction zone of the Eurasian Plate and the Indo-Australian Plate where the plate boundaries make a sharp change of direction, possibly resulting in an unusually weak crust in the region.
 
 
@@ -80,8 +78,6 @@ Several surveys and mariners' charts were made, and the islands were little expl
 
 1883 eruption
 
-Krakatoa_map.svg
-
 While seismic activity around the volcano was intense in the years preceding the cataclysmic 1883 eruption, a series of lesser eruptions began on 20 May 1883. The volcano released huge plumes of steam and ash lasting until late August.
 
 On 27 August, a series of four huge explosions almost entirely destroyed the island. The explosions were so violent that they were heard away in Perth, Western Australia, and the island of Rodrigues near Mauritius, away.[23] The pressure wave from the third and most violent explosion was recorded on barographs around the world.[24] Several barographs recorded the wave seven times over the course of five days: four times with the wave travelling away from the volcano to its antipodal point, and three times travelling back to the volcano;[25] the wave rounded the globe three and a half times. Ash was propelled to a height of . The sound of the eruption was so loud it was reported that if anyone was within , they would have gone deaf.
@@ -92,8 +88,6 @@ The combined effects of pyroclastic flows, volcanic ashes, and tsunamis had disa
 Aftermath
 
 Anak Krakatau
-
-Krakatoa_evolution_map-en.gif
 
 Verbeek, in his report on the eruption, predicted that any new activity would manifest itself in the region which had been between Perboewatan and Danan. This prediction came true on 29 December 1927, when a submarine lava dome in the area of Perboewatan showed evidence of eruptions (an earlier event in the same area had been reported in June 1927). A new island volcano rose above the waterline a few days later. The eruptions were initially of pumice and ash, and that island and the two islands that followed were quickly eroded away by the sea. Eventually a fourth island, named Anak Krakatau (meaning "child of Krakatoa" in Malay and Indonesian), broke water in August 1930 and produced lava flows more quickly than the waves could erode them.
 
@@ -115,7 +109,7 @@ A German, Johann Handl, obtained a permit to mine pumice in October 1916.[28] Hi
 
 Popular culture
 
-The_Scream.jpg's famous 1893 painting _The Scream_ depicts the colour of the sky over Norway after the eruption.[29]]] Indonesia_1992_100r_r.jpg ]]
+'s famous 1893 painting _The Scream_ depicts the colour of the sky over Norway after the eruption.[29]]] ]]
 
 A large part of the 1947 children's novel _The Twenty-One Balloons_ by William Pene du Bois takes place on Krakatoa, where several families have established a wealthy and fanciful colony based on fictional diamond mines on the island.
 

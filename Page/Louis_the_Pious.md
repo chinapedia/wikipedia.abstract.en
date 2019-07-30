@@ -13,7 +13,7 @@ Louis was crowned King of Aquitaine as a child in 781[3] and sent there with reg
 
 In 794, Charlemagne settled four former Gallo-Roman villas on Louis, in the thought that he would take in each in turn as winter residence: Doué-la-Fontaine in today's Anjou, Ebreuil in Allier, Angeac-Charente, and the disputed Cassinogilum. Charlemagne's intention was to see all his sons brought up as natives of their given territories, wearing the national costume of the region and ruling by the local customs. Thus were the children sent to their respective realms at so young an age. Each kingdom had its importance in keeping some frontier, Louis's was the Spanish March. In 797, Barcelona, the greatest city of the _Marca_, fell to the Franks when Zeid, its governor, rebelled against Córdoba and, failing, handed it to them. The Umayyad authority recaptured it in 799. However, Louis marched the entire army of his kingdom, including Gascons with their duke Sancho I of Gascony, Provençals under Leibulf, and Goths under Bera, over the Pyrenees and besieged it for two years, wintering there from 800 to 801, when it capitulated.[4] The sons were not given independence from central authority, however, and Charlemagne ingrained in them the concepts of empire and unity by sending them on military expeditions far from their home bases. Louis campaigned in the Italian Mezzogiorno against the Beneventans at least once.
 
-Charlemagne_et_Louis_le_Pieux.jpg Louis was one of Charlemagne's three legitimate sons to survive infancy. He had a twin brother, Lothair who died during infancy. According to Frankish custom, Louis had expected to share his inheritance with his brothers, Charles the Younger, King of Neustria, and Pepin, King of Italy. In the _Divisio Regnorum_ of 806, Charlemagne had slated Charles the Younger as his successor as emperor and chief king, ruling over the Frankish heartland of Neustria and Austrasia, while giving Pepin the Iron Crown of Lombardy, which Charlemagne possessed by conquest. To Louis's kingdom of Aquitaine, he added Septimania, Provence, and part of Burgundy. However, Charlemagne's other legitimate sons died – Pepin in 810 and Charles in 811 – and Louis alone remained to be crowned co-emperor with Charlemagne in 813. On his father's death in 814, he inherited the entire Frankish kingdom and all its possessions (with the sole exception of Italy, which remained within Louis's empire, but under the direct rule of Bernard, Pepin's son).
+Louis was one of Charlemagne's three legitimate sons to survive infancy. He had a twin brother, Lothair who died during infancy. According to Frankish custom, Louis had expected to share his inheritance with his brothers, Charles the Younger, King of Neustria, and Pepin, King of Italy. In the _Divisio Regnorum_ of 806, Charlemagne had slated Charles the Younger as his successor as emperor and chief king, ruling over the Frankish heartland of Neustria and Austrasia, while giving Pepin the Iron Crown of Lombardy, which Charlemagne possessed by conquest. To Louis's kingdom of Aquitaine, he added Septimania, Provence, and part of Burgundy. However, Charlemagne's other legitimate sons died – Pepin in 810 and Charles in 811 – and Louis alone remained to be crowned co-emperor with Charlemagne in 813. On his father's death in 814, he inherited the entire Frankish kingdom and all its possessions (with the sole exception of Italy, which remained within Louis's empire, but under the direct rule of Bernard, Pepin's son).
 
 
 Emperor
@@ -30,7 +30,7 @@ He also employed Benedict of Aniane (the Second Benedict), a Septimanian Visigot
 
 In 816, Pope Stephen IV, who had succeeded Leo III, visited Reims and again crowned Louis (Sunday 5 October).
 
-Denier_Louis_le_Pieux.jpg'' of Louis.]]
+'' of Louis.]]
 
 _Ordinatio imperii_
 
@@ -44,15 +44,13 @@ If one of the subordinate kings died, he was to be succeeded by his sons. If he 
 
 With this settlement, Louis tried to combine his sense for the Empire's unity, supported by the clergy, while at the same time providing positions for all of his sons. Instead of treating his sons equally in status and land, he elevated his first-born son Lothair above his younger brothers and gave him the largest part of the Empire as his share.
 
-Louis_the_Pious.jpg
-
 Bernard's rebellion and Louis's penance
 
 The _ordinatio imperii_ of Aachen left Bernard of Italy in an uncertain and subordinate position as king of Italy, and he began plotting to declare independence upon hearing of it. Louis immediately directed his army towards Italy, and betook himself to Chalon-sur-Saône. Intimidated by the emperor's swift action, Bernard met his uncle at Chalon, under invitation, and surrendered. He was taken to Aachen by Louis, who there had him tried and condemned to death for treason. Louis had the sentence commuted to blinding, which was duly carried out; Bernard did not survive the ordeal, however, dying after two days of agony. Others also suffered: Theodulf of Orléans, in eclipse since the death of Charlemagne, was accused of having supported the rebellion, and was thrown into a monastic prison, dying soon afterwards; it was rumored that he had been poisoned.[11] The fate of his nephew deeply marked Louis's conscience for the rest of his life.
 
 In 822, as a deeply religious man, Louis performed penance for causing Bernard's death, at his palace of Attigny near Vouziers in the Ardennes, before Pope Paschal I, and a council of ecclesiastics and nobles of the realm that had been convened for the reconciliation of Louis with his three younger half-brothers, Hugo whom he soon made abbot of St-Quentin, Drogo whom he soon made Bishop of Metz, and Theodoric. This act of contrition, partly in emulation of Theodosius I, had the effect of greatly reducing his prestige as a Frankish ruler, for he also recited a list of minor offences about which no secular ruler of the time would have taken any notice. He also made the egregious error of releasing Wala and Adalard from their monastic confinements, placing the former in a position of power in the court of Lothair and the latter in a position in his own house.
 
-Louis_le_Pieu_denier_Sens_818_823.jpg'' from Sens, 818–823]]
+'' from Sens, 818–823]]
 
 Frontier wars
 
@@ -86,7 +84,7 @@ The next revolt occurred a mere two years later, in 832. The disaffected Pepin w
 
 Soon Lothair, with the support of Pope Gregory IV, whom he had confirmed in office without his father's support, joined the revolt in 833. While Louis was at Worms gathering a new force, Lothair marched north. Louis marched south. The armies met on the plains of the Rothfeld. There, Gregory met the emperor and may have tried to sow dissension amongst his ranks. Soon much of Louis's army had evaporated before his eyes, and he ordered his few remaining followers to go, because "it would be a pity if any man lost his life or limb on my account." The resigned emperor was taken to Saint-Médard de Soissons, his son Charles to Prüm, and the queen to Tortona. The despicable show of disloyalty and disingenuousness earned the site the name Field of Lies, or Lügenfeld, or Campus Mendacii, _ubi plurimorum fidelitas exstincta est_.[13]
 
-Louis_le_Pieux_sesquisolidus_814_840.jpg'', essentially Roman in design.[14]]]
+'', essentially Roman in design.[14]]]
 
 On 13 November 833, Ebbo, with Agobard of Lyon, presided over a synod at the Church of Saint Medard in Soissons which saw Louis undertake public penance for the second time in his reign. The penitential ritual that was undertaken began when Louis arrived at the church and confessed multiple times to the crimes levied against him. The crimes had been historic and recent, with accusations of oath breaking, violation of the public peace and inability to control his adulterous wife, Judith of Bavaria.[15] Afterwards, he threw his sword belt at the base of the altar and received judgement through the imposition of the hands of the bishops.[16] Louis was to live the rest of his life as a penitent, never to hold office again.[17] The penance divided the aristocracy. The anonymous biographer of the Vita Hludovici criticized the whole affair on the basis that God does not judge twice for sins committed and confessed.[18] Lothair's allies were generously compensated. Ebbo himself received the monastery of St Vaast whilst Pepin was allowed to keep the lands reclaimed from his father.
 

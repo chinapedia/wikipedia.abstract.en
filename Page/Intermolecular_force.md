@@ -19,8 +19,6 @@ Hydrogen bonding
 
 A _hydrogen bond_ is the attraction between the lone pair of an electronegative atom and a hydrogen atom that is bonded to either nitrogen, oxygen, or fluorine.[2] The hydrogen bond is often described as a strong electrostatic dipole–dipole interaction. However, it also has some features of covalent bonding: it is directional, stronger than a van der Waals force interaction, produces interatomic distances shorter than the sum of van der Waals radius, and usually involves a limited number of interaction partners, which can be interpreted as a kind of valence.
 
-Hydrogen-bonding-in-water-2D.png
-
 Intermolecular hydrogen bonding is responsible for the high boiling point of water (100 °C) compared to the other group 16 hydrides, which have no hydrogen bonds. Intramolecular hydrogen oxygen bonding is partly responsible for the secondary, tertiary, and quaternary structures of proteins and nucleic acids. It also plays an important role in the structure of polymers, both synthetic and natural.[3]
 
 

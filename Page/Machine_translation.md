@@ -38,7 +38,7 @@ This problem may be approached in a number of ways, through the evolution of whi
 
 Approaches
 
-Direct_translation_and_transfer_translation_pyramid.svg at the peak, followed by transfer-based, then direct translation.]] Machine translation can use a method based on linguistic rules, which means that words will be translated in a linguistic way – the most suitable (orally speaking) words of the target language will replace the ones in the source language.
+at the peak, followed by transfer-based, then direct translation.]] Machine translation can use a method based on linguistic rules, which means that words will be translated in a linguistic way – the most suitable (orally speaking) words of the target language will replace the ones in the source language.
 
 It is often argued that the success of machine translation requires the problem of natural language understanding to be solved first.[11]
 
@@ -88,7 +88,7 @@ A deep learning based approach to MT, neural machine translation has made rapid 
 
 Major issues
 
-Stir_Fried_Wikipedia.jpg Machine_translation_in_Bali.jpg. The broken Chinese sentence sounds like "there does not exist an entry" or "have not entered yet"]]
+. The broken Chinese sentence sounds like "there does not exist an entry" or "have not entered yet"]]
 
 Disambiguation
 

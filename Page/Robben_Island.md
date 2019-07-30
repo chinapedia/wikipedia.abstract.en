@@ -17,7 +17,7 @@ The island was also used as a leper colony and animal quarantine station.[11] St
 
 During the Second World War the island was fortified and BL 9.2-inch guns and 6-inch guns were installed as part of the defences for Cape Town.
 
-Robben_island_from_table_mountain.jpg towards Saldanha Bay]] From 1961, Robben Island was used by the South African government as a prison for political prisoners and convicted criminals. In 1969 the Moturu Kramat, which is now a sacred site for Muslim pilgrimage on Robben Island, was built to commemorate Sayed Abdurahman Moturu, the Prince of Madura. Moturu, who was one of Cape Town's first imams, was exiled to the island in the mid-1740s. He died there in 1754. Muslim political prisoners would pay homage at the shrine before leaving the island.
+towards Saldanha Bay]] From 1961, Robben Island was used by the South African government as a prison for political prisoners and convicted criminals. In 1969 the Moturu Kramat, which is now a sacred site for Muslim pilgrimage on Robben Island, was built to commemorate Sayed Abdurahman Moturu, the Prince of Madura. Moturu, who was one of Cape Town's first imams, was exiled to the island in the mid-1740s. He died there in 1754. Muslim political prisoners would pay homage at the shrine before leaving the island.
 
 The maximum security prison for political prisoners closed in 1991. The medium security prison for criminal prisoners was closed five years later.[14]
 
@@ -31,15 +31,13 @@ Robben Island is accessible to visitors through tours that depart from Cape Town
 
 Maritime hazard
 
-AMH-2554-NA_Map_of_Robben_Island.jpg Seagoing vessels must take great care navigating near Robben Island and nearby Whale Rock (it does not break the surface) as they pose a danger to shipping.[17] A prevailing rough Atlantic swell surrounds the offshore reefs and the island's jagged coastline. Stricken vessels driven onto rocks are quickly broken up by the powerful surf. There are a total of 31 known vessels that have been wrecked around the island.[18]
+Seagoing vessels must take great care navigating near Robben Island and nearby Whale Rock (it does not break the surface) as they pose a danger to shipping.[17] A prevailing rough Atlantic swell surrounds the offshore reefs and the island's jagged coastline. Stricken vessels driven onto rocks are quickly broken up by the powerful surf. There are a total of 31 known vessels that have been wrecked around the island.[18]
 
 In 1990, a marine archaeology team from the University of Cape Town began Operation "Sea Eagle". It was an underwater survey that scanned of seabed around Robben Island. The task was made particularly difficult by the strong currents and high waves that make sailing in these waters treacherous. Nevertheless, the group managed to find 24 vessels that had sunk around Robben Island. Most wrecks were found in waters less than deep. The team concluded that poor weather, darkness and fog were the cause of the sinkings.[19]
 
 Maritime wrecks around Robben Island and its surrounding waters include the 17th century Dutch East Indiaman ships, the _Yeanger van Horne_ (1611), the _Shaapejacht_ (1660), and the _Dageraad_ (1694). Later 19th century wrecks include several British brigs including the _Gondolier_ (1836) and the American clipper, _A.H. Stevens_ (1866). In 1901 the mail steamer SS _Tantallon Castle_ struck rocks off Robben Island in dense fog shortly after leaving Cape Town. After distress cannons were fired from the island, nearby vessels rushed to the rescue. All 120 passengers and crew were taken off the ship before it was broken apart in the relentless swell. A further 17 ships have been wrecked in the 20th century, including British, Spanish, Norwegian and Taiwanese vessels.
 
 Robben Island lighthouse
-
-Robben_Island-003.jpg
 
 Due to the maritime danger that Robben Island presents to shipping, Jan van Riebeeck, the first Dutch colonial administrator in Cape Town in the 1650s, ordered that huge bonfires were to be lit at night on top of Fire Hill, the highest point on the island (now Minto Hill). These were to warn VOC ships approaching the island.
 
@@ -48,7 +46,7 @@ In 1865 Robben Island lighthouse was completed on Minto Hill.[20] The cylindrica
 
 Wildlife and conservation
 
-Table_Bay_from_Robben_Island_(01).jpg from Robben Island coast]] Blick_auf_Kapstadt.jpg ASC_Leiden_-_Rietveld_Collection_-_17_-_Blackfoot_penguin_(Spheniscus_demersus)_near_trees_on_Robben_Island_-_2015.jpg
+from Robben Island coast]]
 
 When the Dutch arrived in the area in 1652, the only large animals on the island were seals and birds, principally penguins. In 1654, the settlers released rabbits on the island to provide a ready source of meat for passing ships.[22]
 

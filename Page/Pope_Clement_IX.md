@@ -30,8 +30,6 @@ Nothing remarkable occurred under Clement IX's short administration beyond the t
 
 He was popular with the people of Rome, not so much for his erudition and application to business, as for his extreme charity and his affability towards great and small. He increased the goodwill of his subjects by buying off the monopolist who had secured the "macinato", or privilege of selling grain, and as his predecessor had collected the money for the purpose, Clement IX had the decree published in the name of Alexander VII. Two days each week he occupied a confessional in St. Peter's church and heard any one who wished to confess to him. He frequently visited the hospitals, and was lavish in his alms to the poor. In an age of nepotism, he did little or nothing to advance or enrich his family. In his aversion to notoriety, he refused to permit his name to be placed on the buildings erected during his reign.[5]
 
-Angelo_de'_rossi,_papa_clemente_IX.JPG
-
 Other actions
 
 Clement IX confirmed the cultus of Margaret of Savoy on 9 October 1669. He also beatified Rose of Lima on 15 April 1668. On 28 April 1668, he canonized Magdalena de Pazzi and Peter of Alcantara.
@@ -41,8 +39,6 @@ He elevated 12 new cardinals in three consistories; this included Emilio Bonaven
 Art reforms
 
 As pope, Clement IX continued his interest in the arts. He embellished the city of Rome with famous works commissioned to Gian Lorenzo Bernini, including the angels of Ponte Sant'Angelo and the colonnade of Saint Peter's Basilica. Somewhat unusually for Popes of the era, Clement IX did not have his name displayed on monuments he built. He also opened the first public opera house in Rome, and for the Carnival celebrations of 1668, commissioned Antonio Maria Abbatini of the Sistine Chapel Choir to set to music his free Italian translation of a Spanish religious drama _La Baltasara_. The production had sets designed by Bernini.
-
-Carlo_rainaldi,_monum._a_clemente_IX_(1671),_con_papa_di_domenico_guidi,_fede_di_cosimo_fancelli_e_carità_ercole_ferrata_2.JPG
 
 Defence against the Turks
 

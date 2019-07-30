@@ -15,7 +15,7 @@ Unlike most Soviet enterprises, the company was not vertically integrated, rathe
 
 1970s
 
-RIAN_archive_878967_AvtoVAZ-_Volga_automaking_plant_in_Togliatti,_the_Samara_Region.jpg The first VAZ-2101 was produced on 22 April 1970, the 100th anniversary of Lenin's birth.[16] About 22,000 VAZ-2101s were built in 1970, with capacity at the end of 1973 reaching 660,000 a year; 21 December, the one millionth 2101 was built.[17] A third production line was added in October 1974, boosting output to 2,230 cars a day.[18] The same year, total VAZ production reached 1.5 million.[19]
+The first VAZ-2101 was produced on 22 April 1970, the 100th anniversary of Lenin's birth.[16] About 22,000 VAZ-2101s were built in 1970, with capacity at the end of 1973 reaching 660,000 a year; 21 December, the one millionth 2101 was built.[17] A third production line was added in October 1974, boosting output to 2,230 cars a day.[18] The same year, total VAZ production reached 1.5 million.[19]
 
 The VAZ plant was described as 'ultra-modern' by the Chicago Tribune in a 1973 article.[20] Production reached 750,000 cars a year in 1975, making the Tolyatti plant the third most productive in the world.[21] Between 1977 and 1981, AvtoVAZ acquired 30 welding robots from Japanese firms.[22]
 
@@ -31,7 +31,7 @@ The VAZ-2105, based on the Fiat 124 mechanicals but modernised and restyled, was
 
 1980s
 
-Technical_Center_AVTOVAZ._Photo_2.JPG In May 1980, a series of mass strikes at the Togliatti plant involving hundreds of thousands of workers were reported by the western press.[29] In 1982 the VAZ-2107, a deluxe version of the 2105, was introduced; it featured a better engine, refined interiors and a chrome radiator grille. In 1984, the VAZ-2104 station wagon completed the line-up.
+In May 1980, a series of mass strikes at the Togliatti plant involving hundreds of thousands of workers were reported by the western press.[29] In 1982 the VAZ-2107, a deluxe version of the 2105, was introduced; it featured a better engine, refined interiors and a chrome radiator grille. In 1984, the VAZ-2104 station wagon completed the line-up.
 
 Based on the success of the Niva, the design department prepared a new family of front-wheel drive models by 1984, which was of a completely domestic design. Production started with the VAZ-2108 _Sputnik_ three-door hatchback, the series was commercially known as Samara. It was the first front-wheel drive serial car built in the Soviet Union after the LuAZ- 969V.[30] The Samara engine was mostly designed and produced in-house, had a new single overhead camshaft (SOHC) design and was driven by a more modern rubber belt. The five-door VAZ-2109 hatchback followed in 1987, and the four-door 1.5 L sedan, the VAZ-21099, was introduced in 1990. The same year, the front sides and radiator grille were restyled on the whole Samara range.
 
@@ -45,7 +45,7 @@ The first privately owned AvtoVAZ dealership was established by Boris Berezovsky
 
 Post-privatization
 
-GM-AVTOVAZ.JPG plant in Tolyatti, Russia]] In June 1991 Bear Stearns was hired by the Soviet government to conduct an appraisal of AvtoVAZ and negotiate a venture with a Western partner, in preparation for the privatization of the company.[37] An independent trade union was started during the same year, as workers deemed the traditional trade union to be too close to the interests of management.[38]
+plant in Tolyatti, Russia]] In June 1991 Bear Stearns was hired by the Soviet government to conduct an appraisal of AvtoVAZ and negotiate a venture with a Western partner, in preparation for the privatization of the company.[37] An independent trade union was started during the same year, as workers deemed the traditional trade union to be too close to the interests of management.[38]
 
 In January 1993 AvtoVaz was re-established as a joint-stock company under Russian law.[39] The company came to be controlled by the management, including Vladimir Kadannikov, head of AvtoVAZ.[40] It was listed on the Moscow Stock Exchange.[41] As with many other privatized post-Soviet companies the financial situation at AvtoVAZ was dire, with workers being unpaid for months at a time.[42]
 
@@ -67,7 +67,7 @@ In October 2005 the control of the company, which had until then been exercised 
 
 Involvement of Renault-Nissan
 
-Lada_Granta1.jpg on the Tolyatti assembly line, 2011]] In March 2008, Renault purchased a 25% stake in AvtoVAZ in a US$1 billion deal, with Rostec retaining the remaining 75%.[62] The deal was agreed at a time when the Russian car market was booming.[63]
+on the Tolyatti assembly line, 2011]] In March 2008, Renault purchased a 25% stake in AvtoVAZ in a US$1 billion deal, with Rostec retaining the remaining 75%.[62] The deal was agreed at a time when the Russian car market was booming.[63]
 
 The onset of the Great Recession caused considerable problems to the company.[64] By April 2009 AvtoVAZ was on the verge of bankruptcy, which was only avoided because of $600 million bailout from the Russian government.[65]
 
@@ -85,13 +85,13 @@ In the same year, it was announced that Avtovaz and Sollers plan to jointly prod
 
 Recent developments
 
-A_visit_to_"AvtoVAZ"_-_January_22,_2016.png In November 2013, Bo Andersson joined AvtoVAZ as CEO,[82] the first non-Russian to head the company.[83] He became involved in conflicts with local suppliers, which he accused of supplying low-quality products.[84]
+In November 2013, Bo Andersson joined AvtoVAZ as CEO,[82] the first non-Russian to head the company.[83] He became involved in conflicts with local suppliers, which he accused of supplying low-quality products.[84]
 
 The takeover of AvtoVAZ was completed in June 2014, and the two companies of the Renault-Nissan Alliance took a combined 67.1% stake of Alliance Rostec, which in turn acquired a 74.5% of AvtoVAZ, thereby giving Renault and Nissan indirect control over the Russian manufacturer.[85]
 
 In 2014, AvtoVAZ sold 448,114 vehicles, down 16.3 percent comparing to the previous year, due to the overall market slowdown in Russia.[86] The total production of the Togliatti factory is 910,000 vehicles.[87] By 2014 the company's liabilities exceeded assets by 68 billion rubles, leading auditor Ernst & Young to express “significant doubt” about the company's “ability to continue as a going concern”.[88]
 
-Employees_of_AvtoVAZ,_2004-2014.png In 2014, the Largus got a new modification, the Lada Largus Cross.[89] In the fall of 2014 AvtoVAZ began production of a new Kalina model, the Lada Kalina Cross.[90]
+In 2014, the Largus got a new modification, the Lada Largus Cross.[89] In the fall of 2014 AvtoVAZ began production of a new Kalina model, the Lada Kalina Cross.[90]
 
 Production of the Lada Vesta, based on a new b\C platform developed by AvtoVAZ in cooperation with Renault-Nissan Alliance, started on September 25, 2015, at Lada Izhevsk manufacturing site. For the first time in LADA history, one year has passed between concept-car and start of production.[91] Lada XRAY is the first compact city crossover in company’s history. Starts of sales was held on February 14, 2016.[92]
 
@@ -109,8 +109,6 @@ In December 2018, Renault and Rostec completed the acquisition of all AvtoVAZ sh
 
 
 Company structure
-
-AvtoVAZ_production_complex_in_Togliatti_-_December_2014.jpg
 
 Ownership
 
@@ -160,7 +158,7 @@ In 2015, 28,461 Lada cars were exported, mostly to Kazakhstan (14,278 vehicles),
 
 Motorsport
 
-Mikhail_Kozlovskiy_2013_WTCC_Race_of_Japan_(Practice_2).jpg In 1970, AvtoVAZ CEO Viktor Polyakov set the task to create sport versions of the Lada 2101. The engines were built in Italy, whereas fine tuning was done by engineers in Togliatti. In 1971, three sport cars based on the 2101 model took part in the Soviet Winter Rally Championship.[116] Later in the same year, a VAZ-Autoexport team earned their first prize, the Silver Cup in the 1971 Tour d'Europe.[117]
+In 1970, AvtoVAZ CEO Viktor Polyakov set the task to create sport versions of the Lada 2101. The engines were built in Italy, whereas fine tuning was done by engineers in Togliatti. In 1971, three sport cars based on the 2101 model took part in the Soviet Winter Rally Championship.[116] Later in the same year, a VAZ-Autoexport team earned their first prize, the Silver Cup in the 1971 Tour d'Europe.[117]
 
 In the 1970s–1980s, the Autoexport racing team, using different Lada models, participated in different motorsport competitions. A special Zhiguli class was created for the Soviet Rally Championship. There were different rally and track races featuring Avtovaz sports cars. In 1978, a Lada Niva took part in the famous Dakar Rally. It was also successful in a number of international competitions.[118] In 1981, Guy Moerenhout Racing made two special models for Lada Belgium: Lada 21011 RS Sport, model with two Weber carburetors and special sport equipment, and Lada Niva Dream, with big wing extension, special colours and larger wheels. In the late 1990s, Lada Canada supported a rally operation in the Canadian Rally Championship, winning in the 'Production 1750' class on numerous occasions.
 
@@ -168,7 +166,7 @@ In 2012, the Lada Granta Cup was launched. The first stage of the new race serie
 
 World Touring Car Championship
 
-Ladachased.jpg.]] In 2008, AvtoVAZ took part in the WTCC World Championship, raced and developed by Russian Bears Motorsport, although badged as a factory team. The team raced the Lada 110 in the 2008 season, but ran a trio of Lada Prioras in the 2009 WTCC. The team scored their first championship points at Imola with renowned BTCC two-time champion James Thompson.
+.]] In 2008, AvtoVAZ took part in the WTCC World Championship, raced and developed by Russian Bears Motorsport, although badged as a factory team. The team raced the Lada 110 in the 2008 season, but ran a trio of Lada Prioras in the 2009 WTCC. The team scored their first championship points at Imola with renowned BTCC two-time champion James Thompson.
 
 Lada withdrew from the WTCC for the 2010 season, but returned in 2012, with TMS Sport entering a Lada Granta WTCC for Thompson in two rounds. The team added a second car for the 2013 season, driven by Alexey Dudukalo, and achieved their best result to date, finishing fifth in their home race in Russia.
 

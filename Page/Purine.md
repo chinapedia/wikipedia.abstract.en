@@ -18,12 +18,12 @@ There are many naturally occurring purines. They include the nucleobases adenine
 
 Other notable purines are hypoxanthine (4), xanthine (5), theobromine (6), caffeine (7), uric acid (8) and isoguanine (9).
 
-    purines.svg
+
 
 
 Functions
 
-Blausen_0323_DNA_Purines.pngs.]] Aside from the crucial roles of purines (adenine and guanine) in DNA and RNA, purines are also significant components in a number of other important biomolecules, such as ATP, GTP, cyclic AMP, NADH, and coenzyme A. Purine (1) itself, has not been found in nature, but it can be produced by organic synthesis.
+s.]] Aside from the crucial roles of purines (adenine and guanine) in DNA and RNA, purines are also significant components in a number of other important biomolecules, such as ATP, GTP, cyclic AMP, NADH, and coenzyme A. Purine (1) itself, has not been found in nature, but it can be produced by organic synthesis.
 
 They may also function directly as neurotransmitters, acting upon purinergic receptors. Adenosine activates adenosine receptors.
 
@@ -32,7 +32,7 @@ History
 
 The word _purine_ (_pure urine_)[6] was coined by the German chemist Emil Fischer in 1884.[7][8] He synthesized it for the first time in 1898.[9] The starting material for the reaction sequence was uric acid (8), which had been isolated from kidney stones by Carl Wilhelm Scheele in 1776.[10] Uric acid (8) was reacted with PCl₅ to give 2,6,8-trichloropurine (10), which was converted with HI and PH₄I to give 2,6-diiodopurine (11). The product was reduced to purine (1) using zinc dust.
 
-    Image:FischerPurineSynthesis.gif
+
 
 
 Metabolism
@@ -54,17 +54,17 @@ In addition to _in vivo_ synthesis of purines in purine metabolism, purine can a
 
 Purine (1) is obtained in good yield when formamide is heated in an open vessel at 170 °C for 28 hours.[14]
 
-    Image:Purinesynthesis.gif
+
 
 This remarkable reaction and others like it have been discussed in the context of the origin of life.[15]
 
 Oro, Orgel and co-workers have shown that four molecules of HCN tetramerize to form diaminomaleodinitrile (12), which can be converted into almost all naturally-occurring purines.[16][17][18][19][20] For example, five molecules of HCN condense in an exothermic reaction to make adenine, especially in the presence of ammonia.
 
-    Image:basicpurines.gif
+
 
 The TRAUBE PURINE SYNTHESIS (1900) is a classic reaction (named after Wilhelm Traube) between an amine-substituted pyrimidine and formic acid.[21]
 
-    Traube purine synthesis
+
 
 
 See also

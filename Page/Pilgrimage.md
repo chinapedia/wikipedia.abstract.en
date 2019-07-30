@@ -1,4 +1,4 @@
-Teniers,_David_the_younger_-_Female_Pilgrim_-_Google_Art_Project.jpg: Flemish Pilgrim]] A PILGRIMAGE is a journey or search of moral or spiritual significance. Typically, it is a journey to a shrine or other location of importance to a person's beliefs and faith, although sometimes it can be a metaphorical journey into someone's own beliefs.
+: Flemish Pilgrim]] A PILGRIMAGE is a journey or search of moral or spiritual significance. Typically, it is a journey to a shrine or other location of importance to a person's beliefs and faith, although sometimes it can be a metaphorical journey into someone's own beliefs.
 
 Many religions attach spiritual importance to particular places: the place of birth or death of founders or saints, or to the place of their "calling" or spiritual awakening, or of their connection (visual or verbal) with the divine, to locations where miracles were performed or witnessed, or locations where a deity is said to live or be "housed", or any site that is seen to have special spiritual powers. Such sites may be commemorated with shrines or temples that devotees are encouraged to visit for their own spiritual benefit: to be healed or have questions answered or to achieve some other spiritual benefit.
 
@@ -14,7 +14,7 @@ Bahá'u'lláh decreed pilgrimage to two places in the Kitáb-i-Aqdas: the House 
 
 Buddhism
 
-mahaparinirvana.jpg]] Pilgrimage_to_Lhasa.jpgans on a pilgrimage to Lhasa, doing full-body prostrations, often for the entire length of the journey]]
+]] ans on a pilgrimage to Lhasa, doing full-body prostrations, often for the entire length of the journey]]
 
 There are four places that Buddhists pilgrimage to:
 
@@ -51,7 +51,7 @@ Other famous places for Buddhist pilgrimage include:
 
 Christianity
 
-Jerusalem_Holy_Sepulchre_BW_19.JPG in Jerusalem, Israel according to tradition is the site where Jesus was crucified and resurrected]] Santuário_de_Fátima_(36)_-_Jul_2008_(cropped).jpg is one of the largest pilgrimage sites (Marian shrine) in the world.]] Christian pilgrimage was first made to sites connected with the birth, life, crucifixion and resurrection of Jesus. Aside from the early example of Origen in the third century, surviving descriptions of Christian pilgrimages to the Holy Land date from the 4th century, when pilgrimage was encouraged by church fathers including Saint Jerome, and established by Saint Helena, the mother of Constantine the Great.
+in Jerusalem, Israel according to tradition is the site where Jesus was crucified and resurrected]] is one of the largest pilgrimage sites (Marian shrine) in the world.]] Christian pilgrimage was first made to sites connected with the birth, life, crucifixion and resurrection of Jesus. Aside from the early example of Origen in the third century, surviving descriptions of Christian pilgrimages to the Holy Land date from the 4th century, when pilgrimage was encouraged by church fathers including Saint Jerome, and established by Saint Helena, the mother of Constantine the Great.
 
 The purpose of Christian pilgrimage was summarized by Pope Benedict XVI this way:
 
@@ -60,7 +60,7 @@ Pilgrimages were, and are, also made to Rome and other sites associated with the
 
 Hinduism
 
-Bathing_ghat_on_the_Ganges_during_Kumbh_Mela,_2010,_Haridwar.jpg during Kumbh Mela, Haridwar]] Kedarnathroute.jpg]] Pilgrims_coming_to_Manakaran.jpg, Himachal Pradesh, India, in 2004]] Simhasth2016_Ujjain_Saadhu_3.jpg held in holy city of Ujjain in 2016]]
+during Kumbh Mela, Haridwar]] ]] , Himachal Pradesh, India, in 2004]] held in holy city of Ujjain in 2016]]
 
 According to Karel Werner's _Popular Dictionary of Hinduism_, "most Hindu places of pilgrimage are associated with legendary events from the lives of various gods.... Almost any place can become a focus for pilgrimage, but in most cases they are sacred cities, rivers, lakes, and mountains."[5] Hindus are encouraged to undertake pilgrimages during their lifetime, though this practice is not considered absolutely mandatory. Most Hindus visit sites within their region or locale.
 
@@ -76,7 +76,7 @@ According to Karel Werner's _Popular Dictionary of Hinduism_, "most Hindu places
 
 Islam
 
-Kaaba_mirror_edit_jj.jpg pilgrims circumambulate the _Ka‘bah_ (, 'Cube') in Al-Haram Mosque]]
+pilgrims circumambulate the _Ka‘bah_ (, 'Cube') in Al-Haram Mosque]]
 
 The _Ḥajj_ (, main pilgrimage to Mecca) is one of the five pillars of Islam and a mandatory religious duty for Muslims that must be carried out at least once in their lifetime by all adult Muslims who are physically and financially capable of undertaking the journey, and can support their family during their absence.[10][11][12] The gathering during the Hajj is considered the largest annual gathering of people in the world.[13][14][15]
 
@@ -92,7 +92,7 @@ Shi'ism
 
 Judaism
 
-Gerome_Western_Wall.pngs at the Wailing Wall in Jerusalem during the Ottoman period, 1867]] While Solomon's Temple stood, Jerusalem was the centre of the Jewish religious life and the site of the Three Pilgrimage Festivals of Passover, Shavuot and Sukkot, and all adult men who were able were required to visit and offer sacrifices (_korbanot_) at the Temple. After the destruction of the Temple, the obligation to visit Jerusalem and to make sacrifices no longer applied. The obligation was restored with the rebuilding of the Temple, but following its destruction in 70 CE, the obligation to make a pilgrimage to Jerusalem and offer sacrifices again went into abeyance.
+s at the Wailing Wall in Jerusalem during the Ottoman period, 1867]] While Solomon's Temple stood, Jerusalem was the centre of the Jewish religious life and the site of the Three Pilgrimage Festivals of Passover, Shavuot and Sukkot, and all adult men who were able were required to visit and offer sacrifices (_korbanot_) at the Temple. After the destruction of the Temple, the obligation to visit Jerusalem and to make sacrifices no longer applied. The obligation was restored with the rebuilding of the Temple, but following its destruction in 70 CE, the obligation to make a pilgrimage to Jerusalem and offer sacrifices again went into abeyance.
 
 The western retaining wall of the Temple Mount, known as the Western Wall or "Wailing" Wall, is the remaining part of Second Jewish Temple in the Old City of Jerusalem is the most sacred and visited site for Jews. Pilgrimage to this area was off-limits to Jews from 1948 to 1967, when East Jerusalem was under Jordanian control.[22][23]
 
@@ -101,7 +101,7 @@ There are numerous lesser Jewish pilgrimage destinations, mainly tombs of _tzadi
 
 Sikhism
 
-Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg in Amritsar, India.]]
+in Amritsar, India.]]
 
 The Sikh religion does not place great importance on pilgrimage. Guru Nanak Dev was asked "Should I go and bathe at pilgrimage places?" and he replied: "God's name is the real pilgrimage place which consists of contemplation of the word of God, and the cultivation of inner knowledge."
 
@@ -112,7 +112,7 @@ The Panj Takht (Punjabi: ਪੰਜ ਤਖ਼ਤ) are the five revered gurdwaras 
 
 Taoism
 
-白沙屯媽祖遶境｜王功福海宮.jpg Mazu, also spelled as Matsu, is the most famous sea goddess in the Chinese southeastern sea area, Hong Kong, Macau and Taiwan.
+Mazu, also spelled as Matsu, is the most famous sea goddess in the Chinese southeastern sea area, Hong Kong, Macau and Taiwan.
 
 Mazu Pilgrimage is more likely as an event (or temple fair), pilgrims are called as "Xiang Deng Jiao" (_pinyin: xiāng dēng jiǎo,_ it means "lantern feet" in Chinese), they would follow the Goddess's (Mazu) palanquin from her own temple to another Mazu temple. By tradition, when the village Mazu palanquin passes, the residents would offer free water and food to those pilgrims along the way.
 
@@ -124,7 +124,7 @@ There are 2 main Mazu pilgrimages in Taiwan, it usually hold between lunar Janua
 
 Zoroastrianism
 
-Zarathustra_fire_temple_in_Yazd.jpg in Iran is an Atash Bahram, the highest grade of fire temple in Zoroastrianism]] In Iran, there are pilgrimage destinations called _pirs_ in several provinces, although the most familiar ones are in the province of Yazd.[29] In addition to the traditional Yazdi shrines, new sites may be in the process of becoming pilgrimage destinations. The ruins are the ruins of ancient fire temples. One such site is the ruin of the Sassanian era Azargoshnasp Fire Temple in Iran's Azarbaijan Province. Other sites are the ruins of fire temples at Rey, south of the capital Tehran, and the Firouzabad ruins sixty kilometres south of Shiraz in the province of Pars.
+in Iran is an Atash Bahram, the highest grade of fire temple in Zoroastrianism]] In Iran, there are pilgrimage destinations called _pirs_ in several provinces, although the most familiar ones are in the province of Yazd.[29] In addition to the traditional Yazdi shrines, new sites may be in the process of becoming pilgrimage destinations. The ruins are the ruins of ancient fire temples. One such site is the ruin of the Sassanian era Azargoshnasp Fire Temple in Iran's Azarbaijan Province. Other sites are the ruins of fire temples at Rey, south of the capital Tehran, and the Firouzabad ruins sixty kilometres south of Shiraz in the province of Pars.
 
 Atash Behram ("Fire of victory") is the highest grade of fire temple in Zoroastrianism. It has 16 different "kinds of fire", that is, fires gathered from 16 different sources.[30] Currently there are 9 Atash Behram, one in Yazd, Iran and the rest in Western India. They have become a pilgrimage destination.[31]
 

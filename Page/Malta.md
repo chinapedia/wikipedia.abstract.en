@@ -34,7 +34,7 @@ Pottery found by archaeologists at the Skorba Temples resembles that found in It
 
 The Sicani were the only tribe known to have inhabited the island at this time[40][41] and are generally regarded as being closely related to the Iberians.[42] The population on Malta grew cereals, raised livestock and, in common with other ancient Mediterranean cultures, worshiped a fertility figure represented in Maltese prehistoric artifacts exhibiting the proportions seen in similar statuettes, including the Venus of Willendorf.
 
-Ggantija_Temples,_Xaghra,_Gozo.jpg megalithic temple complex]] Malta_16_Mnajdra.jpg]] Pottery from the Għar Dalam phase is similar to pottery found in Agrigento, Sicily. A culture of megalithic temple builders then either supplanted or arose from this early period. Around the time of 3500 BC, these people built some of the oldest existing free-standing structures in the world in the form of the megalithic Ġgantija temples on Gozo;[43] other early temples include those at Ħaġar Qim and Mnajdra.[44][45][46]
+megalithic temple complex]] ]] Pottery from the Għar Dalam phase is similar to pottery found in Agrigento, Sicily. A culture of megalithic temple builders then either supplanted or arose from this early period. Around the time of 3500 BC, these people built some of the oldest existing free-standing structures in the world in the form of the megalithic Ġgantija temples on Gozo;[43] other early temples include those at Ħaġar Qim and Mnajdra.[44][45][46]
 
 The temples have distinctive architecture, typically a complex trefoil design, and were used from 4000 to 2500 BC. Animal bones and a knife found behind a removable altar stone suggest that temple rituals included animal sacrifice. Tentative information suggests that the sacrifices were made to the goddess of fertility, whose statue is now in the National Museum of Archaeology in Valletta.[47] The culture apparently disappeared from the Maltese Islands around 2500 BC. Archaeologists speculate that the temple builders fell victim to famine or disease, but this is not certain.
 
@@ -46,7 +46,7 @@ Greeks, Phoenicians, Carthaginians and Romans
 
 Phoenician traders[52] colonised the islands sometime after 1000 BC[53] as a stop on their trade routes from the eastern Mediterranean to Cornwall, joining the natives on the island.[54] The Phoenicians inhabited the area now known as Mdina, and its surrounding town of Rabat, which they called _Maleth_.[55][56] The Romans, who also much later inhabited Mdina, referred to it (and the island) as _Melita_.[57]
 
-Roman_Malta.jpg mosaic from the Domvs Romana]] After the fall of Phoenicia in 332 BC, the area came under the control of Carthage, a former Phoenician colony.[58][59] During this time the people on Malta mainly cultivated olives and carob and produced textiles.[60]
+mosaic from the Domvs Romana]] After the fall of Phoenicia in 332 BC, the area came under the control of Carthage, a former Phoenician colony.[58][59] During this time the people on Malta mainly cultivated olives and carob and produced textiles.[60]
 
 During the First Punic War, the island was conquered after harsh fighting by Marcus Atilius Regulus.[61] After the failure of his expedition, the island fell back in the hands of Carthage, only to be conquered again in 218 BC, during the Second Punic War, by Roman Consul Tiberius Sempronius Longus.[62] After that, Malta became _Foederata Civitas_, a designation that meant it was exempt from paying tribute or the rule of Roman law, and fell within the jurisdiction of the province of Sicily.[63] Punic influence, however, remained vibrant on the islands with the famous Cippi of Melqart, pivotal in deciphering the Punic language, dedicated in the 2nd century BC.[64][65] Also the local Roman coinage, which ceased in the 1st century BC,[66] indicates the slow pace of the island's Romanization, since the very last locally minted coins still bear inscriptions in Ancient Greek on the obverse (like "ΜΕΛΙΤΑΙΩ", meaning "of the Maltese") and Punic motifs, showing the resistance of the Greek and Punic cultures.[67]
 
@@ -58,15 +58,15 @@ In 395, when the Roman Empire was divided for the last time at the death of Theo
 
 Arab period and the Middle Ages
 
-Mahmuna_Tombstone.jpeg, a Roman period marble stone, was reused as a 12th-century tombstone believed to have been found in Gozo.]] Malta became involved in the Arab–Byzantine wars, and the conquest of Malta is closely linked with that of Sicily that began in 827 after Admiral Euphemius' betrayal of his fellow Byzantines, requesting that the Aghlabids invade the island.[83] The Muslim chronicler and geographer al-Himyari recounts that in 870, following a violent struggle against the occupying Byzantines, the Arab invaders, first led by Halaf al-Hadim, and later by Sawada ibn Muhammad,[84] looted and pillaged the island, destroying the most important buildings, and leaving it practically uninhabited until it was recolonised by the Arabs from Sicily in 1048–1049.[85] It is uncertain whether this new settlement took place as a consequence of demographic expansion in Sicily, as a result of a higher standard of living in Sicily (in which case the recolonisation may have taken place a few decades earlier), or as a result of civil war which broke out among the Arab rulers of Sicily in 1038.[86] The Arab Agricultural Revolution introduced new irrigation, some fruits and cotton, and the Siculo-Arabic language was adopted on the island from Sicily; it would eventually evolve into the Maltese language.[87]
+, a Roman period marble stone, was reused as a 12th-century tombstone believed to have been found in Gozo.]] Malta became involved in the Arab–Byzantine wars, and the conquest of Malta is closely linked with that of Sicily that began in 827 after Admiral Euphemius' betrayal of his fellow Byzantines, requesting that the Aghlabids invade the island.[83] The Muslim chronicler and geographer al-Himyari recounts that in 870, following a violent struggle against the occupying Byzantines, the Arab invaders, first led by Halaf al-Hadim, and later by Sawada ibn Muhammad,[84] looted and pillaged the island, destroying the most important buildings, and leaving it practically uninhabited until it was recolonised by the Arabs from Sicily in 1048–1049.[85] It is uncertain whether this new settlement took place as a consequence of demographic expansion in Sicily, as a result of a higher standard of living in Sicily (in which case the recolonisation may have taken place a few decades earlier), or as a result of civil war which broke out among the Arab rulers of Sicily in 1038.[86] The Arab Agricultural Revolution introduced new irrigation, some fruits and cotton, and the Siculo-Arabic language was adopted on the island from Sicily; it would eventually evolve into the Maltese language.[87]
 
 The Christians on the island were allowed freedom of religion; they had to pay jizya, a tax for non-Muslims, but were exempt from the tax that Muslims had to pay (zakat).[88]
 
 Norman conquest
 
-Roger_I_of_Sicily.jpg returned Malta to Christian rule.]] The Normans attacked Malta in 1091, as part of their conquest of Sicily.[89] The Norman leader, Roger I of Sicily, was welcomed by Christian captives.[90] The notion that Count Roger I reportedly tore off a portion of his checkered red-and-white banner and presented it to the Maltese in gratitude for having fought on his behalf, forming the basis of the modern flag of Malta, is founded in myth.[91][92]
+returned Malta to Christian rule.]] The Normans attacked Malta in 1091, as part of their conquest of Sicily.[89] The Norman leader, Roger I of Sicily, was welcomed by Christian captives.[90] The notion that Count Roger I reportedly tore off a portion of his checkered red-and-white banner and presented it to the Maltese in gratitude for having fought on his behalf, forming the basis of the modern flag of Malta, is founded in myth.[91][92]
 
-Malta_by_Piri_Reis.jpg map of Malta, by Piri Reis]] The Norman period was productive; Malta became part of the newly formed Kingdom of Sicily, which also covered the island of Sicily and the southern half of the Italian Peninsula.[93] The Catholic Church was reinstated as the state religion, with Malta under the See of Palermo, and some Norman architecture sprang up around Malta, especially in its ancient capital Mdina.[94] Tancred, King of Sicily, the second to last Norman monarch, made Malta a fief of the kingdom and installed a Count of Malta in 1192. As the islands were much desired due to their strategic importance, it was during this time that the men of Malta were militarised to fend off attempted conquest; early Counts were skilled Genoese privateers.[95]
+map of Malta, by Piri Reis]] The Norman period was productive; Malta became part of the newly formed Kingdom of Sicily, which also covered the island of Sicily and the southern half of the Italian Peninsula.[93] The Catholic Church was reinstated as the state religion, with Malta under the See of Palermo, and some Norman architecture sprang up around Malta, especially in its ancient capital Mdina.[94] Tancred, King of Sicily, the second to last Norman monarch, made Malta a fief of the kingdom and installed a Count of Malta in 1192. As the islands were much desired due to their strategic importance, it was during this time that the men of Malta were militarised to fend off attempted conquest; early Counts were skilled Genoese privateers.[95]
 
 The kingdom passed on to the dynasty of Hohenstaufen from 1194 until 1266. During this period, when Frederick II of Hohenstaufen began to reorganise his Sicilian kingdom, Western culture and religion began to exert their influence more intensely.[96] Malta was declared a county and a marquisate, but its trade was totally ruined. For a long time it remained solely a fortified garrison.[97]
 
@@ -76,17 +76,17 @@ For a brief period, the kingdom passed to the Capetian House of Anjou,[102] but 
 
 Crown of Aragon rule and the Knights of Malta
 
-Bandiera_del_Regno_di_Sicilia_4.svg]] Malta was ruled by the House of Barcelona, an Aragonese dynasty from 1282 to 1409,[104] with the Aragonese aiding the Maltese insurgents in the Sicilian Vespers in a naval battle in Grand Harbour in 1283.[105]
+]] Malta was ruled by the House of Barcelona, an Aragonese dynasty from 1282 to 1409,[104] with the Aragonese aiding the Maltese insurgents in the Sicilian Vespers in a naval battle in Grand Harbour in 1283.[105]
 
 Relatives of the kings of Aragon ruled the island until 1409, when it formally passed to the Crown of Aragon. Early on in the Aragonese ascendancy, the sons of the monarchy received the title, "Count of Malta". During this time much of the local nobility was created. By 1397, however, the bearing of the title "Count of Malta" reverted to a feudal basis, with two families fighting over the distinction, which caused some conflict. This led the Martin I of Sicily to abolish the title. Dispute over the title returned when the title was reinstated a few years later and the Maltese, led by the local nobility, rose up against Count Gonsalvo Monroy.[106] Although they opposed the Count, the Maltese voiced their loyalty to the Sicilian Crown, which so impressed Alfonso V of Aragon that he did not punish the people for their rebellion. Instead, he promised never to grant the title to a third party, and incorporated it back into the crown. The city of Mdina was given the title of _Città Notabile_ as a result of this sequence of events.[107]
 
-JPDV.jpg, the founder of Valletta]] Malta_Mdina_BW_2011-10-05_12-41-38.JPG built in the Baroque style]] On 23 March 1530,[108] Charles V, Holy Roman Emperor, gave the islands to the Knights Hospitaller under the leadership of Frenchman Philippe Villiers de L'Isle-Adam, Grand Master of the Order,[109][110] in perpetual lease for which they had to pay an annual tribute of one single Maltese Falcon.[111][112][113][114][115][116][117] These knights, a military religious order now known as the Knights of Malta, had been driven out of Rhodes by the Ottoman Empire in 1522.[118]
+, the founder of Valletta]] built in the Baroque style]] On 23 March 1530,[108] Charles V, Holy Roman Emperor, gave the islands to the Knights Hospitaller under the leadership of Frenchman Philippe Villiers de L'Isle-Adam, Grand Master of the Order,[109][110] in perpetual lease for which they had to pay an annual tribute of one single Maltese Falcon.[111][112][113][114][115][116][117] These knights, a military religious order now known as the Knights of Malta, had been driven out of Rhodes by the Ottoman Empire in 1522.[118]
 
 The Order of Saint John (also known as the Knights Hospitaller, or the Knights of Malta) were the rulers of Malta and Gozo between 1530 and 1798.[119] During this period, the strategic and military importance of the island grew greatly as the small yet efficient fleet of the Order of Saint John launched their attacks from this new base targeting the shipping lanes of the Ottoman territories around the Mediterranean Sea.[120][121]
 
 In 1551, the population of the island of Gozo (around 5,000 people) were enslaved by Barbary pirates and taken to the Barbary Coast in North Africa.[122]
 
-Michelangelo_Caravaggio_021.jpg'', by Caravaggio. Oil on canvas, . Oratory of the Co-Cathedral.]] The knights, led by Frenchman Jean Parisot de Valette, Grand Master of the Order, withstood the Great Siege of Malta by the Ottomans in 1565.[123] The knights, with the help of Spanish and Maltese forces, were victorious and repelled the attack. Speaking of the battle Voltaire said, "Nothing is better known than the siege of Malta."[124][125] After the siege they decided to increase Malta's fortifications, particularly in the inner-harbour area, where the new city of Valletta, named in honour of Valette, was built. They also established watchtowers along the coasts – the Wignacourt, Lascaris and De Redin towers – named after the Grand Masters who ordered the work. The Knights' presence on the island saw the completion of many architectural and cultural projects, including the embellishment of Città Vittoriosa (modern Birgu), the construction of new cities including Città Rohan (modern Żebbuġ) . Zebbug is one of the oldest cities of Malta, it also has one of the largest squares of Malta.
+'', by Caravaggio. Oil on canvas, . Oratory of the Co-Cathedral.]] The knights, led by Frenchman Jean Parisot de Valette, Grand Master of the Order, withstood the Great Siege of Malta by the Ottomans in 1565.[123] The knights, with the help of Spanish and Maltese forces, were victorious and repelled the attack. Speaking of the battle Voltaire said, "Nothing is better known than the siege of Malta."[124][125] After the siege they decided to increase Malta's fortifications, particularly in the inner-harbour area, where the new city of Valletta, named in honour of Valette, was built. They also established watchtowers along the coasts – the Wignacourt, Lascaris and De Redin towers – named after the Grand Masters who ordered the work. The Knights' presence on the island saw the completion of many architectural and cultural projects, including the embellishment of Città Vittoriosa (modern Birgu), the construction of new cities including Città Rohan (modern Żebbuġ) . Zebbug is one of the oldest cities of Malta, it also has one of the largest squares of Malta.
 
 Città Hompesch (modern Żabbar) is a village which is also very old. Approximately 11,000 people out of a population of 60,000 died of plague in 1675.[126]
 
@@ -94,7 +94,7 @@ French period
 
 The Knights' reign ended when Napoleon captured Malta on his way to Egypt during the French Revolutionary Wars in 1798. Over the years preceding Napoleon's capture of the islands, the power of the Knights had declined and the Order had become unpopular. Napoleon's fleet arrived in 1798, en route to his expedition of Egypt. As a ruse towards the Knights, Napoleon asked for safe harbour to resupply his ships, and then turned his guns against his hosts once safely inside Valletta. Grand Master Hompesch capitulated, and Napoleon entered Malta.[127]
 
-Napoleonbonapartemalta.jpg in Valletta]] During 12–18 June 1798, Napoleon resided at the Palazzo Parisio in Valletta.[128][129][130] He reformed national administration with the creation of a Government Commission, twelve municipalities, a public finance administration, the abolition of all feudal rights and privileges, the abolition of slavery and the granting of freedom to all Turkish and Jewish slaves.[131][132] On the judicial level, a family code was framed and twelve judges were nominated. Public education was organised along principles laid down by Bonaparte himself, providing for primary and secondary education.[133][134] He then sailed for Egypt leaving a substantial garrison in Malta.[135]
+in Valletta]] During 12–18 June 1798, Napoleon resided at the Palazzo Parisio in Valletta.[128][129][130] He reformed national administration with the creation of a Government Commission, twelve municipalities, a public finance administration, the abolition of all feudal rights and privileges, the abolition of slavery and the granting of freedom to all Turkish and Jewish slaves.[131][132] On the judicial level, a family code was framed and twelve judges were nominated. Public education was organised along principles laid down by Bonaparte himself, providing for primary and secondary education.[133][134] He then sailed for Egypt leaving a substantial garrison in Malta.[135]
 
 The French forces left behind became unpopular with the Maltese, due particularly to the French forces' hostility towards Catholicism and pillaging of local churches to fund Napoleon's war efforts. French financial and religious policies so angered the Maltese that they rebelled, forcing the French to depart. Great Britain, along with the Kingdom of Naples and the Kingdom of Sicily, sent ammunition and aid to the Maltese and Britain also sent her navy, which blockaded the islands.[136]
 
@@ -102,7 +102,7 @@ General Claude-Henri Belgrand de Vaubois surrendered his French forces in 1800.[
 
 British Empire and the Second World War
 
-British_palazzo_parisio.jpg during the British Protectorate (1802) at Palazzo Parisio]] BombDamageMalta.jpg during the Siege of Malta, 1942]] In 1814, as part of the Treaty of Paris,[140][141] Malta officially became a part of the British Empire and was used as a shipping way-station and fleet headquarters. After the Suez Canal opened in 1869, Malta's position halfway between the Strait of Gibraltar and Egypt proved to be its main asset, and it was considered an important stop on the way to India, a central trade route for the British. Because of its position, several culinary and botanical products were introduced in Malta; some examples (derived from the National Book of Trade Customs found in the National Library) include wheat (for bread making) and bacon.
+during the British Protectorate (1802) at Palazzo Parisio]] during the Siege of Malta, 1942]] In 1814, as part of the Treaty of Paris,[140][141] Malta officially became a part of the British Empire and was used as a shipping way-station and fleet headquarters. After the Suez Canal opened in 1869, Malta's position halfway between the Strait of Gibraltar and Egypt proved to be its main asset, and it was considered an important stop on the way to India, a central trade route for the British. Because of its position, several culinary and botanical products were introduced in Malta; some examples (derived from the National Book of Trade Customs found in the National Library) include wheat (for bread making) and bacon.
 
 Between 1915 and 1918, during the First World War, Malta became known as _the Nurse of the Mediterranean_ due to the large number of wounded soldiers who were accommodated in Malta.[142] In 1919 British troops fired on a rally protesting against new taxes, killing four Maltese men. The event, known as Sette Giugno (Italian for _7 June_), is commemorated every year and is one of five National Days.[143][144]
 
@@ -112,7 +112,7 @@ During the Second World War, Malta played an important role for the Allies; bein
 
 Independence and Republic
 
-Denkmal_an_die_Unabhängigkeit_Maltas_in_Valletta.jpg]] Tratado_de_Lisboa_13_12_2007_(081).jpg in 2007.]]
+]] in 2007.]]
 
 Malta achieved its independence as the State of Malta on 21 September 1964 (Independence Day) after intense negotiations with the United Kingdom, led by Maltese Prime Minister George Borġ Olivier. Under its 1964 constitution, Malta initially retained Queen Elizabeth II as Queen of Malta and thus head of state, with a governor-general exercising executive authority on her behalf. In 1971, the Malta Labour Party led by Dom Mintoff won the general elections, resulting in Malta declaring itself a republic on 13 December 1974 (Republic Day) within the Commonwealth, with the President as head of state. A defence agreement was signed soon after independence, and after being re-negotiated in 1972, expired on 31 March 1979.[152] Upon its expiry, the British base closed down and all lands formerly controlled by the British on the island were given up to the Maltese government.[153]
 
@@ -125,7 +125,7 @@ Malta joined the European Union on 1 May 2004.[159] Following the European Counc
 
 Politics
 
-Malta_Valletta_BW_2011-10-07_10-41-05.JPG in Valletta]] Malta is a republic[161] whose parliamentary system and public administration are closely modelled on the Westminster system. Malta had the second-highest voter turnout in the world (and the highest for nations without mandatory voting), based on election turnout in national lower house elections from 1960 to 1995.[162] The unicameral Parliament is made up of the President of Malta and the House of Representatives (). The President of Malta, a largely ceremonial position, is appointed for a five-year term by a resolution of the House of Representatives carried by a simple majority. Members of the House of Representatives are elected by direct universal suffrage through single transferable vote every five years, unless the House is dissolved earlier by the president either on advice of the prime minister or through the adoption of a motion of no confidence carried within the House of Representatives and not overturned within three days. In either of these cases, the president may alternatively choose to invite another Member of Parliament who invariably should command the majority of the House of Representatives to form an alternative government for the remainder of the legislature.
+in Valletta]] Malta is a republic[161] whose parliamentary system and public administration are closely modelled on the Westminster system. Malta had the second-highest voter turnout in the world (and the highest for nations without mandatory voting), based on election turnout in national lower house elections from 1960 to 1995.[162] The unicameral Parliament is made up of the President of Malta and the House of Representatives (). The President of Malta, a largely ceremonial position, is appointed for a five-year term by a resolution of the House of Representatives carried by a simple majority. Members of the House of Representatives are elected by direct universal suffrage through single transferable vote every five years, unless the House is dissolved earlier by the president either on advice of the prime minister or through the adoption of a motion of no confidence carried within the House of Representatives and not overturned within three days. In either of these cases, the president may alternatively choose to invite another Member of Parliament who invariably should command the majority of the House of Representatives to form an alternative government for the remainder of the legislature.
 
 The House of Representatives is nominally made up of 65 members of parliament whereby 5 members of parliament are elected from each of the thirteen electoral districts. However, where a party wins an absolute majority of votes, but does not have a majority of seats, that party is given additional seats to ensure a parliamentary majority. The 80th article of the Constitution of Malta provides that the president appoint as prime minister "... the member of the House of Representatives who, in his judgment, is best able to command the support of a majority of the members of that House".[163]
 
@@ -135,7 +135,7 @@ Until the Second World War, Maltese politics was dominated by the language quest
 
 Administrative divisions
 
-Malta_-_administrative_division.svg of Malta]]
+of Malta]]
 
 Malta has had a system of local government since 1993,[165] based on the European Charter of Local Self-Government. The country is divided into five regions (one of them being Gozo), with each region having its own Regional Committee, serving as the intermediate level between local government and national government.[166] The regions are divided into local councils, of which there are currently 68 (54 in Malta and 14 in Gozo). Sixteen "hamlets", which form part of larger councils, have their own Administrative Committee. The six districts (five on Malta and the sixth being Gozo) serve primarily statistical purposes.[167]
 
@@ -145,7 +145,7 @@ Local councils are responsible for the general upkeep and embellishment of the l
 
 Military
 
-US_Navy_111205-N-FV216-139_The_Armed_Forces_of_Malta_counter_piracy_vessel_protection_detachment_demonstrates_aerial_boarding_procedures_during_Eur.jpg of the Maritime Squadron of the AFM]]
+of the Maritime Squadron of the AFM]]
 
 The objectives of the Armed Forces of Malta (AFM) are to maintain a military organisation with the primary aim of defending the islands' integrity according to the defence roles as set by the government in an efficient and cost-effective manner. This is achieved by emphasising the maintenance of Malta's territorial waters and airspace integrity.
 
@@ -158,13 +158,11 @@ On another level, the AFM establishes or consolidates bilateral co-operation wit
 
 Geography
 
-General_map_of_Malta.svg
-
 Malta is an archipelago in the central Mediterranean (in its eastern basin), some southern Italy across the Malta Channel. Only the three largest islands – Malta (Malta), Gozo (Għawdex) and Comino (Kemmuna) – are inhabited. The islands of the archipelago lie on the Malta plateau, a shallow shelf formed from the high points of a land bridge between Sicily and North Africa that became isolated as sea levels rose after the last Ice Age.[169] The archipelago is therefore situated in the zone between the Eurasian and African tectonic plates.[170][171] Malta was considered an island of North Africa for centuries.[172]
 
 Numerous bays along the indented coastline of the islands provide good harbours. The landscape consists of low hills with terraced fields. The highest point in Malta is Ta' Dmejrek, at , near Dingli. Although there are some small rivers at times of high rainfall, there are no permanent rivers or lakes on Malta. However, some watercourses have fresh water running all year round at Baħrija near Ras ir-Raħeb, at l-Imtaħleb and San Martin, and at Lunzjata Valley in Gozo.
 
-Phytogeographically, Malta belongs to the Liguro-Tyrrhenian province of the Mediterranean Region within the Boreal Kingdom. According to the WWF, the territory of Malta belongs to the ecoregion of "Mediterranean Forests, Woodlands and Scrub".[173] Malta_-_Mgarr_(Fort_Bingemma_)_01_ies.jpg
+Phytogeographically, Malta belongs to the Liguro-Tyrrhenian province of the Mediterranean Region within the Boreal Kingdom. According to the WWF, the territory of Malta belongs to the ecoregion of "Mediterranean Forests, Woodlands and Scrub".[173]
 
 The minor islands that form part of the archipelago are uninhabited and include:
 
@@ -189,7 +187,7 @@ The minor islands that form part of the archipelago are uninhabited and include:
 
 Climate
 
-Blue_Lagoon_and_Cominotto.JPG and Cominotto island]] Malta has a Mediterranean climate (Köppen climate classification _Csa_),[174][175] with mild winters and hot summers, hotter in the inland areas. Rain occurs mainly in autumn and winter, with summer being generally dry.
+and Cominotto island]] Malta has a Mediterranean climate (Köppen climate classification _Csa_),[174][175] with mild winters and hot summers, hotter in the inland areas. Rain occurs mainly in autumn and winter, with summer being generally dry.
 
 The average yearly temperature is around during the day and at night. In the coldest month – January – the typical maximum temperature ranges from during the day and minimum at night. In the warmest month – August – the typical maximum temperature ranges from during the day and minimum at night. Amongst all capitals in the continent of Europe, Valletta – the capital of Malta has the warmest winters, with average temperatures of around during the day and at night in the period January–February. In March and December average temperatures are around during the day and at night.[176] Large fluctuations in temperature are rare. Snow is very rare on the island, although various snowfalls have been recorded in the last century, the last one reported in various locations across Malta in 2014.[177]
 
@@ -201,7 +199,7 @@ Sunshine duration hours total around 3,000 per year, from an average 5.2 hours o
 
 Urbanisation
 
-Valletta,_Malta.JPG is the central peninsula.]] According to Eurostat, Malta is composed of two larger urban zones nominally referred to as "Valletta" (the main island of Malta) and "Gozo". The main urban area covers the entire main island, with a population of around 400,000.[186][187] The core of the urban area, the _greater city_ of Valletta, has a population of 205,768.[188] According to Demographia, the Valletta urban area has a population of 300,000.[189] According to European Spatial Planning Observation Network, Malta is identified as functional urban area (FUA) with the population of 355,000.[190] According to the United Nations, about 95 per cent of the area of Malta is urban and the number grows every year.[191] Also, according to the results of ESPON and EU Commission studies, "_the whole territory of Malta constitutes a single urban region_".[192]
+is the central peninsula.]] According to Eurostat, Malta is composed of two larger urban zones nominally referred to as "Valletta" (the main island of Malta) and "Gozo". The main urban area covers the entire main island, with a population of around 400,000.[186][187] The core of the urban area, the _greater city_ of Valletta, has a population of 205,768.[188] According to Demographia, the Valletta urban area has a population of 300,000.[189] According to European Spatial Planning Observation Network, Malta is identified as functional urban area (FUA) with the population of 355,000.[190] According to the United Nations, about 95 per cent of the area of Malta is urban and the number grows every year.[191] Also, according to the results of ESPON and EU Commission studies, "_the whole territory of Malta constitutes a single urban region_".[192]
 
 Occasionally in the media,[193] books,[194] government publications and documents,[195][196][197] and in some international institutions[198], Malta is referred to as a city-state. Sometimes Malta is listed in rankings concerning cities[199] or metropolitan areas.[200] Also, the Maltese coat-of-arms bears a mural crown described as "representing the fortifications of Malta and denoting a City State".[201] Malta, with area of and population of 0.4 million, is one of the most densely populated countries worldwide.
 
@@ -214,15 +212,15 @@ File:Malta - St. Paul's Bay - Xemxija Heritage Trail - Roman Road - Ceratonia si
 
 Economy
 
-AIDAcara_Valetta.jpg Malta is classified as an advanced economy together with 32 other countries according to the International Monetary Fund (IMF).[204] Until 1800 Malta depended on cotton, tobacco and its shipyards for exports. Once under British control, they came to depend on Malta Dockyard for support of the Royal Navy, especially during the Crimean War of 1854. The military base benefited craftsmen and all those who served the military.
+Malta is classified as an advanced economy together with 32 other countries according to the International Monetary Fund (IMF).[204] Until 1800 Malta depended on cotton, tobacco and its shipyards for exports. Once under British control, they came to depend on Malta Dockyard for support of the Royal Navy, especially during the Crimean War of 1854. The military base benefited craftsmen and all those who served the military.
 
 In 1869, the opening of the Suez Canal gave Malta's economy a great boost, as there was a massive increase in the shipping which entered the port. Ships stopping at Malta's docks for refuelling helped the Entrepôt trade, which brought additional benefits to the island.
 
-However, towards the end of the 19th century the economy began declining, and by the 1940s Malta's economy was in serious crisis. One factor was the longer range of newer merchant ships that required less frequent refuelling stops. Mediterraneo_dolphin_show_1.JPG Currently, Malta's major resources are limestone, a favourable geographic location and a productive labour force. Malta produces only about 20 per cent of its food needs, has limited freshwater supplies because of the drought in the summer and has no domestic energy sources, aside from the potential for solar energy from its plentiful sunlight. The economy is dependent on foreign trade (serving as a freight trans-shipment point), manufacturing (especially electronics and textiles) and tourism.
+However, towards the end of the 19th century the economy began declining, and by the 1940s Malta's economy was in serious crisis. One factor was the longer range of newer merchant ships that required less frequent refuelling stops. Currently, Malta's major resources are limestone, a favourable geographic location and a productive labour force. Malta produces only about 20 per cent of its food needs, has limited freshwater supplies because of the drought in the summer and has no domestic energy sources, aside from the potential for solar energy from its plentiful sunlight. The economy is dependent on foreign trade (serving as a freight trans-shipment point), manufacturing (especially electronics and textiles) and tourism.
 
 Film production is a growing contributor to the Maltese economy.[205] The first film was shot in Malta in 1925 (_Sons of the Sea_);[206] over 100 feature films have been entirely or partially filmed in the country since then. Malta has served as a "double" for a wide variety of locations and historic periods including Ancient Greece, Ancient and Modern Rome, Iraq, the Middle East and many more.[207] The Maltese government introduced financial incentives for filmmakers in 2005.[208] The current financial incentives to foreign productions as of 2015 stand at 25 per cent with an additional 2 per cent if Malta stands in as Malta; meaning a production can get up to 27 per cent back on their eligible spending incurred in Malta.[209]
 
-BlueEurozone.svg (dark blue)]] The government is investing heavily in education, including college.
+(dark blue)]] The government is investing heavily in education, including college.
 
 In preparation for Malta's membership in the European Union, which it joined on 1 May 2004, it privatised some state-controlled firms and liberalised markets. For example, the government announced on 8 January 2007 that it was selling its 40 per cent stake in MaltaPost, to complete a privatisation process which has been ongoing for the past five years. In 2010, Malta managed to privatise telecommunications, postal services, shipyards and shipbuilding.
 
@@ -236,7 +234,7 @@ According to Eurostat data, Maltese GDP per capita stood at 88 per cent of the E
 
 Banking and finance
 
-Malta_-_St._Julian's_(Triq_it-Torri_(Sliema))_03_ies.jpg, the tallest building in Malta]] The two largest commercial banks are Bank of Valletta and HSBC Bank Malta, both of which can trace their origins back to the 19th century.
+, the tallest building in Malta]] The two largest commercial banks are Bank of Valletta and HSBC Bank Malta, both of which can trace their origins back to the 19th century.
 
 The Central Bank of Malta (Bank Ċentrali ta' Malta) has two key areas of responsibility: the formulation and implementation of monetary policy and the promotion of a sound and efficient financial system. It was established by the Central Bank of Malta Act on 17 April 1968. The Maltese government entered ERM II on 4 May 2005, and adopted the euro as the country's currency on 1 January 2008.[213]
 
@@ -244,17 +242,17 @@ FinanceMalta is the quasi-governmental organisation tasked with marketing and ed
 
 Transport
 
-Map_of_Malta_2.png Traffic in Malta drives on the left. Car ownership in Malta is exceedingly high, considering the very small size of the islands; it is the fourth-highest in the European Union. The number of registered cars in 1990 amounted to 182,254, giving an automobile density of .[215]
+Traffic in Malta drives on the left. Car ownership in Malta is exceedingly high, considering the very small size of the islands; it is the fourth-highest in the European Union. The number of registered cars in 1990 amounted to 182,254, giving an automobile density of .[215]
 
 Malta has of road, (87.5 per cent) of which are paved and were unpaved (as of December 2003).[216] The main roads of Malta from the southernmost point to the northernmost point are these: Triq Birżebbuġa in Birżebbuġa, Għar Dalam Road and Tal-Barrani Road in Żejtun, Santa Luċija Avenue in Paola, Aldo Moro Street (Trunk Road), 13 December Street and Ħamrun-Marsa Bypass in Marsa, Regional Road in Santa Venera/Msida/Gżira/San Ġwann, St Andrew's Road in Swieqi/Pembroke, Malta, Coast Road in Baħar iċ-Ċagħaq, Salina Road, Kennedy Drive, St. Paul's Bypass and Xemxija Hill in San Pawl il-Baħar, Mistra Hill, Wettinger Street (Mellieħa Bypass) and Marfa Road in Mellieħa.
 
-Malta_Busse_2016.jpg'' buses]] Buses (_xarabank_ or _karozza tal-linja_) are the primary method of public transport. Established in 1905, they operated in the Maltese islands up to 2011 and became popular tourist attractions in their own right.[217] To this day they are depicted on many Maltese advertisements to promote tourism as well as on gifts and merchandise for tourists.
+'' buses]] Buses (_xarabank_ or _karozza tal-linja_) are the primary method of public transport. Established in 1905, they operated in the Maltese islands up to 2011 and became popular tourist attractions in their own right.[217] To this day they are depicted on many Maltese advertisements to promote tourism as well as on gifts and merchandise for tourists.
 
 The bus service underwent an extensive reform in July 2011. The management structure changed from having self-employed drivers driving their own vehicles to a service being offered by a single company through a public tender (in Gozo, being considered as a small network, the service was given through direct order).[218] The public tender was won by Arriva Malta, a member of the Arriva group, which introduced a fleet of brand new buses, built by King Long especially for service by Arriva Malta and including a smaller fleet of articulated buses brought in from Arriva London. It also operated two smaller buses for an intra-Valletta route only and 61 nine-metre buses, which were used to ease congestion on high density routes. Overall Arriva Malta operated 264 buses. On 1 January 2014 Arriva ceased operations in Malta due to financial difficulties, having been nationalised as _Malta Public Transport_ by the Maltese government, with a new bus operator planned to take over their operations in the near future.[219][220] The government chose Autobuses Urbanos de León as its preferred bus operator for the country in October 2014.[221] The company took over the bus service on 8 January 2015, while retaining the name _Malta Public Transport_.[222] It introduced the pre-pay 'tallinja card'. With lower fares than the walk-on rate, it can be topped up online. The card was initially not well received, as reported by several local news sites.[223] During the first week of August 2015, another 40 buses of the Turkish make _Otokar_ arrived and were put into service.[224]
 
 From 1883 to 1931 Malta had a railway line that connected Valletta to the army barracks at Mtarfa via Mdina and a number of towns and villages. The railway fell into disuse and eventually closed altogether, following the introduction of electric trams and buses.[225] At the height of the bombing of Malta during the Second World War, Mussolini announced that his forces had destroyed the railway system, but by the time war broke out, the railway had been mothballed for more than nine years.
 
-Valletta-Harbour.jpg]] Malta_Freeport_from_Pretty_Bay_at_Birzebbuga.jpg, one of the largest European ports]]
+]] , one of the largest European ports]]
 
 Malta has three large natural harbours on its main island:
 
@@ -264,13 +262,13 @@ Malta has three large natural harbours on its main island:
 
 There are also two-man-made harbours that serve a passenger and car ferry service that connects Ċirkewwa Harbour on Malta and Mġarr Harbour on Gozo. The ferry makes numerous runs each day.
 
-Malta_International_Airport2.jpg]]
+]]
 
 Malta International Airport (Ajruport Internazzjonali ta' Malta) is the only airport serving the Maltese islands. It is built on the land formerly occupied by the RAF Luqa air base. A heliport is also located there, but the scheduled service to Gozo ceased in 2006. The heliport in Gozo is at Xewkija. Since June 2007, Harbour Air Malta has operated a thrice-daily floatplane service between the sea terminal in Grand Harbour and Mgarr Harbour in Gozo.
 
 Two further airfields at Ta' Qali and Ħal Far operated during the Second World War and into the 1960s but are now closed. Today, Ta' Qali houses a national park, stadium, the Crafts Village visitor attraction and the Malta Aviation Museum. This museum preserves several aircraft, including Hurricane and Spitfire fighters that defended the island in the Second World War.
 
-9H-AEP_A320_Air_Malta_(14806272801).jpg.]]
+.]]
 
 The national airline is Air Malta, which is based at Malta International Airport and operates services to 36 destinations in Europe and North Africa. The owners of Air Malta are the Government of Malta (98 per cent) and private investors (2 percent). Air Malta employs 1,547 staff. It has a 25 per cent shareholding in Medavia.
 
@@ -298,8 +296,6 @@ From 1972 until introduction of the Euro in 2008, the currency was the Maltese l
 
 Tourism
 
-Mellieha_Bay_beach_Malta_1.jpg
-
 Malta is a popular tourist destination, with 1.6 million tourists per year.[230] Three times more tourists visit than there are residents. Tourism infrastructure has increased dramatically over the years and a number of hotels are present on the island, although overdevelopment and the destruction of traditional housing is of growing concern. An increasing number of Maltese now travel abroad on holiday.[231]
 
 In recent years, Malta has advertised itself as a medical tourism destination,[232] and a number of health tourism providers are developing the industry. However, no Maltese hospital has undergone independent international healthcare accreditation. Malta is popular with British medical tourists,[233] pointing Maltese hospitals towards seeking UK-sourced accreditation, such as with the Trent Accreditation Scheme.
@@ -319,7 +315,7 @@ The only census year showing a fall in population was that of 1967, with a 1.7 p
 
 All censuses since 1842 have shown a slight excess of females over males. The 1901 and 1911 censuses came closest to recording a balance . The highest female-to-male ratio was reached in 1957 (1088:1000) but since then the ratio has dropped continuously. The 2005 census showed a 1013:1000 female-to-male ratio . Population growth has slowed down, from +9.5 per cent between the 1985 and 1995 censuses, to +6.9 per cent between the 1995 and 2005 censuses (a yearly average of +0.7 per cent) . The birth rate stood at 3860 (a decrease of 21.8 per cent from the 1995 census) and the death rate stood at 3025. Thus, there was a natural population increase of 835 (compared to +888 for 2004, of which over a hundred were foreign residents).[241]
 
-Valletta.jpg, Malta's capital city]] The population's age composition is similar to the age structure prevalent in the EU . Since 1967 there was observed a trend indicating an ageing population, and is expected to continue in the foreseeable future. Malta's old-age-dependency-ratio rose from 17.2 per cent in 1995 to 19.8 per cent in 2005, reasonably lower than the EU's 24.9 per cent average; 31.5 per cent of the Maltese population is aged under 25 (compared to the EU's 29.1 per cent); but the 50–64 age group constitutes 20.3 per cent of the population, significantly higher than the EU's 17.9 per cent. Malta's old-age-dependency-ratio is expected to continue rising steadily in the coming years .
+, Malta's capital city]] The population's age composition is similar to the age structure prevalent in the EU . Since 1967 there was observed a trend indicating an ageing population, and is expected to continue in the foreseeable future. Malta's old-age-dependency-ratio rose from 17.2 per cent in 1995 to 19.8 per cent in 2005, reasonably lower than the EU's 24.9 per cent average; 31.5 per cent of the Maltese population is aged under 25 (compared to the EU's 29.1 per cent); but the 50–64 age group constitutes 20.3 per cent of the population, significantly higher than the EU's 17.9 per cent. Malta's old-age-dependency-ratio is expected to continue rising steadily in the coming years .
 
 Maltese legislation recognises both civil and canonical (ecclesiastical) marriages. Annulments by the ecclesiastical and civil courts are unrelated and are not necessarily mutually endorsed. Malta voted in favour of divorce legislation in a referendum held on 28 May 2011.[242] Abortion in Malta is illegal. A person must be 16 to marry.[243] The number of brides aged under 25 decreased from 1471 in 1997 to 766 in 2005; while the number of grooms under 25 decreased from 823 to 311. There is a constant trend that females are more likely than males to marry young. In 2005 there were 51 brides aged between 16 and 19, compared to 8 grooms.[244]
 
@@ -329,7 +325,7 @@ The total fertility rate (TFR) was estimated at 1.45 children born/woman, which 
 
 Languages
 
-Il-Kantilena.png'' by Pietru Caxaro, the oldest text in Maltese language, 15th century]] The Maltese language () is one of the two constitutional languages of Malta, having become official, however, only in 1934, and being considered as the national language. Previously, Sicilian was the official and cultural language of Malta from the 12th century, and Tuscan dialect of Italian from the 16th century. Alongside Maltese, English is also an official language of the country and hence the laws of the land are enacted both in Maltese and English. However, article 74 of the Constitution states that "... if there is any conflict between the Maltese and the English texts of any law, the Maltese text shall prevail."[249]
+'' by Pietru Caxaro, the oldest text in Maltese language, 15th century]] The Maltese language () is one of the two constitutional languages of Malta, having become official, however, only in 1934, and being considered as the national language. Previously, Sicilian was the official and cultural language of Malta from the 12th century, and Tuscan dialect of Italian from the 16th century. Alongside Maltese, English is also an official language of the country and hence the laws of the land are enacted both in Maltese and English. However, article 74 of the Constitution states that "... if there is any conflict between the Maltese and the English texts of any law, the Maltese text shall prevail."[249]
 
 Maltese is a Semitic language descended from the now extinct Sicilian-Arabic (Siculo-Arabic) dialect (from southern Italy) that developed during the Emirate of Sicily.[250] The Maltese alphabet consists of 30 letters based on the Latin alphabet, including the diacritically altered letters _ż_, _ċ_ and _ġ_, as well as the letters _għ_, _ħ_, and _ie_.
 
@@ -361,9 +357,9 @@ The Acts of the Council of Chalcedon record that in 451 AD a certain Acacius was
 
 Maltese historian Giovanni Francesco Abela states that following their conversion to Christianity at the hand of St. Paul, the Maltese retained their Christian religion, despite the Fatimid invasion.[262] Abela's writings describe Malta as a divinely ordained "bulwark of Christian, European civilization against the spread of Mediterranean Islam".[263] The native Christian community that welcomed Roger I of Sicily[264] was further bolstered by immigration to Malta from Italy, in the 12th and 13th centuries.
 
-ZTN_city_center.jpg city centre parish church]] For centuries, the Church in Malta was subordinate to the Diocese of Palermo, except when it was under Charles of Anjou, who appointed bishops for Malta, as did – on rare occasions – the Spanish and later, the Knights. Since 1808 all bishops of Malta have been Maltese. As a result of the Norman and Spanish periods, and the rule of the Knights, Malta became the devout Catholic nation that it is today. It is worth noting that the Office of the Inquisitor of Malta had a very long tenure on the island following its establishment in 1530: the last Inquisitor departed from the Islands in 1798, after the Knights capitulated to the forces of Napoleon Bonaparte. During the period of the Republic of Venice, several Maltese families emigrated to Corfu. Their descendants account for about two-thirds of the community of some 4,000 Catholics that now live on that island.
+city centre parish church]] For centuries, the Church in Malta was subordinate to the Diocese of Palermo, except when it was under Charles of Anjou, who appointed bishops for Malta, as did – on rare occasions – the Spanish and later, the Knights. Since 1808 all bishops of Malta have been Maltese. As a result of the Norman and Spanish periods, and the rule of the Knights, Malta became the devout Catholic nation that it is today. It is worth noting that the Office of the Inquisitor of Malta had a very long tenure on the island following its establishment in 1530: the last Inquisitor departed from the Islands in 1798, after the Knights capitulated to the forces of Napoleon Bonaparte. During the period of the Republic of Venice, several Maltese families emigrated to Corfu. Their descendants account for about two-thirds of the community of some 4,000 Catholics that now live on that island.
 
-Greek_Orthodox_Church_of_Saint_George_in_Valletta.jpeg The patron saints of Malta are Saint Paul, Saint Publius and Saint Agatha. Although not a patron saint, St George Preca (San Ġorġ Preca) is greatly revered as the second canonised Maltese saint after St. Publius Malta's first acknowledged saint (canonised in the year 1634). Pope Benedict XVI canonised him on 3 June 2007. Also, a number of Maltese individuals are recognised as Blessed, including Maria Adeodata Pisani and Nazju Falzon, with Pope John Paul II having beatified them in 2001.
+The patron saints of Malta are Saint Paul, Saint Publius and Saint Agatha. Although not a patron saint, St George Preca (San Ġorġ Preca) is greatly revered as the second canonised Maltese saint after St. Publius Malta's first acknowledged saint (canonised in the year 1634). Pope Benedict XVI canonised him on 3 June 2007. Also, a number of Maltese individuals are recognised as Blessed, including Maria Adeodata Pisani and Nazju Falzon, with Pope John Paul II having beatified them in 2001.
 
 Various Catholic religious orders are present in Malta, including the Jesuits, Franciscans, Dominicans and Little Sisters of the Poor.
 
@@ -371,7 +367,7 @@ Most congregants of the local Protestant churches are not Maltese; their congreg
 
 The Jewish population of Malta reached its peak in the Middle Ages under Norman rule. In 1479, Malta and Sicily came under Aragonese rule and the Alhambra Decree of 1492 forced all Jews to leave the country, permitting them to take with them only a few of their belongings. Several dozen Maltese Jews may have converted to Christianity at the time to remain in the country. Today, there is one Jewish congregation.[267]
 
-Malta_-_Paola_-_Triq_Kordin_-_Mosque_07_ies.jpg in Paola, Malta]] There is one Muslim mosque, the Mariam Al-Batool Mosque. A Muslim primary school recently opened. Of the estimated 3,000 Muslims in Malta, approximately 2,250 are foreigners, approximately 600 are naturalised citizens, and approximately 150 are native-born Maltese.[268] Zen Buddhism and the Bahá'í Faith claim some 40 members.[269]
+in Paola, Malta]] There is one Muslim mosque, the Mariam Al-Batool Mosque. A Muslim primary school recently opened. Of the estimated 3,000 Muslims in Malta, approximately 2,250 are foreigners, approximately 600 are naturalised citizens, and approximately 150 are native-born Maltese.[268] Zen Buddhism and the Bahá'í Faith claim some 40 members.[269]
 
 In a survey held by the Malta Today, the overwhelming majority of the Maltese population adheres to Christianity (95.2%) with Catholicism as the main denomination (93.9%). According to the same report, 4.5% of the population declared themselves as either atheist or agnostic, one of the lowest figures in Europe.[270]. The number of Atheists has exponentially grown, by doubling from 2014 to 2018. Non-religious people have a higher risk to suffer from discrimination, such as lack of trust by society and unequal treatment by institutions. In the 2015 edition of the annual Freedom of Thought Report from the International Humanist and Ethical Union, Malta was in the category of "severe discrimination". In 2016, following the abolishment of blasphemy law, Malta was shifted to the category of "systematic discrimination" (which is the same category as most EU countries).[271]
 
@@ -398,7 +394,7 @@ In January 2014, Malta started granting citizenship for a €650,000 contributio
 
 Outbound migration
 
-Malta_-_Floriana_-_Valletta_Waterfront_-_Laguna_Marina_-_Child_Migrants'_Memorial_03_ies.jpg, commemorating the 310 child migrants who travelled to Australia between 1950 and 1965]] In the 19th century, most emigration from Malta was to North Africa and the Middle East, although rates of return migration to Malta were high.[278] Nonetheless, Maltese communities formed in these regions. By 1900, for example, British consular estimates suggest that there were 15,326 Maltese in Tunisia, and in 1903 it was claimed that 15,000 people of Maltese origin were living in Algeria.[279]
+, commemorating the 310 child migrants who travelled to Australia between 1950 and 1965]] In the 19th century, most emigration from Malta was to North Africa and the Middle East, although rates of return migration to Malta were high.[278] Nonetheless, Maltese communities formed in these regions. By 1900, for example, British consular estimates suggest that there were 15,326 Maltese in Tunisia, and in 1903 it was claimed that 15,000 people of Maltese origin were living in Algeria.[279]
 
 Malta experienced significant emigration as a result of the collapse of a construction boom in 1907 and after the Second World War, when the birth rate increased significantly, but in the 20th century most emigrants went to destinations in the New World, particularly to Australia, Canada and the United States. After the Second World War, Malta's Emigration Department would assist emigrants with the cost of their travel. Between 1948 and 1967, 30 per cent of the population emigrated.[280] Between 1946 and the late-1970s, over 140,000 people left Malta on the assisted passage scheme, with 57.6% migrating to Australia, 22% to the UK, 13% to Canada and 7% to the United States.[281]
 
@@ -406,7 +402,7 @@ Emigration dropped dramatically after the mid-1970s and has since ceased to be a
 
 Education
 
-Uni-20malta.jpg]] Bibliothek_in_Malta,_in_Valletta.JPG]]
+]] ]]
 
 Primary schooling has been compulsory since 1946; secondary education up to the age of sixteen was made compulsory in 1971. The state and the Church provide education free of charge, both running a number of schools in Malta and Gozo, including De La Salle College in Cospicua, St. Aloysius' College in Birkirkara, St. Paul's Missionary College in Rabat, Malta, St. Joseph's School in Blata l-Bajda and Saint Monica Girls' School in Mosta. , state schools are organised into networks known as Colleges and incorporate kindergarten schools, primary and secondary schools. A number of private schools are run in Malta, including San Andrea School and San Anton School in the valley of L-Imselliet (l/o Mġarr), St. Martin's College in Swatar and St. Michael's School in San Ġwann. St. Catherine's High School, Pembroke offers an International Foundation Course for students wishing to learn English before entering mainstream education. , there are two international schools, Verdala International School and QSI Malta. The state pays a portion of the teachers' salary in Church schools.[282]
 
@@ -422,7 +418,7 @@ Malta is also a popular destination to study the English language, attracting ov
 
 Healthcare
 
-Malta_-_Valletta_-_Triq_il-Mediterran-Triq_it-Tramuntana_-_Mediterranean_Conference_Centre_01_ies.jpg.]] Mater_Dei_01.jpg]] MMSA_Checking_Blood_Pressure.JPG
+.]] ]]
 
 Malta has a long history of providing publicly funded health care. The first hospital recorded in the country was already functioning by 1372.[289] Today, Malta has both a public healthcare system, known as the government healthcare service, where healthcare is free at the point of delivery, and a private healthcare system.[290][291] Malta has a strong general practitioner-delivered primary care base and the public hospitals provide secondary and tertiary care. The Maltese Ministry of Health advises foreign residents to take out private medical insurance.[292]
 
@@ -443,7 +439,7 @@ The culture of Malta reflects the various cultures, from the Phoenicians to the 
 
 Music
 
-Manoel_theatre_(12851453033).jpg, Europe's third-oldest working theatre. Now Malta's National Theatre and home to the Malta Philharmonic Orchestra.]] While Maltese music today is largely Western, traditional Maltese music includes what is known as għana. This consists of background folk guitar music, while a few people, generally men, take it in turns to argue a point in a sing-song voice. The aim of the lyrics, which are improvised, is to create a friendly yet challenging atmosphere, and it takes a number of years of practice to be able to combine the required artistic qualities with the ability to debate effectively.
+, Europe's third-oldest working theatre. Now Malta's National Theatre and home to the Malta Philharmonic Orchestra.]] While Maltese music today is largely Western, traditional Maltese music includes what is known as għana. This consists of background folk guitar music, while a few people, generally men, take it in turns to argue a point in a sing-song voice. The aim of the lyrics, which are improvised, is to create a friendly yet challenging atmosphere, and it takes a number of years of practice to be able to combine the required artistic qualities with the ability to debate effectively.
 
 Literature
 
@@ -453,8 +449,6 @@ The next generation of writers, including Karl Schembri and Immanuel Mifsud, wid
 
 Architecture
 
-Vallettaupperbarraccagardens.JPG
-
 Maltese architecture has been influenced by many different Mediterranean cultures and British architecture over its history. The first settlers on the island constructed Ġgantija, one of the oldest manmade freestanding structures in the world. The Neolithic temple builders 3800–2500 BC endowed the numerous temples of Malta and Gozo with intricate bas relief designs, including spirals evocative of the tree of life and animal portraits, designs painted in red ochre, ceramics and a vast collection of human form sculptures, particularly the Venus of Malta. These can be viewed at the temples themselves (most notably, the Hypogeum and Tarxien Temples), and at the National Museum of Archaeology in Valletta. Malta's temples such as Imnajdra are full of history and have a story behind them. Malta is currently undergoing several large-scale building projects, including the construction of SmartCity Malta, the M-Towers and Pendergardens, while areas such as the Valletta Waterfront and Tigné Point have been or are being renovated.
 
 The Roman period introduced highly decorative mosaic floors, marble colonnades and classical statuary, remnants of which are beautifully preserved and presented in the Roman Domus, a country villa just outside the walls of Mdina. The early Christian frescoes that decorate the catacombs beneath Malta reveal a propensity for eastern, Byzantine tastes. These tastes continued to inform the endeavours of medieval Maltese artists, but they were increasingly influenced by the Romanesque and Southern Gothic movements.
@@ -463,15 +457,9 @@ Art
 
 Towards the end of the 15th century, Maltese artists, like their counterparts in neighbouring Sicily, came under the influence of the School of Antonello da Messina, which introduced Renaissance ideals and concepts to the decorative arts in Malta.[295]
 
-Siege_of_malta_3.jpg
-
 The artistic heritage of Malta blossomed under the Knights of St. John, who brought Italian and Flemish Mannerist painters to decorate their palaces and the churches of these islands, most notably, Matteo Perez d'Aleccio, whose works appear in the Magisterial Palace and in the Conventual Church of St. John in Valletta, and Filippo Paladini, who was active in Malta from 1590 to 1595. For many years, Mannerism continued to inform the tastes and ideals of local Maltese artists.[296]
 
-CaravaggioJeromeValletta.jpg
-
 The arrival in Malta of Caravaggio, who painted at least seven works during his 15-month stay on these islands, further revolutionised local art. Two of Caravaggio's most notable works, _The Beheading of Saint John the Baptist_ and _Saint Jerome Writing_, are on display in the Oratory of the Conventual Church of St. John. His legacy is evident in the works of local artists Giulio Cassarino (1582–1637) and Stefano Erardi (1630–1716). However, the Baroque movement that followed was destined to have the most enduring impact on Maltese art and architecture. The glorious vault paintings of the celebrated Calabrese artist, Mattia Preti transformed the severe, Mannerist interior of the Conventual Church St. John into a Baroque masterpiece. Preti spent the last 40 years of his life in Malta, where he created many of his finest works, now on display in the Museum of Fine Arts in Valletta. During this period, local sculptor Melchior Gafà (1639–1667) emerged as one of the top Baroque sculptors of the Roman School.
-
-'Still_Life_of_Pomegranates,_Peaches,_Apples_and_other_Fruit'_by_Francesco_Noletti.jpg
 
 During the 17th and 18th century, Neapolitan and Rococo influences emerged in the works of the Italian painters Luca Giordano (1632–1705) and Francesco Solimena (1657–1747), and these developments can be seen in the work of their Maltese contemporaries such as Gio Nicola Buhagiar (1698–1752) and Francesco Zahra (1710–1773). The Rococo movement was greatly enhanced by the relocation to Malta of Antoine de Favray (1706–1798), who assumed the position of court painter to Grand Master Pinto in 1744.
 
@@ -481,7 +469,7 @@ Parliament established the National School of Art in the 1920s. During the recon
 
 Cuisine
 
-Malta_Pastizzi.JPG'', a typical Maltese snack]] Maltese cuisine shows strong Sicilian and English influences as well as influences of Spanish, Maghrebin and Provençal cuisines. A number of regional variations, particularly with regards to Gozo, can be noted as well as seasonal variations associated with the seasonal availability of produce and Christian feasts (such as Lent, Easter and Christmas). Food has been important historically in the development of a national identity in particular the traditional _fenkata_ (i.e., the eating of stewed or fried rabbit).[300]
+'', a typical Maltese snack]] Maltese cuisine shows strong Sicilian and English influences as well as influences of Spanish, Maghrebin and Provençal cuisines. A number of regional variations, particularly with regards to Gozo, can be noted as well as seasonal variations associated with the seasonal availability of produce and Christian feasts (such as Lent, Easter and Christmas). Food has been important historically in the development of a national identity in particular the traditional _fenkata_ (i.e., the eating of stewed or fried rabbit).[300]
 
 Customs
 
@@ -503,21 +491,19 @@ On a child's first birthday, in a tradition that still survives today, Maltese p
 
 Money refers to a rich future while a book expresses intelligence and a possible career as a teacher. Infants who select a pencil or pen will be writers. Choosing Bibles or rosary beads refers to a clerical or monastic life. If the child chooses a hard-boiled egg, it will have a long life and many children. More recent additions include calculators (refers to accounting), thread (fashion) and wooden spoons (cooking and a great appetite).
 
-Maltesewedding.jpg
-
 Traditional Maltese weddings featured the bridal party walking in procession beneath an ornate canopy, from the home of the bride's family to the parish church, with singers trailing behind serenading the bride and groom. The Maltese word for this custom is _il-ġilwa_. This custom along with many others has long since disappeared from the islands, in the face of modern practices.
 
 New wives would wear the għonnella, a traditional item of Maltese clothing. However, it is no longer worn in modern Malta. Today's couples are married in churches or chapels in the village or town of their choice. The nuptials are usually followed by a lavish and joyous wedding reception, often including several hundred guests. Occasionally, couples will try to incorporate elements of the traditional Maltese wedding in their celebration. A resurgent interest in the traditional wedding was evident in May 2007, when thousands of Maltese and tourists attended a traditional Maltese wedding in the style of the 16th century, in the village of Żurrieq. This included _il-ġilwa_, which led the bride and groom to a wedding ceremony that took place on the parvis of St. Andrew's Chapel. The reception that followed featured folklore music (_għana_) and dancing.
 
 Festivals
 
-The_statue_of_St._George_issuing_from_the_Basilica_on_the_third_Sunday_of_July.jpg]]
+]]
 
 Local festivals, similar to those in Southern Italy, are commonplace in Malta and Gozo, celebrating weddings, christenings and, most prominently, saints' days, honouring the patron saint of the local parish. On saints' days, the _festa_ reaches its apex with a High Mass featuring a sermon on the life and achievements of the patron saint, after which a statue of the religious patron is taken around the local streets in solemn procession, with the faithful following in respectful prayer. The atmosphere of religious devotion quickly gives way to several days of celebration and revelry: band processions, fireworks, and late-night parties.
 
 Carnival (Maltese: _il-karnival ta' Malta_) has had an important place on the cultural calendar after Grand Master Piero de Ponte introduced it to the islands in 1535. It is held during the week leading up to Ash Wednesday, and typically includes masked balls, fancy dress and grotesque mask competitions, lavish late-night parties, a colourful, ticker-tape parade of allegorical floats presided over by King Carnival (Maltese: _ir-Re tal-Karnival_), marching bands and costumed revellers.
 
-Malta_-_ZebbugM_-_Good_Friday_225_ies.jpg in Żebbuġ]] Holy Week (Maltese: _il-Ġimgħa Mqaddsa_) starts on Palm Sunday (_Ħadd il-Palm_) and ends on Easter Sunday (_Ħadd il-Għid_). Numerous religious traditions, most of them inherited from one generation to the next, are part of the paschal celebrations in the Maltese Islands, honouring the death and resurrection of Jesus.
+in Żebbuġ]] Holy Week (Maltese: _il-Ġimgħa Mqaddsa_) starts on Palm Sunday (_Ħadd il-Palm_) and ends on Easter Sunday (_Ħadd il-Għid_). Numerous religious traditions, most of them inherited from one generation to the next, are part of the paschal celebrations in the Maltese Islands, honouring the death and resurrection of Jesus.
 
 Mnarja, or l-Imnarja (pronounced _lim-nar-ya_) is one of the most important dates on the Maltese cultural calendar. Officially, it is a national festival dedicated to the feast of Saints Peter and St. Paul. Its roots can be traced back to the pagan Roman feast of _Luminaria_ (literally, "the illumination"), when torches and bonfires lit up the early summer night of 29 June.[306]
 

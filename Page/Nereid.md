@@ -1,9 +1,9 @@
-The_Nereid_Monument._From_Xanthos_(Lycia),_modern-day_Antalya_Province,_Turkey._390-380_BCE._Room_17,_the_British_Museum,_London.jpg. From Xanthos (Lycia), modern-day Antalya Province, Turkey. 390–380 BCE. Room 17, the British Museum, London]] In Greek mythology, the NEREIDS ( ; _Nereides_, sg. _Nereis_) are sea nymphs (female spirits of sea waters), the 50 daughters of Nereus and Doris, sisters to Nerites.[1] They often accompany Poseidon, the god of the sea, and can be friendly and helpful to sailors, like the Argonauts in their search for the Golden Fleece.
+. From Xanthos (Lycia), modern-day Antalya Province, Turkey. 390–380 BCE. Room 17, the British Museum, London]] In Greek mythology, the NEREIDS ( ; _Nereides_, sg. _Nereis_) are sea nymphs (female spirits of sea waters), the 50 daughters of Nereus and Doris, sisters to Nerites.[1] They often accompany Poseidon, the god of the sea, and can be friendly and helpful to sailors, like the Argonauts in their search for the Golden Fleece.
 
 
 Mythology
 
-Sea_thiasos_Nereis_Glyptothek_Munich_239_front_n1.jpg Nereids are particularly associated with the Aegean Sea, where they dwelt with their father Nereus in the depths within a golden palace.[2] The most notable of them are Thetis, wife of Peleus and mother of Achilles; Amphitrite, wife of Poseidon and mother of Triton; and Galatea, the vain love interest of the Cyclops Polyphemus.They symbolized everything that is beautiful and kind about the sea. Their melodious voices sang as they danced around their father. They are represented as very beautiful girls, crowned with branches of red coral and dressed in white silk robes trimmed with gold, but who went barefoot. They were part of Poseidon's entourage and carried his trident.
+Nereids are particularly associated with the Aegean Sea, where they dwelt with their father Nereus in the depths within a golden palace.[2] The most notable of them are Thetis, wife of Peleus and mother of Achilles; Amphitrite, wife of Poseidon and mother of Triton; and Galatea, the vain love interest of the Cyclops Polyphemus.They symbolized everything that is beautiful and kind about the sea. Their melodious voices sang as they danced around their father. They are represented as very beautiful girls, crowned with branches of red coral and dressed in white silk robes trimmed with gold, but who went barefoot. They were part of Poseidon's entourage and carried his trident.
 
 In Homer's _Iliad_ XVIII, when Thetis cries out in sympathy for the grief of Achilles for the slain Patroclus, her sisters appear. The Nereid Opis is mentioned in Virgil's _Aeneid_. She is called by the goddess Diana to avenge the death of the Amazon-like female warrior Camilla. Diana gives Opis magical weapons for revenge on Camilla's killer, the Etruscan Arruns. Opis sees and laments Camilla's death and shoots Arruns in revenge as directed by Diana.[3]
 
@@ -17,7 +17,7 @@ Nereid, a moon of the planet Neptune, is named after the Nereids.
 
 Names
 
-French_Empire_mantel_clock.jpg (1822) depicting the nereid Galatea _velificans_]] ''This list is correlated from four sources: Homer's _Iliad_,[4] Hesiod's _Theogony_,[5] the _Bibliotheca[6]_ and Hyginus''.[7] _Because of this, the total number of names goes beyond fifty._[8]
+(1822) depicting the nereid Galatea _velificans_]] ''This list is correlated from four sources: Homer's _Iliad_,[4] Hesiod's _Theogony_,[5] the _Bibliotheca[6]_ and Hyginus''.[7] _Because of this, the total number of names goes beyond fifty._[8]
 
 +---------------------+--------------------+-----------+
 | No.                 | Name               | Sources   |

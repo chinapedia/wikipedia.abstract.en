@@ -7,7 +7,7 @@ The Louisiana Purchase extended United States sovereignty across the Mississippi
 
 Background
 
-Louisiana1804a.jpg", bounded on the west by the Rocky Mountains]]
+", bounded on the west by the Rocky Mountains]]
 
 Throughout the second half of the 18th century, Louisiana was a pawn on the chessboard of European politics.[2] It was controlled by the French, who had a few small settlements along the Mississippi and other main rivers. France ceded the territory to Spain in the secret Treaty of Fontainebleau (1762). Following French defeat in the Seven Years' War, Spain gained control of the territory west of the Mississippi and the British the territory to the east of the river.[3]
 
@@ -53,8 +53,6 @@ In November 1803, France would withdraw its 7,000 surviving troops from Saint-Do
 
 Domestic opposition and constitutionality
 
-louisiana_purchase_treaty.jpg
-
 Henry Adams and other historians have argued that Jefferson acted hypocritically with the Louisiana Purchase, due to his position as a strict constructionist regarding the Constitution since he stretched the intent of that document to justify his purchase.[30] This argument goes as follows:
 
 The American purchase of the Louisiana territory was not accomplished without domestic opposition. Jefferson's philosophical consistency was in question because of his strict interpretation of the Constitution. Many people believed that he and others, including James Madison, were doing something they surely would have argued against with Alexander Hamilton. The Federalists strongly opposed the purchase, favoring close relations with Britain over closer ties to Napoleon, and were concerned that the United States had paid a large sum of money just to declare war on Spain.
@@ -67,7 +65,7 @@ Another concern was whether it was proper to grant citizenship to the French, Sp
 
 Spain protested the transfer on two grounds: First, France had previously promised in a note not to alienate Louisiana to a third party and second, France had not fulfilled the Third Treaty of San Ildefonso by having the King of Etruria recognized by all European powers. The French government replied that these objections were baseless since the promise not to alienate Louisiana was not in the treaty of San Ildefonso itself and therefore had no legal force, and the Spanish government had ordered Louisiana to be transferred in October 1802 despite knowing for months that Britain had not recognized the King of Etruria in the Treaty of Amiens.[33]
 
-Louisianatransfer_exposition1904_vc180.jpg (1904)]]
+(1904)]]
 
 Henry Adams claimed "The sale of Louisiana to the United States was trebly invalid; if it were French property, Bonaparte could not constitutionally alienate it without the consent of the French Chambers; if it were Spanish property, he could not alienate it at all; if Spain had a right of reclamation, his sale was worthless."[34] The sale of course was not "worthless"—the U.S. actually did take possession. Furthermore, the Spanish prime minister had authorized the U.S. to negotiate with the French government "the acquisition of territories which may suit their interests." Spain turned the territory over to France in a ceremony in New Orleans on November 30, a month before France turned it over to American officials.[35]
 
@@ -84,8 +82,6 @@ When Spain later objected to the United States purchasing Louisiana from France,
 
 Treaty signing
 
-Louisiana_Purchase_1953_Issue-3c.jpg
-
 The Louisiana Purchase Treaty was signed on April 30, 1803, by Robert Livingston, James Monroe, and François Barbé-Marbois at the Hôtel Tubeuf in Paris.[43] Jefferson announced the treaty to the American people on July 4. After the signing Livingston made this famous statement, "We have lived long, but this is the noblest work of our whole lives... From this day the United States take their place among the powers of the first rank."[44]
 
 The United States Senate advised and consented to ratification of the treaty with a vote of twenty-four to seven on October 20. The Senators who voted against the treaty were: Simeon Olcott and William Plumer of New Hampshire, William Wells and Samuel White of Delaware, James Hillhouse and Uriah Tracy of Connecticut, and Timothy Pickering of Massachusetts.
@@ -97,7 +93,7 @@ A timeline of legislation can be found at the Library of Congress, in American M
 
 Formal transfers and initial organization
 
-Louisiana_Purchase_New_Orleans_Thure_de_Thulstrup.jpg of New Orleans, marking the transfer of sovereignty over French Louisiana to the United States, December 20, 1803, as depicted by Thure de Thulstrup]]
+of New Orleans, marking the transfer of sovereignty over French Louisiana to the United States, December 20, 1803, as depicted by Thure de Thulstrup]]
 
 France turned over New Orleans, the historic colonial capital, on December 20, 1803, at the Cabildo, with a flag-raising ceremony in the Plaza de Armas, now Jackson Square. Just three weeks earlier, on November 30, 1803, Spanish officials had formally conveyed the colonial lands and their administration to France.
 
@@ -121,8 +117,6 @@ A dispute soon arose between Spain and the United States regarding the extent of
 
 The U.S. claimed Louisiana included the entire western portion of the Mississippi River drainage basin to the crest of the Rocky Mountains and land extending southeast to the Rio Grande and West Florida.[51] Spain insisted that Louisiana comprised no more than the western bank of the Mississippi River and the cities of New Orleans and St. Louis.[52] The dispute was ultimately resolved by the Adams–Onís Treaty of 1819, with the United States gaining most of what it had claimed in the west.
 
-UnitedStatesExpansion.png
-
 The relatively narrow Louisiana of New Spain had been a special province under the jurisdiction of the Captaincy General of Cuba while the vast region to the west was in 1803 still considered part of the Commandancy General of the Provincias Internas. Louisiana had never been considered one of New Spain's internal provinces.[53]
 
 If the territory included all the tributaries of the Mississippi on its western bank, the northern reaches of the Purchase extended into the equally ill-defined British possession—Rupert's Land of British North America, now part of Canada. The Purchase originally extended just beyond the 50th parallel. However, the territory north of the 49th parallel (including the Milk River and Poplar River watersheds) was ceded to the UK in exchange for parts of the Red River Basin south of 49th parallel in the Anglo-American Convention of 1818.
@@ -145,7 +139,7 @@ The Missouri Compromise of 1820 was a temporary solution.
 
 Asserting U.S. possession
 
-Fort_Madison_1810.jpg, built in 1808 to establish U.S. control over the northern part of the Louisiana Purchase, drawn 1810]]
+, built in 1808 to establish U.S. control over the northern part of the Louisiana Purchase, drawn 1810]]
 
 After the early explorations, the U.S. government sought to establish control of the region, since trade along the Mississippi and Missouri rivers was still dominated by British and French traders from Canada and allied Indians, especially the Sauk and Fox. The U.S. adapted the former Spanish facility at Fort Bellefontaine as a fur trading post near St. Louis in 1804 for business with the Sauk and Fox.[58] In 1808 two military forts with trading factories were built, Fort Osage along the Missouri River in western present-day Missouri and Fort Madison along the Upper Mississippi River in eastern present-day Iowa.[59] With tensions increasing with Great Britain, in 1809 Fort Bellefontaine was converted to a U.S. military fort, and was used for that purpose until 1826.
 

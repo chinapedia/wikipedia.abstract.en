@@ -1,4 +1,4 @@
-Triumph_orthodoxy.jpg" over iconoclasm under the Byzantine Empress Theodora and her son Michael III. Late 14th – early 15th-century icon.]] Ed_and_pope.png work of propaganda, the top right of the picture depicts men busy pulling down and smashing icons, while power is being handed from the dying King Henry VIII to his far more staunchly Protestant son Edward VI.[1] National Portrait Gallery, London]] ICONOCLASM[2] is the social belief in the importance of the destruction of icons and other images or monuments, most frequently for religious or political reasons. People who engage in or support iconoclasm are called ICONOCLASTS, a term that has come to be figuratively applied to any individual who challenges "cherished beliefs or venerated institutions on the grounds that they are erroneous or pernicious".[3]
+" over iconoclasm under the Byzantine Empress Theodora and her son Michael III. Late 14th – early 15th-century icon.]] work of propaganda, the top right of the picture depicts men busy pulling down and smashing icons, while power is being handed from the dying King Henry VIII to his far more staunchly Protestant son Edward VI.[1] National Portrait Gallery, London]] ICONOCLASM[2] is the social belief in the importance of the destruction of icons and other images or monuments, most frequently for religious or political reasons. People who engage in or support iconoclasm are called ICONOCLASTS, a term that has come to be figuratively applied to any individual who challenges "cherished beliefs or venerated institutions on the grounds that they are erroneous or pernicious".[3]
 
 Conversely, one who reveres or venerates religious images is called (by iconoclasts) an _iconolater_; in a Byzantine context, such a person is called an _iconodule_ or _iconophile._[4]
 
@@ -11,7 +11,7 @@ Religious iconoclasm
 
 Ancient era
 
-Amun.JPG]]
+]]
 
 In the Bronze Age, the most significant episode of iconoclasm occurred in Egypt during the Amarna Period, when Akhenaten, based in his new capital of Akhetaten, instituted a significant shift in Egyptian artistic styles alongside a campaign of intolerance towards the traditional gods and a new emphasis on a state monolatristic tradition focused on the god Aten, the Sun disk— many temples and monuments were destroyed as a result:
 
@@ -25,7 +25,7 @@ Comparing the ancient Egyptians with the Israelites, Jan Assmann writes:
 
 Byzantine era
 
-Clasm_Chludov_detail_9th_century.jpg, Chludov Psalter, 9th century[10]]]
+, Chludov Psalter, 9th century[10]]]
 
 Although widespread use of Christian iconography only began as Christianity increasingly spread among gentiles after the legalization of Christianity by Roman Emperor Constantine (c. 312 AD), scattered expressions of opposition to the use of images were reported (e.g. Spanish Synod of Elvira). The period after the reign of Byzantine Emperor Justinian (527–565) evidently saw a huge increase in the use of images, both in volume and quality, and a gathering aniconic reaction.
 
@@ -67,7 +67,7 @@ The destruction of the idols of Mecca did not, however, determine the treatment 
 
 Egypt
 
-Sphinx_of_Giza_9059.jpgAl-Maqrīzī, writing in the 15th century, attributes the missing nose on the Great Sphinx of Giza to iconoclasm by Muhammad Sa'im al-Dahr, a Sufi Muslim in the mid-1300s. He was reportedly outraged by local Muslims making offerings to the Great Sphinx in the hope of controlling the flood cycle, and he was later executed for vandalism. However, whether this was actually the cause of the missing nose has been debated by historians.[36] Mark Lehner who performed an archaeological study concluded that it was broken with instruments at an earlier unknown time between the 3rd and 10th centuries.[37]
+Al-Maqrīzī, writing in the 15th century, attributes the missing nose on the Great Sphinx of Giza to iconoclasm by Muhammad Sa'im al-Dahr, a Sufi Muslim in the mid-1300s. He was reportedly outraged by local Muslims making offerings to the Great Sphinx in the hope of controlling the flood cycle, and he was later executed for vandalism. However, whether this was actually the cause of the missing nose has been debated by historians.[36] Mark Lehner who performed an archaeological study concluded that it was broken with instruments at an earlier unknown time between the 3rd and 10th centuries.[37]
 
 Ottoman conquests
 
@@ -108,7 +108,7 @@ Other examples of religious iconoclasm
 
 Political and revolutionary iconoclasm
 
-Johannes_Adam_Simon_Oertel_Pulling_Down_the_Statue_of_King_George_III,_N.Y.C._ca._1859.jpg pulling down the statue of George III of the United Kingdom on Bowling Green (New York City), 1776]]
+pulling down the statue of George III of the United Kingdom on Bowling Green (New York City), 1776]]
 
 _Damnatio memoriae_
 
@@ -156,7 +156,7 @@ Many religious and secular images were destroyed during the Cultural Revolution 
 
 Iconoclasm in Eastern Europe
 
-Christ_saviour_explosion.jpg, Moscow, 5 December 1931]] During and after the October Revolution, widespread destruction of religious and secular imagery took place, as well as the destruction of imagery related to the Imperial family. The Revolution was accompanied by destruction of monuments of past tsars, as well as the destruction of imperial eagles at various locations throughout Russia. According to Christopher Wharton, "In front of a Moscow cathedral, crowds cheered as the enormous statue of Tsar Alexander III was bound with ropes and gradually beaten to the ground. After a considerable amount of time, the statue was decapitated and its remaining parts were broken into rubble".[86]
+, Moscow, 5 December 1931]] During and after the October Revolution, widespread destruction of religious and secular imagery took place, as well as the destruction of imagery related to the Imperial family. The Revolution was accompanied by destruction of monuments of past tsars, as well as the destruction of imperial eagles at various locations throughout Russia. According to Christopher Wharton, "In front of a Moscow cathedral, crowds cheered as the enormous statue of Tsar Alexander III was bound with ropes and gradually beaten to the ground. After a considerable amount of time, the statue was decapitated and its remaining parts were broken into rubble".[86]
 
 The Soviet Union actively destroyed religious sites, including Russian Orthodox churches and Jewish cemeteries, in order to discourage religious practice and curb the activities of religious groups.
 
@@ -164,7 +164,7 @@ During the Hungarian Revolution of 1956 and during the Revolutions of 1989, prot
 
 Other examples
 
-Michael_Servetus_in_prison,_statue_by_C._Roch_Wellcome_L0006357.jpg in prison, by Clothilde Roch. Monument in Annemasse, France - destroyed by the Vichy Government in 1942, restored in 1960.]] King_William_Statue_1.jpg formerly located on College Green, in Dublin. Erected in 1701, it was destroyed in 1929 - one of several memorials of British rule destroyed once Ireland achieved independence.]] Other examples of political destruction of images include:
+in prison, by Clothilde Roch. Monument in Annemasse, France - destroyed by the Vichy Government in 1942, restored in 1960.]] formerly located on College Green, in Dublin. Erected in 1701, it was destroyed in 1929 - one of several memorials of British rule destroyed once Ireland achieved independence.]] Other examples of political destruction of images include:
 
 -   During the American Revolution, the Sons of Liberty pulled down and destroyed the gilded lead statue of George III of the United Kingdom on Bowling Green (New York City), melting it down to be recast as ammunition. Similar acts have accompanied the independence of most ex-colonial territories. Sometimes relatively intact monuments are moved to a collected display in a less prominent place, as in India and also post-Communist countries.
 -   From the 16th through the 19th centuries, many of the polytheistic religious deities and texts of pre-colonial Americas, Oceania and Africa were destroyed by Christian missionaries and their converts, such as during the Spanish conquest of the Aztec Empire and the Spanish conquest of the Inca Empire.

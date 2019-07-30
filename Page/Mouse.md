@@ -1,4 +1,4 @@
-Мышь_2.jpg (_Mus musculus_)]] A MOUSE, plural MICE, is a small rodent characteristically having a pointed snout, small rounded ears, a body-length scaly tail, and a high breeding rate. The best known mouse species is the common house mouse (_Mus musculus_). It is also a popular pet. In some places, certain kinds of field mice are locally common. They are known to invade homes for food and shelter.
+(_Mus musculus_)]] A MOUSE, plural MICE, is a small rodent characteristically having a pointed snout, small rounded ears, a body-length scaly tail, and a high breeding rate. The best known mouse species is the common house mouse (_Mus musculus_). It is also a popular pet. In some places, certain kinds of field mice are locally common. They are known to invade homes for food and shelter.
 
 Species of mice are mostly found in Rodentia, and are present throughout the order. Typical mice are found in the genus Mus.
 
@@ -50,8 +50,6 @@ Types of animals known as mice
 
 Laboratory mice
 
-Knockout mice
-
 Mice are common experimental animals in laboratory research of biology and psychology fields primarily because they are mammals, and also because they share a high degree of homology with humans. They are the most commonly used mammalian model organism, more common than rats. The mouse genome has been sequenced, and virtually all mouse genes have human homologs. The mouse has approximately 2.7 billion base pairs and 20 pairs of chromosomes.[6] They can also be manipulated in ways that are illegal with humans, although animal rights activists often object. A knockout mouse is a genetically modified mouse that has had one or more of its genes made inoperable through a gene knockout.
 
 Reasons for common selection of mice are that they are small and inexpensive, have a widely varied diet, are easily maintained, and can reproduce quickly. Several generations of mice can be observed in a relatively short time. Mice are generally very docile if raised from birth and given sufficient human contact. However, certain strains have been known to be quite temperamental. Mice and rats have the same organs in the same places, with the difference of size.
@@ -59,7 +57,7 @@ Reasons for common selection of mice are that they are small and inexpensive, ha
 
 As pets
 
-Fancy_mice.jpg Many people buy mice as companion pets. They can be playful, loving and can grow used to being handled. Like pet rats, pet mice should not be left unsupervised outside as they have many natural predators, including (but not limited to) birds, snakes, lizards, cats, and dogs. Male mice tend to have a stronger odor than the females. However, mice are careful groomers and as pets they never need bathing. Well looked-after mice can make ideal pets. Some common mouse care products are:
+Many people buy mice as companion pets. They can be playful, loving and can grow used to being handled. Like pet rats, pet mice should not be left unsupervised outside as they have many natural predators, including (but not limited to) birds, snakes, lizards, cats, and dogs. Male mice tend to have a stronger odor than the females. However, mice are careful groomers and as pets they never need bathing. Well looked-after mice can make ideal pets. Some common mouse care products are:
 
 -   Cage – Usually a hamster or gerbil cage, but a variety of special mouse cages are now available. Most should have a secure door.[7]
 -   Food – Special pelleted and seed-based food is available. Mice can generally eat most rodent food (for rats, mice, hamsters, gerbils, etc.)
@@ -73,7 +71,7 @@ In nature, mice are largely herbivores, consuming any kind of fruit or grain fro
 
 As food
 
-Feeder_mice.jpg food]] Mice are a staple in the diet of many small carnivores. Humans have eaten mice since prehistoric times and still eat them as a delicacy throughout eastern Zambia and northern Malawi,[9] where they are a seasonal source of protein. Mice are no longer routinely consumed by humans elsewhere. However, in Victorian Britain, fried mice were still given to children as a folk remedy for bed-wetting;[10] while Jared Diamond reports creamed mice being used in England as a dietary supplement during W. W. II rationing.[11]
+food]] Mice are a staple in the diet of many small carnivores. Humans have eaten mice since prehistoric times and still eat them as a delicacy throughout eastern Zambia and northern Malawi,[9] where they are a seasonal source of protein. Mice are no longer routinely consumed by humans elsewhere. However, in Victorian Britain, fried mice were still given to children as a folk remedy for bed-wetting;[10] while Jared Diamond reports creamed mice being used in England as a dietary supplement during W. W. II rationing.[11]
 
 Prescribed cures in Ancient Egypt included mice as medicine.[12] In Ancient Egypt, when infants were ill, mice were eaten as treatment by their mothers.[13][14] It was believed that mouse eating by the mother would help heal the baby who was ill.[15][16][17][18][19]
 

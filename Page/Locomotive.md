@@ -1,4 +1,4 @@
-HXD1D_0115@NXH_(20180518091616).jpg electric locomotive hauling a passenger train in China]] Three-loco-styles.jpg diesel locomotives in Australia showing three body types, cab unit, hood unit and box cab]] R707-loco-victorian-railways.jpg steam locomotive number R707 as operated by the Victorian Railways of Australia]]
+electric locomotive hauling a passenger train in China]] diesel locomotives in Australia showing three body types, cab unit, hood unit and box cab]] steam locomotive number R707 as operated by the Victorian Railways of Australia]]
 
 A LOCOMOTIVE or ENGINE is a rail transport vehicle that provides the motive power for a train. If a locomotive is capable of carrying a payload, it is usually rather referred to as multiple units, motor coaches, railcars or power cars; the use of these self-propelled vehicles is increasingly common for passenger trains, but rare for freight (see CargoSprinter and Iron Highway).
 
@@ -18,9 +18,9 @@ Steam
 
 A steam locomotive is a locomotive whose primary power source is a steam engine. The most common form of steam locomotive also contains a boiler to generate the steam used by the engine. The water in the boiler is heated by burning combustible material – usually coal, wood, or oil – to produce steam. The steam moves reciprocating pistons which are connected to the locomotive's main wheels, known as the "drivers". Both fuel and water supplies are carried with the locomotive, either on the locomotive itself or in wagons called "tenders" pulled behind.
 
-Locomotive_trevithick.svg The first full-scale working railway steam locomotive was built by Richard Trevithick in 1802. It was constructed for the Coalbrookdale ironworks in Shropshire in the United Kingdom though no record of it working there has survived.[3] On 21 February 1804, the first recorded steam-hauled railway journey took place as another of Trevithick's locomotives hauled a train from the Pen-y-darren ironworks, in Merthyr Tydfil, to Abercynon in South Wales.[4][5] Accompanied by Andrew Vivian, it ran with mixed success.[6] The design incorporated a number of important innovations including the use of high-pressure steam which reduced the weight of the engine and increased its efficiency.
+The first full-scale working railway steam locomotive was built by Richard Trevithick in 1802. It was constructed for the Coalbrookdale ironworks in Shropshire in the United Kingdom though no record of it working there has survived.[3] On 21 February 1804, the first recorded steam-hauled railway journey took place as another of Trevithick's locomotives hauled a train from the Pen-y-darren ironworks, in Merthyr Tydfil, to Abercynon in South Wales.[4][5] Accompanied by Andrew Vivian, it ran with mixed success.[6] The design incorporated a number of important innovations including the use of high-pressure steam which reduced the weight of the engine and increased its efficiency.
 
-Locomotion_No._1..jpg In 1812, Matthew Murray's twin-cylinder rack locomotive _Salamanca_ first ran on the edge-railed rack-and-pinion Middleton Railway;[7] this is generally regarded as the first commercially successful locomotive.[8][9] Another well-known early locomotive was _Puffing Billy_, built 1813–14 by engineer William Hedley for the Wylam Colliery near Newcastle upon Tyne. This locomotive is the oldest preserved, and is on static display in the Science Museum, London. George Stephenson built _Locomotion No. 1_ for the Stockton and Darlington Railway in the north-east of England, which was the first public steam railway in the world. In 1829, his son Robert built _The Rocket_ in Newcastle-upon-Tyne. Rocket was entered into, and won, the Rainhill Trials. This success led to the company emerging as the pre-eminent early builder of steam locomotives used on railways in the UK, US and much of Europe.[10] The Liverpool and Manchester Railway, built by Stephenson, opened a year later making exclusive use of steam power for passenger and goods trains.
+In 1812, Matthew Murray's twin-cylinder rack locomotive _Salamanca_ first ran on the edge-railed rack-and-pinion Middleton Railway;[7] this is generally regarded as the first commercially successful locomotive.[8][9] Another well-known early locomotive was _Puffing Billy_, built 1813–14 by engineer William Hedley for the Wylam Colliery near Newcastle upon Tyne. This locomotive is the oldest preserved, and is on static display in the Science Museum, London. George Stephenson built _Locomotion No. 1_ for the Stockton and Darlington Railway in the north-east of England, which was the first public steam railway in the world. In 1829, his son Robert built _The Rocket_ in Newcastle-upon-Tyne. Rocket was entered into, and won, the Rainhill Trials. This success led to the company emerging as the pre-eminent early builder of steam locomotives used on railways in the UK, US and much of Europe.[10] The Liverpool and Manchester Railway, built by Stephenson, opened a year later making exclusive use of steam power for passenger and goods trains.
 
 The steam locomotive remained by far the most common type of locomotive until after World War II.[11] Steam locomotives are less efficient than modern diesel and electric locomotives, and a significantly larger workforce is required to operate and service them.[12] British Rail figures showed that the cost of crewing and fuelling a steam locomotive was about two and a half times larger than the cost of supporting an equivalent diesel locomotive, and the daily mileage they could run was lower. Between about 1950 and 1970, the majority of steam locomotives were retired from commercial service and replaced with electric and diesel-electric locomotives.[13][14] While North America transitioned from steam during the 1950s, and continental Europe by the 1970s, in other parts of the world, the transition happened later. Steam was a familiar technology that used widely-available fuels and in low-wage economies did not suffer as wide a cost disparity. It continued to be used in many countries until the end of the 20th century. By the end of the 20th century, almost the only steam power remaining in regular use around the world was on heritage railways.
 
@@ -30,15 +30,13 @@ Internal combustion locomotives use an internal combustion engine, connected to 
 
 Kerosene
 
-Die_Daimler_Motor-Draisine_erstmals_im_Sommer_1887_zwischen_Esslingen_und_Kirchheim-Teck_erprobt.jpg Kerosene locomotives use kerosene as the fuel. They were the world's first oil locomotives, preceding diesel and other oil locomotives by some years.
+Kerosene locomotives use kerosene as the fuel. They were the world's first oil locomotives, preceding diesel and other oil locomotives by some years.
 
 The first known kerosene rail vehicle was a draisine built by Gottlieb Daimler in 1887,[15] but this was not technically a locomotive as it carried a payload.
 
 A kerosene locomotive was built in 1894 by the Priestman Brothers of Kingston upon Hull for use on Hull docks. This locomotive was built using a 12 hp double-acting marine type engine, running at 300 rpm, mounted on a 4-wheel wagon chassis. It was only able to haul one loaded wagon at a time, due to its low power output, and was not a great success.[16] The first successful kerosene locomotive was "Lachesis" built by Richard Hornsby & Sons Ltd. and delivered to Woolwich Arsenal railway in 1896. The company built a series of kerosene locomotives between 1896 and 1903, for use by the British military.
 
 Petrol
-
-1904MaudsleyPetrolLocomotive.jpg
 
 Petrol locomotives use petrol as their fuel.
 
@@ -52,7 +50,7 @@ Diesel locomotives use diesel as their fuel. In the early days of diesel propuls
 
 Diesel-mechanical
 
-DieselMechanicalLocomotiveSchematic.svg 1926_AlcoGEIngersoll-Rand_Boxcab_Locomotive_11.jpg]]
+]]
 
 A diesel–mechanical locomotive uses a mechanical transmission to transfer power to the wheels. This type of transmission is generally limited to low-powered, low speed shunting (switching) locomotives, lightweight multiple units and self-propelled railcars. The earliest diesel locomotives were diesel-mechanical.
 
@@ -62,19 +60,19 @@ In 1906, Rudolf Diesel, Adolf Klose and the steam and diesel engine manufacturer
 
 Diesel-electric
 
-DieselElectricLocomotiveSchematic.svg In a diesel–electric locomotive, the diesel engine drives either an electrical DC generator (generally, less than net for traction), or an electrical AC alternator-rectifier (generally net or more for traction), the output of which provides power to the traction motors that drive the locomotive. There is no mechanical connection between the diesel engine and the wheels. The vast majority of diesel locomotives today are diesel-electric.
+In a diesel–electric locomotive, the diesel engine drives either an electrical DC generator (generally, less than net for traction), or an electrical AC alternator-rectifier (generally net or more for traction), the output of which provides power to the traction motors that drive the locomotive. There is no mechanical connection between the diesel engine and the wheels. The vast majority of diesel locomotives today are diesel-electric.
 
 The important components of diesel–electric propulsion are the diesel engine (also known as the prime mover), the main generator/alternator-rectifier, traction motors (usually with four or six axles), and a control system consisting of the engine governor and electrical or electronic components, including switchgear, rectifiers and other components, which control or modify the electrical supply to the traction motors. In the most elementary case, the generator may be directly connected to the motors with only very simple switchgear.
 
 Originally, the traction motors and generator were DC machines. Following the development of high-capacity silicon rectifiers in the 1960s, the DC generator was replaced by an alternator using a diode bridge to convert its output to DC. This advance greatly improved locomotive reliability and decreased generator maintenance costs by elimination of the commutator and brushes in the generator. Elimination of the brushes and commutator, in turn, disposed of the possibility of a particularly destructive type of event referred to as a flashover, which could result in immediate generator failure and, in some cases, start an engine room fire.
 
-Teplovoz_Eel2_(2).jpg, 1924 in Kiev]] In the late 1980s, the development of high-power variable-frequency/variable-voltage (VVVF) drives, or "traction inverters," has allowed the use of polyphase AC traction motors, thus also eliminating the motor commutator and brushes. The result is a more efficient and reliable drive that requires relatively little maintenance and is better able to cope with overload conditions that often destroyed the older types of motors.
+, 1924 in Kiev]] In the late 1980s, the development of high-power variable-frequency/variable-voltage (VVVF) drives, or "traction inverters," has allowed the use of polyphase AC traction motors, thus also eliminating the motor commutator and brushes. The result is a more efficient and reliable drive that requires relatively little maintenance and is better able to cope with overload conditions that often destroyed the older types of motors.
 
 In 1914, Hermann Lemp, a General Electric electrical engineer, developed and patented a reliable direct current electrical control system (subsequent improvements were also patented by Lemp).[22] Lemp's design used a single lever to control both engine and generator in a coordinated fashion, and was the prototype for all diesel–electric locomotive control. In 1917–18, GE produced three experimental diesel–electric locomotives using Lemp's control design.[23] In 1924, a diesel-electric locomotive (E^(el)2 original number Юэ 001/Yu-e 001) started operations. It had been designed by a team led by Yuri Lomonosov and built 1923–1924 by Maschinenfabrik Esslingen in Germany. It had 5 driving axles (1'E1'). After several test rides, it hauled trains for almost three decades from 1925 to 1954.[24] It was the world's first functional diesel locomotive.
 
 Diesel-hydraulic
 
-V_200_Technikmuseum_Berlin.jpg diesel-hydraulic locomotive at Technikmuseum, Berlin]] Diesel–hydraulic locomotives use one or more torque converters, in combination with gears, with a mechanical final drive to convey the power from the diesel engine to the wheels.
+diesel-hydraulic locomotive at Technikmuseum, Berlin]] Diesel–hydraulic locomotives use one or more torque converters, in combination with gears, with a mechanical final drive to convey the power from the diesel engine to the wheels.
 
 Hydrokinetic transmission (also called hydrodynamic transmission) uses a torque converter. A torque converter consists of three main parts, two of which rotate, and one (the stator) that has a lock preventing backwards rotation and adding output torque by redirecting the oil flow at low output RPM. All three main parts are sealed in an oil-filled housing. To match engine speed to load speed over the entire speed range of a locomotive some additional method is required to give sufficient range. One method is to follow the torque converter with a mechanical gearbox which switches ratios automatically, similar to an automatic transmission on a car. Another method is to provide several torque converters each with a range of variability covering part of the total required; all the torque converters are mechanically connected all the time, and the appropriate one for the speed range required is selected by filling it with oil and draining the others. The filling and draining is carried out with the transmission under load, and results in very smooth range changes with no break in the transmitted power.
 
@@ -86,9 +84,9 @@ Gas turbine
 
 A gas turbine locomotive is an internal combustion engine locomotive consisting of a gas turbine. ICE engines require a transmission to power the wheels. The engine must be allowed to continue to run when the locomotive is stopped.
 
-Gas_turbine_locomotive_1149.jpg and built in 1952 for testing by the U.S. Army Transportation Corps.]] Gas turbine-mechanical locomotives, use a mechanical transmission to deliver the power output of gas turbines to the wheels. A gas turbine locomotive was patented in 1861 by Marc Antoine Francois Mennons (British patent no. 1633).[28] There is no evidence that the locomotive was actually built but the design includes the essential features of gas turbine locomotives built in the 20th century, including compressor, combustion chamber, turbine and air pre-heater. In 1952, Renault delivered a prototype four-axle 1150 hp gas-turbine-mechanical locomotive fitted with the Pescara "free turbine" gas- and compressed-air producing system, rather than a co-axial multi-stage compressor integral to the turbine. This model was succeeded by a pair of six-axle 2400 hp locomotives with two turbines and Pescara feeds in 1959. Several similar locomotives were built in USSR by Kharkov Locomotive Works.[29]
+and built in 1952 for testing by the U.S. Army Transportation Corps.]] Gas turbine-mechanical locomotives, use a mechanical transmission to deliver the power output of gas turbines to the wheels. A gas turbine locomotive was patented in 1861 by Marc Antoine Francois Mennons (British patent no. 1633).[28] There is no evidence that the locomotive was actually built but the design includes the essential features of gas turbine locomotives built in the 20th century, including compressor, combustion chamber, turbine and air pre-heater. In 1952, Renault delivered a prototype four-axle 1150 hp gas-turbine-mechanical locomotive fitted with the Pescara "free turbine" gas- and compressed-air producing system, rather than a co-axial multi-stage compressor integral to the turbine. This model was succeeded by a pair of six-axle 2400 hp locomotives with two turbines and Pescara feeds in 1959. Several similar locomotives were built in USSR by Kharkov Locomotive Works.[29]
 
-Union_Pacific_18.jpg Gas turbine-electric locomotives, use a gas turbine to drive an electrical generator or alternator which produced electric current powers the traction motor which drive the wheels. In 1939 the Swiss Federal Railways ordered Am 4/6, a GTEL with a of maximum engine power from Brown Boveri. It was completed in 1941, and then underwent testing before entering regular service. The Am 4/6 was the first gas turbine – electric locomotive. British Rail 18000 was built by Brown Boveri and delivered in 1949. British Rail 18100 was built by Metropolitan-Vickers and delivered in 1951. A third locomotive, the British Rail GT3, was constructed in 1961. Union Pacific ran a large fleet of turbine-powered freight locomotives starting in the 1950s.[30] These were widely used on long-haul routes, and were cost-effective despite their poor fuel economy due to their use of "leftover" fuels from the petroleum industry. At their height the railroad estimated that they powered about 10% of Union Pacific's freight trains, a much wider use than any other example of this class.
+Gas turbine-electric locomotives, use a gas turbine to drive an electrical generator or alternator which produced electric current powers the traction motor which drive the wheels. In 1939 the Swiss Federal Railways ordered Am 4/6, a GTEL with a of maximum engine power from Brown Boveri. It was completed in 1941, and then underwent testing before entering regular service. The Am 4/6 was the first gas turbine – electric locomotive. British Rail 18000 was built by Brown Boveri and delivered in 1949. British Rail 18100 was built by Metropolitan-Vickers and delivered in 1951. A third locomotive, the British Rail GT3, was constructed in 1961. Union Pacific ran a large fleet of turbine-powered freight locomotives starting in the 1950s.[30] These were widely used on long-haul routes, and were cost-effective despite their poor fuel economy due to their use of "leftover" fuels from the petroleum industry. At their height the railroad estimated that they powered about 10% of Union Pacific's freight trains, a much wider use than any other example of this class.
 
 A gas turbine offers some advantages over a piston engine. There are few moving parts, decreasing the need for lubrication and potentially reducing maintenance costs, and the power-to-weight ratio is much higher. A turbine of a given power output is also physically smaller than an equally powerful piston engine, allowing a locomotive to be very powerful without being inordinately large. However, a turbine's power output and efficiency both drop dramatically with rotational speed, unlike a piston engine, which has a comparatively flat power curve. This makes GTEL systems useful primarily for long-distance high-speed runs. Additional problems with gas turbine-electric locomotives included that they were very noisy,[31][32] and they produced such extremely hot exhaust that if the locomotive were parked under an overpass paved with asphalt, it could melt the asphalt.[33]
 
@@ -96,7 +94,7 @@ Electric
 
 An electric locomotive is a locomotive powered only by electricity. Electricity is supplied to moving trains with a (nearly) continuous conductor running along the track that usually takes one of three forms: an overhead line, suspended from poles or towers along the track or from structure or tunnel ceilings; a third rail mounted at track level; or an onboard battery. Both overhead wire and third-rail systems usually use the running rails as the return conductor but some systems use a separate fourth rail for this purpose. The type of electrical power used is either direct current (DC) or alternating current (AC).
 
-Eastleigh_Works_geograph-2383942-by-Ben-Brooksbank.jpg was equipped with both pantograph and contact shoes]]
+was equipped with both pantograph and contact shoes]]
 
 Various collection methods exist: a trolley pole, which is a long flexible pole that engages the line with a wheel or shoe; a bow collector, which is a frame that holds a long collecting rod against the wire; a pantograph, which is a hinged frame that holds the collecting shoes against the wire in a fixed geometry; or a contact shoe, which is a shoe in contact with the third rail. Of the three, the pantograph method is best suited for high-speed operation.
 
@@ -105,8 +103,6 @@ Electric locomotives almost universally use axle-hung traction motors, with one 
 Electricity is typically generated in large and relatively efficient generating stations, transmitted to the railway network and distributed to the trains. Some electric railways have their own dedicated generating stations and transmission lines but most purchase power from an electric utility. The railway usually provides its own distribution lines, switches and transformers.
 
 Direct current
-
-First_electric_locomotive,_built_in_1879_by_Werner_von_Siemens.jpg B-and-O_electric.jpg
 
 Earliest systems were DC systems. The first electric passenger train was presented by Werner von Siemens at Berlin in 1879. The locomotive was driven by a 2.2 kW, series-wound motor, and the train, consisting of the locomotive and three cars, reached a speed of 13 km/h. During four months, the train carried 90,000 passengers on a 300-metre-long (984 feet) circular track. The electricity (150 V DC) was supplied through a third insulated rail between the tracks. A contact roller was used to collect the electricity. The world's first electric tram line opened in Lichterfelde near Berlin, Germany, in 1881. It was built by Werner von Siemens (see Gross-Lichterfelde Tramway and Berlin Straßenbahn). The Volk's Electric Railway opened in 1883 in Brighton, and is the oldest surviving electric railway. Also in 1883, Mödling and Hinterbrühl Tram opened near Vienna in Austria. It was the first in the world in regular service powered from an overhead line. Five years later, in the U.S. electric trolleys were pioneered in 1888 on the Richmond Union Passenger Railway, using equipment designed by Frank J. Sprague.[34]
 
@@ -118,7 +114,7 @@ DC was used on earlier systems. These systems were gradually replaced by AC. Tod
 
 Alternating current
 
-Ganz_engine_Valtellina.jpg The first practical AC electric locomotive was designed by Charles Brown, then working for Oerlikon, Zürich. In 1891, Brown had demonstrated long-distance power transmission, using three-phase AC, between a hydro-electric plant at Lauffen am Neckar and Frankfurt am Main West, a distance of 280 km. Using experience he had gained while working for Jean Heilmann on steam-electric locomotive designs, Brown observed that three-phase motors had a higher power-to-weight ratio than DC motors and, because of the absence of a commutator, were simpler to manufacture and maintain.[37] However, they were much larger than the DC motors of the time and could not be mounted in underfloor bogies: they could only be carried within locomotive bodies.
+The first practical AC electric locomotive was designed by Charles Brown, then working for Oerlikon, Zürich. In 1891, Brown had demonstrated long-distance power transmission, using three-phase AC, between a hydro-electric plant at Lauffen am Neckar and Frankfurt am Main West, a distance of 280 km. Using experience he had gained while working for Jean Heilmann on steam-electric locomotive designs, Brown observed that three-phase motors had a higher power-to-weight ratio than DC motors and, because of the absence of a commutator, were simpler to manufacture and maintain.[37] However, they were much larger than the DC motors of the time and could not be mounted in underfloor bogies: they could only be carried within locomotive bodies.
 
 In 1894, Hungarian engineer Kálmán Kandó developed a new type 3-phase asynchronous electric drive motors and generators for electric locomotives. Kandó's early 1894 designs were first applied in a short three-phase AC tramway in Evian-les-Bains (France), which was constructed between 1896 and 1898.[38][39][40][41][42] In 1918,[43] Kandó invented and developed the rotary phase converter, enabling electric locomotives to use three-phase motors whilst supplied via a single overhead wire, carrying the simple industrial frequency (50 Hz) single phase AC of the high voltage national networks.[44]
 
@@ -128,7 +124,7 @@ Italian railways were the first in the world to introduce electric traction for 
 
 Battery-electric
 
-Battery_loco_16_at_West_Ham.JPG battery-electric locomotive at West Ham station used for hauling engineers' trains]] Wingrove_&_Rogers_6092.jpg
+battery-electric locomotive at West Ham station used for hauling engineers' trains]]
 
 A battery-electric locomotive (or battery locomotive) is an electric locomotive powered by on-board batteries; a kind of battery electric vehicle.
 
@@ -148,8 +144,6 @@ Other types
 
 Diesel-steam
 
-Teploparovoz_TP1.jpg
-
 Steam-diesel hybrid locomotives can use steam generated from a boiler or diesel to power a piston engine. The _Cristiani Compressed Steam System_ used a diesel engine to power a compressor to drive and recirculate steam produced by a boiler; effectively using steam as the power transmission medium, with the diesel engine being the prime mover[57]
 
 In the 1940s, diesel locomotives began to displace steam power on American railroads. Following the end of World War II, diesel power began to appear on railroads in many countries. The significantly better economics of diesel operation triggered a dash to diesel power, a process known as Dieselization. By the late 1990s, only heritage railways continued to operate steam locomotives.
@@ -166,7 +160,7 @@ In 2002, the first 3.6 tonne, 17 kW hydrogen (fuel cell) -powered mining locomo
 
 Hybrid locomotives
 
-Bombardier_ALP-45DP_at_Innotrans_2010.jpg There are many different types of hybrid or dual-mode locomotives using two or more types of motive power. The most common hybrids are electro-diesel locomotives powered either from an electricity supply or else by an onboard diesel engine. These are used to provide continuous journeys along routes that are only partly electrified.
+There are many different types of hybrid or dual-mode locomotives using two or more types of motive power. The most common hybrids are electro-diesel locomotives powered either from an electricity supply or else by an onboard diesel engine. These are used to provide continuous journeys along routes that are only partly electrified.
 
 
 Use

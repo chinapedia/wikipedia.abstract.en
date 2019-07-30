@@ -44,8 +44,6 @@ In 2010, Jamison married Thomas Traill, a cardiologist and colleague of hers at 
 
 Bibliography
 
-Bookbits_-_2009-12-01_Kay_Redfield_Jamison-Nothing_Was_the_Same.vorb.oga
-
 -
 
 :*

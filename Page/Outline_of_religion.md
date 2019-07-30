@@ -2,7 +2,7 @@ The following outline is provided as an overview of and topical guide to religio
 
 RELIGION – organized collection of beliefs, cultural systems, and world views that relate humanity to an order of existence. Many religions have narratives, symbols, and sacred histories that are intended to explain the meaning of life and/or to explain the origin of life or the Universe. From their beliefs about the cosmos and human nature, people derive morality, ethics, religious laws or a preferred lifestyle. According to some estimates, there are roughly 4,200 religions in the world.
 
-RELIGIONES.png, Christianity, Islam, Bahá'í Faith, Hinduism, Taoism, Buddhism, Sikhism, Slavic neopaganism, Celtic polytheism, Heathenism (German paganism), Semitic neopaganism, Wicca, Kemetism (Egyptian paganism), Hellenism, Italo-Roman neopaganism.]]
+, Christianity, Islam, Bahá'í Faith, Hinduism, Taoism, Buddhism, Sikhism, Slavic neopaganism, Celtic polytheism, Heathenism (German paganism), Semitic neopaganism, Wicca, Kemetism (Egyptian paganism), Hellenism, Italo-Roman neopaganism.]]
 
 
 Classification
@@ -30,7 +30,7 @@ Religion by region
 
 
 
-        RELIGION IN WEST AFRICA LocationWesternAfrica.png
+        RELIGION IN WEST AFRICA
 
 
 
@@ -38,7 +38,7 @@ Religion by region
 
 
 
-        RELIGION IN NORTH AFRICA LocationNorthernAfrica.png
+        RELIGION IN NORTH AFRICA
 
 
 
@@ -46,7 +46,7 @@ Religion by region
 
 
 
-        RELIGION IN CENTRAL AFRICA LocationCentralMiddleAfrica.png
+        RELIGION IN CENTRAL AFRICA
 
 
 
@@ -54,7 +54,7 @@ Religion by region
 
 
 
-        RELIGION IN EAST AFRICA LocationEasternAfrica.png
+        RELIGION IN EAST AFRICA
 
 
 
@@ -62,7 +62,7 @@ Religion by region
 
 
 
-        RELIGION IN SOUTHERN AFRICA LocationSouthernAfrica.png
+        RELIGION IN SOUTHERN AFRICA
 
 
 
@@ -138,7 +138,7 @@ Religion by region
 
 
 
-        RELIGION IN EUROPE Europe_location.png
+        RELIGION IN EUROPE
 
             Akrotiri and Dhekelia • Åland • Albania • Andorra • Armenia • Austria • Azerbaijan • Belarus • Belgium • Bosnia and Herzegovina • Bulgaria • Croatia • Cyprus • Czech Republic • Denmark • Estonia • Faroe Islands • Finland • France • Georgia • Germany • Gibraltar • Greece • Guernsey • Hungary • Iceland • Ireland • Isle of Man • Italy • Jersey • Kazakhstan • Kosovo • Latvia • Liechtenstein • Lithuania • Luxembourg • Malta • Moldova (including disputed Transnistria) • Monaco • Montenegro • Netherlands • North Macedonia • Norway • Poland • Portugal • Romania • Russia • San Marino • Serbia • Slovakia • Slovenia •
 
@@ -163,7 +163,7 @@ Religion by region
 
         NORTH AMERICA
 
-            CANADA LocationCanadaAmerica.png
+            CANADA
 
                 RELIGION IN PROVINCES OF CANADA: • Alberta • British Columbia • Manitoba • New Brunswick • Newfoundland and Labrador • Nova Scotia • Ontario (Toronto) • Prince Edward Island • Quebec • Saskatchewan
                 RELIGION IN TERRITORIES OF CANADA: Northwest Territories • Nunavut • Yukon
@@ -174,7 +174,7 @@ Religion by region
 
 
 
-        UNITED STATES Location_USA_in_America.PNG
+        UNITED STATES
 
 
 
@@ -186,7 +186,7 @@ Religion by region
 
 
 
-        MEXICO Location_mexico_in_america.jpg
+        MEXICO
 
 
 
@@ -206,7 +206,7 @@ Religion by region
 
             RELIGION IN AUSTRALASIA
 
-                Australia Location_Australia.svg
+                Australia
 
                     RELIGION IN DEPENDENCIES/TERRITORIES OF AUSTRALIA
 
@@ -228,7 +228,7 @@ Religion by region
 
 
 
-        RELIGION IN SOUTH AMERICA Location_of_South_America.svg
+        RELIGION IN SOUTH AMERICA
 
             Argentina • Bolivia • Brazil • Chile • Colombia • Ecuador • Falkland Islands • Guyana • Paraguay • Peru • Suriname • Uruguay • Venezuela
 

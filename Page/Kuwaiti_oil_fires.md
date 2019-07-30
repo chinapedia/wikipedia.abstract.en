@@ -1,11 +1,9 @@
-KuwaitiOilFires-STS037-152-91-(2).jpg
-
 The KUWAITI OIL FIRES were caused by Iraqi military forces setting fire to a reported 605 to 732 oil wells along with an unspecified number of oil filled low-lying areas, such as oil lakes and fire trenches, as part of a scorched earth policy while retreating from Kuwait in 1991 due to the advances of Coalition military forces in the Persian Gulf War. The fires were started in January and February 1991, and the first well fires were extinguished in early April 1991, with the last well capped on November 6, 1991.[1]
 
 
 Motives
 
-Oil_well_fires,_south_of_Kuwait_City,_1991.jpg The dispute between Iraq and Kuwait over alleged slant-drilling in the Rumaila oil field was one of the reasons for Iraq's invasion of Kuwait in 1990.[2][3] Kuwaiti_Oil_Well_Fire.jpg In addition, Kuwait had been producing oil above treaty limits established by OPEC.[4] By the eve of the Iraqi invasion, Kuwait had set production quotas to almost , which coincided with a sharp drop in the price of oil. By the summer of 1990, Kuwaiti overproduction had become a serious point of contention with Iraq.
+The dispute between Iraq and Kuwait over alleged slant-drilling in the Rumaila oil field was one of the reasons for Iraq's invasion of Kuwait in 1990.[2][3] In addition, Kuwait had been producing oil above treaty limits established by OPEC.[4] By the eve of the Iraqi invasion, Kuwait had set production quotas to almost , which coincided with a sharp drop in the price of oil. By the summer of 1990, Kuwaiti overproduction had become a serious point of contention with Iraq.
 
 Some analysts have speculated that one of Saddam Hussein's main motivations in invading Kuwait was to punish the ruling al-Sabah family in Kuwait for not stopping its policy of overproduction, as well as his reasoning behind the destruction of said wells.[5]
 
@@ -18,7 +16,7 @@ The military use of the land based fires should also be seen in context with the
 
 Extent
 
-F-14A_VF-114_over_burning_Kuwaiti_oil_well_1991.JPEGiest/blackest of them (1991).[10] ]] As an international coalition under United States command assembled in anticipation of an invasion of Iraqi-occupied Kuwait, the Iraqi regime decided to destroy as much of Kuwait's oil reserves and infrastructure as possible before withdrawing from that country. As early as December 1990, Iraqi forces placed explosive charges on Kuwaiti oil wells. The wells were systematically sabotaged beginning on January 16, 1991, when the allies commenced air strikes against Iraqi targets. On February 8, satellite images detected the first smoke from burning oil wells. The number of oil fires peaked between February 22 and 24, when the allied ground offensive began.[11]
+iest/blackest of them (1991).[10] ]] As an international coalition under United States command assembled in anticipation of an invasion of Iraqi-occupied Kuwait, the Iraqi regime decided to destroy as much of Kuwait's oil reserves and infrastructure as possible before withdrawing from that country. As early as December 1990, Iraqi forces placed explosive charges on Kuwaiti oil wells. The wells were systematically sabotaged beginning on January 16, 1991, when the allies commenced air strikes against Iraqi targets. On February 8, satellite images detected the first smoke from burning oil wells. The number of oil fires peaked between February 22 and 24, when the allied ground offensive began.[11]
 
 According to the U.S. Environmental Protection Agency's report to Congress, "the retreating Iraqi army set fire to or damaged over 700 oil wells, storage tanks, refineries, and facilities in Kuwait."[12] Estimates placed the number of oil well fires from 605 to 732. A further thirty-four wells had been destroyed by heavy coalition bombing in January.[13] The Kuwait Petroleum Company's estimate as of September 1991 was that there had been 610 fires, out of a total of 749 facilities damaged or on fire along with an unspecified number of oil filled low-lying areas, such as "oil lakes" and "fire trenches".[14] These fires constituted approximately 50% of the total number of oil well fires in the history of the petroleum industry,[15] and temporarily damaged or destroyed approximately 85% of the wells in every major Kuwaiti oil field.[16]
 
@@ -27,7 +25,7 @@ Concerted efforts to bring the fires and other damage under control began in Apr
 
 Military effects
 
-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg aircraft fly over burning Kuwaiti oil wells (1991)]] BrennendeOelquellenKuwait1991.jpg, causing respiratory problems for many soldiers on the ground without gas masks (1991).]] B_Company,_1st_Battalion,_3rd_Marines_at_Al-Burgan_Oil_Field,_Kuwait_in_Gulf_War,_February_1991.tif
+aircraft fly over burning Kuwaiti oil wells (1991)]] , causing respiratory problems for many soldiers on the ground without gas masks (1991).]]
 
 On March 21, 1991, a Royal Saudi Air Force C-130H crashed in heavy smoke due to the Kuwaiti oil fires on approach to Ras Mishab Airport, Saudi Arabia. 92 Senegalese soldiers and 6 Saudi crew members were killed, the largest accident among Coalition forces.[25]
 
@@ -69,7 +67,7 @@ Environmental impact
 
 Oil fire smoke
 
-Kuwait_burn_oilfield.png Immediately following Iraq’s invasion of Kuwait, predictions were made of an environmental disaster stemming from Iraqi threats to blow up captured Kuwaiti oil wells. Speculation ranging from a nuclear winter type scenario, to heavy acid rain and even short term immediate global warming were presented at the World Climate Conference in Geneva that November.[46][47]
+Immediately following Iraq’s invasion of Kuwait, predictions were made of an environmental disaster stemming from Iraqi threats to blow up captured Kuwaiti oil wells. Speculation ranging from a nuclear winter type scenario, to heavy acid rain and even short term immediate global warming were presented at the World Climate Conference in Geneva that November.[46][47]
 
 On January 10, 1991, a paper appearing in the Journal _Nature_, stated Paul Crutzen's calculations that the setting alight of the Kuwait oil wells would produce a "nuclear winter", with a cloud of smoke covering half of the Northern Hemisphere after 100 days had passed and beneath the cloud, temperatures would be reduced by 5-10 Celsius.[48] This was followed by articles printed in the Wilmington morning star and the Baltimore Sun newspapers in mid to late January 1991, with the popular TV scientist personality of the time, Carl Sagan, who was also the co-author of the first few nuclear winter papers along with Richard P. Turco, John W. Birks, Alan Robock and Paul Crutzen together collectively stated that they expected catastrophic nuclear winter like effects with continental sized impacts of "sub-freezing" temperatures as a result if the Iraqis went through with their threats of igniting 300 to 500 pressurized oil wells and they burned for a few months.[49][50]
 
@@ -100,7 +98,7 @@ Peter V. Hobbs also narrated a short amateur documentary titled _Kuwait Oil Fire
 
 Oil spills
 
-Mummified_Bird.jpg Although scenarios that predicted long-lasting environmental impacts on a global atmospheric level due to the burning oil sources did not transpire, long-lasting ground level oil spill impacts were detrimental to the environment regionally.[66]
+Although scenarios that predicted long-lasting environmental impacts on a global atmospheric level due to the burning oil sources did not transpire, long-lasting ground level oil spill impacts were detrimental to the environment regionally.[66]
 
 Forty-six oil wells are estimated to have gushed,[67] and before efforts to cap them began, they were releasing approximately 300,000-400,000 barrels of oil per day, with the last gusher being capped occurring in the latter days of October 1991.[68]
 

@@ -42,7 +42,7 @@ In 1657, the directors of the Dutch West India Company wrote to Stuyvesant to te
 
 In 1660, Stuyvesant was quoted as saying that "Nothing is of greater importance than the early instruction of youth." In 1661, New Amsterdam had one grammar school, two free elementary schools, and had licensed 28 schoolmasters.
 
-upright=1.364 GezichtOpNieuwAmsterdam.jpg
+upright=1.364
 
 Religious freedom
 
@@ -57,8 +57,6 @@ In 1657, the Quakers, who were newly arrived in the colony, drew his attention. 
 Capitulation
 
 In 1664, King Charles II of England ceded to his brother, the Duke of York, later King James II, a large tract of land that included all of New Netherland. Four English ships bearing 450 men, commanded by Richard Nicolls, seized the Dutch colony. On 30 August 1664, George Cartwright sent the governor a letter demanding surrender. He promised "life, estate, and liberty to all who would submit to the king's authority."
-
-Styvesant_pear_tree.png
 
 On 6 September 1664, Stuyvesant sent Johannes de Decker, a lawyer for the West India Company, and five others to sign the Articles of Capitulation.[23] Nicolls was declared governor, and the city was renamed New York. Stuyvesant obtained civil rights and freedom of religion in the Articles of Capitulation.[24] The Dutch settlers mainly belonged to the Dutch Reformed church, a Calvinist denomination, holding to the Three Forms of Unity (Belgic Confession, Heidelberg Catechism, Canons of Dordt). The English were Anglicans, holding to the 39 Articles, a Protestant confession, with bishops.
 
@@ -76,7 +74,7 @@ He died in August 1672 and his body was entombed in the east wall of St. Mark's 
 
 Legacy
 
-Petrus_Stuyvesant_statue.jpg which was presented by Queen Wilhelmina of the Netherlands and the Dutch Government to St. Mark's Church in-the-Bowery on December 5, 1915[30]]]
+which was presented by Queen Wilhelmina of the Netherlands and the Dutch Government to St. Mark's Church in-the-Bowery on December 5, 1915[30]]]
 
 Stuyvesant and his family were large landowners in the northeastern portion of New Amsterdam, and the Stuyvesant name is currently associated with four places in Manhattan's East Side, near present-day Gramercy Park: the Stuyvesant Town housing complex; the site of the original Stuyvesant High School, still marked Stuyvesant on its front face, on East 15th Street near First Avenue, Stuyvesant Square, a park in the area; and the Stuyvesant Apartments on East 18th Street. The new Stuyvesant High, a premier public high school, is on Chambers Street near the World Trade Center. His farm, called the "Bouwerij" – the seventeenth-century Dutch word for "farm"[31] – was the source for the name of the Manhattan street and surrounding neighborhood named "The Bowery". The contemporary neighborhood of Bedford–Stuyvesant, Brooklyn includes Stuyvesant Heights and retains its name. Also named after him are the hamlets of Stuyvesant and Stuyvesant Falls in Columbia County, New York, where descendants of the early Dutch settlers still live and where the Dutch Reformed Church remains an important part of the community, as well as shopping centers, yacht clubs and other buildings and facilities throughout the area where the Dutch colony once was.
 
@@ -84,7 +82,7 @@ A statue of Stuyvesant by J. Massey Rhind situated at Bergen Square in Jersey Ci
 
 Descendants
 
-Fish-Hamilton-LOC.jpg, a Governor of New York, was descended from Stuyvesant]] Coat_of_Arms_of_Peter_Stuyvesant.svg
+, a Governor of New York, was descended from Stuyvesant]]
 
 The last acknowledged direct descendant of Peter Stuyvesant to bear his surname was Augustus van Horne Stuyvesant, Jr., who died a bachelor in 1953 at the age of 83 in his mansion at 2 East 79th Street. Rutherfurd Stuyvesant, the 19th-century New York developer, and his descendants are also descended from Peter Stuyvesant; however, Rutherford Stuyvesant's name was changed from Stuyvesant Rutherford in 1863 to satisfy the terms of the 1847 will of Peter Gerard Stuyvesant.[35][36][37]
 

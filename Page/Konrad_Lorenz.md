@@ -9,8 +9,6 @@ Lorenz wrote numerous books, some of which, such as _King Solomon's Ring_, _On A
 
 Biography
 
-Lorenz_1904.jpg
-
 In his autobiographical essay, published in 1973 in _Les Prix Nobel_ (winners of the prizes are requested to provide such essays), Lorenz credits his career to his parents, who "were supremely tolerant of my inordinate love for animals", and to his childhood encounter with Selma Lagerlöf's _The Wonderful Adventures of Nils_, which filled him with a great enthusiasm about wild geese. " [5]
 
 At the request of his father, Adolf Lorenz, he began a premedical curriculum in 1922 at Columbia University, but he returned to Vienna in 1923 to continue his studies at the University of Vienna. He graduated as Doctor of Medicine (MD) in 1928 and became an assistant professor at the Institute of Anatomy until 1935. He finished his zoological studies in 1933 and received his second doctorate (PhD).[6]
@@ -19,7 +17,7 @@ While still a student, Lorenz began developing what would become a large menager
 
 In 1936, at an international scientific symposium on instinct, Lorenz met his great friend and colleague Nikolaas Tinbergen. Together they studied geese—wild, domestic, and hybrid. One result of these studies was that Lorenz "realized that an overpowering increase in the drives of feeding as well as of copulation and a waning of more differentiated social instincts is characteristic of very many domestic animals". Lorenz began to suspect and fear "that analogous processes of deterioration may be at work with civilized humanity." This observation of bird hybrids caused Lorenz to believe that domestication resulting from urbanisation in humans might also cause dysgenic effects, and to argue in two papers that the Nazi eugenics policies against this were therefore scientifically justified.[8]
 
-Konrad_lorenz-rusky_lagr_1944-fotka.jpg in 1944]]
+in 1944]]
 
 In 1940 he became a professor of psychology at the University of Königsberg. He was drafted into the Wehrmacht in 1941. He sought to be a motorcycle mechanic, but instead he was assigned as a military psychologist, conducting racial studies on humans in occupied Poznań under Rudolf Hippius. The objective was to study the biological characteristics of "German-Polish half-breeds" to determine whether they 'benefitted' from the same work ethics as 'pure' Germans.[9] The degree to which Lorenz participated in the project is unknown, but the project director Hippius referred a couple of times to Lorenz as an "examining psychologist".[10]
 
@@ -60,7 +58,7 @@ During the final years of his life, Lorenz supported the fledgling Austrian Gree
 
 Contributions and legacy
 
-Lorenz_and_Tinbergen1.jpg (left), 1978]]
+(left), 1978]]
 
 Lorenz has been called 'The father of ethology', by Niko Tinbergen.[32] Perhaps Lorenz's most important contribution to ethology was his idea that behavior patterns can be studied as anatomical organs.[33] This concept forms the foundation of ethological research.[34][35] However, Richard Dawkins called Lorenz a "'good of the species' man",[36] stating that the idea of group selection was "so deeply ingrained"[37] in Lorenz's thinking that he "evidently did not realize that his statements contravened orthodox Darwinian theory."[38]
 
@@ -71,8 +69,6 @@ Lorenz claimed that there was widespread contempt for the descriptive sciences. 
 There are three research institutions named after Lorenz in Austria: the Konrad Lorenz Institute for Evolution and Cognition Research (KLI) was housed in Lorenz' family mansion at Altenberg before moving to Klosterneuburg in 2013 1; the Konrad Lorenz Forschungsstelle (KLF) at his former field station in Grünau; and the Konrad Lorenz Institute of Ethology, an external research facility of the University of Veterinary Medicine Vienna.
 
 Vision of the challenges facing humanity
-
-Lorenz_and_Tinbergen2.jpg
 
 Lorenz predicted the relationship between market economics and the threat of ecological catastrophe. In his 1973 book, _Civilized Man's Eight Deadly Sins_, Lorenz addresses the following paradox:
 

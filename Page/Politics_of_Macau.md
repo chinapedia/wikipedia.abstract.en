@@ -5,7 +5,7 @@ Constitutional role of Macau
 
 In accordance with Article 31 of the Constitution of the People's Republic of China, Macau has Special Administrative Region status, which provides constitutional guarantees for implementing the policy of "one country, two systems" and the constitutional basis for enacting the Basic Law of the Macau Special Administrative Region. Although geographically part of Guangdong Province, the Macau Special Administrative Region is directly under the authority of the central government of the People's Republic of China in Beijing, which controls the foreign affairs and defence of Macau but otherwise grants the region "a high degree of authority." The Basic Law took force upon handover of sovereignty from Portugal on 20 December 1999, and is to remain in effect for fifty years (that is, until 2049).
 
-Macau's seven deputies to the National People's Congress (NPC) are selected by an electoral conference; they attended their first session of the NPC in Beijing in March 2000. Previously, in December 1999, the NPC Standing Committee approved the membership of the NPC Committee for the Basic Law of the Macau Special Administrative Region, chaired by NPC Vice Chairman Qiao Xiaoyang, for a five-year term. Half of the ten members are from Macau, the others from mainland China. Macau also has representation on the National Committee of the Chinese People's Political Consultative Conference. 特首辦.jpg
+Macau's seven deputies to the National People's Congress (NPC) are selected by an electoral conference; they attended their first session of the NPC in Beijing in March 2000. Previously, in December 1999, the NPC Standing Committee approved the membership of the NPC Committee for the Basic Law of the Macau Special Administrative Region, chaired by NPC Vice Chairman Qiao Xiaoyang, for a five-year term. Half of the ten members are from Macau, the others from mainland China. Macau also has representation on the National Committee of the Chinese People's Political Consultative Conference.
 
 
 Head of Government
@@ -16,7 +16,7 @@ In May 1999, Edmund Ho, a community leader and banker, was the first PRC-appoint
 
 The executive branch of the Macau government has the following cabinet departments, each headed by a secretary: Administration and Justice, Economic and Financial Affairs, Security, Social Affairs and Culture, and Transport and Public Works. There also are two commissions, Against Corruption and Audit, and a chief public prosecutor. Upon Macau's reversion to China, the executive offices were moved from Macau Government House temporarily to the Banco Tai Fung.
 
-Almacau.JPG]]
+]]
 
 
 Executive
@@ -68,7 +68,7 @@ Political pressure groups and leaders
 
 Foreign Affairs
 
-Office_of_the_Commissioner_of_the_Ministry_of_Foreign_Affairs_of_the_PRC_in_the_Macao_SAR.JPG]] The central government in Beijing controls the foreign affairs of Macau. The Office of the Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Macao Special Administrative Region opened its office in Macau on 20 December 1999. A central government agency, the commission interacts with the Macau government in matters of foreign policy. It also processes applications from foreign nations and international organisations wishing to establish consulates or representative offices in Macau. Macau is also authorised to handle some external affairs on its own. These affairs include economic and cultural relations and agreements it concludes with states, regions, and international organisations. In such matters, Macau functions under the name "Macao, China." Macau displays the flag and national emblem of the People's Republic of China but is also authorised to display its own regional flag and emblem. Taiwanese organisations in Macau are allowed to continue operations and are required to abide by the Basic Law.
+]] The central government in Beijing controls the foreign affairs of Macau. The Office of the Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Macao Special Administrative Region opened its office in Macau on 20 December 1999. A central government agency, the commission interacts with the Macau government in matters of foreign policy. It also processes applications from foreign nations and international organisations wishing to establish consulates or representative offices in Macau. Macau is also authorised to handle some external affairs on its own. These affairs include economic and cultural relations and agreements it concludes with states, regions, and international organisations. In such matters, Macau functions under the name "Macao, China." Macau displays the flag and national emblem of the People's Republic of China but is also authorised to display its own regional flag and emblem. Taiwanese organisations in Macau are allowed to continue operations and are required to abide by the Basic Law.
 
 
 International organisation participation

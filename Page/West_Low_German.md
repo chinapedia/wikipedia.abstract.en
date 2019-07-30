@@ -27,8 +27,6 @@ Germany
         -   Dithmarsch[6]
         -   Emsländisch[7]
 
-Koart_Leegsaksisch.png
-
 Netherlands
 
 While Dutch is classified as a Low Franconian language, the Dutch Low Saxon varieties, which are also defined as Dutch dialects, form a dialect continuum with the Westphalian language. They consist of:

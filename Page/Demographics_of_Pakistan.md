@@ -11,11 +11,9 @@ The Demographic history of Pakistan from the ancient Indus Valley Civilization t
 
 Population
 
-Bevölkerungspyramide_Pakistan_2016.png
-
 Geographic distribution
 
-Pakistan_population_density.png The majority of southern Pakistan's population lives along the Indus River. Karachi is the most populous city in Pakistan. In the northern half, most of the population lives about an arc formed by the cities of Faisalabad, Lahore, Rawalpindi, Sargodha, Islamabad, Multan, Gujranwala, Sialkot, Nowshera, Swabi, Mardan, and Peshawar.
+The majority of southern Pakistan's population lives along the Indus River. Karachi is the most populous city in Pakistan. In the northern half, most of the population lives about an arc formed by the cities of Faisalabad, Lahore, Rawalpindi, Sargodha, Islamabad, Multan, Gujranwala, Sialkot, Nowshera, Swabi, Mardan, and Peshawar.
 
 Population size and growth
 
@@ -359,7 +357,7 @@ Nationality, ethnicity, and language
 
 Ethnic groups
 
-Pakistan_ethnic_map_v2.svg Pakistan's diversity is more visible along cultural differences and less along linguistic, religious or genetic lines. Almost all Pakistanis belong to the Indo-Iranian linguistic group of the Indo-European branch. Pakistan's rough estimates vary, but the consensus is that the Punjabis are the largest ethnic group. Pashtuns (Pakhtuns) make up the second largest group and Sindhi are the third-largest ethnic group.[40][41] Saraikis (a transitional group between Punjabis and Sindhis) make up 10.53% of the total population. The remaining large groups include the Muhajirs and the Baloch people, which make up 7.57% and 3.57% of the total population, respectively. Hindkowans and the Brahui, and the various peoples of the Gilgit–Baltistan, constitute roughly 4.66% of the total population. The Pakhtun and Baloch represent two of the major populations that are linguistically Iranian, while the majority Punjabis, Hindkowans, Sindhis and Saraikis are the major linguistically Indo-Aryan groups.
+Pakistan's diversity is more visible along cultural differences and less along linguistic, religious or genetic lines. Almost all Pakistanis belong to the Indo-Iranian linguistic group of the Indo-European branch. Pakistan's rough estimates vary, but the consensus is that the Punjabis are the largest ethnic group. Pashtuns (Pakhtuns) make up the second largest group and Sindhi are the third-largest ethnic group.[40][41] Saraikis (a transitional group between Punjabis and Sindhis) make up 10.53% of the total population. The remaining large groups include the Muhajirs and the Baloch people, which make up 7.57% and 3.57% of the total population, respectively. Hindkowans and the Brahui, and the various peoples of the Gilgit–Baltistan, constitute roughly 4.66% of the total population. The Pakhtun and Baloch represent two of the major populations that are linguistically Iranian, while the majority Punjabis, Hindkowans, Sindhis and Saraikis are the major linguistically Indo-Aryan groups.
 
 Descendents of Black Africans that were brought as slaves in the 15th to the 19th century are known as Sheedis. The Sheedis are Muslims and speak Balochi, Sindhi and Urdu.[42]
 
@@ -374,8 +372,6 @@ All major ethnic groups in Pakistan, while categorized as separate entities, hav
 Foreign-born population in Pakistan
 
 After the independence of Pakistan in 1947, many Muslims from India migrated to Pakistan and they are the largest group of foreign-born residents. This group is dwindling because of its age. The second-largest group of foreign-born residents consists of Muslim refugees from Afghanistan who are expected to leave Pakistan by the end of 2018.[50] There are also smaller groups of Muslim immigrants from countries such as Burma, Bangladesh, Iraq, Somalia, Iran, Tajikistan, and Uzbekistan, among others.
-
-Percentage_Foreign_Born_-_Pakistan.jpg
 
   Year   Population    Foreign born   Percentage foreign born
   ------ ------------- -------------- -------------------------

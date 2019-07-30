@@ -1,5 +1,3 @@
-IBM_PowerPC601_PPC601FD-080-2_top.jpg
-
 POWERPC (with the backronym PERFORMANCE OPTIMIZATION WITH ENHANCED RISC – PERFORMANCE COMPUTING, sometimes abbreviated as PPC) is a reduced instruction set computer (RISC) instruction set architecture (ISA) created by the 1991 Apple–IBM–Motorola alliance, known as _AIM_. PowerPC, as an evolving instruction set, has since 2006 been named Power ISA, while the old name lives on as a trademark for some implementations of Power Architecture-based processors.
 
 PowerPC was the cornerstone of AIM's PReP and Common Hardware Reference Platform initiatives in the 1990s. Originally intended for personal computers, the architecture is well known for being used by Apple's Power Macintosh, PowerBook, iMac, iBook, and Xserve lines from 1994 until 2006, when Apple migrated to Intel's x86. It has since become a niche in personal computers, but remains popular for embedded and high-performance processors. Its use in 7th generation of video game consoles and embedded applications provided an array of uses. In addition, PowerPC CPUs are still used in AmigaOne and third party AmigaOS 4 personal computers.
@@ -43,7 +41,7 @@ Breakup of AIM
 
 Toward the close of the decade, manufacturing issues began plaguing the AIM alliance in much the same way they did Motorola, which consistently pushed back deployments of new processors for Apple and other vendors: first from Motorola in the 1990s with the PowerPC 7xx and 74xx processors, and IBM with the 64-bit PowerPC 970 processor in 2003. In 2004, Motorola exited the chip manufacturing business by spinning off its semiconductor business as an independent company called Freescale Semiconductor. Around the same time, IBM exited the 32-bit embedded processor market by selling its line of PowerPC products to Applied Micro Circuits Corporation (AMCC) and focusing on 64-bit chip designs, while maintaining its commitment of PowerPC CPUs toward game console makers such as Nintendo's GameCube and Wii, Sony's PlayStation 3 and Microsoft's Xbox 360, of which the latter two both use 64-bit processors. In 2005, Apple announced they would no longer use PowerPC processors in their Apple Macintosh computers, favoring Intel-produced processors instead, citing the performance limitations of the chip for future personal computer hardware specifically related to heat generation and energy usage, as well as the inability of IBM to move the 970 processor to the 3 GHz range. The IBM-Freescale alliance was replaced by an open standards body called Power.org. Power.org operates under the governance of the IEEE with IBM continuing to use and evolve the PowerPC processor on game consoles and Freescale Semiconductor focusing solely on embedded devices.
 
-PowerISA-evolution.svg, PowerPC and Power ISAs]] IBM continues to develop PowerPC microprocessor cores for use in their application-specific integrated circuit (ASIC) offerings. Many high volume applications embed PowerPC cores.
+, PowerPC and Power ISAs]] IBM continues to develop PowerPC microprocessor cores for use in their application-specific integrated circuit (ASIC) offerings. Many high volume applications embed PowerPC cores.
 
 The PowerPC specification is now handled by Power.org where IBM, Freescale, and AMCC are members. PowerPC, Cell and POWER processors are now jointly marketed as the Power Architecture. Power.org released a unified ISA, combining POWER and PowerPC ISAs into the new Power ISA v.2.03 specification and a new reference platform for servers called PAPR (Power Architecture Platform Reference).
 
@@ -100,7 +98,7 @@ Some of IBM's embedded PowerPC chips use a per-page endianness bit. None of the 
 
 Implementations
 
-IBM_PPC604e_200.jpg 200 MHz]] broadwaycpu.JPG video game console]] XPC855TZP66D4_3K20A.jpg SunFire V20z]]
+200 MHz]] video game console]] SunFire V20z]]
 
 The first implementation of the architecture was the PowerPC 601, released in 1992, based on the RSC, implementing a hybrid of the POWER1 and PowerPC instructions. This allowed the chip to be used by IBM in their existing POWER1-based platforms, although it also meant some slight pain when switching to the 2nd generation "pure" PowerPC designs. Apple continued work on a new line of Macintosh computers based on the chip, and eventually released them as the 601-based _Power Macintosh_ on March 14, 1994.
 

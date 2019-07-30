@@ -7,7 +7,7 @@ Opole Province's geographic location, economic potential, and its population's l
 
 History
 
-OPna49.png Opole Voivodeship was created on January 1, 1999, out of the former Opole Voivodeship and parts of Częstochowa Voivodeship, pursuant to the Polish local government reforms adopted in 1998. Originally, the government, advised by prominent historians, had wanted to disestablish Opolskie and partition its territory between the more historically Polish regions of Lower Silesia and Silesian Voivodeship (eastern Upper Silesia and western Malopolska. The plan was that Brzeg and Namysłów, as the Western part of the region, were to be transferred to Lower Silesia, while the rest was to become, along with a part of the Częstochowa Voivodeship, an integral part of the new 'Silesian' region. However, the plans resulted in an outcry from the German minority population of Opole Voivodeship, who feared that should their region be abolished, they would lose all hope of regional representation (in the proposed Silesian Region, they would have formed a very small minority among a great number of ethnic Poles). To the surprise of many of the ethnic Germans in Opole however, the local Polish Silesian population and groups of ethnic Poles also rose up to oppose the planned reforms; this came about as a result of an overwhelming feeling of attachment to the voivodeships that were scheduled to be 'redrawn', as well as a fear of 'alienation' should one find themselves residing in a new, unfamiliar region.
+Opole Voivodeship was created on January 1, 1999, out of the former Opole Voivodeship and parts of Częstochowa Voivodeship, pursuant to the Polish local government reforms adopted in 1998. Originally, the government, advised by prominent historians, had wanted to disestablish Opolskie and partition its territory between the more historically Polish regions of Lower Silesia and Silesian Voivodeship (eastern Upper Silesia and western Malopolska. The plan was that Brzeg and Namysłów, as the Western part of the region, were to be transferred to Lower Silesia, while the rest was to become, along with a part of the Częstochowa Voivodeship, an integral part of the new 'Silesian' region. However, the plans resulted in an outcry from the German minority population of Opole Voivodeship, who feared that should their region be abolished, they would lose all hope of regional representation (in the proposed Silesian Region, they would have formed a very small minority among a great number of ethnic Poles). To the surprise of many of the ethnic Germans in Opole however, the local Polish Silesian population and groups of ethnic Poles also rose up to oppose the planned reforms; this came about as a result of an overwhelming feeling of attachment to the voivodeships that were scheduled to be 'redrawn', as well as a fear of 'alienation' should one find themselves residing in a new, unfamiliar region.
 
 The solution came in late 1999, when Olesno was, after 24 years apart, finally reunited with the Opole Voivodeship to form the new legally defined region. A historic moment came in 2006 when the town of Radłów changed its local laws to make German, alongside Polish, the district's second official language; thus becoming the first town in the region to achieve such a feat.
 
@@ -33,7 +33,7 @@ Administrative division
 
 Opole Voivodeship is divided into 12 counties (powiats): 1 city county and 11 land counties. These are further divided into 71 gminas.
 
-The counties are listed in the following table (ordering is by decreasing population). Oppeln_-_Altstadt1-description.jpg, the voivodeship's capital]] NysaRynek_PiotrFuz_1280.jpg, the third-largest town by population in the south-west]] SM_Brzeg_Ratusz_(1)_ID_609764.jpg, a popular tourist attraction for its Renaissance Town Hall and Castle]] Prudnik._Ratusz2.JPG, with its preserved medieval town centre]] Kluczbork_-_ratusz.jpg serves as a key rail line junction in the north-east of the region]]
+The counties are listed in the following table (ordering is by decreasing population). , the voivodeship's capital]] , the third-largest town by population in the south-west]] , a popular tourist attraction for its Renaissance Town Hall and Castle]] , with its preserved medieval town centre]] serves as a key rail line junction in the north-east of the region]]
 
 +--------------------------------+-------+------------+-------------------+------------------------------------------+--------+
 | ENGLISH AND                    | AREA  | POPULATION | SEAT              | OTHER TOWNS                              | TOTAL  |
@@ -96,13 +96,13 @@ About 15% of the one million inhabitants of this voivodeship are ethnic Germans,
 
 Economy
 
-Opole_-_Gmach_Dworca_Głównego_01.jpg is a major transportation hub through which much of the region's trade is channelled]] The Opole Voivodeship is an industrial as well as an agricultural region. With respect to mineral resources, of major importance are deposits of raw materials for building: limestone (Strzelce Opolskie), marl (near Opole), marble, and basalt. The favourable climate, fertile soils, and high farming culture contribute to the development of agriculture, which is among the most productive in the country.
+is a major transportation hub through which much of the region's trade is channelled]] The Opole Voivodeship is an industrial as well as an agricultural region. With respect to mineral resources, of major importance are deposits of raw materials for building: limestone (Strzelce Opolskie), marl (near Opole), marble, and basalt. The favourable climate, fertile soils, and high farming culture contribute to the development of agriculture, which is among the most productive in the country.
 
 A total of nineteen industries are represented in the voivodeship. The most important are cement and lime, furniture, food, car manufacturing, and chemical industries. In 1997, the biggest production growth in the area was in companies producing wood and wood products, electrical equipment, machinery and appliances, as well as cellulose and paper products. In 1997, the top company in the region was Zakłady Azotowe S.A. in Kędzierzyn-Koźle, whose income was over PLN 860 million. The voivodship's economy consists of more than 53,000 businesses, mostly small and medium-sized, employing over 332,000 people. Manufacturing companies employ over 89,000 people; 95.7% of all the region's business operate in the private sector.
 
 Tourism
 
-3Kat_Boch.JPG, near Opole]]
+, near Opole]]
 
 The Opole Voivodeship is a green region with three large lakes: Turawskie, Nyskie, and Otmuchów (the latter two are connected). The Opawskie Mountains are extremely popular. The region also includes the castle in Brzeg, built during the reign of the Piast dynasty—pearl of the Silesian Renaissance, the Franciscan monastery on top of Saint Anne Mountain, as well as the medieval defence fortifications in Paczków (referred to as the Upper Silesian Carcassonne).
 
@@ -144,8 +144,6 @@ Most popular surnames in Opole Voivodeship:
 Former Opole voivodeships
 
 Opole Voivodeship (1975-1999)
-
-Opole_Voivodship_1975.png
 
 Opole Voivodeship was also a unit of administrative division and local government in Poland between 1975 and 1998.
 

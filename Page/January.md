@@ -5,7 +5,7 @@ Ancient Roman observances during this month include Cervula and Juvenalia, celeb
 
 History
 
-Les_Très_Riches_Heures_du_duc_de_Berry_Janvier.jpg'']]
+'']]
 
 January (in Latin, _Ianuarius_) is named after the Latin word for door (_ianua_), since January is the door to the year and an opening to new beginnings. The month is conventionally thought of as being named after Janus, the god of beginnings and transitions in Roman mythology, but according to ancient Roman farmers' almanacs Juno was the tutelary deity of the month.[1]
 
@@ -20,10 +20,10 @@ According to Theodor Mommsen,[3] 1 January became the first day of the year in 6
 
 January symbols
 
-Sneeuw1.jpg in the month of January]]
+in the month of January]]
 
--   GarnetEZ.jpg gemstone]]January's birthstone is the garnet, which represents constancy.
--   Galanthus_nivalis_close-up_aka.jpg (_Galanthus_) flower]]Dianthus_carthusianorum_210505a.jpg]]Its birth flower is the cottage pink _Dianthus caryophyllus_ or galanthus.[4]
+-   gemstone]]January's birthstone is the garnet, which represents constancy.
+-   (_Galanthus_) flower]]]]Its birth flower is the cottage pink _Dianthus caryophyllus_ or galanthus.[4]
 -   The Japanese floral emblem of January is the camellia (_Camellia sinensis_).
 -   In Finnish, the month of _tammikuu_ means the heart of the winter and because the name literally means "oak moon", it can be inferred that the oak tree is the heart of the grand forest with many valuable trees as opposed to the typical Arctic forests, which are typically pine and spruce. The photograph of a large tree covered with ice against a blue sky is a familiar scene during Finland's winter.
 -   The zodiac signs for the month of January are Capricorn (until January 19) and Aquarius (January 20 onwards).
@@ -35,7 +35,7 @@ _This list does not necessarily imply either official status or general observan
 
 Month-long observances
 
-Januar_Leandro_Bassano.jpg]]
+]]
 
 -   Alzheimer's Awareness Month (Canada)
 -   Dry January (United Kingdom)

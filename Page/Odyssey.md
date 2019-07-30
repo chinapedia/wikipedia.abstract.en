@@ -13,7 +13,7 @@ Synopsis
 
 Exposition
 
-Villa_Romana_de_La_Olmeda_Mosaicos_romanos_001_Ulises.jpg depicting Odysseus, from the villa of La Olmeda, Pedrosa de la Vega, Spain, late 4th-5th centuries AD]]
+depicting Odysseus, from the villa of La Olmeda, Pedrosa de la Vega, Spain, late 4th-5th centuries AD]]
 
 The _Odyssey_ begins after the end of the ten-year Trojan War (the subject of the _Iliad_), and Odysseus has still not returned home from the war because he angered the god Poseidon. Odysseus' son Telemachus is about 20 years old and is sharing his absent father's house on the island of Ithaca with his mother Penelope and a crowd of 108 boisterous young men, "the Suitors", whose aim is to persuade Penelope to marry one of them, all the while reveling in Odysseus' palace and eating up his wealth.
 
@@ -27,7 +27,7 @@ Both Helen and Menelaus also say that they returned to Sparta after a long voyag
 
 Escape to the Phaeacians
 
-Odysseus_And_Nausicaä_-_Project_Gutenberg_eText_13725.jpg, _Odysseus and Nausicaä_]]
+, _Odysseus and Nausicaä_]]
 
 The second part recounts the story of Odysseus. In the course of his seven years in captivity of Calypso on the island of Ogygia, she has fallen deeply in love with him, even though he has consistently spurned her offer of immortality as her husband and still mourns for home. She is ordered to release him by the messenger god Hermes, who has been sent by Zeus in response to Athena's plea. Odysseus builds a raft and is given clothing, food, and drink by Calypso. When Poseidon learns that Odysseus has escaped, he wrecks the raft but, helped by a veil given by the sea nymph Ino, Odysseus swims ashore on Scherie, the island of the Phaeacians. Naked and exhausted, he hides in a pile of leaves and falls asleep.
 
@@ -37,7 +37,7 @@ He remains for several days, and is goaded into taking part in a discus throw by
 
 Odysseus' account of his adventures
 
-Francesco_Hayez_028.jpg' Song'', by Francesco Hayez, 1813–15]]
+' Song'', by Francesco Hayez, 1813–15]]
 
 Odysseus goes back in time and recounts his story to the Phaeacians. After a failed piratical raid on Ismaros in the land of the Cicones, Odysseus and his twelve ships were driven off course by storms. Odysseus visited the lethargic Lotus-Eaters who gave his men their fruit that caused them to forget their homecoming, so Odysseus had to drag them back to the ship by force.
 
@@ -49,7 +49,7 @@ The men then re-embarked and encountered the cannibalistic Laestrygonians. All o
 
 They remained with her on the island for one year, while they feasted and drank. Finally, guided by Circe's instructions, Odysseus and his crew crossed the ocean and reached a harbor at the western edge of the world, where Odysseus sacrificed to the dead. He first encountered the spirit of Elpenor, a crewman who had gotten drunk and fallen from a roof to his death on Aeaea. Elpenor's ghost told Odysseus to bury his body, which Odysseus promised to do. Odysseus then summoned the spirit of the prophet Tiresias for advice on how to appease Poseidon upon his return home, and was told that he may return home if he is able to stay himself and his crew from eating the sacred livestock of Helios on the island of Thrinacia and that failure to do so would result in the loss of his ship and his entire crew. Next Odysseus met the spirit of his own mother, Anticlea, who had died of grief during his long absence. From her, he got his first news of his own household, threatened by the greed of the Suitors. Finally, he met the spirits of famous men and women. Notably, he encountered the spirit of Agamemnon, of whose murder he now learned, and Achilles, who lamented the woes of the land of the dead but was comforted in hearing of the success of his son Neoptolemus (for Odysseus' encounter with the dead, see also _Nekuia_).
 
-Odysseus_Sirens_BM_E440_n2.jpg, c. 480-470 BC (British Museum)]]
+, c. 480-470 BC (British Museum)]]
 
 Returning to Aeaea, they buried Elpenor and were advised by Circe on the remaining stages of the journey. They skirted the land of the Sirens, who sang an enchanting song that normally caused passing sailors to steer toward the rocks, only to hit them and sink. All of the sailors had their ears plugged up with beeswax, except for Odysseus, who was tied to the mast as he wanted to hear the song. He told his sailors not to untie him as it would only make him want to drown himself. They then passed between the six-headed monster Scylla and the whirlpool Charybdis, narrowly avoiding death, even though Scylla snatched up six men.
 
@@ -57,7 +57,7 @@ Next, they landed on the island of Thrinacia, with the crew overriding Odysseus'
 
 Return to Ithaca
 
-Giuseppe_Bottani_-_Athena_revealing_Ithaca_to_Ulysses.jpg Revealing Ithaca to Ulysses'' by Giuseppe Bottani (18th century)]]
+Revealing Ithaca to Ulysses'' by Giuseppe Bottani (18th century)]]
 
 Having listened with rapt attention to his story, the Phaeacians agree to provide Odysseus with more treasure than he would have received from the spoils of Troy. They deliver him at night, while he is fast asleep, to a hidden harbour on Ithaca. Poseidon, offended that the Phaeacians have returned Odysseus home, destroys the Phaeacian ship on its return voyage, and the city sacrifices to Poseidon and agrees to stop giving escorts to strangers to appease him. Odysseus awakens and believes that he has been dropped on a distant land before Athena appears to him and reveals that he is indeed on Ithaca. She then hides his treasure in a nearby cave and disguises him as an elderly beggar so he can see how things stand in his household. He finds his way to the hut of one of his own slaves, the swineherd Eumaeus, who treats him hospitably and speaks favorably of Odysseus. After dinner, the disguised Odysseus tells the farm laborers a fictitious tale of himself: he was born in Crete, had led a party of Cretans to fight alongside other Greeks in the Trojan War, and had then spent seven years at the court of the king of Egypt, finally shipwrecking in Thesprotia and crossing from there to Ithaca. He further promises the men of the return of Odysseus, but his promises are wearily discounted by the men.
 
@@ -67,7 +67,7 @@ Odysseus's identity is discovered by the housekeeper, Eurycleia, when she recogn
 
 Slaying of the Suitors
 
-Thomas_Degeorge_Ulysse.jpg (1812)]]
+(1812)]]
 
 The next day, at Athena's prompting, Penelope maneuvers the Suitors into competing for her hand with an archery competition using Odysseus' bow. The man who can string the bow and shoot it through a dozen axe heads would win. Odysseus takes part in the competition himself: he alone is strong enough to string the bow and shoot it through the dozen axe heads, making him the winner. He then throws off his rags and kills Antinous with his next arrow. Then, with the help of Athena, Odysseus, Telemachus, Eumaeus, and Philoetius the cowherd he kills the other Suitors, first using the rest of the arrows and then by swords and spears once both sides armed themselves. Once the battle is won, Odysseus and Telemachus also hang twelve of their household maids whom Eurycleia identifies as guilty of betraying Penelope or having sex with the Suitors. They mutilate and kill the goatherd Melanthius, who had mocked and abused Odysseus and brought weapons and armor to the suitors. Now, at last, Odysseus identifies himself to Penelope. She is hesitant but recognizes him when he mentions that he made their bed from an olive tree still rooted to the ground. Many modern and ancient scholars take this to be the original ending of the _Odyssey_, and the rest to be an interpolation.
 
@@ -78,7 +78,7 @@ The citizens of Ithaca have followed Odysseus on the road, planning to avenge th
 
 Character of Odysseus
 
-Mosaïque_d'Ulysse_et_les_sirènes.jpg depicting a maritime scene with Odysseus (Latin: Ulysses) and the Sirens, from Carthage, 2nd century AD, now in the Bardo Museum, Tunisia]]
+depicting a maritime scene with Odysseus (Latin: Ulysses) and the Sirens, from Carthage, 2nd century AD, now in the Bardo Museum, Tunisia]]
 
 Odysseus' name means "trouble" in Greek, referring to both the giving and receiving of trouble—as is often the case in his wanderings. An early example of this is the boar hunt that gave Odysseus the scar by which Eurycleia recognizes him; Odysseus is injured by the boar and responds by killing it. Odysseus' heroic trait is his _mētis_, or "cunning intelligence". He is often described as the "Peer of Zeus in Counsel". This intelligence is most often manifested by his use of disguise and deceptive speech. His disguises take forms both physical (altering his appearance) and verbal, such as telling the Cyclops Polyphemus that his name is , "Nobody", then escaping after blinding Polyphemus. When asked by other Cyclopes why he is screaming, Polyphemus replies that "Nobody" is hurting him, so the others assume that "If alone as you are [Polyphemus] none uses violence on you, why, there is no avoiding the sickness sent by great Zeus; so you had better pray to your father, the lord Poseidon".[9] The most evident flaw that Odysseus sports is that of his arrogance and his pride, or _hubris._ As he sails away from the island of the Cyclopes, he shouts his name and boasts that nobody can defeat the "Great Odysseus". The Cyclops then throws the top half of a mountain at him and prays to his father, Poseidon, saying that Odysseus has blinded him. This enrages Poseidon, causing the god to thwart Odysseus' homecoming for a very long time.
 
@@ -101,7 +101,7 @@ The events in the main sequence of the _Odyssey_ (excluding Odysseus' embedded n
 
 Influences on the _Odyssey_
 
-Humbaba_deamon-AO_9034-IMG_0655-black.jpg, believed to be a possible inspiration for the figure of Polyphemus]]
+, believed to be a possible inspiration for the figure of Polyphemus]]
 
 Scholars have seen strong influences from Near Eastern mythology and literature in the _Odyssey_. Martin West has noted substantial parallels between the _Epic of Gilgamesh_ and the _Odyssey_.[14] Both Odysseus and Gilgamesh are known for traveling to the ends of the earth, and on their journeys go to the land of the dead. On his voyage to the underworld, Odysseus follows instructions given to him by Circe. Her island, Aeaea, is located at the edges of the world and seems to have close associations with the sun. Like Odysseus, Gilgamesh gets directions on how to reach the land of the dead from a divine helper: in this case, the goddess Siduri, who, like Circe, dwells by the sea at the ends of the earth. Her home is also associated with the sun: Gilgamesh reaches Siduri's house by passing through a tunnel underneath Mt. Mashu, the high mountain from which the sun comes into the sky. West argues that the similarity of Odysseus' and Gilgamesh's journeys to the edges of the earth are the result of the influence of the Gilgamesh epic upon the _Odyssey_.
 
@@ -112,7 +112,7 @@ Themes
 
 Homecoming
 
-Homerus_-_Odissea,_1794_-_3939651_F.jpg An important factor to consider about Odysseus' homecoming is the hint at potential endings to the epic by using other characters as parallels for his journey.[19] For instance, one example is that of Agamemnon's homecoming versus Odysseus' homecoming. Upon Agamemnon's return, his wife Clytemnestra and her lover, Aegisthus kill Agamemnon. Agamemnon's son, Orestes, out of vengeance for his father's death, kills Aegisthus. This parallel compares the death of the suitors to the death of Aegisthus and sets Orestes up as an example for Telemachus.[20] Also, because Odysseus knows about Clytemnestra's betrayal, Odysseus returns home in disguise in order to test the loyalty of his own wife, Penelope.[21] Later, Agamemnon praises Penelope for not killing Odysseus. It is because of Penelope that Odysseus has fame and a successful homecoming. This successful homecoming is unlike Achilles, who has fame but is dead, and Agamemnon, who had an unsuccessful homecoming resulting in his death.[22]
+An important factor to consider about Odysseus' homecoming is the hint at potential endings to the epic by using other characters as parallels for his journey.[19] For instance, one example is that of Agamemnon's homecoming versus Odysseus' homecoming. Upon Agamemnon's return, his wife Clytemnestra and her lover, Aegisthus kill Agamemnon. Agamemnon's son, Orestes, out of vengeance for his father's death, kills Aegisthus. This parallel compares the death of the suitors to the death of Aegisthus and sets Orestes up as an example for Telemachus.[20] Also, because Odysseus knows about Clytemnestra's betrayal, Odysseus returns home in disguise in order to test the loyalty of his own wife, Penelope.[21] Later, Agamemnon praises Penelope for not killing Odysseus. It is because of Penelope that Odysseus has fame and a successful homecoming. This successful homecoming is unlike Achilles, who has fame but is dead, and Agamemnon, who had an unsuccessful homecoming resulting in his death.[22]
 
 Wandering
 
@@ -124,8 +124,6 @@ Throughout the course of the epic, Odysseus encounters several examples of _xeni
 
 Testing
 
-Odysseus_und_Penelope_(Tischbein).jpg
-
 Another theme throughout the _Odyssey_ is testing.[36] This occurs in two distinct ways. Odysseus tests the loyalty of others and others test Odysseus' identity. An example of Odysseus testing the loyalties of others is when he returns home.[37] Instead of immediately revealing his identity, he arrives disguised as a beggar and then proceeds to determine who in his house has remained loyal to him and who has helped the suitors. After Odysseus reveals his true identity, the characters test Odysseus' identity to see if he really is who he says he is.[38] For instance, Penelope tests Odysseus' identity by saying that she will move the bed into the other room for him. This is a difficult task since it is made out of a living tree that would require being cut down, a fact that only the real Odysseus would know, thus proving his identity. For more information on the progression of testing type scenes, read more below.[39]
 
 Omens
@@ -135,7 +133,7 @@ Omens occur frequently throughout the _Odyssey,_ as well as in many other epics.
 
 Scenes
 
-Odysseus_and_Euryclea_by_Christian_Gottlob_Heyne_-_Project_Gutenberg_eText_13725.jpg]]
+]]
 
 Finding scenes
 
@@ -184,7 +182,7 @@ In the late 19th century many papyrus containing parts or even entire chapters h
 
 Cultural impact
 
-Annibale_Carracci,_The_Cyclops_Polyphemus.jpg (between 1595 and 1605), showing a scene shared between the _Odyssey_ and Euripides's _Cyclops_ (1922)]]
+(between 1595 and 1605), showing a scene shared between the _Odyssey_ and Euripides's _Cyclops_ (1922)]]
 
 The _Odyssey_ is regarded as one of the most important foundational works of western literature.[66] It is widely regarded by western literary critics as a timeless classic.[67]
 
@@ -192,7 +190,7 @@ Straightforward retellings of the _Odyssey_ have flourished ever since the Middl
 
 Other authors have composed more creative reworkings of the poem, often updated to address contemporary themes and concerns. _Cyclops_ by Euripides, the only fully extant satyr play,[72] retells the episode involving Polyphemus with a humorous twist.[73] _A True Story_, written by Lucian of Samosata in the 2nd century AD, is a satire on the _Odyssey_ and on ancient travel tales, describing a journey sailing westward, beyond the Pillars of Hercules and to the Moon, the first known text that could be called science fiction.[74]
 
-JoyceUlysses2.jpg's _Ulysses_]]
+'s _Ulysses_]]
 
 James Joyce's modernist novel _Ulysses_ (1922) is a retelling of the _Odyssey_ set in modern-day Dublin. Each chapter in the book has an assigned theme, technique, and correspondences between its characters and those of Homer's _Odyssey_.[75] _Homer's Daughter_ by Robert Graves is a novel imagining how the version we have might have been invented out of older tales. The Japanese-French anime _Ulysses 31_ (1981) updates the ancient setting into a 31st-century space opera. _Omeros_ (1991), an epic poem by Derek Walcott, is in part a retelling of the _Odyssey_, set on the Caribbean island of St. Lucia. The film _Ulysses' Gaze_ (1995) directed by Theo Angelopoulos has many of the elements of the _Odyssey_ set against the backdrop of the most recent and previous Balkan Wars.[76]
 

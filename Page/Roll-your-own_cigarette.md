@@ -1,5 +1,3 @@
-Hand_rolled.jpg
-
 ROLL-YOUR-OWN cigarettes (also called RYO, MYO, ROLLIES, ROLL-UPS, BURNS, BINGIE, HAND-ROLLED CIGARETTES, or ROLLS) refer to cigarettes made from loose tobacco and rolling paper. Roll-your-own products are sold in pouches or as tins of tobacco, sometimes including the rolling papers or cigarette tubes. Loose filters are available for purchase and can be added to the rolled cigarettes. Some people use a machine to assist them and some people use pre-rolled cones or cigarette tubes.
 
 Hand-rolled cigarettes give smokers the ability to roll cigarettes of any diameter, thereby varying the strength of the cigarette. Technological aids—from hand injectors to large in-store machines—aid in the process.
@@ -13,7 +11,7 @@ In Europe, EU regulations for tar and nicotine levels in cigarettes do not apply
 
 Equipment
 
-Ba-9may-1997-sergievsky-3.jpg The least amount of supplies needed to roll one's own cigarettes includes tobacco and rolling papers. However, some prefer to use equipment to aid them in rolling. These can include mechanical rolling machines and cigarette injectors (both mechanical and electric). Filters can also be added when using a rolling machine, and filter tubes are used when making cigarettes with an injector.
+The least amount of supplies needed to roll one's own cigarettes includes tobacco and rolling papers. However, some prefer to use equipment to aid them in rolling. These can include mechanical rolling machines and cigarette injectors (both mechanical and electric). Filters can also be added when using a rolling machine, and filter tubes are used when making cigarettes with an injector.
 
 Rolling tobacco
 

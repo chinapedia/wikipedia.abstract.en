@@ -50,9 +50,9 @@ In Central Europe, the extermination in the Protectorate of Bohemia and Moravia 
 
 Contemporary issues
 
-Romani_population_average_estimate.png "average estimates", totalling 9.8 million)[35]]]
+"average estimates", totalling 9.8 million)[35]]]
 
-Sap34.jpg, 2011]]
+, 2011]]
 
 In Europe, Romani people are associated with poverty, and are accused of high rates of crime and behaviours that are perceived by the rest of the population as being antisocial or inappropriate.[36] Partly for this reason, discrimination against the Romani people has continued to the present day,[37][38] although efforts are being made to address them.[39] Amnesty International reports continued instances of Antizigan discrimination during the 20th Century, particularly in Romania, Serbia,[40] Slovakia,[41] Hungary,[42] Slovenia,[43] and Kosovo.[44] The European Union has recognized that discrimination against Romani must be addressed, and with the national Roma integration strategy they encourage member states to work towards greater Romani inclusion and upholding the rights of the Romani in the European union.[45]
 
@@ -83,7 +83,7 @@ Organizations and projects
 
 Artistic representations
 
-Rest_during_the_Flight_to_Egypt-Paris_Bordon_mg_9985.jpg, , Elizabeth, at right, is shown as a gypsy fortune-teller]] Many depictions of Romani people in literature and art present romanticized narratives of mystical powers of fortune telling or irascible or passionate temper paired with an indomitable love of freedom and a habit of criminality. Romani were a popular subject in Venetian painting from the time of Giorgione at the start of the 16th century; the inclusion of such a figure adds an exotic oriental flavour to scenes. A Venetian Renaissance painting by Paris Bordone (ca. 1530, Strasbourg) of the Holy Family in Egypt makes Elizabeth, a gypsy fortune-teller; the scene is otherwise located in a distinctly European landscape.[60]
+, , Elizabeth, at right, is shown as a gypsy fortune-teller]] Many depictions of Romani people in literature and art present romanticized narratives of mystical powers of fortune telling or irascible or passionate temper paired with an indomitable love of freedom and a habit of criminality. Romani were a popular subject in Venetian painting from the time of Giorgione at the start of the 16th century; the inclusion of such a figure adds an exotic oriental flavour to scenes. A Venetian Renaissance painting by Paris Bordone (ca. 1530, Strasbourg) of the Holy Family in Egypt makes Elizabeth, a gypsy fortune-teller; the scene is otherwise located in a distinctly European landscape.[60]
 
 Particularly notable are classics like the story _Carmen_ by Prosper Mérimée and the opera based on it by Georges Bizet, Victor Hugo's _The Hunchback of Notre Dame_, Herge's _The Castafiore Emerald_ and Miguel de Cervantes' _La Gitanilla_. The Romani were also depicted in _A Midsummer Night's Dream_, _As You Like It_, _Othello_ and _The Tempest_, all by William Shakespeare.
 

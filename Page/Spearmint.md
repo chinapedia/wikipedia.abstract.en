@@ -5,7 +5,7 @@ The species and its subspecies have many synonyms, including _Mentha crispa_, _M
 
 Description
 
-Spearmint_in_Bangladesh_03.jpg Spearmint is a perennial herbaceous plant. It is tall, with variably hairless to hairy stems and foliage, and a wide-spreading fleshy underground rhizome from which it grows. The leaves are long and broad, with a serrated margin. The stem is square-shaped, a trademark of the mint family of herbs. Spearmint produces flowers in slender spikes, each flower pink or white in colour, long, and broad.[5][6] Spearmint flowers in the summer (from July to September in the northern hemisphere),[7] and has relatively large seeds, which measure .[8] The name 'spear' mint derives from the pointed leaf tips.[9]
+Spearmint is a perennial herbaceous plant. It is tall, with variably hairless to hairy stems and foliage, and a wide-spreading fleshy underground rhizome from which it grows. The leaves are long and broad, with a serrated margin. The stem is square-shaped, a trademark of the mint family of herbs. Spearmint produces flowers in slender spikes, each flower pink or white in colour, long, and broad.[5][6] Spearmint flowers in the summer (from July to September in the northern hemisphere),[7] and has relatively large seeds, which measure .[8] The name 'spear' mint derives from the pointed leaf tips.[9]
 
 _Mentha spicata_ varies considerably in leaf blade dimensions, the prominence of leaf veins, and pubescence.[10]
 

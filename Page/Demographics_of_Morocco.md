@@ -1,4 +1,4 @@
-COB_data_Morocco.PNG This article is about the demographic features of the population of Morocco, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+This article is about the demographic features of the population of Morocco, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 The population of Morocco in 2014 is 33,848,242.[1] The overwhelming majority of Moroccans are of Arab descent.[2][3] Those who identify as Arab-Berbers are genetically nearly identical to non-Arab Berbers, suggesting that the processes of 'Arabization' were almost entirely cultural rather than genetic.[4] Some Moroccans identify themselves as Berbers through the spoken language, through a mix of family/tribal/territorial ties or through both. Other Moroccans identify themselves as Arabised Berbers, mostly based on them speaking Arabic or being coerced to speak Arabic and/or not being able to speak Berber. However, due to Arabisation and its policies, some of them believe they have Arab descent from the Arabian Peninsula or the Levant. Some Moroccans believe themselves to be of mixed Arab-Berber descent or of Arab-Berber-Andalusian ancestry. There are no official figures about the exact ethnic origins of all Moroccans, but the implicitly accepted idea inside and outside Morocco is that Moroccans are essentially mixed Arab-Berbers. However, a recent study by the National Geographic showed the majority of North Africa are predominantly of non-Arab ancestry, thus Amazigh.
 
@@ -62,7 +62,7 @@ Source: _UN World Population Prospects_[9]
 
 Structure of the population
 
-Bevölkerungspyramide_Marokko_2016.png Structure of the population (Census 2004):[10][11]
+Structure of the population (Census 2004):[10][11]
 
   Age Group      Male        Female       Total        %
   -------------- ----------- ------------ ------------ --------
@@ -281,7 +281,7 @@ LIFE EXPECTANCY AT BIRTH
 
 Ethnic groups
 
-Tafilet;_the_narrative_of_a_journey_of_exploration_in_the_Atlas_mountains_and_the_oases_of_the_north-west_Sahara_(1895)_(14596209599).jpg Woman in Tafilet ]]
+Woman in Tafilet ]]
 
 -   Arabs and Berbers 99%[16]
 -   Other 1%[17]

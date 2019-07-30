@@ -27,7 +27,7 @@ Turtle geometry is also sometimes used in environments other than Logo as an alt
 
 Implementations
 
-IBM_LCSI_Logo_Welcome_Screen.png IBM_LCSI_Logo_Circles.png Some modern derivatives of Logo allow thousands of independently moving turtles. There are two popular implementations: Massachusetts Institute of Technology's StarLogo and Northwestern University Center for Connected Learning's (CCL) NetLogo. They allow exploring emergent phenomena and come with many experiments in social studies, biology, physics, and other areas. NetLogo is widely used in agent-based simulation in the biological and social sciences.
+Some modern derivatives of Logo allow thousands of independently moving turtles. There are two popular implementations: Massachusetts Institute of Technology's StarLogo and Northwestern University Center for Connected Learning's (CCL) NetLogo. They allow exploring emergent phenomena and come with many experiments in social studies, biology, physics, and other areas. NetLogo is widely used in agent-based simulation in the biological and social sciences.
 
 Although there is no one agreed-upon standard, there is a broad consensus on core aspects of the language. As of March 2009 there were 197 implementations and dialects of Logo, each with its own strengths.[8] Most of those 197 are no longer in wide use, but many are still under active development. Commercial Logos that are still widely used in schools include _MicroWorlds Logo_ and _Imagine Logo_.
 

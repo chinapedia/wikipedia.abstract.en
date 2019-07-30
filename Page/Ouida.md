@@ -8,11 +8,11 @@ Maria Louise Ramé was born at Bury St Edmunds, England.[2] Her mother, Susan Su
 
 Career
 
-Ouida_cartoon.png She moved into the Langham Hotel, London in 1867. There, according to the hotel promotional materials, she wrote in bed, by candlelight, with the curtains drawn to keep out daylight and surrounded by purple flowers.[8] She ran up huge hotel and florists bills of up to 200 pounds per week and commanded soirees that included soldiers, politicians, literary lights (including Oscar Wilde, Algernon Swinburne, Robert Browning and Wilkie Collins), and artists (including John Millais).[9] Many of her stories and characters were based upon people she invited to her salons at The Langham.[10] Ouida was described by William Allingham in his diary of 1872 as of short stature, with a "sinister, clever face" and with a "voice like a carving knife."
+She moved into the Langham Hotel, London in 1867. There, according to the hotel promotional materials, she wrote in bed, by candlelight, with the curtains drawn to keep out daylight and surrounded by purple flowers.[8] She ran up huge hotel and florists bills of up to 200 pounds per week and commanded soirees that included soldiers, politicians, literary lights (including Oscar Wilde, Algernon Swinburne, Robert Browning and Wilkie Collins), and artists (including John Millais).[9] Many of her stories and characters were based upon people she invited to her salons at The Langham.[10] Ouida was described by William Allingham in his diary of 1872 as of short stature, with a "sinister, clever face" and with a "voice like a carving knife."
 
 For many years Ouida lived in London, but about 1871 she moved to Italy. In 1874, she settled permanently with her mother in Florence, and there long pursued her work as a novelist. At first she rented an 'apartment' at the Palazzo Vagnonville. Later she removed to the Villa Farinola at Scandicci, south of Bellosguardo, three miles from Florence, where she lived in great style, entertained largely, collected objets d'art, dressed expensively but not tastefully, drove good horses, and kept many dogs, to which she was deeply attached. She lived in Bagni di Lucca for a period, where there is a commemorative plaque on the outside wall. She declared that she never received from her publishers more than £1600. for any one novel, but that she found America 'a mine of wealth.' In 'The Massarenes' (1897) she gave a lurid picture of the parvenu millionaire in smart London society. This book was greatly prized by Ouida, and was very successful in terms of sales. Thenceforth she chiefly wrote for the leading magazines essays on social questions or literary criticisms, which were not remunerative. As before, she used her locations as inspiration for the setting and characters in her novels. The British and American colony in Florence was satirised in her novel, _Friendship_ (1878). Ouida considered herself a serious artist. She was inspired by Byron in particular, and was interested in other artists of all kinds. Sympathetic descriptions of tragic painters and singers occurred in her later novels. Her work often combines romanticism with social criticism. In her novel, _Puck_, a talking dog narrates his views on society. _Views and Opinions_ includes essays in her own voice on a variety of social topics. She was an animal lover and rescuer, and at times owned as many as thirty dogs.
 
-III_Cimitero_Inglese,_Bagni_di_Lucca,_Italia_2_(2).jpg's English cemetery]]
+'s English cemetery]]
 
 Although successful, she did not manage her money well. A civil list pension of £150 a year was offered to her by the prime minister, Sir Henry Campbell-Bannerman, on the application of Alfred Austin, George Wyndham, and Walburga, Lady Paget, which she reluctantly accepted after request by her friend, Lady Howard of Glossop, on 16 July 1906.
 
@@ -21,7 +21,7 @@ She continued to live in Italy until her death on 25 January 1908, at 70 Via Zan
 
 Literary career
 
-'OUIDA'_1839-1908_NOVELIST_lived_here.jpg at 11 Ravenscourt Square, Hammersmith, London W6]]During her career, Ouida wrote more than 40 novels, children's books and collections of short stories and essays. Her work had several phases.
+at 11 Ravenscourt Square, Hammersmith, London W6]]During her career, Ouida wrote more than 40 novels, children's books and collections of short stories and essays. Her work had several phases.
 
 In 1863, when she was 24, she published her first novel, _Held in Bondage_.[12] (She later claimed to have written her well-received novel _Idalia_ (1867) at the age of 16. It featured a rebellious ingenue heroine who was sympathetic to Italian independence.)[13]
 
@@ -33,8 +33,6 @@ _Under Two Flags_, one of her most famous novels, described the British in Alger
 Influence
 
 The British composer Frederic Hymen Cowen and his librettists Gilbert Arthur à Beckett, H.A. Rudall, and Frederic Edward Weatherly acquired the rights to Ouida's 1875 novel _Signa_ to create an opera for Richard D'Oyly Carte's Royal English Opera House to succeed Arthur Sullivan's _Ivanhoe_ in 1891. Between Cowen not being ready with his work and the collapse of Carte's venture, Cowen eventually took his finished _Signa_ to Italy with an Italian translation of the original English text by G.A. Mazzucato. After many delays and production troubles, Cowen's _Signa_ was first performed in a reduced three-act version at the Teatro Dal Verme, Milan on 12 November 1893. After further revision and much cutting, it was later given in a two-act version at Covent Garden, London on 30 June 1894, at which point Cowen wondered if there was any sense left in the opera at all. Ouida's impression of the work is unknown.
-
-OUIDA_memorial.jpg
 
 Later, Pietro Mascagni bought the rights for her story "Two Little Wooden Shoes", intending to adapt it for an opera. His friend Giacomo Puccini became interested in the story and began a court action, claiming that because Ouida was in debt, the rights to her works should be put up for public auction to raise funds for creditors. He won the court challenge and persuaded his publisher Ricordi to bid for the story. After Ricordi won, Puccini lost interest and never composed the opera. Mascagni later composed one based on the story, under the title _Lodoletta_.[17]
 

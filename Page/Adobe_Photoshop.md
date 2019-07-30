@@ -117,8 +117,6 @@ Cultural impact
 
 _Photoshop_ and derivatives such as _Photoshopped_ (or just _Shopped_) have become verbs that are sometimes used to refer to images edited by Photoshop,[43] or any image manipulating program. Such derivatives are discouraged by Adobe[44] because, in order to maintain validity and protect the trademark from becoming generic, trademarks must be used as proper nouns.
 
-Photomontage_(Forggensee_Panorama)_-2.jpg Photomerge_London.jpg
-
 
 Version history
 
@@ -152,7 +150,7 @@ CS2 activation servers' shutdown: In January 2013, Adobe Photoshop CS2 (9.0), wi
 
 CS3
 
-Photoshop_CS3_Smart_Layers.png)]]
+)]]
 
 CS3 improves on features from previous versions of Photoshop and introduces new tools. One of the most significant is the streamlined interface which allows increased performance, speed, and efficiency. There is also improved support for Camera RAW files which allow users to process images with higher speed and conversion quality. CS3 supports over 150 RAW formats as well as JPEG, TIFF and PDF.[55] Enhancements were made to the Black and White Conversion, Brightness and Contrast Adjustment and Vanishing Point Module tools. The Black and White adjustment option improves control over manual grayscale conversions with a dialog box similar to that of Channel Mixer. There is more control over print options and better management with Adobe Bridge. The Clone Source palette is introduced, adding more options to the clone stamp tool. Other features include the nondestructive Smart Filters, optimizing graphics for mobile devices,[56] Fill Light and Dust Busting tools.[57] Compositing is assisted with Photoshop's new Quick Selection and Refine Edge tools and improved image stitching technology.[58]
 
@@ -169,8 +167,6 @@ Adobe released Photoshop CS4 Extended, which has the features of Adobe Photoshop
 CS4 and CS4 Extended were released on October 15, 2008. They were also made available through Adobe's online store and Adobe Authorized Resellers. Both CS4 and CS4 Extended are offered as either a stand-alone application or feature of Adobe Creative Suite. Both products are compatible with Intel-based Mac OS X and PowerPCs, supporting Windows XP and Windows Vista.[69]
 
 CS5
-
-JoyRaj_Landscape_Wikipedia.jpg
 
 Photoshop CS5 was launched on April 12, 2010.[70] In a video posted on its official Facebook page, the development team revealed the new technologies under development, including three-dimensional brushes and warping tools.[71]
 

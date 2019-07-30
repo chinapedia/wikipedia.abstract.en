@@ -1,4 +1,4 @@
-Measure_illustration.png in the sense that if _A_ is a subset of _B_, the measure of _A_ is less than or equal to the measure of _B_. Furthermore, the measure of the empty set is required to be 0.]]
+in the sense that if _A_ is a subset of _B_, the measure of _A_ is less than or equal to the measure of _B_. Furthermore, the measure of the empty set is required to be 0.]]
 
 In mathematical analysis, a MEASURE on a set is a systematic way to assign a number to each suitable subset of that set, intuitively interpreted as its size. In this sense, a measure is a generalization of the concepts of length, area, and volume. A particularly important example is the Lebesgue measure on a Euclidean space, which assigns the conventional length, area, and volume of Euclidean geometry to suitable subsets of the -dimensional Euclidean space . For instance, the Lebesgue measure of the interval in the real numbers is its length in the everyday sense of the word, specifically, 1.
 

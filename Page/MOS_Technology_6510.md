@@ -12,8 +12,6 @@ In the C64, the extra I/O pins of the processor were used to control the compute
 
 Variants
 
-6510_CPU_Pinout.svg
-
 MOS 8500
 
 In 1985, MOS produced the 8500, an HMOS version of the 6510. Other than the process modification, it is virtually identical to the NMOS version of the 6510. The 8500 was originally designed for use in the modernised C64, the C64C. However, in 1985, limited quantities of 8500s were found on older NMOS-based C64s. It finally made its official debut in 1987, appearing in a motherboard using the new 85xx HMOS chipset.

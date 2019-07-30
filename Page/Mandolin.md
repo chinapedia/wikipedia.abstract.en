@@ -6,7 +6,7 @@ Other mandolin varieties differ primarily in the number of strings and include f
 
 Much of mandolin development revolved around the soundboard (the top). Pre-mandolin instruments were quiet instruments, strung with as many as six courses of gut strings, and were plucked with the fingers or with a quill. However, modern instruments are louder—using four courses of metal strings, which exert more pressure than the gut strings. The modern soundboard is designed to withstand the pressure of metal strings that would break earlier instruments. The soundboard comes in many shapes—but generally round or teardrop-shaped, sometimes with scrolls or other projections. There are usually one or more _sound holes_ in the soundboard, either round, oval, or shaped like a calligraphic (f-hole). A round or oval sound hole may be covered or bordered with decorative rosettes or purfling.[2][3]
 
-Luigi_Bassi480.jpg played the role of Don Giovanni in Mozart's opera, serenading a woman with a mandolin. This used to be the common picture of the mandolin, an obscure instrument of romance in the hands of a Spanish nobleman.[4]]]
+played the role of Don Giovanni in Mozart's opera, serenading a woman with a mandolin. This used to be the common picture of the mandolin, an obscure instrument of romance in the hands of a Spanish nobleman.[4]]]
 
 
 History
@@ -18,7 +18,7 @@ Mandolins evolved from lute family instruments in Europe. Predecessors include t
 
 Construction
 
-Parts_of_the_Mandolin.png Mandolins have a body that acts as a resonator, attached to a neck. The resonating body may be shaped as a bowl (necked bowl lutes) or a box (necked box lutes). Traditional Italian mandolins, such as the Neapolitan mandolin, meet the necked bowl description.[5] The necked box instruments include the carved top mandolins and the flatback mandolins.[6]
+Mandolins have a body that acts as a resonator, attached to a neck. The resonating body may be shaped as a bowl (necked bowl lutes) or a box (necked box lutes). Traditional Italian mandolins, such as the Neapolitan mandolin, meet the necked bowl description.[5] The necked box instruments include the carved top mandolins and the flatback mandolins.[6]
 
 Strings run between mechanical tuning machines at the top of the neck to a tailpiece that anchors the other end of the strings. The strings are suspended over the neck and soundboard and pass over a floating bridge.[7] The bridge is kept in contact with the soundboard by the downward pressure from the strings. The neck is either flat or has a slight radius, and is covered with a fingerboard with frets.[8][9][10] The action of the strings on the bridge causes the soundboard to vibrate, producing sound.[11]
 
@@ -38,14 +38,10 @@ A variety of different tunings are used. Usually, courses of 2 adjacent strings 
 
 Note that the numbers of Hz shown above assume a 440 Hz A, standard in most parts of the western world. Some players use an A up to 10 Hz above or below a 440, mainly outside the United States.
 
-File:Mandolin fretboard.png
-
 Other tunings exist, including _cross-tunings_, in which the usually doubled string runs are tuned to different pitches. Additionally, guitarists may sometimes tune a mandolin to mimic a portion of the intervals on a standard guitar tuning to achieve familiar fretting patterns.
 
 
 Mandolin family
-
-Gibson-mandolin-orchestra.jpg
 
 Soprano
 
@@ -53,7 +49,7 @@ The MANDOLIN is the soprano member of the mandolin family, as the violin is the 
 
 Piccolo
 
-Piccolomando.jpg The PICCOLO or SOPRANINO MANDOLIN is a rare member of the family, tuned one octave above the mandola and one fourth above the mandolin (C₄–G₄–D₅–A₅); the same relation as that of the piccolo or sopranino violin to the violin and viola. One model was manufactured by the Lyon & Healy company under the Leland brand. A handful of contemporary luthiers build piccolo mandolins. Its scale length is typically about .
+The PICCOLO or SOPRANINO MANDOLIN is a rare member of the family, tuned one octave above the mandola and one fourth above the mandolin (C₄–G₄–D₅–A₅); the same relation as that of the piccolo or sopranino violin to the violin and viola. One model was manufactured by the Lyon & Healy company under the Leland brand. A handful of contemporary luthiers build piccolo mandolins. Its scale length is typically about .
 
 Alto
 
@@ -61,7 +57,7 @@ The MANDOLA (US and Canada), termed the _TENOR MANDOLA_ in Britain and Ireland a
 
 Tenor
 
-Octave2edit.JPG The OCTAVE MANDOLIN (US and Canada), termed the _OCTAVE MANDOLA_ in Britain and Ireland and _MANDOLA_ in continental Europe, is tuned an octave below the mandolin: G₂–D₃–A₃–E₄. Its relationship to the mandolin is that of the tenor violin to the violin. Octave mandolin scale length is typically about , although instruments with scales as short as or as long as are not unknown.
+The OCTAVE MANDOLIN (US and Canada), termed the _OCTAVE MANDOLA_ in Britain and Ireland and _MANDOLA_ in continental Europe, is tuned an octave below the mandolin: G₂–D₃–A₃–E₄. Its relationship to the mandolin is that of the tenor violin to the violin. Octave mandolin scale length is typically about , although instruments with scales as short as or as long as are not unknown.
 
 BANDOL: The instrument has a variant off the coast of South America in Trinidad, where it is known as the bandol, a flat-backed instrument with four courses, the lower two strung with metal and nylon strings.[12]
 
@@ -73,7 +69,7 @@ Other relatives of the cittern, which might also be loosely linked to the mandol
 
 Baritone/Bass
 
-Giuseppe_Branzoli.tiff.]] The MANDOLONE was a Baroque member of the mandolin family in the bass range that was surpassed by the mandocello. Built as part of the Neapolitan mandolin family.
+.]] The MANDOLONE was a Baroque member of the mandolin family in the bass range that was surpassed by the mandocello. Built as part of the Neapolitan mandolin family.
 
 The MANDOCELLO, which is classically tuned to an octave plus a fifth below the mandolin, in the same relationship as that of the cello to the violin: C₂–G₂–D₃–A₃. Its scale length is typically about . A typical violoncello scale is .
 
@@ -83,7 +79,7 @@ The Algerian MANDOLE was developed by an Italian luthier in the early 1930s, sca
 
 Contrabass
 
-Gibson_Mandobass_and_Melody_Maiden.jpg The MANDO-BASS most frequently has 4 single strings, rather than double courses, and is tuned in fourths like a double bass or an acoustic bass guitar: E₁–A₁–D₂–G₂. These were made by the Gibson company in the early 20th century, but appear to have never been very common. A smaller scale four-string mandobass, usually tuned in fifths: G₁–D₂–A₂–E₃ (two octaves below the mandolin), though not as resonant as the larger instrument, was often preferred by players as easier to handle and more portable.[17] Reportedly, however, most mandolin orchestras preferred to use the ordinary double bass, rather than a specialised mandolin family instrument. Calace and other Italian makers predating Gibson also made mandolin-basses.
+The MANDO-BASS most frequently has 4 single strings, rather than double courses, and is tuned in fourths like a double bass or an acoustic bass guitar: E₁–A₁–D₂–G₂. These were made by the Gibson company in the early 20th century, but appear to have never been very common. A smaller scale four-string mandobass, usually tuned in fifths: G₁–D₂–A₂–E₃ (two octaves below the mandolin), though not as resonant as the larger instrument, was often preferred by players as easier to handle and more portable.[17] Reportedly, however, most mandolin orchestras preferred to use the ordinary double bass, rather than a specialised mandolin family instrument. Calace and other Italian makers predating Gibson also made mandolin-basses.
 
 The relatively rare eight-string mandobass, or TREMOLO-BASS also exists, with double courses like the rest of the mandolin family, and is tuned either G₁–D₂–A₂–E₃, two octaves lower than the mandolin, or C₁–G₁–D₂–A₂, two octaves below the mandola.[18][19]
 
@@ -104,7 +100,7 @@ Intertwined with the Neapolitan style is the Roman style mandolin, which has inf
 
 Manufacturers of Neapolitan-style mandolins
 
-Mandolin_Player_(by_Jitze_Couperus).jpg family workshop.]]
+family workshop.]]
 
 Prominent Italian manufacturers include Vinaccia (Naples), Embergher (Rome) and Calace (Naples).[30] Other modern manufacturers include Lorenzo Lippi (Milan), Hendrik van den Broek (Netherlands), Brian Dean (Canada), Salvatore Masiello and Michele Caiazza (La Bottega del Mandolino) and Ferrara, Gabriele Pandini.[31][32]
 
@@ -184,7 +180,7 @@ A resonator mandolin or "resophonic mandolin" is a mandolin whose sound is produ
 
 Electric mandolin
 
-Rory&#039;s_Mandolin.jpg As with almost every other contemporary string instrument, another modern variant is the electric mandolin. These mandolins can have four or five individual or double courses of strings.
+As with almost every other contemporary string instrument, another modern variant is the electric mandolin. These mandolins can have four or five individual or double courses of strings.
 
 They have been around since the late 1920s or early 1930s depending on the brand. They come in solid body and acoustic electric forms.
 
@@ -195,7 +191,7 @@ Playing traditions worldwide
 
 See Mandolin playing traditions worldwide
 
-Giuseppe_Pettine_in_1898.jpg (here pictured in 1898) brought the Italian playing style to America where he settled in Providence, Rhode Island, as a mandolin teacher and composer. Pettine is credited with promoting a style where "one player plays both the rhythmic chords and the lyric melodic line at once, combining single strokes and tremolo."[93]]] The international repertoire of music for mandolin is almost unlimited, and musicians use it to play various types of music. This is especially true of violin music, since the mandolin has the same tuning as the violin. Following its invention and early development in Italy the mandolin spread throughout the European continent. The instrument was primarily used in a classical tradition with Mandolin orchestras, so called _Estudiantinas_ or in Germany _Zupforchestern_ appearing in many cities. Following this continental popularity of the mandolin family local traditions appeared outside Europe in the Americas and in Japan. Travelling mandolin virtuosi like Giuseppe Pettine, Raffaele Calace and Silvio Ranieri contributed to the mandolin becoming a "fad" instrument in the early 20th century.[94] This "mandolin craze" was fading by the 1930s, but just as this practice was falling into disuse, the mandolin found a new niche in American country, old-time music, bluegrass and folk music. More recently, the Baroque and Classical mandolin repertory and styles have benefited from the raised awareness of and interest in Early music, with media attention to classical players such as Israeli Avi Avital, Italian Carlo Aonzo and American Joseph Brent.
+(here pictured in 1898) brought the Italian playing style to America where he settled in Providence, Rhode Island, as a mandolin teacher and composer. Pettine is credited with promoting a style where "one player plays both the rhythmic chords and the lyric melodic line at once, combining single strokes and tremolo."[93]]] The international repertoire of music for mandolin is almost unlimited, and musicians use it to play various types of music. This is especially true of violin music, since the mandolin has the same tuning as the violin. Following its invention and early development in Italy the mandolin spread throughout the European continent. The instrument was primarily used in a classical tradition with Mandolin orchestras, so called _Estudiantinas_ or in Germany _Zupforchestern_ appearing in many cities. Following this continental popularity of the mandolin family local traditions appeared outside Europe in the Americas and in Japan. Travelling mandolin virtuosi like Giuseppe Pettine, Raffaele Calace and Silvio Ranieri contributed to the mandolin becoming a "fad" instrument in the early 20th century.[94] This "mandolin craze" was fading by the 1930s, but just as this practice was falling into disuse, the mandolin found a new niche in American country, old-time music, bluegrass and folk music. More recently, the Baroque and Classical mandolin repertory and styles have benefited from the raised awareness of and interest in Early music, with media attention to classical players such as Israeli Avi Avital, Italian Carlo Aonzo and American Joseph Brent.
 
 
 Notable literature

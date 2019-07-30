@@ -1,5 +1,3 @@
-Parallax_Example.svg Parallax.gif
-
 PARALLAX () is a displacement or difference in the apparent position of an object viewed along two different lines of sight, and is measured by the angle or semi-angle of inclination between those two lines.[1][2] Due to foreshortening, nearby objects show a larger parallax than farther objects when observed from different positions, so parallax can be used to determine distances.
 
 To measure large distances, such as the distance of a planet or a star from Earth, astronomers use the principle of parallax. Here, the term _parallax_ is the semi-angle of inclination between two sight-lines to the star, as observed when Earth is on opposite sides of the Sun in its orbit.[3] These distances form the lowest rung of what is called "the cosmic distance ladder", the first in a succession of methods by which astronomers determine the distances to celestial objects, serving as a basis for other distance measurements in astronomy forming the higher rungs of the ladder.
@@ -18,8 +16,6 @@ The motion parallax is exploited also in wiggle stereoscopy, computer graphics w
 
 Astronomy
 
-Parallax_geo_or_helio_static.PNG
-
 Parallax arises due to change in viewpoint occurring due to motion of the observer, of the observed, or of both. What is essential is relative motion. By observing parallax, measuring angles, and using geometry, one can determine distance. Astronomers also use the word "parallax" as a synonym for "distance measurement" by other methods: see parallax (disambiguation)#Astronomy.
 
 Stellar parallax
@@ -28,13 +24,13 @@ Stellar parallax created by the relative motion between the Earth and a star can
 
 Stellar parallax is most often measured using ANNUAL PARALLAX, defined as the difference in position of a star as seen from the Earth and Sun, i. e. the angle subtended at a star by the mean radius of the Earth's orbit around the Sun. The parsec (3.26 light-years) is defined as the distance for which the annual parallax is 1 arcsecond. Annual parallax is normally measured by observing the position of a star at different times of the year as the Earth moves through its orbit. Measurement of annual parallax was the first reliable way to determine the distances to the closest stars. The first successful measurements of stellar parallax were made by Friedrich Bessel in 1838 for the star 61 Cygni using a heliometer.[6] Stellar parallax remains the standard for calibrating other measurement methods. Accurate calculations of distance based on stellar parallax require a measurement of the distance from the Earth to the Sun, now based on radar reflection off the surfaces of planets.[7]
 
-The angles involved in these calculations are very small and thus difficult to measure. The nearest star to the Sun (and thus the star with the largest parallax), Proxima Centauri, has a parallax of 0.7687 ± 0.0003 arcsec.[8] This angle is approximately that subtended by an object 2 centimeters in diameter located 5.3 kilometers away. 14-104-hubble-parallax.png – Spatial scanning precisely measures distances up to 10,000 light-years away (10 April 2014).[9]]] The fact that stellar parallax was so small that it was unobservable at the time was used as the main scientific argument against heliocentrism during the early modern age. It is clear from Euclid's geometry that the effect would be undetectable if the stars were far enough away, but for various reasons such gigantic distances involved seemed entirely implausible: it was one of Tycho's principal objections to Copernican heliocentrism that in order for it to be compatible with the lack of observable stellar parallax, there would have to be an enormous and unlikely void between the orbit of Saturn (then the most distant known planet) and the eighth sphere (the fixed stars).[10]
+The angles involved in these calculations are very small and thus difficult to measure. The nearest star to the Sun (and thus the star with the largest parallax), Proxima Centauri, has a parallax of 0.7687 ± 0.0003 arcsec.[8] This angle is approximately that subtended by an object 2 centimeters in diameter located 5.3 kilometers away. – Spatial scanning precisely measures distances up to 10,000 light-years away (10 April 2014).[9]]] The fact that stellar parallax was so small that it was unobservable at the time was used as the main scientific argument against heliocentrism during the early modern age. It is clear from Euclid's geometry that the effect would be undetectable if the stars were far enough away, but for various reasons such gigantic distances involved seemed entirely implausible: it was one of Tycho's principal objections to Copernican heliocentrism that in order for it to be compatible with the lack of observable stellar parallax, there would have to be an enormous and unlikely void between the orbit of Saturn (then the most distant known planet) and the eighth sphere (the fixed stars).[10]
 
 In 1989, the satellite Hipparcos was launched primarily for obtaining improved parallaxes and proper motions for over 100,000 nearby stars, increasing the reach of the method tenfold. Even so, Hipparcos is only able to measure parallax angles for stars up to about 1,600 light-years away, a little more than one percent of the diameter of the Milky Way Galaxy. The European Space Agency's Gaia mission, launched in December 2013, will be able to measure parallax angles to an accuracy of 10 microarcseconds, thus mapping nearby stars (and potentially planets) up to a distance of tens of thousands of light-years from Earth.[11][12] In April 2014, NASA astronomers reported that the Hubble Space Telescope, by using spatial scanning, can now precisely measure distances up to 10,000 light-years away, a ten-fold improvement over earlier measurements.[13]
 
 Distance measurement
 
-Stellarparallax2.svg motion]]
+motion]]
 
 Distance measurement by parallax is a special case of the principle of triangulation, which states that one can solve for all the sides and angles in a network of triangles if, in addition to all the angles in the network, the length of at least one side has been measured. Thus, the careful measurement of the length of one baseline can fix the scale of an entire triangulation network. In parallax, the triangle is extremely long and narrow, and by measuring both its shortest side (the motion of the observer) and the small top angle (always less than 1 arcsecond,[14] leaving the other two close to 90 degrees), the length of the long sides (in practice considered to be equal) can be determined.
 
@@ -54,8 +50,6 @@ The lunar (horizontal) parallax can alternatively be defined as the angle subten
 
 The lunar horizontal parallax at any time depends on the linear distance of the Moon from the Earth. The Earth–Moon linear distance varies continuously as the Moon follows its perturbed and approximately elliptical orbit around the Earth. The range of the variation in linear distance is from about 56 to 63.7 Earth radii, corresponding to horizontal parallax of about a degree of arc, but ranging from about 61.4' to about 54'.[20] The Astronomical Almanac and similar publications tabulate the lunar horizontal parallax and/or the linear distance of the Moon from the Earth on a periodical e.g. daily basis for the convenience of astronomers (and of celestial navigators), and the study of the way in which this coordinate varies with time forms part of lunar theory.
 
-Lunaparallax.png
-
 Parallax can also be used to determine the distance to the Moon.
 
 One way to determine the lunar parallax from one location is by using a lunar eclipse. A full shadow of the Earth on the Moon has an apparent radius of curvature equal to the difference between the apparent radii of the Earth and the Sun as seen from the Moon. This radius can be seen to be equal to 0.75 degree, from which (with the solar apparent radius 0.25 degree) we get an Earth apparent radius of 1 degree. This yields for the Earth–Moon distance 60.27 Earth radii or This procedure was first used by Aristarchus of Samos[21] and Hipparchus, and later found its way into the work of Ptolemy.[22] The diagram at the right shows how daily lunar parallax arises on the geocentric and geostatic planetary model in which the Earth is at the centre of the planetary system and does not rotate. It also illustrates the important point that parallax need not be caused by any motion of the observer, contrary to some definitions of parallax that say it is, but may arise purely from motion of the observed.
@@ -63,8 +57,6 @@ One way to determine the lunar parallax from one location is by using a lunar ec
 Another method is to take two pictures of the Moon at exactly the same time from two locations on Earth and compare the positions of the Moon relative to the stars. Using the orientation of the Earth, those two position measurements, and the distance between the two locations on the Earth, the distance to the Moon can be triangulated:
 
 $$\mathrm{distance}_{\mathrm{moon}} = \frac {\mathrm{distance}_{\mathrm{observerbase}}} {\tan (\mathrm{angle})}$$
-
-Lunarparallax_22_3_1988.png
 
 This is the method referred to by Jules Verne in _From the Earth to the Moon_:
 
@@ -75,8 +67,6 @@ Solar parallax
 After Copernicus proposed his heliocentric system, with the Earth in revolution around the Sun, it was possible to build a model of the whole Solar System without scale. To ascertain the scale, it is necessary only to measure one distance within the Solar System, e.g., the mean distance from the Earth to the Sun (now called an astronomical unit, or AU). When found by triangulation, this is referred to as the _solar parallax_, the difference in position of the Sun as seen from the Earth's centre and a point one Earth radius away, i. e., the angle subtended at the Sun by the Earth's mean radius. Knowing the solar parallax and the mean Earth radius allows one to calculate the AU, the first, small step on the long road of establishing the size and expansion age[23] of the visible Universe.
 
 A primitive way to determine the distance to the Sun in terms of the distance to the Moon was already proposed by Aristarchus of Samos in his book _On the Sizes and Distances of the Sun and Moon_. He noted that the Sun, Moon, and Earth form a right triangle (with the right angle at the Moon) at the moment of first or last quarter moon. He then estimated that the Moon, Earth, Sun angle was 87°. Using correct geometry but inaccurate observational data, Aristarchus concluded that the Sun was slightly less than 20 times farther away than the Moon. The true value of this angle is close to 89° 50', and the Sun is actually about 390 times farther away.[24] He pointed out that the Moon and Sun have nearly equal apparent angular sizes and therefore their diameters must be in proportion to their distances from Earth. He thus concluded that the Sun was around 20 times larger than the Moon; this conclusion, although incorrect, follows logically from his incorrect data. It does suggest that the Sun is clearly larger than the Earth, which could be taken to support the heliocentric model.[25]
-
-Venus_Transit_&_Parallax.svg
 
 Although Aristarchus' results were incorrect due to observational errors, they were based on correct geometric principles of parallax, and became the basis for estimates of the size of the Solar System for almost 2000 years, until the transit of Venus was correctly observed in 1761 and 1769.[26] This method was proposed by Edmond Halley in 1716, although he did not live to see the results. The use of Venus transits was less successful than had been hoped due to the black drop effect, but the resulting estimate, 153 million kilometers, is just 2% above the currently accepted value, 149.6 million kilometers.
 
@@ -126,7 +116,7 @@ From enhanced _relativistic positioning systems_, SPATIO-TEMPORAL PARALLAX gener
 
 Metrology
 
-Parallax_pointer_error.PNG Measurements made by viewing the position of some marker relative to something to be measured are subject to parallax error if the marker is some distance away from the object of measurement and not viewed from the correct position. For example, if measuring the distance between two ticks on a line with a ruler marked on its top surface, the thickness of the ruler will separate its markings from the ticks. If viewed from a position not exactly perpendicular to the ruler, the apparent position will shift and the reading will be less accurate than the ruler is capable of.
+Measurements made by viewing the position of some marker relative to something to be measured are subject to parallax error if the marker is some distance away from the object of measurement and not viewed from the correct position. For example, if measuring the distance between two ticks on a line with a ruler marked on its top surface, the thickness of the ruler will separate its markings from the ticks. If viewed from a position not exactly perpendicular to the ruler, the apparent position will shift and the reading will be less accurate than the ruler is capable of.
 
 A similar error occurs when reading the position of a pointer against a scale in an instrument such as an analog multimeter. To help the user avoid this problem, the scale is sometimes printed above a narrow strip of mirror, and the user's eye is positioned so that the pointer obscures its own reflection, guaranteeing that the user's line of sight is perpendicular to the mirror and therefore to the scale. The same effect alters the speed read on a car's speedometer by a driver in front of it and a passenger off to the side, values read from a graticule not in actual contact with the display on an oscilloscope, etc.
 
@@ -140,7 +130,7 @@ Aerial picture pairs, when viewed through a stereo viewer, offer a pronounced st
 
 Photography
 
-Contax_III_IMG_5349-white.JPG setting. Because the viewfinder is on top of the lens and of the close proximity of the subject, goggles are fitted in front of the rangefinder and a dedicated viewfinder installed to compensate for parallax.]] Parallax_detalj-1.jpg
+setting. Because the viewfinder is on top of the lens and of the close proximity of the subject, goggles are fitted in front of the rangefinder and a dedicated viewfinder installed to compensate for parallax.]]
 
 Parallax error can be seen when taking photos with many types of cameras, such as twin-lens reflex cameras and those including viewfinders (such as rangefinder cameras). In such cameras, the eye sees the subject through different optics (the viewfinder, or a second lens) than the one through which the photo is taken. As the viewfinder is often found above the lens of the camera, photos with parallax error are often slightly lower than intended, the classic example being the image of person with his or her head cropped off. This problem is addressed in single-lens reflex cameras, in which the viewfinder sees through the same lens through which the photo is taken (with the aid of a movable mirror), thus avoiding parallax error.
 
@@ -153,7 +143,7 @@ Parallax affects sighting devices of ranged weapons in many ways. On sights fitt
 
 Optical sights
 
-Telescopic_Sight_Parallax_Animation.gif In some reticled optical instruments such as telescopes, microscopes or in telescopic sights ("scopes") used on small arms and theodolites, parallax can create problems when the reticle is not coincident with the focal plane of the target image. This is because when the reticle and the target are not at the same focus, the optically corresponded distances being projected through the eyepiece are also different, and the user's eye will register the difference in parallaxes between the reticle and the target (whenever eye position changes) as a relative displacement on top of each other. The term _parallax shift_ refers to that resultant apparent "floating" movements of the reticle over the target image when the user moves his/her head/eye laterally (up/down or left/right) behind the sight,[38] i.e. an error where the reticle does not stay aligned with the user's optical axis.
+In some reticled optical instruments such as telescopes, microscopes or in telescopic sights ("scopes") used on small arms and theodolites, parallax can create problems when the reticle is not coincident with the focal plane of the target image. This is because when the reticle and the target are not at the same focus, the optically corresponded distances being projected through the eyepiece are also different, and the user's eye will register the difference in parallaxes between the reticle and the target (whenever eye position changes) as a relative displacement on top of each other. The term _parallax shift_ refers to that resultant apparent "floating" movements of the reticle over the target image when the user moves his/her head/eye laterally (up/down or left/right) behind the sight,[38] i.e. an error where the reticle does not stay aligned with the user's optical axis.
 
 Some firearm scopes are equipped with a parallax compensation mechanism, which basically consists of a movable optical element that enables the optical system to shift the focus of the target image at varying distances into exactly the same optical plane of the reticle (or vice versa). Many low-tier telescopic sights may have no parallax compensation because in practice they can still perform very acceptably without eliminating parallax shift, in which case the scope is often set fixed at a designated parallax-free distance that best suits their intended usage. Typical standard factory parallax-free distances for hunting scopes are 100 yd (or 100 m) to make them suited for hunting shots that rarely exceed 300 yd/m. Some competition and military-style scopes without parallax compensation may be adjusted to be parallax free at ranges up to 300 yd/m to make them better suited for aiming at longer ranges. Scopes for guns with shorter practical ranges, such as airguns, rimfire rifles, shotguns and muzzleloaders, will have parallax settings for shorter distances, commonly 50 yd/m for rimfire scopes and 100 yd/m for shotguns and muzzleloaders. Airgun scopes are very often found with adjustable parallax, usually in the form of an adjustable objective (or "AO" for short) design, and may adjust down to as near as .
 
@@ -166,8 +156,6 @@ Because of the positioning of field or naval artillery guns, each one has a slig
 
 
 Rangefinders
-
-Telemetre_parallaxe_principe.svg
 
 A coincidence rangefinder or parallax rangefinder can be used to find distance to a target.
 

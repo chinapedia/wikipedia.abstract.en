@@ -1,4 +1,4 @@
-ScientificReview.jpg evaluates a grant proposal.]]
+evaluates a grant proposal.]]
 
 PEER REVIEW is the evaluation of work by one or more people with similar competences as the producers of the work (peers). It functions as a form of self-regulation by qualified members of a profession within the relevant field. Peer review methods are used to maintain quality standards, improve performance, and provide credibility. In academia, scholarly peer review is often used to determine an academic paper's suitability for publication. Peer review can be categorized by the type of activity and by the field or profession in which the activity occurs, e.g., medical peer review.
 

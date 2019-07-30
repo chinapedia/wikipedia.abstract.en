@@ -9,13 +9,13 @@ History
 
 The Romans built a military camp, which they called , at the site of a Celtic settlement, near the lake where Vidy and Ouchy are situated; on the hill above was a fort called or (The "-y" suffix is common to many place names of Roman origin in the region (e.g.) Prilly, Pully, Lutry, etc.).[14] By the 2nd century AD, it was known as and in 280 as . By 400, it was , and in 990 it was mentioned as .[15]
 
-Saint_François_IMG_4837.jpg After the fall of the Roman Empire, insecurity forced the residents of Lausanne to move to its current centre, a hilly site that was easier to defend. The city which emerged from the camp was ruled by the Dukes of Savoy and the Bishop of Lausanne. Then it came under Bern from 1536 to 1798, and a number of its cultural treasures, including the hanging tapestries in the Cathedral, were permanently removed. Lausanne has made repeated requests to recover them.
+After the fall of the Roman Empire, insecurity forced the residents of Lausanne to move to its current centre, a hilly site that was easier to defend. The city which emerged from the camp was ruled by the Dukes of Savoy and the Bishop of Lausanne. Then it came under Bern from 1536 to 1798, and a number of its cultural treasures, including the hanging tapestries in the Cathedral, were permanently removed. Lausanne has made repeated requests to recover them.
 
 After the revocation of the Edict of Nantes in 1685, Lausanne became (along with Geneva) a place of refuge for French Huguenots. In 1729, a seminary was opened by Antoine Court and Benjamin Duplan. By 1750, 90 pastors had been sent back to France to work clandestinely; this number would rise to 400. Official persecution ended in 1787; a faculty of Protestant theology was established at Montauban in 1808, and the Lausanne seminary was finally closed on 18 April 1812.[16] During the Napoleonic Wars, the city's status changed. In 1803, it became the capital of a newly formed Swiss canton, Vaud, under which it joined the Swiss Federation.[17]
 
 Modern history and heritage
 
-18th_Century_silver_trumpet_candlesticks_from_Lausanne.jpg In 1964, the city played host to the Swiss National Exhibition,[18] displaying its newly found confidence to play host to major international events.
+In 1964, the city played host to the Swiss National Exhibition,[18] displaying its newly found confidence to play host to major international events.
 
 From the 1950s to 1970s, a large number of Italians, Spaniards and Portuguese immigrated to Lausanne, settling mostly in the industrial district of Renens and transforming the local diet.
 
@@ -28,7 +28,7 @@ Geography
 
 Topography
 
-Lausanne_depuis_le_Mont_Tendre.JPG and the Alps.]] Cathedrale_Lausanne_Bessieres.JPG car. In the background the cathedral of Notre-Dame and the old town.]]
+and the Alps.]] car. In the background the cathedral of Notre-Dame and the old town.]]
 
 The most important geographical feature of the area surrounding Lausanne is Lake Geneva (_Lac Léman_ in French). Lausanne is built on the southern slope of the Swiss plateau, with a difference in elevation of about between the lakeshore at Ouchy and its northern edge bordering Le Mont-sur-Lausanne and Épalinges. Lausanne boasts a dramatic panorama over the lake and the Alps.
 
@@ -160,11 +160,11 @@ In there were 840 live births to Swiss citizens and 623 births to non-Swiss citi
 
 The age distribution, , in Lausanne is; 11,818 children or 9.4% of the population are between 0 and 9 years old and 12,128 teenagers or 9.7% are between 10 and 19. Of the adult population, 21,101 people or 16.8% of the population are between 20 and 29 years old. 22,158 people or 17.6% are between 30 and 39, 18,016 people or 14.4% are between 40 and 49, and 13,940 people or 11.1% are between 50 and 59. The senior population distribution is 11,041 people or 8.8% of the population are between 60 and 69 years old, 8,277 people or 6.6% are between 70 and 79, there are 5,896 people or 4.7% who are between 80 and 89, and there are 1,171 people or 0.9% who are 90 and older.[45]
 
-Lausanne_1.jpg , there were 58,100 people who were single and never married in the municipality. There were 48,990 married individuals, 7,797 widows or widowers and 10,027 individuals who are divorced.[46]
+, there were 58,100 people who were single and never married in the municipality. There were 48,990 married individuals, 7,797 widows or widowers and 10,027 individuals who are divorced.[46]
 
 the average number of residents per living room was 0.64 which is about equal to the cantonal average of 0.61 per room.[47] In this case, a room is defined as space of a housing unit of at least as normal bedrooms, dining rooms, living rooms, kitchens and habitable cellars and attics.[48] About 6.5% of the total households were owner occupied, or in other words did not pay rent (though they may have a mortgage or a rent-to-own agreement).[49]
 
-Stair_to_Lausanne_cathedral_IMG_6529.jpg (_escaliers du marché_) in the old city.]]
+(_escaliers du marché_) in the old city.]]
 
 , there were 62,258 private households in the municipality, and an average of 1.9 persons per household.[50] There were 31,205 households that consist of only one person and 2,184 households with five or more people. Out of a total of 63,833 households that answered this question, 48.9% were households made up of just one person and there were 306 adults who lived with their parents. Of the rest of the households, there are 13,131 married couples without children and 11,603 married couples with children. There were 3,883 single parents with a child or children. There were 2,130 households that were made up of unrelated people, and 1,575 households that were made up of some sort of institution or another collective housing.[51]
 
@@ -274,7 +274,7 @@ From the Reformation in the 16th century, the city was mostly Protestant until t
 
 From the , 47,225 people (37.8% of the population) were Roman Catholic, while 33,993 (27.2%) belonged to the Swiss Reformed Church. Of the rest of the population, there were 2,698 members of an Orthodox church (2.16%), there were 65 individuals (0.05%) who belonged to the Christian Catholic Church, and there were 4,437 individuals (3.55%) who belonged to another Christian church. There were 849 individuals (0.68%) who were Jewish, and 7,501 (6.00%) who were Muslim. There were 452 individuals who were Buddhist, 772 individuals who were Hindu and 343 individuals who belonged to another church. 21,080 (16.88%) belonged to no church, were agnostic or atheist, and 7,590 individuals (6.08%) did not answer the question.[59]
 
-LausannePano.jpg Cathedral of Notre Dame dominates the Lausanne skyline (left: Old Academy, right: Palais de Rumine).]]
+Cathedral of Notre Dame dominates the Lausanne skyline (left: Old Academy, right: Palais de Rumine).]]
 
 Crime
 
@@ -283,7 +283,7 @@ In 2014 the crime rate, of crimes listed in the Swiss Criminal Code, in Lausanne
 
 Transport
 
-Rame_m2_lausanne.JPG is a rubber tyre metro system]] Lausanne_metro_Renens_CFF.jpg is completely on reserved track, single line, even underground]] Lausanne_-_Public_transport_map.png
+is a rubber tyre metro system]] is completely on reserved track, single line, even underground]]
 
 Lausanne is served by an extensive network of local, national and international public transport. National and international passenger trains of the Swiss Federal Railways depart from Lausanne railway station, which is also the hub of the Réseau Express Vaudois commuter rail system, and a stop on the city's metro. The metro and local buses are operated by Transports publics de la région lausannoise (TL), with many routes run using trolleybuses. Additional commuter trains are run by the Lausanne–Echallens–Bercher railway (LEB) from Lausanne-Flon station. Ships across Lake Geneva are provided by the Compagnie Générale de Navigation sur le lac Léman (CGN).
 
@@ -296,7 +296,7 @@ Lausanne Airport is located at Blécherette, and also houses a Boeing 737 Simula
 
 Economy
 
-Lausanne_img_0585.jpg in the centre and Parc de Milan at the bottom).]]
+in the centre and Parc de Milan at the bottom).]]
 
 , Lausanne had an unemployment rate of 8%. , there were 114 people employed in the primary economic sector and about 25 businesses involved in this sector. 6,348 people were employed in the secondary sector and there were 698 businesses in this sector. 83,157 people were employed in the tertiary sector, with 6,501 businesses in this sector.[64]
 
@@ -312,7 +312,7 @@ There were 59,599 residents of the municipality who were employed in some capaci
 
 Education
 
-Vue_aérienne_EPFL_07-2009.jpg (photo) and the University of Lausanne form a large campus near the lake Geneva.]] In Lausanne about 40,118 or (32.1%) of the population have completed non-mandatory upper secondary education, and 22,934 or (18.4%) have completed additional higher education (either university or a _Fachhochschule_). Of the 22,934 who completed tertiary schooling, 38.7% were Swiss men, 31.3% were Swiss women, 17.1% were non-Swiss men and 12.9% were non-Swiss women.[69]
+(photo) and the University of Lausanne form a large campus near the lake Geneva.]] In Lausanne about 40,118 or (32.1%) of the population have completed non-mandatory upper secondary education, and 22,934 or (18.4%) have completed additional higher education (either university or a _Fachhochschule_). Of the 22,934 who completed tertiary schooling, 38.7% were Swiss men, 31.3% were Swiss women, 17.1% were non-Swiss men and 12.9% were non-Swiss women.[69]
 
 In the 2009/2010 school year there were a total of 12,244 students in the Lausanne school district. In the Vaud cantonal school system, two years of non-obligatory pre-school are provided by the political districts.[70] During the school year, the political district provided pre-school care for a total of 2,648 children of which 1,947 children (73.5%) received subsidized pre-school care. The canton's primary school program requires students to attend for four years. There were 6,601 students in the municipal primary school program. The obligatory lower secondary school program lasts for six years and there were 5,244 students in those schools. There were also 399 students who were home schooled or attended another non-traditional school.[71]
 
@@ -367,7 +367,7 @@ File:Casino Montbenon.jpg|The Casino de Montbenon File:Lausanne-cathe7.JPG|Lausa
 
 Culture
 
-Palais_de_Rumine_1.jpg, the Palais de Rumine hosts several museums.]]
+, the Palais de Rumine hosts several museums.]]
 
 The _Orchestre de chambre de Lausanne_, the Lausanne Opera and the _Ensemble vocal de Lausanne_ provide a diverse and rich musical life. The latter has been under the direction of Michel Corboz for many years.
 
@@ -440,7 +440,7 @@ Music
 
 Sports
 
-Siege_cio.jpg in Lausanne]] Lausanne_2020_logo.png.]]
+in Lausanne]] .]]
 
 Lausanne is home to the IOC, with water sports available on the nearby lake and mountaineering in the nearby mountains. Cycling is also a common pastime, with the vineyards in the surrounding hills providing extensive views and challenging routes. There is an annual track and field meeting (_Athletissima_), road running through the city (the 20 km (12 mi) of Lausanne), the Tour de Romandie road cycling race, Marathon of Lausanne and triathlon competition, among other sports events. The two most important sports are ice hockey and football. Lausanne will host the 2020 Winter Youth Olympics[97] and the 2020 IIHF World Championship.
 
@@ -478,8 +478,6 @@ Lausanne hosts the headquarters of the International Olympic Committee (IOC) and
 
 
 Notable people
-
-Jean-Pascal_Delamuraz.gif Johann_Ludwig_Burckhardt.png Bundesarchiv_Bild_102-13738,_Auguste_Piccard.jpg Albert-chavannes-portrait-tn1.jpg Capucine_(1962).jpg Lady_Elizabeth_Southerden_Butler_(née_Thompson)_by_Lady_Elizabeth_Southerden_Butler_(née_Thompson).jpg Rachel_Kolly_d'Alba.jpg Pierre_de_Coubertin_Anefo2.jpg Princess_Ubolratana_2010-12-7_2_cropped1.jpg Bertrand_Piccard_2015.jpg Magnin061115.jpg
 
 public service, the military & the church
 

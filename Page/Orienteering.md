@@ -1,5 +1,3 @@
-Orienteering_symbol_framed.png Orienteering_pictogram.svg
-
 ORIENTEERING is a group of sports that require navigational skills using a map and compass to navigate from point to point in diverse and usually unfamiliar terrain whilst moving at speed. Participants are given a topographical map, usually a specially prepared orienteering map, which they use to find control points.[1] Originally a training exercise in land navigation for military officers, orienteering has developed many variations. Among these, the oldest and the most popular is foot orienteering. For the purposes of this article, foot orienteering serves as a point of departure for discussion of all other variations, but almost any sport that involves racing against a clock and requires navigation with a map is a type of orienteering.
 
 Orienteering is included in the programs of world sporting events including the World Games[2] (see Orienteering at the World Games) and World Police and Fire Games.[3]
@@ -77,7 +75,7 @@ The history of orienteering begins in the late 19th century in Sweden, the actua
 
 From the beginning, locations selected for orienteering have been chosen in part for their beauty, natural or man-made. For the first public orienteering competition in Sweden, in 1901, control points included two historic churches, Spånga kyrka and Bromma kyrka (a round church).[16]
 
-World_Orienteering_Championships_2007_-_middle_distance_04.jpg, Ukraine. Winners of middle-distance event: Simone Niggli-Luder, Switzerland, and Thierry Gueorgiou, France]] With the invention of inexpensive yet reliable compasses, the sport gained popularity during the 1930s. By 1934, over a quarter million Swedes were participants, and orienteering had spread to Finland, Switzerland, the Soviet Union, and Hungary. Following World War II, orienteering spread throughout Europe and to Asia, North America and Oceania. In Sweden in 1959, an international orienteering conference was held. Representatives from 12 countries (Austria, Bulgaria, Czechoslovakia, Denmark, Finland, East and West Germany, Hungary, Norway, Sweden, Switzerland, Yugoslavia) participated.[17] In 1961, orienteering organizations representing 10 European nations founded the International Orienteering Federation (IOF). Since then, IOF has supported the founding of many national orienteering federations. By 2010, 71 national orienteering federations were member societies of the International Orienteering Federation.[18] These federations enabled the development of national and world championships. World championships were held every two years until 2003, then every year.[19]
+, Ukraine. Winners of middle-distance event: Simone Niggli-Luder, Switzerland, and Thierry Gueorgiou, France]] With the invention of inexpensive yet reliable compasses, the sport gained popularity during the 1930s. By 1934, over a quarter million Swedes were participants, and orienteering had spread to Finland, Switzerland, the Soviet Union, and Hungary. Following World War II, orienteering spread throughout Europe and to Asia, North America and Oceania. In Sweden in 1959, an international orienteering conference was held. Representatives from 12 countries (Austria, Bulgaria, Czechoslovakia, Denmark, Finland, East and West Germany, Hungary, Norway, Sweden, Switzerland, Yugoslavia) participated.[17] In 1961, orienteering organizations representing 10 European nations founded the International Orienteering Federation (IOF). Since then, IOF has supported the founding of many national orienteering federations. By 2010, 71 national orienteering federations were member societies of the International Orienteering Federation.[18] These federations enabled the development of national and world championships. World championships were held every two years until 2003, then every year.[19]
 
 Throughout this time, orienteering has remained most popular in Scandinavia. There, the two oldest recurring orienteering meets have been held since the 1940s (Jukola relay and Tiomila), and the single largest orienteering meet has been held every year since 1965 and attracts around 15,000 competitors (O-Ringen).[20]
 
@@ -88,19 +86,17 @@ Competition and results
 
 Basics
 
-Tajfuto.jpg
-
 The competition, or race, is intended to test the navigational skill, concentration, and running ability of the competitors. High levels of fitness and running speed are required to compete successfully at an international or elite level. To ensure fairness between competitors the map is not usually provided until the start, and starts are normally staggered with competitors starting at not less than one-minute intervals.[23]
 
 The objective on each leg is to follow the fastest route between controls. The fastest is not always the shortest route, and can depend heavily on route choice.[24]
 
 Map
 
-Orienteringskort_bygholm_2005.PNG Orienteering competitions use specially prepared orienteering maps. They are topographic maps although much more detailed than general-purpose maps. The ISOM map scales are 1:15,000 or 1:10,000, with grids aligned to magnetic north. Map symbols are standardized by the IOF,[25] and designed to be readable by any competitor regardless of background or native tongue.
+Orienteering competitions use specially prepared orienteering maps. They are topographic maps although much more detailed than general-purpose maps. The ISOM map scales are 1:15,000 or 1:10,000, with grids aligned to magnetic north. Map symbols are standardized by the IOF,[25] and designed to be readable by any competitor regardless of background or native tongue.
 
 Courses
 
-Orienteering_map_control_points.svg Orienteering events offer a range of courses, of varying physical and technical difficulty, to meet the needs of competitors. The orienteering course is marked in purple or red on a map.[26] A triangle is used to indicate the start and a double circle indicates the finish. Circles are used to show the control points.[27]
+Orienteering events offer a range of courses, of varying physical and technical difficulty, to meet the needs of competitors. The orienteering course is marked in purple or red on a map.[26] A triangle is used to indicate the start and a double circle indicates the finish. Circles are used to show the control points.[27]
 
 Age-related classes
 
@@ -116,7 +112,7 @@ Some orienteering clubs have set up permanent courses, which can be used for per
 
 Controls and control description sheet
 
-Control_description.svg Control points are placed on features on the map that can be clearly identified on the ground. Control points are marked in the terrain by white and orange "flags".
+Control points are placed on features on the map that can be clearly identified on the ground. Control points are marked in the terrain by white and orange "flags".
 
 Competitors receive a "control description sheet" or "clue sheet" which gives a precise description of the feature and the location of the kite, e.g., boulder, 5m, north side. For experienced orienteers the descriptions use symbols (pictorial), in accordance with the _IOF Control descriptions_.[34]
 
@@ -140,7 +136,7 @@ The early competitors used standard athletic clothing, i.e., shorts and an athle
 
 Personal equipment
 
-Compasses_orienteering.jpg The basic equipment required for orienteering is usually listed as a compass and appropriate outdoor clothing. Most national bodies recommend that a whistle be carried for safety.
+The basic equipment required for orienteering is usually listed as a compass and appropriate outdoor clothing. Most national bodies recommend that a whistle be carried for safety.
 
 Competitive orienteers usually use specialized equipment:
 
@@ -154,8 +150,6 @@ File:Ardf 0008.jpg|ARDF orienteer wearing a map board on his left arm File:Lob-f
 
 
 Competition types
-
-Gold_Relay_UK_WOC_2008-crop.jpg
 
 Orienteering events can be classified in many different aspects:[42]
 
@@ -187,11 +181,11 @@ Very short races, with winning times in the region of 12–15 minutes, often hel
 
 Ultrasprint
 
-BDHX.jpg Ultrasprint events are held in a specially constructed labyrinth. Due to the limited area of the labyrinth, ultrasprint is a more spectator-friendly form of orienteering. Also, as the course is artificial, identical courses can be set in different geographical locations for simultaneous local competitions as parts of a larger tournament.[45][46]
+Ultrasprint events are held in a specially constructed labyrinth. Due to the limited area of the labyrinth, ultrasprint is a more spectator-friendly form of orienteering. Also, as the course is artificial, identical courses can be set in different geographical locations for simultaneous local competitions as parts of a larger tournament.[45][46]
 
 Night
 
-Start.jpg Competitors use a headlamp to navigate in the dark. Reflective markers often are used on control point flags, which shifts the tactics from precision navigation to searching. Competitors can travel at high speed to the vicinity of the control point, then sweep the area with the light to catch a reflection off the control flag. If a night event starts before dark, a mass start must be used so all competitors have equal time in the light and dark. The two classic club relays, Tiomila and Jukola, both include night legs.[47] Full length (24-hour) rogaines and many adventure races run through the night, without a light period, and competitors may choose not to rest.
+Competitors use a headlamp to navigate in the dark. Reflective markers often are used on control point flags, which shifts the tactics from precision navigation to searching. Competitors can travel at high speed to the vicinity of the control point, then sweep the area with the light to catch a reflection off the control flag. If a night event starts before dark, a mass start must be used so all competitors have equal time in the light and dark. The two classic club relays, Tiomila and Jukola, both include night legs.[47] Full length (24-hour) rogaines and many adventure races run through the night, without a light period, and competitors may choose not to rest.
 
 String
 

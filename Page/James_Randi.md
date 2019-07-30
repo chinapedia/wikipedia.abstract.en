@@ -16,7 +16,7 @@ Career
 
 Magician
 
-RandiFork.jpg Though defining himself as a conjuror, Randi began a career as a professional stage magician[22] and escapologist in 1946. Initially, he presented himself under his real name, Randall Zwinge, which he later dropped in favor of "The Amazing Randi". Early in his career, he performed numerous escape acts from jail cells and safes around the world. On February 7, 1956, he appeared live on NBC's _Today_ show, where he remained for 104 minutes in a sealed metal coffin that had been submerged in a hotel swimming pool, breaking what was said to be Harry Houdini's record of 93 minutes, though Randi calls attention to the fact that he was very much younger than Houdini when the original record was established, in 1926.[23][24]
+Though defining himself as a conjuror, Randi began a career as a professional stage magician[22] and escapologist in 1946. Initially, he presented himself under his real name, Randall Zwinge, which he later dropped in favor of "The Amazing Randi". Early in his career, he performed numerous escape acts from jail cells and safes around the world. On February 7, 1956, he appeared live on NBC's _Today_ show, where he remained for 104 minutes in a sealed metal coffin that had been submerged in a hotel swimming pool, breaking what was said to be Harry Houdini's record of 93 minutes, though Randi calls attention to the fact that he was very much younger than Houdini when the original record was established, in 1926.[23][24]
 
 Randi was a frequent guest on the Long John Nebel program on New York radio station WOR, and did character voices for commercials.[25] After Nebel went to WNBC in 1962, Randi was given the time slot, and from 1967 to '68 hosted _The Amazing Randi Show_.[26] [27] This show often had guests who defended paranormal claims, among them Randi's then-friend James W. Moseley. Randi says he quit WOR over complaints (disputed by Randi) from the archbishop of NY, that Randi had said on-air that "Jesus Christ was a religious nut."[28]
 
@@ -42,7 +42,7 @@ Randi was a regular contributor to _Skeptic_ magazine, penning the "'Twas Brilli
 
 Skeptic
 
-James_Randi_demonstrating_'psychic_surgery'_on_ITV_series_"James_Randi,_Psychic_Investigator".jpg" on his Open Media series for ITV in 1991]] Randi gained the international spotlight in 1972 when he publicly challenged the claims of Uri Geller. He accused Geller of being nothing more than a charlatan and a fraud who used standard magic tricks to accomplish his allegedly paranormal feats, and he presented his claims in the book _The Truth About Uri Geller_ (1982).[44][45][46]
+" on his Open Media series for ITV in 1991]] Randi gained the international spotlight in 1972 when he publicly challenged the claims of Uri Geller. He accused Geller of being nothing more than a charlatan and a fraud who used standard magic tricks to accomplish his allegedly paranormal feats, and he presented his claims in the book _The Truth About Uri Geller_ (1982).[44][45][46]
 
 Believing that it was important to get columnists and TV personalities to challenge Geller and others like him, Randi and CSICOP reached out in an attempt to educate them. Randi said that CSICOP had a "very substantial influence on the printed media ... in those days."[47] During this effort, Randi made contact with Johnny Carson and discovered that he was "very much on our side. He wasn't only a comedian ... he was a great thinker."[48] According to Randi, when he was on _The Tonight Show_, Carson broke his usual protocol of not talking with guests prior to their entrance on stage, but instead would ask what Randi wanted to be emphasized in the interview. "He wanted to be aware of how he could help me."[49]
 
@@ -64,7 +64,7 @@ Randi has gone on to write many articles criticizing beliefs and claims regardin
 
 Randi has appeared on numerous TV shows, sometimes to directly debunk the claimed abilities of fellow guests. In a 1981 appearance on _That's My Line_, Randi appeared opposite claimed psychic James Hydrick, who said that he could move objects with his mind and appeared to demonstrate this claim on live television by turning a page in a telephone book without touching it.[65] Randi, having determined that Hydrick was surreptitiously blowing on the book, arranged foam packaging peanuts on the table in front of the telephone book for the demonstration. This prevented Hydrick from demonstrating his abilities, which would have been exposed when the blowing moved the packaging.[66] Randi writes that, eventually, Hydrick "confessed everything".[67]
 
-Randi_1983.jpg Conference in Buffalo, New York]]
+Conference in Buffalo, New York]]
 
 Randi was awarded a MacArthur Foundation Fellowship in 1986. The fellowship's five-year $272,000 grant helped support Randi's investigations of faith healers, including W. V. Grant, Ernest Angley, and Peter Popoff, whom Randi first exposed on _The Tonight Show Starring Johnny Carson_ in February 1986. Hearing about his investigation of Popoff, Carson invited Randi onto his show without seeing the evidence he was going to reveal. Carson appeared stunned after Randi showed a brief video segment from one of Popoff's broadcasts showing him calling out a woman in the audience, revealed personal information about her that he claimed came from God, and then performed a laying-on-of-hands healing to drive the devil from her body. Randi then replayed the video, but with some of the sound dubbed in that he and his investigating team captured during the event using a radio scanner and recorder. Their scanner had detected the radio frequency Popoff's wife Elizabeth was using backstage to broadcast directions and information to a miniature radio receiver hidden in Popoff's left ear. That information had been gathered by Popoff's assistants, who had handed out "prayer cards" to the audience before the show, instructing them to write down all the information Popoff would need to pray for them.[68][69][70]
 
@@ -74,11 +74,11 @@ In February 1988, Randi tested the gullibility of the media by perpetrating a ho
 
 In his book _The Faith Healers_, Randi wrote that his anger and relentlessness arose from compassion for the victims of fraud. Randi has also been critical of João de Deus (John of God), a self-proclaimed psychic surgeon who has received international attention.[77] Randi observed, referring to psychic surgery, "To any experienced conjurer, the methods by which these seeming miracles are produced are very obvious."[78]
 
-PipSmith_DickSmith_Klass_Sheaffer_JohnMerrell_Randi.jpg (standing), Robert Sheaffer and John Merrell, at the 1983 CSICOP Conference in Buffalo, NY]] In 1982, Randi verified the abilities of Arthur Lintgen, a Philadelphia doctor, who was able to identify the classical music recorded on a vinyl LP solely by examining the grooves on the record. However, Lintgen did not claim to have any paranormal ability, merely knowledge of the way that the groove forms patterns on particular recordings.[79]
+(standing), Robert Sheaffer and John Merrell, at the 1983 CSICOP Conference in Buffalo, NY]] In 1982, Randi verified the abilities of Arthur Lintgen, a Philadelphia doctor, who was able to identify the classical music recorded on a vinyl LP solely by examining the grooves on the record. However, Lintgen did not claim to have any paranormal ability, merely knowledge of the way that the groove forms patterns on particular recordings.[79]
 
 In 1988, John Maddox, editor of the prominent science journal _Nature_, asked Randi to join the supervision and observation of the homeopathy experiments conducted by Jacques Benveniste's team. Once Randi's stricter protocol for the experiment was in place, the positive results could not be reproduced.
 
-JREF_TAM9_Beard_Photo.jpg 9 ("TAM 9 From Outer Space") July 16, 2011]] James Randi stated that Daniel Dunglas Home, who could allegedly play an accordion that was locked in a cage without touching it, was caught cheating on a few occasions, but the incidents were never made public. He also stated that the actual instrument in use was a one-octave mouth organ concealed under Home's large moustache and that other one-octave mouth organs were found in Home's belongings after his death.[80] According to Randi, author William Lindsay Gresham told Randi "around 1960" that he had seen these mouth organs in the Home collection at the Society for Psychical Research (SPR). Eric J. Dingwall, who catalogued Home's collection on its arrival at the SPR does not record the presence of the mouth organs. According to Peter Lamont, the author of an extensive Home biography, "It is unlikely Dingwall would have missed these or did not make them public."[81]
+9 ("TAM 9 From Outer Space") July 16, 2011]] James Randi stated that Daniel Dunglas Home, who could allegedly play an accordion that was locked in a cage without touching it, was caught cheating on a few occasions, but the incidents were never made public. He also stated that the actual instrument in use was a one-octave mouth organ concealed under Home's large moustache and that other one-octave mouth organs were found in Home's belongings after his death.[80] According to Randi, author William Lindsay Gresham told Randi "around 1960" that he had seen these mouth organs in the Home collection at the Society for Psychical Research (SPR). Eric J. Dingwall, who catalogued Home's collection on its arrival at the SPR does not record the presence of the mouth organs. According to Peter Lamont, the author of an extensive Home biography, "It is unlikely Dingwall would have missed these or did not make them public."[81]
 
 Randi distinguishes between pseudoscience and crackpot science. He regards most of parapsychology as pseudoscience because of the way in which it is approached and conducted, but nonetheless sees it as a legitimate subject that "should be pursued", and from which real scientific discoveries may develop.[82] Randi regards crackpot science as "equally wrong" as pseudoscience, but with no scientific pretensions.[83]
 
@@ -106,7 +106,7 @@ Beginning in 2003, the JREF annually hosted The Amaz!ng Meeting, a gathering of 
 
 2010s
 
-James_Randi_with_Skull_Cane_2014.jpg James Randi began a series of conferences known as "The Amazing Meeting" (TAM) which quickly became the largest gathering of skeptics in the world, drawing audiences from Asia, Europe, South America, and the UK. It also attracted a large percentage of younger folks.[94][95] Randi has been regularly featured on many podcasts, including The Skeptics Society's official podcast _Skepticality_[96][97] and the Center for Inquiry's official podcast _Point of Inquiry_.[98] From September 2006 onwards, he has occasionally contributed to _The Skeptics' Guide to the Universe_ podcast with a column titled "Randi Speaks."[99] In addition, _The Amazing Show_ is a podcast in which Randi shares various anecdotes in an interview format.[100]
+James Randi began a series of conferences known as "The Amazing Meeting" (TAM) which quickly became the largest gathering of skeptics in the world, drawing audiences from Asia, Europe, South America, and the UK. It also attracted a large percentage of younger folks.[94][95] Randi has been regularly featured on many podcasts, including The Skeptics Society's official podcast _Skepticality_[96][97] and the Center for Inquiry's official podcast _Point of Inquiry_.[98] From September 2006 onwards, he has occasionally contributed to _The Skeptics' Guide to the Universe_ podcast with a column titled "Randi Speaks."[99] In addition, _The Amazing Show_ is a podcast in which Randi shares various anecdotes in an interview format.[100]
 
 In 2014, Part2Filmworks released _An Honest Liar_, a feature film documentary, written by Tyler Measom and Greg O'Toole, and directed and produced by Measom and Justin Weinstein.[101] The film, which was funded through Kickstarter,[102] focuses on Randi's life, his investigations, and his relationship with longtime partner José Alvarez (born Deyvi Orangel Peña Arteaga), to whom he was married in 2013.[103] The film was screened at the Tribeca Film Festival,[104] at Toronto's Hot Docs film festival,[105] and at the June 2014 AFI Docs Festival in Silver Spring, Maryland and Washington, D.C., where it won the Audience Award for Best Feature. It also received positive reviews from critics.[106][107] The film was featured on the PBS _Independent Lens_ series, shown in the U.S. and Canada, on March 28, 2016.[108]
 
@@ -264,7 +264,7 @@ The following are Guinness World Records:
 -   Randi was in a sealed casket underwater for an hour and 44 minutes, which broke Harry Houdini's record of one hour and 33 minutes set on August 5, 1926.[216][217]
 -   Randi was encased in a block of ice for 55 minutes.[218][219]
 
-Audio_James_Randi_Long_Version.ogg October 2016]]
+October 2016]]
 
 
 Bibliography
@@ -279,7 +279,7 @@ Bibliography
 
 Television and film
 
-Publicity_material_for_the_tv_series_"James_Randi,_Psychic_Investigator".jpg series _"James Randi: Psychic Investigator"_ produced by Open Media in 1991]] James_Randi_and_guests_appearing_on_ITV_series_"James_Randi,_Psychic_Investigator".jpg series _"James Randi: Psychic Investigator"_ produced by Open Media in 1991]]
+series _"James Randi: Psychic Investigator"_ produced by Open Media in 1991]] series _"James Randi: Psychic Investigator"_ produced by Open Media in 1991]]
 
 Actor
 

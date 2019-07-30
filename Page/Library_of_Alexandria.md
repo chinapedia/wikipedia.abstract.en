@@ -18,7 +18,7 @@ Under Ptolemaic patronage
 
 Founding
 
-Ptolemy_II_MAN_Napoli_Inv5600.jpg depicting Ptolemy II Philadelphus, who is believed to have been the one to establish the Library as an actual institution, although plans for it may have been developed by his father Ptolemy I Soter]]
+depicting Ptolemy II Philadelphus, who is believed to have been the one to establish the Library as an actual institution, although plans for it may have been developed by his father Ptolemy I Soter]]
 
 The Library was one of the largest and most significant libraries of the ancient world, but details about it are a mixture of history and legend. The earliest known surviving source of information on the founding of the Library of Alexandria is the pseudepigraphic _Letter of Aristeas_, which was composed between 180 and 145 BC.[3] The _Letter of Aristeas_ claims that the Library was founded during the reign of Ptolemy I Soter ( 323– 283 BC) and that it was initially organized by Demetrius of Phalerum, a student of Aristotle who had been exiled from Athens and taken refuge in Alexandria within the Ptolemaic court.[4] Nonetheless, the _Letter of Aristeas_ is very late and it contains information that is now known to be inaccurate. Other sources claim that the Library was instead created under the reign of Ptolemy I's son Ptolemy II Philadelphus (283–246 BC).
 
@@ -27,8 +27,6 @@ Modern scholars agree that, while it is possible that Ptolemy I may have laid th
 The Library was built in the Brucheion (Royal Quarter) as part of the Mouseion. Its main purpose was to show off the wealth of Egypt, with research as a lesser goal,[5] but its contents were used to aid the ruler of Egypt. The exact layout of the library is not known, but ancient sources describe the Library of Alexandria as comprising a collection of scrolls, Greek columns, a walk, a room for shared dining, a reading room, meeting rooms, gardens, and lecture halls, creating a model for the modern university campus. A hall contained shelves for the collections of papyrus scrolls known as _bibliothekai_ (_βιβλιοθῆκαι_). According to popular description, an inscription above the shelves read: "The place of the cure of the soul."[6]
 
 Early expansion and organization
-
-Antikes_Alexandria_Karte.JPG
 
 The Ptolemaic rulers intended the Library to be a collection of all knowledge and they worked to expand the Library's collections through an aggressive and well-funded policy of book purchasing. They dispatched royal agents with large amounts of money and ordered them to purchase and collect as many texts as they possibly could, about any subject and by any author. Older copies of texts were favored over newer ones, since it was assumed that older copies had undergone less copying and that they were therefore more likely to more closely resemble what the original author had written. This program involved trips to the book fairs of Rhodes and Athens.[7] According to the Greek medical writer Galen, under the decree of Ptolemy II, any books found on ships that came into port were taken to the library, where they were copied by official scribes.[8] The original texts were kept in the library, and the copies delivered to the owners.[9] The Library particularly focused on acquiring manuscripts of the Homeric poems, which were the foundation of Greek education and revered above all other poems. The Library therefore acquired many different manuscripts of these poems, tagging each copy with a label to indicate where it had come from.
 
@@ -42,7 +40,7 @@ The first recorded head librarian was Zenodotus of Ephesus (lived 325– 270 BC)
 
 Meanwhile, the scholar and poet Callimachus compiled the _Pinakes_, a 120-book catalogue of various authors and all their known works. The _Pinakes_ has not survived, but enough references to it and fragments of it have survived to allow scholars to reconstruct its basic structure. The _Pinakes_ was divided into multiple sections, each containing entries for writers of a particular genre of literature. The most basic division was between writers of poetry and prose, with each section divided into smaller subsections. Each section listed authors in alphabetical order. Each entry included the author's name, father's name, place of birth, and other brief biographical information, sometimes including nicknames by which that author was known, followed by a complete list of all that author's known works. The entries for prolific authors such as Aeschylus, Euripides, Sophocles, and Theophrastus must have been extremely long, spanning multiple columns of text. Although Callimachus did his most famous work at the Library of Alexandria, he never held the position of head librarian there. Callimachus's pupil Hermippus of Smyrna wrote biographies, Philostephanus of Cyrene studied geography, and Istros (who may have also been from Cyrene) studied Attic antiquities. In addition to the Great Library, many other smaller libraries also began to spring up all around the city of Alexandria.
 
-Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif invented the Archimedes' screw, a pump for transporting water, while studying at the Library of Alexandria.]]
+invented the Archimedes' screw, a pump for transporting water, while studying at the Library of Alexandria.]]
 
 After Zenodotus either died or retired, Ptolemy II Philadelphus appointed Apollonius of Rhodes (lived 295– 215 BC), a native of Alexandria and a student of Callimachus, as the second head librarian of the Library of Alexandria. Philadelphus also appointed Apollonius of Rhodes as the tutor to his son, the future Ptolemy III Euergetes. Apollonius of Rhodes is best known as the author of the _Argonautica_, an epic poem about the voyages of Jason and the Argonauts, which has survived to the present in its complete form. The _Argonautica_ displays Apollonius's vast knowledge of history and literature and makes allusions to a vast array of events and texts, while simultaneously imitating the style of the Homeric poems. Some fragments of his scholarly writings have also survived, but he is generally more famous today as a poet than as a scholar.
 
@@ -52,8 +50,6 @@ According to two late and largely unreliable biographies, Apollonius was forced 
 
 Later scholarship and expansion
 
-Eratosthenes_measure_of_Earth_circumference.svg
-
 The third head librarian, Eratosthenes of Cyrene (lived 280– 194 BC), is best known today for his scientific works, but he was also a literary scholar. Eratosthenes's most important work was his treatise _Geographika_, which was originally in three volumes. The work itself has not survived, but many fragments of it are preserved through quotation in the writings of the later geographer Strabo. Eratosthenes was the first scholar to apply mathematics to geography and map-making and, in his treatise _Concerning the Measurement of the Earth_, he calculated the circumference of the earth and was only off by less than a few hundred kilometers. Eratosthenes also produced a map of the entire known world, which incorporated information taken from sources held in the Library, including accounts of Alexander the Great's campaigns in India and reports written by members of Ptolemaic elephant-hunting expeditions along the coast of East Africa.
 
 Eratosthenes was the first person to advance geography towards becoming a scientific discipline. Eratosthenes believed that the setting of the Homeric poems was purely imaginary and argued that the purpose of poetry was "to capture the soul", rather than to give a historically accurate account of actual events. Strabo quotes him as having sarcastically commented, "a man might find the places of Odysseus's wanderings if the day were to come when he would find the leatherworker who stitched the goatskin of the winds." Meanwhile, other scholars at the Library of Alexandria also displayed interest in scientific subjects. Bacchius of Tanagra, a contemporary of Eratosthenes, edited and commented on the medical writings of the Hippocratic Corpus. The doctors Herophilus (lived 335– 280 BC) and Erasistratus ( 304– 250 BC) studied human anatomy, but their studies were hindered by protests against the dissection of human corpses, which was seen as immoral.
@@ -62,7 +58,7 @@ According to Galen, around this time, Ptolemy III requested permission from the 
 
 Peak of literary criticism
 
-Alexandria_-_Pompey's_Pillar_-_view_of_ruins.JPG, where the Library of Alexandria moved part of its collection after it ran out of storage space in the main building]]
+, where the Library of Alexandria moved part of its collection after it ran out of storage space in the main building]]
 
 Aristophanes of Byzantium (lived 257– 180 BC) became the fourth head librarian sometime around 200 BC. According to a legend recorded by the Roman writer Vitruvius, Aristophanes was one of seven judges appointed for a poetry competition hosted by Ptolemy III Euergetes. All six of the other judges favored one competitor, but Aristophanes favored the one whom the audience had liked the least. Aristophanes declared that all of the poets except for the one he had chosen had committed plagiarism and were therefore disqualified. The king demanded that he prove this, so he retrieved the texts that the authors had plagiarized from the Library, locating them by memory. On account of his impressive memory and diligence, Ptolemy III appointed him as head librarian.
 
@@ -85,7 +81,7 @@ A shift in Greek scholarship at large occurred around the beginning of the first
 
 Burning by Julius Caesar
 
-César_(13667960455).jpg was forced to set fire to his own ships during the Siege of Alexandria in 48 BC. Many ancient writers report that the fire spread and destroyed at least part of the Library of Alexandria's collections; however, the Library seems to have either at least partially survived or been quickly rebuilt.]]
+was forced to set fire to his own ships during the Siege of Alexandria in 48 BC. Many ancient writers report that the fire spread and destroyed at least part of the Library of Alexandria's collections; however, the Library seems to have either at least partially survived or been quickly rebuilt.]]
 
 In 48 BC, during Caesar's Civil War, Julius Caesar was besieged at Alexandria. His soldiers set fire to his own ships while trying to clear the wharves to block the fleet belonging to Cleopatra's brother Ptolemy XIV.[13][14] This fire spread to the parts of the city nearest to the docks, causing considerable devastation.[15] The first-century AD Roman playwright and Stoic philosopher Seneca the Younger quotes Livy's _Ab Urbe Condita Libri_, which was written between 63 and 14 BC, as saying that the fire started by Caesar destroyed 40,000 scrolls from the Library of Alexandria. The Greek Middle Platonist Plutarch ( 46–120 AD) writes in his _Life of Caesar_ that, "[W]hen the enemy endeavored to cut off his communication by sea, he was forced to divert that danger by setting fire to his own ships, which, after burning the docks, thence spread on and destroyed the great library."[16] The Roman historian Cassius Dio ( 155 – 235 AD), however, writes: "Many places were set on fire, with the result that, along with other buildings, the dockyards and storehouses of grain and books, said to be great in number and of the finest, were burned." However, Florus and Lucan only mention that the flames burned the fleet itself and some "houses near the sea".[17]
 
@@ -97,7 +93,7 @@ Further evidence for the Library's survival after 48 BC comes from the fact that
 
 Roman Period and destruction
 
-Alexandria_Library_Inscription.jpg of Rome (d. c. AD 79) mentions the "ALEXANDRINA BYBLIOTHECE" (line eight).]]
+of Rome (d. c. AD 79) mentions the "ALEXANDRINA BYBLIOTHECE" (line eight).]]
 
 Very little is known about the Library of Alexandria during the time of the Roman Principate (27 BC–284 AD). The emperor Claudius (ruled 41–54 AD) is recorded to have built an addition onto the Library, but it seems that the Library of Alexandria's general fortunes followed those of the city of Alexandria itself. After Alexandria came under Roman rule, the city's status and, consequently that of its famous Library, gradually diminished. While the Mouseion still existed, membership was granted not on the basis of scholarly achievement, but rather on the basis of distinction in government, the military, or even in athletics.
 
@@ -112,7 +108,7 @@ In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from 
 
 Successors to the Mouseion
 
-Alexandrian_World_Chronicle_-_6v.jpg depicting Pope Theophilus of Alexandria, gospel in hand, standing triumphantly atop the Serapeum in 391 AD]]
+depicting Pope Theophilus of Alexandria, gospel in hand, standing triumphantly atop the Serapeum in 391 AD]]
 
 Serapeum
 
@@ -124,7 +120,7 @@ In 391 AD, a group of Christian workmen in Alexandria uncovered the remains of a
 
 School of Theon and Hypatia
 
-Hypatia_(Charles_Mitchell).jpg, believed to be a depiction of a scene in Charles Kingsley's 1853 novel _Hypatia_]]
+, believed to be a depiction of a scene in Charles Kingsley's 1853 novel _Hypatia_]]
 
 The _Suda_, a tenth-century Byzantine encyclopedia, calls the mathematician Theon of Alexandria ( AD 335– 405) a "man of the Mouseion". According to classical historian Edward J. Watts, however, Theon was probably the head of a school called the "Mouseion", which was named in emulation of the Hellenistic Mouseion that had once included the Library of Alexandria, but which had little other connection to it. Theon's school was exclusive, highly prestigious, and doctrinally conservative. Neither Theon nor Hypatia seem to have had any connections to the militant Iamblichean Neoplatonists who taught in the Serapeum. Instead, Theon seems to have rejected the teachings of Iamblichus and may have taken pride in teaching a pure, Plotinian Neoplatonism. In around 400 AD, Theon's daughter Hypatia (born c. 350–370; died 415 AD) succeeded him as the head of his school. Like her father, she rejected the teachings of Iamblichus and instead embraced the original Neoplatonism formulated by Plotinus.
 
@@ -148,7 +144,7 @@ As a research institution, the library filled its stacks with new works in mathe
 
 Legacy
 
-Maqamat_hariri.jpg library in Baghdad]]
+library in Baghdad]]
 
 In antiquity
 
@@ -160,7 +156,7 @@ Ironically, the survival of ancient texts owes nothing to the great libraries of
 
 Bibliotheca Alexandrina
 
-CW_BibliotechaAlexandrina_Inside.jpg]]
+]]
 
 The idea of reviving the ancient Library of Alexandria in the modern era was first proposed in 1974, when Lotfy Dowidar was president of the University of Alexandria. In May 1986, Egypt requested the Executive Board of UNESCO to allow the international organization to conduct a feasibility study for the project. This marked the beginning of UNESCO and the international community's involvement in trying to bring the project to fruition. Starting in 1988, UNESCO and the UNDP worked to support the international architectural competition to design the Library. Egypt devoted four hectares of land for the building of the Library and established the National High Commission for the Library of Alexandria. Egyptian president Hosni Mubarak took a personal interest in the project, which greatly contributed to its advancement. Completed in 2002, the Bibliotheca Alexandrina now functions as a modern library and cultural center, commemorating the original Library of Alexandria.[30] In line with the mission of the Great Library of Alexandria, the Bibliotheca Alexandrina also houses the International School of Information Science (ISIS), a school for students preparing for highly specialized post-graduate degrees, whose goal is to train professional staff for libraries in Egypt and across the Middle East.
 

@@ -1,4 +1,4 @@
-Stefan_Ramult-Pomeranian_Dictionary.png's _Dictionary of the Pomeranian (Kashubian) language_, published in Kraków, 1893.]]
+'s _Dictionary of the Pomeranian (Kashubian) language_, published in Kraków, 1893.]]
 
 The POMERANIAN LANGUAGE (, ) is a group of dialects from the Lechitic cluster of the West Slavic languages. In medieval contexts, it refers to the dialects spoken by the Slavic Pomeranians. In modern contexts, the term is sometimes used synonymously with "Kashubian" and may also include extinct Slovincian.
 

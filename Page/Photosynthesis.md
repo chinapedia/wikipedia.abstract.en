@@ -1,4 +1,4 @@
-Photosynthesis_en.svg 400 px 400 px and terrestrial vegetation. Dark red and blue-green indicate regions of high photosynthetic activity in the ocean and on land, respectively.]]
+and terrestrial vegetation. Dark red and blue-green indicate regions of high photosynthetic activity in the ocean and on land, respectively.]]
 
 PHOTOSYNTHESIS is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities. This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water – hence the name _photosynthesis_, from the Greek φῶς, _phōs_, "light", and σύνθεσις, _synthesis_, "putting together".[1][2][3] In most cases, oxygen is also released as a waste product. Most plants, most algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies all of the organic compounds and most of the energy necessary for life on Earth.[4]
 
@@ -11,7 +11,7 @@ The first photosynthetic organisms probably evolved early in the evolutionary hi
 
 Overview
 
-Simple_photosynthesis_overview.svg Photosynthetic organisms are photoautotrophs, which means that they are able to synthesize food directly from carbon dioxide and water using energy from light. However, not all organisms use carbon dioxide as a source of carbon atoms to carry out photosynthesis; photoheterotrophs use organic compounds, rather than carbon dioxide, as a source of carbon.[14] In plants, algae, and cyanobacteria, photosynthesis releases oxygen. This is called _oxygenic photosynthesis_ and is by far the most common type of photosynthesis used by living organisms. Although there are some differences between oxygenic photosynthesis in plants, algae, and cyanobacteria, the overall process is quite similar in these organisms. There are also many varieties of anoxygenic photosynthesis, used mostly by certain types of bacteria, which consume carbon dioxide but do not release oxygen.
+Photosynthetic organisms are photoautotrophs, which means that they are able to synthesize food directly from carbon dioxide and water using energy from light. However, not all organisms use carbon dioxide as a source of carbon atoms to carry out photosynthesis; photoheterotrophs use organic compounds, rather than carbon dioxide, as a source of carbon.[14] In plants, algae, and cyanobacteria, photosynthesis releases oxygen. This is called _oxygenic photosynthesis_ and is by far the most common type of photosynthesis used by living organisms. Although there are some differences between oxygenic photosynthesis in plants, algae, and cyanobacteria, the overall process is quite similar in these organisms. There are also many varieties of anoxygenic photosynthesis, used mostly by certain types of bacteria, which consume carbon dioxide but do not release oxygen.
 
 Carbon dioxide is converted into sugars in a process called carbon fixation; photosynthesis captures energy from sunlight to convert carbon dioxide into carbohydrate. Carbon fixation is an endothermic redox reaction. In general outline, photosynthesis is the opposite of cellular respiration: while photosynthesis is a process of reduction of carbon dioxide to carbohydrate, cellular respiration is the oxidation of carbohydrate or other nutrients to carbon dioxide. Nutrients used in cellular respiration include carbohydrates, amino acids and fatty acids. These nutrients are oxidized to produce carbon dioxide and water, and to release chemical energy to drive the organism's metabolism. Photosynthesis and cellular respiration are distinct processes, as they take place through different sequences of chemical reactions and in different cellular compartments.
 
@@ -40,19 +40,7 @@ Some organisms employ even more radical variants of photosynthesis. Some archaea
 
 Photosynthetic membranes and organelles
 
-CHLOROPLAST ULTRASTRUCTURE:
-1. outer membrane
-2. intermembrane space
-3. inner membrane (1+2+3: envelope)
-4. stroma (aqueous fluid)
-5. thylakoid lumen (inside of thylakoid)
-6. thylakoid membrane
-7. granum (stack of thylakoids)
-8. thylakoid (lamella)
-9. starch
-10. ribosome
-11. plastidial DNA
-12. plastoglobule (drop of lipids) In photosynthetic bacteria, the proteins that gather light for photosynthesis are embedded in cell membranes. In its simplest form, this involves the membrane surrounding the cell itself.[21] However, the membrane may be tightly folded into cylindrical sheets called thylakoids,[22] or bunched up into round vesicles called _intracytoplasmic membranes_.[23] These structures can fill most of the interior of a cell, giving the membrane a very large surface area and therefore increasing the amount of light that the bacteria can absorb.[24]
+In photosynthetic bacteria, the proteins that gather light for photosynthesis are embedded in cell membranes. In its simplest form, this involves the membrane surrounding the cell itself.[21] However, the membrane may be tightly folded into cylindrical sheets called thylakoids,[22] or bunched up into round vesicles called _intracytoplasmic membranes_.[23] These structures can fill most of the interior of a cell, giving the membrane a very large surface area and therefore increasing the amount of light that the bacteria can absorb.[24]
 
 In plants and algae, photosynthesis takes place in organelles called chloroplasts. A typical plant cell contains about 10 to 100 chloroplasts. The chloroplast is enclosed by a membrane. This membrane is composed of a phospholipid inner membrane, a phospholipid outer membrane, and an intermembrane space. Enclosed by the membrane is an aqueous fluid called the stroma. Embedded within the stroma are stacks of thylakoids (grana), which are the site of photosynthesis. The thylakoids appear as flattened disks. The thylakoid itself is enclosed by the thylakoid membrane, and within the enclosed volume is a lumen or thylakoid space. Embedded in the thylakoid membrane are integral and peripheral membrane protein complexes of the photosynthetic system.
 
@@ -65,7 +53,7 @@ Although all cells in the green parts of a plant have chloroplasts, the majority
 
 Light-dependent reactions
 
-Thylakoid_membrane_3.svg In the light-dependent reactions, one molecule of the pigment chlorophyll absorbs one photon and loses one electron. This electron is passed to a modified form of chlorophyll called pheophytin, which passes the electron to a quinone molecule, starting the flow of electrons down an electron transport chain that leads to the ultimate reduction of NADP to NADPH. In addition, this creates a proton gradient (energy gradient) across the chloroplast membrane, which is used by ATP synthase in the synthesis of ATP. The chlorophyll molecule ultimately regains the electron it lost when a water molecule is split in a process called photolysis, which releases a dioxygen (O₂) molecule as a waste product.
+In the light-dependent reactions, one molecule of the pigment chlorophyll absorbs one photon and loses one electron. This electron is passed to a modified form of chlorophyll called pheophytin, which passes the electron to a quinone molecule, starting the flow of electrons down an electron transport chain that leads to the ultimate reduction of NADP to NADPH. In addition, this creates a proton gradient (energy gradient) across the chloroplast membrane, which is used by ATP synthase in the synthesis of ATP. The chlorophyll molecule ultimately regains the electron it lost when a water molecule is split in a process called photolysis, which releases a dioxygen (O₂) molecule as a waste product.
 
 The overall equation for the light-dependent reactions under the conditions of non-cyclic electron flow in green plants is:[27]
 
@@ -75,7 +63,7 @@ Not all wavelengths of light can support photosynthesis. The photosynthetic acti
 
 Z scheme
 
-Z-scheme.png In plants, light-dependent reactions occur in the thylakoid membranes of the chloroplasts where they drive the synthesis of ATP and NADPH. The light-dependent reactions are of two forms: cyclic and non-cyclic.
+In plants, light-dependent reactions occur in the thylakoid membranes of the chloroplasts where they drive the synthesis of ATP and NADPH. The light-dependent reactions are of two forms: cyclic and non-cyclic.
 
 In the non-cyclic reaction, the photons are captured in the light-harvesting antenna complexes of photosystem II by chlorophyll and other accessory pigments (see diagram at right). The absorption of a photon by the antenna complex frees an electron by a process called photoinduced charge separation. The antenna system is at the core of the chlorophyll molecule of the photosystem II reaction center. That freed electron is transferred to the primary electron-acceptor molecule, pheophytin. As the electrons are shuttled through an electron transport chain (the so-called _Z-SCHEME_ shown in the diagram), it initially functions to generate a chemiosmotic potential by pumping proton cations (H⁺) across the membrane and into the thylakoid space. An ATP synthase enzyme uses that chemiosmotic potential to make ATP during photophosphorylation, whereas NADPH is a product of the terminal redox reaction in the _Z-scheme_. The electron enters a chlorophyll molecule in Photosystem I. There it is further excited by the light absorbed by that photosystem. The electron is then passed along a chain of electron acceptors to which it transfers some of its energy. The energy delivered to the electron acceptors is used to move hydrogen ions across the thylakoid membrane into the lumen. The electron is eventually used to reduce the co-enzyme NADP with a H⁺ to NADPH (which has functions in the light-independent reaction); at that point, the path of that electron ends.
 
@@ -94,7 +82,7 @@ In the light-independent (or "dark") reactions, the enzyme RuBisCO captures CO�
 
     3 CO₂ + 9 ATP + 6 NADPH + 6 H⁺ → C₃H₆O₃-phosphate + 9 ADP + 8 P_(i) + 6 NADP⁺ + 3 H₂O
 
-Calvin-cycle4.svg Carbon fixation produces the intermediate three-carbon sugar product, which is then converted into the final carbohydrate products. The simple carbon sugars produced by photosynthesis are then used in the forming of other organic compounds, such as the building material cellulose, the precursors for lipid and amino acid biosynthesis, or as a fuel in cellular respiration. The latter occurs not only in plants but also in animals when the energy from plants is passed through a food chain.
+Carbon fixation produces the intermediate three-carbon sugar product, which is then converted into the final carbohydrate products. The simple carbon sugars produced by photosynthesis are then used in the forming of other organic compounds, such as the building material cellulose, the precursors for lipid and amino acid biosynthesis, or as a fuel in cellular respiration. The latter occurs not only in plants but also in animals when the energy from plants is passed through a food chain.
 
 The fixation or reduction of carbon dioxide is a process in which carbon dioxide combines with a five-carbon sugar, ribulose 1,5-bisphosphate, to yield two molecules of a three-carbon compound, glycerate 3-phosphate, also known as 3-phosphoglycerate. Glycerate 3-phosphate, in the presence of ATP and NADPH produced during the light-dependent stages, is reduced to glyceraldehyde 3-phosphate. This product is also referred to as 3-phosphoglyceraldehyde (PGAL) or, more generically, as triose phosphate. Most (5 out of 6 molecules) of the glyceraldehyde 3-phosphate produced is used to regenerate ribulose 1,5-bisphosphate so the process can continue. The triose phosphates not thus "recycled" often condense to form hexose phosphates, which ultimately yield sucrose, starch and cellulose. The sugars produced during carbon metabolism yield carbon skeletons that can be used for other metabolic reactions like the production of amino acids and lipids.
 
@@ -102,7 +90,7 @@ Carbon concentrating mechanisms
 
 On land
 
-HatchSlackpathway2.svg]] In hot and dry conditions, plants close their stomata to prevent water loss. Under these conditions, will decrease and oxygen gas, produced by the light reactions of photosynthesis, will increase, causing an increase of photorespiration by the oxygenase activity of ribulose-1,5-bisphosphate carboxylase/oxygenase and decrease in carbon fixation. Some plants have evolved mechanisms to increase the concentration in the leaves under these conditions.[32]
+]] In hot and dry conditions, plants close their stomata to prevent water loss. Under these conditions, will decrease and oxygen gas, produced by the light reactions of photosynthesis, will increase, causing an increase of photorespiration by the oxygenase activity of ribulose-1,5-bisphosphate carboxylase/oxygenase and decrease in carbon fixation. Some plants have evolved mechanisms to increase the concentration in the leaves under these conditions.[32]
 
 Plants that use the C₄ carbon fixation process chemically fix carbon dioxide in the cells of the mesophyll by adding it to the three-carbon molecule phosphoenolpyruvate (PEP), a reaction catalyzed by an enzyme called PEP carboxylase, creating the four-carbon organic acid oxaloacetic acid. Oxaloacetic acid or malate synthesized by this process is then translocated to specialized bundle sheath cells where the enzyme RuBisCO and other Calvin cycle enzymes are located, and where released by decarboxylation of the four-carbon acids is then fixed by RuBisCO activity to the three-carbon 3-phosphoglyceric acids. The physical separation of RuBisCO from the oxygen-generating light reactions reduces photorespiration and increases fixation and, thus, the photosynthetic capacity of the leaf.[33] plants can produce more sugar than plants in conditions of high light and temperature. Many important crop plants are plants, including maize, sorghum, sugarcane, and millet. Plants that do not use PEP-carboxylase in carbon fixation are called C₃ plants because the primary carboxylation reaction, catalyzed by RuBisCO, produces the three-carbon 3-phosphoglyceric acids directly in the Calvin-Benson cycle. Over 90% of plants use carbon fixation, compared to 3% that use carbon fixation;[34] however, the evolution of in over 60 plant lineages makes it a striking example of convergent evolution.[35]
 
@@ -154,7 +142,7 @@ The main source of oxygen in the Earth's atmosphere derives from oxygenic photos
 
 Symbiosis and the origin of chloroplasts
 
-Plagiomnium_affine_laminazellen.jpeg'')]]
+'')]]
 
 Several groups of animals have formed symbiotic relationships with photosynthetic algae. These are most common in corals, sponges and sea anemones. It is presumed that this is due to the particularly simple body plans and large surface areas of these animals compared to their volumes.[75] In addition, a few marine mollusks _Elysia viridis_ and _Elysia chlorotica_ also maintain a symbiotic relationship with chloroplasts they capture from the algae in their diet and then store in their bodies (see Kleptoplasty). This allows the mollusks to survive solely by photosynthesis for several months at a time.[76][77] Some of the genes from the plant cell nucleus have even been transferred to the slugs, so that the chloroplasts can be supplied with proteins that they need to survive.[78]
 
@@ -181,7 +169,7 @@ Discovery
 
 Although some of the steps in photosynthesis are still not completely understood, the overall photosynthetic equation has been known since the 19th century.
 
-Jan_Baptist_van_Helmont_portrait.jpg by Mary Beale, c.1674]] Jan van Helmont began the research of the process in the mid-17th century when he carefully measured the mass of the soil used by a plant and the mass of the plant as it grew. After noticing that the soil mass changed very little, he hypothesized that the mass of the growing plant must come from the water, the only substance he added to the potted plant. His hypothesis was partially accurate – much of the gained mass also comes from carbon dioxide as well as water. However, this was a signaling point to the idea that the bulk of a plant's biomass comes from the inputs of photosynthesis, not the soil itself.
+by Mary Beale, c.1674]] Jan van Helmont began the research of the process in the mid-17th century when he carefully measured the mass of the soil used by a plant and the mass of the plant as it grew. After noticing that the soil mass changed very little, he hypothesized that the mass of the growing plant must come from the water, the only substance he added to the potted plant. His hypothesis was partially accurate – much of the gained mass also comes from carbon dioxide as well as water. However, this was a signaling point to the idea that the bulk of a plant's biomass comes from the inputs of photosynthesis, not the soil itself.
 
 Joseph Priestley, a chemist and minister, discovered that, when he isolated a volume of air under an inverted jar, and burned a candle in it (which gave off CO₂), the candle would burn out very quickly, much before it ran out of wax. He further discovered that a mouse could similarly "injure" air. He then showed that the air that had been "injured" by the candle and the mouse could be restored by a plant.
 
@@ -201,7 +189,7 @@ where A is the electron acceptor. Therefore, in light, the electron acceptor is 
 
 Samuel Ruben and Martin Kamen used radioactive isotopes to determine that the oxygen liberated in photosynthesis came from the water.
 
-Melvin_Calvin.jpg works in his photosynthesis laboratory.]] Melvin Calvin and Andrew Benson, along with James Bassham, elucidated the path of carbon assimilation (the photosynthetic carbon reduction cycle) in plants. The carbon reduction cycle is known as the Calvin cycle, which ignores the contribution of Bassham and Benson. Many scientists refer to the cycle as the Calvin-Benson Cycle, Benson-Calvin, and some even call it the Calvin-Benson-Bassham (or CBB) Cycle.
+works in his photosynthesis laboratory.]] Melvin Calvin and Andrew Benson, along with James Bassham, elucidated the path of carbon assimilation (the photosynthetic carbon reduction cycle) in plants. The carbon reduction cycle is known as the Calvin cycle, which ignores the contribution of Bassham and Benson. Many scientists refer to the cycle as the Calvin-Benson Cycle, Benson-Calvin, and some even call it the Calvin-Benson-Bassham (or CBB) Cycle.
 
 Nobel Prize-winning scientist Rudolph A. Marcus was able to discover the function and significance of the electron transport chain.
 
@@ -224,7 +212,7 @@ Later in 1958-1963 at Cornell University, field grown maize was reported to have
 
 Factors
 
-Leaf_1_web.jpg is the primary site of photosynthesis in plants.]] There are three main factors affecting photosynthesis and several corollary factors. The three main are:
+is the primary site of photosynthesis in plants.]] There are three main factors affecting photosynthesis and several corollary factors. The three main are:
 
 -   Light irradiance and wavelength
 -   Carbon dioxide concentration
@@ -234,7 +222,7 @@ Total photosynthesis is limited by a range of environmental factors. These inclu
 
 Light intensity (irradiance), wavelength and temperature
 
-Chlorophyll_ab_spectra-en.svg spectra of free chlorophyll _a_ (blue) and _b_ (red) in a solvent. The ACTION SPECTRA of chlorophyll molecules are slightly modified _in vivo_ depending on specific pigment-protein interactions.]] The process of photosynthesis provides the main input of free energy into the biosphere, and is one of four main ways in which radiation is important for plant life.[110]
+spectra of free chlorophyll _a_ (blue) and _b_ (red) in a solvent. The ACTION SPECTRA of chlorophyll molecules are slightly modified _in vivo_ depending on specific pigment-protein interactions.]] The process of photosynthesis provides the main input of free energy into the biosphere, and is one of four main ways in which radiation is important for plant life.[110]
 
 The radiation climate within plant communities is extremely variable, with both time and space.
 
@@ -247,7 +235,7 @@ These two experiments illustrate several important points: First, it is known th
 
 Carbon dioxide levels and photorespiration
 
-Photorespiration.svg As carbon dioxide concentrations rise, the rate at which sugars are made by the light-independent reactions increases until limited by other factors. RuBisCO, the enzyme that captures carbon dioxide in the light-independent reactions, has a binding affinity for both carbon dioxide and oxygen. When the concentration of carbon dioxide is high, RuBisCO will fix carbon dioxide. However, if the carbon dioxide concentration is low, RuBisCO will bind oxygen instead of carbon dioxide. This process, called photorespiration, uses energy, but does not produce sugars.
+As carbon dioxide concentrations rise, the rate at which sugars are made by the light-independent reactions increases until limited by other factors. RuBisCO, the enzyme that captures carbon dioxide in the light-independent reactions, has a binding affinity for both carbon dioxide and oxygen. When the concentration of carbon dioxide is high, RuBisCO will fix carbon dioxide. However, if the carbon dioxide concentration is low, RuBisCO will bind oxygen instead of carbon dioxide. This process, called photorespiration, uses energy, but does not produce sugars.
 
 RuBisCO oxygenase activity is disadvantageous to plants for several reasons:
 

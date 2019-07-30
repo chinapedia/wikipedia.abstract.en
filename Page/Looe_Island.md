@@ -1,4 +1,4 @@
-Looe_island.jpg LOOE ISLAND (, meaning _island of the monk's enclosure_), also known as ST GEORGE'S ISLAND, and historically ST MICHAEL'S ISLAND is a small island a mile from the mainland town of Looe off Cornwall, England.
+LOOE ISLAND (, meaning _island of the monk's enclosure_), also known as ST GEORGE'S ISLAND, and historically ST MICHAEL'S ISLAND is a small island a mile from the mainland town of Looe off Cornwall, England.
 
 According to local legend, Joseph of Arimathea landed here with the child Christ.[1] Some scholars, including Glyn Lewis, suggest the island could be Ictis, the location described by Diodorus Siculus as a centre for the tin trade in pre-Roman Britain.[2]
 
@@ -7,7 +7,7 @@ The island is now owned and managed by the Cornwall Wildlife Trust charity where
 
 History
 
-Trelawny-coat-of-arms-2.gif People have been living on Looe Island since the Iron Age. Evidence of early habitation includes pieces of Roman amphorae as well as stone boat anchors and Roman coins.[7] In the Dark Ages, the island was used a seat of early Christian settlement. The child Jesus was believed to have visited the Island with his uncle, Joseph of Arimathea, who traded with the Cornish tin traders. Therefore, Looe Island became a place of pilgrimage for early Christians and a small thatched roofed chapel was built there during this time.
+People have been living on Looe Island since the Iron Age. Evidence of early habitation includes pieces of Roman amphorae as well as stone boat anchors and Roman coins.[7] In the Dark Ages, the island was used a seat of early Christian settlement. The child Jesus was believed to have visited the Island with his uncle, Joseph of Arimathea, who traded with the Cornish tin traders. Therefore, Looe Island became a place of pilgrimage for early Christians and a small thatched roofed chapel was built there during this time.
 
 In the later medieval period, the island came under the overall control of Glastonbury Abbey, with the Prior of Lammana being directly responsible for its governance; the island's chapel was under the care of two Benedictine monks until 1289 when the property was sold to a local landowner. The priory was replaced by a domestic chapel served by a secular priest[8] until the Dissolution of the Monasteries in 1536 when it became property of the Crown. From the 13th to the 16th centuries it was known as St Michael's Island but after the dissolution of the monasteries, it was rededicated in 1594 as St George's Island.[9]
 

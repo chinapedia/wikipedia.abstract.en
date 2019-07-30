@@ -13,8 +13,6 @@ Trotsky's ideas formed the basis of Trotskyism, a major school of Marxist though
 
 Childhood and family (1879–1895)
 
-Leo_Trotzki_1888.jpg
-
 Leon Trotsky was born Lev Davidovich Bronstein on 7 November 1879, the fifth child of a Ukrainian-Jewish family of wealthy farmers in Yanovka or Yanivka, in the Kherson governorate of the Russian Empire (now Bereslavka, in Ukraine), a small village from the nearest post office. His parents were David Leontyevich Bronstein (1847–1922) and his wife Anna Lvovna (née Zhivotovskaya) (1850–1910). Trotsky's father lived in Poltava, and later moved to Bereslavka, as it had a large Jewish community.[5][6] The language spoken at home was a mixture of Russian and Ukrainian (known as Surzhyk).[7] Trotsky's younger sister, Olga, who also grew up to be a Bolshevik and a Soviet politician, married the prominent Bolshevik Lev Kamenev.[8]
 
 Some authors, notably Robert Service, have claimed that Trotsky's childhood first name was the Yiddish _Leiba_. The American Trotskyist David North said that this was an assumption based on Trotsky's Jewish birth, but, contrary to Service's claims, there is no documentary evidence to support his using a Yiddish name, when that language was not spoken by his family.[9] Both North and Walter Laqueur in their books say that Trotsky's childhood name was _Lyova_, a standard Russian diminutive of the name _Lev._[10] North has compared the speculation on Trotsky's given name to the undue emphasis given to his having a Jewish surname.[11][12]
@@ -28,15 +26,13 @@ Early political activities and life (1896–1917)
 
 Revolutionary activity and imprisonment (1896–1898)
 
-LeonTrotsky1897.jpg
-
 Trotsky became involved in revolutionary activities in 1896 after moving to the harbor town of Nikolayev (now Mykolaiv) on the Ukrainian coast of the Black Sea.[17] At first a _narodnik_ (revolutionary agrarian socialist populist), he initially opposed Marxism but was won over to Marxism later that year by his future first wife, Aleksandra Sokolovskaya. Instead of pursuing a mathematics degree, Trotsky helped organize the South Russian Workers' Union in Nikolayev in early 1897. Using the name 'Lvov',[18] he wrote and printed leaflets and proclamations, distributed revolutionary pamphlets, and popularized socialist ideas among industrial workers and revolutionary students.[19]
 
 In January 1898, more than 200 members of the union, including Trotsky, were arrested. He was held for the next two years in prison awaiting trial, first in Nikolayev, then Kherson, then Odessa, and finally in Moscow.[20] In the Moscow prison he came into contact with other revolutionaries and heard about Lenin and read Lenin's book, _The Development of Capitalism in Russia_.[21] Two months into his imprisonment, on 1–3 March 1898, the first Congress of the newly formed Russian Social Democratic Labor Party (RSDLP) was held.[22] From then on Trotsky identified as a member of the party.
 
 First marriage and Siberian exile (1899–1902)
 
-Leo_Trotzki_1897.jpg While in the prison in Moscow, in the summer of 1899, Trotsky married Aleksandra Sokolovskaya (1872–1938), a fellow Marxist. The wedding ceremony was performed by a Jewish chaplain.[23]
+While in the prison in Moscow, in the summer of 1899, Trotsky married Aleksandra Sokolovskaya (1872–1938), a fellow Marxist. The wedding ceremony was performed by a Jewish chaplain.[23]
 
 In 1900, he was sentenced to four years in exile in Siberia. Because of their marriage, Trotsky and his wife were allowed to be exiled to the same location in Siberia. They were exiled to Ust-Kut and the Verkholensk in the Baikal Lake region of Siberia. They had two daughters, Zinaida (1901 – 5 January 1933) and Nina (1902 – 9 June 1928), both born in Siberia.
 
@@ -76,8 +72,6 @@ The unrest and agitation against the Russian government came to a head in Saint 
 
 On Sunday, 9 January 1905, Father Georgi Gapon led a peaceful procession of citizens through the streets to the Winter Palace to beseech the Tsar for food and relief from the oppressive government. The Palace Guard fired on the peaceful demonstration, resulting in the deaths of some 1,000 demonstrators. Sunday, 9 January 1905, became known as Bloody Sunday.[40]
 
-Trotskymugshots.jpg
-
 Following the events of Bloody Sunday, Trotsky secretly returned to Russia in February 1905, by way of Kiev.[41] At first he wrote leaflets for an underground printing press in Kiev, but soon moved to the capital, Saint Petersburg. There he worked with both Bolsheviks, such as Central Committee member Leonid Krasin, and the local Menshevik committee, which he pushed in a more radical direction. The latter, however, were betrayed by a secret police agent in May, and Trotsky had to flee to rural Finland. There he worked on fleshing out his theory of permanent revolution.[42]
 
 On 19 September 1905, the typesetters at the Ivan Sytin's printing house in Moscow went out on strike for shorter hours and higher pay. By the evening of 24 September, the workers at 50 other printing shops in Moscow were also on strike. On 2 October 1905, the typesetters in printing shops in Saint Petersburg decided to strike in support of the Moscow strikers. On 7 October 1905, the railway workers of the Moscow–Kazan Railway went out on strike.[43] Amid the resulting confusion, Trotsky returned from Finland to Saint Petersburg on 15 October 1905. On that day, Trotsky spoke before the Saint Petersburg Soviet Council of Workers Deputies, which was meeting at the Technological Institute in the city. Also attending were some 200,000 people crowded outside to hear the speeches—about a half of all workers in Saint Petersburg.[44]
@@ -92,7 +86,7 @@ The following day, the Soviet was surrounded by troops loyal to the government a
 
 Second emigration (1907–1914)
 
-ParvusTrotskiDeich.jpg (left) and Leo Deutsch (right) in Saint Peter and Paul Fortress prison at Saint Petersburg in 1906]]
+(left) and Leo Deutsch (right) in Saint Peter and Paul Fortress prison at Saint Petersburg in 1906]]
 
 While en route to exile in Obdorsk, Siberia, in January 1907, Trotsky escaped at Berezov[52] and once again made his way to London. He attended the 5th Congress of the RSDLP. In October, he moved to Vienna, Austria-Hungary. For the next seven years, he often took part in the activities of the Austrian Social Democratic Party and, occasionally, of the German Social Democratic Party.[53]
 
@@ -115,8 +109,6 @@ In Vienna, Trotsky continuously published articles in radical Russian and Ukrain
 World War I (1914–1917)
 
 The outbreak of World War I caused a sudden realignment within the RSDLP and other European social democratic parties over the issues of war, revolution, pacifism and internationalism. Within the RSDLP, Lenin, Trotsky and Martov advocated various internationalist anti-war positions, while Plekhanov and other social democrats (both Bolsheviks and Mensheviks) supported the Russian government to some extent. In Switzerland, Trotsky briefly worked within the Swiss Socialist Party, prompting it to adopt an internationalist resolution. He wrote a book opposing the war, _The War and the International,_[65] and the pro-war position taken by the European social democratic parties, primarily the German party.
-
-Trotskynina1915.jpg
 
 As a war correspondent for the _Kievskaya Mysl_, Trotsky moved to France on 19 November 1914. In January 1915 in Paris, he began editing (at first with Martov, who soon resigned as the paper moved to the left) _Nashe Slovo_ ("Our Word"), an internationalist socialist newspaper. He adopted the slogan of "peace without indemnities or annexations, peace without conquerors or conquered." Lenin advocated Russia's defeat in the war and demanded a complete break with the Second International.[66]
 
@@ -141,7 +133,7 @@ Russian Revolution and aftermath
 
 Commissar for Foreign Affairs and Brest-Litovsk (1917–1918)
 
-Leon_Trotsky_Lev_Kamenev_Brest-Litovsk_negotiations.jpg at Brest-Litovsk negotiations (c. 1917-1918)]]
+at Brest-Litovsk negotiations (c. 1917-1918)]]
 
 After the Bolsheviks came to power, Trotsky became the People's Commissar for Foreign Affairs and published the secret treaties previously signed by the Triple Entente that detailed plans for post-war reallocation of colonies and redrawing state borders.
 
@@ -165,8 +157,6 @@ Germany did not respond for three days, and continued its offensive encountering
 
 Head of the Red Army (spring 1918)
 
-Leon_Trotsky_Armored_Train_1920.jpg
-
 The failure of the recently formed Red Army to resist the German offensive in February 1918 revealed its weaknesses: insufficient numbers, lack of knowledgeable officers, and near absence of coordination and subordination. Celebrated and feared Baltic Fleet sailors, one of the bastions of the new regime led by Pavel Dybenko, fled from the German army at Narva. The notion that the Soviet state could have an effective voluntary or militia type military was seriously undermined.
 
 Trotsky was one of the first Bolshevik leaders to recognise the problem, and he pushed for the formation of a military council of former Russian generals that would function as an advisory body. Lenin and the Bolshevik Central Committee agreed on 4 March to create the Supreme Military Council, headed by former chief of the imperial General Staff Mikhail Bonch-Bruevich.
@@ -181,7 +171,7 @@ Civil War (1918–1920)
 
 1918
 
-WhiteArmyPropagandaPosterOfTrotsky.jpg anti-communist propaganda poster depicting Trotsky as Satan wearing a Pentagram, and portraying the Bolsheviks' Chinese supporters as mass murderers. The caption reads, "Peace and Liberty in Sovdepiya".]]
+anti-communist propaganda poster depicting Trotsky as Satan wearing a Pentagram, and portraying the Bolsheviks' Chinese supporters as mass murderers. The caption reads, "Peace and Liberty in Sovdepiya".]]
 
 The military situation soon tested Trotsky's managerial and organisation-building skills. In May–June 1918, the Czechoslovak Legions _en route_ from European Russia to Vladivostok rose against the Soviet government. This left the Bolsheviks with the loss of most of the country's territory, an increasingly well-organised resistance by Russian anti-Communist forces (usually referred to as the White Army after their best-known component) and widespread defection by the military experts whom Trotsky relied on.
 
@@ -193,7 +183,7 @@ In dealing with deserters, Trotsky often appealed to them politically, arousing 
 
 Given the lack of manpower and the 16 opposing foreign armies, Trotsky also insisted on the use of former Tsarist officers as military specialists within the Red Army, in combination with Bolshevik political commissars to ensure the revolutionary nature of the Red Army. Lenin commented on this:
 
-Vladimir_Lenin_Leon_Trotsky_Lev_Kamenev_1920.jpg, Leon Trotsky, Lev Kamenev motivate the troops to fight on the Soviet-Polish war. May 1, 1920]]
+, Leon Trotsky, Lev Kamenev motivate the troops to fight on the Soviet-Polish war. May 1, 1920]]
 
 In September 1918, the Bolshevik government, facing continuous military difficulties, declared what amounted to martial law and reorganized the Red Army. The Supreme Military Council was abolished and the position of commander-in-chief was restored, filled by the commander of the Latvian Riflemen, Ioakim Vatsetis (a.k.a. Jukums Vācietis), who had formerly led the Eastern Front against the Czechoslovak Legions. Vatsetis took charge of day-to-day operations of the army while Trotsky became chairman of the newly formed Revolutionary Military Council of the Republic and retained overall control of the military. Trotsky and Vatsetis had clashed earlier in 1918, while Vatsetis and Trotsky's adviser Mikhail Bonch-Bruevich were also on unfriendly terms. Nevertheless, Trotsky eventually established a working relationship with the often prickly Vatsetis.
 
@@ -203,13 +193,13 @@ The reorganization caused yet another conflict between Trotsky and Stalin in lat
 
 Throughout late 1918 and early 1919, there were a number of attacks on Trotsky's leadership of the Red Army, including veiled accusations in newspaper articles inspired by Stalin and a direct attack by the Military Opposition at the VIIIth Party Congress in March 1919. On the surface, he weathered them successfully and was elected one of only five full members of the first Politburo after the Congress. But he later wrote:[85]
 
-Kalinin_Trotsky_Polish–Soviet_War.jpg and Leon Trotsky greet Red Army troops. Polish–Soviet War. Red Army offensive on 23 November 1927]]
+and Leon Trotsky greet Red Army troops. Polish–Soviet War. Red Army offensive on 23 November 1927]]
 
 In mid-1919 the dissatisfied had an opportunity to mount a serious challenge to Trotsky's leadership: the Red Army grew from 800,000 to 3,000,000, and fought simultaneously on sixteen fronts.[86] The Red Army had defeated the White Army's spring offensive in the east and was about to cross the Ural Mountains and enter Siberia in pursuit of Admiral Alexander Kolchak's forces. But in the south, General Anton Denikin's White Russian forces advanced, and the situation deteriorated rapidly. On 6 June, Red Army commander-in-chief, Jukums Vācietis, ordered the Eastern Front to stop the offensive so that he could use its forces in the south. But the leadership of the Eastern Front, including its commander Sergey Kamenev (a former colonel of the Imperial army), and Eastern Front Revolutionary Military Council members Ivar Smilga, Mikhail Lashevich and Sergey Gusev vigorously protested and wanted to keep the emphasis on the Eastern Front. They insisted that it was vital to capture Siberia before the onset of winter and that once Kolchak's forces were broken, many more divisions would be freed up for the Southern Front. Trotsky, who had earlier had conflicts with the leadership of the Eastern Front, including a temporary removal of Kamenev in May 1919, supported Vācietis.
 
 At the 3–4 July Central Committee meeting, after a heated exchange the majority supported Kamenev and Smilga against Vācietis and Trotsky. Trotsky's plan was rejected and he was much criticized for various alleged shortcomings in his leadership style, much of it of a personal nature. Stalin used this opportunity to pressure Lenin[87] to dismiss Trotsky from his post. But when Trotsky offered his resignation on 5 July, the Politburo and the Orgburo of the Central Committee unanimously rejected it.
 
-Trotsky_on_a_Polish_poster_of_1920.jpg of 1920]]
+of 1920]]
 
 However, some significant changes to the leadership of the Red Army were made. Trotsky was temporarily sent to the Southern Front, while the work in Moscow was informally coordinated by Smilga. Most members of the Revolutionary Military Council who were not involved in its day-to-day operations were relieved of their duties on 8 July, and new members, including Smilga, were added. The same day, while Trotsky was in the south, Vācietis was suddenly arrested by the Cheka on suspicion of involvement in an anti-Soviet plot, and replaced by Sergey Kamenev. After a few weeks in the south, Trotsky returned to Moscow and resumed control of the Red Army. A year later, Smilga and Tukhachevsky were defeated during the Battle of Warsaw, but Trotsky refused this opportunity to pay Smilga back, which earned him Smilga's friendship and later support during the intra-Party battles of the 1920s.[88]
 
@@ -217,7 +207,7 @@ By October 1919, the government was in the worst crisis of the Civil War: Deniki
 
 1920
 
-Béla_Kun,_Jacques_Sadoul,_Leon_Trotsky,_Mikhail_Frunze,_Sergey_Gusev_1920.jpg, Jacques Sadoul, Leon Trotsky, Mikhail Frunze and Sergey Gusev. Kharkiv Ukraine 1920.]]
+, Jacques Sadoul, Leon Trotsky, Mikhail Frunze and Sergey Gusev. Kharkiv Ukraine 1920.]]
 
 With the defeat of Denikin and Yudenich in late 1919, the Soviet government's emphasis shifted to the economy. Trotsky spent the winter of 1919–20 in the Urals region trying to restart its economy. Based on his experiences, he proposed abandoning the policies of War Communism,[90] which included confiscating grain from peasants, and partially restoring the grain market. Still committed to War Communism, Lenin rejected his proposal. He put Trotsky in charge of the country's railroads (while retaining overall control of the Red Army), which he directed should be militarized in the spirit of War Communism. It was not until early 1921, due to economic collapse and social uprisings, that Lenin and the rest of the Bolshevik leadership abandoned War Communism in favor of the New Economic Policy.
 
@@ -227,7 +217,7 @@ The Red Army was defeated by Poland and the offensive was turned back during the
 
 Trade union debate (1920–1921)
 
-Lenin,_Trotsky_and_Voroshilov_with_Delegates_of_the_10th_Congress_of_the_Russian_Communist_Party_(Bolsheviks).jpg and Klim Voroshilov among soldiers in Petrograd in 1921.]]
+and Klim Voroshilov among soldiers in Petrograd in 1921.]]
 
 In late 1920, after the Bolsheviks won the Civil War and before the Eighth and Ninth Congress of Soviets, the Communist Party had a heated and increasingly acrimonious debate over the role of trade unions in the Soviet Union. The discussion split the party into many "platforms" (factions), including Lenin's, Trotsky's and Bukharin's; Bukharin eventually merged his with Trotsky's. Smaller, more radical factions like the Workers' Opposition (headed by Alexander Shlyapnikov) and the Group of Democratic Centralism were particularly active.
 
@@ -237,7 +227,7 @@ Trotsky's position formed while he led a special commission on the Soviet transp
 
 Lenin sharply criticised Trotsky and accused him of "bureaucratically nagging the trade unions" and of staging "factional attacks". His view did not focus on State control as much as the concern that a new relationship was needed between the State and the rank-and-file workers. He said, "Introduction of genuine labour discipline is conceived only if the whole mass of participants in productions take a conscious part in the fulfillment of these tasks. This cannot be achieved by bureaucratic methods and orders from above." This was a debate that Lenin thought the party could not afford. His frustration with Trotsky was used by Stalin and Zinoviev with their support for Lenin's position, to improve their standing within the Bolshevik leadership at Trotsky's expense.
 
-Kronstadt_attack.JPG troops attack Kronstadt sailors in March 1921.]]
+troops attack Kronstadt sailors in March 1921.]]
 
 Disagreements threatened to get out of hand, and many Bolsheviks, including Lenin, feared that the party would splinter. The Central Committee was split almost evenly between Lenin's and Trotsky's supporters, with all three Secretaries of the Central Committee (Krestinsky, Yevgeny Preobrazhensky and Leonid Serebryakov) supporting Trotsky.
 
@@ -247,7 +237,7 @@ Years later, anarchist Emma Goldman and others criticised Trotsky's actions as C
 
 Trotsky's contribution to the Russian Revolution
 
-Leon_Trotsky_as_the_October_Revolution_Guard.jpg, as the Guard of the October revolution on 14 May 1923]]
+, as the Guard of the October revolution on 14 May 1923]]
 
 Vladimir Cherniaev, a leading Russian historian, sums up Trotsky's main contributions to the Russian Revolution:
 
@@ -277,7 +267,7 @@ In mid-1923 the _troika_ had Trotsky's friend and supporter Christian Rakovsky r
 
 Left opposition (1923–1924)
 
-Trotsky-Annenkov_1922_sketch.jpg portrait by Yury Annenkov – a version of this appeared on one of the earliest covers of _Time_ magazine.]]
+portrait by Yury Annenkov – a version of this appeared on one of the earliest covers of _Time_ magazine.]]
 
 Starting in mid-1923, the Soviet economy ran into significant difficulties, which led to numerous strikes countrywide. Two secret groups within the Communist Party, "Workers' Truth" and "Workers' Group", were uncovered and suppressed by the Soviet secret police. On 8 October 1923 Trotsky sent a letter to the Central Committee and the Central Control Commission, attributing these difficulties to lack of intra-Party democracy. Trotsky wrote:
 
@@ -285,7 +275,7 @@ Other senior communists who had similar concerns sent _The Declaration of 46_ to
 
 Although the text of these letters remained secret at the time, they had a significant effect on the Party leadership and prompted a partial retreat by the _troika_ and its supporters on the issue of intra-Party democracy, notably in Zinoviev's _Pravda_ article published on 7 November. Throughout November, the _troika_ tried to come up with a compromise to placate, or at least temporarily neutralise, Trotsky and his supporters. (Their task was made easier by the fact that Trotsky was sick in November and December.) The first draft of the resolution was rejected by Trotsky, which led to the formation of a special group consisting of Stalin, Trotsky and Kamenev, which was charged with drafting a mutually acceptable compromise. On 5 December, the Politburo and the Central Control Commission unanimously adopted the group's final draft as its resolution. On 8 December, Trotsky published an open letter, in which he expounded on the recently adopted resolution's ideas. The _troika_ used his letter as an excuse to launch a campaign against Trotsky, accusing him of factionalism, setting "the youth against the fundamental generation of old revolutionary Bolsheviks"[106] and other sins.
 
-Trotsky defended his position in a series of seven letters which were collected as _The New Course_ in January 1924.[107] The illusion of a "monolithic Bolshevik leadership" was thus shattered and a lively intra-Party discussion ensued, both in local Party organizations and in the pages of _Pravda_. The discussion lasted most of December and January until the XIIIth Party Conference of 16–18 January 1924. Those who opposed the Central Committee's position in the debate were thereafter referred to as members of the Left Opposition.[108] Bolsheviks_writing_a_Repy_to_Englishman_Curzon.jpg, UK Secretary of State for Foreign Affairs in 1923]] Since the _troika_ controlled the Party apparatus through Stalin's Secretariat and _Pravda_ through its editor Bukharin, it was able to direct the discussion and the process of delegate selection. Although Trotsky's position prevailed within the Red Army and Moscow universities and received about half the votes in the Moscow Party organisation, it was defeated elsewhere, and the Conference was packed with pro-_troika_ delegates. In the end, only three delegates voted for Trotsky's position, and the Conference denounced "Trotskyism" as a "petty bourgeois deviation". After the Conference, a number of Trotsky's supporters, especially in the Red Army's Political Directorate, were removed from leading positions or reassigned. Nonetheless, Trotsky kept all of his posts, and the _troika_ was careful to emphasise that the debate was limited to Trotsky's "mistakes" and that removing Trotsky from the leadership was out of the question. In reality, Trotsky had already been cut off from the decision-making process.
+Trotsky defended his position in a series of seven letters which were collected as _The New Course_ in January 1924.[107] The illusion of a "monolithic Bolshevik leadership" was thus shattered and a lively intra-Party discussion ensued, both in local Party organizations and in the pages of _Pravda_. The discussion lasted most of December and January until the XIIIth Party Conference of 16–18 January 1924. Those who opposed the Central Committee's position in the debate were thereafter referred to as members of the Left Opposition.[108] , UK Secretary of State for Foreign Affairs in 1923]] Since the _troika_ controlled the Party apparatus through Stalin's Secretariat and _Pravda_ through its editor Bukharin, it was able to direct the discussion and the process of delegate selection. Although Trotsky's position prevailed within the Red Army and Moscow universities and received about half the votes in the Moscow Party organisation, it was defeated elsewhere, and the Conference was packed with pro-_troika_ delegates. In the end, only three delegates voted for Trotsky's position, and the Conference denounced "Trotskyism" as a "petty bourgeois deviation". After the Conference, a number of Trotsky's supporters, especially in the Red Army's Political Directorate, were removed from leading positions or reassigned. Nonetheless, Trotsky kept all of his posts, and the _troika_ was careful to emphasise that the debate was limited to Trotsky's "mistakes" and that removing Trotsky from the leadership was out of the question. In reality, Trotsky had already been cut off from the decision-making process.
 
 Immediately after the Conference, Trotsky left for a Caucasian resort to recover from his prolonged illness. On his way, he learned about Lenin's death on 21 January 1924. He was about to return when a follow up telegram from Stalin arrived, giving an incorrect date of the scheduled funeral, which would have made it impossible for Trotsky to return in time. Many commentators speculated after the fact that Trotsky's absence from Moscow in the days following Lenin's death contributed to his eventual loss to Stalin, although Trotsky generally discounted the significance of his absence.
 
@@ -295,7 +285,7 @@ There was little overt political disagreement within the Soviet leadership throu
 
 At the thirteenth Party Congress in May, Trotsky delivered a conciliatory speech:[109]
 
-Leon_Trotsky_attends_The_October_Revolution_parade_1924.jpg, Kliment Voroshilov, Leon Trotsky, Mikhail Kalinin and Mikhail Frunze attend The October Revolution parade on The Red Square on 7 Nov 1924]]
+, Kliment Voroshilov, Leon Trotsky, Mikhail Kalinin and Mikhail Frunze attend The October Revolution parade on The Red Square on 7 Nov 1924]]
 
 In the meantime, the Left Opposition, which had coagulated somewhat unexpectedly in late 1923 and lacked a definite platform aside from general dissatisfaction with the intra-Party "regime", began to crystallise. It lost some less dedicated members to the harassment by the _troika_, but it also began formulating a program.
 
@@ -313,7 +303,7 @@ Trotsky was again sick and unable to respond while his opponents mobilised all o
 
 A year in the wilderness (1925)
 
-Leon_Trotsky_and_Leonid_Serebryakov_attend_the_Congress_of_Soviets_of_the_Soviet_Union_May_1925.jpg attend the Congress of Soviets of the Soviet Union in May 1925]]
+attend the Congress of Soviets of the Soviet Union in May 1925]]
 
 1925 was a difficult year for Trotsky. After the bruising _Literary Discussion_ and losing his Red Army posts, he was effectively unemployed throughout the winter and spring. In May 1925, he was given three posts: chairman of the Concessions Committee, head of the electro-technical board, and chairman of the scientific-technical board of industry. Trotsky wrote in _My Life_[111] that he "was taking a rest from politics" and "naturally plunged into the new line of work up to my ears".[112]
 
@@ -321,7 +311,7 @@ Some contemporary accounts paint a picture of a remote and distracted man.[113] 
 
 In one of the few political developments that affected Trotsky in 1925, the circumstances of the controversy over Lenin's Testament were described by American Marxist Max Eastman in his book _Since Lenin Died_ (1925). The Soviet leadership denounced Eastman's account and used party discipline to force Trotsky to write an article denying Eastman's version of the events.
 
-In the meantime, the _troika_ finally broke up. Bukharin and Rykov sided with Stalin while Krupskaya and Soviet Commissar of Finance Grigory Sokolnikov aligned with Zinoviev and Kamenev. The struggle became open at the September 1925 meeting of the Central Committee and came to a head at the XIVth Party Congress in December 1925. With only the Leningrad Party organization behind them, Zinoviev and Kamenev, dubbed _The New Opposition_, were thoroughly defeated while Trotsky refused to get involved in the fight and did not speak at the Congress.Leon_Trotsky_speaks_on_the_fifth_anniversary_of_Soviet_Georgia.jpg in March 1926]]
+In the meantime, the _troika_ finally broke up. Bukharin and Rykov sided with Stalin while Krupskaya and Soviet Commissar of Finance Grigory Sokolnikov aligned with Zinoviev and Kamenev. The struggle became open at the September 1925 meeting of the Central Committee and came to a head at the XIVth Party Congress in December 1925. With only the Leningrad Party organization behind them, Zinoviev and Kamenev, dubbed _The New Opposition_, were thoroughly defeated while Trotsky refused to get involved in the fight and did not speak at the Congress. in March 1926]]
 
 United Opposition (1926–1927)
 
@@ -331,7 +321,7 @@ The United Opposition was repeatedly threatened with sanctions by the Stalinist 
 
 Soviet policy toward the Chinese Revolution became the ideological line of demarcation between Stalin and the United Opposition. The Chinese Revolution began on 10 October 1911,[114] resulting in the abdication of the Chinese Emperor, Puyi, on 12 February 1912.[115] Sun Yat-sen established the Republic of China. In reality, however, the Republic controlled very little of the country. Much of China was divided between various regional warlords. The Republican government established a new "nationalist people's army and a national people's party" — the Kuomintang. In 1920, the Kuomintang opened relations with Soviet Russia. With Soviet help, the Republic of China built up the nationalist people's army. With the development of the nationalist army, a Northern Expedition was planned to smash the power of the warlords of the northern part of the country. This Northern Expedition became a point of contention over foreign policy by Stalin and Trotsky. Stalin tried to persuade the small Chinese Communist Party to merge with the Kuomintang (KMT) Nationalists to bring about a bourgeois revolution before attempting to bring about a Soviet-style working class revolution.[116]
 
-Joseph_Stalin_and_Leon_Trotsky_at_Felix_Dzerzhinsky_funeral.jpg bearing the coffin of Felix Dzerzhinsky on 30 July 1926|alt=|left]]
+bearing the coffin of Felix Dzerzhinsky on 30 July 1926|alt=|left]]
 
 Trotsky wanted the Communist Party to complete an orthodox proletarian revolution and have clear class independence from the KMT. Stalin funded the KMT during the expedition.[117] Stalin countered Trotskyist criticism by making a secret speech in which he said that Chiang's right-wing Kuomintang were the only ones capable of defeating the imperialists, that Chiang Kai-shek had funding from the rich merchants, and that his forces were to be utilized until squeezed for all usefulness like a lemon before being discarded. However, Chiang quickly reversed the tables in the Shanghai massacre of 12 April 1927 by massacring the Communist Party in Shanghai midway through the Northern Expedition.[118][119]
 
@@ -345,7 +335,7 @@ During this time Trotsky gave the eulogy at the funeral of his friend, the Sovie
 
 Fate of Left Oppositionists after Trotsky's exile (1929–1941)
 
-Soviet_reaction_to_Leon_Trotsky_publication.jpg'' as reported in the Soviet Union in August 1929, with the editors of _Projector_ titled the publication: "On the service of bourgeoisie"]]
+'' as reported in the Soviet Union in August 1929, with the editors of _Projector_ titled the publication: "On the service of bourgeoisie"]]
 
 After Trotsky's expulsion from the Soviet Union, Trotskyists within the Soviet Union began to waver. Between 1929 and 1932, most leading members of the Left Opposition surrendered to Stalin, "admitted their mistakes" and were reinstated in the Communist Party. One initial exception to this was Christian Rakovsky, who inspired Trotsky between 1929 and 1934 with his refusal to capitulate as state suppression of any remaining opposition to Stalin increased by the year. In late 1932, Rakovsky had failed with an attempt to flee the Soviet Union, and was exiled to Yakutia in March 1933. Answering Trotsky's request, the French mathematician and Trotskyist Jean Van Heijenoort, together with his fellow activist Pierre Frank, unsuccessfully called on the influential Soviet author Maxim Gorky to intervene in favor of Christian Rakovsky, and boarded the ship he was traveling on near Constantinople.[121] According to Heijenoort, they only managed to meet Gorky's son, Maxim Peshkov, who reportedly told them that his father was indisposed, but promised to pass on their request.[122] Rakovsky was the last prominent Trotskyist to capitulate to Stalin in April 1934, when Rakovsky formally "admitted his mistakes" (his letter to _Pravda_, titled _There Should Be No Mercy_, depicted Trotsky and his supporters as "agents of the German Gestapo").[123] Rakovsky was appointed to high office in the Commissariat for Health and allowed to return to Moscow, also serving as Soviet ambassador to Japan in 1935.[124] However, Rakovsky was cited in allegations involving the killing of Sergey Kirov, and was arrested and imprisoned in late 1937, during the Great Purge.[125]
 
@@ -356,7 +346,7 @@ Exile (1929–1940)
 
 In February 1929, Trotsky was deported from the Soviet Union to his new exile in Turkey. During his first two months in Turkey, Trotsky lived with his wife and eldest son at the Soviet Union Consulate in Constantinople and then at a nearby hotel in the city. In April 1929, Trotsky, his wife and son were moved to the island of Büyükada (aka Prinkipo) by the Turkish authorities. On Prinkipo, they were moved into a house called the Yanaros mansion, where Trotsky and his wife lived until July 1933.[127] During his exile in Turkey, Trotsky was under the surveillance of the Turkish police forces of Mustafa Kemal Pasha. Trotsky was also at risk from the many former White Army officers who lived on Prinkipo, officers who had opposed the October Revolution and who had been defeated by Trotsky and the Red Army in the Russian Civil War. However, Trotsky's European supporters volunteered to serve as bodyguards and assured his safety.[128]
 
-Trotsky_House_Istanbul.jpg in Turkey, as it appears today. Trotsky lived at the house from April 1929 until July 1933.]]
+in Turkey, as it appears today. Trotsky lived at the house from April 1929 until July 1933.]]
 
 In July 1933, Trotsky was offered asylum in France by Prime Minister Édouard Daladier. Trotsky accepted the offer, but he was forbidden to live in Paris and soon found himself under the surveillance of the French police. From July 1933 to February 1934, Trotsky and his wife lived in Royan. The philosopher and activist Simone Weil also arranged for Trotsky and his bodyguards to stay for a few days at her parents' house.[129] Following the 6 February 1934 crisis in France, the French minister of internal affairs, Albert Sarraut, signed a decree to deport Trotsky from France.[130] However, no foreign government was found willing to accept Trotsky within its borders. Accordingly, the French authorities instructed Trotsky to move to a residence in the tiny village of Barbizon under the strict surveillance of the French police, where Trotsky found his contact with the outside world to be even worse than during his exile in Turkey.[131]
 
@@ -364,7 +354,7 @@ In May 1935, soon after the French government had agreed the Franco-Soviet Treat
 
 Following French media complaints about Trotsky's role in encouraging the mass strikes in France in May and June 1936 with his articles, the Johan Nygaardsvold-led Norwegian government began to exhibit disquiet about Trotsky's actions. In the summer of 1936, Trotsky's asylum was increasingly made a political issue by the fascist Nasjonal Samling, led by Vidkun Quisling,[133]  along with an increase in pressure from the Soviet government on the Norwegian authorities. On 5 August 1936, Knudsen's house was burgled by fascists from the Nasjonal Samling while Trotsky and his wife were out on a seashore trip with Knudsen and his wife. The fascist burglars targeted Trotsky's works and archives for vandalism. The raid was largely thwarted by Knudsen's daughter, Hjørdis, although the burglars did take a few papers from the nearest table as they left.[134] Although the fascist perpetrators were caught and put on trial, the "evidence" obtained in the burglary was used by the government to make claims against Trotsky.[135] 
 
-Leon_Trotsky_House,_Mexico_City_(7144251529).jpg from April 1939 until his assassination in August 1940]]
+from April 1939 until his assassination in August 1940]]
 
 On 14 August 1936, the Soviet Press Agency TASS announced the discovery of a "Trotskyist–Zinovievist" plot and the imminent start of the Trial of the Sixteen accused. Trotsky demanded a complete and open enquiry into Moscow's accusations. The accused were sentenced to death, including Grigory Zinoviev and Lev Kamenev, and executed on 25 August 1936. On 26 August 1936, eight policemen arrived at Knudsen's house demanding that Trotsky sign new conditions for residing in Norway. These conditions included agreeing to write no more about current political matters, to give no interviews, and to have all his correspondence (incoming and outgoing) inspected by the police. Trotsky categorically refused the conditions, and Trotsky was then told that he and his wife would soon be moved to another residence.[136] The following day Trotsky was interrogated by the police about his political activities, with the police officially citing Trotsky as a "witness" to the fascist raid of 5 August 1936.[137]
 
@@ -374,7 +364,7 @@ The _Ruth_ oil tanker on which Trotsky and his wife were put arrived in Mexico o
 
 From January 1937 to April 1939, Trotsky and his wife lived in the Coyoacán area of Mexico City at La Casa Azul (The Blue House), the home of the painter Diego Rivera and Rivera's wife and fellow painter, Frida Kahlo, with whom Trotsky had an affair.[146][147] His final move was a few blocks away to a residence on Avenida Viena in April 1939, following a break with Rivera.[148]
 
-Trotskycannon.felixmorrow.jpg and Felix Morrow with a bust of Trotsky]] Trotsky wrote prolifically while in exile, penning several key works, including his _History of the Russian Revolution_ (1930) and _The Revolution Betrayed_ (1936), a critique of the Soviet Union under Stalinism. He argued that the Soviet state had become a "degenerated workers' state" controlled by an undemocratic bureaucracy, which would eventually either be overthrown via a political revolution establishing a workers' democracy, or degenerate into a capitalist class.
+and Felix Morrow with a bust of Trotsky]] Trotsky wrote prolifically while in exile, penning several key works, including his _History of the Russian Revolution_ (1930) and _The Revolution Betrayed_ (1936), a critique of the Soviet Union under Stalinism. He argued that the Soviet state had become a "degenerated workers' state" controlled by an undemocratic bureaucracy, which would eventually either be overthrown via a political revolution establishing a workers' democracy, or degenerate into a capitalist class.
 
 While in Mexico, Trotsky also worked closely with James P. Cannon, Joseph Hansen, and Farrell Dobbs of the Socialist Workers Party of the United States, and other supporters.[149] Cannon, a long-time leading member of the American communist movement, had supported Trotsky in the struggle against Stalinism since he had first read Trotsky's criticisms of the Soviet Union in 1928. Trotsky's critique of the Stalinist regime, though banned, was distributed to leaders of the Comintern. Among his other supporters was Chen Duxiu, founder of the Chinese Communist Party.[150]
 
@@ -392,7 +382,7 @@ In 1938, Trotsky and his supporters founded the Fourth International, which was 
 
 Dies Committee
 
-Leon_Trotsky_and_American_admirers._Mexico_-_NARA_-_283642.jpg (left) in Mexico, shortly before his assassination, 1940]] Towards the end of 1939, Trotsky agreed to go to the United States to appear as a witness before the Dies Committee of the House of Representatives, a forerunner of the House Committee on Un-American Activities. Representative Martin Dies, chairman of the committee, demanded the suppression of the American Communist Party. Trotsky intended to use the forum to expose the NKVD's activities against him and his followers.
+(left) in Mexico, shortly before his assassination, 1940]] Towards the end of 1939, Trotsky agreed to go to the United States to appear as a witness before the Dies Committee of the House of Representatives, a forerunner of the House Committee on Un-American Activities. Representative Martin Dies, chairman of the committee, demanded the suppression of the American Communist Party. Trotsky intended to use the forum to expose the NKVD's activities against him and his followers.
 
 He made it clear that he also intended to argue against the suppression of the American Communist Party, and to use the committee as a platform for a call to transform World War II into a world revolution. Many of his supporters argued against his appearance. When the committee learned the nature of the testimony Trotsky intended to present, it refused to hear him, and he was denied a visa to enter the United States. On hearing about it, the Communist Party of the Soviet Union immediately accused Trotsky of being in the pay of the oil magnates and the Federal Bureau of Investigation.[154]
 
@@ -403,7 +393,7 @@ After quarreling with Diego Rivera, Trotsky moved to his final residence on Aven
 
 Assassination
 
-Trotsky_last_office.jpg After a failed attempt to have Trotsky murdered in March 1939, Stalin assigned the overall organization of implementing the task to the NKVD officer Pavel Sudoplatov, who in turn co-opted Nahum Eitingon. According to Sudoplatov's _Special Tasks_, the NKVD proceeded to set up three NKVD agent networks to carry out the murder, one of which relied on Ramón Mercader. According to Sudoplatov, all three networks were designed to operate entirely autonomously from the NKVD's hitherto-established spy networks in the U.S. and Mexico.[157]
+After a failed attempt to have Trotsky murdered in March 1939, Stalin assigned the overall organization of implementing the task to the NKVD officer Pavel Sudoplatov, who in turn co-opted Nahum Eitingon. According to Sudoplatov's _Special Tasks_, the NKVD proceeded to set up three NKVD agent networks to carry out the murder, one of which relied on Ramón Mercader. According to Sudoplatov, all three networks were designed to operate entirely autonomously from the NKVD's hitherto-established spy networks in the U.S. and Mexico.[157]
 
 On 24 May 1940, Trotsky survived a raid on his villa by armed assassins led by the NKVD agent Iosif Grigulevich and Mexican painter David Alfaro Siqueiros.[158] Trotsky's 14-year-old grandson, Vsevolod Platonovich "Esteban" Volkov (born 7 March 1926), was shot in the foot, and a young assistant and bodyguard of Trotsky, Robert Sheldon Harte, was abducted and later murdered. Trotsky's other guards fended off the attackers.[159] Following the failed assassination attempt, Trotsky wrote an article titled "Stalin Seeks My Death" on 8 June 1940, in which he stated that another assassination attempt was certain.[160]
 
@@ -414,7 +404,7 @@ According to James P. Cannon, the secretary of the Socialist Workers Party (USA)
 
 Legacy
 
-Trotsky_grave.jpg, where his ashes are buried]] Trotsky's house in Coyoacán was preserved in much the same condition as it was on the day of the assassination and is now the Leon Trotsky Museum, run by a board which includes his grandson Esteban Volkov. Trotsky's grave is located in its grounds. The foundation "International Friends of the Leon Trotsky Museum" has been organized to raise funds to further improve the museum.
+, where his ashes are buried]] Trotsky's house in Coyoacán was preserved in much the same condition as it was on the day of the assassination and is now the Leon Trotsky Museum, run by a board which includes his grandson Esteban Volkov. Trotsky's grave is located in its grounds. The foundation "International Friends of the Leon Trotsky Museum" has been organized to raise funds to further improve the museum.
 
 Trotsky was never formally rehabilitated during the rule of the Soviet government, despite the Glasnost-era rehabilitation of most other Old Bolsheviks killed during the Great Purges. His son, Sergei Sedov, killed in 1937, was rehabilitated in 1988, as was Nikolai Bukharin. Beginning in 1989, Trotsky's books, forbidden until 1987, were published in the Soviet Union.
 
@@ -429,7 +419,7 @@ His politics differed in many respects from those of Stalin or Mao Zedong, most 
 
 Permanent Revolution
 
-Diego_rivera_Commies.jpg mural depicts Trotsky with Marx and Engels as a true champion of the workers' struggle]]
+mural depicts Trotsky with Marx and Engels as a true champion of the workers' struggle]]
 
 Permanent Revolution is the theory that the bourgeois democratic tasks in countries with delayed bourgeois democratic development can only be accomplished through the establishment of a workers' state, and that the creation of a workers' state would inevitably involve inroads against capitalist property. Thus, the accomplishment of bourgeois democratic tasks passes over into proletarian tasks. Although most closely associated with Leon Trotsky, the call for Permanent Revolution is first found in the writings of Karl Marx and Friedrich Engels in March 1850, in the aftermath of the 1848 Revolution, in their Address of the Central Committee to the Communist League:
 

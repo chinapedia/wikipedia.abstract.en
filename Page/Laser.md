@@ -1,6 +1,6 @@
 Laze}}
 
-Lasertechnik06.jpg]] Lasers.JPG
+]]
 
 A LASER is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation. The term "laser" originated as an acronym for "LIGHT AMPLIFICATION BY STIMULATED EMISSION OF RADIATION".[1][2] The first laser was built in 1960 by Theodore H. Maiman at Hughes Research Laboratories, based on theoretical work by Charles Hard Townes and Arthur Leonard Schawlow.
 
@@ -11,13 +11,13 @@ Lasers are used in optical disk drives, laser printers, barcode scanners, DNA se
 
 Fundamentals
 
-Four_Lasers_Over_Paranal.jpg.[7]]] Lasers are distinguished from other light sources by their coherence. Spatial coherence is typically expressed through the output being a narrow beam, which is diffraction-limited. Laser beams can be focused to very tiny spots, achieving a very high irradiance, or they can have very low divergence in order to concentrate their power at a great distance. Temporal (or longitudinal) coherence implies a polarized wave at a single frequency, whose phase is correlated over a relatively great distance (the coherence length) along the beam.[8] A beam produced by a thermal or other incoherent light source has an instantaneous amplitude and phase that vary randomly with respect to time and position, thus having a short coherence length.
+.[7]]] Lasers are distinguished from other light sources by their coherence. Spatial coherence is typically expressed through the output being a narrow beam, which is diffraction-limited. Laser beams can be focused to very tiny spots, achieving a very high irradiance, or they can have very low divergence in order to concentrate their power at a great distance. Temporal (or longitudinal) coherence implies a polarized wave at a single frequency, whose phase is correlated over a relatively great distance (the coherence length) along the beam.[8] A beam produced by a thermal or other incoherent light source has an instantaneous amplitude and phase that vary randomly with respect to time and position, thus having a short coherence length.
 
 Lasers are characterized according to their wavelength in a vacuum. Most "single wavelength" lasers actually produce radiation in several _modes_ with slightly different wavelengths. Although temporal coherence implies monochromaticity, there are lasers that emit a broad spectrum of light or emit different wavelengths of light simultaneously. Some lasers are not single spatial mode and have light beams that diverge more than is required by the diffraction limit. All such devices are classified as "lasers" based on their method of producing light, i.e., stimulated emission. Lasers are employed where light of the required spatial or temporal coherence can not be produced using simpler technologies.
 
 Terminology
 
-Laser_play.jpg The word _laser_ started as an acronym for "light amplification by stimulated emission of radiation". In this usage, the term "light" includes electromagnetic radiation of any frequency, not only visible light, hence the terms _infrared laser_, _ultraviolet laser_, _X-ray laser_ and _gamma-ray laser_. Because the microwave predecessor of the laser, the maser, was developed first, devices of this sort operating at microwave and radio frequencies are referred to as "masers" rather than "microwave lasers" or "radio lasers". In the early technical literature, especially at Bell Telephone Laboratories, the laser was called an OPTICAL MASER; this term is now obsolete.[9]
+The word _laser_ started as an acronym for "light amplification by stimulated emission of radiation". In this usage, the term "light" includes electromagnetic radiation of any frequency, not only visible light, hence the terms _infrared laser_, _ultraviolet laser_, _X-ray laser_ and _gamma-ray laser_. Because the microwave predecessor of the laser, the maser, was developed first, devices of this sort operating at microwave and radio frequencies are referred to as "masers" rather than "microwave lasers" or "radio lasers". In the early technical literature, especially at Bell Telephone Laboratories, the laser was called an OPTICAL MASER; this term is now obsolete.[9]
 
 A laser that produces light by itself is technically an optical oscillator rather than an optical amplifier as suggested by the acronym. It has been humorously noted that the acronym LOSER, for "light oscillation by stimulated emission of radiation", would have been more correct.[10] With the widespread use of the original acronym as a common noun, optical amplifiers have come to be referred to as "laser amplifiers", notwithstanding the apparent redundancy in that designation.
 
@@ -26,7 +26,7 @@ The back-formed verb _to lase_ is frequently used in the field, meaning "to prod
 
 Design
 
-Laser.svg |Laser beam}}]] A laser consists of a gain medium, a mechanism to energize it, and something to provide optical feedback.[12] The gain medium is a material with properties that allow it to amplify light by way of stimulated emission. Light of a specific wavelength that passes through the gain medium is amplified (increases in power).
+|Laser beam}}]] A laser consists of a gain medium, a mechanism to energize it, and something to provide optical feedback.[12] The gain medium is a material with properties that allow it to amplify light by way of stimulated emission. Light of a specific wavelength that passes through the gain medium is amplified (increases in power).
 
 For the gain medium to amplify light, it needs to be supplied with energy in a process called pumping. The energy is typically supplied as an electric current or as light at a different wavelength. Pump light may be provided by a flash lamp or by another laser.
 
@@ -41,9 +41,7 @@ Electrons and how they interact with electromagnetic fields are important in our
 
 Stimulated emission
 
-Laser,_quantum_principle.ogv In the classical view, the energy of an electron orbiting an atomic nucleus is larger for orbits further from the nucleus of an atom. However, quantum mechanical effects force electrons to take on discrete positions in orbitals. Thus, electrons are found in specific energy levels of an atom, two of which are shown below:
-
-Stimulated_Emission.svg
+In the classical view, the energy of an electron orbiting an atomic nucleus is larger for orbits further from the nucleus of an atom. However, quantum mechanical effects force electrons to take on discrete positions in orbitals. Thus, electrons are found in specific energy levels of an atom, two of which are shown below:
 
 When an electron absorbs energy either from light (photons) or heat (phonons), it receives that incident quantum of energy. But transitions are only allowed in between discrete energy levels such as the two shown above. This leads to emission lines and absorption lines.
 
@@ -53,7 +51,7 @@ An external electromagnetic field at a frequency associated with a transition ca
 
 Gain medium and cavity
 
-Laser_DSC09088.JPG demonstration. The glow running through the center of the tube is an electric discharge. This glowing plasma is the gain medium for the laser. The laser produces a tiny, intense spot on the screen to the right. The center of the spot appears white because the image is overexposed there.]] Helium_neon_laser_spectrum.svg
+demonstration. The glow running through the center of the tube is an electric discharge. This glowing plasma is the gain medium for the laser. The laser produces a tiny, intense spot on the screen to the right. The center of the spot appears white because the image is overexposed there.]]
 
 The gain medium is put into an excited state by an external source of energy. In most lasers this medium consists of a population of atoms which have been excited into such a state by means of an outside light source, or an electrical field which supplies energy for atoms to absorb and be transformed into their excited states.
 
@@ -82,7 +80,7 @@ The mechanism of producing radiation in a laser relies on stimulated emission, w
 
 Continuous and pulsed modes of operation
 
-Moon_clementine_lidar.jpg measurements of lunar topography made by Clementine mission.]] Laserlink_hss46.jpg optical wireless network]] MESSENGER_-_MLA.jpg spacecraft]] A laser can be classified as operating in either continuous or pulsed mode, depending on whether the power output is essentially continuous over time or whether its output takes the form of pulses of light on one or another time scale. Of course even a laser whose output is normally continuous can be intentionally turned on and off at some rate in order to create pulses of light. When the modulation rate is on time scales much slower than the cavity lifetime and the time period over which energy can be stored in the lasing medium or pumping mechanism, then it is still classified as a "modulated" or "pulsed" continuous wave laser. Most laser diodes used in communication systems fall in that category.
+measurements of lunar topography made by Clementine mission.]] optical wireless network]] spacecraft]] A laser can be classified as operating in either continuous or pulsed mode, depending on whether the power output is essentially continuous over time or whether its output takes the form of pulses of light on one or another time scale. Of course even a laser whose output is normally continuous can be intentionally turned on and off at some rate in order to create pulses of light. When the modulation rate is on time scales much slower than the cavity lifetime and the time period over which energy can be stored in the lasing medium or pumping mechanism, then it is still classified as a "modulated" or "pulsed" continuous wave laser. Most laser diodes used in communication systems fall in that category.
 
 Continuous wave operation
 
@@ -123,7 +121,7 @@ In 1917, Albert Einstein established the theoretical foundations for the laser a
 
 Maser
 
-Aleksandr_Prokhorov.jpg]] In 1951, Joseph Weber submitted a paper on using stimulated emissions to make a microwave amplifier to the June 1952 Institute of Radio Engineers Vacuum Tube Research Conference at Ottawa, Ontario, Canada.[22] After this presentation, RCA asked Weber to give a seminar on this idea, and Charles Hard Townes asked him for a copy of the paper.[23]
+]] In 1951, Joseph Weber submitted a paper on using stimulated emissions to make a microwave amplifier to the June 1952 Institute of Radio Engineers Vacuum Tube Research Conference at Ottawa, Ontario, Canada.[22] After this presentation, RCA asked Weber to give a seminar on this idea, and Charles Hard Townes asked him for a copy of the paper.[23]
 
 In 1953, Charles Hard Townes and graduate students James P. Gordon and Herbert J. Zeiger produced the first microwave amplifier, a device operating on similar principles to the laser, but amplifying microwave radiation rather than infrared or visible radiation. Townes's maser was incapable of continuous output.[24] Meanwhile, in the Soviet Union, Nikolay Basov and Aleksandr Prokhorov were independently working on the quantum oscillator and solved the problem of continuous-output systems by using more than two energy levels. These gain media could release stimulated emissions between an excited state and a lower excited state, not the ground state, facilitating the maintenance of a population inversion. In 1955, Prokhorov and Basov suggested optical pumping of a multi-level system as a method for obtaining the population inversion, later a main method of laser pumping.
 
@@ -133,7 +131,7 @@ Laser
 
 In 1957, Charles Hard Townes and Arthur Leonard Schawlow, then at Bell Labs, began a serious study of the infrared laser. As ideas developed, they abandoned infrared radiation to instead concentrate upon visible light. The concept originally was called an "optical maser". In 1958, Bell Labs filed a patent application for their proposed optical maser; and Schawlow and Townes submitted a manuscript of their theoretical calculations to the _Physical Review_, published that year in Volume 112, Issue No. 6.
 
-Gould_notebook_001.jpg coined the LASER acronym, and described the elements for constructing the device.]]
+coined the LASER acronym, and described the elements for constructing the device.]]
 
 Simultaneously, at Columbia University, graduate student Gordon Gould was working on a doctoral thesis about the energy levels of excited thallium. When Gould and Townes met, they spoke of radiation emission, as a general subject; afterwards, in November 1957, Gould noted his ideas for a "laser", including using an open resonator (later an essential laser-device component). Moreover, in 1958, Prokhorov independently proposed using an open resonator, the first published appearance (in the USSR) of this idea. Elsewhere, in the U.S., Schawlow and Townes had agreed to an open-resonator laser design – apparently unaware of Prokhorov's publications and Gould's unpublished laser work.
 
@@ -144,8 +142,6 @@ Gould's notes included possible applications for a laser, such as spectrometry, 
 On May 16, 1960, Theodore H. Maiman operated the first functioning laser[29][30] at Hughes Research Laboratories, Malibu, California, ahead of several research teams, including those of Townes, at Columbia University, Arthur Schawlow, at Bell Labs,[31] and Gould, at the TRG (Technical Research Group) company. Maiman's functional laser used a flashlamp-pumped synthetic ruby crystal to produce red laser light at 694 nanometers wavelength. The device was only capable of pulsed operation, due to its three-level pumping design scheme. Later that year, the Iranian physicist Ali Javan, and William R. Bennett, and Donald Herriott, constructed the first gas laser, using helium and neon that was capable of continuous operation in the infrared (U.S. Patent 3,149,290); later, Javan received the Albert Einstein Award in 1993. Basov and Javan proposed the semiconductor laser diode concept. In 1962, Robert N. Hall demonstrated the first _laser diode_ device, which was made of gallium arsenide and emitted in the near-infrared band of the spectrum at 850 nm. Later that year, Nick Holonyak, Jr. demonstrated the first semiconductor laser with a visible emission. This first semiconductor laser could only be used in pulsed-beam operation, and when cooled to liquid nitrogen temperatures (77 K). In 1970, Zhores Alferov, in the USSR, and Izuo Hayashi and Morton Panish of Bell Telephone Laboratories also independently developed room-temperature, continual-operation diode lasers, using the heterojunction structure.
 
 Recent innovations
-
-History_of_laser_intensity.svg
 
 Since the early period of laser history, laser research has produced a variety of improved and specialized laser types, optimized for different performance goals, including:
 
@@ -167,8 +163,6 @@ In 2017, researchers from the Physikalisch-Technische Bundesanstalt (PTB), toget
 
 Types and operating principles
 
-Commercial_laser_lines.svg
-
 Gas lasers
 
 Following the invention of the HeNe gas laser, many other gas discharges have been found to amplify light coherently. Gas lasers using many different gases have been built and used for many purposes. The helium–neon laser (HeNe) is able to operate at a number of different wavelengths, however the vast majority are engineered to lase at 633 nm; these relatively low cost but highly coherent lasers are extremely common in optical research and educational laboratories. Commercial carbon dioxide (CO₂) lasers can emit many hundreds of watts in a single spatial mode which can be concentrated into a tiny spot. This emission is in the thermal infrared at 10.6 µm; such lasers are regularly used in industry for cutting and welding. The efficiency of a CO₂ laser is unusually high: over 30%.[37] Argon-ion lasers can operate at a number of lasing transitions between 351 and 528.7 nm. Depending on the optical design one or more of these transitions can be lasing simultaneously; the most commonly used lines are 458 nm, 488 nm and 514.5 nm. A nitrogen transverse electrical discharge in gas at atmospheric pressure (TEA) laser is an inexpensive gas laser, often home-built by hobbyists, which produces rather incoherent UV light at 337.1 nm.[38] Metal ion lasers are gas lasers that generate deep ultraviolet wavelengths. Helium-silver (HeAg) 224 nm and neon-copper (NeCu) 248 nm are two examples. Like all low-pressure gas lasers, the gain media of these lasers have quite narrow oscillation linewidths, less than 3 GHz (0.5 picometers),[39] making them candidates for use in fluorescence suppressed Raman spectroscopy.
@@ -183,7 +177,7 @@ Excimer lasers are a special sort of gas laser powered by an electric discharge 
 
 Solid-state lasers
 
-Starfield_Optical_Range_-_sodium_laser.jpg, based on a Nd:YAG laser, used at the Starfire Optical Range.]] Solid-state lasers use a crystalline or glass rod which is "doped" with ions that provide the required energy states. For example, the first working laser was a ruby laser, made from ruby (chromium-doped corundum). The population inversion is actually maintained in the dopant. These materials are pumped optically using a shorter wavelength than the lasing wavelength, often from a flashtube or from another laser. The usage of the term "solid-state" in laser physics is narrower than in typical use. Semiconductor lasers (laser diodes) are typically _not_ referred to as solid-state lasers.
+, based on a Nd:YAG laser, used at the Starfire Optical Range.]] Solid-state lasers use a crystalline or glass rod which is "doped" with ions that provide the required energy states. For example, the first working laser was a ruby laser, made from ruby (chromium-doped corundum). The population inversion is actually maintained in the dopant. These materials are pumped optically using a shorter wavelength than the lasing wavelength, often from a flashtube or from another laser. The usage of the term "solid-state" in laser physics is narrower than in typical use. Semiconductor lasers (laser diodes) are typically _not_ referred to as solid-state lasers.
 
 Neodymium is a common dopant in various solid-state laser crystals, including yttrium orthovanadate (Nd:YVO₄), yttrium lithium fluoride (Nd:YLF) and yttrium aluminium garnet (Nd:YAG). All these lasers can produce high powers in the infrared spectrum at 1064 nm. They are used for cutting, welding and marking of metals and other materials, and also in spectroscopy and for pumping dye lasers. These lasers are also commonly frequency doubled, tripled or quadrupled to produce 532 nm (green, visible), 355 nm and 266 nm (UV) beams, respectively. Frequency-doubled diode-pumped solid-state (DPSS) lasers are used to make bright green laser pointers.
 
@@ -209,7 +203,7 @@ Photonic crystal lasers are lasers based on nano-structures that provide the mod
 
 Semiconductor lasers
 
-Diode_laser.jpg or DVD player]] Semiconductor lasers are diodes which are electrically pumped. Recombination of electrons and holes created by the applied current introduces optical gain. Reflection from the ends of the crystal form an optical resonator, although the resonator can be external to the semiconductor in some designs.
+or DVD player]] Semiconductor lasers are diodes which are electrically pumped. Recombination of electrons and holes created by the applied current introduces optical gain. Reflection from the ends of the crystal form an optical resonator, although the resonator can be external to the semiconductor in some designs.
 
 Commercial laser diodes emit at wavelengths from 375 nm to 3500 nm.[44] Low to medium power laser diodes are used in laser pointers, laser printers and CD/DVD players. Laser diodes are also frequently used to optically pump other lasers with high efficiency. The highest power industrial laser diodes, with power up to 20 kW, are used in industry for cutting and welding.[45] External-cavity semiconductor lasers have a semiconductor active medium in a larger cavity. These devices can generate high power outputs with good beam quality, wavelength-tunable narrow-linewidth radiation, or ultrashort laser pulses.
 
@@ -223,11 +217,11 @@ Lasing without maintaining the medium excited into a population inversion was de
 
 Dye lasers
 
-Coherent_899_dye_laser.jpg ]] Dye lasers use an organic dye as the gain medium. The wide gain spectrum of available dyes, or mixtures of dyes, allows these lasers to be highly tunable, or to produce very short-duration pulses (on the order of a few femtoseconds). Although these tunable lasers are mainly known in their liquid form, researchers have also demonstrated narrow-linewidth tunable emission in dispersive oscillator configurations incorporating solid-state dye gain media. In their most prevalent form these solid state dye lasers use dye-doped polymers as laser media.
+]] Dye lasers use an organic dye as the gain medium. The wide gain spectrum of available dyes, or mixtures of dyes, allows these lasers to be highly tunable, or to produce very short-duration pulses (on the order of a few femtoseconds). Although these tunable lasers are mainly known in their liquid form, researchers have also demonstrated narrow-linewidth tunable emission in dispersive oscillator configurations incorporating solid-state dye gain media. In their most prevalent form these solid state dye lasers use dye-doped polymers as laser media.
 
 Free-electron lasers
 
-FELIX.jpg]] Free-electron lasers, or FELs, generate coherent, high power radiation that is widely tunable, currently ranging in wavelength from microwaves through terahertz radiation and infrared to the visible spectrum, to soft X-rays. They have the widest frequency range of any laser type. While FEL beams share the same optical traits as other lasers, such as coherent radiation, FEL operation is quite different. Unlike gas, liquid, or solid-state lasers, which rely on bound atomic or molecular states, FELs use a relativistic electron beam as the lasing medium, hence the term _free-electron_.
+]] Free-electron lasers, or FELs, generate coherent, high power radiation that is widely tunable, currently ranging in wavelength from microwaves through terahertz radiation and infrared to the visible spectrum, to soft X-rays. They have the widest frequency range of any laser type. While FEL beams share the same optical traits as other lasers, such as coherent radiation, FEL operation is quite different. Unlike gas, liquid, or solid-state lasers, which rely on bound atomic or molecular states, FELs use a relativistic electron beam as the lasing medium, hence the term _free-electron_.
 
 Exotic media
 
@@ -244,7 +238,7 @@ Living cells have been used to produce laser light.[73][74] The cells were genet
 
 Uses
 
-Laser_sizes.jpgs (top) with numerous applications, to football field sized neodymium glass lasers (bottom) used for inertial confinement fusion, nuclear weapons research and other high energy density physics experiments.]]
+s (top) with numerous applications, to football field sized neodymium glass lasers (bottom) used for inertial confinement fusion, nuclear weapons research and other high energy density physics experiments.]]
 
 When lasers were invented in 1960, they were called "a solution looking for a problem".[75] Since then, they have become ubiquitous, finding utility in thousands of highly varied applications in every section of modern society, including consumer electronics, information technology, science, medicine, industry, law enforcement, entertainment, and the military. Fiber-optic communication using lasers is a key technology in modern communications, allowing services such as the Internet.
 
@@ -271,13 +265,13 @@ Lasers are used to treat cancer by shrinking or destroying tumors or precancerou
 
 As weapons
 
-THEL-ACTD.jpg has been used to shoot down rockets and artillery shells.]]
+has been used to shoot down rockets and artillery shells.]]
 
 Many types of laser can potentially be used as incapacitating weapons, through their ability to produce temporary or permanent vision loss when aimed at the eyes. The degree, character, and duration of vision impairment caused by eye exposure to laser light varies with the power of the laser, the wavelength(s), the collimation of the beam, the exact orientation of the beam, and the duration of exposure. Lasers of even a fraction of a watt in power can produce immediate, permanent vision loss under certain conditions, making such lasers potential non-lethal but incapacitating weapons. The extreme handicap that laser-induced blindness represents makes the use of lasers even as non-lethal weapons morally controversial, and weapons designed to cause permanent blindness have been banned by the Protocol on Blinding Laser Weapons. Weapons designed to cause temporary blindness, known as dazzlers, are used by military and sometimes law enforcement organizations. Incidents of pilots being exposed to lasers while flying have prompted aviation authorities to implement special procedures to deal with such hazards.[82] See Lasers and aviation safety for more on this topic.
 
 Laser weapons capable of directly damaging or destroying a target in combat are still in the experimental stage. The general idea of laser-beam weaponry is to hit a target with a train of brief pulses of light. The rapid evaporation and expansion of the surface causes shockwaves that damage the target. The power needed to project a high-powered laser beam of this kind is beyond the limit of current mobile power technology, thus favoring chemically powered gas dynamic lasers. Example experimental systems include MIRACL and the Tactical High Energy Laser.
 
-YAL-1A_Airborne_Laser_unstowed_crop.jpg Throughout the 2000s, the United States Air Force worked on the Boeing YAL-1, an airborne laser mounted in a Boeing 747. It was intended to be used to shoot down incoming ballistic missiles over enemy territory. In March 2009, Northrop Grumman claimed that its engineers in Redondo Beach had successfully built and tested an electrically powered solid state laser capable of producing a 100-kilowatt beam, powerful enough to destroy an airplane. According to Brian Strickland, manager for the United States Army's Joint High Power Solid State Laser program, an electrically powered laser is capable of being mounted in an aircraft, ship, or other vehicle because it requires much less space for its supporting equipment than a chemical laser.[83] However, the source of such a large electrical power in a mobile application remained unclear. Ultimately, the project was deemed to be infeasible,[84][85][86] and was cancelled in December 2011,[87] with the Boeing YAL-1 prototype being stored and eventually dismantled.
+Throughout the 2000s, the United States Air Force worked on the Boeing YAL-1, an airborne laser mounted in a Boeing 747. It was intended to be used to shoot down incoming ballistic missiles over enemy territory. In March 2009, Northrop Grumman claimed that its engineers in Redondo Beach had successfully built and tested an electrically powered solid state laser capable of producing a 100-kilowatt beam, powerful enough to destroy an airplane. According to Brian Strickland, manager for the United States Army's Joint High Power Solid State Laser program, an electrically powered laser is capable of being mounted in an aircraft, ship, or other vehicle because it requires much less space for its supporting equipment than a chemical laser.[83] However, the source of such a large electrical power in a mobile application remained unclear. Ultimately, the project was deemed to be infeasible,[84][85][86] and was cancelled in December 2011,[87] with the Boeing YAL-1 prototype being stored and eventually dismantled.
 
 The United States Navy is developing a laser weapon referred to as the Laser Weapon System or LaWS.[88]
 
@@ -289,7 +283,7 @@ Hobbyists also have been taking surplus pulsed lasers from retired military appl
 
 Examples by power
 
-Lying_down_on_the_VLT_platform.jpg imaging]] Different applications need lasers with different output powers. Lasers that produce a continuous beam or a series of short pulses can be compared on the basis of their average power. Lasers that produce pulses can also be characterized based on the _peak_ power of each pulse. The peak power of a pulsed laser is many orders of magnitude greater than its average power. The average output power is always less than the power consumed.
+imaging]] Different applications need lasers with different output powers. Lasers that produce a continuous beam or a series of short pulses can be compared on the basis of their average power. Lasers that produce pulses can also be characterized based on the _peak_ power of each pulse. The peak power of a pulsed laser is many orders of magnitude greater than its average power. The average output power is always less than the power consumed.
 
 +----------------------------------+----------------------------------------------------------------------------------------------+
 | Power                            | Use                                                                                          |

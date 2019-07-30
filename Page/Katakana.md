@@ -125,7 +125,7 @@ Standard and voiced iteration marks are written in katakana as ヽ and ヾ respe
 
 Usage
 
-Stop_the_Permanent_wave.JPG In modern Japanese, katakana is most often used for transcription of words from foreign languages (other than words historically imported from Chinese), called _gairaigo_.[2] For example, "television" is written テレビ (_terebi_). Similarly, katakana is usually used for country names, foreign places, and foreign personal names. For example, the United States is usually referred to as _Amerika_, rather than in its ateji kanji spelling of _Amerika_.
+In modern Japanese, katakana is most often used for transcription of words from foreign languages (other than words historically imported from Chinese), called _gairaigo_.[2] For example, "television" is written テレビ (_terebi_). Similarly, katakana is usually used for country names, foreign places, and foreign personal names. For example, the United States is usually referred to as _Amerika_, rather than in its ateji kanji spelling of _Amerika_.
 
 Katakana are also used for onomatopoeia,[3] words used to represent sounds – for example, ピンポン (_pinpon_), the "ding-dong" sound of a doorbell.
 
@@ -155,7 +155,7 @@ There are rare instances where the opposite has occurred, with kanji forms creat
 
 Katakana are used to indicate the _on'yomi_ (Chinese-derived readings) of a kanji in a kanji dictionary. For instance, the kanji 人 has a Japanese pronunciation, written in hiragana as _hito_ (person), as well as a Chinese derived pronunciation, written in katakana as _jin_ (used to denote groups of people). Katakana are sometimes used instead of hiragana as furigana to give the pronunciation of a word written in Roman characters, or for a foreign word, which is written as kanji for the meaning, but intended to be pronounced as the original.
 
-キリ走行注意_(19822048951).jpg Katakana are also sometimes used to indicate words being spoken in a foreign or otherwise unusual accent. For example, in a manga, the speech of a foreign character or a robot may be represented by _konnichiwa_ ("hello") instead of the more typical hiragana . Some Japanese personal names are written in katakana. This was more common in the past, hence elderly women often have katakana names. This was particularly common among women in the Meiji and Taishō periods, when many poor, illiterate parents were unwilling to pay a scholar to give their daughters names in kanji.[7] Katakana is also used to denote the fact that a character is speaking a foreign language, and what is displayed in katakana is only the Japanese "translation" of his or her words.
+Katakana are also sometimes used to indicate words being spoken in a foreign or otherwise unusual accent. For example, in a manga, the speech of a foreign character or a robot may be represented by _konnichiwa_ ("hello") instead of the more typical hiragana . Some Japanese personal names are written in katakana. This was more common in the past, hence elderly women often have katakana names. This was particularly common among women in the Meiji and Taishō periods, when many poor, illiterate parents were unwilling to pay a scholar to give their daughters names in kanji.[7] Katakana is also used to denote the fact that a character is speaking a foreign language, and what is displayed in katakana is only the Japanese "translation" of his or her words.
 
 Some frequently used words may also be written in katakana in dialogs to convey an informal, conversational tone. Some examples include ("manga"), _aitsu_ ("that guy or girl; he/him; her"), _baka_ ("fool"), etc.
 
@@ -171,7 +171,7 @@ Katakana is commonly used to write the Ainu language by Japanese linguists. In A
 
 Taiwanese
 
-TAIWANESE KANA (タイTaiwanese_kana_normal_tone_5.png ヲァヌTaiwanese_kana_normal_tone_5.png ギイTaiwanese_kana_normal_tone_2.png カアTaiwanese_kana_normal_tone_2.png ビェンTaiwanese_kana_normal_tone_5.png) is a katakana-based writing system once used to write Holo Taiwanese, when Taiwan was under Japanese control. It functioned as a phonetic guide for Chinese characters, much like furigana in Japanese or Zhùyīn fúhào in Chinese. There were similar systems for other languages in Taiwan as well, including Hakka and Formosan languages.
+TAIWANESE KANA (タイ ヲァヌ ギイ カア ビェン) is a katakana-based writing system once used to write Holo Taiwanese, when Taiwan was under Japanese control. It functioned as a phonetic guide for Chinese characters, much like furigana in Japanese or Zhùyīn fúhào in Chinese. There were similar systems for other languages in Taiwan as well, including Hakka and Formosan languages.
 
 Unlike Japanese or Ainu, Taiwanese kana are used similarly to the Zhùyīn fúhào characters, with kana serving as initials, vowel medials and consonant finals, marked with tonal marks. A dot below the initial kana represents aspirated consonants, and チ, ツ, サ, セ, ソ, ウ and オ with a superpositional bar represent sounds found only in Taiwanese.
 
@@ -189,7 +189,7 @@ Characters _shi_ シ and _tsu_ ツ, and _so_ ソ and _n(g)_ ン, look very simil
 
 History
 
-Katakana_origine.svg Katakana was developed in the 9th century (during the early Heian period) by Buddhist monks by taking parts of _man'yōgana_ characters as a form of shorthand, hence this kana is so-called .
+Katakana was developed in the 9th century (during the early Heian period) by Buddhist monks by taking parts of _man'yōgana_ characters as a form of shorthand, hence this kana is so-called .
 
 For example, comes from the left side of . The adjacent table shows the origins of each katakana: the red markings of the original Chinese character (used as _man'yōgana_) eventually became each corresponding symbol.[11]
 
@@ -201,7 +201,6 @@ Recent findings by Yoshinori Kobayashi, professor of Japanese at Tokushima Bunri
 Stroke order
 
 The following table shows the method for writing each katakana character. It is arranged in the traditional way, beginning top right and reading columns down. The numbers and arrows indicate the stroke order and direction respectively.
-Table_katakana.svg
 
 
 Computer encoding

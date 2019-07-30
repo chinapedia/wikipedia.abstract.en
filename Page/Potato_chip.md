@@ -20,7 +20,7 @@ In the 20th century, potato chips spread beyond chef-cooked restaurant fare and 
 
 Flavored chips
 
-Old_smiths_potato_chips_ad.jpg In an idea originated by the Smiths Potato Crisps Company Ltd, formed in 1920, Frank Smith packaged a twist of salt with his chips in greaseproof paper bags, which were sold around London.[21] The potato chip remained otherwise unseasoned until an innovation by Joe "Spud" Murphy, the owner of the Irish crisps company Tayto, who in the 1950s developed a technology to add seasoning during manufacture. After some trial and error, Murphy and his employee Seamus Burke produced the world's first seasoned chips: Cheese & Onion and Salt & Vinegar.[22] Companies worldwide sought to buy the rights to Tayto's technique.[23]
+In an idea originated by the Smiths Potato Crisps Company Ltd, formed in 1920, Frank Smith packaged a twist of salt with his chips in greaseproof paper bags, which were sold around London.[21] The potato chip remained otherwise unseasoned until an innovation by Joe "Spud" Murphy, the owner of the Irish crisps company Tayto, who in the 1950s developed a technology to add seasoning during manufacture. After some trial and error, Murphy and his employee Seamus Burke produced the world's first seasoned chips: Cheese & Onion and Salt & Vinegar.[22] Companies worldwide sought to buy the rights to Tayto's technique.[23]
 
 The first flavored chips in the United States, barbecue flavor, were being manufactured and sold by 1954.[24][25][26] In 1958, Herr's was the first company to introduce barbecue-flavored potato chips in Pennsylvania.[27]
 
@@ -32,8 +32,6 @@ In the 1920s, Laura Scudder,[28][29][30] an entrepreneur in Monterey Park, Calif
 
 Kettle cooked
 
-Cape_Cod_potato_chips_2.jpg
-
 Chips were long made in a batch process, where the potato slices are rinsed with cold water to release starch,[33] fried at a low temperature (),[34] and continuously raked to prevent them from sticking together.
 
 Industrial advances resulted in a shift to production by a continuous process, running chips through a vat of hot oil and drying them in a conveyor process.
@@ -43,7 +41,7 @@ Some small producers continued to use a batch process, notably in Maui.[35] In 1
 
 Nomenclature
 
-Potato_Chips_Rezowan.jpgi version of potato chips, marketed as "potato crackers."]]
+i version of potato chips, marketed as "potato crackers."]]
 
 Little consistency exists in the English-speaking world for names of fried potato slices, thick or thin. American and Canadian English use "chips" for the above-mentioned dish — this term is also used (but not universally) in other parts of world, and sometimes "crisps" for the same made from batter.
 
@@ -64,8 +62,6 @@ Another possible health concern related to potato chips is acrylamide, which is 
 
 
 Regional varieties
-
-Salt-and-Vinegar.JPG
 
 Canada
 
@@ -93,15 +89,13 @@ Colombia
 
 In Colombia, lemon, chicken, chorizo, and sirloin steak with mushroom sauce flavored potato chips are sold.[56]
 
-Pizza_potato.JPG
-
 Japan
 
 In Japan, flavors include norishio (nori and salt), _consommé_, wasabi, soy sauce and butter, garlic, plum, barbecue, pizza, mayonnaise, and black pepper. Chili, scallop with butter, teriyaki, takoyaki, and yakitori chip flavors are also available. Major manufacturers are Calbee,[57] Koikeya[58] and Yamayoshi.
 
 United Kingdom
 
-McCoy's_Crisps.jpg crinkle-cut crisps]] The market in the United Kingdom is led by Walkers, which held 56% of the British crisp market in 2013.[59] Walkers is known for its wide variety of crisps with the most popular flavours being Cheese & Onion, Salt & Vinegar, Prawn Cocktail, Beef and Onion, Roast Chicken, Smoky Bacon, Worcester Sauce, Pickled Onion, Tomato Ketchup, and Salt & Shake - Original.<ref name=“Flavour variety”/>[60]
+crinkle-cut crisps]] The market in the United Kingdom is led by Walkers, which held 56% of the British crisp market in 2013.[59] Walkers is known for its wide variety of crisps with the most popular flavours being Cheese & Onion, Salt & Vinegar, Prawn Cocktail, Beef and Onion, Roast Chicken, Smoky Bacon, Worcester Sauce, Pickled Onion, Tomato Ketchup, and Salt & Shake - Original.<ref name=“Flavour variety”/>[60]
 
 More exotic flavors are Thai sweet chili, roast pork and creamy mustard sauce, lime and Thai spices, chicken with Italian herbs, Spicy Sriracha, BBQ Pulled Pork, sea salt and cracked black pepper, sea salt and cider vinegar, spicy and aromatic curry, turkey and bacon, caramelized onion and sweet balsamic vinegar, Stilton and cranberry.[61] Since 2008, Walkers has launched its "Do Us a Flavour" campaign, challenging the British public to think up unique flavours for their crisps. Six flavours were chosen from among the entries and released as special editions.[62] In 2014 the public had to pick one of Walkers' base ingredients, which was made up of six flavours from around the UK – Somerset Cheddar, Devonshire Chicken, Norfolk Pork, Dorset Sour Cream, Vale of Evesham Tomatoes and Aberdeen Angus Beef – then add their own unique flavour.[63] In 2018 Walkers launched six new flavours to celebrate the brand’s 70th birthday, with each flavour representing a different decade.<ref name=“Flavour variety”>
 
@@ -118,7 +112,7 @@ Pennsylvania leads the United States in potato chip production, and has been dub
 
 Similar foods
 
-Pringles_chips.JPG potato chips are uniform in size and shape, which allows them to be stacked.]]
+potato chips are uniform in size and shape, which allows them to be stacked.]]
 
 Another type of potato chip, notably the Pringles and Lay's Stax brands, is made by extruding or pressing a dough made from dehydrated potatoes into the desired shape before frying. This makes chips that are uniform in size and shape, which allows them to be stacked and packaged in rigid cardboard or plastic canisters. Pringles are officially branded as "potato crisps" in the US. Pringles may be termed "potato chips" in Britain, to distinguish them from traditional "crisps". Munchos, another brand that uses the term "potato crisps", has deep air pockets in its chips that give it a curved shape, though the chips themselves resemble regular bagged chips.
 

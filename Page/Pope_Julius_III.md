@@ -20,7 +20,7 @@ Neither the French nor the Germans favoured del Monte, and the Emperor had expre
 
 Church reforms
 
-IMG_0684_-_Danti,_Vincenzo_-_Giulio_III_-1555-_-_Foto_G._Dall'Orto_-_5_ago_2006_-_01.jpg, 1555]]
+, 1555]]
 
 At the start of his reign Julius had seriously desired to bring about a reform of the Catholic Church and to reconvene the Council of Trent, but very little was actually achieved during his five years in office. In 1551, at the request of Emperor Charles V, he consented to the reopening of the council of Trent and entered into a league against the duke of Parma and Henry II of France (1547–59), causing the War of Parma. However, Julius soon came to terms with the duke and France and in 1553 suspended the meetings of the council.[4]
 

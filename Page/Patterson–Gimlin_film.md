@@ -1,4 +1,4 @@
-Patterson–Gimlin_film_frame_352.jpg, known informally as "Patty," looking back at Patterson and Gimlin[1]]]
+, known informally as "Patty," looking back at Patterson and Gimlin[1]]]
 
 PATTERSON–GIMLIN FILM (also known as the PATTERSON FILM or the PGF) is an American short motion picture of an unidentified subject which the filmmakers have said was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it.
 
@@ -84,7 +84,7 @@ Long-term aftermath
 
 Film-related
 
-Bigfoot_Museum_Willow_Creek.jpg]] Grover Krantz writes that "Patterson had the film developed as soon as possible. At first he thought he had brought in proof of Bigfoot's existence and really expected the scientists to accept it. But only a few scientists were willing to even look at the film,"[81] usually at showings at scientific organizations. These were usually arranged at the behest of zoologist, author, and media figure Ivan Sanderson, a supporter of Patterson's film.[82] Seven showings occurred, in Vancouver, Manhattan,[83] The Bronx, Washington, D.C., Atlanta, and Washington, D.C. again (all by the end of 1968); then, later, in Beaverton, Oregon. Of those who were quoted, most expressed various reservations, although some were willing to say they were intrigued by it.[84][85][86][87][88]
+]] Grover Krantz writes that "Patterson had the film developed as soon as possible. At first he thought he had brought in proof of Bigfoot's existence and really expected the scientists to accept it. But only a few scientists were willing to even look at the film,"[81] usually at showings at scientific organizations. These were usually arranged at the behest of zoologist, author, and media figure Ivan Sanderson, a supporter of Patterson's film.[82] Seven showings occurred, in Vancouver, Manhattan,[83] The Bronx, Washington, D.C., Atlanta, and Washington, D.C. again (all by the end of 1968); then, later, in Beaverton, Oregon. Of those who were quoted, most expressed various reservations, although some were willing to say they were intrigued by it.[84][85][86][87][88]
 
 Christopher Murphy wrote, "Dahinden traveled to Europe [with the film] in 1971. He visited England, Finland, Sweden, Switzerland and Russia. Although scientists in these countries were somewhat more open-minded than those in North America, their findings were basically the same . ... A real glimmer of hope, however, emerged [in Russia, where he met Bayanov, Bourtsev, and their associates]."[89][90][91][92]
 

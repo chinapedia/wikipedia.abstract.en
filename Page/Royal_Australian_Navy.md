@@ -60,15 +60,9 @@ Current ships
 The RAN currently operates 48 commissioned vessels, made up of eight ship classes and three individual ships, plus three non-commissioned vessels. In addition, DMS Maritime operates a large number of civilian-crewed vessels under contract to the Australian Defence Force.
 
   Commissioned vessels
-  -----------------------------------------------------------------------------
+  --------------------------
   Image
-  HMAS_Canberra_arrives_at_Joint_Base_Pearl_Harbor-Hickam_for_RIMPAC_2016.jpg
-  HMAS_Perth_entering_Pearl_Harbor_in_June_2012.jpg
-  HMAS_Broome_(ACPB_90).jpg
-  RAN-IFR_2013_D3_179.JPG
-  HMAS_Choules_FBE_2014.JPG
   Non-commissioned vessels
-  Cape_St_George,_on_Darwin_Harbour.jpg
 
 Aviation
 
@@ -86,7 +80,7 @@ File:Australian MRH-90 lands on USS Green Bay (LPD-20) in July 2015.JPG|MRH-90 o
 
 Clearance Diving Branch
 
-CDT-1.jpg during a ship boarding exercise in 2006 as a part of RIMPAC exercises.]] The Clearance Diving Branch is composed of two _Clearance Diving Teams_ (CDT) that serve as parent units for naval clearance divers:
+during a ship boarding exercise in 2006 as a part of RIMPAC exercises.]] The Clearance Diving Branch is composed of two _Clearance Diving Teams_ (CDT) that serve as parent units for naval clearance divers:
 
 -   Clearance Diving Team 1 (AUSCDT ONE), based at HMAS _Waterhen_ in New South Wales; and
 -   Clearance Diving Team 4 (AUSCDT FOUR), based at HMAS _Stirling_ in Western Australia.
@@ -101,7 +95,7 @@ The CDTs have two primary roles:
 
 Future
 
-LHD_Canberra_fitting_out.JPG, a _Canberra_-class landing helicopter dock, being fitted out in 2013]] HMAS_Hobart_under_construction_April_2015.JPG
+, a _Canberra_-class landing helicopter dock, being fitted out in 2013]]
 
 There are currently several major projects underway that will see upgrades to RAN capabilities:
 
@@ -127,8 +121,6 @@ The RAN currently has forces deployed on four major operations:[49]
 
 Personnel
 
-Royal_Australian_Navy_officer_during_RIMPAC_2014.jpg
-
 As of June 2011, the RAN has 14,215 permanent full-time personnel, 161 gap year personnel, and 2,150 reserve personnel.[50] The permanent full-time force consisted of 3,357 commissioned officers, and 10,697 enlisted personnel.[51] In June 2010, male personnel made up 82% of the permanent full-time force, while female personnel made up 18%.[52] The RAN has the highest percentage of women in the ADF, compared to the RAAF's 17.8% and the Army's 9.7%.[53]
 
 The following are the current senior Royal Australian Navy officers:
@@ -146,7 +138,7 @@ The following are the current senior Royal Australian Navy officers:
 
 Ranks and uniforms
 
-Safety_briefing_aboard_HMAS_Tobruk_in_2010.jpg The uniforms of the Royal Australian Navy are very similar in cut, colour and insignia to their British Royal Navy forerunners. However, beginning with the Second World War, all RAN personnel began wearing shoulder flashes reading _Australia_, a practice continuing today. These are cloth arcs at shoulder height on uniforms, metallic gold on officers' shoulder boards, and embroidered on shoulder slip-ons.
+The uniforms of the Royal Australian Navy are very similar in cut, colour and insignia to their British Royal Navy forerunners. However, beginning with the Second World War, all RAN personnel began wearing shoulder flashes reading _Australia_, a practice continuing today. These are cloth arcs at shoulder height on uniforms, metallic gold on officers' shoulder boards, and embroidered on shoulder slip-ons.
 
 Commissioned officers
 
@@ -155,32 +147,28 @@ Commissioned officers of the Australian Navy have pay grades ranging from S-1 to
 Naval officers are trained at the Royal Australian Naval College (HMAS _Creswell_) in Jervis Bay and the Australian Defence Force Academy in Canberra.[56]
 
   COMMISSIONED OFFICER RANK STRUCTURE OF THE ROYAL AUSTRALIAN NAVY
-  ---------------------------------------------------------------------------
+  ------------------------------------------------------------------
   Admiral of the Fleet
   O-11
-  Royal_Australian_Navy_OF-10.svg Royal_Australian_Navy_(sleeves)_OF-10.svg
   AF
 
-  Commander                                  Lieutenant Commander                       Lieutenant                                 Sub Lieutenant                             Acting Sub Lieutenant                      Midshipman
-  ------------------------------------------ ------------------------------------------ ------------------------------------------ ------------------------------------------ ------------------------------------------ -----------------
-  O-5                                        O-4                                        O-3                                        O-2                                        O-1                                        S-1
-  Royal_Australian_Navy_(sleeves)_OF-4.svg   Royal_Australian_Navy_(sleeves)_OF-3.svg   Royal_Australian_Navy_(sleeves)_OF-2.svg   Royal_Australian_Navy_(sleeves)_OF-1.svg   Royal_Australian_Navy_(sleeves)_OF-1.svg   UK-Navy-OFD.svg
-  CMDR                                       LCDR                                       LEUT                                       SBLT                                       ASLT                                       MIDN
+  Commander   Lieutenant Commander   Lieutenant   Sub Lieutenant   Acting Sub Lieutenant   Midshipman
+  ----------- ---------------------- ------------ ---------------- ----------------------- ------------
+  O-5         O-4                    O-3          O-2              O-1                     S-1
+
+  CMDR        LCDR                   LEUT         SBLT             ASLT                    MIDN
 
 Chaplain
 
-Chaplains in the Royal Australian Navy are commissioned officers who complete the same training as other officers in the RAN at the Royal Australian Naval College, HMAS Creswell. RAN regulations group RAN chaplains with commanders for purposes of protocol such as marks of respect (saluting); however, RAN chaplains have no other rank other than "chaplain", and their rank emblem is identifiable by a Maltese cross with gold anchor. Senior chaplains are grouped with captains, and principal chaplains are grouped with commodores, but their chaplain rank slide remains the same. Principal chaplains, however, have gold braid on the peak of their white service cap. Royal_Australian_Navy_Chaplain_rank_slide.png
+Chaplains in the Royal Australian Navy are commissioned officers who complete the same training as other officers in the RAN at the Royal Australian Naval College, HMAS Creswell. RAN regulations group RAN chaplains with commanders for purposes of protocol such as marks of respect (saluting); however, RAN chaplains have no other rank other than "chaplain", and their rank emblem is identifiable by a Maltese cross with gold anchor. Senior chaplains are grouped with captains, and principal chaplains are grouped with commodores, but their chaplain rank slide remains the same. Principal chaplains, however, have gold braid on the peak of their white service cap.
 
 Other ranks
 
   OTHER RANKS
-  ---------------------------------
+  -----------------------------
   Warrant Officer of the Navy
   |E-10
-  Royal_Australian_Navy_OR-9b.svg
   WO-N
-
-CIS_Department_Halifax.jpg
 
 Royal Australian Navy Other Ranks wear "right arm rates" insignia, called "Category Insignia" to indicate speciality training qualifications.[57] The use pattern mirrors that of the Royal Navy, and has since formation. Stars or a Crown are added to these to indicate higher qualifications.
 

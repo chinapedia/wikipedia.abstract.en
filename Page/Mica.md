@@ -1,4 +1,4 @@
-MicaSheetUSGOV.jpg mica-from-alstead.jpg Dark_Mica_from_Eastern_Ontario.jpg]] The MICA group of sheet silicate (phyllosilicate) minerals includes several closely related materials having nearly perfect basal cleavage. All are monoclinic, with a tendency towards pseudohexagonal crystals, and are similar in chemical composition. The nearly perfect cleavage, which is the most prominent characteristic of mica, is explained by the hexagonal sheet-like arrangement of its atoms.
+]] The MICA group of sheet silicate (phyllosilicate) minerals includes several closely related materials having nearly perfect basal cleavage. All are monoclinic, with a tendency towards pseudohexagonal crystals, and are similar in chemical composition. The nearly perfect cleavage, which is the most prominent characteristic of mica, is explained by the hexagonal sheet-like arrangement of its atoms.
 
 The word _mica_ is derived from the Latin word __, meaning _a crumb_, and probably influenced by __, to glitter.[1]
 
@@ -45,8 +45,6 @@ Very fine-grained micas, which typically show more variation in ion and water co
 
 Occurrence and production
 
-Mica.webm
-
 Mica is widely distributed and occurs in igneous, metamorphic and sedimentary regimes. Large crystals of mica used for various applications are typically mined from granitic pegmatites.
 
 Until the 19th century, large crystals of mica were quite rare and expensive as a result of the limited supply in Europe. However, their price dramatically dropped when large reserves were found and mined in Africa and South America during the early 19th century. The largest documented single crystal of mica (phlogopite) was found in Lacey Mine, Ontario, Canada; it measured and weighed about .[5] Similar-sized crystals were also found in Karelia, Russia.[6]
@@ -68,7 +66,7 @@ Ground mica is used in the well-drilling industry as an additive to drilling flu
 
 Dry-ground mica is used in the production of rolled roofing and asphalt shingles, where it serves as a surface coating to prevent sticking of adjacent surfaces. The coating is not absorbed by freshly manufactured roofing because mica's platy structure is unaffected by the acid in asphalt or by weather conditions. Mica is used in decorative coatings on wallpaper, concrete, stucco, and tile surfaces. It also is used as an ingredient in flux coatings on welding rods, in some special greases, and as coatings for core and mold release compounds, facing agents, and mold washes in foundry applications. Dry-ground phlogopite mica is used in automotive brake linings and clutch plates to reduce noise and vibration (asbestos substitute); as sound-absorbing insulation for coatings and polymer systems; in reinforcing additives for polymers to increase strength and stiffness and to improve stability to heat, chemicals, and ultraviolet (UV) radiation; in heat shields and temperature insulation; in industrial coating additive to decrease the permeability of moisture and hydrocarbons; and in polar polymer formulations to increase the strength of epoxies, nylons, and polyesters.[12]
 
-Mica-moniale.jpg for glitter]]
+for glitter]]
 
 Wet-ground mica, which retains the brilliance of its cleavage faces, is used primarily in pearlescent paints by the automotive industry. Many metallic-looking pigments are composed of a substrate of mica coated with another mineral, usually titanium dioxide (TiO₂). The resultant pigment produces a reflective color depending on the thickness of the coating. These products are used to produce automobile paint, shimmery plastic containers, high-quality inks used in advertising and security applications. In the cosmetics industry, its reflective and refractive properties make mica an important ingredient in blushes, eye liner, eye shadow, foundation, hair and body glitter, lipstick, lip gloss, mascara, moisturizing lotions, and nail polish. Some brands of toothpaste include powdered white mica. This acts as a mild abrasive to aid polishing of the tooth surface, and also adds a cosmetically pleasing, glittery shimmer to the paste. Mica is added to latex balloons to provide a colored shiny surface.[13]
 
@@ -81,8 +79,6 @@ Muscovite and phlogopite splittings can be fabricated into various built-up mica
 Flexible plate is used in electric motor and generator armatures, field coil insulation, and magnet and commutator core insulation. Mica consumption in flexible plate was about 21 tonnes in 2008 in the US. Heater plate is used where high-temperature insulation is required. Molding plate is sheet mica from which V-rings are cut and stamped for use in insulating the copper segments from the steel shaft ends of a commutator. Molding plate is also fabricated into tubes and rings for insulation in armatures, motor starters, and transformers. Segment plate acts as insulation between the copper commutator segments of direct-current universal motors and generators. Phlogopite built-up mica is preferred because it wears at the same rate as the copper segments. Although muscovite has a greater resistance to wear, it causes uneven ridges that may interfere with the operation of a motor or generator. Consumption of segment plate was about 149 t in 2008 in the US. Some types of built-up mica have the bonded splittings reinforced with cloth, glass, linen, muslin, plastic, silk, or special paper. These products are very flexible and are produced in wide, continuous sheets that are either shipped, rolled, or cut into ribbons or tapes, or trimmed to specified dimensions. Built-up mica products may also be corrugated or reinforced by multiple layering. In 2008, about 351 t of built-up mica was consumed in the US, mostly for molding plates (19%) and segment plates (42%).[15]
 
 Sheet mica
-
-Mikanit.jpg Silver_mica_capacitors.jpg Muscovite_window.jpg
 
 Technical grade sheet mica is used in electrical components, electronics, in atomic force microscopy and as window sheets. Other uses include diaphragms for oxygen-breathing equipment, marker dials for navigation compasses, optical filters, pyrometers, thermal regulators, stove and kerosene heater windows, radiation aperture covers for microwave ovens, and micathermic heater elements. Mica is birefringent and is therefore commonly used to make quarter and half wave plates. Specialized applications for sheet mica are found in aerospace components in air-, ground-, and sea-launched missile systems, laser devices, medical electronics and radar systems. Mica is mechanically stable in micrometer-thin sheets which are relatively transparent to radiation (such as alpha particles) while being impervious to most gases. It is therefore used as a window on radiation detectors such as Geiger-Müller tubes.
 
@@ -106,7 +102,7 @@ Another use of mica is as a substrate in the production of ultraflat, thin-film 
 
 Early history
 
-Hand_Hopewell_mica.jpg]] Human use of mica dates back to prehistoric times. Mica was known to ancient Indian, Egyptian, Greek and Roman and Chinese civilizations, as well as the Aztec civilization of the New World.[25]
+]] Human use of mica dates back to prehistoric times. Mica was known to ancient Indian, Egyptian, Greek and Roman and Chinese civilizations, as well as the Aztec civilization of the New World.[25]
 
 The earliest use of mica has been found in cave paintings created during the Upper Paleolithic period (40,000 BC to 10,000 BC). The first hues were red (iron oxide, hematite, or red ochre) and black (manganese dioxide, pyrolusite), though black from juniper or pine carbons has also been discovered. White from kaolin or mica was used occasionally.
 

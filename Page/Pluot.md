@@ -1,4 +1,4 @@
-Raspberry_jewel_pluot.jpg PLUOTS, APRIUMS, APRIPLUMS, or PLUMCOTS, are some of the hybrids between different _Prunus_ species that are also called interspecific plums. Whereas plumcots and apriplums are first-generation hybrids between a plum parent (_P. salicina_ or _P. cerasifera_ or their hybrids) and an apricot (_P. armeniaca_), pluots and apriums are later-generations.[1][2] Both names "plumcot" and "apriplum" have been used for trees derived from a plum seed parent, and are therefore equivalent.[3][4]
+PLUOTS, APRIUMS, APRIPLUMS, or PLUMCOTS, are some of the hybrids between different _Prunus_ species that are also called interspecific plums. Whereas plumcots and apriplums are first-generation hybrids between a plum parent (_P. salicina_ or _P. cerasifera_ or their hybrids) and an apricot (_P. armeniaca_), pluots and apriums are later-generations.[1][2] Both names "plumcot" and "apriplum" have been used for trees derived from a plum seed parent, and are therefore equivalent.[3][4]
 
 
 Plumcots and apriplums
@@ -13,14 +13,14 @@ Pluots are later generations of complex hybrid between the Japanese plum, _Prunu
 
 Apriums
 
-Apriums_on_a_cutting_board_02.jpg Apriums are complex plum-apricot hybrids that show primarily apricot traits and flavor.[12] Apriums resemble apricots on the outside. The flesh is usually dense and notable for its sweet taste due to a high content of fructose and other sugars.[13] Apriums are usually only available early in the fruit season, like apricots and unlike pluots, which include some very late-ripening varieties. Aprium trees grow quickly and are smaller compared to other common home-grown apricots. The fruit is gold, with red coloration. Semi-mature fruit is hard and does not ripen if picked before completely mature.
+Apriums are complex plum-apricot hybrids that show primarily apricot traits and flavor.[12] Apriums resemble apricots on the outside. The flesh is usually dense and notable for its sweet taste due to a high content of fructose and other sugars.[13] Apriums are usually only available early in the fruit season, like apricots and unlike pluots, which include some very late-ripening varieties. Aprium trees grow quickly and are smaller compared to other common home-grown apricots. The fruit is gold, with red coloration. Semi-mature fruit is hard and does not ripen if picked before completely mature.
 
 
 Varieties
 
 Plumcot varieties
 
-plumcot.jpg Plumcot varieties include:
+Plumcot varieties include:
 
 -   Flavorosa: very sweet, medium-sized, flat round dark-purple fruit with red flesh, early ripening
 -   Flavor Royal: very sweet, medium-sized, dark purple with crimson flesh, early ripening
@@ -40,7 +40,7 @@ plumcot.jpg Plumcot varieties include:
 
 Pluot varieties
 
-Flavorosa_pluot.JPG 030815_pluot.jpg Splash_pluot.jpg Pluot varieties include:[14]
+Pluot varieties include:[14]
 
 -   Dapple Dandy: large size with mottled pale green to yellow, red-spotted skin, red or pink juicy flesh, firm flesh, moderately late ripening.
     -   'Dinosaur egg' is a trademarked name for Dapple Dandy variety.

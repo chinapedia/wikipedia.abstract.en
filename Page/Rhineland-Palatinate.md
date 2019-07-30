@@ -7,7 +7,7 @@ Rhineland-Palatinate was established in 1946 after World War II from territory o
 
 History
 
-Bundesarchiv_B_145_Bild-F046120-0035,_Koblenz,_"Rittersturz-Konferenz".jpg at the Rittersturz Conference in 1948]] Koblenz_im_Buga-Jahr_2011_-_Moselanlagen_02.jpg Monument in Koblenz]] The state of Rhineland-Palatinate was founded shortly after the Second World War on 30 August 1946. It was formed mainly from the southern part of the Prussian Rhine Province (the of Koblenz and Trier), from Rhenish Hesse, from the western part of Nassau and the Bavarian Rhenish Palatinate minus the county of Saarpfalz. The Joint German-Luxembourg Sovereign Region () is the only unincorporated area of the state of Rhineland-Palatinate. This condominium is formed by the rivers Moselle, Sauer, and Our, where they run along the border between Luxembourg and Rhineland-Palatinate or the Saarland.[3]
+at the Rittersturz Conference in 1948]] Monument in Koblenz]] The state of Rhineland-Palatinate was founded shortly after the Second World War on 30 August 1946. It was formed mainly from the southern part of the Prussian Rhine Province (the of Koblenz and Trier), from Rhenish Hesse, from the western part of Nassau and the Bavarian Rhenish Palatinate minus the county of Saarpfalz. The Joint German-Luxembourg Sovereign Region () is the only unincorporated area of the state of Rhineland-Palatinate. This condominium is formed by the rivers Moselle, Sauer, and Our, where they run along the border between Luxembourg and Rhineland-Palatinate or the Saarland.[3]
 
 Emergence
 

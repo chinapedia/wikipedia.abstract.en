@@ -64,7 +64,7 @@ It was the first of his successes against India, against whom he took his wicket
 
 Peak years and captaincy
 
-Richie_Benaud_graph.png After a break in the international calendar of a year, the 1957–58 tour to South Africa heralded the start of a phase of three international seasons when Benaud was at his peak. The tour saw his bowling talents come to the fore when he took 106 wickets,[84] surpassing the previous record of 104 by England's Sydney Barnes. He scored 817 runs including four centuries, two of them in Test matches.[85] The first of these came in the First Test at Johannesburg, where after conceding 1/115, Benaud struck 122, his highest Test score, to see Australia reach a draw.[86]
+After a break in the international calendar of a year, the 1957–58 tour to South Africa heralded the start of a phase of three international seasons when Benaud was at his peak. The tour saw his bowling talents come to the fore when he took 106 wickets,[84] surpassing the previous record of 104 by England's Sydney Barnes. He scored 817 runs including four centuries, two of them in Test matches.[85] The first of these came in the First Test at Johannesburg, where after conceding 1/115, Benaud struck 122, his highest Test score, to see Australia reach a draw.[86]
 
 In the Second Test at Cape Town, Benaud took 4/95 and then 5/49 in the second innings to secure an innings victory after the home team were forced to follow on.[87] He followed this with 5/114 in a drawn Third Test,[88] before a match-winning all round performance in the Fourth Test in Johannesburg. Benaud struck exactly 100 in the first innings, before taking 4/70 in South Africa's reply. When South Africa followed on, Benaud took 5/84, which left Australia needing only one run to win.[89] He took 5/82 in the second innings of the Fifth Test, the fourth consecutive match in which he had taken five wickets in an innings, as Australia took a 3–0 series win.[90] He had been a major contributor to the series win, scoring 329 runs at 54.83 and taking 30 wickets at 21.93, establishing himself as one of the leading leg spinners of the modern era.[91][92]
 
@@ -122,7 +122,7 @@ Cricket career highlights
 
 Media career
 
-Richie_Benaud.jpg After the 1956 England tour, Benaud stayed behind in London to take a BBC presenter training course. He took up a journalism position with the _News of the World_,[175] beginning as a police roundsman before becoming a sports columnist. In 1960 he made his first radio commentary in the United Kingdom at the BBC, after which he moved into television.[176]
+After the 1956 England tour, Benaud stayed behind in London to take a BBC presenter training course. He took up a journalism position with the _News of the World_,[175] beginning as a police roundsman before becoming a sports columnist. In 1960 he made his first radio commentary in the United Kingdom at the BBC, after which he moved into television.[176]
 
 After retiring from playing in 1964, Benaud turned to full-time cricket journalism and commentary, dividing his time between Britain (where he worked for the BBC for many years before joining Channel 4 in 1999), and Australia (for the Nine Network). Overall he played in or commentated on approximately 500 Test matches, as he himself noted in one of his final interviews in Britain when asked if he would miss Test cricket.[177]
 
@@ -167,7 +167,7 @@ Benaud was buried on 15 April, in a private funeral ceremony attended only by hi
 
 Recognition
 
-2018.01.05.11.35.00-Ashes,_5th_Test,_Day_2_(25714957148).jpg Benaud was made an Officer of the Order of the British Empire (OBE) in 1961 for services to cricket. He was inducted into the Sport Australia Hall of Fame in 1985.[207] In 1999 he was awarded a Logie Award for Most Outstanding Sports Broadcaster.[208]
+Benaud was made an Officer of the Order of the British Empire (OBE) in 1961 for services to cricket. He was inducted into the Sport Australia Hall of Fame in 1985.[207] In 1999 he was awarded a Logie Award for Most Outstanding Sports Broadcaster.[208]
 
 In 2007, he was inducted into the Australian Cricket Hall of Fame at the Allan Border Medal award evening and in 2009 he was inducted into the ICC Cricket Hall of Fame.[209]
 

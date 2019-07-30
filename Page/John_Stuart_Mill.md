@@ -41,7 +41,7 @@ Mill died in 1873 of erysipelas in Avignon, France, where his body was buried al
 
 Works
 
-Stuart_Mill_G_F_Watts.jpg (1873)]]
+(1873)]]
 
 _A System of Logic_
 
@@ -57,7 +57,7 @@ Though this principle seems clear, there are a number of complications. For exam
 
 The question of what counts as a self-regarding action and what actions, whether of omission or commission, constitute harmful actions subject to regulation, continues to exercise interpreters of Mill. It is important to emphasise that Mill did not consider giving offence to constitute "harm"; an action could not be restricted because it violated the conventions or morals of a given society.
 
-_On Liberty_ involves an impassioned defense of free speech. Mill argues that free discourse is a necessary condition for intellectual and social progress. We can never be sure, he contends, that a silenced opinion does not contain some element of the truth. He also argues that allowing people to air false opinions is productive for two reasons. First, individuals are more likely to abandon erroneous beliefs if they are engaged in an open exchange of ideas. Second, by forcing other individuals to re-examine and re-affirm their beliefs in the process of debate, these beliefs are kept from declining into mere dogma. It is not enough for Mill that one simply has an unexamined belief that happens to be true; one must understand why the belief in question is the true one. Along those same lines Mill wrote, "unmeasured vituperation, employed on the side of prevailing opinion, really does deter people from expressing contrary opinions, and from listening to those who express them."[32] J_S_Mill_and_H_Taylor.jpg. Helen was the daughter of Harriet Taylor and collaborated with Mill for fifteen years after her mother's death in 1858.]]
+_On Liberty_ involves an impassioned defense of free speech. Mill argues that free discourse is a necessary condition for intellectual and social progress. We can never be sure, he contends, that a silenced opinion does not contain some element of the truth. He also argues that allowing people to air false opinions is productive for two reasons. First, individuals are more likely to abandon erroneous beliefs if they are engaged in an open exchange of ideas. Second, by forcing other individuals to re-examine and re-affirm their beliefs in the process of debate, these beliefs are kept from declining into mere dogma. It is not enough for Mill that one simply has an unexamined belief that happens to be true; one must understand why the belief in question is the true one. Along those same lines Mill wrote, "unmeasured vituperation, employed on the side of prevailing opinion, really does deter people from expressing contrary opinions, and from listening to those who express them."[32] . Helen was the daughter of Harriet Taylor and collaborated with Mill for fifteen years after her mother's death in 1858.]]
 
 Social liberty and tyranny of majority
 
@@ -109,7 +109,7 @@ In Mill's essay from 1869, "The Subjection of Women", he expressed his oppositio
 
 Women's rights
 
-John_Stuart_Mill,_Vanity_Fair,_1873-03-29.jpg published in _Vanity Fair_ in 1873.]] Mill's view of history was that right up until his time "the whole of the female" and "the great majority of the male sex" were simply "slaves". He countered arguments to the contrary, arguing that relations between sexes simply amounted to "the legal subordination of one sex to the other – [which] is wrong itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality." With this, Mill can be considered among the earliest male proponents of gender equality. His book _The Subjection of Women_ (1861, published 1869) is one of the earliest written on this subject by a male author.[48] In _The Subjection of Women_ Mill attempts to make a case for perfect equality.[49] He talks about the role of women in marriage and how it needed to be changed. There, Mill comments on three major facets of women's lives that he felt are hindering them: society and gender construction, education and marriage. He argued that the oppression of women was one of the few remaining relics from ancient times, a set of prejudices that severely impeded the progress of humanity.[50][51]
+published in _Vanity Fair_ in 1873.]] Mill's view of history was that right up until his time "the whole of the female" and "the great majority of the male sex" were simply "slaves". He countered arguments to the contrary, arguing that relations between sexes simply amounted to "the legal subordination of one sex to the other – [which] is wrong itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality." With this, Mill can be considered among the earliest male proponents of gender equality. His book _The Subjection of Women_ (1861, published 1869) is one of the earliest written on this subject by a male author.[48] In _The Subjection of Women_ Mill attempts to make a case for perfect equality.[49] He talks about the role of women in marriage and how it needed to be changed. There, Mill comments on three major facets of women's lives that he felt are hindering them: society and gender construction, education and marriage. He argued that the oppression of women was one of the few remaining relics from ancient times, a set of prejudices that severely impeded the progress of humanity.[50][51]
 
 As a Member of Parliament, Mill introduced an unsuccessful amendment to the Reform Bill to substitute the word "person" in place of "man".[52]
 
@@ -143,7 +143,7 @@ Mill's thesis distinguishes between higher and lower pleasures. He frequently di
 
 Economic philosophy
 
-Mill_-_Essays_on_economics_and_society,_1967_-_5499347.tif Mill's early economic philosophy was one of free markets. However, he accepted interventions in the economy, such as a tax on alcohol, if there were sufficient utilitarian grounds. He also accepted the principle of legislative intervention for the purpose of animal welfare.[64] Mill originally believed that "equality of taxation" meant "equality of sacrifice" and that progressive taxation penalised those who worked harder and saved more and was therefore "a mild form of robbery".[65]
+Mill's early economic philosophy was one of free markets. However, he accepted interventions in the economy, such as a tax on alcohol, if there were sufficient utilitarian grounds. He also accepted the principle of legislative intervention for the purpose of animal welfare.[64] Mill originally believed that "equality of taxation" meant "equality of sacrifice" and that progressive taxation penalised those who worked harder and saved more and was therefore "a mild form of robbery".[65]
 
 Given an equal tax rate regardless of income, Mill agreed that inheritance should be taxed. A utilitarian society would agree that everyone should be equal one way or another. Therefore, receiving inheritance would put one ahead of society unless taxed on the inheritance. Those who donate should consider and choose carefully where their money goes – some charities are more deserving than others. Considering public charities boards such as a government will disburse the money equally. However, a private charity board like a church would disburse the monies fairly to those who are in more need than others.
 
@@ -194,7 +194,7 @@ According to Mill, the ultimate tendency in an economy is for the rate of profit
 
 In popular culture
 
-John_Stuart_Mill_(31925382120).jpg in Victoria Embankment Gardens, London]]
+in Victoria Embankment Gardens, London]]
 
 -   Mill is the subject of a 1905 clerihew by E. C. Bentley:[79]
 

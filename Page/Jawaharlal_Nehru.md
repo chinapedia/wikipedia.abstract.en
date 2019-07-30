@@ -52,7 +52,7 @@ World War I
 
 When World War I broke out, sympathy in India was divided. Although educated Indians "by and large took a vicarious pleasure" in seeing the British rulers humbled, the ruling upper classes sided with the Allies. Nehru confessed that he viewed the war with mixed feelings. Frank Moraes wrote: "If [Nehru's] sympathy was with any country it was with France, whose culture he greatly admired." During the war, Nehru volunteered for the St John Ambulance and worked as one of the provincial secretaries of the organisation in Allahabad. He also spoke out against the censorship acts passed by the British government in India.
 
-Jawaharlal_Nehru_and_his_family_in_1918.jpg and daughter Indira]]
+and daughter Indira]]
 
 Nehru emerged from the war years as a leader whose political views were considered radical. Although the political discourse had been dominated at this time by Gopal Krishna Gokhale, a moderate who said that it was "madness to think of independence", Nehru had spoken "openly of the politics of non-cooperation, of the need of resigning from honorary positions under the government and of not continuing the futile politics of representation". He ridiculed the Indian Civil Service for its support of British policies. He noted that someone had once defined the Indian Civil Service, "with which we are unfortunately still afflicted in this country, as neither Indian, nor civil, nor a service".[21] Motilal Nehru, a prominent moderate leader, acknowledged the limits of constitutional agitation, but counselled his son that there was no other "practical alternative" to it. Nehru, however, was not satisfied with the pace of the national movement. He became involved with aggressive nationalists leaders who were demanding Home Rule for Indians.
 
@@ -67,8 +67,6 @@ Non-cooperation
 The first big national involvement of Nehru came at the onset of the Non-Cooperation movement in 1920. He led the movement in the United Provinces (now Uttar Pradesh). Nehru was arrested on charges of anti-governmental activities in 1921, and was released a few months later.[23] In the rift that formed within the Congress following the sudden closure of the Non-Cooperation movement after the Chauri Chaura incident, Nehru remained loyal to Gandhi and did not join the Swaraj Party formed by his father Motilal Nehru and CR Das.[24]
 
 Internationalising struggle for Indian independence
-
-Nehru_and_Indira.png
 
 Nehru played a leading role in the development of the internationalist outlook of the Indian independence struggle. He sought foreign allies for India and forged links with movements for independence and democracy all over the world. In 1927, his efforts paid off and the Congress was invited to attend the congress of oppressed nationalities in Brussels in Belgium. The meeting was called to co-ordinate and plan a common struggle against imperialism. Nehru represented India and was elected to the Executive Council of the League against Imperialism that was born at this meeting.
 
@@ -124,15 +122,13 @@ The salt satyagraha succeeded in drawing the attention of the world. Indian, Bri
 
 Architect of India
 
-Gandhi_and_Nehru_1942.jpg
-
 Nehru elaborated the policies of the Congress and a future Indian nation in 1929.[56] He declared that the aims of the congress were freedom of religion, right to form associations, freedom of expression of thought, equality before law for every individual without distinction of caste, colour, creed or religion, protection to regional languages and cultures, safeguarding the interests of the peasants and labour, abolition of untouchability, introduction of adult franchise, imposition of prohibition, nationalisation of industries, socialism, and establishment of a secular India.[57] All these aims formed the core of the "Fundamental Rights and Economic Policy" resolution drafted by Nehru in 1929–31 and were ratified in 1931 by the Congress party session at Karachi chaired by Vallabhbhai Patel.[58] Gandhian right-wing Congressmen Vallabhbhai Patel, Rajendra Prasad and C. Rajagopalachari.In the 1930s the Congress Socialist Party group was formed within the INC under the leadership of Jayaprakash Narayan, Narendra Deo and others.Nehru,however, never joined the group but did act as bridge between them and Gandhi.[59] He had the support of the left-wing Congressmen Maulana Azad and Subhas Chandra Bose.[60] The trio combined to oust Dr. Prasad as Congress President in 1936. Nehru was elected in his place and held the presidency for two years (1936–37). He was then succeeded by his socialist colleagues Bose (1938–39) and Azad (1940–46). After the fall of Bose from the mainstream of Indian politics (because of his support of violence in driving the British out of India,[61] the power struggle between the socialists and conservatives balanced out. However, Sardar Patel died in 1950, leaving Nehru as the sole remaining iconic national leader, and soon the situation became such that Nehru was able to implement many of his basic policies without hindrance. Nehru's daughter, Indira Gandhi, during the state of Emergency she imposed, was able to fulfill her father's dream by the 42nd amendment (1976) of the Indian constitution by which India officially became "socialist" and "secular".[62][63]
 
 During Nehru's second term as general secretary of the Congress, he proposed certain resolutions concerning the foreign policy of India. From that time onward, he was given carte blanche in framing the foreign policy of any future Indian nation. He developed good relations with governments all over the world. He firmly placed India on the side of democracy and freedom during a time when the world was under the threat of fascism. He was also given the responsibility of planning the economy of a future India. He appointed the National Planning Commission in 1938 to help in framing such policies.[64] However, many of the plans framed by Nehru and his colleagues would come undone with the unexpected partition of India in 1947.[65]
 
 Electoral politics in 1930s
 
-NehruTagore.jpg]] Nehru's visit to Europe in 1936 proved to be the watershed in his political and economic thinking. His real interest in Marxism and his socialist pattern of thought stem from that tour. His subsequent sojourns in prison enabled him to study Marxism in more depth. Interested in its ideas but repelled by some of its methods, he could never bring himself to accept Karl Marx's writings as revealed scripture. Yet from then on, the yardstick of his economic thinking remained Marxist, adjusted, where necessary, to Indian conditions.[66][67]
+]] Nehru's visit to Europe in 1936 proved to be the watershed in his political and economic thinking. His real interest in Marxism and his socialist pattern of thought stem from that tour. His subsequent sojourns in prison enabled him to study Marxism in more depth. Interested in its ideas but repelled by some of its methods, he could never bring himself to accept Karl Marx's writings as revealed scripture. Yet from then on, the yardstick of his economic thinking remained Marxist, adjusted, where necessary, to Indian conditions.[66][67]
 
 At the 1936 Lucknow session of 1936, the Congress party,despite opposition from the newly elected Nehru as the party president, agreed to contest the provincial elections to be held in 1937 under the Government of India Act 1935.[68][69] The elections brought Congress party to power in a majority of the provinces with increased popularity and power for Nehru.Since the Muslim League under Muhammad Ali Jinnah (who was to become the creator of Pakistan) had fared badly at the polls, Nehru declared that the only two parties that mattered in India were the British colonial authorities and the Congress. Jinnah's statements that the Muslim League was the third and "equal partner" within Indian politics was widely rejected. Nehru had hoped to elevate Maulana Azad as the pre-eminent leader of Indian Muslims, but in this, he was undermined by Gandhi, who continued to treat Jinnah as the voice of Indian Muslims.
 
@@ -152,7 +148,7 @@ In October 1940, Gandhi and Nehru, abandoning their original stand of supporting
 
 Japan attacks India
 
-Nehrujinnah.jpg walk together at Simla, 1946]]
+walk together at Simla, 1946]]
 
 When the Japanese carried their attack through Burma (now Myanmar) to the borders of India in the spring of 1942, the British government, faced by this new military threat, decided to make some overtures to India, as Nehru had originally desired.[78] Prime Minister Winston Churchill dispatched Sir Stafford Cripps, a member of the war Cabinet who was known to be politically close to Nehru and also knew Jinnah, with proposals for a settlement of the constitutional problem.[79] As soon as he arrived he discovered that India was more deeply divided than he had imagined. Nehru, eager for a compromise, was hopeful. Gandhi was not. Jinnah had continued opposing the Congress. "Pakistan is our only demand, and by God we will have it.", declared the Muslim League newspaper "Dawn".[80]
 
@@ -169,13 +165,13 @@ During the period where all of the Congress leadership were in jail, the Muslim 
 
 Prime Minister of India (1947–64)
 
-Indira_Gandhi,_Jawaharlal_Nehru,_Rajiv_Gandhi_and_Sanjay_Gandhi.jpg, Jawaharlal Nehru, Rajiv Gandhi and Sanjay Gandhi]] Teen_Murti_Bhavan_in_New_Delhi.jpg, Nehru's residence as Prime Minister, now a museum in his memory]] Nehru served as prime minister for a 18 years, first as the interim prime minister and from 1950 as the prime minister of the republic of India.
+, Jawaharlal Nehru, Rajiv Gandhi and Sanjay Gandhi]] , Nehru's residence as Prime Minister, now a museum in his memory]] Nehru served as prime minister for a 18 years, first as the interim prime minister and from 1950 as the prime minister of the republic of India.
 
 Interim Prime Minister and Independence (1946–52)
 
 Nehru and his colleagues were released prior to the arrival of the British 1946 Cabinet Mission to India to propose plans for transfer of power.[89] The agreed plan in 1946 led to elections to the provincial assemblies and the members of the assemblies in turn electing members of the Constituent assembly. Congress won majority of seats in the assembly and headed the interim government with Nehru as the prime minister.
 
-Lord_Mountbatten_swears_in_Jawaharlal_Nehru_as_the_first_Prime_Minister_of_free_India_on_Aug_15,_1947.jpg swears in Jawaharlal Nehru as the first Prime Minister of free India at the ceremony held at 8:30 am IST on 15 August 1947]] The period before independence in early 1947 was impaired by outbreaks of communal violence and political disorder, and the opposition of the Muslim League led by Muhammad Ali Jinnah, who were demanding a separate Muslim state of Pakistan.[90] After failed bids to form coalitions, Nehru reluctantly supported the partition of India, according to a plan released by the British on 3 June 1947.
+swears in Jawaharlal Nehru as the first Prime Minister of free India at the ceremony held at 8:30 am IST on 15 August 1947]] The period before independence in early 1947 was impaired by outbreaks of communal violence and political disorder, and the opposition of the Muslim League led by Muhammad Ali Jinnah, who were demanding a separate Muslim state of Pakistan.[90] After failed bids to form coalitions, Nehru reluctantly supported the partition of India, according to a plan released by the British on 3 June 1947.
 
 Independence
 
@@ -189,7 +185,7 @@ On 30 January 1948, Gandhi was shot while he was walking to a platform from whic
 
   Friends and comrades, the light has gone out of our lives, and there is darkness everywhere, and I do not quite know what to tell you or how to say it. Our beloved leader, Bapu as we called him, the father of the nation, is no more. Perhaps I am wrong to say that; nevertheless, we will not see him again, as we have seen him for these many years, we will not run to him for advice or seek solace from him, and that is a terrible blow, not only for me, but for millions and millions in this country.[94][95]
 
-Photograph_of_President_Truman_and_Indian_Prime_Minister_Jawaharlal_Nehru,_with_Nehru's_sister,_Madame_Pandit,_waving..._-_NARA_-_200154.jpg and Jawaharlal Nehru, with Nehru's sister, Vijayalakshmi Pandit, during Nehru's visit to the United States, October 1949]]
+and Jawaharlal Nehru, with Nehru's sister, Vijayalakshmi Pandit, during Nehru's visit to the United States, October 1949]]
 
 Yasmin Khan argued that Gandhi's death and funeral helped consolidate the authority of the new Indian state under Nehru and Patel. The Congress tightly controlled the epic public displays of grief over a two-week period—the funeral, mortuary rituals and distribution of the martyr's ashes—as millions participated and hundreds of millions watched. The goal was to assert the power of the government, legitimise the Congress party's control and suppress all religious para-military groups. Nehru and Patel suppressed the RSS, the Muslim National Guards, and the Khaksars, with some 200,000 arrests.[96] Gandhi's death and funeral linked the distant state with the Indian people and made more understand the need to suppress religious parties during the transition to independence for the Indian people.[97]
 
@@ -197,13 +193,13 @@ In later years, there emerged a revisionist school of history which sought to bl
 
 Integration of states
 
-TMstudy.png]] OsmanNehruJN.jpg and Jayanto Nath Chaudhuri after Hyderabad's accession to India]]
+]] and Jayanto Nath Chaudhuri after Hyderabad's accession to India]]
 
 The British Indian Empire, which included present-day India, Pakistan and Bangladesh, was divided into two types of territories: the Provinces of British India, which were governed directly by British officials responsible to the Viceroy of India; and princely states, under the rule of local hereditary rulers who recognised British suzerainty in return for local autonomy, in most cases as established by a treaty.[100] Between 1947 and about 1950, the territories of the princely states were politically integrated into the Indian Union under Nehru and Sardar Patel. Most were merged into existing provinces; others were organised into new provinces, such as Rajputana, Himachal Pradesh, Madhya Bharat, and Vindhya Pradesh, made up of multiple princely states; a few, including Mysore, Hyderabad, Bhopal, and Bilaspur, became separate provinces.[101] The Government of India Act, 1935 remained the constitutional law of India pending adoption of a new Constitution.
 
 Adoption of New Constitution
 
-Nehrucon.jpg c.1950]] The new Constitution of India, which came into force on 26 January 1950, made India a sovereign democratic republic. The new republic was declared to be a "Union of States".[102] The constitution of 1950 distinguished between three main types of states: Part A states, which were the former governors' provinces of British India, were ruled by an elected governor and state legislature. The Part B states were former princely states or groups of princely states, governed by a rajpramukh, who was usually the ruler of a constituent state, and an elected legislature. The rajpramukh was appointed by the President of India. The Part C states included both the former chief commissioners' provinces and some princely states, and each was governed by a chief commissioner appointed by the President of India. The sole Part D state was the Andaman and Nicobar Islands, which were administered by a lieutenant governor appointed by the central government.[103]
+c.1950]] The new Constitution of India, which came into force on 26 January 1950, made India a sovereign democratic republic. The new republic was declared to be a "Union of States".[102] The constitution of 1950 distinguished between three main types of states: Part A states, which were the former governors' provinces of British India, were ruled by an elected governor and state legislature. The Part B states were former princely states or groups of princely states, governed by a rajpramukh, who was usually the ruler of a constituent state, and an elected legislature. The rajpramukh was appointed by the President of India. The Part C states included both the former chief commissioners' provinces and some princely states, and each was governed by a chief commissioner appointed by the President of India. The sole Part D state was the Andaman and Nicobar Islands, which were administered by a lieutenant governor appointed by the central government.[103]
 
 Election of 1952
 
@@ -230,7 +226,7 @@ According to Bhikhu Parekh, Nehru can be regarded as the founder of the modern I
 
 Economic policies
 
-Hermann_Josef_Abs_-_mit_Adenauer_und_Nehru_1956.jpg and Deutsche Bank chairman Hermann Josef Abs during a state visit to West Germany in June 1956.]]
+and Deutsche Bank chairman Hermann Josef Abs during a state visit to West Germany in June 1956.]]
 
 Nehru implemented policies based on import substitution industrialization and advocated a mixed economy where the government controlled public sector would co-exist with the private sector. He believed that the establishment of basic and heavy industry was fundamental to the development and modernisation of the Indian economy. The government, therefore, directed investment primarily into key public sector industries – steel, iron, coal, and power – promoting their development with subsidies and protectionist policies.
 
@@ -254,7 +250,7 @@ Hindu Marriage law
 
 Under Nehru, the Indian Parliament enacted many changes to Hindu law to criminalize caste discrimination and increase the legal rights and social freedoms of women.[131][132][133][134]
 
-Jawaharlal_Nehru_with_school_children_at_Durgapur_copy.jpg. Durgapur, Rourkela and Bhilai were three integrated steel plants set up under India's Second Five-Year Plan in the late 1950s.]]
+. Durgapur, Rourkela and Bhilai were three integrated steel plants set up under India's Second Five-Year Plan in the late 1950s.]]
 
 Nehru specifically wrote Article 44 of the Indian constitution under the Directive Principles of State Policy which states : 'The State shall endeavor to secure for the citizens a uniform civil code throughout the territory of India.' The article has formed the basis of secularism in India.[135] However, Nehru has been criticized for the inconsistent application of the law. Most notably, Nehru allowed Muslims to keep their personal law in matters relating to marriage and inheritance. Also in the small state of Goa, a civil code based on the old Portuguese Family Laws was allowed to continue, and Muslim Personal law was prohibited by Nehru. This was the result of the annexation of Goa in 1961 by India, when Nehru promised the people that their laws would be left intact. This has led to accusations of selective secularism.
 
@@ -274,13 +270,13 @@ Throughout his long tenure as the prime minister,Nehru also held the portfolio o
 
 The Commonwealth
 
-Prime_Minister_Jawaharlal_Nehru_with_Girja_Shankar_Bajpai.jpg in the first meeting of Commonwealth Prime Ministers in 1948 in London]]
+in the first meeting of Commonwealth Prime Ministers in 1948 in London]]
 
 After independence, Nehru wanted to maintain good relations with Britain and other British commonwealth countries and signed the London Declaration, under which India agreed that, when it becomes a republic in January 1950, it would join the Commonwealth of Nations and accept the British monarch as a "symbol of the free association of its independent member nations and as such the Head of the Commonwealth."[143][144] The other nations of the Commonwealth recognised India's continuing membership of the association. The reaction back home was favourable; only the far-left and the far-right criticised Nehru's decision.
 
 Non-aligned movement
 
-Bundesarchiv_Bild_183-61849-0001,_Indien,_Otto_Grotewohl_bei_Ministerpräsident_Nehru.jpg, the Prime Minister of East Germany]]
+, the Prime Minister of East Germany]]
 
 On the international scene, Nehru was an opponent of military action and of military alliances. He was a strong supporter of the United Nations, except when it tried to resolve the Kashmir question. He pioneered the policy of non-alignment and co-founded the Non-Aligned Movement of nations professing neutrality between the rival blocs of nations led by the US and the USSR. Recognising the People's Republic of China soon after its founding (while most of the Western bloc continued relations with Taiwan), Nehru argued for its inclusion in the United Nations and refused to brand the Chinese as the aggressors in their conflict with Korea.[145] He sought to establish warm and friendly relations with China in 1950, and hoped to act as an intermediary to bridge the gulf and tensions between the communist states and the Western bloc.
 
@@ -308,7 +304,7 @@ In 1954, Nehru signed with China the Five Principles of Peaceful Coexistence, kn
 
 United States
 
-Indo_US.jpg at Parliament House, 1959]]
+at Parliament House, 1959]]
 
 In 1956, Nehru had criticised the joint invasion of the Suez Canal by the British, French and Israelis. The role of Nehru, both as Indian Prime Minister and a leader of the Non-Aligned Movement was significant; he tried to be even-handed between the two sides, while denouncing Eden and co-sponsors of the invasion vigorously. Nehru had a powerful ally in the US president Dwight Eisenhower who, if relatively silent publicly, went to the extent of using America's clout in the International Monetary Fund to make Britain and France back down.During the Suez crisis, Nehru's right-hand man, Menon attempted to persuade a recalcitrant Gamal Nasser to compromise with the West, and was instrumental in moving Western powers towards an awareness that Nasser might prove willing to compromise.[169]
 
@@ -323,7 +319,7 @@ Dag Hammarskjöld, the second Secretary-General of the United Nations, said that
 
 Sino-Indian War of 1962
 
-Carlos_Nehru.jpg (October 1949)]]
+(October 1949)]]
 
 From 1959, in a process that accelerated in 1961, Nehru adopted the "Forward Policy" of setting up military outposts in disputed areas of the Sino-Indian border, including in 43 outposts in territory not previously controlled by India.[173] China attacked some of these outposts, and thus the Sino-Indian War began, which India lost, and China withdrew to pre-war lines in eastern zone at Tawang but retained Aksai Chin which was within British India and was handed over to India after independence. Later, Pakistan handed over some portion of Kashmir near Siachen controlled by Pakistan since 1948 to China. The war exposed the unpreparedness of India's military which could send only 14,000 troops to the war zone in opposition to the many times larger Chinese army, and Nehru was widely criticised for his government's insufficient attention to defence. In response, Nehru sacked the defence minister V. K. Krishna Menon and sought US military aid. Nehru's improved relations with the US under John F. Kennedy proved useful during the war, as in 1962, President of Pakistan (then closely aligned with the Americans) Ayub Khan was made to guarantee his neutrality in regards to India, who was threatened by "communist aggression from Red China".[174] The Indian relationship with the Soviet Union, criticised by right-wing groups supporting free-market policies was also seemingly validated. Nehru would continue to maintain his commitment to the non-aligned movement despite calls from some to settle down on one permanent ally.
 
@@ -389,7 +385,7 @@ In the years following independence, Nehru frequently turned to his daughter Ind
 
 Personal life
 
-NehruEd.jpg]]
+]]
 
 Nehru married Kamala Kaul in 1916. Their only daughter Indira was born a year later in 1917. Kamala gave birth to a boy in November 1924, but he lived for only a week.[221] Indira married Feroze Gandhi in 1942. They had two sons – Rajiv (b. 1944) and Sanjay (b. 1946).
 
@@ -399,7 +395,7 @@ During most of Nehru's tenure as the prime minister, Indira served her father un
 
 Religion and personal beliefs
 
-Nehru_sweets_oratarians_Nongpoh.jpg, Meghalaya]]
+, Meghalaya]]
 
 Described as Hindu Agnostic,[232] and styling himself as a "scientific humanist",[233] Nehru thought that religious taboos were preventing India from going forward and adapting to modern conditions: "No country or people who are slaves to dogma and dogmatic mentality can progress, and unhappily our country and people have become extraordinarily dogmatic and little-minded."[234]
 
@@ -412,7 +408,7 @@ Legacy
   Nehru was a great man... Nehru gave to Indians an image of themselves that I don't think others might have succeeded in doing. – Sir Isaiah Berlin[239]
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Jawaharlal_Nehru_statue_in_Aldwych_1.jpg, London]] Statue_of_Jawaharlal_Nehru_at_Park_Street,_Kolkata..jpg]]
+, London]] ]]
 
 As India's first Prime minister and external affairs minister, Jawaharlal Nehru played a major role in shaping modern India's government and political culture along with sound foreign policy. He is praised for creating a system providing universal primary education,[240] reaching children in the farthest corners of rural India. Nehru's education policy is also credited for the development of world-class educational institutions such as the All India Institute of Medical Sciences,[241] Indian Institutes of Technology,[242] and the Indian Institutes of Management.
 
@@ -422,7 +418,7 @@ Historian Ramachandra Guha writes, "[had] Nehru retired in 1958 he would be reme
 
 Commemoration
 
-1989_CPA_6121.jpg commemorative stamp]]
+commemorative stamp]]
 
 In his lifetime, Jawaharlal Nehru enjoyed an iconic status in India and was widely admired across the world for his idealism and statesmanship.[246][247] His birthday, 14 November is celebrated in India as _Bal Divas_ ("Children's Day") in recognition of his lifelong passion and work for the welfare, education and development of children and young people. Children across India remember him as _Chacha Nehru_ (Uncle Nehru).[248] Nehru remains a popular symbol of the Congress Party which frequently celebrates his memory. Congress leaders and activists often emulate his style of clothing, especially the _Gandhi cap_ and the "Nehru jacket", and his mannerisms.[249] Nehru's ideals and policies continue to shape the Congress Party's manifesto and core political philosophy.[250] An emotional attachment to his legacy was instrumental in the rise of his daughter Indira to leadership of the Congress Party and the national government.
 

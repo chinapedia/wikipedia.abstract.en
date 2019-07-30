@@ -7,15 +7,6 @@ All major web browser vendors ceased acceptance of SHA-1 SSL certificates in 201
 
 Development
 
-One iteration within the SHA-1 compression function:
-A, B, C, D and E are 32-bit words of the state;
-_F_ is a nonlinear function that varies;
-denotes a left bit rotation by _n_ places;
-_n_ varies for each operation;
-W_(t) is the expanded message word of round t;
-K_(t) is the round constant of round t;
-Addition denotes addition modulo 2³².
-
 SHA-1 produces a message digest based on principles similar to those used by Ronald L. Rivest of MIT in the design of the MD2, MD4 and MD5 message digest algorithms, but generates a larger hash value (160 bits vs. 128 bits).
 
 SHA-1 was developed as part of the U.S. Government's Capstone project.[12] The original specification of the algorithm was published in 1993 under the title _Secure Hash Standard_, FIPS PUB 180, by U.S. government standards agency NIST (National Institute of Standards and Technology).[13][14] This version is now often named _SHA-0_. It was withdrawn by the NSA shortly after publication and was superseded by the revised version, published in 1995 in FIPS PUB 180-1 and commonly designated _SHA-1_. SHA-1 differs from SHA-0 only by a single bitwise rotation in the message schedule of its compression function. According to the NSA, this was done to correct a flaw in the original algorithm which reduced its cryptographic security, but they did not provide any further explanation. Publicly available techniques did indeed demonstrate a compromise of SHA-0, in 2004, before SHA-1 in 2017. _See_ #Attacks

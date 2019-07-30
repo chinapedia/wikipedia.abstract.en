@@ -32,7 +32,7 @@ With the opening of several casino resorts and other major constructions underwa
 
 The monetary system
 
-Bnu-tower01.jpg Macau adopts the so-called currency board system under which the legal tender, pataca (MOP), is 100 percent backed by foreign exchange reserves, the Hong Kong dollar (HKD). Moreover, the currency board, Monetary Authority of Macao (AMCM), has a statutory obligation to issue and redeem pataca on demand against Hong Kong dollar at a fixed exchange rate and without limit. The pataca is pegged to the Hong Kong dollar at a rate of 1.03 MOP per HKD, which is maintained by the AMCM.[20]
+Macau adopts the so-called currency board system under which the legal tender, pataca (MOP), is 100 percent backed by foreign exchange reserves, the Hong Kong dollar (HKD). Moreover, the currency board, Monetary Authority of Macao (AMCM), has a statutory obligation to issue and redeem pataca on demand against Hong Kong dollar at a fixed exchange rate and without limit. The pataca is pegged to the Hong Kong dollar at a rate of 1.03 MOP per HKD, which is maintained by the AMCM.[20]
 
 Each pataca divides into 100 avos. Coins are issued in 10, 20, and 50 avos and 1, 2, 5, and 10 patacas (2 and 10 patacas coins are rarely used in the territory); notes are in 5, 10, 20, 50, 100, 500, and 1000 pataca denominations. Hong Kong dollar is freely used and accounts for more than half of the total deposits in Macau's banks.[21] In addition, Chinese yuan is also widely accepted. Two banks issue currency: the Banco Nacional Ultramarino and the Bank of China (starting from October 1995). The historical exchange rates between the pataca and the US dollar (USD) are given below.
 
@@ -57,7 +57,7 @@ Sectors
 
 Tourism and gambling
 
-Nightview_of_mtower.jpg at night.]]
+at night.]]
 
   Visitor arrivals by place of residence in 2006[22]
   ----------------------------------------------------
@@ -70,7 +70,7 @@ Nightview_of_mtower.jpg at night.]]
 
 Tourism is the backbone of Macau's economy, and much of it geared towards gambling, which was legalised in the 19th century and has since been the linchpin of the economy and an important source of revenue for the government. From 1962, the gambling industry operated under a government-issued monopoly licence by Stanley Ho's Sociedade de Turismo e Diversões de Macau (STDM), which replaced the Tai Heng Entertainment Corporation that had held a gaming monopoly for the previous 24 years.[23] In the 1990s Macau had nine casinos and gambling reportedly represented 20 to 25% of Macau's GDP. The monopoly ended in 2001 when the gaming industry was liberalised and several casino operators from Las Vegas entered the market. These new operators include Las Vegas Sands, which opened Sands Macao 2, the largest casino in the world as measured by total number of table games, in 2004[24][25] and Venetian Macau 3 in 2007; Wynn Resorts, which opened Wynn Macau 4 in 2006; and MGM Mirage, which opened MGM Grand Macau in 2007.
 
-In addition, other casino owners, including Australian Crown Casino and Hong Kong Galaxy Entertainment Group 5 have also opened several hotel casinos in Macau. As a result of the surge in number of casinos and construction from other new casino entrants, Macau's economy has been growing rapidly in recent years. Gaming revenues from Macau's casinos are now greater than those of Las Vegas Strip,[26] making Macau the highest-volume gambling center in the world.[27] Numerous other hotel casinos, including Galaxy Cotai Megaresort and Ponte 16, are also to be opened in near future. Macau_Hotel_Casino_Lisboa_Macau_Mo707.JPG]] The_Venetian_Macao_Interior1.jpg]] Due to the opening of the new hotel casinos and China's easing of travel restrictions, there has been a rapid rise in the number of mainland visitors. From 9.1 million visitors in 2000, arrivals to Macau has grown to 18.7 million visitors in 2005 and 22 million visitors in 2006, with over 50% of the arrivals coming from mainland China and another 30% from Hong Kong.[28] Macau is expected to receive between 24 and 25 million visitors in 2007.[29] Macau also received the Future Award 2007, voted by 26,000 German travel trade members of GoAsia, for being regarded as the most promising future tourism destination in Asia.[30] Macau is currently rated as one of the world's top tourism destinations by the World Tourism Organization.[31]
+In addition, other casino owners, including Australian Crown Casino and Hong Kong Galaxy Entertainment Group 5 have also opened several hotel casinos in Macau. As a result of the surge in number of casinos and construction from other new casino entrants, Macau's economy has been growing rapidly in recent years. Gaming revenues from Macau's casinos are now greater than those of Las Vegas Strip,[26] making Macau the highest-volume gambling center in the world.[27] Numerous other hotel casinos, including Galaxy Cotai Megaresort and Ponte 16, are also to be opened in near future. ]] ]] Due to the opening of the new hotel casinos and China's easing of travel restrictions, there has been a rapid rise in the number of mainland visitors. From 9.1 million visitors in 2000, arrivals to Macau has grown to 18.7 million visitors in 2005 and 22 million visitors in 2006, with over 50% of the arrivals coming from mainland China and another 30% from Hong Kong.[28] Macau is expected to receive between 24 and 25 million visitors in 2007.[29] Macau also received the Future Award 2007, voted by 26,000 German travel trade members of GoAsia, for being regarded as the most promising future tourism destination in Asia.[30] Macau is currently rated as one of the world's top tourism destinations by the World Tourism Organization.[31]
 
 Manufacturing
 
@@ -86,7 +86,7 @@ There are twenty other licensed banks, sixteen of which are foreign. Macau has f
 
 Construction
 
-Porte_16_(unfinished).JPG under construction]] In 2014, the construction sectors in Macau engaged 45,368 people. The value of construction was MOP78.15 billion, in which MOP66.88 billion belong to the private sectors. The intermediate consumption was MOP61.03 billion and labor cost was MOP11.35 billion.[38]
+under construction]] In 2014, the construction sectors in Macau engaged 45,368 people. The value of construction was MOP78.15 billion, in which MOP66.88 billion belong to the private sectors. The intermediate consumption was MOP61.03 billion and labor cost was MOP11.35 billion.[38]
 
 Transportation companies
 
@@ -113,7 +113,7 @@ Nevertheless, Macau's public sector appears to be quite small. Workers in the pu
 
 Energy
 
-Coloane_A_Power_Station.JPG]]
+]]
 
 ELECTRICITY – PRODUCTION: 1.893 billion kWh (2004)
 _fossil fuel:_ 100%

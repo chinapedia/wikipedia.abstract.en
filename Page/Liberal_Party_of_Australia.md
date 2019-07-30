@@ -21,7 +21,7 @@ The formation of the party was formally announced at Sydney Town Hall on 31 Augu
 
 Menzies era
 
-Portrait_Menzies_1941.jpg, founder of the Liberal Party and Prime Minister 1939–41 (UAP) and 1949–66]] Menzies_Lyons_Harrison_Holt_AAF.jpg, Dame Enid Lyons (the first woman member of an Australian Cabinet), Sir Eric Harrison, Harold Holt (Menzies' successor) and Tom White, in 1946.]] After an initial loss to Labor at the 1946 election, Menzies led the Liberals to victory at the 1949 election, and the party stayed in office for a record 23 years— the longest unbroken run ever in government at the federal level. Australia experienced prolonged economic growth during the post-war boom period of the Menzies Government (1949–1966) and Menzies fulfilled his promises at the 1949 election to end rationing of butter, tea and petrol and provided a five-shilling endowment for first-born children, as well as for others.[15] While himself an unashamed anglophile, Menzies' government concluded a number of major defence and trade treaties that set Australia on its post-war trajectory out of Britain's orbit; opened up Australia to multi-ethnic immigration; and instigated important legal reforms regarding Aboriginal Australians.
+, founder of the Liberal Party and Prime Minister 1939–41 (UAP) and 1949–66]] , Dame Enid Lyons (the first woman member of an Australian Cabinet), Sir Eric Harrison, Harold Holt (Menzies' successor) and Tom White, in 1946.]] After an initial loss to Labor at the 1946 election, Menzies led the Liberals to victory at the 1949 election, and the party stayed in office for a record 23 years— the longest unbroken run ever in government at the federal level. Australia experienced prolonged economic growth during the post-war boom period of the Menzies Government (1949–1966) and Menzies fulfilled his promises at the 1949 election to end rationing of butter, tea and petrol and provided a five-shilling endowment for first-born children, as well as for others.[15] While himself an unashamed anglophile, Menzies' government concluded a number of major defence and trade treaties that set Australia on its post-war trajectory out of Britain's orbit; opened up Australia to multi-ethnic immigration; and instigated important legal reforms regarding Aboriginal Australians.
 
 Menzies was strongly opposed to Labor's plans to nationalise the Australian banking system and, following victory at the 1949 election, secured a double dissolution election for April 1951, after the Labor-controlled Senate rejected his banking legislation. The Liberal-Country Coalition was returned with control of the Senate. The Government was re-elected again at the 1954 election; the formation of the anti-Communist Democratic Labor Party (DLP) and the consequent split in the Australian Labor Party early in 1955 helped the Liberals to secure another victory in December 1955. John McEwen replaced Arthur Fadden as leader of the Country Party in March 1958 and the Menzies-McEwen Coalition was returned again at elections in November 1958—their third victory against Labor's H. V. Evatt. The Coalition was narrowly returned against Labor's Arthur Calwell in the December 1961 election, in the midst of a credit squeeze. Menzies stood for office for the last time at the November 1963 election, again defeating Calwell, with the Coalition winning back its losses in the House of Representatives. Menzies went on to resign from parliament on 26 January 1966.[16]
 
@@ -37,13 +37,13 @@ Menzies retired in 1966 as Australia's longest-serving Prime Minister.
 
 Holt Government
 
-Harold_Holt_1965_01.jpg, Prime Minister 1966–67]] CongressBuilding_SEATO.jpg (second from left), with SEATO leaders in Manila, in 1966. The Liberal Party was in power through much of the early Post-War period in which Australia's allegiances, immigration and trade policies shifted away from reliance on the United Kingdom.]] Harold Holt replaced the retiring Robert Menzies in 1966 and the Holt Government went on to win 82 seats to Labor's 41 at the 1966 election.[24] Holt remained Prime Minister until 19 December 1967, when he was declared presumed dead two days after disappearing in rough surf in which he had gone for a swim. As of 2018, his body has still not been found.
+, Prime Minister 1966–67]] (second from left), with SEATO leaders in Manila, in 1966. The Liberal Party was in power through much of the early Post-War period in which Australia's allegiances, immigration and trade policies shifted away from reliance on the United Kingdom.]] Harold Holt replaced the retiring Robert Menzies in 1966 and the Holt Government went on to win 82 seats to Labor's 41 at the 1966 election.[24] Holt remained Prime Minister until 19 December 1967, when he was declared presumed dead two days after disappearing in rough surf in which he had gone for a swim. As of 2018, his body has still not been found.
 
 Holt increased Australian commitment to the growing War in Vietnam, which met with some public opposition. His government oversaw conversion to decimal currency. Holt faced Britain's withdrawal from Asia by visiting and hosting many Asian leaders and by expanding ties to the United States, hosting the first visit to Australia by an American president, his friend Lyndon B. Johnson. Holt's government introduced the _Migration Act 1966_, which effectively dismantled the White Australia Policy and increased access to non-European migrants, including refugees fleeing the Vietnam War. Holt also called the 1967 Referendum which removed the discriminatory clause in the Australian Constitution which excluded Aboriginal Australians from being counted in the census – the referendum was one of the few to be overwhelmingly endorsed by the Australian electorate (over 90% voted "Yes"). By the end of 1967, the Liberals' initially popular support for the war in Vietnam was causing increasing public protest.[25]
 
 Gorton Government
 
-JohnGorton1968.jpg, Prime Minister 1968–71]] John_Gorton_Swearing_In.jpg being sworn in as Prime Minister by Lord Casey on 10 January 1968. Gorton led Australia into the tumultuous decade of the 1970s. Gorton declared himself "Australian to the bootheels" and increased funding for Australian cinema and arts to project a newly assertive Australian nationalism.]] The Liberals chose John Gorton to replace Holt. Gorton, a former World War II Royal Australian Air Force pilot, with a battle scarred face, said he was "Australian to the bootheels" and had a personal style which often affronted some conservatives.
+, Prime Minister 1968–71]] being sworn in as Prime Minister by Lord Casey on 10 January 1968. Gorton led Australia into the tumultuous decade of the 1970s. Gorton declared himself "Australian to the bootheels" and increased funding for Australian cinema and arts to project a newly assertive Australian nationalism.]] The Liberals chose John Gorton to replace Holt. Gorton, a former World War II Royal Australian Air Force pilot, with a battle scarred face, said he was "Australian to the bootheels" and had a personal style which often affronted some conservatives.
 
 The Gorton Government increased funding for the arts, setting up the Australian Council for the Arts, the Australian Film Development Corporation and the National Film and Television Training School. The Gorton Government passed legislation establishing equal pay for men and women and increased pensions, allowances and education scholarships, as well as providing free health care to 250,000 of the nation's poor (but not universal health care). Gorton's government kept Australia in the Vietnam War but stopped replacing troops at the end of 1970.[26]
 
@@ -51,7 +51,7 @@ Gorton maintained good relations with the United States and Britain, but pursued
 
 McMahon Government and Snedden leadership
 
-McMahon_1971_(cropped).jpg, Prime Minister 1971–72]] Billy_Snedden_1972.jpg, Opposition Leader 1972–75]] Former treasurer, William McMahon, replaced Gorton as Prime Minister. Gorton remained a front bencher but relations with Fraser remained strained. The McMahon Government ended when Gough Whitlam led the Australian Labor Party out of its 23-year period in Opposition at the 1972 election.
+, Prime Minister 1971–72]] , Opposition Leader 1972–75]] Former treasurer, William McMahon, replaced Gorton as Prime Minister. Gorton remained a front bencher but relations with Fraser remained strained. The McMahon Government ended when Gough Whitlam led the Australian Labor Party out of its 23-year period in Opposition at the 1972 election.
 
 The economy was weakening. McMahon maintained Australia's diminishing commitment to Vietnam and criticised Opposition leader, Gough Whitlam, for visiting Communist China in 1972—only to have the US President Richard Nixon announce a planned visit soon after.[28]
 
@@ -61,13 +61,13 @@ Following Whitlam's victory, John Gorton played a further role in reform by intr
 
 Fraser years
 
-Malcolm_Fraser_1977_-_crop.jpg, Prime Minister 1975–83]] Frasers_Reagans.jpg (second right) and Tamie Fraser (left) with US President Ronald Reagan and Nancy at the White House in 1982. Fraser came to power amidst the divisive 1975 Australian constitutional crisis, but went on to lead Australia into the 1980s.]] Following the 1974–75 Loans Affair, the Malcolm Fraser led Liberal-Country Party Coalition argued that the Whitlam Government was incompetent and delayed passage of the Government's money bills in the Senate, until the government would promise a new election. Whitlam refused, yet Fraser insisted leading to the divisive 1975 Australian constitutional crisis. The deadlock came to an end when the Whitlam government was dismissed by the Governor-General, Sir John Kerr on 11 November 1975 and Fraser was installed as caretaker Prime Minister, pending an election. Fraser won in a landslide at the resulting 1975 election.
+, Prime Minister 1975–83]] (second right) and Tamie Fraser (left) with US President Ronald Reagan and Nancy at the White House in 1982. Fraser came to power amidst the divisive 1975 Australian constitutional crisis, but went on to lead Australia into the 1980s.]] Following the 1974–75 Loans Affair, the Malcolm Fraser led Liberal-Country Party Coalition argued that the Whitlam Government was incompetent and delayed passage of the Government's money bills in the Senate, until the government would promise a new election. Whitlam refused, yet Fraser insisted leading to the divisive 1975 Australian constitutional crisis. The deadlock came to an end when the Whitlam government was dismissed by the Governor-General, Sir John Kerr on 11 November 1975 and Fraser was installed as caretaker Prime Minister, pending an election. Fraser won in a landslide at the resulting 1975 election.
 
 Fraser maintained some of the social reforms of the Whitlam era, while seeking increased fiscal restraint. His government included the first Aboriginal federal parliamentarian, Neville Bonner, and in 1976, Parliament passed the Aboriginal Land Rights Act 1976, which, while limited to the Northern Territory, affirmed "inalienable" freehold title to some traditional lands. Fraser established the multicultural broadcaster SBS, accepted Vietnamese refugees, opposed minority white rule in Apartheid South Africa and Rhodesia and opposed Soviet expansionism. A significant program of economic reform, however, was not pursued. By 1983, the Australian economy was suffering with the early 1980s recession and amidst the effects of a severe drought. Fraser had promoted "states' rights" and his government refused to use Commonwealth powers to stop the construction of the Franklin Dam in Tasmania in 1982.[32] Liberal minister Don Chipp split off from the party to form a new social liberal party, the Australian Democrats in 1977. Fraser won further substantial majorities at the 1977 and 1980 elections, before losing to the Bob Hawke-led Australian Labor Party in the 1983 election.[33]
 
 Federal opposition, state success
 
-Andrew_Peacock.jpg, Opposition Leader 1983–85, 1989-90]] John_Hewson_2016_01.jpg, Opposition Leader 1990–94]] Alexander_Downer.jpg, Opposition Leader 1994–95]] A period of division for the Liberals followed, with former Treasurer John Howard competing with former Foreign Minister Andrew Peacock for supremacy. The Australian economy was facing the early 1990s recession. Unemployment reached 11.4% in 1992. Under Dr John Hewson, in November 1991, the opposition launched the 650-page Fightback! policy document—a radical collection of "dry", economic liberal measures including the introduction of a Goods and Services Tax (GST), various changes to Medicare including the abolition of bulk billing for non-concession holders, the introduction of a nine-month limit on unemployment benefits, various changes to industrial relations including the abolition of awards, a $13 billion personal income tax cut directed at middle and upper income earners, $10 billion in government spending cuts, the abolition of state payroll taxes and the privatisation of a large number of government owned enterprises − representing the start of a very different future direction to the keynesian economic policies practiced by previous Liberal/National Coalition governments. The 15 percent GST was the centerpiece of the policy document. Through 1992, Labor Prime Minister Paul Keating mounted a campaign against the Fightback package, and particularly against the GST, which he described as an attack on the working class in that it shifted the tax burden from direct taxation of the wealthy to indirect taxation as a broad-based consumption tax. Pressure group activity and public opinion was relentless, which led Hewson to exempt food from the proposed GST—leading to questions surrounding the complexity of what food was and wasn't to be exempt from the GST. Hewson's difficulty in explaining this to the electorate was exemplified in the infamous birthday cake interview, considered by some as a turning point in the election campaign. Keating won a record fifth consecutive Labor term at the 1993 election. A number of the proposals were later adopted into law in some form, to a small extent during the Keating Labor government, and to a larger extent during the Howard Liberal government (most famously the GST), while unemployment benefits and bulk billing were re-targeted for a time by the Abbott Liberal government.
+, Opposition Leader 1983–85, 1989-90]] , Opposition Leader 1990–94]] , Opposition Leader 1994–95]] A period of division for the Liberals followed, with former Treasurer John Howard competing with former Foreign Minister Andrew Peacock for supremacy. The Australian economy was facing the early 1990s recession. Unemployment reached 11.4% in 1992. Under Dr John Hewson, in November 1991, the opposition launched the 650-page Fightback! policy document—a radical collection of "dry", economic liberal measures including the introduction of a Goods and Services Tax (GST), various changes to Medicare including the abolition of bulk billing for non-concession holders, the introduction of a nine-month limit on unemployment benefits, various changes to industrial relations including the abolition of awards, a $13 billion personal income tax cut directed at middle and upper income earners, $10 billion in government spending cuts, the abolition of state payroll taxes and the privatisation of a large number of government owned enterprises − representing the start of a very different future direction to the keynesian economic policies practiced by previous Liberal/National Coalition governments. The 15 percent GST was the centerpiece of the policy document. Through 1992, Labor Prime Minister Paul Keating mounted a campaign against the Fightback package, and particularly against the GST, which he described as an attack on the working class in that it shifted the tax burden from direct taxation of the wealthy to indirect taxation as a broad-based consumption tax. Pressure group activity and public opinion was relentless, which led Hewson to exempt food from the proposed GST—leading to questions surrounding the complexity of what food was and wasn't to be exempt from the GST. Hewson's difficulty in explaining this to the electorate was exemplified in the infamous birthday cake interview, considered by some as a turning point in the election campaign. Keating won a record fifth consecutive Labor term at the 1993 election. A number of the proposals were later adopted into law in some form, to a small extent during the Keating Labor government, and to a larger extent during the Howard Liberal government (most famously the GST), while unemployment benefits and bulk billing were re-targeted for a time by the Abbott Liberal government.
 
 At the state level, the Liberals have been dominant for long periods in all states except Queensland, where they have always held fewer seats than the National Party (not to be confused with the old Nationalist Party). The Liberals were in power in Victoria from 1955 to 1982. Jeff Kennett led the party back to office in that state in 1992, and remained Premier until 1999.
 
@@ -83,7 +83,7 @@ The Liberal Party does not officially contest most local government elections, a
 
 Howard Government
 
-Image-Howard2003upr.JPG, Prime Minister 1996–2007]] Vladimir_Putin_at_APEC_Summit_in_Australia_7-9_September_2007-18.jpg with APEC leaders in Sydney in 2007. Howard supported the traditional icons of Australian identity and its international allegiances, but oversaw booming trade with Asia and increased multiethnic immigration.]]
+, Prime Minister 1996–2007]] with APEC leaders in Sydney in 2007. Howard supported the traditional icons of Australian identity and its international allegiances, but oversaw booming trade with Asia and increased multiethnic immigration.]]
 
 Labor's Paul Keating lost the 1996 Election to the Liberals' John Howard. The Liberals had been in Opposition for 13 years.[35] With John Howard as Prime Minister, Peter Costello as Treasurer and Alexander Downer as Foreign Minister, the Howard Government remained in power until their electoral defeat to Kevin Rudd in 2007.
 
@@ -99,7 +99,7 @@ The 2007 federal election saw the defeat of the Howard federal government, and t
 
 After Howard
 
-BrendanNelson.JPG, Opposition Leader 2007–08]] Tony_Abbott_October_2014.jpg, Prime Minister 2013–15]] Malcolm_Turnbull_PEO_(cropped).jpg, Prime Minister 2015–18]] Following the 2007 federal election, Dr Brendan Nelson was elected leader by the Parliamentary Liberal Party. On 16 September 2008, in a second contest following a spill motion, Nelson lost the leadership to Malcolm Turnbull.[38] On 1 December 2009, a subsequent leadership election saw Turnbull lose the leadership to Tony Abbott by 42 votes to 41 on the second ballot.[39] Abbott led the party to the 2010 federal election, which saw an increase in the Liberal Party vote and resulted in the first hung parliament since the 1940 election.[40]
+, Opposition Leader 2007–08]] , Prime Minister 2013–15]] , Prime Minister 2015–18]] Following the 2007 federal election, Dr Brendan Nelson was elected leader by the Parliamentary Liberal Party. On 16 September 2008, in a second contest following a spill motion, Nelson lost the leadership to Malcolm Turnbull.[38] On 1 December 2009, a subsequent leadership election saw Turnbull lose the leadership to Tony Abbott by 42 votes to 41 on the second ballot.[39] Abbott led the party to the 2010 federal election, which saw an increase in the Liberal Party vote and resulted in the first hung parliament since the 1940 election.[40]
 
 Through 2010, the party remained in opposition at the Tasmanian and South Australian state elections and achieved state government in Victoria. In March 2011, the New South Wales Liberal-National Coalition led by Barry O'Farrell won government with the largest election victory in post-war Australian history at the State Election.[41] In Queensland, the Liberal and National parties merged in 2008 to form the new Liberal National Party of Queensland (registered as the Queensland Division of the Liberal Party of Australia). In March 2012, the new party achieved Government in an historic landslide, led by former Brisbane Lord Mayor, Campbell Newman.[42]
 
@@ -122,7 +122,7 @@ Further dissatisfaction within the Liberal Party has seen a number of centrist a
 
 Ideology and factions
 
-Scott_Morrison_2014_crop.jpg, Prime Minister 2018-present[48]]] The contemporary Liberal Party generally advocates economic liberalism (see New Right). Historically, the party has supported a higher degree of economic protectionism and interventionism than it has in recent decades. However, from its foundation the party has identified itself as an anti-socialist grouping of liberals and conservatives. Strong opposition to socialism and communism in Australia and abroad was one of its founding principles. The party's founder and longest-serving leader Robert Menzies envisaged that Australia's middle class would form its main constituency.[49]
+, Prime Minister 2018-present[48]]] The contemporary Liberal Party generally advocates economic liberalism (see New Right). Historically, the party has supported a higher degree of economic protectionism and interventionism than it has in recent decades. However, from its foundation the party has identified itself as an anti-socialist grouping of liberals and conservatives. Strong opposition to socialism and communism in Australia and abroad was one of its founding principles. The party's founder and longest-serving leader Robert Menzies envisaged that Australia's middle class would form its main constituency.[49]
 
 Towards the end of his term as Prime Minister of Australia and in a final address to the Liberal Party Federal Council in 1964, Menzies spoke of the "Liberal Creed" as follows:
 
@@ -176,33 +176,33 @@ _PM_: Prime Minister
 _LO_: Leader of the Opposition
 †: Died in office
 
-  No.              Leader   Portrait           Term of Office                       Position               Prime Minister
-  ---------------- -------- ------------------ ------------------------------------ ---------------------- -------------------
-                   1        Robert Menzies     Portrait_Menzies_1941.jpg            21 February 1945[62]   20 January 1966
+  No.              Leader   Portrait           Term of Office   Position               Prime Minister
+  ---------------- -------- ------------------ ---------------- ---------------------- -------------------
+                   1        Robert Menzies                      21 February 1945[62]   20 January 1966
   _PM_ 1949–1966            _Menzies_
-                   2        Harold Holt        Harold_Holt_1965_01.jpg              20 January 1966        19 December 1967
-                   —        _vacant_                                                19 December 1967       9 January 1968
-                   3        John Gorton        JohnGorton1968.jpg                   9 January 1968         10 March 1971
-                   4        William McMahon    McMahon_1971_(cropped).jpg           10 March 1971          20 December 1972
-                   5        Billy Snedden      Billy_Snedden_1972.jpg               20 December 1972       21 March 1975
-                   6        Malcolm Fraser     Malcolm_Fraser_1977_-_crop.jpg       21 March 1975          11 March 1983
+                   2        Harold Holt                         20 January 1966        19 December 1967
+                   —        _vacant_                            19 December 1967       9 January 1968
+                   3        John Gorton                         9 January 1968         10 March 1971
+                   4        William McMahon                     10 March 1971          20 December 1972
+                   5        Billy Snedden                       20 December 1972       21 March 1975
+                   6        Malcolm Fraser                      21 March 1975          11 March 1983
   _PM_ 1975–1983            _Fraser_
-                   7        Andrew Peacock     Andrew_Peacock.jpg                   11 March 1983          5 September 1985
-                   8        John Howard        John_howard.jpg                      5 September 1985       9 May 1989
-                   (7)      Andrew Peacock     Andrew_Peacock.jpg                   9 May 1989             3 April 1990
-                   9        John Hewson        John_Hewson_2016_01.jpg              3 April 1990           23 May 1994
+                   7        Andrew Peacock                      11 March 1983          5 September 1985
+                   8        John Howard                         5 September 1985       9 May 1989
+                   (7)      Andrew Peacock                      9 May 1989             3 April 1990
+                   9        John Hewson                         3 April 1990           23 May 1994
   _LO_ 1991–1994            Keating
-                   10       Alexander Downer   Alexander_Downer.jpg                 23 May 1994            30 January 1995
-                   (8)      John Howard        Image-Howard2003upr.JPG              30 January 1995        29 November 2007
+                   10       Alexander Downer                    23 May 1994            30 January 1995
+                   (8)      John Howard                         30 January 1995        29 November 2007
   _PM_ 1996–2007            _Howard_
-                   11       Brendan Nelson     BrendanNelson.JPG                    29 November 2007       16 September 2008
-                   12       Malcolm Turnbull   Turnbull.JPG                         16 September 2008      1 December 2009
-                   13       Tony Abbott        Prime_Minister_Tony_Abbott.jpg       1 December 2009        14 September 2015
+                   11       Brendan Nelson                      29 November 2007       16 September 2008
+                   12       Malcolm Turnbull                    16 September 2008      1 December 2009
+                   13       Tony Abbott                         1 December 2009        14 September 2015
   _LO_ 2010–2013            Gillard
   _LO_ 2013                 Rudd
   _PM_ 2013–2015            _Abbott_
-                   (12)     Malcolm Turnbull   Malcolm_Turnbull_PEO_(cropped).jpg   14 September 2015      24 August 2018
-                   14       Scott Morrison     Scott_Morrison_2014_crop.jpg         24 August 2018         _Incumbent_
+                   (12)     Malcolm Turnbull                    14 September 2015      24 August 2018
+                   14       Scott Morrison                      24 August 2018         _Incumbent_
 
 Federal leaders by time in office
 
@@ -376,7 +376,7 @@ Past state premiers and territory chief ministers
 
 Federal presidents
 
-RG_Menzies_House_June_2012.JPG]]
+]]
 
     _Shown in chronological order of presidency_
 

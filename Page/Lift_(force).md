@@ -1,4 +1,4 @@
-Wright_Glider_1902.jpg shows its lift by pulling up]]
+shows its lift by pulling up]]
 
 A fluid flowing past the surface of a body exerts a force on it. LIFT is the component of this force that is perpendicular to the oncoming flow direction.[1] It contrasts with the drag force, which is the component of the force parallel to the flow direction. Lift conventionally acts in an upward direction in order to counter the force of gravity, but it can act in any direction at right angles to the flow.
 
@@ -9,7 +9,7 @@ Dynamic lift is distinguished from other kinds of lift in fluids. Aerostatic lif
 
 Overview
 
-Airfoil_lift_and_drag.svg that is perpendicular to the flow direction, and drag is the component that is parallel to the flow direction.]]
+that is perpendicular to the flow direction, and drag is the component that is parallel to the flow direction.]]
 
 A fluid flowing past the surface of a body exerts a force on it. It makes no difference whether the fluid is flowing past a stationary body or the body is moving through a stationary volume of fluid. LIFT is the component of this force that is perpendicular to the oncoming flow direction.[2] Lift is always accompanied by a drag force, which is the component of the surface force parallel to the flow direction.
 
@@ -22,15 +22,11 @@ The lift discussed in this article is mainly in relation to airfoils, although m
 
 Simplified physical explanations of lift on an airfoil
 
-Airfoil_cross_section.jpg
-
 An airfoil is a streamlined shape that is capable of generating significantly more lift than drag.[6] A flat plate can generate lift, but not as much as a streamlined airfoil, and with somewhat higher drag.
 
 There are several ways to explain how an airfoil generates lift. Some are more complicated or more physically rigorous than others; some have been shown to be incorrect.[7][8][9][10][11] For example, there are explanations based directly on Newton's laws of motion and explanations based on Bernoulli’s principle. Either can be used to explain lift.[12][13]
 
 Flow deflection and Newton's laws
-
-AirfoilDeflectionLift_W3C.svg
 
 An airfoil generates lift by exerting a downward force on the air as it flows past. According to Newton's third law, the air must exert an equal and opposite (upward) force on the airfoil, which is lift.[14][15][16][17]
 
@@ -43,8 +39,6 @@ Increased flow speed and Bernoulli's principle
 Bernoulli's principle states that there is a direct mathematical relationship between the pressure of a fluid and the speed of that fluid, so if one knows the speed at all points within the airflow one can calculate the pressure, and vice versa.[24] For any airfoil generating lift, there must be a pressure imbalance, i.e. lower average air pressure on the top than on the bottom. Bernoulli's principle states that this pressure difference must be accompanied by a speed difference.
 
 Conservation of mass
-
-Streamlines_around_a_NACA_0012.svg
 
 Starting with the flow pattern observed in both theory and experiments, the increased flow speed over the upper surface can be explained in terms of streamtube pinching and conservation of mass.[25]
 
@@ -73,8 +67,6 @@ Alternative explanations, misconceptions, and controversies
 Many alternative explanations for the generation of lift by an airfoil have been put forward, most intended to explain the phenomenon of lift to a general audience. Although the explanations may share features in common with the explanations above, additional assumptions and simplifications may be introduced. Some explanations introduce assumptions which proved to be wrong, such as _equal transit-time_, and some used controversial terminology, such as "Coanda effect".
 
 False explanation based on equal transit-time
-
-Equal_transit-time_NASA_wrong1_en.svg
 
 Basic or popular sources often describe the "equal transit-time" theory of lift, which incorrectly assumes that the parcels of air that divide at the leading edge of an airfoil must rejoin at the trailing edge, forcing the air traveling along the longer upper surface to go faster. Bernoulli's principle is then cited to conclude that since the air moves slower along the bottom of the wing, the air pressure must be higher, pushing the wing up.[37]
 
@@ -105,15 +97,11 @@ The left side of this equation represents the pressure difference perpendicular 
 
 Angle of attack
 
-Airfoil_angle_of_attack.jpg
-
 The angle of attack is the angle between the chord line of an airfoil and the oncoming airflow. A symmetrical airfoil will generate zero lift at zero angle of attack. But as the angle of attack increases, the air is deflected through a larger angle and the vertical component of the airstream velocity increases, resulting in more lift. For small angles a symmetrical airfoil will generate a lift force roughly proportional to the angle of attack.[66][67]
 
 As the angle of attack increases, the lift reaches a maximum at some angle; increasing the angle of attack beyond this critical angle of attack causes the upper-surface flow to separate from the wing; there is less deflection downward so the airfoil generates less lift. The airfoil is said to be stalled.[68]
 
 Airfoil shape
-
-Airfoil_camber.jpg
 
 The lift force depends on the shape of the airfoil, especially the amount of camber (curvature such that the upper surface is more convex than the lower surface, as illustrated at right). Increasing the camber generally increases lift.[69][70]
 
@@ -134,8 +122,6 @@ No matter how smooth the surface of an airfoil seems, any surface is rough on th
 Under usual flight conditions, the boundary layer remains attached to both the upper and lower surfaces all the way to the trailing edge, and its effect on the rest of the flow is modest. Compared to the predictions of inviscid flow theory, in which there is no boundary layer, the attached boundary layer reduces the lift by a modest amount and modifies the pressure distribution somewhat, which results in a viscosity-related pressure drag over and above the skin-friction drag. The total of the skin-friction drag and the viscosity-related pressure drag is usually called the profile drag.[79][80]
 
 Stalling
-
-1915ca_abger_fluegel_(cropped_and_mirrored).jpg
 
 An airfoil's maximum lift at a given airspeed is limited by boundary-layer separation. As the angle of attack is increased, a point is reached where the boundary layer can no longer remain attached to the upper surface. When the boundary layer separates, it leaves a region of recirculating flow above the upper surface, as illustrated in the flow-visualization photo at right. This is known as the _stall_, or _stalling_. At angles of attack above the stall, lift is significantly reduced, though it does not drop to zero. The maximum lift that can be achieved before stall, in terms of the lift coefficient, is generally less than 1.5 for single-element airfoils and can be more than 3.0 for airfoils with high-lift slotted flaps and leading-edge devices deployed.[81]
 
@@ -162,9 +148,9 @@ The pressure difference which results in lift acts directly on the airfoil surfa
 
 The wider flow around the airfoil
 
-Karman_trefftz.gif, which split into two – an upper and lower part – at the leading edge. A marked speed difference between the upper-and lower-surface streamlines is shown most clearly in the image animation, with the upper markers arriving at the trailing edge long before the lower ones. Colors of the dots indicate streamlines.]]
+, which split into two – an upper and lower part – at the leading edge. A marked speed difference between the upper-and lower-surface streamlines is shown most clearly in the image animation, with the upper markers arriving at the trailing edge long before the lower ones. Colors of the dots indicate streamlines.]]
 
-Airfoil_isobars.jpg around a lifting airfoil. The plus sign indicates pressure higher than ambient, and the minus sign indicates pressure lower than ambient (NOT negative pressure in the absolute sense). The block arrows indicate the directions of net forces on fluid parcels in different parts of the flowfield.]]
+around a lifting airfoil. The plus sign indicates pressure higher than ambient, and the minus sign indicates pressure lower than ambient (NOT negative pressure in the absolute sense). The block arrows indicate the directions of net forces on fluid parcels in different parts of the flowfield.]]
 
 An airfoil affects the speed and direction of the flow over a wide area, producing a pattern called a _velocity field_. When an airfoil produces lift, the flow ahead of the airfoil is deflected upward, the flow above and below the airfoil is deflected downward, and the flow behind the airfoil is deflected upward again, leaving the air far behind the airfoil in the same state as the oncoming flow far ahead. The flow above the upper surface is sped up, while the flow below the airfoil is slowed down. Together with the upward deflection of air in front and the downward deflection of the air immediately behind, this establishes a net circulatory component of the flow. The downward deflection and the changes in flow speed are pronounced and extend over a wide area, as can be seen in the flow animation on the right. These differences in the direction and speed of the flow are greatest close to the airfoil and decrease gradually far above and below. All of these features of the velocity field also appear in theoretical models for lifting flows.[92][93]
 
@@ -272,8 +258,6 @@ In potential-flow theory, the flow is assumed to be incompressible. Incompressib
 
 A solution of the potential equation directly determines only the velocity field. The pressure field is deduced from the velocity field through Bernoulli's equation.
 
-Airfoil_Kutta_condition.jpg
-
 Applying potential-flow theory to a lifting flow requires special treatment and an additional assumption. The problem arises because lift on an airfoil in inviscid flow requires circulation in the flow around the airfoil (See "Circulation and the Kutta-Joukowski theorem" below), but a single potential function that is continuous throughout the domain around the airfoil cannot represent a flow with nonzero circulation. The solution to this problem is to introduce a branch cut, a curve or line from some point on the airfoil surface out to infinite distance, and to allow a jump in the value of the potential across the cut. The jump in the potential imposes circulation in the flow equal to the potential jump and thus allows nonzero circulation to be represented. However, the potential jump is a free parameter that is not determined by the potential equation or the other boundary conditions, and the solution is thus indeterminate. A potential-flow solution exists for any value of the circulation and any value of the lift. One way to resolve this indeterminacy is to impose the Kutta condition,[117][118] which is that, of all the possible solutions, the physically reasonable solution is the one in which the flow leaves the trailing edge smoothly. The streamline sketches illustrate one flow pattern with zero lift, in which the flow goes around the trailing edge and leaves the upper surface ahead of the trailing edge, and another flow pattern with positive lift, in which the flow leaves smoothly at the trailing edge in accordance with the Kutta condition.
 
 Linearized potential flow
@@ -281,8 +265,6 @@ Linearized potential flow
 This is potential-flow theory with the further assumptions that the airfoil is very thin and the angle of attack is small.[119] The linearized theory predicts the general character of the airfoil pressure distribution and how it is influenced by airfoil shape and angle of attack, but is not accurate enough for design work. For a 2D airfoil, such calculations can be done in a fraction of a second in a spreadsheet on a PC.
 
 Circulation and the Kutta-Joukowski theorem
-
-Circulation-around-aerofoil.svg
 
 When an airfoil generates lift, several components of the overall velocity field contribute to a net circulation of air around it: the upward flow ahead of the airfoil, the accelerated flow above, the decelerated flow below, and the downward flow behind.
 
@@ -297,10 +279,6 @@ The lift generated by a conventional airfoil is dictated by both its design and 
 
 Three-dimensional flow
 
-Wing_isobars.jpg
-
-Wing_velocity_vectors.jpg
-
 The flow around a three-dimensional wing involves significant additional issues, especially relating to the wing tips. For a wing of low aspect ratio, such as a typical delta wing, two-dimensional theories may provide a poor model and three-dimensional flow effects can dominate.[127] Even for wings of high aspect ratio, the three-dimensional effects associated with finite span can affect the whole span, not just close to the tips.
 
 Wing tips and spanwise distribution
@@ -309,13 +287,11 @@ The vertical pressure gradient at the wing tips causes air to flow sideways, out
 
 There is more downward turning of the flow than there would be in a two-dimensional flow with the same airfoil shape and sectional lift, and a higher sectional angle of attack is required to achieve the same lift compared to a two-dimensional flow.[130] The wing is effectively flying in a downdraft of its own making, as if the freestream flow were tilted downward, with the result that the total aerodynamic force vector is tilted backward slightly compared to what it would be in two dimensions. The additional backward component of the force vector is called lift-induced drag.
 
-Tip_vortex_rollup.png
-
 The difference in the spanwise component of velocity above and below the wing (between being in the inboard direction above and in the outboard direction below) persists at the trailing edge and into the wake downstream. After the flow leaves the trailing edge, this difference in velocity takes place across a relatively thin shear layer called a vortex sheet.
 
 Horseshoe vortex system
 
-Wing_horseshoe_vortex.jpg The wingtip flow leaving the wing creates a tip vortex. As the main vortex sheet passes downstream from the trailing edge, it rolls up at its outer edges, merging with the tip vortices. The combination of the wingtip vortices and the vortex sheets feeding them is called the vortex wake.
+The wingtip flow leaving the wing creates a tip vortex. As the main vortex sheet passes downstream from the trailing edge, it rolls up at its outer edges, merging with the tip vortices. The combination of the wingtip vortices and the vortex sheets feeding them is called the vortex wake.
 
 In addition to the vorticity in the trailing vortex wake there is vorticity in the wing's boundary layer, called 'bound vorticity', which connects the trailing sheets from the two sides of the wing into a vortex system in the general form of a horseshoe. The horseshoe form of the vortex system was recognized by the British aeronautical pioneer Lanchester in 1907.[131]
 
@@ -328,8 +304,6 @@ Manifestations of lift in the farfield
 
 Integrated force/momentum balance in lifting flows
 
-Airfoil_control_volumes.jpg
-
 The flow around a lifting airfoil must satisfy Newton's second law regarding conservation of momentum, both locally at every point in the flow field, and in an integrated sense over any extended region of the flow. For an extended region, Newton's second law takes the form of the _momentum theorem for a control volume_, where a control volume can be any region of the flow chosen for analysis. The momentum theorem states that the integrated force exerted at the boundaries of the control volume (a surface integral), is equal to the integrated time rate of change (material derivative) of the momentum of fluid parcels passing through the interior of the control volume. For a steady flow, this can be expressed in the form of the net surface integral of the flux of momentum through the boundary.[139]
 
 The lifting flow around a 2D airfoil is usually analyzed in a control volume that completely surrounds the airfoil, so that the inner boundary of the control volume is the airfoil surface, where the downward force per unit span  − L′ is exerted on the fluid by the airfoil. The outer boundary is usually either a large circle or a large rectangle. At this outer boundary distant from the airfoil, the velocity and pressure are well represented by the velocity and pressure associated with a uniform flow plus a vortex, and viscous stress is negligible, so that the only force that must be integrated over the outer boundary is the pressure.[140][141][142] The free-stream velocity is usually assumed to be horizontal, with lift vertically upward, so that the vertical momentum is the component of interest.
@@ -339,8 +313,6 @@ For the free-air case (no ground plane), the force  − L′ exerted by the 
 The results of all of the control-volume analyses described above are consistent with the Kutta-Joukowski theorem described above. Both the tall rectangle and circle control volumes have been used in derivations of the theorem.[148][149]
 
 Lift reacted by overpressure on the ground under an airplane
-
-Pressure_footprint_isometric_b.jpg
 
 An airfoil produces a pressure field in the surrounding air, as explained under "The wider flow around the airfoil" above. The pressure differences associated with this field die off gradually, becoming very small at large distances, but never disappearing altogether. Below the airplane, the pressure field persists as a positive pressure disturbance that reaches the ground, forming a pattern of slightly-higher-than-ambient pressure on the ground, as shown on the right.[150] Although the pressure differences are very small far below the airplane, they are spread over a wide area and add up to a substantial force. For steady, level flight, the integrated force due to the pressure differences is equal to the total aerodynamic lift of the airplane and to the airplane's weight. According to Newton's third law, this pressure force exerted on the ground by the air is matched by an equal-and-opposite upward force exerted on the air by the ground, which offsets all of the downward force exerted on the air by the airplane. The net force due to the lift, acting on the atmosphere as a whole, is therefore zero, and thus there is no integrated accumulation of vertical momentum in the atmosphere, as was noted by Lanchester early in the development of modern aerodynamics.[151]
 

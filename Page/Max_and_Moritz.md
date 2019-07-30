@@ -1,4 +1,4 @@
-Aggregate series (A2)}} Max_und_Moritz.JPG
+Aggregate series (A2)}}
 
 _MAX AND MORITZ: A STORY OF SEVEN BOYISH PRANKS_ (original: _MAX UND MORITZ – EINE BUBENGESCHICHTE IN SIEBEN STREICHEN_) is a German language illustrated story in verse. This highly inventive, blackly humorous tale, told entirely in rhymed couplets, was written and illustrated by Wilhelm Busch and published in 1865. It is among the early works of Busch, yet it already featured many substantial, effectually aesthetic and formal regularities, procedures and basic patterns of Busch's later works.[1] Many familiar with comic strip history consider it to have been the direct inspiration for the _Katzenjammer Kids_ and _Quick & Flupke_. The German title satirizes the German custom of giving a subtitle to the name of dramas in the form of "Ein Drama in ... Akten" (_A Drama in ... Acts_), which became dictum in colloquial usage for any event with an unpleasant or dramatic course, e.g. "Bundespräsidentenwahl - Drama in drei Akten" (_Federal Presidential Elections - Drama in Three Acts_).[2]
 
@@ -17,8 +17,6 @@ After World War 2, German-U.S. composer Richard Mohaupt created together with ch
 
 
 The pranks
-
-Max_und_Moritz_tinted_3.png Max_und_Moritz_tinted_21.png Max_und_Moritz_(Busch)_029.png Max_und_Moritz_(Busch)_045.png Max_und_Moritz_(Busch)_057.png Max_und_Moritz_(Busch)_076.png Max_und_Moritz_(Busch)_092.png
 
 There have been several English translations of the original German verses over the years, but all have maintained the original trochaic tetrameter:
 

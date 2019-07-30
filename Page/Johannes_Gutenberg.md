@@ -11,8 +11,6 @@ His major work, the Gutenberg Bible (also known as the 42-line Bible), was the f
 
 Early life
 
-Johannes_Gutenberg.jpg
-
 Gutenberg was born in the German city of Mainz, the youngest son of the patrician merchant Friele Gensfleisch zur Laden, and his second wife, Else Wyrich, who was the daughter of a shopkeeper. It is assumed that he was baptized in the area close to his birthplace of St. Christoph.[8] According to some accounts, Friele was a goldsmith for the bishop at Mainz, but most likely, he was involved in the cloth trade.[9] Gutenberg's year of birth is not precisely known, but it was sometime between the years of 1394 and 1404. In the 1890s the city of Mainz declared his official and symbolic date of birth to be June 24, 1400.[10]
 
 John Lienhard, technology historian, says "Most of Gutenberg's early life is a mystery. His father worked with the ecclesiastic mint. Gutenberg grew up knowing the trade of goldsmithing."[11] This is supported by historian Heinrich Wallau, who adds, "In the 14th and 15th centuries his [ancestors] claimed a hereditary position as ... retainers of the household of the master of the archiepiscopal mint. In this capacity they doubtless acquired considerable knowledge and technical skill in metal working. They supplied the mint with the metal to be coined, changed the various species of coins, and had a seat at the assizes in forgery cases."[12]
@@ -25,8 +23,6 @@ Nothing is now known of Gutenberg's life for the next fifteen years, but in Marc
 
 
 Printing press
-
-Printer_in_1568-ce.png
 
 Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a "secret". It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–40, the Dutch Laurens Janszoon Coster came up with the idea of printing.[19] Legend has it that the idea came to him "like a ray of light".[20]
 
@@ -59,7 +55,7 @@ In 1504, he was mentioned as the inventor of typography in a book by Professor I
 
 Printed books
 
-Gutenberg_Bible.jpg, Washington, D.C.]]
+, Washington, D.C.]]
 
 Between 1450 and 1455, Gutenberg printed several texts, some of which remain unidentified; his texts did not bear the printer's name or date, so attribution is possible only from typographical evidence and external references. Certainly several church documents including a papal letter and two indulgences were printed, one of which was issued in Mainz. In view of the value of printing in quantity, seven editions in two styles were ordered, resulting in several thousand copies being printed.[28] Some printed editions of _Ars Minor_, a schoolbook on Latin grammar by Aelius Donatus may have been printed by Gutenberg; these have been dated either 1451–52 or 1455.
 
@@ -72,11 +68,7 @@ An undated 36-line edition of the Bible was printed, probably in Bamberg in 1458
 
 Printing method with movable type
 
-Metal_movable_type.jpg
-
-95Thesen.jpg'' which sparked off the Reformation in a print edition from 1522. Within the span of only two years, Luther's tracts were distributed in 300,000 printed copies throughout Germany and Europe.[32]]]
-
-European_Output_of_Printed_Books_ca._1450–1800.png
+'' which sparked off the Reformation in a print edition from 1522. Within the span of only two years, Luther's tracts were distributed in 300,000 printed copies throughout Germany and Europe.[32]]]
 
 Gutenberg's early printing process, and what texts he printed with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts.[33] Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.
 
@@ -84,15 +76,13 @@ Gutenberg's technique of making movable type remains unclear. In the following d
 
 In the standard process of making type, a hard metal punch (made by punchcutting, with the letter carved back to front) is hammered into a softer copper bar, creating a _matrix_. This is then placed into a hand-held mould and a piece of type, or "sort", is cast by filling the mould with molten type-metal; this cools almost at once, and the resulting piece of type can be removed from the mould. The matrix can be reused to create hundreds, or thousands, of identical sorts so that the same character appearing anywhere within the book will appear very uniform, giving rise, over time, to the development of distinct styles of typefaces or fonts. After casting, the sorts are arranged into type cases, and used to make up pages which are inked and printed, a procedure which can be repeated hundreds, or thousands, of times. The sorts can be reused in any combination, earning the process the name of "movable type". (For details, see Typography.)
 
-Printing3_Walk_of_Ideas_Berlin.JPG − sculpture commemorating its inventor Gutenberg]]
+− sculpture commemorating its inventor Gutenberg]]
 
 The invention of the making of types with punch, matrix and mold has been widely attributed to Gutenberg. However, recent evidence suggests that Gutenberg's process was somewhat different. If he used the punch and matrix approach, all his letters should have been nearly identical, with some variation due to miscasting and inking. However, the type used in Gutenberg's earliest work shows other variations.
 
 In 2001, the physicist Blaise Agüera y Arcas and Princeton librarian Paul Needham, used digital scans of a Papal bull in the Scheide Library, Princeton, to carefully compare the same letters (types) appearing in different parts of the printed text.[34][35] The irregularities in Gutenberg's type, particularly in simple characters such as the hyphen, suggested that the variations could not have come either from ink smear or from wear and damage on the pieces of metal on the types themselves. Although some identical types are clearly used on other pages, other variations, subjected to detailed image analysis, suggested that they could not have been produced from the same matrix. Transmitted light pictures of the page also appeared to reveal substructures in the type that could not arise from traditional punchcutting techniques. They hypothesized that the method involved impressing simple shapes to create alphabets in "cuneiform" style in a matrix made of some soft material, perhaps sand. Casting the type would destroy the mould, and the matrix would need to be recreated to make each additional sort. This could explain the variations in the type, as well as the substructures observed in the printed images.
 
 Thus, they speculated that "the decisive factor for the birth of typography", the use of reusable moulds for casting type, was a more progressive process than was previously thought.[36] They suggested that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains uncertain.[37]
-
-Miklós_Andor_in_the_page-setting_room_of_Athenaeum_Printing_House_-_cca._1920_(1).tiff
 
 A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster,[38][39] while it actually credits Gutenberg as the "first inventor of printing" in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471,[40] and the Coster connection is today regarded as a mere legend.[41]
 
@@ -103,19 +93,19 @@ It has also been questioned whether Gutenberg used movable types at all. In 2004
 
 Legacy
 
-Mainz,_Germany,_Silver_Medal_1840,_Gutenberg_Printing_Press_400th_Anniversary,_obverse.jpg on the medal for Gutenberg's Printing Press 400th anniversary, obverse.]] Mainz,_Germany,_Silver_Medal_1840,_Gutenberg_Printing_Press_400th_Anniversary,_reverse.jpg Although Gutenberg was financially unsuccessful in his lifetime, the printing technologies spread quickly, and news and books began to travel across Europe much faster than before. It fed the growing Renaissance, and since it greatly facilitated scientific publishing, it was a major catalyst for the later scientific revolution.
+on the medal for Gutenberg's Printing Press 400th anniversary, obverse.]] Although Gutenberg was financially unsuccessful in his lifetime, the printing technologies spread quickly, and news and books began to travel across Europe much faster than before. It fed the growing Renaissance, and since it greatly facilitated scientific publishing, it was a major catalyst for the later scientific revolution.
 
 The capital of printing in Europe shifted to Venice, where visionary printers like Aldus Manutius ensured widespread availability of the major Greek and Latin texts. The claims of an Italian origin for movable type have also focused on this rapid rise of Italy in movable-type printing. This may perhaps be explained by the prior eminence of Italy in the paper and printing trade. Additionally, Italy's economy was growing rapidly at the time, facilitating the spread of literacy. Christopher Columbus had a geography book (printed with movable type) bought by his father. That book is in a Spanish museum. Finally, the city of Mainz was sacked in 1462, driving many (including a number of printers and punch cutters) into exile.
 
 Printing was also a factor in the Reformation. Martin Luther's 95 Theses were printed and circulated widely; subsequently he issued broadsheets outlining his anti-indulgences position (certificates of indulgences were one of the first items Gutenberg had printed). The broadsheet contributed to development of the newspaper.
 
-Featherbed_Alley_Printshop_Bermuda.jpg Museum, in Bermuda]]
+Museum, in Bermuda]]
 
 In the decades after Gutenberg, many conservative patrons looked down on cheap printed books; books produced by hand were considered more desirable.
 
 Today there is a large antique market for the earliest printed objects. Books printed prior to 1500 are known as _incunabula_.
 
-There are many statues of Gutenberg in Germany, including the famous one by Bertel Thorvaldsen (1837) at Gutenbergplatz in Mainz, home to the eponymous Johannes Gutenberg University of Mainz and the Gutenberg Museum on the history of early printing. The latter publishes the _Gutenberg-Jahrbuch_, the leading periodical in the field. Gutenberg_Bible_1952_Issue-3c.jpg Project Gutenberg, the oldest digital library,[43] commemorates Gutenberg's name. The Mainzer Johannisnacht commemorates the person Johannes Gutenberg in his native city since 1968.
+There are many statues of Gutenberg in Germany, including the famous one by Bertel Thorvaldsen (1837) at Gutenbergplatz in Mainz, home to the eponymous Johannes Gutenberg University of Mainz and the Gutenberg Museum on the history of early printing. The latter publishes the _Gutenberg-Jahrbuch_, the leading periodical in the field. Project Gutenberg, the oldest digital library,[43] commemorates Gutenberg's name. The Mainzer Johannisnacht commemorates the person Johannes Gutenberg in his native city since 1968.
 
 In 1952, the United States Postal Service issued a five hundredth anniversary stamp commemorating Johannes Gutenberg invention of the movable-type printing press.
 

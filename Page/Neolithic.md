@@ -7,7 +7,7 @@ The term _Neolithic_ derives from the Greek , "new" and , "stone", literally mea
 
 Origin
 
-Centres_of_origin_and_spread_of_agriculture.svg and its spread in prehistory: the Fertile Crescent (11,000 BP), the Yangtze and Yellow River basins (9,000 BP) and the New Guinea Highlands (9,000–6,000 BP), Central Mexico (5,000–4,000 BP), Northern South America (5,000–4,000 BP), sub-Saharan Africa (5,000–4,000 BP, exact location unknown), eastern North America (4,000–3,000 BP).[4]]]
+and its spread in prehistory: the Fertile Crescent (11,000 BP), the Yangtze and Yellow River basins (9,000 BP) and the New Guinea Highlands (9,000–6,000 BP), Central Mexico (5,000–4,000 BP), Northern South America (5,000–4,000 BP), sub-Saharan Africa (5,000–4,000 BP, exact location unknown), eastern North America (4,000–3,000 BP).[4]]]
 
 Following the ASPRO chronology, the Neolithic started in around 10,200 BC in the Levant, arising from the Natufian culture, when pioneering use of wild cereals evolved into early farming. The Natufian period or "proto-Neolithic" lasted from 12,500 to 9,500 BC, and is taken to overlap with the Pre-Pottery Neolithic (PPNA) of 10,200–8800 BC. As the Natufians had become dependent on wild cereals in their diet, and a sedentary way of life had begun among them, the climatic changes associated with the Younger Dryas (about 10,000 BC) are thought to have forced people to develop farming.
 
@@ -19,8 +19,6 @@ Not all of these cultural elements characteristic of the Neolithic appeared ever
 
 
 Periods by pottery phase
-
-Néolithique_0001.jpg
 
 In the Middle East, cultures identified as Neolithic began appearing in the 10th millennium BC. Early development occurred in the Levant (e.g., Pre-Pottery Neolithic A and Pre-Pottery Neolithic B) and from there spread eastwards and westwards. Neolithic cultures are also attested in southeastern Anatolia and northern Mesopotamia by around 8000 BC.
 
@@ -38,7 +36,7 @@ Settlements became more permanent, with circular houses, much like those of the 
 
 Neolithic 2 – Pre-Pottery Neolithic B (PPNB)
 
-Neolitico_B,_fugurine_maschile_e_femminile,_da_tell_fakhariyah,_alabastro,_bitume_e_pietra,_9000-7000_ac_ca.jpg with bitumen and stone inlays; from Tell Fekheriye (Al-Hasakah Governorate of Syria); University of Chicago Oriental Institute (USA)]] The Neolithic 2 (PPNB) began around 8800 BC according to the ASPRO chronology in the Levant (Jericho, West Bank). As with the PPNA dates, there are two versions from the same laboratories noted above. This system of terminology, however, is not convenient for southeast Anatolia and settlements of the middle Anatolia basin. A settlement of 3,000 inhabitants was found in the outskirts of Amman, Jordan. Considered to be one of the largest prehistoric settlements in the Near East, called 'Ain Ghazal, it was continuously inhabited from approximately 7250 BC to approximately 5000 BC.[11]
+with bitumen and stone inlays; from Tell Fekheriye (Al-Hasakah Governorate of Syria); University of Chicago Oriental Institute (USA)]] The Neolithic 2 (PPNB) began around 8800 BC according to the ASPRO chronology in the Levant (Jericho, West Bank). As with the PPNA dates, there are two versions from the same laboratories noted above. This system of terminology, however, is not convenient for southeast Anatolia and settlements of the middle Anatolia basin. A settlement of 3,000 inhabitants was found in the outskirts of Amman, Jordan. Considered to be one of the largest prehistoric settlements in the Near East, called 'Ain Ghazal, it was continuously inhabited from approximately 7250 BC to approximately 5000 BC.[11]
 
 Settlements have rectangular mud-brick houses where the family lived together in single or multiple rooms. Burial findings suggest an ancestor cult where people preserved skulls of the dead, which were plastered with mud to make facial features. The rest of the corpse could have been left outside the settlement to decay until only the bones were left, then the bones were buried inside the settlement underneath the floor or between houses.
 
@@ -55,7 +53,7 @@ Western Asia
 
 Fertile Crescent
 
-20100923_amman37.JPG found at 'Ain Ghazal in Jordan, are considered to be one of the earliest large-scale representations of the human form dating back to around 7250 BC.]] Around 10,000 BC the first fully developed Neolithic cultures belonging to the phase Pre-Pottery Neolithic A (PPNA) appeared in the Fertile Crescent. Around 10,700–9400 BC a settlement was established in Tell Qaramel, north of Aleppo. The settlement included two temples dating to 9650 BC.[13] Around 9000 BC during the PPNA, one of the world's first towns, Jericho, appeared in the Levant. It was surrounded by a stone wall and contained a population of 2,000–3,000 people and a massive stone tower.[14] Around 6400 BC the Halaf culture appeared in Syria and Northern Mesopotamia.
+found at 'Ain Ghazal in Jordan, are considered to be one of the earliest large-scale representations of the human form dating back to around 7250 BC.]] Around 10,000 BC the first fully developed Neolithic cultures belonging to the phase Pre-Pottery Neolithic A (PPNA) appeared in the Fertile Crescent. Around 10,700–9400 BC a settlement was established in Tell Qaramel, north of Aleppo. The settlement included two temples dating to 9650 BC.[13] Around 9000 BC during the PPNA, one of the world's first towns, Jericho, appeared in the Levant. It was surrounded by a stone wall and contained a population of 2,000–3,000 people and a massive stone tower.[14] Around 6400 BC the Halaf culture appeared in Syria and Northern Mesopotamia.
 
 In 1981 a team of researchers from the Maison de l'Orient et de la Méditerranée, including Jacques Cauvin and Oliver Aurenche divided Near East neolithic chronology into ten periods (0 to 9) based on social, economic and cultural characteristics.[15] In 2002 Danielle Stordeur and Frédéric Abbès advanced this system with a division into five periods.
 
@@ -73,15 +71,13 @@ Alluvial plains (Sumer/Elam). Low rainfall makes irrigation systems necessary. U
 
 North Africa
 
-African_cave_paintings.jpg
-
 Domestication of sheep and goats reached Egypt from the Near East possibly as early as 6000 BC.[18][19][20] Graeme Barker states "The first indisputable evidence for domestic plants and animals in the Nile valley is not until the early fifth millennium BC in northern Egypt and a thousand years later further south, in both cases as part of strategies that still relied heavily on fishing, hunting, and the gathering of wild plants" and suggests that these subsistence changes were not due to farmers migrating from the Near East but was an indigenous development, with cereals either indigenous or obtained through exchange.[21] Other scholars argue that the primary stimulus for agriculture and domesticated animals (as well as mud-brick architecture and other Neolithic cultural features) in Egypt was from the Middle East.[22][23][24]
 
 Sub-Saharan Africa
 
 Europe
 
-Golemata_Majka.jpg, North Macedonia]] European-late-neolithic-english.svg, 3500 BC]] Skara_Brae_house_1_5.jpg, Scotland. Evidence of home furnishings (shelves)]]
+, North Macedonia]] , 3500 BC]] , Scotland. Evidence of home furnishings (shelves)]]
 
 In southeast Europe agrarian societies first appeared in the 7th millennium BC, attested by one of the earliest farming sites of Europe, discovered in Vashtëmi, southeastern Albania and dating back to 6500 BC.[25][26] In Northwest Europe it is much later, typically lasting just under 3,000 years from c. 4500 BC–1700 BC.
 
@@ -114,9 +110,7 @@ Cultural characteristics
 
 Social organization
 
-Néolithique_0008.jpg MotherGoddessFertility.JPG
-
-During most of the Neolithic age of Eurasia, people lived in small tribes composed of multiple bands or lineages.[44] There is little scientific evidence of developed social stratification in most Neolithic societies; social stratification is more associated with the later Bronze Age.[45] Although some late Eurasian Neolithic societies formed complex stratified chiefdoms or even states, generally states evolved in Eurasia only with the rise of metallurgy, and most Neolithic societies on the whole were relatively simple and egalitarian.[46] Beyond Eurasia, however, states were formed during the local Neolithic in three areas, namely in the Preceramic Andes with the Norte Chico Civilization,[47][48] Formative Mesoamerica and Ancient Hawaiʻi.[49] However, most Neolithic societies were noticeably more hierarchical than the Upper Paleolithic cultures that preceded them and hunter-gatherer cultures in general.[50][51] Clay_human_figurine_(Fertility_goddess)_Tappeh_Sarab,_Kermanshah_ca._7000-6100_BCE_Neolithic_period,_National_Museum_of_Iran.jpg The domestication of large animals (c. 8000 BC) resulted in a dramatic increase in social inequality in most of the areas where it occurred; New Guinea being a notable exception.[52] Possession of livestock allowed competition between households and resulted in inherited inequalities of wealth. Neolithic pastoralists who controlled large herds gradually acquired more livestock, and this made economic inequalities more pronounced.[53] However, evidence of social inequality is still disputed, as settlements such as Catal Huyuk reveal a striking lack of difference in the size of homes and burial sites, suggesting a more egalitarian society with no evidence of the concept of capital, although some homes do appear slightly larger or more elaborately decorated than others.
+During most of the Neolithic age of Eurasia, people lived in small tribes composed of multiple bands or lineages.[44] There is little scientific evidence of developed social stratification in most Neolithic societies; social stratification is more associated with the later Bronze Age.[45] Although some late Eurasian Neolithic societies formed complex stratified chiefdoms or even states, generally states evolved in Eurasia only with the rise of metallurgy, and most Neolithic societies on the whole were relatively simple and egalitarian.[46] Beyond Eurasia, however, states were formed during the local Neolithic in three areas, namely in the Preceramic Andes with the Norte Chico Civilization,[47][48] Formative Mesoamerica and Ancient Hawaiʻi.[49] However, most Neolithic societies were noticeably more hierarchical than the Upper Paleolithic cultures that preceded them and hunter-gatherer cultures in general.[50][51] The domestication of large animals (c. 8000 BC) resulted in a dramatic increase in social inequality in most of the areas where it occurred; New Guinea being a notable exception.[52] Possession of livestock allowed competition between households and resulted in inherited inequalities of wealth. Neolithic pastoralists who controlled large herds gradually acquired more livestock, and this made economic inequalities more pronounced.[53] However, evidence of social inequality is still disputed, as settlements such as Catal Huyuk reveal a striking lack of difference in the size of homes and burial sites, suggesting a more egalitarian society with no evidence of the concept of capital, although some homes do appear slightly larger or more elaborately decorated than others.
 
 Families and households were still largely independent economically, and the household was probably the center of life.[54][55] However, excavations in Central Europe have revealed that early Neolithic Linear Ceramic cultures ("_Linearbandkeramik_") were building large arrangements of circular ditches between 4800 and 4600 BC. These structures (and their later counterparts such as causewayed enclosures, burial mounds, and henge) required considerable time and labour to construct, which suggests that some influential individuals were able to organise and direct human labour — though non-hierarchical and voluntary work remain possibilities.
 
@@ -126,13 +120,13 @@ Control of labour and inter-group conflict is characteristic of tribal groups wi
 
 Shelter and sedentism
 
-Neolithic_house.JPG, Bosnia and Herzegovina]]
+, Bosnia and Herzegovina]]
 
 The shelter of the early people changed dramatically from the Upper Paleolithic to the Neolithic era. In the Paleolithic, people did not normally live in permanent constructions. In the Neolithic, mud brick houses started appearing that were coated with plaster.[61] The growth of agriculture made permanent houses possible. Doorways were made on the roof, with ladders positioned both on the inside and outside of the houses.[62] The roof was supported by beams from the inside. The rough ground was covered by platforms, mats, and skins on which residents slept.[63] Stilt-houses settlements were common in the Alpine and Pianura Padana (Terramare) region.[64] Remains have been found at the Ljubljana Marshes in Slovenia and at the Mondsee and Attersee lakes in Upper Austria, for example.
 
 Agriculture
 
-CucuteniAgriculture.JPG deer antler plough]] HMB_Essen_und_Kochgerät_Jungsteinzeit.jpgs, charred bread, grains and small apples, a clay cooking pot, and containers made of antlers and wood]]
+deer antler plough]] s, charred bread, grains and small apples, a clay cooking pot, and containers made of antlers and wood]]
 
 A significant and far-reaching shift in human subsistence and lifestyle was to be brought about in areas where crop farming and cultivation were first developed: the previous reliance on an essentially nomadic hunter-gatherer subsistence technique or pastoral transhumance was at first supplemented, and then increasingly replaced by, a reliance upon the foods produced from cultivated lands. These developments are also believed to have greatly encouraged the growth of settlements, since it may be supposed that the increased need to spend more time and labor in tending crop fields required more localized dwellings. This trend would continue into the Bronze Age, eventually giving rise to permanently settled farming towns, and later cities and states whose larger populations could be sustained by the increased productivity from cultivated lands.
 
@@ -163,7 +157,7 @@ Most clothing appears to have been made of animal skins, as indicated by finds o
 
 List of early settlements
 
-tripolye_hut.jpg CatalHoyukSouthArea.JPG in the Konya Plain in Turkey|200px]]
+in the Konya Plain in Turkey|200px]]
 
 Neolithic human settlements include:
 

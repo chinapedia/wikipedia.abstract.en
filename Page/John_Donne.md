@@ -9,7 +9,7 @@ Biography
 
 Early life
 
-John_Donne_BBC_News.jpg[3]]]
+[3]]]
 
 Donne was born in London in 1572, into a recusant Roman Catholic family when practice of that religion was illegal in England.[4] Donne was the third of six children. His father, also named John Donne, was of Welsh descent and a warden of the Ironmongers Company in the City of London. However, he avoided unwelcome government attention out of fear of persecution.[5]
 
@@ -27,7 +27,7 @@ Marriage to Anne More
 
 During the next four years Donne fell in love with Egerton's niece Anne More, and they were secretly married just before Christmas[15] in 1601, against the wishes of both Egerton and George More, who was Lieutenant of the Tower and Anne's father. Upon discovery, this wedding ruined Donne's career, getting him dismissed and put in Fleet Prison, along with the Church of England priest Samuel Brooke, who married them,[16] and the man who acted as a witness to the wedding. Donne was released shortly thereafter when the marriage was proved to be valid, and he soon secured the release of the other two. Walton tells us that when Donne wrote to his wife to tell her about losing his post, he wrote after his name: _John Donne, Anne Donne, Un-done._ It was not until 1609 that Donne was reconciled with his father-in-law and received his wife's dowry.
 
-John_Donne_house_Pyrford.jpg]]
+]]
 
 After his release, Donne had to accept a retired country life in a small house in Pyrford, Surrey, owned by Anne's cousin, Sir Francis Wooley, where they resided until the end of 1604.[17][18] In spring 1605 they moved to another small house in Mitcham, London, where he scraped a meager living as a lawyer,[19] while Anne Donne bore a new baby almost every year. Though he also worked as an assistant pamphleteer to Thomas Morton writing anti-Catholic pamphlets, Donne was in a constant state of financial insecurity.[20]
 
@@ -41,7 +41,7 @@ In 1610 and 1611 Donne wrote two anti-Catholic polemics: _Pseudo-Martyr_ and _Ig
 
 Donne sat as an MP again, for Taunton, in the Addled Parliament of 1614 but though he attracted five appointments within its business he made no recorded speech.[25] Although James was pleased with Donne's work, he refused to reinstate him at court and instead urged him to take holy orders. At length, Donne acceded to the king's wishes, and in 1615 was ordained priest in the Church of England.
 
-John_Donne_sculpture_St._Paul's.jpg In 1615 Donne was awarded an honorary doctorate in divinity from Cambridge University, and became a Royal Chaplain in the same year, and a Reader of Divinity at Lincoln's Inn in 1616,[26] where he served in the chapel as minister until 1622.[27] In 1618 he became chaplain to Viscount Doncaster, who was on an embassy to the princes of Germany. Donne did not return to England until 1620.[28] In 1621 Donne was made Dean of St Paul's, a leading and well-paid position in the Church of England, which he held until his death in 1631. During his period as dean his daughter Lucy died, aged eighteen. In late November and early December 1623 he suffered a nearly fatal illness, thought to be either typhus or a combination of a cold followed by a period of fever. During his convalescence he wrote a series of meditations and prayers on health, pain, and sickness that were published as a book in 1624 under the title of _Devotions upon Emergent Occasions_. One of these meditations, Meditation XVII, contains the well known phrases "No man is an _Iland_" (often modernised as "No man is an island ") and "...for whom the _bell_ tolls". In 1624 he became vicar of St Dunstan-in-the-West, and 1625 a prolocutor to Charles I.[29] He earned a reputation as an eloquent preacher and 160 of his sermons have survived, including Death's Duel, his famous sermon delivered at the Palace of Whitehall before King Charles I in February 1631.
+In 1615 Donne was awarded an honorary doctorate in divinity from Cambridge University, and became a Royal Chaplain in the same year, and a Reader of Divinity at Lincoln's Inn in 1616,[26] where he served in the chapel as minister until 1622.[27] In 1618 he became chaplain to Viscount Doncaster, who was on an embassy to the princes of Germany. Donne did not return to England until 1620.[28] In 1621 Donne was made Dean of St Paul's, a leading and well-paid position in the Church of England, which he held until his death in 1631. During his period as dean his daughter Lucy died, aged eighteen. In late November and early December 1623 he suffered a nearly fatal illness, thought to be either typhus or a combination of a cold followed by a period of fever. During his convalescence he wrote a series of meditations and prayers on health, pain, and sickness that were published as a book in 1624 under the title of _Devotions upon Emergent Occasions_. One of these meditations, Meditation XVII, contains the well known phrases "No man is an _Iland_" (often modernised as "No man is an island ") and "...for whom the _bell_ tolls". In 1624 he became vicar of St Dunstan-in-the-West, and 1625 a prolocutor to Charles I.[29] He earned a reputation as an eloquent preacher and 160 of his sermons have survived, including Death's Duel, his famous sermon delivered at the Palace of Whitehall before King Charles I in February 1631.
 
 Death
 
@@ -74,7 +74,7 @@ Some scholars believe that Donne's literary works reflect the changing trends of
 
 Legacy
 
-Bust_of_John_Donne_(14074586548).jpg by Nigel Boonham, 2012, St Paul's Cathedral Churchyard]] Donne is commemorated as a priest in the calendar of the Church of England[33] and in the Calendar of Saints of the Evangelical Lutheran Church in America on 31 March.[34]
+by Nigel Boonham, 2012, St Paul's Cathedral Churchyard]] Donne is commemorated as a priest in the calendar of the Church of England[33] and in the Calendar of Saints of the Evangelical Lutheran Church in America on 31 March.[34]
 
 During his lifetime several likenesses were made of the poet. The earliest was the anonymous portrait of 1594 now in the National Portrait Gallery, London which has been recently restored.[35] One of the earliest Elizabethan portraits of an author, the fashionably dressed poet is shown darkly brooding on his love. The portrait was described in Donne's will as "that picture of myne wych is taken in the shaddowes", and bequeathed by him to Robert Kerr, 1st Earl of Ancram.[36] Other paintings include a 1616 head and shoulders after Isaac Oliver, also in the National Portrait Gallery,[37] and a 1622 head and shoulders in the Victoria and Albert Museum.[38] In 1911 the young Stanley Spencer devoted a visionary painting to _John Donne arriving in heaven_ (1911) which is now in the Fitzwilliam Museum.[39]
 

@@ -1,5 +1,3 @@
-Linné-Systema_Naturae_1735.jpg
-
 LINNAEAN TAXONOMY can mean either of two related concepts:
 
 1.  the particular form of biological classification (taxonomy) set up by Carl Linnaeus, as set forth in his _Systema Naturae_ (1735) and subsequent works. In the taxonomy of Linnaeus there are three kingdoms, divided into _classes_, and they, in turn, into _orders_, _genera_ (singular: _genus_), and _species_ (singular: _species_)[1], with an additional rank lower than species.
@@ -14,7 +12,7 @@ In his _Imperium Naturae_, Linnaeus established three kingdoms, namely _Regnum A
 
 Classification for plants
 
-His classes and orders of plants, according to his _Systema Sexuale_, were never intended to represent natural groups (as opposed to his _ordines naturales_ in his _Philosophia Botanica_) but only for use in identification. They were used for that purpose well into the nineteenth century.[3] Within each class were several orders. SN-p837.jpg Kalmia_latifolia_Great_Smoky.jpg'' is classified according to Linnaeus' sexual system in class Decandria, order Monogyna, because it has 10 stamens and one pistil]]
+His classes and orders of plants, according to his _Systema Sexuale_, were never intended to represent natural groups (as opposed to his _ordines naturales_ in his _Philosophia Botanica_) but only for use in identification. They were used for that purpose well into the nineteenth century.[3] Within each class were several orders. '' is classified according to Linnaeus' sexual system in class Decandria, order Monogyna, because it has 10 stamens and one pistil]]
 
 The Linnaean classes for plants, in the Sexual System, were:
 
@@ -50,8 +48,6 @@ The classes based on the number of stamens were then subdivided by the number of
 Index to genera p. 1201
 
 Classification for animals
-
-Linnaeus_-_Regnum_Animale_(1735).png
 
 Only in the Animal Kingdom is the higher taxonomy of Linnaeus still more or less recognizable and some of these names are still in use, but usually not quite for the same groups. He divided the Animal Kingdom into six classes, in the tenth edition, of 1758, these were:
 

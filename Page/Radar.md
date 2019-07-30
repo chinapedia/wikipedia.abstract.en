@@ -21,7 +21,7 @@ Across the Atlantic in 1922, after placing a transmitter and receiver on opposit
 
 Just before World War II
 
-Early_radar_antenna_-_US_Naval_Research_Laboratory_Anacostia.jpg, Anacostia, D. C., late 1930s]] Before the Second World War, researchers in the United Kingdom, France, Germany, Italy, Japan, the Netherlands, the Soviet Union, and the United States, independently and in great secrecy, developed technologies that led to the modern version of radar. Australia, Canada, New Zealand, and South Africa followed prewar Great Britain's radar development, and Hungary generated its radar technology during the war.[14]
+, Anacostia, D. C., late 1930s]] Before the Second World War, researchers in the United Kingdom, France, Germany, Italy, Japan, the Netherlands, the Soviet Union, and the United States, independently and in great secrecy, developed technologies that led to the modern version of radar. Australia, Canada, New Zealand, and South Africa followed prewar Great Britain's radar development, and Hungary generated its radar technology during the war.[14]
 
 In France in 1934, following systematic studies on the split-anode magnetron, the research branch of the Compagnie Générale de Télégraphie Sans Fil (CSF) headed by Maurice Ponte with Henri Gutton, Sylvain Berline and M. Hugon, began developing an obstacle-locating radio apparatus, aspects of which were installed on the ocean liner _Normandie_ in 1935.[15][16]
 
@@ -29,7 +29,7 @@ During the same period, Soviet military engineer P.K. Oshchepkov, in collaborati
 
 Full radar evolved as a pulsed system, and the first such elementary apparatus was demonstrated in December 1934 by the American Robert M. Page, working at the Naval Research Laboratory.[19] The following year, the United States Army successfully tested a primitive surface-to-surface radar to aim coastal battery searchlights at night.[20] This design was followed by a pulsed system demonstrated in May 1935 by Rudolf Kühnhold and the firm in Germany and then another in June 1935 by an Air Ministry team led by Robert Watson-Watt in Great Britain.
 
-Watson_Radar.jpg and his team]] Chain_home.jpg tower in Great Baddow, Essex, United Kingdom]] Watson_watt_02_fr.jpg]] In 1935, Watson-Watt was asked to judge recent reports of a German radio-based death ray and turned the request over to Wilkins. Wilkins returned a set of calculations demonstrating the system was basically impossible. When Watson-Watt then asked what such a system might do, Wilkins recalled the earlier report about aircraft causing radio interference. This revelation led to the Daventry Experiment of 26 February 1935, using a powerful BBC shortwave transmitter as the source and their GPO receiver setup in a field while a bomber flew around the site. When the plane was clearly detected, Hugh Dowding, the Air Member for Supply and Research was very impressed with their system's potential and funds were immediately provided for further operational development.[21] Watson-Watt's team patented the device in GB593017.[22][23][24]
+and his team]] tower in Great Baddow, Essex, United Kingdom]] ]] In 1935, Watson-Watt was asked to judge recent reports of a German radio-based death ray and turned the request over to Wilkins. Wilkins returned a set of calculations demonstrating the system was basically impossible. When Watson-Watt then asked what such a system might do, Wilkins recalled the earlier report about aircraft causing radio interference. This revelation led to the Daventry Experiment of 26 February 1935, using a powerful BBC shortwave transmitter as the source and their GPO receiver setup in a field while a bomber flew around the site. When the plane was clearly detected, Hugh Dowding, the Air Member for Supply and Research was very impressed with their system's potential and funds were immediately provided for further operational development.[21] Watson-Watt's team patented the device in GB593017.[22][23][24]
 
 Development of radar greatly expanded on 1 September 1936 when Watson-Watt became Superintendent of a new establishment under the British Air Ministry, Bawdsey Research Station located in Bawdsey Manor, near Felixstowe, Suffolk. Work there resulted in the design and installation of aircraft detection and tracking stations called "Chain Home" along the East and South coasts of England in time for the outbreak of World War II in 1939. This system provided the vital advance information that helped the Royal Air Force win the Battle of Britain; without it, significant numbers of fighter aircraft would always need to be in the air to respond quickly enough if enemy aircraft detection relied solely on the observations of ground-based individuals. Also vital was the "Dowding system" of reporting and coordination to make best use of the radar information during tests of early deployment of radar in 1936 and 1937.
 
@@ -45,8 +45,6 @@ The war precipitated research to find better resolution, more portability, and m
 
 
 Applications
-
-Rotating_marine_radar_-_rotating_waveguide_antenna.gif
 
 The information provided by radar includes the bearing and range (and therefore position) of the object from the radar scanner. It is thus used in many different fields where the need for such positioning is crucial. The first use of radar was for military purposes: to locate air, ground and sea targets. This evolved in the civilian field into applications for aircraft, ships, and roads.[31]
 
@@ -73,7 +71,7 @@ Radar relies on its own transmissions rather than light from the Sun or the Moon
 
 Reflection
 
-weather_radar.jpg image (of Hurricane Abby). The radar's frequency, pulse form, polarization, signal processing, and antenna determine what it can observe.]]
+image (of Hurricane Abby). The radar's frequency, pulse form, polarization, signal processing, and antenna determine what it can observe.]]
 
 If electromagnetic waves travelling through one material meet another material, having a different dielectric constant or diamagnetic constant from the first, the waves will reflect or scatter from the boundary between the materials. This means that a solid object in air or in a vacuum, or a significant change in atomic density between the object and what is surrounding it, will usually scatter radar (radio) waves from its surface. This is particularly true for electrically conductive materials such as metal and carbon fibre, making radar well-suited to the detection of aircraft and ships. Radar absorbing material, containing resistive and sometimes magnetic substances, is used on military vehicles to reduce radar reflection. This is the radio equivalent of painting something a dark colour so that it cannot be seen by the eye at night.
 
@@ -150,7 +148,7 @@ Limiting factors
 
 Beam path and range
 
-Radar-height.PNG The radar beam would follow a linear path in vacuum, but it really follows a somewhat curved path in the atmosphere because of the variation of the refractive index of air, that is called the radar horizon. Even when the beam is emitted parallel to the ground, it will rise above it as the Earth curvature sinks below the horizon. Furthermore, the signal is attenuated by the medium it crosses, and the beam disperses.
+The radar beam would follow a linear path in vacuum, but it really follows a somewhat curved path in the atmosphere because of the variation of the refractive index of air, that is called the radar horizon. Even when the beam is emitted parallel to the ground, it will rise above it as the Earth curvature sinks below the horizon. Furthermore, the signal is attenuated by the medium it crosses, and the beam disperses.
 
 The maximum range of a conventional radar can be limited by a number of factors:
 
@@ -194,7 +192,7 @@ The most effective clutter reduction technique is pulse-Doppler radar. Doppler s
 
 Constant false alarm rate, a form of automatic gain control (AGC), is a method that relies on clutter returns far outnumbering echoes from targets of interest. The receiver's gain is automatically adjusted to maintain a constant level of overall visible clutter. While this does not help detect targets masked by stronger surrounding clutter, it does help to distinguish strong target sources. In the past, radar AGC was electronically controlled and affected the gain of the entire radar receiver. As radars evolved, AGC became computer-software controlled and affected the gain with greater granularity in specific detection cells.
 
-Multipath_propagation_diagram_en.svg from a target cause ghosts to appear.]]
+from a target cause ghosts to appear.]]
 
 Clutter may also originate from multipath echoes from valid targets caused by ground reflection, atmospheric ducting or ionospheric reflection/refraction (e.g., anomalous propagation). This clutter type is especially bothersome since it appears to move and behave like other normal (point) targets of interest. In a typical scenario, an aircraft echo is reflected from the ground below, appearing to the receiver as an identical target below the correct one. The radar may try to unify the targets, reporting the target at an incorrect height, or eliminating it on the basis of jitter or a physical impossibility. Terrain bounce jamming exploits this response by amplifying the radar signal and directing it downward.[38] These problems can be overcome by incorporating a ground map of the radar's surroundings and eliminating all echoes which appear to originate below ground or above a certain height. Monopulse can be improved by altering the elevation algorithm used at low elevation. In newer air traffic control radar equipment, algorithms are used to identify the false targets by comparing the current pulse returns to those adjacent, as well as calculating return improbabilities.
 
@@ -212,8 +210,6 @@ Radar signal processing
 Distance measurement
 
 Transit time
-
-Radaroperation.gif Sonar_Principle_EN.svg
 
 One way to obtain a distance measurement is based on the time-of-flight: transmit a short pulse of radio signal (electromagnetic radiation) and measure the time it takes for the reflection to return. The distance is one-half the round trip time multiplied by the speed of the signal. The factor of one-half comes from the fact that the signal has to travel to the object and back again. Since radio waves travel close to the speed of light, accurate distance measurement requires high-speed electronics. In most cases, the receiver does not detect the return while the signal is being transmitted. Through the use of a duplexer, the radar switches between transmitting and receiving at a predetermined rate. A similar effect imposes a maximum range as well. In order to maximize range, longer times between pulses should be used, referred to as a pulse repetition time, or its reciprocal, pulse repetition frequency.
 
@@ -249,8 +245,6 @@ When using a pulsed radar, the variation between the phase of successive returns
 
 Pulse-Doppler signal processing
 
-Pulse_doppler_signal_processing.png
-
 Pulse-Doppler signal processing includes frequency filtering in the detection process. The space between each transmit pulse is divided into range cells or range gates. Each cell is filtered independently much like the process used by a spectrum analyzer to produce the display showing different frequencies. Each different distance produces a different spectrum. These spectra are used to perform the detection process. This is required to achieve acceptable performance in hostile environments involving weather, terrain, and electronic countermeasures.
 
 The primary purpose is to measure both the amplitude and frequency of the aggregate reflected signal from multiple distances. This is used with weather radar to measure radial wind velocity and precipitation rate in each different volume of air. This is linked with computing systems to produce a real-time electronic weather map. Aircraft safety depends upon continuous access to accurate weather radar information that is used to prevent injuries and accidents. Weather radar uses a low PRF. Coherency requirements are not as strict as those for military systems because individual signals ordinarily do not need to be separated. Less sophisticated filtering is required, and range ambiguity processing is not normally needed with weather radar in comparison with military radar intended to track air vehicles.
@@ -281,7 +275,7 @@ The non-relevant real time returns can be removed from the displayed information
 
 Engineering
 
-Radar_composantes.svg A radar's components are:
+A radar's components are:
 
 -   A transmitter that generates the radio signal with an oscillator such as a klystron or a magnetron and controls its duration by a modulator.
 -   A waveguide that links the transmitter and the antenna.
@@ -293,7 +287,7 @@ Radar_composantes.svg A radar's components are:
 
 Antenna design
 
-Electronics_Technician_-_Volume_7_-_Figure_2-48.jpg Radio signals broadcast from a single antenna will spread out in all directions, and likewise a single antenna will receive signals equally from all directions. This leaves the radar with the problem of deciding where the target object is located.
+Radio signals broadcast from a single antenna will spread out in all directions, and likewise a single antenna will receive signals equally from all directions. This leaves the radar with the problem of deciding where the target object is located.
 
 Early systems tended to use omnidirectional broadcast antennas, with directional receiver antennas which were pointed in various directions. For instance, the first system to be deployed, Chain Home, used two straight antennas at right angles for reception, each on a different display. The maximum return would be detected with an antenna at right angles to the target, and a minimum with the antenna pointed directly at it (end on). The operator could determine the direction to a target by rotating the antenna so one display showed a maximum while the other showed a minimum. One serious limitation with this type of solution is that the broadcast is sent out in all directions, so the amount of energy in the direction being examined is a small part of that transmitted. To get a reasonable amount of power on the "target", the transmitting aerial should also be directional.
 
@@ -301,7 +295,7 @@ Parabolic reflector
 
 More modern systems use a steerable parabolic "dish" to create a tight broadcast beam, typically using the same dish as the receiver. Such systems often combine two radar frequencies in the same antenna in order to allow automatic steering, or _radar lock_.
 
-Parabolic reflectors can be either symmetric parabolas or spoiled parabolas: Symmetric parabolic antennas produce a narrow "pencil" beam in both the X and Y dimensions and consequently have a higher gain. The NEXRAD Pulse-Doppler weather radar uses a symmetric antenna to perform detailed volumetric scans of the atmosphere. Spoiled parabolic antennas produce a narrow beam in one dimension and a relatively wide beam in the other. This feature is useful if target detection over a wide range of angles is more important than target location in three dimensions. Most 2D surveillance radars use a spoiled parabolic antenna with a narrow azimuthal beamwidth and wide vertical beamwidth. This beam configuration allows the radar operator to detect an aircraft at a specific azimuth but at an indeterminate height. Conversely, so-called "nodder" height finding radars use a dish with a narrow vertical beamwidth and wide azimuthal beamwidth to detect an aircraft at a specific height but with low azimuthal precision. SPS-10_radar_antenna_on_a_Knox_class_frigate.jpg
+Parabolic reflectors can be either symmetric parabolas or spoiled parabolas: Symmetric parabolic antennas produce a narrow "pencil" beam in both the X and Y dimensions and consequently have a higher gain. The NEXRAD Pulse-Doppler weather radar uses a symmetric antenna to perform detailed volumetric scans of the atmosphere. Spoiled parabolic antennas produce a narrow beam in one dimension and a relatively wide beam in the other. This feature is useful if target detection over a wide range of angles is more important than target location in three dimensions. Most 2D surveillance radars use a spoiled parabolic antenna with a narrow azimuthal beamwidth and wide vertical beamwidth. This beam configuration allows the radar operator to detect an aircraft at a specific azimuth but at an indeterminate height. Conversely, so-called "nodder" height finding radars use a dish with a narrow vertical beamwidth and wide azimuthal beamwidth to detect an aircraft at a specific height but with low azimuthal precision.
 
 Types of scan
 
@@ -312,13 +306,11 @@ Types of scan
 
 Slotted waveguide
 
-Radar_antennas_on_USS_Theodore_Roosevelt_SPS-64.jpg
-
 Applied similarly to the parabolic reflector, the slotted waveguide is moved mechanically to scan and is particularly suitable for non-tracking surface scan systems, where the vertical pattern may remain constant. Owing to its lower cost and less wind exposure, shipboard, airport surface, and harbour surveillance radars now use this approach in preference to a parabolic antenna.
 
 Phased array
 
-PAVE_PAWS_Radar_Clear_AFS_Alaska.jpg: Not all radar antennas must rotate to scan the sky.]] Another method of steering is used in a phased array radar.
+: Not all radar antennas must rotate to scan the sky.]] Another method of steering is used in a phased array radar.
 
 Phased array antennas are composed of evenly spaced similar antenna elements, such as aerials or rows of slotted waveguide. Each antenna element or group of antenna elements incorporates a discrete phase shift that produces a phase gradient across the array. For example, array elements producing a 5 degree phase shift for each wavelength across the array face will produce a beam pointed 5 degrees away from the centreline perpendicular to the array face. Signals travelling along that beam will be reinforced. Signals offset from that beam will be cancelled. The amount of reinforcement is antenna gain. The amount of cancellation is side-lobe suppression.[43]
 

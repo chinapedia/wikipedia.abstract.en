@@ -1,4 +1,4 @@
-PalmTX.jpg]] Apple_Newton_MessagePad_(1993)_-_Computer_History_Museum.jpg MessagePad (1993) – Computer History Museum]]
+]] MessagePad (1993) – Computer History Museum]]
 
 A PERSONAL DIGITAL ASSISTANT (PDA), also known as a HANDHELD PC,[1][2] is a variety mobile device which functions as a personal information manager. PDAs have been mostly displaced by the widespread adoption of highly capable smartphones, in particular those based on iOS and Android.[3]
 
@@ -13,7 +13,7 @@ A typical PDA has a touchscreen for navigation, a memory card slot for data stor
 
 Touchscreen
 
-Palm-IMG_7024.jpg, Lausanne]] Many of the original PDAs, such as the Apple Newton and Palm Pilot, featured a touchscreen for user interaction, having only a few buttons—usually reserved for shortcuts to often-used programs. Some touchscreen PDAs, including Windows Mobile devices, had a detachable stylus to facilitate making selections. The user interacts with the device by tapping the screen to select buttons or issue commands, or by dragging a finger (or the stylus) on the screen to make selections or scroll.
+, Lausanne]] Many of the original PDAs, such as the Apple Newton and Palm Pilot, featured a touchscreen for user interaction, having only a few buttons—usually reserved for shortcuts to often-used programs. Some touchscreen PDAs, including Windows Mobile devices, had a detachable stylus to facilitate making selections. The user interacts with the device by tapping the screen to select buttons or issue commands, or by dragging a finger (or the stylus) on the screen to make selections or scroll.
 
 Typical methods of entering text on touchscreen PDAs include:
 

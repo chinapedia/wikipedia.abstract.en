@@ -9,9 +9,9 @@ Like the earlier dynasties of ancient Egypt, the Ptolemaic dynasty practices inb
 
 Ptolemaic rulers and consorts
 
-Ptolemy_I_Soter_Louvre_Ma849.jpg was the founder of the Ptolemaic dynasty, and the first ruler of the Ptolemaic Kingdom.]]
+was the founder of the Ptolemaic dynasty, and the first ruler of the Ptolemaic Kingdom.]]
 
-Posthumous_painted_portrait_of_Cleopatra_VII_of_Egypt,_from_Herculaneum,_Italy.jpg, from Roman Herculaneum, mid-1st century AD.[8][9]]]
+, from Roman Herculaneum, mid-1st century AD.[8][9]]]
 
 Dates in brackets represent the regnal dates of the Ptolemaic pharaohs. They frequently ruled jointly with their wives, who were often also their sisters. Several queens exercised regal authority. Of these, one of the last and most famous was Cleopatra ("Cleopatra VII Philopator", 51–30 BC), with her two brothers and her son serving as successive nominal co-rulers. Several systems exist for numbering the later rulers; the one used here is the one most widely employed by modern scholars.
 
@@ -39,7 +39,7 @@ Ptolemaic family tree
 
 Other notable members of the Ptolemaic dynasty
 
-Wall_painting_from_Room_H_of_the_Villa_of_P._Fannius_Synistor_at_Boscoreale_MET_DP105943.jpg, dated mid-1st century BC. It likely represents Berenice II of Ptolemaic Egypt wearing a _stephane_ (i.e. royal diadem) on her head.[12]]]
+, dated mid-1st century BC. It likely represents Berenice II of Ptolemaic Egypt wearing a _stephane_ (i.e. royal diadem) on her head.[12]]]
 
 -   Ptolemy Keraunos (died 279 BC) - eldest son of Ptolemy I Soter. Eventually became king of Macedonia.
 -   Ptolemy Apion (died 96 BC) - son of Ptolemy VIII Physcon. Made king of Cyrenaica. Bequeathed Cyrenaica to Rome.

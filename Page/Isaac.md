@@ -24,9 +24,9 @@ After Isaac had been weaned, Sarah saw Ishmael mocking, and urged her husband to
 
 Binding
 
-Beit_alfa02.jpg]]
+]]
 
-At some point in Isaac's youth, his father Abraham took him to Mount Moriah. At God's command, Abraham was to build a sacrificial altar and sacrifice his son Isaac upon it. After he had bound his son to the altar and drawn his knife to kill him, at the very last moment an angel of God prevented Abraham from proceeding. Rather, he was directed to sacrifice instead a nearby ram that was stuck in thickets. Esau_and_Jacob_Presented_to_Isaac.jpg]]
+At some point in Isaac's youth, his father Abraham took him to Mount Moriah. At God's command, Abraham was to build a sacrificial altar and sacrifice his son Isaac upon it. After he had bound his son to the altar and drawn his knife to kill him, at the very last moment an angel of God prevented Abraham from proceeding. Rather, he was directed to sacrifice instead a nearby ram that was stuck in thickets. ]]
 
 Family life
 
@@ -36,7 +36,7 @@ The narratives about Isaac do not mention him having concubines.[13]
 
 Migration
 
-Isaac moved to _Beer-lahai-roi_ after his father died.[14] When the land experienced famine, he removed to the Philistine land of Gerar where his father once lived. This land was still under the control of King Abimelech as it was in the days of Abraham. Like his father, Isaac also deceived Abimelech about his wife and also got into the well business. He had gone back to all of the wells that his father dug and saw that they were all stopped up with earth. The Philistines did this after Abraham died. So, Isaac unearthed them and began to dig for more wells all the way to Beersheba, where he made a pact with Abimelech, just like in the day of his father.[15] Giotto_di_Bondone_080.jpg]]
+Isaac moved to _Beer-lahai-roi_ after his father died.[14] When the land experienced famine, he removed to the Philistine land of Gerar where his father once lived. This land was still under the control of King Abimelech as it was in the days of Abraham. Like his father, Isaac also deceived Abimelech about his wife and also got into the well business. He had gone back to all of the wells that his father dug and saw that they were all stopped up with earth. The Philistines did this after Abraham died. So, Isaac unearthed them and began to dig for more wells all the way to Beersheba, where he made a pact with Abimelech, just like in the day of his father.[15] ]]
 
 Birthright
 
@@ -63,7 +63,7 @@ Rabbinic literature also linked Isaac's blindness in old age, as stated in the B
 
 Christian views
 
-AbrahamIsaac.jpg, early 1900s Bible illustration]] The early Christian church continued and developed the New Testament theme of Isaac as a type of Christ and the Church being both "the son of the promise" and the "father of the faithful". Tertullian draws a parallel between Isaac's bearing the wood for the sacrificial fire with Christ's carrying his cross.[32] and there was a general agreement that, while all the sacrifices of the Old Law were anticipations of that on Calvary, the sacrifice of Isaac was so "in a pre-eminent way".[33]
+, early 1900s Bible illustration]] The early Christian church continued and developed the New Testament theme of Isaac as a type of Christ and the Church being both "the son of the promise" and the "father of the faithful". Tertullian draws a parallel between Isaac's bearing the wood for the sacrificial fire with Christ's carrying his cross.[32] and there was a general agreement that, while all the sacrifices of the Old Law were anticipations of that on Calvary, the sacrifice of Isaac was so "in a pre-eminent way".[33]
 
 The Eastern Orthodox Church and the Roman Catholic Church consider Isaac as a saint along with other biblical patriarchs.[34] Along with those of other patriarchs and the Old Testament Righteous, his feast day is celebrated in the Eastern Orthodox Church and the Byzantine rite of the Catholic Church on the Second Sunday before Christmas (December 11–17), under the title _the Sunday of the Forefathers_.[35][36]
 
@@ -76,7 +76,7 @@ In the Epistle to the Hebrews, Abraham's willingness to follow God's command to 
 
 Islamic views
 
-Grave_Ishaq.JPG'', Hebron]] Islam considers Isaac a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
+'', Hebron]] Islam considers Isaac a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
 
 Isaac, along with Ishmael, is highly important for Muslims for continuing to preach the message of monotheism after his father Abraham. Among Isaac's children was the follow-up Israelite patriarch Jacob, who too is venerated an Islamic prophet.
 

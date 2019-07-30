@@ -1,7 +1,5 @@
 Pp1}}
 
-lang=en
-
 The PROTON–PROTON CHAIN REACTION is one of two known sets of nuclear fusion reactions by which stars convert hydrogen to helium. It dominates in stars with masses less than or equal to that of the Sun's,[1] whereas the CNO cycle, the other known reaction, is suggested by theoretical models to dominate in stars with masses greater than about 1.3 times that of the Sun's.[2]
 
 In general, proton–proton fusion can occur only if the kinetic energy (i.e. temperature) of the protons is high enough to overcome their mutual electrostatic or Coulomb repulsion.[3]
@@ -58,7 +56,7 @@ The complete p-p I chain reaction releases a net energy of .[11] Two percent of 
 
 The P-P II branch
 
-Proton-Proton_II_chain_reaction.svg :{| border="0" |- style="height:2em;" | ||+ || ||→ || ||+ || |- style="height:2em;" | ||+ || ||→ || ||+ || ||+ || ||/ || |- style="height:2em;" | ||+ || ||→ ||2  |}
+:{| border="0" |- style="height:2em;" | ||+ || ||→ || ||+ || |- style="height:2em;" | ||+ || ||→ || ||+ || ||+ || ||/ || |- style="height:2em;" | ||+ || ||→ ||2  |}
 
 The P-P II branch is dominant at temperatures of 14 to .
 
@@ -66,7 +64,7 @@ Note that the energies in the equation above are not the energy released by the 
 
 The P-P III branch
 
-Proton-Proton_III_chain_reaction.svg :{| border="0" |- style="height:2em;" | ||+ || ||→ || ||+ || |- style="height:2em;" | ||+ || ||→ || ||+ || |- style="height:2em;" | || || ||→ || ||+ || ||+ || || |- style="height:2em;" | || || ||→ ||2  |}
+:{| border="0" |- style="height:2em;" | ||+ || ||→ || ||+ || |- style="height:2em;" | ||+ || ||→ || ||+ || |- style="height:2em;" | || || ||→ || ||+ || ||+ || || |- style="height:2em;" | || || ||→ ||2  |}
 
 The P-P III chain is dominant if the temperature exceeds .
 
@@ -89,7 +87,7 @@ Neutrinos do not interact significantly with matter and therefore do not help su
 
 The PEP reaction
 
-Proton_proton_cycle.svg Deuterium can also be produced by the rare pep (proton–electron–proton) reaction (electron capture):
+Deuterium can also be produced by the rare pep (proton–electron–proton) reaction (electron capture):
 
 :{| border="0" |- style="height:2em;" | ||+ || ||+ || ||→ || ||+ || |}
 

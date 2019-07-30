@@ -11,8 +11,6 @@ The continent's cultural and ethnic outlook has its origin with the interaction 
 
 Geography
 
-South_America_-_Blue_Marble_orthographic.jpg
-
 South America occupies the southern portion of the Americas. The continent is generally delimited on the northwest by the Darién watershed along the Colombia–Panama border, although some may consider the border instead to be the Panama Canal. Geopolitically and geographically[5] all of Panama – including the segment east of the Panama Canal in the isthmus – is typically included in North America alone[6][7][8] and among the countries of Central America.[9][10] Almost all of mainland South America sits on the South American Plate.
 
 South America is home to the world's highest uninterrupted waterfall, Angel Falls in Venezuela; the highest single drop waterfall Kaieteur Falls in Guyana; the largest river by volume, the Amazon River; the longest mountain range, the Andes (whose highest mountain is Aconcagua at ); the driest non-polar place on earth, the Atacama Desert;[11][12][13] the largest rainforest, the Amazon Rainforest; the highest capital city, La Paz, Bolivia; the highest commercially navigable lake in the world, Lake Titicaca; and, excluding research stations in Antarctica, the world's southernmost permanently inhabited community, Puerto Toro, Chile.
@@ -31,7 +29,7 @@ Other islands that are included with South America are the Galápagos Islands th
 
 Climate
 
-Koppen-Geiger_Map_South_America_present.svg map for South America.[18]]] Tropical_cyclones_1945_2006_wikicolor.png The distribution of the average temperatures in the region presents a constant regularity from the 30° of latitude south, when the isotherms tend, more and more, to be confused with the degrees of latitude.[19]
+map for South America.[18]]] The distribution of the average temperatures in the region presents a constant regularity from the 30° of latitude south, when the isotherms tend, more and more, to be confused with the degrees of latitude.[19]
 
 In temperate latitudes, winters are milder and summers warmer than in North America. Because its most extensive part of the continent is in the equatorial zone, the region has more areas of equatorial plains than any other region.[20]
 
@@ -48,7 +46,7 @@ History
 
 Prehistory
 
-SantaCruz-CuevaManos-P2210651b.jpg, or "Cave of the Hands", in Argentina]] South America is believed to have been joined with Africa from the late Paleozoic Era to the early Mesozoic Era, until the supercontinent Pangaea began to rift and break apart about 225 million years ago. Therefore, South America and Africa share similar fossils and rock layers.
+, or "Cave of the Hands", in Argentina]] South America is believed to have been joined with Africa from the late Paleozoic Era to the early Mesozoic Era, until the supercontinent Pangaea began to rift and break apart about 225 million years ago. Therefore, South America and Africa share similar fossils and rock layers.
 
 South America is thought to have been first inhabited by humans when people were crossing the Bering Land Bridge (now the Bering Strait) at least 15,000 years ago from the territory that is present-day Russia. They migrated south through North America, and eventually reached South America through the Isthmus of Panama.
 
@@ -60,7 +58,7 @@ South American cultures began domesticating llamas, vicuñas, guanacos, and alpa
 
 Pre-Columbian civilizations
 
-Machu_Picchu,_Perú,_2015-07-30,_DD_39.JPG, Peru is one of the New Seven Wonders of the World.]]
+, Peru is one of the New Seven Wonders of the World.]]
 
 The rise of plant growing and the subsequent appearance of permanent human settlements allowed for the multiple and overlapping beginnings of civilizations in South America.
 
@@ -78,19 +76,19 @@ The Mapuche in Central and Southern Chile resisted the European and Chilean sett
 
 European colonization
 
-Vespucci's_first_voyage,_from_Letter_to_Soderini.jpg's first voyage (1497-98) to the New World, from the first known published edition of Vespucci's 1504 letter to Piero Soderini.]]
+'s first voyage (1497-98) to the New World, from the first known published edition of Vespucci's 1504 letter to Piero Soderini.]]
 
 In 1494, Portugal and Spain, the two great maritime European powers of that time, on the expectation of new lands being discovered in the west, signed the Treaty of Tordesillas, by which they agreed, with the support of the Pope, that all the land outside Europe should be an exclusive duopoly between the two countries.
 
 The treaty established an imaginary line along a north-south meridian 370 leagues west of the Cape Verde Islands, roughly 46° 37' W. In terms of the treaty, all land to the west of the line (known to comprise most of the South American soil) would belong to Spain, and all land to the east, to Portugal. As accurate measurements of longitude were impossible at that time, the line was not strictly enforced, resulting in a Portuguese expansion of Brazil across the meridian.
 
-Inca-Spanish_confrontation.JPG in the Battle of Cajamarca left thousands of natives dead.]]
+in the Battle of Cajamarca left thousands of natives dead.]]
 
 Beginning in the 1530s, the people and natural resources of South America were repeatedly exploited by foreign conquistadors, first from Spain and later from Portugal. These competing colonial nations claimed the land and resources as their own and divided it in colonies.
 
 European infectious diseases (smallpox, influenza, measles, and typhus) – to which the native populations had no immune resistance – caused large-scale depopulation of the native population under Spanish control. Systems of forced labor, such as the haciendas and mining industry's mit'a also contributed to the depopulation. After this, African slaves, who had developed immunities to these diseases, were quickly brought in to replace them.
 
-Desembarque_de_Pedro_Álvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_(1865–1939).jpg.]] Waterkant_seen_from_Suriname_river_III.JPG, Suriname.]] Plate_6_Provisional_Battalion.jpg in 1823.]]
+.]] , Suriname.]] in 1823.]]
 
 The Spaniards were committed to converting their native subjects to Christianity and were quick to purge any native cultural practices that hindered this end; however, many initial attempts at this were only partially successful, as native groups simply blended Catholicism with their established beliefs and practices. Furthermore, the Spaniards brought their language to the degree they did with their religion, although the Roman Catholic Church's evangelization in Quechua, Aymara, and Guaraní actually contributed to the continuous use of these native languages albeit only in the oral form.
 
@@ -102,8 +100,6 @@ Guyana was first a Dutch, and then a British colony, though there was a brief pe
 
 Slavery in South America
 
-Johann_Moritz_Rugendas_in_Brazil.jpg
-
 Indigenous peoples of the Americas in various European colonies were forced to work in European plantations and mines; along with African slaves who were also introduced in the proceeding centuries. The colonists were heavily dependent on indigenous labor during the initial phases of European settlement to maintain the subsistence economy, and natives were often captured by expeditions. The importation of African slaves began midway through the 16th century, but the enslavement of indigenous peoples continued well into the 17th and 18th centuries. The Atlantic slave trade brought African slaves primarily to South American colonies, beginning with the Portuguese since 1502.[31] The main destinations of this phase were the Caribbean colonies and Brazil, as European nations built up economically slave-dependent colonies in the New World. Nearly 40% of all African slaves trafficked to the Americas went to Brazil. An estimated 4.9 million slaves from Africa came to Brazil during the period from 1501 to 1866.[32][33]
 
 While the Portuguese, English and French settlers enslaved mainly African blacks, the Spaniards became very disposed of the natives. In 1750 Portugal abolished native slavery in the colonies because they considered them unfit for labour and began to import even more African slaves. Slaves were brought to the mainland on so-called slave ships, under inhuman conditions and ill-treatment, and those who survived were sold into the slave markets.
@@ -112,7 +108,7 @@ After independence, all South American countries maintained slavery for some tim
 
 Independence from Spain and Portugal
 
-Entrevista_de_Guayaquil.jpg between José de San Martín and Simón Bolívar]] Independence_of_Brazil_1888.jpg by Prince Pedro on 7 September 1822]] Coroaçao_pedro_I_001.jpg as 1st Emperor of Brazil]] JuraIndependencia.jpg swears officially the independence of Chile.]]
+between José de San Martín and Simón Bolívar]] by Prince Pedro on 7 September 1822]] as 1st Emperor of Brazil]] swears officially the independence of Chile.]]
 
 The European Peninsular War (1807–1814), a theater of the Napoleonic Wars, changed the political situation of both the Spanish and Portuguese colonies. First, Napoleon invaded Portugal, but the House of Braganza avoided capture by escaping to Brazil. Napoleon also captured King Ferdinand VII of Spain, and appointed his own brother instead. This appointment provoked severe popular resistance, which created Juntas to rule in the name of the captured king.
 
@@ -124,7 +120,7 @@ In the Portuguese Kingdom of Brazil, Dom Pedro I (also Pedro IV of Portugal), so
 
 Nation-building and fragmentation
 
-Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg proclaimed the independence of Cisplatine Province.]] Oscar_Pereira_da_Silva_-_Cena_de_Batalha_no_Sul_do_Brasil.jpg]]
+proclaimed the independence of Cisplatine Province.]] ]]
 
 The newly independent nations began a process of fragmentation, with several civil and international wars. However, it was not as strong as in Central America. Some countries created from provinces of larger countries stayed as such up to modern times (such as Paraguay or Uruguay), while others were reconquered and reincorporated into their former countries (such as the Republic of Entre Ríos and the Riograndense Republic).
 
@@ -138,7 +134,7 @@ The Peru–Bolivian Confederation, a short-lived union of Peru and Bolivia, was 
 
 Wars and conflicts
 
-Brazilians_during_the_siege_of_Paysandu.jpg and army troops during the Siege of Paysandú, 1865]] Battle_of_Potrero_Sauce_01.jpg at the Battle of Sauce, 1866]] Procession_in_Paraguay_1868.jpg during a procession in Paraguay, 1868]] Batalla_de_Chorrillos.jpg in the battlefield of the Battle of Chorrillos, 1883]] U-199Flyover.jpg PBY Catalina, 31July 1943]]
+and army troops during the Siege of Paysandú, 1865]] at the Battle of Sauce, 1866]] during a procession in Paraguay, 1868]] in the battlefield of the Battle of Chorrillos, 1883]] PBY Catalina, 31July 1943]]
 
 South American history in early 19th century was built almost exclusively on wars. Despite the Spanish American wars of independence and the Brazilian War of Independence, the new nations quickly began to suffer with internal conflicts and wars among themselves.
 
@@ -162,7 +158,7 @@ A brief war was fought between Argentina and the UK in 1982, following an Argent
 
 Rise and fall of military dictatorships
 
-Soldadosargentinos3.jpg]] Brazilian_battleship_Minas_Geraes_firing_a_broadside.jpg kindled an Argentine–Brazilian–Chilean naval arms race.]]
+]] kindled an Argentine–Brazilian–Chilean naval arms race.]]
 
 Wars became less frequent in the 20th century, with Bolivia-Paraguay and Peru-Ecuador fighting the last inter-state wars. Early in the 20th century, the three wealthiest South American countries engaged in a vastly expensive naval arms race which was catalyzed by the introduction of a new warship type, the "dreadnought". At one point, the Argentine government was spending a fifth of its entire yearly budget for just two dreadnoughts, a price that did not include later in-service costs, which for the Brazilian dreadnoughts was sixty percent of the initial purchase.[47][48]
 
@@ -174,59 +170,59 @@ Colombia has had an ongoing, though diminished internal conflict, which started 
 
 Revolutionary movements and right-wing military dictatorships became common after World War II, but since the 1980s, a wave of democratization passed through the continent, and democratic rule is widespread now.[49] Nonetheless, allegations of corruption are still very common, and several countries have developed crises which have forced the resignation of their governments, although, on most occasions, regular civilian succession has continued.
 
-Presidentes_unasur_(cropped).jpg member states at the Second Brasília Summit on 23 May 2008.]] International indebtedness turned into a severe problem in the late 1980s, and some countries, despite having strong democracies, have not yet developed political institutions capable of handling such crises without resorting to unorthodox economic policies, as most recently illustrated by Argentina's default in the early 21st century.[50] The last twenty years have seen an increased push towards regional integration, with the creation of uniquely South American institutions such as the Andean Community, Mercosur and Unasur. Notably, starting with the election of Hugo Chávez in Venezuela in 1998, the region experienced what has been termed a pink tide – the election of several leftist and center-left administrations to most countries of the area, except for the Guianas and Colombia.
+member states at the Second Brasília Summit on 23 May 2008.]] International indebtedness turned into a severe problem in the late 1980s, and some countries, despite having strong democracies, have not yet developed political institutions capable of handling such crises without resorting to unorthodox economic policies, as most recently illustrated by Argentina's default in the early 21st century.[50] The last twenty years have seen an increased push towards regional integration, with the creation of uniquely South American institutions such as the Andean Community, Mercosur and Unasur. Notably, starting with the election of Hugo Chávez in Venezuela in 1998, the region experienced what has been termed a pink tide – the election of several leftist and center-left administrations to most countries of the area, except for the Guianas and Colombia.
 
 
 Countries and territories
 
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-| Arms                          | Flag | Country or territory                         | Capital               | Area[51] | Population | Population |
-|                               |      |                                              |                       |          | ()         | density    |
-+===============================+======+==============================================+=======================+==========+============+============+
-| Coat_of_arms_of_Argentina.svg |      | Argentina                                    | Buenos Aires          |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Bolivia                                      | La Paz,               |          |            |            |
-|                               |      |                                              | Sucre[52]             |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Bouvet Island                                | —                     |          | 0          |            |
-|                               |      | (Norway)[53]                                 |                       |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Brazil                                       | Brasília              |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Chile[54]                                    | Santiago              |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Colombia                                     | Bogotá                |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Ecuador                                      | Quito                 |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Falkland Islands                             | Stanley               |          |            |            |
-|                               |      | (United Kingdom)[55]                         |                       |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | French Guiana                                | Cayenne (Préfecture)  |          |            |            |
-|                               |      | (France)                                     |                       |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Guyana                                       | Georgetown            |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-| Coat_of_arms_of_Paraguay.svg  |      | Paraguay                                     | Asunción              |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Peru                                         | Lima                  |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | South Georgia and the South Sandwich Islands | King Edward Point[57] |          | 20         |            |
-|                               |      | (United Kingdom)[56]                         |                       |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Suriname                                     | Paramaribo            |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Uruguay                                      | Montevideo            |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-|                               |      | Venezuela                                    | Caracas               |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
-| Total                         |      |                                              |                       |          |            |            |
-+-------------------------------+------+----------------------------------------------+-----------------------+----------+------------+------------+
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+| Arms  | Flag | Country or territory                         | Capital               | Area[51] | Population | Population |
+|       |      |                                              |                       |          | ()         | density    |
++=======+======+==============================================+=======================+==========+============+============+
+|       |      | Argentina                                    | Buenos Aires          |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Bolivia                                      | La Paz,               |          |            |            |
+|       |      |                                              | Sucre[52]             |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Bouvet Island                                | —                     |          | 0          |            |
+|       |      | (Norway)[53]                                 |                       |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Brazil                                       | Brasília              |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Chile[54]                                    | Santiago              |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Colombia                                     | Bogotá                |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Ecuador                                      | Quito                 |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Falkland Islands                             | Stanley               |          |            |            |
+|       |      | (United Kingdom)[55]                         |                       |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | French Guiana                                | Cayenne (Préfecture)  |          |            |            |
+|       |      | (France)                                     |                       |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Guyana                                       | Georgetown            |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Paraguay                                     | Asunción              |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Peru                                         | Lima                  |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | South Georgia and the South Sandwich Islands | King Edward Point[57] |          | 20         |            |
+|       |      | (United Kingdom)[56]                         |                       |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Suriname                                     | Paramaribo            |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Uruguay                                      | Montevideo            |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+|       |      | Venezuela                                    | Caracas               |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
+| Total |      |                                              |                       |          |            |            |
++-------+------+----------------------------------------------+-----------------------+----------+------------+------------+
 
 
 Politics
 
-UNASUR_(Ecuador).jpg in Quito, Ecuador]] SACN_member_states.jpg used by the United Nations Statistics Division.]] Bandeiras_UNASUL.jpg Historically, the Hispanic countries were founded as Republican dictatorships led by caudillos. Brazil was the only exception, being a constitutional monarchy for its first 67 years of independence, until a coup d'état proclaimed a republic. In the late 19th century, the most democratic countries were Brazil, Chile, Argentina and Uruguay.[58]
+in Quito, Ecuador]] used by the United Nations Statistics Division.]] Historically, the Hispanic countries were founded as Republican dictatorships led by caudillos. Brazil was the only exception, being a constitutional monarchy for its first 67 years of independence, until a coup d'état proclaimed a republic. In the late 19th century, the most democratic countries were Brazil, Chile, Argentina and Uruguay.[58]
 
 In the interwar period, nationalism grew stronger on the continent, influenced by countries like Nazi Germany and Fascist Italy. A series of authoritarian rules broke out in South American countries with views bringing them closer to the Axis Powers,[59] like Vargas's Brazil. In the late 20th century, during the Cold War, many countries became military dictatorships under American tutelage in attempts to avoid the influence of the Soviet Union. After the fall of the authoritarian regimes, these countries became democratic republics.
 
@@ -239,11 +235,9 @@ Recently, an intergovernmental entity has been formed which aims to merge the tw
 
 Demographics
 
-South_America_night.jpg.]] South America has over {{#expr:floor(/1e6)}} million inhabitants and a population growth rate of about 0.6% per year. There are several areas of sparse demographics such as tropical forests, the Atacama Desert and the icy portions of Patagonia. On the other hand, the continent presents regions of high population density, such as the great urban centers. The population is formed by descendants of Europeans (mainly Spaniards, Portuguese and Italians), Africans and indigenous peoples. There is a high percentage of mestizos that vary greatly in composition by place. There is also a minor population of Asians, especially in Brazil. The two main languages are by far Spanish and Portuguese, followed by French, English and Dutch in smaller numbers.
+.]] South America has over {{#expr:floor(/1e6)}} million inhabitants and a population growth rate of about 0.6% per year. There are several areas of sparse demographics such as tropical forests, the Atacama Desert and the icy portions of Patagonia. On the other hand, the continent presents regions of high population density, such as the great urban centers. The population is formed by descendants of Europeans (mainly Spaniards, Portuguese and Italians), Africans and indigenous peoples. There is a high percentage of mestizos that vary greatly in composition by place. There is also a minor population of Asians, especially in Brazil. The two main languages are by far Spanish and Portuguese, followed by French, English and Dutch in smaller numbers.
 
 Language
-
-Languages_of_South_America_(en).svg
 
 Spanish and Portuguese are the most spoken languages in South America, with approximately 200 million speakers each. Spanish is the official language of most countries, along with other native languages in some countries. Portuguese is the official language of Brazil. Dutch is the official language of Suriname; English is the official language of Guyana, although there are at least twelve other languages spoken in the country, including Portuguese, Chinese, Hindustani and several native languages.[61] English is also spoken in the Falkland Islands. French is the official language of French Guiana and the second language in Amapá, Brazil.
 
@@ -253,7 +247,7 @@ Other languages found in South America include Hindustani and Javanese in Surina
 
 Religion
 
-Santuario_de_Las_Lajas,_Ipiales,_Colombia,_2015-07-21,_DD_21-23_HDR-Edit.JPG, Ipiales, Colombia.]]
+, Ipiales, Colombia.]]
 
 An estimated 90% of South Americans are Christians[63] (82% Roman Catholic, 8% other Christian denominations mainly traditional Protestants and Evangelicals but also Orthodox), accounting for c. 19% of Christians worldwide.
 
@@ -286,7 +280,7 @@ PART OF RELIGIONS IN SOUTH AMERICA (2013):[64]
 
 Ethnic demographics
 
-Palenqueras_al_natural.jpg fruit sellers in Cartagena.]] Japanese_Brazilian_Miko_Curitiba_Paraná.jpg during a festival in Curitiba]] Festuva.jpg community during the Grape Festival at Caxias do Sul]] Quechuawomanandchild.jpg woman and her son of indigenous descent]]
+fruit sellers in Cartagena.]] during a festival in Curitiba]] community during the Grape Festival at Caxias do Sul]] woman and her son of indigenous descent]]
 
 Genetic admixture occurs at very high levels in South America. In Argentina, the European influence accounts for 65–79% of the genetic background, Amerindian for 17–31% and sub-Saharan African for 2–4%. In Colombia, the sub-Saharan African genetic background varied from 1% to 89%, while the European genetic background varied from 20% to 79%, depending on the region. In Peru, European ancestries ranged from 1% to 31%, while the African contribution was only 1% to 3%.[65] The Genographic Project determined the average Peruvian from Lima had about 28% European ancestry, 68% Native American, 2% Asian ancestry and 2% sub-Saharan African.[66]
 
@@ -396,7 +390,7 @@ The top ten largest South American metropolitan areas by population as of 2015, 
 
 Economy
 
-Banco_del_Sur.jpg, Evo Morales, Néstor Kirchner, Cristina Fernández, Luiz Inácio Lula da Silva, Nicanor Duarte, and Hugo Chávez signed the founding charter of the Bank of the South.]] Sao_Paulo_Stock_Exchange.jpg is the second biggest in the Americas and 13th in the world.]] Vista_Parcial_de_Santiago_de_Chile_2013.jpg, Chile]] Ariane_5ES_liftoff_from_ELA-3.jpg in French Guiana]] Petrobrasbolivia2006.jpg of Brazilian state-owned Petrobras in Cochabamba, Bolivia]] Chuqui001_02.jpg is the largest open pit mine in the world, near the city of Calama in Chile.]] Apresentação_KC-390_(15414135738).jpg is the largest military transport aircraft produced in South America by the Brazilian company Embraer.]] Bodega_chakana_hacia_la_montaña.jpg in Luján de Cuyo, province of Mendoza, Argentina]]
+, Evo Morales, Néstor Kirchner, Cristina Fernández, Luiz Inácio Lula da Silva, Nicanor Duarte, and Hugo Chávez signed the founding charter of the Bank of the South.]] is the second biggest in the Americas and 13th in the world.]] , Chile]] in French Guiana]] of Brazilian state-owned Petrobras in Cochabamba, Bolivia]] is the largest open pit mine in the world, near the city of Calama in Chile.]] is the largest military transport aircraft produced in South America by the Brazilian company Embraer.]] in Luján de Cuyo, province of Mendoza, Argentina]]
 
 South America relies less on the export of both manufactured goods and natural resources than the world average; merchandise exports from the continent were 16% of GDP on an exchange rate basis, compared to 25% for the world as a whole.[85] Brazil (the seventh largest economy in the world and the largest in South America) leads in terms of merchandise exports at $251 billion, followed by Venezuela at $93 billion, Chile at $86 billion, and Argentina at $84 billion.[86]
 
@@ -486,13 +480,13 @@ Because of South America's broad ethnic mix, South American cuisine has African,
 
 Plastic arts
 
-Fernando_Botero,_Bird_(1990),_Singapore_-_20040616.jpg]] The artist Oswaldo Guayasamín (1919–1999) from Ecuador, represented with his painting style the feeling of the peoples of Latin America[109] highlighting social injustices in various parts of the world. The Colombian Fernando Botero (1932) is one of the greatest exponents of painting and sculpture that continues still active and has been able to develop a recognizable style of his own.[110] For his part, the Venezuelan Carlos Cruz-Diez has contributed significantly to contemporary art,[111] with the presence of works around the world.
+]] The artist Oswaldo Guayasamín (1919–1999) from Ecuador, represented with his painting style the feeling of the peoples of Latin America[109] highlighting social injustices in various parts of the world. The Colombian Fernando Botero (1932) is one of the greatest exponents of painting and sculpture that continues still active and has been able to develop a recognizable style of his own.[110] For his part, the Venezuelan Carlos Cruz-Diez has contributed significantly to contemporary art,[111] with the presence of works around the world.
 
 Currently several emerging South American artists are recognized by international art critics: Guillermo Lorca – Chilean painter,[112][113] Teddy Cobeña – Ecuadorian sculptor and recipient of international sculpture award in France)[114][115][116] and Argentine artist Adrián Villar Rojas[117][118] – winner of the Zurich Museum Art Award among many others.
 
 Sport
 
-Aerea2_maracana.jpg in Rio de Janeiro, Brazil]] Stadion_Rio_de_Janeiro_Finale_WM_2014_(22117945206).jpg ]]
+in Rio de Janeiro, Brazil]] ]]
 
 A wide range of sports are played in the continent of South America, with football being the most popular overall, while baseball is the most popular in Venezuela.
 
@@ -513,7 +507,7 @@ Infrastructure
 
 Energy
 
-Molino_de_viento_(moderno)_2014-09-21_(3).jpg.]]
+.]]
 
 Due to the diversity of topography and pluviometric precipitation conditions, the region's water resources vary enormously in different areas. In the Andes, navigation possibilities are limited, except for the Magdalena River, Lake Titicaca and the lakes of the southern regions of Chile and Argentina. Irrigation is an important factor for agriculture from northwestern Peru to Patagonia. Less than 10% of the known electrical potential of the Andes had been used until the mid-1960s.
 
@@ -523,7 +517,7 @@ Most of the continent's energy is generated through hydroelectric power plants, 
 
 Transport
 
-Avenida_General_Paz_entre_Cabildo_y_Panamericana.jpg in Argentina]] Puerto-del-callao.jpg Línea_Roja_de_Mi_Teleférico_en_La_Paz,_Bolivia.jpg
+in Argentina]]
 
 South American transportation systems are still deficient, with low kilometric densities. The region has about 1,700,000 km of highways and 100,000 km of railways, which are concentrated in the coastal strip, and the interior is still devoid of communication.
 

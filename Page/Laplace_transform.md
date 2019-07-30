@@ -375,7 +375,7 @@ The Laplace transform is often used in circuit analysis, and simple conversions 
 
 Here is a summary of equivalents:
 
-    S-Domain_circuit_equivalents.svg
+
     Note that the resistor is exactly the same in the time domain and the -domain. The sources are put in if there are initial conditions on the circuit elements. For example, if a capacitor has an initial voltage across it, or if the inductor has an initial current through it, the sources inserted in the -domain account for that.
 
     The equivalents for current and voltage sources are simply derived from the transformations in the table above.

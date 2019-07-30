@@ -1,4 +1,4 @@
-Kaliningrad_Oblast_within_Europe.svg KALININGRAD OBLAST (, _Kaliningradskaya oblast_), often referred to as the KALININGRAD REGION in English[1][2], or simply KALININGRAD, is a federal subject of the Russian Federation that is located on the coast of the Baltic Sea. As an oblast, its constitutional status is equal to each of the other 84 federal subjects. Its administrative center is the city of Kaliningrad, formerly known as Königsberg. It is the only Baltic port in the Russian Federation that remains ice-free in winter. According to the 2010 census, it had a population of 941,873.[3]
+KALININGRAD OBLAST (, _Kaliningradskaya oblast_), often referred to as the KALININGRAD REGION in English[1][2], or simply KALININGRAD, is a federal subject of the Russian Federation that is located on the coast of the Baltic Sea. As an oblast, its constitutional status is equal to each of the other 84 federal subjects. Its administrative center is the city of Kaliningrad, formerly known as Königsberg. It is the only Baltic port in the Russian Federation that remains ice-free in winter. According to the 2010 census, it had a population of 941,873.[3]
 
 The oblast is an exclave, bordered by Poland to the south and Lithuania to the east and north, so residents may only travel visa-free to the rest of Russia via sea or air. The territory was formerly the northern part of East Prussia, with the southern part now being Poland's Warmian-Masurian Voivodeship. With the defeat of Nazi Germany in 1945, the territory was annexed by the Soviet Union. Following the post-war migration and flight and expulsion of Germans, the territory was populated with citizens from the Soviet Union. Today virtually no ethnic Germans remain; most of the several thousand who live there are recent immigrants from other parts of the former Soviet Union.
 
@@ -9,7 +9,7 @@ History
 
 Middle Ages
 
-Kaliningrad_05-2017_img04_Kant_Island.jpg]]
+]]
 
 During the Middle Ages, the territory of what is now Kaliningrad Oblast was inhabited by tribes of Old Prussians (Sambians) in the western part and by Lithuanians in the eastern part. The tribes were divided by the rivers Pregolya and Alna. The Teutonic Knights conquered the region and established a monastic state. On the foundations of a destroyed Prussian settlement known as Tvanksta, the Order founded the city of Königsberg (modern Kaliningrad). Germans resettled the territory and assimilated the indigenous Old Prussians. The Lithuanian-inhabited areas became known as Lithuania Minor. Speakers of the old Baltic languages became extinct around the 17th century, having been assimilated and Germanised.
 
@@ -66,7 +66,7 @@ Kaliningrad's isolation was exacerbated by the collapse of the Soviet Union in 1
 
 The territory's economic situation was badly affected by its geographic isolation and the significant reduction in the size of the Russian military garrison, which had previously been one of the major employers and helped the local economy.
 
-After 1991, some ethnic Germans began to return to the area, such as Volga Germans from other parts of Russia and Kazakhstan, especially after Germany raised the requirements for people from the former Soviet Union to be accepted as ethnic Germans and have a "right of return".Germans_by_federal_subject_2010.svg These Germans are overwhelmingly Russian-speaking and as such were rejected for resettlement within Germany under Germany's new rules. A similar migration by Poles from the lands of the former Soviet Union to the Kaliningrad Oblast occurred at this time as well. The situation has begun to change, albeit slowly. Germany, Lithuania, and Poland have renewed contact with Kaliningrad Oblast, through town twinning and other projects. This has helped to promote interest in the history and culture of the East Prussian and Lietuvininkai communities.
+After 1991, some ethnic Germans began to return to the area, such as Volga Germans from other parts of Russia and Kazakhstan, especially after Germany raised the requirements for people from the former Soviet Union to be accepted as ethnic Germans and have a "right of return". These Germans are overwhelmingly Russian-speaking and as such were rejected for resettlement within Germany under Germany's new rules. A similar migration by Poles from the lands of the former Soviet Union to the Kaliningrad Oblast occurred at this time as well. The situation has begun to change, albeit slowly. Germany, Lithuania, and Poland have renewed contact with Kaliningrad Oblast, through town twinning and other projects. This has helped to promote interest in the history and culture of the East Prussian and Lietuvininkai communities.
 
 In July 2005, the 750-year jubilee of the city was widely celebrated.
 
@@ -75,7 +75,7 @@ In July 2007, Russian First Deputy Prime Minister Sergei Ivanov declared that if
 
 Geography
 
-KALININGRAD_FINAL.svg Angrapa.jpg, Kaliningrad Oblast]]
+, Kaliningrad Oblast]]
 
 Kaliningrad is the only Russian Baltic Sea port that is ice-free all year round and hence plays an important role in maintenance of the Baltic Fleet. As an exclave of Russia proper, it is surrounded by Poland (Pomeranian Voivodeship and Warmian-Masurian Voivodeship), Lithuania (Klaipėda County, Marijampolė County and Tauragė County) and the Baltic Sea. Its largest river is the Pregolya. It starts as a confluence of the Instruch and the Angrapa and drains into the Baltic Sea through the Vistula Lagoon. Its length under the name of Pregolya is 123 km (76 mi), 292 km (181 mi), including the Angrapa.
 
@@ -113,7 +113,7 @@ Administrative Division | city_1 = Kaliningrad | div_1 = Kaliningrad{{!}}City of
 
 Population
 
-Victory_Day_in_Kaliningrad_2017-05-09_51.jpg», carrying portraits of their ancestors who fought in World War II]] Vodokreschi_in_Kaliningrad_2017-01-19_(03).jpg bathing in Kaliningrad]] Baltiysk,_Kaliningrad_Oblast,_Russia_-_panoramio_-_Anton_Yefimov_(5).jpg]] According to the 2010 Census, the oblast population was 941,873;[32] down from 955,281 recorded in the 2002 Census.[33] The 1989 Census recorded 871,283 inhabitants.[34] Kaliningrad Oblast was the fourth most densely populated federal subject in Russia, with 62.5 persons/km² (162 persons/sq mi).
+», carrying portraits of their ancestors who fought in World War II]] bathing in Kaliningrad]] ]] According to the 2010 Census, the oblast population was 941,873;[32] down from 955,281 recorded in the 2002 Census.[33] The 1989 Census recorded 871,283 inhabitants.[34] Kaliningrad Oblast was the fourth most densely populated federal subject in Russia, with 62.5 persons/km² (162 persons/sq mi).
 
 Population-wise, the oblast is thoroughly Russian and Russophone in character, with almost none of the pre–World War II German, Lithuanian (Lietuvininks), Latvian-speaking Kursenieki, or Polish population remaining in today's Kaliningrad Oblast. However, after 1991, some ethnic Germans and Poles began to return to the area, from Kazakhstan, Russia, and other sites in the former Soviet Union.
 
@@ -162,7 +162,7 @@ Until 1945, the region was overwhelmingly Lutheran, with a small number of Catho
 
 Military
 
-Victory_Day_in_Kaliningrad_2017-05-09_22.jpg in Kaliningrad]] For some years after the fall of the Soviet Union, Kaliningrad Oblast was one of the most militarized areas of the Russian Federation and the density of military installations was the highest in Europe, as much of the Soviet equipment pulled out of Eastern Europe was left there. As of 2009, there were 11,600 Russian ground troops based in the oblast, plus additional naval and air force personnel.[41] Thus military troops amount to less than 2% of the oblast's population. Kaliningrad is the headquarters of the Russian Baltic Fleet together with Chernyakhovsk (air base), Donskoye (air base) and Kaliningrad Chkalovsk (naval air base).
+in Kaliningrad]] For some years after the fall of the Soviet Union, Kaliningrad Oblast was one of the most militarized areas of the Russian Federation and the density of military installations was the highest in Europe, as much of the Soviet equipment pulled out of Eastern Europe was left there. As of 2009, there were 11,600 Russian ground troops based in the oblast, plus additional naval and air force personnel.[41] Thus military troops amount to less than 2% of the oblast's population. Kaliningrad is the headquarters of the Russian Baltic Fleet together with Chernyakhovsk (air base), Donskoye (air base) and Kaliningrad Chkalovsk (naval air base).
 
 _The Washington Times_ wrote on January 3, 2001, citing anonymous intelligence reports, that Russia had transferred tactical nuclear weapons into a military base in Kaliningrad for the first time since the end of the Cold War. Russian top-level military leaders denied those claims.[42] A Pentagon spokesperson said that such deployment would violate the Russian pledge to remove nuclear weapons from the Baltics. Russia and the United States announced in 1991 and 1992 a non-binding agreement to reduce arsenals of tactical nuclear weapons.
 
@@ -175,7 +175,7 @@ In November 2011, Dmitry Medvedev issued another stern warning that Russia would
 
 Economy
 
-Curonian_Spit_NP_05-2017_img17_aerial_view_at_Epha_Dune.jpg in Kaliningrad Oblast]] Kaliningrad_05-2017_img10_aerial_view.jpg
+in Kaliningrad Oblast]]
 
 According to statistics in 2016 Kaliningrad had Nominal GDP of US$7 billion and US$7,000 per capita.[49]
 

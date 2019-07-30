@@ -32,7 +32,7 @@ Overview
 
 The New Zealand economy has been ranked first in the world for Social Progression, which covers such areas as Basic Human Needs, Foundations of Wellbeing, and the level of Opportunity available to its citizens.[16] However, the outlook includes some challenges. New Zealand income levels, which used to be above those of many other countries in Western Europe prior to the crisis of the 1970s, have dropped in relative terms and never recovered. As a result, the number of New Zealanders living in poverty has grown and income inequality has increased dramatically.
 
-New Zealand has also had persistent current account deficits since the early 1970s, peaking at -7.8% of GDP in 2006 but falling to -2.6% of GDP in FY 2014.[17] The CIA World Fact Book notes that 2017 public debt (that owed by the Government) was 31.7% of GDP.[18] Between 1984 and 2006, net external foreign debt increased 11-fold, to NZ$182 billion.[19]As of June 2018 gross core crown debt was NZ$84,524 million or 29.5% of GDP and net core crown debt was NZ$62,114 million or 21.7% of GDP.[20] New_Zealand_overseas_debt_1993-2010.svg Debt_to_GDP_ratio_New_Zealand_Government_timeseriesnotitle_720by540.svg
+New Zealand has also had persistent current account deficits since the early 1970s, peaking at -7.8% of GDP in 2006 but falling to -2.6% of GDP in FY 2014.[17] The CIA World Fact Book notes that 2017 public debt (that owed by the Government) was 31.7% of GDP.[18] Between 1984 and 2006, net external foreign debt increased 11-fold, to NZ$182 billion.[19]As of June 2018 gross core crown debt was NZ$84,524 million or 29.5% of GDP and net core crown debt was NZ$62,114 million or 21.7% of GDP.[20]
 
 Despite New Zealand's persistent current account deficits, the balance on external goods and services has generally been positive. In FY 2014, export receipts exceeded imports by NZ$3.9 billion.[21] There has been an investment income imbalance or net outflow for debt-servicing of external loans. In FY 2014, New Zealand's investment income from the rest of the world was NZ$7 billion, versus outgoings of NZ$16.3 billion, a deficit of NZ$9.3 billion.[22] The proportion of the current account deficit that is attributable to the investment income imbalance (a net outflow to the Australian-owned banking sector) grew from one third in 1997 to roughly 70% in 2008.[23]
 
@@ -50,7 +50,7 @@ New Zealand was ranked 1st on the Transparency International Corruption Percepti
 
 Regional economies
 
-Regions_of_NZ_Numbered.png]] In 2015 Statistics New Zealand published details of the break-down of Gross Domestic Product in the Regions of New Zealand for the year ended March 2015:[30]
+]] In 2015 Statistics New Zealand published details of the break-down of Gross Domestic Product in the Regions of New Zealand for the year ended March 2015:[30]
 
   Region (position on map)                                                                                                                       GDP (2015, NZ$ million)   Share of national GDP   GDP per capita (NZ$, 2015)
   ---------------------------------------------------------------------------------------------------------------------------------------------- ------------------------- ----------------------- ----------------------------
@@ -97,7 +97,7 @@ Whether purchases are made by New Zealanders or foreigners, it is generally thos
 
 Inequality
 
-State_Housing_in_Oranga,_Auckland,_1947.jpg and post-war periods, when successive governments sponsored a massive state housing programme.]] Between 1982 and 2011, New Zealand's gross domestic product grew by 35%. Almost half of that increase went to a small group who were already the richest in the country. During this period, the average income of the top 10% of earners in New Zealand (those earning more than $72,000)[59] almost doubled going from $56,300 to $100,200. The average income of the poorest tenth increased by 13% from $9700 to $11,000.[60]
+and post-war periods, when successive governments sponsored a massive state housing programme.]] Between 1982 and 2011, New Zealand's gross domestic product grew by 35%. Almost half of that increase went to a small group who were already the richest in the country. During this period, the average income of the top 10% of earners in New Zealand (those earning more than $72,000)[59] almost doubled going from $56,300 to $100,200. The average income of the poorest tenth increased by 13% from $9700 to $11,000.[60]
 
 Growing inequality is confirmed by Statistics New Zealand which keeps track of income disparity using the P80/20 ratio. This ratio shows the difference between high household incomes (those in the 80th percentile) and low household incomes (those in the 20th percentile). The inequality ratio increased between 1988 and 2004, and decreased until the onset of the Global Financial Crisis in 2008, increasing again to 2011 and then declining again from then. By 2013, the disposable income of high-income households was more than two-and-a-half times larger than that of low-income households.[61] Highlighting the disparity, the top 1% of the population now owns 16% of the country's wealth – the richest 5% owns 38%[62] – while half the population, including beneficiaries and pensioners, earn less than $24,000.[63]
 
@@ -142,7 +142,7 @@ According to the National Infrastructure Unit of the Treasury, New Zealand "...c
 
 Transport
 
-Wellington_infrastructure.jpg New Zealand's transport infrastructure is "generally well developed."[96]
+New Zealand's transport infrastructure is "generally well developed."[96]
 
 Road network
 
@@ -187,7 +187,7 @@ The 70% share of renewable energy sources makes New Zealand one of the most sust
 
 History
 
-Fonterra_Facility_Near_Hamilton.jpg plant shown) is a major export earner]] Kinleith_Mill,_Tokoroa,_New_Zealand.jpg. Forestry exports are an important component of New Zealand's economy.]] For many years New Zealand's economy was built on a narrow range of agricultural products, such as wool, meat and dairy. These products became New Zealand's staple and most valuable exports, underpinning the success of the economy, from the 1850s until the 1970s.[112] For example, from 1920 to the late 1930s, the dairy export quota was usually around 35% of New Zealand's total exports, and in some years made up almost 45%.[113] Due to the high demand for these primary products, manifested by the New Zealand wool boom of 1951, New Zealand had one of the highest standards of living in the world for 70 years.[114]
+plant shown) is a major export earner]] . Forestry exports are an important component of New Zealand's economy.]] For many years New Zealand's economy was built on a narrow range of agricultural products, such as wool, meat and dairy. These products became New Zealand's staple and most valuable exports, underpinning the success of the economy, from the 1850s until the 1970s.[112] For example, from 1920 to the late 1930s, the dairy export quota was usually around 35% of New Zealand's total exports, and in some years made up almost 45%.[113] Due to the high demand for these primary products, manifested by the New Zealand wool boom of 1951, New Zealand had one of the highest standards of living in the world for 70 years.[114]
 
 In the 1960s, prices for these traditional exports declined, and in 1973 New Zealand lost its preferential trading position with the United Kingdom when the latter joined the European Economic Community. Partly as a result, from 1970 to 1990, the relative New Zealand GDP per capita adjusted for purchasing power declined from about 115% of the OECD average to 80%.[115]
 
@@ -211,7 +211,7 @@ The Reserve Bank of New Zealand was established as New Zealand's central bank on
 
 By the mid-20th century, pastoral-farming products made up more than 90% of New Zealand's exports,[133] 65% of which was going to Britain in the 1950s. Having a secure market with guaranteed prices also enabled New Zealand to impose high tariffs on imported goods from other countries. Tough import controls gave local manufacturers the ability to produce similar products locally, broaden the base of jobs available in New Zealand and still compete against higher priced imports.
 
-This prosperity continued up to 1955 at which point Britain stopped giving New Zealand guaranteed prices for its exports.[134] From then on, what New Zealand received was dictated by the free market. As a result, during the 1950s and 1960s the country's standard of living began to slip as the export sector was no longer able to pay for the level of imported goods required to meet the country's growing consumerism. Tiwai_Point_Aluminium_Smelter.jpg, opened in 1971]] Britain applied to join the European Economic Community (EEC) in 1961, but was vetoed by the French. The government of Keith Holyoake reacted by attempting to diversify New Zealand's export markets, signing the first free trade agreement (Australia New Zealand Free Trade Agreement) in 1965,[135] and opening new diplomatic posts in Hong Kong, Jakarta, Saigon, Los Angeles and San Francisco.[136] Britain applied again to join the EEC in 1967, and entered into negotiations for membership in 1970. Holyoake's deputy and successor, Jack Marshall, (briefly Prime Minister in 1972) negotiated continued access for New Zealand exports to the United Kingdom under the so-called "Luxembourg Agreement".[137]
+This prosperity continued up to 1955 at which point Britain stopped giving New Zealand guaranteed prices for its exports.[134] From then on, what New Zealand received was dictated by the free market. As a result, during the 1950s and 1960s the country's standard of living began to slip as the export sector was no longer able to pay for the level of imported goods required to meet the country's growing consumerism. , opened in 1971]] Britain applied to join the European Economic Community (EEC) in 1961, but was vetoed by the French. The government of Keith Holyoake reacted by attempting to diversify New Zealand's export markets, signing the first free trade agreement (Australia New Zealand Free Trade Agreement) in 1965,[135] and opening new diplomatic posts in Hong Kong, Jakarta, Saigon, Los Angeles and San Francisco.[136] Britain applied again to join the EEC in 1967, and entered into negotiations for membership in 1970. Holyoake's deputy and successor, Jack Marshall, (briefly Prime Minister in 1972) negotiated continued access for New Zealand exports to the United Kingdom under the so-called "Luxembourg Agreement".[137]
 
 Britain gained full membership of the EEC on 1 January 1973, and all trade agreements with New Zealand came to an end, except the Luxembourg Agreement.[138] By the end of that year, only 26.8% of New Zealand's exports were to Britain.[139] This had a significant effect on the standard of living. In 1953, New Zealand had the third highest standard in the world. By 1978, it had dropped to 22nd place.[140]
 
@@ -247,7 +247,7 @@ Richardson's first budget in 1991, nicknamed the 'Mother of all Budgets',[157] a
 
 By this time, New Zealand's economy faced serious social problems; the number of New Zealanders estimated to be living in poverty grew by at least 35% between 1989 and 1992;[160] many of the promised economic benefits of the experiment never materialised.[161] Gross domestic product per capita stagnated between 1986–87 and 1993–94, and by March 1992 unemployment rose to 11.1%[162] Between 1985 and 1992, New Zealand's economy grew by 4.7% during the same period in which the average OECD nation grew by 28.2%.[163] From 1984 to 1993 inflation averaged 9% per year, New Zealand's credit rating dropped twice, and foreign debt quadrupled.[164] Between 1986 and 1993, the unemployment rate rose from 3.6% to 11%.[165]
 
-Postal_deregulation_New_Zealand.jpg Deregulation also created a business-friendly regulatory framework which has benefited those able to take advantage of it. A 2008 survey in The Heritage Foundation and _Wall Street Journal_ ranked New Zealand 99.9% in "Business freedom", and 80% overall in "Economic freedom", noting that it takes, on average, only 12 days to establish a business in New Zealand, compared with a worldwide average of 43 days.[166]
+Deregulation also created a business-friendly regulatory framework which has benefited those able to take advantage of it. A 2008 survey in The Heritage Foundation and _Wall Street Journal_ ranked New Zealand 99.9% in "Business freedom", and 80% overall in "Economic freedom", noting that it takes, on average, only 12 days to establish a business in New Zealand, compared with a worldwide average of 43 days.[166]
 
 Deregulation has also been blamed for other significant negative effects. One of these was the leaky homes crisis, whereby the loosening up of building standards (in the expectation that market forces would assure quality) led to many thousands of severely deficient buildings, mostly residential homes and apartments, being constructed over a period of a decade. The costs of fixing the damage has been estimated at over NZ$11 billion ().[167]
 
@@ -280,11 +280,11 @@ New Zealand's small size and long distances from major world markets creates sig
 
 Trade agreements
 
-NZ_FTA_Negotiations_as_of_December_2008.png Since 1960s New Zealand has pursued free trade agreements with many countries to diversify its export markets and increase the competitiveness of New Zealand's exports to the world.[195] As well as reducing barriers to trade, Trade Agreements New Zealand has entered into are designed to ensure existing access is maintained. Trade agreements establish rules by which trade can take place and ensure regulators and officials in countries New Zealand is trading with work closely together.[196]
+Since 1960s New Zealand has pursued free trade agreements with many countries to diversify its export markets and increase the competitiveness of New Zealand's exports to the world.[195] As well as reducing barriers to trade, Trade Agreements New Zealand has entered into are designed to ensure existing access is maintained. Trade agreements establish rules by which trade can take place and ensure regulators and officials in countries New Zealand is trading with work closely together.[196]
 
 Australia
 
-Australia_New_Zealand_Closer_Economic_Relations_Trade_Agreement_1983_-_signed_by_Laurie_Francis_&_Lionel_Brown_(13272074365_cropped).jpg Australia is New Zealand's largest bilateral trading partner.[197] In 2013, trade between New Zealand and Australia was worth NZ$25.6 billion.[198] Economic and trading links between Australia and New Zealand are underpinned by the "Closer Economic Relations" (CER) agreement, which allows for free trade in goods and most services. Since 1990, CER has created a single market of more than 25 million people. Australia is now the destination of 19% of New Zealand's exports, including light crude oil, gold, wine, cheese and timber, as well as a wide range of manufactured items.
+Australia is New Zealand's largest bilateral trading partner.[197] In 2013, trade between New Zealand and Australia was worth NZ$25.6 billion.[198] Economic and trading links between Australia and New Zealand are underpinned by the "Closer Economic Relations" (CER) agreement, which allows for free trade in goods and most services. Since 1990, CER has created a single market of more than 25 million people. Australia is now the destination of 19% of New Zealand's exports, including light crude oil, gold, wine, cheese and timber, as well as a wide range of manufactured items.
 
 The CER also creates a free labour market which allows New Zealand and Australian citizens to live and work freely in each other's country together with mutual recognition of professional qualifications. This means individuals who are registered to practise an occupation in one country can register to practise an equivalent occupation in the other country. Banking regulation and supervision are co-ordinated through the Trans-Tasman Council on Banking Supervision and there are also ongoing discussions about co-ordinating Australian and New Zealand business law.[199]
 
@@ -330,7 +330,7 @@ Between 1997 and 2007, foreign investors made $50.3 billion profit, 68% of which
 
 Other indicators
 
-Real_Journeys_Milford_Sound_Bus.jpg (special bus with viewing gallery), is a major export earner for New Zealand]]
+(special bus with viewing gallery), is a major export earner for New Zealand]]
 
 INDUSTRIAL PRODUCTION GROWTH RATE: 5.9% (2004) / 1.5% (2007)
 

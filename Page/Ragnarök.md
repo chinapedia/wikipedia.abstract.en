@@ -1,4 +1,4 @@
-Stave_church_Urnes,_craving_detail_1.jpg has been interpreted as containing depictions of snakes and dragons that represent Ragnarök.]]
+has been interpreted as containing depictions of snakes and dragons that represent Ragnarök.]]
 
 In Norse mythology, RAGNARÖK ()[1][2][3] is a series of events, including a great battle, foretold to lead to the death of a number of great figures (including the Gods Odin, Thor, Týr, Freyr, Heimdallr and Loki), natural disasters and the submersion of the world in water. After these events, the world will resurface anew and fertile, the surviving and returning gods will meet and the world will be repopulated by two human survivors. Ragnarök is an important event in Norse mythology and has been the subject of scholarly discourse and theory in the history of Germanic studies.
 
@@ -24,7 +24,7 @@ The _Poetic Edda_ contains various references to Ragnarök:
 
 _Völuspá_
 
-Then_the_awful_fight_began_by_George_Wright.jpg, 1908)]] Odin_und_Fenriswolf_Freyr_und_Surt.jpg and Surt'' (depiction by Emil Doepler, 1905)]] Thor_und_die_Midgardsschlange.jpg Kampf_der_untergehenden_Götter_by_F._W._Heine.jpg, 1882)]] The_twilight_of_the_gods_by_Willy_Pogany.png, 1920)]] In the _Poetic Edda_ poem _Völuspá_, references to Ragnarök begin from stanza 40 until 58, with the rest of the poem describing the aftermath. In the poem, a _völva_ (a female seer) recites information to Odin. In stanza 41, the völva says:
+, 1908)]] and Surt'' (depiction by Emil Doepler, 1905)]] , 1882)]] , 1920)]] In the _Poetic Edda_ poem _Völuspá_, references to Ragnarök begin from stanza 40 until 58, with the rest of the poem describing the aftermath. In the poem, a _völva_ (a female seer) recites information to Odin. In stanza 41, the völva says:
 
 The völva then describes three roosters crowing: In stanza 42, the jötunn herdsman Eggthér sits on a mound and cheerfully plays his harp while the crimson rooster Fjalar (Old Norse "hider, deceiver") crows in the forest Gálgviðr. The golden rooster Gullinkambi crows to the Æsir in Valhalla, and the third, unnamed soot-red rooster crows in the halls of the underworld location of Hel in stanza 43.
 
@@ -42,7 +42,7 @@ The völva says that the god Hœnir chooses wooden slips for divination, and tha
 
 _Vafþrúðnismál_
 
-Vidar_by_Collingwood.jpg, inspired by the Gosforth Cross, 1908)]] Fenrir_and_Odin_by_Frølich.jpg, 1895)]]
+, inspired by the Gosforth Cross, 1908)]] , 1895)]]
 
 The Vanir god Njörðr is mentioned in relation to Ragnarök in stanza 39 of the poem _Vafþrúðnismál_. In the poem, Odin, disguised as Gagnráðr, faces off with the wise jötunn Vafþrúðnir in a battle of wits. Vafþrúðnismál references Njörðr's status as a hostage during the earlier Æsir–Vanir War, and that he will "come back home among the wise Vanir" at "the doom of men."
 
@@ -60,7 +60,7 @@ Snorri Sturluson's _Prose Edda_ quotes heavily from _Völuspá_ and elaborates e
 
 _Gylfaginning_ chapters 26 and 34
 
-Beginn_des_Weltunterganges.jpg In the _Prose Edda_ book _Gylfaginning_, various references are made to Ragnarök. Ragnarök is first mentioned in chapter 26, where the throned figure of High, king of the hall, tells Gangleri (King Gylfi in disguise) some basic information about the goddess Iðunn, including that her apples will keep the gods young until Ragnarök.
+In the _Prose Edda_ book _Gylfaginning_, various references are made to Ragnarök. Ragnarök is first mentioned in chapter 26, where the throned figure of High, king of the hall, tells Gangleri (King Gylfi in disguise) some basic information about the goddess Iðunn, including that her apples will keep the gods young until Ragnarök.
 
 In chapter 34, High describes the binding of the wolf Fenrir by the gods, causing the god Týr to lose his right hand, and that Fenrir remains there until Ragnarök. Gangleri asks High why, since the gods could only expect destruction from Fenrir, they did not simply kill Fenrir once he was bound. High responds that "the gods hold their sacred places and sanctuaries in such respect that they chose not to defile them with the wolf's blood, even though the prophecies foretold that he would be the death of Odin."
 
@@ -72,13 +72,13 @@ Chapter 51 provides a detailed account of Ragnarök interspersed with various qu
 
 High relates that the great serpent Jörmungandr, also described as a child of Loki in the same source, will breach land as the sea violently swells onto it. The ship Naglfar, described in the _Prose Edda_ as being made from the human nails of the dead, is released from its mooring, and sets sail on the surging sea, steered by a jötunn named Hrym. At the same time, Fenrir, eyes and nostrils spraying flames, charges forward with his mouth wide open, his upper jaw reaching to the heavens, his lower jaw touching the earth. At Fenrir's side, Jörmungandr sprays venom throughout the air and the sea.
 
-During all of this, the sky splits into two. From the split, the "sons of Muspell" ride forth. Surtr rides first, surrounded by flames, his sword brighter than the sun. High says that "Muspell's sons" will ride across Bifröst, described in _Gylfaginning_ as a rainbow bridge, and that the bridge will then break. The sons of Muspell (and their shining battle troop) advance to the field of Vígríðr, described as an expanse that reaches "a hundred leagues in each direction", where Fenrir, Jörmungandr, Loki (followed by "Hel's own"), and Hrym (accompanied by all frost jötnar) join them. While this occurs, Heimdallr stands and blows the Gjallarhorn with all his might. The gods awaken at the sound, and they meet. Odin rides to Mímisbrunnr in search of counsel from Mímir. Yggdrasil shakes, and everything, everywhere fears. Ragnarök_by_Doepler.jpg High relates that the Æsir and the Einherjar dress for war and head to the field. Odin, wearing a gold helmet and an intricate coat of mail, carries his spear Gungnir and rides before them. Odin advances against Fenrir, while Thor moves at his side, though Thor is unable to assist Odin because he has engaged Jörmungandr in combat. According to High, Freyr fights fiercely with Surtr, but falls because he lacks the sword he once gave to his messenger, Skírnir. The hound Garmr (described here as the "worst of monsters") breaks free from his bonds in front of Gnipahellir, and fights the god Týr, resulting in both of their deaths.
+During all of this, the sky splits into two. From the split, the "sons of Muspell" ride forth. Surtr rides first, surrounded by flames, his sword brighter than the sun. High says that "Muspell's sons" will ride across Bifröst, described in _Gylfaginning_ as a rainbow bridge, and that the bridge will then break. The sons of Muspell (and their shining battle troop) advance to the field of Vígríðr, described as an expanse that reaches "a hundred leagues in each direction", where Fenrir, Jörmungandr, Loki (followed by "Hel's own"), and Hrym (accompanied by all frost jötnar) join them. While this occurs, Heimdallr stands and blows the Gjallarhorn with all his might. The gods awaken at the sound, and they meet. Odin rides to Mímisbrunnr in search of counsel from Mímir. Yggdrasil shakes, and everything, everywhere fears. High relates that the Æsir and the Einherjar dress for war and head to the field. Odin, wearing a gold helmet and an intricate coat of mail, carries his spear Gungnir and rides before them. Odin advances against Fenrir, while Thor moves at his side, though Thor is unable to assist Odin because he has engaged Jörmungandr in combat. According to High, Freyr fights fiercely with Surtr, but falls because he lacks the sword he once gave to his messenger, Skírnir. The hound Garmr (described here as the "worst of monsters") breaks free from his bonds in front of Gnipahellir, and fights the god Týr, resulting in both of their deaths.
 
 Thor kills Jörmungandr but is poisoned by the serpent, and manages to walk only nine steps before falling to the earth dead. Fenrir swallows Odin, though immediately afterward his son Víðarr kicks his foot into Fenrir's lower jaw, grips the upper jaw, and rips apart Fenrir's mouth, killing the great wolf. Loki fights Heimdallr and the two kill each other. Surtr covers the earth in fire, causing the entire world to burn. High quotes stanzas 46 to 47 of _Völuspá_, and additionally stanza 18 of _Vafþrúðnismál_ (the latter relating information about the battlefield Vígríðr).
 
 _Gylfaginning_ chapters 52 and 53
 
-After_Ragnarök_by_Doepler.jpg'' (depiction by Emil Doepler)]] Líf_and_Lífthrasir_by_Lorenz_Frølich.jpg, 1895)]] At the beginning of chapter 52, Gangleri asks "what will be after heaven and earth and the whole world are burned? All the gods will be dead, together with the Einherjar and the whole of mankind. Didn't you say earlier that each person will live in some world throughout all ages?"
+'' (depiction by Emil Doepler)]] , 1895)]] At the beginning of chapter 52, Gangleri asks "what will be after heaven and earth and the whole world are burned? All the gods will be dead, together with the Einherjar and the whole of mankind. Didn't you say earlier that each person will live in some world throughout all ages?"
 
 The figure of Third, seated on the highest throne in the hall, responds that there will be many good places to live, but also many bad ones. Third states that the best place to be is Gimlé in the heavens, where a place exists called Okolnir that houses a hall called Brimir—where one can find plenty to drink. Third describes a hall made of red gold located in Niðafjöll called Sindri, where "good and virtuous men will live." Third further relates an unnamed hall in Náströnd, the beaches of the dead, that he describes as a large repugnant hall facing north that is built from the spines of snakes, and resembles "a house with walls woven from branches;" the heads of the snakes face the inside of the house and spew so much venom that rivers of it flow throughout the hall, in which oath breakers and murderers must wade. Third here quotes _Völuspá_ stanzas 38 to 39, with the insertion of original prose stating that the worst place of all to be is in Hvergelmir, followed by a quote from _Völuspá_ to highlight that the dragon Níðhöggr harasses the corpses of the dead there.
 
@@ -89,7 +89,7 @@ High reveals that two humans, Líf and Lífþrasir, will have also survived the 
 
 Archaeological record
 
-Br_Olsen;185A,_Andreas.jpg Various objects have been identified as depicting events from Ragnarök.
+Various objects have been identified as depicting events from Ragnarök.
 
 Thorwald's Cross
 
@@ -101,7 +101,7 @@ The Gosforth Cross (920–950), in Cumbria, England, is a standing cross of a ty
 
 Ledberg stone
 
-Ledbergsstenen_20041231.jpg The 11th century Ledberg stone in Sweden, similarly to Thorwald's Cross, features a figure with his foot at the mouth of a four-legged beast, and this may also be a depiction of Odin being devoured by Fenrir at Ragnarök. Below the beast and the man is a depiction of a legless, helmeted man, with his arms in a prostrate position. The Younger Futhark inscription on the stone bears a commonly seen memorial dedication, but is followed by an encoded runic sequence that has been described as "mysterious," and "an interesting magic formula which is known from all over the ancient Norse world."
+The 11th century Ledberg stone in Sweden, similarly to Thorwald's Cross, features a figure with his foot at the mouth of a four-legged beast, and this may also be a depiction of Odin being devoured by Fenrir at Ragnarök. Below the beast and the man is a depiction of a legless, helmeted man, with his arms in a prostrate position. The Younger Futhark inscription on the stone bears a commonly seen memorial dedication, but is followed by an encoded runic sequence that has been described as "mysterious," and "an interesting magic formula which is known from all over the ancient Norse world."
 
 Skarpåker stone
 
@@ -112,7 +112,7 @@ Jansson (1987) notes that at the time of the inscription, everyone who read the 
 
 Theories and interpretations
 
-Ragnarök_by_Collingwood.jpg)'' (by W. G. Collingwood, 1908)]] Der_Asen_Untergang_by_Karl_Ehrenberg.jpg, 1882)]]
+)'' (by W. G. Collingwood, 1908)]] , 1882)]]
 
 Cyclic time and _Hoddmímis holt_
 

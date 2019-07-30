@@ -1,4 +1,4 @@
-F100_Napalm.gif deploying Napalm in a training exercise.]]NAPALM is an incendiary mixture of a gelling agent and a volatile petrochemical (usually gasoline (petrol) or diesel fuel). The title is a portmanteau of the names of two of the constituents of the original thickening and gelling agents: co-precipitated aluminium salts of NAphthenic and PALMitic acids.[1] Napalm B is the more modern version of napalm (utilizing styrene derivatives) and, although distinctly different in its chemical composition, is often referred to simply as "napalm".[2]
+deploying Napalm in a training exercise.]]NAPALM is an incendiary mixture of a gelling agent and a volatile petrochemical (usually gasoline (petrol) or diesel fuel). The title is a portmanteau of the names of two of the constituents of the original thickening and gelling agents: co-precipitated aluminium salts of NAphthenic and PALMitic acids.[1] Napalm B is the more modern version of napalm (utilizing styrene derivatives) and, although distinctly different in its chemical composition, is often referred to simply as "napalm".[2]
 
 Napalm was originally developed in 1942 in a secret laboratory at Harvard University, by a team led by chemist Louis Fieser under the United States Chemical Warfare Service.[3] Of immediate first interest was its viability as an incendiary device to be used in fire bombing campaigns during World War II, but its ability to be coherently projected into a solid stream that would carry for distance (instead of the bloomy fireball of pure gasoline) resulted in widespread adoption in infantry/combat engineer flamethrowers as well.
 
@@ -25,7 +25,7 @@ From 1965 to 1969, the Dow Chemical Company manufactured napalm B for the Americ
 
 Military use
 
-French_indochina_napalm_1953-12_1.png on suspected Viet Minh positions during the First Indochina War, December 1953.]]
+on suspected Viet Minh positions during the First Indochina War, December 1953.]]
 
 Napalm was first employed in incendiary bombs and went on to be used as fuel for flamethrowers.[15]
 
@@ -37,7 +37,7 @@ Then, when the U.S. Army Air Forces on the Marianas Islands ran out of conventio
 
 In the European Theater of Operations napalm was used by American forces[20] in the siege of La Rochelle in April 1945 against German soldiers (and inadvertently French civilians in Royan) – about two weeks before the end of the war.[21]
 
-US_riverboat_using_napalm_in_Vietnam.jpg deploying an ignited napalm mixture from a riverboat-mounted flamethrower in Vietnam.]]
+deploying an ignited napalm mixture from a riverboat-mounted flamethrower in Vietnam.]]
 
 Napalm was also widely used by the United States during the Korean War.[22] These ground forces in North Korea were outnumbered at points of defense by Chinese and North Koreans, but U.S. Air Force and Navy aviators had control of the air over nearly all of the Korean Peninsula. Hence, close air support of the ground troops along the border between North Korea and South Korea was vital, and the American and other U.N. aviators used napalm B for attacks in North Korea. Napalm was used most notably during the battle "Outpost Harry" in South Korea during the night of June 10–11, 1953. Eighth Army chemical officer Donald Bode reported that on an "average good day" UN pilots used 70,000 gallons of napalm, with approximately 60,000 gallons of this thrown by US forces.[23] In John Ford's 1951 documentary, _This is Korea_, footage of napalm deployment is accompanied by a voice-over by John Wayne saying, "Burn 'em out, cook 'em, fry 'em"; the _New York Herald Tribune_ hailed "Napalm, the No. 1 Weapon in Korea".[24] Winston Churchill, among others, criticized American use of napalm in Korea, calling it "very cruel", as the US/UN forces, he said, were "splashing it all over the civilian population", "tortur[ing] great masses of people". The American official who took this statement declined to publicize it.[25]
 

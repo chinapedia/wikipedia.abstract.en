@@ -11,7 +11,7 @@ Early life
 
 James Monroe was born on April 28, 1758, in his parents' house located in a wooded area of Westmoreland County, Virginia. The marked site is one mile from the unincorporated community known today as Monroe Hall, Virginia. The James Monroe Family Home Site was listed on the National Register of Historic Places in 1979. His father Spence Monroe (1727–1774) was a moderately prosperous planter who also practiced carpentry. His mother Elizabeth Jones (1730–1772) married Spence Monroe in 1752 and they had five children: Elizabeth, James, Spence, Andrew, and Joseph Jones.[1][2]
 
-Birthplace_of_Monroe_historical_marker.jpg]]
+]]
 
 His paternal second great-grandfather Patrick Andrew Monroe emigrated to America from Scotland in the mid-17th century, and was part of an ancient Scottish clan known as Clan Munro. In 1650 he patented a large tract of land in Washington Parish, Westmoreland County, Virginia. Monroe's mother was the daughter of a wealthy immigrant by the name of James Jones, who immigrated from Wales and had settled in nearby King George County, Virginia. Jones was an architect.[3] Also among James Monroe's ancestors were French Huguenot immigrants, who came to Virginia in 1700.[4]
 
@@ -21,7 +21,7 @@ Revolutionary War service
 
 In early 1776, about a year and a half after his enrollment, Monroe dropped out of college and joined the 3rd Virginia Regiment in the Continental Army.[6] As the fledgling army valued literacy in its officers, Monroe was commissioned with the rank of lieutenant, serving under Captain William Washington. After months of training, Monroe and seven hundred Virginia infantrymen were called north to serve in the New York and New Jersey campaign. Shortly after the Virginians arrived, George Washington led the army in a retreat from New York City into New Jersey and then across the Delaware River into Pennsylvania. In December, Monroe took part in a surprise attack on a Hessian encampment. Though the attack was successful, Monroe suffered a severed artery in the battle and nearly died. In the aftermath of the battle, George Washington cited Monroe and William Washington for their bravery, and promoted Monroe to the rank of captain. After his wounds healed, Monroe returned to Virginia to recruit his own company of soldiers.[7] Monroe's participation in the battle was memorialized in John Trumbull's painting, _The Capture of the Hessians at Trenton, December 26, 1776_, as well as Emanuel Leutze's _Washington Crossing the Delaware._[8]
 
-The_Capture_of_the_Hessians_at_Trenton_December_26_1776.jpeg'', by John Trumbull, showing Captain William Washington, with a wounded hand, on the right and Lt. Monroe, severely wounded and helped by Dr. Riker, left of center]]
+'', by John Trumbull, showing Captain William Washington, with a wounded hand, on the right and Lt. Monroe, severely wounded and helped by Dr. Riker, left of center]]
 
 Lacking the wealth to induce soldiers to join his company, Monroe instead asked his uncle to return him to the front. Monroe was assigned to the staff of General William Alexander, Lord Stirling. During this time, Monroe formed a close friendship with the Marquis de Lafayette, a French volunteer who encouraged Monroe to view the war as part of a wider struggle against religious and political tyranny. Monroe served in the Philadelphia campaign and spent the winter of 1777–1778 at the encampment of Valley Forge, sharing a log hut with Marshall. After serving in the Battle of Monmouth, the destitute Monroe resigned his commission in December 1778 and joined his uncle in Philadelphia. After the British captured Savannah, the Virginia legislature decided to raise four regiments, and Monroe returned to his native state, hoping to receive his own command. With letters of recommendation from Washington, Stirling, and Alexander Hamilton, Monroe received a commission as a lieutenant colonel and was expected to lead one of the regiments, but recruitment again proved to be an issue. On the advice of Jones, Monroe returned to Williamsburg to study law, becoming a protege of Virginia Governor Thomas Jefferson.[9]
 
@@ -30,7 +30,7 @@ With the British increasingly focusing their operations in the Southern colonies
 
 Marriage and family
 
-Elizabeth_Monroe.jpg On February 16, 1786, Monroe married Elizabeth Kortright (1768–1830) in New York City.[15] She was the daughter of Hannah Aspinwall Kortright and Laurence Kortright, a wealthy trader and former British officer. Monroe met her while serving in the Continental Congress.[16]
+On February 16, 1786, Monroe married Elizabeth Kortright (1768–1830) in New York City.[15] She was the daughter of Hannah Aspinwall Kortright and Laurence Kortright, a wealthy trader and former British officer. Monroe met her while serving in the Continental Congress.[16]
 
 After a brief honeymoon on Long Island, New York, the Monroes returned to New York City to live with her father until Congress adjourned. They then moved to Virginia, settling in Charlottesville, Virginia, in 1789. They bought an estate in Charlottesville known as Ash Lawn–Highland, settling on the property in 1799. The Monroes had three children.[17]
 
@@ -41,7 +41,7 @@ After a brief honeymoon on Long Island, New York, the Monroes returned to New Yo
 
 Plantations and slavery
 
-OakHillfront.jpg Monroe sold his small inherited Virginia plantation in 1783 to enter law and politics. He later fulfilled his youthful dream of becoming the owner of a large plantation and wielding great political power, but his plantation was never profitable. Although he owned much more land and many more slaves, and speculated in property, he was rarely on-site to oversee the operations. Overseers treated the slaves harshly to force production, but the plantations barely broke even. Monroe incurred debts by his lavish and expensive lifestyle and often sold property (including slaves) to pay them off.[22] Overseers moved or separated slave families from different Monroe plantations in accordance with production and maintenance needs of each satellite plantation.[23] One of Monroe's slaves named Daniel often ran away from his plantation in Albermarle County, to visit other slaves or separated family members.[24] Monroe commonly referred to Daniel as a "scoundrel" and described the "worthlessness" of Daniel as a runaway slave.[25] The practice of moving and separating slave families was common treatment of slaves in the South.[26]
+Monroe sold his small inherited Virginia plantation in 1783 to enter law and politics. He later fulfilled his youthful dream of becoming the owner of a large plantation and wielding great political power, but his plantation was never profitable. Although he owned much more land and many more slaves, and speculated in property, he was rarely on-site to oversee the operations. Overseers treated the slaves harshly to force production, but the plantations barely broke even. Monroe incurred debts by his lavish and expensive lifestyle and often sold property (including slaves) to pay them off.[22] Overseers moved or separated slave families from different Monroe plantations in accordance with production and maintenance needs of each satellite plantation.[23] One of Monroe's slaves named Daniel often ran away from his plantation in Albermarle County, to visit other slaves or separated family members.[24] Monroe commonly referred to Daniel as a "scoundrel" and described the "worthlessness" of Daniel as a runaway slave.[25] The practice of moving and separating slave families was common treatment of slaves in the South.[26]
 
 
 Early political career
@@ -59,8 +59,6 @@ Henry and other anti-federalists hoped to elect a Congress that would amend the 
 During the presidency of George Washington, U.S. politics became increasingly polarized between the supporters of Secretary of State Jefferson and the Federalists, led by Secretary of the Treasury Alexander Hamilton. Monroe stood firmly with Jefferson in opposing Hamilton's strong central government and strong executive. The Democratic-Republican Party coalesced around Jefferson and Madison, and Monroe became one of the fledgling party's leaders in the Senate. He also helped organize opposition to John Adams in the 1792 election, though Adams defeated George Clinton to win re-election.[33] As the 1790s progressed, the French Revolutionary Wars came to dominate U.S. foreign policy, with British and French raids both threatening U.S. trade with Europe. Like most other Jeffersonians, Monroe supported the French Revolution, but Hamilton's followers tended to sympathize more with Britain. In 1794, hoping to find a way to avoid war with both countries, Washington appointed Monroe as his minister (ambassador) to France. At the same time, he appointed the anglophile Federalist John Jay as his minister to Britain.[34]
 
 Ambassador to France
-
-James_Monroe_(1758-1831).jpg
 
 After arriving in France, Monroe addressed the National Convention, receiving a standing ovation for his speech celebrating republicanism. He experienced several early diplomatic successes, including the protection of U.S. trade from French attacks. He also used his influence to win the release of Thomas Paine and Adrienne de La Fayette, the wife of the Marquis de Lafayette.[35] Months after Monroe arrived in France, the U.S. and Great Britain concluded the Jay Treaty, outraging both the French and Monroe—not fully informed about the treaty prior to its publication. Despite the undesirable effects of the Jay Treaty on Franco-American relations, Monroe won French support for U.S. navigational rights on the Mississippi River—the mouth of which was controlled by Spain—and in 1795 the U.S. and Spain signed Pinckney's Treaty. The treaty granted the U.S. limited rights to use the port of New Orleans.
 
@@ -159,7 +157,7 @@ Acquisition of Florida
 
 Spain had long rejected repeated American efforts to purchase Florida. But by 1818, Spain was facing a troubling colonial situation in which the cession of Florida made sense. Spain had been exhausted by the Peninsular War in Europe and needed to rebuild its credibility and presence in its colonies. Revolutionaries in Central America and South America were beginning to demand independence. Spain was unwilling to invest further in Florida, encroached on by American settlers, and it worried about the border between New Spain and the United States. With only a minor military presence in Florida, Spain was not able to restrain the Seminole warriors who routinely crossed the border and raided American villages and farms, as well as protected southern slave refugees from slave owners and traders of the southern United States.
 
-Adams_onis_map.png of 1819]]
+of 1819]]
 
 In response to these Seminole attacks, Monroe ordered a military expedition to cross into Spanish Florida and attack the Seminoles. The expedition, led by Andrew Jackson, defeated numerous Seminoles but also seized the Spanish territorial capital of Pensacola. With the capture of Pensacola, Jackson established de facto American control of the entire territory. While Monroe supported Jackson's actions, many in Congress harshly criticized what they saw as an undeclared war. With the support of Secretary of State Adams, Monroe defended Jackson against domestic and international criticism, and the United States began negotiations with Spain.[96]
 
@@ -192,15 +190,13 @@ Five new states were admitted to the Union while Monroe was in office:
 
 Post-presidency
 
-James_Monroe_marker_at_Univ._of_VA_IMG_4248.JPG in Charlottesville]]
+in Charlottesville]]
 
 When his presidency ended on March 4, 1825, James Monroe resided at Monroe Hill, what is now included in the grounds of the University of Virginia. He served on the university's Board of Visitors under Jefferson and under the second rector James Madison, both former presidents, almost until his death. He and his wife lived at Oak Hill in Aldie, Virginia, until Elizabeth's death on September 23, 1830. In August 1825, the Monroes had received the Marquis de Lafayette and President John Quincy Adams as guests there.[110]
 
 Monroe incurred many unliquidated debts during his years of public life. He sold off his Highland Plantation. It is now owned by his _alma mater_, the College of William and Mary, which has opened it to the public as a historic site. Throughout his life, he was financially insolvent, and this was exacerbated by his wife's poor health.[111]
 
 Monroe was elected as a delegate to the Virginia Constitutional Convention of 1829-1830. He was one of four delegates elected from the senatorial district made up of his home district of Loudoun and Fairfax County.[112] In October 1829, he was elected by the Convention to serve as the presiding officer, until his failing health required him to withdraw on December 8, after which Philip Pendleton Barbour of Orange County was elected presiding officer.
-
-Monroe_Tomb_02.jpg
 
 Upon Elizabeth's death in 1830, Monroe moved to New York City to live with his daughter Maria Hester Monroe Gouverneur, who had married Samuel L. Gouverneur. Monroe's health began to slowly fail by the end of the 1820s.[113] On July 4, 1831, Monroe died from heart failure and tuberculosis, thus becoming the third president to have died on Independence Day. His death came 55 years after the United States Declaration of Independence was proclaimed and five years after the deaths of John Adams and Thomas Jefferson. His last words were, "I regret that I should leave this world without again beholding him." He referred to James Madison, who in fact was one of his best friends.[114] Monroe was originally buried in New York at the Gouverneur family's vault in the New York City Marble Cemetery. 27 years later, in 1858, his body was re-interred at the President's Circle in Hollywood Cemetery in Richmond, Virginia. The James Monroe Tomb is a U.S. National Historic Landmark.
 
@@ -225,7 +221,7 @@ When Monroe was Governor of Virginia in 1800, hundreds of slaves from Virginia p
 
 Legacy
 
-JamesMonroeStatue.jpg]]
+]]
 
 Historical reputation
 

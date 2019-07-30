@@ -3,7 +3,7 @@ LAZIO (, , ; ) is one of the 20 administrative regions of Italy. Situated in the
 
 Geography
 
-Lazio_SRTM.png Vallée_de_l'Aniene_et_Monts_Prénestiens.JPG Valley.]]
+Valley.]]
 
 Lazio comprises a land area of and it has borders with Tuscany, Umbria, and Marche to the north, Abruzzo and Molise to the east, Campania to the south, and the Tyrrhenian Sea to the west. The region is mainly flat, with small mountainous areas in the most eastern and southern districts.
 
@@ -14,7 +14,7 @@ The Preapennines of Latium, marked by the Tiber valley and the Liri with the Sac
 
 History
 
-_See also: List of museums in Lazio_ RomaViaAppiaAntica03.JPG (_Via Appia_), a road connecting Ancient Rome to the southern parts of Italy, remains usable even today.]]
+_See also: List of museums in Lazio_ (_Via Appia_), a road connecting Ancient Rome to the southern parts of Italy, remains usable even today.]]
 
 The Italian word Lazio descends from the Latin word Latium. The name of the region also survives in the tribal designation of the ancient population of Latins, Latini in the Latin language spoken by them and passed on to the city-state of Ancient Rome. Although the demography of ancient Rome was multi-ethnic, including, for example, Etruscans and other Italics besides the Latini, the latter were the dominant constituent. In Roman mythology, the tribe of the Latini took their name from king Latinus. Apart from the mythical derivation of Lazio given by the ancients as the place where Saturn, ruler of the golden age in Latium, hid (latuisset)[2] from Jupiter there,[3] a major modern etymology is that Lazio comes from the Latin word "latus", meaning "wide",[4] expressing the idea of "flat land" meaning the Roman Campagna. Much of Lazio is in fact flat or rolling. The lands originally inhabited by the Latini were extended into the territories of the Samnites, the Marsi, the Hernici, the Aequi, the Aurunci and the Volsci, all surrounding Italic tribes. This larger territory was still called Latium, but it was divided into Latium adiectum or Latium Novum, the added lands or New Latium, and Latium Vetus, or Old Latium, the older, smaller region.
 
@@ -117,7 +117,6 @@ Administrative divisions
 
 Lazio is divided into four provinces and one metropolitan (province-level) city:
 
-Latium_Provinces.png
 {| class="wikitable sortable" style="margin:.8em" |- ! style="background:#ccf;"|Province ! style="background:#ccf;"|Area (km²) ! style="background:#ccf;"|Population ! style="background:#ccf;"|Density
 (inh./km²) |- | Province of Frosinone | 3,244 | 496,545 | 153.1 |- | Province of Latina | 2,251 | 543,844 | 241.4 |- | Province of Rieti | 2,749 | 158,545 | 57.7 |- | Metropolitan City of Rome Capital | 5,352 | 4,097,085 | 765.5 |- | Province of Viterbo | 3,612 | 314,690 | 87.1 |}
 

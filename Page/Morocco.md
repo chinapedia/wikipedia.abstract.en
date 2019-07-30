@@ -22,11 +22,11 @@ History
 
 Prehistory and antiquity
 
-Ptolemy_of_Mauretania_Louvre_Ma1887.jpg.]] The area of present-day Morocco has been inhabited since Paleolithic times, sometime between 190,000 and 90,000 BC.[10] A recent publication may demonstrate an even earlier habitation period, as _Homo sapiens_ fossils discovered in the late 2000s near the Atlantic coast in Jebel Irhoud were recently dated to roughly 315,000 years before present.[11] During the Upper Paleolithic, the Maghreb was more fertile than it is today, resembling a savanna more than today's arid landscape.[12] Twenty-two thousand years ago, the Aterian was succeeded by the Iberomaurusian culture, which shared similarities with Iberian cultures. Skeletal similarities have been suggested between the Iberomaurusian "Mechta-Afalou" burials and European Cro-Magnon remains. The Iberomaurusian was succeeded by the Beaker culture in Morocco.
+.]] The area of present-day Morocco has been inhabited since Paleolithic times, sometime between 190,000 and 90,000 BC.[10] A recent publication may demonstrate an even earlier habitation period, as _Homo sapiens_ fossils discovered in the late 2000s near the Atlantic coast in Jebel Irhoud were recently dated to roughly 315,000 years before present.[11] During the Upper Paleolithic, the Maghreb was more fertile than it is today, resembling a savanna more than today's arid landscape.[12] Twenty-two thousand years ago, the Aterian was succeeded by the Iberomaurusian culture, which shared similarities with Iberian cultures. Skeletal similarities have been suggested between the Iberomaurusian "Mechta-Afalou" burials and European Cro-Magnon remains. The Iberomaurusian was succeeded by the Beaker culture in Morocco.
 
 Mitochondrial DNA studies have discovered a close link between Berbers and the Saami of Scandinavia. This supports theories that the Franco-Cantabrian refuge area of southwestern Europe was the source of late-glacial expansions of hunter-gatherers who repopulated northern Europe after the last ice age.[13]
 
-Northwest Africa and Morocco were slowly drawn into the wider emerging Mediterranean world by the Phoenicians, who established trading colonies and settlements in the early Classical period. Substantial Phoenician settlements were at Chellah, Lixus and Mogador.[14] Mogador was a Phoenician colony as early as the early 6th century BC.[15] Volubilis_Longshot_II.jpg.]] Morocco later became a realm of the Northwest African civilisation of ancient Carthage as part of its empire. The earliest known independent Moroccan state was the Berber kingdom of Mauretania under king Baga.[16] This ancient kingdom (not to be confused with the present state of Mauritania) dates at least to around 225 BC.
+Northwest Africa and Morocco were slowly drawn into the wider emerging Mediterranean world by the Phoenicians, who established trading colonies and settlements in the early Classical period. Substantial Phoenician settlements were at Chellah, Lixus and Mogador.[14] Mogador was a Phoenician colony as early as the early 6th century BC.[15] .]] Morocco later became a realm of the Northwest African civilisation of ancient Carthage as part of its empire. The earliest known independent Moroccan state was the Berber kingdom of Mauretania under king Baga.[16] This ancient kingdom (not to be confused with the present state of Mauritania) dates at least to around 225 BC.
 
 Mauretania became a client kingdom of the Roman Empire in 33 BC. Emperor Claudius annexed Mauretania directly as a Roman province in 44 AD, under an imperial governor (either a_procurator Augusti_, or a _legatus Augusti pro praetore_).
 
@@ -34,7 +34,7 @@ During the crisis of the 3rd century, parts of Mauretania were reconquered by Be
 
 Foundation and early Islamic era
 
-Idrisids_coin_minted_at_Al_Aliyah_Morocco_840_CE.jpg coin, minted at al-'Aliyah (Fes), Morocco, 840 CE.]] The Muslim conquest of the Maghreb, that started in the middle of the 7th century, was achieved by the Umayyad Caliphate early into the following century. It brought both the Arabic language and Islam to the area. Although part of the larger Islamic Empire, Morocco was initially organized as a subsidiary province of Ifriqiya, with the local governors appointed by the Muslim governor in Kairouan.[17]
+coin, minted at al-'Aliyah (Fes), Morocco, 840 CE.]] The Muslim conquest of the Maghreb, that started in the middle of the 7th century, was achieved by the Umayyad Caliphate early into the following century. It brought both the Arabic language and Islam to the area. Although part of the larger Islamic Empire, Morocco was initially organized as a subsidiary province of Ifriqiya, with the local governors appointed by the Muslim governor in Kairouan.[17]
 
 The indigenous Berber tribes adopted Islam, but retained their customary laws. They also paid taxes and tribute to the new Muslim administration.[18] The first independent Muslim state in the area of modern Morocco was the Kingdom of Nekor, an emirate in the Rif Mountains. It was founded by Salih I ibn Mansur in 710, as a client state to the Umayyad Caliphate. After the outbreak of the Berber Revolt in 739, the Berbers formed other independent states such as the Miknasa of Sijilmasa and the Barghawata.
 
@@ -42,7 +42,7 @@ According to medieval legend, Idris ibn Abdallah had fled to Morocco after the A
 
 Dynasties
 
-Empire_almohade.PNG realm at its greatest extent, c. 1212]]
+realm at its greatest extent, c. 1212]]
 
 From the 11th century onwards, a series of Berber dynasties arose.[19][20][21] Under the Almoravid dynasty and the Almohad dynasty,[22] Morocco dominated the Maghreb, much of present-day Spain and Portugal, and the western Mediterranean region. From the 13th century onwards the country saw a massive migration of the Banu Hilal Arab tribes. In the 13th and 14th centuries the Merinids held power in Morocco and strove to replicate the successes of the Almohads by military campaigns in Algeria and Spain. They were followed by the Wattasids. In the 15th century, the Reconquista ended Muslim rule in central and southern Spain and many Muslims and Jews fled to Morocco.[23]
 
@@ -52,7 +52,7 @@ On another note and according to Elizabeth Allo Isichei, "In 1520, there was a f
 
 Sharifian dynasties
 
-Morocco,_Safi_ceramic_vessel_Jobbana.JPG In 1549, the region fell to successive Arab dynasties claiming descent from the Islamic prophet, Muhammad: first the Saadi dynasty who ruled from 1549 to 1659, and then the Alaouite dynasty, who remain in power since the 17th century.
+In 1549, the region fell to successive Arab dynasties claiming descent from the Islamic prophet, Muhammad: first the Saadi dynasty who ruled from 1549 to 1659, and then the Alaouite dynasty, who remain in power since the 17th century.
 
 Under the Saadi dynasty, the country repulsed Ottoman incursions and a Portuguese invasion at the battle of Ksar el Kebir in 1578. The reign of Ahmad al-Mansur brought new wealth and prestige to the Sultanate, and a large expedition to West Africa inflicted a crushing defeat on the Songhay Empire in 1591. However, managing the territories across the Sahara proved too difficult. After the death of al-Mansur, the country was divided among his sons.
 
@@ -62,13 +62,13 @@ Morocco was the first nation to recognise the fledgling United States as an inde
 
 French and Spanish protectorates: 1912 to 1956
 
-Forteresse_Jadida_03.JPG in El Jadida]] War_in_Morocco_Death_of_Spanish_general_Margallo.JPG general Margallo during the Melilla War. Le Petit Journal, 13 November 1893.]]
+in El Jadida]] general Margallo during the Melilla War. Le Petit Journal, 13 November 1893.]]
 
 As Europe industrialised, Northwest Africa was increasingly prized for its potential for colonisation. France showed a strong interest in Morocco as early as 1830, not only to protect the border of its Algerian territory, but also because of the strategic position of Morocco with coasts on the Mediterranean and the open Atlantic.[31] In 1860, a dispute over Spain's Ceuta enclave led Spain to declare war. Victorious Spain won a further enclave and an enlarged Ceuta in the settlement. In 1884, Spain created a protectorate in the coastal areas of Morocco.
 
 In 1904, France and Spain carved out zones of influence in Morocco. Recognition by the United Kingdom of France's sphere of influence provoked a strong reaction from the German Empire; and a crisis loomed in 1905. The matter was resolved at the Algeciras Conference in 1906. The Agadir Crisis of 1911 increased tensions between European powers. The 1912 Treaty of Fez made Morocco a protectorate of France, and triggered the 1912 Fez riots.[32] Spain continued to operate its coastal protectorate. By the same treaty, Spain assumed the role of protecting power over the northern and southern Saharan zones.[33]
 
-Tens of thousands of colonists entered Morocco. Some bought up large amounts of the rich agricultural land, others organised the exploitation and modernisation of mines and harbours. Interest groups that formed among these elements continually pressured France to increase its control over Morocco – a control which was also made necessary by the continuous wars among Moroccan tribes, part of which had taken sides with the French since the beginning of the conquest. Governor general Marshall Hubert Lyautey sincerely admired Moroccan culture and succeeded in imposing a joint Moroccan-French administration, while creating a modern school system. Several divisions of Moroccan soldiers (Goumiers or regular troops and officers) served in the French army in both World War I and World War II, and in the Spanish Nationalist Army in the Spanish Civil War and after (_Regulares_).[34] The institution of slavery was abolished in 1925.[35] Louis_Comfort_Tiffany_-_Market_day_outside_the_walls_of_Tangiers,_Morocco.jpg's population included 40,000 Muslims, 31,000 Europeans and 15,000 Jews.[36]]]
+Tens of thousands of colonists entered Morocco. Some bought up large amounts of the rich agricultural land, others organised the exploitation and modernisation of mines and harbours. Interest groups that formed among these elements continually pressured France to increase its control over Morocco – a control which was also made necessary by the continuous wars among Moroccan tribes, part of which had taken sides with the French since the beginning of the conquest. Governor general Marshall Hubert Lyautey sincerely admired Moroccan culture and succeeded in imposing a joint Moroccan-French administration, while creating a modern school system. Several divisions of Moroccan soldiers (Goumiers or regular troops and officers) served in the French army in both World War I and World War II, and in the Spanish Nationalist Army in the Spanish Civil War and after (_Regulares_).[34] The institution of slavery was abolished in 1925.[35] 's population included 40,000 Muslims, 31,000 Europeans and 15,000 Jews.[36]]]
 
 Between 1921 and 1926, a Berber uprising in the Rif Mountains, led by Abd el-Krim, led to the establishment of the Republic of the Rif. The Spanish lost more than 13,000 soldiers at Annual in July–August 1921.[37] The rebellion was eventually suppressed by French and Spanish troops.
 
@@ -78,7 +78,7 @@ France's exile of Sultan Mohammed V in 1953 to Madagascar and his replacement by
 
 Post-independence
 
-Marokko_011.jpg in Rabat.]] Upon the death of Mohammed V, Hassan II became King of Morocco on 3 March 1961. Morocco held its first general elections in 1963. However, Hassan declared a state of emergency and suspended parliament in 1965. In 1971, there was a failed attempt to depose the king and establish a republic. A truth commission set up in 2005 to investigate human rights abuses during his reign confirmed nearly 10,000 cases, ranging from death in detention to forced exile. Some 592 people were recorded killed during Hassan's rule according to the truth commission.
+in Rabat.]] Upon the death of Mohammed V, Hassan II became King of Morocco on 3 March 1961. Morocco held its first general elections in 1963. However, Hassan declared a state of emergency and suspended parliament in 1965. In 1971, there was a failed attempt to depose the king and establish a republic. A truth commission set up in 2005 to investigate human rights abuses during his reign confirmed nearly 10,000 cases, ranging from death in detention to forced exile. Some 592 people were recorded killed during Hassan's rule according to the truth commission.
 
 The Spanish enclave of Ifni in the south was returned to Morocco in 1969. The Polisario movement was formed in 1973, with the aim of establishing an independent state in the Spanish Sahara. On 6 November 1975, King Hassan asked for volunteers to cross into the Spanish Sahara. Some 350,000 civilians were reported as being involved in the "Green March".[39] A month later, Spain agreed to leave the Spanish Sahara, soon to become Western Sahara, and to transfer it to joint Moroccan-Mauritanian control, despite the objections and threats of military intervention by Algeria. Moroccan forces occupied the territory.[40]
 
@@ -88,7 +88,7 @@ Algerian authorities have estimated the number of Sahrawi refugees in Algeria to
 
 Political reforms in the 1990s resulted in the establishment of a bicameral legislature in 1997 and Morocco's first opposition-led government came to power in 1998.
 
-Les_Marocains_manifestent_pour_des_réformes_(5630977929).jpg demand that authorities honor their promises of political reform.]] King Hassan II died in 1999 and was succeeded by his son, Mohammed VI. He is a cautious moderniser who has introduced some economic and social liberalisation.[42]
+demand that authorities honor their promises of political reform.]] King Hassan II died in 1999 and was succeeded by his son, Mohammed VI. He is a cautious moderniser who has introduced some economic and social liberalisation.[42]
 
 Mohammed VI paid a controversial visit to the Western Sahara in 2002. Morocco unveiled an autonomy blueprint for Western Sahara to the United Nations in 2007. The Polisario rejected the plan and put forward its own proposal. Morocco and the Polisario Front held UN-sponsored talks in New York City but failed to come to any agreement. In 2010, security forces stormed a protest camp in the Western Sahara, triggering violent demonstrations in the regional capital El Aaiún.
 
@@ -99,7 +99,7 @@ During the 2011–12 Moroccan protests, thousands of people rallied in Rabat and
 
 Geography
 
-Atlas_Mountains_snow_cover.jpg, the highest peak in Northwest Africa, at ]] Chauen.jpg Mountains in northern Morocco]] Panorama_Djebel_el_Kest.jpg near Tafraout]] Morocco_Atlas_01.jpg'' tree in the Atlas range]] Morocco has a coast by the Atlantic Ocean that reaches past the Strait of Gibraltar into the Mediterranean Sea. It is bordered by Spain to the north (a water border through the Strait and land borders with three small Spanish-controlled exclaves, Ceuta, Melilla, and Peñón de Vélez de la Gomera), Algeria to the east, and Western Sahara to the south. Since Morocco controls most of Western Sahara, its _de facto_ southern boundary is with Mauritania.
+, the highest peak in Northwest Africa, at ]] Mountains in northern Morocco]] near Tafraout]] '' tree in the Atlas range]] Morocco has a coast by the Atlantic Ocean that reaches past the Strait of Gibraltar into the Mediterranean Sea. It is bordered by Spain to the north (a water border through the Strait and land borders with three small Spanish-controlled exclaves, Ceuta, Melilla, and Peñón de Vélez de la Gomera), Algeria to the east, and Western Sahara to the south. Since Morocco controls most of Western Sahara, its _de facto_ southern boundary is with Mauritania.
 
 The internationally recognised borders of the country lie between latitudes 27° and 36°N, and longitudes 1° and 14°W. Adding Western Sahara, Morocco lies mostly between 21° and 36°N, and 1° and 17°W (the Ras Nouadhibou peninsula is slightly south of 21° and west of 17°).
 
@@ -117,7 +117,7 @@ Morocco is represented in the ISO 3166-1 alpha-2 geographical encoding standard 
 
 Climate
 
-Morocco_Köppen.svgThe country's Mediterranean climate is similar to that of southern California, with lush forests in the northern and central mountain ranges of the country, giving way to drier conditions and inland deserts further southeast. The Moroccan coastal plains experience remarkably moderate temperatures even in summer, owing to the effect of the cold Canary Current off its Atlantic coast.
+The country's Mediterranean climate is similar to that of southern California, with lush forests in the northern and central mountain ranges of the country, giving way to drier conditions and inland deserts further southeast. The Moroccan coastal plains experience remarkably moderate temperatures even in summer, owing to the effect of the cold Canary Current off its Atlantic coast.
 
 In the Rif, Middle and High Atlas Mountains, there exist several different types of climates: Mediterranean along the coastal lowlands, giving way to a humid temperate climate at higher elevations with sufficient moisture to allow for the growth of different species of oaks, moss carpets, junipers, and Atlantic fir which is a royal conifer tree endemic to Morocco. In the valleys, fertile soils and high precipitation allow for the growth of thick and lush forests. Cloud forests can be found in the west of the Rif Mountains and Middle Atlas Mountains. At higher elevations, the climate becomes alpine in character, and can sustain ski resorts.
 
@@ -125,7 +125,7 @@ Southeast of the Atlas mountains, near the Algerian borders, the climate becomes
 
 In contrast to the Sahara region in the south, coastal plains are fertile in the central and northern regions of the country, and comprise the backbone of the country's agriculture, in which 95% of the population live. The direct exposure to the North Atlantic Ocean, the proximity to mainland Europe and the long stretched Rif and Atlas mountains are the factors of the rather European-like climate in the northern half of the country. That makes Morocco a country of contrasts. Forested areas cover about 12% of the country while arable land accounts for 18%. Approximately 5% of Moroccan land is irrigated for agricultural use.
 
-Merzouga_sahara.jpg]] Djebel_Toubkal_01.jpg]] In general, apart from the southeast regions (pre-Saharan and desert areas), Morocco's climate and geography are very similar to the Iberian peninsula. Thus Morocco has the following climate zones:
+]] ]] In general, apart from the southeast regions (pre-Saharan and desert areas), Morocco's climate and geography are very similar to the Iberian peninsula. Thus Morocco has the following climate zones:
 
 -   MEDITERRANEAN: Dominates the coastal Mediterranean regions of the country, along the (500 km strip), and some parts of the Atlantic coast. Summers are hot to moderately hot and dry, average highs are between and . Winters are generally mild and wet, daily average temperatures hover around to , and average low are around to , typical to the coastal areas of the west Mediterranean. Annual Precipitation in this area vary from 600–800 mm in the west to 350–500 mm in the east. Notable cities that fall into this zone are Tangier, Tetouan, Al Hoceima, Nador and Safi.
 -   SUB-MEDITERRANEAN: It influences cities that show Mediterranean characteristics, but remain fairly influenced by other climates owing to their either relative elevation, or direct exposure to the North Atlantic Ocean. We thus have two main influencing climates:
@@ -154,7 +154,7 @@ Morocco's weather is one of the most pristine in terms of the four-season experi
 
 Biodiversity
 
-Portrait_of_a_father.jpg carrying his offspring, a behaviour rarely found in other primates.]] Barbary_lion.jpg]] Morocco has a wide range of biodiversity. It is part of the Mediterranean basin, an area with exceptional concentrations of endemic species undergoing rapid rates of habitat loss, and is therefore considered to be a hotspot for conservation priority.[48] Avifauna are notably variant.[49] The avifauna of Morocco includes a total of 454 species, five of which have been introduced by humans, and 156 are rarely or accidentally seen.[50]
+carrying his offspring, a behaviour rarely found in other primates.]] ]] Morocco has a wide range of biodiversity. It is part of the Mediterranean basin, an area with exceptional concentrations of endemic species undergoing rapid rates of habitat loss, and is therefore considered to be a hotspot for conservation priority.[48] Avifauna are notably variant.[49] The avifauna of Morocco includes a total of 454 species, five of which have been introduced by humans, and 156 are rarely or accidentally seen.[50]
 
 The Barbary lion, hunted to extinction in the wild, was a subspecies native to Morocco and is a national emblem.[51] The last Barbary lion in the wild was shot in the Atlas Mountains in 1922.[52] The other two primary predators of northern Africa, the Atlas bear and Barbary leopard, are now extinct and critically endangered, respectively. Relict populations of the West African crocodile persisted in the Draa river until the 20th century.[53]
 
@@ -165,7 +165,7 @@ Trade of animals and plants for food, pets, medicinal purposes, souvenirs and ph
 
 Politics
 
-King_Mohammed_VI.jpg, Mohammed VI.]] Morocco was an authoritarian regime according to the Democracy Index of 2014. The Freedom of the Press 2014 report gave it a rating of "Not Free". This has improved since, however, and in 2017, Morocco was upgraded to being a "hybrid regime" according to the Democracy Index in 2017 and the Freedom of the Press report in 2017 found that Morocco was "partially free".
+, Mohammed VI.]] Morocco was an authoritarian regime according to the Democracy Index of 2014. The Freedom of the Press 2014 report gave it a rating of "Not Free". This has improved since, however, and in 2017, Morocco was upgraded to being a "hybrid regime" according to the Democracy Index in 2017 and the Freedom of the Press report in 2017 found that Morocco was "partially free".
 
 Following the March 1998 elections, a coalition government headed by opposition socialist leader Abderrahmane Youssoufi and composed largely of ministers drawn from opposition parties, was formed. Prime Minister Youssoufi's government was the first ever government drawn primarily from opposition parties, and also represents the first opportunity for a coalition of socialists, left-of-centre, and nationalist parties to be included in the government until October 2002. It was also the first time in the modern political history of the Arab world that the opposition assumed power following an election. The current government is headed by Saadeddine Othmani.
 
@@ -177,7 +177,7 @@ The previous constitution of 1996 theoretically allowed the king to terminate th
 
 Legislative branch
 
-Parliament_of_morocco.jpg Since the constitutional reform of 1996, the bicameral legislature consists of two chambers. The Assembly of Representatives of Morocco (_Majlis an-Nuwwâb/Assemblée des Répresentants_) has 325 members elected for a five-year term, 295 elected in multi-seat constituencies and 30 in national lists consisting only of women. The Assembly of Councillors (_Majlis al-Mustasharin_) has 270 members, elected for a nine-year term, elected by local councils (162 seats), professional chambers (91 seats) and wage-earners (27 seats).
+Since the constitutional reform of 1996, the bicameral legislature consists of two chambers. The Assembly of Representatives of Morocco (_Majlis an-Nuwwâb/Assemblée des Répresentants_) has 325 members elected for a five-year term, 295 elected in multi-seat constituencies and 30 in national lists consisting only of women. The Assembly of Councillors (_Majlis al-Mustasharin_) has 270 members, elected for a nine-year term, elected by local councils (162 seats), professional chambers (91 seats) and wage-earners (27 seats).
 
 The Parliament's powers, though still relatively limited, were expanded under the 1992 and 1996 and even further in the 2011 constitutional revisions and include budgetary matters, approving bills, questioning ministers, and establishing ad hoc commissions of inquiry to investigate the government's actions. The lower chamber of Parliament may dissolve the government through a vote of no confidence.
 
@@ -185,7 +185,7 @@ The latest parliamentary elections were held on November 25, 2011, and were cons
 
 Military
 
-FREMM_Mohammed_VI_-_Lorient_2013-05.JPG of the Royal Moroccan Navy.]] Lion120051.jpg Compulsory military service in Morocco has been officially suspended since September 2006, and Morocco's reserve obligation lasts until age 50. Morocco's military consists of the Royal Armed Forces—this includes the Army (the largest branch), the Navy, the Air Force, the Royal Guard, the Royal Gendarmerie and the Auxiliary Forces. Internal security is generally effective, and acts of political violence are rare (with one exception, the 2003 Casablanca bombings which killed 45 people[60]).
+of the Royal Moroccan Navy.]] Compulsory military service in Morocco has been officially suspended since September 2006, and Morocco's reserve obligation lasts until age 50. Morocco's military consists of the Royal Armed Forces—this includes the Army (the largest branch), the Navy, the Air Force, the Royal Guard, the Royal Gendarmerie and the Auxiliary Forces. Internal security is generally effective, and acts of political violence are rare (with one exception, the 2003 Casablanca bombings which killed 45 people[60]).
 
 The UN maintains a small observer force in Western Sahara, where a large number of Morocco's troops are stationed. The Saharawi group Polisario maintains an active militia of an estimated 5,000 fighters in Western Sahara and has engaged in intermittent warfare with Moroccan forces since the 1970s.
 
@@ -193,7 +193,7 @@ Foreign relations
 
 Morocco is a member of the United Nations and belongs to the African Union (AU), Arab League, Arab Maghreb Union (UMA), Organisation of Islamic Cooperation (OIC), the Non-Aligned Movement and the Community of Sahel-Saharan States (CEN_SAD). Morocco's relationships vary greatly between African, Arab, and Western states. Morocco has had strong ties to the West in order to gain economic and political benefits.[61] France and Spain remain the primary trade partners, as well as the primary creditors and foreign investors in Morocco. From the total foreign investments in Morocco, the European Union invests approximately 73.5%, whereas, the Arab world invests only 19.3%. Many countries from the Persian Gulf and Maghreb regions are getting more involved in large-scale development projects in Morocco.[62]
 
-Ceuta-melilla.png and Melilla.]] Morocco was the only African state not to be a member of the African Union due to its unilateral withdrawal on 12 November 1984 over the admission of the Sahrawi Arab Democratic Republic in 1982 by the African Union (then called Organisation of African Unity) as a full member without the organisation of a referendum of self-determination in the disputed territory of Western Sahara. Morocco rejoined the AU on 30 January 2017.[63][64]
+and Melilla.]] Morocco was the only African state not to be a member of the African Union due to its unilateral withdrawal on 12 November 1984 over the admission of the Sahrawi Arab Democratic Republic in 1982 by the African Union (then called Organisation of African Unity) as a full member without the organisation of a referendum of self-determination in the disputed territory of Western Sahara. Morocco rejoined the AU on 30 January 2017.[63][64]
 
 A dispute with Spain in 2002 over the small island of Perejil revived the issue of the sovereignty of Melilla and Ceuta. These small enclaves on the Mediterranean coast are surrounded by Morocco and have been administered by Spain for centuries.
 
@@ -203,15 +203,13 @@ Morocco is included in the European Union's European Neighbourhood Policy (ENP) 
 
 Western Sahara status
 
-Westernsaharamap.png control the territory east of the Moroccan _berm_ (wall).]] Due to the conflict over Western Sahara, the status of the Saguia el-Hamra and Río de Oro regions is disputed. The Western Sahara War saw the Polisario Front, the Sahrawi rebel national liberation movement, battling both Morocco and Mauritania between 1976 and a ceasefire in 1991 that is still in effect. A United Nations mission, MINURSO, is tasked with organizing a referendum on whether the territory should become independent or recognised as a part of Morocco.
+control the territory east of the Moroccan _berm_ (wall).]] Due to the conflict over Western Sahara, the status of the Saguia el-Hamra and Río de Oro regions is disputed. The Western Sahara War saw the Polisario Front, the Sahrawi rebel national liberation movement, battling both Morocco and Mauritania between 1976 and a ceasefire in 1991 that is still in effect. A United Nations mission, MINURSO, is tasked with organizing a referendum on whether the territory should become independent or recognised as a part of Morocco.
 
 Part of the territory, the Free Zone, is a mostly uninhabited area that the Polisario Front controls as the Sahrawi Arab Democratic Republic. Its administrative headquarters are located in Tindouf, Algeria. , no UN member state has recognised Moroccan sovereignty over Western Sahara.[65]
 
 In 2006, the government of Morocco has suggested autonomous status for the region, through the Moroccan Royal Advisory Council for Saharan Affairs (CORCAS). The project was presented to the United Nations Security Council in mid-April 2007. The proposal was encouraged by Moroccan allies such as the United States, France and Spain.[66] The Security Council has called upon the parties to enter into direct and unconditional negotiations to reach a mutually accepted political solution.[67]
 
 Administrative divisions
-
-Tasgiwin_n_Murakuc_-_Regions_of_Morocco.png
 
 Morocco is officially divided into 12 regions,[68] which, in turn, are subdivided into 62 provinces and 13 prefectures.[69]
 
@@ -241,21 +239,21 @@ Homosexual acts are illegal in Morocco, and can be punishable by six months to t
 
 Economy
 
-CasablancaFAR.jpg Morocco's economy is considered a relatively liberal economy governed by the law of supply and demand. Since 1993, the country has followed a policy of privatisation of certain economic sectors which used to be in the hands of the government.[80] Morocco has become a major player in African economic affairs,[81] and is the 5th African economy by GDP (PPP). Morocco was ranked as the first African country by the Economist Intelligence Unit's quality-of-life index, ahead of South Africa. However, in the years since that first-place ranking was given, Morocco has slipped into fourth place behind Egypt.
+Morocco's economy is considered a relatively liberal economy governed by the law of supply and demand. Since 1993, the country has followed a policy of privatisation of certain economic sectors which used to be in the hands of the government.[80] Morocco has become a major player in African economic affairs,[81] and is the 5th African economy by GDP (PPP). Morocco was ranked as the first African country by the Economist Intelligence Unit's quality-of-life index, ahead of South Africa. However, in the years since that first-place ranking was given, Morocco has slipped into fourth place behind Egypt.
 
-Morocco_treemap.png Government reforms and steady yearly growth in the region of 4–5% from 2000 to 2007, including 4.9% year-on-year growth in 2003–2007 helped the Moroccan economy to become much more robust compared to a few years ago. For 2012 the World Bank forecasts a rate of 4% growth for Morocco and 4.2% for following year, 2013.[82]
+Government reforms and steady yearly growth in the region of 4–5% from 2000 to 2007, including 4.9% year-on-year growth in 2003–2007 helped the Moroccan economy to become much more robust compared to a few years ago. For 2012 the World Bank forecasts a rate of 4% growth for Morocco and 4.2% for following year, 2013.[82]
 
 The services sector accounts for just over half of GDP and industry, made up of mining, construction and manufacturing, is an additional quarter. The industries that recorded the highest growth are tourism, telecoms, information technology, and textile.
 
 Tourism
 
-Koutbia.jpg in Marrakech.]] Tourism is one of the most important sectors in Moroccan economy. It is well developed with a strong tourist industry focused on the country's coast, culture, and history. Morocco attracted more than 11 million tourists in 2017. Tourism is the second largest foreign exchange earner in Morocco after the phosphate industry. The Moroccan government is heavily investing in tourism development, in 2010 the government launched its Vision 2020 which plans to make Morocco one of the top 20 tourist destinations in the world and to double the annual number of international arrivals to 20 million by 2020,[83] with the hope that tourism will then have risen to 20% of GDP.
+in Marrakech.]] Tourism is one of the most important sectors in Moroccan economy. It is well developed with a strong tourist industry focused on the country's coast, culture, and history. Morocco attracted more than 11 million tourists in 2017. Tourism is the second largest foreign exchange earner in Morocco after the phosphate industry. The Moroccan government is heavily investing in tourism development, in 2010 the government launched its Vision 2020 which plans to make Morocco one of the top 20 tourist destinations in the world and to double the annual number of international arrivals to 20 million by 2020,[83] with the hope that tourism will then have risen to 20% of GDP.
 
 Large government sponsored marketing campaigns to attract tourists advertised Morocco as a cheap and exotic, yet safe, place for tourists. Most of the visitors to Morocco continue to be European, with French nationals making up almost 20% of all visitors. Most Europeans visit in April and the autumn. Morocco's relatively high number of tourists has been aided by its location, Morocco is close to Europe and attracts visitors to its beaches. Because of its proximity to Spain, tourists in southern Spain's coastal areas take one to three-day trips to Morocco.
 
 Air services between Morocco and Algeria have been established, many Algerians have gone to Morocco to shop and visit family and friends. Morocco is relatively inexpensive because of the devaluation of the Dirham and the increase of hotel prices in Spain. Morocco has an excellent road and rail infrastructure that links the major cities and tourist destinations with ports and cities with international airports. Low-cost airlines offer cheap flights to the country.
 
-Fes_(5364214781).jpg.]] Tourism is increasingly focused on Morocco's culture, such as its ancient cities. The modern tourist industry capitalises on Morocco's ancient Roman and Islamic sites, and on its landscape and cultural history. 60% of Morocco's tourists visit for its culture and heritage. Agadir is a major coastal resort and has a third of all Moroccan bed nights. It is a base for tours to the Atlas Mountains. Other resorts in north Morocco are also very popular.[84]
+.]] Tourism is increasingly focused on Morocco's culture, such as its ancient cities. The modern tourist industry capitalises on Morocco's ancient Roman and Islamic sites, and on its landscape and cultural history. 60% of Morocco's tourists visit for its culture and heritage. Agadir is a major coastal resort and has a third of all Moroccan bed nights. It is a base for tours to the Atlas Mountains. Other resorts in north Morocco are also very popular.[84]
 
 Casablanca is the major cruise port in Morocco, and has the best developed market for tourists in Morocco, Marrakech in central Morocco is a popular tourist destination, but is more popular among tourists for one- and two-day excursions that provide a taste of Morocco's history and culture. The Majorelle botanical garden in Marrakech is a popular tourist attraction. It was bought by the fashion designer Yves Saint-Laurent and Pierre Bergé in 1980. Their presence in the city helped to boost the city's profile as a tourist destination.[85]
 
@@ -263,7 +261,7 @@ Casablanca is the major cruise port in Morocco, and has the best developed marke
 
 Agriculture
 
-Akka_(2).JPG يوسفي_مغربي.jpg Agriculture accounts for around 14% of GDP and employs 40–45% of the Moroccan working population. With a semi-arid climate and an ill-developed irrigation system, it is difficult to assure enough irrigation.
+Agriculture accounts for around 14% of GDP and employs 40–45% of the Moroccan working population. With a semi-arid climate and an ill-developed irrigation system, it is difficult to assure enough irrigation.
 
 The major resources of the Moroccan economy are agriculture, phosphates, and tourism. Sales of fish and seafood are important as well. Industry and mining contribute about one-third of the annual GDP. Morocco is the world's third-largest producer of phosphorus after China and the United States,[87] and the price fluctuations of phosphates on the international market greatly influence Morocco's economy.
 
@@ -273,7 +271,7 @@ Although Morocco runs a structural trade deficit, this is typically offset by su
 
 Energy
 
-Isofoton_Marruecos.JPG panels in eastern Morocco]] In 2008, about 56% of Morocco's electricity supply was provided by coal.[90] However, as forecasts indicate that energy requirements in Morocco will rise 6% per year between 2012 and 2050,[91] a new law passed encouraging Moroccans to look for ways to diversify the energy supply, including more renewable resources. The Moroccan government has launched a project to build a solar thermal energy power plant[92] and is also looking into the use of natural gas as a potential source of revenue for Morocco's government.[93]
+panels in eastern Morocco]] In 2008, about 56% of Morocco's electricity supply was provided by coal.[90] However, as forecasts indicate that energy requirements in Morocco will rise 6% per year between 2012 and 2050,[91] a new law passed encouraging Moroccans to look for ways to diversify the energy supply, including more renewable resources. The Moroccan government has launched a project to build a solar thermal energy power plant[92] and is also looking into the use of natural gas as a potential source of revenue for Morocco's government.[93]
 
 Morocco has embarked upon the construction of large solar energy farms to lessen dependence on fossil fuels, and to eventually export electricity to Europe.[94]
 
@@ -305,7 +303,7 @@ On 20 May 2015, less than a year after its inception, the Higher Council for Edu
 
 Demographics
 
-Morocco has a population of around inhabitants ( est.). According to the CIA, 99% of residents are Arab-Berber, with the remaining 1% comprising other groups.[107]Bevölkerungspyramide_Marokko_2016.png It is estimated that between 41%[108] to 80% of residents have Berber ancestral origins.[109] A sizeable portion of the population is identified as Haratin and Gnawa (or Gnaoua), West African or mixed race descendants of slaves, and Moriscos, European Muslims expelled from Spain and Portugal in the 17th century.[110]
+Morocco has a population of around inhabitants ( est.). According to the CIA, 99% of residents are Arab-Berber, with the remaining 1% comprising other groups.[107] It is estimated that between 41%[108] to 80% of residents have Berber ancestral origins.[109] A sizeable portion of the population is identified as Haratin and Gnawa (or Gnaoua), West African or mixed race descendants of slaves, and Moriscos, European Muslims expelled from Spain and Portugal in the 17th century.[110]
 
 According to the 2014 Morocco population census, there were around 84,000 immigrants in the country. Of these foreign-born residents, most were of French origin, followed by individuals mainly from various nations in West Africa and Algeria.[111] There are also a number of foreign residents of Spanish origin. Some of them are descendants of colonial settlers, who primarily work for European multinational companies, while others are married to Moroccans or are retirees. Prior to independence, Morocco was home to half a million Europeans; who were mostly Christians.[112] Also prior to independence, Morocco was home to 250,000 Spaniards.[113] Morocco's once prominent Jewish minority has decreased significantly since its peak of 265,000 in 1948, declining to around 2,500 today.[114]
 
@@ -315,7 +313,7 @@ Religion
 
 The religious affiliation in the country was estimated by the Pew Forum in 2010 as 99% Muslim, with all remaining groups accounting for less than 1% of the population.[117] Sunnis form the majority at 67% with non-denominational Muslims being the second largest group of Muslims at 30%.[118] There are an estimated 3,000 to 8,000 Shia Muslims, most of them foreign residents from Lebanon or Iraq, but also a few citizen converts. Followers of several Sufi Muslim orders across the Maghreb and West Africa undertake joint annual pilgrimages to the country.
 
-Inside_of_a_mosque_in_Fes_(5364764412).jpg]] Christians are estimated at 1% (~380,000) of the Moroccan population.[119] The predominantly Roman Catholic and Protestant foreign-resident Christian community consists of approximately 40,000 practising members. Most foreign resident Christians reside in the Casablanca, Tangier, and Rabat urban areas. Various local Christian leaders estimate that between 2005 and 2010 there are 5,000 citizen converted Christians (mostly ethnically Berber) who regularly attend "house" churches and live predominantly in the south.[120] Some local Christian leaders estimate that there may be as many as 8,000 Christian citizens throughout the country, but many reportedly do not meet regularly due to fear of government surveillance and social persecution.[121] The number of the Moroccans who converted to Christianity (most of them secret worshippers) are estimated between 8,000–40,000.[122][123]
+]] Christians are estimated at 1% (~380,000) of the Moroccan population.[119] The predominantly Roman Catholic and Protestant foreign-resident Christian community consists of approximately 40,000 practising members. Most foreign resident Christians reside in the Casablanca, Tangier, and Rabat urban areas. Various local Christian leaders estimate that between 2005 and 2010 there are 5,000 citizen converted Christians (mostly ethnically Berber) who regularly attend "house" churches and live predominantly in the south.[120] Some local Christian leaders estimate that there may be as many as 8,000 Christian citizens throughout the country, but many reportedly do not meet regularly due to fear of government surveillance and social persecution.[121] The number of the Moroccans who converted to Christianity (most of them secret worshippers) are estimated between 8,000–40,000.[122][123]
 
 The most recent estimates put the size of the Casablanca Jewish community at about 2,500,[124] and the Rabat and Marrakesh Jewish communities at about 100 members each. The remainder of the Jewish population is dispersed throughout the country. This population is mostly elderly, with a decreasing number of young people.[125] The Baha’i community, located in urban areas, numbers 350 to 400 persons.[126]
 
@@ -334,7 +332,7 @@ After Morocco declared independence in 1956, French and Arabic became the main l
 
 Culture
 
-Kasbahs_in_Aït_Benhaddou.JPG, built by the Berbers from the 14th century onwards.]] Morocco is a country with a rich culture and civilisation. Through Moroccan history, it has hosted many people coming from East (Phoenicians, Jews and Arabs), South (Sub-Saharan Africans) and North (Romans, Andalusians). All those civilisations have affected the social structure of Morocco.
+, built by the Berbers from the 14th century onwards.]] Morocco is a country with a rich culture and civilisation. Through Moroccan history, it has hosted many people coming from East (Phoenicians, Jews and Arabs), South (Sub-Saharan Africans) and North (Romans, Andalusians). All those civilisations have affected the social structure of Morocco.
 
 Since independence, a veritable blossoming has taken place in painting and sculpture, popular music, amateur theatre, and filmmaking. The Moroccan National Theatre (founded 1956) offers regular productions of Moroccan and French dramatic works. Art and music festivals take place throughout the country during the summer months, among them the World Sacred Music Festival at Fès.
 
@@ -344,13 +342,13 @@ Culturally speaking, Morocco has always been successful in combining its Berber,
 
 Architecture
 
-Moroccan_frills.jpg The indigenous Berber people and a series of foreign invaders as well as religious and cultural influences have shaped Morocco's architectural styles. The vernacular architecture can range from ornate with bold with colours to simple, clean lines with earth tones.
+The indigenous Berber people and a series of foreign invaders as well as religious and cultural influences have shaped Morocco's architectural styles. The vernacular architecture can range from ornate with bold with colours to simple, clean lines with earth tones.
 
 Influences from the Arab world, Spain, Portugal and France are seen in Moroccan architecture, both on their own and blended with Berber and Islamic styles. Among the buildings, and old Kasbah walls, sit French style-towns left behind by colonisation and intersect with intricately detailed mosques and riad-style homes. Sleek, modern designs are being constructed in cities like Rabat and Casablanca that give no particular homage to any of the past Moroccan architecture styles.[143]
 
 Literature
 
-Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg.]] Moroccan literature is written in Arabic, Berber and French. Under the Almohad dynasty Morocco experienced a period of prosperity and brilliance of learning. The Almohad built the Koutoubia Mosque in Marrakesh, which accommodated no fewer than 25,000 people, but was also famed for its books, manuscripts, libraries and book shops, which gave it its name; the first book bazaar in history. The Almohad Caliph Abu Yakub had a great love for collecting books. He founded a great library, which was eventually carried to the Casbah and turned into a public library.
+.]] Moroccan literature is written in Arabic, Berber and French. Under the Almohad dynasty Morocco experienced a period of prosperity and brilliance of learning. The Almohad built the Koutoubia Mosque in Marrakesh, which accommodated no fewer than 25,000 people, but was also famed for its books, manuscripts, libraries and book shops, which gave it its name; the first book bazaar in history. The Almohad Caliph Abu Yakub had a great love for collecting books. He founded a great library, which was eventually carried to the Casbah and turned into a public library.
 
 Modern Moroccan literature began in the 1930s. Two main factors gave Morocco a pulse toward witnessing the birth of a modern literature. Morocco, as a French and Spanish protectorate left Moroccan intellectuals the opportunity to exchange and to produce literary works freely enjoying the contact of other Arabic literature and Europe. Three generations of writers especially shaped 20th century Moroccan literature.[144] The first was the generation that lived and wrote during the Protectorate (1912–56), its most important representative being Mohammed Ben Brahim (1897–1955).
 
@@ -364,7 +362,7 @@ Moroccan music is of Arabic, Berber and sub-Saharan origins. Rock-influenced cha
 
 Morocco is home to Andalusian classical music that is found throughout Northwest Africa. It probably evolved under the Moors in Cordoba, and the Persian-born musician Ziryab is usually credited with its invention. A genre known as Contemporary Andalusian Music and art is the brainchild of Morisco visual artist/composer/oudist Tarik Banzi, founder of the Al-Andalus Ensemble.
 
-Musicians_Jilala_music_in_Morocco,_1900.png musicians in 1900]] _Aita_ is a Bedouin musical style sung in the countryside.
+musicians in 1900]] _Aita_ is a Bedouin musical style sung in the countryside.
 
 Chaabi ("popular") is a music consisting of numerous varieties which are descended from the multifarious forms of Moroccan folk music. Chaabi was originally performed in markets, but is now found at any celebration or meeting.
 
@@ -382,7 +380,7 @@ In 1968, the first Mediterranean Film Festival was held in Tangier. In its curre
 
 Cuisine
 
-Couscous_of_Fes.JPG.]] Moroccan cuisine is considered as one of the most diversified cuisines in the world. This is a result of the centuries-long interaction of Morocco with the outside world.[146] The cuisine of Morocco is mainly a fusion of Moorish, European and Mediterranean cuisines.
+.]] Moroccan cuisine is considered as one of the most diversified cuisines in the world. This is a result of the centuries-long interaction of Morocco with the outside world.[146] The cuisine of Morocco is mainly a fusion of Moorish, European and Mediterranean cuisines.
 
 Spices are used extensively in Moroccan cuisine. While spices have been imported to Morocco for thousands of years, many ingredients such as saffron from Tiliouine, mint and olives from Meknes, and oranges and lemons from Fez, are home-grown. Chicken is the most widely eaten meat in Morocco. The most commonly eaten red meat in Morocco is beef; lamb is preferred but is relatively expensive. The main Moroccan dish most people are familiar with is couscous,[147] the old national delicacy.
 
@@ -396,7 +394,7 @@ The most popular drink is "atai", green tea with mint leaves and other ingredien
 
 Sport
 
-Morocco_vs_Algeria,_June_04_2011-10.jpg Football is the country's most popular sport, popular among the urban youth in particular. In 1986, Morocco became the first Arab and African country to qualify for the second round of the FIFA World Cup. Morocco was originally scheduled to host the 2015 Africa Cup of Nations,[149] but refused to host the tournament on the scheduled dates because of fears over the ebola outbreak on the continent.[150] Morocco made five attempts to host the FIFA World Cup but lost five times to United States, France, Germany, South Africa and Canada/Mexico/United States.
+Football is the country's most popular sport, popular among the urban youth in particular. In 1986, Morocco became the first Arab and African country to qualify for the second round of the FIFA World Cup. Morocco was originally scheduled to host the 2015 Africa Cup of Nations,[149] but refused to host the tournament on the scheduled dates because of fears over the ebola outbreak on the continent.[150] Morocco made five attempts to host the FIFA World Cup but lost five times to United States, France, Germany, South Africa and Canada/Mexico/United States.
 
 At the 1984 Olympic Games, two Moroccans won gold medals in track and field. Nawal El Moutawakel won in the 400 metres hurdles; she was the first woman from an Arab or Islamic country to win an Olympic gold medal. Saïd Aouita won the 5000 metres at the same games. Hicham El Guerrouj won gold medals for Morocco at the 2004 Summer Olympics in the 1500 metres and 5000 metres and holds several world records in the mile run.
 
@@ -407,11 +405,9 @@ Kickboxing is also popular in Morocco. The Moroccan-Dutch Badr Hari, heavyweight
 
 Education
 
-Al_Akhawayn_Campus.jpg in Ifrane.]] Education in Morocco is free and compulsory through primary school. The estimated literacy rate for the country in 2012 was 72%.[153] In September 2006, UNESCO awarded Morocco amongst other countries such as Cuba, Pakistan, India and Turkey the "UNESCO 2006 Literacy Prize".[154]
+in Ifrane.]] Education in Morocco is free and compulsory through primary school. The estimated literacy rate for the country in 2012 was 72%.[153] In September 2006, UNESCO awarded Morocco amongst other countries such as Cuba, Pakistan, India and Turkey the "UNESCO 2006 Literacy Prize".[154]
 
 Morocco has more than four dozen universities, institutes of higher learning, and polytechnics dispersed at urban centres throughout the country. Its leading institutions include Mohammed V University in Rabat, the country's largest university, with branches in Casablanca and Fès; the Hassan II Agriculture and Veterinary Institute in Rabat, which conducts leading social science research in addition to its agricultural specialties; and Al-Akhawayn University in Ifrane, the first English-language university in Northwest Africa,[155] inaugurated in 1995 with contributions from Saudi Arabia and the United States.
-
-UIS_Literacy_Rate_Morocco_population_+15_1980_to_2015.png
 
 The al-Qarawiyin University, founded by Fatima al-Fihri in the city of Fez in 859 as a madrasa,[156] is considered by some sources, including UNESCO, to be the "oldest university of the world".[157] Morocco has also some of prestigious postgraduate schools, including: l'Institut National des Postes et Télécommunication (INPT), École Nationale Supérieure d'Électricité et de Mecanique (ENSEM), EMI, ISCAE, INSEA, National School of Mineral Industry, École Hassania des Travaux Publics, Les Écoles nationales de commerce et de gestion, École supérieure de technologie de Casablanca.[158]
 

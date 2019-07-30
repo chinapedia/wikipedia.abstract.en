@@ -9,11 +9,11 @@ Life
 
 Family origin
 
-VENEZIA_MILION.JPG Marco Polo was born in 1254[7] in the Republic of Venice, though the exact date and place of birth are archivally unknown.[8] Marco Polo's birthplace is generally considered to be Venice,[9][10] but some also claimed Constantinople[11] and the island of Korčula as his birth place.[12][13][14] There is dispute as to whether the Polo family is of Venetian origin, as Venetian historical sources considered them to be of Dalmatian origin.[15][16][17] The lack of evidence makes the Korčula theory (probably under Ramusio influence) as a specific birthplace strongly disputed, and even some Croatian scholars consider it merely invented.[18]
+Marco Polo was born in 1254[7] in the Republic of Venice, though the exact date and place of birth are archivally unknown.[8] Marco Polo's birthplace is generally considered to be Venice,[9][10] but some also claimed Constantinople[11] and the island of Korčula as his birth place.[12][13][14] There is dispute as to whether the Polo family is of Venetian origin, as Venetian historical sources considered them to be of Dalmatian origin.[15][16][17] The lack of evidence makes the Korčula theory (probably under Ramusio influence) as a specific birthplace strongly disputed, and even some Croatian scholars consider it merely invented.[18]
 
 Early life and Asian travel
 
-Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg, Italy]]
+, Italy]]
 
 In 1168, his great-uncle, Marco Polo, borrowed money and commanded a ship in Constantinople.[19] His grandfather, Andrea Polo of the parish of San Felice, had three sons, Maffeo, yet another Marco, and the traveller's father Niccolò. This genealogy, described by Ramusio, is not universally accepted as there is no additional evidence to support it.[20]
 
@@ -25,7 +25,7 @@ In 1269, Niccolò and Maffeo returned to their families in Venice, meeting young
 
 Genoese captivity and later life
 
-Chiesa_di_San_Lorenzo.jpg'' church in the sestiere of Castello (Venice), where Polo was buried. The photo shows the church as is today, after the 1592 rebuilding.]] Marco Polo returned to Venice in 1295 with his fortune converted into gemstones. At this time, Venice was at war with the Republic of Genoa.[34] Polo armed a galley equipped with a trebuchet[35] to join the war. He was probably caught by Genoans in a skirmish in 1296, off the Anatolian coast between Adana and the Gulf of Alexandretta[36] and not during the battle of Curzola (September 1298), off the Dalmatian coast. The latter claim is due to a later tradition (16th century) recorded by Giovanni Battista Ramusio.[37]
+'' church in the sestiere of Castello (Venice), where Polo was buried. The photo shows the church as is today, after the 1592 rebuilding.]] Marco Polo returned to Venice in 1295 with his fortune converted into gemstones. At this time, Venice was at war with the Republic of Genoa.[34] Polo armed a galley equipped with a trebuchet[35] to join the war. He was probably caught by Genoans in a skirmish in 1296, off the Anatolian coast between Adana and the Gulf of Alexandretta[36] and not during the battle of Curzola (September 1298), off the Dalmatian coast. The latter claim is due to a later tradition (16th century) recorded by Giovanni Battista Ramusio.[37]
 
 He spent several months of his imprisonment dictating a detailed account of his travels to a fellow inmate, Rustichello da Pisa,[38] who incorporated tales of his own as well as other collected anecdotes and current affairs from China. The book soon spread throughout Europe in manuscript form, and became known as _The Travels of Marco Polo_. It depicts the Polos' journeys throughout Asia, giving Europeans their first comprehensive look into the inner workings of the Far East, including China, India, and Japan.[39]
 
@@ -44,7 +44,7 @@ The will was not signed by Polo, but was validated by the then-relevant "signum 
 
 _Travels of Marco Polo_
 
-Route_of_Marco_Polo.png Marco_Polo_traveling.JPG from _Il Milione_.]] An authoritative version of Marco Polo's book does not and cannot exist, for the early manuscripts differ significantly. The published editions of his book either rely on single manuscripts, blend multiple versions together, or add notes to clarify, for example in the English translation by Henry Yule. The 1938 English translation by A.C. Moule and Paul Pelliot is based on a Latin manuscript found in the library of the Cathedral of Toledo in 1932, and is 50% longer than other versions.[48] Approximately 150 manuscript copies in various languages are known to exist, and before availability of the printing press, discrepancies were inevitably introduced during copying and translation.[49] The popular translation published by Penguin Books in 1958 by R.E. Latham works several texts together to make a readable whole.[50] Marco_Polo,_Il_Milione,_Chapter_CXXIII_and_CXXIV_Cropped.jpg
+from _Il Milione_.]] An authoritative version of Marco Polo's book does not and cannot exist, for the early manuscripts differ significantly. The published editions of his book either rely on single manuscripts, blend multiple versions together, or add notes to clarify, for example in the English translation by Henry Yule. The 1938 English translation by A.C. Moule and Paul Pelliot is based on a Latin manuscript found in the library of the Cathedral of Toledo in 1932, and is 50% longer than other versions.[48] Approximately 150 manuscript copies in various languages are known to exist, and before availability of the printing press, discrepancies were inevitably introduced during copying and translation.[49] The popular translation published by Penguin Books in 1958 by R.E. Latham works several texts together to make a readable whole.[50]
 
 Polo related his memoirs orally to Rustichello da Pisa while both were prisoners of the Genova Republic. Rustichello wrote _Devisement du Monde_ in Langues d'Oil, a lingua franca of crusaders and western merchants in the Orient.[51] The idea probably was to create a handbook for merchants, essentially a text on weights, measures and distances.[52]
 
@@ -71,7 +71,7 @@ Modern studies have further shown that details given in Marco Polo's book, such 
 
 Scholarly analyses
 
-LetterInnocenceToTartarKingAndPeople_a.jpg "to the ruler and people of the Tartars", brought to Güyüg Khan by John de Carpini, 1245]] Guyuk_khan's_Stamp_1246.jpg using the classical Mongolian script, as found in a letter sent to the Roman Pope Innocent IV in 1246.]] LetterArghunToNicholasIV1290VaticanArchives.jpg, Khan of the Mongol Ilkhanate, to Pope Nicholas IV, 1290.]] GhazanSeal1302LetterToBonifaceVIII.JPG in a 1302 letter to Pope Boniface VIII, with an inscription in Chinese seal script]]
+"to the ruler and people of the Tartars", brought to Güyüg Khan by John de Carpini, 1245]] using the classical Mongolian script, as found in a letter sent to the Roman Pope Innocent IV in 1246.]] , Khan of the Mongol Ilkhanate, to Pope Nicholas IV, 1290.]] in a 1302 letter to Pope Boniface VIII, with an inscription in Chinese seal script]]
 
 Omissions
 
@@ -106,7 +106,7 @@ Legacy
 
 Further exploration
 
-ColombusNotesToMarcoPolo.jpg on a Latin edition of Polo's book.]] FraMauroDetailedMapInverted.jpg, published c. 1450 by the Venetian monk Fra Mauro.]] Other lesser-known European explorers had already travelled to China, such as Giovanni da Pian del Carpine, but Polo's book meant that his journey was the first to be widely known. Christopher Columbus was inspired enough by Polo's description of the Far East to want to visit those lands for himself; a copy of the book was among his belongings, with handwritten annotations.[122] Bento de Góis, inspired by Polo's writings of a Christian kingdom in the east, travelled in three years across Central Asia. He never found the kingdom but ended his travels at the Great Wall of China in 1605, proving that Cathay was what Matteo Ricci (1552–1610) called "China".[123]
+on a Latin edition of Polo's book.]] , published c. 1450 by the Venetian monk Fra Mauro.]] Other lesser-known European explorers had already travelled to China, such as Giovanni da Pian del Carpine, but Polo's book meant that his journey was the first to be widely known. Christopher Columbus was inspired enough by Polo's description of the Far East to want to visit those lands for himself; a copy of the book was among his belongings, with handwritten annotations.[122] Bento de Góis, inspired by Polo's writings of a Christian kingdom in the east, travelled in three years across Central Asia. He never found the kingdom but ended his travels at the Great Wall of China in 1605, proving that Cathay was what Matteo Ricci (1552–1610) called "China".[123]
 
 Cartography
 
@@ -116,7 +116,7 @@ Though Marco Polo never produced a map that illustrated his journey, his family 
 
 Commemoration
 
-Lire_1000_(Marco_Polo).jpg The MARCO POLO SHEEP, a subspecies of _Ovis ammon_, is named after the explorer,[126] who described it during his crossing of Pamir (ancient Mount Imeon) in 1271.
+The MARCO POLO SHEEP, a subspecies of _Ovis ammon_, is named after the explorer,[126] who described it during his crossing of Pamir (ancient Mount Imeon) in 1271.
 
 In 1851, a three-masted Clipper built in Saint John, New Brunswick also took his name; THE _MARCO POLO_ was the first ship to sail around the world in under six months.[127]
 

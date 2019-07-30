@@ -11,7 +11,7 @@ Many scholars believe that Luke was a Greek physician who lived in the Greek cit
 
 His earliest notice is in Paul's Epistle to Philemon—. He is also mentioned in and , two works commonly ascribed to Paul.[8][9][10][11][12] The next earliest account of Luke is in the _Anti-Marcionite Prologue to the Gospel of Luke_, a document once thought to date to the 2nd century, but which has more recently been dated to the later 4th century. Helmut Koester, however, claims that the following part, the only part preserved in the original Greek, may have been composed in the late 2nd century:
 
-Brooklyn_Museum_-_Saint_Luke_(Saint_Luc)_-_James_Tissot.jpg, _Saint Luke (Saint Luc)_, Brooklyn Museum]]
+, _Saint Luke (Saint Luc)_, Brooklyn Museum]]
 
 Epiphanius states that Luke was one of the Seventy Apostles (_Panarion_ 51.11), and John Chrysostom indicates at one point that the "brother" Paul mentions in the Second Epistle to the Corinthians 8:18 is either Luke or Barnabas. (_Homily 18 on Second Corinthians_ on 2 Corinthians 8:18)
 
@@ -19,7 +19,7 @@ If one accepts that Luke was indeed the author of the Gospel bearing his name an
 
 There is similar evidence that Luke resided in Troas, the province which included the ruins of ancient Troy, in that he writes in _Acts_ in the third person about Paul and his travels until they get to Troas, where he switches to the first person plural. The "we" section of _Acts_ continues until the group leaves Philippi, when his writing goes back to the third person. This change happens again when the group returns to Philippi. There are three "we sections" in _Acts_, all following this rule. Luke never stated, however, that he lived in Troas, and this is the only evidence that he did.
 
-Bodleian_Library_MS._Arm._d.13._Armenian_Gospels-0043-0.jpg]]
+]]
 
 The composition of the writings, as well as the range of vocabulary used, indicate that the author was an educated man. A quote in the Epistle to the Colossians differentiates between Luke and other colleagues "of the circumcision."
 
@@ -38,12 +38,12 @@ The earliest manuscript of the Gospel, dated circa AD 200, ascribes the work to
 
 The gospel of Luke and the Acts of the Apostles make up a two-volume work which scholars call Luke–Acts. Together they account for 27.5% of the New Testament, the largest contribution by a single author.
 
-De_heilige_Lucas_schildert_de_Madonna_-_Maarten_van_Heemskerck-1532.JPG and the Baby Jesus'', by Maarten van Heemskerck]]
+and the Baby Jesus'', by Maarten van Heemskerck]]
 
 
 As a historian
 
-Luke_by_roslin.jpg]] Most scholars understand Luke's works (Luke–Acts) in the tradition of Greek historiography.[29] The preface of _The Gospel of Luke_[30] drawing on historical investigation identified the work to the readers as belonging to the genre of history.[31] There is disagreement about how best to treat Luke's writings, with some historians regarding Luke as highly accurate, and others taking a more critical approach.
+]] Most scholars understand Luke's works (Luke–Acts) in the tradition of Greek historiography.[29] The preface of _The Gospel of Luke_[30] drawing on historical investigation identified the work to the readers as belonging to the genre of history.[31] There is disagreement about how best to treat Luke's writings, with some historians regarding Luke as highly accurate, and others taking a more critical approach.
 
 Based on his accurate description of towns, cities and islands, as well as correctly naming various official titles, archaeologist Sir William Ramsay wrote that "Luke is a historian of the first rank; not merely are his statements of fact trustworthy... [he] should be placed along with the very greatest of historians."[32] Professor of Classics at Auckland University, E.M. Blaiklock, wrote: "For accuracy of detail, and for evocation of atmosphere, Luke stands, in fact, with Thucydides. The Acts of the Apostles is not shoddy product of pious imagining, but a trustworthy record... it was the spadework of archaeology which first revealed the truth."[33] New Testament scholar Colin Hemer has made a number of advancements in understanding the historical nature and accuracy of Luke's writings.[34]
 
@@ -56,14 +56,14 @@ Robert M. Grant has noted that although Luke saw himself within the historical t
 
 As an artist
 
-Evangelist_Luka_pishustchiy_ikonu.jpg of the Virgin Mary]] Christian tradition, starting from the 8th century, states that he was the first icon painter. He is said to have painted pictures of the Virgin Mary and Child, in particular the Hodegetria image in Constantinople (now lost). Starting from the 11th century, a number of painted images were venerated as his autograph works, including the Black Madonna of Częstochowa and Our Lady of Vladimir. He was also said to have painted Saints Peter and Paul, and to have illustrated a gospel book with a full cycle of miniatures.[42][43]
+of the Virgin Mary]] Christian tradition, starting from the 8th century, states that he was the first icon painter. He is said to have painted pictures of the Virgin Mary and Child, in particular the Hodegetria image in Constantinople (now lost). Starting from the 11th century, a number of painted images were venerated as his autograph works, including the Black Madonna of Częstochowa and Our Lady of Vladimir. He was also said to have painted Saints Peter and Paul, and to have illustrated a gospel book with a full cycle of miniatures.[42][43]
 
 Late medieval Guilds of Saint Luke in the cities of Late Medieval Europe, especially Flanders, or the "Accademia di San Luca" (Academy of Saint Luke) in Rome—imitated in many other European cities during the 16th century—gathered together and protected painters. The tradition that Luke painted icons of Mary and Jesus has been common, particularly in Eastern Orthodoxy. The tradition also has support from the Saint Thomas Christians of India who claim to still have one of the Theotokos icons that Saint Luke painted and which St. Thomas brought to India.[44]
 
 
 Symbol
 
-Hermen_Rode_001.jpg, Altar of the Guild of Saint Luke, Hermen Rode, Lübeck (1484)]] In traditional depictions, such as paintings, evangelist portraits, and church mosaics, Saint Luke is often accompanied by an ox or bull, usually having wings. Sometimes only the symbol is shown, especially when in a combination of those of all Four Evangelists.[45][46]
+, Altar of the Guild of Saint Luke, Hermen Rode, Lübeck (1484)]] In traditional depictions, such as paintings, evangelist portraits, and church mosaics, Saint Luke is often accompanied by an ox or bull, usually having wings. Sometimes only the symbol is shown, especially when in a combination of those of all Four Evangelists.[45][46]
 
 
 Relics

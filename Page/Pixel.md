@@ -1,4 +1,4 @@
-Pixel-example.png Closeup_of_pixels.JPG screen]]
+screen]]
 
 In digital imaging, a PIXEL, PEL,[1] or PICTURE ELEMENT[2] is a physical point in a raster image, or the smallest addressable element in an all points addressable display device; so it is the smallest controllable element of a picture represented on the screen.
 
@@ -26,8 +26,6 @@ Pixilation, spelled with a second _i_, is an unrelated filmmaking technique that
 
 Technical
 
-ReconstructionsFromPixels.png
-
 thought of as the smallest single component of a digital image. However, the definition is highly context-sensitive. For example, there can be "printed pixels" in a page, or pixels carried by electronic signals, or represented by digital values, or pixels on a display device, or pixels in a digital camera (photosensor elements). This list is not exhaustive and, depending on context, synonyms include pel, sample, byte, bit, dot, and spot. _Pixels_ can be used as a unit of measure such as: 2400 pixels per inch, 640 pixels per line, or spaced 10 pixels apart.
 
 The measures dots per inch (dpi) and pixels per inch (ppi) are sometimes used interchangeably, but have distinct meanings, especially for printer devices, where dpi is a measure of the printer's density of dot (e.g. ink droplet) placement.[16] For example, a high-quality photographic image may be printed with 600 ppi on a 1200 dpi inkjet printer.[17] Even higher dpi numbers, such as the 4800 dpi quoted by printer manufacturers since 2002, do not mean much in terms of achievable resolution.[18]
@@ -40,7 +38,7 @@ Sampling patterns
 
 For convenience, pixels are normally arranged in a regular two-dimensional grid. By using this arrangement, many common operations can be implemented by uniformly applying the same operation to each pixel independently. Other arrangements of pixels are possible, with some sampling patterns even changing the shape (or kernel) of each pixel across the image. For this reason, care must be taken when acquiring an image on one device and displaying it on another, or when converting image data from one pixel format to another.
 
-For example: Wikipedia_ClearType.png using subpixels]]
+For example: using subpixels]]
 
 -   LCD screens typically use a staggered grid, where the red, green, and blue components are sampled at slightly different locations. Subpixel rendering is a technology which takes advantage of these differences to improve the rendering of text on LCD screens.
 -   The vast majority of color digital cameras use a Bayer filter, resulting in a regular grid of pixels where the _color_ of each pixel depends on its position on the grid.
@@ -73,7 +71,7 @@ For color depths of 15 or more bits per pixel, the depth is normally the sum of 
 
 Subpixels
 
-Pixel_geometry_01_Pengo.jpg dots in the color display of CRTs (top row) bear no relation to pixels or subpixels.]]
+dots in the color display of CRTs (top row) bear no relation to pixels or subpixels.]]
 
 Many display and image-acquisition systems are not capable of displaying or sensing the different color channels at the same site. Therefore, the pixel grid is divided into single-color regions that contribute to the displayed or sensed color when viewed at a distance. In some displays, such as LCD, LED, and plasma displays, these single-color regions are separately addressable elements, which have come to be known as SUBPIXELS.[21] For example, LCDs typically divide each pixel vertically into three subpixels. When the square pixel is divided into three subpixels, each subpixel is necessarily rectangular. In display industry terminology, subpixels are often referred to as _pixels_, as they are the basic addressable elements in a viewpoint of hardware, and hence _pixel circuits_ rather than _subpixel circuits_ is used.
 
@@ -91,7 +89,7 @@ The concept of subpixels is related to samples.
 
 Megapixel
 
-Sensorauflösungen.svgA MEGAPIXEL (MP) is a million pixels; the term is used not only for the number of pixels in an image, but also to express the number of image sensor elements of digital cameras or the number of display elements of digital displays. For example, a camera that makes a 2048×1536 pixel image (3,145,728 finished image pixels) typically uses a few extra rows and columns of sensor elements and is commonly said to have "3.2 megapixels" or "3.4 megapixels", depending on whether the number reported is the "effective" or the "total" pixel count.[22]
+A MEGAPIXEL (MP) is a million pixels; the term is used not only for the number of pixels in an image, but also to express the number of image sensor elements of digital cameras or the number of display elements of digital displays. For example, a camera that makes a 2048×1536 pixel image (3,145,728 finished image pixels) typically uses a few extra rows and columns of sensor elements and is commonly said to have "3.2 megapixels" or "3.4 megapixels", depending on whether the number reported is the "effective" or the "total" pixel count.[22]
 
 Digital cameras use photosensitive electronics, either charge-coupled device (CCD) or complementary metal–oxide–semiconductor (CMOS) image sensors, consisting of a large number of single sensor elements, each of which records a measured intensity level. In most digital cameras, the sensor array is covered with a patterned color filter mosaic having red, green, and blue regions in the Bayer filter arrangement, so that each sensor element can record the intensity of a single primary color of light. The camera interpolates the color information of neighboring sensor elements, through a process called demosaicing, to create the final image. These sensor elements are often called "pixels", even though they only record 1 channel (only red, or green, or blue) of the final color image. Thus, two of the three color channels for each sensor must be interpolated and a so-called _N-megapixel_ camera that produces an N-megapixel image provides only one-third of the information that an image of the same size could get from a scanner. Thus, certain color contrasts may look fuzzier than others, depending on the allocation of the primary colors (green has twice as many elements as red or blue in the Bayer arrangement).
 

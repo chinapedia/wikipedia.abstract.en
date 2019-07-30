@@ -7,8 +7,6 @@ Two forms of combined oral contraceptives are on the World Health Organization's
 
 Medical use
 
-pillpacketopen.jpg
-
 Contraceptive use
 
 Combined oral contraceptive pills are a type of oral medication that is designed to be taken every day, at the same time of day, in order to prevent pregnancy.[9][10] There are many different formulations or brands, but the average pack is designed to be taken over a 28-day period, or cycle. For the first 21 days of the cycle, users take a daily pill that contains hormones (estrogen and progestogen). The last 7 days of the cycle are hormone free days. Some packets only contain 21 pills and users are then advised to take no pills for the following week. Other packets contain 7 additional placebo pills, or biologically inactive pills. Some newer formulations have 24 days of active hormone pills, followed by 4 days of placebo (examples include Yaz 28 and Loestrin 24 Fe) or even 84 days of active hormone pills, followed by 7 days of placebo pills (Seasonale).[11] A woman on the pill will have a withdrawal bleed sometime during her placebo pill or no pill days, and is still protected from pregnancy during this time. Then after 28 days, or 91 days depending on which type a person is using, users start a new pack and a new cycle.[12]
@@ -260,7 +258,7 @@ Public availability
 
 United States
 
-Patient_Package_Insert_for_Oral_Contraceptives_(FDA_079)_(8249451687).jpg On June 10, 1957, the Food and Drug Administration (FDA) approved Enovid 10 mg (9.85 mg noretynodrel and 150 µg mestranol) for menstrual disorders, based on data from its use by more than 600 women. Numerous additional contraceptive trials showed Enovid at 10, 5, and 2.5 mg doses to be highly effective. On July 23, 1959, Searle filed a supplemental application to add contraception as an approved indication for 10, 5, and 2.5 mg doses of Enovid. The FDA refused to consider the application until Searle agreed to withdraw the lower dosage forms from the application. On May 9, 1960, the FDA announced it would approve Enovid 10 mg for contraceptive use, and did so on June 23, 1960. At that point, Enovid 10 mg had been in general use for three years and, by conservative estimate, at least half a million women had used it. [208] [209] [210]
+On June 10, 1957, the Food and Drug Administration (FDA) approved Enovid 10 mg (9.85 mg noretynodrel and 150 µg mestranol) for menstrual disorders, based on data from its use by more than 600 women. Numerous additional contraceptive trials showed Enovid at 10, 5, and 2.5 mg doses to be highly effective. On July 23, 1959, Searle filed a supplemental application to add contraception as an approved indication for 10, 5, and 2.5 mg doses of Enovid. The FDA refused to consider the application until Searle agreed to withdraw the lower dosage forms from the application. On May 9, 1960, the FDA announced it would approve Enovid 10 mg for contraceptive use, and did so on June 23, 1960. At that point, Enovid 10 mg had been in general use for three years and, by conservative estimate, at least half a million women had used it. [208] [209] [210]
 
 Although FDA-approved for contraceptive use, Searle never marketed Enovid 10 mg as a contraceptive. Eight months later, on February 15, 1961, the FDA approved Enovid 5 mg for contraceptive use. In July 1961, Searle finally began marketing Enovid 5 mg (5 mg noretynodrel and 75 µg mestranol) to physicians as a contraceptive. [211] [212]
 

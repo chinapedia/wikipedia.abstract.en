@@ -10,8 +10,6 @@ Osman's failure to capture the throne at the death of his father Ahmed may have 
 
 Reign
 
-OttomanEmpire1622.png
-
 Osman II ascended the throne at the age of 14 as the result of a coup d'état against his uncle Mustafa I "the Intestable" (1617–18, 1622–23). Despite his youth, Osman II soon sought to assert himself as a ruler, and after securing the empire's eastern border by signing a peace treaty (Treaty of Serav) with Safavid Persia, he personally led the Ottoman invasion of Poland during the Moldavian Magnate Wars. Forced to sign a peace treaty with the Poles after the Battle of Chotin (Chocim) (which was, in fact, a siege of Chotin defended by the Lithuanian–Polish hetman Jan Karol Chodkiewicz) in September–October, 1621, Osman II returned home to Constantinople in shame, blaming the cowardice of the Janissaries and the insufficiency of his statesmen for his humiliation.
 
 The basic and exceptional weakness from which Osman II suffered was the conspicuous absence of a female power basis in the harem. From 1620 until Osman's death, a governess (_daye hatun_, lit. wet-nurse) was appointed as a stand-in valide, and she could not counterbalance the contriving of Mustafa I's mother in the Old Palace. Although he did have a loyal chief black eunuch at his side, this could not compensate for the absence of what in the politics of that period was a winning combination, valide sultan–chief black eunuch, especially in the case of a young and very ambitious ruler.[2] According to Piterberg, Osman II did not have haseki sultan, opposite with Peirce who claim that Ayşe was Osman's haseki. But it is clear that Ayşe could not take valide's role during her spouse's reign.

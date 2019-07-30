@@ -16,7 +16,7 @@ At least a few sources deem Poseidon as a "prehellenic" (i.e. Pelasgian) word, c
 
 Bronze Age Greece
 
-07Pella_Museum_Poseidon.jpg Kadriorg_Palace,_Tallinn.JPG, Tallinn]]
+, Tallinn]]
 
 Linear B (Mycenean Greek) inscriptions
 
@@ -52,7 +52,7 @@ Like Dionysus, who inflamed the maenads, Poseidon also caused certain forms of m
 
 Epithets
 
-Dionysus-or-Plato-Herculaneum-papyri-Villa-of-the-Papyri-Barker.jpg, Plato, or Poseidon sculpture excavated at the Villa of the Papyri.]] Poseidon was known in various guises, denoted by epithets. In the town of Aegae in Euboea, he was known as _Poseidon Aegaeus_ and had a magnificent temple upon a hill.[39][40][41] Poseidon also had a close association with horses, known under the epithet _Poseidon Hippios_, usually in Arcadia. He is more often regarded as the tamer of horses, but in some myths he is their father, either by spilling his seed upon a rock or by mating with a creature who then gave birth to the first horse.[42] He was closely related with the springs, and with the strike of his trident, he created springs. Many springs like Hippocrene and Aganippe in Helikon are related with the word horse (hippos). (also Glukippe, Hyperippe).[43] In the historical period, Poseidon was often referred to by the epithets _Enosichthon_, _Seisichthon_ and _Ennosigaios_, and _Gaiēochos_ all meaning "earth-shaker" and referring to his role in causing earthquakes.
+, Plato, or Poseidon sculpture excavated at the Villa of the Papyri.]] Poseidon was known in various guises, denoted by epithets. In the town of Aegae in Euboea, he was known as _Poseidon Aegaeus_ and had a magnificent temple upon a hill.[39][40][41] Poseidon also had a close association with horses, known under the epithet _Poseidon Hippios_, usually in Arcadia. He is more often regarded as the tamer of horses, but in some myths he is their father, either by spilling his seed upon a rock or by mating with a creature who then gave birth to the first horse.[42] He was closely related with the springs, and with the strike of his trident, he created springs. Many springs like Hippocrene and Aganippe in Helikon are related with the word horse (hippos). (also Glukippe, Hyperippe).[43] In the historical period, Poseidon was often referred to by the epithets _Enosichthon_, _Seisichthon_ and _Ennosigaios_, and _Gaiēochos_ all meaning "earth-shaker" and referring to his role in causing earthquakes.
 
 Some other epithets of Poseidon are:[44]
 
@@ -70,7 +70,7 @@ Some other epithets of Poseidon are:[44]
 
 Mythology
 
-Andrea_Doria_as_Neptun_by_Angelo_Bronzino.jpg'', by Angelo Bronzino.]]
+'', by Angelo Bronzino.]]
 
 Birth
 
@@ -86,13 +86,13 @@ In Homer's _Odyssey_ (_Book V_, ln. 398), Poseidon has a home in _Aegae_.
 
 Foundation of Athens
 
-René-Antoine_Houasse_-_The_Dispute_of_Minerva_and_Neptune,_1689.jpg and Neptune'' by René-Antoine Houasse (circa 1689 or 1706)]]
+and Neptune'' by René-Antoine Houasse (circa 1689 or 1706)]]
 
 Athena became the patron goddess of the city of Athens after a competition with Poseidon. Yet Poseidon remained a numinous presence on the Acropolis in the form of his surrogate, Erechtheus.[50] At the dissolution festival at the end of the year in the Athenian calendar, the Skira, the priests of Athena and the priest of Poseidon would process under canopies to Eleusis.[51] They agreed that each would give the Athenians one gift and the Athenians would choose whichever gift they preferred. Poseidon struck the ground with his trident and a spring sprang up; the water was salty and not very useful,[52] whereas Athena offered them an olive tree.
 
 The Athenians or their king, Cecrops, accepted the olive tree and along with it Athena as their patron, for the olive tree brought wood, oil and food. After the fight, infuriated at his loss, Poseidon sent a monstrous flood to the Attic Plain, to punish the Athenians for not choosing him. The depression made by Poseidon's trident and filled with salt water was surrounded by the northern hall of the Erechtheum, remaining open to the air. "In cult, Poseidon was identified with Erechtheus," Walter Burkert noted; "the myth turns this into a temporal-causal sequence: in his anger at losing, Poseidon led his son Eumolpus against Athens and killed Erectheus."[53]
 
-Temple_of_Poseidon.jpg at Cape Sounion, ca 440 BC]]
+at Cape Sounion, ca 440 BC]]
 
 The contest of Athena and Poseidon was the subject of the reliefs on the western pediment of the Parthenon, the first sight that greeted the arriving visitor.
 
@@ -108,7 +108,7 @@ Poseidon was said to have had many lovers of both sexes (see expandable list bel
 
 Poseidon was the father of many heroes. He is thought to have fathered the famed Theseus.
 
-A mortal woman named Tyro was married to Cretheus (with whom she had one son, Aeson), but loved Enipeus, a river god. She pursued Enipeus, who refused her advances. One day, Poseidon, filled with lust for Tyro, disguised himself as Enipeus, and from their union were born the heroes Pelias and Neleus, twin boys. Poseidon also had an affair with Alope, his granddaughter through Cercyon, his son and King of Eleusis, begetting the Attic hero Hippothoon. Cercyon had his daughter buried alive but Poseidon turned her into the spring, Alope, near Eleusis.Sea_thiasos_Amphitrite_Poseidon_Glyptothek_Munich_239_front_n3.jpg depicting the wedding of Poseidon and Amphitrite, from the Altar of Domitius Ahenobarbus in the Field of Mars, bas-relief, Roman Republic, 2nd century BC]]Poseidon rescued Amymone from a lecherous satyr and then fathered a child, Nauplius, by her.
+A mortal woman named Tyro was married to Cretheus (with whom she had one son, Aeson), but loved Enipeus, a river god. She pursued Enipeus, who refused her advances. One day, Poseidon, filled with lust for Tyro, disguised himself as Enipeus, and from their union were born the heroes Pelias and Neleus, twin boys. Poseidon also had an affair with Alope, his granddaughter through Cercyon, his son and King of Eleusis, begetting the Attic hero Hippothoon. Cercyon had his daughter buried alive but Poseidon turned her into the spring, Alope, near Eleusis. depicting the wedding of Poseidon and Amphitrite, from the Altar of Domitius Ahenobarbus in the Field of Mars, bas-relief, Roman Republic, 2nd century BC]]Poseidon rescued Amymone from a lecherous satyr and then fathered a child, Nauplius, by her.
 
 After having raped Caeneus, Poseidon fulfilled her request and changed her into a male warrior.
 
@@ -198,7 +198,7 @@ Genealogy
 
 In literature and art
 
-JacobdeGheynII-NeptuneandAmphitrite.jpg (late 1500s)]]
+(late 1500s)]]
 
 In Greek art, Poseidon rides a chariot that was pulled by a hippocampus or by horses that could ride on the sea. He was associated with dolphins and three-pronged fish spears (tridents). He lived in a palace on the ocean floor, made of coral and gems.
 
@@ -214,7 +214,7 @@ Poseidon appears in _Percy Jackson and the Olympians_ as the father of Percy Jac
 
 Narrations
 
-Neptúnova_fontána.jpg, Slovakia.]]
+, Slovakia.]]
 
 Poseidon myths as told by story tellers
 

@@ -16,7 +16,7 @@ He was elected to the Michigan House of Representatives as a state representativ
 
 Career
 
-Reagan_Contact_Sheet_C50279_(cropped).jpg Ronald Reagan in 1988]] Bush_Contact_Sheet_P19109_(cropped).jpg George H. W. Bush in 1991]]
+Ronald Reagan in 1988]] George H. W. Bush in 1991]]
 
 Governorship
 
@@ -48,7 +48,7 @@ Electoral history
 
 After governorship
 
-After leaving the governor's mansion in January 2003, Engler served as president of the state and local government sector of Electronic Data Systems. Engler left that position in June 2004 to be elected president and CEO of the National Association of Manufacturers.[9] Engler's six plus year tenure at the NAM ended in January 2011. In January 2011, Engler was named president of the Business Roundtable.[10] Presentation_of_Final_Report_of_the_Secretary's_Advisory_Committee_on_Transformational_Diplomacy.jpg with (left to right): Tom Pickering, John Engler and John Breaux at the presentation of final report of the Secretary's Advisory Committee on Transformational Diplomacy in 2008]]
+After leaving the governor's mansion in January 2003, Engler served as president of the state and local government sector of Electronic Data Systems. Engler left that position in June 2004 to be elected president and CEO of the National Association of Manufacturers.[9] Engler's six plus year tenure at the NAM ended in January 2011. In January 2011, Engler was named president of the Business Roundtable.[10] with (left to right): Tom Pickering, John Engler and John Breaux at the presentation of final report of the Secretary's Advisory Committee on Transformational Diplomacy in 2008]]
 
 In 2017, Engler was appointed to a four-year term on the governing board of the National Assessment of Educational Progress project.
 
@@ -58,8 +58,6 @@ On January 30, 2018, Engler was named the interim president of Michigan State Un
 
 
 Personal life
-
-John_Engler_at_Hudson_Institute.jpg
 
 Engler married Colleen House Engler in 1975, who served in the Michigan House of Representatives and ran for lieutenant governor of Michigan in 1986. She filed for divorce in 1986.[16]
 

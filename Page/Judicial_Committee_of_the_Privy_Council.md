@@ -2,7 +2,7 @@ The JUDICIAL COMMITTEE OF THE PRIVY COUNCIL (JCPC) is the highest court of appea
 
 Formally a statutory committee of Her Majesty's Most Honourable Privy Council, the Judicial Committee consists of senior judges who are Privy Councillors: they are predominantly Justices of the Supreme Court of the United Kingdom and senior judges from the Commonwealth. It is often referred to as the PRIVY COUNCIL. In Commonwealth realms, appeals are nominally made to "Her Majesty in Council" (i.e. the British monarch as formally advised by her Privy Counsellors), who then refers the case to the Judicial Committee for "advice", while in Commonwealth republics retaining the JCPC as their final court of appeal, appeals are made directly to the Judicial Committee itself. The panel of judges (typically five in number) hearing a particular case is known as "the Board". The "report" of the Board is always accepted by the Queen in Council as judgment.
 
-Judicial_Committee_of_the_Privy_Council_court_room_3_in_United_Kingdom_Supreme_Court.jpg, the normal location for Privy Council hearings.]]
+, the normal location for Privy Council hearings.]]
 
 
 History

@@ -28,7 +28,7 @@ Pontificate
 
 Election to papacy
 
-Pope Alexander VI died in 1503 and amid the disturbances consequent upon his death, it took the combined pressures of all the ambassadors to induce Cesare Borgia to withdraw from Rome so that an unpressured conclave might take place. Cardinal Piccolomini was elected on 22 September 1503 and he named himself "Pius III" after his uncle Pius II.[5] This selection can be seen as a compromise between factions, Borgia and della Rovere, picking a frail cardinal with long experience in the Roman Curia over the kin of either Sixtus IV or Alexander VI. Tomb_of_pope_Pius_III.jpg Piccolomini was neither ordained nor consecrated until 30 September 1503 when he finally received ordination. Cardinal Giuliano della Rovere consecrated him on 1 October 1503 in the Vatican and his coronation took place on 8 October 1503. Cardinal Protodeacon Raffaello Sansoni Riario performed the coronation and several of the features of the celebration had to be omitted due to his frail health.
+Pope Alexander VI died in 1503 and amid the disturbances consequent upon his death, it took the combined pressures of all the ambassadors to induce Cesare Borgia to withdraw from Rome so that an unpressured conclave might take place. Cardinal Piccolomini was elected on 22 September 1503 and he named himself "Pius III" after his uncle Pius II.[5] This selection can be seen as a compromise between factions, Borgia and della Rovere, picking a frail cardinal with long experience in the Roman Curia over the kin of either Sixtus IV or Alexander VI. Piccolomini was neither ordained nor consecrated until 30 September 1503 when he finally received ordination. Cardinal Giuliano della Rovere consecrated him on 1 October 1503 in the Vatican and his coronation took place on 8 October 1503. Cardinal Protodeacon Raffaello Sansoni Riario performed the coronation and several of the features of the celebration had to be omitted due to his frail health.
 
 Programme
 
@@ -42,7 +42,7 @@ He supported Cesare Borgia and reconfirmed him as Gonfalonier. In honour of Pius
 
 Death and burial
 
-Wall_Tomb_of_Pope_Pius_III_color.jpg]] On 13 October he was on his deathbed with gout and after a brief pontificate of 26 days he died on 18 October 1503. After celebrating a consistory (no new cardinals were created), he died of an ulcer in the leg or, as some have alleged, of poison administered at the instigation of Pandolfo Petrucci, the ruler of Siena.
+]] On 13 October he was on his deathbed with gout and after a brief pontificate of 26 days he died on 18 October 1503. After celebrating a consistory (no new cardinals were created), he died of an ulcer in the leg or, as some have alleged, of poison administered at the instigation of Pandolfo Petrucci, the ruler of Siena.
 
 He was buried in the chapel of San Andrea in Saint Peter's Basilica next to his uncle as ordered by his brothers Giacomo and Andrea. When the basilica was being rebuilt, the monument was transferred below to the grottoes and the remains of Pius III and his uncle to the church of San Andrea della Valle in Rome put in a mausoleum created by Cardinal Alessandro Damasceni Peretti in 1614.[7]
 

@@ -1,5 +1,3 @@
-Luddite.jpg
-
 The LUDDITES were a secret oath-based organization[1] of English textile workers in the 19th century, a radical faction which destroyed textile machinery as a form of protest. The group was protesting against the use of machinery in a "fraudulent and deceitful manner" to get around standard labour practices.[2] Luddites feared that the time spent learning the skills of their craft would go to waste, as machines would replace their role in the industry.[3] Over time, however, the term has come to mean one opposed to industrialisation, automation, computerisation, or new technologies in general.[4] The Luddite movement began in Nottingham in England and culminated in a region-wide rebellion that lasted from 1811 to 1816. Mill and factory owners took to shooting protesters and eventually the movement was suppressed with legal and military force.
 
 
@@ -30,7 +28,7 @@ In 1817, an unemployed Nottingham stockinger and probably ex-Luddite, named Jere
 
 Government response
 
-FrameBreaking-1812.jpg. Machine-breaking was criminalised by the Parliament of the United Kingdom as early as 1721, the penalty being penal transportation, but as a result of continued opposition to mechanisation the Frame Breaking Act 1812 made the death penalty available: see "criminal damage in English law".]]
+. Machine-breaking was criminalised by the Parliament of the United Kingdom as early as 1721, the penalty being penal transportation, but as a result of continued opposition to mechanisation the Frame Breaking Act 1812 made the death penalty available: see "criminal damage in English law".]]
 
 The British Army clashed with the Luddites on several occasions. At one time there were more British soldiers fighting the Luddites than there were fighting Napoleon on the Iberian Peninsula.[26] Three Luddites, led by George Mellor, ambushed and assassinated mill owner William Horsfall of Ottiwells Mill in Marsden, West Yorkshire at Crosland Moor in Huddersfield. Horsfall had remarked that he would "Ride up to his saddle in Luddite blood".[27] Mellor fired the fatal shot to Horsfall's groin, and all three men were arrested.
 

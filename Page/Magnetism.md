@@ -1,4 +1,4 @@
-Magnetic_quadrupole_moment.svg]] MAGNETISM is a class of physical phenomena that are mediated by magnetic fields. Electric currents and the magnetic moments of elementary particles give rise to a magnetic field, which acts on other currents and magnetic moments. The most familiar effects occur in ferromagnetic materials, which are strongly attracted by magnetic fields and can be magnetized to become permanent magnets, producing magnetic fields themselves. Only a few substances are ferromagnetic; the most common ones are iron, cobalt and nickel and their alloys such as steel. The prefix __ refers to iron, because permanent magnetism was first observed in lodestone, a form of natural iron ore called magnetite, Fe₃O₄.
+]] MAGNETISM is a class of physical phenomena that are mediated by magnetic fields. Electric currents and the magnetic moments of elementary particles give rise to a magnetic field, which acts on other currents and magnetic moments. The most familiar effects occur in ferromagnetic materials, which are strongly attracted by magnetic fields and can be magnetized to become permanent magnets, producing magnetic fields themselves. Only a few substances are ferromagnetic; the most common ones are iron, cobalt and nickel and their alloys such as steel. The prefix __ refers to iron, because permanent magnetism was first observed in lodestone, a form of natural iron ore called magnetite, Fe₃O₄.
 
 Although ferromagnetism is responsible for most of the effects of magnetism encountered in everyday life, all other materials are influenced to some extent by a magnetic field, by several other types of magnetism. Paramagnetic substances such as aluminum and oxygen are weakly attracted to an applied magnetic field; diamagnetic substances such as copper and carbon are weakly repelled; while antiferromagnetic materials such as chromium and spin glasses have a more complex relationship with a magnetic field. The force of a magnet on paramagnetic, diamagnetic, and antiferromagnetic materials is usually too weak to be felt and can be detected only by laboratory instruments, so in everyday life, these substances are often described as non-magnetic.
 
@@ -7,7 +7,7 @@ The magnetic state (or magnetic phase) of a material depends on temperature and 
 
 History
 
-Lodestone_attracting_nails.png, a natural magnet, attracting iron nails. Ancient humans discovered the property of magnetism from lodestone.]] Blacksmith_at_the_anvil._Wellcome_L0005875.jpg A_man_is_violently_rubbed_with_magnets._Coloured_lithograph_Wellcome_V0011767.jpg 1843, France.]] Magnetism was first discovered in the ancient world, when people noticed that lodestones, naturally magnetized pieces of the mineral magnetite, could attract iron.[1] The word _magnet_ comes from the Greek term μαγνῆτις λίθος _magnētis lithos_,[2] "the Magnesian stone,[3] lodestone." In ancient Greece, Aristotle attributed the first of what could be called a scientific discussion of magnetism to the philosopher Thales of Miletus, who lived from about 625 BC to about 545 BC.[4] The ancient Indian medical text _Sushruta Samhita_ describes using magnetite to remove arrows embedded in a person's body.[5]
+, a natural magnet, attracting iron nails. Ancient humans discovered the property of magnetism from lodestone.]] 1843, France.]] Magnetism was first discovered in the ancient world, when people noticed that lodestones, naturally magnetized pieces of the mineral magnetite, could attract iron.[1] The word _magnet_ comes from the Greek term μαγνῆτις λίθος _magnētis lithos_,[2] "the Magnesian stone,[3] lodestone." In ancient Greece, Aristotle attributed the first of what could be called a scientific discussion of magnetism to the philosopher Thales of Miletus, who lived from about 625 BC to about 545 BC.[4] The ancient Indian medical text _Sushruta Samhita_ describes using magnetite to remove arrows embedded in a person's body.[5]
 
 In ancient China, the earliest literary reference to magnetism lies in a 4th-century BC book named after its author, _The Sage of Ghost Valley_.[6] The 2nd-century BC annals, _Lüshi Chunqiu_, also notes: "The lodestone makes iron approach, or it attracts it."[7] The earliest mention of the attraction of a needle is in a 1st-century work _Lunheng_ (_Balanced Inquiries_): "A lodestone attracts a needle."[8] The 11th-century Chinese scientist Shen Kuo was the first person to write—in the _Dream Pool Essays_—of the magnetic needle compass and that it improved the accuracy of navigation by employing the astronomical concept of true north. By the 12th century, the Chinese were known to use the lodestone compass for navigation. They sculpted a directional spoon from lodestone in such a way that the handle of the spoon always pointed south.
 
@@ -38,8 +38,6 @@ The magnetic behavior of a material depends on its structure, particularly its e
 
 Types of Magnetism
 
-Magnetism.svg
-
 Diamagnetism
 
 Diamagnetism appears in all materials and is the tendency of a material to oppose an applied magnetic field, and therefore, to be repelled by a magnetic field. However, in a material with paramagnetic properties (that is, with a tendency to enhance an external magnetic field), the paramagnetic behavior dominates.
@@ -56,7 +54,7 @@ In a paramagnetic material there are _unpaired electrons_; i.e., atomic or molec
 
 Ferromagnetism
 
-_Ferromagneses_penzermek_1.jpg A ferromagnet, like a paramagnetic substance, has unpaired electrons. However, in addition to the electrons' intrinsic magnetic moment's tendency to be parallel to an applied field, there is also in these materials a tendency for these magnetic moments to orient parallel to each other to maintain a lowered-energy state. Thus, even in the absence of an applied field, the magnetic moments of the electrons in the material spontaneously line up parallel to one another.
+A ferromagnet, like a paramagnetic substance, has unpaired electrons. However, in addition to the electrons' intrinsic magnetic moment's tendency to be parallel to an applied field, there is also in these materials a tendency for these magnetic moments to orient parallel to each other to maintain a lowered-energy state. Thus, even in the absence of an applied field, the magnetic moments of the electrons in the material spontaneously line up parallel to one another.
 
 Every ferromagnetic substance has its own individual temperature, called the Curie temperature, or Curie point, above which it loses its ferromagnetic properties. This is because the thermal tendency to disorder overwhelms the energy-lowering due to ferromagnetic order.
 
@@ -74,13 +72,13 @@ When magnetized strongly enough that the prevailing domain overruns all others t
 
 Antiferromagnetism
 
-Antiferromagnetic_ordering.svg ordering]] In an antiferromagnet, unlike a ferromagnet, there is a tendency for the intrinsic magnetic moments of neighboring valence electrons to point in _opposite_ directions. When all atoms are arranged in a substance so that each neighbor is anti-parallel, the substance is ANTIFERROMAGNETIC. Antiferromagnets have a zero net magnetic moment, meaning that no field is produced by them. Antiferromagnets are less common compared to the other types of behaviors and are mostly observed at low temperatures. In varying temperatures, antiferromagnets can be seen to exhibit diamagnetic and ferromagnetic properties.
+ordering]] In an antiferromagnet, unlike a ferromagnet, there is a tendency for the intrinsic magnetic moments of neighboring valence electrons to point in _opposite_ directions. When all atoms are arranged in a substance so that each neighbor is anti-parallel, the substance is ANTIFERROMAGNETIC. Antiferromagnets have a zero net magnetic moment, meaning that no field is produced by them. Antiferromagnets are less common compared to the other types of behaviors and are mostly observed at low temperatures. In varying temperatures, antiferromagnets can be seen to exhibit diamagnetic and ferromagnetic properties.
 
 In some materials, neighboring electrons prefer to point in opposite directions, but there is no geometrical arrangement in which _each_ pair of neighbors is anti-aligned. This is called a spin glass and is an example of geometrical frustration.
 
 Ferrimagnetism
 
-Ferrimagnetic_ordering.svg ordering]] Like ferromagnetism, FERRIMAGNETS retain their magnetization in the absence of a field. However, like antiferromagnets, neighboring pairs of electron spins tend to point in opposite directions. These two properties are not contradictory, because in the optimal geometrical arrangement, there is more magnetic moment from the sublattice of electrons that point in one direction, than from the sublattice that points in the opposite direction.
+ordering]] Like ferromagnetism, FERRIMAGNETS retain their magnetization in the absence of a field. However, like antiferromagnets, neighboring pairs of electron spins tend to point in opposite directions. These two properties are not contradictory, because in the optimal geometrical arrangement, there is more magnetic moment from the sublattice of electrons that point in one direction, than from the sublattice that points in the opposite direction.
 
 Most ferrites are ferrimagnetic. The first discovered magnetic substance, magnetite, is a ferrite and was originally believed to be a ferromagnet; Louis Néel disproved this, however, after discovering ferrimagnetism.
 
@@ -97,8 +95,6 @@ Other types of magnetism
 
 
 Electromagnet
-
-Electromagnet.gif
 
 An electromagnet is a type of magnet in which the magnetic field is produced by an electric current.[11] The magnetic field disappears when the current is turned off. Electromagnets usually consist of a large number of closely spaced turns of wire that create the magnetic field. The wire turns are often wound around a magnetic core made from a ferromagnetic or ferrimagnetic material such as iron; the magnetic core concentrates the magnetic flux and makes a more powerful magnet.
 
@@ -139,8 +135,6 @@ In a hard magnet such as a ferromagnet, is not proportional to the field and is 
 
 
 Magnetic force
-
-Magnet0873.png Magnet_bar.ogv
 
 The phenomenon of magnetism is "mediated" by the magnetic field. An electric current or magnetic dipole creates a magnetic field, and that field, in turn, imparts magnetic forces on other particles that are in the fields.
 

@@ -1,4 +1,4 @@
-Sealand_fortress.jpg is a micronation located on a seafort off the coast of the United Kingdom.]]
+is a micronation located on a seafort off the coast of the United Kingdom.]]
 
 A MICRONATION is a small entity that claims to be an independent nation or sovereign state but is not recognized as such by world governments or major international organizations.[1] This contrasts with microstates, which are small but recognized sovereign states such as Andorra, Liechtenstein, Luxembourg, Monaco, San Marino, and Vatican City.[2] They are also distinct from imaginary countries and from other kinds of social groups (such as eco-villages, campuses, tribes, clans, sects, and residential community associations) by expressing a formal and persistent, even if unrecognized, claim of sovereignty over some physical territory. Micronations are also distinct from true secessionist movements; micronations' activities are almost always trivial enough to be ignored rather than challenged by the established nations whose territory they claim. Several micronations have issued coins, flags, postage stamps, passports, medals, and other items. These items are rarely accepted outside their own community but may be sold as novelties to help raise money or collected by enthusiasts.
 
@@ -16,7 +16,7 @@ The term has since also come to be used retrospectively to refer to earlier unre
 
 Definition
 
-Conch_Republic_FH020010.jpg"—a sign at Key West International Airport.]] Micronations generally have a number of common features, although these may vary widely. They may have a structure similar to established sovereign states, including territorial claims, government institutions, official symbols and citizens, albeit on a much smaller scale. Micronations are often quite small, in both their claimed territory and claimed populations—although there are some exceptions to this rule, with different micronations having different methods of citizenship. Micronations may also issue formal instruments such as postage stamps, coins, banknotes and passports, and bestow honours and titles of nobility.
+"—a sign at Key West International Airport.]] Micronations generally have a number of common features, although these may vary widely. They may have a structure similar to established sovereign states, including territorial claims, government institutions, official symbols and citizens, albeit on a much smaller scale. Micronations are often quite small, in both their claimed territory and claimed populations—although there are some exceptions to this rule, with different micronations having different methods of citizenship. Micronations may also issue formal instruments such as postage stamps, coins, banknotes and passports, and bestow honours and titles of nobility.
 
 The Montevideo Convention was one attempt to create a legal definition distinguishing between states and non-states. Some micronations meet this definition, while some do not, and others reject the convention. Some micronations like Sealand or Hutt River reject the term micronation and consider themselves as sovereign states; other micronations like Flandrensis or Molossia have no intention to be recognized as real states.[5]
 
@@ -27,11 +27,9 @@ There are many different types of micronations that have been claimed over the y
 
 Micronations
 
-Seborga_frontier.jpg]]
+]]
 
 -   Operation Atlantis, an early 1970s New York–based libertarian group, built a concrete-hulled ship called _Freedom_, which they sailed to the Caribbean, intending to permanently anchor it as their "territory". The ship sank in a hurricane and the project was then abandoned.
-
-MinervaReef3.jpg
 
 -   Republic of Minerva, another libertarian project that succeeded in building a small man-made island on the Minerva Reefs south of Fiji in 1972 before being invaded by troops from Tonga, who annexed it before destroying the island.[6]
 -   Principality of Freedonia, a libertarian project that supported the Awdal Road Company's attempts to lease land from the Sultan of Awdal in Somaliland in 2001. If the Awdal Road Company is able to build a road, then the Sultan of Awdal will give land to allow the ARC to create an economic free zone, and some of that territory will then be handed over to the Principality of Freedonia. After the men from Awdal Roads Company were deported following false allegations about the lease, resulting public dissatisfaction led to rioting, and the reported death of a Somali.[7]
@@ -57,7 +55,7 @@ Early history and evolution
 
 Martin Coles Harman, owner of the British island of Lundy in the early decades of the 20th century, declared himself King and issued private coinage and postage stamps for local use. Although the island was ruled as a virtual fiefdom, its owner never claimed to be independent of the United Kingdom, so Lundy can at best be described as a precursor to later territorial micronations. Another example is the Principality of Outer Baldonia, a rocky island off the coast of Nova Scotia, founded by Russell Arundel, chairman of the Pepsi Cola Company (later: PepsiCo), in 1945 and comprising a population of 69 fishermen.
 
-Sealand-sky.jpg]]
+]]
 
 History during 1960 to 1980
 
@@ -134,7 +132,7 @@ The Democratic Empire of Sunda, which claims to be the Government of the Kingdom
 
 In 2010, a conference of micronations was held on Dangar Island in Sydney, Australia. Micronations with representatives in attendance included the Empire of Atlantium, the Principality of Hutt River, the Principality of Wy and the Gay and Lesbian Kingdom of the Coral Sea Islands[42]
 
-In 2010, a documentary film by Jody Shapiro entitled _How to Start Your Own Country_ was screened as part of the Toronto International Film Festival. The documentary explored various micronations around the world, and included an analysis of the concept of statehood and citizenship. Erwin Strauss, author of the eponymous book, was interviewed as part of the film.[43] Flandrensispolination.JPG and the Republic of St. Charlie on 15 July 2012 at the Pollination Micronational Conference in London]] In 2012, a conference of micronations (PoliNation 2012) was held in London. Micronations with representatives in attendance included the Empire of Atlantium, the Republic of Molossia, the Grand Duchy of Flandrensis, Ladonia, Neue Slowenische Kunst and Austenasia.[44][45][46][47][48] A second conference was organized in 2015 in the Free Republic of Alcatraz in Perugia[49][50][51][52][53]
+In 2010, a documentary film by Jody Shapiro entitled _How to Start Your Own Country_ was screened as part of the Toronto International Film Festival. The documentary explored various micronations around the world, and included an analysis of the concept of statehood and citizenship. Erwin Strauss, author of the eponymous book, was interviewed as part of the film.[43] and the Republic of St. Charlie on 15 July 2012 at the Pollination Micronational Conference in London]] In 2012, a conference of micronations (PoliNation 2012) was held in London. Micronations with representatives in attendance included the Empire of Atlantium, the Republic of Molossia, the Grand Duchy of Flandrensis, Ladonia, Neue Slowenische Kunst and Austenasia.[44][45][46][47][48] A second conference was organized in 2015 in the Free Republic of Alcatraz in Perugia[49][50][51][52][53]
 
 The manga and anime series _Hetalia: Axis Powers_, in which the main characters are the stereotyped personifications of the nations of the world, features several micronations as characters. micronations represented include Sealand, Seborga, Wy, Kugelmugel, Molossia, Hutt River, Ladonia, and the former micronation of Nikko Nikko.[54]
 

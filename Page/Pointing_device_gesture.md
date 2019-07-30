@@ -1,4 +1,4 @@
-Opera_back_mouse_gesture.svg – the user holds down the right mouse button, moves the mouse left, and releases the right mouse button.]]
+– the user holds down the right mouse button, moves the mouse left, and releases the right mouse button.]]
 
 In computing, a POINTING DEVICE GESTURE or MOUSE GESTURE (or, simply, GESTURE) is a way of combining pointing device or finger movements and clicks that the software recognizes as a specific computer event and responds in a manner particular to that software. They can be useful for people who have difficulties typing on a keyboard. For example, in a web browser, a user can navigate to the previously viewed page by pressing the right pointing device button, moving the pointing device briefly to the left, then releasing the button.
 
@@ -29,29 +29,29 @@ Related to gestures are touchpad hotspots, where a particular region of the touc
 
 Multi-touch touchscreen gestures are predefined motions used to interact with multi-touch devices. An increasing number of products like smartphones, tablets, laptops or desktop computers have functions that are triggered by multi-touch gestures. Common touchscreen gestures include:
 
-+-------------------+--------------------------------+-------------------------------+
-| TAP               | Gestures_Tap.png               | Gesture_Tap.ogg               |
-+-------------------+--------------------------------+-------------------------------+
-| DOUBLE TAP        | Gestures_Double_Tap.png        | Gesture_Double_Tap.ogg        |
-+-------------------+--------------------------------+-------------------------------+
-| LONG PRESS        | Gestures_Long_Press.png        | Gesture_Long_Press.ogg        |
-+-------------------+--------------------------------+-------------------------------+
-| SCROLL            | Gestures_Scroll.png            | Gesture_Scroll.ogg            |
-+-------------------+--------------------------------+-------------------------------+
-| PAN               | Gestures_Pan.png               | Gesture_Pan.ogg               |
-+-------------------+--------------------------------+-------------------------------+
-| FLICK             | Gestures_Flick.png             | thumbtime=1                   |
-+-------------------+--------------------------------+-------------------------------+
-| TWO FINGER TAP    | Gestures_Two_Finger_Tap.png    | Gesture_Two_Finger_Tap.ogg    |
-+-------------------+--------------------------------+-------------------------------+
-| TWO FINGER SCROLL | Gestures_Two_Finger_Scroll.png | Gesture_Two_Finger_Scroll.ogg |
-+-------------------+--------------------------------+-------------------------------+
-| PINCH             | Gestures_Pinch.png             | Gesture_Pinch.ogg             |
-+-------------------+--------------------------------+-------------------------------+
-| ZOOM              | Gestures_Unpinch.png           | Gesture_Unpinch.ogg           |
-+-------------------+--------------------------------+-------------------------------+
-| ROTATE            | Gestures_Rotate.png            | Gesture_Rotate.ogg            |
-+-------------------+--------------------------------+-------------------------------+
++-------------------+--+-------------+
+| TAP               |  |             |
++-------------------+--+-------------+
+| DOUBLE TAP        |  |             |
++-------------------+--+-------------+
+| LONG PRESS        |  |             |
++-------------------+--+-------------+
+| SCROLL            |  |             |
++-------------------+--+-------------+
+| PAN               |  |             |
++-------------------+--+-------------+
+| FLICK             |  | thumbtime=1 |
++-------------------+--+-------------+
+| TWO FINGER TAP    |  |             |
++-------------------+--+-------------+
+| TWO FINGER SCROLL |  |             |
++-------------------+--+-------------+
+| PINCH             |  |             |
++-------------------+--+-------------+
+| ZOOM              |  |             |
++-------------------+--+-------------+
+| ROTATE            |  |             |
++-------------------+--+-------------+
 
 Other gestures including more than 2 fingers on screen have also been developed such as Sticky Tools.[3] These techniques are often developed for 3D applications and are not considered standard.
 

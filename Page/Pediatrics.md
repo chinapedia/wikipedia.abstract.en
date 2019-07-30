@@ -3,7 +3,7 @@ PEDIATRICS (also spelled PAEDIATRICS or PÆDIATRICS) is the branch of medicine t
 
 History
 
-Great_Ormond_Street_Hospital.jpg in London, United Kingdom, which was the first pediatric hospital in the English-speaking world.]]
+in London, United Kingdom, which was the first pediatric hospital in the English-speaking world.]]
 
 Already Hippocrates, Aristotle, Celsus, Soranus, and Galen[2] understood the differences in growing and maturing organisms that necessitated different treatment: __ ("In general, boys should not be treated in the same way as men").[3]
 

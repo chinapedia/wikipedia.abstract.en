@@ -1,5 +1,3 @@
-RCEP_GDP.png
-
 The NORTH AMERICAN FREE TRADE AGREEMENT (NAFTA; , TLCAN; , ALÉNA) is an agreement signed by Canada, Mexico, and the United States, creating a trilateral trade bloc in North America. The agreement came into force on January 1, 1994, and superseded the 1988 Canada–United States Free Trade Agreement between the United States and Canada. The NAFTA trade bloc is one of the largest trade blocs in the world by gross domestic product.
 
 The impetus for a North American free trade zone began with U.S. President Ronald Reagan, who made the idea part of his 1980 presidential campaign. After the signing of the Canada–United States Free Trade Agreement in 1988, the administrations of U.S. President George H. W. Bush, Mexican President Carlos Salinas de Gortari, and Canadian Prime Minister Brian Mulroney agreed to negotiate what became NAFTA. Each submitted the agreement for ratification in their respective capitals in December 1992, but NAFTA faced significant opposition in both the United States and Canada. All three countries ratified NAFTA in 1993 after the addition of two side agreements, the North American Agreement on Labor Cooperation (NAALC) and the North American Agreement on Environmental Cooperation (NAAEC).
@@ -203,7 +201,7 @@ Policy of the Trump administration
 
 Renegotiation
 
-Chrystia_Freeland,_Luis_Videgaray_Caso_and_Rex_Tillerson_in_Mexico_City_-_2018_(40013111732).jpg, Luis Videgaray Caso and Rex Tillerson in Mexico City in 2018]]
+, Luis Videgaray Caso and Rex Tillerson in Mexico City in 2018]]
 
 Shortly after his election, U.S. President Donald Trump said he would begin renegotiating the terms of NAFTA, to resolve trade issues he had campaigned on. The leaders of Canada and Mexico have indicated their willingness to work with the Trump administration.[141] Although vague on the exact terms he seeks in a renegotiated NAFTA, Trump threatened to withdraw from it if negotiations fail.[142]
 

@@ -27,7 +27,7 @@ By 1934 there was experimental evidence against Bohr's idea that energy conserva
 
 Direct detection
 
-Clyde_Cowan.jpg In 1942, Wang Ganchang first proposed the use of beta capture to experimentally detect neutrinos.[26] In the 20 July 1956 issue of _Science_, Clyde Cowan, Frederick Reines, F. B. Harrison, H. W. Kruse, and A. D. McGuire published confirmation that they had detected the neutrino,[27][28] a result that was rewarded almost forty years later with the 1995 Nobel Prize.[29]
+In 1942, Wang Ganchang first proposed the use of beta capture to experimentally detect neutrinos.[26] In the 20 July 1956 issue of _Science_, Clyde Cowan, Frederick Reines, F. B. Harrison, H. W. Kruse, and A. D. McGuire published confirmation that they had detected the neutrino,[27][28] a result that was rewarded almost forty years later with the 1995 Nobel Prize.[29]
 
 In this experiment, now known as the Cowan–Reines neutrino experiment, antineutrinos created in a nuclear reactor by beta decay reacted with protons to produce neutrons and positrons:
 
@@ -269,7 +269,7 @@ The Sun sends enormous numbers of neutrinos in all directions. Each second, abou
 
 Supernovae
 
-Supernova-1987a.jpg]] In 1966, Colgate and White[125] calculated that neutrinos carry away most of the gravitational energy released by the collapse of massive stars, events now categorized as Type Ib and Ic and Type II supernovae. When such stars collapse, matter densities at the core become so high () that the degeneracy of electrons is not enough to prevent protons and electrons from combining to form a neutron and an electron neutrino. A second and more profuse neutrino source is the thermal energy (100 billion kelvins) of the newly formed neutron core, which is dissipated via the formation of neutrino–antineutrino pairs of all flavors.[126]
+]] In 1966, Colgate and White[125] calculated that neutrinos carry away most of the gravitational energy released by the collapse of massive stars, events now categorized as Type Ib and Ic and Type II supernovae. When such stars collapse, matter densities at the core become so high () that the degeneracy of electrons is not enough to prevent protons and electrons from combining to form a neutron and an electron neutrino. A second and more profuse neutrino source is the thermal energy (100 billion kelvins) of the newly formed neutron core, which is dissipated via the formation of neutrino–antineutrino pairs of all flavors.[126]
 
 Colgate and White's theory of supernova neutrino production was confirmed in 1987, when neutrinos from Supernova 1987A were detected. The water-based detectors Kamiokande II and IMB detected 11 and 8 antineutrinos (lepton number = −1) of thermal origin,[127] respectively, while the scintillator-based Baksan detector found 5 neutrinos (lepton number = +1) of either thermal or electron-capture origin, in a burst less than 13 seconds long. The neutrino signal from the supernova arrived at earth several hours before the arrival of the first electromagnetic radiation, as expected from the evident fact that the latter emerges along with the shock wave. The exceptionally feeble interaction with normal matter allowed the neutrinos to pass through the churning mass of the exploding star, while the electromagnetic photons were slowed.
 

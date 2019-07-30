@@ -5,7 +5,7 @@ Both the role of the physician and the meaning of the word itself vary around th
 
 Modern meanings
 
-Francesco_Redi.jpg Francesco Redi, considered to be the founder of experimental biology, was the first to recognize and correctly describe details of many important parasites.[2]]]
+Francesco Redi, considered to be the founder of experimental biology, was the first to recognize and correctly describe details of many important parasites.[2]]]
 
 Specialist in internal medicine
 
@@ -25,7 +25,7 @@ Around the world, the combined term "physician and surgeon" is used to describe 
 
 North America
 
-Elizabeth_Blackwell.jpg, the first female physician to receive a medical degree in the United States.]] In modern English, the term _physician_ is used in two main ways, with relatively broad and narrow meanings respectively. This is the result of history and is often confusing. These meanings and variations are explained below. In the United States and Canada, the term _physician_ describes all medical practitioners holding a professional medical degree. The American Medical Association, established in 1847, as well as the American Osteopathic Association, founded in 1897, both currently use the term _physician_ to describe members. However, the American College of Physicians, established in 1915, does not: its title uses _physician_ in its original sense.
+, the first female physician to receive a medical degree in the United States.]] In modern English, the term _physician_ is used in two main ways, with relatively broad and narrow meanings respectively. This is the result of history and is often confusing. These meanings and variations are explained below. In the United States and Canada, the term _physician_ describes all medical practitioners holding a professional medical degree. The American Medical Association, established in 1847, as well as the American Osteopathic Association, founded in 1897, both currently use the term _physician_ to describe members. However, the American College of Physicians, established in 1915, does not: its title uses _physician_ in its original sense.
 
 American physicians
 

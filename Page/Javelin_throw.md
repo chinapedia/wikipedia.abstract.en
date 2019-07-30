@@ -1,9 +1,9 @@
-Osaka07_D7M_Stephan_Steding_Javelin.jpg during the 2007 IAAF World Championships in Osaka, Japan.]] The JAVELIN THROW is a track and field event where the javelin, a spear about in length, is thrown. The javelin thrower gains momentum by running within a predetermined area. Javelin throwing is an event of both the men's decathlon and the women's heptathlon.
+during the 2007 IAAF World Championships in Osaka, Japan.]] The JAVELIN THROW is a track and field event where the javelin, a spear about in length, is thrown. The javelin thrower gains momentum by running within a predetermined area. Javelin throwing is an event of both the men's decathlon and the women's heptathlon.
 
 
 History
 
-Javelin_throwers_Ancient_Greece.png The javelin was part of the pentathlon of the Ancient Olympic Games beginning in 708 BC in two disciplines, distance and target throw. The javelin was thrown with the aid of a thong, called _ankyle_ wound around the middle of the shaft. Athletes would hold the javelin by the thong and when the javelin was released this thong unwound giving the javelin a spiraled flight.
+The javelin was part of the pentathlon of the Ancient Olympic Games beginning in 708 BC in two disciplines, distance and target throw. The javelin was thrown with the aid of a thong, called _ankyle_ wound around the middle of the shaft. Athletes would hold the javelin by the thong and when the javelin was released this thong unwound giving the javelin a spiraled flight.
 
 Throwing javelin-like poles into targets was revived in Germany and Sweden in the early 1870s. In Sweden, these poles developed into the modern javelin, and throwing them for distance became a common event there and in Finland in the 1880s. The rules continued to evolve over the next decades; originally, javelins were thrown with no run-up, and holding them by the grip at the center of gravity was not always mandatory. Limited run-ups were introduced in the late 1890s, and soon developed into the modern unlimited run-up.[1]
 
@@ -26,7 +26,7 @@ Rules and competitions
 
 The size, shape, minimum weight, and center of gravity of the javelin are all defined by IAAF rules. The weights for each javelin depend on the age. In international competition, men throw a javelin between in length and in weight, and women throw a javelin between in length and in weight. The javelin has a grip, about wide, made of cord and located at the javelin's center of gravity ( from the javelin tip for the men's javelin and from the javelin tip for the women's javelin).
 
-Matti_Järvinen.jpg throwing the javelin at the 1932 Olympics]]
+throwing the javelin at the 1932 Olympics]]
 
 Unlike the other throwing events (shot put, discus, and hammer), the technique used to throw the javelin is dictated by IAAF rules and "non-orthodox" techniques are not permitted. The javelin must be held at its grip and thrown overhand, over the athlete's shoulder or upper arm. Further, the athlete is prohibited from turning completely around such that his back faces the direction of throw. In practice, this prevents athletes from attempting to spin and hurl the javelin sidearm in the style of a discus throw. This rule was put in place when a group of athletes began experimenting with a spin technique referred to as "free style". On 24 October 1956, Pentti Saarikoski threw [21] using the technique holding the end of the javelin. Officials were so afraid of the out of control nature of the technique that the practice was banned through these rule specifications.
 
@@ -38,7 +38,7 @@ Competition rules are similar to other throwing events: a ROUND consists of one 
 
 Javelin redesigns
 
-Bundesarchiv_Bild_183-1984-0513-018,_Uwe_Hohn.jpg (pictured in 1984) holds the "eternal world record" with a throw of 104.80 m as a new type of javelin was implemented in 1986.]] On 1 April 1986, the men's javelin () was redesigned by the governing body (the IAAF Technical Committee). They decided to change the rules for javelin design because of the increasingly frequent flat landings and the resulting discussions and protests when these attempts were declared valid or invalid by competition judges. The world record had also crept up to a potentially dangerous level, by Uwe Hohn. With throws exceeding 100 meters, it was becoming difficult to safely stage the competition within the confines of a stadium infield. The javelin was redesigned so that the centre of gravity was moved forward. In addition, the surface area in front of centre of gravity was reduced, while the surface area behind the centre of gravity was increased. This had an effect similar to that produced by the feathers on an arrow. The javelin turns into the relative wind. This relative wind appears to originate from the ground as the javelin descends, thus the javelin turns to face the ground. As the javelin turns into the wind less lift is generated, reducing the flight distance by around 10% but also causing the javelin to stick in the ground more consistently. In 1999, the women's javelin () was similarly redesigned.[22]
+(pictured in 1984) holds the "eternal world record" with a throw of 104.80 m as a new type of javelin was implemented in 1986.]] On 1 April 1986, the men's javelin () was redesigned by the governing body (the IAAF Technical Committee). They decided to change the rules for javelin design because of the increasingly frequent flat landings and the resulting discussions and protests when these attempts were declared valid or invalid by competition judges. The world record had also crept up to a potentially dangerous level, by Uwe Hohn. With throws exceeding 100 meters, it was becoming difficult to safely stage the competition within the confines of a stadium infield. The javelin was redesigned so that the centre of gravity was moved forward. In addition, the surface area in front of centre of gravity was reduced, while the surface area behind the centre of gravity was increased. This had an effect similar to that produced by the feathers on an arrow. The javelin turns into the relative wind. This relative wind appears to originate from the ground as the javelin descends, thus the javelin turns to face the ground. As the javelin turns into the wind less lift is generated, reducing the flight distance by around 10% but also causing the javelin to stick in the ground more consistently. In 1999, the women's javelin () was similarly redesigned.[22]
 
 Modifications that manufacturers made to recover some of the lost distance, by increasing tail drag (using holes, rough paint or dimples), were forbidden at the end of 1991 and marks made using implements with such modifications removed from the record books. Seppo Räty had achieved a world record of in 1991 with such a design, but this record was nullified.
 
@@ -80,7 +80,7 @@ Due to the fear of liability, the javelin throw is not an event in NFHS high sch
 
 Culture
 
-A_mens_and_womens_javelin.png Javelin throwers have been selected as a main motif in numerous collectors' coins. One of the recent samples is the €5 Finnish 10th IAAF World Championships in Athletics commemorative coin, minted in 2005 to commemorate the 2005 World Championships in Athletics. On the obverse of the coin, a javelin thrower is depicted. On the reverse, legs of hurdle runners with the Helsinki Olympic Stadium tower in the background can be seen.
+Javelin throwers have been selected as a main motif in numerous collectors' coins. One of the recent samples is the €5 Finnish 10th IAAF World Championships in Athletics commemorative coin, minted in 2005 to commemorate the 2005 World Championships in Athletics. On the obverse of the coin, a javelin thrower is depicted. On the reverse, legs of hurdle runners with the Helsinki Olympic Stadium tower in the background can be seen.
 
 
 All-time top 25 javelin throwers (current models)
@@ -555,8 +555,6 @@ A new model was introduced in 1999 and all records started fresh.
 +------+-------+---------+-----------+
 | 2017 | 68.43 |         | Lausanne  |
 +------+-------+---------+-----------+
-
-Mariya_Abakumova_Daegu_2011.jpg
 
 
 See also

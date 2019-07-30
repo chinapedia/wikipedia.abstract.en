@@ -1,7 +1,5 @@
     __
 
-KL_Motorola_XC68040.jpgMotorola_68040_die.JPG
-
 The MOTOROLA 68040 ("_sixty-eight-oh-forty_") is a 32-bit microprocessor from Motorola, released in 1990. It is the successor to the 68030 and is followed by the 68060. There was no 68050. In keeping with general Motorola naming, the 68040 is often referred to as simply the '040 (pronounced _oh-four-oh_ or _oh-forty_).
 
 In Apple Macintosh computers, the 68040 was introduced in the Macintosh Quadra, which was named for the chip. The fastest 68040 processor was clocked at 40 MHz and it was used only in the Quadra 840AV. The more expensive models in the (short-lived) Macintosh Centris line also used the 68040, while the cheaper Quadra, Centris and Macintosh Performa used the 68LC040. The 68040 was also used in other personal computers, such as the Amiga 4000 and Amiga 4000T, as well as a number of workstations, Alpha Microsystems servers, the HP 9000/400 series, and later versions of the NeXT computer.
@@ -29,7 +27,7 @@ The _68EC040_ is a version of the Motorola 68040 microprocessor, intended for em
 
 68LC040
 
-Motorola68040die.jpg The _68LC040_ is a _low cost_ version of the Motorola 68040 microprocessor with no FPU. This makes it less expensive and it draws less power. Although the CPU now fits into a feature chart more like the Motorola 68030, it continues to include the 68040's caches and pipeline and is thus significantly faster than the 68030.
+The _68LC040_ is a _low cost_ version of the Motorola 68040 microprocessor with no FPU. This makes it less expensive and it draws less power. Although the CPU now fits into a feature chart more like the Motorola 68030, it continues to include the 68040's caches and pipeline and is thus significantly faster than the 68030.
 
 Some mask revisions of the 68LC040 contained a bug that prevents the chip from operating correctly when a software FPU emulator is used. According to Motorola's errata,[3] any chip with a mask set 2E71M or later does not contain the bug. This new mask was introduced in mid-1995 and converted the 68LC040 chip to MC status.[4]
 

@@ -1,4 +1,4 @@
-The_Murder_Of_Agamemnon_-_Project_Gutenberg_eText_14994.png, an illustration from _Stories from the Greek Tragedians_ by Alfred Church, 1897.]]
+, an illustration from _Stories from the Greek Tragedians_ by Alfred Church, 1897.]]
 
 MURDER is the unlawful killing of another human without justification or valid excuse, especially the unlawful killing of another human with malice aforethought.[1][2][3] This state of mind may, depending upon the jurisdiction, distinguish murder from other forms of unlawful homicide, such as manslaughter. Manslaughter is a killing committed in the absence of _malice_, brought about by reasonable provocation, or diminished capacity. _Involuntary_ manslaughter, where it is recognized, is a killing that lacks all but the most attenuated guilty intent, recklessness.
 
@@ -85,7 +85,7 @@ Specific to certain countries
 
 Victim
 
-Jakub_Schikaneder_-_Murder_in_the_House.JPG.]] All jurisdictions require that the victim be a natural person; that is, a human being who was still alive before being murdered. In other words, under the law one cannot murder a corpse, a corporation, a non-human animal, or any other non-human organism such as a plant or bacterium.
+.]] All jurisdictions require that the victim be a natural person; that is, a human being who was still alive before being murdered. In other words, under the law one cannot murder a corpse, a corporation, a non-human animal, or any other non-human organism such as a plant or bacterium.
 
 California's murder statute, Penal Code Section 187, was interpreted by the Supreme Court of California in 1994 as not requiring any proof of the viability of the fetus as a prerequisite to a murder conviction.[35] This holding has two implications. The first is a defendant in California can be convicted of murder for killing a fetus which the mother herself could have terminated without committing a crime.[36] The second, as stated by Justice Stanley Mosk in his dissent, is that because women carrying nonviable fetuses may not be visibly pregnant, it may be possible for a defendant to be convicted of intentionally murdering a person they did not know existed.[37]
 
@@ -100,7 +100,7 @@ Mental disorder may apply to a wide range of disorders including psychosis cause
 1.  That the defendant had a serious mental illness, disease, or defect.
 2.  That the defendant's mental condition, at the time of the killing, rendered the perpetrator unable to determine right from wrong, or that what they were doing was wrong.
 
-CCTV_1_of_Aaron_Alexis_in_building_197.jpg holding a shotgun during his rampage.]]
+holding a shotgun during his rampage.]]
 
 Under New York law, for example:
 
@@ -163,7 +163,7 @@ Martin Daly and Margo Wilson of McMaster University have claimed that several as
 
 Historical and religious attitudes
 
-Thugs_Strangling_Traveller.jpg strangling a traveller on a highway in the early 19th century.]]
+strangling a traveller on a highway in the early 19th century.]]
 
 In the Abrahamic religions, the first ever murder was committed by Cain against his brother Abel out of jealousy.[73] In the past, certain types of homicide were lawful and justified. Georg Oesterdiekhoff wrote:
 
@@ -184,19 +184,15 @@ In Corsica, vendetta was a social code that required Corsicans to kill anyone wh
 
 Incidence
 
-Map_of_world_by_intentional_homicide_rate.svg
-
 The World Health Organization reported in October 2002 that a person is murdered every 60 seconds.[90] An estimated 520,000 people were murdered in 2000 around the globe. Another study estimated the worldwide murder rate at 456,300 in 2010 with a 35% increase since 1990.[91] Two-fifths of them were young people between the ages of 10 and 29 who were killed by other young people.[92] Because murder is the least likely crime to go unreported, statistics of murder are seen as a bellwether of overall crime rates.[93]
 
 Murder rates vary greatly among countries and societies around the world. In the Western world, murder rates in most countries have declined significantly during the 20th century and are now between 1 and 4 cases per 100,000 people per year. Latin America and the Caribbean, the region with the highest murder rate in the world,[94] experienced more than 2.5 million murders between 2000 and 2017.[95]
-
-Homicide_Rate.png
 
 Murder rates by country
 
 Murder rates in jurisdictions such as Japan, Singapore, Hong Kong, Iceland, Sweden, Switzerland, Italy, Spain and Germany are among the lowest in the world, around 0.3–1 cases per 100,000 people per year; the rate of the United States is among the highest of developed countries, around 4.5 in 2014,[96] with rates in larger cities sometimes over 40 per 100,000.[97] The top ten highest murder rates are in Honduras (91.6 per 100,000), El Salvador, Ivory Coast, Venezuela, Belize, Jamaica, U.S. Virgin Islands, Guatemala, Saint Kitts and Nevis and Zambia. (UNODC, 2011 – full table here).
 
-The following absolute murder counts per-country are not comparable because they are not adjusted by each country's total population. Nonetheless, they are included here for reference, with 2010 used as the base year (they may or may not include justifiable homicide, depending on the jurisdiction). There were 52,260 murders in Brazil, consecutively elevating the record set in 2009.[98] Over half a million people were shot to death in Brazil between 1979 and 2003.[99] 33,335 murder cases were registered across India,[100] about 19,000 murders committed in Russia,[101] approximately 17,000 murders in Colombia (the murder rate was 38 per 100,000 people, in 2008 murders went down to 15,000),[102] approximately 16,000 murders in South Africa,[103] approximately 15,000 murders in the United States,[104] approximately 26,000 murders in Mexico,[105] approximately 13,000 murders in Venezuela,[106] approximately 4,000 murders in El Salvador,[107] approximately 1,400 murders in Jamaica,[108] approximately 550 murders in Canada[109] and approximately 470 murders in Trinidad and Tobago.[110] Pakistan reported 12,580 murders.[111] Murder_Rio.JPG. More than 800,000 people were murdered in Brazil between 1980 and 2004.[112]]] In the United States, 666,160 people were killed between 1960 and 1996.[113] Approximately 90% of murders in the US are committed by males.[114] Between 1976 and 2005, 23.5% of all murder victims and 64.8% of victims murdered by intimate partners were female.[115] For women in the US, homicide is the leading cause of death in the workplace.[116]
+The following absolute murder counts per-country are not comparable because they are not adjusted by each country's total population. Nonetheless, they are included here for reference, with 2010 used as the base year (they may or may not include justifiable homicide, depending on the jurisdiction). There were 52,260 murders in Brazil, consecutively elevating the record set in 2009.[98] Over half a million people were shot to death in Brazil between 1979 and 2003.[99] 33,335 murder cases were registered across India,[100] about 19,000 murders committed in Russia,[101] approximately 17,000 murders in Colombia (the murder rate was 38 per 100,000 people, in 2008 murders went down to 15,000),[102] approximately 16,000 murders in South Africa,[103] approximately 15,000 murders in the United States,[104] approximately 26,000 murders in Mexico,[105] approximately 13,000 murders in Venezuela,[106] approximately 4,000 murders in El Salvador,[107] approximately 1,400 murders in Jamaica,[108] approximately 550 murders in Canada[109] and approximately 470 murders in Trinidad and Tobago.[110] Pakistan reported 12,580 murders.[111] . More than 800,000 people were murdered in Brazil between 1980 and 2004.[112]]] In the United States, 666,160 people were killed between 1960 and 1996.[113] Approximately 90% of murders in the US are committed by males.[114] Between 1976 and 2005, 23.5% of all murder victims and 64.8% of victims murdered by intimate partners were female.[115] For women in the US, homicide is the leading cause of death in the workplace.[116]
 
 In the US, murder is the leading cause of death for African American males aged 15 to 34. Between 1976 and 2008, African Americans were victims of 329,825 homicides.[117][118] In 2006, Federal Bureau of Investigation's Supplementary Homicide Report indicated that nearly half of the 14,990 murder victims that year were Black (7421).[119] In the year 2007, there were 3,221 black victims and 3,587 white victims of non-negligent homicides. While 2,905 of the black victims were killed by a black offender, 2,918 of the white victims were killed by white offenders. There were 566 white victims of black offenders and 245 black victims of white offenders.[120] The "white" category in the Uniform Crime Reports (UCR) includes non-black Hispanics.[121] In London in 2006, 75% of the victims of gun crime and 79% of the suspects were "from the African/Caribbean community".[122] Murder demographics are affected by the improvement of trauma care, which has resulted in reduced lethality of violent assaults – thus the murder rate may not necessarily indicate the overall level of social violence.[123]
 
@@ -208,11 +204,11 @@ Despite the immense improvements in forensics in the past few decades, the fract
 
 History of murder rates
 
-Homicide-world.png According to scholar Pieter Spierenburg homicide rates per 100,000 in Europe have fallen over the centuries, from 35 per 100,000 in medieval times, to 20 in 1500 AD, 5 in 1700, to below two per 100,000 in 1900.[131]
+According to scholar Pieter Spierenburg homicide rates per 100,000 in Europe have fallen over the centuries, from 35 per 100,000 in medieval times, to 20 in 1500 AD, 5 in 1700, to below two per 100,000 in 1900.[131]
 
 In the United States, murder rates have been higher and have fluctuated. They fell below 2 per 100,000 by 1900, rose during the first half of the century, dropped in the years following World War II, and bottomed out at 4.0 in 1957 before rising again.[132] The rate stayed in 9 to 10 range most of the period from 1972 to 1994, before falling to 5 in present times.[133] The increase since 1957 would have been even greater if not for the significant improvements in medical techniques and emergency response times, which mean that more and more attempted homicide victims survive. According to one estimate, if the lethality levels of criminal assaults of 1964 still applied in 1993, the country would have seen the murder rate of around 26 per 100,000, almost triple the actually observed rate of 9.5 per 100,000.[134]
 
-Historical_homicide_rate_in_Stockholm.svg since 1400 AD. The murder rate was very high in the Middle Ages. The rate has declined greatly: from 45 / 100,000 to a low of 0.6 in the 1950s. The last decades have seen the homicide rate rise slowly.]] A similar, but less pronounced pattern has been seen in major European countries as well. The murder rate in the United Kingdom fell to 1 per 100,000 by the beginning of the 20th century and as low as 0.62 per 100,000 in 1960, and was at 1.28 per 100,000 . The murder rate in France (excluding Corsica) bottomed out after World War II at less than 0.4 per 100,000, quadrupling to 1.6 per 100,000 since then.[135]
+since 1400 AD. The murder rate was very high in the Middle Ages. The rate has declined greatly: from 45 / 100,000 to a low of 0.6 in the 1950s. The last decades have seen the homicide rate rise slowly.]] A similar, but less pronounced pattern has been seen in major European countries as well. The murder rate in the United Kingdom fell to 1 per 100,000 by the beginning of the 20th century and as low as 0.62 per 100,000 in 1960, and was at 1.28 per 100,000 . The murder rate in France (excluding Corsica) bottomed out after World War II at less than 0.4 per 100,000, quadrupling to 1.6 per 100,000 since then.[135]
 
 The specific factors driving this dynamics in murder rates are complex and not universally agreed upon. Much of the raise in the U.S. murder rate during the first half of the 20th century is generally thought to be attributed to gang violence associated with Prohibition. Since most murders are committed by young males, the near simultaneous low in the murder rates of major developed countries circa 1960 can be attributed to low birth rates during the Great Depression and World War II. Causes of further moves are more controversial. Some of the more exotic factors claimed to affect murder rates include the availability of abortion[136] and the likelihood of chronic exposure to lead during childhood (due to the use of leaded paint in houses and tetraethyllead as a gasoline additive in internal combustion engines).[137]
 

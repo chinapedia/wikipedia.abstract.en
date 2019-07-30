@@ -1,4 +1,4 @@
-Five_positions_of_dancing_Wilson_1811.jpg REGENCY DANCE is the term for historical dances of the period ranging roughly from 1790 to 1825. Some feel that the popular use of the term "Regency dance" is not technically correct, as the actual English Regency (the future George IV ruling on behalf of mad King George III) lasted only from 1811 until 1820. However, the term "Regency" has been used to refer to a much broader period than the historical Regency for a very long time, particularly in areas such as the history of art and architecture, literature, and clothing. This is because there are consistencies of style over this period which make having a single term useful.
+REGENCY DANCE is the term for historical dances of the period ranging roughly from 1790 to 1825. Some feel that the popular use of the term "Regency dance" is not technically correct, as the actual English Regency (the future George IV ruling on behalf of mad King George III) lasted only from 1811 until 1820. However, the term "Regency" has been used to refer to a much broader period than the historical Regency for a very long time, particularly in areas such as the history of art and architecture, literature, and clothing. This is because there are consistencies of style over this period which make having a single term useful.
 
 Most popular exposure to this era of dance comes in the works of Jane Austen. Balls occur in her novels and are discussed in her letters, but specifics are few. Films based on her works tend to incorporate modern revival English Country Dance; however, they rarely incorporate dances actually of the period and do them without the appropriate footwork and social style which make them accurate to the period. Dances of this era were lively and bouncy, not the smooth and stately style seen in films.[1] Steps ranging from simple skipping to elaborate ballet-style movements were used.
 
@@ -25,12 +25,10 @@ Some other dances of the era
 
 Numerous instruction manuals survive from the Regency era. Several by Thomas Wilson are in the US Library of Congress online collection. The Scotch Reel is described by Francis Peacock, whose manual is also available in the LC collection.
 
-Rowlandson-longways-dance-caricature-1790s.gif
-
 
 Revival
 
-Regency_Dancing_Revival_Science_Fiction_Fantasy_Convention.jpg 58]] Historical_dancing_baroque_at_time_travellers_ball_earthly_delights_dance_group.JPG The first major revival of English Country Dance, one of the major types of Regency dance, was by Englishman Cecil Sharp in the early 20th century.[5] Various other revivals have followed, most using at least some of Sharp's research. Today, there are many groups around the world which perform a variety of English period dances, including many of the types of dance which were popular during the English Regency.
+58]] The first major revival of English Country Dance, one of the major types of Regency dance, was by Englishman Cecil Sharp in the early 20th century.[5] Various other revivals have followed, most using at least some of Sharp's research. Today, there are many groups around the world which perform a variety of English period dances, including many of the types of dance which were popular during the English Regency.
 
 Regency dance has gained popularity at science fiction conventions, in part due to the efforts of John Hertz. Reconstructed dances from the era are taught to newcomers and experienced dancers alike. Some authors—notably, Larry Niven—have added their personal enthusiasm to the trend.
 

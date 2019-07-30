@@ -7,7 +7,7 @@ Sometime between 400 B.C. and A.D. 100, the Arawak group of Amerindians inhabite
 
 Immigration
 
-Puertorican_immigration.jpg The Spanish conquered the island, assuming government in 1508, colonized it, and assumed hegemony over the natives. The Taíno population dwindled due to disease, tribal warfare, and forced labor, so the Spanish began importing large numbers of slaves from Africa. Spanish men arrived on the island disproportionately to Spanish women; African and Taíno women would sometimes marry them, resulting in a mixed tri-racial ethnicity.
+The Spanish conquered the island, assuming government in 1508, colonized it, and assumed hegemony over the natives. The Taíno population dwindled due to disease, tribal warfare, and forced labor, so the Spanish began importing large numbers of slaves from Africa. Spanish men arrived on the island disproportionately to Spanish women; African and Taíno women would sometimes marry them, resulting in a mixed tri-racial ethnicity.
 
 In the late 18th century, the number of African slaves began to dwindle on the island. The British ban on slavery resulted in slave raids on Puerto Rico. Many slaves also escaped to neighboring islands.
 
@@ -377,7 +377,7 @@ Various African religious practices have been present since the arrival of ensla
 
 Demographic statistics
 
-Porto-Rico-demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook unless otherwise indicated.
 

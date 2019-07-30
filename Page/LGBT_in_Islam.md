@@ -17,7 +17,7 @@ In the Quran
 
 Messengers to Lot
 
-Lot_BnF_Persan_54_fol._40.jpg fleeing the city with his daughters; his wife is killed by a rock.]] The Quran contains several allusions to homosexual activity, which has prompted considerable exegetical and legal commentary over the centuries.[42] The subject is most clearly addressed in the story of Sodom and Gomorrah (seven verses) after the city inhabitants demand sexual access to the messengers sent by God to the prophet Lot (or Lut).[43][44][45][46] The Quranic narrative largely conforms to that found in Genesis.[47] In one passage the Quran says that the men "solicited his guests of him" (Quran 54:37), using an expression that parallels phrasing used to describe the attempted seduction of Joseph, and in multiple passages they are accused of "coming with lust" to men instead of women (or their wives).[48] The Quran terms this an abomination () unprecedented in the history of the world:
+fleeing the city with his daughters; his wife is killed by a rock.]] The Quran contains several allusions to homosexual activity, which has prompted considerable exegetical and legal commentary over the centuries.[42] The subject is most clearly addressed in the story of Sodom and Gomorrah (seven verses) after the city inhabitants demand sexual access to the messengers sent by God to the prophet Lot (or Lut).[43][44][45][46] The Quranic narrative largely conforms to that found in Genesis.[47] In one passage the Quran says that the men "solicited his guests of him" (Quran 54:37), using an expression that parallels phrasing used to describe the attempted seduction of Joseph, and in multiple passages they are accused of "coming with lust" to men instead of women (or their wives).[48] The Quran terms this an abomination () unprecedented in the history of the world:
 
 Later exegetical literature built on these verses as writers attempted to give their own views as to what went on; and there was general agreement among exegetes that the "abomination" alluded to by the Quranic passages was attempted sodomy (specifically anal intercourse) between men.[49] Some modern gay and lesbian Muslim activists disagree with this interpretation, arguing that the people of Lot were destroyed not because of participation in same-sex acts, but because of misdeeds which included refusing to worship one God, disregarding the authority of the Prophets, and attempting to rape the travelers, a crime made even worse by the fact that the travelers were under Lot's protection and hospitality.[50]
 
@@ -96,7 +96,7 @@ There is little evidence of homosexual practice in Islamic societies for the fir
 
 The conceptions of homosexuality found in classical Islamic texts resemble the traditions of classical Greece and those of ancient Rome, rather than modern Western notions of sexual orientation.[122][123] It was expected that many or most mature men would be sexually attracted to both women and adolescent boys (with different views about the appropriate age range for the latter), and men were expected to wish to play only an active role in homosexual intercourse once they reached adulthood.[124][125] However, any confident assessment of the actual incidence of homosexual behavior remains elusive.[126] Preference for homosexual over heterosexual relations was regarded as a matter of personal taste rather than a marker of homosexual identity in a modern sense.[127][128] While playing an active role in homosexual relations carried no social stigma beyond that of licentious behavior, seeking to play a passive role was considered both unnatural and shameful for a mature man.[129][130] Following Greek precedents, the Islamic medical tradition regarded as pathological only this latter case, and showed no concern for other forms of homosexual behavior.[131]
 
-Mahmud_and_Ayaz_and_Shah_Abbas_I.jpg (in red robe), shaking hands with a sheikh, with his companion Malik Ayaz standing behind him. (1515)]]
+(in red robe), shaking hands with a sheikh, with his companion Malik Ayaz standing behind him. (1515)]]
 
 During the early period, growth of a beard was considered to be the conventional age when an adolescent lost his homoerotic appeal, as evidenced by poetic protestations that the author still found his lover beautiful despite the growing beard. During later periods, the age of the stereotypical beloved became more ambiguous, and this prototype was often represented in Persian poetry by Turkish soldiers.[132] This trend is illustrated by the story of Mahmud of Ghazni (971–1030), the ruler of the Ghaznavid Empire, and his cupbearer Malik Ayaz.[133] Their relationship, which was sketchily attested in contemporary sources, became a staple of Persian literature comparable to the story of Layla and Majnun.[134] Poets used it to illustrate the power of love, pointing to Mahmud as an example of a man who becomes "a slave to his slave", while Malik Ayaz served as "the embodiment of the ideal beloved, and a model for purity in Sufi literature".[135][136]
 
@@ -110,7 +110,7 @@ According to the _Encyclopedia of Islam and the Muslim World_:
 
   Whatever the legal strictures on sexual activity, the positive expression of male homoerotic sentiment in literature was accepted, and assiduously cultivated, from the late eighth century until modern times. First in Arabic, but later also in Persian, Turkish and Urdu, love poetry by men about boys more than competed with that about women, it overwhelmed it. Anecdotal literature reinforces this impression of general societal acceptance of the public celebration of male-male love (which hostile Western caricatures of Islamic societies in medieval and early modern times simply exaggerate).[141]
 
-Shah_Abbas_and_Wine_Boy.jpg of Iran with a page (1627).]]
+of Iran with a page (1627).]]
 
 European travellers remarked on the taste that Shah Abbas of Iran (1588-1629) had for wine and festivities, but also for attractive pages and cup-bearers. A painting by Riza Abbasi with homo-erotic qualities shows the ruler enjoying such delights.[142]
 
@@ -138,8 +138,6 @@ Scott Siraj al-Haqq Kugle has argued that, while "Muslims commemorate the early 
 
 Pederasty
 
-Lining_up_to_use_a_boy.jpg
-
 While friendship between men and boys is often described in sexual ways in classical Islamic literature, Khaled El-Rouayheb and Oliver Leaman have argued that it would be misleading to conclude from this that homosexuality was widespread in practice.[168] Such literature tended to use transgressive motifs alluding to what is forbidden, in particular homosexuality and wine.[169] Greek homoerotic motifs may have accurately described practices in ancient Greece, but in their Islamic adaptations they tended to play a satirical or metaphorical rather than descriptive role.[170] At the same time, many miniatures, especially from Ottoman Turkey, contain explicit depictions of pederasty, suggesting that the practice enjoyed a certain degree of popularity.[171] A number of pre-modern texts discuss the possibility of sexual exploitation faced by young boys in educational institutions and warn teachers to take precautions against it.[172]
 
 In modern times, despite the formal disapproval of religious authority, the segregation of women in Muslim societies and the strong emphasis on male virility leads adolescent males and unmarried young men to seek sexual outlets with boys younger than themselves—in one study in Morocco, with boys in the age-range 7 to 13.[173] Men have sex with other males so long as they are the penetrators and their partners are boys, or in some cases effeminate men.[174]
@@ -156,7 +154,7 @@ This Turkish miniature shows ten men engaging in anal sex in the Ottoman Empire 
 
 Modern laws in the Islamic world
 
-World_laws_pertaining_to_homosexual_relationships_and_expression.svg}} ]]
+}} ]]
 
 Criminalization
 
@@ -186,7 +184,7 @@ In 2016, the International Lesbian, Gay, Bisexual, Trans and Intersex Associatio
 
 Legalization
 
-Tirana_Gay(P)Ride_2016.jpg, Albania.]] LGBT_flag_on_the_Government_of_Kosovo_building.jpg on the Government building in Prishtina, Kosovo on 17 May 2014.]] The Ottoman Empire (predecessor of Turkey) decriminalized homosexuality in 1858. In Turkey, where 99.8% of the population is Muslim, homosexuality has never been criminalized since the day it was founded in 1923.[199] And LGBT people also have the right to seek asylum in Turkey under the Geneva Convention since 1951.[200]
+, Albania.]] on the Government building in Prishtina, Kosovo on 17 May 2014.]] The Ottoman Empire (predecessor of Turkey) decriminalized homosexuality in 1858. In Turkey, where 99.8% of the population is Muslim, homosexuality has never been criminalized since the day it was founded in 1923.[199] And LGBT people also have the right to seek asylum in Turkey under the Geneva Convention since 1951.[200]
 
 Same-sex sexual intercourse is legal in Albania, Azerbaijan, Bahrain, Bosnia and Herzegovina, Burkina Faso, Djibouti, Guinea-Bissau, Iraq (except those parts controlled by the Islamic State), Jordan, Kazakhstan, Kosovo, Kyrgyzstan, Mali, Niger, Tajikistan, Turkey, West Bank (State of Palestine), most of Indonesia, and in Northern Cyprus. In Albania and Turkey, there have been discussions about legalizing same-sex marriage.[201][202] Albania, Northern Cyprus and Kosovo also protect LGBT people with anti-discrimination laws.
 
@@ -219,7 +217,7 @@ Several violent attacks against LGBT people in the West have taken place
 
 Chechnya anti-gay purge
 
-LGBT_in_Chechnya.jpg in Saint Petersburg, to protest the persecution of gay men in Chechnya.[245][246]]] Since February 2017, over 100 male residents of the Chechen Republic (part of the Russian Federation) assumed to be gay or bisexual have been rounded up, detained and tortured by authorities on account of their sexual orientation.[247] These crackdowns have been described as part of a systemic anti-LGBT "purge" in the region. The men are held and allegedly tortured in concentration camps.[248][249]
+in Saint Petersburg, to protest the persecution of gay men in Chechnya.[245][246]]] Since February 2017, over 100 male residents of the Chechen Republic (part of the Russian Federation) assumed to be gay or bisexual have been rounded up, detained and tortured by authorities on account of their sexual orientation.[247] These crackdowns have been described as part of a systemic anti-LGBT "purge" in the region. The men are held and allegedly tortured in concentration camps.[248][249]
 
 Allegations were initially reported in _Novaya Gazeta_ on April 1, 2017[250] a Russian-language opposition newspaper, which reported that over 100 men have allegedly been detained and tortured and at least three people have died in an extrajudicial killing. The paper, citing its sources in the Chechen special services, called the wave of detentions a "prophylactic sweep."[251][252] The journalist who first reported on the subject has gone into hiding,[253][254] There have been calls for reprisals for journalists reporting on the situation.[255]
 
@@ -230,9 +228,9 @@ On 11 January 2019, it was reported that another 'gay purge' had begun in the co
 
 Public opinion among Muslims
 
-Islam_percent_population_in_each_nation_World_Map_Muslim_data_by_Pew_Research.svg, 2014).]] In 2011, the UN Human Rights Council passed its first resolution recognizing LGBT rights, which was followed up with a report from the UN Human Rights Commission documenting violations of the rights of LGBT people.[265][266] The two world maps of the percentage of Muslims per country and the countries that support LGBT rights at the UN give an impression of the attitude towards homosexuality on the part of many Muslim-majority governments.
+, 2014).]] In 2011, the UN Human Rights Council passed its first resolution recognizing LGBT rights, which was followed up with a report from the UN Human Rights Commission documenting violations of the rights of LGBT people.[265][266] The two world maps of the percentage of Muslims per country and the countries that support LGBT rights at the UN give an impression of the attitude towards homosexuality on the part of many Muslim-majority governments.
 
-Nottingham_Pride_MMB_37_Pride_march_meets_homophobic_Muslims.jpg The Muslim community as a whole, worldwide, has become polarized on the subject of homosexuality. Some Muslims say that "no good Muslim can be gay," and "traditional schools of Islamic law consider homosexuality a grave sin." At the opposite pole, "some Muslims . . . are welcoming what they see as an opening within their communities to address anti-gay attitudes." Especially, it is "young Muslims" who are "increasingly speaking out in support of gay rights".[267]
+The Muslim community as a whole, worldwide, has become polarized on the subject of homosexuality. Some Muslims say that "no good Muslim can be gay," and "traditional schools of Islamic law consider homosexuality a grave sin." At the opposite pole, "some Muslims . . . are welcoming what they see as an opening within their communities to address anti-gay attitudes." Especially, it is "young Muslims" who are "increasingly speaking out in support of gay rights".[267]
 
 Opinion polls
 
@@ -289,13 +287,13 @@ Shia
 
 Muslim LGBT movements
 
-21._İstanbul_Onur_Yürüyüşü_Gay_Pride_(58).jpg in 2013, Taksim Square, Istanbul, Turkey.]] LGBT_rights_rally_during_the_Pohela_Boishakh_in_Dhaka_(2015).jpg (2015) in Dhaka, Bangladesh.]]
+in 2013, Taksim Square, Istanbul, Turkey.]] (2015) in Dhaka, Bangladesh.]]
 
 The coming together of "human rights discourses and sexual orientation struggles" has resulted in an abundance of "social movements and organizations concerned with gender and sexual minority oppression and discrimination."[281]
 
 Defunct movements
 
-Al-Fatiha_Muslim_Gays_-_Gay_Parade_2008_in_San_Francisco_(2626954534).jpg The Al-Fatiha Foundation was an organization which tried to advance the cause of gay, lesbian, and transgender Muslims. It was founded in 1998 by Faisal Alam, a Pakistani American, and was registered as a nonprofit organization in the United States. The organization was an offshoot of an internet listserve that brought together many gay, lesbian and questioning Muslims from various countries.[282] The Foundation accepted and considered homosexuality as natural, either regarding Qur'anic verses as obsolete in the context of modern society, or stating that the Qu'ran speaks out against homosexual lust and is silent on homosexual love. After Alam stepped down, subsequent leaders failed to sustain the organization and it began a process of legal dissolution in 2011.[283]
+The Al-Fatiha Foundation was an organization which tried to advance the cause of gay, lesbian, and transgender Muslims. It was founded in 1998 by Faisal Alam, a Pakistani American, and was registered as a nonprofit organization in the United States. The organization was an offshoot of an internet listserve that brought together many gay, lesbian and questioning Muslims from various countries.[282] The Foundation accepted and considered homosexuality as natural, either regarding Qur'anic verses as obsolete in the context of modern society, or stating that the Qu'ran speaks out against homosexual lust and is silent on homosexual love. After Alam stepped down, subsequent leaders failed to sustain the organization and it began a process of legal dissolution in 2011.[283]
 
 In 2001, Al-Muhajiroun, an international organization which sought the establishment of a global Islamic caliphate, but which is now a banned and defunct, issued a _fatwa_ (ruling) declaring that all members of Al-Fatiha were _murtadd_ (apostates), and condemning them to death. Because of this threat and their conservative familial backgrounds, many Al-Fatiha members chose anonymity to protect their identity.[284] Al-Fatiha had fourteen chapters in the United States, as well as offices in England, Canada, Spain, Turkey, and South Africa.
 
@@ -305,11 +303,11 @@ There are a number of Islamic ex-gay groups, that is, those composed of people c
 
 Active movements
 
-Ludovic_Mohamed_Z.jpg, founder of the group 'Homosexual Muslims of France']]
+, founder of the group 'Homosexual Muslims of France']]
 
 Gay prayer room (France)
 
-In November 2012, a prayer room was set up in Paris by gay Islamic scholar and founder of the group 'Homosexual Muslims of France' Ludovic-Mohamed Zahed. It was described by the press as the first gay-friendly mosque in Europe. The reaction from the rest of the Muslim community in France has been mixed. The opening has been condemned by the Grand Mosque of Paris.[289] Pride_London_2011_-_001.jpg London 2011.]]
+In November 2012, a prayer room was set up in Paris by gay Islamic scholar and founder of the group 'Homosexual Muslims of France' Ludovic-Mohamed Zahed. It was described by the press as the first gay-friendly mosque in Europe. The reaction from the rest of the Muslim community in France has been mixed. The opening has been condemned by the Grand Mosque of Paris.[289] London 2011.]]
 
 Ibn Ruschd-Goethe mosque (Germany)
 
@@ -345,7 +343,7 @@ Salam is a voluntary organization that promotes an inclusive and safe environmen
 
 Salaam (Canada)
 
-El-Farouk_Khaki_nomination_campaign_launch_Apr5-07.jpg, founding member of Salaam group and the Toronto Unity Mosque / el-Tawhid Juma Circle]] Salaam is the first gay Muslim group in Canada and second in the world. Salaam was found in 1993 by El-Farouk Khaki, who organized the Salaam/Al-Fateha International Conference in 2003.[300]
+, founding member of Salaam group and the Toronto Unity Mosque / el-Tawhid Juma Circle]] Salaam is the first gay Muslim group in Canada and second in the world. Salaam was found in 1993 by El-Farouk Khaki, who organized the Salaam/Al-Fateha International Conference in 2003.[300]
 
 Sarajevski Otvoreni Centar (Bosnia and Herzegovina)
 
@@ -418,7 +416,7 @@ In an article "Same-sex Sexual Activity and Lesbian and Bisexual Women" Ali elab
 
 Gender variant and transgender people
 
-Hijra_Protest_Islamabad.jpg'' and transgender people protest in Islamabad, Pakistan.]]
+'' and transgender people protest in Islamabad, Pakistan.]]
 
 In Islam, the term mukhannathun is used to describe gender-variant people, usually male-to-female transgender. Neither this term nor the equivalent for "eunuch" occurs in the Quran, but the term does appear in the Hadith, the sayings of Muhammad, which have a secondary status to the central text. Moreover, within Islam, there is a tradition on the elaboration and refinement of extended religious doctrines through scholarship. This doctrine contains a passage by the scholar and hadith collector An-Nawawi:
 

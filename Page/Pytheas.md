@@ -14,7 +14,7 @@ If one presumes that Pytheas would not have written before reaching age 20, he w
 
 Record
 
-Strabon_Rerum_geographicarum_1620.jpg's Geographica.]] Pytheas described his travels in a work that has not survived; only excerpts remain, quoted or paraphrased by later authors, most familiarly in Strabo's _Geographica_,[5] Pliny's _Natural History_ and passages in Diodorus of Sicily's history. Most of the ancients, including the first two just mentioned, refer to his work by his name: "Pytheas says …" Two late writers give titles: the astronomical author Geminus of Rhodes mentions (_ta peri tou Okeanou_), literally "things about the Ocean", sometimes translated as "Description of the Ocean", "On the Ocean" or "Ocean"; Marcianus, the scholiast on Apollonius of Rhodes, mentions (_periodos gēs_), a "trip around the earth" or περίπλους (_periplous_), "sail around".
+'s Geographica.]] Pytheas described his travels in a work that has not survived; only excerpts remain, quoted or paraphrased by later authors, most familiarly in Strabo's _Geographica_,[5] Pliny's _Natural History_ and passages in Diodorus of Sicily's history. Most of the ancients, including the first two just mentioned, refer to his work by his name: "Pytheas says …" Two late writers give titles: the astronomical author Geminus of Rhodes mentions (_ta peri tou Okeanou_), literally "things about the Ocean", sometimes translated as "Description of the Ocean", "On the Ocean" or "Ocean"; Marcianus, the scholiast on Apollonius of Rhodes, mentions (_periodos gēs_), a "trip around the earth" or περίπλους (_periplous_), "sail around".
 
 Scholars of the 19th century tended to interpret these titles as the names of distinct works covering separate voyages; for example, Smith's _Dictionary of Greek and Roman Biography and Mythology_ hypothesizes a voyage to Britain and Thule written about in "Ocean" and another from Cadiz to the Don River, written about in "Sail Around".[6] As is common with ancient texts, multiple titles may represent a single source, for example, if a title refers to a section rather than the whole. Presently periplus is recognized as a genre of navigational literature. Mainstream consensus is that there was only one work, "on the Ocean", which was based on a periplus.
 
@@ -36,7 +36,7 @@ Voyage to Britain
 
 The "circumnavigation"
 
-Ptolemy-british-isles.jpg. The map is a result of a combination of the lines of roads and of the coasting expeditions during the first century of Roman occupation. One great fault, however, is a lopsided Scotland, which in one hypothesis is the result of Ptolemy using Pytheas' measurements of latitude (see below.).[13] Whether Ptolemy would have had Pytheas' real latitudes at that time is a much debated issue.]]
+. The map is a result of a combination of the lines of roads and of the coasting expeditions during the first century of Roman occupation. One great fault, however, is a lopsided Scotland, which in one hypothesis is the result of Ptolemy using Pytheas' measurements of latitude (see below.).[13] Whether Ptolemy would have had Pytheas' real latitudes at that time is a much debated issue.]]
 
 Strabo reports that Pytheas says he "travelled over the whole of Britain that was accessible".[14] The word _epelthein_, at root "come upon", does not imply any specific method, and Pytheas does not elaborate. He does use the word "whole" and he states a _perimetros_ ("perimeter") of more than 40,000 stadia. Using Herodotus' standard of for one stadium gives ; however, there is no way to tell which standard foot was in effect. The English foot is an approximation. Strabo wants to discredit Pytheas on the grounds that 40,000 stadia is outrageously high and cannot be real.
 
@@ -50,9 +50,9 @@ Name and description of the British
 
 The first known written use of the word Britain is one of its uses was an ancient Greek transliteration of the original P-Celtic term. It is believed to have appeared within a periplus by the geographer and explorer Pytheas of Massalia, but no copies of this work survive. The earliest existing records of the word are quotations of the periplus by later authors, such as those within Strabo's _Geographica_, Pliny's _Natural History_ and Diodorus of Sicily's _Bibliotheca historica_.[19] According to Strabo, Pytheas referred to Britain as _Bretannikē_, which is treated a feminine noun.[20][21][22][23]
 
-Pictish_Beast.svg on an early medieval Pictish stone.]] "Britain" is most like Welsh _Ynys Prydein_, "the island of Britain", in which is a P-Celtic allophone of Q-Celtic Cruithne in Irish _Cruithen-tuath_, "land of the Picts". The base word is Scottish/Irish _cruth_, Welsh _pryd_, meaning "form". The British were the "people of forms", with the sense of shapes or pictures,[24] thought to refer to their practice of tattooing or war painting.[25] The Roman word _Picti_, "the Picts", means "painted".
+on an early medieval Pictish stone.]] "Britain" is most like Welsh _Ynys Prydein_, "the island of Britain", in which is a P-Celtic allophone of Q-Celtic Cruithne in Irish _Cruithen-tuath_, "land of the Picts". The base word is Scottish/Irish _cruth_, Welsh _pryd_, meaning "form". The British were the "people of forms", with the sense of shapes or pictures,[24] thought to refer to their practice of tattooing or war painting.[25] The Roman word _Picti_, "the Picts", means "painted".
 
-This etymology shows that Pytheas interacted not so much with Irish or Scots, as they used Q-Celtic. Rather, Pytheas brought back the P-Celtic form from more geographically accessible regions where Welsh or Breton are spoken presently. Furthermore, some proto-Celtic was spoken over all of Greater Britain, and this particular spelling is prototypical of those more populous regions. St_Fagans_Celtic_Village_the_main_hut.jpg.]] Diodorus based on Pytheas reports that Britain is cold and subject to frosts, being "too much subject to the Bear", and not "under the Arctic pole", as some translations say.[26] The numerous population of natives, he says, live in thatched cottages, store their grain in subterranean caches and bake bread from it.[27] They are "of simple manners" (_ēthesin haplous_) and are content with plain fare. They are ruled by many kings and princes who live in peace with each other. Their troops fight from chariots, as did the Greeks in the Trojan War.
+This etymology shows that Pytheas interacted not so much with Irish or Scots, as they used Q-Celtic. Rather, Pytheas brought back the P-Celtic form from more geographically accessible regions where Welsh or Breton are spoken presently. Furthermore, some proto-Celtic was spoken over all of Greater Britain, and this particular spelling is prototypical of those more populous regions. .]] Diodorus based on Pytheas reports that Britain is cold and subject to frosts, being "too much subject to the Bear", and not "under the Arctic pole", as some translations say.[26] The numerous population of natives, he says, live in thatched cottages, store their grain in subterranean caches and bake bread from it.[27] They are "of simple manners" (_ēthesin haplous_) and are content with plain fare. They are ruled by many kings and princes who live in peace with each other. Their troops fight from chariots, as did the Greeks in the Trojan War.
 
 The three corners of Britain: Kantion, Belerion and Orkas
 
@@ -98,7 +98,7 @@ What he seems to be describing is an agricultural country that uses barns for th
 
 Encounter with drift ice
 
-Islossning_(119329313).jpg in the Baltic in spring near the Swedish coast.]] After mentioning the crossing (_navigatio_) from _Berrice_ to _Tyle_, Pliny makes a brief statement that:
+in the Baltic in spring near the Swedish coast.]] After mentioning the crossing (_navigatio_) from _Berrice_ to _Tyle_, Pliny makes a brief statement that:
 
   _A Tyle unius diei navigatione mare concretum a nonnullis Cronium appellatur._
 
@@ -115,7 +115,7 @@ The association of Pytheas' observations with drift ice has long been standard i
 
 Discovery of the Baltic
 
-Amber_hg.jpg]] Strabo says that Pytheas gave an account of "what is beyond the Rhine as far as Scythia", which he, Strabo, thinks is false.[48] In the geographers of the late Roman Republic and early Roman Empire, such as Ptolemy, Scythia stretches eastward from the mouth of the river Vistula; thus Pytheas must have described the Germanic coast of the Baltic sea; if the statement is true, there are no other possibilities. As to whether he explored it in person, he said that he explored the entire north in person (see under Thule above). As the periplus was a sort of ship's log, he probably did reach the Vistula.
+]] Strabo says that Pytheas gave an account of "what is beyond the Rhine as far as Scythia", which he, Strabo, thinks is false.[48] In the geographers of the late Roman Republic and early Roman Empire, such as Ptolemy, Scythia stretches eastward from the mouth of the river Vistula; thus Pytheas must have described the Germanic coast of the Baltic sea; if the statement is true, there are no other possibilities. As to whether he explored it in person, he said that he explored the entire north in person (see under Thule above). As the periplus was a sort of ship's log, he probably did reach the Vistula.
 
 According to _The Natural History_ by Pliny the Elder:[49]
 

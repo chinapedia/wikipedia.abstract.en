@@ -27,7 +27,7 @@ Anti-Bolshevik movement
 
 While resistance to the Red Guard began on the very day after the Bolshevik uprising, the Treaty of Brest-Litovsk and the instinct of one party rule became a catalyst for the formation of anti-Bolshevik groups both inside and outside Russia, pushing them into action against the new Soviet government.
 
-Колчак,_Нокс_и_английские_офицеры_восточного_фронта.jpg (seated) and General Alfred Knox (behind Kolchak) observing military exercise, 1919]]
+(seated) and General Alfred Knox (behind Kolchak) observing military exercise, 1919]]
 
 A loose confederation of anti-Bolshevik forces aligned against the Communist government, including landowners, republicans, conservatives, middle-class citizens, reactionaries, pro-monarchists, liberals, army generals, non-Bolshevik socialists who still had grievances and democratic reformists voluntarily united only in their opposition to Bolshevik rule. Their military forces, bolstered by forced conscriptions and terror as well as foreign influence, under the leadership of General Nikolai Yudenich, Admiral Alexander Kolchak and General Anton Denikin, became known as the White movement (sometimes referred to as the "White Army") and controlled significant parts of the former Russian Empire for most of the war.
 
@@ -35,7 +35,7 @@ A Ukrainian nationalist movement was active in Ukraine during the war. More sign
 
 The remoteness of the Volga Region, the Ural Region, Siberia and the Far East was favorable for the anti-Bolshevik forces, and the Whites set up a number of organizations in the cities of these regions. Some of the military forces were set up on the basis of clandestine officers' organizations in the cities.
 
-The Czechoslovak Legions had been part of the Russian army and numbered around 30,000 troops by October 1917. They had an agreement with the new Bolshevik government to be evacuated from the Eastern Front via the port of Vladivostok to France. The transport from the Eastern Front to Vladivostok slowed down in the chaos, and the troops became dispersed all along the Trans-Siberian Railway. Under pressure from the Central Powers, Trotsky ordered the disarming and arrest of the legionaries, which created tensions with the Bolsheviks. Government_of_South_Russia_1920_cropped.JPG created by Pyotr Wrangel in Sevastopol, 1920]] The Western Allies armed and supported opponents of the Bolsheviks. They were worried about a possible Russo-German alliance, the prospect of the Bolsheviks making good on their threats to default on Imperial Russia's massive foreign loans, and the possibility that Communist revolutionary ideas would spread (a concern shared by many Central Powers). Hence, many of these countries expressed their support for the Whites, including the provision of troops and supplies. Winston Churchill declared that Bolshevism must be "strangled in its cradle".[5] The British and French had supported Russia during World War I on a massive scale with war materials. After the treaty, it looked like much of that material would fall into the hands of the Germans. Under this pretext began the Allied intervention in the Russian Civil War with the United Kingdom and France sending troops into Russian ports. There were violent clashes with troops loyal to the Bolsheviks.
+The Czechoslovak Legions had been part of the Russian army and numbered around 30,000 troops by October 1917. They had an agreement with the new Bolshevik government to be evacuated from the Eastern Front via the port of Vladivostok to France. The transport from the Eastern Front to Vladivostok slowed down in the chaos, and the troops became dispersed all along the Trans-Siberian Railway. Under pressure from the Central Powers, Trotsky ordered the disarming and arrest of the legionaries, which created tensions with the Bolsheviks. created by Pyotr Wrangel in Sevastopol, 1920]] The Western Allies armed and supported opponents of the Bolsheviks. They were worried about a possible Russo-German alliance, the prospect of the Bolsheviks making good on their threats to default on Imperial Russia's massive foreign loans, and the possibility that Communist revolutionary ideas would spread (a concern shared by many Central Powers). Hence, many of these countries expressed their support for the Whites, including the provision of troops and supplies. Winston Churchill declared that Bolshevism must be "strangled in its cradle".[5] The British and French had supported Russia during World War I on a massive scale with war materials. After the treaty, it looked like much of that material would fall into the hands of the Germans. Under this pretext began the Allied intervention in the Russian Civil War with the United Kingdom and France sending troops into Russian ports. There were violent clashes with troops loyal to the Bolsheviks.
 
 The German Empire created several short-lived satellite buffer states within its sphere of influence after the Treaty of Brest-Litovsk: the United Baltic Duchy, Duchy of Courland and Semigallia, Kingdom of Lithuania, Kingdom of Poland[6], the Belarusian People's Republic, and the Ukrainian State. Following the defeat of Germany in World War I in November 1918, these states were abolished.
 
@@ -44,13 +44,13 @@ Finland was the first republic that declared its independence from Russia in Dec
 
 Geography and chronology
 
-In the European part of Russia the war was fought across three main fronts: the eastern, the southern and the northwestern. It can also be roughly split into the following periods. Volunteer_Army_infantry_company.jpg in South Russia, January 1918]]
+In the European part of Russia the war was fought across three main fronts: the eastern, the southern and the northwestern. It can also be roughly split into the following periods. in South Russia, January 1918]]
 
 The first period lasted from the Revolution until the Armistice. Already on the date of the Revolution, Cossack General Alexey Kaledin refused to recognize it and assumed full governmental authority in the Don region,[7] where the Volunteer Army began amassing support. The signing of the Treaty of Brest-Litovsk also resulted in direct Allied intervention in Russia and the arming of military forces opposed to the Bolshevik government. There were also many German commanders who offered support against the Bolsheviks, fearing a confrontation with them was impending as well.
 
 During this first period the Bolsheviks took control of Central Asia out of the hands of the Provisional Government and White Army, setting up a base for the Communist Party in the Steppe and Turkestan, where nearly two million Russian settlers were located.
 
-Uniformes_(koltchak)_001.jpg in 1919]]
+in 1919]]
 
 Most of the fighting in this first period was sporadic, involving only small groups amid a fluid and rapidly shifting strategic situation. Among the antagonists were the Czechoslovak Legion,[8] the Poles of the 4th and 5th Rifle Divisions and the pro-Bolshevik Red Latvian riflemen.
 
@@ -62,8 +62,6 @@ The third period of the war was the extended siege of the last White forces in t
 Warfare
 
 October Revolution
-
-Russian_civil_war_in_the_west.svg
 
 In the October Revolution the Bolshevik Party directed the Red Guard (armed groups of workers and Imperial army deserters) to seize control of Petrograd (Saint Petersburg) and immediately began the armed takeover of cities and villages throughout the former Russian Empire. In January 1918 the Bolsheviks dissolved the Russian Constituent Assembly and proclaimed the Soviets (workers' councils) as the new government of Russia.
 
@@ -77,7 +75,7 @@ Having stated in the November 1917 "Declaration of Rights of Nations of Russia" 
 
 Peace with the Central Powers
 
-Trotzki_Deutsche_Brest-Litowsk1917.jpg greeted by German officers at Brest-Litovsk, 8 January 1918]]
+greeted by German officers at Brest-Litovsk, 8 January 1918]]
 
 The Bolsheviks decided to immediately make peace with the German Empire and the Central Powers, as they had promised the Russian people before the Revolution. Vladimir Lenin's political enemies attributed that decision to his sponsorship by the Foreign Office of Wilhelm II, German Emperor, offered to Lenin in hope that, with a revolution, Russia would withdraw from World War I. That suspicion was bolstered by the German Foreign Ministry's sponsorship of Lenin's return to Petrograd.[9] However, after the military fiasco of the summer offensive (June 1917) by the Russian Provisional Government, and in particular after the failed summer offensive of the Provisional Government had devastated the structure of the Russian army, it became crucial that Lenin realise the promised peace. Even before the failed summer offensive the Russian population was very sceptical about the continuation of the war. Western socialists had promptly arrived from France and from the UK to convince the Russians to continue the fight, but could not change the new pacifist mood of Russia.
 
@@ -87,7 +85,7 @@ In view of this, on 18 February 1918 the Germans began Operation Faustschlag on 
 
 Ukraine, South Russia, and Caucasus (1918)
 
-Dismembered_Russia_—_Some_Fragments_(NYT_article,_Feb._17,_1918).png'' showing a map of the Russian Imperial territories claimed by the Ukrainian People's Republic at the time, before the annexation of the Austro-Hungarian lands of the West Ukrainian People's Republic]]
+'' showing a map of the Russian Imperial territories claimed by the Ukrainian People's Republic at the time, before the annexation of the Austro-Hungarian lands of the West Ukrainian People's Republic]]
 
 In Ukraine the German-Austrian Operation Faustschlag had by April 1918 removed the Bolsheviks from Ukraine.[10][11][12][13][14] The German and Austro-Hungarian victories in Ukraine were due to the apathy of the locals and the inferior fighting skills of Bolsheviks troops compared to their Austro-Hungarian and German counterparts.[15]
 
@@ -103,13 +101,13 @@ Eastern Russia, Siberia and Far East of Russia (1918)
 
 The revolt of the Czechoslovak Legion broke out in May 1918, and the legionaries took control of Chelyabinsk in June. Simultaneously Russian officers' organisations overthrew the Bolsheviks in Petropavlovsk (in present-day Kazakhstan) and in Omsk. Within a month the Whites controlled most of the Trans-Siberian Railroad between Lake Baikal and the Ural regions. During the summer Bolshevik power in Siberia was eliminated. The Provisional Government of Autonomous Siberia formed in Omsk. By the end of July the Whites had extended their gains westwards, capturing Ekaterinburg on 26 July 1918. Shortly before the fall of Yekaterinburg on 17 July 1918, the former Tsar and his family were murdered by the Ural Soviet to prevent them from falling into the hands of the Whites.
 
-Bolshveki_killed_at_Vladivostok.jpg, 1918]]
+, 1918]]
 
 The Mensheviks and Socialist-Revolutionaries supported peasants fighting against Soviet control of food supplies.[16] In May 1918, with the support of the Czechoslovak Legion, they took Samara and Saratov, establishing the Committee of Members of the Constituent Assembly—known as the "Komuch". By July the authority of the Komuch extended over much of the area controlled by the Czechoslovak Legion. The Komuch pursued an ambivalent social policy, combining democratic and socialist measures, such as the institution of an eight-hour working day, with "restorative" actions, such as returning both factories and land to their former owners. After the fall of Kazan, Vladimir Lenin called for the dispatch of Petrograd workers to the Kazan Front: "We must send down the _maximum_ number of Petrograd workers: (1) a few dozen 'leaders' like Kayurov; (2) a few thousand militants 'from the ranks'".
 
 After a series of reverses at the front, the Bolsheviks' War Commissar, Trotsky, instituted increasingly harsh measures in order to prevent unauthorised withdrawals, desertions and mutinies in the Red Army. In the field the Cheka special investigations forces, termed the _Special Punitive Department of the All-Russian Extraordinary Commission for Combat of Counter-Revolution and Sabotage_ or _Special Punitive Brigades_, followed the Red Army, conducting field tribunals and summary executions of soldiers and officers who deserted, retreated from their positions or failed to display sufficient offensive zeal. Trotsky extended the use of the death penalty to the occasional political commissar whose detachment retreated or broke in the face of the enemy. In August, frustrated at continued reports of Red Army troops breaking under fire, Trotsky authorised the formation of barrier troops - stationed behind unreliable Red Army units and given orders to shoot anyone withdrawing from the battle line without authorisation.
 
-Kolchak1919troops.jpg reviewing the troops, 1919]]
+reviewing the troops, 1919]]
 
 In September 1918 Komuch, the Siberian Provisional Government and other local anti-Soviet governments met in Ufa and agreed to form a new Provisional All-Russian Government in Omsk, headed by a Directory of five: two Socialist-Revolutionaries (Nikolai Avksentiev and Vladimir Zenzinov), two Kadets (V. A. Vinogradov and PV Vologodskii) and General Vasily Boldyrev.
 
@@ -121,7 +119,7 @@ In Omsk the Russian Provisional Government quickly came under the influence - th
 
 Central Asia (1918)
 
-Europe_map_1919.jpg after the treaties of Brest-Litovsk and Batum and before the treaties of Tartu, Kars, and Riga]]
+after the treaties of Brest-Litovsk and Batum and before the treaties of Tartu, Kars, and Riga]]
 
 In February 1918 the Red Army overthrew the White Russian-supported Kokand autonomy of Turkestan. Although this move seemed to solidify Bolshevik power in Central Asia, more troubles soon arose for the Red Army as the Allied Forces began to intervene. British support of the White Army provided the greatest threat to the Red Army in Central Asia during 1918. Great Britain sent three prominent military leaders to the area. One was Lt. Col. Bailey, who recorded a mission to Tashkent, from where the Bolsheviks forced him to flee. Another was Gen. Malleson, leading the Malleson Mission, who assisted the Mensheviks in Ashkhabad (now the capital of Turkmenistan) with a small Anglo-Indian force. However, he failed to gain control of Tashkent, Bukhara and Khiva. The third was Maj. Gen. Dunsterville, who the Bolsheviks drove out of Central Asia only a month after his arrival in August 1918. Despite setbacks due to British invasions during 1918, the Bolsheviks continued to make progress in bringing the Central Asian population under their influence. The first regional congress of the Russian Communist Party convened in the city of Tashkent in June 1918 in order to build support for a local Bolshevik Party.
 
@@ -133,7 +131,7 @@ Estonia, Latvia and Petrograd
 
 Estonia cleared its territory of the Red Army by January 1919.[17] Baltic German volunteers captured Riga from the Red Latvian Riflemen on 22 May, but the Estonian 3rd Division defeated the Baltic Germans a month later, aiding the establishment of the Republic of Latvia.[18]
 
-NikolaiYudenich1916.jpeg]]
+]]
 
 This rendered possible another threat to the Red Army—one from Gen. Yudenich, who had spent the summer organizing the Northwestern Army in Estonia with local and British support. In October 1919 he tried to capture Petrograd in a sudden assault with a force of around 20,000 men. The attack was well-executed, using night attacks and lightning cavalry maneuvers to turn the flanks of the defending Red Army. Yudenich also had six British tanks, which caused panic whenever they appeared. The Allies gave large quantities of aid to Yudenich, who, however, complained that he was receiving insufficient support.
 
@@ -147,15 +145,13 @@ The British occupied Murmansk and, alongside the Americans, seized Arkhangelsk. 
 
 Siberia (1919)
 
-American_troops_in_Vladivostok_1918_HD-SN-99-02013.JPEG (August 1918)]] At the beginning of March 1919 the general offensive of the Whites on the eastern front began. Ufa was retaken on 13 March; by mid-April, the White Army stopped at the Glazov–Chistopol–Bugulma–Buguruslan–Sharlyk line. Reds started their counteroffensive against Kolchak's forces at the end of April. The Red 5th Army, led by the capable commander Tukhachevsky, captured Elabuga on 26 May, Sarapul on 2 June and Izevsk on the 7th and continued to push forward. Both sides had victories and losses, but by the middle of summer the Red Army was larger than the White Army and had managed to recapture territory previously lost.
+(August 1918)]] At the beginning of March 1919 the general offensive of the Whites on the eastern front began. Ufa was retaken on 13 March; by mid-April, the White Army stopped at the Glazov–Chistopol–Bugulma–Buguruslan–Sharlyk line. Reds started their counteroffensive against Kolchak's forces at the end of April. The Red 5th Army, led by the capable commander Tukhachevsky, captured Elabuga on 26 May, Sarapul on 2 June and Izevsk on the 7th and continued to push forward. Both sides had victories and losses, but by the middle of summer the Red Army was larger than the White Army and had managed to recapture territory previously lost.
 
 Following the abortive offensive at Chelyabinsk, the White armies withdrew beyond the Tobol. In September 1919 a White offensive was launched against the Tobol front, the last attempt to change the course of events. However, on 14 October the Reds counterattacked, and thus began the uninterrupted retreat of the Whites to the east.
 
 On 14 November 1919 the Red Army captured Omsk.[20] Adm. Kolchak lost control of his government shortly after this defeat; White Army forces in Siberia essentially ceased to exist by December. Retreat of the eastern front by White armies lasted three months, until mid-February 1920, when the survivors, after crossing Lake Baikal, reached Chita area and joined Ataman Semenov's forces.
 
 South Russia (1919)
-
-За_единую_Россію.jpg
 
 The Cossacks had been unable to organise and capitalise on their successes at the end of 1918. By 1919 they had begun to run short of supplies. Consequently, when the Soviet counteroffensive began in January 1919 under the Bolshevik leader Antonov-Ovseenko, the Cossack forces rapidly fell apart. The Red Army captured Kiev on 3 February 1919.
 
@@ -165,7 +161,7 @@ Although Great Britain had withdrawn its own troops from the theatre, it continu
 
 After the capture of Tsaritsyn, Wrangel pushed towards Saratov but Trotsky, seeing the danger of the union with Kolchak, against whom the Red command was concentrating large masses of troops, repulsed his attempts with heavy losses. When Kolchak's army in the east began to retreat in June and July, the bulk of the Red Army, free now from any serious danger from Siberia, was directed against Denikin.
 
-Wrangel_after_worship_Tsaritsyn_1919.jpg in Tsaritsyn, 15 October 1919]]
+in Tsaritsyn, 15 October 1919]]
 
 Denikin's forces constituted a real threat and for a time threatened to reach Moscow. The Red Army, stretched thin by fighting on all fronts, was forced out of Kiev on 30 August. Kursk and Orel were taken, on 20 September and 14 October, respectively. The latter, only from Moscow, was the closest the AFSR would come to its target. The Cossack Don Army under the command of Gen. Vladimir Sidorin continued north towards Voronezh, but there Semyon Budyonny's cavalrymen defeated them on 24 October. This allowed the Red Army to cross the Don River, threatening to split the Don and Volunteer Armies. Fierce fighting took place at the key rail junction of Kastornoye, which was taken on 15 November; Kursk was retaken two days later.
 
@@ -181,13 +177,13 @@ Communication difficulties with Red Army forces in Siberia and European Russia c
 
 South Russia, Ukraine and Kronstadt (1920–21)
 
-Victims_of_Soviet_Famine_1922.jpg]]
+]]
 
-By the beginning of 1920 the main body of the Armed Forces of South Russia was rapidly retreating towards the Don, to Rostov. Denikin hoped to hold the crossings of the Don, then rest and reform his troops, but the White Army was not able to hold the Don area, and at the end of February 1920 started a retreat across Kuban towards Novorossiysk. Slipshod evacuation of Novorossiysk proved to be a dark event for the White Army. Russian and Allied ships evacuated about 40,000 of Denikin's men from Novorossiysk to the Crimea, without horses or any heavy equipment, while about 20,000 men were left behind and either dispersed or captured by the Red Army. Following the disastrous Novorossiysk evacuation, Denikin stepped down and the military council elected Wrangel as the new Commander-in-Chief of the White Army. He was able to restore order to the dispirited troops and reshape an army that could fight as a regular force again. This remained an organized force in the Crimea throughout 1920. Tambov_Rebellion.png was one of the largest and best-organised peasant rebellions challenging the Bolshevik regime]] After Moscow's Bolshevik government signed a military and political alliance with Nestor Makhno and the Ukrainian anarchists, the Black Army attacked and defeated several regiments of Wrangel's troops in southern Ukraine, forcing him to retreat before he could capture that year's grain harvest.[23]
+By the beginning of 1920 the main body of the Armed Forces of South Russia was rapidly retreating towards the Don, to Rostov. Denikin hoped to hold the crossings of the Don, then rest and reform his troops, but the White Army was not able to hold the Don area, and at the end of February 1920 started a retreat across Kuban towards Novorossiysk. Slipshod evacuation of Novorossiysk proved to be a dark event for the White Army. Russian and Allied ships evacuated about 40,000 of Denikin's men from Novorossiysk to the Crimea, without horses or any heavy equipment, while about 20,000 men were left behind and either dispersed or captured by the Red Army. Following the disastrous Novorossiysk evacuation, Denikin stepped down and the military council elected Wrangel as the new Commander-in-Chief of the White Army. He was able to restore order to the dispirited troops and reshape an army that could fight as a regular force again. This remained an organized force in the Crimea throughout 1920. was one of the largest and best-organised peasant rebellions challenging the Bolshevik regime]] After Moscow's Bolshevik government signed a military and political alliance with Nestor Makhno and the Ukrainian anarchists, the Black Army attacked and defeated several regiments of Wrangel's troops in southern Ukraine, forcing him to retreat before he could capture that year's grain harvest.[23]
 
 Stymied in his efforts to consolidate his hold, Wrangel then attacked north in an attempt to take advantage of recent Red Army defeats at the close of the Polish–Soviet War of 1919–1920. The Red Army eventually halted this offensive, and Wrangel's troops had to retreat to Crimea in November 1920, pursued by both the Red and Black cavalry and infantry. Wrangel's fleet evacuated him and his army to Constantinople on 14 November 1920, ending the struggle of Reds and Whites in Southern Russia.
 
-Kronstadt_attack.JPG troops attack Kronstadt sailors in March 1921]] After the defeat of Wrangel, the Red Army immediately repudiated its 1920 treaty of alliance with Nestor Makhno and attacked the anarchist Black Army; the campaign to liquidate Makhno and the Ukrainian anarchists began with an attempted assassination of Makhno by Cheka agents. Anger at continued repression by the Bolshevik Communist government and at its liberal use of the Cheka to put down anarchist elements led to a naval mutiny at Kronstadt in March 1921, followed by peasant revolts. Red Army attacks on the anarchist forces and their sympathisers increased in ferocity throughout 1921.
+troops attack Kronstadt sailors in March 1921]] After the defeat of Wrangel, the Red Army immediately repudiated its 1920 treaty of alliance with Nestor Makhno and attacked the anarchist Black Army; the campaign to liquidate Makhno and the Ukrainian anarchists began with an attempted assassination of Makhno by Cheka agents. Anger at continued repression by the Bolshevik Communist government and at its liberal use of the Cheka to put down anarchist elements led to a naval mutiny at Kronstadt in March 1921, followed by peasant revolts. Red Army attacks on the anarchist forces and their sympathisers increased in ferocity throughout 1921.
 
 Siberia and the Far East (1920–22)
 
@@ -206,7 +202,7 @@ General Anatoly Pepelyayev continued armed resistance in the Ayano-Maysky Distri
 
 Casualties
 
-Evpatoria_red_terror_corpses_at_sea_coast.jpg'' in Crimea, 1918]] Streetkids_RussianCivilWar.JPG The results of the civil war were momentous. Soviet demographer Boris Urlanis estimated the total number of men killed in action in the Civil War and Polish–Soviet War as 300,000 (125,000 in the Red Army, 175,500 White armies and Poles) and the total number of military personnel dead from disease (on both sides) as 450,000.[24] Boris Sennikov estimated the total losses among the population of Tambov region in 1920 to 1922 resulting from the war, executions, and imprisonment in concentration camps as approximately 240,000.[25] Refugees_on_flatcars.jpgs on flatcars]]
+'' in Crimea, 1918]] The results of the civil war were momentous. Soviet demographer Boris Urlanis estimated the total number of men killed in action in the Civil War and Polish–Soviet War as 300,000 (125,000 in the Red Army, 175,500 White armies and Poles) and the total number of military personnel dead from disease (on both sides) as 450,000.[24] Boris Sennikov estimated the total losses among the population of Tambov region in 1920 to 1922 resulting from the war, executions, and imprisonment in concentration camps as approximately 240,000.[25] s on flatcars]]
 
 During the Red Terror, estimates of Cheka executions range from 12,733 to 1.7 million. William Henry Chamberlin suspected that there were about 50,000. Evan Mawdsley suspected that there were more than 12,733, and less than 200,000. Some sources claimed at least 250,000 summary executions of "enemies of the people" with estimates reaching above a million.[26][27] More modest estimates put the numbers executed by the Bolsheviks between December 1917 and February 1922 at around 28,000 per year, with roughly 10,000 executions during the Red Terror.
 

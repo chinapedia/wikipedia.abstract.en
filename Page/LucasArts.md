@@ -160,8 +160,6 @@ Ex-LucasArts developers have founded numerous San Francisco game development stu
 
 Logo
 
-LucasArts_GoldGuy_logo_purple.jpg
-
 The original Lucasfilm Games logo was based upon the existing Lucasfilm movie logo. There were a number of variations on it.
 
 The long-lived LucasArts logo, affectionately known as the "Gold Guy", was introduced in 1990 and first used within _Monkey Island 2: LeChuck’s Revenge_ (the first game shipped under the LucasArts name). The logo consisted of a crude gold-colored figure resembling a petroglyph, standing on a purple letter "L" inscribed with the company name. The figure had its hands up in the air, as if a sun were rising from behind him. It was also said to resemble an eye, with the rays of the sun as eyelashes. The logo was revised in late 2005, losing the letter "L" pedestal and introducing a more rounded version of the gold-colored figure.[112] In the games, the figure sometimes does an action like throw a lightsaber or cast Force Lightning. In 1998, LucasArts approached Finnish game developer Remedy Entertainment, citing that their logo was copied from the top portion of the LucasArts logo, and threatened legal action.[113] Remedy was by that time already in the process of redesigning their logo, so they complied by taking their old logo offline from their website, and introducing their new logo a little later.

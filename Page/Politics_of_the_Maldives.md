@@ -24,8 +24,6 @@ In September 2018, a general election was held, during which Ibrahim Mohamed Sol
 
 Executive branch
 
-Male-palau_presidencial-bandera_presidencial.jpg
-
 
 Legislative branch
 

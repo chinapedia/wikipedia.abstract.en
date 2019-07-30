@@ -5,7 +5,7 @@ History
 
 Founding
 
-British_Rail_960001_at_Norwich.jpg Founded under Conservative legislation that privatised the railways, Railtrack took control of the railway infrastructure on 1 April 1994 and was floated on the Stock Exchange in May 1996.[1] Robert Horton was first chairman, leading the organisation through the early years of its existence up to 1999, including an industrial dispute from June to September 1994.[2]
+Founded under Conservative legislation that privatised the railways, Railtrack took control of the railway infrastructure on 1 April 1994 and was floated on the Stock Exchange in May 1996.[1] Robert Horton was first chairman, leading the organisation through the early years of its existence up to 1999, including an industrial dispute from June to September 1994.[2]
 
 The fatal accidents at Southall in 1997[3] and Ladbroke Grove in 1999[4] called into question the effect that the fragmentation of the railway network had had on both safety and maintenance procedures.
 
@@ -18,8 +18,6 @@ The new rail regulator, Tom Winsor (later Sir Thomas Winsor), had been Swift's g
 It was the Hatfield crash on 17 October 2000 that proved to be the defining moment in Railtrack's collapse.[12] The subsequent major repairs undertaken across the whole British rail network are estimated to have cost in the order of £580 million. According to Christian Wolmar, author of _On the Wrong Line_, the Railtrack board panicked in the wake of Hatfield.[13] Because most of the engineering skill of British Rail had been sold off into the maintenance and renewal companies, Railtrack had no idea how many Hatfields were waiting to happen, nor did they have any way of assessing the consequence of the speed restrictions they were ordering – restrictions that brought the railway network to all but a standstill.[14]
 
 Regulatory and customer pressure had been increasing, and the company's share price began to fall sharply as it became apparent that there were serious shortcomings in the company's ability to tackle and solve its greatest problems.[15]
-
-Railtrack_sign.jpg
 
 Meanwhile, the costs of modernising the West Coast Main Line were spiralling.[16] In 2001, Railtrack announced that, despite making a pre-tax profits before exceptional expenses of £199m, the £733m of costs and compensation paid out over the Hatfield crash plunged Railtrack from profit to a loss of £534m.[17] This caused it to approach the government for funding, which it then controversially used to pay a £137m dividend to its shareholders in May 2001.[18]
 
@@ -62,7 +60,7 @@ Byers apologised in the House of Commons on 17 October 2005 for having given a "
 
 Payments to shareholders
 
-Hawarden_Bridge_station_geograph-3620143-by-Ben-Brooksbank.jpg with typical station track in 1999.]]
+ with typical station track in 1999.]]
 
 RT Group plc (in voluntary liquidation) made a number of payments to shareholders during the winding up of the company's affairs before finally being dissolved on 22 June 2010.[39]
 

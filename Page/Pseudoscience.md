@@ -18,7 +18,7 @@ Pseudoscience is differentiated from science because – although it claims to b
 
 Scientific method
 
-The_Scientific_Method_(simple).png PhrenologyPix.jpg chart: During the 1820s, phrenologists claimed the mind was located in areas of the brain, and were attacked for doubting that mind came from the nonmaterial soul. Their idea of reading "bumps" in the skull to predict personality traits was later discredited.[15] Phrenology was first termed a pseudoscience in 1843 and continues to be considered so.[16]]]
+chart: During the 1820s, phrenologists claimed the mind was located in areas of the brain, and were attacked for doubting that mind came from the nonmaterial soul. Their idea of reading "bumps" in the skull to predict personality traits was later discredited.[15] Phrenology was first termed a pseudoscience in 1843 and continues to be considered so.[16]]]
 
 A number of basic principles are accepted by scientists as standards for determining whether a body of knowledge, method, or practice is scientific. Experimental results should be reproducible and verified by other researchers.[17] These principles are intended to ensure experiments can be reproduced measurably given the same conditions, allowing further investigation to determine whether a hypothesis or theory related to given phenomena is valid and reliable. Standards require the scientific method to be applied throughout, and bias to be controlled for or eliminated through randomization, fair sampling procedures, blinding of studies, and other methods. All gathered data, including the experimental or environmental conditions, are expected to be documented for scrutiny and made available for peer review, allowing further experiments or studies to be conducted to confirm or falsify results. Statistical quantification of significance, confidence, and error[18] are also important tools for the scientific method.
 
@@ -52,8 +52,6 @@ Alternative definition
 
 For philosophers Silvio Funtowicz and Jerome R. Ravetz "pseudo-science may be defined as one where the uncertainty of its inputs must be suppressed, lest they render its outputs totally indeterminate". The definition, in the book _Uncertainty and quality in science for policy_ (p. 54),[29] alludes to the loss of craft skills in handling quantitative information, and to the bad practice of achieving precision in prediction (inference) only at the expenses of ignoring uncertainty in the input which was used to formulate the prediction. This use of the term is common among practitioners of post-normal science. Understood in this way, pseudoscience can be fought using good practices to assesses uncertainty in quantitative information, such as NUSAP and – in the case of mathematical modelling – sensitivity auditing.
 
-Venice_ast_sm.jpg
-
 
 History
 
@@ -66,7 +64,7 @@ The vast diversity in pseudosciences further complicates the history of science.
 
 Indicators of possible pseudoscience
 
-Rhustox.jpg.]] A topic, practice, or body of knowledge might reasonably be termed pseudoscientific when it is presented as consistent with the norms of scientific research, but it demonstrably fails to meet these norms.[33]
+.]] A topic, practice, or body of knowledge might reasonably be termed pseudoscientific when it is presented as consistent with the norms of scientific research, but it demonstrably fails to meet these norms.[33]
 
 Use of vague, exaggerated or untestable claims
 

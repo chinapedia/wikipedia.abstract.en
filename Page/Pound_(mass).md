@@ -1,4 +1,4 @@
-PoundTroy.jpg The POUND or POUND-MASS is a unit of mass used in the imperial, United States customary and other systems of measurement. Various definitions have been used; the most common today is the international avoirdupois pound, which is legally defined as exactly , and which is divided into 16 avoirdupois ounces.[1] The international standard symbol for the avoirdupois pound is LB;[2] an alternative symbol is LB_(M)[3] (for most pound definitions), # (chiefly in the U.S.), and ℔[4] or ″̶[5] (specifically for the apothecaries' pound).
+The POUND or POUND-MASS is a unit of mass used in the imperial, United States customary and other systems of measurement. Various definitions have been used; the most common today is the international avoirdupois pound, which is legally defined as exactly , and which is divided into 16 avoirdupois ounces.[1] The international standard symbol for the avoirdupois pound is LB;[2] an alternative symbol is LB_(M)[3] (for most pound definitions), # (chiefly in the U.S.), and ℔[4] or ″̶[5] (specifically for the apothecaries' pound).
 
 The unit is descended from the Roman _libra_ (hence the abbreviation "lb"). The English word _pound_ is cognate with, among others, German _Pfund_, Dutch _pond_, and Swedish _pund_. All ultimately derive from a borrowing into Proto-Germanic of the Latin expression _lībra pondō_ ("a pound by weight"), in which the word _pondō_ is the ablative case of the Latin noun _pondus_ ("weight").[6]
 
@@ -20,11 +20,9 @@ The US has not adopted the metric system[13] despite many efforts to do so, and 
 
 Historic use
 
-comparison_of_pounds.svg Historically, in different parts of the world, at different points in time, and for different applications, the pound (or its translation) has referred to broadly similar but not identical standards of mass or force.[14]
+Historically, in different parts of the world, at different points in time, and for different applications, the pound (or its translation) has referred to broadly similar but not identical standards of mass or force.[14]
 
 Roman _libra_
-
-Gewichtmaße1.jpg
 
 The libra (Latin for "scales / balance") is an ancient Roman unit of mass that was equivalent to approximately 328.9 grams.[15][16][17] It was divided into 12 _unciae_ (singular: _uncia_), or ounces. The _libra_ is the origin of the abbreviation for pound, "lb".
 
@@ -60,7 +58,7 @@ The troy pound is no longer in general use or a legal unit for trade (it was abo
 
 Tower pound
 
-The_Pound.jpg The system called Tower weight was the more general name for King Offa's pound. This dates to 757 AD and was based on the silver penny. This in turn was struck over Arabic dirhams (2d). The pound was based on the weight of 120 Arabic silver dirhams, which have been found in Offa's Dyke. The same coin weight was used throughout the Hanseatic League.
+The system called Tower weight was the more general name for King Offa's pound. This dates to 757 AD and was based on the silver penny. This in turn was struck over Arabic dirhams (2d). The pound was based on the weight of 120 Arabic silver dirhams, which have been found in Offa's Dyke. The same coin weight was used throughout the Hanseatic League.
 
 The Tower pound was also called the MONEYERS' POUND (referring to the Saxon moneyers before the Conquest),[25] the EASTERLING POUND, which may refer to traders of eastern Germany, or to traders on the shore of the eastern Baltic sea, or dealers of Asiatic goods who settled at the Steelyard wharf;[26] and the ROCHELLE POUND by French writers, because it was also in use at Rochelle.[27] An almost identical weight was employed by the Germans for weighing gold and silver.
 

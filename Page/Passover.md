@@ -22,7 +22,7 @@ The English term "Passover" is first known to be recorded in the English languag
 
 Origins
 
-Israel's_Escape_from_Egypt.jpg from Egypt, 1907]] The origins of the Passover festival predate the Exodus.[15] The Passover ritual, prior to Deuteronomy, is widely thought to have its origins in an apotropaic rite, unrelated to the Exodus, to ensure the protection of a family home, a rite conducted wholly within a clan. Hyssop was employed to daub the blood of a slaughtered sheep on the lintels and door posts to ensure that demonic forces could not enter the home.[16]
+from Egypt, 1907]] The origins of the Passover festival predate the Exodus.[15] The Passover ritual, prior to Deuteronomy, is widely thought to have its origins in an apotropaic rite, unrelated to the Exodus, to ensure the protection of a family home, a rite conducted wholly within a clan. Hyssop was employed to daub the blood of a slaughtered sheep on the lintels and door posts to ensure that demonic forces could not enter the home.[16]
 
 A further hypothesis maintains that, once the Priestly Code was promulgated, the Exodus narrative took on a central function, as the apotropaic rite was, arguably, amalgamated with the Canaanite agricultural festival of spring which was a ceremony of unleavened bread, connected with the barley harvest. As the Exodus motif grew, the original function and symbolism of these double origins was lost.[17] Several motifs replicate the features associated with the Mesopotamian Akitu festival.[18] Other scholars, John Van Seters, J.B.Segal and Tamara Prosic disagree with the merged two-festivals hypothesis.[19]
 
@@ -81,7 +81,7 @@ Today, in the absence of the Temple, when no sacrifices are offered or eaten, th
 
 Removing all leaven (_chametz_)
 
-BiurChametz2010.jpg Leaven, in Hebrew _chametz_ (Hebrew: חמץ _ḥamets_, "leavening") is made from one of five types of grains[46] combined with water and left to stand for more than eighteen minutes. The consumption, keeping, and owning of _chametz_ is forbidden during Passover. Yeast and fermentation are not themselves forbidden as seen for example by wine, which is required, rather than merely permitted. According to Halakha, the ownership of such _chametz_ is also proscribed.
+Leaven, in Hebrew _chametz_ (Hebrew: חמץ _ḥamets_, "leavening") is made from one of five types of grains[46] combined with water and left to stand for more than eighteen minutes. The consumption, keeping, and owning of _chametz_ is forbidden during Passover. Yeast and fermentation are not themselves forbidden as seen for example by wine, which is required, rather than merely permitted. According to Halakha, the ownership of such _chametz_ is also proscribed.
 
 _Chametz_ does not include baking soda, baking powder or like products. Although these are defined in English as leavening agents, they leaven by chemical reaction, not by biological fermentation. Thus, bagels, waffles and pancakes made with baking soda and matzo meal are considered permissible, while bagels made with sourdough and pancakes and waffles made with yeast are prohibited.
 
@@ -104,7 +104,7 @@ Additionally, there is a tradition of not eating matzoh (flat unleavened bread) 
 
 Sale of leaven
 
-Leavened_foods_concealed_behind_plastic_at_Jerusalem_supermarket_during_Passover.jpg Leaven or _chametz_ may be sold rather than discarded, especially in the case of relatively valuable forms such as liquor distilled from wheat, with the products being repurchased afterward. In some cases, they may never leave the house, instead being formally sold while remaining in the original owner's possession in a locked cabinet until they can be repurchased after the holiday. Modern observance may also include sealing cabinets and drawers which contain "Chametz" shut by using adhesive tape, which serves a similar purpose to a lock but also shows evidence of tampering. Although the practice of selling "Chametz" dates back many years, some Reform rabbinical authorities have come to regard it with disdain – since the supposed "new owner" never takes actual possession of the goods.[53]
+Leaven or _chametz_ may be sold rather than discarded, especially in the case of relatively valuable forms such as liquor distilled from wheat, with the products being repurchased afterward. In some cases, they may never leave the house, instead being formally sold while remaining in the original owner's possession in a locked cabinet until they can be repurchased after the holiday. Modern observance may also include sealing cabinets and drawers which contain "Chametz" shut by using adhesive tape, which serves a similar purpose to a lock but also shows evidence of tampering. Although the practice of selling "Chametz" dates back many years, some Reform rabbinical authorities have come to regard it with disdain – since the supposed "new owner" never takes actual possession of the goods.[53]
 
 The sale of _chametz_ may also be conducted communally via a rabbi, who becomes the "agent" for all the community's Jews through a halakhic procedure called a _kinyan_ (acquisition). Each householder must put aside all the _chametz_ he is selling into a box or cupboard, and the rabbi enters into a contract to sell all the _chametz_ to a non-Jew (who is not obligated to celebrate the commandments) in exchange for a small down payment (_e.g._ $1.00), with the remainder due after Passover. This sale is considered completely binding according to Halakha, and at any time during the holiday, the buyer may come to take or partake of his property. The rabbi then re-purchases the goods for less than they were sold at the end of the holiday.[54]
 
@@ -178,15 +178,11 @@ Due to the Torah injunction not to eat _chametz_ (leaven) during Passover (), ob
 
 Matzah
 
-Machine-made_Shmura_Matzo.jpg
-
 A symbol of the Passover holiday is matzo, an unleavened flatbread made solely from flour and water which is continually worked from mixing through baking, so that it is not allowed to rise. Matzo may be made by machine or by hand. The Torah contains an instruction to eat matzo, specifically, on the first night of Passover and to eat only unleavened bread (in practice, matzo) during the entire week of Passover.[61] Consequently, the eating of matzo figures prominently in the Passover Seder. There are several explanations for this.
 
 The Torah says that it is because the Hebrews left Egypt with such haste that there was no time to allow baked bread to rise; thus flat, unleavened bread, matzo, is a reminder of the rapid departure of the Exodus.[62] Other scholars teach that in the time of the Exodus, matzo was commonly baked for the purpose of traveling because it preserved well and was light to carry (making it similar to hardtack), suggesting that matzo was baked intentionally for the long journey ahead.
 
 Matzo has also been called _Lechem Oni_ (Hebrew: "bread of poverty"). There is an attendant explanation that matzo serves as a symbol to remind Jews what it is like to be a poor slave and to promote humility, appreciate freedom, and avoid the inflated ego symbolized by more luxurious leavened bread.[63]
-
-Shmura_Matzo2.jpg
 
 _Shmura matzo_ ("watched" or "guarded" matzo), is the bread of preference for the Passover Seder in Orthodox Jewish communities. Shmura matzo is made from wheat that is guarded from contamination by leaven (_chametz_) from the time of summer harvest[64] to its baking into matzos five to ten months later.
 
@@ -201,7 +197,7 @@ Some machine-made matzos are completed within 5 minutes of being kneaded.[67]
 
 Passover seder
 
-Sedertable.jpg It is traditional for Jewish families to gather on the first night of Passover (first two nights in Orthodox and Conservative communities outside Israel) for a special dinner called a seder (Hebrew: סדר _ḏeder_ – derived from the Hebrew word for "order" or "arrangement", referring to the very specific order of the ritual). The table is set with the finest china and silverware to reflect the importance of the meal. During this meal, the story of the Exodus from Egypt is retold using a special text called the Haggadah. Four cups of wine are consumed at various stages in the narrative. The Haggadah divides the night's procedure into 15 parts:
+It is traditional for Jewish families to gather on the first night of Passover (first two nights in Orthodox and Conservative communities outside Israel) for a special dinner called a seder (Hebrew: סדר _ḏeder_ – derived from the Hebrew word for "order" or "arrangement", referring to the very specific order of the ritual). The table is set with the finest china and silverware to reflect the importance of the meal. During this meal, the story of the Exodus from Egypt is retold using a special text called the Haggadah. Four cups of wine are consumed at various stages in the narrative. The Haggadah divides the night's procedure into 15 parts:
 
 1.  _Kadeish/ Qadēsh_ קדש – recital of Kiddush blessing and drinking of the first cup of wine
 2.  _Urchatz/ Ūr·ḥats/ Ūr·ḥaṣ_ ורחץ – the washing of the hands – without blessing
@@ -225,9 +221,7 @@ The seder is replete with questions, answers, and unusual practices (e.g. the re
 
 Maror
 
-3TypesMaror.jpg, romaine lettuce, whole horseradish root]] Maror (bitter herbs) symbolizes the bitterness of slavery in Egypt. The following verse from the Torah underscores that symbolism: "And they embittered (Hebrew: וימררו _ve-yimareru_) their lives with hard labor, with mortar and with bricks and with all manner of labor in the field; any labor that they made them do was with hard labor" (Exodus 1:14).
-
-SederPlate.jpg
+, romaine lettuce, whole horseradish root]] Maror (bitter herbs) symbolizes the bitterness of slavery in Egypt. The following verse from the Torah underscores that symbolism: "And they embittered (Hebrew: וימררו _ve-yimareru_) their lives with hard labor, with mortar and with bricks and with all manner of labor in the field; any labor that they made them do was with hard labor" (Exodus 1:14).
 
 Four cups of wine
 
@@ -247,7 +241,7 @@ Often the leader of the seder and the other adults at the meal will use prompted
 
 Afikoman
 
-Haggadah_15th_cent.jpg The _afikoman_ – an integral part of the Seder itself – is used to engage the interest and excitement of the children at the table. During the fourth part of the Seder, called _Yachatz_, the leader breaks the middle piece of matzo into two. He sets aside the larger portion as the _afikoman_. Many families use the _afikoman_ as a device for keeping the children awake and alert throughout the Seder proceedings by hiding the _afikoman_ and offering a prize for its return.[69] Alternatively, the children are allowed to "steal" the _afikoman_ and demand a reward for its return. In either case, the _afikoman_ must be consumed during the twelfth part of the Seder, _Tzafun_.
+The _afikoman_ – an integral part of the Seder itself – is used to engage the interest and excitement of the children at the table. During the fourth part of the Seder, called _Yachatz_, the leader breaks the middle piece of matzo into two. He sets aside the larger portion as the _afikoman_. Many families use the _afikoman_ as a device for keeping the children awake and alert throughout the Seder proceedings by hiding the _afikoman_ and offering a prize for its return.[69] Alternatively, the children are allowed to "steal" the _afikoman_ and demand a reward for its return. In either case, the _afikoman_ must be consumed during the twelfth part of the Seder, _Tzafun_.
 
 Concluding songs
 
@@ -275,7 +269,7 @@ Outside Israel, in Orthodox and Conservative communities, the holiday lasts for 
 
 Like the holiday of Sukkot, the intermediary days of Passover are known as Chol HaMoed (festival weekdays) and are imbued with a semi-festive status. It is a time for family outings and picnic lunches of matzo, hardboiled eggs, fruits and vegetables, and Passover treats such as macaroons and homemade candies.
 
-Passover cake recipes call for potato starch or Passover cake flour made from finely granulated matzo instead of regular flour, and a large amount of eggs to achieve fluffiness. Cookie recipes use matzo farfel (broken bits of matzo) or ground nuts as the base. For families with Eastern European backgrounds, borsht, a soup made with beets, is a Passover tradition. Wonder_Pot_cake.jpg.]] While kosher for Passover packaged goods are available in stores, some families opt to cook everything from scratch during Passover week. In Israel, families that do not kasher their ovens can bake cakes, casseroles, and even meat[74] on the stovetop in a Wonder Pot, an Israeli invention consisting of three parts: an aluminium pot shaped like a Bundt pan, a hooded cover perforated with venting holes, and a thick, round, metal disc with a center hole which is placed between the Wonder Pot and the flame to disperse heat.[75]
+Passover cake recipes call for potato starch or Passover cake flour made from finely granulated matzo instead of regular flour, and a large amount of eggs to achieve fluffiness. Cookie recipes use matzo farfel (broken bits of matzo) or ground nuts as the base. For families with Eastern European backgrounds, borsht, a soup made with beets, is a Passover tradition. .]] While kosher for Passover packaged goods are available in stores, some families opt to cook everything from scratch during Passover week. In Israel, families that do not kasher their ovens can bake cakes, casseroles, and even meat[74] on the stovetop in a Wonder Pot, an Israeli invention consisting of three parts: an aluminium pot shaped like a Bundt pan, a hooded cover perforated with venting holes, and a thick, round, metal disc with a center hole which is placed between the Wonder Pot and the flame to disperse heat.[75]
 
 
 Seventh day of Passover
@@ -294,7 +288,7 @@ Today, Pesach Sheni on the 14th of Iyar has the status of a very minor holiday (
 
 Traditional foods
 
-Matzah_brei_serving.jpg (fried matzo and egg), a popular Passover dish]] Because the house is free of leaven (_chametz_) for eight days, the Jewish household typically eats different foods during the week of Passover. Some include:
+(fried matzo and egg), a popular Passover dish]] Because the house is free of leaven (_chametz_) for eight days, the Jewish household typically eats different foods during the week of Passover. Some include:
 
 ASHKENAZI FOODS
 
@@ -328,7 +322,7 @@ Influence on other religions
 
 Christianity
 
-The_two_disciples,_Peter_and_John,_are_sent_to_prepare_the_Passover_(f._32)_Cropped.jpg and John, were sent by Christ to prepare the Passover]]
+and John, were sent by Christ to prepare the Passover]]
 
 The Christian celebration of Good Friday finds its roots in the Jewish feast of Passover, the evening on which Jesus was crucified as the Passover Lamb.[81][82][83]
 

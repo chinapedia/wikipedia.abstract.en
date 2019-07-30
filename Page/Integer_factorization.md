@@ -9,7 +9,7 @@ Many cryptographic protocols are based on the difficulty of factoring large comp
 
 Prime decomposition
 
-PrimeDecompositionExample.svg By the fundamental theorem of arithmetic, every positive integer has a unique prime factorization. (By convention, 1 is the empty product.) If the integer is prime then it can be recognized as such in polynomial time, for example, by the AKS primality test. If composite however, the theorem gives no insight into how to obtain the factors.
+By the fundamental theorem of arithmetic, every positive integer has a unique prime factorization. (By convention, 1 is the empty product.) If the integer is prime then it can be recognized as such in polynomial time, for example, by the AKS primality test. If composite however, the theorem gives no insight into how to obtain the factors.
 
 Given a general algorithm for integer factorization, any integer can be factored into its constituent prime factors by repeated application of this algorithm. The situation is more complicated with special-purpose factorization algorithms, whose benefits may not be realized as well or even at all with the factors produced during decomposition. For example, if where are very large primes, trial division will quickly produce the factors 3 and 19 but will take _p_ divisions to find the next factor. As a contrasting example, if _N_ is the product of the primes 13729, 1372933, and 18848997161, where , Fermat's factorization method will begin with which immediately yields and hence the factors and . While these are easily recognized as composite and prime respectively, Fermat's method will take much longer to factor the composite number because the starting value of for _a_ is nowhere near 1372933.
 

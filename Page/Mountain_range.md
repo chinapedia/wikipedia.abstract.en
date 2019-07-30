@@ -1,4 +1,4 @@
-Himalayas.jpg, the highest mountain range on Earth, seen from space]]
+, the highest mountain range on Earth, seen from space]]
 
 A MOUNTAIN RANGE or HILL RANGE is a series of mountains or hills ranged in a line and connected by high ground. A MOUNTAIN SYSTEM or MOUNTAIN BELT is a group of mountain ranges with similarity in form, structure, and alignment that have arisen from the same cause, usually an orogeny.[1] Mountain ranges are formed by a variety of geological processes, but most of the significant ones on Earth are the result of plate tectonics. Mountain ranges are also found on many planetary mass objects in the Solar System and are likely a feature of most terrestrial planets.
 
@@ -7,11 +7,11 @@ Mountain ranges are usually segmented by highlands or mountain passes and valley
 
 Major ranges
 
-Vysoke_Tatry4b._Gotha,_1865.jpg mountain range in Slovakia and Poland by Karel Kořistka appearing in a book by August Heinrich Petermann.]]
+mountain range in Slovakia and Poland by Karel Kořistka appearing in a book by August Heinrich Petermann.]]
 
 Most geologically young mountain ranges on the Earth's land surface are associated with either the Pacific Ring of Fire or the Alpide Belt. The Pacific Ring of Fire includes the Andes of South America, extends through the North American Cordillera along the Pacific Coast, the Aleutian Range, on through Kamchatka, Japan, Taiwan, the Philippines, Papua New Guinea, to New Zealand.[2] The Andes is long and is often considered the world's longest mountain system.[3]
 
-The Alpide belt includes Indonesia and Southeast Asia, through the Himalaya, Caucasus Mountains, Balkan Mountains fold mountain range, the Alps, and ends in the Spanish mountains and the Atlas Mountains.[4] The belt also includes other European and Asian mountain ranges. The Himalayas contain the highest mountains in the world, including Mount Everest, which is high and traverses the border between China and Nepal.[5] World_Distribution_of_Mid-Oceanic_Ridges.gif, the world's longest mountain range (chain)]]
+The Alpide belt includes Indonesia and Southeast Asia, through the Himalaya, Caucasus Mountains, Balkan Mountains fold mountain range, the Alps, and ends in the Spanish mountains and the Atlas Mountains.[4] The belt also includes other European and Asian mountain ranges. The Himalayas contain the highest mountains in the world, including Mount Everest, which is high and traverses the border between China and Nepal.[5] , the world's longest mountain range (chain)]]
 
 Mountain ranges outside these two systems include the Arctic Cordillera, the Urals, the Appalachians, the Scandinavian Mountains, the Great Dividing Range, the Altai Mountains and the Hijaz Mountains. If the definition of a mountain range is stretched to include underwater mountains, then the Ocean Ridges form the longest continuous mountain system on Earth, with a length of .[6]
 
@@ -25,7 +25,7 @@ The parent-child expression extends to the sub-ranges themselves: the Sandwich R
 
 Climate
 
-Aerial_photo_of_the_Andes.jpg, the world's longest mountain range on the surface of a continent, seen from the air]] The position of mountains influences climate, such as rain or snow. When air masses move up and over mountains, the air cools producing orographic precipitation (rain or snow). As the air descends on the leeward side, it warms again (in accordance with the adiabatic lapse rate) and is drier, having been stripped of much of its moisture. Often, a rain shadow will affect the leeward side of a range.
+, the world's longest mountain range on the surface of a continent, seen from the air]] The position of mountains influences climate, such as rain or snow. When air masses move up and over mountains, the air cools producing orographic precipitation (rain or snow). As the air descends on the leeward side, it warms again (in accordance with the adiabatic lapse rate) and is drier, having been stripped of much of its moisture. Often, a rain shadow will affect the leeward side of a range.
 
 
 Erosion
@@ -39,7 +39,7 @@ Rivers are traditionally believed to be the principal cause of mountain range er
 
 Extraterrestrial "Montes"
 
-NH-Pluto-SputnikPlanum-HillaryMontes-NorgayMontes-20150714.jpg and Tenzing Montes on Pluto (14 July 2015)]] Montes_Apenninus_AS15-M-1423.jpg on the Moon was formed by an impact event.]] Mountains on other planets and natural satellites of the Solar System are often isolated and formed mainly by processes such as impacts, though there are examples of mountain ranges (or "Montes") somewhat similar to those on Earth. Saturn's moon Titan[9] and Pluto,[10] in particular exhibit large mountain ranges in chains composed mainly of ices rather than rock. Examples include the Mithrim Montes and Doom Mons on Titan, and Tenzing Montes and Hillary Montes on Pluto. Some terrestrial planets other than Earth also exhibit rocky mountain ranges, such as Maxwell Montes on Venus taller than any on Earth[11] and Tartarus Montes on Mars,[12] Jupiter's moon Io has mountain ranges formed from tectonic processes including Boösaule Montes, Dorian Montes, Hi'iaka Montes and Euboea Montes.[13]
+and Tenzing Montes on Pluto (14 July 2015)]] on the Moon was formed by an impact event.]] Mountains on other planets and natural satellites of the Solar System are often isolated and formed mainly by processes such as impacts, though there are examples of mountain ranges (or "Montes") somewhat similar to those on Earth. Saturn's moon Titan[9] and Pluto,[10] in particular exhibit large mountain ranges in chains composed mainly of ices rather than rock. Examples include the Mithrim Montes and Doom Mons on Titan, and Tenzing Montes and Hillary Montes on Pluto. Some terrestrial planets other than Earth also exhibit rocky mountain ranges, such as Maxwell Montes on Venus taller than any on Earth[11] and Tartarus Montes on Mars,[12] Jupiter's moon Io has mountain ranges formed from tectonic processes including Boösaule Montes, Dorian Montes, Hi'iaka Montes and Euboea Montes.[13]
 
 
 See also

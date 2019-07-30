@@ -83,7 +83,7 @@ Examples of work that can be computed from potential functions are gravity and s
 
 Potential energy for near Earth gravity
 
-Trebuchet.jpg uses the gravitational potential energy of the counterweight to throw projectiles over two hundred meters]]
+uses the gravitational potential energy of the counterweight to throw projectiles over two hundred meters]]
 
 For small height changes, gravitational potential energy can be computed using
 
@@ -99,7 +99,7 @@ where the integral of the vertical component of velocity is the vertical distanc
 
 Potential energy for a linear spring
 
-Springs_009.jpg are used for storing elastic potential energy]] Longbowmen.jpg is one of humankind's oldest applications of elastic potential energy]]
+are used for storing elastic potential energy]] is one of humankind's oldest applications of elastic potential energy]]
 
 A horizontal spring exerts a force F = (−_kx_, 0, 0) that is proportional to its deformation in the axial or _x_ direction. The work of this spring on a body moving along the space curve S(_t_) = (_x_(_t_), _y_(_t_), _z_(_t_)), is calculated using its velocity, V = (_v__(x), _v__(y), _v__(z)), to obtain
 
@@ -170,7 +170,7 @@ Gravitational potential energy
 
 Gravitational energy is the potential energy associated with gravitational force, as work is required to elevate objects against Earth's gravity. The potential energy due to elevated positions is called gravitational potential energy, and is evidenced by water in an elevated reservoir or kept behind a dam. If an object falls from one point to another point inside a gravitational field, the force of gravity will do positive work on the object, and the gravitational potential energy will decrease by the same amount.
 
-Solar_sys.jpg]]
+]]
 
 Consider a book placed on top of a table. As the book is raised from the floor to the table, some external force works against the gravitational force. If the book falls back to the floor, the "falling" energy the book receives is provided by the gravitational force. Thus, if the book falls off the table, this potential energy goes to accelerate the mass of the book and is converted into kinetic energy. When the book hits the floor this kinetic energy is converted into heat, deformation, and sound by the impact.
 
@@ -202,7 +202,7 @@ where _K_ is an arbitrary constant dependent on the choice of datum from which p
 
 Given this formula for _U_, the total potential energy of a system of _n_ bodies is found by summing, for all $\frac{n ( n - 1 )}{2}$ pairs of two bodies, the potential energy of the system of those two bodies.
 
-Gravitational_potential_summation_2.pngConsidering the system of bodies as the combined set of small particles the bodies consist of, and applying the previous on the particle level we get the negative gravitational binding energy. This potential energy is more strongly negative than the total potential energy of the system of bodies as such since it also includes the negative gravitational binding energy of each body. The potential energy of the system of bodies as such is the negative of the energy needed to separate the bodies from each other to infinity, while the gravitational binding energy is the energy needed to separate all particles from each other to infinity.
+Considering the system of bodies as the combined set of small particles the bodies consist of, and applying the previous on the particle level we get the negative gravitational binding energy. This potential energy is more strongly negative than the total potential energy of the system of bodies as such since it also includes the negative gravitational binding energy of each body. The potential energy of the system of bodies as such is the negative of the energy needed to separate the bodies from each other to infinity, while the gravitational binding energy is the energy needed to separate all particles from each other to infinity.
 
 $$U = - m \left(G \frac{ M_1}{r_1}+ G \frac{ M_2}{r_2}\right)$$
 therefore,
@@ -240,7 +240,7 @@ Electric potential energy
 
 An object can have potential energy by virtue of its electric charge and several forces related to their presence. There are two main types of this kind of potential energy: electrostatic potential energy, electrodynamic potential energy (also sometimes called magnetic potential energy).
 
-Plasma-lamp_2.jpg formed inside a gas filled sphere]]
+formed inside a gas filled sphere]]
 
 Electrostatic potential energy
 

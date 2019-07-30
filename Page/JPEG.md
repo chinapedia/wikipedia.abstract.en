@@ -1,4 +1,4 @@
-Continuously_varied_JPEG_compression_for_an_abdominal_CT_scan_-_1471-2342-12-24-S1.ogv CT scan]]
+CT scan]]
 
 JPEG ( )[1] is a commonly used method of lossy compression for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality.[2]
 
@@ -192,8 +192,6 @@ If the data for a channel does not represent an integer number of blocks then th
 
 Discrete cosine transform
 
-JPEG_example_subimage.svg
-
 Next, each 8×8 block of each component (Y, Cb, Cr) is converted to a frequency-domain representation, using a normalized, two-dimensional type-II discrete cosine transform (DCT), see Citation 1 in discrete cosine transform. The DCT is sometimes referred to as "type-II DCT" in the context of a family of transforms as in discrete cosine transform, and the corresponding inverse (IDCT) is denoted as "type-III DCT".
 
 As an example, one such 8×8 8-bit subimage might be:
@@ -234,7 +232,7 @@ x \\
 \end{array}
 \Bigg\downarrow y.$$
 
-Dctjpeg.png of these 64 patterns. The patterns are referred to as the two-dimensional DCT _basis functions_, and the output values are referred to as _transform coefficients_. The horizontal index is u and the vertical index is v.]]
+of these 64 patterns. The patterns are referred to as the two-dimensional DCT _basis functions_, and the output values are referred to as _transform coefficients_. The horizontal index is u and the vertical index is v.]]
 
 The next step is to take the two-dimensional DCT, which is given by:
 
@@ -313,7 +311,7 @@ $$B_{j,k} = \mathrm{round} \left( \frac{G_{j,k}}{Q_{j,k}} \right) \mbox{ for } j
 
 where G is the unquantized DCT coefficients; Q is the quantization matrix above; and B is the quantized DCT coefficients.
 
-Using this quantization matrix with the DCT coefficient matrix from above results in: idct-animation.gif
+Using this quantization matrix with the DCT coefficient matrix from above results in:
 
 $$B=
 \left[
@@ -347,8 +345,6 @@ Notice that most of the higher-frequency elements of the sub-block (i.e., those 
 
 Entropy coding
 
-JPEG_ZigZag.svg
-
 Entropy coding is a special form of lossless data compression. It involves arranging the image components in a "zigzag" order employing run-length encoding (RLE) algorithm that groups similar frequencies together, inserting length coding zeros, and then using Huffman coding on what is left.
 
 The JPEG standard also allows, but does not require, decoders to support the use of arithmetic coding, which is mathematically superior to Huffman coding. However, this feature has rarely been used, as it was historically covered by patents requiring royalty-bearing licenses, and because it is slower to encode and decode compared to Huffman coding. Arithmetic coding typically makes files about 5–7% smaller.
@@ -362,8 +358,6 @@ The zigzag sequence for the above quantized coefficients are shown below. (The f
 |- |style="width: 2em"| −26 || style="width: 2em"| || style="width: 2em"| || style="width: 2em"| || style="width: 2em"| || style="width: 2em"| || style="width: 2em"| || style="width: 2em"| |- | −3 || 0 |- | −3 || −2 || −6 |- | 2 || −4 || 1 || −3 |- | 1 || 1 || 5 || 1 || 2 |- | −1 || 1 || −1 || 2 || 0 || 0 |- | 0 || 0 || 0 || −1 || −1 || 0 || 0 |- | 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 |- | 0 || 0 || 0 || 0 || 0 || 0 || 0 |- | 0 || 0 || 0 || 0 || 0 || 0 |- | 0 || 0 || 0 || 0 || 0 |- | 0 || 0 || 0 || 0 |- | 0 || 0 || 0 |- | 0 || 0 |- | 0 |}
 
 If the _i_-th block is represented by B_(i) and positions within each block are represented by (p, q) where p = 0, 1, ..., 7 and q = 0, 1, ..., 7, then any coefficient in the DCT image can be represented as B_(i)(p, q). Thus, in the above scheme, the order of encoding pixels (for the -th block) is B_(i)(0, 0), B_(i)(0, 1), B_(i)(1, 0), B_(i)(2, 0), B_(i)(1, 1), B_(i)(0, 2), B_(i)(0, 3), B_(i)(1, 2) and so on.
-
-JPEG_process.svg
 
 This encoding mode is called baseline _sequential_ encoding. Baseline JPEG also supports _progressive_ encoding. While sequential encoding encodes coefficients of a single block at a time (in a zigzag manner), progressive encoding encodes similar-positioned batch of coefficients of all blocks in one go (called a _scan_), followed by the next batch of coefficients of all blocks, and so on. For example, if the image is divided into N 8×8 blocks B₀, B₁, B₂, ..., B_(n − 1), then a 3-scan progressive encoding encodes DC component, B_(i)(0, 0) for all blocks, i.e., for all i = 0, 1, 2, ..., N − 1, in first scan. This is followed by the second scan which encoding a few more components (assuming four more components, they are B_(i)(0, 1) to B_(i)(1, 1), still in a zigzag manner) coefficients of all blocks (so the sequence is: B₀(0, 1), B₀(1, 0), B₀(2, 0), B₀(1, 1), B₁(0, 1), B₁(1, 0), ..., B_(N)(2, 0), B_(N)(1, 1)), followed by all the remained coefficients of all blocks in the last scan.
 
@@ -404,7 +398,7 @@ From here, frequency calculations are made based on occurrences of the coefficie
 
 Compression ratio and artifacts
 
-Lichtenstein_jpeg_difference.png Lichtenstein_img_processing_test.png Jpegvergroessert.jpg.]]
+.]]
 
 The resulting compression ratio can be varied according to need by being more or less aggressive in the divisors used in the quantization phase. Ten to one compression usually results in an image that cannot be distinguished by eye from the original. A compression ratio of 100:1 is usually possible, but will look distinctly artifacted compared to the original. The appropriate level of compression depends on the use to which the image will be put.
 
@@ -412,14 +406,14 @@ Those who use the World Wide Web may be familiar with the irregularities known a
 
 These artifacts can be reduced by choosing a lower level of compression; they may be completely avoided by saving an image using a lossless file format, though this will result in a larger file size. The images created with ray-tracing programs have noticeable blocky shapes on the terrain. Certain low-intensity compression artifacts might be acceptable when simply viewing the images, but can be emphasized if the image is subsequently processed, usually resulting in unacceptable quality. Consider the example below, demonstrating the effect of lossy compression on an edge detection processing step.
 
-+---------------------+---------------------------+------------------------+
-| Image               | Lossless compression      | Lossy compression      |
-+=====================+===========================+========================+
-| Original            | Lossless-circle.png       | Lossy-circle.jpg       |
-+---------------------+---------------------------+------------------------+
-| Processed by        | Lossless-circle-canny.png | Lossy-circle-canny.png |
-| Canny edge detector |                           |                        |
-+---------------------+---------------------------+------------------------+
++---------------------+----------------------+-------------------+
+| Image               | Lossless compression | Lossy compression |
++=====================+======================+===================+
+| Original            |                      |                   |
++---------------------+----------------------+-------------------+
+| Processed by        |                      |                   |
+| Canny edge detector |                      |                   |
++---------------------+----------------------+-------------------+
 
 Some programs allow the user to vary the amount by which individual blocks are compressed. Stronger compression is applied to areas of the image that show fewer artifacts. This way it is possible to manually reduce JPEG file size with less loss of quality.
 
@@ -549,15 +543,13 @@ JPEG compression artifacts blend well into photographs with detailed non-uniform
 
 Sample photographs
 
-Visual_impact_of_a_jpeg_compression_on_Photoshop.jpg
-
 For information, the uncompressed 24-bit RGB bitmap image below (73,242 pixels) would require 219,726 bytes (excluding all other information headers). The filesizes indicated below include the internal JPEG information headers and some metadata. For highest quality images (Q=100), about 8.25 bits per color pixel is required. On grayscale images, a minimum of 6.5 bits per pixel is enough (a comparable Q=100 quality color information requires about 25% more encoded bits). The highest quality image below (Q=100) is encoded at nine bits per color pixel, the medium quality image (Q=25) uses one bit per color pixel. For most applications, the quality factor should not go below 0.75 bit per pixel (Q=12.5), as demonstrated by the low quality image. The image at lowest quality uses only 0.13 bit per pixel, and displays very poor color. This is useful when the image will be displayed in a significantly scaled-down size. A method for creating better quantization matrices for a given image quality using PSNR instead of the Q factor is described in Minguillón & Pujol (2001).[42]
 
 
 
         {| class="wikitable"
 
-|+ align="bottom"| Note: The above images are not IEEE / CCIR / EBU test images, and the encoder settings are not specified or available. |- ! Image !! Quality !! Size (bytes) !! Compression ratio !! Comment |- | JPEG_example_JPG_RIP_100.jpg | Highest quality (Q = 100) | 81,447 | 2.7:1 | Extremely minor artifacts |- | JPEG_example_JPG_RIP_050.jpg | High quality (Q = 50) | 14,679 | 15:1 | Initial signs of subimage artifacts |- | JPEG_example_JPG_RIP_025.jpg | Medium quality (Q = 25) | 9,407 | 23:1 | Stronger artifacts; loss of high frequency information |- | JPEG_example_JPG_RIP_010.jpg | Low quality (Q = 10) | 4,787 | 46:1 | Severe high frequency loss leads to obvious artifacts on subimage boundaries ("macroblocking") |- | JPEG_example_JPG_RIP_001.jpg | Lowest quality (Q = 1) | 1,523 | 144:1 | Extreme loss of color and detail; the leaves are nearly unrecognizable. |}
+|+ align="bottom"| Note: The above images are not IEEE / CCIR / EBU test images, and the encoder settings are not specified or available. |- ! Image !! Quality !! Size (bytes) !! Compression ratio !! Comment |- | | Highest quality (Q = 100) | 81,447 | 2.7:1 | Extremely minor artifacts |- | | High quality (Q = 50) | 14,679 | 15:1 | Initial signs of subimage artifacts |- | | Medium quality (Q = 25) | 9,407 | 23:1 | Stronger artifacts; loss of high frequency information |- | | Low quality (Q = 10) | 4,787 | 46:1 | Severe high frequency loss leads to obvious artifacts on subimage boundaries ("macroblocking") |- | | Lowest quality (Q = 1) | 1,523 | 144:1 | Extreme loss of color and detail; the leaves are nearly unrecognizable. |}
 
 The medium quality photo uses only 4.3% of the storage space required for the uncompressed image, but has little noticeable loss of detail or visible artifacts. However, once a certain threshold of compression is passed, compressed images show increasingly visible defects. See the article on rate–distortion theory for a mathematical explanation of this threshold effect. A particular limitation of JPEG in this regard is its non-overlapped 8×8 block transform structure. More modern designs such as JPEG 2000 and JPEG XR exhibit a more graceful degradation of quality as the bit usage decreases – by using transforms with a larger spatial extent for the lower frequency coefficients and by using overlapping transform basis functions.
 
@@ -584,7 +576,7 @@ Derived formats for stereoscopic 3D
 
 JPEG Stereoscopic
 
-JPS-sample.jpg JPS is a stereoscopic JPEG image used for creating 3D effects from 2D images. It contains two static images, one for the left eye and one for the right eye; encoded as two side-by-side images in a single JPG file. JPEG Stereoscopic (JPS, extension .jps) is a JPEG-based format for stereoscopic images.[55][56] It has a range of configurations stored in the JPEG APP3 marker field, but usually contains one image of double width, representing two images of identical size in cross-eyed (i.e. left frame on the right half of the image and vice versa) side-by-side arrangement. This file format can be viewed as a JPEG without any special software, or can be processed for rendering in other modes.
+JPS is a stereoscopic JPEG image used for creating 3D effects from 2D images. It contains two static images, one for the left eye and one for the right eye; encoded as two side-by-side images in a single JPG file. JPEG Stereoscopic (JPS, extension .jps) is a JPEG-based format for stereoscopic images.[55][56] It has a range of configurations stored in the JPEG APP3 marker field, but usually contains one image of double width, representing two images of identical size in cross-eyed (i.e. left frame on the right half of the image and vice versa) side-by-side arrangement. This file format can be viewed as a JPEG without any special software, or can be processed for rendering in other modes.
 
 JPEG Multi-Picture Format
 

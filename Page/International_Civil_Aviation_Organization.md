@@ -23,8 +23,6 @@ The 9th edition of the Convention on International Civil Aviation includes modif
 
 Membership
 
-ICAO.png
-
 , there are 193 ICAO members, consisting of 192 of the 193 UN members (all but Liechtenstein, which lacks an international airport), plus the Cook Islands.[15][16]
 
 Despite Liechtenstein not being a direct party to ICAO, its government has delegated Switzerland to enter into the treaty on its behalf, and the treaty applies in the territory of Liechtenstein.[17]
@@ -34,7 +32,7 @@ The Republic of China was a founding member of ICAO but was replaced by People's
 
 Council
 
-The Council of ICAO is elected by the Assembly every 3 years and consists of 36 members elected in 3 groups. The present Council was elected on 4 October 2016 at the 39th Assembly of ICAO at Montreal. [18] ICAO-2016.svg The structure of the present Council is as follows:
+The Council of ICAO is elected by the Assembly every 3 years and consists of 36 members elected in 3 groups. The present Council was elected on 4 October 2016 at the 39th Assembly of ICAO at Montreal. [18] The structure of the present Council is as follows:
 
 +----------------------------------------------+--------------------------------------------------+------------------------------------------------------+
 | Group I (chief importance)                   | Group II (large contributions)                   | Group III (geographic representation)                |
@@ -117,7 +115,7 @@ ICAO is also responsible for issuing 2-4 character alphanumeric _aircraft type d
 
 Regions and regional offices
 
-La_Maison_de_l-OACI_-_11a.jpg, Canada]] ICAO has a headquarters, seven regional offices, and one regional sub-office:[29]
+, Canada]] ICAO has a headquarters, seven regional offices, and one regional sub-office:[29]
 
 -   Headquarters – Montreal, Quebec, Canada
 -   Asia and Pacific (APAC) – Bangkok, Thailand; Sub-office – Beijing, China
@@ -163,7 +161,7 @@ List of Secretaries General
 
 List of Council Presidents
 
-OACIPresidentDesk.jpg at his desk in 2007]]
+at his desk in 2007]]
 
 +------------------------+------------------------+--------------+
 | President              | Country of Nationality | Term         |

@@ -1,4 +1,4 @@
-Paradesia_decora_Keulemans.jpg in Goldie's bird-of-paradise. Male above; female below. Painting by John Gerrard Keulemans (d.1912)]] Sexual_Selection_with_Peafowl.gif
+in Goldie's bird-of-paradise. Male above; female below. Painting by John Gerrard Keulemans (d.1912)]]
 
 SEXUAL SELECTION is a mode of natural selection in which members of one biological sex choose mates of the other sex to mate with (intersexual selection), and compete with members of the same sex for access to members of the opposite sex (intrasexual selection). These two forms of selection mean that some individuals have better reproductive success than others within a population, either because they are more attractive or prefer more attractive partners to produce offspring.[1][2] For instance, in the breeding season, sexual selection in frogs occurs with the males first gathering at the water's edge and making their mating calls: croaking. The females then arrive and choose the males with the deepest croaks and best territories. In general, males benefit from frequent mating and monopolizing access to a group of fertile females. Females can have a limited number of offspring and maximize the return on the energy they invest in reproduction.
 
@@ -19,13 +19,13 @@ Ronald Fisher
 
 Ronald Fisher, the English statistician and evolutionary biologist developed a number of ideas about sexual selection in his 1930 book _The Genetical Theory of Natural Selection_ including the sexy son hypothesis and Fisher's principle. The Fisherian runaway describes how sexual selection accelerates the preference for a specific ornament, causing the preferred trait and female preference for it to increase together in a positive feedback runaway cycle. In a remark that was not widely understood[9] for another 50 years he said:
 
-South_Africa-Tshwane-Rietvlei-Long-tailed_Widowbird-01_cropped.jpg]]
+]]
 
 This causes a dramatic increase in both the male's conspicuous feature and in female preference for it, resulting in marked sexual dimorphism, until practical physical constraints halt further exaggeration. A positive feedback loop is created, producing extravagant physical structures in the non-limiting sex. A classic example of female choice and potential runaway selection is the long-tailed widowbird. While males have long tails that are selected for by female choice, female tastes in tail length are still more extreme with females being attracted to tails longer than those that naturally occur.[10] Fisher understood that female preference for long tails may be passed on genetically, in conjunction with genes for the long tail itself. Long-tailed widowbird offspring of both sexes inherit both sets of genes, with females expressing their genetic preference for long tails, and males showing off the coveted long tail itself.[11]
 
 Richard Dawkins presents a non-mathematical explanation of the runaway sexual selection process in his book _The Blind Watchmaker_.[12] Females that prefer long tailed males tend to have mothers that chose long-tailed fathers. As a result, they carry both sets of genes in their bodies. That is, genes for long tails and for preferring long tails become linked. The taste for long tails and tail length itself may therefore become correlated, tending to increase together. The more tails lengthen, the more long tails are desired. Any slight initial imbalance between taste and tails may set off an explosion in tail lengths. Fisher wrote that:
 
-Peacock_Flying.jpg]]
+]]
 
 The female widow bird chooses to mate with the most attractive long-tailed male so that her progeny, if male, will themselves be attractive to females of the next generation - thereby fathering many offspring that carry the female's genes. Since the rate of change in preference is proportional to the average taste amongst females, and as females desire to secure the services of the most sexually attractive males, an additive effect is created that, if unchecked, can yield exponential increases in a given taste and in the corresponding desired sexual attribute.
 
@@ -36,7 +36,7 @@ Theory
 
 Reproductive success
 
-Irish_Elk_front.jpg (_Megaloceros giganteus_). These antlers span and have a mass of .]]
+(_Megaloceros giganteus_). These antlers span and have a mass of .]]
 
 The reproductive success of an organism is measured by the number of offspring left behind, and their quality or probable fitness.
 
@@ -46,11 +46,9 @@ The conditions determining which sex becomes the more limited resource in inters
 
 Modern interpretation
 
-Susa_group,_mountain_gorilla.jpg, a tournament species]] The sciences of evolutionary psychology, human behavioural ecology, and sociobiology study the influence of sexual selection in humans.
+, a tournament species]] The sciences of evolutionary psychology, human behavioural ecology, and sociobiology study the influence of sexual selection in humans.
 
 Darwin's ideas on sexual selection were met with scepticism by his contemporaries and not considered of great importance in the early 20th century, until in the 1930s biologists decided to include sexual selection as a mode of natural selection.[15] Only in the 21st century have they become more important in biology.[16] The theory however is generally applicable and analogous to natural selection.[17]
-
-Tribolium_castaneum87-300.jpg Tungara_frog_(Physalaemus_pustulosus).jpg
 
 Research in 2015 indicates that sexual selection, including mate choice, "improves population health and protects against extinction, even in the face of genetic stress from high levels of inbreeding" and "ultimately dictates who gets to reproduce their genes into the next generation - so it's a widespread and very powerful evolutionary force." The study involved the flour beetle over a ten-year period where the only changes were in the intensity of sexual selection.[18]
 
@@ -64,7 +62,7 @@ Several workers have brought attention to the fact that elaborated characters th
 
 Toolkit of natural selection
 
-Protarchaeopteryx_4713.JPG'' - skull based on _Incisivosaurus_ and wings on _Caudipteryx_]]
+'' - skull based on _Incisivosaurus_ and wings on _Caudipteryx_]]
 
 Sexual selection may explain how certain characteristics (such as feathers) had distinct survival value at an early stage in their evolution. Geoffrey Miller proposes that sexual selection might have contributed by creating evolutionary modules such as _Archaeopteryx_ feathers as sexual ornaments, at first. The earliest proto-birds such as China's _Protarchaeopteryx_, discovered in the early 1990s, had well-developed feathers but no sign of the top/bottom asymmetry that gives wings lift. Some have suggested that the feathers served as insulation, helping females incubate their eggs. But perhaps the feathers served as the kinds of sexual ornaments still common in most bird species, and especially in birds such as peacocks and birds-of-paradise today. If proto-bird courtship displays combined displays of forelimb feathers with energetic jumps, then the transition from display to aerodynamic functions could have been relatively smooth.[23]
 
@@ -74,7 +72,7 @@ Sexual dimorphism
 
 Sex differences directly related to reproduction and serving no direct purpose in courtship are called primary sexual characteristics. Traits amenable to sexual selection, which give an organism an advantage over its rivals (such as in courtship) without being directly involved in reproduction, are called secondary sex characteristics.
 
-Descent_of_Man_-_Figure_16.jpg is a classic case of sexual dimorphism. Plate from Darwin's _Descent of Man_, male at top, female at bottom]]
+is a classic case of sexual dimorphism. Plate from Darwin's _Descent of Man_, male at top, female at bottom]]
 
 In most sexual species the males and females have different equilibrium strategies, due to a difference in relative investment in producing offspring. As formulated in Bateman's principle, females have a greater initial investment in producing offspring (pregnancy in mammals or the production of the egg in birds and reptiles), and this difference in initial investment creates differences in variance in expected reproductive success and bootstraps the sexual selection processes. Classic examples of reversed sex-role species include the pipefish, and Wilson's phalarope[29]. Also, unlike a female, a male (except in monogamous species) has some uncertainty about whether or not he is the true parent of a child, and so is less interested in spending his energy helping to raise offspring that may or may not be related to him. As a result of these factors, males are typically more willing to mate than females, and so females are typically the ones doing the choosing (except in cases of forced copulations, which can occur in certain species of primates, ducks, and others). The effects of sexual selection are thus held to typically be more pronounced in males than in females.
 
@@ -89,7 +87,7 @@ Conditions that Influence Competition
 
 Sex Ratio
 
-Oryzias_latipes(Hamamatsu,Shizuoka,Japan,2007)-1.jpg There are multiple types of male-male competition that may occur in a population at different times depending on the conditions. Competition variation occurs based on the frequency of various mating behaviours present in the population.[33] One factor that can influence the type of competition observed is the population density of males.[34] When there is a high density of males present in the population, competition tends to be less aggressive and therefore sneak tactics and disruptions techniques are more often employed.[35] These techniques often indicate a type of competition referred to as scramble competition.[36] In Japanese medaka, _Oryzias latipes_, sneaking behaviours refer to when a male interrupts a mating pair during copulation by grasping on to either the male or the female and releasing their own sperm in the hopes of being the one to fertilize the female.[37] Disruption is a technique which involves one male bumping the male that is copulating with the female away just before his sperm is released and the eggs are fertilized.[38]
+There are multiple types of male-male competition that may occur in a population at different times depending on the conditions. Competition variation occurs based on the frequency of various mating behaviours present in the population.[33] One factor that can influence the type of competition observed is the population density of males.[34] When there is a high density of males present in the population, competition tends to be less aggressive and therefore sneak tactics and disruptions techniques are more often employed.[35] These techniques often indicate a type of competition referred to as scramble competition.[36] In Japanese medaka, _Oryzias latipes_, sneaking behaviours refer to when a male interrupts a mating pair during copulation by grasping on to either the male or the female and releasing their own sperm in the hopes of being the one to fertilize the female.[37] Disruption is a technique which involves one male bumping the male that is copulating with the female away just before his sperm is released and the eggs are fertilized.[38]
 
 However, all techniques are not equally successful when in competition for reproductive success. Disruption results in a shorter copulation period and can therefore disrupt the fertilization of the eggs by the sperm, which frequently results in lower rates of fertilization and smaller clutch size.[39]
 
@@ -109,7 +107,7 @@ However, group mating in Japanese medaka has been shown to positively affect the
 
 Examples
 
-Narnia_femorata_P1080912a.jpg In Japanese medaka, females mate daily during mating season.[55] Males compete for the opportunity to mate with the female by displaying themselves aggressively and chasing each other.[56] To obtain the selection of the females, they court the females prior to copulation by performing a courting behaviour referred to as "quick circles".[57]
+In Japanese medaka, females mate daily during mating season.[55] Males compete for the opportunity to mate with the female by displaying themselves aggressively and chasing each other.[56] To obtain the selection of the females, they court the females prior to copulation by performing a courting behaviour referred to as "quick circles".[57]
 
 In leaf-footed cactus bugs, _Narnia femorata_, males compete for territories where females can lay their eggs.[58] Males compete more intensely for cacti territories with fruit to attract females. [59] In this species, the males possess sexually dimorphic traits, such as their larger size and hind legs, which are used to gain the most advantage over competitors when females are present, but are not used in the absence of females.
 
@@ -118,25 +116,23 @@ Anuran (such as frogs) select habitats (pools) free of conspecifics in order to 
 
 In different taxa
 
-Monachoides_vicinus_dart_lateral.jpg image of lateral view of a love dart of the land snail _Monachoides vicinus_. The scale bar is 500 μm (0.5 mm).]]
+image of lateral view of a love dart of the land snail _Monachoides vicinus_. The scale bar is 500 μm (0.5 mm).]]
 
 -   Sexual selection in birds - mammals - humans -scaled reptiles - amphibians - insects - spiders - major histocompatibility complex
 
-Spermatozoa-human-3140x.jpg
-
 Sexual selection has been observed to occur in plants, animals and fungi.[62] In certain hermaphroditic snail and slug species of molluscs the throwing of love darts is a form of sexual selection.[63] Certain male insects of the lepidoptera order of insects cement the vaginal pores of their females.[64]
 
-Traumatic_insemination_1_edit1.jpg (_Cimex lectularius_) traumatically inseminates a female bed bug (top). The female's ventral carapace is visibly cracked around the point of insemination.]]
+(_Cimex lectularius_) traumatically inseminates a female bed bug (top). The female's ventral carapace is visibly cracked around the point of insemination.]]
 
 Today, biologists say that certain evolutionary traits can be explained by intraspecific competition - competition between members of the same species - distinguishing between competition before or after sexual intercourse.
 
-Descent_of_Man_fig48.jpg _Lophornis ornatus_: female on left, ornamented male on right]]
+_Lophornis ornatus_: female on left, ornamented male on right]]
 
 Before copulation, _intrasexual selection_ - usually between males - may take the form of _male-to-male combat_. Also, _intersexual selection_, or _mate choice_, occurs when females choose between male mates.[65] Traits selected by male combat are called secondary sexual characteristics (including horns, antlers, etc.), which Darwin described as "weapons", while traits selected by mate (usually female) choice are called "ornaments". Due to their sometimes greatly exaggerated nature, secondary sexual characteristics can prove to be a hindrance to an animal, thereby lowering its chances of survival. For example, the large antlers of a moose are bulky and heavy and slow the creature's flight from predators; they also can become entangled in low-hanging tree branches and shrubs, and undoubtedly have led to the demise of many individuals. Bright colourations and showy ornamenations, such as those seen in many male birds, in addition to capturing the eyes of females, also attract the attention of predators. Some of these traits also represent energetically costly investments for the animals that bear them. Because traits held to be due to sexual selection often conflict with the survival fitness of the individual, the question then arises as to why, in nature, in which survival of the fittest is considered the rule of thumb, such apparent liabilities are allowed to persist. However, one must also consider that intersexual selection can occur with an emphasis on resources that one sex possesses rather than morphological and physiological differences. For example, males of _Euglossa imperialis_, a non-social bee species, form aggregations of territories considered to be leks, to defend fragrant-rich primary territories. The purpose of these aggregations is only facultative, since the more suitable fragrant-rich sites there are, the more habitable territories there are to inhabit, giving females of this species a large selection of males with whom to potentially mate.[66]
 
 After copulation, male–male competition distinct from conventional aggression may take the form of sperm competition, as described by Parker[67] in 1970. More recently, interest has arisen in _cryptic_ female choice,[68] a phenomenon of internally fertilised animals such as mammals and birds, where a female can get rid of a male's sperm without his knowledge.
 
-Darwin_sexual_caricature.gif in the latest fashion.]]
+in the latest fashion.]]
 
 Finally, sexual conflict is said to occur between breeding partners,[69] sometimes leading to an evolutionary arms race between males and females. Sexual selection can also occur as a product of pheromone release, such as with the stingless bee, _Trigona corvina_.[70]
 

@@ -7,7 +7,7 @@ History
 
 Modern Korean descends from Middle Korean, which in turn descends from Old Korean, which descends from the Proto-Koreanic language which is generally suggested to have its linguistic homeland somewhere in Manchuria.[8][9] Whitman (2012) suggests that the proto-Koreans, already present in northern Korea, expanded into the southern part of the Korean Peninsula at around 300 BCe and coexist with the descendants of the Japonic Mumun cultivators (or assimilated them). Both had influence on each other and a later founder effect diminished the internal variety of both language families.[10]
 
-The_oldest_Korean_dictionary.jpg Chinese characters arrived in Korea (see Sino-Xenic pronunciations for further information) together with Buddhism during the Proto-Three Kingdoms era in the 1st century BC. It was adapted for Korean and became known as Hanja, and remained as the main script for writing Korean through over a millennium alongside various phonetic scripts that were later invented such as Idu, Gugyeol and Hyangchal. Mainly privileged elites were educated to read and write in Hanja. However, most of the population was illiterate. In the 15th century, King Sejong the Great personally developed an alphabetic featural writing system known today as Hangul.[11][12] He felt that Hanja was inadequate to write Korean and that this was the cause of its very restricted use; Hangul was designed to either aid in reading Hanja or replace Hanja entirely. Introduced in the document "_Hunminjeongeum_", it was called "_eonmun_" (colloquial script) and quickly spread nationwide to increase literacy in Korea. Hangul was widely used by all the Korean classes but often treated as "_amkeul_" (script for female) and disregarded by privileged elites, whereas Hanja was regarded as "_jinseo_" (true text). Consequently, official documents were always written in Hanja during the Joseon era. Since most people couldn't understand Hanja, Korean kings sometimes released public notices entirely written in Hangul as early as the 16th century for all Korean classes, including uneducated peasants and slaves.[13] By the 17th century, Korean elites Yangban and their slaves exchanged Hangul letters; that indicates a high literacy rate of Hangul during the Joseon era.[14] Today, Hanja is largely unused in everyday life due to its inconvenience, but it is still important for historical and linguistic studies. Neither South Korea or North Korea opposes the learning of Hanja, though they are not officially used in North Korea anymore, and their usage in South Korea is mainly reserved for specific circumstances, such as newspapers, scholarly papers, and disambiguation.
+Chinese characters arrived in Korea (see Sino-Xenic pronunciations for further information) together with Buddhism during the Proto-Three Kingdoms era in the 1st century BC. It was adapted for Korean and became known as Hanja, and remained as the main script for writing Korean through over a millennium alongside various phonetic scripts that were later invented such as Idu, Gugyeol and Hyangchal. Mainly privileged elites were educated to read and write in Hanja. However, most of the population was illiterate. In the 15th century, King Sejong the Great personally developed an alphabetic featural writing system known today as Hangul.[11][12] He felt that Hanja was inadequate to write Korean and that this was the cause of its very restricted use; Hangul was designed to either aid in reading Hanja or replace Hanja entirely. Introduced in the document "_Hunminjeongeum_", it was called "_eonmun_" (colloquial script) and quickly spread nationwide to increase literacy in Korea. Hangul was widely used by all the Korean classes but often treated as "_amkeul_" (script for female) and disregarded by privileged elites, whereas Hanja was regarded as "_jinseo_" (true text). Consequently, official documents were always written in Hanja during the Joseon era. Since most people couldn't understand Hanja, Korean kings sometimes released public notices entirely written in Hangul as early as the 16th century for all Korean classes, including uneducated peasants and slaves.[13] By the 17th century, Korean elites Yangban and their slaves exchanged Hangul letters; that indicates a high literacy rate of Hangul during the Joseon era.[14] Today, Hanja is largely unused in everyday life due to its inconvenience, but it is still important for historical and linguistic studies. Neither South Korea or North Korea opposes the learning of Hanja, though they are not officially used in North Korea anymore, and their usage in South Korea is mainly reserved for specific circumstances, such as newspapers, scholarly papers, and disambiguation.
 
 Since the Korean War, through 70 years of separation, the North–South differences have developed in standard Korean, including variations in pronunciation and vocabulary chosen, but these minor differences can be found in any of the Korean dialects and still largely mutually intelligible.
 
@@ -56,7 +56,7 @@ Korean is spoken by the Korean people in North Korea and South Korea and by the 
 
 Official status
 
-AH1sign-Daegu,Korea.jpg Korean is the official language of North Korea and South Korea. It is also one of the two official languages of the Yanbian Korean Autonomous Prefecture in China.
+Korean is the official language of North Korea and South Korea. It is also one of the two official languages of the Yanbian Korean Autonomous Prefecture in China.
 
 In North Korea, the regulatory body is the Language Institute of the Academy of Social Sciences (, _Sahui Gwahagweon Eohag Yeonguso_). In South Korea, the regulatory body for Korean is the Seoul-based National Institute of the Korean Language, which was created by presidential decree on January 23, 1991.
 
@@ -77,8 +77,6 @@ The institute is sometimes compared to language and culture promotion organizati
 
 
 Dialects
-
-Koreandialects.png
 
 Korean has numerous small local dialects (called _mal_ () [literally "speech"], _saturi_ (), or _bang'eon_ ( in Korean). The standard language (_pyojun-eo_ or _pyojun-mal_) of both South Korea and North Korea is based on the dialect of the area around Seoul (which, as Hanyang, was the capital of Joseon-era Korea for 500 years), though the northern standard after the Korean War has been influenced by the dialect of P'yŏngyang. All dialects of Korean are similar to each other and largely mutually intelligible (with the exception of dialect-specific phrases or non-Standard vocabulary unique to dialects), though the dialect of Jeju Island is divergent enough to be sometimes classified as a separate language.[39][40][41] One of the more salient differences between dialects is the use of tone: speakers of the Seoul dialect make use of vowel length, whereas speakers of the Gyeongsang dialect maintain the pitch accent of Middle Korean. Some dialects are conservative, maintaining Middle Korean sounds (such as _z, β, ə_) which have been lost from the standard language, whereas others are highly innovative.
 
@@ -103,11 +101,7 @@ Aside from the standard language, there are few clear boundaries between Korean 
 
 Phonology
 
-Ko-구매자는_판매자에게_제품_대금으로_20달러를_지급하여야_한다.ogg
-
 Consonants
-
-Korean_consonants.svg
 
 +-------------+----------+--------------------------+--------+---------+
 |             | Bilabial | Alveolar/Alveolo-palatal | Dorsal | Glottal |
@@ -141,9 +135,9 @@ The IPA symbol (a subscript double straight quotation mark, shown here with a pl
 
 Vowels
 
-  -------------- -------------- -------------------
-  upright=1.13   upright=1.13   Korean_vowels.svg
-  -------------- -------------- -------------------
+  -------------- -------------- --
+  upright=1.13   upright=1.13
+  -------------- -------------- --
 
 +------------------------------------+---------------------------------------------+
 | Monophthongs                       | ,   ,   ,   ,   ,   ,   ,   ,   ,           |
@@ -274,7 +268,7 @@ North Korean vocabulary shows a tendency to prefer native Korean over Sino-Korea
 
 Writing system
 
-Yeongdong_Expressway_Entrance_Sign_in_Wonju_Interchange.JPG used for foreigners in South Korea]]
+used for foreigners in South Korea]]
 
 Before the creation of the modern Korean alphabet, known as Chosŏn'gŭl in North Korea and as Hangul in South Korea, people in Korea (known as Joseon at the time) primarily wrote using Classical Chinese alongside native phonetic writing systems that predate Hangul by hundreds of years, including idu, hyangchal, gugyeol, and gakpil.[57][58][59][60] However, due to the fundamental differences between the Korean and Chinese languages and the large number of characters to be learned, the lower classes, who often didn't have the privilege of education, had much difficulty in learning how to write using Chinese characters. To assuage this problem, King Sejong () created the unique alphabet known as Hangul to promote literacy among the common people.[61]
 

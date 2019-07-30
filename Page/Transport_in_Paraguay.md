@@ -3,7 +3,7 @@ PARAGUAY'S TRANSPORTATION SYSTEM ranges from adequate to poor, largely depending
 
 Roads in Paraguay
 
-Rutas_Nacionales_del_Paraguay.PNG Estimates vary on the total extent of Paraguay's road system, from more than to less than . The discrepancies seem to be the result of differing standards regarding what constitutes a road. Thousands of kilometers of unpaved rural roads exist. Paraguay has about of paved, major feeder roads. The core network connects Asunción, Encarnación, and Ciudad del Este. The Trans-Chaco highway is only partially finished, the paved portion ending at Mariscal Estigarribia. Bolivia{{’}}s portion of the highway, in contrast, is entirely paved. For trade purposes, the paved highways from Ciudad del Este to the Brazilian port of Paranaguá are particularly important. Additionally, the roads connecting Paraguay to Buenos Aires are adequate.[2]
+Estimates vary on the total extent of Paraguay's road system, from more than to less than . The discrepancies seem to be the result of differing standards regarding what constitutes a road. Thousands of kilometers of unpaved rural roads exist. Paraguay has about of paved, major feeder roads. The core network connects Asunción, Encarnación, and Ciudad del Este. The Trans-Chaco highway is only partially finished, the paved portion ending at Mariscal Estigarribia. Bolivia{{’}}s portion of the highway, in contrast, is entirely paved. For trade purposes, the paved highways from Ciudad del Este to the Brazilian port of Paranaguá are particularly important. Additionally, the roads connecting Paraguay to Buenos Aires are adequate.[2]
 
   ------------------------------ -----------------
           CLASSIFICATION              LENGTH

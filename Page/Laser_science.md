@@ -1,4 +1,4 @@
-Military_laser_experiment.jpg]] Light_Amplification_by_Stimulated_Emission_of_Radiation.jpg LASER SCIENCE or LASER PHYSICS is a branch of optics that describes the theory and practice of lasers.
+]] LASER SCIENCE or LASER PHYSICS is a branch of optics that describes the theory and practice of lasers.
 
 Laser science is principally concerned with quantum electronics, laser construction, optical cavity design, the physics of producing a population inversion in laser media, and the temporal evolution of the light field in the laser. It is also concerned with the physics of laser beam propagation, particularly the physics of Gaussian beams, with laser applications, and with associated fields such as nonlinear optics and quantum optics.
 

@@ -10,7 +10,7 @@ Industries
 
 Agriculture
 
-E7994-Milyanfan-fields.jpg Valley]] Agriculture remains a vital part of Kyrgyzstan’s economy and a refuge for workers displaced from industry. Subsistence farming has increased in the early 2000s. After sharp reductions in the early 1990s, by the early 2000s agricultural production was approaching 1991 levels. Grain production in the lower valleys and livestock grazing on upland pastures occupy the largest share of the agricultural workforce. Farmers are shifting to grain and away from cotton and tobacco. Other important products are dairy products, hay, animal feed, potatoes, vegetables, and sugar beets. Agricultural output comes from private household plots (55 percent of the total), private farms (40 percent), and state farms (5 percent). Further expansion of the sector depends on banking reform to increase investment, and on market reform to streamline the distribution of inputs. Land reform, a controversial issue in Kyrgyzstan, has proceeded very slowly since initial legislation in 1998.[3] The irrigation infrastructure is in poor condition. Agriculture contributes about one-third of the GDP and more than one-third of employment.
+Valley]] Agriculture remains a vital part of Kyrgyzstan’s economy and a refuge for workers displaced from industry. Subsistence farming has increased in the early 2000s. After sharp reductions in the early 1990s, by the early 2000s agricultural production was approaching 1991 levels. Grain production in the lower valleys and livestock grazing on upland pastures occupy the largest share of the agricultural workforce. Farmers are shifting to grain and away from cotton and tobacco. Other important products are dairy products, hay, animal feed, potatoes, vegetables, and sugar beets. Agricultural output comes from private household plots (55 percent of the total), private farms (40 percent), and state farms (5 percent). Further expansion of the sector depends on banking reform to increase investment, and on market reform to streamline the distribution of inputs. Land reform, a controversial issue in Kyrgyzstan, has proceeded very slowly since initial legislation in 1998.[3] The irrigation infrastructure is in poor condition. Agriculture contributes about one-third of the GDP and more than one-third of employment.
 
 Forestry
 
@@ -18,7 +18,7 @@ Only 4 percent of Kyrgyzstan is classified as forested. All of that area is stat
 
 Fishing
 
-E8361-Balykchy-Fishmongers.jpg]] Kyrgyzstan does not have a significant fishing industry. In 2002 aquaculture contributed 66 percent of the country’s total output of 142 metric tons of fish, but in 2003 the aquaculture industry collapsed, producing only 12 of the country’s total of 26 metric tons.[5]
+]] Kyrgyzstan does not have a significant fishing industry. In 2002 aquaculture contributed 66 percent of the country’s total output of 142 metric tons of fish, but in 2003 the aquaculture industry collapsed, producing only 12 of the country’s total of 26 metric tons.[5]
 
 Mining and minerals
 
@@ -38,12 +38,12 @@ The South Korean style manufactured bituminous coal called _yeontan_ (йонта
 
 Services
 
-Ycyk-Ata_bassein.jpg resort]] Substantial post-Soviet growth in the services sector is mainly attributable to the appearance of small private enterprises. The central bank is the National Bank of the Kyrgyz Republic, which nominally is independent but follows government policy. Although the banking system has been reformed several times since 1991, it does not play a significant role in investment. High interest rates have discouraged borrowing. A stock market opened in 1995, but its main function is trading in government securities. Because of the Akayev regime’s economic reforms, many small trade and catering enterprises have opened in the post-Soviet era. Although Kyrgyzstan’s mountains and lakes are an attractive tourist destination, the tourism industry has grown very slowly because it has received little investment. In the early 2000s, an average of about 450,000 tourists visited annually, mainly from countries of the former Soviet Union.[12]
+resort]] Substantial post-Soviet growth in the services sector is mainly attributable to the appearance of small private enterprises. The central bank is the National Bank of the Kyrgyz Republic, which nominally is independent but follows government policy. Although the banking system has been reformed several times since 1991, it does not play a significant role in investment. High interest rates have discouraged borrowing. A stock market opened in 1995, but its main function is trading in government securities. Because of the Akayev regime’s economic reforms, many small trade and catering enterprises have opened in the post-Soviet era. Although Kyrgyzstan’s mountains and lakes are an attractive tourist destination, the tourism industry has grown very slowly because it has received little investment. In the early 2000s, an average of about 450,000 tourists visited annually, mainly from countries of the former Soviet Union.[12]
 
 
 External trade
 
-2006Kyrgyz_exports.PNG E7984-Dorody-parking.jpg]] Kyrgyzstan's principal exports, which go overwhelmingly to other CIS countries, are nonferrous metals and minerals, woolen goods and other agricultural products, electric energy, and certain engineering goods. In turn, the Republic relies on other former Soviet states for petroleum and natural gas, ferrous metals, chemicals, most machinery, wood and paper products, some foods, and most construction materials. In 1999, Kyrgyz exports to the U.S. totaled $11.2 million, and imports from the U.S. totaled $54.2 million. Kyrgyzstan exports antimony, mercury, rare-earth metals, and other chemical products to the U.S., and it imports grain, medicine and medical equipment, vegetable oil, paper products, rice, machinery, agricultural equipment, and meat from the U.S.
+]] Kyrgyzstan's principal exports, which go overwhelmingly to other CIS countries, are nonferrous metals and minerals, woolen goods and other agricultural products, electric energy, and certain engineering goods. In turn, the Republic relies on other former Soviet states for petroleum and natural gas, ferrous metals, chemicals, most machinery, wood and paper products, some foods, and most construction materials. In 1999, Kyrgyz exports to the U.S. totaled $11.2 million, and imports from the U.S. totaled $54.2 million. Kyrgyzstan exports antimony, mercury, rare-earth metals, and other chemical products to the U.S., and it imports grain, medicine and medical equipment, vegetable oil, paper products, rice, machinery, agricultural equipment, and meat from the U.S.
 
 Reexport of China-made consumer goods to Kazakhstan and Russia, centered on Dordoy Bazaar in Bishkek, and to Uzbekistan, centered on Kara-Suu Bazaar in Osh Region, is particularly important; it is thought by some economists to be one the country's two largest economic activities.[13]
 
@@ -52,14 +52,14 @@ The Kyrgyzstan Government has reduced expenditures, ended most price subsidies, 
 
 Investment
 
-Animal_market_in_Kyzyl-Jar.jpg market in Kyzyl-Jar, Jalal-Abad Region]]
+market in Kyzyl-Jar, Jalal-Abad Region]]
 
 The stock market capitalisation of listed companies in Kyrgyzstan was valued at $42 million in 2005 by the World Bank.[14]
 
 
 Taxation
 
-Animal_market_in_Kyzyl-Jar.jpg market in Kyzyl-Jar, Jalal-Abad Region]]
+market in Kyzyl-Jar, Jalal-Abad Region]]
 
 The tax regime in the Kyrgyz Republic is administered by the State Tax Service. Collected taxes reached 18.1% of GDP in 2012.[15]
 

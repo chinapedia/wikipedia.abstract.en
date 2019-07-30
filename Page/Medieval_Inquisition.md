@@ -1,4 +1,4 @@
-PopeGregoryIX.jpg]]
+]]
 
 The MEDIEVAL INQUISITION was a series of Inquisitions (Catholic Church bodies charged with suppressing heresy) from around 1184, including the EPISCOPAL INQUISITION (1184–1230s) and later the PAPAL INQUISITION (1230s). The Medieval Inquisition was established in response to movements considered apostate or heretical to Christianity, in particular Catharism and Waldensians in Southern France and Northern Italy. These were the first inquisition movements of many that would follow.
 

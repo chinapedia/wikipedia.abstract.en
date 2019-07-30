@@ -4,14 +4,12 @@ Punched cards were widely used through much of the 20th century in the data proc
 
 While punched cards are now obsolete as a storage medium, as of 2012, some voting machines still use punched cards to record votes.[3]
 
-Used_Punchcard_(5151286161).jpg Jacquard.loom.cards.jpg
-
 
 History
 
 Basile Bouchon developed the control of a loom by punched holes in paper tape in 1725. The design was improved by his assistant Jean-Baptiste Falcon and by Jacques Vaucanson.[4] Although these improvements controlled the patterns woven, they still required an assistant to operate the mechanism. In 1804 Joseph Marie Jacquard demonstrated a mechanism to automate loom operation. A number of punched cards were linked into a chain of any length. Each card held the instructions for shedding (raising and lowering the warp) and selecting the shuttle for a single pass. It is considered an important step in the history of computing hardware.[5]
 
-DMM_29263ab_Jacquardwebstuhl.jpg Semyon Korsakov was reputedly the first to propose punched cards in informatics for information store and search. Korsakov announced his new method and machines in September 1832.[6]
+Semyon Korsakov was reputedly the first to propose punched cards in informatics for information store and search. Korsakov announced his new method and machines in September 1832.[6]
 
 Charles Babbage proposed the use of "Number Cards", "pierced with certain holes and stand opposite levers connected with a set of figure wheels ... advanced they push in those levers opposite to which there are no holes on the cards and thus transfer that number together with its sign" in his description of the Calculating Engine's Store.[7]
 
@@ -36,7 +34,7 @@ The UNITYPER introduced magnetic tape for data entry in the 1950s. During the 19
 
 Nomenclature
 
-Punched_card_program_deck.agr.jpg The terms _punched card_, _punch card_, and _punchcard_ were all commonly used, as were _IBM card_ and _Hollerith card_ (after Herman Hollerith).[24] IBM used "IBM card" or, later, "punched card" at first mention in its documentation and thereafter simply "card" or "cards".[25][26] Specific formats were often indicated by the number of character positions available, e.g. _80-column card_. A sequence of cards that is input to or output from some step in an application's processing is called a _card deck_ or simply _deck_. The rectangular, round, or oval bits of paper punched out were called chad (_chads_) or _chips_ (in IBM usage). Sequential card columns allocated for a specific use, such as names, addresses, multi-digit numbers, etc., are known as a _field_. The first card of a group of cards, containing fixed or indicative information for that group, is known as a _master card_. Cards that are not master cards are _detail cards_.
+The terms _punched card_, _punch card_, and _punchcard_ were all commonly used, as were _IBM card_ and _Hollerith card_ (after Herman Hollerith).[24] IBM used "IBM card" or, later, "punched card" at first mention in its documentation and thereafter simply "card" or "cards".[25][26] Specific formats were often indicated by the number of character positions available, e.g. _80-column card_. A sequence of cards that is input to or output from some step in an application's processing is called a _card deck_ or simply _deck_. The rectangular, round, or oval bits of paper punched out were called chad (_chads_) or _chips_ (in IBM usage). Sequential card columns allocated for a specific use, such as names, addresses, multi-digit numbers, etc., are known as a _field_. The first card of a group of cards, containing fixed or indicative information for that group, is known as a _master card_. Cards that are not master cards are _detail cards_.
 
 
 Card formats
@@ -45,7 +43,7 @@ The Hollerith punched cards used for the US 1890 census were blank.[27] Followin
 
 Hollerith's early punched card formats
 
-Hollerith_punched_card.jpg'' in 1895, with 12 rows and 24 columns.[30]]] Herman Hollerith was awarded a series of patents[31] in 1889 for electromechanical tabulating machines. These patents described both paper tape and rectangular cards as possible recording media. The card shown in of January 8 was printed with a template and had hole positions arranged close to the edges so they could be reached by a railroad conductor's ticket punch, with the center reserved for written descriptions. Hollerith was originally inspired by railroad tickets that let the conductor encode a rough description of the passenger:
+'' in 1895, with 12 rows and 24 columns.[30]]] Herman Hollerith was awarded a series of patents[31] in 1889 for electromechanical tabulating machines. These patents described both paper tape and rectangular cards as possible recording media. The card shown in of January 8 was printed with a template and had hole positions arranged close to the edges so they could be reached by a railroad conductor's ticket punch, with the center reserved for written descriptions. Hollerith was originally inspired by railroad tickets that let the conductor encode a rough description of the passenger:
 
     "I was traveling in the West and I had a ticket with what I think was called a punch photograph...the conductor...punched out a description of the individual, as light hair, dark eyes, large nose, etc. So you see, I only made a punch photograph of each person."[32]
 
@@ -59,11 +57,11 @@ Later designs led to a card with ten rows, each row assigned a digit value, 0 th
 
 IBM 80-column punched card format and character codes
 
-FortranCardPROJ039.agr.jpg program: Z(1) = Y + W(1), plus sorting information in the last 8 columns.]] By the late 1920s customers wanted to store more data on each punched card. Thomas J. Watson Sr., IBM’s head, asked two of his top inventors, Clair D. Lake and J. Royden Pierce, to independently develop ways to increase data capacity without increasing the size of the punched card. Pierce wanted to keep round holes and 45 columns, but allow each column to store more data. Lake suggested rectangular holes, which could be spaced more tightly, allowing 80 columns per punched card, thereby nearly doubling the capacity of the older format.[41] Watson picked the latter solution, introduced as _The IBM Computer Card,_ in part because it was compatible with existing tabulator designs and in part because it could be protected by patents and give the company a distinctive advantage.[42]
+program: Z(1) = Y + W(1), plus sorting information in the last 8 columns.]] By the late 1920s customers wanted to store more data on each punched card. Thomas J. Watson Sr., IBM’s head, asked two of his top inventors, Clair D. Lake and J. Royden Pierce, to independently develop ways to increase data capacity without increasing the size of the punched card. Pierce wanted to keep round holes and 45 columns, but allow each column to store more data. Lake suggested rectangular holes, which could be spaced more tightly, allowing 80 columns per punched card, thereby nearly doubling the capacity of the older format.[41] Watson picked the latter solution, introduced as _The IBM Computer Card,_ in part because it was compatible with existing tabulator designs and in part because it could be protected by patents and give the company a distinctive advantage.[42]
 
 This IBM card format, introduced in 1928,[43] has rectangular holes, 80 columns, and 12 rows. Card size is exactly by inches (187.325 mm × 82.55 mm). The cards are made of smooth stock, thick. There are about 143 cards to the inch ({{#expr:143/2.54round0}}/cm). In 1964, IBM changed from square to round corners.[44] They come typically in boxes of 2000 cards[45] or as continuous form cards. Continuous form cards could be both pre-numbered and pre-punched for document control (checks, for example).[46]
 
-Initially designed to record responses to Yes–no questions, support for numeric, alphabetic and special characters was added through the use of columns and zones. The top three positions of a column are called ZONE PUNCHING POSITIONS, 12 (top), 11, and 0 (0 may be either a zone punch or a digit punch).[47] For decimal data the lower ten positions are called DIGIT PUNCHING POSITIONS, 0 (top) through 9.[48] An arithmetic sign can be specified for a decimal field by OVERPUNCHING the field's rightmost column with a zone punch: 12 for plus, 11 for minus (CR). For Pound sterling pre-decimalization currency a penny column represents the values zero through eleven; 10 (top), 11, then 0 through 9 as above. An arithmetic sign can be punched in the adjacent shilling column.[49] Zone punches had other uses in processing, such as indicating a master card.[50] Blue-punch-card-front-horiz.png punched card of the type most widely used in the 20th century.]]
+Initially designed to record responses to Yes–no questions, support for numeric, alphabetic and special characters was added through the use of columns and zones. The top three positions of a column are called ZONE PUNCHING POSITIONS, 12 (top), 11, and 0 (0 may be either a zone punch or a digit punch).[47] For decimal data the lower ten positions are called DIGIT PUNCHING POSITIONS, 0 (top) through 9.[48] An arithmetic sign can be specified for a decimal field by OVERPUNCHING the field's rightmost column with a zone punch: 12 for plus, 11 for minus (CR). For Pound sterling pre-decimalization currency a penny column represents the values zero through eleven; 10 (top), 11, then 0 through 9 as above. An arithmetic sign can be punched in the adjacent shilling column.[49] Zone punches had other uses in processing, such as indicating a master card.[50] punched card of the type most widely used in the 20th century.]]
 
          ______________________________________________
         /&-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ
@@ -91,15 +89,15 @@ In 1931 IBM began introducing upper-case letters and special characters (Powers-
 
 A 1969 American National Standard defined the punches for 128 characters and was named the _Hollerith Punched Card Code_ (often referred to simply as _Hollerith Card Code_), honoring Hollerith.[57]
 
-IBM1130CopyCard.agr.jpg punched card.]] For some computer applications, binary formats were used, where each hole represented a single binary digit (or "bit"), every column (or row) is treated as a simple bit field, and every combination of holes is permitted.
+punched card.]] For some computer applications, binary formats were used, where each hole represented a single binary digit (or "bit"), every column (or row) is treated as a simple bit field, and every combination of holes is permitted.
 
 For example, on the IBM 701[58] and IBM 704,[59] card data was read into memory in row binary format. For each of the twelve rows of the card, 72 of the 80 columns would be read into two 36-bit words; a control panel was used to select the 72 columns to be read. Software would translate this data into the desired form. One convention was to use columns 1 through 72 for data, and columns 73 through 80 to sequentially number the cards, as shown in the picture above of a punched card for FORTRAN. Such numbered cards could be sorted by machine so that if a deck was dropped the sorting machine could be used to arrange it back in order. This convention continued to be used in FORTRAN, even in later systems where the data in all 80 columns could be read.
 
-IBM_lace_card.jpg As a prank, in binary mode, punched cards could be made where every possible punch position had a hole. Such "lace cards" lacked structural strength, and would frequently buckle and jam inside the machine.[60]
+As a prank, in binary mode, punched cards could be made where every possible punch position had a hole. Such "lace cards" lacked structural strength, and would frequently buckle and jam inside the machine.[60]
 
 The IBM 80-column punched card format dominated the industry, becoming known as just IBM CARDS, even though other companies made cards and equipment to process them.[61]
 
-Punch-card-5081.jpg One of the most common punched card formats is the IBM 5081 card format, a general purpose layout with no field divisions. This format has digits printed on it corresponding to the punch positions of the digits in each of the 80 columns. Other punched card vendors manufactured cards with this same layout and number.
+One of the most common punched card formats is the IBM 5081 card format, a general purpose layout with no field divisions. This format has digits printed on it corresponding to the punch positions of the digits in each of the 80 columns. Other punched card vendors manufactured cards with this same layout and number.
 
 IBM _Stub card_ or _Short card_ formats
 
@@ -107,7 +105,7 @@ The 80-column card could be scored, on either end, creating a stub that could be
 
 IBM 40-column Port-A-Punch card format
 
-IBM_Port-A-Punch.jpg FORTRAN_Port-A-Punch_card._Compiler_directive_"SQUEEZE"_removed_the_alternating_blank_columns_from_the_input._Godfrey_Manning..jpg System_3_punch_card.jpg According to the IBM Archive: _IBM's Supplies Division introduced the Port-A-Punch in 1958 as a fast, accurate means of manually punching holes in specially scored IBM punched cards. Designed to fit in the pocket, Port-A-Punch made it possible to create punched card documents anywhere. The product was intended for "on-the-spot" recording operations—such as physical inventories, job tickets and statistical surveys—because it eliminated the need for preliminary writing or typing of source documents._[64]
+According to the IBM Archive: _IBM's Supplies Division introduced the Port-A-Punch in 1958 as a fast, accurate means of manually punching holes in specially scored IBM punched cards. Designed to fit in the pocket, Port-A-Punch made it possible to create punched card documents anywhere. The product was intended for "on-the-spot" recording operations—such as physical inventories, job tickets and statistical surveys—because it eliminated the need for preliminary writing or typing of source documents._[64]
 
 IBM 96-column punched card format
 
@@ -115,7 +113,7 @@ In the late 1960s, IBM introduced a new, smaller, round-hole, 96-column card for
 
 Powers/Remington Rand UNIVAC 90-column punched card format
 
-RemingtonRandCard.agr.jpg UNIVAC format card. Card courtesy of MIT Museum.]] Remington_Rand_punched_card.mw.jpg
+UNIVAC format card. Card courtesy of MIT Museum.]]
 
 The Powers/Remington Rand card format was initially the same as Hollerith's; 45 columns and round holes. In 1930, Remington Rand leap-frogged IBM's 80 column format from 1928 by coding two characters in each of the 45 columns – producing what is now commonly called the 90-column card.[66] There are two sets of six rows across each card. The rows in each set are labeled 0, 1/2, 3/4, 5/6, 7/8 and 9. The even numbers in a pair are formed by combining that punch with a 9 punch. Alphabetic and special characters use 3 or more punches.[67][68]
 
@@ -125,13 +123,11 @@ The Powers-Samas card formats began with 45 columns and round holes. Later 36, 4
 
 Mark sense card format
 
-HP_Educational_Basic_optical_mark-reader_card._Godfrey_Manning..jpg
-
 -   Mark sense (electrographic) cards, developed by Reynold B. Johnson at IBM,[70] have printed ovals that could be marked with a special electrographic pencil. Cards would typically be punched with some initial information, such as the name and location of an inventory item. Information to be added, such as quantity of the item on hand, would be marked in the ovals. Card punches with an option to detect mark sense cards could then punch the corresponding information into the card.
 
 Aperture card format
 
-Aperture_card.JPG]]
+]]
 
 -   Aperture cards have a cut-out hole on the right side of the punched card. A 35 mm microfilm chip containing a microform image is mounted in the hole. Aperture cards are used for engineering drawings from all engineering disciplines. Information about the drawing, for example the drawing number, is typically punched and printed on the remainder of the card.
 
@@ -140,7 +136,7 @@ IBM punched card manufacturing
 
 IBM's Fred M. Carroll[71] developed a series of rotary presses that were used to produce punched cards, including a 1921 model that operated at 460 cards per minute (cpm). In 1936 he introduced a completely different press that operated at 850 cpm.[72][73] Carroll's high-speed press, containing a printing cylinder, revolutionized the company's manufacturing of punched cards.[74] It is estimated that between 1930 and 1950, the Carroll press accounted for as much as 25 percent of the company's profits.[75]
 
-Unused_punch_card_from_UIC.jpg PunchedCardPrintingPlate.agr.jpg Discarded printing plates from these card presses, each printing plate the size of an IBM card and formed into a cylinder, often found use as desk pen/pencil holders, and even today are collectible IBM artifacts (every card layout[76] had its own printing plate).
+Discarded printing plates from these card presses, each printing plate the size of an IBM card and formed into a cylinder, often found use as desk pen/pencil holders, and even today are collectible IBM artifacts (every card layout[76] had its own printing plate).
 
 Pricing
 
@@ -149,7 +145,7 @@ Punched cards were not inexpensive: a 1996 Look-back found prices as high as $42
 
 Cultural impact
 
-US_Savings_Bond_EE_$75.png IBM_card_storage.NARA.jpg facility in 1959. Each carton could hold 2,000 cards.]]
+facility in 1959. Each carton could hold 2,000 cards.]]
 
 While punched cards have not been widely used for a generation, the impact was so great for most of the 20th century that they still appear from time to time in popular culture. For example:
 

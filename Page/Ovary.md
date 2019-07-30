@@ -133,7 +133,7 @@ Cryopreservation of ovarian tissue, often called _ovarian tissue cryopreservatio
 
 Other animals
 
-Parasite140007-fig7_Philometra_fasciati_Moravec_&_Justine,_2008_(Nematoda,_Philometridae).tif fasciati'']]
+fasciati'']]
 
 Birds have only one functional ovary (the left), while the other remains vestigial. Ovaries in females are analogous to testes in males, in that they are both gonads and endocrine glands. Ovaries of some kind are found in the female reproductive system of many animals that employ sexual reproduction, including invertebrates. However, they develop in a very different way in most invertebrates than they do in vertebrates, and are not truly homologous.[39]
 

@@ -1,4 +1,4 @@
-Wedding_rings.jpgs]] Dräkt,_Gustav_III,_gnr_3485_&_dräkt,_Sofia_magdalena,_gnr_3502._Fel_föremålsref_-_Livrustkammaren_-_16527.tif in Stockholm]] Nepalese_marriage.jpg
+s]] in Stockholm]]
 
 MARRIAGE, also called MATRIMONY or WEDLOCK, is a culturally recognised union between people, called spouses, that establishes rights and obligations between them, as well as between them and their children, and between them and their in-laws.[1] The definition of marriage varies around the world not only between cultures and between religions, but also throughout the history of any given culture and religion, evolving to both expand and constrict in who and what is encompassed, but typically it is principally an institution in which interpersonal relationships, usually sexual, are acknowledged or sanctioned. In some cultures, marriage is recommended or considered to be compulsory before pursuing any sexual activity. When defined broadly, marriage is considered a cultural universal. Article 16 of the Universal Declaration of Human Rights declares that "Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution. Marriage shall be entered into only with the free and full consent of the intending spouses."[2]
 
@@ -60,7 +60,7 @@ Types
 
 Monogamy
 
-Marriage_of_Inanna_and_Dumuzi.pngian depiction of the marriage of Inanna and Dumuzid[17]]]
+ian depiction of the marriage of Inanna and Dumuzid[17]]]
 
 Monogamy is a form of marriage in which an individual has only one spouse during their lifetime or at any one time (serial monogamy).
 
@@ -145,7 +145,7 @@ Conversely, institutionalized marriages may not involve cohabitation. In some ca
 
 Partner selection
 
-18010319_Wife_wanted_ad_-_Maryland_Gazette.png" means "note well".]] There is wide cross-cultural variation in the social rules governing the selection of a partner for marriage. There is variation in the degree to which partner selection is an individual decision by the partners or a collective decision by the partners' kin groups, and there is variation in the rules regulating which partners are valid choices.
+" means "note well".]] There is wide cross-cultural variation in the social rules governing the selection of a partner for marriage. There is variation in the degree to which partner selection is an individual decision by the partners or a collective decision by the partners' kin groups, and there is variation in the rules regulating which partners are valid choices.
 
 The United Nations World Fertility Report of 2003 reports that 89% of all people get married before age forty-nine.[68] The percent of women and men who marry before age forty-nine drops to nearly 50% in some nations and reaches near 100% in other nations.[69]
 
@@ -159,7 +159,7 @@ The incest taboo, exogamy and endogamy
 
 Societies have often placed restrictions on marriage to relatives, though the degree of prohibited relationship varies widely. Marriages between parents and children, or between full siblings, with few exceptions,[72][73][74][75][76][77][78][79] have been considered incest and forbidden. However, marriages between more distant relatives have been much more common, with one estimate being that 80% of all marriages in history have been between second cousins or closer.[80] This proportion has fallen dramatically, but still more than 10% of all marriages are believed to be between people who are second cousins or more closely related.[81] In the United States, such marriages are now highly stigmatized, and laws ban most or all first-cousin marriage in 30 states. Specifics vary: in South Korea, historically it was illegal to marry someone with the same last name and same ancestral line.[82]
 
-An Avunculate marriage is a marriage that occurs between an uncle and his niece or between an aunt and her nephew. Such marriages are illegal in most countries due to incest restrictions. However, a small number of countries have legalized it, including Argentina, Australia, Austria, Malaysia,[83] and Russia.[84] Mahrams_Chart.png would be considered incestuous.]]
+An Avunculate marriage is a marriage that occurs between an uncle and his niece or between an aunt and her nephew. Such marriages are illegal in most countries due to incest restrictions. However, a small number of countries have legalized it, including Argentina, Australia, Austria, Malaysia,[83] and Russia.[84] would be considered incestuous.]]
 
 In various societies the choice of partner is often limited to suitable persons from specific social groups. In some societies the rule is that a partner is selected from an individual's own social group – endogamy, this is often the case in class- and caste-based societies. But in other societies a partner must be chosen from a different group than one's own – exogamy, this may be the case in societies practicing totemic religion where society is divided into several exogamous totemic clans, such as most Aboriginal Australian societies. In other societies a person is expected to marry their cross-cousin, a woman must marry her father's sister's son and a man must marry his mother's brother's daughter – this is often the case if either a society has a rule of tracing kinship exclusively through patrilineal or matrilineal descent groups as among the Akan people of West Africa. Another kind of marriage selection is the levirate marriage in which widows are obligated to marry their husband's brother, mostly found in societies where kinship is based on endogamous clan groups.
 
@@ -167,7 +167,7 @@ Religion has commonly weighed in on the matter of which relatives, if any, are a
 
 Prescriptive marriage
 
-Lodewijk_XIV-Marriage.jpg and Maria Theresa of Spain.]]
+and Maria Theresa of Spain.]]
 
 In a wide array of lineage-based societies with a classificatory kinship system, potential spouses are sought from a specific class of relative as determined by a prescriptive marriage rule. This rule may be expressed by anthropologists using a "descriptive" kinship term, such as a "man's mother's brother's daughter" (also known as a "cross-cousin"). Such descriptive rules mask the participant's perspective: a man should marry a woman from his mother's lineage. Within the society's kinship terminology, such relatives are usually indicated by a specific term which sets them apart as potentially marriageable. Pierre Bourdieu notes, however, that very few marriages ever follow the rule, and that when they do so, it is for "practical kinship" reasons such as the preservation of family property, rather than the "official kinship" ideology.[88]
 
@@ -177,7 +177,7 @@ A pragmatic (or 'arranged') marriage is made easier by formal procedures of fami
 
 Forced marriage
 
-Oskar_Shmerling._Free_love_(Forced_marriage)._Molla_Nasreddin.jpg society tradition from domestic violence to the social and political participation of women in the community]] A forced marriage is a marriage in which one or both of the parties is married against their will. Forced marriages continue to be practiced in parts of the world, especially in South Asia and Africa. The line between forced marriage and consensual marriage may become blurred, because the social norms of these cultures dictate that one should never oppose the desire of one's parents/relatives in regard to the choice of a spouse; in such cultures it is not necessary for violence, threats, intimidation etc. to occur, the person simply "consents" to the marriage even if he/she doesn't want it, out of the implied social pressure and duty. The customs of bride price and dowry, that exist in parts of the world, can lead to buying and selling people into marriage.[91][92]
+society tradition from domestic violence to the social and political participation of women in the community]] A forced marriage is a marriage in which one or both of the parties is married against their will. Forced marriages continue to be practiced in parts of the world, especially in South Asia and Africa. The line between forced marriage and consensual marriage may become blurred, because the social norms of these cultures dictate that one should never oppose the desire of one's parents/relatives in regard to the choice of a spouse; in such cultures it is not necessary for violence, threats, intimidation etc. to occur, the person simply "consents" to the marriage even if he/she doesn't want it, out of the implied social pressure and duty. The customs of bride price and dowry, that exist in parts of the world, can lead to buying and selling people into marriage.[91][92]
 
 In some societies, ranging from Central Asia to the Caucasus to Africa, the custom of bride kidnapping still exists, in which a woman is captured by a man and his friends. Sometimes this covers an elopement, but sometimes it depends on sexual violence. In previous times, _raptio_ was a larger-scale version of this, with groups of women captured by groups of men, sometimes in war; the most famous example is The Rape of the Sabine Women, which provided the first citizens of Rome with their wives.
 
@@ -212,7 +212,7 @@ Islamic tradition has similar practices. A 'mahr', either immediate or deferred,
 
 Bridewealth
 
-Thai_Bride_Price_2008.jpg]] Bridewealth is a common practice in parts of Southeast Asia (Thailand, Cambodia), parts of Central Asia, and in much of sub-Saharan Africa. It is also known as brideprice although this has fallen in disfavor as it implies the purchase of the bride. Bridewealth is the amount of money or property or wealth paid by the groom or his family to the parents of a woman upon the marriage of their daughter to the groom. In anthropological literature, bride price has often been explained as payment made to compensate the bride's family for the loss of her labor and fertility. In some cases, bridewealth is a means by which the groom's family's ties to the children of the union are recognized.
+]] Bridewealth is a common practice in parts of Southeast Asia (Thailand, Cambodia), parts of Central Asia, and in much of sub-Saharan Africa. It is also known as brideprice although this has fallen in disfavor as it implies the purchase of the bride. Bridewealth is the amount of money or property or wealth paid by the groom or his family to the parents of a woman upon the marriage of their daughter to the groom. In anthropological literature, bride price has often been explained as payment made to compensate the bride's family for the loss of her labor and fertility. In some cases, bridewealth is a means by which the groom's family's ties to the children of the union are recognized.
 
 Taxation
 
@@ -314,7 +314,7 @@ It is possible for two people to be recognised as married by a religious or othe
 
 Marriage license, civil ceremony and registration
 
-Shinto_married_couple.jpg ceremony in Takayama, Gifu prefecture.]] Assyrian_wedding,_Mechelen.jpg couple.]] A marriage is usually formalized at a wedding or marriage ceremony. The ceremony may be officiated either by a religious official, by a government official or by a state approved celebrant. In various European and some Latin American countries, any religious ceremony must be held separately from the required civil ceremony. Some countries – such as Belgium, Bulgaria, France, the Netherlands, Romania and Turkey[134] – require that a civil ceremony take place before any religious one. In some countries – notably the United States, Canada, the United Kingdom, the Republic of Ireland, Norway and Spain – both ceremonies can be held together; the officiant at the religious and civil ceremony also serving as agent of the state to perform the civil ceremony. To avoid any implication that the state is "recognizing" a religious marriage (which is prohibited in some countries) – the "civil" ceremony is said to be taking place at the same time as the religious ceremony. Often this involves simply signing a register during the religious ceremony. If the civil element of the religious ceremony is omitted, the marriage ceremony is not recognized as a marriage by government under the law.
+ceremony in Takayama, Gifu prefecture.]] couple.]] A marriage is usually formalized at a wedding or marriage ceremony. The ceremony may be officiated either by a religious official, by a government official or by a state approved celebrant. In various European and some Latin American countries, any religious ceremony must be held separately from the required civil ceremony. Some countries – such as Belgium, Bulgaria, France, the Netherlands, Romania and Turkey[134] – require that a civil ceremony take place before any religious one. In some countries – notably the United States, Canada, the United Kingdom, the Republic of Ireland, Norway and Spain – both ceremonies can be held together; the officiant at the religious and civil ceremony also serving as agent of the state to perform the civil ceremony. To avoid any implication that the state is "recognizing" a religious marriage (which is prohibited in some countries) – the "civil" ceremony is said to be taking place at the same time as the religious ceremony. Often this involves simply signing a register during the religious ceremony. If the civil element of the religious ceremony is omitted, the marriage ceremony is not recognized as a marriage by government under the law.
 
 Some countries, such as Australia, permit marriages to be held in private and at any location; others, including England and Wales, require that the civil ceremony be conducted in a place open to the public and specially sanctioned by law for the purpose. In England, the place of marriage formerly had to be a church or register office, but this was extended to any public venue with the necessary licence. An exception can be made in the case of marriage by special emergency license (UK: licence), which is normally granted only when one of the parties is terminally ill. Rules about where and when persons can marry vary from place to place. Some regulations require one of the parties to reside within the jurisdiction of the register office (formerly parish).
 
@@ -326,7 +326,7 @@ In a small number of jurisdictions marriage relationships may be created by the 
 
 Civil unions
 
-New_York_City_Proposition_8_Protest_outside_LDS_temple_20.jpg, consider civil unions an inferior alternative to legal recognition of same-sex marriage.[136]]]
+, consider civil unions an inferior alternative to legal recognition of same-sex marriage.[136]]]
 
 A _civil union_, also referred to as a _civil partnership_, is a legally recognized form of partnership similar to marriage. Beginning with Denmark in 1989, civil unions under one name or another have been established by law in several countries in order to provide same-sex couples rights, benefits, and responsibilities similar (in some countries, identical) to opposite-sex civil marriage. In some jurisdictions, such as Brazil, New Zealand, Uruguay, Ecuador, France and the U.S. states of Hawaii and Illinois, civil unions are also open to opposite-sex couples.
 
@@ -336,7 +336,7 @@ Sometimes people marry to take advantage of a certain situation, sometimes calle
 
 Contemporary legal and human rights criticisms of marriage
 
-Esposas_de_Matrimonio_1.jpg sculpture expressing the criticism of marriages' effects on individual liberty. _Esposas_ is a play on Spanish, in which the singular form of the word _esposa_ refers to a spouse, and the plural refers to handcuffs.]]
+sculpture expressing the criticism of marriages' effects on individual liberty. _Esposas_ is a play on Spanish, in which the singular form of the word _esposa_ refers to a spouse, and the plural refers to handcuffs.]]
 
 People have proposed arguments against marriage for reasons that include political, philosophical and religious criticisms; concerns about the divorce rate; individual liberty and gender equality; questioning the necessity of having a personal relationship sanctioned by government or religious authorities; or the promotion of celibacy for religious or philosophical reasons.
 
@@ -354,7 +354,7 @@ In the US, studies have shown that, despite egalitarian ideals being common, les
 
 Extra-marital sex
 
-Jan_Brueghel_the_Elder-Christus_und_die_Ehebrecherin-AP.JPG'' by Jan Brueghel the Elder, Pinakothek]] upright=1.35 were institutions that existed from the 18th to the late 20th centuries, throughout Europe and North America, where "fallen women", including unmarried mothers, were detained. Photo: Magdalene laundry in Ireland, ca. early twentieth century.[154]]]
+'' by Jan Brueghel the Elder, Pinakothek]] upright=1.35 were institutions that existed from the 18th to the late 20th centuries, throughout Europe and North America, where "fallen women", including unmarried mothers, were detained. Photo: Magdalene laundry in Ireland, ca. early twentieth century.[154]]]
 
 Different societies demonstrate variable tolerance of extramarital sex. The Standard Cross-Cultural Sample describes the occurrence of extramarital sex by gender in over 50 pre-industrial cultures.[155][156] The occurrence of extramarital sex by men is described as "universal" in 6 cultures, "moderate" in 29 cultures, "occasional" in 6 cultures, and "uncommon" in 10 cultures. The occurrence of extramarital sex by women is described as "universal" in 6 cultures, "moderate" in 23 cultures, "occasional" in 9 cultures, and "uncommon" in 15 cultures. Three studies using nationally representative samples in the United States found that between 10–15% of women and 20–25% of men engage in extramarital sex.[157][158][159]
 
@@ -392,13 +392,13 @@ In the EU, the last country to allow divorce was Malta, in 2011. Around the worl
 
 Dowry and bridewealth
 
-Say_no_to_dowry.jpg.]]
+.]]
 
 In recent years, the customs of dowry and bride price have received international criticism for inciting conflicts between families and clans; contributing to violence against women; promoting materialism; increasing property crimes (where men steal goods such as cattle in order to be able to pay the bride price); and making it difficult for poor people to marry. African women's rights campaigners advocate the abolishing of bride price, which they argue is based on the idea that women are a form of property which can be bought.[208] Bride price has also been criticized for contributing to child trafficking as impoverished parents sell their young daughters to rich older men.[209] A senior Papua New Guinea police officer has called for the abolishing of bride price arguing that it is one of the main reasons for the mistreatment of women in that country.[210] The opposite practice of dowry has been linked to a high level of violence (see Dowry death) and to crimes such as extortion.[211]
 
 Children born outside marriage
 
-TheOutcastRichardRedgrave.jpg, 1851. A patriarch casts his daughter and her illegitimate baby out of the family home.]] upright=1.35 Historically, and still in many countries, children born outside marriage suffered severe social stigma and discrimination. In England and Wales, such children were known as bastards and whoresons.
+, 1851. A patriarch casts his daughter and her illegitimate baby out of the family home.]] upright=1.35 Historically, and still in many countries, children born outside marriage suffered severe social stigma and discrimination. In England and Wales, such children were known as bastards and whoresons.
 
 There are significant differences between world regions in regard to the social and legal position of non-marital births, ranging from being fully accepted and uncontroversial to being severely stigmatized and discriminated.[212][213]
 
@@ -423,7 +423,7 @@ Religions develop in specific geographic and social milieux.[228] Unsurprisingly
 
 Abrahamic religions
 
-Rembrandt_Harmensz._van_Rijn_146.jpg's depiction of Samson's marriage feast]]
+'s depiction of Samson's marriage feast]]
 
 Bahá'í
 
@@ -431,7 +431,7 @@ The Bahá'í Faith encourages marriage and views it as a mutually strengthening 
 
 Christianity
 
-Crowning_in_Syro-Malabar_Nasrani_Wedding_by_Mar_Gregory_Karotemprel.jpg in the Syro-Malabar Catholic Church, an Eastern Catholic Church and a part of the Saint Thomas Christian community in India]] St_Mary's_Church,_Kyoto.jpg, Japan]] Russian_church_wedding_in_Toronto,Canada.jpg
+in the Syro-Malabar Catholic Church, an Eastern Catholic Church and a part of the Saint Thomas Christian community in India]] , Japan]]
 
 Modern Christianity bases its views on marriage upon the teachings of Jesus and the Paul the Apostle.[230] many Christian denominations regard marriage as a sacrament, sacred institution, or covenant,[231] but this was not the case before the 1184 Council of Verona officially recognized it as such.[232][233] Before then, no specific ritual was prescribed for celebrating a marriage: "Marriage vows did not have to be exchanged in a church, nor was a priest's presence required. A couple could exchange consent anywhere, anytime."[234][235]
 
@@ -453,7 +453,7 @@ Divorce and remarriage, while generally not encouraged, are regarded differently
 
 The Catholic Church adheres to the proscription of Jesus in _Matthew_, 19: 6 that married spouses who have consummated their marriage "are no longer two, but one flesh. Therefore, what God has joined together, no human being must separate.”[254] Consequently, the Catholic Church understands that it is wholly without authority to terminate a sacramentally valid and consummated marriage, and its _Codex Iuris Canonici_ (1983 Code of Canon Law) confirms this in Canons 1055-7. Specifically, Canon 1056 declares that "the essential properties of marriage are unity and _indissolubility_; in [C]hristian marriage they acquire a distinctive _firmness_ by reason of the sacrament."[255] Canon 1057, §2 declares that marriage is "an _irrevocable_ covenant".[256] Therefore, divorce of such a marriage is a metaphysical, moral, and legal impossibility. However, the Church has the authority to annul a presumed "marriage" by declaring it to have been invalid from the beginning, i. e., declaring it not to be and never to have been a marriage, in an annulment procedure,[257] which is basically a fact-finding and fact-declaring effort.
 
-For Protestant denominations, the purposes of marriage include intimate companionship, rearing children, and mutual support for both spouses to fulfill their life callings. Most Reformed Christians did not regard marriage to the status of a sacrament "because they did not regard matrimony as a necessary means of grace for salvation"; nevertheless it is considered a covenant between spouses before God.^(cf.) In addition, some Protestant denominations (such as the Methodist Churches) affirmed that Holy Matrimony is a "means of grace, thus, sacramental in character".[258] Phil_and_Marlene.jpg]] Since the 16th century, five competing models of marriage have shaped Protestant marriage and legal tradition:
+For Protestant denominations, the purposes of marriage include intimate companionship, rearing children, and mutual support for both spouses to fulfill their life callings. Most Reformed Christians did not regard marriage to the status of a sacrament "because they did not regard matrimony as a necessary means of grace for salvation"; nevertheless it is considered a covenant between spouses before God.^(cf.) In addition, some Protestant denominations (such as the Methodist Churches) affirmed that Holy Matrimony is a "means of grace, thus, sacramental in character".[258] ]] Since the 16th century, five competing models of marriage have shaped Protestant marriage and legal tradition:
 
 -   The Protestant Reformationists denied the Roman Catholic sacramental model.
 -   Martin Luther saw marriage as a social "estate of the earthly kingdom ... subject to the prince, not the Pope."
@@ -464,13 +464,13 @@ Members of The Church of Jesus Christ of Latter-day Saints (LDS Church) believe 
 
 Christian attitudes to same-sex marriage
 
-Terryandmarkwedding.jpg Fellowship]]
+Fellowship]]
 
 Although many Christian denominations do not currently perform same-sex marriages, many do, such as the Presbyterian Church (USA), some dioceses of the Episcopal Church, the Metropolitan Community Church, Quakers, United Church of Canada, and United Church of Christ congregations, and some Anglican dioceses, for example.[264][265] Same-sex marriage is recognized by various religious denominations.[266][267]
 
 Islam
 
-Jeunes_Mariés_dans_le_parc_dAk_Saray_(Shahrisabz)_(6018352949).jpg couples visit Timur's statues to receive wedding blessings in Uzbekistan.]] Signing_the_Nikah.jpg origin signing the _nikkah nama_ or marriage certificate.]] Muslim_wedding_in_India.jpg at Hampi, India.]]
+couples visit Timur's statues to receive wedding blessings in Uzbekistan.]] origin signing the _nikkah nama_ or marriage certificate.]] at Hampi, India.]]
 
 Islam also commends marriage, with the age of marriage being whenever the individuals feel ready, financially and emotionally.
 
@@ -486,7 +486,7 @@ In Shia Islam, marriage may take place without the presence of witnesses as is o
 
 Judaism
 
-Joodse_bruiloft_Rijksmuseum_SK-A-2598.jpeg, 1903]] V03p128a01_Ketubah.jpg in Hebrew, a Jewish marriage-contract outlining the duties of each partner.]] In Judaism, marriage is based on the laws of the Torah and is a contractual bond between spouses in which the spouses dedicate to be exclusive to one another.[274] This contract is called Kiddushin.[275] Though procreation is not the sole purpose, a Jewish marriage is also expected to fulfill the commandment to have children. The main focus centers around the relationship between the spouses. Kabbalistically, marriage is understood to mean that the spouses are merging into a single soul. This is why a man is considered "incomplete" if he is not married, as his soul is only one part of a larger whole that remains to be unified.[276]
+, 1903]] in Hebrew, a Jewish marriage-contract outlining the duties of each partner.]] In Judaism, marriage is based on the laws of the Torah and is a contractual bond between spouses in which the spouses dedicate to be exclusive to one another.[274] This contract is called Kiddushin.[275] Though procreation is not the sole purpose, a Jewish marriage is also expected to fulfill the commandment to have children. The main focus centers around the relationship between the spouses. Kabbalistically, marriage is understood to mean that the spouses are merging into a single soul. This is why a man is considered "incomplete" if he is not married, as his soul is only one part of a larger whole that remains to be unified.[276]
 
 The Hebrew Bible (Christian Old Testament) describes a number of marriages, including those of Isaac (), Jacob () and Samson (). Polygyny, or men having multiple wives at once, is one of the most common marital arrangements represented in the Hebrew Bible.[277] Today Ashkenazi Jews are prohibited to take more than one wife because of a ban instituted on this by Gershom ben Judah (Died 1040).
 
@@ -498,7 +498,7 @@ Since a wife was regarded as property, her husband was originally free to divorc
 
 Hinduism
 
-Hindu_marriage_ceremony_offering.jpg wedding.]] Bride_Groom_NP.JPG
+wedding.]]
 
 Hinduism sees marriage as a sacred duty that entails both religious and social obligations. Old Hindu literature in Sanskrit gives many different types of marriages and their categorization ranging from "Gandharva Vivaha" (instant marriage by mutual consent of participants only, without any need for even a single third person as witness) to normal (present day) marriages, to "Rakshasa Vivaha" ("demoniac" marriage, performed by abduction of one participant by the other participant, usually, but not always, with the help of other persons). In the Indian subcontinent, arranged marriages, the spouse's parents or an older family member choose the partner, are still predominant in comparison with so-called love marriages until nowadays. The Hindu Widow's Remarriage Act 1856 empowers a Hindu widow to remarry.
 
@@ -565,8 +565,6 @@ There were several types of marriages in ancient Roman society. The traditional 
 
 Germanic tribes
 
-Seuso_and_his_wife_at_Lake_Balaton.jpg
-
 Among ancient Germanic tribes, the bride and groom were roughly the same age and generally older than their Roman counterparts, at least according to Tacitus:
 
   The youths partake late of the pleasures of love, and hence pass the age of puberty unexhausted: nor are the virgins hurried into marriage; the same maturity, the same full growth is required: the sexes unite equally matched and robust; and the children inherit the vigor of their parents.[331]
@@ -575,7 +573,7 @@ Where Aristotle had set the prime of life at 37 years for men and 18 for women, 
 
 Europe
 
-Brauysegen_im_Bett.gif'', 15th century.]] From the early Christian era (30 to 325 CE), marriage was thought of as primarily a private matter, with no uniform religious or other ceremony being required.[334] However, bishop Ignatius of Antioch writing around 110 to bishop Polycarp of Smyrna exhorts, "[I]t becomes both men and women who marry, to form their union with the approval of the bishop, that their marriage may be according to God, and not after their own lust."[335]
+'', 15th century.]] From the early Christian era (30 to 325 CE), marriage was thought of as primarily a private matter, with no uniform religious or other ceremony being required.[334] However, bishop Ignatius of Antioch writing around 110 to bishop Polycarp of Smyrna exhorts, "[I]t becomes both men and women who marry, to form their union with the approval of the bishop, that their marriage may be according to God, and not after their own lust."[335]
 
 In 12th-century Europe, women took the surname of their husbands and starting in the second half of the 16th century parental consent along with the church's consent was required for marriage.[336]
 
@@ -596,11 +594,11 @@ The age of marriage was not absolute, however, as child marriages occurred throu
 
 As part of the Protestant Reformation, the role of recording marriages and setting the rules for marriage passed to the state, reflecting Martin Luther's view that marriage was a "worldly thing".[364] By the 17th century, many of the Protestant European countries had a state involvement in marriage.
 
-In England, under the Anglican Church, marriage by consent and cohabitation was valid until the passage of Lord Hardwicke's Act in 1753. This act instituted certain requirements for marriage, including the performance of a religious ceremony observed by witnesses.[365] Paolo_Monti_-_Serie_fotografica_-_BEIC_6363689.jpg.]] As part of the Counter-Reformation, in 1563 the Council of Trent decreed that a Roman Catholic marriage would be recognized only if the marriage ceremony was officiated by a priest with two witnesses. The Council also authorized a Catechism, issued in 1566, which defined marriage as "The conjugal union of man and woman, contracted between two qualified persons, which obliges them to live together throughout life."[366]
+In England, under the Anglican Church, marriage by consent and cohabitation was valid until the passage of Lord Hardwicke's Act in 1753. This act instituted certain requirements for marriage, including the performance of a religious ceremony observed by witnesses.[365] .]] As part of the Counter-Reformation, in 1563 the Council of Trent decreed that a Roman Catholic marriage would be recognized only if the marriage ceremony was officiated by a priest with two witnesses. The Council also authorized a Catechism, issued in 1566, which defined marriage as "The conjugal union of man and woman, contracted between two qualified persons, which obliges them to live together throughout life."[366]
 
 In the early modern period, John Calvin and his Protestant colleagues reformulated Christian marriage by enacting the Marriage Ordinance of Geneva, which imposed "The dual requirements of state registration and church consecration to constitute marriage"[367] for recognition.
 
-In England and Wales, Lord Hardwicke's Marriage Act 1753 required a formal ceremony of marriage, thereby curtailing the practice of Fleet Marriage, an irregular or a clandestine marriage.[368] These were clandestine or irregular marriages performed at Fleet Prison, and at hundreds of other places. From the 1690s until the Marriage Act of 1753 as many as 300,000 clandestine marriages were performed at Fleet Prison alone.[369] The Act required a marriage ceremony to be officiated by an Anglican priest in the Anglican Church with two witnesses and registration. The Act did not apply to Jewish marriages or those of Quakers, whose marriages continued to be governed by their own customs. Flodmark-Ehrs_Marriage_2016_crop.jpg in 2016]] In England and Wales, since 1837, civil marriages have been recognized as a legal alternative to church marriages under the Marriage Act 1836. In Germany, civil marriages were recognized in 1875. This law permitted a declaration of the marriage before an official clerk of the civil administration, when both spouses affirm their will to marry, to constitute a legally recognized valid and effective marriage, and allowed an optional private clerical marriage ceremony.
+In England and Wales, Lord Hardwicke's Marriage Act 1753 required a formal ceremony of marriage, thereby curtailing the practice of Fleet Marriage, an irregular or a clandestine marriage.[368] These were clandestine or irregular marriages performed at Fleet Prison, and at hundreds of other places. From the 1690s until the Marriage Act of 1753 as many as 300,000 clandestine marriages were performed at Fleet Prison alone.[369] The Act required a marriage ceremony to be officiated by an Anglican priest in the Anglican Church with two witnesses and registration. The Act did not apply to Jewish marriages or those of Quakers, whose marriages continued to be governed by their own customs. in 2016]] In England and Wales, since 1837, civil marriages have been recognized as a legal alternative to church marriages under the Marriage Act 1836. In Germany, civil marriages were recognized in 1875. This law permitted a declaration of the marriage before an official clerk of the civil administration, when both spouses affirm their will to marry, to constitute a legally recognized valid and effective marriage, and allowed an optional private clerical marriage ceremony.
 
 In contemporary English common law, a marriage is a voluntary contract by a man and a woman, in which by agreement they choose to become husband and wife.[370] Edvard Westermarck proposed that "the institution of marriage has probably developed out of a primeval habit".[371]
 

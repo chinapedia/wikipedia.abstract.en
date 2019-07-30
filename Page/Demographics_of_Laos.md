@@ -1,4 +1,4 @@
-Markt_Luang_Prabang.jpg.]] This article is about the demographic features of the population of Laos, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+.]] This article is about the demographic features of the population of Laos, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 Laos' population was estimated at about {{#expr:/1e6 round 2}} million in , dispersed unevenly across the country. Most people live in valleys of the Mekong River and its tributaries. Vientiane Prefecture, which includes Vientiane, the capital and largest city of the country, had about 569,000 residents in 1999. The country's population density is 23.4/km².
 
@@ -19,7 +19,7 @@ The official and dominant language is Lao, a tonal language of the Tai linguisti
 
 With a median age of 19.3, Laos has the youngest population of Asia.
 
-Laos-demography.png data, 2005)]] Drinking_lao_lao.jpg Primary_Laos.jpg
+data, 2005)]]
 
 
 Population
@@ -208,7 +208,7 @@ Source: _UN World Population Prospects_[6]
 
 Ethnic groups
 
-LaosDSCN4342a.jpg, a young woman at the time of a Hmong Meeting Festival.]] Specialists are largely in agreement as to the ethnolinguistic classification of the ethnic groups of Laos.[7] For the purposes of the 1995 census, the government of Laos recognized 149 ethnic groups within 47 main ethnicities.[8] whereas the Lao Front for National Construction (LFNC) recently revised the list to include 49 ethnicities consisting of over 160 ethnic groups.[9]
+, a young woman at the time of a Hmong Meeting Festival.]] Specialists are largely in agreement as to the ethnolinguistic classification of the ethnic groups of Laos.[7] For the purposes of the 1995 census, the government of Laos recognized 149 ethnic groups within 47 main ethnicities.[8] whereas the Lao Front for National Construction (LFNC) recently revised the list to include 49 ethnicities consisting of over 160 ethnic groups.[9]
 
 The term _ethnic minorities_ is used by some to classify the non-Lao ethnic groups, while the term _indigenous peoples_ is not used by the Lao PDR.[10] These 160 ethnic groups speak a total of 82 distinct living languages.[11]
 
@@ -358,7 +358,7 @@ Lao 55%, Khmu 11%, Hmong 8%, Vietnamese 2%, other (over 100 minor ethnic groups)
 
 CIA World Factbook demographic statistics
 
-Bevölkerungspyramide_Laos_2016.png The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
+The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 
 SEX RATIO:
 _at birth:_ 1.1 male(s)/female

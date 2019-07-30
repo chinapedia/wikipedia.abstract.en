@@ -1,4 +1,4 @@
-Calendario_Lunar_2017.png for 2017]]
+for 2017]]
 
 A LUNAR CALENDAR is a calendar based upon the monthly cycles of the Moon's phases (synodic months), in contrast to solar calendars, whose annual cycles are based only directly upon the solar year. The most commonly used calendar, the Gregorian calendar, is a solar calendar system that originally evolved out of a lunar calendar system. A purely lunar calendar is also distinguished from a lunisolar calendar, whose lunar months are brought into alignment with the solar year through some process of intercalation. The details of when months begin varies from calendar to calendar, with some using new, full, or crescent moons and others employing detailed calculations.
 

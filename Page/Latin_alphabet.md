@@ -20,7 +20,7 @@ It is generally believed that the Romans adopted the Cumae alphabet, a variant o
 
 Old italic alphabet
 
-Duenos_inscription.jpg, dated to the 6th century BC, shows the earliest known forms of the Old Latin alphabet.|alt=Duenos Inscription]]
+, dated to the 6th century BC, shows the earliest known forms of the Old Latin alphabet.|alt=Duenos Inscription]]
 
   Letters           𐌀   𐌁   𐌂   𐌃   𐌄   𐌅   𐌆   𐌇   𐌈   𐌉   𐌊   𐌋   𐌌   𐌍   𐌎   𐌏   𐌐   𐌑   𐌒   𐌓   𐌔   𐌕   𐌖   𐌗   𐌘   𐌙   𐌚
   ----------------- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
@@ -47,7 +47,7 @@ Latin included 21 different characters. The letter was the western form of the G
 
 Classical Latin alphabet
 
-Inscription_displaying_apices_(from_the_shrine_of_the_Augustales_at_Herculaneum).jpg in this first-century inscription are very light. (There is one over the in the first line.) The vowel _I_ is written taller rather than taking an apex. The interpuncts are comma-shaped, an elaboration of a more typical triangular shape. From the shrine of the Augustales at Herculaneum.]] After the Roman conquest of Greece in the 1st century BC, Latin adopted the Greek letters and (or readopted, in the latter case) to write Greek loanwords, placing them at the end of the alphabet. An attempt by the emperor Claudius to introduce three additional letters did not last. Thus it was during the classical Latin period that the Latin alphabet contained 23 letters:
+in this first-century inscription are very light. (There is one over the in the first line.) The vowel _I_ is written taller rather than taking an apex. The interpuncts are comma-shaped, an elaboration of a more typical triangular shape. From the shrine of the Augustales at Herculaneum.]] After the Roman conquest of Greece in the 1st century BC, Latin adopted the Greek letters and (or readopted, in the latter case) to write Greek loanwords, placing them at the end of the alphabet. An attempt by the emperor Claudius to introduce three additional letters did not last. Thus it was during the classical Latin period that the Latin alphabet contained 23 letters:
 
 {| class="wikitable" style="text-align:center" |+ Classical Latin alphabet |- ! style="text-align:left" | Letter ! A !! B !! C !! D !! E !! F !! G !! H !! I !! K !! L !! M !! N !! O !! P !! Q !! R !! S !! T !! V !! X !! Y !! Z |- ! style="text-align:left" | Latin name (majus) | || || || || || || || || || || || || || || || || || || || || || || |- ! style="text-align:left" | Latin name | ''ā || ''bē || ''cē || ''dē || ''ē || ''ef || ''gē || ''hā || ''ī || ''kā || ''el || ''em || ''en || ''ō || ''pē || ''qū || ''er || ''es || ''tē || ''ū || ''ix || || ''zēta |- ! style="text-align:left" | Latin pronunciation (IPA) | || || || || || || || || || || || || || || || || || || || || || || |} The Latin names of some of these letters are disputed; for example, may have been called or .[4] In general the Romans did not use the traditional (Semitic-derived) names as in Greek: the names of the plosives were formed by adding to their sound (except for and , which needed different vowels to be distinguished from ) and the names of the continuants consisted either of the bare sound, or the sound preceded by .
 
@@ -63,7 +63,7 @@ New Roman cursive script, also known as minuscule cursive, was in use from the 3
 
 Medieval and later developments
 
-Ioanne_Arnoldo_1541.PNG) with the 23 letters. J, U and W are missing.]] Rekenaar_1553.jpg from Nuremberg, ca. 1553]] It was not until the Middle Ages that the letter (originally a ligature of two s) was added to the Latin alphabet, to represent sounds from the Germanic languages which did not exist in medieval Latin, and only after the Renaissance did the convention of treating and as vowels, and and as consonants, become established. Prior to that, the former had been merely allographs of the latter.
+) with the 23 letters. J, U and W are missing.]] from Nuremberg, ca. 1553]] It was not until the Middle Ages that the letter (originally a ligature of two s) was added to the Latin alphabet, to represent sounds from the Germanic languages which did not exist in medieval Latin, and only after the Renaissance did the convention of treating and as vowels, and and as consonants, become established. Prior to that, the former had been merely allographs of the latter.
 
 With the fragmentation of political power, the style of writing changed and varied greatly throughout the Middle Ages, even after the invention of the printing press. Early deviations from the classical forms were the uncial script, a development of the Old Roman cursive, and various so-called minuscule scripts that developed from New Roman cursive, of which the Carolingian minuscule was the most influential, introducing the lower case forms of the letters, as well as other writing conventions that have since become standard.
 
@@ -71,7 +71,7 @@ The languages that use the Latin script generally use capital letters to begin p
 
 Spread
 
-Latin_alphabet_world_distribution.svg The Latin alphabet spread, along with the Latin language, from the Italian Peninsula to the lands surrounding the Mediterranean Sea with the expansion of the Roman Empire. The eastern half of the Empire, including Greece, Turkey, the Levant, and Egypt, continued to use Greek as a lingua franca, but Latin was widely spoken in the western half, and as the western Romance languages evolved out of Latin, they continued to use and adapt the Latin alphabet.
+The Latin alphabet spread, along with the Latin language, from the Italian Peninsula to the lands surrounding the Mediterranean Sea with the expansion of the Roman Empire. The eastern half of the Empire, including Greece, Turkey, the Levant, and Egypt, continued to use Greek as a lingua franca, but Latin was widely spoken in the western half, and as the western Romance languages evolved out of Latin, they continued to use and adapt the Latin alphabet.
 
 With the spread of Western Christianity during the Middle Ages, the script was gradually adopted by the peoples of northern Europe who spoke Celtic languages (displacing the Ogham alphabet) or Germanic languages (displacing earlier Runic alphabets), Baltic languages, as well as by the speakers of several Uralic languages, most notably Hungarian, Finnish and Estonian. The Latin alphabet came into use for writing the West Slavic languages and several South Slavic languages, as the people who spoke them adopted Roman Catholicism.
 

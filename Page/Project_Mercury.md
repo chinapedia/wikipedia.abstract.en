@@ -50,7 +50,7 @@ Landing-skirt.jpg|Landing skirt (or bag) deployment: skirt is inflated; on impac
 
 Pilot accommodations
 
-GPN-2000-001027.jpg wearing his Mercury space suit]]
+wearing his Mercury space suit]]
 
 The astronaut lay in a sitting position with his back to the heat shield, which was found to be the position that best enabled a human to withstand the high g-forces of launch and reentry. A fiberglass seat was custom-molded from each astronaut's space-suited body for maximum support. Near his left hand was a manual abort handle to activate the launch escape system if necessary prior to or during liftoff, in case the automatic trigger failed.
 
@@ -74,7 +74,7 @@ File:Three-axis hand controller mercury project.jpg|3-axis handle for attitude c
 
 Development and production
 
-Technicians_working_in_the_McDonnell_White_Room_on_the_Mercury-crop.jpg, St. Louis, 1960]] The Mercury spacecraft design was modified three times by NASA between 1958 and 1959. After bidding by potential contractors had been completed, NASA selected the design submitted as "C" in November 1958. After it failed a test flight in July 1959, a final configuration, "D", emerged. The heat shield shape had been developed earlier in the 1950s through experiments with ballistic missiles, which had shown a blunt profile would create a shock wave that would lead most of the heat around the spacecraft. To further protect against heat, either a heat sink, or an ablative material, could be added to the shield. The heat sink would remove heat by the flow of the air inside the shock wave, whereas the ablative heat shield would remove heat by a controlled evaporation of the ablative material. After unmanned tests, the latter was chosen for manned flights. Apart from the capsule design, a rocket plane similar to the existing X-15 was considered. This approach was still too far from being able to make a spaceflight, and was consequently dropped. The heat shield and the stability of the spacecraft were tested in wind tunnels, and later in flight. The launch escape system was developed through unmanned flights. During a period of problems with development of the landing parachutes, alternative landing systems such as the Rogallo glider wing were considered, but ultimately scrapped.
+, St. Louis, 1960]] The Mercury spacecraft design was modified three times by NASA between 1958 and 1959. After bidding by potential contractors had been completed, NASA selected the design submitted as "C" in November 1958. After it failed a test flight in July 1959, a final configuration, "D", emerged. The heat shield shape had been developed earlier in the 1950s through experiments with ballistic missiles, which had shown a blunt profile would create a shock wave that would lead most of the heat around the spacecraft. To further protect against heat, either a heat sink, or an ablative material, could be added to the shield. The heat sink would remove heat by the flow of the air inside the shock wave, whereas the ablative heat shield would remove heat by a controlled evaporation of the ablative material. After unmanned tests, the latter was chosen for manned flights. Apart from the capsule design, a rocket plane similar to the existing X-15 was considered. This approach was still too far from being able to make a spaceflight, and was consequently dropped. The heat shield and the stability of the spacecraft were tested in wind tunnels, and later in flight. The launch escape system was developed through unmanned flights. During a period of problems with development of the landing parachutes, alternative landing systems such as the Rogallo glider wing were considered, but ultimately scrapped.
 
 The spacecraft were produced at McDonnell Aircraft, St. Louis, Missouri, in clean rooms and tested in vacuum chambers at the McDonnell plant. The spacecraft had close to 600 subcontractors, such as Garrett AiResearch which built the spacecraft's environmental control system. Final quality control and preparations of the spacecraft were made at Hangar S at Cape Canaveral. NASA ordered 20 production spacecraft, numbered 1 through 20. Five of the 20, Nos. 10, 12, 15, 17, and 19, were not flown. Spacecraft No. 3 and No. 4 were destroyed during unmanned test flights. Spacecraft No. 11 sank and was recovered from the bottom of the Atlantic Ocean after 38 years. Some spacecraft were modified after initial production (refurbished after launch abort, modified for longer missions, etc.). A number of Mercury boilerplate spacecraft (made from non-flight materials or lacking production spacecraft systems) were also made by NASA and McDonnell. They were designed and used to test spacecraft recovery systems and the escape tower. McDonnell also built the spacecraft simulators used by the astronauts during training.
 
@@ -88,8 +88,6 @@ File:Mercury-project-earth-landing-system-test.png%7CDrop of boilerplate spacecr
 
 
 Launch vehicles
-
-Mercury-launch-vehicles.png
 
 Launch escape system testing
 
@@ -118,7 +116,7 @@ Launch Complex 14-MA-9.jpg|Atlas - with spacecraft mounted - on launch pad at La
 
 Astronauts
 
-Project_Mercury-Mercury_Seven-Astronauts.jpg, Shepard, Carpenter, Schirra, Slayton, Glenn and Cooper, 1962]] NASA announced the following seven astronauts – known as the Mercury Seven – on April 9, 1959:
+, Shepard, Carpenter, Schirra, Slayton, Glenn and Cooper, 1962]] NASA announced the following seven astronauts – known as the Mercury Seven – on April 9, 1959:
 
   Name                                                       Rank                  Unit   Born   Died
   ---------------------------------------------------------- --------------------- ------ ------ ------
@@ -157,8 +155,6 @@ Mission profile
 
 Suborbital
 
-Mr3-flight-timeline-simple-2.png
-
 A Redstone rocket was used to boost the capsule for 2 minutes and 30 seconds to an altitude of ; the capsule continued ascending on a ballistic curve after booster separation. The launch escape system was jettisoned at the same time. At the top of the curve, the spacecraft's retrorockets were fired for testing purposes; they were not necessary for reentry because orbital speed had not been attained. The spacecraft landed in the Atlantic Ocean. The suborbital mission took about 15 minutes, had an apogee altitude of , and a downrange distance of . From the time of booster-spacecraft separation until reentry where air started to slow down the spacecraft, the pilot would experience weightlessness as shown on the image. The recovery procedure would be the same as an orbital mission.
 
   Timetable (min:sec.)
@@ -176,11 +172,7 @@ A Redstone rocket was used to boost the capsule for 2 minutes and 30 seconds to 
 
 Orbital
 
-Launch-complex-14.png
-
 Preparations for a mission started a month in advance with the selection of the primary and back-up astronaut; they would practice together for the mission. For three days prior to launch, the astronaut went through a special diet to minimize his need for defecating during the flight. On the morning of the trip he typically ate a steak breakfast. After having sensors applied to his body and being dressed in the pressure suit, he started breathing pure oxygen to prepare him for the atmosphere of the spacecraft. He arrived at the launch pad, took the elevator up the launch tower and entered the spacecraft two hours before launch. Once the astronaut was secured inside, the hatch was bolted, the launch area evacuated and the mobile tower rolled back. After this, the launch vehicle was filled with liquid oxygen. The entire procedure of preparing for launch and launching the spacecraft followed a time table called the countdown. It started a day in advance with a pre-count, in which all systems of the launch vehicle and spacecraft were checked. After that followed a 15-hour hold, during which pyrotechnics were installed. Then came the main countdown which for orbital flights started 6½ hours before launch (T – 390 min), counted backwards to launch (T = 0) and then forward until orbital insertion (T + 5 min).
-
-Vol-Atlas-Mercury.png
 
 On an orbital mission, the Atlas' rocket engines were ignited four seconds before lift-off. The launch vehicle was held to the ground by clamps and then released when sufficient thrust was built up at lift-off (A). After 30 seconds of flight, the point of maximum dynamic pressure against the vehicle was reached, at which the astronaut felt heavy vibrations. After 2 minutes and 10 seconds, the two outboard booster engines shut down and were released with the aft skirt, leaving the center sustainer engine running (B). At this point, the launch escape system was no longer needed, and was separated from the spacecraft by its jettison rocket (C). The space vehicle moved gradually to a horizontal attitude until, at an altitude of , the sustainer engine shut down and the spacecraft was inserted into orbit (D). This happened after 5 minutes and 10 seconds in a direction pointing east, whereby the spacecraft would gain speed from the rotation of the Earth. Here the spacecraft fired the three posigrade rockets for a second to separate it from the launch vehicle. Just before orbital insertion and sustainer engine cutoff, g-loads peaked at 8 g (6 g for a suborbital flight). In orbit, the spacecraft automatically turned 180°, pointed the retropackage forward and its nose 14.5° downward and kept this attitude for the rest of the orbital phase of the mission, as it was necessary for communication with the ground.
 
@@ -197,7 +189,7 @@ Shepard Hoisted into Recovery Helicopter - GPN-2000-001361-crop.jpg|Recovery see
 
 Ground control
 
-Mercury_Control_crop.jpg The number of personnel supporting a Mercury mission was typically around 18,000, with about 15,000 people associated with recovery. Most of the others followed the spacecraft from the World Wide Tracking Network, a chain of 18 stations placed around the equator, which was based on a network used for satellites and made ready in 1960. It collected data from the spacecraft and provided two-way communication between the astronaut and the ground. Each station had a range of and a pass typically lasted 7 minutes. Mercury astronauts on the ground would take the role of Capsule Communicator, or CAPCOM, who communicated with the astronaut in orbit. Data from the spacecraft was sent to the ground, processed at the Goddard Space Center and relayed to the Mercury Control Center at Cape Canaveral. In the Control Center, the data was displayed on boards on each side of a world map, which showed the position of the spacecraft, its ground track and the place it could land in an emergency within the next 30 minutes.
+The number of personnel supporting a Mercury mission was typically around 18,000, with about 15,000 people associated with recovery. Most of the others followed the spacecraft from the World Wide Tracking Network, a chain of 18 stations placed around the equator, which was based on a network used for satellites and made ready in 1960. It collected data from the spacecraft and provided two-way communication between the astronaut and the ground. Each station had a range of and a pass typically lasted 7 minutes. Mercury astronauts on the ground would take the role of Capsule Communicator, or CAPCOM, who communicated with the astronaut in orbit. Data from the spacecraft was sent to the ground, processed at the Goddard Space Center and relayed to the Mercury Control Center at Cape Canaveral. In the Control Center, the data was displayed on boards on each side of a world map, which showed the position of the spacecraft, its ground track and the place it could land in an emergency within the next 30 minutes.
 
 The World Wide Tracking Network went on to serve subsequent space programs, until it was replaced by a satellite relay system in the 1980s. Mission Control Center was moved from Cape Canaveral to Houston in 1965.
 
@@ -205,8 +197,6 @@ Mercury Tracking Network 2.png|Ground track and tracking stations for Mercury-At
 
 
 Flights
-
-Mercury-splash-down.png
 
 On April 12, 1961 the Soviet cosmonaut Yuri Gagarin became the first person in space on an orbital flight. Alan Shepard became the first American in space on a suborbital flight three weeks later, on May 5, 1961. John Glenn, the third Mercury astronaut to fly, became the first American to reach orbit on February 20, 1962, but only after the Soviets had launched a second cosmonaut, Gherman Titov, into a day-long flight in August 1961. Three more Mercury orbital flights were made, ending on May 16, 1963 with a day-long, 22 orbit flight. However, the Soviet Union ended its Vostok program the next month, with the human spaceflight endurance record set by the 82-orbit, almost 5-day Vostok 5 flight.
 
@@ -338,7 +328,7 @@ Nine of the planned flights were canceled. Suborbital flights were planned for f
 
 Legacy
 
-Gordon_cooper_ticker_tape.png for Gordon Cooper in New York City, May 1963]]
+for Gordon Cooper in New York City, May 1963]]
 
 Today the Mercury program is commemorated as the first manned American space program. It did not win the race against the Soviet Union, but gave back national prestige and was scientifically a successful precursor of later programs such as Gemini, Apollo and Skylab.
 

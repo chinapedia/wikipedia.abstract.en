@@ -13,7 +13,7 @@ When Otto II became Holy Roman Emperor in 973 (he was co-emperor with Otto I fro
 
 After the death of Otto II in 983, Gerbert became involved in the politics of his time. In 985, with the support of his archbishop, he opposed Lothair of France's attempt to take the Lorraine from Emperor Otto III by supporting Hugh Capet. Hugh became King of France, ending the Carolingian line of Kings in 987.
 
-SylvestreII_aurilac.jpg Adalberon died on 23 January 989.[7] Gerbert was a natural candidate for his succession,[8] but Hugh Capet appointed Arnulf, an illegitimate son of Lothair instead. Arnulf was deposed in 991 for alleged treason against the King, and Gerbert was elected his successor. There was so much opposition to Gerbert's elevation to the See of Rheims, however, that Pope John XV (985–996) sent a legate to France who temporarily suspended Gerbert from his episcopal office. Gerbert sought to show that this decree was unlawful, but a further synod in 995 declared Arnulf's deposition invalid.
+Adalberon died on 23 January 989.[7] Gerbert was a natural candidate for his succession,[8] but Hugh Capet appointed Arnulf, an illegitimate son of Lothair instead. Arnulf was deposed in 991 for alleged treason against the King, and Gerbert was elected his successor. There was so much opposition to Gerbert's elevation to the See of Rheims, however, that Pope John XV (985–996) sent a legate to France who temporarily suspended Gerbert from his episcopal office. Gerbert sought to show that this decree was unlawful, but a further synod in 995 declared Arnulf's deposition invalid.
 
 Gerbert now became the teacher of Otto III, and Pope Gregory V (996–999), Otto III's cousin, appointed him Archbishop of Ravenna in 998. With the Emperor's support, he was elected to succeed Gregory V as Pope in 999. Gerbert took the name of Sylvester II, alluding to Pope Sylvester I (314–335), the advisor to Emperor Constantine I (324–337). Soon after he was elected pope, Sylvester II confirmed the position of his former rival Arnulf as archbishop of Rheims. As pope, he took energetic measures against the widespread practices of simony and concubinage among the clergy, maintaining that only capable men of spotless lives should be allowed to become bishops.
 
@@ -21,8 +21,6 @@ In 1001, the Roman populace revolted against the Emperor, forcing Otto III and S
 
 
 Legend
-
-Silvester_II._and_the_Devil_Cod._Pal._germ._137_f216v.jpg
 
 The legend of Gerbert grows from the work of the English monk William of Malmesbury in _De Rebus Gestis Regum Anglorum_ and a polemical pamphlet, _Gesta Romanae Ecclesiae contra Hildebrandum_, by Cardinal Beno, a partisan of Emperor Henry IV who opposed Pope Gregory VII in the Investiture Controversy.
 
@@ -47,13 +45,13 @@ Gerbert was said to be one of the most noted scientists of his time. Gerbert wro
 
 Abacus and Hindu–Arabic numerals
 
-RomanAbacusRecon.jpg Abacus.]] Gerbert learned of Hindu–Arabic digits and applied this knowledge to the abacus, but probably without the numeral zero. According to the 12th-century historian William of Malmesbury, Gerbert got the idea of the computing device of the abacus from a Spanish Arab.[14] The abacus that Gerbert reintroduced into Europe had its length divided into 27 parts with 9 number symbols (this would exclude zero, which was represented by an empty column) and 1,000 characters in all, crafted out of animal horn by a shieldmaker of Rheims.[15] According to his pupil Richer, Gerbert could perform speedy calculations with his abacus that were extremely difficult for people in his day to think through in using only Roman numerals.[16] Due to Gerbert's reintroduction, the abacus became widely used in Europe once again during the 11th century.
+Abacus.]] Gerbert learned of Hindu–Arabic digits and applied this knowledge to the abacus, but probably without the numeral zero. According to the 12th-century historian William of Malmesbury, Gerbert got the idea of the computing device of the abacus from a Spanish Arab.[14] The abacus that Gerbert reintroduced into Europe had its length divided into 27 parts with 9 number symbols (this would exclude zero, which was represented by an empty column) and 1,000 characters in all, crafted out of animal horn by a shieldmaker of Rheims.[15] According to his pupil Richer, Gerbert could perform speedy calculations with his abacus that were extremely difficult for people in his day to think through in using only Roman numerals.[16] Due to Gerbert's reintroduction, the abacus became widely used in Europe once again during the 11th century.
 
 Armillary sphere and sighting tube
 
 Although lost to Europe since the terminus of the Greco-Roman era, Gerbert reintroduced the astronomical armillary sphere to Latin Europe via the Islamic civilization of Al-Andalus, which was at that time at the "cutting edge" of civilization.[17] The details of Gerbert's armillary sphere are revealed in letters from Gerbert to his former student and monk Remi of Trèves and to his colleague Constantine, the abbot of Micy, as well as the accounts of his former student and French nobleman Richer, who served as a monk in Rheims.[18] Richer stated that Gerbert discovered that stars coursed in an oblique direction across the night sky.[19] Richer described Gerbert's use of the armillary sphere as a visual aid for teaching mathematics and astronomy in the classroom, as well as how Gerbert organized the rings and markings on his device:
 
-Sandro_Botticelli_052.jpg in a painting by Sandro Botticelli, c. 1480.]]
+in a painting by Sandro Botticelli, c. 1480.]]
 
   First [Gerbert] demonstrated the form of the world by a plain wooden sphere... thus expressing a very big thing by a little model. Slanting this sphere by its two poles on the horizon, he showed the northern constellations toward the upper pole and the southern toward the lower pole. He kept this position straight using a circle that the Greeks called _horizon_, the Latins _limitans_, because it divides visible stars from those that are not visible. On this horizon line, placed so as to demonstrate practically and plausibly... the rising and setting of the stars, he traced natural outlines to give a greater appearance of reality to the constellations... He divided a sphere in half, letting the tube represent the diameter, the one end representing the north pole, the other the south pole. Then he divided the semicircle from one pole to the other into thirty parts. Six lines drawn from the pole he drew a heavy ring to represent the arctic polar circle. Five divisions below this he placed another line to represent the tropic of Cancer. Four parts lower he drew a line for the equinoctial circle [the equator]. The remaining distance to the south pole is divided by the same dimensions.[20]
 
@@ -66,7 +64,7 @@ Richer wrote about another of Gerbert's last armillary spheres, which had sighti
 
 Works
 
-Pope_Sylvester_II_(Gerbert_d'Aurillac)_-_De_geometria.jpg Gerbert's writings were printed in volume 139 of the _Patrologia Latina_. Darlington notes that Gerbert's preservation of his letters might have been an effort of his to compile them into a textbook for his pupils that would illustrate proper letter writing.[28] His books on mathematics and astronomy were not research-oriented; his texts were primarily educational guides for his students.[29]
+Gerbert's writings were printed in volume 139 of the _Patrologia Latina_. Darlington notes that Gerbert's preservation of his letters might have been an effort of his to compile them into a textbook for his pupils that would illustrate proper letter writing.[28] His books on mathematics and astronomy were not research-oriented; his texts were primarily educational guides for his students.[29]
 
 -   Mathematical writings
     -   _Libellus de numerorum divisione_[30]

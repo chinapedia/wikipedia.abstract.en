@@ -3,13 +3,11 @@ NUON is a technology developed by VM Labs that adds features to a DVD player. In
 
 History
 
-Nuon_DVD_player_with_game_controller.jpg Nuon originally started off as "Project X," and was featured in _Electronic Gaming Monthly_{{'}}s 1999 Video Game Buyer's Guide. One of the Nuon's main software developers was Jeff Minter, who created a version of _Tempest_ titled _Tempest 3000_ for the system and the built-in VLM-2 audio visualizer. However, the Nuon platform was primarily marketed as an expanded DVD format. A large majority of Nuon players that were sold in fact resembled typical consumer DVD players with the only noticeable difference being a Nuon logo. Nuon players offered a number of features that were not available on other DVD players when playing standard DVD-formatted titles. These included very smooth forward and reverse functionality and the ability to smoothly zoom in and out of sections of the video image. In addition, Nuon provided a software platform to DVD authors to provide interactive software like features to their titles.
+Nuon originally started off as "Project X," and was featured in _Electronic Gaming Monthly_{{'}}s 1999 Video Game Buyer's Guide. One of the Nuon's main software developers was Jeff Minter, who created a version of _Tempest_ titled _Tempest 3000_ for the system and the built-in VLM-2 audio visualizer. However, the Nuon platform was primarily marketed as an expanded DVD format. A large majority of Nuon players that were sold in fact resembled typical consumer DVD players with the only noticeable difference being a Nuon logo. Nuon players offered a number of features that were not available on other DVD players when playing standard DVD-formatted titles. These included very smooth forward and reverse functionality and the ability to smoothly zoom in and out of sections of the video image. In addition, Nuon provided a software platform to DVD authors to provide interactive software like features to their titles.
 
 In North America, Nuon was used in the Samsung DVD-N501 and DVD-N2000 models; they also released several models in other parts of the world: DVD-N504 (Europe), DVD N505 (Europe), and DVD-N591 (Korea). Toshiba released the SD-2300 DVD player, and there are two RCA models, the DRC300N and DRC480N. The Nuon was also used in Motorola's Streamaster 5000 "Digital DNA" set-top box. However, the format has appeared to have died off. Nuon was created by VM Labs, whose assets were sold to Genesis Microchip in April 2002.[1] As of November 2004, there were no Nuon-enabled DVD players shipping and no new Nuon software titles, meaning that it was discontinued.
 
 Specification
-
-Nuon-N2000-Interior.jpg
 
 -   32/128 bit 54 MHz or 108 MHz quad-core VM labs Nuon MPE hybrid stack processor (Media Processing Element, supporting 128-bit SIMD floating point and 32-bit integer but both share the same IEEE 754 floating point register stack to store both flop and integer instructions similar to the Intel MMX technology through contact switch. Each contains a 128-bytes unified cache, with 32-kilobyte shared cache (32-bit SRAM block) and maximum 2 GB physical memory addresses. Some report(s) suggested that a certain model had sported a 333+ MHz clock frequency but it was never released widely.
 -   MCS-251 microcontroller for background task
@@ -21,8 +19,6 @@ Nuon-N2000-Interior.jpg
 Peripherals and accessories
 
 Peripherals for Nuon-enhanced DVD players included the following:
-
-Nuon-Logitech-Controller-FL.jpg
 
 -   Logitech Gamepad
 -   Pro-elite controller

@@ -1,4 +1,4 @@
-The_Coorong_South_Australia.jpg and the reddening of the Sun at sunset.]]
+and the reddening of the Sun at sunset.]]
 
 RAYLEIGH SCATTERING ( ), named after the nineteenth-century British physicist Lord Rayleigh (John William Strutt),[1] is the predominantly elastic scattering of light or other electromagnetic radiation by particles much smaller than the wavelength of the radiation. For light frequencies well below the resonance frequency of the scattering particle (normal dispersion regime), the amount of scattering is inversely proportional to the fourth power of the wavelength.
 
@@ -37,7 +37,7 @@ The strong wavelength dependence of the scattering (~_λ_^(−4)) means that sho
 
 From molecules
 
-Rayleigh_sunlight_scattering.svg The expression above can also be written in terms of individual molecules by expressing the dependence on refractive index in terms of the molecular polarizability _α_, proportional to the dipole moment induced by the electric field of the light. In this case, the Rayleigh scattering intensity for a single particle is given in CGS-units by[17] $I = I_0 \frac{8\pi^4\alpha^2}{\lambda^4 R^2}(1+\cos^2\theta).$
+The expression above can also be written in terms of individual molecules by expressing the dependence on refractive index in terms of the molecular polarizability _α_, proportional to the dipole moment induced by the electric field of the light. In this case, the Rayleigh scattering intensity for a single particle is given in CGS-units by[17] $I = I_0 \frac{8\pi^4\alpha^2}{\lambda^4 R^2}(1+\cos^2\theta).$
 
 
 Effect of fluctuations
@@ -49,7 +49,7 @@ $I=I_0\frac{\pi^2V^2\sigma_\epsilon^2}{2\lambda^4R^2} {\left (1+\cos^2\theta\rig
 
 Cause of the blue color of the sky
 
-CircularPolarizer.jpg. The picture on the right is shot through a polarizing filter: the polarizer transmits light that is linearly polarized in a specific direction.]] The strong wavelength dependence of the scattering (~_λ_^(−4)) means that shorter (blue) wavelengths are scattered more strongly than longer (red) wavelengths. This results in the indirect blue light coming from all regions of the sky. Rayleigh scattering is a good approximation of the manner in which light scattering occurs within various media for which scattering particles have a small size (parameter).
+. The picture on the right is shot through a polarizing filter: the polarizer transmits light that is linearly polarized in a specific direction.]] The strong wavelength dependence of the scattering (~_λ_^(−4)) means that shorter (blue) wavelengths are scattered more strongly than longer (red) wavelengths. This results in the indirect blue light coming from all regions of the sky. Rayleigh scattering is a good approximation of the manner in which light scattering occurs within various media for which scattering particles have a small size (parameter).
 
 A portion of the beam of light coming from the sun scatters off molecules of gas and other small particles in the atmosphere. Here, Rayleigh scattering primarily occurs through sunlight's interaction with randomly located air molecules. It is this scattered light that gives the surrounding sky its brightness and its color. As previously stated, Rayleigh scattering is inversely proportional to the fourth power of wavelength, so that shorter wavelength violet and blue light will scatter more than the longer wavelengths (yellow and especially red light). However, the Sun, like any star, has its own spectrum and so _I_₀ in the scattering formula above is not constant but falls away in the violet. In addition the oxygen in the Earth's atmosphere absorbs wavelengths at the edge of the ultra-violet region of the spectrum. The resulting color, which appears like a pale blue, actually is a mixture of all the scattered colors, mainly blue and green. Conversely, glancing toward the sun, the colors that were not scattered away — the longer wavelengths such as red and yellow light — are directly visible, giving the sun itself a slightly yellowish hue. Viewed from space, however, the sky is black and the sun is white.
 
@@ -71,7 +71,7 @@ where _n_ is the refraction index, _p_ is the photoelastic coefficient of the gl
 
 In porous materials
 
-Why_is_the_sky_blue.jpg glass: it appears blue from the side, but orange light shines through.[21]]] Rayleigh-type _λ_^(−4) scattering can also be exhibited by porous materials. An example is the strong optical scattering by nanoporous materials.[22] The strong contrast in refractive index between pores and solid parts of sintered alumina results in very strong scattering, with light completely changing direction each five micrometers on average. The _λ_^(−4)-type scattering is caused by the nanoporous structure (a narrow pore size distribution around ~70 nm) obtained by sintering monodispersive alumina powder.
+glass: it appears blue from the side, but orange light shines through.[21]]] Rayleigh-type _λ_^(−4) scattering can also be exhibited by porous materials. An example is the strong optical scattering by nanoporous materials.[22] The strong contrast in refractive index between pores and solid parts of sintered alumina results in very strong scattering, with light completely changing direction each five micrometers on average. The _λ_^(−4)-type scattering is caused by the nanoporous structure (a narrow pore size distribution around ~70 nm) obtained by sintering monodispersive alumina powder.
 
 
 See also

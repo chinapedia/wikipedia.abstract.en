@@ -5,8 +5,6 @@ Life and work
 
 Youth
 
-Jean-François_Millet_-_The_Sheepfold,_Moonlight_-_Google_Art_Project.jpg
-
 |url= http://art.thewalters.org/detail/24760
 |title= The Sheepfold, Moonlight}} The Walters Art Museum.]]
 
@@ -14,7 +12,7 @@ Millet was the first child of Jean-Louis-Nicolas and Aimée-Henriette-Adélaïde
 
 Paris
 
-Jean-François_Millet_(II)_005.jpg, Otterlo.]]
+, Otterlo.]]
 
 After his first painting, a portrait, was accepted at the Salon of 1840, Millet returned to Cherbourg to begin a career as a portrait painter. However, the following year he married Pauline-Virginie Ono, and they moved to Paris. After rejections at the Salon of 1843 and Pauline's death by consumption, Millet returned again to Cherbourg.[6] In 1845 Millet moved to Le Havre with Catherine Lemaire, whom he would marry in a civil ceremony in 1853; they would have nine children and remain together for the rest of Millet's life.[7] In Le Havre he painted portraits and small genre pieces for several months, before moving back to Paris.
 
@@ -24,7 +22,7 @@ _The Captivity of the Jews in Babylon_, Millet's most ambitious work at the time
 
 Barbizon
 
-Jean-François_Millet_(II)_013.jpg.]] In 1849, Millet painted _Harvesters_, a commission for the state. In the Salon of that year, he exhibited _Shepherdess Sitting at the Edge of the Forest_, a very small oil painting which marked a turning away from previous idealized pastoral subjects, in favor of a more realistic and personal approach.[10] In June of that year, he settled in Barbizon with Catherine and their children.
+.]] In 1849, Millet painted _Harvesters_, a commission for the state. In the Salon of that year, he exhibited _Shepherdess Sitting at the Edge of the Forest_, a very small oil painting which marked a turning away from previous idealized pastoral subjects, in favor of a more realistic and personal approach.[10] In June of that year, he settled in Barbizon with Catherine and their children.
 
 In 1850 Millet entered into an arrangement with Sensier, who provided the artist with materials and money in return for drawings and paintings, while Millet simultaneously was free to continue selling work to other buyers as well.[11] At that year's Salon, he exhibited _Haymakers_ and _The Sower_, his first major masterpiece and the earliest of the iconic trio of paintings that would include _The Gleaners_ and _The Angelus_.[12]
 
@@ -32,7 +30,7 @@ From 1850 to 1853, Millet worked on _Harvesters Resting (Ruth and Boaz)_,[13] a 
 
 _The Gleaners_
 
-Jean-François_Millet_-_Gleaners_-_Google_Art_Project_2.jpg'', 1857. Musée d'Orsay, Paris.]] This is one of the most well known of Millet's paintings, _The Gleaners_ (1857). While Millet was walking the fields around Barbizon, one theme returned to his pencil and brush for seven years—gleaning—the centuries-old right of poor women and children to remove the bits of grain left in the fields following the harvest. He found the theme an eternal one, linked to stories from the Old Testament. In 1857, he submitted the painting _The Gleaners_ to the Salon to an unenthusiastic, even hostile, public.
+'', 1857. Musée d'Orsay, Paris.]] This is one of the most well known of Millet's paintings, _The Gleaners_ (1857). While Millet was walking the fields around Barbizon, one theme returned to his pencil and brush for seven years—gleaning—the centuries-old right of poor women and children to remove the bits of grain left in the fields following the harvest. He found the theme an eternal one, linked to stories from the Old Testament. In 1857, he submitted the painting _The Gleaners_ to the Salon to an unenthusiastic, even hostile, public.
 
 (Earlier versions include a vertical composition painted in 1854, an etching of 1855–56 which directly presaged the horizontal format of the painting now in the Musée d'Orsay.[15])
 
@@ -40,7 +38,7 @@ A warm golden light suggests something sacred and eternal in this daily scene wh
 
 _The Angelus_
 
-JEAN-FRANÇOIS_MILLET_-_El_Ángelus_(Museo_de_Orsay,_1857-1859._Óleo_sobre_lienzo,_55.5_x_66_cm).jpg, Paris.]]
+, Paris.]]
 
 The painting was commissioned by Thomas Gold Appleton, an American art collector based in Boston, Massachusetts. Appleton previously studied with Millet's friend, the Barbizon painter Constant Troyon. It was completed during the summer of 1857. Millet added a steeple and changed the initial title of the work, _Prayer for the Potato Crop_ to _The Angelus_ when the purchaser failed to take possession of it in 1859. Displayed to the public for the first time in 1865, the painting changed hands several times, increasing only modestly in value, since some considered the artist's political sympathies suspect. Upon Millet's death a decade later, a bidding war between the US and France ensued, ending some years later with a price tag of 800,000 gold francs.
 
@@ -48,7 +46,7 @@ The disparity between the apparent value of the painting and the poor estate of 
 
 Later years
 
-Millet,_Jean-François_II_-_Hunting_Birds_at_Night.jpg.]] Jean-François_Millet,_Calling_Home_the_Cows,_c._1866,_NGA_168820.jpg]]
+.]] ]]
 
 Despite mixed reviews of the paintings he exhibited at the Salon, Millet's reputation and success grew through the 1860s. At the beginning of the decade, he contracted to paint 25 works in return for a monthly stipend for the next three years and in 1865, another patron, Emile Gavet, began commissioning pastels for a collection that would eventually include 90 works.[17] In 1867, the Exposition Universelle hosted a major showing of his work, with the _Gleaners_, _Angelus_, and _Potato Planters_ among the paintings exhibited. The following year, Frédéric Hartmann commissioned _Four Seasons_ for 25,000 francs, and Millet was named Chevalier de la Légion d'Honneur.[18]
 
@@ -57,7 +55,7 @@ In 1870, Millet was elected to the Salon jury. Later that year, he and his famil
 
 Legacy
 
-Jean-François_Millet_-_The_Potato_Harvest_-_Walters_37115.jpg'' (1855)[20] The Walters Art Museum.]] Millet was an important source of inspiration for Vincent van Gogh, particularly during his early period. Millet and his work are mentioned many times in Vincent's letters to his brother Theo. Millet's late landscapes would serve as influential points of reference to Claude Monet's paintings of the coast of Normandy; his structural and symbolic content influenced Georges Seurat as well.[21]
+'' (1855)[20] The Walters Art Museum.]] Millet was an important source of inspiration for Vincent van Gogh, particularly during his early period. Millet and his work are mentioned many times in Vincent's letters to his brother Theo. Millet's late landscapes would serve as influential points of reference to Claude Monet's paintings of the coast of Normandy; his structural and symbolic content influenced Georges Seurat as well.[21]
 
 Millet is the main protagonist of Mark Twain's play _Is He Dead?_ (1898), in which he is depicted as a struggling young artist who fakes his death to score fame and fortune. Most of the details about Millet in the play are fictional.
 

@@ -1,4 +1,4 @@
-Methane-2D-stereo.svg, CH₄; it is one of the simplest organic compounds.]]
+, CH₄; it is one of the simplest organic compounds.]]
 
 In chemistry, an ORGANIC COMPOUND is generally any chemical compound that contains carbon. Due to carbon's ability to catenate (form chains with other carbon atoms), millions of organic compounds are known. The study of the properties, reactions, and syntheses of organic compounds comprises the discipline known as organic chemistry. For historical reasons, a few classes of carbon-containing compounds (e.g., carbonates and cyanide salts), along with a handful of other exceptions (e.g., carbon dioxide), are not classified as organic compounds and are considered inorganic. Other than those just named, little consensus exists among chemists on precisely which carbon-containing compounds are excluded, making any rigorous definition of an organic compound elusive.[1]
 
@@ -22,7 +22,7 @@ Vitalism survived for a while even after the rise of modern ideas about the atom
 
 Modern classification and ambiguities
 
-L-isoleucine-3D-balls.png molecule, C₆H₁₃NO₂, showing features typical of organic compounds. Carbon atoms are in black, hydrogens gray, oxygens red, and nitrogen blue.]]
+molecule, C₆H₁₃NO₂, showing features typical of organic compounds. Carbon atoms are in black, hydrogens gray, oxygens red, and nitrogen blue.]]
 
 Even though vitalism has been discredited, scientific nomenclature retains the distinction between _organic_ and _inorganic_ compounds. The modern meaning of _organic compound_ is any compound that contains a significant amount of carbon—even though many of the organic compounds known today have no connection to any substance found in living organisms. The term _carbogenic_ has been proposed by E. J. Corey as a modern alternative to _organic_, but this neologism remains relatively obscure.
 

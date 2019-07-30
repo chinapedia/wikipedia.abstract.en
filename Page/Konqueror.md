@@ -30,7 +30,7 @@ Navigation functions (back, forward, history, etc.) are available during all ope
 
 Web browser
 
-Screenshot_konqueror.png to render the Wikipedia front page.]] Konqueror has been developed as an autonomous web browser project. It uses KHTML as its browser engine, which is compliant with HTML and supports JavaScript, Java applets, CSS, SSL, and other relevant open standards. An alternative layout engine, _kwebkitpart_, is available from the Extragear.[5]
+to render the Wikipedia front page.]] Konqueror has been developed as an autonomous web browser project. It uses KHTML as its browser engine, which is compliant with HTML and supports JavaScript, Java applets, CSS, SSL, and other relevant open standards. An alternative layout engine, _kwebkitpart_, is available from the Extragear.[5]
 
 While KHTML is the default web-rendering engine, Konqueror is a modular application and other rendering engines are and have been available. Especially the WebKitPart that uses the KHTML-derived WebKit engine has seen a lot of support in the KDE 4 series. One thing to note, is when the KHTML rendering backend is chosen, the user can choose to make a full archive of any given webpage, which is stored in an archive file with the ".war" extension.
 
@@ -42,8 +42,6 @@ Kubuntu's 10.10 Maverick Meerkat release switched their default browser from Kon
 
 
 File manager
-
-4.2_Konqueror_Filebrowser.png Konqueror_4_4_2.png Konqi-audiocd.png
 
 Konqueror also allows browsing the local directory hierarchy—either by entering locations in the address bar, or by selecting items in the file browser window. It allows browsing in different views, which differ in their usage of icons and layout. Files can also be executed, viewed, copied, moved, and deleted.
 
@@ -68,7 +66,7 @@ Similarly, Konqueror can use KIO plugins (called IOslaves) to access ZIP files a
 
 Konqueror Embedded
 
-Konqueror-x11-embedded-linux.png An embedded systems version, KONQUEROR EMBEDDED is available. Unlike the full version of Konqueror, Embedded Konqueror is only a web browser. It does not require KDE or even the X window system. A single static library, it is designed to be as small as possible, while providing all necessary functions of a web browser, such as support for HTML 4, CSS, JavaScript, cookies, and SSL.
+An embedded systems version, KONQUEROR EMBEDDED is available. Unlike the full version of Konqueror, Embedded Konqueror is only a web browser. It does not require KDE or even the X window system. A single static library, it is designed to be as small as possible, while providing all necessary functions of a web browser, such as support for HTML 4, CSS, JavaScript, cookies, and SSL.
 
 
 Download Manager

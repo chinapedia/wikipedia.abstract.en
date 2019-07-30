@@ -1,9 +1,9 @@
-XC68020_top_p1160084.jpg The MOTOROLA 68020 ("_sixty-eight-oh-twenty_", "_sixty-eight-oh-two-oh_" or "_six-eight-oh-two-oh_") is a 32-bit microprocessor from Motorola, released in 1984. It is the successor to the Motorola 68010 and is succeeded by the Motorola 68030. A lower cost version was also made available, known as the 68EC020. In keeping with naming practices common to Motorola designs, the 68020 is usually referred to as the "020", pronounced "oh-two-oh" or "oh-twenty".
+The MOTOROLA 68020 ("_sixty-eight-oh-twenty_", "_sixty-eight-oh-two-oh_" or "_six-eight-oh-two-oh_") is a 32-bit microprocessor from Motorola, released in 1984. It is the successor to the Motorola 68010 and is succeeded by the Motorola 68030. A lower cost version was also made available, known as the 68EC020. In keeping with naming practices common to Motorola designs, the 68020 is usually referred to as the "020", pronounced "oh-two-oh" or "oh-twenty".
 
 
 Description
 
-KL_Motorola_MC68020.jpg The 68020 had 32-bit internal and external data and address buses, compared to the early 680x0 models with 16-bit data and 24-bit address buses. The 68020's ALU was also natively 32-bit, so could perform 32-bit operations in one clock, whereas the 68000 took two clocks minimum due to its 16-bit ALU. Newer packaging methods allowed the '020 to feature more external pins without the large size that the earlier dual in-line package method required. The 68EC020 lowered cost through a 24-bit address bus. The 68020 was produced at speeds ranging from 12 MHz to 33 MHz. Motorola_68020_die.JPG
+The 68020 had 32-bit internal and external data and address buses, compared to the early 680x0 models with 16-bit data and 24-bit address buses. The 68020's ALU was also natively 32-bit, so could perform 32-bit operations in one clock, whereas the 68000 took two clocks minimum due to its 16-bit ALU. Newer packaging methods allowed the '020 to feature more external pins without the large size that the earlier dual in-line package method required. The 68EC020 lowered cost through a 24-bit address bus. The 68020 was produced at speeds ranging from 12 MHz to 33 MHz.
 
 Improvements over the 68010
 
@@ -33,8 +33,6 @@ The new addressing modes added scaled indexing and another level of indirection 
 
 The 68020 had a small 256-byte direct-mapped instruction cache, arranged as 64 four-byte entries. Although small, it still made a significant difference in the performance of many applications. The resulting decrease in bus traffic was particularly important in systems relying heavily on DMA.
 
-XC68020_bottom_p1160085.jpg
-
 
 Usage
 
@@ -53,7 +51,7 @@ For more information on the instructions and architecture see Motorola 68000.
 
 Variant
 
-KL_Motorola_MC68EC020.jpg The 68EC020 is a lower cost version of the Motorola 68020. The main difference between the two is that the 68EC020 only has a 24-bit address bus, rather than the 32-bit address bus of the full 68020, and thus is only able to address 16 MB of memory.
+The 68EC020 is a lower cost version of the Motorola 68020. The main difference between the two is that the 68EC020 only has a 24-bit address bus, rather than the 32-bit address bus of the full 68020, and thus is only able to address 16 MB of memory.
 
 The Commodore Amiga 1200 computer and the Amiga CD32 games console used the cost-reduced 68EC020; the Namco System 22 and Taito F3 arcade boards also used this processor. The Atari Jaguar II prototype also featured this to replace the 68000 of the original Atari Jaguar console. It also found use in laser printers. Apple used it in the LaserWriter IIɴᴛx. Kodak used it in the Ektaplus 7016PS, and Dataproducts used it in the LZR 1260.
 

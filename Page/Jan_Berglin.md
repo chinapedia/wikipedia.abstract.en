@@ -1,5 +1,3 @@
-Jan_Berglin_2011.jpg
-
 JAN BERGLIN (born March 24, 1960) is a Swedish cartoonist who made his debut in the Uppsala student newspaper _Ergo_ in 1985. After completing his studies, Berglin has been living in Gävle where he works as a teacher of Swedish and religion. He published his early strips in the local social democratic newspaper _Arbetarbladet_, but became known to a wider audience in 1995, when he started to draw for the Stockholm-based but nationally distributed conservative newspaper _Svenska Dagbladet_. His strips have been collected and republished in several albums.
 
 Berglin's strips, usually in four panels, tend to find their humour in a sometimes absurd mix of everyday situations and literary and philosophical references or reflections. When he was awarded the Alf Henrikson Prize in 2004, the jury's motivation spoke of his renditions of the "existence of the everyday human between ideals and matter".

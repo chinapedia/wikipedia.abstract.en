@@ -32,7 +32,7 @@ In 1998, Hingis won all four of the Grand Slam women's doubles titles, only the 
 
 1999
 
-Kournikova-Hingis-SYD-1.jpg at the Sydney WTA tournament, 2002]] 1999 saw Hingis win her third successive Australian Open singles crown as well as the doubles title (with Anna Kournikova). She had dropped her former doubles partner Jana Novotná.[28] She then reached the French Open final and was three points away from victory in the second set before losing to Steffi Graf about whom she had said before: "Steffi had some results in the past, but it's a faster, more athletic game now... She is old now. Her time has passed." She broke into tears after a game in which the crowd had booed her for using underhand serves and crossing the line in a discussion about an umpire decision.[29] After a shock first-round, straight set, loss to Jelena Dokić at Wimbledon,[30] Hingis bounced back to reach her third consecutive US Open final, where she lost to 17-year-old Serena Williams. Hingis won a total of seven singles titles that year and reclaimed the No. 1 singles ranking. She also reached the final of the WTA Tour Championships, where she lost to Lindsay Davenport.
+at the Sydney WTA tournament, 2002]] 1999 saw Hingis win her third successive Australian Open singles crown as well as the doubles title (with Anna Kournikova). She had dropped her former doubles partner Jana Novotná.[28] She then reached the French Open final and was three points away from victory in the second set before losing to Steffi Graf about whom she had said before: "Steffi had some results in the past, but it's a faster, more athletic game now... She is old now. Her time has passed." She broke into tears after a game in which the crowd had booed her for using underhand serves and crossing the line in a discussion about an umpire decision.[29] After a shock first-round, straight set, loss to Jelena Dokić at Wimbledon,[30] Hingis bounced back to reach her third consecutive US Open final, where she lost to 17-year-old Serena Williams. Hingis won a total of seven singles titles that year and reclaimed the No. 1 singles ranking. She also reached the final of the WTA Tour Championships, where she lost to Lindsay Davenport.
 
 2000
 
@@ -60,8 +60,6 @@ During this segment of her tennis career, Hingis won 40 singles titles and 36 do
 
 Return to the game
 
-Martina_Hingis_Australian_Open_2006.JPG
-
 2005
 
 In February 2005, Hingis made an unsuccessful return to competition at an event in Pattaya, Thailand, where she lost to Germany's Marlene Weingärtner in the first round. After the loss, she claimed that she had no further plans for a comeback.
@@ -74,7 +72,7 @@ At the Australian Open, Hingis lost in the quarterfinals to second-seeded Kim Cl
 
 The week after the Australian Open, Hingis defeated world No. 4 Maria Sharapova in the semifinals of the Tier I Toray Pan Pacific Open in Tokyo before losing in the final to world No. 9 Elena Dementieva. Hingis competed in Dubai then, reaching the quarterfinals before falling to Sharapova. At the Tier I Pacific Life Open in Indian Wells, Hingis defeated World No. 4 Lindsay Davenport in the fourth round before again losing to Sharapova in the semifinals.
 
-Martina_Hingis_am_Zurich_Open_2006.jpg At the Tier I Internazionali BNL d'Italia in Rome, Hingis posted her 500th career singles match victory in the quarterfinals, beating world No. 18 Flavia Pennetta, and subsequently won the tournament with wins over Venus Williams in the semifinals and Dinara Safina in the final. This was her 41st WTA Tour singles title and first in more than four years. Hingis then reached the quarterfinals of the French Open before losing to Kim Clijsters.
+At the Tier I Internazionali BNL d'Italia in Rome, Hingis posted her 500th career singles match victory in the quarterfinals, beating world No. 18 Flavia Pennetta, and subsequently won the tournament with wins over Venus Williams in the semifinals and Dinara Safina in the final. This was her 41st WTA Tour singles title and first in more than four years. Hingis then reached the quarterfinals of the French Open before losing to Kim Clijsters.
 
 At Wimbledon, Hingis lost in the third round to Ai Sugiyama.
 
@@ -88,7 +86,7 @@ Hingis ended the year ranked world No. 7. She also finished eighth in prize mone
 
 2007
 
-Hingis_Martina.jpg At the Australian Open, Hingis won her first three rounds without losing a set before defeating China's Li Na in the fourth round. Hingis then lost a quarterfinal match to Kim Clijsters. This was the second consecutive year that Hingis had lost to Clijsters in the quarterfinals of the Australian Open[40] and the third time in the last five Grand Slam tournaments that Clijsters had eliminated Hingis in the quarterfinals.
+At the Australian Open, Hingis won her first three rounds without losing a set before defeating China's Li Na in the fourth round. Hingis then lost a quarterfinal match to Kim Clijsters. This was the second consecutive year that Hingis had lost to Clijsters in the quarterfinals of the Australian Open[40] and the third time in the last five Grand Slam tournaments that Clijsters had eliminated Hingis in the quarterfinals.
 
 Hingis won her next tournament, the Tier I Toray Pan Pacific Open in Tokyo, defeating Ana Ivanovic in the final. This was Hingis's record fifth singles title at this event.
 
@@ -115,7 +113,7 @@ At the start of 2010, Hingis defeated former world No. 1 Lindsay Davenport, and 
 
 2011
 
-Martina_Hingis_playing_in_2011.jpg On 5 June 2011, Hingis, paired with Lindsay Davenport, won the Roland Garros Women's Legends title, defeating Martina Navratilova and Jana Novotná in the final. Before facing Navratilova/Novotná, Hingis and Davenport won two round-robin matches in the tournament: first against Gigi Fernández/Natasha Zvereva, and then in the next match they prevailed over Andrea Temesvári/Sandrine Testud and 10:0 in the super tie-break.[64][65]
+On 5 June 2011, Hingis, paired with Lindsay Davenport, won the Roland Garros Women's Legends title, defeating Martina Navratilova and Jana Novotná in the final. Before facing Navratilova/Novotná, Hingis and Davenport won two round-robin matches in the tournament: first against Gigi Fernández/Natasha Zvereva, and then in the next match they prevailed over Andrea Temesvári/Sandrine Testud and 10:0 in the super tie-break.[64][65]
 
 On 3 July, Hingis partnering Lindsay Davenport won the Wimbledon Ladies' Invitation Doubles title, defeating Navratilova and Novotná in the final.[66] She also played for the New York Sportimes of the World TeamTennis Pro League in July 2011. She finished the season with the top winning percentage of any player competing in women's singles.
 
@@ -128,7 +126,7 @@ Second return and doubles success
 
 2013: Coming out of retirement
 
-Martina_Hingis_2013_Rogers_Cup_practice.jpg In April 2013, Hingis agreed to coach Anastasia Pavlyuchenkova;[67] however, after a disagreement about how to prepare for tournaments they parted ways in June.[68]
+In April 2013, Hingis agreed to coach Anastasia Pavlyuchenkova;[67] however, after a disagreement about how to prepare for tournaments they parted ways in June.[68]
 
 Hingis won the Ladies' Invitation Doubles for a third year in a row at Wimbledon, again with Davenport. They beat Jana Novotná and Barbara Schett in the final. Hingis was inducted into the International Tennis Hall of Fame in July 2013, and in the same month, announced that she was coming out of retirement to play a doubles tournament, with Daniela Hantuchová as her partner, in Carlsbad, California. She was accepted as a wildcard entry. She also played doubles in Toronto, Cincinnati, New Haven, and the US Open.
 
@@ -136,7 +134,7 @@ Hingis won the Ladies' Invitation Doubles for a third year in a row at Wimbledon
 
 Hingis helped Sabine Lisicki during the Australian Open. She participated in Champions Tennis League India to boost tennis in the country.[69]
 
-Martina_Hingis_(14274497858).jpg Hingis returned to the WTA Tour at Indian Wells, partnering Lisicki in the doubles. They lost in the first round to three-time Grand Slam finalists Ashleigh Barty and Casey Dellacqua. At the Sony Open in Miami, Hingis and Lisicki reached the finals of the tournament and then defeated Makarova and Vesnina in straight sets, marking Hingis' first title since she won the Qatar Ladies Open in 2007 and her first Premier Mandatory doubles title since winning the 2001 title in Moscow. This was also her third win in Miami, having won her last title there in 1999.
+Hingis returned to the WTA Tour at Indian Wells, partnering Lisicki in the doubles. They lost in the first round to three-time Grand Slam finalists Ashleigh Barty and Casey Dellacqua. At the Sony Open in Miami, Hingis and Lisicki reached the finals of the tournament and then defeated Makarova and Vesnina in straight sets, marking Hingis' first title since she won the Qatar Ladies Open in 2007 and her first Premier Mandatory doubles title since winning the 2001 title in Moscow. This was also her third win in Miami, having won her last title there in 1999.
 
 Hingis reached the final at Eastbourne with Pennetta where they lost to Chan Hao-ching and Chan Yung-jan of Taiwan. At the Wimbledon Championships, she reached the quarterfinals with partner Bruno Soares in mixed doubles, where they lost to Daniel Nestor and Kristina Mladenovic in straight sets.
 
@@ -146,7 +144,7 @@ At the latter end of the season, Hingis and Flavia Pennetta won two titles. At t
 
 2015: Five Major doubles titles
 
-Martina_Hingis_and_Sania_Mirza_Won_Wimbledon_2015_cropped.jpg In Hingis' first tournament of the year in Brisbane, she and partner Sabine Lisicki didn't drop a set en route to the title, beating Caroline Garcia and Katarina Srebotnik in straight sets in the final. Hingis played at the Australian Open with Flavia Pennetta, as the 4th seeds, but lost in the third round. However, Hingis paired with Leander Paes in the mixed doubles to win the title. The win was her first in a Grand Slam event since capturing the mixed-doubles crown at the 2006 Australian Open.
+In Hingis' first tournament of the year in Brisbane, she and partner Sabine Lisicki didn't drop a set en route to the title, beating Caroline Garcia and Katarina Srebotnik in straight sets in the final. Hingis played at the Australian Open with Flavia Pennetta, as the 4th seeds, but lost in the third round. However, Hingis paired with Leander Paes in the mixed doubles to win the title. The win was her first in a Grand Slam event since capturing the mixed-doubles crown at the 2006 Australian Open.
 
 After early exits with Pennetta at the Dubai Tennis Championships and Qatar Ladies Open, Hingis then partnered with Indian player Sania Mirza; they won the first 20 sets they contested, subsequently winning back-to-back titles in two WTA Premier Mandatory events: the BNP Paribas Open in Indian Wells and the Miami Open, also winning afterwise the Family Circle Cup. They were defeated in the first round in Stuttgart. At the Madrid Open they lost in the quarterfinals to Australian Open champions Bethanie Mattek-Sands and Lucie Šafářová 11–9 in the super tie-break. They reached the quarterfinals of the French Open, losing again to Mattek-Sands and Šafářová, this time in straight sets.
 

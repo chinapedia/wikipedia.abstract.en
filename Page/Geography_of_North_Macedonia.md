@@ -5,7 +5,7 @@ Phytogeographically, Macedonia belongs to the Illyrian province of the Circumbor
 
 Climate
 
-Koppen-Geiger_Map_MKD_present.svg climate classification map for North Macedonia]]
+climate classification map for North Macedonia]]
 
 North Macedonia has a unique climate explained by its location and topography. The climate of the plains is a Mediterranean climate combined with the influence of the Black Sea.[1] The country also holds continental characteristics, which are accentuated by the mountains in the south which prevent hot air from the south from moving to the north. Conversely, the Šar Mountains, which are located in the northwestern part, block cold northern winds. In whole, the northern and western parts of the country are relatively close to a Continental climate and the southern and eastern to a Mediterranean climate.[2]
 
@@ -41,7 +41,7 @@ Boundaries
 
 The country has some 766 km of boundaries, shared with Kosovo (159 km or 99 mi) to the northwest, Serbia (62 km or 39 mi) to the North, Bulgaria (148 km) to the east, Greece (246 km) to the south, and Albania (151 km) to the west.
 
-The north border with Serbia and Kosovo is 221 kilometers in length. The border was made after World War II, between SR Macedonia and SR Serbia.[14] But in 2008 when Kosovo declared independence the border with it was remarked again. Rather more than half of the boundary separates North Macedonia from Kosovo. From the tripoint with Albania, the boundary trends north-eastwards along the watershed of Šar Mountain. It describes a curve to the south across the River Lepenec and then turns to north-east to traverse Mount Crna before taking a course slightly to the north of east across the landscape features to the tripoint with Bulgaria. Satellite_image_of_Macedonia_in_December_2002.jpg The east border with Bulgaria has length of approximately 148 km. The settled boundary from Yugoslavia and the People's Republic of Bulgaria was accepted after the independence in 1992.[15] The boundary starts from the tripoint with Greece, the boundary runs north, crossing the River of Strumica and then rising to the watershed which it follows northwards and then north-westwards to the tripoint with Serbia.
+The north border with Serbia and Kosovo is 221 kilometers in length. The border was made after World War II, between SR Macedonia and SR Serbia.[14] But in 2008 when Kosovo declared independence the border with it was remarked again. Rather more than half of the boundary separates North Macedonia from Kosovo. From the tripoint with Albania, the boundary trends north-eastwards along the watershed of Šar Mountain. It describes a curve to the south across the River Lepenec and then turns to north-east to traverse Mount Crna before taking a course slightly to the north of east across the landscape features to the tripoint with Bulgaria. The east border with Bulgaria has length of approximately 148 km. The settled boundary from Yugoslavia and the People's Republic of Bulgaria was accepted after the independence in 1992.[15] The boundary starts from the tripoint with Greece, the boundary runs north, crossing the River of Strumica and then rising to the watershed which it follows northwards and then north-westwards to the tripoint with Serbia.
 
 The south border that splits North Macedonia from Greece is 228 km long and it is the longest border. It was marked with the Treaty of Bucharest on 10 August 1913.[16] The border starts from the tripoint with Albania, in Lake Prespa, the boundary runs in a straight line eastwards across the lake and then continues in the north of east trend across the relief to the Voras Oros (Nidže), where it turns north-eastwards. It traverses the watershed of the Voras Oros and then continues eastwards along the watershed before dropping to the valley of Vardar river. The boundary continues eastwards and then turns north across the Dojran lake, before, on the latitude of Valandovo, turning east to the tripoint with Bulgaria on Mount Tumba.
 
@@ -49,15 +49,13 @@ The boundary with Albania was marked first in 1926 and then remarked with the Tr
 
 Topography
 
-Mount_Korab,_Republic_of_Macedonia.jpg
-
 North Macedonia is a landlocked country that is geographically clearly defined by a central valley formed by the Vardar river and framed along its borders by mountain ranges. The terrain is mostly rugged, located between the Šar Mountains and Osogovo, which frame the valley of the Vardar river. Three large lakes — Lake Ohrid, Lake Prespa and Dojran Lake — lie on the southern borders, bisected by the frontiers with Albania and Greece. Ohrid is considered to be one of the oldest lakes and biotopes in the world.[18] The region is seismically active and has been the site of destructive earthquakes in the past, most recently in 1963 when Skopje was heavily damaged by a major earthquake, killing over 1,000.
 
 North Macedonia also has scenic mountains. They belong to two different mountain ranges: the first is the Šar Mountains[19][20] that continues to the West Vardar/Pelagonia group of mountains (Baba Mountain, Nidže, Kozuf and Jakupica), also known as the Dinaric range. The second range is the Osogovo–Belasica mountain chain, also known as the Rhodope range. The mountains belonging to the Šar Mountains and the West Vardar/Pelagonia range are younger and higher than the older mountains that are part of the Osogovo-Belasica mountain group. The ten highest mountains in North Macedonia are:
 
 Hydrography
 
-Golemo_Ezero.jpg mountains|alt=Golemo Ezero surrounded by land scattered with snow]] In North Macedonia there are 1,100 large sources of water. The rivers flow into three different basins: the Aegean, the Adriatic and that Black Sea basin.[21]
+mountains|alt=Golemo Ezero surrounded by land scattered with snow]] In North Macedonia there are 1,100 large sources of water. The rivers flow into three different basins: the Aegean, the Adriatic and that Black Sea basin.[21]
 
 The Aegean basin is the largest. It covers 87% of the country's territory, which is 22,075 km² . Vardar, the largest river in this basin, drains 80% of the territory or 20,459 km². Its valley plays an important part in the economy and the communication system of the country. The project named The Vardar Valley is considered to be crucial for the strategic development of the country.
 
@@ -71,7 +69,7 @@ There are nine spa resorts in North Macedonia: Banište, Banja Bansko, Istibanja
 
 River Vardar
 
-Vardar_Veles_Macedonia.jpg|alt=The brown-coloured Vardar flowing through Veles]]
+|alt=The brown-coloured Vardar flowing through Veles]]
 
 The Vardar is the longest and most important river in North Macedonia. It is long, and drains an area of around .
 
@@ -85,15 +83,13 @@ The river is depicted on the coat of arms of Skopje, which in turn is incorporat
 
 Lake Ohrid
 
-Ohridsoeen.jpg
-
-Lake Ohrid (Macedonian: Охридско Езеро, Ohridsko Ezero) straddles the mountainous border between southwestern North Macedonia and eastern Albania. Lake Ohrid is the deepest lake of the Balkans, with a maximum depth of 288 m (940 ft) and a mean depth of 155 m (508 ft). It covers an area of , containing an estimated 55.4 km³ of water. It is 30.4 km long by 14.8 km wide at its maximum extent with a shoreline length of 87.53 km, shared between North Macedonia (56.02 km) and Albania (31.51 km). The lake drains an area of around 2600 km² and is fed primarily by underground springs on the eastern shore (about 50% of total inflow), with roughly 25% shares from rivers and direct precipitation. Over 20% of the lake's water comes from nearby Lake Prespa, about to the southeast and at 150 m higher altitude than Lake Ohrid. Ohrid_and_Prespa_lakes_topographic_map.svg While Lake Ohrid is special as such, by far the most spectacular quality is its impressive endemism. Similar to Lake Baikal or Lake Tanganyika, Lake Ohrid harbors endemic species covering the whole food-chain, from phytoplankton and sestile algae (20 species; e.g., Cyclotella fottii), over plant species (2 species; e.g., Chara ohridana), zooplankton (5 species; e.g., Cyclops ochridanus), cyprinid fish (8 species; e.g., Pachychilon pictus), to predatory fish (2 trout species; Ohrid trout Salmo letnica and "Belvica" Acantholingua ohridana) and finally its diverse endemic bottom fauna (176 species; e.g. Ochridagammarus solidus), with particularly large endemism among crustaceans, molluscs, sponges and planarians.
+Lake Ohrid (Macedonian: Охридско Езеро, Ohridsko Ezero) straddles the mountainous border between southwestern North Macedonia and eastern Albania. Lake Ohrid is the deepest lake of the Balkans, with a maximum depth of 288 m (940 ft) and a mean depth of 155 m (508 ft). It covers an area of , containing an estimated 55.4 km³ of water. It is 30.4 km long by 14.8 km wide at its maximum extent with a shoreline length of 87.53 km, shared between North Macedonia (56.02 km) and Albania (31.51 km). The lake drains an area of around 2600 km² and is fed primarily by underground springs on the eastern shore (about 50% of total inflow), with roughly 25% shares from rivers and direct precipitation. Over 20% of the lake's water comes from nearby Lake Prespa, about to the southeast and at 150 m higher altitude than Lake Ohrid. While Lake Ohrid is special as such, by far the most spectacular quality is its impressive endemism. Similar to Lake Baikal or Lake Tanganyika, Lake Ohrid harbors endemic species covering the whole food-chain, from phytoplankton and sestile algae (20 species; e.g., Cyclotella fottii), over plant species (2 species; e.g., Chara ohridana), zooplankton (5 species; e.g., Cyclops ochridanus), cyprinid fish (8 species; e.g., Pachychilon pictus), to predatory fish (2 trout species; Ohrid trout Salmo letnica and "Belvica" Acantholingua ohridana) and finally its diverse endemic bottom fauna (176 species; e.g. Ochridagammarus solidus), with particularly large endemism among crustaceans, molluscs, sponges and planarians.
 
 There are three cities on the lake's shores: Ohrid and Struga on North Macedonia's side; Pogradec in Albania. There are also several fishing villages, although tourism is now a more significant part of their income. The catchment area of the lake has a population of around 170,000 people, with 131,000 people living directly at the lake shore (43,000 in Albania and 88,000 in North Macedonia).
 
 Lake Prespa
 
-Prespa-ostrov.jpg in Lake Prespa|alt=The island of Golem Grad in Lake Prespa]]
+in Lake Prespa|alt=The island of Golem Grad in Lake Prespa]]
 
 The Great Prespa Lake (Macedonian: Преспанско Езеро, Prespansko Ezero) is divided between Albania, Greece and North Macedonia. The biggest island in the Great Prespa Lake, on North Macedonia's side, is called _Golem Grad_ ("Large Fortress"), or Snake Island (Змиски Остров). The other island _Mal Grad_ ("Small Fortress", in Albania) is the site of a ruined 14th century monastery dedicated to St. Peter. Today, both islands are uninhabited. (See also: List of islands of the Republic of North Macedonia).
 
@@ -105,7 +101,7 @@ Dojran Lake, located in southeastern North Macedonia, is the smallest of the thr
 
 Flora and fauna
 
-Pinus_peuce_Habitus_BotGardBln0906.jpg'', the Macedonian pine or molika, one of North Macedonia's most recognizable trees|alt=a tall green tree]] The flora of North Macedonia is represented with around 210 families, 920 genera, and around 3,700 plant species. The most abundant group are the flowering plants with around 3,200 species, which is followed by mosses (350 species) and ferns (42).
+'', the Macedonian pine or molika, one of North Macedonia's most recognizable trees|alt=a tall green tree]] The flora of North Macedonia is represented with around 210 families, 920 genera, and around 3,700 plant species. The most abundant group are the flowering plants with around 3,200 species, which is followed by mosses (350 species) and ferns (42).
 
 Phytogeographically, North Macedonia belongs to the Illyrian province of the Circumboreal Region within the Boreal Kingdom. According to the WWF and Digital Map of European Ecological Regions by the European Environment Agency, the territory of the Republic can be subdivided into four ecoregions: the Pindus Mountains mixed forests, Balkan mixed forests, Rhodopes mixed forests and Aegean sclerophyllous and mixed forests.
 
@@ -127,7 +123,7 @@ According to 2004 estimates, there are 1278 km² of irrigated land, and 6.4 km
 
 Degradation and protection of the environment
 
-Balkan_Fires,_Earth_from_Aqua_(EOS_PM-1)_(2007-07-25).jpg in July 2007, fires were particularly visible in Greece, Albania and North Macedonia|alt=Photo of the Balkans taken from space showing wildfires]]
+in July 2007, fires were particularly visible in Greece, Albania and North Macedonia|alt=Photo of the Balkans taken from space showing wildfires]]
 
 In July 2007, fires were particularly visible in Greece, Albania and North Macedonia.
 
@@ -150,7 +146,7 @@ Human Geography
 
 Differences in population and urbanization
 
-Прилеп-панорама.jpg and the plain of Pelagonia|alt=the red-roofed buildings of Prilep and surrounding mountains and vallies]] The Republic of North Macedonia consists primarily of rural country towns, with only 45% of the population concentrated in the larger towns and cities. Skopje, with more than 500,000 inhabitants, is by far the largest city in the country. The surrounding region, one of the few plains of the country, includes several other cities, like Tetovo and Gostivar. Bitola, Prilep and other significant cities, are located in the plain of Pelagonia in the south. The rest of the population is concentrated in the valley of the Vardar and the few other basins and plains of the country.
+and the plain of Pelagonia|alt=the red-roofed buildings of Prilep and surrounding mountains and vallies]] The Republic of North Macedonia consists primarily of rural country towns, with only 45% of the population concentrated in the larger towns and cities. Skopje, with more than 500,000 inhabitants, is by far the largest city in the country. The surrounding region, one of the few plains of the country, includes several other cities, like Tetovo and Gostivar. Bitola, Prilep and other significant cities, are located in the plain of Pelagonia in the south. The rest of the population is concentrated in the valley of the Vardar and the few other basins and plains of the country.
 
 Urbanization, which is developing very fast since the communist era of Yugoslavia, has led to uncontrolled and illegal constructions. Other cities have not grown as fast as the capital, which has gained more than 300,000 inhabitants between 1948 and 1981. Bitola, Prilep and Kumanovo, the three other major cities, did not exceed 30,000 inhabitants in 1948 and have barely reached 100,000 people since. Kumanovo, which is the second largest city of North Macedonia, had only 105,000 inhabitants in 2002, which is substantial difference comparing it with the population of the capital Skopje – 506,000 inhabitants.
 
@@ -192,13 +188,11 @@ TextData=
 
 Ethnic distribution
 
-Macedonia_ethnic2002_03.png of Macedonia according to the ethnic majority (in yellow, the Macedonians, in orange the Albanians, in green Turks, in blue municipalities with mixed ethnic groups)|alt=A map of Macedonia showing the most prominent ethnicity by municipality. Municipalities in the northwest frequently have Albanian majorities, and a couple with Turkish majorities. Almost all of the rest have Macedonian majorities]]
+of Macedonia according to the ethnic majority (in yellow, the Macedonians, in orange the Albanians, in green Turks, in blue municipalities with mixed ethnic groups)|alt=A map of Macedonia showing the most prominent ethnicity by municipality. Municipalities in the northwest frequently have Albanian majorities, and a couple with Turkish majorities. Almost all of the rest have Macedonian majorities]]
 
 The Macedonians are the largest ethnic group in the country, accounting for 64.2% of the total population, according to the 2002 census. They speak the Macedonian language and most are Orthodox Christians. Ethnic Albanians are the country's largest minority, making up one-quarter of the total population. They live mainly in the west and northwest. The Turks, who comprise nearly 4% of the population, are mostly scattered, though they form a majority in two municipalities (Plasnica and Centar Župa). The Romani make up 2.7% of the population and are also concentrated throughout North Macedonia, while the Serbs, who form just under 2% of the total population, live mostly in the north of the country.[31]
 
 Administrative divisions
-
-MKD_muni_nonn_Rural-Urban-fr.png
 
 North Macedonia is divided into eight statistical regions: Skopje, Pelagonia, Polog, Vardar, Eastern, Southeastern, Northeastern and Southwestern.[32]
 
@@ -219,7 +213,7 @@ North Macedonia is also rich with minerals. The country in fact has substantial 
 
 Agriculture is encouraged by the significant water resources, managed by dams and canals. The presence of hot springs of volcanic origin can heat the greenhouses in winter, particularly in the Strumica region, whose products include tomatoes and cucumbers in the month of February. Different climates provide opportunities for various productions in the geographical area, so the vine and tobacco are operated in the south, the rice in the region of Kočani which is largely irrigated, and the wood industry is concentrated around Štip.[41] Agriculture contributes a significant share of exports, especially with the wine and tobacco. The low cost of labor also helps the textile industry.
 
-Ohrid_Lake.jpg with a view of the Ohrid Lake, the most popular destination for tourists in North Macedonia|alt=Church of St John at Kaneo on hill with Lake Ohrid beneath it]] North Macedonia receives about 1,000,000 tourists annually[42] and experiences a constant increase of visitors. The number of domestic tourists in the period from January to March 2008 compared to the same period of the previous year, increased 23.5%. While the number of foreign tourists in March 2008 compared to March 2007 increased 44.7%.[43] In 2007, Lake Ohrid had received about 250,000 domestic and foreign tourists.[44] In February 2009, nearly 28,000 tourists, or 3.2% more than the same month last year, visited North Macedonia. There was also an 8% increase in the number of foreign visitors to the country.[45] The summer of 2009 was the city of Dojran's best tourist season with 135,000 overnight visitors, an increase of 12.5% compared to the previous year.[46]
+with a view of the Ohrid Lake, the most popular destination for tourists in North Macedonia|alt=Church of St John at Kaneo on hill with Lake Ohrid beneath it]] North Macedonia receives about 1,000,000 tourists annually[42] and experiences a constant increase of visitors. The number of domestic tourists in the period from January to March 2008 compared to the same period of the previous year, increased 23.5%. While the number of foreign tourists in March 2008 compared to March 2007 increased 44.7%.[43] In 2007, Lake Ohrid had received about 250,000 domestic and foreign tourists.[44] In February 2009, nearly 28,000 tourists, or 3.2% more than the same month last year, visited North Macedonia. There was also an 8% increase in the number of foreign visitors to the country.[45] The summer of 2009 was the city of Dojran's best tourist season with 135,000 overnight visitors, an increase of 12.5% compared to the previous year.[46]
 
 The tourist capital of North Macedonia, Ohrid,[47] has been listed as an UNESCO World Heritage Site since 1979.[48]
 

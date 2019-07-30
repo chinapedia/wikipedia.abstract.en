@@ -1,5 +1,3 @@
-Chief_Justice_Earl_Warren_-_Miranda_v._Arizona_(1966).jpg
-
 In the United States, the _MIRANDA_ WARNING is a type of notification customarily given by police to criminal suspects in police custody (or in a custodial interrogation) advising them of their right to silence; that is, their right to refuse to answer questions or provide information to law enforcement or other officials. These rights are often referred to as _MIRANDA_ RIGHTS. The purpose of such notification is to preserve the admissibility of their statements made during custodial interrogation in later criminal proceedings.
 
 The language used in a _Miranda_ warning varies between jurisdictions,[1] but the warning is deemed adequate as long as the defendant's rights are properly disclosed such that any waiver of those rights by the defendant is knowing, voluntary, and intelligent.[2] For example, the warning may be phrased as follows:[3]
@@ -9,7 +7,7 @@ The _Miranda_ warning is part of a preventive criminal procedure rule that law e
 
 Origin and development of _Miranda_ rights
 
-CBP_Border_Patrol_agent_reads_the_Miranda_rights.jpg (CBP) Border Patrol agent reading the Miranda rights to a suspect]] The concept of "_Miranda_ rights" was enshrined in U.S. law following the 1966 _Miranda v. Arizona_ Supreme Court decision, which found that the Fifth and Sixth Amendment rights of Ernesto Arturo Miranda had been violated during his arrest and trial for armed robbery, kidnapping, and rape of a mentally handicapped young woman (Miranda was subsequently retried and convicted, based primarily on his estranged ex-partner, who had been tracked down by the original arresting officer via Miranda's own parents, suddenly claiming that Miranda had confessed to her when she had visited him in jail; Miranda's lawyer later confessed that he 'goofed' the trial[4]).
+(CBP) Border Patrol agent reading the Miranda rights to a suspect]] The concept of "_Miranda_ rights" was enshrined in U.S. law following the 1966 _Miranda v. Arizona_ Supreme Court decision, which found that the Fifth and Sixth Amendment rights of Ernesto Arturo Miranda had been violated during his arrest and trial for armed robbery, kidnapping, and rape of a mentally handicapped young woman (Miranda was subsequently retried and convicted, based primarily on his estranged ex-partner, who had been tracked down by the original arresting officer via Miranda's own parents, suddenly claiming that Miranda had confessed to her when she had visited him in jail; Miranda's lawyer later confessed that he 'goofed' the trial[4]).
 
 The circumstances triggering the Miranda safeguards, i.e. Miranda rights, are "custody" and "interrogation". Custody means formal arrest or the deprivation of freedom to an extent associated with formal arrest. Interrogation means explicit questioning or actions that are reasonably likely to elicit an incriminating response. The Supreme Court did not specify the exact wording to use when informing a suspect of their rights. However, the Court did create a set of guidelines that must be followed. The ruling states:
 
@@ -58,7 +56,7 @@ The duty to warn only arises when police officers conduct custodial interrogatio
 
 Use in various U.S. state jurisdictions
 
-Fugitive_felon_life_magazine.jpg Some jurisdictions provide the right of a juvenile to remain silent if their parent or guardian is not present. Some departments in New Jersey, Nevada, Oklahoma, and Alaska modify the "providing an attorney" clause as follows:
+Some jurisdictions provide the right of a juvenile to remain silent if their parent or guardian is not present. Some departments in New Jersey, Nevada, Oklahoma, and Alaska modify the "providing an attorney" clause as follows:
 
 Even though this sentence may be somewhat ambiguous to some laypersons, who can, and who _have_ actually interpreted it as meaning that they will not get a lawyer until they confess and are arraigned in court, the U.S. Supreme Court has approved of it as an accurate description of the procedure in those states.[16]
 

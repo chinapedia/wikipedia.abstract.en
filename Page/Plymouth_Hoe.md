@@ -1,4 +1,4 @@
-Plymouth_Hoe_from_Mount_Batten_(crop).jpg in 2006.]] PLYMOUTH HOE, referred to locally as THE HOE, is a large south-facing open public space in the English coastal city of Plymouth. The Hoe is adjacent to and above the low limestone cliffs that form the seafront and it commands views of Plymouth Sound, Drake's Island, and across the Hamoaze to Mount Edgcumbe in Cornwall. The name derives from the Anglo-Saxon word _Hoe_, a sloping ridge shaped like an inverted foot and heel.
+in 2006.]] PLYMOUTH HOE, referred to locally as THE HOE, is a large south-facing open public space in the English coastal city of Plymouth. The Hoe is adjacent to and above the low limestone cliffs that form the seafront and it commands views of Plymouth Sound, Drake's Island, and across the Hamoaze to Mount Edgcumbe in Cornwall. The name derives from the Anglo-Saxon word _Hoe_, a sloping ridge shaped like an inverted foot and heel.
 
 
 History
@@ -9,14 +9,14 @@ Plymouth Hoe is perhaps best known for the probably apocryphal story that Sir Fr
 
 A Tudor fortress guarded the neck of water between the eastern Hoe and Mount Batten and some sheer granite and limestone cannon points remain, however in the late 1660s, following The Restoration, a massive star-shaped stone fortress known as the Royal Citadel, was constructed to replace it. Its purpose was to protect the port and probably also to intimidate the townsfolk who had leaned towards Parliament during the Civil War.[5] It remains occupied by the military.
 
-The_Colonnade,_Plymouth.jpg From 1880 there was a popular bandstand on the Hoe. It was removed for scrap metal during the Second World War and never rebuilt.[6] A three tier belvedere built in 1891 survives;[7] it was built on the site of a camera obscura, probably built in the 1830s, which showed views of the harbour.[8] Below this site was the Bull Ring (now a memorial garden),[9] and a grand pleasure pier, started in 1880, which provided a dance hall, refreshment, promenading and a landing place for boat trips.[10] The pier was destroyed by German bombing in World War II.
+From 1880 there was a popular bandstand on the Hoe. It was removed for scrap metal during the Second World War and never rebuilt.[6] A three tier belvedere built in 1891 survives;[7] it was built on the site of a camera obscura, probably built in the 1830s, which showed views of the harbour.[8] Below this site was the Bull Ring (now a memorial garden),[9] and a grand pleasure pier, started in 1880, which provided a dance hall, refreshment, promenading and a landing place for boat trips.[10] The pier was destroyed by German bombing in World War II.
 
 There is an imposing series of Victorian terraces to the west of the naval memorial which previously continued to the Grand Hotel and, until it was destroyed by bombing, the grand clubhouse of the Royal Western Yacht Club. The club then merged with the Royal Southern and occupied that club's older premises which it had created from the regency public steam baths by the basin at West Hoe before the rejuvenated club moved in the late 1980s to Queen Anne Battery.
 
 
 Landmarks
 
-Smeatons_Lighthouse_on_Plymouth_Hoe.jpg, as re-erected on Plymouth Hoe.]] A prominent landmark on the Hoe is Smeaton's Tower. This is the upper portion of John Smeaton's Eddystone Lighthouse, which was originally built on the Eddystone Rocks, located to the south, in 1759. It was dismantled in 1877 and moved, stone by stone, to the Hoe where it was re-erected.[11]
+, as re-erected on Plymouth Hoe.]] A prominent landmark on the Hoe is Smeaton's Tower. This is the upper portion of John Smeaton's Eddystone Lighthouse, which was originally built on the Eddystone Rocks, located to the south, in 1759. It was dismantled in 1877 and moved, stone by stone, to the Hoe where it was re-erected.[11]
 
 Smeaton's Tower overlooks Tinside Pool, an unusual 1930s outdoor lido which sits upon the limestone shoreline at the base of the cliff. Most of the works to create the swimming areas and Madeira Road were carried out to make work for the local unemployed during the Depression.
 
@@ -33,7 +33,7 @@ The Hoe is a popular area for Plymothians and visitors. There is always a great 
 
 For forty years, there has been controversy about development on the edges of the Hoe green space. The erection of two discount hotel chain box buildings, at the southern end of Armada Way and the other at the Sound end of Leigham Street, contrast with their Victorian surroundings. The former Grand Hotel has been converted into apartments[16] and the long derelict yacht club site has now been filled by a modern block of flats.
 
-The Plymouth Dome, a turreted and domed building, built into a small old quarry site above Tinside as an historical theme tourist attraction,[17] failed to obtain sufficient funding and closed in 2006, despite having been visited by 2.3 million people. Between 2013 and 2016 it was a restaurant owned by celebrity chef Gary Rhodes.[18] Plymouth_Sound_at_evening_light_-_geograph.org.uk_-_89777.jpg and the Breakwater.]]
+The Plymouth Dome, a turreted and domed building, built into a small old quarry site above Tinside as an historical theme tourist attraction,[17] failed to obtain sufficient funding and closed in 2006, despite having been visited by 2.3 million people. Between 2013 and 2016 it was a restaurant owned by celebrity chef Gary Rhodes.[18] and the Breakwater.]]
 
 
 Tombstoning

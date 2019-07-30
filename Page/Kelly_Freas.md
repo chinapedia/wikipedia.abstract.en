@@ -1,4 +1,4 @@
-Disqualified_by_Freas.png, _If magazine_, September 1954.]]
+, _If magazine_, September 1954.]]
 
 FRANK KELLY FREAS (August 27, 1922 – January 2, 2005) was an American science fiction and fantasy artist with a career spanning more than 50 years. He was known as the "Dean of Science Fiction Artists" and he was the second artist inducted by the Science Fiction Hall of Fame.[1]
 
@@ -10,11 +10,9 @@ Born in Hornell, New York, Freas (pronounced like "freeze") was the son of two p
 
 Career
 
-Weird_Tales_November_1950.jpg
-
 The fantasy magazine _Weird Tales_ published the first cover art by Freas on its November 1950 issue: "The Piper" illustrating "The Third Shadow" by H. Russell Wakefield. His second was a year later in the same magazine, followed by several _Planet Stories_ or _Weird Tales_ covers and interior illustrations for three Gnome Press books in 1952.[4] With his illustrating career underway, he continued to devise unique and imaginative concepts for other fantasy and science fiction magazines of that period. In a field where airbrushing is common practice, paintings by Freas are notable for his use of bold brush strokes, and a study of his work reveals his experimentation with a wide variety of tools and techniques.
 
-AstoundingOct53.jpg'' cover, October 1953]]
+'' cover, October 1953]]
 
 Over the next five decades, he created covers for hundreds of books and magazines (and much more interior artwork), notably _Astounding Science Fiction_, both before and after its title change to _Analog_, from 1953 to 2003.[5] He started at _Mad_ magazine in February 1957 and by July 1958 was the magazine's new cover artist; he painted most of its covers until October 1962 (featuring the iconic character, Alfred E. Neuman).[6][7] He also created cover illustrations for DAW, Signet, Ballantine Books, Avon, all 58 Laser Books (which are now collectors' items), and over 90 covers for Ace books alone. He was editor and artist for the first ten _Starblaze_ books. He illustrated the cover of Jean Shepherd, Ian Ballantine, and Theodore Sturgeon's literary hoax, _I, Libertine_ (Ballantine Books, 1956). That same year he drew cartoon illustrations for Bernard Shir-Cliff's _The Wild Reader_.
 
@@ -29,7 +27,7 @@ He died in West Hills, California and is buried in Oakwood Memorial Park Cemeter
 
 Awards
 
-FreasAwards.jpg Freas's achievements include the Doctor of Arts, Art Institute of Pittsburgh, December 2003.[15] The Science Fiction Hall of Fame inducted him in 2006, the second artist after Chesley Bonestell.[16][17]
+Freas's achievements include the Doctor of Arts, Art Institute of Pittsburgh, December 2003.[15] The Science Fiction Hall of Fame inducted him in 2006, the second artist after Chesley Bonestell.[16][17]
 
 -   Hugo Awards (11): Hugo Award for Best Artist 1955–56, 1958–59, 1970, 1972–76; fifty-year Retrospective Hugo, 2001 (for 1950 work)[18]
 -   Locus Awards (4), 1972–75, best artist[19]

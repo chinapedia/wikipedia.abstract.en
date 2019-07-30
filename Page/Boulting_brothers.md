@@ -12,7 +12,7 @@ During the Spanish Civil War, John served with the International Brigades[8][9] 
 
 Careers
 
-Colonel_Frank_Capra_(right)_of_the_US_Army_Signal_Corps_confers_with_Captain_Roy_Boulting_of_the_British_Army_Film_Unit_on_the_editing_of_the_film_'Tunisian_Victory'_in_February_1944._D18377.jpg (right) confers with Roy Boulting on the editing of the film Tunisian Victory]]
+(right) confers with Roy Boulting on the editing of the film Tunisian Victory]]
 
 The brothers constitute one of those producer-director teams responsible for much notable British cinema. For most of their careers one produced while the other directed, but the product remained essentially a 'Boulting Brothers film'. They were socialists, as John demonstrated with the International Brigades, and wanted all film, including comedies, to reflect the real world.
 

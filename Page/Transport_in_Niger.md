@@ -1,4 +1,4 @@
-SNTVbus-Ouagadougou-Niamey.jpg coach running between Ouagadougou (Burkina Faso) and Niamey, Niger. Road transport is the major form of travel across the huge distances between Nigerien population centers, though most Nigeriens do not own vehicles.]] Transport_in_Niger.jpg in far southeastern Niger.]]
+coach running between Ouagadougou (Burkina Faso) and Niamey, Niger. Road transport is the major form of travel across the huge distances between Nigerien population centers, though most Nigeriens do not own vehicles.]] in far southeastern Niger.]]
 
 TRANSPORT IN NIGER is composed of the transportation systems and methods used in this landlocked nation, with cities separated by huge uninhabited deserts, mountain ranges, and other natural features. A poor nation, Niger's transport system was little developed during the colonial period (1899–1960), relying upon animal transport, human transport, and limited river transport in the far south west and south east. No railways were constructed in the colonial period, and roads outside the capital remained unpaved. The Niger River is unsuitable for large-scale river transport, as it lacks depth for most of the year and is broken by rapids at many spots. Camel caravan transport was historically important in the Sahara desert and Sahel regions which cover most of the north.
 
@@ -10,7 +10,7 @@ Transport, including motor vehicles, highways, airports, and port authorities, a
 
 Highways
 
-Nigerroadnetwork.png Highway_to_tahoua_2007_001.jpg - Tahoua "Route Nationale", 1997.]] Blvd_Mali_Bero_from_grand_mosquee_niamey.jpg Outside of cities, the first major paved roads were constructed from the northern town of Arlit to the Benin border in the 1970s and 1980s. This road, dubbed the _Uranium Highway_, runs through Arlit, Agadez, Tahoua, Birnin-Konni, and Niamey, and is part of the Trans-Sahara Highway system.
+- Tahoua "Route Nationale", 1997.]] Outside of cities, the first major paved roads were constructed from the northern town of Arlit to the Benin border in the 1970s and 1980s. This road, dubbed the _Uranium Highway_, runs through Arlit, Agadez, Tahoua, Birnin-Konni, and Niamey, and is part of the Trans-Sahara Highway system.
 
 An additional paved highway runs from Niamey via Maradi and Zinder towards Diffa in the far east of the nation, although the stretch from Zinder to Diffa is only partially paved. Portions of this route are used by the Trans-Sahel Highway route. The Niger section is 837 km long (of which 600 km was in poor condition as of 2000), via Niamey, Dosso, Dogondoutchi, Birnin-Konni and Maradi to the Nigerian border at Jibiya.
 
@@ -41,7 +41,7 @@ Road accidents have been identified as a major public health concern by the Nige
 
 Waterways
 
-NigerNiamey.jpg from southern Niamey, with the Kennedy Bridge in the distance. Seasonally shallow and broken by rapids, the river is difficult for large boats to navigate.]] The Niger River is navigable 300 km from Niamey to Gaya on the Benin frontier from mid-December to March. Thereafter a series of falls and rapids render the Niger unnavigable in all seasons. In the navigable stretches, shallows prevent all but the small draft African canoes (Pirogues and Pinnases) from operating in many areas. As there is only one major bridge over the Niger (The Kennedy Bridge in Niamey: the Niger River bridge at Gaya crosses into Benin), car ferries are of crucial importance, especially the crossing at Bac Farie, 40 km north of Niamey on the RN4, and the car ferry at Ayorou.[20]
+from southern Niamey, with the Kennedy Bridge in the distance. Seasonally shallow and broken by rapids, the river is difficult for large boats to navigate.]] The Niger River is navigable 300 km from Niamey to Gaya on the Benin frontier from mid-December to March. Thereafter a series of falls and rapids render the Niger unnavigable in all seasons. In the navigable stretches, shallows prevent all but the small draft African canoes (Pirogues and Pinnases) from operating in many areas. As there is only one major bridge over the Niger (The Kennedy Bridge in Niamey: the Niger River bridge at Gaya crosses into Benin), car ferries are of crucial importance, especially the crossing at Bac Farie, 40 km north of Niamey on the RN4, and the car ferry at Ayorou.[20]
 
 Despite having no ocean or deep draft river ports, Niger does operate a ports authority. Niger relies on the port at Cotonou (Benin), and to a lesser degree Lomé (Togo), and Port Harcourt (Nigeria), as its main route to overseas trade. Abidjan was in the process of regaining Niger's port trade, following the disruption of the Ivorian Civil War, beginning in 1999.[21] Niger operates a Nigerien Ports Authority station, as well as customs and tax offices in a section of Cotonou's port, so that imports and exports can be directly transported between Gaya and the port. French Uranium mines in Arlit, which produce Niger's largest exports by value, travel through this port to France or the world market.
 
@@ -84,7 +84,7 @@ Other airstrips (with ICAO codes) include:[24]
 
 Railway
 
-Railway_track_Niamey_Niger.jpg]] Niger is a user of the Benin and Togo railway lines which carry goods from seaports to the Niger border. Rail lines to Niamey and other points in Niger were proposed during the colonial period, and continue to be discussed. In 2012, a multi-national railway system was proposed to connect Benin, Niger, Burkina Faso and Ivory Coast.[25]
+]] Niger is a user of the Benin and Togo railway lines which carry goods from seaports to the Niger border. Rail lines to Niamey and other points in Niger were proposed during the colonial period, and continue to be discussed. In 2012, a multi-national railway system was proposed to connect Benin, Niger, Burkina Faso and Ivory Coast.[25]
 
 Other lines connecting Nigeria to Niger have also been discussed. For example, on August 13, 2013 in Nigeria, the Vice President of Nigeria Namadi Sambo announced that Nigeria is to construct a line into the Republic of Niger. The new track will be an extension the existing branch from Zaria to Kaura-Namoda, which is to be continued via Sokoto to Birnin Kebbi. In the longer term it will extend the line across the border to Niamey, capital of Niger. The existing branch is currently out of commission, but rehabilitation has commenced.
 

@@ -1,5 +1,3 @@
-Lahn_limburg.jpg Karte-Limburg-Stadtteile.png
-
 LIMBURG AN DER LAHN (officially abbreviated _Limburg a. d. Lahn_) is the district seat of Limburg-Weilburg in Hesse, Germany.
 
 
@@ -49,11 +47,11 @@ The derivation of the name “Limburg” is not quite clear and may well hearken
 
 History
 
-Burg_Limburg_südost.jpg About 800 A.D., the first castle buildings arose on the Limburg crags. This was probably designed for the protection of a ford over the river Lahn. In the decades that followed, the town developed under the castle's protection. Limburg is first mentioned in documents in 910 under the name of _Lintpurc_ when Louis the Child granted Konrad Kurzbold an estate in the community on which he was to build a church. Konrad Kurzbold laid the foundation stone for Saint George's Monastery Church, where he was also buried. The community soon increased in importance with the monastery's founding and profited from the lively goods trade on the _Via Publica_.
+About 800 A.D., the first castle buildings arose on the Limburg crags. This was probably designed for the protection of a ford over the river Lahn. In the decades that followed, the town developed under the castle's protection. Limburg is first mentioned in documents in 910 under the name of _Lintpurc_ when Louis the Child granted Konrad Kurzbold an estate in the community on which he was to build a church. Konrad Kurzbold laid the foundation stone for Saint George's Monastery Church, where he was also buried. The community soon increased in importance with the monastery's founding and profited from the lively goods trade on the _Via Publica_.
 
-In 1150, a wooden bridge was built across the Lahn. The long-distance road from Cologne to Frankfurt am Main subsequently ran through Limburg. In the early 13th century, Limburg Castle was built in its current form. Shortly afterwards, the town passed into the ownership of the Lords of Ysenburg. In 1214, the community was granted town rights. Remains of the fortification wall from the years 1130, 1230 and 1340 with a maximum length of roughly one thousand metres indicate to this day the blossoming town's quick development in the Middle Ages. There is proof of a mint in Limburg in 1180. Limburg-Dom6.JPG)]] One line of the Lords of Ysenburg resided from 1258 to 1406 at Limburg Castle and took their name from their seat, Limburg. From this line came the House of Limburg-Stirum and also Imagina of Isenburg-Limburg, German King Adolf's wife.
+In 1150, a wooden bridge was built across the Lahn. The long-distance road from Cologne to Frankfurt am Main subsequently ran through Limburg. In the early 13th century, Limburg Castle was built in its current form. Shortly afterwards, the town passed into the ownership of the Lords of Ysenburg. In 1214, the community was granted town rights. Remains of the fortification wall from the years 1130, 1230 and 1340 with a maximum length of roughly one thousand metres indicate to this day the blossoming town's quick development in the Middle Ages. There is proof of a mint in Limburg in 1180. )]] One line of the Lords of Ysenburg resided from 1258 to 1406 at Limburg Castle and took their name from their seat, Limburg. From this line came the House of Limburg-Stirum and also Imagina of Isenburg-Limburg, German King Adolf's wife.
 
-The ruling class among the mediaeval townsfolk were rich merchant families whose houses stood right near the castle tower and were surrounded by the first town wall once it was built. The area of today's Rossmarkt ("Horse Market"), in which many simple craftsmen lived, was only brought within the fortifications once the second town wall was built. The inhabitants there, however, unlike the merchant élite, were accorded no entitlement to a voice in town affairs and were not allowed to send representatives to the town council. Nevertheless, they had to bear the main financial burden of running the town. Only in 1458 were they allowed to send two representatives to town council. Limburg_Stadtmauer.jpg Saint George's Cathedral (_Sankt-Georgs-Dom_) built on the old monastery church's site, and also called _Georgsdom_, was consecrated in 1235. On 14 May 1289, a devastating fire wiped out great parts of the inner town, although these were subsequently rebuilt. One of the houses built at that time was the Römer 2-4-6, which is today one of Germany's oldest half-timbered houses. In 1337, Limburg's Jews were expelled from the town. Only in 1341 were they once again able to settle in the town, by royal decree. In 1344 a half share of the town was pledged to the Electorate of Trier, and in 1420, the town passed wholly into the ownership of Trier. This event, along with another town fire in 1342, the Black Death in 1349, 1356 and 1365, but above all the rise of the Territorial Princes, led to a gradual decline. In 1315 and 1346, the old stone Lahn Bridge was built (presumably in two sections). Limburg_an_der_Lahn_De_Merian_Hassiae.jpg 1655]] Limburg_Cathedral,_West_facade_20140917_1.jpg in Limburg today]] LimburgAltstadt.jpg Against the background of the German Peasants' War, unrest also arose among the townsfolk in 1525. After the Elector of Trier had demanded that the townsmen turn a Lutheran preacher out of the town, a board made up of townsmen who were ineligible for council functions handed the council a 30-point comprehensive list of demands on 24 May. It dealt mainly with financial participation and equality in taxation, trade and building issues with the merchant class. In the days that followed, these demands were reduced in negotiations between the council and the board to 16 points, which were likely also taken up with the Elector afterwards. On 5 August, however, Archbishop Richard ordered the council to overturn all concessions to the townsmen. Furthermore, a ban on assembly was decreed, and the ineligible townsmen were stripped of their right to send two representatives to council.
+The ruling class among the mediaeval townsfolk were rich merchant families whose houses stood right near the castle tower and were surrounded by the first town wall once it was built. The area of today's Rossmarkt ("Horse Market"), in which many simple craftsmen lived, was only brought within the fortifications once the second town wall was built. The inhabitants there, however, unlike the merchant élite, were accorded no entitlement to a voice in town affairs and were not allowed to send representatives to the town council. Nevertheless, they had to bear the main financial burden of running the town. Only in 1458 were they allowed to send two representatives to town council. Saint George's Cathedral (_Sankt-Georgs-Dom_) built on the old monastery church's site, and also called _Georgsdom_, was consecrated in 1235. On 14 May 1289, a devastating fire wiped out great parts of the inner town, although these were subsequently rebuilt. One of the houses built at that time was the Römer 2-4-6, which is today one of Germany's oldest half-timbered houses. In 1337, Limburg's Jews were expelled from the town. Only in 1341 were they once again able to settle in the town, by royal decree. In 1344 a half share of the town was pledged to the Electorate of Trier, and in 1420, the town passed wholly into the ownership of Trier. This event, along with another town fire in 1342, the Black Death in 1349, 1356 and 1365, but above all the rise of the Territorial Princes, led to a gradual decline. In 1315 and 1346, the old stone Lahn Bridge was built (presumably in two sections). 1655]] in Limburg today]] Against the background of the German Peasants' War, unrest also arose among the townsfolk in 1525. After the Elector of Trier had demanded that the townsmen turn a Lutheran preacher out of the town, a board made up of townsmen who were ineligible for council functions handed the council a 30-point comprehensive list of demands on 24 May. It dealt mainly with financial participation and equality in taxation, trade and building issues with the merchant class. In the days that followed, these demands were reduced in negotiations between the council and the board to 16 points, which were likely also taken up with the Elector afterwards. On 5 August, however, Archbishop Richard ordered the council to overturn all concessions to the townsmen. Furthermore, a ban on assembly was decreed, and the ineligible townsmen were stripped of their right to send two representatives to council.
 
 In 1806, Limburg came into the possession of the newly founded Duchy of Nassau. In 1818 the town wall was torn down. In 1827 the town was raised to a Catholic episcopal seat. In 1866 the Duchy and with it Limburg passed to Prussia in the wake of the Austro-Prussian War. As of 1862, Limburg became a railway hub and from 1886 a district seat. In 1892, the Pallottines settled in town, but only the men; the women came in 1895.
 
@@ -110,8 +108,6 @@ In 1956, a _Patenschaft_ – roughly, a sponsorship – was undertaken for Sudet
 
 Economy and infrastructure
 
-Limburg_-_Alte_Lahnbrücke.jpg Limburg-Eisenbahnbruecke_Lahn_2005-01-25b.jpg Autobahnbruecke_Limburg.jpg
-
 Transport
 
 Limburg is a traditional transport hub. Already in the Middle Ages, the _Via Publica_ crossed the navigable Lahn here. Today the A 3 (Emmerich–Oberhausen–Cologne–Frankfurt–Nuremberg–Passau) and _Bundesstraße_ 8, which both follow the _Via Publica's_ alignment as closely as possible, run through the town. _Bundesstraße_ 49 links Limburg to Koblenz towards the west and Wetzlar and Gießen towards the east. The section between Limburg and Wetzlar is currently being widened to four lanes. This section as far as Obertiefenbach is also known as _Die lange Meil_ ("The Long Mile"). _Bundesstraße_ 54 links Limburg on the one hand with Siegen to the north and on the other by way of Diez with Wiesbaden, which may likewise be reached over _Bundesstraße_ 417 (_Hühnerstraße_).
@@ -128,8 +124,6 @@ The Lahn between Lahnstein and Wetzlar is a _Bundeswasserstraße_ ("Federal wate
 
 Established businesses
 
-Mundipharma_Zentrale.JPG
-
 -   Blechwarenfabrik Limburg GmbH (Metal and plastic packaging)
 -   Bundesanzeiger Verlag (publishing house)
 -   Harmonic Drive AG
@@ -144,7 +138,7 @@ Public institutions
 
 Education
 
-Limburg_Tilemannschule.jpg Marienschule_Limburg_gesamt.jpg Limburg has four schools which lead to, among other qualifications, the Abitur:
+Limburg has four schools which lead to, among other qualifications, the Abitur:
 
 -   Tilemannschule, which has existed since the late 19th century and was named after the famous Limburg chancellory head Tilemann Elhen von Wolfhagen in the 1950s
 -   Marienschule, a private Gymnasium (Grammar School), which has existed since 1895 and which belongs to the Bishopric of Limburg.
@@ -171,7 +165,7 @@ Libraries:
 
 St. Vincenz Hospital
 
-Limburg_Vincenzkrankenhaus.jpg The hospital perched on the Schafsberg overlooking the town has at its disposal 433 beds and 15 specialist departments.
+The hospital perched on the Schafsberg overlooking the town has at its disposal 433 beds and 15 specialist departments.
 
 Sport and leisure
 
@@ -214,7 +208,7 @@ Limburg Cathedral has a famous boys' choir, the Limburger Domsingknaben, which t
 
 Museums
 
-Limburg_-_Katzenturm.jpg altlimburgs.jpg Tor_Limburg_-_Domstraße_12.jpg]]
+]]
 
 In Limburg there are several museums. The most important are:
 

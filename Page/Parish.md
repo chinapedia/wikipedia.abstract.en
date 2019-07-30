@@ -14,14 +14,14 @@ The eighth Archbishop of Canterbury Theodore of Tarsus (c. 602–690) appended t
 
 Territorial structure
 
-St_James's_Church,_Manorbier_-_geograph.org.uk_-_928738.jpg church in Manorbier, Pembrokeshire, is a parish church dating from the 12th century and is a Grade I listed building]] BerndorfEnsembleMargaretenplatz.jpg, Austria]]Broadly speaking, the parish is the standard unit in episcopal polity of church administration, although parts of a parish may be subdivided as a _chapelry_, with a chapel of ease or filial church serving as the local place of worship in cases of difficulty to access the main parish church.
+church in Manorbier, Pembrokeshire, is a parish church dating from the 12th century and is a Grade I listed building]] , Austria]]Broadly speaking, the parish is the standard unit in episcopal polity of church administration, although parts of a parish may be subdivided as a _chapelry_, with a chapel of ease or filial church serving as the local place of worship in cases of difficulty to access the main parish church.
 
 In the wider picture of ecclesiastical polity, a _parish_ comprises a division of a diocese or see. Parishes within a diocese may be grouped into a deanery or _vicariate forane_ (or simply _vicariate_), overseen by a dean or _vicar forane_, or in some cases by an archpriest. Some churches of the Anglican Communion have deaneries as units of an archdeaconry.
 
 
 Church of England
 
-Parish_boundary_markers_in_Hereford.JPG]]Hasfield_Parish_Church.jpg, Gloucestershire.]] The Church of England geographical structure uses the local parish church as its basic unit. The parish system survived the Reformation with the Anglican Church's secession from Rome remaining largely untouched, thus it shares its roots with the Catholic Church's system described above. Parishes may extend into different counties or hundreds and historically many parishes comprised extra outlying portions in addition to its principal district, usually being described as 'detached' and intermixed with the lands of other parishes. Church of England parishes nowadays all lie within one of 44 dioceses divided between the provinces of Canterbury, 30 and York, 14.
+]], Gloucestershire.]] The Church of England geographical structure uses the local parish church as its basic unit. The parish system survived the Reformation with the Anglican Church's secession from Rome remaining largely untouched, thus it shares its roots with the Catholic Church's system described above. Parishes may extend into different counties or hundreds and historically many parishes comprised extra outlying portions in addition to its principal district, usually being described as 'detached' and intermixed with the lands of other parishes. Church of England parishes nowadays all lie within one of 44 dioceses divided between the provinces of Canterbury, 30 and York, 14.
 
 Each parish normally has its own parish priest (either a vicar or rector, owing to the vagaries of the feudal tithe system: rectories usually having had greater income) and perhaps supported by one or more curates or deacons - although as a result of ecclesiastical pluralism some parish priests might have held more than one parish living, placing a curate in charge of those where they do not reside. Now, however, it is common for a number of neighbouring parishes to be placed under one benefice in the charge of a priest who conducts services by rotation, with additional services being provided by lay readers or other non-ordained members of the church community.
 
@@ -51,7 +51,7 @@ In New Zealand, a local grouping of Methodist churches that share one or more mi
 
 Catholic Church
 
-Wróblik_Szlachecki,_kostel.jpg, Poland]] Opatow_church_20070430_0936.jpg, Poland]] In the Catholic Church, each parish normally has its own parish priest (in some countries called pastor), who has responsibility and canonical authority over the parish.[10]
+, Poland]] , Poland]] In the Catholic Church, each parish normally has its own parish priest (in some countries called pastor), who has responsibility and canonical authority over the parish.[10]
 
 What in most English-speaking countries is termed the "parish priest" is referred to as the "pastor" in the United States, where the term "parish priest" is used of any priest assigned to a parish even in a subordinate capacity. These are called "assistant priests",[11] "parochial vicars",[12] "curates", or, in the United States, "associate pastors" and "assistant pastors".
 

@@ -9,7 +9,7 @@ Rickets occurs relatively commonly in the Middle East, Africa, and Asia.[20] It 
 
 Signs and symptoms
 
-Rickets_wrist.jpg Signs and symptoms of rickets can include bone tenderness, and a susceptibility for bone fractures particularly greenstick fractures.[30] Early skeletal deformities can arise in infants such as soft, thinned skull bones – a condition known as craniotabes,[31][32] which is the first sign of rickets; skull bossing may be present and a delayed closure of the fontanelles.
+Signs and symptoms of rickets can include bone tenderness, and a susceptibility for bone fractures particularly greenstick fractures.[30] Early skeletal deformities can arise in infants such as soft, thinned skull bones – a condition known as craniotabes,[31][32] which is the first sign of rickets; skull bossing may be present and a delayed closure of the fontanelles.
 
 Young children may have bowed legs and thickened ankles and wrists;[33] older children may have knock knees.[34] Spinal curvatures of kyphoscoliosis or lumbar lordosis may be present. The pelvic bones may be deformed. A condition known as rachitic rosary can result as the thickening caused by nodules forming on the costochondral joints. This appears as a visible bump in the middle of each rib in a line on each side of the body. This somewhat resembles a rosary, giving rise to its name. The deformity of a pigeon chest[35] may result in the presence of Harrison's groove.
 
@@ -69,7 +69,7 @@ With this evolutionary perspective in mind, parents can supplement their nutriti
 
 Diagnosis
 
-RicketsXray.jpgRicketsChestXray.jpg Rickets may be diagnosed with the help of:
+Rickets may be diagnosed with the help of:
 
 -   Blood tests:[60]
     -   Serum calcium may show low levels of calcium, serum phosphorus may be low, and serum alkaline phosphatase may be high from bones or changes in the shape or structure of the bones. This can show enlarged limbs and joints.
@@ -110,7 +110,7 @@ The most common treatment of rickets is the use of vitamin D.[70] However, surge
 
 Diet and sunlight
 
-Cholecalciferol.svg (D₃)]] Ergocalciferol.svg (D₂)]] Treatment involves increasing dietary intake of calcium, phosphates and vitamin D. Exposure to ultraviolet B light (most easily obtained when the sun is highest in the sky), cod liver oil, halibut-liver oil, and viosterol are all sources of vitamin D.
+(D₃)]] (D₂)]] Treatment involves increasing dietary intake of calcium, phosphates and vitamin D. Exposure to ultraviolet B light (most easily obtained when the sun is highest in the sky), cod liver oil, halibut-liver oil, and viosterol are all sources of vitamin D.
 
 A sufficient amount of ultraviolet B light in sunlight each day and adequate supplies of calcium and phosphorus in the diet can prevent rickets. Darker-skinned people need to be exposed longer to the ultraviolet rays. The replacement of vitamin D has been proven to correct rickets using these methods of ultraviolet light therapy and medicine.[72]
 
@@ -132,7 +132,7 @@ In 2013/2014 there were fewer than 700 cases in England.[77] In 2019 the number 
 
 History
 
-Skeleton_Infant_Rickets.jpeg Greek physician Soranus of Ephesus, one of the chief representatives of the Methodic school of medicine who practiced in Alexandria and subsequently in Rome, reported deformation of the bones in infants as early as the first and second centuries AD. Rickets was not defined as a specific medical condition until 1645, when an English physician Daniel Whistler gave the earliest known description of the disease. In 1650 a treatise on rickets was published by Francis Glisson, a physician at Caius College, Cambridge,[79] who said it had first appeared about 30 years previously in the counties of Dorset and Somerset.[80] In 1857, John Snow suggested rickets, then widespread in Britain, was being caused by the adulteration of bakers' bread with alum.[81] German pediatrician Kurt Huldschinsky successfully demonstrated in the winter of 1918–1919 how rickets could be treated with ultraviolet lamps. The role of diet in the development of rickets[82][83] was determined by Edward Mellanby between 1918–1920.[84] In 1923, American physician Harry Steenbock demonstrated that irradiation by ultraviolet light increased the vitamin D content of foods and other organic materials. Steenbock's irradiation technique was used for foodstuffs, but most memorably for milk. By 1945, rickets had all but been eliminated in the United States.
+Greek physician Soranus of Ephesus, one of the chief representatives of the Methodic school of medicine who practiced in Alexandria and subsequently in Rome, reported deformation of the bones in infants as early as the first and second centuries AD. Rickets was not defined as a specific medical condition until 1645, when an English physician Daniel Whistler gave the earliest known description of the disease. In 1650 a treatise on rickets was published by Francis Glisson, a physician at Caius College, Cambridge,[79] who said it had first appeared about 30 years previously in the counties of Dorset and Somerset.[80] In 1857, John Snow suggested rickets, then widespread in Britain, was being caused by the adulteration of bakers' bread with alum.[81] German pediatrician Kurt Huldschinsky successfully demonstrated in the winter of 1918–1919 how rickets could be treated with ultraviolet lamps. The role of diet in the development of rickets[82][83] was determined by Edward Mellanby between 1918–1920.[84] In 1923, American physician Harry Steenbock demonstrated that irradiation by ultraviolet light increased the vitamin D content of foods and other organic materials. Steenbock's irradiation technique was used for foodstuffs, but most memorably for milk. By 1945, rickets had all but been eliminated in the United States.
 
 Etymology
 

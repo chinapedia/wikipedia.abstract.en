@@ -7,7 +7,7 @@ Kenya's population was reported as 38.6 million during the 2009 census compared 
 
 Ethnic groups
 
-Kenyan_man_2.jpg man.]] Kenya has a very diverse population that includes most major ethnic, racial and linguistic groups found in Africa. Bantu and Nilotic populations together constitute around 97% of the nation's inhabitants.[6] People from Asian or European heritage living in Kenya are estimated at around 200,000.
+man.]] Kenya has a very diverse population that includes most major ethnic, racial and linguistic groups found in Africa. Bantu and Nilotic populations together constitute around 97% of the nation's inhabitants.[6] People from Asian or European heritage living in Kenya are estimated at around 200,000.
 
 Kenya's largest ethnic group is the Kikuyu. They make up less than a fifth of the population. Since Kenyan independence in 1963, Kenyan politics have been characterized by ethnic tensions and rivalry between the larger groups. This devolved into ethnic violence in the 2007–2008 Kenyan crisis.
 
@@ -49,7 +49,7 @@ Nilotes are the second-largest group of peoples in Kenya. They speak Nilo-Sahara
 
 Languages
 
-Swahili-pn.jpg in Swahili, a Bantu language that alongside English serves as a lingua franca for many in Kenya.]] Kenya's various ethnic groups typically speak their mother tongues within their own communities.The two official languages, English and Swahili, serve as the main lingua franca between the various ethnic groups. English is widely spoken in commerce, schooling and government.[33] Peri-urban and rural dwellers are less multilingual, with many in rural areas speaking only their native languages.[34]
+in Swahili, a Bantu language that alongside English serves as a lingua franca for many in Kenya.]] Kenya's various ethnic groups typically speak their mother tongues within their own communities.The two official languages, English and Swahili, serve as the main lingua franca between the various ethnic groups. English is widely spoken in commerce, schooling and government.[33] Peri-urban and rural dwellers are less multilingual, with many in rural areas speaking only their native languages.[34]
 
 According to _Ethnologue_, there are a total of 69 languages spoken in Kenya. Most belong to two broad language families: Niger-Congo (Bantu branch) and Nilo-Saharan (Nilotic branch), which are spoken by the country's Bantu and Nilotic populations, respectively. The Cushitic and Arab ethnic minorities speak languages belonging to the separate Afro-Asiatic family, with the Indian and European residents speaking languages from the Indo-European family.[35]
 
@@ -77,7 +77,7 @@ According to , the total population was in compared to 6,077,000 in 1950, and ar
 
 Population by province in 2009 census
 
-Kenya_Map.png.]]
+.]]
 
 [38]
 
@@ -200,8 +200,6 @@ Population
     Total population is reported as 47.6 million as of July 2017.
 
 Age structure
-
-Kenyapop.svg
 
     _0-14 years:_ 39.03% (male 9,474,968 /female 9,416,609)
     _15-24 years:_ 19.61% (male 4,737,647 /female 4,752,896)

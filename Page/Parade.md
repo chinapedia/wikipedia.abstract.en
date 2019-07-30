@@ -1,11 +1,11 @@
-Dora_The_Explorer_(2056486897).jpg in New York City.{{cite web|url=http://newyork.cbslocal.com/2016/11/24/macys-thanksgiving-day-parade-2016/%7Ctitle=Millions Of Revers Marl Over Macy’s Thanksgiving Day Parade|publisher=CBS stig procon of peop along a street, often in costume, and often accompanied by marching nds, floats, or sometimes large balloons. Parades are held for a wide range of reasons, but are usually celebrations of some kind. In Britain, the term parade is usually reserved for either military parades or other occasions where participants march in formation; for celebratory occasions, the word procession is more usual. In the Canadian Forces, the term also has several less formal connotations.[1]
+in New York City.{{cite web|url=http://newyork.cbslocal.com/2016/11/24/macys-thanksgiving-day-parade-2016/%7Ctitle=Millions Of Revers Marl Over Macy’s Thanksgiving Day Parade|publisher=CBS stig procon of peop along a street, often in costume, and often accompanied by marching nds, floats, or sometimes large balloons. Parades are held for a wide range of reasons, but are usually celebrations of some kind. In Britain, the term parade is usually reserved for either military parades or other occasions where participants march in formation; for celebratory occasions, the word procession is more usual. In the Canadian Forces, the term also has several less formal connotations.[1]
 
 Protest demonstrations can also take the form of a parade, but such cases are usually referred to as a march instead.
 
 
 Parade float
 
-Desfile_Portela_2014_(906185).jpg, 2014]] The parade float got its name because the first floats were decorated barges that were towed along canals with ropes held by parade marchers on the shore. Floats were occasionally propelled from within by concealed oarsmen, but the practice was abandoned because of the high incidence of drowning when the lightweight and unstable frames capsized. Strikingly, among the first uses of grounded floats — towed by horses — was a ceremony in memory of recently drowned parade oarsmen. Today, parade floats are traditionally pulled by motor vehicles or are powered themselves.
+, 2014]] The parade float got its name because the first floats were decorated barges that were towed along canals with ropes held by parade marchers on the shore. Floats were occasionally propelled from within by concealed oarsmen, but the practice was abandoned because of the high incidence of drowning when the lightweight and unstable frames capsized. Strikingly, among the first uses of grounded floats — towed by horses — was a ceremony in memory of recently drowned parade oarsmen. Today, parade floats are traditionally pulled by motor vehicles or are powered themselves.
 
 
 Parade grand marshals
@@ -15,7 +15,7 @@ Multiple grand marshals may often be designated for an iteration of the parade, 
 
 Aircraft and boats
 
-Since the advent of such technology, it became possible for aircraft and boats to parade. A flypast is an aerial parade of anything from one to dozens of aircraft, both in commercial context at airshows and also to mark, e.g., national days or significant anniversaries. They are particularly common in the United Kingdom, where they are often associated with Royal occasions. Similarly, for ships, there may be a sail-past of, e.g., tall ships (as was seen during Trafalgar 200) or other sailing vessels as during the celebrations of the 60th anniversary of World War II. 2013_World_Championships_in_Athletics_(August,_10)_by_Dmitry_Rozhkov_110.jpg parade of nations at the Luzhniki Stadium in Moscow, Russia.]]
+Since the advent of such technology, it became possible for aircraft and boats to parade. A flypast is an aerial parade of anything from one to dozens of aircraft, both in commercial context at airshows and also to mark, e.g., national days or significant anniversaries. They are particularly common in the United Kingdom, where they are often associated with Royal occasions. Similarly, for ships, there may be a sail-past of, e.g., tall ships (as was seen during Trafalgar 200) or other sailing vessels as during the celebrations of the 60th anniversary of World War II. parade of nations at the Luzhniki Stadium in Moscow, Russia.]]
 
 
 Longest parade
@@ -45,7 +45,7 @@ Types of parades
 
 Examples of annual event parades
 
-Yonkers_Saint_Patrick's_Day_Parade.JPG, New York students get ready for the Yonkers St. Patrick's Day Parade.]] 2010._Донецк._Карнавал_на_день_города_374.jpg, Ukraine]] 2010_Moscow_Victory_Day_Parade-5.jpeg]] Burung_Petala_Indera_III.jpg in Kota Bharu, Kelantan, Unfederated Malay States (Present-day Malaysia. (1933))]]
+, New York students get ready for the Yonkers St. Patrick's Day Parade.]] , Ukraine]] ]] in Kota Bharu, Kelantan, Unfederated Malay States (Present-day Malaysia. (1933))]]
 
 -   Anheuser-Busch Washington's Birthday Parade, held annually in Laredo, Texas
 -   Attestation Parade New South Wales Police College graduation parade in Goulburn, New South Wales, Australia.
@@ -106,7 +106,7 @@ At the end of hostilities in Europe in 1944-45, "victory parades" were a common 
 
 Observances marked by parades
 
-ECMB-2011KiddieParade1aByVernBarber.jpg]] Park_Ridge_Memorial_Day_Parade,_May_2012.jpg.]] 4th_of_July_Parade_Paramus.jpg]]
+]] .]] ]]
 
 -   Anzac Day - Australia and New Zealand
 -   Armed Forces Day

@@ -16,7 +16,7 @@ History
 
 Pre-Columbian history
 
-Nicaragua_Ometepe_pétroglyphes_1.jpg on Ometepe Island]]
+on Ometepe Island]]
 
 Paleo-Americans first inhabited what is now known as Nicaragua as far back as 12,000 BCE.[16] In later pre-Columbian times, Nicaragua's indigenous people were part of the Intermediate Area,[17] between the Mesoamerican and Andean cultural regions, and within the influence of the Isthmo-Colombian area. Nicaragua's central region and its Caribbean coast were inhabited by Macro-Chibchan language ethnic groups.[18] They had coalesced in Central America and migrated also to present-day northern Colombia and nearby areas.[19] They lived a life based primarily on hunting and gathering, as well as fishing, and performing slash-and-burn agriculture.[20][21][22]
 
@@ -24,7 +24,7 @@ At the end of the 15th century, western Nicaragua was inhabited by several diffe
 
 Spanish era (1522–1821)
 
-06.Plaza_de_la_Independencia_de_Granada.JPG near Lake Nicaragua is one of the most visited sites in Central America.]]
+near Lake Nicaragua is one of the most visited sites in Central America.]]
 
 In 1502, on his fourth voyage, Christopher Columbus became the first European known to have reached what is now Nicaragua as he sailed southeast toward the Isthmus of Panama.[35][36] Columbus explored the Mosquito Coast on the Atlantic side of Nicaragua[37] but did not encounter any indigenous people. 20 years later, the Spaniards returned to Nicaragua, this time to its southwestern part. The first attempt to conquer Nicaragua was by the conquistador Gil González Dávila,[38] who had arrived in Panama in January 1520. In 1522, González Dávila ventured into the area that later became known as the Rivas Department of Nicaragua.[39][40] It was there that he encountered an indigenous Nahua tribe led by a chieftain named Macuilmiquiztli, whose name has sometimes been erroneously referred to as "Nicarao" or "Nicaragua". At the time, the tribe's capital city was called Quauhcapolca.[41][42][43] González Dávila had brought along two indigenous interpreters who had been taught the Spanish language, and thus he was able to have a discourse with Macuilmiquiztli.[44] After exploring and gathering gold[45][46][47] in the fertile western valleys, González Dávila and his men were attacked and driven off by the Chorotega, led by the chieftain Diriangen.[48][49] The Spanish attempted to convert the tribes to Christianity; the people in Macuilmiquiztli's tribe were baptized,[50][51] but Diriangen, however, was openly hostile to the Spaniards.
 
@@ -38,7 +38,7 @@ In 1610, the Momotombo volcano erupted, destroying the city of León.[69] The ci
 
 Independence (1821)
 
-Political_Evolution_of_Central_America_and_the_Caribbean_1830_na.png and British colony of the Mosquito Coast in 1830]] The Captaincy General of Guatemala was dissolved in September 1821 with the Act of Independence of Central America, and Nicaragua soon became part of the First Mexican Empire. After the monarchy of the First Mexican Empire was overthrown in 1823, Nicaragua joined the newly formed United Provinces of Central America, which was later renamed as the Federal Republic of Central America. Nicaragua finally became an independent republic in 1838.[72]
+and British colony of the Mosquito Coast in 1830]] The Captaincy General of Guatemala was dissolved in September 1821 with the Act of Independence of Central America, and Nicaragua soon became part of the First Mexican Empire. After the monarchy of the First Mexican Empire was overthrown in 1823, Nicaragua joined the newly formed United Provinces of Central America, which was later renamed as the Federal Republic of Central America. Nicaragua finally became an independent republic in 1838.[72]
 
 Rivalry between the Liberal elite of León and the Conservative elite of Granada characterized the early years of independence and often degenerated into civil war, particularly during the 1840s and 1850s. Managua was chosen as the nation's capital in 1852 to allay the rivalry between the two feuding cities.[73][74] During the days of the California Gold Rush, Nicaragua provided a route for travelers from the eastern United States to journey to California by sea, via the use of the San Juan River and Lake Nicaragua.[75] Invited by the Liberals in 1855 to join their struggle against the Conservatives, a United States adventurer and filibuster named William Walker set himself up as President of Nicaragua, after conducting a farcical election in 1856. Costa Rica, Honduras, and other Central American countries united to drive Walker out of Nicaragua in 1857,[76][77][78] after which a period of three decades of Conservative rule ensued.
 
@@ -54,17 +54,17 @@ In August 1912, the President of Nicaragua, Adolfo Díaz, requested the secretar
 
 United States Marines occupied Nicaragua from 1912 to 1933,[81][82] except for a nine-month period beginning in 1925. In 1914, the Bryan–Chamorro Treaty was signed, giving the U.S. control over a proposed canal through Nicaragua, as well as leases for potential canal defenses.[83] Following the evacuation of U.S. Marines, another violent conflict between Liberals and Conservatives took place in 1926, which resulted in the return of U.S. Marines.[84]
 
-General_Sandino_(center)_and_Staff_enroute_to_Mexico._Siglo_XX.,_06-1929_-_NARA_-_532357.tif (center)]]From 1927 until 1933, rebel general Augusto César Sandino led a sustained guerrilla war first against the Conservative regime and subsequently against the U.S. Marines, whom he fought for over five years.[85] When the Americans left in 1933, they set up the _Guardia Nacional_ (national guard),[86] a combined military and police force trained and equipped by the Americans and designed to be loyal to U.S. interests.
+(center)]]From 1927 until 1933, rebel general Augusto César Sandino led a sustained guerrilla war first against the Conservative regime and subsequently against the U.S. Marines, whom he fought for over five years.[85] When the Americans left in 1933, they set up the _Guardia Nacional_ (national guard),[86] a combined military and police force trained and equipped by the Americans and designed to be loyal to U.S. interests.
 
 After the U.S. Marines withdrew from Nicaragua in January 1933, Sandino and the newly elected administration of President Juan Bautista Sacasa reached an agreement by which Sandino would cease his guerrilla activities in return for amnesty, a grant of land for an agricultural colony, and retention of an armed band of 100 men for a year.[87] However, due to a growing hostility between Sandino and National Guard director Anastasio Somoza García and a fear of armed opposition from Sandino, Somoza García decided to order his assassination.[88][89][90] Sandino was invited by Sacasa to have dinner and sign a peace treaty at the Presidential House in Managua on the night of February 21, 1934. After leaving the Presidential House, Sandino's car was stopped by soldiers of the National Guard and they kidnapped him. Later that night, Sandino was assassinated by soldiers of the National Guard. Hundreds of men, women, and children from Sandino's agricultural colony were executed later.[91]
 
 Somoza dynasty (1927–1979)
 
-Trujillo-Somoza_1952.jpg (left), with Dominican President Rafael Trujillo, 1952]] Nicaragua has experienced several military dictatorships, the longest being the hereditary dictatorship of the Somoza family, who ruled for 43 nonconsecutive years during the 20th century.[92] The Somoza family came to power as part of a U.S.-engineered pact in 1927 that stipulated the formation of the _Guardia Nacional_ to replace the marines who had long reigned in the country.[93] Somoza García slowly eliminated officers in the national guard who might have stood in his way, and then deposed Sacasa and became president on January 1, 1937, in a rigged election.[94]
+(left), with Dominican President Rafael Trujillo, 1952]] Nicaragua has experienced several military dictatorships, the longest being the hereditary dictatorship of the Somoza family, who ruled for 43 nonconsecutive years during the 20th century.[92] The Somoza family came to power as part of a U.S.-engineered pact in 1927 that stipulated the formation of the _Guardia Nacional_ to replace the marines who had long reigned in the country.[93] Somoza García slowly eliminated officers in the national guard who might have stood in his way, and then deposed Sacasa and became president on January 1, 1937, in a rigged election.[94]
 
 In 1941, during the Second World War, Nicaragua declared war on Japan (8 December), Germany (11 December), Italy (11 December), Bulgaria (19 December), Hungary (19 December) and Romania (19 December). Out of these six Axis countries, only Romania reciprocated, declaring war on Nicaragua on the same day (19 December 1941).[95] No soldiers were sent to the war, but Somoza García did seize the occasion to confiscate properties held by German Nicaraguan residents.[96] In 1945, Nicaragua was among the first countries to ratify the United Nations Charter.[97]
 
-Meeting_with_President_Anastasio_Somoza_Debayle_of_Nicaragua,_before_State_Dinner_-_NARA_-_194723-perspective-tilt-crop.jpg (center) with Richard Nixon, 1971]] On September 21, 1956, Somoza García was shot to death by Rigoberto López Pérez, a 27-year-old Liberal Nicaraguan poet. Luis Somoza Debayle, the eldest son of the late president, was appointed president by the congress and officially took charge of the country.[98] He is remembered by some for being moderate, but was in power only for a few years and then died of a heart attack. His successor as president was René Schick Gutiérrez, whom most Nicaraguans viewed "as nothing more than a puppet of the Somozas".[99] Somoza García's youngest son, Anastasio Somoza Debayle, often referred to simply as "Somoza", became president in 1967.
+(center) with Richard Nixon, 1971]] On September 21, 1956, Somoza García was shot to death by Rigoberto López Pérez, a 27-year-old Liberal Nicaraguan poet. Luis Somoza Debayle, the eldest son of the late president, was appointed president by the congress and officially took charge of the country.[98] He is remembered by some for being moderate, but was in power only for a few years and then died of a heart attack. His successor as president was René Schick Gutiérrez, whom most Nicaraguans viewed "as nothing more than a puppet of the Somozas".[99] Somoza García's youngest son, Anastasio Somoza Debayle, often referred to simply as "Somoza", became president in 1967.
 
 An earthquake in 1972 destroyed nearly 90% of Managua, resulting in massive destruction to the city's infrastructure.[100] Instead of helping to rebuild Managua, Somoza siphoned off relief money. The mishandling of relief money also prompted Pittsburgh Pirates star Roberto Clemente to personally fly to Managua on December 31, 1972, but he died _en route_ in an airplane accident.[101] Even the economic elite were reluctant to support Somoza, as he had acquired monopolies in industries that were key to rebuilding the nation.[102]
 
@@ -72,7 +72,7 @@ The Somoza family was among a few families or groups of influential firms which 
 
 Nicaraguan Revolution (1960s–1990)
 
-Smoke_break_el_serrano_1987.jpg" rebels (ARDE Frente Sur) in 1987.]] In 1961, Carlos Fonseca looked back to the historical figure of Sandino, and along with two other people (one of whom was believed to be Casimiro Sotelo, who was later assassinated), founded the Sandinista National Liberation Front (FSLN).[104] After the 1972 earthquake and Somoza's apparent corruption, the ranks of the Sandinistas were flooded with young disaffected Nicaraguans who no longer had anything to lose.[105]
+" rebels (ARDE Frente Sur) in 1987.]] In 1961, Carlos Fonseca looked back to the historical figure of Sandino, and along with two other people (one of whom was believed to be Casimiro Sotelo, who was later assassinated), founded the Sandinista National Liberation Front (FSLN).[104] After the 1972 earthquake and Somoza's apparent corruption, the ranks of the Sandinistas were flooded with young disaffected Nicaraguans who no longer had anything to lose.[105]
 
 In December 1974, a group of the FSLN, in an attempt to kidnap U.S. ambassador Turner Shelton, held some Managuan partygoers hostage (after killing the host, former agriculture minister, Jose Maria Castillo), until the Somozan government met their demands for a large ransom and free transport to Cuba. Somoza granted this, then subsequently sent his national guard out into the countryside to look for the perpetrators of the kidnapping, described by opponents of the kidnapping as "terrorists".[106]
 
@@ -82,7 +82,7 @@ The Sandinistas forcefully took power in July 1979, ousting Somoza, and promptin
 
 In 1980, the Carter administration provided $60 million in aid to Nicaragua under the Sandinistas, but the aid was suspended when the administration obtained evidence of Nicaraguan shipment of arms to El Salvadoran rebels.[114] In response to the coming to power of the Sandinistas, various rebel groups collectively known as the "contras" were formed to oppose the new government. The Reagan administration authorized the CIA to help the contra rebels with funding, armaments, and training.[115] The contras operated out of camps in the neighboring countries of Honduras to the north and Costa Rica to the south.[116]
 
-10th_anniversary_of_the_Nicaraguan_revolution_in_Managua,_1989.jpg They engaged in a systematic campaign of terror amongst the rural Nicaraguan population to disrupt the social reform projects of the Sandinistas. Several historians have criticized the contra campaign and the Reagan administration's support for it, citing the brutality and numerous human rights violations of the contras. LaRamee and Polakoff, for example, describe the destruction of health centers, schools, and cooperatives at the hands of the rebels,[117] and others have contended that murder, rape, and torture occurred on a large scale in contra-dominated areas.[118] The United States also carried out a campaign of economic sabotage, and disrupted shipping by planting underwater mines in Nicaragua's port of Corinto,[119] an action condemned by the International Court of Justice as illegal.[120] The U.S. also sought to place economic pressure on the Sandinistas, and the Reagan administration imposed a full trade embargo.[121] The Sandinistas were also accused of human rights abuses.[122][123][124]
+They engaged in a systematic campaign of terror amongst the rural Nicaraguan population to disrupt the social reform projects of the Sandinistas. Several historians have criticized the contra campaign and the Reagan administration's support for it, citing the brutality and numerous human rights violations of the contras. LaRamee and Polakoff, for example, describe the destruction of health centers, schools, and cooperatives at the hands of the rebels,[117] and others have contended that murder, rape, and torture occurred on a large scale in contra-dominated areas.[118] The United States also carried out a campaign of economic sabotage, and disrupted shipping by planting underwater mines in Nicaragua's port of Corinto,[119] an action condemned by the International Court of Justice as illegal.[120] The U.S. also sought to place economic pressure on the Sandinistas, and the Reagan administration imposed a full trade embargo.[121] The Sandinistas were also accused of human rights abuses.[122][123][124]
 
 In the Nicaraguan general elections of 1984, which were judged to have been free and fair, the Sandinistas won the parliamentary election and their leader Daniel Ortega won the presidential election.[125][126] The Reagan administration criticized the elections as a "sham" based on the charge that Arturo Cruz, the candidate nominated by the Coordinadora Democrática Nicaragüense, comprising three right wing political parties, did not participate in the elections. However, the administration privately argued against Cruz's participation for fear his involvement would legitimize the elections, and thus weaken the case for American aid to the contras.[127] According to Martin Kriele, the results of the election were rigged.[128][129][130][131]
 
@@ -90,9 +90,9 @@ After the U.S. Congress prohibited federal funding of the contras in 1983, the R
 
 Post-war (1990–present)
 
-Violeta_Chamorro_1993.jpg in 1990 became the first woman president democratically elected in the Americas.]] In the Nicaraguan general election, 1990, a coalition of anti-Sandinista parties (from the left and right of the political spectrum) led by Violeta Chamorro, the widow of Pedro Joaquín Chamorro Cardenal, defeated the Sandinistas. The defeat shocked the Sandinistas, who had expected to win.[135]
+in 1990 became the first woman president democratically elected in the Americas.]] In the Nicaraguan general election, 1990, a coalition of anti-Sandinista parties (from the left and right of the political spectrum) led by Violeta Chamorro, the widow of Pedro Joaquín Chamorro Cardenal, defeated the Sandinistas. The defeat shocked the Sandinistas, who had expected to win.[135]
 
-Exit polls of Nicaraguans reported Chamorro's victory over Ortega was achieved with a 55% majority.[136] Chamorro was the first woman president of Nicaragua. Ortega vowed he would govern _desde abajo_ (from below).[137] Chamorro came to office with an economy in ruins, primarily because of the financial and social costs of the contra war with the Sandinista-led government.[138] In the next election, the Nicaraguan general election, 1996, Daniel Ortega and the Sandinistas of the FSLN were defeated again, this time by Arnoldo Alemán of the Constitutional Liberal Party (PLC). Mitch-Flooding_in_Managua.jpg in 1998]]
+Exit polls of Nicaraguans reported Chamorro's victory over Ortega was achieved with a 55% majority.[136] Chamorro was the first woman president of Nicaragua. Ortega vowed he would govern _desde abajo_ (from below).[137] Chamorro came to office with an economy in ruins, primarily because of the financial and social costs of the contra war with the Sandinista-led government.[138] In the next election, the Nicaraguan general election, 1996, Daniel Ortega and the Sandinistas of the FSLN were defeated again, this time by Arnoldo Alemán of the Constitutional Liberal Party (PLC). in 1998]]
 
 In the 2001 elections, the PLC again defeated the FSLN, with Alemán's Vice President Enrique Bolaños succeeding him as President. Subsequently, however, Alemán was convicted and sentenced in 2003 to 20 years in prison for embezzlement, money laundering, and corruption;[139] liberal and Sandinista parliament members subsequently combined to strip the presidential powers of President Bolaños and his ministers, calling for his resignation and threatening impeachment. The Sandinistas said they no longer supported Bolaños after U.S. Secretary of State Colin Powell told Bolaños to keep his distance from the FSLN.[140] This "slow motion _coup d'état_" was averted partially by pressure from the Central American presidents, who vowed not to recognize any movement that removed Bolaños; the U.S., the OAS, and the European Union also opposed the action.[141]
 
@@ -105,7 +105,7 @@ In April 2018, demonstrations opposed a decree increasing taxes and reducing ben
 
 Geography and climate
 
-Koppen-Geiger_Map_NIC_present.svg Nicaragua occupies a landmass of . Nicaragua has three distinct geographical regions: the Pacific lowlands – fertile valleys which the Spanish colonists settled, the Amerrisque Mountains (North-central highlands), and the Mosquito Coast (Atlantic lowlands/Caribbean lowlands).
+Nicaragua occupies a landmass of . Nicaragua has three distinct geographical regions: the Pacific lowlands – fertile valleys which the Spanish colonists settled, the Amerrisque Mountains (North-central highlands), and the Mosquito Coast (Atlantic lowlands/Caribbean lowlands).
 
 The low plains of the Atlantic Coast are wide in areas. They have long been exploited for their natural resources.
 
@@ -115,11 +115,11 @@ Nearly one fifth of Nicaragua is designated as protected areas like national par
 
 Pacific lowlands
 
-Concepción_from_Maderas_(landscape).jpg, as seen from Maderas volcano.]] In the west of the country, these lowlands consist of a broad, hot, fertile plain. Punctuating this plain are several large volcanoes of the Cordillera Los Maribios mountain range, including Mombacho just outside Granada, and Momotombo near León. The lowland area runs from the Gulf of Fonseca to Nicaragua's Pacific border with Costa Rica south of Lake Nicaragua. Lake Nicaragua is the largest freshwater lake in Central America (20th largest in the world),[156] and is home to some of the world's rare freshwater sharks (Nicaraguan shark).[157] The Pacific lowlands region is the most populous, with over half of the nation's population.
+, as seen from Maderas volcano.]] In the west of the country, these lowlands consist of a broad, hot, fertile plain. Punctuating this plain are several large volcanoes of the Cordillera Los Maribios mountain range, including Mombacho just outside Granada, and Momotombo near León. The lowland area runs from the Gulf of Fonseca to Nicaragua's Pacific border with Costa Rica south of Lake Nicaragua. Lake Nicaragua is the largest freshwater lake in Central America (20th largest in the world),[156] and is home to some of the world's rare freshwater sharks (Nicaraguan shark).[157] The Pacific lowlands region is the most populous, with over half of the nation's population.
 
 The eruptions of western Nicaragua's 40 volcanoes, many of which are still active, have sometimes devastated settlements but also have enriched the land with layers of fertile ash. The geologic activity that produces vulcanism also breeds powerful earthquakes. Tremors occur regularly throughout the Pacific zone, and earthquakes have nearly destroyed the capital city, Managua, more than once.[158]
 
-PenasBlancas,_part_of_the_Bosawas_Reserve,_Jinotega_Department,_Nicaragua.jpg is the second largest rainforest in the Western Hemisphere, after the Amazonian Rainforest in Brazil. Located northeast of the city of Jinotega in Northeastern Nicaragua.]]
+is the second largest rainforest in the Western Hemisphere, after the Amazonian Rainforest in Brazil. Located northeast of the city of Jinotega in Northeastern Nicaragua.]]
 
 Most of the Pacific zone is _tierra caliente_, the "hot land" of tropical Spanish America at elevations under . Temperatures remain virtually constant throughout the year, with highs ranging between . After a dry season lasting from November to April, rains begin in May and continue to October, giving the Pacific lowlands of precipitation. Good soils and a favourable climate combine to make western Nicaragua the country's economic and demographic centre. The southwestern shore of Lake Nicaragua lies within of the Pacific Ocean. Thus the lake and the San Juan River were often proposed in the 19th century as the longest part of a canal route across the Central American isthmus. Canal proposals were periodically revived in the 20th and 21st centuries.[159][160] Roughly a century after the opening of the Panama Canal, the prospect of a Nicaraguan ecocanal remains a topic of interest.[161][162][163][164]
 
@@ -127,7 +127,7 @@ In addition to its beach and resort communities, the Pacific lowlands contains m
 
 North central highlands
 
-Cañonsomoto.JPG is located in Somoto in the Madriz Department in Northern Nicaragua.]]
+is located in Somoto in the Madriz Department in Northern Nicaragua.]]
 
 Northern Nicaragua is the most diversified region producing coffee, cattle, milk products, vegetables, wood, gold, and flowers. Its extensive forests, rivers and geography are suited for ecotourism.
 
@@ -154,7 +154,7 @@ Nature and environment
 
 Flora and fauna
 
-Turquoise-browed_Motmot_2495425451.jpg ("ravine-guard") is Nicaragua's national bird.]]
+("ravine-guard") is Nicaragua's national bird.]]
 
 Nicaragua is home to a rich variety of plants and animals. Nicaragua is located in the middle of the Americas and this privileged location has enabled the country to serve as host to a great biodiversity. This factor, along with the weather and light altitudinal variations, allows the country to harbor 248 species of amphibians and reptiles, 183 species of mammals, 705 bird species, 640 fish species, and about 5,796 species of plants.
 
@@ -171,7 +171,7 @@ Nicaragua was one of the few countries that did not enter an INDC at COP21.[175]
 
 Government
 
-Dmitry_Medvedev_18_December_2008-6.jpg with then Russian President Dmitry Medvedev in Moscow in 2008]]
+with then Russian President Dmitry Medvedev in Moscow in 2008]]
 
 Politics of Nicaragua takes place in a framework of a presidential representative democratic republic, whereby the President of Nicaragua is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the national assembly. The judiciary is independent of the executive and the legislature.
 
@@ -183,7 +183,7 @@ Nicaragua pursues an independent foreign policy. Nicaragua is in territorial dis
 
 Military
 
-Afghan_MI-17_and_AN-26.jpg and Mi-17 are used by the Nicaraguan Air Force.]]
+and Mi-17 are used by the Nicaraguan Air Force.]]
 
 The armed forces of Nicaragua consists of various military contingents. Nicaragua has an army, navy and an air force. There are roughly 14,000 active duty personnel, which is much less compared to the numbers seen during the Nicaraguan Revolution. Although the army has had a rough military history, a portion of its forces, which were known as the national guard, became integrated with what is now the National Police of Nicaragua. In essence, the police became a _gendarmerie_. The National Police of Nicaragua are rarely, if ever, labeled as a _gendarmerie_. The other elements and manpower that were not devoted to the national police were sent over to cultivate the new Army of Nicaragua.
 
@@ -191,7 +191,7 @@ The age to serve in the armed forces is 17 and conscription is not imminent. , t
 
 Law enforcement
 
-600x400_1329442889_170212amb-nota2,photo01.jpg.]]
+.]]
 
 The National Police of Nicaragua Force (in Spanish: La Policía Nacional Nicaragüense) is the national police of Nicaragua. The force is in charge of regular police functions and, at times, works in conjunction with the Nicaraguan military, making it an indirect and rather subtle version of a gendarmerie. However, the Nicaraguan National Police work separately and have a different established set of norms than the nation's military.
 
@@ -201,34 +201,32 @@ Administrative divisions
 
 Nicaragua is a unitary republic. For administrative purposes it is divided into 15 departments (_departamentos_) and two self-governing regions (autonomous communities) based on the Spanish model. The departments are then subdivided into 153 municipios (municipalities). The two autonomous regions are the North Caribbean Coast Autonomous Region and South Caribbean Coast Autonomous Region, often referred to as RACCN and RACCS, respectively.[183]
 
-+--------------------------------------------------+-----------------------------------------------------+
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | |DEPARTMENT |                                | | | |DEPARTMENT |                                   | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 1           | Flag_of_Boaco.svg              | | | 10          | Flag_of_Managua.svg               | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 2           | Flag_of_Jinotepe.gif           | | | 11          | Flag_of_Masaya.svg                | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 3           | Bandera_de_Chinandega.gif      | | | 12          | Flag_of_Matagalpa.gif             | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 4           | Flag_of_Juigalpa.svg           | | | 13          | Flag_of_Nueva_Segovia.svg         | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 5           | Flag_of_Esteli.svg             | | | 14          | Flag_of_Rivas.svg                 | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 6           | Flag_of_Granada,_Nicaragua.svg | | | 15          | Flag_of_San_Carlos,_Nicaragua.svg | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 7           | Flag_of_Jinotega.gif           | | | 16          | Bandera_Atlàntic_Nord.png         | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 8           | Flag_of_Leon,_Nicaragua.svg    | | | 17          | Bandera_Atlàntic_Sur.png          | |
-| +-------------+--------------------------------+ | +-------------+-----------------------------------+ |
-| | 9           | Flag_of_Madriz.svg             | |                                                     |
-| +-------------+--------------------------------+ |                                                     |
-+--------------------------------------------------+-----------------------------------------------------+
++--------------------+--------------------+
+| +-------------+--+ | +-------------+--+ |
+| | |DEPARTMENT |  | | | |DEPARTMENT |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 1           |  | | | 10          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 2           |  | | | 11          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 3           |  | | | 12          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 4           |  | | | 13          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 5           |  | | | 14          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 6           |  | | | 15          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 7           |  | | | 16          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 8           |  | | | 17          |  | |
+| +-------------+--+ | +-------------+--+ |
+| | 9           |  | |                    |
+| +-------------+--+ |                    |
++--------------------+--------------------+
 
 
 Economy
-
-Nicaragua_treemap.png
 
 Nicaragua is among the poorest countries in the Americas.[184][185][186] Its gross domestic product (GDP) in purchasing power parity (PPP) in 2008 was estimated at US$17.37 billion.[187] Agriculture represents 15.5% of GDP, the highest percentage in Central America.[188] Remittances account for over 15% of the Nicaraguan GDP. Close to one billion dollars are sent to the country by Nicaraguans living abroad.[189] The economy grew at a rate of about 4% in 2011.[190]
 
@@ -238,7 +236,7 @@ According to the World Bank, Nicaragua ranked as the 123rd out of 190 best econo
 
 In March 2007, Poland and Nicaragua signed an agreement to write off 30.6 million dollars which was borrowed by the Nicaraguan government in the 1980s.[196] Inflation reduced from 33,500% in 1988 to 9.45% in 2006, and the foreign debt was cut in half.[197]
 
-FruitColors.jpg is one of the most important exports of Nicaragua. It is grown in Jinotega, Esteli, Nueva Segovia, Matagalpa and Madriz, and exported worldwide through North America, Latin America, Europe, Asia and Australia. Many coffee companies, like Nestlé and Starbucks, buy Nicaraguan coffee.]] Nicaragua is primarily an agricultural country; agriculture constitutes 60% of its total exports which annually yield approximately US$300 million.[198] Nearly two-thirds of the coffee crop comes from the northern part of the central highlands, in the area north and east of the town of Estelí.[199] Tobacco, grown in the same northern highlands region as coffee, has become an increasingly important cash crop since the 1990s, with annual exports of leaf and cigars in the neighborhood of $200 million per year.[200] Soil erosion and pollution from the heavy use of pesticides have become serious concerns in the cotton district. Yields and exports have both been declining since 1985.[201] Today most of Nicaragua's bananas are grown in the northwestern part of the country near the port of Corinto; sugarcane is also grown in the same district.[202] Cassava, a root crop somewhat similar to the potato, is an important food in tropical regions. Cassava is also the main ingredient in tapioca pudding.[203] Nicaragua's agricultural sector has benefited because of the country's strong ties to Venezuela. It is estimated that Venezuela will import approximately $200 million in agricultural goods.[204] In the 1990s, the government initiated efforts to diversify agriculture. Some of the new export-oriented crops were peanuts, sesame, melons, and onions.[205]
+is one of the most important exports of Nicaragua. It is grown in Jinotega, Esteli, Nueva Segovia, Matagalpa and Madriz, and exported worldwide through North America, Latin America, Europe, Asia and Australia. Many coffee companies, like Nestlé and Starbucks, buy Nicaraguan coffee.]] Nicaragua is primarily an agricultural country; agriculture constitutes 60% of its total exports which annually yield approximately US$300 million.[198] Nearly two-thirds of the coffee crop comes from the northern part of the central highlands, in the area north and east of the town of Estelí.[199] Tobacco, grown in the same northern highlands region as coffee, has become an increasingly important cash crop since the 1990s, with annual exports of leaf and cigars in the neighborhood of $200 million per year.[200] Soil erosion and pollution from the heavy use of pesticides have become serious concerns in the cotton district. Yields and exports have both been declining since 1985.[201] Today most of Nicaragua's bananas are grown in the northwestern part of the country near the port of Corinto; sugarcane is also grown in the same district.[202] Cassava, a root crop somewhat similar to the potato, is an important food in tropical regions. Cassava is also the main ingredient in tapioca pudding.[203] Nicaragua's agricultural sector has benefited because of the country's strong ties to Venezuela. It is estimated that Venezuela will import approximately $200 million in agricultural goods.[204] In the 1990s, the government initiated efforts to diversify agriculture. Some of the new export-oriented crops were peanuts, sesame, melons, and onions.[205]
 
 Fishing boats on the Caribbean side bring shrimp as well as lobsters into processing plants at Puerto Cabezas, Bluefields, and Laguna de Perlas.[206] A turtle fishery thrived on the Caribbean coast before it collapsed from overexploitation.[207]
 
@@ -252,7 +250,7 @@ A 1985 government study classified 69.4 percent of the population as poor on the
 
 Rural workers are dependent on agricultural wage labor, especially in coffee and cotton. Only a small fraction hold permanent jobs. Most are migrants who follow crops during the harvest period and find other work during the off-season. The "lower" peasants are typically smallholders without sufficient land to sustain a family; they also join the harvest labor force. The "upper" peasants have sufficient resources to be economically independent. They produce enough surplus, beyond their personal needs, to allow them to participate in the national and world markets.
 
-Rotonda_Ruben_dario.jpg at night]]The urban lower class is characterized by the informal sector of the economy. The informal sector consists of small-scale enterprises that utilize traditional technologies and operate outside the legal regime of labor protections and taxation. Workers in the informal sector are self-employed, unsalaried family workers or employees of small-enterprises, and they are generally poor.
+at night]]The urban lower class is characterized by the informal sector of the economy. The informal sector consists of small-scale enterprises that utilize traditional technologies and operate outside the legal regime of labor protections and taxation. Workers in the informal sector are self-employed, unsalaried family workers or employees of small-enterprises, and they are generally poor.
 
 Nicaragua's informal sector workers include tinsmiths, mattress makers, seamstresses, bakers, shoemakers, and carpenters; people who take in laundry and ironing or prepare food for sale in the streets; and thousands of peddlers, owners of small businesses (often operating out of their own homes), and market stall operators. Some work alone, but others labor in the small talleres (workshops/factories) that are responsible for a large share of the country's industrial production. Because informal sector earnings are generally very low, few families can subsist on one income.[220] Like most Latin American nations Nicaragua is also characterized by a very small upper-class, roughly 2% of the population, that is very wealthy and wields the political and economic power in the country that is not in the hands of foreign corporations and private industries. These families are oligarchical in nature and have ruled Nicaragua for generations and their wealth is politically and economically horizontally and vertically integrated.
 
@@ -262,26 +260,24 @@ Nicaragua is considering construction of a canal linking the Atlantic to the Pac
 
 Tourism
 
-Crucero_en_San_Juan.jpg Cruise ship docked near the beach at San Juan del Sur in Southern Nicaragua.]]
+Cruise ship docked near the beach at San Juan del Sur in Southern Nicaragua.]]
 
-By 2006, tourism had become the second largest industry in Nicaragua.[226] Previously, tourism had grown about 70% nationwide during a period of 7 years, with rates of 10%–16% annually.[227] The increase and growth led to the income from tourism to rise more than 300% over a period of 10 years.[228] The growth in tourism has also positively affected the agricultural, commercial, and finance industries, as well as the construction industry. President Daniel Ortega has stated his intention to use tourism to combat poverty throughout the country.[229] The results for Nicaragua's tourism-driven economy have been significant, with the nation welcoming one million tourists in a calendar year for the first time in its history in 2010.[230]HuellasdeAcahualinca.jpg called "Huellas de Acahualinca" preserved in volcanic mud near Lake Managua.]]
+By 2006, tourism had become the second largest industry in Nicaragua.[226] Previously, tourism had grown about 70% nationwide during a period of 7 years, with rates of 10%–16% annually.[227] The increase and growth led to the income from tourism to rise more than 300% over a period of 10 years.[228] The growth in tourism has also positively affected the agricultural, commercial, and finance industries, as well as the construction industry. President Daniel Ortega has stated his intention to use tourism to combat poverty throughout the country.[229] The results for Nicaragua's tourism-driven economy have been significant, with the nation welcoming one million tourists in a calendar year for the first time in its history in 2010.[230] called "Huellas de Acahualinca" preserved in volcanic mud near Lake Managua.]]
 
 Every year about 60,000 U.S. citizens visit Nicaragua, primarily business people, tourists, and those visiting relatives.[231] Some 5,300 people from the U.S. reside in Nicaragua. The majority of tourists who visit Nicaragua are from the U.S., Central or South America, and Europe. According to the Ministry of Tourism of Nicaragua (INTUR),[232] the colonial cities of León and Granada are the preferred spots for tourists. Also, the cities of Masaya, Rivas and the likes of San Juan del Sur, El Ostional, the Fortress of the Immaculate Conception, Ometepe Island, the Mombacho volcano, and the Corn Islands among other locations are the main tourist attractions. In addition, ecotourism, sport fishing and surfing attract many tourists to Nicaragua.
 
 According to the _TV Noticias_ news program, the main attractions in Nicaragua for tourists are the beaches, the scenic routes, the architecture of cities such as León and Granada, ecotourism, and agritourism particularly in northern Nicaragua.[233] As a result of increased tourism, Nicaragua has seen its foreign direct investment increase by 79.1% from 2007 to 2009.[234]
 
-Nicaragua is referred to as _"the land of lakes and volcanoes"_ due to the number of lagoons and lakes, and the chain of volcanoes that runs from the north to the south along the country's Pacific side.[235][236][237] Today, only 7 of the 50 volcanoes in Nicaragua are considered active. Many of these volcanoes offer some great possibilities for tourists with activities such as hiking, climbing, camping, and swimming in crater lakes.LagunaApoyo.jpg is a nature reserve located between the departments of Masaya and Granada.]]
+Nicaragua is referred to as _"the land of lakes and volcanoes"_ due to the number of lagoons and lakes, and the chain of volcanoes that runs from the north to the south along the country's Pacific side.[235][236][237] Today, only 7 of the 50 volcanoes in Nicaragua are considered active. Many of these volcanoes offer some great possibilities for tourists with activities such as hiking, climbing, camping, and swimming in crater lakes. is a nature reserve located between the departments of Masaya and Granada.]]
 
 The Apoyo Lagoon Natural Reserve was created by the eruption of the Apoyo Volcano about 23,000 years ago, which left a huge 7 km-wide crater that gradually filled with water. It is surrounded by the old crater wall.[238] The rim of the lagoon is lined with restaurants, many of which have kayaks available. Besides exploring the forest around it, many water sports are practiced in the lagoon, most notably kayaking.[239]
 
-Sand skiing has become a popular attraction at the Cerro Negro volcano in León. Both dormant and active volcanoes can be climbed. Some of the most visited volcanoes include the Masaya Volcano, Momotombo, Mombacho, Cosigüina and Ometepe's Maderas and Concepción. Nicaraguasee03.JPG are tropical islands located in Lake Nicaragua which are home to 76 bird species and are a growing ecotourism destination.]]
+Sand skiing has become a popular attraction at the Cerro Negro volcano in León. Both dormant and active volcanoes can be climbed. Some of the most visited volcanoes include the Masaya Volcano, Momotombo, Mombacho, Cosigüina and Ometepe's Maderas and Concepción. are tropical islands located in Lake Nicaragua which are home to 76 bird species and are a growing ecotourism destination.]]
 
 Ecotourism aims to be ecologically and socially conscious; it focuses on local culture, wilderness, and adventure. Nicaragua's ecotourism is growing with every passing year.[240] It boasts a number of ecotourist tours and perfect places for adventurers. Nicaragua has three eco-regions (the Pacific, Central, and Atlantic) which contain volcanoes, tropical rainforests, and agricultural land.[241] The majority of the eco-lodges and other environmentally-focused touristic destinations are found on Ometepe Island,[242] located in the middle of Lake Nicaragua just an hour's boat ride from Granada. While some are foreign-owned, such as the tropical permaculture lodge at Finca El Zopilote, others are owned by local families, like the small but well-acclaimed Finca Samaria.
 
 
 Demographics
-
-Nica_Women.jpg
 
 +------------+
 | Population |
@@ -295,7 +291,7 @@ Nica_Women.jpg
 |            |
 +------------+
 
-Nicaragua_boys.jpg.]]According to a 2014 research published in the journal _Genetics and Molecular Biology_, European ancestry predominates in 69% of Nicaraguans, followed by African ancestry in 20%, and lastly indigenous ancestry in 11%.[243] A Japanese research of "Genomic Components in America's demography" demonstrated that, on average, the ancestry of Nicaraguans is 58–62% European, 28% Native American, and 14% African, with a very small Near Eastern contribution.[244] Non-genetic data from the _CIA World Factbook_ establish that from Nicaragua's 2016 population of 5,966,798, around 69% are mestizo, 17% white, 5% Native American, and 9% black and other races.[245] This fluctuates with changes in migration patterns. The population is 58% urban .[246]
+.]]According to a 2014 research published in the journal _Genetics and Molecular Biology_, European ancestry predominates in 69% of Nicaraguans, followed by African ancestry in 20%, and lastly indigenous ancestry in 11%.[243] A Japanese research of "Genomic Components in America's demography" demonstrated that, on average, the ancestry of Nicaraguans is 58–62% European, 28% Native American, and 14% African, with a very small Near Eastern contribution.[244] Non-genetic data from the _CIA World Factbook_ establish that from Nicaragua's 2016 population of 5,966,798, around 69% are mestizo, 17% white, 5% Native American, and 9% black and other races.[245] This fluctuates with changes in migration patterns. The population is 58% urban .[246]
 
 The capital Managua is the biggest city, with an estimated population of 1,042,641 in 2016.[247] In 2005, over 5 million people lived in the Pacific, Central and North regions, and 700,000 in the Caribbean region.[248]
 
@@ -307,7 +303,7 @@ Nicaragua has a population growth rate of 1.5% .[251] This is the result of one 
 
 Ethnic groups
 
-AfroNicoya.jpg The majority of the Nicaraguan population is composed of mestizos, roughly 69%. 17% of Nicaragua's population is of unmixed European stock, with the majority of them being of Spanish descent, while others are of German, Italian, English, Turkish, Danish or French ancestry.
+The majority of the Nicaraguan population is composed of mestizos, roughly 69%. 17% of Nicaragua's population is of unmixed European stock, with the majority of them being of Spanish descent, while others are of German, Italian, English, Turkish, Danish or French ancestry.
 
 Black Creoles
 
@@ -319,7 +315,7 @@ The remaining 5% of Nicaraguans are indigenous, the descendants of the country's
 
 Languages
 
-BluefieldsSign.jpg Nicaraguan Spanish has many indigenous influences and several distinguishing characteristics. For example, some Nicaraguans have a tendency to replace /s/ with /h/ when speaking.[256] Although Spanish is spoken throughout, the country has great variety: vocabulary, accents and colloquial language can vary between towns and departments.[257]
+Nicaraguan Spanish has many indigenous influences and several distinguishing characteristics. For example, some Nicaraguans have a tendency to replace /s/ with /h/ when speaking.[256] Although Spanish is spoken throughout, the country has great variety: vocabulary, accents and colloquial language can vary between towns and departments.[257]
 
 On the Caribbean coast, indigenous languages, English-based creoles, and Spanish are spoken. The Miskito language, spoken by the Miskito people as a first language and some other indigenous and Afro-descendants people as a second, third, or fourth language, is the most commonly spoken indigenous language. The indigenous Misumalpan languages of Mayangna and Ulwa are spoken by the respective peoples of the same names. Many Miskito, Mayangna, and Ulwa people also speak Miskito Coast Creole, and a large majority also speak Spanish. Fewer than three dozen of nearly 2,000 Rama people speak their Chibchan language fluently, with nearly all Ramas speaking Rama Cay Creole and the vast majority speaking Spanish. Linguists have attempted to document and revitalize the language over the past three decades.[258]
 
@@ -329,7 +325,7 @@ Largest cities
 
 Religion
 
-Kathedrale_Leon_2.JPG, one of Nicaragua's World Heritage Sites.]]
+, one of Nicaragua's World Heritage Sites.]]
 
 Religion plays a significant part of the culture of Nicaragua and is afforded special protections in the constitution. Religious freedom, which has been guaranteed since 1939, and religious tolerance are promoted by the government and the constitution.
 
@@ -365,7 +361,7 @@ The Nicaraguan government guarantees universal free health care for its citizens
 
 Education
 
-Edificio_UNI.jpg.]] The adult literacy rate in 2005 was 78.0%.[273]
+.]] The adult literacy rate in 2005 was 78.0%.[273]
 
 Primary education is free in Nicaragua. A system of private schools exists, many of which are religiously affiliated and often have more robust English programs.[274] As of 1979, the educational system was one of the poorest in Latin America.[275] One of the first acts of the newly elected Sandinista government in 1980 was an extensive and successful literacy campaign, using secondary school students, university students and teachers as volunteer teachers: it reduced the overall illiteracy rate from 50.3% to 12.9% within only five months.[276] This was one of a number of large-scale programs which received international recognition for their gains in literacy, health care, education, childcare, unions, and land reform.[277][278] The Sandinistas also added a leftist ideological content to the curriculum, which was removed after 1990.[279] In September 1980, UNESCO awarded Nicaragua the Soviet Union sponsored Nadezhda Krupskaya award for the literacy campaign.[280]
 
@@ -380,7 +376,7 @@ The Human Development Report ranked Nicaragua 106 out of 160 countries in the Ge
 
 Culture
 
-El_Güegüense.jpg is a drama and was the first literary work of post-Columbian Nicaragua. It is regarded as one of Latin America's most distinctive colonial-era expressions and as Nicaragua's signature folkloric masterpiece combining music, dance and theatre.]]
+is a drama and was the first literary work of post-Columbian Nicaragua. It is regarded as one of Latin America's most distinctive colonial-era expressions and as Nicaragua's signature folkloric masterpiece combining music, dance and theatre.]]
 
 Nicaraguan culture has strong folklore, music and religious traditions, deeply influenced by European culture but also including Native American sounds and flavors. Nicaraguan culture can further be defined in several distinct strands. The Pacific coast has strong folklore, music and religious traditions, deeply influenced by Europeans. It was colonized by Spain and has a similar culture to other Spanish-speaking Latin American countries. The indigenous groups that historically inhabited the Pacific coast have largely been assimilated into the mestizo culture.
 
@@ -392,7 +388,7 @@ Nicaraguan music is a mixture of indigenous and Spanish influences. Musical inst
 
 The marimba is made with hardwood plates placed over bamboo or metal tubes of varying lengths. It is played with two or four hammers. The Caribbean coast of Nicaragua is known for a lively, sensual form of dance music called _Palo de Mayo_ which is popular throughout the country. It is especially loud and celebrated during the Palo de Mayo festival in May. The Garifuna community (Afro-Native American) is known for its popular music called _Punta_.
 
-Nicaragua_Mestizaje.jpg costume, which is a traditional costume worn to dance the Mestizaje dance. The costume demonstrates the Spanish influence upon Nicaraguan clothing.[285]]] Nicaragua enjoys a variety of international influence in the music arena. Bachata, Merengue, Salsa and Cumbia have gained prominence in cultural centres such as Managua, Leon and Granada. Cumbia dancing has grown popular with the introduction of Nicaraguan artists, including Gustavo Leyton, on Ometepe Island and in Managua. Salsa dancing has become extremely popular in Managua's nightclubs. With various influences, the form of salsa dancing varies in Nicaragua. New York style and Cuban Salsa (Salsa Casino) elements have gained popularity across the country.
+costume, which is a traditional costume worn to dance the Mestizaje dance. The costume demonstrates the Spanish influence upon Nicaraguan clothing.[285]]] Nicaragua enjoys a variety of international influence in the music arena. Bachata, Merengue, Salsa and Cumbia have gained prominence in cultural centres such as Managua, Leon and Granada. Cumbia dancing has grown popular with the introduction of Nicaraguan artists, including Gustavo Leyton, on Ometepe Island and in Managua. Salsa dancing has become extremely popular in Managua's nightclubs. With various influences, the form of salsa dancing varies in Nicaragua. New York style and Cuban Salsa (Salsa Casino) elements have gained popularity across the country.
 
 Dance
 
@@ -400,17 +396,17 @@ Dance in Nicaragua varies depending upon the region. Rural areas tend to have a 
 
 Literature
 
-Rubén_Darío.jpg, the founder of the modernismo literary movement in Latin America.]] The origin of Nicaraguan literature can arguably be traced to pre-Columbian times. The myths and oral literature formed the cosmogenic view of the world of the indigenous people. Some of these stories are still known in Nicaragua. Like many Latin American countries, the Spanish conquerors have had the most effect on both the culture and the literature. Nicaraguan literature has historically been an important source of poetry in the Spanish-speaking world, with internationally renowned contributors such as Rubén Darío who is regarded as the most important literary figure in Nicaragua. He is called the "Father of Modernism" for leading the _modernismo_ literary movement at the end of the 19th century.[286] Other literary figures include Carlos Martinez Rivas, Pablo Antonio Cuadra, Alberto Cuadra Mejia, Manolo Cuadra, Pablo Alberto Cuadra Arguello, Orlando Cuadra Downing, Alfredo Alegría Rosales, Sergio Ramirez Mercado, Ernesto Cardenal, Gioconda Belli, Claribel Alegría and José Coronel Urtecho, among others.[287]
+, the founder of the modernismo literary movement in Latin America.]] The origin of Nicaraguan literature can arguably be traced to pre-Columbian times. The myths and oral literature formed the cosmogenic view of the world of the indigenous people. Some of these stories are still known in Nicaragua. Like many Latin American countries, the Spanish conquerors have had the most effect on both the culture and the literature. Nicaraguan literature has historically been an important source of poetry in the Spanish-speaking world, with internationally renowned contributors such as Rubén Darío who is regarded as the most important literary figure in Nicaragua. He is called the "Father of Modernism" for leading the _modernismo_ literary movement at the end of the 19th century.[286] Other literary figures include Carlos Martinez Rivas, Pablo Antonio Cuadra, Alberto Cuadra Mejia, Manolo Cuadra, Pablo Alberto Cuadra Arguello, Orlando Cuadra Downing, Alfredo Alegría Rosales, Sergio Ramirez Mercado, Ernesto Cardenal, Gioconda Belli, Claribel Alegría and José Coronel Urtecho, among others.[287]
 
 The satirical drama _El Güegüense_ was the first literary work of post-Columbian Nicaragua. Written in both Aztec Nahuatl and Spanish it is regarded as one of Latin America's most distinctive colonial-era expressions and as Nicaragua's signature folkloric masterpiece, a work of resistance to Spanish colonialism that combined music, dance and theatre.[288] The theatrical play was written by an anonymous author in the 16th century, making it one of the oldest indigenous theatrical/dance works of the Western Hemisphere. In 2005 it was recognized by UNESCO as "a patrimony of humanity".[289] After centuries of popular performance, the play was first published in a book in 1942.[290]
 
 Cuisine
 
-VIGORON.JPG is a dish that is served with vegetables and chicharrones (fried pork with skin or with meat) and wrapped in Banana leaf.]]
+is a dish that is served with vegetables and chicharrones (fried pork with skin or with meat) and wrapped in Banana leaf.]]
 
 Nicaraguan cuisine is a mixture of Spanish food and dishes of a pre-Columbian origin.[291] Traditional cuisine changes from the Pacific to the Caribbean coast. The Pacific coast's main staple revolves around local fruits and corn, the Caribbean coast cuisine makes use of seafood and the coconut.
 
-Costa_Rican_Gallo_Pinto.jpg is a traditional dish of Nicaragua made with rice and beans.]] As in many other Latin American countries, maize is a staple food and is used in many of the widely consumed dishes, such as the nacatamal, and _indio viejo_. Maize is also an ingredient for drinks such as pinolillo and chicha as well as sweets and desserts. In addition to corn, rice and beans are eaten very often.
+is a traditional dish of Nicaragua made with rice and beans.]] As in many other Latin American countries, maize is a staple food and is used in many of the widely consumed dishes, such as the nacatamal, and _indio viejo_. Maize is also an ingredient for drinks such as pinolillo and chicha as well as sweets and desserts. In addition to corn, rice and beans are eaten very often.
 
 Gallo pinto, Nicaragua's national dish, is made with white rice and red beans that are cooked individually and then fried together. The dish has several variations including the addition of coconut milk and/or grated coconut on the Caribbean coast. Most Nicaraguans begin their day with Gallopinto. Gallopinto is most usually served with _carne asada_, a salad, fried cheese, plantains or maduros.
 
@@ -428,7 +424,7 @@ The Nicaraguan print media are varied and partisan, representing pro and anti-go
 
 Sports
 
-National_baseball_stadium_Managua.jpg is Nicaragua's main stadium.]] Baseball is the most popular sport in Nicaragua. Although some professional Nicaraguan baseball teams have recently folded, the country still enjoys a strong tradition of American-style baseball.
+is Nicaragua's main stadium.]] Baseball is the most popular sport in Nicaragua. Although some professional Nicaraguan baseball teams have recently folded, the country still enjoys a strong tradition of American-style baseball.
 
 Baseball was introduced to Nicaragua during the 19th century. In the Caribbean coast, locals from Bluefields were taught how to play baseball in 1888 by Albert Addlesberg, a retailer from the United States.[297] Baseball did not catch on in the Pacific coast until 1891 when a group of mostly college students from the United States formed "La Sociedad de Recreo" (Society of Recreation) where they played various sports, baseball being the most popular.[298]
 

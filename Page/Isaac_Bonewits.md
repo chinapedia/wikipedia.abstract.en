@@ -10,7 +10,7 @@ Career
 
 Early years
 
-Isaac Bonewits (right) at Camp Ramblewood. In 1966, while enrolled at UC Berkeley, Bonewits joined the Reformed Druids of North America (RDNA). Bonewits was ordained as a Neo-druid priest in 1969. During this period, the 18-year-old Bonewits was also recruited by the Church of Satan,[5] but left due to political and philosophical conflicts with Anton LaVey. During his stint in the Church of Satan, Bonewits appeared in some scenes of the 1970 documentary _Satanis: The Devil's Mass_.[6] Bonewits, in his article "My Satanic Adventure", asserts that the rituals in _Satanis_ were staged for the movie at the behest of the filmmakers and were not authentic ceremonies.[7]
+In 1966, while enrolled at UC Berkeley, Bonewits joined the Reformed Druids of North America (RDNA). Bonewits was ordained as a Neo-druid priest in 1969. During this period, the 18-year-old Bonewits was also recruited by the Church of Satan,[5] but left due to political and philosophical conflicts with Anton LaVey. During his stint in the Church of Satan, Bonewits appeared in some scenes of the 1970 documentary _Satanis: The Devil's Mass_.[6] Bonewits, in his article "My Satanic Adventure", asserts that the rituals in _Satanis_ were staged for the movie at the behest of the filmmakers and were not authentic ceremonies.[7]
 
 1970s - author and editor
 

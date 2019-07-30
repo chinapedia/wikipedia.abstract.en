@@ -12,13 +12,13 @@ Paxinou was the daughter of Vassilis Konstantopoulos and Eleni Malandrinou.[5] S
 
 Career
 
-Katína_Paxinoú_in_For_Whom_the_Bell_Tolls_trailer.jpg'' trailer.]]
+'' trailer.]]
 
 Paxinou made her debut at the Municipal Theatre of Piraeus in 1920 in the operatic version of Maurice Maeterlinck's _Sister Beatrice_, with a score by Dimitri Mitropoulos. She first appeared in a play in 1928, as a member of Marika Kotopouli's troupe, in an Athens production of Henry Bataille's _The Naked Woman_. In 1931, she joined Aimilios Veakis' troupe along with Alexis Minotis, where she translated and appeared in the first of Eugene O'Neill's plays to be staged in Greece, _Desire Under the Elms_. She also appeared in Anton Chekhov's _Uncle Vanya_ and August Strindberg's _The Father_.
 
 In 1932, Paxinou was among the actors that inaugurated the recently re-founded National Theatre of Greece, where she worked until 1940. During her stay in the National Theatre, she distinguished herself on Greek stage starring in major plays, such as Sophocles' _Electra_, Henrik Ibsen's _Ghosts_ and William Shakespeare's _Hamlet_, which were also performed in London, Frankfurt and Berlin.
 
-When World War II began, Paxinou was performing in London. Unable to return to Greece, she emigrated in May 1941 to the United States, where she had earlier appeared in 1931, performing Clytemnestra in a modern Greek version of _Electra_. IP_MANA_KOURAGIO.jpg _Mother Courage and Her Children_, Pantheon Theatre, Athens, 1971/72 (PFF's Archive).]]
+When World War II began, Paxinou was performing in London. Unable to return to Greece, she emigrated in May 1941 to the United States, where she had earlier appeared in 1931, performing Clytemnestra in a modern Greek version of _Electra_. _Mother Courage and Her Children_, Pantheon Theatre, Athens, 1971/72 (PFF's Archive).]]
 
 She was selected to play the role of Pilar in the film _For Whom the Bell Tolls_ (1943), for which she won an Oscar and a Golden Globe Award for Best Supporting Actress - Motion Picture. She made one British film, _Uncle Silas_ (1947), which features Jean Simmons in the main female role and worked in Italy for 20th Century Fox, playing the mother of Tyrone Power's character in _Prince of Foxes_ (1949). After this film, Paxinou worked for a Hollywood studio only once more, again playing a gypsy woman in the religious epic _The Miracle_ (1959).
 

@@ -3,8 +3,6 @@ Myanmar has begun the liberalization of its telecoms market in 2013.[1]
 
 Telecommunication networks
 
-Street_telephone_post_in_Myanmar.jpg
-
 Previously, Myanmar Post and Telecommunication had a monopoly in the country. In 2013, the government started taking steps to open up the telecommunications market, issuing licenses to new service providers. Consulting firm Roland Berger supported the government in the liberalization and tendering process.[2] In 2014, Qatar-based Ooredoo and Norwegian Telenor Group entered the market, resulting in the reduction of consumer prices and a rapid growth in the number of subscribers, as well as the expansion of the country's infrastructure.[3] In November 2015, Ericsson named Myanmar the world's fourth fastest-growing mobile market.[4] As of June 2015, Myanmar has a mobile phone penetration rate of 54.6%, up from less than 10% in 2012. On 12 January 2017, Mytel (Telecom International Myanmar Co., Ltd.) received License for the provision of telecommunication services, officially became the 4th operator in Myanmar.
 
 Telephone system

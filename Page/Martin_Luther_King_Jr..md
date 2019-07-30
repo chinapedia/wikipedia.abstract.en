@@ -11,7 +11,7 @@ King was posthumously awarded the Presidential Medal of Freedom and the Congress
 
 Early life and education
 
-Atlanta_Trip_130.JPG.]] King was born on January 15, 1929, in Atlanta, Georgia, to the Reverend Martin Luther King Sr. and Alberta Williams King.[1] King's given name at birth was Michael King, and his father was also born Michael King, but, after a period of gradual transition on the elder King's part, he changed both his and his son's names in 1934.[2] The senior King was inspired during a trip to Germany for that year's meeting of the Baptist World Alliance (BWA). While visiting sites associated with the Protestant reformation leader, Martin Luther, attendees witnessed the rise of Nazism. The BWA conference issued a resolution condemning anti-Semitism, and the senior King gained deepened appreciation for the power of Luther's protest.[3] The elder King would later state that "Michael" was a mistake by the attending physician to his son's birth,[4] and the younger King's birth certificate was altered to read "Martin Luther King Jr." in 1957. King's parents were both African-American, and he had Irish ancestry through his paternal great-grandfather.[5][6][7]
+.]] King was born on January 15, 1929, in Atlanta, Georgia, to the Reverend Martin Luther King Sr. and Alberta Williams King.[1] King's given name at birth was Michael King, and his father was also born Michael King, but, after a period of gradual transition on the elder King's part, he changed both his and his son's names in 1934.[2] The senior King was inspired during a trip to Germany for that year's meeting of the Baptist World Alliance (BWA). While visiting sites associated with the Protestant reformation leader, Martin Luther, attendees witnessed the rise of Nazism. The BWA conference issued a resolution condemning anti-Semitism, and the senior King gained deepened appreciation for the power of Luther's protest.[3] The elder King would later state that "Michael" was a mistake by the attending physician to his son's birth,[4] and the younger King's birth certificate was altered to read "Martin Luther King Jr." in 1957. King's parents were both African-American, and he had Irish ancestry through his paternal great-grandfather.[5][6][7]
 
 King was a middle child, between older sister Christine King Farris and younger brother A.D. King. King sang with his church choir at the 1939 Atlanta premiere of the film _Gone with the Wind_,[8] and he enjoyed singing and music. His mother was an accomplished organist and choir leader who took him to various churches to sing, and he received attention for singing "I Want to Be More and More Like Jesus". King later became a member of the junior choir in his church.[9]
 
@@ -31,7 +31,7 @@ During King's junior year in high school, Morehouse College—a respected histor
 
 Crozer Theological Seminary
 
-OldMainUpland.JPG (pictured in 2009).]] In 1948, King graduated at the age of 19 from Morehouse with a B.A. in philosophy. He then enrolled in Crozer Theological Seminary in Chester, Pennsylvania, from which he graduated with a B.Div. degree in 1951.[20][21] King's father fully supported his decision to continue his education and made arrangements for King to work with J. Pius Barbour, a family friend who pastored at Calvary Baptist Church in Chester.[22] King became known as one of the "Sons of Calvary", an honor he shared with William Augustus Jones Jr. and Samuel D. Proctor who went on to become well-known preachers in the black church.[23]
+(pictured in 2009).]] In 1948, King graduated at the age of 19 from Morehouse with a B.A. in philosophy. He then enrolled in Crozer Theological Seminary in Chester, Pennsylvania, from which he graduated with a B.Div. degree in 1951.[20][21] King's father fully supported his decision to continue his education and made arrangements for King to work with J. Pius Barbour, a family friend who pastored at Calvary Baptist Church in Chester.[22] King became known as one of the "Sons of Calvary", an honor he shared with William Augustus Jones Jr. and Samuel D. Proctor who went on to become well-known preachers in the black church.[23]
 
 While attending Crozer, King was joined by Walter McCall, a former classmate at Morehouse.[24] At Crozer, King was elected president of the student body. The African-American students of Crozer for the most part conducted their social activity on Edwards Street. King became fond of the street because a classmate had an aunt who prepared collard greens for them, which they both relished.[25]
 
@@ -52,7 +52,7 @@ Decades later, an academic inquiry in October 1991 concluded that portions of hi
 
 Montgomery bus boycott, 1955
 
-Rosa_Parks_(detail).tiff with King, 1955]] In March 1955, Claudette Colvin—a fifteen-year-old black schoolgirl in Montgomery—refused to give up her bus seat to a white man in violation of Jim Crow laws, local laws in the Southern United States that enforced racial segregation. King was on the committee from the Birmingham African-American community that looked into the case; E. D. Nixon and Clifford Durr decided to wait for a better case to pursue because the incident involved a minor.[37]
+with King, 1955]] In March 1955, Claudette Colvin—a fifteen-year-old black schoolgirl in Montgomery—refused to give up her bus seat to a white man in violation of Jim Crow laws, local laws in the Southern United States that enforced racial segregation. King was on the committee from the Birmingham African-American community that looked into the case; E. D. Nixon and Clifford Durr decided to wait for a better case to pursue because the incident involved a minor.[37]
 
 Nine months later on December 1, 1955, a similar incident occurred when Rosa Parks was arrested for refusing to give up her seat on a city bus.[38] The two incidents led to the Montgomery bus boycott, which was urged and planned by Nixon and led by King.[39] The boycott lasted for 385 days,[40] and the situation became so tense that King's house was bombed.[41] King was arrested during this campaign, which concluded with a United States District Court ruling in _Browder v. Gayle_ that ended racial segregation on all Montgomery public buses. King's role in the bus boycott transformed him into a national figure and the best-known spokesman of the civil rights movement.
 
@@ -65,7 +65,7 @@ On September 20, 1958, King was signing copies of his book _Stride Toward Freedo
 
 Harry Wachtel joined King's legal advisor Clarence B. Jones in defending four ministers of the SCLC in the libel case _New York Times Co. v. Sullivan_; the case was litigated in reference to the newspaper advertisement "Heed Their Rising Voices". Wachtel founded a tax-exempt fund to cover the expenses of the suit and to assist the nonviolent civil rights movement through a more effective means of fundraising. This organization was named the "Gandhi Society for Human Rights." King served as honorary president for the group. He was displeased with the pace that President Kennedy was using to address the issue of segregation. In 1962, King and the Gandhi Society produced a document that called on the President to follow in the footsteps of Abraham Lincoln and issue an executive order to deliver a blow for civil rights as a kind of Second Emancipation Proclamation. Kennedy did not execute the order.[50]
 
-Photograph_of_White_House_Meeting_with_Civil_Rights_Leaders._June_22,_1963_-_NARA_-_194190_(no_border).tif and Robert F. Kennedy with civil rights leaders, June 22, 1963]] The FBI was under written directive from Attorney General Robert F. Kennedy when it began tapping King's telephone line in the fall of 1963.[51] Kennedy was concerned that public allegations of communists in the SCLC would derail the administration's civil rights initiatives. He warned King to discontinue these associations and later felt compelled to issue the written directive that authorized the FBI to wiretap King and other SCLC leaders. FBI Director J. Edgar Hoover feared the civil rights movement and investigated the allegations of communist infiltration. When no evidence emerged to support this, the FBI used the incidental details caught on tape over the next five years in attempts to force King out of his leadership position, in the COINTELPRO program.[52]
+and Robert F. Kennedy with civil rights leaders, June 22, 1963]] The FBI was under written directive from Attorney General Robert F. Kennedy when it began tapping King's telephone line in the fall of 1963.[51] Kennedy was concerned that public allegations of communists in the SCLC would derail the administration's civil rights initiatives. He warned King to discontinue these associations and later felt compelled to issue the written directive that authorized the FBI to wiretap King and other SCLC leaders. FBI Director J. Edgar Hoover feared the civil rights movement and investigated the allegations of communist infiltration. When no evidence emerged to support this, the FBI used the incidental details caught on tape over the next five years in attempts to force King out of his leadership position, in the COINTELPRO program.[52]
 
 King believed that organized, nonviolent protest against the system of southern segregation known as Jim Crow laws would lead to extensive media coverage of the struggle for black equality and voting rights. Journalistic accounts and televised footage of the daily deprivation and indignities suffered by Southern blacks, and of segregationist violence and harassment of civil rights workers and marchers, produced a wave of sympathetic public opinion that convinced the majority of Americans that the civil rights movement was the most important issue in American politics in the early 1960s.[53][54]
 
@@ -85,7 +85,7 @@ After nearly a year of intense activism with few tangible results, the movement 
 
 Birmingham campaign, 1963
 
-MLK_mugshot_birmingham.jpg In April 1963, the SCLC began a campaign against racial segregation and economic injustice in Birmingham, Alabama. The campaign used nonviolent but intentionally confrontational tactics, developed in part by Rev. Wyatt Tee Walker. Black people in Birmingham, organizing with the SCLC, occupied public spaces with marches and sit-ins, openly violating laws that they considered unjust.
+In April 1963, the SCLC began a campaign against racial segregation and economic injustice in Birmingham, Alabama. The campaign used nonviolent but intentionally confrontational tactics, developed in part by Rev. Wyatt Tee Walker. Black people in Birmingham, organizing with the SCLC, occupied public spaces with marches and sit-ins, openly violating laws that they considered unjust.
 
 King's intent was to provoke mass arrests and "create a situation so crisis-packed that it will inevitably open the door to negotiation."[65] The campaign's early volunteers did not succeed in shutting down the city, or in drawing media attention to the police's actions. Over the concerns of an uncertain King, SCLC strategist James Bevel changed the course of the campaign by recruiting children and young adults to join in the demonstrations.[66] _Newsweek_ called this strategy a Children's Crusade.[67][68]
 
@@ -95,7 +95,7 @@ King was arrested and jailed early in the campaign—his 13th arrest[70] out of 
 
   I have almost reached the regrettable conclusion that the Negro's great stumbling block in his stride toward freedom is not the White Citizen's Councilor or the Ku Klux Klanner, but the white moderate, who is more devoted to "order" than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says: "I agree with you in the goal you seek, but I cannot agree with your methods of direct action"; who paternalistic-ally believes he can set the timetable for another man's freedom; who lives by a mythical concept of time and who constantly advises the Negro to wait for a "more convenient season."[74]
 
-Bezoek_ds_Martin_Luther_King-selectionclip.ogv, 1964.]]
+, 1964.]]
 
 St. Augustine, Florida, 1964
 
@@ -112,15 +112,13 @@ On February 6, 1964, King delivered the inaugural speech of a lecture series ini
 
 March on Washington, 1963
 
-March_on_Washington_edit.jpg
-
 King, representing the SCLC, was among the leaders of the "Big Six" civil rights organizations who were instrumental in the organization of the March on Washington for Jobs and Freedom, which took place on August 28, 1963. The other leaders and organizations comprising the Big Six were Roy Wilkins from the National Association for the Advancement of Colored People; Whitney Young, National Urban League; A. Philip Randolph, Brotherhood of Sleeping Car Porters; John Lewis, SNCC; and James L. Farmer Jr., of the Congress of Racial Equality.[82]
 
 Bayard Rustin's open homosexuality, support of democratic socialism, and his former ties to the Communist Party USA caused many white and African-American leaders to demand King distance himself from Rustin,[83] which King agreed to do. However, he did collaborate in the 1963 March on Washington, for which Rustin was the primary logistical and strategic organizer.[84][85] For King, this role was another which courted controversy, since he was one of the key figures who acceded to the wishes of United States President John F. Kennedy in changing the focus of the march.[86][87]
 
 Kennedy initially opposed the march outright, because he was concerned it would negatively impact the drive for passage of civil rights legislation. However, the organizers were firm that the march would proceed.[88] With the march going forward, the Kennedys decided it was important to work to ensure its success. President Kennedy was concerned the turnout would be less than 100,000. Therefore, he enlisted the aid of additional church leaders and Walter Reuther, president of the United Automobile Workers, to help mobilize demonstrators for the cause.[89]
 
-Martin_Luther_King_-_March_on_Washington.jpg during the 1963 March on Washington for Jobs and Freedom.]] The march originally was conceived as an event to dramatize the desperate condition of blacks in the southern U.S. and an opportunity to place organizers' concerns and grievances squarely before the seat of power in the nation's capital. Organizers intended to denounce the federal government for its failure to safeguard the civil rights and physical safety of civil rights workers and blacks. The group acquiesced to presidential pressure and influence, and the event ultimately took on a far less strident tone.[90] As a result, some civil rights activists felt it presented an inaccurate, sanitized pageant of racial harmony; Malcolm X called it the "Farce on Washington", and the Nation of Islam forbade its members from attending the march.[91][92] The march made specific demands: an end to racial segregation in public schools; meaningful civil rights legislation, including a law prohibiting racial discrimination in employment; protection of civil rights workers from police brutality; a $2 minimum wage for all workers (); and self-government for Washington, D.C., then governed by congressional committee.[93][94][95] Despite tensions, the march was a resounding success.[96] More than a quarter of a million people of diverse ethnicities attended the event, sprawling from the steps of the Lincoln Memorial onto the National Mall and around the reflecting pool. At the time, it was the largest gathering of protesters in Washington, D.C.'s history.[97]
+during the 1963 March on Washington for Jobs and Freedom.]] The march originally was conceived as an event to dramatize the desperate condition of blacks in the southern U.S. and an opportunity to place organizers' concerns and grievances squarely before the seat of power in the nation's capital. Organizers intended to denounce the federal government for its failure to safeguard the civil rights and physical safety of civil rights workers and blacks. The group acquiesced to presidential pressure and influence, and the event ultimately took on a far less strident tone.[90] As a result, some civil rights activists felt it presented an inaccurate, sanitized pageant of racial harmony; Malcolm X called it the "Farce on Washington", and the Nation of Islam forbade its members from attending the march.[91][92] The march made specific demands: an end to racial segregation in public schools; meaningful civil rights legislation, including a law prohibiting racial discrimination in employment; protection of civil rights workers from police brutality; a $2 minimum wage for all workers (); and self-government for Washington, D.C., then governed by congressional committee.[93][94][95] Despite tensions, the march was a resounding success.[96] More than a quarter of a million people of diverse ethnicities attended the event, sprawling from the steps of the Lincoln Memorial onto the National Mall and around the reflecting pool. At the time, it was the largest gathering of protesters in Washington, D.C.'s history.[97]
 
 King delivered a 17-minute speech, later known as "I Have a Dream". In the speech's most famous passage—in which he departed from his prepared text, possibly at the prompting of Mahalia Jackson, who shouted behind him, "Tell them about the dream!"[98][99]—King said:[100]
 
@@ -131,7 +129,7 @@ The original typewritten copy of the speech, including King's handwritten notes 
 
 Selma voting rights movement and "Bloody Sunday", 1965
 
-Selma_to_Montgomery_Marches_protesters.jpg, Alabama, in 1965.]]
+, Alabama, in 1965.]]
 
 Acting on James Bevel's call for a march from Selma to Montgomery, King, Bevel, and the SCLC, in partial collaboration with SNCC, attempted to organize the march to the state's capital. The first attempt to march on March 7, 1965, was aborted because of mob and police violence against the demonstrators. This day has become known as Bloody Sunday and was a major turning point in the effort to gain public support for the civil rights movement. It was the clearest demonstration up to that time of the dramatic potential of King's nonviolence strategy. King, however, was not present.
 
@@ -142,13 +140,13 @@ King next attempted to organize a march for March 9. The SCLC petitioned for an 
 
 Chicago open housing movement, 1966
 
-Lyndon_Johnson_signing_Civil_Rights_Act,_July_2,_1964.jpg.]]
+.]]
 
 In 1966, after several successes in the south, King, Bevel, and others in the civil rights organizations took the movement to the North, with Chicago as their first destination. King and Ralph Abernathy, both from the middle class, moved into a building at 1550 S. Hamlin Avenue, in the slums of North Lawndale[110] on Chicago's West Side, as an educational experience and to demonstrate their support and empathy for the poor.
 
 The SCLC formed a coalition with CCCO, Coordinating Council of Community Organizations, an organization founded by Albert Raby, and the combined organizations' efforts were fostered under the aegis of the Chicago Freedom Movement.[111] During that spring, several white couple/black couple tests of real estate offices uncovered racial steering: discriminatory processing of housing requests by couples who were exact matches in income, background, number of children, and other attributes. Several larger marches were planned and executed: in Bogan, Belmont Cragin, Jefferson Park, Evergreen Park (a suburb southwest of Chicago), Gage Park, Marquette Park, and others.[112][113]
 
-Martin_Luther_King,_Jr._and_Lyndon_Johnson_2.jpg meeting with King in the White House Cabinet Room, 1966]]
+meeting with King in the White House Cabinet Room, 1966]]
 
 King later stated and Abernathy wrote that the movement received a worse reception in Chicago than in the South. Marches, especially the one through Marquette Park on August 5, 1966, were met by thrown bottles and screaming throngs. Rioting seemed very possible.[114][115] King's beliefs militated against his staging a violent event, and he negotiated an agreement with Mayor Richard J. Daley to cancel a march in order to avoid the violence that he feared would result.[116] King was hit by a brick during one march, but continued to lead marches in the face of personal danger.[117]
 
@@ -167,7 +165,7 @@ King opposed the Vietnam War because it took money and resources that could have
 
 King's opposition cost him significant support among white allies, including President Johnson, Billy Graham,[128] union leaders and powerful publishers.[129] "The press is being stacked against me", King said,[130] complaining of what he described as a double standard that applauded his nonviolence at home, but deplored it when applied "toward little brown Vietnamese children."[131] _Life_ magazine called the speech "demagogic slander that sounded like a script for Radio Hanoi", and _The Washington Post_ declared that King had "diminished his usefulness to his cause, his country, his people."[132]
 
-Martin_Luther_King_Jr_St_Paul_Campus_U_MN.jpg in St. Paul, April 27, 1967]] The "Beyond Vietnam" speech reflected King's evolving political advocacy in his later years, which paralleled the teachings of the progressive Highlander Research and Education Center, with which he was affiliated.[133][134] King began to speak of the need for fundamental changes in the political and economic life of the nation, and more frequently expressed his opposition to the war and his desire to see a redistribution of resources to correct racial and economic injustice.[135] He guarded his language in public to avoid being linked to communism by his enemies, but in private he sometimes spoke of his support for democratic socialism.[136][137]
+in St. Paul, April 27, 1967]] The "Beyond Vietnam" speech reflected King's evolving political advocacy in his later years, which paralleled the teachings of the progressive Highlander Research and Education Center, with which he was affiliated.[133][134] King began to speak of the need for fundamental changes in the political and economic life of the nation, and more frequently expressed his opposition to the war and his desire to see a redistribution of resources to correct racial and economic injustice.[135] He guarded his language in public to avoid being linked to communism by his enemies, but in private he sometimes spoke of his support for democratic socialism.[136][137]
 
 In a 1952 letter to Coretta Scott, he said: "I imagine you already know that I am much more socialistic in my economic theory than capitalistic ..."[138] In one speech, he stated that "something is wrong with capitalism" and claimed, "There must be a better distribution of wealth, and maybe America must move toward a democratic socialism."[139] King had read Marx while at Morehouse, but while he rejected "traditional capitalism", he rejected communism because of its "materialistic interpretation of history" that denied religion, its "ethical relativism", and its "political totalitarianism."[140]
 
@@ -188,7 +186,7 @@ Thích Nhất Hạnh was an influential Vietnamese Buddhist who taught at Prince
 
 Poor People's Campaign, 1968
 
-Resurrection_City_Washington_D.C._1968.jpg.]]
+.]]
 
 In 1968, King and the SCLC organized the "Poor People's Campaign" to address issues of economic justice. King traveled the country to assemble "a multiracial army of the poor" that would march on Washington to engage in nonviolent civil disobedience at the Capitol until Congress created an "economic bill of rights" for poor Americans.[153][154]
 
@@ -207,7 +205,7 @@ Thousands of demonstrators arrived on the National Mall and established a camp t
 
 Assassination and aftermath
 
-Martin_Luther_King_was_shot_here_Small_Web_view.jpg.]] On March 29, 1968, King went to Memphis, Tennessee, in support of the black sanitary public works employees, who were represented by AFSCME Local 1733. The workers had been on strike since March 12 for higher wages and better treatment. In one incident, black street repairmen received pay for two hours when they were sent home because of bad weather, but white employees were paid for the full day.[162][163][164]
+.]] On March 29, 1968, King went to Memphis, Tennessee, in support of the black sanitary public works employees, who were represented by AFSCME Local 1733. The workers had been on strike since March 12 for higher wages and better treatment. In one incident, black street repairmen received pay for two hours when they were sent home because of bad weather, but white employees were paid for the full day.[162][163][164]
 
 On April 2 King led what had been a peaceful downtown march in support of the sanitation workers, until bands of teenagers began smashing random store windows, and Memphis police with nightsticks attacked some of the teens and activists. The activists lost control of the demonstration, called it off, and rushed King to an automobile for his own safety. Later that day, a group of teens who called themselves The Invaders, visited King's hotel room, and confessed they had been paid by federal law enforcement officials to disrupt the march, $150 apiece.
 
@@ -221,7 +219,7 @@ After emergency chest surgery, King died at St. Joseph's Hospital at 7:05 p.m.[
 
 Aftermath
 
-MahaliaJackson1964.jpg (seen here in 1964) sang at his funeral.]]
+(seen here in 1964) sang at his funeral.]]
 
 The assassination led to a nationwide wave of race riots in Washington, D.C., Chicago, Baltimore, Louisville, Kansas City, and dozens of other cities.[173][174] Presidential candidate Robert F. Kennedy was on his way to Indianapolis for a campaign rally when he was informed of King's death. He gave a short, improvised speech to the gathering of supporters informing them of the tragedy and urging them to continue King's ideal of nonviolence.[175] The following day, he delivered a prepared response in Cleveland.[176] James Farmer Jr. and other civil rights leaders also called for non-violent action, while the more militant Stokely Carmichael called for a more forceful response.[177] The city of Memphis quickly settled the strike on terms favorable to the sanitation workers.[178]
 
@@ -233,7 +231,7 @@ Two months after King's death, James Earl Ray—who was on the loose from a prev
 
 Allegations of conspiracy
 
-Martin_Luther_King_Jr_Coretta_Scott_King_Tomb.jpg of Martin Luther King and Coretta Scott King at the Martin Luther King Jr. National Historic Site in Atlanta, Georgia.]]
+of Martin Luther King and Coretta Scott King at the Martin Luther King Jr. National Historic Site in Atlanta, Georgia.]]
 
 Ray's lawyers maintained he was a scapegoat similar to the way that John F. Kennedy's assassin Lee Harvey Oswald is seen by conspiracy theorists.[192] Supporters of this assertion said that Ray's confession was given under pressure and that he had been threatened with the death penalty.[193][194] They admitted that Ray was a thief and burglar, but claimed that he had no record of committing violent crimes with a weapon.[195] However, prison records in different U.S. cities have shown that he was incarcerated on numerous occasions for charges of armed robbery.[196] In a 2008 interview with CNN, Jerry Ray, the younger brother of James Earl Ray, claimed that James was smart and was sometimes able to get away with armed robbery. Jerry Ray said that he had assisted his brother on one such robbery. "I never been with nobody as bold as he is," Jerry said. "He just walked in and put that gun on somebody, it was just like it's an everyday thing."[197]
 
@@ -252,7 +250,7 @@ King researchers David Garrow and Gerald Posner disagreed with William F. Pepper
 
 Legacy
 
-Martin_Luther_King_memorial_Westminster_Abbey.jpg, installed in 1998.]]
+, installed in 1998.]]
 
 King's main legacy was to secure progress on civil rights in the U.S. Just days after King's assassination, Congress passed the Civil Rights Act of 1968.[215] Title VIII of the Act, commonly known as the Fair Housing Act, prohibited discrimination in housing and housing-related transactions on the basis of race, religion, or national origin (later expanded to include sex, familial status, and disability). This legislation was seen as a tribute to King's struggle in his final years to combat residential discrimination in the U.S.[216]
 
@@ -276,7 +274,7 @@ King is remembered as a martyr by the Episcopal Church in the United States of A
 
 UK legacy and The Martin Luther King Peace Committee
 
-'Today_capitalism_has_outlived_its_usefulness'_MLK.jpg ]]
+]]
 
 In the United Kingdom, The Northumbria and Newcastle Universities Martin Luther King Peace Committee[237] exists to honor King's legacy, as represented by his final visit to the UK to receive an honorary degree from Newcastle University in 1967.[238][239] The Peace Committee operates out of the chaplaincies of the city's two universities, Northumbria and Newcastle, both of which remain centres for the study of Martin Luther King and the US civil rights movement. Inspired by King's vision, it undertakes a range of activities across the UK as it seeks to "build cultures of peace."
 
@@ -291,15 +289,13 @@ Ideas, influences, and political stances
 
 Religion
 
-Civil_Rights_March_on_Washington,_D.C._(Dr._Martin_Luther_King,_Jr._and_Mathew_Ahmann_in_a_crowd.)_-_NARA_-_542015_-_Restoration.jpg
-
 As a Christian minister, King's main influence was Jesus Christ and the Christian gospels, which he would almost always quote in his religious meetings, speeches at church, and in public discourses. King's faith was strongly based in Jesus' commandment of loving your neighbor as yourself, loving God above all, and loving your enemies, praying for them and blessing them. His nonviolent thought was also based in the injunction to _turn the other cheek_ in the Sermon on the Mount, and Jesus' teaching of putting the sword back into its place (Matthew 26:52).[243] In his famous Letter from Birmingham Jail, King urged action consistent with what he describes as Jesus' "extremist" love, and also quoted numerous other Christian pacifist authors, which was very usual for him. In another sermon, he stated:
 
 King's private writings show that he rejected biblical literalism; he described the Bible as "mythological," doubted that Jesus was born of a virgin and did not believe that the story of Jonah and the whale was true.[244]
 
 Nonviolence
 
-BayardRustinAug1963-LibraryOfCongress_crop.jpg to develop non-violent tactics.]]
+to develop non-violent tactics.]]
 
 Veteran African-American civil rights activist Bayard Rustin was King's first regular advisor on nonviolence.[245] King was also advised by the white activists Harris Wofford and Glenn Smiley.[246] Rustin and Smiley came from the Christian pacifist tradition, and Wofford and Rustin both studied Gandhi's teachings. Rustin had applied nonviolence with the Journey of Reconciliation campaign in the 1940s,[247] and Wofford had been promoting Gandhism to Southern blacks since the early 1950s.[248]
 
@@ -360,7 +356,7 @@ State surveillance and coercion
 
 FBI surveillance and wiretapping
 
-FBI_PPC_1.pdf campaign against the anti-war and civil rights movements]]
+campaign against the anti-war and civil rights movements]]
 
 FBI director J. Edgar Hoover personally ordered surveillance of King, with the intent to undermine his power as a civil rights leader.[302][303] According to the Church Committee, a 1975 investigation by the U.S. Congress, "From December 1963 until his death in 1968, Martin Luther King Jr. was the target of an intensive campaign by the Federal Bureau of Investigation to 'neutralize' him as an effective civil rights leader."[304]
 
@@ -390,7 +386,7 @@ CIA files declassified in 2017 revealed that the agency was investigating possib
 
 Adultery
 
-MLK_and_Malcolm_X_USNWR_cropped.jpg, March 26, 1964]] Having concluded that King was dangerous due to communist infiltration, the FBI attempted to discredit King through revelations regarding his private life. FBI surveillance of King, some of it since made public, attempted to demonstrate that he also engaged in numerous extramarital affairs.[323] Lyndon B. Johnson once said that King was a "hypocritical preacher".[324]
+, March 26, 1964]] Having concluded that King was dangerous due to communist infiltration, the FBI attempted to discredit King through revelations regarding his private life. FBI surveillance of King, some of it since made public, attempted to demonstrate that he also engaged in numerous extramarital affairs.[323] Lyndon B. Johnson once said that King was a "hypocritical preacher".[324]
 
 In his 1989 autobiography _And the Walls Came Tumbling Down_, Ralph Abernathy stated that King had a "weakness for women", although they "all understood and believed in the biblical prohibition against sex outside of marriage. It was just that he had a particularly difficult time with that temptation."[325] In a later interview, Abernathy said that he only wrote the term "womanizing", that he did not specifically say King had extramarital sex and that the infidelities King had were emotional rather than sexual.[326]
 
@@ -400,7 +396,7 @@ In his 1986 book _Bearing the Cross_, David Garrow wrote about a number of extra
 
 The FBI distributed reports regarding such affairs to the executive branch, friendly reporters, potential coalition partners and funding sources of the SCLC, and King's family.[332] The bureau also sent anonymous letters to King threatening to reveal information if he did not cease his civil rights work.[333] The FBI–King suicide letter sent to King just before he received the Nobel Peace Prize read, in part:
 
-Mlk-uncovered-letter.png,[334] mailed anonymously by the FBI]]
+,[334] mailed anonymously by the FBI]]
 
   The American public, the church organizations that have been helping—Protestants, Catholics and Jews will know you for what you are—an evil beast. So will others who have backed you. You are done. King, there is only one thing left for you to do. You know what it is. You have just 34 days in which to do (this exact number has been selected for a specific reason, it has definite practical significant ). You are done. There is but one way out for you. You better take it before your filthy fraudulent self is bared to the nation.
 
@@ -417,9 +413,7 @@ A fire station was located across from the Lorraine Motel, next to the boarding 
 
 Awards and recognition
 
-Martin_Luther_King_Jr_with_medallion_NYWTS.jpg
-
-Dexter_Avenue_Baptist.jpg King was awarded at least fifty honorary degrees from colleges and universities.[349] On October 14, 1964, King became the youngest winner of the Nobel Peace Prize, which was awarded to him for leading nonviolent resistance to racial prejudice in the U.S.[350][351] In 1965, he was awarded the American Liberties Medallion by the American Jewish Committee for his "exceptional advancement of the principles of human liberty."[352][353] In his acceptance remarks, King said, "Freedom is one thing. You have it all or you are not free."[354]
+King was awarded at least fifty honorary degrees from colleges and universities.[349] On October 14, 1964, King became the youngest winner of the Nobel Peace Prize, which was awarded to him for leading nonviolent resistance to racial prejudice in the U.S.[350][351] In 1965, he was awarded the American Liberties Medallion by the American Jewish Committee for his "exceptional advancement of the principles of human liberty."[352][353] In his acceptance remarks, King said, "Freedom is one thing. You have it all or you are not free."[354]
 
 In 1957, he was awarded the Spingarn Medal from the NAACP.[355] Two years later, he won the Anisfield-Wolf Book Award for his book _Stride Toward Freedom: The Montgomery Story_.[356] In 1966, the Planned Parenthood Federation of America awarded King the Margaret Sanger Award for "his courageous resistance to bigotry and his lifelong dedication to the advancement of social justice and human dignity."[357] Also in 1966, King was elected as a fellow of the American Academy of Arts and Sciences.[358] In November 1967 he made a 24-hour trip to the United Kingdom to receive an honorary degree from Newcastle University, being the first African-American to be so honoured by Newcastle.[359] In a moving impromptu acceptance speech,[360] he said
 

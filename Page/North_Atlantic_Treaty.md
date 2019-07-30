@@ -18,8 +18,6 @@ Members
 
 Founding members
 
-Location_NATO.svg Map_of_NATO_chronological.gif
-
 The following twelve states signed the treaty and thus became the founding members of NATO. The following leaders signed the agreement as plenipotentiaries of their countries in Washington, D.C.:[3][4]
 
 -   – Prime Minister and Foreign Minister Paul-Henri Spaak and Ambassador Baron

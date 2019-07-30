@@ -10,7 +10,7 @@ The historical nature of the meeting is made more remarkable by the additional, 
 
 Sources and contents
 
-Sacramenta_Argentariae_(pars_brevis).jpg The sole source for the text of the oaths is Nithard's _Historiae_ or _De dissensionibus filiorum Ludovici pii_ (_On the Dissensions of the Sons of Louis the Pious_), where it is found in Chapter V of Book III. Nithard's work is preserved in a manuscript from the 10th or 11th century (Cod. Lat. 9768 in the Bibliothèque nationale in Paris) and the text of the oaths is on folios 12^(v)-13^(r)-13^(v). (A later, 14th-century manuscript is a copy of Cod. Lat. 9768 and therefore of no independent value as a source.)
+The sole source for the text of the oaths is Nithard's _Historiae_ or _De dissensionibus filiorum Ludovici pii_ (_On the Dissensions of the Sons of Louis the Pious_), where it is found in Chapter V of Book III. Nithard's work is preserved in a manuscript from the 10th or 11th century (Cod. Lat. 9768 in the Bibliothèque nationale in Paris) and the text of the oaths is on folios 12^(v)-13^(r)-13^(v). (A later, 14th-century manuscript is a copy of Cod. Lat. 9768 and therefore of no independent value as a source.)
 
 Both kings first made the same preamble speech, which was a detailed complaint against Lothair. Each king then swore his individual oath in front of their assembled armies, not in Latin nor in his own language, but in the vernacular of the other's kingdom. Finally, the armies swore separate pledges in their respective languages.
 
@@ -64,21 +64,21 @@ The image to the right is a scan of the original text. In the transcription belo
 
 The following is the Romance vernacular part in its original manuscript form and a close transcription (with minimal editing):
 
-+------------------------------------------+------------------------------------------+
-| |Scan of the text                        | |Close transcription                     |
-+==========================================+==========================================+
-| Sacramenta_Argentariae_(pars_brevis).png | Pro dõ amur & pχρ̄ian poblo & nrõ cõmun   |
-|                                          | ſaluament. diſt di e/in auant. inquantd̃ſ |
-|                                          | ſauir & podir medunat. ſiſaluaraieo.     |
-|                                          | ciſt meonfradre karlo. & in aḍ iudha.    |
-|                                          | & in cad huna coſa. ſicũ om p dreit son  |
-|                                          | fradra ſaluar dift. Ino quid il mialtre  |
-|                                          | ſi faz&. Et abludher nul plaid nũquã     |
-|                                          | prindrai qui meon uol ciſt meon fradre   |
-|                                          | karle indamnoſit.                        |
-+------------------------------------------+------------------------------------------+
-|                                          |                                          |
-+------------------------------------------+------------------------------------------+
++-------------------+------------------------------------------+
+| |Scan of the text | |Close transcription                     |
++===================+==========================================+
+|                   | Pro dõ amur & pχρ̄ian poblo & nrõ cõmun   |
+|                   | ſaluament. diſt di e/in auant. inquantd̃ſ |
+|                   | ſauir & podir medunat. ſiſaluaraieo.     |
+|                   | ciſt meonfradre karlo. & in aḍ iudha.    |
+|                   | & in cad huna coſa. ſicũ om p dreit son  |
+|                   | fradra ſaluar dift. Ino quid il mialtre  |
+|                   | ſi faz&. Et abludher nul plaid nũquã     |
+|                   | prindrai qui meon uol ciſt meon fradre   |
+|                   | karle indamnoſit.                        |
++-------------------+------------------------------------------+
+|                   |                                          |
++-------------------+------------------------------------------+
 
 
 See also

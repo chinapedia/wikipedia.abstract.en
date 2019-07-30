@@ -23,8 +23,6 @@ Seeking to develop a more creative musical career, Fripp responded to an adverti
 
 King Crimson (1969–1974)
 
-Robert_Fripp_2.jpg
-
 Almost immediately, Fripp, McDonald and Michael Giles formed the first lineup of King Crimson in mid-1968, recruiting Fripp's old Bournemouth College friend Greg Lake as lead singer and bass player, and McDonald's writing partner Peter Sinfield as lyricist, light show designer and general creative consultant. King Crimson's debut album, _In the Court of the Crimson King_, was released in late 1969 to great success: drawing on rock, jazz and European folk/classical music ideas, it is regarded as one of the most influential albums in the history of progressive rock. The band was tipped for stardom but (due to growing musical differences between Fripp on one side and Giles and McDonald on the other) broke up at the end of its first American tour in 1969. A despondent Fripp offered to leave the group if it would allow King Crimson to survive; however, Giles and McDonald had independently decided that the band's music was "more Fripp's than theirs" and that it would be better if they were the ones to leave.
 
 During the recording of the band's second album _In the Wake of Poseidon_ Greg Lake departed to form Emerson, Lake and Palmer, leaving Fripp and Sinfield as the only remaining founder members. They issued two more albums (_Lizard_ and _Islands_) and were the only constants in a regularly changing King Crimson lineup. It included (at various times) Gordon Haskell, saxophonist/flute player Mel Collins, drummers Andy McCulloch and Ian Wallace and future Bad Company bass player Boz Burrell, in addition to a palette of guest players from Soft Machine, Keith Tippett's band, Brotherhood of Breath and Centipede. Fripp was listed as the sole composer of the band's music during this time, which built on the first album's blueprint but progressed further into jazz rock and free jazz while also taking form from Sinfield's esoteric lyrical and mythological concepts.
@@ -59,8 +57,6 @@ In 1985 he produced the album _Journey to Inaccessible Places_ by classical pian
 
 King Crimson (1981–1984)
 
-"Possible_Productions_knotwork"_by_Steve_Ball.png
-
 1981 saw the formation of a new King Crimson lineup, reuniting Fripp with drummer Bill Bruford and opening a new partnership with two American musicians: bass guitarist/Chapman Stick player Tony Levin (who had played with Fripp on _Exposure_ and in the first Peter Gabriel touring band) and Adrian Belew, a singer and guitarist who had previously played with Bowie, Talking Heads and Frank Zappa. Although the band had been conceptualised under the name Discipline it came to Fripp's attention that the other members thought the name King Crimson was more appropriate: for Fripp, King Crimson had always been "a way of doing things" rather than a particular group of musicians, and the current group felt that their music captured that methodology. With the more pop-inspired Belew as main songwriter (complementing Fripp as main instrumental composer) the band took on a new style incorporating a gamelan-inspired continuo minimalism, New York influences from post-punk to go-go, and textured experiments with guitar synthesizers. After releasing three albums (_Discipline_, _Beat_, _Three of a Perfect Pair_), this new King Crimson broke up in 1984.
 
 During this period Fripp made two records with his old friend Andy Summers of The Police. On _I Advance Masked_, Fripp and Summers played all the instruments. _Bewitched_ was dominated more by Summers, who produced the record and collaborated with other musicians in addition to Fripp.
@@ -69,7 +65,7 @@ In 1982 Fripp produced and played guitar on _Keep on Doing_ by The Roches. As in
 
 Guitar Craft
 
-Claymont_Court_Front_Entrance.jpg site in Charles Town, West Virginia.[22]]] Fripp was offered a teaching position at the American Society for Continuous Education (ASCE) in Claymont Court, West Virginia in 1984. He had been involved with the ASCE since 1978, eventually serving on its board of directors, and had long been considering the idea of teaching guitar. His course, Guitar Craft, was begun in 1985, an offshoot of which was a performance group, "The League of Crafty Guitarists", which has released several albums. In 1986, he released the first of two collaborations with his wife, Toyah Willcox. The members of the California Guitar Trio are former members of The League of Crafty Guitarists and have also toured with King Crimson. Fripp is the patron of the Guitar Circle of Europe, which was founded in 2007,[23] and of the Seattle Circle Guitar School, which was founded in 2010.[24]
+site in Charles Town, West Virginia.[22]]] Fripp was offered a teaching position at the American Society for Continuous Education (ASCE) in Claymont Court, West Virginia in 1984. He had been involved with the ASCE since 1978, eventually serving on its board of directors, and had long been considering the idea of teaching guitar. His course, Guitar Craft, was begun in 1985, an offshoot of which was a performance group, "The League of Crafty Guitarists", which has released several albums. In 1986, he released the first of two collaborations with his wife, Toyah Willcox. The members of the California Guitar Trio are former members of The League of Crafty Guitarists and have also toured with King Crimson. Fripp is the patron of the Guitar Circle of Europe, which was founded in 2007,[23] and of the Seattle Circle Guitar School, which was founded in 2010.[24]
 
 In February 2009, Fripp recommended that Guitar Craft cease to exist on its 25th anniversary in 2010.[25]
 
@@ -91,7 +87,7 @@ During the early and mid-1990s Fripp contributed guitar/soundscapes to _Lifeform
 
 King Crimson redux (1994-2010)
 
-King_Crimson_-_Dour_Festival_2003_(01).jpg In late 1994, Fripp re-formed the 1981 line-up of King Crimson for its fifth incarnation, adding Trey Gunn and drummer Pat Mastelotto in a configuration known as the "double trio" (the line-up included two guitars, two bass/Stick players and two drummers). This line-up released the _VROOOM_ EP in 1994, and the _Thrak_ album in 1995.
+In late 1994, Fripp re-formed the 1981 line-up of King Crimson for its fifth incarnation, adding Trey Gunn and drummer Pat Mastelotto in a configuration known as the "double trio" (the line-up included two guitars, two bass/Stick players and two drummers). This line-up released the _VROOOM_ EP in 1994, and the _Thrak_ album in 1995.
 
 Though musically (and relatively commercially) successful, the double-trio King Crimson proved difficult to sustain in the long-term. From 1997 to 1999, the band "fraKctalised" into five experimental instrumental sub-groups known as ProjeKcts. By 1998 Bruford had quit the band altogether: in 2000, Fripp, Belew, Gunn and Mastelotto reunited as a four-piece King Crimson (minus Levin, who was busy with session work). This lineup produced two studio albums, _the construKction of light_ in 2000 and _The Power to Believe_ in 2003, which took on a more metallic, heavily electronic approach. Gunn departed at the end of 2003.
 
@@ -125,7 +121,7 @@ Fripp recommended that Guitar Craft students adopt the Ovation 1867 Legend steel
 
 Guitar technique
 
-Guitar_Craft_symbol_by_Steve_Ball.png Fripp began playing guitar at the age of eleven.[42] When he started, he was tone deaf and had no rhythmical sense, weaknesses which led him later to comment "Music so wishes to be heard that it sometimes calls on unlikely characters to give it voice."[43] He was also naturally left-handed but opted to play the guitar right-handed.[44]
+Fripp began playing guitar at the age of eleven.[42] When he started, he was tone deaf and had no rhythmical sense, weaknesses which led him later to comment "Music so wishes to be heard that it sometimes calls on unlikely characters to give it voice."[43] He was also naturally left-handed but opted to play the guitar right-handed.[44]
 
 While being taught guitar basics by his teacher Don Strike,[45][46] Fripp began to develop the technique of crosspicking, which became one of his specialities.[47] Fripp teaches crosspicking to his students in Guitar Craft.[48]
 

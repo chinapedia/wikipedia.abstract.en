@@ -1,5 +1,3 @@
-3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png
-
 The INSULIN-LIKE GROWTH FACTORS (IGFs) are proteins with high sequence similarity to insulin. IGFs are part of a complex system that cells use to communicate with their physiologic environment. This complex system (often referred to as the IGF "axis") consists of two cell-surface receptors (IGF1R and IGF2R), two ligands (Insulin-like growth factor 1 (IGF-1) and Insulin-like growth factor 2 (IGF-2)), a family of seven high-affinity IGF-binding proteins (IGFBP1 to IGFBP7), as well as associated IGFBP degrading enzymes, referred to collectively as proteases.
 
 

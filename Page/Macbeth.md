@@ -1,4 +1,4 @@
-Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png. Depicted, anti-clockwise from top-left, are: Macbeth and Banquo meet the witches; just after the murder of Duncan; Banquo's ghost; Macbeth duels Macduff; and Macbeth.]]
+. Depicted, anti-clockwise from top-left, are: Macbeth and Banquo meet the witches; just after the murder of Duncan; Banquo's ghost; Macbeth duels Macduff; and Macbeth.]]
 
 _MACBETH_ (; full title _THE TRAGEDY OF MACBETH_) is a tragedy by William Shakespeare; it is thought to have been first performed in 1606. It dramatises the damaging physical and psychological effects of political ambition on those who seek power for its own sake. Of all the plays that Shakespeare wrote during the reign of James I, who was patron of Shakespeare's acting company, _Macbeth_ most clearly reflects the playwright's relationship with his sovereign. It was first published in the Folio of 1623, possibly from a prompt book, and is Shakespeare's shortest tragedy.
 
@@ -44,8 +44,6 @@ Characters
 
 Plot
 
-MacbethAndBanquo-Witches.jpg
-
 Act I
 
 The play opens amid thunder and lightning, and the Three Witches decide that their next meeting will be with Macbeth. In the following scene, a wounded sergeant reports to King Duncan of Scotland that his generals Macbeth, who is the Thane of Glamis, and Banquo have just defeated the allied forces of Norway and Ireland, who were led by the traitorous Macdonwald, and the Thane of Cawdor. Macbeth, the King's kinsman, is praised for his bravery and fighting prowess.
@@ -64,13 +62,13 @@ Despite his success, Macbeth, also aware of this part of the prophecy, remains u
 
 At a banquet, Macbeth invites his lords and Lady Macbeth to a night of drinking and merriment. Banquo's ghost enters and sits in Macbeth's place. Macbeth raves fearfully, startling his guests, as the ghost is only visible to him. The others panic at the sight of Macbeth raging at an empty chair, until a desperate Lady Macbeth tells them that her husband is merely afflicted with a familiar and harmless malady. The ghost departs and returns once more, causing the same riotous anger and fear in Macbeth. This time, Lady Macbeth tells the lords to leave, and they do so.
 
-Macbeth_consulting_the_Vision_of_the_Armed_Head.jpg]]
+]]
 
 Act IV
 
 Macbeth, disturbed, visits the three witches once more and asks them to reveal the truth of their prophecies to him. To answer his questions, they summon horrible apparitions, each of which offers predictions and further prophecies to put Macbeth's fears at rest. First, they conjure an armoured head, which tells him to beware of Macduff (IV.i.72). Second, a bloody child tells him that no one born of a woman will be able to harm him. Thirdly, a crowned child holding a tree states that Macbeth will be safe until Great Birnam Wood comes to Dunsinane Hill. Macbeth is relieved and feels secure because he knows that all men are born of women and forests cannot move. Macbeth also asks whether Banquo's sons will ever reign in Scotland: the witches conjure a procession of eight crowned kings, all similar in appearance to Banquo, and the last carrying a mirror that reflects even more kings. Macbeth realises that these are all Banquo's descendants having acquired kingship in numerous countries. After the witches perform a mad dance and leave, Lennox enters and tells Macbeth that Macduff has fled to England. Macbeth orders Macduff's castle be seized, and, most cruelly, sends murderers to slaughter Macduff, as well as Macduff's wife and children. Although Macduff is no longer in the castle, everyone in Macduff's castle is put to death, including Lady Macduff and their young son.
 
-Johann_Heinrich_Füssli_030.jpg]]
+]]
 
 Act V
 
@@ -89,7 +87,7 @@ Although Malcolm, and not Fleance, is placed on the throne, the witches' prophec
 
 Sources
 
-James_I;_Daemonologie,_in_forme_of_a_dialogue._Title_page._Wellcome_M0014280.jpg'']] 1577_printing_of_Holinshed's_Chronicles.jpg's _Chronicles of England, Scotlande, and Irelande_, printed in 1577.]] Macbeth_and_Banquo_encountering_the_witches_-_Holinshed_Chronicles.gif'' (1577)]] A principal source comes from the _Daemonologie_ of King James published in 1597 which included a news pamphlet titled _Newes from Scotland_ that detailed the famous North Berwick Witch Trials of 1590.[1] The publication of _Daemonologie_ came just a few years before the tragedy of _Macbeth_ with the themes and setting in a direct and comparative contrast with King James' personal experiences with witchcraft. Not only had this trial taken place in Scotland, the witches involved were recorded to have also conducted rituals with the same mannerisms as the three witches. One of the evidenced passages is referenced when the witches involved in the trial confessed to attempt the use of witchcraft to raise a tempest and sabotage the very boat King James and his queen were on board during their return trip from Denmark. This was significant as one ship sailing with King James' fleet actually sank in the storm. The three witches discuss the raising of winds at sea in the opening lines of Act 1 Scene 3.
+'']] 's _Chronicles of England, Scotlande, and Irelande_, printed in 1577.]] '' (1577)]] A principal source comes from the _Daemonologie_ of King James published in 1597 which included a news pamphlet titled _Newes from Scotland_ that detailed the famous North Berwick Witch Trials of 1590.[1] The publication of _Daemonologie_ came just a few years before the tragedy of _Macbeth_ with the themes and setting in a direct and comparative contrast with King James' personal experiences with witchcraft. Not only had this trial taken place in Scotland, the witches involved were recorded to have also conducted rituals with the same mannerisms as the three witches. One of the evidenced passages is referenced when the witches involved in the trial confessed to attempt the use of witchcraft to raise a tempest and sabotage the very boat King James and his queen were on board during their return trip from Denmark. This was significant as one ship sailing with King James' fleet actually sank in the storm. The three witches discuss the raising of winds at sea in the opening lines of Act 1 Scene 3.
 
 _Macbeth_ has been compared to Shakespeare's _Antony and Cleopatra._ As characters, both Antony and Macbeth seek a new world, even at the cost of the old one. Both fight for a throne and have a 'nemesis' to face to achieve that throne. For Antony, the nemesis is Octavius; for Macbeth, it is Banquo. At one point Macbeth even compares himself to Antony, saying "under Banquo / My Genius is rebuk'd, as it is said / Mark Antony's was by Caesar." Lastly, both plays contain powerful and manipulative female figures: Cleopatra and Lady Macbeth.
 
@@ -116,7 +114,7 @@ Garry Wills provides further evidence that _Macbeth_ is a Gunpowder Play (a type
 
 The play utilizes a few key words that the audience at the time would recognize as allusions to the Plot. In one sermon in 1605, Lancelot Andrewes stated, regarding the failure of the Plotters on God's day, "Be they fair or foul, glad or sad (as the poet calleth Him) the great Diespiter, 'the Father of days' hath made them both." Shakespeare begins the play by using the words "fair" and "foul" in the first speeches of the witches and Macbeth. In the words of Jonathan Gil Harris, the play expresses the "horror unleashed by a supposedly loyal subject who seeks to kill a king and the treasonous role of equivocation. The play even echoes certain keywords from the scandal – the 'vault' beneath the House of Parliament in which Guy Fawkes stored thirty kegs of gunpowder and the 'blow' about which one of the conspirators had secretly warned a relative who planned to attend the House of Parliament on 5 November...Even though the Plot is never alluded to directly, its presence is everywhere in the play, like a pervasive odor."
 
-Second_Folio_Title_Page_of_Macbeth.jpg Scholars also cite an entertainment seen by King James at Oxford in the summer of 1605 that featured three "sibyls" like the weird sisters; Kermode surmises that Shakespeare could have heard about this and alluded to it with the weird sisters. However, A. R. Braunmuller in the New Cambridge edition finds the 1605–06 arguments inconclusive, and argues only for an earliest date of 1603.
+Scholars also cite an entertainment seen by King James at Oxford in the summer of 1605 that featured three "sibyls" like the weird sisters; Kermode surmises that Shakespeare could have heard about this and alluded to it with the weird sisters. However, A. R. Braunmuller in the New Cambridge edition finds the 1605–06 arguments inconclusive, and argues only for an earliest date of 1603.
 
 One suggested allusion supporting a date in late 1606 is the first witch's dialogue about a sailor's wife: "'Aroint thee, witch!' the rump-fed ronyon cries./Her husband's to Aleppo gone, master o' the _Tiger_" (1.3.6–7). This has been thought to allude to the _Tiger_, a ship that returned to England 27 June 1606 after a disastrous voyage in which many of the crew were killed by pirates. A few lines later the witch speaks of the sailor, "He shall live a man forbid:/Weary se'nnights nine times nine" (1.3.21–22). The real ship was at sea 567 days, the product of 7x9x9, which has been taken as a confirmation of the allusion, which if correct, confirms that the witch scenes were either written or amended later than July 1606.
 
@@ -194,7 +192,7 @@ Critics in the early twentieth century reacted against what they saw as an exces
 
 Witchcraft and evil
 
-Macbeth_and_Banquo_with_the_witches_JHF.jpg]]
+]]
 
 In the play, the Three Witches represent darkness, chaos, and conflict, while their role is as agents and witnesses. Their presence communicates treason and impending doom. During Shakespeare's day, witches were seen as worse than rebels, "the most notorious traytor and rebell that can be." They were not only political traitors, but spiritual traitors as well. Much of the confusion that springs from them comes from their ability to straddle the play's borders between reality and the supernatural. They are so deeply entrenched in both worlds that it is unclear whether they control fate, or whether they are merely its agents. They defy logic, not being subject to the rules of the real world. The witches' lines in the first act: "Fair is foul, and foul is fair: Hover through the fog and filthy air" are often said to set the tone for the rest of the play by establishing a sense of confusion. Indeed, the play is filled with situations where evil is depicted as good, while good is rendered evil. The line "Double, double toil and trouble," communicates the witches' intent clearly: they seek only trouble for the mortals around them. The witches' spells are remarkably similar to the spells of the witch Medusa in Anthony Munday's play _Fidele and Fortunio_ published in 1584, and Shakespeare may have been influenced by these.
 
@@ -246,9 +244,9 @@ Nineteenth century
 
 Performances outside the patent theatres were instrumental in bringing the monopoly to an end. Robert Elliston, for example, produced a popular adaptation of _Macbeth_ in 1809 at the Royal Circus described in its publicity as "this matchless piece of pantomimic and choral performance", which circumvented the illegality of speaking Shakespeare's words through mimed action, singing, and doggerel verse written by J. C. Cross.
 
-Charles_Kean_as_Macbeth_1858.jpg and Charles Kean as the Macbeths, in historically accurate costumes]]
+and Charles Kean as the Macbeths, in historically accurate costumes]]
 
-Charles_Macready_as_Macbeth.jpg playing Macbeth, from a mid-19th century performance]]
+playing Macbeth, from a mid-19th century performance]]
 
 In 1809, in an unsuccessful attempt to take Covent Garden upmarket, Kemble installed private boxes, increasing admission prices to pay for the improvements. The inaugural run at the newly renovated theatre was _Macbeth_, which was disrupted for over two months with cries of "Old prices!" and "No private boxes!" until Kemble capitulated to the protestors' demands.
 
@@ -260,7 +258,7 @@ In 1849, rival performances of the play sparked the Astor Place riot in Manhatta
 
 Charlotte Cushman is unique among nineteenth century interpreters of Shakespeare in achieving stardom in roles of both genders. Her New York debut was as Lady Macbeth in 1836, and she would later be admired in London in the same role in the mid-1840s. Helen Faucit was considered the embodiment of early-Victorian notions of femininity. But for this reason she largely failed when she eventually played Lady Macbeth in 1864: her serious attempt to embody the coarser aspects of Lady Macbeth's character jarred harshly with her public image. Adelaide Ristori, the great Italian actress, brought her Lady Macbeth to London in 1863 in Italian, and again in 1873 in an English translation cut in such a way as to be, in effect, Lady Macbeth's tragedy.
 
-Ellen_Terry_plays_Lady_Macbeth.jpg as Lady Macbeth, an 1888 production]]
+as Lady Macbeth, an 1888 production]]
 
 Henry Irving was the most successful of the late-Victorian actor-managers, but his _Macbeth_ failed to curry favour with audiences. His desire for psychological credibility reduced certain aspects of the role: He described Macbeth as a brave soldier but a moral coward, and played him untroubled by conscience – clearly already contemplating the murder of Duncan before his encounter with the witches. Irving's leading lady was Ellen Terry, but her Lady Macbeth was unsuccessful with the public, for whom a century of performances influenced by Sarah Siddons had created expectations at odds with Terry's conception of the role.
 
@@ -272,11 +270,11 @@ Two developments changed the nature of _Macbeth_ performance in the 20th century
 
 Barry Jackson, at the Birmingham Repertory Theatre in 1923, was the first of the 20th-century directors to costume _Macbeth_ in modern dress.
 
-Macbeth-26A-Carter-Thomas.jpg and Edna Thomas in the Federal Theatre Project production that came to be known as the _Voodoo Macbeth_ (1936)]]
+and Edna Thomas in the Federal Theatre Project production that came to be known as the _Voodoo Macbeth_ (1936)]]
 
 In 1936, a decade before his film adaptation of the play, Orson Welles directed _Macbeth_ for the Negro Theatre Unit of the Federal Theatre Project at the Lafayette Theatre in Harlem, using black actors and setting the action in Haiti: with drums and Voodoo rituals to establish the Witches scenes. The production, dubbed _The Voodoo Macbeth_, proved inflammatory in the aftermath of the Harlem riots, accused of making fun of black culture and as "a campaign to burlesque negroes" until Welles persuaded crowds that his use of black actors and voodoo made important cultural statements.
 
-Fort_St._Catherine's,_St._George's_Island,_Bermuda.jpg A performance which is frequently referenced as an example of the play's curse was the outdoor production directed by Burgess Meredith in 1953 in the British colony of Bermuda, starring Charlton Heston. Using the imposing spectacle of Fort St. Catherine as a key element of the set, the production was plagued by a host of mishaps, including Charlton Heston being burned when his tights caught fire.
+A performance which is frequently referenced as an example of the play's curse was the outdoor production directed by Burgess Meredith in 1953 in the British colony of Bermuda, starring Charlton Heston. Using the imposing spectacle of Fort St. Catherine as a key element of the set, the production was plagued by a host of mishaps, including Charlton Heston being burned when his tights caught fire.
 
 The critical consensus is that there have been three great Macbeths on the English-speaking stage in the 20th century, all of them commencing at Stratford-upon-Avon: Laurence Olivier in 1955, Ian McKellen in 1976 and Antony Sher in 1999. Olivier's portrayal (directed by Glen Byam Shaw, with Vivien Leigh as Lady Macbeth) was immediately hailed as a masterpiece. Kenneth Tynan expressed the view that it succeeded because Olivier built the role to a climax at the end of the play, whereas most actors spend all they have in the first two acts.
 

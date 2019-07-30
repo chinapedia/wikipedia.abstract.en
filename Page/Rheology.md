@@ -81,11 +81,11 @@ In addition, conventional rubber undergoes a glass transition (often called a _r
 
 Biopolymers
 
-Cellulose_strand.svg -- the most common component of all organic plant life on Earth. * Note the evidence of hydrogen bonding which increases the viscosity at any temperature and pressure. This is an effect similar to that of polymer crosslinking, but less pronounced.]]
+-- the most common component of all organic plant life on Earth. * Note the evidence of hydrogen bonding which increases the viscosity at any temperature and pressure. This is an effect similar to that of polymer crosslinking, but less pronounced.]]
 
 Sol-gel
 
-Sol-gel_silicate_bonds.svg process of tetraethylorthosilicate (TEOS) and water to form amorphous hydrated silica particles (Si-OH) can be monitored rheologically by a number of different methods.]]
+process of tetraethylorthosilicate (TEOS) and water to form amorphous hydrated silica particles (Si-OH) can be monitored rheologically by a number of different methods.]]
 
 With the viscosity of a sol adjusted into a proper range, both optical quality glass fiber and refractory ceramic fiber can be drawn which are used for fiber optic sensors and thermal insulation, respectively. The mechanisms of hydrolysis and condensation, and the rheological factors that bias the structure toward linear or branched structures are the most critical issues of sol-gel science and technology.
 

@@ -1,5 +1,3 @@
-FoodMeat.jpg
-
 MEAT is animal flesh that is eaten as food.[1] Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle. This eventually led to their use in meat production on an industrial scale with the aid of slaughterhouses.
 
 Meat is mainly composed of water, protein, and fat. It is edible raw, but is normally eaten after it has been cooked and seasoned or processed in a variety of ways. Unprocessed meat will spoil or rot within hours or days as a result of infection with and decomposition by bacteria and fungi.
@@ -22,12 +20,12 @@ History of meat production
 
 Paleontological evidence suggests that meat constituted a substantial proportion of the diet of the earliest humans.[6] Early hunter-gatherers depended on the organized hunting of large animals such as bison and deer.[7]
 
-The domestication of animals, of which we have evidence dating back to the end of the last glacial period (c. 10,000 BCE),[8] allowed the systematic production of meat and the breeding of animals with a view to improving meat production.[9] Animals that are now principal sources of meat were domesticated in conjunction with the development of early civilizations: Lamb_meat.jpg]]
+The domestication of animals, of which we have evidence dating back to the end of the last glacial period (c. 10,000 BCE),[8] allowed the systematic production of meat and the breeding of animals with a view to improving meat production.[9] Animals that are now principal sources of meat were domesticated in conjunction with the development of early civilizations: ]]
 
 -   Sheep, originating from western Asia, were domesticated with the help of dogs prior to the establishment of settled agriculture, likely as early as the 8th millennium BCE.[10] Several breeds of sheep were established in ancient Mesopotamia and Egypt by 3500–3000 BCE.[11] Today, more than 200 sheep-breeds exist.
 -   Cattle were domesticated in Mesopotamia after settled agriculture was established about 5000 BCE,[12] and several breeds were established by 2500 BCE.[13] Modern domesticated cattle fall into the groups _Bos taurus_ (European cattle) and _Bos taurus indicus_ (zebu), both descended from the now-extinct aurochs.[14] The breeding of beef cattle, cattle optimized for meat production as opposed to animals best suited for work or dairy purposes, began in the middle of the 18th century.[15]
 
-Hereford_bull_large.jpg bull, a breed of cattle frequently used in beef production.]]
+bull, a breed of cattle frequently used in beef production.]]
 
 -   Domestic pigs, which are descended from wild boars, are known to have existed about 2500 BCE in modern-day Hungary and in Troy; earlier pottery from Tell es-Sultan (Jericho) and Egypt depicts wild pigs.[16] Pork sausages and hams were of great commercial importance in Greco-Roman times.[17] Pigs continue to be bred intensively as they are being optimized to produce meat best suited for specific meat products.[18]
 
@@ -41,7 +39,7 @@ Other animals are or have been raised or hunted for their flesh. The type of mea
 
 Modern agriculture employs a number of techniques, such as progeny testing, to speed artificial selection by breeding animals to rapidly acquire the qualities desired by meat producers.[36] For instance, in the wake of well-publicised health concerns associated with saturated fats in the 1980s, the fat content of United Kingdom beef, pork and lamb fell from 20–26 percent to 4–8 percent within a few decades, due to both selective breeding for leanness and changed methods of butchery.[37] Methods of genetic engineering aimed at improving the meat production qualities of animals are now also becoming available.[38]
 
-SelectionOfPackageMeats.jpg in North America]] Even though it is a very old industry, meat production continues to be shaped strongly by the evolving demands of customers. The trend towards selling meat in pre-packaged cuts has increased the demand for larger breeds of cattle, which are better suited to producing such cuts.[39] Even more animals not previously exploited for their meat are now being farmed, especially the more agile and mobile species, whose muscles tend to be developed better than those of cattle, sheep or pigs.[40] Examples are the various antelope species, the zebra, water buffalo and camel,[41] as well as non-mammals, such as the crocodile, emu and ostrich.[42] Another important trend in contemporary meat production is organic farming which, while providing no organoleptic benefit to meat so produced,[43] meets an increasing demand for organic meat.[44]
+in North America]] Even though it is a very old industry, meat production continues to be shaped strongly by the evolving demands of customers. The trend towards selling meat in pre-packaged cuts has increased the demand for larger breeds of cattle, which are better suited to producing such cuts.[39] Even more animals not previously exploited for their meat are now being farmed, especially the more agile and mobile species, whose muscles tend to be developed better than those of cattle, sheep or pigs.[40] Examples are the various antelope species, the zebra, water buffalo and camel,[41] as well as non-mammals, such as the crocodile, emu and ostrich.[42] Another important trend in contemporary meat production is organic farming which, while providing no organoleptic benefit to meat so produced,[43] meets an increasing demand for organic meat.[44]
 
 Cultural history
 
@@ -117,7 +115,7 @@ Fat in meat can be either adipose tissue, used by the animal to store energy and
 
 Red and white meat
 
-Blade_steak.jpg Meat can be broadly classified as "red" or "white" depending on the concentration of myoglobin in muscle fibre. When myoglobin is exposed to oxygen, reddish oxymyoglobin develops, making myoglobin-rich meat appear red. The redness of meat depends on species, animal age, and fibre type: Red meat contains more narrow muscle fibres that tend to operate over long periods without rest,[89] while white meat contains more broad fibres that tend to work in short fast bursts.[90]
+Meat can be broadly classified as "red" or "white" depending on the concentration of myoglobin in muscle fibre. When myoglobin is exposed to oxygen, reddish oxymyoglobin develops, making myoglobin-rich meat appear red. The redness of meat depends on species, animal age, and fibre type: Red meat contains more narrow muscle fibres that tend to operate over long periods without rest,[89] while white meat contains more broad fibres that tend to work in short fast bursts.[90]
 
 Generally, the meat of adult mammals such as cows, sheep, and horses is considered red, while chicken and turkey breast meat is considered white.[91]
 
@@ -166,7 +164,7 @@ After exsanguination, the carcass is dressed; that is, the head, feet, hide (exc
 
 Conditioning
 
-MIN_Rungis_viandes_de_boucherie_veau.jpg, France.]] Under hygienic conditions and without other treatment, meat can be stored at above its freezing point (–1.5 °C) for about six weeks without spoilage, during which time it undergoes an aging process that increases its tenderness and flavor.[124]
+, France.]] Under hygienic conditions and without other treatment, meat can be stored at above its freezing point (–1.5 °C) for about six weeks without spoilage, during which time it undergoes an aging process that increases its tenderness and flavor.[124]
 
 During the first day after death, glycolysis continues until the accumulation of lactic acid causes the pH to reach about 5.5. The remaining glycogen, about 18 g per kg, is believed to increase the water-holding capacity and tenderness of the flesh when cooked.[125] _Rigor mortis_ sets in a few hours after death as ATP is used up, causing actin and myosin to combine into rigid actomyosin and lowering the meat's water-holding capacity,[126] causing it to lose water ("weep").[127] In muscles that enter _rigor_ in a contracted position, actin and myosin filaments overlap and cross-bond, resulting in meat that is tough on cooking[128] – hence again the need to prevent pre-slaughter stress in the animal.
 
@@ -174,7 +172,7 @@ Over time, the muscle proteins denature in varying degree, with the exception of
 
 Additives
 
-Sucuk-1.jpg" is derived from Old French _saussiche_, from the Latin word _salsus_ meaning "salted".[133]]]
+" is derived from Old French _saussiche_, from the Latin word _salsus_ meaning "salted".[133]]]
 
 When meat is industrially processed in preparation of consumption, it may be enriched with additives to protect or modify its flavor or color, to improve its tenderness, juiciness or cohesiveness, or to aid with its preservation. Meat additives include the following:[134]
 
@@ -233,7 +231,7 @@ The spoilage of meat occurs, if untreated, in a matter of hours or days and resu
 
 Methods of preparation
 
-Hanging_Meat_at_a_Street_Fair_2.JPG at a street fair in New York City's East Village.]] Porksmoke1.jpg Fresh meat can be cooked for immediate consumption, or be processed, that is, treated for longer-term preservation and later consumption, possibly after further preparation. Fresh meat cuts or processed cuts may produce iridescence, commonly thought to be due to spoilage but actually caused by structural coloration and diffraction of the light.[178] A common additive to processed meats, both for preservation and because it prevents discoloring, is sodium nitrite, which, however, is also a source of health concerns, because it may form carcinogenic nitrosamines when heated.[179]
+at a street fair in New York City's East Village.]] Fresh meat can be cooked for immediate consumption, or be processed, that is, treated for longer-term preservation and later consumption, possibly after further preparation. Fresh meat cuts or processed cuts may produce iridescence, commonly thought to be due to spoilage but actually caused by structural coloration and diffraction of the light.[178] A common additive to processed meats, both for preservation and because it prevents discoloring, is sodium nitrite, which, however, is also a source of health concerns, because it may form carcinogenic nitrosamines when heated.[179]
 
 Meat is prepared in many ways, as steaks, in stews, fondue, or as dried meat like beef jerky. It may be ground then formed into patties (as hamburgers or croquettes), loaves, or sausages, or used in loose form (as in "sloppy joe" or Bolognese sauce).
 

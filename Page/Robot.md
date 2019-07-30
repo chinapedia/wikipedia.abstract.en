@@ -1,4 +1,4 @@
-Bot|other uses of the term|Robot (disambiguation)}} Atlas_from_boston_dynamics.jpg (2016), a bipedal humanoid robot|alt=]] HONDA_ASIMO.jpg (2000) at the Expo 2005]] FANUC_6-axis_welding_robots.jpg welding robots used in a factory are a type of industrial robot]] Bio-inspired_Big_Dog_quadruped_robot_is_being_developed_as_a_mule_that_can_traverse_difficult_terrain.tiffal military robot Cheetah, an evolution of BigDog (pictured), was clocked as the world's fastest legged robot in 2012, beating the record set by an MIT bipedal robot in 1989.[1]]]
+Bot|other uses of the term|Robot (disambiguation)}} (2016), a bipedal humanoid robot|alt=]] (2000) at the Expo 2005]] welding robots used in a factory are a type of industrial robot]] al military robot Cheetah, an evolution of BigDog (pictured), was clocked as the world's fastest legged robot in 2012, beating the record set by an MIT bipedal robot in 1989.[1]]]
 
 A ROBOT is a machine—especially one programmable by a computer— capable of carrying out a complex series of actions automatically.[2] Robots can be guided by an external control device or the control may be embedded within. Robots may be constructed on the lines of human form, but most robots are machines designed to perform a task with no regard to their aesthetics.
 
@@ -15,7 +15,7 @@ Robots have replaced humans[11] in performing repetitive and dangerous tasks whi
 
 Summary
 
-Knight2000_ex107.jpg (a fictional robot) is mentally anthropomorphic.]] ICub_Innorobo_Lyon_2014.JPG is physically anthropomorphic.]]
+(a fictional robot) is mentally anthropomorphic.]] is physically anthropomorphic.]]
 
 The word _robot_ can refer to both physical robots and virtual software agents, but the latter are usually referred to as bots.[13] There is no consensus on which machines qualify as robots but there is general agreement among experts, and the public, that robots tend to possess some or all of the following abilities and functions: accept electronic programming, process data or physical perceptions electronically, operate autonomously to some degree, move around, operate physical parts of itself or physical processes, sense and manipulate their environment, and exhibit intelligent behavior, especially behavior which mimics humans or other animals.[14][15] Closely related to the concept of a _robot_ is the field of Synthetic Biology, which studies entities whose nature is more comparable to beings than to machines.
 
@@ -30,9 +30,9 @@ Many ancient mythologies, and most modern religions include artificial people, s
 
 In ancient Greece, the Greek engineer Ctesibius (c. 270 BC) "applied a knowledge of pneumatics and hydraulics to produce the first organ and water clocks with moving figures."[22][23] In the 4th century BC, the Greek mathematician Archytas of Tarentum postulated a mechanical steam-operated bird he called "The Pigeon". Hero of Alexandria , a Greek mathematician and inventor, created numerous user-configurable automated devices, and described machines powered by air pressure, steam and water.[24]
 
-Al-Jazari's toy boat, musical automata|thumb|Al-Jazari – A Musical Toy The 11th century Lokapannatti tells of how the Buddha's relics were protected by mechanical robots (bhuta vahana yanta), from the kingdom of Roma visaya (Rome); until they were disarmed by King Ashoka.
+The 11th century Lokapannatti tells of how the Buddha's relics were protected by mechanical robots (bhuta vahana yanta), from the kingdom of Roma visaya (Rome); until they were disarmed by King Ashoka.
 
-In ancient China, the 3rd-century text of the _Lie Zi_ describes an account of humanoid automata, involving a much earlier encounter between Chinese emperor King Mu of Zhou and a mechanical engineer known as Yan Shi, an 'artificer'. Yan Shi proudly presented the king with a life-size, human-shaped figure of his mechanical 'handiwork' made of leather, wood, and artificial organs.[25] There are also accounts of flying automata in the _Han Fei Zi_ and other texts, which attributes the 5th century BC Mohist philosopher Mozi and his contemporary Lu Ban with the invention of artificial wooden birds (_ma yuan_) that could successfully fly.[26] Clock_Tower_from_Su_Song's_Book_desmear.JPG's astronomical clock tower showing the mechanical figurines which chimed the hours.]] In 1066, the Chinese inventor Su Song built a water clock in the form of a tower which featured mechanical figurines which chimed the hours.[27][28][29] His mechanism had a programmable drum machine with pegs (cams) that bumped into little levers that operated percussion instruments. The drummer could be made to play different rhythms and different drum patterns by moving the pegs to different locations.[30]
+In ancient China, the 3rd-century text of the _Lie Zi_ describes an account of humanoid automata, involving a much earlier encounter between Chinese emperor King Mu of Zhou and a mechanical engineer known as Yan Shi, an 'artificer'. Yan Shi proudly presented the king with a life-size, human-shaped figure of his mechanical 'handiwork' made of leather, wood, and artificial organs.[25] There are also accounts of flying automata in the _Han Fei Zi_ and other texts, which attributes the 5th century BC Mohist philosopher Mozi and his contemporary Lu Ban with the invention of artificial wooden birds (_ma yuan_) that could successfully fly.[26] 's astronomical clock tower showing the mechanical figurines which chimed the hours.]] In 1066, the Chinese inventor Su Song built a water clock in the form of a tower which featured mechanical figurines which chimed the hours.[27][28][29] His mechanism had a programmable drum machine with pegs (cams) that bumped into little levers that operated percussion instruments. The drummer could be made to play different rhythms and different drum patterns by moving the pegs to different locations.[30]
 
 _Samarangana Sutradhara_, a Sanskrit treatise by Bhoja (11th century), includes a chapter about the construction of mechanical contrivances (automata), including mechanical bees and birds, fountains shaped like humans and animals, and male and female dolls that refilled oil lamps, danced, played instruments, and re-enacted scenes from Hindu mythology.[31][32][33]
 
@@ -42,7 +42,7 @@ Mark E. Rosheim summarizes the advances in robotics made by Muslim engineers, es
 
   Unlike the Greek designs, these Arab examples reveal an interest, not only in dramatic illusion, but in manipulating the environment for human comfort. Thus, the greatest contribution the Arabs made, besides preserving, disseminating and building on the work of the Greeks, was the concept of practical application. This was the key element that was missing in Greek robotic science.^([35])
 
-Leonardo-Robot3.jpg with inner workings. Possibly constructed by Leonardo da Vinci around 1495.[39]]]
+with inner workings. Possibly constructed by Leonardo da Vinci around 1495.[39]]]
 
 In Renaissance Italy, Leonardo da Vinci (1452–1519) sketched plans for a humanoid robot around 1495. Da Vinci's notebooks, rediscovered in the 1950s, contained detailed drawings of a mechanical knight now known as Leonardo's robot, able to sit up, wave its arms and move its head and jaw.[40] The design was probably based on anatomical research recorded in his _Vitruvian Man_. It is not known whether he attempted to build it. According to _Encyclopædia Britannica_, Leonardo da Vinci may have been influenced by the classic automata of al-Jazari.[41]
 
@@ -52,7 +52,7 @@ In France, between 1738 and 1739, Jacques de Vaucanson exhibited several life-si
 
 Remote-controlled systems
 
-Brennan_torpedo_launching.jpg, one of the earliest 'guided missiles']] Remotely operated vehicles were demonstrated in the late 19th century in the form of several types of remotely controlled torpedoes. The early 1870s saw remotely controlled torpedoes by John Ericsson (pneumatic), John Louis Lay (electric wire guided), and Victor von Scheliha (electric wire guided).[44]
+, one of the earliest 'guided missiles']] Remotely operated vehicles were demonstrated in the late 19th century in the form of several types of remotely controlled torpedoes. The early 1870s saw remotely controlled torpedoes by John Ericsson (pneumatic), John Louis Lay (electric wire guided), and Victor von Scheliha (electric wire guided).[44]
 
 The Brennan torpedo, invented by Louis Brennan in 1877, was powered by two contra-rotating propellors that were spun by rapidly pulling out wires from drums wound inside the torpedo. Differential speed on the wires connected to the shore station allowed the torpedo to be guided to its target, making it "the world's first _practical_ guided missile".[45] In 1897 the British inventor Ernest Wilson was granted a patent for a torpedo remotely controlled by "Hertzian" (radio) waves[46][47] and in 1898 Nikola Tesla publicly demonstrated a wireless-controlled torpedo that he hoped to sell to the US Navy.[48][49]
 
@@ -66,8 +66,6 @@ English pronunciation of the word has evolved relatively quickly since its intro
 
 Early robots
 
-Bundesarchiv_Bild_102-13018,_Maschinenmensch_"Robot".jpg
-
 In 1928, one of the first humanoid robots, Eric, was exhibited at the annual exhibition of the Model Engineers Society in London, where it delivered a speech. Invented by W. H. Richards, the robot's frame consisted of an aluminium body of armour with eleven electromagnets and one motor powered by a twelve-volt power source. The robot could move its hands and head and could be controlled through remote control or voice control.[54] Both Eric and his "brother" George toured the world.[55]
 
 Westinghouse Electric Corporation built Televox in 1926; it was a cardboard cutout connected to various devices which users could turn on and off. In 1939, the humanoid robot known as Elektro was debuted at the 1939 New York World's Fair.[56][57] Seven feet tall (2.1 m) and weighing 265 pounds (120.2 kg), it could walk by voice command, speak about 700 words (using a 78-rpm record player), smoke cigarettes, blow up balloons, and move its head and arms. The body consisted of a steel gear, cam and motor skeleton covered by an aluminum skin. In 1928, Japan's first robot, Gakutensoku, was designed and constructed by biologist Makoto Nishimura.
@@ -78,7 +76,7 @@ The first electronic autonomous robots with complex behaviour were created by Wi
 
 Walter stressed the importance of using purely analogue electronics to simulate brain processes at a time when his contemporaries such as Alan Turing and John von Neumann were all turning towards a view of mental processes in terms of digital computation. His work inspired subsequent generations of robotics researchers such as Rodney Brooks, Hans Moravec and Mark Tilden. Modern incarnations of Walter's _turtles_ may be found in the form of BEAM robotics.[58]
 
-Original_Robot_Patent.jpg 2,988,237, issued in 1961 to Devol.'']] The first digitally operated and programmable robot was invented by George Devol in 1954 and was ultimately called the Unimate. This ultimately laid the foundations of the modern robotics industry.[59] Devol sold the first Unimate to General Motors in 1960, and it was installed in 1961 in a plant in Trenton, New Jersey to lift hot pieces of metal from a die casting machine and stack them.[60] Devol's patent for the first digitally operated programmable robotic arm represents the foundation of the modern robotics industry.[61]
+2,988,237, issued in 1961 to Devol.'']] The first digitally operated and programmable robot was invented by George Devol in 1954 and was ultimately called the Unimate. This ultimately laid the foundations of the modern robotics industry.[59] Devol sold the first Unimate to General Motors in 1960, and it was installed in 1961 in a plant in Trenton, New Jersey to lift hot pieces of metal from a die casting machine and stack them.[60] Devol's patent for the first digitally operated programmable robotic arm represents the foundation of the modern robotics industry.[61]
 
 The first palletizing robot was introduced in 1963 by the Fuji Yusoki Kogyo Company.[62] In 1973, a robot with six electromechanically driven axes was patented[63][64][65] by KUKA robotics in Germany, and the programmable universal manipulation arm was invented by Victor Scheinman in 1976, and the design was sold to Unimation.
 
@@ -108,7 +106,7 @@ Baxter is a new robot introduced in 2012 which learns by guidance. A worker coul
 
 Etymology
 
-Capek_play.jpg's 1920 play R.U.R. (Rossum's Universal Robots), showing three robots]]
+'s 1920 play R.U.R. (Rossum's Universal Robots), showing three robots]]
 
 The word _robot_ was introduced to the public by the Czech interwar writer Karel Čapek in his play _R.U.R. (Rossum's Universal Robots)_, published in 1920.[82] The play begins in a factory that uses a chemical substitute for protoplasm to manufacture living, simplified people called _robots._ The play does not focus in detail on the technology behind the creation of these living creatures, but in their appearance they prefigure modern ideas of androids, creatures who can be mistaken for humans. These mass-produced workers are depicted as efficient but emotionless, incapable of original thinking and indifferent to self-preservation. At issue is whether the robots are being exploited and the consequences of human dependence upon commodified labor (especially after a number of specially-formulated robots achieve self-awareness and incite robots all around the world to rise up against the humans).
 
@@ -121,7 +119,7 @@ The word robotics, used to describe this field of study,[86] was coined by the s
 
 Modern robots
 
-Laproscopic_Surgery_Robot.jpg robotic surgery machine]]
+robotic surgery machine]]
 
 Mobile robot
 
@@ -132,8 +130,6 @@ Mobile robots are also found in industry, military and security environments.[90
 Mobile robots are usually used in tightly controlled environments such as on assembly lines because they have difficulty responding to unexpected interference. Because of this most humans rarely encounter robots. However domestic robots for cleaning and maintenance are increasingly common in and around homes in developed countries. Robots can also be found in military applications.
 
 Industrial robots (manipulating)
-
-Automation_of_foundry_with_robot.jpg
 
 Industrial robots usually consist of a jointed arm (multi-linked manipulator) and an end effector that is attached to a fixed surface. One of the most common type of end effector is a gripper assembly.
 
@@ -172,13 +168,13 @@ Rethink Robotics—founded by Rodney Brooks, previously with iRobot—introduced
 
 Robots in society
 
-TOPIO_3.jpg, a humanoid robot, played ping pong at Tokyo International Robot Exhibition (IREX) 2009[107][108]]]
+, a humanoid robot, played ping pong at Tokyo International Robot Exhibition (IREX) 2009[107][108]]]
 
 Roughly half of all the robots in the world are in Asia, 32% in Europe, and 16% in North America, 1% in Australasia and 1% in Africa.[109] 40% of all the robots in the world are in Japan,[110] making Japan the country with the highest number of robots.
 
 Autonomy and ethical questions
 
-Actroid-DER_01.jpg, or robot designed to resemble a human, can appear comforting to some people and disturbing to others[111]]]
+, or robot designed to resemble a human, can appear comforting to some people and disturbing to others[111]]]
 
 As robots have become more advanced and sophisticated, experts and academics have increasingly explored the questions of what ethics might govern robots' behavior,[112] and whether robots might be able to claim any kind of social, cultural, ethical or legal rights.[113] One scientific team has said that it is possible that a robot brain will exist by 2019.[114] Others predict robot intelligence breakthroughs by 2050.[115] Recent advances have made robotic behavior more sophisticated.[116] The social impact of intelligent robots is subject of a 2010 documentary film called _Plug & Pray_.[117]
 
@@ -209,7 +205,7 @@ The World Bank's World Development Report 2019 puts forth evidence showing that 
 
 Contemporary uses
 
-smUsingGuiaBot.jpg At present, there are two main types of robots, based on their use: general-purpose autonomous robots and dedicated robots.
+At present, there are two main types of robots, based on their use: general-purpose autonomous robots and dedicated robots.
 
 Robots can be classified by their specificity of purpose. A robot might be designed to perform one particular task extremely well, or a range of tasks less well. All robots by their nature can be re-programmed to behave differently, but some are limited by their physical form. For example, a factory robot arm can perform jobs such as cutting, welding, gluing, or acting as a fairground ride, while a pick-and-place robot can only populate printed circuit boards.
 
@@ -232,8 +228,6 @@ Electronics
 Mass-produced printed circuit boards (PCBs) are almost exclusively manufactured by pick-and-place robots, typically with SCARA manipulators, which remove tiny electronic components from strips or trays, and place them on to PCBs with great accuracy.[140] Such robots can place hundreds of thousands of components per hour, far out-performing a human in speed, accuracy, and reliability.[141]
 
 Automated guided vehicles (AGVs)
-
-ADAM_Intelligent_AGV.jpg
 
 Mobile robots, following markers or wires in the floor, or using vision[142] or lasers, are used to transport goods around large facilities, such as warehouses, container ports, or hospitals.[143]
 
@@ -259,7 +253,7 @@ Almost every unmanned space probe ever launched was a robot.[153][154] Some were
 
 Telerobots
 
-IED_detonator.jpg technician prepares to use a telerobot to detonate a buried improvised explosive device near Camp Fallujah, Iraq.]]
+technician prepares to use a telerobot to detonate a buried improvised explosive device near Camp Fallujah, Iraq.]]
 
 Teleoperated robots, or telerobots, are devices remotely operated from a distance by a human operator rather than following a predetermined sequence of movements, but which has semi-autonomous behaviour. They are used when a human cannot be present on site to perform a job because it is dangerous, far away, or inaccessible. The robot may be in another room or another country, or may be on a very different scale to the operator. For instance, a laparoscopic surgery robot allows the surgeon to work inside a human patient on a relatively small scale compared to open surgery, significantly shortening recovery time.[155] They can also be used to avoid exposing workers to the hazardous and tight spaces such as in duct cleaning. When disabling a bomb, the operator sends a small robot to disable it. Several authors have been using a device called the Longpen to sign books remotely.[156] Teleoperated robot aircraft, like the Predator Unmanned Aerial Vehicle, are increasingly being used by the military. These pilotless drones can search terrain and fire on targets.[157][158] Hundreds of robots such as iRobot's Packbot and the Foster-Miller TALON are being used in Iraq and Afghanistan by the U.S. military to defuse roadside bombs or improvised explosive devices (IEDs) in an activity known as explosive ordnance disposal (EOD).[159]
 
@@ -269,7 +263,7 @@ Robots are used to automate picking fruit on orchards at a cost lower than that 
 
 Domestic robots
 
-Roomba_original.jpg domestic vacuum cleaner robot does a single, menial job]]
+domestic vacuum cleaner robot does a single, menial job]]
 
 Domestic robots are simple robots dedicated to a single task work in home use. They are used in simple but often disliked jobs, such as vacuum cleaning, floor washing, and lawn mowing. An example of a domestic robot is a Roomba.
 
@@ -295,7 +289,7 @@ Robots in healthcare have two main functions. Those which assist an individual, 
 
 Home automation for the elderly and disabled
 
-FRIEND-III_klein.png]]
+]]
 
 Robots used in home automation have developed over time from simple basic robotic assistants, such as the Handy 1,[181] through to semi-autonomous robots, such as FRIEND which can assist the elderly and disabled with common tasks.
 
@@ -319,8 +313,6 @@ One approach to designing robots is to base them on animals. BionicKangaroo was 
 
 Nanorobots
 
-Microgripper_holding_silicon_nanowires.jpg
-
 Nanorobotics is the emerging technology field of creating machines or robots whose components are at or close to the microscopic scale of a nanometer (10^(−9) meters). Also known as "nanobots" or "nanites", they would be constructed from molecular machines. So far, researchers have mostly produced only parts of these complex systems, such as bearings, sensors, and synthetic molecular motors, but functioning robots have also been made such as the entrants to the Nanobot Robocup contest.[185] Researchers also hope to be able to create entire robots as small as viruses or bacteria, which could perform tasks on a tiny scale. Possible applications include micro surgery (on the level of individual cells), utility fog,[186] manufacturing, weaponry and cleaning.[187] Some people have suggested that if there were nanobots which could reproduce, the earth would turn into "grey goo", while others argue that this hypothetical outcome is nonsense.[188][189]
 
 Reconfigurable robots
@@ -333,7 +325,7 @@ Robots with silicone bodies and flexible actuators (air muscles, electroactive p
 
 Swarm robots
 
-SwarmRobot_org.jpg of robots from the open-source micro-robotic project]]
+of robots from the open-source micro-robotic project]]
 
 Inspired by colonies of insects such as ants and bees, researchers are modeling the behavior of swarms of thousands of tiny robots which together perform a useful task, such as finding something hidden, cleaning, or spying. Each robot is quite simple, but the emergent behavior of the swarm is more complex. The whole set of robots can be considered as one single distributed system, in the same way an ant colony can be considered a superorganism, exhibiting swarm intelligence. The largest swarms so far created include the iRobot swarm, the SRI/MobileRobots CentiBots project[195] and the Open-source Micro-robotic Project swarm, which are being used to research collective behaviors.[196][197] Swarms are also more resistant to failure. Whereas one large robot may fail and ruin a mission, a swarm can continue even if several robots fail. This could make them attractive for space exploration missions, where failure is normally extremely costly.[198]
 
@@ -344,7 +336,7 @@ Robotics also has application in the design of virtual reality interfaces. Speci
 
 Robots in popular culture
 
-RobotsMODO.jpg in Mexico City.]]
+in Mexico City.]]
 
 Literature
 
@@ -366,7 +358,7 @@ The concept of humanoid sex robots has elicited both public attention and concer
 
 Problems depicted in popular culture
 
-L'uomo_meccanico_1.png'' (1921), the first film to have shown a battle between robots.]]
+'' (1921), the first film to have shown a battle between robots.]]
 
 Fears and concerns about robots have been repeatedly expressed in a wide range of books and films. A common theme is the development of a master race of conscious and highly intelligent robots, motivated to take over or destroy the human race. _Frankenstein_ (1818), often called the first science fiction novel, has become synonymous with the theme of a robot or android advancing beyond its creator.
 

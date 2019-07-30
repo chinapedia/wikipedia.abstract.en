@@ -27,15 +27,15 @@ At the time of the change, it was extremely unusual for a Japanese company to us
 
 Globalization
 
-Sony TR-730 transistor radio made in Japan circa 1960 According to Schiffer, Sony's TR-63 radio "cracked open the U.S. market and launched the new industry of consumer microelectronics." By the mid-1950s, American teens had begun buying portable transistor radios in huge numbers, helping to propel the fledgling industry from an estimated 100,000 units in 1955 to 5 million units by the end of 1968.
+According to Schiffer, Sony's TR-63 radio "cracked open the U.S. market and launched the new industry of consumer microelectronics." By the mid-1950s, American teens had begun buying portable transistor radios in huge numbers, helping to propel the fledgling industry from an estimated 100,000 units in 1955 to 5 million units by the end of 1968.
 
 Sony co-founder Akio Morita founded Sony Corporation of America in 1960.[27] In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time.[28] When he returned to Japan, he encouraged experienced, middle-aged employees of other companies to reevaluate their careers and consider joining Sony.[29] The company filled many positions in this manner, and inspired other Japanese companies to do the same.[30] Moreover, Sony played a major role in the development of Japan as a powerful exporter during the 1960s, 1970s and 1980s.[31] It also helped to significantly improve American perceptions of "made in Japan" products.[32] Known for its production quality, Sony was able to charge above-market prices for its consumer electronics and resisted lowering prices.[33]
 
 In 1971, Masaru Ibuka handed the position of president over to his co-founder Akio Morita. Sony began a life insurance company in 1979, one of its many peripheral businesses. Amid a global recession in the early 1980s, electronics sales dropped and the company was forced to cut prices.[34] Sony's profits fell sharply. "It's over for Sony," one analyst concluded. "The company's best days are behind it."[35] Around that time, Norio Ohga took up the role of president. He encouraged the development of the Compact Disc in the 1970s and 1980s, and of the PlayStation in the early 1990s. Ohga went on to purchase CBS Records in 1988 and Columbia Pictures in 1989, greatly expanding Sony's media presence. Ohga would succeed Morita as chief executive officer in 1989.[36] Under the vision of co-founder Akio Morita[37] and his successors, the company had aggressively expanded into new businesses.[38] Part of its motivation for doing so was the pursuit of "convergence," linking film, music and digital electronics via the Internet.[39] This expansion proved unrewarding and unprofitable,[40] threatening Sony's ability to charge a premium on its products[41] as well as its brand name.[42] In 2005, Howard Stringer replaced Nobuyuki Idei as chief executive officer, marking the first time that a foreigner had run a major Japanese electronics firm. Stringer helped to reinvigorate the company's struggling media businesses, encouraging blockbusters such as _Spider-Man_ while cutting 9,000 jobs.[43] He hoped to sell off peripheral business and focus the company again on electronics.[44] Furthermore, he aimed to increase cooperation between business units,[45] which he described as "silos" operating in isolation from one another.[46] In a bid to provide a unified brand for its global operations, Sony introduced a slogan known as "make.believe" in 2009.[47]
 
-MarkvilleSonyStore.JPG, Canada]] Despite some successes, the company faced continued struggles in the mid- to late-2000s.[48] In 2012, Kazuo Hirai was promoted to president and CEO, replacing Stringer. Shortly thereafter, Hirai outlined his company-wide initiative, named "One Sony" to revive Sony from years of financial losses and bureaucratic management structure, which proved difficult for former CEO Stringer to accomplish, partly due to differences in business culture and native languages between Stringer and some of Sony's Japanese divisions and subsidiaries. Hirai outlined three major areas of focus for Sony's electronics business, which include imaging technology, gaming and mobile technology, as well as a focus on reducing the major losses from the television business.[49]
+, Canada]] Despite some successes, the company faced continued struggles in the mid- to late-2000s.[48] In 2012, Kazuo Hirai was promoted to president and CEO, replacing Stringer. Shortly thereafter, Hirai outlined his company-wide initiative, named "One Sony" to revive Sony from years of financial losses and bureaucratic management structure, which proved difficult for former CEO Stringer to accomplish, partly due to differences in business culture and native languages between Stringer and some of Sony's Japanese divisions and subsidiaries. Hirai outlined three major areas of focus for Sony's electronics business, which include imaging technology, gaming and mobile technology, as well as a focus on reducing the major losses from the television business.[49]
 
-SONY_Store_,_ソニーストア_名古屋_-_panoramio.jpg, Japan]] In February 2014, Sony announced the sale of its Vaio PC division to a new corporation owned by investment fund Japan Industrial Partners and spinning its TV division into its own corporation as to make it more nimble to turn the unit around from past losses totaling $7.8 billion over a decade.[50] Later that month, they announced that they would be closing 20 stores.[51] In April, the company announced that they would be selling 9.5 million shares in Square Enix (roughly 8.2 percent of the game company's total shares) in a deal worth approximately $48 million.[52] In May 2014 the company announced it was forming two joint ventures with Shanghai Oriental Pearl Group to manufacture and market Sony's PlayStation games consoles and associated software in China.[53]
+, Japan]] In February 2014, Sony announced the sale of its Vaio PC division to a new corporation owned by investment fund Japan Industrial Partners and spinning its TV division into its own corporation as to make it more nimble to turn the unit around from past losses totaling $7.8 billion over a decade.[50] Later that month, they announced that they would be closing 20 stores.[51] In April, the company announced that they would be selling 9.5 million shares in Square Enix (roughly 8.2 percent of the game company's total shares) in a deal worth approximately $48 million.[52] In May 2014 the company announced it was forming two joint ventures with Shanghai Oriental Pearl Group to manufacture and market Sony's PlayStation games consoles and associated software in China.[53]
 
 It was reported in December 2016 by multiple news outlets that Sony was considering restructuring its U.S. operations by merging its TV & film business, Sony Pictures Entertainment, with its gaming business, Sony Interactive Entertainment. According to the reports, such a restructuring would have placed Sony Pictures under Sony Interactive's CEO, Andrew House, though House wouldn't have taken over day-to-day operations of the film studio.[54][55][56] According to one report, Sony was set to make a final decision on the possibility of the merger of the TV, film, & gaming businesses by the end of its fiscal year in March of the following year (2017).[57]
 
@@ -46,7 +46,7 @@ Sony has historically been notable for creating its own in-house standards for n
 
 Video recording
 
-Sony_SL-MV1_and_RMT-117_20051001.jpg The company launched the Betamax videocassette recording format in 1975.[59] Sony was involved in the videotape format war of the early 1980s, when they were marketing the Betamax system for video cassette recorders against the VHS format developed by JVC.[60] In the end, VHS gained critical mass in the marketbase and became the worldwide standard for consumer VCRs.[61]
+The company launched the Betamax videocassette recording format in 1975.[59] Sony was involved in the videotape format war of the early 1980s, when they were marketing the Betamax system for video cassette recorders against the VHS format developed by JVC.[60] In the end, VHS gained critical mass in the marketbase and became the worldwide standard for consumer VCRs.[61]
 
 Betamax is, for all practical purposes, an obsolete format. Sony's professional-oriented component video format called Betacam, which was derived from Betamax, was used until 2016 when Sony announced it was stopping production of all remaining 1/2-inch video tape recorders and players, including the Digital Betacam format.[62]
 
@@ -54,7 +54,7 @@ In 1985, Sony launched their Handycam products and the Video8 format.[63] Video8
 
 Audio recording
 
-First_Walkman_1979_(31011124386).jpg In 1979, the Walkman brand was introduced, in the form of the world's first portable music player using the compact cassette format.[65] Sony introduced the MiniDisc format in 1992 as an alternative to Philips DCC or Digital Compact Cassette and as a successor to the compact cassette.[66] Since the introduction of MiniDisc, Sony has attempted to promote its own audio compression technologies under the ATRAC brand, against the more widely used MP3. Until late 2004, Sony's Network Walkman line of digital portable music players did not support the MP3 standard natively.
+In 1979, the Walkman brand was introduced, in the form of the world's first portable music player using the compact cassette format.[65] Sony introduced the MiniDisc format in 1992 as an alternative to Philips DCC or Digital Compact Cassette and as a successor to the compact cassette.[66] Since the introduction of MiniDisc, Sony has attempted to promote its own audio compression technologies under the ATRAC brand, against the more widely used MP3. Until late 2004, Sony's Network Walkman line of digital portable music players did not support the MP3 standard natively.
 
 In 2004, Sony built upon the MiniDisc format by releasing Hi-MD. Hi-MD allows the playback and recording of audio on newly introduced 1 GB Hi-MD discs in addition to playback and recording on regular MiniDiscs. In addition to saving audio on the discs, Hi-MD allows the storage of computer files such as documents, videos and photos.
 
@@ -66,7 +66,7 @@ Sony and Philips jointly developed the Sony-Philips digital interface format (S/
 
 Optical storage
 
-Sony_BD-RE_200GB_front_side_20080119.jpg In 1983, Sony followed their counterpart Philips to the compact disc (CD). In addition to developing consumer-based recording media, after the launch of the CD Sony began development of commercially based recording media. In 1986 they launched Write-Once optical discs (WO) and in 1988 launched Magneto-optical discs which were around 125MB size for the specific use of archival data storage.[72] In 1984, Sony launched the Discman series which extended their Walkman brand to portable CD products.
+In 1983, Sony followed their counterpart Philips to the compact disc (CD). In addition to developing consumer-based recording media, after the launch of the CD Sony began development of commercially based recording media. In 1986 they launched Write-Once optical discs (WO) and in 1988 launched Magneto-optical discs which were around 125MB size for the specific use of archival data storage.[72] In 1984, Sony launched the Discman series which extended their Walkman brand to portable CD products.
 
 In the early 1990s, two high-density optical storage standards were being developed: one was the MultiMedia Compact Disc (MMCD), backed by Philips and Sony, and the other was the Super Density disc (SD), supported by Toshiba and many others. Philips and Sony abandoned their MMCD format and agreed upon Toshiba's SD format with only one modification. The unified disc format was called DVD and was introduced in 1997.
 
@@ -91,7 +91,7 @@ Electronics
 
 Sony Corporation
 
-Sony_store_Westfield_Riccarton_2013.jpg shopping centre in Christchurch, New Zealand]] Sony Corporation is the electronics business unit and the parent company of the Sony Group. It primarily conducts strategic business planning of the group, research and development (R&D), planning, designing and marketing for electronics products. Its subsidiaries such as Sony Global Manufacturing & Operations Corporation (SGMO; 4 plants in Japan), Sony Semiconductor Manufacturing Corporation (7 plants in Japan), Sony Storage Media and Devices Corporation, Sony Energy Devices Corporation and its subsidiaries outside Japan (Brazil, China, UK (Wales), India, Malaysia, Singapore, South Korea, Thailand, Ireland and United States) are responsible for manufacturing as well as product engineering (SGMO is also responsible for customer service operations). In 2012, Sony rolled most of its consumer content services (including video, music and gaming) into the Sony Entertainment Network.
+shopping centre in Christchurch, New Zealand]] Sony Corporation is the electronics business unit and the parent company of the Sony Group. It primarily conducts strategic business planning of the group, research and development (R&D), planning, designing and marketing for electronics products. Its subsidiaries such as Sony Global Manufacturing & Operations Corporation (SGMO; 4 plants in Japan), Sony Semiconductor Manufacturing Corporation (7 plants in Japan), Sony Storage Media and Devices Corporation, Sony Energy Devices Corporation and its subsidiaries outside Japan (Brazil, China, UK (Wales), India, Malaysia, Singapore, South Korea, Thailand, Ireland and United States) are responsible for manufacturing as well as product engineering (SGMO is also responsible for customer service operations). In 2012, Sony rolled most of its consumer content services (including video, music and gaming) into the Sony Entertainment Network.
 
 Audio
 
@@ -111,7 +111,7 @@ On 4 February 2014, Sony announced that it would sell its VAIO PC business due t
 
 Photography and videography
 
-SONY_Cyber-shot_DSC_W530.JPG digital camera.]] Sony offers a wide range of digital cameras. Point-and-shoot models adopt the Cyber-shot name, while digital single-lens reflex models are branded using Alpha.
+digital camera.]] Sony offers a wide range of digital cameras. Point-and-shoot models adopt the Cyber-shot name, while digital single-lens reflex models are branded using Alpha.
 
 The first Cyber-shot was introduced in 1996. At the time, digital cameras were a relative novelty. Sony's market share of the digital camera market fell from a high of 20% to 9% by 2005.[85]
 
@@ -121,11 +121,11 @@ There are also a variety of Camcorders which are manufactured by Sony.
 
 Video
 
-Sony_Bravia_logo.svg television. Its backronym is "Best Resolution Audio Visual Integrated Architecture".]] In 1968, Sony introduced the Trinitron brand name for its lines of aperture grille cathode ray tube televisions and (later) computer monitors. Sony stopped production of Trinitron for most markets, but continued producing sets for markets such as Pakistan, Bangladesh and China. Sony discontinued its series of Trinitron computer monitors in 2005. The company discontinued the last Trinitron-based television set in the US in early 2007. The end of Trinitron marked the end of Sony's analog television sets and monitors.
+television. Its backronym is "Best Resolution Audio Visual Integrated Architecture".]] In 1968, Sony introduced the Trinitron brand name for its lines of aperture grille cathode ray tube televisions and (later) computer monitors. Sony stopped production of Trinitron for most markets, but continued producing sets for markets such as Pakistan, Bangladesh and China. Sony discontinued its series of Trinitron computer monitors in 2005. The company discontinued the last Trinitron-based television set in the US in early 2007. The end of Trinitron marked the end of Sony's analog television sets and monitors.
 
 Sony used the LCD WEGA name for its LCD TVs until summer 2005. The company then introduced the BRAVIA name. BRAVIA is an in house brand owned by Sony which produces high-definition LCD televisions, projection TVs and front projectors, home cinemas and the BRAVIA home theatre range. All Sony high-definition flat-panel LCD televisions in North America have carried the logo for BRAVIA since 2005. Sony is the third-largest maker of televisions in the world.[86] , Sony's television business has been unprofitable for eight years.[87]
 
-Sony_Bravia_4K_20140817.jpg 4K television.]] In December 2011, Sony agreed to sell all stake in an LCD joint venture with Samsung Electronics for about $940 million.[88] On 28 March 2012, Sony Corporation and Sharp Corporation announced that they have agreed to further amend the joint venture agreement originally executed by the parties in July 2009, as amended in April 2011, for the establishment and operation of Sharp Display Products Corporation ("SDP"), a joint venture to produce and sell large-sized LCD panels and modules.[89]
+4K television.]] In December 2011, Sony agreed to sell all stake in an LCD joint venture with Samsung Electronics for about $940 million.[88] On 28 March 2012, Sony Corporation and Sharp Corporation announced that they have agreed to further amend the joint venture agreement originally executed by the parties in July 2009, as amended in April 2011, for the establishment and operation of Sharp Display Products Corporation ("SDP"), a joint venture to produce and sell large-sized LCD panels and modules.[89]
 
 On 9 November 2015, Sony announced that they are going to stop producing Betamax Tapes in March 2016.[90]
 
@@ -149,7 +149,7 @@ On 28 February 2014, Sony, M3 and Illumina established a joint venture called P5
 
 Sony Mobile Communications
 
-Xperia_Logo.svg, the product device name for a range of smartphones from Sony.]]
+, the product device name for a range of smartphones from Sony.]]
 
 Sony Mobile Communications Inc. (formerly Sony Ericsson) is a multinational mobile phone manufacturing company headquartered in Tokyo, Japan and a wholly owned subsidiary of Sony Corporation.
 
@@ -159,13 +159,13 @@ In the year 2013, Sony contributed to around two percent of the mobile phone mar
 
 Sony Interactive Entertainment
 
-US_PlayStation_HQ_(30344827735).jpg ]]
+]]
 
 Sony Interactive Entertainment (formerly Sony Computer Entertainment) is best known for producing the popular line of PlayStation consoles. The line grew out of a failed partnership with Nintendo. Originally, Nintendo requested Sony to develop an add-on for its console that would play Compact Discs. In 1991 Sony announced the add-on, as well as a dedicated console known as the "Play Station". However, a disagreement over software licensing for the console caused the partnership to fall through. Sony then continued the project independently.
 
 Launched in 1994, the first PlayStation gained 61% of global console sales and broke Nintendo's long-standing lead in the market.[101] Sony followed up with the PlayStation 2 in 2000, which was even more successful. The console has become the most successful of all time, selling over 150 million units . Sony released the PlayStation 3, a high-definition console, in 2006. It was the first console to use the Blu-ray format, and was considerably more expensive than competitors Xbox 360 and Wii due to a Cell processor.[102] Early on, poor sales performance resulted in significant losses for the company, pushing it to sell the console at a loss.[103] The PlayStation 3 sold generally more poorly than its competitors in the early years of its release but managed to overtake the Xbox 360 in global sales later on.[104] It later introduced the PlayStation Move, an accessory that allows players to control video games using motion gestures.
 
-PlayStation_2_comparison.png is the best-selling video game console of all time ]] Sony extended the brand to the portable games market in 2004 with the PlayStation Portable (PSP). The console has sold reasonably, but has taken a second place to a rival handheld, the Nintendo DS. Sony developed the Universal Media Disc (UMD) optical disc medium for use on the PlayStation Portable. Early on, the format was used for movies, but it has since lost major studio support. Sony released a disc-less version of its PlayStation Portable, the PSP Go, in 2009. The company went on to release its second portable video game system, PlayStation Vita, in 2011 and 2012. Sony launched its fourth console, the PlayStation 4, on 15 November 2013, which as of 31 December 2017 has sold 73.6 million units globally.[105]
+is the best-selling video game console of all time ]] Sony extended the brand to the portable games market in 2004 with the PlayStation Portable (PSP). The console has sold reasonably, but has taken a second place to a rival handheld, the Nintendo DS. Sony developed the Universal Media Disc (UMD) optical disc medium for use on the PlayStation Portable. Early on, the format was used for movies, but it has since lost major studio support. Sony released a disc-less version of its PlayStation Portable, the PSP Go, in 2009. The company went on to release its second portable video game system, PlayStation Vita, in 2011 and 2012. Sony launched its fourth console, the PlayStation 4, on 15 November 2013, which as of 31 December 2017 has sold 73.6 million units globally.[105]
 
 On 18 March 2014, at GDC, president of Sony Computer Entertainment Worldwide Studios Shuhei Yoshida announced their new virtual reality technology dubbed Project Morpheus, and later named PlayStation VR, for PlayStation 4. The headset brought VR gaming and non-gaming software to the company's console. According to a report released by Houston-based patent consulting firm LexInnova in May 2015, Sony is leading the virtual reality patent race. According to the firm's analysis of nearly 12,000 patents or patent applications, Sony has 366 virtual reality patents or patent applications.[106] PlayStation VR was released worldwide on 13 October 2016.[107]
 
@@ -187,19 +187,19 @@ Sony USA also previously owned and operated Sony Trans Com: a technology busines
 
 Sony Pictures Entertainment
 
-Sonypicturesentertainmentoffices.jpg in Culver City, California]]
+in Culver City, California]]
 
 Sony Pictures Entertainment Inc. (SPE) is the television and film production/distribution unit of Sony. With 12.5% box office market share in 2011, the company was ranked third among movie studios.[117] Its group sales in 2010 were US$7.2 billion.[118][119] The company has produced many notable movie franchises, including _Spider-Man_, _The Karate Kid_ and _Men in Black_. It has also produced the popular television game shows _Jeopardy!_ and _Wheel of Fortune_.
 
 Sony entered the television and film production market when it acquired Columbia Pictures Entertainment in 1989 for $3.4 billion. Columbia lives on in the Sony Pictures Motion Picture Group, a division of SPE which in turn owns Columbia Pictures and TriStar Pictures among other film production and distribution companies such as Screen Gems, Sony Pictures Classics, Sony Pictures Home Entertainment. SPE's television division is known as Sony Pictures Television.
 
-Sony_Pictures_Entertainment_entrance_1.jpg studio lot in Culver City]] For the first several years of its existence, Sony Pictures Entertainment performed poorly, leading many to suspect the company would sell off the division.[120] Sony Pictures Entertainment encountered controversy in the early 2000s. In July 2000, a marketing executive working for Sony Corporation created a fictitious film critic, David Manning, who gave consistently good reviews for releases from Sony subsidiary Columbia Pictures that generally received poor reviews amongst real critics.[121] Sony later pulled the ads, suspended Manning's creator and his supervisor and paid fines to the state of Connecticut[122] and to fans who saw the reviewed films in the US.[123] In 2006 Sony started using ARccOS Protection on some of their film DVDs, but later issued a recall.[124]
+studio lot in Culver City]] For the first several years of its existence, Sony Pictures Entertainment performed poorly, leading many to suspect the company would sell off the division.[120] Sony Pictures Entertainment encountered controversy in the early 2000s. In July 2000, a marketing executive working for Sony Corporation created a fictitious film critic, David Manning, who gave consistently good reviews for releases from Sony subsidiary Columbia Pictures that generally received poor reviews amongst real critics.[121] Sony later pulled the ads, suspended Manning's creator and his supervisor and paid fines to the state of Connecticut[122] and to fans who saw the reviewed films in the US.[123] In 2006 Sony started using ARccOS Protection on some of their film DVDs, but later issued a recall.[124]
 
 In late 2014, Sony Pictures became the target of a hack attack from a clandestine group called Guardians of Peace, weeks before releasing the anti-North Korean comedy film _The Interview_.[125]
 
 Sony Music Entertainment
 
-Met_Life_North_Building_from_West_25th_Street.jpg headquarters in New York City]]
+headquarters in New York City]]
 
 Sony Music Entertainment (also known as SME or Sony Music) is the second-largest global recorded music company of the "big three" record companies and is controlled by Sony Corporation of America, the United States subsidiary of Japan's _Sony_.
 
@@ -223,7 +223,7 @@ In 2012, Sony/ATV then acquired a majority stake in EMI Music Publishing, making
 
 Finance
 
-大手町フィナンシャルシティグランキューブ.jpg, Japan ]]
+, Japan ]]
 
 Financial services
 

@@ -12,7 +12,7 @@ At the time of her death, Sweeney had been a flight attendant for twelve years, 
 
 Legacy
 
-12.6.11MadelineAmySweeneyPanelN-74ByLuigiNovi1.jpg’s North Pool, along with those of other passengers of Flight 11.]]
+’s North Pool, along with those of other passengers of Flight 11.]]
 
 On February 11, 2002, Sweeney was commemorated in a series of new annual bravery awards initiated by the Government of Massachusetts. The annual Madeline Amy Sweeney Award for Civilian Bravery is awarded every September 11 to at least one Massachusetts resident who displayed extraordinary courage in defending or saving the lives of others.[6]
 

@@ -9,7 +9,7 @@ The RAAF has 259 aircraft, of which 110 are combat aircraft.
 
 History
 
-RAAFBBJA36001.JPG]] RAAF_airman_opening_a_panel_on_an_E-7A.jpg]]
+]] ]]
 
 Formation, 1912
 
@@ -37,17 +37,13 @@ With British manufacturing targeted by the German Luftwaffe, in 1941 the Austral
 
 In the European theatre of the war, RAAF personnel were especially notable in RAF Bomber Command: although they represented just two percent of all Australian enlistments during the war, they accounted for almost twenty percent of those killed in action. This statistic is further illustrated by the fact that No. 460 Squadron RAAF, mostly flying Avro Lancasters, had an official establishment of about 200 aircrew and yet had 1,018 combat deaths. The squadron was therefore effectively wiped out five times over.[18] Total RAAF casualties in Europe were 5,488 killed or missing.[19]
 
-Kittyhawk_IA_RAAF.jpg
-
 Pacific War
 
-BrewsterBuffalosMkIRAAFSingaporeOctober1941.jpg participated in air campaigns over Malayan, Singapore and Dutch East Indies]]
+participated in air campaigns over Malayan, Singapore and Dutch East Indies]]
 
 The beginning of the Pacific War—and the rapid advance of Japanese forces—threatened the Australian mainland for the first time in its history. The RAAF was quite unprepared for the emergency, and initially had negligible forces available for service in the Pacific. In 1941 and early 1942, many RAAF airmen, including Nos. 1, 8, 21 and 453 Squadrons, saw action with the RAF Far East Command in the Malayan, Singapore and Dutch East Indies campaigns. Equipped with aircraft such as the Brewster Buffalo, and Lockheed Hudsons, the Australian squadrons suffered heavily against Japanese Zeros.[20]
 
 During the fighting for Rabaul in early 1942, No. 24 Squadron RAAF fought a brief, but ultimately futile defence as the Japanese advanced south towards Australia.[21] The devastating air raids on Darwin on 19 February 1942 increased concerns about the direct threat facing Australia. In response, some RAAF squadrons were transferred from the northern hemisphere—although a substantial number remained there until the end of the war. Shortages of fighter and ground attack planes led to the acquisition of US-built Curtiss P-40 Kittyhawks and the rapid design and manufacture of the first Australian fighter, the CAC Boomerang. RAAF Kittyhawks came to play a crucial role in the New Guinea and Solomon Islands campaigns, especially in operations like the Battle of Milne Bay. As a response to a possible Japanese chemical warfare threat the RAAF imported hundreds of thousands of chemical weapons into Australia.[22]
-
-StateLibQld_1_100268.jpg
 
 In the Battle of the Bismarck Sea, imported Bristol Beaufighters proved to be highly effective ground attack and maritime strike aircraft. Beaufighters were later made locally by the DAP from 1944.[23] Although it was much bigger than Japanese fighters, the Beaufighter had the speed to outrun them.[24] The RAAF operated a number of Consolidated PBY Catalina as long range bombers and scouts. The RAAF's heavy bomber force was predominantly made up of 287 B-24 Liberators, equipping seven squadrons, which could bomb Japanese targets as far away as Borneo and the Philippines from airfields in Australia and New Guinea.[25] By late 1945, the RAAF had received or ordered about 500 P-51 Mustangs, for fighter/ground attack purposes. The Commonwealth Aircraft Corporation initially assembled US-made Mustangs, but later manufactured most of those used.[26]
 
@@ -61,7 +57,7 @@ During the Berlin Airlift, in 1948–49, the RAAF Squadron Berlin Air Lift aided
 
 In the Korean War, from 1950–53, North American Mustangs from No. 77 Squadron RAAF, stationed in Japan with the British Commonwealth Occupation Force, were among the first United Nations aircraft to be deployed, in ground support, combat air patrol, and escort missions. When the UN planes were confronted by North Korean Mikoyan-Gurevich MiG-15 jet fighters, 77 Sqn acquired Gloster Meteors, however the MiGs remained superior and the Meteors were relegated to ground support missions as the North Koreans gained experience. The air force also operated transport aircraft during the conflict. No. 77 Squadron flew 18,872 sorties, claiming the destruction of 3,700 buildings, 1,408 vehicles, 16 bridges, 98 railway carriages and an unknown number of enemy personnel. Three MiG-15s were confirmed destroyed, and two others probably destroyed. RAAF casualties included 41 killed and seven captured; 66 aircraft – 22 Mustangs and 44 Meteors – were lost.[34]
 
-Two_Mirage_III_of_the_Royal_Australian_Air_Force_1.JPEG fighters in 1980]]
+fighters in 1980]]
 
 In July 1952, No. 78 Wing RAAF was deployed to Malta in the Mediterranean where it formed part of a British force which sought to counter the Soviet Union's influence in the Middle East as part of Australia's Cold War commitments. Consisting of No. 75 and 76 Squadrons equipped with de Havilland Vampire jet fighters, the wing provided an air garrison for the island for the next two and half years, returning to Australia in late 1954.[35]
 
@@ -69,18 +65,16 @@ In 1953, a Royal Air Force officer, Air Marshal Sir Donald Hardman, was brought 
 
 In the Malayan Emergency, from 1950–60, six Avro Lincolns from No. 1 Squadron RAAF and a flight of Douglas Dakotas from No. 38 Squadron RAAF took part in operations against the communist guerrillas (labelled as "Communist Terrorists" by the British authorities) as part of the RAF Far East Air Force. The Dakotas were used on cargo runs, in troop movement and in paratroop and leaflet drops within Malaya. The Lincolns, operating from bases in Singapore and from Kuala Lumpur, formed the backbone of the air war against the CTs, conducting bombing missions against their jungle bases. Although results were often difficult to assess, they allowed the government to harass CT forces, attack their base camps when identified and keep them on the move. Later, in 1958, Canberra bombers from No. 2 Squadron RAAF were deployed to Malaya and took part in bombing missions against the CTs.[38]
 
-AirForce_over_Iraq.jpg with a USAF KC-135 Stratotanker, two F-15Es, an F-117, two F-16s and a RAF Tornado over Iraq]]
+with a USAF KC-135 Stratotanker, two F-15Es, an F-117, two F-16s and a RAF Tornado over Iraq]]
 
 During the Vietnam War, from 1964–72, the RAAF contributed Caribou STOL transport aircraft as part of the RAAF Transport Flight Vietnam, later redesignated No. 35 Squadron RAAF, UH-1 Iroquois helicopters from No. 9 Squadron RAAF, and English Electric Canberra bombers from No. 2 Squadron RAAF. The Canberras flew 11,963 bombing sorties, and two aircraft were lost. One went missing during a bombing raid. The wreckage of the aircraft was recovered in April 2009, and the remains of Flying Officer Michael Herbert and Pilot Officer Robert Carver were found in late July 2009. The other was shot down by a surface-to-air missile, although both crew were rescued. They dropped 76,389 bombs and were credited with 786 enemy personnel confirmed killed and a further 3,390 estimated killed, 8,637 structures, 15,568 bunkers, 1,267 sampans and 74 bridges destroyed.[39] RAAF transport aircraft also supported anti-communist ground forces. The UH-1 helicopters were used in many roles including medical evacuation and close air support. RAAF casualties in Vietnam included six killed in action, eight non-battle fatalities, 30 wounded in action and 30 injured.[40] A small number of RAAF pilots also served in United States Air Force units, flying F-4 Phantom fighter-bombers or serving as forward air controllers.[41]
 
-RAAF_(A44-222)_FA_18F_Super_Hornet_landing.jpg]] Military airlifts were conducted for a number of purposes in the intervening decades, such as the peacekeeping operations in East Timor from 1999. Australia's combat aircraft were not used again in combat until the Iraq War in 2003, when 14 F/A-18s from No. 75 Squadron RAAF operated in the escort and ground attack roles, flying a total of 350 sorties and dropping 122 laser-guided bombs.[42] A detachment of AP-3C Orion maritime patrol aircraft were deployed in the Middle East between 2003 and 2012. These aircraft conducted maritime surveillance patrols over the Persian Gulf and North Arabian Sea in support of Coalition warships and boarding parties, as well as conducting extensive overland flights of Iraq and Afghanistan on intelligence, surveillance and reconnaissance missions, and supporting counter-piracy operations in Somalia.[43] From 2007 to 2009, a detachment of No. 114 Mobile Control and Reporting Unit RAAF was on active service at Kandahar Airfield in southern Afghanistan.[44] Approximately 75 personnel deployed with the AN/TPS-77 radar assigned the responsibility to co-ordinate coalition air operations.[45] A detachment of IAI Heron unmanned aerial vehicles has been deployed in Afghanistan since January 2010.[46] F-35A_Lightning_II_Joint_Strike_Fighter_Mockup_on_display_at_Centenary_of_Military_Aviation_2014.jpg In late September 2014, an Air Task Group consisting of up to eight F/A-18F Super Hornets, a KC-30A Multi Role Tanker Transport, a E-7A Wedgetail Airborne Early Warning & Control aircraft and 400 personnel was deployed to Al Minhad Air Base in the United Arab Emirates as part of the coalition to combat Islamic State forces in Iraq.[47] Operations began on 1 October.[48] A number of C-17 and C-130J Super Hercules transport aircraft based in the Middle East have also been used to conduct airdrops of humanitarian aid and to airlift arms and munitions since August.[49][50][51][52]
+]] Military airlifts were conducted for a number of purposes in the intervening decades, such as the peacekeeping operations in East Timor from 1999. Australia's combat aircraft were not used again in combat until the Iraq War in 2003, when 14 F/A-18s from No. 75 Squadron RAAF operated in the escort and ground attack roles, flying a total of 350 sorties and dropping 122 laser-guided bombs.[42] A detachment of AP-3C Orion maritime patrol aircraft were deployed in the Middle East between 2003 and 2012. These aircraft conducted maritime surveillance patrols over the Persian Gulf and North Arabian Sea in support of Coalition warships and boarding parties, as well as conducting extensive overland flights of Iraq and Afghanistan on intelligence, surveillance and reconnaissance missions, and supporting counter-piracy operations in Somalia.[43] From 2007 to 2009, a detachment of No. 114 Mobile Control and Reporting Unit RAAF was on active service at Kandahar Airfield in southern Afghanistan.[44] Approximately 75 personnel deployed with the AN/TPS-77 radar assigned the responsibility to co-ordinate coalition air operations.[45] A detachment of IAI Heron unmanned aerial vehicles has been deployed in Afghanistan since January 2010.[46] In late September 2014, an Air Task Group consisting of up to eight F/A-18F Super Hornets, a KC-30A Multi Role Tanker Transport, a E-7A Wedgetail Airborne Early Warning & Control aircraft and 400 personnel was deployed to Al Minhad Air Base in the United Arab Emirates as part of the coalition to combat Islamic State forces in Iraq.[47] Operations began on 1 October.[48] A number of C-17 and C-130J Super Hercules transport aircraft based in the Middle East have also been used to conduct airdrops of humanitarian aid and to airlift arms and munitions since August.[49][50][51][52]
 
 In June 2017 two RAAF AP-3C Orion maritime patrol aircraft were deployed to the southern Philippines in response to the Marawi crisis.[53][54][55]
 
 
 Ranks and uniform
-
-Leading_Aircraft_Woman_Patricia_Entwistle_RAAF.jpg
 
 The rank structure of the nascent RAAF was established to ensure that the service remained separate from the Army and Navy.[56] The service's predecessors, the AFC and the AAC, had used the Army's rank structure. In November 1920 it was decided by the Air Board that the RAAF would adopt the structure adopted by the RAF the previous year.[57] As a result, the RAAF's rank structure came to be: Aircraftman, Leading Aircraftman, Corporal, Sergeant, Flight Sergeant, Warrant Officer, Officer Cadet, Pilot Officer, Flying Officer. Flight Lieutenant, Squadron Leader, Wing Commander, Group Captain, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal, Marshal of the RAAF.[58]
 
@@ -109,7 +103,7 @@ Aircraft
 
 Current inventory
 
-RAAF_F-35_taking_off_during_the_Australian_International_Airshow_and_Aerospace_&_Defence_Exposition_2017.jpg RAAF_Lockheed_Martin_C-130J-30_YPMC_Creek.jpg]] A41-206_Boeing_C-17A_Globemaster_III_RAAF_(9639221235).jpg RAAF_BAe_Hawk_AVV_Creek.jpg Royal_Australian_Air_Force_(A56-002)_Dassault_Falcon_7X_at_Wagga_Wagga_Airport_(2).jpg ]]
+]] ]]
 
   Aircraft                Origin           Type                    Variant         In service    Notes
   ----------------------- ---------------- ----------------------- --------------- ------------- ---------------------------------------------------------------------------
@@ -149,8 +143,6 @@ RAAF_F-35_taking_off_during_the_Australian_International_Airshow_and_Aerospace_&
 
 
 Armament
-
-GBU-24_xxl.jpg AIM_9L_Sidewinder_(modified)_copy.jpg
 
   Name                     Origin           Type                          Notes
   ------------------------ ---------------- ----------------------------- ----------------------------------------
@@ -302,14 +294,12 @@ Headquarters
 
 Roulettes
 
-Roulettes_flying_in_formation.jpg
-
 The Roulettes are the RAAF's formation aerobatic display team. They perform around Australia and South-east Asia, and are part of the RAAF Central Flying School (CFS) at RAAF Base East Sale, Victoria.[106] The Roulettes use the Pilatus PC-9 and formations for shows are done in a group of six aircraft. The pilots learn many formations including loops, rolls, corkscrews, and ripple roles. Most of the performances are done at the low altitude of 500 feet (150 metres).[107]
 
 
 Future procurement
 
-A35-001_in_flight.jpg This list includes aircraft on order or a requirement which has been identified:
+This list includes aircraft on order or a requirement which has been identified:
 
 -   Up to 100 Lockheed Martin F-35A Lightning II (CTOL variant)—are scheduled to be delivered from 2020. In a first stage not fewer than 72 aircraft will be acquired to equip three operational squadrons. The remaining aircraft will be acquired in conjunction with the withdrawal of the F/A-18F Super Hornets after 2020 to ensure no gap in Australia's overall air combat capability occurs. On 25 November 2009, Australia committed to placing a first order for 14 aircraft at a cost of A$3.2 billion with deliveries to begin in 2014.[108][109] In May 2012, the decision to purchase 12 F-35s from the initial 14 order was deferred until 2014 as part of wider ADF procurement deferments to balance the Federal Government budget.[110] On 23 April 2014, Australia confirmed the purchase of 58 F-35A Lightning II fighters in addition to the 14 already ordered. Up to a further 28 more aircraft may be acquired.[111][112] The first two Australian F-35A Lightning II fighters were rolled out in July 2014, and began flying training flights with the USAF 61st Fighter Squadron in December 2014.[113][114]
 -   Eight Boeing P-8 Poseidon to replace the Lockheed AP-3C Orions.[115] A further seven to be purchased and brought into service by the late 2020s, bringing the total number of aircraft to fifteen.

@@ -28,7 +28,7 @@ Early history
 
 Repeated glaciations, which covered the entire land mass of modern Scotland, destroyed any traces of human habitation that may have existed before the Mesolithic period. It is believed the first post-glacial groups of hunter-gatherers arrived in Scotland around 12,800 years ago, as the ice sheet retreated after the last glaciation.[28][29]
 
-Skara_Brae_12.jpg, a Neolithic settlement, located on the west coast of Mainland, Orkney]]
+, a Neolithic settlement, located on the west coast of Mainland, Orkney]]
 
 The groups of settlers began building the first known permanent houses on Scottish soil around 9,500 years ago, and the first villages around 6,000 years ago. The well-preserved village of Skara Brae on the mainland of Orkney dates from this period. Neolithic habitation, burial, and ritual sites are particularly common and well preserved in the Northern Isles and Western Isles, where a lack of trees led to most structures being built of local stone.[30]
 
@@ -40,7 +40,7 @@ In the winter of 1850, a severe storm hit Scotland, causing widespread damage an
 
 Roman influence
 
-Bridgeness_slab_detail.JPG found at Bo'ness dated ca.  142 depicting Roman cavalryman trampling Caledonians. Original at the NMS (with a full replica at Bo'ness[44])]]
+found at Bo'ness dated ca.  142 depicting Roman cavalryman trampling Caledonians. Original at the NMS (with a full replica at Bo'ness[44])]]
 
 The written protohistory of Scotland began with the arrival of the Roman Empire in southern and central Great Britain, when the Romans occupied what is now England and Wales, administering it as a province called _Britannia_. Roman invasions and occupations of southern Scotland were a series of brief interludes.
 
@@ -54,7 +54,7 @@ The Roman military occupation of a significant part of what is now northern Scot
 
 Middle Ages
 
-Serpent_stone.JPG at Aberlemno known as Aberlemno 1 or the Serpent Stone]]
+at Aberlemno known as Aberlemno 1 or the Serpent Stone]]
 
 The Kingdom of the Picts (based in Fortriu by the 6th century) was the state that eventually became known as "Alba" or "Scotland". The development of "Pictland", according to the historical model developed by Peter Heather, was a natural response to Roman imperialism.[55] Another view places emphasis on the Battle of Dun Nechtain, and the reign of Bridei m. Beli (671–693), with another period of consolidation in the reign of Óengus mac Fergusa (732–761).[56]
 
@@ -64,11 +64,11 @@ From a base of territory in eastern Scotland north of the River Forth and south 
 
 The push for this change was the reign of David I and the Davidian Revolution. Feudalism, government reorganisation and the first legally recognised towns (called burghs) began in this period. These institutions and the immigration of French and Anglo-French knights and churchmen facilitated cultural osmosis, whereby the culture and language of the low-lying and coastal parts of the kingdom's original territory in the east became, like the newly acquired south-east, English-speaking, while the rest of the country retained the Gaelic language, apart from the Northern Isles of Orkney and Shetland, which remained under Norse rule until 1468.[60][61][62] The Scottish state entered a largely successful and stable period between the 12th and 14th centuries, there was relative peace with England, trade and educational links were well developed with the Continent and at the height of this cultural flowering John Duns Scotus was one of Europe's most important and influential philosophers.
 
-The_Wallace_Monument_Aerial,_Stirling.jpg commemorates William Wallace, the 13th-century Scottish hero.]]
+commemorates William Wallace, the 13th-century Scottish hero.]]
 
 The death of Alexander III in March 1286, followed by that of his granddaughter Margaret, Maid of Norway, broke the centuries-old succession line of Scotland's kings and shattered the 200-year golden age that began with David I. Edward I of England was asked to arbitrate between claimants for the Scottish crown, and he organised a process known as the Great Cause to identify the most legitimate claimant. John Balliol was pronounced king in the Great Hall of Berwick Castle on 17 November 1292 and inaugurated at Scone on 30 November, St. Andrew's Day. Edward I, who had coerced recognition as Lord Paramount of Scotland, the feudal superior of the realm, steadily undermined John's authority.[63] In 1294, Balliol and other Scottish lords refused Edward's demands to serve in his army against the French. Instead, the Scottish parliament sent envoys to France to negotiate an alliance. Scotland and France sealed a treaty on 23 October 1295, known as the Auld Alliance (1295–1560). War ensued and King John was deposed by Edward who took personal control of Scotland. Andrew Moray and William Wallace initially emerged as the principal leaders of the resistance to English rule in what became known as the Wars of Scottish Independence (1296–1328).[64]
 
-Scottish_clan_map.pngs and lowland families]]
+s and lowland families]]
 
 The nature of the struggle changed significantly when Robert the Bruce, Earl of Carrick, killed his rival John Comyn on 10 February 1306 at Greyfriars Kirk in Dumfries.[65] He was crowned king as Robert I less than seven weeks later. Robert I battled to restore Scottish Independence as King for over 20 years, beginning by winning Scotland back from the Norman English invaders piece by piece. Victory at the Battle of Bannockburn in 1314 proved the Scots had regained control of their kingdom. In 1315, Edward Bruce, brother of the King, was briefly appointed High King of Ireland during an ultimately unsuccessful Scottish invasion of Ireland aimed at strengthening Scotland's position in its wars against England. In 1320 the world's first documented declaration of independence, the Declaration of Arbroath, won the support of Pope John XXII, leading to the legal recognition of Scottish sovereignty by the English Crown.
 
@@ -78,7 +78,7 @@ This period was the height of the Franco-Scottish alliance. The Scots Guard – 
 
 Early modern period
 
-Portrait_of_King_James_I_&_VI_(1618-1620).jpg succeeded to the English and Irish thrones in 1603.]]
+succeeded to the English and Irish thrones in 1603.]]
 
 In 1502, James IV of Scotland signed the Treaty of Perpetual Peace with Henry VII of England. He also married Henry's daughter, Margaret Tudor, setting the stage for the Union of the Crowns. For Henry, the marriage into one of Europe's most established monarchies gave legitimacy to the new Tudor royal line.[72] A decade later, James made the fateful decision to invade England in support of France under the terms of the Auld Alliance. He was the last British monarch to die in battle, at the Battle of Flodden.[73] Within a generation the Auld Alliance was ended by the Treaty of Edinburgh. France agreed to withdraw all land and naval forces. In the same year, 1560, John Knox realised his goal of seeing Scotland become a Protestant nation and the Scottish parliament revoke papal authority in Scotland.[74] Mary, Queen of Scots, a Catholic and former queen of France, was forced to abdicate in 1567.[75]
 
@@ -92,7 +92,7 @@ On 22 July 1706, the Treaty of Union was agreed between representatives of the S
 
 18th century
 
-The_Battle_of_Culloden.jpg]]
+]]
 
 With trade tariffs with England now abolished, trade blossomed, especially with Colonial America. The clippers belonging to the Glasgow Tobacco Lords were the fastest ships on the route to Virginia. Until the American War of Independence in 1776, Glasgow was the world's premier tobacco port, dominating world trade.[85] The disparity between the wealth of the merchant classes of the Scottish Lowlands and the ancient clans of the Scottish Highlands grew, amplifying centuries of division.
 
@@ -104,15 +104,15 @@ In the Highlands, clan chiefs gradually started to think of themselves more as c
 
 19th century
 
-John_Atkinson_Grimshaw_-_Shipping_on_the_Clyde_(1881).jpg, 1881]] The Scottish Reform Act 1832 increased the number of Scottish MPs and widened the franchise to include more of the middle classes.[90] From the mid-century, there were increasing calls for Home Rule for Scotland and the post of Secretary of State for Scotland was revived.[91] Towards the end of the century Prime Ministers of Scottish descent included William Gladstone,[92] and the Earl of Rosebery.[93] In the later 19th century the growing importance of the working classes was marked by Keir Hardie's success in the Mid Lanarkshire by-election, 1888, leading to the foundation of the Scottish Labour Party, which was absorbed into the Independent Labour Party in 1895, with Hardie as its first leader.[94]
+, 1881]] The Scottish Reform Act 1832 increased the number of Scottish MPs and widened the franchise to include more of the middle classes.[90] From the mid-century, there were increasing calls for Home Rule for Scotland and the post of Secretary of State for Scotland was revived.[91] Towards the end of the century Prime Ministers of Scottish descent included William Gladstone,[92] and the Earl of Rosebery.[93] In the later 19th century the growing importance of the working classes was marked by Keir Hardie's success in the Mid Lanarkshire by-election, 1888, leading to the foundation of the Scottish Labour Party, which was absorbed into the Independent Labour Party in 1895, with Hardie as its first leader.[94]
 
 Glasgow became one of the largest cities in the world and known as "the Second City of the Empire" after London.[95] After 1860 the Clydeside shipyards specialised in steamships made of iron (after 1870, made of steel), which rapidly replaced the wooden sailing vessels of both the merchant fleets and the battle fleets of the world. It became the world's pre-eminent shipbuilding centre.[96] The industrial developments, while they brought work and wealth, were so rapid that housing, town-planning, and provision for public health did not keep pace with them, and for a time living conditions in some of the towns and cities were notoriously bad, with overcrowding, high infant mortality, and growing rates of tuberculosis.[97]
 
-Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg, whose Waverley Novels helped define Scottish identity in the 19th century.]] While the Scottish Enlightenment is traditionally considered to have concluded toward the end of the 18th century,[98] disproportionately large Scottish contributions to British science and letters continued for another 50 years or more, thanks to such figures as the physicists James Clerk Maxwell and Lord Kelvin, and the engineers and inventors James Watt and William Murdoch, whose work was critical to the technological developments of the Industrial Revolution throughout Britain.[99] In literature, the most successful figure of the mid-19th century was Walter Scott. His first prose work, _Waverley_ in 1814, is often called the first historical novel.[100] It launched a highly successful career that probably more than any other helped define and popularise Scottish cultural identity.[101] In the late 19th century, a number of Scottish-born authors achieved international reputations, such as Robert Louis Stevenson, Arthur Conan Doyle, J. M. Barrie and George MacDonald.[102] Scotland also played a major part in the development of art and architecture. The Glasgow School, which developed in the late 19th century, and flourished in the early 20th century, produced a distinctive blend of influences including the Celtic Revival the Arts and Crafts movement, and Japonism, which found favour throughout the modern art world of continental Europe and helped define the Art Nouveau style. Proponents included architect and artist Charles Rennie Mackintosh.[103]
+, whose Waverley Novels helped define Scottish identity in the 19th century.]] While the Scottish Enlightenment is traditionally considered to have concluded toward the end of the 18th century,[98] disproportionately large Scottish contributions to British science and letters continued for another 50 years or more, thanks to such figures as the physicists James Clerk Maxwell and Lord Kelvin, and the engineers and inventors James Watt and William Murdoch, whose work was critical to the technological developments of the Industrial Revolution throughout Britain.[99] In literature, the most successful figure of the mid-19th century was Walter Scott. His first prose work, _Waverley_ in 1814, is often called the first historical novel.[100] It launched a highly successful career that probably more than any other helped define and popularise Scottish cultural identity.[101] In the late 19th century, a number of Scottish-born authors achieved international reputations, such as Robert Louis Stevenson, Arthur Conan Doyle, J. M. Barrie and George MacDonald.[102] Scotland also played a major part in the development of art and architecture. The Glasgow School, which developed in the late 19th century, and flourished in the early 20th century, produced a distinctive blend of influences including the Celtic Revival the Arts and Crafts movement, and Japonism, which found favour throughout the modern art world of continental Europe and helped define the Art Nouveau style. Proponents included architect and artist Charles Rennie Mackintosh.[103]
 
 This period saw a process of rehabilitation for Highland culture. In the 1820s, as part of the Romantic revival, tartan and the kilt were adopted by members of the social elite, not just in Scotland, but across Europe,[104][105] prompted by the popularity of Macpherson's Ossian cycle[106][107] and then Walter Scott's Waverley novels.[108] However, the Highlands remained poor, the only part of mainland Britain to continue to experience recurrent famine, with a limited range of products exported out of the region, negligible industrial production, but a continued population growth that tested the subsistence agriculture. These problems, and the desire to improve agriculture and profits were the driving forces of the ongoing Highland Clearances, in which many of the population of the Highlands suffered eviction as lands were enclosed, principally so that they could be used for sheep farming. The first phase of the clearances followed patterns of agricultural change throughout Britain. The second phase was driven by overpopulation, the Highland Potato Famine and the collapse of industries that had relied on the wartime economy of the Napoleonic Wars. The behaviour of tenants and landlords varied, but overall the clearances were notorious as a result of the late timing, the lack of legal protection for year-by-year tenants under Scots law, the abruptness of the change from the traditional clan system, and the brutality of some evictions.[109] The population of Scotland grew steadily in the 19th century, from 1,608,000 in the census of 1801 to 2,889,000 in 1851 and 4,472,000 in 1901.[110] Even with the development of industry, there were not enough good jobs. As a result, during the period 1841–1931, about 2 million Scots migrated to North America and Australia, and another 750,000 Scots relocated to England.[111]
 
-Disruption_forming_Free_Kirk.jpg.]] After prolonged years of struggle in the Kirk, in 1834 the Evangelicals gained control of the General Assembly and passed the Veto Act, which allowed congregations to reject unwanted "intrusive" presentations to livings by patrons. The following "Ten Years' Conflict" of legal and political wrangling ended in defeat for the non-intrusionists in the civil courts. The result was a schism from the church by some of the non-intrusionists led by Dr Thomas Chalmers, known as the Great Disruption of 1843. Roughly a third of the clergy, mainly from the North and Highlands, formed the separate Free Church of Scotland.[112] In the late 19th century growing divisions between fundamentalist Calvinists and theological liberals resulted in a further split in the Free Church as the rigid Calvinists broke away to form the Free Presbyterian Church in 1893.[113] Catholic emancipation in 1829 and the influx of large numbers of Irish immigrants, particularly after the famine years of the late 1840s, mainly to the growing lowland centres like Glasgow, led to a transformation in the fortunes of Catholicism. In 1878, despite opposition, a Roman Catholic ecclesiastical hierarchy was restored to the country, and Catholicism became a significant denomination within Scotland.[114]
+.]] After prolonged years of struggle in the Kirk, in 1834 the Evangelicals gained control of the General Assembly and passed the Veto Act, which allowed congregations to reject unwanted "intrusive" presentations to livings by patrons. The following "Ten Years' Conflict" of legal and political wrangling ended in defeat for the non-intrusionists in the civil courts. The result was a schism from the church by some of the non-intrusionists led by Dr Thomas Chalmers, known as the Great Disruption of 1843. Roughly a third of the clergy, mainly from the North and Highlands, formed the separate Free Church of Scotland.[112] In the late 19th century growing divisions between fundamentalist Calvinists and theological liberals resulted in a further split in the Free Church as the rigid Calvinists broke away to form the Free Presbyterian Church in 1893.[113] Catholic emancipation in 1829 and the influx of large numbers of Irish immigrants, particularly after the famine years of the late 1840s, mainly to the growing lowland centres like Glasgow, led to a transformation in the fortunes of Catholicism. In 1878, despite opposition, a Roman Catholic ecclesiastical hierarchy was restored to the country, and Catholicism became a significant denomination within Scotland.[114]
 
 Industrialisation, urbanisation and the Disruption of 1843 all undermined the tradition of parish schools. From 1830 the state began to fund buildings with grants; then from 1846 it was funding schools by direct sponsorship; and in 1872 Scotland moved to a system like that in England of state-sponsored largely free schools, run by local school boards.[115] The historic University of Glasgow became a leader in British higher education by providing the educational needs of youth from the urban and commercial classes, as opposed to the upper class.[116] The University of St Andrews pioneered the admission of women to Scottish universities. From 1892 Scottish universities could admit and graduate women and the numbers of women at Scottish universities steadily increased until the early 20th century.[117]
 
@@ -126,11 +126,11 @@ The shipbuilding industry expanded by a third and expected renewed prosperity, b
 
 During the Second World War, Scotland was targeted by Nazi Germany largely due to its factories, shipyards, and coal mines.[123] Cities such as Glasgow and Edinburgh were targeted by German bombers, as were smaller towns mostly located in the central belt of the country.[124] Perhaps the most significant air-raid in Scotland was the Clydebank Blitz of March 1941, which intended to destroy naval shipbuilding in the area.[125] 528 people were killed and 4,000 homes totally destroyed.[126]
 
-Rudolf_Hess_-_Bf_110D_Werk_Nr_3869_-_Wreckage_-_Bonnyton_Moor.jpg, Deputy Führer of Nazi Germany, crashed his plane at Bonnyton Moor in the Scottish central belt in an attempt to make peace]]
+, Deputy Führer of Nazi Germany, crashed his plane at Bonnyton Moor in the Scottish central belt in an attempt to make peace]]
 
 Perhaps Scotland's most unusual wartime episode occurred in 1941 when Rudolf Hess flew to Renfrewshire, possibly intending to broker a peace deal through the Duke of Hamilton.[127] Before his departure from Germany, Hess had given his adjutant, Karlheinz Pintsch, a letter addressed to Hitler that detailed his intentions to open peace negotiations with the British. Pintsch delivered the letter to Hitler at the Berghof around noon on 11 May. Albert Speer later said Hitler described Hess's departure as one of the worst personal blows of his life, as he considered it a personal betrayal. Hitler worried that his allies, Italy and Japan, would perceive Hess's act as an attempt by Hitler to secretly open peace negotiations with the British.
 
-Royal_Scots_with_flag_01-1945.jpg with a captured Japanese Hinomaru Yosegaki flag, Burma, 1945]]
+with a captured Japanese Hinomaru Yosegaki flag, Burma, 1945]]
 
 As in World War I, Scapa Flow in Orkney served as an important Royal Navy base. Attacks on Scapa Flow and Rosyth gave RAF fighters their first successes downing bombers in the Firth of Forth and East Lothian.[128] The shipyards and heavy engineering factories in Glasgow and Clydeside played a key part in the war effort, and suffered attacks from the Luftwaffe, enduring great destruction and loss of life.[129] As transatlantic voyages involved negotiating north-west Britain, Scotland played a key part in the battle of the North Atlantic.[130] Shetland's relative proximity to occupied Norway resulted in the Shetland bus by which fishing boats helped Norwegians flee the Nazis, and expeditions across the North Sea to assist resistance.[131]
 
@@ -138,7 +138,7 @@ Scottish industry came out of the depression slump by a dramatic expansion of it
 
 Modern day
 
-Opening_of_the_Scottish_Parliament,_1999.jpg in July 1999 with Donald Dewar, then First Minister of Scotland (left) with Queen Elizabeth II (centre) and Presiding Officer Sir David Steel (right)]]
+in July 1999 with Donald Dewar, then First Minister of Scotland (left) with Queen Elizabeth II (centre) and Presiding Officer Sir David Steel (right)]]
 
 After 1945, Scotland's economic situation worsened due to overseas competition, inefficient industry, and industrial disputes.[133] Only in recent decades has the country enjoyed something of a cultural and economic renaissance. Economic factors contributing to this recovery included a resurgent financial services industry, electronics manufacturing, (see Silicon Glen),[134] and the North Sea oil and gas industry.[135] The introduction in 1989 by Margaret Thatcher's government of the Community Charge (widely known as the Poll Tax) one year before the rest of Great Britain,[136] contributed to a growing movement for Scottish control over domestic affairs.[137] Following a referendum on devolution proposals in 1997, the Scotland Act 1998[138] was passed by the UK Parliament, which established a devolved Scottish Parliament and Scottish Government with responsibility for most laws specific to Scotland.[139] The Scottish Parliament was reconvened in Edinburgh on 4 July 1999.[140] The first First Minister of Scotland was Donald Dewar, who served until his sudden death in 2000.[141]
 
@@ -147,7 +147,7 @@ The Scottish Parliament Building at Holyrood itself did not open until October 2
 
 Geography and natural history
 
-Scotland_from_space.png South_over_the_Quiraing,_Isle_of_Skye_-_2.jpg on the Isle of Skye.]] [[File:Ardhasaig with Clisham, Isle of Harris (13567370923).jpg|thumb|
+on the Isle of Skye.]] [[File:Ardhasaig with Clisham, Isle of Harris (13567370923).jpg|thumb|
 
 Clisham, the highest point on Isle of Harris .]]
 
@@ -159,7 +159,7 @@ The geographical centre of Scotland lies a few miles from the village of Newtonm
 
 Geology and geomorphology
 
-The_Cuillins_on_a_still_morning_(9878281443).jpg, located in the north west of Scotland]]
+, located in the north west of Scotland]]
 
 The whole of Scotland was covered by ice sheets during the Pleistocene ice ages and the landscape is much affected by glaciation. From a geological perspective, the country has three main sub-divisions.
 
@@ -173,13 +173,13 @@ The Southern Uplands are a range of hills almost long, interspersed with broad v
 
 Climate
 
-Tiree_3.JPG, one of the sunniest locations in Scotland]] The climate of Scotland is temperate and oceanic, and tends to be very changeable. As it is warmed by the Gulf Stream from the Atlantic, it has much milder winters (but cooler, wetter summers) than areas on similar latitudes, such as Labrador, southern Scandinavia, the Moscow region in Russia, and the Kamchatka Peninsula on the opposite side of Eurasia. However, temperatures are generally lower than in the rest of the UK, with the coldest ever UK temperature of recorded at Braemar in the Grampian Mountains, on 11 February 1895.[161] Winter maxima average in the Lowlands, with summer maxima averaging . The highest temperature recorded was at Greycrook, Scottish Borders on 9 August 2003.[162]
+, one of the sunniest locations in Scotland]] The climate of Scotland is temperate and oceanic, and tends to be very changeable. As it is warmed by the Gulf Stream from the Atlantic, it has much milder winters (but cooler, wetter summers) than areas on similar latitudes, such as Labrador, southern Scandinavia, the Moscow region in Russia, and the Kamchatka Peninsula on the opposite side of Eurasia. However, temperatures are generally lower than in the rest of the UK, with the coldest ever UK temperature of recorded at Braemar in the Grampian Mountains, on 11 February 1895.[161] Winter maxima average in the Lowlands, with summer maxima averaging . The highest temperature recorded was at Greycrook, Scottish Borders on 9 August 2003.[162]
 
 The west of Scotland is usually warmer than the east, owing to the influence of Atlantic ocean currents and the colder surface temperatures of the North Sea. Tiree, in the Inner Hebrides, is one of the sunniest places in the country: it had more than 300 hours of sunshine in May 1975.[163] Rainfall varies widely across Scotland. The western highlands of Scotland are the wettest, with annual rainfall in a few places exceeding .[164] In comparison, much of lowland Scotland receives less than annually.[165] Heavy snowfall is not common in the lowlands, but becomes more common with altitude. Braemar has an average of 59 snow days per year,[166] while many coastal areas average fewer than 10 days of lying snow per year.[167]
 
 Flora and fauna
 
-Lepus_timidus_01-cropped.jpg in Findhorn Valley, May 2004]] Scotland's wildlife is typical of the north-west of Europe, although several of the larger mammals such as the lynx, brown bear, wolf, elk and walrus were hunted to extinction in historic times. There are important populations of seals and internationally significant nesting grounds for a variety of seabirds such as gannets.[168] The golden eagle is something of a national icon.[169]
+in Findhorn Valley, May 2004]] Scotland's wildlife is typical of the north-west of Europe, although several of the larger mammals such as the lynx, brown bear, wolf, elk and walrus were hunted to extinction in historic times. There are important populations of seals and internationally significant nesting grounds for a variety of seabirds such as gannets.[168] The golden eagle is something of a national icon.[169]
 
 On the high mountain tops, species including ptarmigan, mountain hare and stoat can be seen in their white colour phase during winter months.[170] Remnants of the native Scots pine forest exist[171] and within these areas the Scottish crossbill, the UK's only endemic bird species and vertebrate, can be found alongside capercaillie, Scottish wildcat, red squirrel and pine marten.[172][173][174] Various animals have been re-introduced, including the white-tailed sea eagle in 1975, the red kite in the 1980s,[175][176] and there have been experimental projects involving the beaver and wild boar. Today, much of the remaining native Caledonian Forest lies within the Cairngorms National Park and remnants of the forest remain at 84 locations across Scotland. On the west coast, remnants of ancient Celtic Rainforest still remain, particularly on the Taynish peninsula in Argyll, these forests are particularly rare due to high rates of deforestation throughout Scottish history.[177][178]
 
@@ -198,7 +198,7 @@ In general, only the more accessible and larger islands remain inhabited. Curren
 
 Immigration since World War II has given Glasgow, Edinburgh, and Dundee small South Asian communities.[192] In 2011, there were an estimated 49,000 ethnically Pakistani people living in Scotland, making them the largest non-White ethnic group.[193] Since the Enlargement of the European Union more people from Central and Eastern Europe have moved to Scotland, and the 2011 census indicated that 61,000 Poles live there.[194][195]
 
-Scotland_population_cartogram.svg. The size of councils is in proportion to their population.]] Scotland has three officially recognised languages: English, Scots, and Scottish Gaelic.[196][197] Scottish Standard English, a variety of English as spoken in Scotland, is at one end of a bipolar linguistic continuum, with broad Scots at the other.[198] Scottish Standard English may have been influenced to varying degrees by Scots.[199][200] The 2011 census indicated that 63% of the population had "no skills in Scots".[201] Others speak Highland English. Gaelic is mostly spoken in the Western Isles, where a large proportion of people still speak it; however, nationally its use is confined to just 1% of the population.[202] The number of Gaelic speakers in Scotland dropped from 250,000 in 1881 to 60,000 in 2008.[203]
+. The size of councils is in proportion to their population.]] Scotland has three officially recognised languages: English, Scots, and Scottish Gaelic.[196][197] Scottish Standard English, a variety of English as spoken in Scotland, is at one end of a bipolar linguistic continuum, with broad Scots at the other.[198] Scottish Standard English may have been influenced to varying degrees by Scots.[199][200] The 2011 census indicated that 63% of the population had "no skills in Scots".[201] Others speak Highland English. Gaelic is mostly spoken in the Western Isles, where a large proportion of people still speak it; however, nationally its use is confined to just 1% of the population.[202] The number of Gaelic speakers in Scotland dropped from 250,000 in 1881 to 60,000 in 2008.[203]
 
 There are many more people with Scottish ancestry living abroad than the total population of Scotland. In the 2000 Census, 9.2 million Americans self-reported some degree of Scottish descent.[204] Ulster's Protestant population is mainly of lowland Scottish descent,[205] and it is estimated that there are more than 27 million descendants of the Scots-Irish migration now living in the US.[206][207] In Canada, the Scottish-Canadian community accounts for 4.7 million people.[208] About 20% of the original European settler population of New Zealand came from Scotland.[209]
 
@@ -211,7 +211,7 @@ Life expectancy for those born in Scotland between 2012 and 2014 is 77.1 years f
 
 Religion
 
-Abbey_on_the_Isle_of_Iona_-_geograph.org.uk_-_1459438.jpg, an early centre of Christianity in Scotland]]
+, an early centre of Christianity in Scotland]]
 
 Just over half (54%) of the Scottish population reported being a Christian while nearly 37% reported not having a religion in a 2011 census.[216] Since the Scottish Reformation of 1560, the national church (the Church of Scotland, also known as The Kirk) has been Protestant in classification and Reformed in theology. Since 1689 it has had a Presbyterian system of church government and enjoys independence from the state.[217] Its membership is 398,389,[218] about 7.5% of the total population, though according to the 2014 Scottish Annual Household Survey, 27.8%, or 1.5 million adherents, identified the Church of Scotland as the church of their religion.[219] The Church operates a territorial parish structure, with every community in Scotland having a local congregation.
 
@@ -222,12 +222,12 @@ Islam is the largest non-Christian religion (estimated at around 75,000, which i
 
 Politics and government
 
-+---------------------------------+---------------------------------+
-| Elizabeth_II_in_Berlin_2015.JPG | Nicola_Sturgeon_Official_HQ.jpg |
-+---------------------------------+---------------------------------+
-| Queen Elizabeth II              | Nicola Sturgeon                 |
-| Monarch                         | First Minister                  |
-+---------------------------------+---------------------------------+
++--------------------+-----------------+
+|                    |                 |
++--------------------+-----------------+
+| Queen Elizabeth II | Nicola Sturgeon |
+| Monarch            | First Minister  |
++--------------------+-----------------+
 
 The head of state of the United Kingdom is the monarch, currently Queen Elizabeth II (since 1952). The regnal numbering ("Elizabeth II") caused controversy around the time of her coronation because there had never been an Elizabeth I in Scotland. The British government stated in April 1953 that future British monarchs would be numbered according to either their English or their Scottish predecessors, whichever number would be higher.[226] For instance, any future King James would be styled James VIIIsince the last Scottish King James was James VII (also James II of England, etc.)while the next King Henry would be King Henry IX throughout the UK even though there have been no Scottish kings of that name. A legal action, MacCormick v Lord Advocate (1953 SC 396), was brought in Scotland to contest the right of the Queen to entitle herself "Elizabeth II" within Scotland, but the Crown won the case.
 
@@ -245,7 +245,7 @@ Scotland is represented in the British House of Commons by 59 MPs elected from t
 
 Devolved government relations
 
-First_Minister_meets_the_Prime_Minister_at_Bute_House.jpg, Theresa May and First Minister, Nicola Sturgeon, meeting at Bute House in 2016]]
+, Theresa May and First Minister, Nicola Sturgeon, meeting at Bute House in 2016]]
 
 The relationships between the central UK Government and devolved governments of Scotland, Wales and Northern Ireland are based on the extra-statutory principles and agreements with the main elements are set out in a _Memorandum of Understanding_ between the UK government and the devolved governments of Scotland, Wales and Northern Ireland. The MOU lays emphasis on the principles of good communication, consultation and co-operation.[245]
 
@@ -255,7 +255,7 @@ In the aftermath of the United Kingdom's decision to withdraw from the European 
 
 International diplomacy
 
-Bush&McConnell.jpg welcomes then-President of the United States George W. Bush to Glasgow Prestwick Airport at the start of the G8 Summit in July 2005]]
+welcomes then-President of the United States George W. Bush to Glasgow Prestwick Airport at the start of the G8 Summit in July 2005]]
 
 Whilst foreign policy remains a reserved matter,[250] the Scottish Government still has the power and ability to strengthen and develop Scotland, the economy and Scottish interests on the world stage and encourage foreign businesses, international devolved, regional and central governments to invest in Scotland.[251] Whilst the First Minister usually undertakes a number of foreign and international visits to promote Scotland, international relations, European and Commonwealth relations are also included within the portfolios of both the Cabinet Secretary for Culture, Tourism and External Affairs (responsible for international development)[252] and the Minister for International Development and Europe (responsible for European Union relations and international relations).[253]
 
@@ -267,13 +267,13 @@ During a 2017 visit to the United States, First Minister Nicola Sturgeon met wit
 
 Constitutional changes
 
-Scottish_Parliament_Debating_Chamber_2.jpg]]
+]]
 
 A policy of devolution had been advocated by the three main UK parties with varying enthusiasm during recent history. A previous Labour leader. John Smith, described the revival of a Scottish parliament as the "settled will of the Scottish people".[265] The devolved Scottish Parliament was created after a referendum in 1997 found majority support for both creating the Parliament and granting it limited powers to vary income tax.[266]
 
 The Scottish National Party (SNP), which supports Scottish independence, was first elected to form the Scottish Government in 2007. The new government established a "National Conversation" on constitutional issues, proposing a number of options such as increasing the powers of the Scottish Parliament, federalism, or a referendum on Scottish independence from the United Kingdom. In rejecting the last option, the three main opposition parties in the Scottish Parliament created a commission to investigate the distribution of powers between devolved Scottish and UK-wide bodies.[267] The Scotland Act 2012, based on proposals by the commission, was subsequently enacted devolving additional powers to the Scottish Parliament.[268]
 
-FM_meets_with_Juncker.jpg Jean-Claude Juncker and First Minister Nicola Sturgeon]]
+Jean-Claude Juncker and First Minister Nicola Sturgeon]]
 
 In August 2009 the SNP proposed a bill to hold a referendum on independence in November 2010. Opposition from all other major parties led to an expected defeat.[269][270][271] After the 2011 elections gave the SNP an overall majority in the Scottish Parliament, a referendum on independence for Scotland was held on 18 September 2014.[272] The referendum resulted in a rejection of independence, by 55.3% to 44.7%.[273][274] During the campaign, the three main parties in the UK Parliament pledged to extend the powers of the Scottish Parliament.[275][276] An all-party commission chaired by Lord Smith of Kelvin was formed,[277] which led to a further devolution of powers through the Scotland Act 2016.
 
@@ -281,7 +281,7 @@ Following a referendum on the UK's membership of the European Union on 23 June 2
 
 Administrative subdivisions
 
-Glasgow_City_Chambers_Exterior.jpg, seat of Glasgow City Council]] Historical subdivisions of Scotland included the mormaerdom, stewartry, earldom, burgh, parish, county and regions and districts. Some of these names are still sometimes used as geographical descriptors.
+, seat of Glasgow City Council]] Historical subdivisions of Scotland included the mormaerdom, stewartry, earldom, burgh, parish, county and regions and districts. Some of these names are still sometimes used as geographical descriptors.
 
 Modern Scotland is subdivided in various ways depending on the purpose. In local government, there have been 32 single-tier council areas since 1996,[280] whose councils are responsible for the provision of all local government services. Decisions are made by councillors who are elected at local elections every five years. The head of each council is usually the Lord Provost alongside the Leader of the Council,[281] with a Chief Executive being appointed as director of the council area.[282] Community Councils are informal organisations that represent specific sub-divisions within each council area.
 
@@ -292,7 +292,7 @@ City status in the United Kingdom is conferred by letters patent.[283] There are
 
 Law and criminal justice
 
-High_Court_of_Justiciary.jpg, Edinburgh]] Scots law has a basis derived from Roman law,[285] combining features of both uncodified civil law, dating back to the _Corpus Juris Civilis_, and common law with medieval sources. The terms of the Treaty of Union with England in 1707 guaranteed the continued existence of a separate legal system in Scotland from that of England and Wales.[286] Prior to 1611, there were several regional law systems in Scotland, most notably Udal law in Orkney and Shetland, based on old Norse law. Various other systems derived from common Celtic or Brehon laws survived in the Highlands until the 1800s.[287]
+, Edinburgh]] Scots law has a basis derived from Roman law,[285] combining features of both uncodified civil law, dating back to the _Corpus Juris Civilis_, and common law with medieval sources. The terms of the Treaty of Union with England in 1707 guaranteed the continued existence of a separate legal system in Scotland from that of England and Wales.[286] Prior to 1611, there were several regional law systems in Scotland, most notably Udal law in Orkney and Shetland, based on old Norse law. Various other systems derived from common Celtic or Brehon laws survived in the Highlands until the 1800s.[287]
 
 Scots law provides for three types of courts responsible for the administration of justice: civil, criminal and heraldic. The supreme civil court is the Court of Session, although civil appeals can be taken to the Supreme Court of the United Kingdom (or before 1 October 2009, the House of Lords). The High Court of Justiciary is the supreme criminal court in Scotland. The Court of Session is housed at Parliament House, in Edinburgh, which was the home of the pre-Union Parliament of Scotland with the High Court of Justiciary and the Supreme Court of Appeal currently located at the Lawnmarket. The sheriff court is the main criminal and civil court, hearing most cases. There are 49 sheriff courts throughout the country.[288] District courts were introduced in 1975 for minor offences and small claims. These were gradually replaced by Justice of the Peace Courts from 2008 to 2010. The Court of the Lord Lyon regulates heraldry.
 
@@ -303,14 +303,14 @@ The Scottish Prison Service (SPS) manages the prisons in Scotland, which collect
 
 Health care
 
-QEUH2.jpg's Queen Elizabeth University Hospital, Glasgow. It is the largest hospital campus in Europe[292]]] Health care in Scotland is mainly provided by NHS Scotland, Scotland's public health care system. This was founded by the National Health Service (Scotland) Act 1947 (later repealed by the National Health Service (Scotland) Act 1978) that took effect on 5 July 1948 to coincide with the launch of the NHS in England and Wales. However, even prior to 1948, half of Scotland's landmass was already covered by state-funded health care, provided by the Highlands and Islands Medical Service.[293] Healthcare policy and funding is the responsibility of the Scottish Government's Health Directorates. The current Cabinet Secretary for Health and Sport is Jeane Freeman[294] and the Director-General (DG) Health and chief executive, NHS Scotland is Paul Gray.[295]
+'s Queen Elizabeth University Hospital, Glasgow. It is the largest hospital campus in Europe[292]]] Health care in Scotland is mainly provided by NHS Scotland, Scotland's public health care system. This was founded by the National Health Service (Scotland) Act 1947 (later repealed by the National Health Service (Scotland) Act 1978) that took effect on 5 July 1948 to coincide with the launch of the NHS in England and Wales. However, even prior to 1948, half of Scotland's landmass was already covered by state-funded health care, provided by the Highlands and Islands Medical Service.[293] Healthcare policy and funding is the responsibility of the Scottish Government's Health Directorates. The current Cabinet Secretary for Health and Sport is Jeane Freeman[294] and the Director-General (DG) Health and chief executive, NHS Scotland is Paul Gray.[295]
 
 In 2008, the NHS in Scotland had around 158,000 staff including more than 47,500 nurses, midwives and health visitors and over 3,800 consultants. There are also more than 12,000 doctors, family practitioners and allied health professionals, including dentists, opticians and community pharmacists, who operate as independent contractors providing a range of services within the NHS in return for fees and allowances. These fees and allowances were removed in May 2010, and prescriptions are entirely free, although dentists and opticians may charge if the patient's household earns over a certain amount, about £30,000 per annum.[296]
 
 
 Economy
 
-Oil_platform_in_the_North_SeaPros.jpg located in the North Sea]] Bank_of_Scotland_Head_Office_from_Market_Street.jpg, located in Edinburgh, is one of the oldest banks in the world]]
+located in the North Sea]] , located in Edinburgh, is one of the oldest banks in the world]]
 
 The Economy of Scotland had an estimated nominal gross domestic product (GDP) of up to £152 billion in 2015. In 2014, Scotland's per capita GDP was one of the highest in the EU.[297] Scotland has a Western-style open mixed economy closely linked with the rest of the UK and the wider world. Traditionally, the Scottish economy has been dominated by heavy industry underpinned by shipbuilding in Glasgow, coal mining and steel industries. Petroleum related industries associated with the extraction of North Sea oil have also been important employers from the 1970s, especially in the north-east of Scotland.
 
@@ -318,7 +318,7 @@ In February 2012, the Centre for Economics and Business Research concluded that 
 
 In the final quarter of 2016, the Scottish economy contracted by 0.2%;[302] the UK as a whole grew by 0.7% in the same period.[303] As of September 2015, the Scottish unemployment rate of 5.9% was above the UK rate of 5.5%, while the Scottish employment rate of 74.0% was higher than the UK figure of 73.5%.[304] De-industrialisation during the 1970s and 1980s saw a shift from a manufacturing focus towards a more service-oriented economy. Between April-June 2018, Scotland's economy was the best performing onshore economy in the United Kingdom, with Scotland outperforming the Economy of the United Kingdom as a whole, when the Scottish economy grew by 0.5% compared to UK economic growth of 0.4%[305]. In the final quarter of 2018 (July-September), Scotland's economy grew by 0.3% in real-terms which compared to the same period in the previous year (July-September 2017), the economy of Scotland has grown +1.5%[306]. Based on recent publications from the Scottish Government, the largest single contributor to this period of growth in Scotland's economy was the construction sector[307][308].
 
-International_musicians_and_performers_perform_a_tribute_to_Scotland_during_the_Royal_Edinburgh_Military_Tattoo_120803-N-VT117-281.jpg takes place each year, attracting over 14 million spectators since it began, 220,000 each year[309].]]
+takes place each year, attracting over 14 million spectators since it began, 220,000 each year[309].]]
 
 Edinburgh is the financial services centre of Scotland, with many large finance firms based there, including: Lloyds Banking Group (owners of HBOS); the Government-owned Royal Bank of Scotland and Standard Life. Edinburgh was ranked 15th in the list of world financial centres in 2007, but fell to 37th in 2012, following damage to its reputation,[310] and in 2016 was ranked 56th out of 86.[311]
 
@@ -330,14 +330,14 @@ A briefing published in 2002 by the Scottish Parliament Information Centre (SPIC
 
 Currency
 
-RoyBankScotland100.jpg note]]
+note]]
 
 Although the Bank of England is the central bank for the UK, three Scottish clearing banks issue Sterling banknotes: the Bank of Scotland, the Royal Bank of Scotland and the Clydesdale Bank. The value of the Scottish banknotes in circulation in 2013 was £3.8 billion, underwritten by the Bank of England using funds deposited by each clearing bank, under the Banking Act 2009, in order to cover the total value of such notes in circulation.[322]
 
 
 Military
 
-Challenger2-Bergen-Hohne-Training-Area-2.jpg main battle tank of the Royal Scots Dragoon Guards]] Of the money spent on UK defence, about £3.3 billion can be attributed to Scotland as of 2013. Although Scotland has a long military tradition predating the Treaty of Union with England, its armed forces now form part of the British Armed Forces, with the exception of the Atholl Highlanders, Europe's only legal private army. In 2006, the infantry regiments of the Scottish Division were amalgamated to form the Royal Regiment of Scotland. Other distinctively Scottish regiments in the British Army include the Scots Guards, the Royal Scots Dragoon Guards and the 154 (Scottish) Regiment RLC, an Army Reserve Regiment of the Royal Logistic Corps.
+main battle tank of the Royal Scots Dragoon Guards]] Of the money spent on UK defence, about £3.3 billion can be attributed to Scotland as of 2013. Although Scotland has a long military tradition predating the Treaty of Union with England, its armed forces now form part of the British Armed Forces, with the exception of the Atholl Highlanders, Europe's only legal private army. In 2006, the infantry regiments of the Scottish Division were amalgamated to form the Royal Regiment of Scotland. Other distinctively Scottish regiments in the British Army include the Scots Guards, the Royal Scots Dragoon Guards and the 154 (Scottish) Regiment RLC, an Army Reserve Regiment of the Royal Logistic Corps.
 
 Because of their topography and perceived remoteness, parts of Scotland have housed many sensitive defence establishments.[323][324][325] Between 1960 and 1991, the Holy Loch was a base for the US fleet of Polaris ballistic missile submarines.[326] Today, Her Majesty's Naval Base Clyde, north-west of Glasgow, is the base for the four Trident-armed _Vanguard_ class ballistic missile submarines that comprise the UK's nuclear deterrent. Scapa Flow was the major Fleet base for the Royal Navy until 1956.
 
@@ -375,7 +375,7 @@ As one of the Celtic nations, Scotland and Scottish culture are represented at i
 
 National identity
 
-Carving_of_Saint_Andrew.JPG]] The image of St. Andrew, martyred while bound to an X-shaped cross, first appeared in the Kingdom of Scotland during the reign of William I.[372] Following the death of King Alexander III in 1286 an image of Andrew was used on the seal of the Guardians of Scotland who assumed control of the kingdom during the subsequent interregnum.[373] Use of a simplified symbol associated with Saint Andrew, the saltire, has its origins in the late 14th century; the Parliament of Scotland decreeing in 1385 that Scottish soldiers should wear a white Saint Andrew's Cross on the front and back of their tunics.[374] Use of a blue background for the Saint Andrew's Cross is said to date from at least the 15th century.[375] Since 1606 the saltire has also formed part of the design of the Union Flag. There are numerous other symbols and symbolic artefacts, both official and unofficial, including the thistle, the nation's floral emblem (celebrated in the song, The Thistle o' Scotland), the Declaration of Arbroath, incorporating a statement of political independence made on 6 April 1320, the textile pattern tartan that often signifies a particular Scottish clan and the royal Lion Rampant flag.[376][377][378] Highlanders can thank James Graham, 3rd Duke of Montrose, for the repeal in 1782 of the Act of 1747 prohibiting the wearing of tartans.[379]
+]] The image of St. Andrew, martyred while bound to an X-shaped cross, first appeared in the Kingdom of Scotland during the reign of William I.[372] Following the death of King Alexander III in 1286 an image of Andrew was used on the seal of the Guardians of Scotland who assumed control of the kingdom during the subsequent interregnum.[373] Use of a simplified symbol associated with Saint Andrew, the saltire, has its origins in the late 14th century; the Parliament of Scotland decreeing in 1385 that Scottish soldiers should wear a white Saint Andrew's Cross on the front and back of their tunics.[374] Use of a blue background for the Saint Andrew's Cross is said to date from at least the 15th century.[375] Since 1606 the saltire has also formed part of the design of the Union Flag. There are numerous other symbols and symbolic artefacts, both official and unofficial, including the thistle, the nation's floral emblem (celebrated in the song, The Thistle o' Scotland), the Declaration of Arbroath, incorporating a statement of political independence made on 6 April 1320, the textile pattern tartan that often signifies a particular Scottish clan and the royal Lion Rampant flag.[376][377][378] Highlanders can thank James Graham, 3rd Duke of Montrose, for the repeal in 1782 of the Act of 1747 prohibiting the wearing of tartans.[379]
 
 Although there is no official national anthem of Scotland,[380] _Flower of Scotland_ is played on special occasions and sporting events such as football and rugby matches involving the Scotland national teams and since 2010 is also played at the Commonwealth Games after it was voted the overwhelming favourite by participating Scottish athletes.[381] Other currently less popular candidates for the National Anthem of Scotland include _Scotland the Brave_, _Highland Cathedral_, _Scots Wha Hae_ and _A Man's A Man for A' That_.
 
@@ -385,12 +385,12 @@ The national animal of Scotland is the unicorn, which has been a Scottish herald
 
 Cuisine
 
-Cock-a-leekie_Soup.jpg]] Scottish cuisine has distinctive attributes and recipes of its own but shares much with wider British and European cuisine as a result of local and foreign influences, both ancient and modern. Traditional Scottish dishes exist alongside international foodstuffs brought about by migration. Scotland's natural larder of game, dairy products, fish, fruit, and vegetables is the chief factor in traditional Scots cooking, with a high reliance on simplicity and a lack of spices from abroad, as these were historically rare and expensive. Irn-Bru is the most common Scottish carbonated soft drink, often described as "Scotland's other national drink" (after whisky). During the Late Middle Ages and early modern era, French cuisine played a role in Scottish cookery due to cultural exchanges brought about by the "Auld Alliance",[384] especially during the reign of Mary, Queen of Scots. Mary, on her return to Scotland, brought an entourage of French staff who are considered responsible for revolutionising Scots cooking and for some of Scotland's unique food terminology.
+]] Scottish cuisine has distinctive attributes and recipes of its own but shares much with wider British and European cuisine as a result of local and foreign influences, both ancient and modern. Traditional Scottish dishes exist alongside international foodstuffs brought about by migration. Scotland's natural larder of game, dairy products, fish, fruit, and vegetables is the chief factor in traditional Scots cooking, with a high reliance on simplicity and a lack of spices from abroad, as these were historically rare and expensive. Irn-Bru is the most common Scottish carbonated soft drink, often described as "Scotland's other national drink" (after whisky). During the Late Middle Ages and early modern era, French cuisine played a role in Scottish cookery due to cultural exchanges brought about by the "Auld Alliance",[384] especially during the reign of Mary, Queen of Scots. Mary, on her return to Scotland, brought an entourage of French staff who are considered responsible for revolutionising Scots cooking and for some of Scotland's unique food terminology.
 
 
 Media
 
-John_Logie_Baird_in_1917.jpg demonstrated the first working television system on 26 January 1926.[385]]]
+demonstrated the first working television system on 26 January 1926.[385]]]
 
 National newspapers such as the _Daily Record_, _The Herald_, _The Scotsman_ and _The National_ are all produced in Scotland.[386] Important regional dailies include the Evening News in Edinburgh, _The Courier_ in Dundee in the east, and _The Press and Journal_ serving Aberdeen and the north.[387] Scotland is represented at the Celtic Media Festival, which showcases film and television from the Celtic countries. Scottish entrants have won many awards since the festival began in 1980.[388]
 
@@ -407,7 +407,7 @@ Scotland hosts its own national sporting competitions and has independent repres
 
 Football
 
-Craig_Levein_issues_instructions_(5575660382).jpg in competition against Brazil, 2011]]
+in competition against Brazil, 2011]]
 
 The world's first official international association football match was held in 1872 and was the idea of C. W. Alcock of the Football Association which was seeking to promote Association Football in Scotland.[404] The match took place at the West of Scotland Cricket Club's Hamilton Crescent ground in the Partick area of Glasgow. The match was between Scotland and England and resulted in a 0–0 draw. Following this, the newly developed football became the most popular sport in Scotland. The Scottish Cup was first contested in 1873. Queen's Park F.C., in Glasgow, is probably the oldest association football club in the world outside England.
 
@@ -419,7 +419,7 @@ Scottish clubs have achieved some success in European competitions, with Celtic 
 
 Golf
 
-Old_18th_tee_lr.jpg where golf originates from]]
+where golf originates from]]
 
 With the modern game of golf originating in 15th-century Scotland, the country is promoted as the home of golf.[408][409][410] To many golfers the Old Course in the Fife town of St Andrews, an ancient links course dating to before 1552,[411] is considered a site of pilgrimage.[412] In 1764, the standard 18-hole golf course was created at St Andrews when members modified the course from 22 to 18 holes.[413] The world's oldest golf tournament, and golf's first major, is The Open Championship, which was first played on 17 October 1860 at Prestwick Golf Club, in Ayrshire, Scotland, with Scottish golfers winning the earliest majors.[414] There are many other famous golf courses in Scotland, including Carnoustie, Gleneagles, Muirfield, and Royal Troon.
 
@@ -434,7 +434,7 @@ Infrastructure
 
 Energy
 
-Whitelee_-_Wind_turbines_-_looking_south.JPG is the largest onshore wind farm on the British isles]]
+is the largest onshore wind farm on the British isles]]
 
 Scotland's primary sources for energy are provided though renewable energy (42%), nuclear (35%) and fossil fuel generation (22%).[417]
 
@@ -442,7 +442,7 @@ The Scottish Government has a target to have the equivalent of 50% of the energy
 
 Transport
 
-Edinburgh_Airport_1.jpg]] Haymarket_-_DRS_68007_evening_commuter_service.JPG]] Road_to_Fort_William_-_geograph.org.uk_-_1804287.jpg/English) roadsigns are found throughout the Highlands and the Hebrides]] MV_Loch_Seaforth_Departing_Stornoway_For_Ullapool,_24_February_2015.jpg ferry departing Stornoway]]
+]] ]] /English) roadsigns are found throughout the Highlands and the Hebrides]] ferry departing Stornoway]]
 
 Air
 

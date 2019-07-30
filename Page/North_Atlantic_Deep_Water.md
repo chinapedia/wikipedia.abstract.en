@@ -11,8 +11,6 @@ Formation and sources
 
 The NADW is a complex of several water masses formed by deep convection and also by overflow of dense water across the Greenland-Iceland-Scotland Ridge.[5]
 
-North_Atlantic_Circulation.gif
-
 The upper layers are formed by deep open ocean convection during winter. Labrador Sea Water (LSW), formed in the Labrador Sea can reach depths of 2000 m as dense water sinks downward. Classical Labrador Sea Water (CLSW) production is dependent on preconditioning of water in the Labrador Sea from the previous year, and the strength of the North Atlantic Oscillation.[6]
 
 During a positive NAO phase, conditions exist for strong winter storms to develop. These storms freshen the surface water, and their winds increase cyclonic flow, which allows denser waters to sink. As a result, the temperature, salinity, and density vary yearly. In some years these conditions do not exist and CLSW is not formed. CLSW has characteristic potential temperature of 3 °C, salinity of 34.88 psu, and density of 34.66.[7]
@@ -30,7 +28,7 @@ DSOW is the coldest, densest, and freshest water mass of NADW. DSOW formed behin
 
 Spreading pathways
 
-Antarctic_bottom_water.svg past the Mid-Atlantic Ridge.]] The southward spread of NADW along the Deep Western Boundary current (DWBC) can be traced by its high oxygen content, high CFCs, and density.[14]
+past the Mid-Atlantic Ridge.]] The southward spread of NADW along the Deep Western Boundary current (DWBC) can be traced by its high oxygen content, high CFCs, and density.[14]
 
 ULSW is the major source of upper NADW. ULSW advects southward from the Labrador Sea in small eddies that mix into the DWBC. A CFC maxima associated with ULSW has been observed along 24°N in the DWBC at 1500 m.[15] Some of the upper ULSW recirculates into the Gulf Stream, while some remains in the DWBC. High CFCs in the subtropics indicate recirculation in the subtropics.[16]
 

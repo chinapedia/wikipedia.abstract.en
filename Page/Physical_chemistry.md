@@ -31,7 +31,7 @@ The fact that how fast reactions occur can often be specified with just a few co
 
 History
 
-Lomonosov_Chymiae_Physicae_1752.jpg The term "physical chemistry" was coined by Mikhail Lomonosov in 1752, when he presented a lecture course entitled "A Course in True Physical Chemistry" (Russian: «Курс истинной физической химии») before the students of Petersburg University.[11] In the preamble to these lectures he gives the definition: "Physical chemistry is the science that must explain under provisions of physical experiments the reason for what is happening in complex bodies through chemical operations".
+The term "physical chemistry" was coined by Mikhail Lomonosov in 1752, when he presented a lecture course entitled "A Course in True Physical Chemistry" (Russian: «Курс истинной физической химии») before the students of Petersburg University.[11] In the preamble to these lectures he gives the definition: "Physical chemistry is the science that must explain under provisions of physical experiments the reason for what is happening in complex bodies through chemical operations".
 
 Modern physical chemistry originated in the 1860s to 1880s with work on chemical thermodynamics, electrolytes in solutions, chemical kinetics and other subjects. One milestone was the publication in 1876 by Josiah Willard Gibbs of his paper, _On the Equilibrium of Heterogeneous Substances_. This paper introduced several of the cornerstones of physical chemistry, such as Gibbs energy, chemical potentials, and Gibbs' phase rule.[12]
 

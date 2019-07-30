@@ -1,4 +1,4 @@
-P_np_np-complete_np-hard.svg for P, NP, NP-complete, and NP-hard set of problems. Under the assumption that P≠NP, the existence of problems within NP but outside both P and NP-complete was established by Ladner.[1]]]
+for P, NP, NP-complete, and NP-hard set of problems. Under the assumption that P≠NP, the existence of problems within NP but outside both P and NP-complete was established by Ladner.[1]]]
 
 In computational complexity theory, NP (NONDETERMINISTIC POLYNOMIAL TIME) is a complexity class used to classify decision problems. NP is the set of decision problems for which the problem instances, where the answer is "yes", have proofs verifiable in polynomial time.[2][3]
 

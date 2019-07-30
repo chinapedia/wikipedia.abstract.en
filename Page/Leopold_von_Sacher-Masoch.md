@@ -21,7 +21,7 @@ In 1869, Sacher-Masoch conceived a grandiose series of short stories under the c
 
 Philosemitism
 
-Sacher_Masoch_compilation_1901.jpg Sacher-Masoch edited the Leipzig-based monthly literary magazine _Auf der Höhe. Internationale Review_ (_At the Pinnacle. International Review_), which was published from October, 1881 to September, 1885. This was a progressive magazine aimed at tolerance and integration for Jews in Saxony, as well as for the emancipation of women with articles on women's education and suffrage.
+Sacher-Masoch edited the Leipzig-based monthly literary magazine _Auf der Höhe. Internationale Review_ (_At the Pinnacle. International Review_), which was published from October, 1881 to September, 1885. This was a progressive magazine aimed at tolerance and integration for Jews in Saxony, as well as for the emancipation of women with articles on women's education and suffrage.
 
 In his later years, he worked against local antisemitism through an association for adult education called the _Oberhessischer Verein für Volksbildung_ (OVV), founded in 1893 with his second wife, Hulda Meister, who had also been his assistant for some years.[5]
 

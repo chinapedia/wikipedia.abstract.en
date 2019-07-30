@@ -31,7 +31,7 @@ Leadership of the Labour Party
 
 First period (1983–1987)
 
-Start_campagne_voor_Europese_verkiezingen_van_PvdA_(Rotterdam);_Joop_den_Uyl_(l)_in_-_NA_-_932-9810.jpg in 1984]]
+in 1984]]
 
 After Labour's landslide defeat in June 1983, Michael Foot resigned as leader aged sixty nine, and from the outset it was expected that the much younger Kinnock would succeed him. He was finally elected as Labour Party leader on 2 October 1983, with 71 per cent of the vote, and Roy Hattersley was elected as his deputy; their prospective partnership was considered to be a "dream ticket".[11]
 
@@ -58,8 +58,6 @@ On polling day, Labour easily took second place, but with only a 31% share of th
 Labour won extra seats in Scotland, Wales and Northern England, but lost ground particularly in Southern England and London, where the Conservatives still dominated. The Conservatives also regained the Fulham seat which it had lost to Labour at a by-election just over a year earlier.
 
 Second period (1987–1992)
-
-Neil_Kinnock_(1989).jpg
 
 A few months after the general election, Kinnock gained brief attention in the United States in August 1987 when it was discovered that then-US Senator Joe Biden for Delaware (and future 47th Vice President) plagiarised one of Kinnock's speeches during his 1988 presidential campaign in a speech at a Democratic Party debate in Iowa.[28] This led to Biden's withdrawal of his presidential campaign.[29]
 
@@ -93,7 +91,7 @@ On the day of the general election, _The Sun_ newspaper ran a front page featuri
 
 The Labour-supporting _Daily Mirror_ had backed Kinnock for the 1987 general election[46] and again in 1992.[47] Less expected was the _Financial Times_ backing Kinnock at the 1992 general election.
 
-Neil_Kinnock,_Glenys_Kinnock_and_Bryan_Gould_in_1992.jpg]] Kinnock himself later claimed to have half-expected his defeat at the 1992 general election and proceeded to turn himself into a media personality, even hosting a chat show on BBC Wales and twice appearing on the topical panel show _Have I Got News for You_ within a year of the defeat. Many years later, he returned to appear as a guest host of the programme.
+]] Kinnock himself later claimed to have half-expected his defeat at the 1992 general election and proceeded to turn himself into a media personality, even hosting a chat show on BBC Wales and twice appearing on the topical panel show _Have I Got News for You_ within a year of the defeat. Many years later, he returned to appear as a guest host of the programme.
 
 Kinnock announced his resignation as Labour Party leader on 13 April 1992, ending nearly a decade in the role. John Smith, previously Shadow Chancellor, was elected on 18 July as his successor.[48]
 

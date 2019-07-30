@@ -78,8 +78,6 @@ The UN Security Council, on 16 January 2002, unanimously established an arms emb
 
 Combat operations start
 
-Fleet_5_nations.jpg
-
 On Sunday 7 October 2001, American and British forces began an aerial bombing campaign targeting Taliban forces and al-Qaeda.[45]
 
 The Northern Alliance, aided by Joint Special Operations teams consisting of Green Berets from the 5th Special Forces Group, aircrew members from the 160th Special Operations Aviation Regiment (SOAR), and Air Force Combat Controllers, fought against the Taliban. Aided by U.S. bombing and massive defections, they captured Mazar-i-Sharif on 9 November. They then rapidly gained control of most of northern Afghanistan, and took control of Kabul on 13 November after the Taliban unexpectedly fled the city. The Taliban were restricted to a smaller and smaller region, with Kunduz, the last Taliban-held city in the north, captured on 26 November. Most of the Taliban fled to Pakistan. After the September 11 attacks in the United States in 2001, the United Front succeeded in retaking Kabul from the Taliban with air support from US-led forces during Operation Enduring Freedom. In 2019, U.S. Deputy Assistant Secretary of Defense Michael Mulroy remarked that the U.S. partnership with the Northern Alliance was a very successful model that was later followed in northern Iraq and Syria.[46][47]
@@ -154,7 +152,7 @@ CJTF-HOA has devoted the majority of its efforts to train selected armed forces 
 
 U.S. action
 
-"Operation Enduring Freedom" ISAF-Logo.svg
+"Operation Enduring Freedom"
 
 -   7 October 2001 – 28 December 2014
 -   Casualties U.S. Coalition: 3,486 Dead

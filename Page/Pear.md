@@ -8,8 +8,6 @@ The word _pear_ is probably from Germanic _pera_ as a loanword of Vulgar Latin _
 
 Description
 
-PearBlossomsCalifornia.jpg
-
 The pear is native to coastal and mildly temperate regions of the Old World, from western Europe and north Africa east right across Asia. It is a medium-sized tree, reaching tall, often with a tall, narrow crown; a few species are shrubby.
 
 The leaves are alternately arranged, simple, long, glossy green on some species, densely silvery-hairy in some others; leaf shape varies from broad oval to narrow lanceolate. Most pears are deciduous, but one or two species in southeast Asia are evergreen. Most are cold-hardy, withstanding temperatures between and in winter, except for the evergreen species, which only tolerate temperatures down to about .
@@ -23,7 +21,7 @@ Pears and apples cannot always be distinguished by the form of the fruit;[3] som
 
 History
 
-Bradford_9288.JPG'' in flower]] Pear cultivation in cool temperate climates extends to the remotest antiquity, and there is evidence of its use as a food since prehistoric times. Many traces of it have been found in prehistoric pile dwellings around Lake Zurich. The word “pear”, or its equivalent, occurs in all the Celtic languages, while in Slavic and other dialects, differing appellations, still referring to the same thing, are found—a diversity and multiplicity of nomenclature which led Alphonse Pyramus de Candolle to infer a very ancient cultivation of the tree from the shores of the Caspian to those of the Atlantic.
+'' in flower]] Pear cultivation in cool temperate climates extends to the remotest antiquity, and there is evidence of its use as a food since prehistoric times. Many traces of it have been found in prehistoric pile dwellings around Lake Zurich. The word “pear”, or its equivalent, occurs in all the Celtic languages, while in Slavic and other dialects, differing appellations, still referring to the same thing, are found—a diversity and multiplicity of nomenclature which led Alphonse Pyramus de Candolle to infer a very ancient cultivation of the tree from the shores of the Caspian to those of the Atlantic.
 
 The pear was also cultivated by the Romans, who ate the fruits raw or cooked, just like apples.[4] Pliny's _Natural History_ recommended stewing them with honey and noted three dozen varieties. The Roman cookbook _De re coquinaria_ has a recipe for a spiced, stewed-pear _patina_, or soufflé.[5]
 
@@ -36,7 +34,7 @@ Asian species with medium to large edible fruit include _P. pyrifolia_, _P. ussu
 
 Major recognized taxa
 
-Assortment_of_pears.jpg Pyrus_pyrifolia.jpg, are not "pear-shaped".]]
+, are not "pear-shaped".]]
 
 +--------------------------------------------------------------------------------------------------------------------------+
 | -   _Pyrus amygdaliformis_—Almond-leaved pear                                                                            |
@@ -83,7 +81,7 @@ Assortment_of_pears.jpg Pyrus_pyrifolia.jpg, are not "pear-shaped".]]
 
 Cultivation
 
-Pear_tree_in_Hamedan_Iran.jpg According to Pear Bureau Northwest, about 3000 known varieties of pears are grown worldwide.[8] The pear is normally propagated by grafting a selected variety onto a rootstock, which may be of a pear variety or quince. Quince rootstocks produce smaller trees, which is often desirable in commercial orchards or domestic gardens. For new varieties the flowers can be cross-bred to preserve or combine desirable traits. The fruit of the pear is produced on spurs, which appear on shoots more than one year old.[9]
+According to Pear Bureau Northwest, about 3000 known varieties of pears are grown worldwide.[8] The pear is normally propagated by grafting a selected variety onto a rootstock, which may be of a pear variety or quince. Quince rootstocks produce smaller trees, which is often desirable in commercial orchards or domestic gardens. For new varieties the flowers can be cross-bred to preserve or combine desirable traits. The fruit of the pear is produced on spurs, which appear on shoots more than one year old.[9]
 
 Three species account for the vast majority of edible fruit production, the European pear _Pyrus communis_ subsp. _communis_ cultivated mainly in Europe and North America, the Chinese white pear (_bai li_) _Pyrus ×bretschneideri_, and the Nashi pear _Pyrus pyrifolia_ (also known as Asian pear or apple pear), both grown mainly in eastern Asia. There are thousands of cultivars of these three species. A species grown in western China, _P. sinkiangensis_, and _P. pashia_, grown in southern China and south Asia, are also produced to a lesser degree.
 

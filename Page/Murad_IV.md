@@ -3,8 +3,6 @@ MURAD IV (, _Murād-ı Rābiʿ_; 26/27 July 1612 – 8 February 1640) was the Su
 
 Biography
 
-Murat_IV_with_dishes.jpg
-
 Early reign (1623–32)
 
 Murad IV was for a long time under the control of his relatives and during his early years as Sultan, his mother, Kösem Sultan, essentially ruled through him. The Empire fell into anarchy; the Safavid Empire invaded Iraq almost immediately, Northern Anatolia erupted in revolts, and in 1631 the Janissaries stormed the palace and killed the Grand Vizier, among others. Murad IV feared suffering the fate of his elder brother, Osman II (1618–22), and decided to assert his power.

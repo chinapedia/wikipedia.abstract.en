@@ -9,7 +9,7 @@ In July 2019, the European Council nominated Ursula von der Leyen to succeed Jea
 
 History
 
-Bundesarchiv_B_145_Bild-F028459-0019,_Robert-Schuman-Preis,_Verleihung_an_Walter_Hallstein.jpg, the first President of the Commission]]
+, the first President of the Commission]]
 
 Establishment
 
@@ -17,7 +17,7 @@ The present Commission was established by the Treaty of Rome in 1957; it also re
 
 In 1965, Hallstein put forward his proposals for the Common Agricultural Policy, which would give the Community its own financial resources while giving more power to the Commission and Parliament and removing the veto power over Agriculture in the Council. These proposals led to an immediate backlash from France.[4] Hallstein knew the proposals would be contentious, and took personal charge of drafting them, over-riding the Agriculture Commissioner. However he did gain the support of Parliament through his proposals to increase its powers, and he also presented his policy to Parliament a week before he submitted them to the Council. He aimed to demonstrate how he thought the Community ought to be run, in the hopes of generating a wave of pro-Europeanism big enough to get past the objections of member states. However, in this it proved that, despite its past successes, Hallstein was overconfident in his risky proposals.[5]
 
-Sicco_Mansholt_1946.jpg opened the first enlargement talks with Denmark, Ireland, Norway and the United Kingdom]]
+opened the first enlargement talks with Denmark, Ireland, Norway and the United Kingdom]]
 
 In reaction to Hallstein's proposals and actions, then-French President Charles de Gaulle, who was sceptical of the rising supranational power of the Commission, accused Hallstein of acting as if he were a head of state. France eventually withdrew its representative from the Council, triggering the notorious "empty chair crisis".[6] Although this was resolved under the "Luxembourg compromise", Hallstein became the scapegoat for the crisis. The Council refused to renew his term, despite his being the most 'dynamic' leader until Jacques Delors.[7]
 
@@ -29,20 +29,20 @@ However, owing to problems such as the 1973 oil crisis and the 1979 energy crisi
 
 Presidentialism
 
-Jacques_Delors,_Kurt_Furgler,_Gaston_Thorn,_World_Economic_Forum_1986.jpg (left) breathed new life into the European Commission Presidency after a period of 'eurosclerosis' under his predecessor, Gaston Thorn (right)]] However, the Commission began to recover under President Jacques Delors' Commission. He is seen as the most successful President, being credited with having given the Community a sense of direction and dynamism.[10] The _International Herald Tribune_ noted the work of Delors at the end of his second term in 1992: "Mr. Delors rescued the European Community from the doldrums. He arrived when Europessimism was at its worst. Although he was a little-known (outside France) finance minister and former MEP, he breathed life and hope into the EC and into the dispirited Brussels Commission. In his first term, from 1985 to 1988, he rallied Europe to the call of the single market, and when appointed to a second term he began urging Europeans toward the far more ambitious goals of economic, monetary and political union."[11]
+(left) breathed new life into the European Commission Presidency after a period of 'eurosclerosis' under his predecessor, Gaston Thorn (right)]] However, the Commission began to recover under President Jacques Delors' Commission. He is seen as the most successful President, being credited with having given the Community a sense of direction and dynamism.[10] The _International Herald Tribune_ noted the work of Delors at the end of his second term in 1992: "Mr. Delors rescued the European Community from the doldrums. He arrived when Europessimism was at its worst. Although he was a little-known (outside France) finance minister and former MEP, he breathed life and hope into the EC and into the dispirited Brussels Commission. In his first term, from 1985 to 1988, he rallied Europe to the call of the single market, and when appointed to a second term he began urging Europeans toward the far more ambitious goals of economic, monetary and political union."[11]
 
 But Delors not only turned the Community around, he signalled a change in the Presidency. Before he came to power, the Commission President still was a position of first among equals; when he left office, he was the undisputed icon and leader of the Community. His tenure had produced a strong Presidency and a strong Commission as the President became more important. Following treaties cemented this change, with the President being given control over the allocation of portfolios and being able to force the resignation of Commissioners. When President Romano Prodi took office with the new powers of the Treaty of Amsterdam, he was dubbed by the press as Europe's first Prime Minister.[12][13] President Delors' work had increased the powers of Parliament, whose support he had enjoyed. However, later Commissions did not enjoy the same support, and in 1999, the European Parliament used its powers to force the Santer Commission to resign.
 
 Parliamentary oversight
 
-Vladimir_Putin_with_Romano_Prodi-1.jpg was dubbed by the press as "Europe's first Prime Minister" due to his new powers]] Historically, the Council appointed the Commission President and the whole body by unanimity without input from Parliament. However, with the Treaty on European Union in 1993, the European Parliament, the body elected directly by the citizens of the European Union,[14] gained the right to be 'consulted' on the appointment of the President and to veto the Commission as a whole. Parliament decided to interpret its right to be consulted as a right to veto the President, which the Council reluctantly accepted This right of veto was formalised in the Amsterdam Treaty. The Treaty of Nice changed the Council's vote from a unanimous choice to one that merely needed a qualified majority. This meant that the weight of the Parliament in the process increased resulting in a quasi-parliamentary system where one group could be 'in government'. This became evident when numerous candidates were put forward in 2004, and a centre-right vote won out over left-wing groups, France and Germany. José Manuel Barroso, elected Commission President that year, was then forced to back down over his choice of Commissioners, owing to Parliament's threat that it would not approve his Commission.
+was dubbed by the press as "Europe's first Prime Minister" due to his new powers]] Historically, the Council appointed the Commission President and the whole body by unanimity without input from Parliament. However, with the Treaty on European Union in 1993, the European Parliament, the body elected directly by the citizens of the European Union,[14] gained the right to be 'consulted' on the appointment of the President and to veto the Commission as a whole. Parliament decided to interpret its right to be consulted as a right to veto the President, which the Council reluctantly accepted This right of veto was formalised in the Amsterdam Treaty. The Treaty of Nice changed the Council's vote from a unanimous choice to one that merely needed a qualified majority. This meant that the weight of the Parliament in the process increased resulting in a quasi-parliamentary system where one group could be 'in government'. This became evident when numerous candidates were put forward in 2004, and a centre-right vote won out over left-wing groups, France and Germany. José Manuel Barroso, elected Commission President that year, was then forced to back down over his choice of Commissioners, owing to Parliament's threat that it would not approve his Commission.
 
 In 2009, the European People's Party endorsed Barroso as its candidate for Commission President, and the EPP subsequently retained its position as largest party in that year's election. The Socialists responded by pledging to put forward a rival candidate at future elections.[15] Once again, Barroso was forced by Parliament to make a change to his proposed Commission,[16] but eventually received assent. However, in exchange for approval, Parliament forced some concessions from Barroso in terms of Parliamentary representation at Commission and international meetings.[17] On 7 September 2010, Barroso gave the first US-style State of the Union address to Parliament; which focused primarily on the EU's economic recovery and human rights. The speech was to be annual.[18]
 
 
 Appointment
 
-Flickr_-_europeanpeoplesparty_-_EPP_Congress_Warsaw_(290).jpg, from the EPP which was the largest party after the 2004 and 2009 elections]] Article 17 of the Treaty on European Union, as amended by the Treaty of Lisbon, lays out the procedure for appointing the President and their team. The European Council votes by qualified majority for a nominee for the post of President, taking account of the latest European elections. This proposal is then put before Parliament which must approve or veto the appointment. If an absolute majority of MEPs support the nominee, they are elected. The President then, together with the Council, puts forward their team to the Parliament to be scrutinised. The Parliament normally insists that each one of them appear before the parliamentary committee that corresponds to their prospective portfolio for a public hearing. The Parliament then votes on the Commission as a whole; if approved, the European Council, acting by a qualified majority, appoints the President and their team to office.[19]
+, from the EPP which was the largest party after the 2004 and 2009 elections]] Article 17 of the Treaty on European Union, as amended by the Treaty of Lisbon, lays out the procedure for appointing the President and their team. The European Council votes by qualified majority for a nominee for the post of President, taking account of the latest European elections. This proposal is then put before Parliament which must approve or veto the appointment. If an absolute majority of MEPs support the nominee, they are elected. The President then, together with the Council, puts forward their team to the Parliament to be scrutinised. The Parliament normally insists that each one of them appear before the parliamentary committee that corresponds to their prospective portfolio for a public hearing. The Parliament then votes on the Commission as a whole; if approved, the European Council, acting by a qualified majority, appoints the President and their team to office.[19]
 
 Transparency
 
@@ -88,7 +88,7 @@ There have been plans to strengthen the European political parties[32] in order 
 
 The Socialists, disappointed at the 2009 election, agreed to put forward a candidate for Commission President at all subsequent elections.[36] After a campaign within that party to have open primaries for said candidate,[37] the PES Congress gathering in Brussels in November 2011 decided that PES would designate its candidate for Commission president through primaries took place in January 2014 in each of its member parties and organisations,[38] before a ratification of the results by an Extraordinary PES Congress in February 2014.
 
-Laophorium_Ioannis_Claudii_Juncker_anno_2014.jpg depicted).]] The (German for 'lead candidate') process is the method of linking European Parliament elections by having each major political group in Parliament nominating their candidate for Commission President prior to the Parliamentary elections. The of the largest party would then have a mandate to assume the Commission Presidency. This process was first run in 2014 and its legitimacy was contested by the Council.
+depicted).]] The (German for 'lead candidate') process is the method of linking European Parliament elections by having each major political group in Parliament nominating their candidate for Commission President prior to the Parliamentary elections. The of the largest party would then have a mandate to assume the Commission Presidency. This process was first run in 2014 and its legitimacy was contested by the Council.
 
 Background
 
@@ -136,7 +136,7 @@ The MEP and author of several EU text books Richard Corbett has suggested that, 
 
 Relationship to the President of the European Council
 
-Flickr_-_europeanpeoplesparty_-_EPP_Summit_March_2010_(31).jpg Despite the recent presidential style, the president has also begun to lose ground to the larger member states as countries such as France, Italy, the UK and Germany seek to sideline its role. This may increase with the recent creation of the permanent President of the European Council.[60] There has been disagreement and concern over competition between the President of the European Council Van Rompuy and the Commission President Barroso due to the vague language of the treaty. Some clarifications see Van Rompuy as the "strategist" and Barroso as a head of government. In terms of economic planning Van Rompuy saw the Commission as dealing with the content of the plan and the European Council as dealing with the means and implementing it. Despite weekly breakfasts together there was a certain extent of rivalry between the two, as well as with the High Representative.[61][62][63] At international summits, both Presidents go at the same time to represent the Union, with, in principle, the Commission President speaking on economic questions and the European Council President on political questions, although this division is often hard to maintain in practice.
+Despite the recent presidential style, the president has also begun to lose ground to the larger member states as countries such as France, Italy, the UK and Germany seek to sideline its role. This may increase with the recent creation of the permanent President of the European Council.[60] There has been disagreement and concern over competition between the President of the European Council Van Rompuy and the Commission President Barroso due to the vague language of the treaty. Some clarifications see Van Rompuy as the "strategist" and Barroso as a head of government. In terms of economic planning Van Rompuy saw the Commission as dealing with the content of the plan and the European Council as dealing with the means and implementing it. Despite weekly breakfasts together there was a certain extent of rivalry between the two, as well as with the High Representative.[61][62][63] At international summits, both Presidents go at the same time to represent the Union, with, in principle, the Commission President speaking on economic questions and the European Council President on political questions, although this division is often hard to maintain in practice.
 
 Although there are concerns that this competition with the new European Council President would lead to increased infighting,[64] there are provisions for combining the two offices. The European Council President may not hold a national office, such as a Prime Minister of a member state, but there is no such restraint on European offices. So the Commission President, who already sits in the European Council, could also be appointed as its president. This would allow the European Council to combine the position, with its powers, of both executive bodies into a single President of the European Union.[65]
 
@@ -154,56 +154,56 @@ Prior to the Merger Treaty
 
 High Authority of the European Coal and Steel Community (1952–1967)
 
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
-| Portrait | Name                              | Term of office   | Tenure            | Authority         | Party | Group      | Country     |
-|          | (birth–death)                     |                  |                   |                   |       |            |             |
-+==========+===================================+==================+===================+===================+=======+============+=============+
-|          |                                   | JEAN MONNET      | 10 August 1952    | 3 June 1955       |       | Monnet     | Independent |
-|          |                                   | (1888–1979)      |                   |                   |       |            |             |
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
-|          | Rene_Mayer.jpg                    | RENÉ MAYER       | 3 June 1955       | 13 January 1958   |       | Mayer      | PR          |
-|          |                                   | (1895–1972)      |                   |                   |       |            |             |
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
-|          | Paul_Finet_crop.jpg               | PAUL FINET       | 13 January 1958   | 15 September 1959 |       | Finet      | Independent |
-|          |                                   | (1897–1965)      |                   |                   |       |            |             |
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
-|          | Piero_Malvestiti_crop.jpg         | PIERO MALVESTITI | 15 September 1959 | 22 October 1963   |       | Malvestiti | DC          |
-|          |                                   | (1899–1964)      |                   |                   |       |            |             |
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
-|          | Rinaldo_Del_Bo.jpg                | RINALDO DEL BO   | 22 October 1963   | 1 March 1967      |       | Del Bo     | DC          |
-|          |                                   | (1916–1991)      |                   |                   |       |            |             |
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
-|          | Albert_Coppé_(1967)_(cropped).jpg | ALBERT COPPÉ     | 1 March 1967      | 5 July 1967       |       | Coppé      | CD&V        |
-|          |                                   | (1911–1999)      |                   |                   |       |            |             |
-+----------+-----------------------------------+------------------+-------------------+-------------------+-------+------------+-------------+
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
+| Portrait | Name          | Term of office   | Tenure            | Authority         | Party | Group      | Country     |
+|          | (birth–death) |                  |                   |                   |       |            |             |
++==========+===============+==================+===================+===================+=======+============+=============+
+|          |               | JEAN MONNET      | 10 August 1952    | 3 June 1955       |       | Monnet     | Independent |
+|          |               | (1888–1979)      |                   |                   |       |            |             |
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
+|          |               | RENÉ MAYER       | 3 June 1955       | 13 January 1958   |       | Mayer      | PR          |
+|          |               | (1895–1972)      |                   |                   |       |            |             |
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
+|          |               | PAUL FINET       | 13 January 1958   | 15 September 1959 |       | Finet      | Independent |
+|          |               | (1897–1965)      |                   |                   |       |            |             |
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
+|          |               | PIERO MALVESTITI | 15 September 1959 | 22 October 1963   |       | Malvestiti | DC          |
+|          |               | (1899–1964)      |                   |                   |       |            |             |
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
+|          |               | RINALDO DEL BO   | 22 October 1963   | 1 March 1967      |       | Del Bo     | DC          |
+|          |               | (1916–1991)      |                   |                   |       |            |             |
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
+|          |               | ALBERT COPPÉ     | 1 March 1967      | 5 July 1967       |       | Coppé      | CD&V        |
+|          |               | (1911–1999)      |                   |                   |       |            |             |
++----------+---------------+------------------+-------------------+-------------------+-------+------------+-------------+
 
 Commission of the European Atomic Energy Community (1958–1967)
 
-+----------+---------------------------------------------+-----------------+-----------------+-----------------+-------+----------+-------------+
-| Portrait | Name                                        | Term of office  | Tenure          | Commission      | Party | Group    | Country     |
-|          | (birth–death)                               |                 |                 |                 |       |          |             |
-+==========+=============================================+=================+=================+=================+=======+==========+=============+
-|          | European_Union_politic_personality_icon.svg | LOUIS ARMAND    | 7 January 1958  | 2 February 1959 |       | Armand   | Independent |
-|          |                                             | (1905–1971)     |                 |                 |       |          |             |
-+----------+---------------------------------------------+-----------------+-----------------+-----------------+-------+----------+-------------+
-|          | Étienne_Hirsch_(1901-1994).png              | ÉTIENNE HIRSCH  | 2 February 1959 | 10 January 1962 |       | Hirsch   | Independent |
-|          |                                             | (1901–1994)     |                 |                 |       |          |             |
-+----------+---------------------------------------------+-----------------+-----------------+-----------------+-------+----------+-------------+
-|          | European_Union_politic_personality_icon.svg | PIERRE CHATENET | 10 January 1962 | 5 July 1967     |       | Chatenet | Independent |
-|          |                                             | (1917–1997)     |                 |                 |       |          |             |
-+----------+---------------------------------------------+-----------------+-----------------+-----------------+-------+----------+-------------+
-|          |                                             |                 |                 |                 |       |          |             |
-+----------+---------------------------------------------+-----------------+-----------------+-----------------+-------+----------+-------------+
++----------+---------------+-----------------+-----------------+-----------------+-------+----------+-------------+
+| Portrait | Name          | Term of office  | Tenure          | Commission      | Party | Group    | Country     |
+|          | (birth–death) |                 |                 |                 |       |          |             |
++==========+===============+=================+=================+=================+=======+==========+=============+
+|          |               | LOUIS ARMAND    | 7 January 1958  | 2 February 1959 |       | Armand   | Independent |
+|          |               | (1905–1971)     |                 |                 |       |          |             |
++----------+---------------+-----------------+-----------------+-----------------+-------+----------+-------------+
+|          |               | ÉTIENNE HIRSCH  | 2 February 1959 | 10 January 1962 |       | Hirsch   | Independent |
+|          |               | (1901–1994)     |                 |                 |       |          |             |
++----------+---------------+-----------------+-----------------+-----------------+-------+----------+-------------+
+|          |               | PIERRE CHATENET | 10 January 1962 | 5 July 1967     |       | Chatenet | Independent |
+|          |               | (1917–1997)     |                 |                 |       |          |             |
++----------+---------------+-----------------+-----------------+-----------------+-------+----------+-------------+
+|          |               |                 |                 |                 |       |          |             |
++----------+---------------+-----------------+-----------------+-----------------+-------+----------+-------------+
 
 Commission of the European Economic Community (1958–1967)
 
-+----------+------------------------------------------------------------+------------------+----------------+-------------+-------+-----------+---------+
-| Portrait | Name                                                       | Term of office   | Tenure         | Commission  | Party | Group     | Country |
-|          | (birth–death)                                              |                  |                |             |       |           |         |
-+==========+============================================================+==================+================+=============+=======+===========+=========+
-|          | Bundesarchiv_B_145_Bild-F004665-0003,_Walter_Hallstein.jpg | WALTER HALLSTEIN | 1 January 1958 | 5 July 1967 |       | Hallstein | CDU     |
-|          |                                                            | (1901–1982)      |                |             |       |           |         |
-+----------+------------------------------------------------------------+------------------+----------------+-------------+-------+-----------+---------+
++----------+---------------+------------------+----------------+-------------+-------+-----------+---------+
+| Portrait | Name          | Term of office   | Tenure         | Commission  | Party | Group     | Country |
+|          | (birth–death) |                  |                |             |       |           |         |
++==========+===============+==================+================+=============+=======+===========+=========+
+|          |               | WALTER HALLSTEIN | 1 January 1958 | 5 July 1967 |       | Hallstein | CDU     |
+|          |               | (1901–1982)      |                |             |       |           |         |
++----------+---------------+------------------+----------------+-------------+-------+-----------+---------+
 
 After the Merger Treaty
 
@@ -215,51 +215,51 @@ Upon its entry into force in 2009, the Treaty of Lisbon renamed the Commission o
 
 Parties
 
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-| Portrait | Name                                                                                                | Term of office           | Tenure                               | Commission          | Party | Group    | Country | Electoral mandate |
-|          | (birth–death)                                                                                       |                          |                                      |                     |       |          |         |                   |
-+==========+=====================================================================================================+==========================+======================================+=====================+=======+==========+=========+===================+
-|          | Jean_Rey_World_Economic_Forum_1975.jpg                                                              | JEAN REY                 | 6 July 1967[68]                      | 1 July 1970         |       | Rey      | PRL     | LIB               |
-|          |                                                                                                     | (1902–1983)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Franco_Maria_Malfatti_crop.jpg                                                                      | FRANCO MARIA MALFATTI    | 2 July 1970[69]                      | 21 March 1972       |       | Malfatti | DC      | CD                |
-|          |                                                                                                     | (1927–1991)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Sicco_Mansholt_1974_(1).jpg                                                                         | SICCO MANSHOLT           | 22 March 1972[70][71]                | 5 January 1973      |       | Mansholt | PvdA    | SOC               |
-|          |                                                                                                     | (1908–1995)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Franciscus_Xavierus_Ortoli.jpg                                                                      | FRANÇOIS-XAVIER ORTOLI   | 6 January 1973[72][73]               | 5 January 1977      |       | Ortoli   | UDR     | EPD               |
-|          |                                                                                                     | (1925–2007)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Roy_Jenkins_1977b.jpg                                                                               | ROY JENKINS              | 6 January 1977[74][75]               | 5 January 1981      |       | Jenkins  | Lab     | SOC               |
-|          |                                                                                                     | (1920–2003)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Thorn_Van_Agt_1980_cropped.jpg                                                                      | GASTON THORN             | 6 January 1981[76]                   | 5 January 1985      |       | Thorn    | DP      | LD                |
-|          |                                                                                                     | (1928–2007)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Bundesarchiv_B_145_Bild-F078267-0023,_Bonn,_Ministerpräsidenten_mit_EU-Kommissar_Delors-CROPPED.jpg | JACQUES DELORS           | 6 January 1985[77]                   | 22 January 1995     |       | Delors   | PS      | SOC               |
-|          |                                                                                                     | (born 1925)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Jacques_Santer.jpg                                                                                  | JACQUES SANTER           | 23 January 1995[78]                  | 15 March 1999       |       | Santer   | CSV     | EPP               |
-|          |                                                                                                     | (born 1937)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Immanuel_Marín_die_23_Novembris_2009.jpg                                                            | MANUEL MARÍN _(interim)_ | 15 March 1999                        | 15 September 1999   |       | PSOE     | SOC     |                   |
-|          |                                                                                                     | (1949–2017)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Romano_Prodi_in_Nova_Gorica_(2c).jpg                                                                | ROMANO PRODI             | 16 September 1999[79]                | 21 November 2004    |       | Prodi    | Dem     | ELDR              |
-|          |                                                                                                     | (born 1939)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Barroso_EPP_Summit_October_2010.jpg                                                                 | JOSÉ MANUEL BARROSO      | 22 November 2004[80]                 | 31 October 2014[81] |       | Barroso  | PSD     | EPP               |
-|          |                                                                                                     | (born 1956)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | Ioannes_Claudius_Juncker_die_7_Martis_2014.jpg                                                      | JEAN-CLAUDE JUNCKER      | 1 November 2014                      | Incumbent           |       | Juncker  | CSV     | EPP               |
-|          |                                                                                                     | (born 1954)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          | (Ursula_von_der_Leyen)_2019.07.16._Ursula_von_der_Leyen_presents_her_vision_to_MEPs_2_(cropped).jpg | _URSULA VON DER LEYEN_   | _Assuming office on 1 November 2019_ | CDU                 | EPP   |          | 2019    |                   |
-|          |                                                                                                     | (born 1958)              |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
-|          |                                                                                                     |                          |                                      |                     |       |          |         |                   |
-+----------+-----------------------------------------------------------------------------------------------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+| Portrait | Name          | Term of office           | Tenure                               | Commission          | Party | Group    | Country | Electoral mandate |
+|          | (birth–death) |                          |                                      |                     |       |          |         |                   |
++==========+===============+==========================+======================================+=====================+=======+==========+=========+===================+
+|          |               | JEAN REY                 | 6 July 1967[68]                      | 1 July 1970         |       | Rey      | PRL     | LIB               |
+|          |               | (1902–1983)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | FRANCO MARIA MALFATTI    | 2 July 1970[69]                      | 21 March 1972       |       | Malfatti | DC      | CD                |
+|          |               | (1927–1991)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | SICCO MANSHOLT           | 22 March 1972[70][71]                | 5 January 1973      |       | Mansholt | PvdA    | SOC               |
+|          |               | (1908–1995)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | FRANÇOIS-XAVIER ORTOLI   | 6 January 1973[72][73]               | 5 January 1977      |       | Ortoli   | UDR     | EPD               |
+|          |               | (1925–2007)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | ROY JENKINS              | 6 January 1977[74][75]               | 5 January 1981      |       | Jenkins  | Lab     | SOC               |
+|          |               | (1920–2003)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | GASTON THORN             | 6 January 1981[76]                   | 5 January 1985      |       | Thorn    | DP      | LD                |
+|          |               | (1928–2007)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | JACQUES DELORS           | 6 January 1985[77]                   | 22 January 1995     |       | Delors   | PS      | SOC               |
+|          |               | (born 1925)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | JACQUES SANTER           | 23 January 1995[78]                  | 15 March 1999       |       | Santer   | CSV     | EPP               |
+|          |               | (born 1937)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | MANUEL MARÍN _(interim)_ | 15 March 1999                        | 15 September 1999   |       | PSOE     | SOC     |                   |
+|          |               | (1949–2017)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | ROMANO PRODI             | 16 September 1999[79]                | 21 November 2004    |       | Prodi    | Dem     | ELDR              |
+|          |               | (born 1939)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | JOSÉ MANUEL BARROSO      | 22 November 2004[80]                 | 31 October 2014[81] |       | Barroso  | PSD     | EPP               |
+|          |               | (born 1956)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | JEAN-CLAUDE JUNCKER      | 1 November 2014                      | Incumbent           |       | Juncker  | CSV     | EPP               |
+|          |               | (born 1954)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               | _URSULA VON DER LEYEN_   | _Assuming office on 1 November 2019_ | CDU                 | EPP   |          | 2019    |                   |
+|          |               | (born 1958)              |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
+|          |               |                          |                                      |                     |       |          |         |                   |
++----------+---------------+--------------------------+--------------------------------------+---------------------+-------+----------+---------+-------------------+
 
 Timeline
 

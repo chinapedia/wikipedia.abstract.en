@@ -19,8 +19,6 @@ The New National Defense Act of 2008 was approved on August 21, 2008. It repeals
 
 History
 
-Luncheon_for_Liberian_president's_party.jpg
-
 The modern Armed Forces of Liberia grew out of a militia that was formed by the first black colonists from the United States. The militia was first formed when in August 1822 an attack was feared on Cape Mesurado (where Monrovia now is) and the agent of the settlements directed the mobilization of all "able-bodied males into a militia and declared martial law."[6] By 1846, the size of the militia had grown to two regiments.[7] Following independence in 1847, the militia continued to serve as the country's defense force. In 1900, Liberian men between the ages of sixteen and fifty were considered liable for service in the militia. The militia also had a navy consisting of two small gunboats.[8] In the 1850s, the Liberian president requested naval support from the British government to transport Liberian troops to the Gallinas territory to punish Liberians there who persisted in slave trafficking.[9]
 
 On February 6, 1908, the militia was established on a permanent basis as the 500-strong Liberian Frontier Force (LFF). The LFF's original mission was "to patrol the border in the Hinterland [against British and French territorial ambitions] and to prevent disorders."[10] The LFF was initially placed under the command of a British major, who was quickly replaced after he complained the Force was not being properly paid.[11]
@@ -67,7 +65,7 @@ When William Tolbert replaced the long-serving William Tubman as President in 19
 
 Doe regime (1980–1990)
 
-Secretary_of_Defense_Caspar_W._Weinberger_-_Samuel_K._Doe.jpg with United States Secretary of Defense Caspar Weinberger during a visit to Washington DC in 1982]] The AFL became involved in politics when seventeen soldiers launched a coup on April 12, 1980. The group was made up of Master Sergeant Samuel Doe, two staff sergeants, four sergeants, eight corporals, and two privates.[51] They found President Tolbert sleeping in his office in the Executive Mansion and there they killed him. While then-Sergeant Thomas Quiwonkpa led the plotters, it was the group led by Samuel Doe that found Tolbert in his office, and it was Doe, as a master sergeant the highest ranking of the group, who went on the radio the next day to announce the overthrow of the long-entrenched True Whig Party government.[52]
+with United States Secretary of Defense Caspar Weinberger during a visit to Washington DC in 1982]] The AFL became involved in politics when seventeen soldiers launched a coup on April 12, 1980. The group was made up of Master Sergeant Samuel Doe, two staff sergeants, four sergeants, eight corporals, and two privates.[51] They found President Tolbert sleeping in his office in the Executive Mansion and there they killed him. While then-Sergeant Thomas Quiwonkpa led the plotters, it was the group led by Samuel Doe that found Tolbert in his office, and it was Doe, as a master sergeant the highest ranking of the group, who went on the radio the next day to announce the overthrow of the long-entrenched True Whig Party government.[52]
 
 Doe became Head of State and co-chair of the new People's Redemption Council government. Quiwonkpa became commander of the army and the other co-chair of the PRC. (In the aftermath of the coup, the title of LNG Brigade commanding general was confusingly changed to commanding general of the AFL, reporting to the chief of staff, and it was this position that Quiwonkpa inherited.)[53]
 
@@ -121,7 +119,7 @@ As a result of the Civil War, all aircraft, equipment, materiel, and facilities 
 
 Rebuilding the AFL
 
-AFL_soldiers_2008.jpg in 2008]] Part 4 (Articles VI and VII) of the August 2003 Accra Comprehensive Peace Agreement (CPA) which ended the Second Liberian Civil War addressed security sector reform.[94] It declared that future recruits for the new AFL would be screened for their fitness for service as well as prior human rights violations, that the new force would be ethnically balanced and without political bias, and that the new force's mission would be to defend national sovereignty and "in extremis" respond to natural disasters.[95]
+in 2008]] Part 4 (Articles VI and VII) of the August 2003 Accra Comprehensive Peace Agreement (CPA) which ended the Second Liberian Civil War addressed security sector reform.[94] It declared that future recruits for the new AFL would be screened for their fitness for service as well as prior human rights violations, that the new force would be ethnically balanced and without political bias, and that the new force's mission would be to defend national sovereignty and "in extremis" respond to natural disasters.[95]
 
 By March 1, 2005, over a year after the war ended, the United Nations Mission in Liberia (UNMIL) had disarmed and demobilized 103,018 people[96] who claimed to have fought for former president Charles Taylor or the two rebel groups, Liberians United for Reconciliation and Democracy (LURD) or the Movement for Democracy in Liberia (MODEL). That year most former AFL elements were concentrated at Camp Schiefflin.[97] The previous AFL personnel, including those of the Navy and Air Force, were slowly retired with pensions obtained by the MND and international partners from a number of international donors.[98]
 
@@ -129,7 +127,7 @@ In 2005, the United States provided funding for DynCorp International and Pacifi
 
 The Minister of Defense that President Ellen Johnson Sirleaf appointed in early 2006, Brownie Samukai, had a good public reputation.[103]
 
-Major_Keith_Vital_with_AFL_big.jpg officer speaks to AFL troops during a 2009 training exercise.]] There appears to be some lack of coordination, at least according to the Wall Street Journal, between the Ministry of National Defense and DynCorp, who is training the new army. The newspaper said in an August 2007 report:
+officer speaks to AFL troops during a 2009 training exercise.]] There appears to be some lack of coordination, at least according to the Wall Street Journal, between the Ministry of National Defense and DynCorp, who is training the new army. The newspaper said in an August 2007 report:
 
   Mr. Samukai also complains that he feels sidelined from the formation of an army that, as defense minister, he is supposed to oversee. Neither the State Department nor DynCorp will let him see the company's contract, for instance. And the U.S. insists that instead of talking directly to DynCorp managers, he go through Major Wyatt [chief of the Office of Defense Cooperation at the U.S. Embassy in Monrovia] on all matters related to the training.[104]
 
@@ -161,7 +159,7 @@ During January 2019 the Ministry of National Defense announced plans to send a p
 
 Organization
 
-Liberian_training_visit_to_USA.jpg The Liberian ground forces currently consist of two infantry battalions and supporting units. The 1st Battalion, 23rd Infantry Brigade, was formed on August 29, 2008, at the Barclay Training Center in Monrovia,[127] and the 2nd Battalion, 23rd Infantry Brigade in December that year. Both battalions are currently based at the former Camp Schiefflin, which has now been renamed the Edward Binyah Kesselly Barracks, often known simply as 'EBK Barracks.'[128]
+The Liberian ground forces currently consist of two infantry battalions and supporting units. The 1st Battalion, 23rd Infantry Brigade, was formed on August 29, 2008, at the Barclay Training Center in Monrovia,[127] and the 2nd Battalion, 23rd Infantry Brigade in December that year. Both battalions are currently based at the former Camp Schiefflin, which has now been renamed the Edward Binyah Kesselly Barracks, often known simply as 'EBK Barracks.'[128]
 
 As a result of the concentration of troops at EBK, the camp is overcrowded, and disturbances among the soldiers have occurred.[129] As of mid-2009, the Ministry of Defense is attempting to alleviate the problem by relocating some personnel to Camp Tubman in Gbarnga.[130]
 
@@ -169,7 +167,7 @@ The two battalions and supporting units went through training and preparation fo
 
   "..The first battalion started the United States Army Training and Evaluation Programme, which it will complete in September [2009], while the second battalion will complete the programme in December [2009]. At that time, the United States contractors currently training and equipping the force will hand over to the Ministry of National Defense, which will assume responsibility for training and standing up the new army. The United States has indicated that it plans to assign as many as 60 United States serving military personnel to continue mentoring the Armed Forces of Liberia, beginning in January 2010."[135]
 
-Liberian_Coast_Guard_formation.png, Command Officer-in-Charge of the AFL, hands over a new Guidon to the reactivated Coast Guard.]] As of December 2010, a Logistics Command is being established within the AFL, taking the same name as a pre-Civil War AFL formation.[136]
+, Command Officer-in-Charge of the AFL, hands over a new Guidon to the reactivated Coast Guard.]] As of December 2010, a Logistics Command is being established within the AFL, taking the same name as a pre-Civil War AFL formation.[136]
 
 Colonel Eric Wayma Dennis was appointed Deputy Chief of Staff on 11 February 2013 and served in that position until his death, of natural causes, on 8 August 2016.[137] Dennis was a pre-Civil War officer who rejoined in 2006 and re-rose to the rank of colonel. Dennis replaced Col. Daniel Moore as Deputy Chief of Staff.[138] Lt. Col. Prince Charles Johnson III was promoted to Brig. Gen. and appointed Deputy Chief of Staff on 14 November 2016.[139]
 

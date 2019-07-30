@@ -1,4 +1,4 @@
-maya.svg The MAYAN NUMERAL SYSTEM was the system to represent numbers and calendar dates in the Maya civilization. It was a vigesimal (base-20) positional numeral system. The numerals are made up of three symbols; zero (shell shape, with the plastron uppermost), one (a dot) and five (a bar). For example, thirteen is written as three dots in a horizontal row above two horizontal bars; sometimes it is also written as three vertical dots to the left of two vertical bars. With these three symbols each of the twenty vigesimal digits could be written.
+The MAYAN NUMERAL SYSTEM was the system to represent numbers and calendar dates in the Maya civilization. It was a vigesimal (base-20) positional numeral system. The numerals are made up of three symbols; zero (shell shape, with the plastron uppermost), one (a dot) and five (a bar). For example, thirteen is written as three dots in a horizontal row above two horizontal bars; sometimes it is also written as three vertical dots to the left of two vertical bars. With these three symbols each of the twenty vigesimal digits could be written.
 
 +------+----+-----+------+
 | 400s |    |     |      |
@@ -20,19 +20,17 @@ __TOC__
 Addition and subtraction
 
 Adding and subtracting numbers below 20 using Maya numerals is very simple. Addition is performed by combining the numeric symbols at each level:
-Maya_add.png
 
 If five or more dots result from the combination, five dots are removed and replaced by a bar. If four or more bars result, four bars are removed and a dot is added to the next higher row.
 
 Similarly with subtraction, remove the elements of the subtrahend symbol from the minuend symbol:
-Mayan_subtract.png
 
 If there are not enough dots in a minuend position, a bar is replaced by five dots. If there are not enough bars, a dot is removed from the next higher minuend symbol in the column and four bars are added to the minuend symbol which is being worked on.
 
 
 Modified vigesimal system in the Maya calendar
 
-La_Mojarra_Estela_1_(Escritura_superior).jpg. The left column uses Maya numerals to show a Long Count date of 8.5.16.9.7, or 156 CE.]] The "Long Count" portion of the Maya calendar uses a variation on the strictly vigesimal numbering. In the second position, only the digits up to 17 are used, and the place value of the third position is not 20×20 = 400, as would otherwise be expected, but 18×20 = 360, so that one dot over two zeros signifies 360. Presumably, this is because 360 is roughly the number of days in a year. (The Maya had however a quite accurate estimation of 365.2422 days for the solar year at least since the early Classic era.)[2] Subsequent positions use all twenty digits and the place values continue as 18×20×20 = 7,200 and 18×20×20×20 = 144,000, etc.
+. The left column uses Maya numerals to show a Long Count date of 8.5.16.9.7, or 156 CE.]] The "Long Count" portion of the Maya calendar uses a variation on the strictly vigesimal numbering. In the second position, only the digits up to 17 are used, and the place value of the third position is not 20×20 = 400, as would otherwise be expected, but 18×20 = 360, so that one dot over two zeros signifies 360. Presumably, this is because 360 is roughly the number of days in a year. (The Maya had however a quite accurate estimation of 365.2422 days for the solar year at least since the early Classic era.)[2] Subsequent positions use all twenty digits and the place values continue as 18×20×20 = 7,200 and 18×20×20×20 = 144,000, etc.
 
 Every known example of large numbers in the Maya system uses this 'modified vigesimal' system, with the third position representing multiples of 18×20. It is reasonable to assume, but not proven by any evidence, that the normal system in use was a pure base-20 system.
 

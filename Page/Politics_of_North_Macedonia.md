@@ -22,8 +22,6 @@ Although in Macedonian, these roles have very similar titles ( "President of the
 
 The President
 
-Coat_of_arms_of_the_President_of_North_Macedonia.svg
-
 -   cannot hold any other public office or position in a political party
 -   is elected for a 5-year term and can serve a maximum of two terms
 -   is Commander-in-Chief of the Armed Forces and President of the Security Council
@@ -51,34 +49,34 @@ Current Cabinet
 The current cabinet is a coalition of SDSM, the Democratic Union for Integration, the New Social Democratic Party, Liberal Democratic Party, Alliance for Albanians, Party for the Full Emancipation of the Roma of Macedonia, and the Party for the Movement of Turks in Macedonia. The members of the Cabinet of North Macedonia are chosen by the Prime Minister and approved by the national Parliament, however certain cabinet level positions are chosen by both President and Prime Minister, and approved by the Parliament.
 
   Member                      Portfolio                                                                           Logo
-  --------------------------- ----------------------------------------------------------------------------------- ------------------------------------------------------
+  --------------------------- ----------------------------------------------------------------------------------- ------
   Zoran Zaev                  Prime Minister
   Dragan Tevdovski            Minister of Finance
-  Hasbi Lika                  Deputy Prime Minister in charge of Framework Agreement Implementation               Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Koco Angjusev               Deputy Prime Minister in charge of Economic Affairs                                 Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Bujar Osmani                Deputy Prime Minister in charge of European Integration                             Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Nikola Dimitrov             Minister of Foreign Affairs                                                         Logo_na_MNR.svg
+  Hasbi Lika                  Deputy Prime Minister in charge of Framework Agreement Implementation
+  Koco Angjusev               Deputy Prime Minister in charge of Economic Affairs
+  Bujar Osmani                Deputy Prime Minister in charge of European Integration
+  Nikola Dimitrov             Minister of Foreign Affairs
   Radmila Sekerinska          Deputy Prime Minister and Minister of Defense
   Oliver Spasovski            Minister of Internal Affairs
-  Renata Deskoska             Minister of Justice                                                                 Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Goran Sugareski             Minister of Transport and Communication                                             Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Kreshnik Bekteshi           Minister of Economy                                                                 Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Trajan Dimkovski            Minister of Agriculture, Forestry and Watersupply                                   Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Venko Filipce               Minister of Health                                                                  Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Arbr Ademi                  Minister of Education and Science                                                   Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Damjan Mancevski            Minister of Information Society and Administration                                  Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Goran Milevski              Minister of Local Self-Government                                                   Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Hysni Ismaili               Minister of Culture                                                                 Logo_na_Ministerstvo_za_kultura.svg
-  Mila Carovska               Minister of Labor and Social Policy                                                 Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Naser Nuredini              Minister of Environment and Physical Planning                                       Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Elvin Hasan                 Minister without Portfolio for Attracting foreign investment                        Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Bardul Dauti                Minister without Portfolio                                                          Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Zoran Sapuric               Minister without Portfolio to improve investment climate for domestic enterprises   Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Zorica Apostolska           Minister without Portfolio                                                          Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
+  Renata Deskoska             Minister of Justice
+  Goran Sugareski             Minister of Transport and Communication
+  Kreshnik Bekteshi           Minister of Economy
+  Trajan Dimkovski            Minister of Agriculture, Forestry and Watersupply
+  Venko Filipce               Minister of Health
+  Arbr Ademi                  Minister of Education and Science
+  Damjan Mancevski            Minister of Information Society and Administration
+  Goran Milevski              Minister of Local Self-Government
+  Hysni Ismaili               Minister of Culture
+  Mila Carovska               Minister of Labor and Social Policy
+  Naser Nuredini              Minister of Environment and Physical Planning
+  Elvin Hasan                 Minister without Portfolio for Attracting foreign investment
+  Bardul Dauti                Minister without Portfolio
+  Zoran Sapuric               Minister without Portfolio to improve investment climate for domestic enterprises
+  Zorica Apostolska           Minister without Portfolio
   Anita Angelovska-Bezhoska   Governor of the National Bank of the Republic of North Macedonia
-  Ljupco Shvrgovski           Attorney General                                                                    Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
-  Vasko Gjurcinovski          Chief of the General Staff of the Army of the Republic of North Macedonia           MacedonianArmyLogo.svg
-  Zoran Jolevski              Special Envoy and Chief Negotiator of the Macedonia name dispute                    Coat_of_arms_of_the_Republic_of_Macedonia_-_grey.svg
+  Ljupco Shvrgovski           Attorney General
+  Vasko Gjurcinovski          Chief of the General Staff of the Army of the Republic of North Macedonia
+  Zoran Jolevski              Special Envoy and Chief Negotiator of the Macedonia name dispute
 
 
 Legislative branch

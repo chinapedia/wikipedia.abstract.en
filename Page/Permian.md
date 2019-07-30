@@ -66,19 +66,19 @@ Sea levels in the Permian remained generally low, and near-shore environments we
 
 Paleogeography
 
-280_Ma_plate_tectonic_reconstruction.png During the Permian, all the Earth's major landmasses were collected into a single supercontinent known as Pangaea. Pangaea straddled the equator and extended toward the poles, with a corresponding effect on ocean currents in the single great ocean ("Panthalassa", the "universal sea"), and the Paleo-Tethys Ocean, a large ocean that existed between Asia and Gondwana. The Cimmeria continent rifted away from Gondwana and drifted north to Laurasia, causing the Paleo-Tethys Ocean to shrink. A new ocean was growing on its southern end, the Tethys Ocean, an ocean that would dominate much of the Mesozoic era. Large continental landmass interiors experience climates with extreme variations of heat and cold ("continental climate") and monsoon conditions with highly seasonal rainfall patterns. Deserts seem to have been widespread on Pangaea. Such dry conditions favored gymnosperms, plants with seeds enclosed in a protective cover, over plants such as ferns that disperse spores in a wetter environment. The first modern trees (conifers, ginkgos and cycads) appeared in the Permian.
+During the Permian, all the Earth's major landmasses were collected into a single supercontinent known as Pangaea. Pangaea straddled the equator and extended toward the poles, with a corresponding effect on ocean currents in the single great ocean ("Panthalassa", the "universal sea"), and the Paleo-Tethys Ocean, a large ocean that existed between Asia and Gondwana. The Cimmeria continent rifted away from Gondwana and drifted north to Laurasia, causing the Paleo-Tethys Ocean to shrink. A new ocean was growing on its southern end, the Tethys Ocean, an ocean that would dominate much of the Mesozoic era. Large continental landmass interiors experience climates with extreme variations of heat and cold ("continental climate") and monsoon conditions with highly seasonal rainfall patterns. Deserts seem to have been widespread on Pangaea. Such dry conditions favored gymnosperms, plants with seeds enclosed in a protective cover, over plants such as ferns that disperse spores in a wetter environment. The first modern trees (conifers, ginkgos and cycads) appeared in the Permian.
 
 Three general areas are especially noted for their extensive Permian deposits—the Ural Mountains (where Perm itself is located), China, and the southwest of North America, including the Texas red beds. The Permian Basin in the U.S. states of Texas and New Mexico is so named because it has one of the thickest deposits of Permian rocks in the world.
 
 
 Climate
 
-Selwyn_Rock_2.JPG, an exhumed glacial pavement of Permian age]] The climate in the Permian was quite varied. At the start of the Permian, the Earth was still in an ice age, which began in the Carboniferous. Glaciers receded around the mid-Permian period as the climate gradually warmed, drying the continent's interiors.[13] In the late Permian period, the drying continued although the temperature cycled between warm and cool cycles.[14]
+, an exhumed glacial pavement of Permian age]] The climate in the Permian was quite varied. At the start of the Permian, the Earth was still in an ice age, which began in the Carboniferous. Glaciers receded around the mid-Permian period as the climate gradually warmed, drying the continent's interiors.[13] In the late Permian period, the drying continued although the temperature cycled between warm and cool cycles.[14]
 
 
 Life
 
-HercosestriaPair040111.jpg cribrosa'', a reef-forming productid brachiopod (Middle Permian, Glass Mountains, Texas)]]
+cribrosa'', a reef-forming productid brachiopod (Middle Permian, Glass Mountains, Texas)]]
 
 Marine biota
 
@@ -113,7 +113,7 @@ File:EdaphosaurusDB.jpg|_Edaphosaurus pogonias_ and _Platyhystrix_ – Early Per
 
 Permian–Triassic extinction event
 
-Extinction_Intensity.svg which produce large numbers of fossils]] The Permian ended with the most extensive extinction event recorded in paleontology: the Permian–Triassic extinction event. Ninety to 95% of marine species became extinct, as well as 70% of all land organisms. It is also the only known mass extinction of insects.[29][30] Recovery from the Permian–Triassic extinction event was protracted; on land, ecosystems took 30 million years to recover.[31] Trilobites, which had thrived since Cambrian times, finally became extinct before the end of the Permian. Nautiluses, a species of cephalopods, surprisingly survived this occurrence.
+which produce large numbers of fossils]] The Permian ended with the most extensive extinction event recorded in paleontology: the Permian–Triassic extinction event. Ninety to 95% of marine species became extinct, as well as 70% of all land organisms. It is also the only known mass extinction of insects.[29][30] Recovery from the Permian–Triassic extinction event was protracted; on land, ecosystems took 30 million years to recover.[31] Trilobites, which had thrived since Cambrian times, finally became extinct before the end of the Permian. Nautiluses, a species of cephalopods, surprisingly survived this occurrence.
 
 There is evidence that magma, in the form of flood basalt, poured onto the surface in what is now called the Siberian Traps, for thousands of years, contributing to the environmental stress that led to mass extinction. The reduced coastal habitat and highly increased aridity probably also contributed. Based on the amount of lava estimated to have been produced during this period, the worst-case scenario is the release of enough carbon dioxide from the eruptions to raise world temperatures five degrees Celsius.[32]
 

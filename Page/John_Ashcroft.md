@@ -24,7 +24,7 @@ In 1974, Ashcroft was narrowly defeated for election to that post by Jackson Cou
 
 Attorney General of Missouri
 
-Reagan_Contact_Sheet_C20739_(cropped).jpg Ronald Reagan in 1984]] Missouri Attorney General John Danforth, who was then in his second term, hired Ashcroft as an Assistant State Attorney General. During his service, Ashcroft shared an office with Clarence Thomas, a future U.S. Supreme Court Supreme Court Justice. (In 2001, Thomas administered Ashcroft's oath of office as U.S. Attorney General.)
+Ronald Reagan in 1984]] Missouri Attorney General John Danforth, who was then in his second term, hired Ashcroft as an Assistant State Attorney General. During his service, Ashcroft shared an office with Clarence Thomas, a future U.S. Supreme Court Supreme Court Justice. (In 2001, Thomas administered Ashcroft's oath of office as U.S. Attorney General.)
 
 In 1976, Danforth was elected to the U.S. Senate, and Ashcroft was elected to replace him as State Attorney General. He was sworn in on December 27, 1976. In 1980, Ashcroft was re-elected with 64.5 percent of the vote, winning 96 of Missouri's 114 counties.[6]
 
@@ -32,7 +32,7 @@ In 1983, Ashcroft wrote the leading _amicus curiae_ brief in the U.S. Supreme Co
 
 Governor of Missouri (1985–1993)
 
-Bush_Contact_Sheet_P19270_(cropped)_(cropped).jpg George H. W. Bush in 1991]] John_Ashcroft_official_photo_as_Governor.jpg Ashcroft was elected governor in 1984 and re-elected in 1988, becoming the first (and, to date, the only) Republican in Missouri history elected to two consecutive terms. Mrs._Bush_and_Missouri_Governor_John_Ashcroft_attend_a_"Parents_as_Teachers"_parent-child_group_at_the..._-_NARA_-_186437.tif with a "Parents as Teachers" group at the Greater St. Louis Ferguson-Florissant School District in October 1991. Mrs. Bush (in rocking chair) is reading _Brown Bear, Brown Bear_ to the children.]]
+George H. W. Bush in 1991]] Ashcroft was elected governor in 1984 and re-elected in 1988, becoming the first (and, to date, the only) Republican in Missouri history elected to two consecutive terms. with a "Parents as Teachers" group at the Greater St. Louis Ferguson-Florissant School District in October 1991. Mrs. Bush (in rocking chair) is reading _Brown Bear, Brown Bear_ to the children.]]
 
 In 1984, his opponent was the Democratic Lt. Governor Ken Rothman. The campaign was so negative on both sides that a reporter described the contest as "two alley cats [scrapping] over truth in advertising". In his campaign, Ashcroft contrasted his rural-base against an urban-based opponent from St. Louis. Democrats did not close ranks on primary night. The defeated candidate Mel Carnahan endorsed Rothman. In the end, Ashcroft won 57 percent of the vote and carried 106 counties—then the largest Republican gubernatorial victory in Missouri history.[8]
 
@@ -52,7 +52,7 @@ As governor, Ashcroft helped enact tougher standards and sentencing for gun crim
 
 U.S. Senator from Missouri
 
-Senator_John_Ashcroft3.jpg In 1994 Ashcroft was elected to the U.S. Senate from Missouri, again succeeding John Danforth, who retired from the position. Ashcroft won 59.8% of the vote against Democratic Congressman Alan Wheat. As Senator:
+In 1994 Ashcroft was elected to the U.S. Senate from Missouri, again succeeding John Danforth, who retired from the position. Ashcroft won 59.8% of the vote against Democratic Congressman Alan Wheat. As Senator:
 
 -   He opposed the Clinton Administration's Clipper encryption restrictions.
 -   In 1999, as chair of the Senate's subcommittee on patents, he helped extend patents for several drugs, most significantly the allergy medication Claritin, to prevent the marketing of less-expensive generics.[11]
@@ -68,7 +68,7 @@ Carnahan won the election 51% to 49%. No one had ever posthumously won election 
 
 U.S. Attorney General
 
-United_States_cropped_G8_Justice_and_Home_Affairs_Ministers_meeting_member_20040511.jpg and John Ashcroft in 2004 in Washington, D.C.]] In December 2000, following his Senatorial defeat, Ashcroft was chosen for the position of U.S. attorney general by president-elect George W. Bush. He was confirmed by the Senate by a vote of 58 to 42, with most Democratic senators voting against him, citing his prior opposition to using forced busing to achieve desegregation, and their opposition to Ashcroft's pro-life views. President_George_W._Bush_meets_with_Attorney_General_John_Ashcroft_in_2003.jpg George W. Bush meets with Attorney General John Ashcroft in the Oval Office on March 11, 2003]] In May 2001, the FBI revealed that they had misplaced thousands of documents related to the investigation of the Oklahoma City bombing. Ashcroft granted a 30-day stay of execution for Timothy McVeigh, the man convicted and sentenced to death for the bombing.
+and John Ashcroft in 2004 in Washington, D.C.]] In December 2000, following his Senatorial defeat, Ashcroft was chosen for the position of U.S. attorney general by president-elect George W. Bush. He was confirmed by the Senate by a vote of 58 to 42, with most Democratic senators voting against him, citing his prior opposition to using forced busing to achieve desegregation, and their opposition to Ashcroft's pro-life views. George W. Bush meets with Attorney General John Ashcroft in the Oval Office on March 11, 2003]] In May 2001, the FBI revealed that they had misplaced thousands of documents related to the investigation of the Oklahoma City bombing. Ashcroft granted a 30-day stay of execution for Timothy McVeigh, the man convicted and sentenced to death for the bombing.
 
 After the September 11, 2001 attacks in the United States, Ashcroft was a key administration supporter of passage of the USA Patriot Act. One of its provisions, Section 215, allows the Federal Bureau of Investigation (FBI) to apply for an order from the Foreign Intelligence Surveillance Court to require production of "any tangible thing" for an investigation. This provision was criticized by citizen and professional groups concerned about violations of privacy. Ashcroft referred to the American Library Association's opposition to Section 215 as "hysteria" in two separate speeches given in September 2003.[17][18] While Attorney General, Ashcroft consistently denied that the FBI or any other law enforcement agency had used the Patriot Act to obtain library circulation records or those of retail sales. According to the sworn testimony of two FBI agents interviewed by the 9/11 Commission, Ashcroft ignored warnings of an imminent al-Qaida attack.[19]
 
@@ -104,7 +104,7 @@ In June 2018, it is reported that Ashcroft was hired by Najib Razak among other 
 
 Political issues
 
-50th_SCS_volunteers_key_to_Eagle_Summit_Ranch_opening.jpg John_Ashcroft_by_Gage_Skidmore.jpg in February 2010]] John_Ashcroft_delivers_remarks_at_the_30th_Annual_Candlelight_Vigil_to_honor_fallen_officers.jpg In January 2002, the partially nude female statue of the _Spirit of Justice_, which stands in the Great Hall of the Justice Department, where Ashcroft held press conferences, was covered with blue curtains, along with its male counterpart, the _Majesty of Justice_. Some speculated that Ashcroft thought that reporters were photographing him with the female statue in the background to make fun of his church's opposition to pornography. A Justice Department spokeswoman said that Ashcroft knew nothing of the decision to spend $8,000 for the curtains; a spokesman said the decision for permanent curtains was intended to save on the $2,000 per use rental costs of temporary curtains used for formal events.[50]
+in February 2010]] In January 2002, the partially nude female statue of the _Spirit of Justice_, which stands in the Great Hall of the Justice Department, where Ashcroft held press conferences, was covered with blue curtains, along with its male counterpart, the _Majesty of Justice_. Some speculated that Ashcroft thought that reporters were photographing him with the female statue in the background to make fun of his church's opposition to pornography. A Justice Department spokeswoman said that Ashcroft knew nothing of the decision to spend $8,000 for the curtains; a spokesman said the decision for permanent curtains was intended to save on the $2,000 per use rental costs of temporary curtains used for formal events.[50]
 
 In July 2002, Ashcroft proposed the creation of Operation TIPS, a domestic program in which workers and government employees would inform law enforcement agencies about suspicious behavior they encounter while performing their duties. The program was widely criticized from the beginning, with critics deriding the program as essentially a Domestic Informant Network along the lines of the East German Stasi or the Soviet KGB,[51][52] and an encroachment upon the First and Fourth amendments. The United States Postal Service refused to be a party to it. Ashcroft defended the program as a necessary component of the ongoing War on Terrorism, but the proposal was eventually abandoned.[53]
 
@@ -137,7 +137,7 @@ In 2015, Human Rights Watch called for the investigation of Ashcroft "for conspi
 
 Personal life
 
-John_Ashcroft_and_his_wife_attend_a_post-recommissioning_dinner_for_the_battleship_USS_MISSOURI.jpg Ashcroft is a member of the Assemblies of God church. He is married to Janet E. Ashcroft and has three children with her.[73] His son, Jay, is the Missouri Secretary of State.[74]
+Ashcroft is a member of the Assemblies of God church. He is married to Janet E. Ashcroft and has three children with her.[73] His son, Jay, is the Missouri Secretary of State.[74]
 
 Ashcroft had long enjoyed inspirational music and singing. In the 1970s, he recorded a gospel record entitled _Truth: Volume One, Edition One_, with the Missouri legislator Max Bacon, a Democrat.[75]
 

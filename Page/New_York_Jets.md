@@ -11,7 +11,7 @@ The first organizational meeting of the American Football League took place on A
 
 Wismer was granted the charter franchise later dubbed the Titans of New York as Wismer explained, "Titans are bigger and stronger than Giants."[9] He secured the Titans' home field at the decrepit Polo Grounds, where the team struggled financially and on the field during its first three years.[10] By 1962, the debt continued to mount for Wismer, forcing the AFL to assume the costs of the team until season's end.[11]
 
-1986_Jeno's_Pizza_-_37_-_Joe_Namath.jpg quarterbacking for the Jets in Super Bowl III.]] A five-man syndicate, headed by Sonny Werblin, saved the team from certain bankruptcy, purchasing the lowly Titans for $1 million.[12] Werblin renamed the team the New York Jets since the team would play in Shea Stadium near LaGuardia Airport.[13] The new name was intended to reflect the modern approach of his team. The Jets' owners hired Weeb Ewbank as the general manager and head coach.[14] Ewbank and quarterback Joe Namath led the Jets to prominence in 1969, when New York defeated the heavily favored Baltimore Colts in Super Bowl III[15] and solidified the AFL's position in the world of professional football.[16]
+quarterbacking for the Jets in Super Bowl III.]] A five-man syndicate, headed by Sonny Werblin, saved the team from certain bankruptcy, purchasing the lowly Titans for $1 million.[12] Werblin renamed the team the New York Jets since the team would play in Shea Stadium near LaGuardia Airport.[13] The new name was intended to reflect the modern approach of his team. The Jets' owners hired Weeb Ewbank as the general manager and head coach.[14] Ewbank and quarterback Joe Namath led the Jets to prominence in 1969, when New York defeated the heavily favored Baltimore Colts in Super Bowl III[15] and solidified the AFL's position in the world of professional football.[16]
 
 When the AFL and NFL merged, the team fell into a state of mediocrity along with their star quarterback, Namath, who only had three successful post-merger seasons after injuries hampered much of his career. The Jets continued to spiral downward before enjoying a string of successes in the 1980s, which included an appearance in the 1982 AFC Championship Game, and the emergence of the popular New York Sack Exchange.
 
@@ -42,7 +42,7 @@ Leon Hess became well known for his Hess Corporation gas stations; however, he a
 
 Becoming the team's majority stockholder in 1973, Hess bought Philip H. Iselin's share upon his death in 1976 after which only two of Hess' partners remained, Townsend Martin and Helen Dillon, who had inherited the stake from her father Donald Lillis, upon his death.[45] Hess began to buy out the remaining partners in 1981 when he bought Martin's 25% stake for $5 million.[46] Hess bought Dillon's stake three years later for another $5 million, acquiring sole control of the team.[47]
 
-Hess had a passion for his team and took losses hard.[48] In 1995, following a mediocre 6–10 season under Pete Carroll, despite generally shying away from football operations, Hess announced "I'm 80 years old, I want results now" during a conference in which Rich Kotite was introduced as the team's new coach.[49] After two unsuccessful years with Kotite, Hess heavily involved himself in hiring Bill Parcells in hopes to see his team again reach the Super Bowl. He did not live to see his dream realized, dying on May 7, 1999.[50] Woody_Johnson_at_NY_Jets_game_(cropped).jpg
+Hess had a passion for his team and took losses hard.[48] In 1995, following a mediocre 6–10 season under Pete Carroll, despite generally shying away from football operations, Hess announced "I'm 80 years old, I want results now" during a conference in which Rich Kotite was introduced as the team's new coach.[49] After two unsuccessful years with Kotite, Hess heavily involved himself in hiring Bill Parcells in hopes to see his team again reach the Super Bowl. He did not live to see his dream realized, dying on May 7, 1999.[50]
 
 Woody Johnson
 
@@ -57,7 +57,7 @@ In 2017, Woody Johnson was appointed by President Donald Trump as the United Sta
 
 Stadiums
 
-Shea_Stadium_exterior_1964.jpg Owner Harry Wismer sought out a place for the team to play their home games but was only able to secure the dilapidated Polo Grounds, which had not had a major tenant since the baseball New York Giants vacated the stadium in 1957. The Titans played their first four seasons at the stadium—in the final season they were renamed the Jets. The Titans shared the stadium with baseball's new expansion team, the New York Mets, for two years before both teams moved to the Shea Stadium in Queens in 1964. The Jets hold the distinction of being the final team to host a game at the Polo Grounds, a 19–10 loss to the Buffalo Bills on December 14, 1963.[60]
+Owner Harry Wismer sought out a place for the team to play their home games but was only able to secure the dilapidated Polo Grounds, which had not had a major tenant since the baseball New York Giants vacated the stadium in 1957. The Titans played their first four seasons at the stadium—in the final season they were renamed the Jets. The Titans shared the stadium with baseball's new expansion team, the New York Mets, for two years before both teams moved to the Shea Stadium in Queens in 1964. The Jets hold the distinction of being the final team to host a game at the Polo Grounds, a 19–10 loss to the Buffalo Bills on December 14, 1963.[60]
 
 Wismer hoped the Titans could play in what would become known as Shea Stadium beginning in 1961.[61] However, funding difficulties and legal problems delayed construction of the stadium.[62] Wismer signed a memorandum of understanding in late 1961 to secure the Titans' new home.[63] That memorandum recognized that the Mets would have exclusive use of the stadium until they had completed their season. As the team moved to Shea under new ownership, they were, in most years, required to open the season with several road games, a problem made worse in 1969 and 1973 when the Mets had long playoff runs.[64][65]
 
@@ -69,7 +69,7 @@ When the Jets joined the Giants at the stadium, many Jets fans hoped the name, G
 
 As the Jets sought to become a stronger franchise and remove themselves from their counterparts' shadow, the team entered into negotiations with the Metropolitan Transportation Authority in an attempt to build a stadium on the west side of Manhattan, entering a bidding war with TransGas Energy Systems and Cablevision for the rights to the West Side Yard property—Hess, prior to his death, had been approached by former mayor Rudy Giuliani about bringing the team to the West Side when their lease at Giants Stadium expired in 2008.[75][76] Cablevision was fixated against the Jets owning the land as Madison Square Garden, located only a few blocks away, would be forced to compete with the stadium.[77] Team owners had voted, 31–1, with the Buffalo Bills the only objectors, to award the 2010 Super Bowl to New York contingent on the Jets winning the bid and completing construction of the stadium prior to 2010.[78]
 
-New_Meadowlands_Stadium.jpg during the first-ever preseason matchup between the Giants and Jets]] The MTA unanimously voted to sell the land to the Jets for approximately $210 million as the committee agreed that having the stadium would be beneficial in the long run.[79] An angry Cablevision, community groups and transportation advocates were determined to derail the Jets' attempts at building the stadium and two lawsuits challenging the construction of the stadium on environmental grounds were filed.[80]
+during the first-ever preseason matchup between the Giants and Jets]] The MTA unanimously voted to sell the land to the Jets for approximately $210 million as the committee agreed that having the stadium would be beneficial in the long run.[79] An angry Cablevision, community groups and transportation advocates were determined to derail the Jets' attempts at building the stadium and two lawsuits challenging the construction of the stadium on environmental grounds were filed.[80]
 
 Although confident they could secure the stadium, their hopes were dashed when Sheldon Silver and Joseph L. Bruno, both of whom held veto power over the stadium construction, refused to support the project, alleging it would hurt rather than help the development of the West Side.[81][82]
 
@@ -132,16 +132,12 @@ The Jets unveiled new jerseys and an updated logo for the 2019 season. The jerse
 
 Cheerleading squad
 
-JetBlue_Jets.jpg
-
 The team originally named the Jets Flag Crew was established in 2006.[128] In 2007, the group underwent an expansion and was appropriately renamed the Jets Flight Crew.[129] The squad regularly performs choreographed routines during the team's home contests. Auditions have been held annually since their inception to attract new members.
 
 The Jets Junior Flight Crew was established in 2010 offering children the opportunity to train with the Flight Crew while improving their "talent and abilities in a non-competitive environment."[130]
 
 
 Radio and television
-
-New_York_Jets_radio_affiliates.png
 
 The Jets' current flagship radio station is WEPN 98.7 ESPN with Bob Wischusen, as the play-by-play announcer and former Jet Marty Lyons of the Sack Exchange, as the color analyst.[131][132]
 
@@ -184,8 +180,6 @@ Players
 Current roster
 
 Pro Football Hall of Famers
-
-Joe_Namath.jpg Riggins,_John_(Navy).jpg
 
   New York Jets in the Pro Football Hall of Fame
   ------------------------------------------------

@@ -3,7 +3,7 @@ This article is about TRANSPORT IN OMAN.
 
 Highways
 
-OM-Muscat_8.jpg]]
+]]
 _total:_ 62,240 km
 _paved:_ 29,685 km (including 1943 km of expressways)
 _unpaved:_ 30,545 km (2012)[1]

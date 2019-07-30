@@ -1,8 +1,6 @@
 Maturation}}
 
-LifeExpectancy.png
-
-Life_Expectancy_OECD_2013.jpg LIFE EXPECTANCY, often abbreviated to LEB (for LIFE EXPECTANCY AT BIRTH), is a statistical measure of the average time an organism is expected to live, based on the year of its birth, its current age and other demographic factors including gender. The most commonly used measure of life expectancy is at birth, which can be defined in two ways. _Cohort_ LEB is the mean length of life of an actual birth cohort (all individuals born a given year) and can be computed only for cohorts born many decades ago, so that all their members have died. _Period_ LEB is the mean length of life of a hypothetical cohort assumed to be exposed, from birth through death, to the mortality rates observed at a given year.[1]
+LIFE EXPECTANCY, often abbreviated to LEB (for LIFE EXPECTANCY AT BIRTH), is a statistical measure of the average time an organism is expected to live, based on the year of its birth, its current age and other demographic factors including gender. The most commonly used measure of life expectancy is at birth, which can be defined in two ways. _Cohort_ LEB is the mean length of life of an actual birth cohort (all individuals born a given year) and can be computed only for cohorts born many decades ago, so that all their members have died. _Period_ LEB is the mean length of life of a hypothetical cohort assumed to be exposed, from birth through death, to the mortality rates observed at a given year.[1]
 
 National LEB figures reported by statistical national agencies and international organizations are indeed estimates of _period_ LEB. In the Bronze Age and the Iron Age, LEB was 26 years; the 2010 world LEB was 67.2 years. For recent years, LEB in Eswatini (Swaziland) is about 49, while LEB in Japan is about 83. The combination of high infant mortality and deaths in young adulthood from accidents, epidemics, plagues, wars, and childbirth, particularly before modern medicine was widely available, significantly lowers LEB. For example, a society with a LEB of 40 may have few people dying at precisely 40: most will die before 30 or after 55. In populations with high infant mortality rates, LEB is highly sensitive to the rate of death in the first few years of life. Because of this sensitivity to infant mortality, LEB can be subjected to gross misinterpretation, leading one to believe that a population with a low LEB will necessarily have a small proportion of older people.[2] Another measure, such as life expectancy at age 5 (e₅), can be used to exclude the effect of infant mortality to provide a simple measure of overall mortality rates other than in early childhood; in the hypothetical population above, life expectancy at 5 would be another 65. Aggregate population measures, such as the proportion of the population in various age groups, should also be used along individual-based measures like formal life expectancy when analyzing population structure and dynamics. However, pre-modern societies still had universally higher mortality rates and universally lower life expectancies at every age for both genders, and this example was relatively rare. In societies with life expectancies of 30, for instance, a 40 year remaining timespan at age 5 may not be uncommon, but a 60 year one was.
 
@@ -63,7 +61,7 @@ Regional variations
 
 Human beings are expected to live on average 30–40 years in Eswatini[63] and 82.6 years in Japan, but the latter's recorded life expectancy may have been very slightly increased by counting many infant deaths as stillborn.[64] An analysis published in 2011 in _The Lancet_ attributes Japanese life expectancy to equal opportunities and public health as well as diet.[65][66]
 
-LifeExpectancy_GDPperCapita.png in 2009. This phenomenon is known as the Preston curve.]] Comparison_subsaharan_life_expectancy.svg.[67]]]
+in 2009. This phenomenon is known as the Preston curve.]] .[67]]]
 
 There are great variations in life expectancy between different parts of the world, mostly caused by differences in public health, medical care, and diet. The impact of AIDS on life expectancy is particularly notable in many African countries. According to projections made by the United Nations (UN) in 2002, the life expectancy at birth for 2010–2015 (if HIV/AIDS did not exist) would have been:[68]
 
@@ -81,7 +79,7 @@ Cities also experience a wide range of life expectancy based on neighborhood bre
 
 Economic circumstances
 
-Life_expectancy_is_longer_in_more_equal_rich_countries.jpg[77]]] Economic circumstances also affect life expectancy. For example, in the United Kingdom, life expectancy in the wealthiest and richest areas is several years higher than in the poorest areas. This may reflect factors such as diet and lifestyle, as well as access to medical care. It may also reflect a selective effect: people with chronic life-threatening illnesses are less likely to become wealthy or to reside in affluent areas.[78] In Glasgow, the disparity is amongst the highest in the world: life expectancy for males in the heavily deprived Calton area stands at 54, which is 28 years less than in the affluent area of Lenzie, which is only 8 km away.[79][80]
+[77]]] Economic circumstances also affect life expectancy. For example, in the United Kingdom, life expectancy in the wealthiest and richest areas is several years higher than in the poorest areas. This may reflect factors such as diet and lifestyle, as well as access to medical care. It may also reflect a selective effect: people with chronic life-threatening illnesses are less likely to become wealthy or to reside in affluent areas.[78] In Glasgow, the disparity is amongst the highest in the world: life expectancy for males in the heavily deprived Calton area stands at 54, which is 28 years less than in the affluent area of Lenzie, which is only 8 km away.[79][80]
 
 A 2013 study found a pronounced relationship between economic inequality and life expectancy.[81] However, a study by José A. Tapia Granados and Ana Diez Roux at the University of Michigan found that life expectancy actually increased during the Great Depression, and during recessions and depressions in general.[82] The authors suggest that when people are working extra hard during good economic times, they undergo more stress, exposure to pollution, and likelihood of injury among other longevity-limiting factors.
 
@@ -89,9 +87,7 @@ Life expectancy is also likely to be affected by exposure to high levels of high
 
 Sex differences
 
-LifeExpectancyBetweenFemaleAndMales.jpg[83]]]
-
-Comparison_gender_life_expectancy_CIA_factbook.svg
+[83]]]
 
 In the uterus, male fetuses have a higher mortality rate (babies are conceived in a ratio estimated to be from 107 to 170 males to 100 females, but the ratio at birth in the United States is only 105 males to 100 females).[84] Among the smallest premature babies (those under 2 pounds or 900 g), females again have a higher survival rate. At the other extreme, about 90% of individuals aged 110 are female. The difference in life expectancy between men and women in the United States dropped from 7.8 years in 1979 to 5.3 years in 2005, with women expected to live to age 80.1 in 2005.[85] Also, data from the UK shows the gap in life expectancy between men and women decreasing in later life. This may be attributable to the effects of infant mortality and young adult death rates.[86]
 
@@ -113,7 +109,7 @@ In the United States, the number of centenarians grew from 32,194 in 1980 to 71,
 
 Mental illness
 
-Mental illness is reported to occur in approximately 18% of the average American population.[102][103] Smi_graph_by_Mark.png The seriously mentally ill have a 10- to 25-year reduction in life expectancy.[104] The reduction of lifespan has been studied and documented.[105][106][107][108][109][110][111]
+Mental illness is reported to occur in approximately 18% of the average American population.[102][103] The seriously mentally ill have a 10- to 25-year reduction in life expectancy.[104] The reduction of lifespan has been studied and documented.[105][106][107][108][109][110][111]
 
 The greater mortality of people with mental disorders may be due to death from injury, from co-morbid conditions, or from medication side effects.[112] Psychiatric medicines can increase the chance of developing diabetes.[113][114][115][116] Psychiatric medicine can also cause agranulocytosis.[117] Psychiatric medicines also affect the stomach,[118][119] where the mentally ill have a four times risk of gastrointestinal disease.[120][121]
 
@@ -138,8 +134,6 @@ In a broad survey of zoo animals, no relationship was found between the fertilit
 
 
 Calculation
-
-Survivaltree.png
 
 The starting point for calculating life expectancy is the age-specific death rates of the population members. If a large amount of data is available, a statistical population can be created that allow the age-specific death rates to be simply taken as the mortality rates actually experienced at each age (the number of deaths divided by the number of years "exposed to risk" in each data cell). However, it is customary to apply smoothing to iron out, as much as possible, the random statistical fluctuations from one year of age to the next. In the past, a very simple model used for this purpose was the Gompertz function, but more sophisticated methods are now used.[138]
 

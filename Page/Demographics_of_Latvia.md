@@ -1,4 +1,4 @@
-Population-of-Latvia.svg This article is about the demographic features of the population of the historical territory of Latvia, including population density, ethnic background, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+This article is about the demographic features of the population of the historical territory of Latvia, including population density, ethnic background, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 
 Background
@@ -41,8 +41,6 @@ For an immigrant not to become an illegal resident, a permit is required for a f
 Population
 
 Age structure
-
-Approximate_demographic_evolution_in_Latvia.png
 
   Census year   Children   Working age   Pensioners
   ------------- ---------- ------------- ------------
@@ -187,15 +185,11 @@ Current vital statistics
 
 Ethnic groups
 
-Латвия.ру.png Ethnic_groups_in_Latvia.png Smaller_minorities_in_Latvia.jpg
-
 Latvians have always been the largest ethnic group in Latvia during the past century, but minority peoples have always been numerous. Before WW II the proportion of non-Latvians was approximately 25%, the Russians being the largest minority (app. 10%), followed by Jews (approx. 5%), Germans and Poles (2–3%). After World War 2 only small numbers of Jews and Germans remained and following a massive immigration of Russians, Ukrainians and Belarusians, Latvians almost became a minority. In 1989, the proportion of Latvians had decreased to only 52% (from 75.5% in 1935). Despite the decreasing number of Latvians due to low fertility rates, the proportion of Latvians has considerably increased during the past two decades and reached 62.1% in 2011 (slightly higher than the 62.0% in 1959). This is due to large scale emigration of Russians, Ukrainians and Belarusians. The number of these peoples almost halved between 1989 and 2011.
 
 [TABLE]
 
 : POPULATION OF LATVIA ACCORDING TO ETHNIC GROUP 1925–2017
-
-Русский_язык_в_Латвии.png
 
 
 Languages

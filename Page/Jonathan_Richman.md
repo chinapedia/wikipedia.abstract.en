@@ -29,7 +29,7 @@ After several months as a trio, Richman found a new drummer, D. Sharpe, an avant
 
 _Rock and Roll with the Modern Lovers_ was released in 1977 and, just as this record began to climb the charts in Europe, Keranen left the group to attend college. A subsequent live album, _Modern Lovers Live_, was released in 1978, with Asa Brebner on bass.[7]
 
-Jonathan-richman.png, Vancouver, British Columbia, Canada (1984)]] In the United Kingdom, Richman was recognised as a progenitor of the punk rock scene, and several of his singles became hits. "Roadrunner" reached Number 11 in the UK Singles Chart, and its follow-up, the instrumental "Egyptian Reggae", made Number 5 in late 1977.[8] "Egyptian Reggae" was a version of Jamaican musician Earl Zero's reggae song "None Shall Escape the Judgment"; Zero was credited as co-writer on Richman's later versions of the track.[9][10]
+, Vancouver, British Columbia, Canada (1984)]] In the United Kingdom, Richman was recognised as a progenitor of the punk rock scene, and several of his singles became hits. "Roadrunner" reached Number 11 in the UK Singles Chart, and its follow-up, the instrumental "Egyptian Reggae", made Number 5 in late 1977.[8] "Egyptian Reggae" was a version of Jamaican musician Earl Zero's reggae song "None Shall Escape the Judgment"; Zero was credited as co-writer on Richman's later versions of the track.[9][10]
 
 _Back in Your Life_ was released in 1979 under the "Jonathan Richman and the Modern Lovers" moniker, but only about half the disc featured a backup band. The balance of the album was Richman playing solo. Following this version of The Modern Lovers' final breakup, Richman went on sabbatical for a few years, staying in Appleton, Maine, and playing at local bars in Belfast, Maine.
 
@@ -38,8 +38,6 @@ By 1981, Richman was recording and touring once again with various combinations 
 From 1981 to 1984, Richman most often played live in a trio with Keranen and Marshall. In 1985, the group was reconfigured, and consisted of bassist Asa Brebner and drummer Andy Paley. From 1986 to 1988, most of Richman's concerts were played with guitarist Brennan Totten and drummer Johnny Avila. Signing with Rounder Records in 1987, Richaman recorded his final album using the "Modern Lovers" group name (_Modern Lovers 88_). After this, the "Modern Lovers" moniker was retired.
 
 Solo
-
-JonathanRichman2014.jpg
 
 From 1988 to 1992, Richman performed mostly as a solo act to support his Rounder albums _Jonathan Richman_ (1989), _Jonathan Goes Country_ (1990), and _Having a Party with Jonathan Richman_ (1991). Around the time of his _I, Jonathan_ album (1992), he formed his performance duo with drummer Tommy Larkin, who would continue to play and record with Richman for more than 25 years.
 
@@ -81,7 +79,7 @@ In 2003, Richman married Nicole Montalbano of Chico, California.[19][20] She con
 
 Influence
 
-Jonathan_Richman_of_the_Modern_Lovers,_2009.jpg Richman's work with the first incarnation of Modern Lovers is a major influence on punk rock. One critic called him the "Godfather of Punk".[21] Artists as diverse as the Sex Pistols and Joan Jett have covered "Roadrunner". Boston ska-punk band Big D and the Kids Table have covered "New England" live and on their _Gypsy Hill_ EP. A version of "Pablo Picasso" performed by Burning Sensations was included in the 1984 cult film, _Repo Man_. David Bowie covered "Pablo Picasso" on his album _Reality_. Velvet Underground founding member John Cale has a version of the song on his 1975 album, _Helen of Troy_, and continues to include the song in his live shows. Iggy Pop has performed "Pablo Picasso" live and wrote an extra verse for it. Echo and the Bunnymen covered "She Cracked" in concert in 1984 and 1985 and Siouxsie and the Banshees have a version of the song on _Downside Up_.
+Richman's work with the first incarnation of Modern Lovers is a major influence on punk rock. One critic called him the "Godfather of Punk".[21] Artists as diverse as the Sex Pistols and Joan Jett have covered "Roadrunner". Boston ska-punk band Big D and the Kids Table have covered "New England" live and on their _Gypsy Hill_ EP. A version of "Pablo Picasso" performed by Burning Sensations was included in the 1984 cult film, _Repo Man_. David Bowie covered "Pablo Picasso" on his album _Reality_. Velvet Underground founding member John Cale has a version of the song on his 1975 album, _Helen of Troy_, and continues to include the song in his live shows. Iggy Pop has performed "Pablo Picasso" live and wrote an extra verse for it. Echo and the Bunnymen covered "She Cracked" in concert in 1984 and 1985 and Siouxsie and the Banshees have a version of the song on _Downside Up_.
 
 Richman's music has set the tone for many alternative rock bands, such as Violent Femmes, Galaxie 500, They Might Be Giants ("Roadrunner" reportedly inspired John Flansburgh to become a musician), Weezer, Tullycraft, Jens Lekman, singer Frank Black (who composed the tribute song "The Man Who Was Too Loud"), Brandon Flowers, Art Brut, Craig Finn of the Hold Steady & Lifter Puller, Mac DeMarco and Nerf Herder who composed a song about him, titled "Jonathan", which appeared on the band's second album _How To Meet Girls_. British country rock band the Rockingbirds released the single "Jonathan, Jonathan" in tribute to Richman in 1992. The Silos also covered the Modern Lovers' "I'm Straight".
 
@@ -98,7 +96,7 @@ Discography
 
 Studio albums
 
-Jonathan-Richman.jpg JonathanRichman.jpg]]
+]]
 
 The Modern Lovers
 

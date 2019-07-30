@@ -1,4 +1,4 @@
-SPDC_figure.png process can split photons into type II photon pairs with mutually perpendicular polarization.]] QUANTUM ENTANGLEMENT is a physical phenomenon that occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the others, even when the particles are separated by a large distance.
+process can split photons into type II photon pairs with mutually perpendicular polarization.]] QUANTUM ENTANGLEMENT is a physical phenomenon that occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the others, even when the particles are separated by a large distance.
 
 Measurements of physical properties such as position, momentum, spin, and polarization, performed on entangled particles are found to be correlated. For example, if a pair of particles is generated in such a way that their total spin is known to be zero, and one particle is found to have clockwise spin on a certain axis, the spin of the other particle, measured on the same axis, will be found to be counterclockwise, as is to be expected due to their entanglement. However, this behavior gives rise to seemingly paradoxical effects: any measurement of a property of a particle performs an irreversible collapse on that particle and will change the original quantum state. In the case of entangled particles, such a measurement will be on the entangled system as a whole.
 
@@ -15,7 +15,7 @@ Quantum entanglement has been demonstrated experimentally with photons,[10][11][
 
 History
 
-NYT_May_4,_1935.jpg (EPR paradox) paper, in the May 4, 1935 issue of _The New York Times_.]]
+(EPR paradox) paper, in the May 4, 1935 issue of _The New York Times_.]]
 
 The counterintuitive predictions of quantum mechanics about strongly correlated systems were first discussed by Albert Einstein in 1935, in a joint paper with Boris Podolsky and Nathan Rosen.[23] In this study, the three formulated the Einstein–Podolsky–Rosen paradox (EPR paradox), a thought experiment that attempted to show that quantum mechanical theory was incomplete. They wrote: "We are thus forced to conclude that the quantum-mechanical description of physical reality given by wave functions is not complete."[24]
 
@@ -223,7 +223,7 @@ In this section, the entropy of a mixed state is discussed as well as how it can
 
 Definition
 
-Von_Neumann_entropy_for_bipartite_system_plot.svg In classical information theory , the Shannon entropy, is associated to a probability distribution,p₁, ⋯, p_(n), in the following way:[89]
+In classical information theory , the Shannon entropy, is associated to a probability distribution,p₁, ⋯, p_(n), in the following way:[89]
 
     H(p₁, ⋯, p_(n)) =  − ∑_(i)p_(i)log₂p_(i).
 

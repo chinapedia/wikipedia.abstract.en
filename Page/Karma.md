@@ -4,12 +4,12 @@ KARMA (; , ; ) means action, work or deed;See:
 -   The Encyclopedia of World Religions, Robert Ellwood & Gregory Alles, , pp 253; Quote - "Karma: Sanskrit word meaning action and the consequences of action."
 -   Hans Torwesten (1994), Vedanta: Heart of Hinduism, , Grove Press New York, pp 97; Quote - "In the Vedas the word karma (work, deed or action, and its resulting effect) referred mainly to..." it also refers to the spiritual principle of cause and effect where intent and actions of an individual (cause) influence the future of that individual (effect).[1] Good intent and good deeds contribute to good karma and happier rebirths, while bad intent and bad deeds contribute to bad karma and bad rebirths.[2][3]
 
-The philosophy of karma is closely associated with the idea of rebirth in many schools of Indian religions (particularly Hinduism, Buddhism, Jainism and Sikhism[4]) as well as Taoism.[5] In these schools, karma in the present affects one's future in the current life, as well as the nature and quality of future lives - one's _saṃsāra_.[6][7] Thirthankara_Suparshvanath_Museum_Rietberg_RVI_306.jpg or the karmic knot depicted on the chest of the Tirthankara.]]
+The philosophy of karma is closely associated with the idea of rebirth in many schools of Indian religions (particularly Hinduism, Buddhism, Jainism and Sikhism[4]) as well as Taoism.[5] In these schools, karma in the present affects one's future in the current life, as well as the nature and quality of future lives - one's _saṃsāra_.[6][7] or the karmic knot depicted on the chest of the Tirthankara.]]
 
 
 Definition and meanings
 
-Karma_AS.jpg _Karma_ is the executed "deed", "work", "action", or "act", and it is also the "object", the "intent". Wilhelm Halbfass[8] explains karma (karman) by contrasting it with another Sanskrit word _kriya_. The word _kriya_ is the activity along with the steps and effort in action, while _karma_ is (1) the executed action as a consequence of that activity, as well as (2) the intention of the actor behind an executed action or a planned action (described by some scholars[9] as metaphysical residue left in the actor). A good action creates good karma, as does good intent. A bad action creates bad karma, as does bad intent.[10]
+_Karma_ is the executed "deed", "work", "action", or "act", and it is also the "object", the "intent". Wilhelm Halbfass[8] explains karma (karman) by contrasting it with another Sanskrit word _kriya_. The word _kriya_ is the activity along with the steps and effort in action, while _karma_ is (1) the executed action as a consequence of that activity, as well as (2) the intention of the actor behind an executed action or a planned action (described by some scholars[9] as metaphysical residue left in the actor). A good action creates good karma, as does good intent. A bad action creates bad karma, as does bad intent.[10]
 
 Karma, also refers to a conceptual principle that originated in India, often descriptively called the principle of karma, sometimes as the karma theory or the law of karma.[11] In the context of theory, karma is complex and difficult to define.[12] Different schools of Indologists derive different definitions for the karma concept from ancient Indian texts; their definition is some combination of (1) causality that may be ethical or non-ethical; (2) ethicization, that is good or bad actions have consequences; and (3) rebirth.[13][14] Other Indologists include in the definition of karma theory that which explains the present circumstances of an individual with reference to his or her actions in past. These actions may be those in a person's current life, or, in some schools of Indian traditions, possibly actions in their past lives; furthermore, the consequences may result in current life, or a person's future lives.[15][16] The law of karma operates independent of any deity or any process of divine judgment.See:
 
@@ -26,7 +26,7 @@ Karma theory as a concept, across different Indian religious traditions, shares 
 
 Causality
 
-Tema_Nezahat_Gokyigit_Park_1060584_nymphaea.jpg A common theme to theories of karma is its principle of causality.[19] One of the earliest association of karma to causality occurs in the Brihadaranyaka Upanishad of Hinduism. For example, at 4.4.5-6, it states:
+A common theme to theories of karma is its principle of causality.[19] One of the earliest association of karma to causality occurs in the Brihadaranyaka Upanishad of Hinduism. For example, at 4.4.5-6, it states:
 
 The relationship of karma to causality is a central motif in all schools of Hindu, Jain and Buddhist thought.[20] The theory of karma as causality holds that (1) executed actions of an individual affects the individual and the life he or she lives, and (2) the intentions of an individual affects the individual and the life he or she lives. Disinterested actions, or unintentional actions do not have the same positive or negative karmic effect, as interested and intentional actions. In Buddhism, for example, actions that are performed, or arise, or originate without any bad intent such as covetousness, are considered non-existent in karmic impact or neutral in influence to the individual.[21]
 
@@ -103,7 +103,7 @@ _Karma_ and _karmaphala_ are fundamental concepts in Buddhism. The concepts of _
 
 In Jainism
 
-Types_of_Karma.JPG as per Jain philosophy]] In Jainism, "karma" conveys a totally different meaning from that commonly understood in Hindu philosophy and western civilization.[83] Jain philosophy is the oldest Indian philosophy that completely separates body (matter) from the soul (pure consciousness).[84] In Jainism, karma is referred to as karmic dirt, as it consists of very subtle particles of matter that pervade the entire universe.[85] _Karmas_ are attracted to the karmic field of a soul due to vibrations created by activities of mind, speech, and body as well as various mental dispositions. Hence the _karmas_ are the subtle matter surrounding the consciousness of a soul. When these two components (consciousness and karma) interact, we experience the life we know at present. Jain texts expound that seven _tattvas_ (truths or fundamentals) constitute reality. These are:[86]
+as per Jain philosophy]] In Jainism, "karma" conveys a totally different meaning from that commonly understood in Hindu philosophy and western civilization.[83] Jain philosophy is the oldest Indian philosophy that completely separates body (matter) from the soul (pure consciousness).[84] In Jainism, karma is referred to as karmic dirt, as it consists of very subtle particles of matter that pervade the entire universe.[85] _Karmas_ are attracted to the karmic field of a soul due to vibrations created by activities of mind, speech, and body as well as various mental dispositions. Hence the _karmas_ are the subtle matter surrounding the consciousness of a soul. When these two components (consciousness and karma) interact, we experience the life we know at present. Jain texts expound that seven _tattvas_ (truths or fundamentals) constitute reality. These are:[86]
 
 1.  _Jīva_- the soul which is characterized by consciousness
 2.  _Ajīva_- the non-soul
@@ -199,7 +199,7 @@ Those schools of Hinduism, Buddhism and Jainism that rely on karma-rebirth theor
 
 Comparable concepts
 
-It_Shoots_Further_Than_He_Dreams.jpg Western culture, influenced by Christianity,[151] holds a notion similar to karma, as demonstrated in the phrase "what goes around comes around".
+Western culture, influenced by Christianity,[151] holds a notion similar to karma, as demonstrated in the phrase "what goes around comes around".
 
 Christianity
 

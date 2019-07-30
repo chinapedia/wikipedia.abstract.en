@@ -36,7 +36,7 @@ The capital and largest city is Darwin. The population is concentrated in coasta
 
 History
 
-Thomas_Baines,_Thomas_Baines_with_Aborigines_near_the_mouth_of_the_Victoria_River,_N.T,_1857.jpg with Aborigines near the mouth of the Victoria River.]] Indigenous Australians have lived in the present area of the Northern Territory for at least 65,000 years[4], and extensive seasonal trade links existed between them and the peoples of what is now Indonesia for at least five centuries.
+with Aborigines near the mouth of the Victoria River.]] Indigenous Australians have lived in the present area of the Northern Territory for at least 65,000 years[4], and extensive seasonal trade links existed between them and the peoples of what is now Indonesia for at least five centuries.
 
 With the coming of the British, there were four early attempts to settle the harsh environment of the northern coast, of which three failed in starvation and despair. The land now occupied by the Northern Territory was part of colonial New South Wales from 1825 to 1863, except for a brief time from February to December 1846, when it was part of the short-lived colony of North Australia. The Northern Territory was part of South Australia from 1863 to 1911. Under the administration of colonial South Australia, the overland telegraph was constructed between 1870 and 1872.
 
@@ -44,7 +44,7 @@ From its establishment in 1869 the Port of Darwin was the major Territory supply
 
 A railway was built between Palmerston and Pine Creek between 1883 and 1889. The economic pattern of cattle raising and mining was established so that by 1911 there were 513,000 cattle. Victoria River Downs was at one time the largest cattle station in the world. Gold was found at Grove Hill in 1872 and at Pine Creek, Brocks Creek, Burrundi, and copper was found at Daly River.
 
-On 1 January 1911, a decade after federation, the Northern Territory was separated from South Australia and transferred to federal control. Alfred Deakin opined at this time "To me the question has been not so much commercial as national, first, second, third and last. Either we must accomplish the peopling of the northern territory or submit to its transfer to some other nation."[5] Letters_Patent_Northern_Territory.jpg In late 1912 there was growing sentiment that the name "Northern Territory" was unsatisfactory.[6][7] The names "Kingsland" (after King George V and to correspond with Queensland), "Centralia" and "Territoria" were proposed with Kingsland becoming the preferred choice in 1913. However, the name change never went ahead.[8][9]
+On 1 January 1911, a decade after federation, the Northern Territory was separated from South Australia and transferred to federal control. Alfred Deakin opined at this time "To me the question has been not so much commercial as national, first, second, third and last. Either we must accomplish the peopling of the northern territory or submit to its transfer to some other nation."[5] In late 1912 there was growing sentiment that the name "Northern Territory" was unsatisfactory.[6][7] The names "Kingsland" (after King George V and to correspond with Queensland), "Centralia" and "Territoria" were proposed with Kingsland becoming the preferred choice in 1913. However, the name change never went ahead.[8][9]
 
 For a brief time between 1927 and 1931 the Northern Territory was divided into North Australia and Central Australia at the 20th parallel of South latitude. Soon after this time, parts of the Northern Territory were considered in the Kimberley Plan as a possible site for the establishment of a Jewish Homeland, understandably considered the "Unpromised Land".[10][11]
 
@@ -65,7 +65,7 @@ During 1995–96 the Northern Territory was briefly one of the few places in the
 
 Geography
 
-Northern_Territory_0216.svg.]] ISS036-E-029323_lrg.jpg There are many very small settlements scattered across the territory, but the larger population centres are located on the single paved road that links Darwin to southern Australia, the Stuart Highway, known to locals simply as "the track".
+.]] There are many very small settlements scattered across the territory, but the larger population centres are located on the single paved road that links Darwin to southern Australia, the Stuart Highway, known to locals simply as "the track".
 
 The Northern Territory is home to two spectacular natural rock formations, Uluru (Ayers Rock) and Kata Tjuta (The Olgas), which are sacred to the local Aboriginal peoples and which have become major tourist attractions.
 
@@ -103,12 +103,10 @@ National parks
 
 File:Mount Sonder.JPG|Mount Sonder, the fourth-highest mountain in the Northern Territory after nearby Mount Zeil, in West MacDonnell National Park File:Kakadu 2488.jpg|Nourlangie Rock in Kakadu National Park File:Jim jim falls.jpg|Jim Jim Falls, Kakadu National Park File:Uluru NT Australia.JPG|Uluru (Ayers Rock), one of the best-known images of the Northern Territory File:Uluru, helicopter view, cropped.jpg|Aerial view of Uluru
 
-Kata_Tjuta_pan.jpg
-
 
 Climate
 
-Northern_Territory_Köppen.svg in the Northern Territory]] Fires_in_Northern_Territory,_Australia.jpg
+in the Northern Territory]]
 
 +-----------------------------------+
 | AVERAGE MONTHLY MAXIMUM           |
@@ -156,7 +154,7 @@ The highest temperature recorded in the territory was at Finke on 1 and 2 Januar
 
 Governance
 
-Northern_Territory_Legislative_Assembly.jpg building in Darwin]]
+building in Darwin]]
 
 Parliament
 
@@ -180,7 +178,7 @@ The Northern Territory became self-governing on 1 July 1978 under its own admini
 
 Federal government
 
-Children_wave_Australian_flags_during_an_Anzac_Day_parade_in_Palmerston,_Australia,_April_25,_2013,_as_U.S._Marines_with_the_1st_Platoon,_Lima_Company,_3rd_Battalion,_3rd_Marine_Regiment,_Marine_Rotational_130425-M-AL626-014.jpg parade in Palmerston]] The Northern Territory is represented in the federal parliament by two members in the House of Representatives and two members in the Senate. , resulting from the 2016 federal election, Warren Snowdon from the Australian Labor Party (ALP) and Luke Gosling from the Australian Labor Party (ALP) serve in the House of Representatives, and Malarndirri McCarthy from the ALP and Nigel Scullion from the CLP serve in the Senate.
+parade in Palmerston]] The Northern Territory is represented in the federal parliament by two members in the House of Representatives and two members in the Senate. , resulting from the 2016 federal election, Warren Snowdon from the Australian Labor Party (ALP) and Luke Gosling from the Australian Labor Party (ALP) serve in the House of Representatives, and Malarndirri McCarthy from the ALP and Nigel Scullion from the CLP serve in the Senate.
 
 Local government
 
@@ -188,7 +186,7 @@ The Northern Territory is divided into 17 local government areas, including 11 s
 
 Aboriginal land councils
 
-Australia_Aboriginal_Culture_011.jpg Aboriginal land councils in the Northern Territory are groups of Aboriginal landowners, set up under the Aboriginal Land Rights Act.
+Aboriginal land councils in the Northern Territory are groups of Aboriginal landowners, set up under the Aboriginal Land Rights Act.
 
 Political parties
 
@@ -196,8 +194,6 @@ The two dominant political parties in the Northern Territory are the conservativ
 
 
 Demographics
-
-ABS-3101.0-AustralianDemographicStatistics-EstimatedResidentPopulationStatesTerritories-EstimatedResidentPopulation-Persons-NorthernTerritory-A2060849W.svg
 
 +-----------------------------------------+
 | Population estimates                    |
@@ -233,9 +229,9 @@ ABS-3101.0-AustralianDemographicStatistics-EstimatedResidentPopulationStatesTerr
 
 The population of the Northern Territory at the 2011 Australian census was 211,945,[19] a 10 per cent increase from the 2006 census. The Australian Bureau of Statistics estimated a June 2015 resident population of 244,300, taking into account residents overseas or interstate. The territory's population represents 1% of the total population of Australia.[20][21][22]
 
-Yulara_from_helicopter_(August_2004).jpg]] The Northern Territory's population is the youngest in Australia and has the largest proportion (23.2%) under 15 years of age and the smallest proportion (5.7%) aged 65 and over. The median age of residents of the Northern Territory is 31 years, six years younger than the national median age.[23]
+]] The Northern Territory's population is the youngest in Australia and has the largest proportion (23.2%) under 15 years of age and the smallest proportion (5.7%) aged 65 and over. The median age of residents of the Northern Territory is 31 years, six years younger than the national median age.[23]
 
-Glen_Namundja.jpg artist from Arnhem Land, at work]] Indigenous Australians own some 49% of the land. The life expectancy of Aboriginal Australians is well below that of non-Indigenous Australians in the Northern Territory, a fact that is mirrored elsewhere in Australia. ABS statistics suggest that Indigenous Australians die about 11 years earlier than the average non-Indigenous Australian. There are Aboriginal communities in many parts of the territory, the largest ones being the Pitjantjatjara near Uluru, the Arrernte near Alice Springs, the Luritja between those two, the Warlpiri further north, and the Yolngu in eastern Arnhem Land.
+artist from Arnhem Land, at work]] Indigenous Australians own some 49% of the land. The life expectancy of Aboriginal Australians is well below that of non-Indigenous Australians in the Northern Territory, a fact that is mirrored elsewhere in Australia. ABS statistics suggest that Indigenous Australians die about 11 years earlier than the average non-Indigenous Australian. There are Aboriginal communities in many parts of the territory, the largest ones being the Pitjantjatjara near Uluru, the Arrernte near Alice Springs, the Luritja between those two, the Warlpiri further north, and the Yolngu in eastern Arnhem Land.
 
 More than 54% of Territorians live in Darwin, located in the territory's north (Top End). Less than half of the territory's population live in the rural Northern Territory. Despite this, the Northern Territory is the least urbanised federal division in the Commonwealth (followed by Tasmania).
 
@@ -282,20 +278,20 @@ At the 2016 census, the most commonly nominated ancestries were:[27][28]
 
 Languages
 
-Warumungu_native.jpg At the 2016 census, 58% of the population spoke only English at home. The other languages most commonly spoken at home were Kriol (1.9%), Djambarrpuyngu (1.9%), Greek (1.4%) Tagalog (1.3%), and Warlpiri (0.9%).[33][34]
+At the 2016 census, 58% of the population spoke only English at home. The other languages most commonly spoken at home were Kriol (1.9%), Djambarrpuyngu (1.9%), Greek (1.4%) Tagalog (1.3%), and Warlpiri (0.9%).[33][34]
 
 There are more than 100 Aboriginal languages and dialects spoken in the Northern Territory,[35] in addition to English which is most common in cities such as Darwin or Alice Springs. Major indigenous languages spoken in the Northern Territory include Murrinh-patha and Ngangikurrungurr in the northwest around Wadeye, Warlpiri and Warumungu in the centre around Tennant Creek, Arrernte around Alice Springs, Pintupi-Luritja to the south east, Pitjantjatjara in the south near Uluru, Yolngu Matha to the far north in Arnhem Land (where the dialect Djambarrpuyngu of Dhuwal is considered a lingua franca), and Burarra, Maung, Iwaidja and Kunwinjku in the centre north and on Croker Island and the Goulburn Islands. Tiwi is spoken on Melville Island and Bathurst Island.[36] Literature in many of these languages is available in the Living Archive of Aboriginal Languages.
 
 Religion
 
-Tjuki_tells_a_dreaming_story_about_Manpi_(pigeon).jpg throughout the Northern Territory.]] In the 2016 census Roman Catholics form the single largest religious group in the territory with 19.9% of the Northern Territory's population, followed by Anglican (8.4%), Uniting Church (5.7%) and Lutheran (2.6%). Buddhism is the territory's largest non-Christian religion (2.0%), followed by Hinduism (1.6%), which is the fastest growing religion population percentage wise in the state. Australian Aboriginal religion and mythology (1.4%) is also practiced. Around 30% of Territorians do not profess any religion.[37]
+throughout the Northern Territory.]] In the 2016 census Roman Catholics form the single largest religious group in the territory with 19.9% of the Northern Territory's population, followed by Anglican (8.4%), Uniting Church (5.7%) and Lutheran (2.6%). Buddhism is the territory's largest non-Christian religion (2.0%), followed by Hinduism (1.6%), which is the fastest growing religion population percentage wise in the state. Australian Aboriginal religion and mythology (1.4%) is also practiced. Around 30% of Territorians do not profess any religion.[37]
 
 Many Aborigines practise their traditional religion, their belief in the Dreamtime.
 
 
 Education
 
-CDU_library,_Casuarina.jpg]]
+]]
 
 Primary and secondary
 
@@ -339,7 +335,7 @@ The territory's current marketing campaign is 'Do the NT'.
 
 Transport
 
-LasseterHighway.JPG connects Uluru (Ayers Rock) to the Stuart Highway]] NR45_+_NR10_+_Ghan_Alice_Springs,_2015_(02).JPG]] The Northern Territory is the most sparsely populated state or territory in Australia.
+connects Uluru (Ayers Rock) to the Stuart Highway]] ]] The Northern Territory is the most sparsely populated state or territory in Australia.
 
 The NT has a connected network of sealed roads, including two National Highways, linking with adjoining States and connecting the major Territory population centres, and other important centres such as Uluru (Ayers Rock), Kakadu and Litchfield National Parks. The Stuart Highway, once known as "The Track", runs north to south, connecting Darwin and Alice Springs to Adelaide. Some of the sealed roads are single lane bitumen. Many unsealed (dirt) roads connect the more remote settlements.
 

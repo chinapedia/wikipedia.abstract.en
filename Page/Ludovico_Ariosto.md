@@ -5,27 +5,27 @@ Ariosto also coined the term "humanism" (in Italian, umanesimo)[5] for choosing 
 
 Birth and early life
 
-Mauriziano_ingresso_reggio_emilia.jpg Ariosto was born in Reggio nell’Emilia, where his father Niccolò Ariosto was commander of the citadel. He was the oldest of 10 children and was seen as the successor to the patriarchal position of his family. From his earliest years, Ludovico was very interested in poetry, but he was obliged by his father to study law.
+Ariosto was born in Reggio nell’Emilia, where his father Niccolò Ariosto was commander of the citadel. He was the oldest of 10 children and was seen as the successor to the patriarchal position of his family. From his earliest years, Ludovico was very interested in poetry, but he was obliged by his father to study law.
 
 After five years of law, Ariosto was allowed to read classics under Gregorio da Spoleto. Ariosto's studies of Greek and Latin literature were cut short by Spoleto's move to France to tutor Francesco Sforza. Shortly after this, Ariosto's father died.
 
 
 Education and patronage
 
-Ludovico_Ariosto_statue_-_Ferrara,_Italy.JPG.]] After the death of his father, Ludovico Ariosto was compelled to forgo his literary occupations and take care of his family, whose affairs were in disarray. Despite his family obligations, Ariosto managed to write some comedies in prose as well as lyrical pieces. Some of these attracted the notice of Cardinal Ippolito d'Este, who took the young poet under his patronage and appointed him one of the gentlemen of his household. Este compensated Ariosto poorly for his efforts; the only reward he gave the poet for _Orlando Furioso_, dedicated to him, was the question, "Where did you find so many stories, Master Ludovico?" Ariosto later said that the cardinal was ungrateful, that he deplored the time which he spent under his yoke, and that if he received some small pension, it was not to reward him for his poetry – which the prelate despised – but for acting as a messenger.
+.]] After the death of his father, Ludovico Ariosto was compelled to forgo his literary occupations and take care of his family, whose affairs were in disarray. Despite his family obligations, Ariosto managed to write some comedies in prose as well as lyrical pieces. Some of these attracted the notice of Cardinal Ippolito d'Este, who took the young poet under his patronage and appointed him one of the gentlemen of his household. Este compensated Ariosto poorly for his efforts; the only reward he gave the poet for _Orlando Furioso_, dedicated to him, was the question, "Where did you find so many stories, Master Ludovico?" Ariosto later said that the cardinal was ungrateful, that he deplored the time which he spent under his yoke, and that if he received some small pension, it was not to reward him for his poetry – which the prelate despised – but for acting as a messenger.
 
 Ludovico Ariosto and Leonardo da Vinci shared a patron in Cardinal Ippolito d'Este's older sister the Marchioness Isabella d’Este, the "First Lady of the Renaissance." Isabella d’Este appears in Ludovico's masterpiece, _Orlando Furioso_. She also appears in Leonardo's, "Sketch for a Portrait of Isabella d’Este," at the Louvre.
 
 _"A statue no less jocund, no less bright,/ Succeeds, and on the writing is impressed;/ Lo! Hercules’ daughter, Isabella hight,/ In whom Ferrara deems city blest,/ Much more because she first shall see the light/ Within its circuit, than for all the rest/ Which kind and favouring Fortune in the flow/ Of rolling years, shall on that town bestow."_ Orlando Furioso, Canto XLII.
 
-Da_Vinci_Isabella_d'Este.jpg 1499–1500]]
+1499–1500]]
 
 The cardinal went to Hungary in 1518, and wished Ariosto to accompany him. The poet excused himself, pleading ill health, his love of study, and the need to care for his elderly mother. His excuses were not well-received, and he was denied even an interview. Ariosto and d'Este got into a heated argument, and Ariosto was promptly dismissed from service.[6]
 
 
 New patronage and diplomatic career
 
-Titian_-_Portrait_of_a_man_with_a_quilted_sleeve.jpg, _A Man with a Quilted Sleeve_, long believed to be Ludovico Ariosto]] I_Suppositi_(1551).JPG
+, _A Man with a Quilted Sleeve_, long believed to be Ludovico Ariosto]]
 
 The cardinal's brother, Alfonso, duke of Ferrara, now took Ariosto under his patronage. By then, Ariosto had already distinguished himself as a diplomat, chiefly on the occasion of two visits to Rome as ambassador to Pope Julius II. The fatigue of one of these journeys brought on an illness from which he never recovered, and on his second mission he was nearly killed by order of the Pope, who happened at the time to be in conflict with Alfonso.
 
@@ -40,7 +40,7 @@ The third and final version of the _Orlando Furioso_, in 46 cantos, appeared on 
 
 Poetic style
 
-Ariosto.jpg]]
+]]
 
 Throughout Ariosto's writing are narratorial comments dubbed by Dr. Daniel Javitch as "Cantus Interruptus". Javitch's term refers to Ariosto's narrative technique to break off one plot line in the middle of a canto, only to pick it up again in another, often much later, canto. Javitch argues that while many critics have assumed Ariosto does this so as to build narrative tension and keep the reader turning pages, the poet in reality defuses narrative tension because so much time separates the interruption and the resumption. By the time the reader gets to the continuation of the story, he or she has often forgotten or ceased to care about the plot and is usually wrapped up in another plot. Ariosto does this, Javitch argues, to undermine "man's foolish but persistent desire for continuity and completion". Ariosto uses it throughout his works.[7]
 

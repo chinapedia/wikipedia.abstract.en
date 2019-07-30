@@ -1,4 +1,4 @@
-CoffeeShopAmsterdam.jpg in Amsterdam, Netherlands.]] Blowverbod.jpg, indicating smoking cannabis and drinking alcohol are prohibited in this particular neighbourhood due to disturbances.]]
+in Amsterdam, Netherlands.]] , indicating smoking cannabis and drinking alcohol are prohibited in this particular neighbourhood due to disturbances.]]
 
 While recreational use, possession and trade of non-medicinal drugs described by the Opium Law are all technically illegal under Dutch law, official policy since the late 20th century has been to openly tolerate all recreational use while tolerating the other two under certain circumstances. This pragmatic approach was motivated by the idea that a drug-free Dutch society is unrealistic and unattainable, and efforts would be better spent trying to minimize harm caused by recreational drug use.[1] As a result of this _GEDOOGBELEID_ (lit. "tolerance policy" or "policy of tolerance"), the Netherlands is typically seen as much more tolerant of drugs than most other countries.[2]
 
@@ -11,14 +11,14 @@ While the legalization of cannabis remains controversial, the introduction of he
 
 Public health
 
-Smokers-as-a-percentage-of-adult-pop.jpg, Norway, Japan, and Finland.]]
+, Norway, Japan, and Finland.]]
 
 Large-scale dealing, production, import and export are prosecuted to the fullest extent of the law, even if it does not supply end users or _coffeeshops_ with more than the allowed amounts. Exactly how coffeeshops get their supplies is rarely investigated, however. The average concentration of THC in the cannabis sold in coffeeshops has increased from 9% in 1998 to 18% in 2005.[14] This means that less plant material has to be consumed to achieve the same effect. One of the reasons is plant breeding and use of greenhouse technology for illegal growing of cannabis in Netherlands.[15] The former minister of Justice Piet Hein Donner announced in June 2007 that cultivation of cannabis shall continue to be illegal.
 
 
 Non-enforcement
 
-Coffee_shop_license_AMS_mirror.JPG in Amsterdam, Netherlands.]] 2013-04-01_Utrecht_10.JPG.]]
+in Amsterdam, Netherlands.]] .]]
 
 The drug policy of the Netherlands is marked by its distinguishing between so called soft and hard drugs. An often used argument is that alcohol, which is claimed by some scientists as a hard drug,[16] is legal and a soft drug can't be more dangerous to society if it's controlled. This may refer to the Prohibition in the 1920s, when the U.S. government decided to ban all alcohol. Prohibition created a golden opportunity for organized crime syndicates to smuggle alcohol, and as a result the syndicates were able to gain considerable power in some major cities.[17] Cannabis remains a controlled substance in the Netherlands and both possession and production for personal use are still misdemeanors, punishable by fines. Coffeeshops are also technically illegal but are flourishing nonetheless. However, a policy of non-enforcement has led to a situation where reliance upon non-enforcement has become common, and because of this the courts have ruled against the government when individual cases were prosecuted.
 
@@ -31,7 +31,7 @@ Proponents of _gedoogbeleid_ argue that such a policy practices more consistency
 
 Drug law enforcement
 
-Bolletjes.jpg of a balloon swallower trafficking cocaine, photographed by a Dutch radiographer.]] Importing and exporting of any classified drug is a serious offence. The penalty can run up to 12 to 16 years if it is hard drug trade, maximum 4 years for import or export of large quantities of cannabis.[21] It is prohibited to operate a motor vehicle while under the influence of any drug that affects driving ability to such an extent that you are unable to drive properly. (Section 8 of the 1994 Road Traffic Act section 1). The Dutch police have the right to do a drug test if they suspect influenced driving. For example, anybody involved in a traffic accident may be tested. Causing an accident that inflicts bodily harm, while under influence of any drug, is seen as a crime that may be punished by up to 3 years in prison (9 years in case of a fatal accident). Suspension of driving license is also normal in such a case (maximum 5 years).[22] Schiphol, a large international airport near Amsterdam, has long practiced a zero tolerance policy regarding airline passengers carrying drugs. In 2006 there were 20,769 drug crimes registered by public prosecutors and 4,392 persons received an unconditional prison sentence[23] The rate of imprisonment for drug crimes is about the same as in Sweden, which has a zero tolerance policy for drug crimes.[24]
+of a balloon swallower trafficking cocaine, photographed by a Dutch radiographer.]] Importing and exporting of any classified drug is a serious offence. The penalty can run up to 12 to 16 years if it is hard drug trade, maximum 4 years for import or export of large quantities of cannabis.[21] It is prohibited to operate a motor vehicle while under the influence of any drug that affects driving ability to such an extent that you are unable to drive properly. (Section 8 of the 1994 Road Traffic Act section 1). The Dutch police have the right to do a drug test if they suspect influenced driving. For example, anybody involved in a traffic accident may be tested. Causing an accident that inflicts bodily harm, while under influence of any drug, is seen as a crime that may be punished by up to 3 years in prison (9 years in case of a fatal accident). Suspension of driving license is also normal in such a case (maximum 5 years).[22] Schiphol, a large international airport near Amsterdam, has long practiced a zero tolerance policy regarding airline passengers carrying drugs. In 2006 there were 20,769 drug crimes registered by public prosecutors and 4,392 persons received an unconditional prison sentence[23] The rate of imprisonment for drug crimes is about the same as in Sweden, which has a zero tolerance policy for drug crimes.[24]
 
 Despite the high priority given by the Dutch government to fighting illegal drug trafficking, the Netherlands continue to be an important transit point for drugs entering Europe. The Netherlands is a major producer[25] and leading distributor of cannabis, heroin, cocaine, amphetamines[26][27] and other synthetic drugs, and a medium consumer of illicit drugs.[28] Despite the crackdown by Interpol on traffic and illicit manufacture of temazepam,[29] the country has also become a major exporter of illicit temazepam of the jelly variety, trafficking it to the United Kingdom and other European nations.[30] The government has intensified cooperation with neighbouring countries and stepped up border controls. In recent years, it also introduced so-called 100% checks and bodyscans at Schiphol Airport on incoming flights from Dutch overseas territories Aruba and Netherlands Antilles to prevent importing cocaine by means of swallowing balloons by mules.
 
@@ -90,7 +90,7 @@ A study conducted by the European Monitoring Centre of Drugs and Drug Addiction 
 
 Law banning "magic mushrooms"
 
-Paddo_products_Warmoesstraat_Amsterdam_april_2007.JPG mushrooms on display in Amsterdam, Netherlands in 2007.]]
+mushrooms on display in Amsterdam, Netherlands in 2007.]]
 
 In October 2007, the prohibition of hallucinogenic or "magic mushrooms" was announced by the Dutch authorities.[53][54]
 

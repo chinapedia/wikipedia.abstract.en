@@ -13,7 +13,7 @@ Captain James Cook was the first European to sight the island, but he was unable
 
 Christian missionaries
 
-Inside.Church,Niue,Thomas_Andrew_1896.jpg of the interior of church building in Alofi, 1896.]] Christian missionaries from the London Missionary Society converted most of the population circa 1846. In 1887, King Fataaiki wrote to Queen Victoria of the United Kingdom, requesting that Niue be placed under British protection, but his request was turned down. In 1900, in response to renewed requests, the island became a British protectorate, and the following year it was annexed by New Zealand. Niue's remoteness, as well as cultural and linguistic differences between its Polynesian inhabitants and those of the Cook Islands, caused it to be separately administered. Hoisting_the_Union_Jack_over_Savage_Island,_1900.jpg flag over Niue, 1900]]
+of the interior of church building in Alofi, 1896.]] Christian missionaries from the London Missionary Society converted most of the population circa 1846. In 1887, King Fataaiki wrote to Queen Victoria of the United Kingdom, requesting that Niue be placed under British protection, but his request was turned down. In 1900, in response to renewed requests, the island became a British protectorate, and the following year it was annexed by New Zealand. Niue's remoteness, as well as cultural and linguistic differences between its Polynesian inhabitants and those of the Cook Islands, caused it to be separately administered. flag over Niue, 1900]]
 
 
 Other 19th Century Visitors

@@ -9,8 +9,6 @@ Home to thousands of Kenyan businesses and over 100 major international companie
 
 Nairobi metropolitan region
 
-Nairobi_County_in_Nairobi_Metro.png
-
 Nairobi is found within the Greater Nairobi Metropolitan region, which consists of 5 out of 47 counties in Kenya, which generates about 60% of the entire nation's GDP.[11][12] The counties are:
 
 +---------------------+-----------------+------------+-------------+----------------------------------------------------------------------------+
@@ -37,9 +35,9 @@ History
 
 Early years
 
-Nairobi_18_99.jpg The site of Nairobi was originally part of an uninhabited swamp.[13] The name Nairobi itself comes from the Maasai expression meaning "cool waters", referring to the cold water stream which flowed through the area.[14] With the arrival of the Uganda Railway, the site was identified by Sir George Whitehouse for a store depot, shunting ground and camping ground for the Indian labourers working on the railway. Whitehouse, chief engineer of the railway, favoured the site as an ideal resting place due to its high elevation, temperate climate and being situated before the steep ascent of the Limuru escarpments.[15][16] His choice was however criticised by officials within the Protectorate government who felt the site was too flat, poorly drained and relatively infertile.[17]
+The site of Nairobi was originally part of an uninhabited swamp.[13] The name Nairobi itself comes from the Maasai expression meaning "cool waters", referring to the cold water stream which flowed through the area.[14] With the arrival of the Uganda Railway, the site was identified by Sir George Whitehouse for a store depot, shunting ground and camping ground for the Indian labourers working on the railway. Whitehouse, chief engineer of the railway, favoured the site as an ideal resting place due to its high elevation, temperate climate and being situated before the steep ascent of the Limuru escarpments.[15][16] His choice was however criticised by officials within the Protectorate government who felt the site was too flat, poorly drained and relatively infertile.[17]
 
-In 1898, Arthur Church was commissioned to design the first town layout for the railway depot. It constituted two streets – Victoria Street and Station Street, ten avenues, staff quarters and an Indian commercial area.[18] The railway arrived at Nairobi on 30 May 1899, and soon Nairobi replaced Machakos as the headquarters of the provincial administration for Ukamba province.[19] [20] On the arrival of the railway, Whitehouse remarked that "Nairobi itself will in the course of the next two years become a large and flourishing place and already there are many applications for sites for hotels, shops and houses.[21] The town's early years were however beset with problems of malaria leading to at least one attempt to have the town moved.[22] In the early 1900s, Bazaar Street (now Biashara Street) was completely rebuilt after an outbreak of plague and the burning of the original town.[23] _The_entrance_to_the_Nairobi_Railway_Station_in_1899.jpg
+In 1898, Arthur Church was commissioned to design the first town layout for the railway depot. It constituted two streets – Victoria Street and Station Street, ten avenues, staff quarters and an Indian commercial area.[18] The railway arrived at Nairobi on 30 May 1899, and soon Nairobi replaced Machakos as the headquarters of the provincial administration for Ukamba province.[19] [20] On the arrival of the railway, Whitehouse remarked that "Nairobi itself will in the course of the next two years become a large and flourishing place and already there are many applications for sites for hotels, shops and houses.[21] The town's early years were however beset with problems of malaria leading to at least one attempt to have the town moved.[22] In the early 1900s, Bazaar Street (now Biashara Street) was completely rebuilt after an outbreak of plague and the burning of the original town.[23]
 
 Between 1902 and 1910, the town's population rose from 5,000 to 16,000 and grew around administration and tourism, initially in the form of big game hunting.[24] In 1907, Nairobi replaced Mombasa as the capital of the East Africa Protectorate.[25]In 1908, a further outbreak of the plague led to Europeans concluding that the cause was unhygienic conditions in the Indian Bazaar. The government responded by restricting lower class Indians and African natives to specific quarters for residence and trade setting a precedent for racial segregation in the commercial sphere.[26] By the outset of the First World War, Nairobi was well established as a European settler colony through immigration and land alienation.[27] In 1919, Nairobi was declared to be a municipality.[28] [29]
 
@@ -53,8 +51,6 @@ Post Independence
 
 After independence, Nairobi grew rapidly and this growth put pressure on the city's infrastructure. Power cuts and water shortages were a common occurrence, though in the past few years better city planning has helped to put some of these problems in check.
 
-COLLECTIE_TROPENMUSEUM_Zicht_op_Nairobi_met_op_de_voorgrond_het_stadspark_met_tribune_TMnr_20014416.jpg
-
 On 11 September 1973, the Kenyatta International Conference Centre KICC was open to the public. The 28-storey building at the time was designed by the Norwegian architect Karl Henrik Nøstvik and Kenyan David Mutiso. The construction was done in three phases. Phase I was the construction of the podium, Phase II consisted of the main tower, and Phase III involved the Plenary. Construction was completed in 1973, with the opening ceremony occurring on 11 September and being presided over by Kenya's founding father President Kenyatta. It is the only building within the city with a helipad that is open to the public. Of the buildings built in the Seventies, the KICC was the most eco-friendly and most environmentally conscious structure; its main frame was constructed with locally available materials gravel, sand, cement and wood, and it had wide open spaces which allowed for natural aeration and natural lighting. Cuboids made up the plenary hall, the tower consisted of a cylinder composed of several cuboids, and the amphitheater and helipad both resembled cones. The tower was built around a concrete core and it had no walls but glass windows, which allowed for maximum natural lighting. It had the largest halls in eastern and central Africa.[32]
 
 Three years prior in 1972, the World Bank approved funds for further expansion of the then Nairobi Airport (now Jomo Kenyatta International Airport), including a new international and domestic passenger terminal building, the airport's first dedicated cargo and freight terminal, new taxiways, associated aprons, internal roads, car parks, police and fire stations, a State Pavilion, airfield and roadway lighting, fire hydrant system, water, electrical, telecommunications and sewage systems, a dual carriageway passenger access road, security, drainage and the building of the main access road to the airport (Airport South Road). The total cost of the project was more than US$29 million (US$111.8 million in 2013 dollars).[33] On 14 March 1978, construction of the current terminal building was completed on the other side of the airport's single runway and opened by President Jomo Kenyatta less than five months before his death. The airport was renamed Jomo Kenyatta International Airport in memory of its First President.
@@ -63,7 +59,7 @@ The United States Embassy, then located in downtown Nairobi, was bombed in Augus
 
 Contemporary
 
-Nairobi_Skyline_from_BBC_Studios.jpg Buildings_along_Woodvale_Grove.jpg]] On 9 November 2012, President Mwai Kibaki opened the KES 31 billion Thika Superhighway. The mega-project in East and Central Africa started in 2009 and ended in 2011. It involved expanding the four-lane carriageway to eight lanes, building underpasses, providing interchanges at roundabouts, erecting flyovers and building underpasses to ease congestion. The 50.4-kilometre road was built in three phases: Uhuru Highway to Muthaiga Roundabout; Muthaiga Roundabout to Kenyatta University and; Kenyatta University to Thika Town.[35]
+]] On 9 November 2012, President Mwai Kibaki opened the KES 31 billion Thika Superhighway. The mega-project in East and Central Africa started in 2009 and ended in 2011. It involved expanding the four-lane carriageway to eight lanes, building underpasses, providing interchanges at roundabouts, erecting flyovers and building underpasses to ease congestion. The 50.4-kilometre road was built in three phases: Uhuru Highway to Muthaiga Roundabout; Muthaiga Roundabout to Kenyatta University and; Kenyatta University to Thika Town.[35]
 
 On 31 May 2017, The current president Uhuru Kenyatta inaugurated the Standard Gauge railway which runs from Nairobi to Mombasa and vice versa. It was primarily built by a Chinese firm with about 90% of total funding from China and about 10% from the Kenyan government. A second phase is also being built which will link Naivasha to the existing route and also the Uganda border.
 
@@ -78,7 +74,7 @@ Historical population data for Nairobi
 
 Geography
 
-Nairobi_Aerial_Photo.jpg Kenyatta_International_Conference_Centre.jpg with Times Tower in the background]] Nairobi,_Kenya.JPG
+with Times Tower in the background]]
 
 The city is situated at and and occupies .
 
@@ -94,8 +90,6 @@ Under the Köppen climate classification, Nairobi has a subtropical highland cli
 
 There are two rainy seasons, but rainfall can be moderate. The cloudiest part of the year is just after the first rainy season, when, until September, conditions are usually overcast with drizzle. As Nairobi is situated close to the equator, the differences between the seasons are minimal. The seasons are referred to as the wet season and dry season. The timing of sunrise and sunset varies little throughout the year for the same reason.[40]
 
-Nairobi_South.jpg
-
 Districts and neighbourhoods
 
 Nairobi is divided into a series of constituencies with each being represented by members of Parliament in the National Assembly. These constituencies are: Makadara, Kamukunji, Starehe, Langata, Dagoretti, Westlands, Kasarani, and Embakasi.[41] The main administrative divisions of Nairobi are Central, Dagoretti, Embakasi, Kasarani, Kibera, Makadara, Pumwani, and Westlands. Most of the upmarket suburbs are situated to the west and north-central of Nairobi, where most European settlers resided during the colonial times AKA 'Ubabini'.[42] These include Karen, Langata, Lavington, Gigiri, Muthaiga, Brookside, Spring Valley, Loresho, Kilimani, Kileleshwa, Hurlingham, Runda, Kitisuru, Nyari, Kyuna, Lower Kabete, Westlands, and Highridge, although Kangemi, Kawangware, and Dagoretti are lower income areas close to these affluent suburbs. The city's colonial past is commemorated by many English place-names.
@@ -104,13 +98,11 @@ Most lower-middle and upper middle income neighbourhoods are located in the nort
 
 Kibera slum
 
-Kibera,_Nairobi_May_2007.jpg
-
 The Kibera slum in Nairobi (with an estimated population of at least 500,000 to over 1,000,000 people) was thought to be Africa's second largest slum. However, recent census results have shown that Kibera is indeed much smaller than originally thought.[44]
 
 Parks and gardens
 
-Central_park_.jpg West_Nairobi_CBD.jpg between Upper Hill and the Nairobi CBD]]
+between Upper Hill and the Nairobi CBD]]
 
 Nairobi has many parks and open spaces throughout the city. Much of the city has dense tree-cover and plenty of green spaces. The most famous park in Nairobi is Uhuru Park. The park borders the central business district and the neighbourhood Upper Hill. Uhuru (_Freedom_ in Swahili) Park is a centre for outdoor speeches, services, and rallies. The park was to be built over by former President Daniel arap Moi, who wanted the 62-storey headquarters of his party, the Kenya African National Union, situated in the park.[45] However, the park was saved following a campaign by Nobel Peace Prize winner Wangari Maathai.
 
@@ -128,8 +120,6 @@ The Nairobi province differs in several ways from other Kenyan regions. The coun
 Nairobi County has seventeen constituencies. Constituency name may differ from division name, such that Starehe Constituency is equal to Central Division, Lang'ata Constituency to Kibera division, and Kamukunji Constituency to Pumwani Division in terms of boundaries.
 
 Constituencies
-
-Co-operative_Bank_of_Kenya.jpg
 
 Nairobi is divided into seventeen constituencies and eighty five wards,[49] mostly named after residential estates. Kibera Division, for example, includes Kibera (Kenya's largest slum) as well as affluent estates of Karen and Langata.
 
@@ -156,8 +146,6 @@ Nairobi is divided into seventeen constituencies and eighty five wards,[49] most
 
 Economy
 
-Nairobi_economic_capital_of_africa.jpg I&M_Bank_Tower.jpg
-
 Nairobi is home to the Nairobi Securities Exchange (NSE), one of Africa's largest stock exchange. The NSE was officially recognised as an overseas stock exchange by the London Stock Exchange in 1953. The exchange is Africa's 4th largest in terms of trading volumes, and 5th largest in terms of Market Capitalization as a percentage of GDP.[50]
 
 Nairobi is the regional headquarters of several international companies and organisations. In 2007, General Electric, Young & Rubicam, Google, Coca-Cola, IBM Services, Airtel, and Cisco Systems relocated their African headquarters to the city.[51][52] The United Nations Office at Nairobi hosts UN Environment and UN-Habitat headquarters.
@@ -182,7 +170,7 @@ Nairobi downtown area or central business district is bordered to the southwest 
 
 Upper Hill
 
-Section_of_Upper_Hill_in_2018.jpg Today, many businesses are considering relocating and /or establishing their headquarters outside the Central Business District area. This is because it is a prime location with land available for putting up buildings unlike the Central Business District, and better facilities can easily be built and maintained elsewhere. Two areas that are seeing a growth in companies and office space are Upper Hill, which is located, approximately from the Central Business District and Westlands, which is also about the same distance, away from the city centre.
+Today, many businesses are considering relocating and /or establishing their headquarters outside the Central Business District area. This is because it is a prime location with land available for putting up buildings unlike the Central Business District, and better facilities can easily be built and maintained elsewhere. Two areas that are seeing a growth in companies and office space are Upper Hill, which is located, approximately from the Central Business District and Westlands, which is also about the same distance, away from the city centre.
 
 Companies that have moved from the Central Business District to Upper Hill include Citibank and in 2007, Coca-Cola began construction of their East and Central African headquarters in Upper Hill,[60] cementing the district as the preferred location for office space in Nairobi. The largest office development in this area is UAP Tower, completed recently in 2015 and officially opened for business on July 4th 2016[61]. It is a 33-storey tower and reaches a height of 163 meters. The World Bank and International Finance Corporation (part of the World Bank Group) are also located in Upper Hill at the Delta Center, Menegai Road. Earlier on, they were located in the Hill Park Building and CBA Building respectively (both also in Upper Hill), and prior to that in View Park towers in the Central Business District.
 
@@ -190,7 +178,7 @@ To accommodate the large demand for floor space in Nairobi, various commercial p
 
 CONSTRUCTION BOOM AND REAL ESTATE DEVELOPMENT PROJECTS
 
-A_view_of_Nairobi_from_the_Kenyatta_International_Conference_Centre.jpg]]Nairobi is currently undergoing a construction boom. Major real estate projects and skyscrapers are coming up in the city. Among them are:The pinnacle twin towers which will tower at 314 m, Britam Tower (200 m), Avic International Africa headquarters (176 m), Prism tower (140 m), Pan Africa insurance towers, Pallazzo offices, and many other projects. Shopping malls are also being constructed like the recently completed Garden city Mall, Centum's Two rivers Mall, The Hub in Karen, Karen waterfront, Thika Greens, and the recently reconstructed Westgate Mall. High-class residential apartments for living are coming up like Le Mac towers, a residential tower in Westlands Nairobi with 23 floors. Avic International is also putting up a total of four residential apartments on Waiyaki way: a 28-level tower, two 24-level towers, and a 25-level tower. Hotel towers are also being erected in the city. Avic International is putting up a 30-level hotel tower of 141 m in the Westlands. The hotel tower will be operated by Marriot group. Jabavu limited is constructing a 35 floor hotel tower in Upper Hill which will be high over 140 metres in the city skyline. Arcon Group Africa has also announced plans to erect a skyscraper in Upper hill which will have 66 floors and tower over 290 metres, further cementing Upper hill as the preferred metropolis for multinational corporations launching their operations in the Kenyan capital.
+]]Nairobi is currently undergoing a construction boom. Major real estate projects and skyscrapers are coming up in the city. Among them are:The pinnacle twin towers which will tower at 314 m, Britam Tower (200 m), Avic International Africa headquarters (176 m), Prism tower (140 m), Pan Africa insurance towers, Pallazzo offices, and many other projects. Shopping malls are also being constructed like the recently completed Garden city Mall, Centum's Two rivers Mall, The Hub in Karen, Karen waterfront, Thika Greens, and the recently reconstructed Westgate Mall. High-class residential apartments for living are coming up like Le Mac towers, a residential tower in Westlands Nairobi with 23 floors. Avic International is also putting up a total of four residential apartments on Waiyaki way: a 28-level tower, two 24-level towers, and a 25-level tower. Hotel towers are also being erected in the city. Avic International is putting up a 30-level hotel tower of 141 m in the Westlands. The hotel tower will be operated by Marriot group. Jabavu limited is constructing a 35 floor hotel tower in Upper Hill which will be high over 140 metres in the city skyline. Arcon Group Africa has also announced plans to erect a skyscraper in Upper hill which will have 66 floors and tower over 290 metres, further cementing Upper hill as the preferred metropolis for multinational corporations launching their operations in the Kenyan capital.
 
 +------------------------------------------------+---------------+
 | Pinnacle Towers (estimated completion in 2020) |               |
@@ -224,7 +212,7 @@ A_view_of_Nairobi_from_the_Kenyatta_International_Conference_Centre.jpg]]Nairobi
 
 Also see List of tallest buildings in Kenya
 
-Giraffe_-_Skyline_-_Nairobi_-_Park.jpg, with Nairobi's skyline in background]]
+, with Nairobi's skyline in background]]
 
 
 Parks
@@ -325,8 +313,6 @@ Nairobi has two informal nicknames. The first is _"The Green City in the Sun"_, 
 
 Literature and film
 
-Nairobi_Cinema.jpg
-
 _Kwani?_ is Kenya's first literary journal and was established by writers living in Nairobi. Nairobi's publishing houses have also produced the works of some of Kenya's authors, including Ngũgĩ wa Thiong'o and Meja Mwangi who were part of post-colonial writing.
 
 Many film makers also practice their craft out of Nairobi. Film-making is still young in the country, but people like producer Njeri Karago and director Judy Kibinge are paving the way for others.
@@ -391,7 +377,7 @@ Basketball is also a popular Sport played in the City's Primary, Secondary and C
 
 Places of worship
 
-Holy_Family_Basilica_(Nairobi,_Kenya)_02.JPG Among the places of worship, they are predominantly Christian churches and temples (Catholic: Roman Catholic Archdiocese of Nairobi, Protestant: Anglican Church of Kenya, Presbyterian Church of East Africa, Evangelical Christian: Baptist Convention of Kenya, Assemblies of God).[78] There are also Muslim mosques.
+Among the places of worship, they are predominantly Christian churches and temples (Catholic: Roman Catholic Archdiocese of Nairobi, Protestant: Anglican Church of Kenya, Presbyterian Church of East Africa, Evangelical Christian: Baptist Convention of Kenya, Assemblies of God).[78] There are also Muslim mosques.
 
 
 Education
@@ -425,8 +411,6 @@ Infrastructure
 
 Transport
 
-Syokimau_Railway_Station.jpg
-
 Major plans are being implemented in the need to decongest the city's traffic and the completion of Thika Road has given the city a much needed face-lift attributed to road's enhancement of global standards. Several projects have been completed (Syokimau Rail Station, the Eastern and Northern Bypasses) while numerous other projects are still underway. The country's head of state announced (when he opened Syokimau Rail Service) that Kenya was collaborating with other countries in the region to develop railway infrastructure to improve regional connectivity under the ambitious LAPPSET project which is the single largest and most expensive in the continent.
 
 Kenya signed a bilateral agreement with Uganda to facilitate joint development of the Mombasa-Malaba-Kampala standard gauge railway. A branch line will also be extended to Kisumu.
@@ -436,8 +420,6 @@ Similarly, Kenya signed a Memorandum of Understanding with the Government of Eth
 The development of these critical transport facilities will, besides reducing transport costs due to faster movement of goods and people within the region, also increase trade, improve the socio-economic welfare of Northern Kenya and boost the country's potential in attracting investments from all over the world.
 
 The first phase of the Standard Gauge Railway project was launched on 31 May 2017 by the President of Kenya Uhuru Kenyatta in a ceremony that saw thousands of Kenyans ride on the inaugural trip free of charge. The two passenger locomotives christened MADARAKA EXPRESS currently operate daily trips between Nairobi and Mombasa.
-
-Jomo_Kenyatta_International_Airport_(JKIA).jpg
 
 Airports
 
@@ -451,13 +433,11 @@ Matatu
 
 Matatus are the most common form of public transport in Nairobi. Matatu, which literally translates to "three cents for a ride" (nowadays much more) are privately owned minibuses, and the most popular form of local transport.[82] They generally seat fourteen to twenty-four. Matatus operate within Nairobi, its environs and suburbs and from Nairobi to other towns around the country. The matatu's route is imprinted along a yellow stripe on the side of the bus, and matatus plying specific routes have specific route numbers. However, in November 2014 President Uhuru Kenyatta lifted the ban on the yellow stripe and allowed matatus to maintain the colourful graphics in an effort to support the youth in creating employment. Matatus in Nairobi were easily distinguishable by their extravagant paint schemes, as owners would paint their matatu with various colourful decorations, such as their favourite football team or hip hop artist. More recently, some have even painted Barack Obama's face on their vehicle. They are notorious for their poor safety records, which are a result of overcrowding and reckless driving. Due to the intense competition between matatus, many are equipped with powerful sound systems and television screens to attract more customers.
 
-A_matatu.jpg However, in 2004, a law was passed requiring all matatus to include seat belts and speed governors and to be painted with a yellow stripe.[83] At first, this caused a furore amongst Matatu operators, but they were pressured by government and the public to make the changes. Matatus are now limited to . However, many of the matatu vehicles have had their speed governors disabled, which is evident by them travelling at speeds well over .
+However, in 2004, a law was passed requiring all matatus to include seat belts and speed governors and to be painted with a yellow stripe.[83] At first, this caused a furore amongst Matatu operators, but they were pressured by government and the public to make the changes. Matatus are now limited to . However, many of the matatu vehicles have had their speed governors disabled, which is evident by them travelling at speeds well over .
 
 Buses
 
 Buses are increasingly becoming common in the city with some even going to the extents of installing complimentary WiFi systems in partnership with the leading mobile service provider. There are four major bus companies operating the city routes and are the traditional Kenya Bus Service (KBS), and newer private operators Citi Hoppa, Compliant MOA and Double M. The Citi Hoppa buses are distinguishable by their green livery, the Double M buses are painted purple, Compliant MOA by their distinctively screaming names and mix of white, blue colours while the KBS buses are painted blue.
-
-Nairobi_Public_Transport.jpg
 
 Companies such as Easy Coach, Crown Bus, Coast Bus, Modern Coast, Eldoret Express, Chania, the Guardian Angel, Spanish and Mash Poa run scheduled buses and luxury coaches to other cities and towns.
 
@@ -469,15 +449,11 @@ The new Mombasa-Nairobi Standard Gauge Railway connects the port city of Mombasa
 
 Roads
 
-Museam_hill_interchange.jpg The_A104_heading_to_Nairobi_CBD.jpg
-
 Nairobi is served by highways that link Mombasa to Kampala in Uganda and Arusha in Tanzania. These are earmarked to ease the daily motor traffic within and surrounding the metro area. However, driving in Nairobi is chaotic. Most of the roads are tarmacked and there are signs showing directions to certain neighbourhoods. The city is connected to the Jomo Kenyatta International Airport by the Mombasa Highway, which passes through Industrial Area, South B, South C and Embakasi. Ongata Rongai, Langata and Karen are connected to the city centre by Langata Road, which runs to the south. Lavington, Riverside, Westlands, etc. are connected by Waiyaki Way. Kasarani, Eastlands, and Embakasi are connected by Thika Road, Jogoo Road, and Outer Ring Road.
 
 Highways connect the city with other major towns such as Mombasa, Machakos, Voi, (A109), Kisumu, Nakuru, Eldoret, Namanga Border Tanzania(A104) etc.
 
 Nairobi is undergoing major road constructions to update its infrastructure network. The new systems of roads, flyovers, and bridges would cut outrageous traffic levels caused the inability of the current infrastructure to cope with the soaring economic growth in the past few years. It is also a major component of Kenya's Vision 2030 and Nairobi Metropolis plans. Most roads now, though, are well lit and surfaced with adequate signage.
-
-Eastern_Bypass,_Nairobi.jpg
 
 Private car population projection for Nairobi
 
@@ -491,10 +467,10 @@ Water supply and sanitation
 
 Housing
 
-Nairobi_Metro_location_map.png (red)
+(red)
 Kajiado County (green)
 Machakos County (yellow)
-Kiambu County (purple)]] Nairobi_Kibera_04.JPG, the largest urban slum in Africa]] There is wide variety regarding standards of living in Nairobi. Most wealthy Kenyans live in Nairobi, but the majority of Nairobians are of average and low income. Half of the population has been estimated to live in slums which cover just 5% of the city area.[85] The growth of these slums is a result of urbanisation, poor town planning, and the unavailability of loans for low income earners.
+Kiambu County (purple)]] , the largest urban slum in Africa]] There is wide variety regarding standards of living in Nairobi. Most wealthy Kenyans live in Nairobi, but the majority of Nairobians are of average and low income. Half of the population has been estimated to live in slums which cover just 5% of the city area.[85] The growth of these slums is a result of urbanisation, poor town planning, and the unavailability of loans for low income earners.
 
 Kibera is one of the largest slums in Africa,[86] and is situated to the west of Nairobi. (Kibera comes from the Nubian word Kibra, meaning "forest" or "jungle").[87] The slums cover two square kilometres[88] and are on government land. Kibera has been the setting for several films, the most recent being _The Constant Gardener_.
 
@@ -520,7 +496,7 @@ On January 15, 2019, five gunmen attacked the DusitD2 hotel in Nairobi's Westlan
 
 Media
 
-Nation_Center.jpg]]
+]]
 
 Nairobi is home to most of Kenya's news and media organisations. The city is also home to the region's largest newspapers: the _Daily Nation_ and _The Standard_. These are circulated within Kenya and cover a range of domestic and regional issues. Both newspapers are published in English.
 

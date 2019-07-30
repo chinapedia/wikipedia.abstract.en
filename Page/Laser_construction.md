@@ -1,5 +1,3 @@
-Lasercons.svg
-
 A LASER IS CONSTRUCTED from three principal parts:
 
 -   An energy source (usually referred to as the _pump_ or _pump source_),
@@ -26,7 +24,7 @@ Examples of different gain media include:
 
 Optical resonator
 
-Gaussian_beam_burn_comparison.png photographic paper burn comparison of a carbon dioxide transversely-excited atmospheric-pressure laser, obtained during the optimization process by adjusting the alignment mirrors.]] The _optical resonator_, or _optical cavity_, in its simplest form is two parallel mirrors placed around the gain medium, which provide feedback of the light. The mirrors are given optical coatings which determine their reflective properties. Typically, one will be a high reflector, and the other will be a partial reflector. The latter is called the output coupler, because it allows some of the light to leave the cavity to produce the laser's output beam.
+photographic paper burn comparison of a carbon dioxide transversely-excited atmospheric-pressure laser, obtained during the optimization process by adjusting the alignment mirrors.]] The _optical resonator_, or _optical cavity_, in its simplest form is two parallel mirrors placed around the gain medium, which provide feedback of the light. The mirrors are given optical coatings which determine their reflective properties. Typically, one will be a high reflector, and the other will be a partial reflector. The latter is called the output coupler, because it allows some of the light to leave the cavity to produce the laser's output beam.
 
 Light from the medium, produced by spontaneous emission, is reflected by the mirrors back into the medium, where it may be amplified by stimulated emission. The light may reflect from the mirrors and thus pass through the gain medium many hundreds of times before exiting the cavity. In more complex lasers, configurations with four or more mirrors forming the cavity are used. The design and alignment of the mirrors with respect to the medium is crucial for determining the exact operating wavelength and other attributes of the laser system.
 

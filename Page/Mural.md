@@ -1,15 +1,15 @@
-Capitole_Toulouse_-_Salle_des_Illustres_-_Toulouse_coopérant_à_la_défense_nationale_1897_-_Jean-André_Rixens.jpg. Salle des Illustres, Le Capitole, Toulouse, France.]] A MURAL is any piece of artwork painted or applied directly on a wall, ceiling or other permanent surfaces. A distinguishing characteristic of mural painting is that the architectural elements of the given space are harmoniously incorporated into the picture.
+. Salle des Illustres, Le Capitole, Toulouse, France.]] A MURAL is any piece of artwork painted or applied directly on a wall, ceiling or other permanent surfaces. A distinguishing characteristic of mural painting is that the architectural elements of the given space are harmoniously incorporated into the picture.
 
 Some wall paintings are painted on large canvases, which are then attached to the wall (e.g., with marouflage), but the technique has been in common use since the late 19th century.[1]
 
 
 History
 
-Meister_des_Mahâjanaka_Jâtaka_001.jpg tales from the Ajanta Caves, present-day Maharashtra, India, 7th century CE.]] Murals of sorts date to Upper Paleolithic times such as the cave paintings in the Lubang Jeriji Saléh cave in Borneo (40,000-52,000 BP), Chauvet Cave in Ardèche department of southern France (around 32,000 BP). Many ancient murals have been found within ancient Egyptian tombs (around 3150 BC),[2] the Minoan palaces (Middle period III of the Neopalatial period, 1700–1600 BC), the Oxtotitlán cave and Juxtlahuaca in Mexico (around 1200-900 BC) and in Pompeii (around 100 BC – AD 79).
+tales from the Ajanta Caves, present-day Maharashtra, India, 7th century CE.]] Murals of sorts date to Upper Paleolithic times such as the cave paintings in the Lubang Jeriji Saléh cave in Borneo (40,000-52,000 BP), Chauvet Cave in Ardèche department of southern France (around 32,000 BP). Many ancient murals have been found within ancient Egyptian tombs (around 3150 BC),[2] the Minoan palaces (Middle period III of the Neopalatial period, 1700–1600 BC), the Oxtotitlán cave and Juxtlahuaca in Mexico (around 1200-900 BC) and in Pompeii (around 100 BC – AD 79).
 
 During the Middle Ages murals were usually executed on dry plaster (secco). The huge collection of Kerala mural painting dating from the 14th century are examples of fresco secco.[3][4] In Italy, circa 1300, the technique of painting of frescos on wet plaster was reintroduced and led to a significant increase in the quality of mural painting.[5]
 
-Wall_paintings,_Varanasi,_1973.jpg, 1974.]] In modern times, the term became more well-known with the Mexican muralism art movement (Diego Rivera, David Siqueiros and José Orozco). There are many different styles and techniques. The best-known is probably _fresco_, which uses water-soluble paints with a damp lime wash, rapid use of the resulting mixture over a large surface, and often in parts (but with a sense of the whole). The colors lighten as they dry. The _marouflage_ method has also been used for millennia.
+, 1974.]] In modern times, the term became more well-known with the Mexican muralism art movement (Diego Rivera, David Siqueiros and José Orozco). There are many different styles and techniques. The best-known is probably _fresco_, which uses water-soluble paints with a damp lime wash, rapid use of the resulting mixture over a large surface, and often in parts (but with a sense of the whole). The colors lighten as they dry. The _marouflage_ method has also been used for millennia.
 
 Murals today are painted in a variety of ways, using oil or water-based media. The styles can vary from abstract to _trompe-l'œil_ (a French term for "fool" or "trick the eye"). Initiated by the works of mural artists like Graham Rust or Rainer Maria Latzke in the 1980s, trompe-l'oeil painting has experienced a renaissance in private and public buildings in Europe. Today, the beauty of a wall mural has become much more widely available with a technique whereby a painting or photographic image is transferred to poster paper or canvas which is then pasted to a wall surface _(see wallpaper, Frescography)_ to give the effect of either a hand-painted mural or realistic scene.
 
@@ -18,7 +18,7 @@ A special type of mural painting is Lüftlmalerei, still practised today in the 
 
 Technique
 
-Mari_fresco_Investiture_Zimri_Lim_0210.jpg'' discovered at the Royal Palace of ancient Mari in Syria ]]
+'' discovered at the Royal Palace of ancient Mari in Syria ]]
 
 In the history of mural several methods have been used:
 
@@ -47,7 +47,7 @@ Once completed the mural can be given coats of varnish or protective acrylic gla
 
 In modern, quick form of muralling, young enthusiasts also use POP clay mixed with glue or bond to give desired models on canvas board. The canvas is later set aside to let the clay dry. Once dried, the canvas and the shape can be painted with your choice of colors and later coated with varnish.
 
-Comersee_Spalier_rgb.jpg designed Frescography by Rainer Maria Latzke, digitally printed on canvas]]
+designed Frescography by Rainer Maria Latzke, digitally printed on canvas]]
 
 As an alternative to a hand-painted or airbrushed mural, digitally printed murals can also be applied to surfaces. Already existing murals can be photographed and then be reproduced in near-to-original quality.
 
@@ -58,7 +58,7 @@ Digital techniques are commonly used in advertisements. A "wallscape" is a large
 
 Significance
 
-SBmural.jpg mural]] Murals are important in that they bring art into the public sphere. Due to the size, cost, and work involved in creating a mural, muralists must often be commissioned by a sponsor. Often it is the local government or a business, but many murals have been paid for with grants of patronage. For artists, their work gets a wide audience who otherwise might not set foot in an art gallery. A city benefits by the beauty of a work of art.
+mural]] Murals are important in that they bring art into the public sphere. Due to the size, cost, and work involved in creating a mural, muralists must often be commissioned by a sponsor. Often it is the local government or a business, but many murals have been paid for with grants of patronage. For artists, their work gets a wide audience who otherwise might not set foot in an art gallery. A city benefits by the beauty of a work of art.
 
 Murals can be a relatively effective tool of social emancipation or achieving a political goal.[10] Murals have sometimes been created against the law, or have been commissioned by local bars and coffee shops. Often, the visual effects are an enticement to attract public attention to social issues. State-sponsored public art expressions, particularly murals, are often used by totalitarian regimes as a tool of propaganda. However, despite the propagandist character of that works, some of them still have an artistic value.
 
@@ -94,7 +94,7 @@ Contemporary interior design
 
 Traditional
 
-Forestmural.jpg Many people like to express their individuality by commissioning an artist to paint a mural in their home. This is not an activity exclusively for owners of large houses. A mural artist is only limited by the fee and therefore the time spent on the painting; dictating the level of detail; a simple mural can be added to the smallest of walls.
+Many people like to express their individuality by commissioning an artist to paint a mural in their home. This is not an activity exclusively for owners of large houses. A mural artist is only limited by the fee and therefore the time spent on the painting; dictating the level of detail; a simple mural can be added to the smallest of walls.
 
 Private commissions can be for dining rooms, bathrooms, living rooms or, as is often the case- children's bedrooms. A child's room can be transformed into the 'fantasy world' of a forest or racing track, encouraging imaginative play and an awareness of art.
 
@@ -106,16 +106,16 @@ Commissions of murals in schools, hospitals, and retirement homes can achieve a 
 
 Graffiti-style
 
-Acehotel-002023.jpg, New York City]] Recently, graffiti and street art have played a key role in contemporary wall painting. Such graffiti/street artists as Keith Haring, Shepard Fairey, Above, Mint&Serf, Futura 2000, Os Gemeos, and Faile among others have successfully transcended their street art aesthetic beyond the walls of urban landscape and onto walls of private and corporate clients. As graffiti/street art became more mainstream in the late 1990s, youth-oriented brands such as Nike and Red Bull, with Wieden Kennedy, have turned to graffiti/street artists to decorate walls of their respective offices. This trend continued through 2000's with graffiti/street art gaining more recognition from art institutions worldwide.
+, New York City]] Recently, graffiti and street art have played a key role in contemporary wall painting. Such graffiti/street artists as Keith Haring, Shepard Fairey, Above, Mint&Serf, Futura 2000, Os Gemeos, and Faile among others have successfully transcended their street art aesthetic beyond the walls of urban landscape and onto walls of private and corporate clients. As graffiti/street art became more mainstream in the late 1990s, youth-oriented brands such as Nike and Red Bull, with Wieden Kennedy, have turned to graffiti/street artists to decorate walls of their respective offices. This trend continued through 2000's with graffiti/street art gaining more recognition from art institutions worldwide.
 
 Ethnic
 
-Wall_murals_Rajasthani_motif.jpg Many homeowners choose to display the traditional art and culture of their society or events from their history in their homes. Ethnic murals have become an important form of interior decoration. Warli painting murals are becoming a preferred mode of wall decor in India. Warli painting is an ancient Indian art form in which the tribal people used to depict different phases of their life on the walls of their mud houses.
+Many homeowners choose to display the traditional art and culture of their society or events from their history in their homes. Ethnic murals have become an important form of interior decoration. Warli painting murals are becoming a preferred mode of wall decor in India. Warli painting is an ancient Indian art form in which the tribal people used to depict different phases of their life on the walls of their mud houses.
 
 
 Tile
 
-Azulejos_Parque_Eduardo_VII-2.jpg (1385) between the Portuguese and Castilian armies. A piece of public art in Lisbon, Portugal.]] Tile murals are murals made out of stone, ceramic, porcelain, glass and or metal tiles that are installed within, or added onto the surface of an existing wall. They are also inlaid into floors. Mural tiles are painted, glazed, sublimation printed (as described below) or more traditionally cut or broken into pieces. Unlike the traditional painted murals described above, tile murals are always made with the use of tiles.
+(1385) between the Portuguese and Castilian armies. A piece of public art in Lisbon, Portugal.]] Tile murals are murals made out of stone, ceramic, porcelain, glass and or metal tiles that are installed within, or added onto the surface of an existing wall. They are also inlaid into floors. Mural tiles are painted, glazed, sublimation printed (as described below) or more traditionally cut or broken into pieces. Unlike the traditional painted murals described above, tile murals are always made with the use of tiles.
 
 Mosaic murals are made by combining small 1/4" to 2" size pieces of colorful stone, ceramic, or glass tiles which are then laid out to create a picture. Modern day technology has allowed commercial mosaic mural makers to use computer programs to separate photographs into colors that are automatically cut and glued onto sheets of mesh creating precise murals fast and in large quantities.
 

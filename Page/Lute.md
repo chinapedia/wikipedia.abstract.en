@@ -12,8 +12,6 @@ Many theories have been proposed for the origin of the Arabic name. A music scho
 
 Construction
 
-Lute_maker_tools_-_1293.jpg
-
 Soundboard
 
 Lutes are made almost entirely of wood. The soundboard is a teardrop-shaped thin flat plate of resonant wood (typically spruce). In all lutes the soundboard has a single (sometimes triple) decorated sound hole under the strings called the _rose_. The sound hole is not open, but rather covered with a grille in the form of an intertwining vine or a decorative knot, carved directly out of the wood of the soundboard.
@@ -103,7 +101,7 @@ Lute in the modern world
 
 The lute enjoyed a revival with the awakening of interest in historical music around 1900 and throughout the century. That revival was further boosted by the early music movement in the twentieth century. Important pioneers in lute revival were Julian Bream, Hans Neemann, Walter Gerwig, Suzanne Bloch and Diana Poulton. Lute performances are now not uncommon; there are many professional lutenists, especially in Europe where the most employment is found, and new compositions for the instrument are being produced by composers.
 
-Ren-lute-ref.jpg lute (holding position).]] During the early days of the early music movement, many lutes were constructed by available luthiers, whose specialty was often classical guitars. Such lutes were heavily built with construction similar to classical guitars, with fan bracing, heavy tops, fixed frets, and lined sides, all of which are anachronistic to historical lutes. As lutherie scholarship increased, makers began constructing instruments based on historical models, which have proven lighter and more responsive instruments.
+lute (holding position).]] During the early days of the early music movement, many lutes were constructed by available luthiers, whose specialty was often classical guitars. Such lutes were heavily built with construction similar to classical guitars, with fan bracing, heavy tops, fixed frets, and lined sides, all of which are anachronistic to historical lutes. As lutherie scholarship increased, makers began constructing instruments based on historical models, which have proven lighter and more responsive instruments.
 
 Lutes built at present are invariably replicas or near copies of those surviving historical instruments that are in museums or private collections. Many are custom-built, but there is a growing number of luthiers who build lutes for general sale, and there is a fairly strong, if small, second-hand market. Due to this fairly limited market, lutes are generally more expensive than mass-produced modern instruments: factory-made guitars and violins, for example, can be purchased more cheaply than low-end lutes, but at the highest level of modern instruments, guitars and violins tend to command higher prices than lutes.
 
@@ -116,7 +114,7 @@ Lutes of several regional types are also common in Greece: laouto, and outi.
 
 Repertoire
 
-Orazio_Gentileschi_-_Il_suonatore_di_liuto_(National_Gallery_of_Art).jpg's young lutenist, painted 1626, plays a 10-course lute, typical of the time from around 1600 through the 1630s.]]
+'s young lutenist, painted 1626, plays a 10-course lute, typical of the time from around 1600 through the 1630s.]]
 
 Lutes were in widespread use in Europe at least since the 13th century, and documents mention numerous early performers and composers. However, the earliest surviving lute music dates from the late 15th century. Lute music flourished during the 16th and 17th centuries: numerous composers published collections of their music, and modern scholars have uncovered a vast number of manuscripts from the era—however, much of the music is still lost. In the second half of the 17th century lutes, vihuelas and similar instruments started losing popularity, and almost no music had been written for the instrument after 1750. The interest in lute music was revived only in the second half of the 20th century.
 
@@ -142,8 +140,6 @@ One of the first such composers was Johann Nepomuk David in Germany. Composer Vl
 
 Tuning conventions
 
-6-course Early Renaissance lute tuning chart. 10-course Late Renaissance/Early Baroque lute tuning chart. 14-course Archlute tuning chart. 15-course Theorbo tuning chart.
-
 Lutes were made in a large variety of sizes, with varying numbers of strings/courses, and with no permanent standard for tuning. However, the following seems to have been _generally_ true of the Renaissance lute.
 
 A 6-course Renaissance tenor lute would be tuned to the same intervals as a tenor viol, with intervals of a _perfect fourth_ between all the courses except the third and fourth, which differed only by a _major third_. The tenor lute was usually tuned nominally "in G" (there was no pitch standard before the 20th century), named after the pitch of the highest course, yielding the pattern from the lowest course to the highest. (Much renaissance lute music can be played on a guitar by tuning the guitar's third string down by a half tone.)
@@ -161,7 +157,7 @@ See also
 
 Instruments
 
-078_Museu_de_la_Música,_llaüts.jpg]] 054_Museu_de_la_Música,_arxillaüt.jpg Lute_(by_Princess_Ruto,_2013-02-11).jpg
+]]
 
 European Lutes:
 

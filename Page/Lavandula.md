@@ -40,7 +40,7 @@ The names widely used for some of the species, "English lavender", "French laven
 
 Cultivation
 
-Bee_pollen_lavender.JPG on a lavender flower]] The most common form in cultivation is the common or English lavender _Lavandula angustifolia_ (formerly named _L. officinalis_). A wide range of cultivars can be found. Other commonly grown ornamental species are _L. stoechas_, _L. dentata_, and _L. multifida_ (Egyptian lavender).
+on a lavender flower]] The most common form in cultivation is the common or English lavender _Lavandula angustifolia_ (formerly named _L. officinalis_). A wide range of cultivars can be found. Other commonly grown ornamental species are _L. stoechas_, _L. dentata_, and _L. multifida_ (Egyptian lavender).
 
 Because the cultivated forms are planted in gardens worldwide, they are occasionally found growing wild as garden escapes, well beyond their natural range. Such spontaneous growth is usually harmless, but in some cases _Lavandula_ species have become invasive. For example, in Australia, _Lavandula stoechas_ has become a cause for concern; it occurs widely throughout the continent, and has been declared a noxious weed in Victoria since 1920.[14] It also is regarded as a weed in parts of Spain.[15]
 
@@ -59,8 +59,6 @@ The lavandins ''Lavandula _×_ intermedia'' are a class of hybrids of _L. angust
 
 
 Culinary use
-
-Lavender_cupcakes.jpg
 
 Culinary lavender is usually English lavender, the most commonly used species in cooking (_L. angustifolia_ 'Munstead'). As an aromatic, it has a sweet fragrance with a taste of lemon or citrus notes.[23] It is used as a spice or condiment in pastas, salads and dressings, and desserts.[24][25] Their buds and greens are used in teas, and their buds, processed by bees, are the essential ingredient of monofloral honey.[26]
 
@@ -95,8 +93,6 @@ Today, lavender recipes are in use in most parts of the world.
 
 Research
 
-Navettes_de_lanvande.JPG
-
 Major constituents of lavender oil include linalool (26%) caryophyllene (8%).[39] The essential oil was used in hospitals during World War I.[40]
 
 Lavender oil is under preliminary research for its possible effect in alleviating anxiety and sleep disturbances.[41] High-quality clinical research generally has not been done to conclude if there are effects of lavender oil on anxiety.[42]
@@ -118,7 +114,7 @@ A 2007 study examined the relationship between various fragrances and photosensi
 
 Other uses
 
-LavenderInMarket.jpg Farmers Market.]] Flower spikes are used for dried flower arrangements. The fragrant, pale purple flowers and flower buds are used in potpourris. Lavender is also used extensively as herbal filler inside sachets used to freshen linens. Dried and sealed in pouches, lavender flowers are placed among stored items of clothing to give a fresh fragrance and to deter moths. Dried lavender flowers have become recently popular for wedding confetti. Lavender is also popular in scented waters and sachets.
+Farmers Market.]] Flower spikes are used for dried flower arrangements. The fragrant, pale purple flowers and flower buds are used in potpourris. Lavender is also used extensively as herbal filler inside sachets used to freshen linens. Dried and sealed in pouches, lavender flowers are placed among stored items of clothing to give a fresh fragrance and to deter moths. Dried lavender flowers have become recently popular for wedding confetti. Lavender is also popular in scented waters and sachets.
 
 Lavender greens can be used in craft or modelling projects, such as the creation of miniature topiary or trees.[51]
 
@@ -144,7 +140,7 @@ During Roman times, flowers were sold for 100 _denarii_ per pound, which was abo
 
 Taxonomic table
 
-Snowshil-Lavender.jpg grown at Snowshill, Cotswolds.]] This is based on the classification of Upson and Andrews, 2004. Lavender_Field_Sutton.jpg, London Borough of Sutton.]] Hitchin_lavender_fields.jpg, England, UK]]
+grown at Snowshill, Cotswolds.]] This is based on the classification of Upson and Andrews, 2004. , London Borough of Sutton.]] , England, UK]]
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I. Subgenus _Lavendula_ Upson & S.Andrews subgen. nov.                                                                                                                                                                  |

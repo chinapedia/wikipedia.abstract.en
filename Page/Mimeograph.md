@@ -1,5 +1,3 @@
-Mimeograph.svg
-
 The STENCIL DUPLICATOR or MIMEOGRAPH MACHINE (often abbreviated to MIMEO) is a low-cost duplicating machine that works by forcing ink through a stencil onto paper.[1] The mimeograph process should not be confused with the spirit duplicator process.
 
 Mimeographs, along with spirit duplicators and hectographs, were a common technology in printing small quantities, as in office work, classroom materials, and church bulletins. Early fanzines were printed with this technology, because it was widespread and cheap. In the late 1960s, mimeographs, spirit duplicators, and hectographs began to be gradually displaced by photocopying.

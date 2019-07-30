@@ -1,4 +1,4 @@
-Finding_the_median.png The MEDIAN is the value separating the higher half from the lower half of a data sample (a population or a probability distribution). For a data set, it may be thought of as the "middle" value. For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth largest, and also the fourth smallest, number in the sample. For a continuous probability distribution, the median is the value such that a number is equally likely to fall above or below it.
+The MEDIAN is the value separating the higher half from the lower half of a data sample (a population or a probability distribution). For a data set, it may be thought of as the "middle" value. For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth largest, and also the fourth smallest, number in the sample. For a continuous probability distribution, the median is the value such that a number is equally likely to fall above or below it.
 
 The median is a commonly used measure of the properties of a data set in statistics and probability theory. The basic advantage of the median in describing data compared to the mean (often simply described as the "average") is that it is not skewed so much by a small proportion of extremely large or small values, and so it may give a better idea of a "typical" value. For example, in understanding statistics like household income or assets, which vary greatly, the mean may be skewed by a small number of extremely high or low values. Median income, for example, may be a better way to suggest what a "typical" income is.
 
@@ -58,7 +58,7 @@ For practical purposes, different measures of location and dispersion are often 
 
 Probability distributions
 
-visualisation_mode_median_mean.svg For any probability distribution on the real line R with cumulative distribution function _F_, regardless of whether it is any kind of continuous probability distribution, in particular an absolutely continuous distribution (which has a probability density function), or a discrete probability distribution, a median is by definition any real number _m_ that satisfies the inequalities
+For any probability distribution on the real line R with cumulative distribution function _F_, regardless of whether it is any kind of continuous probability distribution, in particular an absolutely continuous distribution (which has a probability density function), or a discrete probability distribution, a median is by definition any real number _m_ that satisfies the inequalities
 
 $$\operatorname{P}(X\leq m) \geq \frac{1}{2}\text{ and }\operatorname{P}(X\geq m) \geq \frac{1}{2}\,\!$$
 
@@ -104,7 +104,7 @@ This optimization-based definition of the median is useful in statistical data-a
 
 Unimodal distributions
 
-Comparison_mean_median_mode.svg, median and mode of two log-normal distributions with different skewness.]]
+, median and mode of two log-normal distributions with different skewness.]]
 
 It can be shown for a unimodal distribution that the median X̃ and the mean X̄ lie within (3/5)^(1/2) ≈ 0.7746 standard deviations of each other.[10] In symbols,
 

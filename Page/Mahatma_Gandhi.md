@@ -23,7 +23,7 @@ The family's religious background was eclectic. Gandhi's father Karamchand was H
 
 In 1874, Gandhi's father Karamchand left Porbandar for the smaller state of Rajkot, where he became a counsellor to its ruler, the Thakur Sahib; though Rajkot was a less prestigious state than Porbandar, the British regional political agency was located there, which gave the state's _diwan_ a measure of security.[44] In 1876, Karamchand became _diwan_ of Rajkot and was succeeded as _diwan_ of Porbandar by his brother Tulsidas. His family then rejoined him in Rajkot.[45]
 
-Gandhi_and_Laxmidas_2.jpg At age 9, Gandhi entered the local school in Rajkot, near his home. There he studied the rudiments of arithmetic, history, the Gujarati language and geography.[46] At age 11, he joined the High School in Rajkot.[47] He was an average student, won some prizes, but was a shy and tongue tied student, with no interest in games; his only companions were books and school lessons.[48]
+At age 9, Gandhi entered the local school in Rajkot, near his home. There he studied the rudiments of arithmetic, history, the Gujarati language and geography.[46] At age 11, he joined the High School in Rajkot.[47] He was an average student, won some prizes, but was a shy and tongue tied student, with no interest in games; his only companions were books and school lessons.[48]
 
 While at high school, Gandhi's elder brother introduced him to a Muslim friend named Sheikh Mehtab. Mehtab was older in age, taller and encouraged the strictly vegetarian boy to eat meat to gain height. He also took Mohandas to a brothel one day, though Mohandas "was struck blind and dumb in this den of vice," rebuffed the prostitutes' advances and was promptly sent out of the brothel. The experience caused Mohandas mental anguish, and he abandoned the company of Mehtab.[49]
 
@@ -41,7 +41,7 @@ Gandhi came from a poor family, and he had dropped out of the cheapest college h
 
 On 10 August 1888, Gandhi aged 18, left Porbandar for Mumbai, then known as Bombay. Upon arrival, he stayed with the local Modh Bania community while waiting for the ship travel arrangements. The head of the community knew Gandhi's father. After learning Gandhi's plans, he and other elders warned Gandhi that England would tempt him to compromise his religion, and eat and drink in Western ways. Gandhi informed them of his promise to his mother and her blessings. The local chief disregarded it, and excommunicated him from his caste. But Gandhi ignored this, and on 4 September, he sailed from Bombay to London. His brother saw him off.[64][65] Gandhi attended University College, London which is a constituent college of University of London.
 
-Gandhi_student.jpg At UCL, he studied law and jurisprudence and was invited to enroll at Inner Temple with the intention of becoming a barrister. His childhood shyness and self withdrawal had continued through his teens, and he remained so when he arrived in London, but he joined a public speaking practice group and overcame this handicap to practise law.[66]
+At UCL, he studied law and jurisprudence and was invited to enroll at Inner Temple with the intention of becoming a barrister. His childhood shyness and self withdrawal had continued through his teens, and he remained so when he arrived in London, but he joined a public speaking practice group and overcame this handicap to practise law.[66]
 
 His time in London was influenced by the vow he had made to his mother. He tried to adopt "English" customs, including taking dancing lessons. However, he could not appreciate the bland vegetarian food offered by his landlady and was frequently hungry until he found one of London's few vegetarian restaurants. Influenced by Henry Salt's writing, he joined the Vegetarian Society, was elected to its executive committee,[67] and started a local Bayswater chapter.[68] Some of the vegetarians he met were members of the Theosophical Society, which had been founded in 1875 to further universal brotherhood, and which was devoted to the study of Buddhist and Hindu literature. They encouraged Gandhi to join them in reading the _Bhagavad Gita_ both in translation as well as in the original.[69]
 
@@ -59,9 +59,9 @@ When Gandhi arrived in South Africa, according to Herman, he thought of himself 
 
 The Abdullah case that had brought him to South Africa concluded in May 1894, and the Indian community organised a farewell party for Gandhi as he prepared to return to India.[89] However, a new Natal government discriminatory proposal led to Gandhi extending his original period of stay in South Africa. He planned to assist Indians in opposing a bill to deny them the right to vote, a right then proposed to be an exclusive European right. He asked Joseph Chamberlain, the British Colonial Secretary, to reconsider his position on this bill.[90] Though unable to halt the bill's passage, his campaign was successful in drawing attention to the grievances of Indians in South Africa. He helped found the Natal Indian Congress in 1894,[91][92] and through this organisation, he moulded the Indian community of South Africa into a unified political force. In January 1897, when Gandhi landed in Durban, a mob of white settlers attacked him[93] and he escaped only through the efforts of the wife of the police superintendent. However, he refused to press charges against any member of the mob.[94]
 
-Gandhi_Boer_War.jpg during the Boer War.]] During the Boer War, Gandhi volunteered in 1900 to form a group of stretcher-bearers as the Natal Indian Ambulance Corps. According to Arthur Herman, Gandhi wanted to disprove the imperial British stereotype that Hindus were not fit for "manly" activities involving danger and exertion, unlike the Muslim "martial races".[95] Gandhi raised eleven hundred Indian volunteers, to support British combat troops against the Boers. They were trained and medically certified to serve on the front lines. They were auxiliaries at the Battle of Colenso to a White volunteer ambulance corps. At the battle of Spion Kop Gandhi and his bearers moved to the front line and had to carry wounded soldiers for miles to a field hospital because the terrain was too rough for the ambulances. Gandhi and thirty-seven other Indians received the Queen's South Africa Medal.[96]
+during the Boer War.]] During the Boer War, Gandhi volunteered in 1900 to form a group of stretcher-bearers as the Natal Indian Ambulance Corps. According to Arthur Herman, Gandhi wanted to disprove the imperial British stereotype that Hindus were not fit for "manly" activities involving danger and exertion, unlike the Muslim "martial races".[95] Gandhi raised eleven hundred Indian volunteers, to support British combat troops against the Boers. They were trained and medically certified to serve on the front lines. They were auxiliaries at the Battle of Colenso to a White volunteer ambulance corps. At the battle of Spion Kop Gandhi and his bearers moved to the front line and had to carry wounded soldiers for miles to a field hospital because the terrain was too rough for the ambulances. Gandhi and thirty-seven other Indians received the Queen's South Africa Medal.[96]
 
-Gandhi_and_Kasturbhai_1902.jpg (1902)]] In 1906, the Transvaal government promulgated a new Act compelling registration of the colony's Indian and Chinese populations. At a mass protest meeting held in Johannesburg on 11 September that year, Gandhi adopted his still evolving methodology of _Satyagraha_ (devotion to the truth), or nonviolent protest, for the first time.[97] According to Anthony Parel, Gandhi was also influenced by the Tamil text _Tirukkuṛaḷ_ because Leo Tolstoy mentioned it in their correspondence that began with "A Letter to a Hindu".[98][99] Gandhi urged Indians to defy the new law and to suffer the punishments for doing so. Gandhi's ideas of protests, persuasion skills and public relations had emerged. He took these back to India in 1915.[100][101]
+(1902)]] In 1906, the Transvaal government promulgated a new Act compelling registration of the colony's Indian and Chinese populations. At a mass protest meeting held in Johannesburg on 11 September that year, Gandhi adopted his still evolving methodology of _Satyagraha_ (devotion to the truth), or nonviolent protest, for the first time.[97] According to Anthony Parel, Gandhi was also influenced by the Tamil text _Tirukkuṛaḷ_ because Leo Tolstoy mentioned it in their correspondence that began with "A Letter to a Hindu".[98][99] Gandhi urged Indians to defy the new law and to suffer the punishments for doing so. Gandhi's ideas of protests, persuasion skills and public relations had emerged. He took these back to India in 1915.[100][101]
 
 Europeans, Indians and Africans
 
@@ -73,7 +73,7 @@ Years later, Gandhi and his colleagues served and helped Africans as nurses and 
 
 In 1906, when the British declared war against the Zulu Kingdom in Natal, Gandhi at age 36, sympathised with the Zulus and encouraged the Indian volunteers to help as an ambulance unit.[110] He argued that Indians should participate in the war efforts to change attitudes and perceptions of the British people against the coloured people.[111] Gandhi, a group of 20 Indians and black people of South Africa volunteered as a stretcher-bearer corps to treat wounded British soldiers and the opposite side of the war: Zulu victims.[112]
 
-Gandhi_suit.jpg White soldiers stopped Gandhi and team from treating the injured Zulu, and some African stretcher-bearers with Gandhi were shot dead by the British. The medical team commanded by Gandhi operated for less than two months.[113] Gandhi volunteering to help as a "staunch loyalist" during the Zulu and other wars made no difference in the British attitude, states Herman, and the African experience was a part of his great disillusionment with the West, transforming him into an "uncompromising non-cooperator".[114]
+White soldiers stopped Gandhi and team from treating the injured Zulu, and some African stretcher-bearers with Gandhi were shot dead by the British. The medical team commanded by Gandhi operated for less than two months.[113] Gandhi volunteering to help as a "staunch loyalist" during the Zulu and other wars made no difference in the British attitude, states Herman, and the African experience was a part of his great disillusionment with the West, transforming him into an "uncompromising non-cooperator".[114]
 
 In 1910, Gandhi established, with the help of his friend Hermann Kallenbach, an idealistic community they named “Tolstoy Farm” near Johannesburg.[115] There he nurtured his policy of peaceful resistance.[116]
 
@@ -97,7 +97,7 @@ Champaran and Kheda
 
 Champaran agitations
 
-Gandhi_Kheda_1918.jpg Gandhi's first major achievement came in 1917 with the Champaran agitation in Bihar. The Champaran agitation pitted the local peasantry against their largely British landlords who were backed by the local administration. The peasantry was forced to grow Indigo, a cash crop whose demand had been declining over two decades, and were forced to sell their crops to the planters at a fixed price. Unhappy with this, the peasantry appealed to Gandhi at his ashram in Ahmedabad. Pursuing a strategy of nonviolent protest, Gandhi took the administration by surprise and won concessions from the authorities.[126]
+Gandhi's first major achievement came in 1917 with the Champaran agitation in Bihar. The Champaran agitation pitted the local peasantry against their largely British landlords who were backed by the local administration. The peasantry was forced to grow Indigo, a cash crop whose demand had been declining over two decades, and were forced to sell their crops to the planters at a fixed price. Unhappy with this, the peasantry appealed to Gandhi at his ashram in Ahmedabad. Pursuing a strategy of nonviolent protest, Gandhi took the administration by surprise and won concessions from the authorities.[126]
 
 Kheda agitations
 
@@ -119,7 +119,7 @@ Non-co-operation
 
 With his book Hind Swaraj (1909) Gandhi, aged 40, declared that British rule was established in India with the co-operation of Indians and had survived only because of this co-operation. If Indians refused to co-operate, British rule would collapse and swaraj would come.[149]
 
-Gandhi_home.jpg, Gandhi's home in Gujarat is now a museum (photographed in 2006).]]
+, Gandhi's home in Gujarat is now a museum (photographed in 2006).]]
 
 In February 1919, Gandhi cautioned the Viceroy of India with a cable communication that if the British were to pass the Rowlatt Act, he would appeal to Indians to start civil disobedience.[150] The British government ignored him and passed the law, stating it would not yield to threats. The _satyagraha_ civil disobedience followed, with people assembling to protest the Rowlatt Act. On 30 March 1919, British law officers opened fire on an assembly of unarmed people, peacefully gathered, participating in _satyagraha_ in Delhi.[151]
 
@@ -129,15 +129,11 @@ People rioted. On 13 April 1919, people including women with children gathered i
 
 The massacre and Gandhi's non-violent response to it moved many, but also made some Sikhs and Hindus upset that Dyer was getting away with murder. Investigation committees were formed by the British, which Gandhi asked Indians to boycott.[155] The unfolding events, the massacre and the British response, led Gandhi to the belief that Indians will never get a fair equal treatment under British rulers, and he shifted his attention to _Swaraj_ or self rule and political independence for India.[156] In 1921, Gandhi was the leader of the Indian National Congress.[157] He reorganised the Congress. With Congress now behind him, and Muslim support triggered by his backing the Khilafat movement to restore the Caliph in Turkey,[158] Gandhi had the political support and the attention of the British Raj.[159][160][161]
 
-Gandhi_spinning.jpg
-
 Gandhi expanded his nonviolent non-co-operation platform to include the _swadeshi_ policy – the boycott of foreign-made goods, especially British goods. Linked to this was his advocacy that _khadi_ (homespun cloth) be worn by all Indians instead of British-made textiles. Gandhi exhorted Indian men and women, rich or poor, to spend time each day spinning _khadi_ in support of the independence movement.[162] In addition to boycotting British products, Gandhi urged the people to boycott British institutions and law courts, to resign from government employment, and to forsake British titles and honours. Gandhi thus began his journey aimed at crippling the British India government economically, politically and administratively.[163]
 
 The appeal of "Non-cooperation" grew, its social popularity drew participation from all strata of Indian society. Gandhi was arrested on 10 March 1922, tried for sedition, and sentenced to six years' imprisonment. He began his sentence on 18 March 1922. With Gandhi isolated in prison, the Indian National Congress split into two factions, one led by Chitta Ranjan Das and Motilal Nehru favouring party participation in the legislatures, and the other led by Chakravarti Rajagopalachari and Sardar Vallabhbhai Patel, opposing this move.[164] Furthermore, co-operation among Hindus and Muslims ended as Khilafat movement collapsed with the rise of Ataturk in Turkey. Muslim leaders left the Congress and began forming Muslim organisations. The political base behind Gandhi had broken into factions. Gandhi was released in February 1924 for an appendicitis operation, having served only two years.[165]
 
 Salt Satyagraha (Salt March)
-
-Salt_March.ogg
 
 After his early release from prison for political crimes in 1924, over the second half of the 1920s, Gandhi continued to pursue _swaraj_. He pushed through a resolution at the Calcutta Congress in December 1928 calling on the British government to grant India dominion status or face a new campaign of non-co-operation with complete independence for the country as its goal. After his support for the World War I with Indian combat troops, and the failure of Khilafat movement in preserving the rule of Caliph in Turkey, followed by a collapse in Muslim support for his leadership, some such as Subhas Chandra Bose and Bhagat Singh questioned his values and non-violent approach.[166][167] While many Hindu leaders championed a demand for immediate independence, Gandhi revised his own call to a one-year wait, instead of two.
 
@@ -152,8 +148,6 @@ This campaign was one of his most successful at upsetting British hold on India;
 According to Sarma, Gandhi recruited women to participate in the salt tax campaigns and the boycott of foreign products, which gave many women a new self-confidence and dignity in the mainstream of Indian public life.[172] However, other scholars such as Marilyn French state that Gandhi barred women from joining his civil disobedience movement because he feared he would be accused of using women as political shield.[173] When women insisted that they join the movement and public demonstrations, according to Thapar-Bjorkert, Gandhi asked the volunteers to get permissions of their guardians and only those women who can arrange child-care should join him.[174] Regardless of Gandhi's apprehensions and views, Indian women joined the Salt March by the thousands to defy the British salt taxes and monopoly on salt mining. After Gandhi's arrest, the women marched and picketed shops on their own, accepting violence and verbal abuse from British authorities for the cause in a manner Gandhi inspired.[175]
 
 Gandhi as folk hero
-
-Indian_workers_on_strike_in_support_of_Mahatma_Gandhi_in_1930.jpg
 
 According to Atlury Murali, Indian Congress in the 1920s appealed to Andhra Pradesh peasants by creating Telugu language plays that combined Indian mythology and legends, linked them to Gandhi's ideas, and portrayed Gandhi as a messiah, a reincarnation of ancient and medieval Indian nationalist leaders and saints. The plays built support among peasants steeped in traditional Hindu culture, according to Murali, and this effort made Gandhi a folk hero in Telugu speaking villages, a sacred messiah-like figure.[176]
 
@@ -171,7 +165,7 @@ Churchill's bitterness against Gandhi grew in the 1930s. He called Gandhi as the
 
 Round Table Conferences
 
-Mahadev_Desai_and_Gandhi_2_1939.jpg (left) was Gandhi's personal assistant, both at Birla House, Bombay, 7 April 1939]]
+(left) was Gandhi's personal assistant, both at Birla House, Bombay, 7 April 1939]]
 
 During the discussions between Gandhi and the British government over 1931–32 at the Round Table Conferences, Gandhi, now aged about 62, sought constitutional reforms as a preparation to the end of colonial British rule, and begin the self-rule by Indians.[185] The British side sought reforms that would keep Indian subcontinent as a colony. The British negotiators proposed constitutional reforms on a British Dominion model that established separate electorates based on religious and social divisions. The British questioned the Congress party and Gandhi's authority to speak for all of India.[186] They invited Indian religious leaders, such as Muslims and Sikhs, to press their demands along religious lines, as well as B. R. Ambedkar as the representative leader of the untouchables.[187] Gandhi vehemently opposed a constitution that enshrined rights or representations based on communal divisions, because he feared that it would not bring people together but divide them, perpetuate their status and divert the attention from India's struggle to end the colonial rule.[188][189]
 
@@ -185,13 +179,13 @@ Gandhi returned to active politics again in 1936, with the Nehru presidency and 
 
 World War II and _Quit India movement_
 
-Gandhi_and_Nehru_1942.jpg and Gandhi in 1946]] Gandhi opposed providing any help to the British war effort and he campaigned against any Indian participation in the World War II.[197] Gandhi's campaign did not enjoy the support of Indian masses and many Indian leaders such as Sardar Patel and Rajendra Prasad. His campaign was a failure.[198] Over 2.5 million Indians ignored Gandhi, volunteered and joined the British military to fight on various fronts of the allied forces.[199]
+and Gandhi in 1946]] Gandhi opposed providing any help to the British war effort and he campaigned against any Indian participation in the World War II.[197] Gandhi's campaign did not enjoy the support of Indian masses and many Indian leaders such as Sardar Patel and Rajendra Prasad. His campaign was a failure.[198] Over 2.5 million Indians ignored Gandhi, volunteered and joined the British military to fight on various fronts of the allied forces.[199]
 
 Gandhi opposition to the Indian participation in the World War II was motivated by his belief that India could not be party to a war ostensibly being fought for democratic freedom while that freedom was denied to India itself.[200] He also condemned Nazism and Fascism, a view which won endorsement of other Indian leaders. As the war progressed, Gandhi intensified his demand for independence, calling for the British to _Quit India_ in a 1942 speech in Mumbai.[201] This was Gandhi's and the Congress Party's most definitive revolt aimed at securing the British exit from India. The British government responded quickly to the Quit India speech, and within hours after Gandhi's speech arrested Gandhi and all the members of the Congress Working Committee.[202] His countrymen retaliated the arrests by damaging or burning down hundreds of government owned railway stations, police stations, and cutting down telegraph wires.[203]
 
 In 1942, Gandhi now nearing age 73, urged his people to completely stop co-operating with the imperial government. In this effort, he urged that they neither kill nor injure British people, but be willing to suffer and die if violence is initiated by the British officials.[204] He clarified that the movement would not be stopped because of any individual acts of violence, saying that the _"ordered anarchy"_ of _"the present system of administration"_ was _"worse than real anarchy."_[205][206] He urged Indians to _Karo ya maro_ ("Do or die") in the cause of their rights and freedoms.[207][208]
 
-Gandhi_writing_1942.jpg]] Gandhi's arrest lasted two years, as he was held in the Aga Khan Palace in Pune. During this period, his long time secretary Mahadev Desai died of a heart attack, his wife Kasturba died after 18 months' imprisonment on 22 February 1944; and Gandhi suffered a severe malaria attack.[209] While in jail, he agreed to an interview with Stuart Gelder, a British journalist. Gelder then composed and released an interview summary, cabled it to the mainstream press, that announced sudden concessions Gandhi was willing to make, comments that shocked his countrymen, the Congress workers and even Gandhi. The latter two claimed that it distorted what Gandhi actually said on a range of topics and falsely repudiated the Quit India movement.[210]
+]] Gandhi's arrest lasted two years, as he was held in the Aga Khan Palace in Pune. During this period, his long time secretary Mahadev Desai died of a heart attack, his wife Kasturba died after 18 months' imprisonment on 22 February 1944; and Gandhi suffered a severe malaria attack.[209] While in jail, he agreed to an interview with Stuart Gelder, a British journalist. Gelder then composed and released an interview summary, cabled it to the mainstream press, that announced sudden concessions Gandhi was willing to make, comments that shocked his countrymen, the Congress workers and even Gandhi. The latter two claimed that it distorted what Gandhi actually said on a range of topics and falsely repudiated the Quit India movement.[210]
 
 Gandhi was released before the end of the war on 6 May 1944 because of his failing health and necessary surgery; the Raj did not want him to die in prison and enrage the nation. He came out of detention to an altered political scene – the Muslim League for example, which a few years earlier had appeared marginal, "now occupied the centre of the political stage"[211] and the topic of Muhammad Ali Jinnah's campaign for Pakistan was a major talking point. Gandhi and Jinnah had extensive correspondence and the two men met several times over a period of two weeks in September 1944, where Gandhi insisted on a united religiously plural and independent India which included Muslims and non-Muslims of the Indian subcontinent coexisting. Jinnah rejected this proposal and insisted instead for partitioning the subcontinent on religious lines to create a separate Muslim India (later Pakistan).[212][213] These discussions continued through 1947.[214]
 
@@ -199,13 +193,13 @@ While the leaders of Congress languished in jail, the other parties supported th
 
 Partition and independence
 
-Gandhi_Jinnah_1944.jpg in 1944]]
+in 1944]]
 
 Gandhi opposed partition of the Indian subcontinent along religious lines.[217] The Indian National Congress and Gandhi called for the British to Quit India. However, the Muslim League demanded "Divide and Quit India".[218][219] Gandhi suggested an agreement which required the Congress and the Muslim League to co-operate and attain independence under a provisional government, thereafter, the question of partition could be resolved by a plebiscite in the districts with a Muslim majority.[220]
 
 Jinnah rejected Gandhi's proposal and called for Direct Action Day, on 16 August 1946, to press Muslims to publicly gather in cities and support his proposal for partition of Indian subcontinent into a Muslim state and non-Muslim state. Huseyn Shaheed Suhrawardy, the Muslim League Chief Minister of Bengal – now Bangladesh and West Bengal, gave Calcutta's police special holiday to celebrate the Direct Action Day.[221] The Direct Action Day triggered a mass murder of Calcutta Hindus and the torching of their property, and holidaying police were missing to contain or stop the conflict.[222] The British government did not order its army to move in to contain the violence.[223] The violence on Direct Action Day led to retaliatory violence against Muslims across India. Thousands of Hindus and Muslims were murdered, and tens of thousands were injured in the cycle of violence in the days that followed.[224] Gandhi visited the most riot-prone areas to appeal a stop to the massacres.[225]
 
-Mountbattens_with_Gandhi_(IND_5298).jpg, Britain's last Viceroy of India, and his wife Edwina Mountbatten]]
+, Britain's last Viceroy of India, and his wife Edwina Mountbatten]]
 
 Archibald Wavell, the Viceroy and Governor-General of British India for three years through February 1947, had worked with Gandhi and Jinnah to find a common ground, before and after accepting Indian independence in principle. Wavell condemned Gandhi's character and motives as well as his ideas. Wavell accused Gandhi of harbouring the single minded idea to "overthrow British rule and influence and to establish a Hindu raj", and called Gandhi a "malignant, malevolent, exceedingly shrewd" politician.[226] Wavell feared a civil war on the Indian subcontinent, and doubted Gandhi would be able to stop it.[227]
 
@@ -223,9 +217,9 @@ Prime Minister Jawaharlal Nehru addressed his countrymen over the All-India Radi
 
   Friends and comrades, the light has gone out of our lives, and there is darkness everywhere, and I do not quite know what to tell you or how to say it. Our beloved leader, Bapu as we called him, the father of the nation, is no more. Perhaps I am wrong to say that; nevertheless, we will not see him again, as we have seen him for these many years, we will not run to him for advice or seek solace from him, and that is a terrible blow, not only for me, but for millions and millions in this country.[236]
 
-MKGandhi_assassination_spot.jpg Gandhi's assassin Godse made no attempt to escape and was seized by the witnesses. He was arrested. In the weeks that followed, his collaborators were arrested as well.[237][238] Godse was a Hindu nationalist with links to the extremist Hindu Mahasabha.[239] They were tried in court at Delhi's Red Fort. At his trial, Godse did not deny the charges nor express any remorse. According to Claude Markovits, a French historian noted for his studies of colonial India, Godse stated that he killed Gandhi because of his complacence towards Muslims, holding Gandhi responsible for the frenzy of violence and sufferings during the subcontinent's partition into Pakistan and India. Godse accused Gandhi of subjectivism and of acting as if only he had a monopoly of the truth. Godse was found guilty and executed in 1949.[240][241]
+Gandhi's assassin Godse made no attempt to escape and was seized by the witnesses. He was arrested. In the weeks that followed, his collaborators were arrested as well.[237][238] Godse was a Hindu nationalist with links to the extremist Hindu Mahasabha.[239] They were tried in court at Delhi's Red Fort. At his trial, Godse did not deny the charges nor express any remorse. According to Claude Markovits, a French historian noted for his studies of colonial India, Godse stated that he killed Gandhi because of his complacence towards Muslims, holding Gandhi responsible for the frenzy of violence and sufferings during the subcontinent's partition into Pakistan and India. Godse accused Gandhi of subjectivism and of acting as if only he had a monopoly of the truth. Godse was found guilty and executed in 1949.[240][241]
 
-Gandhi_funeral.jpg Gandhi's death was mourned nationwide. Over a million people joined the five-mile long funeral procession that took over five hours to reach Raj Ghat from Birla house, where he was assassinated, and another million watched the procession pass by.[242] Gandhi's body was transported on a weapons carrier, whose chassis was dismantled overnight to allow a high-floor to be installed so that people could catch a glimpse of his body. The engine of the vehicle was not used; instead four drag-ropes manned by 50 people each pulled the vehicle.[243] All Indian-owned establishments in London remained closed in mourning as thousands of people from all faiths and denominations and Indians from all over Britain converged at India House in London.[244]
+Gandhi's death was mourned nationwide. Over a million people joined the five-mile long funeral procession that took over five hours to reach Raj Ghat from Birla house, where he was assassinated, and another million watched the procession pass by.[242] Gandhi's body was transported on a weapons carrier, whose chassis was dismantled overnight to allow a high-floor to be installed so that people could catch a glimpse of his body. The engine of the vehicle was not used; instead four drag-ropes manned by 50 people each pulled the vehicle.[243] All Indian-owned establishments in London remained closed in mourning as thousands of people from all faiths and denominations and Indians from all over Britain converged at India House in London.[244]
 
 Gandhi's assassination dramatically changed the political landscape. Nehru became his political heir. According to Markovits, while Gandhi was alive, Pakistan's declaration that it was a "Muslim state" had led Indian groups to demand that it be declared a "Hindu state".[245] Nehru used Gandhi's martyrdom as a political weapon to silence all advocates of Hindu nationalism as well as his political challengers. He linked Gandhi's assassination to politics of hatred and ill-will.[246]
 
@@ -246,7 +240,7 @@ Gandhi's statements, letters and life have attracted much political and scholarl
 
 Influences
 
-Tagore_Gandhi.jpg, 1940]]
+, 1940]]
 
 Gandhi grew up in a Hindu and Jain religious atmosphere in his native Gujarat, which were his primary influences, but he was also influenced by his personal reflections and literature of Hindu Bhakti saints, Advaita Vedanta, Islam, Buddhism, Christianity, and thinkers such as Tolstoy, Ruskin and Thoreau.[260][261] At age 57 he declared himself to be Advaitist Hindu in his religious persuasion, but added that he supported Dvaitist viewpoints and religious pluralism.[262][263][264]
 
@@ -262,7 +256,7 @@ Additional theories of possible influences on Gandhi have been proposed. For exa
 
 Tolstoy
 
-Gandhi_Tolstoy_Farm.jpg, South Africa, 1910]]
+, South Africa, 1910]]
 
 Along with the book mentioned above, in 1908 Leo Tolstoy wrote _A Letter to a Hindu,_ which said that only by using love as a weapon through passive resistance could the Indian people overthrow colonial rule. In 1909, Gandhi wrote to Tolstoy seeking advice and permission to republish _A Letter to a Hindu_ in Gujarati. Tolstoy responded and the two continued a correspondence until Tolstoy's death in 1910 (Tolstoy's last letter was to Gandhi).[277] The letters concern practical and theological applications of nonviolence.[278] Gandhi saw himself a disciple of Tolstoy, for they agreed regarding opposition to state authority and colonialism; both hated violence and preached non-resistance. However, they differed sharply on political strategy. Gandhi called for political involvement; he was a nationalist and was prepared to use nonviolent force. He was also willing to compromise.[279] It was at Tolstoy Farm where Gandhi and Hermann Kallenbach systematically trained their disciples in the philosophy of nonviolence.[280]
 
@@ -296,17 +290,15 @@ After World War II engulfed Britain, Gandhi actively campaigned to oppose any he
 
 Truth and Satyagraha
 
-Mahatma_Gandhi_on_Rumours.jpg
-
 Gandhi dedicated his life to discovering and pursuing truth, or _Satya_, and called his movement as _satyagraha_, which means "appeal to, insistence on, or reliance on the Truth".[311] The first formulation of the _satyagraha_ as a political movement and principle occurred in 1920, which he tabled as "Resolution on Non-cooperation" in September that year before a session of the Indian Congress. It was the _satyagraha_ formulation and step, states Dennis Dalton, that deeply resonated with beliefs and culture of his people, embedded him into the popular consciousness, transforming him quickly into Mahatma.[312]
 
-God_is_Truth.jpg (nonviolence)" – Sabarmati, 13 March 1927]]
+(nonviolence)" – Sabarmati, 13 March 1927]]
 
 Gandhi based _Satyagraha_ on the Vedantic ideal of self-realization, ahimsa (nonviolence), vegetarianism, and universal love. William Borman states that the key to his _satyagraha_ is rooted in the Hindu Upanishadic texts.[313] According to Indira Carr, Gandhi's ideas on _ahimsa_ and _satyagraha_ were founded on the philosophical foundations of Advaita Vedanta.[314] I. Bruce Watson states that some of these ideas are found not only in traditions within Hinduism, but also in Jainism or Buddhism, particularly those about non-violence, vegetarianism and universal love, but Gandhi's synthesis was to politicise these ideas.[315] Gandhi's concept of _satya_ as a civil movement, states Glyn Richards, are best understood in the context of the Hindu terminology of Dharma and _Ṛta_.[316]
 
 Gandhi stated that the most important battle to fight was overcoming his own demons, fears, and insecurities. Gandhi summarised his beliefs first when he said "God is Truth". He would later change this statement to "Truth is God". Thus, _satya_ (truth) in Gandhi's philosophy is "God".[317] Gandhi, states Richards, described the term "God" not as a separate power, but as the Being (Brahman, Atman) of the Advaita Vedanta tradition, a nondual universal that pervades in all things, in each person and all life.[318] According to Nicholas Gier, this to Gandhi meant the unity of God and humans, that all beings have the same one soul and therefore equality, that _atman_ exists and is same as everything in the universe, ahimsa (non-violence) is the very nature of this _atman_.[319]
 
-Salt_March.jpg to defy colonial law giving salt collection monopoly to the British.[320] His _satyagraha_ attracted vast numbers of Indian men and women.[321]]]
+to defy colonial law giving salt collection monopoly to the British.[320] His _satyagraha_ attracted vast numbers of Indian men and women.[321]]]
 
 The essence of Satyagraha is "soul force" as a political means, refusing to use brute force against the oppressor, seeking to eliminate antagonisms between the oppressor and the oppressed, aiming to transform or "purify" the oppressor. It is not inaction but determined passive resistance and non-co-operation where, states Arthur Herman, "love conquers hate".[322] A euphemism sometimes used for Satyagraha is that it is a "silent force" or a "soul force" (a term also used by Martin Luther King Jr. during his famous "I Have a Dream" speech). It arms the individual with moral power rather than physical power. Satyagraha is also termed a "universal force", as it essentially "makes no distinction between kinsmen and strangers, young and old, man and woman, friend and foe."[323]
 
@@ -316,7 +308,7 @@ While Gandhi's idea of _satyagraha_ as a political means attracted a widespread 
 
 Nonviolence
 
-Gandhi_at_Darwen_with_women.jpg, Lancashire, 26 September 1931]]
+, Lancashire, 26 September 1931]]
 
 Although Gandhi was not the originator of the principle of nonviolence, he was the first to apply it in the political field on a large scale.[333] The concept of nonviolence (_ahimsa_) has a long history in Indian religious thought, with it being considered the highest dharma (ethical value virtue), a precept to be observed towards all living beings (_sarvbhuta_), at all times (_sarvada_), in all respects (_sarvatha_), in action, words and thought.[334] Gandhi explains his philosophy and ideas about _ahimsa_ as a political means in his autobiography _The Story of My Experiments with Truth_.[335][336][337]
 
@@ -373,8 +365,6 @@ Beyond his religious beliefs, Gandhi stated another motivation for his experimen
 Gandhi championed animal rights in general. Other than making vegetarian choices, he actively campaigned against dissection studies and experimentation on live animals (vivisection) in the name of science and medical studies.[408] He considered it a violence against animals, something that inflicted pain and suffering. He wrote, "Vivisection in my opinion is the blackest of all the blackest crimes that man is at present committing against God and His fair creation."[409]
 
 Fasting
-
-Gandhi_fasting_1948.jpg
 
 Gandhi used fasting as a political device, often threatening suicide unless demands were met. Congress publicised the fasts as a political action that generated widespread sympathy. In response the government tried to manipulate news coverage to minimise his challenge to the Raj. He fasted in 1932 to protest the voting scheme for separate political representation for Dalits; Gandhi did not want them segregated. The British government stopped the London press from showing photographs of his emaciated body, because it would elicit sympathy. Gandhi's 1943 hunger strike took place during a two-year prison term for the anticolonial Quit India movement. The government called on nutritional experts to demystify his action, and again no photos were allowed. However, his final fast in 1948, after the end of British rule in India, his hunger strike was lauded by the British press and this time did include full-length photos.[410]
 
@@ -457,7 +447,7 @@ _Gandhism_ designates the ideas and principles Gandhi promoted; of central impor
 
 Literary works
 
-Young_India.png Gandhi was a prolific writer. One of Gandhi's earliest publications, _Hind Swaraj_, published in Gujarati in 1909, became "the intellectual blueprint" for India's independence movement. The book was translated into English the next year, with a copyright legend that read "No Rights Reserved".[500] For decades he edited several newspapers including _Harijan_ in Gujarati, in Hindi and in the English language; _Indian Opinion_ while in South Africa and, _Young India_, in English, and Navajivan, a Gujarati monthly, on his return to India. Later, Navajivan was also published in Hindi. In addition, he wrote letters almost every day to individuals and newspapers.[501]
+Gandhi was a prolific writer. One of Gandhi's earliest publications, _Hind Swaraj_, published in Gujarati in 1909, became "the intellectual blueprint" for India's independence movement. The book was translated into English the next year, with a copyright legend that read "No Rights Reserved".[500] For decades he edited several newspapers including _Harijan_ in Gujarati, in Hindi and in the English language; _Indian Opinion_ while in South Africa and, _Young India_, in English, and Navajivan, a Gujarati monthly, on his return to India. Later, Navajivan was also published in Hindi. In addition, he wrote letters almost every day to individuals and newspapers.[501]
 
 Gandhi also wrote several books including his autobiography, _The Story of My Experiments with Truth (Gujarātī "સત્યના પ્રયોગો અથવા આત્મકથા")_, of which he bought the entire first edition to make sure it was reprinted.[502] His other autobiographies included: _Satyagraha in South Africa_ about his struggle there, _Hind Swaraj or Indian Home Rule_, a political pamphlet, and a paraphrase in Gujarati of John Ruskin's _Unto This Last_.[503] This last essay can be considered his programme on economics. He also wrote extensively on vegetarianism, diet and health, religion, social reforms, etc. Gandhi usually wrote in Gujarati, though he also revised the Hindi and English translations of his books.[504]
 
@@ -471,7 +461,7 @@ Legacy and depictions in popular culture
 
 Followers and international influence
 
-Mahatmagandhi.jpg of Mahatma Gandhi at York University]] The_Soviet_Union_1969_CPA_3793_stamp_(Mahatma_Gandhi).jpg]] Gandhi_Commons.jpg, Brazil. Statue by Gautam Pal]] Mahatma_Gandhi_Statue,_Vidhana_Soudha_(03).jpg]]
+of Mahatma Gandhi at York University]] ]] , Brazil. Statue by Gautam Pal]] ]]
 
 Gandhi influenced important leaders and political movements. Leaders of the civil rights movement in the United States, including Martin Luther King Jr., James Lawson, and James Bevel, drew from the writings of Gandhi in the development of their own theories about nonviolence.[512][513][514] King said "Christ gave us the goals and Mahatma Gandhi the tactics."[515] King sometimes referred to Gandhi as "the little brown saint."[516] Anti-apartheid activist and former President of South Africa, Nelson Mandela, was inspired by Gandhi.[517] Others include Khan Abdul Ghaffar Khan,[518] Steve Biko, and Aung San Suu Kyi.[519]
 
@@ -503,7 +493,7 @@ In 2007, the United Nations General Assembly declared Gandhi's birthday 2 Octobe
 
 Awards
 
-Madrid_-_Plaza_Joan_Miró,_Monumento_a_Mohandas_K._Gandhi_2.jpg, Spain]]
+, Spain]]
 
 _Time magazine_ named Gandhi the Man of the Year in 1930. The University of Nagpur awarded him an LL.D. in 1937.[536] Gandhi was also the runner-up to Albert Einstein as "Person of the Century"[537] at the end of 1999. The Government of India awarded the annual Gandhi Peace Prize to distinguished social workers, world leaders and citizens. Nelson Mandela, the leader of South Africa's struggle to eradicate racial discrimination and segregation, was a prominent non-Indian recipient. In 2011, _Time_ magazine named Gandhi as one of the top 25 political icons of all time.[538]
 
@@ -527,7 +517,7 @@ Several biographers have undertaken the task of describing Gandhi's life. Among 
 
 Current impact within India
 
-Gandhi_Memorial_Kanyakumari.jpg, a temple in Kanyakumari, Tamil Nadu in India, was erected to honour M.K. Gandhi.]]
+, a temple in Kanyakumari, Tamil Nadu in India, was erected to honour M.K. Gandhi.]]
 
 India, with its rapid economic modernisation and urbanisation, has rejected Gandhi's economics[566] but accepted much of his politics and continues to revere his memory. Reporter Jim Yardley notes that, "modern India is hardly a Gandhian nation, if it ever was one. His vision of a village-dominated economy was shunted aside during his lifetime as rural romanticism, and his call for a national ethos of personal austerity and nonviolence has proved antithetical to the goals of an aspiring economic and military power." By contrast Gandhi is "given full credit for India's political identity as a tolerant, secular democracy."[567]
 
@@ -537,7 +527,7 @@ There are three temples in India dedicated to Gandhi.[570] One is located at Sam
 
 Descendants
 
-Gandhi's children and grandchildren live in India and other countries. Grandson Rajmohan Gandhi is a Professor in Illinois and an author of Gandhi's biography titled "Mohandas",[574] while another, Tarun Gandhi, has authored several authoritative books on his grandfather. Another grandson, Kanu Ramdas Gandhi (the son of Gandhi's third son Ramdas), was found living in an old age home in Delhi despite having taught earlier in the United States.[575][576] Gandhi_family_tree.jpg
+Gandhi's children and grandchildren live in India and other countries. Grandson Rajmohan Gandhi is a Professor in Illinois and an author of Gandhi's biography titled "Mohandas",[574] while another, Tarun Gandhi, has authored several authoritative books on his grandfather. Another grandson, Kanu Ramdas Gandhi (the son of Gandhi's third son Ramdas), was found living in an old age home in Delhi despite having taught earlier in the United States.[575][576]
 
 
 See also

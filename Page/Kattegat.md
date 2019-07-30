@@ -7,7 +7,7 @@ There are several large cities and major ports in the Kattegat, including Gothen
 
 Geography
 
-Gothenburg_juli_2009_(ubt)-000.JPG at Gothenburg, a sea fortress in the Kattegat]] According to the definition established in a 1932 convention signed by Denmark, Norway and Sweden (registered in the League of Nations Treaty Series 1933–1934), the northern boundary between the Kattegat and Skagerrak is found at the northernmost point of Skagen on Jutland, while the southern boundary towards Øresund is found at the tip of Kullen Peninsula in Scania.[1]
+at Gothenburg, a sea fortress in the Kattegat]] According to the definition established in a 1932 convention signed by Denmark, Norway and Sweden (registered in the League of Nations Treaty Series 1933–1934), the northern boundary between the Kattegat and Skagerrak is found at the northernmost point of Skagen on Jutland, while the southern boundary towards Øresund is found at the tip of Kullen Peninsula in Scania.[1]
 
 Major waterways that drain into the Kattegat are the rivers of Göta älv at Gothenburg, together with the Lagan, Nissan, Ätran and Viskan in the province of Halland on the Swedish side, and the river of Gudenå in Jutland, in Denmark.
 
@@ -49,7 +49,7 @@ The Kattegat was one of the first marine dead zones to be noted in the 1970s, wh
 
 Protections and regulation
 
-Vista_de_Greenen.JPG Hovs_hallar.JPG Due to the very heavy sea traffic and many large coastal settlements, the Kattegat has been designated as a Sulphur Emission Control Area as part of the Baltic Sea since 2006. The benchmark for sulphur in fuels was recently lowered to 0.1%, to be effectuated from 1 January 2015.[23]
+Due to the very heavy sea traffic and many large coastal settlements, the Kattegat has been designated as a Sulphur Emission Control Area as part of the Baltic Sea since 2006. The benchmark for sulphur in fuels was recently lowered to 0.1%, to be effectuated from 1 January 2015.[23]
 
 Several larger areas of the Kattegat are designated as Natura 2000 and under various bird protections such as the Ramsar Convention. The remaining larger shallow reefs, are among the protections, as they are important spawning and feeding grounds for fish and marine mammals and they support a thriving but threatened biodiversity. Protected areas includes:
 

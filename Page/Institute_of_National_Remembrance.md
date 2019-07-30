@@ -22,7 +22,7 @@ It is the IPN's duty to prosecute crimes against peace and humanity, as much as 
 
 Organisation
 
-Wejście_do_Instytutu_Pamięci_Narodowej_ul._Wołoska_7.JPG IPN was created by special legislation on 18 December 1998.[27] IPN is governed by the chairman. This chairman is chosen by a supermajority (60%) of the Polish Parliament (Sejm) with the approval of the Senate of Poland on a request by a Collegium of IPN. The chairman has a 5-year term of office. The first chairman of the IPN was Leon Kieres, elected by the Sejm for five years on 8 June 2000 (term 30 June 2000 – 29 December 2005). The second chairman was Janusz Kurtyka, elected on 9 December 2005 with a term that started 29 December 2005 until his death in the Smolensk airplane crash on 10 April 2010. Franciszek Gryciuk was acting chairman from 2010 to 2011, when the current chairman, Łukasz Kamiński, was elected by the Sejm.
+IPN was created by special legislation on 18 December 1998.[27] IPN is governed by the chairman. This chairman is chosen by a supermajority (60%) of the Polish Parliament (Sejm) with the approval of the Senate of Poland on a request by a Collegium of IPN. The chairman has a 5-year term of office. The first chairman of the IPN was Leon Kieres, elected by the Sejm for five years on 8 June 2000 (term 30 June 2000 – 29 December 2005). The second chairman was Janusz Kurtyka, elected on 9 December 2005 with a term that started 29 December 2005 until his death in the Smolensk airplane crash on 10 April 2010. Franciszek Gryciuk was acting chairman from 2010 to 2011, when the current chairman, Łukasz Kamiński, was elected by the Sejm.
 
 The IPN is divided into:[28][29][30]
 
@@ -39,7 +39,7 @@ Activities
 
 Research
 
-Akta_Instytut_Pamięci_Narodowej_05.JPG The research conducted by IPN from December 2000 falls into four main topical areas:
+The research conducted by IPN from December 2000 falls into four main topical areas:
 
 -   Security Apparatus and Civil Resistance (with separate sub-projects devoted to Political Processes and Prisoners 1944–1956, Soviet Repressions and Crimes committed against Polish Citizens and Martial Law: a Glance after Twenty Years);[33]
     -   Functioning of the repression apparatus (state security and justice organs) – its organizational structure, cadres and relations with other state authority and party organs[34]

@@ -22,9 +22,9 @@ The warming of Lake Michigan was the subject of a report by Purdue University in
 
 Geography
 
-Lake_Michigan_bathymetry_map.png map.[14][15][16] The deepest point is marked with "×".[17]]]
+map.[14][15][16] The deepest point is marked with "×".[17]]]
 
-Lake_Michigan_Watershed.png Lake Michigan is the sole Great Lake wholly within the borders of the United States; the others are shared with Canada.[18] It lies in the region known as the American Midwest.
+Lake Michigan is the sole Great Lake wholly within the borders of the United States; the others are shared with Canada.[18] It lies in the region known as the American Midwest.
 
 Statistics and bathymetry
 
@@ -32,7 +32,7 @@ Lake Michigan has a surface area of 22,404 sq.mi (58,026 km²); (13,237 square 
 
 Cities
 
-Milwaukee_skyline.jpg lakefront]] Gold_coast_and_Michigan_lake_(8091814447)_(2).jpg]] Twelve million people live along Lake Michigan's shores, mainly in the Chicago and Milwaukee metropolitan areas. The economy of many communities in northern Michigan and Door County, Wisconsin is supported by tourism, with large seasonal populations attracted by Lake Michigan.[24] Seasonal residents often have summer homes along the waterfront and return home for the winter. The southern tip of the lake near Gary, Indiana is heavily industrialized. Cities on the shores of Lake Michigan include:
+lakefront]] ]] Twelve million people live along Lake Michigan's shores, mainly in the Chicago and Milwaukee metropolitan areas. The economy of many communities in northern Michigan and Door County, Wisconsin is supported by tourism, with large seasonal populations attracted by Lake Michigan.[24] Seasonal residents often have summer homes along the waterfront and return home for the winter. The southern tip of the lake near Gary, Indiana is heavily industrialized. Cities on the shores of Lake Michigan include:
 
 ILLINOIS
 
@@ -118,8 +118,6 @@ WISCONSIN
 
 Connection to ocean and open water
 
-Sunset_at_nordhouse_dunes.jpg
-
 The Saint Lawrence Seaway and Great Lakes Waterway opened the Great Lakes to ocean-going vessels. Wider ocean-going container ships do not fit through the locks on these routes, and thus shipping is limited on the lakes. Despite their vast size, large sections of the Great Lakes freeze in winter, interrupting most shipping. Some icebreakers ply the lakes.
 
 The Great Lakes are also connected by the Illinois Waterway to the Gulf of Mexico via the Illinois River (from Chicago) and the Mississippi River. An alternate track is via the Illinois River (from Chicago), to the Mississippi, up the Ohio, and then through the Tennessee-Tombigbee Waterway (combination of a series of rivers and lakes and canals), to Mobile Bay and the Gulf. Commercial tug-and-barge traffic on these waterways is heavy.
@@ -128,7 +126,7 @@ Pleasure boats can also enter or exit the Great Lakes by way of the Erie Canal a
 
 Beaches
 
-Indiana_dunes.jpg on Lake Michigan at Indiana Dunes National Park]] SaugatuckDunesStatePark.JPG]] Lake Michigan has many beaches. The region is often referred to as the "Third Coast"[25] of the United States, after those of the Atlantic Ocean and the Pacific Ocean. The sand is often soft and off-white, known as "singing sands" because of the squeaking noise (caused by high quartz content) it emits when walked upon. Some beaches have sand dunes covered in green beach grass and sand cherries, and the water is usually clear and cool, between ,[26] even in the late summer months. However, because prevailing westerly winds tend to move the surface water toward the east, there is a flow of warmer water to the Michigan shore in the summer.[27]
+on Lake Michigan at Indiana Dunes National Park]] ]] Lake Michigan has many beaches. The region is often referred to as the "Third Coast"[25] of the United States, after those of the Atlantic Ocean and the Pacific Ocean. The sand is often soft and off-white, known as "singing sands" because of the squeaking noise (caused by high quartz content) it emits when walked upon. Some beaches have sand dunes covered in green beach grass and sand cherries, and the water is usually clear and cool, between ,[26] even in the late summer months. However, because prevailing westerly winds tend to move the surface water toward the east, there is a flow of warmer water to the Michigan shore in the summer.[27]
 
 The sand dunes located on the east shore of Lake Michigan are the largest freshwater dune system in the world. In fact, in multiple locations along the shoreline, the dunes rise several hundred feet above the lake surface. Large dune formations can be seen in many state parks, national forests and national parks along the Indiana and Michigan shoreline. Some of the most expansive and unique dune formations can be found at Indiana Dunes National Park, Saugatuck Dunes State Park, Warren Dunes State Park, Hoffmaster State Park, Silver Lake State Park, Ludington State Park, and Sleeping Bear Dunes National Lakeshore. Small dune formations can be found on the western shore of Lake Michigan at Illinois Beach State Park and moderate sized dune formations can be found in Kohler-Andrae State Park and Point Beach State Forest in Wisconsin. A large dune formation can be found in Whitefish Dunes State Park in Wisconsin in the Door Peninsula. Lake Michigan beaches in Northern Michigan are the only place in the world, aside from a few inland lakes in that region, where one can find Petoskey stones, the state stone.[28]
 
@@ -138,11 +136,11 @@ The Chicago city waterfront is composed of parks, beaches, harbors and marinas, 
 
 Ferries
 
-SS_Badger_CloseUP.png Two passenger and vehicle ferries operate ferry services on Lake Michigan, both connecting Wisconsin on the western shore with Michigan on the east. From May to October, the historic steam ship, , operates daily between Manitowoc, Wisconsin, and Ludington, Michigan,[29] connecting U.S. Highway 10 between the two cities. The _Lake Express_, established in 2004, carries passengers and vehicles across the lake between Milwaukee, Wisconsin, and Muskegon, Michigan.
+Two passenger and vehicle ferries operate ferry services on Lake Michigan, both connecting Wisconsin on the western shore with Michigan on the east. From May to October, the historic steam ship, , operates daily between Manitowoc, Wisconsin, and Ludington, Michigan,[29] connecting U.S. Highway 10 between the two cities. The _Lake Express_, established in 2004, carries passengers and vehicles across the lake between Milwaukee, Wisconsin, and Muskegon, Michigan.
 
 Islands
 
-Lake_Michigan_from_Big_Sable_Point_lighthouse.jpg, Michigan]]
+, Michigan]]
 
 -   The Beaver Island archipelago in Charlevoix County, Michigan, includes Beaver Island, Garden Island, Grape Island, Gull Island, Hat Island, High Island, Hog Island, Horseshoe Island, Little Island, Pismire Island, Shoe Island, Squaw Island, Trout Island, and Whiskey Island.
 -   The Fox Islands in Leelanau County, Michigan, consist of North Fox Island and South Fox Island.
@@ -161,7 +159,7 @@ Lake_Michigan_from_Big_Sable_Point_lighthouse.jpg, Michigan]]
 
 Parks
 
-Sand_dunes_from_Lake_Michigan_Overlook,_Sleeping_Bear_Dunes_National_Lakeshore.jpg, with people climbing uphill]] 20080704_North_Avenue_Beach.JPG, Lincoln Park]] PortageLakeMichiganShoreline.jpg]] Eichelman_Park_Kenosha.jpg with Lake Michigan in the background]]
+, with people climbing uphill]] , Lincoln Park]] ]] with Lake Michigan in the background]]
 
 The National Park Service maintains the Sleeping Bear Dunes National Lakeshore and Indiana Dunes National Park. Parts of the shoreline are within the Hiawatha National Forest and the Manistee National Forest. The Manistee National Forest section of the shoreline includes the Nordhouse Dunes Wilderness. The Lake Michigan division of the Michigan Islands National Wildlife Refuge is also within the lake.
 
@@ -208,7 +206,7 @@ Lighthouses
 
 Hydrology
 
-Ice_Volcano_over_Lake_Michigan,_March_2013.jpges form from sea ice and protect the coast from erosion.]] The Milwaukee Reef, running under Lake Michigan from a point between Milwaukee and Racine to a point between Grand Haven and Muskegon, divides the lake into northern and southern basins. Each basin has a clockwise flow of water, deriving from rivers, winds, and the Coriolis effect. Prevailing westerly winds tend to move the surface water toward the east, producing a moderating effect on the climate of western Michigan. There is a mean difference in summer temperatures of 5 to 10 degrees Fahrenheit (2 to 5 degrees Celsius) between the Wisconsin and Michigan shores.[30]
+es form from sea ice and protect the coast from erosion.]] The Milwaukee Reef, running under Lake Michigan from a point between Milwaukee and Racine to a point between Grand Haven and Muskegon, divides the lake into northern and southern basins. Each basin has a clockwise flow of water, deriving from rivers, winds, and the Coriolis effect. Prevailing westerly winds tend to move the surface water toward the east, producing a moderating effect on the climate of western Michigan. There is a mean difference in summer temperatures of 5 to 10 degrees Fahrenheit (2 to 5 degrees Celsius) between the Wisconsin and Michigan shores.[30]
 
 Hydrologically Michigan and Huron are the same body of water (sometimes called Lake Michigan-Huron), but are normally considered distinct. Counted together, it is the largest body of fresh water in the world by surface area. The Mackinac Bridge is generally considered the dividing line between them. Both lakes are part of the Great Lakes Waterway. The main inflow to Lake Michigan from Lake Superior, through Lake Huron, is controlled by the locks operated by the bi-national Lake Superior Board of Control[31]
 
@@ -250,7 +248,7 @@ Port of Chicago
 
 The Port of Chicago, operated by the Illinois International Port District, has grain (14 million bushels) and bulk liquid (800,000 barrels) storage facilities along Lake Calumet. The central element of the Port District, Calumet Harbor, is maintained by the U.S. Army Corps of Engineers.[47]
 
-Holland_State_Park.jpg]]
+]]
 
 Tourism and recreation
 
@@ -263,8 +261,6 @@ Tourism and recreation are major industries on all of the Great Lakes:
 
 
 See also
-
-Chicago_across_from_Lake_Michigan.jpg
 
 -   Beaver Island
 -   Chicago beaches

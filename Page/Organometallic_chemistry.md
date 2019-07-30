@@ -1,4 +1,4 @@
-N-butyllithium-tetramer-3D-balls.png, an organometallic compound. Four lithium atoms (in purple) form a tetrahedron, with four butyl groups attached to the faces (carbon is black, hydrogen is white).]]
+, an organometallic compound. Four lithium atoms (in purple) form a tetrahedron, with four butyl groups attached to the faces (carbon is black, hydrogen is white).]]
 
 ORGANOMETALLIC CHEMISTRY is the study of ORGANOMETALLIC COMPOUNDS, chemical compounds containing at least one chemical bond between a carbon atom of an organic molecule and a metal, including alkaline, alkaline earth, and transition metals, and sometimes broadened to include metalloids like boron, silicon, and tin, as well.[1] Aside from bonds to organyl fragments or molecules, bonds to 'inorganic' carbon, like carbon monoxide (metal carbonyls), cyanide, or carbide, are generally considered to be organometallic as well. Some related compounds such as transition metal hydrides and metal phosphine complexes are often included in discussions of organometallic compounds, though strictly speaking, they are not necessarily organometallic. The related but distinct term "metalorganic compound" refers to metal-containing compounds lacking direct metal-carbon bonds but which contain organic ligands. Metal β-diketonates, alkoxides, dialkylamides, and metal phosphine complexes are representative members of this class. The field of organometallic chemistry combines aspects of traditional inorganic and organic chemistry.[2]
 
@@ -99,7 +99,7 @@ Almost all processes involving carbon monoxide rely on catalysts, notable exampl
 
 Almost all industrial processes involving alkene-derived polymers rely on organometallic catalysts. The world's polyethylene and polypropylene are produced via both heterogeneously via Ziegler–Natta catalysis and homogeneously, e.g., via constrained geometry catalysts.[12]
 
-Most processes involving hydrogen rely on metal-based catalysts. Whereas bulk hydrogenations, e.g. margarine production, rely on heterogeneous catalysts, For the production of fine chemicals, such hydrogenations rely on soluble organometallic complexes or involve organometallic intermediates.[13] Organometallic complexes allow these hydrogenations to be effected asymmetrically. ConstrainedGeomCmpx.png
+Most processes involving hydrogen rely on metal-based catalysts. Whereas bulk hydrogenations, e.g. margarine production, rely on heterogeneous catalysts, For the production of fine chemicals, such hydrogenations rely on soluble organometallic complexes or involve organometallic intermediates.[13] Organometallic complexes allow these hydrogenations to be effected asymmetrically.
 
 Many semiconductors are produced from trimethylgallium, trimethylindium, trimethylaluminium, and trimethylantimony. These volatile compounds are decomposed along with ammonia, arsine, phosphine and related hydrides on a heated substrate via metalorganic vapor phase epitaxy (MOVPE) process in the production of light-emitting diodes (LEDs).
 
@@ -118,7 +118,7 @@ Organometallic complexes are commonly used in small-scale fine chemical synthesi
 
 Environmental concerns
 
-Natural and contaminant organometallic compounds are found in the environment. Some that are remnants of human use, such as organolead and organomercury compounds, are toxicity hazards. Tetraethyllead was prepared for use as a gasoline additive but has fallen into disuse because of lead's toxicity. Its replacements are other organometallic compounds, such as ferrocene and methylcyclopentadienyl manganese tricarbonyl (MMT).[21] The organoarsenic compound roxarsone is a controversial animal feed additive. In 2006, approximately one million kilograms of it were produced in the U.S alone.[22] Roxarsone.png is an organoarsenic compound used as an animal feed.]]
+Natural and contaminant organometallic compounds are found in the environment. Some that are remnants of human use, such as organolead and organomercury compounds, are toxicity hazards. Tetraethyllead was prepared for use as a gasoline additive but has fallen into disuse because of lead's toxicity. Its replacements are other organometallic compounds, such as ferrocene and methylcyclopentadienyl manganese tricarbonyl (MMT).[21] The organoarsenic compound roxarsone is a controversial animal feed additive. In 2006, approximately one million kilograms of it were produced in the U.S alone.[22] is an organoarsenic compound used as an animal feed.]]
 
 
 See also

@@ -1,4 +1,4 @@
-Ludovic_and_Lauren_(8425515069).jpg runners at Carlsbad Marathon, USA, 2013]] Running_form.ogv
+runners at Carlsbad Marathon, USA, 2013]]
 
 RUNNING is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions[1]). This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion.[2] A characteristic feature of a running body from the viewpoint of spring-mass mechanics is that changes in kinetic and potential energy within a stride occur simultaneously, with energy storage accomplished by springy tendons and passive muscle elasticity.[3] The term running can refer to any of a variety of speeds ranging from jogging to sprinting.
 
@@ -7,7 +7,7 @@ It is assumed that the ancestors of humankind developed the ability to run for l
 
 History
 
-Long_Distance_Runners,_Ancient_Greece,_Amphora.png Runners_MAN_Napoli_Inv5626-7_n02.jpg of runners from the Villa of the Papyri at Herculaneum, now in the Naples National Archaeological Museum]]
+of runners from the Villa of the Papyri at Herculaneum, now in the Naples National Archaeological Museum]]
 
 It is thought that human running evolved at least four and a half million years ago out of the ability of the ape-like Australopithecus, an early ancestor of humans, to walk upright on two legs.[9]
 
@@ -18,7 +18,7 @@ Competitive running grew out of religious festivals in various areas such as Gre
 
 Running kinematic description
 
-Muybridge_runner.jpg photo sequence]]
+photo sequence]]
 
 Running gait can be divided into two phases in regard to the lower extremity: stance and swing.[17][18][19][20] These can be further divided into absorption, propulsion, initial swing and terminal swing. Due to the continuous nature of running gait, no certain point is assumed to be the beginning. However, for simplicity, it will be assumed that absorption and footstrike mark the beginning of the running cycle in a body already in motion.
 
@@ -52,8 +52,6 @@ Biomechanical factors associated with elite runners include increased hip functi
 
 
 Elements of good running technique
-
-Soldier_running_in_water_original.jpg
 
 Upright posture and a slight forward lean
 
@@ -91,11 +89,11 @@ Running injuries
 
 High impact
 
-Bad-running-form.png Many injuries are associated with running because of its high-impact nature. Change in running volume may lead to development of patellofemoral pain syndrome, iliotibial band syndrome, patellar tendinopathy, plica syndrome, and medial tibial stress syndrome. Change in running pace may cause Achilles Tendinitis, gastrocnemius injuries, and plantar fasciitis.[100] Repetitive stress on the same tissues without enough time for recovery or running with improper form can lead to many of the above. Runners generally attempt to minimize these injuries by warming up before exercise,[101] focusing on proper running form, performing strength training exercises, eating a well balanced diet, allowing time for recovery, and "icing" (applying ice to sore muscles or taking an ice bath).
+Many injuries are associated with running because of its high-impact nature. Change in running volume may lead to development of patellofemoral pain syndrome, iliotibial band syndrome, patellar tendinopathy, plica syndrome, and medial tibial stress syndrome. Change in running pace may cause Achilles Tendinitis, gastrocnemius injuries, and plantar fasciitis.[100] Repetitive stress on the same tissues without enough time for recovery or running with improper form can lead to many of the above. Runners generally attempt to minimize these injuries by warming up before exercise,[101] focusing on proper running form, performing strength training exercises, eating a well balanced diet, allowing time for recovery, and "icing" (applying ice to sore muscles or taking an ice bath).
 
 Some runners may experience injuries when running on concrete surfaces. The problem with running on concrete is that the body adjusts to this flat surface running, and some of the muscles will become weaker, along with the added impact of running on a harder surface. Therefore, it is advised to change terrain occasionally – such as trail, beach, or grass running. This is more unstable ground and allows the legs to strengthen different muscles. Runners should be wary of twisting their ankles on such terrain. Running downhill also increases knee stress and should, therefore, be avoided. Reducing the frequency and duration can also prevent injury.
 
-Barefoot running has been promoted as a means of reducing running related injuries,[102] but this remains controversial and a majority of professionals advocate the wearing of appropriate shoes as the best method for avoiding injury.[103] However, a study in 2013 concluded that wearing neutral shoes is not associated with increased injuries.[104] Chafing.jpg
+Barefoot running has been promoted as a means of reducing running related injuries,[102] but this remains controversial and a majority of professionals advocate the wearing of appropriate shoes as the best method for avoiding injury.[103] However, a study in 2013 concluded that wearing neutral shoes is not associated with increased injuries.[104]
 
 Chafing
 
@@ -124,7 +122,7 @@ The fastest human footspeed on record is 44.7 km/h (12.4 m/s, 27.8 mph), seen
 
 Running speed over increasing distance based on world record times
 
-(see :Category:Athletics (track and field) record progressions) Human_speed_distance_portrait.png
+(see :Category:Athletics (track and field) record progressions)
 
   Distance metres        Men m/s   Women m/s
   ---------------------- --------- -----------
@@ -158,7 +156,7 @@ Events by type
 
 Track running
 
-Grayson_running_the_4x100.jpg Track running events are individual or relay events with athletes racing over specified distances on an oval running track. The events are categorized as sprints, middle and long-distance, and hurdling.
+Track running events are individual or relay events with athletes racing over specified distances on an oval running track. The events are categorized as sprints, middle and long-distance, and hurdling.
 
 Road running
 
@@ -180,7 +178,7 @@ Events by distance
 
 Sprints
 
-Sina_Schielke_(192)_wins_the_100_metres_race_-_ISTAF_2006_-_Berlin,_3_September.jpg, 2006]]
+, 2006]]
 
 Sprints are short running events in athletics and track and field. Races over short distances are among the oldest running competitions. The first 13 editions of the Ancient Olympic Games featured only one event – the stadion race, which was a race from one end of the stadium to the other.[115] There are three sprinting events which are currently held at the Olympics and outdoor World Championships: the 100 metres, 200 metres, and 400 metres. These events have their roots in races of imperial measurements which were later altered to metric: the 100 m evolved from the 100-yard dash,[116] the 200 m distances came from the furlong (or 1/8 of a mile),[117] and the 400 m was the successor to the 440 yard dash or quarter-mile race.[118]
 

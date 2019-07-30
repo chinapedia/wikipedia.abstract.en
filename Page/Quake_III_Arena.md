@@ -69,7 +69,7 @@ id co-founder and former technical director John Carmack has stated that _Quake 
 
 Game engine
 
-Quake_III_Arena_q3dm0.png The _id Tech 3_ engine is the name given to the engine that was developed for _Quake III Arena_. Unlike most other games released at the time, _Quake III Arena_ requires an OpenGL-compliant graphics accelerator to run. The game does not include a software renderer.
+The _id Tech 3_ engine is the name given to the engine that was developed for _Quake III Arena_. Unlike most other games released at the time, _Quake III Arena_ requires an OpenGL-compliant graphics accelerator to run. The game does not include a software renderer.
 
 The graphic technology of the game is based tightly around a "shader" system where the appearance of many surfaces can be defined in text files referred to as "shader scripts." _Quake 3_ also introduced spline-based curved surfaces in addition to planar volumes, which are responsible for many of the surfaces present within the game.[8] _Quake 3_ also provided support for models animated using vertex animation with attachment tags (known as the .md3 format), allowing models to maintain separate torso and leg animations and hold weapons. _Quake 3_ is one of the first games where the third-person model is able to look up and down and around as the head, torso and legs are separate. Other visual features include volumetric fog, mirrors, portals, decals, and wave-form vertex distortion.
 

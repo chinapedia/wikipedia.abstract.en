@@ -13,13 +13,13 @@ Geography
 
 Ohio's geographic location has proven to be an asset for economic growth and expansion. Because Ohio links the Northeast to the Midwest, much cargo and business traffic passes through its borders along its well-developed highways. Ohio has the nation's 10th largest highway network and is within a one-day drive of 50% of North America's population and 70% of North America's manufacturing capacity.[9] To the north, Lake Erie gives Ohio of coastline,[10] which allows for numerous cargo ports. Ohio's southern border is defined by the Ohio River (with the border being at the 1792 low-water mark on the north side of the river),[11] and much of the northern border is defined by Lake Erie. Ohio's neighbors are Pennsylvania to the east, Michigan to the northwest, Lake Erie to the north, Indiana to the west, Kentucky on the south, and West Virginia on the southeast. Ohio's borders were defined by metes and bounds in the Enabling Act of 1802 as follows:
 
-DSCN4516_portconneautflag_e.jpg.]] Ohio is bounded by the Ohio River, but nearly all of the river itself belongs to Kentucky and West Virginia. In 1980, the U.S. Supreme Court held that, based on the wording of the cessation of territory by Virginia (which at that time included what is now Kentucky and West Virginia), the boundary between Ohio and Kentucky (and, by implication, West Virginia) is the northern low-water mark of the river as it existed in 1792.[12] Ohio has only that portion of the river between the river's 1792 low-water mark and the present high-water mark.
+.]] Ohio is bounded by the Ohio River, but nearly all of the river itself belongs to Kentucky and West Virginia. In 1980, the U.S. Supreme Court held that, based on the wording of the cessation of territory by Virginia (which at that time included what is now Kentucky and West Virginia), the boundary between Ohio and Kentucky (and, by implication, West Virginia) is the northern low-water mark of the river as it existed in 1792.[12] Ohio has only that portion of the river between the river's 1792 low-water mark and the present high-water mark.
 
 The border with Michigan has also changed, as a result of the Toledo War, to angle slightly northeast to the north shore of the mouth of the Maumee River.
 
-Much of Ohio features glaciated till plains, with an exceptionally flat area in the northwest being known as the Great Black Swamp. This glaciated region in the northwest and central state is bordered to the east and southeast first by a belt known as the glaciated Allegheny Plateau, and then by another belt known as the unglaciated Allegheny Plateau. Most of Ohio is of low relief, but the unglaciated Allegheny Plateau features rugged hills and forests. Geographic_regions_ohio.svg
+Much of Ohio features glaciated till plains, with an exceptionally flat area in the northwest being known as the Great Black Swamp. This glaciated region in the northwest and central state is bordered to the east and southeast first by a belt known as the glaciated Allegheny Plateau, and then by another belt known as the unglaciated Allegheny Plateau. Most of Ohio is of low relief, but the unglaciated Allegheny Plateau features rugged hills and forests.
 
-The rugged southeastern quadrant of Ohio, stretching in an outward bow-like arc along the Ohio River from the West Virginia Panhandle to the outskirts of Cincinnati, forms a distinct socio-economic unit. Geologically similar to parts of West Virginia and southwestern Pennsylvania, this area's coal mining legacy, dependence on small pockets of old manufacturing establishments, and distinctive regional dialect set this section off from the rest of the state. In 1965 the United States Congress passed the Appalachian Regional Development Act, an attempt to "address the persistent poverty and growing economic despair of the Appalachian Region."[13] This act defines 29 Ohio counties as part of Appalachia.[14] While 1/3 of Ohio's land mass is part of the federally defined Appalachian region, only 12.8% of Ohioans live there (1.476 million people.)[15] Map_of_Ohio_NA.png Significant rivers within the state include the Cuyahoga River, Great Miami River, Maumee River, Muskingum River, and Scioto River. The rivers in the northern part of the state drain into the northern Atlantic Ocean via Lake Erie and the St. Lawrence River, and the rivers in the southern part of the state drain into the Gulf of Mexico via the Ohio River and then the Mississippi.
+The rugged southeastern quadrant of Ohio, stretching in an outward bow-like arc along the Ohio River from the West Virginia Panhandle to the outskirts of Cincinnati, forms a distinct socio-economic unit. Geologically similar to parts of West Virginia and southwestern Pennsylvania, this area's coal mining legacy, dependence on small pockets of old manufacturing establishments, and distinctive regional dialect set this section off from the rest of the state. In 1965 the United States Congress passed the Appalachian Regional Development Act, an attempt to "address the persistent poverty and growing economic despair of the Appalachian Region."[13] This act defines 29 Ohio counties as part of Appalachia.[14] While 1/3 of Ohio's land mass is part of the federally defined Appalachian region, only 12.8% of Ohioans live there (1.476 million people.)[15] Significant rivers within the state include the Cuyahoga River, Great Miami River, Maumee River, Muskingum River, and Scioto River. The rivers in the northern part of the state drain into the northern Atlantic Ocean via Lake Erie and the St. Lawrence River, and the rivers in the southern part of the state drain into the Gulf of Mexico via the Ohio River and then the Mississippi.
 
 The worst weather disaster in Ohio history occurred along the Great Miami River in 1913. Known as the Great Dayton Flood, the entire Miami River watershed flooded, including the downtown business district of Dayton. As a result, the Miami Conservancy District was created as the first major flood plain engineering project in Ohio and the United States.[16]
 
@@ -27,7 +27,7 @@ Grand Lake St. Marys in the west-central part of the state was constructed as a 
 
 Climate
 
-Ohio_Köppen.svg The climate of Ohio is a humid continental climate (Köppen climate classification _Dfa/Dfb_) throughout most of the state, except in the extreme southern counties of Ohio's Bluegrass region section, which are located on the northern periphery of the humid subtropical climate (_Cfa_) and Upland South region of the United States. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. Precipitation in Ohio is moderate year-round. Severe weather is not uncommon in the state, although there are typically fewer tornado reports in Ohio than in states located in what is known as the Tornado Alley. Severe lake effect snowstorms are also not uncommon on the southeast shore of Lake Erie, which is located in an area designated as the Snowbelt.
+The climate of Ohio is a humid continental climate (Köppen climate classification _Dfa/Dfb_) throughout most of the state, except in the extreme southern counties of Ohio's Bluegrass region section, which are located on the northern periphery of the humid subtropical climate (_Cfa_) and Upland South region of the United States. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. Precipitation in Ohio is moderate year-round. Severe weather is not uncommon in the state, although there are typically fewer tornado reports in Ohio than in states located in what is known as the Tornado Alley. Severe lake effect snowstorms are also not uncommon on the southeast shore of Lake Erie, which is located in an area designated as the Snowbelt.
 
 Although predominantly not in a subtropical climate, some warmer-climate flora and fauna do reach well into Ohio. For instance, some trees with more southern ranges, such as the blackjack oak, _Quercus marilandica_, are found at their northernmost in Ohio just north of the Ohio River. Also evidencing this climatic transition from a subtropical to continental climate, several plants such as the Southern magnolia _(Magnolia grandiflora)_, Albizia julibrissin (mimosa), Crape Myrtle, and even the occasional needle palm are hardy landscape materials regularly used as street, yard, and garden plantings in the Bluegrass region of Ohio; but these same plants will simply not thrive in much of the rest of the state. This interesting change may be observed while traveling through Ohio on Interstate 75 from Cincinnati to Toledo; the observant traveler of this diverse state may even catch a glimpse of Cincinnati's common wall lizard, one of the few examples of permanent "subtropical" fauna in Ohio.
 
@@ -213,9 +213,9 @@ History
 
 Native Americans
 
-Sunwatch_Aerial_illustration_HRoe_2018_400px.jpg SunWatch Indian Village in Dayton]] Archeological evidence of spear points of both the Folsom and Clovis types indicate that the Ohio Valley was inhabited by nomadic people as early as 13,000 BC.[41] These early nomads disappeared from Ohio by 1,000 BC.[42] Between 1,000 and 800 BC, the sedentary Adena culture emerged. The Adena were able to establish "semi-permanent" villages because they domesticated plants, including, sunflowers, and "grew squash and possibly corn"; with hunting and gathering, this cultivation supported more settled, complex villages.[43] The most notable remnant of the Adena culture is the Great Serpent Mound, located in Adams County, Ohio.[44]
+SunWatch Indian Village in Dayton]] Archeological evidence of spear points of both the Folsom and Clovis types indicate that the Ohio Valley was inhabited by nomadic people as early as 13,000 BC.[41] These early nomads disappeared from Ohio by 1,000 BC.[42] Between 1,000 and 800 BC, the sedentary Adena culture emerged. The Adena were able to establish "semi-permanent" villages because they domesticated plants, including, sunflowers, and "grew squash and possibly corn"; with hunting and gathering, this cultivation supported more settled, complex villages.[43] The most notable remnant of the Adena culture is the Great Serpent Mound, located in Adams County, Ohio.[44]
 
-5NationsExpansion.jpg conquests during the Beaver Wars (mid-1600s), which largely depopulated the upper and mid-Ohio River valley.]] Around 100 BC, the Adena evolved into the Hopewell people who were also mound builders. Their complex, large and technologically sophisticated earthworks can be found in modern-day Marietta, Newark, and Circleville.[45] They were also a prolific trading society, with a trading network that spanned a third of the continent.[46] The Hopewell disappeared from the Ohio Valley about 600 AD. The Mississippian Culture rose as the Hopewell Culture declined. Many Siouan-speaking peoples from the plains & east coast claim them as ancestors & say they lived throughout the Ohio region until approx. the 13th century.[47]
+conquests during the Beaver Wars (mid-1600s), which largely depopulated the upper and mid-Ohio River valley.]] Around 100 BC, the Adena evolved into the Hopewell people who were also mound builders. Their complex, large and technologically sophisticated earthworks can be found in modern-day Marietta, Newark, and Circleville.[45] They were also a prolific trading society, with a trading network that spanned a third of the continent.[46] The Hopewell disappeared from the Ohio Valley about 600 AD. The Mississippian Culture rose as the Hopewell Culture declined. Many Siouan-speaking peoples from the plains & east coast claim them as ancestors & say they lived throughout the Ohio region until approx. the 13th century.[47]
 
 There were three other cultures contemporaneous with the Mississippians: the Fort Ancient people, the Whittlesey Focus people[48] & the Monongahela Culture.[49] All three cultures disappeared in the 17th century. Their origins are unknown. It is generally believed that the Shawnees may have absorbed the Fort Ancient people.[50] It's also possible that the Monongahela held no land in Ohio during the Colonial Era. The Mississippian Culture were close to and traded extensively with the Fort Ancient people.
 
@@ -229,13 +229,13 @@ During the 18th century, the French set up a system of trading posts to control 
 
 Northwest Territory
 
-DSCN3504_ohiocompany_e.JPG outside Federal Hall National Memorial in New York]] The United States created the Northwest Territory under the Northwest Ordinance of 1787.[60] Slavery was not permitted in the new territory. Settlement began with the founding of Marietta by the Ohio Company of Associates, which had been formed by a group of American Revolutionary War veterans. Following the Ohio Company, the Miami Company (also referred to as the "Symmes Purchase") claimed the southwestern section, and the Connecticut Land Company surveyed and settled the Connecticut Western Reserve in present-day Northeast Ohio. Territorial surveyors from Fort Steuben began surveying an area of eastern Ohio called the Seven Ranges at about the same time. The old Northwest Territory originally included areas previously known as Ohio Country and Illinois Country. As Ohio prepared for statehood, the Indiana Territory was created, reducing the Northwest Territory to approximately the size of present-day Ohio plus the eastern half of the Lower Peninsula of Michigan and the eastern tip of the Upper Peninsula and a sliver of southeastern Indiana called "The Gore".
+outside Federal Hall National Memorial in New York]] The United States created the Northwest Territory under the Northwest Ordinance of 1787.[60] Slavery was not permitted in the new territory. Settlement began with the founding of Marietta by the Ohio Company of Associates, which had been formed by a group of American Revolutionary War veterans. Following the Ohio Company, the Miami Company (also referred to as the "Symmes Purchase") claimed the southwestern section, and the Connecticut Land Company surveyed and settled the Connecticut Western Reserve in present-day Northeast Ohio. Territorial surveyors from Fort Steuben began surveying an area of eastern Ohio called the Seven Ranges at about the same time. The old Northwest Territory originally included areas previously known as Ohio Country and Illinois Country. As Ohio prepared for statehood, the Indiana Territory was created, reducing the Northwest Territory to approximately the size of present-day Ohio plus the eastern half of the Lower Peninsula of Michigan and the eastern tip of the Upper Peninsula and a sliver of southeastern Indiana called "The Gore".
 
 Under the Northwest Ordinance, areas of the territory could be defined and admitted as states once their population reached 60,000. Although Ohio's population numbered only 45,000 in December 1801, Congress determined that the population was growing rapidly and Ohio could begin the path to statehood. The assumption was that it would exceed 60,000 residents by the time it was admitted as a state. Furthermore, in regards to the Leni Lenape Native Americans living in the region, Congress decided that 10,000 acres on the Muskingum River in the present state of Ohio would "be set apart and the property thereof be vested in the Moravian Brethren ... or a society of the said Brethren for civilizing the Indians and promoting Christianity".[61]
 
 Statehood and settlement
 
-James_Abram_Garfield,_photo_portrait_seated.jpg, President of the United States from Ohio]] On February 19, 1803, U.S. President Thomas Jefferson signed an act of Congress that approved Ohio's boundaries and constitution.[62] However, Congress had never passed a resolution formally admitting Ohio as the 17th state. The current custom of Congress declaring an official date of statehood did not begin until 1812, with Louisiana's admission as the 18th state. Although no formal resolution of admission was required, when the oversight was discovered in 1953, Ohio congressman George H. Bender introduced a bill in Congress to admit Ohio to the Union retroactive to March 1, 1803, the date on which the Ohio General Assembly first convened.[63] At a special session at the old state capital in Chillicothe, the Ohio state legislature approved a new petition for statehood that was delivered to Washington, D.C. on horseback. On August 7, 1953 (the year of Ohio's 150th anniversary), President Eisenhower signed a congressional joint resolution that officially declared March 1, 1803, the date of Ohio's admittance into the Union.[64][65][66]
+, President of the United States from Ohio]] On February 19, 1803, U.S. President Thomas Jefferson signed an act of Congress that approved Ohio's boundaries and constitution.[62] However, Congress had never passed a resolution formally admitting Ohio as the 17th state. The current custom of Congress declaring an official date of statehood did not begin until 1812, with Louisiana's admission as the 18th state. Although no formal resolution of admission was required, when the oversight was discovered in 1953, Ohio congressman George H. Bender introduced a bill in Congress to admit Ohio to the Union retroactive to March 1, 1803, the date on which the Ohio General Assembly first convened.[63] At a special session at the old state capital in Chillicothe, the Ohio state legislature approved a new petition for statehood that was delivered to Washington, D.C. on horseback. On August 7, 1953 (the year of Ohio's 150th anniversary), President Eisenhower signed a congressional joint resolution that officially declared March 1, 1803, the date of Ohio's admittance into the Union.[64][65][66]
 
 Ohio has had three capital cities: Chillicothe, Zanesville, and Columbus. Chillicothe was the capital from 1803 to 1810. The capital was then moved to Zanesville for two years, as part of a state legislative compromise to get a bill passed. The capital was then moved back to Chillicothe, which was the capital from 1812 to 1816. Finally, the capital was moved to Columbus, to have it near the geographic center of the state.
 
@@ -243,7 +243,7 @@ Although many Native Americans had migrated west to evade American encroachment,
 
 In 1835, Ohio fought with Michigan in the Toledo War, a mostly bloodless boundary war over the Toledo Strip. Only one person was injured in the conflict. Congress intervened, making Michigan's admittance as a state conditional on ending the conflict. In exchange for giving up its claim to the Toledo Strip, Michigan was given the western two-thirds of the Upper Peninsula, in addition to the eastern third that was already considered part of the state.
 
-Ohio.JPG Ohio_schild.jpg)]]
+)]]
 
 Civil War and growth
 
@@ -258,7 +258,7 @@ Demographics
 
 Population
 
-From just over 45,000 residents in 1800, Ohio's population grew at rates of over 10% per decade (except for the 1940 census) until the 1970 census, which recorded just over 10.65 million Ohioans.[73] Growth then slowed for the next four decades.[74] The United States Census Bureau estimates that the population of Ohio was 11,689,442 on July 1, 2018, a 1.33% increase since the 2010 United States Census.[75] Ohio's population growth lags that of the entire United States, and Caucasians are found in a greater density than the United States average. , Ohio's center of population is located in Morrow County,[76] in the county seat of Mount Gilead.[77] This is approximately south and west of Ohio's population center in 1990.[78] Population_Growth_Ohio.png As of 2011, 27.6% of Ohio's children under the age of 1 belonged to minority groups.[79]
+From just over 45,000 residents in 1800, Ohio's population grew at rates of over 10% per decade (except for the 1940 census) until the 1970 census, which recorded just over 10.65 million Ohioans.[73] Growth then slowed for the next four decades.[74] The United States Census Bureau estimates that the population of Ohio was 11,689,442 on July 1, 2018, a 1.33% increase since the 2010 United States Census.[75] Ohio's population growth lags that of the entire United States, and Caucasians are found in a greater density than the United States average. , Ohio's center of population is located in Morrow County,[76] in the county seat of Mount Gilead.[77] This is approximately south and west of Ohio's population center in 1990.[78] As of 2011, 27.6% of Ohio's children under the age of 1 belonged to minority groups.[79]
 
 6.2% of Ohio's population is under five years of age, 23.7 percent under 18 years of age, and 14.1 percent were 65 or older. Females made up approximately 51.2 percent of the population.
 
@@ -332,7 +332,7 @@ The largest ancestry groups (which the Census defines as not including racial te
 -   1.1% Welsh
 -   1.1% Scotch-Irish
 
-Ancestries claimed by less than 1% of the population include Sub-Saharan African, Puerto Rican, Swiss, Swedish, Arab, Greek, Norwegian, Romanian, Austrian, Lithuanian, Finnish, West Indian, Portuguese and Slovene. Ohio_population_map.png
+Ancestries claimed by less than 1% of the population include Sub-Saharan African, Puerto Rican, Swiss, Swedish, Arab, Greek, Norwegian, Romanian, Austrian, Lithuanian, Finnish, West Indian, Portuguese and Slovene.
 
 Languages
 
@@ -340,7 +340,7 @@ About 6.7% of the population age 5 years and over reported speaking a language o
 
 Religion
 
-Amish_-_On_the_way_to_school_by_Gadjoboy-crop.jpg children on the way to school.]]
+children on the way to school.]]
 
 According to a Pew Forum poll, as of 2008, 76% of Ohioans identified as Christian.[97] Specifically, 26% of Ohio's population identified as Evangelical Protestant, 22% as Mainline Protestant, and 21% as Catholic.[98] 17% of the population is unaffiliated with any religious body.[99] 1.3% (148,380) were Jewish.[100] There are also small minorities of Jehovah's Witnesses (1%), Muslims (1%), Hindus (<0.5%), Buddhists (<0.5%), Mormons (<0.5%), and other faiths (1-1.5%).[101]
 
@@ -351,7 +351,7 @@ According to the same data, a majority of Ohioans, 55%, feel that religion is "v
 
 Economy
 
-Cincinnati-procter-and-gamble-headquarters.jpg is one of Ohio's largest companies in terms of revenue.]]
+is one of Ohio's largest companies in terms of revenue.]]
 
 In 2010, Ohio was ranked No. 2 in the country for best business climate by Site Selection magazine, based on a business-activity database.[106] The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments.[107] , Ohio's gross domestic product (GDP) was $626 billion.[108] This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia.[109]
 
@@ -397,7 +397,7 @@ Transportation lists
 
 Law and government
 
-Ohio_Statehouse_columbus.jpg located in Columbus, Ohio.]] The state government of Ohio consists of the executive,[138] judicial,[139] and legislative[140] branches.
+located in Columbus, Ohio.]] The state government of Ohio consists of the executive,[138] judicial,[139] and legislative[140] branches.
 
 Executive branch
 
@@ -416,7 +416,7 @@ The Ohio General Assembly is a bicameral legislature consisting of the Senate an
 
 Politics
 
-President-obama_cincinnati_eden-park_09-17-2012.jpg at a campaign stop in Cincinnati in his 2012 campaign.|alt=A black man in a white shirt speaking on stage behind a podium with the word "Forward" and in front of a red, white, and blue Ohio state flag.]]
+at a campaign stop in Cincinnati in his 2012 campaign.|alt=A black man in a white shirt speaking on stage behind a podium with the word "Forward" and in front of a red, white, and blue Ohio state flag.]]
 
 "Mother of Presidents"
 
@@ -442,8 +442,6 @@ Still, it has been estimated that the state has removed up to 2 million voters s
 Education
 
 Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. Substantively, Ohio's system is similar to those found in other states. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of over 400,000 students, making it one of the five largest state university systems in the U.S.
-
-Tree_Map_of_Majors_in_Ohio_(Bachelor's_Degree).png
 
 Colleges and universities
 
@@ -521,7 +519,7 @@ Ohio has six teams represented in the Mid-American Conference: the University of
 
 State symbols
 
-Aesculus_glabra_nuts.jpg tree.]] Ohio's state symbols:
+tree.]] Ohio's state symbols:
 
 -   State capital: Columbus[184] (1816)[185]
 -   State herb capital: Gahanna (1972)[186]

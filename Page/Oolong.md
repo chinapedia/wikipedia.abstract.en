@@ -1,4 +1,4 @@
-Oolong_tea_leaf.jpg OOLONG (; ) is a traditional semi-oxidized Chinese tea (_Camellia sinensis)_ produced through a process including withering the plant under strong sun and oxidation before curling and twisting.[1] Most oolong teas, especially those of fine quality, involve unique tea plant cultivars that are exclusively used for particular varieties. The degree of oxidation, which varies according to the chosen duration of time before firing, can range from 8–85%,[2] depending on the variety and production style. Oolong is especially popular in south China and among Chinese expatriates in Southeast Asia,[3] as is the Fujian preparation process known as the Gongfu tea ceremony.
+OOLONG (; ) is a traditional semi-oxidized Chinese tea (_Camellia sinensis)_ produced through a process including withering the plant under strong sun and oxidation before curling and twisting.[1] Most oolong teas, especially those of fine quality, involve unique tea plant cultivars that are exclusively used for particular varieties. The degree of oxidation, which varies according to the chosen duration of time before firing, can range from 8–85%,[2] depending on the variety and production style. Oolong is especially popular in south China and among Chinese expatriates in Southeast Asia,[3] as is the Fujian preparation process known as the Gongfu tea ceremony.
 
 Different styles of oolong tea can vary widely in flavor. They can be sweet and fruity with honey aromas, or woody and thick with roasted aromas, or green and fresh with complex aromas, all depending on the horticulture and style of production.[4] Several types of oolong tea, including those produced in the Wuyi Mountains of northern Fujian, such as Da Hong Pao, are among the most famous Chinese teas. Different varieties of oolong are processed differently, but the leaves are usually formed into one of two distinct styles. Some are rolled into long curly leaves, while others are 'wrap-curled' into small beads, each with a tail. The former style is the more traditional.
 
@@ -26,7 +26,7 @@ Tea production in Fujian is concentrated in two regions: the Wuyi Mountains and 
 
 Wuyi Mountains
 
-HGY_Oolong_tea_leaf_close.jpg tea leaves]] Qi_Lan_Oolong_tea_leaf.jpg Oolong tea leaves]] Tieguanyin2.jpg]]
+tea leaves]] Oolong tea leaves]] ]]
 
 The most famous and expensive oolong teas are made here, and the production is still usually accredited as being organic. Some of the better known cliff teas are:
 
@@ -44,7 +44,7 @@ Anxi
 
 Guangdong
 
-Rou_Gui_Oolong_tea_leaf_close.jpg Xiang]]
+Xiang]]
 
 SINGLE BUSH _Dancong_ (单枞) ("Phoenix oolong")
     A family of strip-style oolong teas from Guangdong Province. Dancong teas are noted for their ability to naturally imitate the flavors and fragrances of various flowers and fruits, such as orange blossom, orchid, grapefruit, almond, ginger flower, etc.
@@ -77,7 +77,7 @@ Other varieties
 
 Steeping (preparation of oolong tea)
 
-Small_pot_of_oolong_tea.jpg Generally, 3 grams of tea per 200 ml of water, or about two teaspoons of oolong tea per cup, should be used. Oolong teas should be prepared with 85-90°C water and steeped 3-5 minutes.[12] High quality oolong can be steeped several times from the same leaves and improves with rebrewing: it is common to steep the same leaves three to five times, the third or fourth steeping usually being considered the best.
+Generally, 3 grams of tea per 200 ml of water, or about two teaspoons of oolong tea per cup, should be used. Oolong teas should be prepared with 85-90°C water and steeped 3-5 minutes.[12] High quality oolong can be steeped several times from the same leaves and improves with rebrewing: it is common to steep the same leaves three to five times, the third or fourth steeping usually being considered the best.
 
 A widely used ceremonial method of steeping oolongs in Taiwan and China is called gongfucha. This method uses a small steeping vessel, such as a gaiwan or Yixing clay teapot, with more tea than usual for the amount of water used. Multiple short steeps of 20 seconds to 1 minute are performed; the tea is often served in one- to two-ounce tasting cups.
 

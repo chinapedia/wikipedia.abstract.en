@@ -39,7 +39,7 @@ The name Muralitharan is derived from _murali dhar_ (Devnagri: मुरली �
 
 Domestic cricket
 
-Muttiah_Muralitharan-web.jpg in 2011.]]
+in 2011.]]
 
 In Sri Lanka
 
@@ -69,8 +69,6 @@ Muttiah Muralitharan signed for the Melbourne Renegades to play Twenty20 cricket
 International career
 
 Bowling style and career progress
-
-MMuralidaranBowling.png
 
 Muralitharan is the first wrist-spinning off-spinner in the history of the game.[46] He bowls marathon spells, yet he is usually on the attack. His unique bowling action begins with a short run-up, and culminates with an open-chested extremely wristy release from a partly supinated forearm which had him mistaken for a leg-spinner early in his career by Allan Border.[47] Aside from his stock delivery, the off-break, of which he claimed to have two variations (during a recorded television 'doosra' show off with Mark Nicholas from Channel 4 in 2004), his main deliveries are a fast topspinner which lands on the seam and usually goes straight on, and the doosra, a surprise delivery which turns from leg to off (the opposite direction of his stock delivery) with no easily discernible change of action.[48][49] Additionally, he would occasionally use one of his several unnamed novelties. His super-flexible wrist makes him especially potent and guarantees him turn on any surface.[50]
 
@@ -220,7 +218,7 @@ Test wicket milestones
 
 One day internationals
 
-Muttiah_Muralitharan.jpg in an ODI in 2006.]]
+in an ODI in 2006.]]
 
 Career summary
 
@@ -335,7 +333,7 @@ Biomechanical testing conducted on four occasions fueled debate as to whether hi
 
 First throwing citation and testing
 
-Muttiah_Muralitharan_in_SCG_2005.jpg Initial concerns as to whether Muralitharan's action contravened the laws of the game by straightening his bowling arm during delivery broke into open controversy after Australian umpire Darrell Hair called a "no-ball" for an illegal action seven times during the Boxing Day Test match in Melbourne, Australia, in 1995. Australian Sir Donald Bradman, universally regarded as the greatest batsman in history, was later quoted as saying it was the "worst example of umpiring that [he had] witnessed, and against everything the game stands for. Clearly Murali does not throw the ball".[202][203]
+Initial concerns as to whether Muralitharan's action contravened the laws of the game by straightening his bowling arm during delivery broke into open controversy after Australian umpire Darrell Hair called a "no-ball" for an illegal action seven times during the Boxing Day Test match in Melbourne, Australia, in 1995. Australian Sir Donald Bradman, universally regarded as the greatest batsman in history, was later quoted as saying it was the "worst example of umpiring that [he had] witnessed, and against everything the game stands for. Clearly Murali does not throw the ball".[202][203]
 
 Ten days later, on 5 January 1996, Sri Lanka played the West Indies in the seventh ODI of the triangular World Series competition, in Brisbane. Umpire Ross Emerson officiating in his debut international match, no-balled Muralitharan three times in his first over, twice in his second and twice in his third. It was an identical tally to that called by Hair on Boxing Day and (like Hair) Emerson made his calls from the bowler's end while his partner stood silent. The main difference was that several no-balls were for leg-breaks instead of the bowler's normal off-breaks.
 

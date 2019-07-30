@@ -5,7 +5,7 @@ The airline is based in the Sydney suburb of Mascot with its main hub at Sydney 
 
 History
 
-Qantas_First_Office_Longreach_Queensland_1921slnsw_a1178007u.jpg Flying_boats_at_Rose_Bay.jpg flying boats at Rose Bay in Sydney Harbour (_c._1939)]]
+flying boats at Rose Bay in Sydney Harbour (_c._1939)]]
 
 Qantas was founded in Winton, Queensland on 16 November 1920 by Hudson Fysh, Paul McGinness and Fergus McMaster as Queensland and Northern Territory Aerial Services Limited.[7][8] The airline's first aircraft was an Avro 504K. It moved its headquarters to Longreach, Queensland in 1921 and Brisbane, Queensland in 1930.
 
@@ -46,11 +46,11 @@ The key trends for the Qantas Group (Qantas Airways Ltd and Controlled Entities,
 
 Headquarters
 
-Qantas_Campus_Mascot_01.jpeg Qantas' headquarters are located at the Qantas Centre in the Bayside Council suburb of Mascot, Sydney, New South Wales.[33] The headquarters underwent a redevelopment which was completed in December 2013.[34]
+Qantas' headquarters are located at the Qantas Centre in the Bayside Council suburb of Mascot, Sydney, New South Wales.[33] The headquarters underwent a redevelopment which was completed in December 2013.[34]
 
 Airline subsidiaries
 
-Qantas has operated a number of passenger airline subsidiaries since inception, including: VH-LQB_(15935628913).jpg of subsidiary QantasLink.]]
+Qantas has operated a number of passenger airline subsidiaries since inception, including: of subsidiary QantasLink.]]
 
 -   Australia Asia Airlines – operated from 1990 to 1996 to allow Qantas to serve the Taiwanese market
 -   Impulse Airlines – an established airline bought by Qantas in 2001; ceased operations the same year and its assets used to establish Jetstar Airways
@@ -69,7 +69,7 @@ Qantas has also bought and donated some Aboriginal art. In 1993, the airline bou
 
 Promotions and Sponsorships
 
-Qantas_Australian_Grand_Prix_2011_-_Flickr_-_skinnylawyer.jpg in Australian Grand Prix livery at Los Angeles International Airport in 2011.]] An early television campaign, starting in 1969 and running for several decades, was aimed at American audiences; it featured a live koala, voiced by Howard Morris, who complained that too many tourists were coming to Australia and concluded "I hate Qantas."[38] The koala ads have been ranked among the greatest commercials of all time.[39] A long-running advertising campaign features renditions by children's choirs of Peter Allen's "I Still Call Australia Home", at various famous landmarks in Australia and foreign locations such as Venice.[40]
+in Australian Grand Prix livery at Los Angeles International Airport in 2011.]] An early television campaign, starting in 1969 and running for several decades, was aimed at American audiences; it featured a live koala, voiced by Howard Morris, who complained that too many tourists were coming to Australia and concluded "I hate Qantas."[38] The koala ads have been ranked among the greatest commercials of all time.[39] A long-running advertising campaign features renditions by children's choirs of Peter Allen's "I Still Call Australia Home", at various famous landmarks in Australia and foreign locations such as Venice.[40]
 
 Qantas is the main sponsor of the Australia national rugby union team.[41] It also sponsors the Socceroos, Australia's national association football team.[42] Qantas was the naming rghts sponsor for the Formula One Australian Grand Prix from 2010 until 2012.[43] On 26 December 2011, Qantas signed a four-year deal with Australian cricket's governing body Cricket Australia, to be the official carrier of the Australia national cricket team.[44]
 
@@ -79,7 +79,7 @@ Joyce has pledged Qantas will, "continue social-justice campaigning".[55][56][57
 
 Fundamental structural change
 
-In August 2011, the company announced that following financial losses of A$200 million ($209 million) for the year ending June 2011 and a decline in market share, major structural changes would be made. As part of the changes up to 1,000 jobs would be lost in Australia, and a new Asia-based premium airline was to be set up and operate under a different name. The new airline did not eventuate.[59] Also announced was an intention to launch a budget airline, Jetstar Japan, in partnership with Japan Airlines and Mitsubishi Corporation. The direction was deemed necessary because of losses in the airline's international operations as a result of increased competition from airlines such as Emirates and Singapore Airlines along with the deregulation of Australian international routes during the mid-to-late 1980s.[60] The reforms included route changes, in particular the cessation of services to London via Hong Kong and Bangkok. While Qantas would still operate to these cities, onward flights to London would be via its Oneworld partner British Airways under a code-share service.[61]Qantas_A380_receiving_a_water_cannon_salute_at_Dubai_International_Airport.jpg The following year Qantas reported a A$245 million full-year loss to the end of June 2012, citing high fuel prices, intense competition and industrial disputes. This was the first full year loss since Qantas was fully privatised 17 years previously, in 1995, and led to the airline cancelling its order of 35 new Boeing 787 Dreamliner aircraft, to reduce its spending.[62] In focusing on core business, Qantas also divested itself of its 50% holding of StarTrack, Australia's largest road freight company, in part for acquiring full interest in Australian Air Express.[63][64] In that year on 26 March 2012, Qantas announced it would set up Jetstar Hong Kong with China Eastern Airlines Corporation, which was intended to begin flights in 2013, but became embroiled in a protracted approval process.[65]
+In August 2011, the company announced that following financial losses of A$200 million ($209 million) for the year ending June 2011 and a decline in market share, major structural changes would be made. As part of the changes up to 1,000 jobs would be lost in Australia, and a new Asia-based premium airline was to be set up and operate under a different name. The new airline did not eventuate.[59] Also announced was an intention to launch a budget airline, Jetstar Japan, in partnership with Japan Airlines and Mitsubishi Corporation. The direction was deemed necessary because of losses in the airline's international operations as a result of increased competition from airlines such as Emirates and Singapore Airlines along with the deregulation of Australian international routes during the mid-to-late 1980s.[60] The reforms included route changes, in particular the cessation of services to London via Hong Kong and Bangkok. While Qantas would still operate to these cities, onward flights to London would be via its Oneworld partner British Airways under a code-share service.[61] The following year Qantas reported a A$245 million full-year loss to the end of June 2012, citing high fuel prices, intense competition and industrial disputes. This was the first full year loss since Qantas was fully privatised 17 years previously, in 1995, and led to the airline cancelling its order of 35 new Boeing 787 Dreamliner aircraft, to reduce its spending.[62] In focusing on core business, Qantas also divested itself of its 50% holding of StarTrack, Australia's largest road freight company, in part for acquiring full interest in Australian Air Express.[63][64] In that year on 26 March 2012, Qantas announced it would set up Jetstar Hong Kong with China Eastern Airlines Corporation, which was intended to begin flights in 2013, but became embroiled in a protracted approval process.[65]
 
 Qantas and Emirates began an alliance on 31 March 2013, in which their combined carriers offered 98 flights per week[66] to Dubai, that saw bookings up six-fold.[67] In September 2013, following the announcement the carrier expected another A$250 million ( million) net loss for the half-year period that ended on 31 December and the implementation of further cost-cutting measures that would see the cut of 1,000 jobs within a year,[68] S&P downgraded Qantas credit from BBB- (the lowest investment grade) to BB+.[69] Moody's applied a similar downgrading a month later.[70]
 
@@ -226,7 +226,7 @@ Qantas international flights are primarily operated on Airbus A380s, A330-300s, 
 
 First
 
-Qantas_First_Class_Suite.jpg.]]
+.]]
 
 First class is offered exclusively on the Airbus A380.[137][138]
 
@@ -240,13 +240,13 @@ On all International and selected Domestic flights, Qantas offers two different 
 
 Business Suites
 
-QantasA330businessclass.JPG and Airbus A330-300 aircraft.]] Business Suites are offered exclusively on all Boeing 787, Airbus A330-300 and selected Airbus A330-200 aircraft. These seats, designed by Mark Newson feature all-aisle access in a 1-2-1 configuration.[140] The Business Suite, which was introduced on the A330 in October 2014, also features a fully flat 198 cm bed. This seat can be reclined during take off and landing while sporting the latest Panasonic eX3 system with a touchscreen. By the end of 2016, business class of Qantas’ entire fleet of Airbus A330 aircraft were refitted. Airbus A330 Business Suites are available on Asian, transcontinental routes across Australia and smaller routes such as the East Coast triangle.
+and Airbus A330-300 aircraft.]] Business Suites are offered exclusively on all Boeing 787, Airbus A330-300 and selected Airbus A330-200 aircraft. These seats, designed by Mark Newson feature all-aisle access in a 1-2-1 configuration.[140] The Business Suite, which was introduced on the A330 in October 2014, also features a fully flat 198 cm bed. This seat can be reclined during take off and landing while sporting the latest Panasonic eX3 system with a touchscreen. By the end of 2016, business class of Qantas’ entire fleet of Airbus A330 aircraft were refitted. Airbus A330 Business Suites are available on Asian, transcontinental routes across Australia and smaller routes such as the East Coast triangle.
 
 Newer versions of this seat were fitted to the airline's new Boeing 787 fleet in late 2017. This seat featured enhanced privacy options compared to the A330 seat and has been used on the 17-hour Perth to London sector since March 2018.[141]
 
 Business Skybeds
 
-Qantas_Business_Skybed.jpg and Airbus A380 aircraft.]] Business Skybeds are offered on all Boeing 747, Airbus A380 and selected Airbus A330-200 aircraft. On the Boeing 747, seating is in a 2-3-2 configuration on the main deck and a 2–2 configuration on the upper deck. Two main versions of what Qantas calls its "Skybed", the lie-flat business-class seat, are offered.
+and Airbus A380 aircraft.]] Business Skybeds are offered on all Boeing 747, Airbus A380 and selected Airbus A330-200 aircraft. On the Boeing 747, seating is in a 2-3-2 configuration on the main deck and a 2–2 configuration on the upper deck. Two main versions of what Qantas calls its "Skybed", the lie-flat business-class seat, are offered.
 
 Older versions of the lie-flat Skybeds featured of seat pitch and width; however passengers slept at a distinct slope to the cabin floor. Later versions of the Skybed have an pitch, and lie fully horizontal.[142] Skybed seats on Boeing 747s and Airbus A330s feature a touchscreen monitor with 400 AVOD programs. The Boeing 747 Business Skybeds are available on Asian, African and North & South America routes.
 
@@ -258,7 +258,7 @@ Complimentary access to the Qantas business class lounge (or affiliated lounges)
 
 Premium Economy
 
-Qantas_Boeing_787_Dreamliner_Premium_Economy_seat.jpg.]] Premium economy class is offered exclusively on all Airbus A380, Boeing 787-9 and Boeing 747–400 aircraft. It has a seat pitch of on the Boeing 747 and it ranges from on the Airbus A380, with a width of . On the Boeing 747, it is configured in a 2-3-2 seating arrangement around the middle of the main deck, whilst it is in a 2-3-2 at the rear of the upper deck on the A380. On the Boeing 787, it is configured in a 2-3-2 seating arrangement around the middle of the aircraft. The total number of seats depends on the aircraft type, as A380s have 35 seats,[145], 747s have 36 seats and 787s have 28 seats.
+.]] Premium economy class is offered exclusively on all Airbus A380, Boeing 787-9 and Boeing 747–400 aircraft. It has a seat pitch of on the Boeing 747 and it ranges from on the Airbus A380, with a width of . On the Boeing 747, it is configured in a 2-3-2 seating arrangement around the middle of the main deck, whilst it is in a 2-3-2 at the rear of the upper deck on the A380. On the Boeing 787, it is configured in a 2-3-2 seating arrangement around the middle of the aircraft. The total number of seats depends on the aircraft type, as A380s have 35 seats,[145], 747s have 36 seats and 787s have 28 seats.
 
 Qantas premium economy is presented as a lighter business class product rather than most other airlines' premium economy, which is often presented as a higher economy class, however Qantas premium economy does not offer access to premium lounges, and meals are only a slightly uprated version of economy class meals.[146]
 
@@ -266,13 +266,13 @@ In 2019, Qantas will begin the process of retrofitting its Airbus A380 aircraft 
 
 Economy
 
-Qantas_Economy_Cabin_seats.jpg.]] International Economy class is available on all Qantas mainline passenger aircraft.
+.]] International Economy class is available on all Qantas mainline passenger aircraft.
 
 Seat pitch is usually and seat width ranges from . Layouts are 3–3 on the 737,[148] 2-4-2 on the A330, 3-3-3 on the B787-9 and 3-4-3 on the 747. On the A380, the layout is 3-4-3 and there are four self-service snack bars located in between cabins.[149]
 
 In-flight entertainment
 
-Qantasiqa330.JPG Every Qantas mainline aircraft has some form of video audio entertainment. Qantas has several in-flight entertainment systems installed on its aircraft and refers to the in-flight experience as "On:Q".
+Every Qantas mainline aircraft has some form of video audio entertainment. Qantas has several in-flight entertainment systems installed on its aircraft and refers to the in-flight experience as "On:Q".
 
 "iQ" is featured in all classes of the Airbus A380, refurbished 747s, A330-300s, refurbished Airbus A330-200s and new Boeing 737-800s.[150][151][152] This audio video on demand (AVOD) experience is based on the Panasonic Avionics system and features expanded entertainment options; touch screens; and new communications-related features such as Wi-Fi and mobile phone functionality; as well as increased support for electronics (such as USB and iPod connectivity).[153]
 
@@ -299,7 +299,7 @@ The Qantas Club
 
 Facilities
 
-Qantas_Singapore_Lounge1.JPG Lounge.]] Qantas_International_Business_Class_Lounge_-_Sydney_Airport1.JPG.]] The Qantas Club is the airline lounge for Qantas with airport locations around Australia and the world. Additionally, Qantas operates dedicated international first-class lounges in Sydney, Melbourne, Auckland and Los Angeles.[164] Domestically, Qantas also offers dedicated Business Lounges at Sydney, Melbourne, Brisbane, Canberra and Perth for domestic Business Class, Qantas Platinum and Platinum One, and OneWorld Emerald frequent flyers.[165]
+Lounge.]] .]] The Qantas Club is the airline lounge for Qantas with airport locations around Australia and the world. Additionally, Qantas operates dedicated international first-class lounges in Sydney, Melbourne, Auckland and Los Angeles.[164] Domestically, Qantas also offers dedicated Business Lounges at Sydney, Melbourne, Brisbane, Canberra and Perth for domestic Business Class, Qantas Platinum and Platinum One, and OneWorld Emerald frequent flyers.[165]
 
 In April 2013, Qantas opened its new flagship lounge in Singapore, the Qantas Singapore Lounge. This replaced the former separate first- and business-class lounges as a result of the new Emirates alliance. Similar combined lounges were also opened in Hong Kong in April 2014 and in Brisbane in October 2016.[166] These new lounges provide the same service currently offered by Sofitel in its flagship First lounges in Sydney and Melbourne and a dining experience featuring Neil Perry's Spice Temple inspired dishes and signature cocktails.[167]
 
@@ -315,7 +315,7 @@ The Qantas Club also offers membership by paid subscription (one, two, or four y
 
 Qantas Frequent Flyer
 
-Qantas_Frequent_Flyer_Logo_2016.png The Qantas frequent-flyer program is aimed at rewarding customer loyalty. The program is long-standing, although the date of the actual inception has been a matter that has generated some commentary. Qantas state the program launched in 1987[173] although other sources claim what is the current program was launched in the early 1990s, with a Captain's Club program existing before that.[174]
+The Qantas frequent-flyer program is aimed at rewarding customer loyalty. The program is long-standing, although the date of the actual inception has been a matter that has generated some commentary. Qantas state the program launched in 1987[173] although other sources claim what is the current program was launched in the early 1990s, with a Captain's Club program existing before that.[174]
 
 Points are accrued based on distance flown, with bonuses that vary by travel class. Points can also be earned on other Oneworld airlines as well as through other non-airline partners. Points can be redeemed for flights or upgrades on flights operated by Qantas, Oneworld airlines, and other partners. Other partners include credit cards,[175] car rental companies, hotels and many others. Flights with Qantas and selected partner airlines earn Status Credits — and accumulation of these allows progression to Silver status (Oneworld Ruby), Gold status (Oneworld Sapphire), Platinum and Platinum One status (Oneworld Emerald).[176]
 

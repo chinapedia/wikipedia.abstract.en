@@ -31,7 +31,7 @@ The United States started to pursue Noriega for fostering a narco-state in Panam
 
 The United States and Germany forced through a resolution on 30 June 1989 declaring Panama ineligible for further support from the IMF.[16] The situation was eventually resolved by the US invasion of Panama in December 1989 which forced the surrender of Noriega.[17] SDR181.5m (~$US230m) was still owed to the IMF in April 1990; the country regained access to IMF funds on 2 May 1992.[18]
 
-Panama_Export_Treemap.png After taking office in 1994 President Ernesto Perez Balladares set forth an economic liberalization program designed to liberalize the trade regime, attract foreign investment, privatize state-owned enterprises, institute fiscal discipline and privatize its two ports in 1997 and approve the sale of the railroad in early assets. Panama joined the World Trade Organization (WTO) and a banking reform law was approved by the legislature in early 1998 and dismantled the Central bank. After two years of near stagnation the reforms began to take root; GDP grew by 3.6% in 1997 and grew by more than 6% in 1998. The most important sectors which drove growth were the Panama Canal and the shipping and port activities of the Colón Free Trade Zone which also rebounded from a slow year in 1996.
+After taking office in 1994 President Ernesto Perez Balladares set forth an economic liberalization program designed to liberalize the trade regime, attract foreign investment, privatize state-owned enterprises, institute fiscal discipline and privatize its two ports in 1997 and approve the sale of the railroad in early assets. Panama joined the World Trade Organization (WTO) and a banking reform law was approved by the legislature in early 1998 and dismantled the Central bank. After two years of near stagnation the reforms began to take root; GDP grew by 3.6% in 1997 and grew by more than 6% in 1998. The most important sectors which drove growth were the Panama Canal and the shipping and port activities of the Colón Free Trade Zone which also rebounded from a slow year in 1996.
 
 On September 1, 1999, Mireya Moscoso, the widow of former President Arnulfo Arias Madrid, took office. During her administration, Moscoso attempted to strengthen social programs, especially for child and youth development, protection, and general welfare. Moscoso's administration successfully handled the Panama Canal transfer and was effective in the administration of the Canal.
 
@@ -50,7 +50,7 @@ Panama has a substantial financial services sector and no central bank to act as
 
 Agriculture
 
-Panama_econ_1981.jpg Major agricultural products include bananas, cocoa beans, coffee, coconuts, timber, beef, chickens, shrimp, corn, potatoes, rice, soybeans, and sugar cane.[24] In 2009 agriculture and fisheries made up 7.4% of Panama's GDP[25]
+Major agricultural products include bananas, cocoa beans, coffee, coconuts, timber, beef, chickens, shrimp, corn, potatoes, rice, soybeans, and sugar cane.[24] In 2009 agriculture and fisheries made up 7.4% of Panama's GDP[25]
 
 Panama is a net food importer and the United States is its main supplier.[26] Agriculture employs a large number of Panamanians (in relation to agriculture's percentage of Panamanian GDP) with many farmers being engaged in subsistence farming.
 
@@ -68,7 +68,7 @@ President Ricardo Martinelli had promised to implement a flat tax system with a 
 
 Transportation
 
-Panama_City_from_airport.JPG In Panama City there are six highways: the Panama-Arraijan Bridge of the Americas, Panama-Arraijan Centennial Bridge, Arraijan-Chorrera, Corredor Norte, Corredor Sur, and Autopista Alberto Motta.
+In Panama City there are six highways: the Panama-Arraijan Bridge of the Americas, Panama-Arraijan Centennial Bridge, Arraijan-Chorrera, Corredor Norte, Corredor Sur, and Autopista Alberto Motta.
 
 Panama's roads, traffic and transportation systems are generally safe, with older traffic lights having undergone a recent overhaul and most have been replaced by traffic lights that are capable of being controlled [and changed] remotely, even at busy intersections where they are not needed. Driving during the midday is usually slow and demanding due to dense traffic, frequent traffic jams, and street renovation programs. On roads where poor lighting and driving conditions prevail, night driving is difficult and in many cases, restricted by local authorities, this usually occurs in informal settlements. Night driving is particularly hazardous in these areas.[28] Traffic in Panama moves on the right, and Panamanian law requires that drivers and passengers wear seat belts.[29]
 

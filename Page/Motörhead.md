@@ -13,8 +13,6 @@ History
 
 Formation and early years, 1975–1977
 
-Motorhead_Snaggletooth_Belt_Buckle.jpg
-
 Lemmy was dismissed from Hawkwind in May 1975 after being arrested in Canada for drug possession;[17][18] he said the band dismissed him for "doing the wrong drugs".[19] Now on his own, Lemmy decided to form a new band called Motörhead, the name was inspired by the final song he had written for Hawkwind.[20]
 
 Lemmy wanted the music to be "fast and vicious, just like the MC5".[21] His stated aim was to "concentrate on very basic music: loud, fast, city, raucous, arrogant, paranoid, speedfreak rock n roll ... it will be so loud that if we move in next door to you, your lawn will die".[22] He recruited guitarist Larry Wallis (formerly of Pink Fairies) on the recommendation of Mick Farren, based on Wallis' work with Steve Peregrin Took's band Shagrat, and Lucas Fox on drums. According to Lemmy, the band's first practice was at the now defunct Sound Management rehearsal studios, in Kings Road, Chelsea in 1975. Sound Management leased the basement area of furniture store The Furniture Cave, located in adjacent Lots Road. Kilmister has said they used to steal equipment, as the band was short on gear.[23] Their first engagement was supporting Greenslade at The Roundhouse, London on 20 July 1975.[24] On 19 October, having played 10 gigs, they became the supporting act to Blue Öyster Cult at the Hammersmith Odeon.[25]
@@ -29,7 +27,7 @@ In August, Tony Secunda took over the management of the band, and their cohesive
 
 Rise to success: _Overkill_ and _Bomber_, 1978–1979
 
-Lemmy-taylor-clarke.JPG, Phil "Philthy Animal" Taylor and "Fast" Eddie Clarke]]
+, Phil "Philthy Animal" Taylor and "Fast" Eddie Clarke]]
 
 In July 1978, the band returned to the management of Douglas Smith, who secured a one-off singles deal with Bronze Records.[36] The resulting "Louie Louie" single was issued in September peaking at number 68 on the UK Singles Chart,[37] and the band toured the UK to promote it, recorded a BBC Radio 1 _John Peel in session_ on 18 September (these tracks were later issued on the 2005 _BBC Live & In-Session_ album), and appeared for the first time on BBC Television's _Top of the Pops_ on 25 October.[38] Chiswick capitalised on this new level of success by re-issuing the debut album _Motörhead_ on white vinyl through EMI Records.
 
@@ -41,13 +39,11 @@ On 8 May 1980, while the band were on tour in Europe, Bronze released _The Golde
 
 _Ace of Spades_ and _Iron Fist_, 1980–1982
 
-Ace_of_Spades_tour_booklet.jpg for the _Ace of Spades_ album cover]]
+for the _Ace of Spades_ album cover]]
 
 During August and September 1980, the band were at Jackson's Studios in Rickmansworth, recording with producer Vic Maile. The "Ace of Spades" single was released on 27 October 1980 as a preview of the _Ace of Spades_ album, which followed on 8 November.[48] The single reached No. 15 and the album reached No. 4 on the UK charts.[49] Bronze celebrated its gold record status by pressing a limited edition of the album in gold vinyl.
 
 Motörhead made an appearance on _Top of the Pops_ in November that year with "Ace of Spades", and between 22 October and 29 November the band were on their "Ace Up Your Sleeve" UK tour with support from Girlschool and Vardis, and also made an appearance as guests on the ITV children's show _Tiswas_ on 8 November.[50] The "Arizona desert-style" pictures used on the album sleeve and tour booklet cover were taken during a photo session at a sandpit in Barnet.[51] "Ace of Spades", considered to be the definitive Motörhead anthem,[52] "put a choke on the English music charts and proved to all that a band could succeed without sacrificing its blunt power and speed".[53]
-
-Motorhead_Port_Talbot_1982.jpg
 
 To coincide with the _Ace of Spades_ release, Big Beat, who had inherited the Chiswick catalogue, put together four unused tracks from the Escape Studios sessions in 1977 and released them as _Beer Drinkers and Hell Raisers_, which reached No. 43 on the UK Singles Chart in November.[54][55]
 
@@ -113,7 +109,7 @@ The band joined with Judas Priest at the Los Angeles Universal Amphitheatre on 3
 
 In 1999 Motörhead made a tour of the states between 20 April and 2 June, before going to Karo Studios in Brackel, Germany to record their next album, _We Are Motörhead_, which was released in May the following year. During the time the album sessions took place, the band played at venues around Europe, the first of which was at Fila Forum in Assago, near Milan, where Metallica's James Hetfield joined the band on-stage to play "Overkill". In October and early November, the band toured the states with Nashville Pussy. Throughout the rest of November, the band conducted their European "Monsters of the Millennium" tour with Manowar, Dio and Lion's Share, ending the Millennium with two shows at the London Astoria. The two shows were billed under the _Kerrang!_ "X-Fest" banner and at the first show were supported by Backyard Babies and during the second show guest vocals were provided by Skin from Skunk Anansie and Nina C. Alice from Skew Siskin for "Born to Raise Hell", and Ace from Skunk Anansie played "Overkill" with the band.[104]
 
-Motorhead_25th_Anniversary_Concert_Ticket.jpg on 22 October 2000]]
+on 22 October 2000]]
 
 In May 2000, the release of _We Are Motörhead_ and the single from it, a cover of the Sex Pistol's "God Save the Queen", coincided with the start of the band's "We Are Motörhead" tour across South and North America during May and June, with a further nine shows across in Europe in July. Shows in the United States and France were followed by the release of a double-disc compilation album, _The Best Of_, on 26 August.
 
@@ -131,15 +127,11 @@ _Inferno_, _Kiss of Death_ and _Motörizer_, 2004–2009
 
 Motörhead performed an invitation-only concert at the Royal Opera House in Covent Garden, London on 22 February 2004; at Summer Festivals in South America during May; and in Europe during June, July and August. They had already spent time in the studio, working on _Inferno_, which was released on 22 June and followed by the "Inferno" tour of Ireland with Class of Zero for three dates. Joined by Sepultura, the tour hit Great Britain.[112] Some of the London show at the Hammersmith Apollo was filmed for TV as Gene Simmons introduced the extra opening act The Class, made up of school children from his Channel 4 series _Rock School_. Würzel guested on "Overkill". The band continued the tour with Sepultura across Europe through the rest of November and December. At the show in Magdeburg, Germany on 4 December Motörhead joined Sepultura on stage during their support slot playing the song "Orgasmatron", in celebration of Sepultura's 20th Anniversary. The show on 7 December at the Philipshalle in Düsseldorf was recorded and later released as the _Stage Fright_ DVD.[113]
 
-Motorhead-04.jpg
-
 Motörhead picked up their first Grammy in the awards of 2005 in the Best Metal Performance category for their cover of Metallica's "Whiplash" on _Metallic Attack: The Ultimate Tribute_.[114] "They've managed to get the knife in," Lemmy grumbled. "It was only a mercy fuck – it was our 30th anniversary. If they gave us a Grammy for one of our albums or songs, it would mean something."[115]
 
 From March until early May 2005, the band toured the United States, and in June and August were on the "30th Anniversary" tour in Europe.[116] On 22 August, they were the subject of an hour-long documentary, _Live Fast, Die Old_, aired on Channel 4 as part of _The Other Side_ series of documentaries, filmed by new and established directors.[117][118]
 
 On 20 September, a compilation containing the band's appearances on BBC Radio 1 and a concert recording from Paris Theatre, London, was released as _BBC Live & In-Session_. In October, the band toured Europe with Mondo Generator before returning to Britain to tour with In Flames and Girlschool in October and November. During the show at the Brixton Academy on 19 November, Lemmy joined Girlschool on stage to play "Please Don't Touch". Motörhead finished the year's tours in December, with two engagements in New Zealand and five in Australia with Mötley Crüe.[119] Also in 2005, Motörhead played on the Vaya Con Tioz farewell festival Böhse Onkelz at Lausitzring. In 2006, the band performed a four-date House of Blues tour in the States in March with Meldrum and from June until early August played at European open-air festivals with some indoor headlining shows. On 28 October, the band performed at The Rock Freakers Ball in Kansas City before heading off to tour Great Britain with Clutch and Crucified Barbara.
-
-Masters_of_Rock_2007_-_Motörhead_-_6.jpg
 
 During that tour, _Kiss of Death_ was released on 29 August 2006 via Sanctuary Records, with a video for "Be My Baby". The tour ended on 25 November at the Brixton Academy, where Phil Campbell played on "Killed By Death" during Crucified Barbara's support set. Twelve shows in Europe with Meldrum took them through the end of November to early December, the first two shows also featuring Skew Siskin.[120]
 
@@ -155,11 +147,9 @@ In November 2009, the band were supported by NWOBHM veterans Sweet Savage on the
 
 _The Wörld Is Yours_, _Aftershock_ and _Bad Magic_, 2010–2015
 
-Motorhead-Live-Norway_Rock_2010.jpg 2010]]
+2010]]
 
 In a November 2009 interview with ABORT Magazine's E.S. Day, Lemmy said that Motörhead would enter the studio in February 2010 "to rehearse, write and record" their 20th studio album, to be released by the end of the year.[129][130] The album was recorded with Cameron Webb and Welsh producer Romesh Dodangoda in Longwave Studio, Cardiff. In an interview with Hungarian television in July 2010, drummer Mikkey Dee announced that the album was finished, with 11 tracks. The album's name was said to be _The Wörld Is Yours_. On 3 November 2010, Future plc, a UK media company, announced that Motörhead were to release _The Wörld is Yours_ via an exclusive publishing deal with _Classic Rock_ magazine on 14 December 2010.[131][132] The standard CD release of _The Wörld is Yours_ would go on sale on 17 January 2011, through Motörhead's own label, Motörhead Music.[133][134]
-
-Motorhead-johngullo-photograph-sofajockey-com.jpg
 
 To coincide with the release of their upcoming album, Motörhead embarked on a 35th Anniversary UK tour, from 8–28 November 2010,[135] and a European tour from 30 November 2010 – 19 December 2010. They also took their tour to the Americas in 2011.[136] In October, the band recorded a slow blues version of their longtime hit "Ace of Spades" for a TV spot for Kronenbourg beer.[137] On 5 December the single "Get Back in Line" was released,[138] followed by the release of a video for the single on 6 December.[139] In December, Mikkey Dee stated to French journalists that Motörhead are planning to release a box-set with several DVDs in 2011. He did not give any details but said that it will come in a "beautiful package including many surprises".[140]
 
@@ -194,7 +184,7 @@ Former Motörhead guitarist "Fast" Eddie Clarke died on 10 January 2018 after a 
 
 Style
 
-Motorhead-01.jpg live in Edmonton, 2005]]
+live in Edmonton, 2005]]
 
 In a biography of the band, senior editor for AllMusic, Stephen Thomas Erlewine, wrote: "Motörhead's overwhelmingly loud and fast style of heavy metal was one of the most groundbreaking styles the genre had to offer in the late '70s" and though "Motörhead wasn't punk rock ... they were the first metal band to harness that energy and, in the process, they created speed metal and thrash metal."[179] Whether they created these genres might be subject to debate, but Motörhead were unquestionably influential.
 
@@ -209,7 +199,7 @@ Lemmy often played power chords in his basslines. When asked about whether he ha
 
 Name and logo
 
-The name "Motörhead" is a reference to users of the drug amphetamine.[185] The band's distinctive fanged-face logo, with its oversized boar's tusks, chains, and spikes, was created by artist Joe Petagno in 1977 for the cover of the _Motörhead_ album and has appeared in many variations on covers of ensuing albums. The fanged face has been referred to variously as "War-Pig"[186] and "Snaggletooth".[187] The band's name is usually printed in a lowercase form of blackletter. The umlaut character ö is possibly derived from the similar "heavy metal umlaut" in the name of their 1975 acquaintances Blue Öyster Cult. However, this umlaut does not alter the pronunciation of the band's name. When asked if Germans pronounced the band "Motuuuurhead", Lemmy answered "No, they don't. I only put it in there to look mean".[188] Motorheadselftitled.jpg Snaggletooth is the fanged face that serves as the symbol of Motörhead. Artist Joe Petagno drew it in 1977 for the cover of the band's debut album (with designer Phil Smee who turned it into a negative and did the lettering to complete the logo),[189] having met Lemmy while doing some work with Hawkwind.[190] Petagno stated:
+The name "Motörhead" is a reference to users of the drug amphetamine.[185] The band's distinctive fanged-face logo, with its oversized boar's tusks, chains, and spikes, was created by artist Joe Petagno in 1977 for the cover of the _Motörhead_ album and has appeared in many variations on covers of ensuing albums. The fanged face has been referred to variously as "War-Pig"[186] and "Snaggletooth".[187] The band's name is usually printed in a lowercase form of blackletter. The umlaut character ö is possibly derived from the similar "heavy metal umlaut" in the name of their 1975 acquaintances Blue Öyster Cult. However, this umlaut does not alter the pronunciation of the band's name. When asked if Germans pronounced the band "Motuuuurhead", Lemmy answered "No, they don't. I only put it in there to look mean".[188] Snaggletooth is the fanged face that serves as the symbol of Motörhead. Artist Joe Petagno drew it in 1977 for the cover of the band's debut album (with designer Phil Smee who turned it into a negative and did the lettering to complete the logo),[189] having met Lemmy while doing some work with Hawkwind.[190] Petagno stated:
 
 Eddie Clarke was less sure about the imagery to begin with:
 

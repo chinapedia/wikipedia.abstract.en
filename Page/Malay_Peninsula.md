@@ -1,4 +1,4 @@
-Night_Pass_over_Malaysia.ogv.]]
+.]]
 
 The MALAY PENINSULA (Malay: _Semenanjung Tanah Melayu_) is a peninsula in Southeast Asia. The land mass runs approximately north-south and, at its terminus, is the southernmost point of the Asian mainland. The area contains Peninsular Malaysia, Southern Thailand, and the southernmost tip of Myanmar (Kawthaung) as well as the city state Singapore, indigenous to or historically inhabited by the Malays, an Austronesian people.
 

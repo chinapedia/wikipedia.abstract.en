@@ -32,7 +32,7 @@ Soliah was indicted in 1976 for setting the police bombs along with five other S
 
 Underground life, capture, and prosecution
 
-1795Hillcrest.jpg In February 1976, a grand jury indicted Soliah in the bombing case. Soliah went underground and became a fugitive for 23 years.
+In February 1976, a grand jury indicted Soliah in the bombing case. Soliah went underground and became a fugitive for 23 years.
 
 She moved to Minnesota, having assumed the alias Sara Jane Olson; the surname chosen being one of the most common names in Minnesota due to the state's large Scandinavian-American population.[37] In 1980 she married the physician Gerald Frederick "Fred" Peterson, with whom she would have three daughters. Olson and Peterson spent time in Zimbabwe, where Peterson worked for a British Medical missionary group, before settling in Saint Paul, Minnesota, where Olson resumed her acting career.[38] She was active in Saint Paul on community issues.[39] Her husband described the family as interested in progressive social causes.[40]
 

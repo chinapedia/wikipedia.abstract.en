@@ -1,4 +1,4 @@
-Division_of_the_Earth_into_Gauss-Krueger_zones_-_Globe.svg on the Earth as a sphere or an ellipsoid. The lines from pole to pole are lines of constant longitude, or MERIDIANS. The circles parallel to the equator are lines of constant latitude, or PARALLELS. The graticule shows the latitude and longitude of points on the surface. In this example meridians are spaced at 6° intervals and parallels at 4° intervals.]]
+on the Earth as a sphere or an ellipsoid. The lines from pole to pole are lines of constant longitude, or MERIDIANS. The circles parallel to the equator are lines of constant latitude, or PARALLELS. The graticule shows the latitude and longitude of points on the surface. In this example meridians are spaced at 6° intervals and parallels at 4° intervals.]]
 
 In geography, LATITUDE is a geographic coordinate that specifies the north–south position of a point on the Earth's surface. Latitude is an angle (defined below) which ranges from 0° at the Equator to 90° (North or South) at the poles. Lines of constant latitude, or _parallels_, run east–west as circles parallel to the equator. Latitude is used together with longitude to specify the precise location of features on the surface of the Earth. On its own, the term latitude should be taken to be the _geodetic latitude_ as defined below. Briefly, geodetic latitude at a point is the angle formed by the vector perpendicular (or _normal_) to the ellipsoidal surface from that point, and the equatorial plane. Also defined are six _auxiliary latitudes_ which are used in special applications.
 
@@ -18,8 +18,6 @@ This article relates to coordinate systems for the Earth: it may be extended to 
 
 Latitude on the sphere
 
-latitude_and_longitude_graticule_on_a_sphere.svg
-
 The graticule on the sphere
 
 The graticule is formed by the lines of constant latitude and constant longitude, which are constructed with reference to the rotation axis of the Earth. The primary reference points are the poles where the axis of rotation of the Earth intersects the reference surface. Planes which contain the rotation axis intersect the surface at the meridians; and the angle between any one meridian plane and that through Greenwich (the Prime Meridian) defines the longitude: meridians are lines of constant longitude. The plane through the centre of the Earth and perpendicular to the rotation axis intersects the surface at a great circle called the Equator. Planes parallel to the equatorial plane intersect the surface in circles of constant latitude; these are the parallels. The Equator has a latitude of 0°, the North Pole has a latitude of 90° North (written 90° N or +90°), and the South Pole has a latitude of 90° South (written 90° S or −90°). The latitude of an arbitrary point is the angle between the equatorial plane and the normal to the surface at that point: the normal to the surface of the sphere is along the radius vector.
@@ -28,7 +26,7 @@ The latitude, as defined in this way for the sphere, is often termed the spheric
 
 Named latitudes on the Earth
 
-December_solstice_geometry.svg Besides the equator, four other parallels are of significance:
+Besides the equator, four other parallels are of significance:
 
     {| class="wikitable" border="1"
 
@@ -38,11 +36,11 @@ The figure shows the geometry of a cross-section of the plane perpendicular to t
 
 On map projections there is no universal rule as to how meridians and parallels should appear. The examples below show the named parallels (as red lines) on the commonly used Mercator projection and the Transverse Mercator projection. On the former the parallels are horizontal and the meridians are vertical, whereas on the latter there is no exact relationship of parallels and meridians with horizontal and vertical: both are complicated curves.
 
-+--+--------------------------+---+--------------------------+--+
-|  | Normal Mercator          |   | Transverse Mercator      |  |
-+==+==========================+===+==========================+==+
-|  | MercNormSph_enhanced.png | \ | MercTranSph_enhanced.png |  |
-+--+--------------------------+---+--------------------------+--+
++--+-----------------+---+---------------------+--+
+|  | Normal Mercator |   | Transverse Mercator |  |
++==+=================+===+=====================+==+
+|  |                 | \ |                     |  |
++--+-----------------+---+---------------------+--+
 
 Meridian distance on the sphere
 
@@ -61,8 +59,6 @@ In 1687 Isaac Newton published the _Philosophiæ Naturalis Principia Mathematica
 Many different reference ellipsoids have been used in the history of geodesy. In pre-satellite days they were devised to give a good fit to the geoid over the limited area of a survey but, with the advent of GPS, it has become natural to use reference ellipsoids (such as WGS84) with centre at the centre of mass of the Earth and minor axis aligned to the rotation axis of the Earth. These geocentric ellipsoids are usually within of the geoid. Since latitude is defined with respect to an ellipsoid, the position of a given point is different on each ellipsoid: one cannot exactly specify the latitude and longitude of a geographical feature without specifying the ellipsoid used. Many maps maintained by national agencies are based on older ellipsoids, so one must know how the latitude and longitude values are transformed from one ellipsoid to another. GPS handsets include software to carry out datum transformations which link WGS84 to the local reference ellipsoid with its associated grid.
 
 The geometry of the ellipsoid
-
-Ellipsoid_parametric_euler_mono.svg
 
 The shape of an ellipsoid of revolution is determined by the shape of the ellipse which is rotated about its minor (shorter) axis. Two parameters are required. One is invariably the equatorial radius, which is the semi-major axis, . The other parameter is usually (1) the polar radius or semi-minor axis, ; or (2) the (first) flattening, ; or (3) the eccentricity, . These parameters are not independent: they are related by
 
@@ -83,7 +79,7 @@ The difference between the semi-major and semi-minor axes is about and as fracti
 
 Geodetic and geocentric latitudes
 
-latitude_and_longitude_graticule_on_an_ellipsoid.svg The graticule on the ellipsoid is constructed in exactly the same way as on the sphere. The normal at a point on the surface of an ellipsoid does not pass through the centre, except for points on the equator or at the poles, but the definition of latitude remains unchanged as the angle between the normal and the equatorial plane. The terminology for latitude must be made more precise by distinguishing:
+The graticule on the ellipsoid is constructed in exactly the same way as on the sphere. The normal at a point on the surface of an ellipsoid does not pass through the centre, except for points on the equator or at the poles, but the definition of latitude remains unchanged as the angle between the normal and the equatorial plane. The terminology for latitude must be made more precise by distinguishing:
 
 -   GEODETIC LATITUDE: the angle between the normal and the equatorial plane. The standard notation in English publications is . This is the definition assumed when the word latitude is used without qualification. The definition must be accompanied with a specification of the ellipsoid.
 
@@ -144,7 +140,7 @@ The variation of this distance with latitude (on WGS84) is shown in the table al
 $$\Delta^1_\text{long} = \frac{\pi a\cos\phi}{180^\circ\sqrt{1 - e^2 \sin^2\phi}}\,$$
 A calculator for any latitude is provided by the U.S. Government's National Geospatial-Intelligence Agency (NGA).[8]
 
-The following graph illustrates the variation of both a degree of latitude and a degree of longitude with latitude. WGS84_angle_to_distance_conversion.svg
+The following graph illustrates the variation of both a degree of latitude and a degree of longitude with latitude.
 
 The nautical mile
 
@@ -168,7 +164,7 @@ The expressions below give the auxiliary latitudes in terms of the geodetic lati
 
 Geocentric latitude
 
-Geocentric_coords_03.svg The GEOCENTRIC LATITUDE is the angle between the equatorial plane and the radius from the centre to a point on the surface. The relation between the geocentric latitude () and the geodetic latitude () is derived in the above references as
+The GEOCENTRIC LATITUDE is the angle between the equatorial plane and the radius from the centre to a point on the surface. The relation between the geocentric latitude () and the geodetic latitude () is derived in the above references as
 
 _θ_(_ϕ_) = tan^( − 1)((1−_e_²)tan_ϕ_) = tan^( − 1)((1−_f_)²tan_ϕ_) .
 
@@ -176,7 +172,7 @@ The geodetic and geocentric latitudes are equal at the equator and at the poles 
 
 Parametric (or reduced) latitude
 
-Ellipsoid_reduced_angle_definition.svg The PARAMETRIC or REDUCED LATITUDE, , is defined by the radius drawn from the centre of the ellipsoid to that point on the surrounding sphere (of radius ) which is the projection parallel to the Earth's axis of a point on the ellipsoid at latitude . It was introduced by Legendre[14] and Bessel[15] who solved problems for geodesics on the ellipsoid by transforming them to an equivalent problem for spherical geodesics by using this smaller latitude. Bessel's notation, , is also used in the current literature. The parametric latitude is related to the geodetic latitude by:[16][17]
+The PARAMETRIC or REDUCED LATITUDE, , is defined by the radius drawn from the centre of the ellipsoid to that point on the surrounding sphere (of radius ) which is the projection parallel to the Earth's axis of a point on the ellipsoid at latitude . It was introduced by Legendre[14] and Bessel[15] who solved problems for geodesics on the ellipsoid by transforming them to an equivalent problem for spherical geodesics by using this smaller latitude. Bessel's notation, , is also used in the current literature. The parametric latitude is related to the geodetic latitude by:[16][17]
 
 $$\beta(\phi) = \tan^{-1}\left(\sqrt{1 - e^2}\tan\phi\right) = \tan^{-1}\left((1 - f)\tan\phi\right)$$
 
@@ -290,8 +286,6 @@ The following plot shows the difference between the geodetic latitude and the au
 
 To first order in the flattening _f_, the auxiliary latitudes can be expressed as _ζ_ = _φ_ − _Cf_ sin 2_φ_ where the constant _C_ takes on the values [, , , 1, 1] for _ζ_ = [_β_, _ξ_, _μ_, _χ_, _θ_].
 
-Types_of_latitude_difference.svg
-
 +-----+------------+----------+------------+-----------+------------+
 |     | Parametric | Authalic | Rectifying | Conformal | Geocentric |
 +=====+============+==========+============+===========+============+
@@ -319,15 +313,15 @@ The geodetic latitude, or any of the auxiliary latitudes defined on the referenc
 
 Geodetic coordinates
 
-Geodetic_coordinates.svg At an arbitrary point consider the line which is normal to the reference ellipsoid. The geodetic coordinates are the latitude and longitude of the point on the ellipsoid and the distance . This height differs from the height above the geoid or a reference height such as that above mean sea level at a specified location. The direction of will also differ from the direction of a vertical plumb line. The relation of these different heights requires knowledge of the shape of the geoid and also the gravity field of the Earth.
+At an arbitrary point consider the line which is normal to the reference ellipsoid. The geodetic coordinates are the latitude and longitude of the point on the ellipsoid and the distance . This height differs from the height above the geoid or a reference height such as that above mean sea level at a specified location. The direction of will also differ from the direction of a vertical plumb line. The relation of these different heights requires knowledge of the shape of the geoid and also the gravity field of the Earth.
 
 Spherical polar coordinates
 
-Geocentric_coords_02.svg The geocentric latitude is the complement of the polar angle in conventional spherical polar coordinates in which the coordinates of a point are where is the distance of from the centre , is the angle between the radius vector and the polar axis and is longitude. Since the normal at a general point on the ellipsoid does not pass through the centre it is clear that points on the normal, which all have the same geodetic latitude, will have differing geocentric latitudes. Spherical polar coordinate systems are used in the analysis of the gravity field.
+The geocentric latitude is the complement of the polar angle in conventional spherical polar coordinates in which the coordinates of a point are where is the distance of from the centre , is the angle between the radius vector and the polar axis and is longitude. Since the normal at a general point on the ellipsoid does not pass through the centre it is clear that points on the normal, which all have the same geodetic latitude, will have differing geocentric latitudes. Spherical polar coordinate systems are used in the analysis of the gravity field.
 
 Ellipsoidal coordinates
 
-Ellipsoidal_coordinates.svg The parametric latitude can also be extended to a three-dimensional coordinate system. For a point not on the reference ellipsoid (semi-axes and ) construct an auxiliary ellipsoid which is confocal (same foci , ) with the reference ellipsoid: the necessary condition is that the product of semi-major axis and eccentricity is the same for both ellipsoids. Let be the semi-minor axis () of the auxiliary ellipsoid. Further let be the parametric latitude of on the auxiliary ellipsoid. The set define the ellipsoid coordinates.[27] These coordinates are the natural choice in models of the gravity field for a rotating ellipsoidal body.
+The parametric latitude can also be extended to a three-dimensional coordinate system. For a point not on the reference ellipsoid (semi-axes and ) construct an auxiliary ellipsoid which is confocal (same foci , ) with the reference ellipsoid: the necessary condition is that the product of semi-major axis and eccentricity is the same for both ellipsoids. Let be the semi-minor axis () of the auxiliary ellipsoid. Further let be the parametric latitude of on the auxiliary ellipsoid. The set define the ellipsoid coordinates.[27] These coordinates are the natural choice in models of the gravity field for a rotating ellipsoidal body.
 
 Coordinate conversions
 

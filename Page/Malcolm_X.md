@@ -13,8 +13,6 @@ MalcolmX was posthumously honored with Malcolm X Day, which commemorates him in 
 
 Early years
 
-1930_census_Little.gif
-
 Malcolm Little was born May19, 1925, in Omaha, Nebraska, the fourth of seven children of Grenada-born Louise Helen Little (née Norton) and Georgia-born Earl Little.[1] Earl was an outspoken Baptist lay speaker, and he and Louise were admirers of Pan-African activist Marcus Garvey. Earl was a local leader of the Universal Negro Improvement Association (UNIA) and Louise served as secretary and "branch reporter", sending news of local UNIA activities to _Negro World_; they inculcated self-reliance and black pride in their children.[2][3][4] MalcolmX later said that white violence killed four of his father's brothers.[5]
 
 Because of Ku Klux Klan threatsEarl's UNIA activities were said to be "spreading trouble"[6]the family relocated in 1926 to Milwaukee, Wisconsin, and shortly thereafter to Lansing, Michigan.[7] There the family was frequently harassed by the Black Legion, a white racist group. When the family home burned in 1929, Earl accused the Black Legion.[8]
@@ -83,7 +81,7 @@ From his adoption of the Nation of Islam in 1952 until he broke with it in 1964,
 -   that blacks are superior to whites, and
 -   that the demise of the white race is imminent.[95]
 
-_Elijah_Muhammad_and_Cassius_Clay_NYWTS.jpg (in dark suit) watches Elijah Muhammad speak, 1964|alt=Elijah Muhammad is speaking at a podium and people are listening intently]]
+(in dark suit) watches Elijah Muhammad speak, 1964|alt=Elijah Muhammad is speaking at a podium and people are listening intently]]
 
 Many whites and some blacks were alarmed by MalcolmX and the statements he made during this period. He and the Nation of Islam were described as hatemongers, black supremacists, racists, violence-seekers, segregationists, and a threat to improved race relations. He was accused of being antisemitic.[96] In 1961, Malcolm X spoke at a NOI rally alongside George Lincoln Rockwell, the head of the American Nazi Party. Rockwell believed that there was overlap between black nationalism and white supremacy.[97] One of the goals of the civil rights movement was to end disenfranchisement of African Americans, but the Nation of Islam forbade its members from participating in voting and other aspects of the political process.[98] Civil rights organizations denounced him and the Nation as irresponsible extremists whose views did not represent African Americans.[99][100][101]
 
@@ -93,7 +91,7 @@ While the civil rights movement fought against racial segregation, MalcolmX advo
 
 Effect on Nation membership
 
-Ali_MalcolmX_1964.jpg after Clay became the world heavyweight champion (1964).|alt=Malcolm X is holding a camera and taking a picture of Clay, who is sitting at a luncheonette counter]]
+after Clay became the world heavyweight champion (1964).|alt=Malcolm X is holding a camera and taking a picture of Clay, who is sitting at a luncheonette counter]]
 
 MalcolmX is widely regarded as the second most influential leader of the Nation of Islam after Elijah Muhammad.[112] He was largely credited with the group's dramatic increase in membership between the early 1950s and early 1960s (from 500 to 25,000 by one estimate; from 1,200 to 50,000 or 75,000 by another).[113]
 
@@ -118,8 +116,6 @@ Rumors were circulating that Muhammad was conducting extramarital affairs with y
 
 Nation of Islam response to his remarks on the Kennedy assassination
 
-Malcolm_X_March_26_1964_cropped_retouched.jpg
-
 On December1, 1963, when asked to comment on the assassination of John F. Kennedy, MalcolmX said that it was a case of "chickens coming home to roost". He added that "chickens coming home to roost never did make me sad; they've always made me glad."[125] _The New York Times_ wrote, "in further criticism of Mr. Kennedy, the Muslim leader cited the murders of Patrice Lumumba, Congo leader, of Medgar Evers, civil rights leader, and of the Negro girls bombed earlier this year in a Birmingham church. These, he said, were instances of other 'chickens coming home to roost'."[126] The remarks prompted a widespread public outcry. The Nation of Islam, which had sent a message of condolence to the Kennedy family and ordered its ministers not to comment on the assassination, publicly censured their former shining star.[127] MalcolmX retained his post and rank as minister, but was prohibited from public speaking for 90 days.[128]
 
 Media attention to MalcolmX over Muhammad
@@ -133,7 +129,7 @@ On March8, 1964, MalcolmX publicly announced his break from the Nation of Islam.
 
 Activity after leaving Nation of Islam
 
-_MLK_and_Malcolm_X_USNWR_cropped.jpg, March26, 1964|alt=Malcolm X and Martin Luther King speak to each other thoughtfully as others look on]]
+, March26, 1964|alt=Malcolm X and Martin Luther King speak to each other thoughtfully as others look on]]
 
 After leaving the Nation of Islam, MalcolmX founded Muslim Mosque, Inc. (MMI), a religious organization,[131][132] and the Organization of Afro-American Unity (OAAU), a secular group that advocated Pan-Africanism.[133][134] On March26, 1964, he met Martin Luther King Jr. for the first and only timeand only long enough for photographs to be takenin Washington, D.C., as both men attended the Senate's debate on the Civil Rights bill. In April, MalcolmX gave a speech titled "The Ballot or the Bullet", in which he advised African Americans to exercise their right to vote wisely but cautioned that if the government continued to prevent African Americans from attaining full equality, it might be necessary for them to take up arms.[135][136]
 
@@ -146,8 +142,6 @@ In April 1964, with financial help from his half-sister Ella Little-Collins, Mal
 MalcolmX later said that seeing Muslims of "all colors, from blue-eyed blonds to black-skinned Africans," interacting as equals led him to see Islam as a means by which racial problems could be overcome.[143]
 
 Africa
-
-Malcolm_X_NYWTS_4.jpg
 
 MalcolmX had already visited the United Arab Republic (a short-lived political union between Egypt and Syria), Sudan, Nigeria, and Ghana in 1959 to make arrangements for a tour of Africa by Elijah Muhammad.[144] After his journey to Mecca in 1964, he visited Africa a second time. He returned to the United States in late May[145] and flew to Africa again in July.[146] During these visits he met officials, gave interviews, and spoke on radio and television in Egypt, Ethiopia, Tanganyika, Nigeria, Ghana, Guinea, Sudan, Senegal, Liberia, Algeria, and Morocco.[147] In Cairo, he attended the second meeting of the Organization of African Unity as a representative of the OAAU.[148] By the end of this third visit, he had met with essentially all of Africa's prominent leaders;[149] Kwame Nkrumah of Ghana, Gamal Abdel Nasser of Egypt, and Ahmed Ben Bella of Algeria had all invited MalcolmX to serve in their governments.[150] After he spoke at the University of Ibadan, the Nigerian Muslim Students Association bestowed on him the honorary Yoruba name _Omowale_ ("the son who has come home").[151] He later called this his most treasured honor.[152]
 
@@ -166,7 +160,7 @@ After returning to the U.S., MalcolmX addressed a wide variety of audiences. He 
 
 Death threats and intimidation from Nation of Islam
 
-Malcolmxm1carbine3gr.gif'' photo.|alt=Malcolm X, carrying a rifle, peers out the window]] Throughout 1964, as his conflict with the Nation of Islam intensified, MalcolmX was repeatedly threatened.
+'' photo.|alt=Malcolm X, carrying a rifle, peers out the window]] Throughout 1964, as his conflict with the Nation of Islam intensified, MalcolmX was repeatedly threatened.
 
 In February, a leader of Temple Number Seven ordered the bombing of MalcolmX's car.[167] In March, Muhammad told Boston minister LouisX (later known as Louis Farrakhan) that "hypocrites like Malcolm should have their heads cut off";[168] the April10 edition of _Muhammad Speaks_ featured a cartoon depicting MalcolmX's bouncing, severed head.[169][170]
 
@@ -183,7 +177,7 @@ On February19, 1965, MalcolmX told interviewer Gordon Parks that the Nation of I
 
 One gunman, Nation of Islam member Talmadge Hayer (also known as Thomas Hagan), was beaten by the crowd before police arrived.[188][189] Witnesses identified the other gunmen as Nation members Norman 3X Butler and Thomas 15X Johnson.[190] All three were convicted of murder in March 1966 and sentenced to life in prison.[191][192] At trial Hayer confessed, but refused to identify the other assailants except to assert that they were not Butler and Johnson.[193] In 1977 and 1978, he signed affidavits reasserting Butler's and Johnson's innocence, naming four other Nation members as participants in the murder or its planning.[194][195] These affidavits did not result in the case being reopened.
 
-Malcolm_X_bullet_holes2.jpg stage after the murder. Circles on backdrop mark bullet holes.|alt=An overturned chair in front of a mural, on which several chalk circles have been drawn around bullet-holes]] Butler, today known as Muhammad Abdul Aziz, was paroled in 1985 and became the head of the Nation's Harlem mosque in 1998; he maintains his innocence.[196] In prison Johnson, who changed his name to Khalil Islam, rejected the Nation's teachings and converted to Sunni Islam. Released in 1987, he maintained his innocence until his death in August 2009.[197][198] Hayer, who also rejected the Nation's teachings while in prison and converted to Sunni Islam,[199] is known today as Mujahid Halim.[200] He was paroled in 2010.[201]
+stage after the murder. Circles on backdrop mark bullet holes.|alt=An overturned chair in front of a mural, on which several chalk circles have been drawn around bullet-holes]] Butler, today known as Muhammad Abdul Aziz, was paroled in 1985 and became the head of the Nation's Harlem mosque in 1998; he maintains his innocence.[196] In prison Johnson, who changed his name to Khalil Islam, rejected the Nation's teachings and converted to Sunni Islam. Released in 1987, he maintained his innocence until his death in August 2009.[197][198] Hayer, who also rejected the Nation's teachings while in prison and converted to Sunni Islam,[199] is known today as Mujahid Halim.[200] He was paroled in 2010.[201]
 
 A CNN Special Report, _Witnessed: The Assassination of MalcolmX_, was broadcast on February17, 2015. It featured interviews with several people who worked with him, including A. Peter Bailey and Earl Grant, as well as the daughter of MalcolmX, Ilyasah Shabazz.[202][203][204]
 
@@ -227,7 +221,7 @@ In a weekly column he wrote for the _New York Amsterdam News_, King reflected on
 
 Allegations of conspiracy
 
-Louis_Farrakhan,_smiling.jpg in 2005|alt=Louis Farrakhan in 2005]] Within days, the question of who bore responsibility for the assassination was being publicly debated. On February23, James Farmer, the leader of the Congress of Racial Equality, announced at a news conference that local drug dealers, and not the Nation of Islam, were to blame.[231] Others accused the NYPD, the FBI, or the CIA, citing the lack of police protection, the ease with which the assassins entered the Audubon Ballroom, and the failure of the police to preserve the crime scene.[232][233] Earl Grant, one of MalcolmX's associates who was present at the assassination, later wrote:
+in 2005|alt=Louis Farrakhan in 2005]] Within days, the question of who bore responsibility for the assassination was being publicly debated. On February23, James Farmer, the leader of the Congress of Racial Equality, announced at a news conference that local drug dealers, and not the Nation of Islam, were to blame.[231] Others accused the NYPD, the FBI, or the CIA, citing the lack of police protection, the ease with which the assassins entered the Audubon Ballroom, and the failure of the police to preserve the crime scene.[232][233] Earl Grant, one of MalcolmX's associates who was present at the assassination, later wrote:
 
   [A]bout five minutes later, a most incredible scene took place. Into the hall sauntered about a dozen policemen. They were strolling at about the pace one would expect of them if they were patrolling a quiet park. They did not seem to be at all excited or concerned about the circumstances.
 
@@ -264,8 +258,6 @@ After leaving the Nation of Islam, MalcolmX announced his willingness to work wi
 
 MalcolmX argued that if the U.S. government was unwilling or unable to protect black people, black people should protect themselves. He said that he and the other members of the OAAU were determined to defend themselves from aggressors, and to secure freedom, justice and equality "by whatever means necessary".[273]
 
-Malcolm_X_NYWTS.jpg
-
 MalcolmX stressed the global perspective he gained from his international travels. He emphasized the "direct connection" between the domestic struggle of African Americans for equal rights with the independence struggles of Third World nations.[274] He said that African Americans were wrong when they thought of themselves as a minority; globally, black people were the majority.[275]
 
 In his speeches at the Militant Labor Forum, which was sponsored by the Socialist Workers Party, MalcolmX criticized capitalism.[276] After one such speech, when he was asked what political and economic system he wanted, he said he did not know, but that it was no coincidence the newly independent countries in the Third World were turning toward socialism.[277] When a reporter asked him what he thought about socialism, MalcolmX asked whether it was good for black people. When the reporter told him it seemed to be, MalcolmX told him, "Then I'm for it."[278][279]
@@ -283,8 +275,6 @@ After his Hajj, MalcolmX articulated a view of white people and racism that repr
 
 Legacy
 
-_Mural_Malcolm_X_-_Ella_Baker_-_Martin_Luther_King_-_Frederick_Douglass.jpg
-
 MalcolmX has been described as one of the greatest and most influential African Americans in history.[284][285][286] He is credited with raising the self-esteem of black Americans and reconnecting them with their African heritage.[287] He is largely responsible for the spread of Islam in the black community in the United States.[288][289][290] Many African Americans, especially those who lived in cities in the Northern and Western United States, felt that MalcolmX articulated their complaints concerning inequality better than did the mainstream civil rights movement.[291][292] One biographer says that by giving expression to their frustration, MalcolmX "made clear the price that white America would have to pay if it did not accede to black America's legitimate demands".[293]
 
 In the late 1960s, increasingly radical black activists based their movements largely on MalcolmX and his teachings. The Black Power movement,[294][295] the Black Arts Movement,[296][297] and the widespread adoption of the slogan "Black is beautiful"[298] can all trace their roots to MalcolmX.
@@ -297,7 +287,7 @@ In 1998 _Time_ named _The Autobiography of MalcolmX_ one of the ten most influen
 
 Portrayals in film and on stage
 
-Malcolm_X_portrait_by_Robert_Templeton.jpg, from the collection _Lest We Forget: Images of the Black Civil Rights Movement_|alt=Portrait of Malcolm X by the artist Robert Templeton]]
+, from the collection _Lest We Forget: Images of the Black Civil Rights Movement_|alt=Portrait of Malcolm X by the artist Robert Templeton]]
 
 Denzel Washington played the title role in the 1992 motion picture _MalcolmX_[307]named one of the ten best films of the 1990s by both critic Roger Ebert and director Martin Scorsese.[308] Washington had previously played the part of MalcolmX in the 1981 Off-Broadway play _When the Chickens Came Home to Roost_.[309] Other portrayals include:
 
@@ -313,8 +303,6 @@ Denzel Washington played the title role in the 1992 motion picture _MalcolmX_[30
 -   Nigel Thatch, in the 2014 film _Selma_.[320]
 
 Memorials and tributes
-
-_Malcolm_X_Blvd_street_sign.jpg
 
 The house that once stood at 3448 Pinkney Street in North Omaha, Nebraska, was the first home of Malcolm Little with his birth family. The house was torn down in 1965 by new owners who did not know of its connection with MalcolmX.[321] The site was listed on the National Register of Historic Places in 1984.[322][323][324]
 

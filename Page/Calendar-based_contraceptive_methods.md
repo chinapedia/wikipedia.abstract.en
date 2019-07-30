@@ -49,7 +49,7 @@ To find the estimated length of the pre-ovulatory infertile phase, nineteen (19)
 
 Standard Days Method
 
-Geburtenkontrollkette.jpg birth control chain, used for a rough estimate of fertility based on days since menstruation]]
+birth control chain, used for a rough estimate of fertility based on days since menstruation]]
 
 Developed by Georgetown University's Institute for Reproductive Health, the Standard Days Method has a simpler rule set and is more effective than the rhythm method.[26][27] A product called CycleBeads was developed alongside the method to help the user keep track of estimated high and low fertility points during her menstrual cycle. The Standard Days Method may only be used by women whose cycles are usually between 26 and 32 days in length. In this system:
 

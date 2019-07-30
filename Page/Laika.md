@@ -9,7 +9,7 @@ On 11 April 2008, Russian officials unveiled a monument to Laika. A small monume
 
 Sputnik 2
 
-Posta_Romana_-_1959_-_Laika_120_B.jpgn stamp from 1959 with Laika (the caption reads "Laika, first traveller into Cosmos")]] After the success of Sputnik 1 in October 1957, Nikita Khrushchev, the Soviet leader, wanted a spacecraft launched on 7 November 1957, the 40th anniversary of the October Revolution. Construction had already started on a more sophisticated satellite, but it would not be ready until December; this satellite would later become Sputnik 3.
+n stamp from 1959 with Laika (the caption reads "Laika, first traveller into Cosmos")]] After the success of Sputnik 1 in October 1957, Nikita Khrushchev, the Soviet leader, wanted a spacecraft launched on 7 November 1957, the 40th anniversary of the October Revolution. Construction had already started on a more sophisticated satellite, but it would not be ready until December; this satellite would later become Sputnik 3.
 
 Meeting the November deadline meant building a new craft. Khrushchev specifically wanted his engineers to deliver a "space spectacular", a mission that would repeat the triumph of Sputnik 1, stunning the world with Soviet prowess. Planners settled on an orbital flight with a dog. Soviet rocket engineers had long intended a canine orbit before attempting human spaceflight; since 1951, they had lofted 12 dogs into sub-orbital space on ballistic flights, working gradually toward an orbital mission set for some time in 1958. To satisfy Khrushchev's demands, they expedited the orbital canine flight for the November launch.
 
@@ -44,7 +44,7 @@ One of the technicians preparing the capsule before final liftoff stated that "a
 
 Voyage
 
-Sputnik2_vsm.jpg _(model shown)_]] The exact time of the liftoff varies from source to source and is mentioned as 05:30:42 Moscow Time or 07:22 Moscow Time.
+_(model shown)_]] The exact time of the liftoff varies from source to source and is mentioned as 05:30:42 Moscow Time or 07:22 Moscow Time.
 
 At peak acceleration Laika's respiration increased to between three and four times the pre-launch rate. The sensors showed her heart rate was 103 beats/min before launch and increased to 240 beats/min during the early acceleration. After reaching orbit, Sputnik 2's nose cone was jettisoned successfully; however the "Block A" core did not separate as planned, preventing the thermal control system from operating correctly. Some of the thermal insulation tore loose, raising the cabin temperature to . After three hours of weightlessness, Laika's pulse rate had settled back to 102 beats/min, three times longer than it had taken during earlier ground tests, an indication of the stress she was under. The early telemetry indicated that Laika was agitated but eating her food. After approximately five to seven hours into the flight, no further signs of life were received from the spacecraft.
 
@@ -55,7 +55,7 @@ Over five months later, after 2,570 orbits, Sputnik 2—including Laika's remain
 
 Ethics of animal testing
 
-Opportunity-Laikia-soil-target-sol-400.jpg mission.]] Due to the overshadowing issue of the Soviet vs. U.S. Space Race, the ethical issues raised by this experiment went largely unaddressed for some time. As newspaper clippings from 1957 show, the press was initially focused on reporting the political perspective, while the health and retrieval—or lack thereof—of Laika only became an issue later.
+mission.]] Due to the overshadowing issue of the Soviet vs. U.S. Space Race, the ethical issues raised by this experiment went largely unaddressed for some time. As newspaper clippings from 1957 show, the press was initially focused on reporting the political perspective, while the health and retrieval—or lack thereof—of Laika only became an issue later.
 
 Sputnik 2 was not designed to be retrievable, and Laika had always been intended to die. The mission sparked a debate across the globe on the mistreatment of animals and animal testing in general to advance science. In the United Kingdom, the National Canine Defence League called on all dog owners to observe a minute's silence, while the Royal Society for the Prevention of Cruelty to Animals (RSPCA) received protests even before Radio Moscow had finished announcing the launch. Animal rights groups at the time called on members of the public to protest at Soviet embassies. Others demonstrated outside the United Nations in New York. These protests were largely stirred up and instrumentalized as an ideological struggle by various interest groups.[1] Laboratory researchers in the U.S. offered some support for the Soviets, at least before the news of Laika's death.
 

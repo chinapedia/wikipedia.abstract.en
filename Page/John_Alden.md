@@ -20,7 +20,7 @@ Voyage of the Mayflower
 
     _Main article: Mayflower_
 
-The_Mayflower_Compact_1620_cph.3g07155.jpg 1899]]
+1899]]
 
 The _Mayflower_ departed Plymouth, England, on September 6, 1620. The 100-foot ship had 102 passengers and a crew of about 30-40 in extremely cramped conditions. By the second month out, the ship was being buffeted by westerly gales, causing the ship's timbers to be badly shaken with caulking failing to keep out sea water, and with passengers, even in their berths, lying wet and ill. This, combined with a lack of proper rations and unsanitary conditions for several months, attributed to what would be fatal for many, especially the majority of women and children. On the way, there were two deaths, a crew member and a passenger, but the worst was yet to come. After arriving at their destination, in the space of several months, almost half the passengers perished in the cold, harsh, unfamiliar New England winter.[11]
 
@@ -29,7 +29,7 @@ On November 9, 1620, after a month of delays in England and about two months at 
 
 In Plymouth Colony
 
-JohnRogers_WhyDontYouSpeak.jpg Group, depicting the courtship of John Alden and Priscilla Mullins: "Why Don't You Speak for Yourself, John?" (1885)]]
+Group, depicting the courtship of John Alden and Priscilla Mullins: "Why Don't You Speak for Yourself, John?" (1885)]]
 
 John Alden was among the original settlers of the Plymouth Colony. Although not himself a Separatist, he had been hired to be a cooper (barrel maker) and decided to join the journey when she set sail, perhaps with the hope of becoming prosperous in the New World. Alden's rivalry with Miles Standish for the affection of Priscilla Mullins is recounted elaborately in Henry Wadsworth Longfellow's poem "The Courtship of Miles Standish" (1858).
 
@@ -65,7 +65,7 @@ Priscilla Alden who married Samuel Cheeseborough of Stonington, Connecticut was 
 
 Final days and legacy
 
-John_Alden_and_Priscilla_Alden_grave_in_Miles_Standish_Burial_Ground_in_Duxbury_MA.JPG, the final resting place of John and Priscilla Alden]] John_Alden_House.jpg, built ca. 1653, in Duxbury, Massachusetts]]
+, the final resting place of John and Priscilla Alden]] , built ca. 1653, in Duxbury, Massachusetts]]
 
 John Alden was the last survivor of the signers of the Mayflower Compact. He died at Duxbury[27] on September 12, 1687. Both he and his wife Priscilla lie buried in the Myles Standish Burial Ground.
 

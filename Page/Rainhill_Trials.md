@@ -1,5 +1,3 @@
-Rainhill_Trials_in_the_Illustrated_London_News.jpg
-
 The RAINHILL TRIALS were an important competition run in October 1829, to test George Stephenson's argument that locomotives would provide the best motive power for the then nearly-completed Liverpool and Manchester Railway (L&MR).[1] Five locomotives were entered, running along a length of level track at Rainhill, in Lancashire (now Merseyside).
 
 Stephenson's _Rocket_ was the only locomotive to complete the trials, and was declared the winner. The directors of the L&MR accepted that locomotives should operate services on their new line, and George and Robert Stephenson were given the contract to produce locomotives for the railway.

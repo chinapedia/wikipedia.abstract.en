@@ -1,4 +1,4 @@
-Uranometria_orion.jpg in Bayer's _Uranometria_]]
+in Bayer's _Uranometria_]]
 
 JOHANN BAYER (1572 – 7 March 1625) was a German lawyer and uranographer (celestial cartographer). He was born in Rain, Lower Bavaria, in 1572. At twenty, in 1592 he began his study of philosophy and law at the University of Ingolstadt, after which he moved to Augsburg to begin work as a lawyer, becoming legal adviser to the city council in 1612.[1]
 

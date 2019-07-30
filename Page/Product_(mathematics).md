@@ -9,8 +9,6 @@ Product of two numbers
 
 Product of two natural numbers
 
-Three_by_Four.svg
-
 Placing several stones into a rectangular pattern with r rows and s columns gives
 
 $$r \cdot s = \sum_{i=1}^s r = \underbrace{ r+r+\cdots+r }_{s\text{ times}}= \sum_{j=1}^r s = \underbrace{ s+s+\cdots+s }_{r\text{ times}}$$
@@ -56,7 +54,7 @@ $$\begin{align}
 
 Geometric meaning of complex multiplication
 
-Komplexe_zahlenebene.svg Complex numbers can be written in polar coordinates:
+Complex numbers can be written in polar coordinates:
 
 _a_ + _b_ _i_ = _r_ ⋅ (cos (_φ_) + _i_sin (_φ_)) = _r_ ⋅ _e_^(_i__φ_)
 Furthermore,
@@ -93,8 +91,6 @@ and multiplied:
 $$(a+N\Z) \cdot (b+N\Z) = a\cdot b + N\Z$$
 
 Convolution
-
-Convolucion_Funcion_Pi.gif
 
 Two functions from the reals to itself can be multiplied in another way, called the convolution.
 

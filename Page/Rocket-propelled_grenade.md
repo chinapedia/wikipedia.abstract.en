@@ -1,4 +1,4 @@
-RPG-7_detached.jpg launcher. For use, the thinner cylinder part of the rocket-propelled grenade is inserted into the muzzle of the launcher.]] 2011._День_защиты_детей_в_Донецке_046.jpg, RPG-22, RPG-26, RPG-18. ]]
+launcher. For use, the thinner cylinder part of the rocket-propelled grenade is inserted into the muzzle of the launcher.]] , RPG-22, RPG-26, RPG-18. ]]
 
 A ROCKET-PROPELLED GRENADE (often abbreviated RPG) is a shoulder-fired anti-tank weapon system that fires rockets equipped with an explosive warhead. Most RPGs can be carried by an individual soldier. These warheads are affixed to a rocket motor which propels the RPG towards the target and they are stabilized in flight with fins. Some types of RPG are reloadable with new rocket-propelled grenades, while others are single-use. RPGs, with some exceptions, are generally loaded from the muzzle.[1]
 
@@ -21,20 +21,18 @@ Anti-tank guns deployed during World War II were manned by specialist infantry r
 
 First shaped charge, portable weapons
 
-Bundesarchiv_Bild_101I-672-7634-13,_Russland,_Luftwaffensoldat_mit_Panzerabwehrwaffe.jpg, a forerunner of modern-day RPGs]] Nvarpgteam.jpg.]]
+, a forerunner of modern-day RPGs]] .]]
 
 The RPG has its roots in the 20th century with the early development of the explosive shaped charge, in which the explosive is made in a pointed cone shape,[17] which concentrates its power on the impact point. Before the adoption of the shaped charge, anti-tank guns and tank guns relied primarily on kinetic energy of metal shells to defeat armor. Soldier-carried anti-tank rifles such as the Boys anti-tank rifle could be used against lightly-armoured tankettes and light armoured vehicles. However, as tank armor increased in thickness and effectiveness, the anti-tank guns needed to defeat them became increasingly heavy, cumbersome and expensive. During WW II, as tank armor got thicker, larger calibre anti-tank guns were developed to defeat this thicker armour.
 
 While larger anti-tank guns were more effective, the weight of these anti-tank guns meant that they increasingly were mounted on wheeled, towed platforms. This meant that if the infantry was on foot, they might not have access to these wheeled, vehicle-towed anti-tank guns. This led to situations where infantry could find themselves defenseless against tanks and unable to attack tanks. Armies found that they needed to give infantry a human-portable (i.e., can be carried by one soldier) weapon to defeat enemy armor when no wheeled anti-tank guns were available, since anti tank rifles were no longer effective. Initial attempts to put such weapons in the hands of the infantry resulted in weapons like the Soviet RPG-40 "blast effect" hand grenade (where "RPG" stood for _ruchnaya protivotankovaya granata_, meaning hand-held anti-tank grenade). The later RPG-43 and RPG-6 used shaped charges, the chemical energy of their explosive being used more efficiently to enable the defeat of thicker armor; however, being hand thrown weapons, they still had to be deployed at suicidally close range to be effective. What was needed was a means of delivering the shaped charge warhead from a distance. Different approaches to this goal would lead to the anti-tank spigot mortar, the recoilless rifle and, from the development of practical rocketry, the rocket propelled grenade.
 
-Research occasioned by World War II produced such weapons as the American Bazooka and German Panzerfaust, which combined portability with effectiveness against armored vehicles, such as tanks. The Soviet-developed RPG-7 is the most widely distributed, recognizable and used RPG in the world.[18] The basic design of this RPG was developed by the Soviets shortly after World War II in the form of the RPG-2, which is similar in function to the Bazooka (due to the reloadability) and the Panzerfaust (due to an oversized grenade that protrudes outside of a smaller launch tube and the recoilless launch), though the rounds it fires lack a form of propulsion in addition to the launch charge (unlike the RPG-7 rounds, which also feature a sustainer motor, effectively making the rounds rocket propelled grenades). Obus_501556_fh000021.jpg round with the inner shaped charge visible]]
+Research occasioned by World War II produced such weapons as the American Bazooka and German Panzerfaust, which combined portability with effectiveness against armored vehicles, such as tanks. The Soviet-developed RPG-7 is the most widely distributed, recognizable and used RPG in the world.[18] The basic design of this RPG was developed by the Soviets shortly after World War II in the form of the RPG-2, which is similar in function to the Bazooka (due to the reloadability) and the Panzerfaust (due to an oversized grenade that protrudes outside of a smaller launch tube and the recoilless launch), though the rounds it fires lack a form of propulsion in addition to the launch charge (unlike the RPG-7 rounds, which also feature a sustainer motor, effectively making the rounds rocket propelled grenades). round with the inner shaped charge visible]]
 
-Soviet RPGs were used extensively during the Vietnam War (by the Vietnam People's Army and Vietcong),[19] as well as during the Soviet invasion of Afghanistan by the Mujahideen and against South Africans in Angola and Namibia (formerly South West Africa) by SWAPO guerillas during what the South Africans called the South African Border War. In the 2000s, they were still being used widely in conflict areas such as Chechnya, Iraq, and Sri Lanka. Militants have also used RPGs against helicopters: Taliban fighters shot down U.S. CH-47 Chinook helicopters in June 2005 and August 2011; and Somali militiamen shot down two U.S. UH-60 Black Hawk helicopters during the Battle of Mogadishu in 1993. CumulativeHead.png trigger]]
+Soviet RPGs were used extensively during the Vietnam War (by the Vietnam People's Army and Vietcong),[19] as well as during the Soviet invasion of Afghanistan by the Mujahideen and against South Africans in Angola and Namibia (formerly South West Africa) by SWAPO guerillas during what the South Africans called the South African Border War. In the 2000s, they were still being used widely in conflict areas such as Chechnya, Iraq, and Sri Lanka. Militants have also used RPGs against helicopters: Taliban fighters shot down U.S. CH-47 Chinook helicopters in June 2005 and August 2011; and Somali militiamen shot down two U.S. UH-60 Black Hawk helicopters during the Battle of Mogadishu in 1993. trigger]]
 
 
 Design
-
-Mongolian_soldier_with_RPG_in_2005.jpg
 
 The RPG warhead being used against tanks and other armour often has a shaped charge explosive warhead. A shaped charge is an explosive charge shaped to focus the effect of the explosive's energy. Various types are used to penetrate tank armour; typical modern lined shaped charge can penetrate steel armor to a depth of seven or more times the diameter of the charge (charge diameters, CD), though greater depths of 10 CD and above[20] have been achieved. Despite the popular misconception that shaped charges "melt" tank armour, the shaped charge does not depend in any way on heating or melting for its effectiveness; that is, the liquid metal jet from a shaped charge impact on armour forms mainly due to a sudden and intense mechanical stress and does not melt its way through armor, as its effect is purely due to kinetic energy in nature.
 
@@ -46,7 +44,7 @@ An RPG is an inexpensive way of delivering an explosive payload or warhead over 
 
 Warheads
 
-Krtsanisi_National_Training_Center,_Georgia_(5).jpg soldiers prepare to fire a rocket propelled grenade]] Rebel_in_northern_Central_African_Republic_04.jpg ASC_Leiden_-_Coutinho_Collection_-_19_11_-_Manten_military_base_in_the_liberated_areas,_Guinea-Bissau_-_1974.tif
+soldiers prepare to fire a rocket propelled grenade]]
 
 The HEAT (high explosive anti-tank) round is a standard shaped charge warhead, similar in concept to those used in many tank cannon rounds. In this type of warhead, the shape of the explosive material within the warhead focuses the explosive energy on a copper (or similar metal) lining. This heats the metal lining and propels some of it forward at a very high velocity in a highly plastic state. The resulting narrow jet of metal can defeat armor equivalent to several hundred millimeters of RHA, such as that used in light and medium armored vehicles. However, heavily armored vehicles, such as main battle tanks, are generally too well armored to be penetrated by an RPG, unless weaker sections of the armor are exploited. Various warheads are also capable of causing secondary damage to vulnerable systems (especially sights, tracks, rear and roof of turrets) and other soft targets. The warhead detonates on impact or when the fuse runs out; usually the fuse is set to the maximum burn of the rocket motor, but it can be shortened for improvised anti aircraft purposes.[21]
 
@@ -176,7 +174,7 @@ Ukraine
 
 Tactics
 
-RPG_soldier_and_squad.jpg ISF_member_armed_with_RPG-7.jpg member with an RPG-7]]
+member with an RPG-7]]
 
 One of the first instances the weapon was used by militants was on 13 January 1975 at Orly Airport in France, when Carlos the Jackal, together with another member from the PFLP, used two Soviet RPG-7 grenades to attack an Israeli El Al airliner. Both missed the target, with one hitting a Yugoslav Airlines's DC-9 instead.[40]
 

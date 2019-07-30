@@ -1,4 +1,4 @@
-Nahum-prophet.jpg icon of the Prophet Nahum, 18th century (Iconostasis of Transfiguration Church, Kizhi Monastery, Karelia, Russia).]]
+icon of the Prophet Nahum, 18th century (Iconostasis of Transfiguration Church, Kizhi Monastery, Karelia, Russia).]]
 
 NAHUM ( or ; _Naḥūm_) was a minor prophet whose prophecy is recorded in the Hebrew Bible or Old Testament. His book comes in chronological order between Micah and Habakkuk in the Bible.[1] He wrote about the end of the Assyrian Empire, and its capital city, Nineveh, in a vivid poetic style.[2]
 
@@ -10,7 +10,7 @@ Little is known about Nahum's personal history. His name means "comforter," and 
 
 Works
 
-Nahum.jpg)]] Nahum's writings could be taken as prophecy or as history. One account suggests that his writings are a prophecy written in about 615 BC, just before the downfall of Assyria, while another account suggests that he wrote this passage as liturgy just after its downfall in 612 BC.[4][5]
+)]] Nahum's writings could be taken as prophecy or as history. One account suggests that his writings are a prophecy written in about 615 BC, just before the downfall of Assyria, while another account suggests that he wrote this passage as liturgy just after its downfall in 612 BC.[4][5]
 
 The book was introduced in Reformation theologian Calvin's Commentary[6] as a complete and finished poem:
 

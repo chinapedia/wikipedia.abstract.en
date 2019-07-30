@@ -17,7 +17,7 @@ Three-and-a-half years later, the stated intention to punish the Germans was muc
 
 British War Cabinet documents, released on 2 January 2006, showed that as early as December 1944 the Cabinet had discussed their policy for the punishment of the leading Nazis if captured. The British Prime Minister, Winston Churchill, had then advocated a policy of summary execution in some circumstances, with the use of an Act of Attainder to circumvent legal obstacles, being dissuaded from this only by talks with US and Soviet leaders later in the war.[5]
 
-Nuremberg_Trials_retouched.jpg (at the left edge on the first row of benches), considered to be the most important surviving official in the Third _Reich_ after Hitler's death.]] In late 1943, during the Tripartite Dinner Meeting at the Tehran Conference, the Soviet leader, Joseph Stalin, proposed executing 50,000–100,000 German staff officers. US President Franklin D. Roosevelt joked that perhaps 49,000 would do. Churchill, believing them to be serious, denounced the idea of "the cold blooded execution of soldiers who fought for their country" and that he would rather be "taken out in the courtyard and shot" himself than partake in any such action. However, he also stated that war criminals must pay for their crimes and that, in accordance with the Moscow Document which he himself had written, they should be tried at the places where the crimes were committed. Churchill was vigorously opposed to executions "for political purposes."[6][7] According to the minutes of a meeting between Roosevelt and Stalin at Yalta, on 4 February 1945, at the Livadia Palace, President Roosevelt "said that he had been very much struck by the extent of German destruction in Crimea and therefore he was more bloodthirsty in regard to the Germans than he had been a year ago, and he hoped that Marshal Stalin would again propose a toast to the execution of 50,000 officers of the German Army."[8]
+(at the left edge on the first row of benches), considered to be the most important surviving official in the Third _Reich_ after Hitler's death.]] In late 1943, during the Tripartite Dinner Meeting at the Tehran Conference, the Soviet leader, Joseph Stalin, proposed executing 50,000–100,000 German staff officers. US President Franklin D. Roosevelt joked that perhaps 49,000 would do. Churchill, believing them to be serious, denounced the idea of "the cold blooded execution of soldiers who fought for their country" and that he would rather be "taken out in the courtyard and shot" himself than partake in any such action. However, he also stated that war criminals must pay for their crimes and that, in accordance with the Moscow Document which he himself had written, they should be tried at the places where the crimes were committed. Churchill was vigorously opposed to executions "for political purposes."[6][7] According to the minutes of a meeting between Roosevelt and Stalin at Yalta, on 4 February 1945, at the Livadia Palace, President Roosevelt "said that he had been very much struck by the extent of German destruction in Crimea and therefore he was more bloodthirsty in regard to the Germans than he had been a year ago, and he hoped that Marshal Stalin would again propose a toast to the execution of 50,000 officers of the German Army."[8]
 
 Henry Morgenthau Jr., US Secretary of the Treasury, suggested a plan for the total denazification of Germany;[9] this was known as the Morgenthau Plan. The plan advocated the forced de-industrialisation of Germany and the summary execution of so-called "arch-criminals", i.e. the major war criminals.[10] Roosevelt initially supported this plan, and managed to convince Churchill to support it in a less drastic form. Later, details were leaked generating widespread condemnation by the nation's newspapers. Roosevelt, aware of strong public disapproval, abandoned the plan, but did not adopt an alternative position on the matter. The demise of the Morgenthau Plan created the need for an alternative method of dealing with the Nazi leadership. The plan for the "Trial of European War Criminals" was drafted by Secretary of War Henry L. Stimson and the War Department. Following Roosevelt's death in April 1945, the new president, Harry S. Truman, gave strong approval for a judicial process. After a series of negotiations between Britain, the US, Soviet Union and France, details of the trial were worked out. The trials were to commence on 20 November 1945, in the Bavarian city of Nuremberg.
 
@@ -30,7 +30,7 @@ Some 200 German war crimes defendants were tried at Nuremberg, and 1,600 others 
 
 Location
 
-Ostbau_Justizpalast_Nürnberg.jpg Leipzig and Luxembourg were briefly considered as the location for the trial. The Soviet Union had wanted the trials to take place in Berlin, as the capital city of the 'fascist conspirators', but Nuremberg was chosen as the site for two reasons, with the first one having been the decisive factor:[11]
+Leipzig and Luxembourg were briefly considered as the location for the trial. The Soviet Union had wanted the trials to take place in Berlin, as the capital city of the 'fascist conspirators', but Nuremberg was chosen as the site for two reasons, with the first one having been the decisive factor:[11]
 
 1.  The Palace of Justice was spacious and largely undamaged (one of the few buildings that had remained largely intact through extensive Allied bombing of Germany), and a large prison was also part of the complex.
 2.  Nuremberg was considered the ceremonial birthplace of the Nazi Party. It had hosted the Party's annual propaganda rallies and the Reichstag session that passed the Nuremberg Laws.[12] Thus it was considered a fitting place to mark the Party's symbolic demise.
@@ -41,7 +41,7 @@ Most of the accused had previously been detained at Camp Ashcan, a processing st
 
 Participants
 
-Each of the four countries provided one judge and an alternative, as well as a prosecutor. View_of_judges_panel_during_testimony_Nuremberg_Trials_1945.jpeg, Nikitchenko, Birkett, Sir Geoffrey Lawrence, Biddle, Parker, Donnedieu de Vabres and Falco]]
+Each of the four countries provided one judge and an alternative, as well as a prosecutor. , Nikitchenko, Birkett, Sir Geoffrey Lawrence, Biddle, Parker, Donnedieu de Vabres and Falco]]
 
 Judges
 
@@ -69,8 +69,6 @@ Defence counsel
 
 The vast majority of the defense attorneys were German lawyers. These included Georg Fröschmann, Heinz Fritz (Hans Fritzsche), Otto Kranzbühler (Karl Dönitz), Otto Pannenbecker (Wilhelm Frick), Alfred Thoma (Alfred Rosenberg), Kurt Kauffmann (Ernst Kaltenbrunner), Hans Laternser (general staff and high command), Franz Exner (Alfred Jodl), Alfred Seidl (Hans Frank), Otto Stahmer (Hermann Göring), Walter Ballas (Gustav Krupp von Bohlen und Halbach), Hans Flächsner (Albert Speer), Günther von Rohrscheidt (Rudolf Hess), Egon Kubuschok (Franz von Papen), Robert Servatius (Fritz Sauckel), Fritz Sauter (Joachim von Ribbentrop), Walther Funk (Baldur von Schirach), Hanns Marx (Julius Streicher), Otto Nelte (Wilhelm Keitel), and Herbert Kraus/Rudolph Dix (both working for Hjalmar Schacht). The main counsel were supported by a total of 70 assistants, clerks and lawyers.[21] The defense witnesses included several men who took part in the war crimes during World War II, such as Rudolf Höss. The men testifying for the defense hoped to receive more lenient sentences. All of the men testifying on behalf of the defense were found guilty on several counts.[22]
 
-Defendants_in_the_dock_at_nuremberg_trials.jpg
-
 
 The trial
 
@@ -85,66 +83,64 @@ The indictments were for:
 
 The 24 accused were, with respect to each charge, either indicted but not convicted (I), indicted and found guilty (G), or not charged (—), as listed below by defendant, charge, and eventual outcome:
 
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Photos                                                               | Name                                                                   | Count | Penalty | Notes |
-+======================================================================+========================================================================+=======+=========+=======+
-| 1                                                                    | 2                                                                      | 3     | 4       |       |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_183-R14128A,_Martin_Bormann.jpg                    | data-sort-value="Bormann, Martin"|Martin Bormann                       | I     | —       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Nazi_Personalities-_Grossadmiral_Karl_Doenitz_(1891-1984)_A14899.jpg | data-sort-value="Dönitz, Karl"|Karl Dönitz                             | I     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_146-1989-011-13,_Hans_Frank.jpg                    | data-sort-value="Frank, Hans"|Hans Frank                               | I     | —       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Wilhelm_Frick_72-919.jpg                                             | data-sort-value="Frick, Wilhelm"|Wilhelm Frick                         | I     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Hans_Fritzsche.jpg                                                   | data-sort-value="Fritzsche, Hans"|Hans Fritzsche                       | I     | -       | I     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Waltherfunk45.jpg                                                    | data-sort-value="Funk, Walther"|Walther Funk                           | I     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_102-13805,_Hermann_Göring.jpg                      | data-sort-value="Göring, Hermann" |                                    | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_146II-849,_Rudolf_Heß.jpg                          | data-sort-value="Hess, Rudolf"|Rudolf Hess                             | G     | G       | I     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Alfred_Jodl_USA-E-Ardennes-2.jpg                                     | data-sort-value="Jodl, Alfred"|Alfred Jodl                             | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Ernst_Kaltebrunner_in_Nurnberg.jpg                                   | data-sort-value="Kaltenbrunner, Ernst"|Ernst Kaltenbrunner             | I     | —       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_183-H30220,_Wilhelm_Keitel.jpg                     | data-sort-value="Keitel, Wilhelm"|Wilhelm Keitel                       | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_102-12331,_Gustav_Krupp_von_Bohlen_und_Halbach.jpg | data-sort-value="Krupp, Gustav"|Gustav Krupp von Bohlen und Halbach    |   |I  | -       | I     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_183-2008-0922-501,_Robert_Ley.jpg                  | data-sort-value="Ley, Robert"|Robert Ley                               | I     | -       | I     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Konstantin_von_Neurath_crop.jpg                                      | data-sort-value="Neurath, Konstantin von"|Baron Konstantin von Neurath | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Vonpapen1.jpg                                                        | data-sort-value="Papen, Franz von"|Franz von Papen                     | I     | I       | —     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Erich_Raeder.jpg                                                     | data-sort-value="Raeder, Erich"|Erich Raeder                           | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| GERibbentrop.jpg                                                     | data-sort-value="Ribbentrop, Joachim von"|Joachim von Ribbentrop       | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Bundesarchiv_Bild_183-1985-0723-500,_Alfred_Rosenberg.jpg            | data-sort-value="Rosenberg, Alfred"|Alfred Rosenberg                   | G     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Fritz_Sauckel2.jpg                                                   | data-sort-value="Sauckel, Fritz"|Fritz Sauckel                         | I     | I       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| HSchacht.jpg                                                         | data-sort-value="Schacht, Hjalmar"|Dr. Hjalmar Schacht                 | I     | I       | —     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Joachim_von_Ribbentrop_and_Baldur_von_Schirach_crop.jpg              | data-sort-value="Schirach, Baldur von"|Baldur von Schirach             | I     | —       | —     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Inquart_crop.jpg                                                     | data-sort-value="Seyss-Inquart, Arthur"|Arthur Seyss-Inquart           | I     | G       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Albert-Speer-72-929.jpg                                              | data-sort-value="Speer, Albert"|Albert Speer                           | I     | I       | G     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
-| Julius_Streicher_72-920_crop.jpg                                     | data-sort-value="Streicher, Julius"|Julius Streicher                   | I     | —       | —     |
-+----------------------------------------------------------------------+------------------------------------------------------------------------+-------+---------+-------+
++--------+------------------------------------------------------------------------+-------+---------+-------+
+| Photos | Name                                                                   | Count | Penalty | Notes |
++========+========================================================================+=======+=========+=======+
+| 1      | 2                                                                      | 3     | 4       |       |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Bormann, Martin"|Martin Bormann                       | I     | —       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Dönitz, Karl"|Karl Dönitz                             | I     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Frank, Hans"|Hans Frank                               | I     | —       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Frick, Wilhelm"|Wilhelm Frick                         | I     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Fritzsche, Hans"|Hans Fritzsche                       | I     | -       | I     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Funk, Walther"|Walther Funk                           | I     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Göring, Hermann" |                                    | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Hess, Rudolf"|Rudolf Hess                             | G     | G       | I     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Jodl, Alfred"|Alfred Jodl                             | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Kaltenbrunner, Ernst"|Ernst Kaltenbrunner             | I     | —       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Keitel, Wilhelm"|Wilhelm Keitel                       | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Krupp, Gustav"|Gustav Krupp von Bohlen und Halbach    |   |I  | -       | I     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Ley, Robert"|Robert Ley                               | I     | -       | I     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Neurath, Konstantin von"|Baron Konstantin von Neurath | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Papen, Franz von"|Franz von Papen                     | I     | I       | —     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Raeder, Erich"|Erich Raeder                           | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Ribbentrop, Joachim von"|Joachim von Ribbentrop       | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Rosenberg, Alfred"|Alfred Rosenberg                   | G     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Sauckel, Fritz"|Fritz Sauckel                         | I     | I       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Schacht, Hjalmar"|Dr. Hjalmar Schacht                 | I     | I       | —     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Schirach, Baldur von"|Baldur von Schirach             | I     | —       | —     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Seyss-Inquart, Arthur"|Arthur Seyss-Inquart           | I     | G       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Speer, Albert"|Albert Speer                           | I     | I       | G     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
+|        | data-sort-value="Streicher, Julius"|Julius Streicher                   | I     | —       | —     |
++--------+------------------------------------------------------------------------+-------+---------+-------+
 
 
 Intelligence tests and psychiatric assessments
 
 The Rorschach test was administered to the defendants, along with the Thematic Apperception Test and a German adaptation of the Wechsler-Bellevue Intelligence Test. All were above average intelligence, several considerably so.[26]
-
-The_defendants_at_Nuremberg_Trials.jpg
 
   Name                      I.Q.[27][28]
   ------------------------- --------------
@@ -174,7 +170,7 @@ Throughout the trials, specifically between January and July 1946, the defendant
 
 Overview of the trial
 
-Goering_on_trial_(color).jpg under cross-examination]] thumbtime=2 1946-10-08_21_Nazi_Chiefs_Guilty.ogv
+under cross-examination]] thumbtime=2
 
 -   20 November 1945: Start of the trials.
 -   21 November 1945: Judge Robert H. Jackson opens for the prosecution with a speech lasting several hours, leaving an impression on both the court and the public.
@@ -210,7 +206,7 @@ The accusers were successful in unveiling the background of developments leading
 
 Executions
 
-Goering-corpse.jpg The death sentences were carried out on 16 October 1946 by hanging using the standard drop method instead of long drop. The U.S. Army denied claims that the drop length was too short which caused the condemned to die slowly from strangulation instead of quickly from a broken neck,[33] but evidence remains that some of the condemned men died agonizingly slowly, struggling for 14 to 28 minutes before finally choking to death.[34][35] The executioner was John C. Woods.[36] The executions took place in the gymnasium of the court building (demolished in 1983).[37]
+The death sentences were carried out on 16 October 1946 by hanging using the standard drop method instead of long drop. The U.S. Army denied claims that the drop length was too short which caused the condemned to die slowly from strangulation instead of quickly from a broken neck,[33] but evidence remains that some of the condemned men died agonizingly slowly, struggling for 14 to 28 minutes before finally choking to death.[34][35] The executioner was John C. Woods.[36] The executions took place in the gymnasium of the court building (demolished in 1983).[37]
 
 Although the rumor has long persisted that the bodies were taken to Dachau and burned there, they were actually incinerated in a crematorium in Munich, and the ashes scattered over the river Isar. The French judges suggested that the military condemned (Göring, Keitel and Jodl) be shot by a firing squad, as is standard for military courts-martial, but this was opposed by Biddle and the Soviet judges, who argued that the military officers had violated their military ethos and were not worthy of death by being shot, which was considered to be more dignified. The prisoners sentenced to incarceration were transferred to Spandau Prison in 1947.
 
@@ -250,7 +246,7 @@ Other trials conducted after the first Nuremberg trial include the following:
 
 American role in the trial
 
-Jackson_Nuremberg_color.jpg While Sir Geoffrey Lawrence of Britain was the judge chosen as president of the court, the most prominent of the judges at trial arguably was his American counterpart, Francis Biddle. Prior to the trial, Biddle had been Attorney General of the United States but had been asked to resign by Truman earlier in 1945.
+While Sir Geoffrey Lawrence of Britain was the judge chosen as president of the court, the most prominent of the judges at trial arguably was his American counterpart, Francis Biddle. Prior to the trial, Biddle had been Attorney General of the United States but had been asked to resign by Truman earlier in 1945.
 
 Some accounts argue that Truman had appointed Biddle as the main American judge for the trial as an apology for asking for his resignation. Ironically, Biddle was known during his time as Attorney General for opposing the idea of prosecuting Nazi leaders for crimes committed before the beginning of the war, even sending out a memorandum on 5 January 1945 on the subject. The note also expressed Biddle's opinion that instead of proceeding with the original plan for prosecuting entire organizations, there should simply be more trials that would prosecute specific offenders.
 
@@ -266,8 +262,6 @@ Thomas Dodd was a prosecutor for the United States. There was an immense amount 
 
 
 Legacy
-
-S95CrucifixCourtroomNuremberg.jpg
 
 The Tribunal is celebrated for establishing that "[c]rimes against international law are committed by men, not by abstract entities, and only by punishing individuals who commit such crimes can the provisions of international law be enforced." The creation of the IMT was followed by trials of lesser Nazi officials and the trials of Nazi doctors, who performed experiments on people in prison camps. It served as the model for the International Military Tribunal for the Far East which tried Japanese officials for crimes against peace and against humanity. It also served as the model for the Eichmann trial and for present-day courts at The Hague, for trying crimes committed during the Balkan wars of the early 1990s, and at Arusha, for trying the people responsible for the genocide in Rwanda.
 
@@ -312,7 +306,7 @@ The validity of the court has been questioned on a number of grounds:
 
 Legitimacy
 
-David_Maxwell_Fyfe_and_another.jpg (at lectern, left) and an unknown prosecutor]]
+(at lectern, left) and an unknown prosecutor]]
 
 One criticism that was made of the IMT was that some treaties were not binding on the Axis powers because they were not signatories. This was addressed in the judgment relating to war crimes and crimes against humanity,[50] which contains an expansion of customary law: "[[Hague_Convention_of_1907|the [Hague] Convention]] expressly stated that it was an attempt 'to revise the general laws and customs of war,' which it thus recognised to be then existing, but by 1939 these rules laid down in the Convention were recognised by all civilised nations, and were regarded as being declaratory of the laws and customs of war which are referred to in Article 6 (b) of the [London] Charter."
 

@@ -3,7 +3,7 @@ JAN DŁUGOSZ (; 1 December 1415 – 19 May 1480), also known as IOANNES, JOANNE
 
 Life
 
-Jan_Długosz_1.PNG Jan Długosz is best known for his _Annales seu cronici incliti regni Poloniae_ (_Annals or Chronicles of the Famous Kingdom of Poland_), covering events in southeastern Europe, but also in Western Europe, from 965 to 1480, the year he died.[1] His work was first printed in 1701-1703. Whenever he bothers to mention himself in the book, he writes of himself in the third person. He belonged to the Wieniawa coat-of-arms.
+Jan Długosz is best known for his _Annales seu cronici incliti regni Poloniae_ (_Annals or Chronicles of the Famous Kingdom of Poland_), covering events in southeastern Europe, but also in Western Europe, from 965 to 1480, the year he died.[1] His work was first printed in 1701-1703. Whenever he bothers to mention himself in the book, he writes of himself in the third person. He belonged to the Wieniawa coat-of-arms.
 
 Długosz was a canon at Kraków, educated in the University of Krakow. He was sent by King Casimir IV Jagiellon of Poland on diplomatic missions to the Papal and Imperial courts, and was involved in the King's negotiations with the Teutonic Knights during the Thirteen Years' War (1454–66) and at the peace negotiations.
 

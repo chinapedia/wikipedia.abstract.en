@@ -1,4 +1,4 @@
-Ingemar_Johansson_and_Floyd_Pattersson_1959.JPG knocks Floyd Patterson out, becoming boxing heavyweight champion of the world (June 26, 1959)]] Muhammad_Ali_fights_Brian_London_on_August_6,_1966.jpg delivers one to Brian London and wins the heavyweight championship by third-round KO (August 6, 1966)]] A KNOCKOUT (abbreviated to KO or K.O.) is a fight-ending, winning criterion in several full-contact combat sports, such as boxing, kickboxing, muay thai, mixed martial arts, karate, some forms of taekwondo and other sports involving striking, as well as fighting-based video games. A full knockout is considered any legal strike or combination thereof that renders an opponent unable to continue fighting.
+knocks Floyd Patterson out, becoming boxing heavyweight champion of the world (June 26, 1959)]] delivers one to Brian London and wins the heavyweight championship by third-round KO (August 6, 1966)]] A KNOCKOUT (abbreviated to KO or K.O.) is a fight-ending, winning criterion in several full-contact combat sports, such as boxing, kickboxing, muay thai, mixed martial arts, karate, some forms of taekwondo and other sports involving striking, as well as fighting-based video games. A full knockout is considered any legal strike or combination thereof that renders an opponent unable to continue fighting.
 
 The term is often associated with a sudden traumatic loss of consciousness caused by a physical blow. Single powerful blows to the head (particularly the jawline and temple) can produce a cerebral concussion or a carotid sinus reflex with syncope and cause a sudden, dramatic KO. Body blows, particularly the liver punch, can cause progressive, debilitating pain that can also result in a KO.
 
@@ -11,7 +11,7 @@ In fighting-based video games, such as _Street Fighter_ and _Tekken_, a player s
 
 Technical knockout
 
-2017-12-02_Roman_Hardok_-_Jakob_Jakobi_-_DSC2359.jpg A TECHNICAL KNOCKOUT (TKO or T.K.O.), or STOPPAGE, is declared when the referee or official ring physician decides during a round that a fighter cannot safely continue the match for any reason, without the need for an intervening count. In most regions, a TKO is declared when a fighter is knocked down three times in one round.[3] Other reasons for stopping a fight include severe facial lacerations and a fighter's inability to put up a sufficient defense following a knockdown.
+A TECHNICAL KNOCKOUT (TKO or T.K.O.), or STOPPAGE, is declared when the referee or official ring physician decides during a round that a fighter cannot safely continue the match for any reason, without the need for an intervening count. In most regions, a TKO is declared when a fighter is knocked down three times in one round.[3] Other reasons for stopping a fight include severe facial lacerations and a fighter's inability to put up a sufficient defense following a knockdown.
 
 A TKO only occurs if the fight is stopped during a round. If a fighter or his/her cornerman decides to end the fight between rounds, it is ruled a corner retirement or "referee technical decision" (RTD). Both TKO's and corner retirements are counted as knockouts in a fighter's record.
 
@@ -25,7 +25,7 @@ A DOUBLE KNOCKOUT, in both real life combat sports and fighting-based video game
 
 Physical characteristics
 
-SingletonBox-knockout.jpg Little is known about what exactly causes one to be knocked unconscious, but many agree it is related to trauma to the brain stem. This usually happens when the head rotates sharply, often as a result of a strike. There are three general manifestations of such trauma:
+Little is known about what exactly causes one to be knocked unconscious, but many agree it is related to trauma to the brain stem. This usually happens when the head rotates sharply, often as a result of a strike. There are three general manifestations of such trauma:
 
 -   a typical knockout, which results in a sustained (three seconds or more) loss of consciousness (comparable to general anesthesia, when the recipient emerges and has lost memory of the event),
 -   a "flash" knockout, when a very transient (less than three seconds) loss of consciousness occurs (in the context of a knock-down), and the recipient often maintains awareness and memory of the combat
@@ -38,7 +38,7 @@ A fighter who becomes unconscious from a strike with sufficient knockout power i
 
 Knockdown
 
-Box24-knock-down.jpg A KNOCKDOWN occurs when a fighter touches the floor of the ring with any part of the body other than the feet following a hit, but is able to rise back up and continue fighting. The term is also used if the fighter is hanging on to the ropes, caught between the ropes, or is hanging over the ropes and is unable to fall to the floor and cannot protect himself. A knockdown triggers a count by the referee (normally to 10); if the fighter fails the count, then the fight is ended as a KO.[7]
+A KNOCKDOWN occurs when a fighter touches the floor of the ring with any part of the body other than the feet following a hit, but is able to rise back up and continue fighting. The term is also used if the fighter is hanging on to the ropes, caught between the ropes, or is hanging over the ropes and is unable to fall to the floor and cannot protect himself. A knockdown triggers a count by the referee (normally to 10); if the fighter fails the count, then the fight is ended as a KO.[7]
 
 A FLASH KNOCKDOWN is a knockdown where the fighter hits the canvas but recovers quickly enough that a count is not started.[8]
 

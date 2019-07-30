@@ -5,7 +5,7 @@ History and mythology
 
 In ancient times, the constellation was considered an asterism within Centaurus, and was considered to have been an arbitrary animal, killed, or about to be killed, on behalf of, or for, Centaurus.[1] An alternative visualization, attested by Eratosthenes, saw this constellation as a wineskin held by Centaurus.[2] It was not separated from Centaurus until Hipparchus of Bithynia named it _Therion_ (meaning beast) in the 2nd century BC. No particular animal was associated with it until the Latin translation of Ptolemy's work identified it with the wolf.
 
-Sidney_Hall_-_Urania's_Mirror_-_Noctua,_Corvus,_Crater,_Sextans_Uraniæ,_Hydra,_Felis,_Lupus,_Centaurus,_Antlia_Pneumatica,_Argo_Navis,_and_Pyxis_Nautica.jpg'' (1825)]]
+'' (1825)]]
 
 The Greek constellation is probably based on the Babylonian figure known as the Mad Dog (UR.IDIM). This was a strange hybrid creature that combined the head and torso of a man with the legs and tail of a lion (the cuneiform sign 'UR' simply refers to a large carnivore; lions, wolves and dogs are all included). It is often found in association with the sun god and another mythical being called the Bison-man, which is supposedly related to the Greek constellation of Centaurus.[3]
 
@@ -17,7 +17,7 @@ Lupus is bordered by six different constellations, although one of them (Hydra) 
 
 Features
 
-Constellation_Lupus.jpg]]
+]]
 
 Stars
 
@@ -29,7 +29,7 @@ Alpha Lupi is an ageing blue giant star of spectral type B1.5 III that is 460 �
 
 Deep-sky objects
 
-NGC_5882_HST.tif NGC 5882 (Credit: HST/NASA/ESA)]] Towards the north of the constellation are globular clusters NGC 5824 and NGC 5986, and close by the dark nebula B 228. To the south are two open clusters, NGC 5822 and NGC 5749, as well as globular cluster NGC 5927 on the eastern border with Norma. On the western border are two spiral galaxies and the Wolf–Rayet planetary nebula IC 4406, containing some of the hottest stars in existence. IC 4406, also called the Retina Nebula, is a cylindrical nebula at a distance of 5,000 light-years. It has dust lanes throughout its center.[10] Another planetary nebula, NGC 5882, is towards the center of the constellation. The transiting exoplanet Lupus-TR-3b lies in this constellation. The historic supernova SN 1006 is described by various sources as appearing on April 30 to May 1, 1006, in the constellation of Lupus.
+NGC 5882 (Credit: HST/NASA/ESA)]] Towards the north of the constellation are globular clusters NGC 5824 and NGC 5986, and close by the dark nebula B 228. To the south are two open clusters, NGC 5822 and NGC 5749, as well as globular cluster NGC 5927 on the eastern border with Norma. On the western border are two spiral galaxies and the Wolf–Rayet planetary nebula IC 4406, containing some of the hottest stars in existence. IC 4406, also called the Retina Nebula, is a cylindrical nebula at a distance of 5,000 light-years. It has dust lanes throughout its center.[10] Another planetary nebula, NGC 5882, is towards the center of the constellation. The transiting exoplanet Lupus-TR-3b lies in this constellation. The historic supernova SN 1006 is described by various sources as appearing on April 30 to May 1, 1006, in the constellation of Lupus.
 
 ESO 274-1 is a spiral galaxy seen from edge-on that requires an amateur telescope with at least 12 inches of aperture to view. It can be found by using Lambda Lupi and Mu Lupi as markers, and can only be seen under very dark skies. It is 9 arcminutes by 0.7 arcminutes with a small, elliptical nucleus.
 

@@ -32,7 +32,7 @@ All quinine salts may be given orally or intravenously (IV); quinine gluconate m
 
 Beverages
 
-Tonic_water_uv.jpg, in normal light and ultraviolet "black light". The quinine content of tonic water causes it to fluoresce under black light.]] Quinine is a flavor component of tonic water and bitter lemon drink mixers. On the soda gun behind many bars, tonic water is designated by the letter "Q" representing quinine.[30]
+, in normal light and ultraviolet "black light". The quinine content of tonic water causes it to fluoresce under black light.]] Quinine is a flavor component of tonic water and bitter lemon drink mixers. On the soda gun behind many bars, tonic water is designated by the letter "Q" representing quinine.[30]
 
 According to tradition, the bitter taste of anti-malarial quinine tonic led British colonials in India to mix it with gin, thus creating the iconic gin and tonic cocktail, which is still popular today.[31] Nowadays, the amount of quinine in tonic is much lower and drinking it against malaria is useless. In the US, quinine is listed as an ingredient in some Diet Snapple flavors, including Cranberry-Raspberry.
 
@@ -66,7 +66,7 @@ Quinine is theorized to be toxic to the malarial pathogen, _Plasmodium falciparu
 
 Chemistry
 
-Robert_Burns_Woodward_in_1965.jpg The UV absorption of quinine peaks around 350 nm (in UVA). Fluorescent emission peaks at around 460 nm (bright blue/cyan hue).[49] Quinine is highly fluorescent (quantum yield ~0.58) in 0.1 M sulfuric acid solution.[50][51]
+The UV absorption of quinine peaks around 350 nm (in UVA). Fluorescent emission peaks at around 460 nm (bright blue/cyan hue).[49] Quinine is highly fluorescent (quantum yield ~0.58) in 0.1 M sulfuric acid solution.[50][51]
 
 Synthesis
 
@@ -74,14 +74,14 @@ Cinchona trees remain the only economically practical source of quinine. However
 
 Biosynthesis
 
-Quinine_Biosynthesis.png In the first step of quinine biosynthesis, the enzyme strictosidine synthase catalyzes a stereoselective Pictet–Spengler reaction between tryptamine and secologanin to yield strictosidine.[54][55] Suitable modification of strictosidine leads to an aldehyde. Hydrolysis and decarboxylation would initially remove one carbon from the iridoid portion and produce corynantheal. Then the tryptamine side-chain were cleaved adjacent to the nitrogen, and this nitrogen was then bonded to the acetaldehyde function to yield cinchonaminal. Ring opening in the indole heterocyclic ring could generate new amine and keto functions. The new quinoline heterocycle would then be formed by combining this amine with the aldehyde produced in the tryptamine side-chain cleavage, giving cinchonidinone. For the last step, hydroxylation and methylation gives quinine.[56][57]
+In the first step of quinine biosynthesis, the enzyme strictosidine synthase catalyzes a stereoselective Pictet–Spengler reaction between tryptamine and secologanin to yield strictosidine.[54][55] Suitable modification of strictosidine leads to an aldehyde. Hydrolysis and decarboxylation would initially remove one carbon from the iridoid portion and produce corynantheal. Then the tryptamine side-chain were cleaved adjacent to the nitrogen, and this nitrogen was then bonded to the acetaldehyde function to yield cinchonaminal. Ring opening in the indole heterocyclic ring could generate new amine and keto functions. The new quinoline heterocycle would then be formed by combining this amine with the aldehyde produced in the tryptamine side-chain cleavage, giving cinchonidinone. For the last step, hydroxylation and methylation gives quinine.[56][57]
 
 
 History
 
 -
 
-Cinchona_calisaya_-_Köhler–s_Medizinal-Pflanzen-179.jpg Quinine was also the first drug used for treatment of malaria.[58] Quinine was used as a muscle relaxant by the Quechua, who are indigenous to Peru, Bolivia and Ecuador, to halt shivering due to low temperatures.[59] The Quechuas would mix the ground bark of cinchona trees with sweetened water to offset the bark's bitter taste, thus producing tonic water.
+Quinine was also the first drug used for treatment of malaria.[58] Quinine was used as a muscle relaxant by the Quechua, who are indigenous to Peru, Bolivia and Ecuador, to halt shivering due to low temperatures.[59] The Quechuas would mix the ground bark of cinchona trees with sweetened water to offset the bark's bitter taste, thus producing tonic water.
 
 The Jesuits were the first to bring cinchona to Europe. The Spanish were aware of the medicinal properties of cinchona bark by the 1570s or earlier: Nicolás Monardes (1571) and Juan Fragoso (1572) both described a tree that was subsequently identified as the cinchona tree and whose bark was used to produce a drink to treat diarrhea.See:
 

@@ -1,11 +1,11 @@
-Ion_channel.pngs (typically four per channel), 2 - outer vestibule, 3 - selectivity filter, 4 - diameter of selectivity filter, 5 - phosphorylation site, 6 - cell membrane.]] ION CHANNELS are pore-forming membrane proteins that allow ions to pass through the channel pore. Their functions include establishing a resting membrane potential, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane, controlling the flow of ions across secretory and epithelial cells, and regulating cell volume. Ion channels are present in the membranes of all excitable cells.[1] Ion channels are one of the two classes of ionophoric proteins, the other being ion transporters.[2]
+s (typically four per channel), 2 - outer vestibule, 3 - selectivity filter, 4 - diameter of selectivity filter, 5 - phosphorylation site, 6 - cell membrane.]] ION CHANNELS are pore-forming membrane proteins that allow ions to pass through the channel pore. Their functions include establishing a resting membrane potential, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane, controlling the flow of ions across secretory and epithelial cells, and regulating cell volume. Ion channels are present in the membranes of all excitable cells.[1] Ion channels are one of the two classes of ionophoric proteins, the other being ion transporters.[2]
 
 The study of ion channels often involves biophysics, electrophysiology, and pharmacology, while using techniques including voltage clamp, patch clamp, immunohistochemistry, X-ray crystallography, fluoroscopy, and RT-PCR. Their classification as molecules is referred to as channelomics.
 
 
 Basic features
 
-My_molecule_image_2.png (PDB: 1K4C).]] There are two distinctive features of ion channels that differentiate them from other types of ion transporter proteins:[3]
+(PDB: 1K4C).]] There are two distinctive features of ion channels that differentiate them from other types of ion transporter proteins:[3]
 
 1.  The rate of ion transport through the channel is very high (often 10⁶ ions per second or greater).
 2.  Ions pass through channels down their electrochemical gradient, which is a function of ion concentration and membrane potential, "downhill", without the input (or help) of metabolic energy (e.g. ATP, co-transport mechanisms, or active transport mechanisms).
@@ -157,7 +157,7 @@ The Nobel Prize in Chemistry for 2003 was awarded to Roderick MacKinnon for his 
 
 Culture
 
-Birth_of_an_Idea.jpg. The sculpture was commissioned by Roderick MacKinnon based on the molecule's atomic coordinates that were determined by MacKinnon's group in 2001.]]
+. The sculpture was commissioned by Roderick MacKinnon based on the molecule's atomic coordinates that were determined by MacKinnon's group in 2001.]]
 
 Roderick MacKinnon commissioned _Birth of an Idea_, a tall sculpture based on the KcsA potassium channel.[38] The artwork contains a wire object representing the channel's interior with a blown glass object representing the main cavity of the channel structure.
 

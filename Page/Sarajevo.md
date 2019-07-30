@@ -24,7 +24,7 @@ File:Sarajevo City Center from Trebevic.JPG|Stari Grad File:Busy Ferhadija stree
 
 Environment
 
-Sarajevo_topographic_map.svg Sarajevo_SPOT_1050.jpg]]
+]]
 
 Geography
 
@@ -42,7 +42,7 @@ The city has an urban area of . Veliki Park (Great park) is the largest green ar
 
 Climate
 
-Bridge_on_Vrelo_Bosne.jpg park is on the city outskirts]] Sarajevo has a humid continental climate (_Dfb_). Sarajevo's climate exhibits influences of oceanic zones, with four seasons and uniformly spread precipitation. The proximity of the Adriatic Sea moderates Sarajevo's climate somewhat, although the mountains to the south of the city greatly reduce this maritime influence.[27] The average yearly temperature is , with January ( on average) being the coldest month of the year and July ( on average) the warmest.
+park is on the city outskirts]] Sarajevo has a humid continental climate (_Dfb_). Sarajevo's climate exhibits influences of oceanic zones, with four seasons and uniformly spread precipitation. The proximity of the Adriatic Sea moderates Sarajevo's climate somewhat, although the mountains to the south of the city greatly reduce this maritime influence.[27] The average yearly temperature is , with January ( on average) being the coldest month of the year and July ( on average) the warmest.
 
 The highest recorded temperature was on 19 August 1946, and on 23 August 2008 (41.0) while the lowest recorded temperature was on 25 January 1942. On average, Sarajevo has 7 days where the temperature exceeds and 4 days where the temperature drops below per year.[28] The city typically experiences mildly cloudy skies, with an average yearly cloud cover of 45%.
 
@@ -71,7 +71,7 @@ Stecak Zmeljaski Muzej Sarajevo.jpg|Stećak in the National Museum of Bosnia and
 
 Ottoman era
 
-Sebilj,_Sarajevo.jpg is a pseudo-Ottoman style wooden fountain in the centre of Baščaršija square.]] Sarajevo was founded by the Ottoman Empire in the 1450s upon its conquest of the region, with 1461 used as the city's founding date. The first Ottoman governor of Bosnia, Isa-Beg Ishaković, transformed the cluster of villages into a city and state capital by building a number of key structures, including a mosque, a closed marketplace, a public bath, a hostel, and of course the governor's castle ("Saray") which gave the city its present name. The mosque was named "Careva Džamija" (the Tsar's Mosque) in honor of the Sultan Mehmed II. With the improvements Sarajevo quickly grew into the largest city in the region. By the 15th Century the settlement was established as a city, named _Bosna-Saraj_, around the citadel in 1461. The name Sarajevo is derived from Turkish _saray ovası_, meaning _the field around saray_.
+is a pseudo-Ottoman style wooden fountain in the centre of Baščaršija square.]] Sarajevo was founded by the Ottoman Empire in the 1450s upon its conquest of the region, with 1461 used as the city's founding date. The first Ottoman governor of Bosnia, Isa-Beg Ishaković, transformed the cluster of villages into a city and state capital by building a number of key structures, including a mosque, a closed marketplace, a public bath, a hostel, and of course the governor's castle ("Saray") which gave the city its present name. The mosque was named "Careva Džamija" (the Tsar's Mosque) in honor of the Sultan Mehmed II. With the improvements Sarajevo quickly grew into the largest city in the region. By the 15th Century the settlement was established as a city, named _Bosna-Saraj_, around the citadel in 1461. The name Sarajevo is derived from Turkish _saray ovası_, meaning _the field around saray_.
 
 Following the expulsion of Jews from Spain at the end of the 15th century, and the invitation from the Ottoman Empire to resettle their population, Sephardic Jews arrived in Sarajevo, which over time would become a leading center of Sephardic culture and the Ladino language. Though relatively small in size, a Jewish quarter would develop over several blocks in Baščaršija.
 
@@ -89,7 +89,7 @@ Sarajevo-bascarsija at night1.JPG|Baščaršija in twilight Sarajevo Gazi-Husrev
 
 Austria-Hungary
 
-Sarajevo_in_1915.jpg Minutos_previos_al_atentado_en_Sarajevo.jpg arrives at the city hall on the day of his assassination, 28 June 1914]] The_Bridge,_site_of_the_beginning_of_world_war_I.jpg was the site of the assassination of Franz Ferdinand.]]
+arrives at the city hall on the day of his assassination, 28 June 1914]] was the site of the assassination of Franz Ferdinand.]]
 
 Austria-Hungary's occupation of Bosnia and Herzegovina came in 1878 as part of the Treaty of Berlin, and complete annexation followed in 1908, angering the Serbs. Sarajevo was industrialized by Austria-Hungary, who used the city as a testing area for new inventions such as tramways, which were established in 1885 before they were later installed in Vienna. Architects and engineers wanting to help rebuild Sarajevo as a modern European capital rushed to the city. A fire that burned down a large part of the central city area (_čaršija_) left more room for redevelopment. As a result, the city has a unique blend of the remaining Ottoman city market and contemporary western architecture. Sarajevo also has some examples of Secession- and Pseudo-Moorish styles that date from this period.
 
@@ -107,7 +107,7 @@ Glavna posta (2991301799).jpg|Sarajevo Main Post office Npsa 3 (2992157218).jpg|
 
 Yugoslavia
 
-Vladimir_"Valter"_Perić_plaque_in_Sarajevo.jpg plaque]] After World War I and contributions from the Serbian army alongside rebelling Slavic nations in Austria-Hungary, Sarajevo became part of the Kingdom of Yugoslavia. Though it held some political significance as the center of first the Bosnian region and then the Drinska Banovina, the city was no longer a national capital and saw a decline in global influence.[46]
+plaque]] After World War I and contributions from the Serbian army alongside rebelling Slavic nations in Austria-Hungary, Sarajevo became part of the Kingdom of Yugoslavia. Though it held some political significance as the center of first the Bosnian region and then the Drinska Banovina, the city was no longer a national capital and saw a decline in global influence.[46]
 
 During World War II the Kingdom of Yugoslavia's army was overrun by German and Italian forces. Following a German bombing campaign, Sarajevo was captured on 15 April 1941 by the 16th Motorized infantry Division. The Axis powers created the Independent State of Croatia and included Sarajevo in its territory.
 
@@ -125,7 +125,7 @@ File:Sarajevo - Bosnia - War Memorial.jpg|Eternal flame symbolising World War II
 
 Siege of Sarajevo during Bosnian War
 
-Sarajevo_Red_Line_3.jpeg, a memorial event of the Siege of Sarajevo's 20th anniversary. 11,541 empty chairs symbolized 11,541 victims of the war which were killed during the Siege of Sarajevo.[51][52]]]
+, a memorial event of the Siege of Sarajevo's 20th anniversary. 11,541 empty chairs symbolized 11,541 victims of the war which were killed during the Siege of Sarajevo.[51][52]]]
 
 The Bosnian War for independence resulted in large-scale destruction and dramatic population shifts during the Siege of Sarajevo between 1992 and 1996. Thousands of Sarajevans lost their lives under the constant bombardment and sniper shooting at civilians by the Serb forces during the siege,[53] the longest siege of a capital city in the history of modern warfare.[54] Serb forces of the Republika Srpska and the Yugoslav People's Army besieged Sarajevo from 5 April 1992 to 29 February 1996.
 
@@ -150,7 +150,7 @@ Administration
 
 Largest city of Bosnia and Herzegovina
 
-Zgrada_Vijeća_ministara_BiH_Sarajevo.JPG Predsjedništvo_BiH_(2989421535).jpg]]
+]]
 
 Sarajevo is the capital[60] of the country of Bosnia and Herzegovina and its sub-entity, the Federation of Bosnia and Herzegovina, as well as of the Sarajevo Canton. It is also the _de jure_ capital of another entity, Republika Srpska.[61] Each of these levels of government has its parliament or council, as well as judicial courts, in the city. All national institutions and foreign embassies are in Sarajevo.
 
@@ -160,18 +160,18 @@ Bosnia and Herzegovina's Parliament office in Sarajevo was damaged heavily in th
 
 Municipalities and city government
 
-Sarajevo_municipalities.PNG, Centar, Novo Sarajevo and Novi Grad]]
+, Centar, Novo Sarajevo and Novi Grad]]
 
 The city comprises four municipalities Centar, Novi Grad, Novo Sarajevo, and Stari Grad. Each operate their own municipal government, united they form one city government with its own constitution. The executive branch () consists of a mayor, with two deputies and a cabinet. The legislative branch consists of the City Council, or _Gradsko Vijeće_. The council has 28 members, including a council speaker, two deputies, and a secretary. Councilors are elected by the municipality in numbers roughly proportional to their population. The city government also has a judicial branch based on the post-transitional judicial system as outlined by the High Representative's "High Judicial and Prosecutorial Councils".[63]
 
 Sarajevo's Municipalities are further split into "local communities" (Bosnian, _Mjesne zajednice_). Local communities have a small role in city government and are intended as a way for ordinary citizens to get involved in city government. They are based on key neighborhoods in the city.
 
-View_on_Novi_Grad,_Sarajevo.JPG]]
+]]
 
 
 Economy
 
-Centralna_banka_BiH.JPG]]
+]]
 
 Sarajevo's large manufacturing, administrative, and tourism sectors make it the strongest economic region of Bosnia and Herzegovina. Indeed, Sarajevo Canton generates almost 25% of the country's GDP.[64] After years of war, Sarajevo's economy saw reconstruction and rehabilitation programs.[65] The Central Bank of Bosnia and Herzegovina opened in Sarajevo in 1997 and the Sarajevo Stock Exchange began trading in 2002.
 
@@ -199,8 +199,6 @@ Veliki Park Sarajevo.JPG|Great Park _(Veliki Park)_ Koševo Park, Sarajevo.JPG|K
 
 Demographics
 
-Sarajevo_twilight.jpg
-
   ----------------------------------------------------------------------------------------------------------------------------------------
   colspan ="7" style="background: #E9E9E9; font-size: 110%" | ETHNIC COMPOSITION OF SARAJEVO CITY PROPER, BY MUNICIPALITIES, 2013 CENSUS
   MUNICIPALITY
@@ -211,7 +209,7 @@ Sarajevo_twilight.jpg
   TOTAL
   ----------------------------------------------------------------------------------------------------------------------------------------
 
-Sarajevo_-_Etnicki_sastav_po_naseljima_1991_1_L.gif Sarajevo_-_Etnicki_sastav_po_naseljima_2013_1_L.gif The last official Yugoslav census took place 1991 and recorded 527,049 people living in the city of Sarajevo (ten municipalities). In the settlement of Sarajevo proper, there were 416,497 inhabitants.[76] The war displaced hundreds of thousands of people, a large majority of whom have not returned.
+ The last official Yugoslav census took place 1991 and recorded 527,049 people living in the city of Sarajevo (ten municipalities). In the settlement of Sarajevo proper, there were 416,497 inhabitants.[76] The war displaced hundreds of thousands of people, a large majority of whom have not returned.
 
 The first census since Bosnia and Herzegovina became an independent country was not taken until 2013 and as a result, for many years Sarajevo's population was not known clearly and statistics were based on estimates contributed by the United Nations Statistics Division and the Federal Office of Statistics of the Federation of Bosnia and Herzegovina, among other national and international non-profit organizations. , the population of the city's four municipalities was estimated to be 411,161, whereas the Sarajevo Canton population was estimated at 578,757.[77] With an area of , Sarajevo has a population density of about . According to these estimates, the Novo Sarajevo municipality is the most densely populated part of Sarajevo with about , while the least densely populated is the Stari Grad, with .[78]
 
@@ -228,11 +226,11 @@ Transportation
 
 Roads and highways
 
-Ulica_Zmaja_od_Bosne,_Sarajevo_(2).jpg street]] Sarajevo's location in a valley between mountains makes it a compact city. Narrow city streets and a lack of parking areas restrict automobile traffic but allow better pedestrian and cyclist mobility. The two main roads are Titova Ulica (Street of Marshal Tito) and the east-west Zmaj od Bosne (Dragon of Bosnia) highway (E761). Located roughly at the center of the country, Sarajevo is Bosnia's main intersection. The city is connected to all the other major cities by highway or national road like Zenica, Banja Luka, Tuzla, Mostar, Goražde and Foča. Tourists from Central Europe and elsewhere visiting Dalmatia driving via Budapest through Sarajevo also contribute to the traffic congestion in and around Sarajevo. The trans-European highway, Corridor 5C, runs through Sarajevo connecting it to Budapest in the north, and Ploče at the Adriatic sea in the south.[83] The highway is built by the government and should cost 3.5 billion Euro. Up until March 2012, the Federation of Bosnia and Herzegovina invested around 600 million Euro in the A1. In 2014 the sections Sarajevo-Zenica and Sarajevo-Tarcin were completed including the Sarajevo Beltway ring road.
+street]] Sarajevo's location in a valley between mountains makes it a compact city. Narrow city streets and a lack of parking areas restrict automobile traffic but allow better pedestrian and cyclist mobility. The two main roads are Titova Ulica (Street of Marshal Tito) and the east-west Zmaj od Bosne (Dragon of Bosnia) highway (E761). Located roughly at the center of the country, Sarajevo is Bosnia's main intersection. The city is connected to all the other major cities by highway or national road like Zenica, Banja Luka, Tuzla, Mostar, Goražde and Foča. Tourists from Central Europe and elsewhere visiting Dalmatia driving via Budapest through Sarajevo also contribute to the traffic congestion in and around Sarajevo. The trans-European highway, Corridor 5C, runs through Sarajevo connecting it to Budapest in the north, and Ploče at the Adriatic sea in the south.[83] The highway is built by the government and should cost 3.5 billion Euro. Up until March 2012, the Federation of Bosnia and Herzegovina invested around 600 million Euro in the A1. In 2014 the sections Sarajevo-Zenica and Sarajevo-Tarcin were completed including the Sarajevo Beltway ring road.
 
 Tram, bus and trolleybus
 
-Tram_Satra_II,_Sarajevo.JPG Sarajevo's electric tramways, in operation since 1885, are the oldest form of public transportation in the city.[84] Sarajevo had the first full-time (dawn to dusk) tram line in Europe, and the second in the world.[85] Opened on New Year's Day in 1885, it was the testing line for the tram in Vienna and the Austro-Hungarian Empire, and operated by horses. Originally built to , the present system in 1960 was upgraded to . The trams played a pivotal role in the growth of the city in the 20th century.
+Sarajevo's electric tramways, in operation since 1885, are the oldest form of public transportation in the city.[84] Sarajevo had the first full-time (dawn to dusk) tram line in Europe, and the second in the world.[85] Opened on New Year's Day in 1885, it was the testing line for the tram in Vienna and the Austro-Hungarian Empire, and operated by horses. Originally built to , the present system in 1960 was upgraded to . The trams played a pivotal role in the growth of the city in the 20th century.
 
 There are seven tramway lines supplemented by five trolleybus lines and numerous bus routes. The main railroad station in Sarajevo is in the north-central area of the city. From there, the tracks head west before branching off in different directions, including to industrial zones in the city. Sarajevo is undergoing a major infrastructure renewal; many highways and streets are being repaved, the tram system is undergoing modernization, and new bridges and roads are under construction.
 
@@ -246,7 +244,7 @@ Trebević Cable Car, Sarajevo's key landmark during 1984 Winter Olympic Games, w
 
 Airport
 
-SJJAUG2016-2.jpg]]
+]]
 
 Sarajevo International Airport , also called Butmir, is just a few kilometers southwest of the city and was voted Best European Airport With Under 1,000,000 Passengers at the 15th Annual ACI-Europe in Munich in 2005.
 
@@ -314,7 +312,7 @@ Sarajevo's fraternity cities include:[109]
 
 Communications and media
 
-Telescope_on_Avaz_Twist_Tower.JPG, Dnevni avaz headquarters.]]
+, Dnevni avaz headquarters.]]
 
 As the largest city of Bosnia and Herzegovina, Sarajevo is the main center of the country's media. Most of the communications and media infrastructure was destroyed during the war but reconstruction monitored by the Office of the High Representative has helped to modernize the industry as a whole.[122] For example, internet was first made available to the city in 1995.[123]
 
@@ -329,7 +327,7 @@ Many small independent radio stations exist, including established stations such
 
 Education
 
-HIGHER EDUCATION Sarajevo_University_building.JPG]] Sarajevo,_knihovna.jpg]] Higher education has a long and rich tradition in Sarajevo. The first institution that can be classified as a tertiary educational institution was a school of Sufi philosophy established by Gazi Husrev-beg in 1537; numerous other religious schools have been established over time. In 1887, under the Austro-Hungarian Empire, a Sharia Law School began a five-year program.[128] In the 1940s the University of Sarajevo became the city's first secular higher education institute, effectively building upon the foundations established by the Saraybosna Hanıka in 1537. In the 1950s, post-bachelor graduate degrees became available.[129] Severely damaged during the war, it was recently rebuilt in partnership with more than 40 other universities.
+HIGHER EDUCATION ]] ]] Higher education has a long and rich tradition in Sarajevo. The first institution that can be classified as a tertiary educational institution was a school of Sufi philosophy established by Gazi Husrev-beg in 1537; numerous other religious schools have been established over time. In 1887, under the Austro-Hungarian Empire, a Sharia Law School began a five-year program.[128] In the 1940s the University of Sarajevo became the city's first secular higher education institute, effectively building upon the foundations established by the Saraybosna Hanıka in 1537. In the 1950s, post-bachelor graduate degrees became available.[129] Severely damaged during the war, it was recently rebuilt in partnership with more than 40 other universities.
 
 There are also several universities in Sarajevo, including:
 
@@ -349,7 +347,7 @@ There are also several international schools in Sarajevo, catering to the expatr
 
 Culture
 
-National_Museum_of_BiH_Aerial.JPG houses many important historical items from BiH]]
+houses many important historical items from BiH]]
 
 Sarajevo has been home to many different religions for centuries, giving the city a range of diverse cultures. In the time of Ottoman occupation of Bosnia, Muslims, Serbian Orthodox, Roman Catholics, and Sephardi Jews all shared the city while maintaining distinctive identities. They were joined during the brief occupation by Austria-Hungary by a smaller number of Germans, Hungarians, Slovaks, Czechs and Ashkenazi Jews. By 1909, about 50% of the city's inhabitants were Muslim, 25% were Catholic, 15% were Orthodox, and 10% were Jewish.[132]
 
@@ -359,7 +357,7 @@ The Sarajevo National Theatre is the oldest professional theater in Bosnia and H
 
 Museums
 
-Sarajevo_Haggadah.jpg]] The city is rich in museums, including the Museum of Sarajevo, the Ars Aevi Museum of Contemporary Art, Historical Museum of Bosnia and Herzegovina, The Museum of Literature and Theatre Arts of Bosnia and Herzegovina, and the National Museum of Bosnia and Herzegovina (established in 1888) home to the Sarajevo Haggadah,[133] an illuminated manuscript and the oldest Sephardic Jewish document in the world issued in Barcelona around 1350, containing the traditional Jewish Haggadah, is on permanent display at the museum. It is the only remaining illustrated Sephardic Haggadah in the world.[134] The National Museum also hosts year-round exhibitions pertaining to local, regional and international culture and history, and exhibits over 5,000 artefacts from Bosnia's history.
+]] The city is rich in museums, including the Museum of Sarajevo, the Ars Aevi Museum of Contemporary Art, Historical Museum of Bosnia and Herzegovina, The Museum of Literature and Theatre Arts of Bosnia and Herzegovina, and the National Museum of Bosnia and Herzegovina (established in 1888) home to the Sarajevo Haggadah,[133] an illuminated manuscript and the oldest Sephardic Jewish document in the world issued in Barcelona around 1350, containing the traditional Jewish Haggadah, is on permanent display at the museum. It is the only remaining illustrated Sephardic Haggadah in the world.[134] The National Museum also hosts year-round exhibitions pertaining to local, regional and international culture and history, and exhibits over 5,000 artefacts from Bosnia's history.
 
 The Alija Izetbegović Museum was opened on 19 October 2007 and is in the old town fort, more specifically in the Vratnik Kapija towers Ploča and Širokac. The museum is a commemoration to the influence and body of work of Alija Izetbegović, the first president of the Republic of Bosnia and Herzegovina.
 
@@ -383,7 +381,7 @@ American heavy metal band Savatage, released a song entitled "Christmas Eve (Sar
 
 Festivals
 
-Sarajevo_National_Theatre.JPG, where the annual hosting of Sarajevo Film Festival is held]] Sarajevo is internationally renowned for its eclectic and diverse selection of over 50 annual festivals. The Sarajevo Film Festival was established in 1995 during the Bosnian War and has become the premier and largest film festival in South-East Europe.[136] It has been hosted at the National Theater, with screenings at the Open-air theater Metalac and the Bosnian Cultural Center, all in downtown Sarajevo. The MESS International Festival is an experimental theatre festival and the oldest living theatre festival in the Balkans.[137] The annual Sarajevo Youth Film Festival showcases feature, animated and short films from around the world and is the premier student film festival in the Balkans.[138] The Sarajevo Winter Festival, Sarajevo Jazz Festival and Sarajevo International Music Festival are well-known, as is the Baščaršija Nights festival, a month-long showcase of local culture, music, and dance.
+, where the annual hosting of Sarajevo Film Festival is held]] Sarajevo is internationally renowned for its eclectic and diverse selection of over 50 annual festivals. The Sarajevo Film Festival was established in 1995 during the Bosnian War and has become the premier and largest film festival in South-East Europe.[136] It has been hosted at the National Theater, with screenings at the Open-air theater Metalac and the Bosnian Cultural Center, all in downtown Sarajevo. The MESS International Festival is an experimental theatre festival and the oldest living theatre festival in the Balkans.[137] The annual Sarajevo Youth Film Festival showcases feature, animated and short films from around the world and is the premier student film festival in the Balkans.[138] The Sarajevo Winter Festival, Sarajevo Jazz Festival and Sarajevo International Music Festival are well-known, as is the Baščaršija Nights festival, a month-long showcase of local culture, music, and dance.
 
 The first incarnation of the Sarajevo Film Festival was hosted in still-warring Sarajevo in 1995, and has now progressed into being the biggest and most significant festival in south-eastern Europe.[139] A talent campus is also held during the duration of the festival, with lecturers speaking on behalf of world cinematography and holding workshops for film students from across South-Eastern Europe.[140]
 
@@ -391,7 +389,7 @@ The Sarajevo Jazz Festival is the region's largest and most diverse of its kind.
 
 Sports
 
-Yugoslavia_postage_stamps_FDC_(Sarajevo_1984_Winter_Olympics).jpg depicting 1984 Winter Olympics in Sarajevo.]] 20150331_2026_AUT_BIH_2177_Edin_Džeko.jpg football player Edin Džeko was born in Sarajevo. He is the all-time leading goalscorer of the BiH national football team.[141][142]]] Asim_Ferhatović_Hase_Stadium.jpg, home to FK Sarajevo, is largest stadium in Bosnia and Herzegovina.[143]]] Dzumhur_WMQ14_(6)_(14603738381).jpg, a Sarajevo born multi–Grand Slam tennis player.]] Stadion_Grbavica_-_August_2018.jpg.]] Skenderija_Arena_2018.jpg, home venue of KK Bosna.]]
+depicting 1984 Winter Olympics in Sarajevo.]] football player Edin Džeko was born in Sarajevo. He is the all-time leading goalscorer of the BiH national football team.[141][142]]] , home to FK Sarajevo, is largest stadium in Bosnia and Herzegovina.[143]]] , a Sarajevo born multi–Grand Slam tennis player.]] .]] , home venue of KK Bosna.]]
 
 The city hosted the 1984 Winter Olympics. Yugoslavia won one medal, a silver in men's giant slalom awarded to Jure Franko.[144] Many of the Olympic facilities survived the war or were reconstructed, including Olympic Hall Zetra and Asim Ferhatović Stadion. In an attempt to bring back some of Sarajevo's Olympic glory,[145] the original Olympic luge and bobsled tracks are being repaired, due to the efforts of both the Olympic Committee of Bosnia and Herzegovina[146] and local sports enthusiasts.[147] After co-hosting the Southeast Europe Friendship games, Sarajevo was awarded the 2009 Special Olympic winter games,[148] but cancelled these plans.[149][150] The ice arena for the 1984 Olympics, Zetra Stadium, was used during the war as a temporary hospital and, later, for housing NATO troops of the IFOR.
 

@@ -18,11 +18,11 @@ The name _Takau_ remains the official name of the city in Austronesian languages
 
 History
 
-Harbor_Takao.jpg The written history of Kaohsiung can be traced back to the early 17th century, through archaeological studies have found signs of human activity in the region from as long as 7,000 years ago. Prior to the 17th century, the region was inhabited by the Makatao people of the Siraya tribe, who settled on what they named Takau Isle (translated to 打狗嶼 by Ming Chinese explorers); "Takau" meaning "bamboo forest" in the aboriginal language.
+The written history of Kaohsiung can be traced back to the early 17th century, through archaeological studies have found signs of human activity in the region from as long as 7,000 years ago. Prior to the 17th century, the region was inhabited by the Makatao people of the Siraya tribe, who settled on what they named Takau Isle (translated to 打狗嶼 by Ming Chinese explorers); "Takau" meaning "bamboo forest" in the aboriginal language.
 
 Early history
 
-Makatao.jpg]] The earliest evidence of human activity in the Kaohsiung area dates back to roughly 4,700–5,200 years ago. Most of the discovered remnants were located in the hills surrounding Kaohsiung Harbor. Artifacts were found at Shoushan, Longquan Temple, Taoziyuan, Zuoying, Houjing, Fudingjin and Fengbitou. The prehistoric Dapenkeng, Niuchouzi, Dahu, and Niaosong civilizations were known to inhabit the region. Studies of the prehistoric ruins at Longquan Temple have shown that that civilization occurred at roughly the same times as the beginnings of the aboriginal Makatao civilization, suggesting a possible origin for the latter. Unlike some other archaeological sites in the area, the Longquan Temple ruins are relatively well preserved. Prehistoric artifacts discovered have suggested that the ancient Kaohsiung Harbor was originally a lagoon, with early civilizations functioning primarily as hunter-gatherer societies. Some agricultural tools have also been discovered, suggesting that some agricultural activity was also present.
+]] The earliest evidence of human activity in the Kaohsiung area dates back to roughly 4,700–5,200 years ago. Most of the discovered remnants were located in the hills surrounding Kaohsiung Harbor. Artifacts were found at Shoushan, Longquan Temple, Taoziyuan, Zuoying, Houjing, Fudingjin and Fengbitou. The prehistoric Dapenkeng, Niuchouzi, Dahu, and Niaosong civilizations were known to inhabit the region. Studies of the prehistoric ruins at Longquan Temple have shown that that civilization occurred at roughly the same times as the beginnings of the aboriginal Makatao civilization, suggesting a possible origin for the latter. Unlike some other archaeological sites in the area, the Longquan Temple ruins are relatively well preserved. Prehistoric artifacts discovered have suggested that the ancient Kaohsiung Harbor was originally a lagoon, with early civilizations functioning primarily as hunter-gatherer societies. Some agricultural tools have also been discovered, suggesting that some agricultural activity was also present.
 
 The first Chinese records of the region were written in 1603 by Chen Di, a member of Ming admiral Shen You-rong's expedition to rid the waters around Taiwan and Penghu of pirates. In his report on the "Eastern Barbarian Lands" (Dong Fan Ji), Chen Di referred to a Ta-kau Isle:
 
@@ -34,11 +34,11 @@ During this time, Taiwan was divided into five administrative districts, with Ta
 
 Qing Dynasty
 
-2010_07_鳳山縣舊城南門圓環.jpg In 1684, the Qing dynasty annexed Taiwan and renamed the town Fengshan County (), considering it a part of Taiwan Prefecture. It was first opened as a port during the 1680s and subsequently prospered fairly for generations.[4]
+In 1684, the Qing dynasty annexed Taiwan and renamed the town Fengshan County (), considering it a part of Taiwan Prefecture. It was first opened as a port during the 1680s and subsequently prospered fairly for generations.[4]
 
 Empire of Japan
 
-Gallery_of_Vision_for_Kaohsiung_(old_Kaohsiung_Station_building).jpg, built during the Japanese occupation of Taiwan]] In 1895, Taiwan was ceded to Japan as part of the Treaty of Shimonoseki. Administrative control of the city was moved from New Fongshan Castle to the Fongshan Sub-District of . In November 1901, twenty _chō_ were established in total; was established nearby. In 1909, Hōzan Chō was abolished, and Takow was merged into Tainan Chō.
+, built during the Japanese occupation of Taiwan]] In 1895, Taiwan was ceded to Japan as part of the Treaty of Shimonoseki. Administrative control of the city was moved from New Fongshan Castle to the Fongshan Sub-District of . In November 1901, twenty _chō_ were established in total; was established nearby. In 1909, Hōzan Chō was abolished, and Takow was merged into Tainan Chō.
 
 In 1920, during the tenure of 8th Governor-General Den Kenjirō, districts were abolished in favor of prefectures. Thus the city was administered as under Takao Prefecture.
 
@@ -50,7 +50,7 @@ The city was heavily bombed by Task Force 38 and FEAF during World War II betwee
 
 Republic of China
 
-鼓山忠烈祠.jpg]] Kaohsiung_Tuntex_Sky_Tower_Innen_Bild_2_(2).jpg, which was badly damaged in World War II.]]
+]] , which was badly damaged in World War II.]]
 
 After control of Taiwan was handed over from Japan to the government of the Republic of China on 25 October 1945, Kaohsiung City and Kaohsiung County were established as a provincial city and a county of Taiwan Province respectively on 25 December 1945. The official romanization of the name came to be "Kaohsiung", based on the Wade–Giles romanization of the Mandarin reading of the kanji name.[6] Kaohsiung City then consisted of 10 districts, which were Gushan, Lianya (renamed "Lingya" in 1952), Nanzi, Cianjin, Cianzhen, Cijin, Sanmin, Sinsing, Yancheng, and Zuoying.
 
@@ -101,7 +101,7 @@ As of April 2013, Kaohsiung hosts 35,074 foreign workers who mainly work as fact
 
 Economy
 
-高雄港_Kaohsiung_Harbor_全貌_(62571253).jpeg]] Kaohsiung_Skyline.jpg Kaohsiung_city_Skyline_at_night.jpg
+]]
 
 Kaohsiung is a major international port and industrial city in the southwest of Taiwan. As an exporting center, Kaohsiung serves the agricultural interior of southern Taiwan, as well as the mountains of the southeast. Major raw material exports include rice, sugar, bananas, pineapples, peanuts (groundnuts) and citrus fruits. The Linhai Industrial Park, on the waterfront, was completed in the mid-1970s and includes a steel mill, shipyard, petrochemical complex, and other industries. The city has an oil refinery, aluminum and cement works, fertilizer factories, sugar refineries, brick and tile works, canning factories, salt-manufacturing factories, and papermaking plants. Designated an export-processing zone in the late 1970s, Kaohsiung also attracted foreign investment to process locally purchased raw materials for export.
 
@@ -120,7 +120,7 @@ Culture
 
 Tourism
 
-Kaohsiung_Tuntex_Sky_Tower.jpg seen from the Love River]]
+seen from the Love River]]
 
 Main landmarks of Kaohsiung city include the 85 Sky Tower, the ferris wheel of the Kaohsiung Dream Mall, the Kaohsiung Arena and Kaohsiung Harbor. The newly developed city is also known for having a large number of shopping streets, organized night markets and newly developed leisure parks such as the Pier-2 Art Center, E-DA Theme Park, Metropolitan Park, the Kaohsiung Museum of Fine Arts and Taroko Park.
 
@@ -132,11 +132,11 @@ Kaohsiung city includes a wide range of different natural attractions due to its
 
 Historical sites
 
-Former_British_Consulate_at_Takao.jpg]] A large number of historical sites and monuments were left in the city after the colonization of the Dutch in the 17th century, the Qing dynasty during the 18th and 19th century and the Japanese empire from the late 19th century to the mid 20th century. The city government has protected various sites and monuments from further damage and many have been opened to the public since the early 1980s. Notable historical sites include the Cemetery of Zhenghaijun, Former British Consulate at Takao, Former Dinglinzihbian Police Station, Meinong Cultural and Creative Center, Former Sanhe Bank, and the Cihou Lighthouse, one of the oldest lighthouses of the city.
+]] A large number of historical sites and monuments were left in the city after the colonization of the Dutch in the 17th century, the Qing dynasty during the 18th and 19th century and the Japanese empire from the late 19th century to the mid 20th century. The city government has protected various sites and monuments from further damage and many have been opened to the public since the early 1980s. Notable historical sites include the Cemetery of Zhenghaijun, Former British Consulate at Takao, Former Dinglinzihbian Police Station, Meinong Cultural and Creative Center, Former Sanhe Bank, and the Cihou Lighthouse, one of the oldest lighthouses of the city.
 
 Museums
 
-Confucius_temple_Kaohsiung_amk.jpg]] Kaohsiung is home to many museums, including the Chung Li-he Museum, Cijin Shell Museum, Jiaxian Fossil Museum, Kaohsiung Astronomical Museum, Kaohsiung Hakka Cultural Museum, Kaohsiung Harbor Museum, Kaohsiung Museum of Fine Arts, Kaohsiung Museum of History, Kaohsiung Museum of Labor, Kaohsiung Vision Museum, Meinong Hakka Culture Museum, National Science and Technology Museum, Republic of China Air Force Museum, Soya-Mixed Meat Museum, Taiwan Sugar Museum, Takao Railway Museum and YM Museum of Marine Exploration Kaohsiung.
+]] Kaohsiung is home to many museums, including the Chung Li-he Museum, Cijin Shell Museum, Jiaxian Fossil Museum, Kaohsiung Astronomical Museum, Kaohsiung Hakka Cultural Museum, Kaohsiung Harbor Museum, Kaohsiung Museum of Fine Arts, Kaohsiung Museum of History, Kaohsiung Museum of Labor, Kaohsiung Vision Museum, Meinong Hakka Culture Museum, National Science and Technology Museum, Republic of China Air Force Museum, Soya-Mixed Meat Museum, Taiwan Sugar Museum, Takao Railway Museum and YM Museum of Marine Exploration Kaohsiung.
 
 Parks and Zoos
 
@@ -144,7 +144,7 @@ As the largest municipality in Taiwan, Kaohsiung has a number of newly built lei
 
 Other
 
-Liouho-Night-Market-Kaohsiung.jpg]] Kaohsiung is home to many night markets, such as Jin-Zuan Night Market, Liuhe Night Market Ruifeng Night Market and Zhonghua Street Night Market, and the Kaisyuan Night Market. Other attractions include the Dome of Light of Kaohsiung MRT's Formosa Boulevard Station, the Kaohsiung Mosque and the Tower of Light of Sanmin District.
+]] Kaohsiung is home to many night markets, such as Jin-Zuan Night Market, Liuhe Night Market Ruifeng Night Market and Zhonghua Street Night Market, and the Kaisyuan Night Market. Other attractions include the Dome of Light of Kaohsiung MRT's Formosa Boulevard Station, the Kaohsiung Mosque and the Tower of Light of Sanmin District.
 
 Languages
 
@@ -154,7 +154,7 @@ Since the spread of Standard Chinese after the Nationalist Government retreated 
 
 Arts
 
-FormosaBoulevardStation.JPG of Kaohsiung MRT]]
+of Kaohsiung MRT]]
 
 Kaohsiung has rich resources of ocean, mountains and forests which shape a unique and active multi-faceted art and cultural aesthetic in public infrastructure and transport, public art, and city architecture, from MRT stations and city space to art galleries. The "Dome light" in the concourse of Formosa Boulevard Station of Kaohsiung MRT is one of the world's largest public glass works of art.[18] The city also has the Urban Spotlight Arcade spanning along the street in Cianjin District. In October 2018, Weiwuying (the National Kaohsiung Centre for the Arts), designed by Mecanoo, opened.[19]
 
@@ -186,7 +186,7 @@ Politics
 
 Government
 
-Han_Kuo-yu(cropped).jpg, the incumbent Mayor of Kaohsiung.]]
+, the incumbent Mayor of Kaohsiung.]]
 
 Sometimes Kaohsiung used to be seen as the political opposite Taipei. While northern Taiwan leans towards the Pan-Blue Coalition in the state-level elections, southern Taiwan, including Kaohsiung, leaned towards the Pan-Green Coalition since the late 1990s. Frank Hsieh of the Democratic Progressive Party was reelected twice as Mayor of Kaohsiung, where he was widely credited for transforming the city from an industrial sprawl into an attractive modern metropolis. Hsieh resigned from the office of mayor to take up the office of Premier of the Republic of China in 2005. The municipal election, held on December 9, 2006, resulted in a victory for the Democratic Progressive Party's candidate Chen Chu, the first elected female mayor of special municipality in Taiwan, defeating her Kuomintang rival and former deputy mayor, Huang Chun-ying. The current mayor of Kaohsiung City is Han Kuo-yu of the Kuomintang.
 
@@ -194,9 +194,9 @@ Subdivisions
 
 Kaohsiung is directly divided into 35 districts and 3 mountain indigenous districts.[22][23] There are a total of 651 villages in which each village is subdivided into neighborhoods (鄰). There are 18,584 neighborhoods in Kaohsiung City. Lingya and Fengsha districts are the administrative centers of the city while Lingya and Xinxinging Districts are the two most densely populated districts of the city. Kaohsiung has the most numbers of districts among other special municipalities in Taiwan.
 
-+----------------------------+----------------------------------------------------+-------------------------+
-| Kaohsiung_labelled_map.png | Population_density_map_of_Kaohsiung_(Dec_2009).svg | Kaohsiung_Districts.PNG |
-+----------------------------+----------------------------------------------------+-------------------------+
++--+--+--+
+|  |  |  |
++--+--+--+
 
     Note: There are several romanization systems used in Taiwan. This table contains both Hanyu Pinyin (the official standard of the central government),[24] and Tongyong Pinyin (the official standard of the Kaohsiung City Government). The major order of districts referred to the code of administrative area. 1
 
@@ -307,8 +307,6 @@ Transportation
 
 Port of Kaohsiung
 
-Ddm_2004_028_Kaohsiung_Harbor.jpg
-
 A major port, through which pass most of Taiwan's marine imports and exports, is located at the city but is not managed by the city government. Also known as the "Harbour Capital" of Taiwan, Kaohsiung has always had a strong link with the ocean and maritime transportation. Ferries play a key role in everyday transportation, especially for transportation across the harbour. With five terminals and 23 berths, the _Port of Kaohsiung_ is Taiwan's largest container port and the 13th largest in the world.[25] In 2007 the port reached its handling capacity with a record trade volume of .[26] A new container terminal is under construction, increasing future handling capacity by by 2013.[27]
 
 The Port of Kaohsiung is not officially a part of Kaohsiung City, instead it is administrated by Kaohsiung Port Authority, under Ministry of Transportation. There is a push for Kaohsiung City to annex the Port of Kaohsiung in order to facilitate better regional planning.
@@ -317,13 +315,13 @@ Kaohsiung is one of the biggest ports in the world for importing shark fins, sol
 
 Kaohsiung International Airport
 
-高雄國際機場.JPG]]
+]]
 
 Kaohsiung City is also home to Taiwan's second largest international airport, the Kaohsiung International Airport, located in Siaogang District near the city's center. It one of the three major international airports of Taiwan, serving passengers of the entire southern and southeastern part of the country. However, the size of the airport is relatively small with short runways compared to other major airports of Taiwan due to its age and its location near the city center, making it impossible for large aircraft such as the Airbus A380 to land at the airport. As a result, plans for runway expansion or building a new airport in replacement have been proposed.
 
 Rapid transit
 
-Kaohsiung_MRT_Train_at_World_Games_Station.jpg]] KMRT_CAF_train_2016-08-27.jpg]]
+]] ]]
 
 Kaohsiung Mass Rapid Transit opened for service in March 2008.
 
@@ -331,7 +329,7 @@ Notably, two of Kaohsiung's MRT stations, Formosa Boulevard Station and Central 
 
 Circular Light Rail
 
-Kaohsiung-skyline-2018.jpg.]] THSR_Zuoying_Station_and_TRA_New_Zuoying_Station_20080712.jpg of THSR]] The Circular Light Rail Line (also known as the Kaohsiung LRT, Kaohsiung Tram) for Kaohsiung City is a planned light rail line. Construction of Phase 1, known as the Waterside Light Rail began in June 2013 and is in full operation since September 2017. To combat air pollution, usage of the light rail, was well as buses, was made free of charge for electronic ticket holders from December to February, when air pollution is at its peak.[30]
+.]] of THSR]] The Circular Light Rail Line (also known as the Kaohsiung LRT, Kaohsiung Tram) for Kaohsiung City is a planned light rail line. Construction of Phase 1, known as the Waterside Light Rail began in June 2013 and is in full operation since September 2017. To combat air pollution, usage of the light rail, was well as buses, was made free of charge for electronic ticket holders from December to February, when air pollution is at its peak.[30]
 
 Railway
 
@@ -340,7 +338,7 @@ The city is served by the Taiwan Railways Administration's Western Line and Ping
 
 Sports
 
-WorkdGame2009_Stadium_completed.jpg]] Kaohsiung is home to Taiwan's largest stadium, the National Stadium, and Kaohsiung Arena. National Stadium is Taiwan's largest international-class stadium with a maximum capacity of 55,000 seats.
+]] Kaohsiung is home to Taiwan's largest stadium, the National Stadium, and Kaohsiung Arena. National Stadium is Taiwan's largest international-class stadium with a maximum capacity of 55,000 seats.
 
 Kaohsiung hosted the 2009 World Games at the National Stadium. Nearly 6,000 athletes, officials, coaches, referees and others from 103 countries participated in the 2009 Kaohsiung World Games.
 
@@ -349,7 +347,7 @@ Kaohsiung was also home to the Kaohsiung Truth of the ASEAN Basketball League. T
 
 Education
 
-NSYSU_campus_day03.JPG]] KSHS.JPG]] 陸軍軍官學校大門.jpg]] Republic_of_China_Air_Force_Academy_Main_Gate_Front_20111015b.jpg]]
+]] ]] ]] ]]
 
 Kaohsiung has a number of colleges and junior colleges offering training in commerce, education, maritime technology, medicine, modern languages, nursing, and technology, as well as various international schools and eight national military schools, including the three major military academies of the country, the Republic of China Military Academy, Republic of China Naval Academy and Republic of China Air Force Academy.
 

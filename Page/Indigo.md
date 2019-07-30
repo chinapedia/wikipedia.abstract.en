@@ -7,7 +7,7 @@ The first known recorded use of indigo as a color name in English was in 1289.[1
 
 History
 
-Indigo_plant_extract_sample.jpg Species of _Indigofera_ were cultivated in East Asia, Egypt, India, and Peru in antiquity. The earliest direct evidence for the use of indigo dates to around 4000 BC and comes from Huaca Prieta, in contemporary Peru.[2] Pliny the Elder mentions India as the source of the dye after which it was named.[3] It was imported from there in small quantities via the Silk Road.[4]
+Species of _Indigofera_ were cultivated in East Asia, Egypt, India, and Peru in antiquity. The earliest direct evidence for the use of indigo dates to around 4000 BC and comes from Huaca Prieta, in contemporary Peru.[2] Pliny the Elder mentions India as the source of the dye after which it was named.[3] It was imported from there in small quantities via the Silk Road.[4]
 
 The Ancient Greek term for the dye was ("Indian dye"), which, adopted to Latin as _indicum_ and via Portuguese gave rise to the modern word _indigo_.[5]
 
@@ -18,17 +18,17 @@ Blue dye can be made from two different types of plants: the indigo plant, which
 
 Classification as a spectral color
 
-Newton's_colour_circle.png]]
+]]
 
 The Early Modern English word _indigo_ referred to the dye, not to the color (hue) itself, and _indigo_ is not traditionally part of the basic color-naming system.[8] Modern sources place indigo in the electromagnetic spectrum between 420 and 450 nanometers,[9][10][11] which lies on the short-wave side of color wheel (RGB) blue, towards (spectral) violet.
 
 However, the correspondence of this definition with colors of actual indigo dyes is disputed. Optical scientists Hardy and Perrin list indigo as between 445[12] and 464 nm wavelength,[13] which occupies a spectrum segment from roughly the color wheel (RGB) blue extending to the long-wave side, towards azure.
 
-Isaac Newton introduced indigo as one of the seven base colors of his work. In the mid-1660s, when Newton bought a pair of prisms at a fair near Cambridge, the East India Company had begun importing indigo dye into England,[14] supplanting the homegrown woad as source of blue dye. In a pivotal experiment in the history of optics, the young Newton shone a narrow beam of sunlight through a prism to produce a rainbow-like band of colors on the wall. In describing this optical spectrum, Newton acknowledged that the spectrum had a continuum of colors, but named seven: "The originall or primary colours are Red, yellow, Green, Blew, & a violet purple; together with Orang, Indico, & an indefinite varietie of intermediate gradations." [15] He linked the seven prismatic colors to the seven notes of a western major scale,[16] as shown in his color wheel, with orange and indigo as the semitones. Having decided upon seven colors, he asked a friend to repeatedly divide up the spectrum that was projected from the prism onto the wall: Newton_prismatic_colours.JPG, while blue corresponds to cyan.]]
+Isaac Newton introduced indigo as one of the seven base colors of his work. In the mid-1660s, when Newton bought a pair of prisms at a fair near Cambridge, the East India Company had begun importing indigo dye into England,[14] supplanting the homegrown woad as source of blue dye. In a pivotal experiment in the history of optics, the young Newton shone a narrow beam of sunlight through a prism to produce a rainbow-like band of colors on the wall. In describing this optical spectrum, Newton acknowledged that the spectrum had a continuum of colors, but named seven: "The originall or primary colours are Red, yellow, Green, Blew, & a violet purple; together with Orang, Indico, & an indefinite varietie of intermediate gradations." [15] He linked the seven prismatic colors to the seven notes of a western major scale,[16] as shown in his color wheel, with orange and indigo as the semitones. Having decided upon seven colors, he asked a friend to repeatedly divide up the spectrum that was projected from the prism onto the wall: , while blue corresponds to cyan.]]
 
   I desired a friend to draw with a pencil lines cross the image, or pillar of colours, where every one of the seven aforenamed colours was most full and brisk, and also where he judged the truest confines of them to be, whilst I held the paper so, that the said image might fall within a certain compass marked on it. And this I did, partly because my own eyes are not very critical in distinguishing colours, partly because another, to whom I had not communicated my thoughts about this matter, could have nothing but his eyes to determine his fancy in making those marks.[17]
 
-Rainbow-diagram-ROYGBIV.svg Indigo is therefore counted as one of the traditional colors of the rainbow, the order of which is given by the mnemonic _Roy G. Biv_. James Clerk Maxwell and Hermann von Helmholtz accepted indigo as an appropriate name for the color flanking violet in the spectrum.[18]
+Indigo is therefore counted as one of the traditional colors of the rainbow, the order of which is given by the mnemonic _Roy G. Biv_. James Clerk Maxwell and Hermann von Helmholtz accepted indigo as an appropriate name for the color flanking violet in the spectrum.[18]
 
 Later scientists conclude that Newton named the colors differently from current usage.[19][20] According to Gary Waldman, "A careful reading of Newton's work indicates that the color he called indigo, we would normally call blue; his blue is then what we would name blue-green, cyan or light blue."[21] If this is true, Newton's seven spectral colors would have been:
 
@@ -113,7 +113,7 @@ Computer graphics
 
 Dyes
 
-COLLECTIE_TROPENMUSEUM_Indigo_wordt_aangemaakt_in_kuilen_in_uitgehakte_puimsteentufgrond_Karolanden_TMnr_10014190.jpg]]
+]]
 
 -   Guatemala, as of 1778, was considered one of the world's foremost providers of indigo.[27]
 -   In Mexico, indigo is known as _añil_.[28] After silver, and cochineal to produce red, _añil_ was the most important product exported by historical Mexico.[29]

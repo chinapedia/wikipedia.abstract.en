@@ -1,4 +1,4 @@
-Quadratic_formula.svg for the roots of the general quadratic equation]] In algebra, a QUADRATIC EQUATION (from the Latin for "square") is any equation having the form
+for the roots of the general quadratic equation]] In algebra, a QUADRATIC EQUATION (from the Latin for "square") is any equation having the form
 
     ax² + bx + c = 0,
 
@@ -14,7 +14,7 @@ Because the quadratic equation involves only one unknown, it is called "univaria
 
 Solving the quadratic equation
 
-Quadratic_equation_coefficients.png A quadratic equation with real or complex coefficients has two solutions, called _roots_. These two solutions may or may not be distinct, and they may or may not be real.
+A quadratic equation with real or complex coefficients has two solutions, called _roots_. These two solutions may or may not be distinct, and they may or may not be real.
 
 Factoring by inspection
 
@@ -26,7 +26,7 @@ Except for special cases such as where 0}} or 0}}, factoring by inspection only 
 
 Completing the square
 
-Polynomialdeg2.svg _x_² − _x_ − 2}}, the points where the graph crosses the -axis, −1}} and 2}}, are the solutions of the quadratic equation 0}}. |alt=Figure 2 illustrates an x y plot of the quadratic function f of x equals x squared minus x minus 2. The x-coordinate of the points where the graph intersects the x-axis, x equals −1 and x equals 2, are the solutions of the quadratic equation x squared minus x minus 2 equals zero.]] The process of completing the square makes use of the algebraic identity
+_x_² − _x_ − 2}}, the points where the graph crosses the -axis, −1}} and 2}}, are the solutions of the quadratic equation 0}}. |alt=Figure 2 illustrates an x y plot of the quadratic function f of x equals x squared minus x minus 2. The x-coordinate of the points where the graph intersects the x-axis, x equals −1 and x equals 2, are the solutions of the quadratic equation x squared minus x minus 2 equals zero.]] The process of completing the square makes use of the algebraic identity
 
 _x_² + 2_h__x_ + _h_² = (_x_ + _h_)²,
 which represents a well-defined algorithm that can be used to solve any quadratic equation.[5] Starting with a quadratic equation in standard form, 0}}
@@ -91,7 +91,7 @@ $$x = - \frac{p}{2} \pm \sqrt{\left(\frac{p}{2}\right)^2 - q}.$$
 
 Discriminant
 
-Quadratic_eq_discriminant.svg In the quadratic formula, the expression underneath the square root sign is called the _discriminant_ of the quadratic equation, and is often represented using an upper case or an upper case Greek delta:[11]
+In the quadratic formula, the expression underneath the square root sign is called the _discriminant_ of the quadratic equation, and is often represented using an upper case or an upper case Greek delta:[11]
 
 _Δ_ = _b_² − 4_a__c_.
 A quadratic equation with _real_ coefficients can have either one or two distinct real roots, or two distinct complex roots. In this case the discriminant determines the number and nature of the roots. There are three cases:
@@ -125,8 +125,6 @@ The solutions of the quadratic equation 0}} correspond to the roots of the funct
 $$ax^2+bx+c = a \left( x + \frac{b}{2a} \right)^2.$$
 
 Graphical solution
-
-Graphical_calculation_of_root_of_quadratic_equation.png Visual.complex.root.finding.png
 
 The solutions of the quadratic equation
 
@@ -164,7 +162,7 @@ A second form of cancellation can occur between the terms and of the discriminan
 
 Examples and applications
 
-La_Jolla_Cove_cliff_diving_-_02.jpg because horizontal displacement is a linear function of time x = v_(x)t, while vertical displacement is a quadratic function of time $y=\tfrac{1}{2} at^2+v_y t+h$. As a result, the path follows quadratic equation $y=\tfrac{a}{2v_x^2} x^2+\tfrac{v_y}{v_x} x+h$, where v_(x) and v_(y) are horizontal and vertical components of the original velocity, is gravitational acceleration and is original height. The value should be considered negative here, as its direction (downwards) is opposite to the height measurement (upwards).]] The golden ratio is found as the positive solution of the quadratic equation x² − x − 1 = 0.
+because horizontal displacement is a linear function of time x = v_(x)t, while vertical displacement is a quadratic function of time $y=\tfrac{1}{2} at^2+v_y t+h$. As a result, the path follows quadratic equation $y=\tfrac{a}{2v_x^2} x^2+\tfrac{v_y}{v_x} x+h$, where v_(x) and v_(y) are horizontal and vertical components of the original velocity, is gravitational acceleration and is original height. The value should be considered negative here, as its direction (downwards) is opposite to the height measurement (upwards).]] The golden ratio is found as the positive solution of the quadratic equation x² − x − 1 = 0.
 
 The equations of the circle and the other conic sections—ellipses, parabolas, and hyperbolas—are quadratic equations in two variables.
 
@@ -209,8 +207,6 @@ Advanced topics
 Alternative methods of root calculation
 
 Vieta's formulas
-
-Excel_quadratic_error.PNG
 
 Vieta's formulas give a simple relation between the roots of a polynomial and its coefficients. In the case of the quadratic polynomial, they take the following form:
 
@@ -288,11 +284,9 @@ where $r=\sqrt{\tfrac{c}{a}}$ and $\theta =\cos ^{-1}\left(\tfrac{-b}{2\sqrt{ac}
 
 Geometric solution
 
-LillsQuadratic.svg
-
 The quadratic equation may be solved geometrically in a number of ways. One way is via Lill's method. The three coefficients , , are drawn with right angles between them as in SA, AB, and BC in Figure 6. A circle is drawn with the start and end point SC as a diameter. If this cuts the middle line AB of the three then the equation has a solution, and the solutions are given by negative of the distance along this line from A divided by the first coefficient or SA. If is the coefficients may be read off directly. Thus the solutions in the diagram are −AX1/SA and −AX2/SA.[43]
 
-CarlyleCircle.svg The Carlyle circle, named after Thomas Carlyle, has the property that the solutions of the quadratic equation are the horizontal coordinates of the intersections of the circle with the horizontal axis.[44] Carlyle circles have been used to develop ruler-and-compass constructions of regular polygons.
+The Carlyle circle, named after Thomas Carlyle, has the property that the solutions of the quadratic equation are the horizontal coordinates of the intersections of the circle with the horizontal axis.[44] Carlyle circles have been used to develop ruler-and-compass constructions of regular polygons.
 
 Alternative quadratic formula
 

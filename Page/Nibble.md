@@ -1,4 +1,4 @@
-Octets_in_CP866_ordered_by_nibbles.png code page 866 font table ordered by nibbles.]]
+code page 866 font table ordered by nibbles.]]
 
 In computing, a NIBBLE (occasionally NYBBLE or NYBLE to match the spelling of byte) is a four-bit aggregation,[1][2] or half an octet. It is also known as HALF-BYTE[3] or TETRADE.[4][5] In a networking or telecommunication context, the nibble is often called a SEMI-OCTET,[6] QUADBIT,[7] or QUARTET.[8][9] A nibble has sixteen (2⁴) possible values. A nibble can be represented by a single hexadecimal digit and called a HEX DIGIT.[10]
 

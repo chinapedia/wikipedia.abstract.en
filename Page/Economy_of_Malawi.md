@@ -1,4 +1,4 @@
-Lilongwe_market_closeup.JPG market.]]
+market.]]
 
 The ECONOMY OF MALAWI is predominantly agricultural, with about 80% of the population living in rural areas. The landlocked country in south central Africa ranks among the world's least developed countries. In 2017, agriculture accounted for about one-third of GDP[1] and about 80% of export revenue. The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. The government faces strong challenges: to spur exports, to improve educational and health facilities, to face up to environmental problems of deforestation and erosion, and to deal with the problem of HIV/AIDS in Africa.
 
@@ -7,13 +7,13 @@ Agriculture
 
 Malawi's most important export crop is tobacco, which accounted for half (50%) of export revenue in 2012.[2] In 2000, the country was the tenth-largest producer in the world. The country's heavy reliance on tobacco places a heavy burden on the economy as world prices decline and the international community increases pressure to limit tobacco production. Malawi's dependence on tobacco is growing, with the product jumping from 53% to 70% of export revenues between 2007 and 2008.[3][4]
 
-Malawi_Tea_Estate.jpg estate]]The country also relies heavily on tea, sugarcane and coffee, with these three plus tobacco making up more than 90% of Malawi's export revenue. Tea was first introduced in 1878. Most of it is grown in Mulanje and Thyolo. Other crops include cotton, corn, potatoes, sorghum, cattle and goats. Tobacco and sugar processing are notable secondary industries.
+estate]]The country also relies heavily on tea, sugarcane and coffee, with these three plus tobacco making up more than 90% of Malawi's export revenue. Tea was first introduced in 1878. Most of it is grown in Mulanje and Thyolo. Other crops include cotton, corn, potatoes, sorghum, cattle and goats. Tobacco and sugar processing are notable secondary industries.
 
 Traditionally Malawi has been self-sufficient in its staple food, maize (corn), and during the 1980s it exported substantial quantities to its drought-stricken neighbors. Nearly 90% of the population engages in subsistence farming. Smallholder farmers produce a variety of crops, including maize, beans, rice, cassava, tobacco, and groundnuts (peanuts). Financial wealth is generally concentrated in the hands of a small elite. Malawi's manufacturing industries are situated around the city of Blantyre.
 
-Lake Malawi and Lake Chilwa provide most of the fish for the region. For many Malawians, fish is the most important source of proteins. Dried fish is not only consumed locally, but also exported to neighboring countries. Most fishing is done on small scale by hand. However, Maldeco Fisheries owns several commercial fishing boats and operates fish farms in the southern part of Lake Malawi.Beach_on_Likoma_Island,_Malawi.JPG
+Lake Malawi and Lake Chilwa provide most of the fish for the region. For many Malawians, fish is the most important source of proteins. Dried fish is not only consumed locally, but also exported to neighboring countries. Most fishing is done on small scale by hand. However, Maldeco Fisheries owns several commercial fishing boats and operates fish farms in the southern part of Lake Malawi.
 
-Malawi has few exploitable mineral resources. A South-African Australian consortium exploits uranium at a mine near Karonga. Coal is being extracted in Mzimba District. Malawi's economic reliance on the export of agricultural commodities renders it particularly vulnerable to external shocks such as declining terms of trade and drought. High transport costs, which can comprise over 30% of its total import bill, constitute a serious impediment to economic development and trade. Malawi must import all its fuel products. Other challenges include a paucity of skilled labor, difficulty in obtaining expatriate employment permits, bureaucratic red tape, corruption, and inadequate and deteriorating road, electricity, water, and telecommunications infrastructure which hinder economic development in Malawi. However, recent government initiatives targeting improvements in the road infrastructure, together with private sector participation in railroad and telecommunications, have begun to render the investment environment more attractive. Blantyre.JPG]]
+Malawi has few exploitable mineral resources. A South-African Australian consortium exploits uranium at a mine near Karonga. Coal is being extracted in Mzimba District. Malawi's economic reliance on the export of agricultural commodities renders it particularly vulnerable to external shocks such as declining terms of trade and drought. High transport costs, which can comprise over 30% of its total import bill, constitute a serious impediment to economic development and trade. Malawi must import all its fuel products. Other challenges include a paucity of skilled labor, difficulty in obtaining expatriate employment permits, bureaucratic red tape, corruption, and inadequate and deteriorating road, electricity, water, and telecommunications infrastructure which hinder economic development in Malawi. However, recent government initiatives targeting improvements in the road infrastructure, together with private sector participation in railroad and telecommunications, have begun to render the investment environment more attractive. ]]
 
 The following are Malawi's top 20 agricultural production values and volumes for 2009. (Unofficial figures derived from FAO statistics) [5]
 
@@ -66,7 +66,7 @@ Malawi has four pharmaceutical companies. They manufacture a limited range of dr
 
 Forestry
 
-Lady_carrying_solar_panel.jpg Large man-made pine tree forests are located in the Viphya Mountains, around Mulanje and Zomba. Timber production for building materials and furniture is an important industry for these regions. However, most areas in Malawi suffer from deforestation due to illegal logging for charcoal production and the use of firewood.
+Large man-made pine tree forests are located in the Viphya Mountains, around Mulanje and Zomba. Timber production for building materials and furniture is an important industry for these regions. However, most areas in Malawi suffer from deforestation due to illegal logging for charcoal production and the use of firewood.
 
 Electricity
 
@@ -86,7 +86,7 @@ Malawi has undertaken economic structural adjustment programs supported by the W
 
 Real GDP grew by 3.6% in 1999 and 2.1% in 2000. The government's monetary policy has been expansionary, and the average annual inflation has hovered around 30% in 2000 and 2001, keeping discount and commercial bank rates high (the discount rate was 47% in December 2000). In the second half of 2001, the Kwacha strengthened sharply against the U.S. dollar, moving from 80 to 60.
 
-Malawi has bilateral trade agreements with its two major trading partners, South Africa and Zimbabwe, both of which allow duty-free entry of Malawian products into their countries. The government faces challenges such as the improvement of Malawi's educational and health facilities — particularly important because of the rising rates of HIV/AIDS — and environmental problems including deforestation, erosion, and overworked soils. Bingu_Wa_Mutharika_-_World_Economic_Forum_on_Africa_2008.jpg of Malawi spoke about the country's recent unilateral agricultural reforms at the World Economic Forum on Africa at the United Nations, September 2008.]]
+Malawi has bilateral trade agreements with its two major trading partners, South Africa and Zimbabwe, both of which allow duty-free entry of Malawian products into their countries. The government faces challenges such as the improvement of Malawi's educational and health facilities — particularly important because of the rising rates of HIV/AIDS — and environmental problems including deforestation, erosion, and overworked soils. of Malawi spoke about the country's recent unilateral agricultural reforms at the World Economic Forum on Africa at the United Nations, September 2008.]]
 
 Move towards economic independence
 
@@ -99,7 +99,7 @@ Economic indicators
 
 The following figures are taken from the CIA World Factbook,[16] unless otherwise indicated.
 
-GDP: purchasing power parity = $22.37 billion (2017 est.) Malawi_interest_rates.JPG Malawi_Kwacha_xchg_rates.JPG on 7 October 2008]] Malawi_Holiday_100.JPG, a fast-growing city. July 2008]]
+GDP: purchasing power parity = $22.37 billion (2017 est.) on 7 October 2008]] , a fast-growing city. July 2008]]
 
 GDP - REAL GROWTH RATE: 4% (2017 est.)
 

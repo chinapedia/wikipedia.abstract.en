@@ -1,6 +1,6 @@
-Speedometer-dualsystem.jpeg (outer, in white) and kilometres per hour (inner, in red) – for Canadian[1] vehicles the scales are reversed, or in km/h only.]] Camry_Speed_Odometer.jpg, as in almost all countries.]]
+(outer, in white) and kilometres per hour (inner, in red) – for Canadian[1] vehicles the scales are reversed, or in km/h only.]] , as in almost all countries.]]
 
-METRICATION or METRIFICATION is conversion to the metric system of units of measurement.[2] Worldwide, there has been a long process of independent conversions of countries from various local and traditional systems, beginning in France during the 1790s and spreading widely over the following two centuries, but the metric system has not been fully adopted in all countries and sectors. Tabella_conversione_metrica_1860_MG_7771.jpg became part of modern Italy.]]
+METRICATION or METRIFICATION is conversion to the metric system of units of measurement.[2] Worldwide, there has been a long process of independent conversions of countries from various local and traditional systems, beginning in France during the 1790s and spreading widely over the following two centuries, but the metric system has not been fully adopted in all countries and sectors. became part of modern Italy.]]
 
 
 Overview
@@ -42,7 +42,7 @@ During the nineteenth century the metric system of weights and measures proved a
 
 France
 
-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg.]]
+.]]
 
 The introduction of the metric system into France in 1795 was done on a district by district basis with Paris being the first district. By modern standards the transition was poorly managed. Although thousands of pamphlets were distributed, the Agency of Weights and Measures who oversaw the introduction underestimated the work involved. Paris alone needed 500,000 metre sticks, yet one month after the metre became the sole legal unit of measure, they only had 25,000 in store.[23] This, combined with other excesses of the Revolution and the high level of illiteracy made the metric system unpopular.
 
@@ -52,7 +52,7 @@ Louis Philippe I by means of the _La loi du 4 juillet 1837_ (the law of 4 July 1
 
 Germany
 
-Alter_Grenzstein_Pontebba_01.jpg/Italian border at Pontebba displaying myriametres (10 km), a unit used in Central Europe in the 19th century.[30]]] At the outbreak of the French Revolution, much of modern-day Germany and Austria were part of the Holy Roman Empire which had become a loose federation of kingdoms, principalities, free cities, bishoprics and other fiefdoms, each with its own system of measurement, though in most cases such system were loosely derived from the Carolingian system instituted by Charlemagne a thousand years earlier.
+/Italian border at Pontebba displaying myriametres (10 km), a unit used in Central Europe in the 19th century.[30]]] At the outbreak of the French Revolution, much of modern-day Germany and Austria were part of the Holy Roman Empire which had become a loose federation of kingdoms, principalities, free cities, bishoprics and other fiefdoms, each with its own system of measurement, though in most cases such system were loosely derived from the Carolingian system instituted by Charlemagne a thousand years earlier.
 
 During the Napoleonic era, there was a move among some of the German states to reform their systems of measurement using the prototype metre and kilogram as the basis of the new units. Baden, in 1810, for example, redefined the _Ruthe_ (rods) as being 3.0 m exactly and defined the subunits of the _Ruthe_ as 1 _Ruthe_ = 10 _Fuß_ (feet) = 100 _Zoll_ (inches) = 1,000 _Linie_ (lines) = 10,000 _Punkt_ (points) while the _Pfund_ was defined as being 500 g, divided into 30 Loth, each of 16.67 g.[31][32] Bavaria, in its reform of 1811, trimmed the Bavarian _Pfund_ from 561.288 g to 560 g exactly, consisting of 32 _Loth_, each of 17.5 g[33] while the Prussian _Pfund_ remained at 467.711 g.[34]
 
@@ -62,7 +62,7 @@ Although the Zollverein collapsed after the Austro-Prussian War of 1866, the met
 
 Italy
 
-Vicopisano-misure_antiche.jpg, Tuscany]] The Cisalpine Republic, a North Italian republic set up by Napoleon in 1797 with its capital at Milan first adopted a modified form of the metric system based in the _braccio cisalpino_ (Cisalpine cubit) which was defined to be half a metre.[39] In 1802 the Cisalpine Republic was renamed the Italian Republic, with Napoleon as its head of state. The following year the Cisalpine system of measure was replaced by the metric system.[40]
+, Tuscany]] The Cisalpine Republic, a North Italian republic set up by Napoleon in 1797 with its capital at Milan first adopted a modified form of the metric system based in the _braccio cisalpino_ (Cisalpine cubit) which was defined to be half a metre.[39] In 1802 the Cisalpine Republic was renamed the Italian Republic, with Napoleon as its head of state. The following year the Cisalpine system of measure was replaced by the metric system.[40]
 
 In 1806, the Italian Republic was replaced by the Kingdom of Italy with Napoleon as its emperor. By 1812, all of Italy from Rome northwards was under the control of Napoleon, either as French Departments or as part of the Kingdom of Italy ensuring the metric system was in use throughout this region.
 
@@ -78,7 +78,7 @@ In August 1814, Portugal officially adopted the metric system but with the names
 
 Spain
 
-Until the ascent of the Bourbon monarchy in Spain in 1700, each of the regions of Spain retained its own system of measurement. The new Bourbon monarchy tried to centralise control and with it the system of measurement. There were debates regarding the desirability of retaining the Castilian units of measure or, in the interests of harmonisation, adopting the French system.[44] Although Spain assisted Méchain in his meridian survey, the Government feared the French revolutionary movement and reinforced the Castilian units of measure to counter such movements. By 1849 however, it proved difficult to maintain the old system and in that year the metric system became the legal system of measure in Spain.[45]General_Carlos_Ibáñez_e_Ibáñez_de_Ibero.jpgThe Government was urged by the Spanish Royal Academy of Science to approve the creation of a large-scale map of Spain in 1852. The following year Carlos Ibáñez e Ibáñez de Ibero was appointed to undertake this task. All the scientific and technical material had to be created. Ibáñez e Ibáñez de Ibero and Saavedra went to Paris to supervise the production by Brunner of a measuring instrument which they had devised and which they later compared with Borda's double-toise N°1 which was the main reference for measuring all geodetic bases in France and whose length was 3.8980732 metres.
+Until the ascent of the Bourbon monarchy in Spain in 1700, each of the regions of Spain retained its own system of measurement. The new Bourbon monarchy tried to centralise control and with it the system of measurement. There were debates regarding the desirability of retaining the Castilian units of measure or, in the interests of harmonisation, adopting the French system.[44] Although Spain assisted Méchain in his meridian survey, the Government feared the French revolutionary movement and reinforced the Castilian units of measure to counter such movements. By 1849 however, it proved difficult to maintain the old system and in that year the metric system became the legal system of measure in Spain.[45]The Government was urged by the Spanish Royal Academy of Science to approve the creation of a large-scale map of Spain in 1852. The following year Carlos Ibáñez e Ibáñez de Ibero was appointed to undertake this task. All the scientific and technical material had to be created. Ibáñez e Ibáñez de Ibero and Saavedra went to Paris to supervise the production by Brunner of a measuring instrument which they had devised and which they later compared with Borda's double-toise N°1 which was the main reference for measuring all geodetic bases in France and whose length was 3.8980732 metres.
 
 In 1865 the triangulation of Spain was connected with that of Portugal and France. In 1866 at the conference of the Association of Geodesy in Neuchâtel, Ibáñez announced that Spain would collaborate in remeasuring the French meridian arc. In 1879 Ibáñez and François Perrier (representing France) completed the junction between the geodetic network of Spain and Algeria and thus completed the measurement of the French meridian arc which extended from Shetland to the Sahara.
 
@@ -121,7 +121,7 @@ The metric system was officially introduced in France in December 1799. In the 1
 
 Chronology and status of conversion by country
 
-Countries by current metrication status: _Links in the COUNTRY point to articles about metrication in that country._[76]
+_Links in the COUNTRY point to articles about metrication in that country._[76]
 
 [TABLE]
 
@@ -142,7 +142,7 @@ In Ireland, metric is the official unit of measurement though most people would 
 
 Exceptions
 
-1_oz_of_fine_gold.jpg , the metric system officially predominates in most countries of the world; some traditional units, however, are still used in many places in specific industries. For example:
+, the metric system officially predominates in most countries of the world; some traditional units, however, are still used in many places in specific industries. For example:
 
 -   Photo and video cameras are standardized to mount to tripods using -20 and -16 screws, which are dimensioned in inches, as per ISO 1222:2010.[80]
 -   Automobile tyre pressure is commonly measured in units of psi in several countries including Brazil, Peru, Mexico, Argentina, Australia, and Chile, the UK and the US.
@@ -151,8 +151,6 @@ Exceptions
 -   Construction workers in Northern Europe often refer to planks and nails by their old inch-based names.
 -   The length of small sail boats is often given in feet in popular conversation.
 -   Office space is often rented in traditional units, such as square feet in Hong Kong and India, _tsubo_/_pyeong_/"ping" in Japan, Korea, and Taiwan.
-
-Metric_length_shower_hose_with_imperial_fittings.jpg
 
 -   In plumbing, some pipes and pipe threads are still designated in inch sizes due to historic international acceptance of particular sequences of pipe sizes and pipe threads, such as BSP / ISO 7 / EN 10226 threads.
 -   In the United Kingdom and some Commonwealth countries, temperatures of domestic gas ovens are often specified using gas marks.[82][83] Similarly, older French ovens and recipes book often use a scale based on the Fahrenheit scale: "Thermostat" (abbreviated "Th"), where Thermostat 1 equals 100 °F for conventional ovens, increasing by 50 °F for each whole number along the scale.[84]
@@ -192,8 +190,6 @@ Following the United Kingdom's referendum to exit the European Union, retailers 
 In popular conversation, the stone unit is widely used for measuring a person's weight and feet and inches for height.
 
 United States and Canada
-
-Measuring_cup.jpg
 
 Over time, the metric system has influenced the United States through international trade and standardisation. The use of the metric system was made legal as a system of measurement in 1866[100] and the United States was a founding member of the International Bureau of Weights and Measures in 1875.[101] The system was officially adopted by the federal government in 1975 for use in the military and government agencies, and as preferred system for trade and commerce.[102] It has remained voluntary for federal and state road signage to use metric units, despite attempts in the 1990s to make it a requirement.[103]
 

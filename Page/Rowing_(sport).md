@@ -11,7 +11,7 @@ Major domestic competitions take place in dominant rowing nations and include Th
 
 Basic information
 
-DMURC_mens_8+_at_BUCS_Regatta_2010.png (8+), a _sweep_ rowing boat]]
+(8+), a _sweep_ rowing boat]]
 
 While rowing, the athlete sits in the boat facing toward the stern, and uses the oars which are held in place by the oarlocks to propel the boat forward (towards the bow). This may be done on a canal, river, lake, sea, or other large bodies of water. The sport requires strong core balance, physical strength, flexibility, and cardiovascular endurance.[6]
 
@@ -24,7 +24,7 @@ There are two forms of rowing:
 
 Anatomy of a stroke
 
-ROWING_Women's_Single_Sculls_Final_-_28th_Summer_Universiade_2015_Gwangju.webm The rowing stroke may be characterized by two fundamental reference points. The _catch_, which is placement of the oar blade in the water, and the _extraction_, also known as the _finish_ or _release_, when the rower removes the oar blade from the water. The action between catch and release is the first phase of the stroke that propels the boat.
+The rowing stroke may be characterized by two fundamental reference points. The _catch_, which is placement of the oar blade in the water, and the _extraction_, also known as the _finish_ or _release_, when the rower removes the oar blade from the water. The action between catch and release is the first phase of the stroke that propels the boat.
 
 At the catch the rower places the blade in the water and applies pressure to the oar by pushing the seat toward the bow of the boat by extending the legs, thus pushing the boat through the water. The point of placement of the blade in the water is a relatively fixed point about which the oar serves as a lever to propel the boat. As the rower's legs approach full extension, the rower pivots the torso toward the bow of the boat and then finally pulls the arms towards his or her chest. The hands meet the chest right above the diaphragm.
 
@@ -52,8 +52,6 @@ Although the oar can be conveniently thought of as a lever with a "fixed" pivot 
 
 Distinction from other watercraft
 
-Rowing_Sport_Oarlock.jpg
-
 The distinction between rowing and other forms of water transport, such as canoeing or kayaking, is that in rowing the oars are held in place at a pivot point that is in a fixed position relative to the boat, this point is the load point for the oar to act as a second class lever (the blade fixed in the water is the fulcrum). In flatwater rowing, the boat (also called a _shell_ or _fine boat_) is narrow to avoid drag, and the oars are attached to oarlocks ( also called _gates_ ) at the end of outriggers extending from the sides of the boat.[10] Racing boats also have sliding seats to allow the use of the legs in addition to the body to apply power to the oar.
 
 Fitness and health
@@ -65,7 +63,7 @@ Rowing is a low impact sport with movement only in defined ranges, so twist and 
 
 History
 
-Samuel_and_Saidye_Bronfman_Archaeology_WingDSCN4960.JPG Doggett_Coat_Badge_-_Thomas_Rowlands.jpg. Painting by Thomas Rowlandson.]]
+. Painting by Thomas Rowlandson.]]
 
 Ever since the earliest recorded references to rowing, the sporting element has been present. An Egyptian funerary inscription of 1430 BC records that the warrior Amenhotep (Amenophis) II was also renowned for his feats of oarsmanship. In the Aeneid, Virgil mentions rowing forming part of the funeral games arranged by Aeneas in honour of his father.[12] In the 13th century, Venetian festivals called _regata_ included boat races among others.[13]
 
@@ -77,7 +75,7 @@ Founded in 1818, Leander Club is the world's oldest public rowing club.[20] The 
 
 Schuylkill Navy
 
-Boathouse_Row-wide.JPG, Home of the Schuylkill Navy]] The Schuylkill Navy is an association of amateur rowing clubs of Philadelphia. Founded in 1858, it is the oldest amateur athletic governing body in the United States.[25] The member clubs are all on the Schuylkill River where it flows through Fairmount Park in Philadelphia, mostly on the historic Boathouse Row.
+, Home of the Schuylkill Navy]] The Schuylkill Navy is an association of amateur rowing clubs of Philadelphia. Founded in 1858, it is the oldest amateur athletic governing body in the United States.[25] The member clubs are all on the Schuylkill River where it flows through Fairmount Park in Philadelphia, mostly on the historic Boathouse Row.
 
 By charter, the Schuylkill Navy's object is "to secure united action among the several Clubs and to promote amateurism on the Schuylkill River."[26] Over the years, the group has had a role in certain ceremonial and state functions.[27] The success of the Schuylkill Navy and similar organizations contributed heavily to the extinction of professional rowing and the sport's current status as an amateur sport.[28]
 
@@ -92,7 +90,7 @@ FISA first organized a European Rowing Championships in 1893.[34] An annual Worl
 
 Equipment
 
-Israeli_boathouse.jpg.]] DSCN1750-harald-without-nose.jpg
+.]]
 
 Racing boats (often called _shells_) are long, narrow, and broadly semi-circular in cross-section in order to reduce drag to a minimum. There is some trade off between boat speed and stability in choice of hull shape. They usually have a fin towards the rear, to help prevent roll and yaw and to increase the effectiveness of the rudder.
 
@@ -117,7 +115,7 @@ Many adjustments can be made to the equipment to accommodate the physiques of th
 
 Steering
 
-Single, and double sculls are usually steered by the scullers pulling harder on one side or the other. In other boats, there is a rudder, controlled by the coxswain, if present, or by one of the crew. In the latter case, the rudder cable is attached to the toe of one of his shoes which can pivot about the ball of the foot, moving the cable left or right. The bowman may steer since he has the best vision when looking over his shoulder. On straighter courses, the strokesman may steer, since he can point the stern of the boat at some landmark at the start of the course. On international courses, landmarks for the steersmen, consisting of two aligned poles, may be provided. Croker_Sculling_Oars.jpg
+Single, and double sculls are usually steered by the scullers pulling harder on one side or the other. In other boats, there is a rudder, controlled by the coxswain, if present, or by one of the crew. In the latter case, the rudder cable is attached to the toe of one of his shoes which can pivot about the ball of the foot, moving the cable left or right. The bowman may steer since he has the best vision when looking over his shoulder. On straighter courses, the strokesman may steer, since he can point the stern of the boat at some landmark at the start of the course. On international courses, landmarks for the steersmen, consisting of two aligned poles, may be provided.
 
 Blades
 
@@ -137,7 +135,7 @@ A rowing tank is an indoor facility which attempts to mimic the conditions rower
 
 Ergometer
 
-Concept2_Indoor_Rowers.JPG "Model C" ergometers]] Ergometer rowing machines (colloquially _ergs_ or _ergo_) simulate the rowing action and provide a means of training on land when waterborne training is restricted, and of measuring rowing fitness. Ergometers do not simulate the lateral balance challenges, the exact resistance of water, or the exact motions of true rowing including the sweep of the oar handles. For that reason ergometer scores are generally not used as the sole selection criterion for crews (colloquially _"ergs don't float"_), and technique training is limited to the basic body position and movements. However, this action can still allow a comparable workout to those experienced on the water.
+"Model C" ergometers]] Ergometer rowing machines (colloquially _ergs_ or _ergo_) simulate the rowing action and provide a means of training on land when waterborne training is restricted, and of measuring rowing fitness. Ergometers do not simulate the lateral balance challenges, the exact resistance of water, or the exact motions of true rowing including the sweep of the oar handles. For that reason ergometer scores are generally not used as the sole selection criterion for crews (colloquially _"ergs don't float"_), and technique training is limited to the basic body position and movements. However, this action can still allow a comparable workout to those experienced on the water.
 
 Sometimes, slides are placed underneath the erg to try to simulate the movement of being on the water. It allows the machine to move back and forth smoothly as if there is water beneath you. The slides can be connected in rows or columns so that rowers are forced to move together on the ergometer, similar to how they would match up their rhythm in a boat.
 
@@ -156,7 +154,7 @@ Boats are conveyed to competitions on special trailers accommodating up to 20 bo
 
 Boat storage, boat houses, and boat centers
 
-Lea_Rowing_Club-454.JPG in London.]]
+in London.]]
 
 Racing boats are stored in boat houses. These are specially designed storage areas which usually consist of a long two-story building with a large door at one end which leads out to a pontoon or slipway on the river or lakeside. The boats are stored on racks (horizontal bars, usually metal) on the ground floor. Oars, riggers, and other equipment is stored around the boats. Boat houses are typically associated with rowing clubs and include some social facilities on the upper floor: a cafe, bar, or gym.
 
@@ -171,7 +169,7 @@ Side by side
 
 Most races that are held in the spring and summer feature side by side racing, or sprint racing, sometimes called a regatta; all the boats start at the same time from a stationary position and the winner is the boat that crosses the finish line first. The number of boats in a race typically varies between two (which is sometimes referred to as a _dual race_) to eight, but any number of boats can start together if the course is wide enough.
 
-Rowing_at_the_2012_Summer_Olympics_9240_Mens_lightweight_coxless_four_-_Heat_2_-_GBR_CZE.jpg]] The standard length races for the Olympics and the World Rowing Championships is long; – for US high school races on the east coast; and 1,000 m for _masters_ rowers (rowers older than 27). However the race distance can and does vary from _dashes_ or sprints, which may be long, to races of marathon or ultra-marathon length races such as the Tour du Léman in Geneva, Switzerland which is ,[42] and the 2 day, Corvallis to Portland Regatta[43] held in Oregon, USA. In the UK, regattas are generally between and long.
+]] The standard length races for the Olympics and the World Rowing Championships is long; – for US high school races on the east coast; and 1,000 m for _masters_ rowers (rowers older than 27). However the race distance can and does vary from _dashes_ or sprints, which may be long, to races of marathon or ultra-marathon length races such as the Tour du Léman in Geneva, Switzerland which is ,[42] and the 2 day, Corvallis to Portland Regatta[43] held in Oregon, USA. In the UK, regattas are generally between and long.
 
 A feature of the end of twentieth century rowing was the development of non-olympic multicrew racing boats, typically fixed seat-gigs, pilot boats and in Finland church- or longboats. The most usual craft in races held around the coasts of Britain during summer months is the Cornish pilot gig, most typically in the south-west, with crews of 6 from local towns and races of varying distances. The Cornish pilot gig was designed and built to ferry harbour and river pilots to and from ships in fierce coastal waters. The boat needed to be stable and fast with the large crew hence making it ideal for its modern racing usage. In Finland 14-oared churchboats race throughout the summer months, usually on lakes, and often with mixed crews. The largest gathering sees over 7000 rowers mainly rowing the course at Sulkava[44] near the eastern border over a long weekend in mid July. The weekend features the World Masters churchboat event which also includes a dash.[45]
 
@@ -179,7 +177,7 @@ Two traditional non-standard distance shell races are the annual Boat Race betwe
 
 In general, multi-boat competitions are organized in a series of rounds, with the fastest boats in each heat qualifying for the next round. The losing boats from each heat may be given a second chance to qualify through a repechage. The World Rowing Championships offers multi-lane racing in heats, finals and repechages. At Henley Royal Regatta two crews compete side by side in each round, in a straightforward knock-out format, with no repechages.
 
-Laganhead.jpg Head of the River, Belfast. The closer boat is being overtaken by the boat on the far side.]]
+Head of the River, Belfast. The closer boat is being overtaken by the boat on the far side.]]
 
 Head races
 
@@ -193,7 +191,7 @@ Time trials are sometimes used to determine who competes in an event where there
 
 Bumps races
 
-Bumps_race_Oxford_1999.ogv at the University of Oxford, 1999: Jesus College Men's 1st VIII catch Hertford College.]] A BUMPS RACE is a multi-day race beginning with crews lined up along the river at set intervals. They start simultaneously and all pursue the boat ahead while avoiding being bumped by a boat from behind. If a crew overtakes or makes physical contact with the crew ahead, a _bump_ is awarded. As a result, damage to boats and equipment is common during bumps racing. To avoid damage the cox of the crew being bumped may concede the bump before contact is actually made. The next day, the bumping crew will start ahead of any crews that have been bumped. The positions at the end of the last race are used to set the positions on the first day of the races the next year. Oxford and Cambridge Universities hold bumps races for their respective colleges twice a year, and there are also _Town Bumps_ races in both cities, open to non-university crews. Oxford's races are organised by City of Oxford Rowing Club[47] and Cambridge's are organised by the Cambridgeshire Rowing Association.
+at the University of Oxford, 1999: Jesus College Men's 1st VIII catch Hertford College.]] A BUMPS RACE is a multi-day race beginning with crews lined up along the river at set intervals. They start simultaneously and all pursue the boat ahead while avoiding being bumped by a boat from behind. If a crew overtakes or makes physical contact with the crew ahead, a _bump_ is awarded. As a result, damage to boats and equipment is common during bumps racing. To avoid damage the cox of the crew being bumped may concede the bump before contact is actually made. The next day, the bumping crew will start ahead of any crews that have been bumped. The positions at the end of the last race are used to set the positions on the first day of the races the next year. Oxford and Cambridge Universities hold bumps races for their respective colleges twice a year, and there are also _Town Bumps_ races in both cities, open to non-university crews. Oxford's races are organised by City of Oxford Rowing Club[47] and Cambridge's are organised by the Cambridgeshire Rowing Association.
 
 Stake races
 
@@ -201,7 +199,7 @@ The stake format was often used in early American races. Competitors line up at 
 
 World Championships and Olympics
 
-Rrrowingg.jpg on an East German Stamp for the 1980 Olympic Games]]
+on an East German Stamp for the 1980 Olympic Games]]
 
 The Olympic Games are held every four years, where only select boat classes are raced (14 in total):
 
@@ -221,13 +219,13 @@ Rowing crew
 
 Boat positions
 
-BoatPositions.gif Rowers in multi-rower boats are numbered sequentially from the bow aft. The number-one rower is called the bowman, or just 'bow', whilst the rower closest to the stern is called the 'strokeman' or just 'stroke'. There are some exceptions to this – some UK coastal rowers, and in France, Spain, and Italy rowers number from stern to bow.
+Rowers in multi-rower boats are numbered sequentially from the bow aft. The number-one rower is called the bowman, or just 'bow', whilst the rower closest to the stern is called the 'strokeman' or just 'stroke'. There are some exceptions to this – some UK coastal rowers, and in France, Spain, and Italy rowers number from stern to bow.
 
 In addition to this, certain crew members have other titles and roles. In an 8+ the stern pair are responsible for setting the stroke rate and rhythm for the rest of the boat to follow. The middle four (sometimes called the "engine room" or "power house") are usually the less technical, but more powerful rowers in the crew, whilst the bow pair are the more technical and generally regarded as the pair to set up the balance of the boat. They also have most influence on the line the boat steers.
 
 Coxswain
 
-Coxswain_HOC_1.jpg of the boat, facing the rowers, at the Head of the Charles Regatta.]] The coxswain (or simply the cox) is the member who sits in the boat facing the bow, steers the boat, and coordinates the power and rhythm of the rowers – by communicating to the crew through a device called a cox box and speakers. They usually sit in the stern of the boat, except in bowloaders where the coxswain lies in the bow. Bowloader are usually seen as the coxed four and coxed pair type of boat.
+of the boat, facing the rowers, at the Head of the Charles Regatta.]] The coxswain (or simply the cox) is the member who sits in the boat facing the bow, steers the boat, and coordinates the power and rhythm of the rowers – by communicating to the crew through a device called a cox box and speakers. They usually sit in the stern of the boat, except in bowloaders where the coxswain lies in the bow. Bowloader are usually seen as the coxed four and coxed pair type of boat.
 
 It is an advantage for the coxswain to be light, as this requires less effort for the crew to propel the boat. In many competitive events there is a minimum weight set for the coxswain to prevent unfair advantage.
 
@@ -273,8 +271,6 @@ The first international women's races were the 1954 European Rowing Championship
 At the international level, women's rowing traditionally has been dominated by Eastern European countries, such as Romania, Russia, and Bulgaria, although other countries such as Germany, Canada, the Netherlands, Great Britain and New Zealand often field competitive teams.[63][64] The United States also has had very competitive crews, and in recent years these crews have become even more competitive given the surge in women's collegiate rowing.[65]
 
 Adaptive athletes
-
-Oksana_Masters_Rob_Jones_mixed_sculls_final_2012.jpg
 
 Adaptive rowing is a special category of races for those with physical disabilities. Under FISA rules there are 5 boat classes for adaptive rowers; mixed (2 men and 2 women plus cox) LTA (Legs, Trunk, Arms), mixed intellectual disability (2 men and 2 women plus cox) LTA (Legs, Trunk, Arms), mixed (1 man and 1 woman) TA (Trunk and Arms), and men's and women's AS (Arms and Shoulders). Events are held at the World Rowing Championships and were also held at the 2008 Summer Paralympics.[66]
 

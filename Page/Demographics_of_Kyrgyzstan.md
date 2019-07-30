@@ -1,11 +1,11 @@
-YurtIssykFamily.jpg and family]]
+and family]]
 
 The DEMOGRAPHICS OF KYRGYZSTAN is about the demographic features of the population of Kyrgyzstan, including population growth, population density, ethnicity, education level, health, economic status, religious affiliations, and other aspects of the population. The name Kyrgyz, both for the people and the country, means "forty girls" or "forty tribes", a reference to the epic hero Manas who unified forty tribes against the Oirats, as symbolized by the 40-ray sun on the flag of Kyrgyzstan.
 
 
 Demographic trends
 
-Kyrgyz_Musicians_in_Karakol.jpg Kyrgyzstan's population increased from 2.1 million to 4.8 million between the censuses of 1959 and 1999.[1] Official estimates set the population at 6,389,500 in 2019.[2] Of those, 34.4% are under the age of 15 and 6.2% are over the age of 65. The country is rural: only about one-third of Kyrgyzstan's population live in urban areas. The average population density is 69 people per square mile (29 people per km²).
+Kyrgyzstan's population increased from 2.1 million to 4.8 million between the censuses of 1959 and 1999.[1] Official estimates set the population at 6,389,500 in 2019.[2] Of those, 34.4% are under the age of 15 and 6.2% are over the age of 65. The country is rural: only about one-third of Kyrgyzstan's population live in urban areas. The average population density is 69 people per square mile (29 people per km²).
 
 The nation's largest ethnic group are the Kyrgyz, a Turkic people, which comprise 70.9% of the population (2009 census). Other ethnic groups include Russians (9.0%) concentrated in the north and Uzbeks (14.5%) living in the south. Small but noticeable minorities include Dungans (1.9%), Uyghurs (1.1%), Tajiks (1.1%), Kazakhs (0.7%) and Ukrainians (0.5%), and other smaller ethnic minorities (1.7%). Of the formerly sizable Volga German community, exiled here by Joseph Stalin from their earlier homes in the Volga German Republic, most have returned to Germany, and only a few small groups remain. A small percentage of the population are also Koreans, who are the descendants of the Koreans deported in 1937 from the Soviet Far East to Central Asia.
 
@@ -110,8 +110,6 @@ Natural increase:
 
 -   January-March of 2018: 33,809 (21.9)
 -   January-March of 2019: 33,547 (21.3)
-
-Население_Киргизии_за_2015.png
 
 Total fertility rate
 

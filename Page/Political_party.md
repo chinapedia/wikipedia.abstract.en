@@ -19,7 +19,7 @@ Emergence
 
 When they lost power, the old Whig leadership dissolved into a decade of factional chaos with distinct "Grenvillite", "Bedfordite", "Rockinghamite", and "Chathamite" factions successively in power, and all referring to themselves as "Whigs". Out of this chaos, the first distinctive parties emerged. The first such party was the Rockingham Whigs[5] under the leadership of Charles Watson-Wentworth and the intellectual guidance of the political philosopher Edmund Burke. Burke laid out a philosophy that described the basic framework of the political party as "a body of men united for promoting by their joint endeavours the national interest, upon some particular principle in which they are all agreed". As opposed to the instability of the earlier factions, which were often tied to a particular leader and could disintegrate if removed from power, the party was centred around a set of core principles and remained out of power as a united opposition to government.[6]
 
-A-Block-for-the-Wigs-Gillray.jpeg caricatured Fox's return to power in a coalition with North. George III is the blockhead in the centre.]]
+caricatured Fox's return to power in a coalition with North. George III is the blockhead in the centre.]]
 
 A coalition including the Rockingham Whigs, led by the Earl of Shelburne, took power in 1782, only to collapse after Rockingham's death. The new government, led by the radical politician Charles James Fox in coalition with Lord North, was soon brought down and replaced by William Pitt the Younger in 1783. It was now that a genuine two-party system began to emerge, with Pitt leading the new Tories against a reconstituted "Whig" party led by Fox.[7][8]
 
@@ -35,7 +35,7 @@ The splintering of the Democratic-Republican Party in the aftermath of the conte
 
 Spread
 
-Parnell_sitting.jpg, leader of the Irish Parliamentary Party]] The second half of the 19th century saw the adoption of the party model of politics across Europe. In Germany, France, Austria and elsewhere, the 1848 Revolutions sparked a wave of liberal sentiment and the formation of representative bodies and political parties. The end of the century saw the formation of large socialist parties in Europe, some conforming to the teaching of Karl Marx, others adapting social democracy through the use of reformist and gradualist methods.[13]
+, leader of the Irish Parliamentary Party]] The second half of the 19th century saw the adoption of the party model of politics across Europe. In Germany, France, Austria and elsewhere, the 1848 Revolutions sparked a wave of liberal sentiment and the formation of representative bodies and political parties. The end of the century saw the formation of large socialist parties in Europe, some conforming to the teaching of Karl Marx, others adapting social democracy through the use of reformist and gradualist methods.[13]
 
 At the same time, the political party reached its modern form, with a membership disciplined through the use of a party whip and the implementation of efficient structures of control. The Home Rule League Party, campaigning for Home Rule for Ireland in the British Parliament was fundamentally changed by the Irish political leader Charles Stewart Parnell in the 1880s. In 1882, he changed his party's name to the Irish Parliamentary Party and created a well-organized grass roots structure, introducing membership to replace "ad hoc" informal groupings. He created a new selection procedure to ensure the professional selection of party candidates committed to taking their seats, and in 1884 he imposed a firm 'party pledge' which obliged MPs to vote as a bloc in parliament on all occasions. The creation of a strict party whip and a formal party structure was unique at the time. His party's efficient structure and control contrasted with the loose rules and flexible informality found in the main British parties; they soon came to model themselves on the Parnellite model.
 
@@ -95,7 +95,7 @@ The UK political system, while technically a multi-party system, has functioned 
 
 Multi-party systems
 
-ElezioneBrunate.jpg election 2004 in Italy, showing party lists]] Multi-party systems are systems in which more than two parties are represented and elected to public office.
+election 2004 in Italy, showing party lists]] Multi-party systems are systems in which more than two parties are represented and elected to public office.
 
 Australia, Canada, Nepal, Pakistan, India, Ireland, United Kingdom and Norway are examples of countries with two strong parties and additional smaller parties that have also obtained representation. The smaller or "third" parties may hold the balance of power in a parliamentary system, and thus may be invited to form a part of a coalition government together with one of the larger parties, or may provide a supply and confidence agreement to the government; or may instead act independently from the dominant parties.
 

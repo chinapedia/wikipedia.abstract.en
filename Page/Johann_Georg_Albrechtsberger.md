@@ -1,4 +1,4 @@
-Johann_Georg_Albrechtsberger.jpg]] JOHANN GEORG ALBRECHTSBERGER (3 February 1736 – 7 March 1809)[1] was an Austrian composer, organist, and music theorist and one of the teachers of Ludwig van Beethoven.
+]] JOHANN GEORG ALBRECHTSBERGER (3 February 1736 – 7 March 1809)[1] was an Austrian composer, organist, and music theorist and one of the teachers of Ludwig van Beethoven.
 
 
 Biography
@@ -14,7 +14,7 @@ Albrechtsberger died in Vienna; his grave is in St. Marx cemetery.
 
 Compositions
 
-Johann_Georg_Albrechtsberger_-_VII_Canoni_a_piu_voci_in_partitura_-_British_Library_-_Add_MS_38070_f44r.jpg His published compositions consist of preludes, fugues and sonatas for the piano and organ, string quartets, etc.; but the greater proportion of his works, vocal and instrumental, exists only in manuscript. They are in the library of the Vienna Gesellschaft der Musikfreunde. Around 1765, he wrote at least seven concerti for jaw harp and strings (three survive in the Hungarian National Library in Budapest). They are pleasant, well written works in the galant style. One of his most notable works is his Concerto for Alto Trombone and Orchestra in B Major. As the trombone has few works dating back to the classical period, his concerto is often highlighted by the trombone community. He also wrote a Concerto for the Mandola, Op. 27, written positively about in the 1914 book _The Guitar and Mandolin_.[4]
+His published compositions consist of preludes, fugues and sonatas for the piano and organ, string quartets, etc.; but the greater proportion of his works, vocal and instrumental, exists only in manuscript. They are in the library of the Vienna Gesellschaft der Musikfreunde. Around 1765, he wrote at least seven concerti for jaw harp and strings (three survive in the Hungarian National Library in Budapest). They are pleasant, well written works in the galant style. One of his most notable works is his Concerto for Alto Trombone and Orchestra in B Major. As the trombone has few works dating back to the classical period, his concerto is often highlighted by the trombone community. He also wrote a Concerto for the Mandola, Op. 27, written positively about in the 1914 book _The Guitar and Mandolin_.[4]
 
 Probably the most valuable service he rendered to music was in his theoretical works. In 1790 he published at Leipzig a treatise on composition, of which a third edition appeared in 1821. A collection of his writings on harmony, in three volumes, was published under the care of his pupil Ignaz von Seyfried (1776–1841) in 1826. An English version of this was published by Novello in 1855. His compositional style derives from Johann Joseph Fux's counterpoint, who was Kapellmeister at St Stephen's Cathedral 1713-1741, a position that Albrechtsberger would hold 52 years later.
 

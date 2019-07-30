@@ -1,6 +1,6 @@
-Phospholipid_TvanBrussel.edit.jpg Phospholipid_Chemicalmakeup.png Phosphatidyl-Choline.svg is the major component of lecithin. It is also a source for choline in the synthesis of acetylcholine in cholinergic neurons.]]
+is the major component of lecithin. It is also a source for choline in the synthesis of acetylcholine in cholinergic neurons.]]
 
-Cell_membrane_detailed_diagram_4.svgs consist of phospholipid bilayers]]
+s consist of phospholipid bilayers]]
 
 PHOSPHOLIPIDS are a class of lipids that are a major component of all cell membranes. They can form lipid bilayers because of their amphiphilic characteristic. The structure of the phospholipid molecule generally consists of two hydrophobic fatty acid "tails" and a hydrophilic "head" consisting of a phosphate group. The two components are joined together by a glycerol molecule. The phosphate groups can be modified with simple organic molecules such as choline, ethanolamine or serine.
 

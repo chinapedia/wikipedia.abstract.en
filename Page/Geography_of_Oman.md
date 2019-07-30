@@ -8,8 +8,6 @@ Oman is located in the southeastern quarter of the Arabian Peninsula and covers 
 
 Geographical regions
 
-Oman_Map_FBOI.gif Oman_1996_CIA_map.jpg
-
 Natural features divide the country into six distinct areas: Ru'us al-Jibal, including the northern Musandam Peninsula;[4] the Batinah plain running southeast along the Gulf of Oman coast;[5] the Oman interior behind the Batinah coast comprising the Hajar Mountains, their foothills, and desert fringes; the coast from Muscat-Matrah around the point of Ras Al Hadd,[6] and down the Arabian Sea; the offshore island of Masirah; and finally the barren coastline south to the Dhofar region in the south.
 
 Except for the foggy and fertile Dhofar, all of the coast and the lowlands around the Hajar mountains are part of the Gulf of Oman desert and semi-desert ecoregion, while the mountains themselves are a distinct habitat.
@@ -50,7 +48,7 @@ Al Dharerah region consists of three parts: Dhank, Ibri and Yanqul.
 
 Climate
 
-Dust_storm_in_Oman.jpg captured this dust cloud blowing out over the Arabian Sea from Oman. March 12, 2000]] According to Köppen climate classification Oman has three different climates (BWh, BSk, BSh) and is dominated by BWh.
+captured this dust cloud blowing out over the Arabian Sea from Oman. March 12, 2000]] According to Köppen climate classification Oman has three different climates (BWh, BSk, BSh) and is dominated by BWh.
 
 With the exception of Dhofari region, which has a strong monsoon climate and receives warm winds from the Indian Ocean, the climate of Oman is extremely hot and dry most of the year.
 

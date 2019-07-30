@@ -1,4 +1,4 @@
-Rishabhanatha, believed to have lived over a million years ago, was the first _Tirthankara_ to attain nirvana. __ ( , , ;[1] _nirvāṇa_ ; _nibbāna_; _ṇivvāṇa_, literally "blown out", as in an oil lamp[2]) is commonly associated with Hinduism, Jainism and Buddhism, and represents its ultimate state of soteriological release, the liberation from repeated rebirth in _saṃsāra_.[3][4][5]
+__ ( , , ;[1] _nirvāṇa_ ; _nibbāna_; _ṇivvāṇa_, literally "blown out", as in an oil lamp[2]) is commonly associated with Hinduism, Jainism and Buddhism, and represents its ultimate state of soteriological release, the liberation from repeated rebirth in _saṃsāra_.[3][4][5]
 
 In Indian religions, _nirvana_ is synonymous with _moksha_ and _mukti_. All Indian religions assert it to be a state of perfect quietude, freedom, highest happiness as well as the liberation from or ending of _samsara_, the repeating cycle of birth, life and death.[6][7]
 
@@ -27,7 +27,7 @@ Although the term occurs in the literatures of a number of ancient Indian tradit
 
 Buddhism
 
-Gautama_Buddha_gains_nirvana.jpg entering nirvana, Dharma assembly pavilion, Wat Botum Wattey Reacheveraram, Phnom Penh, Cambodia.]] Nirvana (_nibbana_) literally means "blowing out" or "quenching".[28] It is the most used as well as the earliest term to describe the soteriological goal in Buddhism: release from the cycle of rebirth (_saṃsāra_). Nirvana is part of the Third Truth on "cessation of dukkha" in the Four Noble Truths doctrine of Buddhism. It is the goal of the Noble Eightfold Path.
+entering nirvana, Dharma assembly pavilion, Wat Botum Wattey Reacheveraram, Phnom Penh, Cambodia.]] Nirvana (_nibbana_) literally means "blowing out" or "quenching".[28] It is the most used as well as the earliest term to describe the soteriological goal in Buddhism: release from the cycle of rebirth (_saṃsāra_). Nirvana is part of the Third Truth on "cessation of dukkha" in the Four Noble Truths doctrine of Buddhism. It is the goal of the Noble Eightfold Path.
 
 The Buddha is believed in the Buddhist scholastic tradition to have realized two types of nirvana, one at enlightenment, and another at his death. The first is called _sopadhishesa-nirvana_ (nirvana with a remainder), the second _parinirvana_ or _anupadhishesa-nirvana_ (nirvana without remainder, or final nirvana).
 
@@ -59,7 +59,7 @@ According to Mahatma Gandhi, the Hindu and Buddhist understanding of _nirvana_ a
 
 Jainism
 
-Kalpasutra_Mahavira_Nirvana.jpg folio on _Mahavira Nirvana_. Note the crescent shaped _Siddhashila_, a place where all siddhas reside after nirvana.]] The terms _moksa_ and _nirvana_ are often used interchangeably in the Jain texts.[50][51]
+folio on _Mahavira Nirvana_. Note the crescent shaped _Siddhashila_, a place where all siddhas reside after nirvana.]] The terms _moksa_ and _nirvana_ are often used interchangeably in the Jain texts.[50][51]
 
 Uttaradhyana Sutra provides an account of Sudharman – also called Gautama, and one of the disciples of Mahavira – explaining the meaning of nirvana to Kesi, a disciple of Parshva.[52]
 

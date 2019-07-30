@@ -1,4 +1,4 @@
-LargeTribarGotschuchenAustria.JPG]]
+]]
 
 A PARADOX is a statement that, despite apparently valid reasoning from true premises, leads to an apparently-self-contradictory or logically unacceptable conclusion.[1][2] A paradox involves contradictory-yet-interrelated elements that exist simultaneously and persist over time.[3][4][5]
 

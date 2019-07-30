@@ -44,7 +44,7 @@ In 1853 Pope Pius IX received guarantees of religious freedom from King William 
 
 Impact of the First Vatican Council: second stage
 
-Altkatholische_Kirche_Gablonz_Jablonec.jpg church in Gablonz an der Neiße, Austria-Hungary (now Jablonec nad Nisou, Czech Republic). Some ethnic German Catholics supported Döllinger in his rejection of the Roman Catholic dogma of papal infallibility.]]
+church in Gablonz an der Neiße, Austria-Hungary (now Jablonec nad Nisou, Czech Republic). Some ethnic German Catholics supported Döllinger in his rejection of the Roman Catholic dogma of papal infallibility.]]
 
 After the First Vatican Council (1869–1870), several groups of Catholics in Austria-Hungary, Imperial Germany, and Switzerland rejected the Roman Catholic dogma of papal infallibility in matters of faith and morals and left to form their own churches.[33] These were supported by the Old Catholic Archbishop of Utrecht, who ordained priests and bishops for them. Later the Dutch were united more formally with many of these groups under the name "Utrecht Union of Churches".[34]
 

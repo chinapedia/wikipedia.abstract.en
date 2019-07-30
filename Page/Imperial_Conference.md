@@ -1,4 +1,4 @@
-ImperialConference.jpg (front, centre) with his prime ministers in 1926. Standing (left to right): Walter Stanley Monroe (Newfoundland), Gordon Coates (New Zealand), Stanley Bruce (Australia), J. B. M. Hertzog (Union of South Africa), W. T. Cosgrave (Irish Free State). Seated: Stanley Baldwin (United Kingdom), King George V, William Lyon Mackenzie King (Canada).]]
+(front, centre) with his prime ministers in 1926. Standing (left to right): Walter Stanley Monroe (Newfoundland), Gordon Coates (New Zealand), Stanley Bruce (Australia), J. B. M. Hertzog (Union of South Africa), W. T. Cosgrave (Irish Free State). Seated: Stanley Baldwin (United Kingdom), King George V, William Lyon Mackenzie King (Canada).]]
 
 IMPERIAL CONFERENCES (COLONIAL CONFERENCES before 1907) were periodic gatherings of government leaders from the self-governing colonies and dominions of the British Empire between 1887 and 1937, before the establishment of regular Meetings of Commonwealth Prime Ministers in 1944. They were held in 1887, 1894, 1897, 1902, 1907, 1911, 1921, 1923, 1926, 1930, 1932 and 1937.
 

@@ -24,8 +24,6 @@ It is also one of the ingredients in Spreewald gherkins.
 
 Traditional medicine
 
-MelissaEssentialOil.png
-
 In traditional Austrian medicine, _M. officinalis_ leaves have been prescribed for internal use—as a tea—or external application—as an essential oil—for the treatment of disorders of the gastrointestinal tract, nervous system, liver, and bile.[14] Lemon balm is the main ingredient of Carmelite water, which is still for sale in German pharmacies.[15]
 
 In alternative medicine it is used as a sleep aid and digestive aid.[16]

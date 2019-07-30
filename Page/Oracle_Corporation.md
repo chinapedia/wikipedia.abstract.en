@@ -1,4 +1,4 @@
-Larry_Elllison_on_stage.jpg, executive chairman of Oracle]]
+, executive chairman of Oracle]]
 
 ORACLE CORPORATION is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems. In 2018, Oracle was the third-largest software company by revenue.
 
@@ -176,8 +176,6 @@ Operating systems
 Oracle Corporation develops and supports two operating systems: Oracle Solaris and Oracle Linux.
 
 Hardware
-
-OracleExadataExalogic.JPG
 
 -   The Sun hardware range acquired by Oracle Corporation's purchase of Sun Microsystems
 -   Oracle SPARC T-series servers and M-series mainframes developed and released after Sun acquisition
@@ -447,7 +445,7 @@ Oracle Corporation operates in multiple markets and has acquired several compani
 
 Sponsorships
 
-German_Sailing_Grand_Prix_2006_Oracle-2.jpg On October 20, 2006, the Golden State Warriors and the Oracle Corporation announced a 10-year agreement in which the Oakland Arena would become known as the Oracle Arena.[148]
+On October 20, 2006, the Golden State Warriors and the Oracle Corporation announced a 10-year agreement in which the Oakland Arena would become known as the Oracle Arena.[148]
 
 Larry Ellison's sailing team competes as Oracle Team USA. The team has won the America's Cup twice, in 2010 (as BMW Oracle Racing)[149] and in 2013,[150] despite being penalized for cheating.[151][152]
 

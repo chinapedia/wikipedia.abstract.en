@@ -61,7 +61,7 @@ Reporting his assassination, the BBC described Ze'evi as "one of the most contro
 
 Controversy
 
-Route90_1.jpg In 1975, Ehud Olmert, later Prime Minister of Israel, accused Ze'evi of protecting organized crime figures. Ze'evi sued Olmert for libel but lost the case.[42] In September 1991, while serving as Minister without Portfolio, he called then US President George H. W. Bush an "anti-Semite." [43][44]
+In 1975, Ehud Olmert, later Prime Minister of Israel, accused Ze'evi of protecting organized crime figures. Ze'evi sued Olmert for libel but lost the case.[42] In September 1991, while serving as Minister without Portfolio, he called then US President George H. W. Bush an "anti-Semite." [43][44]
 
 In 1997, he called then US Ambassador to Israel, Martin Indyk a "yehudon" (Hebrew for "Jewboy") and challenged him to a fistfight. Indyk responded by calling him a "son of a bitch".[45] The insult was apparently because the ambassador was urging Israel to make concessions in talks with the Palestinians.[46]
 

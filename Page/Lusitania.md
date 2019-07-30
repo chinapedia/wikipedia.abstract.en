@@ -1,4 +1,4 @@
-Iberian_Peninsula_in_125-en.svg (ruled 117–138 AD), showing, in western Iberia, the imperial province of _Lusitania_ (Portugal and Extremadura)]] LUSITANIA () or HISPANIA LUSITANA was an ancient Iberian Roman province located where modern Portugal (south of the Douro river) and part of western Spain (the present autonomous community of Extremadura and a part of the province of Salamanca) lie. It was named after the LUSITANI or Lusitanian people (an Indo-European people).
+(ruled 117–138 AD), showing, in western Iberia, the imperial province of _Lusitania_ (Portugal and Extremadura)]] LUSITANIA () or HISPANIA LUSITANA was an ancient Iberian Roman province located where modern Portugal (south of the Douro river) and part of western Spain (the present autonomous community of Extremadura and a part of the province of Salamanca) lie. It was named after the LUSITANI or Lusitanian people (an Indo-European people).
 
 Its capital was _Emerita Augusta_ (currently Mérida, Spain), and it was initially part of the Roman Republic province of Hispania Ulterior, before becoming a province of its own in the Roman Empire. Romans first came to the territory around the mid-2nd century BC.[1] A war with Lusitanian tribes followed, from 155 to 139 BC. In 27 BC, the province was created.[2]
 
@@ -16,7 +16,7 @@ In his work, _Geography_, the classical geographer Strabo (died ca. 24 AD) sugge
 
 Lusitanians
 
-Iberia_300BC-en.svg The Lusitani, who were Indo-European speakers, established themselves in the region in the 6th century BC, but historians and archeologists are still undecided about their ethnogenesis. Some modern authors consider them to be an indigenous people who were Celticized culturally and possibly also through intermarriage.[8]
+The Lusitani, who were Indo-European speakers, established themselves in the region in the 6th century BC, but historians and archeologists are still undecided about their ethnogenesis. Some modern authors consider them to be an indigenous people who were Celticized culturally and possibly also through intermarriage.[8]
 
 The archeologist Scarlat Lambrino defended the position that the Lusitanians were a tribal group of Celtic origin related to the Lusones (a tribe that inhabited the east of Iberia). Some have claimed that both tribes came from the Swiss mountains. Others argue that the evidence points to the Lusitanians being a native Iberian tribe, resulting from intermarriage between different local tribes.
 
@@ -25,7 +25,7 @@ The first area colonized by the Lusitani was probably the Douro valley and the r
 
 War against Rome
 
-Conquista_Hispania.svg The Lusitani are mentioned for the first time in Livy (218 BC) and are described as fighting for the Carthaginians; they are reported as fighting against Rome in 194 BC, sometimes allied with Celtiberian tribes.
+The Lusitani are mentioned for the first time in Livy (218 BC) and are described as fighting for the Carthaginians; they are reported as fighting against Rome in 194 BC, sometimes allied with Celtiberian tribes.
 
 In 179 BC, the _praetor_ Lucius Postumius Albinus celebrated a triumph over the Lusitani, but in 155 BC, on the command of Punicus (Πουνίκου, perhaps a Carthaginian) first and Cesarus (Καίσαρος) after, the Lusitani reached Gibraltar. Here they were defeated by the _praetor_ Lucius Mummius.
 
@@ -36,7 +36,7 @@ Romans scored other victories with _proconsul_ Decimus Junius Brutus Callaicus a
 
 Roman province
 
-Hispania2c.JPG (AD 293); Lusitania found in the extreme west]] Centum_Cellas.jpg]] Evora-RomanTemple.jpg]] Ruinas_Romanas_de_Milreu_2017_-_Templo.jpg]] Merida_Roman_Theatre2.jpg]]
+(AD 293); Lusitania found in the extreme west]] ]] ]] ]] ]]
 
 Division under Augustus (25–20 BC)
 

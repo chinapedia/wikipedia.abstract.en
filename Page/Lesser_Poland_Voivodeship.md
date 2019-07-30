@@ -24,12 +24,12 @@ Located in Southern Poland, Lesser Poland is the warmest place in Poland with av
 
 Tourism
 
-Wieliczka_salt_mine.jpg is a UNESCO World Heritage Site]] Four national parks and numerous reserves have been established in the voivodeship to protect the environment of Lesser Poland. The region has areas for tourism and recreation, including Zakopane (Poland's most popular winter resort) and the Tatra, Pieniny and Beskidy Mountains. The natural landscape features many historic sites. The salt mine at Wieliczka, the pilgrimage town of Kalwaria Zebrzydowska, and Kraków's Old Town are ranked by UNESCO among the most precious sites of world heritage. At Wadowice, birthplace of John Paul II (50 kilometers southwest of Kraków) is a museum dedicated to the late Pope's childhood. The area of Oświęcim, with the former Nazi concentration camps Auschwitz-I and Auschwitz-II-Birkenau, is visited annually by a million people. Another tourist destination is the town of Bochnia with its salt mine, Europe's oldest.
+is a UNESCO World Heritage Site]] Four national parks and numerous reserves have been established in the voivodeship to protect the environment of Lesser Poland. The region has areas for tourism and recreation, including Zakopane (Poland's most popular winter resort) and the Tatra, Pieniny and Beskidy Mountains. The natural landscape features many historic sites. The salt mine at Wieliczka, the pilgrimage town of Kalwaria Zebrzydowska, and Kraków's Old Town are ranked by UNESCO among the most precious sites of world heritage. At Wadowice, birthplace of John Paul II (50 kilometers southwest of Kraków) is a museum dedicated to the late Pope's childhood. The area of Oświęcim, with the former Nazi concentration camps Auschwitz-I and Auschwitz-II-Birkenau, is visited annually by a million people. Another tourist destination is the town of Bochnia with its salt mine, Europe's oldest.
 
 
 List of cities and towns
 
-Kościół_Mariacki_w_Krakowie_i_pomnik_Mickiewicza.jpg, capital of Lesser Poland]] Ratusz_w_Tarnowie_1.jpg]] Nowy_Sącz_-_Ratusz_01.jpg]] Oświęcim._Dawny_ratusz2.JPG]] Chrzanow_rynek.jpg]] BazylikaŚwAndrzeja-WidokZRynku-POL,_Olkusz.jpg]] Nt-223.jpg]] Widok_układu_urbanistycznego_Bochni_z_wieży_kościoła_farnego.jpg]] The voivodeship contains 61 cities and towns. These are listed below in descending order of population (according to official figures for 2006[2] ):
+, capital of Lesser Poland]] ]] ]] ]] ]] ]] ]] ]] The voivodeship contains 61 cities and towns. These are listed below in descending order of population (according to official figures for 2006[2] ):
 
 
 Administrative division
@@ -117,7 +117,7 @@ The counties are listed in the following table (ordering within categories is by
 
 Protected areas
 
-CzarnyStawZakopane.jpg in the High Tatras]] PL_Szczawnica_Dom_Nad_Zdrojami.JPG in the Pieniny Mountains]] Protected areas in Lesser Poland Voivodeship include six National Parks and 11 Landscape Parks. These are listed below.
+in the High Tatras]] in the Pieniny Mountains]] Protected areas in Lesser Poland Voivodeship include six National Parks and 11 Landscape Parks. These are listed below.
 
 -   Babia Góra National Park (a UNESCO-designated biosphere reserve)
 -   Gorce National Park

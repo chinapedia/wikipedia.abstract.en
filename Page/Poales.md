@@ -3,7 +3,7 @@ The POALES are a large order of flowering plants in the monocotyledons, and incl
 
 Description
 
-Billbergia_pyramidalis_in_Hyderabad_Nursery_W_IMG_0425.jpg'' of family Bromeliaceae]] The flowers are typically small, enclosed by bracts, and arranged in inflorescences (except in three species of the genus _Mayaca_, which possess very reduced, one-flowered inflorescences). The flowers of many species are wind pollinated; the seeds usually contain starch.
+'' of family Bromeliaceae]] The flowers are typically small, enclosed by bracts, and arranged in inflorescences (except in three species of the genus _Mayaca_, which possess very reduced, one-flowered inflorescences). The flowers of many species are wind pollinated; the seeds usually contain starch.
 
 
 Taxonomy
@@ -38,7 +38,7 @@ Historic taxonomy
 
 Cyperales
 
-Cyperus_javanicus_closeup.jpg'']] CYPERALES was a name for an order of flowering plants. As used in the Engler system (update, of 1964) and in the Wettstein system it consisted of only the single family. In the Cronquist system it is used for an order (placed in subclass _Commelinidae_) and circumscribed as (1981):[6]
+'']] CYPERALES was a name for an order of flowering plants. As used in the Engler system (update, of 1964) and in the Wettstein system it consisted of only the single family. In the Cronquist system it is used for an order (placed in subclass _Commelinidae_) and circumscribed as (1981):[6]
 
 -   order _Cyperales_
 
@@ -49,7 +49,7 @@ The APG system now assigns the plants involved to the order _Poales_.
 
 Eriocaulales
 
-Eriocaulon_decangulare_(1832).jpg'']]
+'']]
 
 ERIOCAULALES is a botanical name for an order of flowering plants. The name was published by Takenoshin Nakai. In the Cronquist system the name was used for an order placed in the subclass _Commelinidae_. The order consisted of one family only (1981):
 

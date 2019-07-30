@@ -78,14 +78,14 @@ A distribution with positive excess kurtosis is called LEPTOKURTIC, or leptokurt
 
 Platykurtic
 
-1909_US_Penny.jpg is the most platykurtic distribution]] A distribution with negative excess kurtosis is called PLATYKURTIC, or platykurtotic. "Platy-" means "broad".[13] In terms of shape, a platykurtic distribution has _thinner tails_. Examples of platykurtic distributions include the continuous and discrete uniform distributions, and the raised cosine distribution. The most platykurtic distribution of all is the Bernoulli distribution with _p_ = 1/2 (for example the number of times one obtains "heads" when flipping a coin once, a coin toss), for which the excess kurtosis is −2. Such distributions are sometimes termed _sub-Gaussian_.[14]
+is the most platykurtic distribution]] A distribution with negative excess kurtosis is called PLATYKURTIC, or platykurtotic. "Platy-" means "broad".[13] In terms of shape, a platykurtic distribution has _thinner tails_. Examples of platykurtic distributions include the continuous and discrete uniform distributions, and the raised cosine distribution. The most platykurtic distribution of all is the Bernoulli distribution with _p_ = 1/2 (for example the number of times one obtains "heads" when flipping a coin once, a coin toss), for which the excess kurtosis is −2. Such distributions are sometimes termed _sub-Gaussian_.[14]
 
 
 Graphical examples
 
 The Pearson type VII family
 
-Pearson_type_VII_distribution_PDF.png for the Pearson type VII distribution with excess kurtosis of infinity (red); 2 (blue); and 0 (black)]] Pearson_type_VII_distribution_log-PDF.png
+for the Pearson type VII distribution with excess kurtosis of infinity (red); 2 (blue); and 0 (black)]]
 
 The effects of kurtosis are illustrated using a parametric family of distributions whose kurtosis can be adjusted while their lower-order moments and cumulants remain constant. Consider the Pearson type VII family, which is a special case of the Pearson type IV family restricted to symmetric densities. The probability density function is given by
 
@@ -110,7 +110,7 @@ In the images on the right, the blue curve represents the density x ↦ g(x;
 
 Of well-known distributions
 
-Standard_symmetric_pdfs.pngs for selected distributions with mean 0, variance 1 and different excess kurtosis]] Standard_symmetric_pdfs_logscale.pngs of probability density functions for selected distributions with mean 0, variance 1 and different excess kurtosis]]
+s for selected distributions with mean 0, variance 1 and different excess kurtosis]] s of probability density functions for selected distributions with mean 0, variance 1 and different excess kurtosis]]
 
 Several well-known, unimodal and symmetric distributions from different parametric families are compared here. Each has a mean and skewness of zero. The parameters have been chosen to result in a variance equal to 1 in each case. The images on the right show curves for the following seven densities, on a linear scale and logarithmic scale:
 

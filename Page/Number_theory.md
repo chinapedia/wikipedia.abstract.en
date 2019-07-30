@@ -1,4 +1,4 @@
-Spirale_Ulam_150.jpg of the integers is a central point of study in number theory and can be visualised with this Ulam spiral variant. Number theory seeks to understand the properties of integer systems like this, in spite of their apparent complexity.]] NUMBER THEORY (or ARITHMETIC or HIGHER ARITHMETIC in older usage) is a branch of pure mathematics devoted primarily to the study of the integers. German mathematician Carl Friedrich Gauss (1777–1855) said, "Mathematics is the queen of the sciences—and number theory is the queen of mathematics." Number theorists study prime numbers as well as the properties of objects made out of integers (for example, rational numbers) or defined as generalizations of the integers (for example, algebraic integers).
+of the integers is a central point of study in number theory and can be visualised with this Ulam spiral variant. Number theory seeks to understand the properties of integer systems like this, in spite of their apparent complexity.]] NUMBER THEORY (or ARITHMETIC or HIGHER ARITHMETIC in older usage) is a branch of pure mathematics devoted primarily to the study of the integers. German mathematician Carl Friedrich Gauss (1777–1855) said, "Mathematics is the queen of the sciences—and number theory is the queen of mathematics." Number theorists study prime numbers as well as the properties of objects made out of integers (for example, rational numbers) or defined as generalizations of the integers (for example, algebraic integers).
 
 Integers can be considered either in themselves or as solutions to equations (Diophantine geometry). Questions in number theory are often best understood through the study of analytical objects (for example, the Riemann zeta function) that encode properties of the integers, primes or other number-theoretic objects in some fashion (analytic number theory). One may also study real numbers in relation to rational numbers, for example, as approximated by the latter (Diophantine approximation).
 
@@ -11,7 +11,7 @@ Origins
 
 Dawn of arithmetic
 
-Plimpton_322.jpg The first historical find of an arithmetical nature is a fragment of a table: the broken clay tablet Plimpton 322 (Larsa, Mesopotamia, ca. 1800 BCE) contains a list of "Pythagorean triples", that is, integers (a, b, c) such that a² + b² = c². The triples are too many and too large to have been obtained by brute force. The heading over the first column reads: "The _takiltum_ of the diagonal which has been subtracted such that the width..."[3]
+The first historical find of an arithmetical nature is a fragment of a table: the broken clay tablet Plimpton 322 (Larsa, Mesopotamia, ca. 1800 BCE) contains a list of "Pythagorean triples", that is, integers (a, b, c) such that a² + b² = c². The triples are too many and too large to have been obtained by brute force. The heading over the first column reads: "The _takiltum_ of the diagonal which has been subtracted such that the width..."[3]
 
 The table's layout suggests[4] that it was constructed by means of what amounts, in modern language, to the identity
 
@@ -65,7 +65,7 @@ In 1773, Lessing published an epigram he had found in a manuscript during his wo
 
 Diophantus
 
-Diophantus-cover.jpg by Claude Gaspard Bachet de Méziriac.]]
+by Claude Gaspard Bachet de Méziriac.]]
 
 Very little is known about Diophantus of Alexandria; he probably lived in the third century CE, that is, about five hundred years after Euclid. Six out of the thirteen books of Diophantus's _Arithmetica_ survive in the original Greek; four more books survive in an Arabic translation. The _Arithmetica_ is a collection of worked-out problems where the task is invariably to find rational solutions to a system of polynomial equations, usually of the form f(x, y) = z² or f(x, y, z) = w². Thus, nowadays, we speak of _Diophantine equations_ when we speak of polynomial equations to which rational or integer solutions must be found.
 
@@ -87,7 +87,7 @@ Indian mathematics remained largely unknown in Europe until the late eighteenth 
 
 Arithmetic in the Islamic golden age
 
-Hevelius_Selenographia_frontispiece.png seen by the West: frontispice of _Selenographia_, showing Alhasen representing knowledge through reason, and Galileo representing knowledge through the senses.]]
+seen by the West: frontispice of _Selenographia_, showing Alhasen representing knowledge through reason, and Galileo representing knowledge through the senses.]]
 
 In the early ninth century, the caliph Al-Ma'mun ordered translations of many Greek mathematical works and at least one Sanskrit work (the _Sindhind_, which may [17] or may not[18] be Brahmagupta's Brāhmasphuṭasiddhānta). Diophantus's main work, the _Arithmetica_, was translated into Arabic by Qusta ibn Luqa (820–912). Part of the treatise _al-Fakhri_ (by al-Karajī, 953 – ca. 1029) builds on it to some extent. According to Rashed Roshdi, Al-Karajī's contemporary Ibn al-Haytham knew what would later be called Wilson's theorem.
 
@@ -99,7 +99,7 @@ Early modern number theory
 
 Fermat
 
-Pierre_de_Fermat.png]]
+]]
 
 Pierre de Fermat (1607–1665) never published his writings; in particular, his work on number theory is contained almost entirely in letters to mathematicians and in private marginal notes. He wrote down nearly no proofs in number theory; he had no models in the area.[20]
 
@@ -119,7 +119,7 @@ Fermat's claim ("Fermat's last theorem") to have shown there are no solutions to
 
 Euler
 
-Leonhard_Euler.jpg]]
+]]
 
 The interest of Leonhard Euler (1707–1783) in number theory was first spurred in 1729, when a friend of his, the amateur[25] Goldbach, pointed him towards some of Fermat's work on the subject. This has been called the "rebirth" of modern number theory, after Fermat's relative lack of success in getting his contemporaries' attention for the subject.[26] Euler's work on number theory includes the following:[27]
 
@@ -131,13 +131,11 @@ The interest of Leonhard Euler (1707–1783) in number theory was first spurred 
 
 Lagrange, Legendre, and Gauss
 
-Disqvisitiones-800.jpg's Disquisitiones Arithmeticae, first edition]]
+'s Disquisitiones Arithmeticae, first edition]]
 
 Joseph-Louis Lagrange (1736–1813) was the first to give full proofs of some of Fermat's and Euler's work and observations—for instance, the four-square theorem and the basic theory of the misnamed "Pell's equation" (for which an algorithmic solution was found by Fermat and his contemporaries, and also by Jayadeva and Bhaskara II before them.) He also studied quadratic forms in full generality (as opposed to mX² + nY²)—defining their equivalence relation, showing how to put them in reduced form, etc.
 
 Adrien-Marie Legendre (1752–1833) was the first to state the law of quadratic reciprocity. He also conjectured what amounts to the prime number theorem and Dirichlet's theorem on arithmetic progressions. He gave a full treatment of the equation ax² + by² + cz² = 0 and worked on quadratic forms along the lines later developed fully by Gauss. In his old age, he was the first to prove "Fermat's last theorem" for n = 5 (completing work by Peter Gustav Lejeune Dirichlet, and crediting both him and Sophie Germain).
-
-10_DM_Serie4_Vorderseite.jpg
 
 In his _Disquisitiones Arithmeticae_ (1798), Carl Friedrich Gauss (1777–1855) proved the law of quadratic reciprocity and developed the theory of quadratic forms (in particular, defining their composition). He also introduced some basic notation (congruences) and devoted a section to computational matters, including primality tests. The last section of the _Disquisitiones_ established a link between roots of unity and number theory:
 
@@ -147,7 +145,7 @@ In this way, Gauss arguably made a first foray towards both Évariste Galois's w
 
 Maturity and division into subfields
 
-ErnstKummer.jpg]] Peter_Gustav_Lejeune_Dirichlet.jpg]]
+]] ]]
 
 Starting early in the nineteenth century, the following developments gradually took place:
 
@@ -170,7 +168,7 @@ Number theory has the reputation of being a field many of whose results can be s
 
 Analytic number theory
 
-Complex_zeta.jpg ζ(_s_) in the complex plane. The color of a point _s_ gives the value of ζ(_s_): dark colors denote values close to zero and hue gives the value's argument.]] ModularGroup-FundamentalDomain.svg on the upper half plane. The region in grey is the standard fundamental domain.]]
+ζ(_s_) in the complex plane. The color of a point _s_ gives the value of ζ(_s_): dark colors denote values close to zero and hue gives the value's argument.]] on the upper half plane. The region in grey is the standard fundamental domain.]]
 
 _Analytic number theory_ may be defined
 
@@ -203,7 +201,7 @@ For example, an equation in two variables defines a curve in the plane. More gen
 
 An example here may be helpful. Consider the Pythagorean equation x² + y² = 1; we would like to study its rational solutions, that is, its solutions (x, y) such that _x_ and _y_ are both rational. This is the same as asking for all integer solutions to a² + b² = c²; any solution to the latter equation gives us a solution x = a/c, y = b/c to the former. It is also the same as asking for all points with rational coordinates on the curve described by x² + y² = 1. (This curve happens to be a circle of radius 1 around the origin.)
 
-ECClines-3.svg, that is, a curve of genus 1 having at least one rational point. (Either graph can be seen as a slice of a torus in four-dimensional space.)]]
+, that is, a curve of genus 1 having at least one rational point. (Either graph can be seen as a slice of a torus in four-dimensional space.)]]
 
 The rephrasing of questions on equations in terms of points on curves turns out to be felicitous. The finiteness or not of the number of rational or integer points on an algebraic curve—that is, rational or integer solutions to an equation f(x, y) = 0, where f is a polynomial in two variables—turns out to depend crucially on the _genus_ of the curve. The _genus_ can be defined as follows:[43] allow the variables in f(x, y) = 0 to be complex numbers; then f(x, y) = 0 defines a 2-dimensional surface in (projective) 4-dimensional space (since two complex variables can be decomposed into four real variables, that is, four dimensions). Count the number of (doughnut) holes in the surface; call this number the _genus_ of f(x, y) = 0. Other geometrical notions turn out to be just as crucial.
 
@@ -236,7 +234,7 @@ These questions are characteristic of _arithmetic combinatorics_. This is a pres
 
 Computational number theory
 
-Lehmer_sieve.jpg, which is a primitive digital computer once used for finding primes and solving simple Diophantine equations.]]While the word _algorithm_ goes back only to certain readers of al-Khwārizmī, careful descriptions of methods of solution are older than proofs: such methods (that is, algorithms) are as old as any recognisable mathematics—ancient Egyptian, Babylonian, Vedic, Chinese—whereas proofs appeared only with the Greeks of the classical period. An interesting early case is that of what we now call the Euclidean algorithm. In its basic form (namely, as an algorithm for computing the greatest common divisor) it appears as Proposition 2 of Book VII in _Elements_, together with a proof of correctness. However, in the form that is often used in number theory (namely, as an algorithm for finding integer solutions to an equation ax + by = c, or, what is the same, for finding the quantities whose existence is assured by the Chinese remainder theorem) it first appears in the works of Āryabhaṭa (5th–6th century CE) as an algorithm called _kuṭṭaka_ ("pulveriser"), without a proof of correctness.
+, which is a primitive digital computer once used for finding primes and solving simple Diophantine equations.]]While the word _algorithm_ goes back only to certain readers of al-Khwārizmī, careful descriptions of methods of solution are older than proofs: such methods (that is, algorithms) are as old as any recognisable mathematics—ancient Egyptian, Babylonian, Vedic, Chinese—whereas proofs appeared only with the Greeks of the classical period. An interesting early case is that of what we now call the Euclidean algorithm. In its basic form (namely, as an algorithm for computing the greatest common divisor) it appears as Proposition 2 of Book VII in _Elements_, together with a proof of correctness. However, in the form that is often used in number theory (namely, as an algorithm for finding integer solutions to an equation ax + by = c, or, what is the same, for finding the quantities whose existence is assured by the Chinese remainder theorem) it first appears in the works of Āryabhaṭa (5th–6th century CE) as an algorithm called _kuṭṭaka_ ("pulveriser"), without a proof of correctness.
 
 There are two main questions: "can we compute this?" and "can we compute it rapidly?". Anyone can test whether a number is prime or, if it is not, split it into prime factors; doing so rapidly is another matter. We now know fast algorithms for testing primality, but, in spite of much work (both theoretical and practical), no truly fast algorithm for factoring.
 

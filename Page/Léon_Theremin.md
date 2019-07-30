@@ -38,7 +38,7 @@ During this time Theremin was also working on a wireless television with 16 scan
 
 United States
 
-Rockmore_and_Termen.jpg and Léon Theremin]] After being sent on a lengthy tour of Europe starting 1927 – including London, Paris and towns in Germany[30][31] – during which he demonstrated his invention to full audiences, Theremin found his way to the United States, arriving on 30 December 1927 with his first wife Katia.[32] He performed the theremin with the New York Philharmonic in 1928. He patented his invention in the United States in 1928[33][34] and subsequently granted commercial production rights to RCA.
+and Léon Theremin]] After being sent on a lengthy tour of Europe starting 1927 – including London, Paris and towns in Germany[30][31] – during which he demonstrated his invention to full audiences, Theremin found his way to the United States, arriving on 30 December 1927 with his first wife Katia.[32] He performed the theremin with the New York Philharmonic in 1928. He patented his invention in the United States in 1928[33][34] and subsequently granted commercial production rights to RCA.
 
 Theremin set up a laboratory in New York in the 1930s, where he further refined the theremin and experimented with other inventions and new electronic musical instruments. These included the Rhythmicon, commissioned by the American composer and theorist Henry Cowell.
 
@@ -66,7 +66,7 @@ Many years later, it was revealed that Theremin had returned to his native land 
 
 Espionage
 
-Bugged-great-seal-open.jpg]] During his work at the _sharashka_, where he was put in charge of other workers, Theremin created the Buran eavesdropping system. A precursor to the modern laser microphone, it worked by using a low-power infrared beam from a distance to detect sound vibrations in glass windows.[58][59] Lavrentiy Beria, the head of the secret police organization NKVD (the predecessor of the KGB), used the Buran device to spy on the British, French and US embassies in Moscow.[60] According to Galeyev, Beria also spied on Stalin; Theremin kept some of the tapes in his flat. In 1947, Theremin was awarded the Stalin prize for inventing this advance in Soviet espionage technology.
+]] During his work at the _sharashka_, where he was put in charge of other workers, Theremin created the Buran eavesdropping system. A precursor to the modern laser microphone, it worked by using a low-power infrared beam from a distance to detect sound vibrations in glass windows.[58][59] Lavrentiy Beria, the head of the secret police organization NKVD (the predecessor of the KGB), used the Buran device to spy on the British, French and US embassies in Moscow.[60] According to Galeyev, Beria also spied on Stalin; Theremin kept some of the tapes in his flat. In 1947, Theremin was awarded the Stalin prize for inventing this advance in Soviet espionage technology.
 
 Theremin invented another listening device called The Thing. Disguised in a replica of the Great Seal of the United States carved in wood, in 1945 Soviet school children presented the concealed bug to U.S. Ambassador as a "gesture of friendship" to the USSR's World War II ally. It hung in the ambassador’s residential office in Moscow and intercepted confidential conversations there during the first seven years of the Cold War, until it was accidentally discovered in 1952.[61]
 

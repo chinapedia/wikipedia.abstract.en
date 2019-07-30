@@ -1,4 +1,4 @@
-Kibo.jpg JAMES PARRY (born July 13, 1967), commonly known[1] by his nickname and username KIBO , is a Usenetter[2] known for his sense of humor, various surrealist net pranks,[3] an absurdly long .signature,[4] and a machine-assisted knack for "kibozing": joining any thread in which "kibo" was mentioned.[5] His exploits have earned him a multitude of enthusiasts, who celebrate him as the head deity of the parody religion kibology, centered on the humor newsgroup alt.religion.kibology.
+JAMES PARRY (born July 13, 1967), commonly known[1] by his nickname and username KIBO , is a Usenetter[2] known for his sense of humor, various surrealist net pranks,[3] an absurdly long .signature,[4] and a machine-assisted knack for "kibozing": joining any thread in which "kibo" was mentioned.[5] His exploits have earned him a multitude of enthusiasts, who celebrate him as the head deity of the parody religion kibology, centered on the humor newsgroup alt.religion.kibology.
 
 
 Background

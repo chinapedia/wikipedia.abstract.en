@@ -7,7 +7,7 @@ The lake was named by Europeans in honour of Edward John Eyre, who was the first
 
 Geography
 
-LakeEyreSaltCrust.JPG Lake_eyre.JPG Lake_Eyre.JPG Kati Thanda–Lake Eyre is in the deserts of central Australia, in northern South Australia. The Lake Eyre Basin is a large endorheic system surrounding the lakebed, the lowest part of which is filled with the characteristic salt pan caused by the seasonal expansion and subsequent evaporation of the trapped waters. Even in the dry season, there is usually some water remaining in Kati Thanda–Lake Eyre, normally collecting in over 200 smaller sub-lakes within its margins. The lake was formed by aeolian processes after tectonic upwarping occurred to the south subsequent to the end of the Pleistocene epoch.[4]
+Kati Thanda–Lake Eyre is in the deserts of central Australia, in northern South Australia. The Lake Eyre Basin is a large endorheic system surrounding the lakebed, the lowest part of which is filled with the characteristic salt pan caused by the seasonal expansion and subsequent evaporation of the trapped waters. Even in the dry season, there is usually some water remaining in Kati Thanda–Lake Eyre, normally collecting in over 200 smaller sub-lakes within its margins. The lake was formed by aeolian processes after tectonic upwarping occurred to the south subsequent to the end of the Pleistocene epoch.[4]
 
 During the rainy season, rivers from the north-east part of the Lake Eyre Basin—in outback (south-west and central) Queensland—flow towards the lake through the Channel Country. The amount of water from the monsoon determines whether water will reach the lake and, if it does, how deep the lake will get. The average rainfall in the area of the lake is per year.[5]
 
@@ -33,7 +33,7 @@ When recently flooded, the lake is almost fresh, and native freshwater fish, inc
 
 2009 to 2011
 
-STS035-502-4.jpg]] The 2009 Lake Eyre flood peaked at deep in late May, which is a quarter of its maximum recorded depth of . of water crossed the Queensland–South Australian border with most of it coming from massive floods in the Georgina River. However, owing to the very low rainfall in the lower reaches of these rivers (contrasting with heavy rainfall in the upper catchments),[18] the greater proportion soaked into the desert or evaporated en route to the lake, leaving less than in the lake, which covered an area of , or 12% of the total. As the flood did not start filling the lake's deepest point (Belt Bay) until late March, little bird life appeared, preferring instead to nest in the upper reaches of the Lake Eyre Basin, north of Birdsville, where large lakes appeared in January as a result of monsoonal rain.
+]] The 2009 Lake Eyre flood peaked at deep in late May, which is a quarter of its maximum recorded depth of . of water crossed the Queensland–South Australian border with most of it coming from massive floods in the Georgina River. However, owing to the very low rainfall in the lower reaches of these rivers (contrasting with heavy rainfall in the upper catchments),[18] the greater proportion soaked into the desert or evaporated en route to the lake, leaving less than in the lake, which covered an area of , or 12% of the total. As the flood did not start filling the lake's deepest point (Belt Bay) until late March, little bird life appeared, preferring instead to nest in the upper reaches of the Lake Eyre Basin, north of Birdsville, where large lakes appeared in January as a result of monsoonal rain.
 
 The high rainfall in summer 2010 sent flood water into the Diamantina, Georgina and Cooper Creek catchments of the Lake Eyre basin, with the Cooper Creek reaching the lake for the first time since 1990. The higher rainfall prompted many different birds to migrate back to the area for breeding.[19]
 
@@ -56,8 +56,6 @@ When the lake is full, a notable phenomenon is that around midday the surface ca
 
 
 Land speed record attempts
-
-EyreCampbellPlaque.JPG
 
 Kati Thanda–Lake Eyre has been a site for various land speed record attempts on its salt flats, similar to those found in the Bonneville Salt Flats, especially those by Donald Campbell with the Bluebird-Proteus CN7.[26]
 

@@ -11,15 +11,15 @@ Prominent artists and sportspeople from Northern Ireland include Van Morrison, R
 
 History
 
-Cannon_on_Derry_City_Walls_SMC_2007.jpg's city walls]] The region that is now Northern Ireland was the bedrock of the Irish war of resistance against English programmes of colonialism in the late 16th century. The English-controlled Kingdom of Ireland had been declared by the English king Henry VIII in 1542, but Irish resistance made English control fragmentary. Following Irish defeat at the Battle of Kinsale, though, the region's Gaelic, Roman Catholic aristocracy fled to continental Europe in 1607 and the region became subject to major programmes of colonialism by Protestant English (mainly Anglican) and Scottish (mainly Presbyterian) settlers. A rebellion in 1641 by Irish aristocrats against English rule resulted in a massacre of settlers in Ulster in the context of a war breaking out between England, Scotland and Ireland fuelled by religious intolerance in government. Victories by English forces in that war and further Protestant victories in the Williamite War in Ireland (1688–1691) toward the close of the 17th century solidified Anglican rule in Ireland. In Northern Ireland, the victories of the Siege of Derry (1689) and the Battle of the Boyne (1690) in this latter war are still celebrated by some Protestants (both Anglican and Presbyterian).[21][22]
+'s city walls]] The region that is now Northern Ireland was the bedrock of the Irish war of resistance against English programmes of colonialism in the late 16th century. The English-controlled Kingdom of Ireland had been declared by the English king Henry VIII in 1542, but Irish resistance made English control fragmentary. Following Irish defeat at the Battle of Kinsale, though, the region's Gaelic, Roman Catholic aristocracy fled to continental Europe in 1607 and the region became subject to major programmes of colonialism by Protestant English (mainly Anglican) and Scottish (mainly Presbyterian) settlers. A rebellion in 1641 by Irish aristocrats against English rule resulted in a massacre of settlers in Ulster in the context of a war breaking out between England, Scotland and Ireland fuelled by religious intolerance in government. Victories by English forces in that war and further Protestant victories in the Williamite War in Ireland (1688–1691) toward the close of the 17th century solidified Anglican rule in Ireland. In Northern Ireland, the victories of the Siege of Derry (1689) and the Battle of the Boyne (1690) in this latter war are still celebrated by some Protestants (both Anglican and Presbyterian).[21][22]
 
-CIMG1495_ScraboHorizView.JPG, County Down]] Popes Innocent XI and Alexander VIII had supported William of Orange instead of his maternal uncle and father-in-law James II, despite William being Protestant and James a Catholic, due to William's participation in alliance with both Protesant and Catholic powers in Europe in wars against Louis XIV (the "Sun King"), the powerful King of France who had been in conflict with the papacy for decades. In 1693, however, Pope Innocent XII recognised James as continuing King of Great Britain and Ireland in place of William, after reconciliation with Louis. In 1695, and contrary to the terms of the Treaty of Limerick (October 1691), a series of penal laws were passed by the Anglican ruling class in Ireland in intense anger at the Pope's recognition of James over William, which was felt to be a betrayal. The intention of the laws was to materially disadvantage the Catholic community and, to a lesser extent, the Presbyterian community. In the context of open institutional discrimination, the 18th century saw secret, militant societies develop in communities in the region and act on sectarian tensions in violent attacks. These events escalated at the end of the century following an event known as the Battle of the Diamond, which saw the supremacy of the Anglican and Presbyterian Peep o'Day Boys over the Catholic Defenders and leading to the formation of the Anglican Orange Order. A rebellion in 1798 led by the cross-community Belfast-based Society of the United Irishmen and inspired by the French Revolution sought to break the constitutional ties between Ireland and Britain and unite Irish people of all religions. Following this, in an attempt to quell sectarianism and force the removal of discriminatory laws (and to prevent the spread of French-style republicanism to Ireland), the government of the Kingdom of Great Britain pushed for the two kingdoms to be merged. The new state, formed in 1801, the United Kingdom of Great Britain and Ireland, was governed from a single government and parliament based in London.
+, County Down]] Popes Innocent XI and Alexander VIII had supported William of Orange instead of his maternal uncle and father-in-law James II, despite William being Protestant and James a Catholic, due to William's participation in alliance with both Protesant and Catholic powers in Europe in wars against Louis XIV (the "Sun King"), the powerful King of France who had been in conflict with the papacy for decades. In 1693, however, Pope Innocent XII recognised James as continuing King of Great Britain and Ireland in place of William, after reconciliation with Louis. In 1695, and contrary to the terms of the Treaty of Limerick (October 1691), a series of penal laws were passed by the Anglican ruling class in Ireland in intense anger at the Pope's recognition of James over William, which was felt to be a betrayal. The intention of the laws was to materially disadvantage the Catholic community and, to a lesser extent, the Presbyterian community. In the context of open institutional discrimination, the 18th century saw secret, militant societies develop in communities in the region and act on sectarian tensions in violent attacks. These events escalated at the end of the century following an event known as the Battle of the Diamond, which saw the supremacy of the Anglican and Presbyterian Peep o'Day Boys over the Catholic Defenders and leading to the formation of the Anglican Orange Order. A rebellion in 1798 led by the cross-community Belfast-based Society of the United Irishmen and inspired by the French Revolution sought to break the constitutional ties between Ireland and Britain and unite Irish people of all religions. Following this, in an attempt to quell sectarianism and force the removal of discriminatory laws (and to prevent the spread of French-style republicanism to Ireland), the government of the Kingdom of Great Britain pushed for the two kingdoms to be merged. The new state, formed in 1801, the United Kingdom of Great Britain and Ireland, was governed from a single government and parliament based in London.
 
 Some 250,000 people from Ulster emigrated to the British North American colonies between 1717 and 1775.[23] It is estimated that there are more than 27 million Scotch-Irish Americans now living in the United States,[24] along with many Scotch-Irish Canadians in Canada.
 
 Partition of Ireland
 
-Carson_signing_Solemn_League_and_Covenant.jpg in 1912 in opposition to Home Rule]] During the 19th century, legal reforms started in the late 18th century continued to remove statutory discrimination against Catholics, and progressive programmes enabled tenant farmers to buy land from landlords. By the close of the century, autonomy for Ireland within the United Kingdom, known as Home Rule, was regarded as highly likely. In 1912, after decades of obstruction from the House of Lords, Home Rule became a near-certainty. A clash between the House of Commons and House of Lords over a controversial budget produced the Parliament Act 1911, which enabled the veto of the Lords to be overturned. The House of Lords veto had been the unionists' main guarantee that Home Rule would not be enacted because the majority of members of the House of Lords were unionists. In response, opponents to Home Rule, from Conservative and Unionist Party leaders such as Bonar Law and Dublin-based barrister Sir Edward Carson to militant working class unionists in Ireland, threatened the use of violence. In 1914, they smuggled thousands of rifles and rounds of ammunition from Imperial Germany for use by the Ulster Volunteers (UVF), a paramilitary organisation opposed to the implementation of Home Rule.
+in 1912 in opposition to Home Rule]] During the 19th century, legal reforms started in the late 18th century continued to remove statutory discrimination against Catholics, and progressive programmes enabled tenant farmers to buy land from landlords. By the close of the century, autonomy for Ireland within the United Kingdom, known as Home Rule, was regarded as highly likely. In 1912, after decades of obstruction from the House of Lords, Home Rule became a near-certainty. A clash between the House of Commons and House of Lords over a controversial budget produced the Parliament Act 1911, which enabled the veto of the Lords to be overturned. The House of Lords veto had been the unionists' main guarantee that Home Rule would not be enacted because the majority of members of the House of Lords were unionists. In response, opponents to Home Rule, from Conservative and Unionist Party leaders such as Bonar Law and Dublin-based barrister Sir Edward Carson to militant working class unionists in Ireland, threatened the use of violence. In 1914, they smuggled thousands of rifles and rounds of ammunition from Imperial Germany for use by the Ulster Volunteers (UVF), a paramilitary organisation opposed to the implementation of Home Rule.
 
 Unionists were in a minority in Ireland as a whole, but in the northern province of Ulster they were a very large majority in County Antrim and County Down, small majorities in County Armagh and County Londonderry and a substantial minority in Ulster's five other counties.[25] The four counties named, along with County Fermanagh and County Tyrone, would later constitute Northern Ireland. Most of the remaining 26 counties which later became the Republic of Ireland were overwhelmingly majority-nationalist.
 
@@ -29,7 +29,7 @@ Events overtook the government. The pro-independence Sinn Féin won 73 of the 10
 
 Northern Ireland
 
-Coat_of_Arms_of_Northern_Ireland.svg used between 1924 and 1973]] Opening_of_the_new_Northern_Ireland_Parliament_Buildings.jpg in 1932]] As expected, the Houses of the Parliament of Northern Ireland resolved on 7 December 1922 (the day after the establishment of the Irish Free State) to exercise its right to opt out of the Free State by making an address to the King.[29] The text of the address was: Shortly afterwards, the Boundary Commission was established to decide on the territorial boundaries between the Irish Free State and Northern Ireland. Owing to the outbreak of civil war in the Free State, the work of the commission was delayed until 1925. Leaders in Dublin expected a substantial reduction in the territory of Northern Ireland, with nationalist areas moving to the Free State. However, the commission's report recommended only that some small portions of land should be ceded from Northern Ireland to the Free State and even that a small amount of land should be ceded from the Free State to Northern Ireland. To prevent argument, this report was suppressed and, in exchange for a waiver to the Free State's obligations to the UK's public debt and the dissolution of the Council of Ireland (sought by the Government of Northern Ireland), the initial six-county border was maintained with no changes.
+used between 1924 and 1973]] in 1932]] As expected, the Houses of the Parliament of Northern Ireland resolved on 7 December 1922 (the day after the establishment of the Irish Free State) to exercise its right to opt out of the Free State by making an address to the King.[29] The text of the address was: Shortly afterwards, the Boundary Commission was established to decide on the territorial boundaries between the Irish Free State and Northern Ireland. Owing to the outbreak of civil war in the Free State, the work of the commission was delayed until 1925. Leaders in Dublin expected a substantial reduction in the territory of Northern Ireland, with nationalist areas moving to the Free State. However, the commission's report recommended only that some small portions of land should be ceded from Northern Ireland to the Free State and even that a small amount of land should be ceded from the Free State to Northern Ireland. To prevent argument, this report was suppressed and, in exchange for a waiver to the Free State's obligations to the UK's public debt and the dissolution of the Council of Ireland (sought by the Government of Northern Ireland), the initial six-county border was maintained with no changes.
 
 In June 1940, to encourage the neutral Irish state to join with the Allies, British Prime Minister Winston Churchill indicated to the Taoiseach Éamon de Valera that the United Kingdom would push for Irish unity, but believing that Churchill could not deliver, de Valera declined the offer.[30] The British did not inform the Government of Northern Ireland that they had made the offer to the Dublin government, and De Valera's rejection was not publicised until 1970.
 
@@ -39,8 +39,6 @@ The Troubles
 
 The Troubles, which started in the late 1960s, consisted of about thirty years of recurring acts of intense violence during which 3,254 people were killed[31] with over 50,000 casualties.[32] From 1969 to 2003 there were over 36,900 shooting incidents and over 16,200 bombings or attempted bombings associated with The Troubles.[33] The conflict was caused by the disputed status of Northern Ireland within the United Kingdom and the discrimination against the Irish nationalist minority by the dominant unionist majority.[34] From 1967 to 1972 the Northern Ireland Civil Rights Association (NICRA), which modelled itself on the US civil rights movement, led a campaign of civil resistance to anti-Catholic discrimination in housing, employment, policing, and electoral procedures. The franchise for local government elections included only rate-payers and their spouses, and so excluded over a quarter of the electorate. While the majority of disenfranchised electors were Protestant, Catholics were over-represented since they were poorer and had more adults still living in the family home.[35]
 
-Troubles_deaths_by_perpetrator.png
-
 NICRA's campaign, seen by many unionists as an Irish republican front, and the violent reaction to it, proved to be a precursor to a more violent period.[36] As early as 1969, armed campaigns of paramilitary groups began, including the Provisional IRA campaign of 1969–1997 which was aimed at the end of British rule in Northern Ireland and the creation of a United Ireland, and the Ulster Volunteer Force, formed in 1966 in response to the perceived erosion of both the British character and unionist domination of Northern Ireland. The state security forces – the British Army and the police (the Royal Ulster Constabulary) – were also involved in the violence. The British government's position is that its forces were neutral in the conflict, trying to uphold law and order in Northern Ireland and the right of the people of Northern Ireland to democratic self-determination. Republicans regarded the state forces as combatants in the conflict, pointing to the collusion between the state forces and the loyalist paramilitaries as proof of this. The "Ballast" investigation by the Police Ombudsman has confirmed that British forces, and in particular the RUC, did collude with loyalist paramilitaries, were involved in murder, and did obstruct the course of justice when such claims had been investigated,[37] although the extent to which such collusion occurred is still hotly disputed.
 
 As a consequence of the worsening security situation, autonomous regional government for Northern Ireland was suspended in 1972. Alongside the violence, there was a political deadlock between the major political parties in Northern Ireland, including those who condemned violence, over the future status of Northern Ireland and the form of government there should be within Northern Ireland. In 1973, Northern Ireland held a referendum to determine if it should remain in the United Kingdom, or be part of a united Ireland. The vote went heavily in favour (98.9%) of maintaining the status quo. Approximately 57.5% of the total electorate voted in support, but only 1% of Catholics voted following a boycott organised by the Social Democratic and Labour Party (SDLP).[38]
@@ -49,7 +47,7 @@ Peace process
 
 The Troubles were brought to an uneasy end by a peace process which included the declaration of ceasefires by most paramilitary organisations and the complete decommissioning of their weapons, the reform of the police, and the corresponding withdrawal of army troops from the streets and from sensitive border areas such as South Armagh and Fermanagh, as agreed by the signatories to the Belfast Agreement (commonly known as the "Good Friday Agreement"). This reiterated the long-held British position, which had never before been fully acknowledged by successive Irish governments, that Northern Ireland will remain within the United Kingdom until a majority of voters in Northern Ireland decides otherwise. The Constitution of Ireland was amended in 1999 to remove a claim of the "Irish nation" to sovereignty over the entire island (in Article 2).[39]
 
-Scottish_and_Northern_Ireland_Ministers.jpg (DUP) center, his deputy Martin McGuinness (Sinn Féin) left, and Scottish First Minister Alex Salmond right in 2008.]] The new Articles 2 and 3, added to the Constitution to replace the earlier articles, implicitly acknowledge that the status of Northern Ireland, and its relationships within the rest of the United Kingdom and with the Republic of Ireland, would only be changed with the agreement of a majority of voters in each jurisdiction. This aspect was also central to the Belfast Agreement which was signed in 1998 and ratified by referendums held simultaneously in both Northern Ireland and the Republic. At the same time, the British Government recognised for the first time, as part of the prospective, the so-called "Irish dimension": the principle that the people of the island of Ireland as a whole have the right, without any outside interference, to solve the issues between North and South by mutual consent.[40] The latter statement was key to winning support for the agreement from nationalists. It established a devolved power-sharing government within Northern Ireland, which must consist of both unionist and nationalist parties. These institutions were suspended by the British Government in 2002 after Police Service of Northern Ireland (PSNI) allegations of spying by people working for Sinn Féin at the Assembly (Stormontgate). The resulting case against the accused Sinn Féin member collapsed.[41][42]
+(DUP) center, his deputy Martin McGuinness (Sinn Féin) left, and Scottish First Minister Alex Salmond right in 2008.]] The new Articles 2 and 3, added to the Constitution to replace the earlier articles, implicitly acknowledge that the status of Northern Ireland, and its relationships within the rest of the United Kingdom and with the Republic of Ireland, would only be changed with the agreement of a majority of voters in each jurisdiction. This aspect was also central to the Belfast Agreement which was signed in 1998 and ratified by referendums held simultaneously in both Northern Ireland and the Republic. At the same time, the British Government recognised for the first time, as part of the prospective, the so-called "Irish dimension": the principle that the people of the island of Ireland as a whole have the right, without any outside interference, to solve the issues between North and South by mutual consent.[40] The latter statement was key to winning support for the agreement from nationalists. It established a devolved power-sharing government within Northern Ireland, which must consist of both unionist and nationalist parties. These institutions were suspended by the British Government in 2002 after Police Service of Northern Ireland (PSNI) allegations of spying by people working for Sinn Féin at the Assembly (Stormontgate). The resulting case against the accused Sinn Féin member collapsed.[41][42]
 
 On 28 July 2005, the Provisional IRA declared an end to its campaign and has since decommissioned what is thought to be all of its arsenal. This final act of decommissioning was performed in accordance with the Belfast Agreement of 1998 and under the watch of the Independent International Commission on Decommissioning and two external church witnesses. Many unionists, however, remain sceptical. The International Commission later confirmed that the main loyalist paramilitary groups, the UDA, UVF and the Red Hand Commando, had decommissioned what is thought to be all of their arsenals, witnessed by a former archbishop and a former top civil servant.[43]
 
@@ -76,7 +74,7 @@ Protestants have a slight majority in Northern Ireland, according to the latest 
 
 Governance
 
-StormontGeneral.jpg at Stormont, Belfast, seat of the assembly.]] Since 1998, Northern Ireland has had devolved government within the United Kingdom, presided over by the Northern Ireland Assembly and a cross-community government (the Northern Ireland Executive). The UK Government and UK Parliament are responsible for reserved and excepted matters. Reserved matters comprise listed policy areas (such as civil aviation, units of measurement, and human genetics) that Parliament may devolve to the Assembly some time in the future. Excepted matters (such as international relations, taxation and elections) are never expected to be considered for devolution. On all other governmental matters, the Executive together with the 90-member Assembly may legislate for and govern Northern Ireland. Devolution in Northern Ireland is dependent upon participation by members of the Northern Ireland executive in the North/South Ministerial Council, which coordinates areas of co-operation (such as agriculture, education and health) between Northern Ireland and the Republic of Ireland. Additionally, "in recognition of the Irish Government's special interest in Northern Ireland", the Government of Ireland and Government of the United Kingdom co-operate closely on non-devolved matters through the British-Irish Intergovernmental Conference.
+at Stormont, Belfast, seat of the assembly.]] Since 1998, Northern Ireland has had devolved government within the United Kingdom, presided over by the Northern Ireland Assembly and a cross-community government (the Northern Ireland Executive). The UK Government and UK Parliament are responsible for reserved and excepted matters. Reserved matters comprise listed policy areas (such as civil aviation, units of measurement, and human genetics) that Parliament may devolve to the Assembly some time in the future. Excepted matters (such as international relations, taxation and elections) are never expected to be considered for devolution. On all other governmental matters, the Executive together with the 90-member Assembly may legislate for and govern Northern Ireland. Devolution in Northern Ireland is dependent upon participation by members of the Northern Ireland executive in the North/South Ministerial Council, which coordinates areas of co-operation (such as agriculture, education and health) between Northern Ireland and the Republic of Ireland. Additionally, "in recognition of the Irish Government's special interest in Northern Ireland", the Government of Ireland and Government of the United Kingdom co-operate closely on non-devolved matters through the British-Irish Intergovernmental Conference.
 
 Elections to the Northern Ireland Assembly are by single transferable vote with five Members of the Legislative Assembly (MLAs) elected from each of 18 parliamentary constituencies. In addition, eighteen representatives (Members of Parliament, MPs) are elected to the lower house of the UK parliament from the same constituencies using the first-past-the-post system. However, not all of those elected take their seats. Sinn Féin MPs, currently seven, refuse to take the oath to serve the Queen that is required before MPs are allowed to take their seats. In addition, the upper house of the UK parliament, the House of Lords, currently has some 25 appointed members from Northern Ireland. Northern Ireland itself forms a single constituency for elections to the European Parliament.
 
@@ -108,8 +106,6 @@ Government and cultural organisations in Northern Ireland often use the word "Ul
 
 Although some news bulletins since the 1990s have opted to avoid all contentious terms and use the official name, Northern Ireland, the term "the North" remains commonly used by broadcast media in the Republic.
 
-Unionist_mural,_Shankill_-_panoramio.jpg
-
 Unionist
 
 -   ULSTER, strictly speaking, refers to the province of Ulster, of which six of nine historical counties are in Northern Ireland. The term "Ulster" is widely used by unionists and the British press as shorthand for Northern Ireland, and is also favoured by Ulster nationalists.[92] In the past, calls have been made for Northern Ireland's name to be changed to Ulster. This proposal was formally considered by the Government of Northern Ireland in 1937 and by the UK Government in 1949 but no change was made.[93]
@@ -131,15 +127,15 @@ British Embassy Ashgabat local nickname used to refer to Northern Irel
 
 Geography and climate
 
-Northern_Ireland_by_Sentinel-2.jpg Northern_Ireland_Köppen.png of Northern Ireland]] Lough_Neagh_-_geograph.org.uk_-_488526.jpg]] Northern Ireland was covered by an ice sheet for most of the last ice age and on numerous previous occasions, the legacy of which can be seen in the extensive coverage of drumlins in Counties Fermanagh, Armagh, Antrim and particularly Down.
+of Northern Ireland]] ]] Northern Ireland was covered by an ice sheet for most of the last ice age and on numerous previous occasions, the legacy of which can be seen in the extensive coverage of drumlins in Counties Fermanagh, Armagh, Antrim and particularly Down.
 
 The centrepiece of Northern Ireland's geography is Lough Neagh, at the largest freshwater lake both on the island of Ireland and in the British Isles. A second extensive lake system is centred on Lower and Upper Lough Erne in Fermanagh. The largest island of Northern Ireland is Rathlin, off the north Antrim coast. Strangford Lough is the largest inlet in the British Isles, covering .
 
-Hare's_Gap_-_geograph.org.uk_-_66827.jpg]] There are substantial uplands in the Sperrin Mountains (an extension of the Caledonian mountain belt) with extensive gold deposits, granite Mourne Mountains and basalt Antrim Plateau, as well as smaller ranges in South Armagh and along the Fermanagh–Tyrone border. None of the hills are especially high, with Slieve Donard in the dramatic Mournes reaching , Northern Ireland's highest point. Belfast's most prominent peak is Cavehill.
+]] There are substantial uplands in the Sperrin Mountains (an extension of the Caledonian mountain belt) with extensive gold deposits, granite Mourne Mountains and basalt Antrim Plateau, as well as smaller ranges in South Armagh and along the Fermanagh–Tyrone border. None of the hills are especially high, with Slieve Donard in the dramatic Mournes reaching , Northern Ireland's highest point. Belfast's most prominent peak is Cavehill.
 
-Causeway-code_poet-4.jpg, County Antrim]] The volcanic activity which created the Antrim Plateau also formed the eerily geometric pillars of the Giant's Causeway on the north Antrim coast. Also in north Antrim are the Carrick-a-Rede Rope Bridge, Mussenden Temple and the Glens of Antrim.
+, County Antrim]] The volcanic activity which created the Antrim Plateau also formed the eerily geometric pillars of the Giant's Causeway on the north Antrim coast. Also in north Antrim are the Carrick-a-Rede Rope Bridge, Mussenden Temple and the Glens of Antrim.
 
-Marble_Arch_Caves_-_Skreen_Hill_streamway.jpeg]] The Lower and Upper River Bann, River Foyle and River Blackwater form extensive fertile lowlands, with excellent arable land also found in North and East Down, although much of the hill country is marginal and suitable largely for animal husbandry.
+]] The Lower and Upper River Bann, River Foyle and River Blackwater form extensive fertile lowlands, with excellent arable land also found in North and East Down, although much of the hill country is marginal and suitable largely for animal husbandry.
 
 The valley of the River Lagan is dominated by Belfast, whose metropolitan area includes over a third of the population of Northern Ireland, with heavy urbanisation and industrialisation along the Lagan Valley and both shores of Belfast Lough.
 
@@ -153,7 +149,7 @@ Northern Ireland consists of six historic counties: County Antrim, County Armagh
 
 These counties are no longer used for local government purposes; instead, there are eleven districts of Northern Ireland which have different geographical extents. These were created in 2015, replacing the twenty-six districts which previously existed.[109]
 
-MussendenTemple.jpg, County Londonderry]] Although counties are no longer used for local governmental purposes, they remain a popular means of describing where places are. They are officially used while applying for an Irish passport, which requires one to state one's county of birth. The name of that county then appears in both Irish and English on the passport's information page, as opposed to the town or city of birth on the United Kingdom passport. The Gaelic Athletic Association still uses the counties as its primary means of organisation and fields representative teams of each GAA county. The original system of car registration numbers largely based on counties still remains in use. In 2000, the telephone numbering system was restructured into an 8 digit scheme with (except for Belfast) the first digit approximately reflecting the county.
+, County Londonderry]] Although counties are no longer used for local governmental purposes, they remain a popular means of describing where places are. They are officially used while applying for an Irish passport, which requires one to state one's county of birth. The name of that county then appears in both Irish and English on the passport's information page, as opposed to the town or city of birth on the United Kingdom passport. The Gaelic Athletic Association still uses the counties as its primary means of organisation and fields representative teams of each GAA county. The original system of car registration numbers largely based on counties still remains in use. In 2000, the telephone numbering system was restructured into an 8 digit scheme with (except for Belfast) the first digit approximately reflecting the county.
 
 The county boundaries still appear on Ordnance Survey of Northern Ireland Maps and the Phillips Street Atlases, among others. With their decline in official use, there is often confusion surrounding towns and cities which lie near county boundaries, such as Belfast and Lisburn, which are split between counties Down and Antrim (the majorities of both cities, however, are in Antrim).
 
@@ -162,7 +158,7 @@ In March 2018, _The Sunday Times_ published its list of Best Places to Live in B
 
 Economy
 
-'Titanic_Quarter'_development,_Abercorn_Basin,_Belfast_-_geograph.org.uk_-_1378153.jpg in Belfast]]
+in Belfast]]
 
 Northern Ireland has traditionally had an industrial economy, most notably in shipbuilding, rope manufacture and textiles, but most heavy industry has since been replaced by services, primarily the public sector.
 
@@ -173,7 +169,7 @@ The local economy has seen contraction during the Great Recession. In response, 
 
 Transport
 
-Approaching_Seahill_station_-_geograph.org.uk_-_243422.jpg C3K railcar]]
+C3K railcar]]
 
 Northern Ireland has underdeveloped transport infrastructure, with most infrastructure concentrated around Greater Belfast, Greater Derry and Craigavon. Northern Ireland is served by three airports – Belfast International near Antrim, George Best Belfast City integrated into the railway network at Sydenham in East Belfast, and City of Derry in County Londonderry.
 
@@ -200,8 +196,6 @@ The cross-border road connecting the ports of Larne in Northern Ireland and Ross
 
 Demographics
 
-Religion_or_religion_brought_up_in.png
-
 The population of Northern Ireland has risen yearly since 1978. The population in 2011 was 1.8 million, having grown 7.5% over the previous decade[111] from just under 1.7 million in 2001. This constitutes just under 3% of the population of the UK (62 million) and just over 28% of the population of the island of Ireland (6.3 million).
 
 The population of Northern Ireland is almost entirely white (98.2%).[112] In 2011, 88.8% of the population were born in Northern Ireland, with 4.5% born in Britain, and 2.9% born in the Republic of Ireland. 4.3% were born elsewhere; triple the amount there were in 2001.[113] Most are from Eastern Europe and Lithuania and Latvia. The largest non-white ethnic groups were Chinese (6,300) and Indian (6,200). Black people of various origins made up 0.2% of the 2011 population and people of mixed ethnicity made up 0.2%.[114]
@@ -215,9 +209,7 @@ Cities
 +------------------------------------------------------------------------------------------------------------------+
 | colspan="7" style="background:#e9e9e9; padding:0.3em;" 0; line-height:1.2em;|Cities and towns by population[117] |
 +==================================================================================================================+
-| Belfast_City_Hall,_October_2010_(01).JPG                                                                         |
 | Belfast                                                                                                          |
-| Guildhall,_Derry,_August_2010.JPG                                                                                |
 | Derry                                                                                                            |
 +------------------------------------------------------------------------------------------------------------------+
 | 1                                                                                                                |
@@ -242,8 +234,6 @@ Cities
 +------------------------------------------------------------------------------------------------------------------+
 
 Citizenship and identity
-
-Most_common_nationality_2011.png
 
 In the 2011 census in Northern Ireland respondents gave their national identity as follows.[118]
 
@@ -274,7 +264,7 @@ People born in Northern Ireland are, with some exceptions, deemed by UK law to b
 
   ...it is the birthright of all the people of Northern Ireland to identify themselves and be accepted as Irish or British, or both, as they may so choose, and accordingly [the two governments] confirm that their right to hold both British and Irish citizenship is accepted by both Governments and would not be affected by any future change in the status of Northern Ireland.
 
-Predominant_passport_held_northern_ireland.png As a result of the Agreement, the Constitution of the Republic of Ireland was amended. The current wording provides that people born in Northern Ireland are entitled to be Irish citizens on the same basis as people from any other part of the island.[129]
+As a result of the Agreement, the Constitution of the Republic of Ireland was amended. The current wording provides that people born in Northern Ireland are entitled to be Irish citizens on the same basis as people from any other part of the island.[129]
 
 Neither government, however, extends its citizenship to all persons born in Northern Ireland. Both governments exclude some people born in Northern Ireland, in particular persons born without one parent who is a British or Irish citizen. The Irish restriction was given effect by the twenty-seventh amendment to the Irish Constitution in 2004. The position in UK nationality law is that most of those born in Northern Ireland are UK nationals, whether or not they so choose. Renunciation of British citizenship requires the payment of a fee, currently £372.[130]
 
@@ -299,7 +289,7 @@ In the 2011 census in Northern Ireland respondents stated that they held the fol
 
 Languages
 
-English_dialects_in_Ulster_contrast.png dialects in Ulster. South to north, the colour bands represent Hiberno-English, South-Ulster English, Mid-Ulster English and the three traditional Ulster Scots areas. The Irish-speaking Gaeltacht is not shown.]]
+dialects in Ulster. South to north, the colour bands represent Hiberno-English, South-Ulster English, Mid-Ulster English and the three traditional Ulster Scots areas. The Irish-speaking Gaeltacht is not shown.]]
 
 English is spoken as a first language by almost all of the Northern Ireland population. It is the _de facto_ official language and the Administration of Justice (Language) Act (Ireland) 1737 prohibits the use of languages other than English in legal proceedings.
 
@@ -313,8 +303,6 @@ The dialect of English spoken in Northern Ireland shows influence from the lowla
 
 Irish
 
-Map_of_those_with_some_ability_in_Irish_in_the_2011_census_in_Northern_Ireland.png
-
 The Irish language (), or _Gaelic_, is a native language of Ireland.[135] It was spoken predominantly throughout what is now Northern Ireland before the Ulster Plantations in the 17th century and most place names in Northern Ireland are anglicised versions of a Gaelic name. Today, the language is often associated with Irish nationalism (and thus with Catholics). However, in the 19th century, the language was seen as a common heritage, with Ulster Protestants playing a leading role in the Gaelic revival.
 
 In the 2011 census, 11% of the population of Northern Ireland claimed "some knowledge of Irish"[136] and 3.7% reported being able to "speak, read, write and understand" Irish.[137] In another survey, from 1999, 1% of respondents said they spoke it as their main language at home.[138]
@@ -324,8 +312,6 @@ The dialect spoken in Northern Ireland, Ulster Irish, has two main types, East U
 Use of the Irish language in Northern Ireland today is politically sensitive. The erection by some district councils of bilingual street names in both English and Irish,[140] invariably in predominantly nationalist districts, is resisted by unionists who claim that it creates a "chill factor" and thus harms community relationships. Efforts by members of the Northern Ireland Assembly to legislate for some official uses of the language have failed to achieve the required cross-community support, and the UK government has declined to legislate. There has recently been an increase in interest in the language among unionists in East Belfast.[141]
 
 Ulster Scots
-
-Map_showing_the_percentage_of_people_aged_3+_claiming_to_have_some_ability_in_Ulster_Scots_in_the_2011_census.png
 
 Ulster Scots comprises varieties of the Scots language spoken in Northern Ireland. For a native English speaker, "[Ulster Scots] is comparatively accessible, and even at its most intense can be understood fairly easily with the help of a glossary."[142]
 
@@ -344,7 +330,7 @@ the British Government recognises only British Sign Language and Irish Sign Lang
 
 Culture
 
-Ulster_Covenant_Commemoration_Parade,_Belfast,_September_2012_(010).JPG march]] Northern Ireland shares both the culture of Ireland and the culture of the United Kingdom. Those of Catholic background tend to identity more with Irish culture, and those of Protestant background more with British culture. This has caused the two communities to become pillarised.
+march]] Northern Ireland shares both the culture of Ireland and the culture of the United Kingdom. Those of Catholic background tend to identity more with Irish culture, and those of Protestant background more with British culture. This has caused the two communities to become pillarised.
 
 Parades are a prominent feature of Northern Ireland society,[150] more so than in the rest of Ireland or in Britain. Most are held by Protestant fraternities such as the Orange Order, and Ulster loyalist marching bands. Each summer, during the "marching season", these groups have hundreds of parades, deck streets with British flags, bunting and specially-made arches, and light large towering bonfires.[151] The biggest parades are held on 12 July (The Twelfth). There is often tension when these activities take place near Catholic neighbourhoods, which sometimes leads to violence.[152]
 
@@ -354,9 +340,9 @@ The Ulster Cycle is a large body of prose and verse centring on the traditional 
 
 Symbols
 
-Flax_flowers.jpg plant.[153]]]
+plant.[153]]]
 
-Fountain_(04).JPG on the foreground, with a republican Irish flag in the background on the left, in Derry]]
+on the foreground, with a republican Irish flag in the background on the left, in Derry]]
 
 Northern Ireland comprises a patchwork of communities whose national loyalties are represented in some areas by flags flown from flagpoles or lamp posts. The Union Jack and the former Northern Ireland flag are flown in many loyalist areas, and the Tricolour, adopted by republicans as the flag of Ireland in 1916,[154] is flown in some republican areas. Even kerbstones in some areas are painted red-white-blue or green-white-orange, depending on whether local people express unionist/loyalist or nationalist/republican sympathies.[155]
 
@@ -377,7 +363,7 @@ Field sports
 
 Association football
 
-George_best_1976.jpg, Northern Irish international footballer and 1968 Ballon d'Or]]
+, Northern Irish international footballer and 1968 Ballon d'Or]]
 
 The Irish Football Association (IFA) serves as the organising body for association football in Northern Ireland, with the Northern Ireland Football League (NIFL) responsible for the independent administration of the three divisions of national domestic football, as well as the Northern Ireland Football League Cup.
 
@@ -397,7 +383,7 @@ Cricket
 
 Northern Ireland plays as the Ireland cricket team which represents both Northern Ireland and Republic of Ireland. The Ireland Cricket team is a full member of the International Cricket Council, having been granted Test status and full membership (along with Afghanistan) by the ICC in June 2017. They are currently able to compete in Test cricket, the highest level of competitive cricket in the international arena and they are one of the twelve full-member countries under the ICC.
 
-Ireland is the current champion of the ICC Intercontinental Cup. One of Ireland's regular international venues is Stormont in Belfast.Peter_Canavan_-_SFC_2005_cc_3.0.jpg, Tyrone captain 2003]]
+Ireland is the current champion of the ICC Intercontinental Cup. One of Ireland's regular international venues is Stormont in Belfast., Tyrone captain 2003]]
 
 Gaelic games
 
@@ -409,7 +395,7 @@ Recent successes for Northern Ireland teams include Armagh's 2002 All-Ireland Se
 
 Golf
 
-Rory_McIlroy_watches_drive_flight_(crowd,_landscape_orientation).jpg]]
+]]
 
 Perhaps Northern Ireland's most notable successes in professional sport have come in golf. Northern Ireland has contributed more major champions in the modern era than any other European country, with three in the space of just 14 months from the US Open in 2010 to The Open Championship in 2011. Notable golfers include Fred Daly (winner of The Open in 1947), Ryder Cup players Ronan Rafferty and David Feherty, leading European Tour professionals David Jones, Michael Hoey (a winner on Tour in 2011) and Gareth Maybin, as well as three recent major winners Graeme McDowell (winner of the US Open in 2010, the first European to do so since 1970), Rory McIlroy (winner of four majors) and Darren Clarke (winner of The Open in 2011).[167][168] Northern Ireland has also contributed several players to the Great Britain and Ireland Walker Cup team, including Alan Dunbar and Paul Cutler who played on the victorious 2011 team in Scotland.
 
@@ -436,7 +422,7 @@ In 2007, after the closure of UCW (Ulster Championship Wrestling) which was a wr
 
 Education
 
-Belfast_(455),_October_2009.JPG]]
+]]
 
 Unlike most areas of the United Kingdom, in the last year of primary school, many children sit entrance examinations for grammar schools.
 
@@ -452,7 +438,7 @@ Wildlife
 
 Media and communications
 
-BBC_Northern_Ireland_Belfast.jpg, home of BBC Northern Ireland]]
+, home of BBC Northern Ireland]]
 
 The BBC has a division called BBC Northern Ireland with headquarters in Belfast. As well as broadcasting standard UK-wide programmes, BBC NI produces local content, including a news break-out called BBC Newsline. The ITV franchise in Northern Ireland is Ulster Television (UTV). The state-owned Channel 4 and the privately owned Channel 5 also broadcast in Northern Ireland. Access is available to satellite and cable services.[174] All Northern Ireland viewers must obtain a UK TV licence to watch live television transmissions.
 

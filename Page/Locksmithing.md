@@ -10,7 +10,7 @@ A lock is a mechanism that secures buildings, rooms, cabinets, objects, or other
 
 Work
 
-Mendel_I_072_v.jpg Locks have been constructed for over 2500 years, initially out of wood and later out of metal. Historically, locksmiths would make the entire lock, working for hours hand cutting screws and doing much file-work. Lock designs became significantly more complicated in the 18th century, and locksmiths often specialized in repairing or designing locks.[1][2]
+Locks have been constructed for over 2500 years, initially out of wood and later out of metal. Historically, locksmiths would make the entire lock, working for hours hand cutting screws and doing much file-work. Lock designs became significantly more complicated in the 18th century, and locksmiths often specialized in repairing or designing locks.[1][2]
 
 After the rise of cheap mass production, the vast majority of locks are repaired by swapping of parts or like-for-like replacement, or upgraded to modern mass-production items. Until more recently, safes and strongboxes were the exception to this, and to this day large vaults are custom designed and built at great cost, as the cost of this is lower than the very limited scope for mass production would allow, and the risk of a copy being obtained and defeated as practice is removed.
 

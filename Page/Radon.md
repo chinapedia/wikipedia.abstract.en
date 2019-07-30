@@ -7,7 +7,7 @@ Epidemiological studies have shown a clear link between breathing high concentra
 
 Characteristics
 
-Radon_spectrum.png of radon, photographed by Ernest Rutherford in 1908. Numbers at the side of the spectrum are wavelengths. The middle spectrum is of Radium emanation (radon), while the outer two are of helium (added to calibrate the wavelengths).]]
+of radon, photographed by Ernest Rutherford in 1908. Numbers at the side of the spectrum are wavelengths. The middle spectrum is of Radium emanation (radon), while the outer two are of helium (added to calibrate the wavelengths).]]
 
 Physical properties
 
@@ -31,7 +31,7 @@ Radon reacts with the liquid halogen fluorides ClF, ClF₃, ClF₅, BrF₃, BrF�
 
 Isotopes
 
-Decay_chain(4n+2,_Uranium_series).svg Radon has no stable isotopes. Thirty-nine radioactive isotopes have been characterized, with atomic masses ranging from 193 to 231.[39][40] The most stable isotope is ²²²Rn, which is a decay product of ²²⁶Ra, a decay product of ²³⁸U.[41] A trace amount of the (highly unstable) isotope ²¹⁸Rn is also among the daughters of ²²²Rn.
+Radon has no stable isotopes. Thirty-nine radioactive isotopes have been characterized, with atomic masses ranging from 193 to 231.[39][40] The most stable isotope is ²²²Rn, which is a decay product of ²²⁶Ra, a decay product of ²³⁸U.[41] A trace amount of the (highly unstable) isotope ²¹⁸Rn is also among the daughters of ²²²Rn.
 
 Three other radon isotopes have a half-life of over an hour: ²¹¹Rn, ²¹⁰Rn and ²²⁴Rn. The ²²⁰Rn isotope is a natural decay product of the most stable thorium isotope (²³²Th), and is commonly referred to as thoron. It has a half-life of 55.6 seconds and also emits alpha radiation. Similarly, ²¹⁹Rn is derived from the most stable isotope of actinium (²²⁷Ac)—named "actinon"—and is an alpha emitter with a half-life of 3.96 seconds.[42] No radon isotopes occur significantly in the neptunium (²³⁷Np) decay series, though a trace amount of the (extremely unstable) isotope ²¹⁷Rn is produced.
 
@@ -58,8 +58,6 @@ Because of their electrostatic charge, radon progenies adhere to surfaces or dus
 
 History and etymology
 
-Radon_apparatus.png
-
 Radon was the fifth radioactive element to be discovered, in 1899 by Ernest Rutherford and Robert B. Owens,[47] after uranium, thorium, radium and polonium.[48][49][50][51] In 1900, Friedrich Ernst Dorn reported some experiments in which he noticed that radium compounds emanate a radioactive gas he named 'Radium Emanation' ('Ra Em').[52] Before that, in 1899, Pierre and Marie Curie observed that the gas emitted by radium remained radioactive for a month.[53] Later that year, Robert B. Owens and Ernest Rutherford, at McGill University in Montreal, noticed variations when trying to measure radiation from thorium oxide.[54] Rutherford noticed that the compounds of thorium continuously emit a radioactive gas that retains the radioactive powers for several minutes, and called this gas 'emanation' (from Latin _emanare_—to elapse and _emanatio_—expiration),[55] and later _Thorium Emanation_ (_Th Em_). In 1901, Rutherford and Harriet Brooks demonstrated that the emanations are radioactive, but credited the Curies for the discovery of the element.[56] In 1903, similar emanations were observed from actinium by André-Louis Debierne[57][58] and were called 'Actinium Emanation' ('Ac Em').
 
 Several shortened names were soon suggested for the three emanations: _exradio_, _exthorio_, and _exactinio_ in 1904;[59] _radon_ (Ro), _thoron_ (To), and _akton_ or _acton_ (Ao) in 1918;[60] _radeon_, _thoreon_, and _actineon_ in 1919,[61] and eventually _radon_, _thoron_, and _actinon_ in 1920.[62] (The name radon is not related to that of the Austrian mathematician Johann Radon.) The likeness of the spectra of these three gases with those of argon, krypton, and xenon, and their observed chemical inertia led Sir William Ramsay to suggest in 1904 that the "emanations" might contain a new element of the noble gas family.[63]
@@ -77,7 +75,7 @@ Occurrence
 
 Concentration units
 
-Lead210inairatjapan.png |date=2006|pmid=16181712|issue=1|doi=10.1016/j.jenvrad.2005.08.001|volume=86|last2=Sakaguchi|first2=A.|last3=Sasaki|first3=K.|last4=Hirose|first4=K.|last5=Igarashi|first5=Y.|last6=Kim|first6=C.|pages=110–31}}]]
+|date=2006|pmid=16181712|issue=1|doi=10.1016/j.jenvrad.2005.08.001|volume=86|last2=Sakaguchi|first2=A.|last3=Sasaki|first3=K.|last4=Hirose|first4=K.|last5=Igarashi|first5=Y.|last6=Kim|first6=C.|pages=110–31}}]]
 
 All discussions of radon concentrations in the environment refer to ²²²Rn. While the average rate of production of ²²⁰Rn (from the thorium decay series) is about the same as that of ²²²Rn, the amount of ²²⁰Rn in the environment is much less than that of ²²²Rn because of the short half-life of ²²⁰Rn (55 seconds, versus 3.8 days respectively).[76]
 
@@ -90,8 +88,6 @@ In the mining industry, the exposure is traditionally measured in _working level
 Radon concentrations found in natural environments are much too low to be detected by chemical means. A 1000 Bq/m³ (relatively high) concentration corresponds to 0.17 picogram per cubic meter. The average concentration of radon in the atmosphere is about 6 molar percent, or about 150 atoms in each ml of air.[82] The radon activity of the entire Earth's atmosphere originates from only a few tens of grams of radon, consistently replaced by decay of larger amounts of radium, thorium, and uranium.[83]
 
 Natural
-
-Radon_Concentration_next_to_Uranium_Mine.PNG
 
 Radon is produced by the radioactive decay of radium-226, which is found in uranium ores, phosphate rock, shales, igneous and metamorphic rocks such as granite, gneiss, and schist, and to a lesser degree, in common rocks such as limestone.[84][85] Every square mile of surface soil, to a depth of 6 inches (2.6 km² to a depth of 15 cm), contains approximately 1 gram of radium, which releases radon in small amounts to the atmosphere.[86] On a global scale, it is estimated that 2,400 million curies (90 EBq) of radon are released from soil annually.[87]
 
@@ -113,7 +109,7 @@ Residues from the petroleum and natural gas industry often contain radium and it
 
 Accumulation in buildings
 
-Radon_Lognormal_distribution.gif radon distribution in dwellings.]] US_homes_over_recommended_radon_levels.gif
+radon distribution in dwellings.]]
 
 High concentrations of radon in homes were discovered by chance in 1985 after the stringent radiation testing conducted at a nuclear power plant entrance revealed that Stanley Watras, an engineer at the plant, was contaminated by radioactive substances.[100] Typical domestic exposures are of approximately 100 Bq/m³ (2.7 pCi/L) indoors. Some level of radon will be found in all buildings. Radon mostly enters a building directly from the soil through the lowest level in the building that is in contact with the ground. High levels of radon in the water supply can also increase indoor radon air levels. Typical entry points of radon into buildings are cracks in solid foundations, construction joints, cracks in walls, gaps in suspended floors, gaps around service pipes, cavities inside walls, and the water supply.[101][102] Radon concentrations in the same location may differ by a factor of two over a period of 1 hour. Also, the concentration in one room of a building may be significantly different from the concentration in an adjoining room.[103] The soil characteristics of the dwellings are the most important source of radon for the ground floor and higher concentration of indoor radon observed on lower floors. Most of the high radon concentrations have been reported from places near fault zones; hence the existence of a relation between the exhalation rate from faults and indoor radon concentrations is obvious.[104]
 
@@ -235,7 +231,7 @@ As well as being ingested through drinking water, radon is also released from wa
 
 Testing and mitigation
 
-Radon_detector.jpg Radon_test_kit.jpg There are relatively simple tests for radon gas. In some countries these tests are methodically done in areas of known systematic hazards. Radon detection devices are commercially available. Digital radon detectors provide ongoing measurements giving both daily, weekly, short-term and long-term average readouts via a digital display. Short-term radon test devices used for initial screening purposes are inexpensive, in some cases free. There are important protocols for taking short-term radon tests and it is imperative that they be strictly followed. The kit includes a collector that the user hangs in the lowest habitable floor of the house for 2 to 7 days. The user then sends the collector to a laboratory for analysis. Long term kits, taking collections for up to one year or more, are also available. An open-land test kit can test radon emissions from the land before construction begins.[177] Radon concentrations can vary daily, and accurate radon exposure estimates require long-term average radon measurements in the spaces where an individual spends a significant amount of time.[178]
+There are relatively simple tests for radon gas. In some countries these tests are methodically done in areas of known systematic hazards. Radon detection devices are commercially available. Digital radon detectors provide ongoing measurements giving both daily, weekly, short-term and long-term average readouts via a digital display. Short-term radon test devices used for initial screening purposes are inexpensive, in some cases free. There are important protocols for taking short-term radon tests and it is imperative that they be strictly followed. The kit includes a collector that the user hangs in the lowest habitable floor of the house for 2 to 7 days. The user then sends the collector to a laboratory for analysis. Long term kits, taking collections for up to one year or more, are also available. An open-land test kit can test radon emissions from the land before construction begins.[177] Radon concentrations can vary daily, and accurate radon exposure estimates require long-term average radon measurements in the spaces where an individual spends a significant amount of time.[178]
 
 Radon levels fluctuate naturally, due to factors like transient weather conditions, so an initial test might not be an accurate assessment of a home's average radon level. Radon levels are at a maximum during the coolest part of the day when pressure differentials are greatest.[179] Therefore, a high result (over 4 pCi/L) justifies repeating the test before undertaking more expensive abatement projects. Measurements between 4 and 10 pCi/L warrant a long term radon test. Measurements over 10 pCi/L warrant only another short term test so that abatement measures are not unduly delayed. Purchasers of real estate are advised to delay or decline a purchase if the seller has not successfully abated radon to 4 pCi/L or less.[180]
 

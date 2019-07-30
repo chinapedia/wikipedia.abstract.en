@@ -3,7 +3,7 @@ PHILIPP FRANZ BALTHASAR VON SIEBOLD (17 February 1796 – 18 October 1866) was a
 
 Career
 
-シーボルト_川原慶賀筆.jpg, 1820s]] Naturalis_Biodiversity_Center_-_RMNH.ART.5_-_Carcinoplax_longimana_(De_Haan,_1833)_-_Kawahara_Keiga.jpg Naturalis_Biodiversity_Center_-_RMNH.ART.256_-_Dasyatis_zugei_(Müller_&_Henle,_1841)_-_Kawahara_Keiga_-_Siebold_Collection.jpg by Kawahara for Siebold, 1820s]] Dutch_personnel_and_Japanese_women_watching_an_incoming_towed_Dutch_sailing_ship_at_Dejima_by_Kawahara_Keiga.jpg with his Japanese lover Kusumoto Otaki and their baby-daughter Kusumoto Ine observing with a _teresukoppu_ (telescope) a Dutch ship towed into Nagasaki harbour]] Kusumoto_Otaki_(1807-1865),_aka_Sonogi.jpg Ine_Kusumoto.jpg (1827–1903), first female Japanese western physician and court physician to the Japanese empress]] Siebold_Nagasaki.jpg Siebold_Park_of_Nagasaki.jpg Flora_Japonica_cover.jpg Naturalis_Biodiversity_Center_-_Siebold_Collection_-_Philipp_Franz_von_Siebold_-_Portrait.JPG
+, 1820s]] by Kawahara for Siebold, 1820s]] with his Japanese lover Kusumoto Otaki and their baby-daughter Kusumoto Ine observing with a _teresukoppu_ (telescope) a Dutch ship towed into Nagasaki harbour]] (1827–1903), first female Japanese western physician and court physician to the Japanese empress]]
 
 Early life
 
@@ -65,7 +65,7 @@ Writings
 
 During his stay in Leiden, Siebold wrote _Nippon_ in 1832, the first part of a volume of a richly illustrated ethnographical and geographical work on Japan. The 'Archiv zur Beschreibung Nippons' also contained a report of his journey to the Shogunate Court at Edo.[33] He wrote six further parts, the last ones published posthumously in 1882; his sons published an edited and lower-priced reprint in 1887.[34]
 
-Cephalotaxus_pedunculata_SZ132.png'' in __, by Philipp Franz von Siebold and Joseph Gerhard Zuccarini]]
+'' in __, by Philipp Franz von Siebold and Joseph Gerhard Zuccarini]]
 
 The __ appeared between 1833 and 1841. This work was co-authored by Joseph Hoffmann and Kuo Cheng-Chang, a Javanese of Chinese extraction, who had journeyed along with Siebold from Batavia.[35] It contained a survey of Japanese literature and a Chinese, Japanese and Korean dictionary.[36] Siebold's writing on Japanese religion and customs notably shaped early modern European conceptions of Buddhism and Shinto; he notably suggested that Japanese Buddhism was a form of Monotheism.[37]
 
@@ -77,7 +77,7 @@ From the Hortus Botanicus Leiden – the botanical garden of Leiden – many of 
 
 International endeavours
 
-Coat_of_arms_of_von_Siebold.png After his return to Europe, Siebold tried to exploit his knowledge of Japan. Whilst living in Boppard, from 1852 he corresponded with Russian diplomats such as Baron von Budberg-Bönninghausen, the Russian ambassador to Prussia, which resulted in an invitation to go to St Petersburg to advise the Russian government how to open trade relations with Japan. Though still employed by the Dutch government he did not inform the Dutch of this voyage until after his return.
+After his return to Europe, Siebold tried to exploit his knowledge of Japan. Whilst living in Boppard, from 1852 he corresponded with Russian diplomats such as Baron von Budberg-Bönninghausen, the Russian ambassador to Prussia, which resulted in an invitation to go to St Petersburg to advise the Russian government how to open trade relations with Japan. Though still employed by the Dutch government he did not inform the Dutch of this voyage until after his return.
 
 American Naval Commodore Matthew C. Perry consulted Siebold in advance of his voyage to Japan in 1854.[39] He notably advised Townsend Harris on how Christianity might be spread to Japan, alleging based on his time there that the Japanese "hated" Christianity.[40]
 
@@ -94,7 +94,7 @@ Legacy
 
 Plants named after Siebold
 
-The botanical and horticultural spheres of influence have honored Philipp Franz von Siebold by naming some of the very garden-worthy plants that he studied after him. Examples include: Malus_sieboldii_D.jpg
+The botanical and horticultural spheres of influence have honored Philipp Franz von Siebold by naming some of the very garden-worthy plants that he studied after him. Examples include:
 
 -   _Acer sieboldianum_ or Siebold's Maple: a variety of maple native to Japan
 -   _Calanthe sieboldii_ or Siebold's Calanthe is a terrestrial evergreen orchid native to Japan, the Ryukyu Islands and Taiwan.
@@ -122,7 +122,7 @@ Though he is well known in Japan, where he is called "Shiboruto-san", and althou
 
 Siebold museums
 
-Sword_given_to_Philipp_Franz_von_Siebold_by_Tokugawa_Iemochi_on_11_Nov_1861_-_Staatlichen_Museums_für_Völkerkunde_München_-_DSC08358.JPG on November 11, 1861, on display at the State Museum of Ethnology in Munich]] Siebold_Memorial_Museum.jpg in Nagasaki, Japan]] Although he was disillusioned by what he perceived as a lack of appreciation for Japan and his contributions to its understanding, a testimony of the remarkable character of Siebold is found in museums that honor him.
+on November 11, 1861, on display at the State Museum of Ethnology in Munich]] in Nagasaki, Japan]] Although he was disillusioned by what he perceived as a lack of appreciation for Japan and his contributions to its understanding, a testimony of the remarkable character of Siebold is found in museums that honor him.
 
 -   Japan Museum SieboldHuis in Leiden, Netherlands, shows highlights from the Leiden Siebold collections in the transformed, refitted, formal, first house of Siebold in Leiden
 -   Naturalis Biodiversity Center, the National Museum of Natural History in Leiden, Netherlands houses the zoological and botanical specimens Siebold collected during his first stay in Japan (1823-1829). These include 200 mammals, 900 birds, 750 fishes, 170 reptiles, over 5,000 invertebrates, 2,000 different species of plants and 12,000 herbarium specimens.[47]

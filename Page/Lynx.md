@@ -38,8 +38,6 @@ The four living species of the genus _Lynx_ are believed to have evolved from th
 
 Eurasian lynx
 
-Lynx_lynx2.jpg
-
 Of the four lynx species, the Eurasian lynx (_Lynx lynx_) is the largest in size. It is native to European, Central Asian, and Siberian forests. While its conservation status has been classified as "least concern", populations of Eurasian lynx have been reduced or extirpated from Europe, where it is now being reintroduced.
 
 The Eurasian lynx is the third largest predator in Europe after the brown bear and the grey wolf. It is a strict carnivore, consuming about one or two kilograms of meat every day. The Eurasian lynx is one of the widest-ranging.[16]
@@ -48,15 +46,11 @@ During the summer, the Eurasian lynx has a relatively short, reddish or brown co
 
 Canada lynx
 
-Canadian_lynx_by_Keith_Williams.jpg
-
 The Canada lynx (_Lynx canadensis_), or Canadian lynx, is a North American felid that ranges in forest and tundra regions[18] across Canada and into Alaska, as well as some parts of the northern United States. Historically, the Canadian lynx ranged from Alaska across Canada and into many of the northern U.S. states. In the eastern states, it resided in the transition zone in which boreal coniferous forests yielded to deciduous forests.[19] By 2010, after an 11-year effort, it had been successfully reintroduced into Colorado, where it had become extirpated in the 1970s.[20][21][22] In 2000, the U.S. Fish and Wildlife Service designated the Canada lynx a threatened species in the lower 48 states.[23]
 
 The Canada lynx is a good climber and swimmer; it constructs rough shelters under fallen trees or rock ledges. It has a thick coat and broad paws, and is twice as effective as the bobcat at supporting its weight on the snow. The Canada lynx feeds almost exclusively on snowshoe hares; its population is highly dependent on the population of this prey animal. It will also hunt medium-sized mammals and birds if hare numbers fall.[24]
 
 Iberian lynx
-
-Lynx_pardinus.png
 
 The Iberian lynx (_Lynx pardinus_) is an endangered species native to the Iberian Peninsula in Southern Europe. It was the most endangered cat species in the world,[25] but conservation efforts have changed its status from critical to endangered. According to the Portuguese conservation group SOS Lynx, if this species dies out, it will be the first feline extinction since the _Smilodon_ 10,000 years ago.[26] The species used to be classified as a subspecies of the Eurasian lynx, but is now considered a separate species. Both species occurred together in central Europe in the Pleistocene epoch, being separated by habitat choice.[27] The Iberian lynx is believed to have evolved from _Lynx issiodorensis_.[28]
 
@@ -67,8 +61,6 @@ In 2004, a Spanish government survey showed just two isolated breeding populatio
 As a result of the Spanish government program and efforts by others (such as the WWF and the EU's Life projects), the Iberian lynx "has recovered from the brink of extinction";[32] from 2000 to 2015, the population of Iberian lynx more than tripled.[33] The IUCN reassessed the species from "critically endangered" to "endangered" in 2015.[34] A 2014 census of the species showed 327 animals in Andalucia in the "reintroduction areas" of Sierra Morena and Montes de Toledo (Castilla-La Mancha, Spain), the Matachel Valley (Extremadura, Spain), and the Guadiana Valley (Portugal).[35]
 
 Bobcat
-
-Calero_Creek_Trail_Bobcat.jpg
 
 The bobcat (_Lynx rufus_) is a North American wild cat. With 13 recognized subspecies, the bobcat is common throughout southern Canada, the continental United States, and northern Mexico.[36] The bobcat is an adaptable predator that inhabits deciduous, coniferous, or mixed woodlands, but unlike other _Lynx_, does not depend exclusively on the deep forest, and ranges from swamps and desert lands to mountainous and agricultural areas, its spotted coat serving as camouflage.[37] The population of the bobcat depends primarily on the population of its prey.[38] Nonetheless, the bobcat is often killed by larger predators such as coyotes.[39]
 
@@ -82,7 +74,7 @@ The lynx is usually solitary, although a small group of lynx may travel and hunt
 
 Distribution and habitat
 
-Stalking_Lynx_(5516764719).jpg The lynx inhabits high altitude forests with dense cover of shrubs, reeds, and tall grass. Although this cat hunts on the ground, it can climb trees and can swim swiftly, catching fish.
+The lynx inhabits high altitude forests with dense cover of shrubs, reeds, and tall grass. Although this cat hunts on the ground, it can climb trees and can swim swiftly, catching fish.
 
 Europe and Asia
 

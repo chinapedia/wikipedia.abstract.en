@@ -35,7 +35,7 @@ The Hilly ends where ridges begin substantially rising out of the temperate clim
 
 Himal
 
-Himalayas.jpg view of the Himalayas and Mount Everest as seen from space looking south-south-east from over the Tibetan Plateau. (annotated version)]] Himal is a mountain region containing snow. The Mountain Region or _Parbat_ begins where high ridges (Nepali: लेक; lekh) begin substantially rising above into the subalpine and alpine zone which are mainly used for seasonal pasturage. By geographical view, it covers 16% of the total area of Nepal. A few tens kilometers further north the high Himalaya abruptly rise along the Main Central Thrust fault zone above the snow line at . Some 90 of Nepal's peaks exceed and eight exceed including Mount Everest at and Kanchenjunga at .
+view of the Himalayas and Mount Everest as seen from space looking south-south-east from over the Tibetan Plateau. (annotated version)]] Himal is a mountain region containing snow. The Mountain Region or _Parbat_ begins where high ridges (Nepali: लेक; lekh) begin substantially rising above into the subalpine and alpine zone which are mainly used for seasonal pasturage. By geographical view, it covers 16% of the total area of Nepal. A few tens kilometers further north the high Himalaya abruptly rise along the Main Central Thrust fault zone above the snow line at . Some 90 of Nepal's peaks exceed and eight exceed including Mount Everest at and Kanchenjunga at .
 
 Unlike the Mahabharats, the Himalayas are not continuous across Nepal. Instead, there are some 20 subranges including the Kanchenjunga massif along the Sikkim border, Mahalangur Himal around Mt. Everest. Langtang north of Kathmandu, Annapurna and Manaslu north of Pokhara, then Dhaulagiri further west with Kanjiroba north of Jumla and finally Gurans Himal in the far west.
 
@@ -80,11 +80,9 @@ Permanent villages in the mountain region stand as high as with summer encampmen
 
 Climate
 
-Köppen_climate_types_of_Nepal.svg
-
 Altitudinal belts
 
-Satellite_image_of_Nepal_in_October_2002.jpg Nepal's latitude is about the same as that of the US state of Florida, however with elevations ranging from less than to over and precipitation from to over the country has eight climate zones from tropical to perpetual snow.[3]
+Nepal's latitude is about the same as that of the US state of Florida, however with elevations ranging from less than to over and precipitation from to over the country has eight climate zones from tropical to perpetual snow.[3]
 
 The TROPICAL ZONE below experiences frost less than once per decade. It can be subdivided into lower tropical (below 300 meters or 1,000 ft.) with 18% of the nation's land area) and upper (18% of land area) tropical zones. The best mangoes and well as papaya and banana are largely confined to the lower zone. Other fruit such as litchee, jackfruit, citrus and mangoes of lower quality grow in the upper tropical zone as well. Winter crops include grains and vegetables typically grown in temperate climates. The Outer Terai is virtually all in the lower tropical zone. Inner Terai valleys span both tropical zones. The Sivalik Hills are mostly upper tropical. Tropical climate zones extend far up river valleys across the Middle Hills and even into the Mountain regions.
 
@@ -158,8 +156,6 @@ THIRD CATEGORY rivers rise in the outermost Siwalik foothills and are mostly sea
 
 None of these river systems support significant commercial navigation. Instead, deep gorges create obstacles to establishing transport and communication networks and de-fragmenting the economy. Foot-trails are still primary transportation routes in many hill districts.
 
-NepalOMC.png
-
 River management
 
 Rivers in all three categories are capable of causing serious floods. Koshi River in the first category caused a major flood in August 2008 in Bihar state, India after breaking through a poorly maintained embankment just inside Nepal. The West Rapti in the second category is called "Gorakhpur's Sorrow" for its history of urban flooding. Third category Terai rivers are associated with flash floods.[5]
@@ -218,11 +214,11 @@ Total renewable water resources
 
 Land cover
 
-Land_cover_map_of_Nepal_using_Landsat_30_m_(2010)_data.jpg ICIMOD’s first and most complete national land cover[18] database of Nepal prepared using public domain Landsat TM data of 2010 shows that show that forest is the dominant form of land cover in Nepal covering 57,538 km² with a contribution of 39.09% to the total geographical area of the country. Most of this forest cover is broadleaved closed and open forest, which covers 21,200 km² or 14.4% of the geographical area.
+ICIMOD’s first and most complete national land cover[18] database of Nepal prepared using public domain Landsat TM data of 2010 shows that show that forest is the dominant form of land cover in Nepal covering 57,538 km² with a contribution of 39.09% to the total geographical area of the country. Most of this forest cover is broadleaved closed and open forest, which covers 21,200 km² or 14.4% of the geographical area.
 
 Needleleaved open forest is the least common of the forest areas covering 8267 km² (5.62%). Agriculture area is significant extending over 43,910 km² (29.83%). As would be expected, the high mountain area is largely covered by snow and glaciers and barren land.
 
-Agriculture_land_of_Nepal.jpg The Hill region constitutes the largest portion of Nepal, covering 29.5% of the geographical area, and has a large area (19,783 km²) of cultivated or managed lands, natural and semi natural vegetation (22,621 km²) and artificial surfaces (200 km²). The Tarai region has more cultivated or managed land (14,104 km²) and comparatively less natural and semi natural vegetation (4280 km²). The Tarai has only 267 km² of natural water bodies. The High mountain region has 12,062 km² of natural water bodies, snow/glaciers and 13,105 km² barren areas.
+The Hill region constitutes the largest portion of Nepal, covering 29.5% of the geographical area, and has a large area (19,783 km²) of cultivated or managed lands, natural and semi natural vegetation (22,621 km²) and artificial surfaces (200 km²). The Tarai region has more cultivated or managed land (14,104 km²) and comparatively less natural and semi natural vegetation (4280 km²). The Tarai has only 267 km² of natural water bodies. The High mountain region has 12,062 km² of natural water bodies, snow/glaciers and 13,105 km² barren areas.
 
 Forests
 

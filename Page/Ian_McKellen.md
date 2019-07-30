@@ -22,7 +22,7 @@ Career
 
 Theatre
 
-Jane_Seymour_and_Ian_McKellen_in_Amadeus,_1980_or_1981.jpg (Constanze Mozart) in _Amadeus_, c. 1981]] 9.24.13WaitingForGodot-NoMansLandPressJunketByLuigiNovi8.jpg and Patrick Stewart on 24 September 2013 for a press junket at Sardi's restaurant for _Waiting for Godot_ and _No Man's Land_]] McKellen made his first professional appearance in 1961 at the Belgrade Theatre, as Roper in _A Man for All Seasons_, although an audio recording of the Marlowe Society's _Cymbeline_ had gone on commercial sale as part of the Argo Shakespeare series.[32][33]
+(Constanze Mozart) in _Amadeus_, c. 1981]] and Patrick Stewart on 24 September 2013 for a press junket at Sardi's restaurant for _Waiting for Godot_ and _No Man's Land_]] McKellen made his first professional appearance in 1961 at the Belgrade Theatre, as Roper in _A Man for All Seasons_, although an audio recording of the Marlowe Society's _Cymbeline_ had gone on commercial sale as part of the Argo Shakespeare series.[32][33]
 
 After four years in regional repertory theatres he made his first West End appearance, in _A Scent of Flowers_, regarded as a "notable success".[34] In 1965 he was a member of Laurence Olivier's National Theatre Company at the Old Vic, which led to roles at the Chichester Festival. With the Prospect Theatre Company, McKellen made his breakthrough performances of Richard II (directed by Richard Cottrell) and Marlowe's Edward II (directed by Toby Robertson) at the Edinburgh festival in 1969, the latter causing a storm of protest over the enactment of the homosexual Edward's lurid death.[35]
 
@@ -38,7 +38,7 @@ McKellen had taken film roles throughout his career—beginning in 1969 with his
 
 Later in 1993, McKellen appeared in the television film _And the Band Played On_ about the discovery of the AIDS virus for which McKellen won a CableACE Award for Supporting Actor in a Movie or Miniseries and was nominated for the Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie.[47] In 1995, he played the title role in _Richard III_,[48] which transported the setting into an alternative 1930s in which England is ruled by fascists. The film was a critical success.[49] McKellen co-produced and co-wrote the film, adapting the play for the screen based on a stage production of Shakespeare's play directed by Richard Eyre for the Royal National Theatre in which McKellen had appeared.[50][51] As executive producer he returned his £50,000 fee to complete the filming of the final battle.[52] In his review of the film, _The Washington Post_ film critic Hal Hinson called McKellen's performance a "lethally flamboyant incarnation" and said his "florid mastery ... dominates everything".[53] His performance in the title role garnered BAFTA and Golden Globe nominations for Best Actor and won the European Film Award for Best Actor. His screenplay was nominated for the BAFTA Award for Best Adapted Screenplay.
 
-Ian_McKellen.jpg'' in Wellington, New Zealand, 1 December 2003]] He appeared in the modestly acclaimed film[54] _Apt Pupil_, which was directed by Bryan Singer and based on a story by Stephen King. McKellen portrayed a fugitive Nazi officer living under a false name in the US who is befriended by a curious teenager (Brad Renfro) who threatens to expose him unless he tells his story in detail. He was subsequently nominated for the Academy Award for Best Actor for his role in the 1998 film _Gods and Monsters_, wherein he played James Whale, the director of _Show Boat_ (1936) and _Frankenstein_.[55]
+'' in Wellington, New Zealand, 1 December 2003]] He appeared in the modestly acclaimed film[54] _Apt Pupil_, which was directed by Bryan Singer and based on a story by Stephen King. McKellen portrayed a fugitive Nazi officer living under a false name in the US who is befriended by a curious teenager (Brad Renfro) who threatens to expose him unless he tells his story in detail. He was subsequently nominated for the Academy Award for Best Actor for his role in the 1998 film _Gods and Monsters_, wherein he played James Whale, the director of _Show Boat_ (1936) and _Frankenstein_.[55]
 
 In 1999 McKellen was cast, again under the direction of Bryan Singer, to play the comic book supervillain Magneto in the 2000 film _X-Men_ and its sequels _X2: X-Men United_ (2003) and _X-Men: The Last Stand_ (2006).[56] He later made a short appearance as an older Magneto in 2014's _X-Men: Days of Future Past_, sharing the role with Michael Fassbender, who played a younger version of the character in 2011's _X-Men: First Class_.[57]
 
@@ -72,7 +72,7 @@ LGBT activism
 
 LGBT rights campaigning
 
-McKellen_2010.jpg 2010]]
+2010]]
 
 While McKellen had made his sexual orientation known to fellow actors early on in his stage career, it was not until 1988 that he came out to the general public, in a programme on BBC Radio.[84] The context that prompted McKellen's decision – overriding any concerns about a possible negative effect on his career – was that the controversial Section 28 of the Local Government Bill, known simply as Section 28, was then under consideration in the British Parliament.[85] Section 28 proposed prohibiting local authorities from promoting homosexuality "... as a kind of pretended family relationship".[86] McKellen became active in fighting the proposed law, and, during a BBC Radio 3 programme where he debated Section 28 with the conservative journalist Peregrine Worsthorne, declared himself gay.[87][88] McKellen has stated that he was influenced in his decision by the advice and support of his friends, among them noted gay author Armistead Maupin.[89] In a 1998 interview that discusses the 29th anniversary of the Stonewall riots, McKellen commented,
 
@@ -86,7 +86,7 @@ Section 28 was, however, enacted and remained on the statute books until 2000 in
 
 In 2003, during an appearance on _Have I Got News For You_, McKellen claimed when he visited Michael Howard, then Environment Secretary (responsible for local government), in 1988 to lobby against Section 28, Howard refused to change his position but did ask him to leave an autograph for his children. McKellen agreed, but wrote, "Fuck off, I'm gay."[92] McKellen described Howard's junior ministers, Conservatives David Wilshire and Dame Jill Knight, who were the architects of Section 28, as the 'ugly sisters' of a political pantomime.[93]
 
-Ian_McKellen_at_Europride_2003_Parade.jpg 2003 in Manchester]]
+2003 in Manchester]]
 
 McKellen has continued to be very active in LGBT rights efforts. In a statement on his website regarding his activism, the actor commented that:
 
@@ -123,7 +123,7 @@ Selected credits
 
 Stage, filmography, awards and nominations
 
-The_hands_of_Sir_Ian_McKellen.jpg'' plaque in London's Leicester Square]]
+'' plaque in London's Leicester Square]]
 
 Music
 

@@ -23,7 +23,7 @@ The company also bought two companies providing entertainment metadata: All Medi
 
 As Rovi
 
-Rovi_Corporation_logo.svg On July 16, 2009, Macrovision Solutions Corporation announced the official change of its name to Rovi Corporation.
+On July 16, 2009, Macrovision Solutions Corporation announced the official change of its name to Rovi Corporation.
 
 Rovi announced its first product on January 7, 2010 – TotalGuide, an interactive media guide that incorporated entertainment data, to search, browse and provide recommendations.[8] On March 16, 2010, Rovi acquired MediaUnbound for an undisclosed amount. MediaUnbound had helped build static and dynamic personalization and recommendation engines for clients such as Napster, eMusic and MTV Networks.[9] On June 16, 2010, the company announced the Rovi Advertising Network which bundled guide advertising and third-party interactive TV platforms.[10]
 
@@ -80,7 +80,7 @@ Macrovision introduced its RipGuard technology in February 2005. It was designed
 
 Analog Copy Protection (ACP)
 
-Analog video formats convey video signals as a series of "lines". Most of these lines are used for constructing the visible image, and are shown on the screen. But several more lines exist which do not convey visual information. Known as the vertical blanking interval (VBI), these extra lines historically served no purpose other than to contain the vertical synchronizing pulses, but in more modern implementations they are used to carry or convey different things in different countries; for example closed captioning. Macrovision_pulses_large.pngMacrovision_pulses_small.png
+Analog video formats convey video signals as a series of "lines". Most of these lines are used for constructing the visible image, and are shown on the screen. But several more lines exist which do not convey visual information. Known as the vertical blanking interval (VBI), these extra lines historically served no purpose other than to contain the vertical synchronizing pulses, but in more modern implementations they are used to carry or convey different things in different countries; for example closed captioning.
 
 Macrovision's legacy analog copy protection (ACP) works by implanting a series of excessive voltage pulses within the off-screen VBI lines of video. These pulses were included physically within pre-existing recordings on VHS and Betamax and were generated upon playback by a chip in DVD players and digital cable or satellite boxes. A DVD recorder receiving an analog signal featuring these pulses would detect them and display a message saying that the source is "copy-protected" followed by aborting the recording. VCRs, in turn, react to these excessive voltage pulses by compensating with their automatic gain control circuitry. This causes the recorded picture to wildly change brightness, rendering it annoying to watch. The system was only effective on VCRs made at around the mid-1980s and later.
 

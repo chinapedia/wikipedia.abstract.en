@@ -1,4 +1,4 @@
-Steve_Russell_and_PDP-1.png with Steve Russell, creator of _Spacewar!_ The large cabinet houses the processor. The main control panel is just above the desk, the paper tape reader is above it (metallic), and the output of the Teletype model BRPE paper tape punch above that (vertical slot). A storage tray for eight fanfold paper tapes is attached to the top panel. At the left is the IBM Model B typewriter modified by Soroban, and the Type 30 CRT display is to the far right.]]
+with Steve Russell, creator of _Spacewar!_ The large cabinet houses the processor. The main control panel is just above the desk, the paper tape reader is above it (metallic), and the output of the Teletype model BRPE paper tape punch above that (vertical slot). A storage tray for eight fanfold paper tapes is attached to the top panel. At the left is the IBM Model B typewriter modified by Soroban, and the Type 30 CRT display is to the far right.]]
 
 The PDP-1 (_Programmed Data Processor-1_) is the first computer in Digital Equipment Corporation's PDP series and was first produced in 1959. It is famous for being the computer most important in the creation of hacker culture at MIT, BBN and elsewhere.[1] The PDP-1 is the original hardware for playing history's first game on a minicomputer, Steve Russell's _Spacewar!_[2]
 
@@ -7,7 +7,7 @@ Description
 
 The PDP-1 uses an 18-bit word size and has 4096 words as standard main memory (equivalent to 9,216 eight-bit bytes, though the system actually uses six-bit bytes), upgradable to 65,536 words. The magnetic core memory's cycle time is 5.35 microseconds (corresponding roughly to a "clock speed" of 187 kilohertz); consequently most arithmetic instructions take 10.7 microseconds (93,458 operations per second) because they use two memory cycles: the first to fetch the instruction, the second to fetch or store the data word. Signed numbers are represented in ones' complement. The PDP-1 has computing power roughly equivalent to a 1996 pocket organizer and a little less memory.[3]
 
-Dec_SYSTEM_BUILDING_BLOCKS_logo.jpg Dec_SYSTEM_BUILDING_BLOCKS_1103.jpg PDP-1_System_Building_Block_No._4106.jpg – note that one transistor (yellow) has been replaced]]
+– note that one transistor (yellow) has been replaced]]
 
 The PDP-1 uses 2,700 transistors and 3,000 diodes.[4] It is built mostly of DEC 1000-series System Building Blocks, using micro-alloy and micro-alloy diffused transistors with a rated switching speed of 5 MHz. The System Building Blocks are packaged into several 19-inch racks. The racks are themselves packaged into a single large mainframe case, with a hexagonal control panel containing switches and lights mounted to lie at table-top height at one end of the mainframe. Above the control panel is the system's standard input/output solution, a punched tape reader and writer.
 
@@ -29,7 +29,7 @@ The first ever reference to malicious hacking is 'telephone hackers' in MIT's st
 
 Peripherals
 
-PDP-1.jpg The PDP-1 uses punched paper tape as its primary storage medium.[23] Unlike punched card decks, which could be sorted and re-ordered, paper tape is difficult to physically edit. This inspired the creation of text-editing programs such as Expensive Typewriter and TECO. Because it is equipped with online and offline printers that were based on IBM electric typewriter mechanisms, it is capable of what, in 1980s terminology, would be called "letter-quality printing" and therefore inspired TJ-2, arguably the first word processor.
+The PDP-1 uses punched paper tape as its primary storage medium.[23] Unlike punched card decks, which could be sorted and re-ordered, paper tape is difficult to physically edit. This inspired the creation of text-editing programs such as Expensive Typewriter and TECO. Because it is equipped with online and offline printers that were based on IBM electric typewriter mechanisms, it is capable of what, in 1980s terminology, would be called "letter-quality printing" and therefore inspired TJ-2, arguably the first word processor.
 
 The console typewriter is the product of a company named Soroban Engineering. It uses an IBM Model B Electric typewriter mechanism, modified by the addition of switches to detect keypresses, and solenoids to activate the typebars. It uses a traditional typebar mechanism, not the "golfball" IBM Selectric typewriter mechanism, which was not introduced until the next year. Lettercase is selected by raising and lowering the massive type basket. The Soroban is equipped with a two-color inked ribbon (red and black), and the interface allows color selection. Programs commonly use color-coding to distinguish user input from machine responses. The Soroban mechanism is unreliable and prone to jamming, particularly when shifting case or changing ribbon color.
 
@@ -48,8 +48,6 @@ MIT hackers also used the PDP-1 for playing music in four-part harmony, using so
 
 
 Current status
-
-PDP-1_control_board.jpg
 
 Only three PDP-1 computers are still known to exist, and all three are in the collection of the Computer History Museum (CHM). One is the prototype formerly used at MIT, and the other two are production PDP-1C machines. One of the latter, serial number 55 (the last PDP-1 made) has been restored to working order, is on exhibit, and is demonstrated on two Saturdays every month. The restoration is described on a special web page of the Computer History Museum. The demonstrations include:
 

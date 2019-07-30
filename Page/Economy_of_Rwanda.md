@@ -21,7 +21,7 @@ The United States, Belgium, Germany, the Netherlands, France, the People's Repub
 
 After the Rwandan Genocide, the Tutsi-led government began a major program to improve the country's economy and reduce its dependence on subsistence farming. The failing economy had been a major factor behind the genocide, as was overpopulation and the resulting competition for scarce farmland and other resources. The government focused primarily on building up its manufacturing and service industries and eliminating barriers to trade and development.
 
-Voa_murdock_rwanda_farming_musangwa_300_oct2011.jpg The Government of Rwanda posted a 13% GDP growth rate in 1996 through improved collection of tax revenues, accelerated privatization of state enterprises to stop the drain on government resources, and continued improvement in export crop and food production. Tea plantations and factories continue to be rehabilitated, and coffee, always a smallholder's crop, is being more seriously rehabilitated and tended as the farmers' sense of security returns. However, the road to recovery will be slow.
+The Government of Rwanda posted a 13% GDP growth rate in 1996 through improved collection of tax revenues, accelerated privatization of state enterprises to stop the drain on government resources, and continued improvement in export crop and food production. Tea plantations and factories continue to be rehabilitated, and coffee, always a smallholder's crop, is being more seriously rehabilitated and tended as the farmers' sense of security returns. However, the road to recovery will be slow.
 
 Coffee production of 14,578,560 tons in 2000 compares to a pre-civil war variation between 35,000 and 40,000 tons . By 2002 tea became Rwanda’s largest export, with export earnings from tea reaching US$18 million equating to 15,000 tons of dried tea. Rwanda's natural resources are limited. A small mineral industry provides about 5% of foreign exchange earnings. Concentrates exist of the heavy minerals cassiterite (a primary source of tin), and coltan (used to manufacture electronic capacitors, used in consumer electronics products such as cell phones, DVD players, video game systems and computers).
 
@@ -46,15 +46,13 @@ Some international researchers have also questioned the Rwandan government's met
 
 Agriculture and Primary resources
 
-En_visualize_explore_tree_map_hs92_export_rwa_all_show_2014.png
-
-MarabaCoffeeDryingRacks.jpg. Coffee is one of Rwanda's major cash crops.|alt=Photograph of four drying racks containing white coloured unroasted coffee beans]]
+. Coffee is one of Rwanda's major cash crops.|alt=Photograph of four drying racks containing white coloured unroasted coffee beans]]
 
 In 2012 agriculture accounted for 33% of the economy of Rwanda.[7]
 
 Rwanda has long relied on coffee as a cash crop. The crash of coffee prices in 1989 caused a great decrease in purchasing power, and increased domestic tensions.
 
-Rwanda's economy suffered heavily during the 1994 Genocide, with widespread loss of life, failure to maintain the infrastructure, looting, and neglect of important cash crops. This caused a large drop in GDP and destroyed the country's ability to attract private and external investment. The economy has since strengthened, with per-capita GDP (PPP) estimated at $2,225 in 2018, compared with $416 in 1994. Tea_field_workers_in_rwanda.jpg Major export markets include China, Germany, and the United States. The economy is managed by the central National Bank of Rwanda and the currency is the Rwandan franc; in June 2010, the exchange rate was 588 francs to the United States dollar. Rwanda joined the East African Community in 2007 and there are plans for a common East African shilling, which has been hoped to be in place by 2015.
+Rwanda's economy suffered heavily during the 1994 Genocide, with widespread loss of life, failure to maintain the infrastructure, looting, and neglect of important cash crops. This caused a large drop in GDP and destroyed the country's ability to attract private and external investment. The economy has since strengthened, with per-capita GDP (PPP) estimated at $2,225 in 2018, compared with $416 in 1994. Major export markets include China, Germany, and the United States. The economy is managed by the central National Bank of Rwanda and the currency is the Rwandan franc; in June 2010, the exchange rate was 588 francs to the United States dollar. Rwanda joined the East African Community in 2007 and there are plans for a common East African shilling, which has been hoped to be in place by 2015.
 
 Rwanda is a country of few natural resources, and the economy is based mostly on subsistence agriculture by local farmers using simple tools. An estimated 90% of the working population farms, and agriculture comprised an estimated 42.0% of GDP in 2010. Since the mid-1980s, farm sizes and food production have been decreasing, due in part to the resettlement of displaced people. Despite Rwanda's fertile ecosystem, food production often does not keep pace with population growth, and food imports are required.
 
@@ -83,7 +81,7 @@ Rwanda's manufacturing sector is dominated by the production of import substitut
 
 Tourism and Services
 
-Gorilla_mother_and_baby_at_Volcans_National_Park.jpgs in Volcanoes National Park.|alt=Photograph depicting female adult gorilla with a baby on her shoulders, surrounded by green foliage]]
+s in Volcanoes National Park.|alt=Photograph depicting female adult gorilla with a baby on her shoulders, surrounded by green foliage]]
 
 Rwanda's service sector suffered during the late-2000s recession as banks reduced lending and foreign aid projects and investment were reduced. The sector rebounded in 2010, becoming the country's largest sector by economic output and contributing 43.6% of the country's GDP. Key tertiary contributors include banking and finance, wholesale and retail trade, hotels and restaurants, transport, storage, communication, insurance, real estate, business services and public administration including education and health.
 

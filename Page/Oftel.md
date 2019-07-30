@@ -1,4 +1,4 @@
-Oftel_logo.svg The OFFICE OF TELECOMMUNICATIONS (OFTEL) (_the telecommunications regulator_) was a department in the United Kingdom government, under civil service control, charged with promoting competition and maintaining the interests of consumers in the UK telecommunications market. It was set up under the Telecommunications Act 1984 after privatisation of the nationalised operator BT.
+The OFFICE OF TELECOMMUNICATIONS (OFTEL) (_the telecommunications regulator_) was a department in the United Kingdom government, under civil service control, charged with promoting competition and maintaining the interests of consumers in the UK telecommunications market. It was set up under the Telecommunications Act 1984 after privatisation of the nationalised operator BT.
 
 Oftel was accused by critics such as Freeserve of having been "captured" by BT, and of giving the dominant operator too much freedom to leverage its monopoly status in fixed line telephony into other markets such as ADSL.[1]
 

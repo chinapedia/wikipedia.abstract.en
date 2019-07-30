@@ -9,7 +9,7 @@ Opel is headquartered in Rüsselsheim am Main, Hesse, Germany. The company desig
 
 History
 
-Opel_Nähmaschinen_1901.jpg Opel_bicycle5.JPG]]
+]]
 
 1862–1920
 
@@ -25,7 +25,7 @@ In 1911, the company's factory was virtually destroyed by fire and a new one was
 
 1920–1939
 
-Opel_Admiral_Cabriolet,_Bauzeit_1937-1939_(08.07.2007).jpg convertible (1937–1939)]] 1939_Opel_Kapitän,_Owner_Arild_Nilssen_who,_as_his_lady_companion_wear_matching_attire_cropped_to_highlight_the_car.jpg (1938-1940)]] In the early 1920s, Opel became the first German car manufacturer to incorporate a mass-production assembly line in the building of their automobiles. In 1924, they used their assembly line to produce a new open two-seater called the _Laubfrosch_ (Tree frog). The Laubfrosch was finished exclusively in green lacquer. The car sold for an expensive 3,900 marks (expensive considering the less expensive manufacturing process), but by the 1930s, this type of vehicle would cost a mere 1,930 marks – due in part to the assembly line, but also due to the skyrocketing demand for cars. Adam Opel led the way for motorised transportation to become not just a means for the rich, but also a reliable way for people of all classes to travel.
+convertible (1937–1939)]] (1938-1940)]] In the early 1920s, Opel became the first German car manufacturer to incorporate a mass-production assembly line in the building of their automobiles. In 1924, they used their assembly line to produce a new open two-seater called the _Laubfrosch_ (Tree frog). The Laubfrosch was finished exclusively in green lacquer. The car sold for an expensive 3,900 marks (expensive considering the less expensive manufacturing process), but by the 1930s, this type of vehicle would cost a mere 1,930 marks – due in part to the assembly line, but also due to the skyrocketing demand for cars. Adam Opel led the way for motorised transportation to become not just a means for the rich, but also a reliable way for people of all classes to travel.
 
 Opel had a 37.5% market share in Germany and was also the country's largest automobile exporter in 1928. The "Regent" – Opel's first eight-cylinder car – was offered. The RAK 1 and RAK 2 rocket-propelled cars made sensational record-breaking runs.
 
@@ -41,7 +41,7 @@ The 1930s was a decade of growth, and by 1937, with 130,267 cars produced, Opel'
 
 World War II
 
-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg at Opelwerk Brandenburg (1936)]] Bundesarchiv_Bild_101I-303-0554-24,_Italien,_Soldaten_auf_LKW_Opel-Blitz.jpg
+at Opelwerk Brandenburg (1936)]]
 
 World War II brought to Rüsselsheim the only year in the history of Opel – 1945 – in which it produced fewer vehicles since that first Lutzmann-authored Opel was made in 1899. Before the conflict broke out, the Adam Opel AG had established itself as the largest motor vehicle manufacturer in Europe. The combination of Opel know-how with GM resources had produced outstanding results. In spite of stifling red tape, the economic atmosphere in Germany in the 1930s had powerfully fertilised the growth of this and other auto companies, but in the case of Opel, at least, the expansion of this industrial machine clearly was not directed in any way toward military objectives.
 
@@ -73,7 +73,7 @@ Just at war's end, a small skeleton crew began clearing the rubble from the plan
 
 1945–1970
 
-Opel_Werk_In_Ruesselsheim_From_Train.jpg Opel-Fridgidaire.jpg" refrigerator]] Opel_Rekord_1700_P1_(2008-06-14)_ret.jpg (1957–1960)]] After the end of the war, with the Brandenburg plant dismantled and transported to the Soviet Union, and 47% of the buildings in Rüsselsheim destroyed,[12] former Opel employees began to rebuild the Rüsselsheim plant.
+" refrigerator]] (1957–1960)]] After the end of the war, with the Brandenburg plant dismantled and transported to the Soviet Union, and 47% of the buildings in Rüsselsheim destroyed,[12] former Opel employees began to rebuild the Rüsselsheim plant.
 
 In response to the pressing need for new trucks in a Germany struggling to rebuild, the American authorities governing Rüsselsheim granted permission to the plant to produce a truck powered by the 2.5 L Kapitän engine. It was a minor miracle that even this was possible. By January 1946, the plant was ready to build trucks, but many of the almost 12,000 parts needed to make each one was lacking. Before the big firms could begin, the small ones had to get started, too. Illness and poor nutrition so crippled the staff of 6,000 workers that it was normal for 500 to be too sick to come to work and more than 400 to report sick during the day.
 
@@ -132,13 +132,11 @@ In the 2018 financial year, Opel achieved an operating income of 859 € million
 
 Company
 
-OPEL_Eisenach_Gesamtansicht_2009.jpg]] Opel_Vectra_C_Caravan_Facelift_front_20100711.jpg Opel operates 10 vehicle, powertrain, and component plants and four development and test centres in six countries, and employs around 30,000 people in Europe. The brand sells vehicles in more than 60 markets worldwide. Other plants are in Eisenach and Kaiserslautern, Germany; Szentgotthárd, Hungary; Zaragoza, Spain; Gliwice, and Tychy, Poland; Aspern, Austria; Ellesmere Port, and Luton, Great Britain.[35] The Dudenhofen Test Center is located near the company's headquarters and is responsible for all technical testing and vehicle validations.
+]] Opel operates 10 vehicle, powertrain, and component plants and four development and test centres in six countries, and employs around 30,000 people in Europe. The brand sells vehicles in more than 60 markets worldwide. Other plants are in Eisenach and Kaiserslautern, Germany; Szentgotthárd, Hungary; Zaragoza, Spain; Gliwice, and Tychy, Poland; Aspern, Austria; Ellesmere Port, and Luton, Great Britain.[35] The Dudenhofen Test Center is located near the company's headquarters and is responsible for all technical testing and vehicle validations.
 
 Around 6,250 people are responsible for the engineering and design of Opel/Vauxhall vehicles at the International Technical Development Center and European Design Center in Rüsselsheim.[36] All in all, Opel plays an important role in Groupe PSA's global R&D footprint.
 
 Leadership
-
-Neumann_1.JPG
 
   Name                                   From              To
   -------------------------------------- ----------------- ---------------
@@ -169,66 +167,66 @@ Plants
 
 As of 2014 _Opel Group GmbH_ Is the contracted original equipment manufacturer (OEM) of Opel/Vauxhall. _Adam Opel AG_ is the main supplier (tier 1) for the OEM; all subsidiaries are tier 2 suppliers. Opel Group and Adam Opel are both first-tier subsidiaries of _General Motors Holdings, LLC_ and second-tier subsidiaries of _General Motors Corporation (GMC)._[40]
 
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Production site                 | Image                                                                                | Production since | Products                                                                                                      | Comments                                              | Employees |
-+=================================+======================================================================================+==================+===============================================================================================================+=======================================================+===========+
-| Rüsselsheim, Germany            |                                                                                      | 1898             | -   Insignia (saloon/sedan, hatchback, Sports Tourer (estate/wagon), Country Tourer (crossover estate/wagon)) | -   International Technical Development Center (ITDC) | 12.990    |
-|                                 |                                                                                      |                  | -   Zafira Tourer C[41]                                                                                       | -   Headquarters of Opel Automobile GmbH              |           |
-|                                 |                                                                                      |                  | -   GM F40 transmission                                                                                       | -   Dudenhofen Test Center                            |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Kaiserslautern, Germany         |                                                                                      | 1966             | -   Components                                                                                                |                                                       | 2.150     |
-|                                 |                                                                                      |                  | -   Engines                                                                                                   |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Kikinda, Serbia(*Ex-Yugoslavia) |                                                                                      | 1977 -1992       | -   Car parts                                                                                                 | -   IDA-Opel(Industry for car parts Opel)             | ?         |
-|                                 |                                                                                      |                  | -   Opel Kadett, Opel Omega, Opel Senator(also known as Opel Kikinda), Opel Vectra                            |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Opel Eisenach GmbH              | OPEL_Eisenach_Gesamtansicht_2009.jpg                                                 | 1990             | -   Corsa E (three-door)                                                                                      |                                                       | 1.420     |
-| Eisenach, Germany               |                                                                                      |                  | -   Adam[42][43]                                                                                              |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Zaragoza, Spain                 |                                                                                      | 1982             | -   Corsa E (three-, four-, and five-door)                                                                    |                                                       | 5.120     |
-|                                 |                                                                                      |                  | -   Meriva B                                                                                                  |                                                       |           |
-|                                 |                                                                                      |                  | -   Mokka[44]                                                                                                 |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Gliwice, Poland                 | Opel_Gliwice.JPG                                                                     | 1998             | -   Opel Astra J (saloon/sedan, GTC three-door hatchback)                                                     |                                                       | 2.920     |
-|                                 |                                                                                      |                  | -   Opel Astra K (5-door)                                                                                     |                                                       |           |
-|                                 |                                                                                      |                  | -   Buick/Opel/Vauxhall Cascada[45]                                                                           |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| GM Powertrain Poland[46]        | Katowicka_Specjalna_Strefa_Ekonomiczna_(Podstrefa_Tyska)_-_Isuzu_Motors_Polska_2.jpg | 1996             | -   Diesel engines                                                                                            |                                                       | 480       |
-| Tychy, Poland                   |                                                                                      |                  |                                                                                                               |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| St. Gotthard, Hungary           |                                                                                      | 1990             | -   Engines                                                                                                   |                                                       | 810       |
-|                                 |                                                                                      |                  | -   Transmissions                                                                                             |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| Vauxhall Ellesmere Port         | Vauxhall's,_Ellesmere_Port_-_geograph.org.uk_-_218503.jpg                            | 1962             | -   Astra K Sports Tourer (estate/wagon)                                                                      |                                                       | 1.630     |
-| Ellesmere Port, Great Britain   |                                                                                      |                  |                                                                                                               |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| IBC Vehicles Ltd                | GM_building_-_geograph.org.uk_-_560801.jpg                                           | 1907             | -   Vivaro B                                                                                                  | -   headquarters of Vauxhall                          | 1.140     |
-| Luton, Great Britain            |                                                                                      |                  |                                                                                                               |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
-| GM Auto LLC                     |                                                                                      | 2008             | -   Astra J (five-door, saloon/sedan)                                                                         |                                                       | 880       |
-| Saint Petersburg, Russia        |                                                                                      |                  |                                                                                                               |                                                       |           |
-+---------------------------------+--------------------------------------------------------------------------------------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Production site                 | Image | Production since | Products                                                                                                      | Comments                                              | Employees |
++=================================+=======+==================+===============================================================================================================+=======================================================+===========+
+| Rüsselsheim, Germany            |       | 1898             | -   Insignia (saloon/sedan, hatchback, Sports Tourer (estate/wagon), Country Tourer (crossover estate/wagon)) | -   International Technical Development Center (ITDC) | 12.990    |
+|                                 |       |                  | -   Zafira Tourer C[41]                                                                                       | -   Headquarters of Opel Automobile GmbH              |           |
+|                                 |       |                  | -   GM F40 transmission                                                                                       | -   Dudenhofen Test Center                            |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Kaiserslautern, Germany         |       | 1966             | -   Components                                                                                                |                                                       | 2.150     |
+|                                 |       |                  | -   Engines                                                                                                   |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Kikinda, Serbia(*Ex-Yugoslavia) |       | 1977 -1992       | -   Car parts                                                                                                 | -   IDA-Opel(Industry for car parts Opel)             | ?         |
+|                                 |       |                  | -   Opel Kadett, Opel Omega, Opel Senator(also known as Opel Kikinda), Opel Vectra                            |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Opel Eisenach GmbH              |       | 1990             | -   Corsa E (three-door)                                                                                      |                                                       | 1.420     |
+| Eisenach, Germany               |       |                  | -   Adam[42][43]                                                                                              |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Zaragoza, Spain                 |       | 1982             | -   Corsa E (three-, four-, and five-door)                                                                    |                                                       | 5.120     |
+|                                 |       |                  | -   Meriva B                                                                                                  |                                                       |           |
+|                                 |       |                  | -   Mokka[44]                                                                                                 |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Gliwice, Poland                 |       | 1998             | -   Opel Astra J (saloon/sedan, GTC three-door hatchback)                                                     |                                                       | 2.920     |
+|                                 |       |                  | -   Opel Astra K (5-door)                                                                                     |                                                       |           |
+|                                 |       |                  | -   Buick/Opel/Vauxhall Cascada[45]                                                                           |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| GM Powertrain Poland[46]        |       | 1996             | -   Diesel engines                                                                                            |                                                       | 480       |
+| Tychy, Poland                   |       |                  |                                                                                                               |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| St. Gotthard, Hungary           |       | 1990             | -   Engines                                                                                                   |                                                       | 810       |
+|                                 |       |                  | -   Transmissions                                                                                             |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| Vauxhall Ellesmere Port         |       | 1962             | -   Astra K Sports Tourer (estate/wagon)                                                                      |                                                       | 1.630     |
+| Ellesmere Port, Great Britain   |       |                  |                                                                                                               |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| IBC Vehicles Ltd                |       | 1907             | -   Vivaro B                                                                                                  | -   headquarters of Vauxhall                          | 1.140     |
+| Luton, Great Britain            |       |                  |                                                                                                               |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
+| GM Auto LLC                     |       | 2008             | -   Astra J (five-door, saloon/sedan)                                                                         |                                                       | 880       |
+| Saint Petersburg, Russia        |       |                  |                                                                                                               |                                                       |           |
++---------------------------------+-------+------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------+
 
 Plant controlled as first-tier subsidiary of _General Motors Europe Limited,_ second-tier subsidiary of _GM CME Holdings CV_ and third-tier subsidiary of _General Motors Corporation (GMC):_[47]
 
-+--------------------+-------------------------------------------------------+------------------+----------------------+-----------------------------------------------------------------------------------+-----------+
-| Production         | Image                                                 | Production since | Products             | Comments                                                                          | Employees |
-| site               |                                                       |                  |                      |                                                                                   |           |
-+====================+=======================================================+==================+======================+===================================================================================+===========+
-| Opel Wien GmbH[48] | Aspern_(Wien)_-_Opel-Werk,_Verwaltungsgebäude_(2).JPG | 1982             | -   Family 0 engines | Opel Wien in Austria also well known as its first name General Motors Austria[49] | 1.480     |
-| Aspern, Austria    |                                                       |                  | -   Transmissions    |                                                                                   |           |
-+--------------------+-------------------------------------------------------+------------------+----------------------+-----------------------------------------------------------------------------------+-----------+
++--------------------+-------+------------------+----------------------+-----------------------------------------------------------------------------------+-----------+
+| Production         | Image | Production since | Products             | Comments                                                                          | Employees |
+| site               |       |                  |                      |                                                                                   |           |
++====================+=======+==================+======================+===================================================================================+===========+
+| Opel Wien GmbH[48] |       | 1982             | -   Family 0 engines | Opel Wien in Austria also well known as its first name General Motors Austria[49] | 1.480     |
+| Aspern, Austria    |       |                  | -   Transmissions    |                                                                                   |           |
++--------------------+-------+------------------+----------------------+-----------------------------------------------------------------------------------+-----------+
 
 
 Marketing
 
 Logo
 
-Old_Opel_logo.jpg The first Opel logo contained the letters "A" and "O" – the initials of the company's founder, Adam Opel. The A was in bronze, the O kept in red.
+The first Opel logo contained the letters "A" and "O" – the initials of the company's founder, Adam Opel. The A was in bronze, the O kept in red.
 
 In 1866, Opel expanded and started to produce bicycles. Around 1890, the logo was completely redesigned. The new logo also contained the words "Victoria Blitz" (referring to Lady Victory; they were certain of the triumph of their bicycles). The word "Blitz" (English: lightning) first appeared back then, but without a depiction.
 
-Das-Opel-Auge_in-guten-Haenden_LWS2577.jpg Another redesign was commissioned in 1909. The new logo was much more spirited and contained only the company name Opel. It was placed on the motorcycles that they had started to produce in 1902, and on the first cars which were produced in 1909.
+Another redesign was commissioned in 1909. The new logo was much more spirited and contained only the company name Opel. It was placed on the motorcycles that they had started to produce in 1902, and on the first cars which were produced in 1909.
 
 In 1910, the logo was the shape of an eye, and it was surrounded by laurels, with the text "Opel" in the centre.
 
@@ -412,109 +410,109 @@ Current model range
 
 The following tables list current and announced Opel production vehicles as of 2017:
 
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Adam        | Opel_Adam_1.4_Slam_–_Frontansicht,_15._Januar_2014,_Düsseldorf.jpg                                     |  | -   Hatchback                         |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Ampera-e    | Opel_Ampera-E_-_Mondial_de_l'Automobile_de_Paris_2016_-_009.jpg                                        |  | -   Hatchback                         |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Astra       | Opel_Astra_1.6_CDTI_ecoFLEX_Dynamic_(K)_–_Frontansicht,_23._Dezember_2016,_Düsseldorf.jpg              |  | -   Hatchback                         |
-|             |                                                                                                        |  | -   Sports Tourer (Estate/Wagon)      |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Cascada     | Opel_Cascada_1.6_EDIT_Innovation_–_Frontansicht,_23._März_2014,_Düsseldorf.jpg                         |  | -   Convertible                       |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Combo Life  | 2018_Opel_Combo_Life_Leonberg_IMG_0158.jpg                                                             |  | -   Van                               |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Corsa       | Opel_Corsa_1.3_CDTI_ecoFLEX_Innovation_(E)_–_Frontansicht,_24._Dezember_2015,_Ratingen.jpg             |  | -   Hatchback                         |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Crossland X | 2017_Opel_Crossland_X_front_(red)_3_crop.jpg                                                           |  | -   MPV/SUV                           |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Grandland X | Opel_Grandland_X_IMG_0398.jpg                                                                          |  | -   SUV                               |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Insignia    | Opel Insignia Grand Sport 1.6 Diesel Business Innovation (B) – Frontansicht, 5. Mai 2017, Düsseldorf   |  | -   Grand Sport (Hatchback)           |
-|             |                                                                                                        |  | -   Sports Tourer (Estate/Wagon)      |
-|             |                                                                                                        |  | -   Country Tourer (AWD Estate/Wagon) |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Karl        | Opel_KARL_(1).jpg                                                                                      |  | -   Hatchback                         |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Mokka X     | Opel_Mokka_X_1.6_CDTI_ecoFLEX_4x4_Edition_(Facelift)_–_Frontansicht,_23._Dezember_2016,_Düsseldorf.jpg |  | -   SUV                               |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
-| Zafira      | Opel_Zafira_post_facelift_2016_with_front_styling_more_conservatively_done_than_hitherto.jpg           |  | -   MPV                               |
-+-------------+--------------------------------------------------------------------------------------------------------+--+---------------------------------------+
++-------------+--+--+---------------------------------------+
+| Adam        |  |  | -   Hatchback                         |
++-------------+--+--+---------------------------------------+
+| Ampera-e    |  |  | -   Hatchback                         |
++-------------+--+--+---------------------------------------+
+| Astra       |  |  | -   Hatchback                         |
+|             |  |  | -   Sports Tourer (Estate/Wagon)      |
++-------------+--+--+---------------------------------------+
+| Cascada     |  |  | -   Convertible                       |
++-------------+--+--+---------------------------------------+
+| Combo Life  |  |  | -   Van                               |
++-------------+--+--+---------------------------------------+
+| Corsa       |  |  | -   Hatchback                         |
++-------------+--+--+---------------------------------------+
+| Crossland X |  |  | -   MPV/SUV                           |
++-------------+--+--+---------------------------------------+
+| Grandland X |  |  | -   SUV                               |
++-------------+--+--+---------------------------------------+
+| Insignia    |  |  | -   Grand Sport (Hatchback)           |
+|             |  |  | -   Sports Tourer (Estate/Wagon)      |
+|             |  |  | -   Country Tourer (AWD Estate/Wagon) |
++-------------+--+--+---------------------------------------+
+| Karl        |  |  | -   Hatchback                         |
++-------------+--+--+---------------------------------------+
+| Mokka X     |  |  | -   SUV                               |
++-------------+--+--+---------------------------------------+
+| Zafira      |  |  | -   MPV                               |
++-------------+--+--+---------------------------------------+
 
 Light commercial vehicles
 
-+----------+--------------------------------------------------------------------------------------+--+-----------------+
-| Corsavan |                                                                                      |  | -   Van         |
-+----------+--------------------------------------------------------------------------------------+--+-----------------+
-| Combo    | Opel_Combo_Kastenwagen_1.6_CDTI_(D)_–_Frontansicht,_5._September_2012,_Wuppertal.jpg |  | -   Van         |
-+----------+--------------------------------------------------------------------------------------+--+-----------------+
-| Vivaro   | Opel_Vivaro_B.JPG                                                                    |  | -   Van         |
-+----------+--------------------------------------------------------------------------------------+--+-----------------+
-| Movano   | Opel_Movano_B_front_20100705.jpg                                                     |  | -   Van         |
-|          |                                                                                      |  | -   Chassis cab |
-|          |                                                                                      |  | -   Crew cab    |
-+----------+--------------------------------------------------------------------------------------+--+-----------------+
++----------+--+--+-----------------+
+| Corsavan |  |  | -   Van         |
++----------+--+--+-----------------+
+| Combo    |  |  | -   Van         |
++----------+--+--+-----------------+
+| Vivaro   |  |  | -   Van         |
++----------+--+--+-----------------+
+| Movano   |  |  | -   Van         |
+|          |  |  | -   Chassis cab |
+|          |  |  | -   Crew cab    |
++----------+--+--+-----------------+
 
 OPC models
 
 Opel produces high-performance derivatives of their cars developed by OPC.
 
-+-----------+-------------------------------------------------------------+--+---------------+
-| Astra OPC | 2012_Opel_Astra_(AS)_OPC_3-door_hatchback_(15922355098).jpg |  | -   Hatchback |
-+-----------+-------------------------------------------------------------+--+---------------+
-| Corsa OPC |                                                             |  | -   Hatchback |
-+-----------+-------------------------------------------------------------+--+---------------+
++-----------+--+--+---------------+
+| Astra OPC |  |  | -   Hatchback |
++-----------+--+--+---------------+
+| Corsa OPC |  |  | -   Hatchback |
++-----------+--+--+---------------+
 
 
 Discontinued models
 
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| System Lutzmann | Lutzmann_Motorcar.jpg                                                                                                   | 1899–1902 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Darracq         | 1902_Opel_Darracq.jpg                                                                                                   | 1902–1907 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Doktorwagen     | Opel_4_8_PS_Doktorwagen_1910.jpg                                                                                        | 1909–1910 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Laubfrosch      | Opel_laubfrosch.jpg                                                                                                     | 1924–1931 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Olympia         | 1936_Opel_Olympia.JPG                                                                                                   | 1935–1970 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Kadett          | Opel-kadett-1936.jpg                                                                                                    | 1937–1940 |
-|                 |                                                                                                                         | 1962–1991 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Kapitän         | 1939_Opel_Kapitän,_Owner_Arild_Nilssen_who,_as_his_lady_companion_wear_matching_attire_cropped_to_highlight_the_car.jpg | 1939–1970 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Olympia Rekord  | Opel_Olympia_Rekord_sharkmouth_ca_1954.jpg                                                                              | 1953–1957 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Rekord          | Opel_Rekord_A6_f.JPG                                                                                                    | 1953–1986 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Commodore       | MHV_Opel_Commodore_A_Coupé_01.jpg                                                                                       | 1967–1982 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| GT              | Opel_GT_2012-09-01_14-23-06.JPG                                                                                         | 1968–1973 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Ascona          | Ascona_B_rechts.jpg                                                                                                     | 1970–1988 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Manta           | Opel_Manta_01b_Foto_MSp_2006-10-13.jpg                                                                                  | 1970–1988 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Senator         | Opel_Senator_CD.jpg                                                                                                     | 1978–1993 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Omega           | Opel_Omega_Kombi_front_20080118.jpg                                                                                     | 1986–2003 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Vectra          | Opel_Vectra_I_front_20080328.jpg                                                                                        | 1988–2009 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Calibra         | Opel_Calibra_front_20071212.jpg                                                                                         | 1989–1997 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Agila           | Opel_Agila_B_front.JPG                                                                                                  | 2000-2014 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Signum          | Opel_Signum_front_20090919.jpg                                                                                          | 2003–2008 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
-| Meriva          | Meriva_B_Facelift_Front.jpg                                                                                             | 2003–2017 |
-+-----------------+-------------------------------------------------------------------------------------------------------------------------+-----------+
++-----------------+--+-----------+
+| System Lutzmann |  | 1899–1902 |
++-----------------+--+-----------+
+| Darracq         |  | 1902–1907 |
++-----------------+--+-----------+
+| Doktorwagen     |  | 1909–1910 |
++-----------------+--+-----------+
+| Laubfrosch      |  | 1924–1931 |
++-----------------+--+-----------+
+| Olympia         |  | 1935–1970 |
++-----------------+--+-----------+
+| Kadett          |  | 1937–1940 |
+|                 |  | 1962–1991 |
++-----------------+--+-----------+
+| Kapitän         |  | 1939–1970 |
++-----------------+--+-----------+
+| Olympia Rekord  |  | 1953–1957 |
++-----------------+--+-----------+
+| Rekord          |  | 1953–1986 |
++-----------------+--+-----------+
+| Commodore       |  | 1967–1982 |
++-----------------+--+-----------+
+| GT              |  | 1968–1973 |
++-----------------+--+-----------+
+| Ascona          |  | 1970–1988 |
++-----------------+--+-----------+
+| Manta           |  | 1970–1988 |
++-----------------+--+-----------+
+| Senator         |  | 1978–1993 |
++-----------------+--+-----------+
+| Omega           |  | 1986–2003 |
++-----------------+--+-----------+
+| Vectra          |  | 1988–2009 |
++-----------------+--+-----------+
+| Calibra         |  | 1989–1997 |
++-----------------+--+-----------+
+| Agila           |  | 2000-2014 |
++-----------------+--+-----------+
+| Signum          |  | 2003–2008 |
++-----------------+--+-----------+
+| Meriva          |  | 2003–2017 |
++-----------------+--+-----------+
 
 
 Motorsports
 
-2013-03-05_Geneva_Motor_Show_8022.JPG]] 2005_DTM_Zandvoort_(17185339802).jpg of Phoenix Racing at Circuit Park Zandvoort in 2005]] Opel Rally Team took part in World Rally Championship in the early 1980s with the Opel Ascona 400 and the Opel Manta 400, developed in conjunction with Irmscher and Cosworth. Walter Röhrl won the 1982 World Rally Championship drivers' title, and the 1983 Safari Rally was won by Ari Vatanen.
+]] of Phoenix Racing at Circuit Park Zandvoort in 2005]] Opel Rally Team took part in World Rally Championship in the early 1980s with the Opel Ascona 400 and the Opel Manta 400, developed in conjunction with Irmscher and Cosworth. Walter Röhrl won the 1982 World Rally Championship drivers' title, and the 1983 Safari Rally was won by Ari Vatanen.
 
 In the late 1990s, Opel took part in the International Touring Car Championship, and won the 1996 Championship with the Calibra. Opel took part in the German DTM race series between 2000 and 2005 with the Astra, and despite winning several races, it never won the DTM championship.
 

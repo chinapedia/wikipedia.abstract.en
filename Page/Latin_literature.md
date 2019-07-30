@@ -11,8 +11,6 @@ Formal Latin literature began in 240 BC, when a Roman audience saw a Latin versi
 
 Other epic poets followed Naevius. Quintus Ennius wrote a historical epic, the _Annals_ (soon after 200 BC), describing Roman history from the founding of Rome to his own time. He adopted Greek dactylic hexameter, which became the standard verse form for Roman epics. He also became famous for his tragic dramas. In this field, his most distinguished successors were Marcus Pacuvius and Lucius Accius. These three writers rarely used episodes from Roman history. Instead, they wrote Latin versions of tragic themes that the Greeks had already handled. But even when they copied the Greeks, they did not translate slavishly. Only fragments of their plays have survived.
 
-Marco_Porcio_Caton_Major.jpg
-
 Considerably more is known about early Latin comedy, as 26 Early Latin comedies are extant – 20 of which Plautus wrote, and the remaining six of which Terence wrote.[2] These men modeled their comedies on Greek plays known as New Comedy. But they treated the plots and wording of the originals freely. Plautus scattered songs through his plays and increased the humor with puns and wisecracks, plus comic actions by the actors. Terence's plays were more polite in tone, dealing with domestic situations. His works provided the chief inspiration for French and English comedies of the 17th century AD, and even for modern American comedy.
 
 The prose of the period is best known through _On Agriculture_ (160 BC) by Cato the Elder. Cato also wrote the first Latin history of Rome and of other Italian cities.[3] He was the first Roman statesman to put his political speeches in writing as a means of influencing public opinion.
@@ -25,11 +23,7 @@ Traditionally, the height of Latin literature has been assigned to the period fr
 
 The age of Cicero
 
-Young_Folks'_History_of_Rome_illus148.png
-
 Cicero has traditionally been considered the master of Latin prose.[5][6] The writing he produced from about 80 BC until his death in 43 BC exceeds that of any Latin author whose work survives in terms of quantity and variety of genre and subject matter, as well as possessing unsurpassed stylistic excellence. Cicero's many works can be divided into four groups: (1) letters, (2) rhetorical treatises, (3) philosophical works, and (4) orations. His letters provide detailed information about an important period in Roman history and offer a vivid picture of the public and private life among the Roman governing class. Cicero's works on oratory are our most valuable Latin sources for ancient theories on education and rhetoric. His philosophical works were the basis of moral philosophy during the Middle Ages. His speeches inspired many European political leaders and the founders of the United States.
-
-M-T-Cicero.jpg
 
 Julius Caesar and Sallust were outstanding historical writers of Cicero's time. Caesar wrote commentaries on the Gallic and civil wars in a straightforward style to justify his actions as a general. Sallust adopted an abrupt, pointed style in his historical works. He wrote brilliant descriptions of people and their motives.
 
@@ -38,8 +32,6 @@ The birth of lyric poetry in Latin occurred during the same period. The short lo
 One of the most learned writers of the period was Marcus Terentius Varro. Called "the most learned of the Romans" by Quintillian,[7] he wrote about a remarkable variety of subjects, from religion to poetry. But only his writings on agriculture and the Latin language are extant in their complete form.
 
 The Augustan Age
-
-Virgilio.png
 
 The emperor Augustus took a personal interest in the literary works produced during his years of power from 27 BC to AD 14. This period is sometimes called the Augustan Age of Latin Literature. Virgil published his pastoral _Eclogues_, the _Georgics_, and the _Aeneid_, an epic poem describing the events that led to the creation of Rome. Virgil told how the Trojan hero Aeneas became the ancestor of the Roman people. Virgil also provided divine justification for Roman rule over the world. Although Virgil died before he could put the finishing touches on his poem, it was soon recognized as the greatest work of Latin literature.[8][9]
 

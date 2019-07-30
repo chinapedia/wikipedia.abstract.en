@@ -24,7 +24,7 @@ High-speed networks in college dormitories became overloaded, with as much as 61
 
 Macintosh version
 
-Napster_running_on_an_original_iBook_(2001-03-11).png The service and software program began as Windows-only. However, in 2000, Black Hole Media wrote a Macintosh client called Macster. Macster was later bought by Napster and designated the official Mac Napster client ("Napster for the Mac"), at which point the Macster name was discontinued.[8] Even before the acquisition of Macster, the Macintosh community had a variety of independently-developed Napster clients. The most notable was the open source client called MacStar, released by Squirrel Software in early 2000 and Rapster, released by Overcaster Family in Brazil.[9] The release of MacStar's source code paved the way for third-party Napster clients across all computing platforms, giving users advertisement-free music distribution options.
+The service and software program began as Windows-only. However, in 2000, Black Hole Media wrote a Macintosh client called Macster. Macster was later bought by Napster and designated the official Mac Napster client ("Napster for the Mac"), at which point the Macster name was discontinued.[8] Even before the acquisition of Macster, the Macintosh community had a variety of independently-developed Napster clients. The most notable was the open source client called MacStar, released by Squirrel Software in early 2000 and Rapster, released by Overcaster Family in Brazil.[9] The release of MacStar's source code paved the way for third-party Napster clients across all computing platforms, giving users advertisement-free music distribution options.
 
 Legal challenges
 
@@ -39,8 +39,6 @@ In 2000, the American musical recording company A&M Records along with several o
 Napster lost the case in the District Court but then appealed to the U.S. Court of Appeals for the Ninth Circuit. Although it was clear that Napster could have commercially significant non-infringing uses, the Ninth Circuit upheld the District Court's decision. Immediately after, the District Court commanded Napster to keep track of the activities of its network and to restrict access to infringing material when informed of that material's location. Napster wasn't able to comply and thus had to close down its service in July 2001. In 2002, Napster announced that it was bankrupt and sold its assets to a third party.[14]
 
 Promotional power
-
-Napster_Unique_Users.svg
 
 Along with the accusations that Napster was hurting the sales of the record industry, there were those who felt just the opposite, that file trading on Napster stimulated, rather than hurt, sales. Some evidence may have come in July 2000 when tracks from English rock band Radiohead's album _Kid A_ found their way to Napster three months before the album's release. Unlike Madonna, Dr. Dre or Metallica, Radiohead had never hit the top 20 in the US. Furthermore, _Kid A_ was an album without any singles released, and received relatively little radio airplay. By the time of the album's release, the album was estimated to have been downloaded for free by millions of people worldwide, and in October 2000 _Kid A_ captured the number one spot on the _Billboard_ 200 sales chart in its debut week. According to Richard Menta of MP3 Newswire,[15] the effect of Napster in this instance was isolated from other elements that could be credited for driving sales, and the album's unexpected success suggested that Napster was a good promotional tool for music.
 

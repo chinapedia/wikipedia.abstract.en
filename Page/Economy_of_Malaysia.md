@@ -166,7 +166,7 @@ On September 2010, in an interview with CNBC, Dato' Seri Najib Tun Razak, who is
 
 Natural resources
 
-Oilpalm_malaysia.jpg Malaysia is well-endowed with natural resources in areas such as agriculture, forestry and minerals. It is an exporter of natural and agricultural resources, the most valuable exported resource being petroleum.[51] In the agricultural sector, Malaysia is one of the top exporters of natural rubber and palm oil, which together with timber and timber products, cocoa, pepper, pineapple and tobacco dominate the growth of the sector.[52] As of 2011, the percentage arable land in Malaysia is 5.44%. Croplands consists of 17.49% while other land uses consists of 77.07%.[53] As of 2009, irrigated land covers 3,800 km². Total renewable water resources make up 580 cubic km as of 2011.
+Malaysia is well-endowed with natural resources in areas such as agriculture, forestry and minerals. It is an exporter of natural and agricultural resources, the most valuable exported resource being petroleum.[51] In the agricultural sector, Malaysia is one of the top exporters of natural rubber and palm oil, which together with timber and timber products, cocoa, pepper, pineapple and tobacco dominate the growth of the sector.[52] As of 2011, the percentage arable land in Malaysia is 5.44%. Croplands consists of 17.49% while other land uses consists of 77.07%.[53] As of 2009, irrigated land covers 3,800 km². Total renewable water resources make up 580 cubic km as of 2011.
 
 Tin and petroleum are the two main mineral resources that are of major significance in the Malaysian economy. Malaysia was once the world's largest producer of tin until the collapse of the tin market in the early 1980s.[54] In the 19th and 20th century, tin played a predominant role in the Malaysian economy, with Malaysia accounting for over 31% of global output. It was only in 1972 that petroleum and natural gas took over from tin as the mainstay of the mineral extraction sector. Other minerals of some importance or significance include copper, bauxite, iron-ore and coal together with industrial minerals like clay, kaolin, silica, limestone, barite, phosphates and dimension stones such as granite as well as marble blocks and slabs. Small quantities of gold are produced.[55]
 
@@ -201,8 +201,6 @@ The Malaysian government also imposes government taxes such as the Sales and Ser
 
 External trade
 
-2014_Malaysia_Countries_Export_Treemap.png
-
 In 2013, Malaysia's total external trade totalled US$424 billion, made up of US$230.7 billion of exports and US$192.9 billion of imports, making Malaysia the world's 21st largest exporter and the world's 25th largest importer.
 
 Malaysia's largest trading partner is China. Malaysia has been China's top trading partner within ASEAN for five years in a row since 2008. The two-way trade volume between China and Malaysia in 2013 reached $106 billion, making Malaysia China's third-largest trade partner in Asia, just behind Japan and South Korea and eighth largest overall.[69] On 31 May 2014, during Najib Razak's visit to China where he was welcomed by China's Premier Li Keqiang, China and Malaysia pledged to increase bilateral trade to US$160 billion by 2017. They also agreed to upgrade economic and financial co-operation, especially in the production of halal food, water processing and railway construction.[70]
@@ -216,7 +214,7 @@ Malaysia is an important trading partner for the United States. In 1999, two-way
 
 Agriculture sector
 
-Rubbertrees_malaysia.jpg Agriculture is now a minor sector of the Malaysian economy, accounting for 7.1% of Malaysia's GDP in 2014 and employing 11.1% of Malaysia's labour force, contrasting with the 1960s when agriculture accounted for 37% of Malaysia's GDP and employed 66.2% of the labour force. The crops grown by the agricultural sector has also significantly shifted from food crops like paddy and coconut to industrial crops like palm oil and rubber, which in 2005 contributed to 83.7% of total agricultural land use, compared to 68.5% in 1960.[74]
+Agriculture is now a minor sector of the Malaysian economy, accounting for 7.1% of Malaysia's GDP in 2014 and employing 11.1% of Malaysia's labour force, contrasting with the 1960s when agriculture accounted for 37% of Malaysia's GDP and employed 66.2% of the labour force. The crops grown by the agricultural sector has also significantly shifted from food crops like paddy and coconut to industrial crops like palm oil and rubber, which in 2005 contributed to 83.7% of total agricultural land use, compared to 68.5% in 1960.[74]
 
 Despite its minor contribution to Malaysia's GDP, Malaysia has a significant foothold in the world's agricultural sector, being the world's second largest producer of palm oil in 2012[75] producing 18.79 million tonnes of crude palm oil on roughly of land.[76][77] Though Indonesia produces more palm oil, Malaysia is the world's largest exporter of palm oil having exported 18 million tonnes of palm oil products in 2011.[78]
 
@@ -241,13 +239,13 @@ Malaysia is a major hub for electrical component manufacturing, with factories o
 
 Photovoltaics
 
-Malaysia is a major hub for solar equipment manufacturing, with factories of companies like First Solar, Panasonic, TS Solartech, Jinko Solar, JA Solar, SunPower, Hanwha Q Cells, and SunEdison in locations like Kulim, Penang, Malacca, Cyberjaya and Ipoh.[82][83]FirstSolarKulim.jpg's factory in Kulim]] In 2013, Malaysia's total production capacity for solar wafers, solar cells and solar panels totalled 4,042 MW.[84] By 2014, Malaysia was the world's third largest manufacturer of photovoltaics equipment, behind China and the European Union.[85]
+Malaysia is a major hub for solar equipment manufacturing, with factories of companies like First Solar, Panasonic, TS Solartech, Jinko Solar, JA Solar, SunPower, Hanwha Q Cells, and SunEdison in locations like Kulim, Penang, Malacca, Cyberjaya and Ipoh.[82][83]'s factory in Kulim]] In 2013, Malaysia's total production capacity for solar wafers, solar cells and solar panels totalled 4,042 MW.[84] By 2014, Malaysia was the world's third largest manufacturer of photovoltaics equipment, behind China and the European Union.[85]
 
 Many international companies have the majority of production capacity located in Malaysia, such as the American company First Solar which has over 2,000 MW of production capacity located in Kulim and only 280 MW located in Ohio,[86] and formerly German-based Hanwha Q Cells which produces 1,100 MW worth of solar cells in Cyberjaya while producing only 200 MW worth of solar cells in Germany. SunPower's largest manufacturing facility with a capacity of 1,400 MW is also located in Malacca.[87][88]
 
 Automotive
 
-2013_Proton_Prevé_Premium_(Test_Drive_Car)_in_Glenmarie,_Malaysia.jpg, a car made by Malaysian car company Proton.]]
+, a car made by Malaysian car company Proton.]]
 
 The automotive industry in Malaysia consists of 27 vehicle producers and over 640 component manufacturers.[89] The Malaysian automotive industry is the third largest in Southeast Asia, and the 23rd largest in the world, with an annual production output of over 500,000 vehicles.[90] The automotive industry contributes 4% or RM 40 billion to Malaysia's GDP, and employs a workforce of over 700,000 throughout a nationwide ecosystem.[91]
 
@@ -255,7 +253,7 @@ The Malaysian automotive industry is Southeast Asia's sole pioneer of indigenous
 
 Construction
 
-Penang_Bridge_in_extension.jpg]] Malaysia has a large construction industry of over RM102.2 billion (US$32 billion). The highest percentage share was contributed by construction of non-residential buildings which recorded 34.6 per cent. This was followed by civil engineering sub-sector (30.6%), residential buildings (29.7%), and special trades (5.1%).[93]
+]] Malaysia has a large construction industry of over RM102.2 billion (US$32 billion). The highest percentage share was contributed by construction of non-residential buildings which recorded 34.6 per cent. This was followed by civil engineering sub-sector (30.6%), residential buildings (29.7%), and special trades (5.1%).[93]
 
 Selangor recorded the highest value of construction work done at 24.5% among the states, followed by Johor at 16.5%, Kuala Lumpur at 15.8%, Sarawak at 8.6% and Penang at 6.4%. The contribution of these five states accounted for 71.8% of the total value of construction work in Malaysia.
 
@@ -263,7 +261,7 @@ The expansion of the construction industry has been catalysed by major capital e
 
 Defence
 
-Perak_F173.jpg warship, with another unit being built in the background]] Malaysia has a relatively new defence industry that was created after the government created the Malaysia Defence Industry Council to encourage local companies to participate in the country's defence sector in 1999.
+warship, with another unit being built in the background]] Malaysia has a relatively new defence industry that was created after the government created the Malaysia Defence Industry Council to encourage local companies to participate in the country's defence sector in 1999.
 
 The land sector of the defence industry is dominated by DefTech, a subsidiary of Malaysia's largest automotive manufacturer, DRB-HICOM. The company focuses on manufacturing armoured vehicles and specialised logistics vehicles. The company has supplied ACV-15 infantry fighting vehicles to the Malaysian Army in the past and is currently supplying the DefTech AV8 amphibious multirole armoured vehicle to the Malaysian Army.
 
@@ -274,7 +272,7 @@ Services sector
 
 Finance and banking
 
-Maybank_Tower_Kuala_Lumpur.jpg, Malaysia's largest bank]] Kuala Lumpur has a large financial sector, and is ranked the 22nd in the world in the Global Financial Centres Index.[95] There are currently 27 commercial banks (8 domestic and 19 foreign), 16 Islamic banks (10 domestic and 6 foreign), 15 investment banks (all domestic) and 2 other financial institutions (both domestic) operating in Malaysia.
+, Malaysia's largest bank]] Kuala Lumpur has a large financial sector, and is ranked the 22nd in the world in the Global Financial Centres Index.[95] There are currently 27 commercial banks (8 domestic and 19 foreign), 16 Islamic banks (10 domestic and 6 foreign), 15 investment banks (all domestic) and 2 other financial institutions (both domestic) operating in Malaysia.
 
 Commercial banks are the largest and most significant providers of funds in the banking system. The biggest banks in Malaysia's finance sector are Maybank, CIMB, Public Bank Berhad, RHB Bank and AmBank.
 
@@ -286,7 +284,7 @@ The Malaysian government is planning to transform the country's capital Kuala Lu
 
 Tourism
 
-SouthBeach_Curve.JPG]] Tourism is a huge sector of the Malaysian economy, with over 57.1 million domestic tourists generating RM37.4 billion (US$11 billion) in tourist receipts in 2014,[104] and attracting 27,437,315 international tourist arrivals,[105] a growth of 6.7% compared to 2013. Total international tourist receipts increased by 3.9% to RM60.6 billion (US$19 billion) in 2014.[106]
+]] Tourism is a huge sector of the Malaysian economy, with over 57.1 million domestic tourists generating RM37.4 billion (US$11 billion) in tourist receipts in 2014,[104] and attracting 27,437,315 international tourist arrivals,[105] a growth of 6.7% compared to 2013. Total international tourist receipts increased by 3.9% to RM60.6 billion (US$19 billion) in 2014.[106]
 
 United Nations World Tourism Organisation (UNWTO) listed Malaysia as the 10th most visited country in 2012.[107]
 
@@ -296,7 +294,7 @@ Malaysia's top tourist destinations are the Mulu Caves, Perhentian Islands, Lang
 
 Medical tourism
 
-Tuaran_Sabah_Malaysia_Tuaran-Hospital-06.jpg]] Medical tourism is a significant sector of Malaysia's economy, with an estimated 1 million travelling to Malaysia specifically for medical treatments alone in 2014, contributing around US$200 million (about RM697 mil) in revenue to the economy.[110]
+]] Medical tourism is a significant sector of Malaysia's economy, with an estimated 1 million travelling to Malaysia specifically for medical treatments alone in 2014, contributing around US$200 million (about RM697 mil) in revenue to the economy.[110]
 
 Malaysia is reputed as one of the most preferred medical tourism destinations with modern private healthcare facilities and highly efficient medical professionals.[111] In 2014, Malaysia was ranked the world's best destination for medical tourism by the Nomad Capitalist.[112] Malaysia was also included in the top 10 medical tourism destinations list by CNBC.[113]
 
@@ -306,7 +304,7 @@ The Malaysian government targets to hit RM 9.6 billion (US$3.2 billion) in reven
 
 Oil and gas
 
-E8664-Pattaya-Sukhumvit-Road.jpg petrol station in Thailand]] Malaysia has a vibrant oil and gas industry. The national oil company, Petronas is ranked the 69th biggest company in the world in the Fortune 500 list in 2014, with a revenue of over US100.7 billion and total assets of over US$169 billion. Petronas provides around 30% of the Malaysian government's revenue, although the government has been actively cutting down on its reliance of petroleum, with a target of 20%.[116]
+petrol station in Thailand]] Malaysia has a vibrant oil and gas industry. The national oil company, Petronas is ranked the 69th biggest company in the world in the Fortune 500 list in 2014, with a revenue of over US100.7 billion and total assets of over US$169 billion. Petronas provides around 30% of the Malaysian government's revenue, although the government has been actively cutting down on its reliance of petroleum, with a target of 20%.[116]
 
 Petronas is also the custodian of oil and gas reserves for Malaysia. Hence, all oil and gas activities are regulated by Petronas. Malaysia encourages foreign oil company participation through production sharing contracts, in which significant amount of oil will be given away to the foreign oil company until it reaches a production milestone. Currently, many major oil companies such as ExxonMobil, Royal Dutch Shell, Nippon Oil, and Murphy Oil are involved in such contracts.[117] As a result, 40% of oil fields in Malaysia are developed.[118]
 
@@ -319,7 +317,7 @@ The infrastructure of Malaysia is one of the most developed in Asia.[119] Its te
 
 Energy
 
-BakunDam.jpg under construction in 2009]] Malaysia's energy infrastructure sector is largely dominated by Tenaga Nasional, the largest electric utility company in Southeast Asia, with over RM99.03 billion of assets. Customers are connected to electricity through the National Grid, with more than 420 transmission substations in the Peninsular linked together by approximately 11,000 km[125] of transmission lines operating at 132, 275 and 500 kilovolts.
+under construction in 2009]] Malaysia's energy infrastructure sector is largely dominated by Tenaga Nasional, the largest electric utility company in Southeast Asia, with over RM99.03 billion of assets. Customers are connected to electricity through the National Grid, with more than 420 transmission substations in the Peninsular linked together by approximately 11,000 km[125] of transmission lines operating at 132, 275 and 500 kilovolts.
 
 In 2013, Malaysia's total power generation capacity was over 29,728 megawatts. Total electricity generation was 140,985.01 GWh and total electricity consumption was 116,087.51 GWh.[126]
 
@@ -329,7 +327,7 @@ Transport network
 
 Road network
 
-NorthSouth-Expressway.jpg, the longest highway in Malaysia]] Malaysia's road network is one of the most comprehensive in Asia and covers a total of .
+, the longest highway in Malaysia]] Malaysia's road network is one of the most comprehensive in Asia and covers a total of .
 
 The main national road network is the Malaysian Federal Roads System, which span over . Most of the federal roads in Malaysia are 2-lane roads. In town areas, federal roads may become 4-lane roads to increase traffic capacity. Nearly all federal roads are paved with tarmac except parts of the Skudai–Pontian Highway which is paved with concrete, while parts of the Federal Highway linking Klang to Kuala Lumpur, is paved with asphalt.
 
@@ -337,7 +335,7 @@ Malaysia has over of highways and the longest highway, the North–South Express
 
 Rail network
 
-Ktmb_class_91_and_class_92_ipoh_station.jpg (left) and KTM Komuter Class 92 (right) at Ipoh railway station]] There are currently of railways in Malaysia, are double tracked and electrified.
+(left) and KTM Komuter Class 92 (right) at Ipoh railway station]] There are currently of railways in Malaysia, are double tracked and electrified.
 
 Rail transport in Malaysia comprises heavy rail (KTM), light rapid transit and monorail (Rapid Rail), and a funicular railway line (Penang Hill Railway). Heavy rail is mostly used for intercity passenger and freight transport as well as some urban public transport, while LRTs are used for intra-city urban public transport. There two commuter rail services linking Kuala Lumpur with the Kuala Lumpur International Airport. The sole monorail line in the country is also used for public transport in Kuala Lumpur, while the only funicular railway line is in Penang. A rapid transit project, the KVMRT, is currently under construction to improve Kuala Lumpur's public transport system.
 
@@ -345,7 +343,7 @@ The railway network covers most of the 11 states in Peninsular Malaysia. In East
 
 Air network
 
-KLIA_MTB&Tower.jpg]] Malaysia has 118 airports, of which 38 are paved. The national airline is Malaysia Airlines, providing international and domestic air services. Major international routes and domestic routes crossing between West Malaysia and East Malaysia are served by Malaysia Airlines, AirAsia and Malindo Air while smaller domestic routes are supplemented by smaller airlines like MASwings, Firefly and Berjaya Air. Major cargo airlines include MASkargo and Transmile Air Services.
+]] Malaysia has 118 airports, of which 38 are paved. The national airline is Malaysia Airlines, providing international and domestic air services. Major international routes and domestic routes crossing between West Malaysia and East Malaysia are served by Malaysia Airlines, AirAsia and Malindo Air while smaller domestic routes are supplemented by smaller airlines like MASwings, Firefly and Berjaya Air. Major cargo airlines include MASkargo and Transmile Air Services.
 
 Kuala Lumpur International Airport is the main and busiest airport of Malaysia. In 2014, it was the world's 13th busiest airport by international passenger traffic, recording over 25.4 million international passenger traffic. It was also the world's 20th busiest airport by passenger traffic, recording over 48.9 million passengers.
 
@@ -353,7 +351,7 @@ Other major airports include Kota Kinabalu International Airport, which is also 
 
 Sea network
 
-Northport_Malaysia_Wharve.JPG]] Malaysia is strategically located on the Strait of Malacca, one of the most important shipping lanes in the world.
+]] Malaysia is strategically located on the Strait of Malacca, one of the most important shipping lanes in the world.
 
 Malaysia has two ports that are listed in the top 20 busiest ports in the world, Port Klang and Port of Tanjung Pelepas, which are respectively the 2nd and 3rd busiest ports in Southeast Asia after the Port of Singapore.
 

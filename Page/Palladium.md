@@ -37,11 +37,11 @@ Compounds
 
 Palladium compounds primarily exist in the 0 and +2 oxidation state. Other less common states are also recognized. Generally the compounds of palladium are more similar to those of platinum than those of any other element.
 
-+------------------------------------------------+---------------------------------------------+
-| Alpha-palladium(II)-chloride-xtal-3D-balls.png | Pd6Cl12-from-xtal-1996-CM-3D-ellipsoids.png |
-+------------------------------------------------+---------------------------------------------+
-| Structure of _α_-PdCl₂                         | Structure of _β_-PdCl₂                      |
-+------------------------------------------------+---------------------------------------------+
++------------------------+------------------------+
+|                        |                        |
++------------------------+------------------------+
+| Structure of _α_-PdCl₂ | Structure of _β_-PdCl₂ |
++------------------------+------------------------+
 
 Palladium(II)
 
@@ -51,7 +51,7 @@ Palladium(II) chloride is the principal starting material for other palladium co
 
 The complex bis(triphenylphosphine)palladium(II) dichloride is a useful catalyst.[14]
 
-Palladium(II)_acetate.jpg]]
+]]
 
 Palladium(0)
 
@@ -72,7 +72,7 @@ Mixed valence palladium complexes exist, e.g. Pd₄(CO)₄(OAc)₄Pd(acac)₂ fo
 
 History
 
-Wollaston_William_Hyde_Jackson_color.jpg]] William Hyde Wollaston noted the discovery of a new noble metal in July 1802 in his lab book and named it palladium in August of the same year. Wollaston purified a quantity of the material and offered it, without naming the discoverer, in a small shop in Soho in April 1803. After harsh criticism from Richard Chenevix that palladium is an alloy of platinum and mercury, Wollaston anonymously offered a reward of £20 for 20 grains of synthetic palladium _alloy_.[24] Chenevix received the Copley Medal in 1803 after he published his experiments on palladium. Wollaston published the discovery of rhodium in 1804 and mentions some of his work on palladium.[25][26] He disclosed that he was the discoverer of palladium in a publication in 1805.[27][28]
+]] William Hyde Wollaston noted the discovery of a new noble metal in July 1802 in his lab book and named it palladium in August of the same year. Wollaston purified a quantity of the material and offered it, without naming the discoverer, in a small shop in Soho in April 1803. After harsh criticism from Richard Chenevix that palladium is an alloy of platinum and mercury, Wollaston anonymously offered a reward of £20 for 20 grains of synthetic palladium _alloy_.[24] Chenevix received the Copley Medal in 1803 after he published his experiments on palladium. Wollaston published the discovery of rhodium in 1804 and mentions some of his work on palladium.[25][26] He disclosed that he was the discoverer of palladium in a publication in 1805.[27][28]
 
 It was named by Wollaston in 1802 after the asteroid 2 Pallas, which had been discovered two months earlier.[29] Wollaston found palladium in crude platinum ore from South America by dissolving the ore in aqua regia, neutralizing the solution with sodium hydroxide, and precipitating platinum as ammonium chloroplatinate with ammonium chloride. He added mercuric cyanide to form the compound palladium(II) cyanide, which was heated to extract palladium metal.[30]
 
@@ -85,7 +85,7 @@ World demand for palladium increased from 100 tons in 1990 to nearly 300 tons i
 
 Occurrence
 
-2005palladium_(mined).PNG As overall mine production of palladium reached 208,000 kilograms in 2016, Russia was the top producer with 82,000 kilograms, followed by South Africa, Canada and the U.S.[41] Russia's company Norilsk Nickel ranks first among the largest palladium producers globally, it accounts for 39% of the world’s production.[42]
+As overall mine production of palladium reached 208,000 kilograms in 2016, Russia was the top producer with 82,000 kilograms, followed by South Africa, Canada and the U.S.[41] Russia's company Norilsk Nickel ranks first among the largest palladium producers globally, it accounts for 39% of the world’s production.[42]
 
 Palladium can be found as a free metal alloyed with gold and other platinum-group metals in placer deposits of the Ural Mountains, Australia, Ethiopia, North and South America. For the production of palladium, these deposits play only a minor role. The most important commercial sources are nickel-copper deposits found in the Sudbury Basin, Ontario, and the Norilsk–Talnakh deposits in Siberia. The other large deposit is the Merensky Reef platinum group metals deposit within the Bushveld Igneous Complex South Africa. The Stillwater igneous complex of Montana and the Roby zone ore body of the Lac des Îles igneous complex of Ontario are the two other sources of palladium in Canada and the United States.[43][44] Palladium is found in the rare minerals cooperite[45] and polarite.[46] Many more Pd minerals are known, but all of them are very rare.[47]
 
@@ -94,7 +94,7 @@ Palladium is also produced in nuclear fission reactors and can be extracted from
 
 Applications
 
-Aufgeschnittener_Metall_Katalysator_für_ein_Auto.jpg]] 25_rubles_palladium_1989_Ivan_III.jpg is a rare example of the monetary usage of palladium.]] The largest use of palladium today is in catalytic converters.[49] Palladium is also used in jewelry, dentistry,[50][51] watch making, blood sugar test strips, aircraft spark plugs, surgical instruments, and electrical contacts.[52] Palladium is also used to make professional transverse (concert or classical) flutes.[53] As a commodity, palladium bullion has ISO currency codes of XPD and 964. Palladium is one of only four metals to have such codes, the others being gold, silver and platinum.[54] Because it absorbs hydrogen, palladium is a key component of the controversial cold fusion experiments that began in 1989.
+]] is a rare example of the monetary usage of palladium.]] The largest use of palladium today is in catalytic converters.[49] Palladium is also used in jewelry, dentistry,[50][51] watch making, blood sugar test strips, aircraft spark plugs, surgical instruments, and electrical contacts.[52] Palladium is also used to make professional transverse (concert or classical) flutes.[53] As a commodity, palladium bullion has ISO currency codes of XPD and 964. Palladium is one of only four metals to have such codes, the others being gold, silver and platinum.[54] Because it absorbs hydrogen, palladium is a key component of the controversial cold fusion experiments that began in 1989.
 
 Catalysis
 
@@ -112,7 +112,7 @@ When it is finely divided, as with palladium on carbon, palladium forms a versat
 
 When dispersed on conductive materials, palladium is an excellent electrocatalyst for oxidation of primary alcohols in alkaline media.[56] Palladium is also a versatile metal for homogeneous catalysis, used in combination with a broad variety of ligands for highly selective chemical transformations.
 
-In 2010, palladium-catalysed organic reactions were recognized by the Nobel Prize in Chemistry. A 2008 study showed that palladium is an effective catalyst for carbon-fluorine bonds.[57] Kumada_Catalytic_Cycle.png
+In 2010, palladium-catalysed organic reactions were recognized by the Nobel Prize in Chemistry. A 2008 study showed that palladium is an effective catalyst for carbon-fluorine bonds.[57]
 
 Palladium catalysis is primarily employed in organic chemistry and industrial applications, although its use is growing as a tool for synthetic biology; in 2017, effective _in vivo_ catalytic activity of palladium nanoparticles was demonstrated in mammals to treat disease.[58]
 

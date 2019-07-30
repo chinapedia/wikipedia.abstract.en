@@ -1,4 +1,4 @@
-North_Atlantic_currents.svg The NORTH ATLANTIC CURRENT (NAC), also known as NORTH ATLANTIC DRIFT and NORTH ATLANTIC SEA MOVEMENT, is a powerful warm western boundary current within the Atlantic Ocean that extends the Gulf Stream northeastward.[1]
+The NORTH ATLANTIC CURRENT (NAC), also known as NORTH ATLANTIC DRIFT and NORTH ATLANTIC SEA MOVEMENT, is a powerful warm western boundary current within the Atlantic Ocean that extends the Gulf Stream northeastward.[1]
 
 The NAC originates from where the Gulf Stream turns north at the Southeast Newfoundland Rise, a submarine ridge that stretches southeast from the Grand Banks. The NAC flows northward east of the Grand Banks, from 40°N to 51°N, before turning sharply east to cross the Atlantic. It transports more warm tropical water to northern latitudes than any other boundary current; more than 40 Sv in the south and 20 Sv as it crosses the Mid-Atlantic Ridge. It reaches speeds of 2 knots near the North American coast. Directed by topography, the NAC meanders heavily, but in contrast to the meanders of the Gulf Stream, the NAC meanders remain stable without breaking off into eddies.[2]
 

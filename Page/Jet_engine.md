@@ -1,4 +1,4 @@
-F100_F-15_engine.JPG turbofan engine for the F-15 Eagle being tested in the hush house at Florida Air National Guard base. The tunnel behind the engine muffles noise and allows exhaust to escape.]] Airstrikes_in_Syria_140923-F-UL677-654.jpgs]] Jet_engine_simulation.jpg 20140308-Jet_engine_airflow_during_take-off.jpg Airbus A319)]]
+turbofan engine for the F-15 Eagle being tested in the hush house at Florida Air National Guard base. The tunnel behind the engine muffles noise and allows exhaust to escape.]] s]] Airbus A319)]]
 
 A JET ENGINE is a type of reaction engine discharging a fast-moving jet that generates thrust by jet propulsion. This broad definition includes airbreathing jet engines (turbojets, turbofans, ramjets, and pulse jets). In general, jet engines are combustion engines.
 
@@ -13,7 +13,7 @@ Jet engines date back to the invention of the aeolipile before the first century
 
 Jet propulsion only gained practical applications with the invention of the gunpowder-powered rocket by the Chinese in the 13th century as a type of firework, and gradually progressed to propel formidable weaponry. Jet propulsion technology then stalled for hundreds of years.
 
-The earliest attempts at airbreathing jet engines were hybrid designs in which an external power source first compressed air, which was then mixed with fuel and burned for jet thrust. The Caproni Campini N.1, and the Japanese Tsu-11 engine intended to power Ohka kamikaze planes towards the end of World War II were unsuccessful. Albert_Fono's_ramjet-cannonball_in_1915-hu.svg's ramjet-cannonball from 1915]]
+The earliest attempts at airbreathing jet engines were hybrid designs in which an external power source first compressed air, which was then mixed with fuel and burned for jet thrust. The Caproni Campini N.1, and the Japanese Tsu-11 engine intended to power Ohka kamikaze planes towards the end of World War II were unsuccessful. 's ramjet-cannonball from 1915]]
 
 Even before the start of World War II, engineers were beginning to realize that engines driving propellers were approaching limits due to issues related to propeller efficiency,[2] which declined as blade tips approached the speed of sound. If aircraft performance were to increase beyond such a barrier, a different propulsion mechanism was necessary. This was the motivation behind the development of the gas turbine engine, the commonest form of jet engine.
 
@@ -21,13 +21,13 @@ The key to a practical jet engine was the gas turbine, extracting power from the
 
 The first patent for using a gas turbine to power an aircraft was filed in 1921 by Maxime Guillaume.[4] His engine was an axial-flow turbojet, but was never constructed, as it would have required considerable advances over the state of the art in compressors. Alan Arnold Griffith published _An Aerodynamic Theory of Turbine Design_ in 1926 leading to experimental work at the RAE.
 
-Whittle_Jet_Engine_W2-700.JPG/700 engine flew in the Gloster E.28/39, the first British aircraft to fly with a turbojet engine, and the Gloster Meteor]] In 1928, RAF College Cranwell cadet Frank Whittle formally submitted his ideas for a turbojet to his superiors.[5] In October 1929 he developed his ideas further.[6] On 16 January 1930 in England, Whittle submitted his first patent (granted in 1932).[7] The patent showed a two-stage axial compressor feeding a single-sided centrifugal compressor. Practical axial compressors were made possible by ideas from A.A.Griffith in a seminal paper in 1926 ("An Aerodynamic Theory of Turbine Design"). Whittle would later concentrate on the simpler centrifugal compressor only. Whittle was unable to interest the government in his invention, and development continued at a slow pace.
+/700 engine flew in the Gloster E.28/39, the first British aircraft to fly with a turbojet engine, and the Gloster Meteor]] In 1928, RAF College Cranwell cadet Frank Whittle formally submitted his ideas for a turbojet to his superiors.[5] In October 1929 he developed his ideas further.[6] On 16 January 1930 in England, Whittle submitted his first patent (granted in 1932).[7] The patent showed a two-stage axial compressor feeding a single-sided centrifugal compressor. Practical axial compressors were made possible by ideas from A.A.Griffith in a seminal paper in 1926 ("An Aerodynamic Theory of Turbine Design"). Whittle would later concentrate on the simpler centrifugal compressor only. Whittle was unable to interest the government in his invention, and development continued at a slow pace.
 
-Ohain_USAF_He_178_page61.jpg, the world's first aircraft to fly purely on turbojet power]] In 1935 Hans von Ohain started work on a similar design in Germany, both compressor and turbine being radial, on opposite sides of same disc, initially unaware of Whittle's work.[8] Von Ohain's first device was strictly experimental and could run only under external power, but he was able to demonstrate the basic concept. Ohain was then introduced to Ernst Heinkel, one of the larger aircraft industrialists of the day, who immediately saw the promise of the design. Heinkel had recently purchased the Hirth engine company, and Ohain and his master machinist Max Hahn were set up there as a new division of the Hirth company. They had their first HeS 1 centrifugal engine running by September 1937. Unlike Whittle's design, Ohain used hydrogen as fuel, supplied under external pressure. Their subsequent designs culminated in the gasoline-fuelled HeS 3 of , which was fitted to Heinkel's simple and compact He 178 airframe and flown by Erich Warsitz in the early morning of August 27, 1939, from Rostock-Marienehe aerodrome, an impressively short time for development. The He 178 was the world's first jet plane.[9] Heinkel applied for a US patent covering the Aircraft Power Plant by Hans Joachim Pabst von Ohain in May 31, 1939; patent number US2256198, with M Hahn referenced as inventor.
+, the world's first aircraft to fly purely on turbojet power]] In 1935 Hans von Ohain started work on a similar design in Germany, both compressor and turbine being radial, on opposite sides of same disc, initially unaware of Whittle's work.[8] Von Ohain's first device was strictly experimental and could run only under external power, but he was able to demonstrate the basic concept. Ohain was then introduced to Ernst Heinkel, one of the larger aircraft industrialists of the day, who immediately saw the promise of the design. Heinkel had recently purchased the Hirth engine company, and Ohain and his master machinist Max Hahn were set up there as a new division of the Hirth company. They had their first HeS 1 centrifugal engine running by September 1937. Unlike Whittle's design, Ohain used hydrogen as fuel, supplied under external pressure. Their subsequent designs culminated in the gasoline-fuelled HeS 3 of , which was fitted to Heinkel's simple and compact He 178 airframe and flown by Erich Warsitz in the early morning of August 27, 1939, from Rostock-Marienehe aerodrome, an impressively short time for development. The He 178 was the world's first jet plane.[9] Heinkel applied for a US patent covering the Aircraft Power Plant by Hans Joachim Pabst von Ohain in May 31, 1939; patent number US2256198, with M Hahn referenced as inventor.
 
-Junkers_Jumo_004.jpg Austrian Anselm Franz of Junkers' engine division (_Junkers Motoren_ or "Jumo") introduced the axial-flow compressor in their jet engine. Jumo was assigned the next engine number in the RLM 109-0xx numbering sequence for gas turbine aircraft powerplants, "004", and the result was the Jumo 004 engine. After many lesser technical difficulties were solved, mass production of this engine started in 1944 as a powerplant for the world's first jet-fighter aircraft, the Messerschmitt Me 262 (and later the world's first jet-bomber aircraft, the Arado Ar 234). A variety of reasons conspired to delay the engine's availability, causing the fighter to arrive too late to improve Germany's position in World War II, however this was the first jet engine to be used in service.
+Austrian Anselm Franz of Junkers' engine division (_Junkers Motoren_ or "Jumo") introduced the axial-flow compressor in their jet engine. Jumo was assigned the next engine number in the RLM 109-0xx numbering sequence for gas turbine aircraft powerplants, "004", and the result was the Jumo 004 engine. After many lesser technical difficulties were solved, mass production of this engine started in 1944 as a powerplant for the world's first jet-fighter aircraft, the Messerschmitt Me 262 (and later the world's first jet-bomber aircraft, the Arado Ar 234). A variety of reasons conspired to delay the engine's availability, causing the fighter to arrive too late to improve Germany's position in World War II, however this was the first jet engine to be used in service.
 
-Gloster_Meteor_III_ExCC.jpg was the first British jet fighter and the Allies' only jet aircraft to achieve combat operations during World War II.]] Meanwhile, in Britain the Gloster E28/39 had its maiden flight on 15 May 1941 and the Gloster Meteor finally entered service with the RAF in July 1944. These were powered by turbojet engines from Power Jets Ltd., set up by Frank Whittle. The first two operational turbojet aircraft, the Messerschmitt Me 262 and then the Gloster Meteor entered service within three months of each other in 1944.
+was the first British jet fighter and the Allies' only jet aircraft to achieve combat operations during World War II.]] Meanwhile, in Britain the Gloster E28/39 had its maiden flight on 15 May 1941 and the Gloster Meteor finally entered service with the RAF in July 1944. These were powered by turbojet engines from Power Jets Ltd., set up by Frank Whittle. The first two operational turbojet aircraft, the Messerschmitt Me 262 and then the Gloster Meteor entered service within three months of each other in 1944.
 
 Following the end of the war the German jet aircraft and jet engines were extensively studied by the victorious allies and contributed to work on early Soviet and US jet fighters. The legacy of the axial-flow engine is seen in the fact that practically all jet engines on fixed-wing aircraft have had some inspiration from this design.
 
@@ -38,7 +38,7 @@ The efficiency of turbojet engines was still rather worse than piston engines, b
 
 Uses
 
-JT9D_on_747.JPG turbofan jet engine installed on a Boeing 747 aircraft.]] Jet engines power jet aircraft, cruise missiles and unmanned aerial vehicles. In the form of rocket engines they power fireworks, model rocketry, spaceflight, and military missiles.
+turbofan jet engine installed on a Boeing 747 aircraft.]] Jet engines power jet aircraft, cruise missiles and unmanned aerial vehicles. In the form of rocket engines they power fireworks, model rocketry, spaceflight, and military missiles.
 
 Jet engines have propelled high speed cars, particularly drag racers, with the all-time record held by a rocket car. A turbofan powered car, ThrustSSC, currently holds the land speed record.
 
@@ -61,11 +61,11 @@ Gas turbines are rotary engines that extract energy from a flow of combustion ga
 
 Turbojet
 
-Jet_engine.svg A turbojet engine is a gas turbine engine that works by compressing air with an inlet and a compressor (axial, centrifugal, or both), mixing fuel with the compressed air, burning the mixture in the combustor, and then passing the hot, high pressure air through a turbine and a nozzle. The compressor is powered by the turbine, which extracts energy from the expanding gas passing through it. The engine converts internal energy in the fuel to kinetic energy in the exhaust, producing thrust. All the air ingested by the inlet is passed through the compressor, combustor, and turbine, unlike the turbofan engine described below.[12]
+A turbojet engine is a gas turbine engine that works by compressing air with an inlet and a compressor (axial, centrifugal, or both), mixing fuel with the compressed air, burning the mixture in the combustor, and then passing the hot, high pressure air through a turbine and a nozzle. The compressor is powered by the turbine, which extracts energy from the expanding gas passing through it. The engine converts internal energy in the fuel to kinetic energy in the exhaust, producing thrust. All the air ingested by the inlet is passed through the compressor, combustor, and turbine, unlike the turbofan engine described below.[12]
 
 Turbofan
 
-Turbofan_operation_lbp.svg Turbofans differ from turbojets in that they have an additional fan at the front of the engine, which accelerates air in a duct bypassing the core gas turbine engine. Turbofans are the dominant engine type for medium and long-range airliners.
+Turbofans differ from turbojets in that they have an additional fan at the front of the engine, which accelerates air in a duct bypassing the core gas turbine engine. Turbofans are the dominant engine type for medium and long-range airliners.
 
 Turbofans are usually more efficient than turbojets at subsonic speeds, but at high speeds their large frontal area generates more drag.[13] Therefore, in supersonic flight, and in military and other aircraft where other considerations have a higher priority than fuel efficiency, fans tend to be smaller or absent.
 
@@ -92,7 +92,7 @@ Other types of jet propulsion
 
 Rocket
 
-Rocket_thrust.svg The rocket engine uses the same basic physical principles of thrust as a form of reaction engine,[16] but is distinct from the jet engine in that it does not require atmospheric air to provide oxygen; the rocket carries all components of the reaction mass. However some definitions treat it as a form of jet propulsion.[17]
+The rocket engine uses the same basic physical principles of thrust as a form of reaction engine,[16] but is distinct from the jet engine in that it does not require atmospheric air to provide oxygen; the rocket carries all components of the reaction mass. However some definitions treat it as a form of jet propulsion.[17]
 
 Because rockets do not breathe air, this allows them to operate at arbitrary altitudes and in space.[18]
 
@@ -124,8 +124,6 @@ Combined-cycle engines simultaneously use two or more different principles of je
 Water jet
 
 A water jet, or pump-jet, is a marine propulsion system that utilizes a jet of water. The mechanical arrangement may be a ducted propeller with nozzle, or a centrifugal compressor and nozzle. The pump-jet must be driven by a separate engine such as a Diesel or gas turbine.
-
-Pump_jet.PNG
 
   TYPE        DESCRIPTION                                                                              ADVANTAGES                                                                                                                                                                                                                                                                                              DISADVANTAGES
   ----------- ---------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -199,11 +197,9 @@ $$\eta_p= \frac {2\, (\frac {v} {v_e})} {1 + ( \frac {v} {v_e} )^2 }$$
 
 In addition to propulsive efficiency, another factor is _cycle efficiency_; a jet engine is a form of heat engine. Heat engine efficiency is determined by the ratio of temperatures reached in the engine to that exhausted at the nozzle. This has improved constantly over time as new materials have been introduced to allow higher maximum cycle temperatures. For example, composite materials, combining metals with ceramics, have been developed for HP turbine blades, which run at the maximum cycle temperature.[42] The efficiency is also limited by the overall pressure ratio that can be achieved. Cycle efficiency is highest in rocket engines (~60+%), as they can achieve extremely high combustion temperatures. Cycle efficiency in turbojet and similar is nearer to 30%, due to much lower peak cycle temperatures.
 
-Combustion_efficiency_of_aircraft_gas_turbines.svg Combustion_stability_limits_of_aircraft_gas_turbine.svg
-
 The combustion efficiency of most aircraft gas turbine engines at sea level takeoff conditions is almost 100%. It decreases nonlinearly to 98% at altitude cruise conditions. Air-fuel ratio ranges from 50:1 to 130:1. For any type of combustion chamber there is a _rich_ and _weak limit_ to the air-fuel ratio, beyond which the flame is extinguished. The range of air-fuel ratio between the rich and weak limits is reduced with an increase of air velocity. If the increasing air mass flow reduces the fuel ratio below certain value, flame extinction occurs.[43]
 
-Specific-impulse-kk-20090105.png as a function of speed for different jet types with kerosene fuel (hydrogen I_(sp) would be about twice as high). Although efficiency plummets with speed, greater distances are covered. Efficiency per unit distance (per km or mile) is roughly independent of speed for jet engines as a group; however, airframes become inefficient at supersonic speeds.]]
+as a function of speed for different jet types with kerosene fuel (hydrogen I_(sp) would be about twice as high). Although efficiency plummets with speed, greater distances are covered. Efficiency per unit distance (per km or mile) is roughly independent of speed for jet engines as a group; however, airframes become inefficient at supersonic speeds.]]
 
 Consumption of fuel or propellant
 
@@ -220,8 +216,6 @@ The thrust-to-weight ratio of jet engines with similar configurations varies wit
 As can be seen in the following table, rocket engines generally achieve much higher thrust-to-weight ratios than duct engines such as turbojet and turbofan engines. This is primarily because rockets almost universally use dense liquid or solid reaction mass which gives a much smaller volume and hence the pressurization system that supplies the nozzle is much smaller and lighter for the same performance. Duct engines have to deal with air which is two to three orders of magnitude less dense and this gives pressures over much larger areas, which in turn results in more engineering materials being needed to hold the engine together and for the air compressor.
 
 Comparison of types
-
-Gas_turbine_efficiency.png
 
 Propeller engines handle larger air mass flows, and give them smaller acceleration, than jet engines. Since the increase in air speed is small, at high flight speeds the thrust available to propeller-driven aeroplanes is small. However, at low speeds, these engines benefit from relatively high propulsive efficiency.
 

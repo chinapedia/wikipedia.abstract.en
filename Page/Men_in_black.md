@@ -1,7 +1,5 @@
 Men in Black (franchise)|other uses|Men in Black (disambiguation)}}
 
-MiB.svg
-
 In popular culture and UFO conspiracy theories, MEN IN BLACK (MIB) are supposed men dressed in black suits who claim to be quasi-government agents who harass or threaten UFO witnesses to keep them quiet about what they have seen. It is sometimes implied that they may be aliens themselves. The term is also frequently used to describe mysterious men working for unknown organizations, as well as various branches of government allegedly designed to protect secrets or perform other strange activities. The term is generic, used for any unusual, threatening or strangely behaved individual whose appearance on the scene can be linked in some fashion with a UFO sighting.[1] Several alleged encounters with the men in black have been reported by UFO researchers and enthusiasts.
 
 Stories about allegedly real-life men in black inspired the semi-comic science fiction _Men in Black_ franchise of comic books, films, and other media.

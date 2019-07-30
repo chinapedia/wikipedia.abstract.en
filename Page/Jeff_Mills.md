@@ -5,8 +5,6 @@ Mills has received international recognition for his work both as a DJ and produ
 
 Career
 
-Jeff_Mills_Detroit_2007.jpg
-
 Early career and radio DJ
 
 A 1981 graduate of Mackenzie High School, Mills started his career in the early 1980s using the name "The Wizard."[9][10] He performed DJ tricks like beat juggling and scratching during his sets, some of which were pre-recorded. He had a nightly show called The Wizard at WDRQ and later at WJLB under the same name. He would highlight local techno artists, giving light to artists such as Derrick May, Kevin Saunderson and Juan Atkins.[11][12]
@@ -21,7 +19,7 @@ UR related the aesthetics of early Detroit Techno to the complex social, politic
 
 Solo work and independent labels
 
-Tresor_-_Berlin.jpg Club in Berlin where Mills was a resident prior to launching Axis Records.]]
+Club in Berlin where Mills was a resident prior to launching Axis Records.]]
 
 Mills left Underground Resistance in 1991 to pursue his own ventures. He relocated from Detroit, first to New York, then Berlin (as a resident at the Tresor club),[21] and then Chicago. There in 1992, with fellow Detroit native Robert Hood, he set up the record label Axis, and later, sub-labels Purpose Maker, Tomorrow, and 6277, all aiming for a more minimal sound than most of the techno being produced in those years.[22][23]
 

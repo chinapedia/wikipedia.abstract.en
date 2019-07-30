@@ -1,4 +1,4 @@
-Rubik's_cube.svg form the Rubik's Cube group.]]
+form the Rubik's Cube group.]]
 
 In mathematics, a GROUP is a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility. One of the most familiar examples of a group is the set of integers together with the addition operation, but groups are encountered in numerous areas within and outside mathematics, and help focusing on essential structural aspects, by detaching them from the concrete nature of the subject of the study.[1][2]
 
@@ -65,10 +65,8 @@ Second example: a symmetry group
 Two figures in the plane are congruent if one can be changed into the other using a combination of rotations, reflections, and translations. Any figure is congruent to itself. However, some figures are congruent to themselves in more than one way, and these extra congruences are called symmetries. A square has eight symmetries. These are:
 
 +-----------------------------+--------------------------------+---------------------------------+-------------------------------------+
-| group_D8_id.svg             | group_D8_90.svg                | group_D8_180.svg                | group_D8_270.svg                    |
 | id (keeping it as it is)    | r₁ (rotation by 90° clockwise) | r₂ (rotation by 180° clockwise) | r₃ (rotation by 270° clockwise)     |
 +-----------------------------+--------------------------------+---------------------------------+-------------------------------------+
-| group_D8_fv.svg             | group_D8_fh.svg                | group_D8_f13.svg                | group_D8_f24.svg                    |
 | f_(v) (vertical reflection) | f_(h) (horizontal reflection)  | f_(d) (diagonal reflection)     | f_(c) (counter-diagonal reflection) |
 +-----------------------------+--------------------------------+---------------------------------+-------------------------------------+
 
@@ -255,7 +253,7 @@ The rational numbers (including 0) also form a group under addition. Intertwinin
 
 Modular arithmetic
 
-Clock_group.svg 12. Here 9 + 4 = 1.]] In modular arithmetic, two integers are added and then the sum is divided by a positive integer called the _modulus._ The result of modular addition is the remainder of that division. For any modulus, _n_, the set of integers from 0 to forms a group under modular addition: the inverse of any element _a_ is , and 0 is the identity element. This is familiar from the addition of hours on the face of a clock: if the hour hand is on 9 and is advanced 4 hours, it ends up on 1, as shown at the right. This is expressed by saying that 9 + 4 equals 1 "modulo 12" or, in symbols,
+12. Here 9 + 4 = 1.]] In modular arithmetic, two integers are added and then the sum is divided by a positive integer called the _modulus._ The result of modular addition is the remainder of that division. For any modulus, _n_, the set of integers from 0 to forms a group under modular addition: the inverse of any element _a_ is , and 0 is the identity element. This is familiar from the addition of hours on the face of a clock: if the hour hand is on 9 and is advanced 4 hours, it ends up on 1, as shown at the right. This is expressed by saying that 9 + 4 equals 1 "modulo 12" or, in symbols,
 
     9 + 4 ≡ 1 modulo 12.
 
@@ -273,7 +271,7 @@ The inverse _b_ can be found by using Bézout's identity and the fact that the g
 
 Cyclic groups
 
-Cyclic_group.svg A _cyclic group_ is a group all of whose elements are powers of a particular element _a_.[43] In multiplicative notation, the elements of the group are:
+A _cyclic group_ is a group all of whose elements are powers of a particular element _a_.[43] In multiplicative notation, the elements of the group are:
 
     ..., _a_^(−3), _a_^(−2), _a_^(−1), _a_⁰ = _e_, _a_, _a_², _a_³, ...,
 
@@ -291,7 +289,7 @@ Symmetry groups
 
 _Symmetry groups_ are groups consisting of symmetries of given mathematical objects—be they of geometric nature, such as the introductory symmetry group of the square, or of algebraic nature, such as polynomial equations and their solutions.[47] Conceptually, group theory can be thought of as the study of symmetry. Symmetries in mathematics greatly simplify the study of geometrical or analytical objects. A group is said to act on another mathematical object _X_ if every group element performs some operation on _X_ compatibly to the group law. In the rightmost example below, an element of order 7 of the (2,3,7) triangle group acts on the tiling by permuting the highlighted warped triangles (and the other ones, too). By a group action, the group pattern is connected to the structure of the object being acted on.
 
-Sixteenth_stellation_of_icosahedron.png.]] In chemical fields, such as crystallography, space groups and point groups describe molecular symmetries and crystal symmetries. These symmetries underlie the chemical and physical behavior of these systems, and group theory enables simplification of quantum mechanical analysis of these properties.[48] For example, group theory is used to show that optical transitions between certain quantum levels cannot occur simply because of the symmetry of the states involved.
+.]] In chemical fields, such as crystallography, space groups and point groups describe molecular symmetries and crystal symmetries. These symmetries underlie the chemical and physical behavior of these systems, and group theory enables simplification of quantum mechanical analysis of these properties.[48] For example, group theory is used to show that optical transitions between certain quantum levels cannot occur simply because of the symmetry of the states involved.
 
 Not only are groups useful to assess the implications of symmetries in molecules, but surprisingly they also predict that molecules sometimes can change symmetry. The Jahn-Teller effect is a distortion of a molecule of high symmetry when it adopts a particular ground state of lower symmetry from a set of possible ground states that are related to each other by the symmetry operations of the molecule.[49][50]
 
@@ -300,7 +298,7 @@ Likewise, group theory helps predict the changes in physical properties that occ
 Such spontaneous symmetry breaking has found further application in elementary particle physics, where its occurrence is related to the appearance of Goldstone bosons.
 
 +-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
-| C60a.png                                                                            | Ammonia-3D-balls-A.png                                                                         | Cubane-3D-balls.png  | Hexaaquacopper(II)-3D-balls.png                                                                                                                                | Uniform_tiling_73-t2_colored.png                                                             |
+|                                                                                     |                                                                                                |                      |                                                                                                                                                                |                                                                                              |
 +-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
 | Buckminsterfullerene displays                                                       | Ammonia, NH₃. Its symmetry group is of order 6, generated by a 120° rotation and a reflection. | Cubane C₈H₈ features | Hexaaquacopper(II) complex ion, [Cu(OH₂)₆]²⁺. Compared to a perfectly symmetrical shape, the molecule is vertically dilated by about 22% (Jahn-Teller effect). | The (2,3,7) triangle group, a hyperbolic group, acts on this tiling of the hyperbolic plane. |
 | icosahedral symmetry, though the double bonds reduce this to pyritohedral symmetry. |                                                                                                | octahedral symmetry. |                                                                                                                                                                |                                                                                              |
@@ -310,7 +308,7 @@ Finite symmetry groups such as the Mathieu groups are used in coding theory, whi
 
 General linear group and representation theory
 
-Matrix_multiplication.svg (the left illustration) multiplied by matrices (the middle and right illustrations). The middle illustration represents a clockwise rotation by 90°, while the right-most one stretches the _x_-coordinate by factor 2.]] Matrix groups consist of matrices together with matrix multiplication. The _general linear group_ consists of all invertible _n_-by-_n_ matrices with real entries.[54] Its subgroups are referred to as _matrix groups_ or _linear groups_. The dihedral group example mentioned above can be viewed as a (very small) matrix group. Another important matrix group is the special orthogonal group SO(_n_). It describes all possible rotations in _n_ dimensions. Via Euler angles, rotation matrices are used in computer graphics.[55]
+(the left illustration) multiplied by matrices (the middle and right illustrations). The middle illustration represents a clockwise rotation by 90°, while the right-most one stretches the _x_-coordinate by factor 2.]] Matrix groups consist of matrices together with matrix multiplication. The _general linear group_ consists of all invertible _n_-by-_n_ matrices with real entries.[54] Its subgroups are referred to as _matrix groups_ or _linear groups_. The dihedral group example mentioned above can be viewed as a (very small) matrix group. Another important matrix group is the special orthogonal group SO(_n_). It describes all possible rotations in _n_ dimensions. Via Euler angles, rotation matrices are used in computer graphics.[55]
 
 _Representation theory_ is both an application of the group concept and important for a deeper understanding of groups.[56][57] It studies the group by its group actions on other spaces. A broad class of group representations are linear representations, i.e., the group is acting on a vector space, such as the three-dimensional Euclidean space R³. A representation of _G_ on an _n_-dimensional real vector space is simply a group homomorphism
 
@@ -356,7 +354,7 @@ Many groups are simultaneously groups and examples of other mathematical structu
 
 Topological groups
 
-Circle_as_Lie_group2.svg in the complex plane under complex multiplication is a Lie group and, therefore, a topological group. It is topological since complex multiplication and division are continuous. It is a manifold and thus a Lie group, because every small piece, such as the red arc in the figure, looks like a part of the real line (shown at the bottom). ]] Some topological spaces may be endowed with a group law. In order for the group law and the topology to interweave well, the group operations must be continuous functions, that is, , and _g_^(−1) must not vary wildly if _g_ and _h_ vary only little. Such groups are called _topological groups,_ and they are the group objects in the category of topological spaces.[68] The most basic examples are the reals R under addition, , and similarly with any other topological field such as the complex numbers or _p_-adic numbers. All of these groups are locally compact, so they have Haar measures and can be studied via harmonic analysis. The former offer an abstract formalism of invariant integrals. Invariance means, in the case of real numbers for example:
+in the complex plane under complex multiplication is a Lie group and, therefore, a topological group. It is topological since complex multiplication and division are continuous. It is a manifold and thus a Lie group, because every small piece, such as the red arc in the figure, looks like a part of the real line (shown at the bottom). ]] Some topological spaces may be endowed with a group law. In order for the group law and the topology to interweave well, the group operations must be continuous functions, that is, , and _g_^(−1) must not vary wildly if _g_ and _h_ vary only little. Such groups are called _topological groups,_ and they are the group objects in the category of topological spaces.[68] The most basic examples are the reals R under addition, , and similarly with any other topological field such as the complex numbers or _p_-adic numbers. All of these groups are locally compact, so they have Haar measures and can be studied via harmonic analysis. The former offer an abstract formalism of invariant integrals. Invariance means, in the case of real numbers for example:
 
     ∫_(ℝ)f(x) dx = ∫_(ℝ)f(x + c) dx
 

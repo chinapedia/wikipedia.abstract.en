@@ -1,4 +1,4 @@
-Pdp-11-40.jpg drive is installed above it.]] The PDP-11 is a series of 16-bit minicomputers sold by Digital Equipment Corporation (DEC) from 1970 into the 1990s, one of a succession of products in the PDP series. In total, around 600,000 PDP-11s of all models were sold, making it one of DEC's most successful product lines. The PDP-11 is considered by some experts[1][2][3] to be the most popular minicomputer ever.
+drive is installed above it.]] The PDP-11 is a series of 16-bit minicomputers sold by Digital Equipment Corporation (DEC) from 1970 into the 1990s, one of a succession of products in the PDP series. In total, around 600,000 PDP-11s of all models were sold, making it one of DEC's most successful product lines. The PDP-11 is considered by some experts[1][2][3] to be the most popular minicomputer ever.
 
 The PDP-11 included a number of innovative features in its instruction set and additional general-purpose registers that made it much easier to program than earlier models in the series. Additionally, the innovative Unibus system allowed external devices to be easily interfaced to the system using direct memory access, opening the system to a wide variety of peripherals. The PDP-11 replaced the PDP-8 in many real-time applications, although both product lines lived in parallel for more than 10 years. The ease of programming of the PDP-11 made it very popular for general purpose computing uses as well.
 
@@ -57,8 +57,6 @@ The PDP-11 was designed for ease of manufacture by semiskilled labor. The dimens
 
 LSI-11
 
-PDP-11-M7270.jpg KL_DEC_F11.jpg KL_DEC_J11.jpg
-
 The LSI-11 (PDP-11/03), introduced in February 1975[12] is the first PDP-11 model produced using large-scale integration; the entire CPU is contained on four LSI chips made by Western Digital (the MCP-1600 chip set; a fifth chip can be added to extend the instruction set, as pictured on the right). It uses a bus which is a close variant of the Unibus called the LSI Bus or Q-Bus; it differs from the Unibus primarily in that addresses and data are multiplexed onto a shared set of wires rather than having separate sets of wires. It also differs slightly in how it addresses I/O devices and it eventually allowed a 22-bit physical address (whereas the Unibus only allows an 18-bit physical address) and block-mode operations for significantly improved bandwidth (which the Unibus does not support).
 
 The CPU microcode includes a debugger: firmware with a direct serial interface (RS-232 or current loop) to a terminal. This lets the operator do debugging by typing commands and reading octal numbers, rather than operating switches and reading lights, the typical debugging method at the time. The operator can thus examine and modify the computer's registers, memory, and input/output devices, diagnosing and perhaps correcting failures in software and peripherals (unless a failure disables the microcode itself). The operator can also specify which disk to boot from.
@@ -89,8 +87,6 @@ The PDP-11 processors tend to fall into several natural groups depending on the 
 
 Unibus models
 
-Digital_PDP11-IMG_1498_cropped.jpg Pdp-11-70-panel.jpg PDP-11-70-DDS570.jpg
-
 The following models use the Unibus as their principal bus:
 
 -   PDP-11/20 and PDP-11/15 — The original, non-microprogrammed processor; designed by Jim O'Loughlin. Floating point is supported by peripheral options using various data formats. The 11/20 lacks any kind of memory protection hardware unless retrofitted with a KS-11 memory mapping add-on.[15]
@@ -107,7 +103,7 @@ The following models use the Unibus as their principal bus:
 
 Q-bus models
 
-DEC_LSI11-23.jpg is also missing.]]
+is also missing.]]
 
 The following models use the Q-Bus as their principal bus:
 
@@ -126,8 +122,6 @@ The following models use the Q-Bus as their principal bus:
 -   DECserver 500 and 550 LAT terminal servers DSRVS-BA using the KDJ11-SB chipset
 
 Models without standard bus
-
-DEC-PDT-11-150.jpg
 
 -   PDT-11/110
 -   PDT-11/130
@@ -149,7 +143,7 @@ Models that were planned but never introduced
 
 Special purpose versions
 
-GT40_Lunar_Lander.jpg'']] DEC-MINC-23.jpg
+'']]
 
 -   GT40 – VT11 vector graphics terminal using a PDP-11/05.
 -   GT42 – VT11 vector graphics terminal using a PDP-11/10.
@@ -164,7 +158,7 @@ GT40_Lunar_Lander.jpg'']] DEC-MINC-23.jpg
 -   MINC-11 – Laboratory system based on 11/03 or 11/23;[19] when based on the 11/23, it was sold as a 'MINC-23', but many MINC-11 machines were field-upgraded with the 11/23 processor. Early versions of the MINC-specific software package would not run on the 11/23 processor because of subtle changes in the instruction set; MINC 1.2 is documented as compatible with the later processor.
 -   C.mmp – Multiprocessor system from Carnegie Mellon University.
 
-Unimation_controller_internals.jpg robot arm controller.]]
+robot arm controller.]]
 
 -   The Unimation robot arm controllers used Q-Bus LSI-11/73 systems with a DEC M8192 / KDJ11-A processor board and two DEC DLV11-J (M8043) async serial interface boards.
 -   SBC 11/21 (boardname KXT11) Falcon and Falcon Plus – single board computer on a Qbus card implementing the basic PDP-11 instruction set, based on T11 chipset containing 32 KB static RAM, two ROM sockets, three serial lines, 20 bit parallel I/O, three interval timers and a two-channel DMA controller. Up to 14 Falcons could be placed into one Qbus system.
@@ -241,7 +235,7 @@ The DECSA communications server was a communications platform developed by DEC b
 
 Peripherals
 
-DEC_TU10_tape_drive.jpg drive.]] A wide range of peripherals were available; some of them were also used in other DEC systems like the PDP-8 or PDP-10. The following are some of the more common PDP-11 peripherals.
+drive.]] A wide range of peripherals were available; some of them were also used in other DEC systems like the PDP-8 or PDP-10. The following are some of the more common PDP-11 peripherals.
 
 -   CR11 – punched card reader
 -   DL11 – single serial line for either RS-232 or current loop

@@ -13,11 +13,11 @@ Classification
 
 Research history
 
-Reptile003d.jpgs (below the crocodiles).]]
+s (below the crocodiles).]]
 
 In the 13th century the category of _reptile_ was recognized in Europe as consisting of a miscellany of egg-laying creatures, including "snakes, various fantastic monsters, lizards, assorted amphibians, and worms", as recorded by Vincent of Beauvais in his _Mirror of Nature_.[12] In the 18th century, the reptiles were, from the outset of classification, grouped with the amphibians. Linnaeus, working from species-poor Sweden, where the common adder and grass snake are often found hunting in water, included all reptiles and amphibians in class "III – Amphibia" in his _Systema Naturæ_.[13] The terms "reptile" and "amphibian" were largely interchangeable, "reptile" (from Latin _repere_, "to creep") being preferred by the French.[14] Josephus Nicolaus Laurenti was the first to formally use the term "Reptilia" for an expanded selection of reptiles and amphibians basically similar to that of Linnaeus.[15] Today, the two groups are still commonly treated under the same heading as herptiles.
 
-MosasaurDiscovery.jpg'' discovered in a Maastricht limestone quarry, 1770 (contemporary engraving)]]
+'' discovered in a Maastricht limestone quarry, 1770 (contemporary engraving)]]
 
 It was not until the beginning of the 19th century that it became clear that reptiles and amphibians are, in fact, quite different animals, and Pierre André Latreille erected the class _Batracia_ (1825) for the latter, dividing the tetrapods into the four familiar classes of reptiles, amphibians, birds, and mammals.[16] The British anatomist Thomas Henry Huxley made Latreille's definition popular and, together with Richard Owen, expanded Reptilia to include the various fossil "antediluvian monsters", including dinosaurs and the mammal-like (synapsid) _Dicynodon_ he helped describe. This was not the only possible classification scheme: In the Hunterian lectures delivered at the Royal College of Surgeons in 1863, Huxley grouped the vertebrates into mammals, sauroids, and ichthyoids (the latter containing the fishes and amphibians). He subsequently proposed the names of Sauropsida and Ichthyopsida for the latter two groups.[17] In 1866, Haeckel demonstrated that vertebrates could be divided based on their reproductive strategies, and that reptiles, birds, and mammals were united by the amniotic egg.
 
@@ -27,7 +27,7 @@ In 1956, D.M.S. Watson observed that the first two groups diverged very early in
 
 In the late 19th century, a number of definitions of Reptilia were offered. The traits listed by Lydekker in 1896, for example, include a single occipital condyle, a jaw joint formed by the quadrate and articular bones, and certain characteristics of the vertebrae.[20] The animals singled out by these formulations, the amniotes other than the mammals and the birds, are still those considered reptiles today.[21]
 
-Captorhinus_aguti_p.jpg type of skull roof, as seen in the Permian genus _Captorhinus_]]
+type of skull roof, as seen in the Permian genus _Captorhinus_]]
 
 The synapsid/sauropsid division supplemented another approach, one that split the reptiles into four subclasses based on the number and position of temporal fenestrae, openings in the sides of the skull behind the eyes. This classification was initiated by Henry Fairfield Osborn and elaborated and made popular by Romer's classic _Vertebrate Paleontology_.[22][23] Those four subclasses were:
 
@@ -40,11 +40,11 @@ The composition of Euryapsida was uncertain. Ichthyosaurs were, at times, consid
 
 Phylogenetics and modern definition
 
-Varanodon1DB.jpg'', with other synapsids, not with extant reptiles.]] By the early 21st century, vertebrate paleontologists were beginning to adopt phylogenetic taxonomy, in which all groups are defined in such a way as to be monophyletic; that is, groups include all descendants of a particular ancestor. The reptiles as historically defined are paraphyletic, since they exclude both birds and mammals. These respectively evolved from dinosaurs and from early therapsids, which were both traditionally called reptiles.[26] Birds are more closely related to crocodilians than the latter are to the rest of extant reptiles. Colin Tudge wrote:
+'', with other synapsids, not with extant reptiles.]] By the early 21st century, vertebrate paleontologists were beginning to adopt phylogenetic taxonomy, in which all groups are defined in such a way as to be monophyletic; that is, groups include all descendants of a particular ancestor. The reptiles as historically defined are paraphyletic, since they exclude both birds and mammals. These respectively evolved from dinosaurs and from early therapsids, which were both traditionally called reptiles.[26] Birds are more closely related to crocodilians than the latter are to the rest of extant reptiles. Colin Tudge wrote:
 
   Mammals are a clade, and therefore the cladists are happy to acknowledge the traditional taxon Mammalia; and birds, too, are a clade, universally ascribed to the formal taxon Aves. Mammalia and Aves are, in fact, subclades within the grand clade of the Amniota. But the traditional class Reptilia is not a clade. It is just a section of the clade Amniota: the section that is left after the Mammalia and Aves have been hived off. It cannot be defined by synapomorphies, as is the proper way. Instead, it is defined by a combination of the features it has and the features it lacks: reptiles are the amniotes that lack fur or feathers. At best, the cladists suggest, we could say that the traditional Reptilia are 'non-avian, non-mammalian amniotes'.[27]
 
-Bearded_Dragon_Skeleton.jpg) skeleton on display at the Museum of Osteology.]] Despite the early proposals for replacing the paraphyletic Reptilia with a monophyletic Sauropsida, which includes birds, that term was never adopted widely or, when it was, was not applied consistently.[28] When Sauropsida was used, it often had the same content or even the same definition as Reptilia. In 1988, Jacques Gauthier proposed a cladistic definition of Reptilia as a monophyletic node-based crown group containing turtles, lizards and snakes, crocodilians, and birds, their common ancestor and all its descendants. Because the actual relationship of turtles to other reptiles was not yet well understood at this time, Gauthier's definition came to be considered inadequate.[29]
+) skeleton on display at the Museum of Osteology.]] Despite the early proposals for replacing the paraphyletic Reptilia with a monophyletic Sauropsida, which includes birds, that term was never adopted widely or, when it was, was not applied consistently.[28] When Sauropsida was used, it often had the same content or even the same definition as Reptilia. In 1988, Jacques Gauthier proposed a cladistic definition of Reptilia as a monophyletic node-based crown group containing turtles, lizards and snakes, crocodilians, and birds, their common ancestor and all its descendants. Because the actual relationship of turtles to other reptiles was not yet well understood at this time, Gauthier's definition came to be considered inadequate.[29]
 
 A variety of other definitions were proposed by other scientists in the years following Gauthier's paper. The first such new definition, which attempted to adhere to the standards of the PhyloCode, was published by Modesto and Anderson in 2004. Modesto and Anderson reviewed the many previous definitions and proposed a modified definition, which they intended to retain most traditional content of the group while keeping it stable and monophyletic. They defined Reptilia as all amniotes closer to _Lacerta agilis_ and _Crocodylus niloticus_ than to _Homo sapiens_. This stem-based definition is equivalent to the more common definition of Sauropsida, which Modesto and Anderson synonymized with Reptilia, since the latter is better known and more frequently used. Unlike most previous definitions of Reptilia, however, Modesto and Anderson's definition includes birds,[30] as they are within the clade that includes both lizards and crocodiles.
 
@@ -113,7 +113,7 @@ Evolutionary history
 
 Origin of the reptiles
 
-Hylonomus_BW.jpg'']] Europasaurus_holgeri_Scene_2.jpgs including _Europasaurus holgeri_, iguanodonts and _Archaeopteryx lithographica_ perched on the foreground tree stump.]]
+'']] s including _Europasaurus holgeri_, iguanodonts and _Archaeopteryx lithographica_ perched on the foreground tree stump.]]
 
 The origin of the reptiles lies about 310–320 million years ago, in the steaming swamps of the late Carboniferous period, when the first reptiles evolved from advanced reptiliomorphs.[45]
 
@@ -124,8 +124,6 @@ Rise of the reptiles
 The earliest amniotes, including stem-reptiles (those amniotes closer to modern reptiles than to mammals), were largely overshadowed by larger stem-tetrapods, such as _Cochleosaurus_, and remained a small, inconspicuous part of the fauna until the Carboniferous Rainforest Collapse.[53] This sudden collapse affected several large groups. Primitive tetrapods were particularly devastated, while stem-reptiles fared better, being ecologically adapted to the drier conditions that followed. Primitive tetrapods, like modern amphibians, need to return to water to lay eggs; in contrast, amniotes, like modern reptiles – whose eggs possess a shell that allows them to be laid on land – were better adapted to the new conditions. Amniotes acquired new niches at a faster rate than before the collapse and at a much faster rate than primitive tetrapods. They acquired new feeding strategies including herbivory and carnivory, previously only having been insectivores and piscivores.[54] From this point forward, reptiles dominated communities and had a greater diversity than primitive tetrapods, setting the stage for the Mesozoic (known as the Age of Reptiles).[55] One of the best known early stem-reptiles is _Mesosaurus_, a genus from the Early Permian that had returned to water, feeding on fish.
 
 Anapsids, synapsids, diapsids, and sauropsids
-
-Skull_comparison.png
 
 It was traditionally assumed that the first reptiles retained an anapsid skull inherited from their ancestors.[56] This type of skull has a skull roof with only holes for the nostrils, eyes and a pineal eye.[57] The discoveries of synapsid-like openings (see below) in the skull roof of the skulls of several members of Parareptilia (the clade containing most of the amniotes traditionally referred to as "anapsids"), including lanthanosuchoids, millerettids, bolosaurids, some nycteroleterids, some procolophonoids and at least some mesosaurs[58][59][60] made it more ambiguous and it's currently uncertain whether the ancestral amniote had an anapsid-like or synapsid-like skull.[61] These animals are traditionally referred to as "anapsids", and form a paraphyletic basic stock from which other groups evolved.[62] Very shortly after the first amniotes appeared, a lineage called Synapsida split off; this group was characterized by a temporal opening in the skull behind each eye to give room for the jaw muscle to move. These are the "mammal-like amniotes", or stem-mammals, that later gave rise to the true mammals.[63] Soon after, another group evolved a similar trait, this time with a double opening behind each eye, earning them the name Diapsida ("two arches").[64] The function of the holes in these groups was to lighten the skull and give room for the jaw muscles to move, allowing for a more powerful bite.[65]
 
@@ -147,7 +145,7 @@ The sister group to Archosauromorpha is Lepidosauromorpha, containing lizards an
 
 Cenozoic reptiles
 
-Varanus_priscus_Melbourne_Museum.jpg'' was a giant carnivorous goanna lizard, perhaps as long as 7 metres and weighing up to 1,940 kilograms.[83]]]
+'' was a giant carnivorous goanna lizard, perhaps as long as 7 metres and weighing up to 1,940 kilograms.[83]]]
 
 The close of the Cretaceous period saw the demise of the Mesozoic era reptilian megafauna (see the Cretaceous–Paleogene extinction event). Of the large marine reptiles, only sea turtles were left; and of the non-marine large reptiles, only the semi-aquatic crocodiles and broadly similar choristoderes survived the extinction, with the latter becoming extinct in the Miocene.[84] Of the great host of dinosaurs dominating the Mesozoic, only the small beaked birds survived. This dramatic extinction pattern at the end of the Mesozoic led into the Cenozoic. Mammals and birds filled the empty niches left behind by the reptilian megafauna and, while reptile diversification slowed, bird and mammal diversification took an exponential turn.[85] However, reptiles were still important components of the megafauna, particularly in the form of giant tortoises.[86][87]
 
@@ -158,9 +156,9 @@ Morphology and physiology
 
 Circulation
 
-wiki_varano.jpgs]]
+s]]
 
-All squamates and turtles have a three-chambered heart consisting of two atria, one variably partitioned ventricle, and two aortas that lead to the systemic circulation. The degree of mixing of oxygenated and deoxygenated blood in the three-chambered heart varies depending on the species and physiological state. Under different conditions, deoxygenated blood can be shunted back to the body or oxygenated blood can be shunted back to the lungs. This variation in blood flow has been hypothesized to allow more effective thermoregulation and longer diving times for aquatic species, but has not been shown to be a fitness advantage.[92] Bisected_Iguana_Heart_Image.png heart bisected through the ventricle, bisecting the left and right atrium.]] For example, Iguana hearts, like the majority of the squamates hearts, are composed of three chambers with two aorta and one ventricle, cardiac involuntary muscles.[93] The main structures of the heart are the sinus venosus, the pacemaker, the left atrium, the right atruim, the atrioventricular valve, the cavum venosum, cavum arteriosum, the cavum pulmonale, the muscular ridge, the ventricular ridge, pulmonary veins, and paired aortic arches.[94]
+All squamates and turtles have a three-chambered heart consisting of two atria, one variably partitioned ventricle, and two aortas that lead to the systemic circulation. The degree of mixing of oxygenated and deoxygenated blood in the three-chambered heart varies depending on the species and physiological state. Under different conditions, deoxygenated blood can be shunted back to the body or oxygenated blood can be shunted back to the lungs. This variation in blood flow has been hypothesized to allow more effective thermoregulation and longer diving times for aquatic species, but has not been shown to be a fitness advantage.[92] heart bisected through the ventricle, bisecting the left and right atrium.]] For example, Iguana hearts, like the majority of the squamates hearts, are composed of three chambers with two aorta and one ventricle, cardiac involuntary muscles.[93] The main structures of the heart are the sinus venosus, the pacemaker, the left atrium, the right atruim, the atrioventricular valve, the cavum venosum, cavum arteriosum, the cavum pulmonale, the muscular ridge, the ventricular ridge, pulmonary veins, and paired aortic arches.[94]
 
 Some squamate species (e.g., pythons and monitor lizards) have three-chambered hearts that become functionally four-chambered hearts during contraction. This is made possible by a muscular ridge that subdivides the ventricle during ventricular diastole and completely divides it during ventricular systole. Because of this ridge, some of these squamates are capable of producing ventricular pressure differentials that are equivalent to those seen in mammalian and avian hearts.[95]
 
@@ -168,7 +166,7 @@ Crocodilians have an anatomically four-chambered heart, similar to birds, but al
 
 Metabolism
 
-Homeothermy-poikilothermy.pngs) of a typical reptile versus a similar size mammal as a function of core body temperature. The mammal has a much higher peak output, but can only function over a very narrow range of body temperature.]]
+s) of a typical reptile versus a similar size mammal as a function of core body temperature. The mammal has a much higher peak output, but can only function over a very narrow range of body temperature.]]
 
 Modern non-avian reptiles exhibit some form of cold-bloodedness (i.e. some mix of poikilothermy, ectothermy, and bradymetabolism) so that they have limited physiological means of keeping the body temperature constant and often rely on external sources of heat. Due to a less stable core temperature than birds and mammals, reptilian biochemistry requires enzymes capable of maintaining efficiency over a greater range of temperatures than in the case for warm-blooded animals. The optimum body temperature range varies with species, but is typically below that of warm-blooded animals; for many lizards, it falls in the 24°–35 °C (75°–95 °F) range,[97] while extreme heat-adapted species, like the American desert iguana _Dipsosaurus dorsalis_, can have optimal physiological temperatures in the mammalian range, between 35° and 40 °C (95° and 104 °F).[98] While the optimum temperature is often encountered when the animal is active, the low basal metabolism makes body temperature drop rapidly when the animal is inactive.
 
@@ -180,13 +178,13 @@ It is generally assumed that reptiles are unable to produce the sustained high e
 
 Respiratory system
 
-All reptiles breathe using lungs. Aquatic turtles have developed more permeable skin, and some species have modified their cloaca to increase the area for gas exchange.[108] Even with these adaptations, breathing is never fully accomplished without lungs. Lung ventilation is accomplished differently in each main reptile group. In squamates, the lungs are ventilated almost exclusively by the axial musculature. This is also the same musculature that is used during locomotion. Because of this constraint, most squamates are forced to hold their breath during intense runs. Some, however, have found a way around it. Varanids, and a few other lizard species, employ buccal pumping as a complement to their normal "axial breathing". This allows the animals to completely fill their lungs during intense locomotion, and thus remain aerobically active for a long time. Tegu lizards are known to possess a proto-diaphragm, which separates the pulmonary cavity from the visceral cavity. While not actually capable of movement, it does allow for greater lung inflation, by taking the weight of the viscera off the lungs.[109] Alligatorbellowedit.ogg use this space to create infrasound vibrations during mating that also includes a loud bellow.]] Crocodilians actually have a muscular diaphragm that is analogous to the mammalian diaphragm. The difference is that the muscles for the crocodilian diaphragm pull the pubis (part of the pelvis, which is movable in crocodilians) back, which brings the liver down, thus freeing space for the lungs to expand. This type of diaphragmatic setup has been referred to as the "hepatic piston". The airways form a number of double tubular chambers within each lung. On inhalation and exhalation air moves through the airways in the same direction, thus creating a unidirectional airflow through the lungs. A similar system is found in birds,[110] monitor lizards[111] and iguanas.[112]
+All reptiles breathe using lungs. Aquatic turtles have developed more permeable skin, and some species have modified their cloaca to increase the area for gas exchange.[108] Even with these adaptations, breathing is never fully accomplished without lungs. Lung ventilation is accomplished differently in each main reptile group. In squamates, the lungs are ventilated almost exclusively by the axial musculature. This is also the same musculature that is used during locomotion. Because of this constraint, most squamates are forced to hold their breath during intense runs. Some, however, have found a way around it. Varanids, and a few other lizard species, employ buccal pumping as a complement to their normal "axial breathing". This allows the animals to completely fill their lungs during intense locomotion, and thus remain aerobically active for a long time. Tegu lizards are known to possess a proto-diaphragm, which separates the pulmonary cavity from the visceral cavity. While not actually capable of movement, it does allow for greater lung inflation, by taking the weight of the viscera off the lungs.[109] use this space to create infrasound vibrations during mating that also includes a loud bellow.]] Crocodilians actually have a muscular diaphragm that is analogous to the mammalian diaphragm. The difference is that the muscles for the crocodilian diaphragm pull the pubis (part of the pelvis, which is movable in crocodilians) back, which brings the liver down, thus freeing space for the lungs to expand. This type of diaphragmatic setup has been referred to as the "hepatic piston". The airways form a number of double tubular chambers within each lung. On inhalation and exhalation air moves through the airways in the same direction, thus creating a unidirectional airflow through the lungs. A similar system is found in birds,[110] monitor lizards[111] and iguanas.[112]
 
 Most reptiles lack a secondary palate, meaning that they must hold their breath while swallowing. Crocodilians have evolved a bony secondary palate that allows them to continue breathing while remaining submerged (and protect their brains against damage by struggling prey). Skinks (family Scincidae) also have evolved a bony secondary palate, to varying degrees. Snakes took a different approach and extended their trachea instead. Their tracheal extension sticks out like a fleshy straw, and allows these animals to swallow large prey without suffering from asphyxiation.[113]
 
 Turtles and tortoises
 
-Tortue_de_Floride_Amiens.jpg taking a gulp of air]]
+taking a gulp of air]]
 
 How turtles and tortoises breathe has been the subject of much study. To date, only a few species have been studied thoroughly enough to get an idea of how those turtles breathe. The varied results indicate that turtles and tortoises have found a variety of solutions to this problem.
 
@@ -196,7 +194,7 @@ Breathing during locomotion has been studied in three species, and they show dif
 
 Skin
 
-Lacertae_skin.jpg, showing squamate reptiles iconic scales]]
+, showing squamate reptiles iconic scales]]
 
 Reptilian skin is covered in a horny epidermis, making it watertight and enabling reptiles to live on dry land, in contrast to amphibians. Compared to mammalian skin, that of reptiles is rather thin and lacks the thick dermal layer that produces leather in mammals.[117] Exposed parts of reptiles are protected by scales or scutes, sometimes with a bony base, forming armor. In lepidosaurians, such as lizards and snakes, the whole skin is covered in overlapping epidermal scales. Such scales were once thought to be typical of the class Reptilia as a whole, but are now known to occur only in lepidosaurians. The scales found in turtles and crocodiles are of dermal, rather than epidermal, origin and are properly termed scutes. In turtles, the body is hidden inside a hard shell composed of fused scutes.
 
@@ -216,7 +214,7 @@ Turtles have two or more accessory urinary bladders, located lateral to the neck
 
 Digestion
 
-PikiWiki_Israel_37648_Nature_and_Colors.jpg'', eating a legless lizard, _Pseudopus apodus_. Most reptiles are carnivorous, and many primarily eat other reptiles.]] PSM_V53_D226_Silicious_pebbles_from_the_stomach_of_a_plesiosaur.jpgs from a plesiosaur]]
+'', eating a legless lizard, _Pseudopus apodus_. Most reptiles are carnivorous, and many primarily eat other reptiles.]] s from a plesiosaur]]
 
 Most reptiles are insectivorous or carnivorous and have simple and comparatively short digestive tracts due to meat being fairly simple to break down and digest. Digestion is slower than in mammals, reflecting their lower resting metabolism and their inability to divide and masticate their food.[131] Their poikilotherm metabolism has very low energy requirements, allowing large reptiles like crocodiles and large constrictors to live from a single large meal for months, digesting it slowly.[132]
 
@@ -240,8 +238,7 @@ Some snakes have extra sets of visual organs (in the loosest sense of the word) 
 
 Reproduction
 
-Crocodilian egg diagram
-1. eggshell, 2. yolk sac, 3. yolk (nutrients), 4. vessels, 5. amnion, 6. chorion, 7. air space, 8. allantois, 9. albumin (egg white), 10. amniotic sac, 11. crocodile embryo, 12. amniotic fluid Trachylepis_maculilabris_mating.jpg]] Geckos_mating.jpg Tortoise-Hatchling.jpg eggs with hard or leathery shells, requiring internal fertilization when mating.]]
+]] eggs with hard or leathery shells, requiring internal fertilization when mating.]]
 
 Reptiles generally reproduce sexually, though some are capable of asexual reproduction. All reproductive activity occurs through the cloaca, the single exit/entrance at the base of the tail where waste is also eliminated. Most reptiles have copulatory organs, which are usually retracted or inverted and stored inside the body. In turtles and crocodilians, the male has a single median penis, while squamates, including snakes and lizards, possess a pair of hemipenes, only one of which is typically used in each session. Tuatara, however, lack copulatory organs, and so the male and female simply press their cloacas together as the male discharges sperm.[146]
 
@@ -260,7 +257,7 @@ Many small reptiles, such as snakes and lizards that live on the ground or in th
 
 Camouflage and warning
 
-Phelsuma_dubia_edit1.jpg'' on a palm frond]]
+'' on a palm frond]]
 
 Reptiles tend to avoid confrontation through camouflage. Two major groups of reptile predators are birds and other reptiles, both of which have well developed color vision. Thus the skins of many reptiles have cryptic coloration of plain or mottled gray, green, and brown to allow them to blend into the background of their natural environment.[152] Aided by the reptiles' capacity for remaining motionless for long periods, the camouflage of many snakes is so effective that people or domestic animals are most typically bitten because they accidentally step on them.[153]
 
@@ -274,7 +271,7 @@ Camouflage does not always fool a predator. When caught out, snake species adopt
 
 Defense in crocodilians
 
-When a crocodilian is concerned about its safety, it will gape to expose the teeth and yellow tongue. If this doesn't work, the crocodilian gets a little more agitated and typically begins to make hissing sounds. After this, the crocodilian will start to change its posture dramatically to make itself look more intimidating. The body is inflated to increase apparent size. If absolutely necessary it may decide to attack an enemy. White-headed_dwarf_gecko.jpg with shed tail]] Some species try to bite immediately. Some will use their heads as sledgehammers and literally smash an opponent, some will rush or swim toward the threat from a distance, even chasing the opponent onto land or galloping after it.[162] The main weapon in all crocodiles is the bite, which can generate very high bite force. Many species also possess canine-like teeth. These are used primarily for seizing prey, but are also used in fighting and display.[163]
+When a crocodilian is concerned about its safety, it will gape to expose the teeth and yellow tongue. If this doesn't work, the crocodilian gets a little more agitated and typically begins to make hissing sounds. After this, the crocodilian will start to change its posture dramatically to make itself look more intimidating. The body is inflated to increase apparent size. If absolutely necessary it may decide to attack an enemy. with shed tail]] Some species try to bite immediately. Some will use their heads as sledgehammers and literally smash an opponent, some will rush or swim toward the threat from a distance, even chasing the opponent onto land or galloping after it.[162] The main weapon in all crocodiles is the bite, which can generate very high bite force. Many species also possess canine-like teeth. These are used primarily for seizing prey, but are also used in fighting and display.[163]
 
 Shedding and regenerating tails
 
@@ -287,7 +284,7 @@ Relations with humans
 
 In cultures and religions
 
-Laelaps-Charles_Knight-1897.jpg'') by Charles R. Knight]] Dinosaurs have been widely depicted in culture since the English palaeontologist Richard Owen coined the name _dinosaur_ in 1842. As soon as 1854, the Crystal Palace Dinosaurs were on display to the public in south London.[167][168] One dinosaur appeared in literature even earlier, as Charles Dickens placed a _Megalosaurus_ in the first chapter of his novel _Bleak House_ in 1852.[169] The dinosaurs featured in books, films, television programs, artwork, and other media have been used for both education and entertainment. The depictions range from the realistic, as in the television documentaries of the 1990s and first decade of the 21st century, or the fantastic, as in the monster movies of the 1950s and 1960s.[170][171][172]
+'') by Charles R. Knight]] Dinosaurs have been widely depicted in culture since the English palaeontologist Richard Owen coined the name _dinosaur_ in 1842. As soon as 1854, the Crystal Palace Dinosaurs were on display to the public in south London.[167][168] One dinosaur appeared in literature even earlier, as Charles Dickens placed a _Megalosaurus_ in the first chapter of his novel _Bleak House_ in 1852.[169] The dinosaurs featured in books, films, television programs, artwork, and other media have been used for both education and entertainment. The depictions range from the realistic, as in the television documentaries of the 1990s and first decade of the 21st century, or the fantastic, as in the monster movies of the 1950s and 1960s.[170][171][172]
 
 The snake or serpent has played a powerful symbolic role in different cultures. In Egyptian history, the Nile cobra adorned the crown of the pharaoh. It was worshipped as one of the gods and was also used for sinister purposes: murder of an adversary and ritual suicide (Cleopatra). In Greek mythology snakes are associated with deadly antagonists, as a chthonic symbol, roughly translated as _earthbound_. The nine-headed Lernaean Hydra that Hercules defeated and the three Gorgon sisters are children of Gaia, the earth. Medusa was one of the three Gorgon sisters who Perseus defeated. Medusa is described as a hideous mortal, with snakes instead of hair and the power to turn men to stone with her gaze. After killing her, Perseus gave her head to Athena who fixed it to her shield called the Aegis. The Titans are depicted in art with their legs replaced by bodies of snakes for the same reason: They are children of Gaia, so they are bound to the earth.[173] In Hinduism, snakes are worshipped as gods, with many women pouring milk on snake pits. The cobra is seen on the neck of Shiva, while Vishnu is depicted often as sleeping on a seven-headed snake or within the coils of a serpent. There are temples in India solely for cobras sometimes called _Nagraj_ (King of Snakes), and it is believed that snakes are symbols of fertility. In the annual Hindu festival of Nag Panchami, snakes are venerated and prayed to.[174] In religious terms, the snake and jaguar are arguably the most important animals in ancient Mesoamerica. "In states of ecstasy, lords dance a serpent dance; great descending snakes adorn and support buildings from Chichen Itza to Tenochtitlan, and the Nahuatl word _coatl_ meaning serpent or twin, forms part of primary deities such as Mixcoatl, Quetzalcoatl, and Coatlicue."[175] In Christianity and Judaism, a serpent appears in Genesis to tempt Adam and Eve with the forbidden fruit from the Tree of Knowledge of Good and Evil.[176]
 
@@ -295,7 +292,7 @@ The turtle has a prominent position as a symbol of steadfastness and tranquility
 
 Medicine
 
-Rod_of_Asclepius2.svg symbolizes medicine]]
+symbolizes medicine]]
 
 Deaths from snakebites are uncommon in many parts of the world, but are still counted in tens of thousands per year in India.[180] Snakebite can be treated with antivenom made from the venom of the snake. To produce antivenom, a mixture of the venoms of different species of snake is injected into the body of a horse in ever-increasing dosages until the horse is immunized. Blood is then extracted; the serum is separated, purified and freeze-dried.[181] The cytotoxic effect of snake venom is being researched as a potential treatment for cancers.[182]
 

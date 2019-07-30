@@ -1,4 +1,4 @@
-LocationKazakhstan.png]]
+]]
 
 Kazakhstan, the largest country fully within the Eurasian Steppe, has been a historical "crossroads" and home to numerous different peoples, states and empires throughout history.
 
@@ -22,14 +22,14 @@ In the 13th century Kazakhstan was under the dominion of the Mongol Empire, and 
 
 Prehistory
 
-Kazakh_genesis_Ismagulov.jpg data[7]]]
+data[7]]]
 
 Humans have inhabited Kazakhstan since the Lower Paleolithic, generally pursuing the nomadic pastoralism for which the region's climate and terrain are suitable.[8] Prehistoric Bronze Age cultures which extended into the region include the Srubna, the Afanasevo, and the Andronovo. Between 500 BC and 500 AD Kazakhstan was home to the Saka and the Huns, early nomadic warrior cultures.
 
 
 First to eighth centuries
 
-Hsiung-nu-Empire-max.png's influence in the 2nd century BC.]]
+'s influence in the 2nd century BC.]]
 
 At the beginning of the first millennium, the steppes east of the Caspian were inhabited and settled by a variety of peoples, mainly nomads speaking Indo-European and Uralic languages, including the Alans, Aorsi, Budini, Issedones/Wusun, Madjars, Massagetae, and Sakas. The names, relations between and constituents of these peoples were sometimes fluid and interchangeable. Some of them formed states, including Yancai (northwest of the Aral Sea) and Kangju in the east. Over the course of several centuries, the area became dominated by Turkic and other exogenous languages, which arrived with nomad invaders and settlers from the east.
 
@@ -39,13 +39,13 @@ For a few centuries, events in the future Kazakhstan are unclear and frequently 
 
 From the middle of the 2nd Century, the Yueban – an offshoot of the Xiongnu and therefore possibly connected to the Huns – established a state in far eastern Kazakhstan.
 
-Issyk_Golden_Cataphract_Warrior.jpg-style parade armor of a royal Saka from the Issyk kurgan.]]
+-style parade armor of a royal Saka from the Issyk kurgan.]]
 
 Over the next few centuries, peoples such as the Akatziri, Avars (known later as the Pannonian Avars; not to be confused with the Avars of the Caucasus), Sabirs and Bulgars migrated through the area and into the Caucasus and Eastern Europe.
 
 By the beginning of the 6th Century, the proto-Mongolian Rouran Khaganate had annexed areas that were later part of the east Kazakhstan.
 
-First_Turk_Khaganate(600).PNG in 570]]
+in 570]]
 
 The Göktürks, a Turkic people formerly subject to the Rouran, migrated westward, pushing the remnants of the Huns west and southward. By the mid-6th Century, the Central Eurasian steppes had become controlled by the Turkic Khaganate, also known as the GÖKTÜRK KHAGANATE. A few decades later, a civil war resulted in the khaganate being split, and establishment of the Western Turkic Khaganate, under the Onogur tribes and Eastern Turkic Khaganate (under the Göktürks). In 659, the Western Turkic Khaganate was ended by the Tang Empire. Towards the end of the 7th Century, the two states were reunited in the Second Turkic Khaganate. However, the khaganate began to fragment only a few generations later.
 
@@ -54,7 +54,7 @@ In 766, the Oghuz Yabgu State (_Oguz il_) was founded, with its capital in Janke
 
 Eighth to 15th centuries
 
-In the eighth and ninth centuries, portions of southern Kazakhstan were conquered by Arabs who introduced Islam. The Oghuz Turks controlled western Kazakhstan from the ninth through the 11th centuries; the Kimak and Kipchak peoples, also of Turkic origin, controlled the east at roughly the same time. In turn the Cumans controlled western Kazakhstan from around the 12th century until the 1220s. The large central desert of Kazakhstan is still called Dashti-Kipchak, or the Kipchak Steppe.[9] Cumania_(1200)_eng.png in Eurasia circa 1200]]
+In the eighth and ninth centuries, portions of southern Kazakhstan were conquered by Arabs who introduced Islam. The Oghuz Turks controlled western Kazakhstan from the ninth through the 11th centuries; the Kimak and Kipchak peoples, also of Turkic origin, controlled the east at roughly the same time. In turn the Cumans controlled western Kazakhstan from around the 12th century until the 1220s. The large central desert of Kazakhstan is still called Dashti-Kipchak, or the Kipchak Steppe.[9] in Eurasia circa 1200]]
 
 During the ninth century the Qarluq confederation formed the Qarakhanid state, which conquered Transoxiana (the area north and east of the Oxus River, the present-day Amu Darya). Beginning in the early 11th century, the Qarakhanids fought constantly among themselves and with the Seljuk Turks to the south. The Qarakhanids, who had converted to Islam, were conquered in the 1130s by the Kara-Khitan (a Mongol people who moved west from North China. In the mid-12th century an independent state of Khorazm along the Oxus River broke away from the weakening Karakitai, but the bulk of the Kara-Khitan lasted until the Mongol invasion of Genghis Khan from 1219 to 1221.[10]
 
@@ -72,7 +72,7 @@ The Kazakh Khanate did not always have a unified government. The Kazakhs were tr
 
 Russian Empire (1731–1917)
 
-Qianlong_Horse.jpg envoys give a white horse to the Qianlong Emperor of China (1757), soon after the Qing expelled the Mongols from Xinjiang. Soon trade began in Yining and Tacheng of Kazakh horses, sheep and goats for Chinese silk and cotton fabrics.[12]]] Russian traders and soldiers began to appear on the northwestern edge of Kazakh territory in the 17th century, when Cossacks established forts which later became the cities of Yaitsk (modern Oral) and Guryev (modern Atyrau). The Russians were able to seize Kazakh territory because the khanates were preoccupied by the Zunghar Oirats, who began to move into the region from the east in the late 16th century. Forced westward, the Kazakhs were caught between the Kalmyks and the Russians.
+envoys give a white horse to the Qianlong Emperor of China (1757), soon after the Qing expelled the Mongols from Xinjiang. Soon trade began in Yining and Tacheng of Kazakh horses, sheep and goats for Chinese silk and cotton fabrics.[12]]] Russian traders and soldiers began to appear on the northwestern edge of Kazakh territory in the 17th century, when Cossacks established forts which later became the cities of Yaitsk (modern Oral) and Guryev (modern Atyrau). The Russians were able to seize Kazakh territory because the khanates were preoccupied by the Zunghar Oirats, who began to move into the region from the east in the late 16th century. Forced westward, the Kazakhs were caught between the Kalmyks and the Russians.
 
 Two Kazakh hordes depended on the Oirat Huntaiji. In 1730 Abul Khayr, a khan of the Lesser Horde, sought Russian assistance. Although Khayr's intent was to form a temporary alliance against the stronger Kalmyks, the Russians gained control of the Lesser Horde. They conquered the Middle Horde by 1798, but the Great Horde remained independent until the 1820s (when the expanding Kokand khanate to the south forced the Great Horde khans to accept Russian protection, which seemed to them the lesser of two evils).
 
@@ -80,7 +80,7 @@ The Russian Empire started to integrate the Kazakh steppe. Between 1822 and 1848
 
 Nineteenth-century colonization of Kazakhstan by Russia was slowed by rebellions and wars, such as uprisings led by Isatay Taymanuly and Makhambet Utemisuly from 1836 to 1838 and the war led by Eset Kotibaruli from 1847 to 1858. In 1863, the Russian Empire announced a new policy asserting the right to annex troublesome areas on its borders. This led immediately to the conquest of the remainder of Central Asia and the creation of two administrative districts: the _General-Gubernatorstvo_ (Governor-Generalships) of Russian Turkestan and the Steppes. Most of present-day Kazakhstan, including Almaty (Verny), was in the latter district.[14]
 
-Asia_Centrala_-_Expansion_russa_de_1725_a_1914.png]] During the nineteenth century, Kazakhs had remarkable numeracy level, which increased from approximately 72% in 1820 to approximately 88% in 1880. In the first part of the century, Kazakhs were even more numerate than Russians were. However, in that century, Russia conquered many countries and experienced a human capital revolution, which led to a higher numeracy afterwards. Nevertheless, the numeracy of Kazakhs was still higher than other Central Asian nations, which are nowadays referred to as Kyrgyzstan, Turkmenistan and Uzbekistan. There could be several reasons for this striking early numeracy level. First and foremost, the settler share could explain part of this, albeit Russians were a minority in the Kazakh steppe. Secondly, the relatively good nutritional situation in Kazakhstan. Protein malnutrition that plagued many other populations of Central Asian nations was absent in Kazakhstan. Moreover, Russian settlers of the 1870s and 1880s might have simulated so-called contact learning. Kazakhs started to invest more in human capital because they observed that Russians were successful in that area.[15]
+]] During the nineteenth century, Kazakhs had remarkable numeracy level, which increased from approximately 72% in 1820 to approximately 88% in 1880. In the first part of the century, Kazakhs were even more numerate than Russians were. However, in that century, Russia conquered many countries and experienced a human capital revolution, which led to a higher numeracy afterwards. Nevertheless, the numeracy of Kazakhs was still higher than other Central Asian nations, which are nowadays referred to as Kyrgyzstan, Turkmenistan and Uzbekistan. There could be several reasons for this striking early numeracy level. First and foremost, the settler share could explain part of this, albeit Russians were a minority in the Kazakh steppe. Secondly, the relatively good nutritional situation in Kazakhstan. Protein malnutrition that plagued many other populations of Central Asian nations was absent in Kazakhstan. Moreover, Russian settlers of the 1870s and 1880s might have simulated so-called contact learning. Kazakhs started to invest more in human capital because they observed that Russians were successful in that area.[15]
 
 During the early 19th century, the Russian forts began to limit the area over which the nomadic tribes could drive their herds and flocks. The final disruption of nomadism began in the 1890s, when many Russian settlers were introduced into the fertile lands of northern and eastern Kazakhstan.[16]
 
@@ -106,7 +106,7 @@ From 1929 to 1934, when Joseph Stalin was trying to collectivize agriculture, Ka
 
 Alzhir
 
-Entrance_of_Alzhir.jpg NKVD Order 00486 of 15 August 1937 marked the beginning of mass repression against _CHSIR: family members of traitors_. The order gave the right to arrest without evidence of guilt, and sent women political prisoners to the camps for the first time. In a few months, female "traitors" were arrested and sentenced from five to eight years in prison.[24] More than 18,000 women were arrested, and about 8,000 served time in Alzhir. They included the wives of statesmen, politicians and public figures in the former Soviet Union. After the closure of the prisons in 1953, it was reported that 1,507 of the women gave birth as a result of being raped by the guards.[25]
+NKVD Order 00486 of 15 August 1937 marked the beginning of mass repression against _CHSIR: family members of traitors_. The order gave the right to arrest without evidence of guilt, and sent women political prisoners to the camps for the first time. In a few months, female "traitors" were arrested and sentenced from five to eight years in prison.[24] More than 18,000 women were arrested, and about 8,000 served time in Alzhir. They included the wives of statesmen, politicians and public figures in the former Soviet Union. After the closure of the prisons in 1953, it was reported that 1,507 of the women gave birth as a result of being raped by the guards.[25]
 
 Many Soviet citizens from the westward regions of the country and a great deal of soviet industry was relocated to the Kazakh SSR during World War II, when Nazi armies threatened to capture westward Soviet industrial centres. Groups of Crimean Tatars, Germans, and Muslims from the North Caucasus were deported to the Kazakh SSR during the war because it was feared that they would collaborate with the Germans. Many Poles from eastern Poland were deported to the Kazakh SSR, and local people shared their food with the new arrivals.[26]
 
@@ -117,7 +117,7 @@ The Kazakh SSR played industrial and agricultural roles in the centrally-control
 
 Republic of Kazakhstan (1991–present)
 
-Stamps_of_Kazakhstan,_2012-01.jpg (1964–1986)]] On 16 December 1986, the Soviet Politburo dismissed longtime General Secretary of the Communist Party of Kazakhstan Dinmukhamed Konayev. His successor was the non-Kazakh Gennady Kolbin from Ulyanovsk, Russia, which triggered demonstrations protesting the move. The protests were violently suppressed by the authorities, and "between two and twenty people lost their lives, and between 763 and 1137 received injuries. Between 2,212 and 2,336 demonstrators were arrested".[29] When Kolbin prepared to purge the Communist Youth League he was halted by Moscow, and in September 1989 he was replaced with the Kazakh Nursultan Nazarbayev.
+(1964–1986)]] On 16 December 1986, the Soviet Politburo dismissed longtime General Secretary of the Communist Party of Kazakhstan Dinmukhamed Konayev. His successor was the non-Kazakh Gennady Kolbin from Ulyanovsk, Russia, which triggered demonstrations protesting the move. The protests were violently suppressed by the authorities, and "between two and twenty people lost their lives, and between 763 and 1137 received injuries. Between 2,212 and 2,336 demonstrators were arrested".[29] When Kolbin prepared to purge the Communist Youth League he was halted by Moscow, and in September 1989 he was replaced with the Kazakh Nursultan Nazarbayev.
 
 In June 1990 Moscow declared the sovereignty of the central government over Kazakhstan, forcing Kazakhstan to make its own statement of sovereignty. The exchange exacerbated tensions between the republic's two largest ethnic groups, who at that point were numerically about equal. In mid-August, Kazakh and Russian nationalists began to demonstrate around Kazakhstan's parliament building in an attempt to influence the final statement of sovereignty being drafted; the statement was adopted in October.
 
@@ -131,7 +131,7 @@ Because of the August 1991 Soviet coup d'état attempt against Gorbachev, the un
 
 At the same time, Nazarbayev began preparing Kazakhstan for greater freedom or outright independence. He appointed professional economists and managers to high positions, and sought advice from foreign development and business experts. The outlawing of the Communist Party of Kazakhstan (CPK) which followed the attempted coup permitted Nazarbayev to take nearly complete control of the republic's economy, more than 90 percent of which had been under the partial (or complete) direction of the Soviet government until late 1991. He solidified his position by winning an uncontested election for president in December 1991.
 
-RIAN_archive_41059_CIS_heads_of_state.jpg, December 1991.]] A week after the election, Nazarbayev became the president of an independent state when the leaders of Russia, Ukraine and Belarus signed documents dissolving the Soviet Union. He quickly convened a meeting of the leaders of the five Central Asian states (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan), raising the possibility of a Turkic confederation of former republics as a counterweight to the Slavic states of Russia, Ukraine, and Belarus in whatever federation might succeed the Soviet Union. This move persuaded the three Slavic presidents to include Kazakhstan among the signatories of a recast document of dissolution. Kazakhstan's capital lent its name to the Alma-Ata Protocol, the declaration of principles of the Commonwealth of Independent States. On 16 December 1991, five days before the declaration, Kazakhstan became the last of the republics to proclaim its independence.
+, December 1991.]] A week after the election, Nazarbayev became the president of an independent state when the leaders of Russia, Ukraine and Belarus signed documents dissolving the Soviet Union. He quickly convened a meeting of the leaders of the five Central Asian states (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan), raising the possibility of a Turkic confederation of former republics as a counterweight to the Slavic states of Russia, Ukraine, and Belarus in whatever federation might succeed the Soviet Union. This move persuaded the three Slavic presidents to include Kazakhstan among the signatories of a recast document of dissolution. Kazakhstan's capital lent its name to the Alma-Ata Protocol, the declaration of principles of the Commonwealth of Independent States. On 16 December 1991, five days before the declaration, Kazakhstan became the last of the republics to proclaim its independence.
 
 The republic has followed the same general political pattern as the other four Central Asian states. After declaring its independence from a political structure dominated by Moscow and the Communist Party of the Soviet Union (CPSU) until 1991, Kazakhstan retained the governmental structure and most of the leadership which had held power in 1990. Nazarbayev, elected president of the republic in 1991, remained in undisputed power five years later.
 
@@ -139,7 +139,7 @@ He took several steps to ensure his position. The constitution of 1993 made the 
 
 Relationship with Russia
 
-Stamps_of_Kazakhstan,_2013-47.jpg, Nursultan Nazarbayev and Dmitry Medvedev]] During the mid-1990s, although Russia remained the most important sponsor of Kazakhstan in economic and national security matters Nazarbayev supported the strengthening of the CIS. As sensitive ethnic, national-security and economic issues cooled relations with Russia during the decade, Nazarbayev cultivated relations with China, the other Central Asian nations, and the West; however, Kazakhstan remains principally dependent on Russia. The Baikonur Cosmodrome, built during the 1950s for the Soviet space program, is near Tyuratam and the city of Baikonur was built to accommodate the spaceport.
+, Nursultan Nazarbayev and Dmitry Medvedev]] During the mid-1990s, although Russia remained the most important sponsor of Kazakhstan in economic and national security matters Nazarbayev supported the strengthening of the CIS. As sensitive ethnic, national-security and economic issues cooled relations with Russia during the decade, Nazarbayev cultivated relations with China, the other Central Asian nations, and the West; however, Kazakhstan remains principally dependent on Russia. The Baikonur Cosmodrome, built during the 1950s for the Soviet space program, is near Tyuratam and the city of Baikonur was built to accommodate the spaceport.
 
 Relationship with the U.S.
 

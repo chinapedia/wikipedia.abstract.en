@@ -19,8 +19,6 @@ Bengal Technical Institute
 
 Almost on the same day that the National Council of Education was set up, a rival organisation, the Society for Promotion of Technical Education in Bengal, was set up by Taraknath Palit.[5] The Bengal Technical Institute came into being on 25 July 1906 under the umbrella of the SPTE, with the objective of spreading technical education among the masses in West Bengal, one of the eastern region states of India. However, by 1910 there was a merger of the two rival institutes. The Bengal Technical Institute came under the National Council of Education.
 
-Jadavpur_University_Logo.jpg
-
 
 Emblem
 
@@ -33,7 +31,7 @@ Jadavpur University is semi-residential, which at present operates out of two ur
 
 National Instruments Limited Campus
 
-Jadavpur_University_National_Instruments_Campus.jpg Jadavpur University has recently acquired the erstwhile National Instruments Limited (CSIR), becoming the first Indian university to acquire such a research unit. It is on a nine-acre plot opposite the main campus. After renovation, the new campus is expected to add much-needed space for new laboratories especially for the Departments of Electrical Engineering, Electronics and Telecommunication Engineering, and Computer Science & Engineering. The NIL campus is to be connected to the main campus by an underground tunnel to bypass the traffic on the busy Raja S.C. Mullick Road. In 2013, Defence Research & Development Organisation (DRDO) announced plans to set up one of the country's biggest state-of-the-art research hubs and Advanced Technology Centre at the NIL campus. In the same year, CSIR announced the setting up of a research centre for big data analytics and an Inverted Innovation Centre alongside the research hub already announced by DRDO.[7]
+Jadavpur University has recently acquired the erstwhile National Instruments Limited (CSIR), becoming the first Indian university to acquire such a research unit. It is on a nine-acre plot opposite the main campus. After renovation, the new campus is expected to add much-needed space for new laboratories especially for the Departments of Electrical Engineering, Electronics and Telecommunication Engineering, and Computer Science & Engineering. The NIL campus is to be connected to the main campus by an underground tunnel to bypass the traffic on the busy Raja S.C. Mullick Road. In 2013, Defence Research & Development Organisation (DRDO) announced plans to set up one of the country's biggest state-of-the-art research hubs and Advanced Technology Centre at the NIL campus. In the same year, CSIR announced the setting up of a research centre for big data analytics and an Inverted Innovation Centre alongside the research hub already announced by DRDO.[7]
 
 Affiliated institutes
 
@@ -48,7 +46,7 @@ The _National Institutional Ranking Framework_ has ranked it 12 among engineerin
 
 Press and publication house
 
-Jadavpur_University_Press.jpg The university press publishes all documents of record in the university including PhD theses, question papers and journals. On 26 October 2010 the institution announced plans to launch a publication house, named Jadavpur University Press. The main focus of the publication house will be to publish textbooks and thesis written by research scholars and authors from all universities. The first two titles of JUP were launched on 1 February 2012 at the Calcutta Book Fair. The two titles were _Rajpurush_ (translation of Niccolò Machiavelli's _Il Principe_); translated by Doyeeta Majumder, with an introduction by Swapan Kumar Chakravorty, and _Shilpachinta_ (translation of selections from Leonardo da Vinci's notebooks); translated by Sukanta Chaudhuri. Both books were translated from the original Italian.[20]
+The university press publishes all documents of record in the university including PhD theses, question papers and journals. On 26 October 2010 the institution announced plans to launch a publication house, named Jadavpur University Press. The main focus of the publication house will be to publish textbooks and thesis written by research scholars and authors from all universities. The first two titles of JUP were launched on 1 February 2012 at the Calcutta Book Fair. The two titles were _Rajpurush_ (translation of Niccolò Machiavelli's _Il Principe_); translated by Doyeeta Majumder, with an introduction by Swapan Kumar Chakravorty, and _Shilpachinta_ (translation of selections from Leonardo da Vinci's notebooks); translated by Sukanta Chaudhuri. Both books were translated from the original Italian.[20]
 
 Affiliated Schools
 

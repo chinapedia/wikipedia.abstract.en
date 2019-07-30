@@ -24,8 +24,6 @@ In English, the letter in isolation before a noun, usually capitalized, marks th
 
 Other languages
 
-Pronunciation_of_the_name_of_the_letter_⟨o⟩_in_European_languages.png
-
 is commonly associated with the open-mid back rounded vowel , mid back rounded vowel or close-mid back rounded vowel in many languages. Other languages use for various values, usually back vowels which are at least partly open. Derived letters such as and have been created for the alphabets of some languages to distinguish values that were not present in Latin and Greek, particularly rounded front vowels.
 
 Other systems

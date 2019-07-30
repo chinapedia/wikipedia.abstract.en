@@ -3,7 +3,7 @@ The DEMOGRAPHICS OF MOZAMBIQUE describes the condition and overview of Mozambiqu
 
 Population
 
-Mozambique-demography.png, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 6 442 000 in 1950. The proportion of children below the age of 15 in 2010 was 44.1%, 52.6% was between 15 and 65 years of age, while 3.3% was 65 years or older .[1] A population census took place in 2017, and the preliminary results indicate a population of 28 861 863 inhabitants.[2]
+, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 6 442 000 in 1950. The proportion of children below the age of 15 in 2010 was 44.1%, 52.6% was between 15 and 65 years of age, while 3.3% was 65 years or older .[1] A population census took place in 2017, and the preliminary results indicate a population of 28 861 863 inhabitants.[2]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------ -------------------------- --------------------------- -------------------------
@@ -145,8 +145,6 @@ Population
     27,233,789 (July 2018 est.)
 
 Age structure
-
-Mozambiquepop.svg
 
     _0-14 years:_ 44.52% (male 6,097,116 /female 6,028,416)
     _15-24 years:_ 21.6% (male 2,905,254 /female 2,977,732)

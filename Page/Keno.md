@@ -1,4 +1,4 @@
-Veikkaus_Keno.jpg KENO is a lottery-like gambling game often played at modern casinos, and also offered as a game by some lotteries.
+KENO is a lottery-like gambling game often played at modern casinos, and also offered as a game by some lotteries.
 
 Players wager by choosing numbers ranging from 1 through (usually) 80. After all players make their wagers, 20 numbers (some variants draw fewer numbers) are drawn at random, either with a ball machine similar to ones used for lotteries and bingo, or with a random number generator.
 

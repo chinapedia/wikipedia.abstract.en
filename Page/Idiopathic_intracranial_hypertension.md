@@ -38,7 +38,7 @@ The third theory suggests that restricted venous drainage from the brain may be 
 
 Diagnosis
 
-UOTW_5_-_Ultrasound_of_the_Week_1.jpg [[File:UOTW 5 - Ultrasound of the Week 2.jpg|thumb|upright=1.3|Ultrasound of the optic nerve showing IIH[36]
+[[File:UOTW 5 - Ultrasound of the Week 2.jpg|thumb|upright=1.3|Ultrasound of the optic nerve showing IIH[36]
 
 ]] The diagnosis may be suspected on the basis of the history and examination. To confirm the diagnosis, as well as excluding alternative causes, several investigations are required; more investigations may be performed if the history is not typical or the person is more likely to have an alternative problem: children, men, the elderly, or women who are not overweight.[37]
 
@@ -85,7 +85,7 @@ The primary goal in treatment of IIH is the prevention of visual loss and blindn
 
 Lumbar puncture
 
-Wikipedian_getting_a_lumbar_puncture_(2006).jpg in progress. A large area on the back has been washed with an iodine-based disinfectant leaving brown colouration. In this image the person is seated upright, which can make the procedure easier to perform but makes any measurement of the opening pressure unreliable.]] The first step in symptom control is drainage of cerebrospinal fluid by lumbar puncture. If necessary, this may be performed at the same time as a diagnostic LP (such as done in search of a CSF infection). In some cases, this is sufficient to control the symptoms, and no further treatment is needed.[58][59]
+in progress. A large area on the back has been washed with an iodine-based disinfectant leaving brown colouration. In this image the person is seated upright, which can make the procedure easier to perform but makes any measurement of the opening pressure unreliable.]] The first step in symptom control is drainage of cerebrospinal fluid by lumbar puncture. If necessary, this may be performed at the same time as a diagnostic LP (such as done in search of a CSF infection). In some cases, this is sufficient to control the symptoms, and no further treatment is needed.[58][59]
 
 The procedure can be repeated if necessary, but this is generally taken as a clue that additional treatments may be required to control the symptoms and preserve vision. Repeated lumbar punctures are regarded as unpleasant by people, and they present a danger of introducing spinal infections if done too often.[60][61] Repeated lumbar punctures are sometimes needed to control the ICP urgently if the person's vision deteriorates rapidly.[62]
 

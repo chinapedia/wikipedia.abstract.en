@@ -19,7 +19,7 @@ Agatho also undertook negotiations between the Holy See and Constantine IV conce
 
 Veneration
 
-Pope_Agatho_(Menologion_of_Basil_II).jpg (c. 1000 AD)]] Anastatius says, that the number of his miracles procured him the title of Thaumaturgus. He died in 681, having held the pontificate about two years.[9] He is venerated as a saint by both atholics and Eastern Orthodox.[10] His feast day in Western Christianity is on 10 January.[11] Eastern Christians, including Eastern Orthodox and the Eastern Catholic Churches, commemorate him on 20 February.[12]
+(c. 1000 AD)]] Anastatius says, that the number of his miracles procured him the title of Thaumaturgus. He died in 681, having held the pontificate about two years.[9] He is venerated as a saint by both atholics and Eastern Orthodox.[10] His feast day in Western Christianity is on 10 January.[11] Eastern Christians, including Eastern Orthodox and the Eastern Catholic Churches, commemorate him on 20 February.[12]
 
 
 References

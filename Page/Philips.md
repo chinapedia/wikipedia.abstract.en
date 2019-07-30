@@ -1,4 +1,4 @@
-Philipsfabriekje.jpg KONINKLIJKE PHILIPS N.V. (literally _Royal Philips_, stylized as PHILIPS) is a Dutch multinational conglomerate corporation headquartered in Amsterdam, one of the largest electronics companies in the world, currently focused in the area of healthcare and lighting. It was founded in Eindhoven in 1891 by Gerard Philips and his father Frederik, with their first products being light bulbs. It was once one of the largest electronic conglomerates in the world and currently employs around 74,000 people across 100 countries.[1] The company gained its royal honorary title in 1998 and dropped the "Electronics" in its name in 2013.[2]
+KONINKLIJKE PHILIPS N.V. (literally _Royal Philips_, stylized as PHILIPS) is a Dutch multinational conglomerate corporation headquartered in Amsterdam, one of the largest electronics companies in the world, currently focused in the area of healthcare and lighting. It was founded in Eindhoven in 1891 by Gerard Philips and his father Frederik, with their first products being light bulbs. It was once one of the largest electronic conglomerates in the world and currently employs around 74,000 people across 100 countries.[1] The company gained its royal honorary title in 1998 and dropped the "Electronics" in its name in 2013.[2]
 
 Philips is organized into two main divisions: Philips Consumer Health and Well-being (formerly Philips Consumer Electronics and Philips Domestic Appliances and Personal Care) and Philips Professional Healthcare (formerly Philips Medical Systems). The lighting division was spun off as a separate company, Signify N.V. (formerly Philips Lighting prior to 2018). The company started making electric shavers in 1939 under the Philishave brand, and post-war they developed the Compact Cassette format and co-developed the Compact Disc format with Sony, as well as numerous other technologies. As of 2012, Philips was the largest manufacturer of lighting in the world as measured by applicable revenues.
 
@@ -7,7 +7,7 @@ Philips has a primary listing on the Euronext Amsterdam stock exchange and is a 
 
 History
 
-Gerard_philips.jpg ]] Philips_Gloeilampenfabrieken_1928.JPG The Philips Company was founded in 1891, by Gerard Philips and his father Frederik Philips. Frederik, a banker based in Zaltbommel, financed the purchase and setup of an empty factory building in Eindhoven, where the company started the production of carbon-filament lamps and other electro-technical products in 1892. This first factory has been adapted and is used as a museum.[4]
+]] The Philips Company was founded in 1891, by Gerard Philips and his father Frederik Philips. Frederik, a banker based in Zaltbommel, financed the purchase and setup of an empty factory building in Eindhoven, where the company started the production of carbon-filament lamps and other electro-technical products in 1892. This first factory has been adapted and is used as a museum.[4]
 
 In 1895, after a difficult first few years and near bankruptcy, the Philipses brought in Anton, Gerard's younger brother by sixteen years. Though he had earned a degree in engineering, Anton started work as a sales representative; soon, however, he began to contribute many important business ideas. With Anton's arrival, the family business began to expand rapidly, resulting in the founding of Philips Metaalgloeilampfabriek N.V. (Philips Metal Filament Lamp Factory Ltd.) in Eindhoven in 1908, followed in 1912, by the foundation of Philips Gloeilampenfabrieken N.V. (Philips Lightbulb Factories Ltd.). After Gerard and Anton Philips changed their family business by founding the Philips corporation, they laid the foundations for the later electronics multinational.
 
@@ -15,7 +15,7 @@ In the 1920s, the company started to manufacture other products, such as vacuum 
 
 Philips Radio
 
-Philips_930.jpg On 11 March 1927, Philips went on the air with shortwave radio station PCJJ (later PCJ) which was joined in 1929 by sister station PHOHI (Philips Omroep Holland-Indië). PHOHI broadcast in Dutch to the Dutch East Indies (now Indonesia) while PCJJ broadcast in English, Spanish and German to the rest of the world.
+On 11 March 1927, Philips went on the air with shortwave radio station PCJJ (later PCJ) which was joined in 1929 by sister station PHOHI (Philips Omroep Holland-Indië). PHOHI broadcast in Dutch to the Dutch East Indies (now Indonesia) while PCJJ broadcast in English, Spanish and German to the rest of the world.
 
 The international program on Sundays commenced in 1928, with host Eddie Startz hosting the _Happy Station_ show, which became the world's longest-running shortwave program. Broadcasts from the Netherlands were interrupted by the German invasion in May 1940. The Germans commandeered the transmitters in Huizen to use for pro-Nazi broadcasts, some originating from Germany, others concerts from Dutch broadcasters under German control.
 
@@ -43,15 +43,15 @@ Frits Philips, the son of Anton, was the only Philips family member to stay in t
 
 1945–1999
 
-After the war, the company was moved back to the Netherlands, with their headquarters in Eindhoven. Lichttoren_Eindhoven_1.JPG Eindhoven_Evoluon_03.jpg in Eindhoven, opened in 1966]] In 1949, the company began selling television sets.[16] In 1950, it formed Philips Records, which eventually formed part of PolyGram.
+After the war, the company was moved back to the Netherlands, with their headquarters in Eindhoven. in Eindhoven, opened in 1966]] In 1949, the company began selling television sets.[16] In 1950, it formed Philips Records, which eventually formed part of PolyGram.
 
 Philips introduced the audio Compact Audio Cassette tape in 1963, and it was wildly successful. Compact cassettes were initially used for dictation machines for office typing stenographers and professional journalists. As their sound quality improved, cassettes would also be used to record sound and became the second mass media alongside vinyl records used to sell recorded music.
 
-PHILIPS_D6350.jpg Philips introduced the first combination portable radio and cassette recorder, which was marketed as the "radiorecorder", and is now better known as the boom box. Later, the cassette was used in telephone answering machines, including a special form of cassette where the tape was wound on an endless loop. The C-cassette was used as the first mass storage device for early personal computers in the 1970s and 1980s. Philips reduced the cassette size for the professional needs with the Mini-Cassette, although it would not be as successful as the Olympus Microcassette. This became the predominant dictation medium up to the advent of fully digital dictation machines. Philips continued with computers through the early 1990s (see separate article: Philips Computers).
+Philips introduced the first combination portable radio and cassette recorder, which was marketed as the "radiorecorder", and is now better known as the boom box. Later, the cassette was used in telephone answering machines, including a special form of cassette where the tape was wound on an endless loop. The C-cassette was used as the first mass storage device for early personal computers in the 1970s and 1980s. Philips reduced the cassette size for the professional needs with the Mini-Cassette, although it would not be as successful as the Olympus Microcassette. This became the predominant dictation medium up to the advent of fully digital dictation machines. Philips continued with computers through the early 1990s (see separate article: Philips Computers).
 
 In 1972, Philips launched the world's first home video cassette recorder, in the UK, the N1500. Its relatively bulky video cassettes could record 30 minutes or 45 minutes. Later one-hour tapes were also offered. As competition came from Sony's Betamax and the VHS group of manufacturers, Philips introduced the N1700 system which allowed double-length recording. For the first time, a 2-hour movie could fit onto one video cassette. In 1977, the company unveiled a special promotional film for this system in the UK, featuring comedian Denis Norden.[17] The concept was quickly copied by the Japanese makers, whose tapes were significantly cheaper. Philips made one last attempt at a new standard for video recorders with the Video 2000 system, with tapes that could be used on both sides and had 8 hours of total recording time. As Philips only sold its systems on the PAL standard and in Europe, and the Japanese makers sold globally, the scale advantages of the Japanese proved insurmountable and Philips withdrew the V2000 system and joined the VHS Coalition.
 
-Philips_CD-100.JPG)]] Philips had developed a LaserDisc early on for selling movies, but delayed its commercial launch for fear of cannibalizing its video recorder sales. Later Philips joined with MCA to launch the first commercial LaserDisc standard and players. In 1982, Philips teamed with Sony to launch the Compact Disc; this format evolved into the CD-R, CD-RW, DVD and later Blu-ray, which Philips launched with Sony in 1997 and 2006 respectively.
+)]] Philips had developed a LaserDisc early on for selling movies, but delayed its commercial launch for fear of cannibalizing its video recorder sales. Later Philips joined with MCA to launch the first commercial LaserDisc standard and players. In 1982, Philips teamed with Sony to launch the Compact Disc; this format evolved into the CD-R, CD-RW, DVD and later Blu-ray, which Philips launched with Sony in 1997 and 2006 respectively.
 
 In 1984, the Dutch Philips Group bought out nearly a one-third share and took over the management of German company Grundig.
 
@@ -69,7 +69,7 @@ The move of the headquarters to Amsterdam was completed in 2001. Initially, the 
 
 In 2000, Philips bought Optiva Corporation, the maker of Sonicare electric toothbrushes. The company was renamed Philips Oral Healthcare and made a subsidiary of Philips DAP. In 2001, Philips acquired Agilent Technologies' Healthcare Solutions Group (HSG) for EUR 2 billion.[20] Philips created a computer monitors joint venture with LG called LG.Philips Displays in 2001.
 
-Philips_sense_and_simplicity.svg In 2004, Philips abandoned the slogan "Let's make things better" in favour of a new one: "Sense and Simplicity".
+In 2004, Philips abandoned the slogan "Let's make things better" in favour of a new one: "Sense and Simplicity".
 
 In December 2005, Philips announced its intention to sell or demerge its semiconductor division. On 1 September 2006, it was announced in Berlin that the name of the new company formed by the division would be NXP Semiconductors. On 2 August 2006, Philips completed an agreement to sell a controlling 80.1% stake in NXP Semiconductors to a consortium of private equity investors consisting of Kohlberg Kravis Roberts & Co. (KKR), Silver Lake Partners and AlpInvest Partners. On 21 August 2006, Bain Capital and Apax Partners announced that they had signed definitive commitments to join the acquiring consortium, a process which was completed on 1 October 2006.
 
@@ -159,7 +159,7 @@ Philips Thailand was established in 1952. It is a subsidiary which produces heal
 
 Hong Kong
 
-HKSP_PhilipsElectronicsBldg.jpg Philips Hong Kong began operation in 1948. Philips Hong Kong houses the global headquarters of Philips' Audio Business Unit. It also house Philips' Asia Pacific regional office and headquarters for its Design Division, Domestic Appliances & Personal Care Products Division, Lighting Products Division and Medical System Products Division.[59]
+Philips Hong Kong began operation in 1948. Philips Hong Kong houses the global headquarters of Philips' Audio Business Unit. It also house Philips' Asia Pacific regional office and headquarters for its Design Division, Domestic Appliances & Personal Care Products Division, Lighting Products Division and Medical System Products Division.[59]
 
 In 1974, Philips opened a lamp factory in Hong Kong. This has a capacity of 200 million pieces a year and is certified with ISO 9001:2000 and ISO 14001. Its product portfolio includes prefocus, lensend and E10 miniature light bulbs.[60]
 
@@ -189,7 +189,7 @@ Europe
 
 France
 
-Usine_Philips_Suresnes_41-43_rue_de_Verdun.jpg ]] Philips France has its headquarters in Suresnes. The company employs over 3600 people nationwide.
+]] Philips France has its headquarters in Suresnes. The company employs over 3600 people nationwide.
 
 Philips Lighting has manufacturing facilities in Chalon-sur-Saône (fluorescent lamps), Chartres (automotive lighting), Lamotte-Beuvron (architectural lighting by LEDs and professional indoor lighting), Longvic (lamps), Miribel (outdoor lighting), Nevers (professional indoor lighting).
 
@@ -278,7 +278,7 @@ Philips Mexicana SA de CV is headquartered in Mexico City. Philips Lighting has 
 
 United States
 
-PhillipsNAHQ.jpg, Massachusetts ]] Philips' Electronics North American headquarters is in Andover, Massachusetts. In early 2018, it was announced that the US headquarters would move to Cambridge, Massachusetts by 2020.[77] Philips Lighting has its corporate office in Somerset, New Jersey, with manufacturing plants in Danville, Kentucky, Dallas, Salina, Kansas and Paris, Texas and distribution centers in Mountain Top, Pennsylvania El Paso, Texas, Ontario, California and Memphis, Tennessee. Philips Healthcare is headquartered in Cambridge, Massachusetts and operates a health-tech hub in Nashville, Tennessee with over 1000 jobs. The North American sales organization is based in Bothell, Washington. There are also manufacturing facilities in Andover, Massachusetts, Bothell, Washington, Baltimore, Maryland, Cleveland, Ohio, Foster City, California, Gainesville, Florida, Milpitas, California and Reedsville, Pennsylvania. Philips Healthcare also formerly had a factory in Knoxville, Tennessee. Philips Consumer Lifestyle has its corporate office in Stamford, Connecticut. Philips Lighting has a Color Kinetics office in Burlington, Massachusetts. Philips Research North American headquarters is in Cambridge, Massachusetts.
+, Massachusetts ]] Philips' Electronics North American headquarters is in Andover, Massachusetts. In early 2018, it was announced that the US headquarters would move to Cambridge, Massachusetts by 2020.[77] Philips Lighting has its corporate office in Somerset, New Jersey, with manufacturing plants in Danville, Kentucky, Dallas, Salina, Kansas and Paris, Texas and distribution centers in Mountain Top, Pennsylvania El Paso, Texas, Ontario, California and Memphis, Tennessee. Philips Healthcare is headquartered in Cambridge, Massachusetts and operates a health-tech hub in Nashville, Tennessee with over 1000 jobs. The North American sales organization is based in Bothell, Washington. There are also manufacturing facilities in Andover, Massachusetts, Bothell, Washington, Baltimore, Maryland, Cleveland, Ohio, Foster City, California, Gainesville, Florida, Milpitas, California and Reedsville, Pennsylvania. Philips Healthcare also formerly had a factory in Knoxville, Tennessee. Philips Consumer Lifestyle has its corporate office in Stamford, Connecticut. Philips Lighting has a Color Kinetics office in Burlington, Massachusetts. Philips Research North American headquarters is in Cambridge, Massachusetts.
 
 In 2007, Philips entered into a definitive merger agreement with North American luminaires company Genlyte Group Incorporated, which provides the company with a leading position in the North American luminaires (also known as "lighting fixtures"), controls and related products for a wide variety of applications, including solid state lighting. The company also acquired Respironics, which was a significant gain for its healthcare sector. On 21 February 2008, Philips completed the acquisition of VISICU Baltimore, Maryland. VISICU was the creator of the eICU concept of the use of Telemedicine from a centralized facility to monitor and care for ICU patients.
 
@@ -325,7 +325,7 @@ Polymer Vision was a Philips spin-off that manufactured a flexible e-ink display
 
 Products
 
-Old_x_ray_tube_valugi.jpg]] Philips' core products are consumer electronics and electrical products (including small domestic appliances, shavers, beauty appliances, mother and childcare appliances, electric toothbrushes and coffee makers (products like Smart Phones, audio equipment, Blu-ray players, computer accessories and televisions are sold under license)); and healthcare products (including CT scanners, ECG equipment, mammography equipment, monitoring equipment, MRI scanners, radiography equipment, resuscitation equipment, ultrasound equipment and X-ray equipment);[81]
+]] Philips' core products are consumer electronics and electrical products (including small domestic appliances, shavers, beauty appliances, mother and childcare appliances, electric toothbrushes and coffee makers (products like Smart Phones, audio equipment, Blu-ray players, computer accessories and televisions are sold under license)); and healthcare products (including CT scanners, ECG equipment, mammography equipment, monitoring equipment, MRI scanners, radiography equipment, resuscitation equipment, ultrasound equipment and X-ray equipment);[81]
 
 Lighting products
 
@@ -347,8 +347,6 @@ upright=0.8
 
 Audio products
 
-DJ_headphones_by_Philips_A5-PRO.jpg
-
 -   Hi-fi systems
 -   Wireless speakers
 -   Radio systems
@@ -359,7 +357,7 @@ DJ_headphones_by_Philips_A5-PRO.jpg
 
 Healthcare products
 
-Sonicare.jpg Philips healthcare products include:
+Philips healthcare products include:
 
 Clinical informatics
 
@@ -394,13 +392,11 @@ Defibrillators
 
 Consumer
 
-Elsa_Victory_Erazor-AGP-4_-_Philips_74HCT14D-7515.jpg]]
+]]
 
 -   Philips AVENTil
 
 Patient care and clinical informatics
-
-64_slice_scanner.JPG
 
 -   Anesthetic gas monitoring
 -   Blood pressure
@@ -440,7 +436,7 @@ File:Philips history shield.jpg|Original Philips shield introduced in 1938 File:
 
 Sponsorships
 
-PSV_Stadion_Eindhoven.JPG In 1913, in celebration of the 100th anniversary of the liberation of the Netherlands, Philips founded _Philips Sports Vereniging_ (Philips Sports Club, now commonly known as PSV). The club is active in numerous sports but is now best known for its football team, PSV Eindhoven, and swimming team. Philips owns the naming rights to Philips Stadion in Eindhoven, which is the home ground of PSV Eindhoven.
+In 1913, in celebration of the 100th anniversary of the liberation of the Netherlands, Philips founded _Philips Sports Vereniging_ (Philips Sports Club, now commonly known as PSV). The club is active in numerous sports but is now best known for its football team, PSV Eindhoven, and swimming team. Philips owns the naming rights to Philips Stadion in Eindhoven, which is the home ground of PSV Eindhoven.
 
 Outside of the Netherlands, Philips sponsors and has sponsored numerous sports clubs, sports facilities and events. In November 2008, Philips renewed and extended its F1 partnership with AT&T Williams. Philips owns the naming rights to the _Philips Championship_, the premier basketball league in Australia, traditionally known as the National Basketball League. From 1988 to 1993, Philips was the principal sponsor of the Australian rugby league team The Balmain Tigers and Indonesian football club side Persiba Balikpapan. From 1998 to 2000, Philips sponsored the Winston Cup #7 entry for Geoff Bodine Racing, later Ultra Motorsports, for drivers Geoff Bodine and Michael Waltrip. From 1999 to 2018, Philips held the naming rights to Philips Arena in Atlanta, home of the Atlanta Hawks of the National Basketball Association and former home of the defunct Atlanta Thrashers of the National Hockey League.
 

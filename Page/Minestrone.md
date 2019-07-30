@@ -1,5 +1,3 @@
-Minestrone_soup.jpg
-
 MINESTRONE (; ) is a thick soup of Italian origin made with vegetables, often with the addition of pasta or rice, sometimes both. Common ingredients include beans, onions, celery, carrots, stock, and tomatoes.
 
 There is no set recipe for minestrone, since it can be usually made out of whatever vegetables one has. It can be vegetarian, contain meat, or contain an animal bone-based stock (such as chicken stock). Angelo Pellegrini, however, argued that the base of minestrone is bean broth, and that borlotti beans (also called Roman beans) "are the beans to use for genuine minestrone".[1]

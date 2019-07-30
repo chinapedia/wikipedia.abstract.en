@@ -44,7 +44,7 @@ During the pre-independence period, large areas of Namibia, including off-shore,
 
 Agriculture
 
-Schildburgsdorf.jpg.]] About half of the population depends on agriculture (largely subsistence agriculture) for its livelihood, but Namibia must still import some of its food. Although per capita GDP is five times the per capita GDP of Africa's poorest countries, the majority of Namibia's people live in rural areas and exist on a subsistence way of life. Namibia has one of the highest rates of income inequality in the world, due in part to the fact that there is an urban economy and a more rural cash-less economy. The inequality figures thus take into account people who do not actually rely on the formal economy for their survival. Although arable land accounts for only 1% of Namibia, nearly half of the population is employed in agriculture.[15]
+.]] About half of the population depends on agriculture (largely subsistence agriculture) for its livelihood, but Namibia must still import some of its food. Although per capita GDP is five times the per capita GDP of Africa's poorest countries, the majority of Namibia's people live in rural areas and exist on a subsistence way of life. Namibia has one of the highest rates of income inequality in the world, due in part to the fact that there is an urban economy and a more rural cash-less economy. The inequality figures thus take into account people who do not actually rely on the formal economy for their survival. Although arable land accounts for only 1% of Namibia, nearly half of the population is employed in agriculture.[15]
 
 About 4,000, mostly white, commercial farmers own almost half of Namibia's arable land.[16] The governments of Germany and Britain will finance Namibia's land reform process, as Namibia plans to start expropriating land from white farmers to resettle landless black Namibians.[17]
 
@@ -72,7 +72,7 @@ The Walvis Bay Export Processing Zone operates in the key port of Walvis Bay.
 
 Tourism
 
-Equus_burchelli_4.jpg, one focus of tourism]] Tourism is a major contributor (14.5%) to Namibia's GDP, creating tens of thousands of jobs (18.2% of all employment) directly or indirectly and servicing over a million tourists per annum.[22] The country is among the prime destinations in Africa and is known for ecotourism which features Namibia's extensive wildlife.[23]
+, one focus of tourism]] Tourism is a major contributor (14.5%) to Namibia's GDP, creating tens of thousands of jobs (18.2% of all employment) directly or indirectly and servicing over a million tourists per annum.[22] The country is among the prime destinations in Africa and is known for ecotourism which features Namibia's extensive wildlife.[23]
 
 There are many lodges and reserves to accommodate eco-tourists. Sport Hunting is also a large, and growing component of the Namibian economy, accounting for 14% of total tourism in the year 2000, or $19.6 million US dollars, with Namibia boasting numerous species sought after by international sport hunters.[24] In addition, extreme sports such as sandboarding, skydiving and 4x4ing have become popular, and many cities have companies that provide tours. The most visited places include the Caprivi Strip, Fish River Canyon, Sossusvlei, the Skeleton Coast Park, Sesriem, Etosha Pan and the coastal towns of Swakopmund, Walvis Bay and Lüderitz.[25]
 

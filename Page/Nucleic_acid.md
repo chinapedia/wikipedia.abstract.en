@@ -1,4 +1,4 @@
-Difference_DNA_RNA-EN.svg (left) and DNA (right).]] NUCLEIC ACIDS are the biopolymers, or small biomolecules, essential to all known forms of life. The term _nucleic acid_ is the overall name for DNA and RNA. They are composed of nucleotides, which are the monomers made of three components: a 5-carbon sugar, a phosphate group and a nitrogenous base. If the sugar is a compound ribose, the polymer is RNA (ribonucleic acid); if the sugar is derived from ribose as deoxyribose, the polymer is DNA (deoxyribonucleic acid).
+(left) and DNA (right).]] NUCLEIC ACIDS are the biopolymers, or small biomolecules, essential to all known forms of life. The term _nucleic acid_ is the overall name for DNA and RNA. They are composed of nucleotides, which are the monomers made of three components: a 5-carbon sugar, a phosphate group and a nitrogenous base. If the sugar is a compound ribose, the polymer is RNA (ribonucleic acid); if the sugar is derived from ribose as deoxyribose, the polymer is DNA (deoxyribonucleic acid).
 
 Nucleic acids are the most important of all biomolecules. They are found in abundance in all living things, where they function to create and encode and then store information in the nucleus of every living cell of every life-form organism on Earth. In turn, they function to transmit and express that information inside and outside the cell nucleus—to the interior operations of the cell and ultimately to the next generation of each living organism. The encoded information is contained and conveyed via the nucleic acid sequence, which provides the 'ladder-step' ordering of nucleotides within the molecules of RNA and DNA.
 
@@ -7,7 +7,7 @@ Strings of nucleotides are bonded to form helical backbones—typically, one for
 
 History
 
-Friedrich_Miescher.jpg scientist Friedrich Miescher discovered nucleic acids (DNA) in 1878.[2] Later, he raised the idea that they could be involved in heredity.[3]]]
+scientist Friedrich Miescher discovered nucleic acids (DNA) in 1878.[2] Later, he raised the idea that they could be involved in heredity.[3]]]
 
 -   Nuclein were discovered by Friedrich Miescher in 1869.[4]
 -   In the early 1880s Albrecht Kossel further purifies the substance and discovers its highly acidic properties. He later also identifies the nucleobases.

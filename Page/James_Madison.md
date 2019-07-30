@@ -11,7 +11,7 @@ Early life and education
 
 James Madison Jr. was born on March 16, 1751, (March 5, 1750, Old Style, Julian calendar) at Belle Grove Plantation near Port Conway, Virginia, to James Madison Sr. and Nelly Conway Madison. He grew up as the oldest of twelve children,[1] with seven brothers and four sisters, though only six of his siblings would live to adulthood.[2] His father was a tobacco planter who grew up on a plantation, then called Mount Pleasant, which he had inherited upon reaching adulthood. With numerous slaves and a plantation, Madison's father was the largest landowner and a leading citizen in the Piedmont. Madison's maternal grandfather was a prominent planter and tobacco merchant.[3] In the early 1760s, the Madison family moved into a newly built house, which they named Montpelier.[4]
 
-1811,_Sharples,_James,_James_Madison.jpg]]
+]]
 
 From age 11 to 16, Madison was sent to study under Donald Robertson, a Scottish instructor who served as a tutor for a number of prominent planter families in the South. Madison learned mathematics, geography, and modern and classical languages—he became especially proficient in Latin.[5][6] At age 16, Madison returned to Montpelier, where he began a two-year course of study under the Reverend Thomas Martin in preparation for college. Unlike most college-bound Virginians of his day, Madison did not attend the College of William and Mary, where the lowland Williamsburg climate - thought to be more likely to harbor infectious disease - might have strained his delicate health. Instead, in 1769, he enrolled at the College of New Jersey (now Princeton University).[7]
 
@@ -24,7 +24,7 @@ Early political career
 
 After returning to Montpelier, Madison, who had not yet decided on a specific career, served as a tutor to his younger siblings.[14] In the early 1770s the relationship between the American colonies and Britain deteriorated over the issue of British taxation, culminating in the American Revolutionary War, which began in 1775. Madison believed that the British Parliament had overstepped its bounds by imposing taxation on the American colonies, and he sympathized with those who resisted British rule.[15] He also favored de-establishing the Anglican Church in Virginia; Madison believed that an established religion was detrimental not only for restricting freedom of religion, but also because it encouraged closed-mindedness and unquestioning obedience to the authority of the state.[16]
 
-James_Madison,_by_Charles_Willson_Peale,_1783.png]]
+]]
 
 In 1774, Madison took a seat on the local Committee of Safety, a pro-revolution group that oversaw the local militia.[17] In October 1775, he was commissioned as the colonel of the Orange County militia, serving as his father's second-in-command until his election as a delegate to the Fifth Virginia Convention, which was charged with producing Virginia's first constitution.[18] Of short stature and frequently in poor health, Madison never saw battle in the Revolutionary War, but he rose to prominence in Virginia politics as a wartime leader.[19] At the Virginia constitutional convention, he convinced delegates to alter the Virginia Declaration of Rights to provide for "equal entitlement," rather than mere "tolerance," in the exercise of religion.[20] With the enactment of the Virginia constitution, Madison became part of the Virginia House of Delegates, and he was subsequently elected to the Virginia governor's Council of State.[21] In that role, he became a close ally of Governor Thomas Jefferson.[22]
 
@@ -43,7 +43,7 @@ Madison helped arrange the 1785 Mount Vernon Conference, which settled disputes 
 
 Philadelphia Convention
 
-Constitution_of_the_United_States,_page_1.jpg]]
+]]
 
 Before a quorum was reached at the Philadelphia Convention on May 25, 1787,[44] Madison worked with other members of the Virginia delegation, especially Edmund Randolph and George Mason, to create and present the Virginia Plan.[45] The Virginia Plan was an outline for a new federal constitution; it called for three branches of government (legislative, executive, and judicial), a bicameral Congress (consisting of the United States Senate and the United States House of Representatives) apportioned by population, and a federal Council of Revision that would have the right to veto laws passed by Congress. Reflecting the centralization of power envisioned by Madison, the Virginia Plan granted the U.S. Senate the power to overturn any law passed by state governments.[46] The Virginia Plan did not explicitly lay out the structure of the executive branch, but Madison himself favored a single executive.[47] Many delegates were surprised to learn that the plan called for the abrogation of the Articles and the creation of a new constitution, to be ratified by special conventions in each state rather than by the state legislatures. Nonetheless, with the assent of prominent attendees such as Washington and Benjamin Franklin, the delegates went into a secret session to consider a new constitution.[48]
 
@@ -78,7 +78,7 @@ Madison's Bill of Rights faced little opposition, as he managed to co-opt the An
 
 Founding the Democratic-Republican Party
 
-Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg founded the Democratic-Republican Party with Madison.]]
+founded the Democratic-Republican Party with Madison.]]
 
 After 1790, the Washington administration became polarized among two main factions. One faction was led by Jefferson and Madison, broadly represented Southern interests, and sought close relations with France. The other faction was led by Secretary of the Treasury Alexander Hamilton, broadly represented Northern financial interests, and favored close relations with Britain.[95] In 1791, Hamilton introduced a plan that called for the establishment of a national bank to provide loans to emerging industries and oversee the money supply.[96] Madison believed that, by empowering financial interests, the bank posed a threat to the republican nature of the U.S. government, and he argued that the Constitution did not grant the federal government the authority to create such an institution.[97] Despite Madison's opposition, Congress passed a bill to create the First Bank of the United States; after a period of consideration, Washington signed the banking bill into law in February 1791.[98] As Hamilton implemented his economic program and Washington continued to enjoy immense prestige as president, Madison became increasingly concerned that Hamilton would seek to abolish the federal republic in favor of a centralized monarchy.[99]
 
@@ -97,7 +97,7 @@ In 1799, after Patrick Henry announced that he would return to politics as a mem
 
 Marriage and family
 
-MadisonsMontpelier.jpg, Madison's tobacco plantation in Virginia]]
+, Madison's tobacco plantation in Virginia]]
 
 On September 15, 1794, Madison married Dolley Payne Todd, a 26-year-old widow, previously wife of John Todd, a Quaker farmer who died during a yellow fever epidemic in Philadelphia.[125] Aaron Burr introduced Madison to her, at his request, after Dolley had stayed in the same boardinghouse as Burr in Philadelphia. After an arranged meeting in spring 1794, the two quickly became romantically engaged and prepared for a wedding that summer, but Dolley suffered recurring illnesses because of her exposure to yellow fever in Philadelphia. They eventually traveled to Harewood, Virginia for their wedding. Only a few close family members attended, and Winchester Reverend Alexander Balmain pronounced them a wedded couple.[126] Madison enjoyed a strong relationship with his wife, and she became his political partner.[127] She was widely popular in the capital of Washington, and she excelled at dinners and other important political occasions.[128] Her actions helped establish the First Lady of the United States as an important social host in Washington.[129]
 
@@ -110,8 +110,6 @@ Secretary of State (1801–1809)
 
 Despite lacking foreign policy experience, Madison was appointed as Secretary of State by Jefferson.[134] Along with Secretary of the Treasury Albert Gallatin, Madison became one of the two major influences in Jefferson's Cabinet.[135] As the ascent of Napoleon in France had dulled Democratic-Republican enthusiasm for the French cause, Madison sought a neutral position in the ongoing Coalition Wars between France and Britain.[136] Domestically, the Jefferson administration and the Democratic-Republican Congress rolled back many Federalist policies; Congress quickly repealed the Alien and Sedition Act, abolished internal taxes, and reduced the size of the army and navy.[137] Gallatin did, however, convince Jefferson to retain the First Bank of the United States.[138] Though the Federalists were rapidly fading away at the national level, Chief Justice John Marshall ensured that Federalist ideology retained an important presence in the judiciary. In the case of _Marbury v. Madison_, Marshall simultaneously ruled that Madison had unjustly refused to deliver federal commissions to individuals who had been appointed to federal positions by President Adams but who had not yet taken office, but that the Supreme Court did not have jurisdiction over the case. Most importantly, Marshall's opinion established the principle of judicial review.[139]
 
-Louisiana_Purchase.png
-
 By the time Jefferson took office, Americans had settled as far west as the Mississippi River, though vast pockets of American land remained vacant or inhabited only by Native Americans. Jefferson believed that western expansion played an important role in furthering his vision of a republic of yeoman farmers, and he hoped to acquire the Spanish territory of Louisiana, which was located to the west of the Mississippi River.[140] Early in Jefferson's presidency, the administration learned that Spain planned to retrocede the Louisiana to France, raising fears of French encroachment on U.S. territory.[141] In 1802, Jefferson and Madison dispatched James Monroe to France to negotiate the purchase of New Orleans, which controlled access to the Mississippi River and thus was immensely important to the farmers of the American frontier. Rather than selling merely New Orleans, Napoleon's government, having already given up on plans to establish a new French empire in the Americas, offered to sell the entire Territory of Louisiana. Despite lacking explicit authorization from Jefferson, Monroe and ambassador Robert R. Livingston negotiated the Louisiana Purchase, in which France sold over of land in exchange for $15 million.[142]
 
 Despite the time-sensitive nature of negotiations with the French, Jefferson was concerned about the constitutionality of the Louisiana Purchase, and he privately favored introducing a constitutional amendment explicitly authorizing Congress to acquire new territories. Madison convinced Jefferson to refrain from proposing the amendment, and the administration ultimately submitted the Louisiana Purchase without an accompanying constitutional amendment.[143] Unlike Jefferson, Madison was not seriously concerned with the Louisiana Purchase's constitutionality. He believed that the circumstances did not warrant a strict interpretation of the Constitution because the expansion was in the country's best interest.[144] The Senate quickly ratified the treaty providing for the purchase, and the House, with equal alacrity, passed enabling legislation.[145] The Jefferson administration argued that the purchase had included the Spanish territory of West Florida, but France and Spain both held that West Florida was not included in the purchase.[146] Monroe attempted to purchase clear title to West Florida and East Florida from Spain, but the Spanish, outraged by Jefferson's claims to West Florida, refused to negotiate.[147]
@@ -120,14 +118,12 @@ Early in his tenure, Jefferson was able to maintain cordial relations with both 
 
 Presidential election of 1808
 
-ElectoralCollege1808.svg
-
 Speculation regarding Madison's potential succession of Jefferson commenced early in Jefferson's first term. Madison's status in the party was damaged by his association with the embargo, which was unpopular throughout the country and especially in the Northeast.[156] With the Federalists collapsing as a national party after 1800, the chief opposition to Madison's candidacy came from other members of the Democratic-Republican Party.[157] Madison became the target of attacks from Congressman John Randolph, a leader of a faction of the party known as the tertium quids.[158] Randolph recruited James Monroe, who had felt betrayed by the administration's rejection of the proposed Monroe–Pinkney Treaty with Britain, to challenge Madison for leadership of the party.[159] Many Northerners, meanwhile, hoped that Vice President George Clinton could unseat Madison as Jefferson's successor.[160] Despite this opposition, Madison won his party's presidential nomination at the January 1808 congressional nominating caucus.[161] The Federalist Party mustered little strength outside New England, and Madison easily defeated Federalist candidate Charles Cotesworth Pinckney.[162] At a height of only five feet, four inches (163 cm), and never weighing more than 100 pounds (45 kg), Madison became the most diminutive president.[163]
 
 
 Presidency (1809–1817)
 
-James_Madison_Portrait2.jpg from between 1809 and 1817]]
+from between 1809 and 1817]]
 
 Taking office
 
@@ -143,13 +139,11 @@ With sanctions and other policies having failed, Madison determined that war wit
 
 Military action
 
-USS_Constitution_vs_Guerriere.jpg, a significant event during the war.]]
+, a significant event during the war.]]
 
 Madison's hope that the war would end in a couple months after the capture of Canada was quickly dashed.[180] Madison had believed the state militias would rally to the flag and invade Canada, but the governors in the Northeast failed to cooperate, and the militias either sat out the war or refused to leave their respective states.[181] The American invasion of Canada suffered a major setback when General William Hull surrendered to British and Native American forces at the Siege of Detroit, and a separate U.S. force was defeated at the Battle of Queenston Heights.[182] Lacking adequate revenue to fund the war, the Madison administration was forced to rely on high-interest loans furnished by bankers based in New York City and Philadelphia.[183] In the 1812 presidential election, held during the early stages of the War of 1812, Madison faced a challenge from DeWitt Clinton, who led a coalition of Federalists and disaffected Democratic-Republicans. Clinton won most of the Northeast, but Madison won the election by sweeping the South and the West and winning the key state of Pennsylvania.[184]
 
 After the disastrous start to the War of 1812, Madison accepted Russia's invitation to arbitrate the war, and he sent a delegation led by Gallatin and John Quincy Adams to Europe to negotiate a peace treaty.[185] While Madison worked to end the war, the U.S. experienced some military successes, particularly at sea.[186] With a victory at the Battle of Lake Erie, the U.S. crippled the supply and reinforcement of British military forces in the western theater of the war.[187] In the aftermath of the Battle of Lake Erie, General William Henry Harrison defeated the forces of the British and of Tecumseh's Confederacy at the Battle of the Thames. The death of Tecumseh in that battle marked the permanent end of armed Native American resistance in the Old Northwest.[188] In March 1814, General Andrew Jackson broke the resistance of the British-allied Muscogee in the Old Southwest with his victory at the Battle of Horseshoe Bend.[189] Despite those successes, the British continued to repel American attempts to invade Canada, and a British force captured Fort Niagara and burned the American city of Buffalo in late 1813.[190]
-
-US_Capitol_1814c.jpg
 
 The British agreed to begin peace negotiations in the town of Ghent in early 1814, but at the same time, they shifted soldiers to North American following Napoleon's defeat in the Battle of Paris.[191] Under General George Izard and General Jacob Brown, the U.S. launched another invasion of Canada in mid-1814. Despite an American victory at the Battle of Chippawa, the invasion stalled once again.[192] In August 1814, the British landed a large force off the Chesapeake Bay and routed an American army at the Battle of Bladensburg.[193] Madison escaped capture in the aftermath of the battle, but the British burned Washington.[194] The British army next moved on Baltimore, but the U.S. repelled the British attack in the Battle of Baltimore, and the British army departed from the Chesapeake region in September.[195] That same month, U.S. forces repelled a British invasion from Canada with a victory at the Battle of Plattsburgh.[196] The British public began to turn against the war in North America, and British leaders began to look for a quick exit from the conflict.[197]
 
@@ -166,7 +160,7 @@ In the 1816 presidential election, Madison and Jefferson both favored the candid
 
 Later life
 
-JamesMadison.jpg]]
+]]
 
 When Madison left office in 1817 at age 65, he retired to Montpelier, his tobacco plantation in Orange County, Virginia, not far from Jefferson's Monticello. As with both Washington and Jefferson, Madison left the presidency a poorer man than when elected. His plantation experienced a steady financial collapse, due to the continued price declines in tobacco and also due to his stepson's mismanagement.[215]
 
@@ -174,13 +168,9 @@ In his retirement, Madison occasionally became involved in public affairs, advis
 
 Madison helped Jefferson establish the University of Virginia, though the university was primarily Jefferson's initiative.[220] In 1826, after the death of Jefferson, Madison was appointed as the second rector of the university. He retained the position as college chancellor for ten years until his death in 1836.
 
-James_madison-Age82-Edit1.jpg
-
 In 1829, at the age of 78, Madison was chosen as a representative to the Virginia Constitutional Convention for revision of the commonwealth's constitution. It was his last appearance as a statesman. The issue of greatest importance at this convention was apportionment. The western districts of Virginia complained that they were underrepresented because the state constitution apportioned voting districts by county. The increased population in the Piedmont and western parts of the state were not proportionately represented by delegates in the legislature. Western reformers also wanted to extend suffrage to all white men, in place of the prevailing property ownership requirement. Madison tried in vain to effect a compromise. Eventually, suffrage rights were extended to renters as well as landowners, but the eastern planters refused to adopt citizen population apportionment. They added slaves held as property to the population count, to maintain a permanent majority in both houses of the legislature, arguing that there must be a balance between population and property represented. Madison was disappointed at the failure of Virginians to resolve the issue more equitably.[221]
 
 In his later years, Madison became highly concerned about his historic legacy. He resorted to modifying letters and other documents in his possession, changing days and dates, adding and deleting words and sentences, and shifting characters. By the time he had reached his late seventies, this "straightening out" had become almost an obsession. As an example, he edited a letter written to Jefferson criticizing Lafayette—Madison not only inked out original passages, but even forged Jefferson's handwriting as well.[222] Historian Drew R. McCoy writes that, "During the final six years of his life, amid a sea of personal [financial] troubles that were threatening to engulf him ... At times mental agitation issued in physical collapse. For the better part of a year in 1831 and 1832 he was bedridden, if not silenced ... Literally sick with anxiety, he began to despair of his ability to make himself understood by his fellow citizens."[223]
-
-James_Madison_gravestone_IMG_4299.JPG
 
 Madison's health slowly deteriorated. He died of congestive heart failure at Montpelier on the morning of June 28, 1836, at the age of 85.[224] By one common account of his final moments, he was given his breakfast, which he tried eating but was unable to swallow. His favorite niece, who sat by to keep him company, asked him, "What is the matter, Uncle James?". Madison died immediately after he replied, "Nothing more than a change of mind, my dear."[225] He is buried in the family cemetery at Montpelier.[226] He was one of the last prominent members of the Revolutionary War generation to die.[227] His will left significant sums to the American Colonization Society, the University of Virginia, and Princeton, as well as $30,000 to his wife, Dolly. Left with a smaller sum than Madison had intended, Dolly suffered financial troubles until her own death in 1849.[228]
 
@@ -205,7 +195,7 @@ Madison grew up on a plantation that made use of slave labor and he viewed the i
 
 Native Americans
 
-Benjamin_Hawkins_and_the_Creek_Indians.jpg men being taught how to use a plow by Benjamin Hawkins in 1805]]
+men being taught how to use a plow by Benjamin Hawkins in 1805]]
 
 Upon becoming president, Madison stated that the federal government's duty was to convert the American Indians by the "participation of the improvements of which the human mind and manners are susceptible in a civilized state".[255] Like Jefferson, Madison had a paternalistic attitude toward American Indians, encouraging the men to give up hunting and become farmers.[256] Madison believed the adoption of European-style agriculture would help Native Americans assimilate the values of British-U.S. civilization. As pioneers and settlers moved West into large tracts of Cherokee, Choctaw, Creek, and Chickasaw territory, Madison ordered the U.S. Army to protect Native lands from intrusion by settlers, to the chagrin of his military commander Andrew Jackson. Jackson wanted the president to ignore Indian pleas to stop the invasion of their lands.[257] In the Northwest Territory after the Battle of Tippecanoe, Indians were pushed off their tribal lands and replaced entirely by white settlers.[258]
 
@@ -220,9 +210,9 @@ Polls of historians and political scientists tend to rank Madison as an above av
 
 The historian Garry Wills wrote, "Madison's claim on our admiration does not rest on a perfect consistency, any more than it rests on his presidency. He has other virtues. ... As a framer and defender of the Constitution he had no peer. ... The finest part of Madison's performance as president was his concern for the preserving of the Constitution. ... No man could do everything for the country—not even Washington. Madison did more than most, and did some things better than any. That was quite enough."[267]
 
-  --------------------------------- ------------------------------------------------------------------- ---------------------------------------------
-  James_Madison_1894_Issue-2$.jpg   James_Madison_Presidential_$1_Coin_obverse.png of James Madison]]   Madison_revenue_$1000_1899_issue_R181.jpg]]
-  --------------------------------- ------------------------------------------------------------------- ---------------------------------------------
+  -- -------------------- ----
+     of James Madison]]   ]]
+  -- -------------------- ----
 
 Memorials
 

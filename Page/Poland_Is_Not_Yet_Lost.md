@@ -9,22 +9,22 @@ It is "one of the most important songs of the Slavic nations."[7] The text of th
 
 Etymology
 
-Pieśń_Legionów_1.jpg, illustrating the lyrics of "Mazurek Dąbrowskiego"]] It is also known by its original title, "" (, "Song of the Polish Legions in Italy").[11][12] English translations of its Polish incipit ("" ) include: "Poland has not yet perished",[13] "Poland has not perished yet",[14] "Poland is not lost",[15] "Poland is not lost yet",[16] and "Poland is not yet lost".[17]
+, illustrating the lyrics of "Mazurek Dąbrowskiego"]] It is also known by its original title, "" (, "Song of the Polish Legions in Italy").[11][12] English translations of its Polish incipit ("" ) include: "Poland has not yet perished",[13] "Poland has not perished yet",[14] "Poland is not lost",[15] "Poland is not lost yet",[16] and "Poland is not yet lost".[17]
 
 
 Lyrics
 
-Mazurek_Dąbrowskiego_manuscript.jpg manuscript of the _Song of the Polish Legions in Italy_]]
+manuscript of the _Song of the Polish Legions in Italy_]]
 
 The original lyrics, authored by Wybicki, were a poem consisting of six stanzas and a chorus repeated after all but last stanzas, all following an ABAB rhyme scheme. The official lyrics, based on a variant from 1806,[18] show a certain departure from the original text. It misses two of the original stanzas and reverses the order of other two. Notably, the initial verse, "Poland has not yet died" was replaced with "Poland has not yet perished", suggesting a more violent cause of the nation's possible death.[19] Wybicki's original manuscript was in the hands of his descendants until February 1944, when it was lost in Wybicki's great-great-grandson, Johann von Roznowski's home in Charlottenburg during the Allied bombing of Berlin. The manuscript is known today only from facsimile copies, twenty four of which were made in 1886 by Edward Rożnowski, Wybicki's grandson, who donated them to Polish libraries.[20]
 
 The main theme of the poem is the idea that was novel in the times of early nationalisms based on centralized nation-statesthat the lack of political sovereignty does not preclude the existence of a nation. As Adam Mickiewicz explained in 1842 to students of Slavic Literature in Paris, the song "The famous song of the Polish legions begins with lines that express the new history: Poland has not perished yet as long as we live. These words mean that people who have in them what constitutes the essence of a nation can prolong the existence of their country regardless of its political circumstances and may even strive to make it real again..."[21] The song also includes a call to arms and expresses the hope that, under General Dąbrowski's command, the legionaries would rejoin their nation and retrieve "what the alien force has seized" through armed struggle.
 
-Pieśń_Legionów_3.jpg has shown us ways to victory'']]
+has shown us ways to victory'']]
 
 The chorus and subsequent stanzas include heart-lifting examples of military heroes, set as role models for Polish soldiers: Jan Henryk Dąbrowski, Napoleon, Stefan Czarniecki and Tadeusz Kościuszko. Dąbrowski, for whom the anthem is named, was a commander in the failed 1794 Kościuszko Uprising against Russia. After the Third Partition in 1795, he came to Paris to seek French aid in re-establishing Polish independence and, in 1796, he started the formation of the Polish Legions, a Polish unit of the French Revolutionary Army. Bonaparte was, at the time when the song was written, a commander of the Italian campaign of French Revolutionary Wars and Dąbrowski's superior. Having already proven his skills as a military leader, he is described in the lyrics as the one "who has shown us ways to victory." Bonaparte is the only non-Polish person mentioned by name in the Polish anthem.
 
-Pieśń_Legionów_2.jpg to Poznań...'']]
+to Poznań...'']]
 
 Stefan Czarniecki was a 17th-century hetman (military commander), famous for his role in driving the Swedish army out of Poland after an occupation that had left the country in ruins and is remembered by Poles as the Deluge. With the outbreak of a Dano-Swedish War, he continued his fight against Sweden in Denmark, from where he "returned across the sea" to fight the invaders alongside the king who was then at the Royal Castle in Poznań. In the same castle, Józef Wybicki, started his career as a lawyer (in 1765). Kościuszko, mentioned in a stanza now missing from the anthem, became a hero of the American Revolutionary War before coming back to Poland to defend his native country from Russia in the war of 1792 and a national uprising he led in 1794. One of his major victories during the uprising was the Battle of Racławice where the result was partly due to Polish peasants armed with scythes. Alongside the scythes, the song mentioned other types of weaponry, traditionally used by the Polish _szlachta_, or nobility: the sabre, known in Polish as _szabla_, and the backsword.
 
@@ -35,7 +35,7 @@ Basia (a female name, diminutive of Barbara) and her father are fictional charac
 
 Music
 
-Mazurek_Dąbrowskiego_and_Hey,_Slavs_anthem_music_box.ogg The melody of the Polish anthem is a lively and rhythmical mazurka. Mazurka as a musical form derives from the stylization of traditional melodies for the folk dances of Mazovia, a region in central Poland. It is characterized by a triple meter and strong accents placed irregularly on the second or third beat. Considered one of Poland's national dances in pre-partition times, it owes its popularity in 19th-century West European ballrooms to the mazurkas of Frédéric Chopin.[22]
+The melody of the Polish anthem is a lively and rhythmical mazurka. Mazurka as a musical form derives from the stylization of traditional melodies for the folk dances of Mazovia, a region in central Poland. It is characterized by a triple meter and strong accents placed irregularly on the second or third beat. Considered one of Poland's national dances in pre-partition times, it owes its popularity in 19th-century West European ballrooms to the mazurkas of Frédéric Chopin.[22]
 
 The composer of "Mazurek Dąbrowskiego" is unknown. The melody is most probably Wybicki's adaptation of a folk tune that had already been popular during the second half of the 18th century. The composition used to be erroneously attributed to Michał Kleofas Ogiński who was known to have written a march for Dąbrowski's legions. Several historians confused Ogiński's "" ("March for the Polish Legions") with Wybicki's mazurka, possibly due to the mazurka's chorus "March, march, Dąbrowski", until Ogiński's sheet music for the march was discovered in 1938 and proven to be a different piece of music than Poland's national anthem.[23]
 
@@ -59,15 +59,15 @@ History
 
 Origin
 
-Jan_Henryk_Dabrowski_2.jpg (1755–1818)]]
+(1755–1818)]]
 
 In 1795, after a prolonged decline and despite last-minute attempts at constitutional reforms and armed resistance, the Polish–Lithuanian Commonwealth was ultimately partitioned by its three neighbors: Russia, Prussia and Austria. A once vast and powerful empire was effectively erased from the map while monarchs of the partitioning powers pledged never to use the name "Poland" in their official titles. For many, including even leading representatives of the Polish Enlightenment, this new political situation meant an end of the Polish nation.[33] In the words of Hugo Kołłątaj, a notable Polish political thinker of the time, "Poland no longer belonged to currently extant nations," while historian Tadeusz Czacki declared that Poland "was now effaced from the number of nations."
 
-Wybicki.jpg (1747–1822)]]
+(1747–1822)]]
 
 Meanwhile, Polish patriots and revolutionaries turned for help to France, Poland's traditional ally, which was at war with Austria (member of the First Coalition) at the time. Józef Wybicki was among the leading moderate émigré politicians seeking French aid in re-establishing Polish independence. In 1796, he came up with the idea of creating Polish Legions within the French Revolutionary Army. To this end, he convinced General Jan Henryk Dąbrowski, a hero of the Greater Poland campaign of the 1794 Kościuszko Uprising, to come to Paris and present the plan to the French Directory. Dąbrowski was sent by the Directory to Napoleon who was then spreading the French Revolution in northern Italy. In January 1797, the newly created French-controlled Cisalpine Republic accepted Dąbrowski's offer and a Polish legion was formed. Dąbrowski and his soldiers hoped to fight against Austria under Napoleon and, subsequently, march across the Austrian territory, "from Italy to Poland", where they would ignite a national uprising.[34]
 
-Lapide_Wybicki.jpg]]
+]]
 
 In early July 1797, Wybicki arrived in Reggio Emilia where the Polish Legions were then quartered and where he wrote the _Song of the Polish Legions_ soon afterwards. He first sung it at a private meeting of Polish officers in the Legions' headquarters at the episcopal palace in Reggio. The first public performance most probably took place on 16 July 1797 during a military parade in Reggio's Piazza del Duomo (Cathedral Square). On 20 July, it was played again as the Legions were marching off from Reggio to Milan, the Cisalpine capital.[35]
 
@@ -77,15 +77,13 @@ Rising popularity
 
 The song became popular in Poland as soon as late 1797 and quickly became an object of variations and modifications. A variant from 1798 introduced some stylistic changes, which have since become standard, such as replacing __ ("not dead") with __ ("not perished") or __ ("to Poland from the Italian land") with __ ("from the Italian land to Poland"). It also added four new stanzas, now forgotten, written from the viewpoint of Polish patriots waiting for General Dąbrowski to bring freedom and human rights to Poland.
 
-Pieśń_Legionów_5.jpg
-
 The ultimate fate of the Polish Legions in Italy was different from that promised by Wybicki's song. Rather than coming back to Poland, they were exploited by the French government to quell uprisings in Italy, Germany and, later, in Haiti where they were decimated by war and disease.[37] Polish national hopes were revived with the outbreak of a Franco-Prussian war (part of the War of the Fourth Coalition) in 1806. Napoleon called Dąbrowski and Wybicki to come back from Italy and help gather support for the French army in Polish-populated parts of Prussia. On 6 November 1806, both generals arrived in Poznań,[38] enthusiastically greeted by locals singing "Poland Is Not Yet Lost".[39] The ensuing Greater Poland Uprising and Napoleon's victory over Russian forces at Friedland led to the creation of a French-controlled Polish puppet state known as the Duchy of Warsaw.[40]
 
 "Poland Is Not Yet Lost" was one of the most popular patriotic songs in the duchy, stopping short of becoming that entity's national anthem. Among other occasions, it was sung in Warsaw on 16 June 1807 to celebrate the battle of Friedland, in Kraków as it was liberated by Prince Józef Poniatowski on 19 July 1809, and at a ball in Warsaw on 23 December 1809, the birthday of Frederick Augustus, King of Saxony and Duke of Warsaw. On the occasion of Dąbrowski's name day on 25 December 1810 in Poznań, Dąbrowski and Wybicki led the mazurka to the tune of "Poland Is Not Yet Lost". Although the melody of Wybicki's song remained unchanged and widely known, the lyrics kept changing. With the signing of a Franco-Russian alliance at Tilsit in 1807, the fourth stanza, specifically mentioning Russians as Poland's enemies, was removed. The last stanza, referring to Kościuszko, who had grown suspicious of Napoleon and refused to lend his support to the emperor's war in Poland, met the same fate.[41]
 
 The anthem is mentioned twice in _Pan Tadeusz_, the Polish national epic written by Adam Mickiewicz in 1834, but set in the years 1811–1812. The author makes the first reference to the song when Tadeusz, the main protagonist, returns home and, recalling childhood memories, pulls the string of a chiming clock to hear the "old Dąbrowski's Mazurka" once again. Musical boxes and musical clocks playing the melody of _Poland Is Not Yet Lost_ belonged to popular patriotic paraphernalia of that time. The song appears in the epic poem again when Jankiel, a Jewish dulcimerist and ardent Polish patriot, plays the mazurka in the presence of General Dąbrowski himself.[42]
 
-Jeszcze_Polska_nie_zginęła.jpg scrawling "Poland is not yet lost" in his blood.]]
+scrawling "Poland is not yet lost" in his blood.]]
 
 With Napoleon's defeat and the Congress of Vienna in 1815 came a century of foreign domination over Poland interspersed with occasional bursts of armed rebellion. _Poland Is Not Yet Lost_ continued to be sung throughout that period, especially during national uprisings. During the November Uprising against Russia in 1830−1831, the song was chanted in the battlefields of Stoczek, Olszynka Grochowska and Iganie. In peacetime, Polish patriots performed it at homes, official functions and political demonstrations. New variants of the song, of various artistic value and length of life, abounded. At least 16 alternative versions were penned during the November Uprising alone. At times, Dąbrowski's name was replaced by other national heroes: from Józef Chłopicki during the November Uprising to Józef Piłsudski during the First World War to Władysław Sikorski during the Second World War. New lyrics were also written in regional dialects of Polish, from Silesia to Ermland and Masuria.[43] A variant known as _Marsz Polonii_ ("March Polonia") spread among Polish immigrants in the Americas.
 
@@ -95,7 +93,7 @@ Choice of national anthem
 
 When Poland re-emerged as an independent state after World War I in 1918, it had to make a decision about its national symbols. While the coat of arms and the flag were officially adopted as soon as 1919, the question of a national anthem had to wait. Apart from "Poland Is Not Yet Lost", there were other popular patriotic songs which could compete for the status of an official national anthem.
 
-Bogurodzica_rekopis1407.png'' from 1407]]
+'' from 1407]]
 
 In the Middle Ages, the role of a national anthem was played by hymns. Among them were "Bogurodzica" (), one of the oldest (11th-12th century) known literary texts in Polish, and the Latin _Gaude Mater Polonia_ ("Rejoice, Mother Poland"), written in the 13th century to celebrate the canonization of Bishop Stanislaus of Szczepanów, the patron saint of Poland. Both were chanted on special occasions and on battlefields. The latter is sung nowadays at university ceremonies. During the Renaissance and the Enlightenment, several songs, both religious and secular, were written with the specific purpose of creating a new national anthem. Examples include the 16th-century Latin prayer __ ("Prayer for the Commonwealth and the King") by a Calvinist poet, Andrzej Trzeciński, and "" ("Hymn to the Love of the Fatherland") written in 1744 by Prince-Bishop Ignacy Krasicki. They failed, however, to win substantial favor with the populace. Another candidate was "" ("God is Born"), whose melody was originally a 16th-century coronation polonaise for Polish kings.
 
@@ -110,7 +108,7 @@ Over 60 years later, on , Aleksander Kwaśniewski, President of Poland, said:
 
 Influence
 
-Hey,_Slavs_vocal.ogg", which "Mazurek Dąbrowskiego" bears aesthetic similarity to.]] During the European Revolutions of 1848, "Poland Is Not Yet Lost" won favor throughout Europe as a revolutionary anthem. This led the Slovak poet Samo Tomášik to write the ethnic anthem, "Hey, Slavs", based on the melody of the Polish national anthem. It was later adopted by the First Congress of the Pan-Slavic Movement in Prague as the Pan-Slavic Anthem. During the Second World War, a translation of this anthem became the national anthem of Yugoslavia, and later, Serbia and Montenegro. The similarity of the anthems sometimes caused confusion during these countries' football or volleyball matches. However, after the 2006 split between the two, neither Serbia nor Montenegro kept the song as its national anthem, instead choosing "Bože pravde" and "Oj, svijetla majska zoro" respectively. The Polish national anthem is also notable for influencing the lyrics of the Ukrainian anthem, "Shche ne vmerla Ukraina" (_Ukraine's glory has not yet perished_).[47]
+", which "Mazurek Dąbrowskiego" bears aesthetic similarity to.]] During the European Revolutions of 1848, "Poland Is Not Yet Lost" won favor throughout Europe as a revolutionary anthem. This led the Slovak poet Samo Tomášik to write the ethnic anthem, "Hey, Slavs", based on the melody of the Polish national anthem. It was later adopted by the First Congress of the Pan-Slavic Movement in Prague as the Pan-Slavic Anthem. During the Second World War, a translation of this anthem became the national anthem of Yugoslavia, and later, Serbia and Montenegro. The similarity of the anthems sometimes caused confusion during these countries' football or volleyball matches. However, after the 2006 split between the two, neither Serbia nor Montenegro kept the song as its national anthem, instead choosing "Bože pravde" and "Oj, svijetla majska zoro" respectively. The Polish national anthem is also notable for influencing the lyrics of the Ukrainian anthem, "Shche ne vmerla Ukraina" (_Ukraine's glory has not yet perished_).[47]
 
 The line "Poland is not lost yet" has become proverbial in some languages. For example, in German, _noch ist Polen nicht verloren_ is a common saying meaning "all is not lost".[48]
 

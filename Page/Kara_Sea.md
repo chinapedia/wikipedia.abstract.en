@@ -31,7 +31,7 @@ The International Hydrographic Organization defines the limits of the Kara Sea a
 
 Islands
 
-Kara_Sea_islands.PNG There are many islands and island groups in the Kara Sea. Unlike the other marginal seas of the Arctic, where most islands lie along the coasts, in the Kara Sea many islands, like the Arkticheskiy Institut Islands, the Izvesti Tsik Islands, the Kirov Islands, Uedineniya or Lonely Island, Vize Island, and Voronina Island are located in the open sea of its central regions.
+There are many islands and island groups in the Kara Sea. Unlike the other marginal seas of the Arctic, where most islands lie along the coasts, in the Kara Sea many islands, like the Arkticheskiy Institut Islands, the Izvesti Tsik Islands, the Kirov Islands, Uedineniya or Lonely Island, Vize Island, and Voronina Island are located in the open sea of its central regions.
 
 The largest group in the Kara Sea is by far the Nordenskiöld Archipelago, with five large subgroups and over ninety islands. Other important islands in the Kara Sea are Bely Island, Dikson Island, Taymyr Island, the Kamennyye Islands and Oleni Island. Despite the high latitude all islands are unglaciated except for Ushakov Island at the extreme northern limit of the Kara Sea.[5]
 

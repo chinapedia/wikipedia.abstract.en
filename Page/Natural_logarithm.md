@@ -1,4 +1,4 @@
-Log.svg of _x_); the _y_-axis is an asymptote.]]
+of _x_); the _y_-axis is an asymptote.]]
 
 The NATURAL LOGARITHM of a number is its logarithm to the base of the mathematical constant _e_, where _e_ is an irrational and transcendental number approximately equal to . The natural logarithm of _x_ is generally written as , , or sometimes, if the base _e_ is implicit, simply .[1] Parentheses are sometimes added for clarity, giving ln(_x_), log_(_e_)(_x_) or log(_x_). This is done in particular when the argument to the logarithm is not a single symbol, to prevent ambiguity.
 
@@ -49,8 +49,6 @@ Historically, the notations "" and "" were in use at least since the 1730s,[7][8
 
 
 Definitions
-
-Log-pole-x_1.svg The area under the hyperbola satisfies the logarithm rule. Here _A_(_s_,_t_) denotes the area under the hyperbola between _s_ and _t_.
 
 Formally, ln(_a_) may be defined as the area under the hyperbola 1/_x_. This is the integral,
 
@@ -139,8 +137,6 @@ $$\begin{align}
 
 
 Series
-
-LogTay.svg
 
 If |x − 1| ≤ 1 and x ≠ 0, then[14]
 

@@ -33,7 +33,7 @@ The Great Depression and the onset of World War II took a toll on the league. Th
 
 The league was reduced to six teams for the 1942–43 NHL season: the Boston Bruins, Chicago Black Hawks, Detroit Red Wings, Montreal Canadiens, New York Rangers and Toronto Maple Leafs. These six teams remained constant for 25 years, a period known as the Original Six. The league reached an agreement with the Stanley Cup trustees in 1947 to take full control of the trophy, allowing the NHL to reject challenges from other leagues that wished to play for the Cup.[30]
 
-Montreal_Canadiens_hockey_team,_October_1942.jpg Maurice "Rocket" Richard became the first player to score 50 goals, doing so in a 50-game season.[31] Richard later led the Canadiens to five consecutive titles between 1956 and 1960, a record no team has matched.[32] Willie O'Ree broke the league's colour barrier on January 18, 1958 when he made his debut with the Boston Bruins and became the first black player in league history.[33]
+Maurice "Rocket" Richard became the first player to score 50 goals, doing so in a 50-game season.[31] Richard later led the Canadiens to five consecutive titles between 1956 and 1960, a record no team has matched.[32] Willie O'Ree broke the league's colour barrier on January 18, 1958 when he made his debut with the Boston Bruins and became the first black player in league history.[33]
 
 Post-Original Six expansion
 
@@ -122,16 +122,16 @@ Timeline
 
 Game
 
-NHL_Logo_former.svg Each National Hockey League regulation game is 60 minutes long. The game is composed of three 20-minute periods with an intermission between periods.[81] At the end of regulation time, the team with the most goals wins the game. If a game is tied after regulation time, overtime ensues. During the regular season, overtime is a five-minute, three-on-three sudden-death period, in which whoever scores a goal first will win the game.
+Each National Hockey League regulation game is 60 minutes long. The game is composed of three 20-minute periods with an intermission between periods.[81] At the end of regulation time, the team with the most goals wins the game. If a game is tied after regulation time, overtime ensues. During the regular season, overtime is a five-minute, three-on-three sudden-death period, in which whoever scores a goal first will win the game.
 
-WeaverLankow.jpg' Mike Weaver clearing the puck away from Calgary Flames' Daymond Langkow, December 21, 2005.]] If the game is still tied at the end of overtime, the game enters a shootout. Three players for each team in turn take a penalty shot. The team with the most goals during the three-round shootout wins the game. If the game is still tied after the three shootout rounds, the shootout continues but becomes sudden-death. Whichever team ultimately wins the shootout is awarded a goal in the game score and thus awarded two points in the standings. The losing team in overtime or shootout is awarded only one.[82] Shootout goals and saves are not tracked in hockey statistics; shootout statistics are tracked separately.
+' Mike Weaver clearing the puck away from Calgary Flames' Daymond Langkow, December 21, 2005.]] If the game is still tied at the end of overtime, the game enters a shootout. Three players for each team in turn take a penalty shot. The team with the most goals during the three-round shootout wins the game. If the game is still tied after the three shootout rounds, the shootout continues but becomes sudden-death. Whichever team ultimately wins the shootout is awarded a goal in the game score and thus awarded two points in the standings. The losing team in overtime or shootout is awarded only one.[82] Shootout goals and saves are not tracked in hockey statistics; shootout statistics are tracked separately.
 
 There are no shootouts during the playoffs. Instead, multiple sudden-death, 20-minute five-on-five periods are played until one team scores. Two games have reached six overtime periods, but none have gone beyond six.[83] During playoff overtime periods, the only break is to clean the loose ice at the first stoppage after the period is halfway finished.[84]
 
 
 Hockey rink
 
-NHL_Hockey_Rink.svg National Hockey League games are played on a rectangular hockey rink with rounded corners surrounded by walls and Plexiglas. It measures by in the NHL,[85] approximately the same length but much narrower than International Ice Hockey Federation standards. The centre line divides the ice in half,[86] and is used to judge icing violations. There are two blue lines that divide the rink roughly into thirds, delineating one neutral and two attacking zones.[87] Near the end of both ends of the rink, there is a thin red _goal line_ spanning the width of the ice, which is used to judge goals and icing calls.
+National Hockey League games are played on a rectangular hockey rink with rounded corners surrounded by walls and Plexiglas. It measures by in the NHL,[85] approximately the same length but much narrower than International Ice Hockey Federation standards. The centre line divides the ice in half,[86] and is used to judge icing violations. There are two blue lines that divide the rink roughly into thirds, delineating one neutral and two attacking zones.[87] Near the end of both ends of the rink, there is a thin red _goal line_ spanning the width of the ice, which is used to judge goals and icing calls.
 
 A trapezoidal area behind each goal net has been introduced.[88] The goaltender can play the puck only within the trapezoid or in front of the goal line; if the goaltender plays the puck behind the goal line and outside the trapezoidal area, a two-minute minor penalty for delay of game is assessed.[89] The rule is unofficially nicknamed the "Martin Brodeur rule".[90][91][92][93]
 
@@ -169,7 +169,7 @@ Trophies and awards
 
 Teams
 
-Hhof_stanley_cup.jpg, on display at the Hockey Hall of Fame, is awarded annually to the league champion.]] The most prestigious team award is the Stanley Cup, which is awarded to the league champion at the end of the Stanley Cup playoffs. The team that has the most points in the regular season is awarded the Presidents' Trophy.
+, on display at the Hockey Hall of Fame, is awarded annually to the league champion.]] The most prestigious team award is the Stanley Cup, which is awarded to the league champion at the end of the Stanley Cup playoffs. The team that has the most points in the regular season is awarded the Presidents' Trophy.
 
 The Montreal Canadiens are the most successful franchise in the league. Since the formation of the league in 1917, they have 25 NHL championships (three between 1917 and 1925 when the Stanley Cup was still contested in an interleague competition, twenty-two since 1926 after the Stanley Cup became the NHL's championship trophy). They also lead all teams with 24 Stanley Cup championships (one as an NHA team, twenty-three as an NHL team). Of the four major professional sports leagues in North America, the Montreal Canadiens are surpassed in the number of championships only by the New York Yankees of Major League Baseball, who have three more.
 
@@ -234,14 +234,14 @@ There are numerous trophies that are awarded to players based on their statistic
 
 The other player trophies are voted on by the Professional Hockey Writers' Association or the team general managers.[109] These individual awards are presented at a formal ceremony held in late June after the playoffs have concluded. The most prestigious individual award is the Hart Memorial Trophy which is awarded annually to the Most Valuable Player; the voting is conducted by members of the Professional Hockey Writers Association to judge the player who is the most valuable to his team during the regular season. The Vezina Trophy is awarded annually to the person deemed the best goaltender as voted on by the general managers of the teams in the NHL. The James Norris Memorial Trophy is awarded annually to the National Hockey League's top defenceman, the Calder Memorial Trophy is awarded annually to the top rookie, and the Lady Byng Memorial Trophy is awarded to the player deemed to combine the highest degree of skill and sportsmanship; all three of these awards are voted on by members of the Professional Hockey Writers Association.
 
-Hockey_Hall_of_Fame.JPG in Downtown Toronto]] In addition to the regular season awards, the Conn Smythe Trophy is awarded annually to the most valuable player during the NHL's Stanley Cup playoffs. Furthermore, the top coach in the league wins the Jack Adams Award as selected by a poll of the National Hockey League Broadcasters Association. The National Hockey League publishes the names of the top three vote getters for all awards, and then names the award winner during the NHL Awards Ceremony.[110]
+in Downtown Toronto]] In addition to the regular season awards, the Conn Smythe Trophy is awarded annually to the most valuable player during the NHL's Stanley Cup playoffs. Furthermore, the top coach in the league wins the Jack Adams Award as selected by a poll of the National Hockey League Broadcasters Association. The National Hockey League publishes the names of the top three vote getters for all awards, and then names the award winner during the NHL Awards Ceremony.[110]
 
 Players, coaches, officials, and team builders who have had notable careers are eligible to be voted into the Hockey Hall of Fame. Players cannot enter until three years have passed since their last professional game, currently tied with the Naismith Memorial Basketball Hall of Fame[111] for the shortest such time period of any major sport. One unique consequence has been Hall of Fame members (specifically, Gordie Howe, Guy Lafleur, and Mario Lemieux) coming out of retirement to play once more.[112] If a player was deemed significant enough, the three-year wait would be waived; only ten individuals have been honoured in this manner.[113] In 1999, Wayne Gretzky joined the Hall and became the last player to have the three-year restriction waived.[114] After his induction, the Hall of Fame announced that Gretzky would be the last to have the waiting period waived.
 
 
 Origin of players
 
-Wgretz_edit2.jpg in a New York Rangers uniform in 1997]] In addition to Canadian and American born and trained players, who have historically composed a large majority of NHL rosters, the NHL also draws players from an expanding pool of other nations where organized and professional hockey is played. Since the collapse of the Soviet Bloc, political/ideological restrictions on the movement of hockey players from this region have disappeared, leading to a large influx of players mostly from Czech Republic, Slovakia and Russia into the NHL. Swedes, Finns, and other Western Europeans, who were always free to move to North America, came to the league in greater numbers than before.
+in a New York Rangers uniform in 1997]] In addition to Canadian and American born and trained players, who have historically composed a large majority of NHL rosters, the NHL also draws players from an expanding pool of other nations where organized and professional hockey is played. Since the collapse of the Soviet Bloc, political/ideological restrictions on the movement of hockey players from this region have disappeared, leading to a large influx of players mostly from Czech Republic, Slovakia and Russia into the NHL. Swedes, Finns, and other Western Europeans, who were always free to move to North America, came to the league in greater numbers than before.
 
 Many of the league's top players in recent years have come from these European countries including Daniel Alfredsson, Erik Karlsson, Henrik Sedin, Daniel Sedin, Henrik Lundqvist, Jaromir Jagr, Patrik Elias, Zdeno Chara, Pavel Datsyuk, Evgeni Malkin, Nicklas Lidstrom and Alexander Ovechkin.[115] European players were drafted and signed by NHL teams in an effort to bring in more "skilled offensive players",[116] although recently there has been a decline in European players as more American players enter the league.[117] The addition of European players changed the style of play in the NHL and European style hockey has been integrated into the NHL game.[118]
 
@@ -263,7 +263,7 @@ Many of these same corporate partners become the title sponsors for the league's
 
 Media coverage
 
-Don_Cherry_in_2010.jpg, "Coach's Corner" commentator on _Hockey Night in Canada_ on CBC]]
+, "Coach's Corner" commentator on _Hockey Night in Canada_ on CBC]]
 
 Canada
 
@@ -277,7 +277,7 @@ Games that are not broadcast as part of the national rights deal are broadcast b
 
 United States
 
-Mike_"Doc"_Emrick_(2014).jpg, NBC Sports lead hockey play-by-play announcer]] Historically, the NHL has never fared well on American television in comparison to the other American professional leagues. The league's American broadcast partners have been in flux for decades, ranging from such networks as CBS, SportsChannel America, the USA Network, Fox, ABC, and ESPN.
+, NBC Sports lead hockey play-by-play announcer]] Historically, the NHL has never fared well on American television in comparison to the other American professional leagues. The league's American broadcast partners have been in flux for decades, ranging from such networks as CBS, SportsChannel America, the USA Network, Fox, ABC, and ESPN.
 
 National U.S. television rights are currently held by NBC Sports; its current 10-year, US$2 billion contract, which began in the 2011–12 season, extended and unified rights deals that were first established in the 2005–06 season, when Comcast acquired cable rights to replace ESPN, and NBC acquired broadcast television rights under a revenue-sharing agreement to replace ABC.[136] NBC Sports Network and the company negotiated a new, 10-year, unified rights deal worth nearly US$2 billion.[137] Under this contract, NBCSN usually airs at least two regular season games per week, while NBC airs afternoon games on selected weekends. NBCUniversal holds exclusive rights to Wednesday night games, all games televised by the NBC network, and every game in the Stanley Cup playoffs beginning in the second round. Coverage of the playoffs and the Finals is split between the two networks, with other games shown on CNBC, USA Network, NHL Network.
 

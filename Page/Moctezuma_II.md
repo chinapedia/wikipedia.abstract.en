@@ -14,7 +14,7 @@ His many children included Princess Isabel Moctezuma — and sons Chimalpopoca (
 
 Name
 
-Feather_headdress_Moctezuma_II.JPG attributed to Moctezuma II exhibited at the Museo Nacional de Antropología e Historia, Mexico City. Original in the Museum of Ethnology, Vienna.]] The Nahuatl pronunciation of his name is . It is a compound of a noun meaning "lord" and a verb meaning "to frown in anger", and so is interpreted as "he is one who frowns like a lord"[6] or "he who is angry in a noble manner."[7]
+attributed to Moctezuma II exhibited at the Museo Nacional de Antropología e Historia, Mexico City. Original in the Museum of Ethnology, Vienna.]] The Nahuatl pronunciation of his name is . It is a compound of a noun meaning "lord" and a verb meaning "to frown in anger", and so is interpreted as "he is one who frowns like a lord"[6] or "he who is angry in a noble manner."[7]
 
 His name glyph, shown in the upper left corner of the image from the Codex Mendoza above, was composed of a diadem (_xiuhuitzolli_) on straight hair with an attached earspool, a separate nosepiece and a speech scroll.[8]
 
@@ -27,7 +27,7 @@ The descriptions of the life of Moctezuma are full of contradictions, and thus n
 
 Bernal Díaz del Castillo
 
-Houghton_Typ_625.99.800_Istoria_della_conquista_del_Messico_-_Motezuma.jpg]]
+]]
 
 The firsthand account of Bernal Díaz del Castillo's _True History of the Conquest of New Spain_ paints a portrait of a noble leader who struggles to maintain order in his kingdom after he is taken prisoner by Hernán Cortés. In his first description of Moctezuma, Díaz del Castillo writes:
 
@@ -41,7 +41,7 @@ The Florentine Codex, made by Bernardino de Sahagún, relied on native informant
 
 Hernán Cortés
 
-Motzume.jpg Unlike Bernal Díaz, who was recording his memories many years after the fact, Cortés wrote his _Cartas de relación_ (_Letters from Mexico_) to justify his actions to the Spanish Crown. His prose is characterized by simple descriptions and explanations, along with frequent personal addresses to the King. In his Second Letter, Cortés describes his first encounter with Moctezuma thus:
+Unlike Bernal Díaz, who was recording his memories many years after the fact, Cortés wrote his _Cartas de relación_ (_Letters from Mexico_) to justify his actions to the Spanish Crown. His prose is characterized by simple descriptions and explanations, along with frequent personal addresses to the King. In his Second Letter, Cortés describes his first encounter with Moctezuma thus:
 
   Mutezuma came to greet us and with him some two hundred lords, all barefoot and dressed in a different costume, but also very rich in their way and more so than the others. They came in two columns, pressed very close to the walls of the street, which is very wide and beautiful and so straight that you can see from one end to the other. Mutezuma came down the middle of this street with two chiefs, one on his right hand and the other on his left. And they were all dressed alike except that Mutezuma wore sandals whereas the others went barefoot; and they held his arm on either side.[15]
 
@@ -55,7 +55,7 @@ Fernando Alvarado Tezozómoc, who may have written the Crónica Mexicayotl, was 
 
 Depiction in early post-conquest literature
 
-Moctezuma_palace.jpg'' (1542)]] Some of the Aztec stories about Moctezuma describe him as being fearful of the Spanish newcomers, and some sources, such as the Florentine Codex, comment that the Aztecs believed the Spaniards to be gods and Cortés to be the returned god Quetzalcoatl. The veracity of this claim is difficult to ascertain, though some recent ethnohistorians specialising in early Spanish/Nahua relations have discarded it as post-conquest mythicalisation.[19]
+'' (1542)]] Some of the Aztec stories about Moctezuma describe him as being fearful of the Spanish newcomers, and some sources, such as the Florentine Codex, comment that the Aztecs believed the Spaniards to be gods and Cortés to be the returned god Quetzalcoatl. The veracity of this claim is difficult to ascertain, though some recent ethnohistorians specialising in early Spanish/Nahua relations have discarded it as post-conquest mythicalisation.[19]
 
 Much of the idea of Cortés being seen as a deity can be traced back to the Florentine Codex, written some 50 years after the conquest. In the codex's description of the first meeting between Moctezuma and Cortés, the Aztec ruler is described as giving a prepared speech in classical oratorial Nahuatl, a speech which as described verbatim in the codex (written by Sahagún's Tlatelolcan informants) included such prostrate declarations of divine or near-divine admiration as, "You have graciously come on earth, you have graciously approached your water, your high place of Mexico, you have come down to your mat, your throne, which I have briefly kept for you, I who used to keep it for you," and, "You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth." While some historians such as Warren H. Carroll consider this as evidence that Moctezuma was at least open to the possibility that the Spaniards were divinely sent based on the Quetzalcoatl legend, others such as Matthew Restall argue that Moctezuma politely offering his throne to Cortés (if indeed he did ever give the speech as reported) may well have been meant as the exact opposite of what it was taken to mean, as politeness in Aztec culture was a way to assert dominance and show superiority.[20] Other parties have also propagated the idea that the Native Americans believed the conquistadors to be gods, most notably the historians of the Franciscan order such as Fray Gerónimo de Mendieta.[21] Bernardino de Sahagún, who compiled the Florentine Codex, was also a Franciscan priest.
 
@@ -70,8 +70,6 @@ Contact with the Spanish
 
 First interactions with the Spanish
 
-Monumento_de_Moctezuma_y_Hernan_Cortés.jpg
-
 In 1517, Moctezuma received the first reports of Europeans landing on the east coast of his empire; this was the expedition of Juan de Grijalva who had landed on San Juan de Ulúa, which although within Totonac territory was under the auspices of the Aztec Empire. Moctezuma ordered that he be kept informed of any new sightings of foreigners at the coast and posted extra watch guards to accomplish this.[25]
 
 When Cortés arrived in 1519, Moctezuma was immediately informed and he sent emissaries to meet the newcomers; one of them known to be an Aztec noble named Tentlil in the Nahuatl language but referred to in the writings of Cortés and Bernal Díaz del Castillo as "Tendile". As the Spaniards approached Tenochtitlan they made an alliance with the Tlaxcalteca, who were enemies of the Aztec Triple Alliance, and they helped instigate revolt in many towns under Aztec dominion. Moctezuma was aware of this and he sent gifts to the Spaniards, probably in order to show his superiority to the Spaniards and Tlaxcalteca.[26]
@@ -82,7 +80,7 @@ According to Cortes, Moctezuma immediately volunteered to cede his entire realm 
 
 Host and prisoner of the Spaniards
 
-Van_Beecq_-_Moctezuma_imprisoned_by_Cortés.jpeg Moctezuma brought Cortés to his palace where the Spaniards lived as his guests for several months. Moctezuma continued to govern his empire and even undertook conquests of new territory during the Spaniards' stay at Tenochtitlan.
+Moctezuma brought Cortés to his palace where the Spaniards lived as his guests for several months. Moctezuma continued to govern his empire and even undertook conquests of new territory during the Spaniards' stay at Tenochtitlan.
 
 At some time during that period, Moctezuma became a prisoner in his own house. Exactly why this happened is not clear from the extant sources. The Aztec nobility reportedly became increasingly displeased with the large Spanish army staying in Tenochtitlan, and Moctezuma told Cortés that it would be best if they left. Shortly thereafter, Cortés left to fight Pánfilo de Narváez. During his absence, tensions between Spaniards and Aztecs exploded into the Massacre in the Great Temple, and Moctezuma became a hostage used by the Spaniards to ensure their security.[29]
 
@@ -96,7 +94,7 @@ In his _Historia_, Bernal Díaz del Castillo states that on 1 July 1520, the Spa
 
 Díaz alleges that the Aztecs informed Moctezuma that a relative of his had risen to the throne and ordered their attack to continue until all of the Spanish were annihilated, but expressed remorse at Moctezuma's captivity and stated that they intended to revere him even more if they could rescue him. Regardless of the earlier orders to hold fire, however, the discussion between Moctezuma and the Aztec leaders was immediately followed by an outbreak of violence. The Aztecs, disgusted by the actions of their leader, renounced Moctezuma and named Cuitlahuac in his place. In an effort to pacify his people, and undoubtedly pressured by the Spanish, Moctezuma was struck dead by a rock.[31] Bernal Díaz gives this account:
 
-"They had hardly finished this speech when suddenly such a shower of stones and darts were discharged that (our men who were shielding him having neglected for a moment their duty, because they saw how the attack ceased while he spoke to them) he was hit by three stones, one on the head, another on the arm and another on the leg, and although they begged him to have the wounds dressed and to take food, and spoke kind words to him about it, he would not. Indeed, when we least expected it, they came to say that he was dead."[32]The_Florentine_Codex-_Moctezuma's_Death_and_Cremation_.tif, Book 12]] Franciscan friar Bernardino de Sahagún recorded two versions of the conquest of Mexico from the Tenochtitlan-Tlatelolco viewpoint. In Book 12 of the twelve-volume Florentine Codex, the account in Spanish and Nahuatl is accompanied by illustrations by natives. One is of the death of Moctezuma II, which the indigenous assert was due to the Spaniards. According to the Codex, the bodies of Moctezuma and Itzquauhtzin were cast out of the Palace by the Spanish; the body of Moctezuma was gathered up and cremated at Copulco.
+"They had hardly finished this speech when suddenly such a shower of stones and darts were discharged that (our men who were shielding him having neglected for a moment their duty, because they saw how the attack ceased while he spoke to them) he was hit by three stones, one on the head, another on the arm and another on the leg, and although they begged him to have the wounds dressed and to take food, and spoke kind words to him about it, he would not. Indeed, when we least expected it, they came to say that he was dead."[32], Book 12]] Franciscan friar Bernardino de Sahagún recorded two versions of the conquest of Mexico from the Tenochtitlan-Tlatelolco viewpoint. In Book 12 of the twelve-volume Florentine Codex, the account in Spanish and Nahuatl is accompanied by illustrations by natives. One is of the death of Moctezuma II, which the indigenous assert was due to the Spaniards. According to the Codex, the bodies of Moctezuma and Itzquauhtzin were cast out of the Palace by the Spanish; the body of Moctezuma was gathered up and cremated at Copulco.
 
 
 Aftermath
@@ -110,7 +108,7 @@ Following the conquest, Moctezuma's daughter, Techichpotzin (or Tecuichpoch), be
 
 Descendants in Mexico and the Spanish nobility
 
-Retrato_de_Moctezuma_II.png Hernan_Fernando_Cortes.jpg Tecuichpoch.png Coat of arms of the Dukes de Moctezuma de Tultengo (Descendientes del Emperador Mexica Moctezuma II). Moctezuma had many wives and concubines by whom he fathered an enormous family. Though the exact number of his children is unknown and the names of most of his children were lost to history, according to a Spanish chronicler, by the time he was taken captive, Moctezuma had fathered 100 children and fifty of his wives and concubines were then in some stage of pregnancy, though this estimate may have been exaggerated.[37] As Aztec culture made class distinctions between the children of senior wives, lesser wives, and concubines, not all of his children were considered equal in nobility or inheritance rights.
+Moctezuma had many wives and concubines by whom he fathered an enormous family. Though the exact number of his children is unknown and the names of most of his children were lost to history, according to a Spanish chronicler, by the time he was taken captive, Moctezuma had fathered 100 children and fifty of his wives and concubines were then in some stage of pregnancy, though this estimate may have been exaggerated.[37] As Aztec culture made class distinctions between the children of senior wives, lesser wives, and concubines, not all of his children were considered equal in nobility or inheritance rights.
 
 Of his many wives may be named the princesses Teitlalco, Acatlan, and Miahuaxochitl, of whom the first named appears to have been the only legitimate consort. By her he left a son, Asupacaci, who fell during the Noche Triste, and a daughter, Tecuichpo, baptized as Isabel, married consecutively to Cuauhtemoc (the last Mexican sovereign), to visitador general Alonso Grado, to Pedro Andrade Gallego, and to Juan Cano de Saavedra. She had children by the latter two, from whom descend the illustrious families of Andrade-Montezuma and Cano-Montezuma. By the Princess Acatlan were left two daughters, baptized as Maria and Marina (also known as Leonor). The latter alone left offspring, from whom descends the Sotelo-Montezuma family.[38]
 
@@ -136,8 +134,6 @@ Hubert Howe Bancroft, writing in the 19th century (_Native Races_, Volume #3), s
 
 Symbol of indigenous leadership
 
-Aztecexpansion.png
-
 As a symbol of resistance towards Spanish the name of Moctezuma has been invoked in several indigenous rebellions.
 
 One such example was the rebellion of the Virgin Cult in Chiapas in 1721, where the followers of the Virgin Mary rebelled against the Spanish after having been told by an apparition of the virgin that Moctezuma would be resuscitated to assist them against their Spanish oppressors. In the Quisteil rebellion of the Yucatec Maya in 1761 the rebel leader Jacinto Canek reportedly called himself "Little Montezuma".[44]
@@ -147,7 +143,7 @@ Portrayals and cultural references
 
 Art, music and literature
 
--   Montezuma_from_An_Illustrated_History_of_the_New_World.jpg The Mexican emperor is the title character in several 18th-century operas: _Motezuma_ (1733) by Antonio Vivaldi; _Motezuma_ (1771) by Josef Mysliveček; _Montezuma_ (1755) by Carl Heinrich Graun; and _Montesuma_ (1781) by Niccolò Antonio Zingarelli. He is also the subject of Roger Sessions' dodecaphonic opera _Montezuma_ (1963), and the protagonist in the modern opera _La Conquista_ (2005) by Italian composer Lorenzo Ferrero, where his part is written in the Nahuatl language.
+-   The Mexican emperor is the title character in several 18th-century operas: _Motezuma_ (1733) by Antonio Vivaldi; _Motezuma_ (1771) by Josef Mysliveček; _Montezuma_ (1755) by Carl Heinrich Graun; and _Montesuma_ (1781) by Niccolò Antonio Zingarelli. He is also the subject of Roger Sessions' dodecaphonic opera _Montezuma_ (1963), and the protagonist in the modern opera _La Conquista_ (2005) by Italian composer Lorenzo Ferrero, where his part is written in the Nahuatl language.
 -   Moctezuma (spelled Montezuma) is portrayed in Lew Wallace's first novel _The Fair God_ (1873). He is portrayed as influenced by the belief that Cortes was Quetzalcoatl returned, and weak and indecisive, saving the conquistadores from certain defeat in one battle by ordering the Aztecs to stop.[45]
 -   The Marines' Hymn's opening line "From the Halls of Montezuma" refers to the Battle of Chapultepec in Mexico City during the Mexican–American War, 1846–48.
 -   Montezuma is mentioned in Neil Young's song "Cortez the Killer", from the 1975 album _Zuma_ (the title of which is also believed to have come from "Montezuma"). The Aztec empire also served as the backdrop of the song.

@@ -18,7 +18,7 @@ History
 
 Precursor technologies
 
-Camera_obscura_box.jpg Photography is the result of combining several technical discoveries, relating to seeing an image and capturing the image. The discovery of the camera obscura ("dark chamber" in Latin) that provides an image of a scene dates back to ancient China. Greek mathematicians Aristotle and Euclid independently described a pinhole camera in the 5th and 4th centuries BCE.[12][13] In the 6th century CE, Byzantine mathematician Anthemius of Tralles used a type of camera obscura in his experiments.[14] The Arab physicist Ibn al-Haytham (Alhazen) (965–1040) also invented a camera obscura and pinhole camera.[15][16]
+Photography is the result of combining several technical discoveries, relating to seeing an image and capturing the image. The discovery of the camera obscura ("dark chamber" in Latin) that provides an image of a scene dates back to ancient China. Greek mathematicians Aristotle and Euclid independently described a pinhole camera in the 5th and 4th centuries BCE.[12][13] In the 6th century CE, Byzantine mathematician Anthemius of Tralles used a type of camera obscura in his experiments.[14] The Arab physicist Ibn al-Haytham (Alhazen) (965–1040) also invented a camera obscura and pinhole camera.[15][16]
 
 Leonardo da Vinci mentions natural camera obscura that are formed by dark caves on the edge of a sunlit valley. A hole in the cave wall will act as a pinhole camera and project a laterally reversed, upside down image on a piece of paper. Renaissance painters used the camera obscura which, in fact, gives the optical rendering in color that dominates Western Art. It is a box with a hole in it which allows light to go through and create an image onto the piece of paper.
 
@@ -30,17 +30,17 @@ Around the year 1800, British inventor Thomas Wedgwood made the first known atte
 
 Invention
 
-Nicéphore_Niépce_Oldest_Photograph_1825.jpg.[25] The plate was exposed under an ordinary engraving and copied it by photographic means. This was a step towards the first permanent photograph taken with a camera.]]
+.[25] The plate was exposed under an ordinary engraving and copied it by photographic means. This was a step towards the first permanent photograph taken with a camera.]]
 
 The first permanent photoetching was an image produced in 1822 by the French inventor Nicéphore Niépce, but it was destroyed in a later attempt to make prints from it.[26] Niépce was successful again in 1825. In 1826 or 1827, he made the _View from the Window at Le Gras_, the earliest surviving photograph from nature (i.e., of the image of a real-world scene, as formed in a camera obscura by a lens).[27]
 
-View_from_the_Window_at_Le_Gras,_Joseph_Nicéphore_Niépce.jpg'', 1826 or 1827, the earliest surviving camera photograph]]
+'', 1826 or 1827, the earliest surviving camera photograph]]
 
 Because Niépce's camera photographs required an extremely long exposure (at least eight hours and probably several days), he sought to greatly improve his bitumen process or replace it with one that was more practical. In partnership with Louis Daguerre, he worked out post-exposure processing methods that produced visually superior results and replaced the bitumen with a more light-sensitive resin, but hours of exposure in the camera were still required. With an eye to eventual commercial exploitation, the partners opted for total secrecy.
 
 Niépce died in 1833 and Daguerre then redirected the experiments toward the light-sensitive silver halides, which Niépce had abandoned many years earlier because of his inability to make the images he captured with them light-fast and permanent. Daguerre's efforts culminated in what would later be named the daguerreotype process. The essential elements—a silver-plated surface sensitized by iodine vapor, developed by mercury vapor, and "fixed" with hot saturated salt water—were in place in 1837. The required exposure time was measured in minutes instead of hours. Daguerre took the earliest confirmed photograph of a person in 1838 while capturing a view of a Paris street: unlike the other pedestrian and horse-drawn traffic on the busy boulevard, which appears deserted, one man having his boots polished stood sufficiently still throughout the several-minutes-long exposure to be visible. The existence of Daguerre's process was publicly announced, without details, on 7 January 1839. The news created an international sensation. France soon agreed to pay Daguerre a pension in exchange for the right to present his invention to the world as the gift of France, which occurred when complete working instructions were unveiled on 19 August 1839. In that same year, American photographer Robert Cornelius is credited with taking the earliest surviving photographic self-portrait.
 
-Latticed_window_at_lacock_abbey_1835.jpg, England, photographed by William Fox Talbot in 1835. Shown here in positive form, this may be the oldest extant photographic negative made in a camera.]]
+, England, photographed by William Fox Talbot in 1835. Shown here in positive form, this may be the oldest extant photographic negative made in a camera.]]
 
 In Brazil, Hercules Florence had apparently started working out a silver-salt-based paper process in 1832, later naming it _Photographie_.
 
@@ -58,7 +58,7 @@ Glass plates were the medium for most original camera photography from the late 
 
 Film
 
-undeveloped_film.png 125/22°]]
+125/22°]]
 
 Hurter and Driffield began pioneering work on the light sensitivity of photographic emulsions in 1876. Their work enabled the first quantitative measure of film speed to be devised.
 
@@ -70,15 +70,15 @@ Films remained the dominant form of photography until the early 21st century whe
 
 Black-and-white
 
-Dark_room.jpg with safelight]] Originally, all photography was monochrome, or _black-and-white_. Even after color film was readily available, black-and-white photography continued to dominate for decades, due to its lower cost and its "classic" photographic look. The tones and contrast between light and dark areas define black-and-white photography.[36] It is important to note that monochromatic pictures are not necessarily composed of pure blacks, whites, and intermediate shades of gray but can involve shades of one particular hue depending on the process. The cyanotype process, for example, produces an image composed of blue tones. The albumen print process first used more than years ago, produces brownish tones.
+with safelight]] Originally, all photography was monochrome, or _black-and-white_. Even after color film was readily available, black-and-white photography continued to dominate for decades, due to its lower cost and its "classic" photographic look. The tones and contrast between light and dark areas define black-and-white photography.[36] It is important to note that monochromatic pictures are not necessarily composed of pure blacks, whites, and intermediate shades of gray but can involve shades of one particular hue depending on the process. The cyanotype process, for example, produces an image composed of blue tones. The albumen print process first used more than years ago, produces brownish tones.
 
 Many photographers continue to produce some monochrome images, sometimes because of the established archival permanence of well-processed silver-halide-based materials. Some full-color digital images are processed using a variety of techniques to create black-and-white results, and some manufacturers produce digital cameras that exclusively shoot monochrome. Monochrome printing or electronic display can be used to salvage certain photographs taken in color which are unsatisfactory in their original form; sometimes when presented as black-and-white or single-color-toned images they are found to be more effective. Although color photography has long predominated, monochrome images are still produced, mostly for artistic reasons. Almost all digital cameras have an option to shoot in monochrome, and almost all image editing software can combine or selectively discard RGB color channels to produce a monochrome image from one shot in color.
 
 Color
 
-Tartan_Ribbon.jpg made by the three-color method suggested by James Clerk Maxwell in 1855, taken in 1861 by Thomas Sutton. The subject is a colored, tartan patterned ribbon.]] Color photography was explored beginning in the 1840s. Early experiments in color required extremely long exposures (hours or days for camera images) and could not "fix" the photograph to prevent the color from quickly fading when exposed to white light.
+made by the three-color method suggested by James Clerk Maxwell in 1855, taken in 1861 by Thomas Sutton. The subject is a colored, tartan patterned ribbon.]] Color photography was explored beginning in the 1840s. Early experiments in color required extremely long exposures (hours or days for camera images) and could not "fix" the photograph to prevent the color from quickly fading when exposed to white light.
 
-The first permanent color photograph was taken in 1861 using the three-color-separation principle first published by Scottish physicist James Clerk Maxwell in 1855.[37][38] The foundation of virtually all practical color processes, Maxwell's idea was to take three separate black-and-white photographs through red, green and blue filters.[39][40] This provides the photographer with the three basic channels required to recreate a color image. Transparent prints of the images could be projected through similar color filters and superimposed on the projection screen, an additive method of color reproduction. A color print on paper could be produced by superimposing carbon prints of the three images made in their complementary colors, a subtractive method of color reproduction pioneered by Louis Ducos du Hauron in the late 1860s. Colonel_William_Willoughby_Verner,_Sanger_Shepherd_process,_by_Sarah_Acland_1903.png, as this 1903 portrait by Sarah Angelina Acland demonstrates, but in its earliest years, the need for special equipment, long exposures, and complicated printing processes made it extremely rare.]] Russian photographer Sergei Mikhailovich Prokudin-Gorskii made extensive use of this color separation technique, employing a special camera which successively exposed the three color-filtered images on different parts of an oblong plate. Because his exposures were not simultaneous, unsteady subjects exhibited color "fringes" or, if rapidly moving through the scene, appeared as brightly colored ghosts in the resulting projected or printed images.
+The first permanent color photograph was taken in 1861 using the three-color-separation principle first published by Scottish physicist James Clerk Maxwell in 1855.[37][38] The foundation of virtually all practical color processes, Maxwell's idea was to take three separate black-and-white photographs through red, green and blue filters.[39][40] This provides the photographer with the three basic channels required to recreate a color image. Transparent prints of the images could be projected through similar color filters and superimposed on the projection screen, an additive method of color reproduction. A color print on paper could be produced by superimposing carbon prints of the three images made in their complementary colors, a subtractive method of color reproduction pioneered by Louis Ducos du Hauron in the late 1860s. , as this 1903 portrait by Sarah Angelina Acland demonstrates, but in its earliest years, the need for special equipment, long exposures, and complicated printing processes made it extremely rare.]] Russian photographer Sergei Mikhailovich Prokudin-Gorskii made extensive use of this color separation technique, employing a special camera which successively exposed the three color-filtered images on different parts of an oblong plate. Because his exposures were not simultaneous, unsteady subjects exhibited color "fringes" or, if rapidly moving through the scene, appeared as brightly colored ghosts in the resulting projected or printed images.
 
 Implementation of color photography was hindered by the limited sensitivity of early photographic materials, which were mostly sensitive to blue, only slightly sensitive to green, and virtually insensitive to red. The discovery of dye sensitization by photochemist Hermann Vogel in 1873 suddenly made it possible to add sensitivity to green, yellow and even red. Improved color sensitizers and ongoing improvements in the overall sensitivity of emulsions steadily reduced the once-prohibitive long exposure times required for color, bringing it ever closer to commercial viability.
 
@@ -107,7 +107,7 @@ Synthesis photography is part of computer-generated imagery (CGI) where the shoo
 
 Techniques
 
-San_Francisco_brutalism.jpg A large variety of photographic techniques and media are used in the process of capturing images for photography. These include the camera; stereoscopy; dualphotography; full-spectrum, ultraviolet and infrared media; light field photography; and other imaging techniques.
+A large variety of photographic techniques and media are used in the process of capturing images for photography. These include the camera; stereoscopy; dualphotography; full-spectrum, ultraviolet and infrared media; light field photography; and other imaging techniques.
 
 Cameras
 
@@ -127,11 +127,11 @@ Photographs, both monochrome and color, can be captured and displayed through tw
 
 Dualphotography
 
-1485016840_IMG_7518.JPG_larger.jpg Dualphotography consists of photographing a scene from both sides of a photographic device at once (e.g. camera for back-to-back dualphotography, or two networked cameras for portal-plane dualphotography). The dualphoto apparatus can be used to simultaneously capture both the subject and the photographer, or both sides of a geographical place at once, thus adding a supplementary narrative layer to that of a single image.[46]
+Dualphotography consists of photographing a scene from both sides of a photographic device at once (e.g. camera for back-to-back dualphotography, or two networked cameras for portal-plane dualphotography). The dualphoto apparatus can be used to simultaneously capture both the subject and the photographer, or both sides of a geographical place at once, thus adding a supplementary narrative layer to that of a single image.[46]
 
 Full-spectrum, ultraviolet and infrared
 
-Saturn's_Rings_in_Ultraviolet_Light.png is an example of the application of ultraviolet photography in astronomy]]
+is an example of the application of ultraviolet photography in astronomy]]
 
 Ultraviolet and infrared films have been available for many decades and employed in a variety of photographic avenues since the 1960s. New technological trends in digital photography have opened a new direction in full spectrum photography, where careful filtering choices across the ultraviolet, visible and infrared lead to new artistic visions.
 
@@ -147,7 +147,7 @@ Digital methods of image capture and display processing have enabled the new tec
 
 These additional vector attributes can be captured optically through the use of microlenses at each pixel point within the 2-dimensional image sensor. Every pixel of the final image is actually a selection from each sub-array located under each microlens, as identified by a post-image capture focus algorithm.
 
-Müürlooga_(Arabidopsis_thaliana)_lehekarv_(trihhoom)_311_0804.JPG of _Arabidopsis thaliana_ seen via scanning electron microscope. Note that image has been edited by adding colors to clarify structure or to add an aesthetic effect. Heiti Paves from Tallinn University of Technology.]]
+of _Arabidopsis thaliana_ seen via scanning electron microscope. Note that image has been edited by adding colors to clarify structure or to add an aesthetic effect. Heiti Paves from Tallinn University of Technology.]]
 
 Other
 
@@ -171,8 +171,6 @@ Commercial photography is probably best defined as any photography for which the
 -   Crime scene photography consists of photographing scenes of crime such as robberies and murders. A black and white camera or an infrared camera may be used to capture specific details.
 -   Still life photography usually depicts inanimate subject matter, typically commonplace objects which may be either natural or man-made. Still life is a broader category for food and some natural photography and can be used for advertising purposes.
 
-Cheese_and_Tomatoes.jpg
-
 -   Food photography can be used for editorial, packaging or advertising use. Food photography is similar to still life photography but requires some special skills.
 -   Editorial photography illustrates a story or idea within the context of a magazine. These are usually assigned by the magazine and encompass fashion and glamour photography features.
     -   Photojournalism can be considered a subset of editorial photography. Photographs made in this context are accepted as a documentation of a news story.
@@ -188,7 +186,7 @@ Many people take photographs for commercial purposes. Organizations with a budge
 
 Art
 
-Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg photograph, _The Steerage_ shows unique aesthetic of black-and-white photos.]]
+photograph, _The Steerage_ shows unique aesthetic of black-and-white photos.]]
 
 During the 20th century, both fine art photography and documentary photography became accepted by the English-speaking art world and the gallery system. In the United States, a handful of photographers, including Alfred Stieglitz, Edward Steichen, John Szarkowski, F. Holland Day, and Edward Weston, spent their lives advocating for photography as a fine art. At first, fine art photographers tried to imitate painting styles. This movement is called Pictorialism, often using soft focus for a dreamy, 'romantic' look. In reaction to that, Weston, Ansel Adams, and others formed the Group f/64 to advocate 'straight photography', the photograph as a (sharply focused) thing in itself and not an imitation of something else.
 
@@ -206,7 +204,7 @@ Photojournalism is a particular form of photography (the collecting, editing, an
 
 Science and forensics
 
-Wootton_bridge.jpg in 1861]]
+in 1861]]
 
 The camera has a long and distinguished history as a means of recording scientific phenomena from the first use by Daguerre and Fox-Talbot, such as astronomical events (eclipses for example), small creatures and plants when the camera was attached to the eyepiece of microscopes (in photomicroscopy) and for macro photography of larger specimens. The camera also proved useful in recording crime scenes and the scenes of accidents, such as the Wootton bridge collapse in 1861. The methods used in analysing photographs for use in legal cases are collectively known as forensic photography. Crime scene photos are taken from three vantage point. The vantage points are overview, mid-range, and close-up.[52]
 
@@ -219,7 +217,7 @@ The first photographed atom was discovered in 2012 by physicists at Griffith Uni
 
 Social and cultural implications
 
-Aktikompositsioon_19_(J._Künnap).jpg and to produce a work of art. While photo manipulation was often frowned upon at first, it was eventually used to great extent to produce artistic effects. _Nude composition 19_ from 1988 by Jaan Künnap.]] Musée_de_l'Elysée_3.jpg, founded in 1985 in Lausanne, was the first photography museum in Europe.]]
+and to produce a work of art. While photo manipulation was often frowned upon at first, it was eventually used to great extent to produce artistic effects. _Nude composition 19_ from 1988 by Jaan Künnap.]] , founded in 1985 in Lausanne, was the first photography museum in Europe.]]
 
 There are many ongoing questions about different aspects of photography. In her writing "On Photography" (1977), Susan Sontag discusses concerns about the objectivity of photography. This is a highly debated subject within the photographic community.[59] Sontag argues, "To photograph is to appropriate the thing photographed. It means putting one's self into a certain relation to the world that feels like knowledge, and therefore like power."[60] Photographers decide what to take a photo of, what elements to exclude and what angle to frame the photo, and these factors may reflect a particular socio-historical context. Along these lines, it can be argued that photography is a subjective form of representation.
 

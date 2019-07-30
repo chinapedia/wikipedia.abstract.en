@@ -12,7 +12,7 @@ Macha was honored on a 50 Haleru and a 1 Koruna stamp on 30 April 1936, Scott Ca
 
 Works
 
-Karel_Hynek_Macha_statue.jpeg His lyrical epic poem "Máj" (May), published in 1836 shortly before his death, was judged by his contemporaries as confusing, too individualistic, and not in harmony with the national ideas.[4] Czech playwright Josef Kajetán Tyl even wrote a parody of Mácha's style, "Rozervanec" (The Chaotic). "Máj" was rejected by publishers, and was published by a vanity press at Mácha's own expense, not long before his early death. Josef Bohuslav Foerster set May for choir and orchestra as his Op.159.
+His lyrical epic poem "Máj" (May), published in 1836 shortly before his death, was judged by his contemporaries as confusing, too individualistic, and not in harmony with the national ideas.[4] Czech playwright Josef Kajetán Tyl even wrote a parody of Mácha's style, "Rozervanec" (The Chaotic). "Máj" was rejected by publishers, and was published by a vanity press at Mácha's own expense, not long before his early death. Josef Bohuslav Foerster set May for choir and orchestra as his Op.159.
 
 Mácha's genius was discovered and glorified much later by the poets and novelists of the 1850s (e.g., Jan Neruda, Vítězslav Hálek, and Karolina Světlá) and "Máj" is now regarded as the classic work of Czech Romanticism and is considered one of the best Czech poems ever written. It contains forebodings of many of the tendencies of 20th-century literature: existentialism, alienation, isolation, surrealism, and so on.
 

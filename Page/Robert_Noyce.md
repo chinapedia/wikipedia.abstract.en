@@ -23,7 +23,7 @@ Noyce had a mind so quick that his graduate school friends called him "Rapid Rob
 
 Career
 
-Robert_Noyce_and_Gordon_Moore_at_SC1_1970.png in front of the Intel SC1 building in Santa Clara in 1970.]] After graduating from MIT in 1953, Noyce took a job as a research engineer at the Philco Corporation in Philadelphia. He left in 1956 to join William Shockley, a co-inventor of the transistor and eventual Nobel Prize winner, at the Shockley Semiconductor Laboratory[26] in Mountain View, California.
+in front of the Intel SC1 building in Santa Clara in 1970.]] After graduating from MIT in 1953, Noyce took a job as a research engineer at the Philco Corporation in Philadelphia. He left in 1956 to join William Shockley, a co-inventor of the transistor and eventual Nobel Prize winner, at the Shockley Semiconductor Laboratory[26] in Mountain View, California.
 
 Noyce left a year later with the "traitorous eight"[27] upon having issues with Shockley's management style, and co-founded the influential Fairchild Semiconductor corporation. According to Sherman Fairchild, Noyce's impassioned presentation of his vision was the reason Fairchild had agreed to create the semiconductor division for the traitorous eight.
 

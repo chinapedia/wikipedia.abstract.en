@@ -9,11 +9,11 @@ History
 
 Prehistory
 
-1997_278-10_Sahara_glyph.jpg Early human settlement in Niger is evidenced by numerous archaeological remains. In prehistoric times, the climate of the Sahara (Ténéré desert in Niger) was wet and provided favorable conditions for agriculture and livestock herding in a fertile grassland environment five thousand years ago.[9]
+Early human settlement in Niger is evidenced by numerous archaeological remains. In prehistoric times, the climate of the Sahara (Ténéré desert in Niger) was wet and provided favorable conditions for agriculture and livestock herding in a fertile grassland environment five thousand years ago.[9]
 
 In 2005–06, a graveyard in the Ténéré desert was discovered by Paul Sereno, a paleontologist from the University of Chicago.[10] His team discovered 5,000-year-old remains of a woman and two children in the Ténéré Desert.[11] The evidence along with remains of animals that do not typically live in desert are among the strongest evidence of the 'green' Sahara in Niger. It is believed that progressive desertification around 5000 BC pushed sedentary populations to the south and south-east (Lake Chad).[12]
 
-Photo1906_Zinder_overview.jpg and the Sultan's Palace from the French fort (1906). The arrival of the French spelled a sudden end for precolonial states like the Sultanate of Damagaram, which carried on only as ceremonial "chiefs" appointed by the colonial government.]]
+and the Sultan's Palace from the French fort (1906). The arrival of the French spelled a sudden end for precolonial states like the Sultanate of Damagaram, which carried on only as ceremonial "chiefs" appointed by the colonial government.]]
 
 Empires and kingdoms in pre-colonial Niger
 
@@ -23,7 +23,7 @@ Songhai Empire (600–1591)
 
 The Songhai Empire was an empire bearing the name of its main ethnic group, the Songhai or Sonrai, located in western Africa on the bend of the Niger River in present-day Niger, Mali and Burkina Faso. In the 7th century, Songhai tribes settled down north of modern-day Niamey and founded the Songhai city-states of Koukia and Gao. By the 11th century, Gao had become the capital of the Songhai Empire.[14]
 
-From 1000 to 1325, The Songhai Empire prospered and managed to maintain peace with its neighboring empires including the Mali Empire. In 1325 the Songhai Empire was conquered by the Mali Empire but was freed in 1335 by prince Ali Kolen and his brother, Songhai princes held captive by Moussa Kankan, the ruler of the Mali Empire.[15] From the mid-15th to the late 16th century, Songhai was one of the largest Islamic empires in history.[16] Kaouartal-bei-Bilma.jpg escarpment, forming an oasis in the Ténéré desert.]]
+From 1000 to 1325, The Songhai Empire prospered and managed to maintain peace with its neighboring empires including the Mali Empire. In 1325 the Songhai Empire was conquered by the Mali Empire but was freed in 1335 by prince Ali Kolen and his brother, Songhai princes held captive by Moussa Kankan, the ruler of the Mali Empire.[15] From the mid-15th to the late 16th century, Songhai was one of the largest Islamic empires in history.[16] escarpment, forming an oasis in the Ténéré desert.]]
 
 Hausa kingdoms (mid-14th century – 1808)
 
@@ -41,7 +41,7 @@ The Kanem-Bornu Empire was an empire that existed in modern-day Chad, Nigeria, C
 
 French Niger (1900–58)
 
-French_West_Africa_1913_map.png, circa 1913]] In the 19th century, contact with Europe began with the first European explorers—notably Monteil (French) and Barth (German)—to travel to Niger.
+, circa 1913]] In the 19th century, contact with Europe began with the first European explorers—notably Monteil (French) and Barth (German)—to travel to Niger.
 
 Following the 1885 Berlin conference during which colonial powers outlined the division of Africa into colonial spheres, French military efforts to conquer existing African states were intensified in all French colonies including Niger. This included several military expeditions including the Voulet Chanoine Mission, which became notorious for pillaging, looting, raping and killing many local civilians on its passage. On 8 May 1899, in retaliation for the resistance of queen Sarraounia, captain Voulet and his men murdered all the inhabitants of the village of Birni-N'Konni in what is regarded as one of the worst massacres in French colonial history. French military expeditions met great resistance from several ethnic groups, especially Hausa and Tuareg groups. The most notable Tuareg revolt was the Kaocen Revolt. The French authorities also abolished the widespread slavery among Tuareg communities.
 
@@ -51,7 +51,7 @@ The end of the colonial era was characterized by a transformation of the politic
 
 Independence (1958)
 
-Following the Overseas Reform Act (_Loi Cadre_) of 23 July 1956 and the establishment of the Fifth French Republic on 4 December 1958, Niger became an autonomous state within the French Community. On 18 December 1958, the Republic of Niger was officially created with Hamani Diori as the head of the Counsel of Ministers of the Republic of Niger. On 11 July 1960, Niger decided to leave the French Community and acquired full independence on 3 August 1960 with Diori as its first president. Bundesarchiv_B_145_Bild-F028554-0009,_Niger,_Staatsbesuch_Bundespräsident_Lübke.jpg and visiting German President Dr. Heinrich Lübke greet crowds on a state visit to Niamey, 1969. Diori's single party rule was characterized by good relations with the west and a preoccupation with foreign affairs.]] For its first fourteen years as an independent state, Niger was run by a single-party civilian regime under the presidency of Diori. In 1974, a combination of devastating drought and accusations of rampant corruption resulted in a coup d'état that overthrew the Diori regime.
+Following the Overseas Reform Act (_Loi Cadre_) of 23 July 1956 and the establishment of the Fifth French Republic on 4 December 1958, Niger became an autonomous state within the French Community. On 18 December 1958, the Republic of Niger was officially created with Hamani Diori as the head of the Counsel of Ministers of the Republic of Niger. On 11 July 1960, Niger decided to leave the French Community and acquired full independence on 3 August 1960 with Diori as its first president. and visiting German President Dr. Heinrich Lübke greet crowds on a state visit to Niamey, 1969. Diori's single party rule was characterized by good relations with the west and a preoccupation with foreign affairs.]] For its first fourteen years as an independent state, Niger was run by a single-party civilian regime under the presidency of Diori. In 1974, a combination of devastating drought and accusations of rampant corruption resulted in a coup d'état that overthrew the Diori regime.
 
 First military regime: The Supreme Military Council and Second Republic 1974–1991
 
@@ -89,7 +89,7 @@ On 9 April 1999, Maïnassara was assassinated during a military coup led by Maj.
 
 Fifth republic 1999–2009
 
-Nigerien_MNJ_fighter_technical_gun.JPG rebel fighter in northern Niger, 2008]] After winning the election in November 1999, President Tandja Mamadou was sworn in office on 22 December 1999 as the first president of the Fifth Republic. The first mandate of Tandja Mamadou brought about many administrative and economic reforms that had been halted due to the military coups since the Third Republic. In August 2002, serious unrest within military camps occurred in Niamey, Diffa, and Nguigmi, but the government was able to restore order within several days. On 24 July 2004, the first municipal elections in the history of Niger were held to elect local representatives, previously appointed by the government. These elections were followed by presidential elections. President Tandja Mamadou was re-elected for a second term, thus becoming the first president of the republic to win consecutive elections without being deposed by military coups. The legislative and executive configuration remained quite similar to that of the first term of the President: Hama Amadou was reappointed as Prime Minister and Mahamane Ousmane, the head of the CDS party, was re-elected as the President of the National Assembly (parliament) by his peers.
+rebel fighter in northern Niger, 2008]] After winning the election in November 1999, President Tandja Mamadou was sworn in office on 22 December 1999 as the first president of the Fifth Republic. The first mandate of Tandja Mamadou brought about many administrative and economic reforms that had been halted due to the military coups since the Third Republic. In August 2002, serious unrest within military camps occurred in Niamey, Diffa, and Nguigmi, but the government was able to restore order within several days. On 24 July 2004, the first municipal elections in the history of Niger were held to elect local representatives, previously appointed by the government. These elections were followed by presidential elections. President Tandja Mamadou was re-elected for a second term, thus becoming the first president of the republic to win consecutive elections without being deposed by military coups. The legislative and executive configuration remained quite similar to that of the first term of the President: Hama Amadou was reappointed as Prime Minister and Mahamane Ousmane, the head of the CDS party, was re-elected as the President of the National Assembly (parliament) by his peers.
 
 By 2007, the relationship between President Tandja Mamadou and his prime minister had deteriorated, leading to the replacement of the latter in June 2007 by Seyni Oumarou following a successful vote of no confidence at the Assembly. From 2007 to 2008, the Second Tuareg Rebellion took place in northern Niger, worsening economic prospects at a time of political limited progress. The political environment worsened in the following year as President Tandja Mamadou sought out to extend his presidency by modifying the constitution which limited presidential terms in Niger. Proponents of the extended presidency, rallied behind the Tazartche movement, were countered by opponents (anti-Tazartche) composed of opposition party militants and civil society activists.
 
@@ -106,7 +106,7 @@ Following the adoption of the newest constitution of 2010 and the presidential e
 
 Geography, climate, and ecology
 
-Ng-map.png Niger is a landlocked nation in West Africa located along the border between the Sahara and Sub-Saharan regions. It borders Nigeria and Benin to the south, Burkina Faso and Mali to the west, Algeria and Libya to the north and Chad to the east.
+Niger is a landlocked nation in West Africa located along the border between the Sahara and Sub-Saharan regions. It borders Nigeria and Benin to the south, Burkina Faso and Mali to the west, Algeria and Libya to the north and Chad to the east.
 
 Niger lies between latitudes 11° and 24°N, and longitudes 0° and 16°E. Niger's area is of which is water. This makes it slightly less than twice the size of France, and the world's twenty-second largest country.
 
@@ -116,13 +116,11 @@ The lowest point is the Niger River, with an elevation of . The highest point is
 
 Climate
 
-Niger_map_of_Köppen_climate_classification.svg
-
 Niger's subtropical climate is mainly very hot and very dry, with much desert area. In the extreme south there is a tropical climate on the edges of the Niger River basin. The terrain is predominantly desert plains and sand dunes, with flat to rolling savanna in the south and hills in the north.
 
 Environment
 
-Elephant_dust_bath_park_w_niger.jpg.]] The north of Niger is covered by large deserts and semi deserts. The typical mammal fauna consists of Addax antelopes, Scimitar-horned oryx, gazelles and in mountains Barbary sheep. One of the largest reserves of the world, the Aïr and Ténéré National Nature Reserve, was founded in the northern parts of the Niger to protect these rare species.
+.]] The north of Niger is covered by large deserts and semi deserts. The typical mammal fauna consists of Addax antelopes, Scimitar-horned oryx, gazelles and in mountains Barbary sheep. One of the largest reserves of the world, the Aïr and Ténéré National Nature Reserve, was founded in the northern parts of the Niger to protect these rare species.
 
 The southern parts of Niger are naturally dominated savannahs. The W National Park, situated in the bordering area to Burkina Faso and Benin, belongs to one of the most important areas for wildlife in Western Africa, which is called the WAP (W–Arli–Pendjari) Complex. It has the most important population of the rare West African lion and one of the last populations of the Northwest African cheetah.
 
@@ -133,7 +131,7 @@ Environmental issues in Niger include destructive farming practices as a result 
 
 Governance and politics
 
-Mahamadou_Issoufou-IMG_3628.jpg, President of Niger.]] Niger's new constitution was approved on 31 October 2010. It restored the semi-presidential system of government of the 1999 constitution (Fifth Republic) in which the president of the republic, elected by universal suffrage for a five-year term, and a prime minister named by the president share executive power.
+, President of Niger.]] Niger's new constitution was approved on 31 October 2010. It restored the semi-presidential system of government of the 1999 constitution (Fifth Republic) in which the president of the republic, elected by universal suffrage for a five-year term, and a prime minister named by the president share executive power.
 
 As a reflection of Niger's increasing population, the unicameral National Assembly was expanded in 2004 to 113 deputies elected for a five-year term under a majority system of representation. Political parties must attain at least 5 percent of the vote in order to gain a seat in the legislature.
 
@@ -145,7 +143,7 @@ The military kept their promise to return the country to democratic civilian rul
 
 Foreign relations
 
-Drapeau_Niger_ambassade_Paris.jpg Niger pursues a moderate foreign policy and maintains friendly relations with the West and the Islamic world as well as non-aligned countries. It belongs to the UN and its main specialized agencies and in 1980–81 served on the UN Security Council. Niger maintains a special relationship with former colonial power France and has close relations with its West African neighbors.
+Niger pursues a moderate foreign policy and maintains friendly relations with the West and the Islamic world as well as non-aligned countries. It belongs to the UN and its main specialized agencies and in 1980–81 served on the UN Security Council. Niger maintains a special relationship with former colonial power France and has close relations with its West African neighbors.
 
 It is a charter member of the African Union and the West African Monetary Union and also belongs to the Niger Basin Authority and Lake Chad Basin Commission, the Economic Community of West African States, the Non-Aligned Movement, the Organisation of Islamic Cooperation and the Organization for the Harmonization of Business Law in Africa (OHADA). The westernmost regions of Niger are joined with contiguous regions of Mali and Burkina Faso under the Liptako-Gourma Authority.
 
@@ -179,7 +177,7 @@ The armed forces are composed of approximately 12,900 personnel, including 3,700
 
 Administrative divisions
 
-Niger_administrative_divisions.svg Niger is divided into 7 Regions and one capital district. These Regions are subdivided into 36 departments. The 36 Departments are currently broken down into Communes of varying types. there were 265 communes, including communes urbaines (Urban Communes: as subdivisions of major cities), communes rurales (Rural Communes), in sparsely populated areas and postes administratifs (Administrative Posts) for largely uninhabited desert areas or military zones.
+Niger is divided into 7 Regions and one capital district. These Regions are subdivided into 36 departments. The 36 Departments are currently broken down into Communes of varying types. there were 265 communes, including communes urbaines (Urban Communes: as subdivisions of major cities), communes rurales (Rural Communes), in sparsely populated areas and postes administratifs (Administrative Posts) for largely uninhabited desert areas or military zones.
 
 Rural communes may contain official villages and settlements, while Urban Communes are divided into quarters. Niger subvisions were renamed in 2002, in the implementation of a decentralisation project, first begun in 1998. Previously, Niger was divided into 7 Departments, 36 Arrondissements, and Communes. These subdivisions were administered by officials appointed by the national government. These offices will be replaced in the future by democratically elected councils at each level.
 
@@ -199,7 +197,7 @@ Largest cities and towns
 
 Economy
 
-Niamey_night.jpg, Niger's capital and economic hub.]] The economy of Niger centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Drought cycles, desertification, a 2.9% population growth rate, and the drop in world demand for uranium have undercut the economy.
+, Niger's capital and economic hub.]] The economy of Niger centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Drought cycles, desertification, a 2.9% population growth rate, and the drop in world demand for uranium have undercut the economy.
 
 Niger shares a common currency, the CFA franc, and a common central bank, the Central Bank of West African States (BCEAO), with seven other members of the West African Monetary Union. Niger is also a member of the Organization for the Harmonization of Business Law in Africa (OHADA).[34]
 
@@ -212,7 +210,7 @@ Society
 
 Demographics
 
-1997_275-15_young_Wodaabe_women.jpg women with traditional facial tattoos.]]
+women with traditional facial tattoos.]]
 
 +------+------------------------+
 | Year | Million                |
@@ -244,8 +242,6 @@ Niger has ten recognized national languages, namely Arabic, Buduma, Fulfulde, Go
 
 Largest cities
 
-Niger,_Niamey,_Boulevard_Mali_Béro_(1)(Rue_RF-34).jpg
-
 +--------------+-------------------------+------------+------------------------------+
 | City         | Census division         | Population | Position[47]                 |
 |              |                         | 2012[46]   |                              |
@@ -273,7 +269,7 @@ Niger,_Niamey,_Boulevard_Mali_Béro_(1)(Rue_RF-34).jpg
 
 Religion
 
-Niamey_Mosque.jpg]] Niger is a secular country and separation of state and religion is guaranteed by Articles 3 and 175 of the 2010 Constitution, which dictate that future amendments or revisions may not modify the secular nature of the republic of Niger. Religious freedom is protected by Article 30 of the same constitution. Islam, widespread in the region since the 10th century, has greatly shaped the culture and mores of the people of Niger. Islam is the most dominant religion, practiced by 99.3% of the population according to the 2012 census.[48]
+]] Niger is a secular country and separation of state and religion is guaranteed by Articles 3 and 175 of the 2010 Constitution, which dictate that future amendments or revisions may not modify the secular nature of the republic of Niger. Religious freedom is protected by Article 30 of the same constitution. Islam, widespread in the region since the 10th century, has greatly shaped the culture and mores of the people of Niger. Islam is the most dominant religion, practiced by 99.3% of the population according to the 2012 census.[48]
 
 The other two main religions of Niger are Christianity, practiced by 0.3% of the population, and Animism (traditional indigenous religious beliefs), practiced by 0.2% of the population.[49] Christianity was established earlier in the country by missionaries during the French colonial years. Other urban Christian expatriate communities from Europe and West Africa are also presented. Religious persecution is rare in Niger which is ranked last (#50) on the World Watch List for severity of persecution that Christians face for actively pursuing their faith.
 
@@ -283,7 +279,7 @@ Islam
 
 The majority of Muslims in Niger are Sunni, 7% are Shi'a, 5% are Ahmadiyya and 20% non-denominational.[51][52] Islam was spread into what is now Niger beginning in the 15th century, by both the expansion of the Songhai Empire in the west, and the influence of the Trans-Saharan trade traveling from the Maghreb and Egypt. Tuareg expansion from the north, culminating in their seizure of the far eastern oases from the Kanem-Bornu Empire in the 17th centuries, spread distinctively Berber practices.
 
-Niger,_Filingué_(25),_street_scene_with_mosque.jpg]] Both Zarma and Hausa areas were greatly influenced by the 18th- and 19th-century Fula led Sufi brotherhoods, most notably the Sokoto Caliphate (in today's Nigeria). Modern Muslim practice in Niger is often tied to the Tijaniya Sufi brotherhoods, although there are small minority groups tied to Hammallism and Nyassist Sufi orders in the west, and the Sanusiya in the far northeast.[53]
+]] Both Zarma and Hausa areas were greatly influenced by the 18th- and 19th-century Fula led Sufi brotherhoods, most notably the Sokoto Caliphate (in today's Nigeria). Modern Muslim practice in Niger is often tied to the Tijaniya Sufi brotherhoods, although there are small minority groups tied to Hammallism and Nyassist Sufi orders in the west, and the Sanusiya in the far northeast.[53]
 
 A small center of followers of Salafi movement within Sunni Islam have appeared in the last thirty years, in the capital and in Maradi.[54] These small groups, linked to similar groups in Jos, Nigeria, came to public prominence in the 1990s during a series of religious riots.[55][56][57]
 
@@ -291,7 +287,7 @@ Despite this, Niger maintains a tradition as a secular state, protected by law.[
 
 Education
 
-Niger_primary_school_MCC3500.jpg The literacy rate of Niger is among the lowest in the world; in 2005 it was estimated to be only 28.7% (42.9% male and 15.1% female).[61] Primary education in Niger is compulsory for six years.[62] The primary school enrollment and attendance rates are low, particularly for girls.[63] In 1997, the gross primary enrollment rate was 29.3 percent, and in 1996, the net primary enrollment rate was 24.5 percent.[64]
+The literacy rate of Niger is among the lowest in the world; in 2005 it was estimated to be only 28.7% (42.9% male and 15.1% female).[61] Primary education in Niger is compulsory for six years.[62] The primary school enrollment and attendance rates are low, particularly for girls.[63] In 1997, the gross primary enrollment rate was 29.3 percent, and in 1996, the net primary enrollment rate was 24.5 percent.[64]
 
 About 60 percent of children who finish primary schools are boys, as the majority of girls rarely attend school for more than a few years.[65] Children are often forced to work rather than attend school, particularly during planting or harvest periods.[66] Nomadic children in the north of the country often do not have access to schools.[67]
 
@@ -304,7 +300,7 @@ Niger also has the highest fertility rate in the world (6.49 births per woman ac
 
 Culture
 
-Zinder_sultans_horsemen_festival.jpg festival at the Sultan's Palace in the Hausa city of Zinder.]] Ancient_home_zinder_niger.jpg.]]
+festival at the Sultan's Palace in the Hausa city of Zinder.]] .]]
 
 Nigerien culture is marked by variation, evidence of the cultural crossroads which French colonialism formed into a unified state from the beginning of the 20th century. What is now Niger was created from four distinct cultural areas in the pre-colonial era: the Zarma dominated Niger River valley in the southwest; the northern periphery of Hausaland, made mostly of those states which had resisted the Sokoto Caliphate, and ranged along the long southern border with Nigeria; the Lake Chad basin and Kaouar in the far east, populated by Kanuri farmers and Toubou pastoralists who had once been part of the Kanem-Bornu Empire; and the Tuareg nomads of the Aïr Mountains and Saharan desert in the vast north.
 
@@ -316,7 +312,7 @@ Festivals and cultural events
 
 Guérewol festival
 
-1997_274-5_Gerewol.jpg perform the _Guérewol_ dance, 1997.]] The Guérewol festival is a traditional Wodaabe cultural event that takes place in Abalak in Tahoua region or In'Gall in Agadez Region. It is an annual traditional courtship ritual practiced by the Wodaabe (Fula) people of Niger. During this ceremony, young men dressed in elaborate ornamentation and made up in traditional face painting gather in lines to dance and sing, vying for the attention of marriageable young women. The Guérewol festival is an international attraction and was featured in films and magazines as prominent as the National Geographic.
+perform the _Guérewol_ dance, 1997.]] The Guérewol festival is a traditional Wodaabe cultural event that takes place in Abalak in Tahoua region or In'Gall in Agadez Region. It is an annual traditional courtship ritual practiced by the Wodaabe (Fula) people of Niger. During this ceremony, young men dressed in elaborate ornamentation and made up in traditional face painting gather in lines to dance and sing, vying for the attention of marriageable young women. The Guérewol festival is an international attraction and was featured in films and magazines as prominent as the National Geographic.
 
 Cure Salée festival
 

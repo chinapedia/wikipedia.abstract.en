@@ -26,13 +26,11 @@ Congressional action
 
 Introduction of Nebraska bill
 
-United_States_1853-12-1854.png and the Gadsden Purchase. Douglas sought to organize parts of the area labeled as "Unorganized territory."]] The bill was reported to the main body of the Senate on January 4, 1854. It had been modified by Douglas, who had also authored the New Mexico Territory and Utah Territory Acts, to mirror the language from the Compromise of 1850. In the bill, a vast new Nebraska Territory was created to extend from Kansas north all the way to the 49th parallel, the US–Canada border. A large portion of Nebraska Territory would soon be split off into Dakota Territory (1861), and smaller portions transferred to Colorado Territory (1861) and Idaho Territory (1863) before the balance of the land became the State of Nebraska in 1867.
+and the Gadsden Purchase. Douglas sought to organize parts of the area labeled as "Unorganized territory."]] The bill was reported to the main body of the Senate on January 4, 1854. It had been modified by Douglas, who had also authored the New Mexico Territory and Utah Territory Acts, to mirror the language from the Compromise of 1850. In the bill, a vast new Nebraska Territory was created to extend from Kansas north all the way to the 49th parallel, the US–Canada border. A large portion of Nebraska Territory would soon be split off into Dakota Territory (1861), and smaller portions transferred to Colorado Territory (1861) and Idaho Territory (1863) before the balance of the land became the State of Nebraska in 1867.
 
 Furthermore, any decisions on slavery in the new lands were to be made "when admitted as a state or states, the said territory, or any portion of the same, shall be received into the Union, with or without slavery, as their constitution may prescribe at the time of their admission."[11] In a report accompanying the bill, Douglas's committee wrote that the Utah and New Mexico Acts:
 
 The report compared the situation in New Mexico and Utah with the situation in Nebraska. In the first instance, many had argued that slavery had previously been prohibited under Mexican law, just as it was prohibited in Nebraska under the Missouri Compromise. Just as the creation of New Mexico and Utah territories had not ruled on the validity of Mexican law on the acquired territory, the Nebraska bill was neither "affirming or repealing ... the Missouri act." In other words, popular sovereignty was being established by ignoring, rather than addressing, the problem presented by the Missouri Compromise.[12]
-
-Stephen_Arnold_Douglas.jpg
 
 Douglas's attempt to finesse his way around the Missouri Compromise did not work. Kentucky Whig Archibald Dixon believed that unless the Missouri Compromise was explicitly repealed, slaveholders would be reluctant to move to the new territory until slavery was actually approved by the settlers, who would most likely oppose slavery. On January 16 Dixon surprised Douglas by introducing an amendment that would repeal the section of the Missouri Compromise that prohibited slavery north of the 36°30' parallel. Douglas met privately with Dixon and in the end, despite his misgivings on Northern reaction, agreed to accept Dixon's arguments.[13]
 
@@ -52,7 +50,7 @@ Debate in Senate
 
 On January 23, a revised bill was introduced in the Senate that repealed the Missouri Compromise and divided the territory into two territories: Kansas and Nebraska. The division was the result of concerns expressed by settlers already in Nebraska as well as the senators from Iowa, who were concerned with the location of the territory's seat of government if such a large territory were created. Existing language to affirm the application of all other laws of the United States in the new territory was supplemented by the language agreed on with Pierce: "except the eighth section of the act preparatory to the admission of Missouri into the Union, approved March 6, 1820, which was superseded by the legislation of 1850, commonly called the compromise measures, and is declared inoperative." Identical legislation was soon introduced in the House.[20]
 
-Forcing_Slavery_Freesoilers_Throats.jpg being held down by James Buchanan and Lewis Cass standing on the Democratic platform marked "Kansas," "Cuba," and "Central America", referring to accusations that southerners wanted to annex areas in Latin America to expand slavery. Franklin Pierce also holds down the giant's beard, as Stephen A. Douglas shoves a black man down his throat.]]
+being held down by James Buchanan and Lewis Cass standing on the Democratic platform marked "Kansas," "Cuba," and "Central America", referring to accusations that southerners wanted to annex areas in Latin America to expand slavery. Franklin Pierce also holds down the giant's beard, as Stephen A. Douglas shoves a black man down his throat.]]
 
 Historian Allan Nevins wrote that "two interconnected battles began to rage, one in Congress and one in the country at large: each fought with a pertinacity, bitterness, and rancor unknown even in Wilmot Proviso days." In Congress, the freesoilers were at a distinct disadvantage. The Democrats held large majorities in each house, and Douglas, "a ferocious fighter, the fiercest, most ruthless, and most unscrupulous that Congress had perhaps ever known" led a tightly disciplined party. It was in the nation at large that the opponents of Nebraska hoped to achieve a moral victory. _The New York Times_, which had earlier supported Pierce, predicted that this would be the final straw for Northern supporters of the slavery forces and would "create a deep-seated, intense, and ineradicable hatred of the institution which will crush its political power, at all hazards, and at any cost."[21]
 
@@ -62,7 +60,7 @@ Douglas took the appeal personally and responded in Congress, when the debate wa
 
 The debate would continue for four months, as many Anti-Nebraska political rallies were held across the north. Douglas remained the main advocate for the bill while Chase, William Seward, of New York, and Charles Sumner, of Massachusetts, led the opposition. The _New-York Tribune_ wrote on March 2:
 
-samuel_houston.jpg_' from Texas was one of the few southern opponents of the Kansas–Nebraska Act. In the debate he urged, "_Maintain the Missouri Compromise!'' Stir not up agitation! Give us peace!"[22]]] AlexStephens.jpg The debate in the Senate concluded on March 4, 1854, when Douglas, beginning near midnight on March 3, made a five-and-a-half-hour speech. The final vote in favor of passage was 37 to 14.[23] Free-state senators voted 14 to 12 in favor, and slave-state senators supported the bill 23 to 2.[24]
+_' from Texas was one of the few southern opponents of the Kansas–Nebraska Act. In the debate he urged, "_Maintain the Missouri Compromise!'' Stir not up agitation! Give us peace!"[22]]] The debate in the Senate concluded on March 4, 1854, when Douglas, beginning near midnight on March 3, made a five-and-a-half-hour speech. The final vote in favor of passage was 37 to 14.[23] Free-state senators voted 14 to 12 in favor, and slave-state senators supported the bill 23 to 2.[24]
 
 Debate in House of Representatives
 
@@ -70,7 +68,7 @@ On March 21, 1854, as a delaying tactic in the House of Representatives, the leg
 
 Thomas Hart Benton was among those speaking forcefully against the measure. On April 25, in a House speech that biographer William Nisbet Chambers called "long, passionate, historical, [and] polemical," Benton attacked the repeal of the Missouri Compromise, which he "had stood upon ... above thirty years, and intended to stand upon it to the end—solitary and alone, if need be; but preferring company." The speech was distributed afterwards as a pamphlet when opposition to the act moved outside the walls of Congress.[27]
 
-It was not until May 8 that the debate began in the House. The debate was even more intense than in the Senate. While it seemed to be a foregone conclusion that the bill would pass, the opponents went all out to fight it.[28] Historian Michael Morrison wrote: Thomas_Hart_Benton_(senator)_2.jpg
+It was not until May 8 that the debate began in the House. The debate was even more intense than in the Senate. While it seemed to be a foregone conclusion that the bill would pass, the opponents went all out to fight it.[28] Historian Michael Morrison wrote:
 
 The floor debate was handled by Alexander Stephens, of Georgia, who insisted that the Missouri Compromise had never been a true compromise but had been imposed on the South. He argued that the issue was whether republican principles, "that the citizens of every distinct community or State should have the right to govern themselves in their domestic matters as they please," would be honored.[29]
 
@@ -84,15 +82,13 @@ President Franklin Pierce signed the Kansas–Nebraska Act into law on May 30, 1
 
 Aftermath
 
-CSumner.jpg
-
 Immediate responses to the passage of the Kansas–Nebraska Act fell into two classes. The less common response was held by Douglas's supporters, who believed that the bill would withdraw "the question of slavery from the halls of Congress and the political arena, committing it to the arbitration of those who were immediately interested in, and alone responsible for, its consequences."[35] In other words, they believed that the Act would leave decisions about slavery in the hands of the people, rather than under the carefully balanced jurisdiction of the Federal government. The far more common response was one of outrage, interpreting Douglas's actions as part of "an atrocious plot."[36] Especially in the eyes of northerners, the Kansas–Nebraska Act was aggression and an attack on the power and beliefs of free states.[37] The response led to calls for public action against the South, as seen in broadsides that advertised gatherings in northern states to discuss publicly what to do about the presumption of the Act.[38]
 
 Douglas and former Illinois Representative Abraham Lincoln aired their disagreement over the Kansas–Nebraska Act in seven public speeches during September and October 1854.[39] Lincoln gave his most comprehensive argument against slavery and the provisions of the act in Peoria, Illinois, on October 16, in the Peoria Speech.[40] He and Douglas both spoke to the large audience, Douglas first and Lincoln in response, two hours later. Lincoln's three-hour speech presented thorough moral, legal, and economic arguments against slavery and raised Lincoln's political profile for the first time. The speeches set the stage for the Lincoln-Douglas debates four years later, when Lincoln sought Douglas's Senate seat.[41]
 
 Bleeding Kansas
 
-Reynolds's_Political_Map_of_the_United_States_1856.jpg (green), and Kansas (white)]]
+(green), and Kansas (white)]]
 
 BLEEDING KANSAS, BLOODY KANSAS or the BORDER WAR was a series of violent political confrontations in the United States between 1854 and 1861 involving anti-slavery "Free-Staters" and pro-slavery "Border Ruffian", or "southern" elements in Kansas. At the heart of the conflict was the question of whether Kansas would allow or outlaw slavery, and thus enter the Union as a slave state or a free state.
 

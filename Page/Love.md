@@ -9,13 +9,13 @@ Ancient Greek philosophers identified five forms of love: essentially, familial 
 
 Definitions
 
-Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg]]
+]]
 
 The word "love" can have a variety of related but distinct meanings in different contexts. Many other languages use multiple words to express some of the different concepts that in English are denoted as "love"; one example is the plurality of Greek words for "love" which includes _agape_ and _eros_.[10] Cultural differences in conceptualizing love thus doubly impede the establishment of a universal definition.[11]
 
 Although the nature or essence of love is a subject of frequent debate, different aspects of the word can be clarified by determining what _isn't_ love (antonyms of "love"). Love as a general expression of positive sentiment (a stronger form of _like_) is commonly contrasted with hate (or neutral apathy). As a less-sexual and more-emotionally intimate form of romantic attachment, love is commonly contrasted with lust. As an interpersonal relationship with romantic overtones, love is sometimes contrasted with friendship, although the word _love_ is often applied to close friendships or platonic love. (Further possible ambiguities come with usages "girlfriend", "boyfriend", "just good friends").
 
-Columpio_Veracruz_059.jpg origin). Museum of Anthropology in Xalapa, Veracruz, Mexico]] Abstractly discussed, _love_ usually refers to an experience one person feels for another. Love often involves caring for, or identifying with, a person or thing (cf. vulnerability and care theory of love), including oneself (cf. narcissism). In addition to cross-cultural differences in understanding love, ideas about love have also changed greatly over time. Some historians date modern conceptions of romantic love to courtly Europe during or after the Middle Ages, although the prior existence of romantic attachments is attested by ancient love poetry.[12]
+origin). Museum of Anthropology in Xalapa, Veracruz, Mexico]] Abstractly discussed, _love_ usually refers to an experience one person feels for another. Love often involves caring for, or identifying with, a person or thing (cf. vulnerability and care theory of love), including oneself (cf. narcissism). In addition to cross-cultural differences in understanding love, ideas about love have also changed greatly over time. Some historians date modern conceptions of romantic love to courtly Europe during or after the Middle Ages, although the prior existence of romantic attachments is attested by ancient love poetry.[12]
 
 The complex and abstract nature of love often reduces discourse of love to a thought-terminating cliché. Several common proverbs regard love, from Virgil's "Love conquers all" to The Beatles' "All You Need Is Love". St. Thomas Aquinas, following Aristotle, defines love as "to will the good of another."[13] Bertrand Russell describes love as a condition of "absolute value," as opposed to relative value. Philosopher Gottfried Leibniz said that love is "to be delighted by the happiness of another."[14] Meher Baba stated that in love there is a "feeling of unity" and an "active appreciation of the intrinsic worth of the object of love."[15] Biologist Jeremy Griffith defines love as "unconditional selflessness".[16]
 
@@ -33,13 +33,13 @@ Biological basis
 
 Biological models of sex tend to view love as a mammalian drive, much like hunger or thirst.[20] Helen Fisher, an anthropologist and human behavior researcher, divides the experience of love into three partly overlapping stages: lust, attraction, and attachment. Lust is the feeling of sexual desire; romantic attraction determines what partners mates find attractive and pursue, conserving time and energy by choosing; and attachment involves sharing a home, parental duties, mutual defense, and in humans involves feelings of safety and security.[21] Three distinct neural circuitries, including neurotransmitters, and three behavioral patterns, are associated with these three romantic styles.[22]
 
-Gothaer_Liebespaar.jpg Lust is the initial passionate sexual desire that promotes mating, and involves the increased release of chemicals such as testosterone and estrogen. These effects rarely last more than a few weeks or months. Attraction is the more individualized and romantic desire for a specific candidate for mating, which develops out of lust as commitment to an individual mate forms. Recent studies in neuroscience have indicated that as people fall in love, the brain consistently releases a certain set of chemicals, including the neurotransmitter hormones, dopamine, norepinephrine, and serotonin, the same compounds released by amphetamine, stimulating the brain's pleasure center and leading to side effects such as increased heart rate, loss of appetite and sleep, and an intense feeling of excitement. Research has indicated that this stage generally lasts from one and a half to three years.[23]
+Lust is the initial passionate sexual desire that promotes mating, and involves the increased release of chemicals such as testosterone and estrogen. These effects rarely last more than a few weeks or months. Attraction is the more individualized and romantic desire for a specific candidate for mating, which develops out of lust as commitment to an individual mate forms. Recent studies in neuroscience have indicated that as people fall in love, the brain consistently releases a certain set of chemicals, including the neurotransmitter hormones, dopamine, norepinephrine, and serotonin, the same compounds released by amphetamine, stimulating the brain's pleasure center and leading to side effects such as increased heart rate, loss of appetite and sleep, and an intense feeling of excitement. Research has indicated that this stage generally lasts from one and a half to three years.[23]
 
 Since the lust and attraction stages are both considered temporary, a third stage is needed to account for long-term relationships. Attachment is the bonding that promotes relationships lasting for many years and even decades. Attachment is generally based on commitments such as marriage and children, or on mutual friendship based on things like shared interests. It has been linked to higher levels of the chemicals oxytocin and vasopressin to a greater degree than short-term relationships have.[24] Enzo Emanuele and coworkers reported the protein molecule known as the nerve growth factor (NGF) has high levels when people first fall in love, but these return to previous levels after one year.[25]
 
 Psychological basis
 
-Sri_Lankan_woman_and_child.jpg]] Psychology depicts love as a cognitive and social phenomenon. Psychologist Robert Sternberg formulated a triangular theory of love and argued that love has three different components: intimacy, commitment, and passion. Intimacy is a form in which two people share confidences and various details of their personal lives, and is usually shown in friendships and romantic love affairs. Commitment, on the other hand, is the expectation that the relationship is permanent. The last form of love is sexual attraction and passion. Passionate love is shown in infatuation as well as romantic love. All forms of love are viewed as varying combinations of these three components. Non-love does not include any of these components. Liking only includes intimacy. Infatuated love only includes passion. Empty love only includes commitment. Romantic love includes both intimacy and passion. Companionate love includes intimacy and commitment. Fatuous love includes passion and commitment. Lastly, consummate love includes all three components.[26] American psychologist Zick Rubin sought to define _love_ by psychometrics in the 1970s. His work states that three factors constitute love: attachment, caring, and intimacy.[27][28]
+]] Psychology depicts love as a cognitive and social phenomenon. Psychologist Robert Sternberg formulated a triangular theory of love and argued that love has three different components: intimacy, commitment, and passion. Intimacy is a form in which two people share confidences and various details of their personal lives, and is usually shown in friendships and romantic love affairs. Commitment, on the other hand, is the expectation that the relationship is permanent. The last form of love is sexual attraction and passion. Passionate love is shown in infatuation as well as romantic love. All forms of love are viewed as varying combinations of these three components. Non-love does not include any of these components. Liking only includes intimacy. Infatuated love only includes passion. Empty love only includes commitment. Romantic love includes both intimacy and passion. Companionate love includes intimacy and commitment. Fatuous love includes passion and commitment. Lastly, consummate love includes all three components.[26] American psychologist Zick Rubin sought to define _love_ by psychometrics in the 1970s. His work states that three factors constitute love: attachment, caring, and intimacy.[27][28]
 
 Following developments in electrical theories such as Coulomb's law, which showed that positive and negative charges attract, analogs in human life were developed, such as "opposites attract". Over the last century, research on the nature of human mating has generally found this not to be true when it comes to character and personality—people tend to like people similar to themselves. However, in a few unusual and specific domains, such as immune systems, it seems that humans prefer others who are unlike themselves (e.g., with an orthogonal immune system), since this will lead to a baby that has the best of both worlds.[29] In recent years, various human bonding theories have been developed, described in terms of attachments, ties, bonds, and affinities. Some Western authorities disaggregate into two main components, the altruistic and the narcissistic. This view is represented in the works of Scott Peck, whose work in the field of applied psychology explored the definitions of love and evil. Peck maintains that love is a combination of the "concern for the spiritual growth of another," and simple narcissism.[30] In combination, love is an _activity_, not simply a feeling.
 
@@ -47,7 +47,7 @@ Psychologist Erich Fromm maintained in his book _The Art of Loving_ that love is
 
 Evolutionary basis
 
-Place_des_Abbesse_(the_plaque_with_the_je_t'aime=te_iubesc_in_311_laguages).jpg'' on Montmartre in Paris: "I love you" in 250 languages]]
+'' on Montmartre in Paris: "I love you" in 250 languages]]
 
 Evolutionary psychology has attempted to provide various reasons for love as a survival tool. Humans are dependent on parental help for a large portion of their lifespans compared to other mammals. Love has therefore been seen as a mechanism to promote parental support of children for this extended time period. Furthermore, researchers as early as Charles Darwin himself identified unique features of human love compared to other mammals and credit love as a major factor for creating social support systems that enabled the development and expansion of the human species.[34] Another factor may be that sexually transmitted diseases can cause, among other effects, permanently reduced fertility, injury to the fetus, and increase complications during childbirth. This would favor monogamous relationships over polygamy.[35]
 
@@ -60,7 +60,7 @@ Cultural views
 
 Ancient Greek
 
-Eros_bow_Musei_Capitolini_MC410.jpg depicting Eros, the Greek personification of romantic love]] Greek distinguishes several different senses in which the word "love" is used. Ancient Greeks identified four forms of love: kinship or familiarity (in Greek, _storge_), friendship and/or platonic desire (_philia_), sexual and/or romantic desire (_eros_), and self-emptying or divine love (_agape_).[37][38] Modern authors have distinguished further varieties of romantic love.[39] However, with Greek (as with many other languages), it has been historically difficult to separate the meanings of these words totally. At the same time, the Ancient Greek text of the Bible has examples of the verb _agapo_ having the same meaning as _phileo_.
+depicting Eros, the Greek personification of romantic love]] Greek distinguishes several different senses in which the word "love" is used. Ancient Greeks identified four forms of love: kinship or familiarity (in Greek, _storge_), friendship and/or platonic desire (_philia_), sexual and/or romantic desire (_eros_), and self-emptying or divine love (_agape_).[37][38] Modern authors have distinguished further varieties of romantic love.[39] However, with Greek (as with many other languages), it has been historically difficult to separate the meanings of these words totally. At the same time, the Ancient Greek text of the Bible has examples of the verb _agapo_ having the same meaning as _phileo_.
 
 _Agape_ ( _agápē_) means _love_ in modern-day Greek. The term _s'agapo_ means _I love you_ in Greek. The word _agapo_ is the verb _I love_. It generally refers to a "pure," ideal type of love, rather than the physical attraction suggested by _eros_. However, there are some examples of _agape_ used to mean the same as _eros_. It has also been translated as "love of the soul."[40]
 
@@ -80,7 +80,7 @@ Latin sometimes uses _amāre_ where English would simply say _to like_. This not
 
 Chinese and other Sinic cultures
 
-Love-zh.svg for love contains a heart () in the middle.]]
+for love contains a heart () in the middle.]]
 
 Two philosophical underpinnings of love exist in the Chinese tradition, one from Confucianism which emphasized actions and duty while the other came from Mohism which championed a universal love. A core concept to Confucianism is (_Ren_, "benevolent love"), which focuses on duty, action and attitude in a relationship rather than love itself. In Confucianism, one displays benevolent love by performing actions such as filial piety from children, kindness from parents, loyalty to the king and so forth.
 
@@ -94,7 +94,7 @@ The Japanese language uses three words to convey the English equivalent of "love
 
 Indian
 
-Krishna_et_Radha_dans_un_pavillon.jpg and his consort Radha making love]] In contemporary literature, kama refers usually to sexual desire.[54][55] However, the term also refers to any sensory enjoyment, emotional attraction and aesthetic pleasure such as from arts, dance, music, painting, sculpture and nature.See:
+and his consort Radha making love]] In contemporary literature, kama refers usually to sexual desire.[54][55] However, the term also refers to any sensory enjoyment, emotional attraction and aesthetic pleasure such as from arts, dance, music, painting, sculpture and nature.See:
 
 -   Kate Morris (2011), The Illustrated Dictionary of History, , p. 124;
 -   Robert E. Van Voorst, RELG: World, Wadsworth, , p. 78[56]
@@ -110,7 +110,7 @@ Religious views
 
 Abrahamic religions
 
-Ahava.jpg's 1977 _Love_ sculpture spelling _ahava_.]]
+'s 1977 _Love_ sculpture spelling _ahava_.]]
 
 Judaism
 
@@ -136,7 +136,7 @@ The Apostle Paul glorified love as the most important virtue of all. Describing 
 
 The Apostle John wrote, "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him." (John 3:16–17, NIV) John also wrote, "Dear friends, let us love one another for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love." (1 John 4:7–8, NIV)
 
-baglione.jpg. Intended as an attack on his hated enemy the artist Caravaggio, it shows a boy (hinting at Caravaggio's homosexuality) on one side, a devil with Caravaggio's face on the other, and between an angel representing pure, meaning non-erotic, love.[62]]]
+. Intended as an attack on his hated enemy the artist Caravaggio, it shows a boy (hinting at Caravaggio's homosexuality) on one side, a devil with Caravaggio's face on the other, and between an angel representing pure, meaning non-erotic, love.[62]]]
 
 Saint Augustine says that one must be able to decipher the difference between love and lust. Lust, according to Saint Augustine, is an overindulgence, but to love and be loved is what he has sought for his entire life. He even says, “I was in love with love.” Finally, he does fall in love and is loved back, by God. Saint Augustine says the only one who can love you truly and fully is God, because love with a human only allows for flaws such as "jealousy, suspicion, fear, anger, and contention." According to Saint Augustine, to love God is "to attain the peace which is yours." (Saint Augustine's _Confessions_)
 
@@ -158,7 +158,7 @@ Tertullian wrote regarding love for enemies: "Our individual, extraordinary, and
 
 Islam
 
-الودود.jpg Love encompasses the Islamic view of life as universal brotherhood that applies to all who hold faith. Amongst the 99 names of God (Allah), there is the name _Al-Wadud_, or "the Loving One," which is found in Surah as well as Surah . God is also referenced at the beginning of every chapter in the Qur'an as _Ar-Rahman_ and _Ar-Rahim_, or the "Most Compassionate" and the "Most Merciful", indicating that nobody is more loving, compassionate and benevolent than God. The Qur'an refers to God as being "full of loving kindness."
+Love encompasses the Islamic view of life as universal brotherhood that applies to all who hold faith. Amongst the 99 names of God (Allah), there is the name _Al-Wadud_, or "the Loving One," which is found in Surah as well as Surah . God is also referenced at the beginning of every chapter in the Qur'an as _Ar-Rahman_ and _Ar-Rahim_, or the "Most Compassionate" and the "Most Merciful", indicating that nobody is more loving, compassionate and benevolent than God. The Qur'an refers to God as being "full of loving kindness."
 
 The Qur'an exhorts Muslim believers to treat all people, those who have not persecuted them, with _birr_ or "deep kindness" as stated in Surah . _Birr_ is also used by the Qur'an in describing the love and kindness that children must show to their parents.
 
@@ -178,7 +178,7 @@ The Bodhisattva ideal in Mahayana Buddhism involves the complete renunciation of
 
 Hinduism
 
-Kama_Rati.jpg, Belur]] In Hinduism, _kāma_ is pleasurable, sexual love, personified by the god Kamadeva. For many Hindu schools, it is the third end (_Kama_) in life. Kamadeva is often pictured holding a bow of sugar cane and an arrow of flowers; he may ride upon a great parrot. He is usually accompanied by his consort Rati and his companion Vasanta, lord of the spring season. Stone images of Kamadeva and Rati can be seen on the door of the Chennakeshava temple at Belur, in Karnataka, India. _Maara_ is another name for _kāma_.
+, Belur]] In Hinduism, _kāma_ is pleasurable, sexual love, personified by the god Kamadeva. For many Hindu schools, it is the third end (_Kama_) in life. Kamadeva is often pictured holding a bow of sugar cane and an arrow of flowers; he may ride upon a great parrot. He is usually accompanied by his consort Rati and his companion Vasanta, lord of the spring season. Stone images of Kamadeva and Rati can be seen on the door of the Chennakeshava temple at Belur, in Karnataka, India. _Maara_ is another name for _kāma_.
 
 In contrast to _kāma_, _prema_or _prem_refers to elevated love. _Karuna_ is compassion and mercy, which impels one to help reduce the suffering of others. _Bhakti_ is a Sanskrit term, meaning "loving devotion to the supreme God." A person who practices _bhakti_ is called a _bhakta_. Hindu writers, theologians, and philosophers have distinguished nine forms of _bhakti_, which can be found in the _Bhagavata Purana_ and works by Tulsidas. The philosophical work _Narada Bhakti Sutras_, written by an unknown author (presumed to be Narada), distinguishes eleven forms of love.
 
@@ -202,7 +202,7 @@ The term "sex radical" has been used interchangeably with the term "free lover".
 
 Philosophical views
 
-Where_is_the_love.jpg in East Timor]]
+in East Timor]]
 
 The philosophy of love is a field of social philosophy and ethics that attempts to explain the nature of love.[78] The philosophical investigation of love includes the tasks of distinguishing between the various kinds of personal love, asking if and how love is or can be justified, asking what the value of love is, and what impact love has on the autonomy of both the lover and the beloved.[79]
 

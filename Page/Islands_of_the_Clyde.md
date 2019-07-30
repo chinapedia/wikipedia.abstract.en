@@ -1,4 +1,4 @@
-Islands_of_the_Clyde.png]] Holy_Isle_from_North.JPG seen from Bute]] PS_Waverley_off_Brodick_castle_1989.jpg lying in Brodick Bay in front of Brodick Castle. Paddle steamers like this were formerly extremely common on the Clyde.[1]]]
+]] seen from Bute]] lying in Brodick Bay in front of Brodick Castle. Paddle steamers like this were formerly extremely common on the Clyde.[1]]]
 
 The ISLANDS OF THE FIRTH OF CLYDE are the fifth largest of the major Scottish island groups after the Inner and Outer Hebrides, Orkney and Shetland. They are situated in the Firth of Clyde between Ayrshire and Argyll and Bute. There are about forty islands and skerries, of which only four are inhabited and only nine larger than .{{#tag:ref|The definition of an island used is that it is land that is surrounded by seawater on a daily basis, but not necessarily at all stages of the tide, excluding human devices such as bridges and causeways. Various other definitions are used in the Scottish context. For example, the General Register Office for Scotland define an island as "a mass of land surrounded by water, separate from the Scottish mainland" but although they include islands linked by bridges etc., this is not clear from this definition.[2] Haswell-Smith (2004) uses "an Island is a piece of land or group of pieces of land which is entirely surrounded by water at Lowest Astronomical Tide and to which there is no permanent means of dry access". This consciously excludes bridged islands, which most other sources include.[3]|group="Note"}} The largest and most populous are Arran and Bute, and Great Cumbrae and Holy Isle are also served by dedicated ferry routes.[4][5] Unlike the four larger Scottish archipelagos, none of the isles in this group are connected to one another or to the mainland by bridges.
 
@@ -9,7 +9,7 @@ The larger islands have been continuously inhabited since Neolithic times, were 
 
 Geology and geography
 
-Firthofclydemap.png]]
+]]
 
 The Highland Boundary Fault runs past Bute and through the northern part of Arran, so from a geological perspective some of the islands are in the Highlands and some in the Central Lowlands.[6] As a result, Arran is sometimes referred to as "Scotland in miniature" and the island is a popular destination for geologists, who come to see intrusive igneous landforms such as sills and dykes as well as sedimentary and metasedimentary rocks ranging widely in age.[7] Visiting in 1787, the geologist James Hutton found his first example of an unconformity there and this spot is one of the most famous places in the study of geology.[8][9] A group of weakly metamorphosed rocks that form the Highland Border Complex lie discontinuously along the Highland Boundary Fault. One of the most prominent exposures is along Loch Fad on Bute.[10] Ailsa Craig, which lies some south of Arran, has been quarried for a rare type of micro-granite containing riebeckite known as "Ailsite" which is used by Kays of Scotland to make curling stones. As of 2004, 60 to 70% of all curling stones in use were made from granite from the island.[11]
 
@@ -22,7 +22,7 @@ The Firth of Clyde, in which these island lie, is north of the Irish Sea and has
 
 Climate
 
-Castleisland.jpg from Little Cumbrae]]
+from Little Cumbrae]]
 
 The Firth of Clyde lies between 55 and 56 degrees north, at the same latitude as Labrador in Canada and north of the Aleutian Islands, but the influence of the North Atlantic Drift—the northern extension of the Gulf Stream—ameliorates the winter weather and the area enjoys a mild, damp oceanic climate. Temperatures are generally cool, averaging about in January and in July at sea level.[20] Snow seldom lies at sea level and frosts are generally less frequent than the mainland. In common with most islands of the west coast of Scotland, rainfall is generally high at between per annum on Bute, the Cumbraes and in the south of Arran and per annum in the north of Arran. The Arran mountains are wetter still with the summits receiving over annually. May, June and July are the sunniest months, with upwards of 200 hours of bright sunshine being recorded on average, southern Bute benefiting from a particularly high level of sunny days.[21]
 
@@ -31,7 +31,7 @@ History
 
 Prehistory
 
-MachrieMoorStones.jpgs, Arran]]
+s, Arran]]
 
 Mesolithic humans arrived in the Firth of the Clyde during the fourth millennium BC, probably from Ireland. This was followed by a wave of Neolithic peoples using the same route and there is some evidence that the Firth of Clyde was a significant route via which mainland Scotland was colonised at this time.[22] A particular style of megalithic structure developed in Argyll, the Clyde estuary and elsewhere in western Scotland that has become known as the Clyde cairn. They are rectangular or trapezoidal in shape with a small enclosing chamber faced with large slabs of stone set on end and sometimes subdivided into smaller compartments. A forecourt area may have been used for displays or rituals associated with the interment of the dead, who were placed inside the chambers.[23] They are concentrated in Arran, Bute and Kintyre and it is likely that the Clyde cairns were the earliest forms of Neolithic monument constructed by incoming settlers although few of the 100 or so examples have been given a radiocarbon dating. An example at Monamore on Arran has been dated to 3160 BC, although it was almost certainly built earlier than that, possibly c. 4000BC.[24][25][26][27] There are also numerous standing stones dating from prehistoric times, including six stone circles on Machrie Moor, Arran and other examples on Great Cumbrae and Bute.[28][29]
 
@@ -39,13 +39,13 @@ Bronze Age settlers also constructed megaliths at various sites, many of them da
 
 Early Scots rule
 
-Dalriada.jpg regions are marked in yellow]]
+regions are marked in yellow]]
 
 During the 2nd century AD Irish influence was at work in the region and by the 6th century the kingdom of Dál Riata was established. Unlike the P-Celtic speaking Brythons, these Gaels spoke a form of Gaelic that still survives in the Hebrides. Through the efforts of Saint Ninian and others Christianity slowly supplanted Druidism. Dál Riata flourished from the time of Fergus Mór in the late fifth century until the Viking incursions that commenced in the late eighth century.[34] Islands close to the shores of modern Ayrshire would have remained part of the Kingdom of Strathclyde during this period, whilst the main islands became part of the emerging Kingdom of Alba founded by Kenneth MacAlpin (Cináed mac Ailpín).
 
 Viking influence
 
-RothesayCastleS.jpg, Bute]]
+, Bute]]
 
 The Islands of the Clyde historically formed the border zone between the Norse _Suðreyjar_ and Scotland. As such many of these islands fell under Norse hegemony between the 9th and 13th centuries.
 
@@ -55,7 +55,7 @@ In 1263 Norwegian troops commanded by Haakon Haakonarson repeated the feat but t
 
 Modern Scotland
 
-J_M_Briscoe_-_Clyde_puffer_VIC32_moored_at_Corpach.jpg'']]
+'']]
 
 From the mid-thirteenth century to the present day all of the islands of the Clyde have remained part of Scotland.
 
@@ -88,7 +88,7 @@ Six islands were inhabited in 2001 including Davaar and Sanda with 2 and 1 resid
 
 Outlying islands
 
-Lady_Isle.jpg with Ailsa Craig beyond]] Kildonan_6._With_the_islands_of_Pladda_and_Ailsa_Craig._North_Ayrshire,_Scotland.JPG on Arran, Pladda and Ailsa Craig]] Byrondarnton.jpg tavern and holiday cottages on Sanda. The inn is named after a 1946 shipwreck on the island.[69]]]
+with Ailsa Craig beyond]] on Arran, Pladda and Ailsa Craig]] tavern and holiday cottages on Sanda. The inn is named after a 1946 shipwreck on the island.[69]]]
 
 Some islets lie remote from the larger islands and are listed separately here by location.[70]
 
@@ -109,7 +109,7 @@ The following are places along that shores of the Firth of Clyde that are not is
 
 Natural history
 
-Sorbus_arranensis.JPG in flower at Eglinton Country Park, Irvine]]
+in flower at Eglinton Country Park, Irvine]]
 
 There are populations of red deer, red squirrel, badger, otter, adder and common lizard. Offshore there are harbour porpoises, basking sharks and various species of dolphin.[83] Davaar is home to a population of wild goats.[84]
 
@@ -120,7 +120,7 @@ Arran also has three rare endemic species of tree, the Arran Whitebeams.[88] The
 
 Etymology
 
-The_Cumbraes.jpg with Arran and Bute beyond]]
+with Arran and Bute beyond]]
 
 The Roman historian Tacitus refers to the _Clota_ meaning the Clyde. The derivation is not certain but probably from the Brythonic _Clouta_ which became _Clut_ in Old Welsh. The name's literal meaning is "wash" but probably refers to the idea of a river goddess being "the washer" or "strongly flowing one".[92] Bute's derivation is also uncertain. _Bót_ is the Norse name and this is the Old Irish word for "fire", possibly a reference to signal fires.[93] The etymology of Arran is no more clear—Haswell-Smith (2004) offers a Brythonic derivation and a meaning of "high place"[94] although Watson (1926) suggests it may be pre-Celtic.[95]{{#tag:ref|In support of the controversial Vasconic substratum hypothesis, Theo Vennemann notes the recurrence of the element _aran_, (Unified Basque _haran_) meaning"valley", in names like Val d'Aran, Arundel, or Arendal.[96]|group="Note"}}
 

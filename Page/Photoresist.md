@@ -1,17 +1,17 @@
 A PHOTORESIST is a light-sensitive material used in several processes, such as photolithography and photoengraving, to form a patterned coating on a surface. This process is crucial in the electronic industry.[1]
 
-The process begins by coating a substrate with a light-sensitive organic material. A patterned mask is then applied to the surface to block light, so that only unmasked regions of the material will be exposed to light. A solvent, called a developer, is then applied to the surface. In the case of a positive photoresist, the photo-sensitive material is degraded by light and the developer will dissolve away the regions that were exposed to light, leaving behind a coating where the mask was placed. In the case of a negative photoresist, the photosensitive material is strengthened (either polymerized or cross-linked) by light, and the developer will dissolve away only the regions that were not exposed to light, leaving behind a coating in areas where the mask was not placed. Photoresist_of_Photolithography.png
+The process begins by coating a substrate with a light-sensitive organic material. A patterned mask is then applied to the surface to block light, so that only unmasked regions of the material will be exposed to light. A solvent, called a developer, is then applied to the surface. In the case of a positive photoresist, the photo-sensitive material is degraded by light and the developer will dissolve away the regions that were exposed to light, leaving behind a coating where the mask was placed. In the case of a negative photoresist, the photosensitive material is strengthened (either polymerized or cross-linked) by light, and the developer will dissolve away only the regions that were not exposed to light, leaving behind a coating in areas where the mask was not placed.
 
 
 Definitions
 
 Positive photoresist
 
-Acid_catalyze_photoresist.tifPositive_photoresist_SO2.tif A _positive photoresist_ is a type of photoresist in which the portion of the photoresist that is exposed to light becomes soluble to the photoresist developer. The unexposed portion of the photoresist remains insoluble to the photoresist developer.
+A _positive photoresist_ is a type of photoresist in which the portion of the photoresist that is exposed to light becomes soluble to the photoresist developer. The unexposed portion of the photoresist remains insoluble to the photoresist developer.
 
 Negative photoresist
 
-A _negative photoresist_ is a type of photoresist in which the portion of the photoresist that is exposed to light becomes insoluble to the photoresist developer. The unexposed portion of the photoresist is dissolved by the photoresist developer. Polyisoprene_negative_photoresist.tif Acrylate_negative_photoresist.tif
+A _negative photoresist_ is a type of photoresist in which the portion of the photoresist that is exposed to light becomes insoluble to the photoresist developer. The unexposed portion of the photoresist is dissolved by the photoresist developer.
 
 Differences between positive and negative resist[2]
 
@@ -33,13 +33,11 @@ Types
 
 Based on the chemical structure of photoresists, they can be classified into three types: Photopolymeric, photodecomposing, photocrosslinking photoresist.
 
-Photopolymeric photoresist is a type of photoresist, usually allyl monomer, which could generate free radical when exposed to light, then initiates the photopolymerization of monomer to produce a polymer. Photopolymeric photoresists are usually used for negative photoresist, e.g. methyl methacrylate. Methyl_methacrylate_photoresist.tif
+Photopolymeric photoresist is a type of photoresist, usually allyl monomer, which could generate free radical when exposed to light, then initiates the photopolymerization of monomer to produce a polymer. Photopolymeric photoresists are usually used for negative photoresist, e.g. methyl methacrylate.
 
-Photodecomposing photoresist is a type of photoresist that generates hydrophilic products under light. Photodecomposing photoresists are usually used for positive photoresist. A typical example is azide quinone, e.g. diazonaphthaquinone (DQ). Dizaonaphthoquinone_photoresist.tif
+Photodecomposing photoresist is a type of photoresist that generates hydrophilic products under light. Photodecomposing photoresists are usually used for positive photoresist. A typical example is azide quinone, e.g. diazonaphthaquinone (DQ).
 
 Photocrosslinking photoresist is a type of photoresist, which could crosslink chain by chain when exposed to light, to generate an insoluble network. Photocrosslinking photoresist are usually used for negative photoresist.
-
-SU-8_.tif SU-8_for_negative_photoresist.tif
 
 Off-Stoichiometry Thiol-Enes (OSTE) polymers[3]
 
@@ -100,7 +98,7 @@ Applications
 
 Microcontact printing
 
-Microcontact printing was described by Whitesides Group in 1993. Generally, in this techniques, an elastomeric stamp is used to generate two-dimensional patterns, through printing the “ink” molecules onto the surface of a solid substrate.[13] Creating_the_PDMS_master.svg Inking_and_contact_process.svg
+Microcontact printing was described by Whitesides Group in 1993. Generally, in this techniques, an elastomeric stamp is used to generate two-dimensional patterns, through printing the “ink” molecules onto the surface of a solid substrate.[13]
 
 Step 1 for microcontact printing. A scheme for the creation of a polydimethylsiloxane (PDMS) master stamp. Step 2 for microcontact printing A scheme of the inking and contact process of microprinting lithography.
 
@@ -108,19 +106,15 @@ Printed circuit boards
 
 The manufacture of printed circuit boards is one of the most important uses of photoresist. Photolithography allows the complex wiring of an electronic system to be rapidly, economically, and accurately reproduced as if run off a printing press. The general process is applying photoresist, exposing image to ultraviolet rays, and then etching to remove the copper-clad substrate.[14]
 
-SEG_DVD_430_-_Printed_circuit_board-4276.jpg
-
 Patterning and etching of substrates
 
 This includes specialty photonics materials, Micro-Electro-Mechanical Systems (MEMS), glass printed circuit boards, and other micropatterning tasks. Photoresist tends not to be etched by solutions with a pH greater than 3.[15]
-
-MEMS_Microcantilever_in_Resonance.png
 
 Microelectronics
 
 This application, mainly applied to silicon wafers/silicon integrated circuits is the most developed of the technologies and the most specialized in the field.[16]
 
-12-inch_silicon_wafer.jpg dice]]
+dice]]
 
 
 References

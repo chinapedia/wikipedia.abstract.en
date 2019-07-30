@@ -15,7 +15,7 @@ History
 
 Development
 
-Unix_timeline.en.svg operating systems]] The heritage of what would become macOS had originated at NeXT, a company founded by Steve Jobs following his departure from Apple in 1985. There, the Unix-like NeXTSTEP operating system was developed, and then launched in 1989. The kernel of NeXTSTEP is based upon the Mach kernel, which was originally developed at Carnegie Mellon University, with additional kernel layers and low-level user space code derived from parts of BSD. Its graphical user interface was built on top of an object-oriented GUI toolkit using the programming language.
+operating systems]] The heritage of what would become macOS had originated at NeXT, a company founded by Steve Jobs following his departure from Apple in 1985. There, the Unix-like NeXTSTEP operating system was developed, and then launched in 1989. The kernel of NeXTSTEP is based upon the Mach kernel, which was originally developed at Carnegie Mellon University, with additional kernel layers and low-level user space code derived from parts of BSD. Its graphical user interface was built on top of an object-oriented GUI toolkit using the programming language.
 
 Throughout the early 1990s, Apple had tried to create a "next-generation" OS to succeed its classic Mac OS through the Taligent, Copland and Gershwin projects, but all of them were eventually abandoned.[9] This led Apple to purchase NeXT in 1996, allowing NeXTSTEP, then called OPENSTEP, to serve as the basis for Apple's next generation operating system.[10] This purchase also led to Steve Jobs returning to Apple as an interim, and then the permanent CEO, shepherding the transformation of the programmer-friendly OPENSTEP into a system that would be adopted by Apple's primary market of home users and creative professionals. The project was first code named "Rhapsody" and then officially named Mac OS X.[11][12]
 
@@ -47,7 +47,7 @@ In two succeeding versions, Lion and Mountain Lion, Apple moved some application
 
 OS X
 
-The_OS_X_Logo.svg In 2012, with the release of OS X 10.8 Mountain Lion, the name of the system was shortened from Mac OS X to OS X. That year, Apple removed the head of OS X development, Scott Forstall, and design was changed towards a more minimal direction.[38] Apple's new user interface design, using deep color saturation, text-only buttons and a minimal, 'flat' interface, was debuted with iOS 7 in 2013. With OS X engineers reportedly working on iOS 7, the version released in 2013, OS X 10.9 Mavericks, was something of a transitional release, with some of the skeuomorphic design removed, while most of the general interface of Mavericks remained unchanged.[39] The next version, OS X 10.10 Yosemite, adopted a design similar to iOS 7 but with greater complexity suitable for an interface controlled with a mouse.[40]
+In 2012, with the release of OS X 10.8 Mountain Lion, the name of the system was shortened from Mac OS X to OS X. That year, Apple removed the head of OS X development, Scott Forstall, and design was changed towards a more minimal direction.[38] Apple's new user interface design, using deep color saturation, text-only buttons and a minimal, 'flat' interface, was debuted with iOS 7 in 2013. With OS X engineers reportedly working on iOS 7, the version released in 2013, OS X 10.9 Mavericks, was something of a transitional release, with some of the skeuomorphic design removed, while most of the general interface of Mavericks remained unchanged.[39] The next version, OS X 10.10 Yosemite, adopted a design similar to iOS 7 but with greater complexity suitable for an interface controlled with a mouse.[40]
 
 From 2012 onwards, the system has shifted to an annual release schedule similar to that of iOS. It also steadily cut the cost of updates from Snow Leopard onwards, before removing upgrade fees altogether from 2013 onwards.[41] Some journalists and third-party software developers have suggested that this decision, while allowing more rapid feature release, meant less opportunity to focus on stability, with no version of OS X recommendable for users requiring stability and performance above new features.[42] Apple's 2015 update, OS X 10.11 El Capitan, was announced to focus specifically on stability and performance improvements.[43]
 
@@ -147,7 +147,7 @@ As most Mac hardware components, or components similar to those, since the Intel
 
 PowerPC–Intel transition
 
-Steve_Jobs_Presentation_1.jpg In April 2002, eWeek announced a rumor that Apple had a version of Mac OS X code-named Marklar, which ran on Intel x86 processors. The idea behind Marklar was to keep Mac OS X running on an alternative platform should Apple become dissatisfied with the progress of the PowerPC platform.[110] These rumors subsided until late in May 2005, when various media outlets, such as _The Wall Street Journal_[111] and CNET,[112] announced that Apple would unveil Marklar in the coming months.[113][114][115]
+In April 2002, eWeek announced a rumor that Apple had a version of Mac OS X code-named Marklar, which ran on Intel x86 processors. The idea behind Marklar was to keep Mac OS X running on an alternative platform should Apple become dissatisfied with the progress of the PowerPC platform.[110] These rumors subsided until late in May 2005, when various media outlets, such as _The Wall Street Journal_[111] and CNET,[112] announced that Apple would unveil Marklar in the coming months.[113][114][115]
 
 On June 6, 2005, Steve Jobs announced in his keynote address at the annual Apple Worldwide Developers Conference that Apple would be making the transition from PowerPC to Intel processors over the following two years, and that Mac OS X would support both platforms during the transition. Jobs also confirmed rumors that Apple had versions of Mac OS X running on Intel processors for most of its developmental life. Intel-based Macs would run a new recompiled version of OS X along with Rosetta, a binary translation layer which enables software compiled for PowerPC Mac OS X to run on Intel Mac OS X machines.[116] The system was included with Mac OS X versions up to version 10.6.8.[117] Apple dropped support for Classic mode on the new Intel Macs. Third party emulation software such as Mini vMac, Basilisk II and SheepShaver provided support for some early versions of Mac OS. A new version of Xcode and the underlying command-line compilers supported building universal binaries that would run on either architecture.[118]
 
@@ -160,7 +160,7 @@ Features
 
 Aqua user interface
 
-Macosxpb.png user interface as seen in the Mac OS X Public Beta from 2000]]
+user interface as seen in the Mac OS X Public Beta from 2000]]
 
 One of the major differences between the classic Mac OS and the current macOS was the addition of Aqua, a graphical user interface with water-like elements, in the first major release of Mac OS X. Every window element, text, graphic, or widget is drawn on-screen using spatial anti-aliasing technology.[124] ColorSync, a technology introduced many years before, was improved and built into the core drawing engine, to provide color matching for printing and multimedia professionals.[125] Also, drop shadows were added around windows and isolated text elements to provide a sense of depth. New interface elements were integrated, including sheets (dialog boxes attached to specific windows) and drawers, which would slide out and provide options.
 
@@ -246,7 +246,7 @@ desc bottom-left
 
 : Mac OS X, OS X, and macOS version information
 
-MacOS_Version_History.svg of versions]]
+of versions]]
 
     The PowerMac G5 had special Jaguar builds.
 
@@ -266,7 +266,7 @@ The "PB", as it was known, marked the first public availability of the Aqua inte
 
 Mac OS X 10.0 Cheetah
 
-MacOSX10-0screenshot.png On March 24, 2001, Apple released Mac OS X 10.0 (internally codenamed Cheetah).[190] The initial version was slow,[191] incomplete,[192] and had very few applications available at the time of its launch, mostly from independent developers.[193] While many critics suggested that the operating system was not ready for mainstream adoption, they recognized the importance of its initial launch as a base on which to improve.[194] Simply releasing Mac OS X was received by the Macintosh community as a great accomplishment,[195] for attempts to completely overhaul the Mac OS had been underway since 1996, and delayed by countless setbacks. Following some bug fixes, kernel panics became much less frequent.
+On March 24, 2001, Apple released Mac OS X 10.0 (internally codenamed Cheetah).[190] The initial version was slow,[191] incomplete,[192] and had very few applications available at the time of its launch, mostly from independent developers.[193] While many critics suggested that the operating system was not ready for mainstream adoption, they recognized the importance of its initial launch as a base on which to improve.[194] Simply releasing Mac OS X was received by the Macintosh community as a great accomplishment,[195] for attempts to completely overhaul the Mac OS had been underway since 1996, and delayed by countless setbacks. Following some bug fixes, kernel panics became much less frequent.
 
 Mac OS X 10.1 Puma
 
@@ -282,8 +282,6 @@ Mac OS X v10.3 Panther was released on October 24, 2003. In addition to providin
 
 Mac OS X 10.4 Tiger
 
-TigerDesk.png
-
 Mac OS X 10.4 Tiger was released on April 29, 2005. Apple stated that Tiger contained more than 200 new features.[205] As with Panther, certain older machines were no longer supported; Tiger requires a Mac with 256 MB and a built-in FireWire port.[206] Among the new features, Tiger introduced Spotlight, Dashboard, Smart Folders, updated Mail program with Smart Mailboxes, QuickTime 7, Safari 2, Automator, VoiceOver, Core Image and Core Video. The initial release of the Apple TV used a modified version of Tiger with a different graphical interface and fewer applications and services. On January 10, 2006, Apple released the first Intel-based Macs along with the 10.4.4 update to Tiger. This operating system functioned identically on the PowerPC-based Macs and the new Intel-based machines, with the exception of the Intel release lacking support for the Classic environment.[207]
 
 Mac OS X 10.5 Leopard
@@ -298,7 +296,7 @@ Snow Leopard also featured new 64-bit technology capable of supporting greater a
 
 The 10.6.6 update introduced support for the Mac App Store, Apple's digital distribution platform for macOS applications.[216]
 
-WWDC_2011_Moscone_West_Interior.jpg 2011 at Moscone West ]]
+2011 at Moscone West ]]
 
 Mac OS X 10.7 Lion
 
@@ -310,7 +308,7 @@ OS X 10.8 Mountain Lion
 
 OS X 10.8 Mountain Lion was released on July 25, 2012.[220] Following the release of Lion the previous year, it was the first of the annual rather than two-yearly updates to OS X (and later macOS), which also closely aligned with the annual iOS operating system updates. It incorporates some features seen in iOS 5, which include Game Center, support for iMessage in the new Messages messaging application, and Reminders as a to-do list app separate from iCal (which is renamed as Calendar, like the iOS app). It also includes support for storing iWork documents in iCloud.[221] Notification Center, which makes its debut in Mountain Lion, is a desktop version similar to the one in iOS 5.0 and higher. Application pop-ups are now concentrated on the corner of the screen, and the Center itself is pulled from the right side of the screen. Mountain Lion also includes more Chinese features including support for Baidu as an option for Safari search engine, QQ, 163.com and 126.com services for Mail, Contacts and Calendar, Youku, Tudou and Sina Weibo are integrated into share sheets.[222]
 
-Starting with Mountain Lion, Apple software updates (including the OS) are distributed via the App Store.[223] This updating mechanism replaced the Apple Software Update utility.[224] Macintosh_OS_X_Mavericks_representation.png
+Starting with Mountain Lion, Apple software updates (including the OS) are distributed via the App Store.[223] This updating mechanism replaced the Apple Software Update utility.[224]
 
 OS X 10.9 Mavericks
 
@@ -322,7 +320,7 @@ OS X 10.10 Yosemite was released on October 16, 2014. It features a redesigned u
 
 OS X 10.11 El Capitan
 
-El_capitan_desktop_display.png OS X 10.11 El Capitan was released on September 30, 2015. Similar to Mac OS X 10.6 Snow Leopard, Apple described this release as containing "refinements to the Mac experience" and "improvements to system performance" rather than new features. Refinements include public transport built into the Maps application, GUI improvements to the Notes application, adopting San Francisco as the system font for clearer legibility, and the introduction of System Integrity Protection.
+OS X 10.11 El Capitan was released on September 30, 2015. Similar to Mac OS X 10.6 Snow Leopard, Apple described this release as containing "refinements to the Mac experience" and "improvements to system performance" rather than new features. Refinements include public transport built into the Maps application, GUI improvements to the Notes application, adopting San Francisco as the system font for clearer legibility, and the introduction of System Integrity Protection.
 
 The Metal API, first introduced in iOS 8, was also included in this operating system for "all Macs since 2012".[229] According to Apple, Metal accelerates system-level rendering by up to 50 percent, resulting in faster graphics performance for everyday apps. Metal also delivers up to 10 times faster draw call performance for more fluid experience in games and pro apps.[230]
 

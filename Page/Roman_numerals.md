@@ -1,4 +1,4 @@
-CuttySarkRomNum.jpg in feet. The numbers range from 13 to 22, from bottom to top.]]
+in feet. The numbers range from 13 to 22, from bottom to top.]]
 
 ROMAN NUMERALS are a numeral system that originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages. Numbers in this system are represented by combinations of letters from the Latin alphabet. Modern usage employs seven symbols, each with a fixed integer value:[1]
 
@@ -8,13 +8,13 @@ ROMAN NUMERALS are a numeral system that originated in ancient Rome and remained
 
 Modern clock faces that use Roman numerals still usually employ for four o'clock but for nine o'clock, a practice that goes back to very early clocks such as the Wells Cathedral clock of the late 14th century.[2][3][4] However, this is far from universal: for example, the clock on the Palace of Westminster tower, "Big Ben", uses a subtractive for 4 o'clock.[5]
 
-AdmiraltyArchLondonCloseup.jpg, London (1910). Rendered as , rather than the more usual |alt=]] Several monumental inscriptions created in the early 20th century use variant forms for "1900" (usually written ). These vary from - a classical use of additive notation for (1910), as seen on Admiralty Arch, London, to the more unusual, if not unique for (1903), on the north entrance to the Saint Louis Art Museum.[6]
+, London (1910). Rendered as , rather than the more usual |alt=]] Several monumental inscriptions created in the early 20th century use variant forms for "1900" (usually written ). These vary from - a classical use of additive notation for (1910), as seen on Admiralty Arch, London, to the more unusual, if not unique for (1903), on the north entrance to the Saint Louis Art Museum.[6]
 
 Sometimes 5 and 50 have been written and instead of and , and there are instances such as and rather than or .[7][8]
 
 Irregular subtractive notation
 
-Epitaph_des_Marcus_Caelius.JPG Marcus Caelius, showing ""]]
+Marcus Caelius, showing ""]]
 
 The irregular use of subtractive notation, such as for 17,[9] for 18,[10] for 97,[11] for 98,[12][13] and for 99[14] were occasionally used in more modern times. A possible explanation is that the word for 18 in Latin was _duodeviginti_, literally "two from twenty". Similarly, the words for 98 and 99 were _duodecentum_ (two from hundred) and _undecentum_ (one from hundred), respectively.[15] These ways of saying 18, 98 and 99 have been attributed to influence from the Etruscans, who would say _ciem zaθrum_ (three from twenty) for 17, _eslem zaθrum_ (two from twenty) for 18 and _θunem zaθrum_ (one from twenty) for 19.[16] Apparently, at least one ancient stonecutter mistakenly thought that the of "22nd Legion" stood for 18, and "corrected" it to .[17] However, the explanation does not seem to apply to and , since the Latin words for 17 and 97 were _septendecim_ (seven ten) and _nonaginta septem_ (ninety seven), respectively.
 
@@ -22,11 +22,11 @@ Another example of irregular subtractive notation is the use of for 18. It was u
 
 Rare variants
 
-While the subtractive and additive notations seem to have been used interchangeably through history, some other Roman numerals have been occasionally observed that do not fit either system. Some of these variants do not seem to have been used outside specific contexts, and may have been regarded as errors even by contemporaries. Padlock,_Athlone.jpg of the Irish town of Athlone. "1613" in the date is rendered , (literally "16, 13") instead of ]]
+While the subtractive and additive notations seem to have been used interchangeably through history, some other Roman numerals have been occasionally observed that do not fit either system. Some of these variants do not seem to have been used outside specific contexts, and may have been regarded as errors even by contemporaries. of the Irish town of Athlone. "1613" in the date is rendered , (literally "16, 13") instead of ]]
 
 -   was how people associated with the XXII Roman Legion used to write their number. The practice may have been due to a common way to say "twenty-second" in Latin, namely _duo et vice_(_n_)_sima_ (literally "two and twentieth") rather than the "regular" _vice_(_n_)_sima secunda_ (twentieth second).[20]
 
-Excerpt_from_BnF_ms._1433_fr.,_fol._24r.png.[21] The Roman numeral for 500 is , instead of ]]
+.[21] The Roman numeral for 500 is , instead of ]]
 
 -   There are some examples of year numbers after 1000 written as two Roman numerals 1-99, e.g. 1613 as , corresponding to the common reading "sixteen thirteen" of such year numbers in English, or 1519 as as in French _quinze-cent-dix-neuf_ (fifteen-hundred-ten-nine), and similar readings in other languages.[22]
 -   In some French texts from the 15th century and later one finds constructions like for 99, reflecting the French reading of that number as _quatre-vingt-dix-neuf_ (four-score and nineteen).[23] Similarly, in some English documents one finds, for example, 77 written as "" (which could be read "three-score and seventeen").[24]
@@ -76,7 +76,7 @@ According to Paul Kayser, the basic numerical symbols were , , and (or ) and the
 
 Use in the Middle Ages and Renaissance
 
-Lower case, minuscule, letters were developed in the Middle Ages, well after the demise of the Western Roman Empire, and since that time lower-case versions of Roman numbers have also been commonly used: , , , , and so on. Excerpt_from_BnF_ms._23112_fr.,_fol._343v.png Since the Middle Ages, a "" has sometimes been substituted for the final "" of a "lower-case" Roman numeral, such as "" for 3 or "" for 7. This "" can be considered a swash variant of "". The use of a final "" is still used in medical prescriptions to prevent tampering with or misinterpretation of a number after it is written.[32][33]
+Lower case, minuscule, letters were developed in the Middle Ages, well after the demise of the Western Roman Empire, and since that time lower-case versions of Roman numbers have also been commonly used: , , , , and so on. Since the Middle Ages, a "" has sometimes been substituted for the final "" of a "lower-case" Roman numeral, such as "" for 3 or "" for 7. This "" can be considered a swash variant of "". The use of a final "" is still used in medical prescriptions to prevent tampering with or misinterpretation of a number after it is written.[32][33]
 
 Numerals in documents and inscriptions from the Middle Ages sometimes include additional symbols, which today are called "medieval Roman numerals". Some simply substitute another letter for the standard one (such as "" for "", or "" for ""), while others serve as abbreviations for compound numerals ("" for "", or "" for ""). Although they are still listed today in some dictionaries, they are long out of use.[34]
 
@@ -129,8 +129,6 @@ Chronograms, messages with dates encoded into them, were popular during the Rena
 Modern use
 
 By the 11th century, Arabic numerals had been introduced into Europe from al-Andalus, by way of Arab traders and arithmetic treatises. Roman numerals, however, proved very persistent, remaining in common use in the West well into the 14th and 15th centuries, even in accounting and other business records (where the actual calculations would have been made using an abacus). Replacement by their more convenient "Arabic" equivalents was quite gradual, and Roman numerals are still used today in certain contexts. A few examples of their current use are:
-
-Carlos_IV_Coin.jpg
 
 -   Names of monarchs and popes, e.g. Elizabeth {{rn of the United Kingdom, Pope Benedict {{rn. These are referred to as regnal numbers and are usually read as ordinals; e.g. is pronounced "the second". This tradition began in Europe sporadically in the Middle Ages, gaining widespread use in England during the reign of Henry {{rn. Previously, the monarch was not known by numeral but by an epithet such as Edward the Confessor. Some monarchs (e.g. Charles {{rn and Louis {{rn) seem to have preferred the use of instead of on their coinage (see illustration).
 -   Generational suffixes, particularly in the US, for people sharing the same name across generations, for example William Howard Taft {{rn.

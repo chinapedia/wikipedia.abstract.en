@@ -7,7 +7,7 @@ Biography
 
 Early life
 
-Caravaggio_Maffeo_Barberini.jpg]] He was born MAFFEO BARBERINI in April 1568[1] to Antonio Barberini, a Florentine nobleman, and Camilla Barbadoro. His father died when he was only three years old and his mother took him to Rome, where he was put in the charge of his uncle, Francesco Barberini, an apostolic protonotary.[2] At the age of 16 he became his uncle's heir.[3] He was educated by the Society of Jesus, ("Jesuits") and received a doctorate of law from the University of Pisa in 1589.
+]] He was born MAFFEO BARBERINI in April 1568[1] to Antonio Barberini, a Florentine nobleman, and Camilla Barbadoro. His father died when he was only three years old and his mother took him to Rome, where he was put in the charge of his uncle, Francesco Barberini, an apostolic protonotary.[2] At the age of 16 he became his uncle's heir.[3] He was educated by the Society of Jesus, ("Jesuits") and received a doctorate of law from the University of Pisa in 1589.
 
 In 1601, Barberini, through the influence of his uncle, was able to secure from Pope Clement VIII appointment as a papal legate to the court of King Henry IV of France. In 1604, the same pope appointed him as the Archbishop of Nazareth,[4] an office joined with that of Bishop of the suppressed Dioceses of Canne and Monteverde, with his residence at Barletta. At the death of his uncle, he inherited his riches, with which he bought a palace in Rome which he made into a luxurious Renaissance residence.
 
@@ -16,7 +16,7 @@ Pope Paul V also later employed Barberini in a similar capacity, afterwards rais
 
 Papacy
 
-Coin_of_Urban_VIII,_dated_1629.jpg mint, dated 1629]]
+mint, dated 1629]]
 
 Papal election
 
@@ -30,7 +30,7 @@ Urban VIII's papacy covered 21 years of the Thirty Years' War, (1618-1648), and 
 
 Despite an early friendship and encouragement for his teachings, Urban VIII was responsible for summoning the scientist and astronomer Galileo to Rome in 1633 to recant his work. Urban VIII was opposed to Copernican heliocentrism and he ordered Galileo's second trial after the publication of _Dialogue Concerning the Two Chief World Systems_, in which Urban's point of view is argued by the character "Simplicio".
 
-Urban VIII practiced nepotism on a grand scale; various members of his family were enormously enriched by him, so that it seemed to contemporaries as if he were establishing a Barberini dynasty.[8] He elevated his brother Antonio Marcello Barberini (Antonio the Elder) and then his nephews Francesco Barberini and Antonio Barberini (Antonio the Younger) to Cardinal. He also bestowed upon their brother, Taddeo Barberini, the titles _Prince of Palestrina_, Gonfalonier of the Church, Prefect of Rome and _Commander of Sant'Angelo_. Historian Leopold von Ranke estimated that during his reign, Urban VIII's immediate family amassed 105 million scudi in personal wealth.[9] Dankaerts-Historis-9264.tif Urban VIII was a skilled writer of Latin verse, and a collection of Scriptural paraphrases as well as original hymns of his composition have been frequently reprinted.
+Urban VIII practiced nepotism on a grand scale; various members of his family were enormously enriched by him, so that it seemed to contemporaries as if he were establishing a Barberini dynasty.[8] He elevated his brother Antonio Marcello Barberini (Antonio the Elder) and then his nephews Francesco Barberini and Antonio Barberini (Antonio the Younger) to Cardinal. He also bestowed upon their brother, Taddeo Barberini, the titles _Prince of Palestrina_, Gonfalonier of the Church, Prefect of Rome and _Commander of Sant'Angelo_. Historian Leopold von Ranke estimated that during his reign, Urban VIII's immediate family amassed 105 million scudi in personal wealth.[9] Urban VIII was a skilled writer of Latin verse, and a collection of Scriptural paraphrases as well as original hymns of his composition have been frequently reprinted.
 
 The 1638 papal bull _Commissum Nobis_ protected the existence of Jesuit missions in South America by forbidding the enslavement of natives who were at the Jesuit Reductions.[10][11] At the same time, Urban VIII repealed the Jesuit monopoly on missionary work in China and Japan, opening these countries to missionaries of other orders and missionary societies.[12]
 
@@ -46,7 +46,7 @@ The pope created 74 cardinals in eight consistories throughout his pontificate, 
 
 Politics
 
-Urban VIII's military involvement was aimed less at the restoration of Catholicism in Europe than at adjusting the balance of power to favour his own independence in Italy. In 1626, the duchy of Urbino was incorporated into the papal dominions, and, in 1627, when the direct male line of the Gonzagas in Mantua became extinct, he controversially favoured the succession of the Protestant Duke Charles of Nevers against the claims of the Catholic Habsburgs. He also launched the Wars of Castro in 1641 against Odoardo Farnese, Duke of Parma and Piacenza, whom he excommunicated. Castro was destroyed and its duchy incorporated into the Papal States. Bust_of_Pope_Urban_VIII_by_Bernini.jpg Urban VIII was the last pope to extend the papal territory. He fortified Castelfranco Emilia on the Mantuan frontier and commissioned Vincenzo Maculani to fortify the Castel Sant'Angelo in Rome. Urban VIII also established an arsenal in the Vatican, an arms factory at Tivoli and fortified the harbour of Civitavecchia.
+Urban VIII's military involvement was aimed less at the restoration of Catholicism in Europe than at adjusting the balance of power to favour his own independence in Italy. In 1626, the duchy of Urbino was incorporated into the papal dominions, and, in 1627, when the direct male line of the Gonzagas in Mantua became extinct, he controversially favoured the succession of the Protestant Duke Charles of Nevers against the claims of the Catholic Habsburgs. He also launched the Wars of Castro in 1641 against Odoardo Farnese, Duke of Parma and Piacenza, whom he excommunicated. Castro was destroyed and its duchy incorporated into the Papal States. Urban VIII was the last pope to extend the papal territory. He fortified Castelfranco Emilia on the Mantuan frontier and commissioned Vincenzo Maculani to fortify the Castel Sant'Angelo in Rome. Urban VIII also established an arsenal in the Vatican, an arms factory at Tivoli and fortified the harbour of Civitavecchia.
 
 For the purposes of making cannon and the baldacchino in St Peters, massive bronze girders were pillaged from the portico of the Pantheon leading to the well known lampoon: _quod non fecerunt barbari, fecerunt Barberini,_ "what the barbarians did not do, the Barberini did."[15]
 
@@ -58,7 +58,7 @@ The Barberini patronised painters such as Nicolas Poussin and Claude Lorrain. On
 
 Later life
 
-Urban_VIII_Bernini_Musei_Capitolini.jpg and his students between 1635 and 1640, and currently on display at the Palazzo dei Conservatori in Rome.]]
+and his students between 1635 and 1640, and currently on display at the Palazzo dei Conservatori in Rome.]]
 
 A consequence of these military and artistic endeavours was a massive increase in papal debt. Urban VIII inherited a debt of 16 million scudi, and by 1635 had increased it to 28 million.
 
@@ -77,7 +77,7 @@ Following his death, international and domestic machinations resulted in the pap
 
 Private revelation
 
-Giovanni_Gonnelli,_Busto_di_Urbano_VIII.jpg]] In the papal bull _Sanctissimus Dominus Noster_ of 13 March 1625, Urban instructed Catholics not to venerate the deceased or represent them in the manner of saints without Church sanction. It required a bishop’s approval for the publication of private revelations. Since the nineteenth century, it has become common for books of popular devotion to carry a disclaimer. One read in part: "In obedience to the decrees of Urban the Eighth, I declare that I have no intention of attributing any other than a purely human authority to the miracles, revelations, favours, and particular cases recorded in this book...."[21][22][23]
+]] In the papal bull _Sanctissimus Dominus Noster_ of 13 March 1625, Urban instructed Catholics not to venerate the deceased or represent them in the manner of saints without Church sanction. It required a bishop’s approval for the publication of private revelations. Since the nineteenth century, it has become common for books of popular devotion to carry a disclaimer. One read in part: "In obedience to the decrees of Urban the Eighth, I declare that I have no intention of attributing any other than a purely human authority to the miracles, revelations, favours, and particular cases recorded in this book...."[21][22][23]
 
 
 Portrayals in fiction

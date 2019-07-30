@@ -1,4 +1,4 @@
-DECsystem_2020_Logo.jpeg DECSYSTEM-20_KL-10_(1974).jpg]] DECSYSTEM-2020_KS-10_(1979).jpg
+]]
 
 The DECSYSTEM-20 was a 36-bit Digital Equipment Corporation PDP-10 mainframe computer running the TOPS-20 operating system (products introduced in 1977).
 

@@ -31,7 +31,7 @@ Junior singles titles
 | 1.  | 8 April 1997 | Manila, Philippines | Hard    | Wesley Whitehouse | 6–4, 6–3 |
 +-----+--------------+---------------------+---------+-------------------+----------+
 
-Lleyton_Hewitt_and_Mark_Philippoussis_Doubles_2005.jpg confer during a doubles match at the 2005 Queen's Club Championships.]]
+confer during a doubles match at the 2005 Queen's Club Championships.]]
 
 2000: US Open doubles title, Wimbledon mixed doubles, Stuttgart Masters and Davis Cup finals
 
@@ -42,8 +42,6 @@ In 2000, Hewitt reached his first Grand Slam final at the Wimbledon mixed double
 Hewitt started off the 2001 season well by winning the Medibank International in Sydney,[11] and went on to win tournaments in London (Queen's Club)[12] and 's-Hertogenbosch.[13] He captured his first Grand Slam singles title at the US Open in 2001, when he beat former world No. 1 Yevgeny Kafelnikov in the semifinals and defeated then-four-time champion Pete Sampras the next day in straight sets.[14] This win made Hewitt the most recent male player to win a Grand Slam singles and doubles title during his career. The Australian went on to win the Tokyo Open[15] and again qualify for the year-end Tennis Masters Cup held in Sydney. During the tournament, Hewitt won all matches in his group.[16] He then went on to defeat Sébastien Grosjean in the final to take the title and gain the No. 1 ranking.[17]
 
 Hewitt won a total of six titles in 2001.
-
-Hewick..._or_Roddick.jpg
 
 2002: Wimbledon victory and maintaining the Number One spot
 
@@ -61,13 +59,11 @@ In 2004, Hewitt became the first man in history to lose in each Grand Slam singl
 
 2005: Australian Open and Indian Wells Masters finals
 
-Lleyton_Hewitt_US_Open_2005.jpg
-
 In 2005, Hewitt won his only title at the Sydney Medibank International defeating little-known Czech player Ivo Minář.[29] Hewitt spent much time in the late stages of 2004 working with his former coach and good friend, Roger Rasheed, on bulking up his physique. His hard work paid off during the Australian summer, when he defeated an in-form No. 2 Andy Roddick to reach his first Australian Open final in 2005. He was the first Australian player to reach the final since Pat Cash in 1988. In the final, he faced fourth seed, Marat Safin, who had defeated No. 1 and defending champion Roger Federer in the semifinals. After easily taking the first set, he was defeated by the Russian despite being up a break in the third set.[30]
 
 At Wimbledon, Hewitt reached the semifinals, but lost to eventual champion Federer. Two months later, Hewitt again lost to Federer in the US Open semifinal, although this time he was able to take one set from the Swiss. Hewitt had at this point lost to the eventual champion at seven consecutive Grand Slam tournaments he played, (he missed the 2005 French Open because of injury).[31] Hewitt pulled out of the Tennis Masters Cup tournament in Shanghai in November 2005 so that he could be with his wife Bec, who was due to give birth.[32]
 
-Hewitt_2006_US_Open.jpg]]
+]]
 
 2006: 25th career title
 
@@ -78,8 +74,6 @@ Hewitt won his first tournament of 2006 (after a 17-month hiatus from winning a 
 Hewitt participated at the 2006 US Open, despite having an injured knee. Hewitt won his first three matches in straight sets against, respectively, Albert Montañés, Jan Hernych, and Novak Djokovic. He defeated Richard Gasquet in five sets to advance to the quarterfinals for the seventh consecutive year. He then lost to Roddick.[39]
 
 2007: 26th career title
-
-Lleyton_Hewitt_CincyATP07_QF_1.jpg
 
 At the 2007 Australian Open, Hewitt lost in the third round to tenth-seeded Chilean and eventual runner-up Fernando González. With his win in Las Vegas in March, Hewitt had won at least one ATP title annually for ten consecutive years. This was a record among active players at the time.[40] Hewitt reached the 2007 Hamburg Masters semifinals, where he pushed eventual finalist Rafael Nadal to three sets. At the 2007 French Open, Hewitt, for the second straight time lost in the fourth round to Nadal. At the 2007 Wimbledon Championships, Hewitt won his first three matches, including a four-set third round victory over Guillermo Cañas. He then faced fourth seed Novak Djokovic in the fourth round, which he lost.
 
@@ -107,17 +101,13 @@ At the 2009 U.S. Men's Clay Court Championships, Hewitt defeated seventh seed Di
 
 At the 2009 BMW Open, Hewitt recorded his 500th career win after defeating Philipp Petzschner in the first round, becoming one of only four active players to achieve this milestone; the others being Roger Federer and Carlos Moyá. Andy Roddick would later achieve this feat at the 2009 Legg Mason Tennis Classic Tournament in Washington, D.C. In the 2009 French Open, he defeated 26th seed Ivo Karlović in five sets in the first round, and then defeated Andrey Golubev in the second. He lost to No. 1 Rafael Nadal in the third round. His next tournament was the 2009 Aegon Championships in London. He was 15th seed and drew Eduardo Schwank in the first round, who he easily dispatched. In the second round, he went three sets against Portuguese Frederico Gil. Hewitt dropped the first set, but went on to win. Former rival Andy Roddick awaited Hewitt in the third round, and the match certainly did not disappoint. As they have many times in the past, the former No. 1 players battled through a tough and intense match, which Roddick won.
 
-Lleyton_Hewitt_at_the_2009_Wimbledon_Championships_01.jpg
-
-Lleyton_Hewitt_at_the_2009_US_Open_01.jpg In the 2009 Wimbledon Championships, Hewitt faced the prospect of Rafael Nadal in the second round. However, Nadal withdrew due to injury, and his slot was replaced by No. 5 Juan Martín del Potro. Hewitt defeated American Robby Ginepri in the first round. Hewitt used his strong service game to advantage, losing only one service game the entire match. He upended del Potro in straight sets. The third round also produced a straight-set victory for Hewitt, as he defeated Philipp Petzschner. He reversed a two-set deficit to defeat Radek Štěpánek in the fourth round. It was another classic Hewitt fightback to thrill the many Australians on hand to witness the match. His Cinderella run ended in the quarterfinals against sixth seed Andy Roddick. It was a five-set thriller which featured two tiebreaks. Hewitt lost a heartbreaking 3–6, 7–6 (10), 6–7 (1), 6–4, 4–6 match.[44] It was the first time Hewitt had reached the quarterfinals of a Major since the 2006 U.S. Open.
+In the 2009 Wimbledon Championships, Hewitt faced the prospect of Rafael Nadal in the second round. However, Nadal withdrew due to injury, and his slot was replaced by No. 5 Juan Martín del Potro. Hewitt defeated American Robby Ginepri in the first round. Hewitt used his strong service game to advantage, losing only one service game the entire match. He upended del Potro in straight sets. The third round also produced a straight-set victory for Hewitt, as he defeated Philipp Petzschner. He reversed a two-set deficit to defeat Radek Štěpánek in the fourth round. It was another classic Hewitt fightback to thrill the many Australians on hand to witness the match. His Cinderella run ended in the quarterfinals against sixth seed Andy Roddick. It was a five-set thriller which featured two tiebreaks. Hewitt lost a heartbreaking 3–6, 7–6 (10), 6–7 (1), 6–4, 4–6 match.[44] It was the first time Hewitt had reached the quarterfinals of a Major since the 2006 U.S. Open.
 
 After an extended break, Hewitt began working his way into the U.S Open series by playing in Washington at the Legg Mason Classic. There Hewitt made it into the third round, before losing in a three-set battle with Juan Martín del Potro. At the Montreal Masters, Hewitt lost in the first round to former No. 1 Juan Carlos Ferrero. Cincinnati saw Hewitt reach the quarterfinals for the sixth time, where he lost to Roger Federer in straight sets. During the first round of the tournament, Hewitt showed his trademark fighting abilities by saving two match points to win against an in-form Robin Söderling.[45] At the U.S Open, Hewitt progressed into the third round, where he played Federer for the 23rd time of their decade-long rivalry. Hewitt managed to take the first set 6–4 from Federer, before the 15-time Grand Slam champion took control of the second. The third set was tight, and both players saved multiple break points. Federer eventually prevailed the match in four sets.[46]
 
 In late September, Hewitt travelled to Malaysia for his first time to take part in the inaugural Malaysian Open held in Kuala Lumpur.[47] The new tournament was part of the ATP's new dedicated Asian swing. Hewitt lost in the first round to Swedish player Joachim Johansson.[48] In Tokyo, Hewitt was drawn to once again meet del Potro in the quarterfinals, but was given a clear path when del Potro was knocked out by qualifier Édouard Roger-Vasselin in the first round. After defeating Fabrice Santoro in the second round, Hewitt downed Roger-Vasselin, to reach his first semifinals since winning the US Men's Clay Court Championships in April, but lost to Mikhail Youzhny. He then competed in the 2009 Shanghai ATP Masters 1000, where he won in the first round, defeating John Isner, before losing to Gaël Monfils.
 
 2010: 28th career title
-
-Lleyton_Hewitt_(4309089844).jpg
 
 Hewitt began his 2010 season partnering Samantha Stosur at the Hopman Cup. The Australians were the top seeds for the exhibition tournament. They, however, fared worse than expected, losing ties against Romania and Spain, and therefore failing to reach the final.
 
@@ -126,8 +116,6 @@ He was seeded fourth in the Medibank International and, like the previous year, 
 A week after his exit from the Australian Open, Hewitt announced at a press conference at Melbourne Park that he underwent another hip operation similar to his left hip operation this time on his right hip on 28 January 2010 in Hobart.
 
 Hewitt returned to the tour at the U.S. Men's Clay Court Championships as the singles defending champion.[49] He won his first match since the Australian Open, partnering coach Nathan Healey in the doubles, defeating James Cerretani and Adil Shamasdin, but lost to top seeds the Bryan brothers in the semifinals. Hewitt received a first-round bye, as he was seeded fourth in singles. In his first match, against lucky loser Somdev Devvarman, Hewitt dropped the first set, before battling to win in three sets. He then lost to Juan Ignacio Chela. Hewitt's next tournament was scheduled to be the Monte-Carlo Rolex Masters. However, he withdrew due to a recurring injury.
-
-Djokovic_and_Hewitt.jpg
 
 Hewitt then reached the second round in Barcelona, before losing to Eduardo Schwank, and lost in the second round of the Internazionali BNL d'Italia to Guillermo García-López. Hewitt then travelled back to Australia to participate in a Davis Cup tie against Japan, winning his two singles matches.
 
@@ -165,13 +153,9 @@ Hewitt began his 2012 season at the Hopman Cup. In the opening singles tie again
 
 His next tournament was the 2012 Australian Open. In doubles, partnering countryman Peter Luczak, the Aussies went until the 2nd round where they lost in straight sets to the Bryan Twins. In singles, where he was awarded a wildcard, Hewitt won his first round match defeating unseeded Cedrik-Marcel Stebe in almost four hours. Long-time rival Andy Roddick, who was seeded 15th, awaited Hewitt in the second round. After dropping the first set, Hewitt won the next two. Roddick then retired due to a groin injury and Hewitt advanced. In the third round, he faced the 23rd seed Milos Raonic of Canada. Playing at night in front of a boisterous Aussie crowd, Hewitt dispatched Raonic in 3 hours 6 minutes. In the 4th round, Hewitt faced returning champ and No. 1-ranked Novak Djokovic. Djokovic won the 1st two sets fairly easily, and was leading 3–0 in the 3rd set when Hewitt launched a spirited comeback, taking the set 6–4. Djokovic eventually prevailed however, winning the match in four sets, ending Hewitt's run.[56] Hewitt's two next matches were in February at the Davis Cup, where he won one singles and one doubles match partnering Chris Guccione, what awarded Australia to go to the playoffs once more. After this Hewitt needed an operation to have a plate inserted in his toe.
 
-Lleyton_Hewitt_RG_2012.JPG
-
 Hewitt returned with a wildcard at the French Open where he lost in the first round to Blaž Kavčič. After this, Hewitt began his grass season at Queen's Club Championships.[57] Unfortunately he lost in the 1st round to Croatian Ivo Karlović. Hewitt's next tournament was the 2012 Wimbledon Championships, where he was defeated in the first round by 5th seed Jo-Wilfried Tsonga.[58] During this match, ITF released wild cards for the 2012 Olympics, and Hewitt's name was in the singles list, marking his third appearance at the Olympic Games (2000, 2008 and now). After his loss against Tsonga, Hewitt played doubles at Wimbledon partnering countryman Chris Guccione, where they made the 3rd round before losing in 4 sets.
 
 After Wimbledon, viewing to prepare for the Olympics, Hewitt was granted a wild card at Newport.[59] In the opening round, he defeated Canadian Vasek Pospisil. In the 2nd round, he won in three sets, ousting American Tim Smyczek. In his next match, the Aussie won against Israeli Dudi Sela. With this win, Hewitt went on to the semifinal (his first since Halle 2010), where he was victorious over American Rajeev Ram. He lost to top seeded John Isner in the final.[60]
-
-Lleyton_Hewitt_Newport_2012.JPG
 
 Playing in the Olympics, Hewitt was drawn against Sergiy Stakhovsky and won. Marin Čilić, seeded 13th, awaited in the second round and Hewitt dispatched the Croat in two sets to advance to the third round. There, he met 2nd seed Novak Djokovic. After losing the first set, Djokovic overpowered Hewitt to take the final two sets and eliminate Hewitt from the tournament.[61] In the mixed doubles, he and Sam Stosur reached the quarterfinals, where they lost two sets to one to Britain's Andy Murray and Laura Robson.[62]
 
@@ -179,17 +163,11 @@ Beginning the American hard court season, Hewitt received a WC to the Cincinnati
 
 2013: Five top ten wins and hope for resurgence
 
-Lleyton_Hewitt_(8985162272).jpg
-
 Hewitt started off 2013 in Brisbane, where he lost in second round against Denis Istomin in straight sets. Prior to the Australian Open, Hewitt took part in the exhibition tournament AAMI Kooyong Classic, in which he defeated Milos Raonic, Tomáš Berdych, and Juan Martín del Potro en route to claim his second title. Due to his excellent result in the preparation event before the 2013 Australian Open, people had high expectations of Hewitt. However, he suffered his sixth first-round exit in his home slam to No. 9 Janko Tipsarević in straight sets. Hewitt then played in the Davis Cup against Taiwan and won in both singles and doubles.[64]
 
 He played the SAP Open next in San Jose, losing his second-round match to third-seeded American Sam Querrey in a three-set thriller. He also claimed a wild card to play in doubles with fellow Aussie Marinko Matosevic, beating the No. 1 American duo Mike Bryan and Bob Bryan in the quarterfinals, before losing to Xavier Malisse and Frank Moser in the final. With Hewitt's doubles run in the tournament, he surpassed the 100-wins mark in doubles. He next participated in the U.S. National Indoor Tennis Championships in Memphis. He faced Yen-Hsun Lu in the opening round, saving two match points to edge Lu in three sets. He lost to Denis Istomin, again in the second round.
 
-Lleyton_Hewitt_Queen's_2013.JPG
-
 Hewitt moved on to play the BNP Paribas Open in Indian Wells, ousting Lukáš Rosol and 15th seed John Isner, before losing to No. 18 Stanislas Wawrinka. Hewitt lost to Gilles Simon in the opening round at Roland Garros. After winning the first two sets, he succumbed in five. In his first match at the Aegon Championships Queen's Club, he beat Mike Russell in three sets. He followed this with victory over Grigor Dimitrov in straight sets. He then defeated Sam Querrey to book a place in the quarterfinals. In the quarterfinals, he defeated No. 8 Juan Martín del Potro in three sets, to progress to the semifinals. Hewitt played Marin Čilić in the semifinals, but was beaten in three sets. At Wimbledon, Hewitt beat top ten player Stanislas Wawrinka in the first round in straight sets. He was then defeated by German qualifier Dustin Brown in the second round in four sets.[65]
-
-Hewitt_2013_US_Open.JPG
 
 In July 2013, he made it to his first final of the year at the Hall-of-Fame Championships, defeating Matthew Ebden, Prakash Amritraj, Jan Hernych, and John Isner on the way. He was beaten by Nicolas Mahut having served for the championship at 5–4 in the second set. His form continued at the Atlanta Open, defeating Édouard Roger-Vasselin 6–4, 6–4, Rhyne Williams 7–6, 6–4 and Ivan Dodig 1–6, 6–3, 6–0 in the quarterfinals. Hewitt played John Isner in the semifinals, but lost in three tough sets. His 2013 US Open run started well, beating Brian Baker in four sets and following up with a five-set epic upset against fellow former US Open champion Juan Martín del Potro, where Hewitt came back from two sets to one down against the No. 6, winning a fourth set tiebreak and sealing the match 6–1 in the fifth. He beat Evgeny Donskoy in the third round to set up a fourth round match with Mikhail Youzhny. Hewitt then lost to Youzhny 3–6, 6–3, 7–6, 4–6, 7–5, despite leading 4–1 in the fourth set and serving for the match at 5–3 in the fifth set. A measure of the success of Hewitt's 2013 season is the fact that he won the Newcombe medal as the most outstanding Australian tennis player in 2013, a year in which he returned to the world's top 100.[66]
 
@@ -197,15 +175,11 @@ In July 2013, he made it to his first final of the year at the Hall-of-Fame Cham
 
 Hewitt kicked off the 2014 season as an unseeded entrant into the 2014 Brisbane International. He won his first round match against Thanasi Kokkinakis in straight sets. His second round match was against sixth seed Feliciano López, whom he defeated. His quarterfinal encounter against qualifier Marius Copil resulted in a straight-set victory. In the semifinals Hewitt faced second seed Kei Nishikori. Hewitt prevailed, thus setting the final match against seventeen–time Grand Slam winner Roger Federer. Federer held an 18–8 record head–to–head against Hewitt. Hewitt managed to turn the tide on Federer, winning 6–1, 4–6, 6–3 and capturing the title, which was his 29th and first since 2010. As a result, his rank increased from 60th to 43rd, becoming Australian number one again.[67] At AMMI Classic, he defeated Andy Murray in two tiebreaks.
 
-Lleyton_Hewitt_(14418849771).jpg
-
 In the 2014 Australian Open, Hewitt played both singles and doubles as an unseeded player. In his first round singles match, he lost to No. 24 seed Andreas Seppi. In doubles action, Hewitt partnered with retired and former Australian number one Patrick Rafter. However, the duo did not manage to win their first round match against Eric Butorac and Raven Klaasen, losing 4–6, 5–7.[68] After the tournament, Hewitt's singles rank rose to No. 38, his highest position since late 2010. Hewitt battled for his 600th ATP win, becoming only the third active player to reach that milestone by beating Robin Haase in the 1st Round of the 2014 Sony Open Tennis.[69]
 
 After the Australian Open, Hewitt played as part of the Australian representative team for the Davis Cup. He lost his match against Jo-Wilfried Tsonga 3–6, 2–6, 6–7 (2–7). He then competed in the 2014 U.S. National Indoor Tennis Championships in Memphis in the United States of America. With a bye in the Round of 32, he went on to defeat Marcos Baghdatis in three sets 1–6, 6–2, 6–0 before losing to Michael Russell 3–6, 6–7 (6–8). His next tournament was the Delray Beach Tournament where he beat Bradley Klahn in straight sets 6–3, 6–1. He then versed his compatriot Marinko Matosevic but was forced to retire after injuring his shoulder. The score was 6–7 (2–7).[70]
 
 Hewitt played at the BNP Paribas Open where he defeated Matthew Ebden 7–6(7–2), 3–6, 6–3. He then lost to Kevin Anderson 6–7(5–7), 4–6. Hewitt then played at the Sony Open Tennis where he defeated Robin Haase in the Round of 128, 3–6, 6–3, 6–3. He then subsequently lost to No. 1 Rafael Nadal. Hewitt then played at the U.S. Men's Clay Court Championships where he lost in Round of 16 to Sam Querrey.
-
-Hewitt_MA14_(24)_(14426146875).jpg
 
 Hewitt suffered three consecutive first round losses at the BMW Open by FWU AG to Albert Ramos-Vinolas 7–6(6), 1–6, 0–6, Mutua Madrid Open to Santiago Giraldo 5–7, 6–4, 2–6 and at the French Open Rolland Garros to Carlos Berlocq 6–3, 2–6, 1–6, 4–6. This ended Hewitt's clay court season.
 
@@ -219,17 +193,11 @@ On 10 August 2014, Hewitt defeated Austria's Jürgen Melzer in three sets (3–6
 
 2015: Farewell year
 
-Hewitt_Kokkinakis_Wimbledon_2015.JPG
-
 Hewitt began his 2015 season as the defending champion of the Brisbane International. In the first round he was defeated in straight sets (3–6, 2–6) by fellow Australian Sam Groth in 58 minutes. As a result, he dropped from rank No. 50 to No. 84 and lost his position of No. 1 Australian which he had held for many consecutive months.[74] Hewitt played the first Fast4 short-form tennis exhibition match against Roger Federer but lost in five sets.[75]
-
-Lleyton_Hewitt_at_Wimbledon_2015_(2).JPG
 
 Hewitt then played his 19th consecutive Australian Open appearance which is the fourth longest streak at any Grand Slam.[76] In the first round he beat wild card Zhang Ze in 4 sets. He then lost in five sets to his second round opponent Benjamin Becker despite winning the first two sets.
 
 At a media conference, Hewitt mentioned plans to retire after the 2016 Australian Open to become the captain of the Australian Davis Cup team after Pat Rafter moved on from the position, becoming the seventh man to captain the team.[77] "I had thought long and hard and I plan to play the Australian Open next year and then finish," he said. "At the moment, [the Davis Cup] is the main focus for us and then I will be looking towards the grass court season and finishing here in Melbourne, which would be special to play 20 Australian Opens". It will be Australia's first time in the world group of the Davis Cup in six years. Rafter and John Newcombe are the only other two Australian men to have been ranked No. 1 since ranks were established in 1973.[78]
-
-Hewitt_Dellacqua_Wimbledon_2015.JPG
 
 Hewitt then played the Miami Open and lost in the first round to Thomaz Bellucci in three sets. He was then awarded a wildcard to the 2015 U.S. Men's Clay Court Championships where he also lost in the first round to Go Soeda.
 
@@ -355,7 +323,7 @@ A rivalry and feud[113] between Hewitt and Argentinian tennis players began at t
 
 Playing style
 
-Lleyton_Hewitt_practice.JPG Hewitt is a defensive counterpuncher. He typically likes to stay back towards the baseline during a rally and will usually approach the net only to catch a short reply or drop shot from his opponent. Hewitt's lack of penetration in his groundstokes, most notably in his forehand, a typically dominant shot in most male players, forces him to rely on placement rather than simply "dominating" the point.[119] At the 2004 Cincinnati Masters Final, commentator MaliVai Washington said that Hewitt was even more difficult to "ace" than Agassi because he gets more returns in play. Hewitt's tactics typically involve putting difficult service returns in play, consistently chasing down attempted winning shots from his opponent, and keeping the ball deep until he feels he can hit a winner.
+Hewitt is a defensive counterpuncher. He typically likes to stay back towards the baseline during a rally and will usually approach the net only to catch a short reply or drop shot from his opponent. Hewitt's lack of penetration in his groundstokes, most notably in his forehand, a typically dominant shot in most male players, forces him to rely on placement rather than simply "dominating" the point.[119] At the 2004 Cincinnati Masters Final, commentator MaliVai Washington said that Hewitt was even more difficult to "ace" than Agassi because he gets more returns in play. Hewitt's tactics typically involve putting difficult service returns in play, consistently chasing down attempted winning shots from his opponent, and keeping the ball deep until he feels he can hit a winner.
 
 Although he is known primarily as a baseliner, Hewitt is a skilled volleyer and is known for having one of the best overhead smashes in the game. His signature shot, however, is the offensive topspin lob, a shot that he executes efficiently off both wings when his opponent approaches the net. US Davis Cup captain Patrick McEnroe, Jim Courier and Tim Henman have all described Hewitt's lob as being the best in the world (although Henman has since declared Andy Murray to have succeeded him).[120] In Andre Agassi's book "Open", Hewitt is described as one of the best shot selectors in the history of Men's Tennis.[121]
 

@@ -1,4 +1,4 @@
-Samuel_e_david.jpg anoints David, Dura Europos, Syria, Date: 3rd century CE.]] In Abrahamic religions, a MESSIAH or MESSIAS (; , ) is a saviour or liberator of a group of people. The concepts of _moshiach_, messianism, and of a Messianic Age originated in Judaism,[1][2] and in the Hebrew Bible; a _moshiach_ (messiah) is a king or High Priest traditionally anointed with holy anointing oil.[3] Messiahs were not exclusively Jewish: the Book of Isaiah refers to Cyrus the Great, king of the Achaemenid Empire, as a messiah[4] for his decree to rebuild the Jerusalem Temple.
+anoints David, Dura Europos, Syria, Date: 3rd century CE.]] In Abrahamic religions, a MESSIAH or MESSIAS (; , ) is a saviour or liberator of a group of people. The concepts of _moshiach_, messianism, and of a Messianic Age originated in Judaism,[1][2] and in the Hebrew Bible; a _moshiach_ (messiah) is a king or High Priest traditionally anointed with holy anointing oil.[3] Messiahs were not exclusively Jewish: the Book of Isaiah refers to Cyrus the Great, king of the Achaemenid Empire, as a messiah[4] for his decree to rebuild the Jerusalem Temple.
 
 _Ha mashiach_ (המשיח, 'the Messiah', 'the anointed one'),[5] often referred to as __ (מלך המשיח 'King Messiah'),[6] is to be a human leader, physically descended from the paternal Davidic line through King David and King Solomon. He is thought to accomplish predetermined things in only one future arrival, including the unification of the tribes of Israel,[7] the gathering of all Jews to _Eretz Israel_, the rebuilding of the Temple in Jerusalem, the ushering in of a Messianic Age[8] of global universal peace, and the annunciation of the world to come.[9][10]
 
@@ -38,8 +38,6 @@ A Kabbalistic tradition within Judaism is that the commonly discussed messiah wh
 
 Chabad
 
-Psak_din_messiah.jpg
-
 Yosef Yitzchak Schneersohn (r. 1920 - 1950), sixth _Rebbe_ (spiritual leader) of Chabad Lubavitch,[34][35] and Menachem Mendel Schneerson (1902 - 1994), seventh _Rebbe_ of Chabad,[36][37][38][39][40] are messiah claimants.[41][42][43][44][45][46][47]
 
 As per Chabad-Lubavitch messianism,[48] Menachem Mendel Schneerson openly declared his deceased father-in-law, the former 6th _Rebbe_ of Chabad Lubavitch, to be the Messiah.[49][50] He published about Yosef Yitzchak Schneersohn to be _"Atzmus u'mehus alein vi er hat zich areingeshtalt in a guf"_ (Yiddish and English for: "Essence and Existence [of God] which has placed itself in a body").[51][52][53] The gravesite of his deceased father-in-law Yosef Yitzchak Schneersohn, known as "the _Ohel_", became a central point of focus for Menachem Mendel Schneerson's prayers and supplications.
@@ -51,7 +49,7 @@ Still today, the deceased rabbi Menachem Mendel Schneerson is believed to be the
 
 Christianity
 
-The_Last_Judgement._Jean_Cousin..jpg'', by Jean Cousin the Younger (c. late 16th century)]] The Greek translation of Messiah is _khristos_ (), anglicized as _Christ_, and Christians commonly refer to Jesus as either the "Christ" or the "Messiah". Christians believe that messianic prophecies were fulfilled in the mission, death, and resurrection of Jesus and that he will return to fulfill the rest of messianic prophecies.
+'', by Jean Cousin the Younger (c. late 16th century)]] The Greek translation of Messiah is _khristos_ (), anglicized as _Christ_, and Christians commonly refer to Jesus as either the "Christ" or the "Messiah". Christians believe that messianic prophecies were fulfilled in the mission, death, and resurrection of Jesus and that he will return to fulfill the rest of messianic prophecies.
 
 The majority of historical and mainline Christian theologies consider Jesus to be the Son of God and God the Son, a concept of the Messiah fundamentally different from the Jewish and Islamic concepts. In each of the four New Testament Gospels, the only literal anointing of Jesus is conducted by a woman. In the Gospels of Mark, Matthew, and John, this anointing occurs in Bethany, outside Jerusalem. In the Gospel of Luke, the anointing scene takes place at an indeterminate location, but context suggests it to be in Galilee, or even a separate anointing altogether.
 
@@ -85,7 +83,7 @@ The Imams and Fatima will have a direct impact on the judgements rendered that d
 
 Other sects
 
-Mirza_Ghulam_Ahmad_(c._1897).jpg to be the Promised Messiah of the latter days]]
+to be the Promised Messiah of the latter days]]
 
 -   In Ahmadiyya theology, the terms "Messiah" and "Mahdi" are synonymous terms for one and the same person.[91] The term "Mahdi" means _guided_ by God, thus implying a direct ordainment by God of a divinely chosen individual.[92]
 

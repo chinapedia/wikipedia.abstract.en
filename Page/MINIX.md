@@ -21,7 +21,7 @@ MINIX 1.5, released in 1991, included support for MicroChannel IBM PS/2 systems 
 
 MINIX 2.0
 
-MINIX_2.0.4_Startup_Login.png MINIX_2.0.4_Shell_Interaction.png interaction]]
+interaction]]
 
 Demand for the 68k-based architectures waned, however, and MINIX 2.0, released in 1997, was only available for the x86 and Solaris-hosted SPARC architectures. It was the subject of the second edition of Tanenbaum's textbook, cowritten with Albert Woodhull and was distributed on a CD-ROM included with the book. MINIX 2.0 added POSIX.1 compliance, support for 386 and later processors in 32-bit mode and replaced the Amoeba network protocols included in MINIX 1.5 with a TCP/IP stack.
 
@@ -31,7 +31,7 @@ Minix-vmd is a variant of MINIX 2 for Intel IA-32-compatible processors, created
 
 MINIX 3
 
-MINIX_3.2_Top_Command.png" system monitoring command]] Minix_3.png with the twm window manager]]
+" system monitoring command]] with the twm window manager]]
 
 MINIX 3 was publicly announced on 24 October 2005 by Andrew Tanenbaum during his keynote speech at the Association for Computing Machinery (ACM) Symposium on Operating Systems Principles (SOSP). Although it still serves as an example for the new edition of Tanenbaum and Woodhull's textbook, it is comprehensively redesigned to be "usable as a serious system on resource-limited and embedded computers and for applications requiring high reliability."[8]
 

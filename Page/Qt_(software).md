@@ -25,7 +25,7 @@ In 2017, the Qt Company estimated a community of about 1 million developers worl
 
 Desktop UIs
 
-KDE_Mascot_Konqi_for_Qt.png showing his Qt heart]] Graphical user-interfaces and desktop environments that utilize Qt/QML as widget toolkit:
+showing his Qt heart]] Graphical user-interfaces and desktop environments that utilize Qt/QML as widget toolkit:
 
 -   KDE Plasma, a libre desktop environment for computers and tablets[16]
 -   DDE (Deepin Desktop Environment) of Deepin Linux[17][18]
@@ -142,8 +142,6 @@ Qt is utilized by a wide range of companies and organizations such as
 
 
 Qt software architecture
-
-Free_and_open-source-software_display_servers_and_UI_toolkits.svg
 
 Qt concepts
 
@@ -292,7 +290,7 @@ Framework development of Qt 5 moved to open governance at qt-project.org, which 
 
 Qt contributors
 
-Qt_contributors_2013W18_without_Digia.png Aside from The Qt Company, many organizations and individuals using Qt as their development platform participate in the open development of Qt via the Qt Project.[141]
+Aside from The Qt Company, many organizations and individuals using Qt as their development platform participate in the open development of Qt via the Qt Project.[141]
 
 One such Qt contributor is Klarälvdalens Datakonsult AB, a Swedish Qt consulting company.[142] KDAB is involved in many areas, including maintenance of several components.[143][144]
 

@@ -1,11 +1,9 @@
-Eod2.jpg plastic explosive (the off-white rectangular blocks) being used to destroy unexploded artillery components.]] PLASTIC EXPLOSIVE is a soft and hand-moldable solid form of explosive material. Within the field of explosives engineering, plastic explosives are also known as PUTTY EXPLOSIVES.[1]
+plastic explosive (the off-white rectangular blocks) being used to destroy unexploded artillery components.]] PLASTIC EXPLOSIVE is a soft and hand-moldable solid form of explosive material. Within the field of explosives engineering, plastic explosives are also known as PUTTY EXPLOSIVES.[1]
 
 Plastic explosives are especially suited for explosive demolition. Common plastic explosives include Semtex and C-4. The first discovered plastic explosive was gelignite in 1875, invented by Alfred Nobel.
 
 
 Usage
-
-C4_plastic_explosive.jpg
 
 Plastic explosives are especially suited for explosive demolition of obstacles and fortifications by engineers, combat engineers and criminals as they can be easily formed into the best shapes for cutting structural members and have a high enough velocity of detonation and density for metal cutting work.
 
@@ -18,8 +16,6 @@ Reactive armor in tanks uses plastic explosives sandwiched between two plates of
 
 History
 
-Preparation_of_the_demolition_with_explosive_charges_and_wire_(22731570152).jpg
-
 The first plastic explosive was gelignite, invented by Alfred Nobel in 1875.[4] Prior to World War I, the British explosives chemist Oswald Silberrad obtained British and U.S. patents for a series of plastic explosives called "Nitrols", composed of nitrated aromatics, collodion, and oxidising inorganic salts.[5] The language of the patents indicate that at this time, Silberrad saw no need to explain to "those versed in the art" either what he meant by plasticity nor why it may be advantageous, as he only explains why his plastic explosive is superior to others of that type.
 
 One of the simplest plastic explosives was Nobel's Explosive No. 808, also known as _Nobel 808_ (often just called _Explosive 808_ in the British Armed Forces during the Second World War), developed by the British company Nobel Chemicals Ltd well before World War II. It had the appearance of green plasticine with a distinctive smell of almonds. During World War II it was extensively used by the British Special Operations Executive (SOE) for sabotage missions. It is also the explosive used in HESH anti-tank shells and was an essential factor in the devising of the Gammon grenade. Captured SOE-supplied Nobel 808 was the explosive used in the failed 20 July plot assassination attempt on Adolf Hitler in 1944.
@@ -31,12 +27,12 @@ Types
 
 Composition C
 
-C4_explosive.jpg USMC-100609-M-0761B-014.jpg The British used a plastic explosive during World War II as a demolition charge. The specific explosive, Composition C, was 88.3% RDX and 11.7% non-oily, non-explosive plasticizer.[6] The material was plastic between 0 and 40 degrees C, but was brittle at colder temperatures and gummy at higher temperatures. Composition C was superseded by Composition C2, which used a mixture of 80% RDX and 20% plasticizer. Composition C2 had a wider temperature range at which it remained plastic, from −30 to 52 degrees C. Composition C2 was replaced by Composition C3, which was a mixture of 77% RDX and 23% explosive plasticizer.[7] C3 was effective but proved to be too brittle in cold weather and was replaced with C4. There are three classes of C4, with varying amounts of RDX and polyisobutylene.[8]
+The British used a plastic explosive during World War II as a demolition charge. The specific explosive, Composition C, was 88.3% RDX and 11.7% non-oily, non-explosive plasticizer.[6] The material was plastic between 0 and 40 degrees C, but was brittle at colder temperatures and gummy at higher temperatures. Composition C was superseded by Composition C2, which used a mixture of 80% RDX and 20% plasticizer. Composition C2 had a wider temperature range at which it remained plastic, from −30 to 52 degrees C. Composition C2 was replaced by Composition C3, which was a mixture of 77% RDX and 23% explosive plasticizer.[7] C3 was effective but proved to be too brittle in cold weather and was replaced with C4. There are three classes of C4, with varying amounts of RDX and polyisobutylene.[8]
 
 
 List of plastic explosives
 
-Semtex_H_1.jpg (note the characteristic orange color) and an American M112 charge containing C4]]
+(note the characteristic orange color) and an American M112 charge containing C4]]
 
 -   Austria: KAUERIT
 -   Czech Republic: Semtex-H (orange-colored), Semtex 1A (red-colored), NP10 (black-colored)

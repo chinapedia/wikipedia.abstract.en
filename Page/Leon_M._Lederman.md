@@ -32,7 +32,7 @@ In 1988, Lederman received the Nobel Prize for Physics along with Melvin Schwart
 
 Personal life
 
-Leon_M._Lederman.jpg Lederman's best friend during his college years, Martin J. Klein, convinced him of "the splendors of physics during a long evening over many beers".[40] He was known for his sense of humor in the physics community.[41] On August 26, 2008 Lederman was video-recorded by a science focused organization called ScienCentral, on the street in a major U.S. city, answering questions from passersby.[42] He answered questions such as "What is the strong force?" and "What happened before the Big Bang?".[43]
+Lederman's best friend during his college years, Martin J. Klein, convinced him of "the splendors of physics during a long evening over many beers".[40] He was known for his sense of humor in the physics community.[41] On August 26, 2008 Lederman was video-recorded by a science focused organization called ScienCentral, on the street in a major U.S. city, answering questions from passersby.[42] He answered questions such as "What is the strong force?" and "What happened before the Big Bang?".[43]
 
 Despite his Jewish background, Lederman was an atheist.[44][45] He had three children with his first wife, Florence Gordon, and toward the end of his life lived with his second wife, Ellen (Carr), in Driggs, Idaho.[46][47]
 

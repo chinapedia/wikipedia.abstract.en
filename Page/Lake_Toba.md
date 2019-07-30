@@ -7,14 +7,14 @@ It has been accepted that the eruption of Toba led to a volcanic winter with a w
 
 Geology
 
-Lake_Toba,_North_Sumatra_(71).JPG Map_of_Lake_Toba.jpg The Toba caldera complex in North Sumatra comprises four overlapping volcanic craters that adjoin the Sumatran "volcanic front". With it is the world's largest Quaternary caldera, and the fourth and youngest caldera. It intersects the three older calderas. An estimated of dense-rock equivalent pyroclastic material, known as the youngest Toba tuff, was released during one of the largest explosive volcanic eruptions in recent geological history. Following this eruption, a resurgent dome formed within the new caldera, joining two half-domes separated by a longitudinal graben.[11]
+The Toba caldera complex in North Sumatra comprises four overlapping volcanic craters that adjoin the Sumatran "volcanic front". With it is the world's largest Quaternary caldera, and the fourth and youngest caldera. It intersects the three older calderas. An estimated of dense-rock equivalent pyroclastic material, known as the youngest Toba tuff, was released during one of the largest explosive volcanic eruptions in recent geological history. Following this eruption, a resurgent dome formed within the new caldera, joining two half-domes separated by a longitudinal graben.[11]
 
 At least four cones, four stratovolcanoes, and three craters are visible in the lake. The Tandukbenua cone on the northwestern edge of the caldera has only sparse vegetation, suggesting a young age of several hundred years. Also, the Pusubukit (Hill Center) volcano ( above sea level) on the south edge of the caldera is solfatarically active.[12]
 
 
 Major eruption
 
-Lake_Toba_location.png The _Toba eruption_ (the _Toba event_) occurred at what is now Lake Toba about 75,000±900 years ago.[13] It was the last in a series of at least four caldera-forming eruptions at this location, with earlier calderas having formed around 788,000±2,200 years ago.[14] This last eruption had an estimated VEI=8, making it the largest-known explosive volcanic eruption within the last 25 million years.
+The _Toba eruption_ (the _Toba event_) occurred at what is now Lake Toba about 75,000±900 years ago.[13] It was the last in a series of at least four caldera-forming eruptions at this location, with earlier calderas having formed around 788,000±2,200 years ago.[14] This last eruption had an estimated VEI=8, making it the largest-known explosive volcanic eruption within the last 25 million years.
 
 Bill Rose and Craig Chesner of Michigan Technological University have estimated that the total amount of material released in the eruption was about [15]—about of ignimbrite that flowed over the ground, and approximately that fell as ash mostly to the west. However, based on the new method (crystal concentration and exponential), Toba possibly erupted of ignimbrite and co-ignimbrite. The pyroclastic flows of the eruption destroyed an area of least , with ash deposits as thick as by the main vent.[16]
 
@@ -22,7 +22,7 @@ The eruption was large enough to have deposited an ash layer approximately thick
 
 The subsequent collapse formed a caldera that filled with water, creating Lake Toba. The island in the center of the lake is formed by a resurgent dome.
 
-Toba_overview.jpg photo of Sumatra surrounding Lake Toba]]
+photo of Sumatra surrounding Lake Toba]]
 
 The exact year of the eruption is unknown, but the pattern of ash deposits suggests that it occurred during the northern summer because only the summer monsoon could have deposited Toba ashfall in the South China Sea.[21] The eruption lasted perhaps two weeks, and the ensuing volcanic winter resulted in a decrease in average global temperatures by for several years. Ice cores from Greenland record a pulse of starkly reduced levels of organic carbon sequestration. Very few plants or animals in southeast Asia would have survived, and it is possible that the eruption caused a planet-wide die-off. However, the global cooling has been discussed by Rampino and Self. Their conclusion is that the cooling had already started before Toba's eruption. This conclusion was supported by Lane and Zielinski who studied the lake-core from Africa and GISP2. They concluded that there was no volcanic winter after Toba eruption and that high H₂SO₄ deposits do not cause long-term effects.[22][23]
 
@@ -38,8 +38,6 @@ Lake Toba lies near the Great Sumatran fault, which runs along the centre of Sum
 
 
 People
-
-COLLECTIE_TROPENMUSEUM_Batak_prauwen_bij_Haranggaol_aan_het_Tobameer_TMnr_60043981.jpg
 
 Most of the people who live around Lake Toba are ethnically Bataks. Traditional Batak houses are noted for their distinctive roofs (which curve upwards at each end, as a boat's hull does) and their colorful decor.[32]
 

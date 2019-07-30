@@ -12,7 +12,7 @@ The first written mention of name _Slovakia_ is in 1586 ().[14] It derives from 
 
 History
 
-Moravianska_venusa.jpg from Moravany nad Váhom, which dates back to 22,800 BC]] Radiocarbon dating puts the oldest surviving archaeological artefacts from Slovakia – found near Nové Mesto nad Váhom – at 270,000 BCE, in the Early Paleolithic era. These ancient tools, made by the Clactonian technique, bear witness to the ancient habitation of Slovakia.
+from Moravany nad Váhom, which dates back to 22,800 BC]] Radiocarbon dating puts the oldest surviving archaeological artefacts from Slovakia – found near Nové Mesto nad Váhom – at 270,000 BCE, in the Early Paleolithic era. These ancient tools, made by the Clactonian technique, bear witness to the ancient habitation of Slovakia.
 
 Other stone tools from the Middle Paleolithic era (200,000 – 80,000 BCE) come from the Prévôt (Prepoštská) cave in Bojnice and from other nearby sites.[18] The most important discovery from that era is a Neanderthal cranium (c. 200,000 BCE), discovered near Gánovce, a village in northern Slovakia.
 
@@ -22,7 +22,7 @@ Bronze Age
 
 The Bronze Age in the geographical territory of modern-day Slovakia went through three stages of development, stretching from 2000 to 800 BCE. Major cultural, economic, and political development can be attributed to the significant growth in production of copper, especially in central Slovakia (for example in Špania Dolina) and northwest Slovakia. Copper became a stable source of prosperity for the local population.
 
-Web_Biatec.jpg Biatec coin
+Biatec coin
 Right: five Slovak crowns]]
 
 After the disappearance of the Čakany and Velatice cultures, the Lusatian people expanded building of strong and complex fortifications, with the large permanent buildings and administrative centres. Excavations of Lusatian hill forts document the substantial development of trade and agriculture at that period. The richness and the diversity of tombs increased considerably. The inhabitants of the area manufactured arms, shields, jewellery, dishes, and statues.
@@ -41,7 +41,7 @@ From around 500 BCE, the territory of modern-day Slovakia was settled by Celts,
 
 Roman Period
 
-Trencin-Roman2.JPG (178–179 AD)]] From 2 AD, the expanding Roman Empire established and maintained a series of outposts around and just south of the Danube, the largest of which were known as Carnuntum (whose remains are on the main road halfway between Vienna and Bratislava) and Brigetio (present-day Szőny at the Slovak-Hungarian border). Such Roman border settlements were built on the present area of Rusovce, currently a suburb of Bratislava. The military fort was surrounded by a civilian vicus and several farms of the villa rustica type. The name of this settlement was Gerulata. The military fort had an auxiliary cavalry unit, approximately 300 horses strong, modelled after the Cananefates. The remains of Roman buildings have also survived in Devín Castle (present-day downtown Bratislava), the suburbs of Dúbravka and Stupava, and Bratislava Castle Hill.
+(178–179 AD)]] From 2 AD, the expanding Roman Empire established and maintained a series of outposts around and just south of the Danube, the largest of which were known as Carnuntum (whose remains are on the main road halfway between Vienna and Bratislava) and Brigetio (present-day Szőny at the Slovak-Hungarian border). Such Roman border settlements were built on the present area of Rusovce, currently a suburb of Bratislava. The military fort was surrounded by a civilian vicus and several farms of the villa rustica type. The name of this settlement was Gerulata. The military fort had an auxiliary cavalry unit, approximately 300 horses strong, modelled after the Cananefates. The remains of Roman buildings have also survived in Devín Castle (present-day downtown Bratislava), the suburbs of Dúbravka and Stupava, and Bratislava Castle Hill.
 
 Near the northernmost line of the Roman hinterlands, the Limes Romanus, there existed the winter camp of Laugaricio (modern-day Trenčín) where the Auxiliary of Legion II fought and prevailed in a decisive battle over the Germanic Quadi tribe in 179 CE during the Marcomannic Wars. The Kingdom of Vannius, a kingdom founded by the Germanic Suebian tribes of Quadi and Marcomanni, as well as several small Germanic and Celtic tribes, including the Osi and Cotini, existed in western and central Slovakia from 8–6 BCE to 179 CE.
 
@@ -57,15 +57,15 @@ The Slavic tribes settled in the territory of present-day Slovakia in the 5th ce
 
 Great Moravia (830–before 907)
 
-Cyril_a_metod_zilina.jpg in Žilina. In 863, they introduced Christianity to what is now Slovakia.]]
+in Žilina. In 863, they introduced Christianity to what is now Slovakia.]]
 
 Great Moravia arose around 830 when Mojmír I unified the Slavic tribes settled north of the Danube and extended the Moravian supremacy over them.[21] When Mojmír I endeavoured to secede from the supremacy of the king of East Francia in 846, King Louis the German deposed him and assisted Mojmír's nephew Rastislav (846–870) in acquiring the throne.[22] The new monarch pursued an independent policy: after stopping a Frankish attack in 855, he also sought to weaken influence of Frankish priests preaching in his realm. Duke Rastislav asked the Byzantine Emperor Michael III to send teachers who would interpret Christianity in the Slavic vernacular.
 
-Upon Rastislav's request, two brothers, Byzantine officials and missionaries Saints Cyril and Methodius came in 863. Cyril developed the first Slavic alphabet and translated the Gospel into the Old Church Slavonic language. Rastislav was also preoccupied with the security and administration of his state. Numerous fortified castles built throughout the country are dated to his reign and some of them (e.g., _Dowina_, sometimes identified with Devín Castle)[23][24] are also mentioned in connection with Rastislav by Frankish chronicles.[25][26] Letter_svatopluk.jpg to Svatopluk I]]
+Upon Rastislav's request, two brothers, Byzantine officials and missionaries Saints Cyril and Methodius came in 863. Cyril developed the first Slavic alphabet and translated the Gospel into the Old Church Slavonic language. Rastislav was also preoccupied with the security and administration of his state. Numerous fortified castles built throughout the country are dated to his reign and some of them (e.g., _Dowina_, sometimes identified with Devín Castle)[23][24] are also mentioned in connection with Rastislav by Frankish chronicles.[25][26] to Svatopluk I]]
 
 During Rastislav's reign, the Principality of Nitra was given to his nephew Svätopluk as an appanage.[27] The rebellious prince allied himself with the Franks and overthrew his uncle in 870. Similarly to his predecessor, Svätopluk I (871–894) assumed the title of the king (_rex_). During his reign, the Great Moravian Empire reached its greatest territorial extent, when not only present-day Moravia and Slovakia but also present-day northern and central Hungary, Lower Austria, Bohemia, Silesia, Lusatia, southern Poland and northern Serbia belonged to the empire, but the exact borders of his domains are still disputed by modern authors.[28] Svatopluk also withstood attacks of the Magyar tribes and the Bulgarian Empire, although sometimes it was he who hired the Magyars when waging war against East Francia.[29]
 
-In 880, Pope John VIII set up an independent ecclesiastical province in Great Moravia with Archbishop Methodius as its head. He also named the German cleric Wiching the Bishop of Nitra. Great_Moravia.svg (according to modern historians)]]
+In 880, Pope John VIII set up an independent ecclesiastical province in Great Moravia with Archbishop Methodius as its head. He also named the German cleric Wiching the Bishop of Nitra. (according to modern historians)]]
 
 After the death of Prince Svatopluk in 894, his sons Mojmír II (894–906?) and Svatopluk II succeeded him as the Prince of Great Moravia and the Prince of Nitra respectively.[30] However, they started to quarrel for domination of the whole empire. Weakened by an internal conflict as well as by constant warfare with Eastern Francia, Great Moravia lost most of its peripheral territories.
 
@@ -77,7 +77,7 @@ Great Moravia left behind a lasting legacy in Central and Eastern Europe. The Gl
 
 Kingdom of Hungary (1000–1918)
 
-Istvan-ChroniconPictum.jpg, King of Hungary]]
+, King of Hungary]]
 
 Following the disintegration of the Great Moravian Empire at the turn of the 10th century, the Hungarians annexed the territory comprising modern Slovakia. After their defeat on the Lech River they abandoned their nomadic ways; they settled in the centre of the Carpathian valley, adopted Christianity and began to build a new state – the Hungarian kingdom.[34]
 
@@ -85,7 +85,7 @@ From the 11th century, when the territory inhabited by the Slavic-speaking popul
 
 A significant decline in the population resulted from the invasion of the Mongols in 1241 and the subsequent famine. However, in medieval times the area of the present-day Slovakia was characterised by German and Jewish immigration, burgeoning towns, construction of numerous stone castles, and the cultivation of the arts.[38] In 1465, King Matthias Corvinus founded the Hungarian Kingdom's third university, in Pressburg (Bratislava, Pozsony), but it was closed in 1490 after his death.[39] Hussites also settled in the region after the Hussite Wars.[40]
 
-1franci2.jpg during the fight for independence from the Kingdom of Hungary]].
+during the fight for independence from the Kingdom of Hungary]].
 
 Owing to the Ottoman Empire's expansion into Hungarian territory, Bratislava was designated the new capital of Hungary in 1536, ahead of the old Hungarian capital of Buda falling in 1541. It became part of the Austrian Habsburg monarchy, marking the beginning of a new era. The territory comprising modern Slovakia, then known as Upper Hungary, became the place of settlement for nearly two-thirds of the Magyar nobility fleeing the Turks and far more linguistically and culturally Hungarian than it was before.[41] Partly thanks to old Hussite families, and Slovaks studying under Martin Luther, the region then experienced a growth in Protestantism.[42] For a short period in the 17th century, most Slovaks were Lutherans.[43] They defied the Catholic Habsburgs and sought protection from neighboring Transylvania, a rival continuation of the Magyar state that practiced religious tolerance and normally had Ottoman backing. Upper Hungary, modern Slovakia, became the site of frequent wars between Catholics in the west territory and Protestants in the east, also against Turks, the frontier was on a constant state of military alert and heavily fortified by castles and citadels often manned by Catholic German and Slovak troops on the Habsburg side. By 1648, Slovakia was not spared the Counter-Reformation, which brought the majority of its population from Lutheranism back to Roman Catholicism. In 1655, the printing press at the Trnava university produced the Jesuit Benedikt Szöllősi's Cantus Catholici, a Catholic hymnal in the Slovak language that reaffirmed links to the earlier works of Cyril and Methodius.
 
@@ -95,7 +95,7 @@ During the revolution of 1848–49, the Slovaks supported the Austrian Emperor, 
 
 Czechoslovakia (1918–1939)
 
-Masaryk_a_Štefánik.jpg and Milan Štefánik – both key figures in early Czechoslovakia]] Prohlášení_nezávislosti.jpg by Tomáš Garrigue Masaryk in the United States, 1918.]] In 1918, Slovakia and the regions of Bohemia, Moravia, Czech Silesia and Carpathian Ruthenia formed a common state, Czechoslovakia, with the borders confirmed by the Treaty of Saint Germain and Treaty of Trianon. In 1919, during the chaos following the break-up of Austria-Hungary, Czechoslovakia was formed with numerous Germans and Hungarians within the newly set borders. A Slovak patriot Milan Rastislav Štefánik (1880–1919), who helped organise Czechoslovak regiments against Austria-Hungary during the First World War, died in a plane crash. In the peace following the World War, Czechoslovakia emerged as a sovereign European state. It provided what were at the time rather extensive rights to its minorities and remained the only democracy in this part of Europe in the interwar period.
+and Milan Štefánik – both key figures in early Czechoslovakia]] by Tomáš Garrigue Masaryk in the United States, 1918.]] In 1918, Slovakia and the regions of Bohemia, Moravia, Czech Silesia and Carpathian Ruthenia formed a common state, Czechoslovakia, with the borders confirmed by the Treaty of Saint Germain and Treaty of Trianon. In 1919, during the chaos following the break-up of Austria-Hungary, Czechoslovakia was formed with numerous Germans and Hungarians within the newly set borders. A Slovak patriot Milan Rastislav Štefánik (1880–1919), who helped organise Czechoslovak regiments against Austria-Hungary during the First World War, died in a plane crash. In the peace following the World War, Czechoslovakia emerged as a sovereign European state. It provided what were at the time rather extensive rights to its minorities and remained the only democracy in this part of Europe in the interwar period.
 
 During the Interwar period, democratic Czechoslovakia was allied with France, and also with Romania and Yugoslavia (Little Entente); however, the Locarno Treaties of 1925 left East European security open. Both Czechs and Slovaks enjoyed a period of relative prosperity. There was progress in not only the development of the country's economy, but also culture and educational opportunities. The minority Germans came to accept their role in the new country and relations with Austria were good. Yet the Great Depression caused a sharp economic downturn, followed by political disruption and insecurity in Europe.[48]
 
@@ -103,11 +103,11 @@ Thereafter Czechoslovakia came under continuous pressure from the revisionist go
 
 World War II (1939–1945)
 
-Jozef_Tiso_(Berlin).jpg greeting Jozef Tiso, 1941]] After the Munich Agreement and its Vienna Award, Nazi Germany threatened to annex part of Slovakia and allow the remaining regions to be partitioned by Hungary or Poland unless independence was declared. Thus, Slovakia seceded from Czecho-Slovakia in March 1939 and allied itself, as demanded by Germany, with Hitler's coalition.[49] Secession had created the first Slovak state in history.[50] The government of the First Slovak Republic, led by Jozef Tiso and Vojtech Tuka, was strongly influenced by Germany and gradually became a puppet regime in many respects.
+greeting Jozef Tiso, 1941]] After the Munich Agreement and its Vienna Award, Nazi Germany threatened to annex part of Slovakia and allow the remaining regions to be partitioned by Hungary or Poland unless independence was declared. Thus, Slovakia seceded from Czecho-Slovakia in March 1939 and allied itself, as demanded by Germany, with Hitler's coalition.[49] Secession had created the first Slovak state in history.[50] The government of the First Slovak Republic, led by Jozef Tiso and Vojtech Tuka, was strongly influenced by Germany and gradually became a puppet regime in many respects.
 
 Meanwhile, the Czechoslovak government-in-exile sought to reverse the Munich Agreement and the subsequent German occupation of Czechoslovakia, and to return the Republic to its 1937 boundaries. The government operated from London and it was ultimately considered, by those countries that recognised it, the legitimate government for Czechoslovakia throughout the Second World War.
 
-Nastupeni_povstalci.jpg in 1944]] As part of the Holocaust in Slovakia, 75,000 Jews out of 80,000 who remained on Slovak territory after Hungary had seized southern regions were deported and taken to German death camps.[51][52] Thousands of Jews, Gypsies and other politically undesirable people remained in Slovak forced labor camps in Sereď, Vyhne, and Nováky.[53] Tiso, through the granting of presidential exceptions, allowed between 1,000 and 4,000 people crucial to the war economy to avoid deportations.[54] Under Tiso's government and Hungarian occupation, the vast majority of Slovakia's pre-war Jewish population (between 75,000–105,000 individuals including those who perished from the occupied territory) were murdered.[55][56] The Slovak state paid Germany 500 RM per every deported Jew for "retraining and accommodation" (similar payment, but only 30 RM was paid by Croatia).[57]
+in 1944]] As part of the Holocaust in Slovakia, 75,000 Jews out of 80,000 who remained on Slovak territory after Hungary had seized southern regions were deported and taken to German death camps.[51][52] Thousands of Jews, Gypsies and other politically undesirable people remained in Slovak forced labor camps in Sereď, Vyhne, and Nováky.[53] Tiso, through the granting of presidential exceptions, allowed between 1,000 and 4,000 people crucial to the war economy to avoid deportations.[54] Under Tiso's government and Hungarian occupation, the vast majority of Slovakia's pre-war Jewish population (between 75,000–105,000 individuals including those who perished from the occupied territory) were murdered.[55][56] The Slovak state paid Germany 500 RM per every deported Jew for "retraining and accommodation" (similar payment, but only 30 RM was paid by Croatia).[57]
 
 After it became clear that the Soviet Red Army was going to push the Nazis out of eastern and central Europe, an anti-Nazi resistance movement launched a fierce armed insurrection, known as the Slovak National Uprising, near the end of summer 1944. A bloody German occupation and a guerilla war followed. Germans and their local collaborators completely destroyed 93 villages and massacred thousands of civilians, often hundreds at a time.[58] The territory of Slovakia was liberated by Soviet and Romanian forces by the end of April 1945.
 
@@ -123,7 +123,7 @@ Borders with the West were protected by the Iron Curtain. About 600 people, men,
 
 Establishment of the Slovak Republic (after 1993)
 
-Tratado_de_Lisboa_13_12_2007_(081).jpg in 2007.]] The end of Communist rule in Czechoslovakia in 1989, during the peaceful Velvet Revolution, was followed once again by the country's dissolution, this time into two successor states. The word "socialist" was dropped in the names of the two republics, i.e., the Slovak Socialist Republic was renamed Slovak Republic. On 17 July 1992 Slovakia, led by Prime Minister Vladimír Mečiar, declared itself a sovereign state, meaning that its laws took precedence over those of the federal government. Throughout the autumn of 1992, Mečiar and Czech Prime Minister Václav Klaus negotiated the details for disbanding the federation. In November the federal parliament voted to dissolve the country officially on 31 December 1992.
+in 2007.]] The end of Communist rule in Czechoslovakia in 1989, during the peaceful Velvet Revolution, was followed once again by the country's dissolution, this time into two successor states. The word "socialist" was dropped in the names of the two republics, i.e., the Slovak Socialist Republic was renamed Slovak Republic. On 17 July 1992 Slovakia, led by Prime Minister Vladimír Mečiar, declared itself a sovereign state, meaning that its laws took precedence over those of the federal government. Throughout the autumn of 1992, Mečiar and Czech Prime Minister Václav Klaus negotiated the details for disbanding the federation. In November the federal parliament voted to dissolve the country officially on 31 December 1992.
 
 The Slovak Republic and the Czech Republic went their separate ways after 1 January 1993, an event sometimes called the Velvet Divorce.[67][68] Slovakia has remained a close partner with the Czech Republic. Both countries co-operate with Hungary and Poland in the Visegrád Group. Slovakia became a member of NATO on 29 March 2004 and of the European Union on 1 May 2004. On 1 January 2009, Slovakia adopted the Euro as its national currency.
 
@@ -134,7 +134,7 @@ Slovakia lies between latitudes 47° and 50° N, and longitudes 16° and 23° E.
 
 Tatra mountains
 
-Slovakia_topo.jpg map of Slovakia]] The Tatra Mountains, with 29 peaks higher than AMSL, are the highest mountain range in the Carpathian Mountains. The Tatras occupy an area of , of which the greater part lies in Slovakia. They are divided into several parts.
+map of Slovakia]] The Tatra Mountains, with 29 peaks higher than AMSL, are the highest mountain range in the Carpathian Mountains. The Tatras occupy an area of , of which the greater part lies in Slovakia. They are divided into several parts.
 
 To the north, close to the Polish border, are the High Tatras which are a popular hiking and skiing destination and home to many scenic lakes and valleys as well as the highest point in Slovakia, the Gerlachovský štít at and the country's highly symbolic mountain Kriváň. To the west are the Western Tatras with their highest peak of Bystrá at and to the east are the Belianske Tatras, smallest by area.
 
@@ -144,7 +144,7 @@ The Tatra mountain range is represented as one of the three hills on the coat of
 
 National parks
 
-Palcmanská_Maša.JPG]] There are 9 national parks in Slovakia, they cover 6.5% of Slovak land surface.[71]
+]] There are 9 national parks in Slovakia, they cover 6.5% of Slovak land surface.[71]
 
 +--------------------------------+-------------+------+
 | Name                           | Established | Area |
@@ -170,13 +170,13 @@ Palcmanská_Maša.JPG]] There are 9 national parks in Slovakia, they cover 6.5% 
 
 Caves
 
-Domica_Cave_20.jpg Cave]]
+Cave]]
 
 Slovakia has hundreds of caves and caverns under its mountains, of which 30 are open to the public.[72] Most of the caves have stalagmites rising from the ground and stalactites hanging from above. There are currently five Slovak caves under UNESCO's World Heritage Site status. They are Dobšinská Ice Cave, Domica, Gombasek Cave, Jasovská Cave and Ochtinská Aragonite Cave. Other caves open to the public include Belianska Cave, Demänovská Cave of Liberty, Demänovská Ice Cave or Bystrianska Cave.
 
 Rivers
 
-Belá_river_(Slovakia).jpg]]
+]]
 
 Most of the rivers stem in the Slovak mountains. Some only pass through and the others make a natural border with surrounding countries (more than ). For example, the Dunajec () to the north, the Danube () to the south or the Morava () to the West. The total length of the rivers on Slovak territory is .
 
@@ -186,7 +186,7 @@ The biggest volume of discharge in Slovak rivers is during spring, when the snow
 
 Climate
 
-Koppen-Geiger_Map_SVK_present.svg types of Slovakia]]
+types of Slovakia]]
 
 The Slovak climate lies between the temperate and continental climate zones with relatively warm summers and cold, cloudy and humid winters. Temperature extremes are between although temperatures below are rare. The weather differs from the mountainous north to the plains in the south.
 
@@ -203,7 +203,7 @@ Winter starts on 21 December with temperatures around . In December and January 
 
 Biodiversity
 
-Vysoké_Tatry,_Dolina_Bielej_vody,_cestou_od_Zeleného_plesa_na_Jahňací_štít_(32).JPG]] Slovakia signed the Rio Convention on Biological Diversity on 19 May 1993, and became a party to the convention on 25 August 1994.[75] It has subsequently produced a National Biodiversity Strategy and Action Plan, which was received by the convention on 2 November 1998.[76]
+]] Slovakia signed the Rio Convention on Biological Diversity on 19 May 1993, and became a party to the convention on 25 August 1994.[75] It has subsequently produced a National Biodiversity Strategy and Action Plan, which was received by the convention on 2 November 1998.[76]
 
 The biodiversity of Slovakia comprises animals (such as annellids, arthropods, molluscs, nematodes and vertebrates), fungi (Ascomycota, Basidiomycota, Chytridiomycota, Glomeromycota and Zygomycota), micro-organisms (including Mycetozoa), and plants.
 
@@ -247,13 +247,11 @@ Slovakia is a member of the United Nations (since 1993) and participates in its 
 
 In 2019, Slovak citizens had visa-free or visa-on-arrival access to 180 countries and territories, ranking the Slovak passport 10th in the world.[83]
 
-Bratislava,_the_Japanese_Embassy.JPG in Bratislava]] Slovakia maintains diplomatic relations with 134 countries, primarily through its Ministry of Foreign Affairs. As of December 2013, Slovakia maintained 90 missions abroad, including 64 embassies, seven missions to multilateral organisations, nine consulates-general, one consular office, one Slovak Economic and Cultural Office and eight Slovak Institutes.[84] There are 44 embassies and 35 honorary consulates in Bratislava.
+in Bratislava]] Slovakia maintains diplomatic relations with 134 countries, primarily through its Ministry of Foreign Affairs. As of December 2013, Slovakia maintained 90 missions abroad, including 64 embassies, seven missions to multilateral organisations, nine consulates-general, one consular office, one Slovak Economic and Cultural Office and eight Slovak Institutes.[84] There are 44 embassies and 35 honorary consulates in Bratislava.
 
 Slovakia and the United States retain strong diplomatic ties and cooperate in the military and law enforcement areas. The U.S. Department of Defense programs have contributed significantly to Slovak military reforms. Hundreds of thousands of Americans have their roots in Slovakia, and many retain strong cultural and familial ties to the Slovak Republic. President Woodrow Wilson and the United States played a major role in the establishment of the original Czechoslovak state on October 28, 1918.
 
 Military
-
-Slovak_Army_5th_Special_Forces_Regiment_in_Afghanistan2.jpg
 
 The Armed Forces of the Slovak Republic number 14,000 uniformed personnel.[85] Slovakia joined NATO in March 2004.[86] The country has been an active participant in US- and NATO-led military actions. There is a joint Czech-Slovak peacekeeping force in Kosovo. From 2006 the army transformed into a fully professional organisation and compulsory military service was abolished.
 
@@ -269,7 +267,7 @@ Human rights in Slovakia are guaranteed by the Constitution of Slovakia from the
 
 Administrative divisions
 
-Bratislava_Cityscape.jpg, capital and largest city of Slovakia]] As for administrative division, Slovakia is subdivided into 8 _krajov_ (singular – _kraj_, usually translated as "region"), each of which is named after its principal city. Regions have enjoyed a certain degree of autonomy since 2002. Their self-governing bodies are referred to as Self-governing (or autonomous) Regions (sg. _samosprávny kraj_, pl. _samosprávne kraje_) or Upper-Tier Territorial Units (sg. _vyšší územný celok_, pl. _vyššie územné celky_, abbr. VÚC).
+, capital and largest city of Slovakia]] As for administrative division, Slovakia is subdivided into 8 _krajov_ (singular – _kraj_, usually translated as "region"), each of which is named after its principal city. Regions have enjoyed a certain degree of autonomy since 2002. Their self-governing bodies are referred to as Self-governing (or autonomous) Regions (sg. _samosprávny kraj_, pl. _samosprávne kraje_) or Upper-Tier Territorial Units (sg. _vyšší územný celok_, pl. _vyššie územné celky_, abbr. VÚC).
 
 The "kraje" are subdivided into many _okresy_ (sg. _okres_, usually translated as counties). Slovakia currently has 79 districts.
 
@@ -277,23 +275,23 @@ The _okresy_ are further divided into _obcí_ (sg. _obec_, usually translated as
 
 In terms of economics and unemployment rate, the western regions are richer than eastern regions. Bratislava is the third-richest region of the European Union by GDP (PPP) per capita (after Hamburg and Luxembourg City); GDP at purchasing power parity is about three times higher than in other Slovak regions.[89][90]
 
-+--+---------------------------------------------------------------------------------------------------------------------+
-|  |   Name in English          Name in Slovak           Administrative seat                         Population (2011)   |
-|  |   ------------------------ ------------------------ ------------------------------------------- ------------------- |
-|  |   Bratislava Region        _Bratislavský kraj_      Coat_of_Arms_of_Bratislava.svg Bratislava   602,436             |
-|  |   Trnava Region            _Trnavský kraj_          Coa_Slovakia_Town_Nagyszombat.svg Trnava    554,741             |
-|  |   Nitra Region             _Nitriansky kraj_        Nitra_CoA.svg Nitra                         689,867             |
-|  |   Trenčín Region           _Trenčiansky kraj_       Coat_of_arms_of_Trenčin.png Trenčín         594,328             |
-|  |   Banská Bystrica Region   _Banskobystrický kraj_   Banska_Bystrica_Erb.svg Banská Bystrica     660,563             |
-|  |   Žilina Region            _Žilinský kraj_          Žilina_Erb.svg Žilina                       688,851             |
-|  |   Košice Region            _Košický kraj_           Kosice_Coat_of_Arms.svg Košice              791,723             |
-|  |   Prešov Region            _Prešovský kraj_         CoA_Prešov.svg Prešov                       814,527             |
-+--+---------------------------------------------------------------------------------------------------------------------+
++--+-----------------------------------------------------------------------------------------------+
+|  |   Name in English          Name in Slovak           Administrative seat   Population (2011)   |
+|  |   ------------------------ ------------------------ --------------------- ------------------- |
+|  |   Bratislava Region        _Bratislavský kraj_      Bratislava            602,436             |
+|  |   Trnava Region            _Trnavský kraj_          Trnava                554,741             |
+|  |   Nitra Region             _Nitriansky kraj_        Nitra                 689,867             |
+|  |   Trenčín Region           _Trenčiansky kraj_       Trenčín               594,328             |
+|  |   Banská Bystrica Region   _Banskobystrický kraj_   Banská Bystrica       660,563             |
+|  |   Žilina Region            _Žilinský kraj_          Žilina                688,851             |
+|  |   Košice Region            _Košický kraj_           Košice                791,723             |
+|  |   Prešov Region            _Prešovský kraj_         Prešov                814,527             |
++--+-----------------------------------------------------------------------------------------------+
 
 
 Economy
 
-Bratislava_Central_Bank3.jpg in Bratislava]]
+in Bratislava]]
 
 The Slovak economy is a developed, high-income[91] economy, with the GDP per capita equalling 78% of the average of the European Union in 2018.[92] The country has difficulties addressing regional imbalances in wealth and employment.[93] GDP per capita ranges from 188% of EU average in Bratislava to 54% in Eastern Slovakia.[94] Although regional income inequality is high, 90% of citizens own their homes.
 
@@ -303,7 +301,7 @@ The OECD in 2017 reported:
 
 In 2018, Slovakia was ranked by the International Monetary Fund as the 37th richest country in the world (out of 187 countries), with purchasing power parity per capita GDP of $35,130. The country used to be dubbed the "Tatra Tiger". Slovakia successfully transformed from a centrally planned economy to a market-driven economy. Major privatisations are completed, the banking sector is almost completely in private hands, and foreign investment has risen.
 
-Eurozone.svg, the EU single market, and since 2009, the Eurozone (dark blue)]] The Slovak economy is one of the fastest growing economies in Europe and 3rd fastest in eurozone (2017). In 2007, 2008 and 2010 (with GDP growth of 10.5%, 6% and 4% retrospectively). In 2016, more than 86% of Slovak exports went to European Union, and more than 50% of Slovak imports came from other European Union member states.[96]
+, the EU single market, and since 2009, the Eurozone (dark blue)]] The Slovak economy is one of the fastest growing economies in Europe and 3rd fastest in eurozone (2017). In 2007, 2008 and 2010 (with GDP growth of 10.5%, 6% and 4% retrospectively). In 2016, more than 86% of Slovak exports went to European Union, and more than 50% of Slovak imports came from other European Union member states.[96]
 
 The ratio of government debt to GDP in Slovakia reached 52% by the end of 2016, far below the OECD average.[97]
 
@@ -311,7 +309,7 @@ Unemployment, peaking at 19% at the end of 1999, decreased to 4,9% in 2019, lowe
 
 Inflation dropped from an average annual rate of 12% in 2000 to just 3.3% in 2002, an election year, but it rose again in 2003–2004 because of rising labour costs and taxes. It reached only 1% in 2010 which is the lowest recorded rate since 1993.[99] The rate was at 4% in 2011.
 
-Slovakia adopted the Euro currency on 1 January 2009 as the 16th member of the Eurozone. The euro in Slovakia was approved by the European commission on 7 May 2008. The Slovak koruna was revalued on 28 May 2008 to 30.126 for 1 euro,[100] which was also the exchange rate for the euro.[101] Bratislava_highrises_2009_4.jpg
+Slovakia adopted the Euro currency on 1 January 2009 as the 16th member of the Eurozone. The euro in Slovakia was approved by the European commission on 7 May 2008. The Slovak koruna was revalued on 28 May 2008 to 30.126 for 1 euro,[100] which was also the exchange rate for the euro.[101]
 
 The Slovak government encourages foreign investment, since it is one of the driving forces of the economy. Slovakia is an attractive country for foreign investors mainly because of its low wages, low tax rates, well educated labour force, favorable geographic location in the heart of Central Europe, strong political stability and good international relations reinforced by the country's accession to the European Union. Some regions, mostly at the east of Slovakia have failed to attract major investment, which has aggravated regional disparities in many economic and social areas. FDI inflow grew more than 600% from 2000 and cumulatively reached an all-time high of $17.3 billion in 2006, or around $22,000 per capita by the end of 2008.
 
@@ -321,19 +319,19 @@ In March 2008, the Ministry of Finance announced that Slovakia's economy is deve
 
 Industry
 
-Aupark_Tower_2009.jpg headquarters in Bratislava]]
+headquarters in Bratislava]]
 
 Although Slovakia's GDP comes mainly from the tertiary (services) sector, the industrial sector also plays an important role within its economy. The main industry sectors are car manufacturing and electrical engineering. Since 2007, Slovakia has been the world's largest producer of cars per capita,[103] with a total of 1,090,000 cars manufactured in the country in 2018 alone.[104] 250,000 people is employed directly and indirectly by the automotive industry.[105] There are currently four automobile assembly plants: Volkswagen's in Bratislava (models: Volkswagen Up, Volkswagen Touareg, Audi Q7, Audi Q8, Porsche Cayenne, Lamborghini Urus), PSA Peugeot Citroën's in Trnava (models: Peugeot 208, Citroën C3 Picasso), Kia Motors' Žilina Plant (models: Kia Cee'd, Kia Sportage, Kia Venga) and Jaguar Land Rover's in Nitra (model: Land Rover Discovery). Hyundai Mobis in Žilina is the largest suppliers for the automotive industry in Slovakia.[106]
 
 From electrical engineering companies, Foxconn has a factory at Nitra for LCD TV manufacturing, Samsung at Galanta for computer monitors and television sets manufacturing. Slovnaft based in Bratislava with 4,000 employees, is an oil refinery with a processing capacity of 5.5 - 6 million tonnes of crude oil, annually. Steel producer U. S. Steel in Košice is the largest employer at the east of Slovakia with 12,000 employees.
 
-Slovakia_Export_Treemap.png ESET is an IT security company from Bratislava with more than 1,000[107] employees worldwide at present. Their branch offices are in the United States, Ireland, United Kingdom, Argentina, the Czech Republic, Singapore and Poland.[108] In recent years, service and high-tech-oriented businesses have prospered in Bratislava. Many global companies, including IBM, Dell, Lenovo, AT&T, SAP, and Accenture, have built outsourcing and service centres here.[109] Reasons for the influx of multi-national corporations include proximity to Western Europe, skilled labour force and the high density of universities and research facilities.[110] Other large companies and employers with headquarters in Bratislava include Amazon, Slovak Telekom, Orange Slovensko, Slovenská sporiteľňa, Tatra banka, Doprastav, Hewlett-Packard Slovakia, Henkel Slovensko, Slovenský plynárenský priemysel, Microsoft Slovakia, Mondelez Slovakia, Whirlpool Slovakia and Zurich Insurance Group Slovakia.
+ESET is an IT security company from Bratislava with more than 1,000[107] employees worldwide at present. Their branch offices are in the United States, Ireland, United Kingdom, Argentina, the Czech Republic, Singapore and Poland.[108] In recent years, service and high-tech-oriented businesses have prospered in Bratislava. Many global companies, including IBM, Dell, Lenovo, AT&T, SAP, and Accenture, have built outsourcing and service centres here.[109] Reasons for the influx of multi-national corporations include proximity to Western Europe, skilled labour force and the high density of universities and research facilities.[110] Other large companies and employers with headquarters in Bratislava include Amazon, Slovak Telekom, Orange Slovensko, Slovenská sporiteľňa, Tatra banka, Doprastav, Hewlett-Packard Slovakia, Henkel Slovensko, Slovenský plynárenský priemysel, Microsoft Slovakia, Mondelez Slovakia, Whirlpool Slovakia and Zurich Insurance Group Slovakia.
 
 Bratislava's geographical position in Central Europe has long made Bratislava a crossroads for international trade traffic.[111][112] Various ancient trade routes, such as the Amber Road and the Danube waterway, have crossed territory of present-day Bratislava. Today, Bratislava is the road, railway, waterway and airway hub.[113]
 
 Energy
 
-Mochovce_-_chladice_veže.JPG]]
+]]
 
 In 2012, Slovakia produced a total of 28,393 GWh of electricity while at the same time consumed 28 786 GWh. The slightly higher level of consumption than the capacity of production (- 393 GWh) meant the country was not self-sufficient in energy sourcing. Slovakia imported electricity mainly from the Czech Republic (9 961 GWh – 73.6% of total import) and exported mainly to Hungary (10 231 GWh – 78.2% of total export).
 
@@ -374,7 +372,7 @@ The Slovak Academy of Sciences has been the most important scientific and resear
 
 Demographics
 
-Slovakiapop.svg of Slovakia in 2017]] According to the 2011 census,[121] the majority of the inhabitants of Slovakia are Slovaks (80.7%). Hungarians are the largest ethnic minority (8.5%). Other ethnic groups include Roma (2%),[122] Czechs (0.6%), Rusyns (0.6%) and others or unspecified (7.6%).[123] Unofficial estimates on the Roma population are much higher, around 5.6%.[124]
+of Slovakia in 2017]] According to the 2011 census,[121] the majority of the inhabitants of Slovakia are Slovaks (80.7%). Hungarians are the largest ethnic minority (8.5%). Other ethnic groups include Roma (2%),[122] Czechs (0.6%), Rusyns (0.6%) and others or unspecified (7.6%).[123] Unofficial estimates on the Roma population are much higher, around 5.6%.[124]
 
 In 2018 the median age of the Slovak population was 41 years.[125]
 
@@ -382,7 +380,7 @@ The largest waves of Slovak emigration occurred in the 19th and early 20th centu
 
 Languages
 
-Slovak_alphabet.png has 46 characters, of which 3 are digraphs and 18 contain diacritics.]] The official language is Slovak, a member of the Slavic language family. Hungarian is widely spoken in the southern regions, and Rusyn is used in some parts of the Northeast. Minority languages hold co-official status in the municipalities in which the size of the minority population meets the legal threshold of 15% in two consecutive censuses.[127]
+has 46 characters, of which 3 are digraphs and 18 contain diacritics.]] The official language is Slovak, a member of the Slavic language family. Hungarian is widely spoken in the southern regions, and Rusyn is used in some parts of the Northeast. Minority languages hold co-official status in the municipalities in which the size of the minority population meets the legal threshold of 15% in two consecutive censuses.[127]
 
 Slovakia is ranked among the top EU countries regarding the knowledge of foreign languages. In 2007, 68% of the population aged from 25 to 64 years claimed to speak two or more foreign languages, finishing 2nd highest in the European Union. The best known foreign language in Slovakia is Czech. Eurostat report also shows that 98.3% of Slovak students in the upper secondary education take on two foreign languages, ranking highly over the average 60.1% in the European Union.[128]
 
@@ -396,7 +394,7 @@ There are 18 state-registered religions in Slovakia, of which 16 are Christian, 
 
 Education
 
-Мальчики_ловящие_гусей_-_panoramio.jpg headquarters in Bratislava]] The Programme for International Student Assessment, coordinated by the OECD, currently ranks Slovak secondary education the 30th in the world (placing it just below the United States and just above Spain).[136] Education in Slovakia is compulsory from age 6 to 16. The education system consists of elementary school which is divided into two parts, the first grade (age 6–10) and the second grade (age 10–15) which is finished by taking nationwide testing called Monitor, from Slovak language and math. Parents may apply for social assistance for a child that is studying on an elementary school or a high-school. If approved, the state provides basic study necessities for the child. Schools provide books to all their students with usual exceptions of books for studying a foreign language and books which require taking notes in them, which are mostly present at the first grade of elementary school.
+headquarters in Bratislava]] The Programme for International Student Assessment, coordinated by the OECD, currently ranks Slovak secondary education the 30th in the world (placing it just below the United States and just above Spain).[136] Education in Slovakia is compulsory from age 6 to 16. The education system consists of elementary school which is divided into two parts, the first grade (age 6–10) and the second grade (age 10–15) which is finished by taking nationwide testing called Monitor, from Slovak language and math. Parents may apply for social assistance for a child that is studying on an elementary school or a high-school. If approved, the state provides basic study necessities for the child. Schools provide books to all their students with usual exceptions of books for studying a foreign language and books which require taking notes in them, which are mostly present at the first grade of elementary school.
 
 After finishing elementary school, students are obliged to take one year in high school.
 
@@ -407,7 +405,7 @@ Slovakia has several privately funded universities, however public universities 
 
 Culture
 
-Vlkolinec_02.jpg, a UNESCO World Heritage Site]]
+, a UNESCO World Heritage Site]]
 
 Folk tradition
 
@@ -421,7 +419,7 @@ The best known Slovak hero, found in many folk mythologies, is Juraj Jánošík 
 
 Art
 
-St._James,_Levoča,_Main_altar,_2017_v2.jpg, highest wooden altar in the world, 1517]]
+, highest wooden altar in the world, 1517]]
 
 Visual art in Slovakia is represented through painting, drawing, printmaking, illustration, arts and crafts, sculpture, photography or conceptual art. The Slovak National Gallery founded in 1948, is the biggest network of galleries in Slovakia. Two displays in Bratislava are situated in Esterházy Palace (_Esterházyho palác_) and the Water Barracks (_Vodné kasárne_), adjacent one to another. They are located on the Danube riverfront in the Old Town.[140][141]
 
@@ -429,7 +427,7 @@ The Bratislava City Gallery, founded in 1961 is the second biggest Slovak galler
 
 Literature
 
-Bozetech_Klemens_Stur.jpg, the author of the Slovak language standard]]
+, the author of the Slovak language standard]]
 
 For a list of notable Slovak writers and poets, see List of Slovak authors.
 
@@ -443,7 +441,7 @@ Slovakia is also known for its polyhistors, of whom include Pavol Jozef Šafári
 
 Cuisine
 
-Halusky_kapustnica.jpg with bryndza cheese, kapustnica soup and Zlatý Bažant dark beer – examples of Slovak cuisine]]
+with bryndza cheese, kapustnica soup and Zlatý Bažant dark beer – examples of Slovak cuisine]]
 
 Traditional Slovak cuisine is based mainly on pork, poultry (chicken is the most widely eaten, followed by duck, goose, and turkey), flour, potatoes, cabbage, and milk products. It is relatively closely related to Hungarian, Czech and Austrian cuisine. On the east it is also influenced by Ukrainian and Polish cuisine. In comparison with other European countries, "game meat" is more accessible in Slovakia due to vast resources of forest and because hunting is relatively popular.[143] Boar, rabbit, and venison are generally available throughout the year. Lamb and goat are eaten but are not widely popular.
 
@@ -459,13 +457,13 @@ Sporting activities are practised widely in Slovakia, many of them on a professi
 
 Ice Hockey
 
-Slovakia2010WinterOlympicscelebration2.jpg celebrating a victory against Sweden at the 2010 Winter Olympics]] One of the most popular team sports in Slovakia is ice hockey. Slovakia became a member of the IIHF on 2 February 1993[145] and since then has won 4 medals in Ice Hockey World Championships, consisting of 1 gold, 2 silver and 1 bronze. The most recent success was a silver medal at the 2012 IIHF World Championship in Helsinki. The Slovak national hockey team made five appearances in the Olympic games, finishing 4th in the 2010 Winter Olympics in Vancouver. The country has 8280 registered players and is ranked 7th in the IIHF World Ranking at present. Prior to 2012, the Slovak team HC Slovan Bratislava participated in the Kontinental Hockey League, considered the strongest hockey league in Europe, and the second-best in the world.[146]
+celebrating a victory against Sweden at the 2010 Winter Olympics]] One of the most popular team sports in Slovakia is ice hockey. Slovakia became a member of the IIHF on 2 February 1993[145] and since then has won 4 medals in Ice Hockey World Championships, consisting of 1 gold, 2 silver and 1 bronze. The most recent success was a silver medal at the 2012 IIHF World Championship in Helsinki. The Slovak national hockey team made five appearances in the Olympic games, finishing 4th in the 2010 Winter Olympics in Vancouver. The country has 8280 registered players and is ranked 7th in the IIHF World Ranking at present. Prior to 2012, the Slovak team HC Slovan Bratislava participated in the Kontinental Hockey League, considered the strongest hockey league in Europe, and the second-best in the world.[146]
 
 Slovakia hosted the 2011 IIHF World Championship, where Finland won the gold medal and 2019 IIHF World Championship, where Finland also won the gold medal. Both competitions took place in Bratislava and Košice.
 
 Football
 
-Tehelne_pole.jpg in Bratislava. Association football is the most popular sport in Slovakia.]] Association football is the most popular sport in Slovakia, with over 400,000 registered players. Since 1993, the Slovak national football team has qualified for the FIFA World Cup once, in 2010. They progressed to the last 16, where they were defeated by the Netherlands. The most notable result was the 3–2 victory over Italy. In 2016, the Slovak national football team qualified for the UEFA Euro 2016 tournament, under head coach Ján Kozák. This helped the team reach their best ever position of 14th in the FIFA World Rankings.
+in Bratislava. Association football is the most popular sport in Slovakia.]] Association football is the most popular sport in Slovakia, with over 400,000 registered players. Since 1993, the Slovak national football team has qualified for the FIFA World Cup once, in 2010. They progressed to the last 16, where they were defeated by the Netherlands. The most notable result was the 3–2 victory over Italy. In 2016, the Slovak national football team qualified for the UEFA Euro 2016 tournament, under head coach Ján Kozák. This helped the team reach their best ever position of 14th in the FIFA World Rankings.
 
 In club competitions, only three teams have qualified for the UEFA Champions League Group Stage, namely MFK Košice in 1997–98, FC Artmedia Bratislava in 2005–06 season, and MŠK Žilina in 2010–11. FC Artmedia Bratislava has been the most successful team, finishing 3rd at the Group Stage of the UEFA Cup, therefore qualifying for the knockout stage. They remain the only Slovak club that has won a match at the group stage.
 

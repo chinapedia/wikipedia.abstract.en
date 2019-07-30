@@ -1,5 +1,3 @@
-Carte_Lewis_and_Clark_Expedition.png
-
 The LEWIS AND CLARK EXPEDITION from May 1804 to September 1806, also known as the CORPS OF DISCOVERY EXPEDITION, was the first American expedition to cross the western portion of the United States. It began in Pittsburgh, Pennsylvania,[1] made its way westward, and passed through the Continental Divide of the Americas to reach the Pacific coast. The Corps of Discovery was a selected group of US Army volunteers under the command of Captain Meriwether Lewis and his close friend Second Lieutenant William Clark.
 
 President Thomas Jefferson commissioned the expedition shortly after the Louisiana Purchase in 1803 to explore and to map the newly acquired territory, to find a practical route across the western half of the continent, and to establish an American presence in this territory before Britain and other European powers tried to claim it. The campaign's secondary objectives were scientific and economic: to study the area's plants, animal life, and geography, and to establish trade with local American Indian tribes. The expedition returned to St. Louis to report its findings to Jefferson, with maps, sketches, and journals in hand.[2][3]
@@ -19,7 +17,7 @@ Timeline
 
 Preparations
 
-Lewis_and_Clark.jpg and William Clark]]
+and William Clark]]
 
 Jefferson met John Ledyard in Paris in the 1780s, and they discussed a possible trip to the Pacific Northwest.[18][19] Jefferson had also read Captain James Cook's _A Voyage to the Pacific Ocean_ (London, 1784), an account of Cook's third voyage, and Le Page du Pratz's _The History of Louisiana_ (London, 1763), all of which greatly influenced his decision to send an expedition. Like Captain Cook, he wished to discover a practical route through the Northwest to the Pacific coast. Alexander Mackenzie had already charted a route in his quest for the Pacific, following the Mackenzie River to the Arctic Ocean in 1789. Mackenzie and his party were the first to cross America north of Mexico to the Pacific when he arrived near Bella Coola, British Columbia in 1793—a dozen years before Lewis and Clark. Mackenzie's accounts in _Voyages from Montreal_ (1801) informed Jefferson of Britain's intent to control the lucrative fur trade of the Columbia River and convinced him of the importance of securing the territory as soon as possible.[20][21]
 
@@ -42,7 +40,7 @@ Journey
 
 Departure
 
-Lewis_and_clark-expedition.jpg meet Chinooks on the Lower Columbia, October 1805 (Charles Marion Russel, 1905)]]
+meet Chinooks on the Lower Columbia, October 1805 (Charles Marion Russel, 1905)]]
 
 The Corps of Discovery departed from Camp Dubois at 4pm on May 14, 1804, and met up with Lewis in St. Charles, Missouri, a short time later, marking the beginning of the voyage to the Pacific coast. As of May 16, 1804, the expedition had 31 members, mostly US Army personnel including captains, sergeants, and privates.[45] The Corps followed the Missouri River westward. Soon, they passed La Charrette, the last Euro-American settlement on the Missouri River.
 
@@ -52,13 +50,11 @@ The Lewis and Clark Expedition established relations with two dozen Indian natio
 
 The Americans and the Lakota nation (whom the Americans called Sioux or "Teton-wan Sioux") had problems when they met, and there was a concern the two sides might fight. According to Harry W. Fritz, "All earlier Missouri River travelers had warned of this powerful and aggressive tribe, determined to block free trade on the river. ... The Sioux were also expecting a retaliatory raid from the Omaha Indians, to the south. A recent Sioux raid had killed 75 Omaha men, burned 40 lodges, and taken four dozen prisoners."[50]
 
-001_Fort_Mandan_Interior.jpg
-
 One of their horses disappeared, and they believed the Sioux were responsible. Afterward, the two sides met and there was a disagreement, and the Sioux asked the men to stay or to give more gifts instead before being allowed to pass through their territory. They came close to fighting several times, and both sides finally backed down and the expedition continued on to Arikara territory. Clark wrote they were "warlike" and were the "vilest miscreants of the savage race".[51][52][53][54]
 
 In the winter of 180405, the party built Fort Mandan, near present-day Washburn, North Dakota. Just before departing on April 7, 1805, the expedition sent the keelboat back to St. Louis with a sample of specimens, some never seen before east of the Mississippi. One chief asked Lewis and Clark to provide a boat for passage through their national territory. As tensions increased, Lewis and Clark prepared to fight, but the two sides fell back in the end. The Americans quickly continued westward (upriver), and camped for the winter in the Mandan nation's territory.
 
-After the expedition had set up camp, nearby Indians came to visit in fair numbers, some staying all night. For several days, Lewis and Clark met in council with Mandan chiefs. Here they met a French-Canadian fur trapper named Toussaint Charbonneau, and his young Shoshone wife Sacagawea. Charbonneau at this time began to serve as the expedition's translator. Peace was established between the expedition and the Mandan chiefs with the sharing of a Mandan ceremonial pipe.[55] By April 25, Captain Lewis wrote his progress report of the expedition's activities and observations of the Indian nations they have encountered to date: _A Statistical view of the Indian nations inhabiting the Territory of Louisiana_, which outlined the names of various tribes, their locations, trading practices, and water routes used, among other things. President Jefferson would later present this report to Congress.[56] Lewis_and_Clark_Meeting_the_Flatheads_in_Ross_Hole,_September_4,_1805.jpg They followed the Missouri to its headwaters, and over the Continental Divide at Lemhi Pass. In canoes, they descended the mountains by the Clearwater River, the Snake River, and the Columbia River, past Celilo Falls, and past what is now Portland, Oregon, at the meeting of the Willamette and Columbia Rivers. Lewis and Clark used William Robert Broughton's 1792 notes and maps to orient themselves once they reached the lower Columbia River. The sighting of Mount Hood and other stratovolcanos confirmed that the expedition had almost reached the Pacific Ocean.[57]
+After the expedition had set up camp, nearby Indians came to visit in fair numbers, some staying all night. For several days, Lewis and Clark met in council with Mandan chiefs. Here they met a French-Canadian fur trapper named Toussaint Charbonneau, and his young Shoshone wife Sacagawea. Charbonneau at this time began to serve as the expedition's translator. Peace was established between the expedition and the Mandan chiefs with the sharing of a Mandan ceremonial pipe.[55] By April 25, Captain Lewis wrote his progress report of the expedition's activities and observations of the Indian nations they have encountered to date: _A Statistical view of the Indian nations inhabiting the Territory of Louisiana_, which outlined the names of various tribes, their locations, trading practices, and water routes used, among other things. President Jefferson would later present this report to Congress.[56] They followed the Missouri to its headwaters, and over the Continental Divide at Lemhi Pass. In canoes, they descended the mountains by the Clearwater River, the Snake River, and the Columbia River, past Celilo Falls, and past what is now Portland, Oregon, at the meeting of the Willamette and Columbia Rivers. Lewis and Clark used William Robert Broughton's 1792 notes and maps to orient themselves once they reached the lower Columbia River. The sighting of Mount Hood and other stratovolcanos confirmed that the expedition had almost reached the Pacific Ocean.[57]
 
 Pacific Ocean
 
@@ -82,8 +78,6 @@ In March 1804, before the expedition began in May, the Spanish in New Mexico lea
 
 
 Geography and science
-
-Map_of_Lewis_and_Clark's_Track,_Across_the_Western_Portion_of_North_America,_published_1814.jpg
 
 The Lewis and Clark Expedition gained an understanding of the geography of the Northwest and produced the first accurate maps of the area. During the journey, Lewis and Clark drew about 140 maps. Stephen Ambrose says the expedition "filled in the main outlines" of the area.[73]
 
@@ -116,7 +110,7 @@ They learned that women in _Sioux_ nations were often bartered away for horses o
 
 Sacagawea
 
-Sakakawea-statue-bismarck-nd-2004.jpg, a Shoshone woman who accompanied the Lewis and Clark Expedition]]
+, a Shoshone woman who accompanied the Lewis and Clark Expedition]]
 
 Sacagawea, sometimes called Sakajawea or Sakagawea ( 1788December 20, 1812), was a Shoshone Indian woman who arrived with her husband Toussaint Charbonneau on the expedition to the Pacific Ocean.
 
@@ -136,7 +130,7 @@ The Corps met their objective of reaching the Pacific, mapping and establishing 
 
 Aftermath
 
-Chief_Shehaka.jpg Chief Big White, who accompanied Lewis and Clark on their return from the expedition]] Two months passed after the expedition's end before Jefferson made his first public statement to Congress and others, giving a one-sentence summary about the success of the expedition before getting into the justification for the expenses involved. In the course of their journey, they acquired a knowledge of numerous tribes of Indians hitherto unknown; they informed themselves of the trade which may be carried on with them, the best channels and positions for it, and they are enabled to give with accuracy the geography of the line they pursued. Back east, the botanical and zoological discoveries drew the intense interest of the American Philosophical Society who requested specimens, various artifacts traded with the Indians, and reports on plants and wildlife along with various seeds obtained. Jefferson used seeds from "Missouri hominy corn" along with a number of other unidentified seeds to plant at Monticello which he cultivated and studied. He later reported on the "Indian corn" he had grown as being an "excellent" food source.[114] The expedition helped establish the U.S. presence in the newly acquired territory and beyond and opened the door to further exploration, trade and scientific discoveries.[115]
+Chief Big White, who accompanied Lewis and Clark on their return from the expedition]] Two months passed after the expedition's end before Jefferson made his first public statement to Congress and others, giving a one-sentence summary about the success of the expedition before getting into the justification for the expenses involved. In the course of their journey, they acquired a knowledge of numerous tribes of Indians hitherto unknown; they informed themselves of the trade which may be carried on with them, the best channels and positions for it, and they are enabled to give with accuracy the geography of the line they pursued. Back east, the botanical and zoological discoveries drew the intense interest of the American Philosophical Society who requested specimens, various artifacts traded with the Indians, and reports on plants and wildlife along with various seeds obtained. Jefferson used seeds from "Missouri hominy corn" along with a number of other unidentified seeds to plant at Monticello which he cultivated and studied. He later reported on the "Indian corn" he had grown as being an "excellent" food source.[114] The expedition helped establish the U.S. presence in the newly acquired territory and beyond and opened the door to further exploration, trade and scientific discoveries.[115]
 
 Lewis and Clark returned from their expedition, bringing with them the Mandan Indian Chief Shehaka from the Upper Missouri to visit the "Great Father" at Washington City. After Chief Shehaka's visit, it required multiple attempts and multiple military expeditions to safely return Shehaka to his nation.
 

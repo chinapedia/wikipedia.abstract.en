@@ -41,7 +41,7 @@ Configuration of monosaccharides
 
 Like many chiral molecules, the two stereoisomers of glyceraldehyde will gradually rotate the polarization direction of linearly polarized light as it passes through it, even in solution. The two stereoisomers are identified with the prefixes - and -, according to the sense of rotation: -glyceraldehyde is dextrorotatory (rotates the polarization axis clockwise), while -glyceraldehyde is levorotatory (rotates it counterclockwise).
 
-DL-Glucose.svg The - and - prefixes are also used with other monosaccharides, to distinguish two particular stereoisomers that are mirror-images of each other. For this purpose, one considers the chiral carbon that is furthest removed from the C=O group. Its four bonds must connect to −H, −OH, −C(OH)H, and the rest of the molecule. If the molecule can be rotated in space so that the directions of those four groups match those of the analog groups in -glyceraldehyde's C2, then the isomer receives the - prefix. Otherwise, it receives the - prefix.
+The - and - prefixes are also used with other monosaccharides, to distinguish two particular stereoisomers that are mirror-images of each other. For this purpose, one considers the chiral carbon that is furthest removed from the C=O group. Its four bonds must connect to −H, −OH, −C(OH)H, and the rest of the molecule. If the molecule can be rotated in space so that the directions of those four groups match those of the analog groups in -glyceraldehyde's C2, then the isomer receives the - prefix. Otherwise, it receives the - prefix.
 
 In the Fischer projection, the - and - prefixes specifies the configuration at the carbon atom that is second from bottom: - if the hydroxyl is on the right side, and - if it is on the left side.
 
@@ -52,8 +52,6 @@ Cyclisation of Monosaccharides
 A monosaccharide often switches from the acyclic (open-chain) form to a cyclic form, through a nucleophilic addition reaction between the carbonyl group and one of the hydroxyls of the same molecule. The reaction creates a ring of carbon atoms closed by one bridging oxygen atom. The resulting molecule has a hemiacetal or hemiketal group, depending on whether the linear form was an aldose or a ketose. The reaction is easily reversed, yielding the original open-chain form.
 
 In these cyclic forms, the ring usually has 5 or 6 atoms. These forms are called furanoses and pyranoses, respectively — by analogy with furan and pyran, the simplest compounds with the same carbon-oxygen ring (although they lack the double bonds of these two molecules). For example, the aldohexose glucose may form a hemiacetal linkage between the hydroxyl on carbon 1 and the oxygen on carbon 4, yielding a molecule with a 5-membered ring, called glucofuranose. The same reaction can take place between carbons 1 and 5 to form a molecule with a 6-membered ring, called glucopyranose. Cyclic forms with a 7-atom ring (the same of oxepane), rarely encountered, are called heptoses.
-
-Existence_in_solution.png structure_of_D-pentoses.png structure_of_D-hexoses.png
 
 For many monosaccharides (including glucose), the cyclic forms predominate, in the solid state and in solutions, and therefore the same name commonly is used for the open- and closed-chain isomers. Thus, for example, the term "glucose" may signify glucofuranose, glucopyranose, the open-chain form, or a mixture of the three.
 

@@ -10,7 +10,7 @@ It can also be called an _expanded_ or _cantellated_ cube or octahedron, from tr
 
 Geometric relations
 
-P2-A5-P3.gif cube (the blue faces) or an expanded octahedron (the red faces).]] There are distortions of the rhombicuboctahedron that, while some of the faces are not regular polygons, are still vertex-uniform. Some of these can be made by taking a cube or octahedron and cutting off the edges, then trimming the corners, so the resulting polyhedron has six square and twelve rectangular faces. These have octahedral symmetry and form a continuous series between the cube and the octahedron, analogous to the distortions of the rhombicosidodecahedron or the tetrahedral distortions of the cuboctahedron. However, the rhombicuboctahedron also has a second set of distortions with six rectangular and sixteen trapezoidal faces, which do not have octahedral symmetry but rather T_(h) symmetry, so they are invariant under the same rotations as the tetrahedron but different reflections.
+cube (the blue faces) or an expanded octahedron (the red faces).]] There are distortions of the rhombicuboctahedron that, while some of the faces are not regular polygons, are still vertex-uniform. Some of these can be made by taking a cube or octahedron and cutting off the edges, then trimming the corners, so the resulting polyhedron has six square and twelve rectangular faces. These have octahedral symmetry and form a continuous series between the cube and the octahedron, analogous to the distortions of the rhombicosidodecahedron or the tetrahedral distortions of the cuboctahedron. However, the rhombicuboctahedron also has a second set of distortions with six rectangular and sixteen trapezoidal faces, which do not have octahedral symmetry but rather T_(h) symmetry, so they are invariant under the same rotations as the tetrahedron but different reflections.
 
 The lines along which a Rubik's Cube can be turned are, projected onto a sphere, similar, topologically identical, to a rhombicuboctahedron's edges. In fact, variants using the Rubik's Cube mechanism have been produced which closely resemble the rhombicuboctahedron.[2][3]
 
@@ -22,31 +22,29 @@ The rhombicuboctahedron can be dissected into two square cupolae and a central o
 
 There are three pairs of parallel planes that each intersect the rhombicuboctahedron in a regular octagon. The rhombicuboctahedron may be divided along any of these to obtain an octagonal prism with regular faces and two additional polyhedra called square cupolae, which count among the Johnson solids; it is thus an _elongated square orthobicupola_. These pieces can be reassembled to give a new solid called the elongated square gyrobicupola or _pseudorhombicuboctahedron_, with the symmetry of a square antiprism. In this the vertices are all locally the same as those of a rhombicuboctahedron, with one triangle and three squares meeting at each, but are not all identical with respect to the entire polyhedron, since some are closer to the symmetry axis than others.
 
-+----------------------------------+-------------------------------+
-| Exploded_rhombicuboctahedron.png | Small_rhombicuboctahedron.png |
-|                                  | Rhombicuboctahedron           |
-+----------------------------------+-------------------------------+
-| Pseudorhombicuboctahedron.png    |                               |
-| Pseudorhombicuboctahedron        |                               |
-+----------------------------------+-------------------------------+
++---------------------------+---------------------+
+|                           | Rhombicuboctahedron |
++---------------------------+---------------------+
+| Pseudorhombicuboctahedron |                     |
++---------------------------+---------------------+
 
 Orthogonal projections
 
 The _rhombicuboctahedron_ has six special orthogonal projections, centered, on a vertex, on two types of edges, and three types of faces: triangles, and two squares. The last two correspond to the B₂ and A₂ Coxeter planes.
 
-+-------------+---------------------+-----------------------+-----------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------------------+
-| Centered by | Vertex              | Edge                  | Edge                  | Face                                          | Face                                         | Face                                            |
-|             |                     | 3-4                   | 4-4                   | Square-1                                      | Square-2                                     | Triangle                                        |
-+=============+=====================+=======================+=======================+===============================================+==============================================+=================================================+
-| Solid       |                     |                       |                       | Polyhedron_small_rhombi_6-8_from_blue_max.png | Polyhedron_small_rhombi_6-8_from_red_max.png | Polyhedron_small_rhombi_6-8_from_yellow_max.png |
-+-------------+---------------------+-----------------------+-----------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------------------+
-| Wireframe   | Cube_t02_v.png      | Cube_t02_e34.png      | Cube_t02_e44.png      | Cube_t02_f4b.png                              | 3-cube_t02_B2.svg                            | 3-cube_t02.svg                                  |
-+-------------+---------------------+-----------------------+-----------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------------------+
-| Projective  | [2]                 | [2]                   | [2]                   | [2]                                           | [4]                                          | [6]                                             |
-| symmetry    |                     |                       |                       |                                               |                                              |                                                 |
-+-------------+---------------------+-----------------------+-----------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------------------+
-| Dual        | Dual_cube_t02_v.png | Dual_cube_t02_e34.png | Dual_cube_t02_e44.png | Dual_cube_t02_f4b.png                         | Dual_cube_t02_B2.png                         | Dual_cube_t02.png                               |
-+-------------+---------------------+-----------------------+-----------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------------------+
++-------------+--------+------+------+----------+----------+----------+
+| Centered by | Vertex | Edge | Edge | Face     | Face     | Face     |
+|             |        | 3-4  | 4-4  | Square-1 | Square-2 | Triangle |
++=============+========+======+======+==========+==========+==========+
+| Solid       |        |      |      |          |          |          |
++-------------+--------+------+------+----------+----------+----------+
+| Wireframe   |        |      |      |          |          |          |
++-------------+--------+------+------+----------+----------+----------+
+| Projective  | [2]    | [2]  | [2]  | [2]      | [4]      | [6]      |
+| symmetry    |        |      |      |          |          |          |
++-------------+--------+------+------+----------+----------+----------+
+| Dual        |        |      |      |          |          |          |
++-------------+--------+------+------+----------+----------+----------+
 
 : Orthogonal projections
 
@@ -55,24 +53,22 @@ Spherical tiling
 
 The rhombicuboctahedron can also be represented as a spherical tiling, and projected onto the plane via a stereographic projection. This projection is conformal, preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.
 
-+----------------------------+---------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+
-| Uniform_tiling_432-t02.png | rhombicuboctahedron_stereographic_projection_square.png | Rhombicuboctahedron_stereographic_projection_square2.png | rhombicuboctahedron_stereographic_projection_triangle.png |
-|                            | (6) square-centered                                     | (6) square-centered                                      | (8) triangle-centered                                     |
-+----------------------------+---------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+
-| Orthogonal projection      | Stereographic projections                               |                                                          |                                                           |
-+----------------------------+---------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+
++-----------------------+---------------------------+---------------------+-----------------------+
+|                       | (6) square-centered       | (6) square-centered | (8) triangle-centered |
++-----------------------+---------------------------+---------------------+-----------------------+
+| Orthogonal projection | Stereographic projections |                     |                       |
++-----------------------+---------------------------+---------------------+-----------------------+
 
 
 Pyritohedral symmetry
 
 A half symmetry form of the rhombicuboctahedron, , exists with pyritohedral symmetry, [4,3⁺], (3*2) as Coxeter diagram , Schläfli symbol s₂{3,4}, and can be called a _cantic snub octahedron_. This form can be visualized by alternatingly coloring the edges of the 6 squares. These squares can then be distorted into rectangles, while the 8 triangles remain equilateral. The 12 diagonal square faces will become isosceles trapezoids. In the limit, the rectangles can be reduced to edges, and the trapezoids become triangles, and an icosahedron is formed, by a _snub octahedron_ construction, , s{3,4}. (The compound of two icosahedra is constructed from both alternated positions.)
 
-+-----------------------------------------------+
-| Pyritohedral symmetry variations              |
-+===============================================+
-| Rhombicuboctahedron_uniform_edge_coloring.png |
-| Uniform geometry                              |
-+-----------------------------------------------+
++----------------------------------+
+| Pyritohedral symmetry variations |
++==================================+
+| Uniform geometry                 |
++----------------------------------+
 
 
 Algebraic properties
@@ -136,10 +132,9 @@ Vertex arrangement
 
 It shares its vertex arrangement with three nonconvex uniform polyhedra: the stellated truncated hexahedron, the small rhombihexahedron (having the triangular faces and six square faces in common), and the small cubicuboctahedron (having twelve square faces in common).
 
-+-------------------------------+-----------------------------+----------------------------+------------------------------------+
-| Small_rhombicuboctahedron.png | Small_cubicuboctahedron.png | Small_rhombihexahedron.png | Stellated_truncated_hexahedron.png |
-| Rhombicuboctahedron           | Small cubicuboctahedron     | Small rhombihexahedron     | Stellated truncated hexahedron     |
-+-------------------------------+-----------------------------+----------------------------+------------------------------------+
++---------------------+-------------------------+------------------------+--------------------------------+
+| Rhombicuboctahedron | Small cubicuboctahedron | Small rhombihexahedron | Stellated truncated hexahedron |
++---------------------+-------------------------+------------------------+--------------------------------+
 
 
 Rhombicuboctahedral graph

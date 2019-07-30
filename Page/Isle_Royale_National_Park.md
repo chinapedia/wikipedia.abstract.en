@@ -1,4 +1,4 @@
-IsleRoyaleMap.jpg ISLE ROYALE NATIONAL PARK is an American national park consisting of Isle Royale and hundreds of adjacent islands, as well as the surrounding waters of Lake Superior, in the state of Michigan. Isle Royale National Park was established on April 3, 1940, then additionally protected from development by wilderness area designation in 1976, and declared a UNESCO International Biosphere Reserve in 1980. The park covers , with of land and of surrounding waters. The park's northern boundary lies adjacent to the Canadian Lake Superior National Marine Conservation Area along the international border.
+ISLE ROYALE NATIONAL PARK is an American national park consisting of Isle Royale and hundreds of adjacent islands, as well as the surrounding waters of Lake Superior, in the state of Michigan. Isle Royale National Park was established on April 3, 1940, then additionally protected from development by wilderness area designation in 1976, and declared a UNESCO International Biosphere Reserve in 1980. The park covers , with of land and of surrounding waters. The park's northern boundary lies adjacent to the Canadian Lake Superior National Marine Conservation Area along the international border.
 
 
 Geography
@@ -21,7 +21,7 @@ In _Prehistoric Copper Mining in the Lake Superior Region_, published in 1961, D
 
 19th & 20th centuries
 
-MineShaftIR.jpg In the mid-1840s, a report by Douglass Houghton, Michigan's first state geologist, set off a copper boom in the state, and the first modern copper mines were opened on the island.[7] Evidence of the earlier mining efforts was everywhere, in the form of many stone hammers, some copper artifacts, and places where copper had been partially worked out of the rock but left in place. The ancient pits and trenches led to the discovery of many of the copper deposits that were mined in the 19th century.[8]
+In the mid-1840s, a report by Douglass Houghton, Michigan's first state geologist, set off a copper boom in the state, and the first modern copper mines were opened on the island.[7] Evidence of the earlier mining efforts was everywhere, in the form of many stone hammers, some copper artifacts, and places where copper had been partially worked out of the rock but left in place. The ancient pits and trenches led to the discovery of many of the copper deposits that were mined in the 19th century.[8]
 
 The island was once the site of a resort community. The fishing industry has declined considerably, but continues at Edisen Fishery. Because numerous small islands surround Isle Royale, ships were once guided through the area by lighthouses at Passage Island, Rock Harbor, Rock of Ages, and Isle Royale Lighthouse on Menagerie Island.
 
@@ -30,7 +30,7 @@ Within the waters of Isle Royale National Park are several shipwrecks. The areaâ
 
 Natural history
 
-ISROTobin.jpg]]
+]]
 
 Flora
 
@@ -44,11 +44,11 @@ Deciduous trees include quaking aspens (_Populus tremuloides_), red oaks (_Querc
 
 Fauna
 
-Isro-ImageF_00007_moose.jpg Isle Royale National Park is known for its wolf and moose populations which are studied by scientists investigating predator-prey relationships in a closed environment. This is made easier because Isle Royale has been colonized by roughly just one third of the mainland mammal species, because it is so remote.[13] In addition, the environment is unique in that it is the only known place where wolves and moose coexist without the presence of bears.[14]
+Isle Royale National Park is known for its wolf and moose populations which are studied by scientists investigating predator-prey relationships in a closed environment. This is made easier because Isle Royale has been colonized by roughly just one third of the mainland mammal species, because it is so remote.[13] In addition, the environment is unique in that it is the only known place where wolves and moose coexist without the presence of bears.[14]
 
 Historically neither moose nor wolves inhabited Isle Royale. Just prior to becoming a national park the large mammals on Isle Royale were Canada lynx and the boreal woodland caribou. Archeological evidence indicates both of these species were present on Isle Royale for 3,500 years prior to being removed by direct human actions (hunting, trapping, mining, logging, fires, competition for resources from exotic species and possibly disease due to the introduction of invasive species). The last caribou documented on Isle Royale was in 1925. Though lynx were removed by the 1930s some have periodically crossed the ice bridge from neighboring Ontario, Canada, the most recent being an individual sighting in 1980.[15] Although lynx are no longer present on the island, their primary prey, snowshoe hares, remain. Before the appearance of wolves, coyotes were also predators on the island. Coyotes appeared around 1905 and disappeared shortly after wolves arrived in the 1950s.
 
-Isro-ImageF_00002_rocky_shore.jpg Moose are believed to have colonized Isle Royale sometime between 1905 and 1912. It was initially believed that a small herd of moose (moose typically do not travel in herds) colonized the islands by crossing the ice from the adjacent mainland; later this theory was modified to a herd of moose swimming 20 miles across Lake Superior from the nearest mainland. The improbability of these theories received little scrutiny until recent years. Although no thorough scientific investigation to determine how moose arrived on Isle Royale has been carried out to date, both cultural and genetic evidence indicates they were likely introduced by humans to create a private hunting preserve in the early 1900s. The cultural evidence that moose were trapped in northwestern Minnesota and transported to Isle Royale sounded far fetched to many until decades later when genetic evidence revealed the moose on Isle Royale were more closely related to moose in the far northwestern Minnesota/Manitoba border area than the mainland adjacent to Isle Royale in far northeastern Minnesota bordering Ontario. Further evidence has also shown that the Washington Harbor Club, a group of well-to-do businessmen, owned various buildings on Isle Royale in addition to railroads that ran from Baudette to Duluth and Two Harbors and so had the means to transport moose from northwestern Minnesota to Two Harbors.[16][17]
+Moose are believed to have colonized Isle Royale sometime between 1905 and 1912. It was initially believed that a small herd of moose (moose typically do not travel in herds) colonized the islands by crossing the ice from the adjacent mainland; later this theory was modified to a herd of moose swimming 20 miles across Lake Superior from the nearest mainland. The improbability of these theories received little scrutiny until recent years. Although no thorough scientific investigation to determine how moose arrived on Isle Royale has been carried out to date, both cultural and genetic evidence indicates they were likely introduced by humans to create a private hunting preserve in the early 1900s. The cultural evidence that moose were trapped in northwestern Minnesota and transported to Isle Royale sounded far fetched to many until decades later when genetic evidence revealed the moose on Isle Royale were more closely related to moose in the far northwestern Minnesota/Manitoba border area than the mainland adjacent to Isle Royale in far northeastern Minnesota bordering Ontario. Further evidence has also shown that the Washington Harbor Club, a group of well-to-do businessmen, owned various buildings on Isle Royale in addition to railroads that ran from Baudette to Duluth and Two Harbors and so had the means to transport moose from northwestern Minnesota to Two Harbors.[16][17]
 
 There are usually around 25 wolves and 1000 moose on the island, but the numbers change greatly year to year. In the 2006-2007 winter, 385 moose were counted, as well as 21 wolves, in three packs. In spring 2008, 23 wolves and approximately 650 moose were counted.[18] However, recent reductions in winter pack ice have ended replenishment of the wolf population from the mainland.[19] Due to genetic inbreeding, wolf populations had declined to only two in 2016, and the wolves will not survive.[20] By November 2017, the population was down to one, a female.[21]
 
@@ -56,7 +56,7 @@ In December 2016, the National Park Service (NPS) put forward an initial plan in
 
 Geology
 
-USGS_Isle_Royale_geologic_map.png]] The two main rock assemblages found on the island include the Portage Lake Volcanics and the Copper Harbor Conglomerate, both Precambrian in age. The volcanics are mainly ophitic flood basalts, some 100 individual flows over an accumulated thickness of at least 10,000 feet. The conglomerate outcrops on the southwestern portion of the island and consists of sedimentary rock derived from volcanic rocks in present-day Minnesota. Glacial erosion accentuated the ridge and valley topography from pre-glacial stream erosion. Glacial striations indicate a generally westward movement of the glaciers as do the recessional moraines west of Lake Desor. Drumlins are found west of Siskiwit Lake.[24]
+]] The two main rock assemblages found on the island include the Portage Lake Volcanics and the Copper Harbor Conglomerate, both Precambrian in age. The volcanics are mainly ophitic flood basalts, some 100 individual flows over an accumulated thickness of at least 10,000 feet. The conglomerate outcrops on the southwestern portion of the island and consists of sedimentary rock derived from volcanic rocks in present-day Minnesota. Glacial erosion accentuated the ridge and valley topography from pre-glacial stream erosion. Glacial striations indicate a generally westward movement of the glaciers as do the recessional moraines west of Lake Desor. Drumlins are found west of Siskiwit Lake.[24]
 
 Recent analyses by the USGS of both unmineralized basalt and copper-mineralized rock show that a small amount of naturally occurring mercury is associated with mineralization.
 
@@ -80,8 +80,6 @@ Camping
 The park has 36 designated wilderness campgrounds. Some campgrounds in the interior are accessible only by trail or by canoe/kayak on the island lakes. Other campgrounds are accessible only by private boat. The campsites vary in capacity but typically include a few three-sided wood shelters (the fourth wall is screened) with floors and roofs, and several individual sites suitable for pitching a small tent. Some tent sites with space for groups of up to 10 are available, and are used for overflow if all the individual sites are filled.
 
 The only amenities at the campgrounds are pit toilets, picnic tables, and fire-rings at specific areas. Campfires are not permitted at most campgrounds; gas or alcohol camp stoves are recommended. Drinking and cooking water must be drawn from local water sources (Lake Superior and inland lakes) and filtered, treated, or boiled to avoid parasites. Hunting is not permitted, but fishing is, and edible berries (blueberries, thimbleberries) may be picked from the trail.
-
-IsleRoyalePlane.jpg
 
 Access
 

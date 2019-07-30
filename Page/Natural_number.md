@@ -1,4 +1,4 @@
-Three_apples(1).svg, two apples, three apples, …)]]
+, two apples, three apples, …)]]
 
 In mathematics, the NATURAL NUMBERS are those used for counting (as in "there are _six_ coins on the table") and ordering (as in "this is the _third_ largest city in the country"). In common mathematical terminology, words colloquially used for counting are "cardinal numbers" and words connected to ordering represent "ordinal numbers". The natural numbers can, at times, appear as a convenient set of codes (labels or "names"); that is, as what linguists call nominal numbers, foregoing many or all of the properties of being a number in a mathematical sense.
 
@@ -15,7 +15,7 @@ History
 
 Ancient roots
 
-Os_d'Ishango_IRSNB.JPG (on exhibition at the Royal Belgian Institute of Natural Sciences)[10][11][12] is believed to have been used 20,000 years ago for natural number arithmetic.]]
+(on exhibition at the Royal Belgian Institute of Natural Sciences)[10][11][12] is believed to have been used 20,000 years ago for natural number arithmetic.]]
 
 The most primitive method of representing a natural number is to put down a mark for each object. Later, a set of objects could be tested for equality, excess or shortage, by striking out a mark and removing an object from the set.
 
@@ -47,7 +47,7 @@ Since different properties are customarily associated to the tokens and , e.g., 
 
 Notation
 
-U+2115.svg capital N symbol, often used to denote the set of all natural numbers (see List of mathematical symbols).]] Mathematicians use N or (an N in blackboard bold) to refer to the set of all natural numbers. Older texts have also occasionally employed _J_ as the symbol for this set.[32]
+capital N symbol, often used to denote the set of all natural numbers (see List of mathematical symbols).]] Mathematicians use N or (an N in blackboard bold) to refer to the set of all natural numbers. Older texts have also occasionally employed _J_ as the symbol for this set.[32]
 
 To be unambiguous about whether 0 is included or not, sometimes a subscript (or superscript) "0" is added in the former case, and a superscript "" or subscript "" is added in the latter case:[33]
 

@@ -1,5 +1,3 @@
-Streetscene_Macau.jpg
-
 This article is about the demographic features of the population of Macau, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 Macau's population is 95% Chinese, primarily Cantonese and some Hakka, both from nearby Guangdong Province. The majority of the remainder are of Portuguese or mixed Chinese-Portuguese ancestry. Some Japanese, including descendants of Japanese Catholics who were expelled by shōguns, also live in Macau.
@@ -211,8 +209,6 @@ Religions
     30% Shenism, 10% Buddhism or Taoism, 5% Christianity, 50% not declaring religious affiliation, 10% others (2009).[11] Another survey conducted between 2005, 2007 and 2009 has found that 30% of the population follows folk faiths, 10% are adherents of Buddhism or Taoism, 5% are Christians, and the remaining part do not declare religious adherence.[12]
 
 Languages
-
-CalcadaSaoPaulomacau.jpg
 
     Portuguese and Chinese are official languages. The Chinese standard (Cantonese or Mandarin) is not specified in the law. Very few speak Portuguese.
 

@@ -3,7 +3,7 @@ SAMUEL JOHN "LAMORNA" BIRCH, RA, RWS (7 June 1869 – 7 January 1955) was an Eng
 
 Biography
 
-Lamorna_Cove_-_geograph.org.uk_-_15105.jpg (here in 2005) was a frequent subject for his paintings.]] Lamorna Birch was born in Egremont, Cheshire, England.[2] He was self-taught as an artist, except for a brief period of study at the Académie Colarossi in Paris during 1895.[3]
+(here in 2005) was a frequent subject for his paintings.]] Lamorna Birch was born in Egremont, Cheshire, England.[2] He was self-taught as an artist, except for a brief period of study at the Académie Colarossi in Paris during 1895.[3]
 
 Birch settled in Lamorna, Cornwall in 1892, initially lodging at nearby Boleigh Farm. Many of his most famous pictures date from this time and the beautiful Lamorna Cove is usually their subject matter. He was attracted to Cornwall by the Newlyn group of artists but he ended up starting a second group based around his adopted home of Lamorna.[4] He married Houghton (Mouse) Emily Vivian, the daughter of a mining agent from Camborne and they lived at Flagstaff Cottge, Lamorna.[5]
 

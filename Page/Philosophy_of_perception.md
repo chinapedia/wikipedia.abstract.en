@@ -1,5 +1,3 @@
-Grey_square_optical_illusion_proof2.svg
-
 The PHILOSOPHY OF PERCEPTION is concerned with the nature of perceptual experience and the status of perceptual data, in particular how they relate to beliefs about, or knowledge of, the world.[1] Any explicit account of perception requires a commitment to one of a variety of ontological or metaphysical views. Philosophers distinguish internalist accounts, which assume that perceptions of objects, and knowledge or beliefs about them, are aspects of an individual's mind, and externalist accounts, which state that they constitute real aspects of the world external to the individual.[2] The position of naïve realism—the 'everyday' impression of physical objects constituting what is perceived—is to some extent contradicted by the occurrence of perceptual illusions and hallucinations[3] and the relativity of perceptual experience[4] as well as certain insights in science.[5] Realist conceptions include phenomenalism and direct and indirect realism. Anti-realist conceptions include idealism and skepticism.[6]
 
 

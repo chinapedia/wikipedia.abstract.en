@@ -1,6 +1,6 @@
-Potter_at_work,_Jaura,_India.jpg, India]]
+, India]]
 
-POTTERY is the process of forming vessels and other objects with clay and other ceramic materials, which are fired at high temperatures to give them a hard, durable form. Major types include earthenware, stoneware and porcelain. The place where such wares are made by a _potter_ is also called a _pottery_ (plural "potteries"). The definition of _pottery_ used by the American Society for Testing and Materials (ASTM), is "all fired ceramic wares that contain clay when formed, except technical, structural, and refractory products."[1] In archaeology, especially of ancient and prehistoric periods, "pottery" often means vessels only, and figures etc. of the same material are called "terracottas". Clay as a part of the materials used is required by some definitions of pottery, but this is dubious. Székely_Land_-_Great_Market_Hall,_2014.09.12_(26).JPG, Romania, on sale in Budapest.]]
+POTTERY is the process of forming vessels and other objects with clay and other ceramic materials, which are fired at high temperatures to give them a hard, durable form. Major types include earthenware, stoneware and porcelain. The place where such wares are made by a _potter_ is also called a _pottery_ (plural "potteries"). The definition of _pottery_ used by the American Society for Testing and Materials (ASTM), is "all fired ceramic wares that contain clay when formed, except technical, structural, and refractory products."[1] In archaeology, especially of ancient and prehistoric periods, "pottery" often means vessels only, and figures etc. of the same material are called "terracottas". Clay as a part of the materials used is required by some definitions of pottery, but this is dubious. , Romania, on sale in Budapest.]]
 
 Pottery is one of the oldest human inventions, originating before the Neolithic period, with ceramic objects like the Gravettian culture Venus of Dolní Věstonice figurine discovered in the Czech Republic dating back to 29,000–25,000 BC,[2] and pottery vessels that were discovered in Jiangxi, China, which date back to 18,000 BC. Early Neolithic pottery artefacts have been found in places such as Jōmon Japan (10,500 BC),[3] the Russian Far East (14,000 BC),[4] Sub-Saharan Africa and South America.
 
@@ -11,7 +11,7 @@ Clay-based pottery can be divided into three main groups: earthenware, stoneware
 
 Main types
 
-Jinan_2009_1145.jpg pottery from the Neolithic Longshan culture, China, 3rd millennium BC]]
+pottery from the Neolithic Longshan culture, China, 3rd millennium BC]]
 
 Earthenware
 
@@ -19,13 +19,13 @@ All the earliest forms of pottery were made from clays that were fired at low te
 
 Stoneware
 
-Japan,_Muromachi_period_-_Storage_Jar-_Tamba_Ware_-_2002.66_-_Cleveland_Museum_of_Art.tif storage jar, with partial ash glaze]] Stoneware is pottery that has been fired in a kiln at a relatively high temperature, from about 1,100 °C to 1,200 °C, and is stronger and non-porous to liquids.[6] The Chinese, who developed stoneware very early on, classify this together with porcelain as high-fired wares. In contrast, stoneware could only be produced in Europe from the late Middle Ages, as European kilns were less efficient, and the right sorts of clay less common. It remained a speciality of Germany until the Renaissance.[7]
+storage jar, with partial ash glaze]] Stoneware is pottery that has been fired in a kiln at a relatively high temperature, from about 1,100 °C to 1,200 °C, and is stronger and non-porous to liquids.[6] The Chinese, who developed stoneware very early on, classify this together with porcelain as high-fired wares. In contrast, stoneware could only be produced in Europe from the late Middle Ages, as European kilns were less efficient, and the right sorts of clay less common. It remained a speciality of Germany until the Renaissance.[7]
 
 Stoneware is very tough and practical, and much of it has always been utilitarian, for the kitchen or storage rather than the table. But "fine" stoneware has been important in China, Japan and the West, and continues to be made. Many utilitarian types have also come to be appreciated as art.
 
 Porcelain
 
-Chantilly_Porcelain_Factory_-_Teapot_-_1944.228.1_-_Cleveland_Museum_of_Art.tif teapot, c. 1730, with chinoiserie decoration in overglaze enamels]] Porcelain is made by heating materials, generally including kaolin, in a kiln to temperatures between . This is higher than used for the other types, and achieving these temperatures was a long struggle, as well as realizing what materials were needed. The toughness, strength and translucence of porcelain, relative to other types of pottery, arises mainly from vitrification and the formation of the mineral mullite within the body at these high temperatures.
+teapot, c. 1730, with chinoiserie decoration in overglaze enamels]] Porcelain is made by heating materials, generally including kaolin, in a kiln to temperatures between . This is higher than used for the other types, and achieving these temperatures was a long struggle, as well as realizing what materials were needed. The toughness, strength and translucence of porcelain, relative to other types of pottery, arises mainly from vitrification and the formation of the mineral mullite within the body at these high temperatures.
 
 Although porcelain was first made in China, the Chinese traditionally do not recognise it as a distinct category, grouping it with stoneware as "high-fired" ware, opposed to "low-fired" earthenware. This confuses the issue of when it was first made. A degree of translucency and whiteness was achieved by the Tang dynasty (AD 618–906), and considerable quantities were being exported. The modern level of whiteness was not reached until much later, in the 14th century. Porcelain was also made in Korea and in Japan from the end of the 16th century, after suitable kaolin was located in those countries. It was not made effectively outside East Asia until the 18th century.[8]
 
@@ -43,7 +43,7 @@ Before being shaped, clay must be prepared. Kneading helps to ensure an even moi
 
 Clay bodies and mineral contents
 
-Clay_Mixing_for_Pottery.jpg Body is a term for the main pottery form of a piece, underneath any glaze or decoration. The main ingredient of the body is clay. There are several materials that are referred to as clay. The properties which make them different include: Plasticity, the malleability of the body; the extent to which they will absorb water after firing; and shrinkage, the extent of reduction in size of a body as water is removed. Different clay bodies also differ in the way in which they respond when fired in the kiln. A clay body can be decorated before or after firing. Prior to some shaping processes, clay must be prepared. Each of these different clays are composed of different types and amounts of minerals that determine the characteristics of resulting pottery. There can be regional variations in the properties of raw materials used for the production of pottery, and this can lead to wares that are unique in character to a locality. It is common for clays and other materials to be mixed to produce clay bodies suited to specific purposes. A common component of clay bodies is the mineral kaolinite. Other minerals in the clay, such as feldspar, act as fluxes which lower the vitrification temperature of bodies. Following is a list of different types of clay used for pottery.[12]
+Body is a term for the main pottery form of a piece, underneath any glaze or decoration. The main ingredient of the body is clay. There are several materials that are referred to as clay. The properties which make them different include: Plasticity, the malleability of the body; the extent to which they will absorb water after firing; and shrinkage, the extent of reduction in size of a body as water is removed. Different clay bodies also differ in the way in which they respond when fired in the kiln. A clay body can be decorated before or after firing. Prior to some shaping processes, clay must be prepared. Each of these different clays are composed of different types and amounts of minerals that determine the characteristics of resulting pottery. There can be regional variations in the properties of raw materials used for the production of pottery, and this can lead to wares that are unique in character to a locality. It is common for clays and other materials to be mixed to produce clay bodies suited to specific purposes. A common component of clay bodies is the mineral kaolinite. Other minerals in the clay, such as feldspar, act as fluxes which lower the vitrification temperature of bodies. Following is a list of different types of clay used for pottery.[12]
 
 -   Kaolin, is sometimes referred to as china clay because it was first used in China. Used for porcelain.
 -   Ball clay An extremely plastic, fine grained sedimentary clay, which may contain some organic matter. Small amounts can be added to porcelain bodies to increase plasticity.
@@ -55,14 +55,14 @@ Clay_Mixing_for_Pottery.jpg Body is a term for the main pottery form of a piece,
 
 Methods of shaping
 
-PotteryShaping.ogv Pottery can be shaped by a range of methods that include:
+Pottery can be shaped by a range of methods that include:
 
 -   3D printing: This is the latest advance in forming ceramic objects. There are two methods. One involves the layered deposition of soft clay similar to FDM printing the other and powder binding techniques where dry clay powder is fused together layer upon layer with a liquid.
 
 
 Decorating and glazing
 
-CreamBrownCeramicsHidalgo.jpg, Mexico]] Italian_Glazed_Earthenware_Vase-QM_r.jpg Pottery may be decorated in many different ways. Some decoration can be done before or after the firing.
+, Mexico]] Pottery may be decorated in many different ways. Some decoration can be done before or after the firing.
 
 Decoration
 
@@ -76,7 +76,7 @@ Decoration
 -   Banding is the application by hand or by machine of a band of colour to the edge of a plate or cup. Also known as "lining", this operation is often carried out on a potter's wheel.
 -   Agateware is named after its resemblance to the quartz mineral agate which has bands or layers of colour that are blended together, agatewares are made by blending clays of differing colours together but not mixing them to the extent that they lose their individual identities. The wares have a distinctive veined or mottled appearance. The term "agateware" is used to describe such wares in the United Kingdom; in Japan the term "_neriage_" is used and in China, where such things have been made since at least the Tang Dynasty, they are called "_marbled_" wares. Great care is required in the selection of clays to be used for making agatewares as the clays used must have matching thermal movement characteristics.
 
-urn.jpgn urn]]
+n urn]]
 
 -   Engobe: This is a clay slip, that is used to coat the surface of pottery, usually before firing. Its purpose is often decorative though it can also be used to mask undesirable features in the clay to which it is applied. Engobe slip may be applied by painting or by dipping to provide a uniform, smooth, coating. Engobe has been used by potters from pre-historic times until the present day and is sometimes combined with sgraffito decoration, where a layer of engobe is scratched through to reveal the colour of the underlying clay. With care it is possible to apply a second coat of engobe of a different colour to the first and to incise decoration through the second coat to expose the colour of the underlying coat. Engobes used in this way often contain substantial amounts of silica, sometimes approaching the composition of a glaze.
 -   Gold: Decoration with gold is used on some high quality ware. Different methods exist for its application, including:
@@ -102,7 +102,7 @@ Some specialised glazing techniques include:
 
 Firing
 
-Pottery_firing_Mali.jpg, Mali]] Bardon_mill_kiln.jpg at a pottery in Bardon Mill, UK]] Firing produces irreversible changes in the body. It is only after firing that the article or material is pottery. In lower-fired pottery, the changes include sintering, the fusing together of coarser particles in the body at their points of contact with each other. In the case of porcelain, where different materials and higher firing-temperatures are used, the physical, chemical and mineralogical properties of the constituents in the body are greatly altered. In all cases, the reason for firing is to permanently harden the wares and the firing regime must be appropriate to the materials used to make them. As a rough guide, modern earthenwares are normally fired at temperatures in the range of about 1,000°C (1,830 °F) to ; stonewares at between about to ; and porcelains at between about to . Historically, reaching high temperatures was a long-lasting challenge, and earthenware can be fired effectively as low as 600°C, achievable in primitive pit firing.
+, Mali]] at a pottery in Bardon Mill, UK]] Firing produces irreversible changes in the body. It is only after firing that the article or material is pottery. In lower-fired pottery, the changes include sintering, the fusing together of coarser particles in the body at their points of contact with each other. In the case of porcelain, where different materials and higher firing-temperatures are used, the physical, chemical and mineralogical properties of the constituents in the body are greatly altered. In all cases, the reason for firing is to permanently harden the wares and the firing regime must be appropriate to the materials used to make them. As a rough guide, modern earthenwares are normally fired at temperatures in the range of about 1,000°C (1,830 °F) to ; stonewares at between about to ; and porcelains at between about to . Historically, reaching high temperatures was a long-lasting challenge, and earthenware can be fired effectively as low as 600°C, achievable in primitive pit firing.
 
 Firing pottery can be done using a variety of methods, with a kiln being the usual firing method. Both the maximum temperature and the duration of firing influences the final characteristics of the ceramic. Thus, the maximum temperature within a kiln is often held constant for a period of time to _soak_ the wares to produce the maturity required in the body of the wares.
 
@@ -115,7 +115,7 @@ In Mali, a firing mound is used rather than a brick or stone kiln. Unfired pots 
 
 History
 
-Vestonicka_venuse_edit.jpg figurines that date to 29,000 to 25,000 BC.]] A great part of the history of pottery is prehistoric, part of past pre-literate cultures. Therefore, much of this history can only be found among the artifacts of archaeology. Because pottery is so durable, pottery and shards of pottery survive from millennia at archaeological sites, and are typically the most common and important type of artifact to survive. Many prehistoric cultures are named after the pottery that is the easiest way to identify their sites, and archaeologists develop the ability to recognise different types from the chemistry of small shards.
+figurines that date to 29,000 to 25,000 BC.]] A great part of the history of pottery is prehistoric, part of past pre-literate cultures. Therefore, much of this history can only be found among the artifacts of archaeology. Because pottery is so durable, pottery and shards of pottery survive from millennia at archaeological sites, and are typically the most common and important type of artifact to survive. Many prehistoric cultures are named after the pottery that is the easiest way to identify their sites, and archaeologists develop the ability to recognise different types from the chemistry of small shards.
 
 Before pottery becomes part of a culture, several conditions must generally be met.
 
@@ -124,7 +124,7 @@ Before pottery becomes part of a culture, several conditions must generally be m
 -   Third, the potter must have time available to prepare, shape and fire the clay into pottery. Even after control of fire was achieved, humans did not seem to develop pottery until a sedentary life was achieved. It has been hypothesized that pottery was developed only after humans established agriculture, which led to permanent settlements. However, the oldest known pottery is from China and dates to 20,000 BC, at the height of the ice age, long before the beginnings of agriculture.
 -   Fourth, there must be a sufficient need for pottery in order to justify the resources required for its production.[20]
 
-JomonPottery.JPG pottery vessel reconstructed from fragments (10,000–8,000 BC), Tokyo National Museum, Japan]]
+pottery vessel reconstructed from fragments (10,000–8,000 BC), Tokyo National Museum, Japan]]
 
 Early pottery
 
@@ -155,7 +155,7 @@ It appears that pottery was independently developed in Sub-Saharan Africa during
 
 East Asia
 
-Grès_chinois_Guimet.jpg]] In Japan, the Jōmon period has a long history of development of Jōmon Pottery which was characterized by impressions of rope on the surface of the pottery created by pressing rope into the clay before firing. Glazed Stoneware was being created as early as the 15th century BC in China. A form of Chinese porcelain became a significant Chinese export from the Tang Dynasty (AD 618–906) onwards.[41] Korean potters produced porcelain as early as the 14th century AD.[42] Koreans brought the art of porcelain to Japan in the 17th century AD.[43]
+]] In Japan, the Jōmon period has a long history of development of Jōmon Pottery which was characterized by impressions of rope on the surface of the pottery created by pressing rope into the clay before firing. Glazed Stoneware was being created as early as the 15th century BC in China. A form of Chinese porcelain became a significant Chinese export from the Tang Dynasty (AD 618–906) onwards.[41] Korean potters produced porcelain as early as the 14th century AD.[42] Koreans brought the art of porcelain to Japan in the 17th century AD.[43]
 
 In contrast to Europe, the Chinese elite used pottery extensively at table, for religious purposes, and for decoration, and the standards of fine pottery were very high. From the Song dynasty (960–1279) for several centuries elite taste favoured plain-coloured and exquisitely formed pieces; during this period true porcelain was perfected in Ding ware, although it was the only one of the Five Great Kilns of the Song period to use it. The traditional Chinese category of high-fired wares includes stoneware types such as Ru ware, Longquan celadon, and Guan ware. Painted wares such as Cizhou ware had a lower status, though they were acceptable for making pillows.
 
@@ -165,13 +165,13 @@ The secret of making such porcelain was sought in the Islamic world and later in
 
 South Asia
 
-Pottery_wheel_before_1910.jpg (1910)]] Pottery was in use in South Asia dating back to prehistoric times, including areas now forming Pakistan and northwest India, during the Mehrgarh Period II (5,500–4,800 BC) and Merhgarh Period III (4,800–3,500 BC), known as the ceramic Neolithic and chalcolithic. Pottery, including items known as the ed-Dur vessels, originated in regions of the Saraswati River / Indus River and have been found in a number of sites in the Indus Civilization.[45][46]
+(1910)]] Pottery was in use in South Asia dating back to prehistoric times, including areas now forming Pakistan and northwest India, during the Mehrgarh Period II (5,500–4,800 BC) and Merhgarh Period III (4,800–3,500 BC), known as the ceramic Neolithic and chalcolithic. Pottery, including items known as the ed-Dur vessels, originated in regions of the Saraswati River / Indus River and have been found in a number of sites in the Indus Civilization.[45][46]
 
 Despite an extensive prehistoric record of pottery, including painted wares, little "fine" or luxury pottery was made in the subcontinent in historic times. Hinduism discourages eating off pottery, which probably largely accounts for this. Most traditional Indian pottery vessels are large pots or jars for storage, or small cups or lamps, often treated as disposable. In contrast there are long traditions of sculpted figures, often rather large, in terracotta.
 
 Near East
 
-Jar_MET_VS1985_356_16.jpg: jar in calcite alabaster, Syria, late 8th millennium BC.]] Around 8000 BC during the Pre-pottery Neolithic period, and before the invention of pottery, several early settlements became experts in crafting beautiful and highly sophisticated containers from stone, using materials such as alabaster or granite, and employing sand to shape and polish. Artisans used the veins in the material to maximum visual effect. Such object have been found in abundance on the upper Euphrates river, in what is today eastern Syria, especially at the site of Bouqras.[47]
+: jar in calcite alabaster, Syria, late 8th millennium BC.]] Around 8000 BC during the Pre-pottery Neolithic period, and before the invention of pottery, several early settlements became experts in crafting beautiful and highly sophisticated containers from stone, using materials such as alabaster or granite, and employing sand to shape and polish. Artisans used the veins in the material to maximum visual effect. Such object have been found in abundance on the upper Euphrates river, in what is today eastern Syria, especially at the site of Bouqras.[47]
 
 The earliest history of pottery production in the Fertile Crescent starts the Pottery Neolithic and can be divided into four periods, namely: the Hassuna period (7000–6500 BC), the Halaf period (6500–5500 BC), the Ubaid period (5500–4000 BC), and the Uruk period (4000–3100 BC). By about 5000 BC pottery-making was becoming widespread across the region, and spreading out from it to neighbouring areas.
 
@@ -183,7 +183,7 @@ In the Chalcolithic period in Mesopotamia, Halafian pottery achieved a level of 
 
 Europe
 
-Altamura_Painter_-_Red-Figure_Calyx_Krater_-_Walters_48262_-_Side_A.jpg vase in the krater shape, between 470 and 460 BC, by the Altamura Painter]] The early inhabitants of Europe developed pottery in the Linear Pottery culture slightly later than the Near East, circa 5500–4500 BC. In the ancient Western Mediterranean elaborately painted earthenware reached very high levels of artistic achievement in the Greek world; there are large numbers of survivals from tombs. Minoan pottery was characterized by complex painted decoration with natural themes.[51] The classical Greek culture began to emerge around 1000 BC featuring a variety of well crafted pottery which now included the human form as a decorating motif. The pottery wheel was now in regular use. Although glazing was known to these potters, it was not widely used. Instead, a more porous clay slip was used for decoration. A wide range of shapes for different uses developed early and remained essentially unchanged during Greek history.[52]
+vase in the krater shape, between 470 and 460 BC, by the Altamura Painter]] The early inhabitants of Europe developed pottery in the Linear Pottery culture slightly later than the Near East, circa 5500–4500 BC. In the ancient Western Mediterranean elaborately painted earthenware reached very high levels of artistic achievement in the Greek world; there are large numbers of survivals from tombs. Minoan pottery was characterized by complex painted decoration with natural themes.[51] The classical Greek culture began to emerge around 1000 BC featuring a variety of well crafted pottery which now included the human form as a decorating motif. The pottery wheel was now in regular use. Although glazing was known to these potters, it was not widely used. Instead, a more porous clay slip was used for decoration. A wide range of shapes for different uses developed early and remained essentially unchanged during Greek history.[52]
 
 Fine Etruscan pottery was heavily influenced by Greek pottery and often imported Greek potters and painters. Ancient Roman pottery made much less use of painting, but used moulded decoration, allowing industrialized production on a huge scale. Much of the so-called red Samian ware of the Early Roman Empire was in fact produced in modern Germany and France, where entrepreneurs established large potteries.
 
@@ -191,7 +191,7 @@ Pottery was hardly seen on the tables of elites from Hellenistic times until the
 
 Islamic pottery
 
-Spherical_Hanging_Ornament,_1575-1585.jpg Period. Brooklyn Museum.]] Mendel_II_071_r.jpg Early Islamic pottery followed the forms of the regions which the Muslims conquered. Eventually, however, there was cross-fertilization between the regions. This was most notable in the Chinese influences on Islamic pottery. Trade between China and Islam took place via the system of trading posts over the lengthy Silk Road. Islamic nations imported stoneware and later porcelain from China. China imported the minerals for Cobalt blue from the Islamic ruled Persia to decorate their blue and white porcelain, which they then exported to the Islamic world.
+Period. Brooklyn Museum.]] Early Islamic pottery followed the forms of the regions which the Muslims conquered. Eventually, however, there was cross-fertilization between the regions. This was most notable in the Chinese influences on Islamic pottery. Trade between China and Islam took place via the system of trading posts over the lengthy Silk Road. Islamic nations imported stoneware and later porcelain from China. China imported the minerals for Cobalt blue from the Islamic ruled Persia to decorate their blue and white porcelain, which they then exported to the Islamic world.
 
 Likewise, Islamic art contributed to a lasting pottery form identified as Hispano-Moresque in Andalucia (Islamic Spain). Unique Islamic forms were also developed, including fritware, lusterware and specialized glazes like tin-glazing, which led to the development of the popular maiolica.[53]
 
@@ -222,14 +222,14 @@ The Indigenous Australians never developed pottery.[62] After Europeans came to 
 
 Archaeology
 
-Working_with_the_pottery.jpg, Poland]] The study of pottery can help to provide an insight into past cultures. Pottery is durable, and fragments, at least, often survive long after artefacts made from less-durable materials have decayed past recognition. Combined with other evidence, the study of pottery artefacts is helpful in the development of theories on the organisation, economic condition and the cultural development of the societies that produced or acquired pottery. The study of pottery may also allow inferences to be drawn about a culture's daily life, religion, social relationships, attitudes towards neighbours, attitudes to their own world and even the way the culture understood the universe.
+, Poland]] The study of pottery can help to provide an insight into past cultures. Pottery is durable, and fragments, at least, often survive long after artefacts made from less-durable materials have decayed past recognition. Combined with other evidence, the study of pottery artefacts is helpful in the development of theories on the organisation, economic condition and the cultural development of the societies that produced or acquired pottery. The study of pottery may also allow inferences to be drawn about a culture's daily life, religion, social relationships, attitudes towards neighbours, attitudes to their own world and even the way the culture understood the universe.
 
 Chronologies based on pottery are often essential for dating non-literate cultures and are often of help in the dating of historic cultures as well. Trace-element analysis, mostly by neutron activation, allows the sources of clay to be accurately identified and the thermoluminescence test can be used to provide an estimate of the date of last firing. Examining fired pottery shards from prehistory, scientists learned that during high-temperature firing, iron materials in clay record the exact state of Earth's magnetic field at that exact moment.
 
 
 Environmental issues in production
 
-At_the_potter's_workshop.webm Clay_pots_in_punjab_pakistan.JPG]]
+]]
 
 Although many of the environmental effects of pottery production have existed for millennia, some of these have been amplified with modern technology and scales of production. The principal factors for consideration fall into two categories: (a) effects on workers, and (b) effects on the general environment. Within the effects on workers, chief impacts are indoor air quality, sound levels and possible over-illumination. Regarding the general environment, factors of interest are fuel consumption, off-site water pollution, air pollution and disposal of hazardous materials.
 

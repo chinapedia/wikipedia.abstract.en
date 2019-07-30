@@ -17,8 +17,6 @@ Bentham, in discussing the relations of law and morality, found that when people
 
 Moore's discussion
 
-Principia_Ethica_title_page.png
-
 According to G. E. Moore's _Principia Ethica_, when philosophers try to define _good_ reductively, in terms of natural properties like _pleasant_ or _desirable_, they are committing the naturalistic fallacy.
 
 In defense of ethical non-naturalism, Moore's argument is concerned with the semantic and metaphysical underpinnings of ethics. In general, opponents of ethical naturalism reject ethical conclusions drawn from natural facts.

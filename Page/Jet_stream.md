@@ -1,5 +1,3 @@
-Aerial_Superhighway.ogv Straalstroom.jpg
-
 JET STREAMS are fast flowing, narrow, meandering air currents in the atmospheres of some planets, including Earth.[1] On Earth, the main jet streams are located near the altitude of the tropopause and are westerly winds (flowing west to east). Their paths typically have a meandering shape. Jet streams may start, stop, split into two or more parts, combine into one stream, or flow in various directions including opposite to the direction of the remainder of the jet.
 
 The strongest jet streams are the POLAR JETS, at above sea level, and the higher altitude and somewhat weaker SUBTROPICAL JETS at . The Northern Hemisphere and the Southern Hemisphere each have a polar jet and a subtropical jet. The northern hemisphere polar jet flows over the middle to northern latitudes of North America, Europe, and Asia and their intervening oceans, while the southern hemisphere polar jet mostly circles Antarctica all year round.
@@ -33,13 +31,9 @@ After the 1883 eruption of the Krakatoa volcano, weather watchers tracked and ma
 
 Description
 
-Jetstreamconfig.jpg lang=en
-
 Polar jet streams are typically located near the 250 hPa (about 1/4 atmosphere) pressure level, or above sea level, while the weaker subtropical jet streams are much higher, between . Jet streams wander laterally dramatically, and have large changes in their altitude. The jet streams form near breaks in the tropopause, at the transitions between the Polar, Ferrel and Hadley circulation cells, and whose circulation, with the Coriolis force acting on those masses, drives the jet streams. The Polar jets, at lower altitude, and often intruding into mid-latitudes, strongly affect weather and aviation.[12][13] The polar jet stream is most commonly found between latitudes 30° and 60° (closer to 60°), while the subtropical jet streams are located close to latitude 30°. These two jets merge at some locations and times, while at other times they are well separated. The northern Polar jet stream is said to "follow the sun" as it slowly migrates northward as that hemisphere warms, and southward again as it cools.[14][15]
 
 The width of a jet stream is typically a few hundred kilometres or miles and its vertical thickness often less than .[16]
-
-Jetstream_-_Rossby_Waves_-_N_hemisphere.svg
 
 Jet streams are typically continuous over long distances, but discontinuities are common.[17] The path of the jet typically has a meandering shape, and these meanders themselves propagate eastward, at lower speeds than that of the actual wind within the flow. Each large meander, or wave, within the jet stream is known as a Rossby wave (planetary wave). Rossby waves are caused by changes in the Coriolis effect with latitude. Shortwave troughs, are smaller scale waves superimposed on the Rossby waves, with a scale of long,[18] that move along through the flow pattern around large scale, or longwave, "ridges" and "troughs" within Rossby waves.[19] Jet streams can split into two when they encounter an upper-level low, that diverts a portion of the jet stream under its base, while the remainder of the jet moves by to its north.
 
@@ -49,8 +43,6 @@ The jet stream moves from West to East bringing changes of weather.[22] Meteorol
 
 
 Cause
-
-Earth_Global_Circulation_-_en.svg
 
 In general, winds are strongest immediately under the tropopause (except locally, during tornadoes, tropical cyclones or other anomalous situations). If two air masses of different temperatures or densities meet, the resulting pressure difference caused by the density difference (which ultimately causes wind) is highest within the transition zone. The wind does not flow directly from the hot to the cold area, but is deflected by the Coriolis effect and flows along the boundary of the two air masses.[26]
 
@@ -73,7 +65,7 @@ Some effects
 
 Hurricane protection
 
-Jet_Stream_Rigs_Apart_Flossie_2.jpg over Hawaii in 2007. Note the large band of moisture that developed East of Hawaii Island that came from the hurricane.]] The subtropical jet stream rounding the base of the mid-oceanic upper trough is thought to be one of the reasons most of the Hawaiian Islands have been resistant to the long list of Hawaii hurricanes that have approached. For example, when Hurricane Flossie (2007) approached and dissipated just before reaching landfall, the U.S. National Oceanic and Atmospheric Administration (NOAA) cited vertical wind shear as evidenced in the photo.[31]
+over Hawaii in 2007. Note the large band of moisture that developed East of Hawaii Island that came from the hurricane.]] The subtropical jet stream rounding the base of the mid-oceanic upper trough is thought to be one of the reasons most of the Hawaiian Islands have been resistant to the long list of Hawaii hurricanes that have approached. For example, when Hurricane Flossie (2007) approached and dissipated just before reaching landfall, the U.S. National Oceanic and Atmospheric Administration (NOAA) cited vertical wind shear as evidenced in the photo.[31]
 
 
 Uses
@@ -82,7 +74,7 @@ On Earth, the northern polar jet stream is the most important one for aviation a
 
 Aviation
 
-Greatcircle_Jetstream_routes.svg and Los Angeles using the jet stream eastbound and a great circle route westbound.]] The location of the jet stream is extremely important for aviation. Commercial use of the jet stream began on 18 November 1952, when Pan Am flew from Tokyo to Honolulu at an altitude of . It cut the trip time by over one-third, from 18 to 11.5 hours.[32] Not only does it cut time off the flight, it also nets fuel savings for the airline industry.[33] Within North America, the time needed to fly east across the continent can be decreased by about 30 minutes if an airplane can fly with the jet stream, or increased by more than that amount if it must fly west against it.
+and Los Angeles using the jet stream eastbound and a great circle route westbound.]] The location of the jet stream is extremely important for aviation. Commercial use of the jet stream began on 18 November 1952, when Pan Am flew from Tokyo to Honolulu at an altitude of . It cut the trip time by over one-third, from 18 to 11.5 hours.[32] Not only does it cut time off the flight, it also nets fuel savings for the airline industry.[33] Within North America, the time needed to fly east across the continent can be decreased by about 30 minutes if an airplane can fly with the jet stream, or increased by more than that amount if it must fly west against it.
 
 Associated with jet streams is a phenomenon known as clear-air turbulence (CAT), caused by vertical and horizontal wind shear caused by jet streams.[34] The CAT is strongest on the cold air side of the jet,[35] next to and just under the axis of the jet.[36] Clear-air turbulence can cause aircraft to plunge and so present a passenger safety hazard that has caused fatal accidents, such as the death of one passenger on United Airlines Flight 826.[37][38]
 
@@ -99,7 +91,7 @@ Changes due to climate cycles
 
 Effects of ENSO
 
-El_nino_north_american_weather.png and La Niña on North America]] El Niño-Southern Oscillation (ENSO) influences the average location of upper-level jet streams, and leads to cyclical variations in precipitation and temperature across North America, as well as affecting tropical cyclone development across the eastern Pacific and Atlantic basins. Combined with the Pacific Decadal Oscillation, ENSO can also impact cold season rainfall in Europe.[43] Changes in ENSO also change the location of the jet stream over South America, which partially affects precipitation distribution over the continent.[44]
+and La Niña on North America]] El Niño-Southern Oscillation (ENSO) influences the average location of upper-level jet streams, and leads to cyclical variations in precipitation and temperature across North America, as well as affecting tropical cyclone development across the eastern Pacific and Atlantic basins. Combined with the Pacific Decadal Oscillation, ENSO can also impact cold season rainfall in Europe.[43] Changes in ENSO also change the location of the jet stream over South America, which partially affects precipitation distribution over the continent.[44]
 
 El Niño
 

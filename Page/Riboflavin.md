@@ -7,7 +7,7 @@ Riboflavin was discovered in 1920, isolated in 1933, and first made in 1935.[13]
 
 Medical uses
 
-Riboflavin_solution.jpg Corneal ectasia is a progressive thinning of the cornea; the most common form of this condition is keratoconus. Collagen cross-linking by applying riboflavin topically then shining UV light is a method to slow progression of corneal ectasia by strengthening corneal tissue.[17]
+Corneal ectasia is a progressive thinning of the cornea; the most common form of this condition is keratoconus. Collagen cross-linking by applying riboflavin topically then shining UV light is a method to slow progression of corneal ectasia by strengthening corneal tissue.[17]
 
 As of 2017 a system is marketed by Terumo in Europe that is used to remove pathogens from blood; donated blood is treated with riboflavin and then with ultraviolet light.[18]
 
@@ -135,14 +135,14 @@ As a chemical compound, riboflavin is a yellow-orange solid substance with poor 
 
 Industrial uses
 
-Riboflavinspectra.jpg RiboflavinSolution.jpgs that will show the passage of a visible laser beam.]]RiboflavinSolutionAndBlueLaser.JPG
+s that will show the passage of a visible laser beam.]]
 
 Because riboflavin is fluorescent under UV light, dilute solutions (0.015–0.025% w/w) are often used to detect leaks or to demonstrate coverage in an industrial system such a chemical blend tank or bioreactor. (See the ASME BPE section on Testing and Inspection for additional details.)
 
 
 Industrial synthesis
 
-Micrococcus_riboflavin.jpg The industrial scale production of riboflavin using diverse microorganisms, including filamentous fungi such as _Ashbya gossypii_, _Candida famata_ and _Candida flaveri_, as well as the bacteria _Corynebacterium ammoniagenes_ and _Bacillus subtilis_.[62] The latter organism, genetically modified to both increase the production of riboflavin and to introduce an antibiotic (ampicillin) resistance marker, is employed at a commercial scale to produce riboflavin for feed and food fortification. The chemical company BASF has installed a plant in South Korea, which is specialized on riboflavin production using _Ashbya gossypii_. The concentrations of riboflavin in their modified strain are so high that the mycelium has a reddish/brownish color and accumulates riboflavin crystals in the vacuoles, which will eventually burst the mycelium. Riboflavin is sometimes overproduced, possibly as a protective mechanism, by some bacteria in the presence of high concentrations of hydrocarbons or aromatic compounds. One such organism is _Micrococcus luteus_ (American Type Culture Collection strain number ATCC 49442), which develops a yellow color due to production of riboflavin while growing on pyridine, but not when grown on other substrates, such as succinic acid.[63]
+The industrial scale production of riboflavin using diverse microorganisms, including filamentous fungi such as _Ashbya gossypii_, _Candida famata_ and _Candida flaveri_, as well as the bacteria _Corynebacterium ammoniagenes_ and _Bacillus subtilis_.[62] The latter organism, genetically modified to both increase the production of riboflavin and to introduce an antibiotic (ampicillin) resistance marker, is employed at a commercial scale to produce riboflavin for feed and food fortification. The chemical company BASF has installed a plant in South Korea, which is specialized on riboflavin production using _Ashbya gossypii_. The concentrations of riboflavin in their modified strain are so high that the mycelium has a reddish/brownish color and accumulates riboflavin crystals in the vacuoles, which will eventually burst the mycelium. Riboflavin is sometimes overproduced, possibly as a protective mechanism, by some bacteria in the presence of high concentrations of hydrocarbons or aromatic compounds. One such organism is _Micrococcus luteus_ (American Type Culture Collection strain number ATCC 49442), which develops a yellow color due to production of riboflavin while growing on pyridine, but not when grown on other substrates, such as succinic acid.[63]
 
 
 History

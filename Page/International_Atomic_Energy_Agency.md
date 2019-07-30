@@ -9,8 +9,6 @@ The IAEA and its former Director General, Mohamed ElBaradei, were jointly awarde
 
 History
 
-Iaea-vienna.JPG
-
 In 1953, the President of the United States, Dwight D. Eisenhower, proposed the creation of an international body to both regulate and promote the peaceful use of atomic power (nuclear power), in his Atoms for Peace address to the UN General Assembly.[3][4] In September 1954, the United States proposed to the General Assembly the creation of an international agency to take control of fissile material, which could be used either for nuclear power or for nuclear weapons. This agency would establish a kind of "nuclear bank."
 
 The United States also called for an international scientific conference on all of the peaceful aspects of nuclear power.[5] By November 1954, it had become clear that the Soviet Union would reject any international custody of fissile material if the United States did not agree to a disarmament first, but that a _clearing house_ for nuclear transactions might be possible. From 8 to 20 August 1955, the United Nations held the International Conference on the Peaceful Uses of Atomic Energy in Geneva, Switzerland. In October 1957, a Conference on the IAEA Statute was held at the Headquarters of the United Nations to approve the founding document for the IAEA, which was negotiated in 1955–1957 by a group of twelve countries.[6] The Statute of the IAEA was approved on 23 October 1956 and came into force on 29 July 1957.[7]
@@ -27,8 +25,6 @@ defeating Abdul Samad Minty of South Africa and Luis E. Echávarri of Spain. On 
 
 
 Structure and function
-
-Iaea-vienna-05.jpg
 
 General
 
@@ -87,7 +83,7 @@ The Department of Safeguards is responsible for carrying out this mission, throu
 
 Nuclear safety
 
-International_policy_system_radiological_protection.png The IAEA classifies safety as one of its top three priorities. It spends 8.9 percent of its 352 million-euro ($469 million) regular budget in 2011 on making plants secure from accidents. Its resources are used on the other two priorities: technical co-operation and preventing nuclear weapons proliferation.[30]
+The IAEA classifies safety as one of its top three priorities. It spends 8.9 percent of its 352 million-euro ($469 million) regular budget in 2011 on making plants secure from accidents. Its resources are used on the other two priorities: technical co-operation and preventing nuclear weapons proliferation.[30]
 
 The IAEA itself says that, beginning in 1986, in response to the nuclear reactor explosion and disaster near Chernobyl, Ukraine, the IAEA redoubled its efforts in the field of nuclear safety.[31] The IAEA says that the same happened after the Fukushima disaster in Fukushima, Japan.[32]
 

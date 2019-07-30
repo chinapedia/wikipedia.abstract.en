@@ -1,4 +1,4 @@
-CourtGavel.JPGs of law ask "what is law, and what should it be?"]]
+s of law ask "what is law, and what should it be?"]]
 
 JURISPRUDENCE or LEGAL THEORY is the theoretical study of law. Scholars of jurisprudence seek to explain the nature of law in its most general form and provide a deeper understanding of legal reasoning, legal systems, legal institutions, and the role of law in society.[1]
 
@@ -44,7 +44,7 @@ Strongly related to theories of natural law are classical theories of justice, b
 
 Aristotle
 
-Francesco_Hayez_001.jpg, by Francesco Hayez]] Aristotle is often said to be the father of natural law.[12] Like his philosophical forefathers Socrates and Plato, Aristotle posited the existence of natural justice or natural right (_dikaion physikon_, _δικαίον φυσικόν_, Latin _ius naturale_). His association with natural law is largely due to how he was interpreted by Thomas Aquinas.[13] This was based on Aquinas' conflation of natural law and natural right, the latter of which Aristotle posits in Book V of the _Nicomachean Ethics_ (Book IV of the _Eudemian Ethics_). Aquinas's influence was such as to affect a number of early translations of these passages,[14] though more recent translations render them more literally.[15]
+, by Francesco Hayez]] Aristotle is often said to be the father of natural law.[12] Like his philosophical forefathers Socrates and Plato, Aristotle posited the existence of natural justice or natural right (_dikaion physikon_, _δικαίον φυσικόν_, Latin _ius naturale_). His association with natural law is largely due to how he was interpreted by Thomas Aquinas.[13] This was based on Aquinas' conflation of natural law and natural right, the latter of which Aristotle posits in Book V of the _Nicomachean Ethics_ (Book IV of the _Eudemian Ethics_). Aquinas's influence was such as to affect a number of early translations of these passages,[14] though more recent translations render them more literally.[15]
 
 Aristotle's theory of justice is bound up in his idea of the golden mean. Indeed, his treatment of what he calls "political justice" derives from his discussion of "the just" as a moral virtue derived as the mean between opposing vices, just like every other virtue he describes.[16] His longest discussion of his theory of justice occurs in _Nicomachean Ethics_ and begins by asking what sort of mean a just act is. He argues that the term "justice" actually refers to two different but related ideas: general justice and particular justice.[17][18] When a person's actions toward others are completely virtuous in all matters, Aristotle calls them "just" in the sense of "general justice"; as such, this idea of justice is more or less coextensive with virtue.[19] "Particular" or "partial justice", by contrast, is the part of "general justice" or the individual virtue that is concerned with treating others equitably.[20]
 
@@ -54,7 +54,7 @@ The best evidence of Aristotle's having thought there was a natural law comes fr
 
 Thomas Aquinas
 
-St-thomas-aquinas.jpg was the most influential Western medieval legal scholar]]
+was the most influential Western medieval legal scholar]]
 
 Thomas Aquinas is the foremost classical proponent of natural theology, and the father of the Thomistic school of philosophy, for a long time the primary philosophical approach of the Roman Catholic Church. The work for which he is best known is the _Summa Theologica_. One of the thirty-five Doctors of the Church, he is considered by many Catholics to be the Church's greatest theologian. Consequently, many institutions of learning have been named after him.
 
@@ -110,7 +110,7 @@ Hobbes was a social contractarian[36] and believed that the law had peoples' tac
 
 Bentham and Austin
 
-Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg utilitarian theories remained dominant in law until the twentieth century]]
+utilitarian theories remained dominant in law until the twentieth century]]
 
 John Austin and Jeremy Bentham were early legal positivists who sought to provide a descriptive account of law that describes the law as it is. Austin explained the descriptive focus for legal positivism by saying, "The existence of law is one thing; its merit and demerit another. Whether it be or be not is one enquiry; whether it be or be not conformable to an assumed standard, is a different enquiry."[38] For Austin and Bentham, a society is governed by a sovereign who has de facto authority. Through the sovereign's authority come laws, which for Austin and Bentham are commands backed by sanctions for non-compliance. Along with Hume, Bentham was an early and staunch supporter of the utilitarian concept, and was an avid prison reformer, advocate for democracy, and firm atheist. Bentham's views about law and jurisprudence were popularized by his student John Austin. Austin was the first chair of law at the new University of London, from 1829. Austin's utilitarian answer to "what is law?" was that law is "commands, backed by threat of sanctions, from a sovereign, to whom people have a habit of obedience".[39] HLA Hart criticized Austin and Bentham's early legal positivism because the command theory failed to account for individual's compliance with the law.
 
@@ -132,7 +132,7 @@ Joseph Raz's theory of legal positivism argues against the incorporation of mora
 
 Legal realism
 
-Oliver_Wendell_Holmes_Jr_circa_1930-edit.jpg was a self-styled legal realist]]
+was a self-styled legal realist]]
 
 Legal realism is the view that a theory of law should be descriptive and account for the reasons why judges decide cases as they do.[49] Legal realism had some affinities with the sociology of law and sociological jurisprudence. The essential tenet of legal realism is that all law is made by humans and thus should account for reasons besides legal rules that led to a legal decision.
 
@@ -171,7 +171,7 @@ In addition to the question, "What is law?", legal philosophy is also concerned 
 
 Virtue jurisprudence
 
-Sanzio_01_Plato_Aristotle.jpg (left) and Aristotle (right), a detail of _The School of Athens_]]
+(left) and Aristotle (right), a detail of _The School of Athens_]]
 
 Aretaic moral theories, such as contemporary virtue ethics, emphasize the role of character in morality. Virtue jurisprudence is the view that the laws should promote the development of virtuous character in citizens. Historically, this approach has been mainly associated with Aristotle or Thomas Aquinas. Contemporary virtue jurisprudence is inspired by philosophical work on virtue ethics.
 
@@ -181,7 +181,7 @@ Deontology is the "theory of duty or moral obligation".[63] The philosopher Imma
 
 Utilitarianism
 
-JohnStuartMill.JPG believed law should create happiness]]
+believed law should create happiness]]
 
 Utilitarianism is the view that the laws should be crafted so as to produce the best consequences for the greatest number of people. Historically, utilitarian thinking about law has been associated with the philosopher Jeremy Bentham. John Stuart Mill was a pupil of Bentham's and was the torch bearer for utilitarian philosophy throughout the late nineteenth century.[64] In contemporary legal theory, the utilitarian approach is frequently championed by scholars who work in the law and economics tradition.[65]
 

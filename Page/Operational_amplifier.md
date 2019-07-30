@@ -9,7 +9,7 @@ The op-amp is one type of differential amplifier. Other types of differential am
 
 Operation
 
-Op-amp_open-loop_1.svg The amplifier's differential inputs consist of a non-inverting input (+) with voltage _V_₊ and an inverting input (–) with voltage _V__(−); ideally the op-amp amplifies only the difference in voltage between the two, which is called the _differential input voltage_. The output voltage of the op-amp _V__(out) is given by the equation
+The amplifier's differential inputs consist of a non-inverting input (+) with voltage _V_₊ and an inverting input (–) with voltage _V__(−); ideally the op-amp amplifies only the difference in voltage between the two, which is called the _differential input voltage_. The output voltage of the op-amp _V__(out) is given by the equation
 
 _V__(out) = _A__(OL)(_V_₊ − _V__(−)),
 where _A__(OL) is the open-loop gain of the amplifier (the term "open-loop" refers to the absence of a feedback loop from the output to the input).
@@ -22,7 +22,7 @@ Without negative feedback, and perhaps with positive feedback for regeneration, 
 
 Closed-loop amplifier
 
-Operational_amplifier_noninverting.svg If predictable operation is desired, negative feedback is used, by applying a portion of the output voltage to the inverting input. The _closed-loop_ feedback greatly reduces the gain of the circuit. When negative feedback is used, the circuit's overall gain and response becomes determined mostly by the feedback network, rather than by the op-amp characteristics. If the feedback network is made of components with values small relative to the op amp's input impedance, the value of the op-amp's open-loop response _A__(OL) does not seriously affect the circuit's performance. The response of the op-amp circuit with its input, output, and feedback circuits to an input is characterized mathematically by a transfer function; designing an op-amp circuit to have a desired transfer function is in the realm of electrical engineering. The transfer functions are important in most applications of op-amps, such as in analog computers. High input impedance at the input terminals and low output impedance at the output terminal(s) are particularly useful features of an op-amp.
+If predictable operation is desired, negative feedback is used, by applying a portion of the output voltage to the inverting input. The _closed-loop_ feedback greatly reduces the gain of the circuit. When negative feedback is used, the circuit's overall gain and response becomes determined mostly by the feedback network, rather than by the op-amp characteristics. If the feedback network is made of components with values small relative to the op amp's input impedance, the value of the op-amp's open-loop response _A__(OL) does not seriously affect the circuit's performance. The response of the op-amp circuit with its input, output, and feedback circuits to an input is characterized mathematically by a transfer function; designing an op-amp circuit to have a desired transfer function is in the realm of electrical engineering. The transfer functions are important in most applications of op-amps, such as in analog computers. High input impedance at the input terminals and low output impedance at the output terminal(s) are particularly useful features of an op-amp.
 
 In the non-inverting amplifier on the right, the presence of negative feedback via the voltage divider _R__(f), _R__(g) determines the _closed-loop gain_ _A__(CL) = _V__(out) / _V__(in). Equilibrium will be established when _V__(out) is just sufficient to "reach around and pull" the inverting input to the same voltage as _V__(in). The voltage gain of the entire circuit is thus 1 + _R__(f)/_R__(g). As a simple example, if _V__(in) = 1 V and R_(f) = _R__(g), _V__(out) will be 2 V, exactly the amount required to keep _V__(−) at 1 V. Because of the feedback provided by the _R__(f), _R__(g) network, this is a _closed-loop_ circuit.
 
@@ -47,8 +47,6 @@ By combining terms, we determine the closed-loop gain _A__(CL):
 Op-amp characteristics
 
 Ideal op-amps
-
-Op-Amp_Internal.svg
 
 An ideal op-amp is usually considered to have the following characteristics:[4][5]
 
@@ -111,8 +109,6 @@ Power-supply rejection: With increasing frequency the power-supply rejection usu
 
 Non-linear imperfections
 
-Inverting_Amplifier_Signal_Clipping.png
-
 Saturation:Output voltage is limited to a minimum and maximum value close to the power supply voltages.[10] The output of older op-amps can reach to within one or two volts of the supply rails. The output of newer so-called "rail to rail" op-amps can reach to within millivolts of the supply rails when providing low output currents.
 Slewing: The amplifier's output voltage reaches its maximum rate of change, the slew rate, usually specified in volts per microsecond. When slewing occurs, further increases in the input signal have no effect on the rate of change of the output. Slewing is usually caused by the input stage saturating; the result is a constant current  driving a capacitance  in the amplifier (especially those capacitances used to implement its frequency compensation); the slew rate is limited by  _i_/_C_}}. Slewing is associated with the _large-signal_ performance of an op-amp. Consider, for example, an op-amp configured for a gain of 10. Let the input be a 1V, 100 kHz sawtooth wave. That is, the amplitude is 1V and the period is 10 microseconds. Accordingly, the rate of change (i.e., the slope) of the input is 0.1V per microsecond. After 10× amplification, the output should be a 10V, 100 kHz sawtooth, with a corresponding slew rate of 1V per microsecond. However, the classic 741 op-amp has a 0.5V per microsecond slew rate specification, so that its output can rise to no more than 5V in the sawtooth's 10 microsecond period. Thus, if one were to measure the output, it would be a 5V, 100 kHz sawtooth, rather than a 10V, 100 kHz sawtooth.Next consider the same amplifier and 100 kHz sawtooth, but now the input amplitude is 100mV rather than 1V. After 10× amplification the output is a 1V, 100 kHz sawtooth with a corresponding slew rate of 0.1V per microsecond. In this instance, the 741 with its 0.5V per microsecond slew rate will amplify the input properly. Modern high speed op-amps can have slew rates in excess of 5,000V per microsecond. However, it is more common for op-amps to have slew rates in the range 5–100V per microsecond. For example, the general purpose TL081 op-amp has a slew rate of 13V per microsecond. As a general rule, low power and small bandwidth op-amps have low slew rates. As an example, the LT1494 micropower op-amp consumes 1.5 microamp but has a 2.7 kHz gain-bandwidth product and a 0.001V per microsecond slew rate.
 
@@ -134,7 +130,7 @@ Modern integrated FET or MOSFET op-amps approximate more closely the ideal op-am
 
 Internal circuitry of 741-type op-amp
 
-OpAmpTransistorLevel_Colored_Labeled.svgs; differential amplifier; class A gain stage; voltage level shifter; output stage.]] Sourced by many manufacturers, and in multiple similar products, an example of a bipolar transistor operational amplifier is the 741 integrated circuit designed in 1968 by David Fullagar at Fairchild Semiconductor after Bob Widlar's LM301 integrated circuit design.[11] In this discussion, we use the parameters of the Hybrid-pi model to characterize the small-signal, grounded emitter characteristics of a transistor. In this model, the current gain of a transistor is denoted _h__(fe), more commonly called the β.[12]
+s; differential amplifier; class A gain stage; voltage level shifter; output stage.]] Sourced by many manufacturers, and in multiple similar products, an example of a bipolar transistor operational amplifier is the 741 integrated circuit designed in 1968 by David Fullagar at Fairchild Semiconductor after Bob Widlar's LM301 integrated circuit design.[11] In this discussion, we use the parameters of the Hybrid-pi model to characterize the small-signal, grounded emitter characteristics of a transistor. In this model, the current gain of a transistor is denoted _h__(fe), more commonly called the β.[12]
 
 Architecture
 
@@ -290,7 +286,7 @@ IC op-amps may be classified in many ways, including:
 
 Applications
 
-Generic_741_pinout_top.png pinout for 741-type operational amplifier]]
+pinout for 741-type operational amplifier]]
 
 Use in electronics system design
 
@@ -312,8 +308,6 @@ A _zero voltage level detector_ (_E__(i) = 0) can convert, for example, the outp
 
 Positive-feedback applications
 
-Op-Amp_Schmitt_Trigger.svg
-
 Another typical configuration of op-amps is with positive feedback, which takes a fraction of the output signal back to the non-inverting input. An important application of it is the comparator with hysteresis, the Schmitt trigger. Some circuits may use _positive_ feedback and _negative_ feedback around the same amplifier, for example triangle-wave oscillators and active filters.
 
 Because of the wide slew range and lack of positive feedback, the response of all the open-loop level detectors described above will be relatively slow. External overall positive feedback may be applied, but (unlike internal positive feedback that may be applied within the latter stages of a purpose-designed comparator) this markedly affects the accuracy of the zero-crossing detection point. Using a general-purpose op-amp, for example, the frequency of _E__(i) for the sine to square wave converter should probably be below 100 Hz.
@@ -322,7 +316,7 @@ Negative-feedback applications
 
 Non-inverting amplifier
 
-Op-Amp_Non-Inverting_Amplifier.svg In a non-inverting amplifier, the output voltage changes in the same direction as the input voltage.
+In a non-inverting amplifier, the output voltage changes in the same direction as the input voltage.
 
 The gain equation for the op-amp is
 
@@ -353,8 +347,6 @@ $$V_\text{out} \approx \frac{V_\text{in}}{\beta}
 The non-inverting input of the operational amplifier needs a path for DC to ground; if the signal source does not supply a DC path, or if that source requires a given load impedance, then the circuit will require another resistor from the non-inverting input to ground. When the operational amplifier's input bias currents are significant, then the DC source resistances driving the inputs should be balanced.[18] The ideal value for the feedback resistors (to give minimal offset voltage) will be such that the two resistances in parallel roughly equal the resistance to ground at the non-inverting input pin. That ideal value assumes the bias currents are well matched, which may not be true for all op-amps.[19]
 
 Inverting amplifier
-
-Op-Amp_Inverting_Amplifier.svg
 
 In an inverting amplifier, the output voltage changes in an opposite direction to the input voltage.
 
@@ -405,21 +397,15 @@ Historical timeline
 
 1941: A VACUUM TUBE OP-AMP. An op-amp, defined as a general-purpose, DC-coupled, high gain, inverting feedback amplifier, is first found in "Summing Amplifier" filed by Karl D. Swartzel Jr. of Bell Labs in 1941. This design used three vacuum tubes to achieve a gain of and operated on voltage rails of . It had a single inverting input rather than differential inverting and non-inverting inputs, as are common in today's op-amps. Throughout World War II, Swartzel's design proved its value by being liberally used in the M9 artillery director designed at Bell Labs. This artillery director worked with the SCR584 radar system to achieve extraordinary hit rates (near 90%) that would not have been possible otherwise.[20]
 
-K2-w_Vacuum_Tube_Op-amp.jpg
-
 1947: AN OP-AMP WITH AN EXPLICIT NON-INVERTING INPUT. In 1947, the operational amplifier was first formally defined and named in a paper[21] by John R. Ragazzini of Columbia University. In this same paper a footnote mentioned an op-amp design by a student that would turn out to be quite significant. This op-amp, designed by Loebe Julie, was superior in a variety of ways. It had two major innovations. Its input stage used a long-tailed triode pair with loads matched to reduce drift in the output and, far more importantly, it was the first op-amp design to have two inputs (one inverting, the other non-inverting). The differential input made a whole range of new functionality possible, but it would not be used for a long time due to the rise of the chopper-stabilized amplifier.[22]
 
 1949: A CHOPPER-STABILIZED OP-AMP. In 1949, Edwin A. Goldberg designed a chopper-stabilized op-amp.[23] This set-up uses a normal op-amp with an additional AC amplifier that goes alongside the op-amp. The chopper gets an AC signal from DC by switching between the DC voltage and ground at a fast rate (60 Hz or 400 Hz). This signal is then amplified, rectified, filtered and fed into the op-amp's non-inverting input. This vastly improved the gain of the op-amp while significantly reducing the output drift and DC offset. Unfortunately, any design that used a chopper couldn't use their non-inverting input for any other purpose. Nevertheless, the much improved characteristics of the chopper-stabilized op-amp made it the dominant way to use op-amps. Techniques that used the non-inverting input regularly would not be very popular until the 1960s when op-amp ICs started to show up in the field.
 
 1953: A COMMERCIALLY AVAILABLE OP-AMP. In 1953, vacuum tube op-amps became commercially available with the release of the model K2-W from George A. Philbrick Researches, Incorporated. The designation on the devices shown, GAP/R, is an acronym for the complete company name. Two nine-pin 12AX7 vacuum tubes were mounted in an octal package and had a model K2-P chopper add-on available that would effectively "use up" the non-inverting input. This op-amp was based on a descendant of Loebe Julie's 1947 design and, along with its successors, would start the widespread use of op-amps in industry.
 
-Discrete_opamp.png
-
 1961: A DISCRETE IC OP-AMP. With the birth of the transistor in 1947, and the silicon transistor in 1954, the concept of ICs became a reality. The introduction of the planar process in 1959 made transistors and ICs stable enough to be commercially useful. By 1961, solid-state, discrete op-amps were being produced. These op-amps were effectively small circuit boards with packages such as edge connectors. They usually had hand-selected resistors in order to improve things such as voltage offset and drift. The P45 (1961) had a gain of 94 dB and ran on ±15 V rails. It was intended to deal with signals in the range of .
 
 1961: A VARACTOR BRIDGE OP-AMP. There have been many different directions taken in op-amp design. Varactor bridge op-amps started to be produced in the early 1960s.[24][25] They were designed to have extremely small input current and are still amongst the best op-amps available in terms of common-mode rejection with the ability to correctly deal with hundreds of volts at their inputs.
-
-Modular_opamp.png
 
 1962: AN OP-AMP IN A POTTED MODULE. By 1962, several companies were producing modular potted packages that could be plugged into printed circuit boards. These packages were crucially important as they made the operational amplifier into a single black box which could be easily treated as a component in a larger circuit.
 
@@ -427,13 +413,11 @@ Modular_opamp.png
 
 1968: RELEASE OF THE ΜA741. The popularity of monolithic op-amps was further improved upon the release of the LM101 in 1967, which solved a variety of issues, and the subsequent release of the μA741 in 1968. The μA741 was extremely similar to the LM101 except that Fairchild's facilities allowed them to include a 30 pF compensation capacitor inside the chip instead of requiring external compensation. This simple difference has made the 741 _the_ canonical op-amp and many modern amps base their pinout on the 741s. The μA741 is still in production, and has become ubiquitous in electronics—many manufacturers produce a version of this classic chip, recognizable by part numbers containing _741_. The same part is manufactured by several companies.
 
-1970: FIRST HIGH-SPEED, LOW-INPUT CURRENT FET DESIGN. In the 1970s high speed, low-input current designs started to be made by using FETs. These would be largely replaced by op-amps made with MOSFETs in the 1980s. Hybrid_opamp.png
+1970: FIRST HIGH-SPEED, LOW-INPUT CURRENT FET DESIGN. In the 1970s high speed, low-input current designs started to be made by using FETs. These would be largely replaced by op-amps made with MOSFETs in the 1980s.
 
 1972: SINGLE SIDED SUPPLY OP-AMPS BEING PRODUCED. A single sided supply op-amp is one where the input and output voltages can be as low as the negative power supply voltage instead of needing to be at least two volts above it. The result is that it can operate in many applications with the negative supply pin on the op-amp being connected to the signal ground, thus eliminating the need for a separate negative power supply.
 
 The LM324 (released in 1972) was one such op-amp that came in a quad package (four separate op-amps in one package) and became an industry standard. In addition to packaging multiple op-amps in a single package, the 1970s also saw the birth of op-amps in hybrid packages. These op-amps were generally improved versions of existing monolithic op-amps. As the properties of monolithic op-amps improved, the more complex hybrid ICs were quickly relegated to systems that are required to have extremely long service lives or other specialty systems.
-
-LM741CN.jpg
 
 RECENT TRENDS. Recently supply voltages in analog circuits have decreased (as they have in digital logic) and low-voltage op-amps have been introduced reflecting this. Supplies of 5 V and increasingly 3.3 V (sometimes as low as 1.8 V) are common. To maximize the signal range modern op-amps commonly have rail-to-rail output (the output signal can range from the lowest supply voltage to the highest) and sometimes rail-to-rail inputs. Recent "boomer" amplifiers such as the LM4871 and 8002 also have a shutdown feature, an internal power supply for biasing, and a bypass pin to connect a bypass capacitor for that power supply.
 

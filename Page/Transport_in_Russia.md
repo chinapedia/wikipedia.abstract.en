@@ -1,4 +1,4 @@
-Sapsan.JPG Siemens Velaro Sapsan train]] The TRANSPORT NETWORK OF THE RUSSIAN FEDERATION is one of the world's most extensive transport networks. The national web of roads, railways and airways stretches almost from Kaliningrad in the west to the Kamchatka Peninsula in the east, and major cities such as Moscow and Saint Petersburg are served by extensive rapid transit systems.
+Siemens Velaro Sapsan train]] The TRANSPORT NETWORK OF THE RUSSIAN FEDERATION is one of the world's most extensive transport networks. The national web of roads, railways and airways stretches almost from Kaliningrad in the west to the Kamchatka Peninsula in the east, and major cities such as Moscow and Saint Petersburg are served by extensive rapid transit systems.
 
 Russia has adopted two national transport strategies in recent years. On 12 May 2005, the Russian Ministry of Transport adopted the Transport Strategy of the Russian Federation to 2020. Three years later, on 22 November 2008, the Russian government adopted a revised strategy, extending to 2030.
 
@@ -7,9 +7,9 @@ The export of transport services is an important component of Russia’s GDP. Th
 
 Rail transport
 
-Elektrozavodskaya_(Электрозаводская)_(5083807053).jpg]]
+]]
 
-Russia has the world's third-largest railway network, behind only the United States and China,[1] with a total track length of as of 2011. of this uses a broad rail gauge of , while a narrow gauge of is used on a 957-km (595-mile) stretch of railway on Sakhalin Island. Electrified track accounts for around half of the Russian railway network — totalling — but carries the majority of railway traffic.[2] Locomotives_in_Oryol_depot.jpg Russian Railways, the state-owned national rail carrier, is one of the world's largest transport companies, enjoying a monopoly over rail transport in Russia. Established in 1992, it employs an estimated 950,000 people, and accounted for 2.5% of the entire national GDP in 2009.[3][4] In 2007 alone, Russian Railways carried a total of 1.3 billion passengers[5] and 1.3 billion tons of freight[6] on its common-carrier routes. Выборг._Аллегро_на_Финляндском_мосту.JPG trains near Vyborg]] Service_trams_in_Tula,_Russia.jpg]]
+Russia has the world's third-largest railway network, behind only the United States and China,[1] with a total track length of as of 2011. of this uses a broad rail gauge of , while a narrow gauge of is used on a 957-km (595-mile) stretch of railway on Sakhalin Island. Electrified track accounts for around half of the Russian railway network — totalling — but carries the majority of railway traffic.[2] Russian Railways, the state-owned national rail carrier, is one of the world's largest transport companies, enjoying a monopoly over rail transport in Russia. Established in 1992, it employs an estimated 950,000 people, and accounted for 2.5% of the entire national GDP in 2009.[3][4] In 2007 alone, Russian Railways carried a total of 1.3 billion passengers[5] and 1.3 billion tons of freight[6] on its common-carrier routes. trains near Vyborg]] ]]
 
 Rapid-transit systems
 
@@ -55,11 +55,11 @@ The state of Russia’s road system ranks 136th out of 144 countries evaluated. 
 
 Road safety
 
-Road_deaths_in_Russia,_2004-2016.png Road safety in Russia is poor, with a road accident rate higher than in Europe or the United States.[12] In 2011, Russia was 4th by number of absolute recorded road deaths.[13] Increasingly harsher penalties for traffic violations were imposed after 2008, but the level of corruption among traffic law enforcement authorities limits their effectiveness in reducing the number of accidents.[14] Dashcams are widespread, inasmuch as Russian courts prefer video evidence to eyewitness testimony, but also as a guard against police corruption and insurance fraud.[15]
+Road safety in Russia is poor, with a road accident rate higher than in Europe or the United States.[12] In 2011, Russia was 4th by number of absolute recorded road deaths.[13] Increasingly harsher penalties for traffic violations were imposed after 2008, but the level of corruption among traffic law enforcement authorities limits their effectiveness in reducing the number of accidents.[14] Dashcams are widespread, inasmuch as Russian courts prefer video evidence to eyewitness testimony, but also as a guard against police corruption and insurance fraud.[15]
 
 Fleet
 
-2008_M3_Russian_Highway_"Ukraine".jpg]] КАД_Санкт-Петербург.jpg road in St. Petersburg]] Usol_trambuild1.jpg Nishnytagil-trainstation-20070128.jpg railway station's parking lot during winter]] Belgorod_bus_09.jpg buses are the most common city buses in Russia]] After World War II, trucks and buses were manufactured for the socialist countries of Eastern Europe: Ikarus urban, intercity and tourist buses, Skoda buses and trucks, Industriewerke Ludwigsfelde and Robur trucks, Tatra, LIAZ, Praga V3S, Csepel, Avia and ZSD Nysa passenger vans and Zuk cargo vans). During the late 1950s OAF trucks were imported from the West, and Berliet T60 dump trucks were imported in 1969 to open the mine and ore-processing plant of Ai in the Orenburg Oblast. Tractors from Volvo and Mercedes-Benz NG were imported during the 1970s for the road-transport organization Sovtransavto. Unic-Fiat tractors were imported in the mid-1970s for the port of Leningrad, and Unit Rig and International Harvester Paystar dump trucks and cement mixers were used for the construction of irrigation canals from 1979 to 1983. Fawn ballast tractors were imported from 1970 to the 1980s, and Komatsu dump trucks began to be imported in 1979. Magirus bonneted flatbed trucks and dump trucks were used in 1975 for the construction of the Baikal–Amur Mainline (BAM).
+]] road in St. Petersburg]] railway station's parking lot during winter]] buses are the most common city buses in Russia]] After World War II, trucks and buses were manufactured for the socialist countries of Eastern Europe: Ikarus urban, intercity and tourist buses, Skoda buses and trucks, Industriewerke Ludwigsfelde and Robur trucks, Tatra, LIAZ, Praga V3S, Csepel, Avia and ZSD Nysa passenger vans and Zuk cargo vans). During the late 1950s OAF trucks were imported from the West, and Berliet T60 dump trucks were imported in 1969 to open the mine and ore-processing plant of Ai in the Orenburg Oblast. Tractors from Volvo and Mercedes-Benz NG were imported during the 1970s for the road-transport organization Sovtransavto. Unic-Fiat tractors were imported in the mid-1970s for the port of Leningrad, and Unit Rig and International Harvester Paystar dump trucks and cement mixers were used for the construction of irrigation canals from 1979 to 1983. Fawn ballast tractors were imported from 1970 to the 1980s, and Komatsu dump trucks began to be imported in 1979. Magirus bonneted flatbed trucks and dump trucks were used in 1975 for the construction of the Baikal–Amur Mainline (BAM).
 
 By the 1980 Summer Olympics in Moscow, priority was given to smaller cars (such as the Mercedes-Benz S-Class W116) as police cars, taxis and vans. However, most vehicles were Soviet-made cars: Moskvitch, GAZ-M20 Pobeda, GAZ, ZiL, VAZ, Izh and ZAZ automobiles, UAZ and LuAZ jeeps, RAF and ErAZ vans, GAZ, Kamaz, ZiL, MAZ, KrAZ, UralAZ, BelAZ and KAZ (Colkhides) trucks, KAvZ, PAZ, LiAZ and LAZ buses and ZiU trolleybuses.
 
@@ -86,7 +86,7 @@ According to the Russian Federal State Statistics Service, in 2013 the number of
 
 Waterways
 
-MurmanskHarbour.jpg]] Novo-2010-08-27-043.jpg]] According to the data from the Maritime Board (_Morskaya Kollegiya_) of the Russian Government, in 2004,[20] 136.6 million tons of cargo were carried that year over Russia's inland waterways, the total cargo transportation volume being 87,556.5 million ton-km. During that same year, 53 companies were engaged in carrying passengers over Russia's inland waterways; they transported 22.8 million passengers, the total volume of river passenger transportation being 841.1 million passenger-km.
+]] ]] According to the data from the Maritime Board (_Morskaya Kollegiya_) of the Russian Government, in 2004,[20] 136.6 million tons of cargo were carried that year over Russia's inland waterways, the total cargo transportation volume being 87,556.5 million ton-km. During that same year, 53 companies were engaged in carrying passengers over Russia's inland waterways; they transported 22.8 million passengers, the total volume of river passenger transportation being 841.1 million passenger-km.
 
 Black Sea and Sea of Azov
 
@@ -111,14 +111,14 @@ Astrakhan, Makhachkala.
 
 Pipelines
 
-Ceremony marking the start of construction of the Nord Stream gas pipeline’s underwater section in Vyborg with former Russian President Dmitry Medvedev Russia is home to the world's longest oil pipeline, the Druzhba pipeline and in fact one of the biggest oil pipeline networks in the world. It carries oil some from the eastern part of the European Russia to points in Ukraine, Belarus, Poland, Hungary, Slovakia, the Czech Republic and Germany. The network also branches out into numerous pipelines to deliver its product throughout the Eastern Europe and beyond. The name "Druzhba" means "friendship", alluding to the fact that the pipeline supplied oil to the energy-hungry western regions of the Soviet Union, to its "fraternal socialist allies" in the former Soviet bloc, and to western Europe. Today, it is the largest principal artery for the transportation of Russian (and Kazakh) oil across Europe.
+Russia is home to the world's longest oil pipeline, the Druzhba pipeline and in fact one of the biggest oil pipeline networks in the world. It carries oil some from the eastern part of the European Russia to points in Ukraine, Belarus, Poland, Hungary, Slovakia, the Czech Republic and Germany. The network also branches out into numerous pipelines to deliver its product throughout the Eastern Europe and beyond. The name "Druzhba" means "friendship", alluding to the fact that the pipeline supplied oil to the energy-hungry western regions of the Soviet Union, to its "fraternal socialist allies" in the former Soviet bloc, and to western Europe. Today, it is the largest principal artery for the transportation of Russian (and Kazakh) oil across Europe.
 
 On 29 October 2012 president Vladimir Putin instructed the general manager of Gazprom to start the construction of the pipeline. On 21 May 2014, Russia and China signed a 30-years gas deal which was need to make the project feasible. Construction was launched on 1 September 2014 in Yakutsk by president Putin and Chinese deputy premier minister Zhang Gaoli.[21][22]
 
 
 Air transport
 
-Intercity_public_transport_methods_in_Russia,_share_of_passenger_volume_(2010-2015).png Sheremetyevo_departures_schedule_table.jpg]] Air-to-air_photo_of_a_Sukhoi_Superjet_100_(RA-97004)_over_Italy.jpg]]
+]] ]]
 
 As of 2002, there were 2,743 airports in Russia.
 

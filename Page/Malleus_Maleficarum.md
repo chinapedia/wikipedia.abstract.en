@@ -48,7 +48,7 @@ The _Malleus Maleficarum_ consists of the following parts:
 
 Justification (_Apologia auctoris_)
 
-Lucifer_Liege_Luc_Viatour.jpg)'' by Guillaume Geefs (Cathedral of St. Paul, Liège, Belgium)]]
+)'' by Guillaume Geefs (Cathedral of St. Paul, Liège, Belgium)]]
 
 In this part it is briefly explained that prevalence of sorcery which is a method of Satan's final assault motivated authors to write the _Malleus Maleficarum_:
 
@@ -95,7 +95,7 @@ The second part is signed by those from the first signing and in addition by pro
 
 Main text
 
-J._Sprenger_and_H._Institutoris,_Malleus_maleficarum._Wellcome_L0000980.jpg The _Malleus Maleficarum_ asserts that three elements are necessary for witchcraft: the evil intentions of the witch, the help of the Devil, and the permission of God.[20] The treatise is divided into three sections. The first section is aimed at clergy and tries to refute critics who deny the reality of witchcraft, thereby hindering its prosecution.
+The _Malleus Maleficarum_ asserts that three elements are necessary for witchcraft: the evil intentions of the witch, the help of the Devil, and the permission of God.[20] The treatise is divided into three sections. The first section is aimed at clergy and tries to refute critics who deny the reality of witchcraft, thereby hindering its prosecution.
 
 The second section describes the actual forms of witchcraft and its remedies. The third section is to assist judges confronting and combating witchcraft, and to aid the inquisitors by removing the burden from them. Each of the three sections has the prevailing themes of what is witchcraft and who is a witch.
 
@@ -128,7 +128,7 @@ Importantly, Kramer and Sprenger were convinced that God would never permit an i
 
 Torture and confessions
 
-Wickiana5.jpg of three alleged witches in Baden, Switzerland (1585), by Johann Jakob Wick.]] The _Malleus_ recommended not only torture but also deception in order to obtain confessions: "And when the implements of torture have been prepared, the judge, both in person and through other good men zealous in the faith, tries to persuade the prisoner to confess the truth freely; but, if he will not confess, he bid attendants make the prisoner fast to the strappado or some other implement of torture. The attendants obey forthwith, yet with feigned agitation. Then, at the prayer of some of those present, the prisoner is loosed again and is taken aside and once more persuaded to confess, being led to believe that he will in that case not be put to death."
+of three alleged witches in Baden, Switzerland (1585), by Johann Jakob Wick.]] The _Malleus_ recommended not only torture but also deception in order to obtain confessions: "And when the implements of torture have been prepared, the judge, both in person and through other good men zealous in the faith, tries to persuade the prisoner to confess the truth freely; but, if he will not confess, he bid attendants make the prisoner fast to the strappado or some other implement of torture. The attendants obey forthwith, yet with feigned agitation. Then, at the prayer of some of those present, the prisoner is loosed again and is taken aside and once more persuaded to confess, being led to believe that he will in that case not be put to death."
 
 All confessions acquired with the use of torture had to be confirmed: "And note that, if he confesses under the torture, he must afterward be conducted to another place, that he may confirm it and certify that it was not due alone to the force of the torture."
 
@@ -137,8 +137,6 @@ However if there was no confirmation, torture could not be repeated, but it was 
 Victims
 
 The treatise describes how women and men become inclined to practice witchcraft. The text argues that women are more susceptible to demonic temptations through the manifold weaknesses of their gender. It was believed that they were weaker in faith and more carnal than men. Michael Bailey claims that most of the women accused as witches had strong personalities and were known to defy convention by overstepping the lines of proper female decorum. After the publication of the _Malleus_, it seems as though about three quarters of those individuals prosecuted as witches were women.[27]
-
-Wickiana3.jpg
 
 Witches were usually female. The reasons for this is the suggestion that women are "prone to believing and because the demon basically seeks to corrupt the faith, he assails them in particular." They also have a "temperament towards flux" and "loose tongues". They "are defective in all the powers of both soul and body" and are stated to be more lustful than men.
 
@@ -158,7 +156,7 @@ In contrast, Sprenger never conducted a witch trial though he was consulted in a
 
 Elaborated concept of witchcraft
 
-Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sueño_de_la_razon_produce_monstruos.jpg'', c. 1797, 21.5 cm × 15 cm.]]
+'', c. 1797, 21.5 cm × 15 cm.]]
 
 Strixology in the _Malleus Maleficarum_ is characterized by a very specific conception of what a witch is, one that differs dramatically from earlier times. The word used, malefica, carries an explicit condemnation absent in other words referring to women with supernatural powers. The conception of witches and of magic by extension is one of evil. It differs from earlier conceptions of witchcraft that were much more generalized.[28]
 
@@ -175,7 +173,7 @@ According to Mackay, this concept of sorcery is characterized by the conviction 
 
 Demonology
 
-Lilith_(John_Collier_painting).jpg under the appearance of a snake cavorting with herself as personified within the Garden of Eden, by John Collier, 1892]]
+under the appearance of a snake cavorting with herself as personified within the Garden of Eden, by John Collier, 1892]]
 
 In the _Malleus_ demons are the ones who tempt humans to sorcery and are the main figures in the witches' vows. They interact with witches, usually sexually. The book claims that it is normal for all witches "to perform filthy carnal acts with demons." This is a major part of human-demon interaction and demons do it "not for the sake of pleasure, but for the sake of corrupting."
 

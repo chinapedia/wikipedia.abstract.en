@@ -55,7 +55,7 @@ The referenced reports make it clear that C. pentandra is among the largest tree
 
 Uses
 
-Kapok_seeds_I_IMG_8004.jpg, West Bengal, India.]]
+, West Bengal, India.]]
 
 The commercial tree is most heavily cultivated in the rainforests of Asia, notably in Java (hence its nicknames), the Philippines, Malaysia, and Hainan Island in China, as well as in South America.
 

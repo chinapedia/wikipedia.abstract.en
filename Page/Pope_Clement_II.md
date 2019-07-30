@@ -15,7 +15,7 @@ In 1046, Suidiger accompanied King Henry on his campaign to Italy and in Decembe
 
 Clement's election was later criticized by the reform party within the papal curia due to the royal involvement and the fact that the new Pope was already bishop of another diocese. Contrary to later practice, Clement kept his old see, governing both Rome and Bamberg simultaneously.
 
-Pope_clement_II.jpg Clement's first pontifical act was to crown Henry and the queen-consort, Agnes of Aquitaine. He bestowed on the Emperor the title and diadem of a Roman Patricius, a dignity which was commonly understood to give the bearer the right of indicating the person to be chosen pope.
+Clement's first pontifical act was to crown Henry and the queen-consort, Agnes of Aquitaine. He bestowed on the Emperor the title and diadem of a Roman Patricius, a dignity which was commonly understood to give the bearer the right of indicating the person to be chosen pope.
 
 Clement II's short pontificate, starting with the Roman synod of 1047, initiated an improvement in the state of affairs within the Roman Church, particularly by enacting decrees against simony. A dispute for precedence among the Sees of Ravenna, Milan, and Aquileia was settled in favour of Ravenna.[4]
 

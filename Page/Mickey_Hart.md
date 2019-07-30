@@ -1,4 +1,4 @@
-Mickey_Hart_signature.jpeg Mickey_Hart_leading_a_drum_circle.jpg, February 2005]]
+, February 2005]]
 
 MICKEY HART (born MICHAEL STEVEN HARTMAN, September 11, 1943) is an American percussionist and musicologist. He is best known as one of the two drummers of the rock band Grateful Dead. He was a member of the Grateful Dead from September 1967 until February 1971, and again from October 1974 until their final show in August 1995. He and fellow Dead drummer Bill Kreutzmann earned the nickname "the rhythm devils".
 
@@ -40,7 +40,7 @@ In 1994, Mickey Hart was inducted into the Rock and Roll Hall of Fame as a membe
 
 In 2000, Hart became a member of the Board of Directors of the Institute for Music and Neurologic Function, a not-for-profit organization that studies the healing power of music[18] – continuing his investigation into the connection between healing and rhythm, and the neural basis of rhythm. In 2003, he was honored with the organization's Music Has Power Award, recognizing his advocacy and continuous commitment to raising public awareness of the positive effect of music.[19]
 
-Bob_Weir_and_Mickey_Hart,_Obama_Inaugural.jpg (playing guitar) performing at the Mid-Atlantic Inaugural Ball during the presidential inauguration of Barack Obama, January 20, 2009]] Tipper_Gore_and_Mickey_Hart.jpg and Mickey Hart playing drums together during a The Dead concert in April 2009]]
+(playing guitar) performing at the Mid-Atlantic Inaugural Ball during the presidential inauguration of Barack Obama, January 20, 2009]] and Mickey Hart playing drums together during a The Dead concert in April 2009]]
 
 Hart was also a judge for the 3rd annual Independent Music Awards to support independent artists' careers.[20]
 
@@ -62,7 +62,7 @@ In 2011 Hart debuted a new version of the Mickey Hart Band.[26] This lineup incl
 
 On October 11, 2011, Smithsonian Folkways released _The Mickey Hart Collection_. Comprising 25 albums, the series includes music from regions that span the globe, including the Sudan, Nigeria, Tibet, Indonesia, Latvia, and Brazil.[29]
 
-Mickey_Hart.jpg In August 2013, the Mickey Hart Band embarked upon a tour with the Tea Leaf Trio, which includes three members of the band Tea Leaf Green, in support of the band's album _Superorganism._[30]
+In August 2013, the Mickey Hart Band embarked upon a tour with the Tea Leaf Trio, which includes three members of the band Tea Leaf Green, in support of the band's album _Superorganism._[30]
 
 On September 29, 2013, the completed version of his and George Smoot's film _Rhythms of the Universe_ premiered at the Smithsonian Air and Space Museum in Washington, D.C.[31]
 
@@ -77,8 +77,6 @@ Hart plays, or has played, drum set, gong, tubular bells, tambourine, timpani, b
 
 
 Personal life
-
-Mickey_Hart,_January_8,_2013.jpg
 
 Hart has been married since 1990 to lawyer, environmental activist and Sonoma County Regional Parks Director Caryl Hart, with whom he has had two children Reya and Taro.[34] He had Taro's heartbeat recorded _in utero_ and used as the basis for the album _Music to Be Born By_. He lives in Occidental, California.[35] Jerry Hart, Mickey's half brother, is an online talk show host and social media consultant based in Concord, California.[36] Hart is the only Jewish member of the Grateful Dead.[37][38]
 

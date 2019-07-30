@@ -9,7 +9,7 @@ Conventional PCI and PCI-X are sometimes called PARALLEL PCI in order to disting
 
 History
 
-Adaptec_AHA-2940AU.png adapter from Adaptec]] PCI_und_PCIe_Slots.jpg
+adapter from Adaptec]]
 
 Work on PCI began at Intel's Architecture Development Lab . A team of Intel engineers (composed primarily of ADL engineers) defined the architecture and developed a proof of concept chipset and platform (Saturn) partnering with teams in the company's desktop PC systems and core logic product organizations.
 
@@ -61,8 +61,6 @@ PCI Express does not have physical interrupt lines at all. It uses message-signa
 
 Conventional hardware specifications
 
-PCI_Keying.svg
-
 These specifications represent the most common version of PCI used in normal PCs:
 
 -   clock with synchronous transfers
@@ -81,7 +79,7 @@ The PCI bus arbiter performs bus arbitration among multiple masters on the PCI b
 
 Card voltage and keying
 
-Intelpromtserverpcixadapter1000mta342.jpg expansion card with both 5 V and 3.3 V support notches, side B toward the camera]]
+expansion card with both 5 V and 3.3 V support notches, side B toward the camera]]
 
 Typical PCI cards have either one or two key notches, depending on their signaling voltage. Cards requiring 3.3 volts have a notch 56.21 mm from the card backplate; those requiring 5 volts have a notch 104.47 mm from the backplate. This allows cards to be fitted only into slots with a voltage they support. "Universal cards" accepting either voltage have both key notches.
 
@@ -192,7 +190,7 @@ Notes:
 
 Mixing of 32-bit and 64-bit PCI cards in different width slots
 
-PCI-X_in_a_32-bit_slot.jpg 64bit_PCI_SCSI_card_in_a_32bit_PCI_slot.jpg Most 32-bit PCI cards will function properly in 64-bit PCI-X slots, but the bus clock rate will be limited to the clock frequency of the slowest card, an inherent limitation of PCI's shared bus topology. For example, when a PCI 2.3, 66-MHz peripheral is installed into a PCI-X bus capable of 133 MHz, the entire bus backplane will be limited to 66 MHz. To get around this limitation, many motherboards have multiple PCI/PCI-X buses, with one bus intended for use with high-speed PCI-X peripherals, and the other bus intended for general-purpose peripherals.
+Most 32-bit PCI cards will function properly in 64-bit PCI-X slots, but the bus clock rate will be limited to the clock frequency of the slowest card, an inherent limitation of PCI's shared bus topology. For example, when a PCI 2.3, 66-MHz peripheral is installed into a PCI-X bus capable of 133 MHz, the entire bus backplane will be limited to 66 MHz. To get around this limitation, many motherboards have multiple PCI/PCI-X buses, with one bus intended for use with high-speed PCI-X peripherals, and the other bus intended for general-purpose peripherals.
 
 Many 64-bit PCI-X cards are designed to work in 32-bit mode if inserted in shorter 32-bit connectors, with some loss of performance.[22][23] An example of this is the Adaptec 29160 64-bit SCSI interface card.[24] However, some 64-bit PCI-X cards do not work in standard 32-bit PCI slots.[25]
 
@@ -245,7 +243,7 @@ Beside conventional PCI, many PCI Express cards are also described as MD2 low-pr
 
 Mini PCI
 
-MiniPCI_WiFi.jpg card Type IIIB]]MiniPCI_PCI.jpgMiniPCI_and_MiniPCI_Express_cards.jpgMINI PCI was added to PCI version 2.2 for use in laptops; it uses a 32-bit, 33 MHz bus with powered connections (3.3 V only; 5 V is limited to 100 mA) and support for bus mastering and DMA. The standard size for Mini PCI cards is approximately a quarter of their full-sized counterparts. There is no access to the card from outside the case, unlike desktop PCI cards with brackets carrying connectors. This limits the kinds of functions a Mini PCI card can perform.
+card Type IIIB]]MINI PCI was added to PCI version 2.2 for use in laptops; it uses a 32-bit, 33 MHz bus with powered connections (3.3 V only; 5 V is limited to 100 mA) and support for bus mastering and DMA. The standard size for Mini PCI cards is approximately a quarter of their full-sized counterparts. There is no access to the card from outside the case, unlike desktop PCI cards with brackets carrying connectors. This limits the kinds of functions a Mini PCI card can perform.
 
 Many Mini PCI devices were developed such as Wi-Fi, Fast Ethernet, Bluetooth, modems (often Winmodems), sound cards, cryptographic accelerators, SCSI, IDE–ATA, SATA controllers and combination cards. Mini PCI cards can be used with regular PCI-equipped hardware, using Mini PCI-to-PCI _converters_. Mini PCI has been superseded by the much narrower PCI Express Mini Card
 
@@ -709,7 +707,7 @@ Targets supporting cache coherency are also required to terminate bursts before 
 
 Development tools
 
-POST_card_98usd.jpg numbers during BIOS startup.]] When developing and/or troubleshooting the PCI bus, examination of hardware signals can be very important. Logic analyzers and bus analyzers are tools which collect, analyze, and decode signals for users to view in useful ways.
+numbers during BIOS startup.]] When developing and/or troubleshooting the PCI bus, examination of hardware signals can be very important. Logic analyzers and bus analyzers are tools which collect, analyze, and decode signals for users to view in useful ways.
 
 
 See also

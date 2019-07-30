@@ -1,4 +1,4 @@
-Sappho_and_Erinna_in_a_Garden_at_Mytilene.jpg and Erinna in a Garden at Mytilene'' by Simeon Solomon, 1864]]
+and Erinna in a Garden at Mytilene'' by Simeon Solomon, 1864]]
 
 A LESBIAN is a homosexual woman. [1][2] The word _lesbian_ is also used for women in relation to their sexual identity or sexual behavior regardless of sexual orientation, or as an adjective to characterize or associate nouns with female homosexuality or same-sex attraction.[3][4]
 
@@ -11,7 +11,7 @@ Portrayals of lesbians in the media suggest that society at large has been simul
 
 Origin and transformation of the term
 
-Godward-In_the_Days_of_Sappho-1904.jpg of Lesbos, depicted here in a 1904 painting by John William Godward, gave the term _lesbian_ the connotation of erotic desire between women.|alt=Painting of a woman dressed in Greek robes sitting on a marble bench with trees and water in the distance.]]
+of Lesbos, depicted here in a 1904 painting by John William Godward, gave the term _lesbian_ the connotation of erotic desire between women.|alt=Painting of a woman dressed in Greek robes sitting on a marble bench with trees and water in the distance.]]
 
 The word _lesbian_ is derived from the name of the Greek island of Lesbos, home to the 6th-century BCE poet Sappho.[5] From various ancient writings, historians gathered that a group of young women were left in Sappho's charge for their instruction or cultural edification.[6] Little of Sappho's poetry survives, but her remaining poetry reflects the topics she wrote about: women's daily lives, their relationships, and rituals. She focused on the beauty of women and proclaimed her love for girls.[7] Before the mid-19th century,[8] the word _lesbian_ referred to any derivative or aspect of Lesbos, including a type of wine.[9]
 
@@ -29,7 +29,7 @@ Lesbians in Western cultures in particular often classify themselves as having a
 
 Sexuality and lesbian identity
 
-Lesbian_Pride_Flag_2019.svg|date=6 July 2019|accessdate=6 July 2019|author=Paul Murphy-Kasp}}]] Lesbian_pride_flag.svg pride flag consisting of a labrys within the inverted black triangle, set against a violet-hue background.|alt=]] Lesbian_sign.svg for the planet Venus.[25] Here it is represented in hues of violet.|alt=]]
+|date=6 July 2019|accessdate=6 July 2019|author=Paul Murphy-Kasp}}]] pride flag consisting of a labrys within the inverted black triangle, set against a violet-hue background.|alt=]] for the planet Venus.[25] Here it is represented in hues of violet.|alt=]]
 
 The presence of sexual activity between women as necessary to define a lesbian or a relationship continues to be debated. According to feminist writer Naomi McCormick, women's sexuality is constructed by men, whose primary indicator of lesbian sexual orientation is sexual experience with other women. The same indicator is not necessary to identify a woman as heterosexual, however. McCormick states that emotional, mental, and ideological connections between women are as important or more so than the genital.[26] Nonetheless, in the 1980s, a significant movement rejected the desexualization of lesbianism by cultural feminists, causing a heated controversy called the feminist sex wars.[27] Butch and femme roles returned, although not as strictly followed as they were in the 1950s. They became a mode of chosen sexual self-expression for some women in the 1990s. Once again, women felt safer claiming to be more sexually adventurous, and sexual flexibility became more accepted.[28]
 
@@ -60,7 +60,7 @@ Women in ancient Rome were similarly subject to men's definitions of sexuality. 
 
 Early modern Europe
 
-Hermaphrodite_engraving_circa_1690.jpg, depicted here in an engraving circa 1690, were very similar concepts during the Renaissance.|alt=A front and back illustration of a Renaissance-era hermaphrodite showing a person with female facial features, breasts, and what appears to be a small penis or large clitoris. She wears a small hood and open robe tied multiple times around the legs. Where it opens in the front, the apparent rear appearance shows it to be perhaps a shell of some kind, as one with her body Two squares are missing from her the back of her head and torso. She has no buttocks.]]
+, depicted here in an engraving circa 1690, were very similar concepts during the Renaissance.|alt=A front and back illustration of a Renaissance-era hermaphrodite showing a person with female facial features, breasts, and what appears to be a small penis or large clitoris. She wears a small hood and open robe tied multiple times around the legs. Where it opens in the front, the apparent rear appearance shows it to be perhaps a shell of some kind, as one with her body Two squares are missing from her the back of her head and torso. She has no buttocks.]]
 
 Female homosexuality has not received the same negative response from religious or criminal authorities as male homosexuality or adultery has throughout history. Whereas sodomy between men, men and women, and men and animals was punishable by death in Britain, acknowledgment of sexual contact between women was nonexistent in medical and legal texts. The earliest law against female homosexuality appeared in France in 1270.[48] In Spain, Italy, and the Holy Roman Empire, sodomy between women was included in acts considered unnatural and punishable by burning to death, although few instances are recorded of this taking place.[49]
 
@@ -72,7 +72,7 @@ Class distinction, however, became linked as the fashion of female homoeroticism
 
 Female husbands
 
-Viola_and_the_Countess_-_Frederick_Richard_Pickersgill.jpg'' painted by Frederick Pickersgill.|alt=Painting of a Renaissance-era woman dressed as a man, standing and looking away, as a woman dressed as a woman holds the other's hand to her breast, looking imploringly at the other, set against a bucolic backdrop.]]
+'' painted by Frederick Pickersgill.|alt=Painting of a Renaissance-era woman dressed as a man, standing and looking away, as a woman dressed as a woman holds the other's hand to her breast, looking imploringly at the other, set against a bucolic backdrop.]]
 
 Hermaphroditism appeared in medical literature enough to be considered common knowledge, although cases were rare. Homoerotic elements in literature were pervasive, specifically the masquerade of one gender for another to fool an unsuspecting woman into being seduced. Such plot devices were used in Shakespeare's _Twelfth Night_ (1601), _The Faerie Queene_ by Edmund Spenser in 1590, and James Shirley's _The Bird in a Cage_ (1633).[57] Extraordinary cases during the Renaissance of women taking on male personae and going undetected for years or decades have been recorded.[58]
 
@@ -86,13 +86,11 @@ Outside Europe, women were able to dress as men and go undetected. Deborah Samps
 
 Re-examining romantic friendships
 
-Women_In_Hammock_romantic_friendship.jpg
-
 During the 17th through 19th centuries, a woman expressing passionate love for another woman was fashionable, accepted, and encouraged.[68] These relationships were termed romantic friendships, Boston marriages, or "sentimental friends", and were common in the U.S., Europe, and especially in England. Documentation of these relationships is possible by a large volume of letters written between women. Whether the relationship included any genital component was not a matter for public discourse, but women could form strong and exclusive bonds with each other and still be considered virtuous, innocent, and chaste; a similar relationship with a man would have destroyed a woman's reputation. In fact, these relationships were promoted as alternatives to and practice for a woman's marriage to a man.[69][70]
 
 One such relationship was between Lady Mary Wortley Montagu, who wrote to Anne Wortley in 1709: "Nobody was so entirely, so faithfully yours ... I put in your lovers, for I don't allow it possible for a man to be so sincere as I am."[71] Similarly, English poet Anna Seward had a devoted friendship to Honora Sneyd, who was the subject of many of Seward's sonnets and poems. When Sneyd married despite Seward's protest, Seward's poems became angry. However, Seward continued to write about Sneyd long after her death, extolling Sneyd's beauty and their affection and friendship.[72] As a young woman, writer and philosopher Mary Wollstonecraft was attached to a woman named Fanny Blood. Writing to another woman by whom she had recently felt betrayed, Wollstonecraft declared, "The roses will bloom when there's peace in the breast, and the prospect of living with my Fanny gladdens my heart:—You know not how I love her."[73][74] Wollstonecraft's first novel _Mary: A Fiction_, in part, addressed her relationship with Fanny Blood.[75]
 
-The_Rt_Honble_Lady_Eleanor_Butler_and_Miss_Ponsonby.jpg, Eleanor Butler and Sarah Ponsonby.
+, Eleanor Butler and Sarah Ponsonby.
 The two women had a relationship that was hailed as devoted and virtuous, after eloping and living 51 years together in Wales.|alt=An engraved drawing of Eleanor Butler and Sarah Ponsonby, known as the "Ladies of Llangollen". They are shown sitting in a private library wearing smoking jackets, with a cat in the foreground sitting in a chair.]]
 
 Perhaps the most famous of these romantic friendships was between Eleanor Butler and Sarah Ponsonby, nicknamed the Ladies of Llangollen. Butler and Ponsonby eloped in 1778, to the relief of Ponsonby's family (concerned about their reputation had she run away with a man)[76] to live together in Wales for 51 years and be thought of as eccentrics.[77] Their story was considered "the epitome of virtuous romantic friendship" and inspired poetry by Anna Seward and Henry Wadsworth Longfellow.[78] Diarist Anne Lister, captivated by Butler and Ponsonby, recorded her affairs with women between 1817 and 1840. Some of it was written in code, detailing her sexual relationships with Marianna Belcombe and Maria Barlow.[79] Both Lister and Eleanor Butler were considered masculine by contemporary news reports, and though there were suspicions that these relationships were sapphist in nature, they were nonetheless praised in literature.[80][81]
@@ -108,7 +106,7 @@ Lesbian identity and gender role in historical western culture
 
 Construction of lesbian identity
 
-Die_Freundin_April_30_1930.jpg'' magazine between 1924 and 1933.|alt=Reproduction of a German magazine cover with the title "Die Freundin" showing a nude woman sitting on a horse, looking behind her.]]
+'' magazine between 1924 and 1933.|alt=Reproduction of a German magazine cover with the title "Die Freundin" showing a nude woman sitting on a horse, looking behind her.]]
 
 For some women, the realization that they participated in behavior or relationships that could be categorized as lesbian caused them to deny or conceal it, such as professor Jeannette Augustus Marks at Mount Holyoke College, who lived with the college president, Mary Woolley, for 36 years. Marks discouraged young women from "abnormal" friendships and insisted happiness could only be attained with a man.[91][92] Other women, however, embraced the distinction and used their uniqueness to set themselves apart from heterosexual women and gay men.[93]
 
@@ -116,13 +114,13 @@ From the 1890s to the 1930s, American heiress Natalie Clifford Barney held a wee
 
 Berlin had a vibrant homosexual culture in the 1920s: about 50 clubs catering to lesbians existed, women had their own magazine titled _Die Freundin_ (_The Girlfriend_) between 1924 and 1933, and another titled _Garçonne_ specifically for male transvestites and lesbians.[95] In 1928 a book titled _The Lesbians of Berlin_ written by Ruth Margarite Röllig further popularized the German capital as a center of lesbian activity. Clubs varied between large establishments so popular that they were tourist attractions to small neighborhood cafes where only local women went to find other women. "Das Lila Lied" ("The Lavender Song") served as an anthem to the lesbians of Berlin. Homosexuality was illegal in Germany, though sometimes tolerated, as some functions were allowed by the police who took the opportunity to register the names of homosexuals for future reference.[96] Magnus Hirschfeld's Scientific-Humanitarian Committee, which promoted tolerance for homosexuals in Germany, welcomed lesbian participation, and a surge of lesbian-themed writing and political activism in the German feminist movement became evident.[97]
 
-Radclyffe_Hall_-_Sunday_Express.gif's image appeared in many newspapers discussing the content of _The Well of Loneliness_.|alt=Reproduction of a London newspaper, headline reading "A Book That Must Be Suppressed" and Radclyffe Hall's portrait: a woman wearing a suit jacket and bow tie with a black matching skirt. Her hair is slicked back, she wears no make-up, in one hand is a cigarette and her other hand is in her skirt pocket.]]
+'s image appeared in many newspapers discussing the content of _The Well of Loneliness_.|alt=Reproduction of a London newspaper, headline reading "A Book That Must Be Suppressed" and Radclyffe Hall's portrait: a woman wearing a suit jacket and bow tie with a black matching skirt. Her hair is slicked back, she wears no make-up, in one hand is a cigarette and her other hand is in her skirt pocket.]]
 
 In 1928, Radclyffe Hall published a novel titled _The Well of Loneliness_. The novel's plot centers around Stephen Gordon, a woman who identifies herself as an invert after reading Krafft-Ebing's _Psychopathia Sexualis_, and lives within the homosexual subculture of Paris. The novel included a foreword by Havelock Ellis and was intended to be a call for tolerance for inverts by publicizing their disadvantages and accidents of being born inverted.[98] Hall subscribed to Ellis and Krafft-Ebing's theories and rejected Freud's theory that same-sex attraction was caused by childhood trauma and was curable. The publicity Hall received was due to unintended consequences; the novel was tried for obscenity in London, a spectacularly scandalous event described as "_the_ crystallizing moment in the construction of a visible modern English lesbian subculture" by professor Laura Doan.[99]
 
 Newspaper stories frankly divulged that the book's content includes "sexual relations between Lesbian women", and photographs of Hall often accompanied details about lesbians in most major print outlets within a span of six months.[100] Hall reflected the appearance of a "mannish" woman in the 1920s: short cropped hair, tailored suits (often with pants), and monocle that became widely recognized as a "uniform". When British women participated in World War I, they became familiar with masculine clothing, and were considered patriotic for wearing uniforms and pants. However, postwar masculinization of women's clothing became associated with lesbians.[101]
 
-Gladys_Bentley.jpg resident Gladys Bentley was renowned for her blues songs about her affairs with women.|alt=A publicity photo of a stout African American woman in white tuxedo with tails and top hat, carrying a cane and her signature in the lower right corner.]]
+resident Gladys Bentley was renowned for her blues songs about her affairs with women.|alt=A publicity photo of a stout African American woman in white tuxedo with tails and top hat, carrying a cane and her signature in the lower right corner.]]
 
 In the United States, the 1920s was a decade of social experimentation, particularly with sex. This was heavily influenced by the writings of Sigmund Freud, who theorized that sexual desire would be sated unconsciously, despite an individual's wish to ignore it. Freud's theories were much more pervasive in the U.S. than in Europe. With the well-publicized notion that sexual acts were a part of lesbianism and their relationships, sexual experimentation was widespread. Large cities that provided a nightlife were immensely popular, and women began to seek out sexual adventure. Bisexuality became chic, particularly in America's first gay neighborhoods.[102]
 
@@ -138,8 +136,6 @@ The social attitude made very small and close-knit communities in large cities t
 
 World War II
 
-Two_women_employees_of_North_American_Aviation,_Incorporated,_assembling_a_section_of_a_wing_for_a_P-51_fighter_plane.jpg Black_triangle.svg Pink_triangle.svg
-
 The onset of World War II caused a massive upheaval in people's lives as military mobilization engaged millions of men. Women were also accepted into the military in the U.S. Women's Army Corps (WACs) and U.S. Navy's Women Accepted for Volunteer Emergency Service (WAVES). Unlike processes to screen out male homosexuals, which had been in place since the creation of the American military, there were no methods to identify or screen for lesbians; they were put into place gradually during World War II. Despite common attitudes regarding women's traditional roles in the 1930s, independent and masculine women were directly recruited by the military in the 1940s, and frailty discouraged.[115]
 
 Some women were able to arrive at the recruiting station in a man's suit, deny ever having been in love with another woman, and be easily inducted.[116] Sexual activity, however, was forbidden, and blue discharge was almost certain if one identified oneself as a lesbian. As women found each other, they formed into tight groups on base, socialized at service clubs, and began to use code words. Historian Allan Bérubé documented that homosexuals in the armed forces either consciously or subconsciously refused to identify themselves as homosexual or lesbian, and also never spoke about others' orientation.[117]
@@ -150,7 +146,7 @@ Lesbians were not included under Paragraph 175, a German statute which made homo
 
 Postwar years
 
-The_Ladder,_October_1957.jpg'', mailed to hundreds of women in the San Francisco area, urged women to take off their masks.|alt=A drawn illustrated magazine cover of a woman in half shadow with short, wavy hair holding a harlequin mask under the title "The Ladder" and the date "October 1957" underneath it.]]
+'', mailed to hundreds of women in the San Francisco area, urged women to take off their masks.|alt=A drawn illustrated magazine cover of a woman in half shadow with short, wavy hair holding a harlequin mask under the title "The Ladder" and the date "October 1957" underneath it.]]
 
 Following World War II, a nationwide movement pressed to return to pre-war society as quickly as possible in the U.S.[122] When combined with the increasing national paranoia about communism and psychoanalytic theory that had become pervasive in medical knowledge, homosexuality became an undesired characteristic of employees working for the U.S. government in 1950. Homosexuals were thought to be vulnerable targets to blackmail, and the government purged its employment ranks of open homosexuals, beginning a widespread effort to gather intelligence about employees' private lives.[123] State and local governments followed suit, arresting people for congregating in bars and parks, and enacting laws against cross-dressing for men and women.[124]
 
@@ -164,7 +160,7 @@ Very little information was available about homosexuality beyond medical and psy
 
 The DOB spread to Chicago, New York, and Los Angeles, and _The Ladder_ was mailed to hundreds—eventually thousands—of DOB members discussing the nature of homosexuality, sometimes challenging the idea that it was a sickness, with readers offering their own reasons why they were lesbians, and suggesting ways to cope with the condition or society's response to it.[132] British lesbians followed with the publication of _Arena Three_ beginning in 1964, with a similar mission.[133]
 
-Thirdsex_bookcover_1959.jpg provided an identity to isolated women in the 1950s.|alt=A brightly painted book cover with the title "The Third Sex", with a sultry blonde wearing a red outfit showing cleavage and midriff seated on a sofa, while a redhead with short hair places her hand on the blonde's shoulder and leans over her, also displaying cleavage wearing a white blouse with rolled-up sleeves.]]
+provided an identity to isolated women in the 1950s.|alt=A brightly painted book cover with the title "The Third Sex", with a sultry blonde wearing a red outfit showing cleavage and midriff seated on a sofa, while a redhead with short hair places her hand on the blonde's shoulder and leans over her, also displaying cleavage wearing a white blouse with rolled-up sleeves.]]
 
 Butch and femme dichotomy
 
@@ -233,7 +229,7 @@ Corrective rape is reported to be on the rise in South Africa. The South African
 
 Asia
 
-Two_Japanese_women_make_love.jpg woodblock printing from Japan depicting two women having sex.|alt=]]
+woodblock printing from Japan depicting two women having sex.|alt=]]
 
 China before westernization was another society that segregated men from women. Historical Chinese culture has not recognized a concept of sexual orientation, or a framework to divide people based on their same-sex or opposite-sex attractions.[190] Although there was a significant culture surrounding homosexual men, there was none for women. Outside their duties to bear sons to their husbands, women were perceived as having no sexuality at all.[191]
 
@@ -250,7 +246,7 @@ Demographics
 
 The Kinsey Report
 
-Kinsey_Scale.svg of sexual responses showing exclusively heterosexual and homosexual, with the varying degrees of bisexuality in between.|alt=A graph with seven columns labeled 0 to 6. The 0 column is "exclusively heterosexual" and is shown completely white. A gradient line showing the varying degrees of bisexual responses starts at the beginning of column 1 and rises to the end of column 5. Column 6 is "exclusively homosexual" and is shown filled with the color blue.]]
+of sexual responses showing exclusively heterosexual and homosexual, with the varying degrees of bisexuality in between.|alt=A graph with seven columns labeled 0 to 6. The 0 column is "exclusively heterosexual" and is shown completely white. A gradient line showing the varying degrees of bisexual responses starts at the beginning of column 1 and rises to the end of column 5. Column 6 is "exclusively homosexual" and is shown filled with the color blue.]]
 
 The most extensive early study of female homosexuality was provided by the Institute for Sex Research, who published an in-depth report of the sexual experiences of American women in 1953. More than 8,000 women were interviewed by Alfred Kinsey and the staff of the Institute for Sex Research in a book titled _Sexual Behavior in the Human Female_, popularly known as part of the Kinsey Report. The Kinsey Report's dispassionate discussion of homosexuality as a form of human sexual behavior was revolutionary. Up to this study, only physicians and psychiatrists studied sexual behavior, and almost always the results were interpreted with a moral view.[202]
 
@@ -312,7 +308,7 @@ For ten centuries after the fall of the Roman Empire, lesbianism disappeared fro
 
 In 15–16th-century French and English depictions of relationships between women (_Lives of Gallant Ladies_ by Brantôme in 1665, John Cleland's 1749 erotica _Memoirs of a Woman of Pleasure_, _L'Espion Anglais_ by various authors in 1778), writers' attitudes spanned from amused tolerance to arousal, whereupon a male character would participate to complete the act. Physical relationships between women were often encouraged; men felt no threat as they viewed sexual acts between women to be accepted when men were not available, and not comparable to fulfillment that could be achieved by sexual acts between men and women.[263] At worst, if a woman became enamored of another woman, she became a tragic figure. Physical and therefore emotional satisfaction was considered impossible without a natural phallus. Male intervention into relationships between women was necessary only when women acted as men and demanded the same social privileges.[264]
 
-Lautrec_in_bed_1893.jpg'' by Henri de Toulouse-Lautrec (1893). The Parisian artist employed the association between lesbianism and prostitution.[265]|alt=A painting by Henri de Toulouse-Lautrec of two short-haired women in a massive bed, covered to their chins in blankets under a red top cover. One woman is looking sleepily at the other.]]
+'' by Henri de Toulouse-Lautrec (1893). The Parisian artist employed the association between lesbianism and prostitution.[265]|alt=A painting by Henri de Toulouse-Lautrec of two short-haired women in a massive bed, covered to their chins in blankets under a red top cover. One woman is looking sleepily at the other.]]
 
 Lesbianism became almost exclusive to French literature in the 19th century, based on male fantasy and the desire to shock bourgeois moral values.[266] Honoré de Balzac, in _The Girl with the Golden Eyes_ (1835), employed lesbianism in his story about three people living amongst the moral degeneration of Paris, and again in _Cousin Bette_ and _Séraphîta_. His work influenced novelist Théophile Gautier's _Mademoiselle de Maupin_, which provided the first description of a physical type that became associated with lesbians: tall, wide-shouldered, slim-hipped, and athletically inclined.[267] Charles Baudelaire repeatedly used lesbianism as a theme in his poems "Lesbos", "Femmes damnées 1" ("Damned Women"), and "Femmes damnées 2".[268]
 
@@ -332,7 +328,7 @@ Lesbianism, or the suggestion of it, began early in filmmaking. The same constru
 
 Overt female homosexuality was introduced in 1929's _Pandora's Box_ between Louise Brooks and Alice Roberts. However, the development of the Hays Code in 1930 censored most references to homosexuality from film under the umbrella term "sex perversion". German films depicted homosexuality and were distributed throughout Europe, but 1931's _Mädchen in Uniform_ was not distributed in the U.S. because of the depiction of an adolescent's love for a female teacher in boarding school.[286]
 
-Childrens_Hour_trailer.jpg'', but it is transparent why Shirley MacLaine's character hangs herself.|alt=Still shot from the film "The Children's Hour", showing Shirley MacLaine looking down at the left and Audrey Hepburn to her right staring at her, in a bedroom. The words "Can an ugly rumor destroy what's beautiful?" obscure much of MacLaine's face.]]
+'', but it is transparent why Shirley MacLaine's character hangs herself.|alt=Still shot from the film "The Children's Hour", showing Shirley MacLaine looking down at the left and Audrey Hepburn to her right staring at her, in a bedroom. The words "Can an ugly rumor destroy what's beautiful?" obscure much of MacLaine's face.]]
 
 Because of the Hays Code, lesbianism after 1930 was absent from most films, even those adapted with overt lesbian characters or plot devices. Lillian Hellman's play _The Children's Hour_ was converted into a heterosexual love triangle and retitled _These Three_. Biopic _Queen Christina_ in 1933, starring Greta Garbo, veiled most of the speculation about Christina of Sweden's affairs with women.[287] Homosexuality or lesbianism was never mentioned outright in the films while the Hays Code was enforced. The reason censors stated for removing a lesbian scene in 1954's _The Pit of Loneliness_ was that it was, "Immoral, would tend to corrupt morals".[288] The code was relaxed somewhat after 1961, and the next year William Wyler remade _The Children's Hour_ with Audrey Hepburn and Shirley MacLaine. After MacLaine's character admits her love for Hepburn's, she hangs herself; this set a precedent for miserable endings in films addressing homosexuality.[289]
 
@@ -354,8 +350,6 @@ Another stock plot device in the 1970s was the gay character in a police drama. 
 
 In the middle of the 1970s, gay men and lesbians began to appear as police officers or detectives, facing coming out issues. This did not extend to CBS' groundbreaking show _Cagney & Lacey_ in 1982, starring two female police detectives. CBS production made conscious attempts to soften the characters so they would not appear to be lesbians.[306] In 1991, a bisexual lawyer portrayed by Amanda Donohoe on _L.A. Law_ shared the first significant lesbian kiss[307] on primetime television with Michele Greene, stirring a controversy despite being labeled "chaste" by _The Hollywood Reporter_.[308]
 
-EllenDeGeneres1997Emmies.jpg
-
 Though television did not begin to use recurring homosexual characters until the late 1980s, some early situation comedies used a stock character that author Stephen Tropiano calls "gay-straight": supporting characters who were quirky, did not comply with gender norms, or had ambiguous personal lives, that "for all purposes _should_ be gay". These included Zelda from _The Many Loves of Dobie Gillis_, Miss Hathaway from _The Beverly Hillbillies_, and Jo from _The Facts of Life_.[309] In the mid-1980s through the 1990s, sitcoms frequently employed a "coming out" episode, where a friend of one of the stars admits she is a lesbian, forcing the cast to deal with the issue. _Designing Women_, _The Golden Girls_, and _Friends_ used this device with women in particular.[310]
 
 Recurring lesbian characters who came out were seen on _Married... with Children_, _Mad About You_, and _Roseanne_, in which a highly publicized episode had ABC executives afraid a televised kiss between Roseanne and Mariel Hemingway would destroy ratings and ruin advertising. The episode was instead the week's highest rated.[311] By far the sitcom with the most significant impact to the image of lesbians was _Ellen_. Publicity surrounding Ellen's coming out episode in 1997 was enormous; Ellen DeGeneres appeared on the cover of _Time_ magazine the week before the airing of "The Puppy Episode" with the headline "Yep, I'm Gay". Parties were held in many U.S. cities to watch the episode, and the opposition from conservative organizations was intense. WBMA-LP, the ABC affiliate in Birmingham, Alabama, even refused to air the first run of the episode, citing conservative values of the local viewing audience, which earned the station some infamy and ire in the LGBT community. Even still, "The Puppy Episode" won an Emmy for writing, but as the show began to deal with Ellen Morgan's sexuality each week, network executives grew uncomfortable with the direction the show took and canceled it.[312]
@@ -369,7 +363,7 @@ Other aspects
 
 Lesbian chic and popular culture
 
-Vanity_Fair_Cover_Lang_Crawford.jpg'' that marked the arrival of lesbian chic as a social phenomenon in the 1990s.|alt=Cover of Vanity Fair magazine from August 1993 showing k.d. lang reclining in a barber chair with eyes closed and holding a compact mirror. She has shaving foam on her chin and is wearing an open-collar white shirt, black and white striped tie, dark color pinstripe vest and cuffed pants, and black lace boots. Supermodel Cindy Crawford is holding a straight razor to lang's chin while lang's head rests on her breast. Crawford is wearing a one-piece black bathing suit and high heel black boots, with head thrown back as her long hair cascades down her back.]]
+'' that marked the arrival of lesbian chic as a social phenomenon in the 1990s.|alt=Cover of Vanity Fair magazine from August 1993 showing k.d. lang reclining in a barber chair with eyes closed and holding a compact mirror. She has shaving foam on her chin and is wearing an open-collar white shirt, black and white striped tie, dark color pinstripe vest and cuffed pants, and black lace boots. Supermodel Cindy Crawford is holding a straight razor to lang's chin while lang's head rests on her breast. Crawford is wearing a one-piece black bathing suit and high heel black boots, with head thrown back as her long hair cascades down her back.]]
 
 The invisibility of lesbians has gradually eroded since the early 1980s. This is in part due to public figures who have caused speculation and comment in the press about their sexuality and lesbianism in general. The primary figure earning this attention was Martina Navratilova, who served as tabloid fodder for years as she denied being lesbian, admitted to being bisexual, had very public relationships with Rita Mae Brown and Judy Nelson, and acquired as much press about her sexuality as she did her athletic achievements. Navratilova spurred what scholar Diane Hamer termed "constant preoccupation" in the press with determining the root of same-sex desire.[316]
 
@@ -381,7 +375,7 @@ A resurgence of lesbian visibility and sexual fluidity was noted in 2009 with ce
 
 Families and politics
 
-Lesbian_wedding_in_New_York.jpg rooftop, 2013. Same-sex marriage in New York was legalized in 2011.|alt=]]
+rooftop, 2013. Same-sex marriage in New York was legalized in 2011.|alt=]]
 
 Although homosexuality among females has taken place in many cultures in history, a recent phenomenon is the development of family among same-sex partners. Before the 1970s, the idea that same-sex adults formed long-term committed relationships was unknown to many people. The majority of lesbians (between 60% and 80%) report being in a long-term relationship.[323] Sociologists credit the high number of paired women to gender role socialization: the inclination for women to commit to relationships doubles in a lesbian union. Unlike heterosexual relationships that tend to divide work based on sex roles, lesbian relationships divide chores evenly between both members. Studies have also reported that emotional bonds are closer in lesbian and gay relationships than heterosexual ones.[324]
 

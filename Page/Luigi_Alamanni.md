@@ -1,4 +1,4 @@
-Alamanni_Luigi_1495-1556.png LUIGI ALAMANNI (sometimes spelt ALEMANNI) (6 March 149518 April 1556) was an Italian poet and statesman.[1] He was regarded as a prolific and versatile poet. He was credited with introducing the epigram into Italian poetry.
+LUIGI ALAMANNI (sometimes spelt ALEMANNI) (6 March 149518 April 1556) was an Italian poet and statesman.[1] He was regarded as a prolific and versatile poet. He was credited with introducing the epigram into Italian poetry.
 
 
 Biography

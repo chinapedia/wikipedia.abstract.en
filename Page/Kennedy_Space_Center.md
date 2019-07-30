@@ -31,7 +31,7 @@ Historical programs
 
 Apollo program
 
-Saturn_V_aerial.jpg rolls out to Pad 39A in 1971 on Mobile Launch Platform 1.]]
+rolls out to Pad 39A in 1971 on Mobile Launch Platform 1.]]
 
 From 1967 through 1973, there were 13 Saturn V launches, including the ten remaining Apollo missions after Apollo 7. The first of two uncrewed flights, Apollo 4 (Apollo-Saturn 501) on November 9, 1967, was also the first rocket launch from KSC. The Saturn V's first crewed launch on December 21, 1968 was Apollo 8's lunar orbiting mission. The next two missions tested the Lunar Module: Apollo 9 (Earth orbit) and Apollo 10 (lunar orbit). Apollo 11, launched from Pad A on July 16, 1969, made the first Moon landing on July 20. Apollo 12 followed four months later. From 1970 to 1972, the Apollo program concluded at KSC with the launches of missions 13 through 17.
 
@@ -41,7 +41,7 @@ On May 14, 1973, the last Saturn V launch put the Skylab space station in orbit 
 
 Space Shuttle
 
-STS-60_Launch.jpg launching from Pad 39A on STS-60, February 3, 1994]] STS-36_Rollout_-_GPN-2000-000680.jpg is moved to Pad 39A for the 1990 launch of STS-36.]] STS-129_Atlantis_Ready_to_Fly_-_edit1.jpg As the Space Shuttle was being designed, NASA received proposals for building alternative launch-and-landing sites at locations other than KSC, which demanded study. KSC had important advantages, including: its existing facilities; location on the Intracoastal Waterway; and its southern latitude, which gives a velocity advantage to missions launched in easterly near-equatorial orbits. Disadvantages included: its inability to safely launch military missions into polar orbit, since spent boosters would be likely to fall on the Carolinas or Cuba; corrosion from the salt air; and frequent cloudy or stormy weather. Although building a new site at White Sands Missile Range in New Mexico was seriously considered, NASA announced its decision in April 1972 to use KSC for the shuttle.[16] Since the Shuttle could not be landed automatically or by remote control, the launch of _Columbia_ on April 12, 1981 for its first orbital mission STS-1, was NASA's first crewed launch of a vehicle that had not been tested in prior uncrewed launches.
+launching from Pad 39A on STS-60, February 3, 1994]] is moved to Pad 39A for the 1990 launch of STS-36.]] As the Space Shuttle was being designed, NASA received proposals for building alternative launch-and-landing sites at locations other than KSC, which demanded study. KSC had important advantages, including: its existing facilities; location on the Intracoastal Waterway; and its southern latitude, which gives a velocity advantage to missions launched in easterly near-equatorial orbits. Disadvantages included: its inability to safely launch military missions into polar orbit, since spent boosters would be likely to fall on the Carolinas or Cuba; corrosion from the salt air; and frequent cloudy or stormy weather. Although building a new site at White Sands Missile Range in New Mexico was seriously considered, NASA announced its decision in April 1972 to use KSC for the shuttle.[16] Since the Shuttle could not be landed automatically or by remote control, the launch of _Columbia_ on April 12, 1981 for its first orbital mission STS-1, was NASA's first crewed launch of a vehicle that had not been tested in prior uncrewed launches.
 
 In 1976, the VAB's south parking area was the site of Third Century America, a science and technology display commemorating the U.S. Bicentennial. Concurrent with this event, the U.S. flag was painted on the south side of the VAB. During the late 1970s, LC-39 was reconfigured to support the Space Shuttle. Two Orbiter Processing Facilities were built near the VAB as hangars with a third added in the 1980s.
 
@@ -94,15 +94,13 @@ The following are current programs and initiatives at Kennedy Space Center:[27]
 
 Facilities
 
-Map_of_Kennedy_Space_Center.png The KSC Industrial Area, where many of the center's support facilities are located, is south of LC-39. It includes the Headquarters Building, the Operations and Checkout Building and the Central Instrumentation Facility. The astronaut crew quarters are in the O&C; before it was completed, the astronaut crew quarters were located in Hangar S[36] at the Cape Canaveral Missile Test Annex (now CCAFS).[37] Located as KSC was the Merritt Island Spaceflight Tracking and Data Network station (MILA), a key radio communications and spacecraft tracking complex.
+The KSC Industrial Area, where many of the center's support facilities are located, is south of LC-39. It includes the Headquarters Building, the Operations and Checkout Building and the Central Instrumentation Facility. The astronaut crew quarters are in the O&C; before it was completed, the astronaut crew quarters were located in Hangar S[36] at the Cape Canaveral Missile Test Annex (now CCAFS).[37] Located as KSC was the Merritt Island Spaceflight Tracking and Data Network station (MILA), a key radio communications and spacecraft tracking complex.
 
 Facilities at the Kennedy Space Center are directly related to its mission to launch and recover missions. Facilities are available to prepare and maintain spacecraft and payloads for flight.[38][39] The Headquarters (HQ) Building houses offices for the Center Director, library, film and photo archives, a print shop and security.[40] A new Headquarters Building is under construction as a part of the Central Campus consolidation and the first phase is expected to be complete in 2017.[41][42][43][44]
 
 The center operated its own short-line railroad.[45] This operation was discontinued in 2015, with the sale of its final two locomotives. A third had already been donated to a museum. The line was costing $1.3 million annually to maintain.[46]
 
 Payload processing
-
-KSC_Operations_and_Checkout_Building.jpg
 
 -   The Operations and Checkout Building (O&C) (previously known as the Manned Spacecraft Operations Building) is a historic site on the U.S. National Register of Historic Places dating back to the 1960s and was used to receive, process, and integrate payloads for the Gemini and Apollo programs, the Skylab program in the 1970s, and for initial segments of the International Space Station through the 1990s.[47] The Apollo and Space Shuttle astronauts would board the astronaut transfer van to launch complex 39 from the O&C building.[48]
 -   The three-story, Space Station Processing Facility (SSPF) consists of two processing bays, an airlock, operational control rooms, laboratories, logistics areas and office space for support of non-hazardous Station and Shuttle payloads to ISO 14644-1 class 5 standards.[49]
@@ -112,7 +110,7 @@ KSC_Operations_and_Checkout_Building.jpg
 
 Launch Complex 39
 
-Aerial_View_of_Launch_Complex_39.jpg (center) in 1999, with the Launch Control Center jutting out from its right, and Pads A and B in the distance]] Kennedy_Space_Center_VAB.jpg
+(center) in 1999, with the Launch Control Center jutting out from its right, and Pads A and B in the distance]]
 
 Launch Complex 39 (LC-39) was originally built for the Saturn V, the largest and most powerful operational launch vehicle in history, for the Apollo crewed Moon landing program. Since the end of the Apollo program in 1972, LC-39 has been used to launch every NASA human space flight, including Skylab (1973), the Apollo-Soyuz Test Project (1975), and the Space Shuttle program (1981–2011).
 
@@ -142,7 +140,7 @@ As a part of promoting commercial space industry growth in the area and the over
 
 Visitor complex
 
-KennedySpaceCentreVisitor'sCentreFrontGate.JPG, a Space Shuttle mock-up, is in the background]]
+, a Space Shuttle mock-up, is in the background]]
 
 The Kennedy Space Center Visitor Complex, operated by Delaware North since 1995, has a variety of exhibits, artifacts, displays and attractions on the history and future of human and robotic spaceflight. Bus tours of KSC originate from here. The complex also includes the separate Apollo/Saturn V Center, north of the VAB and the United States Astronaut Hall of Fame, six miles west near Titusville. There were 1.5 million visitors in 2009. It had some 700 employees.[60]
 
@@ -167,14 +165,14 @@ There are 24 historic properties outside of these historic districts, including 
 
 Weather
 
-Mercury-Redstone_display_toppled_KSC-04PD-1721.jpg Florida's peninsular shape and temperature contrasts between land and ocean provide ideal conditions for electrical storms, earning Central Florida the reputation as "lightning capital of the United States".[69][70] This makes extensive lightning protection and detection systems necessary to protect employees, structures and spacecraft on launch pads.[71] On November 14, 1969, Apollo 12 was struck by lightning just after lift-off from Pad 39A, but the flight continued safely. The most powerful lightning strike recorded at KSC occurred at LC-39B on August 25, 2006, while shuttle _Atlantis_ was being prepared for STS-115. NASA managers were initially concerned that the lightning strike caused damage to _Atlantis_, but none was found.[72]
+Florida's peninsular shape and temperature contrasts between land and ocean provide ideal conditions for electrical storms, earning Central Florida the reputation as "lightning capital of the United States".[69][70] This makes extensive lightning protection and detection systems necessary to protect employees, structures and spacecraft on launch pads.[71] On November 14, 1969, Apollo 12 was struck by lightning just after lift-off from Pad 39A, but the flight continued safely. The most powerful lightning strike recorded at KSC occurred at LC-39B on August 25, 2006, while shuttle _Atlantis_ was being prepared for STS-115. NASA managers were initially concerned that the lightning strike caused damage to _Atlantis_, but none was found.[72]
 
 On September 7, 2004, Hurricane Frances directly hit the area with sustained winds of and gusts up to , the most damaging storm to date. The Vehicle Assembly Building lost 1,000 exterior panels, each x in size. This exposed of the building to the elements. Damage occurred to the south and east sides of the VAB. The shuttle's Thermal Protection System Facility suffered extensive damage. The roof was partially torn off and the interior suffered water damage. Several rockets on display in the center were toppled.[73] Further damage to KSC was caused by Hurricane Wilma in October 2005.
 
 
 KSC directors
 
-Kurt_H._Debus.jpg Since KSC's formation, ten NASA officials have served as directors, including three former astronauts (Crippen, Bridges and Cabana):
+Since KSC's formation, ten NASA officials have served as directors, including three former astronauts (Crippen, Bridges and Cabana):
 
   Name                   Start                End                 Reference
   ---------------------- -------------------- ------------------- -----------

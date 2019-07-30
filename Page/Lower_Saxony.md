@@ -15,7 +15,7 @@ Location
 
 Lower Saxony has a natural boundary in the north in the North Sea and the lower and middle reaches of the River Elbe, although parts of the city of Hamburg lie south of the Elbe. The state and city of Bremen is an enclave entirely surrounded by Lower Saxony. The Bremen/Oldenburg Metropolitan Region is a cooperative body for the enclave area. To the southeast, the state border runs through the Harz, low mountains that are part of the German Central Uplands. The northeast and west of the state, which form roughly three-quarters of its land area, belong to the North German Plain, while the south is in the Lower Saxon Hills, including the Weser Uplands, Leine Uplands, Schaumburg Land, Brunswick Land, Untereichsfeld, Elm, and Lappwald. In northeast, Lower Saxony is Lüneburg Heath. The heath is dominated by the poor, sandy soils of the geest, whilst in the central east and southeast in the loess _börde_ zone, productive soils with high natural fertility occur. Under these conditions—with loam and sand-containing soils—the land is well-developed agriculturally. In the west lie the County of Bentheim, Osnabrück Land, Emsland, Oldenburg Land, Ammerland, Oldenburg Münsterland, and on the coast East Frisia.
 
-Luftaufnahme_Baltrum-2.jpg]] The state is dominated by several large rivers running northwards through the state: the Ems, Weser, Aller, and Elbe.
+]] The state is dominated by several large rivers running northwards through the state: the Ems, Weser, Aller, and Elbe.
 
 The highest mountain in Lower Saxony is the Wurmberg (971 m) in the Harz. For other significant elevations see: List of mountains and hills in Lower Saxony. Most of the mountains and hills are found in the southeastern part of the state. The lowest point in the state, at about 2.5 m below sea level, is a depression near Freepsum in East Frisia.
 
@@ -75,9 +75,9 @@ Lower Saxony falls climatically into the north temperate zone of central Europe 
 
 Administration
 
-Hannover_City.jpg Braunschweig_Kohlmarkt.jpg]] Hildesheim,_Dom_20171201_001.jpg]] Lg_Joh_Kirche_Innenstadt.jpg]] Cuxhaven_07-2016_photo19_port_area.jpg]] Johannisstrasse_Goettingen.jpg]] Oldenburg_Bergstraße.jpg]] Marinemuseum-wilhelmshaven-2007.jpg]]
+]] ]] ]] ]] ]] ]] ]]
 
-Osnabrück_aerial.jpg]] Schloss_Salder_Front_Winter.jpg]] Lower Saxony is divided into 37 districts (_Landkreise_ or simply _Kreise_): Landkreise_Niedersachsen.svg
+]] ]] Lower Saxony is divided into 37 districts (_Landkreise_ or simply _Kreise_):
 
 Furthermore, there are eight urban districts and two cities with special status:
 
@@ -104,11 +104,11 @@ The name of Saxony derives from that of the Germanic tribe of the Saxons. Before
 
 Period to the Congress of Vienna (1814/1815)
 
-Herzogtum_Sachsen_1000.PNG around 1000]]
+around 1000]]
 
 The name and coat of arms of the present state go back to the Germanic tribe of Saxons. During the Migration Period some of the Saxon peoples left their homeland in Holstein about the 3rd century and pushed southwards over the Elbe, where they expanded into the sparsely populated regions in the rest of the lowlands, in the present-day Northwest Germany and the northeastern part of what is now the Netherlands. From about the 7th century the Saxons had occupied a settlement area that roughly corresponds to the present state of Lower Saxony, of Westphalia and a number of areas to the east, for example, in what is now west and north Saxony-Anhalt. The land of the Saxons was divided into about 60 _Gaue_. The Frisians had not moved into this region; for centuries they preserved their independence in the most northwesterly region of the present-day Lower Saxon territory. The original language of the folk in the area of Old Saxony was West Low German, one of the varieties of language in the Low German dialect group.
 
-Map_of_the_Imperial_Circles_(1512)-en.pngs at the start of the 16th century. In red: the Lower Saxon Circle, in light brown: the Lower Rhenish-Westphalian Circle]]
+s at the start of the 16th century. In red: the Lower Saxon Circle, in light brown: the Lower Rhenish-Westphalian Circle]]
 
 The establishment of permanent boundaries between what later became Lower Saxony and Westphalia began in the 12th century. In 1260, in a treaty between the Archbishopric of Cologne and the Duchy of Brunswick-Lüneburg the lands claimed by the two territories were separated from each other.[2] The border ran along the Weser to a point north of Nienburg. The northern part of the Weser-Ems region was placed under the rule of Brunswick-Lüneburg.
 
@@ -118,7 +118,7 @@ The close historical links between the domains of the Lower Saxon Circle now in 
 
 To the end of the Second World War
 
-KrkHannover.png (1815–1866), Duchy of Brunswick, Grand Duchy of Oldenburg and the Principality of Schaumburg-Lippe in the 19th century]]
+(1815–1866), Duchy of Brunswick, Grand Duchy of Oldenburg and the Principality of Schaumburg-Lippe in the 19th century]]
 
 Over the course of time two great principalities survived east of the Weser: the Kingdom of Hanover and the Duchy of Brunswick (after 1866 Hanover became a Prussian province; after 1919 Brunswick became a free state). Historically a close tie exists between the royal house of Hanover (Electorate of Brunswick-Lüneburg) to the United Kingdom of Great Britain and Northern Ireland as a result of their personal union in the 18th century.
 
@@ -150,7 +150,7 @@ _→ see main article Dutch annexation of German territory after World War II_
 
 History of Lower Saxony as a state
 
-Niedersachsen_Verordnung_55_3339.jpg The first Lower Saxon parliament or _Landtag_ met on 9 December 1946. It was not elected; rather it was established by the British Occupation Administration (a so-called "appointed parliament"). That same day the parliament elected the Social Democrat, Hinrich Wilhelm Kopf, the former Hanoverian president (_Regierungspräsident_) as their first minister president. Kopf led a five-party coalition, whose basic task was to rebuild a state afflicted by the war's rigours. Kopf's cabinet had to organise an improvement of food supplies and the reconstruction of the cities and towns destroyed by Allied air raids during the war years. Hinrich Wilhelm Kopf remained – interrupted by the time in office of Heinrich Hellwege (1955–1959) – as the head of government in Lower Saxony until 1961.
+The first Lower Saxon parliament or _Landtag_ met on 9 December 1946. It was not elected; rather it was established by the British Occupation Administration (a so-called "appointed parliament"). That same day the parliament elected the Social Democrat, Hinrich Wilhelm Kopf, the former Hanoverian president (_Regierungspräsident_) as their first minister president. Kopf led a five-party coalition, whose basic task was to rebuild a state afflicted by the war's rigours. Kopf's cabinet had to organise an improvement of food supplies and the reconstruction of the cities and towns destroyed by Allied air raids during the war years. Hinrich Wilhelm Kopf remained – interrupted by the time in office of Heinrich Hellwege (1955–1959) – as the head of government in Lower Saxony until 1961.
 
 The greatest problem facing the first state government in the immediate post-war years was the challenge of integrating hundreds of thousands of refugees from Germany's former territories in the east (such as Silesia and East Prussia), which had been annexed by Poland and the Soviet Union. Lower Saxony was at the western end of the direct escape route from East Prussia and had the longest border with the Soviet Zone. On 3 October 1950 Lower Saxony took over the sponsorship of the very large number of refugees from Silesia. In 1950 there was still a shortage of 730,000 homes according to official figures.
 
@@ -246,7 +246,7 @@ Vital statistics
 
 Religion
 
-St-andreas.jpg]]
+]]
 
 The 2011 census stated that a majority of the population were Christians (71.93%); 51.48% of the total population were member of the Evangelical Church in Germany, 18.34% were Catholics, 2.11% were member of other Christian denominations, 2.27% were member of other religions. 25.8% have no denomination.[15] Even there is a high level of official belonging to a Christian denomination, the people - especially in the cities - are highly secular in faith and behavior.
 

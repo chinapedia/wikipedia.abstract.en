@@ -45,7 +45,7 @@ Particle accelerators can also produce neutrino beams. Neutron beams are mostly 
 
 Passage through matter
 
-Radioactivity_and_radiation.png In radiation protection, radiation is often separated into two categories, _ionizing_ and _non-ionizing_, to denote the level of danger posed to humans. Ionization is the process of removing electrons from atoms, leaving two electrically charged particles (an electron and a positively charged ion) behind. The negatively charged electrons and positively charged ions created by ionizing radiation may cause damage in living tissue. Basically, a particle is ionizing if its energy is higher than the ionization energy of a typical substance, i.e., a few eV, and interacts with electrons significantly.
+In radiation protection, radiation is often separated into two categories, _ionizing_ and _non-ionizing_, to denote the level of danger posed to humans. Ionization is the process of removing electrons from atoms, leaving two electrically charged particles (an electron and a positively charged ion) behind. The negatively charged electrons and positively charged ions created by ionizing radiation may cause damage in living tissue. Basically, a particle is ionizing if its energy is higher than the ionization energy of a typical substance, i.e., a few eV, and interacts with electrons significantly.
 
 According to the International Commission on Non-Ionizing Radiation Protection, electromagnetic radiations from ultraviolet to infrared, to radiofrequency (including microwave) radiation, static and time-varying electric and magnetic fields, and ultrasound belong to the non-ionizing radiations.
 

@@ -1,11 +1,11 @@
-WycliffeYeamesLollards_01.jpg is shown giving the Bible translation that bore his name to his Lollard followers.]]
+is shown giving the Bible translation that bore his name to his Lollard followers.]]
 
 LOLLARDY, also known as LOLLARDISM or the LOLLARD MOVEMENT, was a pre-Protestant Christian religious movement that existed from the mid-14th century to the English Reformation. It was initially led by John Wycliffe,[1] a Roman Catholic theologian who was dismissed from the University of Oxford in 1381 for criticism of the Roman Catholic Church. The Lollards' demands were primarily for reform of Western Christianity. They formulated their beliefs in the Twelve Conclusions of the Lollards.
 
 
 Etymology
 
-Lollards_QE4_126.jpg.]]
+.]]
 
 _Lollard_, _Lollardi_ or _Loller_ was the popular derogatory nickname given to those without an academic background, educated (if at all) only in English, who were reputed to follow the teachings of John Wycliffe in particular, and were certainly considerably energized by the translation of the Bible into the English language. By the mid-15th century, "lollard" had come to mean a heretic in general. The alternative, "Wycliffite", is generally accepted to be a more neutral term covering those of similar opinions, but having an academic background.
 
@@ -21,7 +21,7 @@ Two other possibilities for the derivation of _Lollard_ are mentioned by the _Ox
 
 Beliefs
 
-lollardmap.jpg are in green. Areas where Lollardy spread in the 15th century are in red.]] Lollardy was a religion of vernacular scripture.[7] Lollards opposed many practices of the Catholic church. Anne Hudson has written that a form of _sola scriptura_ underpinned Wycliffite beliefs, but distinguished it from the more radical ideology that anything not permitted by scripture is forbidden. Instead, Hudson notes that Wycliffite _sola scriptura_ held the Bible to be "the only valid source of doctrine and the only pertinent measure of legitimacy."
+are in green. Areas where Lollardy spread in the 15th century are in red.]] Lollardy was a religion of vernacular scripture.[7] Lollards opposed many practices of the Catholic church. Anne Hudson has written that a form of _sola scriptura_ underpinned Wycliffite beliefs, but distinguished it from the more radical ideology that anything not permitted by scripture is forbidden. Instead, Hudson notes that Wycliffite _sola scriptura_ held the Bible to be "the only valid source of doctrine and the only pertinent measure of legitimacy."
 
 With regard to the Eucharist, Lollards such as John Wycliffe, William Thorpe, and John Oldcastle, taught a view of the real presence of Christ in Holy Communion known as "consubstantiation" and did not accept the doctrine of transubstantiation, as taught by the Roman Catholic Church.[8][9] _The Plowman's Tale_, a 16th century Lollard poem, argues that theological debate about orthodox doctrine is less important than the Real Presence:[10]
 
@@ -46,7 +46,7 @@ Believing in a universal priesthood, the Lollards challenged the Church's author
 
 History
 
-Wycliffe_John_Gospel.jpg Although Lollardy is denounced as a heresy (by the Roman Catholic Church and the early pre-reformation Church of England), initially Wycliffe and the Lollards were sheltered by John of Gaunt and other anti-clerical nobility, who may have wanted to use Lollard-advocated clerical reform to acquire new sources of revenue from England’s monasteries. The University of Oxford also protected Wycliffe and similar academics on the grounds of academic freedom and, initially, allowed such persons to retain their positions despite their controversial views. Lollards first faced serious persecution after the Peasants' Revolt in 1381. While Wycliffe and other Lollards opposed the revolt, one of the peasants’ leaders, John Ball, preached Lollardy. The royalty and nobility then found Lollardy to be a threat not only to the Church, but to English society in general. The Lollards' small measure of protection evaporated. This change in status was also affected by the 1386 departure of John of Gaunt who left England to pursue the Crown of Castile.
+Although Lollardy is denounced as a heresy (by the Roman Catholic Church and the early pre-reformation Church of England), initially Wycliffe and the Lollards were sheltered by John of Gaunt and other anti-clerical nobility, who may have wanted to use Lollard-advocated clerical reform to acquire new sources of revenue from England’s monasteries. The University of Oxford also protected Wycliffe and similar academics on the grounds of academic freedom and, initially, allowed such persons to retain their positions despite their controversial views. Lollards first faced serious persecution after the Peasants' Revolt in 1381. While Wycliffe and other Lollards opposed the revolt, one of the peasants’ leaders, John Ball, preached Lollardy. The royalty and nobility then found Lollardy to be a threat not only to the Church, but to English society in general. The Lollards' small measure of protection evaporated. This change in status was also affected by the 1386 departure of John of Gaunt who left England to pursue the Crown of Castile.
 
 A group of gentry active during the reign of Richard II (1377–99) were known as "Lollard Knights" either during or after their lives due to their acceptance of Wycliffe's claims. Henry Knighton, in his Chronicle, identifies the principal Lollard Knights as Thomas Latimer, John Trussell, Lewis Clifford, Sir John Peche, (son of John Peche of Wormleighton), Richard Storey, and Reginald Hilton. Thomas Walsingham's Chronicle adds William Nevil and John Clanvowe to the list, and other potential members of this circle have been identified by their wills, which contain Lollard-inspired language about how their bodies are to be plainly buried and permitted to return to the soil whence they came. There is little indication that the Lollard Knights were specifically known as such during their lifetimes; they were men of discretion, and unlike Sir John Oldcastle years later, rarely gave any hint of open rebellion. However, they displayed a remarkable ability to retain important positions without falling victim to the various prosecutions of Wycliffe's followers occurring during their lifetimes.
 
@@ -56,7 +56,7 @@ As a prelude to the 16th-century _Acts of Supremacy_ that mark the beginning of 
 
 Oldcastle Revolt
 
-Oldcastleburning.jpg being burnt for insurrection and Lollard heresy.]] By the early 15th century, stern measures were undertaken by Church and state which drove Lollardy underground. One such measure was the 1410 burning at the stake of John Badby, a layman and craftsman who refused to renounce his Lollardy. He was the first layman to suffer capital punishment in England for the crime of heresy.
+being burnt for insurrection and Lollard heresy.]] By the early 15th century, stern measures were undertaken by Church and state which drove Lollardy underground. One such measure was the 1410 burning at the stake of John Badby, a layman and craftsman who refused to renounce his Lollardy. He was the first layman to suffer capital punishment in England for the crime of heresy.
 
 John Oldcastle, a close friend of Henry V of England and the basis for Falstaff in the Shakespearean history _Henry IV, Part 1_, was brought to trial in 1413 after evidence of his Lollard beliefs was uncovered. Oldcastle escaped from the Tower of London and organized an insurrection, which included an attempted kidnapping of the king. The rebellion failed, and Oldcastle was executed. Oldcastle's revolt made Lollardy seem even more threatening to the state, and persecution of Lollards became more severe. A variety of other martyrs for the Lollard cause were executed during the next century, including the Amersham Martyrs in the early 1500s and Thomas Harding in 1532, one of the last Lollards to be made victim. A gruesome reminder of this persecution is the 'Lollards Pit' in Thorpe Wood, now Thorpe Hamlet, Norwich, Norfolk, _where men are customablie burnt._[24]
 

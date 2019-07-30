@@ -5,7 +5,7 @@ Birthplace of several renowned artists, including writers, poets, painters, and 
 
 History
 
-M._Ortobene_-_vista_di_Nuoro.jpg.]] Nuoro_-_Seuna.jpg The earliest traces of human settlement in the Nuoro area (called " the Nuorese") are the so-called Domus de janas, rock-cut tombs dated at the third millennium BC. However, fragments of ceramics of the Ozieri culture have also been discovered and dated at c. 3500 BC.[6]
+.]] The earliest traces of human settlement in the Nuoro area (called " the Nuorese") are the so-called Domus de janas, rock-cut tombs dated at the third millennium BC. However, fragments of ceramics of the Ozieri culture have also been discovered and dated at c. 3500 BC.[6]
 
 The Nuorese was a centre of the Nuragic civilization (which developed in Sardinia from c. 1500 BC to c. 250 BC), as attested by more than 30 Nuragic sites, such has the village discovered in the countryside of Tanca Manna, just outside Nuoro, which was made of about 800 huts.
 
@@ -31,8 +31,6 @@ Museums
 -   Museo Ciusa, Museum dedicated to Francesco Ciusa and other artists
 
 Monuments and historical sites
-
-Cattedrale.png
 
 -   Cattedrale della Madonna della Neve
 -   Piazza Sebastiano Satta
@@ -82,8 +80,6 @@ ATP Nuoro's bus system provides service within the city.
 
 
 Notable people
-
-Nuoro_agosto_2009_086.jpg Nuoro_-_piazza_Satta_4.jpg
 
 -   Priamo Gallisay (1853–1930), musician (opera composer)
 -   Giampietro Chironi (1855–1918), senator

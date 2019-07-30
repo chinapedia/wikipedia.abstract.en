@@ -33,7 +33,7 @@ His father's fate is uncertain, but it is thought that he died at the hands of o
 
 Training in swordsmanship
 
-Miyamoto_Musashi_Painting.jpg]]
+]]
 
 The name "Musashi" was thought to be taken from the name of a warrior monk named Musashibō Benkei who served under Minamoto no Yoshitsune, but this is unconfirmed.
 
@@ -51,8 +51,6 @@ He spent his time traveling and engaging in duels, such as with an adept called 
 
 In 1600, when a war began between the Toyotomi and Tokugawa clans, Musashi apparently fought on the side of the Toyotomi's "Army of the West", as the Shinmen clan (to whom his family owed allegiance) had allied with them. Specifically, he participated in the attempt to take Fushimi castle by assault in July 1600, in the defense of the besieged Gifu Castle in August of the same year, and finally in the Battle of Sekigahara. Some doubt has been cast on this final battle, as the _Hyoho senshi denki_ has Musashi saying he is "no lord's vassal" and refusing to fight with his father (in Lord Ukita's battalion) in the battle. Omitting the Battle of Sekigahara from the list of Musashi's battles would seem to contradict _The Book of Five Rings_'s statement that Musashi fought in six battles, however. Regardless, as the Toyotomi side lost, it has been suggested that Musashi fled as well and spent some time training on Mount Hiko.
 
-IchijojiSagarimatsuKyoto.jpg Gonnosuke.jpg
-
 After the battle, Musashi disappears from the records for a while. The next mention of him has him arriving in Kyoto at the age of 20 (or 21), where he began a series of duels against the Yoshioka School. Musashi's father, Munisai, also fought against a master of the Yoshioka school and won 2 out of 3 bouts in front of the _shōgun_ at the time, Ashikaga Yoshiaki who granted him the title of "Unrivaled Under Heaven". The Yoshioka School (descended from either the Tenshin Shōden Katori Shintō-ryū or the Kyo-hachi-ryū) was the foremost of the eight major schools of martial arts in Kyoto, the "Kyo-ryū" / "Schools of Kyoto". Legend has it that these eight schools were founded by eight monks taught by a legendary martial artist resident on the sacred Mount Kurama. At some point, the Yoshioka family also began to make a name for itself not merely in the art of the sword but also in the textile business and for a dye unique to them. They gave up teaching swordsmanship in 1614 when they fought in the Army of the West against Tokugawa Ieyasu in the Battle of Osaka, which they lost. But in 1604, when Musashi began duelling them, they were still preeminent. There are various accounts of the duels—the Yoshioka family documents claim that there was only one, against Yoshioka Kenpō, which Musashi, once again, won.
 
 Musashi challenged Yoshioka Seijūrō, master of the Yoshioka School, to a duel. Seijūrō accepted, and they agreed to a duel outside Rendaiji in Rakuhoku, in the northern part of Kyoto on 8 March 1604. Musashi arrived late, greatly irritating Seijūrō. They faced off, and Musashi struck a single blow, per their agreement. This blow struck Seijūrō on the left shoulder, knocking him out, and crippling his left arm. He apparently passed on the headship of the school to his equally accomplished brother, Yoshioka Denshichirō, who promptly challenged Musashi for revenge. The duel took place in Kyoto outside a temple, Sanjūsangen-dō. Denshichirō wielded a staff reinforced with steel rings (or possibly with a ball-and-chain attached), while Musashi arrived late a second time. Musashi disarmed Denshichirō and defeated him. This second victory outraged the Yoshioka family, whose head was now the 12-year-old Yoshioka Matashichiro. They assembled a force of archers, musketeers and swordsmen, and challenged Musashi to a duel outside Kyoto, near Ichijō-ji Temple. Musashi broke his previous habit of arriving late, and came to the temple hours early. Hidden, Musashi assaulted the force, killing Matashichiro, and escaping while being attacked by dozens of his victim's supporters. To escape and fight off his opponents he was forced to draw his second sword and defend himself with a sword in each hand. This was the beginning of his niten'ichi sword style. With the death of Matashichiro, this branch of the Yoshioka School was destroyed.
@@ -67,8 +65,6 @@ Musashi is said to have fought over 60 duels and was never defeated, although th
 
 Duel with Sasaki Kojirō
 
-Sasaki_kojiro_2.gif
-
 On April 13, 1612, Musashi (about age 30) fought his duel with Sasaki Kojirō, who was known as "The Demon of the Western Provinces" and who wielded a _nodachi_, the Japanese great sword. Musashi came late and unkempt to the appointed place—the island of Funajima, in the Kanmon Straits separating Honshū and Kyūshū. The duel was short. Musashi killed his opponent with a bokken that legend says he had carved from an oar used on the boat that carried him to the island.
 
 Musashi's late arrival is controversial. Sasaki's outraged supporters thought it was dishonourable and disrespectful, while Musashi's supporters thought it was a fair way to unnerve his opponent. Another theory is that Musashi timed the hour of his arrival to match the turning of the tide. The tide carried him to the island. After his victory, Musashi immediately jumped back in his boat and his flight from Sasaki's vengeful allies was helped by the turning of the tide. Another theory states he waited for the sun to get in the right position. After he dodged a blow, Sasaki was blinded by the sun.
@@ -77,7 +73,7 @@ Musashi briefly established a fencing school that same year.
 
 Service
 
-Stele_Musashi.jpg. These characters were engraved by Musashi on his bokken. It stands on the place where Musashi is supposed to have lived, at the foot of the castle. The Hombu dojo of a main branch of Hyoho Niten Ichi-ryū is in Kokura and demonstrates every year in front of this monument.]] In 1614–1615, Musashi participated in the war between the Toyotomi and the Tokugawa. The war had broken out because Tokugawa Ieyasu saw the Toyotomi family as a threat to his rule of Japan; most scholars believe that, as in the previous war, Musashi fought on the Toyotomi side. Osaka Castle was the central place of battle. The first battle (the Winter Battle of Osaka; Musashi's fourth battle) ended in a truce. The second (the Summer Battle of Osaka; Musashi's fifth battle) resulted in the total defeat of Toyotomi Hideyori's Army of the West by Ieyasu's Army of the East in May 1615. Some reports go so far as to say that Musashi entered a duel with Ieyasu, but was recruited after Ieyasu sensed his defeat was at hand. This may seem unlikely since Ieyasu was in his 70s and was in poor health already, but it remains unknown how Musashi came into Ieyasu's good graces.
+. These characters were engraved by Musashi on his bokken. It stands on the place where Musashi is supposed to have lived, at the foot of the castle. The Hombu dojo of a main branch of Hyoho Niten Ichi-ryū is in Kokura and demonstrates every year in front of this monument.]] In 1614–1615, Musashi participated in the war between the Toyotomi and the Tokugawa. The war had broken out because Tokugawa Ieyasu saw the Toyotomi family as a threat to his rule of Japan; most scholars believe that, as in the previous war, Musashi fought on the Toyotomi side. Osaka Castle was the central place of battle. The first battle (the Winter Battle of Osaka; Musashi's fourth battle) ended in a truce. The second (the Summer Battle of Osaka; Musashi's fifth battle) resulted in the total defeat of Toyotomi Hideyori's Army of the West by Ieyasu's Army of the East in May 1615. Some reports go so far as to say that Musashi entered a duel with Ieyasu, but was recruited after Ieyasu sensed his defeat was at hand. This may seem unlikely since Ieyasu was in his 70s and was in poor health already, but it remains unknown how Musashi came into Ieyasu's good graces.
 
 Other claims he actually served on the Tokugawa side are unproven, although Musashi had a close relationship with some Tokugawa vassals through his duel with Sasaki Kojirō, and in the succeeding years, he did not drop out of sight as might be expected if he were being persecuted for being on the losing side. In his later years, Ogasawara and Hosokawa supported Musashi greatly—an atypical course of action for these Tokugawa loyalists, if Musashi had indeed fought on behalf of the Toyotomi.
 
@@ -93,7 +89,7 @@ In 1627, Musashi began to travel again. In 1634 he settled in Kokura with Iori, 
 
 Later life and death
 
-P03jigazou.jpg,'' Samurai, writer and artist, c. 1640]] Musashizuka_park.JPG Musashi_on_the_back_of_a_whale.jpg (1798–1861)]]
+,'' Samurai, writer and artist, c. 1640]] (1798–1861)]]
 
 Six years later, in 1633, Musashi began staying with Hosokawa Tadatoshi, _daimyō_ of Kumamoto Castle, who had moved to the Kumamoto fief and Kokura, to train and paint. Ironically, it was at this time that the Hosokawa lords were also the patrons of Musashi's chief rival, Sasaki Kojirō. While there he engaged in very few duels; one would occur in 1634 at the arrangement of Lord Ogasawara, in which Musashi defeated a lance specialist by the name of Takada Matabei. Musashi would officially become the retainer of the Hosokowa lords of Kumamoto in 1640. The _Niten Ki_ records "[he] received from Lord Tadatoshi: 17 retainers, a stipend of 300 koku, the rank of _ōkumigashira_ 大組頭, and Chiba Castle in Kumamoto as his residence."[13]
 
@@ -160,7 +156,7 @@ The following timeline follows, in chronological order (of which is based on the
 
 Philosophy
 
-Kanjisenki.jpg by Musashi.]] In Musashi's last book, , Musashi seems to take a very philosophical approach to looking at the "craft of war": "There are five ways in which men pass through life: as gentlemen, warriors, farmers, artisans and merchants."
+by Musashi.]] In Musashi's last book, , Musashi seems to take a very philosophical approach to looking at the "craft of war": "There are five ways in which men pass through life: as gentlemen, warriors, farmers, artisans and merchants."
 
 Throughout the book, Musashi implies that the way of the Warrior, as well as the meaning of a "true strategist" is that of somebody who has made mastery of many art forms away from that of the sword, such as tea drinking (sadō), laboring, writing, and painting, as Musashi practiced throughout his life. Musashi was hailed as an extraordinary sumi-e artist in the use of ink monochrome as depicted in two such paintings: "Shrike Perched in a Dead Tree" (_Koboku Meigekizu_, 枯木鳴鵙図) and "Wild Geese Among Reeds" (_Rozanzu_, 魯山図). Going back to the _Book of Five Rings_, Musashi talks deeply about the ways of Buddhism.
 
@@ -239,7 +235,7 @@ However, the belief that Musashi disliked Shinto is inaccurate, as he criticises
 
 Musashi as an artist
 
-Kobokumeigekizu.jpg In his later years, Musashi said in his _The Book of Five Rings_: "When I apply the principle of strategy to the ways of different arts and crafts, I no longer have need for a teacher in any domain." He proved this by creating recognized masterpieces of calligraphy and classic ink painting. His paintings are characterized by skilled use of ink washes and an economy of brush stroke. He especially mastered the "broken ink" school of landscapes, applying it to other subjects, such as his _Kobokumeikakuzu_ ("Shrike Perched on a Withered Branch"; part of a triptych whose other two members were "Hotei Walking" and "Sparrow on Bamboo"), his _Hotei Watching a Cockfight_, and his _Rozanzu_ ("Wild Geese Among Reeds").
+In his later years, Musashi said in his _The Book of Five Rings_: "When I apply the principle of strategy to the ways of different arts and crafts, I no longer have need for a teacher in any domain." He proved this by creating recognized masterpieces of calligraphy and classic ink painting. His paintings are characterized by skilled use of ink washes and an economy of brush stroke. He especially mastered the "broken ink" school of landscapes, applying it to other subjects, such as his _Kobokumeikakuzu_ ("Shrike Perched on a Withered Branch"; part of a triptych whose other two members were "Hotei Walking" and "Sparrow on Bamboo"), his _Hotei Watching a Cockfight_, and his _Rozanzu_ ("Wild Geese Among Reeds").
 
 
 In popular culture

@@ -7,7 +7,7 @@ Particle physics evolved out of nuclear physics and the two fields are typically
 
 History
 
-Portrait_of_Antoine-Henri_Becquerel.jpg]] Cloud_chambers_played_an_important_role_of_particle_detectors.jpgs played an important role of particle detectors and eventually lead to the discovery of positron, muon and kaon.]]
+]] s played an important role of particle detectors and eventually lead to the discovery of positron, muon and kaon.]]
 
 The history of nuclear physics as a discipline distinct from atomic physics starts with the discovery of radioactivity by Henri Becquerel in 1896,[2] while investigating phosphorescence in uranium salts.[3] The discovery of the electron by J. J. Thomson[4] a year later was an indication that the atom had internal structure. At the beginning of the 20th century the accepted model of the atom was J. J. Thomson's "plum pudding" model in which the atom was a positively charged ball with smaller negatively charged electrons embedded inside it.
 

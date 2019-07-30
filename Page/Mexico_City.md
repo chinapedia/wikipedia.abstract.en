@@ -15,7 +15,7 @@ History
 
 Aztec period
 
-Quetzalcoatl_en_Templo_Mayor_-_panoramio.jpg ruins]] Conquista-de-Tenochtitlan-Mexico.jpg, the Aztec capital]]
+ruins]] , the Aztec capital]]
 
 The city of Mexico-Tenochtitlan was founded by the Mexica people in 1325. The old Mexica city that is now simply referred to as Tenochtitlan was built on an island in the center of the inland lake system of the Valley of Mexico, which it shared with a smaller city-state called Tlatelolco.[16] According to legend, the Mexicas' principal god, Huitzilopochtli, indicated the site where they were to build their home by presenting a golden eagle perched on a prickly pear devouring a rattlesnake.[17]
 
@@ -23,7 +23,7 @@ Between 1325 and 1521, Tenochtitlan grew in size and strength, eventually domina
 
 Spanish conquest
 
-El_caballito_de_Tolsa_b.jpg representing Charles IV of Spain]]
+representing Charles IV of Spain]]
 
 After landing in Veracruz, Spanish explorer Hernán Cortés advanced upon Tenochtitlan with the aid of many of the other native peoples,[19] arriving there on November 8, 1519.[20] Cortés and his men marched along the causeway leading into the city from Iztapalapa, and the city's ruler, Moctezuma II, greeted the Spaniards; they exchanged gifts, but the camaraderie did not last long.[21] Cortés put Moctezuma under house arrest, hoping to rule through him.[22]
 
@@ -33,7 +33,7 @@ Cortés began a siege of Tenochtitlan in May 1521. For three months, the city su
 
 Rebuilding
 
-Mexico_City_Zocalo_Cathedral.jpg was built by the Spaniards over the ruins of the main Aztec temple]]
+was built by the Spaniards over the ruins of the main Aztec temple]]
 
 Cortés first settled in Coyoacán, but decided to rebuild the Aztec site to erase all traces of the old order.[29] He did not establish a territory under his own personal rule, but remained loyal to the Spanish crown. The first Spanish viceroy arrived in Mexico City fourteen years later. By that time, the city had again become a city-state, having power that extended far beyond its borders.[30]
 
@@ -51,7 +51,7 @@ The rebuilding of the city after the siege of Tenochtitlan was accomplished by t
 
 Preconquest Tenochtitlan was built in the center of the inland lake system, with the city reachable by canoe and by wide causeways to the mainland. The causeways were rebuilt under Spanish rule with indigenous labor.
 
-ViewTorreMayor04.JPG inside Chapultepec park]] Colonial Spanish cities were constructed on a grid pattern, if no geographical obstacle prevented it. In Mexico City, the Zócalo (main square) was the central place from which the grid was then built outward. The Spanish lived in the area closest to the main square in what was known as the _traza_, in orderly, well laid-out streets. Indian residences were outside that exclusive zone and houses were haphazardly located.[34]
+inside Chapultepec park]] Colonial Spanish cities were constructed on a grid pattern, if no geographical obstacle prevented it. In Mexico City, the Zócalo (main square) was the central place from which the grid was then built outward. The Spanish lived in the area closest to the main square in what was known as the _traza_, in orderly, well laid-out streets. Indian residences were outside that exclusive zone and houses were haphazardly located.[34]
 
 Spaniards sought to keep Indians separate from Spaniards but since the Zócalo was a center of commerce for Indians, they were a constant presence in the central area, so strict segregation was never enforced.[35] At intervals Zócalo was where major celebrations took place as well as executions. It was also the site of two major riots in the seventeenth century, one in 1624, the other in 1692.[36]
 
@@ -73,7 +73,7 @@ During this battle, on September 13, the 4th Division, under John A. Quitman, sp
 
 Porfirian era (1876–1911)
 
-Hotel_Ciudad_de_México_-_panoramio.jpg, whose architectural legacy remains in the neighborhoods of Condesa, Zona Rosa, Centro Historico and Chapultepec.]] Palacio_Postal_-_panoramio_(1).jpg Events such as the Mexican–American War, the French Intervention and the Reform War left the city relatively untouched and it continued to grow, especially during the rule of President Porfirio Díaz. During this time the city developed a modern infrastructure, such as roads, schools, transportation systems and communication systems. However the regime concentrated resources and wealth into the city while the rest of the country languished in poverty.
+, whose architectural legacy remains in the neighborhoods of Condesa, Zona Rosa, Centro Historico and Chapultepec.]] Events such as the Mexican–American War, the French Intervention and the Reform War left the city relatively untouched and it continued to grow, especially during the rule of President Porfirio Díaz. During this time the city developed a modern infrastructure, such as roads, schools, transportation systems and communication systems. However the regime concentrated resources and wealth into the city while the rest of the country languished in poverty.
 
 Under the rule of Porfirio Díaz, Mexico City experienced a massive transformation. Díaz's goal was to create a city which could rival the great European cities. He and his government came to the conclusion that they would use Paris as a model, while still containing remnants of Amerindian and Hispanic elements. This style of Mexican-French fusion architecture became colloquially known as Porfirian Architecture. Porfirian architecture became very influenced by Paris' Haussmannization.
 
@@ -83,11 +83,11 @@ Diaz's plans called for the entire city to eventually be modernized or rebuilt i
 
 Mexican Revolution (1910–1920)
 
-Porforio_Diaz.jpg, (second from right) commissioned many of the ornate European style buildings constructed from the 1890–1910 and hoped for Mexico City to eventually rival European cities like Paris in opulence.]] The capital escaped the worst of the violence of the ten-year conflict of the Mexican Revolution. The most significant episode of this period for the city was the February 1913 la Decena Trágica ("The Ten Tragic Days"), when forces counter to the elected government of Francisco I. Madero staged a successful coup. The center of the city was subjected to artillery attacks from the army stronghold of the _ciudadela_ or citadel, with significant civilian casualties and the undermining of confidence in the Madero government. Victoriano Huerta, chief general of the Federal Army, saw a chance to take power, forcing Madero and Pino Suarez to sign resignations. The two were murdered later while on their way to Lecumberri prison.[51] Huerta's ouster in July 1914 saw the entry of the armies of Pancho Villa and Emiliano Zapata, but the city did not experience violence. Huerta had abandoned the capital and the conquering armies marched in. Venustiano Carranza's Constitutionalist faction ultimately prevailed in the revolutionary civil war and Carranza took up residence in the presidential palace.
+, (second from right) commissioned many of the ornate European style buildings constructed from the 1890–1910 and hoped for Mexico City to eventually rival European cities like Paris in opulence.]] The capital escaped the worst of the violence of the ten-year conflict of the Mexican Revolution. The most significant episode of this period for the city was the February 1913 la Decena Trágica ("The Ten Tragic Days"), when forces counter to the elected government of Francisco I. Madero staged a successful coup. The center of the city was subjected to artillery attacks from the army stronghold of the _ciudadela_ or citadel, with significant civilian casualties and the undermining of confidence in the Madero government. Victoriano Huerta, chief general of the Federal Army, saw a chance to take power, forcing Madero and Pino Suarez to sign resignations. The two were murdered later while on their way to Lecumberri prison.[51] Huerta's ouster in July 1914 saw the entry of the armies of Pancho Villa and Emiliano Zapata, but the city did not experience violence. Huerta had abandoned the capital and the conquering armies marched in. Venustiano Carranza's Constitutionalist faction ultimately prevailed in the revolutionary civil war and Carranza took up residence in the presidential palace.
 
 20th century to present
 
-San-Angel-Casa-Rivera-Kahlo.jpg designed by Juan O'Gorman, an example of 20th Century Modernist Architecture in Mexico]]
+designed by Juan O'Gorman, an example of 20th Century Modernist Architecture in Mexico]]
 
 The history of the rest of the 20th century to the present focuses on the phenomenal growth of the city and its environmental and political consequences. In 1900, the population of Mexico City was about 500,000.[52] The city began to grow rapidly westward in the early part of the 20th century[53] and then began to grow upwards in the 1950s, with the Torre Latinoamericana becoming the city's first skyscraper.[54] The 1968 Olympic Games brought about the construction of large sporting facilities.[55]
 
@@ -97,7 +97,7 @@ In 1980 half of all the industrial jobs in Mexico were located in Mexico City. U
 
 The autocratic government that ruled Mexico City since the Revolution was tolerated, mostly because of the continued economic expansion since World War II. This was the case even though this government could not handle the population and pollution problems adequately. Nevertheless, discontent and protests began in the 1960s leading to the massacre of an unknown number of protesting students in Tlatelolco.[60]
 
-Three years later, a demonstration in the Maestros avenue, organized by former members of the 1968 student movement, was violently repressed by a paramilitary group called "Los Halcones", composed of gang members and teenagers from many sports clubs who received training in the U.S. Paloma_Cordero_Nancy_Reagan_Mexico_City_1985_earthquake.jpg of the United States (right) with U.S. Ambassador to Mexico, John Gavin observing the damage done by the 1985 earthquake.]] On Thursday, September 19, 1985, at 7:19 am CST, Mexico City was struck by an earthquake of magnitude 8.1[61] on the Richter magnitude scale. Although this earthquake was not as deadly or destructive as many similar events in Asia and other parts of Latin America,[62] it proved to be a disaster politically for the one-party government. The government was paralyzed by its own bureaucracy and corruption, forcing ordinary citizens to create and direct their own rescue efforts and to reconstruct much of the housing that was lost as well.[63]
+Three years later, a demonstration in the Maestros avenue, organized by former members of the 1968 student movement, was violently repressed by a paramilitary group called "Los Halcones", composed of gang members and teenagers from many sports clubs who received training in the U.S. of the United States (right) with U.S. Ambassador to Mexico, John Gavin observing the damage done by the 1985 earthquake.]] On Thursday, September 19, 1985, at 7:19 am CST, Mexico City was struck by an earthquake of magnitude 8.1[61] on the Richter magnitude scale. Although this earthquake was not as deadly or destructive as many similar events in Asia and other parts of Latin America,[62] it proved to be a disaster politically for the one-party government. The government was paralyzed by its own bureaucracy and corruption, forcing ordinary citizens to create and direct their own rescue efforts and to reconstruct much of the housing that was lost as well.[63]
 
 However, the last straw may have been the controversial elections of 1988. That year, the presidency was set between the P.R.I.'s candidate, Carlos Salinas de Gortari, and a coalition of left-wing parties led by Cuauhtémoc Cárdenas, son of the former president Lázaro Cárdenas. The counting system "fell" because coincidentally the light went out and suddenly, when it returned, the winning candidate was Salinas, even though Cárdenas had the upper hand.
 
@@ -112,14 +112,13 @@ Mexico City primarily rests on what was Lake Texcoco.[69] Seismic activity is fr
 
   ------------------------------
   Mexico City geophysical maps
-  MX-DF-Relieve.png
   Topography
   ------------------------------
 
 
 Climate
 
-Cumbres_del_Ajusco.jpg]]
+]]
 
 Mexico City has a subtropical highland climate (Köppen climate classification _Cwb_), due to its tropical location but high elevation. The lower region of the valley receives less rainfall than the upper regions of the south; the lower boroughs of Iztapalapa, Iztacalco, Venustiano Carranza and the east portion of Gustavo A. Madero are usually drier and warmer than the upper southern boroughs of Tlalpan and Milpa Alta, a mountainous region of pine and oak trees known as the range of Ajusco.
 
@@ -136,13 +135,11 @@ The area receives about of annual rainfall, which is concentrated from May throu
 
 Environment
 
-División_de_canales.JPG, together with the Historic Center of Mexico City, were declared a World Heritage Site in 1987.]] Originally much of the valley lay beneath the waters of Lake Texcoco, a system of interconnected salt and freshwater lakes. The Aztecs built dikes to separate the fresh water used to raise crops in _chinampas_ and to prevent recurrent floods. These dikes were destroyed during the siege of Tenochtitlan, and during colonial times the Spanish regularly drained the lake to prevent floods. Only a small section of the original lake remains, located outside Mexico City, in the municipality of Atenco, State of Mexico.
+, together with the Historic Center of Mexico City, were declared a World Heritage Site in 1987.]] Originally much of the valley lay beneath the waters of Lake Texcoco, a system of interconnected salt and freshwater lakes. The Aztecs built dikes to separate the fresh water used to raise crops in _chinampas_ and to prevent recurrent floods. These dikes were destroyed during the siege of Tenochtitlan, and during colonial times the Spanish regularly drained the lake to prevent floods. Only a small section of the original lake remains, located outside Mexico City, in the municipality of Atenco, State of Mexico.
 
 Architects Teodoro González de León and Alberto Kalach along with a group of Mexican urbanists, engineers and biologists have developed the project plan for _Recovering the City of Lakes_. If approved by the government the project will contribute to the supply of water from natural sources to the Valley of Mexico, the creation of new natural spaces, a great improvement in air quality, and greater population establishment planning.
 
 Pollution
-
-AerialViewMexicoCity.jpg
 
 By the 1990s Mexico City had become infamous as one of the world's most polluted cities; however, the city has become a model for drastically lowering pollution levels. By 2014 carbon monoxide pollution had dropped drastically, while levels of sulfur dioxide and nitrogen dioxide were nearly three times lower than in 1992. The levels of signature pollutants in Mexico City are similar to those of Los Angeles.[88] Despite the cleanup, the metropolitan area is still the most ozone-polluted part of the country, with ozone levels 2.5 times beyond WHO-defined safe limits.[89]
 
@@ -153,7 +150,7 @@ Politics
 
 Political structure
 
-MexCity-palacio.jpg]] Senado_de_México_01.jpg]] San_lazaro.jpg]] Edificio_Tlatelolco_(S.R.E).JPG]] Asamblea_Legislativa_del_Distrito_Federal_Ciudad_de_México.jpg Ángel_de_la_Independencia_(cropped).jpg on Paseo de la Reforma avenue.]]
+]] ]] ]] ]] on Paseo de la Reforma avenue.]]
 
 The Acta Constitutiva de la Federación of January 31, 1824, and the Federal Constitution of October 4, 1824,[94] fixed the political and administrative organization of the United Mexican States after the Mexican War of Independence. In addition, Section XXVIII of Article 50 gave the new Congress the right to choose where the federal government would be located. This location would then be appropriated as federal land, with the federal government acting as the local authority. The two main candidates to become the capital were Mexico City and Querétaro.[95]
 
@@ -187,26 +184,24 @@ The Legislative Assembly of Mexico City is formed, as it is the case for state l
 
 Even though proportionality is supposed to prevent a party from being overrepresented, several restrictions apply in the assignation of the seats. No party can have more than 63% of all seats, both uninominal and plurinominal. In the 2006 elections, the PRD got the absolute majority in the direct uninominal elections, securing 34 of the 40 FPP seats. As such, the PRD was not assigned any plurinominal seat to comply with the law that prevents over-representation. The overall composition of the Legislative Assembly is:
 
-  Political party                                                                                                                           FPP   PR   Total
-  ----------------------------------------------------------------------------------------------------------------------------------------- ----- ---- -------
-  Morena_Party_(Mexico).png National Regeneration Movement                                                                                  18    4    22
-  PRD_logo_(Mexico).svg PT_logo_(Mexico).svg PNA_logo_(Mexico).svg Party of the Democratic Revolution / Labour Party / New Alliance Party   14    7    21
-  PAN_(Mexico).svg National Action Party                                                                                                    5     5    10
-  PRI_logo_(Mexico).svg PVE_Party_(Mexico).svg Institutional Revolutionary Party / Ecologist Green Party of Mexico                          3     6    9
-  EncuentroSocial_Party_(Mexico).png Social Encounter Party                                                                                 0     2    2
-  PMC_logo_(Mexico).svg Citizens' Movement                                                                                                  0     1    1
-  Humanista_Party_(Mexico).png Humanist Party                                                                                               0     1    1
-  TOTAL                                                                                                                                     40    26   66
+  Political party                                                          FPP   PR   Total
+  ------------------------------------------------------------------------ ----- ---- -------
+  National Regeneration Movement                                           18    4    22
+  Party of the Democratic Revolution / Labour Party / New Alliance Party   14    7    21
+  National Action Party                                                    5     5    10
+  Institutional Revolutionary Party / Ecologist Green Party of Mexico      3     6    9
+  Social Encounter Party                                                   0     2    2
+  Citizens' Movement                                                       0     1    1
+  Humanist Party                                                           0     1    1
+  TOTAL                                                                    40    26   66
 
 The politics pursued by the administrations of heads of government in Mexico City since the second half of the 20th century have usually been more liberal than those of the rest of the country, whether with the support of the federal government, as was the case with the approval of several comprehensive environmental laws in the 1980s, or by laws that were since approved by the Legislative Assembly. The Legislative Assembly expanded provisions on abortions, becoming the first federal entity to expand abortion in Mexico beyond cases of rape and economic reasons, to permit it at the choice of the mother before the 12th week of pregnancy.[107] In December 2009, the then Federal District became the first city in Latin America and one of very few in the world to legalize same-sex marriage.
 
 Boroughs and neighborhoods
 
-Boroughs_of_Mexican_Federal_District_numbered.svg
+, retain a distinct urban design from their time as independent towns.]]
 
-Arco.jpg, retain a distinct urban design from their time as independent towns.]]
-
-KoreanRestaurantsFlorenciaStreet.JPG area of the Zona Rosa.]]
+area of the Zona Rosa.]]
 
 For administrative purposes, the Federal District is divided into 16 "delegaciones", or boroughs. While they are not fully equivalent to municipalities, the boroughs have gained significant autonomy, and since 2000, their heads of government have been elected directly by plurality (they had been appointed by the head of government of the Federal District). Since Mexico City is organized entirely as a Federal District, most of the city services are provided or organized by the Government of the Federal District, not by the boroughs themselves; in the constituent states, such services would be provided by the municipalities. The boroughs of Mexico City with their 2010 populations are:[108]
 
@@ -237,8 +232,6 @@ In contrast, the boroughs of Xochimilco (172nd), Tláhuac (177th), and Iztapalap
 
 Metropolitan area
 
-MX-DF-Crecimiento_de_la_ciudad_de_México.png
-
 Greater Mexico City is formed by Mexico City, 60 municipalities from the State of Mexico and one from the state of Hidalgo. Greater Mexico City is the largest metropolitan area in Mexico and the area with the highest population density. , 21,163,226 people live in this urban agglomeration, of which 8,841,916 live in Mexico City proper.[110] In terms of population, the biggest municipalities that are part of Greater Mexico City (excluding Mexico City proper) are:[111]
 
 -   Ecatepec de Morelos ( 1,658,806)
@@ -259,7 +252,7 @@ The net migration rate of Mexico City proper from 1995 to 2000 was negative,[113
 
 Law enforcement
 
-05022012Convenio_ssp_tlalpan_mondragon_pompa070.JPG]]
+]]
 
 The Secretariat of Public Security of Mexico City (Secretaría de Seguridad Pública de la Ciudad de México – SSP) manages a combined force of over 90,000 officers in Mexico City. The SSP is charged with maintaining public order and safety in the heart of Mexico City. The historic district is also roamed by tourist police, aiming to orient and serve tourists. These horse-mounted agents dress in traditional uniforms.
 
@@ -270,14 +263,14 @@ Between 2000 and 2004 an average of 478 crimes were reported each day in Mexico 
 
 Health
 
-Secretaría_de_Salud,_México_D.F.,_México,_2014-10-13,_DD_12.JPG]] Mexico City is home to some of the best private hospitals in the country, including Hospital Ángeles, Hospital ABC and Médica Sur. The national public healthcare institution for private-sector employees, IMSS, has its largest facilities in Mexico City—including the National Medical Center and the La Raza Medical Center—and has an annual budget of over 6 billion pesos. The IMSS and other public health institutions, including the ISSSTE (Public Sector Employees' Social Security Institute) and the National Health Ministry (SSA) maintain large specialty facilities in the city. These include the National Institutes of Cardiology, Nutrition, Psychiatry, Oncology, Pediatrics, Rehabilitation, among others.
+]] Mexico City is home to some of the best private hospitals in the country, including Hospital Ángeles, Hospital ABC and Médica Sur. The national public healthcare institution for private-sector employees, IMSS, has its largest facilities in Mexico City—including the National Medical Center and the La Raza Medical Center—and has an annual budget of over 6 billion pesos. The IMSS and other public health institutions, including the ISSSTE (Public Sector Employees' Social Security Institute) and the National Health Ministry (SSA) maintain large specialty facilities in the city. These include the National Institutes of Cardiology, Nutrition, Psychiatry, Oncology, Pediatrics, Rehabilitation, among others.
 
 The World Bank has sponsored a project to curb air pollution through public transport improvements and the Mexican government has started shutting down polluting factories. They have phased out diesel buses and mandated new emission controls on new cars; since 1993 all new cars must be fitted with a catalytic converter, which reduces the emissions released. Trucks must use only liquefied petroleum gas (LPG). Also construction of an underground rail system was begun in 1968 in order to help curb air pollution problems and alleviate traffic congestion. It currently has over of track and carries over 5 million people every day. Fees are kept low to encourage use of the system and during rush hours the crush is so great, that authorities have reserved a special carriage specifically for women. Due to these initiatives and others, the air quality in Mexico City has begun to improve; it is currently cleaner than it was in 1991, when the air quality was declared to be a public health risk for 355 days of the year.
 
 
 Economy
 
-Bolsa_Mexicana_de_Valores.png in Paseo de la Reforma, Mexico City]] Mexico City is one of the most important economic hubs in Latin America. The city proper produces 15.8% of the country's gross domestic product.[118] According to a study conducted by PwC, Mexico City had a GDP of $390 billion, ranking it as the eighth richest city in the world and the richest in Latin America.[119] Mexico City alone would rank as the 30th largest economy in the world.[120] Mexico City is the greatest contributor to the country's industrial GDP (15.8%) and also the greatest contributor to the country's GDP in the service sector (25.3%). Due to the limited non-urbanized space at the south—most of which is protected through environmental laws—the contribution of Mexico City in agriculture is the smallest of all federal entities in the country.[121] Mexico City has one of the world's fastest-growing economies and its GDP is set to double from 2008 to 2020.[122]
+in Paseo de la Reforma, Mexico City]] Mexico City is one of the most important economic hubs in Latin America. The city proper produces 15.8% of the country's gross domestic product.[118] According to a study conducted by PwC, Mexico City had a GDP of $390 billion, ranking it as the eighth richest city in the world and the richest in Latin America.[119] Mexico City alone would rank as the 30th largest economy in the world.[120] Mexico City is the greatest contributor to the country's industrial GDP (15.8%) and also the greatest contributor to the country's GDP in the service sector (25.3%). Due to the limited non-urbanized space at the south—most of which is protected through environmental laws—the contribution of Mexico City in agriculture is the smallest of all federal entities in the country.[121] Mexico City has one of the world's fastest-growing economies and its GDP is set to double from 2008 to 2020.[122]
 
 In 2002, Mexico City had a Human Development Index score of 0.915,[123] identical to that of South Korea.
 
@@ -288,9 +281,7 @@ The economic reforms of President Carlos Salinas de Gortari had a tremendous eff
 
 Demographics
 
-Basilica_de_Guadalupe,_tambien_llamada_La_Villa..JPG, the main Catholic pilgrimage site in the Americas]]
-
-Visita_guiada_a_las_dos_sinagogas_de_Justo_Sierra_(Centro,_México,_D.F.)_03.jpg
+, the main Catholic pilgrimage site in the Americas]]
 
 Historically, and since Pre-Columbian times, the Valley of Anahuac has been one of the most densely populated areas in Mexico. When the Federal District was created in 1824, the urban area of Mexico City extended approximately to the area of today's Cuauhtémoc borough. At the beginning of the 20th century, the _elites_ began migrating to the south and west and soon the small towns of Mixcoac and San Ángel were incorporated by the growing conurbation. According to the 1921 census, 54.78% of the city's population was considered Mestizo (Indigenous mixed with European), 22.79% considered European, and 18.74% considered Indigenous.[125] This was the last Mexican Census which asked people to self-identify with a heritage other than Amerindian. However, the census had the particularity that, unlike racial/ethnic census in other countries, it was focused in the perception of cultural heritage rather than in a racial perception, leading to a good number of white people to identify with "Mixed heritage" due to cultural influence.[126] In 1921, Mexico City had less than one million inhabitants.
 
@@ -313,7 +304,7 @@ Culture
 
 Tourism
 
-Turibus_Ciudad_de_Mexico.jpg Mexico City is a destination for many foreign tourists. Wikipedia's sister project Wikivoyage has useful information on tourism in Mexico City. The Historic center of Mexico City (_Centro Histórico_) and the "floating gardens" of Xochimilco in the southern borough have been declared World Heritage Sites by UNESCO. Landmarks in the Historic Center include the Plaza de la Constitución (Zócalo), the main central square with its epoch-contrasting Spanish-era Metropolitan Cathedral and National Palace, ancient Aztec temple ruins Templo Mayor ("Major Temple") and modern structures, all within a few steps of one another. (The Templo Mayor was discovered in 1978 while workers were digging to place underground electric cables).
+Mexico City is a destination for many foreign tourists. Wikipedia's sister project Wikivoyage has useful information on tourism in Mexico City. The Historic center of Mexico City (_Centro Histórico_) and the "floating gardens" of Xochimilco in the southern borough have been declared World Heritage Sites by UNESCO. Landmarks in the Historic Center include the Plaza de la Constitución (Zócalo), the main central square with its epoch-contrasting Spanish-era Metropolitan Cathedral and National Palace, ancient Aztec temple ruins Templo Mayor ("Major Temple") and modern structures, all within a few steps of one another. (The Templo Mayor was discovered in 1978 while workers were digging to place underground electric cables).
 
 The most recognizable icon of Mexico City is the golden Angel of Independence on the wide, elegant avenue Paseo de la Reforma, modeled by the order of the Emperor Maximilian of Mexico after the Champs-Élysées in Paris. This avenue was designed over the Americas' oldest known major roadway in the 19th century to connect the National Palace (seat of government) with the Castle of Chapultepec, the imperial residence. Today, this avenue is an important financial district in which the Mexican Stock Exchange and several corporate headquarters are located. Another important avenue is the Avenida de los Insurgentes, which extends and is one of the longest single avenues in the world.
 
@@ -325,13 +316,13 @@ In addition, there are several restored _haciendas_ that are now restaurants, su
 
 Art
 
-Bellas_Artes_01.jpg is the prominent cultural center in the city]]
+is the prominent cultural center in the city]]
 
 Having been capital of a vast pre-Hispanic empire, and also the capital of richest viceroyalty within the Spanish Empire (ruling over a vast territory in the Americas and Spanish West Indies), and, finally, the capital of the United Mexican States, Mexico City has a rich history of artistic expression. Since the mesoamerican pre-Classical period the inhabitants of the settlements around Lake Texcoco produced many works of art and complex craftsmanship, some of which are today displayed at the world-renowned National Museum of Anthropology and the _Templo Mayor_ museum. While many pieces of pottery and stone-engraving have survived, the great majority of the Amerindian iconography was destroyed during the Conquest of Mexico.
 
 Much of the early colonial art stemmed from the codices (Aztec illustrated books), aiming to recover and preserve some Aztec and other Amerindian iconography and history. From then, artistic expressions in Mexico were mostly religious in theme. The Metropolitan Cathedral still displays works by Juan de Rojas, Juan Correa and an oil painting whose authorship has been attributed to Murillo. Secular works of art of this period include the equestrian sculpture of Charles IV of Spain, locally known as _El Caballito_ ("The little horse"). This piece, in bronze, was the work of Manuel Tolsá and it has been placed at the Plaza Tolsá, in front of the Palacio de Mineria (Mining Palace). Directly in front of this building is the Museo Nacional de Arte (Munal) (the National Museum of Art).
 
-ReceptHallMUNAL.JPG]] During the 19th century, an important producer of art was the Academia de San Carlos (San Carlos Art Academy), founded during colonial times, and which later became the Escuela Nacional de Artes Plásticas (the National School of Arts) including painting, sculpture and graphic design, one of UNAM's art schools. Many of the works produced by the students and faculty of that time are now displayed in the Museo Nacional de San Carlos (National Museum of San Carlos). One of the students, José María Velasco, is considered one of the greatest Mexican landscape painters of the 19th century. Porfirio Díaz's regime sponsored arts, especially those that followed the French school. Popular arts in the form of cartoons and illustrations flourished, e.g. those of José Guadalupe Posada and Manuel Manilla. The permanent collection of the San Carlos Museum also includes paintings by European masters such as Rembrandt, Velázquez, Murillo, and Rubens.
+]] During the 19th century, an important producer of art was the Academia de San Carlos (San Carlos Art Academy), founded during colonial times, and which later became the Escuela Nacional de Artes Plásticas (the National School of Arts) including painting, sculpture and graphic design, one of UNAM's art schools. Many of the works produced by the students and faculty of that time are now displayed in the Museo Nacional de San Carlos (National Museum of San Carlos). One of the students, José María Velasco, is considered one of the greatest Mexican landscape painters of the 19th century. Porfirio Díaz's regime sponsored arts, especially those that followed the French school. Popular arts in the form of cartoons and illustrations flourished, e.g. those of José Guadalupe Posada and Manuel Manilla. The permanent collection of the San Carlos Museum also includes paintings by European masters such as Rembrandt, Velázquez, Murillo, and Rubens.
 
 After the Mexican Revolution, an avant-garde artistic movement originated in Mexico City: muralism. Many of the works of muralists José Clemente Orozco, David Alfaro Siqueiros and Diego Rivera are displayed in numerous buildings in the city, most notably at the National Palace and the Palacio de Bellas Artes. Frida Kahlo, wife of Rivera, with a strong nationalist expression, was also one of the most renowned of Mexican painters. Her house has become a museum that displays many of her works.[141]
 
@@ -341,15 +332,15 @@ During the 20th century, many artists immigrated to Mexico City from different r
 
 Museums
 
-OutsideCasaAzul.JPG]]
+]]
 
-Soumaya201808p2.jpg]]
+]]
 
 Mexico City has numerous museums dedicated to art, including Mexican colonial, modern and contemporary art, and international art. The Museo Tamayo was opened in the mid-1980s to house the collection of international contemporary art donated by famed Mexican (born in the state of Oaxaca) painter Rufino Tamayo. The collection includes pieces by Picasso, Klee, Kandinsky, Warhol and many others, though most of the collection is stored while visiting exhibits are shown. The Museo de Arte Moderno (Museum of Modern Art) is a repository of Mexican artists from the 20th century, including Rivera, Orozco, Siqueiros, Kahlo, Gerzso, Carrington, Tamayo, among others, and also regularly hosts temporary exhibits of international modern art. In southern Mexico City, the Museo Carrillo Gil (Carrillo Gil Museum) showcases avant-garde artists, as does the University Museum/Contemporary Art (Museo Universitario Arte Contemporáneo – or MUAC), designed by famed Mexican architect Teodoro González de León, inaugurated in late 2008.
 
 The Museo Soumaya, named after the wife of Mexican magnate Carlos Slim, has the largest private collection of original Rodin sculptures outside Paris. It also has a large collection of Dalí sculptures, and recently began showing pieces in its masters collection including El Greco, Velázquez, Picasso and Canaletto. The museum inaugurated a new futuristic-design facility in 2011 just north of Polanco, while maintaining a smaller facility in Plaza de Loreto in southern Mexico City. The Colección Júmex is a contemporary art museum located on the sprawling grounds of the Jumex juice company in the northern industrial suburb of Ecatepec. It is said to have the largest private contemporary art collection in Latin America and hosts pieces from its permanent collection as well as traveling exhibits by leading contemporary artists. The new Museo Júmex in Nuevo Polanco was slated to open in November 2013. The Museo de San Ildefonso, housed in the Antiguo Colegio de San Ildefonso in Mexico City's historic downtown district is a 17th-century colonnaded palace housing an art museum that regularly hosts world-class exhibits of Mexican and international art. Recent exhibits have included those on David LaChapelle, Antony Gormley and Ron Mueck. The National Museum of Art (Museo Nacional de Arte) is also located in a former palace in the historic center. It houses a large collection of pieces by all major Mexican artists of the last 400 years and also hosts visiting exhibits.
 
-Hochob_Campeche_-_Rekonstruktion_des_Tempels.jpg]]
+]]
 
 Jack Kerouac, the noted American author, spent extended periods of time in the city, and wrote his masterpiece volume of poetry _Mexico City Blues_ here. Another American author, William S. Burroughs, also lived in the Colonia Roma neighborhood of the city for some time. It was here that he accidentally shot his wife.
 
@@ -359,9 +350,7 @@ Another major addition to the city's museum scene is the Museum of Remembrance a
 
 Music, theater and entertainment
 
-Teatro_de_la_Ciudad_de_Mexico.jpg
-
-ACMX16.JPG]]
+]]
 
 Mexico City is home to a number of orchestras offering season programs. These include the Mexico City Philharmonic,[143] which performs at the Sala Ollin Yoliztli; the National Symphony Orchestra, whose home base is the Palacio de Bellas Artes (Palace of the Fine Arts), a masterpiece of art nouveau and art decó styles; the Philharmonic Orchestra of the National Autonomous University of Mexico (OFUNAM),[144] and the Minería Symphony Orchestra,[145] both of which perform at the Sala Nezahualcóyotl, which was the first wrap-around concert hall of the world's western hemisphere when inaugurated in 1976. There are also many smaller ensembles that enrich the city's musical scene, including the Carlos Chávez Youth Symphony, the Cuarteto Latinoamericano, the New World Orchestra (Orquesta del Nuevo Mundo), the National Polytechnical Symphony and the Bellas Artes Chamber Orchestra (Orquesta de Cámara de Bellas Artes).
 
@@ -396,7 +385,7 @@ Transportation
 
 Public transportation
 
-NM-02_STC.jpg]] Mexico City has many modes of public transportation, from the metro (subway) system, to suburban rail, light rail, regular buses, BRT (bus rapid transit), 'pesero' minibuses, and trolleybuses, to bike share.
+]] Mexico City has many modes of public transportation, from the metro (subway) system, to suburban rail, light rail, regular buses, BRT (bus rapid transit), 'pesero' minibuses, and trolleybuses, to bike share.
 
 Metro
 
@@ -424,7 +413,7 @@ Suburban buses also leave from the city's main intercity bus stations.
 
 Bus rapid transit
 
-Estación_SetDominguez.jpg rapid transit bus stop station at Indios Verdes]] The city's first bus rapid transit line, the METROBÚS, began operation in June 2005, along Avenida Insurgentes. More and more lines opened and as of mid-2017 there are 6 routes with a 7th planned along Paseo de la Reforma to connect Santa Fe with the city center and points north.[165] As each line opened, the 'pesero' minibuses were removed from each route, in order to reduce pollution and commute times. As of mid-2017, there were 568[166] Metrobús buses. In late 2016 they transported an average of 1.1 million passengers daily.[167]
+rapid transit bus stop station at Indios Verdes]] The city's first bus rapid transit line, the METROBÚS, began operation in June 2005, along Avenida Insurgentes. More and more lines opened and as of mid-2017 there are 6 routes with a 7th planned along Paseo de la Reforma to connect Santa Fe with the city center and points north.[165] As each line opened, the 'pesero' minibuses were removed from each route, in order to reduce pollution and commute times. As of mid-2017, there were 568[166] Metrobús buses. In late 2016 they transported an average of 1.1 million passengers daily.[167]
 
 MEXIBÚS provides 3 bus rapid transit lines connecting Metro Ciudad Azteca and Metro Pantitlán with Cuautitlán, Ecatepec and other suburban areas in the State of Mexico.[168]
 
@@ -434,7 +423,7 @@ Electric transport other than the metro also exists, in the form of several Mexi
 
 Roads and car transport
 
-Vista_de_la_Ciudad_de_México_desde_Periferico_y_Paseo_de_la_Reforma.JPG and Paseo de la Reforma in Miguel Hidalgo]] In the late 1970s many arterial roads were redesigned as _ejes viales_; high-volume one-way roads that cross, in theory, Mexico City proper from side to side. The _eje vial_ network is based on a quasi-Cartesian grid, with the _ejes_ themselves being called _Eje 1 Poniente_, _Eje Central_, and _Eje 1 Oriente_, for example, for the north-south roads, and _Eje 2 Sur_ and _Eje 3 Norte_, for example, for east-west roads. Ring roads are the Circuito Interior (inner ring), Anillo Periférico; the Circuito Exterior Mexiquense ("State of Mexico outer loop") toll road skirting the northeastern and eastern edges of the metropolitan area,[169] the Chamapa-La Venta toll road skirting the northwestern edge, and the Arco Norte completely bypassing the metropolitan area in an arc from northwest (Atlacomulco) to north (Tula, Hidalgo) to east (Puebla). A second level (where tolls are charged) of the Periférico, colloquially called the _segundo piso_ ("second floor"), was officially opened in 2012, with sections still being completed.[170] The Viaducto Miguel Alemán crosses the city east-west from Observatorio to the airport. In 2013 the Supervía Poniente opened, a toll road linking the new Santa Fe business district with southwestern Mexico City.
+and Paseo de la Reforma in Miguel Hidalgo]] In the late 1970s many arterial roads were redesigned as _ejes viales_; high-volume one-way roads that cross, in theory, Mexico City proper from side to side. The _eje vial_ network is based on a quasi-Cartesian grid, with the _ejes_ themselves being called _Eje 1 Poniente_, _Eje Central_, and _Eje 1 Oriente_, for example, for the north-south roads, and _Eje 2 Sur_ and _Eje 3 Norte_, for example, for east-west roads. Ring roads are the Circuito Interior (inner ring), Anillo Periférico; the Circuito Exterior Mexiquense ("State of Mexico outer loop") toll road skirting the northeastern and eastern edges of the metropolitan area,[169] the Chamapa-La Venta toll road skirting the northwestern edge, and the Arco Norte completely bypassing the metropolitan area in an arc from northwest (Atlacomulco) to north (Tula, Hidalgo) to east (Puebla). A second level (where tolls are charged) of the Periférico, colloquially called the _segundo piso_ ("second floor"), was officially opened in 2012, with sections still being completed.[170] The Viaducto Miguel Alemán crosses the city east-west from Observatorio to the airport. In 2013 the Supervía Poniente opened, a toll road linking the new Santa Fe business district with southwestern Mexico City.
 
 There is an environmental program, called Hoy No Circula ("Today Does Not Run", or "One Day without a Car"), whereby vehicles that have not passed emissions testing are restricted from circulating on certain days according to the ending digit of their license plates; this in an attempt to cut down on pollution and traffic congestion. While in 2003, the program still restricted 40% of vehicles in the metropolitan area,[171] with the adoption of stricter emissions standards in 2001 and 2006,[172] in practice, these days most vehicles are exempt from the circulation restrictions as long as they pass regular emissions tests.[173]
 
@@ -444,7 +433,7 @@ Street parking in urban neighborhoods is mostly controlled by the _franeleros_ a
 
 Cycling
 
-ECOBICI1.jpg]]
+]]
 
 The local government continuously strives for a reduction of massive traffic congestion, and has increased incentives for making a bicycle-friendly city. This includes North America's second-largest bicycle sharing system, EcoBici, launched in 2010, in which registered residents can get bicycles for 45 minutes with a pre-paid subscription of 300 pesos a year. There are, as of September 2013, 276 stations with 4,000 bicycles across an area stretching from the Historic center to Polanco.[176] within of one another and are fully automatic using a transponder based card. Bicycle-service users have access to several permanent Ciclovías (dedicated bike paths/lanes/streets), including ones along Paseo de la Reforma and Avenida Chapultepec as well as one running from Polanco to Fierro del Toro, which is located south of Cumbres del Ajusco National Park, near the Morelos state line.[177][178] The city's initiative is inspired by forward thinking examples, such as Denmark's Copenhagenization.
 
@@ -453,8 +442,6 @@ Intercity buses
 The city has four major bus stations (North, South, Observatorio, TAPO), which comprise one of the world's largest transportation agglomerations, with bus service to many cities across the country and international connections. There are some intercity buses that leave directly from the Mexico City International Airport.
 
 Airports
-
-AICM_AIR_T2.jpg
 
 Mexico City is served by Mexico City International Airport (IATA Airport Code: MEX). This airport is Latin America's busiest, with daily flights to United States and Canada, Mexico, Central America and the Caribbean, South America, Europe and Asia. Aeroméxico (Skyteam) is based at this airport, and provide codeshare agreements with non-Mexican airlines that span the entire globe. The airport is also a hub for Volaris, Interjet and Aeromar.
 
@@ -467,7 +454,7 @@ During his annual state-of-the-nation address on September 2, 2014, President of
 
 Education
 
-Sanborns_DF.jpg department store with the façade of a 19th-century home being used as an entrance area]] PalacioHierroOrigStoreCentroDF.JPG store]] The National Autonomous University of Mexico (UNAM), located in Mexico City, is the largest university on the continent, with more than 300,000 students from all backgrounds. Three Nobel laureates, several Mexican entrepreneurs and most of Mexico's modern-day presidents are among its former students. UNAM conducts 50% of Mexico's scientific research and has presence all across the country with satellite campuses, observatories and research centres. UNAM ranked 74th in the Top 200 World University Ranking published by Times Higher Education (then called Times Higher Education Supplement) in 2006,[182] making it the highest ranked Spanish-speaking university in the world. The sprawling main campus of the university, known as Ciudad Universitaria, was named a World Heritage Site by UNESCO in 2007.
+department store with the façade of a 19th-century home being used as an entrance area]] store]] The National Autonomous University of Mexico (UNAM), located in Mexico City, is the largest university on the continent, with more than 300,000 students from all backgrounds. Three Nobel laureates, several Mexican entrepreneurs and most of Mexico's modern-day presidents are among its former students. UNAM conducts 50% of Mexico's scientific research and has presence all across the country with satellite campuses, observatories and research centres. UNAM ranked 74th in the Top 200 World University Ranking published by Times Higher Education (then called Times Higher Education Supplement) in 2006,[182] making it the highest ranked Spanish-speaking university in the world. The sprawling main campus of the university, known as Ciudad Universitaria, was named a World Heritage Site by UNESCO in 2007.
 
 The second largest higher-education institution is the National Polytechnic Institute (IPN), which includes among many other relevant centers the Centro de Investigación y de Estudios Avanzados (Cinvestav), where varied high-level scientific and technological research is done. Other major higher-education institutions in the city include the Metropolitan Autonomous University (UAM), the National School of Anthropology and History (ENAH), the Instituto Tecnológico Autónomo de México (ITAM), the Monterrey Institute of Technology and Higher Education (3 campuses), the Universidad Panamericana (UP), the Universidad La Salle, the Universidad del Valle de Mexico (UVM), the Universidad Anáhuac, Simon Bolivar University (USB), the Alliant International University, the Universidad Iberoamericana, El Colegio de México (Colmex), Escuela Libre de Derecho and the Centro de Investigación y Docencia Económica, (CIDE). In addition, the prestigious University of California maintains a campus known as "Casa de California" in the city.[183] The Universidad Tecnológica de México is also in Mexico City.
 
@@ -513,7 +500,7 @@ Small "mom-and-pop" corner stores ("abarroterías" or more colloquially as "chan
 
 Parks and recreation
 
-Lago_de_Chapultepec_desde_el_castillo_-_panoramio.jpg park]] Alameda_Central,_Mexico_City.jpg]] Chapultepec Park, the city's most iconic public park, has history back to the Aztec emperors who used the area as a retreat. It is south of Polanco district, and houses the city's zoo, several ponds, seven museums including the National Museum of Anthropology, and the oldest and most traditional amusement park, La Feria de Chapultepec Mágico, with its vintage Montaña Rusa rollercoaster.
+park]] ]] Chapultepec Park, the city's most iconic public park, has history back to the Aztec emperors who used the area as a retreat. It is south of Polanco district, and houses the city's zoo, several ponds, seven museums including the National Museum of Anthropology, and the oldest and most traditional amusement park, La Feria de Chapultepec Mágico, with its vintage Montaña Rusa rollercoaster.
 
 Other iconic city parks include the Alameda Central historic center, a city park since colonial times and renovated in 2013; Parque México and Parque España in the hip Condesa district; Parque Hundido and _Parque de los Venados_ in Colonia del Valle, and Parque Lincoln in Polanco.[189] There are many smaller parks throughout the city. Most are small "squares" occupying two or three square blocks amid residential or commercial districts.
 
@@ -533,13 +520,13 @@ Sports
   Cruz Azul                  Azteca Stadium               Liga MX
   Diablos Rojos del México   Fray Nano Stadium            Mexican League
 
-Estadio_Azteca_07a.jpg, the 12th largest stadium in the world]]
+, the 12th largest stadium in the world]]
 
 Association football is the country's most popular and most televised franchised sport. Its important venues in Mexico City include the Azteca Stadium, home to the Mexico national football team and giants América, which can seat 91,653 fans, making it the biggest stadium in Latin America. The Olympic Stadium in Ciudad Universitaria is home to the football club giants Universidad Nacional, with a seating capacity of over 52,000. The Estadio Azul, which seats 33,042 fans, is near the World Trade Center Mexico City in the Nochebuena neighborhood, and is home to the giants Cruz Azul. The three teams are based in Mexico City and play in the First Division; they are also part, with Guadalajara-based giants Club Deportivo Guadalajara, of Mexico's traditional "Big Four" (though recent years have tended to erode the teams' leading status at least in standings). The country hosted the FIFA World Cup in 1970 and 1986, and Azteca Stadium is the first stadium in World Cup history to host the final twice.
 
 Mexico City is the first Latin American city to host the Olympic Games, having held the Summer Olympics in 1968, winning bids against Buenos Aires, Lyon and Detroit. The city hosted the 1955 and 1975 Pan American Games, the last after Santiago and São Paulo withdrew. The ICF Flatwater Racing World Championships were hosted here in 1974 and 1994. Lucha libre is a Mexican style of wrestling, and is one of the more popular sports throughout the country. The main venues in the city are Arena México and Arena Coliseo.
 
-Estadio_Olímpico_Universitario_2.jpeg, considered the "most important building in Modern Americas" by American architect Frank Lloyd Wright.]]
+, considered the "most important building in Modern Americas" by American architect Frank Lloyd Wright.]]
 
 The Autódromo Hermanos Rodríguez is the main venue for motorsport, and hosts the Formula 1 Mexican Grand Prix since its return to the sport in 2015, the event being held in the past from 1962 to 1970, and again from 1986 to 1992. From 1980 to 1981 and again from 2002 to 2007, the circuit hosted the Champ Car World Series Gran Premio de México. Beginning in 2005, the NASCAR Nationwide Series ran the Telcel-Motorola México 200. 2005 also marked the first running of the Mexico City 250 by the Grand-Am Rolex Sports Car Series. Both races were removed from their series' schedules for 2009.
 

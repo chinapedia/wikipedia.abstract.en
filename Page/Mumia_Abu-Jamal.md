@@ -47,8 +47,6 @@ In December 1981, Abu-Jamal was working as a taxicab driver in Philadelphia two 
 
 Traffic stop and death of officer Faulkner
 
-Daniel_faulkner.jpg
-
 At 3:55 am on December 9, 1981, in Philadelphia, close to the intersection at 13th and Locust streets, Philadelphia Police Department officer Daniel Faulkner conducted a traffic stop on a vehicle belonging to and driven by William Cook, Abu-Jamal's younger brother. Faulkner and Cook became engaged in a physical confrontation.[37] Driving his cab in the vicinity, Abu-Jamal observed the altercation, parked, and ran across the street toward Cook's car.[38] Faulkner was shot from behind and in the face. He shot Abu-Jamal in the stomach. Faulkner died at the scene from the gunshot to his head.
 
 Arrest and trial
@@ -80,7 +78,7 @@ Abu-Jamal was sentenced to death by the unanimous decision of the jury. Amnesty 
 
 Appeals and review
 
-Tom_Ridge.jpg Tom Ridge signed the death warrant in 1995.]]
+Tom Ridge signed the death warrant in 1995.]]
 
 State appeals
 
@@ -161,7 +159,7 @@ On March 30, 2015, he suffered diabetic shock and has been diagnosed with active
 
 Popular support and opposition
 
-Freygang_-_Mumia_Abu-Jamal_03.jpg Labor unions,[116][117][118] politicians,[119] advocates,[120] educators,[121] the NAACP Legal Defense and Educational Fund,[122] and human rights advocacy organizations such as Human Rights Watch[123] and Amnesty International have expressed concern about the impartiality of the trial of Abu-Jamal.[124] Amnesty International neither takes a position on the guilt or innocence of Abu-Jamal nor classifies him as a political prisoner.[125]
+Labor unions,[116][117][118] politicians,[119] advocates,[120] educators,[121] the NAACP Legal Defense and Educational Fund,[122] and human rights advocacy organizations such as Human Rights Watch[123] and Amnesty International have expressed concern about the impartiality of the trial of Abu-Jamal.[124] Amnesty International neither takes a position on the guilt or innocence of Abu-Jamal nor classifies him as a political prisoner.[125]
 
 The family of Daniel Faulkner, the Commonwealth of Pennsylvania, the City of Philadelphia,[126] politicians,[127][128] and the Fraternal Order of Police have continued to support the original trial and sentencing of the journalist.[129] In August 1999, the Fraternal Order of Police called for an economic boycott against all individuals and organizations that support Abu-Jamal.[130]
 
@@ -169,7 +167,7 @@ Partly based on his own writing, Abu-Jamal and his cause have become widely know
 
 In 2001, he received the sixth biennial Erich Mühsam Prize, named after an anarcho-communist essayist, which recognizes activism in line with that of its namesake.[133] In October 2002, he was made an honorary member of the German political organization Society of People Persecuted by the Nazi Regime – Federation of Anti-Fascists (VVN-BdA)[134]
 
-On April 29, 2006, a newly paved road in the Parisian suburb of Saint-Denis was named Rue Mumia Abu-Jamal in his honor.[135] In protest of the street-naming, U.S. Congressman Michael Fitzpatrick and Senator Rick Santorum, both members of the Republican Party of Pennsylvania, introduced resolutions in both Houses of Congress condemning the decision.[136][137] The House of Representatives voted 368–31 in favor of Fitzpatrick's resolution.[138] In December 2006, the 25th anniversary of the murder, the executive committee of the Republican Party for the 59th Ward of the City of Philadelphia—covering approximately Germantown, Philadelphia—filed two criminal complaints in the French legal system against the city of Paris and the city of Saint-Denis, accusing the municipalities of "glorifying" Abu-Jamal and alleging the offense "apology or denial of crime" in respect of their actions.[139][140] Photo_of_anti_Mumia_Abu_Jamal_T-Shirt.JPG
+On April 29, 2006, a newly paved road in the Parisian suburb of Saint-Denis was named Rue Mumia Abu-Jamal in his honor.[135] In protest of the street-naming, U.S. Congressman Michael Fitzpatrick and Senator Rick Santorum, both members of the Republican Party of Pennsylvania, introduced resolutions in both Houses of Congress condemning the decision.[136][137] The House of Representatives voted 368–31 in favor of Fitzpatrick's resolution.[138] In December 2006, the 25th anniversary of the murder, the executive committee of the Republican Party for the 59th Ward of the City of Philadelphia—covering approximately Germantown, Philadelphia—filed two criminal complaints in the French legal system against the city of Paris and the city of Saint-Denis, accusing the municipalities of "glorifying" Abu-Jamal and alleging the offense "apology or denial of crime" in respect of their actions.[139][140]
 
 In 2007, the widow of Officer Faulkner co-authored a book with Philadelphia radio journalist Michael Smerconish titled _Murdered by Mumia: A Life Sentence of Pain, Loss, and Injustice._[141] The book was part memoir of Faulkner's widow, and part discussion in which they chronicled Abu-Jamal's trial and discussed evidence for his conviction. They also discussed support for the death penalty.[142]
 

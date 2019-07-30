@@ -46,7 +46,7 @@ In his first speech in _Paradise Lost_, Satan describes how "The associates and 
 
 Real rivers
 
-Rio_Lima_2.JPG, Portugal]]
+, Portugal]]
 
 Amongst authors in Antiquity, the tiny Lima river between Norte Region, Portugal and Galicia, Spain was said to have the same properties of memory loss as the legendary Lethe River, being mistaken for it. In 138 BCE, the Roman general Decimus Junius Brutus Callaicus sought to dispose of the myth, as it impeded his military campaigns in the area. He was said to have crossed the Lima and then called his soldiers from the other side, one by one, by name. The soldiers, astonished that their general remembered their names, crossed the river as well without fear. This act proved that the Lima was not as dangerous as the local myths described.[9]
 

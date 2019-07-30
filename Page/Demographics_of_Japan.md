@@ -1,4 +1,4 @@
-Bdrates_of_Japan_since_1950.svg" year which is viewed as a bad omen by the Japanese Zodiac.[1]]]
+" year which is viewed as a bad omen by the Japanese Zodiac.[1]]]
 
 The demographic features of the population of Japan include population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects regarding the population.
 
@@ -25,7 +25,7 @@ Based on 2012 data from the National Institute of Population and Social Security
 
 The world population-ranking of Japan dropped from 7th to 8th in 1990, to 9th in 1998, and to 10th in the early 21st century. In 2015 it dropped further to 11th place, according both to the UN and to the PRB. Over the period of 2010 to 2015, the population shrank by almost a million.[12]
 
-Japan_Population_density_map.svg map per prefecture as of 2009 per square kilometer ]]
+map per prefecture as of 2009 per square kilometer ]]
 
 Census
 
@@ -41,7 +41,7 @@ National and regional governments devote resources to making regional cities and
 
 Urban distribution
 
-Population_of_Japan_by_area,_2015.png (Blue shades) and Prefectures (Red: Most populous, Green: Less)
+(Blue shades) and Prefectures (Red: Most populous, Green: Less)
 KANTO, KEIHANSHIN and TOKAI are three largest metropolitan areas which have about 2/3 of total population of Japan. Out of 47 prefectures, 13 are red and 34 are green.
 The population of Japan has been decreasing since 2011. Only 8 prefectures had increased its population compare to 2010, due to internal migration to large cities. ]] {{ external media | topic = Views of the World | align = | width = | image1 = Japan Gridded Population Cartogram | image2 = Japan Gridded Population }} Japan has a high population concentration in urban areas on the plains since 75% of Japan’s land area is made up of mountains,[20] and also Japan has a forest cover rate of 68.5% (the only other developed countries with such a high forest cover percentage are Finland and Sweden).[21] The 2010 census shows 90.7% of the total Japanese population live in cities.[22]
 
@@ -103,15 +103,13 @@ File:Japan sex by age 1888.png|1888-12-31 File:Japan sex by age 1920.png|1920-10
 
 Demographic statistics from the CIA World Factbook
 
-Non_marital_by_countries.gif
-
 Population
 
 The population consisted of 47,062,743 households, with 78.7% in urban areas (July 2000). High population density; 329.5 people per square kilometer for total area; 1,523 persons per square kilometer for habitable land. More than 50% of the population lives on 2% of the land. (July 1993).[31] According to research in 2018, the population to land density ratio has gradually increased, now at 127 Million per 337 km2. Compared to the findings of July 1993 as well as in July 2000, the Population density has greatly increased, from 50% of the population living on 2% of the land to 77%. However, as the years have progressed since the last recordings of the population, Japan’s population has decreased, raising concern about the future of Japan. There are many causes, such as the declining birthrates, as well as the ratio of men to women since the last measurements from the years of 2006 and 2010. According to the Japanese Health Ministry, the population is estimated to drop from its current state of 126.26 million to 86.74 million by the year 2060.[32]
 
 Sex ratio
 
-Shijo_procession_girls_197143581_d6ea13f0a2_o.jpgs]] (2006 est.)
+s]] (2006 est.)
 
     at birth: 1.05 male(s)/female
     under 15 years: 1.05 male(s)/female
@@ -145,7 +143,7 @@ Deaths
 
 Ethnic groups
 
-Shibuya_Crossing,_May_2017.jpg, Tokyo]] Naturalized Japanese citizens and native-born Japanese nationals with multi-ethnic background are all considered to be Japanese in the population census of Japan,[35] therefore no ethnicity census data is available.
+, Tokyo]] Naturalized Japanese citizens and native-born Japanese nationals with multi-ethnic background are all considered to be Japanese in the population census of Japan,[35] therefore no ethnicity census data is available.
 
 Marital status
 
@@ -405,7 +403,7 @@ One of the largest minority groups among Japanese citizens is the Ryukyuan peopl
 
 Ainu
 
-"Ainus_in_national_Gala-Costume,_married_women_with_tattooed_mustache."_Department_of_Anthropology,_Japanese_exhibit,_1904_World's_Fair.jpg The third largest minority group among Japanese citizens is the Ainu, whose language is an isolate. Historically, the Ainu were an indigenous hunting and gathering population who occupied most of northern Honshū as late as the Nara period (A.D. 710–94). As Japanese settlement expanded, the Ainu were pushed northward,[81] by the Tokugawa shogunate, the Ainu were pushed into the island of Hokkaido.[82]
+The third largest minority group among Japanese citizens is the Ainu, whose language is an isolate. Historically, the Ainu were an indigenous hunting and gathering population who occupied most of northern Honshū as late as the Nara period (A.D. 710–94). As Japanese settlement expanded, the Ainu were pushed northward,[81] by the Tokugawa shogunate, the Ainu were pushed into the island of Hokkaido.[82]
 
 Characterized as remnants of a primitive circumpolar culture, the fewer than 20,000 Ainu in 1990 were considered racially distinct and thus not fully Japanese. Disease and a low birth rate had severely diminished their numbers over the past two centuries, and intermarriage had brought about an almost completely mixed population.[83]
 
@@ -420,13 +418,11 @@ In the 1940s, biracial Japanese children (Ainoko), specifically Amerasian childr
 
 Foreign residents
 
-Transition_of_Foreigners_in_Japan.png Age_and_Sex_Distribution_of_Major_Foreigners_in_Japan_en.png
-
 In 2005, there were 1,555,505 foreign residents in Japan, representing 1.22% of the Japanese population.[88] Foreign Army personnel, of which there were up to 430,000 from the SCAP (post-occupation, United States Forces Japan) and 40,000 BCOF in the immediate post-war years, have not been at any time included in Japanese foreign resident statistics.[89] Most foreign residents in Japan come from Brazil or from other Asian countries, particularly from China, South Korea, the Philippines, Vietnam and Nepal.[90][91]
 
 A number of long-term resident Koreans in Japan today retain familial links with the descendants of Koreans,[92] that either immigrated voluntarily or were forcibly relocated during the Japanese Occupation of the Korea. Within this group, a number hold Special Permanent Resident status, granted under the terms of the Normalisation Treaty (22. June 1965) between South Korea and Japan.[93] In many cases special residents, despite being born in Japan and speaking Japanese, have chosen not to take advantage of the mostly automatic granting of citizenship to special resident applicants.[94]
 
-Beginning in 1947 the Japanese government started to repatriate Korean nationals, who had nominally been granted Japanese citizenship during the years of military occupation. When the Treaty of San Francisco came into force many ethnic Koreans lost their Japanese citizenship from April 28, 1952 and with it the right to welfare grants, to hold a government job of any kind or to attend Japanese schools.[95] In the following year the government contrived, with the help of the Red Cross, a scheme to "repatriate" Korean residents, who mainly were from the Southern Provinces, to their "home" of North Korea.[96] Between 1959 and 1984 93,430 people used this route. 6,737 were Japanese or Chinese dependents. Most of these departures – 78,276 – occurred before 1962.[97] Foreign-born_population_by_citizenship_in_2016_.png All non-Japanese without special residential status (people whose residential roots go back to before WWII) are required by law to register with the government and carry alien registration cards. From the early 1980s, a civil disobedience movement encouraged refusal of the fingerprinting that accompanied registration every five years.[98]
+Beginning in 1947 the Japanese government started to repatriate Korean nationals, who had nominally been granted Japanese citizenship during the years of military occupation. When the Treaty of San Francisco came into force many ethnic Koreans lost their Japanese citizenship from April 28, 1952 and with it the right to welfare grants, to hold a government job of any kind or to attend Japanese schools.[95] In the following year the government contrived, with the help of the Red Cross, a scheme to "repatriate" Korean residents, who mainly were from the Southern Provinces, to their "home" of North Korea.[96] Between 1959 and 1984 93,430 people used this route. 6,737 were Japanese or Chinese dependents. Most of these departures – 78,276 – occurred before 1962.[97] All non-Japanese without special residential status (people whose residential roots go back to before WWII) are required by law to register with the government and carry alien registration cards. From the early 1980s, a civil disobedience movement encouraged refusal of the fingerprinting that accompanied registration every five years.[98]
 
 Opponents of fingerprinting argued that it was discriminatory because the only Japanese who were fingerprinted were criminals. The courts upheld fingerprinting, but the law was changed so that fingerprinting was done once rather than with each renewal of the registration,[99] which until a law reform in 1989 was usually required every six months for anybody from the age of 16. Those refusing fingerprinting were denied re-entry permits, thus depriving them of freedom of movement.
 
@@ -477,7 +473,7 @@ As of November 20, 2007, all foreigners entering Japan must be biometrically reg
 
 Religion
 
-Traditional_wedding_at_Meji-jingu_72570539_f30636e2ef_o.jpg at the Meiji Shrine]] Shinto and Buddhism are Japan's two major religions. They have co-existed for more than a thousand years. However, most Japanese people generally do not exclusively identify themselves as adherents of one religion, but rather incorporate various elements in a syncretic fashion.[113] There are small Christian and other minorities as well, with the Christian population dating to as early as the 1500s, as a result of European missionary work before sakoku was implemented from 1635–1853.
+at the Meiji Shrine]] Shinto and Buddhism are Japan's two major religions. They have co-existed for more than a thousand years. However, most Japanese people generally do not exclusively identify themselves as adherents of one religion, but rather incorporate various elements in a syncretic fashion.[113] There are small Christian and other minorities as well, with the Christian population dating to as early as the 1500s, as a result of European missionary work before sakoku was implemented from 1635–1853.
 
 
 See also

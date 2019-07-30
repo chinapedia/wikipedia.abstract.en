@@ -1,4 +1,4 @@
-Lightmatter_snowleopard.jpg, an endangered species, is found in the Khunjerab National Park]] KHUNJERAV PASS (; ) (elevation ) is a high mountain pass in the Karakoram Mountains in a strategic position on the northern border of Pakistan (Region of Gilgit–Baltistan’s Hunza and Nagar Districts) and on the southwest border of China (the Xinjiang region)
+, an endangered species, is found in the Khunjerab National Park]] KHUNJERAV PASS (; ) (elevation ) is a high mountain pass in the Karakoram Mountains in a strategic position on the northern border of Pakistan (Region of Gilgit–Baltistan’s Hunza and Nagar Districts) and on the southwest border of China (the Xinjiang region)
 
 
 Etymology
@@ -18,7 +18,7 @@ The long, relatively flat pass is often snow-covered[2] during the winter season
 
 The reconstructed Karakoram Highway passes thru Khunjerab Pass.
 
-Since June 1, 2006, there has been a daily bus service across the boundary from Gilgit to Kashgar, Xinjiang[4] A_road-sign_on_way_to_Khunjerab.jpg
+Since June 1, 2006, there has been a daily bus service across the boundary from Gilgit to Kashgar, Xinjiang[4]
 
 This is one of the international borders where left-hand traffic (Pakistan - administered Gilgit-Baltistan) changes to right-hand traffic (China) and vice versa.[5]
 
@@ -42,10 +42,6 @@ See also
 -   Gilgit–Baltistan
 -   Nathu La
 -   Abra del Acay
-
-Khunjerab_Pass_Karakorum.jpg
-
-Khunjerab_Pass_Monument.jpg
 
 
 Gallery

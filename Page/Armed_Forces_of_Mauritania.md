@@ -25,8 +25,6 @@ Weapons
 
 Small arms
 
-AKM_automatkarbin_-_7,62x39mm.jpg MAS_49_crop.jpg Browning_M1919a.png
-
   Name                     Origin          Type                   Variant   Notes
   ------------------------ --------------- ---------------------- --------- -------------------------
   TT pistol [11]           Soviet Union    Simi-auto pistol
@@ -67,7 +65,7 @@ More recent procurements have been from China in the form of the Harbin Y-12 II 
 
 Aircraft
 
-Mauritania_AF_Embraer_A-29B_Super_Tucano_5T-MAW_PAS_2013_02.jpg 2013.]] Mauritania_airforce_plane_in_the_Sahara.jpg Dakota in the Sahara.]]
+2013.]] Dakota in the Sahara.]]
 
   Aircraft                Origin           Type                  Variant   In service   Notes
   ----------------------- ---------------- --------------------- --------- ------------ -------------------------------------------------------
@@ -97,8 +95,6 @@ Mauritania has developed a five-year plan to develop its navy into a force that 
 The Mauritanian Navy was created on January 25, 1966, after the extension of Mauritania's territorial waters from . By 1972 the navy had one small patrol gunboat and two small patrol craft that performed port control and customs duties. In 1987 the navy had thirteen boats. Of these boats, only eight were seaworthy, and the navy could send only two vessels out to open water at a time. Mauritania's exclusive economic zone (EEZ) extended out from the coast, but even if effective coastal surveillance were possible, the navy's vessels would not be able to control Mauritania's waters. Nouadhibou housed the major naval base; Nouakchott housed a secondary base.[45]
 
 Ship inventory
-
-Gedarmerie_maritime_(remix).jpg
 
   Vessel                    Origin    Type            In service   Notes
   ------------------------- --------- --------------- ------------ ------------------

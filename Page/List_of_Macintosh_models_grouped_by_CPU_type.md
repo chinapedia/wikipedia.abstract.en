@@ -1,11 +1,11 @@
-Motorola_MC68000FN8.jpg This LIST OF MACINTOSH MODELS GROUPED BY CPU TYPE contains all CPUs used by Apple Inc. for their Macintosh computers. It is grouped by processor family, processor model, and then chronologically by Macintosh model.
+This LIST OF MACINTOSH MODELS GROUPED BY CPU TYPE contains all CPUs used by Apple Inc. for their Macintosh computers. It is grouped by processor family, processor model, and then chronologically by Macintosh model.
 
 
 Motorola 68000
 
 Motorola 68000
 
-KL_Motorola_MC68000_CDIP.jpg, as the early Macintosh models used]] The Motorola 68000 was the first Apple Macintosh processor. It had 32-bit CPU registers, a 24-bit address bus, and a 16-bit data path; Motorola referred to it as a "16–/32-bit microprocessor."<ref "16/32">
+, as the early Macintosh models used]] The Motorola 68000 was the first Apple Macintosh processor. It had 32-bit CPU registers, a 24-bit address bus, and a 16-bit data path; Motorola referred to it as a "16–/32-bit microprocessor."<ref "16/32">
 
 +--------------------+--------------------+-------------+-----------+----------------+----------------+--------------+
 | Processor          | Model              | Clock speed | FSB speed | L1 cache       | Introduced     | Discontinued |
@@ -38,7 +38,7 @@ KL_Motorola_MC68000_CDIP.jpg, as the early Macintosh models used]] The Motorola 
 
 Motorola 68020
 
-KL_Motorola_MC68020.jpg The Motorola 68020 was the first 32-bit Mac processor, first used on the Macintosh II. The 68020 had many improvements over the 68000, including an instruction cache, and was the first Mac processor to support a memory management unit, the Motorola 68851.
+The Motorola 68020 was the first 32-bit Mac processor, first used on the Macintosh II. The 68020 had many improvements over the 68000, including an instruction cache, and was the first Mac processor to support a memory management unit, the Motorola 68851.
 
 The Macintosh LC configured the 68020 to use a 16-bit system bus with ASICs that limited RAM to 10 MB (as opposed to the 32-bit limit of 4 GB).
 
@@ -46,13 +46,13 @@ The Macintosh LC configured the 68020 to use a 16-bit system bus with ASICs that
 
 Motorola 68030
 
-Motorola_68030_32-bit_microprocessor.jpg The Motorola 68030 was the first Mac processor with an integrated memory management unit, allowing for virtual memory. Another improvement over the 68020 was the addition of a data cache.
+The Motorola 68030 was the first Mac processor with an integrated memory management unit, allowing for virtual memory. Another improvement over the 68020 was the addition of a data cache.
 
 [TABLE]
 
 Motorola 68040
 
-KL_Motorola_XC68040.jpg The Motorola 68040 had improved per-clock performance compared to the 68030, as well as larger instruction and data caches, and was the first Mac processor with an integrated floating-point unit.
+The Motorola 68040 had improved per-clock performance compared to the 68030, as well as larger instruction and data caches, and was the first Mac processor with an integrated floating-point unit.
 
 The MC68LC040 version was less expensive because it omitted the floating-point unit.
 
@@ -140,7 +140,7 @@ PowerPC
 
 PowerPC 601
 
-IBM_PowerPC601_PPC601FD-080-2_top.jpg The PowerPC 601 was the first Mac processor to support the 32-bit PowerPC instruction set architecture.
+The PowerPC 601 was the first Mac processor to support the 32-bit PowerPC instruction set architecture.
 
 +--------------------------------+-------------------------------+-------------+-----------+----------+---------------+---------------+--------------+
 | Processor                      | Model                         | Clock speed | FSB speed | L1 cache | L2 cache      | Introduced    | Discontinued |
@@ -178,8 +178,6 @@ IBM_PowerPC601_PPC601FD-080-2_top.jpg The PowerPC 601 was the first Mac processo
 +--------------------------------+-------------------------------+-------------+-----------+----------+---------------+---------------+--------------+
 
 PowerPC 603
-
-XPC603PRX200LC_01.jpg
 
 +-------------------------------------+----------------------------------+-------------+-----------+----------+---------------+---------------+--------------+
 | Processor                           | Model                            | Clock speed | FSB speed | L1 cache | L2 cache      | Introduced    | Discontinued |
@@ -256,7 +254,7 @@ XPC603PRX200LC_01.jpg
 
 PowerPC 604
 
-IBM_PPC604e_200.jpg The PowerPC 604e was the first Mac processor available in a symmetric multiprocessing (SMP) configuration.
+The PowerPC 604e was the first Mac processor available in a symmetric multiprocessing (SMP) configuration.
 
 +---------------------------------+-------------------------------+-------------+-----------+----------+----------------+----------------+---------------+
 | Processor                       | Model                         | Clock speed | FSB speed | L2 cache | CPUs           | Introduced     | Discontinued  |
@@ -301,8 +299,6 @@ IBM_PPC604e_200.jpg The PowerPC 604e was the first Mac processor available in a 
 
 PowerPC G3
 
-PPC750CXEHP55-3_01.jpg
-
 +---------------------------------------------+-------------------------------------+-------------+-----------+----------------+----------------+--------------+
 | Processor                                   | Model                               | Clock speed | FSB speed | L2 cache       | Introduced     | Discontinued |
 |                                             |                                     | (MHz)       | (MT/s)    | (KB)           |                |              |
@@ -334,7 +330,7 @@ PPC750CXEHP55-3_01.jpg
 
 PowerPC G4
 
-Motorola_XPC7400RX400TK_top.jpg The PowerPC 7400 was the first Mac processor to include an AltiVec vector processing unit.
+The PowerPC 7400 was the first Mac processor to include an AltiVec vector processing unit.
 
 The PowerPC 7455 was the first Mac processor over 1 GHz.
 
@@ -394,8 +390,6 @@ The PowerPC 7455 was the first Mac processor over 1 GHz.
 +--------------------------------+-----------------------+-------------+-----------+----------+----------+----------------+----------------+--------------+
 
 PowerPC G5
-
-PPC-970fx.jpg
 
 The PowerPC 970 was the first 64-bit Mac processor.
 
@@ -479,7 +473,7 @@ Clovertown was the first quad-core Mac processor and the first to be found in an
 
 Penryn
 
-Core_2_Wolfdale.jpg Penryn added support for a subset for SSE4 (SSE4.1).
+Penryn added support for a subset for SSE4 (SSE4.1).
 
 +----------------------------+-------------+-------------+-----------+----------+------+---------------+---------------+--------------+
 | Processor                  | Model       | Clock speed | FSB speed | L2 cache | CPUs | Cores per     | Introduced    | Discontinued |
@@ -508,8 +502,6 @@ Core_2_Wolfdale.jpg Penryn added support for a subset for SSE4 (SSE4.1).
 
 Nehalem
 
-Intel_Core_i7-940_bottom.jpg
-
 Bloomfield and Gainestown introduced a number of notable features for the first time in any Mac processors:
 
 -   Integrated memory controllers (with on-die DMI or QPI).
@@ -527,8 +519,6 @@ Arrandale introduced Intel HD Graphics, an on-die integrated GPU.
 [TABLE]
 
 Sandy Bridge
-
-Intel_CPU_Core_i7_2600K_Sandy_Bridge_top.jpg
 
 Sandy Bridge added support for Intel Quick Sync Video, a dedicated on-die video encoding and decoding core. It was also the first quad-core processor to appear in a Mac notebook.
 
@@ -549,8 +539,6 @@ Broadwell
 [TABLE]
 
 Skylake
-
-Intel_CPU_Core_i7_6700K_Skylake_perspective.jpg
 
 [TABLE]
 

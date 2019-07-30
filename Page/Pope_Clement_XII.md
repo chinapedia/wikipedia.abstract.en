@@ -12,8 +12,6 @@ Corsini studied at the Jesuit Collegio Romano in Rome and also at the University
 
 Career
 
-Médaille_en_or_à_l'effigie_du_Pape_Clément_XII,_1730.jpg
-
 Corsini practiced law under the able direction of his uncle, Cardinal Neri Corsini. After the death of his uncle and his father, in 1685, Corsini, now thirty-three, would have become head of the Corsini. Instead he resigned his right of primogeniture and from Pope Innocent XI (1676–1689) he purchased, according to the custom of the time, for 30,000 scudi, a position of prelatial rank and devoted his wealth and leisure to the enlargement of the library bequeathed to him by his uncle.[2] Corsini's home on the Piazza Novona was the center of Rome's scholarly and artistic life.[3]
 
 In 1690 he was made titular Archbishop of Nicomedia and chosen nuncio to Vienna. He did not proceed to the imperial court,[4] because Leopold I, the Holy Roman Emperor, maintained that he had the right to select the nuncio from a list of three names furnished by the pope.[5]
@@ -24,8 +22,6 @@ He advanced still further under Pope Benedict XIII (1724–1730), who made him P
 
 
 Pontificate
-
-Papa_Clemente_XII.jpg
 
 Papal election
 
@@ -41,7 +37,7 @@ Art and architecture
 
 A competition for the majestic façade of the San Giovanni in Laterano was won by architect Alessandro Galilei. The façade he designed is perhaps more palatial than ecclesiastic, and was finished by 1735. Clement XII erected in that ancient basilica a magnificent chapel dedicated to his 14th century kinsman, St. Andrew Corsini. He restored the Arch of Constantine and built the governmental palace of the _Consulta_ on the Quirinal. He purchased from Cardinal Alessandro Albani for 60,000 scudi a famous collection of statues, inscriptions, etc., and added it to the gallery of the Capitol. He paved the streets of Rome and the roads leading from the city, and widened the Corso. He began the triumphant Baroque Fontana di Trevi, one of the noted ornaments of Rome. Under his reign a port was built at Ancona, with a highway that gave easy access to the interior. He drained the malarial marshes of the Chiana near Lake Trasimeno.[11]
 
-Pope_Clement_XII_bust.jpg.]]
+.]]
 
 Foreign policy
 
@@ -66,7 +62,7 @@ The pope named five new saints during his reign with the most notable being Vinc
 
 Death and burial
 
-Tomb_of_Pope_Clement_XII.jpg Clement XII died on 6 February 1740 at 9:30am due to complications from gout. His remains were transferred to his tomb in the Basilica of Saint John Lateran on 20 July 1742.[15] Pope Clement XII's tomb is in the Capella Corsini of the Basilica of St. John Lateran and was completed by the sculptors Maini and Monaldi. His bust was completed by Filippo della Valle.[16]
+Clement XII died on 6 February 1740 at 9:30am due to complications from gout. His remains were transferred to his tomb in the Basilica of Saint John Lateran on 20 July 1742.[15] Pope Clement XII's tomb is in the Capella Corsini of the Basilica of St. John Lateran and was completed by the sculptors Maini and Monaldi. His bust was completed by Filippo della Valle.[16]
 
 
 See also

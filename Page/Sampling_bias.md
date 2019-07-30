@@ -28,7 +28,7 @@ The study of medical conditions begins with anecdotal reports. By their nature, 
 
 Truncate selection in pedigree studies
 
-Ascertainment_bias.png Geneticists are limited in how they can obtain data from human populations. As an example, consider a human characteristic. We are interested in deciding if the characteristic is inherited as a simple Mendelian trait. Following the laws of Mendelian inheritance, if the parents in a family do not have the characteristic, but carry the allele for it, they are carriers (e.g. a non-expressive heterozygote). In this case their children will each have a 25% chance of showing the characteristic. The problem arises because we can't tell which families have both parents as carriers (heterozygous) unless they have a child who exhibits the characteristic. The description follows the textbook by Sutton.[14]
+Geneticists are limited in how they can obtain data from human populations. As an example, consider a human characteristic. We are interested in deciding if the characteristic is inherited as a simple Mendelian trait. Following the laws of Mendelian inheritance, if the parents in a family do not have the characteristic, but carry the allele for it, they are carriers (e.g. a non-expressive heterozygote). In this case their children will each have a 25% chance of showing the characteristic. The problem arises because we can't tell which families have both parents as carriers (heterozygous) unless they have a child who exhibits the characteristic. The description follows the textbook by Sutton.[14]
 
 The figure shows the pedigrees of all the possible families with two children when the parents are carriers (Aa).
 
@@ -54,7 +54,7 @@ Some samples use a biased statistical design which nevertheless allows the estim
 
 Historical examples
 
-Acid2compliancebyusage.png) in use did not pass the Acid2 test. Due to the nature of the test, the sample consisted mostly of web developers.[17]]]
+) in use did not pass the Acid2 test. Due to the nature of the test, the sample consisted mostly of web developers.[17]]]
 
 A classic example of a biased sample and the misleading results it produced occurred in 1936. In the early days of opinion polling, the American _Literary Digest_ magazine collected over two million postal surveys and predicted that the Republican candidate in the U.S. presidential election, Alf Landon, would beat the incumbent president, Franklin Roosevelt, by a large margin. The result was the exact opposite. The Literary Digest survey represented a sample collected from readers of the magazine, supplemented by records of registered automobile owners and telephone users. This sample included an over-representation of individuals who were rich, who, as a group, were more likely to vote for the Republican candidate. In contrast, a poll of only 50 thousand citizens selected by George Gallup's organization successfully predicted the result, leading to the popularity of the Gallup poll.
 

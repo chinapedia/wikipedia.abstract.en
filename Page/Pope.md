@@ -41,7 +41,7 @@ In 380, the Edict of Thessalonica declared Nicene Christianity to be the state r
 
 Middle Ages
 
-Gregorythegreat.jpg, c. 1610, Rome.]] After the fall of the Western Roman Empire, the pope served as a source of authority and continuity. Pope Gregory I (_c_ 540–604) administered the church with strict reform. From an ancient senatorial family, Gregory worked with the stern judgement and discipline typical of ancient Roman rule. Theologically, he represents the shift from the classical to the medieval outlook; his popular writings are full of dramatic miracles, potent relics, demons, angels, ghosts, and the approaching end of the world.
+, c. 1610, Rome.]] After the fall of the Western Roman Empire, the pope served as a source of authority and continuity. Pope Gregory I (_c_ 540–604) administered the church with strict reform. From an ancient senatorial family, Gregory worked with the stern judgement and discipline typical of ancient Roman rule. Theologically, he represents the shift from the classical to the medieval outlook; his popular writings are full of dramatic miracles, potent relics, demons, angels, ghosts, and the approaching end of the world.
 
 Gregory's successors were largely dominated by the Exarch of Ravenna, the Byzantine emperor's representative in the Italian Peninsula. These humiliations, the weakening of the Byzantine Empire in the face of the Muslim conquests, and the inability of the emperor to protect the papal estates against the Lombards, made Pope Stephen II turn from Emperor Constantine V. He appealed to the Franks to protect his lands. Pepin the Short subdued the Lombards and donated Italian land to the papacy. When Pope Leo III crowned Charlemagne (800) as Roman Emperor, he established the precedent that, in Western Europe, no man would be emperor without being crowned by a Pope.
 
@@ -55,7 +55,7 @@ Since the beginning of the 7th century, the Caliphate had conquered much of the 
 
 East–West Schism to Reformation (1054–1517)
 
-Mediterranean1400.png lasted from 1378 to 1417.]] With the East–West Schism, the Eastern Orthodox Church and the Catholic Church split definitively in 1054. This fracture was caused more by political events than by slight divergences of creed. Popes had galled the Byzantine emperors by siding with the king of the Franks, crowning a rival Roman emperor, appropriating the Exarchate of Ravenna, and driving into Greek Italy.
+lasted from 1378 to 1417.]] With the East–West Schism, the Eastern Orthodox Church and the Catholic Church split definitively in 1054. This fracture was caused more by political events than by slight divergences of creed. Popes had galled the Byzantine emperors by siding with the king of the Franks, crowning a rival Roman emperor, appropriating the Exarchate of Ravenna, and driving into Greek Italy.
 
 In the Middle Ages, popes struggled with monarchs over power.[70]
 
@@ -71,7 +71,7 @@ The Eastern Church continued to decline with the Eastern Roman (Byzantine) Empir
 
 Reformation to present (1517 to today)
 
-Council_Trent.jpg (1534–49) initiated the Council of Trent (1545–63), which established the triumph of the papacy over those who sought to reconcile with Protestants or oppose Papal claims.]] Protestant Reformers criticized the papacy as corrupt and characterized the pope as the antichrist.[73][74][75][76]
+(1534–49) initiated the Council of Trent (1545–63), which established the triumph of the papacy over those who sought to reconcile with Protestants or oppose Papal claims.]] Protestant Reformers criticized the papacy as corrupt and characterized the pope as the antichrist.[73][74][75][76]
 
 Popes instituted a Catholic Reformation[77] (1560–1648), which addressed the challenges of the Protestant Reformation and instituted internal reforms. Pope Paul III initiated the Council of Trent (1545–1563), whose definitions of doctrine and whose reforms sealed the triumph of the papacy over elements in the church that sought conciliation with Protestants and opposed papal claims.[78]
 
@@ -105,7 +105,7 @@ Election, death and resignation
 
 Election
 
-Christ_Handing_the_Keys_to_St._Peter_by_Pietro_Perugino.jpg (1492)]]
+(1492)]]
 
 The pope was originally chosen by those senior clergymen resident in and near Rome. In 1059 the electorate was restricted to the Cardinals of the Holy Roman Church, and the individual votes of all Cardinal Electors were made equal in 1179. The electors are now limited to those who have not reached 80 on the day before the death or resignation of a pope. The pope does not need to be a Cardinal Elector or indeed a Cardinal; however, since the pope is the Bishop of Rome, only those who can be ordained a bishop can be elected, which means that any male baptized Catholic is eligible. The last to be elected when not yet a bishop was Pope Gregory XVI in 1831, and the last to be elected when not even a priest was Pope Leo X in 1513, and the last to be elected when not a cardinal was Pope Urban VI in 1378.[94] If someone who is not a bishop is elected, he must be given episcopal ordination before the election is announced to the people.
 
@@ -113,7 +113,7 @@ The Second Council of Lyon was convened on 7 May 1274, to regulate the election 
 
 Traditionally, the vote was conducted by Acclamation, by selection (by committee), or by plenary vote. Acclamation was the simplest procedure, consisting entirely of a voice vote.
 
-Konklave_Konzilsgebaude_Konstanz.jpg where Pope Martin V was elected]] The election of the pope almost always takes place in the Sistine Chapel, in a sequestered meeting called a "conclave" (so called because the cardinal electors are theoretically locked in, _cum clave_, i.e., with key, until they elect a new pope). Three cardinals are chosen by lot to collect the votes of absent cardinal electors (by reason of illness), three are chosen by lot to count the votes, and three are chosen by lot to review the count of the votes. The ballots are distributed and each cardinal elector writes the name of his choice on it and pledges aloud that he is voting for "one whom under God I think ought to be elected" before folding and depositing his vote on a plate atop a large chalice placed on the altar. For the Papal conclave, 2005, a special urn was used for this purpose instead of a chalice and plate. The plate is then used to drop the ballot into the chalice, making it difficult for electors to insert multiple ballots. Before being read, the ballots are counted while still folded; if the number of ballots does not match the number of electors, the ballots are burned unopened and a new vote is held. Otherwise, each ballot is read aloud by the presiding Cardinal, who pierces the ballot with a needle and thread, stringing all the ballots together and tying the ends of the thread to ensure accuracy and honesty. Balloting continues until someone is elected by a two-thirds majority. [95] Habemus_Papam_1415.jpg" after the election of Pope Martin V]]
+where Pope Martin V was elected]] The election of the pope almost always takes place in the Sistine Chapel, in a sequestered meeting called a "conclave" (so called because the cardinal electors are theoretically locked in, _cum clave_, i.e., with key, until they elect a new pope). Three cardinals are chosen by lot to collect the votes of absent cardinal electors (by reason of illness), three are chosen by lot to count the votes, and three are chosen by lot to review the count of the votes. The ballots are distributed and each cardinal elector writes the name of his choice on it and pledges aloud that he is voting for "one whom under God I think ought to be elected" before folding and depositing his vote on a plate atop a large chalice placed on the altar. For the Papal conclave, 2005, a special urn was used for this purpose instead of a chalice and plate. The plate is then used to drop the ballot into the chalice, making it difficult for electors to insert multiple ballots. Before being read, the ballots are counted while still folded; if the number of ballots does not match the number of electors, the ballots are burned unopened and a new vote is held. Otherwise, each ballot is read aloud by the presiding Cardinal, who pierces the ballot with a needle and thread, stringing all the ballots together and tying the ends of the thread to ensure accuracy and honesty. Balloting continues until someone is elected by a two-thirds majority. [95] " after the election of Pope Martin V]]
 
 One of the most prominent aspects of the papal election process is the means by which the results of a ballot are announced to the world. Once the ballots are counted and bound together, they are burned in a special stove erected in the Sistine Chapel, with the smoke escaping through a small chimney visible from Saint Peter's Square. The ballots from an unsuccessful vote are burned along with a chemical compound to create black smoke, or _fumata nera_. (Traditionally, wet straw was used to produce the black smoke, but this was not completely reliable. The chemical compound is more reliable than the straw.) When a vote is successful, the ballots are burned alone, sending white smoke (_fumata bianca_) through the chimney and announcing to the world the election of a new pope.[96] Starting with the Papal conclave, 2005,[97] church bells are also rung as a signal that a new pope has been chosen.
 
@@ -133,7 +133,7 @@ For centuries, from 1378 on, those elected to the papacy were predominantly Ital
 
 Death
 
-Pope_John_Paul_II_funeral.jpg at the Vatican in April 2005, presided over by Cardinal Ratzinger, the future Pope Benedict XVI]] The current regulations regarding a papal interregnum—that is, a _sede vacante_ ("vacant seat")—were promulgated by Pope John Paul II in his 1996 document _Universi Dominici Gregis_. During the "sede vacante" period, the College of Cardinals is collectively responsible for the government of the Church and of the Vatican itself, under the direction of the Camerlengo of the Holy Roman Church; however, canon law specifically forbids the cardinals from introducing any innovation in the government of the Church during the vacancy of the Holy See. Any decision that requires the assent of the pope has to wait until the new pope has been elected and accepts office.
+at the Vatican in April 2005, presided over by Cardinal Ratzinger, the future Pope Benedict XVI]] The current regulations regarding a papal interregnum—that is, a _sede vacante_ ("vacant seat")—were promulgated by Pope John Paul II in his 1996 document _Universi Dominici Gregis_. During the "sede vacante" period, the College of Cardinals is collectively responsible for the government of the Church and of the Vatican itself, under the direction of the Camerlengo of the Holy Roman Church; however, canon law specifically forbids the cardinals from introducing any innovation in the government of the Church during the vacancy of the Holy See. Any decision that requires the assent of the pope has to wait until the new pope has been elected and accepts office.
 
 In recent centuries, when a pope was judged to have died, it was reportedly traditional for the Cardinal Camerlengo to confirm the death ceremonially by gently tapping the pope's head thrice with a silver hammer, calling his birth name each time.[102] This was not done on the deaths of popes John Paul I[103] and John Paul II.[104] The Cardinal Camerlengo retrieves the Ring of the Fisherman and cuts it in two in the presence of the Cardinals. The pope's seals are defaced, to keep them from ever being used again, and his personal apartment is sealed.
 
@@ -174,7 +174,7 @@ The title "Vicar of Peter" (_Vicarius Petri_) is used only of the pope, not of o
 
 Supreme Pontiff
 
-Benedictus_XVI_Pont_Max_Pontif_I.jpg, with inscription "Benedictus XVI Pont(ifex) Max(imus) Anno Domini MMV Pont(ificatus) I.", i.e., "Benedict XVI, Pontifex Maximus, in the year of Our Lord 2005, the first year of his pontificate."]] The term "pontiff" is derived from the , which literally means "bridge builder" (_pons_ + _facere_) and which designated a member of the principal college of priests in ancient Rome.[134][135] The Latin word was translated into ancient Greek variously: as , , , (hierophant),[136] or (archiereus, high priest)[137][138] The head of the college was known as the Pontifex Maximus (the greatest pontiff).[139]
+, with inscription "Benedictus XVI Pont(ifex) Max(imus) Anno Domini MMV Pont(ificatus) I.", i.e., "Benedict XVI, Pontifex Maximus, in the year of Our Lord 2005, the first year of his pontificate."]] The term "pontiff" is derived from the , which literally means "bridge builder" (_pons_ + _facere_) and which designated a member of the principal college of priests in ancient Rome.[134][135] The Latin word was translated into ancient Greek variously: as , , , (hierophant),[136] or (archiereus, high priest)[137][138] The head of the college was known as the Pontifex Maximus (the greatest pontiff).[139]
 
 In Christian use, _pontifex_ appears in the Vulgate translation of the New Testament to indicate the High Priest of Israel (in the original Koine Greek, ).[140] The term came to be applied to any Christian bishop,[141] but since the 11th century commonly refers specifically to the Bishop of Rome,[142] who is more strictly called the "Roman Pontiff". The use of the term to refer to bishops in general is reflected in the terms "Roman Pontifical" (a book containing rites reserved for bishops, such as confirmation and ordination), and "pontificals" (the insignia of bishops).[143]
 
@@ -211,7 +211,7 @@ Regalia and insignia
 -   _Umbraculum_ (better known in the Italian form _ombrellino_) is a canopy or umbrella consisting of alternating red and gold stripes, which used to be carried above the pope in processions.
 -   _Sedia gestatoria_, a mobile throne carried by twelve footmen (_palafrenieri_) in red uniforms, accompanied by two attendants bearing _flabella_ (fans made of white ostrich feathers), and sometimes a large canopy, carried by eight attendants. The use of the _flabella_ was discontinued by Pope John Paul I. The use of the _sedia gestatoria_ was discontinued by Pope John Paul II.
 
-Coat_of_arms_Holy_See.svg of the Holy See. That of the State of Vatican City is the same except that the positions of the gold and silver keys are interchanged.[157]]]
+of the Holy See. That of the State of Vatican City is the same except that the positions of the gold and silver keys are interchanged.[157]]]
 
 In heraldry, each pope has his own personal coat of arms. Though unique for each pope, the arms have for several centuries been traditionally accompanied by two keys in saltire (i.e., crossed over one another so as to form an _X_) behind the escutcheon (shield) (one silver key and one gold key, tied with a red cord), and above them a silver _triregnum_ with three gold crowns and red _infulae_ (lappets—two strips of fabric hanging from the back of the triregnum which fall over the neck and shoulders when worn). This is blazoned: "two keys in saltire or and argent, interlacing in the rings or, beneath a tiara argent, crowned or". The 21st century has seen departures from this tradition. In 2005, Pope Benedict XVI, while maintaining the crossed keys behind the shield, omitted the papal tiara from his personal coat of arms, replacing it with a mitre with three horizontal lines. Beneath the shield he added the pallium, a papal symbol of authority more ancient than the tiara, the use of which is also granted to metropolitan archbishops as a sign of communion with the See of Rome. Although the tiara was omitted in the pope's personal coat of arms, the coat of arms of the Holy See, which includes the tiara, remained unaltered. In 2013, Pope Francis maintained the mitre that replaced the tiara, but omitted the pallium. He also departed from papal tradition by adding beneath the shield his personal pastoral motto: _Miserando atque eligendo_.
 
@@ -223,8 +223,6 @@ Pope Pius V (reigned 1566–1572), is often credited with having originated the 
 
 
 Status and authority
-
-Illustration_for_Papal_Infallibility_page_131_Christ_in_His_Church_by_Lucas_Caspar_Businger.jpg
 
 First Vatican Council
 
@@ -240,14 +238,14 @@ The status and authority of the Pope in the Catholic Church was dogmatically def
 
 Second Vatican Council
 
-GestatorialChair1.jpg, wearing the traditional 1877 Papal tiara, is carried through St. Peter's Basilica on a _sedia gestatoria_ c. 1955.]] In its Dogmatic Constitution on the Church (1964), the Second Vatican Council declared:
+, wearing the traditional 1877 Papal tiara, is carried through St. Peter's Basilica on a _sedia gestatoria_ c. 1955.]] In its Dogmatic Constitution on the Church (1964), the Second Vatican Council declared:
 
 On 11 October 2012, on the occasion of the 50th anniversary of the opening of the Second Vatican Council 60 prominent theologians, (including Hans Küng), put out a Declaration, stating that the intention of Vatican II to balance authority in the Church has not been realised. "Many of the key insights of Vatican II have not at all, or only partially, been implemented . . . A principal source of present-day stagnation lies in misunderstanding and abuse affecting the exercise of authority in our Church."[166]
 
 
 Politics of the Holy See
 
-433px-Pope_Pius_VII.jpg, bishop of Rome, seated, and Cardinal Caprara.]]
+, bishop of Rome, seated, and Cardinal Caprara.]]
 
 Residence and jurisdiction
 
@@ -260,8 +258,6 @@ The names "Holy See" and "Apostolic see" are ecclesiastical terminology for the 
 Though the pope is the diocesan Bishop of the Diocese of Rome, he delegates most of the day-to-day work of leading the diocese to the Cardinal Vicar, who assures direct episcopal oversight of the diocese's pastoral needs, not in his own name but in that of the pope. The current Cardinal Vicar is Angelo De Donatis, who was appointed to the office in June, 2017.
 
 Political role
-
-PapalPolitics2.JPG
 
 Though the progressive Christianisation of the Roman Empire in the 4th century did not confer upon bishops civil authority within the state, the gradual withdrawal of imperial authority during the 5th century left the pope the senior imperial civilian official in Rome, as bishops were increasingly directing civil affairs in other cities of the Western Empire. This status as a secular and civil ruler was vividly displayed by Pope Leo I's confrontation with Attila in 452. The first expansion of papal rule outside of Rome came in 728 with the Donation of Sutri, which in turn was substantially increased in 754, when the Frankish ruler Pippin the Younger gave to the pope the land from his conquest of the Lombards. The pope may have utilized the forged Donation of Constantine to gain this land, which formed the core of the Papal States. This document, accepted as genuine until the 15th century, states that Constantine the Great placed the entire Western Empire of Rome under papal rule. In 800, Pope Leo III crowned the Frankish ruler Charlemagne as Roman Emperor, a major step toward establishing what later became known as the Holy Roman Empire; from that date onward the popes claimed the prerogative to crown the Emperor, though the right fell into disuse after the coronation of Charles V in 1530. Pope Pius VII was present at the coronation of Napoleon I in 1804 but did not actually perform the crowning. As mentioned above, the pope's sovereignty over the Papal States ended in 1870 with their annexation by Italy.
 
@@ -280,7 +276,7 @@ In April 2010, there was press coverage in Britain concerning a proposed plan by
 
 Objections to the papacy
 
-Antichrist1.jpg, from Luther's 1521 _Passionary of the Christ and Antichrist_. The pope is signing and selling indulgences.]]
+, from Luther's 1521 _Passionary of the Christ and Antichrist_. The pope is signing and selling indulgences.]]
 
 The pope's claim to authority is either disputed or not recognised at all by other churches. The reasons for these objections differ from denomination to denomination.
 
@@ -294,7 +290,7 @@ Protestant reformers have a very different view of the papacy. They discount the
 
 In 1973, the United States Conference of Catholic Bishops' Committee on Ecumenical and Interreligious Affairs and the USA National Committee of the Lutheran World Federation in the official Catholic–Lutheran dialogue included this passage in a larger statement on papal primacy:
 
-Protestant denominations of Christianity reject the claims of Petrine primacy of honor, Petrine primacy of jurisdiction, and papal infallibility. These denominations vary from simply not accepting the pope's claim to authority as legitimate and valid, to believing that the pope is the Antichrist[177] from 1 John 2:18, the Man of Sin from 2 Thessalonians 2:3–12,[178] and the Beast out of the Earth from Revelation 13:11–18.[179] ChristWashingFeet.JPG PopeKissing_Feet.JPG. This woodcut of the traditional practice of kissing the pope's foot is from _Passionary of the Christ and Antichrist_.]] This sweeping rejection is held by, among others, some denominations of Lutherans: Confessional Lutherans hold that the pope is the Antichrist, stating that this article of faith is part of a _quia_ ("because") rather than _quatenus_ ("insofar as") subscription to the Book of Concord. In 1932, one of these Confessional churches, the Lutheran Church–Missouri Synod (LCMS), adopted _A Brief Statement of the Doctrinal Position of the Missouri Synod_, which a small number of Lutheran church bodies now hold. The Lutheran Churches of the Reformation1, the Concordia Lutheran Conference2, the Church of the Lutheran Confession3, and the Illinois Lutheran Conference 4 all hold to the _Brief Statement_, which the LCMS places on its website.[180] The Wisconsin Evangelical Lutheran Synod (WELS), another Confessional Lutheran church that declares the Papacy to be the Antichrist, released its own statement, the "Statement on the Antichrist", in 1959. The WELS still holds to this statement.[181]
+Protestant denominations of Christianity reject the claims of Petrine primacy of honor, Petrine primacy of jurisdiction, and papal infallibility. These denominations vary from simply not accepting the pope's claim to authority as legitimate and valid, to believing that the pope is the Antichrist[177] from 1 John 2:18, the Man of Sin from 2 Thessalonians 2:3–12,[178] and the Beast out of the Earth from Revelation 13:11–18.[179] . This woodcut of the traditional practice of kissing the pope's foot is from _Passionary of the Christ and Antichrist_.]] This sweeping rejection is held by, among others, some denominations of Lutherans: Confessional Lutherans hold that the pope is the Antichrist, stating that this article of faith is part of a _quia_ ("because") rather than _quatenus_ ("insofar as") subscription to the Book of Concord. In 1932, one of these Confessional churches, the Lutheran Church–Missouri Synod (LCMS), adopted _A Brief Statement of the Doctrinal Position of the Missouri Synod_, which a small number of Lutheran church bodies now hold. The Lutheran Churches of the Reformation1, the Concordia Lutheran Conference2, the Church of the Lutheran Confession3, and the Illinois Lutheran Conference 4 all hold to the _Brief Statement_, which the LCMS places on its website.[180] The Wisconsin Evangelical Lutheran Synod (WELS), another Confessional Lutheran church that declares the Papacy to be the Antichrist, released its own statement, the "Statement on the Antichrist", in 1959. The WELS still holds to this statement.[181]
 
 Historically, Protestants objected to the papacy's claim of temporal power over all secular governments, including territorial claims in Italy,[182] the papacy's complex relationship with secular states such as the Roman and Byzantine Empires, and the autocratic character of the papal office.[183] In Western Christianity these objections both contributed to and are products of the Protestant Reformation.
 
@@ -331,7 +327,7 @@ Lengths of papal reign
 
 Longest-reigning popes
 
-Popepiusix.jpg, is the pope with the longest verifiable reign]]
+, is the pope with the longest verifiable reign]]
 
 Although the average reign of the pope from the Middle Ages was a decade, a number of those whose reign lengths can be determined from contemporary historical data are the following:
 
@@ -351,7 +347,7 @@ During the Western Schism, Avignon Pope Benedict XIII (1394–1423) ruled for 28
 
 Shortest-reigning popes
 
-Urban_VII.jpg, the shortest-reigning pope]] There have been a number of popes whose reign lasted about a month or less. In the following list the number of calendar days includes partial days. Thus, for example, if a pope's reign commenced on 1 August and he died on 2 August, this would count as having reigned for two calendar days.
+, the shortest-reigning pope]] There have been a number of popes whose reign lasted about a month or less. In the following list the number of calendar days includes partial days. Thus, for example, if a pope's reign commenced on 1 August and he died on 2 August, this would count as having reigned for two calendar days.
 
 1.  Urban VII (15–27 September 1590): reigned for 13 calendar days, died before coronation.
 2.  Boniface VI (April 896): reigned for 16 calendar days

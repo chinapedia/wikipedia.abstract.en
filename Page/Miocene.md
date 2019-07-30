@@ -87,7 +87,7 @@ Life during the Miocene Epoch was mostly supported by the two newly formed biome
 
 Flora
 
-Socotra_dragon_tree.JPG is considered a remnant of the Mio-Pliocene Laurasian subtropical forests that are now almost extinct in North Africa.[18]]]
+is considered a remnant of the Mio-Pliocene Laurasian subtropical forests that are now almost extinct in North Africa.[18]]]
 
 The coevolution of gritty, fibrous, fire-tolerant grasses and long-legged gregarious ungulates with high-crowned teeth, led to a major expansion of grass-grazer ecosystems, with roaming herds of large, swift grazers pursued by predators across broad sweeps of open grasslands, displacing desert, woodland, and browsers.
 
@@ -97,11 +97,11 @@ Cycads between 11.5 and 5 million years ago began to rediversify after previous 
 
 Fauna
 
-CamelFootprintBarstowMiocene.jpg (Miocene) of Rainbow Basin, California.]] Both marine and continental fauna were fairly modern, although marine mammals were less numerous. Only in isolated South America and Australia did widely divergent fauna exist.
+(Miocene) of Rainbow Basin, California.]] Both marine and continental fauna were fairly modern, although marine mammals were less numerous. Only in isolated South America and Australia did widely divergent fauna exist.
 
 In the Early Miocene, several Oligocene groups were still diverse, including nimravids, entelodonts, and three-toed equids. Like in the previous Oligocene epoch, oreodonts were still diverse, only to disappear in the earliest Pliocene. During the later Miocene mammals were more modern, with easily recognizable canids, bears, procyonids, equids, beavers, deer, camelids, and whales, along with now extinct groups like borophagine canids, certain gomphotheres, three-toed horses, and semiaquatic and hornless rhinos like _Teleoceras_ and _Aphelops_. Islands began to form between South and North America in the Late Miocene, allowing ground sloths like _Thinobadistes_ to island-hop to North America. The expansion of silica-rich C₄ grasses led to worldwide extinctions of herbivorous species without high-crowned teeth.[24]
 
-Miocene.jpgist Jay Matternes]] A few basal mammal groups endured into this epoch in southern landmasses, including the South American dryolestoid _Necrolestes_ and gondwanathere _Patagonia_ and New Zealand's Saint Bathans mammal. Non-marsupial metatherians were also still around, such as the American and Eurasian herpetotheriids and peradectids such as _Siamoperadectes_, and the South American sparassodonts.
+ist Jay Matternes]] A few basal mammal groups endured into this epoch in southern landmasses, including the South American dryolestoid _Necrolestes_ and gondwanathere _Patagonia_ and New Zealand's Saint Bathans mammal. Non-marsupial metatherians were also still around, such as the American and Eurasian herpetotheriids and peradectids such as _Siamoperadectes_, and the South American sparassodonts.
 
 Unequivocally recognizable dabbling ducks, plovers, typical owls, cockatoos and crows appear during the Miocene. By the epoch's end, all or almost all modern bird groups are believed to have been present; the few post-Miocene bird fossils which cannot be placed in the evolutionary tree with full confidence are simply too badly preserved, rather than too equivocal in character. Marine birds reached their highest diversity ever in the course of this epoch.
 
@@ -109,7 +109,7 @@ Approximately 100 species of apes lived during this time, ranging throughout Afr
 
 The expansion of grasslands in North America also led to an explosive radiation among snakes.[27] Previously, snakes were a minor component of the North American fauna, but during the Miocene, the number of species and their prevalence increased dramatically with the first appearances of vipers and elapids in North America and the significant diversification of Colubridae (including the origin of many modern genera such as _Nerodia_, _Lampropeltis_, _Pituophis_ and _Pantherophis_).[28]
 
-Calvert_Zone_10_Calvert_Co_MD.jpg The_Childrens_Museum_of_Indianapolis_-_Miocene_crab.jpg'') from the collection of the Children's Museum of Indianapolis]]
+'') from the collection of the Children's Museum of Indianapolis]]
 
 In the oceans, brown algae, called kelp, proliferated, supporting new species of sea life, including otters, fish and various invertebrates.
 

@@ -1,4 +1,4 @@
-Zhuangzi-Butterfly-Dream.jpg dreaming of a butterfly]] A _' lucid dream_' is a dream during which the dreamer is aware that they are dreaming. During a lucid dream, the dreamer may gain some amount of control over the dream characters, narrative, and environment; however, this is not actually necessary for a dream to be described as lucid.[1][2][3][4]
+dreaming of a butterfly]] A _' lucid dream_' is a dream during which the dreamer is aware that they are dreaming. During a lucid dream, the dreamer may gain some amount of control over the dream characters, narrative, and environment; however, this is not actually necessary for a dream to be described as lucid.[1][2][3][4]
 
 
 Etymology
@@ -26,7 +26,7 @@ In 1867, the French sinologist Marie-Jean-Léon, Marquis d'Hervey de Saint Denys
 
 20th century
 
-EedenSaintDenys.jpg and Marquis d'Hervey de Saint Denys, pioneers of lucid dreaming.|right]] In 1913, Dutch psychiatrist and writer Frederik (Willem) van Eeden (1860–1932) coined the term 'lucid dream' in an article entitled _"A Study of Dreams"_.[16][17][18]
+and Marquis d'Hervey de Saint Denys, pioneers of lucid dreaming.|right]] In 1913, Dutch psychiatrist and writer Frederik (Willem) van Eeden (1860–1932) coined the term 'lucid dream' in an article entitled _"A Study of Dreams"_.[16][17][18]
 
 Some have suggested that the term is a misnomer because van Eeden was referring to a phenomenon more specific than a lucid dream.[19] Van Eeden intended the term lucid to denote "having insight", as in the phrase _a lucid interval_ applied to someone in temporary remission from a psychosis, rather than as a reference to the perceptual quality of the experience, which may or may not be clear and vivid.[20]
 

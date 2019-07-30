@@ -1,4 +1,4 @@
-Plankton_collage.jpg of planktonic organisms|alt=Six relatively large variously-shaped organisms with dozens of small light-colored dots all against a dark background. Some of the organisms have antennae that are longer than their bodies.]]
+of planktonic organisms|alt=Six relatively large variously-shaped organisms with dozens of small light-colored dots all against a dark background. Some of the organisms have antennae that are longer than their bodies.]]
 
 PLANKTON are the diverse collection of organisms that live in large bodies of water and are unable to swim against a current.[1] The individual organisms constituting plankton are called plankters.[2] They provide a crucial source of food to many large aquatic organisms, such as fish and whales.
 
@@ -9,7 +9,7 @@ Though many planktonic species are microscopic in size, _plankton_ includes orga
 
 Terminology
 
-Diatoms_through_the_microscope.jpgs—a key phytoplankton group|alt=Photo of mostly transparent diatoms of varying shapes: one resembles a bagel, another a short length of tape, others look like tiny kayaks]]The name _plankton_ is derived from the Greek adjective πλαγκτός (), meaning _errant_, and by extension, _wanderer_ or _drifter_,[4] and was coined by Victor Hensen in 1887.[5][6] While some forms are capable of independent movement and can swim hundreds of meters vertically in a single day (a behavior called diel vertical migration), their horizontal position is primarily determined by the surrounding water movement, and plankton typically flow with ocean currents. This is in contrast to nekton organisms, such as fish, squid and marine mammals, which can swim against the ambient flow and control their position in the environment.
+s—a key phytoplankton group|alt=Photo of mostly transparent diatoms of varying shapes: one resembles a bagel, another a short length of tape, others look like tiny kayaks]]The name _plankton_ is derived from the Greek adjective πλαγκτός (), meaning _errant_, and by extension, _wanderer_ or _drifter_,[4] and was coined by Victor Hensen in 1887.[5][6] While some forms are capable of independent movement and can swim hundreds of meters vertically in a single day (a behavior called diel vertical migration), their horizontal position is primarily determined by the surrounding water movement, and plankton typically flow with ocean currents. This is in contrast to nekton organisms, such as fish, squid and marine mammals, which can swim against the ambient flow and control their position in the environment.
 
 Within the plankton, holoplankton spend their entire life cycle as plankton (e.g. most algae, copepods, salps, and some jellyfish). By contrast, meroplankton are only planktic for part of their lives (usually the larval stage), and then graduate to either a nektic (swimming) or benthic (sea floor) existence. Examples of meroplankton include the larvae of sea urchins, starfish, crustaceans, marine worms, and most fish.[7]
 
@@ -20,7 +20,7 @@ The study of plankton is termed planktology and a planktonic individual is refer
 
 Trophic groups
 
-hyperia.jpg (_Hyperia macrocephala_)|alt=Photo of mostly-translucent, many-legged, bug-like creature]]
+(_Hyperia macrocephala_)|alt=Photo of mostly-translucent, many-legged, bug-like creature]]
 
 Plankton are primarily divided into broad functional (or trophic level) groups:
 
@@ -35,7 +35,7 @@ Recognition of the importance of mixotrophy as an ecological strategy is increas
 
 Size groups
 
-Janthina.jpg'' snail (with bubble float) cast up onto a beach in Maui]] Plankton are also often described in terms of size.[17] Usually the following divisions are used:
+'' snail (with bubble float) cast up onto a beach in Maui]] Plankton are also often described in terms of size.[17] Usually the following divisions are used:
 
 
 
@@ -50,8 +50,6 @@ The microplankton and smaller groups are microorganisms and operate at low Reyno
 
 
 Distribution
-
-Plankton_satellite_image.jpg
 
 Plankton inhabit oceans, seas, lakes, ponds. Local abundance varies horizontally, vertically and seasonally. The primary cause of this variability is the availability of light. All plankton ecosystems are driven by the input of solar energy (but see chemosynthesis), confining primary production to surface waters, and to geographical regions and seasons having abundant light.
 
@@ -81,7 +79,7 @@ Phytoplankton absorb energy from the Sun and nutrients from the water to produce
 
 Biomass variability
 
-Amphipodredkils.jpg with curved exoskeleton and two long and two short antennae]]
+with curved exoskeleton and two long and two short antennae]]
 
 The growth of phytoplankton populations is dependent on light levels and nutrient availability. The chief factor limiting growth varies from region to region in the world's oceans. On a broad scale, growth of phytoplankton in the oligotrophic tropical and subtropical gyres is generally limited by nutrient supply, while light often limits phytoplankton growth in subarctic gyres. Environmental variability at multiple scales influences the nutrient and light available for phytoplankton, and as these organisms form the base of the marine food web, this variability in phytoplankton growth influences higher trophic levels. For example, at interannual scales phytoplankton levels temporarily plummet during El Niño periods, influencing populations of zooplankton, fishes, sea birds, and marine mammals.
 

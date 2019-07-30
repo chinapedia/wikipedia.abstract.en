@@ -54,7 +54,7 @@ In May 2000, a jury found Biafra and Alternative Tentacles "guilty of malice, op
 
 Other bands
 
-Jello_Biafra_2014.jpg]] In the early 1980s, Biafra collaborated with musicians Christian Lunch and Adrian Borland (of The Sound) for the electropunk musical project The Witch Trials, releasing one self-titled EP in its lifetime.
+]] In the early 1980s, Biafra collaborated with musicians Christian Lunch and Adrian Borland (of The Sound) for the electropunk musical project The Witch Trials, releasing one self-titled EP in its lifetime.
 
 In 1988, Biafra, with Al Jourgensen and Paul Barker of the band Ministry, and Jeff Ward, formed Lard. The band became yet another side project for Ministry, with Biafra providing vocals and lyrics. According to a March 2009 interview with Jourgensen, he and Biafra are working on a new Lard album, which is being recorded in Jourgensen's El Paso studio.[41] While working on the film _Terminal City Ricochet_ in 1989, Biafra did a song for the film's soundtrack with D.O.A.. As a result, Biafra worked with D.O.A. on the album _Last Scream of the Missing Neighbors_. Biafra also worked with Nomeansno on the soundtrack, which led to their collaboration on the album _The Sky Is Falling and I Want My Mommy_ the following year. Biafra also provided lyrics for the song "Biotech is Godzilla" for Sepultura's 1993 album _Chaos A.D._.
 
@@ -75,7 +75,7 @@ In 2006, along with Alternative Tentacles employee and The Frisk lead singer Jes
 
 Spoken word
 
-Jellobiafra.jpg Biafra became a spoken word artist in January 1986 with a performance at University of California, Los Angeles. In his performance he combined humor with his political beliefs, much in the same way that he did with the lyrics to his songs. Despite his continued spoken word performances, he did not begin recording spoken word albums until after the disbanding of the Dead Kennedys.
+Biafra became a spoken word artist in January 1986 with a performance at University of California, Los Angeles. In his performance he combined humor with his political beliefs, much in the same way that he did with the lyrics to his songs. Despite his continued spoken word performances, he did not begin recording spoken word albums until after the disbanding of the Dead Kennedys.
 
 His ninth spoken word album, _In the Grip of Official Treason_, was released in October 2006.
 
@@ -98,7 +98,7 @@ He finished third out of a field of ten, receiving 3.79% of the vote (6,591 vote
 
 Presidential campaign
 
-Jello_Biafra_talks_about_California_politicsCC.jpg In 2000, the New York State Green Party drafted Biafra as a candidate for the Green Party presidential nomination, and a few supporters were elected to the party's nominating convention in Denver, Colorado. Biafra chose death row inmate Mumia Abu-Jamal as his running mate. The party overwhelmingly chose Ralph Nader as the presidential candidate with 295 of the 319 delegate votes. Biafra received 10 votes.
+In 2000, the New York State Green Party drafted Biafra as a candidate for the Green Party presidential nomination, and a few supporters were elected to the party's nominating convention in Denver, Colorado. Biafra chose death row inmate Mumia Abu-Jamal as his running mate. The party overwhelmingly chose Ralph Nader as the presidential candidate with 295 of the 319 delegate votes. Biafra received 10 votes.
 
 Biafra, along with a camera crew (dubbed by Biafra as "The Camcorder Truth Jihad"), later reported for the Independent Media Center at the Republican and Democratic conventions.
 

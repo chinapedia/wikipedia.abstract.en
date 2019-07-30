@@ -7,14 +7,14 @@ The first mosque was built by Muhammad in Medina. With the spread of Islam, mosq
 
 Etymology
 
-A_nomad's_mosque_in_the_eastern_desert_of_Jordan.jpg]]
+]]
 
 The word 'mosque' entered the English language from the French word _mosquée_, probably derived from Italian _moschea_ (a variant of Italian _moscheta_), from either Middle Armenian մզկիթ (_mzkit‘_), Medieval (_masgídion_), or Spanish _mezquita_, from (meaning "site of prostration (in prayer)" and hence a place of worship), either from Nabataean _masg^(ĕ)dhā́_ or from Arabic (meaning "to bow down in prayer"), probably ultimately from Aramaic _s^(ĕ)ghēdh_.[22]
 
 
 History
 
-Sheikh_Lotfallah_Esfahan.JPG standing on the eastern side of Naghsh-i Jahan Square, Isfahan, Iran]]
+standing on the eastern side of Naghsh-i Jahan Square, Isfahan, Iran]]
 
 Beginnings
 
@@ -28,7 +28,7 @@ File:After their time in Mina has passed, pilgrims head back to Mecca. - Flickr 
 
 Diffusion and evolution
 
-1_great_mosque_xian_2011.JPG incorporates traditional elements of Chinese architecture]]
+incorporates traditional elements of Chinese architecture]]
 
 Mosques had been built in Iraq and North Africa by the end of the 7th century, as Islam spread outside the Arabian Peninsula with early caliphates. The Imam Husayn Shrine in Karbala is reportedly one of the oldest mosques in Iraq, although its present formtypical of Persian architectureonly goes back to the 11th century. The shrine, while still operating as a mosque, remains one of the holiest sites for Shi'ite Muslims, as it honors the death of the third Shia imam, and Muhammad's grandson, Hussein ibn Ali.[45] The Mosque of Amr ibn al-As was reportedly the first mosque in Egypt, serving as a religious and social center for Fustat (present-day Cairo) during its prime. Like the Imam Husayn Shrine, though, nothing of its original structure remains.[46] With the later Shia Fatimid Caliphate, mosques throughout Egypt evolved to include schools (known as _madrasas_), hospitals, and tombs.[47]
 
@@ -36,9 +36,9 @@ The Great Mosque of Kairouan in present-day Tunisia was reportedly the first mos
 
 The first mosque in East Asia was reportedly established in the 8th century in Xi'an. However, the Great Mosque of Xi'an, whose current building dates from the 18th century, does not replicate the features often associated with mosques elsewhere.[52] Indeed, minarets were initially prohibited by the state.[53] Following traditional Chinese architecture, the Great Mosque of Xi'an, like many other mosques in eastern China, resembles a pagoda, with a green roof instead of the yellow roof common on imperial structures in China. Mosques in western China were more likely to incorporate elements, like domes and minarets, traditionally seen in mosques elsewhere.[54]
 
-Masjid-Kampung-Hulu-2364.jpg, the oldest mosque in Malaysia, influenced by the Malay, Chinese and Hindu architecture]] A similar integration of foreign and local influences could be seen on the Indonesian islands of Sumatra and Java, where mosques, including the Demak Great Mosque, were first established in the 15th century.[55] Early Javanese mosques took design cues from Hindu, Buddhist, and Chinese architectural influences, with tall timber, multi-level roofs similar to the pagodas of Balinese Hindu temples; the ubiquitous Islamic dome did not appear in Indonesia until the 19th century.[56][57] In turn, the Javanese style influenced the styles of mosques in Indonesia's Austronesian neighbors—Malaysia, Brunei, and the Philippines.[58]
+, the oldest mosque in Malaysia, influenced by the Malay, Chinese and Hindu architecture]] A similar integration of foreign and local influences could be seen on the Indonesian islands of Sumatra and Java, where mosques, including the Demak Great Mosque, were first established in the 15th century.[55] Early Javanese mosques took design cues from Hindu, Buddhist, and Chinese architectural influences, with tall timber, multi-level roofs similar to the pagodas of Balinese Hindu temples; the ubiquitous Islamic dome did not appear in Indonesia until the 19th century.[56][57] In turn, the Javanese style influenced the styles of mosques in Indonesia's Austronesian neighbors—Malaysia, Brunei, and the Philippines.[58]
 
-Jama_Masjid,_Delhi.jpg in Delhi is India's largest mosque, and a classic example of the Mughal style of architecture]] Muslim empires were instrumental in the evolution and spread of mosques. Although mosques were first established in India during the 7th century, they were not commonplace across the subcontinent until the arrival of the Mughals in the 16th and 17th centuries. Reflecting their Timurid origins, Mughal-style mosques included onion domes, pointed arches, and elaborate circular minarets, features common in the Persian and Central Asian styles.[59] The Jama Masjid in Delhi and the Badshahi Mosque in Lahore, built in a similar manner in the mid-17th century,[60] remain two of the largest mosques on the Indian subcontinent.[61]
+in Delhi is India's largest mosque, and a classic example of the Mughal style of architecture]] Muslim empires were instrumental in the evolution and spread of mosques. Although mosques were first established in India during the 7th century, they were not commonplace across the subcontinent until the arrival of the Mughals in the 16th and 17th centuries. Reflecting their Timurid origins, Mughal-style mosques included onion domes, pointed arches, and elaborate circular minarets, features common in the Persian and Central Asian styles.[59] The Jama Masjid in Delhi and the Badshahi Mosque in Lahore, built in a similar manner in the mid-17th century,[60] remain two of the largest mosques on the Indian subcontinent.[61]
 
 The Umayyad Caliphate was particularly instrumental in spreading Islam and establishing mosques within the Levant, as the Umayyads constructed among the most revered mosques in the region — Al-Aqsa Mosque and Dome of the Rock in Jerusalem, and the Umayyad Mosque in Damascus.[62] The designs of the Dome of the Rock and the Umayyad Mosque were influenced by Byzantine architecture, a trend that continued with the rise of the Ottoman Empire.[63]
 
@@ -48,7 +48,7 @@ Mosques from the Ottoman period are still scattered across Eastern Europe, but t
 
 Conversion of non-Muslim places of worship
 
-Turkey-3019_-_Hagia_Sophia_(2216460729).jpg in Istanbul, Turkey, was converted into a mosque after the Ottoman conquest of Constantinople in 1453]]
+in Istanbul, Turkey, was converted into a mosque after the Ottoman conquest of Constantinople in 1453]]
 
 According to early Muslim historians, towns that surrendered without resistance and made treaties with the Muslims were allowed to retain their churches and the towns captured by Muslims had many of their churches converted to mosques.[69] One of the earliest examples of these kinds of conversions was in Damascus, Syria, where in 705 Umayyad caliph Al-Walid I bought the church of St. John from the Christians and had it rebuilt as a mosque in exchange for building a number of new churches for the Christians in Damascus. Overall, Abd al-Malik ibn Marwan (Al-Waleed's father) is said to have transformed 10 churches in Damascus into mosques.[70]
 
@@ -63,17 +63,17 @@ The _masjid jāmiʿ_ (), a central mosque, can play a role in religious activiti
 
 Prayers
 
-Istiqlal_Mosque_Eid_ul_Fitr_Jamaah_2.JPG, Jakarta, Indonesia, during Eid ul-Fitr]]
+, Jakarta, Indonesia, during Eid ul-Fitr]]
 
 There are two holidays (_Eids_) in the Islamic calendar: _ʿĪd al-Fiṭr_ and _ʿĪd al-Aḍḥā_, during which there are special prayers held at mosques in the morning. These Eid prayers are supposed to be offered in large groups, and so, in the absence of an outdoor _Eidgah_, a large mosque will normally host them for their congregants as well as the congregants of smaller local mosques. Some mosques will even rent convention centers or other large public buildings to hold the large number of Muslims who attend. Mosques, especially those in countries where Muslims are the majority, will also host Eid prayers outside in courtyards, town squares or on the outskirts of town in an _Eidgah_.[73][74]
 
 Ramadan
 
-Taipei_Grand_Mosque_-_Fast_Break.JPG at Taipei Grand Mosque, Taiwan during Ramadan]] Islam's holiest month, _Ramaḍān_, is observed through many events. As Muslims must fast during the day during Ramadan, mosques will host _Ifṭār_ dinners after sunset and the fourth required prayer of the day, that is _Maghrib_. Food is provided, at least in part, by members of the community, thereby creating daily potluck dinners. Because of the community contribution necessary to serve _iftar_ dinners, mosques with smaller congregations may not be able to host the _iftar_ dinners daily. Some mosques will also hold _Suḥūr_ meals before dawn to congregants attending the first required prayer of the day, _Fajr_. As with iftar dinners, congregants usually provide the food for suhoor, although able mosques may provide food instead. Mosques will often invite poorer members of the Muslim community to share in beginning and breaking the fasts, as providing charity during Ramadan is regarded in Islam as especially honorable.[75]
+at Taipei Grand Mosque, Taiwan during Ramadan]] Islam's holiest month, _Ramaḍān_, is observed through many events. As Muslims must fast during the day during Ramadan, mosques will host _Ifṭār_ dinners after sunset and the fourth required prayer of the day, that is _Maghrib_. Food is provided, at least in part, by members of the community, thereby creating daily potluck dinners. Because of the community contribution necessary to serve _iftar_ dinners, mosques with smaller congregations may not be able to host the _iftar_ dinners daily. Some mosques will also hold _Suḥūr_ meals before dawn to congregants attending the first required prayer of the day, _Fajr_. As with iftar dinners, congregants usually provide the food for suhoor, although able mosques may provide food instead. Mosques will often invite poorer members of the Muslim community to share in beginning and breaking the fasts, as providing charity during Ramadan is regarded in Islam as especially honorable.[75]
 
 Following the last obligatory daily prayer (_ʿIshāʾ_ special, optional _Tarāwīḥ_ prayers are offered in larger mosques. During each night of prayers, which can last for up to two hours each night, usually one member of the community who has memorized the entire Quran (a Hafiz) will recite a segment of the book.[76] Sometimes, several such people (not necessarily of the local community) take turns to do this. During the last ten days of Ramadan, larger mosques will host all-night programs to observe _Laylat al-Qadr_, the night Muslims believe that Muhammad first received Quranic revelations.[77] On that night, between sunset and sunrise, mosques employ speakers to educate congregants in attendance about Islam. Mosques or the community usually provide meals periodically throughout the night
 
-Nasr_ol_Molk_mosque_vault_ceiling.jpg in Shiraz, Iran]] During the last ten days of Ramadan, larger mosques within the Muslim community will host _Iʿtikāf_, a practice in which at least one Muslim man from the community must participate. Muslims performing itikaf are required to stay within the mosque for ten consecutive days, often in worship or learning about Islam. As a result, the rest of the Muslim community is responsible for providing the participants with food, drinks, and whatever else they need during their stay.[78]
+in Shiraz, Iran]] During the last ten days of Ramadan, larger mosques within the Muslim community will host _Iʿtikāf_, a practice in which at least one Muslim man from the community must participate. Muslims performing itikaf are required to stay within the mosque for ten consecutive days, often in worship or learning about Islam. As a result, the rest of the Muslim community is responsible for providing the participants with food, drinks, and whatever else they need during their stay.[78]
 
 Charity
 
@@ -81,7 +81,7 @@ The third of the Five Pillars of Islam states that Muslims are required to give 
 
 Frequency of attendance
 
-Wikipedia-mosquee-kruszyniany.jpg wooden mosque in Poland]]
+wooden mosque in Poland]]
 
 The frequency by which Muslims attend mosque services vary greatly around the world. In some countries, weekly attendance at religious services are common among Muslims while in others, attendance is rare.
 
@@ -92,7 +92,7 @@ When it comes to mosque attendance, data shows that American Muslim women and Am
 
 Role in contemporary society
 
-Aerial_view_of_East_London_Mosque_complex_-_Feb_2014.jpg was one of the first in Britain to be allowed to use loudspeakers to broadcast the adhan[82]]]
+was one of the first in Britain to be allowed to use loudspeakers to broadcast the adhan[82]]]
 
 Political mobilization
 
@@ -112,7 +112,7 @@ Following the September 11 attacks, several American mosques were targeted in at
 
 Saudi influence
 
-Faisal_mosque2.jpg, the Faisal Mosque in Islamabad is the largest mosque in Pakistan]]
+, the Faisal Mosque in Islamabad is the largest mosque in Pakistan]]
 
 Although the Saudi involvement in Sunni mosques around the world can be traced back to the 1960s, it was not until later in the 20th century that the government of Saudi Arabia became a large influence in foreign Sunni mosques.[103] Beginning in the 1980s, the Saudi Arabian government began to finance the construction of Sunni mosques in countries around the world. An estimated US$45 billion has been spent by the Saudi Arabian government financing mosques and Sunni Islamic schools in foreign countries. _Ain al-Yaqeen_, a Saudi newspaper, reported in 2002 that Saudi funds may have contributed to building as many as 1,500 mosques and 2,000 other Islamic centers.[104]
 
@@ -127,11 +127,11 @@ Ningxia officials were notified on 3 August 2018 that the Weizhou Grand Mosque w
 
 Architecture
 
-Mosque_of_Islamic_Preacher_Sayyid_Ali_Hamadani.jpg in Srinagar, Kashmir]]
+in Srinagar, Kashmir]]
 
 Styles
 
-Tuzla,_hornicka_mesita_(drevena,_18._stol).jpg, Bosnia and Herzegovina]]
+, Bosnia and Herzegovina]]
 
 _Arab-plan_ or hypostyle mosques are the earliest type of mosques, pioneered under the Umayyad Dynasty. These mosques have square or rectangular plans with an enclosed courtyard and covered prayer hall. Historically, in the warm Middle Eastern and Mediterranean climates, the courtyard served to accommodate the large number of worshippers during Friday prayers. Most early hypostyle mosques had flat roofs on prayer halls, which required the use of numerous columns and supports.[117] One of the most notable hypostyle mosques is the Great Mosque of Cordoba in Spain, the building being supported by over 850 columns.[118] Frequently, hypostyle mosques have outer arcades so that visitors can enjoy the shade. Arab-plan mosques were constructed mostly under the Umayyad and Abbasid dynasties; subsequently, however, the simplicity of the Arab plan limited the opportunities for further development, the mosques consequently losing popularity.[119]
 
@@ -145,7 +145,7 @@ Mosques built in Southeast Asia often represent the Indonesian-Javanese style ar
 
 Minarets
 
-Tower_of_the_Great_Mosque_of_Kairouan.JPG, Tunisia]]
+, Tunisia]]
 
 A common feature in mosques is the minaret, the tall, slender tower that usually is situated at one of the corners of the mosque structure. The top of the minaret is always the highest point in mosques that have one, and often the highest point in the immediate area. The tallest minaret in the world is located at the Hassan II Mosque in Casablanca, Morocco.[125][126][127] It has a height of and completed in 1993, it was designed by Michel Pinseau. The first mosques had no minarets, and even nowadays the most conservative Islamic movements, like Wahhabis, avoid building minarets, seeing them as ostentatious and hazardous in case of collapse. The first minaret was constructed in 665 in Basra during the reign of the Umayyad caliph Muawiyah I. Muawiyah encouraged the construction of minarets, as they were supposed to bring mosques on par with Christian churches with their bell towers. Consequently, mosque architects borrowed the shape of the bell tower for their minarets, which were used for essentially the same purpose—calling the faithful to prayer.[128] The oldest standing minaret in the world is the minaret of the Great Mosque of Kairouan in Tunisia,[129][130] built between the 8th and the 9th century, it is a massive square tower consisting of three superimposed tiers of gradual size and decor.[131]
 
@@ -153,7 +153,7 @@ Before the five required daily prayers, a _Mu’adhdhin_ () calls the worshipper
 
 Mihrab
 
-DSC03789_Istanbul_-_Aya_Sophia_-_Mirhab_-_Foto_G._Dall'Orto_24-5-2006.jpg, Istanbul, Turkey]]
+, Istanbul, Turkey]]
 
 A _miḥrāb_, also spelled as _mehrab_ is a semicircular niche in the wall of a mosque that indicates the _qiblah_ (the direction of the Kaaba) in Mecca, and hence the direction that Muslims should face when praying. The wall in which a _mihrab_ appears is thus the "_qibla_ wall." _Mihrab_s should not be confused with the _minbar_, which is the raised platform from which an Imam (leader of prayer) addresses the congregation.
 
@@ -165,7 +165,7 @@ Prayer hall
 
 The prayer hall, also known as the _muṣallá_ (), rarely has furniture; chairs and pews are generally absent from the prayer hall so as to allow as many worshipers as possible to line the room.[135] Some mosques have Islamic calligraphy and Quranic verses on the walls to assist worshippers in focusing on the beauty of Islam and its holiest book, the Quran, as well as for decoration.[136]
 
-Great_Mosque_of_Kairouan,_prayer_hall.jpg of Kairouan, Tunisia]] Often, a limited part of the prayer hall is sanctified formally as a masjid in the sharia sense (although the term masjid is also used for the larger mosque complex as well). Once designated, there are onerous limitations on the use of this formally designated masjid, and it may not be used for any purpose other than worship; restrictions that do not necessarily apply to the rest of the prayer area, and to the rest of the mosque complex (although such uses may be restricted by the conditions of the _waqf_ that owns the mosque).[137]
+of Kairouan, Tunisia]] Often, a limited part of the prayer hall is sanctified formally as a masjid in the sharia sense (although the term masjid is also used for the larger mosque complex as well). Once designated, there are onerous limitations on the use of this formally designated masjid, and it may not be used for any purpose other than worship; restrictions that do not necessarily apply to the rest of the prayer area, and to the rest of the mosque complex (although such uses may be restricted by the conditions of the _waqf_ that owns the mosque).[137]
 
 In many mosques, especially the early congregational mosques, the prayer hall is in the hypostyle form (the roof held up by a multitude of columns).[138] One of the finest examples of the hypostyle-plan mosques is the Great Mosque of Kairouan (also known as the Mosque of Uqba) in Tunisia.[139]
 
@@ -173,7 +173,7 @@ Usually opposite the entrance to the prayer hall is the _qiblah_ wall, the visua
 
 Ablution facilities
 
-Ablution_area_inside_Eastern_wall_of_Badshahi_mosque.JPG'' ("ablution") area, where Muslims wash their hands, forearm, face and feet before they pray. Example from the Badshahi Mosque, Lahore, Pakistan]]
+'' ("ablution") area, where Muslims wash their hands, forearm, face and feet before they pray. Example from the Badshahi Mosque, Lahore, Pakistan]]
 
 As ritual purification precedes all prayers, mosques often have ablution fountains or other facilities for washing in their entryways or courtyards. However, worshippers at much smaller mosques often have to use restrooms to perform their ablutions. In traditional mosques, this function is often elaborated into a freestanding building in the center of a courtyard.[142] This desire for cleanliness extends to the prayer halls where shoes are disallowed to be worn anywhere other than the cloakroom. Thus, foyers with shelves to put shoes and racks to hold coats are commonplace among mosques.[143]
 
@@ -200,8 +200,6 @@ All Muslim authorities hold the consensus opinion that only men may lead prayer 
 
 Cleanliness
 
-Zoetermeer_Meerzicht_Moskee_Qibla_(04).JPG
-
 All mosques have rules regarding cleanliness, as it is an essential part of the worshippers' experience. Muslims before prayer are required to cleanse themselves in an ablution process known as _wudu_. However, even to those who enter the prayer hall of a mosque without the intention of praying, there are still rules that apply. Shoes must not be worn inside the carpeted prayer hall. Some mosques will also extend that rule to include other parts of the facility even if those other locations are not devoted to prayer. Congregants and visitors to mosques are supposed to be clean themselves. It is also undesirable to come to the mosque after eating something that smells, such as garlic.[155]
 
 Dress
@@ -214,7 +212,7 @@ As mosques are places of worship, those within the mosque are required to remain
 
 Gender separation
 
-Sultan_Abdul_Majid_mosque_in_Byblos,_Lebanon_(for_women_only).JPG, Lebanon]]
+, Lebanon]]
 
 There is nothing written in the Qur'an about the issue of space in mosques and gender separation. However, traditional rules have segregated women and men. By traditional rules, women are most often told to occupy the rows behind the men. In part, this was a practical matter as the traditional posture for prayerkneeling on the floor, head to the groundmade mixed-gender prayer uncomfortably revealing for many women and distracting for some men. Traditionalists try to argue that Muhammad preferred women to pray at home rather than at a mosque, and they cite a _ḥadīth_ in which Muhammad supposedly said: "The best mosques for women are the inner parts of their houses," although women were active participants in the mosque started by Muhammad. Muhammad told Muslims not to forbid women from entering mosques. They are allowed to go in. The second Sunni caliph 'Umar at one time prohibited women from attending mosques especially at night because he feared they may be sexually harassed or assaulted by men, so he required them to pray at home.[159] Sometimes a special part of the mosque was railed off for women; for example, the governor of Mecca in 870 had ropes tied between the columns to make a separate place for women.[160]
 
@@ -222,7 +220,7 @@ Many mosques today will put the women behind a barrier or partition or in anothe
 
 Non-Muslims in mosques
 
-Bush_Islamic_Center_Washington.jpg inside the Islamic Center of Washington D.C., the USA]]
+inside the Islamic Center of Washington D.C., the USA]]
 
 Under most interpretations of _sharia_, non-Muslims are permitted to enter mosques provided that they respect the place and the people inside it. A dissenting opinion and minority view is presented by followers of the Maliki school of Islamic jurisprudence, who argue that non-Muslims may not be allowed into mosques under any circumstances.[162]
 

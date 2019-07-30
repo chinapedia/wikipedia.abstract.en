@@ -11,7 +11,7 @@ The history of modern massively multiplayer online role-playing games (MMORPGs) 
 
 Early History
 
-ADVENT_--_Will_Crowther's_original_version.png's _Adventure_]]
+'s _Adventure_]]
 
 Origins
 
@@ -25,7 +25,7 @@ In 1978 Roy Trubshaw, a student at the University of Essex in the UK, started wo
 
 Wider access and early derivatives
 
-MUD1_screenshot.gif'' Slogan]]
+'' Slogan]]
 
 _MUD_, better known as _Essex MUD_ and _MUD1_ in later years, ran on the University of Essex network, and became more widely accessible when a guest account was set up that allowed users on JANET (a British academic X.25 computer network) to connect on weekends and between the hours of 2 AM and 8 AM on weekdays. It became the first Internet multiplayer online role-playing game in 1980, when the university connected its internal network to ARPANet.
 
@@ -72,7 +72,7 @@ Although written specifically for Avalon: The Legend Lives it went on to spawn a
 
 LPMud
 
-Genesis_LPMud_Login.png'', the first LPMud]] In 1989 LPMud was developed by Lars Pensjö (hence the LP in LPMud). Pensjö had been an avid player of TinyMUD and AberMUD and wanted to create a world with the flexibility of TinyMUD and the gameplay of AberMUD. In order to accomplish this he wrote what is nowadays known as a virtual machine, which he called the LPMud driver, that ran the C-like LPC programming language used to create the game world. Pensjö's interest in LPMud eventually waned and development was carried on by others such as Jörn "Amylaar" Rennecke, Felix "Dworkin" Croes, Tim "Beek" Hollebeek and Lars Düning. During the early 1990s, LPMud was one of the most popular MUD codebases. Descendants of the original LPMud include MudOS, DGD, SWLPC, FluffOS, and the Pike programming language, the latter the work of long-time LPMud developer Fredrik "Profezzorn" Hübinette.
+'', the first LPMud]] In 1989 LPMud was developed by Lars Pensjö (hence the LP in LPMud). Pensjö had been an avid player of TinyMUD and AberMUD and wanted to create a world with the flexibility of TinyMUD and the gameplay of AberMUD. In order to accomplish this he wrote what is nowadays known as a virtual machine, which he called the LPMud driver, that ran the C-like LPC programming language used to create the game world. Pensjö's interest in LPMud eventually waned and development was carried on by others such as Jörn "Amylaar" Rennecke, Felix "Dworkin" Croes, Tim "Beek" Hollebeek and Lars Düning. During the early 1990s, LPMud was one of the most popular MUD codebases. Descendants of the original LPMud include MudOS, DGD, SWLPC, FluffOS, and the Pike programming language, the latter the work of long-time LPMud developer Fredrik "Profezzorn" Hübinette.
 
 DikuMUD
 
@@ -85,7 +85,7 @@ In 1987 David Whatley, having previously played _Scepter of Goth_ and _Island of
 
 Gameplay
 
-God_Wars_II_screenshot_of_dungeon_with_MUSHclient_plugin.png The typical MUD will describe to you the room or area you are standing in, listing the objects, players and non-player characters (NPCs) in the area, as well as all of the exits. To carry out a task the player would enter a text command such as TAKE APPLE or ATTACK DRAGON. Movement around the game environment is generally accomplished by entering the direction (or an abbreviation of it) in which the player wishes to move, for example typing NORTH or just N would cause the player to exit the current area via the path to the north.[7]
+The typical MUD will describe to you the room or area you are standing in, listing the objects, players and non-player characters (NPCs) in the area, as well as all of the exits. To carry out a task the player would enter a text command such as TAKE APPLE or ATTACK DRAGON. Movement around the game environment is generally accomplished by entering the direction (or an abbreviation of it) in which the player wishes to move, for example typing NORTH or just N would cause the player to exit the current area via the path to the north.[7]
 
 MUD clients often contain functions which make certain tasks within a MUD easier to carry out, for example commands buttons which you can click in order to move in a particular direction or to pick up an item. There are also tools available which add hotkey-activated macros to telnet and MUD clients giving the player the ability to move around the MUD using the arrow keys on their keyboard for example.[8]
 
@@ -100,7 +100,7 @@ Perhaps the most common approach to game design in MUDs is to loosely emulate th
 
 Player versus player MUDs
 
-Genocide_screenshot.png'' showing its War Complex]] Most MUDs restrict player versus player combat, often abbreviated as PK (Player Killing). This is accomplished through hard coded restrictions and various forms of social intervention. MUDs without these restrictions are commonly known as PK MUDS. Taking this a step further are MUDs devoted _solely_ to this sort of conflict, called PURE PK MUDs, the first of which was _Genocide_ in 1992. _Genocide_{{'s}} ideas were influential in the evolution of player versus player online gaming.
+'' showing its War Complex]] Most MUDs restrict player versus player combat, often abbreviated as PK (Player Killing). This is accomplished through hard coded restrictions and various forms of social intervention. MUDs without these restrictions are commonly known as PK MUDS. Taking this a step further are MUDs devoted _solely_ to this sort of conflict, called PURE PK MUDs, the first of which was _Genocide_ in 1992. _Genocide_{{'s}} ideas were influential in the evolution of player versus player online gaming.
 
 Roleplaying MUDs
 
@@ -120,7 +120,7 @@ Taking advantage of the flexibility of MUD server software, some MUDs are design
 
 Graphical MUDs
 
-Yserbiusfight.JPG'', an early graphical MUD]] A GRAPHICAL MUD is a MUD that uses computer graphics to represent parts of the virtual world and its visitors. A prominent early graphical MUD was _Habitat_, written by Randy Farmer and Chip Morningstar for Lucasfilm in 1985. Graphical MUDs require players to download a special client and the game's artwork. They range from simply enhancing the user interface to simulating 3D worlds with visual spatial relationships and customized avatar appearances.
+'', an early graphical MUD]] A GRAPHICAL MUD is a MUD that uses computer graphics to represent parts of the virtual world and its visitors. A prominent early graphical MUD was _Habitat_, written by Randy Farmer and Chip Morningstar for Lucasfilm in 1985. Graphical MUDs require players to download a special client and the game's artwork. They range from simply enhancing the user interface to simulating 3D worlds with visual spatial relationships and customized avatar appearances.
 
 Games such as _Meridian 59_, _EverQuest_, _Ultima Online_ and _Dark Age of Camelot_ were routinely called graphical MUDs in their earlier years. _RuneScape_ was actually originally intended to be a _text-based_ MUD, but graphics were added very early in development. However, with the increase in computing power and Internet connectivity during the late nineties, and the shift of online gaming to the mass market, the term "graphical MUD" fell out of favor, being replaced by MMORPG, Massively Multiplayer Online Role-Playing Game, a term coined by Richard Garriott in 1997.
 

@@ -1,4 +1,4 @@
-Sanjūrokkasen-gaku_-_1_-_Kanō_Tan’yū_-_Hitomaru.jpg: _Hito-maru_ (人丸) , 1648]] KAKINOMOTO NO HITOMARO (柿本 人麻呂 or 柿本 人麿; – ) was a Japanese _waka_ poet and aristocrat of the late Asuka period. He was the most prominent of the poets included in the _Man'yōshū_, the oldest _waka_ anthology, but apart from what can be gleaned from hints in the _Man'yōshū_, the details of his life are largely uncertain. He was born to the Kakinomoto clan, based in Yamato Province, probably in the 650s, and likely died in Iwami Province around 709.
+: _Hito-maru_ (人丸) , 1648]] KAKINOMOTO NO HITOMARO (柿本 人麻呂 or 柿本 人麿; – ) was a Japanese _waka_ poet and aristocrat of the late Asuka period. He was the most prominent of the poets included in the _Man'yōshū_, the oldest _waka_ anthology, but apart from what can be gleaned from hints in the _Man'yōshū_, the details of his life are largely uncertain. He was born to the Kakinomoto clan, based in Yamato Province, probably in the 650s, and likely died in Iwami Province around 709.
 
 He served as court poet to Empress Jitō, creating many works praising the imperial family, and is best remembered for his elegies for various imperial princes. He also composed well-regarded travel poems.
 
@@ -33,7 +33,7 @@ Based on Hitomaro's poetic activities during Empress Jitō's reign, there are a 
 
 Reigns of Empress Jitō and Emperor Monmu
 
-Kakinomoto_Hitomaro.jpg|left]] Hitomaro acted as a court poet during the reigns of Empress Jitō and Emperor Monmu. In the fourth month of 689, Prince Kusakabe died, and Hitomaro composed an elegy commemorating the prince. He also composed an elegy for Princess Asuka, who died in the fourth month of 700, and a poem commemorating an imperial visit to Kii Province.
+|left]] Hitomaro acted as a court poet during the reigns of Empress Jitō and Emperor Monmu. In the fourth month of 689, Prince Kusakabe died, and Hitomaro composed an elegy commemorating the prince. He also composed an elegy for Princess Asuka, who died in the fourth month of 700, and a poem commemorating an imperial visit to Kii Province.
 
 His poetic composition flourished during the period in which Empress Jitō was active (both during her reign and after her retirement). He composed poetry for numerous members of the imperial family, including the empress, Prince Kusakabe, Prince Karu, Prince Takechi, Prince Osakabe, Prince Naga, Prince Yuge, Prince Toneri, , Princess Hatsusebe and Princess Asuka. He apparently composed poetry in Yamato Province (his home), Yamashiro Province and Ōmi Province in the north, Kii Province in the south, Shikoku, Kyūshū and the Seto Inland Sea in the west, as well as Iwami Province in the northwest.
 
@@ -56,7 +56,7 @@ An unknown member of the Tajihi clan wrote a response to Yosami in the persona o
 
 Works
 
-Kakinomoto_no_hitomaro.jpg'' print by Utagawa Kuniyoshi that depicts Kakinomoto no Hitomaro]]
+'' print by Utagawa Kuniyoshi that depicts Kakinomoto no Hitomaro]]
 
 Hitomaro was a court poet during the reigns of Empress Jitō and Emperor Monmu, with most of his dateable poems coming from the last decade or so of the seventh century. He apparently left a private collection, the so-called _Kakinomoto no Ason Hitomaro Kashū_, which does not survive as an independent work but was cited extensively by the compilers of the _Man'yōshū_.
 
@@ -70,7 +70,7 @@ Broken down by topic, the above poems include:
 -   one _chōka_ and three _tanka_ commemorating the bodies of dead people Hitomaro encountered;
 -   14 _tanka_ composed on travel topics that do not fit into any of the above categories (all of which also include travel poems).
 
-From the above it can be said that Hitomaro's poetry was primarily about affairs of the court, but that he also showed a marked preference for poems on travel. Hyakuninisshu_003.jpg'']]
+From the above it can be said that Hitomaro's poetry was primarily about affairs of the court, but that he also showed a marked preference for poems on travel. '']]
 
 In addition to the 85 poems directly attributed to Hitomaro by the _Man'yōshū_, two _chōka_ and three _tanka_ in books 3 and 9 are said to be traditionally attributed to Hitomaro. Additionally, there is one Hitomaro _tanka_ in book 15 said to have been recited in 736 by an envoy sent to Silla. Including these "traditional" Hitomaro poems, that gives 20 _chōka_ and 71 _tanka_. It is quite possible that a significant number of these poems were incorrectly attributed to Hitomaro by tradition. In addition to Hitomaro's own compositions, there are also many poems said to have been recorded by him in his personal collection, the _Kakinomoto no Asomi Hitomaro Kashū_ (柿本朝臣人麿歌集). The _Hitomaro Kashū_ included 333 _tanka_, 35 _sedōka_, and two _chōka_. This adds up to a total figure of close to 500 poems directly associated with Hitomaro.
 
@@ -85,7 +85,7 @@ Watase credits him with the creation of an ancient lyricism that expressed both 
 
 Reception
 
-Kakinoto_no_Hitomaro_kahi_by_Ian_Suttle.jpg, Kyoto]] There is evidence that Hitomaro exerted direct influence on the poetry composed during his own time. For example, poems 171 through 193 of Book 1 of the _Man'yōshū_ bear similarities to his work. It is generally accepted that the court poets of the following generation (the so-called "third period" of _Man'yō_ poetry), including Yamabe no Akahito, were influenced by Hitomaro's courtly poems. Ōtomo no Yakamochi, a poet of the "fourth period" who probably had a hand in the final compilation of the collection, held Hitomaro in high regard, praising him as _Sanshi no Mon_ (山柿の門). As discussed above, the death of Hitomaro appears to have already taken on some legendary characteristics.
+, Kyoto]] There is evidence that Hitomaro exerted direct influence on the poetry composed during his own time. For example, poems 171 through 193 of Book 1 of the _Man'yōshū_ bear similarities to his work. It is generally accepted that the court poets of the following generation (the so-called "third period" of _Man'yō_ poetry), including Yamabe no Akahito, were influenced by Hitomaro's courtly poems. Ōtomo no Yakamochi, a poet of the "fourth period" who probably had a hand in the final compilation of the collection, held Hitomaro in high regard, praising him as _Sanshi no Mon_ (山柿の門). As discussed above, the death of Hitomaro appears to have already taken on some legendary characteristics.
 
 In his Japanese preface to the tenth-century _Kokin Wakashū_, Ki no Tsurayuki referred to Hitomaro as _Uta no Hijiri_ ("Saint of Poetry"). In the Heian period the practice of Hitomaru-eigu (人丸影供) also gained currency, showing that Hitomaro had already begun to be apotheosized. Hitomaro's divinity status continued to grow in the Kamakura and Muromachi periods. The Edo period scholars Keichū and Kamo no Mabuchi tended to reject the various legends about Hitomaro.
 

@@ -1,4 +1,4 @@
-Isaiah's_Lips_Anointed_with_Fire.jpg]]
+]]
 
 In religion, a PROPHET is an individual who is regarded as being in contact with a divine being and is said to speak on that entity's behalf, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people.[1][2] The message that the prophet conveys is called a prophecy.
 
@@ -16,7 +16,7 @@ Judaism
 
 In Hebrew, the word נָבִיא (_nāvî_), "spokesperson", traditionally translates as "prophet".[3] The second subdivision of the Hebrew Bible, Tanakh (for "Torah, Nevi'im, Ketuvim"), is devoted to the Hebrew prophets. The meaning of _navi_ is perhaps described in Deuteronomy 18:18,[4] where God said, "...and I will put My words in his mouth, and he shall speak unto them all that I shall command him." Thus, the _navi_ was thought to be the "mouth" of God. The root nun-bet-alef ("navi") is based on the two-letter root nun-bet which denotes hollowness or openness; to receive transcendental wisdom, one must make oneself "open". Cf. Rashbam's comment to Genesis 20:7.[5]
 
-Duccio_di_Buoninsegna_066.jpg, one of the last prophets of Israel, painting by Duccio di Buoninsegna, c. 1310 (Museo dell'Opera del Duomo, Siena Cathedral). _“He [Mashiach] will turn the hearts of the parents to their children, and the hearts of the children to their parents” (Malachi 4:6)_[6]]]
+, one of the last prophets of Israel, painting by Duccio di Buoninsegna, c. 1310 (Museo dell'Opera del Duomo, Siena Cathedral). _“He [Mashiach] will turn the hearts of the parents to their children, and the hearts of the children to their parents” (Malachi 4:6)_[6]]]
 
 In addition to writing and speaking messages from God, Israelite or Jewish nevi'im ("spokespersons", "prophets") often acted out prophetic parables in their life.[7] For example, in order to contrast the people's disobedience with the obedience of the Rechabites, God has Jeremiah invite the Rechabites to drink wine, in disobedience to their ancestor's command. The Rechabites refuse, wherefore God commends them.[8][9] Other prophetic parables acted out by Jeremiah include burying a linen belt so that it gets ruined to illustrate how God intends to ruin Judah's pride.[10][11][12][13] Likewise, Jeremiah buys a clay jar and smashes it in the Valley of Ben Hinnom in front of elders and priests to illustrate that God will smash the nation of Judah and the city of Judah beyond repair.[14] God instructs Jeremiah to make a yoke from wood and leather straps and to put it on his own neck to demonstrate how God will put the nation under the yoke of Nebuchadnezzar, king of Babylon.[15] In a similar way, the prophet Isaiah had to walk stripped and barefoot for three years to illustrate the coming captivity,[16] and the prophet Ezekiel had to lie on his side for 390 days and eat measured food to illustrate the coming siege.[17]
 
@@ -34,7 +34,7 @@ The last nevi'im ("spokespersons", "prophets") mentioned in the Jewish Bible are
 
 Christianity
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_139.png]]
+]]
 
 Traditional definitions
 
@@ -46,7 +46,7 @@ The Bible terms anyone who claims to speak God's words or to teach in his name w
 
 Ongoing prophecy
 
-Mattia_Preti_-_San_Giovanni_Battista_Predicazione.jpg]] Some Christians believe that the Holy Spirit gives spiritual gifts to Christians. These may include prophecy, tongues, miraculous healing ability, and discernment (Matthew 12:32 KJV "Whosoever speaketh a word against the Son of Man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come."). Cessationists believe that these gifts were given only in New Testament times and that they ceased after the last apostle died.
+]] Some Christians believe that the Holy Spirit gives spiritual gifts to Christians. These may include prophecy, tongues, miraculous healing ability, and discernment (Matthew 12:32 KJV "Whosoever speaketh a word against the Son of Man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come."). Cessationists believe that these gifts were given only in New Testament times and that they ceased after the last apostle died.
 
 New Testament passages that explicitly discuss prophets existing after the death and resurrection of Christ include Revelation 11:10,[46] Matthew 10:40–41 and 23:34,[47] John 13:20 and 15:20[48] and Acts 11:25–30, 13:1 and 15:32.[49]
 
@@ -62,7 +62,7 @@ Islam
 
 The Quran identifies a number of men as "Prophets of Islam" ( _nabī_; pl. _anbiyāʾ_). Muslims believe such individuals were assigned a special mission by God to guide humanity. Besides Muhammad, this includes prophets such as Abraham (_Ibrāhīm_), Moses (_Mūsā_) and Jesus (_ʿĪsā_).
 
-Mohammed_receiving_revelation_from_the_angel_Gabriel.jpg receiving his first revelation from the angel Gabriel. From the manuscript _Jami' al-tawarikh_ by Rashid-al-Din Hamadani, 1307, Ilkhanate period.]] Although only twenty-five prophets[60] are mentioned by name in the Quran, a hadith (no. 21257 in _Musnad Ahmad ibn Hanbal_)[61] mentions that there were (more or less) 124,000 prophets in total throughout history. Other traditions place the number of prophets at 224,000. Some scholars hold that there are an even greater number in the history of mankind, and only God knows. The Quran says that God has sent a prophet to every group of people throughout time, and that Muhammad is the last of the prophets, sent for the whole of humankind.[62] The message of all the prophets is believed to be the same. In Islam, all prophetic messengers are prophets (such as Adam, Noah, Abraham, Moses, Jesus, and Muhammad) though not all prophets are prophetic messengers. The primary distinction is that a prophet is required to demonstrate God's law through his actions, character, and behavior without necessarily calling people to follow him, while a prophetic messenger is required to pronounce God's law (i.e. revelation) and call his people to submit and follow him. Muhammad is distinguished from the rest of the prophetic messengers and prophets in that he was commissioned by God to be the prophetic messenger to all of mankind. Many of these prophets are also found in the texts of Judaism (The Torah, the Prophets, and the Writings) and Christianity.[63]
+receiving his first revelation from the angel Gabriel. From the manuscript _Jami' al-tawarikh_ by Rashid-al-Din Hamadani, 1307, Ilkhanate period.]] Although only twenty-five prophets[60] are mentioned by name in the Quran, a hadith (no. 21257 in _Musnad Ahmad ibn Hanbal_)[61] mentions that there were (more or less) 124,000 prophets in total throughout history. Other traditions place the number of prophets at 224,000. Some scholars hold that there are an even greater number in the history of mankind, and only God knows. The Quran says that God has sent a prophet to every group of people throughout time, and that Muhammad is the last of the prophets, sent for the whole of humankind.[62] The message of all the prophets is believed to be the same. In Islam, all prophetic messengers are prophets (such as Adam, Noah, Abraham, Moses, Jesus, and Muhammad) though not all prophets are prophetic messengers. The primary distinction is that a prophet is required to demonstrate God's law through his actions, character, and behavior without necessarily calling people to follow him, while a prophetic messenger is required to pronounce God's law (i.e. revelation) and call his people to submit and follow him. Muhammad is distinguished from the rest of the prophetic messengers and prophets in that he was commissioned by God to be the prophetic messenger to all of mankind. Many of these prophets are also found in the texts of Judaism (The Torah, the Prophets, and the Writings) and Christianity.[63]
 
 Muslims often refer to Muhammad as "the Prophet", in the form of a noun.[64][65][66][67] Jesus is the result of a virgin birth in Islam as in Christianity, and is regarded as a prophet.[68]
 
@@ -103,7 +103,7 @@ Founders of Christian sects or movements
 
 Latter Day Saint movement
 
-Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg]]
+]]
 
 Joseph Smith, who established the Church of Christ in 1830, is considered a prophet by members of the Latter Day Saint movement, of which The Church of Jesus Christ of Latter-day Saints (LDS Church) is the largest denomination. Additionally, many churches within the movement believe in a succession of modern prophets (accepted by Latter Day Saints as "prophets, seers, and revelators") since the time of Joseph Smith. Russell M. Nelson is the current president and prophet of The Church of Jesus Christ of Latter-day Saints.
 
@@ -133,7 +133,7 @@ Other Christian sects or movements
 
 Ahmadiyya
 
-Hadhrat_Mirza_Ghulam_Ahmad2.jpg]] The Ahmadiyya movement in Islam believes that Mirza Ghulam Ahmad was a non law-bearing Prophet, who claimed to be a fulfillment of the various Islamic prophecies regarding the spiritual second advent of Jesus of Nazareth near the end times.[87]
+]] The Ahmadiyya movement in Islam believes that Mirza Ghulam Ahmad was a non law-bearing Prophet, who claimed to be a fulfillment of the various Islamic prophecies regarding the spiritual second advent of Jesus of Nazareth near the end times.[87]
 
 Judaic messianism
 

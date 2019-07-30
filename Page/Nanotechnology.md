@@ -9,15 +9,13 @@ Origins
 
 The concepts that seeded nanotechnology were first discussed in 1959 by renowned physicist Richard Feynman in his talk _There's Plenty of Room at the Bottom_, in which he described the possibility of synthesis via direct manipulation of atoms. The term "nano-technology" was first used by Norio Taniguchi in 1974, though it was not widely known.
 
-Comparison_of_nanomaterials_sizes.jpg
-
 Inspired by Feynman's concepts, K. Eric Drexler used the term "nanotechnology" in his 1986 book _Engines of Creation: The Coming Era of Nanotechnology_, which proposed the idea of a nanoscale "assembler" which would be able to build a copy of itself and of other items of arbitrary complexity with atomic control. Also in 1986, Drexler co-founded The Foresight Institute (with which he is no longer affiliated) to help increase public awareness and understanding of nanotechnology concepts and implications.
 
 Thus, emergence of nanotechnology as a field in the 1980s occurred through convergence of Drexler's theoretical and public work, which developed and popularized a conceptual framework for nanotechnology, and high-visibility experimental advances that drew additional wide-scale attention to the prospects of atomic control of matter. Since the popularity spike in the 1980s, most of nanotechnology has involved investigation of several approaches to making mechanical devices out of a small number of atoms.[9]
 
 In the 1980s, two major breakthroughs sparked the growth of nanotechnology in modern era. First, the invention of the scanning tunneling microscope in 1981 which provided unprecedented visualization of individual atoms and bonds, and was successfully used to manipulate individual atoms in 1989. The microscope's developers Gerd Binnig and Heinrich Rohrer at IBM Zurich Research Laboratory received a Nobel Prize in Physics in 1986.[10][11] Binnig, Quate and Gerber also invented the analogous atomic force microscope that year.
 
-C60a.png, is a representative member of the carbon structures known as fullerenes. Members of the fullerene family are a major subject of research falling under the nanotechnology umbrella.]]
+, is a representative member of the carbon structures known as fullerenes. Members of the fullerene family are a major subject of research falling under the nanotechnology umbrella.]]
 
 Second, Fullerenes were discovered in 1985 by Harry Kroto, Richard Smalley, and Robert Curl, who together won the 1996 Nobel Prize in Chemistry.[12][13] C₆₀ was not initially described as nanotechnology; the term was used regarding subsequent work with related graphene tubes (called carbon nanotubes and sometimes called Bucky tubes) which suggested potential applications for nanoscale electronics and devices. The discovery of carbon nanotubes is largely attributed to Sumio Iijima of NEC in 1991,[14] for which Iijima won the inaugural 2008 Kavli Prize in Nanoscience.
 
@@ -48,7 +46,7 @@ Areas of physics such as nanoelectronics, nanomechanics, nanophotonics and nanoi
 
 Larger to smaller: a materials perspective
 
-Atomic_resolution_Au100.JPG on a clean Gold(100) surface, as visualized using scanning tunneling microscopy. The positions of the individual atoms composing the surface are visible.]]
+on a clean Gold(100) surface, as visualized using scanning tunneling microscopy. The positions of the individual atoms composing the surface are visible.]]
 
 Several phenomena become pronounced as the size of the system decreases. These include statistical mechanical effects, as well as quantum mechanical effects, for example the "quantum size effect" where the electronic properties of solids are altered with great reductions in particle size. This effect does not come into play by going from macro to micro dimensions. However, quantum effects can become significant when the nanometer size range is reached, typically at distances of 100 nanometers or less, the so-called quantum realm. Additionally, a number of physical (mechanical, electrical, optical, etc.) properties change when compared to macroscopic systems. One example is the increase in surface area to volume ratio altering mechanical, thermal and catalytic properties of materials. Diffusion and reactions at nanoscale, nanostructures materials and nanodevices with fast ion transport are generally referred to nanoionics. _Mechanical_ properties of nanosystems are of interest in the nanomechanics research. The catalytic activity of nanomaterials also opens potential risks in their interaction with biomaterials.
 
@@ -79,7 +77,7 @@ An experiment indicating that positional molecular assembly is possible was perf
 
 Current research
 
-Rotaxane_cartoon.jpg, useful as a molecular switch.]] DNA_tetrahedron_white.png[39] is an artificially designed nanostructure of the type made in the field of DNA nanotechnology. Each edge of the tetrahedron is a 20 base pair DNA double helix, and each vertex is a three-arm junction.]] C60_Buckyball.gif Achermann7RED.jpgs to nanocrystals above them, causing the nanocrystals to emit visible light.[40]]]
+, useful as a molecular switch.]] [39] is an artificially designed nanostructure of the type made in the field of DNA nanotechnology. Each edge of the tetrahedron is a 20 base pair DNA double helix, and each vertex is a three-arm junction.]] s to nanocrystals above them, causing the nanocrystals to emit visible light.[40]]]
 
 Nanomaterials
 
@@ -141,7 +139,7 @@ Nanomaterials can be classified in 0D, 1D, 2D and 3D nanomaterials. The dimensio
 
 Tools and techniques
 
-AFMsetup.jpg setup. A microfabricated cantilever with a sharp tip is deflected by features on a sample surface, much like in a phonograph but on a much smaller scale. A laser beam reflects off the backside of the cantilever into a set of photodetectors, allowing the deflection to be measured and assembled into an image of the surface.]]
+setup. A microfabricated cantilever with a sharp tip is deflected by features on a sample surface, much like in a phonograph but on a much smaller scale. A laser beam reflects off the backside of the cantilever into a set of photodetectors, allowing the deflection to be measured and assembled into an image of the surface.]]
 
 There are several important modern developments. The atomic force microscope (AFM) and the Scanning Tunneling Microscope (STM) are two early versions of scanning probes that launched nanotechnology. There are other types of scanning probe microscopy. Although conceptually similar to the scanning confocal microscope developed by Marvin Minsky in 1961 and the scanning acoustic microscope (SAM) developed by Calvin Quate and coworkers in the 1970s, newer scanning probe microscopes have much higher resolution, since they are not limited by the wavelength of sound or light.
 
@@ -195,7 +193,7 @@ Because of the variety of potential applications (including industrial and milit
 
 Applications
 
-Threshold_formation_nowatermark.gif with MOSFET's being made of small nanowires ≈10 nm in length. Here is a simulation of such a nanowire.]] A-simple-and-fast-fabrication-of-a-both-self-cleanable-and-deep-UV-antireflective-quartz-1556-276X-7-430-S1.ogv, which lets water droplets roll down the inclined plane.]] Nanowire_laser.png
+with MOSFET's being made of small nanowires ≈10 nm in length. Here is a simulation of such a nanowire.]] , which lets water droplets roll down the inclined plane.]]
 
 As of August 21, 2008, the Project on Emerging Nanotechnologies estimates that over 800 manufacturer-identified nanotech products are publicly available, with new ones hitting the market at a pace of 3–4 per week.[68] The project lists all of the products in a publicly accessible online database. Most applications are limited to the use of "first generation" passive nanomaterials which includes titanium dioxide in sunscreen, cosmetics, surface coatings,[69] and some food products; Carbon allotropes used to produce gecko tape; silver in food packaging, clothing, disinfectants and household appliances; zinc oxide in sunscreens and cosmetics, surface coatings, paints and outdoor furniture varnishes; and cerium oxide as a fuel catalyst.[70]
 
@@ -228,7 +226,7 @@ Experts, including director of the Woodrow Wilson Center's Project on Emerging N
 
 Health and environmental concerns
 
-NIOSH_Nano_Research_-_Engineering_Controls_for_Nanomaterial_Production_and_Handling_Processes.webm Nanofibers are used in several areas and in different products, in everything from aircraft wings to tennis rackets. Inhaling airborne nanoparticles and nanofibers may lead to a number of pulmonary diseases, e.g. fibrosis.[102] Researchers have found that when rats breathed in nanoparticles, the particles settled in the brain and lungs, which led to significant increases in biomarkers for inflammation and stress response[103] and that nanoparticles induce skin aging through oxidative stress in hairless mice.[104][105]
+Nanofibers are used in several areas and in different products, in everything from aircraft wings to tennis rackets. Inhaling airborne nanoparticles and nanofibers may lead to a number of pulmonary diseases, e.g. fibrosis.[102] Researchers have found that when rats breathed in nanoparticles, the particles settled in the brain and lungs, which led to significant increases in biomarkers for inflammation and stress response[103] and that nanoparticles induce skin aging through oxidative stress in hairless mice.[104][105]
 
 A two-year study at UCLA's School of Public Health found lab mice consuming nano-titanium dioxide showed DNA and chromosome damage to a degree "linked to all the big killers of man, namely cancer, heart disease, neurological disease and aging".[106]
 

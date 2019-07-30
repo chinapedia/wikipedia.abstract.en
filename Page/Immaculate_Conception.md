@@ -28,7 +28,7 @@ History
 
 A feast of the Conception of the Most Holy and All Pure Mother of God was celebrated in Syria on December 8 perhaps as early as the 5th century. The title of _achrantos_ (spotless, immaculate, all-pure) refers to the holiness of Mary, not specifically to the holiness of her conception.[14]
 
-Panachranta.jpg icon of the _Theotokos Panachranta_, i.e., the "all immaculate" Mary[15]]]
+icon of the _Theotokos Panachranta_, i.e., the "all immaculate" Mary[15]]]
 
 Mary's complete sinlessness and concomitant exemption from any taint from the first moment of her existence was a doctrine familiar to Greek theologians of Byzantium. Beginning with St. Gregory Nazianzen, his explanation of the "purification" of Jesus and Mary at the circumcision (Luke 2:22) prompted him to consider the primary meaning of "purification" in Christology (and by extension in Mariology) to refer to a perfectly sinless nature that manifested itself in glory in a moment of grace (e.g., Jesus at his Baptism). St. Gregory Nazianzen designated Mary as _prokathartheisa_ (prepurified). Gregory likely attempted to solve the riddle of the Purification of Jesus and Mary in the Temple through considering the human natures of Jesus and Mary as equally holy and therefore both purified in this manner of grace and glory.[16] Gregory's doctrines surrounding Mary's purification were likely related to the burgeoning commemoration of the Mother of God in and around Constantinople very close to the date of Christmas.[17] Nazianzen's title of Mary at the Annunciation as "prepurified" was subsequently adopted by all theologians interested in his Mariology to justify the Byzantine equivalent of the Immaculate Conception. This is especially apparent in the Fathers St. Sophronios of Jerusalem and St. John Damascene, who will be treated below in this article at the section on Church Fathers. About the time of Damascene, the public celebration of the "Conception of St. Ann" (i.e., of the _Theotokos_ in her womb) was becoming popular. After this period, the "purification" of the perfect natures of Jesus and Mary would not only mean moments of grace and glory at the Incarnation and Baptism and other public Byzantine liturgical feasts, but purification was eventually associated with the feast of Mary's very conception (along with her Presentation in the Temple as a toddler) by Orthodox authors of the 2nd millennium (e.g., St. Nicholas Cabasilas[18] and Joseph Bryennius).[19]
 
@@ -60,7 +60,7 @@ The bull recounts that the Fathers interpreted the angel's address to Mary, "hig
 
 Definition of the dogma
 
-Lusenberg-Immaculata-1876.jpg, 1876. Saint Antony's Church, Urtijëi, Italy.]]
+, 1876. Saint Antony's Church, Urtijëi, Italy.]]
 
 The theological underpinnings of Immaculate Conception had been the subject of debate during the Middle Ages with opposition provided by figures such as Saint Thomas Aquinas, a Dominican. However, supportive arguments by Franciscans William of Ware and Duns Scotus, and general belief among Catholics made the doctrine more acceptable, so that the Council of Basel supported it in the 15th century, but the Council of Trent sidestepped the question. Pope Sixtus IV, a Franciscan, had tried to pacify the situation by forbidding either side to criticize the other, and placed the feast of the Immaculate Conception on the Roman Calendar in 1477, but Pope Pius V, a Dominican, changed it to the feast of the Conception of Mary. Clement XI made the feast universal in 1708, but still did not call it the feast of the Immaculate Conception.[44] Popular and theological support for the concept continued to grow and by the 18th century it was widely depicted in art.[45][46][47][48]
 
@@ -78,7 +78,7 @@ The papal definition of the dogma declares with absolute certainty and authority
 
 Claim of origin in Islamic doctrine
 
-Turkey.Konya035.jpg (_Sūratu Maryam_) from a 9th-century Qur'an, Turkey]]
+(_Sūratu Maryam_) from a 9th-century Qur'an, Turkey]]
 
 George Sale in 1734 proposed that the doctrine of immaculate conception of Mary may be alluded to in the text of the Qur'an. Thus, commenting in 1734 on the passage "I have called her Mary; and I commend her to thy protection, and also her issue, against Satan driven away with stones", Sale stated: "It is not improbable that the pretended immaculate conception of the virgin Mary is intimated in this passage. For according to a tradition of Mohammed, every person that comes into the world, is touched at his birth by the devil, and therefore cries out, Mary and her son only excepted; between whom, and the evil spirit God placed a veil, so that his touch did not reach them. And for this reason they say, neither of them were guilty of any sin, like the rest of the children of Adam."[55] Edward Gibbon in volume 5 of his _Decline and Fall of the Roman Empire_, published in 1788, wrote: "The Latin Church has not disdained to borrow from the Koran the immaculate conception of his virgin mother." That he was speaking of her immaculate conception by her mother, not of her own virginal conception of Jesus, is shown by his footnote: "In the xiith century the immaculate conception was condemned by St. Bernard as a presumptuous novelty."[56] In the aftermath of the definition of the dogma in 1854, this charge was repeated in an article published in 1865: "Strange as it may appear, that the doctrine which the church of Rome has promulgated, with so much pomp and ceremony, 'for the destruction of all heresies, and the confirmation of the faith of her adherents', should have its origin in the Mohametan Bible; yet the testimony of such authorities as Gibbon, and Sale, and Forster, and Gagnier, and Maracci, leave no doubt as to the marvellous fact."[57]
 
@@ -110,7 +110,7 @@ A number of countries are considered to be under the patronage of the Immaculate
 
 Feast day
 
-Quadrittu_(cropped).jpg, Sicily]] By 750, the feast of her conception (December 8) was widely celebrated in the Byzantine East, under the name of the Conception (active) of Saint Anne. In the West it was known as the feast of the Conception (passive) of Mary, and was associated particularly with the Normans, whether these introduced it directly from the East[70] or took it from English usage.[71] The spread of the feast, by now with the adjective "Immaculate" attached to its title, met opposition on the part of some, on the grounds that sanctification was possible only after conception.[72] Critics included Saints Bernard of Clairvaux, Albertus Magnus and Thomas Aquinas. Other theologians defended the expression "Immaculate Conception", pointing out that sanctification could be conferred at the first moment of conception in view of the foreseen merits of Christ, a view held especially by Franciscans.[73]
+, Sicily]] By 750, the feast of her conception (December 8) was widely celebrated in the Byzantine East, under the name of the Conception (active) of Saint Anne. In the West it was known as the feast of the Conception (passive) of Mary, and was associated particularly with the Normans, whether these introduced it directly from the East[70] or took it from English usage.[71] The spread of the feast, by now with the adjective "Immaculate" attached to its title, met opposition on the part of some, on the grounds that sanctification was possible only after conception.[72] Critics included Saints Bernard of Clairvaux, Albertus Magnus and Thomas Aquinas. Other theologians defended the expression "Immaculate Conception", pointing out that sanctification could be conferred at the first moment of conception in view of the foreseen merits of Christ, a view held especially by Franciscans.[73]
 
 William of Ware and Blessed John Duns Scotus pointed out that Mary’s Immaculate Conception enhances Jesus’ redemptive work.[74] One of the chief proponents of the doctrine was the Hungarian Franciscan Pelbartus Ladislaus of Temesvár. [75]
 
@@ -127,7 +127,7 @@ For differing reasons, belief in Mary's immaculate conception in the Catholic do
 
 Eastern Orthodox
 
-Perlez_Mary-Immaculate.jpg, for example Holy Mary in Perlez, Vojvodina, Serbia.]]
+, for example Holy Mary in Perlez, Vojvodina, Serbia.]]
 
 Contemporary Eastern Orthodox Christians often object to the dogmatic declaration of her immaculate conception as an "over-elaboration" of the faith and because they see it as too closely connected with a particular interpretation of the doctrine of ancestral sin.[88] All the same, the historical and authentic tradition of Mariology in Byzantium took its historical point of departure from Sophronios, Damascene, and their imitators. The most famous Eastern Orthodox theologian to imply Mary's Immaculate Conception was St. Gregory Palamas. Though many passages from his works were long known to extol and attribute to Mary a Christlike holiness in her human nature, traditional objections to Palamas' disposition toward the Immaculate Conception typically rely on a poor understanding of his doctrine of "the purification of Mary" at the Annunciation.[89] Not only did he explicitly cite St. Gregory Nazianzen for his understanding of Jesus' purification at His baptism and Mary's at the Annunciation, but Theophanes of Nicaea, Joseph Bryennius, and Gennadios Scholarios all explicitly placed Mary's Conception as the first moment of her all-immaculate participation in the divine energies to such a degree that she was always completely without spot and graced.[90] In addition to Emperor Manuel II and Gennadius Scholarius, St. Mark of Ephesus also fervently defended Mary's title as "prepurified" against the Dominican Manuel Calecas, who was perhaps promoting thomistic Mariology that denied Mary's all-holiness from the first moment of her existence.[91]
 
@@ -167,7 +167,7 @@ Ave Maris Stella is the vesper hymn of the feast of the Immaculate Conception.[1
 
 Artistic representations
 
-ImmaculateEmblem.jpg During the Medieval period, the conception of Mary was symbolically depicted in the Meeting at the Golden Gate and was an early scene in the many cycles of the _Life of the Virgin_, as a counterpart of the Annunciation showing the conception of Jesus. To some medieval viewers, the kiss was a literal representation of the moment of Mary's conception, while for others it was a symbolic representation. The 14th and 15th centuries were the highpoint of these depictions. Gradually more allegorical depictions of the Immaculate Conception, featuring an adult Mary, replaced this scene in representing the doctrine.[113]
+During the Medieval period, the conception of Mary was symbolically depicted in the Meeting at the Golden Gate and was an early scene in the many cycles of the _Life of the Virgin_, as a counterpart of the Annunciation showing the conception of Jesus. To some medieval viewers, the kiss was a literal representation of the moment of Mary's conception, while for others it was a symbolic representation. The 14th and 15th centuries were the highpoint of these depictions. Gradually more allegorical depictions of the Immaculate Conception, featuring an adult Mary, replaced this scene in representing the doctrine.[113]
 
 The 1476 extension of the feast of the Immaculate Conception to the entire Latin Church reduced the likelihood of controversy for the artist or patron in depicting an image, so that emblems depicting _The Immaculate Conception_ began to appear.[114]
 
@@ -182,7 +182,7 @@ File:Giotto - Scrovegni - -06- - Meeting at the Golden Gate.jpg|Giotto, _Meeting
 
 See also
 
-San_Pedro_de_las_Bombas.avi.OGG]]
+]]
 
 -   Act for the Immaculate Conception of Mary
 -   Cathedral of the Immaculate Conception (disambiguation)

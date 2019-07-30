@@ -8,7 +8,7 @@ According to Livy, Tarquin came from Etruria. Livy claims that his original Etru
 
 King of Rome
 
-Tarquin_and_the_Eagle.gif Although Ancus Marcius, the Roman king, was the grandson of Numa Pompilius, the second King of Rome, the principle of hereditary monarchy was not yet established at Rome; none of the first three kings had been succeeded by their sons, and each subsequent king had been acclaimed by the people. Upon the death of Marcius, Tarquin addressed the _Comitia Curiata_ and convinced them that he should be elected king over Marcius' natural sons, who were still only youths. In one tradition, the sons were away on a hunting expedition at the time of their father's death, and were thus unable to affect the assembly's choice.[2]
+Although Ancus Marcius, the Roman king, was the grandson of Numa Pompilius, the second King of Rome, the principle of hereditary monarchy was not yet established at Rome; none of the first three kings had been succeeded by their sons, and each subsequent king had been acclaimed by the people. Upon the death of Marcius, Tarquin addressed the _Comitia Curiata_ and convinced them that he should be elected king over Marcius' natural sons, who were still only youths. In one tradition, the sons were away on a hunting expedition at the time of their father's death, and were thus unable to affect the assembly's choice.[2]
 
 According to Livy, Tarquin increased the number of the Senate by adding one hundred men from the leading minor families.[3] Among these was the family of the Octavii, from whom the first emperor, Augustus, was descended.[4]
 
@@ -41,9 +41,9 @@ Notes
 
 References
 
--   Livy, _Ab urbe condita_ Wikisource-logo.svg
--   Florus, _Epitoma de Tito Livio bellorum omnium annorum DCC_ Wikisource-logo.svg
--   Eutropius, _Breviarium historiae romanae_ Wikisource-logo.svg
+-   Livy, _Ab urbe condita_
+-   Florus, _Epitoma de Tito Livio bellorum omnium annorum DCC_
+-   Eutropius, _Breviarium historiae romanae_
 
 
 External links

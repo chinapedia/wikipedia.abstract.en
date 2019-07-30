@@ -3,10 +3,9 @@ A _' shire_' is a traditional term for a division of land, found in Great Britai
 
 Etymology
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Anglo-Saxon_Chronicle_-_scire_(British_Library_Cotton_MS_Tiberius_A_VI,_folio_11v).jpg Anglo-Saxon_Chronicle_-_scira_(British_Library_Cotton_MS_Tiberius_A_VI,_folio_9v).jpg
+  ------------------------------------------------------------------------------------------------------------
   The _Anglo-Saxon Chronicle_ often mentions various locations ending or beginning with 'scire' and 'scira'.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------
 
 The word derives from the Old English _scir_, itself a derivative of the Proto-Germanic _skizo_ (cf. Old High German _scira_), meaning care or official charge.[1] In the UK, "shire" is the original term for what is usually known now as a _county_; the word _county_ having been introduced at the Norman Conquest of England. The two are nearly synonymous. Although in modern British usage counties are referred to as "shires" mainly in poetic contexts, terms such as Shire Hall remain common. Shire also remains a common part of many county names.
 
@@ -24,7 +23,7 @@ Shires in the United Kingdom
 
 "Shire" also refers, in a narrower sense, to ancient counties with names that ended in "shire". These counties are typically (though not always) named after their county town. The suffix _-shire_ is attached to most of the names of English, Scottish and Welsh counties. It tends not to be found in the names of shires that were pre-existing divisions. Essex, Kent, and Sussex, for example, have never borne a _-shire_, as each represents a former Anglo-Saxon kingdom. Similarly Cornwall was a British kingdom before it became an English county. The term "shire" is not used in the names of the six traditional counties of Northern Ireland.
 
-EnglandTraditionalShires.png — red indicates "-shire" counties, orange indicates where the "-shire" suffix is occasionally used]]
+— red indicates "-shire" counties, orange indicates where the "-shire" suffix is occasionally used]]
 
 Shire names in England
 

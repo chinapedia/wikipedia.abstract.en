@@ -1,4 +1,4 @@
-Charles_Darwin_aged_51.jpg's work on evolution by natural selection.]]
+'s work on evolution by natural selection.]]
 
 NATURAL SELECTION is the differential survival and reproduction of individuals due to differences in phenotype. It is a key mechanism of evolution, the change in the heritable traits characteristic of a population over generations. Charles Darwin popularised the term "natural selection", contrasting it with artificial selection, which in his view is intentional, whereas natural selection is not.
 
@@ -13,7 +13,7 @@ Historical development
 
 Pre-Darwinian theories
 
-Aristotle_Altemps_Inv8575.jpg considered whether different forms could have appeared, only the useful ones surviving.]]
+considered whether different forms could have appeared, only the useful ones surviving.]]
 
 Several philosophers of the classical era, including Empedocles[1] and his intellectual successor, the Roman poet Lucretius,[2] expressed the idea that nature produces a huge variety of creatures, randomly, and that only those creatures that manage to provide for themselves and reproduce successfully persist. Empedocles' idea that organisms arose entirely by the incidental workings of causes such as heat and cold was criticised by Aristotle in Book II of _Physics_.[3] He posited natural teleology in its place, and believed that form was achieved for a purpose, citing the regularity of heredity in species as proof.[4][5] Nevertheless, he accepted in his biology that new types of animals, monstrosities (τερας), can occur in very rare instances (_Generation of Animals_, Book IV).[6] As quoted in Darwin's 1872 edition of _The Origin of Species_, Aristotle considered whether different forms (e.g., of teeth) might have appeared accidentally, but only the useful forms survived:
 
@@ -33,13 +33,13 @@ Darwin's theory
 
 In 1859, Charles Darwin set out his theory of evolution by natural selection as an explanation for adaptation and speciation. He defined natural selection as the "principle by which each slight variation [of a trait], if useful, is preserved".[15] The concept was simple but powerful: individuals best adapted to their environments are more likely to survive and reproduce. As long as there is some variation between them and that variation is heritable, there will be an inevitable selection of individuals with the most advantageous variations. If the variations are heritable, then differential reproductive success leads to a progressive evolution of particular populations of a species, and populations that evolve to be sufficiently different eventually become different species.[16][17]
 
-Malthus_1826_vol_1_page_435_top_Table_England_Population_Growth_1780-1810.jpg's table of population growth in England 1780–1810, from his _Essay on the Principle of Population_, 6th edition, 1826]]
+'s table of population growth in England 1780–1810, from his _Essay on the Principle of Population_, 6th edition, 1826]]
 
 Darwin's ideas were inspired by the observations that he had made on the second voyage of HMS _Beagle_ (1831–1836), and by the work of a political economist, Thomas Robert Malthus, who, in _An Essay on the Principle of Population_ (1798), noted that population (if unchecked) increases exponentially, whereas the food supply grows only arithmetically; thus, inevitable limitations of resources would have demographic implications, leading to a "struggle for existence".[18] When Darwin read Malthus in 1838 he was already primed by his work as a naturalist to appreciate the "struggle for existence" in nature. It struck him that as population outgrew resources, "favourable variations would tend to be preserved, and unfavourable ones to be destroyed. The result of this would be the formation of new species."[19] Darwin wrote:
 
 Once he had his theory, Darwin was meticulous about gathering and refining evidence before making his idea public. He was in the process of writing his "big book" to present his research when the naturalist Alfred Russel Wallace independently conceived of the principle and described it in an essay he sent to Darwin to forward to Charles Lyell. Lyell and Joseph Dalton Hooker decided to present his essay together with unpublished writings that Darwin had sent to fellow naturalists, and _On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection_ was read to the Linnean Society of London announcing co-discovery of the principle in July 1858.[20] Darwin published a detailed account of his evidence and conclusions in _On the Origin of Species_ in 1859. In the 3rd edition of 1861 Darwin acknowledged that others—like William Charles Wells in 1813, and Patrick Matthew in 1831—had proposed similar ideas, but had neither developed them nor presented them in notable scientific publications.[21]
 
-LA2-NSRW-3-0536_cropped.jpg noted that pigeon fanciers had created many kinds of pigeon, such as Tumblers (1, 12), Fantails (13), and Pouters (14) by selective breeding.]]
+noted that pigeon fanciers had created many kinds of pigeon, such as Tumblers (1, 12), Fantails (13), and Pouters (14) by selective breeding.]]
 
 Darwin thought of natural selection by analogy to how farmers select crops or livestock for breeding, which he called "artificial selection"; in his early manuscripts he referred to a "Nature" which would do the selection. At the time, other mechanisms of evolution such as evolution by genetic drift were not yet explicitly formulated, and Darwin believed that selection was likely only part of the story: "I am convinced that Natural Selection has been the main but not exclusive means of modification."[22] In a letter to Charles Lyell in September 1860, Darwin regretted the use of the term "Natural Selection", preferring the term "Natural Preservation".[23]
 
@@ -51,7 +51,7 @@ Natural selection relies crucially on the idea of heredity, but developed before
 
 A second synthesis
 
-Gap_gene_expression.svg relates the evolution of form to the precise pattern of gene activity, here gap genes in the fruit fly, during embryonic development.[40]]]
+relates the evolution of form to the precise pattern of gene activity, here gap genes in the fruit fly, during embryonic development.[40]]]
 
 Ernst Mayr recognised the key importance of reproductive isolation for speciation in his _Systematics and the Origin of Species_ (1942).[41] W. D. Hamilton conceived of kin selection in 1964.[42][43] This synthesis cemented natural selection as the foundation of evolutionary theory, where it remains today. A second synthesis was brought about at the end of the 20th century by advances in molecular genetics, creating the field of evolutionary developmental biology ("evo-devo"), which seeks to explain the evolution of form in terms of the genetic regulatory programs which control the development of the embryo at molecular level. Natural selection is here understood to act on embryonic development to change the morphology of the adult body.[44][45][46][47]
 
@@ -65,7 +65,7 @@ Mechanism
 
 Heritable variation, differential reproduction
 
-Lichte_en_zwarte_versie_berkenspanner_crop.jpg, pollution killed many lichens, leaving tree trunks dark. A dark (melanic) morph of the peppered moth largely replaced the formerly usual light morph (both shown here). Since the moths are subject to predation by birds hunting by sight, the colour change offers better camouflage against the changed background, suggesting natural selection at work.]]
+, pollution killed many lichens, leaving tree trunks dark. A dark (melanic) morph of the peppered moth largely replaced the formerly usual light morph (both shown here). Since the moths are subject to predation by birds hunting by sight, the colour change offers better camouflage against the changed background, suggesting natural selection at work.]]
 
 Natural variation occurs among the individuals of any population of organisms. Some differences may improve an individual's chances of surviving and reproducing such that its lifetime reproductive rate is increased, which means that it leaves more offspring. If the traits that give these individuals a reproductive advantage are also heritable, that is, passed from parent to offspring, then there will be differential reproduction, that is, a slightly higher proportion of fast rabbits or efficient algae in the next generation. Even if the reproductive advantage is very slight, over many generations any advantageous heritable trait becomes dominant in the population. In this way the natural environment of an organism "selects for" traits that confer a reproductive advantage, causing evolutionary change, as Darwin described.[56] This gives the appearance of purpose, but in natural selection there is no intentional choice. Artificial selection is purposive where natural selection is not, though biologists often use teleological language to describe it.[57]
 
@@ -87,7 +87,7 @@ where _r_ is the growth rate of the population (_N_), and _K_ is the carrying ca
 
 Types of selection
 
-Genetic_Distribution.svg: a single extreme phenotype favoured.
+: a single extreme phenotype favoured.
 2, stabilizing selection: intermediate favoured over extremes.
 3: disruptive selection: extremes favoured over intermediate.
 X-axis: phenotypic trait
@@ -103,7 +103,7 @@ Selection has different effects on traits. Stabilizing selection acts to hold a 
 
 Alternatively, selection can be divided according to its effect on genetic diversity. Purifying or negative selection acts to remove genetic variation from the population (and is opposed by _de novo_ mutation, which introduces new variation.[78][79] In contrast, balancing selection acts to maintain genetic variation in a population, even in the absence of _de novo_ mutation, by negative frequency-dependent selection. One mechanism for this is heterozygote advantage, where individuals with two different alleles have a selective advantage over individuals with just one allele. The polymorphism at the human ABO blood group locus has been explained in this way.[80]
 
-Life_cycle_of_a_sexually_reproducing_organism.svg of a sexually reproducing organism.[81]]]
+of a sexually reproducing organism.[81]]]
 
 Another option is to classify selection by the life cycle stage at which it acts. Some biologists recognise just two types: viability (or survival) selection, which acts to increase an organism's probability of survival, and fecundity (or fertility or reproductive) selection, which acts to increase the rate of reproduction, given survival. Others split the life cycle into further components of selection. Thus viability and survival selection may be defined separately and respectively as acting to improve the probability of survival before and after reproductive age is reached, while fecundity selection may be split into additional sub-components including sexual selection, gametic selection, acting on gamete survival, and compatibility selection, acting on zygote formation.[82]
 
@@ -113,7 +113,7 @@ Finally, selection can be classified according to the resource being competed fo
 
 Sexual selection
 
-Pavo_cristatus_in_Barbados_Wildlife_Reserve_12.jpg's elaborate plumage is mentioned by Darwin as an example of sexual selection,[85] and is a classic example of Fisherian runaway,[86] driven to its conspicuous size and coloration through mate choice by females over many generations.]]
+'s elaborate plumage is mentioned by Darwin as an example of sexual selection,[85] and is a classic example of Fisherian runaway,[86] driven to its conspicuous size and coloration through mate choice by females over many generations.]]
 
 Sexual selection as first articulated by Darwin (using the example of the peacock's tail)[87] refers specifically to competition for mates,[88] which can be _intrasexual_, between individuals of the same sex, that is male–male competition, or _intersexual_, where one gender chooses mates, most often with males displaying and females choosing.[89] However, in some species, mate choice is primarily by males, as in some fishes of the family Syngnathidae.[90][91]
 
@@ -121,14 +121,14 @@ Phenotypic traits can be displayed in one sex and desired in the other sex, caus
 
 Natural selection in action
 
-Antibiotic_resistance.svg grows though the survival of individuals less affected by the antibiotic. Their offspring inherit the resistance.]]
+grows though the survival of individuals less affected by the antibiotic. Their offspring inherit the resistance.]]
 
 Natural selection is seen in action in the development of antibiotic resistance in microorganisms. Since the discovery of penicillin in 1928, antibiotics have been used to fight bacterial diseases. The widespread misuse of antibiotics has selected for microbial resistance to antibiotics in clinical use, to the point that the methicillin-resistant _Staphylococcus aureus_ (MRSA) has been described as a "superbug" because of the threat it poses to health and its relative invulnerability to existing drugs.[94] Response strategies typically include the use of different, stronger antibiotics; however, new strains of MRSA have recently emerged that are resistant even to these drugs.[95] This is an evolutionary arms race, in which bacteria develop strains less susceptible to antibiotics, while medical researchers attempt to develop new antibiotics that can kill them. A similar situation occurs with pesticide resistance in plants and insects. Arms races are not necessarily induced by man; a well-documented example involves the spread of a gene in the butterfly _Hypolimnas bolina_ suppressing male-killing activity by _Wolbachia_ bacteria parasites on the island of Samoa, where the spread of the gene is known to have occurred over a period of just five years[96][97]
 
 
 Evolution by means of natural selection
 
-Polydactyly_01_Lhand_AP.jpg, caused by a mutant _Hox_ gene]]
+, caused by a mutant _Hox_ gene]]
 
 A prerequisite for natural selection to result in adaptive evolution, novel traits and speciation is the presence of heritable genetic variation that results in fitness differences. Genetic variation is the result of mutations, genetic recombinations and alterations in the karyotype (the number, shape, size and internal arrangement of the chromosomes). Any of these changes might have an effect that is highly advantageous or highly disadvantageous, but large effects are rare. In the past, most changes in the genetic material were considered neutral or close to neutral because they occurred in noncoding DNA or resulted in a synonymous substitution. However, many mutations in non-coding DNA have deleterious effects.[98][99] Although both mutation rates and average fitness effects of mutations are dependent on the organism, a majority of mutations in humans are slightly deleterious.[100]
 

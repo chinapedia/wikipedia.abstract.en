@@ -1,4 +1,4 @@
-Metabolomics_schema.png, transcriptome, proteome, and metabolome (lipidome).]]
+, transcriptome, proteome, and metabolome (lipidome).]]
 
 The PROTEOME is the entire set of proteins that is, or can be, expressed by a genome, cell, tissue, or organism at a certain time. It is the set of expressed proteins in a given type of cell or organism, at a given time, under defined conditions. Proteomics is the study of the proteome.
 

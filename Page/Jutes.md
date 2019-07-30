@@ -1,4 +1,4 @@
-Jutland_Peninsula_map.PNG, homeland of the Jutes.]] The JUTES (), IUTI, or IUTÆ were a Germanic people. According to Bede,[1] the Jutes were one of the three most powerful Germanic peoples of their time in the Nordic Iron Age,[2][3] the other two being the Saxons and the Angles.[4][5]
+, homeland of the Jutes.]] The JUTES (), IUTI, or IUTÆ were a Germanic people. According to Bede,[1] the Jutes were one of the three most powerful Germanic peoples of their time in the Nordic Iron Age,[2][3] the other two being the Saxons and the Angles.[4][5]
 
 The Jutes are believed to have originated from the Jutland Peninsula (called _Iutum_ in Latin) and part of the North Frisian coast. In present times, the Jutlandic Peninsula consists of the mainland of Denmark and Southern Schleswig in Germany. North Frisia is also part of Germany.
 
@@ -26,8 +26,6 @@ The Germanic dialect which the Jutes spoke is unknown; there is currently no inf
 
 
 Settlement in southern Britain
-
-Anglo_saxon_jute_575ad.jpg
 
 The Jutes, along with some Angles, Saxons and Frisians, sailed across the North Sea to raid and eventually invade Great Britain from the late 4th century onwards, either displacing, absorbing, or destroying the native peoples there.
 

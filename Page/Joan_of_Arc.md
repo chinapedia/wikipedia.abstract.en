@@ -30,7 +30,7 @@ By the time Joan of Arc began to influence events in 1429, nearly all of norther
 
 Life
 
-Maison_natale_Jeanne_d'Arc_023.jpg is now a museum. The village church where she attended Mass is to the right, behind the trees.]]
+is now a museum. The village church where she attended Mass is to the right, behind the trees.]]
 
 Joan was the daughter of Jacques d'Arc and Isabelle Romée[22] in Domrémy, a village which was then in the French part of the Duchy of Bar.[23] Joan's parents owned about 50 acres (20 hectares) of land and her father supplemented his farming work with a minor position as a village official, collecting taxes and heading the local watch.[24] They lived in an isolated patch of eastern France that remained loyal to the French crown despite being surrounded by pro-Burgundian lands. Several local raids occurred during her childhood and on one occasion her village was burned. Joan was illiterate and it is believed that her letters were dictated by her to scribes and she signed her letters with the help of others.[25]
 
@@ -40,13 +40,13 @@ At the age of 16, she asked a relative named Durand Lassois to take her to the n
 
 Rise
 
-Siege_orleans.jpg of 1429, from _Les Vigiles de Charles VII_ by Martial d'Auvergne]]
+of 1429, from _Les Vigiles de Charles VII_ by Martial d'Auvergne]]
 
 Robert de Baudricourt granted Joan an escort to visit Chinon after news from Orleans confirmed her assertion of the defeat. She made the journey through hostile Burgundian territory disguised as a male soldier,[33] a fact which would later lead to charges of "cross-dressing" against her, although her escort viewed it as a normal precaution. Two of the members of her escort said they and the people of Vaucouleurs provided her with this clothing, and had suggested it to her.[34]
 
 Joan's first meeting with Charles took place at the Royal Court in the town of Chinon in 1429, when she was aged 17 and he 26. After arriving at the Court she made a strong impression on Charles during a private conference with him. During this time Charles' mother-in-law Yolande of Aragon was planning to finance a relief expedition to Orléans. Joan asked for permission to travel with the army and wear protective armor, which was provided by the Royal government. She depended on donated items for her armor, horse, sword, banner, and other items utilized by her entourage. Historian Stephen W. Richey explains her attraction to the royal court by pointing out that they may have viewed her as the only source of hope for a regime that was near collapse:
 
-Contemporaine_afb_jeanne_d_arc.png, dated 10 May 1429)[35]]]
+, dated 10 May 1429)[35]]]
 
 Upon her arrival on the scene, Joan effectively turned the longstanding Anglo-French conflict into a religious war,[36] a course of action that was not without risk. Charles' advisers were worried that unless Joan's orthodoxy could be established beyond doubt—that she was not a heretic or a sorceress—Charles' enemies could easily make the allegation that his crown was a gift from the devil. To circumvent this possibility, the Dauphin ordered background inquiries and a theological examination at Poitiers to verify her morality. In April 1429, the commission of inquiry "declared her to be of irreproachable life, a good Christian, possessed of the virtues of humility, honesty and simplicity."[37] The theologians at Poitiers did not render a decision on the issue of divine inspiration; rather, they informed the Dauphin that there was a "favorable presumption" to be made on the divine nature of her mission. This convinced Charles, but they also stated that he had an obligation to put Joan to the test. "To doubt or abandon her without suspicion of evil would be to repudiate the Holy Spirit and to become unworthy of God's aid", they declared.[38] They recommended that her claims should be put to the test by seeing if she could lift the siege of Orléans as she had predicted.[39]
 
@@ -66,9 +66,9 @@ The Duke of Alençon accepted Joan's advice concerning strategy. Other commander
 
 The English army withdrew from the Loire Valley and headed north on 18 June, joining with an expected unit of reinforcements under the command of Sir John Fastolf. Joan urged the Armagnacs to pursue, and the two armies clashed southwest of the village of Patay. The battle at Patay might be compared to Agincourt in reverse. The French vanguard attacked a unit of English archers who had been placed to block the road. A rout ensued that decimated the main body of the English army and killed or captured most of its commanders. Fastolf escaped with a small band of soldiers and became the scapegoat for the humiliating English defeat. The French suffered minimal losses.[51]
 
-Vigiles_misc_03.jpg hand over city keys to the Dauphin and Joan]] The French army left Gien on 29 June on the march toward Reims and accepted the conditional surrender of the Burgundian-held city of Auxerre on 3 July. Other towns in the army's path returned to French allegiance without resistance. Troyes, the site of the treaty that tried to disinherit Charles VII, was the only one to put up even brief opposition. The army was in short supply of food by the time it reached Troyes. But the army was in luck: a wandering friar named Brother Richard had been preaching about the end of the world at Troyes and convinced local residents to plant beans, a crop with an early harvest. The hungry army arrived as the beans ripened.[52] Troyes capitulated after a bloodless four-day siege.[53]
+hand over city keys to the Dauphin and Joan]] The French army left Gien on 29 June on the march toward Reims and accepted the conditional surrender of the Burgundian-held city of Auxerre on 3 July. Other towns in the army's path returned to French allegiance without resistance. Troyes, the site of the treaty that tried to disinherit Charles VII, was the only one to put up even brief opposition. The army was in short supply of food by the time it reached Troyes. But the army was in luck: a wandering friar named Brother Richard had been preaching about the end of the world at Troyes and convinced local residents to plant beans, a crop with an early harvest. The hungry army arrived as the beans ripened.[52] Troyes capitulated after a bloodless four-day siege.[53]
 
-ingres_coronation_charles_vii.jpg"'', by Ingres, 1854]] Reims opened its gates to the army on 16 July 1429. The coronation took place the following morning. Although Joan and the Duke of Alençon urged a prompt march toward Paris, the royal court preferred to negotiate a truce with Duke Philip of Burgundy. The duke violated the purpose of the agreement by using it as a stalling tactic to reinforce the defense of Paris.[54] The French army marched past a succession of towns near Paris during the interim and accepted the surrender of several towns without a fight. The Duke of Bedford led an English force to confront Charles VII's army at the battle of Montépilloy on August 15, which resulted in a standoff. The French assault at Paris ensued on 8 September. Despite a wound to the leg from a crossbow bolt, Joan remained in the inner trench of Paris until she was carried back to safety by one of the commanders.[55]
+"'', by Ingres, 1854]] Reims opened its gates to the army on 16 July 1429. The coronation took place the following morning. Although Joan and the Duke of Alençon urged a prompt march toward Paris, the royal court preferred to negotiate a truce with Duke Philip of Burgundy. The duke violated the purpose of the agreement by using it as a stalling tactic to reinforce the defense of Paris.[54] The French army marched past a succession of towns near Paris during the interim and accepted the surrender of several towns without a fight. The Duke of Bedford led an English force to confront Charles VII's army at the battle of Montépilloy on August 15, which resulted in a standoff. The French assault at Paris ensued on 8 September. Despite a wound to the leg from a crossbow bolt, Joan remained in the inner trench of Paris until she was carried back to safety by one of the commanders.[55]
 
 The following morning the army received a royal order to withdraw. Most historians blame French Grand Chamberlain Georges de la Trémoille for the political blunders that followed the coronation.[56] In October, Joan was with the royal army when it took Saint-Pierre-le-Moûtier, followed by an unsuccessful attempt to take La-Charité-sur-Loire in November and December. On 29 December, Joan and her family were ennobled by Charles VII as a reward for her actions.[57][58]
 
@@ -76,7 +76,7 @@ Capture
 
 A truce with England during the following few months left Joan with little to do. On 23 March 1430, she dictated a threatening letter to the Hussites, a dissident group which had broken with the Catholic Church on a number of doctrinal points and had defeated several previous crusades sent against them. Joan's letter promises to "remove your madness and foul superstition, taking away either your heresy or your lives."[59] Joan, an ardent Catholic who hated all forms of heresy (together with Islam), also sent a letter challenging the English to leave France and go with her to Bohemia to fight the Hussites, an offer that went unanswered.[60]
 
-Capture_de_Jeanne.JPG in the Panthéon, Paris]] The truce with England quickly came to an end. Joan traveled to Compiègne the following May to help defend the city against an English and Burgundian siege. On 23 May 1430 she was with a force that attempted to attack the Burgundian camp at Margny north of Compiègne, but was ambushed and captured.[61] When the troops began to withdraw toward the nearby fortifications of Compiègne after the advance of an additional force of 6,000 Burgundians,[62] Joan stayed with the rear guard. Burgundian troops surrounded the rear guard, and she was pulled off her horse by an archer.[63] She agreed to surrender to a pro-Burgundian nobleman named Lionel of Wandomme, a member of Jean de Luxembourg's unit.
+in the Panthéon, Paris]] The truce with England quickly came to an end. Joan traveled to Compiègne the following May to help defend the city against an English and Burgundian siege. On 23 May 1430 she was with a force that attempted to attack the Burgundian camp at Margny north of Compiègne, but was ambushed and captured.[61] When the troops began to withdraw toward the nearby fortifications of Compiègne after the advance of an additional force of 6,000 Burgundians,[62] Joan stayed with the rear guard. Burgundian troops surrounded the rear guard, and she was pulled off her horse by an archer.[63] She agreed to surrender to a pro-Burgundian nobleman named Lionel of Wandomme, a member of Jean de Luxembourg's unit.
 
 Joan was imprisoned by the Burgundians at Beaurevoir Castle. She made several escape attempts, on one occasion jumping from her 70-foot (21 m) tower, landing on the soft earth of a dry moat, after which she was moved to the Burgundian town of Arras.[64] The English negotiated with their Burgundian allies to transfer her to their custody, with Bishop Pierre Cauchon of Beauvais, an English partisan, assuming a prominent role in these negotiations and her later trial.[65] The final agreement called for the English to pay the sum of 10,000 livres tournois[66] to obtain her from Jean de Luxembourg, a member of the Council of Duke Philip of Burgundy.
 
@@ -84,13 +84,13 @@ The English moved Joan to the city of Rouen, which served as their main headquar
 
 Trial
 
-Tour_Jeanne_D'Arc10.jpg, surviving remnant of the fortress where Joan was imprisoned during her trial. It has since become known as the "Joan of Arc Tower".]]
+, surviving remnant of the fortress where Joan was imprisoned during her trial. It has since become known as the "Joan of Arc Tower".]]
 
 The trial for heresy was politically motivated. The tribunal was composed entirely of pro-English and Burgundian clerics, and overseen by English commanders including the Duke of Bedford and the Earl of Warwick.[69] In the words of the British medievalist Beverly Boyd, the trial was meant by the English Crown to be "a ploy to get rid of a bizarre prisoner of war with maximum embarrassment to their enemies".[70] Legal proceedings commenced on 9 January 1431 at Rouen, the seat of the English occupation government.[71] The procedure was suspect on a number of points, which would later provoke criticism of the tribunal by the chief inquisitor who investigated the trial after the war.[72]
 
 Under ecclesiastical law, Bishop Cauchon lacked jurisdiction over the case.[73] Cauchon owed his appointment to his partisan support of the English Crown, which financed the trial. The low standard of evidence used in the trial also violated inquisitorial rules.[74] Clerical notary Nicolas Bailly, who was commissioned to collect testimony against Joan, could find no adverse evidence.[75] Without such evidence the court lacked grounds to initiate a trial. Opening a trial anyway, the court also violated ecclesiastical law by denying Joan the right to a legal adviser. In addition, stacking the tribunal entirely with pro-English clergy violated the medieval Church's requirement that heresy trials be judged by an impartial or balanced group of clerics. Upon the opening of the first public examination, Joan complained that those present were all partisans against her and asked for "ecclesiastics of the French side" to be invited in order to provide balance. This request was denied.[76]
 
-Joan_of_arc_interrogation.jpg'', by Hippolyte Delaroche, 1824, Musée des Beaux-Arts, Rouen, France]]
+'', by Hippolyte Delaroche, 1824, Musée des Beaux-Arts, Rouen, France]]
 
 The Vice-Inquisitor of Northern France (Jean Lemaitre) objected to the trial at its outset, and several eyewitnesses later said he was forced to cooperate after the English threatened his life.[77] Some of the other clergy at the trial were also threatened when they refused to cooperate, including a Dominican friar named Isambart de la Pierre.[78] These threats, and the domination of the trial by a secular government, were violations of the Church's rules and undermined the right of the Church to conduct heresy trials without secular interference.
 
@@ -101,8 +101,6 @@ Several members of the tribunal later testified that important portions of the t
 The twelve articles of accusation which summarized the court's findings contradicted the court record, which had already been doctored by the judges.[82][83] Under threat of immediate execution, the illiterate defendant signed an abjuration document that she did not understand. The court substituted a different abjuration in the official record.[84]
 
 Cross-dressing charge
-
-Stilke_Hermann_Anton_-_Joan_of_Arc's_Death_at_the_Stake.jpg
 
 Heresy was a capital crime only for a repeat offense; therefore, a repeat offense of "cross-dressing" was now arranged by the court, according to the eyewitnesses. Joan agreed to wear feminine clothing when she abjured, which created a problem. According to the later descriptions of some of the tribunal members, she had previously been wearing male (i.e. military) clothing in prison because it gave her the ability to fasten her hosen, boots and tunic together into one piece, which deterred rape by making it difficult to pull her hosen off. She was evidently afraid to give up this outfit even temporarily because it was likely to be confiscated by the judge and she would thereby be left without protection.[85][86] A woman's dress offered no such protection. A few days after her abjuration, when she was forced to wear a dress, she told a tribunal member that "a great English lord had entered her prison and tried to take her by force."[87] She resumed male attire either as a defense against molestation or, in the testimony of Jean Massieu, because her dress had been taken by the guards and she was left with nothing else to wear.[88]
 
@@ -123,7 +121,7 @@ In 1452, during the posthumous investigation into her execution, the Church decl
 
 Retrial
 
-Calixtus_III.jpg was instrumental in ordering the retrial of Joan of Arc in 1455 after receiving a petition from her family]]
+was instrumental in ordering the retrial of Joan of Arc in 1455 after receiving a petition from her family]]
 
 A posthumous retrial opened after the war ended. Pope Callixtus III authorized this proceeding, also known as the "nullification trial", at the request of Inquisitor-General Jean Bréhal and Joan's mother Isabelle Romée. The purpose of the trial was to investigate whether the trial of condemnation and its verdict had been handled justly and according to canon law. Investigations started with an inquest by Guillaume Bouillé, a theologian and former rector of the University of Paris (Sorbonne).
 
@@ -136,7 +134,7 @@ Joan of Arc became a symbol of the Catholic League during the 16th century. When
 
 Legacy
 
-Joan_of_Arc_Emmanuel_Fremiet.jpg'', a gilded bronze equestrian statue exhibited at the Place des Pyramides in Paris, by Emmanuel Frémiet, 1874]] Jeanne_d'_Arc_(Eugene_Thirion).jpg Orléans_Jeanne_d'Arc_place_du_Martroi.jpg, by Denis Foyatier, 1855]] Albert_Lynch_-_Jeanne_d'Arc.jpg featured in the _Figaro Illustre_ magazine]]
+'', a gilded bronze equestrian statue exhibited at the Place des Pyramides in Paris, by Emmanuel Frémiet, 1874]] , by Denis Foyatier, 1855]] featured in the _Figaro Illustre_ magazine]]
 
 Joan of Arc became a semi-legendary figure for the four centuries after her death. The main sources of information about her were chronicles. Five original manuscripts of her condemnation trial surfaced in old archives during the 19th century. Soon, historians also located the complete records of her rehabilitation trial, which contained sworn testimony from 115 witnesses, and the original French notes for the Latin condemnation trial transcript. Various contemporary letters also emerged, three of which carry the signature _Jehanne_ in the unsteady hand of a person learning to write.[104] This unusual wealth of primary source material is one reason DeVries declares, "No person of the Middle Ages, male or female, has been the subject of more study."[105]
 
@@ -172,7 +170,7 @@ Her subtle replies under interrogation even forced the court to stop holding pub
 
 Alleged relics
 
-Tete_de_Saint_Maurice_Orleans.jpg and by Bernard Shaw.]]
+and by Bernard Shaw.]]
 
 In 1867, a jar was found in a Paris pharmacy with the inscription "Remains found under the stake of Joan of Arc, virgin of Orleans." They consisted of a charred human rib, carbonized wood, a piece of linen and a cat femur—explained as the practice of throwing black cats onto the pyre of witches. In 2006, Philippe Charlier, a forensic scientist at Raymond Poincaré University Hospital (Garches) was authorized to study the relics. Carbon-14 tests and various spectroscopic analyses were performed, and the results determined that the remains come from an Egyptian mummy from the sixth to the third century BC.[123]
 

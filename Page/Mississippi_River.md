@@ -22,7 +22,7 @@ The Mississippi River can be divided into three sections: the Upper Mississippi,
 
 Upper Mississippi
 
-Lake_Itasca_Mississippi_Source.jpg (2004)]] Saint_Anthony_Falls_aerial.jpg WyalusingStateParkWisconsinRiverIntoMississippiRiver.jpg and Mississippi Rivers, viewed from Wyalusing State Park in Wisconsin]]
+(2004)]] and Mississippi Rivers, viewed from Wyalusing State Park in Wisconsin]]
 
 The Upper Mississippi runs from its headwaters to its confluence with the Missouri River at St. Louis, Missouri. It is divided into two sections:
 
@@ -45,9 +45,7 @@ By the time the Upper Mississippi reaches Saint Paul, Minnesota, below Lock and 
 
 The Upper Mississippi River is joined by the Minnesota River at Fort Snelling in the Twin Cities; the St. Croix River near Prescott, Wisconsin; the Cannon River near Red Wing, Minnesota; the Zumbro River at Wabasha, Minnesota; the Black, La Crosse, and Root rivers in La Crosse, Wisconsin; the Wisconsin River at Prairie du Chien, Wisconsin; the Rock River at the Quad Cities; the Iowa River near Wapello, Iowa; the Skunk River south of Burlington, Iowa; and the Des Moines River at Keokuk, Iowa. Other major tributaries of the Upper Mississippi include the Crow River in Minnesota, the Chippewa River in Wisconsin, the Maquoketa River and the Wapsipinicon River in Iowa, and the Illinois River in Illinois.
 
-Dubois_n_Mississippi_River_P7280468_Missouri_n_Mississippi_River.JPG
-
-The Upper Mississippi is largely a multi-thread stream with many bars and islands. From its confluence with the St. Croix River downstream to Dubuque, Iowa, the river is entrenched, with high bedrock bluffs lying on either side. The height of these bluffs decreases to the south of Dubuque, though they are still significant through Savanna, Illinois. This topography contrasts strongly with the Lower Mississippi, which is a meandering river in a broad, flat area, only rarely flowing alongside a bluff (as at Vicksburg, Mississippi). CairoIL_from_space_annotated.jpg of the Mississippi (left) and Ohio (right) rivers at Cairo, Illinois, the demarcation between the Middle and the Lower Mississippi River]]
+The Upper Mississippi is largely a multi-thread stream with many bars and islands. From its confluence with the St. Croix River downstream to Dubuque, Iowa, the river is entrenched, with high bedrock bluffs lying on either side. The height of these bluffs decreases to the south of Dubuque, though they are still significant through Savanna, Illinois. This topography contrasts strongly with the Lower Mississippi, which is a meandering river in a broad, flat area, only rarely flowing alongside a bluff (as at Vicksburg, Mississippi). of the Mississippi (left) and Ohio (right) rivers at Cairo, Illinois, the demarcation between the Middle and the Lower Mississippi River]]
 
 Middle Mississippi
 
@@ -57,7 +55,7 @@ The Middle Mississippi is relatively free-flowing. From St. Louis to the Ohio Ri
 
 Lower Mississippi
 
-Mississipi_River_-_New_Orleans.JPG The Mississippi River is called the Lower Mississippi River from its confluence with the Ohio River to its mouth at the Gulf of Mexico, a distance of about . At the confluence of the Ohio and the Middle Mississippi, the long-term mean discharge of the Ohio at Cairo, Illinois is ,[16] while the long-term mean discharge of the Mississippi at Thebes, Illinois (just upriver from Cairo) is .[17] Thus, by volume, the main branch of the Mississippi River system at Cairo can be considered to be the Ohio River (and the Allegheny River further upstream), rather than the Middle Mississippi.
+The Mississippi River is called the Lower Mississippi River from its confluence with the Ohio River to its mouth at the Gulf of Mexico, a distance of about . At the confluence of the Ohio and the Middle Mississippi, the long-term mean discharge of the Ohio at Cairo, Illinois is ,[16] while the long-term mean discharge of the Mississippi at Thebes, Illinois (just upriver from Cairo) is .[17] Thus, by volume, the main branch of the Mississippi River system at Cairo can be considered to be the Ohio River (and the Allegheny River further upstream), rather than the Middle Mississippi.
 
 In addition to the Ohio River, the major tributaries of the Lower Mississippi River are the White River, flowing in at the White River National Wildlife Refuge in east central Arkansas; the Arkansas River, joining the Mississippi at Arkansas Post; the Big Black River in Mississippi; and the Yazoo River, meeting the Mississippi at Vicksburg, Mississippi. The widest point of the Mississippi River is in the Lower Mississippi portion where it exceeds in width in several places.
 
@@ -66,11 +64,9 @@ Deliberate water diversion at the Old River Control Structure in Louisiana allow
 
 Watershed
 
-Mississippi_River_Watershed_Map.jpg The_Rivers_of_the_Mississippi_Watershed.webm
-
 The Mississippi River has the world's fourth-largest drainage basin ("watershed" or "catchment"). The basin covers more than , including all or parts of 32 U.S. states and two Canadian provinces. The drainage basin empties into the Gulf of Mexico, part of the Atlantic Ocean. The total catchment of the Mississippi River covers nearly 40% of the landmass of the continental United States. The highest point within the watershed is also the highest point of the Rocky Mountains, Mount Elbert at .[22]
 
-MississippiRiver_GulfMex_MODIS_2004jul-aug.jpg images showing the outflow of fresh water from the Mississippi (arrows) into the Gulf of Mexico (2004)]]
+images showing the outflow of fresh water from the Mississippi (arrows) into the Gulf of Mexico (2004)]]
 
 In the United States, the Mississippi River drains the majority of the area between the crest of the Rocky Mountains and the crest of the Appalachian Mountains, except for various regions drained to Hudson Bay by the Red River of the North; to the Atlantic Ocean by the Great Lakes and the Saint Lawrence River; and to the Gulf of Mexico by the Rio Grande, the Alabama and Tombigbee rivers, the Chattahoochee and Appalachicola rivers, and various smaller coastal waterways along the Gulf.
 
@@ -98,7 +94,7 @@ The current form of the Mississippi River basin was largely shaped by the Lauren
 
 Ice sheets during the Illinoian Stage, about 300,000 to 132,000 years before present, blocked the Mississippi near Rock Island, Illinois, diverting it to its present channel farther to the west, the current western border of Illinois. The Hennepin Canal roughly follows the ancient channel of the Mississippi downstream from Rock Island to Hennepin, Illinois. South of Hennepin, to Alton, Illinois, the current Illinois River follows the ancient channel used by the Mississippi River before the Illinoian Stage.[27][28]
 
-Reverie_TN_08_former_MS_river_S.jpg/Arkansas state line near Reverie, Tennessee (2007)]]
+/Arkansas state line near Reverie, Tennessee (2007)]]
 
 Timeline of outflow course changes[29]
 
@@ -158,7 +154,7 @@ Communities along the river
   Cape Girardeau–Jackson MO-IL   96,275
   Dubuque, IA                    93,653
 
-Missrivermpls.jpg (2007)]] WinonaMNboathouses2006-05-09.JPG (2006)]] Miss_R_dam_27.jpg Dam_-27.JPG near St. Louis (2006)]]
+ (2007)]] (2006)]] near St. Louis (2006)]]
 
 Many of the communities along the Mississippi River are listed below; most have either historic significance or cultural lore connecting them to the river. They are sequenced from the source of the river to its end.
 
@@ -299,7 +295,7 @@ Many of the communities along the Mississippi River are listed below; most have 
 
 Bridge crossings
 
-Mississippi_River_from_the_Guthrie_Theater.jpg, the Third Avenue Bridge and the Hennepin Avenue Bridge in Minneapolis (2004)]]
+, the Third Avenue Bridge and the Hennepin Avenue Bridge in Minneapolis (2004)]]
 
 The road crossing highest on the Upper Mississippi is a simple steel culvert, through which the river (locally named "Nicolet Creek") flows north from Lake Nicolet under "Wilderness Road" to the West Arm of Lake Itasca, within Itasca State Park.[37]
 
@@ -315,7 +311,7 @@ Below is a general overview of selected Mississippi bridges which have notable e
 -   I-90 Mississippi River BridgeConnects La Crosse, Wisconsin, and Winona County, Minnesota, located just south of Lock and Dam No. 7.
 -   Black Hawk BridgeConnects Lansing in Allamakee County, Iowa and rural Crawford County, Wisconsin; locally referred to as the Lansing Bridge and documented in the Historic American Engineering Record.
 
-DubWisBridge051904.jpg (2004)]]
+(2004)]]
 
 -   Dubuque-Wisconsin BridgeConnects Dubuque, Iowa, and Grant County, Wisconsin.
 -   Julien Dubuque BridgeJoins the cities of Dubuque, Iowa, and East Dubuque, Illinois; listed in the National Register of Historic Places.
@@ -324,7 +320,7 @@ DubWisBridge051904.jpg (2004)]]
 -   I-74 BridgeConnects Bettendorf, Iowa, and Moline, Illinois; originally known as the _Iowa-Illinois Memorial Bridge_.
 -   Government BridgeConnects Rock Island, Illinois and Davenport, Iowa, adjacent to Lock and Dam No. 15; the fourth crossing in this vicinity, built in 1896.
 -   Rock Island Centennial BridgeConnects Rock Island, Illinois, and Davenport, Iowa; opened in 1940.
--   Sergeant John F. Baker, Jr. BridgeConnects Rock Island, Illinois, and Davenport, Iowa; opened in 1973.Muscatine-ia-bridge.jpg, Iowa, with LED lighting]]
+-   Sergeant John F. Baker, Jr. BridgeConnects Rock Island, Illinois, and Davenport, Iowa; opened in 1973., Iowa, with LED lighting]]
 -   Norbert F. Beckey BridgeConnects Muscatine, Iowa, and Rock Island County, Illinois; became first U.S. bridge to be illuminated with light-emitting diode (LED) lights decoratively illuminating the facade of the bridge.
 -   Great River BridgeA cable-stayed bridge connecting Burlington, Iowa, to Gulf Port, Illinois.
 -   Fort Madison Toll BridgeConnects Fort Madison, Iowa, and unincorporated Niota, Illinois; also known as the _Santa Fe Swing Span Bridge_; at the time of its construction the longest and heaviest electrified swing span on the Mississippi River. Listed in the National Register of Historic Places since 1999.
@@ -333,7 +329,7 @@ DubWisBridge051904.jpg (2004)]]
 -   Quincy Memorial BridgeConnects the cities of West Quincy, Missouri, and Quincy, Illinois, carrying eastbound U.S. 24, the older of these two U.S. 24 bridges.
 -   Clark BridgeA cable-stayed bridge connecting West Alton, Missouri, and Alton, Illinois, also known as the _Super Bridge_ as the result of an appearance on the PBS program, _Nova_; built in 1994, carrying U.S. Route 67 across the river. This is the northernmost river crossing in the St. Louis metropolitan area, replacing the _Old Clark Bridge_, a truss bridge built in 1928, named after explorer William Clark.
 
-ChainOfRocksBridge_StLouisMO.jpg at St. Louis, Missouri]]
+at St. Louis, Missouri]]
 
 -   Chain of Rocks BridgeLocated on the northern edge of St. Louis, notable for a 22-degree bend occurring at the middle of the crossing, necessary for navigation on the river; formerly used by U.S. Route 66 to cross the Mississippi. Replaced for road traffic in 1966 by a nearby pair of new bridges; now a pedestrian bridge.
 -   Eads BridgeA combined road and railway bridge, connecting St. Louis and East St. Louis, Illinois. When completed in 1874, it was the longest arch bridge in the world, with an overall length of . The three ribbed steel arch spans were considered daring, as was the use of steel as a primary structural material; it was the first such use of true steel in a major bridge project.
@@ -341,7 +337,7 @@ ChainOfRocksBridge_StLouisMO.jpg at St. Louis, Missouri]]
 -   Bill Emerson Memorial Bridge—Connecting Cape Girardeau, Missouri and East Cape Girardeau, Illinois, completed in 2003 and illuminated by 140 lights.
 -   Caruthersville Bridge A single tower cantilever bridge carrying Interstate 155 and U.S. Route 412 across the Mississippi River between Caruthersville, Missouri and Dyersburg, Tennessee.
 
-Memphis_Bridge.jpg in Memphis, Tennessee (2009)]]
+in Memphis, Tennessee (2009)]]
 
 -   Hernando de Soto BridgeA through arch bridge carrying Interstate 40 across the Mississippi between West Memphis, Arkansas, and Memphis, Tennessee.
 -   Harahan BridgeA cantilevered through truss bridge, carrying two rail lines of the Union Pacific Railroad across the river between West Memphis, Arkansas, and Memphis, Tennessee.
@@ -350,7 +346,7 @@ Memphis_Bridge.jpg in Memphis, Tennessee (2009)]]
 -   Helena Bridge
 -   Greenville Bridge
 
-Vicksburg-bridge.JPG]]
+]]
 
 -   Old Vicksburg Bridge
 -   Vicksburg Bridge
@@ -367,9 +363,9 @@ Vicksburg-bridge.JPG]]
 
 Navigation and flood control
 
-20040711181620_Mississippi_Memphis_Ausschnitt.jpg]] Mississippi_ship_navigation.png A clear channel is needed for the barges and other vessels that make the main stem Mississippi one of the great commercial waterways of the world. The task of maintaining a navigation channel is the responsibility of the United States Army Corps of Engineers, which was established in 1802.[40] Earlier projects began as early as 1829 to remove snags, close off secondary channels and excavate rocks and sandbars.
+]] A clear channel is needed for the barges and other vessels that make the main stem Mississippi one of the great commercial waterways of the world. The task of maintaining a navigation channel is the responsibility of the United States Army Corps of Engineers, which was established in 1802.[40] Earlier projects began as early as 1829 to remove snags, close off secondary channels and excavate rocks and sandbars.
 
-Steamboats entered trade in the 1820s, so the period 1830–1850 became the golden age of steamboats. As there were few roads or rails in the lands of the Louisiana Purchase, river traffic was an ideal solution. Cotton, timber and food came down the river, as did Appalachian coal. The port of New Orleans boomed as it was the trans-shipment point to deep sea ocean vessels. As a result, the image of the twin stacked, wedding cake Mississippi steamer entered into American mythology. Steamers worked the entire route from the trickles of Montana, to the Ohio River; down the Missouri and Tennessee, to the main channel of the Mississippi. Only with the arrival of the railroads in the 1880s did steamboat traffic diminish. Steamboats remained a feature until the 1920s. Most have been superseded by pusher tugs. A few survive as icons—the Delta Queen and the River Queen for instance. Ship_on_lower_Mississippi.jpeg Lower_Mississippi_River_barge.png
+Steamboats entered trade in the 1820s, so the period 1830–1850 became the golden age of steamboats. As there were few roads or rails in the lands of the Louisiana Purchase, river traffic was an ideal solution. Cotton, timber and food came down the river, as did Appalachian coal. The port of New Orleans boomed as it was the trans-shipment point to deep sea ocean vessels. As a result, the image of the twin stacked, wedding cake Mississippi steamer entered into American mythology. Steamers worked the entire route from the trickles of Montana, to the Ohio River; down the Missouri and Tennessee, to the main channel of the Mississippi. Only with the arrival of the railroads in the 1880s did steamboat traffic diminish. Steamboats remained a feature until the 1920s. Most have been superseded by pusher tugs. A few survive as icons—the Delta Queen and the River Queen for instance.
 
 A series of 29 locks and dams on the upper Mississippi, most of which were built in the 1930s, is designed primarily to maintain a channel for commercial barge traffic.[41][42] The lakes formed are also used for recreational boating and fishing. The dams make the river deeper and wider but do not stop it. No flood control is intended. During periods of high flow, the gates, some of which are submersible, are completely opened and the dams simply cease to function. Below St. Louis, the Mississippi is relatively free-flowing, although it is constrained by numerous levees and directed by numerous wing dams.
 
@@ -377,7 +373,7 @@ On the lower Mississippi, from Baton Rouge to the mouth of the Mississippi, the 
 
 19th century
 
-Lock_and_Dam_11.jpg, north of Dubuque, Iowa (2007)]] In 1829, there were surveys of the two major obstacles on the upper Mississippi, the Des Moines Rapids and the Rock Island Rapids, where the river was shallow and the riverbed was rock. The Des Moines Rapids were about long and just above the mouth of the Des Moines River at Keokuk, Iowa. The Rock Island Rapids were between Rock Island and Moline, Illinois. Both rapids were considered virtually impassable.
+, north of Dubuque, Iowa (2007)]] In 1829, there were surveys of the two major obstacles on the upper Mississippi, the Des Moines Rapids and the Rock Island Rapids, where the river was shallow and the riverbed was rock. The Des Moines Rapids were about long and just above the mouth of the Des Moines River at Keokuk, Iowa. The Rock Island Rapids were between Rock Island and Moline, Illinois. Both rapids were considered virtually impassable.
 
 In 1848, the Illinois and Michigan Canal was built to connect the Mississippi River to Lake Michigan via the Illinois River near Peru, Illinois. The canal allowed shipping between these important waterways. In 1900, the canal was replaced by the Chicago Sanitary and Ship Canal. The second canal, in addition to shipping, also allowed Chicago to address specific health issues (typhoid fever, cholera and other waterborne diseases) by sending its waste down the Illinois and Mississippi river systems rather than polluting its water source of Lake Michigan.
 
@@ -385,7 +381,7 @@ The Corps of Engineers recommended the excavation of a channel at the Des Moines
 
 To improve navigation between St. Paul, Minnesota, and Prairie du Chien, Wisconsin, the Corps constructed several dams on lakes in the headwaters area, including Lake Winnibigoshish and Lake Pokegama. The dams, which were built beginning in the 1880s, stored spring run-off which was released during low water to help maintain channel depth.
 
-Mississippi_River_Lock_and_Dam_number_2.jpg, near Hastings, Minnesota (2007)]] Mississippi_River_Lock_and_Dam_number_15.jpg, is the largest roller dam in the world Davenport, Iowa; Rock Island, Illinois. (1990)]]
+, near Hastings, Minnesota (2007)]] , is the largest roller dam in the world Davenport, Iowa; Rock Island, Illinois. (1990)]]
 
 20th century
 
@@ -397,7 +393,7 @@ Before the Great Mississippi Flood of 1927, the Corps's primary strategy was to 
 
 The Rivers and Harbors Act of 1930 authorized the channel project, which called for a navigation channel feet deep and wide to accommodate multiple-barge tows.[45][46] This was achieved by a series of locks and dams, and by dredging. Twenty-three new locks and dams were built on the upper Mississippi in the 1930s in addition to the three already in existence.
 
-Geomorphology_of_Old_River.jpg Mississippi_River_flow.gif flow capacity for the Mississippi river in thousands of cubic feet per second.[47]]]
+flow capacity for the Mississippi river in thousands of cubic feet per second.[47]]]
 
 Until the 1950s, there was no dam below Lock and Dam 26 at Alton, Illinois. Chain of Rocks Lock (Lock and Dam No. 27), which consists of a low-water dam and an canal, was added in 1953, just below the confluence with the Missouri River, primarily to bypass a series of rock ledges at St. Louis. It also serves to protect the St. Louis city water intakes during times of low water.
 
@@ -405,7 +401,7 @@ U.S. government scientists determined in the 1950s that the Mississippi River wa
 
 Because the large scale of high-energy water flow threatened to damage the structure, an auxiliary flow control station was built adjacent to the standing control station. This $300 million project was completed in 1986 by the Corps of Engineers. Beginning in the 1970s, the Corps applied hydrological transport models to analyze flood flow and water quality of the Mississippi. Dam 26 at Alton, Illinois, which had structural problems, was replaced by the Mel Price Lock and Dam in 1990. The original Lock and Dam 26 was demolished.
 
-Army_mil-2008-07-17-085659.jpg sandbag the River in Clarksville, Missouri, June 2008, following flooding.]]
+sandbag the River in Clarksville, Missouri, June 2008, following flooding.]]
 
 21st century
 
@@ -434,7 +430,7 @@ The Mississippi was spelled during French Louisiana and was also known as the Ri
 
 European exploration
 
-Discovery_of_the_Mississippi.jpg depicts Hernando de Soto and Spanish Conquistadores seeing the Mississippi River for the first time.]] Nouvelle-France_map-en.svg in North America in 1750, before the French and Indian War (1754 to 1763).]] Marquette_and_jolliet_map_1681.jpg and Jolliet's 1673 expedition.]] Exploration_of_the_Upper_Mississippi.pdf
+depicts Hernando de Soto and Spanish Conquistadores seeing the Mississippi River for the first time.]] in North America in 1750, before the French and Indian War (1754 to 1763).]] and Jolliet's 1673 expedition.]]
 
 On May 8, 1541, Spanish explorer Hernando de Soto became the first recorded European to reach the Mississippi River, which he called _Río del Espíritu Santo_ ("River of the Holy Spirit"), in the area of what is now Mississippi. In Spanish, the river is called _Río Mississippi_.[65]
 
@@ -448,7 +444,7 @@ In 1718, about upriver, New Orleans was established along the river crescent by 
 
 Colonization
 
-A_Home_on_the_Mississippi.png'' (1871)]] Following Britain's victory in the Seven Years War the Mississippi became the border between the British and Spanish Empires. The Treaty of Paris (1763) gave Great Britain rights to all land east of the Mississippi and Spain rights to land west of the Mississippi. Spain also ceded Florida to Britain to regain Cuba, which the British occupied during the war. Britain then divided the territory into East and West Florida.
+'' (1871)]] Following Britain's victory in the Seven Years War the Mississippi became the border between the British and Spanish Empires. The Treaty of Paris (1763) gave Great Britain rights to all land east of the Mississippi and Spain rights to land west of the Mississippi. Spain also ceded Florida to Britain to regain Cuba, which the British occupied during the war. Britain then divided the territory into East and West Florida.
 
 Article 8 of the Treaty of Paris (1783) states, "The navigation of the river Mississippi, from its source to the ocean, shall forever remain free and open to the subjects of Great Britain and the citizens of the United States". With this treaty, which ended the American Revolutionary War, Britain also ceded West Florida back to Spain to regain the Bahamas, which Spain had occupied during the war. In 1800, under duress from Napoleon of France, Spain ceded an undefined portion of West Florida to France. When France then sold the Louisiana Territory to the U.S. in 1803, a dispute arose again between Spain and the U.S. on which parts of West Florida exactly had Spain ceded to France, which would in turn decide which parts of West Florida were now U.S. property versus Spanish property. These aspirations ended when Spain was pressured into signing Pinckney's Treaty in 1795.
 
@@ -458,7 +454,7 @@ In the Treaty of 1818, the U.S. and Great Britain agreed to fix the border runni
 
 So many settlers traveled westward through the Mississippi river basin, as well as settled in it, that Zadok Cramer wrote a guide book called _The Navigator_, detailing the features and dangers and navigable waterways of the area. It was so popular that he updated and expanded it through 12 editions over a period of 25 years.
 
-Mississippi_River-sand_bars.jpg made early navigation difficult.]]
+made early navigation difficult.]]
 
 The colonization of the area was barely slowed by the three earthquakes in 1811 and 1812, estimated at approximately 8 on the Richter magnitude scale, that were centered near New Madrid, Missouri.
 
@@ -474,7 +470,7 @@ Italian explorer Giacomo Beltrami, wrote about his journey on the Virginia, whic
 
 Civil War
 
-Battle_of_Vicksburg,_Kurz_and_Allison.png (ca. 1888)]] Mississippi_River_from_Eunice,_Arkansas.jpg, a ghost town. Eunice was destroyed by gunboats during the Civil War.]]
+(ca. 1888)]] , a ghost town. Eunice was destroyed by gunboats during the Civil War.]]
 
 Control of the river was a strategic objective of both sides in the American Civil War. In 1862 Union forces coming down the river successfully cleared Confederate defenses at Island Number 10 and Memphis, Tennessee, while Naval forces coming upriver from the Gulf of Mexico captured New Orleans, Louisiana. The remaining major Confederate stronghold was on the heights overlooking the river at Vicksburg, Mississippi, and the Union's Vicksburg Campaign (December 1862 to July 1863), and the fall of Port Hudson, completed control of the lower Mississippi River. The Union victory ending the Siege of Vicksburg on July 4, 1863, was pivotal to the Union's final victory of the Civil War.
 
@@ -494,8 +490,6 @@ The Great Flood of 1993 was another significant flood, primarily affecting the M
 
 Two portions of the Mississippi were designated as American Heritage Rivers in 1997: the lower portion around Louisiana and Tennessee, and the upper portion around Iowa, Illinois, Minnesota, Missouri and Wisconsin. The Nature Conservancy's project called "America's Rivershed Initiative" announced a 'report card' assessment of the entire basin in October 2015 and gave the grade of D+. The assessment noted the aging navigation and flood control infrastructure along with multiple environmental problems.[75]
 
-Mississippi-River-Sandbar-Sunset.jpg
-
 In 2002, Slovenian long-distance swimmer Martin Strel swam the entire length of the river, from Minnesota to Louisiana, over the course of 68 days. In 2005, the Source to Sea Expedition[76] paddled the Mississippi and Atchafalaya Rivers to benefit the Audubon Society's Upper Mississippi River Campaign.[77][78]
 
 Future
@@ -504,7 +498,7 @@ Geologists believe that the lower Mississippi could take a new course to the Gul
 
 Failure of the Old River Control Structure, the Morganza Spillway, or nearby levees would likely re-route the main channel of the Mississippi through Louisiana's Atchafalaya Basin and down the Atchafalaya River to reach the Gulf of Mexico south of Morgan City in southern Louisiana. This route provides a more direct path to the Gulf of Mexico than the present Mississippi River channel through Baton Rouge and New Orleans.[84] While the risk of such a diversion is present during any major flood event, such a change has so far been prevented by active human intervention involving the construction, maintenance, and operation of various levees, spillways, and other control structures by the U.S. Army Corps of Engineers.
 
-Old_River_Control_Structure_Complex.jpg, looking downriver on the Mississippi, with the three dams across channels of the Atchafalaya River to the right of the Mississippi. Concordia Parish, Louisiana is in the foreground, on the right, and Wilkinson County, Mississippi, is in the background, across the Mississippi on the left.]] The Old River Control Structure, between the present Mississippi River channel and the Atchafalaya Basin, sits at the normal water elevation and is ordinarily used to divert 30% of the Mississippi's flow to the Atchafalaya River. There is a steep drop here away from the Mississippi's main channel into the Atchafalaya Basin. If this facility were to fail during a major flood, there is a strong concern the water would scour and erode the river bottom enough to capture the Mississippi's main channel. The structure was nearly lost during the 1973 flood, but repairs and improvements were made after engineers studied the forces at play. In particular, the Corps of Engineers made many improvements and constructed additional facilities for routing water through the vicinity. These additional facilities give the Corps much more flexibility and potential flow capacity than they had in 1973, which further reduces the risk of a catastrophic failure in this area during other major floods, such as that of 2011.
+, looking downriver on the Mississippi, with the three dams across channels of the Atchafalaya River to the right of the Mississippi. Concordia Parish, Louisiana is in the foreground, on the right, and Wilkinson County, Mississippi, is in the background, across the Mississippi on the left.]] The Old River Control Structure, between the present Mississippi River channel and the Atchafalaya Basin, sits at the normal water elevation and is ordinarily used to divert 30% of the Mississippi's flow to the Atchafalaya River. There is a steep drop here away from the Mississippi's main channel into the Atchafalaya Basin. If this facility were to fail during a major flood, there is a strong concern the water would scour and erode the river bottom enough to capture the Mississippi's main channel. The structure was nearly lost during the 1973 flood, but repairs and improvements were made after engineers studied the forces at play. In particular, the Corps of Engineers made many improvements and constructed additional facilities for routing water through the vicinity. These additional facilities give the Corps much more flexibility and potential flow capacity than they had in 1973, which further reduces the risk of a catastrophic failure in this area during other major floods, such as that of 2011.
 
 Because the Morganza Spillway is slightly higher and well back from the river, it is normally dry on both sides.[85] Even if it failed at the crest during a severe flood, the flood waters would have to erode to normal water levels before the Mississippi could permanently jump channel at this location. During the 2011 floods, the Corps of Engineers opened the Morganza Spillway to 1/4 of its capacity to allow 150,000 ft³/sec of water to flood the Morganza and Atchafalaya floodways and continue directly to the Gulf of Mexico, bypassing Baton Rouge and New Orleans.[86] In addition to reducing the Mississippi River crest downstream, this diversion reduced the chances of a channel change by reducing stress on the other elements of the control system.[87]
 
@@ -515,7 +509,7 @@ Another possible course change for the Mississippi River is a diversion into Lak
 
 Recreation
 
-MississippiRiverBluffs.jpg in Wisconsin near Lake Pepin (2005)]] The sport of water skiing was invented on the river in a wide region between Minnesota and Wisconsin known as Lake Pepin.[90] Ralph Samuelson of Lake City, Minnesota, created and refined his skiing technique in late June and early July 1922. He later performed the first water ski jump in 1925 and was pulled along at by a Curtiss flying boat later that year.[91]
+in Wisconsin near Lake Pepin (2005)]] The sport of water skiing was invented on the river in a wide region between Minnesota and Wisconsin known as Lake Pepin.[90] Ralph Samuelson of Lake City, Minnesota, created and refined his skiing technique in late June and early July 1922. He later performed the first water ski jump in 1925 and was pulled along at by a Curtiss flying boat later that year.[91]
 
 There are seven National Park Service sites along the Mississippi River. The Mississippi National River and Recreation Area is the National Park Service site dedicated to protecting and interpreting the Mississippi River itself. The other six National Park Service sites along the river are (listed from north to south):
 
@@ -529,7 +523,7 @@ There are seven National Park Service sites along the Mississippi River. The Mis
 
 Ecology
 
-Paddlefish_underwater.jpeg is an ancient relict from the Mississippi]]
+is an ancient relict from the Mississippi]]
 
 The Mississippi basin is home to a highly diverse aquatic fauna and has been called the "mother fauna" of North American fresh water.[92]
 
@@ -559,8 +553,6 @@ Literature
 -   Jonathan Raban's _Old Glory: An American Voyage_, a 1981 travel book describing the author's single-handed journey by boat down the river, was the winner of The Royal Society of Literature's Heinemann Award and the Thomas Cook Travel Book Award.
 
 Music
-
-On_The_Mississippi.jpg
 
 -   The song "When the Levee Breaks", made famous in the version performed by Led Zeppelin on the album _Led Zeppelin IV_, was composed by Memphis Minnie McCoy in 1929 after the Great Mississippi Flood of 1927.
 -   Ferde Grofé composed a set of movements for symphony orchestra entitled "Mississippi Suite", based on the lands the river travels through.

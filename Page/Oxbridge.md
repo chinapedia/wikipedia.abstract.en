@@ -1,4 +1,4 @@
-Couple_walking_into_St_Johns_College_Oxford.jpg, seen from the outside]]
+, seen from the outside]]
 
 OXBRIDGE is a portmanteau of Oxford and Cambridge, the two oldest universities in the United Kingdom. The term is used to refer to them collectively, in contrast to other British universities, and more broadly to describe characteristics reminiscent of them, often with implications of superior social or intellectual status or elitism.[1]
 
@@ -12,7 +12,7 @@ When expanded, the universities are almost always referred to as "Oxford and Cam
 
 Meaning
 
-Percentage_of_state-school_students_at_Oxford_and_Cambridge.png In addition to being a collective term, _Oxbridge_ is often used as shorthand for characteristics the two institutions share:
+In addition to being a collective term, _Oxbridge_ is often used as shorthand for characteristics the two institutions share:
 
 -   They are the two oldest universities in continuous operation in the UK. Both were founded more than 800 years ago,[6][7] and continued as England's only universities (barring short-lived foundations at such as those at Northampton and Durham) until the 19th century. Between them they have educated a large number of Britain's most prominent scientists, writers, and politicians, as well as noted figures in many other fields.[8][9]
 -   They have established similar institutions and facilities such as printing houses (Oxford University Press and Cambridge University Press), botanical gardens (University of Oxford Botanic Garden and Cambridge University Botanic Garden), museums (the Ashmolean and the Fitzwilliam), legal deposit libraries (the Bodleian and the Cambridge University Library), debating societies (the Oxford Union and the Cambridge Union), and notable comedy groups (The Oxford Revue and The Cambridge Footlights).

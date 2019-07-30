@@ -46,8 +46,6 @@ Manufacturing
 
 Nitroglycerin can be produced by acid-catalyzed nitration of glycerol (glycerin).
 
-Nitroglycerin_Synthesis_V.1.svg
-
 The industrial manufacturing process often reacts glycerol with a nearly 1:1 mixture of concentrated sulfuric acid and concentrated nitric acid. This can be produced by mixing white fuming nitric acid—a quite expensive pure nitric acid in which the oxides of nitrogen have been removed, as opposed to red fuming nitric acid, which contains nitrogen oxides—and concentrated sulfuric acid. More often, this mixture is attained by the cheaper method of mixing fuming sulfuric acid, also known as oleum—sulfuric acid containing excess sulfur trioxide—and azeotropic nitric acid (consisting of about 70% nitric acid, with the rest being water).
 
 The sulfuric acid produces protonated nitric acid species, which are attacked by glycerol's nucleophilic oxygen atoms. The nitro group is thus added as an ester C−O−NO₂ and water is produced. This is different from an electrophilic aromatic substitution reaction in which nitronium ions are the electrophile.
@@ -57,7 +55,7 @@ The addition of glycerol results in an exothermic reaction (i.e., heat is produc
 
 Use as an explosive and a propellant
 
-Nobel_patent.jpg's patent application from 1864]] The main use of nitroglycerin, by tonnage, is in explosives such as dynamite and in propellants.
+'s patent application from 1864]] The main use of nitroglycerin, by tonnage, is in explosives such as dynamite and in propellants.
 
 Nitroglycerin is an oily liquid that may explode when subjected to heat, shock, or flame.
 

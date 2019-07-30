@@ -9,7 +9,7 @@ The word _meteorology_ is from the Ancient Greek μετέωρος _metéōros_ (
 
 History
 
-AlpineRainbow.jpg in Savoie]]
+in Savoie]]
 
 The ability to predict rains and floods based on annual cycles was evidently used by humans at least from the time of agricultural settlement if not earlier. Early approaches to predicting weather were based on astrology and were practiced by priests. Cuneiform inscriptions on Babylonian tablets included associations between thunder and rain. The Chaldeans differentiated the 22° and 46° halos.[1]
 
@@ -27,15 +27,11 @@ Early attempts at predicting weather were often related to prophecy and divining
 
 Research of visual atmospheric phenomena
 
-Twilight at Baker Beach|thumb
-
 Ptolemy wrote on the atmospheric refraction of light in the context of astronomical observations.[14] In 1021, Alhazen showed that atmospheric refraction is also responsible for twilight; he estimated that twilight begins when the sun is 19 degrees below the horizon, and also used a geometric determination based on this to estimate the maximum possible height of the Earth's atmosphere as 52,000 _passim_ (about 49 miles, or 79 km).[15]
 
 St. Albert the Great was the first to propose that each drop of falling rain had the form of a small sphere, and that this form meant that the rainbow was produced by light interacting with each raindrop.[16] Roger Bacon was the first to calculate the angular size of the rainbow. He stated that a rainbow summit can not appear higher than 42 degrees above the horizon.[17] In the late 13th century and early 14th century, Kamāl al-Dīn al-Fārisī and Theodoric of Freiberg were the first to give the correct explanations for the primary rainbow phenomenon. Theoderic went further and also explained the secondary rainbow.[18] In 1716, Edmund Halley suggested that aurorae are caused by "magnetic effluvia" moving along the Earth's magnetic field lines.
 
 Instruments and classification scales
-
-Wea00920.jpg
 
 In 1441, King Sejong's son, Prince Munjong of Korea, invented the first standardized rain gauge.[19] These were sent throughout the Joseon dynasty of Korea as an official tool to assess land taxes based upon a farmer's potential harvest. In 1450, Leone Battista Alberti developed a swinging-plate anemometer, and was known as the first _anemometer_.[20] In 1607, Galileo Galilei constructed a thermoscope. In 1611, Johannes Kepler wrote the first scientific treatise on snow crystals: "Strena Seu de Nive Sexangula (A New Year's Gift of Hexagonal Snow)".[21] In 1643, Evangelista Torricelli invented the mercury barometer.[22] In 1662, Sir Christopher Wren invented the mechanical, self-emptying, tipping bucket rain gauge. In 1714, Gabriel Fahrenheit created a reliable scale for measuring temperature with a mercury-type thermometer.[23] In 1742, Anders Celsius, a Swedish astronomer, proposed the "centigrade" temperature scale, the predecessor of the current Celsius scale.[24] In 1783, the first hair hygrometer was demonstrated by Horace-Bénédict de Saussure. In 1802–1803, Luke Howard wrote _On the Modification of Clouds_, in which he assigns cloud types Latin names.[25] In 1806, Francis Beaufort introduced his system for classifying wind speeds.[26] Near the end of the 19th century the first cloud atlases were published, including the _International Cloud Atlas_, which has remained in print ever since. The April 1960 launch of the first successful weather satellite, TIROS-1, marked the beginning of the age where weather information became available globally.
 
@@ -45,13 +41,11 @@ In 1648, Blaise Pascal rediscovered that atmospheric pressure decreases with hei
 
 Research into cyclones and air flow
 
-Earth_Global_Circulation_-_en.svg
-
 In 1494, Christopher Columbus experienced a tropical cyclone, which led to the first written European account of a hurricane.[34] In 1686, Edmund Halley presented a systematic study of the trade winds and monsoons and identified solar heating as the cause of atmospheric motions.[35] In 1735, an _ideal_ explanation of global circulation through study of the trade winds was written by George Hadley.[36] In 1743, when Benjamin Franklin was prevented from seeing a lunar eclipse by a hurricane, he decided that cyclones move in a contrary manner to the winds at their periphery.[37] Understanding the kinematics of how exactly the rotation of the Earth affects airflow was partial at first. Gaspard-Gustave Coriolis published a paper in 1835 on the energy yield of machines with rotating parts, such as waterwheels.[38] In 1856, William Ferrel proposed the existence of a circulation cell in the mid-latitudes, and the air within deflected by the Coriolis force resulting in the prevailing westerly winds.[39] Late in the 19th century, the motion of air masses along isobars was understood to be the result of the large-scale interaction of the pressure gradient force and the deflecting force. By 1912, this deflecting force was named the Coriolis effect.[40] Just after World War I, a group of meteorologists in Norway led by Vilhelm Bjerknes developed the Norwegian cyclone model that explains the generation, intensification and ultimate decay (the life cycle) of mid-latitude cyclones, and introduced the idea of fronts, that is, sharply defined boundaries between air masses.[41] The group included Carl-Gustaf Rossby (who was the first to explain the large scale atmospheric flow in terms of fluid dynamics), Tor Bergeron (who first determined how rain forms) and Jacob Bjerknes.
 
 Observation networks and weather forecasting
 
-Wolkenstockwerke.png Hyetographic_or_Rain_Map_of_the_World_1848_Alexander_Keith_Johnston.png.]] Hyetographic_or_Rain_Map_of_Europe_1848_Alexander_Keith_Johnston.png
+.]]
 
 In the late 16th century and first half of the 17th century a range of meteorological instruments was invented – the thermometer, barometer, hydrometer, as well as wind and rain gauges. In the 1650s natural philosophers started using these instruments to systematically record weather observations. Scientific academies established weather diaries and organised observational networks.[42] In 1654, Ferdinando II de Medici established the first _weather observing_ network, that consisted of meteorological stations in Florence, Cutigliano, Vallombrosa, Bologna, Parma, Milan, Innsbruck, Osnabrück, Paris and Warsaw. The collected data were sent to Florence at regular time intervals.[43] In the 1660s Robert Hooke of the Royal Society of London sponsored networks of weather observers. Hippocrates' treatise _Airs, Waters, and Places_ had linked weather to disease. Thus early meteorologists attempted to correlate weather patterns with epidemic outbreaks, and the climate with public health.[44]
 
@@ -62,8 +56,6 @@ This data could be used to produce maps of the state of the atmosphere for a reg
 Over the next 50 years many countries established national meteorological services. The India Meteorological Department (1875) was established to follow tropical cyclone and monsoon.[52] The Finnish Meteorological Central Office (1881) was formed from part of Magnetic Observatory of Helsinki University.[53] Japan's Tokyo Meteorological Observatory, the forerunner of the Japan Meteorological Agency, began constructing surface weather maps in 1883.[54] The United States Weather Bureau (1890) was established under the United States Department of Agriculture. The Australian Bureau of Meteorology (1906) was established by a Meteorology Act to unify existing state meteorological services.[55][56]
 
 Numerical weather prediction
-
-IBM_7090_console_used_by_a_meteorologist,_1965.jpg
 
 In 1904, Norwegian scientist Vilhelm Bjerknes first argued in his paper _Weather Forecasting as a Problem in Mechanics and Physics_ that it should be possible to forecast weather from calculations based upon natural laws.[57][58]
 
@@ -83,7 +75,7 @@ Meteorologists are best known by the public for weather forecasting. Some radio 
 
 Equipment
 
-Huracán_Hugo.jpg with a polar low visible at the top of the image]] Each science has its own unique sets of laboratory equipment. In the atmosphere, there are many things or qualities of the atmosphere that can be measured. Rain, which can be observed, or seen anywhere and anytime was one of the first atmospheric qualities measured historically. Also, two other accurately measured qualities are wind and humidity. Neither of these can be seen but can be felt. The devices to measure these three sprang up in the mid-15th century and were respectively the rain gauge, the anemometer, and the hygrometer. Many attempts had been made prior to the 15th century to construct adequate equipment to measure the many atmospheric variables. Many were faulty in some way or were simply not reliable. Even Aristotle noted this in some of his work as the difficulty to measure the air.
+with a polar low visible at the top of the image]] Each science has its own unique sets of laboratory equipment. In the atmosphere, there are many things or qualities of the atmosphere that can be measured. Rain, which can be observed, or seen anywhere and anytime was one of the first atmospheric qualities measured historically. Also, two other accurately measured qualities are wind and humidity. Neither of these can be seen but can be felt. The devices to measure these three sprang up in the mid-15th century and were respectively the rain gauge, the anemometer, and the hygrometer. Many attempts had been made prior to the 15th century to construct adequate equipment to measure the many atmospheric variables. Many were faulty in some way or were simply not reliable. Even Aristotle noted this in some of his work as the difficulty to measure the air.
 
 Sets of surface measurements are important data to meteorologists. They give a snapshot of a variety of weather conditions at one single location and are usually at a weather station, a ship or a weather buoy. The measurements taken at a weather station can include any number of atmospheric observables. Usually, temperature, pressure, wind measurements, and humidity are the variables that are measured by a thermometer, barometer, anemometer, and hygrometer, respectively.[68] Professional stations may also include air quality sensors (carbon monoxide, carbon dioxide, methane, ozone, dust, and smoke), ceilometer (cloud ceiling), falling precipitation sensor, flood sensor, lightning sensor, microphone (explosions, sonic booms, thunder), pyranometer/pyrheliometer/spectroradiometer (IR/Vis/UV photodiodes), rain gauge/snow gauge, scintillation counter (background radiation, fallout, radon), seismometer (earthquakes and tremors), transmissometer (visibility), and a GPS clock for data logging. Upper air data are of crucial importance for weather forecasting. The most widely used technique is launches of radiosondes. Supplementing the radiosondes a network of aircraft collection is organized by the World Meteorological Organization.
 
@@ -126,13 +118,11 @@ Mesoscale meteorology is the study of atmospheric phenomena that has horizontal 
 
 Synoptic scale
 
-Surface_analysis.gif: Synoptic scale weather analysis.]]
+: Synoptic scale weather analysis.]]
 
 Synoptic scale meteorology predicts atmospheric changes at scales up to 1000 km and 10⁵ sec (28 days), in time and space. At the synoptic scale, the Coriolis acceleration acting on moving air masses (outside of the tropics) plays a dominant role in predictions. The phenomena typically described by synoptic meteorology include events such as extratropical cyclones, baroclinic troughs and ridges, frontal zones, and to some extent jet streams. All of these are typically given on weather maps for a specific time. The minimum horizontal scale of synoptic phenomena is limited to the spacing between surface observation stations.[73]
 
 Global scale
-
-WOA09_sea-surf_TMP_AYool.png
 
 Global scale meteorology is the study of weather patterns related to the transport of heat from the tropics to the poles. Very large scale oscillations are of importance at this scale. These oscillations have time periods typically on the order of months, such as the Madden–Julian oscillation, or years, such as the El Niño–Southern Oscillation and the Pacific decadal oscillation. Global scale meteorology pushes into the range of climatology. The traditional definition of climate is pushed into larger timescales and with the understanding of the longer time scale global oscillations, their effect on climate and weather disturbances can be included in the synoptic and mesoscale timescales predictions.
 
@@ -153,8 +143,6 @@ Dynamic meteorology generally focuses on the fluid dynamics of the atmosphere. T
 Applications
 
 Weather forecasting
-
-Day5pressureforecast.png
 
 Weather forecasting is the application of science and technology to predict the state of the atmosphere at a future time and given location. Humans have attempted to predict the weather informally for millennia and formally since at least the 19th century.[77][78] Weather forecasts are made by collecting quantitative data about the current state of the atmosphere and using scientific understanding of atmospheric processes to project how the atmosphere will evolve.[79]
 

@@ -118,7 +118,7 @@ Salafi Jihadism
 
 Salafi jihadism is a term coined by Gilles Kepel in 2002, referring to the ideology which actively promotes and conducts violence and terrorism in order to pursue the establishment of an Islamic state or a new Caliphate.[133][134] Today, the term is often simplified to _Jihadism_ or _Jihadist movement_ in popular usage according to Martin Kramer.[135] It is a hybrid ideology between Qutbism, Salafism, Wahhabism and other minor Islamist strains.[136][137] Qutbism taught by scholars like Abdullah Azzam provided the political intellectual underpinnings with the concepts like takfirism, and Salafism and Wahhabism provided the religious intellectual input.[138] Salafi Jihadism makes up a tiny minority of the contemporary Islamist movements.[139]
 
-Char_Etat_islamique_Raqqa.jpg, Syria, 2014]]
+, Syria, 2014]]
 
 Distinct characteristics of Salafi Jihadism noted by Robin Wright include the formal process of taking _bay'ah_ (oath of allegiance) to the leader, which is inspired by the Wahhabi teaching.[140] Another characteristic is its flexibility to cut ties with the less-popular movements when its strategically or financially convenient, exemplified by the relations between al-Qaeda and al-Nusra Front.[141] Other marked developments of Salafi Jihadism include the concepts of "near enemy" and "far enemy". "Near enemy" connotes the despotic regime occupying the Muslim society, and the term was coined by Mohammed Abdul-Salam Farag in order to justify the assassination of Anwar al-Sadat by the Salafi Jihadi organization Egyptian Islamic Jihad (EIJ) in 1981.[142] Later, the concept of "far enemy" which connotes the West was introduced and formally declared by al-Qaeda in 1996.[143][144]
 
@@ -139,7 +139,7 @@ Some Islamic revivalist movements and leaders pre-dating Islamism include:
 
 Early history
 
-HypnoDude.jpg]]
+]]
 
 The end of the 19th century saw the dismemberment of most of the Muslim Ottoman Empire by non-Muslim European colonial powers.[157] The empire spent massive sums on Western civilian and military technology to try to modernize and compete with the encroaching European powers, and in the process went deep into debt to these powers.
 
@@ -159,7 +159,7 @@ The thoughts and vision of Iqbal later influenced many reformist Islamists, e.g.
 
 Sayyid Abul Ala Maududi
 
-Abul_ala_maududi.jpg]]
+]]
 
 Sayyid Abul Ala Maududi[176][177] was an important early twentieth-century figure in the Islamic revival in India, and then after independence from Britain, in Pakistan. Trained as a lawyer he chose the profession of journalism, and wrote about contemporary issues and most importantly about Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but liberal modernizer Islamists such as al-Faruqi, whose "Islamization of Knowledge" carried forward some of Maududi's key principles.
 
@@ -177,7 +177,7 @@ Despite periodic repression, the Brotherhood has become one of the most influent
 
 Sayyid Qutb
 
-Sayyid_Qutb.jpg Maududi's political ideas influenced Sayyid Qutb a leading member of the Muslim Brotherhood movement, and one of the key philosophers of Islamism and highly influential thinkers of Islamic universalism.[193] Qutb believed things had reached such a state that the Muslim community had literally ceased to exist. It "has been extinct for a few centuries,"[194] having reverted to Godless ignorance (Jahiliyya).
+Maududi's political ideas influenced Sayyid Qutb a leading member of the Muslim Brotherhood movement, and one of the key philosophers of Islamism and highly influential thinkers of Islamic universalism.[193] Qutb believed things had reached such a state that the Muslim community had literally ceased to exist. It "has been extinct for a few centuries,"[194] having reverted to Godless ignorance (Jahiliyya).
 
 To eliminate jahiliyya, Qutb argued Sharia, or Islamic law, must be established. Sharia law was not only accessible to humans and essential to the existence of Islam, but also all-encompassing, precluding "evil and corrupt" non-Islamic ideologies like communism, nationalism, or secular democracy.
 
@@ -193,7 +193,7 @@ The quick and decisive defeat of the Arab troops during the Six-Day War by Israe
 
 Iranian Revolution (1978–1979)
 
-Roollah-khomeini.jpg]]
+]]
 
 The first modern "Islamist state" (with the possible exception of Zia's Pakistan)[199] was established among the Shia of Iran. In a major shock to the rest of the world, Ayatollah Ruhollah Khomeini led the Iranian Revolution of 1979 in order to overthrow the oil-rich, well-armed, Westernized and pro-American secular monarchy ruled by Shah Muhammad Reza Pahlavi.
 
@@ -244,7 +244,7 @@ Rise of Islamism by country
 
 Afghanistan (Taliban)
 
-Flag_of_Taliban.svg]] Military situation, as of 2017 In Afghanistan, the mujahideen's victory against the Soviet Union in the 1980s did not lead to justice and prosperity, due to a vicious and destructive civil war between political and tribal warlords, making Afghanistan one of the poorest countries on earth. In 1992, the Democratic Republic of Afghanistan ruled by communist forces collapsed, and democratic Islamist elements of mujahdeen founded the Islamic State of Afghanistan. In 1996, a more conservative and anti-democratic Islamist movement known as the Taliban rose to power, defeated most of the warlords and took over roughly 80% of Afghanistan.
+]] In Afghanistan, the mujahideen's victory against the Soviet Union in the 1980s did not lead to justice and prosperity, due to a vicious and destructive civil war between political and tribal warlords, making Afghanistan one of the poorest countries on earth. In 1992, the Democratic Republic of Afghanistan ruled by communist forces collapsed, and democratic Islamist elements of mujahdeen founded the Islamic State of Afghanistan. In 1996, a more conservative and anti-democratic Islamist movement known as the Taliban rose to power, defeated most of the warlords and took over roughly 80% of Afghanistan.
 
 The Taliban were spawned by the thousands of madrasahs the Deobandi movement established for impoverished Afghan refugees and supported by governmental and religious groups in neighboring Pakistan.[223] The Taliban differed from other Islamist movements to the point where they might be more properly described as Islamic fundamentalist or neofundamentalist, interested in spreading "an idealized and systematized version of conservative tribal village customs" under the label of Sharia to an entire country.[224] Their ideology was also described as being influenced by Wahhabism, and the extremist jihadism of their guest Osama bin Laden.[225][226]
 
@@ -254,7 +254,7 @@ The Taliban's hosting of Osama bin Laden led to an American-organized attack whi
 
 Algeria
 
-Islamic_Salvation_Front_logo.jpg emblem]] An Islamist movement influenced by Salafism and the jihad in Afghanistan, as well as the Muslim Brotherhood, was the FIS or Front Islamique de Salut (the Islamic Salvation Front) in Algeria. Founded as a broad Islamist coalition in 1989 it was led by Abbassi Madani, and a charismatic Islamist young preacher, Ali Belhadj. Taking advantage of economic failure and unpopular social liberalization and secularization by the ruling leftist-nationalist FLN government, it used its preaching to advocate the establishment of a legal system following Sharia law, economic liberalization and development program, education in Arabic rather than French, and gender segregation, with women staying home to alleviate the high rate of unemployment among young Algerian men. The FIS won sweeping victories in local elections and it was going to win national elections in 1991 when voting was canceled by a military coup d'état.
+emblem]] An Islamist movement influenced by Salafism and the jihad in Afghanistan, as well as the Muslim Brotherhood, was the FIS or Front Islamique de Salut (the Islamic Salvation Front) in Algeria. Founded as a broad Islamist coalition in 1989 it was led by Abbassi Madani, and a charismatic Islamist young preacher, Ali Belhadj. Taking advantage of economic failure and unpopular social liberalization and secularization by the ruling leftist-nationalist FLN government, it used its preaching to advocate the establishment of a legal system following Sharia law, economic liberalization and development program, education in Arabic rather than French, and gender segregation, with women staying home to alleviate the high rate of unemployment among young Algerian men. The FIS won sweeping victories in local elections and it was going to win national elections in 1991 when voting was canceled by a military coup d'état.
 
 As Islamists took up arms to overthrow the government, the FIS's leaders were arrested and it became overshadowed by Islamist guerrilla groups, particularly the Islamic Salvation Army, MIA and Armed Islamic Group (or GIA). A bloody and devastating civil war ensued in which between 150,000 and 200,000 people were killed over the next decade.
 
@@ -280,7 +280,7 @@ Another of the Egyptian groups which employed violence in their struggle for Isl
 
 Gaza (Hamas)
 
-Flag_of_Hamas.svg flag]]
+flag]]
 
 Hamas is a Palestinian Sunni Islamist organization that governs the Gaza Strip where it has moved to establish sharia law in matters such as separation of the genders, using the lash for punishment, and Islamic dress code.[237][238]* "This is particularly the case in view of the scholarly debate on the compatibility of Islam and democracy but even more so in view of Hamas's self-definition as an Islamic national liberation movement." _The Palestinian Hamas: vision, violence, and coexistence_, by Shaul Mishal & Avraham Sela, 2006, p. xxviii 1;
 
@@ -317,7 +317,7 @@ After Sudanese intelligence services were implicated in an assassination attempt
 
 Turkey
 
-Necmettin-Erbakan.jpg, was the first Islamist Prime Minister of Turkey elected in 1996, but was removed from power by a "postmodern coup d'état" in 1997.]] Turkey had a number of Islamist parties, often changing names as they were banned by the constitutional court for anti-secular activities. Necmettin Erbakan (1926–2011) was the leader of several of the parties, the National Order Party (_Milli Nizam Partisi_, 1970–1971), the National Salvation Party (_Milli Selamet Partisi_, 1972–1981), and the Welfare Party (_Refah Partisi_, 1983-1998); he also became a member of the Felicity Party (_Saadet Partisi_, 2003–2011).
+, was the first Islamist Prime Minister of Turkey elected in 1996, but was removed from power by a "postmodern coup d'état" in 1997.]] Turkey had a number of Islamist parties, often changing names as they were banned by the constitutional court for anti-secular activities. Necmettin Erbakan (1926–2011) was the leader of several of the parties, the National Order Party (_Milli Nizam Partisi_, 1970–1971), the National Salvation Party (_Milli Selamet Partisi_, 1972–1981), and the Welfare Party (_Refah Partisi_, 1983-1998); he also became a member of the Felicity Party (_Saadet Partisi_, 2003–2011).
 
 The Justice and Development Party (AKP), which has dominated Turkish politics since 2002, is sometimes described as Islamist, but rejects such classification.[258]
 
@@ -370,7 +370,7 @@ Another observer (Tarek Osman) notes with concern that
 
 Islamic State of Iraq and the Levant
 
-Territoires_de_l'Etat_islamique_juin_2015.png's territory, in grey, at the time of its greatest territorial extent in May 2015]] "The Islamic State", formerly known as the "Islamic State of Iraq and the Levant" and before that as the "Islamic State of Iraq", (also called by the Arabic acronym _Daesh_), is a Wahhabi/Salafi jihadist extremist militant group which is led by and mainly composed of Sunni Arabs from Syria and Iraq.[306] In 2014, the group proclaimed itself a caliphate, with religious, political and military authority over all Muslims worldwide.[307] , it had control over territory occupied by ten million people[308] in Syria and Iraq, and has nominal control over small areas of Libya, Nigeria, and Afghanistan.[309][310] (While a self-described state, it lacks international recognition.[311]) ISIL also operates or has affiliates in other parts of the world, including North Africa and South Asia[312][313]
+'s territory, in grey, at the time of its greatest territorial extent in May 2015]] "The Islamic State", formerly known as the "Islamic State of Iraq and the Levant" and before that as the "Islamic State of Iraq", (also called by the Arabic acronym _Daesh_), is a Wahhabi/Salafi jihadist extremist militant group which is led by and mainly composed of Sunni Arabs from Syria and Iraq.[306] In 2014, the group proclaimed itself a caliphate, with religious, political and military authority over all Muslims worldwide.[307] , it had control over territory occupied by ten million people[308] in Syria and Iraq, and has nominal control over small areas of Libya, Nigeria, and Afghanistan.[309][310] (While a self-described state, it lacks international recognition.[311]) ISIL also operates or has affiliates in other parts of the world, including North Africa and South Asia[312][313]
 
 Originating as the _Jama'at al-Tawhid wal-Jihad_ in 1999, ISIL pledged allegiance to al-Qaeda in 2004, participated in the Iraqi insurgency that followed the invasion of Iraq by Western coalition forces in 2003, joined the fight in the Syrian Civil War beginning in 2011, and was expelled from al-Qaeda in early 2014, (which complained of its failure to consult and "notorious intransigence"[314][315]). ISIL gained prominence after it drove Iraqi government forces out of key cities in western Iraq in an offensive in June that same year.[316] The group is adept at social media, posting Internet videos of beheadings of soldiers, civilians, journalists and aid workers, and is known for its destruction of cultural heritage sites.[317] The United Nations (UN) has held ISIL responsible for human rights abuses and war crimes, and Amnesty International has reported ethnic cleansing by the group on a "historic scale". The group has been designated a terrorist organisation by the UN, the European Union (EU) and member states, the United States, India, Indonesia, Turkey, Saudi Arabia, Syria and other countries.
 
@@ -383,7 +383,7 @@ Islamist movements such as the Muslim Brotherhood, "are well known for providing
 
 Dissatisfaction with the status quo
 
-The Arab world—the original heart of the Muslim world—has been afflicted with economic stagnation. For example, it has been estimated that in the mid 1990s the exports of Finland, a country of five million, exceeded those of the entire Arab world of 260 million, excluding oil revenue.[319] This economic stagnation is argued to have commenced with the demise of the Ottoman Caliphate in 1924, with trade networks being disrupted and societies torn apart with the creation of new nation states; prior to this, the Middle East had a diverse and growing economy and more general prosperity.[320] Aksi_31_Maret_1.jpg, Christian governor of Jakarta, 31 March 2017]]
+The Arab world—the original heart of the Muslim world—has been afflicted with economic stagnation. For example, it has been estimated that in the mid 1990s the exports of Finland, a country of five million, exceeded those of the entire Arab world of 260 million, excluding oil revenue.[319] This economic stagnation is argued to have commenced with the demise of the Ottoman Caliphate in 1924, with trade networks being disrupted and societies torn apart with the creation of new nation states; prior to this, the Middle East had a diverse and growing economy and more general prosperity.[320] , Christian governor of Jakarta, 31 March 2017]]
 
 Strong population growth combined with economic stagnation has created urban agglomerations in Cairo, Istanbul, Tehran, Karachi, Dhaka, and Jakarta each with well over 12 million citizens, millions of them young and unemployed or underemployed.[321] Such a demographic, alienated from the westernized ways of the urban elite, but uprooted from the comforts and more passive traditions of the villages they came from, is understandably favourably disposed to an Islamic system promising a better world[322]—an ideology providing an "emotionally familiar basis for group identity, solidarity, and exclusion; an acceptable basis for legitimacy and authority; an immediately intelligible formulation of principles for both a critique of the present and a program for the future."[323]
 
@@ -443,7 +443,7 @@ Officially through its "Ghaith" initiative but also through conspicuous donation
 
 Western patronage
 
-Reagan_sitting_with_people_from_the_Afghanistan-Pakistan_region_in_February_1983.jpg Ronald Reagan at the White House in 1983.]] During the 1970s and sometimes later, Western and pro-Western governments often supported sometimes fledgling Islamists and Islamist groups that later came to be seen as dangerous enemies.[365] Islamists were considered by Western governments bulwarks against—what were thought to be at the time—more dangerous leftist/communist/nationalist insurgents/opposition, which Islamists were correctly seen as opposing. The US spent billions of dollars to aid the mujahideen Muslim Afghanistan enemies of the Soviet Union, and non-Afghan veterans of the war returned home with their prestige, "experience, ideology, and weapons", and had considerable impact.[366]
+Ronald Reagan at the White House in 1983.]] During the 1970s and sometimes later, Western and pro-Western governments often supported sometimes fledgling Islamists and Islamist groups that later came to be seen as dangerous enemies.[365] Islamists were considered by Western governments bulwarks against—what were thought to be at the time—more dangerous leftist/communist/nationalist insurgents/opposition, which Islamists were correctly seen as opposing. The US spent billions of dollars to aid the mujahideen Muslim Afghanistan enemies of the Soviet Union, and non-Afghan veterans of the war returned home with their prestige, "experience, ideology, and weapons", and had considerable impact.[366]
 
 Although it is a strong opponent of Israel's existence, Hamas, officially created in 1987, traces back its origins to institutions and clerics supported by Israel in the 1970s and 1980s. Israel tolerated and supported Islamist movements in Gaza, with figures like Ahmed Yassin, as Israel perceived them preferable to the secular and then more powerful al-Fatah with the PLO.[367][368]
 
@@ -451,7 +451,7 @@ Egyptian President Anwar Sadatwhose policies included opening Egypt to Western i
 
 Western alienation
 
-2012_Sydney_Islamic_protests.jpg against perceived anti-Islamic film _Innocence of Muslims_ in Sydney, 15 September 2012]] Muslim alienation from Western ways, including its political ways.[372]
+against perceived anti-Islamic film _Innocence of Muslims_ in Sydney, 15 September 2012]] Muslim alienation from Western ways, including its political ways.[372]
 
 -   The memory in Muslim societies of the many centuries of "cultural and institutional success" of Islamic civilization that have created an "intense resistance to an alternative 'civilizational order'", such as Western civilization,[373]
 -   The proximity of the core of the Muslim world to Europe and Christendom where it first conquered and then was conquered. Iberia in the seventh century, the Crusades which began in the eleventh century, then for centuries the Ottoman Empire, were all fields of war between Europe and Islam.[374]

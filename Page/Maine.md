@@ -27,7 +27,7 @@ The first known record of the name appears in an August 10, 1622 land charter to
 
 History
 
-Maine_state_capitol.jpg, designed by Charles Bulfinch, built 1829–1832]] Brooklyn_Museum_-_Misty_Morning,_Coast_of_Maine_-_Arthur_Parton_-_overall.jpg]] The original inhabitants of the territory that is now Maine were Algonquian-speaking Wabanaki peoples, including the Passamaquoddy, Maliseet, Penobscot, Androscoggin and Kennebec. During the later King Philip's War, many of these peoples would merge in one form or another to become the Wabanaki Confederacy, aiding the Wampanoag of Massachusetts & the Mahican of New York. Afterwards, many of these people were driven from their natural territories, but most of the tribes of Maine continued, unchanged, until the American Revolution. Before this point, however, most of these people were considered separate nations. Many had adapted to living in permanent, Iroquois-inspired settlements, while those along the coast tended to be semi-nomadic—traveling from settlement to settlement on a yearly cycle. They would usually winter inland & head to the coasts by summer.[27][28]
+, designed by Charles Bulfinch, built 1829–1832]] ]] The original inhabitants of the territory that is now Maine were Algonquian-speaking Wabanaki peoples, including the Passamaquoddy, Maliseet, Penobscot, Androscoggin and Kennebec. During the later King Philip's War, many of these peoples would merge in one form or another to become the Wabanaki Confederacy, aiding the Wampanoag of Massachusetts & the Mahican of New York. Afterwards, many of these people were driven from their natural territories, but most of the tribes of Maine continued, unchanged, until the American Revolution. Before this point, however, most of these people were considered separate nations. Many had adapted to living in permanent, Iroquois-inspired settlements, while those along the coast tended to be semi-nomadic—traveling from settlement to settlement on a yearly cycle. They would usually winter inland & head to the coasts by summer.[27][28]
 
 European contact with what is now called Maine started around 1200 CE when Norwegians interacted with the native Penobscot in present-day Hancock County, most likely through trade. About 200 years earlier, from the settlements in Iceland and Greenland, Norwegians had first identified America and attempted to settle areas such as Newfoundland, but failed to establish a permanent settlement there. Archeological evidence suggests that Norwegians in Greenland returned to North America for several centuries after the initial discovery to collect timber and to trade, with the most relevant evidence being the Maine Penny, an 11th-century Norwegian coin found at a Native American dig site in 1954.[29]
 
@@ -37,7 +37,7 @@ The French established two Jesuit missions: one on Penobscot Bay in 1609, and th
 
 Central Maine was formerly inhabited by people of the Androscoggin tribe of the Abenaki nation, also known as Arosaguntacook. They were driven out of the area in 1690 during King William's War. They were relocated at St. Francis, Canada, which was destroyed by Rogers' Rangers in 1759, and is now Odanak. The other Abenaki tribes suffered several severe defeats, particularly during Dummer's War, with the capture of Norridgewock in 1724 and the defeat of the Pequawket in 1725, which greatly reduced their numbers. They finally withdrew to Canada, where they were settled at Bécancour and Sillery, and later at St. Francis, along with other refugee tribes from the south.[32]
 
-The province within its current boundaries became part of Massachusetts Bay Colony in 1652. Maine was much fought over by the French, English, and allied natives during the 17th and early 18th centuries, who conducted raids against each other, taking captives for ransom or, in some cases, adoption by Native American tribes. A notable example was the early 1692 Abenaki raid on York, where about 100 English settlers were killed and another estimated 80 taken hostage.[33] The Abenaki took captives taken during raids of Massachusetts in Queen Anne's War of the early 1700s to Kahnewake, a Catholic Mohawk village near Montreal, where some were adopted and others ransomed.[34][35] Maine_1798.jpg After the British defeated the French in Acadia in the 1740s, the territory from the Penobscot River east fell under the nominal authority of the Province of Nova Scotia, and together with present-day New Brunswick formed the Nova Scotia county of Sunbury, with its court of general sessions at Campobello. American and British forces contended for Maine's territory during the American Revolution and the War of 1812, with the British occupying eastern Maine in both conflicts.[36] The territory of Maine was confirmed as part of Massachusetts when the United States was formed following the Treaty of Paris ending the revolution, although the final border with British North America was not established until the Webster–Ashburton Treaty of 1842.
+The province within its current boundaries became part of Massachusetts Bay Colony in 1652. Maine was much fought over by the French, English, and allied natives during the 17th and early 18th centuries, who conducted raids against each other, taking captives for ransom or, in some cases, adoption by Native American tribes. A notable example was the early 1692 Abenaki raid on York, where about 100 English settlers were killed and another estimated 80 taken hostage.[33] The Abenaki took captives taken during raids of Massachusetts in Queen Anne's War of the early 1700s to Kahnewake, a Catholic Mohawk village near Montreal, where some were adopted and others ransomed.[34][35] After the British defeated the French in Acadia in the 1740s, the territory from the Penobscot River east fell under the nominal authority of the Province of Nova Scotia, and together with present-day New Brunswick formed the Nova Scotia county of Sunbury, with its court of general sessions at Campobello. American and British forces contended for Maine's territory during the American Revolution and the War of 1812, with the British occupying eastern Maine in both conflicts.[36] The territory of Maine was confirmed as part of Massachusetts when the United States was formed following the Treaty of Paris ending the revolution, although the final border with British North America was not established until the Webster–Ashburton Treaty of 1842.
 
 Maine was physically separate from the rest of Massachusetts. Long-standing disagreements over land speculation and settlements led to Maine residents and their allies in Massachusetts proper forcing an 1807 vote in the Massachusetts Assembly on permitting Maine to secede; the vote failed. Secessionist sentiment in Maine was stoked during the War of 1812 when Massachusetts pro-British merchants opposed the war and refused to defend Maine from British invaders. In 1819, Massachusetts agreed to permit secession, sanctioned by voters of the rapidly growing region the following year. Formal secession and formation of the state of Maine as the 23rd state occurred on March 15, 1820, as part of the Missouri Compromise, which geographically limited the spread of slavery and enabled the admission to statehood of Missouri the following year, keeping a balance between slave and free states.[37][38][39]
 
@@ -50,7 +50,7 @@ Four U.S. Navy ships have been named USS _Maine_, most famously the armored crui
 
 Geography
 
-National-atlas-maine.png To the south and east is the Atlantic Ocean and to the north and northeast is New Brunswick, a province of Canada. The Canadian province of Quebec is to the northwest. Maine is both the northernmost state in New England and also the largest, accounting for almost half of the region's entire land area. Maine is the only state to border exactly one other American state (New Hampshire).
+To the south and east is the Atlantic Ocean and to the north and northeast is New Brunswick, a province of Canada. The Canadian province of Quebec is to the northwest. Maine is both the northernmost state in New England and also the largest, accounting for almost half of the region's entire land area. Maine is the only state to border exactly one other American state (New Hampshire).
 
 Maine is the easternmost state in the United States in both its extreme points and its geographic center. The town of Lubec is the easternmost organized settlement in the United States. Its Quoddy Head Lighthouse is also the closest place in the United States to Africa and Europe. Estcourt Station is Maine's northernmost point, as well as the northernmost point in New England. (For more information see extreme points of the United States.)
 
@@ -62,7 +62,7 @@ Maine is the least densely populated U.S. state east of the Mississippi River. I
 
 Maine is in the temperate broadleaf and mixed forests biome. The land near the southern and central Atlantic coast is covered by the mixed oaks of the Northeastern coastal forests. The remainder of the state, including the North Woods, is covered by the New England-Acadian forests.[41]
 
-Maine has almost of coastline (and of tidal coastline).[42][43] West Quoddy Head, in Lubec, Maine, is the easternmost point of land in the 48 contiguous states. Along the famous rock-bound coast of Maine are lighthouses, beaches, fishing villages, and thousands of offshore islands, including the Isles of Shoals which straddle the New Hampshire border. There are jagged rocks and cliffs and many bays and inlets. Inland are lakes, rivers, forests, and mountains. This visual contrast of forested slopes sweeping down to the sea has been summed up by American poet Edna St. Vincent Millay of Rockland and Camden, Maine, in "Renascence": A_beach_in_maine_on_a_clear_day.jpg]] Boothbay_Harbor,_summer_morning_at_low_tide.jpg]]
+Maine has almost of coastline (and of tidal coastline).[42][43] West Quoddy Head, in Lubec, Maine, is the easternmost point of land in the 48 contiguous states. Along the famous rock-bound coast of Maine are lighthouses, beaches, fishing villages, and thousands of offshore islands, including the Isles of Shoals which straddle the New Hampshire border. There are jagged rocks and cliffs and many bays and inlets. Inland are lakes, rivers, forests, and mountains. This visual contrast of forested slopes sweeping down to the sea has been summed up by American poet Edna St. Vincent Millay of Rockland and Camden, Maine, in "Renascence": ]] ]]
 
     All I could see from where I stood
     Was three long mountains and a wood;
@@ -88,7 +88,7 @@ Acadia National Park is the only national park in New England. Areas under the p
 
 Climate
 
-Stratton_Flagstaff_Lake_Maine_262258633.jpg in Stratton]] Maine_Köppen.svg Bangor_Maine.JPG in Bangor]]
+in Stratton]] in Bangor]]
 
 Maine has a humid continental climate (Köppen climate classification _Dfb_), with warm (although generally not hot), humid summers. Winters are cold and very snowy throughout the state, and are especially severe in the Northern and Western parts of Maine. Coastal areas are moderated slightly by the Atlantic Ocean, resulting in slightly milder winters and cooler summers in immediate coastal areas. Daytime highs are generally in the range throughout the state in July, with overnight lows in the high 50s °F (around 15 °C). January temperatures range from highs near on the southern coast to overnight lows averaging below in the far north.[46]
 
@@ -112,8 +112,6 @@ Annual precipitation varies from in Presque Isle, to in Acadia National Park.[50
 Demographics
 
 Population
-
-Maine_population_map.png
 
 The United States Census Bureau estimates that the population of Maine was 1,338,404 on July 1, 2018, a 0.76% increase since the 2010 United States Census.[52] The population density of the state is 41.3 people per square mile, making it the least densely populated state in New England, the American northeast, the eastern seaboard, of all of the states with an Atlantic coastline and of all of the states east of the Mississippi River.
 
@@ -185,11 +183,11 @@ In 2010, a study named Maine as the least religious state in the United States.[
 
 Economy
 
-TotallyFreeImages_com-280902-Standard-preview.jpg view "Lobster pots ready for placing" ~ 1928]] Biw_aerial.jpg naval shipbuilding]]
+view "Lobster pots ready for placing" ~ 1928]] naval shipbuilding]]
 
 The Bureau of Economic Analysis estimates that Maine's total gross state product for 2010 was $52 billion.[79] Its per capita personal income for 2007 was US$33,991, 34th in the nation. , Maine's unemployment rate is 3.0%[80]
 
-Old_Port_area_of_Portland,_ME.jpg]] Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Aroostook County is known for its potato crops. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. While lobster is the main seafood focus for Maine, the harvest of both oysters and seaweed are on the rise. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. The shrimp industry of Maine is on a government-mandated hold. With an ever-decreasing Northern shrimp population, Maine fishermen are no longer allowed to catch and sell shrimp. The hold began in 2014 and is expected to continue until 2021.[81] Western Maine aquifers and springs are a major source of bottled water.
+]] Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Aroostook County is known for its potato crops. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. While lobster is the main seafood focus for Maine, the harvest of both oysters and seaweed are on the rise. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. The shrimp industry of Maine is on a government-mandated hold. With an ever-decreasing Northern shrimp population, Maine fishermen are no longer allowed to catch and sell shrimp. The hold began in 2014 and is expected to continue until 2021.[81] Western Maine aquifers and springs are a major source of bottled water.
 
 Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Naval shipbuilding and construction remain key as well, with Bath Iron Works in Bath and Portsmouth Naval Shipyard in Kittery.
 
@@ -216,19 +214,19 @@ Transportation
 
 Airports
 
-KPWM_Aerial_Wiki.jpg]] Maine receives passenger jet service at its two largest airports, the Portland International Jetport in Portland, and the Bangor International Airport in Bangor. Both are served daily by many major airlines to destinations such as New York, Atlanta, and Orlando. Essential Air Service also subsidizes service to a number of smaller airports in Maine, bringing small turboprop aircraft to regional airports such as the Augusta State Airport, Hancock County-Bar Harbor Airport, Knox County Regional Airport, and the Northern Maine Regional Airport at Presque Isle. These airports are served by regional providers such as Cape Air with Cessna 402s, PenAir with Saab 340s, and CommutAir with Embraer ERJ 145 aircraft.
+]] Maine receives passenger jet service at its two largest airports, the Portland International Jetport in Portland, and the Bangor International Airport in Bangor. Both are served daily by many major airlines to destinations such as New York, Atlanta, and Orlando. Essential Air Service also subsidizes service to a number of smaller airports in Maine, bringing small turboprop aircraft to regional airports such as the Augusta State Airport, Hancock County-Bar Harbor Airport, Knox County Regional Airport, and the Northern Maine Regional Airport at Presque Isle. These airports are served by regional providers such as Cape Air with Cessna 402s, PenAir with Saab 340s, and CommutAir with Embraer ERJ 145 aircraft.
 
 Many smaller airports are scattered throughout Maine, only serving general aviation traffic. The Eastport Municipal Airport, for example, is a city-owned public-use airport with 1,200 general aviation aircraft operations each year from single-engine and ultralight aircraft.[89]
 
 Highways
 
-Penobscot_Narrows_Bridge_and_Observatory.jpg, carrying U.S. Route 1 and Maine State Route 3 over the Penobscot River]] Interstate 95 (I-95) travels through Maine, as well as its easterly branch I-295 and spurs I-195, I-395 and the unsigned I-495 (the Falmouth Spur). In addition, U.S. Route 1 (US 1) starts in Fort Kent and travels to Florida. The eastern terminus of the eastern section of US 2 starts in Houlton, near the New Brunswick, Canada border to Rouses Point, New York, at US 11. US 2A connects Old Town and Orono, primarily serving the University of Maine campus. US 201 and US 202 flow through the state. US 2, Maine State Route 6 (SR 6), and SR 9 are often used by truckers and other motorists of the Maritime Provinces _en route_ to other destinations in the United States or as a short cut to Central Canada.
+, carrying U.S. Route 1 and Maine State Route 3 over the Penobscot River]] Interstate 95 (I-95) travels through Maine, as well as its easterly branch I-295 and spurs I-195, I-395 and the unsigned I-495 (the Falmouth Spur). In addition, U.S. Route 1 (US 1) starts in Fort Kent and travels to Florida. The eastern terminus of the eastern section of US 2 starts in Houlton, near the New Brunswick, Canada border to Rouses Point, New York, at US 11. US 2A connects Old Town and Orono, primarily serving the University of Maine campus. US 201 and US 202 flow through the state. US 2, Maine State Route 6 (SR 6), and SR 9 are often used by truckers and other motorists of the Maritime Provinces _en route_ to other destinations in the United States or as a short cut to Central Canada.
 
 Rail
 
 Passenger
 
-Amtrak_downeaster_ocean_park_2005.jpg'' passenger train at Ocean Park, Maine, as viewed from the cab of a northbound train]] The _Downeaster_ passenger train, operated by Amtrak, provides passenger service between Brunswick and Boston's North Station, with stops in Freeport, Portland, Old Orchard Beach, Saco, and Wells. The _Downeaster_ makes five daily trips, three of which continue past Portland to Brunswick.[90]
+'' passenger train at Ocean Park, Maine, as viewed from the cab of a northbound train]] The _Downeaster_ passenger train, operated by Amtrak, provides passenger service between Brunswick and Boston's North Station, with stops in Freeport, Portland, Old Orchard Beach, Saco, and Wells. The _Downeaster_ makes five daily trips, three of which continue past Portland to Brunswick.[90]
 
 Freight
 
@@ -386,7 +384,7 @@ On May 6, 2009, Maine became the fifth state to legalize same-sex marriage; howe
 
 Federal politics
 
-In the 1930s, Maine was one of very few states which retained Republican sentiments. In the 1936 presidential election, Franklin D. Roosevelt received the electoral votes of every state other than Maine and Vermont; these were the only two states in the nation that never voted for Roosevelt in any of his presidential campaigns, though Maine was closely fought in 1940 and 1944. In the 1960s, Maine began to lean toward the Democrats, especially in presidential elections. In 1968, Hubert Humphrey became just the second Democrat in half a century to carry Maine, perhaps because of the presence of his running mate, Maine Senator Edmund Muskie, although the state voted Republican in every presidential election in the 1970s and 1980s. United_States_presidential_election_in_Maine,_2016.svg of the popular vote by county, 2016 presidential election]]
+In the 1930s, Maine was one of very few states which retained Republican sentiments. In the 1936 presidential election, Franklin D. Roosevelt received the electoral votes of every state other than Maine and Vermont; these were the only two states in the nation that never voted for Roosevelt in any of his presidential campaigns, though Maine was closely fought in 1940 and 1944. In the 1960s, Maine began to lean toward the Democrats, especially in presidential elections. In 1968, Hubert Humphrey became just the second Democrat in half a century to carry Maine, perhaps because of the presence of his running mate, Maine Senator Edmund Muskie, although the state voted Republican in every presidential election in the 1970s and 1980s. of the popular vote by county, 2016 presidential election]]
 
 Since 1969, two of Maine's four electoral votes have been awarded based on the winner of the statewide election; the other two go to the highest vote-getter in each of the state's two congressional districts. Every other state except Nebraska gives all its electoral votes to the candidate who wins the popular vote in the state at large, without regard to performance within districts. Maine split its electoral vote for the first time in 2016, with Donald Trump's strong showing in the more rural central and northern Maine allowing him to capture one of the state's four votes in the Electoral College.[95]
 
@@ -472,8 +470,6 @@ Private schools in Maine are funded independently of the state and its furthered
 
 Culture
 
-Hockey_East_ERI_3775_(5383521678).jpg
-
 Sports teams
 
 Professional
@@ -491,11 +487,11 @@ NCAA
 
 -   Maine Black Bears
 
-Moose_exhibit,_Maine_State_Museum_in_Augusta_IMG_2004.JPG, the state mammal, as displayed at the Maine State Museum in Augusta]]
+, the state mammal, as displayed at the Maine State Museum in Augusta]]
 
 State symbols
 
-Adapted from the Maine facts site.[107] Maine_quarter,_reverse_side,_2003.jpg]]
+Adapted from the Maine facts site.[107] ]]
 
 -   State berry: Wild blueberry[108]
 -   State bird: Black-capped chickadee

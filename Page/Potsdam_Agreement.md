@@ -1,5 +1,3 @@
-Potsdam_big_three.jpg
-
 The POTSDAM AGREEMENT () was the August 1945 agreement between three of the Allies of World War II, the United Kingdom, the United States, and the Soviet Union. It concerned the military occupation and reconstruction of Germany, its borders, and the entire European Theatre of War territory. It also addressed Germany's demilitarisation, reparations and the prosecution of war criminals.
 
 Executed as a communiqué, the agreement was not a peace treaty according to international law, although it created accomplished facts. It was superseded by the Treaty on the Final Settlement with Respect to Germany signed on 12 September 1990.

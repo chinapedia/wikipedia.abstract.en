@@ -1,4 +1,4 @@
-Euclid.jpg (holding calipers), Greek mathematician, 3rd century BC, as imagined by Raphael in this detail from _The School of Athens_.]]
+(holding calipers), Greek mathematician, 3rd century BC, as imagined by Raphael in this detail from _The School of Athens_.]]
 
 MATHEMATICS (from Greek μάθημα _máthēma_, "knowledge, study, learning") includes the study of such topics as quantity (number theory),[1] structure (algebra),[2] space (geometry),[3] and change (mathematical analysis).[4][5][6] It has no generally accepted definition.[7][8]
 
@@ -11,7 +11,7 @@ Mathematics is essential in many fields, including natural science, engineering,
 
 History
 
-Plimpton_322.jpg Archimedes_pi.svg to approximate the value of pi.]] Bakhshali_numerals_2.jpg, dated between the 2nd century BCE and the 2nd century CE.]] The history of mathematics can be seen as an ever-increasing series of abstractions. The first abstraction, which is shared by many animals,[14] was probably that of numbers: the realization that a collection of two apples and a collection of two oranges (for example) have something in common, namely quantity of their members.
+to approximate the value of pi.]] , dated between the 2nd century BCE and the 2nd century CE.]] The history of mathematics can be seen as an ever-increasing series of abstractions. The first abstraction, which is shared by many animals,[14] was probably that of numbers: the realization that a collection of two apples and a collection of two oranges (for example) have something in common, namely quantity of their members.
 
 As evidenced by tallies found on bone, in addition to recognizing how to count physical objects, prehistoric peoples may have also recognized how to count abstract quantities, like time – days, seasons, years.[15]
 
@@ -21,7 +21,7 @@ Beginning in the 6th century BC with the Pythagoreans, the Ancient Greeks began 
 
 The Hindu–Arabic numeral system and the rules for the use of its operations, in use throughout the world today, evolved over the course of the first millennium AD in India and were transmitted to the Western world via Islamic mathematics. Other notable developments of Indian mathematics include the modern definition of sine and cosine, and an early form of infinite series.
 
-Image-Al-Kitāb_al-muḫtaṣar_fī_ḥisāb_al-ğabr_wa-l-muqābala.jpg During the Golden Age of Islam, especially during the 9th and 10th centuries, mathematics saw many important innovations building on Greek mathematics. The most notable achievement of Islamic mathematics was the development of algebra. Other notable achievements of the Islamic period are advances in spherical trigonometry and the addition of the decimal point to the Arabic numeral system. Many notable mathematicians from this period were Persian, such as Al-Khwarismi, Omar Khayyam and Sharaf al-Dīn al-Ṭūsī.
+During the Golden Age of Islam, especially during the 9th and 10th centuries, mathematics saw many important innovations building on Greek mathematics. The most notable achievement of Islamic mathematics was the development of algebra. Other notable achievements of the Islamic period are advances in spherical trigonometry and the addition of the decimal point to the Arabic numeral system. Many notable mathematicians from this period were Persian, such as Al-Khwarismi, Omar Khayyam and Sharaf al-Dīn al-Ṭūsī.
 
 During the early modern period, mathematics began to develop at an accelerating pace in Western Europe. The development of calculus by Newton and Leibniz in the 17th century revolutionized mathematics. Leonhard Euler was the most notable mathematician of the 18th century, contributing numerous theorems and discoveries. Perhaps the foremost mathematician of the 19th century was the German mathematician Carl Friedrich Gauss, who made numerous contributions to fields such as algebra, analysis, differential geometry, matrix theory, number theory, and statistics. In the early 20th century, Kurt Gödel transformed mathematics by publishing his incompleteness theorems, which show that any axiomatic system that is consistent will contain unprovable propositions.
 
@@ -40,7 +40,7 @@ The apparent plural form in English, like the French plural form (and the less c
 
 Definitions of mathematics
 
-Fibonacci.jpg, the Italian mathematician who introduced the Hindu–Arabic numeral system invented between the 1st and 4th centuries by Indian mathematicians, to the Western World]] Mathematics has no generally accepted definition.[23][24] Aristotle defined mathematics as "the science of quantity" and this definition prevailed until the 18th century.[25] In the 19th century, when the study of mathematics increased in rigor and began to address abstract topics such as group theory and projective geometry, which have no clear-cut relation to quantity and measurement, mathematicians and philosophers began to propose a variety of new definitions.[26] Three leading types of definition of mathematics today are called logicist, intuitionist, and formalist, each reflecting a different philosophical school of thought.[27] All have severe problems, none has widespread acceptance, and no reconciliation seems possible.[28]
+, the Italian mathematician who introduced the Hindu–Arabic numeral system invented between the 1st and 4th centuries by Indian mathematicians, to the Western World]] Mathematics has no generally accepted definition.[23][24] Aristotle defined mathematics as "the science of quantity" and this definition prevailed until the 18th century.[25] In the 19th century, when the study of mathematics increased in rigor and began to address abstract topics such as group theory and projective geometry, which have no clear-cut relation to quantity and measurement, mathematicians and philosophers began to propose a variety of new definitions.[26] Three leading types of definition of mathematics today are called logicist, intuitionist, and formalist, each reflecting a different philosophical school of thought.[27] All have severe problems, none has widespread acceptance, and no reconciliation seems possible.[28]
 
 An early definition of mathematics in terms of logic was Benjamin Peirce's "the science that draws necessary conclusions" (1870).[29] In the _Principia Mathematica_, Bertrand Russell and Alfred North Whitehead advanced the philosophical program known as logicism, and attempted to prove that all mathematical concepts, statements, and principles can be defined and proved entirely in terms of symbolic logic. A logicist definition of mathematics is Russell's "All Mathematics is Symbolic Logic" (1903).[30]
 
@@ -52,7 +52,7 @@ A great many professional mathematicians take no interest in a definition of mat
 
 Mathematics as science
 
-Carl_Friedrich_Gauss.jpg, known as the prince of mathematicians]] The German mathematician Carl Friedrich Gauss referred to mathematics as "the Queen of the Sciences".[36] More recently, Marcus du Sautoy has called mathematics "the Queen of Science ... the main driving force behind scientific discovery".[37] In the original Latin _Regina Scientiarum_, as well as in German _Königin der Wissenschaften_, the word corresponding to _science_ means a "field of knowledge", and this was the original meaning of "science" in English, also; mathematics is in this sense a field of knowledge. The specialization restricting the meaning of "science" to _natural science_ follows the rise of Baconian science, which contrasted "natural science" to scholasticism, the Aristotelean method of inquiring from first principles. The role of empirical experimentation and observation is negligible in mathematics, compared to natural sciences such as biology, chemistry, or physics. Albert Einstein stated that "as far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."[38]
+, known as the prince of mathematicians]] The German mathematician Carl Friedrich Gauss referred to mathematics as "the Queen of the Sciences".[36] More recently, Marcus du Sautoy has called mathematics "the Queen of Science ... the main driving force behind scientific discovery".[37] In the original Latin _Regina Scientiarum_, as well as in German _Königin der Wissenschaften_, the word corresponding to _science_ means a "field of knowledge", and this was the original meaning of "science" in English, also; mathematics is in this sense a field of knowledge. The specialization restricting the meaning of "science" to _natural science_ follows the rise of Baconian science, which contrasted "natural science" to scholasticism, the Aristotelean method of inquiring from first principles. The role of empirical experimentation and observation is negligible in mathematics, compared to natural sciences such as biology, chemistry, or physics. Albert Einstein stated that "as far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."[38]
 
 Some modern philosophers consider that mathematics is not a science, and refer to Karl Popper for that.[39] However, Karl Popper himself concluded that "most mathematical theories are, like those of physics and biology, hypothetico-deductive: pure mathematics therefore turns out to be much closer to the natural sciences whose hypotheses are conjectures, than it seemed even recently."[40]
 
@@ -74,7 +74,7 @@ The popularity of recreational mathematics is another sign of the pleasure many 
 
 Notation, language, and rigor
 
-Leonhard_Euler_2.jpg created and popularized much of the mathematical notation used today.]]
+created and popularized much of the mathematical notation used today.]]
 
 Most of the mathematical notation in use today was not invented until the 16th century.[47] Before that, mathematics was written out in words, limiting mathematical discovery.[48] Euler (1707–1783) was responsible for many of the notations in use today. Modern notation makes mathematics much easier for the professional, but beginners often find it daunting. According to Barbara Oakley, this can be attributed to the fact that mathematical ideas are both more _abstract_ and more _encrypted_ than those of natural language.[49] Unlike natural language, where people can often equate a word (such as _cow_) with the physical object it corresponds to, mathematical symbols are abstract, lacking any physical analog.[50] Mathematical symbols are also more highly encrypted than regular words, meaning a single symbol can encode a number of different operations or ideas.[51]
 
@@ -87,7 +87,7 @@ Axioms in traditional thought were "self-evident truths", but that conception is
 
 Fields of mathematics
 
-Abacus_6.png is a simple calculating tool used since ancient times.]] Mathematics can, broadly speaking, be subdivided into the study of quantity, structure, space, and change (i.e. arithmetic, algebra, geometry, and analysis). In addition to these main concerns, there are also subdivisions dedicated to exploring links from the heart of mathematics to other fields: to logic, to set theory (foundations), to the empirical mathematics of the various sciences (applied mathematics), and more recently to the rigorous study of uncertainty. While some areas might seem unrelated, the Langlands program has found connections between areas previously thought unconnected, such as Galois groups, Riemann surfaces and number theory.
+is a simple calculating tool used since ancient times.]] Mathematics can, broadly speaking, be subdivided into the study of quantity, structure, space, and change (i.e. arithmetic, algebra, geometry, and analysis). In addition to these main concerns, there are also subdivisions dedicated to exploring links from the heart of mathematics to other fields: to logic, to set theory (foundations), to the empirical mathematics of the various sciences (applied mathematics), and more recently to the rigorous study of uncertainty. While some areas might seem unrelated, the Langlands program has found connections between areas previously thought unconnected, such as Galois groups, Riemann surfaces and number theory.
 
 Foundations and philosophy
 
@@ -105,7 +105,7 @@ By its great generality, abstract algebra can often be applied to seemingly unre
 
     {|style="border:1px solid #ddd; text-align:center; margin:auto" cellspacing="15"
 
-|$\begin{matrix} (1,2,3) & (1,3,2) \\ (2,1,3) & (2,3,1) \\ (3,1,2) & (3,2,1) \end{matrix}$ || Elliptic_curve_simple.svg || Rubik's_cube.svg || Group_diagdram_D6.svg || Lattice_of_the_divisibility_of_60.svg || Braid-modular-group-cover.svg |- || Number theory || Algebra || Group theory || Combinatorics || Graph theory || Order theory |}
+|$\begin{matrix} (1,2,3) & (1,3,2) \\ (2,1,3) & (2,3,1) \\ (3,1,2) & (3,2,1) \end{matrix}$ || || || || || |- || Number theory || Algebra || Group theory || Combinatorics || Graph theory || Order theory |}
 
 Space
 
@@ -113,16 +113,16 @@ The study of space originates with geometry – in particular, Euclidean geomet
 
     {|style="border:1px solid #ddd; text-align:center; margin:auto" cellspacing="15"
 
-|Illustration_to_Euclid's_proof_of_the_Pythagorean_theorem.svg || Sinusvåg_400px.png || Hyperbolic_triangle.svg || Torus.svg || Mandel_zoom_07_satellite.jpg || Measure_illustration_(Vector).svg |- |Geometry || Trigonometry || Differential geometry || Topology || Fractal geometry || Measure theory |}
+| || || || || || |- |Geometry || Trigonometry || Differential geometry || Topology || Fractal geometry || Measure theory |}
 
 Change
 
 Understanding and describing change is a common theme in the natural sciences, and calculus was developed as a tool to investigate it. Functions arise here, as a central concept describing a changing quantity. The rigorous study of real numbers and functions of a real variable is known as real analysis, with complex analysis the equivalent field for the complex numbers. Functional analysis focuses attention on (typically infinite-dimensional) spaces of functions. One of many applications of functional analysis is quantum mechanics. Many problems lead naturally to relationships between a quantity and its rate of change, and these are studied as differential equations. Many phenomena in nature can be described by dynamical systems; chaos theory makes precise the ways in which many of these systems exhibit unpredictable yet still deterministic behavior.
 
-  ------------------------------------ ------------------ --------------------------- ------------------ ---------------------- ------------------------------------------------
-  Integral_as_region_under_curve.svg   Vector_field.svg   Navier_Stokes_Laminar.svg   Limitcycle.svg     Lorenz_attractor.svg   Conformal_grid_after_Möbius_transformation.svg
-  Calculus                             Vector calculus    Differential equations      Complex analysis   Dynamical systems      Chaos theory
-  ------------------------------------ ------------------ --------------------------- ------------------ ---------------------- ------------------------------------------------
+  ---------- ----------------- ------------------------ ------------------ ------------------- --------------
+
+  Calculus   Vector calculus   Differential equations   Complex analysis   Dynamical systems   Chaos theory
+  ---------- ----------------- ------------------------ ------------------ ------------------- --------------
 
 Applied mathematics
 
@@ -140,12 +140,12 @@ Computational mathematics
 
 Computational mathematics proposes and studies methods for solving mathematical problems that are typically too large for human numerical capacity. Numerical analysis studies methods for problems in analysis using functional analysis and approximation theory; numerical analysis includes the study of approximation and discretization broadly with special concern for rounding errors. Numerical analysis and, more broadly, scientific computing also study non-analytic topics of mathematical science, especially algorithmic matrix and graph theory. Other areas of computational mathematics include computer algebra and symbolic computation.
 
-  -------------------------------------------------- ------------------------------------ --------------------------------------------------- ---------------------------------- --------------------------------- ----------------------------------- --------------
-  Arbitrary-gametree-solved.svg                      BernoullisLawDerivationDiagram.svg   Composite_trapezoidal_rule_illustration_small.svg   Maximum_boxed.png                  Two_red_dice_01.svg               Oldfaithful3.png                    Caesar3.svg
-  Game theory                                        Fluid dynamics                       Numerical analysis                                  Optimization                       Probability theory                Statistics                          Cryptography
-  Market_Data_Index_NYA_on_20050726_202628_UTC.png   Gravitation_space_source.svg         CH4-structure.svg                                   Signal_transduction_pathways.svg   GDP_PPP_Per_Capita_IMF_2008.svg   Simple_feedback_control_loop2.svg
-  Mathematical finance                               Mathematical physics                 Mathematical chemistry                              Mathematical biology               Mathematical economics            Control theory
-  -------------------------------------------------- ------------------------------------ --------------------------------------------------- ---------------------------------- --------------------------------- ----------------------------------- --------------
+  ---------------------- ---------------------- ------------------------ ---------------------- ------------------------ ---------------- --------------
+
+  Game theory            Fluid dynamics         Numerical analysis       Optimization           Probability theory       Statistics       Cryptography
+
+  Mathematical finance   Mathematical physics   Mathematical chemistry   Mathematical biology   Mathematical economics   Control theory
+  ---------------------- ---------------------- ------------------------ ---------------------- ------------------------ ---------------- --------------
 
 
 Mathematical awards

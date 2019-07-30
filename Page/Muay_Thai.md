@@ -5,8 +5,6 @@ It is similar to related styles in other parts of the Indian cultural sphere, na
 
 History
 
-Muay_Thai_boxer.jpg
-
 The history of Muay Thai can also be traced to the middle of the 18th century. During the battles between the Burmese of the Konbaung Dynasty and Siam, the famous fighter Nai Khanomtom was captured in the year 1767. The Burmese knew of his expertise in hand-to-hand combat and gave him an opportunity to fight for his freedom. Nai Khanomtom managed to knock out ten consecutive Burmese contenders. Impressed by his boxing skill, he was freed by his captors and allowed to return to Siam. He was acknowledged as a hero, and his fighting style became known as Siamese-Style boxing, later to be known as Muay Thai. This fighting style was soon to be recognized as a national sport.[7]
 
 Muay boran, and therefore Muay Thai, was originally called by more generic names such as _Toi muay_ or simply _muay_. As well as being a practical fighting technique for use in actual warfare, muay became a sport in which the opponents fought in front of spectators who went to watch for entertainment. These muay contests gradually became an integral part of local festivals and celebrations, especially those held at temples. Eventually, the previously bare-fisted fighters started wearing lengths of hemp rope around their hands and forearms. This type of match was called muay khat chueak (มวยคาดเชือก). Kickboxing was also a component of military training and gained prominence during the reign of King Naresuan in 1560 CE.
@@ -15,7 +13,7 @@ Muay Thai is referred to as the "Art of Eight Limbs" or the "Science of Eight Li
 
 19th century
 
-Muay_Thai_Boxing.jpg The ascension of King Chulalongkorn (Rama V) to the throne in 1868 ushered in a golden age not only for muay but for the whole country of Thailand. Muay progressed greatly during the reign of Rama V as a direct result of the king's personal interest in the sport. The country was at peace and muay functioned as a means of physical exercise, self-defense, attacking, recreation, and personal advancement.
+The ascension of King Chulalongkorn (Rama V) to the throne in 1868 ushered in a golden age not only for muay but for the whole country of Thailand. Muay progressed greatly during the reign of Rama V as a direct result of the king's personal interest in the sport. The country was at peace and muay functioned as a means of physical exercise, self-defense, attacking, recreation, and personal advancement.
 
 Modernization
 
@@ -62,7 +60,7 @@ Today, some have wrongly attributed the legend of Nai Khanomtom to King Naresuan
 
 Techniques
 
-Muay_Thai_match_in_Bangkok,_Thailand.jpg Formal Muay Thai techniques are divided into two groups: _mae mai_, or major techniques, and _luk mai_, or minor techniques. Muay Thai is often a fighting art of attrition, where opponents exchange blows with one another. This is certainly the case with traditional stylists in Thailand, but is a less popular form of fighting in the contemporary world fighting circuit where the Thai style of exchanging blow for blow is no longer favorable. Almost all techniques in Muay Thai use the entire body movement, rotating the hip with each kick, punch, elbow and block.
+Formal Muay Thai techniques are divided into two groups: _mae mai_, or major techniques, and _luk mai_, or minor techniques. Muay Thai is often a fighting art of attrition, where opponents exchange blows with one another. This is certainly the case with traditional stylists in Thailand, but is a less popular form of fighting in the contemporary world fighting circuit where the Thai style of exchanging blow for blow is no longer favorable. Almost all techniques in Muay Thai use the entire body movement, rotating the hip with each kick, punch, elbow and block.
 
 Punching (_Chok_)
 
@@ -117,8 +115,6 @@ There is a distinct difference between a single elbow and a follow-up elbow. The
 Elbows can be used to great effect as blocks or defenses against, for example, spring knees, side body knees, body kicks or punches. When well connected, an elbow strike can cause serious damage to the opponent, including cuts or even a knockout.
 
 Kicking (_Te_)
-
-Womens_Muay_Thai.jpg
 
 +---------------------------+-----------------------+----------------------------------+-----+
 | English                   | Thai                  | Romanization                     | IPA |
@@ -221,11 +217,7 @@ Defensively, the concept of "wall of defense" is used, in which shoulders, arms 
 
 Conditioning
 
-Punching_bag.jpg
-
 Like most full contact fighting sports, Muay Thai has a heavy focus on body conditioning.[16] Muay Thai is specifically designed to promote the level of fitness and toughness required for ring competition. Training regimens include many staples of combat sport conditioning such as running, shadowboxing, rope jumping, body weight resistance exercises, medicine ball exercises, abdominal exercises, and in some cases weight training. Thai boxers rely heavily on kicks utilizing the shin bone. As such, practitioners of Muay Thai will repeatedly hit a dense heavy bag with their shins, conditioning it, hardening the bone through a process called cortical remodeling.[17] Striking a sand-filled bag will have the same effect.
-
-Muay_Thai_Championship_Boxing_-_Anthony_Cordero.jpg
 
 Training specific to a Thai fighter includes training with coaches on Thai pads, focus mitts, heavy bag, and sparring. Daily training includes many rounds (3–5 minute periods broken up by a short rest, often 1–2 minutes) of these various methods of practice. Thai pad training is a cornerstone of Muay Thai conditioning that involves practicing punches, kicks, knees, and elbow strikes with a trainer wearing thick pads covering the forearms and hands. These special pads (often referred to as Thai pads) are used to absorb the impact of the fighter's strikes and allow the fighter to react to the attacks of the pad holder in a live situation. The trainer will often also wear a belly pad around the abdominal area so that the fighter can attack with straight kicks or knees to the body at any time during the round.
 

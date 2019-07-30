@@ -8,8 +8,6 @@ Joseph Marie Amiot was born at Toulon. He entered the Society of Jesus in 1737 a
 
 Works
 
-ChineseartAmiot.jpg
-
 Amiot made good use of the advantages which his situation afforded, and his works did more than any before to make known to the Western world the thought and life of the Far East. His Manchu dictionary _Dictionnaire tartare-mantchou-français_ (Paris, 1789) was a work of great value, the language having been previously quite unknown in Europe. In 1772 he translated _The Art of War_, one of the most influential war strategy and tactics treatises in military history, written around the 6th century BCE and attributed to General Sun Tzu, into French. The first successful translation to English would not be achieved before another 138 years, in 1910. His other writings are to be found chiefly in the _Mémoires concernant l'histoire, les sciences et les arts des Chinois_ (15 volumes, Paris, 1776–1791). The _Vie de Confucius_, the twelfth volume of that collection, was more complete and accurate than any predecessors.
 
 Amiot tried to impress mandarins in Beijing with Rameau's harpsichord piece _Les sauvages_,[3] a suite that was later reworked as part of Rameau's opera-ballet _Les Indes galantes_. Amiot was the first European to comment on the Chinese yo-yo.[4] Amiot was the first European to ship free-reeded instruments from the orient to Europe. The introduction of the sheng was to set off an era of experimentation in free-reeded instruments that would ultimately lead to the invention of the harmonica.[5]

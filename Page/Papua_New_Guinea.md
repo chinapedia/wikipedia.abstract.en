@@ -11,7 +11,7 @@ Most of the people still live in strong traditional social groups based on farmi
 
 History
 
-Picturesque_New_Guinea_Plate_XXXIII_-_Kerepunu_Women_at_the_Market_Place_of_Kalo.jpg Female_gable_image,_Sawos_people,_Papua_New_Guinea,_Bishop_Museum,_1989.400.358.JPG.]] Reading_the_proclamation_of_annexation,_Mr_Lawe's_house,_Port_Moresby,_New_Guinea,_November_1884_-_photographer_John_Paine_or_Augustine_E._Dyer_(5708761723).jpg annexation of southeast New Guinea in 1884]]
+.]] annexation of southeast New Guinea in 1884]]
 
 Archaeological evidence indicates that humans first arrived in Papua New Guinea around 42,000 to 45,000 years ago. They were descendants of migrants out of Africa, in one of the early waves of human migration.[16]
 
@@ -23,15 +23,15 @@ Although by the late 20th century headhunting and cannibalism had been practical
 
 Little was known in Europe about the island until the 19th century, although Portuguese and Spanish explorers, such as Dom Jorge de Menezes and Yñigo Ortiz de Retez, had encountered it as early as the 16th century. Traders from Southeast Asia had visited New Guinea beginning 5,000 years ago to collect bird-of-paradise plumes.[23]
 
-The country's dual name results from its complex administrative history before independence. The word _papua_ is derived from an old local term of uncertain origin.[24] "New Guinea" (_Nueva Guinea_) was the name coined by the Spanish explorer Yñigo Ortiz de Retez. In 1545, he noted the resemblance of the people to those he had earlier seen along the Guinea coast of Africa. Guinea, in its turn, is etymologically derived from the Portuguese word _Guiné_. The name is one of several toponyms sharing similar etymologies, ultimately meaning "land of the blacks" or similar meanings, in reference to the dark skin of the inhabitants. New_Guinea_(1884-1919).png and Britain controlled the eastern half of New Guinea.]] In the nineteenth century, Germany ruled the northern half of the country for some decades, beginning in 1884, as a colony named German New Guinea. In 1914 after the outbreak of World War I, Australian forces landed and captured German New Guinea in a small military campaign and occupied it throughout the war. After the war, in which Germany and the Central Powers were defeated, the League of Nations authorised Australia to administer this area as a League of Nations mandate territory.
+The country's dual name results from its complex administrative history before independence. The word _papua_ is derived from an old local term of uncertain origin.[24] "New Guinea" (_Nueva Guinea_) was the name coined by the Spanish explorer Yñigo Ortiz de Retez. In 1545, he noted the resemblance of the people to those he had earlier seen along the Guinea coast of Africa. Guinea, in its turn, is etymologically derived from the Portuguese word _Guiné_. The name is one of several toponyms sharing similar etymologies, ultimately meaning "land of the blacks" or similar meanings, in reference to the dark skin of the inhabitants. and Britain controlled the eastern half of New Guinea.]] In the nineteenth century, Germany ruled the northern half of the country for some decades, beginning in 1884, as a colony named German New Guinea. In 1914 after the outbreak of World War I, Australian forces landed and captured German New Guinea in a small military campaign and occupied it throughout the war. After the war, in which Germany and the Central Powers were defeated, the League of Nations authorised Australia to administer this area as a League of Nations mandate territory.
 
 The southern half of the country had been colonised in 1884 by the United Kingdom as British New Guinea. With the Papua Act 1905, the UK transferred this territory to the newly formed Commonwealth of Australia, which took on its administration. Additionally, from 1905, British New Guinea was renamed as the Territory of Papua. In contrast to establishing an Australian mandate in former German New Guinea, the League of Nations determined that Papua was an External Territory of the Australian Commonwealth; as a matter of law it remained a British possession. The difference in legal status meant that until 1949, Papua and New Guinea had entirely separate administrations, both controlled by Australia. These conditions contributed to the complexity of organising the country's post-independence legal system.
 
-Buna_(AWM_014008).jpg, 7 January 1943.]] During World War II, the New Guinea campaign (1942–1945) was one of the major military campaigns and conflicts between Japan and the Allies. Approximately 216,000 Japanese, Australian, and US servicemen died.[25] After World War II and the victory of the Allies, the two territories were combined into the Territory of Papua and New Guinea. This was later referred to as "Papua New Guinea".
+, 7 January 1943.]] During World War II, the New Guinea campaign (1942–1945) was one of the major military campaigns and conflicts between Japan and the Allies. Approximately 216,000 Japanese, Australian, and US servicemen died.[25] After World War II and the victory of the Allies, the two territories were combined into the Territory of Papua and New Guinea. This was later referred to as "Papua New Guinea".
 
 The natives of Papua appealed to the United Nations for oversight and independence. The nation established independence from Australia on 16 September 1975, becoming a Commonwealth realm, continuing to share Queen Elizabeth II as its head of state. It maintains close ties with Australia, which continues to be its largest aid donor. Papua New Guinea was admitted to membership in the United Nations on 10 October 1975.[26]
 
-Biami_people,_near_Nomad_patrol_post,_1964.jpg in 1964]] A secessionist revolt in 1975–76 on Bougainville Island resulted in an eleventh-hour modification of the draft Constitution of Papua New Guinea to allow for Bougainville and the other eighteen districts to have quasi-federal status as provinces. A renewed uprising on Bougainville started in 1988 and claimed 20,000 lives until it was resolved in 1997. Bougainville had been the primary mining region of the country, generating 40% of the national budget. The native peoples felt they were bearing the adverse environmental effects of the mining, which poisoned the land, water and air, without gaining a fair share of the profits.[27]
+in 1964]] A secessionist revolt in 1975–76 on Bougainville Island resulted in an eleventh-hour modification of the draft Constitution of Papua New Guinea to allow for Bougainville and the other eighteen districts to have quasi-federal status as provinces. A renewed uprising on Bougainville started in 1988 and claimed 20,000 lives until it was resolved in 1997. Bougainville had been the primary mining region of the country, generating 40% of the national budget. The native peoples felt they were bearing the adverse environmental effects of the mining, which poisoned the land, water and air, without gaining a fair share of the profits.[27]
 
 The government and rebels negotiated a peace agreement that established the Bougainville Autonomous District and Province. The autonomous Bougainville elected Joseph Kabui as president in 2005, who served until his death in 2008. He was succeeded by his deputy John Tabinaman as acting president while an election to fill the unexpired term was organised. James Tanis won that election in December 2008 and served until the inauguration of John Momis, the winner of the 2010 elections. As part of the current peace settlement, a referendum on independence is planned to be held in Bougainville sometime before mid-2020. Preparations were underway in 2015.[28][29]
 
@@ -54,7 +54,7 @@ In the early years of independence, the instability of the party system led to f
 
 Elections in PNG attract numerous candidates. After independence in 1975, members were elected by the first-past-the-post system, with winners frequently gaining less than 15% of the vote. Electoral reforms in 2001 introduced the Limited Preferential Vote system (LPV), a version of the Alternative Vote. The 2007 general election was the first to be conducted using LPV.
 
-James_Marape,_in_2012.png.]]
+.]]
 
 In 2011 there was a constitutional crisis between the parliament-elect Prime Minister, Peter O'Neill (voted into office by a large majority of MPs), and Sir Michael Somare, who was deemed by the supreme court (in a December Opinion, 3:2) to retain office. The stand-off between parliament and the supreme court continued until the July 2012 national elections, with legislation passed effectively removing the chief justice and subjecting the supreme court members to greater control by the legislature, as well as a series of other laws passed, for example limiting the age for a prime minister. The confrontation reached a peak, with the Deputy Prime Minister entering the supreme court during a hearing, escorted by some police, ostensibly to arrest the Chief Justice. There was strong pressure among some MPs to defer the national elections for a further six months to one year, although their powers to do that were highly questionable.
 
@@ -64,7 +64,7 @@ Under a 2002 amendment, the leader of the party winning the largest number of se
 
 Law
 
-Port_Moresby_parliament_building_front,_by_Steve_Shattuck.jpg]] The unicameral Parliament enacts legislation in the same manner as in other commonwealth realms that use the Westminster system of government. The cabinet collectively agree government policy then the relevant minister introduces bills to Parliament depending on which government department is responsible for implementation of a particular law. Back bench members of parliament can also introduce bills. Parliament debates bills and if approved the bill is forwarded to the Governor-General for Royal assent, following which it becomes law.
+]] The unicameral Parliament enacts legislation in the same manner as in other commonwealth realms that use the Westminster system of government. The cabinet collectively agree government policy then the relevant minister introduces bills to Parliament depending on which government department is responsible for implementation of a particular law. Back bench members of parliament can also introduce bills. Parliament debates bills and if approved the bill is forwarded to the Governor-General for Royal assent, following which it becomes law.
 
 All ordinary statutes enacted by Parliament must be consistent with the Constitution. The courts have jurisdiction to rule on the constitutionality of statutes, both in disputes before them and on a reference where there is no dispute but only an abstract question of law. Unusual among developing countries, the judicial branch of government in Papua New Guinea has remained remarkably independent, and successive executive governments have continued to respect its authority.
 
@@ -74,7 +74,7 @@ This national court system, used in towns and cities, is supported by a village 
 
 Foreign policy
 
-APEC_Leaders_Photo_-_Papua_New_Guinea_2018.jpg In foreign policy, Papua New Guinea is a member of the Commonwealth of Nations, Pacific Islands Forum, and the Melanesian Spearhead Group (MSG) of countries. It was accorded Observer status within ASEAN in 1976, followed later by Special Observer status in 1981. It is also a member of APEC and an ACP country, associated with the European Union. The country has a low-key initiative when it comes to the Indonesia-sponsored genocide in West Papua due to its application in ASEAN, where the headquarters is in Jakarta.
+In foreign policy, Papua New Guinea is a member of the Commonwealth of Nations, Pacific Islands Forum, and the Melanesian Spearhead Group (MSG) of countries. It was accorded Observer status within ASEAN in 1976, followed later by Special Observer status in 1981. It is also a member of APEC and an ACP country, associated with the European Union. The country has a low-key initiative when it comes to the Indonesia-sponsored genocide in West Papua due to its application in ASEAN, where the headquarters is in Jakarta.
 
 Papua New Guinea has positive ties with Australia and countries in Oceania. It also has good ties with fellow-Christian country, the Philippines, especially in the education sector. The country's policy has been focusing on ties with Southeast Asia in recent years due to its application in ASEAN, which is supported by the Philippines and co-observer Timor-Leste.
 
@@ -84,7 +84,7 @@ The Papua New Guinea Defence Force (PNGDF) is the military organisation responsi
 
 Human rights
 
-Papua_New_Guinean_children,_men_and_women_show_their_support_for_putting_an_end_to_violence_against_women_during_a_White_Ribbon_Day_march_(21614943268).jpg march]]
+march]]
 
 Papua New Guinea is often ranked as likely the worst place in the world for violence against women.[43][44] A 2013 study in _The Lancet_ found that 27% of men on Bougainville Island, Papua New Guinea, reported having raped a non-partner, while 14.1% reported having committed gang rape.[45] According to UNICEF, nearly half of reported rape victims are under 15 years of age and 13% are under 7 years of age.[46] A report by ChildFund Australia, citing former Parliamentarian Dame Carol Kidu, claimed 50% of those seeking medical help after rape are under 16, 25% are under 12, and 10% are under 8.[47]
 
@@ -98,26 +98,24 @@ The nation has 22 province-level divisions: twenty provinces, the Autonomous Reg
 
 Provinces[51] are the primary administrative divisions of the country. Provincial governments are branches of the national government as Papua New Guinea is not a federation of provinces. The province-level divisions are as follows:
 
-+-----------------------+----------------------------------------------+-----------------------------------------------+
-| 1.  Central           | 12. New Ireland                              | Papua_new_guinea_provinces_(numbers)_2012.png |
-| 2.  Chimbu (Simbu)    | 13. Northern (Oro Province)                  |                                               |
-| 3.  Eastern Highlands | 14. Bougainville (autonomous region)         |                                               |
-| 4.  East New Britain  | 15. Southern Highlands                       |                                               |
-| 5.  East Sepik        | 16. Western Province (Fly)                   |                                               |
-| 6.  Enga              | 17. Western Highlands                        |                                               |
-| 7.  Gulf              | 18. West New Britain                         |                                               |
-| 8.  Madang            | 19. West Sepik (Sandaun)                     |                                               |
-| 9.  Manus             | 20. National Capital District (Port Moresby) |                                               |
-| 10. Milne Bay         | 21. Hela                                     |                                               |
-| 11. Morobe            | 22. Jiwaka                                   |                                               |
-+-----------------------+----------------------------------------------+-----------------------------------------------+
++-----------------------+----------------------------------------------+--+
+| 1.  Central           | 12. New Ireland                              |  |
+| 2.  Chimbu (Simbu)    | 13. Northern (Oro Province)                  |  |
+| 3.  Eastern Highlands | 14. Bougainville (autonomous region)         |  |
+| 4.  East New Britain  | 15. Southern Highlands                       |  |
+| 5.  East Sepik        | 16. Western Province (Fly)                   |  |
+| 6.  Enga              | 17. Western Highlands                        |  |
+| 7.  Gulf              | 18. West New Britain                         |  |
+| 8.  Madang            | 19. West Sepik (Sandaun)                     |  |
+| 9.  Manus             | 20. National Capital District (Port Moresby) |  |
+| 10. Milne Bay         | 21. Hela                                     |  |
+| 11. Morobe            | 22. Jiwaka                                   |  |
++-----------------------+----------------------------------------------+--+
 
 In 2009, Parliament approved the creation of two additional provinces: Hela Province, consisting of part of the existing Southern Highlands Province, and Jiwaka Province, formed by dividing Western Highlands Province.[52] Jiwaka and Hela officially became separate provinces on 17 May 2012.[53] The declaration of Hela and Jiwaka is a result of the largest liquefied natural gas (LNG)[54] project in the country that is situated in both provinces. The government set 17 October 2019 as the voting date for an independence referendum in the Bougainville autonomous region.[55] The Australian Strategic Policy Institute has said that there is a wide expectation Bougainville will vote to become independent.[56]
 
 
 Geography
-
-Papua_New_Guinea_map.png
 
 At , Papua New Guinea is the world's fifty-fourth-largest country. Including all its islands, it lies between latitudes 0° and 12°S, and longitudes 140° and 160°E.
 
@@ -137,7 +135,7 @@ The maritime boundary with Australia was confirmed by a treaty in 1978.[61] In t
 
 Ecology
 
-Tarvurvur.jpg]] Papua_New_Guinea_(5986599443).jpg
+]]
 
 Papua New Guinea is part of the Australasia ecozone, which also includes Australia, New Zealand, eastern Indonesia, and several Pacific island groups, including the Solomon Islands and Vanuatu.
 
@@ -147,14 +145,14 @@ Consequently, many species of birds and mammals found on New Guinea have close g
 
 Many of the other islands within PNG territory, including New Britain, New Ireland, Bougainville, the Admiralty Islands, the Trobriand Islands, and the Louisiade Archipelago, were never linked to New Guinea by land bridges. As a consequence, they have their own flora and fauna; in particular, they lack many of the land mammals and flightless birds that are common to New Guinea and Australia.
 
-Baby_tree_kangaroo_on_the_chiefs_wifes_shoulder_-Papua_New_Guinea-17Oct2008.jpg in Papua New Guinea]] Australia and New Guinea are portions of the ancient supercontinent of Gondwana, which started to break into smaller continents in the Cretaceous era, 65–130 million years ago. Australia finally broke free from Antarctica about 45 million years ago. All the Australasian lands are home to the Antarctic flora, descended from the flora of southern Gondwana, including the coniferous podocarps and _Araucaria_ pines, and the broadleafed southern beech (_Nothofagus_). These plant families are still present in Papua New Guinea.
+in Papua New Guinea]] Australia and New Guinea are portions of the ancient supercontinent of Gondwana, which started to break into smaller continents in the Cretaceous era, 65–130 million years ago. Australia finally broke free from Antarctica about 45 million years ago. All the Australasian lands are home to the Antarctic flora, descended from the flora of southern Gondwana, including the coniferous podocarps and _Araucaria_ pines, and the broadleafed southern beech (_Nothofagus_). These plant families are still present in Papua New Guinea.
 
 As the Indo-Australian Plate (which includes landmasses of India, Australia, and the Indian Ocean floor in between) drifts north, it collides with the Eurasian Plate. The collision of the two plates pushed up the Himalayas, the Indonesian islands, and New Guinea's Central Range. The Central Range is much younger and higher than the mountains of Australia, so high that it is home to rare equatorial glaciers. New Guinea is part of the humid tropics, and many Indomalayan rainforest plants spread across the narrow straits from Asia, mixing together with the old Australian and Antarctic floras.
 
 PNG includes a number of terrestrial ecoregions:
 
 -   Admiralty Islands lowland rain forests – forested islands to the north of the mainland, home to a distinct flora.
--   Central Range montane rain forestsPNG-climate.png of Papua New Guinea bears a sharp contrast to nearby arid Australia.]]
+-   Central Range montane rain forests of Papua New Guinea bears a sharp contrast to nearby arid Australia.]]
 -   Huon Peninsula montane rain forests
 -   Louisiade Archipelago rain forests
 -   New Britain-New Ireland lowland rain forests
@@ -183,8 +181,6 @@ On 25 February 2018, an earthquake of magnitude 7.5 and depth of 35 kilometres s
 
 Economy
 
-Pacific_Place_Port_Moresby_November_2013.jpg
-
 Papua New Guinea is richly endowed with natural resources, including mineral and renewable resources, such as forests, marine (including a large portion of the world's major tuna stocks), and in some parts agriculture. The rugged terrain—including high mountain ranges and valleys, swamps and islands—and high cost of developing infrastructure, combined with other factors (including serious law and order problems in some centres and the system of customary land title) makes it difficult for outside developers. Local developers are handicapped by years of deficient investment in education, health, ICT and access to finance. Agriculture, for subsistence and cash crops, provides a livelihood for 85% of the population and continues to provide some 30% of GDP. Mineral deposits, including gold, oil, and copper, account for 72% of export earnings. Oil palm production has grown steadily over recent years (largely from estates and with extensive outgrower output), with palm oil now the main agricultural export. In households participating, coffee remains the major export crop (produced largely in the Highlands provinces), followed by cocoa and coconut oil/copra from the coastal areas, each largely produced by smallholders and tea, produced on estates and rubber. The Iagifu/Hedinia Field was discovered in 1986 in the Papuan fold and thrust belt.[67]
 
 Former Prime Minister Sir Mekere Morauta tried to restore integrity to state institutions, stabilise the kina, restore stability to the national budget, privatise public enterprises where appropriate, and ensure ongoing peace on Bougainville following the 1997 agreement which ended Bougainville's secessionist unrest. The Morauta government had considerable success in attracting international support, specifically gaining the backing of the International Monetary Fund (IMF) and the World Bank in securing development assistance loans. Significant challenges face Prime Minister Sir Michael Somare, including gaining further investor confidence, continuing efforts to privatise government assets, and maintaining the support of members of Parliament.
@@ -207,7 +203,7 @@ The Institute of National Affairs, a PNG independent policy think tank, provides
 
 Land tenure
 
-OkTediMine.jpg in southwestern Papua New Guinea]]
+in southwestern Papua New Guinea]]
 
 The PNG legislature has enacted laws in which a type of tenure called "customary land title" is recognised, meaning that the traditional lands of the indigenous peoples have some legal basis to inalienable tenure. This customary land notionally covers most of the usable land in the country (some 97% of total land area);[77] alienated land is either held privately under state lease or is government land. Freehold title (also known as fee simple) can only be held by Papua New Guinean citizens.[78]
 
@@ -242,7 +238,7 @@ According to Statista (2017), here are the urban population percentages in Papua
 
 Languages
 
-Languages_Papua_New_Guinea.png TNG_map.svg language family. The affiliation of some Eastern branches is not universally accepted.]] Huli_wigman.jpg wigman from the Southern Highlands]] Papua New Guinea has more languages than any other country,[82] with over 820 indigenous languages, representing 12% of the world's total, but most have fewer than 1,000 speakers. The most widely spoken indigenous language is Enga, with about 200,000 speakers, followed by Melpa and Huli.[83] Indigenous languages are classified into two large groups, Austronesian languages and non-Austronesian, or Papuan, languages. There are four official languages in Papua New Guinea: English, sign language (which in practice means Papua New Guinean Sign Language), Tok Pisin and Hiri Motu.
+language family. The affiliation of some Eastern branches is not universally accepted.]] wigman from the Southern Highlands]] Papua New Guinea has more languages than any other country,[82] with over 820 indigenous languages, representing 12% of the world's total, but most have fewer than 1,000 speakers. The most widely spoken indigenous language is Enga, with about 200,000 speakers, followed by Melpa and Huli.[83] Indigenous languages are classified into two large groups, Austronesian languages and non-Austronesian, or Papuan, languages. There are four official languages in Papua New Guinea: English, sign language (which in practice means Papua New Guinean Sign Language), Tok Pisin and Hiri Motu.
 
 English is the language of government and the education system, but it is not spoken widely.
 
@@ -265,7 +261,7 @@ Traditional religions are often animist. Some also tend to have elements of vene
 
 Culture
 
-PNG_Bilum_Bag_QM_r.jpg bag from Goroka, Eastern Highlands Province]] Papua_New_Guinean.JPG Thiafamous_4318b.JPG]] Abelam_wooden_ancestor_figure_2_CAC.JPG ancestor figure (_nggwalndu_)]]
+bag from Goroka, Eastern Highlands Province]] ]] ancestor figure (_nggwalndu_)]]
 
 It is estimated that more than a thousand cultural groups exist in Papua New Guinea. Because of this diversity, many styles of cultural expression have emerged. Each group has created its own expressive forms in art, dance, weaponry, costumes, singing, music, architecture and much more.
 

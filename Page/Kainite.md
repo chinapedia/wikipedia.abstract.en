@@ -1,7 +1,5 @@
 KAINITE ( or )[1] (KMg(SO₄)Cl·3H₂O) is an evaporite mineral in the class of "Sulfates (selenates, etc.) with additional anions, with H₂O" according to the Nickel-Strunz classification. It is a hydrated potassium-magnesium sulfate-chloride, naturally occurring in irregular granular masses or as crystalline coatings in cavities or fissures. This mineral is dull and soft, and is colored white, yellowish, grey, reddish, or blue to violet. Its name is derived from Greek καινος [kainos] ("(hitherto) unknown"), as it was the first mineral discovered that contained both sulfate and chloride as anions. Kainite forms monoclinic crystals.
 
-Kainite.png
-
 
 Properties
 

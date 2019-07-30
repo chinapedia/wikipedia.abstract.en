@@ -7,7 +7,7 @@ The latest versions are Java 12, released in March 2019, and Java 11, a curren
 
 History
 
-Duke_(Java_mascot)_waving.svg James_Gosling_2008.jpg, the creator of Java, in 2008]] Tiobeindex.png programming language popularity index graph from 2002 to 2018. Java is steadily on the top since mid-2015.]]
+, the creator of Java, in 2008]] programming language popularity index graph from 2002 to 2018. Java is steadily on the top since mid-2015.]]
 
 James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991.[9] Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time.[10] The language was initially called _Oak_ after an oak tree that stood outside Gosling's office. Later the project went by the name _Green_ and was finally renamed _Java_, from Java coffee.[11] Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar.[12]
 
@@ -101,7 +101,7 @@ Having solved the memory management problem does not relieve the programmer of t
 
 Syntax
 
-JavaUniverse.png)]]
+)]]
 
 The syntax of Java is largely influenced by C++. Unlike C++, which combines the syntax for structured, generic, and object-oriented programming, Java was built almost exclusively as an object-oriented language.[42] All code is written inside classes, and every data item is an object, with the exception of the primitive data types, (i.e. integers, floating-point numbers, boolean values, and characters), which are not objects for performance reasons. Java reuses some popular aspects of C++ (such as the method).
 
@@ -283,7 +283,7 @@ Oracle supplies the Java platform for use with Java. The Android SDK is an alter
 
 Android
 
-Android_6.0-en.png operating system makes extensive use of Java-related technology]]
+operating system makes extensive use of Java-related technology]]
 
 The Java language is a key pillar in Android, an open source mobile operating system. Although Android, built on the Linux kernel, is written largely in C, the Android SDK uses the Java language as the basis for Android applications. The bytecode language supported by the Android SDK is incompatible with Java bytecode and runs on its own virtual machine, optimized for low-memory devices such as smartphones and tablet computers. Depending on the Android version, the bytecode is either interpreted by the Dalvik virtual machine or compiled into native code by the Android Runtime.
 

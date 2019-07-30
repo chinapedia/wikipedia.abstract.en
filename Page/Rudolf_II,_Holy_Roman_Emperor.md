@@ -5,7 +5,7 @@ Rudolf's legacy has traditionally been viewed in three ways:[1] an ineffectual r
 
 Early life
 
-Archdukerudolf.jpg.]]
+.]]
 
 Rudolf was born in Vienna on 18 July 1552. He was the eldest son and successor of Maximilian II, Holy Roman Emperor, King of Bohemia, and King of Hungary and Croatia; his mother was Maria of Spain, a daughter of Charles V and Isabella of Portugal. He was the elder brother of Matthias who was to succeed him as king of Bohemia and Holy Roman Emperor.
 
@@ -16,7 +16,7 @@ Rudolf would remain for the rest of his life reserved, secretive, and largely a 
 
 Personal life
 
-Portrait_bust_of_Rudolf_II,_Holy_Roman_Emperor,_Antwerp_City_Hall,_Belgium_-_20150629-03.jpg, Belgium]] Rudolf_II,_Martino_Rota.jpg
+, Belgium]]
 
 Like his near-contemporary, Elizabeth I of England (who was born 19 years before he was), Rudolf dangled himself as a prize in a string of diplomatic negotiations for marriages, but never in fact married. During his periods of self-imposed isolation, Rudolf reportedly had affairs with his court chamberlain, Wolfgang von Rumpf, and a series of valets. One of these, Philip Lang, ruled him for years and was hated by those seeking favour with the emperor.[6]
 
@@ -31,7 +31,7 @@ Rudolf succeeded his father Maximiliam II on 12 October 1576.[12] In 1583 he mov
 
 Historians have traditionally blamed Rudolf's preoccupation with the arts, occult sciences, and other personal interests as the reason for the political disasters of his reign.[13] More recently historians have re-evaluated this view and see his patronage of the arts and occult sciences as a triumph and key part of the Renaissance, while his political failures are seen as a legitimate attempt to create a unified Christian empire, which was undermined by the realities of religious, political and intellectual disintegrations of the time.[14]
 
-Rudolf2c.jpg by Aegidius Sadeler (1603).]] Martino_Rota_-_Emperor_Rudolf_II_in_Armour_-_WGA20140.jpg.]]
+by Aegidius Sadeler (1603).]] .]]
 
 Although raised in his uncle's Catholic court in Spain, Rudolf was tolerant of Protestantism and other religions including Judaism.[15] He largely withdrew from Catholic observances, even in death denying last sacramental rites. He had little attachment to Protestants either, except as counter-weight to papal policies. He put his primary support behind conciliarists, irenicists and humanists. When the papacy instigated the Counter-Reformation, using agents sent to his court, Rudolf backed those who he thought were the most neutral in the debate, not taking a side or trying to effect restraint, thus leading to political chaos and threatening to provoke civil war.[16]
 
@@ -40,9 +40,7 @@ His conflict with the Ottoman Empire was the final cause of his undoing. Unwilli
 
 Death
 
-Krone_Kaiser_Rudolf_II_Kaisertum_Österreich.jpg later became the imperial crown of the Austrian Empire.]]
-
-Imperial_Crown_of_Austria_Globus_cruciger_Sceptre.jpg
+later became the imperial crown of the Austrian Empire.]]
 
 Rudolf died in 1612, nine months after he had been stripped of all effective power by his younger brother, except the empty title of Holy Roman Emperor, to which Matthias was elected five months later. In May 1618 with the event known as the Defenestration of Prague, the Protestant Bohemians, in defence of the rights granted them in the _Letter of Majesty_, threw imperial officials out of the window and thus the Thirty Years' War (1618–1648) started.
 
@@ -55,15 +53,15 @@ Rudolf's love of collecting went far beyond paintings and sculptures. He commiss
 
 He patronized natural philosophers such as the botanist Charles de l'Ecluse, and the astronomers Tycho Brahe and Johannes Kepler both attended his court. Tycho Brahe developed the Rudolphine Tables (finished by Kepler, after Brahe's death), the first comprehensive table of data of the movements of the planets. As mentioned before, Rudolf also attracted some of the best scientific instrument makers of the time, such as Jost Bürgi, Erasmus Habermel and Hans Christoph Schissler. They had direct contact with the court astronomers and, through the financial support of the court, they were economically independent to develop scientific instruments and manufacturing techniques.[21]
 
-Vertumnus_årstidernas_gud_målad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.tiff, Roman God of the seasons, by Giuseppe Arcimboldo (1590–1). Rudolf greatly appreciated the work.]] The poet Elizabeth Jane Weston, a writer of Renaissance Latin poetry, was also part of his court and wrote numerous odes to him.
+, Roman God of the seasons, by Giuseppe Arcimboldo (1590–1). Rudolf greatly appreciated the work.]] The poet Elizabeth Jane Weston, a writer of Renaissance Latin poetry, was also part of his court and wrote numerous odes to him.
 
 Rudolf kept a menagerie of exotic animals, botanical gardens, and Europe's most extensive "cabinet of curiosities"[22] (_Kunstkammer_) incorporating "the three kingdoms of nature and the works of man". It was housed at Prague Castle, where between 1587 and 1605 he built the northern wing to house his growing collections.[23] A lion and a tiger were allowed to roam the castle, documented by the account books which record compensation paid to survivors of attacks, or to family members of victims.[24]
 
 Rudolf was even alleged by one person to have owned the Voynich manuscript, a codex whose author and purpose, as well as the language and script and posited cipher remain unidentified to this day. According to hearsay passed on in a letter written by Johannes Marcus Marci in 1665, Rudolf was said to have acquired the manuscript at some unspecified time for 600 gold ducats. No evidence in support of this single piece of hearsay has ever been discovered. The Codex Gigas was also in his possessions.
 
-As was typical of the time, Rudolf II had a portrait painted in the studio of the renowned Alonso Sanchez Coello. Completed in 1567 by Alonso Sanchez Coello, the portrait depicted Rudolf II at the age of 15. This painting can be seen at the Lobkowicz Palace in the Rozmberk room. Celestial_globe_with_clockwork_MET_DP237684.jpg with clockwork, made for the Kunstkammer of Rudolf II, 1579]] By 1597, the collection occupied three rooms of the incomplete northern wing. When building was completed in 1605, the collection was moved to the dedicated _Kunstkammer_. _Naturalia_ (minerals and gemstones) were arranged in a 37 cabinet display that had three vaulted chambers in front, each about 5.5 metres wide by 3 metres high and 60 metres long, connected to a main chamber 33 metres long. Large uncut gemstones were held in strong boxes.[25]
+As was typical of the time, Rudolf II had a portrait painted in the studio of the renowned Alonso Sanchez Coello. Completed in 1567 by Alonso Sanchez Coello, the portrait depicted Rudolf II at the age of 15. This painting can be seen at the Lobkowicz Palace in the Rozmberk room. with clockwork, made for the Kunstkammer of Rudolf II, 1579]] By 1597, the collection occupied three rooms of the incomplete northern wing. When building was completed in 1605, the collection was moved to the dedicated _Kunstkammer_. _Naturalia_ (minerals and gemstones) were arranged in a 37 cabinet display that had three vaulted chambers in front, each about 5.5 metres wide by 3 metres high and 60 metres long, connected to a main chamber 33 metres long. Large uncut gemstones were held in strong boxes.[25]
 
-Rudolf's _Kunstkammer_ was not a typical "cabinet of curiosities" – a haphazard collection of unrelated specimens. Rather, the Rudolfine _Kunstkammer_ was systematically arranged in an encyclopaedic fashion. In addition, Rudolf II employed his polyglot court physician, Anselmus Boetius de Boodt, to curate the collection. De Boodt was an avid mineral collector. He travelled widely on collecting trips to the mining regions of Germany, Bohemia and Silesia, often accompanied by his Bohemian naturalist friend, Thaddaeus Hagecius. Between 1607 and 1611, De Boodt catalogued the _Kunstkammer_, and in 1609 he published _Gemmarum et Lapidum_, one of the finest mineralogical treatises of the 17th century.[26] Praha_Hoefnagel_1595_DSCN0730.JPG in 1595 by Joris Hoefnagel.]]
+Rudolf's _Kunstkammer_ was not a typical "cabinet of curiosities" – a haphazard collection of unrelated specimens. Rather, the Rudolfine _Kunstkammer_ was systematically arranged in an encyclopaedic fashion. In addition, Rudolf II employed his polyglot court physician, Anselmus Boetius de Boodt, to curate the collection. De Boodt was an avid mineral collector. He travelled widely on collecting trips to the mining regions of Germany, Bohemia and Silesia, often accompanied by his Bohemian naturalist friend, Thaddaeus Hagecius. Between 1607 and 1611, De Boodt catalogued the _Kunstkammer_, and in 1609 he published _Gemmarum et Lapidum_, one of the finest mineralogical treatises of the 17th century.[26] in 1595 by Joris Hoefnagel.]]
 
 As was customary at the time, the collection was private, but friends of the Emperor, artists, and professional scholars were allowed to study it. The collection became an invaluable research tool during the flowering of 17th-century European philosophy, the "Age of Reason".
 
@@ -71,8 +69,6 @@ Rudolf's successors did not appreciate the collection and the _Kunstkammer_ grad
 
 
 Occult sciences
-
-Wappen_röm.kaiser.JPG
 
 Astrology and alchemy were regarded as mainstream scientific fields in Renaissance Prague, and Rudolf was a firm devotee of both. His lifelong quest was to find the Philosopher's Stone and Rudolf spared no expense in bringing Europe's best alchemists to court, such as Edward Kelley and John Dee. Rudolf even performed his own experiments in a private alchemy laboratory.[30] When Rudolf was a prince, Nostradamus prepared a horoscope which was dedicated to him as 'Prince and King'. In the 1590s Sendivogius was active at Rudolph's court.[31]
 

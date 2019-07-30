@@ -1,11 +1,11 @@
-1963_Cleopatra_trailer_screenshot_(3).jpg _Cleopatra_ gives an expansive view of the set.]]
+_Cleopatra_ gives an expansive view of the set.]]
 
 In photography, filmmaking and video production, a LONG SHOT (sometimes referred to as a FULL SHOT or WIDE SHOT) typically shows the entire object or human figure and is usually intended to place it in some relation to its surroundings. These are typically shot now using wide-angle lenses (an approximately 25 mm lens in 35 mm photography and 10 mm lens in 16 mm photography).[1] However, due to sheer distance, establishing shots and extremely wide shots can use almost any camera type.
 
 
 History
 
-Muybridge_race_horse_animated_184px.gif This type of filmmaking was a result of filmmakers trying to retain the sense of the viewer watching a play in front of them, as opposed to just a series of pictures.
+This type of filmmaking was a result of filmmakers trying to retain the sense of the viewer watching a play in front of them, as opposed to just a series of pictures.
 
 The wide shot has been used since films have been made as it is a very basic type of cinematography. In 1878, one of the first true motion pictures, _Sallie Gardner at a Gallop_, was released.[2][3] Even though this wouldn't be considered a film in the current motion picture industry, it was a huge step towards complete motion pictures. It is arguable that it is very basic but it still remains that it was displayed as a wide angle as both the rider and horse are fully visible in the frame.
 

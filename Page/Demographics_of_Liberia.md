@@ -7,7 +7,7 @@ With recent civil wars being fought along ethnic lines, Liberia is a multiethnic
 
 Population
 
-Liberia-demography.png, year 2005 Liberia's population tripled in 40 years.[3]]]
+, year 2005 Liberia's population tripled in 40 years.[3]]]
 
 According to , Liberia's total population was in . This is compared to 911,000 in 1950.[4]
 
@@ -167,8 +167,6 @@ Population
     4,809,768 (July 2018 est.)
 
 Age structure
-
-Liberiapop.svg
 
     _0-14 years:_ 43.72% (male 1,062,766 /female 1,040,211)
     _15-24 years:_ 19.9% (male 478,041 /female 478,999)

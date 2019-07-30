@@ -40,7 +40,7 @@ In January 2015, the Economist Intelligence Unit, released a report stating that
 
 Executive branch
 
-Grand-Serail.jpg]] |President |Michel Aoun |Free Patriotic Movement |31 October 2016 |- |Prime Minister |Saad Hariri |Future Movement |18 December 2016 |- |Speaker of the Parliament |Nabih Berri |Amal Movement |20 octobre 1992 |} The President is elected by the Parliament for a six-year term and cannot be reelected again until six years have passed from the end of the first term.[5] The Prime Minister and Deputy Prime Minister are appointed by the President in consultation with the Parliament; the president is required to be a Maronite, the prime minister a Sunni, and the Speaker of the Parliament a Shi'a. (See list of the ministers and their political affiliation for a list of ministers.)
+]] |President |Michel Aoun |Free Patriotic Movement |31 October 2016 |- |Prime Minister |Saad Hariri |Future Movement |18 December 2016 |- |Speaker of the Parliament |Nabih Berri |Amal Movement |20 octobre 1992 |} The President is elected by the Parliament for a six-year term and cannot be reelected again until six years have passed from the end of the first term.[5] The Prime Minister and Deputy Prime Minister are appointed by the President in consultation with the Parliament; the president is required to be a Maronite, the prime minister a Sunni, and the Speaker of the Parliament a Shi'a. (See list of the ministers and their political affiliation for a list of ministers.)
 
 This confessional system is based on 1932 census data which showed the Maronite Christians as having a substantial majority of the population. The Government of Lebanon continues to refuse to undertake a new census.
 
@@ -53,7 +53,7 @@ Following the end of the Lebanese Civil War, the President lost some powers to t
 
 Legislative branch
 
-BeirutParliament.jpg Lebanon's national legislature is called the ASSEMBLY OF REPRESENTATIVES (_Majlis al-Nuwab_ in Arabic). Since the elections of 1992 (the first since the reforms of the Taif Agreement of 1989 removed the built-in majority previously enjoyed by Christians and distributed the seats equally between Christians and Muslims), the Parliament has had 128 seats. The term was four years, but has recently been extended to five.
+Lebanon's national legislature is called the ASSEMBLY OF REPRESENTATIVES (_Majlis al-Nuwab_ in Arabic). Since the elections of 1992 (the first since the reforms of the Taif Agreement of 1989 removed the built-in majority previously enjoyed by Christians and distributed the seats equally between Christians and Muslims), the Parliament has had 128 seats. The term was four years, but has recently been extended to five.
 
 Seats in the Parliament are _confessionally distributed_ but elected by _universal suffrage._ Each religious community has an allotted number of seats in the Parliament. They do not represent only their co-religionists, however; all candidates in a particular constituency, regardless of religious affiliation, must receive a plurality of the total vote, which includes followers of all confessions. The system was designed to minimize inter-sectarian competition and maximize cross-confessional cooperation: candidates are opposed only by co-religionists, but must seek support from outside of their own faith in order to be elected.
 

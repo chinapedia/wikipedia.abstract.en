@@ -5,8 +5,6 @@ Properties
 
 Physical properties
 
-Kristallstruktur_Pyridin.png
-
 The molecular electric dipole moment is 2.2 debyes.[2] Pyridine is diamagnetic and has a diamagnetic susceptibility of −48.7 × 10^(−6) cm³·mol^(−1).[3] The standard enthalpy of formation is 100.2 kJ·mol^(−1) in the liquid phase[4] and 140.4 kJ·mol^(−1) in the gas phase. At 25 °C pyridine has a viscosity[5] of 0.88 mPa/s and thermal conductivity of 0.166 W·m^(−1)·K^(−1).[6][7] The enthalpy of vaporization is 35.09 kJ·mol^(−1) at the boiling point and normal pressure.[8] The enthalpy of fusion is 8.28 kJ·mol^(−1) at the melting point.[9]
 
 The critical parameters of pyridine are pressure 6.70 MPa, temperature 620 K and volume 229 cm³·mol^(−1).[10] In the temperature range 340–426 °C its vapor pressure _p_ can be described with the Antoine equation
@@ -40,15 +38,15 @@ The ring atoms in the pyridine molecule are sp²-hybridized. The nitrogen is inv
 
 Many analogues of pyridine are known where N is replaced by other heteroatoms (see figure below). Substitution of one C–H in pyridine with a second N gives rise to the diazine heterocycles (C₄H₄N₂), with the names pyridazine, pyrimidine, and pyrazine.
 
-  -------------------------------------------------------------------------------------------------------- -------------------------
-  Bond_lengths_of_group_15_heterobenzenes_and_benzene.svg, arsabenzene, stibabenzene, and bismabenzene]]   Pyridine-orbitals.svg
-  Pyridine-10.png                                                                                          Pyridinium-orbitals.svg
-  -------------------------------------------------------------------------------------------------------- -------------------------
+  ------------------------------------------------- --
+  , arsabenzene, stibabenzene, and bismabenzene]]
+
+  ------------------------------------------------- --
 
 
 History
 
-ThomasAnderson(1819-1874).jpg]] Impure pyridine was undoubtedly prepared by early alchemists by heating animal bones and other organic matter,[23] but the earliest documented reference is attributed to the Scottish scientist Thomas Anderson.[24][25] In 1849, Anderson examined the contents of the oil obtained through high-temperature heating of animal bones.[26] Among other substances, he separated from the oil, a colorless liquid with unpleasant odor, from which he isolated pure pyridine two years later. He described it as highly soluble in water, readily soluble in concentrated acids and salts upon heating, and only slightly soluble in oils.
+]] Impure pyridine was undoubtedly prepared by early alchemists by heating animal bones and other organic matter,[23] but the earliest documented reference is attributed to the Scottish scientist Thomas Anderson.[24][25] In 1849, Anderson examined the contents of the oil obtained through high-temperature heating of animal bones.[26] Among other substances, he separated from the oil, a colorless liquid with unpleasant odor, from which he isolated pure pyridine two years later. He described it as highly soluble in water, readily soluble in concentrated acids and salts upon heating, and only slightly soluble in oils.
 
 Owing to its flammability, Anderson named the new substance _pyridine_, after (pyr) meaning _fire_. The suffix _idine_ was added in compliance with the chemical nomenclature, as in _toluidine_, to indicate a cyclic compound containing a nitrogen atom.[27][28]
 
@@ -58,7 +56,7 @@ The chemical structure of pyridine was determined decades after its discovery. W
 
 The first major synthesis of pyridine derivatives was described in 1881 by Arthur Rudolf Hantzsch.[37] The Hantzsch pyridine synthesis typically uses a 2:1:1 mixture of a β-keto acid (often acetoacetate), an aldehyde (often formaldehyde), and ammonia or its salt as the nitrogen donor. First, a double hydrogenated pyridine is obtained, which is then oxidized to the corresponding pyridine derivative. Emil Knoevenagel showed that asymmetrically-substituted pyridine derivatives can be produced with this process.[38]
 
-Hantzsch_pyridine_synthesis.svg with acetoacetate, formaldehyde and ammonium acetate, and iron(III) chloride as the oxidizer.]]
+with acetoacetate, formaldehyde and ammonium acetate, and iron(III) chloride as the oxidizer.]]
 
 The contemporary methods of pyridine production had a low yield, and the increasing demand for the new compound urged to search for more efficient routes. A breakthrough came in 1924 when the Russian chemist Aleksei Chichibabin invented a pyridine synthesis reaction, which was based on inexpensive reagents.[39] This method is still used for the industrial production of pyridine.[40]
 
@@ -82,8 +80,6 @@ Chichibabin synthesis
 
 The Chichibabin pyridine synthesis was reported in 1924 and is still in use in industry.[60] In its general form, the reaction can be described as a condensation reaction of aldehydes, ketones, α,β-unsaturated carbonyl compounds, or any combination of the above, in ammonia or ammonia derivatives.[61] In particular, unsubstituted pyridine is produced from formaldehyde and acetaldehyde, which are inexpensive and widely available. First, acrolein is formed in a Knoevenagel condensation from the acetaldehyde and formaldehyde. The acrolein is then condensed with acetaldehyde and ammonia to give dihydropyridine, which is oxidized with a solid-state catalyst to pyridine. This process is carried out in a gas phase at 400–450 °C. The product consists of a mixture of pyridine, simple methylated pyridines (picolines and lutidines); its composition depends on the catalyst used and can be adapted to the needs of the manufacturer. The catalyst is usually a transition metal salt such as cadmium(II) fluoride or manganese(II) fluoride, but cobalt and thallium compounds can also be used. The recovered pyridine is separated from byproducts in a multistage process.[62]
 
-AcroleinDarstellung.svg Pyridin_aus_Acrolein.svg
-
 Practical application of the traditional Chichibabin pyridine synthesis are limited by its consistently low yield, typically about 20%. This low yield, together with the high prevalence of byproducts, render unmodified forms of Chichibabin's method unpopular.[63]
 
 Dealkylation of alkylpyridines
@@ -92,13 +88,13 @@ Pyridine can be prepared by dealkylation of alkylated pyridines, which are obtai
 
 Bönnemann cyclization
 
-BönnemannEn.png The trimerization of a part of a nitrile molecule and two parts of acetylene into pyridine is called BÖNNEMANN CYCLIZATION. This modification of the Reppe synthesis can be activated either by heat or by light. While the thermal activation requires high pressures and temperatures, the photoinduced cycloaddition proceeds at ambient conditions with CoCp₂(cod) (Cp = cyclopentadienyl, cod = 1,5-cyclooctadiene) as a catalyst, and can be performed even in water.[69] A series of pyridine derivatives can be produced in this way. When using acetonitrile as the nitrile, 2-methylpyridine is obtained, which can be dealkylated to pyridine.
+The trimerization of a part of a nitrile molecule and two parts of acetylene into pyridine is called BÖNNEMANN CYCLIZATION. This modification of the Reppe synthesis can be activated either by heat or by light. While the thermal activation requires high pressures and temperatures, the photoinduced cycloaddition proceeds at ambient conditions with CoCp₂(cod) (Cp = cyclopentadienyl, cod = 1,5-cyclooctadiene) as a catalyst, and can be performed even in water.[69] A series of pyridine derivatives can be produced in this way. When using acetonitrile as the nitrile, 2-methylpyridine is obtained, which can be dealkylated to pyridine.
 
 Other methods
 
-The Kröhnke pyridine synthesis provides a fairly general method for generating substituted pyridines using pyridine itself as a reagent which does not become incorporated into the final product. The reaction of pyridine with α-bromoesters give the related pyridinium salt, wherein the methylene group is highly acidic. This species undergoes a Michael-like addition to α,β-unsaturated carbonyls in the presence of ammonium acetate to undergo ring closure and formation of the targeted substituted pyridine as well as pyridinium bromide.[70] Kroehnke_Pyridine_Figure_1.png The CIAMICIAN–DENNSTEDT REARRANGEMENT entails the ring-expansion of pyrrole with dichlorocarbene to 3-chloropyridine.[71][72][73] Ciamician-Dennstedt_Rearrangement.png
+The Kröhnke pyridine synthesis provides a fairly general method for generating substituted pyridines using pyridine itself as a reagent which does not become incorporated into the final product. The reaction of pyridine with α-bromoesters give the related pyridinium salt, wherein the methylene group is highly acidic. This species undergoes a Michael-like addition to α,β-unsaturated carbonyls in the presence of ammonium acetate to undergo ring closure and formation of the targeted substituted pyridine as well as pyridinium bromide.[70] The CIAMICIAN–DENNSTEDT REARRANGEMENT entails the ring-expansion of pyrrole with dichlorocarbene to 3-chloropyridine.[71][72][73]
 
-In the GATTERMANN–SKITA SYNTHESIS,[74] a malonate ester salt reacts with dichloromethylamine.[75] Gattermann-Skita_Syntesis.png
+In the GATTERMANN–SKITA SYNTHESIS,[74] a malonate ester salt reacts with dichloromethylamine.[75]
 
 Another method is the Boger pyridine synthesis.
 
@@ -117,17 +113,15 @@ Electrophilic substitutions
 
 Owing to the decreased electron density in the aromatic system, electrophilic substitutions are suppressed in pyridine and its derivatives. Friedel–Crafts alkylation or acylation, usually fail for pyridine because they lead only to the addition at the nitrogen atom. Substitutions usually occur at the 3-position, which is the most electron-rich carbon atom in the ring and is, therefore, more susceptible to an electrophilic addition.
 
-Pyridine-EAS-2-position-2D-skeletal.png Pyridine-EAS-3-position-2D-skeletal.png Pyridine-EAS-4-position-2D-skeletal.png
-
 Direct nitration of pyridine is sluggish.[79][80] Pyridine derivatives wherein the nitrogen atom is screened sterically and/or electronically can be obtained by nitration with nitronium tetrafluoroborate (NO₂BF₄). In this way, 3-nitropyridine can be obtained via the synthesis of 2,6-dibromopyridine followed by debromination.[81][82]
 
 Sulfonation of pyridine is even more difficult than nitration. However, pyridine-3-sulfonic acid can be obtained. Reaction with the SO₃ group also facilitates addition of sulfur to the nitrogen atom, especially in the presence of a mercury(II) sulfate catalyst.[83][84]
 
-In contrast to the sluggish nitrations and sulfonations, the bromination and chlorination of pyridine proceed well.[85] simple_chlorination.png
+In contrast to the sluggish nitrations and sulfonations, the bromination and chlorination of pyridine proceed well.[85]
 
 Pyridine-N-oxide
 
-Pyridine_N-oxide.png Oxidation of pyridine occurs at nitrogen to give pyridine-N-oxide. The oxidation can be achieved with peracids:[86]
+Oxidation of pyridine occurs at nitrogen to give pyridine-N-oxide. The oxidation can be achieved with peracids:[86]
 
     C₅H₅N + RCO₃H → C₅H₅NO + RCO₂H
 
@@ -136,8 +130,6 @@ Some electrophilic substitutions on the pyridine are usefully effected using pyr
 Nucleophilic substitutions
 
 In contrast to benzene ring, pyridine efficiently supports several nucleophilic substitutions. The reason for this is relatively lower electron density of the carbon atoms of the ring. These reactions include substitutions with elimination of a hydride ion and elimination-additions with formation of an intermediate aryne configuration, and usually proceed at the 2- or 4-position.[88][89]
-
-Pyridine-NA-2-position.svg Pyridine-NA-3-position.svg Pyridine-NA-4-position.svg
 
 Many nucleophilic substitutions occur more easily not with bare pyridine but with pyridine modified with bromine, chlorine, fluorine, or sulfonic acid fragments that then become a leaving group. So fluorine is the best leaving group for the substitution with organolithium compounds. The nucleophilic attack compounds may be alkoxides, thiolates, amines, and ammonia (at elevated pressures).[90]
 
@@ -151,11 +143,11 @@ Pyridine supports a series of radical reactions, which is used in its dimerizati
 
 Reactions on the nitrogen atom
 
-Pyridine-complex.svgs to pyridine]] Lewis acids easily add to the nitrogen atom of pyridine, forming pyridinium salts. The reaction with alkyl halides leads to alkylation of the nitrogen atom. This creates a positive charge in the ring that increases the reactivity of pyridine to both oxidation and reduction. The Zincke reaction is used for the selective introduction of radicals in pyridinium compounds (it has no relation to the chemical element zinc).
+s to pyridine]] Lewis acids easily add to the nitrogen atom of pyridine, forming pyridinium salts. The reaction with alkyl halides leads to alkylation of the nitrogen atom. This creates a positive charge in the ring that increases the reactivity of pyridine to both oxidation and reduction. The Zincke reaction is used for the selective introduction of radicals in pyridinium compounds (it has no relation to the chemical element zinc).
 
 Hydrogenation and reduction
 
-Pyridine_hydrogenation.png]]
+]]
 
 Piperidine is produced by hydrogenation of pyridine with a nickel-, cobalt-, or ruthenium-based catalyst at elevated temperatures.[97] The hydrogenation of pyridine to piperidine releases 193.8 kJ·mol^(−1),[98] which is slightly less than the energy of the hydrogenation of benzene (205.3 kJ·mol^(−1)).[99]
 
@@ -165,7 +157,7 @@ Lewis basicity and coordination compounds
 
 Pyridine is a Lewis base, donating its pair of electrons to a Lewis acid. One example is the sulfur trioxide pyridine complex (melting point 175 °C), which is a sulfation agent used to convert alcohols to sulfate esters. Pyridine-borane (C₅H₅NBH₃, melting point 10–11 °C) is a mild reducing agent.
 
-Crabtree.svg]]
+]]
 
 Pyridine forms numerous complexes with transition metals.[103][104] Typical octahedral complexes have the stoichiometry MCl₂(py)₄ and MCl₃(py)₃. Octahedral homoleptic complexes of the type M(py)₆⁺ are rare or tend to dissociate pyridine. Numerous square planar complexes are known, such as Crabtree's catalyst.[105] The pyridine ligand replaced during the reaction is restored after its completion.
 
@@ -178,19 +170,17 @@ Pesticides
 
 The main use of pyridine is as a precursor to the herbicides paraquat and diquat.[107] The first synthesis step of insecticide chlorpyrifos consists of the chlorination of pyridine. Pyridine is also the starting compound for the preparation of pyrithione-based fungicides.[108] Cetylpyridinium and laurylpyridinium, which can be produced from pyridine with a Zincke reaction, are used as antiseptic in oral and dental care products.[109] Pyridine is easily attacked by alkylating agents to give _N_-alkylpyridinium salts. One example is cetylpyridinium chloride.
 
-Synthesis_of_paraquat.png[110]]]
+[110]]]
 
 Solvent
 
 Pyridine is used as a polar, basic, low-reactive solvent, for example in Knoevenagel condensations.[111] It is especially suitable for the dehalogenation, where it acts as the base of the elimination reaction and bonds the resulting hydrogen halide to form a pyridinium salt. In esterifications and acylations, pyridine activates the carboxylic acid halides or anhydrides. Even more active in these reactions are the pyridine derivatives 4-dimethylaminopyridine (DMAP) and 4-(1-pyrrolidinyl) pyridine. Pyridine is also used as a base in condensation reactions.[112]
 
-Chlorocyclopentane_elimination.svg
-
 It is also used in the textile industry to improve network capacity of cotton.[113]
 
 Specialty reagents based on pyridine
 
-Collins_reagent.png.]] As a base, pyridine can be used as the Karl Fischer reagent, but it is usually replaced by alternatives with a more pleasant odor, such as imidazole.[114]
+.]] As a base, pyridine can be used as the Karl Fischer reagent, but it is usually replaced by alternatives with a more pleasant odor, such as imidazole.[114]
 
 Pyridinium chlorochromate, pyridinium dichromate, and the Collins reagent (the complex of chromium(VI) oxide are used for the oxidation of alcohols.[115]
 

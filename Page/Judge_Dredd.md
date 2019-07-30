@@ -32,7 +32,7 @@ In 2012 Dredd was one of ten British comic characters commemorated in a series o
 
 Character and appearance
 
-Judge_dredd.png in 1977. The character's appearance has remained essentially unchanged since, except for a more prominent jawline.]]
+in 1977. The character's appearance has remained essentially unchanged since, except for a more prominent jawline.]]
 
 Joseph Dredd is the most famous of the Street Judges that patrol Mega-City One, empowered to instantly convict, sentence, and sometimes execute offenders. Dredd is armed with a "Lawgiver", a pistol programmed to recognise only his palm-print, and capable of firing six types of ammunition, a daystick, a boot knife and stun or gas grenades. His helmet obscures his face, except for his mouth and jaw. He rides a large "Lawmaster" motorcycle equipped with machine-guns, a powerful laser cannon, and full artificial intelligence capable of responding to orders from the Judge and operating itself.
 
@@ -232,7 +232,7 @@ However the film has since been praised for its depiction of Dredd's city, costu
 
 _Dredd_ (2012)
 
-Dredd2012Poster.jpg Reliance Entertainment produced _Dredd_, which was released in September 2012. It was positively received by critics with Rotten Tomatoes' rating of 78%. It was directed by Pete Travis and written by Alex Garland. Michael S. Murphey was co-producer with Travis.[118] Karl Urban was cast as Judge Dredd and Olivia Thirlby portrayed Judge Anderson.[119][120] Dredd's costume was radically redesigned for the film, adding armor plates and reducing the size and prominence of the shoulder insignia.
+Reliance Entertainment produced _Dredd_, which was released in September 2012. It was positively received by critics with Rotten Tomatoes' rating of 78%. It was directed by Pete Travis and written by Alex Garland. Michael S. Murphey was co-producer with Travis.[118] Karl Urban was cast as Judge Dredd and Olivia Thirlby portrayed Judge Anderson.[119][120] Dredd's costume was radically redesigned for the film, adding armor plates and reducing the size and prominence of the shoulder insignia.
 
 The main _Judge Dredd_ writer John Wagner said:
 

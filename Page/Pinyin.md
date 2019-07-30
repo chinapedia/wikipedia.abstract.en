@@ -4,7 +4,7 @@ The pinyin system was developed in the 1950s by many linguists, including Zhou Y
 
 The word __ () means 'the spoken language of the Han people', while __ () literally means 'spelled sounds'.[8]
 
-Hubei-S334-Entering-Yiling-4848.jpg, Yichang, Hubei, text on road signs appears both in Chinese characters and in Hanyu Pinyin]] When a foreign writing system with one set of coding/decoding system is taken to write a language, certain compromises may have to be made. The result is that the decoding systems used in some foreign languages will enable non-native speakers to produce sounds more closely resembling the target language than will the coding/decoding system used by other foreign languages. Native speakers of English will decode pinyin spellings to fairly close approximations of Mandarin except in the case of certain speech sounds that are not ordinarily produced by most native speakers of English: _j_ , _q_ _, x_ , _z_ , _c_ , _zh_ , _ch_ , _sh_ , _h_ , and _r_ exhibiting the greatest discrepancies.
+, Yichang, Hubei, text on road signs appears both in Chinese characters and in Hanyu Pinyin]] When a foreign writing system with one set of coding/decoding system is taken to write a language, certain compromises may have to be made. The result is that the decoding systems used in some foreign languages will enable non-native speakers to produce sounds more closely resembling the target language than will the coding/decoding system used by other foreign languages. Native speakers of English will decode pinyin spellings to fairly close approximations of Mandarin except in the case of certain speech sounds that are not ordinarily produced by most native speakers of English: _j_ , _q_ _, x_ , _z_ , _c_ , _zh_ , _ch_ , _sh_ , _h_ , and _r_ exhibiting the greatest discrepancies.
 
 In this system, the correspondence between the Roman letter and the sound is sometimes idiosyncratic, though not necessarily more so than the way the Latin script is employed in other languages. For example, the aspiration distinction between _b_, _d_, _g_ and _p_, _t_, _k_ is similar to that of these syllable-initial consonants English (in which the two sets are however also differentiated by voicing), but not to that of French. Letters _z_ and _c_ also have that distinction, pronounced as and (whilst reminiscent of both of them being used for the phoneme in the German language and Latin script-using Slavic languages respectively). From _s, z, c_ come the digraphs _sh, zh, ch_ by analogy with English _sh, ch_. Although this introduces the novel combination _zh_, it is internally consistent in how the two series are related, and reminds the trained reader that many Chinese people pronounce _sh, zh, ch_ as _s, z, c_ (and English-speakers use _zh_ to represent in foreign languages such as Russian anyway). In the _x, j, q_ series, the pinyin use of _x_ is similar to its use in Portuguese, Galician, Catalan, Basque, and Maltese; and the pinyin _q_ is akin to its value in Albanian; both pinyin and Albanian pronunciations may sound similar to the _ch_ to the untrained ear. Pinyin vowels are pronounced in a similar way to vowels in Romance languages.
 
@@ -192,7 +192,7 @@ The apostrophe (') () is used before a syllable starting with a vowel (, , or ) 
 
 Pronunciation of finals
 
-IPA_vowel_chart_2005.png The following is a list of finals in Standard Chinese, excepting most of those ending with _r_.
+The following is a list of finals in Standard Chinese, excepting most of those ending with _r_.
 
 To find a given final:
 
@@ -295,7 +295,7 @@ To find a given final:
 
 Tones
 
-Pinyin_Tone_Chart.svg The pinyin system also uses diacritics to mark the four tones of Mandarin. The diacritic is placed over the letter that represents the syllable nucleus, unless that letter is missing (see below).
+The pinyin system also uses diacritics to mark the four tones of Mandarin. The diacritic is placed over the letter that represents the syllable nucleus, unless that letter is missing (see below).
 
 Many books printed in China use a mix of fonts, with vowels and tone marks rendered in a different font from the surrounding text, tending to give such pinyin texts a typographically ungainly appearance. This style, most likely rooted in early technical limitations, has led many to believe that pinyin's rules call for this practice, e.g. the use of a Latin alpha (Ɑ) rather than the standard style (A) found in most fonts, or G often written with a single-story Ɡ. The rules of _Hanyu Pinyin_, however, specify no such practice.[37]
 
@@ -521,7 +521,7 @@ Comparison charts
 
 Usage
 
-Dajia-shuo-Putonghua-2817.jpg is annotated with pinyin, but without tonal marks.]] Pinyin superseded older romanization systems such as Wade–Giles (1859; modified 1892) and postal romanization, and replaced zhuyin as the method of Chinese phonetic instruction in mainland China. The ISO adopted pinyin as the standard romanization for modern Chinese in 1982 (ISO 7098:1982, superseded by ISO 7098:2015). The United Nations followed suit in 1986.[52][53] It has also been accepted by the government of Singapore, the United States's Library of Congress, the American Library Association, and many other international institutions.[54]
+is annotated with pinyin, but without tonal marks.]] Pinyin superseded older romanization systems such as Wade–Giles (1859; modified 1892) and postal romanization, and replaced zhuyin as the method of Chinese phonetic instruction in mainland China. The ISO adopted pinyin as the standard romanization for modern Chinese in 1982 (ISO 7098:1982, superseded by ISO 7098:2015). The United Nations followed suit in 1986.[52][53] It has also been accepted by the government of Singapore, the United States's Library of Congress, the American Library Association, and many other international institutions.[54]
 
 The spelling of Chinese geographical or personal names in pinyin has become the most common way to transcribe them in English. Pinyin has also become the dominant method for entering Chinese text into computers in Mainland China, in contrast to Taiwan; where Bopomofo is most commonly used.
 

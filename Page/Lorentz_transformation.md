@@ -71,8 +71,6 @@ Physical formulation of Lorentz boosts
 
 Coordinate transformation
 
-Lorentz_boost_x_direction_standard_configuration.svg
-
 A "stationary" observer in frame defines events with coordinates . Another frame moves with velocity relative to , and an observer in this "moving" frame defines events using the coordinates .
 
 The coordinate axes in each frame are parallel (the and axes are parallel, the and axes are parallel, and the and axes are parallel), remain mutually perpendicular, and relative motion is along the coincident axes. At _t_′ {{=}} 0}}, the origins of both coordinate systems are the same, (_x_′, _y_′, _z_′) {{=}} (0, 0, 0)}}. In other words, the times and positions are coincident at this event. If all these hold, then the coordinate systems are said to be in STANDARD CONFIGURATION, or SYNCHRONIZED.
@@ -181,8 +179,6 @@ Length contraction: Suppose there is a rod at rest in  aligned along the x axis,
 
 Vector transformations
 
-Lorentz_boost_any_direction_standard_configuration.svg
-
 The use of vectors allows positions and velocities to be expressed in arbitrary directions compactly. A single boost in any direction depends on the full relative velocity vector with a magnitude _v_}} that cannot equal or exceed , so that .
 
 Only time and the coordinates parallel to the direction of relative motion change, while those coordinates perpendicular do not. With this in mind, split the spatial position vector as measured in , and as measured in , each into components perpendicular (⊥) and parallel ( ‖ ) to ,
@@ -233,7 +229,7 @@ each of which serves as a useful abbreviation in some contexts. The magnitude of
 
 Transformation of velocities
 
-Lorentz_transformation_of_velocity_including_velocity_addition.svg , the ordering of vectors is chosen to reflect the ordering of the addition of velocities; first (the velocity of F′ relative to F) then (the velocity of X relative to F′) to obtain V ⊕ U′}} (the velocity of X relative to F).]]
+, the ordering of vectors is chosen to reflect the ordering of the addition of velocities; first (the velocity of F′ relative to F) then (the velocity of X relative to F′) to obtain V ⊕ U′}} (the velocity of X relative to F).]]
 
 Defining the coordinate velocities and Lorentz factor by
 
@@ -635,8 +631,6 @@ _\mu {\Lambda^{\beta'}}_\nu \cdots {\Lambda^{\zeta'}}_\rho
 where is defined above. This form can generally be reduced to the form for general -component objects given above with a single matrix () operating on column vectors. This latter form is sometimes preferred; e.g., for the electromagnetic field tensor.
 
 Transformation of the electromagnetic field
-
-Lorentz_boost_electric_charge.svg
 
 Lorentz transformations can also be used to illustrate that the magnetic field and electric field are simply different aspects of the same force — the electromagnetic force, as a consequence of relative motion between electric charges and observers.[28] The fact that the electromagnetic field shows relativistic effects becomes clear by carrying out a simple thought experiment.[29]
 

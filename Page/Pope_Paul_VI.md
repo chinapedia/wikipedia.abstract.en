@@ -7,7 +7,7 @@ Following the standard procedures that lead to sainthood, Pope Benedict XVI decl
 
 Early life
 
-Montinifather.jpg Giovanni Battista Enrico Antonio Maria Montini was born in the village of Concesio, in the province of Brescia, Lombardy, Italy, in 1897. His father Giorgio Montini was a lawyer, journalist, director of the Catholic Action and member of the Italian Parliament. His mother was Giudetta Alghisi, from a family of rural nobility. He had two brothers, Francesco Montini, who became a physician, and Lodovico Montini, who became a lawyer and politician. On 30 September 1897, he was baptised with the name Giovanni Battista Enrico Antonio Maria Montini. He attended the _Cesare Arici_ school, run by the Jesuits, and in 1916 received a diploma from the _Arnaldo da Brescia_ public school in Brescia. His education was often interrupted by bouts of illness.
+Giovanni Battista Enrico Antonio Maria Montini was born in the village of Concesio, in the province of Brescia, Lombardy, Italy, in 1897. His father Giorgio Montini was a lawyer, journalist, director of the Catholic Action and member of the Italian Parliament. His mother was Giudetta Alghisi, from a family of rural nobility. He had two brothers, Francesco Montini, who became a physician, and Lodovico Montini, who became a lawyer and politician. On 30 September 1897, he was baptised with the name Giovanni Battista Enrico Antonio Maria Montini. He attended the _Cesare Arici_ school, run by the Jesuits, and in 1916 received a diploma from the _Arnaldo da Brescia_ public school in Brescia. His education was often interrupted by bouts of illness.
 
 In 1916, he entered the seminary to become a Catholic priest. He was ordained priest on 29 May 1920 in Brescia and celebrated his first Holy Mass in Brescia in the Basilica of Santa Maria delle Grazie. Montini concluded his studies in Milan with a doctorate in Canon Law in the same year. Afterwards he studied at the Gregorian University, the University of Rome La Sapienza and, at the request of Giuseppe Pizzardo at the _Accademia dei Nobili Ecclesiastici_. In 1922, at the age of twenty-five, again at the request of Giuseppe Pizzardo, Montini entered the Secretariat of State, where he worked under Pizzardo together with Francesco Borgongini-Duca, Alfredo Ottaviani, Carlo Grano, Domenico Tardini and Francis Spellman. Consequently, he never had an appointment as a parish priest. In 1925 he helped found the publishing house Morcelliana in Brescia, focused on promoting a 'Christian-inspired culture'.[4]
 
@@ -20,8 +20,6 @@ Montini had just one foreign posting in the diplomatic service of the Holy See a
 
 Roman Curia
 
-MontiniMay291920.jpg
-
 His organisational skills led him to a career in the Roman Curia, the papal civil service. In 1931, Pacelli appointed him to teach history at the Pontifical Academy for Diplomats In 1937, after his mentor Giuseppe Pizzardo was named a cardinal and was succeeded by Domenico Tardini, Montini was named Substitute for Ordinary Affairs under Cardinal Pacelli, the Secretary of State. His immediate supervisor was Domenico Tardini, with whom he got along well. Pacelli became Pope Pius XII in 1939 and confirmed Montini's appointment as Substitute under the new Cardinal Secretary of State Luigi Maglione. In that role, roughly that of a chief of staff, he met the pope every morning until 1954 and developed a rather close relationship with him. Of his service to two popes he wrote:
 
 When war broke out, Maglione, Tardini, and Montini were the principal figures in the Secretariat of State of the Holy See.[5] Montini was in charge of taking care of the "ordinary affairs" of the Secretariat of State, which took much of the mornings of every working day. In the afternoon he moved to the third floor into the Office of the Private Secretary of the Pontiff. Pius XII did not have a personal secretary. As did several popes before him, he delegated the secretarial functions he needed to the Secretariat of State. During the war years, thousands of letters from all parts of the world arrived at the desk of the pope, most of them asking for understanding, prayer, and help. Montini's task was to formulate the replies in the name of Pius XII, expressing his empathy, and understanding and providing help, where possible.
@@ -33,13 +31,13 @@ As Pro-Secretary of State, Montini coordinated the activities of assistance to t
 
 Archbishop of Milan
 
-Paolo_Monti_-_Servizio_fotografico_(Milano,_1962)_-_BEIC_6356260.jpg, Milan, 1962. Photo by Paolo Monti.]] After the death of the Benedictine Cardinal Alfredo Ildefonso Schuster, in 1954, Montini was appointed to succeed him as Archbishop of Milan, which made him the Secretary of the Italian Bishops Conference.[8] Pope Pius XII presented the new Archbishop Giovanni Battista Montini "as his personal gift to Milan". He was consecrated bishop in Saint Peter's Basilica by Cardinal Eugène Tisserant, the Dean of the College of Cardinals, since Pius XII was forced to stay in bed due to his severe illness.
+, Milan, 1962. Photo by Paolo Monti.]] After the death of the Benedictine Cardinal Alfredo Ildefonso Schuster, in 1954, Montini was appointed to succeed him as Archbishop of Milan, which made him the Secretary of the Italian Bishops Conference.[8] Pope Pius XII presented the new Archbishop Giovanni Battista Montini "as his personal gift to Milan". He was consecrated bishop in Saint Peter's Basilica by Cardinal Eugène Tisserant, the Dean of the College of Cardinals, since Pius XII was forced to stay in bed due to his severe illness.
 
 Pius XII delivered an address about Montini's appointment from his sick-bed over radio to those assembled in St. Peter's Basilica on 12 December 1954. Both Montini and the pope had tears in their eyes when Montini parted for his diocese, with its 1,000 churches, 2,500 priests and 3,500,000 souls. On 5 January 1955, Montini formally took possession of his Cathedral of Milan. After a period of settling in, Montini liked his new tasks as archbishop, connecting to all groups of faithful in Milan. He enjoyed meetings with intellectuals, artists and writers.
 
 Montini's philosophy
 
-PaulPeterssquare.jpg In his first months Montini showed his interest in working conditions and labour issues by personally contacting unions, associations and giving related speeches. Believing that churches are the only non-utilitarian buildings in modern society and a most necessary place of spiritual rest, he initiated the building of over 100 new churches for service and contemplation.
+In his first months Montini showed his interest in working conditions and labour issues by personally contacting unions, associations and giving related speeches. Believing that churches are the only non-utilitarian buildings in modern society and a most necessary place of spiritual rest, he initiated the building of over 100 new churches for service and contemplation.
 
 His public speeches were noticed not only in Milan but also in Rome and elsewhere. Some considered him a liberal, when he asked lay people to love not only Catholics but also schismatics, Protestants, Anglicans, the indifferent, Muslims, pagans, atheists. He gave a friendly welcome to a group of Anglican clergy visiting Milan in 1957 and a subsequently exchanged letters with the Archbishop of Canterbury, Geoffrey Fisher.
 
@@ -55,7 +53,7 @@ Pius XII asked Archbishop Montini to Rome October 1957, where he gave the main p
 
 Cardinal
 
-Cardenal_Montini.jpg Although some cardinals seem to have viewed him as papabile, a likely candidate to become pope, and although he may consequently have received some votes in the 1958 conclave,[11] Montini was not yet a cardinal, which made him an unlikely choice. Angelo Roncalli was elected pope on 28 October 1958 and took the name John XXIII. On 17 November 1958, L'Osservatore Romano announced a consistory for the creation of new cardinals. Montini's name led the list.[12] When the pope raised Montini to the cardinalate on 15 December 1958, he became Cardinal-Priest of Ss. Silvestro e Martino ai Monti. He appointed him simultaneously to several Vatican congregations which resulted in many visits by Montini to Rome in the coming years.
+Although some cardinals seem to have viewed him as papabile, a likely candidate to become pope, and although he may consequently have received some votes in the 1958 conclave,[11] Montini was not yet a cardinal, which made him an unlikely choice. Angelo Roncalli was elected pope on 28 October 1958 and took the name John XXIII. On 17 November 1958, L'Osservatore Romano announced a consistory for the creation of new cardinals. Montini's name led the list.[12] When the pope raised Montini to the cardinalate on 15 December 1958, he became Cardinal-Priest of Ss. Silvestro e Martino ai Monti. He appointed him simultaneously to several Vatican congregations which resulted in many visits by Montini to Rome in the coming years.
 
 As a Cardinal, Montini journeyed to Africa (1962), where he visited Ghana, Sudan, Kenya, Congo, Rhodesia, South Africa, and Nigeria. After this journey, John XXIII called Montini to a private audience for a debriefing on his trip which lasted for several hours. In fifteen other trips he visited Brazil (1960) and the USA (1960), including New York City, Washington DC, Chicago, the University of Notre Dame in Indiana, Boston, Philadelphia, and Baltimore. While a cardinal, he usually vacationed in Engelberg Abbey, a secluded Benedictine monastery in Switzerland.
 
@@ -84,7 +82,7 @@ In 1968, with the motu proprio _Pontificalis Domus_, he discontinued most of the
 
 Completion of the Vatican Council
 
-CardinalBea.jpg, credited with ecumenical breakthroughs during the Second Vatican Council.]] Paul VI decided to continue Vatican II (canon law dictates that a council is suspended at the death of a pope), and brought it to completion in 1965. Faced with conflicting interpretations and controversies, he directed the implementation of its reform goals.
+, credited with ecumenical breakthroughs during the Second Vatican Council.]] Paul VI decided to continue Vatican II (canon law dictates that a council is suspended at the death of a pope), and brought it to completion in 1965. Faced with conflicting interpretations and controversies, he directed the implementation of its reform goals.
 
 Ecumenical orientation
 
@@ -103,9 +101,7 @@ The pope re-opened the Ecumenical Council on 29 September 1963 giving it four ke
 -   Advancing the unity of Christianity
 -   Dialogue with the world[21]
 
-MontiniKennedy.jpg, 2 July 1963]] He reminded the council fathers that only a few years earlier Pope Pius XII had issued the encyclical _Mystici corporis_ about the mystical body of Christ. He asked them not to repeat or create new dogmatic definitions but to explain in simple words how the Church sees itself. He thanked the representatives of other Christian communities for their attendance and asked for their forgiveness if the Catholic Church is guilty for the separation. He also reminded the Council Fathers that many bishops from the east could not attend because the governments in the East did not permit their journeys.
-
-Konzilseroeffnung_1.jpg
+, 2 July 1963]] He reminded the council fathers that only a few years earlier Pope Pius XII had issued the encyclical _Mystici corporis_ about the mystical body of Christ. He asked them not to repeat or create new dogmatic definitions but to explain in simple words how the Church sees itself. He thanked the representatives of other Christian communities for their attendance and asked for their forgiveness if the Catholic Church is guilty for the separation. He also reminded the Council Fathers that many bishops from the east could not attend because the governments in the East did not permit their journeys.
 
 Third and fourth sessions
 
@@ -121,7 +117,7 @@ According to Pope Paul VI, "the most characteristic and ultimate purpose of the 
 
 Church reforms
 
-AmbroseOfMilan.jpg, Pope Paul VI named Mary the "Mother of the Church" during Vatican II.]]
+, Pope Paul VI named Mary the "Mother of the Church" during Vatican II.]]
 
 Synod of Bishops
 
@@ -145,15 +141,15 @@ The Mass of Paul VI was also in Latin but approval was given for the use of vern
 
 Relations and dialogues
 
-PaulVIaudence_1973.jpg To Paul VI, a dialogue with all of humanity was essential not as an aim but as a means to find the truth. Dialogue according to Paul, is based on full equality of all participants. This equality is rooted in the common search for the truth He said: "Those who have the truth, are in a position as not having it, because they are forced to search for it every day in a deeper and more perfect way. Those who do not have it, but search for it with their whole heart, have already found it."
+To Paul VI, a dialogue with all of humanity was essential not as an aim but as a means to find the truth. Dialogue according to Paul, is based on full equality of all participants. This equality is rooted in the common search for the truth He said: "Those who have the truth, are in a position as not having it, because they are forced to search for it every day in a deeper and more perfect way. Those who do not have it, but search for it with their whole heart, have already found it."
 
 Dialogues
 
-Jafar_Shahidi_and_Pope_Paul_VI.jpg, an Iranian Shia cleric.]] In 1964, Paul VI created a Secretariat for non-Christians, later renamed the Pontifical Council for Interreligious Dialogue and a year later a new Secretariat (later Pontifical Council) for Dialogue with Non-Believers. This latter was in 1993 incorporated by Pope John Paul II in the Pontifical Council for Culture, which he had established in 1982. In 1971, Paul VI created a papal office for economic development and catastrophic assistance. To foster common bonds with all persons of good will, he decreed an annual peace day to be celebrated on January first of every year. Trying to improve the condition of Christians behind the Iron Curtain, Paul VI engaged in dialogue with Communist authorities at several levels, receiving Foreign Minister Andrei Gromyko and Chairman of the Presidium of the Supreme Soviet Nikolai Podgorny in 1966 and 1967 in the Vatican. The situation of the Church in Hungary, Poland and Romania, improved during his pontificate.
+, an Iranian Shia cleric.]] In 1964, Paul VI created a Secretariat for non-Christians, later renamed the Pontifical Council for Interreligious Dialogue and a year later a new Secretariat (later Pontifical Council) for Dialogue with Non-Believers. This latter was in 1993 incorporated by Pope John Paul II in the Pontifical Council for Culture, which he had established in 1982. In 1971, Paul VI created a papal office for economic development and catastrophic assistance. To foster common bonds with all persons of good will, he decreed an annual peace day to be celebrated on January first of every year. Trying to improve the condition of Christians behind the Iron Curtain, Paul VI engaged in dialogue with Communist authorities at several levels, receiving Foreign Minister Andrei Gromyko and Chairman of the Presidium of the Supreme Soviet Nikolai Podgorny in 1966 and 1967 in the Vatican. The situation of the Church in Hungary, Poland and Romania, improved during his pontificate.
 
 Foreign travels
 
-Foreign_trips_of_Paul_VI.png Relief_of_Paulus_VI_in_Nazareth.JPG Pope_Paul_VI's_Diamond_Ring_and_Cross.jpg Pope Paul VI became the first pope to visit six continents. He travelled more widely than any of his predecessors, earning the nickname "the Pilgrim Pope". He visited the Holy Land in 1964 and participated in Eucharistic Congresses in Bombay, India and Bogotá, Colombia. In 1966, he was twice denied permission to visit Poland for the 1,000th anniversary of the introduction of Christianity in Poland. In 1967, he visited the shrine of Our Lady of Fátima in Portugal on the fiftieth anniversary of the apparitions there. He undertook a pastoral visit to Uganda in 1969,[35] the first by a reigning pope to Africa.[36] On 27 November 1970 he was the target of an assassination attempt at Manila International Airport in the Philippines. He was only lightly stabbed by Benjamín Mendoza y Amor Flores,[37][38] who was subdued by the pope's personal bodyguard and travel organiser, Monsignor Paul Marcinkus.[39] Pope Paul VI became the first reigning pontiff to visit the Western hemisphere when he addressed the United Nations in New York City in October 1965. As the U.S. involvement in the Vietnam War was escalating, Paul VI pleaded for peace before the UN:
+Pope Paul VI became the first pope to visit six continents. He travelled more widely than any of his predecessors, earning the nickname "the Pilgrim Pope". He visited the Holy Land in 1964 and participated in Eucharistic Congresses in Bombay, India and Bogotá, Colombia. In 1966, he was twice denied permission to visit Poland for the 1,000th anniversary of the introduction of Christianity in Poland. In 1967, he visited the shrine of Our Lady of Fátima in Portugal on the fiftieth anniversary of the apparitions there. He undertook a pastoral visit to Uganda in 1969,[35] the first by a reigning pope to Africa.[36] On 27 November 1970 he was the target of an assassination attempt at Manila International Airport in the Philippines. He was only lightly stabbed by Benjamín Mendoza y Amor Flores,[37][38] who was subdued by the pope's personal bodyguard and travel organiser, Monsignor Paul Marcinkus.[39] Pope Paul VI became the first reigning pontiff to visit the Western hemisphere when he addressed the United Nations in New York City in October 1965. As the U.S. involvement in the Vietnam War was escalating, Paul VI pleaded for peace before the UN:
 
 Attempted assassination of Paul VI
 
@@ -169,7 +165,7 @@ Theology
 
 Mariology
 
-Paolo_VI_e_Luciani.jpg (later John Paul I) in Venice]] Pope Paul VI made extensive contributions to Mariology (theological teaching and devotions) during his pontificate. He attempted to present the Marian teachings of the Church in view of her new ecumenical orientation. In his inaugural encyclical _Ecclesiam suam_ (section below), the pope called Mary the ideal of Christian perfection. He regards "devotion to the Mother of God as of paramount importance in living the life of the Gospel."[43]
+(later John Paul I) in Venice]] Pope Paul VI made extensive contributions to Mariology (theological teaching and devotions) during his pontificate. He attempted to present the Marian teachings of the Church in view of her new ecumenical orientation. In his inaugural encyclical _Ecclesiam suam_ (section below), the pope called Mary the ideal of Christian perfection. He regards "devotion to the Mother of God as of paramount importance in living the life of the Gospel."[43]
 
 Encyclicals
 
@@ -191,7 +187,7 @@ _Christi Matri_
 
 _Populorum progressio_
 
-Paulaudenece1977.jpg _Populorum progressio_, released on 26 March 1967, dealt with the topic of "the development of peoples" and that the economy of the world should serve mankind and not just the few. It touches on a variety of traditional principles of Catholic social teaching: the right to a just wage; the right to security of employment; the right to fair and reasonable working conditions; the right to join a union and strike as a last resort; and the universal destination of resources and goods.
+_Populorum progressio_, released on 26 March 1967, dealt with the topic of "the development of peoples" and that the economy of the world should serve mankind and not just the few. It touches on a variety of traditional principles of Catholic social teaching: the right to a just wage; the right to security of employment; the right to fair and reasonable working conditions; the right to join a union and strike as a last resort; and the universal destination of resources and goods.
 
 In addition, _Populorum progressio_ opines that real peace in the world is conditional on justice. He repeats his demands expressed in Bombay in 1964 for a large-scale World Development Organization, as a matter of international justice and peace. He rejected notions to instigate revolution and force in changing economic conditions.[47]
 
@@ -219,7 +215,7 @@ After the Council, Paul VI contributed in two ways to the continued growth of ec
 
 Orthodox
 
-Paulus_VI_and_Patriarch_Athenagoras_1964_Paraguay_stamp.jpg Paul VI visited the Orthodox Patriarchs of Jerusalem and Constantinople in 1964 and 1967. He was the first pope since the ninth century to visit the East, labelling the Eastern Churches as sister Churches.[68] He was also the first pope in centuries to meet the heads of various Eastern Orthodox faiths. Notably, his meeting with Ecumenical Patriarch Athenagoras I in 1964 in Jerusalem led to rescinding the excommunications of the Great Schism, which took place in 1054.[69]
+Paul VI visited the Orthodox Patriarchs of Jerusalem and Constantinople in 1964 and 1967. He was the first pope since the ninth century to visit the East, labelling the Eastern Churches as sister Churches.[68] He was also the first pope in centuries to meet the heads of various Eastern Orthodox faiths. Notably, his meeting with Ecumenical Patriarch Athenagoras I in 1964 in Jerusalem led to rescinding the excommunications of the Great Schism, which took place in 1054.[69]
 
 This was a significant step towards restoring communion between Rome and Constantinople. It produced the Catholic-Orthodox Joint declaration of 1965, which was read out on 7 December 1965, simultaneously at a public meeting of the Second Vatican Council in Rome and at a special ceremony in Istanbul. The declaration did not end the schism, but showed a desire for greater reconciliation between the two churches.[70] In May 1973, the Coptic Patriarch Shenouda III of Alexandria visited the Vatican, where he met three times with Pope Paul VI. A common declaration and a joint Creed issued after the visit proclaimed unity in a number of theological issues,[71] though also that other theological differences "since the year 451" "cannot be ignored" while both traditions work to a greater unity.[72]
 
@@ -243,7 +239,7 @@ Paul VI beatified a total of 38 individuals in his pontificate and he canonised 
 
 Consistories
 
-Papa_Paolo_VI_consegna_l'anello_cardinalizio_a_Joseph_Ratzinger.jpg) a cardinal in 1977.]] Pope Paul VI held six consistories between 1965 and 1977 that raised 143 men to the cardinalate in his fifteen years as pope:
+) a cardinal in 1977.]] Pope Paul VI held six consistories between 1965 and 1977 that raised 143 men to the cardinalate in his fifteen years as pope:
 
 -   22 February 1965, 27 cardinals
 -   26 June 1967, 27 cardinals
@@ -271,15 +267,13 @@ The pope discussed business from his bed about 48 hours after the operation with
 
 Death of Aldo Moro
 
-Aldo_Moro_br.jpg, photographed during his kidnapping by the Red Brigades in 1978.]] Negativos_2934.jpg On 16 March 1978, his friend from FUCI student days, former Italian prime minister Aldo Moro, a Christian Democratic politician, was kidnapped by the Red Brigades, which kept the world and the pope in suspense for 55 days.[99] On 20 April, Moro directly appealed to the pope to intervene as Pope Pius XII had intervened in the case of Professor Giuliano Vassalli in the same situation.[100] The eighty-year-old Paul VI wrote a letter to the Red Brigades:
+, photographed during his kidnapping by the Red Brigades in 1978.]] On 16 March 1978, his friend from FUCI student days, former Italian prime minister Aldo Moro, a Christian Democratic politician, was kidnapped by the Red Brigades, which kept the world and the pope in suspense for 55 days.[99] On 20 April, Moro directly appealed to the pope to intervene as Pope Pius XII had intervened in the case of Professor Giuliano Vassalli in the same situation.[100] The eighty-year-old Paul VI wrote a letter to the Red Brigades:
 
 Some in the Italian government accused the pope of treating the Red Brigades too kindly. However, he continued looking for ways to pay ransom for Moro – but to no avail. On 9 May, the bullet-riddled body of Aldo Moro was found in a car in Rome.[101] Pope Paul VI later celebrated his State Funeral Mass.
 
 Final days
 
-Pope_Paul_VI_Tiara_2.jpg, now in the Crypt of the Basilica of the National Shrine of the Immaculate Conception]]Pope Paul VI left the Vatican to go to the papal summer residence, Castel Gandolfo, on 14 July 1978, visiting on the way the tomb of Cardinal Giuseppe Pizzardo,[102] who had introduced him to the Vatican half a century earlier. Although he was sick, he agreed to see the new Italian President Sandro Pertini for over two hours. In the evening he watched a Western on TV, happy only when he saw "horses, the most beautiful animals that God had created."[103] He had breathing problems and needed oxygen. On Sunday, at the Feast of the Transfiguration, he was tired, but wanted to say the Angelus. He was neither able nor permitted to do so and instead stayed in bed, his temperature rising.
-
-SanctusPaulusVI.jpg
+, now in the Crypt of the Basilica of the National Shrine of the Immaculate Conception]]Pope Paul VI left the Vatican to go to the papal summer residence, Castel Gandolfo, on 14 July 1978, visiting on the way the tomb of Cardinal Giuseppe Pizzardo,[102] who had introduced him to the Vatican half a century earlier. Although he was sick, he agreed to see the new Italian President Sandro Pertini for over two hours. In the evening he watched a Western on TV, happy only when he saw "horses, the most beautiful animals that God had created."[103] He had breathing problems and needed oxygen. On Sunday, at the Feast of the Transfiguration, he was tired, but wanted to say the Angelus. He was neither able nor permitted to do so and instead stayed in bed, his temperature rising.
 
 Death
 
@@ -294,7 +288,7 @@ His confessor, the Jesuit Paolo Dezza, said that "this pope is a man of great jo
 
 Canonization
 
-Beatification_of_Paul_VI.jpg Ceremonia_de_Canonización_de_Monseñor_Romero._(44398703435).jpg The diocesan process for beatification for Paul VI - titled then as a Servant of God - opened in Rome on 11 May 1993 under Pope John Paul II after the "nihil obstat" ("nothing against") was declared the previous 18 March. Cardinal Camillo Ruini opened the diocesan process in Rome. The title of Servant of God is the first of four steps toward possible canonisation. The diocesan process concluded its business on 18 March 1998.[107]
+The diocesan process for beatification for Paul VI - titled then as a Servant of God - opened in Rome on 11 May 1993 under Pope John Paul II after the "nihil obstat" ("nothing against") was declared the previous 18 March. Cardinal Camillo Ruini opened the diocesan process in Rome. The title of Servant of God is the first of four steps toward possible canonisation. The diocesan process concluded its business on 18 March 1998.[107]
 
 On 20 December 2012, Pope Benedict XVI, in an audience with the Cardinal Prefect of the Congregation for the Causes of Saints Angelo Amato, declared that the late pontiff had lived a life of heroic virtue, which means that he could be called "Venerable".[108]
 
@@ -309,7 +303,7 @@ Legacy and controversies
 
 The pontificate of Paul VI continued the opening and internationalisation of the Church started under Pius XII. He implemented the reforms of John XXIII and Vatican II. Yet, unlike these popes, Paul VI faced criticism throughout his papacy from both traditionalists and liberals for steering a middle course during Vatican II and during the implementation of its reforms thereafter. He expressed a desire for peace during the Vietnam War.[126]
 
-On basic Church teachings, the pope was unwavering. On the tenth anniversary of _Humanae vitae_, he reconfirmed this teaching.[127] In his style and methodology, he was a disciple of Pius XII, whom he deeply revered.[128] He suffered for the attacks on Pius XII for his alleged silences during the Holocaust.[129] Pope Paul VI was said to have been less intellectually gifted than his predecessors: he was not credited with an encyclopaedic memory, nor a gift for languages, nor the brilliant writing style of Pius XII, nor did he have the charisma and outpouring love, sense of humor and human warmth of John XXIII. He took on himself the unfinished reform work of these two popes, bringing them diligently with great humility and common sense and without much fanfare to conclusion. In doing so, Paul VI saw himself following in the footsteps of the Apostle Paul, torn to several directions as Saint Paul, who said, "I am attracted to two sides at once, because the Cross always divides." Paul6statue.jpg GER_Bundesverdienstkreuz_7_Grosskreuz.svg.]]
+On basic Church teachings, the pope was unwavering. On the tenth anniversary of _Humanae vitae_, he reconfirmed this teaching.[127] In his style and methodology, he was a disciple of Pius XII, whom he deeply revered.[128] He suffered for the attacks on Pius XII for his alleged silences during the Holocaust.[129] Pope Paul VI was said to have been less intellectually gifted than his predecessors: he was not credited with an encyclopaedic memory, nor a gift for languages, nor the brilliant writing style of Pius XII, nor did he have the charisma and outpouring love, sense of humor and human warmth of John XXIII. He took on himself the unfinished reform work of these two popes, bringing them diligently with great humility and common sense and without much fanfare to conclusion. In doing so, Paul VI saw himself following in the footsteps of the Apostle Paul, torn to several directions as Saint Paul, who said, "I am attracted to two sides at once, because the Cross always divides." .]]
 
 Unlike his predecessors and successors, Paul VI refused to excommunicate opponents. He admonished but did not punish those with other views. The new theological freedoms which he fostered resulted in a pluralism of opinions and uncertainties among the faithful. New demands were voiced, which were taboo at the Council, the reintegration of divorced Catholics, the sacramental character of the confession, and the role of women in the Church and its ministries. Conservatives complained, that "women wanted to be priests, priests wanted to get married, bishops became regional popes and theologians claimed absolute teaching authority. Protestants claimed equality, homosexuals and divorce called for full acceptance." Changes such as the reorientation of the liturgy, alterations to the ordinary of the Mass, alterations to the liturgical calendar in the motu proprio _Mysterii Paschalis_, and the relocation of the tabernacle were controversial among some Catholics.
 

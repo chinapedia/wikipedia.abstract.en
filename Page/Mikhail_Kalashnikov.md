@@ -9,11 +9,11 @@ Kalashnikov was born in Kurya, Altai Governorate, Russian SFSR,[4] now Altai Kra
 
 After completing seventh grade, Mikhail, with his stepfather's permission, left his family and returned to Kurya, hitchhiking for nearly 1,000 km. In Kurya he found a job in mechanics at a tractor station and developed a passion for weaponry. In 1938, he was conscripted into the Red Army. Because of his small size[15] and engineering skills he was assigned as a tank mechanic, and later became a tank commander. While training, he made his first inventions, which concerned not only tanks, but also small weapons, and was personally awarded a wrist watch by Georgy Zhukov.[16] Kalashnikov served on the T-34s of the 24th Tank Regiment, 108th Tank Division[17] stationed in Stryi[18] before the regiment retreated after the Battle of Brody in June 1941. He was wounded in combat in the Battle of Bryansk in October 1941[19] and hospitalised until April 1942.[20] In the last few months of being in hospital, he overheard some fellow soldiers complaining about the Soviet rifles at the time and this is when he came up with the idea of making a new rifle which later became the AK47.[21]
 
-AK-SMG-1942.jpg Seeing the drawbacks of the standard infantry weapons at the time, he decided to construct a new rifle for the Soviet military. During this time Kalashnikov began designing a submachine gun.[22] Although his first submachine gun design was not accepted into service, his talent as a designer was noticed.[23] From 1942 onwards Kalashnikov was assigned to the Central Scientific-developmental Firing Range for Rifle Firearms of the Chief Artillery Directorate of the Red Army.[24]
+Seeing the drawbacks of the standard infantry weapons at the time, he decided to construct a new rifle for the Soviet military. During this time Kalashnikov began designing a submachine gun.[22] Although his first submachine gun design was not accepted into service, his talent as a designer was noticed.[23] From 1942 onwards Kalashnikov was assigned to the Central Scientific-developmental Firing Range for Rifle Firearms of the Chief Artillery Directorate of the Red Army.[24]
 
 In 1944, he designed a gas-operated carbine for the new 7.62×39mm cartridge. This weapon, influenced by the M1 Garand rifle, lost out to the new Simonov carbine which would be eventually adopted as the SKS; but it became a basis for his entry in an assault rifle competition in 1946.[25]
 
-AK-47_type_II_Part_DM-ST-89-01131.jpg His winning entry, the "Mikhtim" (so named by taking the first letters of his name and patronymic, Mikhail Timofeyevich) became the prototype for the development of a family of prototype rifles.[26] This process culminated in 1947, when he designed the AK-47 (standing for _Avtomat Kalashnikova model 1947_). In 1949, the AK-47 became the standard issue assault rifle of the Soviet Army and went on to become Kalashnikov's most famous invention.[27] While developing his first assault rifles, Kalashnikov competed with two much more experienced weapon designers, Vasily Degtyaryov and Georgy Shpagin, who both accepted the superiority of the AK-47. Kalashnikov named Alexandr Zaitsev and Vladimir Deikin as his major collaborators during those years.[28]
+His winning entry, the "Mikhtim" (so named by taking the first letters of his name and patronymic, Mikhail Timofeyevich) became the prototype for the development of a family of prototype rifles.[26] This process culminated in 1947, when he designed the AK-47 (standing for _Avtomat Kalashnikova model 1947_). In 1949, the AK-47 became the standard issue assault rifle of the Soviet Army and went on to become Kalashnikov's most famous invention.[27] While developing his first assault rifles, Kalashnikov competed with two much more experienced weapon designers, Vasily Degtyaryov and Georgy Shpagin, who both accepted the superiority of the AK-47. Kalashnikov named Alexandr Zaitsev and Vladimir Deikin as his major collaborators during those years.[28]
 
 
 Later career
@@ -53,7 +53,7 @@ The title to the AK-47 trademark belonged to Mikhail Kalashnikov's family until 
 
 Weapon designs
 
-MEDAL_OF_SMALL_ARMS_KONSTRUKTOR_MT_Kalashnikov.jpg was introduced in 2008 and named after Kalashnikov.[61]]] During his career, Kalashnikov designed about 150 models of small weapons.[62] The most famous of them are:
+was introduced in 2008 and named after Kalashnikov.[61]]] During his career, Kalashnikov designed about 150 models of small weapons.[62] The most famous of them are:
 
 -   AK-47
 -   AKM
@@ -69,7 +69,7 @@ MEDAL_OF_SMALL_ARMS_KONSTRUKTOR_MT_Kalashnikov.jpg was introduced in 2008 and na
 
 Awards and tribute
 
-Stamp_of_Russia_2014_No_1883_Mikhail_Kalashnikov.png]] _Incorporates information from the corresponding article in the Russian Wikipedia_
+]] _Incorporates information from the corresponding article in the Russian Wikipedia_
 
 -   Recipients of the Order of St. Andrew[63]
 -   In 1998, he was awarded an Order of Saint Andrew the Protoclete

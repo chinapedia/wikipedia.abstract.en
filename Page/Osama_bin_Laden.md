@@ -115,7 +115,7 @@ In Afghanistan, bin Laden and al-Qaeda raised money from "donors from the days o
 
 Early attacks and aid for attacks
 
-It is believed that the first bombing attack involving bin Laden was the December 29, 1992, bombing of the Gold Mihor Hotel in Aden in which two people were killed.[141] Hamid_Mir_interviewing_Osama_bin_Laden.jpg interviewing Osama bin Laden in Kabul in 1997. The AKS-74U in the background is a symbol of the mujadin's victory over the Soviets, since these weapons were captured from Spetsnaz forces.]]
+It is believed that the first bombing attack involving bin Laden was the December 29, 1992, bombing of the Gold Mihor Hotel in Aden in which two people were killed.[141] interviewing Osama bin Laden in Kabul in 1997. The AKS-74U in the background is a symbol of the mujadin's victory over the Soviets, since these weapons were captured from Spetsnaz forces.]]
 
 It was after this bombing that al-Qaeda was reported to have developed its justification for the killing of innocent people. According to a fatwa issued by Mamdouh Mahmud Salim, the killing of someone standing near the enemy is justified because any innocent bystander will find a proper reward in death, going to _Jannah_ (Paradise) if they were good Muslims and to _Jahannam_ (hell) if they were bad or non-believers.[142] The fatwa was issued to al-Qaeda members but not the general public.
 
@@ -147,7 +147,7 @@ During his trial at the International Criminal Tribunal for the Former Yugoslavi
 
 September 11 attacks
 
-UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg crashes into the South Tower]]
+crashes into the South Tower]]
 
 After his initial denial,[170]*
 
@@ -156,8 +156,6 @@ After his initial denial,[170]*
 The Federal Bureau of Investigation has stated that classified[174] evidence linking al-Qaeda and bin Laden to the September 11 attacks is clear and irrefutable.[175] The UK Government reached a similar conclusion regarding al-Qaeda and Osama bin Laden's culpability for the September 11 attacks, although the government report noted that the evidence presented is not necessarily sufficient to prosecute the case.[176]
 
 Bin Laden initially denied involvement in the attacks. On September 16, 2001, bin Laden read a statement later broadcast by Qatar's Al Jazeera satellite channel denying responsibility for the attack.[177] In a videotape recovered by U.S. forces in November 2001 in Jalalabad, bin Laden was seen discussing the attack with Khaled al-Harbi in a way that indicates foreknowledge.[178] The tape was broadcast on various news networks on December 13, 2001. The merits of this translation have been disputed. Arabist Dr. Abdel El M. Husseini stated: "This translation is very problematic. At the most important places where it is held to prove the guilt of bin Laden, it is not identical with the Arabic."[179]
-
-2001-12-13-frame-grab-DoD.jpg
 
 In the 2004 video, bin Laden abandoned his denials without retracting past statements. In it he said he had personally directed the nineteen hijackers.[180][181] In the 18-minute tape, played on Al-Jazeera, four days before the American presidential election, bin Laden accused U.S. President George W. Bush of negligence in the hijacking of the planes on September 11.[182] According to the tapes, bin Laden claimed he was inspired to destroy the World Trade Center after watching the destruction of towers in Lebanon by Israel during the 1982 Lebanon War.[183]
 
@@ -179,7 +177,7 @@ On June 15, 2011, federal prosecutors of the United States of America officially
 
 Pursuit by the United States
 
-Reward_for_Osama_bin_Laden,_Ayman_al_Zawahiri_--_AFD290B.jpg]]
+]]
 
 Clinton administration
 
@@ -189,7 +187,7 @@ In 2000, before the September 11 attacks, Paul Bremer characterized the Clinton 
 
 Bush administration
 
-Delta_force_GIs_disguised_as_Afghan_civilians,_November_2001_C.jpg GIs disguised as Afghan civilians, while they searched for bin Laden in November 2001]] Immediately after the September 11 attacks, U.S. government officials named bin Laden and the al-Qaeda organization as the prime suspects and offered a reward of $25 million for information leading to his capture or death.[205][206] On July 13, 2007, the Senate voted to double the reward to $50 million though the amount was never changed.[207] The Airline Pilots Association and the Air Transport Association offered an additional $2 million reward.[208]
+GIs disguised as Afghan civilians, while they searched for bin Laden in November 2001]] Immediately after the September 11 attacks, U.S. government officials named bin Laden and the al-Qaeda organization as the prime suspects and offered a reward of $25 million for information leading to his capture or death.[205][206] On July 13, 2007, the Senate voted to double the reward to $50 million though the amount was never changed.[207] The Airline Pilots Association and the Air Transport Association offered an additional $2 million reward.[208]
 
 According to _The Washington Post_, the U.S. government concluded that Osama bin Laden was present during the Battle of Tora Bora, Afghanistan in late 2001, and according to civilian and military officials with first-hand knowledge, failure by the United States to commit enough U.S. ground troops to hunt him led to his escape and was the gravest failure by the United States in the war against al-Qaeda. Intelligence officials assembled what they believed to be decisive evidence, from contemporary and subsequent interrogations and intercepted communications, that bin Laden began the Battle of Tora Bora inside the cave complex along Afghanistan's mountainous eastern border.[209]
 
@@ -199,7 +197,7 @@ U.S. and Afghanistan forces raided the mountain caves in Tora Bora between Augus
 
 Obama administration
 
-Obama_and_Biden_await_updates_on_bin_Laden.jpg, in which members of the Obama administration track the mission that killed bin Laden]]
+, in which members of the Obama administration track the mission that killed bin Laden]]
 
 On October 7, 2008, in the second presidential debate, on foreign policy, then-presidential candidate Barack Obama pledged, "We will kill bin Laden. We will crush al-Qaeda. That has to be our biggest national security priority."[212] Upon being elected, then President-elect Obama expressed his plans to "renew U.S. commitment to finding al-Qaeda leader Osama bin Laden, according to his national security advisers" in an effort to ratchet up the hunt for the terrorist.[213] President Obama rejected the Bush administration's policy on bin Laden that "conflated all terror threats from al-Qaeda to Hamas to Hezbollah," replacing it with "a covert, laserlike focus on al-Qaeda and its spawn."[214][215]
 
@@ -234,7 +232,7 @@ In April 2011, various intelligence outlets were able to pinpoint bin Laden's su
 
 Death and aftermath
 
-Osama_Bin_Laden_marked_deceased_on_FBI_Ten_Most_Wanted_List_May_3_2011.jpg on May 3, 2011]]
+on May 3, 2011]]
 
 Osama bin Laden was killed in Abbottabad, Pakistan, on May 2, 2011, shortly after 1:00 AM local time (4:00 PM eastern time)[243][244][245] by a United States military special operations unit.
 

@@ -22,7 +22,7 @@ Upon the death of Pepin the Short in 768, his kingdom was left to his sons Charl
 
 Italy
 
-Corona_ferrea,_Monza,_Tesoro_del_Duomo.jpg Carloman died in December 771, and when Charlemagne seized his brother's territory, Carloman's widow, Gerberga, and their two sons fled for refuge to the Lombard court at Pavia. Desiderius made overtures to Pope Adrian, requesting that he acknowledge Carloman's sons' right to succeed their father, and crown them as Kings of the Franks.[9] With Charlemagne occupied with a campaign against the Saxons, Desiderius saw an opportunity to take all of Italy. He invaded the Duchy of the Pentapolis which had been given to the papacy in 756 by Charlemagne's father. Desiderius's support of the claims of Carloman's sons posed a potential challenge to the legitimacy of Charlemagne's possession of his brother's lands. In 773, he cut short a military campaign near Paderborn, crossed the Alps, and laid siege to Pavia. In exchange for their lives, the Lombards surrendered and Desiderius was sent to the abbey of Corbie. Charlemagne assumed the title "King of the Lombards".
+Carloman died in December 771, and when Charlemagne seized his brother's territory, Carloman's widow, Gerberga, and their two sons fled for refuge to the Lombard court at Pavia. Desiderius made overtures to Pope Adrian, requesting that he acknowledge Carloman's sons' right to succeed their father, and crown them as Kings of the Franks.[9] With Charlemagne occupied with a campaign against the Saxons, Desiderius saw an opportunity to take all of Italy. He invaded the Duchy of the Pentapolis which had been given to the papacy in 756 by Charlemagne's father. Desiderius's support of the claims of Carloman's sons posed a potential challenge to the legitimacy of Charlemagne's possession of his brother's lands. In 773, he cut short a military campaign near Paderborn, crossed the Alps, and laid siege to Pavia. In exchange for their lives, the Lombards surrendered and Desiderius was sent to the abbey of Corbie. Charlemagne assumed the title "King of the Lombards".
 
 Franks
 
@@ -35,7 +35,7 @@ Regarding the Muslims, he maintained the prohibition of Pope Zachary of selling 
 
 Legacy
 
-Papa_Hadrianus_I.jpg, Rome]] An epitaph written by Charlemagne in verse, in which he styles Adrian "father", is still to be seen at the door of the Vatican basilica.[14] Adrian restored some of the ancient aqueducts of Rome and rebuilt the churches of Santa Maria in Cosmedin, decorated by Greek monks fleeing from the iconoclastal persecutions, and of San Marco in Rome. At the time of his death at the age of 95, his was the longest pontificate in Church history until it was surpassed by the 24-year papacy of Pius VI in the late 18th century. Only three other popes – Pius IX, Leo XIII, and John Paul II – have reigned for longer periods since.
+, Rome]] An epitaph written by Charlemagne in verse, in which he styles Adrian "father", is still to be seen at the door of the Vatican basilica.[14] Adrian restored some of the ancient aqueducts of Rome and rebuilt the churches of Santa Maria in Cosmedin, decorated by Greek monks fleeing from the iconoclastal persecutions, and of San Marco in Rome. At the time of his death at the age of 95, his was the longest pontificate in Church history until it was surpassed by the 24-year papacy of Pius VI in the late 18th century. Only three other popes – Pius IX, Leo XIII, and John Paul II – have reigned for longer periods since.
 
 
 See also

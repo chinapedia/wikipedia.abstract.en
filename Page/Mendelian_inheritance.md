@@ -1,4 +1,4 @@
-Gregor_Mendel.png, the Moravian Augustinian monk who founded the modern science of genetics]] MENDELIAN INHERITANCE is a type of biological inheritance that follows the laws originally proposed by Gregor Mendel in 1865 and 1866 and re-discovered in 1900. These laws were initially controversial. When Mendel's theories were integrated with the Boveri–Sutton chromosome theory of inheritance by Thomas Hunt Morgan in 1915, they became the core of classical genetics. Ronald Fisher combined these ideas with the theory of natural selection in his 1930 book _The Genetical Theory of Natural Selection_, putting evolution onto a mathematical footing and forming the basis for population genetics within the modern evolutionary synthesis.[1]
+, the Moravian Augustinian monk who founded the modern science of genetics]] MENDELIAN INHERITANCE is a type of biological inheritance that follows the laws originally proposed by Gregor Mendel in 1865 and 1866 and re-discovered in 1900. These laws were initially controversial. When Mendel's theories were integrated with the Boveri–Sutton chromosome theory of inheritance by Thomas Hunt Morgan in 1915, they became the core of classical genetics. Ronald Fisher combined these ideas with the theory of natural selection in his 1930 book _The Genetical Theory of Natural Selection_, putting evolution onto a mathematical footing and forming the basis for population genetics within the modern evolutionary synthesis.[1]
 
 
 History
@@ -14,7 +14,7 @@ Mendel's findings allowed scientists such as Fisher and J.B.S. Haldane to predic
 
 Mendel's laws
 
-Punnett_square_mendel_flowers.svg for one of Mendel's pea plant experiments – self-fertilization of the F1 generation]]
+for one of Mendel's pea plant experiments – self-fertilization of the F1 generation]]
 
 Mendel discovered that, when he crossed purebred white flower and purple flower pea plants (the parental or P generation), the result was not a blend. Rather than being a mix of the two, the offspring (known as the F₁ generation) was purple-flowered. When Mendel self-fertilized the F₁ generation pea plants, he obtained a purple flower to white flower ratio in the F₂ generation of 3 to 1. The results of this cross are tabulated in the Punnett square to the right.
 
@@ -36,13 +36,11 @@ In the pea plant example above, the capital "B" represents the dominant allele f
 
 Law of Segregation of genes (the "First Law")
 
-Mendelian_inheritance.svg The Law of Segregation states that every individual organism contains two alleles for each trait, and that these alleles segregate (separate) during meiosis such that each gamete contains only one of the alleles.[7] An offspring thus receives a pair of alleles for a trait by inheriting homologous chromosomes from the parent organisms: one allele for each trait from each parent.[8]
+The Law of Segregation states that every individual organism contains two alleles for each trait, and that these alleles segregate (separate) during meiosis such that each gamete contains only one of the alleles.[7] An offspring thus receives a pair of alleles for a trait by inheriting homologous chromosomes from the parent organisms: one allele for each trait from each parent.[8]
 
 Molecular proof of this principle was subsequently found through observation of meiosis by two scientists independently, the German botanist Oscar Hertwig in 1876, and the Belgian zoologist Edouard Van Beneden in 1883. Paternal and maternal chromosomes get separated in meiosis and the alleles with the traits of a character are segregated into two different gametes. Each parent contributes a single gamete, and thus a single, randomly successful allele copy to their offspring and fertilization.
 
 Law of Independent Assortment (the "Second Law")
-
-Independent_assortment.svg Dihybrid_cross.svg
 
 The Law of Independent Assortment states that alleles for separate traits are passed independently of one another.[9] That is, the biological selection of an allele for one trait has nothing to do with the selection of an allele for any other trait. Mendel found support for this law in his dihybrid cross experiments (Fig. 1). In his monohybrid crosses, an idealized 3:1 ratio between dominant and recessive phenotypes resulted. In dihybrid crosses, however, he found a 9:3:3:1 ratios (Fig. 2). This shows that each of the two alleles is inherited independently from the other, with a 3:1 phenotypic ratio for each.
 
@@ -65,8 +63,6 @@ A Mendelian trait is one that is controlled by a single locus in an inheritance 
 
 
 Non-Mendelian inheritance
-
-Mendelian_inheritance_intermed.svg
 
 Mendel explained inheritance in terms of discrete factors—genes—that are passed along from generation to generation according to the rules of probability. Mendel's laws are valid for all sexually reproducing organisms, including garden peas and human beings. However, Mendel's laws stop short of explaining some patterns of genetic inheritance. For most sexually reproducing organisms, cases where Mendel's laws can strictly account for the patterns of inheritance are relatively rare. Often, the inheritance patterns are more complex.
 

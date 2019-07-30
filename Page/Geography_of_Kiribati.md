@@ -13,7 +13,7 @@ The Phoenix Islands Protected Area constitutes 11.34% of Kiribati’s Exclusive 
 
 Area
 
-Kiribati_map_LOC.jpg GilbertIslands.jpg The total land area mass total . It includes three island groups - Gilbert Islands, Line Islands, Phoenix Islands. Most of the land on these islands is less than two metres above sea level.[1] Including the amount of water, the total water and land area is 2485 square miles. A 1989 United Nations report identified Kiribati as one of the countries that could completely disappear in the 21st century if steps are not taken to address global climate change.
+The total land area mass total . It includes three island groups - Gilbert Islands, Line Islands, Phoenix Islands. Most of the land on these islands is less than two metres above sea level.[1] Including the amount of water, the total water and land area is 2485 square miles. A 1989 United Nations report identified Kiribati as one of the countries that could completely disappear in the 21st century if steps are not taken to address global climate change.
 
 The coastline of the islands total 1,143 km (710 mi) in length. Kiribati can claim a sea territory of 12 nautical miles (22 km, 14 mi) with an Exclusive Economic Zone of 22 nm (370 km, 230 mi). The islands are relatively flat. The highest point is 265 feet above sea level.
 

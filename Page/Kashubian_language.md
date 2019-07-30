@@ -2,8 +2,6 @@ KASHUBIAN or CASSUBIAN (Kashubian: __, __, __; , __, __) is a West Slavic lect b
 
 In Poland, it has been an officially recognized ethnic-minority language since 2005.[4] Approximately 108,000 people use mainly Kashubian at home.[5][6] It is the only remnant of the Pomeranian language. It is close to standard Polish with influence from Low German and the extinct Polabian and Old Prussian.[7]
 
-Kashubian_language_and_nationality.png
-
 
 Origin
 
@@ -55,7 +53,7 @@ Throughout the communist regime in Poland, Kashubian and Polish greatly suffered
 
 Dialects
 
-Kaszuby_-_dialekty_wg_F.Lorentza.png Friedrich Lorentz wrote in the early 20th century that there were three Kashubian dialects. These include the
+Friedrich Lorentz wrote in the early 20th century that there were three Kashubian dialects. These include the
 
 -   Northern Kashubian dialect
 -   Middle Kashubian dialect
@@ -251,7 +249,7 @@ Samples
 
 -   The Lord's Prayer in Kashubian:
 
-{{lang in Kashubian]]
+in Kashubian]]
 
     Òjcze nasz, jaczi jes w niebie, niech sã swiãcy Twòje miono, niech przińdze Twòje królestwò, niech mdze Twòja wòlô jakno w niebie tak téż na zemi. Chleba najégò pòwszednégò dôj nóm dzysô i òdpùscë nóm naje winë, jak i më òdpùszcziwómë naszim winowajcóm. A nie dopùscë na nas pòkùszeniô, ale nas zbawi òde złégò. Amen.[42]
 

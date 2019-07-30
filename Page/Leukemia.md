@@ -21,8 +21,6 @@ Classification
 
 : Four major kinds of leukemia
 
-Acute_leukemia_1.webm
-
 General classification
 
 Clinically and pathologically, leukemia is subdivided into a variety of large groups. The first division is between its _acute_ and _chronic_ forms:
@@ -56,7 +54,7 @@ Pre-leukemia
 
 Signs and symptoms
 
-Symptoms_of_leukemia.png]]
+]]
 
 The most common symptoms in children are easy bruising, pale skin, fever, and an enlarged spleen or liver.[44]
 
@@ -106,7 +104,7 @@ Whether or not non-ionizing radiation causes leukemia has been studied for sever
 
 Diagnosis
 
-Leukemia-_SAG.jpgs in leukemia.]] Diagnosis is usually based on repeated complete blood counts and a bone marrow examination following observations of the symptoms. Sometimes, blood tests may not show that a person has leukemia, especially in the early stages of the disease or during remission. A lymph node biopsy can be performed to diagnose certain types of leukemia in certain situations.
+s in leukemia.]] Diagnosis is usually based on repeated complete blood counts and a bone marrow examination following observations of the symptoms. Sometimes, blood tests may not show that a person has leukemia, especially in the early stages of the disease or during remission. A lymph node biopsy can be performed to diagnose certain types of leukemia in certain situations.
 
 Following diagnosis, blood chemistry tests can be used to determine the degree of liver and kidney damage or the effects of chemotherapy on the person. When concerns arise about other damages due to leukemia, doctors may use an X-ray, MRI, or ultrasound. These can potentially show leukemia's effects on such body parts as bones (X-ray), the brain (MRI), or the kidneys, spleen, and liver (ultrasound). CT scans can be used to check lymph nodes in the chest, though this is uncommon.
 
@@ -186,7 +184,7 @@ Outcomes depend on whether it is acute or chronic, the specific abnormal white b
 
 Epidemiology
 
-Leukaemia_world_map-Deaths_per_million_persons-WHO2012.svg In 2010, globally, approximately 281,500 people died of leukemia.[92] In 2000, approximately 256,000 children and adults around the world developed a form of leukemia, and 209,000 died from it.[93] This represents about 3% of the almost seven million deaths due to cancer that year, and about 0.35% of all deaths from any cause.[94] Of the sixteen separate sites the body compared, leukemia was the 12th most common class of neoplastic disease, and the 11th most common cause of cancer-related death.[95] Leukemia occurs more commonly in the developed world.[96]
+In 2010, globally, approximately 281,500 people died of leukemia.[92] In 2000, approximately 256,000 children and adults around the world developed a form of leukemia, and 209,000 died from it.[93] This represents about 3% of the almost seven million deaths due to cancer that year, and about 0.35% of all deaths from any cause.[94] Of the sixteen separate sites the body compared, leukemia was the 12th most common class of neoplastic disease, and the 11th most common cause of cancer-related death.[95] Leukemia occurs more commonly in the developed world.[96]
 
 United States
 
@@ -205,7 +203,7 @@ Overall, leukaemia is the eleventh most common cancer in the UK (around 8,600 pe
 
 History
 
-Rudolf_Virchow.jpg Leukemia was first described by anatomist and surgeon Alfred-Armand-Louis-Marie Velpeau in 1827. A more complete description was given by pathologist Rudolf Virchow in 1845. Around ten years after Virchow's findings, pathologist Franz Ernst Christian Neumann found that the bone marrow of a deceased person with leukemia was colored "dirty green-yellow" as opposed to the normal red. This finding allowed Neumann to conclude that a bone marrow problem was responsible for the abnormal blood of people with leukemia.
+Leukemia was first described by anatomist and surgeon Alfred-Armand-Louis-Marie Velpeau in 1827. A more complete description was given by pathologist Rudolf Virchow in 1845. Around ten years after Virchow's findings, pathologist Franz Ernst Christian Neumann found that the bone marrow of a deceased person with leukemia was colored "dirty green-yellow" as opposed to the normal red. This finding allowed Neumann to conclude that a bone marrow problem was responsible for the abnormal blood of people with leukemia.
 
 By 1900 leukemia was viewed as a family of diseases as opposed to a single disease. By 1947 Boston pathologist Sidney Farber believed from past experiments that aminopterin, a folic acid mimic, could potentially cure leukemia in children. The majority of the children with ALL who were tested showed signs of improvement in their bone marrow, but none of them were actually cured. This, however, led to further experiments.
 

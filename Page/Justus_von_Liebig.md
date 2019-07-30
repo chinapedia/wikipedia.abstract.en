@@ -3,8 +3,6 @@ JUSTUS FREIHERR VON LIEBIG[1] (12 May 1803 – 18 April 1873 ) was a German scie
 
 Early life and education
 
-Young-Justus-Liebig.jpg
-
 Justus Liebig was born in Darmstadt into the middle-class family of Johann Georg Liebig and Maria Caroline Möser in early May 1803.[7] His father was a drysalter and hardware merchant who compounded and sold paints, varnishes, and pigments, which he developed in his own workshop.[8] From childhood, Justus was fascinated with chemistry.
 
 At the age of 13, Liebig lived through the year without a summer, when the majority of food crops in the Northern Hemisphere were destroyed by a volcanic winter.[9] Germany was among the hardest-hit nations in the global famine that ensued, and the experience is said to have shaped Liebig's later work. Due in part to Liebig's innovations in fertilizers and agriculture, the 1816 famine became known as "the last great subsistence crisis in the Western world".[10]
@@ -16,7 +14,7 @@ Liebig left Erlangen in March 1822, in part because of his involvement with the 
 
 Research and development
 
-Justus_von_Liebig_by_Trautschold.jpg, _circa_ 1846]]
+, _circa_ 1846]]
 
 Liebig left Paris to return to Darmstadt in April 1824. On 26 May 1824, at the age of 21 and with Humboldt's recommendation, Liebig became a professor _extraordinarius_ at the University of Giessen.[16] Liebig's appointment was part of an attempt to modernize the University of Giessen and attract more students. He received a small stipend, without laboratory funding or access to facilities.[17]
 
@@ -26,7 +24,7 @@ Liebig married Henriette "Jettchen" Moldenhauer (1807–1881), the daughter of a
 
 Transforming chemistry education
 
-Justus_von_Liebigs_Labor,_1840.jpg Liebig_Company_Trading_Card_Ad_01.12.006_front.tif Trading Card, 1929]]
+Trading Card, 1929]]
 
 Liebig and several associates proposed to create an institute for pharmacy and manufacturing within the university.[20] The Senate, however, uncompromisingly rejected their idea, stating that training "apothecaries, soapmakers, beer-brewers, dyers and vinegar-distillers" was not the university's task.[21] As of 17 December 1825, they ruled that any such institution would have to be a private venture. This decision actually worked to Liebig's advantage. As an independent venture, he could ignore university rules and accept both matriculated and unmatriculated students.[22] Liebig's institute was widely advertised in pharmaceutical journals, and opened in 1826.[23] Its classes in practical chemistry and laboratory procedures for chemical analysis were taught in addition to Liebig's formal courses at the university.
 
@@ -38,8 +36,6 @@ In 1833, Liebig was able to convince chancellor Justin von Linde to include the 
 
 Instrumentation
 
-Liebig_Manuel_1838_RGNb10348372.03.planche_II.tif Fünfkugelapparat.jpg Liebig_condensers-two_1.jpg
-
 A significant challenge facing 19th-century organic chemists was the lack of instruments and methods of analysis to support accurate, replicable analyses of organic materials. Many chemists worked on the problem of organic analysis, including French Joseph Louis Gay-Lussac and Swedish Jöns Jacob Berzelius, before Liebig developed his version of an apparatus for determining the carbon, hydrogen, and oxygen content of organic substances in 1830. It involved an ingenious array of five glass bulbs, called a _Kaliapparat_ to trap the oxidation product of the carbon in the sample, following combustion of the sample. Before reaching the _Kaliapparat_, the combustion gases were conducted through a tube of hygroscopic calcium chloride, which absorbed and retained the oxidation product of the hydrogen of the sample, namely water vapor. Next, in the _Kaliapparat_, carbon dioxide was absorbed in a potassium hydroxide solution in the three lower bulbs, and used to measure the weight of carbon in the sample. For any substance consisting only of carbon, hydrogen, and oxygen, the percentage of oxygen was found by subtracting the carbon and hydrogen percentages from 100%; the remainder must be the percentage of oxygen. A charcoal furnace (a sheet-steel tray in which the combustion tube was laid) was used for the combustion.[31] Weighing carbon and hydrogen directly, rather than estimating them volumetrically, greatly increased the method's accuracy of measurement.[32] Liebig's assistant Carl Ettling perfected glass-blowing techniques for producing the _Kaliapparat_, and demonstrated them to visitors.[33] Liebig's kaliapparat simplified the technique of quantitative organic analysis and rendered it routine.[34] Brock suggests that the availability of a superior technical apparatus was one reason why Liebig was able to attract so many students to his laboratory.[35] His method of combustion analysis was used pharmaceutically, and certainly made possible many contributions to organic, agricultural and biological chemistry.[36][37]
 
 Liebig also popularized use of a counter-current water-cooling system for distillation, still referred to as a Liebig condenser.[38] Liebig himself attributed the vapor condensation device to German pharmacist Johann Friedrich August Gottling, who had made improvements in 1794 to a design discovered independently by German chemist Christian Ehrenfried Weigel in 1771, by French scientist, P. J. Poisonnier in 1779, and by Finnish chemist Johan Gadolin in 1791.[39]
@@ -48,7 +44,7 @@ Although it was not widely adopted until after Liebig's death, when safety legis
 
 Organic chemistry
 
-PSM_V74_D619_Liebig_laboratory_at_giessen.png Gießen,_Liebig-Museum,_the_pharmaceutical_laboratory.JPG One of Liebig's frequent collaborators was Friedrich Wöhler. They met in 1826 in Frankfurt, after independently reporting on the preparation of two substances, cyanic acid and fulminic acid, that apparently had the same composition, but very different characteristics. The silver fulminate investigated by Liebig, was explosive, whereas the silver cyanate found by Wöhler, was not. After reviewing the disputed analyses together, they agreed that both were valid. The discovery of these and other substances led Jöns Jacob Berzelius to suggest the idea of isomers, substances that are defined not simply by the number and kind of atoms in the molecule, but also by the arrangement of those atoms.[41][42][43]
+One of Liebig's frequent collaborators was Friedrich Wöhler. They met in 1826 in Frankfurt, after independently reporting on the preparation of two substances, cyanic acid and fulminic acid, that apparently had the same composition, but very different characteristics. The silver fulminate investigated by Liebig, was explosive, whereas the silver cyanate found by Wöhler, was not. After reviewing the disputed analyses together, they agreed that both were valid. The discovery of these and other substances led Jöns Jacob Berzelius to suggest the idea of isomers, substances that are defined not simply by the number and kind of atoms in the molecule, but also by the arrangement of those atoms.[41][42][43]
 
 In 1832, Liebig and Friedrich Wöhler published an investigation of the oil of bitter almonds. They transformed pure oil into several halogenated compounds, which were further transformed in other reactions.[44] Throughout these transformations, "a single compound" (which they named benzoyl) "preserves its nature and composition unchanged in nearly all its associations with other bodies."[45] Their experiments proved that a group of carbon, hydrogen, and oxygen atoms can behave like an element, take the place of an element, and can be exchanged for elements in chemical compounds. This laid the foundation for the doctrine of compound radicals, which can be seen as an early step in the development of structural chemistry.[46]
 
@@ -72,7 +68,7 @@ Liebig reaffirmed the importance of De Saussures' findings, and used them to cri
 
 In his theory of mineral nutrients, Liebig identified the chemical elements of nitrogen (N), phosphorus (P), and potassium (K) as essential to plant growth. He reported that plants acquire carbon (C) and hydrogen (H) from the atmosphere and from water (H₂O). In addition to emphasizing the importance of minerals in the soil, he argued that plants feed on nitrogen compounds derived from the air. This assertion was a source of contention for many years, and turned out to be true for legumes, but not for other plants.[64]
 
-Minimum-Tonne.svg Liebig also popularized Carl Sprengel's "theorem of minimum" (known as the law of the minimum), stating that plant growth is not determined by the total resources available, but by the scarcest available resource. A plant's development is limited by the one essential mineral that is in the relatively shortest supply. This concept of limitation can be visualized as "Liebig's barrel", a metaphorical barrel in which each stave represents a different element. A nutrient stave that is shorter than the others will cause the liquid contained in the barrel to spill out at that level. This is a qualitative version of the principles used for determining the application of fertilizer in modern agriculture.
+Liebig also popularized Carl Sprengel's "theorem of minimum" (known as the law of the minimum), stating that plant growth is not determined by the total resources available, but by the scarcest available resource. A plant's development is limited by the one essential mineral that is in the relatively shortest supply. This concept of limitation can be visualized as "Liebig's barrel", a metaphorical barrel in which each stave represents a different element. A nutrient stave that is shorter than the others will cause the liquid contained in the barrel to spill out at that level. This is a qualitative version of the principles used for determining the application of fertilizer in modern agriculture.
 
 _Organic Chemistry_ was not intended as a guide to practical agriculture. Liebig's lack of experience in practical applications, and differences between editions of the book, fueled considerable criticism. Nonetheless, Liebig's writings had a profound impact on agriculture, spurring experiment and theoretical debate in Germany, England, and France.[65]
 
@@ -103,8 +99,6 @@ Liebig drew upon his work in plant nutrition and plant and animal metabolism to 
 Liebig was acclaimed in _The Lancet_ for revealing "the true principles of cookery", and physicians promoted "rational diets" based on his ideas. Well-known British cookery writer Eliza Acton responded to Liebig by modifying the cookery techniques in the third edition of her _Modern Cookery for Private Families_, and subtitling the edition accordingly.[83] Liebig's idea that "searing meat seals in the juices", though still widely believed, is not true.[84]
 
 Liebig's Extract of Meat Company
-
-Liebig_Company_Memorial_Trading_Card_01.12.001_front.tif Liebig-Muenchen.jpg
 
 Building on his theories of the nutritional value of meat fluids, and seeking an inexpensive nutrition source for Europe's poor, Liebig developed a formula for producing beef extract. The details were published in 1847 so that "the benefit of it should ... be placed at the command of as large a number of persons as possible by the extension of the manufacture, and consequently a reduction in the cost".[85]
 
@@ -140,7 +134,7 @@ Liebig also played a direct role in the German publication of John Stuart Mill's
 
 Later life
 
-Justus_Freiherr_von_Liebig.jpg]]
+]]
 
 In 1852, Liebig accepted an appointment from King Maximilian II of Bavaria to the Ludwig Maximilian University of Munich. He also became scientific advisor to King Maxilimian II, who hoped to transform the University of Munich into a center for scientific research and development.[103] In part, Liebig accepted the post because, at age 50, he was finding supervision of large numbers of laboratory students increasingly difficult. His new accommodations in Munich reflected this shift in focus. They included a comfortable house suitable for extensive entertaining, a small laboratory, and a newly built lecture theatre capable of holding 300 people with a demonstration laboratory at the front. There, he gave lectures to the university and fortnightly to the public. In his position as a promoter of science, Liebig was appointed president of the Bavarian Academy of Sciences and Humanities, becoming perpetual president of the Royal Bavarian Academy of Sciences in 1858.[104]
 
@@ -151,7 +145,7 @@ Liebig died in Munich in 1873, and is buried in the Alter Südfriedhof in Munich
 
 Awards and honors
 
-DBP_1953_166_Liebig.jpg Grab_von_Justus_von_Liebig.jpg Liebig was elected a member of the Royal Swedish Academy of Sciences in 1837.
+Liebig was elected a member of the Royal Swedish Academy of Sciences in 1837.
 
 He became a first-class member of the Ludwig Order, founded by Ludwig I, and awarded by Ludwig II on 24 July 1837.[107]
 

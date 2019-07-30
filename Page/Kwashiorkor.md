@@ -12,7 +12,7 @@ In dry climates, marasmus is the more frequent disease associated with malnutrit
 
 Causes
 
-Protein-energy_malnutrition_world_map_-_DALY_-_WHO2002.svgs per 100,000 inhabitants for protein–energy malnutrition in 2002.[7] ]] Kwashiorkor is a severe form of malnutrition, caused by a deficiency in dietary protein. The extreme lack of protein causes an osmotic imbalance in the gastro-intestinal system causing swelling of the gut diagnosed as an edema or retention of water.[8]
+s per 100,000 inhabitants for protein–energy malnutrition in 2002.[7] ]] Kwashiorkor is a severe form of malnutrition, caused by a deficiency in dietary protein. The extreme lack of protein causes an osmotic imbalance in the gastro-intestinal system causing swelling of the gut diagnosed as an edema or retention of water.[8]
 
 Extreme fluid retention observed in individuals suffering from kwashiorkor is a direct result of irregularities in the lymphatic system and an indication of capillary exchange. The lymphatic system serves three major purposes: fluid recovery, immunity, and lipid absorption. Victims of kwashiorkor commonly exhibit reduced ability to recover fluids, immune system failure, and low lipid absorption, all of which result from a state of severe undernourishment. Fluid recovery in the lymphatic system is accomplished by re-absorption of water and proteins which are then returned to the blood. Compromised fluid recovery results in the characteristic belly distension observed in highly malnourished children.[9]
 

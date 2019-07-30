@@ -1,4 +1,4 @@
-Octobre_1793,_supplice_de_9_émigrés.jpg, 1793]] Heads_on_pikes.jpg]]
+, 1793]] ]]
 
 The REIGN OF TERROR, or THE TERROR (), refers to a period during the French Revolution after the First French Republic was established.
 
@@ -9,7 +9,7 @@ Between June 1793 and the end of July 1794, there were 16,594 official death sen
 
 Barère and Robespierre glorify "terror"
 
-Barere.jpg by Jean-Louis Laneuville]]
+by Jean-Louis Laneuville]]
 
 There was a sense of emergency among leading politicians in France in the summer of 1793 between the widespread civil war and counter-revolution. Bertrand Barère exclaimed on 5 September 1793 in the Convention: "Let's make terror the order of the day!"[8][9] They were determined to avoid street violence such as the September Massacres of 1792 by taking violence into their own hands as an instrument of government.[10]
 
@@ -47,7 +47,7 @@ Many long-held rights and powers were stripped from the church and given to the 
 
 Major events during the Terror
 
-Robespierre_crop.jpg, member of the Committee of Public Safety]]
+, member of the Committee of Public Safety]]
 
 On 10 March 1793 the National Convention created the Revolutionary Tribunal. Among those charged by the tribunal, about half were acquitted (though the number dropped to about a quarter after the enactment of the Law of 22 Prairial). In March rebellion broke out in the Vendée in response to mass conscription, which developed into a civil war that lasted until after the Terror.
 
@@ -61,13 +61,13 @@ On 13 July the assassination of Jean-Paul Marat – a Jacobin leader and journal
 
 On 23 August, the National Convention decreed the levée en masse, "The young men shall fight; the married man shall forge arms and transport provisions; the women shall make tents and clothes and shall serve in the hospitals; the children shall turn all lint into linen; the old men shall betake themselves to the public square in order to arouse the courage of the warriors and preach hatred of kings and the unity of the Republic."
 
-La_fournée_des_Girondins_10-11-1793.jpg]] On 9 September, the convention established paramilitary forces, the "revolutionary armies", to force farmers to surrender grain demanded by the government. On 17 September, the Law of Suspects was passed, which authorized the imprisonment of vaguely defined "suspects". This created a mass overflow in the prison systems. On 29 September, the convention extended price fixing from grain and bread to other essential goods, and also fixed wages.
+]] On 9 September, the convention established paramilitary forces, the "revolutionary armies", to force farmers to surrender grain demanded by the government. On 17 September, the Law of Suspects was passed, which authorized the imprisonment of vaguely defined "suspects". This created a mass overflow in the prison systems. On 29 September, the convention extended price fixing from grain and bread to other essential goods, and also fixed wages.
 
 On 10 October, the Convention decreed that "the provisional government shall be revolutionary until peace." On 24 October, the French Republican Calendar was enacted. The trial of the Girondins started on the same day and they were executed on 31 October.
 
 Anti-clerical sentiments increased during 1793 and a campaign of dechristianization occurred. On 10 November (20 Brumaire Year II of the French Republican Calendar), the Hébertists organized a Festival of Reason.
 
-Olympe_gouges.jpg, feminist writer close to the Girondins]] On 14 Frimaire (5 December 1793) was passed the Law of Frimaire, which gave the central government more control over the actions of the representatives on mission.
+, feminist writer close to the Girondins]] On 14 Frimaire (5 December 1793) was passed the Law of Frimaire, which gave the central government more control over the actions of the representatives on mission.
 
 On 16 Pluviôse (4 February 1794), the National Convention decreed that slavery be abolished in all of France and French colonies.
 
@@ -82,7 +82,7 @@ On 8 Messidor (26 June), the French army won the Battle of Fleurus, which marked
 
 Thermidorian Reaction
 
-Execution_robespierre,_saint_just....jpg]]
+]]
 
 The fall of Robespierre was brought about by a combination of those who wanted more power for the Committee of Public Safety (and a more radical policy than he was willing to allow) and the moderates who completely opposed the revolutionary government. They had, between them, made the Law of 22 Prairial one of the charges against him, so that, after his fall, to advocate terror would be seen as adopting the policy of a convicted enemy of the republic, putting the advocate's own head at risk. Between his arrest and his execution, Robespierre may have tried to commit suicide by shooting himself, although the bullet wound he sustained, whatever its origin, only shattered his jaw. Alternatively, he may have been shot by the gendarme Merda. The great confusion that arose during the storming of the municipal Hall of Paris, where Robespierre and his friends had found refuge, makes it impossible to be sure of the wound's origin. In any case, Robespierre was guillotined the next day.[45]
 

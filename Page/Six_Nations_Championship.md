@@ -14,7 +14,7 @@ Following the relative success of the Tier 2 nations in the 2015 Rugby World Cup
 
 Format
 
-Tournoi2.svg Played annually, the format of the Championship is simple: each team plays every other team once (making a total of 15 matches), with home ground advantage alternating from one year to the next. Prior to the 2017 tournament, two points were awarded for a win, one for a draw and none for a loss. Unlike many other rugby union competitions the bonus point system had not previously been used.
+Played annually, the format of the Championship is simple: each team plays every other team once (making a total of 15 matches), with home ground advantage alternating from one year to the next. Prior to the 2017 tournament, two points were awarded for a win, one for a draw and none for a loss. Unlike many other rugby union competitions the bonus point system had not previously been used.
 
 On 30 November 2016, the Six Nations Committee announced that a bonus point system would be trialled in the 2017 Championship. The system is similar to the one used in most rugby championships (0 points for a loss, 2 for a draw, 4 for a win, 1 for scoring four or more tries in a match, and 1 for losing by 7 points or fewer), with the only difference being that a Grand Slam winner will be given 3 extra points to ensure they finish top of the table.
 
@@ -27,7 +27,7 @@ Trophies
 
 Championship Trophy
 
-Ireland_2009_6_nations_triple_crown.jpg The winners of the Six Nations are presented with the Championship Trophy.[6] This was originally conceived by the Earl of Westmorland, and was first presented to the winners of the 1993 championship, France. It is a sterling silver trophy, designed by James Brent-Ward and made by a team of eight silversmiths from the London firm William Comyns.
+The winners of the Six Nations are presented with the Championship Trophy.[6] This was originally conceived by the Earl of Westmorland, and was first presented to the winners of the 1993 championship, France. It is a sterling silver trophy, designed by James Brent-Ward and made by a team of eight silversmiths from the London firm William Comyns.
 
 It has 15 side panels representing the 15 members of the team and with three handles to represent the three officials (referee and two touch judges). The cup has a capacity of 3.75 litres – sufficient for five bottles of champagne. Within the mahogany base is a concealed drawer which contains six alternative finials, each a silver replica of one of the team emblems, which can be screwed on the detachable lid.
 
@@ -55,7 +55,7 @@ The following trophies are contested within the main competition, mostly as long
 
 Venues
 
-Aviva_Stadium_from_North_Stand.jpg, Dublin]]
+, Dublin]]
 
 As of the 2019 competition, Six Nations matches are held in the following stadia:
 

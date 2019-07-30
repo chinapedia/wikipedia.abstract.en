@@ -1,4 +1,4 @@
-Netherlands.jpg The Netherlands is both a very densely populated and a highly developed country, in which transport is a key factor of the economy. Correspondingly it has a very dense and modern infrastructure, facilitating transport with road, rail, air and water networks. In its Global Competitiveness Report for 2014-2015, the World Economic Forum ranked the Dutch transport infrastructure fourth in the world.[1]
+The Netherlands is both a very densely populated and a highly developed country, in which transport is a key factor of the economy. Correspondingly it has a very dense and modern infrastructure, facilitating transport with road, rail, air and water networks. In its Global Competitiveness Report for 2014-2015, the World Economic Forum ranked the Dutch transport infrastructure fourth in the world.[1]
 
 With a total road network of 139,000 km, including 3,530 km of expressways,[2] the Netherlands has one of the densest road networks in the world; much denser than Germany and France, but still not as dense as Belgium.[3] The Dutch also have a well developed railway network, that connects most major towns and cities, as well as a comprehensive dedicated cycling infrastructure, featuring some 35,000 km of track physically segregated from motorised traffic.[4]
 The port of Rotterdam is the world's largest seaport outside East Asia, and by far the largest port of Europe.[5] It connects with its hinterland in Germany, Switzerland and France through rivers Rhine and Meuse. Two thirds of all inland water freight shipping within the EU, and 40% of containers, pass through the Netherlands.[6]
@@ -9,11 +9,11 @@ In 2010, 1.65 billion tons of goods traffic was registered, half of which moved 
 
 Road transport
 
-Ridderkerk_interchange.jpg interchange]] Traffic_congestion_at_A325.JPG (Arnhem)]] With 139,000 km of public roads,[13] the Netherlands has one of the most dense road networks in the world - much denser than Germany and France, but still not as dense as Belgium.[14]{{#tag:ref|Japan has the same per country road density,[15] but the Netherlands' area includes 18.4% inland water, compared to 0.8% for Japan. |group="nb"}} In 2013, 5,191 km were national roads, 7,778 km were provincial roads, and 125,230 km were municipality and other roads.[16]
+interchange]] (Arnhem)]] With 139,000 km of public roads,[13] the Netherlands has one of the most dense road networks in the world - much denser than Germany and France, but still not as dense as Belgium.[14]{{#tag:ref|Japan has the same per country road density,[15] but the Netherlands' area includes 18.4% inland water, compared to 0.8% for Japan. |group="nb"}} In 2013, 5,191 km were national roads, 7,778 km were provincial roads, and 125,230 km were municipality and other roads.[16]
 Dutch roads include 3,530 km of motorways and expressways,[17] and with a motorway density of 64 kilometres per 1,000 km², the country also has one of the densest motorway networks in the world.[18]
 The Netherlands' main highway network (_hoofdwegennet_) - comparable to Britain's network of trunk roads - consists of most of its 5,200 km of national roads, supplemented with the most prominent provincial roads. Although only about 2,500 km are fully constructed to motorway standards,[19] much of the remainder are also expressways for fast motor vehicles only.
 
-DRIP_op_A13_voor_Kleinpolderplein.jpg]] Mobility on Dutch roads has grown continuously since the 1950s and now exceeds 200 billion km travelled per year,[20] three quarters of which are done by car,[21] meaning that while Dutch roads are numerous, they are also used more intensely than in almost any other country.[22] Car ownership in the Netherlands is high but not exceptional, and slightly lower than in surrounding countries.[23] Goods vehicles account for 20% of total traffic.[24]
+]] Mobility on Dutch roads has grown continuously since the 1950s and now exceeds 200 billion km travelled per year,[20] three quarters of which are done by car,[21] meaning that while Dutch roads are numerous, they are also used more intensely than in almost any other country.[22] Car ownership in the Netherlands is high but not exceptional, and slightly lower than in surrounding countries.[23] Goods vehicles account for 20% of total traffic.[24]
 
 The busiest Dutch motorway is the A13 between The Hague and Rotterdam, with a traffic volume of 140,000 motor vehicles per day.[25] The widest Dutch motorway is the A15/A16 just south of Rotterdam with 16 lanes in a 4+4+4+4 setup.
 
@@ -22,7 +22,7 @@ Traffic congestion is common in the Netherlands. The high population density gen
 
 Cycling
 
-Fietsstraat.jpg (cycle street) where cyclists have priority and cars are "guests" and must yield.]] Cycling is a ubiquitous mode of transport in the Netherlands. 27% of all trips are by bicycle[27] - the highest modal share of any country in the world.[28] Moreover: 36% of the Dutch list the bike as their most frequent mode of transport on a typical day.[29]{{#tag:ref| Up from 31% naming the bike their main mode of transport for daily activities in 2011.[30][31]|group="nb"}} Some 85% of the people own at least one bicycle. All in all the Dutch are estimated to have at least 18 million functioning bikes,[32][33] which makes more than one per capita, and much more than the 11.3 million motor vehicles registered on the road.[34] Almost as many passenger kilometres are covered by bicycle as by train.[35]
+(cycle street) where cyclists have priority and cars are "guests" and must yield.]] Cycling is a ubiquitous mode of transport in the Netherlands. 27% of all trips are by bicycle[27] - the highest modal share of any country in the world.[28] Moreover: 36% of the Dutch list the bike as their most frequent mode of transport on a typical day.[29]{{#tag:ref| Up from 31% naming the bike their main mode of transport for daily activities in 2011.[30][31]|group="nb"}} Some 85% of the people own at least one bicycle. All in all the Dutch are estimated to have at least 18 million functioning bikes,[32][33] which makes more than one per capita, and much more than the 11.3 million motor vehicles registered on the road.[34] Almost as many passenger kilometres are covered by bicycle as by train.[35]
 
 Cycling infrastructure is comprehensive, and public policy, urban planning & laws are bike-friendly. Most roads except for motorways support cyclists, and bikeways are clearly signposted, well maintained and well lit. Dedicated cycle tracks are common on busy roads - some 35,000 km of track has been physically segregated from motor traffic,[36] equal to a quarter of the country's entire road network. Busy junctions often give priority to cyclists, or they are equipped with cycle-specific traffic lights.
 There are large bicycle parking facilities, particularly in city centres and at train stations. Since the start of the 21st century, parking spaces for 450,000 bicycles were built and modernized at over 400 train stations, and Dutch railways organizations ProRail and NS are calling for an expansion by another 250,000 by 2027.[37] Already half of all Dutch train travelers cycle to the railway station, amounting to half a million cyclists daily.[38]
@@ -32,8 +32,6 @@ Helmets are neither officially encouraged nor frequently worn.
 
 
 Rail transport
-
-Railroads_Netherlands_2013.svg NS_p4.JPG
 
 Most distance travelled on Dutch public transport goes by rail.[40] Like many other European countries, the Netherlands has a dense railway network, totalling between and of track,[41][42] or 3,013 _route_ km, three quarters of which has been electrified.[43] The network is mostly focused on passenger transport [44] and connects almost all major towns and cities, counting just over 400 train stations,[45] more than there are municipalities in the Netherlands. The national rail infrastructure is managed by public task company ProRail, and a number of different operators have concessions to run their trains. ProRail also coordinates the totality of scheduling and proper meshing of the Dutch railway services.[46]
 
@@ -52,8 +50,8 @@ In the long term, significant capacity gains could only be achieved by adding mo
 
 Public transport
 
-Waterbus.jpg For longer distances the main public transport in the Netherlands is the train. Long-distance buses are limited to a few missing railway connections. Regional / rural public transport, serving small(er) towns is by bus. Local / urban public transport is also generally by bus, but the three biggest cities (Amsterdam, Rotterdam and The Hague) all have extensive tram systems, that in each case also connect with adjacent cities in their respective urban agglomerations.{{#tag:ref|There were many more town tram systems in the past, but most shut down before or just after WW II. |group="nb"}}
-In addition, Amsterdam and Rotterdam also have several metro lines. Amsterdam's subway was expanded by a new _"North-South"_ line in July 2018, after 15 years of construction, costing € 3.1 Billion. Lijn19.4055.Leidsenhage.2013.jpg]] Additionally, Rotterdam, The Hague and suburbs in between are connected by a light rail system called RandstadRail, and one line of the Rotterdam metro system connects all the way to The Hague Central station. Utrecht has its own light rail system, called fast tram, connecting the city with adjacent Nieuwegein and IJsselstein. Arnhem is the only Dutch town that still operates a trolleybus system.
+For longer distances the main public transport in the Netherlands is the train. Long-distance buses are limited to a few missing railway connections. Regional / rural public transport, serving small(er) towns is by bus. Local / urban public transport is also generally by bus, but the three biggest cities (Amsterdam, Rotterdam and The Hague) all have extensive tram systems, that in each case also connect with adjacent cities in their respective urban agglomerations.{{#tag:ref|There were many more town tram systems in the past, but most shut down before or just after WW II. |group="nb"}}
+In addition, Amsterdam and Rotterdam also have several metro lines. Amsterdam's subway was expanded by a new _"North-South"_ line in July 2018, after 15 years of construction, costing € 3.1 Billion. ]] Additionally, Rotterdam, The Hague and suburbs in between are connected by a light rail system called RandstadRail, and one line of the Rotterdam metro system connects all the way to The Hague Central station. Utrecht has its own light rail system, called fast tram, connecting the city with adjacent Nieuwegein and IJsselstein. Arnhem is the only Dutch town that still operates a trolleybus system.
 
 Due to the large amount of waterways in the Netherlands, not every road connection has been bridged, and there are still some ferries in operation. In the Rotterdam and _-Drecht_ towns region, a water bus public transport service operates as well.[59]
 
@@ -62,7 +60,7 @@ Public transport operators are both the public transport companies run by the bi
 
 Air travel
 
-Cirrus_SR20_Private,_AMS_Amsterdam_(Schiphol),_Netherlands_PP1151308482.jpg Amsterdam Airport Schiphol, located southwest of Amsterdam, is the main international airport in the Netherlands, and the third busiest airport in Europe in terms of passengers. Moreover, offering direct flights to 326 destination airports around the planet, Schiphol is the world's second best connected airport.
+Amsterdam Airport Schiphol, located southwest of Amsterdam, is the main international airport in the Netherlands, and the third busiest airport in Europe in terms of passengers. Moreover, offering direct flights to 326 destination airports around the planet, Schiphol is the world's second best connected airport.
 
 Schiphol is the primary hub for Dutch flag carrier airline KLM and its regional affiliate KLM Cityhopper, as well as for other Dutch airlines Corendon Dutch Airlines, Martinair, Transavia and TUI Airlines Netherlands.{{#tag:ref|formerly _Arkefly_ and shortened to _Arke_ in the corporate design to match the travel agency)[60]|group="nb"}} The airport also serves as a European hub for Delta Air Lines[61], and as a base for EasyJet and Vueling airlines.
 According to Schiphol's preliminary data, the airport handled 63.6 million passengers in 2016, a growth of 9.1% over 2015.[62] Opened in 1916 as a military airbase, Schiphol saw 479,000 flights in 2016, and airfreight tonnage increased by 1.8% to 1.7 million metric tons.[63]
@@ -76,7 +74,7 @@ In 2015 Dutch airports handled passengers at a ratio of 47 million on European f
 
 Water transport
 
-Hanjin_Capetown_IMO_9054224_p1_Port_of_Rotterdam_21March2009.jpg in the Rotterdam port]] Cosco_Guangzhou_p03_approaching_Port_of_Rotterdam,_Holland_19-Apr-2007.jpg
+in the Rotterdam port]]
 
 Ports and Harbours
 
@@ -86,8 +84,6 @@ Through the rivers Rhine and Meuse, Rotterdam has excellent access to its hinter
 Three Dutch ports are deepwater ports, that can handle fully laden Panamax ships: Rotterdam, Zeeland Seaports and the port of IJmuiden. Besides Rotterdam, Amsterdam and Zeeland, the ports of Moerdijk and Vlaardingen also support container liner shipping.[74] Other notable port cities are Dordrecht, Haarlem and Den Helder, as well as Groningen, which controls the seaports of Delfzijl and Eemshaven. Den Helder is home to the Netherlands' main naval base.
 
 Merchant marine
-
-Vaarwegen.PNG
 
 -   _total:_ 563 ships (1,000 GT or over) totaling 4,035,899 GT/
 -   _ships by type:_ bulk 3, cargo 343, chemical tanker 41, combination bulk 2, container 56, liquified gas 20, livestock carrier 1, multi-functional large load carrier 8, passenger 8, petroleum tanker 25, refrigerated cargo 32, roll-on/roll-off 16, short-sea passenger 3, specialized tanker 5 (1999 est.)

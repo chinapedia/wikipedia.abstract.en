@@ -1,4 +1,4 @@
-TopHatORGI.jpg'' (1935)]] MUSICAL FILM is a film genre in which songs sung by the characters are interwoven into the narrative, sometimes accompanied by dancing.
+'' (1935)]] MUSICAL FILM is a film genre in which songs sung by the characters are interwoven into the narrative, sometimes accompanied by dancing.
 
 The songs usually advance the plot or develop the film's characters, but in some cases, they serve merely as breaks in the storyline, often as elaborate "production numbers."
 
@@ -7,7 +7,7 @@ The musical film was a natural development of the stage musical after the emerge
 
 Hollywood musical films
 
-WIZARD_OF_OZ_ORIGINAL_POSTER_1939.jpg is considered one of the greatest movies of all time.]]
+is considered one of the greatest movies of all time.]]
 
 The classical sound era
 
@@ -35,7 +35,7 @@ Similarly, The vaudevillian comedian W. C. Fields joined forces with the comic a
 
 The Freed Unit
 
-Rock_Rock_Rock(1956).ogv'', a musical movie from 1956]]During the late 1940s and into the early 1950s, a production unit at Metro-Goldwyn-Mayer headed by Arthur Freed made the transition from old-fashioned musical films, whose formula had become repetitive, to something new. (However, they also produced Technicolor remakes of such musicals as _Show Boat_, which had previously been filmed in the 1930s.) In 1939, Freed was hired as associate producer for the film _Babes in Arms_. Starting in 1944 with _Meet Me in St. Louis_, the Freed Unit worked somewhat independently of its own studio to produce some of the most popular and well-known examples of the genre. The products of this unit include _Easter Parade_ (1948), _On the Town_ (1949), _An American in Paris_ (1951), _Singin' in the Rain_ (1952), _The Band Wagon_ (1953) and _Gigi_ (1958). Non-Freed musicals from the studio included _Seven Brides for Seven Brothers_ in 1954 and _High Society_ in 1956, and the studio distributed Samuel Goldwyn's _Guys and Dolls_ in 1955.
+'', a musical movie from 1956]]During the late 1940s and into the early 1950s, a production unit at Metro-Goldwyn-Mayer headed by Arthur Freed made the transition from old-fashioned musical films, whose formula had become repetitive, to something new. (However, they also produced Technicolor remakes of such musicals as _Show Boat_, which had previously been filmed in the 1930s.) In 1939, Freed was hired as associate producer for the film _Babes in Arms_. Starting in 1944 with _Meet Me in St. Louis_, the Freed Unit worked somewhat independently of its own studio to produce some of the most popular and well-known examples of the genre. The products of this unit include _Easter Parade_ (1948), _On the Town_ (1949), _An American in Paris_ (1951), _Singin' in the Rain_ (1952), _The Band Wagon_ (1953) and _Gigi_ (1958). Non-Freed musicals from the studio included _Seven Brides for Seven Brothers_ in 1954 and _High Society_ in 1956, and the studio distributed Samuel Goldwyn's _Guys and Dolls_ in 1955.
 
 This era saw musical stars become household names, including Judy Garland, Gene Kelly, Ann Miller, Donald O'Connor, Cyd Charisse, Mickey Rooney, Vera-Ellen, Jane Powell, Howard Keel, and Kathryn Grayson. Fred Astaire was also coaxed out of retirement for _Easter Parade_ and made a permanent comeback.
 
@@ -84,11 +84,11 @@ Director Damien Chazelle created a musical film called _La La Land_, starring Ry
 
 Indian musical films
 
-Bolywood.jpg dances usually follow or are choreographed to _filmi_ Bollywood songs.]] An exception to the decline of the musical film is Indian cinema, especially the Bollywood film industry based in Mumbai (formerly Bombay), where the majority of films have been and still are musicals. The majority of films produced in the Tamil industry based in Chennai (formerly Madras), Sandalwood based in Bangalore, Telugu industry based in Hyderabad, and Malayalam industry are also musicals.
+dances usually follow or are choreographed to _filmi_ Bollywood songs.]] An exception to the decline of the musical film is Indian cinema, especially the Bollywood film industry based in Mumbai (formerly Bombay), where the majority of films have been and still are musicals. The majority of films produced in the Tamil industry based in Chennai (formerly Madras), Sandalwood based in Bangalore, Telugu industry based in Hyderabad, and Malayalam industry are also musicals.
 
 Early sound films (1930s–1940s)
 
-Achhut_Kanya.jpg'' (1936)]]
+'' (1936)]]
 
 Bollywood musicals have their roots in the traditional musical theatre of India, such as classical Indian musical theatre, Sanskrit drama, and Parsi theatre. Early Bombay filmmakers combined these Indian musical theatre traditions with the musical film format that emerged from early Hollywood sound films.[13] Other early influences on Bombay filmmakers included Urdu literature and the _Arabian Nights_.[14]
 
@@ -98,7 +98,7 @@ In 1937, Ardeshir Irani, of _Alam Ara_ fame, made the first colour film in Hindi
 
 Golden Age (late 1940s–1960s)
 
-Nargis,_Raj_Kapoor_and_Dilip_Kumar_in_scene_from_Andaz.jpg, Raj Kapoor and Dilip Kumar in _Andaz_ (1949). Kapoor and Kumar are among the greatest and most influential movie stars in the history of Indian cinema,[16][17] while Nargis is one of its greatest actresses.[18]]]
+, Raj Kapoor and Dilip Kumar in _Andaz_ (1949). Kapoor and Kumar are among the greatest and most influential movie stars in the history of Indian cinema,[16][17] while Nargis is one of its greatest actresses.[18]]]
 
 Following India's independence, the period from the late 1940s to the early 1960s is regarded by film historians as the "Golden Age" of Hindi cinema.[19][20][21] Some of the most critically acclaimed Hindi films of all time were produced during this period. Examples include _Pyaasa_ (1957) and _Kaagaz Ke Phool_ (1959) directed by Guru Dutt and written by Abrar Alvi, _Awaara_ (1951) and _Shree 420_ (1955) directed by Raj Kapoor and written by Khwaja Ahmad Abbas, and _Aan_ (1952) directed by Mehboob Khan and starring Dilip Kumar. These films expressed social themes mainly dealing with working-class life in India, particularly urban life in the former two examples; _Awaara_ presented the city as both a nightmare and a dream, while _Pyaasa_ critiqued the unreality of city life.[22]
 
@@ -162,7 +162,7 @@ Rather than having a specific message for any of his films, Pyryev promoted Stal
 
 _Volga-Volga_
 
-Volga-volga.jpg'', directed by Grigori Aleksandrov]] The most popular film of the brief era of Stalinist musicals was Alexandrov's 1938 film _Volga-Volga_. The star, again, was Lyubov Orlova and the film featured singing and dancing, having nothing to do with work. It is the most unusual of its type. The plot surrounds a love story between two individuals who want to play music. They are unrepresentative of Soviet values in that their focus is more on their music than their jobs. The gags poke fun at the local authorities and bureaucracy. There is no glorification of industry since it takes place in a small rural village. Work is not glorified either, since the plot revolves around a group of villagers using their vacation time to go on a trip up the Volga to perform in Moscow.
+'', directed by Grigori Aleksandrov]] The most popular film of the brief era of Stalinist musicals was Alexandrov's 1938 film _Volga-Volga_. The star, again, was Lyubov Orlova and the film featured singing and dancing, having nothing to do with work. It is the most unusual of its type. The plot surrounds a love story between two individuals who want to play music. They are unrepresentative of Soviet values in that their focus is more on their music than their jobs. The gags poke fun at the local authorities and bureaucracy. There is no glorification of industry since it takes place in a small rural village. Work is not glorified either, since the plot revolves around a group of villagers using their vacation time to go on a trip up the Volga to perform in Moscow.
 
 _Volga-Volga_ followed the aesthetic principles of Socialist Realism rather than the ideological tenets. It became Stalin's favorite film and he gave it as a gift to President Roosevelt during WWII. It is another example of one of the films that claimed life is better. Released at the height of Stalin's purges, it provided escapism and a comforting illusion for the public.[71]
 

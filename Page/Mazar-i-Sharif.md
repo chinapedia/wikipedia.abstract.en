@@ -23,7 +23,7 @@ History
 
 The region around Mazar-i-Sharif has been historically part of Greater Khorasan and was controlled by the Tahirids followed by the Saffarids, Samanids, Ghaznavids, Ghurids, Ilkhanates, Timurids, and Khanate of Bukhara. According to tradition, the city of Mazar-i-Sharif owes its existence to a dream. At the beginning of the 12th century, a local mullah had a dream in which the 7th century Ali bin Abi Talib, cousin and son-in-law of Muhammad, appeared to reveal that he had been secretly buried near the city of Balkh.
 
-Mazar-i-Sharif_&_Band-e-Amir_Fan.jpg, 2016]]
+, 2016]]
 
 The famous Jalal al-Din Rumi was born in this area but like many historical figures his exact location of birth cannot be confirmed. His father Baha' Walad was descended from the first caliph Abu Bakr and was influenced by the ideas of Ahmad Ghazali, brother of the famous philosopher. Baha' Walad's sermons were published and still exist as Divine Sciences (Ma'arif). Rumi completed six books of mystical poetry and tales called Masnavi before he died in 1273.
 
@@ -47,9 +47,9 @@ Since 2001
 
 Following the September 11 attacks in 2001, Mazar-i-Sharif was the first Afghan city to fall to the U.S.-backed Northern Alliance (United Front). The Taliban's defeat in Mazar quickly turned into a rout from the rest of the north and west of Afghanistan. After the Battle of Mazar-i-Sharif in November 2001, the city was officially captured by forces of the Northern Alliance. They were joined by the United States Special Operations Forces and supported by U.S. Air Force aircraft. As many as 3,000 Taliban fighters who surrendered were reportedly massacred by the Northern Alliance after the battle, and reports also place U.S. ground troops at the scene of the massacre.[16] The Irish documentary _Afghan Massacre: The Convoy of Death_ investigated these allegations. Filmmaker Doran claims that mass graves of thousands of victims were found by United Nations investigators.[17] The Bush administration reportedly blocked investigations into the incident.[18]
 
-Luftwaffe_Tornados_in_Afghanistan.jpg, located south of the city next to Mazar-i-Sharif Airport]] The city slowly came under the control of the Karzai administration after 2002, which is led by President Hamid Karzai. The 209th Corps (Shaheen) of the Afghan National Army is based at Mazar-i-Sharif, which provides military assistance to northern Afghanistan. The Afghan Border Police headquarters for the Northern Zone is also located in the city. Despite the security put in place, there are reports of Taliban activities and assassinations of tribal elders. Officials in Mazar-i-Sharif reported that between 20 and 30 Afghan tribal elders have been assassinated in Balkh Province in the last several years. There is no conclusive evidence as to who is behind it but majority of the victims are said to have been associated with the Hezb-i Islami political party.[19]
+, located south of the city next to Mazar-i-Sharif Airport]] The city slowly came under the control of the Karzai administration after 2002, which is led by President Hamid Karzai. The 209th Corps (Shaheen) of the Afghan National Army is based at Mazar-i-Sharif, which provides military assistance to northern Afghanistan. The Afghan Border Police headquarters for the Northern Zone is also located in the city. Despite the security put in place, there are reports of Taliban activities and assassinations of tribal elders. Officials in Mazar-i-Sharif reported that between 20 and 30 Afghan tribal elders have been assassinated in Balkh Province in the last several years. There is no conclusive evidence as to who is behind it but majority of the victims are said to have been associated with the Hezb-i Islami political party.[19]
 
-Thomas_de_Maizière_with_Afghan_Governor_Atta.jpg, German Minister of Defense, with Balkh Governor Atta Muhammad Nur in 2010.]] John_Kerry_at_Balkh_University_in_May_2011.jpg John Kerry at Balkh University in May 2011.]] Carpet_seller_in_mazar-e-sharif.jpg Small-scale clashes between militias belonging to different commanders persisted throughout 2002, and were the focus of intensive UN peace-brokering and small arms disarmament programme. After some pressure, an office of the Afghan Independent Human Rights Commission opened an office in Mazar in April 2003. There were reports about northern Pashtun civilians being ethnically cleansed by the other groups, mainly by ethnic Tajiks, Hazaras and Uzbeks.[20]
+, German Minister of Defense, with Balkh Governor Atta Muhammad Nur in 2010.]] John Kerry at Balkh University in May 2011.]] Small-scale clashes between militias belonging to different commanders persisted throughout 2002, and were the focus of intensive UN peace-brokering and small arms disarmament programme. After some pressure, an office of the Afghan Independent Human Rights Commission opened an office in Mazar in April 2003. There were reports about northern Pashtun civilians being ethnically cleansed by the other groups, mainly by ethnic Tajiks, Hazaras and Uzbeks.[20]
 
 NATO-led peacekeeping forces in and around the city provide assistance to the Afghan government. ISAF Regional Command North, led by Germany, is stationed at Camp Marmal which lies next to Mazar-i-Sharif Airport. Since 2006, Provincial Reconstruction Team Mazar-i-Sharif had unit commanders from Sweden on loan to ISAF. The unit is stationed at Camp Northern Lights which is located west of Camp Marmal. Camp Nidaros, located within Camp Marmal, has soldiers from Latvia and Norway and is led by an ISAF-officer from Norway.
 
@@ -76,7 +76,7 @@ Notable places
 
 The modern city of Mazar-i Sharif is centred around the Shrine of Ali. Much restored, it is one of Afghanistan's most glorious monuments. Outside Mazar-i Sharif lies the ancient city of Balkh. The city is a centre for the traditional buzkashi sport, and the Blue Mosque is the focus of northern Afghanistan's Nowruz celebration. Although most Muslims believe that the real grave of Ali is found within Imam Ali Mosque in Najaf, Iraq, others still come to Mazar-i-Sharif to pay respect.
 
-C-5_Galaxy_at_Mazar-e-Sharif_Airport_in_northern_Afghanistan.jpg at Mazar-i-Sharif Airport.]] Blue_Mosque_in_Mazar-e-Sharif.jpg is a destination for pilgrims.]] Palace_of_Balkh_Governor_in_2010.jpg Gate_of_Mazar-e_Sharif_in_July_2012.jpg
+at Mazar-i-Sharif Airport.]] is a destination for pilgrims.]]
 
 -   AIRPORTS
     -   Mazar-i-Sharif Airport – serves the population of Balkh Province and is also used by NATO-led forces, including the Afghan Air Force. It is being expanded to become the 4th international airport in Afghanistan.
@@ -134,7 +134,7 @@ Professional sports teams from Mazar-i-Sharif
 
 Demography
 
-Maulana_Jalaludin_park_in_northern_Afghanistan-2.jpg in 2012.]]
+in 2012.]]
 
 The city of Mazar-i-Sharif has a total population of 693,000 (2015),[38] and is the third largest city of Afghanistan in terms of population.[39] It has a total land area of 8,304 Hectares with 77,615 total number of dwellings.[40]
 
@@ -145,13 +145,13 @@ The dominant language in Mazar-i-Sharif is Dari, an eastern variety of Persian, 
 
 Economy and infrastructure
 
-Berezka_(5778258455).jpg name in Cyrillic]] Mazar-i-Sharif serves as the major trading center in northern Afghanistan. The local economy is dominated by trade, agriculture and Karakul sheep farming. Small-scale oil and gas exploitation have also boosted the city's prospects. It is also the location of consulates of India and Pakistan for trading and political links.
+name in Cyrillic]] Mazar-i-Sharif serves as the major trading center in northern Afghanistan. The local economy is dominated by trade, agriculture and Karakul sheep farming. Small-scale oil and gas exploitation have also boosted the city's prospects. It is also the location of consulates of India and Pakistan for trading and political links.
 
 Transportation
 
 Rail
 
-Hairatan_to_Mazar-e-Sharif_Railway_Project_in_Afghanistan.jpg It became the first city in Afghanistan to connect itself by rail with a neighboring country. Rail service from Mazar-i-Sharif to Uzbekistan began in December 2011 and cargo on freight trains arrive at a station near Mazar-i-Sharif Airport,[47] where the goods are reloaded onto trucks or airplanes and sent to their last destinations across Afghanistan.
+It became the first city in Afghanistan to connect itself by rail with a neighboring country. Rail service from Mazar-i-Sharif to Uzbekistan began in December 2011 and cargo on freight trains arrive at a station near Mazar-i-Sharif Airport,[47] where the goods are reloaded onto trucks or airplanes and sent to their last destinations across Afghanistan.
 
 Air
 

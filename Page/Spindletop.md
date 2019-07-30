@@ -26,7 +26,7 @@ Production at Spindletop began to decline rapidly after 1902, and the wells prod
 
 Spindletop-Gladys City Boomtown Museum
 
-The_Spindletop-Gladys_City_Boomtown_Museum.jpg Spindletop_Park.jpg In 1976, Lamar University dedicated the Spindletop-Gladys City Boomtown Museum to preserve the history of the Spindletop oil gusher era in Beaumont. The museum features an oil derrick and many reconstructed Gladys City building interiors furnished with authentic artifacts from the Spindletop boomtown period.[12]
+In 1976, Lamar University dedicated the Spindletop-Gladys City Boomtown Museum to preserve the history of the Spindletop oil gusher era in Beaumont. The museum features an oil derrick and many reconstructed Gladys City building interiors furnished with authentic artifacts from the Spindletop boomtown period.[12]
 
 The Lucas Gusher Monument is located at the museum. The monument, erected at the wellhead in July, 1941, was moved to the Spindletop-Gladys City Museum after it became unstable due to ground subsidence. According to an article by Nedra Foster, LS in the July/August, 2000 issue of the _Professional Surveyor Magazine,_ the monument was originally located within 4 ft of the site of the Spindletop well.[13]
 

@@ -3,7 +3,7 @@ was a powerful _daimyō_ (feudal lord) of Japan in the late 16th century who att
 
 Historical context
 
-Nagoyajou1.JPG The goal of national unification and a return to the comparative political stability of the earlier Muromachi period was widely shared by the multitude of autonomous _daimyōs_ during the Sengoku period. Oda Nobunaga was the first for whom this goal seemed attainable. Nobunaga had gained control over most of Honshu (see map below) before his death during the 1582 Honnō-ji incident, a coup attempt executed by Nobunaga's vassal, Akechi Mitsuhide. Nobunaga was betrayed by his own retainers who set the Honno-Ji temple on fire; then, instead of burning in flames, Oda Nobunaga had committed seppuku to escape the flames. The motivation behind Mitsuhide's betrayal was never revealed to anyone who survived the incident, and has been a subject of debate and conjecture ever since the incident.[1]
+The goal of national unification and a return to the comparative political stability of the earlier Muromachi period was widely shared by the multitude of autonomous _daimyōs_ during the Sengoku period. Oda Nobunaga was the first for whom this goal seemed attainable. Nobunaga had gained control over most of Honshu (see map below) before his death during the 1582 Honnō-ji incident, a coup attempt executed by Nobunaga's vassal, Akechi Mitsuhide. Nobunaga was betrayed by his own retainers who set the Honno-Ji temple on fire; then, instead of burning in flames, Oda Nobunaga had committed seppuku to escape the flames. The motivation behind Mitsuhide's betrayal was never revealed to anyone who survived the incident, and has been a subject of debate and conjecture ever since the incident.[1]
 
 Following the incident, Mitsuhide declared himself master over Nobunaga's domains, but was quickly defeated by Toyotomi Hideyoshi, who regained control of and greatly expanded the Oda holdings. Nobunaga's successful subjugation of much of Honshu enabled the later successes of his allies Hideyoshi and Tokugawa Ieyasu toward the goal of national unification by subjugating local _daimyōs_ under a hereditary shogunate, which was ultimately accomplished in 1603 when Ieyasu was granted the title of _shōgun_ by Emperor Go-Yōzei following the successful Sekigahara Campaign of 1600. The nature of the succession of power through the three _daimyōs_ is reflected in a well-known Japanese idiom:
 
@@ -19,7 +19,7 @@ Oda Nobunaga was born on June 23, 1534, in the Owari domain, and was given the c
 
 Unification of Owari Province
 
-Oda_Nobunaga-Portrait_by_Giovanni_NIcolao.jpg painter Giovanni Niccolò, 1583–1590.]] Kiyosujo2.JPG (清州城)]] In 1551, Oda Nobuhide died unexpectedly. Nobunaga was said to have acted outrageously during his funeral, throwing ceremonial incense at the altar.[6] Hirate Masahide, a valuable mentor and retainer to Nobunaga, performed _seppuku_ to startle Nobunaga into his obligations.[7]
+painter Giovanni Niccolò, 1583–1590.]] (清州城)]] In 1551, Oda Nobuhide died unexpectedly. Nobunaga was said to have acted outrageously during his funeral, throwing ceremonial incense at the altar.[6] Hirate Masahide, a valuable mentor and retainer to Nobunaga, performed _seppuku_ to startle Nobunaga into his obligations.[7]
 
 Succession dispute
 
@@ -50,7 +50,7 @@ Tradition dates this battle as the first time that Nobunaga noticed the talents 
 
 Siege of Inabayama Castle
 
-Oda_Nobunaga_statue_in_Kiyosu_park.jpg.]]
+.]]
 
 In Mino, Saitō Yoshitatsu died suddenly of illness in 1561 and was succeeded by his son, Saitō Tatsuoki. Tatsuoki, however, was young and much less effective as a ruler and military strategist compared to his father and grandfather.[21]
 
@@ -71,7 +71,7 @@ Battle of Anegawa
 
 The Asakura clan was particularly disdainful of the Oda clan's increasing power. Furthermore, Asakura Yoshikage had also protected Ashikaga Yoshiaki, but had not been willing to march toward Kyoto.[30]
 
-When Nobunaga launched a campaign into the Asakura clan's domain, Azai Nagamasa, to whom Nobunaga's sister Oichi was married, broke the alliance with Oda to honor the Azai-Asakura alliance which had lasted for generations. With the help of Ikko rebels, the anti-Nobunaga alliance sprang into full force, taking a heavy toll on the Oda clan. At the Battle of Anegawa, Tokugawa Ieyasu joined forces with Nobunaga and defeated the combined forces of the Asakura and Azai clans.[31] Oda_Nobunaga_armour.jpg]]
+When Nobunaga launched a campaign into the Asakura clan's domain, Azai Nagamasa, to whom Nobunaga's sister Oichi was married, broke the alliance with Oda to honor the Azai-Asakura alliance which had lasted for generations. With the help of Ikko rebels, the anti-Nobunaga alliance sprang into full force, taking a heavy toll on the Oda clan. At the Battle of Anegawa, Tokugawa Ieyasu joined forces with Nobunaga and defeated the combined forces of the Asakura and Azai clans.[31] ]]
 
 The Enryaku-ji monastery on Mt. Hiei, with its _sōhei_ (warrior monks) of the Tendai school who aided the anti-Nobunaga group by helping Azai-Asakura alliance, was an issue for Nobunaga since the monastery was so close to his base of power. Nobunaga attacked Enryaku-ji and razed it in October 1571, killing "monks, laymen, women and children" in the process. "The whole mountainside was a great slaughterhouse, and the sight was one of unbearable horror."[32]
 
@@ -85,13 +85,13 @@ Battle of Nagashino
 
 One of the strongest rulers in the anti-Nobunaga alliance was Takeda Shingen, in spite of his generally peaceful relationship and a nominal alliance with the Oda clan. In 1572, at the urgings of the _shōgun_, Shingen decided to make a drive for the capital starting with invading Tokugawa territory. Tied down on the western front, Nobunaga sent lackluster aid to Ieyasu, who suffered defeat at the Battle of Mikatagahara in 1573. However, after the battle, Tokugawa's forces launched night raids and convinced Takeda of an imminent counter-attack, thus saving the vulnerable Tokugawa with the bluff. This would play a pivotal role in Tokugawa's philosophy of strategic patience in his campaigns with Oda Nobunaga. Shortly thereafter, the Takeda forces were neutralized after Shingen died from throat cancer in April 1573.[35]
 
-Nagashino_Teppo-Ashigaru.jpg in 1575]] This was a relief for Nobunaga because he could now focus on Yoshiaki, who had openly declared hostility more than once, despite the imperial court's intervention. Nobunaga was able to defeat Yoshiaki's forces and send him into exile, bringing the Ashikaga shogunate to an end in the same year. Also in 1573, Nobunaga successfully destroyed Asakura and Asai, driving them both to suicide.[36][37]
+in 1575]] This was a relief for Nobunaga because he could now focus on Yoshiaki, who had openly declared hostility more than once, despite the imperial court's intervention. Nobunaga was able to defeat Yoshiaki's forces and send him into exile, bringing the Ashikaga shogunate to an end in the same year. Also in 1573, Nobunaga successfully destroyed Asakura and Asai, driving them both to suicide.[36][37]
 
 At the decisive Battle of Nagashino, the combined forces of Nobunaga and Tokugawa Ieyasu devastated the Takeda clan with the strategic use of arquebuses. Nobunaga compensated for the arquebus's slow reloading time by arranging the arquebusiers in three lines, firing in rotation. From there, Nobunaga continued his expansion, sending Akechi Mitsuhide to pacify Tanba Province before advancing upon the Mori[38]
 
 Surrender of Ishiyama Hongan-ji
 
-Azuchimomoyama-japan.png In 1574 Nobunaga became _Gondainagon_ and _Ukon'etaishō_. By 1576 he was given the title of Minister of the Right (_Udaijin_).[39] The Oda clan's siege of Ishiyama Hongan-ji in Osaka made some progress, but the Mori clan of the Chūgoku region broke the naval blockade and started sending supplies into the strongly fortified complex by sea. As a result, in 1577, Hashiba Hideyoshi was ordered to confront the warrior monks at Negoroji.[40][41]
+In 1574 Nobunaga became _Gondainagon_ and _Ukon'etaishō_. By 1576 he was given the title of Minister of the Right (_Udaijin_).[39] The Oda clan's siege of Ishiyama Hongan-ji in Osaka made some progress, but the Mori clan of the Chūgoku region broke the naval blockade and started sending supplies into the strongly fortified complex by sea. As a result, in 1577, Hashiba Hideyoshi was ordered to confront the warrior monks at Negoroji.[40][41]
 
 However, Uesugi Kenshin, the rival of Takeda Shingen and Oda, clashed with Oda during the Battle of Tedorigawa. The result was a decisive Uesugi victory. However, Kenshin's sudden death in 1578, ended his movement south.[42][43]
 
@@ -102,7 +102,7 @@ In the 1582 Battle of Tenmokuzan, Takeda Katsuyori committed suicide after his d
 
 Coup at Honnō-ji and death
 
-20120310-KoyaOdaNobunagaNoHaka.jpg, Wakayama Prefecture.]]
+, Wakayama Prefecture.]]
 
 In 1582, Nobunaga's former sandal bearer Hashiba Hideyoshi invaded Bitchū Province, laying siege to Takamatsu Castle. The castle was vital to the Mori clan, and losing it would have left the Mori home domain vulnerable. Led by Mōri Terumoto, reinforcements arrived, prompting Hideyoshi to ask for reinforcements from Nobunaga. Nobunaga promptly ordered his leading generals to prepare their armies, the overall expedition to be led by Nobunaga.[45][46]
 
@@ -126,14 +126,14 @@ Nobunaga initiated policies for civil administration, which included currency re
 
 Culture
 
-Oda_Nobunaga_sumo.jpg tournament]] Nobunaga initiated a period in Japanese art history known as Fushimi, or the Azuchi-Momoyama period, in reference to the area south of Kyoto. He built extensive gardens and castles which were themselves great works of art. Azuchi Castle included a seven-story Tenshukaku, which included a treasury filled with gold and precious objects. Works of art included paintings on movable screens (_byōbu_), sliding doors (_fusuma_), and walls by Kanō Eitoku. During this time, Nobunaga's tea master Sen no Rikyū established key elements of the Japanese tea ceremony.[55] Nobunaga was also famous for the _meibutsu-gari_ policy by which he collected tea ceremony objects with famous poetic or historic lineages.
+tournament]] Nobunaga initiated a period in Japanese art history known as Fushimi, or the Azuchi-Momoyama period, in reference to the area south of Kyoto. He built extensive gardens and castles which were themselves great works of art. Azuchi Castle included a seven-story Tenshukaku, which included a treasury filled with gold and precious objects. Works of art included paintings on movable screens (_byōbu_), sliding doors (_fusuma_), and walls by Kanō Eitoku. During this time, Nobunaga's tea master Sen no Rikyū established key elements of the Japanese tea ceremony.[55] Nobunaga was also famous for the _meibutsu-gari_ policy by which he collected tea ceremony objects with famous poetic or historic lineages.
 
 Additionally, Nobunaga was very interested in European culture which was still very new to Japan. He collected pieces of Western art as well as arms and armor, and he is considered to be among the first Japanese people in recorded history to wear European clothes. He also became the patron of the Jesuit missionaries in Japan and supported the establishment of the first Christian church in Kyoto in 1576,[56] although he never converted to Christianity.[57]
 
 
 Family
 
-Ageha-cho.svg'' _mon_ of the Taira is called _Ageha-chō_ (揚羽蝶) in Japanese.]]
+'' _mon_ of the Taira is called _Ageha-chō_ (揚羽蝶) in Japanese.]]
 
 Depending upon the source, Oda Nobunaga and the entire Oda clan are descendants of either the Fujiwara clan or the Taira clan (specifically, Taira no Shigemori's branch). His lineage can be directly traced to his great-great-grandfather, Oda Hisanaga, who was followed by Oda Toshisada, Oda Nobusada, Oda Nobuhide, and Nobunaga himself.
 

@@ -3,7 +3,7 @@ The ARMED FORCES OF THE REPUBLIC OF MOLDOVA (), also known as the MOLDOVAN NATIO
 
 History
 
-Soldiers_of_Moldovan_army.jpg Moldovan_MiG-29B_trainer.jpg Moldovan_MiG-29B_trainer_on_C-17_Globemaster_III.jpg On 2 November 1990, prior to the formation of the state of Moldova, the Supreme Soviet of the Moldovan SSR ordered creation of the _Republican Guard_ (Moldovan: Garda Republicană) as a militarized government agency. This force subsequently became the Moldovan military upon independence.[1][2][3]
+On 2 November 1990, prior to the formation of the state of Moldova, the Supreme Soviet of the Moldovan SSR ordered creation of the _Republican Guard_ (Moldovan: Garda Republicană) as a militarized government agency. This force subsequently became the Moldovan military upon independence.[1][2][3]
 
 Moldova has accepted all relevant arms control obligations of the former Soviet Union. On October 30, 1992, Moldova ratified the Treaty on Conventional Armed Forces in Europe, which establishes comprehensive limits on key categories of conventional military equipment and provides for the destruction of weapons in excess of those limits. It acceded to the provisions of the nuclear Non-Proliferation Treaty in October 1994 in Washington, DC. It does not have nuclear, biological, or chemical weapons.
 
@@ -42,7 +42,7 @@ By 2006-7, the Moldovan Ground Forces had been reduced to a strength of 5,710, i
 
 Air Force
 
-25_річниці_незалежності_Молдови_08.jpg In 1994 the Moldovan Air Force consisted of 1,300 men organized into one fighter regiment, one helicopter squadron, and one missile brigade.[8] Armaments used by the air force included thirty-one MiG-29 Fulcrum aircraft, eight Mi-8 Hip helicopters, five transport aircraft (including an Antonov An-72 Coaler), and twenty-five SA-3 Goa/SA-5 Gammon surface-to-air missiles.
+In 1994 the Moldovan Air Force consisted of 1,300 men organized into one fighter regiment, one helicopter squadron, and one missile brigade.[8] Armaments used by the air force included thirty-one MiG-29 Fulcrum aircraft, eight Mi-8 Hip helicopters, five transport aircraft (including an Antonov An-72 Coaler), and twenty-five SA-3 Goa/SA-5 Gammon surface-to-air missiles.
 
 The 86th Guards Fighter Aviation Regiment had been located at Mărculești since October 1951, and had been reequipped with MiG-29s in 1988.[9] It had been part of the 119th Fighter Aviation Division, which had been resubordinated to the Soviet Black Sea Fleet since December 1989.
 

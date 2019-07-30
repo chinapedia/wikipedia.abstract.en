@@ -17,7 +17,7 @@ The choice of the symbol is discussed in the section _Adoption of the symbol _.
 
 Definition
 
-Pi_eq_C_over_d.svg is commonly defined as the ratio of a circle's circumference to its diameter :[9]
+is commonly defined as the ratio of a circle's circumference to its diameter :[9]
 
 $$\pi = \frac{C}{d}.$$
 The ratio is constant, regardless of the circle's size. For example, if a circle has twice the diameter of another circle it will also have twice the circumference, preserving the ratio . This definition of implicitly makes use of flat (Euclidean) geometry; although the notion of a circle can be extended to any curved (non-Euclidean) geometry, these new circles will no longer satisfy the formula _C_/_d_}}.[10]
@@ -46,13 +46,13 @@ Since the advent of computers, a large number of digits of have been available o
 
 Transcendence
 
-Squaring_the_circle.svg, squaring the circle is not possible in a finite number of steps using the classical tools of compass and straightedge.]] In addition to being irrational, more strongly is a transcendental number, which means that it is not the solution of any non-constant polynomial equation with rational coefficients, such as 0}}.[31][32]
+, squaring the circle is not possible in a finite number of steps using the classical tools of compass and straightedge.]] In addition to being irrational, more strongly is a transcendental number, which means that it is not the solution of any non-constant polynomial equation with rational coefficients, such as 0}}.[31][32]
 
 The transcendence of has two important consequences: First, cannot be expressed using any finite combination of rational numbers and square roots or _n_-th roots such as or . Second, since no transcendental number can be constructed with compass and straightedge, it is not possible to "square the circle". In other words, it is impossible to construct, using compass and straightedge alone, a square whose area is exactly equal to the area of a given circle.[33] Squaring a circle was one of the important geometry problems of the classical antiquity.[34] Amateur mathematicians in modern times have sometimes attempted to square the circle and sometimes claim success despite the fact that it is mathematically impossible.[35]
 
 Continued fractions
 
-Matheon2.jpg outside the Mathematics Building at the Technical University of Berlin.]] Like all irrational numbers, cannot be represented as a common fraction (also known as a simple or vulgar fraction), by the very definition of "irrational number" (that is, "not a rational number"). But every irrational number, including , can be represented by an infinite series of nested fractions, called a continued fraction:
+outside the Mathematics Building at the Technical University of Berlin.]] Like all irrational numbers, cannot be represented as a common fraction (also known as a simple or vulgar fraction), by the very definition of "irrational number" (that is, "not a rational number"). But every irrational number, including , can be represented by an infinite series of nested fractions, called a continued fraction:
 
 $$\pi=3+\textstyle \cfrac{1}{7+\textstyle \cfrac{1}{15+\textstyle \cfrac{1}{1+\textstyle \cfrac{1}{292+\textstyle \cfrac{1}{1+\textstyle \cfrac{1}{1+\textstyle \cfrac{1}{1+\ddots}}}}}}}$$
 
@@ -85,7 +85,7 @@ DIGITS IN OTHER NUMBER SYSTEMS
 
 Complex numbers and Euler's identity
 
-Euler's_formula.svg on the unit circle centered at the origin in the complex plane given by Euler's formula.]]
+on the unit circle centered at the origin in the complex plane given by Euler's formula.]]
 
 Any complex number, say , can be expressed using a pair of real numbers. In the polar coordinate system, one number (radius or _r_) is used to represent 's distance from the origin of the complex plane and the other (angle or ) to represent a counter-clockwise rotation from the positive real line as follows:[43]
 
@@ -106,7 +106,7 @@ Astronomical calculations in the _Shatapatha Brahmana_ (ca. 4th century BC) use 
 
 Polygon approximation era
 
-Archimedes_pi.svg The first recorded algorithm for rigorously calculating the value of was a geometrical approach using polygons, devised around 250 BC by the Greek mathematician Archimedes.[55] This polygonal algorithm dominated for over 1,000 years, and as a result is sometimes referred to as "Archimedes' constant".[56] Archimedes computed upper and lower bounds of by drawing a regular hexagon inside and outside a circle, and successively doubling the number of sides until he reached a 96-sided regular polygon. By calculating the perimeters of these polygons, he proved that (that is ).[57] Archimedes' upper bound of may have led to a widespread popular belief that is equal to .[58] Around 150 AD, Greek-Roman scientist Ptolemy, in his _Almagest_, gave a value for of 3.1416, which he may have obtained from Archimedes or from Apollonius of Perga.[59] Mathematicians using polygonal algorithms reached 39 digits of in 1630, a record only broken in 1699 when infinite series were used to reach 71 digits.[60] Archimedes_by_Giuseppe_Nogari.png developed the polygonal approach to approximating .]]
+The first recorded algorithm for rigorously calculating the value of was a geometrical approach using polygons, devised around 250 BC by the Greek mathematician Archimedes.[55] This polygonal algorithm dominated for over 1,000 years, and as a result is sometimes referred to as "Archimedes' constant".[56] Archimedes computed upper and lower bounds of by drawing a regular hexagon inside and outside a circle, and successively doubling the number of sides until he reached a 96-sided regular polygon. By calculating the perimeters of these polygons, he proved that (that is ).[57] Archimedes' upper bound of may have led to a widespread popular belief that is equal to .[58] Around 150 AD, Greek-Roman scientist Ptolemy, in his _Almagest_, gave a value for of 3.1416, which he may have obtained from Archimedes or from Apollonius of Perga.[59] Mathematicians using polygonal algorithms reached 39 digits of in 1630, a record only broken in 1699 when infinite series were used to reach 71 digits.[60] developed the polygonal approach to approximating .]]
 
 In ancient China, values for included 3.1547 (around 1 AD), (100 AD, approximately 3.1623), and (3rd century, approximately 3.1556).[61] Around 265 AD, the Wei Kingdom mathematician Liu Hui created a polygon-based iterative algorithm and used it with a 3,072-sided polygon to obtain a value of of 3.1416.[62][63] Liu later invented a faster method of calculating and obtained a value of 3.14 with a 96-sided polygon, by taking advantage of the fact that the differences in area of successive polygons form a geometric series with a factor of 4.[64] The Chinese mathematician Zu Chongzhi, around 480 AD, calculated that and suggested the approximations = 3.14159292035... and = 3.142857142857..., which he termed the _Milü_ (''close ratio") and _Yuelü_ ("approximate ratio"), respectively, using Liu Hui's algorithm applied to a 12,288-sided polygon. With a correct value for its seven first decimal digits, this value of remained the most accurate approximation of available for the next 800 years.[65]
 
@@ -116,7 +116,7 @@ The Persian astronomer Jamshīd al-Kāshī produced 9 sexagesimal digits, roughl
 
 Infinite series
 
-The calculation of was revolutionized by the development of infinite series techniques in the 16th and 17th centuries. An infinite series is the sum of the terms of an infinite sequence.[78] Infinite series allowed mathematicians to compute with much greater precision than Archimedes and others who used geometrical techniques.[79] Although infinite series were exploited for most notably by European mathematicians such as James Gregory and Gottfried Wilhelm Leibniz, the approach was first discovered in India sometime between 1400 and 1500 AD.[80] The first written description of an infinite series that could be used to compute was laid out in Sanskrit verse by Indian astronomer Nilakantha Somayaji in his _Tantrasamgraha_, around 1500 AD.[81] The series are presented without proof, but proofs are presented in a later Indian work, _Yuktibhāṣā_, from around 1530 AD. Nilakantha attributes the series to an earlier Indian mathematician, Madhava of Sangamagrama, who lived c. 1350 – c. 1425.[82] Several infinite series are described, including series for sine, tangent, and cosine, which are now referred to as the Madhava series or Gregory–Leibniz series.[83] Madhava used infinite series to estimate to 11 digits around 1400, but that value was improved on around 1430 by the Persian mathematician Jamshīd al-Kāshī, using a polygonal algorithm.[84] GodfreyKneller-IsaacNewton-1689.jpg used infinite series to compute to 15 digits, later writing "I am ashamed to tell you to how many figures I carried these computations".[85]]]
+The calculation of was revolutionized by the development of infinite series techniques in the 16th and 17th centuries. An infinite series is the sum of the terms of an infinite sequence.[78] Infinite series allowed mathematicians to compute with much greater precision than Archimedes and others who used geometrical techniques.[79] Although infinite series were exploited for most notably by European mathematicians such as James Gregory and Gottfried Wilhelm Leibniz, the approach was first discovered in India sometime between 1400 and 1500 AD.[80] The first written description of an infinite series that could be used to compute was laid out in Sanskrit verse by Indian astronomer Nilakantha Somayaji in his _Tantrasamgraha_, around 1500 AD.[81] The series are presented without proof, but proofs are presented in a later Indian work, _Yuktibhāṣā_, from around 1530 AD. Nilakantha attributes the series to an earlier Indian mathematician, Madhava of Sangamagrama, who lived c. 1350 – c. 1425.[82] Several infinite series are described, including series for sine, tangent, and cosine, which are now referred to as the Madhava series or Gregory–Leibniz series.[83] Madhava used infinite series to estimate to 11 digits around 1400, but that value was improved on around 1430 by the Persian mathematician Jamshīd al-Kāshī, using a polygonal algorithm.[84] used infinite series to compute to 15 digits, later writing "I am ashamed to tell you to how many figures I carried these computations".[85]]]
 
 The first infinite sequence discovered in Europe was an infinite product (rather than an infinite sum, which are more typically used in calculations) found by French mathematician François Viète in 1593:[86][87][88]
 
@@ -175,7 +175,7 @@ Swiss scientist Johann Heinrich Lambert in 1761 proved that is irrational, meani
 
 Adoption of the symbol
 
-Leonhard_Euler.jpg popularized the use of the Greek letter in works he published in 1736 and 1748.]] In the earliest usages, the Greek letter was an abbreviation of the Greek word for periphery (περιφέρεια),[113] and was combined in ratios with δ (for diameter) or ρ (for radius) to form circle constants.[114][115][116] (Before then, mathematicians sometimes used letters such as _c_ or _p_ instead.[117]) The first recorded use is Oughtred's "δ.π", to express the ratio of periphery and diameter in the 1647 and later editions of _Clavis Mathematicae_.[118][119] Barrow likewise used "$\frac \pi \delta$" to represent the constant 3.14...,[120] while Gregory instead used "$\frac \pi \rho$" to represent 6.28... .[121][122]
+popularized the use of the Greek letter in works he published in 1736 and 1748.]] In the earliest usages, the Greek letter was an abbreviation of the Greek word for periphery (περιφέρεια),[113] and was combined in ratios with δ (for diameter) or ρ (for radius) to form circle constants.[114][115][116] (Before then, mathematicians sometimes used letters such as _c_ or _p_ instead.[117]) The first recorded use is Oughtred's "δ.π", to express the ratio of periphery and diameter in the 1647 and later editions of _Clavis Mathematicae_.[118][119] Barrow likewise used "$\frac \pi \delta$" to represent the constant 3.14...,[120] while Gregory instead used "$\frac \pi \rho$" to represent 6.28... .[121][122]
 
 The earliest known use of the Greek letter alone to represent the ratio of a circle's circumference to its diameter was by Welsh mathematician William Jones in his 1706 work _Synopsis Palmariorum Matheseos; or, a New Introduction to the Mathematics_.[123][124] The Greek letter first appears there in the phrase "1/2 Periphery ()" in the discussion of a circle with radius one.[125] However, he writes that his equations for are from the "ready pen of the truly ingenious Mr. John Machin", leading to speculation that Machin may have employed the Greek letter before Jones.[126] Jones' notation was not immediately adopted by other mathematicians, with the fraction notation still being used as late as 1767.[127][128]
 
@@ -186,7 +186,7 @@ Modern quest for more digits
 
 Computer era and iterative algorithms
 
-JohnvonNeumann-LosAlamos.gif was part of the team that first used a digital computer, ENIAC, to compute .]]
+was part of the team that first used a digital computer, ENIAC, to compute .]]
 
 The development of computers in the mid-20th century again revolutionized the hunt for digits of . Mathematicians John Wrench and Levi Smith reached 1,120 digits in 1949 using a desk calculator.[135] Using an inverse tangent (arctan) infinite series, a team led by George Reitwiesner and John von Neumann that same year achieved 2,037 digits with a calculation that took 70 hours of computer time on the ENIAC computer.[136] The record, always relying on an arctan series, was broken repeatedly (7,480 digits in 1957; 10,000 digits in 1958; 100,000 digits in 1961) until 1 million digits were reached in 1973.[137]
 
@@ -198,11 +198,11 @@ The iterative algorithms were widely used after 1980 because they are faster tha
 
 Motives for computing
 
-Record_pi_approximations.svgic.]] For most numerical calculations involving , a handful of digits provide sufficient precision. According to Jörg Arndt and Christoph Haenel, thirty-nine digits are sufficient to perform most cosmological calculations, because that is the accuracy necessary to calculate the circumference of the observable universe with a precision of one atom.[146] Accounting for additional digits needed to compensate for computational round-off errors, Arndt concludes that a few hundred digits would suffice for any scientific application. Despite this, people have worked strenuously to compute to thousands and millions of digits.[147] This effort may be partly ascribed to the human compulsion to break records, and such achievements with often make headlines around the world.[148][149] They also have practical benefits, such as testing supercomputers, testing numerical analysis algorithms (including high-precision multiplication algorithms); and within pure mathematics itself, providing data for evaluating the randomness of the digits of .[150]
+ic.]] For most numerical calculations involving , a handful of digits provide sufficient precision. According to Jörg Arndt and Christoph Haenel, thirty-nine digits are sufficient to perform most cosmological calculations, because that is the accuracy necessary to calculate the circumference of the observable universe with a precision of one atom.[146] Accounting for additional digits needed to compensate for computational round-off errors, Arndt concludes that a few hundred digits would suffice for any scientific application. Despite this, people have worked strenuously to compute to thousands and millions of digits.[147] This effort may be partly ascribed to the human compulsion to break records, and such achievements with often make headlines around the world.[148][149] They also have practical benefits, such as testing supercomputers, testing numerical analysis algorithms (including high-precision multiplication algorithms); and within pure mathematics itself, providing data for evaluating the randomness of the digits of .[150]
 
 Rapidly convergent series
 
-Srinivasa_Ramanujan_-_OPC_-_1.jpg, working in isolation in India, produced many innovative series for computing .]] Modern calculators do not use iterative algorithms exclusively. New infinite series were discovered in the 1980s and 1990s that are as fast as iterative algorithms, yet are simpler and less memory intensive.[151] The fast iterative algorithms were anticipated in 1914, when the Indian mathematician Srinivasa Ramanujan published dozens of innovative new formulae for , remarkable for their elegance, mathematical depth, and rapid convergence.[152] One of his formulae, based on modular equations, is
+, working in isolation in India, produced many innovative series for computing .]] Modern calculators do not use iterative algorithms exclusively. New infinite series were discovered in the 1980s and 1990s that are as fast as iterative algorithms, yet are simpler and less memory intensive.[151] The fast iterative algorithms were anticipated in 1914, when the Indian mathematician Srinivasa Ramanujan published dozens of innovative new formulae for , remarkable for their elegance, mathematical depth, and rapid convergence.[152] One of his formulae, based on modular equations, is
 
 $$\frac{1}{\pi} = \frac{2 \sqrt 2}{9801} \sum_{k=0}^\infty \frac{(4k)!(1103+26390k)}{k!^4\left(396^{4k}\right)}.$$
 This series converges much more rapidly than most arctan series, including Machin's formula.[153] Bill Gosper was the first to use it for advances in the calculation of , setting a record of 17 million digits in 1985.[154] Ramanujan's formulae anticipated the modern algorithms developed by the Borwein brothers and the Chudnovsky brothers.[155] The Chudnovsky formula developed in 1987 is
@@ -242,7 +242,7 @@ Ehrhart's volume conjecture is that this is the (optimal) upper bound on the vol
 
 Number theory and Riemann zeta function
 
-Prüfer.png, which are arithmetic localizations of the circle. The L-functions of analytic number theory are also localized in each prime _p_.]] ModularGroup-FundamentalDomain.svg: the value of is the hyperbolic area of a fundamental domain of the modular group, times .]] The Riemann zeta function is used in many areas of mathematics. When evaluated at it can be written as
+, which are arithmetic localizations of the circle. The L-functions of analytic number theory are also localized in each prime _p_.]] : the value of is the hyperbolic area of a fundamental domain of the modular group, times .]] The Riemann zeta function is used in many areas of mathematics. When evaluated at it can be written as
 
 $$\zeta(2) = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \cdots$$
 Finding a simple solution for this infinite series was a famous problem in mathematics called the Basel problem. Leonhard Euler solved it in 1735 when he showed it was equal to .[167] Euler's result leads to the number theory result that the probability of two random numbers being relatively prime (that is, having no shared factors) is equal to .[168][169] This probability is based on the observation that the probability that any number is divisible by a prime is (for example, every 7th integer is divisible by 7.) Hence the probability that two numbers are both divisible by this prime is , and the probability that at least one of them is not is . For distinct primes, these divisibility events are mutually independent; so the probability that two numbers are relatively prime is given by a product over all primes:[170]
@@ -266,13 +266,13 @@ A consequence is that can be obtained from the functional determinant of the har
 
 Fourier series
 
-2-adic_integers_with_dual_colorings.svg (shown), which are elements of a Prüfer group. Tate's thesis makes heavy use of this machinery.[175]]] The constant also appears naturally in Fourier series of periodic functions. Periodic functions are functions on the group R/Z}} of fractional parts of real numbers. The Fourier decomposition shows that a complex-valued function on can be written as an infinite linear superposition of unitary characters of . That is, continuous group homomorphisms from to the circle group of unit modulus complex numbers. It is a theorem that every character of is one of the complex exponentials e_(n)(x) = e^(2πinx).
+(shown), which are elements of a Prüfer group. Tate's thesis makes heavy use of this machinery.[175]]] The constant also appears naturally in Fourier series of periodic functions. Periodic functions are functions on the group R/Z}} of fractional parts of real numbers. The Fourier decomposition shows that a complex-valued function on can be written as an infinite linear superposition of unitary characters of . That is, continuous group homomorphisms from to the circle group of unit modulus complex numbers. It is a theorem that every character of is one of the complex exponentials e_(n)(x) = e^(2πinx).
 
 There is a unique character on , up to complex conjugation, that is a group isomorphism. Using the Haar measure on the circle group, the constant is half the magnitude of the Radon–Nikodym derivative of this character. The other characters have derivatives whose magnitudes are positive integral multiples of 2.[176] As a result, the constant is the unique number such that the group T, equipped with its Haar measure, is Pontrjagin dual to the lattice of integral multiples of 2.[177] This is a version of the one-dimensional Poisson summation formula.
 
 Modular forms and theta functions
 
-Lattice_with_tau.svg of periods of an elliptic curve.]] The constant is connected in a deep way with the theory of modular forms and theta functions. For example, the Chudnovsky algorithm involves in an essential way the j-invariant of an elliptic curve.
+of periods of an elliptic curve.]] The constant is connected in a deep way with the theory of modular forms and theta functions. For example, the Chudnovsky algorithm involves in an essential way the j-invariant of an elliptic curve.
 
 Modular forms are holomorphic functions in the upper half plane characterized by their transformation properties under the modular group SL₂(ℤ) (or its various subgroups), a lattice in the group SL₂(ℝ). An example is the Jacobi theta function
 
@@ -286,7 +286,7 @@ which implies that transforms as a representation under the discrete Heisenberg 
 
 Cauchy distribution and potential theory
 
-Witch_of_Agnesi,_construction.svg, named for Maria Agnesi (1718–1799), is a geometrical construction of the graph of the Cauchy distribution.]] The Cauchy distribution
+, named for Maria Agnesi (1718–1799), is a geometrical construction of the graph of the Cauchy distribution.]] The Cauchy distribution
 
 $$g(x)=\frac{1}{\pi}\cdot\frac{1}{x^2+1}$$
 
@@ -296,7 +296,7 @@ $$\int_{-\infty }^{\infty } \frac{1}{x^2+1} \, dx = \pi.$$
 
 The Shannon entropy of the Cauchy distribution is equal to , which also involves .
 
-Brownianmotion_beads_in_water_spim_video.gif through a membrane.]] The Cauchy distribution plays an important role in potential theory because it is the simplest Furstenberg measure, the classical Poisson kernel associated with a Brownian motion in a half-plane.[180] Conjugate harmonic functions and so also the Hilbert transform are associated with the asymptotics of the Poisson kernel. The Hilbert transform _H_ is the integral transform given by the Cauchy principal value of the singular integral
+through a membrane.]] The Cauchy distribution plays an important role in potential theory because it is the simplest Furstenberg measure, the classical Poisson kernel associated with a Brownian motion in a half-plane.[180] Conjugate harmonic functions and so also the Hilbert transform are associated with the asymptotics of the Poisson kernel. The Hilbert transform _H_ is the integral transform given by the Cauchy principal value of the singular integral
 
 $$Hf(t) = \frac{1}{\pi}\int_{-\infty}^\infty \frac{f(x)\,dx}{x-t}.$$
 
@@ -304,7 +304,7 @@ The constant is the unique (positive) normalizing factor such that _H_ defines a
 
 Complex dynamics
 
-Mandel_zoom_00_mandelbrot_set.jpg, by counting the number of iterations required before point diverges.]] An occurrence of in the Mandelbrot set fractal was discovered by David Boll in 1991.[183] He examined the behavior of the Mandelbrot set near the "neck" at . If points with coordinates are considered, as ε tends to zero, the number of iterations until divergence for the point multiplied by _ε_ converges to . The point at the cusp of the large "valley" on the right side of the Mandelbrot set behaves similarly: the number of iterations until divergence multiplied by the square root of _ε_ tends to .[184][185]
+, by counting the number of iterations required before point diverges.]] An occurrence of in the Mandelbrot set fractal was discovered by David Boll in 1991.[183] He examined the behavior of the Mandelbrot set near the "neck" at . If points with coordinates are considered, as ε tends to zero, the number of iterations until divergence for the point multiplied by _ε_ converges to . The point at the cusp of the large "valley" on the right side of the Mandelbrot set behaves similarly: the number of iterations until divergence multiplied by the square root of _ε_ tends to .[184][185]
 
 
 Outside mathematics
@@ -350,7 +350,7 @@ A few authors have used the digits of to establish a new form of constrained wri
 
 In popular culture
 
-Pi_pie2.jpg makes it a frequent subject of pi puns.|bottom]] Perhaps because of the simplicity of its definition and its ubiquitous presence in formulae, has been represented in popular culture more than other mathematical constructs.[201]
+makes it a frequent subject of pi puns.|bottom]] Perhaps because of the simplicity of its definition and its ubiquitous presence in formulae, has been represented in popular culture more than other mathematical constructs.[201]
 
 In the 2008 Open University and BBC documentary co-production, _The Story of Maths_, aired in October 2008 on BBC Four, British mathematician Marcus du Sautoy shows a visualization of the – historically first exact – formula for calculating when visiting India and exploring its contributions to trigonometry.[202]
 

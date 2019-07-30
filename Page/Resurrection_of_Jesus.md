@@ -1,4 +1,4 @@
-Rafael_-_ressureicaocristo01.jpg'' (Kinnaird Resurrection) by Raphael, 1502]]
+'' (Kinnaird Resurrection) by Raphael, 1502]]
 
 The RESURRECTION OF JESUS, or ANASTASIS is the Christian belief that God raised Jesus after his crucifixion as first of the dead, starting his exalted life as Christ and Lord.[1] In Christian theology, the death and resurrection of Jesus are the most important events, a foundation of the Christian faith, and commemorated by Easter. His resurrection is the guarantee that all the Christian dead will be resurrected at Christ's _parousia_. For the Christian tradition, the bodily resurrection was the restoration to life of a transformed body powered by spirit,[2] as described by Paul and the Gospels,[3] that led to the establishment of Christianity.
 
@@ -7,7 +7,7 @@ In secular and liberal Christian scholarship, the appearances of Jesus are expla
 
 Accounts of the resurrection
 
-Noel-coypel-the-resurrection-of-christ-1700.jpg, 1700, using a hovering depiction of Jesus]]
+, 1700, using a hovering depiction of Jesus]]
 
 According to the New Testamentical writings, "God raised him from the dead", he ascended to heaven, to the "right hand of God", and will return again to fulfill the rest of Messianic prophecy such as the resurrection of the dead, the Last Judgment and establishment of the Kingdom of God.
 
@@ -25,7 +25,7 @@ It is widely accepted that this creed predates the Apostle Paul. Scholars have c
 
 Gospel and Acts
 
-Pilon-risenchrist2.jpg All four gospels climax with appearances of Jesus after his crucifixion, preparing the reader for his resurrection by having Jesus predict it , or through allusions that only the reader will understand , and elsewhere). The moment of resurrection is not described.
+All four gospels climax with appearances of Jesus after his crucifixion, preparing the reader for his resurrection by having Jesus predict it , or through allusions that only the reader will understand , and elsewhere). The moment of resurrection is not described.
 
 Jesus is the "firstborn of the dead," _prōtotokos_, the first to be raised from the dead, and thereby acquiring the "special status of the firstborn as the preeminent son and heir."[7] His resurrection is also the guarantee that all the Christian dead will be resurrected at Christ's _parousia_.
 
@@ -46,11 +46,11 @@ In Acts of the Apostles, Jesus appears to apostles for forty days, and commands 
 
 Significance in Christianity
 
-Resurrected_Jesus_two_Maries.jpg, South Carolina.]]
+, South Carolina.]]
 
 Foundation of Christian faith
 
-Nicaea_icon.jpg and bishops with the Creed of 381.]]
+and bishops with the Creed of 381.]]
 
 In Christian theology, the death, resurrection, and exaltation of Jesus are the most important events, and a foundation of the Christian faith. The Nicene Creed states: "On the third day he rose again in accordance with the Scriptures".[9] According to Terry Miethe, a Christian philosopher at Oxford University, the question " 'Did Jesus rise from the dead?' is the most important question regarding the claims of the Christian faith."[10] According to John R. Rice, a Baptist evangelist, the resurrection of Jesus was part of the plan of salvation and redemption by atonement for man's sin.[11] Summarizing its traditional analysis, the Catholic Church states in its Catechism:
 
@@ -129,7 +129,7 @@ Further considerations
 
 Jewish–Hellenistic background
 
-5part-icon.jpeg, Solovetsky Monastery, 17th century.]]
+, Solovetsky Monastery, 17th century.]]
 
 Jewish
 
@@ -170,7 +170,7 @@ According to Ehrman, these two Christologies existed alongside each other, calli
 
 In Christian art
 
-Anastasis_Pio_Christiano_Inv31525.jpg with a wreath symbolizing the victory of the Resurrection, above Roman soldiers, c. 350 AD.]] In the Catacombs of Rome, artists indirectly hinted at the resurrection by using images from the Old Testament such as the fiery furnace and Daniel in the Lion's den. Depictions prior to the 7th century generally showed secondary events such as the Myrrhbearers at the tomb of Jesus to convey the concept of the resurrection. An early symbol of the resurrection was the wreathed Chi Rho (Greek letters representing the word "Khristos" or "Christ"), whose origin traces to the victory of emperor Constantine I at the Battle of the Milvian Bridge in 312, which he attributed to the use of a cross on the shields of his soldiers. Constantine used the Chi Rho on his standard and his coins showed a labarum with the Chi Rho killing a serpent.[61]
+with a wreath symbolizing the victory of the Resurrection, above Roman soldiers, c. 350 AD.]] In the Catacombs of Rome, artists indirectly hinted at the resurrection by using images from the Old Testament such as the fiery furnace and Daniel in the Lion's den. Depictions prior to the 7th century generally showed secondary events such as the Myrrhbearers at the tomb of Jesus to convey the concept of the resurrection. An early symbol of the resurrection was the wreathed Chi Rho (Greek letters representing the word "Khristos" or "Christ"), whose origin traces to the victory of emperor Constantine I at the Battle of the Milvian Bridge in 312, which he attributed to the use of a cross on the shields of his soldiers. Constantine used the Chi Rho on his standard and his coins showed a labarum with the Chi Rho killing a serpent.[61]
 
 The use of a wreath around the Chi Rho symbolizes the victory of the resurrection over death, and is an early visual representation of the connection between the Crucifixion of Jesus and his triumphal resurrection, as seen in the 4th-century sarcophagus of Domitilla[62] in Rome. Here, in the wreathed Chi Rho the death and Resurrection of Christ are shown as inseparable, and the Resurrection is not merely a happy ending tucked at the end of the life of Christ on earth. Given the use of similar symbols on the Roman military banner, this depiction also conveyed another victory, namely that of the Christian faith: the Roman soldiers who had once arrested Jesus and marched him to Calvary now walked under the banner of a resurrected Christ.[63]
 
@@ -185,7 +185,7 @@ File:Rottenhammer Resurrection of Christ.jpg|_Resurrection of Christ_ by Hans Ro
 
 Relics
 
-Turin_plasch.jpg's 1898 negative of the image on the Shroud of Turin has an appearance suggesting a positive image. It is used as part of the devotion to the Holy Face of Jesus.]] The resurrection of Jesus has long been central to Christian faith and appears within diverse elements of the Christian tradition, from feasts to artistic depictions to religious relics. In Christian teachings, the sacraments derive their saving power from the passion and resurrection of Christ, upon which the salvation of the world entirely depends.[68]
+'s 1898 negative of the image on the Shroud of Turin has an appearance suggesting a positive image. It is used as part of the devotion to the Holy Face of Jesus.]] The resurrection of Jesus has long been central to Christian faith and appears within diverse elements of the Christian tradition, from feasts to artistic depictions to religious relics. In Christian teachings, the sacraments derive their saving power from the passion and resurrection of Christ, upon which the salvation of the world entirely depends.[68]
 
 An example of the interweaving of the teachings on the resurrection with Christian relics is the application of the concept of "miraculous image formation" at the moment of resurrection to the Shroud of Turin. Christian authors have stated the belief that the body around whom the shroud was wrapped was not merely human, but divine, and that the image on the shroud was miraculously produced at the moment of resurrection.[69][70] Quoting Pope Paul VI's statement that the shroud is "the wonderful document of His Passion, Death and Resurrection, written for us in letters of blood" author Antonio Cassanelli argues that the shroud is a deliberate divine record of the five stages of the Passion of Christ, created at the moment of resurrection.[71]
 
@@ -200,7 +200,7 @@ Christianity split from Judaism in the 1st century AD, and the two faiths have d
 
 Gnostics
 
-Holy_Sepulchre_P1040539.JPG in Church of the Holy Sepulchre, called the _Anastasis_ ("Resurrection"), which contains the remains of a rock-cut room that Helena and Macarius identified as the burial site of Jesus.]] Some Gnostics did not believe in a literal physical resurrection. "For the gnostic any resurrection of the dead was excluded from the outset; the flesh or substance is destined to perish. 'There is no resurrection of the flesh, but only of the soul', say the so-called Archontics, a late gnostic group in Palestine".[77]
+in Church of the Holy Sepulchre, called the _Anastasis_ ("Resurrection"), which contains the remains of a rock-cut room that Helena and Macarius identified as the burial site of Jesus.]] Some Gnostics did not believe in a literal physical resurrection. "For the gnostic any resurrection of the dead was excluded from the outset; the flesh or substance is destined to perish. 'There is no resurrection of the flesh, but only of the soul', say the so-called Archontics, a late gnostic group in Palestine".[77]
 
 Islam
 

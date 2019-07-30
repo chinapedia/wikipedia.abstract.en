@@ -9,18 +9,18 @@ History
 
 Beginnings
 
-Boardman_House,_Ithaca_NY.jpg Ithaca College was founded as the Ithaca Conservatory of Music in 1892 when a local violin teacher, William Grant Egbert, rented four rooms and arranged for the instruction of eight students. For nearly seven decades the institution flourished in the city of Ithaca, adding to its music curriculum the study of elocution, dance, physical education, speech correction, radio, business, and the liberal arts. In 1931 the conservatory was chartered as a private college. The college was originally housed in the Boardman House, that later became the Ithaca College Museum of Art, and it was listed on the National Register of Historic Places in 1971.[10]
+Ithaca College was founded as the Ithaca Conservatory of Music in 1892 when a local violin teacher, William Grant Egbert, rented four rooms and arranged for the instruction of eight students. For nearly seven decades the institution flourished in the city of Ithaca, adding to its music curriculum the study of elocution, dance, physical education, speech correction, radio, business, and the liberal arts. In 1931 the conservatory was chartered as a private college. The college was originally housed in the Boardman House, that later became the Ithaca College Museum of Art, and it was listed on the National Register of Historic Places in 1971.[10]
 
 Modern era
 
-Job_Hall,_Ithaca_College_campus.jpg By 1960, some 2,000 students were in attendance. A modern campus was built on South Hill in the 1960s, and students were shuttled between the old and new during the construction. The hillside campus continued to grow in the ensuing 30 years to accommodate more than 6,000 students.
+By 1960, some 2,000 students were in attendance. A modern campus was built on South Hill in the 1960s, and students were shuttled between the old and new during the construction. The hillside campus continued to grow in the ensuing 30 years to accommodate more than 6,000 students.
 
 As the campus expanded, the college also began to expand its curriculum. By the 1990s, some 2,000 courses in more than 100 programs of study were available in the college's five schools. The school attracts a multicultural student body with representatives from almost every state and from 78 foreign countries.[11]
 
 
 Campus
 
-Dillingham_Center_and_fountains,_Ithaca_College.jpg Ithaca College's current campus was built in the 1960s on South Hill. The college's final academic department moved from downtown to the South Hill campus in 1968, making the move complete.
+Ithaca College's current campus was built in the 1960s on South Hill. The college's final academic department moved from downtown to the South Hill campus in 1968, making the move complete.
 
 Satellite campuses
 
@@ -32,8 +32,6 @@ Ithaca College also operates direct enrollment exchange programs with several un
 
 
 Academics
-
-Muller_Faculty_Center_and_Class_of_2003_clock,_Ithaca_College_campus.jpg
 
 The college offers a curriculum with more than 100 degree programs in its five schools.
 
@@ -86,7 +84,7 @@ There are a few unaffiliated fraternities that some Ithaca College students join
 
 Athletics
 
-Athletics_and_Events_Center,_Ithaca_College.jpg Ithaca is a member of the NCAA's Division III, the Liberty League Conference, and the Eastern College Athletic Conference. Ithaca has one of Division III's strongest athletic programs, with the Bombers winning a total of 15 national titles in seven team sports and five individual sports.[38] Ithaca was previously a member of the Empire 8 Conference.[39]
+Ithaca is a member of the NCAA's Division III, the Liberty League Conference, and the Eastern College Athletic Conference. Ithaca has one of Division III's strongest athletic programs, with the Bombers winning a total of 15 national titles in seven team sports and five individual sports.[38] Ithaca was previously a member of the Empire 8 Conference.[39]
 
 The Ithaca athletics nickname "Bombers" is unique in NCAA athletics, and the origins of the nickname are obscure. Ithaca College's sports teams were originally named the Cayugas, but the name was changed to the Bombers sometime in the 1930s. Some other names that have been used for Ithaca College's teams include: Blue Team, Blues, Blue and Gold, Collegians, and the Seneca Streeters.[40] Several possibilities for the change to the "Bombers" have been posited. The most common explanation is that the school's baseball uniforms—white with navy blue pinstripes and an interlocking "IC" on the left chest—bear a striking resemblance to the distinctive home uniforms of the New York Yankees, who are known as the Bronx Bombers. It may also have referred to the Ithaca basketball team of that era and its propensity for half-court "bombs". Grumman Aircraft also manufactured airplanes including bombers in Ithaca for many years. The first “Bombers” reference on record was in the December 17, 1938 issue of the _Rochester Times-Union_ in a men's basketball article.[41]
 
@@ -126,7 +124,7 @@ For most activities, divisions are offered for men's, women's, and co-recreation
 
 Sustainability
 
-Peggy_Ryan_Williams_Center,_Ithaca_College.jpg Platinum Certified.]] Ithaca's School of Business was the first college or university business school in the world to achieve LEED Platinum Certification alongside Yale University, which had the second. Ithaca's Peggy Ryan Williams Center is also LEED Platinum certified. It makes extensive use of day light in occupied spaces. There are sensors that regulate lighting and ventilation based on occupancy and natural light. Over 50% of the building energy comes from renewable sources such as wind power. The college also has a LEED Gold Certified building, the Athletics & Events Center.[47] The college composts its dining hall waste,[48] runs a "Take It or Leave It" Green move-out program, and offers a sustainable living option.[49] It also operates an office supply collection and reuse program,[50] as well as a sustainability education program during new student orientation.[51] Ithaca received a B- grade on the Sustainable Endowments Institute's 2009 College Sustainability Report Card[52] and an A- for 2010.
+Platinum Certified.]] Ithaca's School of Business was the first college or university business school in the world to achieve LEED Platinum Certification alongside Yale University, which had the second. Ithaca's Peggy Ryan Williams Center is also LEED Platinum certified. It makes extensive use of day light in occupied spaces. There are sensors that regulate lighting and ventilation based on occupancy and natural light. Over 50% of the building energy comes from renewable sources such as wind power. The college also has a LEED Gold Certified building, the Athletics & Events Center.[47] The college composts its dining hall waste,[48] runs a "Take It or Leave It" Green move-out program, and offers a sustainable living option.[49] It also operates an office supply collection and reuse program,[50] as well as a sustainability education program during new student orientation.[51] Ithaca received a B- grade on the Sustainable Endowments Institute's 2009 College Sustainability Report Card[52] and an A- for 2010.
 
 Ithaca College was listed as one of Princeton Review's top "green colleges" for being environmentally responsible.[53]
 
@@ -175,7 +173,7 @@ Former presidents
 
 Alumni
 
-BobIgerHWOFJune2013.jpg '73, chairman and chief executive officer of The Walt Disney Company]] Ithaca College has over 70,000 alumni,[74] with clubs in Boston, Chicago, Connecticut, Los Angeles, Metro New York, National Capital, North and South Carolina, Philadelphia, Rochester (NY), San Diego, and Southern Florida.[75] Alumni events are hosted in cooperation with city-specific clubs and through a program called "IC on the Road".[76]
+'73, chairman and chief executive officer of The Walt Disney Company]] Ithaca College has over 70,000 alumni,[74] with clubs in Boston, Chicago, Connecticut, Los Angeles, Metro New York, National Capital, North and South Carolina, Philadelphia, Rochester (NY), San Diego, and Southern Florida.[75] Alumni events are hosted in cooperation with city-specific clubs and through a program called "IC on the Road".[76]
 
 Following is a brief list of noteworthy Ithaca College alumni. For a more extensive list, refer to the List of Ithaca College alumni.
 

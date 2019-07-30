@@ -11,7 +11,7 @@ Luxembourg is a founding member of the European Union, OECD, United Nations, NAT
 
 History
 
-Karl_IV._(HRR).jpg, the 14th-century Holy Roman Emperor and king of Bohemia from the House of Luxembourg[17]]] Festungsplan.von.Luxemburg.jpg Luxembourg_fortress_before_demolition.jpg
+, the 14th-century Holy Roman Emperor and king of Bohemia from the House of Luxembourg[17]]]
 
 County
 
@@ -29,15 +29,13 @@ After the defeat of Napoleon in 1815, Luxembourg was disputed between Prussia an
 
 At the time of the Belgian Revolution of 1830–1839, and by the 1839 Treaty establishing full independence, Luxembourg's territory was reduced by more than half, as the predominantly francophone western part of the country was transferred to Belgium. In 1842 Luxembourg joined the German Customs Union (Zollverein).[26] This resulted in the opening of the German market, the development of Luxembourg's steel industry, and expansion of Luxembourg's railway network from 1855 to 1875, particularly the construction of the Luxembourg-Thionville railway line, with connections from there to the European industrial regions.[27] While Prussian troops still manned the fortress, in 1861, the Passerelle was opened, the first road bridge spanning the Pétrusse river valley, connecting the Ville Haute and the main fortification on the Bock with Luxembourg railway station, opened in 1859, on the then fortified Bourbon plateau to the south.
 
-Grund,_Luxembourg_from_wall_above.jpg along Alzette river in the historical heart of Luxembourg City.]] After the Luxembourg Crisis of 1866 nearly led to war between Prussia and France, the Grand Duchy's independence and neutrality were again affirmed by the 1867 Second Treaty of London, Prussia's troops were withdrawn from the Fortress of Luxembourg, and its Bock and surrounding fortifications were dismantled.[28]
+along Alzette river in the historical heart of Luxembourg City.]] After the Luxembourg Crisis of 1866 nearly led to war between Prussia and France, the Grand Duchy's independence and neutrality were again affirmed by the 1867 Second Treaty of London, Prussia's troops were withdrawn from the Fortress of Luxembourg, and its Bock and surrounding fortifications were dismantled.[28]
 
 The King of the Netherlands remained Head of State as Grand Duke of Luxembourg, maintaining a personal union between the two countries until 1890. At the death of William III, the throne of the Netherlands passed to his daughter Wilhelmina, while Luxembourg (then restricted to male heirs by the Nassau Family Pact) passed to Adolph of Nassau-Weilburg.[29]
 
 At the time of the Franco-Prussian war in 1870, despite allegations about French use of the Luxembourg railways for passing soldiers from Metz (then part of France) through the Duchy, and for forwarding provisions to Thionville, Luxembourg's neutrality was respected by Germany, and neither France nor Germany invaded the country.[30][31] But in 1871, as a result of Germany's victory over France, Luxembourg's boundary with Lorraine, containing Metz and Thionville, changed from being a frontier with a part of France to a frontier with territory annexed to the German Empire as Alsace-Lorraine under the Treaty of Frankfurt. This allowed Germany the military advantage of controlling and expanding the railways there.
 
 Twentieth century
-
-Alsace-lorraine.JPG
 
 In August 1914, Imperial Germany violated Luxembourg's neutrality in the war by invading it in the war against France. This allowed Germany to use the railway lines, while at the same time denying them to France. Nevertheless, despite the German occupation, Luxembourg was allowed to maintain much of its independence and political mechanisms.
 
@@ -50,7 +48,7 @@ The steel industry exploiting the Red Lands' rich iron-ore grounds in the beginn
 
 Politics
 
-Grand_Ducal_Palace,_Luxembourg_1.jpg in Luxembourg City, the official residence of the Grand Duke of Luxembourg]] Chamber_of_Deputies_of_Luxembourg.JPG, in Luxembourg City]] Vladimir_Putin_in_Luxembourg_24_May_2007-22.jpg and Deputy Prime Minister Jean Asselborn with Russian President Vladimir Putin on 24 May 2007]] Luxembourg is described as a "full democracy",[35] with a parliamentary democracy headed by a constitutional monarch. Executive power is exercised by the Grand Duke and the cabinet, which consists of several other ministers.[36] The Constitution of Luxembourg, the supreme law of Luxembourg, was adopted on 17 October 1868.[37] The Grand Duke has the power to dissolve the legislature, in which case new elections must be held within three months. However, since 1919, sovereignty has resided with the Nation, exercised by the Grand Duke in accordance with the Constitution and the law.[38]
+in Luxembourg City, the official residence of the Grand Duke of Luxembourg]] , in Luxembourg City]] and Deputy Prime Minister Jean Asselborn with Russian President Vladimir Putin on 24 May 2007]] Luxembourg is described as a "full democracy",[35] with a parliamentary democracy headed by a constitutional monarch. Executive power is exercised by the Grand Duke and the cabinet, which consists of several other ministers.[36] The Constitution of Luxembourg, the supreme law of Luxembourg, was adopted on 17 October 1868.[37] The Grand Duke has the power to dissolve the legislature, in which case new elections must be held within three months. However, since 1919, sovereignty has resided with the Nation, exercised by the Grand Duke in accordance with the Constitution and the law.[38]
 
 Legislative power is vested in the Chamber of Deputies, a unicameral legislature of sixty members, who are directly elected to five-year terms from four constituencies. A second body, the Council of State (_Conseil d'État_), composed of twenty-one ordinary citizens appointed by the Grand Duke, advises the Chamber of Deputies in the drafting of legislation.[39]
 
@@ -62,13 +60,13 @@ Luxembourg is divided into 12 cantons, which are further divided into 102 commun
 
 Foreign relations
 
-European_Court_of_Justice_-_Luxembourg_(1674586821).jpg, seated in Luxembourg City.]] Luxembourg has long been a prominent supporter of European political and economic integration. In efforts foreshadowing European integration, Luxembourg and Belgium in 1921 formed the Belgium–Luxembourg Economic Union (BLEU) to create a regime of inter-exchangeable currency and a common customs. Luxembourg is a member of the Benelux Economic Union and was one of the founding members of the European Economic Community (now the European Union). It also participates in the Schengen Group (named after the Luxembourg village of Schengen where the agreements were signed), whose goal is the free movement of citizens among member states. At the same time, the majority of Luxembourgers have consistently believed that European unity makes sense only in the context of a dynamic transatlantic relationship, and thus have traditionally pursued a pro-NATO, pro-US foreign policy.
+, seated in Luxembourg City.]] Luxembourg has long been a prominent supporter of European political and economic integration. In efforts foreshadowing European integration, Luxembourg and Belgium in 1921 formed the Belgium–Luxembourg Economic Union (BLEU) to create a regime of inter-exchangeable currency and a common customs. Luxembourg is a member of the Benelux Economic Union and was one of the founding members of the European Economic Community (now the European Union). It also participates in the Schengen Group (named after the Luxembourg village of Schengen where the agreements were signed), whose goal is the free movement of citizens among member states. At the same time, the majority of Luxembourgers have consistently believed that European unity makes sense only in the context of a dynamic transatlantic relationship, and thus have traditionally pursued a pro-NATO, pro-US foreign policy.
 
 Luxembourg is the site of the European Court of Justice, the European Court of Auditors, the Statistical Office of the European Communities ("Eurostat") and other vital EU organs. The Secretariat of the European Parliament is located in Luxembourg, but the Parliament usually meets in Brussels and sometimes in Strasbourg.
 
 Military
 
-Soldats_luxembourgeois.jpg The Army is situated on the "Härebierg" which is Luxemburgish and translates to "men's mountain".[41] The army is under civilian control, with the Grand Duke as Commander-in-Chief. The Minister for Defence, currently François Bausch, oversees army operations. The professional head of the army is the Chief of Defence, who answers to the minister and holds the rank of general.
+The Army is situated on the "Härebierg" which is Luxemburgish and translates to "men's mountain".[41] The army is under civilian control, with the Grand Duke as Commander-in-Chief. The Minister for Defence, currently François Bausch, oversees army operations. The professional head of the army is the Chief of Defence, who answers to the minister and holds the rank of general.
 
 Being a landlocked country, it has no navy. Luxembourg also lacks an air force, though the 17 NATO AWACS aeroplanes are, for convenience, registered as aircraft of Luxembourg.[42] In accordance with a joint agreement with Belgium, both countries have put forth funding for one A400M military cargo plane.[43]
 
@@ -77,13 +75,13 @@ Luxembourg has participated in the Eurocorps, has contributed troops to the UNPR
 
 Geography
 
-Luxembourg-CIA_WFB_Map.png, Esch-sur-Alzette, Dudelange, and Differdange.]] Luxembourg is one of the smallest countries in Europe, and ranked 167th in size of all the 194 independent countries of the world; the country is about in size, and measures long and wide. It lies between latitudes 49° and 51° N, and longitudes 5° and 7° E.[45]
+, Esch-sur-Alzette, Dudelange, and Differdange.]] Luxembourg is one of the smallest countries in Europe, and ranked 167th in size of all the 194 independent countries of the world; the country is about in size, and measures long and wide. It lies between latitudes 49° and 51° N, and longitudes 5° and 7° E.[45]
 
 To the east, Luxembourg borders the German _Bundesländer_ of Rhineland-Palatinate and Saarland, and to the south, it borders the French _région_ of Grand Est (Lorraine). The Grand Duchy borders the Belgian Walloon Region, in particular the latter's provinces of Luxembourg and Liège, part of which comprises the German-speaking Community of Belgium, to the west and to the north, respectively.
 
 The northern third of the country is known as the 'Oesling', and forms part of the Ardennes. It is dominated by hills and low mountains, including the Kneiff near Wilwerdange,[46] which is the highest point, at 560 metres (1,837 ft). Other mountains are the 'Buurgplaaz' at 559 metres near Huldange and the 'Napoléonsgaard' at 554 metres near Rambrouch. The region is sparsely populated, with only one town (Wiltz) with a population of more than four thousand people.
 
-Vue_op_Alschent-001.JPG]]
+]]
 
 The southern two-thirds of the country is called the "Gutland", and is more densely populated than the Oesling. It is also more diverse and can be divided into five geographic sub-regions. The Luxembourg plateau, in south-central Luxembourg, is a large, flat, sandstone formation, and the site of the city of Luxembourg. Little Switzerland, in the east of Luxembourg, has craggy terrain and thick forests. The Moselle valley is the lowest-lying region, running along the southeastern border. The Red Lands, in the far south and southwest, are Luxembourg's industrial heartland and home to many of Luxembourg's largest towns.
 
@@ -96,7 +94,7 @@ Luxembourg has an oceanic climate (Köppen: _Cfb_), marked by high precipitation
 
 Economy
 
-BlueEurozone.svg, the EU single market, and the Eurozone (dark blue)]] Luxembourg_treemap.png
+, the EU single market, and the Eurozone (dark blue)]]
 
 Luxembourg's stable and high-income market economy features moderate growth, low inflation, and a high level of innovation.[50] Unemployment is traditionally low, although it had risen to 6.1% by May 2012, due largely to the effect of the 2008 global financial crisis.[51] In 2011, according to the IMF, Luxembourg was the second richest country in the world, with a per capita GDP on a purchasing-power parity (PPP) basis of $80,119.[52] Luxembourg is ranked 13th in The Heritage Foundation's Index of Economic Freedom,[53] 26th in the United Nations Human Development Index, and 4th in the Economist Intelligence Unit's quality of life index.[54]
 
@@ -116,7 +114,7 @@ With $171 billion in May 2015, the country ranks eleventh in the world in holdin
 
 Transport
 
-LUX_Check-In_Schalter.jpg is based at Luxembourg Airport, the country's only international airport.]]
+is based at Luxembourg Airport, the country's only international airport.]]
 
 Luxembourg has efficient road, rail and air transport facilities and services. The road network has been significantly modernised in recent years with of motorways connecting the capital to adjacent countries. The advent of the high-speed TGV link to Paris has led to renovation of the city's railway station and a new passenger terminal at Luxembourg Airport was opened in 2008. Luxembourg city reintroduced trams in December 2017 and there are plans to open light-rail lines in adjacent areas within the next few years.
 
@@ -132,7 +130,7 @@ Luxembourg has modern and widely deployed optical fiber and cable networks throu
 
 It ranks 2nd in the world in the development of the Information and Communication Technologies in the ITU ICT Development Index and 8th in the Global Broadband Quality Study 2009 by the University of Oxford and the University of Oviedo.[75][76][77][78]
 
-Centre_Drosbach_Luxembourg_Signs_-_June_2012.jpg on the Cloche d'or, in the city of Luxembourg]] Luxembourg is connected to all major European Internet Exchanges (AMS-IX Amsterdam,[79] DE-CIX Frankfurt,[80] LINX London),[81] datacenters and POPs through redundant optical networks.[82][83][84][85][86] In addition, the country is connected to the virtual meetme room services (vmmr)[87] of the international data hub operator Ancotel.[88] This enables Luxembourg to interconnect with all major telecommunication operators[89] and data carriers worldwide. The interconnection points are in Frankfurt, London, New York and Hong Kong.[90] Luxembourg has established itself as one of the leading financial technology (FinTech) hubs in Europe, with the Luxembourg government supporting initiatives like the Luxembourg House of Financial Technology.[91]
+on the Cloche d'or, in the city of Luxembourg]] Luxembourg is connected to all major European Internet Exchanges (AMS-IX Amsterdam,[79] DE-CIX Frankfurt,[80] LINX London),[81] datacenters and POPs through redundant optical networks.[82][83][84][85][86] In addition, the country is connected to the virtual meetme room services (vmmr)[87] of the international data hub operator Ancotel.[88] This enables Luxembourg to interconnect with all major telecommunication operators[89] and data carriers worldwide. The interconnection points are in Frankfurt, London, New York and Hong Kong.[90] Luxembourg has established itself as one of the leading financial technology (FinTech) hubs in Europe, with the Luxembourg government supporting initiatives like the Luxembourg House of Financial Technology.[91]
 
 Some 20 data centres[92][93][94] are operating in Luxembourg. Six data centers are Tier IV Design certified: three of ebrc,[95] two of LuxConnect [96][97] and one of European Data Hub.[98] In a survey on nine international data centers carried out in December 2012 and January 2013 and measuring availability (up-time) and performance (delay by which the data from the requested website was received), the top three positions were held by Luxembourg data centers.[99][100]
 
@@ -173,7 +171,7 @@ Since the beginning of the Yugoslav wars, Luxembourg has seen many immigrants fr
 
 Language
 
-LUX-5f2.jpg in two of the country's three languages: French (obverse, left) and Luxembourgish (reverse, right)]] The linguistic situation of Luxembourg is complex. It is characterized by the existence of a language specific to the local population (Luxembourgish), mixed with the historical presence of the two major languages spoken in the surrounding countries (French and German).
+in two of the country's three languages: French (obverse, left) and Luxembourgish (reverse, right)]] The linguistic situation of Luxembourg is complex. It is characterized by the existence of a language specific to the local population (Luxembourgish), mixed with the historical presence of the two major languages spoken in the surrounding countries (French and German).
 
 Three languages are recognised as official in Luxembourg: French, German and Luxembourgish, a Franconian language of the Moselle region that is also spoken in neighbouring parts of Belgium, Germany and France. Though Luxembourgish is part of the West Central German group of High German languages, more than 5,000 words in the language are of French origin.[106][107] The first printed sentences in Luxembourgish appeared in a weekly journal, the 'Luxemburger Wochenblatt', in the second edition on 14 April 1821.
 
@@ -191,7 +189,7 @@ Due to the large community of Portuguese origin, the Portuguese language is de f
 
 Religion
 
-Notre_Dame_Cathedral_Luxembourg.JPG, Luxembourg City]]
+, Luxembourg City]]
 
 Luxembourg is a secular state, but the state recognises certain religions as officially mandated religions. This gives the state a hand in religious administration and appointment of clergy, in exchange for which the state pays certain running costs and wages. Currently, religions covered by such arrangements are Roman Catholicism, Judaism, Greek Orthodoxy, Anglicanism, Russian Orthodoxy, Lutheranism, Calvinism, Mennonitism and Islam.[112]
 
@@ -201,7 +199,7 @@ According to a 2005 Eurobarometer poll,[116] 44% of Luxembourg citizens responde
 
 Education
 
-University_luxemburg_lmp_main.jpg is the only university based in the country.]] Luxembourg's education system is trilingual: the first years of primary school are in Luxembourgish, before changing to German; while in secondary school, the language of instruction changes to French.[117] Proficiency in all three languages is required for graduation from secondary school, but half the students leave school without a certified qualification, with the children of immigrants being particularly disadvantaged.[118] In addition to the three national languages, English is taught in compulsory schooling and much of the population of Luxembourg can speak English. The past two decades have highlighted the growing importance of English in several sectors, in particular the financial sector. Portuguese, the language of the largest immigrant community, is also spoken by large segments of the population, but by relatively few from outside the Portuguese-speaking community.[119]
+is the only university based in the country.]] Luxembourg's education system is trilingual: the first years of primary school are in Luxembourgish, before changing to German; while in secondary school, the language of instruction changes to French.[117] Proficiency in all three languages is required for graduation from secondary school, but half the students leave school without a certified qualification, with the children of immigrants being particularly disadvantaged.[118] In addition to the three national languages, English is taught in compulsory schooling and much of the population of Luxembourg can speak English. The past two decades have highlighted the growing importance of English in several sectors, in particular the financial sector. Portuguese, the language of the largest immigrant community, is also spoken by large segments of the population, but by relatively few from outside the Portuguese-speaking community.[119]
 
 The University of Luxembourg is the only university based in Luxembourg. In 2014, Luxembourg School of Business, a graduate business school, has been created through private initiative and has received the accreditation from the Ministry of Higher Education and Research of Luxembourg in 2017.[120][121] Two American universities maintain satellite campuses in the country, Miami University (Dolibois European Center) and Sacred Heart University (Luxembourg Campus).[122]
 
@@ -212,7 +210,7 @@ According to data from the World Health Organization, healthcare spending on beh
 
 Culture
 
-Edward_Steichen.jpg, Luxembourgish photographer and painter]]
+, Luxembourgish photographer and painter]]
 
 Luxembourg has been overshadowed by the culture of its neighbours. It retains a number of folk traditions, having been for much of its history a profoundly rural country. There are several notable museums, located mostly in the capital. These include the National Museum of History and Art (NMHA), the Luxembourg City History Museum, and the new Grand Duke Jean Museum of Modern Art (Mudam). The National Museum of Military History (MNHM) in Diekirch is especially known for its representations of the Battle of the Bulge. The city of Luxembourg itself is on the UNESCO World Heritage List, on account of the historical importance of its fortifications.[126]
 
@@ -224,11 +222,11 @@ Luxembourg was represented at the World Expo 2010 in Shanghai, China, from 1 May
 
 Sports
 
-Charly_Gaul_1959_(cropped).jpg in his cycling career.]] Unlike most countries in Europe, sport in Luxembourg is not concentrated upon a particular national sport, but encompasses a number of sports, both team and individual. Despite the lack of a central sporting focus, over 100,000 people in Luxembourg, out of a total population of near 500,000–600,000, are licensed members of one sports federation or another.[131] The largest sports venue in the country is d'Coque, an indoor arena and Olympic swimming pool in Kirchberg, north-eastern Luxembourg City, which has a capacity of 8,300. The arena is used for basketball, handball, gymnastics, and volleyball, including the final of the 2007 Women's European Volleyball Championship. The national stadium (also the country's largest) is the Stade Josy Barthel, in western Luxembourg City; named after the country's only official Olympic gold medallist, the stadium has a capacity of 8,054.
+in his cycling career.]] Unlike most countries in Europe, sport in Luxembourg is not concentrated upon a particular national sport, but encompasses a number of sports, both team and individual. Despite the lack of a central sporting focus, over 100,000 people in Luxembourg, out of a total population of near 500,000–600,000, are licensed members of one sports federation or another.[131] The largest sports venue in the country is d'Coque, an indoor arena and Olympic swimming pool in Kirchberg, north-eastern Luxembourg City, which has a capacity of 8,300. The arena is used for basketball, handball, gymnastics, and volleyball, including the final of the 2007 Women's European Volleyball Championship. The national stadium (also the country's largest) is the Stade Josy Barthel, in western Luxembourg City; named after the country's only official Olympic gold medallist, the stadium has a capacity of 8,054.
 
 Cuisine
 
-JuddMatGaardebounen_Beer.JPG'', served with boiled potatoes and Diekirch beer]] Luxembourg cuisine reflects its position on the border between the Latin and Germanic worlds, being heavily influenced by the cuisines of neighboring France and Germany. More recently, it has been enriched by its many Italian and Portuguese immigrants.
+'', served with boiled potatoes and Diekirch beer]] Luxembourg cuisine reflects its position on the border between the Latin and Germanic worlds, being heavily influenced by the cuisines of neighboring France and Germany. More recently, it has been enriched by its many Italian and Portuguese immigrants.
 
 Most native Luxembourg dishes, consumed as the traditional daily fare, share roots in the country's folk dishes the same as in neighboring Germany.
 

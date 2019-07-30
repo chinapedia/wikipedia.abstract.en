@@ -1,4 +1,4 @@
-Phospholipases2.png''.]]
+''.]]
 
 A PHOSPHOLIPASE is an enzyme that hydrolyzes phospholipids[1] into fatty acids and other lipophilic substances. There are four major classes, termed A, B, C and D, which are distinguished by the type of reaction which they catalyze:
 

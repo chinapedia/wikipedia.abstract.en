@@ -1,5 +1,3 @@
-Perimiters.svg
-
 A PERIMETER is a path that encompasses/surrounds a two-dimensional shape. The term may be used either for the path, or its length— in one dimension. It can be thought of as the length of the outline of a shape. The perimeter of a circle or ellipse is called its circumference.
 
 Calculating the perimeter has several practical applications. A calculated perimeter is the length of fence required to surround a yard or garden. The perimeter of a wheel/circle (its circumference) describes how far it will roll in one revolution. Similarly, the amount of string wound around a spool is related to the spool's perimeter; if the length of the string was exact, it would equal the perimeter.
@@ -17,7 +15,7 @@ Formulas
   regular polygon       $2nb \sin\left(\frac{\pi}{n}\right)$                  where n is the number of sides and b is the distance between center of the polygon and one of the vertices of the polygon.
   general polygon       $a_1 + a_2 + a_3 + \cdots + a_n = \sum_{i=1}^n a_i$   where a_(i) is the length of the i-th (1st, 2nd, 3rd ... _n_th) side of an _n_-sided polygon.
 
-Herzkurve2.svg γ : [0, 2π] → ℝ²
+ γ : [0, 2π] → ℝ²
 (drawing with a = 1)
 x(t) = 2acos (t)(1 + cos (t))
 y(t) = 2asin (t)(1 + cos (t))
@@ -33,7 +31,7 @@ A generalized notion of perimeter, which includes hypersurfaces bounding volumes
 
 Polygons
 
-PerimeterRectangle.svg Polygons are fundamental to determining perimeters, not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by approximating them with sequences of polygons tending to these shapes. The first mathematician known to have used this kind of reasoning is Archimedes, who approximated the perimeter of a circle by surrounding it with regular polygons.
+Polygons are fundamental to determining perimeters, not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by approximating them with sequences of polygons tending to these shapes. The first mathematician known to have used this kind of reasoning is Archimedes, who approximated the perimeter of a circle by surrounding it with regular polygons.
 
 The perimeter of a polygon equals the sum of the lengths of its sides (edges). In particular, the perimeter of a rectangle of width w and length ℓ equals 2w + 2ℓ.
 
@@ -50,7 +48,7 @@ A cleaver of a triangle is a segment from the midpoint of a side of a triangle t
 
 Circumference of a circle
 
-Pi-unrolled-720.gif The perimeter of a circle, often called the circumference, is proportional to its diameter and its radius. That is to say, there exists a constant number pi, (the Greek _p_ for perimeter), such that if is the circle's perimeter and its diameter then,
+The perimeter of a circle, often called the circumference, is proportional to its diameter and its radius. That is to say, there exists a constant number pi, (the Greek _p_ for perimeter), such that if is the circle's perimeter and its diameter then,
 
 _P_ = _π_ ⋅ _D_.​
 
@@ -63,7 +61,7 @@ To calculate a circle's perimeter, knowledge of its radius or diameter and the n
 
 Perception of perimeter
 
-Hexaflake.gif remains the same.]] Neuf_Brisach.jpg fortification perimeter is complicated. The shortest path around it is along its convex hull.]] The perimeter and the area are two main measures of geometric figures. Confusing them is a common error, as well as believing that the greater one of them is, the greater the other must be. Indeed, a commonplace observation is that an enlargement (or a reduction) of a shape make its area grow (or decrease) as well as its perimeter. For example, if a field is drawn on a 1/ scale map, the actual field perimeter can be calculated multiplying the drawing perimeter by . The real area is times the area of the shape on the map. Nevertheless, there is no relation between the area and the perimeter of an ordinary shape. For example, the perimeter of a rectangle of width 0.001 and length 1000 is slightly above 2000, while the perimeter of a rectangle of width 0.5 and length 2 is 5. Both areas equal to 1.
+remains the same.]] fortification perimeter is complicated. The shortest path around it is along its convex hull.]] The perimeter and the area are two main measures of geometric figures. Confusing them is a common error, as well as believing that the greater one of them is, the greater the other must be. Indeed, a commonplace observation is that an enlargement (or a reduction) of a shape make its area grow (or decrease) as well as its perimeter. For example, if a field is drawn on a 1/ scale map, the actual field perimeter can be calculated multiplying the drawing perimeter by . The real area is times the area of the shape on the map. Nevertheless, there is no relation between the area and the perimeter of an ordinary shape. For example, the perimeter of a rectangle of width 0.001 and length 1000 is slightly above 2000, while the perimeter of a rectangle of width 0.5 and length 2 is 5. Both areas equal to 1.
 
 Proclus (5th century) reported that Greek peasants "fairly" parted fields relying on their perimeters.[1] However, a field's production is proportional to its area, not to its perimeter, so many naive peasants may have gotten fields with long perimeters but small areas (thus, few crops).
 

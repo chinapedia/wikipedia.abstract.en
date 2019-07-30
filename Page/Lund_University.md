@@ -9,7 +9,7 @@ The university centers on the Lundagård park adjacent to the Lund Cathedral, wi
 
 History
 
-Lunds_universitets_huvudbyggnad_(juli_2008).jpg, built in 1882, drawn by Helgo Zettervall.]]
+, built in 1882, drawn by Helgo Zettervall.]]
 
 Medieval origins
 
@@ -25,7 +25,7 @@ The university was at its founding granted four faculties: law, theological, med
 
 The Scanian War in 1676 led to a shut-down, which lasted until 1682. The university was re-opened largely due to regional patriots, but the university was not to enjoy a high status until well into the 19th century. Lecturing rooms were few, and lectures were held in the Lund Cathedral and its adjacent chapel. The professors were underpaid.
 
-Historiska_museet_i_Lund,_1800-tal.jpg In 1716, Charles XII of Sweden entered Lund. He stayed in Lund for two years, in between his warlike expeditions. Lund and the university attracted a temporary attention boost. The most notable lecturer during this time was Andreas Rydelius.
+In 1716, Charles XII of Sweden entered Lund. He stayed in Lund for two years, in between his warlike expeditions. Lund and the university attracted a temporary attention boost. The most notable lecturer during this time was Andreas Rydelius.
 
 Peace was finally restored with the death of Charles XII in 1718, and during the first half of the 18th century the university was granted added funds. The number of students was now well around 500. Despite not being on par with Uppsala University, it had still built a solid reputation and managed to attract prominent professors.
 
@@ -37,7 +37,7 @@ A student called Elsa Collin was the first woman in the whole of Sweden to take 
 
 20th century – present
 
-Universitetsplatsen_Lund.jpg In the early 20th century, the university had a student population as small as one thousand, consisting largely of upper-class pupils training to become civil servants, lawyers and doctors. In the coming decades it started to grow significantly, until it became one of the country's largest. In 1964 the social sciences were split from the Faculty of Humanities. Lund Institute of Technology was established in 1961 but was merged with Lund University eight years later.
+In the early 20th century, the university had a student population as small as one thousand, consisting largely of upper-class pupils training to become civil servants, lawyers and doctors. In the coming decades it started to grow significantly, until it became one of the country's largest. In 1964 the social sciences were split from the Faculty of Humanities. Lund Institute of Technology was established in 1961 but was merged with Lund University eight years later.
 
 In recent years, Lund University has been very popular among applicants to Swedish higher education institutions, both nationally[10] and internationally.[11][12] For studies starting in autumn 2012, Lund received 11,160 foreign master's applications from 152 countries, which was roughly one third of all international applications to Swedish universities.[13]
 
@@ -47,7 +47,7 @@ The first woman to study in Lund was Hildegard Björck (spring of 1880) who had 
 
 Campus
 
-Kungshuset_Lund_2010.jpg,'' the oldest university building (completed 1584).]] Universitetsbiblioteket_080508.jpg Skånes_universitetssjukhus_i_Lund–flygbild_06_september_2014.jpg The university's facilities are mainly located in the small city of Lund in Scania, about 15 km away from central Malmö and 50 km from Copenhagen. The large student- and staff population makes an impact on the city, effectively making it a university town. Over a hundred university buildings[15] scatter around town, most of them in an area covering more than 1 km², stretching towards the north-east from Lundagård park in the very centre of town. Buildings in and around Lundagård include the main building, Kungshuset, the Historical Museum and the Academic Society's headquarters. The main library building is located in a park 400 meters to the north, followed by the large hospital complex.
+,'' the oldest university building (completed 1584).]] The university's facilities are mainly located in the small city of Lund in Scania, about 15 km away from central Malmö and 50 km from Copenhagen. The large student- and staff population makes an impact on the city, effectively making it a university town. Over a hundred university buildings[15] scatter around town, most of them in an area covering more than 1 km², stretching towards the north-east from Lundagård park in the very centre of town. Buildings in and around Lundagård include the main building, Kungshuset, the Historical Museum and the Academic Society's headquarters. The main library building is located in a park 400 meters to the north, followed by the large hospital complex.
 
 Lund University has a satellite campus in nearby Malmö, Sweden's third largest city. The Faculty of Fine and Performing Arts' three academies: Malmö Art Academy, Malmö Academy of Music and Malmö Theatre Academy, are all located in Malmö. The city is also the location of Skåne University Hospital, where Lund University performs a considerable amount of research and medical training.
 
@@ -68,7 +68,7 @@ Organisation
 
 Administration
 
-Lunds_universitet-1.jpges overlooking Lundagård Park.]] The University Board is the University's highest decision-making body. The Board comprises the Vice-Chancellor, representatives of the teaching staff and students, and representatives of the community and business sector.[18] Chair of the board is Margot Wallström. Executive power lies with the Vice-Chancellor and the University Management Group, to which most other administrative bodies are subordinate.[19]
+es overlooking Lundagård Park.]] The University Board is the University's highest decision-making body. The Board comprises the Vice-Chancellor, representatives of the teaching staff and students, and representatives of the community and business sector.[18] Chair of the board is Margot Wallström. Executive power lies with the Vice-Chancellor and the University Management Group, to which most other administrative bodies are subordinate.[19]
 
 Faculties
 
@@ -85,7 +85,7 @@ Lund University is divided into eight faculties:[20]
 
 Research centres
 
-The university is also organised into more than 20 institutes and research centres,[21] such as: Esaias_tegner_lundagard_080508.jpg statue near the towering Lund Cathedral.]]
+The university is also organised into more than 20 institutes and research centres,[21] such as: statue near the towering Lund Cathedral.]]
 
 -   Lund University Centre for Sustainability Studies (LUCSUS)
 -   Biomedical Centre
@@ -109,7 +109,7 @@ The university is also organised into more than 20 institutes and research centr
 
 Academics
 
-Ikdc_lund_080508.jpg Lund_University_observatory.jpg Max_IV–flygbild_06_september_2014-2.jpg synchrotron radiation laboratory]] Lund_University_Nanoscience.jpg Bio_Medical_Center_LU.jpg
+synchrotron radiation laboratory]]
 
 Education
 
@@ -169,7 +169,7 @@ The 2015–16 Times Higher Education World University Rankings placed the univer
 
 Student life
 
-AF-borgen_2002.jpg,'' the student-run complex at the heart of student life in Lund, May 2002.]] Lund student life is based on three central structures: the student nations, the Academic Society (AF) and the student unions. Before July 1, 2010, students were required to enroll in a student union, nation and AF in order to receive grades at the university, but this is no longer compulsory.[43] Students may still enroll in these organizations if they wish.
+,'' the student-run complex at the heart of student life in Lund, May 2002.]] Lund student life is based on three central structures: the student nations, the Academic Society (AF) and the student unions. Before July 1, 2010, students were required to enroll in a student union, nation and AF in order to receive grades at the university, but this is no longer compulsory.[43] Students may still enroll in these organizations if they wish.
 
 Student nations
 
@@ -185,7 +185,7 @@ In 1830, Professor Carl Adolph Agardh formed _Akademiska Föreningen_ (The Acade
 
 Student unions
 
-Delphi_Panorama2007.jpg The student unions represent students in various decision-making boards within the university and council students regarding their rights, housing and career options. There are nine student unions, one for each faculty and an additional union for doctoral students. Lund's Doctoral Student Union is further divided into councils, one for each faculty except for the faculties of engineering and fine and performing arts.[45]
+The student unions represent students in various decision-making boards within the university and council students regarding their rights, housing and career options. There are nine student unions, one for each faculty and an additional union for doctoral students. Lund's Doctoral Student Union is further divided into councils, one for each faculty except for the faculties of engineering and fine and performing arts.[45]
 
 The unions are incorporated into the Association of Lund University Student Unions (LUS). It has two full-time representatives who go to weekly meetings with the vice-chancellor and other organizational university bodies. The student union association runs services such as loan institute, a day-care centre and a website with housing information. It also publishes the monthly Lundagård magazine.
 
@@ -198,7 +198,7 @@ LINC has a strong heritage, noteworthy alumni at top financial institutions, and
 
 Notable people
 
-Samuel_von_Pufendorf.jpg.]] Tage_Erlander_&_Bertil_Ohlin_1954.jpg & Bertil Ohlin 1954.]] Ruth_Bader_Ginsburg,_SCOTUS_photo_portrait.jpg, SCOTUS photo portrait.]] 1924_Karl_Manne_Siegbahn.jpg, Nobel Prize in Physics.]] Swedish_author_Viktor_rydberg_with_signature.jpg with signature.]]
+.]] & Bertil Ohlin 1954.]] , SCOTUS photo portrait.]] , Nobel Prize in Physics.]] with signature.]]
 
 Alumni and faculty of Lund University are associated with, among other things: the creation of the first implantable pacemaker, the development of echocardiography, the spread of modern physiotherapy, the discovery of the role of dopamine as an independent neurotransmitter, the determination of the number of chromosomes of man, the establishment of osseointegration, the development of the Bluetooth technology, and the creation of the Rydberg formula.
 
@@ -214,7 +214,7 @@ Carl Linnaeus (1707–1778), began his academic career in Lund by studying medic
 
 Mathematics, engineering and physical sciences
 
-Per Georg Scheutz (1785–1873) was a Swedish lawyer, publicist and inventor who created the first working programmable difference engine with a printing unit. Martin Wiberg (1826–1905) was a prolific inventor who, among many things, created the first difference engine the size of a sewing machine that could calculate and print logarithmic tables. Johannes Rydberg (1854–1919) was a renowned physicist famous for the Rydberg formula and the Rydberg constant. Carl Charlier (1862–1934) was an internationally acclaimed astronomer who made important contributions to astronomy as well as statistics and was awarded the James Craig Watson Medal in 1924 and the Bruce Medal in 1933. Manne Siegbahn (1886–1978), a student of Rydberg, was awarded the Nobel Prize in Physics 1924 for his discoveries and research in the field of X-ray spectroscopy. Oskar Klein (1894–1977) was an internationally renowned theoretical physicist famous for the Klein-Kaluza theory, the Klein-Gordon equation, and the Klein-Nishina formula. Pehr Edman (1916–1977) was a renowned biochemist who developed a method for sequencing proteins, known as the Edman degradation, and has been called the father of modern biochemistry.[61] Hellmuth Hertz (1920–1990) developed the echocardiography together with Inge Edler (see above), and was also the first to develop the ink jet technology of printing.[62] Lars Hörmander FieldsMedalFrontArchimedes.jpg (1931–2012) is sometimes considered the foremost contributor to the modern theory of linear partial differential equations{{ cite web
+Per Georg Scheutz (1785–1873) was a Swedish lawyer, publicist and inventor who created the first working programmable difference engine with a printing unit. Martin Wiberg (1826–1905) was a prolific inventor who, among many things, created the first difference engine the size of a sewing machine that could calculate and print logarithmic tables. Johannes Rydberg (1854–1919) was a renowned physicist famous for the Rydberg formula and the Rydberg constant. Carl Charlier (1862–1934) was an internationally acclaimed astronomer who made important contributions to astronomy as well as statistics and was awarded the James Craig Watson Medal in 1924 and the Bruce Medal in 1933. Manne Siegbahn (1886–1978), a student of Rydberg, was awarded the Nobel Prize in Physics 1924 for his discoveries and research in the field of X-ray spectroscopy. Oskar Klein (1894–1977) was an internationally renowned theoretical physicist famous for the Klein-Kaluza theory, the Klein-Gordon equation, and the Klein-Nishina formula. Pehr Edman (1916–1977) was a renowned biochemist who developed a method for sequencing proteins, known as the Edman degradation, and has been called the father of modern biochemistry.[61] Hellmuth Hertz (1920–1990) developed the echocardiography together with Inge Edler (see above), and was also the first to develop the ink jet technology of printing.[62] Lars Hörmander (1931–2012) is sometimes considered the foremost contributor to the modern theory of linear partial differential equations{{ cite web
 
 | title = Lars Hormander Winner of Wolf Prize in Mathematics - 1988
 | url = http://www.wolffund.org.il/index.php?dir=site&page=winners&cs=207&language=eng

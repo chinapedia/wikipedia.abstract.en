@@ -27,7 +27,7 @@ Marvin's military awards include: the Purple Heart Medal, the Presidential Unit 
 
 Acting career
 
-Lee_Marvin_Twilight_Zone_1961.JPG", a 1961 episode of _The Twilight Zone_ ]]
+", a 1961 episode of _The Twilight Zone_ ]]
 
 Early acting career
 
@@ -69,13 +69,13 @@ Marvin played Robert Mitchum's friend in _Not as a Stranger_ (1955), a medical d
 
 Marvin was in _I Died a Thousand Times_ (1955) with Jack Palance, _Shack Out on 101_ (1955), _Kraft Theatre_, and _Front Row Center._
 
-Aldrich_Attack_movie_trailer_screenshot2.jpg'']] Marvin was the villain in _7 Men from Now_ (1956) with Randolph Scott directed by Boetticher. He was second billed to Palance in _Attack_ (1956) directed by Robert Aldrich.
+'']] Marvin was the villain in _7 Men from Now_ (1956) with Randolph Scott directed by Boetticher. He was second billed to Palance in _Attack_ (1956) directed by Robert Aldrich.
 
 Marvin had good roles in _Pillars of the Sky_ (1956) with Jeff Chandler, _The Rack_ (1956) with Paul Newman, _Raintree County_ (1956) and _The Missouri Traveler_ (1958). He also guest starred on _Climax!_ (several times), _Studio 57_, _The United States Steel Hour_ and _Schlitz Playhouse_.
 
 _M Squad_
 
-Lee_Marvin_1959.JPG'']] Marvin finally got to be a leading man in 100 episodes as Chicago cop Frank Ballinger in the successful 1957–1960 television series _M Squad_. One critic described the show as "a hyped-up, violent _Dragnet_ ... with a hard-as-nails Marvin" playing a tough police lieutenant. Marvin received the role after guest-starring in a memorable _Dragnet_ episode as a serial killer.[25]
+'']] Marvin finally got to be a leading man in 100 episodes as Chicago cop Frank Ballinger in the successful 1957–1960 television series _M Squad_. One critic described the show as "a hyped-up, violent _Dragnet_ ... with a hard-as-nails Marvin" playing a tough police lieutenant. Marvin received the role after guest-starring in a memorable _Dragnet_ episode as a serial killer.[25]
 
 When the series ended Marvin appeared on _Westinghouse Desilu Playhouse_, _Sunday Showcase_, _The Barbara Stanwyck Show_, _The Americans_, _Wagon Train_, _Checkmate_, _General Electric Theater, Alcoa Premiere_, _The Investigators_, _Route 66_ (he was injured during a fight scene[26]), Ben Casey, _Bonanza_, _The Untouchables_ (several times), _The Virginian_, _The Twilight Zone_ ("The Grave", "Steel") and _The Dick Powell Theatre_.[27]
 
@@ -149,7 +149,7 @@ This case was used as fodder for a mock debate skit on _Saturday Night Live_ cal
 
 Death
 
-Pfc_Lee_Marvin_cemetery_headstone.jpg In December 1986, Marvin was hospitalized for more than two weeks because of a condition related to coccidioidomycosis. He went into respiratory distress and was administered steroids to help his breathing. He had major intestinal ruptures as a result, and underwent a colectomy. Marvin died of a heart attack on August 29, 1987, aged 63.[56] His body was buried with full military honors at Arlington National Cemetery.[57][58]
+In December 1986, Marvin was hospitalized for more than two weeks because of a condition related to coccidioidomycosis. He went into respiratory distress and was administered steroids to help his breathing. He had major intestinal ruptures as a result, and underwent a colectomy. Marvin died of a heart attack on August 29, 1987, aged 63.[56] His body was buried with full military honors at Arlington National Cemetery.[57][58]
 
 
 Filmography

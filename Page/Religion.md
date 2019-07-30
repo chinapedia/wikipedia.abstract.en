@@ -50,7 +50,7 @@ According to the MacMillan Encyclopedia of Religions, there is an experiential a
 
 Classical
 
-Будажап_Цыреторов.JPG.]] Friedrich Schleiermacher in the late 18th century defined religion as _das schlechthinnige Abhängigkeitsgefühl_, commonly translated as "the feeling of absolute dependence".[75]
+.]] Friedrich Schleiermacher in the late 18th century defined religion as _das schlechthinnige Abhängigkeitsgefühl_, commonly translated as "the feeling of absolute dependence".[75]
 
 His contemporary Georg Wilhelm Friedrich Hegel disagreed thoroughly, defining religion as "the Divine Spirit becoming conscious of Himself through the finite spirit."[76]
 
@@ -110,7 +110,7 @@ Sociological and anthropological theories of religion generally attempt to expla
 
 Origins and development
 
-Yazilikaya_B_12erGruppe.jpg sanctuary in Turkey, with the twelve gods of the underworld]] The origin of religion is uncertain. There are a number of theories regarding the subsequent origins of religious practices.
+sanctuary in Turkey, with the twelve gods of the underworld]] The origin of religion is uncertain. There are a number of theories regarding the subsequent origins of religious practices.
 
 According to anthropologists John Monaghan and Peter Just, "Many of the great world religions appear to have begun as revitalization movements of some sort, as the vision of a charismatic prophet fires the imaginations of people seeking a more comprehensive answer to their problems than they feel is provided by everyday beliefs. Charismatic individuals have emerged at many times and places in the world. It seems that the key to long-term success—and many movements come and go with little long-term effect—has relatively little to do with the prophets, who appear with surprising regularity, but more to do with the development of a group of supporters who are able to institutionalize the movement."[89]
 
@@ -143,7 +143,7 @@ In the field of comparative religion, a common geographical classification[104] 
 
 Classification
 
-Prevailing_world_religions_map.png]] In the 19th and 20th centuries, the academic practice of comparative religion divided religious belief into philosophically defined categories called world religions. Some academics studying the subject have divided religions into three broad categories:
+]] In the 19th and 20th centuries, the academic practice of comparative religion divided religious belief into philosophically defined categories called world religions. Some academics studying the subject have divided religions into three broad categories:
 
 1.  world religions, a term which refers to transcultural, international religions;
 2.  indigenous religions, which refers to smaller, culture-specific or nation-specific religious groups; and
@@ -175,15 +175,15 @@ Specific religions
 
 Abrahamic
 
-Molnár_Ábrahám_kiköltözése_1850.jpg (by József Molnár)]] Abrahamic religions are monotheistic religions which believe they descend from Abraham.
+(by József Molnár)]] Abrahamic religions are monotheistic religions which believe they descend from Abraham.
 
 Judaism
 
-Open_Torah_and_pointer.jpg is the primary sacred text of Judaism.]] Judaism is the oldest Abrahamic religion, originating in the people of ancient Israel and Judea. The Torah is its foundational text, and is part of the larger text known as the Tanakh or Hebrew Bible. It is supplemented by oral tradition, set down in written form in later texts such as the Midrash and the Talmud. Judaism includes a wide corpus of texts, practices, theological positions, and forms of organization. Within Judaism there are a variety of movements, most of which emerged from Rabbinic Judaism, which holds that God revealed his laws and commandments to Moses on Mount Sinai in the form of both the Written and Oral Torah; historically, this assertion was challenged by various groups. The Jewish people were scattered after the destruction of the Temple in Jerusalem in 70 CE. Today there are about 13 million Jews, about 40 per cent living in Israel and 40 per cent in the United States.[125] The largest Jewish religious movements are Orthodox Judaism (Haredi Judaism and Modern Orthodox Judaism), Conservative Judaism and Reform Judaism.
+is the primary sacred text of Judaism.]] Judaism is the oldest Abrahamic religion, originating in the people of ancient Israel and Judea. The Torah is its foundational text, and is part of the larger text known as the Tanakh or Hebrew Bible. It is supplemented by oral tradition, set down in written form in later texts such as the Midrash and the Talmud. Judaism includes a wide corpus of texts, practices, theological positions, and forms of organization. Within Judaism there are a variety of movements, most of which emerged from Rabbinic Judaism, which holds that God revealed his laws and commandments to Moses on Mount Sinai in the form of both the Written and Oral Torah; historically, this assertion was challenged by various groups. The Jewish people were scattered after the destruction of the Temple in Jerusalem in 70 CE. Today there are about 13 million Jews, about 40 per cent living in Israel and 40 per cent in the United States.[125] The largest Jewish religious movements are Orthodox Judaism (Haredi Judaism and Modern Orthodox Judaism), Conservative Judaism and Reform Judaism.
 
 Christianity
 
-StJohnsAshfield_StainedGlass_GoodShepherd_Portrait_cropped.jpg is the central figure of Christianity.]] Christianity is based on the life and teachings of Jesus of Nazareth (1st century) as presented in the New Testament. The Christian faith is essentially faith in Jesus as the Christ, the Son of God, and as Savior and Lord. Almost all Christians believe in the Trinity, which teaches the unity of Father, Son (Jesus Christ), and Holy Spirit as three persons in one Godhead. Most Christians can describe their faith with the Nicene Creed. As the religion of Byzantine Empire in the first millennium and of Western Europe during the time of colonization, Christianity has been propagated throughout the world. The main divisions of Christianity are, according to the number of adherents:
+is the central figure of Christianity.]] Christianity is based on the life and teachings of Jesus of Nazareth (1st century) as presented in the New Testament. The Christian faith is essentially faith in Jesus as the Christ, the Son of God, and as Savior and Lord. Almost all Christians believe in the Trinity, which teaches the unity of Father, Son (Jesus Christ), and Holy Spirit as three persons in one Godhead. Most Christians can describe their faith with the Nicene Creed. As the religion of Byzantine Empire in the first millennium and of Western Europe during the time of colonization, Christianity has been propagated throughout the world. The main divisions of Christianity are, according to the number of adherents:
 
 -   The Catholic Church, led by the Bishop of Rome and the bishops worldwide in communion with him, is a communion of 24 Churches _sui iuris_, including the Latin Church and 23 Eastern Catholic churches, such as the Maronite Catholic Church.
 -   Eastern Christianity, which include Eastern Orthodoxy, Oriental Orthodoxy, and the Church of the East.
@@ -197,7 +197,7 @@ There are also smaller groups, including:
 
 Islam
 
-Kaaba_mirror_edit_jj.jpgs circumambulating the Kaaba, the most sacred site in Islam]] Islam is based on the Quran, one of the holy books considered by Muslims to be revealed by God, and on the teachings (hadith) of the Islamic prophet Muhammad, a major political and religious figure of the 7th century CE. Islam is based on the unity of all religious philosophies and accepts all of the Abrahamic prophets of Judaism, Christianity and other Abrahamic religions before Muhammad. It is the most widely practiced religion of Southeast Asia, North Africa, Western Asia, and Central Asia, while Muslim-majority countries also exist in parts of South Asia, Sub-Saharan Africa, and Southeast Europe. There are also several Islamic republics, including Iran, Pakistan, Mauritania, and Afghanistan.
+s circumambulating the Kaaba, the most sacred site in Islam]] Islam is based on the Quran, one of the holy books considered by Muslims to be revealed by God, and on the teachings (hadith) of the Islamic prophet Muhammad, a major political and religious figure of the 7th century CE. Islam is based on the unity of all religious philosophies and accepts all of the Abrahamic prophets of Judaism, Christianity and other Abrahamic religions before Muhammad. It is the most widely practiced religion of Southeast Asia, North Africa, Western Asia, and Central Asia, while Muslim-majority countries also exist in parts of South Asia, Sub-Saharan Africa, and Southeast Europe. There are also several Islamic republics, including Iran, Pakistan, Mauritania, and Afghanistan.
 
 -   Sunni Islam is the largest denomination within Islam and follows the Quran, the hadiths which record the sunnah, whilst placing emphasis on the sahabah.
 -   Shia Islam is the second largest denomination of Islam and its adherents believe that Ali succeeded Muhammad and further places emphasis on Muhammad's family.
@@ -229,7 +229,7 @@ Chinese folk religion
 
 Dharmic (Indian)
 
-Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik..jpg statue of Lord Rama in Kalaram Temple (India)]] Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg, in a Sanskrit manuscript, Nālandā, Bihar, India]] Indian religions are practiced or were founded in the Indian subcontinent. They are sometimes classified as the _dharmic religions_, as they all feature dharma, the specific law of reality and duties expected according to the religion.[128]
+statue of Lord Rama in Kalaram Temple (India)]] , in a Sanskrit manuscript, Nālandā, Bihar, India]] Indian religions are practiced or were founded in the Indian subcontinent. They are sometimes classified as the _dharmic religions_, as they all feature dharma, the specific law of reality and duties expected according to the religion.[128]
 
 Hinduism
 
@@ -249,7 +249,7 @@ Buddhism
     -   Vajrayana Buddhism first appeared in India in the 3rd century CE.[134] It is currently most prominent in the Himalaya regions[135] and extends across all of Asia[136] (cf. Mikkyō).
     -   Two notable new Buddhist sects are Hòa Hảo and the Navayana (Dalit Buddhist movement), which were developed separately in the 20th century.
 
-GuruNanakFresco-Goindwal.jpg at Goindwal Sahib Gurdwara]]
+at Goindwal Sahib Gurdwara]]
 
 Sikhism
 
@@ -257,7 +257,7 @@ Sikhism
 
 Indigenous and folk
 
-Chinese_temple_incence_burner.jpg burner in China]] Indigenous religions or folk religions refers to a broad category of traditional religions that can be characterised by shamanism, animism and ancestor worship, where traditional means "indigenous, that which is aboriginal or foundational, handed down from generation to generation…".[139] These are religions that are closely associated with a particular group of people, ethnicity or tribe; they often have no formal creeds or sacred texts.[140] Some faiths are syncretic, fusing diverse religious beliefs and practices.[141]
+burner in China]] Indigenous religions or folk religions refers to a broad category of traditional religions that can be characterised by shamanism, animism and ancestor worship, where traditional means "indigenous, that which is aboriginal or foundational, handed down from generation to generation…".[139] These are religions that are closely associated with a particular group of people, ethnicity or tribe; they often have no formal creeds or sacred texts.[140] Some faiths are syncretic, fusing diverse religious beliefs and practices.[141]
 
 -   Australian Aboriginal religions.
 -   Folk religions of the Americas: Native American religions
@@ -266,13 +266,13 @@ Folk religions are often omitted as a category in surveys even in countries wher
 
 Traditional African
 
-Brooklyn_Museum_1992.133.4_Figure_of_Shango_on_Horseback.jpg, the Orisha (god) of fire, lightning, and thunder, in the Yoruba religion, depicted on horseback]] African traditional religion encompasses the traditional religious beliefs of people in Africa. In West Africa, these religions include the Akan religion, Dahomey (Fon) mythology, Efik mythology, Odinani, Serer religion (A ƭat Roog), and Yoruba religion, while Bushongo mythology, Mbuti (Pygmy) mythology, Lugbara mythology, Dinka religion, and Lotuko mythology come from central Africa. Southern African traditions include Akamba mythology, Masai mythology, Malagasy mythology, San religion, Lozi mythology, Tumbuka mythology, and Zulu mythology. Bantu mythology is found throughout central, southeast, and southern Africa. In north Africa, these traditions include Berber and ancient Egyptian.
+, the Orisha (god) of fire, lightning, and thunder, in the Yoruba religion, depicted on horseback]] African traditional religion encompasses the traditional religious beliefs of people in Africa. In West Africa, these religions include the Akan religion, Dahomey (Fon) mythology, Efik mythology, Odinani, Serer religion (A ƭat Roog), and Yoruba religion, while Bushongo mythology, Mbuti (Pygmy) mythology, Lugbara mythology, Dinka religion, and Lotuko mythology come from central Africa. Southern African traditions include Akamba mythology, Masai mythology, Malagasy mythology, San religion, Lozi mythology, Tumbuka mythology, and Zulu mythology. Bantu mythology is found throughout central, southeast, and southern Africa. In north Africa, these traditions include Berber and ancient Egyptian.
 
 There are also notable African diasporic religions practiced in the Americas, such as Santeria, Candomble, Vodun, Lucumi, Umbanda, and Macumba.
 
 Iranian
 
-Maneckji_Sett_Agiary_entrance.jpg Fire Temple in Mumbai, India]] Iranian religions are ancient religions whose roots predate the Islamization of Greater Iran. Nowadays these religions are practiced only by minorities.
+Fire Temple in Mumbai, India]] Iranian religions are ancient religions whose roots predate the Islamization of Greater Iran. Nowadays these religions are practiced only by minorities.
 
 Zoroastrianism is based on the teachings of prophet Zoroaster in the 6th century BCE. Zoroastrians worship the creator Ahura Mazda. In Zoroastrianism, good and evil have distinct sources, with evil trying to destroy the creation of Mazda, and good trying to sustain it.
 
@@ -336,13 +336,13 @@ Religion has had a significant impact on the political system in many countries.
 
 Secularism
 
-Ranjitsingh.gif established secular rule over Punjab in the early 19th century.]]
+established secular rule over Punjab in the early 19th century.]]
 
 Secularization is the transformation of the politics of a society from close identification with a particular religion's values and institutions toward nonreligious values and secular institutions. The purpose of this is frequently modernization or protection of the populations religious diversity.
 
 Economics
 
-Religion_economy.png One study has found there is a negative correlation between self-defined religiosity and the wealth of nations.[173] In other words, the richer a nation is, the less likely its inhabitants to call themselves religious, whatever this word means to them (Many people identify themselves as part of a religion (not irreligion) but do not self-identify as religious).[174]
+One study has found there is a negative correlation between self-defined religiosity and the wealth of nations.[173] In other words, the richer a nation is, the less likely its inhabitants to call themselves religious, whatever this word means to them (Many people identify themselves as part of a religion (not irreligion) but do not self-identify as religious).[174]
 
 Sociologist and political economist Max Weber has argued that Protestant Christian countries are wealthier because of their Protestant work ethic.[175]
 
@@ -358,7 +358,7 @@ An analysis of data from the 1998 US General Social Survey, whilst broadly confi
 
 Violence
 
-UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg hits the South Tower during the September 11 attacks of 2001 in New York City. The September 11 attacks (also referred to as 9/11) were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda on the United States on the morning of Tuesday, September 11, 2001.]]
+hits the South Tower during the September 11 attacks of 2001 in New York City. The September 11 attacks (also referred to as 9/11) were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda on the United States on the morning of Tuesday, September 11, 2001.]]
 
 Critics like Hector Avalos[181] Regina Schwartz,[182] Christopher Hitchens and Richard Dawkins have argued that religions are inherently violent and harmful to society by using violence to promote their goals, in ways that are endorsed and exploited by their leaders.[183][184]
 

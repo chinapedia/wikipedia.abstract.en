@@ -1,4 +1,4 @@
-Overhand3.jpg SHUFFLING is a procedure used to randomize a deck of playing cards to provide an element of chance in card games. Shuffling is often followed by a cut, to help ensure that the shuffler has not manipulated the outcome.
+SHUFFLING is a procedure used to randomize a deck of playing cards to provide an element of chance in card games. Shuffling is often followed by a cut, to help ensure that the shuffler has not manipulated the outcome.
 
 __TOC__
 
@@ -13,7 +13,7 @@ The overhand shuffle offers sufficient opportunity for sleight of hand technique
 
 Riffle
 
-Riffle_shuffle.jpg Riffle_shuffle_1.jpg A common shuffling technique is called the _riffle,_ or _dovetail_ shuffle or _leafing the cards_, in which half of the deck is held in each hand with the thumbs inward, then cards are released by the thumbs so that they fall to the table interleaved. Many also lift the cards up after a riffle, forming what is called a bridge which puts the cards back into place; it can also be done by placing the halves flat on the table with their rear corners touching, then lifting the back edges with the thumbs while pushing the halves together. While this method is more difficult, it is often used in casinos because it minimizes the risk of exposing cards during the shuffle. There are two types of perfect riffle shuffles: if the top card moves to be second from the top then it is an in shuffle, otherwise it is known as an out shuffle (which preserves both the top and bottom cards).
+A common shuffling technique is called the _riffle,_ or _dovetail_ shuffle or _leafing the cards_, in which half of the deck is held in each hand with the thumbs inward, then cards are released by the thumbs so that they fall to the table interleaved. Many also lift the cards up after a riffle, forming what is called a bridge which puts the cards back into place; it can also be done by placing the halves flat on the table with their rear corners touching, then lifting the back edges with the thumbs while pushing the halves together. While this method is more difficult, it is often used in casinos because it minimizes the risk of exposing cards during the shuffle. There are two types of perfect riffle shuffles: if the top card moves to be second from the top then it is an in shuffle, otherwise it is known as an out shuffle (which preserves both the top and bottom cards).
 
 The Gilbert–Shannon–Reeds model provides a mathematical model of the random outcomes of riffling, that has been shown experimentally to be a good fit to human shuffling[2] and that forms the basis for a recommendation that card decks be riffled seven times in order to randomize them thoroughly.[3] Later, mathematicians Lloyd M. Trefethen and Lloyd N. Trefethen authored a paper using a tweaked version of the Gilbert-Shannon-Reeds model showing that the minimum number of riffles for total randomization could also be 5, if the method of defining randomness is changed.[4][5]
 

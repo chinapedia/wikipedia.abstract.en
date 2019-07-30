@@ -7,13 +7,13 @@ Rats are typically distinguished from mice by their size. Generally, when someon
 
 Species and description
 
-A_river_rat.jpg Street-rat.jpg The best-known rat species are the black rat (_Rattus rattus_) and the brown rat (_Rattus norvegicus_). This group, generally known as the Old World rats or true rats, originated in Asia. Rats are bigger than most Old World mice, which are their relatives, but seldom weigh over in the wild.[1]
+The best-known rat species are the black rat (_Rattus rattus_) and the brown rat (_Rattus norvegicus_). This group, generally known as the Old World rats or true rats, originated in Asia. Rats are bigger than most Old World mice, which are their relatives, but seldom weigh over in the wild.[1]
 
 The term _rat_ is also used in the names of other small mammals that are not true rats. Examples include the North American pack rats (aka wood rats[2]) and a number of species loosely called kangaroo rats.[3] Rats such as the bandicoot rat (_Bandicota bengalensis_) are murine rodents related to true rats but are not members of the genus _Rattus_.
 
 Male rats are called _bucks_; unmated females, _does_, pregnant or parent females, _dams_; and infants, _kittens_ or _pups_. A group of rats is referred to as a _mischief_.[4]
 
-The common species are opportunistic survivors and often live with and near humans; therefore, they are known as commensals. They may cause substantial food losses, especially in developing countries.[5] However, the widely distributed and problematic commensal species of rats are a minority in this diverse genus. Many species of rats are island endemics, some of which have become endangered due to habitat loss or competition with the brown, black, or Polynesian rat.[6] Black_Rat_skeleton.jpg) on display at the Museum of Osteology.]] Wild rodents, including rats, can carry many different zoonotic pathogens, such as _Leptospira_, _Toxoplasma gondii_, and _Campylobacter_.[7] The Black Death is traditionally believed to have been caused by the microorganism _Yersinia pestis_, carried by the tropical rat flea (_Xenopsylla cheopis_), which preyed on black rats living in European cities during the epidemic outbreaks of the Middle Ages; these rats were used as transport hosts. Another zoonotic disease linked to the rat is foot-and-mouth disease.[8] Rat_in_a_suburban_Vancouver_driveway.jpg of Vancouver]]
+The common species are opportunistic survivors and often live with and near humans; therefore, they are known as commensals. They may cause substantial food losses, especially in developing countries.[5] However, the widely distributed and problematic commensal species of rats are a minority in this diverse genus. Many species of rats are island endemics, some of which have become endangered due to habitat loss or competition with the brown, black, or Polynesian rat.[6] ) on display at the Museum of Osteology.]] Wild rodents, including rats, can carry many different zoonotic pathogens, such as _Leptospira_, _Toxoplasma gondii_, and _Campylobacter_.[7] The Black Death is traditionally believed to have been caused by the microorganism _Yersinia pestis_, carried by the tropical rat flea (_Xenopsylla cheopis_), which preyed on black rats living in European cities during the epidemic outbreaks of the Middle Ages; these rats were used as transport hosts. Another zoonotic disease linked to the rat is foot-and-mouth disease.[8] of Vancouver]]
 
 Rats become sexually mature at age 6 weeks, but reach social maturity at about 5 to 6 months of age. The average lifespan of rats varies by species, but many only live about a year due to predation.[9]
 
@@ -33,12 +33,12 @@ The characteristic tail of murids also displays a unique defense mechanism known
 
 As pets
 
-Rat_shoulder.jpg rat]] Specially bred rats have been kept as pets at least since the late 19th century. Pet rats are typically variants of the species brown rat - but black rats and giant pouched rats are also sometimes kept. Pet rats behave differently from their wild counterparts depending on how many generations they have been kept as pets.[15] Pet rats do not pose any more of a health risk than pets such as cats or dogs.[16] Tamed rats are generally friendly and can be taught to perform selected behaviors.
+rat]] Specially bred rats have been kept as pets at least since the late 19th century. Pet rats are typically variants of the species brown rat - but black rats and giant pouched rats are also sometimes kept. Pet rats behave differently from their wild counterparts depending on how many generations they have been kept as pets.[15] Pet rats do not pose any more of a health risk than pets such as cats or dogs.[16] Tamed rats are generally friendly and can be taught to perform selected behaviors.
 
 
 As subjects for scientific research
 
-Rat_diabetic.jpg, a metabolic disorder also found among humans.]] In 1895, Clark University in Worcester, Massachusetts, established a population of domestic albino brown rats to study the effects of diet and for other physiological studies. Over the years, rats have been used in many experimental studies, adding to our understanding of genetics, diseases, the effects of drugs, and other topics that have provided a great benefit for the health and wellbeing of humankind.
+, a metabolic disorder also found among humans.]] In 1895, Clark University in Worcester, Massachusetts, established a population of domestic albino brown rats to study the effects of diet and for other physiological studies. Over the years, rats have been used in many experimental studies, adding to our understanding of genetics, diseases, the effects of drugs, and other topics that have provided a great benefit for the health and wellbeing of humankind.
 
 The aortic arches of the rat are among the most commonly studied in murine models due to marked anatomical homology to the human cardiovascular system.[17] Both rat and human aortic arches exhibit subsequent branching of the brachiocephalic trunk, left common carotid artery, and left subclavian artery, as well as geometrically similar, nonplanar curvature in the aortic branches.[18] Aortic arches studied in rats exhibit abnormalities similar to those of humans, including altered pulmonary arteries and double or absent aortic arches.[19] Despite existing anatomical analogy in the inthrathoracic position of the heart itself, the murine model of the heart and its structures remains a valuable tool for studies of human cardiovascular conditions.[20]
 
@@ -79,7 +79,7 @@ They are also associated with human dermatitis because they are frequently infes
 
 As pests
 
-Rodent_Bait_Station,_Chennai,_India.jpg, India]] Rats have long been considered deadly pests. Once considered a modern myth, the rat flood in India occurs every fifty years, as armies of bamboo rats descend upon rural areas and devour everything in their path.[35] Rats have long been held up as the chief villain in the spread of the Bubonic Plague;[36] however, recent studies show that rats alone could not account for the rapid spread of the disease through Europe in the Middle Ages.[37] Still, the Center for Disease Control does list nearly a dozen diseases[38] directly linked to rats.
+, India]] Rats have long been considered deadly pests. Once considered a modern myth, the rat flood in India occurs every fifty years, as armies of bamboo rats descend upon rural areas and devour everything in their path.[35] Rats have long been held up as the chief villain in the spread of the Bubonic Plague;[36] however, recent studies show that rats alone could not account for the rapid spread of the disease through Europe in the Middle Ages.[37] Still, the Center for Disease Control does list nearly a dozen diseases[38] directly linked to rats.
 
 Most urban areas battle rat infestations. A 2015 study by the American Housing Survey (AHS) found that eighteen percent of homes in Philadelphia showed evidence of rodents. Boston, New York City, and Washington, D.C., also demonstrated significant rodent infestations.[39] Indeed, rats in New York City are famous for their size and prevalence. The urban legend that the rat population in Manhattan equals that of its human population was definitively refuted by Robert Sullivan in his book _Rats_ but illustrates New Yorkers' awareness of the presence, and on occasion boldness and cleverness, of the rodents.[40] New York has specific regulations for eradicating rats; multifamily residences and commercial businesses must use a specially trained and licensed rat catcher.[41]
 
@@ -95,7 +95,7 @@ The ship or wharf rat has contributed to the extinction of many species of wildl
 
 Rat-free areas
 
-Rat_caged.webm Rats are found in nearly all areas of Earth which are inhabited by human beings. The only rat-free continent is Antarctica, which is too cold for rat survival outdoors, and its lack of human habitation does not provide buildings to shelter them from the weather. However, rats have been introduced to many of the islands near Antarctica, and because of their destructive effect on native flora and fauna, efforts to eradicate them are ongoing. In particular, Bird Island (just off rat-infested South Georgia Island), where breeding seabirds could be badly affected if rats were introduced, is subject to special measures and regularly monitored for rat invasions.[47]
+Rats are found in nearly all areas of Earth which are inhabited by human beings. The only rat-free continent is Antarctica, which is too cold for rat survival outdoors, and its lack of human habitation does not provide buildings to shelter them from the weather. However, rats have been introduced to many of the islands near Antarctica, and because of their destructive effect on native flora and fauna, efforts to eradicate them are ongoing. In particular, Bird Island (just off rat-infested South Georgia Island), where breeding seabirds could be badly affected if rats were introduced, is subject to special measures and regularly monitored for rat invasions.[47]
 
 As part of island restoration some islands' rat populations have been eradicated to protect or restore the ecology. Hawadax Island, Alaska was declared rat free after 229 years and Campbell Island, New Zealand after almost 200 years. Breaksea Island in New Zealand was declared rat free in 1988 after an eradication campaign based on a successful trial on the smaller Hawea Island nearby.
 
@@ -114,11 +114,11 @@ Ancient Romans did not generally differentiate between rats and mice, instead re
 
 On the Isle of Man, there is a taboo against the word "rat".[55]
 
-5_Rat_and_bat_pendant_TT-26.jpg, bat at top of pendant]]
+, bat at top of pendant]]
 
 Asian cultures
 
-The rat (sometimes referred to as a mouse) is the first of the twelve animals of the Chinese zodiac. People born in this year are expected to possess qualities associated with rats, including creativity, intelligence, honesty, generosity, ambition, a quick temper and wastefulness. People born in a year of the rat are said to get along well with "monkeys" and "dragons", and to get along poorly with "horses". Rat_temple.jpg.]]
+The rat (sometimes referred to as a mouse) is the first of the twelve animals of the Chinese zodiac. People born in this year are expected to possess qualities associated with rats, including creativity, intelligence, honesty, generosity, ambition, a quick temper and wastefulness. People born in a year of the rat are said to get along well with "monkeys" and "dragons", and to get along poorly with "horses". .]]
 
 In Indian tradition, rats are seen as the vehicle of Ganesha, and a rat's statue is always found in a temple of Ganesh. In the northwestern Indian city of Deshnoke, the rats at the Karni Mata Temple are held to be destined for reincarnation as Sadhus (Hindu holy men). The attending priests feed milk and grain to the rats, of which the pilgrims also partake.
 
@@ -136,7 +136,7 @@ Among trade unions, the word "rat" is also a term for nonunion employers or brea
 
 Fiction
 
-Alaska_Death_Trap.jpg was depicted as a rat in a World War II United States Navy propaganda poster.]] Depictions of rats in fiction are historically inaccurate and negative. The most common falsehood is the squeaking almost always heard in otherwise realistic portrayals (i.e. nonanthropomorphic). While the recordings may be of actual squeaking rats, the noise is uncommon – they may do so only if distressed, hurt, or annoyed. Normal vocalizations are very high-pitched, well outside the range of human hearing. Rats are also often cast in vicious and aggressive roles when in fact, their shyness helps keep them undiscovered for so long in an infested home.
+was depicted as a rat in a World War II United States Navy propaganda poster.]] Depictions of rats in fiction are historically inaccurate and negative. The most common falsehood is the squeaking almost always heard in otherwise realistic portrayals (i.e. nonanthropomorphic). While the recordings may be of actual squeaking rats, the noise is uncommon – they may do so only if distressed, hurt, or annoyed. Normal vocalizations are very high-pitched, well outside the range of human hearing. Rats are also often cast in vicious and aggressive roles when in fact, their shyness helps keep them undiscovered for so long in an infested home.
 
 The actual portrayals of rats vary from negative to positive with a majority in the negative and ambiguous.[57] The rat plays a villain in several mouse societies; from Brian Jacques's _Redwall_ and Robin Jarvis's _The Deptford Mice_, to the roles of Disney's Professor Ratigan and Kate DiCamillo's Roscuro and Botticelli. They have often been used as a mechanism in horror; being the titular evil in stories like _The Rats_ or H.P. Lovecraft's _The Rats in the Walls_[58] and in films like _Willard_ and _Ben_. Another terrifying use of rats is as a method of torture, for instance in Room 101 in George Orwell's _Nineteen Eighty-Four_ or _The Pit and the Pendulum_ by Edgar Allan Poe.
 

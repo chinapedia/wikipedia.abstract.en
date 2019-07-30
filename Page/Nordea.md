@@ -1,4 +1,4 @@
-Nordea_old_logo.svg NORDEA BANK ABP (),[1][2] commonly referred to as NORDEA, is a Nordic financial services group operating in northern Europe and based in Helsinki, Finland.[3] The bank is the result of the successive mergers and acquisitions of the Finnish, Danish, Norwegian and Swedish banks of Merita Bank, Unibank, Kreditkassen (Christiania Bank) and Nordbanken that took place between 1997 and 2000. The Baltic states are today also considered part of the home market. The largest shareholder of Nordea is Sampo, a Finnish insurance company with around 20% of the shares. Nordea is listed on the Copenhagen Stock Exchange, Helsinki Stock Exchange and Stockholm Stock Exchange.
+NORDEA BANK ABP (),[1][2] commonly referred to as NORDEA, is a Nordic financial services group operating in northern Europe and based in Helsinki, Finland.[3] The bank is the result of the successive mergers and acquisitions of the Finnish, Danish, Norwegian and Swedish banks of Merita Bank, Unibank, Kreditkassen (Christiania Bank) and Nordbanken that took place between 1997 and 2000. The Baltic states are today also considered part of the home market. The largest shareholder of Nordea is Sampo, a Finnish insurance company with around 20% of the shares. Nordea is listed on the Copenhagen Stock Exchange, Helsinki Stock Exchange and Stockholm Stock Exchange.
 
 Nordea operates across both the Nordic and Baltic regions with over 1,400 branches. The bank is present in 20 countries around the world, operating through full-service branches, subsidiaries and representative offices, although it primarily provides services in Finland, Norway, Denmark, Sweden, Estonia, Latvia and Lithuania.
 
@@ -73,7 +73,7 @@ Nordea was involved in the laundering of drug money in Denmark, by allowing with
 
 Subsidiaries
 
-0661_Nordea_Helsinki.JPG, Helsinki.]]
+, Helsinki.]]
 
 -   Nordea Bank Danmark A/S
 -   Nordea Bank Finland Abp / Nordea Pankki Suomi Oyj

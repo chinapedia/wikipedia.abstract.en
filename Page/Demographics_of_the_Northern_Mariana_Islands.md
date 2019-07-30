@@ -3,7 +3,7 @@ This article is about the demographic features of the population of the Northern
 
 CIA World Factbook demographic statistics
 
-Northern_Mariana_Islands.png, year 2005 ; Number of inhabitants in thousands.]] The following demographic statistics are from the CIA World Factbook [1]
+, year 2005 ; Number of inhabitants in thousands.]] The following demographic statistics are from the CIA World Factbook [1]
 
 Population
 

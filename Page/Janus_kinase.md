@@ -3,7 +3,7 @@ JANUS KINASE (JAK) is a family of intracellular, nonreceptor tyrosine kinases th
 
 Family
 
-Signal_transduction_pathways.svg.]] The four JAK family members are:
+.]] The four JAK family members are:
 
 -   Janus kinase 1 (JAK1)
 -   Janus kinase 2 (JAK2)
@@ -14,8 +14,6 @@ Transgenic mice that do not express JAK1 have defective responses to some cytoki
 
 
 Functions
-
-Jakstat_pathway.svg
 
 Since members of the type I and type II cytokine receptor families possess no catalytic kinase activity, they rely on the JAK family of tyrosine kinases to phosphorylate and activate downstream proteins involved in their signal transduction pathways. The receptors exist as paired polypeptides, thus exhibiting two intracellular signal-transducing domains.
 
@@ -32,7 +30,7 @@ In 2014 researchers discovered that oral JAK inhibitors, when administered orall
 
 Structure
 
-Jak_domain_structure.svg JAKs range from 120-140 kDa in size and have seven defined regions of homology called Janus homology domains 1 to 7 (JH1-7). JH1 is the kinase domain important for the enzymatic activity of the JAK and contains typical features of a tyrosine kinase such as conserved tyrosines necessary for JAK activation (e.g. Y1038/Y1039 in JAK1, Y1007/Y1008 in JAK2, Y980/Y981 in JAK3, and Y1054/Y1055 in Tyk2). Phosphorylation of these dual tyrosines leads to the conformational changes in the JAK protein to facilitate binding of substrate. JH2 is a "pseudokinase domain", a domain structurally similar to a tyrosine kinase and essential for a normal kinase activity, yet lacks enzymatic activity. This domain may be involved in regulating the activity of JH1, and was likely a duplication of the JH1 domain which has undergone mutation post-duplication. The JH3-JH4 domains of JAKs share homology with Src-homology-2 (SH2) domains. The amino terminal (NH₂) end (JH4-JH7) of Jaks is called a FERM domain (short for band 4.1 ezrin, radixin and moesin); this domain is also found in the focal adhesion kinase (FAK) family and is involved in association of JAKs with cytokine receptors and/or other kinases.[9]
+JAKs range from 120-140 kDa in size and have seven defined regions of homology called Janus homology domains 1 to 7 (JH1-7). JH1 is the kinase domain important for the enzymatic activity of the JAK and contains typical features of a tyrosine kinase such as conserved tyrosines necessary for JAK activation (e.g. Y1038/Y1039 in JAK1, Y1007/Y1008 in JAK2, Y980/Y981 in JAK3, and Y1054/Y1055 in Tyk2). Phosphorylation of these dual tyrosines leads to the conformational changes in the JAK protein to facilitate binding of substrate. JH2 is a "pseudokinase domain", a domain structurally similar to a tyrosine kinase and essential for a normal kinase activity, yet lacks enzymatic activity. This domain may be involved in regulating the activity of JH1, and was likely a duplication of the JH1 domain which has undergone mutation post-duplication. The JH3-JH4 domains of JAKs share homology with Src-homology-2 (SH2) domains. The amino terminal (NH₂) end (JH4-JH7) of Jaks is called a FERM domain (short for band 4.1 ezrin, radixin and moesin); this domain is also found in the focal adhesion kinase (FAK) family and is involved in association of JAKs with cytokine receptors and/or other kinases.[9]
 
 
 References

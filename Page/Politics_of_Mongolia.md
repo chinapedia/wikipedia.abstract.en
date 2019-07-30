@@ -19,7 +19,7 @@ Mongolia's first multi-party elections for a People's Great Hural (parliament) w
 
 The 1992 constitution provided that the president would be directly elected by popular vote rather than by the legislature as before. In June 1993, incumbent Punsalmaagiin Ochirbat won the first direct presidential election, running as the candidate of the democratic opposition.
 
-President_Putin_meeting_deputies_of_the_Great_State_Hural-1.jpg in session.]]
+in session.]]
 
 As the supreme legislative organ, the SGKh is empowered to enact and amend laws, regarding domestic and foreign policy, to ratify international agreements, and declare a state of emergency. The SGKh meets semi-annually. There are 76 members of parliament. They were popularly elected by district in 1992-2012. By 2012 legislative election law, starting with the 2012 legislative election, a parallel voting system began to be used in legislature in Mongolia. 48 of the parliamentary members are popularly elected by district (by plurality at large, with not necessarily single-member districts, with possible runoffs), and 28 of them are elected from nationwide lists using Hamilton's Method to effect proportional representation.[17] SGKh members elect a speaker and vice speakers from each party or coalition in the government and they serve 4-year term.
 
@@ -58,7 +58,7 @@ Executive branch
 
 President
 
-Khaltmaagiin_Battulga_(2017-09-07).jpg]] The presidential candidates are usually nominated by parties those have seats in the State Great Khural and from these candidates the president is elected by popular vote for a four-year term. The president is the Head of State, Commander-in-Chief of the Armed Forces, and Head of the National Security Council. He is popularly elected by a national majority for a 4-year term and limited to two terms. The constitution empowers the president to propose a prime minister, call for the government's dissolution, initiate legislation, veto all or parts of a legislation (the State Great Khural can override the veto with a two-thirds majority),[32][33] and issue decrees, decrees giving directives become effective with the prime minister's signature. In the absence, incapacity, or resignation of the president, the SGKh chairman exercises presidential power until inauguration of a newly elected president.
+]] The presidential candidates are usually nominated by parties those have seats in the State Great Khural and from these candidates the president is elected by popular vote for a four-year term. The president is the Head of State, Commander-in-Chief of the Armed Forces, and Head of the National Security Council. He is popularly elected by a national majority for a 4-year term and limited to two terms. The constitution empowers the president to propose a prime minister, call for the government's dissolution, initiate legislation, veto all or parts of a legislation (the State Great Khural can override the veto with a two-thirds majority),[32][33] and issue decrees, decrees giving directives become effective with the prime minister's signature. In the absence, incapacity, or resignation of the president, the SGKh chairman exercises presidential power until inauguration of a newly elected president.
 
 
 Government
@@ -96,7 +96,7 @@ The STATE GREAT KHURAL (_Ulsyn Ikh Hural_ in Mongolian) (the Parliament) is unic
 
 Political parties and elections
 
-ArdchilsanGer.JPG for an election campaign in Khövsgöl, 2006]]
+for an election campaign in Khövsgöl, 2006]]
 
 
 Legal system

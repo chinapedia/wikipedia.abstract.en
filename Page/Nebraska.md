@@ -18,7 +18,7 @@ Nebraska's name is derived from transliteration of the archaic Otoe words _Ñí 
 
 History
 
-Nebraska_1718.jpg map, with the approximate area of the future state highlighted.]]
+map, with the approximate area of the future state highlighted.]]
 
 Indigenous peoples lived in the region of present-day Nebraska for thousands of years before European exploration. The historic tribes in the state included the Omaha, Missouria, Ponca, Pawnee, Otoe, and various branches of the Lakota (Sioux), some of which migrated from eastern areas into this region. When European exploration, trade, and settlement began, both Spain and France sought to control the region. In the 1690s, Spain established trade connections with the Apaches, whose territory then included western Nebraska. By 1703, France had developed a regular trade with the native peoples along the Missouri River in Nebraska, and by 1719 had signed treaties with several of these peoples. After war broke out between the two countries, Spain dispatched an armed expedition to Nebraska under Lieutenant General Pedro de Villasur in 1720. The party was attacked and destroyed near present-day Columbus by a large force of Pawnees and Otoes, both allied to the French. The massacre ended Spanish exploration of the area for the remainder of the 18th century.[2][3][4]
 
@@ -26,7 +26,7 @@ In 1762, during the Seven Years' War, France ceded the Louisiana territory to Sp
 
 In 1819, the United States established Fort Atkinson as the first U.S. Army post west of the Missouri River, just east of present-day Fort Calhoun. The army abandoned the fort in 1827 as migration moved further west. European-American settlement was scarce until 1848 and the California Gold Rush. On May 30, 1854, the US Congress created the Kansas and the Nebraska territories, divided by the Parallel 40° North, under the Kansas–Nebraska Act.[8] The Nebraska Territory included parts of the current states of Colorado, North Dakota, South Dakota, Wyoming, and Montana.[9] The territorial capital of Nebraska was Omaha.
 
-00DI0943_-_Flickr_-_USDAgov.jpg in central Nebraska in 1888.]]
+in central Nebraska in 1888.]]
 
 In the 1860s, after the U.S. government forced many of the Native American tribes to cede their lands and settle on reservations, it opened large tracts of land to agricultural development by Europeans and Americans. Under the Homestead Act, thousands of settlers migrated into Nebraska to claim free land granted by the federal government. Because so few trees grew on the prairies, many of the first farming settlers built their homes of sod, as had Native Americans such as the Omaha. The first wave of settlement gave the territory a sufficient population to apply for statehood.[10] Nebraska became the 37th state on March 1, 1867, and the capital was moved from Omaha to the center at Lancaster, later renamed Lincoln after the recently assassinated President of the United States, Abraham Lincoln. The battle of Massacre Canyon on August 5, 1873, was the last major battle between the Pawnee and the Sioux.[11]
 
@@ -39,15 +39,13 @@ Since the 1960s, Native American activism in the state has increased, both throu
 
 Geography
 
-National-atlas-nebraska.PNG
-
 The state is bordered by South Dakota to the north; Iowa to the east and Missouri to the southeast, across the Missouri River; Kansas to the south; Colorado to the southwest; and Wyoming to the west. The state has 93 counties and is split between two time zones, with the state's eastern half observing Central Time and the western half observing Mountain Time. Three rivers cross the state from west to east. The Platte River, formed by the confluence of the North Platte and the South Platte, runs through the state's central portion, the Niobrara River flows through the northern part, and the Republican River runs across the southern part.
 
 Nebraska is composed of two major land regions: the Dissected Till Plains and the Great Plains. The easternmost portion of the state was scoured by Ice Age glaciers; the Dissected Till Plains were left after the glaciers retreated. The Dissected Till Plains is a region of gently rolling hills; Omaha and Lincoln are in this region. The Great Plains occupy most of western Nebraska, with the region consisting of several smaller, diverse land regions, including the Sandhills, the Pine Ridge, the Rainwater Basin, the High Plains and the Wildcat Hills. Panorama Point, at , is Nebraska's highest point; though despite its name and elevation, it is a relatively low rise near the Colorado and Wyoming borders. A past Nebraska tourism slogan was "Where the West Begins" (currently, "Honestly, it's not for everyone"[13]); locations given for the beginning of the "West" include the Missouri River, the intersection of 13th and O Streets in Lincoln (where it is marked by a red brick star), the 100th meridian, and Chimney Rock.
 
 Federal land management
 
-Nebraska_National_Forest,_Bessey_Ranger_District,_no._1.jpg]] Areas under the management of the National Park Service include:
+]] Areas under the management of the National Park Service include:
 
 -   Agate Fossil Beds National Monument near Harrison
 -   California National Historic Trail
@@ -69,7 +67,7 @@ Areas under the management of the National Forest Service include:
 
 Climate
 
-Nebraska_Köppen.svg ScottsBluffNatMon_2002.jpg]] Two major climatic zones are represented in Nebraska: the state's eastern half and its western half. The eastern half of the state has a humid continental climate (Köppen climate classification _Dfa_). The western half has a semi-arid climate (Koppen _BSk_). The entire state experiences wide seasonal variations in both temperature and precipitation. Average temperatures are fairly uniform across Nebraska, with hot summers and generally cold winters.
+]] Two major climatic zones are represented in Nebraska: the state's eastern half and its western half. The eastern half of the state has a humid continental climate (Köppen climate classification _Dfa_). The western half has a semi-arid climate (Koppen _BSk_). The entire state experiences wide seasonal variations in both temperature and precipitation. Average temperatures are fairly uniform across Nebraska, with hot summers and generally cold winters.
 
 Average annual precipitation decreases east to west from about in the southeast corner of the state to about in the Panhandle. Humidity also decreases significantly from east to west. Snowfall across the state is fairly even, with most of Nebraska receiving between of snow each year.[14] Nebraska's highest-recorded temperature was in Minden on July 24, 1936. The state's lowest-recorded temperature was in Camp Clarke on February 12, 1899.
 
@@ -161,11 +159,11 @@ The largest single denominations by number of adherents in 2010 were the Roman C
 
 Settlement
 
-Nebraska_population_map.png Eighty-nine percent of the cities in Nebraska have fewer than 3,000 people. Nebraska shares this characteristic with five other Midwestern states: Kansas, Oklahoma, North Dakota and South Dakota, and Iowa. Hundreds of towns have a population of fewer than 1,000. Regional population declines have forced many rural schools to consolidate.
+Eighty-nine percent of the cities in Nebraska have fewer than 3,000 people. Nebraska shares this characteristic with five other Midwestern states: Kansas, Oklahoma, North Dakota and South Dakota, and Iowa. Hundreds of towns have a population of fewer than 1,000. Regional population declines have forced many rural schools to consolidate.
 
 Fifty-three of Nebraska's 93 counties reported declining populations between 1990 and 2000, ranging from a 0.06% loss (Frontier County) to a 17.04% loss (Hitchcock County).
 
-Downtown_Omaha_from_the_North_at_Night.jpg More urbanized areas of the state have experienced substantial growth. In 2000, the city of Omaha had a population of 390,007; in 2005, the city's estimated population was 414,521 (427,872 including the recently annexed city of Elkhorn), a 6.3% increase over five years. The 2010 census showed that Omaha has a population of 408,958. The city of Lincoln had a 2000 population of 225,581 and a 2010 population of 258,379, a 14.5% increase.
+More urbanized areas of the state have experienced substantial growth. In 2000, the city of Omaha had a population of 390,007; in 2005, the city's estimated population was 414,521 (427,872 including the recently annexed city of Elkhorn), a 6.3% increase over five years. The 2010 census showed that Omaha has a population of 408,958. The city of Lincoln had a 2000 population of 225,581 and a 2010 population of 258,379, a 14.5% increase.
 
 As of the 2010 Census, there were 530 cities and villages in the state of Nebraska. There are five classifications of cities and villages in Nebraska, which is based upon population. All population figures are 2017 Census Bureau estimates unless flagged by a reference number.
 
@@ -234,7 +232,7 @@ Nebraska has a state sales and use tax of 5.5%. In addition to the state tax, so
 
 Economy
 
-Nebraska_grain_silo_RAAM_2015_by_D_Ramey_Logan.jpg The Bureau of Economic Analysis estimates of Nebraska's gross state product in 2010 was $89.8 billion.[37] Per capita personal income in 2004 was $31,339, 25th in the nation. Nebraska has a large agriculture sector, and is a major producer of beef, pork, corn (maize), soybeans, and sorghum.[38] Other important economic sectors include freight transport (by rail and truck), manufacturing, telecommunications, information technology, and insurance.
+The Bureau of Economic Analysis estimates of Nebraska's gross state product in 2010 was $89.8 billion.[37] Per capita personal income in 2004 was $31,339, 25th in the nation. Nebraska has a large agriculture sector, and is a major producer of beef, pork, corn (maize), soybeans, and sorghum.[38] Other important economic sectors include freight transport (by rail and truck), manufacturing, telecommunications, information technology, and insurance.
 
 As of November 2018, the state's unemployment rate was 2.8%[39], the 5th lowest in the nation.[40]
 
@@ -283,7 +281,7 @@ Law and government
 
   : PRESIDENTIAL ELECTIONS RESULTS
 
-United_States_presidential_election_in_Nebraska,_2016.svg of the popular vote by county, 2016 presidential election.]] Nebraska's government operates under the framework of the Nebraska Constitution, adopted in 1875,[45] and is divided into three branches: executive, legislative, and judicial.
+ of the popular vote by county, 2016 presidential election.]] Nebraska's government operates under the framework of the Nebraska Constitution, adopted in 1875,[45] and is divided into three branches: executive, legislative, and judicial.
 
 Executive branch
 
@@ -303,7 +301,7 @@ The judicial system in Nebraska is unified, with the Nebraska Supreme Court havi
 
 Federal representation
 
-Nebraska_State_Capitol_Highsmith.jpeg in Lincoln, Nebraska.]] Nebraska's U.S. senators are Deb Fischer and Ben Sasse, both Republicans; Fischer, elected in 2012, is the senior.
+in Lincoln, Nebraska.]] Nebraska's U.S. senators are Deb Fischer and Ben Sasse, both Republicans; Fischer, elected in 2012, is the senior.
 
 Nebraska has three representatives in the House of Representatives: Jeff Fortenberry (R) of the 1st district; Don Bacon (R) of the 2nd district; and Adrian Smith (R) of the 3rd district.
 
@@ -371,8 +369,6 @@ Culture
 Arts
 
 Sports
-
-NebraskaCornhuskers-Flags-9-6-08.jpg
 
 Professional sports
 

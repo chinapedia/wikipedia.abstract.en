@@ -21,10 +21,10 @@ Founding
 
 John W. Meriwether headed Salomon Brothers' bond arbitrage desk until he resigned in 1991 amid a trading scandal.[5] According to Chi-fu Huang, later a Principal at LTCM, the bond arbitrage group was responsible for 80–100% of Salomon's global total earnings from the late 80s until the early 90s.[6]
 
-  ----------------------------------------------------------------------- ----------------------
-  Myron_Scholes_2008_in_Lindau.png                                        Robert_C._Merton.jpg
+  ----------------------------------------------------------------------- --
+
   Myron S. Scholes (left) and Robert C. Merton were principals at LTCM.
-  ----------------------------------------------------------------------- ----------------------
+  ----------------------------------------------------------------------- --
 
 In 1993 Meriwether created Long-Term Capital as a hedge fund and recruited several Salomon bond traders—Larry Hilibrand and Victor Haghani in particular would wield substantial clout[7]—and two future winners of the Nobel Memorial Prize, Myron S. Scholes and Robert C. Merton.[8][9] Other principals included Eric Rosenfeld, Greg Hawkins, William Krasker, Dick Leahy, James McEntee, Robert Shustak, and David W. Mullins Jr.
 
@@ -81,7 +81,7 @@ Economist Eugene Fama found in his research that stocks were bound to have extre
 
 Downturn
 
-LTCM.png and invested monthly in U.S. Treasuries at constant maturity.]] Although periods of distress have often created tremendous opportunities for relative value strategies, this did not prove to be the case on this occasion, and the seeds of LTCM's demise were sown before the Russian default of 17 August 1998. LTCM had returned $2.7 bn to investors in Q4 of 1997, although it had also raised a total in capital of $1.066bn from UBS and $133m from CSFB. Since position sizes had not been reduced, the net effect was to raise the leverage of the fund.
+and invested monthly in U.S. Treasuries at constant maturity.]] Although periods of distress have often created tremendous opportunities for relative value strategies, this did not prove to be the case on this occasion, and the seeds of LTCM's demise were sown before the Russian default of 17 August 1998. LTCM had returned $2.7 bn to investors in Q4 of 1997, although it had also raised a total in capital of $1.066bn from UBS and $133m from CSFB. Since position sizes had not been reduced, the net effect was to raise the leverage of the fund.
 
 Although 1997 had been a very profitable year for LTCM (27%), the lingering effects of the 1997 Asian crisis continued to shape developments in asset markets into 1998. Although this crisis had originated in Asia, its effects were not confined to that region. The rise in risk aversion had raised concerns amongst investors regarding all markets heavily dependent on international capital flows, and this shaped asset pricing in markets outside Asia too.[24]
 
@@ -100,7 +100,7 @@ The company, which had historically earned annualised compounded returns of almo
 
 1998 bailout
 
-Federal-reserve-33-liberty.jpg, Bear Stearns, Chase Manhattan, Goldman Sachs, J.P. Morgan, Lehman Brothers, Merrill Lynch, Morgan Stanley Dean Witter, and Salomon Smith Barney—met on the 10th floor conference room of the Federal Reserve Bank of New York (_pictured_) to rescue LTCM.]] Long-Term Capital Management did business with nearly every important person on Wall Street. Indeed, much of LTCM's capital was composed of funds from the same financial professionals with whom it traded. As LTCM teetered, Wall Street feared that Long-Term's failure could cause a chain reaction in numerous markets, causing catastrophic losses throughout the financial system.
+, Bear Stearns, Chase Manhattan, Goldman Sachs, J.P. Morgan, Lehman Brothers, Merrill Lynch, Morgan Stanley Dean Witter, and Salomon Smith Barney—met on the 10th floor conference room of the Federal Reserve Bank of New York (_pictured_) to rescue LTCM.]] Long-Term Capital Management did business with nearly every important person on Wall Street. Indeed, much of LTCM's capital was composed of funds from the same financial professionals with whom it traded. As LTCM teetered, Wall Street feared that Long-Term's failure could cause a chain reaction in numerous markets, causing catastrophic losses throughout the financial system.
 
 After LTCM failed to raise more money on its own, it became clear it was running out of options. On September 23, 1998, Goldman Sachs, AIG, and Berkshire Hathaway offered then to buy out the fund's partners for $250 million, to inject $3.75 billion and to operate LTCM within Goldman's own trading division. The offer was stunningly low to LTCM's partners because at the start of the year their firm had been worth $4.7 billion. Warren Buffett gave Meriwether less than one hour to accept the deal; the time lapsed before a deal could be worked out.[30]
 

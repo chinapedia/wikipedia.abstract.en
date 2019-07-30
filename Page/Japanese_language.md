@@ -15,7 +15,7 @@ Proto-Japonic, the common ancestor of Japanese and Ryukyuan languages is thought
 
 Old Japanese
 
-Genryaku_Manyosyu.JPG'', the oldest anthology of classical Japanese poetry]] Old Japanese is the oldest attested stage of the Japanese language. Through the spread of Buddhism, the Chinese writing system was imported to Japan. The earliest texts found in Japan are written in Classical Chinese, but they may have been meant to be read as Japanese by the kanbun method. Some of these Chinese texts show the influences of Japanese grammar, such as the word order (for example, placing the verb after the object). In these hybrid texts, Chinese characters are also occasionally used phonetically to represent Japanese particles. The earliest text, the _Kojiki_, dates to the early 8th century, and was written entirely in Chinese characters. The end of Old Japanese coincides with the end of the Nara period in 794. Old Japanese uses the Man'yōgana system of writing, which uses _kanji_ for their phonetic as well as semantic values. Based on the Man'yōgana system, Old Japanese can be reconstructed as having 88 distinct syllables. Texts written with Man'yōgana use two different _kanji_ for each of the syllables now pronounced .[4] (The _Kojiki_ has 88, but all later texts have 87. The distinction between mo₁ and mo₂ apparently was lost immediately following its composition.) This set of syllables shrank to 67 in Early Middle Japanese, though some were added through Chinese influence.
+'', the oldest anthology of classical Japanese poetry]] Old Japanese is the oldest attested stage of the Japanese language. Through the spread of Buddhism, the Chinese writing system was imported to Japan. The earliest texts found in Japan are written in Classical Chinese, but they may have been meant to be read as Japanese by the kanbun method. Some of these Chinese texts show the influences of Japanese grammar, such as the word order (for example, placing the verb after the object). In these hybrid texts, Chinese characters are also occasionally used phonetically to represent Japanese particles. The earliest text, the _Kojiki_, dates to the early 8th century, and was written entirely in Chinese characters. The end of Old Japanese coincides with the end of the Nara period in 794. Old Japanese uses the Man'yōgana system of writing, which uses _kanji_ for their phonetic as well as semantic values. Based on the Man'yōgana system, Old Japanese can be reconstructed as having 88 distinct syllables. Texts written with Man'yōgana use two different _kanji_ for each of the syllables now pronounced .[4] (The _Kojiki_ has 88, but all later texts have 87. The distinction between mo₁ and mo₂ apparently was lost immediately following its composition.) This set of syllables shrank to 67 in Early Middle Japanese, though some were added through Chinese influence.
 
 Due to these extra syllables, it has been hypothesized that Old Japanese's vowel system was larger than that of Modern Japanese – it perhaps contained up to eight vowels. According to Shinkichi Hashimoto, the extra syllables in Man'yōgana derive from differences between the vowels of the syllables in question.[5] These differences would indicate that Old Japanese had an eight-vowel system,[6] in contrast to the five vowels of later Japanese. The vowel system would have to have shrunk some time between these texts and the invention of the _kana_ (_hiragana_ and _katakana_) in the early 9th century. According to this view, the eight-vowel system of ancient Japanese would resemble that of the Uralic and Altaic language families.[7] However, it is not fully certain that the alternation between syllables necessarily reflects a difference in the vowels rather than the consonants – at the moment, the only undisputed fact is that they are different syllables. A newer reconstruction of ancient Japanese shows striking similarities with Southeast-Asian languages, especially with Austronesian languages.[8]
 
@@ -25,7 +25,7 @@ Several fossilizations of Old Japanese grammatical elements remain in the modern
 
 Early Middle Japanese
 
-Genji_emaki_01003_001.jpg scroll of _The Tale of Genji_ from the 11th century]] Early Middle Japanese is the Japanese of the Heian period, from 794 to 1185. Early Middle Japanese sees a significant amount of Chinese influence on the language's phonology – length distinctions become phonemic for both consonants and vowels, and series of both labialised (e.g. _kwa_) and palatalised (_kya_) consonants are added. Intervocalic merges with by the 11th century. The end of Early Middle Japanese sees the beginning of a shift where the attributive form (Japanese _rentaikei_) slowly replaces the uninflected form (_shūshikei_) for those verb classes where the two were distinct.
+scroll of _The Tale of Genji_ from the 11th century]] Early Middle Japanese is the Japanese of the Heian period, from 794 to 1185. Early Middle Japanese sees a significant amount of Chinese influence on the language's phonology – length distinctions become phonemic for both consonants and vowels, and series of both labialised (e.g. _kwa_) and palatalised (_kya_) consonants are added. Intervocalic merges with by the 11th century. The end of Early Middle Japanese sees the beginning of a shift where the attributive form (Japanese _rentaikei_) slowly replaces the uninflected form (_shūshikei_) for those verb classes where the two were distinct.
 
 Late Middle Japanese
 
@@ -56,8 +56,6 @@ Formerly, standard was different from . The two systems have different rules of 
 
 Dialects
 
-Japanese_dialects-en.png
-
 Dozens of dialects are spoken in Japan. The profusion is due to many factors, including the length of time the Japanese Archipelago has been inhabited, its mountainous island terrain, and Japan's long history of both external and internal isolation. Dialects typically differ in terms of pitch accent, inflectional morphology, vocabulary, and particle usage. Some even differ in vowel and consonant inventories, although this is uncommon.
 
 The main distinction in Japanese accents is between and . Within each type are several subdivisions. Kyoto-Osaka-type dialects are in the central region, roughly formed by Kansai, Shikoku, and western Hokuriku regions.
@@ -85,8 +83,6 @@ For now, Japanese is classificated as member of the Japonic languages or as a la
 
 
 Phonology
-
-Ja-ksb-botchan_1-1_1-2.ogg
 
 All Japanese vowels are purethat is, there are no diphthongs, only monophthongs. The only unusual vowel is the high back vowel , which may be compressed rather than rounded and fronted. Japanese has five vowels, and vowel length is phonemic, with each having both a short and a long version. Elongated vowels are usually denoted with a line over the vowel (a macron) in rōmaji, a repeated vowel character in hiragana, or a chōonpu succeeding the vowel in katakana.
 
@@ -252,7 +248,7 @@ History
 
 Literacy was introduced to Japan in the form of the Chinese writing system, by way of Baekje before the 5th century.[36] Using this language, the Japanese king Bu presented a petition to Emperor Shun of Liu Song in AD 478. After the ruin of Baekje, Japan invited scholars from China to learn more of the Chinese writing system. Japanese emperors gave an official rank to Chinese scholars (続守言/薩弘格/ 袁晋卿) and spread the use of Chinese characters from the 7th century to the 8th century.
 
-Nihongo_ichiran_01-converted.svg): Hiragana top, Katakana in the center and Romanized equivalents at the bottom]]
+): Hiragana top, Katakana in the center and Romanized equivalents at the bottom]]
 
 At first, the Japanese wrote in Classical Chinese, with Japanese names represented by characters used for their meanings and not their sounds. Later, during the 7th century AD, the Chinese-sounding phoneme principle was used to write pure Japanese poetry and prose, but some Japanese words were still written with characters for their meaning and not the original Chinese sound. This is when the history of Japanese as a written language begins in its own right. By this time, the Japanese language was already very distinct from the Ryukyuan languages.[37]
 

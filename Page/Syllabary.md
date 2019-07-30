@@ -3,7 +3,7 @@ A SYLLABARY is a set of written symbols that represent the syllables or (more fr
 
 Types
 
-Syllable_diagram.png (σ) branches into consonantal onset (ω) and rime (ρ) that is divided into nucleus (ν) and coda (κ), non-/supra-segmental parameters like tone (τ) affect the syllable as a whole]] A writing system using a syllabary is _complete_ when it covers all syllables in the corresponding spoken language without requiring complex orthographic / graphemic rules, like implicit codas ( ⇒ /C₁VC₂/) silent vowels ( ⇒ /C₁V₁C₂/) or echo vowels ( ⇒ /C₁V₁C₂/). This loosely corresponds to _shallow_ orthographies in alphabetic writing systems.
+(σ) branches into consonantal onset (ω) and rime (ρ) that is divided into nucleus (ν) and coda (κ), non-/supra-segmental parameters like tone (τ) affect the syllable as a whole]] A writing system using a syllabary is _complete_ when it covers all syllables in the corresponding spoken language without requiring complex orthographic / graphemic rules, like implicit codas ( ⇒ /C₁VC₂/) silent vowels ( ⇒ /C₁V₁C₂/) or echo vowels ( ⇒ /C₁V₁C₂/). This loosely corresponds to _shallow_ orthographies in alphabetic writing systems.
 
 _True_ syllabograms are those that encompass all parts of a syllable, i.e. initial onset, medial nucleus and final coda, but since onset and coda are optional in at least some languages, there are _middle_ (nucleus), _start_ (onset-nucleus), _end_ (nucleus-coda) and _full_ (onset-nucleus-coda) true syllabograms. Most syllabaries only feature one or two kinds of syllabograms and form other syllables by graphemic rules.
 
@@ -12,7 +12,7 @@ Syllabograms, hence syllabaries, are _pure_, _analytic_ or _arbitrary_ if they d
 
 Languages using syllabaries
 
-katakana_origine.svg writing system. To the left is the modern letter, with its original Chinese character form on the right.]] Cherokee_stop_sign.png stop sign employing the Latin alphabet and the Cherokee syllabary, Tahlequah, Oklahoma]] Languages that use syllabic writing include Japanese, Cherokee, Vai, the Yi languages of eastern Asia, the English-based creole language Ndyuka, Shaozhou Tuhua, and the ancient language Mycenaean Greek (Linear B). In addition, the undecoded Cretan Linear A is also believed by some to be a syllabic script, though this is not proven.
+writing system. To the left is the modern letter, with its original Chinese character form on the right.]] stop sign employing the Latin alphabet and the Cherokee syllabary, Tahlequah, Oklahoma]] Languages that use syllabic writing include Japanese, Cherokee, Vai, the Yi languages of eastern Asia, the English-based creole language Ndyuka, Shaozhou Tuhua, and the ancient language Mycenaean Greek (Linear B). In addition, the undecoded Cretan Linear A is also believed by some to be a syllabic script, though this is not proven.
 
 Chinese characters, the cuneiform script used for Sumerian, Akkadian and other languages, and the former Maya script are largely syllabic in nature, although based on logograms. They are therefore sometimes referred to as _logosyllabic_.
 

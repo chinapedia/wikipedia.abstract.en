@@ -1,4 +1,4 @@
-The _SATIRES_ are a collection of satirical poems by the Latin author Juvenal written in the early 2nd century AD. Juvenalcrowned.gif depicting Juvenal and Persius, from a volume translated by John Dryden in 1711]]
+The _SATIRES_ are a collection of satirical poems by the Latin author Juvenal written in the early 2nd century AD. depicting Juvenal and Persius, from a volume translated by John Dryden in 1711]]
 
 Juvenal is credited with sixteen known poems divided among five books; all are in the Roman genre of satire, which, at its most basic in the time of the author, comprised a wide-ranging discussion of society and social _mores_ in dactylic hexameter.[1] The sixth and tenth satires are some of the most renowned works in the collection. The poems are not individually titled, but translators have often added titles for the convenience of readers.
 

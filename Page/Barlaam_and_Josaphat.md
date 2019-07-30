@@ -1,11 +1,9 @@
-Josaphat.jpg
-
 BARLAAM AND JOSAPHAT () are legendary Christian martyrs and saints. Their life story is likely to have been based on the life of the Gautama Buddha.[1] It tells how an Indian king persecuted the Christian Church in his realm. When astrologers predicted that his own son would some day become a Christian, the king imprisoned the young prince Josaphat, who nevertheless met the hermit Saint Barlaam and converted to Christianity. After much tribulation the young prince's father accepted the Christian faith, turned over his throne to Josaphat, and retired to the desert to become a hermit. Josaphat himself later abdicated and went into seclusion with his old teacher Barlaam.[2] The tale derives from a second to fourth century Sanskrit Mahayana Buddhist text, via a Manichaean version, then the Arabic _Kitab Bilawhar wa-Yudasaf_ (Book of Bilawhar and Yudasaf), current in Baghdad in the eighth century, from where it entered into Middle Eastern Christian circles before appearing in European versions. The two were entered in the Eastern Orthodox calendar with a feast-day on 26 August,[3] and in the Roman Martyrology in the Western Church as "Barlaam and Josaphat" on the date of 27 November.[4]
 
 
 Background: the Buddha
 
-Battistero_di_parma,_portale_sud_03_leggenda_di_barlaam.JPG, Italy]] The story of BARLAAM AND JOSAPHAT or JOASAPH is a Christianized and later version of the story of Siddhartha Gautama, who became the Buddha.[5] In the Middle Ages the two were treated as Christian saints, being entered in the Greek Orthodox calendar on 26 August,[6] and in the Roman Martyrology in the Western Church as "Barlaam and Josaphat" on the date of 27 November.[7] In the Slavic tradition of the Eastern Orthodox Church, these two are commemorated on 19 November (corresponding to 2 December on the Gregorian calendar).[8][9]
+, Italy]] The story of BARLAAM AND JOSAPHAT or JOASAPH is a Christianized and later version of the story of Siddhartha Gautama, who became the Buddha.[5] In the Middle Ages the two were treated as Christian saints, being entered in the Greek Orthodox calendar on 26 August,[6] and in the Roman Martyrology in the Western Church as "Barlaam and Josaphat" on the date of 27 November.[7] In the Slavic tradition of the Eastern Orthodox Church, these two are commemorated on 19 November (corresponding to 2 December on the Gregorian calendar).[8][9]
 
 The first Christianized adaptation was the Georgian epic _Balavariani_ dating back to the 10th century. A Georgian monk, Euthymius of Athos, translated the story into Greek, some time before he died in an accident while visiting Constantinople in 1028.[10] There the Greek adaptation was translated into Latin in 1048 and soon became well known in Western Europe as _Barlaam and Josaphat_.[11] The Greek legend of "Barlaam and Ioasaph" is sometimes attributed to the 7th century John of Damascus, but Conybeare argued it was transcribed by the Georgian monk Euthymius in the 11th century.[12]
 
@@ -33,7 +31,7 @@ Although Barlaam and Josaphat were never formally canonized, they were included 
 
 Texts
 
-Barlaam_and_Josaphat._English_lives_of_Buddha.djvu There are a large number of different books in various languages, all dealing with the lives of Saints Barlaam and Josaphat in India. In this hagiographic tradition, the life and teachings of Josaphat have many parallels with those of the Buddha. "But not till the mid-nineteenth century was it recognised that, in Josaphat, the Buddha had been venerated as a Christian saint for about a thousand years."[25] The authorship of the work is disputed. The origins of the story seem to be a Central Asian manuscript written in the Manichaean tradition. This book was translated into Georgian and Arabic.
+There are a large number of different books in various languages, all dealing with the lives of Saints Barlaam and Josaphat in India. In this hagiographic tradition, the life and teachings of Josaphat have many parallels with those of the Buddha. "But not till the mid-nineteenth century was it recognised that, in Josaphat, the Buddha had been venerated as a Christian saint for about a thousand years."[25] The authorship of the work is disputed. The origins of the story seem to be a Central Asian manuscript written in the Manichaean tradition. This book was translated into Georgian and Arabic.
 
 Greek manuscripts
 
@@ -60,7 +58,7 @@ Georgian
 
 Greek
 
-Barlaam_y_Josafat.jpg, 14th or 15th century]]
+, 14th or 15th century]]
 
 -   Robert Volk, Die Schriften des Johannes von Damaskos VI/1: Historia animae utilis de Barlaam et Ioasaph (spuria). Patristische Texte und Studien Bd. 61. Berlin: Walter de Gruyter, 2009. Pp. xlii, 596. .
 -   Robert Volk, Die Schriften des Johannes von Damaskos VI/2: Historia animae utilis de Barlaam et Ioasaph (spuria). Text und zehn Appendices. Patristische Texte und Studien Bd. 60. Berlin: Walter de Gruyter, 2006. Pp. xiv, 512. .

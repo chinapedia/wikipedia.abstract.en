@@ -1,4 +1,4 @@
-Proteolysis_uncat.svg of a protein (red) by the nucleophilic attack of water (blue). The uncatalysed half-life is several hundred years.]]
+of a protein (red) by the nucleophilic attack of water (blue). The uncatalysed half-life is several hundred years.]]
 
 PROTEOLYSIS is the breakdown of proteins into smaller polypeptides or amino acids. Uncatalysed, the hydrolysis of peptide bonds is extremely slow, taking hundreds of years. Proteolysis is typically catalysed by cellular enzymes called proteases, but may also occur by intra-molecular digestion. Low pH or high temperatures can also cause proteolysis non-enzymatically.
 
@@ -40,8 +40,6 @@ Protein degradation
 Protein degradation may take place intracellularly or extracellularly. In digestion of food, digestive enzymes may be released into the environment for extracellular digestion whereby proteolytic cleavage breaks proteins into smaller peptides and amino acids so that they may be absorbed and used. In animals the food may be processed extracellularly in specialized organs or guts, but in many bacteria the food may be internalized via phagocytosis. Microbial degradation of protein in the environment can be regulated by nutrient availability. For example, limitation for major elements in proteins (carbon, nitrogen, and sulfur) induces proteolytic activity in the fungus _Neurospora crassa_[4] as well as in of soil organism communities.[5]
 
 Proteins in cells are broken into amino acids. This intracellular degradation of protein serves multiple functions: It removes damaged and abnormal protein and prevents their accumulation. It also serves to regulate cellular processes by removing enzymes and regulatory proteins that are no longer needed. The amino acids may then be reused for protein synthesis.
-
-Proteaosome_1fnt_side.png
 
 Lysosome and proteasome
 

@@ -5,7 +5,7 @@ Advances in technology are often responsible for the coinage of retronyms. For e
 
 Examples
 
-Trucks_and_cars_in_Popular_Mechanics_1914_v22_n5_p699.png'' in 1914 was written when the word _truck_ did not necessarily connote a motor truck and the word _car_ did not necessarily connote a motor car. The same topics today would most likely be talked about with the terms _hand trucks_ and _railroad cars_. Those terms existed in 1914 as well, but they were not required for clarity, as they would be today.]]
+'' in 1914 was written when the word _truck_ did not necessarily connote a motor truck and the word _car_ did not necessarily connote a motor car. The same topics today would most likely be talked about with the terms _hand trucks_ and _railroad cars_. Those terms existed in 1914 as well, but they were not required for clarity, as they would be today.]]
 
 The first bicycles with two wheels of equal size were called "safety bicycles" because they were easier to handle than the then-dominant style that had one large wheel and one small wheel, which then became known as an "ordinary" bicycle.[5] Since the end of the 19th century, most bicycles have been expected to have two equal sized wheels, and the other type has been renamed "penny-farthing" or "high-wheeler" bicycle.[6]
 

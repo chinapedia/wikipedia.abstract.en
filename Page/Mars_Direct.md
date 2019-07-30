@@ -1,7 +1,5 @@
 MARS DIRECT is a proposal for a human mission to Mars which purports to be both cost-effective and possible with current technology. It was originally detailed in a research paper by Martin Marietta engineers Robert Zubrin and David Baker in 1990, and later expanded upon in Zubrin's 1996 book _The Case for Mars_. It now serves as a staple of Zubrin's speaking engagements and general advocacy as head of the Mars Society, an organization devoted to the colonization of Mars.[1]
 
-Mars_Direct_Base_Art_001.png
-
 
 History
 
@@ -86,8 +84,6 @@ Revisions
 Since Mars Direct was initially conceived, it has undergone regular review and development by Zubrin himself, the Mars Society, NASA, Stanford University and others.
 
 Mars Semi-Direct
-
-Mars_design_reference_mission_3.jpg
 
 Zubrin and Weaver developed a modified version of Mars Direct, called Mars Semi-Direct, in response to some specific criticisms.[22] This mission consists of three spacecraft and includes a "Mars Ascent Vehicle" (MAV). The ERV remains in Mars orbit for the return journey, while the unmanned MAV lands and manufactures propellants for the ascent back up to Mars orbit. The Mars Semi-Direct architecture has been used as the basis of a number of studies, including the NASA Design Reference Missions.
 

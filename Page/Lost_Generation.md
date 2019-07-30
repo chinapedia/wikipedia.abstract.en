@@ -3,7 +3,7 @@ The LOST GENERATION is the generation that came of age during World War I. "Lost
 
 In literature
 
-GertrudeStein_JackHemingway_Paris.jpg with Ernest Hemingway's son, Jack Hemingway (nicknamed Bumby) in 1924. Stein is credited with bringing the term "Lost Generation" into use.]]
+with Ernest Hemingway's son, Jack Hemingway (nicknamed Bumby) in 1924. Stein is credited with bringing the term "Lost Generation" into use.]]
 
 In his memoir _A Moveable Feast_ (1964), published after Hemingway's and Stein's deaths, Hemingway writes that Stein heard the phrase from a French garage owner who serviced Stein's car. When a young mechanic failed to repair the car quickly enough, the garage owner shouted at the young man, "You are all a "_génération perdue._" While telling Hemingway the story, Stein added: "That is what you are. That's what you all are ... all of you young people who served in the war. You are a lost generation." Hemingway thus credits the phrase to Stein, who was then his mentor and patron.[6]
 

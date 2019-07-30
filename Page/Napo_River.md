@@ -1,6 +1,6 @@
 The NAPO RIVER () is a tributary to the Amazon River that rises in Ecuador on the flanks of the east Andean volcanoes of Antisana, Sinchulawa and Cotopaxi.
 
-The total length is . The river drains an area of . The mean annual discharge is per second.[1] NapoVillagePeru02-02.jpg
+The total length is . The river drains an area of . The mean annual discharge is per second.[1]
 
 Before it reaches the plains it receives a great number of small streams from impenetrable, saturated and much broken mountainous districts, where the dense and varied vegetation seems to fight for every piece of ground. This river is one of Ecuador's Physical Features. From the north it is joined by the Coca River, having its sources in the gorges of Cayambe volcano on the equator, and also a powerful river, the Aguarico having its headwaters between Cayambe and the Colombia frontier.
 

@@ -1,4 +1,4 @@
-DNA_replication.svg A PRIMER is a short single-stranded nucleic acid utilized by all living organisms in the initiation of DNA synthesis. The enzymes responsible for DNA replication, DNA polymerases, are only capable of adding nucleotides to the 3’-end of an existing nucleic acid, requiring a primer be bound to the template before DNA polymerase can begin a complementary strand[1]. Living organisms use solely RNA primers, while laboratory techniques in biochemistry and molecular biology that require in vitro DNA synthesis (such as DNA sequencing and polymerase chain reaction) usually use DNA primers, since they are more temperature stable.
+A PRIMER is a short single-stranded nucleic acid utilized by all living organisms in the initiation of DNA synthesis. The enzymes responsible for DNA replication, DNA polymerases, are only capable of adding nucleotides to the 3’-end of an existing nucleic acid, requiring a primer be bound to the template before DNA polymerase can begin a complementary strand[1]. Living organisms use solely RNA primers, while laboratory techniques in biochemistry and molecular biology that require in vitro DNA synthesis (such as DNA sequencing and polymerase chain reaction) usually use DNA primers, since they are more temperature stable.
 
 
 RNA Primers _in vivo_
@@ -18,7 +18,7 @@ In eukaryotic primer removal, DNA polymerase δ extends the Okazaki fragment in 
 
 Uses of synthetic primers
 
-Primers_RevComp.svg]]
+]]
 
 Synthetic primers are chemically synthesized oligonucleotides, usually of DNA, which can be customized to anneal to a specific site on the template DNA. In solution, the primer spontaneously hybridizes with the template through Watson-Crick base pairing before being extended by DNA polymerase. The ability to create and customize synthetic primers has proven an invaluable tool necessary to a variety of molecular biological approaches involving the analysis of DNA. Both the Sanger chain termination method and the “Next-Gen” method of DNA sequencing require primers to initiate the reaction[6].
 

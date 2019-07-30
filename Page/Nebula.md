@@ -1,4 +1,4 @@
-Eagle_nebula_pillars.jpg" from the Eagle Nebula. Evidence from the Spitzer Telescope suggests that the pillars may already have been destroyed by a supernova explosion, but the light showing us the destruction will not reach the Earth for another millennium.[1]]]
+" from the Eagle Nebula. Evidence from the Spitzer Telescope suggests that the pillars may already have been destroyed by a supernova explosion, but the light showing us the destruction will not reach the Earth for another millennium.[1]]]
 
 A NEBULA (Latin for 'cloud' or 'fog';[2] pl. NEBULAE, NEBULÆ, or NEBULAS) is an interstellar cloud of dust, hydrogen, helium and other ionized gases. Originally, the term was used to describe any diffuse astronomical object, including galaxies beyond the Milky Way. The Andromeda Galaxy, for instance, was once referred to as the _Andromeda Nebula_ (and spiral galaxies in general as "spiral nebulae") before the true nature of galaxies was confirmed in the early 20th century by Vesto Slipher, Edwin Hubble and others.
 
@@ -7,7 +7,7 @@ Most nebulae are of vast size; some are hundreds of light-years in diameter. A n
 
 Observational history
 
-Hs-2009-25-e-full.jpg]]
+]]
 
 Around 150 AD, Ptolemy recorded, in books VII–VIII of his _Almagest_, five stars that appeared nebulous. He also noted a region of nebulosity between the constellations Ursa Major and Leo that was not associated with any star.[5] The first true nebula, as distinct from a star cluster, was mentioned by the Persian astronomer Abd al-Rahman al-Sufi, in his _Book of Fixed Stars_ (964).[6] He noted "a little cloud" where the Andromeda Galaxy is located.[7] He also cataloged the Omicron Velorum star cluster as a "nebulous star" and other nebulous objects, such as Brocchi's Cluster.[8] The supernova that created the Crab Nebula, the SN 1054, was observed by Arabic and Chinese astronomers in 1054.[9][10]
 
@@ -26,7 +26,7 @@ Slipher and Edwin Hubble continued to collect the spectra from many different ne
 
 Formation
 
-Nursery_of_New_Stars_-_GPN-2000-000972.jpg]] There are a variety of formation mechanisms for the different types of nebulae. Some nebulae form from gas that is already in the interstellar medium while others are produced by stars. Examples of the former case are giant molecular clouds, the coldest, densest phase of interstellar gas, which can form by the cooling and condensation of more diffuse gas. Examples of the latter case are planetary nebulae formed from material shed by a star in late stages of its stellar evolution.
+]] There are a variety of formation mechanisms for the different types of nebulae. Some nebulae form from gas that is already in the interstellar medium while others are produced by stars. Examples of the former case are giant molecular clouds, the coldest, densest phase of interstellar gas, which can form by the cooling and condensation of more diffuse gas. Examples of the latter case are planetary nebulae formed from material shed by a star in late stages of its stellar evolution.
 
 Star-forming regions are a class of emission nebula associated with giant molecular clouds. These form as a molecular cloud collapses under its own weight, proceeding stars. Massive stars may form in the center, and their ultraviolet radiation ionizes the surrounding gas, making it visible at optical wavelengths. The region of ionized hydrogen surrounding the massive stars is known as an H II region while the shells of neutral hydrogen surrounding the H II region are known as photodissociation region. Examples of star-forming regions are the Orion Nebula, the Rosette Nebula and the Omega Nebula. Feedback from star-formation, in the form of supernova explosions of massive stars, stellar winds or ultraviolet radiation from massive stars, or outflows from low-mass stars may disrupt the cloud, destroying the nebula after several million years.
 
@@ -54,21 +54,19 @@ Not all cloud-like structures are named nebulae; Herbig–Haro objects are an ex
 
 Diffuse nebulae
 
-Carina_Nebula_by_ESO.jpg
-
 Most nebulae can be described as diffuse nebulae, which means that they are extended and contain no well-defined boundaries.[23] Diffuse nebulae can be divided into emission nebulae, reflection nebulae and dark nebulae. Visible light nebulae may be divided into emission nebulae that emit spectral line radiation from excited or ionized gas (mostly ionized hydrogen);[24] they are often called H II regions (the term "H II" refers to ionized hydrogen). Reflection nebulae are visible primarily due to the light they reflect. Reflection nebulae themselves do not emit significant amounts of visible light, but are near stars and reflect light from them.[25] Similar nebulae not illuminated by stars do not exhibit visible radiation, but may be detected as opaque clouds blocking light from luminous objects behind them; they are called dark nebulae.[26]
 
 Although these nebulae have different visibility at optical wavelengths, they are all bright sources of infrared emission, chiefly from dust within the nebulae.[27]
 
 Planetary nebulae
 
-The_Oyster_Nebula.jpg located in the constellation of Camelopardalis
+located in the constellation of Camelopardalis
 
 ]] Planetary nebulae are the remnants of the final stages of stellar evolution for lower-mass stars. Evolved asymptotic giant branch stars expel their outer layers outwards due to strong stellar winds, thus forming gaseous shells, while leaving behind the star's core in the form of a white dwarf.[28] The hot white dwarf illuminates the expelled gases producing emission nebulae with spectra similar to those of emission nebulae found in star formation regions.[29] Technically they are H II regions, because most hydrogen are ionized, but are denser and more compact than nebulae found in star formation regions.[30] Planetary nebulae were given their name by the first astronomical observers who were initially unable to distinguish them from planets, and who tended to confuse them with planets, which were of more interest to them. Our Sun is expected to spawn a planetary nebula about 12 billion years after its formation.[31]
 
 Protoplanetary nebula
 
-Westbrook_Nebula.tif is an example of a protoplanetary nebula located in the constellation of Auriga]]
+is an example of a protoplanetary nebula located in the constellation of Auriga]]
 
 A protoplanetary nebula (PPN) is an astronomical object at the short-lived episode during a star's rapid stellar evolution between the late asymptotic giant branch (LAGB) phase and the following planetary nebula (PN) phase.[32] During the AGB phase, the star undergoes mass loss, emitting a circumstellar shell of hydrogen gas. When this phase comes to an end, the star enters the PPN phase.
 
@@ -76,7 +74,7 @@ The PPN is energized by the central star, causing it to emit strong infrared rad
 
 Supernova remnants
 
-Crab_Nebula.jpg, an example of a supernova remnant]]
+, an example of a supernova remnant]]
 
 A supernova occurs when a high-mass star reaches the end of its life. When nuclear fusion in the core of the star stops, the star collapses. The gas falling inward either rebounds or gets so strongly heated that it expands outwards from the core, thus causing the star to explode.[35] The expanding shell of gas forms a supernova remnant, a special diffuse nebula.[36] Although much of the optical and X-ray emission from supernova remnants originates from ionized gas, a great amount of the radio emission is a form of non-thermal emission called synchrotron emission.[37] This emission originates from high-velocity electrons oscillating within magnetic fields.
 

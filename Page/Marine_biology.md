@@ -1,4 +1,4 @@
-BlueMarble-2001-2002.jpg, the home to marine life. Oceans average nearly four kilometres in depth and are fringed with coastlines that run for 360,000 kilometres.[1][2]|alt=Two views of the ocean from space]]
+, the home to marine life. Oceans average nearly four kilometres in depth and are fringed with coastlines that run for 360,000 kilometres.[1][2]|alt=Two views of the ocean from space]]
 
 MARINE BIOLOGY is the scientific study of marine life, organisms in the sea. Given that in biology many phyla, families and genera have some species that live in the sea and others that live on land, marine biology classifies species based on the environment rather than on taxonomy.
 
@@ -11,11 +11,11 @@ Many species are economically important to humans, including both finfish and sh
 
 History
 
-Scyliorhinus_retifer_embryo.JPG recorded that the embryo of a dogfish was attached by a cord to a kind of placenta (the yolk sac).[6]]]
+recorded that the embryo of a dogfish was attached by a cord to a kind of placenta (the yolk sac).[6]]]
 
 The study of marine biology dates back to Aristotle (384–322 BC), who made many observations of life in the sea around Lesbos, laying the foundation for many future discoveries.[7] In 1768, Samuel Gottlieb Gmelin (1744–1774) published the _Historia Fucorum_, the first work dedicated to marine algae and the first book on marine biology to use the then new binomial nomenclature of Linnaeus. It included elaborate illustrations of seaweed and marine algae on folded leaves.[8][9] The British naturalist Edward Forbes (1815–1854) is generally regarded as the founder of the science of marine biology.[10] The pace of oceanographic and marine biology studies quickly accelerated during the course of the 19th century.
 
-Challenger.jpg of 1872–76}}]]
+of 1872–76}}]]
 
 The observations made in the first studies of marine biology fueled the age of discovery and exploration that followed. During this time, a vast amount of knowledge was gained about the life that exists in the oceans of the world. Many voyages contributed significantly to this pool of knowledge. Among the most significant were the voyages of where Charles Darwin came up with his theories of evolution and on the formation of coral reefs.[11] Another important expedition was undertaken by HMS _Challenger_, where findings were made of unexpectedly high species diversity among fauna stimulating much theorizing by population ecologists on how such varieties of life could be maintained in what was thought to be such a hostile environment.[12] This era was important for the history of marine biology but naturalists were still limited in their studies because they lacked technology that would allow them to adequately examine species that lived in deep parts of the oceans.
 
@@ -26,7 +26,7 @@ Marine life
 
 Microscopic life
 
-Copepodkils.jpg}}]]
+}}]]
 
 As inhabitants of the largest environment on Earth, microbial marine systems drive changes in every global system. Microbes are responsible for virtually all the photosynthesis that occurs in the ocean, as well as the cycling of carbon, nitrogen, phosphorus and other nutrients and trace elements.[15]
 
@@ -46,33 +46,33 @@ Plants that survive in the sea are often found in shallow waters, such as the se
 
 Invertebrates
 
-Crown_of_Thorns-jonhanson.jpg}}]]
+}}]]
 
 As on land, invertebrates make up a huge portion of all life in the sea. Invertebrate sea life includes Cnidaria such as jellyfish and sea anemones; Ctenophora; sea worms including the phyla Platyhelminthes, Nemertea, Annelida, Sipuncula, Echiura, Chaetognatha, and Phoronida; Mollusca including shellfish, squid, octopus; Arthropoda including Chelicerata and Crustacea; Porifera; Bryozoa; Echinodermata including starfish; and Urochordata including sea squirts or tunicates. Invertebrates have no backbone. There are over a million species.
 
 Fungi
 
-Grilse001.jpg Over 1500 species of fungi are known from marine environments.[17] These are parasitic on marine algae or animals, or are saprobes on algae, corals, protozoan cysts, sea grasses, wood and other substrata, and can also be found in sea foam.[18] Spores of many species have special appendages which facilitate attachment to the substratum.[19] A very diverse range of unusual secondary metabolites is produced by marine fungi.[20]
+Over 1500 species of fungi are known from marine environments.[17] These are parasitic on marine algae or animals, or are saprobes on algae, corals, protozoan cysts, sea grasses, wood and other substrata, and can also be found in sea foam.[18] Spores of many species have special appendages which facilitate attachment to the substratum.[19] A very diverse range of unusual secondary metabolites is produced by marine fungi.[20]
 
 Vertebrates
 
 Fish
 
-Gullfiskur.jpg A reported 33,400 species of fish, including bony and cartilaginous fish, had been described by 2016,[21] more than all other vertebrates combined. About 60% of fish species live in saltwater.[22]
+A reported 33,400 species of fish, including bony and cartilaginous fish, had been described by 2016,[21] more than all other vertebrates combined. About 60% of fish species live in saltwater.[22]
 
 Reptiles
 
-Chelonia_mydas_and_bubbles.jpg}}]]
+}}]]
 
 Reptiles which inhabit or frequent the sea include sea turtles, sea snakes, terrapins, the marine iguana, and the saltwater crocodile. Most extant marine reptiles, except for some sea snakes, are oviparous and need to return to land to lay their eggs. Thus most species, excepting sea turtles, spend most of their lives on or near land rather than in the ocean. Despite their marine adaptations, most sea snakes prefer shallow waters nearby land, around islands, especially waters that are somewhat sheltered, as well as near estuaries.[23][24] Some extinct marine reptiles, such as ichthyosaurs, evolved to be viviparous and had no requirement to return to land.
 
 Birds
 
-Black-browed_albatross.jpg Birds adapted to living in the marine environment are often called seabirds. Examples include albatross, penguins, gannets, and auks. Although they spend most of their lives in the ocean, species such as gulls can often be found thousands of miles inland.
+Birds adapted to living in the marine environment are often called seabirds. Examples include albatross, penguins, gannets, and auks. Although they spend most of their lives in the ocean, species such as gulls can often be found thousands of miles inland.
 
 Mammals
 
-Sea_otters_holding_hands,_cropped.jpgs]]
+s]]
 
 There are five main types of marine mammals, namely cetaceans (toothed whales and baleen whales); sirenians such as manatees; pinnipeds including seals and the walrus; sea otters; and the polar bear. All are air-breathing, and while some such as the sperm whale can dive for prolonged periods, all must return to the surface to breathe.[25][26]
 
@@ -83,19 +83,17 @@ Marine habitats can be divided into coastal and open ocean habitats. Coastal hab
 
 Intertidal and near shore
 
-Tide_pools_in_santa_cruz.jpg]]
+]]
 
 Intertidal zones, the areas that are close to the shore, are constantly being exposed and covered by the ocean's tides. A huge array of life can be found within this zone. Shore habitats span from the upper intertidal zones to the area where land vegetation takes prominence. It can be underwater anywhere from daily to very infrequently. Many species here are scavengers, living off of sea life that is washed up on the shore. Many land animals also make much use of the shore and intertidal habitats. A subgroup of organisms in this habitat bores and grinds exposed rock through the process of bioerosion.
 
 Estuaries
 
-Urdaibai,_Bizkaia,_Euskal_Herria.jpg
-
 Estuaries are also near shore and influenced by the tides. An estuary is a partially enclosed coastal body of water with one or more rivers or streams flowing into it and with a free connection to the open sea.[27] Estuaries form a transition zone between freshwater river environments and saltwater maritime environments. They are subject both to marine influences—such as tides, waves, and the influx of saline water—and to riverine influences—such as flows of fresh water and sediment. The shifting flows of both sea water and fresh water provide high levels of nutrients both in the water column and in sediment, making estuaries among the most productive natural habitats in the world.[28]
 
 Reefs
 
-Maldivesfish2.jpgs form complex marine ecosystems with tremendous biodiversity.]]
+s form complex marine ecosystems with tremendous biodiversity.]]
 
 Reefs comprise some of the densest and most diverse habitats in the world. The best-known types of reefs are tropical coral reefs which exist in most tropical waters; however, reefs can also exist in cold water. Reefs are built up by corals and other calcium-depositing animals, usually on top of a rocky outcrop on the ocean floor. Reefs can also grow on other surfaces, which has made it possible to create artificial reefs. Coral reefs also support a huge community of life, including the corals themselves, their symbiotic zooxanthellae, tropical fish and many other organisms.
 
@@ -103,13 +101,11 @@ Much attention in marine biology is focused on coral reefs and the El Niño weat
 
 Open ocean
 
-Humpback_stellwagen_edit.jpg]]
+]]
 
 The open ocean is relatively unproductive because of a lack of nutrients, yet because it is so vast, in total it produces the most primary productivity. The open ocean is separated into different zones, and the different zones each have different ecologies.[35] Zones which vary according to their depth include the epipelagic, mesopelagic, bathypelagic, abyssopelagic, and hadopelagic zones. Zones which vary by the amount of light they receive include the photic and aphotic zones. Much of the aphotic zone's energy is supplied by the open ocean in the form of detritus.
 
 Deep sea and trenches
-
-Deep_sea_chimaera.jpg
 
 The deepest recorded oceanic trench measured to date is the Mariana Trench, near the Philippines, in the Pacific Ocean at . At such depths, water pressure is extreme and there is no sunlight, but some life still exists. A white flatfish, a shrimp and a jellyfish were seen by the American crew of the bathyscaphe _Trieste_ when it dove to the bottom in 1960.[36] In general, the deep sea is considered to start at the aphotic zone, the point where sunlight loses its power of transference through the water.[37] Many life forms that live at these depths have the ability to create their own light known as bio-luminescence. Marine life also flourishes around seamounts that rise from the depths, where fish and other sea life congregate to spawn and feed. Hydrothermal vents along the mid-ocean ridge spreading centers act as oases, as do their opposites, cold seeps. Such places support unique biomes and many new microbes and other lifeforms have been discovered at these locations .
 

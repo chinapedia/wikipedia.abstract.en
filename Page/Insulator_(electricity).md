@@ -1,4 +1,4 @@
-Insulator_railways.jpg 600V_CV_5.5sqmm.jpg MICCCable.jpg with 2 conducting cores]]
+with 2 conducting cores]]
 
 An ELECTRICAL INSULATOR is a material whose internal electric charges do not flow freely; very little electric current will flow through it under the influence of an electric field. This contrasts with other materials, semiconductors and conductors, which conduct electric current more easily. The property that distinguishes an insulator is its resistivity; insulators have higher resistivity than semiconductors or conductors.
 
@@ -39,11 +39,9 @@ In high voltage systems containing transformers and capacitors, liquid insulator
 
 Telegraph and power transmission insulators
 
-Power_line_with_ceramic_insulators.jpg, USA]]
+, USA]]
 
 Overhead conductors for high-voltage electric power transmission are bare, and are insulated by the surrounding air. Conductors for lower voltages in distribution may have some insulation but are often bare as well. Insulating supports called _insulators_ are required at the points where they are supported by utility poles or transmission towers. Insulators are also required where the wire enters buildings or electrical devices, such as transformers or circuit breakers, to insulate the wire from the case. These hollow insulators with a conductor inside them are called bushings.
-
-Ceramic_electric_insulator.jpg
 
 Material
 
@@ -53,7 +51,7 @@ Recently, some electric utilities have begun converting to polymer composite mat
 
 Design
 
-Fotothek_df_n-15_0000283_Facharbeiter_für_Sintererzeugnisse.jpg. ]]
+. ]]
 
 The electrical breakdown of an insulator due to excessive voltage can occur in one of two ways:
 
@@ -64,8 +62,6 @@ Most high voltage insulators are designed with a lower flashover voltage than pu
 
 Dirt, pollution, salt, and particularly water on the surface of a high voltage insulator can create a conductive path across it, causing leakage currents and flashovers. The flashover voltage can be reduced by more than 50% when the insulator is wet. High voltage insulators for outdoor use are shaped to maximise the length of the leakage path along the surface from one end to the other, called the creepage length, to minimise these leakage currents.[8] To accomplish this the surface is moulded into a series of corrugations or concentric disc shapes. These usually include one or more _sheds_; downward facing cup-shaped surfaces that act as umbrellas to ensure that the part of the surface leakage path under the 'cup' stays dry in wet weather. Minimum creepage distances are 20–25 mm/kV, but must be increased in high pollution or airborne sea-salt areas.
 
-pylon.detail.arp.750pix.jpg LIC_U70.jpg
-
 Types of insulators
 
 These are the common classes of insulator:
@@ -74,7 +70,7 @@ These are the common classes of insulator:
 -   _Post insulator_ - A type of insulator in the 1930s that is more compact than traditional pin-type insulators and which has rapidly replaced many pin-type insulators on lines up to 69 kV and in some configurations, can be made for operation at up to 115 kV.
 -   _Suspension insulator_ - For voltages greater than 33 kV, it is a usual practice to use suspension type insulators, consisting of a number of glass or porcelain discs connected in series by metal links in the form of a string. The conductor is suspended at the bottom end of this string while the top end is secured to the cross-arm of the tower. The number of disc units used depends on the voltage.
 -   _Strain insulator_ - A _dead end_ or _anchor_ pole or tower is used where a straight section of line ends, or angles off in another direction. These poles must withstand the lateral (horizontal) tension of the long straight section of wire. To support this lateral load, strain insulators are used. For low voltage lines (less than 11 kV), shackle insulators are used as strain insulators. However, for high voltage transmission lines, strings of cap-and-pin (suspension) insulators are used, attached to the crossarm in a horizontal direction. When the tension load in lines is exceedingly high, such as at long river spans, two or more strings are used in parallel.
--   3phceramicins.jpg_Shackle insulator_ - In early days, the shackle insulators were used as strain insulators. But nowaday, they are frequently used for low voltage distribution lines. Such insulators can be used either in a horizontal position or in a vertical position. They can be directly fixed to the pole with a bolt or to the cross arm.
+-   _Shackle insulator_ - In early days, the shackle insulators were used as strain insulators. But nowaday, they are frequently used for low voltage distribution lines. Such insulators can be used either in a horizontal position or in a vertical position. They can be directly fixed to the pole with a bolt or to the cross arm.
 -   _Bushing_ - enables one or several conductors to pass through a partition such as a wall or a tank, and insulates the conductors from it.IEC 60137:2003. 'Insulated bushings for alternating voltages
 
 above 1,000 V.' IEC, 2003.
@@ -130,7 +126,7 @@ In very high voltage lines the insulator may be surrounded by corona rings.[11] 
 
 : Typical number of disc insulator units for standard line voltages[12]
 
-Pole_Route.jpg, Norfolk, United Kingdom.]]
+, Norfolk, United Kingdom.]]
 
 History
 
@@ -147,7 +143,7 @@ A large variety of telephone, telegraph and power insulators have been made; som
 
 Insulation of antennas
 
-Tamagaishi.jpg Often a broadcasting radio antenna is built as a mast radiator, which means that the entire mast structure is energised with high voltage and must be insulated from the ground. Steatite mountings are used. They have to withstand not only the voltage of the mast radiator to ground, which can reach values up to 400 kV at some antennas, but also the weight of the mast construction and dynamic forces. Arcing horns and lightning arresters are necessary because lightning strikes to the mast are common.
+Often a broadcasting radio antenna is built as a mast radiator, which means that the entire mast structure is energised with high voltage and must be insulated from the ground. Steatite mountings are used. They have to withstand not only the voltage of the mast radiator to ground, which can reach values up to 400 kV at some antennas, but also the weight of the mast construction and dynamic forces. Arcing horns and lightning arresters are necessary because lightning strikes to the mast are common.
 
 Guy wires supporting antenna masts usually have strain insulators inserted in the cable run, to keep the high voltages on the antenna from short circuiting to ground or creating a shock hazard. Often guy cables have several insulators, placed to break up the cable into lengths that prevent unwanted electrical resonances in the guy. These insulators are usually ceramic and cylindrical or egg-shaped (see picture). This construction has the advantage that the ceramic is under compression rather than tension, so it can withstand greater load, and that if the insulator breaks, the cable ends are still linked.
 

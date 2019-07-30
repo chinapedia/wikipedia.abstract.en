@@ -44,7 +44,7 @@ Bacon made his debut as a director with the television film _Losing Chase_ (1996
 
 2000s
 
-KevinBaconTakingChanceFeb09.jpg'' in February 2009]] In 2000, he appeared in Paul Verhoeven's _Hollow Man._[42] Bacon, Colin Firth and Rachel Blanchard depict a ménage à trois in their film, _Where the Truth Lies_.[43] Bacon and director Atom Egoyan have condemned the MPAA ratings board decision to rate the film "NC-17" rather than the preferable "R". Bacon commented: "I don't get it, when I see films (that) are extremely violent, extremely objectionable sometimes in terms of the roles that women play, slide by with an R, no problem, because the people happen to have more of their clothes on."[44]
+'' in February 2009]] In 2000, he appeared in Paul Verhoeven's _Hollow Man._[42] Bacon, Colin Firth and Rachel Blanchard depict a ménage à trois in their film, _Where the Truth Lies_.[43] Bacon and director Atom Egoyan have condemned the MPAA ratings board decision to rate the film "NC-17" rather than the preferable "R". Bacon commented: "I don't get it, when I see films (that) are extremely violent, extremely objectionable sometimes in terms of the roles that women play, slide by with an R, no problem, because the people happen to have more of their clothes on."[44]
 
 In 2003 he acted with Sean Penn and Tim Robbins in Clint Eastwood's movie _Mystic River_.
 
@@ -94,7 +94,7 @@ Kevin formed a band called The Bacon Brothers with his brother, Michael. The duo
 
 Awards and nominations
 
-Kevin_Bacon's_Star_Walk_of_Fame.jpg for Motion Picture – 6356 Hollywood, Blvd.]]
+for Motion Picture – 6356 Hollywood, Blvd.]]
 
 Honors
 

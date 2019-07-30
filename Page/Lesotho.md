@@ -2,7 +2,7 @@ Muso oa Lesotho'' (Sesotho) | image_flag = Flag of Lesotho.svg | image_coat = Co
 | national_anthem = _Lesotho Fatše La Bontata Rona_
 ()
 
-File:National_anthem_of_Lesotho,_performed_by_the_U.S._Navy_Band.wav | image_map = Location Lesotho AU Africa.svg | map_caption = | image_map2 = Lesotho - Location Map (2013) - LSO - UNOCHA.svg | capital = Maseru | coordinates = | largest_city = Maseru | official_languages = | ethnic_groups = | demonym =
+| image_map = Location Lesotho AU Africa.svg | map_caption = | image_map2 = Lesotho - Location Map (2013) - LSO - UNOCHA.svg | capital = Maseru | coordinates = | largest_city = Maseru | official_languages = | ethnic_groups = | demonym =
 Lesothan (Interchangeable)
 Lesothonian | government_type = Unitary parliamentary constitutional monarchy | leader_title1 = Monarch | leader_name1 = Letsie III | leader_title2 = Prime Minister | leader_name2 = Tom Thabane | leader_title3 = Deputy prime minister | leader_name3 = Monyane Moleleki | leader_title4 = Assembly Speaker | leader_name4 = Sephiri Motanyane | legislature = Parliament | upper_house = Senate | lower_house = National Assembly | sovereignty_type = Independence | established_event1 = from the United Kingdom | established_date1 = 4 October 1966 | area_km2 = 30,355 | area_rank = 137th | area_sq_mi = 11,720 | percent_water = 0.0032% | population_estimate = | population_census = 2,031,348 | population_estimate_year = | population_estimate_rank = 144th | population_census_year = 2004 | population_density_km2 = 68.1 | population_density_sq_mi = 162.4 | population_density_rank = 138th | GDP_PPP = $7.448 billion[1] | GDP_PPP_year = 2017 | GDP_PPP_per_capita = $3,868[2] | GDP_nominal = $2.721 billion[3] | GDP_nominal_year = 2017 | GDP_nominal_per_capita = $1,413[4] | Gini = 54.2 | Gini_year = 2015 | Gini_change = | Gini_ref = [5] | Gini_rank = 17 | HDI = 0.515 | HDI_year = 2017 | HDI_change = increase | HDI_ref = [6] | HDI_rank = 160th | currency = Lesotho loti (LSL), South African rand (ZAR) | currency_code = | time_zone = South African Standard Time | utc_offset = +2 | utc_offset_DST = | time_zone_DST = | drives_on = left | calling_code = +266 | cctld = .ls | footnote_a = | footnotes = Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected. }}
 
@@ -13,7 +13,7 @@ Lesotho was previously the British Crown Colony of Basutoland, but it declared i
 
 History
 
-King_Moshoeshoe_of_the_Basotho_with_his_ministers.jpg with his Ministers]]
+with his Ministers]]
 
 The original inhabitants of the area now known as Lesotho were the San people. Examples of their rock art can be found in the mountains throughout the area.[10]
 
@@ -33,8 +33,6 @@ Following the cession in 1869, the British initially transferred functions from 
 
 In 1884, Basutoland was restored to its status as a protectorate, with Maseru again its capital, but remained under direct rule by a governor, though effective internal power was wielded by traditional chiefs.
 
-1959_Basutoland_National_Council_stamps.jpg
-
 Independence (1966–present)
 
 Basutoland gained its independence from Britain and became the Kingdom of Lesotho in 1966.[13]
@@ -45,7 +43,7 @@ BCP began a rebellion and then received training in Libya for its Lesotho Libera
 
 The BNP ruled from 1966 until January 1970. What later ensued was a de facto government led by Dr. Leabua Jonathan until 1986 when a military coup forced it out of office. The Transitional Military Council that came to power granted executive powers to King Moshoeshoe II, who was until then a ceremonial monarch. But in 1987 the King was forced into exile after coming up with a six-page memorandum on how he wanted the Lesotho's constitution to be, which would have given him more executive powers had the military government agreed. His son was installed as King Letsie III.
 
-Lesotho_mountain_village_(5285775857).jpg The chairman of the military junta, Major General Justin Metsing Lekhanya, was ousted in 1991 and replaced by Major General Elias Phisoana Ramaema, who handed over power to a democratically elected government of the BCP in 1993. Moshoeshoe II returned from exile in 1992 as an ordinary citizen. After the return to democratic government, King Letsie III tried unsuccessfully to persuade the BCP government to reinstate his father (Moshoeshoe II) as head of state.
+The chairman of the military junta, Major General Justin Metsing Lekhanya, was ousted in 1991 and replaced by Major General Elias Phisoana Ramaema, who handed over power to a democratically elected government of the BCP in 1993. Moshoeshoe II returned from exile in 1992 as an ordinary citizen. After the return to democratic government, King Letsie III tried unsuccessfully to persuade the BCP government to reinstate his father (Moshoeshoe II) as head of state.
 
 In August 1994, Letsie III staged a military-backed coup that deposed the BCP government, after the BCP government refused to reinstate his father, Moshoeshoe II, according to Lesotho's constitution. The new government did not receive full international recognition. Member states of the Southern African Development Community (SADC) engaged in negotiations to reinstate the BCP government. One of the conditions Letsie III put forward for this was that his father should be re-installed as head of state. After protracted negotiations, the BCP government was reinstated and Letsie III abdicated in favour of his father in 1995, but he ascended the throne again when Moshoeshoe II died at the age of fifty-seven in a supposed road accident, when his car plunged off a mountain road during the early hours of 15 January 1996. According to a government statement, Moshoeshoe had set out at 1 am to visit his cattle at Matsieng and was returning to Maseru through the Maluti Mountains when his car left the road.[14]
 
@@ -74,7 +72,7 @@ the _People's Charter Movement_ called for the practical annexation of the count
 
 Foreign relations
 
-LesothoEmbassyWashingtonDC.jpg in Washington, D.C., United States]] Lesotho's geographic location makes it extremely vulnerable to political and economic developments in South Africa. It is a member of many regional economic organisations, including the Southern African Development Community (SADC),[20] and the Southern African Customs Union (SACU).[21] It is also active in the United Nations (UN), the African Union (AU), the Non-Aligned Movement, the Commonwealth, and many other international organisations.[22]
+in Washington, D.C., United States]] Lesotho's geographic location makes it extremely vulnerable to political and economic developments in South Africa. It is a member of many regional economic organisations, including the Southern African Development Community (SADC),[20] and the Southern African Customs Union (SACU).[21] It is also active in the United Nations (UN), the African Union (AU), the Non-Aligned Movement, the Commonwealth, and many other international organisations.[22]
 
 Prince Seeiso Simoné Seeiso is the present High Commissioner of the Kingdom of Lesotho to the Court of St. James's. The UN is represented by a resident mission as well, including UNDP, UNICEF, WHO, FAO, WFP, UNFPA and UNAIDS.
 
@@ -88,7 +86,7 @@ Law
 
 Lesotho does not have a single code containing its laws; it draws them from a variety of sources including: Constitution, Legislation, Common Law, Judicial precedent, Customary Law, and Authoritative texts.[26]
 
-Chinese_Lesotho_project_Lesotho_Parliament_II.jpg The Constitution of Lesotho came into force after the publication of the Commencement Order. Constitutionally, legislation refers to laws that have been passed by both houses of parliament and have been assented to by the king (section 78(1)). Subordinate legislation refers to laws passed by other bodies to which parliament has by virtue of section 70(2) of the Constitution validly delegated such legislative powers. These include government publications, ministerial orders, ministerial regulations and municipal by-laws.
+The Constitution of Lesotho came into force after the publication of the Commencement Order. Constitutionally, legislation refers to laws that have been passed by both houses of parliament and have been assented to by the king (section 78(1)). Subordinate legislation refers to laws passed by other bodies to which parliament has by virtue of section 70(2) of the Constitution validly delegated such legislative powers. These include government publications, ministerial orders, ministerial regulations and municipal by-laws.
 
 Although Lesotho shares with South Africa, Botswana, Swaziland, Namibia and Zimbabwe a mixed general legal system which resulted from the interaction between the Roman-Dutch Civilian law and the English Common Law, its general law operates independently. Lesotho also applies the common law, which refers to unwritten law or law from non-statutory sources, but excludes customary law. Decisions from South African courts are only persuasive, and courts refer to them in formulating their decisions. Decisions from similar jurisdictions can also be cited for their persuasive value. Magistrates' courts decisions do not become precedent since these are lower courts. They are however bound by decisions of the High Court and the Court of Appeal. At the apex of the Lesotho justice system is the Court of Appeal, which is the final appellate forum on all matters. It has a supervisory and review jurisdiction over all the courts of Lesotho.
 
@@ -96,12 +94,12 @@ Lesotho has a dual legal system consisting of customary and general laws operati
 
 Districts
 
-Map_of_lesotho.png For administrative purposes, Lesotho is divided into ten districts, each headed by a district administrator. Each district has a capital known as a _camptown_. The districts are further subdivided into 80 constituencies, which consist of 129 local community councils.
+For administrative purposes, Lesotho is divided into ten districts, each headed by a district administrator. Each district has a capital known as a _camptown_. The districts are further subdivided into 80 constituencies, which consist of 129 local community councils.
 
 
 Geography
 
-AfriSki.jpg resort in the Maloti Mountains of Lesotho]] Lesotho covers . It is the only independent state in the world that lies entirely above in elevation. Its lowest point of is thus the highest in the world. Over 80 percent of the country lies above . Lesotho is also the southernmost landlocked country in the world and is entirely surrounded by South Africa. It lies between latitudes 28° and 31°S, and longitudes 27° and 30°E.
+resort in the Maloti Mountains of Lesotho]] Lesotho covers . It is the only independent state in the world that lies entirely above in elevation. Its lowest point of is thus the highest in the world. Over 80 percent of the country lies above . Lesotho is also the southernmost landlocked country in the world and is entirely surrounded by South Africa. It lies between latitudes 28° and 31°S, and longitudes 27° and 30°E.
 
 Climate
 
@@ -109,14 +107,14 @@ Because of its elevation, Lesotho remains cooler throughout the year than other 
 
 Wildlife
 
-Aloe_polyphylla_3.jpg There are known to be 339 bird species in Lesotho, including 10 globally threatened species and 2 introduced species, 17 reptile species, including geckos, snakes and lizards, and 60 mammal species endemic to Lesotho, including the endangered white-tailed rat.
+There are known to be 339 bird species in Lesotho, including 10 globally threatened species and 2 introduced species, 17 reptile species, including geckos, snakes and lizards, and 60 mammal species endemic to Lesotho, including the endangered white-tailed rat.
 
 Lesotho flora is Alpine, due to the high and mountainous terrain. The Katse Botanical Gardens houses a collection of medicinal plants and has a large seed bank of plants from the Malibamat'so River area.[27][28]
 
 
 Economy
 
-A_vehicle_on_Sani_Pass.jpg on the South African border is a popular tourist attraction.]] Lesotho is geographically surrounded by South Africa and economically integrated with it. The economy of Lesotho is based on agriculture, livestock, manufacturing and mining, and depends heavily on inflows of workers' remittances and receipts from the Southern African Customs Union (SACU).[29][30] The majority of households subsist on farming. The formal sector employment consists mainly of female workers in the apparel sector, male migrant labour, primarily miners in South Africa for three to nine months, and employment by the Government of Lesotho (GOL). The western lowlands form the main agricultural zone. Almost 50 percent of the population earn income through informal crop cultivation or animal husbandry with nearly two-thirds of the country's income coming from the agricultural sector. The percentage of the population living below USD Purchasing Power Parity (PPP) US$1.25/day fell from 48 percent to 44 percent between 1995 and 2003.[31] The country is among the "Low Human Development" countries (rank 160 of 187 on the Human Development Index as classified by the UNDP, with 48.2 years of life expectancy at birth.[32] Adult literacy is as high as 82 percent. Among the children below the age of five years, 20 percent are under weight.[33]
+on the South African border is a popular tourist attraction.]] Lesotho is geographically surrounded by South Africa and economically integrated with it. The economy of Lesotho is based on agriculture, livestock, manufacturing and mining, and depends heavily on inflows of workers' remittances and receipts from the Southern African Customs Union (SACU).[29][30] The majority of households subsist on farming. The formal sector employment consists mainly of female workers in the apparel sector, male migrant labour, primarily miners in South Africa for three to nine months, and employment by the Government of Lesotho (GOL). The western lowlands form the main agricultural zone. Almost 50 percent of the population earn income through informal crop cultivation or animal husbandry with nearly two-thirds of the country's income coming from the agricultural sector. The percentage of the population living below USD Purchasing Power Parity (PPP) US$1.25/day fell from 48 percent to 44 percent between 1995 and 2003.[31] The country is among the "Low Human Development" countries (rank 160 of 187 on the Human Development Index as classified by the UNDP, with 48.2 years of life expectancy at birth.[32] Adult literacy is as high as 82 percent. Among the children below the age of five years, 20 percent are under weight.[33]
 
 Lesotho has taken advantage of the African Growth and Opportunity Act (AGOA) to become the largest exporter of garments to the US from sub-Saharan Africa.[34] US brands and retailers sourcing from Lesotho include: Foot Locker, Gap, Gloria Vanderbilt, JCPenney, Levi Strauss, Saks, Sears, Timberland and Wal-Mart.[35] In mid-2004 its employment reached over 50,000, mainly female workers, marking the first time that manufacturing sector workers outnumbered government employees. In 2008 it exported goods worth 487 million dollars mainly to the US. Since 2004, employment in the sector has dwindled to about 45,000 in mid-2011 due to international competition in the garment sector. It was the largest formal sector employer in Lesotho in 2011.[36] In 2007, the average earnings of an employee in the textile sector were US$103 per month, and the official minimum wage for a general textile worker was US$93 per month. The average gross national income per capita in 2008 was US$83 per month.[37] The sector initiated a major program to fight HIV/AIDS called Apparel Lesotho Alliance to Fight AIDS (ALAFA). It is an industry-wide program providing prevention and treatment for workers.[38]
 
@@ -147,8 +145,6 @@ Population
 |            |
 +------------+
 
-Lesotho_class.jpg
-
 Demographics
 
 Lesotho has a population of approximately . The population distribution of Lesotho is 25 percent urban and 75 percent rural. However, it is estimated that the annual increase in urban population is 3.5 percent.[47] Population density is lower in the highlands than in the western lowlands. Although the majority of the population—60.2 percent—is between 15 and 64 years of age, Lesotho has a substantial youth population numbering around 34.8 percent.[48]
@@ -165,7 +161,7 @@ The population of Lesotho is estimated to be more than 95 percent Christian.[49]
 
 Education and literacy
 
-National_University_of_Lesotho_Administration_Block.jpg]] According to recent estimates, 85 percent of women and 68 percent of men over the age of 15 are literate[52]. As such, Lesotho holds one of the highest literacy rates in Africa,[53] in part because Lesotho invests over 12 percent of its GDP in education.[54] Unlike in most other countries, in Lesotho female literacy (84.93 percent) exceeds male literacy (67.75 percent) by 17.18 percentage points. According to a study by the Southern and Eastern Africa Consortium for Monitoring Educational Quality in 2000, 37 percent of grade six pupils in Lesotho (average age 14 years) are at or above reading level four, "Reading for Meaning."[55] A pupil at this level of literacy can read ahead or backwards through various parts of text to link and interpret information. Although education is not compulsory, the Government of Lesotho is incrementally implementing a program for free primary education.[56]
+]] According to recent estimates, 85 percent of women and 68 percent of men over the age of 15 are literate[52]. As such, Lesotho holds one of the highest literacy rates in Africa,[53] in part because Lesotho invests over 12 percent of its GDP in education.[54] Unlike in most other countries, in Lesotho female literacy (84.93 percent) exceeds male literacy (67.75 percent) by 17.18 percentage points. According to a study by the Southern and Eastern Africa Consortium for Monitoring Educational Quality in 2000, 37 percent of grade six pupils in Lesotho (average age 14 years) are at or above reading level four, "Reading for Meaning."[55] A pupil at this level of literacy can read ahead or backwards through various parts of text to link and interpret information. Although education is not compulsory, the Government of Lesotho is incrementally implementing a program for free primary education.[56]
 
 Despite their literacy, Lesotho's residents struggle for access to vital services, such as healthcare, travel and educational resources, as, according to the International Telecommunication Union, only 3.4 percent of the population use the Internet. A service from Econet Telecom Lesotho expanded the country's access to email through entry-level, low-end mobile phones and, consequently, improved access to educational information. The African Library Project works to establish school and village libraries in partnership with US Peace Corps Lesotho[57] and the Butha Buthe District of Education.
 
@@ -181,7 +177,7 @@ The country has the highest incidence of tuberculosis in the world.
 
 Security
 
-Lesotho_Defence_Force_Deputy_Commander_Maj._Gen._Motsomotso_Medical_Readiness_Excercise_14-1.jpg The internal and external security of Lesotho is the responsibility of the Defence Commission, which is established and defined by article 145 of the Lesotho national Constitution. The Prime Minister is the Chairman _ex officio_, and there are six other Defence Commission members, namely the Commander and Deputy Commander of the Lesotho Defence Force, the Commissioner and Assistant Commissioner of the Lesotho Mounted Police Service, and the Director and Deputy Director of the Lesotho National Security Service. The Defence Commission has power to strategically direct the defence force, the police, and the prison service, but not the security service, which is answerable only to the Government. The Defence Commission has power to appoint or remove the senior staff of the defence force, police, and prison service, but not the security service, whose Director and Deputy Director are personal appointments of the Prime Minister.[59]
+The internal and external security of Lesotho is the responsibility of the Defence Commission, which is established and defined by article 145 of the Lesotho national Constitution. The Prime Minister is the Chairman _ex officio_, and there are six other Defence Commission members, namely the Commander and Deputy Commander of the Lesotho Defence Force, the Commissioner and Assistant Commissioner of the Lesotho Mounted Police Service, and the Director and Deputy Director of the Lesotho National Security Service. The Defence Commission has power to strategically direct the defence force, the police, and the prison service, but not the security service, which is answerable only to the Government. The Defence Commission has power to appoint or remove the senior staff of the defence force, police, and prison service, but not the security service, whose Director and Deputy Director are personal appointments of the Prime Minister.[59]
 
 The Lesotho Defence Force (LDF) is established under article 146 of the national Constitution, and charged with the maintenance of internal security and the defence of Lesotho. Its chief officer is designated _Commander_ by the Constitution, and usually holds the rank of lieutenant-general. The LDF has a total strength of just over 3,000. The largest component is infantry, but they are supported by small artillery, logistics, and air force units, and a single armoured reconnaissance company. Since 2000, Lesotho Defence Forces have been trained by a small contingent of Indian Army Training Team, led by a Brigadier.
 
@@ -192,7 +188,7 @@ The Lesotho National Security Service (LNSS) is established under article 148 of
 
 Culture
 
-Parade_of_Basotho_women.jpgs]] Traditional musical instruments include _LEKOLULO_, a kind of flute used by herding boys, _SETOLO-TOLO_, played by men using their mouth, and the woman's stringed _THOMO_.
+s]] Traditional musical instruments include _LEKOLULO_, a kind of flute used by herding boys, _SETOLO-TOLO_, played by men using their mouth, and the woman's stringed _THOMO_.
 
 The national anthem of Lesotho is "_Lesotho Fatše La Bo-ntata Rona_", which literally translates into "Lesotho, Land of Our Fore-Fathers".
 

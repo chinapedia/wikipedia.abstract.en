@@ -11,7 +11,7 @@ The countries surrounding the Mediterranean in clockwise order are Spain, France
 
 Names and etymology
 
-EFS_highres_STS034_STS034-86-96.jpg The Ancient Greeks called the Mediterranean simply (_hē thálassa_; "the Sea") or sometimes (_hē megálē thálassa_; "the Great Sea"), (_hē hēmétera thálassa_; "Our Sea"), or (_hē thálassa hē kath’hēmâs_; "the sea around us").
+The Ancient Greeks called the Mediterranean simply (_hē thálassa_; "the Sea") or sometimes (_hē megálē thálassa_; "the Great Sea"), (_hē hēmétera thálassa_; "Our Sea"), or (_hē thálassa hē kath’hēmâs_; "the sea around us").
 
 The Romans called it _Mare Magnum_ ("Great Sea") or _Mare Internum_ ("Internal Sea") and, starting with the Roman Empire, _Mare Nostrum_ ("Our Sea"). The term _Mare Mediterrāneum_ appears later: Solinus apparently used it in the 3rd century, but the earliest extant witness to it is in the 6th century, in Isidore of Seville.[5][6] It means 'in the middle of land, inland' in Latin, a compound of _medius_ ("middle"), _terra_ ("land, earth"), and _-āneus_ ("having the nature of").
 
@@ -30,7 +30,7 @@ History
 
 Ancient civilizations
 
-AntikeGriechen1.jpg c. the 6th century BCE]] Roman_Empire_Trajan_117AD.png at its farthest extent in AD 117]] Several ancient civilizations were located around the Mediterranean shores and were greatly influenced by their proximity to the sea. It provided routes for trade, colonization, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.[18]
+c. the 6th century BCE]] at its farthest extent in AD 117]] Several ancient civilizations were located around the Mediterranean shores and were greatly influenced by their proximity to the sea. It provided routes for trade, colonization, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.[18]
 
 Due to the shared climate, geology, and access to the sea, cultures centered on the Mediterranean tended to have some extent of intertwined culture and history.
 
@@ -40,7 +40,7 @@ Darius I of Persia, who conquered Ancient Egypt, built a canal linking the Medit
 
 Middle Ages and empires
 
-Battle_of_Lepanto_1571.jpg, 1571, ended in victory for the European Holy League against the Ottoman Turks.]] The Western Roman Empire collapsed around AD 476. Temporarily the east was again dominant as Roman power lived on in the Byzantine Empire formed in the 4th century from the eastern half of the Roman Empire. Another power arose in the 7th century, and with it the religion of Islam, which soon swept across from the east; at its greatest extent, the Arab Empire controlled 75% of the Mediterranean region and left a lasting footprint on its eastern and southern shores.
+, 1571, ended in victory for the European Holy League against the Ottoman Turks.]] The Western Roman Empire collapsed around AD 476. Temporarily the east was again dominant as Roman power lived on in the Byzantine Empire formed in the 4th century from the eastern half of the Roman Empire. Another power arose in the 7th century, and with it the religion of Islam, which soon swept across from the east; at its greatest extent, the Arab Empire controlled 75% of the Mediterranean region and left a lasting footprint on its eastern and southern shores.
 
 The Arab invasions disrupted the trade relations between Western and Eastern Europe while cutting the trade route with Oriental lands. This, however, had the indirect effect of promoting the trade across the Caspian Sea. The export of grains from Egypt was re-routed towards the Eastern world. Oriental goods like silk and spices were carried from Egypt to ports like Venice and Constantinople by sailors and Jewish merchants. The Viking raids further disrupted the trade in western Europe and brought it to a halt. However, the Norsemen developed the trade from Norway to the White Sea, while also trading in luxury goods from Spain and the Mediterranean. The Byzantines in the mid-8th century retook control of the area around the north-eastern part of the Mediterranean. Venetian ships from the 9th century armed themselves to counter the harassment by Arabs while concentrating trade of oriental goods at Venice.[20]
 
@@ -50,7 +50,7 @@ The Crusades led to flourishing of trade between Europe and the _outremer_ regio
 
 Europe started to revive, however, as more organized and centralized states began to form in the later Middle Ages after the Renaissance of the 12th century.
 
-De_Engels-Nederlandse_vloot_in_de_Baai_van_Algiers_ter_ondersteuning_van_het_ultimatum_tot_vrijlating_van_blanke_slaven,_26_augustus_1816._Rijksmuseum_SK-A-1377.jpeg by the Anglo-Dutch fleet in support of an ultimatum to release European slaves, August 1816]] Ottoman power based in Anatolia continued to grow, and in 1453 extinguished the Byzantine Empire with the Conquest of Constantinople. Ottomans gained control of much of the sea in the 16th century and maintained naval bases in southern France (1543–1544), Algeria and Tunisia. Barbarossa, the famous Ottoman captain is a symbol of this domination with the victory of the Battle of Preveza (1538). The Battle of Djerba (1560) marked the apex of Ottoman naval domination in the Mediterranean. As the naval prowess of the European powers increased, they confronted Ottoman expansion in the region when the Battle of Lepanto (1571) checked the power of the Ottoman Navy. This was the last naval battle to be fought primarily between galleys.
+by the Anglo-Dutch fleet in support of an ultimatum to release European slaves, August 1816]] Ottoman power based in Anatolia continued to grow, and in 1453 extinguished the Byzantine Empire with the Conquest of Constantinople. Ottomans gained control of much of the sea in the 16th century and maintained naval bases in southern France (1543–1544), Algeria and Tunisia. Barbarossa, the famous Ottoman captain is a symbol of this domination with the victory of the Battle of Preveza (1538). The Battle of Djerba (1560) marked the apex of Ottoman naval domination in the Mediterranean. As the naval prowess of the European powers increased, they confronted Ottoman expansion in the region when the Battle of Lepanto (1571) checked the power of the Ottoman Navy. This was the last naval battle to be fought primarily between galleys.
 
 The Barbary pirates of Northwest Africa preyed on Christian shipping and coastlines in the Western Mediterranean Sea.[24] According to Robert Davis, from the 16th to 19th centuries, pirates captured 1 million to 1.25 million Europeans as slaves.[25]
 
@@ -95,8 +95,6 @@ Stretching from the Strait of Gibraltar in the west to the entrances to the Dard
 
 Coastal countries
 
-Mediterranean_Relief,_1028_x_1024.jpg
-
 The following countries have a coastline on the Mediterranean Sea:
 
 -   NORTHERN SHORE (from west to east): Spain, France, Monaco, Italy, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Albania, Greece, Turkey.
@@ -106,7 +104,7 @@ The following countries have a coastline on the Mediterranean Sea:
 
 Several other territories also border the Mediterranean Sea (from west to east): The British overseas territory of Gibraltar, the Spanish autonomous cities of Ceuta and Melilla and nearby islands, the Sovereign Base Areas on Cyprus, and the Palestinian Gaza Strip.
 
-Barcelona_skyline.jpg, the third largest metropolitan area on the Mediterranean Sea (after Istanbul and Alexandria) and the headquarters of the Union for the Mediterranean]] Attica_06-13_Athens_36_View_from_Lycabettus.jpg with the Mediterranean Sea in the background]] Coast_of_Tel_Aviv-Yaffo.JPG (now part of Tel Aviv-Yafo) in Israel: according to the Bible, where Jonah set sail before being swallowed by a whale[41]]] Alexandria_coast_(2715600220).jpg, the second largest city on the Mediterranean after Istanbul, Turkey]] Catania-etna.JPG in the background]] View_of_Konaj_Square.jpg, the third metropolis of Turkey after Istanbul and Ankara]]
+, the third largest metropolitan area on the Mediterranean Sea (after Istanbul and Alexandria) and the headquarters of the Union for the Mediterranean]] with the Mediterranean Sea in the background]] (now part of Tel Aviv-Yafo) in Israel: according to the Bible, where Jonah set sail before being swallowed by a whale[41]]] , the second largest city on the Mediterranean after Istanbul, Turkey]] in the background]] , the third metropolis of Turkey after Istanbul and Ankara]]
 
 Coastal cities
 
@@ -132,7 +130,7 @@ Major cities (municipalities) with populations larger than 200,000 people border
 
 Subdivisions
 
-Bucht_&_Straße_von_Gibraltar.jpg The International Hydrographic Organization (IHO) divides the Mediterranean into a number of smaller waterbodies, each with their own designation (from west to east):[42]
+The International Hydrographic Organization (IHO) divides the Mediterranean into a number of smaller waterbodies, each with their own designation (from west to east):[42]
 
 -   the Strait of Gibraltar;
 -   the Alboran Sea, between Spain and Morocco;
@@ -145,7 +143,7 @@ Bucht_&_Straße_von_Gibraltar.jpg The International Hydrographic Organization (I
 
 Other seas
 
-Positano_-_01.jpg, Tyrrhenian Sea]] Some other seas whose names have been in common use from the ancient times, or in the present:
+, Tyrrhenian Sea]] Some other seas whose names have been in common use from the ancient times, or in the present:
 
 -   the Sea of Sardinia, between Sardinia and Balearic Islands, as a part of the Balearic Sea
 -   the Sea of Sicily between Sicily and Tunisia,
@@ -162,7 +160,7 @@ Many of these smaller seas feature in local myth and folklore and derive their n
 
 Other features
 
-Beirut-Sannine.jpg from the Corniche, Beirut]] Port_Autonome_de_Marseille.JPG]] CIty_of_Saranda_Albania_2016.jpg, Albania is situated on an open sea gulf of the Ionian sea in the central Mediterranean.]] In addition to the seas, a number of gulfs and straits are recognised:
+from the Corniche, Beirut]] ]] , Albania is situated on an open sea gulf of the Ionian sea in the central Mediterranean.]] In addition to the seas, a number of gulfs and straits are recognised:
 
 -   the Saint George Bay in Beirut, Lebanon
 -   the Ras Ibn Hani cape in Latakia, Syria
@@ -181,7 +179,7 @@ Beirut-Sannine.jpg from the Corniche, Beirut]] Port_Autonome_de_Marseille.JPG]] 
 -   the Gulf of Genoa, northwestern Italy
 -   the Gulf of Venice, northeastern Italy
 -   the Gulf of Trieste, northeastern Italy
--   the Gulf of Taranto, southern ItalySouostroví_Pakleni_otoci.jpg off the coast of Croatia; the Adriatic Sea contains over 1200 islands and islets]]
+-   the Gulf of Taranto, southern Italy off the coast of Croatia; the Adriatic Sea contains over 1200 islands and islets]]
 -   the Gulf of Salerno, southwestern Italy
 -   the Gulf of Gaeta, southwestern Italy
 -   the Gulf of Squillace, southern Italy
@@ -199,7 +197,7 @@ Beirut-Sannine.jpg from the Corniche, Beirut]] Port_Autonome_de_Marseille.JPG]] 
 
 Ten largest islands by area
 
-Tunisia_-_Sicily_-_South_Italy.jpg and Sardinia (Italy)]]
+and Sardinia (Italy)]]
 
   Country   Island     Area in km²   Population
   --------- ---------- ------------- ------------
@@ -243,8 +241,6 @@ Sea temperature
 
 Oceanography
 
-MEDCURR.GIF
-
 Being nearly landlocked affects conditions in the Mediterranean Sea: for instance, tides are very limited as a result of the narrow connection with the Atlantic Ocean. The Mediterranean is characterised and immediately recognised by its deep blue colour.
 
 Evaporation greatly exceeds precipitation and river runoff in the Mediterranean, a fact that is central to the water circulation within the basin.[57] Evaporation is especially high in its eastern half, causing the water level to decrease and salinity to increase eastward.[58] The average salinity in the basin is 38 PSU at 5 m depth.[59] The temperature of the water in the deepest part of the Mediterranean Sea is .[60]
@@ -279,7 +275,7 @@ Because of its low productivity, plankton assemblages in the Mediterranean Sea a
 
 Geology
 
-Vrulja_kod_Omiša.jpg, called _vrulja_, near Omiš; observed through several ripplings of an otherwise calm sea surface.]]
+, called _vrulja_, near Omiš; observed through several ripplings of an otherwise calm sea surface.]]
 
 The geologic history of the Mediterranean Sea is complex. Underlain by oceanic crust, the sea basin was once thought to be a tectonic remnant of the ancient Tethys Ocean; it is now known to be a structurally younger basin, called the Neotethys, which was first formed by the convergence of the African and Eurasian plates during the Late Triassic and Early Jurassic. Because it is a near-landlocked body of water in a normally dry climate, the Mediterranean is subject to intensive evaporation and the precipitation of evaporites. The Messinian salinity crisis started about six million years ago (mya) when the Mediterranean became landlocked, and then essentially dried up. There are salt deposits accumulated on the bottom of the basin of more than a million cubic kilometres—in some places more than three kilometres thick.[83][84]
 
@@ -293,7 +289,7 @@ The Mediterranean basin and sea system was established by the ancient African-Ar
 
 Messinian salinity crisis
 
-Etapa3muda.jpg]] Crisis_salina_del_Messiniense.ogv
+]]
 
 During Mesozoic and Cenozoic times, as the northwest corner of Africa converged on Iberia, it lifted the Betic-Rif mountain belts across southern Iberia and northwest Africa. There the development of the intramontane Betic and Rif basins led to creating two roughly-parallel marine gateways between the Atlantic Ocean and the Mediterranean Sea. Dubbed the Betic and Rifian corridors, they progressively closed during middle and late Miocene times; perhaps several times.[88] During late Miocene times the closure of the Betic Corridor triggered the so-called "Messinian salinity crisis" (MSC), when the Mediterranean almost entirely dried out. The time of beginning of the MSC was recently estimated astronomically at 5.96 mya, and it persisted for some 630,000 years until about 5.3 mya;[89] _see_ Animation: Messinian salinity crisis, at right.
 
@@ -338,7 +334,7 @@ Humanisation was therefore not the cause of climate change but followed it.[104]
 
 Natural hazards
 
-DenglerSW-Stromboli-20040928-1230x800.jpg volcano in Italy]] The region has a variety of geological hazards which have closely interacted with human activity and land use patterns. Among others, in the eastern Mediterranean, the Thera eruption, dated to the 17th or 16th century BC, caused a large tsunami that some experts hypothesise devastated the Minoan civilisation on the nearby island of Crete, further leading some to believe that this may have been the catastrophe that inspired the Atlantis legend.[109] Mount Vesuvius is the only active volcano on the European mainland, while others as Mount Etna and Stromboli are to be found on neighbouring islands. The region around Vesuvius including the Phlegraean Fields Caldera west of Naples are quite active[110] and constitute the most densely populated volcanic region in the world where an eruptive event may occur within decades.[111]
+volcano in Italy]] The region has a variety of geological hazards which have closely interacted with human activity and land use patterns. Among others, in the eastern Mediterranean, the Thera eruption, dated to the 17th or 16th century BC, caused a large tsunami that some experts hypothesise devastated the Minoan civilisation on the nearby island of Crete, further leading some to believe that this may have been the catastrophe that inspired the Atlantis legend.[109] Mount Vesuvius is the only active volcano on the European mainland, while others as Mount Etna and Stromboli are to be found on neighbouring islands. The region around Vesuvius including the Phlegraean Fields Caldera west of Naples are quite active[110] and constitute the most densely populated volcanic region in the world where an eruptive event may occur within decades.[111]
 
 Vesuvius itself is regarded as quite dangerous due to a tendency towards explosive (Plinian) eruptions.[112] It is best known for its eruption in AD 79 that led to the burying and destruction of the Roman cities of Pompeii and Herculaneum.
 
@@ -346,7 +342,7 @@ The large experience of member states and regional authorities has led to exchan
 
 Invasive species
 
-Himantura_uarnak_egypt.jpg is one of the species that colonised the Eastern Mediterranean through the Suez Canal as part of the ongoing Lessepsian migration.]]
+is one of the species that colonised the Eastern Mediterranean through the Suez Canal as part of the ongoing Lessepsian migration.]]
 
 The opening of the Suez Canal in 1869 created the first salt-water passage between the Mediterranean and Red Sea. The Red Sea is higher than the Eastern Mediterranean, so the canal functions as a tidal strait that pours Red Sea water into the Mediterranean. The Bitter Lakes, which are hyper-saline natural lakes that form part of the canal, blocked the migration of Red Sea species into the Mediterranean for many decades, but as the salinity of the lakes gradually equalised with that of the Red Sea, the barrier to migration was removed, and plants and animals from the Red Sea have begun to colonise the Eastern Mediterranean. The Red Sea is generally saltier and more nutrient-poor than the Atlantic, so the Red Sea species have advantages over Atlantic species in the salty and nutrient-poor Eastern Mediterranean. Accordingly, Red Sea species invade the Mediterranean biota, and not vice versa; this phenomenon is known as the Lessepsian migration (after Ferdinand de Lesseps, the French engineer) or Erythrean invasion. The construction of the Aswan High Dam across the Nile River in the 1960s reduced the inflow of freshwater and nutrient-rich silt from the Nile into the Eastern Mediterranean, making conditions there even more like the Red Sea and worsening the impact of the invasive species.
 
@@ -375,7 +371,7 @@ The Mediterranean is also plagued by marine debris. A 1994 study of the seabed u
 
 Shipping
 
-Portacontainer_MSC_in_navigazione_nello_stretto_di_Messina.jpg]] Some of the world's busiest shipping routes are in the Mediterranean Sea. It is estimated that approximately 220,000 merchant vessels of more than 100 tonnes cross the Mediterranean Sea each year—about one third of the world's total merchant shipping. These ships often carry hazardous cargo, which if lost would result in severe damage to the marine environment.
+]] Some of the world's busiest shipping routes are in the Mediterranean Sea. It is estimated that approximately 220,000 merchant vessels of more than 100 tonnes cross the Mediterranean Sea each year—about one third of the world's total merchant shipping. These ships often carry hazardous cargo, which if lost would result in severe damage to the marine environment.
 
 The discharge of chemical tank washings and oily wastes also represent a significant source of marine pollution. The Mediterranean Sea constitutes 0.7% of the global water surface and yet receives 17% of global marine oil pollution. It is estimated that every year between and of crude oil are deliberately released into the sea from shipping activities.
 
@@ -383,7 +379,7 @@ Approximately of oil are transported annually in the Mediterranean Sea (more tha
 
 Tourism
 
-Turkey-2459_(2216286345).jpg on the Turkish Riviera (Turquoise Coast) received more than 11 million international tourist arrivals in 2014.]]
+on the Turkish Riviera (Turquoise Coast) received more than 11 million international tourist arrivals in 2014.]]
 
 The Mediterranean Sea is arguably among the most culturally diverse block basin sea regions in the world, with a unique combination of pleasant climate, beautiful coastline, rich history and various cultures. The Mediterranean region is the most popular tourist destination in the world—attracting approximately one third of the world's international tourists.
 

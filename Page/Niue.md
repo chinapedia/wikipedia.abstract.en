@@ -13,9 +13,9 @@ History
 
 Polynesians from Samoa settled Niue around 900 AD. Further settlers arrived from Tonga in the 16th century.[10]
 
-Until the beginning of the 18th century, Niue appears to have had no national government or national leader; chiefs and heads of families exercised authority over segments of the population. Around 1700 the concept and practice of kingship appears to have originated through contact with the Tongans who settled around the 1600s. A succession of _patu-iki_ (kings) ruled, beginning with Puni-mata. Tui-toga, who reigned from 1875 to 1887, was the first Christian king.[11] Stamp_niue_0,5_d.jpg The first Europeans to sight Niue sailed under Captain James Cook in 1774. Cook made three attempts to land, but the inhabitants refused to grant permission to do so. He named the island "Savage Island" because, as legend has it, the natives who "greeted" him were painted in what appeared to be blood. The substance on their teeth was hulahula, a native red fe'i banana.[12] For the next couple of centuries, Niue was known as Savage Island until its original name, Niuē, which translates as "behold the coconut",[13] regained use.
+Until the beginning of the 18th century, Niue appears to have had no national government or national leader; chiefs and heads of families exercised authority over segments of the population. Around 1700 the concept and practice of kingship appears to have originated through contact with the Tongans who settled around the 1600s. A succession of _patu-iki_ (kings) ruled, beginning with Puni-mata. Tui-toga, who reigned from 1875 to 1887, was the first Christian king.[11] The first Europeans to sight Niue sailed under Captain James Cook in 1774. Cook made three attempts to land, but the inhabitants refused to grant permission to do so. He named the island "Savage Island" because, as legend has it, the natives who "greeted" him were painted in what appeared to be blood. The substance on their teeth was hulahula, a native red fe'i banana.[12] For the next couple of centuries, Niue was known as Savage Island until its original name, Niuē, which translates as "behold the coconut",[13] regained use.
 
-The next notable European visitors represented the London Missionary Society; they arrived on the _Messenger of Peace_. After many years of trying to land a European missionary, a Niuean named Nukai Peniamina went with his friend, Niumaga, to Samoa and trained as a pastor at the Malua Theological College. Peniamina returned in 1846 on the _John Williams_ as a missionary with the help of Toimata Fakafitifonua. He was finally allowed to land in Uluvehi Mutalau after a number of attempts in other villages had failed. The chiefs of Mutalau village allowed him to land and assigned over 60 warriors to protect him day and night at the fort in Fupiu. Richard_Seddon_and_the_King_of_Niue.jpg and the King of Niue, circa 1900]]
+The next notable European visitors represented the London Missionary Society; they arrived on the _Messenger of Peace_. After many years of trying to land a European missionary, a Niuean named Nukai Peniamina went with his friend, Niumaga, to Samoa and trained as a pastor at the Malua Theological College. Peniamina returned in 1846 on the _John Williams_ as a missionary with the help of Toimata Fakafitifonua. He was finally allowed to land in Uluvehi Mutalau after a number of attempts in other villages had failed. The chiefs of Mutalau village allowed him to land and assigned over 60 warriors to protect him day and night at the fort in Fupiu. and the King of Niue, circa 1900]]
 
 In July 1849 Captain John Erskine visited the island in HMS _Havannah_.[14]
 
@@ -30,7 +30,7 @@ In January 2004 Cyclone Heta hit Niue, killing two people and causing extensive 
 
 Government and politics
 
-Toke_Talagi.jpg Sir Toke Talagi in Hawaii in 2011.]] The Niue Constitution Act of 1974 vests executive authority in Her Majesty the Queen in Right of New Zealand and in the Governor-General of New Zealand. The Constitution specifies that everyday practice involves the exercise of sovereignty by the Niue Cabinet of Ministers, composed of the Premier and of three other ministers. The Premier and ministers are members of the Niue Legislative Assembly, the nation's parliament.
+Sir Toke Talagi in Hawaii in 2011.]] The Niue Constitution Act of 1974 vests executive authority in Her Majesty the Queen in Right of New Zealand and in the Governor-General of New Zealand. The Constitution specifies that everyday practice involves the exercise of sovereignty by the Niue Cabinet of Ministers, composed of the Premier and of three other ministers. The Premier and ministers are members of the Niue Legislative Assembly, the nation's parliament.
 
 The Assembly consists of 20 members, 14 of them elected by the electors of each village constituency, and six by all registered voters in all constituencies.[20] Electors must be New Zealand citizens, resident for at least three months, and candidates must be electors and resident for 12 months. Everyone born in Niue must register on the electoral roll.
 
@@ -56,8 +56,6 @@ Niue is not a republic but its full name was listed as "the Republic of Niue" fo
 
 
 Geography
-
-Niue-cia-world-factbook-map.png Niue_ISS004.jpg
 
 Niue is a raised coral atoll in the southern Pacific Ocean, east of Tonga.[30] There are three outlying coral reefs within the Exclusive Economic Zone, with no land area:
 
@@ -95,7 +93,7 @@ In July 2009 a solar panel system was installed, injecting about 50 kW into the
 
 Economy
 
-Alofi.jpg, the capital of Niue.]]
+, the capital of Niue.]]
 
 Niue's economy is small. Its gross domestic product (GDP) was NZ$17 million in 2003,[44] or US$10 million at purchasing power parity.[45] Niue uses the New Zealand dollar.
 
@@ -141,7 +139,7 @@ The last agricultural census was in 1989.[61]
 
 Tourism
 
-Avatele_Beach.JPG Beach]] Tourism is one of the three priority economic sectors (the other two are fisheries and agriculture) for economic development. In 2006, estimated visitor expenditure reached (equivalent to about $M in ) making tourism a major industry for Niue. Niue will continue to receive direct support from the government and overseas donor agencies. The only airport is Niue International Airport. Air New Zealand is the sole airline, flying twice a week from Auckland.[62] In the early 1990s Niue International Airport was served by a local airline, Niue Airlines, but it closed in 1992.
+Beach]] Tourism is one of the three priority economic sectors (the other two are fisheries and agriculture) for economic development. In 2006, estimated visitor expenditure reached (equivalent to about $M in ) making tourism a major industry for Niue. Niue will continue to receive direct support from the government and overseas donor agencies. The only airport is Niue International Airport. Air New Zealand is the sole airline, flying twice a week from Auckland.[62] In the early 1990s Niue International Airport was served by a local airline, Niue Airlines, but it closed in 1992.
 
 There is a tourism development strategy to increase the number of rooms available to tourists at a sustainable level. Niue is trying to attract foreign investors to invest in the tourism industry by offering import and company tax concessions as incentives. New Zealand businessman Earl Hagaman, founder of Scenic Hotel Group, was awarded a contract in 2014 to manage the Matavai Resort in Niue after he made a $101,000 political donation to the National Party, which at that time led a minority government in New Zealand. The resort is subsidized by New Zealand, which wants to bolster tourism there. In 2015 NZ announced $7.5m in additional funding for expansion of the resort. The selection of the Matavai contractor was made by the Niue Tourism Property Trust, whose trustees are appointed by NZ Foreign Affairs minister Murray McCully. Prime Minister John Key said he did not handle campaign donations, and that Niue premier Toke Talagi has long pursued tourism as a growth strategy. McCully denied any link between the donation, the foreign aid and the contractor selection.[63]
 
@@ -156,7 +154,7 @@ On 27 October 2016, Niue officially declared that all its national debt was paid
 
 Information technology
 
-Children_in_playground.jpg laptops in the school yard.]]
+laptops in the school yard.]]
 
 The first computers were Apple machines brought in by the University of the South Pacific Extension Centre around the early 1980s. The Treasury Department computerised its general ledger in 1986 using NEC personal computers that were IBM PC XT compatible. The Census of Households and Population in 1986 was the first to be processed using a personal computer with the assistance of David Marshall, FAO Adviser on Agricultural Statistics, advising UNFPA Demographer Dr Lawrence Lewis and Niue Government Statistician Bill Vakaafi Motufoou to switch from using manual tabulation cards. In 1987 Statistics Niue got its new personal computer NEC PC AT use for processing the 1986 census data; personnel were sent on training in Japan and New Zealand to use the new computer. The first Computer Policy was developed and adopted in 1988.
 
@@ -220,7 +218,7 @@ Languages
 
 Culture
 
-Niuean_dancing.jpg]]
+]]
 
 Niue is the birthplace of New Zealand artist and writer John Pule. Author of _The Shark That Ate the Sun_, he also paints tapa cloth inspired designs on canvas.[74] In 2005, he co-wrote _Hiapo: Past and Present in Niuean Barkcloth_, a study of a traditional Niuean artform, with Australian writer and anthropologist Nicholas Thomas.[75]
 
@@ -232,7 +230,7 @@ Niue has two broadcast outlets, Television Niue and Radio Sunshine, managed and 
 
 Sport
 
-Niuean_haka.jpg]]
+]]
 
 Despite being a small country, a number of sports are popular. Rugby union is the most popular sport, played by both men and women; Niue were the 2008 FORU Oceania Cup champions.[77] Netball is played only by women. There is a nine-hole golf course at Fonuakula. There is a lawn bowling green under construction. Association Football is a popular sport, as evidenced by the Niue Soccer Tournament, though the Niue national football team has played only two matches. Rugby league is also a popular sport. Niue Rugby League have only started making strides within the international arena since their first ever test match against Vanuatu, going down 22–20 in 2013. On 4 October 2014, the Niue rugby league team record their first ever international test match win defeating the Philippines 36–22. In May 2015, Niue Rugby League recorded their second international test match win against the South African Rugby League side, 48–4. Niue now sit 31st in the Rugby League World Rankings.
 

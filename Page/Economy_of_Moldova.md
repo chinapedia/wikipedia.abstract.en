@@ -10,8 +10,6 @@ Overview
 
 Moldova's proximity to the Black Sea gives it a mild and sunny climate. The fertile soil supports wheat, corn, barley, tobacco, sugar beet, and soybeans. Beef and dairy cattle are raised, and beekeeping is widespread. Moldova's best-known product comes from its extensive and well-developed vineyards concentrated in the central and southern regions. Moldova produces liqueur and sparkling wine. It is also known for its sunflower seeds, walnuts, apples, and other fruits. This makes the area ideal for agriculture and food processing, which accounts for about 40% of the country's GDP.
 
-MoldovanGDPBySector.svg Moldova_Export_Treemap.png
-
 Moldova has experienced economic difficulties, like many other former Soviet republics. Since its economy was highly dependent on the rest of the former Soviet Union for energy and raw materials, the breakdown in trade following the breakup of the Soviet Union had a serious effect, exacerbated at times by drought and civil conflict. The Russian ruble devaluation of 1998 had a deleterious effect on Moldova's economy, but economic growth has been steady since 2000.
 
 Moldova has made progress in economic reform since independence. The government has liberalized most prices and has phased out subsidies on most basic consumer goods. A program begun in March 1993 has privatized 80% of all housing units and nearly 2,000 small, medium, and large enterprises. Other successes include the privatization of nearly all of Moldova's agricultural land from state to private ownership, as a result of an American assistance program, "Pamînt" ("land"), completed in 2000. A stock market opened in June 1995.

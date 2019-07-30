@@ -21,7 +21,7 @@ Robert A. Heinlein in part dedicated his 1982 novel _Friday_ to Cadigan after be
 
 Childhood fantasies
 
-Pat_Cadigan_Finncon.jpg, Finland]] In the 1960s Cadigan and a childhood girlfriend "invented a whole secret life in which we were twins from the planet Venus," she told National Public Radio.[2] The Beatles "came to us for advice about their songs and how to deal with fame and other important matters," Cadigan says. "On occasion, they would ask us to use our highly developed shape-shifting ability to become them, and finish recording sessions and concert tours when they were too tired to go on themselves." The Venusian twins had other superpowers, that they would sometimes use to help out Superman, Wonder Woman and other heroes, she said.[3]
+, Finland]] In the 1960s Cadigan and a childhood girlfriend "invented a whole secret life in which we were twins from the planet Venus," she told National Public Radio.[2] The Beatles "came to us for advice about their songs and how to deal with fame and other important matters," Cadigan says. "On occasion, they would ask us to use our highly developed shape-shifting ability to become them, and finish recording sessions and concert tours when they were too tired to go on themselves." The Venusian twins had other superpowers, that they would sometimes use to help out Superman, Wonder Woman and other heroes, she said.[3]
 
 
 Health

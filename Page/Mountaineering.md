@@ -1,4 +1,4 @@
-Summitting_Island_Peak.jpg (Island Peak) in Nepal, 2004]]
+(Island Peak) in Nepal, 2004]]
 
 MOUNTAINEERING is the set of activities that involves ascending mountains. Mountaineering-related activities include traditional outdoor climbing, hiking, skiing, and traversing via ferratas.[1][2][3][4] Indoor climbing, sport climbing and bouldering are also considered mountaineering by some.[5]
 
@@ -31,7 +31,7 @@ File:Josef Feid Anastasius Grün.jpg|Picture of a mountaineer by Josef Feid Anas
 
 The golden age: emergence as a sport
 
-Edward_Whymper_Calkin.jpg (1840-1911), painting by Lance Calkin]]
+(1840-1911), painting by Lance Calkin]]
 
 The beginning of mountaineering as a sport in the UK is generally dated to the ascent of the Wetterhorn in 1854 by English mountaineer Sir Alfred Wills, who made mountaineering fashionable in Britain. This inaugurated what became known as the Golden age of alpinism, with the first mountaineering club - the Alpine Club - being founded in 1857.[11][12]
 
@@ -61,8 +61,6 @@ By the turn of the 20th century, mountaineering had acquired a more internationa
 
 The last frontier: The Himalayas
 
-Owen_Glynne_Jones_12.jpg
-
 The last and greatest mountain range was the Himalayas in Central Asia. They had initially been surveyed by the British Empire for military and strategic reasons. In 1892 Sir William Martin Conway explored the Karakoram Himalayas, and climbed a peak of In 1895 Albert F. Mummery died while attempting Nanga Parbat, while in 1899 D. W. Freshfield took an expedition to the snowy regions of Sikkim.
 
 In 1899, 1903, 1906, and 1908 American mountaineer Mrs. Fanny Bullock Workman (one of the first professional female mountaineers) made ascents in the Himalayas, including one of the Nun Kun peaks (). A number of Gurkha sepoys were trained as expert mountaineers by Charles Granville Bruce, and a good deal of exploration was accomplished by them.
@@ -78,7 +76,7 @@ Just a few months later, Hermann Buhl made the first ascent of Nanga Parbat (8,1
 
 Technique
 
-Climbing_tools_-_Mount_Shasta_Sisson_Museum_-_DSC02839.JPG Mountaineering techniques vary greatly depending on location, season, and the particular route a mountaineer chooses to climb. Mountaineers train to climb on all types of terrain whether it be snow, glacier, glacial ice, water ice, or rock. Each type of terrain presents its own hazards. Climbers must be skilled in dealing with the different challenges that could arise from different terrain.
+Mountaineering techniques vary greatly depending on location, season, and the particular route a mountaineer chooses to climb. Mountaineers train to climb on all types of terrain whether it be snow, glacier, glacial ice, water ice, or rock. Each type of terrain presents its own hazards. Climbers must be skilled in dealing with the different challenges that could arise from different terrain.
 
 While hikers may ascend mountains, and hiking may be considered a form of mountaineering, most consideration is given to technical skills required to traverse difficult terrain.
 
@@ -104,8 +102,6 @@ A single rock climber may sometimes engage alone in extreme challenges. Alex Hon
 
 
 Shelter
-
-Bivouac2.jpg
 
 Climbers use a few different forms of shelter depending on the situation and conditions. Shelter is a very important aspect of safety for the climber as the weather in the mountains may be very unpredictable. Tall mountains may require many days of camping on the mountain.
 
@@ -142,8 +138,6 @@ In all, mountaineers must concern themselves with dangers: falling rocks, fallin
 
 Falling rocks
 
-Kate-at-fleshmarket.JPG
-
 Every rock mountain is slowly disintegrating due to erosion, the process being especially rapid above the snow-line. Rock faces are constantly swept by falling stones, which may be possible to dodge. Falling rocks tend to form furrows in a mountain face, and these furrows (couloirs) have to be ascended with caution, their sides often being safe when the middle is stoneswept. Rocks fall more frequently on some days than on others, according to the recent weather. Ice formed during the night may temporarily bind rocks to the face but warmth of the day or lubricating water from melting snow or rain may easily dislodge these rocks. Local experience is a valuable help on determining typical rock fall on such routes.
 
 The direction of the dip of rock strata sometimes determines the degree of danger on a particular face; the character of the rock must also be considered. Where stones fall frequently debris will be found below, whilst on snow slopes falling stones cut furrows visible from a great distance. In planning an ascent of a new peak or an unfamiliar route, mountaineers must look for such traces. When falling stones get mixed in considerable quantity with slushy snow or water a mud avalanche is formed (common in the Himalayas). It is vital to avoid camping in their possible line of fall.
@@ -157,8 +151,6 @@ Falls from rocks
 A rock climber's skill is shown by their choice of handhold and foothold, and their adhesion to the holds once chosen. Much depends on the ability to estimate the capability of the rock to support the weight placed on it. Many loose rocks are quite firm enough to bear a person's weight, but experience is needed to know which can be trusted, and skill is required in transferring the weight to them without jerking. On rotten rocks the rope must be handled with special care, lest it should dislodge loose stones on to those below. Similar care must be given to handholds and footholds, for the same reason. When a horizontal traverse has to be made across very difficult rocks, a dangerous situation may arise unless at both ends of the traverse there are firm positions. Mutual assistance on hard rocks takes all manner of forms: two, or even three, people climbing on one another's shoulders, or using an ice axe propped up by others for a foothold. The great principle is that of co-operation, all the members of the party climbing with reference to the others, and not as independent units; each when moving must know what the climber in front and the one behind are doing. After bad weather steep rocks are often found covered with a veneer of ice (Glossary of climbing terms#verglas), which may even render them inaccessible. Crampons are useful on such occasions.
 
 Avalanches
-
-Avalanche.jpg
 
 Every year, 120 to 150 people die in small avalanches in the Alps alone. The vast majority of alpine victims are reasonably experienced male skiers aged 20–35, but also include ski instructors and guides. However, a significant number of climbers are killed in Scottish avalanches, often on descent and often triggered by the victims. There is always a lot of pressure to risk a snow crossing. Turning back takes a lot of extra time and effort, supreme leadership, and most importantly there is seldom an avalanche that proves the right decision was made. Making the decision to turn around is especially hard if others are crossing the slope, but any next person could become the trigger.
 
@@ -198,7 +190,7 @@ Even with proper rescue equipment and training, there is a one in-five chance of
 
 Ice slopes
 
-Mountaineers_in_High_Tatry_mountains_winter.jpg, Slovakia]]
+, Slovakia]]
 
 For travel on slopes consisting of ice or hard snow, crampons are a standard part of a mountaineer's equipment. While step-cutting can sometimes be used on snow slopes of moderate angle, this can be a slow and tiring process, which does not provide the higher security of crampons. However, in soft snow or powder, crampons are easily hampered by balling of snow, which reduces their effectiveness. In either case, an ice axe not only assists with balance but provides the climber with the possibility of self-arrest in case of a slip or fall. On a true ice slope however, an ice axe is rarely able to effect a self-arrest. As an additional safety precaution on steep ice slopes, the climbing rope is attached to ice screws buried into the ice.
 
@@ -239,7 +231,7 @@ Some mountains are active volcanoes as in the case of the many stratovolcanoes t
 
 Styles of mountaineering
 
-Inside_Khumbu-Icefall.jpg There are two main styles of mountaineering: EXPEDITION STYLE and ALPINE STYLE.
+There are two main styles of mountaineering: EXPEDITION STYLE and ALPINE STYLE.
 
 Alpine style are typically found climbing in _medium-sized_ glaciated mountain areas such as the Alps or Rocky Mountains. Medium-sized generally refers to altitudes in the _intermediate altitude_ (7,000 to 12,000 ft) and first half of _high altitude_ (12,000 to 18,000 ft) ranges. However, alpine style ascents have been done throughout history on _extreme altitude_ (18,000 to 29,000 ft) peaks also, albeit in lower volume to expedition style ascents. Alpine style refers to a particular style of mountain climbing that involves a mixture of snow climbing, ice climbing, rock climbing, and glacier travel, where climbers generally single carry their loads between camps, in a single push for the summit. "Light and fast" is the mantra of the alpine mountaineer.
 

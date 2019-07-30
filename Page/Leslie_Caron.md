@@ -12,7 +12,7 @@ Career
 
 Caron started her career as a ballerina. Gene Kelly discovered her in the Roland Petit company "" and cast her to appear opposite him in the musical _An American in Paris_ (1951), a role in which a pregnant Cyd Charisse was originally cast. This role led to a long-term MGM contract and a sequence of films which included the musical _The Glass Slipper_ (1955) and the drama _The Man with a Cloak_ (1951), with Joseph Cotten and Barbara Stanwyck. Still, Caron has said of herself: "Unfortunately, Hollywood considers musical dancers as hoofers. Regrettable expression."[4]
 
-Leslie_Caron_-_Maruice_Chevalier_-_1957.jpg, and co-star Maurice Chevalier on the set of _Gigi_ (1958)]] She also starred in the successful musicals _Lili_ (1953), with Mel Ferrer; _Daddy Long Legs_ (1955), with Fred Astaire, and _Gigi_ (1958) with Louis Jourdan and Maurice Chevalier.
+, and co-star Maurice Chevalier on the set of _Gigi_ (1958)]] She also starred in the successful musicals _Lili_ (1953), with Mel Ferrer; _Daddy Long Legs_ (1955), with Fred Astaire, and _Gigi_ (1958) with Louis Jourdan and Maurice Chevalier.
 
 In 1953, Caron was nominated for an Academy Award for Best Actress for her starring role in _Lili._ For her performance in the British drama _The L-Shaped Room_ (1962), she won the BAFTA Award for Best British Actress and Golden Globe awards, and was nominated for the Best Actress Oscar.[5]
 
@@ -31,7 +31,7 @@ In 2016, Caron appeared in the ITV television series _The Durrells_ as the Count
 
 Personal life
 
-Leslie_Caron_lunettes.jpg In September 1951, Caron married American George Hormel II, a grandson of the founder of the Hormel meat-packing company. They divorced in 1954.[11] During that period, while under contract to MGM, she lived in Laurel Canyon, in a Normandie style 1927 mansion, near the country store on Laurel Canyon Blvd. One bedroom was all mirrored for her dancing rehearsals.
+In September 1951, Caron married American George Hormel II, a grandson of the founder of the Hormel meat-packing company. They divorced in 1954.[11] During that period, while under contract to MGM, she lived in Laurel Canyon, in a Normandie style 1927 mansion, near the country store on Laurel Canyon Blvd. One bedroom was all mirrored for her dancing rehearsals.
 
 Her second husband was British theatre director Peter Hall. They married in 1956 and had two children: Christopher John Hall (TV producer) in 1957 and Jennifer Caron Hall, a writer, painter, and actress, in 1958.
 
@@ -76,7 +76,7 @@ Honors
 
 Filmography
 
-Leslie_Caron_dans_A_Little_Night_Music.jpg'' by Stephen Sondheim, théâtre du Châtelet, 2010.]]
+'' by Stephen Sondheim, théâtre du Châtelet, 2010.]]
 
 +------+------------------------+---------------------------+-----------------------------------------------------------------------------------------------+
 | Year | Title                  | Role                      | Notes                                                                                         |

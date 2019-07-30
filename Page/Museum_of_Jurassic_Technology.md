@@ -1,6 +1,6 @@
 The MUSEUM OF JURASSIC TECHNOLOGY at 9341 Venice Boulevard in the Palms district of Los Angeles, California, was founded by David Hildebrand Wilson and Diana Drake Wilson (husband and wife) in 1988.[1][2] It calls itself "an educational institution dedicated to the advancement of knowledge and the public appreciation of the Lower Jurassic",[3] the relevance of the term "Lower Jurassic" to the museum's collections being left uncertain and unexplained.[4]
 
-Museum_of_Jurassic_Technology_Facade_-_9341_Venice_Blvd._in_Culver_City,_CA.jpg, post office]] MJT_Ricky_Jay_dice.JPG]] MJT_cats_cradle.jpg
+, post office]] ]]
 
 The museum's collection includes a mixture of artistic, scientific, ethnographic, and historic items, as well as some unclassifiable exhibits; the diversity evokes the cabinets of curiosities that were the 16th-century predecessors of modern natural-history museums. The factual claims of many of the museum's exhibits strain credibility, provoking an array of interpretations.
 

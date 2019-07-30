@@ -1,5 +1,3 @@
-Entropy_flip_2_coins.jpg
-
 INFORMATION ENTROPY is the average rate at which information is produced by a stochastic source of data.
 
 The measure of information entropy associated with each possible data value is the negative logarithm of the probability mass function for the value:
@@ -58,7 +56,7 @@ where p(x_(i), y_(j)) is the probability that X = x_(i) and Y = y_(j).
 
 Example
 
-Binary_entropy_plot.svg surprisal) of a coin flip, measured in bits, graphed versus the bias of the coin 1)}}, where 1}} represents a result of heads.
+surprisal) of a coin flip, measured in bits, graphed versus the bias of the coin 1)}}, where 1}} represents a result of heads.
 Here, the entropy is at most 1 bit, and to communicate the outcome of a coin flip (2 possible values) will require an average of at most 1 bit (exactly 1 bit for a fair coin). The result of a fair die (6 possible values) would require on average log₂6 bits.]] Consider tossing a coin with known, not necessarily fair, probabilities of coming up heads or tails; this can be modelled as a Bernoulli process.
 
 The entropy of the unknown result of the next toss of the coin is maximized if the coin is fair (that is, if heads and tails both have equal probability 1/2). This is the situation of maximum uncertainty as it is most difficult to predict the outcome of the next toss; the result of each toss of the coin delivers one full bit of information. This is because

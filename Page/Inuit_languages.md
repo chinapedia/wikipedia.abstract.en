@@ -42,8 +42,6 @@ The western Alaskan variants retain a large number of features present in proto-
 
 Geographic distribution and variants
 
-Inuktitut_dialect_map.svg
-
 The Inuit languages are a fairly closely linked set of languages which can be broken up using a number of different criteria. Traditionally, Inuit describe dialect differences by means of place names to describe local idiosyncrasies in language: The dialect of Igloolik versus the dialect of Iqaluit, for example. However, political and sociological divisions are increasingly the principal criteria for describing different variants of the Inuit languages because of their links to different writing systems, literary traditions, schools, media sources and borrowed vocabulary. This makes any partition of the Inuit language somewhat problematic. This article will use labels that try to synthesise linguistic, sociolinguistic and political considerations in splitting up the Inuit dialect spectrum. This scheme is not the only one used or necessarily one used by Inuit themselves, but its labels do try to reflect the usages most seen in popular and technical literature.
 
 In addition to the territories listed below, some 7,000 Greenlandic speakers are reported to live in mainland Denmark,[2] and according to the 2001 census roughly 200 self-reported Inuktitut native speakers regularly live in parts of Canada which are outside traditional Inuit lands.
@@ -132,7 +130,7 @@ The "fact" that there are many Inuit words for snow has been put forward so ofte
 
 Numbers
 
-IqaluitStop.jpg in Inuktitut syllabics and English]] The Inuit use a base-20 counting system.
+in Inuktitut syllabics and English]] The Inuit use a base-20 counting system.
 
 
 Writing
@@ -150,7 +148,7 @@ Currently there are six "standard" ways to write the languages:
 
 Though all except the syllabics use the Latin alphabet, all of them are a bit different from each other.
 
-Inuktitut.svg Most Inuktitut in Nunavut and Nunavik is written using a script called Inuktitut syllabics, based on Canadian Aboriginal syllabics. The western part of Nunavut and the Northwest Territories use Latin alphabet usually identified as Inuinnaqtun. In Alaska, two other Latin alphabets are used. Nunatsiavut uses an alphabet devised by German-speaking Moravian missionaries, which included the letter _kra_. Greenland's Latin alphabet was originally much like the one used in Nunatsiavut, but underwent a spelling reform in 1973 to bring the orthography in line with changes in pronunciation and better reflect the phonemic inventory of the language.
+Most Inuktitut in Nunavut and Nunavik is written using a script called Inuktitut syllabics, based on Canadian Aboriginal syllabics. The western part of Nunavut and the Northwest Territories use Latin alphabet usually identified as Inuinnaqtun. In Alaska, two other Latin alphabets are used. Nunatsiavut uses an alphabet devised by German-speaking Moravian missionaries, which included the letter _kra_. Greenland's Latin alphabet was originally much like the one used in Nunatsiavut, but underwent a spelling reform in 1973 to bring the orthography in line with changes in pronunciation and better reflect the phonemic inventory of the language.
 
 Canadian syllabics
 

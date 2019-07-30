@@ -1,4 +1,4 @@
-InfiniteSquareWellAnimation.gif of classical mechanics (A), and according to the Schrödinger equation of quantum mechanics (B–F). In (B–F), the horizontal axis is position, and the vertical axis is the real part (blue) and imaginary part (red) of the wavefunction. The states (B,C,D) are energy eigenstates, but (E,F) are not.]]
+of classical mechanics (A), and according to the Schrödinger equation of quantum mechanics (B–F). In (B–F), the horizontal axis is position, and the vertical axis is the real part (blue) and imaginary part (red) of the wavefunction. The states (B,C,D) are energy eigenstates, but (E,F) are not.]]
 
 In quantum mechanics, the PARTICLE IN A BOX model (also known as the INFINITE POTENTIAL WELL or the INFINITE SQUARE WELL) describes a particle free to move in a small space surrounded by impenetrable barriers. The model is mainly used as a hypothetical example to illustrate the differences between classical and quantum systems. In classical systems, for example, a particle trapped inside a large box can move at any speed within the box and it is no more likely to be found at one position than another. However, when the well becomes very narrow (on the scale of a few nanometers), quantum effects become important. The particle may only occupy certain positive energy levels. Likewise, it can never have zero energy, meaning that the particle can never "sit still". Additionally, it is more likely to be found at certain positions than at others, depending on its energy level. The particle may never be detected at certain positions, known as spatial nodes.
 
@@ -6,8 +6,6 @@ The particle in a box model is one of the very few problems in quantum mechanics
 
 
 One-dimensional solution
-
-Infinite_potential_well-en.svg
 
 The simplest form of the particle in a box model considers a one-dimensional system. Here, the particle may only move backwards and forwards along a straight line with impenetrable barriers at either end.[1] The walls of a one-dimensional box may be visualised as regions of space with an infinitely large potential energy. Conversely, the interior of the box has a constant, zero potential energy.[2] This means that no forces act upon the particle inside the box and it can move freely in that region. However, infinitely large forces repel the particle if it touches the walls of the box, preventing it from escaping. The potential energy in this model is given as
 
@@ -32,7 +30,7 @@ $$E = \hbar\omega = \frac{\hbar^2 k^2}{2m},$$
 
 which is known as the dispersion relation for a free particle.[6] Here one must notice that now, since the particle is not entirely free but under the influence of a potential (the potential _V_ described above), the energy of the particle given above is not the same thing as $\frac{p^2}{2m}$ where _p_ is the momentum of the particle, and thus the wavenumber _k_ above actually describes the energy states of the particle, not the momentum states (i.e. it turns out that the momentum of the particle is not given by p = ℏk). In this sense, it is quite dangerous to call the number _k_ a wavenumber, since it is not related to momentum like "wavenumber" usually is. The rationale for calling _k_ the wavenumber is that it enumerates the number of crests that the wavefunction has inside the box, and in this sense it is a wavenumber. This discrepancy can be seen more clearly below, when we find out that the energy spectrum of the particle is discrete (only discrete values of energy are allowed) but the momentum spectrum is continuous (momentum can vary continuously) and in particular, the relation $E = \frac{p^2}{2m}$ for the energy and momentum of the particle does not hold. As said above, the reason this relation between energy and momentum does not hold is that the particle is not free, but there is a potential _V_ in the system, and the energy of the particle is E = T + V, where _T_ is the kinetic and _V_ the potential energy.
 
-particle_in_a_box_wavefunctions_2.svg The size (or amplitude) of the wavefunction at a given position is related to the probability of finding a particle there by P(x, t) = |ψ(x, t)|². The wavefunction must therefore vanish everywhere beyond the edges of the box.[7][8] Also, the amplitude of the wavefunction may not "jump" abruptly from one point to the next.[9] These two conditions are only satisfied by wavefunctions with the form
+The size (or amplitude) of the wavefunction at a given position is related to the probability of finding a particle there by P(x, t) = |ψ(x, t)|². The wavefunction must therefore vanish everywhere beyond the edges of the box.[7][8] Also, the amplitude of the wavefunction may not "jump" abruptly from one point to the next.[9] These two conditions are only satisfied by wavefunctions with the form
 
 $$\psi_n(x,t) =
 \begin{cases}
@@ -136,7 +134,7 @@ which satisfies the quantum entropic uncertainty principle.
 
 Energy levels
 
-Confined_particle_dispersion_-_positive.svg The energies which correspond with each of the permitted wavenumbers may be written as[14]
+The energies which correspond with each of the permitted wavenumbers may be written as[14]
 
 $$E_n = \frac{n^2\hbar^2 \pi ^2}{2mL^2} = \frac{n^2 h^2}{8mL^2}$$
 . The energy levels increase with n², meaning that high energy levels are separated from each other by a greater amount than low energy levels are. The lowest possible energy for the particle (its _zero-point energy_) is found in state 1, which is given by[15]
@@ -151,8 +149,6 @@ It can be shown that the uncertainty in the position of the particle is proporti
 Higher-dimensional boxes
 
 (Hyper)rectangular walls
-
-Particle2D.svg
 
 If a particle is trapped in a two-dimensional box, it may freely move in the x and y-directions, between barriers separated by lengths L_(x) and L_(y) respectively. For a centered box, the position wave function may be written including the length of the box as ψ_(n)(x, t, L). Using a similar approach to that of the one-dimensional box, it can be shown that the wavefunctions and energies for a centered box are given respectively by
 
@@ -200,8 +196,6 @@ Applications
 Because of its mathematical simplicity, the particle in a box model is used to find approximate solutions for more complex physical systems in which a particle is trapped in a narrow region of low electric potential between two high potential barriers. These quantum well systems are particularly important in optoelectronics, and are used in devices such as the quantum well laser, the quantum well infrared photodetector and the quantum-confined Stark effect modulator. It is also used to model a lattice in the Kronig-Penny model and for a finite metal with the free electron approximation.
 
 Conjugated polyenes
-
-Beta-Carotin.svg
 
 Conjugated polyene systems can be modeled using particle in a box.[19] The conjugated system of electrons can be modeled as a one dimensional box with length equal to the total bond distance from one terminus of the polyene to the other. In this case each pair of electrons in each π bond corresponds to one energy level. The energy difference between two energy levels, n_(f) and n_(i) is:
 

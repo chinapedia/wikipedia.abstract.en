@@ -1,4 +1,4 @@
-Taq_polimerase.png]] A POLYMERASE is an enzyme (EC 2.7.7.6/7/19/48/49) that synthesizes long chains of polymers or nucleic acids. DNA polymerase and RNA polymerase are used to assemble DNA and RNA molecules, respectively, by copying a DNA template strand using base-pairing interactions or RNA by half ladder replication.
+]] A POLYMERASE is an enzyme (EC 2.7.7.6/7/19/48/49) that synthesizes long chains of polymers or nucleic acids. DNA polymerase and RNA polymerase are used to assemble DNA and RNA molecules, respectively, by copying a DNA template strand using base-pairing interactions or RNA by half ladder replication.
 
 A DNA polymerase from the thermophilic bacterium, _Thermus aquaticus_ (_Taq_) (PDB 1BGX, EC 2.7.7.7) is used in the polymerase chain reaction, an important technique of molecular biology.
 

@@ -17,7 +17,7 @@ Church career
 
 Borgia studied grammar, logic and the arts in Valencia and went in 1392 to the University of Lleida where he obtained a doctorate in both canon law and civil law. His early career was spent as a professor of law at the University of Lleida. Around 1411, he attended a sermon by Vincent Ferrer. Afterward, the Dominican said to the future pope: "My son, you one day will be called to be the ornament of your house and of your country. You will be invested with the highest dignity that can fall to the lot of man. After my death, I shall be the object of your special honour. Endeavor to persevere in a life of virtue."[4] Later, as pope, Borgia canonized Ferrer on 3 June 1455.[5]
 
-Borgia was chosen as a delegate of the Diocese of Lerida to the Council of Constance in 1416, but did not partake in the proceedings as King Alfonso V of Aragon was opposed to the council. Because of this he went to Barcelona as a representative of his diocese in a synod. Borgia cared strongly for the reestablishment of the unity of the church and his influence with the Aragonese monarch was the factor that allowed for the conclusion of the accord between the king and the new pope. BORJA_ALFONSO.jpg
+Borgia was chosen as a delegate of the Diocese of Lerida to the Council of Constance in 1416, but did not partake in the proceedings as King Alfonso V of Aragon was opposed to the council. Because of this he went to Barcelona as a representative of his diocese in a synod. Borgia cared strongly for the reestablishment of the unity of the church and his influence with the Aragonese monarch was the factor that allowed for the conclusion of the accord between the king and the new pope.
 
 In 1418 he was named as the rector of San Nicolas of Valencia. He was also the Vice-Chancellor of the University of Lerida from 1420 to 1423. In 1424 he resigned his position and dedicated his service to the Aragonese king. In 1424 he was named as the apostolic administrator of the see of Mallorca. It was at that time that the king desired that he be made a Cardinal; Pope Martin V refused the request. During the Great Western Schism he supported Antipope Benedict XIII and was also the driving force behind Antipope Clement VIII's submission to Pope Martin V in 1429.[6] He then served as a diplomat to the Kings of Aragon, especially during the Council of Basel (1431–1439).
 
@@ -63,8 +63,6 @@ Callixtus III canonized the following four saints during his pontificate:
 -   15 October 1457: Albert of Trapani
 -   1457: Rose of Viterbo
 
-Halley's_Comet_-_May_29_1910.jpg
-
 The "bull against the comet"
 
 According to one story that first appeared in a 1475 posthumous biography and was subsequently embellished and popularized by Pierre-Simon Laplace, Callixtus III excommunicated the 1456 appearance of Halley's Comet, believing it to be an ill omen for the Christian defenders of Belgrade from the besieging armies of the Ottoman Empire.[15] No known primary source supports the authenticity of this account. The 29 June 1456 papal bull of Callixtus III calling for a public prayer for the success of the crusade makes no mention of the comet. By 6 August, when the Turkish siege was broken, the comet had not been visible in either Europe or Turkey for several weeks.[16]
@@ -72,7 +70,7 @@ According to one story that first appeared in a 1475 posthumous biography and wa
 
 Death
 
-S_M_in_Monserrato_-_tomba_dei_papi_Borgia_P1000272.JPG.]] Callixtus III died on 6 August 1458. His remains were transferred in 1586 and again in 1610 with the remains of Pope Alexander VI to Santa Maria in Monserrato. His remains were transferred once more on 21 August 1889 in the chapel of San Diego.
+.]] Callixtus III died on 6 August 1458. His remains were transferred in 1586 and again in 1610 with the remains of Pope Alexander VI to Santa Maria in Monserrato. His remains were transferred once more on 21 August 1889 in the chapel of San Diego.
 
 In his will he left 5000 ducati to establish a hospital.
 

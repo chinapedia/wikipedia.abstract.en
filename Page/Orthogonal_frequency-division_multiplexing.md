@@ -104,7 +104,7 @@ The guard interval also eliminates the need for a pulse-shaping filter, and it r
 
     A simple example: If one sends a million symbols per second using conventional single-carrier modulation over a wireless channel, then the duration of each symbol would be one microsecond or less. This imposes severe constraints on synchronization and necessitates the removal of multipath interference. If the same million symbols per second are spread among one thousand sub-channels, the duration of each symbol can be longer by a factor of a thousand (i.e., one millisecond) for orthogonality with approximately the same bandwidth. Assume that a guard interval of 1/8 of the symbol length is inserted between each symbol. Intersymbol interference can be avoided if the multipath time-spreading (the time between the reception of the first and the last echo) is shorter than the guard interval (i.e., 125 microseconds). This corresponds to a maximum difference of 37.5 kilometers between the lengths of the paths.
 
-The cyclic prefix, which is transmitted during the guard interval, consists of the end of the OFDM symbol copied into the guard interval, and the guard interval is transmitted followed by the OFDM symbol. The reason that the guard interval consists of a copy of the end of the OFDM symbol is so that the receiver will integrate over an integer number of sinusoid cycles for each of the multipaths when it performs OFDM demodulation with the FFT. OFDMCyclicPrefixInsertion.svg
+The cyclic prefix, which is transmitted during the guard interval, consists of the end of the OFDM symbol copied into the guard interval, and the guard interval is transmitted followed by the OFDM symbol. The reason that the guard interval consists of a copy of the end of the OFDM symbol is so that the receiver will integrate over an integer number of sinusoid cycles for each of the multipaths when it performs OFDM demodulation with the FFT.
 
 In some standards such as Ultrawideband, in the interest of transmitted power, cyclic prefix is skipped and nothing is sent during the guard interval. The receiver will then have to mimic the cyclic prefix functionality by copying the end part of the OFDM symbol and adding it to the beginning portion.
 
@@ -229,8 +229,6 @@ This section describes a simple idealized OFDM system model suitable for a time-
 
 Transmitter
 
-OFDM_transmitter_ideal.png
-
 An OFDM carrier signal is the sum of a number of orthogonal subcarriers, with baseband data on each subcarrier being independently modulated commonly using some type of quadrature amplitude modulation (QAM) or phase-shift keying (PSK). This composite baseband signal is typically used to modulate a main RF carrier.
 
 $\scriptstyle s[n]$ is a serial stream of binary digits. By inverse multiplexing, these are first demultiplexed into $\scriptstyle N$ parallel streams, and each one mapped to a (possibly complex) symbol stream using some modulation constellation (QAM, PSK, etc.). Note that the constellations may be different, so some streams may carry a higher bit-rate than others.
@@ -239,8 +237,6 @@ An inverse FFT is computed on each set of symbols, giving a set of complex time-
 
 Receiver
 
-OFDM_receiver_ideal.png
-
 The receiver picks up the signal $\scriptstyle r(t)$, which is then quadrature-mixed down to baseband using cosine and sine waves at the carrier frequency. This also creates signals centered on $\scriptstyle 2 f_c$, so low-pass filters are used to reject these. The baseband signals are then sampled and digitised using analog-to-digital converters (ADCs), and a forward FFT is used to convert back to the frequency domain.
 
 This returns $\scriptstyle N$ parallel streams, each of which is converted to a binary stream using an appropriate symbol detector. These streams are then re-combined into a serial stream, $\scriptstyle {\hat s}[n]$, which is an estimate of the original binary stream at the transmitter.
@@ -248,7 +244,7 @@ This returns $\scriptstyle N$ parallel streams, each of which is converted to a 
 
 Mathematical description
 
-N-OFDM.jpg]] If $\scriptstyle N$ subcarriers are used, and each subcarrier is modulated using $\scriptstyle M$ alternative symbols, the OFDM symbol alphabet consists of $\scriptstyle M^N$ combined symbols.
+]] If $\scriptstyle N$ subcarriers are used, and each subcarrier is modulated using $\scriptstyle M$ alternative symbols, the OFDM symbol alphabet consists of $\scriptstyle M^N$ combined symbols.
 
 The low-pass equivalent OFDM signal is expressed as:
 

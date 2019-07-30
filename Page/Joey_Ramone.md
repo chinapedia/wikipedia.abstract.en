@@ -3,8 +3,6 @@ JEFFREY ROSS HYMAN (May 19, 1951 – April 15, 2001), known professionally as J
 
 Early life
 
-Jeff_Hyman_aka_Joey_Ramone_2nd_grade_class_picture.jpg
-
 Jeffrey Ross Hyman was born on May 19, 1951, in Queens, New York to a Jewish family. His parents were Charlotte (_née_ Mandell) and Noel Hyman.[2] The family lived in Forest Hills, Queens, New York[3] where Hyman and his future Ramones bandmates attended Forest Hills High School. Though happy, Hyman was something of an outcast, diagnosed at 18 with obsessive–compulsive disorder. He grew up with his brother Mickey Leigh. His mother, Charlotte Lesher, divorced her first husband, Noel Hyman. She married a second time but was widowed by a car accident while she was on vacation. Joey was born with a parasitic twin, which was a malformed Siamese twin growing out of his back. The twin was incomplete and thus it was surgically removed.[4]
 
 Hyman was a fan of the Beatles,[5] the Who, David Bowie, and the Stooges among other bands, particularly oldies and the Phil Spector-produced "girl groups". His idol was Pete Townshend of the Who, with whom he shared a birthday. Hyman took up the drums at 13, and played them throughout his teen years before picking up an acoustic guitar at age 17.
@@ -33,7 +31,7 @@ Ramone's voice was within a tenor range. His signature cracks, hiccups, snarls, 
 
 Other projects
 
-JoeyRamonePlaceBowery.jpg in New York City.]]
+in New York City.]]
 
 In 1985, Ramone joined Steven Van Zandt's music industry activist group Artists United Against Apartheid, which campaigned against the Sun City resort in South Africa. Ramone and 49 other recording artists – including Bob Dylan, Bruce Springsteen, Keith Richards, Lou Reed and Run DMC — collaborated on the song "Sun City", in which they pledged they would never perform at the resort.
 
@@ -50,7 +48,7 @@ Ramone produced the Ronnie Spector album _She Talks to Rainbows_ in 1999. It was
 
 Death and influence
 
-Joey_Ramone_Headstone.jpgJoey Ramone died following a seven-year battle with lymphoma at New York-Presbyterian Hospital on April 15, 2001, a month before he would have turned 50.[15] He was reportedly listening to the song "In a Little While" by U2 when he died.[16] In an interview in 2014 for Radio 538, U2 lead singer Bono confirmed that Joey Ramone's family told him that Ramone listened to the song before he died, which Andy Shernoff (The Dictators) also confirmed.[17][18]
+Joey Ramone died following a seven-year battle with lymphoma at New York-Presbyterian Hospital on April 15, 2001, a month before he would have turned 50.[15] He was reportedly listening to the song "In a Little While" by U2 when he died.[16] In an interview in 2014 for Radio 538, U2 lead singer Bono confirmed that Joey Ramone's family told him that Ramone listened to the song before he died, which Andy Shernoff (The Dictators) also confirmed.[17][18]
 
 His solo album _Don't Worry About Me_ was released posthumously in 2002, and features the single "What a Wonderful World", a cover of the Louis Armstrong standard. MTV News claimed: "With his trademark rose-colored shades, black leather jacket, shoulder-length hair, ripped jeans and alternately snarling and crooning vocals, Joey was the iconic godfather of punk."[19]
 

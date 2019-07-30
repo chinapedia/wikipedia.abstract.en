@@ -1,5 +1,4 @@
   --------------------
-   Nicaragua-map.png
    _MAP OF NICARAGUA_
           AREA
          TOTAL
@@ -18,14 +17,14 @@
 
   : GEOGRAPHY OF NICARAGUA
 
-Nicaragua_land_1979.jpg Nicaragua_Topography.pngKoppen-Geiger_Map_NIC_present.svgNICARAGUA (officially the REPUBLIC OF NICARAGUA ) is a country in Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras. Nicaragua is the largest country in Central America.
+ NICARAGUA (officially the REPUBLIC OF NICARAGUA ) is a country in Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras. Nicaragua is the largest country in Central America.
 
 Nicaragua covers a total area of 130,370 square kilometers (119,990 square kilometers of which is land area) and contains a variety of climates and terrains. The country's physical geography divides it into three major zones: the Pacific lowlands, the wetter, cooler central highlands, and the Caribbean lowlands.
 
 
 Natural regions
 
-Nicaragua_rel_97.jpg Nicaragua_pol_97.jpg Satellite_image_of_Nicaragua_in_March_2003.jpg Nicaragua_econ_1979.jpg The natural regions are the following:
+The natural regions are the following:
 
 Pacific lowlands
 

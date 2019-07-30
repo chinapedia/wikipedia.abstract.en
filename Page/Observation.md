@@ -1,4 +1,4 @@
-Lennuliiklust_uurimas.jpg, Estonia)]]
+, Estonia)]]
 
 OBSERVATION is the active acquisition of information from a primary source. In living beings, observation employs the senses. In science, observation can also involve the perception and recording of data via the use of scientific instruments. The term may also refer to any data collected during the scientific activity. Observations can be qualitative, that is, only the absence or presence of a property is noted, or quantitative if a numerical value is attached to the observed phenomenon by counting or measuring.
 

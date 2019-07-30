@@ -1,4 +1,4 @@
-Milk_glass.jpg cow's milk]] MILK is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients[1] including protein and lactose. Interspecies consumption of milk is not uncommon, particularly among humans, many of whom consume the milk of other mammals.[2][3]
+cow's milk]] MILK is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients[1] including protein and lactose. Interspecies consumption of milk is not uncommon, particularly among humans, many of whom consume the milk of other mammals.[2][3]
 
 As an agricultural product, milk, also called _dairy milk_, is extracted from farm animals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011,[4] from 260 million dairy cows.[5] India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products.[6][7] The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future.[8] New Zealand, Germany and the Netherlands are the largest exporters of milk products.[9] China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.[10]
 
@@ -24,7 +24,7 @@ Milk consumption occurs in two distinct overall types: a natural source of nutri
 
 Nutrition for infant mammals
 
-Woman_breastfeeding_an_infant.jpg Goat_kid_feeding_on_mothers_milk.jpg In almost all mammals, milk is fed to infants through breastfeeding, either directly or by expressing the milk to be stored and consumed later. The early milk from mammals is called colostrum. Colostrum contains antibodies that provide protection to the newborn baby as well as nutrients and growth factors.[17] The makeup of the colostrum and the period of secretion varies from species to species.[18]
+In almost all mammals, milk is fed to infants through breastfeeding, either directly or by expressing the milk to be stored and consumed later. The early milk from mammals is called colostrum. Colostrum contains antibodies that provide protection to the newborn baby as well as nutrients and growth factors.[17] The makeup of the colostrum and the period of secretion varies from species to species.[18]
 
 For humans, the World Health Organization recommends exclusive breastfeeding for six months and breastfeeding in addition to other food for up to two years of age or more.[19] In some cultures it is common to breastfeed children for three to five years, and the period may be longer.[20]
 
@@ -32,7 +32,7 @@ Fresh goats' milk is sometimes substituted for breast milk, which introduces the
 
 Food product for humans
 
-Cow_female_black_white.jpg is the dominant breed in industrialized dairy farms today]] A_bowl_of_milk_for_the_shaman_rite._Buryatia._Russia.png. Russia]] In many cultures, especially in the West, humans continue to consume milk beyond infancy, using the milk of other mammals (especially cattle, goats and sheep) as a food product. Initially, the ability to digest milk was limited to children as adults did not produce lactase, an enzyme necessary for digesting the lactose in milk. People therefore converted milk to curd, cheese and other products to reduce the levels of lactose. Thousands of years ago, a chance mutation spread in human populations in Europe that enabled the production of lactase in adulthood. This mutation allowed milk to be used as a new source of nutrition which could sustain populations when other food sources failed.[22] Milk is processed into a variety of products such as cream, butter, yogurt, kefir, ice cream, and cheese. Modern industrial processes use milk to produce casein, whey protein, lactose, condensed milk, powdered milk, and many other food-additives and industrial products.
+is the dominant breed in industrialized dairy farms today]] . Russia]] In many cultures, especially in the West, humans continue to consume milk beyond infancy, using the milk of other mammals (especially cattle, goats and sheep) as a food product. Initially, the ability to digest milk was limited to children as adults did not produce lactase, an enzyme necessary for digesting the lactose in milk. People therefore converted milk to curd, cheese and other products to reduce the levels of lactose. Thousands of years ago, a chance mutation spread in human populations in Europe that enabled the production of lactase in adulthood. This mutation allowed milk to be used as a new source of nutrition which could sustain populations when other food sources failed.[22] Milk is processed into a variety of products such as cream, butter, yogurt, kefir, ice cream, and cheese. Modern industrial processes use milk to produce casein, whey protein, lactose, condensed milk, powdered milk, and many other food-additives and industrial products.
 
 Whole milk, butter and cream have high levels of saturated fat.[23][24] The sugar lactose is found only in milk, forsythia flowers, and a few tropical shrubs. The enzyme needed to digest lactose, lactase, reaches its highest levels in the human small intestine after birth and then begins a slow decline unless milk is consumed regularly.[25] Those groups who do continue to tolerate milk, however, often have exercised great creativity in using the milk of domesticated ungulates, not only of cattle, but also sheep, goats, yaks, water buffalo, horses, reindeer and camels. India is the largest producer and consumer of cattle and buffalo milk in the world.[26]
 
@@ -77,7 +77,7 @@ Whole milk, butter and cream have high levels of saturated fat.[23][24] The suga
 
 History
 
-Bundesarchiv_Bild_183-2004-0708-501,_Berlin,_Milch_von_Bolle_in_der_Pause.jpg Humans first learned to consume the milk of other mammals regularly following the domestication of animals during the Neolithic Revolution or the development of agriculture. This development occurred independently in several global locations from as early as 9000–7000 BC in Mesopotamia[28] to 3500–3000 BC in the Americas.[29] People first domesticated the most important dairy animals – cattle, sheep and goats – in Southwest Asia, although domestic cattle had been independently derived from wild aurochs populations several times since.[30] Initially animals were kept for meat, and archaeologist Andrew Sherratt has suggested that dairying, along with the exploitation of domestic animals for hair and labor, began much later in a separate secondary products revolution in the fourth millennium BC.[31] Sherratt's model is not supported by recent findings, based on the analysis of lipid residue in prehistoric pottery, that shows that dairying was practiced in the early phases of agriculture in Southwest Asia, by at least the seventh millennium BC.[32][33]
+Humans first learned to consume the milk of other mammals regularly following the domestication of animals during the Neolithic Revolution or the development of agriculture. This development occurred independently in several global locations from as early as 9000–7000 BC in Mesopotamia[28] to 3500–3000 BC in the Americas.[29] People first domesticated the most important dairy animals – cattle, sheep and goats – in Southwest Asia, although domestic cattle had been independently derived from wild aurochs populations several times since.[30] Initially animals were kept for meat, and archaeologist Andrew Sherratt has suggested that dairying, along with the exploitation of domestic animals for hair and labor, began much later in a separate secondary products revolution in the fourth millennium BC.[31] Sherratt's model is not supported by recent findings, based on the analysis of lipid residue in prehistoric pottery, that shows that dairying was practiced in the early phases of agriculture in Southwest Asia, by at least the seventh millennium BC.[32][33]
 
 From Southwest Asia domestic dairy animals spread to Europe (beginning around 7000 BC but did not reach Britain and Scandinavia until after 4000 BC),[34] and South Asia (7000–5500 BC).[35] The first farmers in central Europe[36] and Britain[37] milked their animals. Pastoral and pastoral nomadic economies, which rely predominantly or exclusively on domestic animals and their products rather than crop farming, were developed as European farmers moved into the Pontic-Caspian steppe in the fourth millennium BC, and subsequently spread across much of the Eurasian steppe.[38] Sheep and goats were introduced to Africa from Southwest Asia, but African cattle may have been independently domesticated around 7000–6000 BC.[39] Camels, domesticated in central Arabia in the fourth millennium BC, have also been used as dairy animals in North Africa and the Arabian Peninsula.[40] The earliest Egyptian records of burn treatments describe burn dressings using milk from mothers of male babies.[41] In the rest of the world (i.e., East and Southeast Asia, the Americas and Australia) milk and dairy products were historically not a large part of the diet, either because they remained populated by hunter-gatherers who did not keep animals or the local agricultural economies did not include domesticated dairy species. Milk consumption became common in these regions comparatively recently, as a consequence of European colonialism and political domination over much of the world in the last 500 years.
 
@@ -85,11 +85,11 @@ In the Middle Ages, milk was called the "virtuous white liquor" because alcoholi
 
 Industrialization
 
-SR_4409_6_Wheeled_Milk_Wagon_Didcot_Railway_Centre.jpg three-axle milk tank wagon at the Didcot Railway Centre, based on an SR chassis]] The growth in urban population, coupled with the expansion of the railway network in the mid-19th century, brought about a revolution in milk production and supply. Individual railway firms began transporting milk from rural areas to London from the 1840s and 1850s. Possibly the first such instance was in 1846, when St Thomas's Hospital in Southwark contracted with milk suppliers outside London to ship milk by rail.[43] The Great Western Railway was an early and enthusiastic adopter, and began to transport milk into London from Maidenhead in 1860, despite much criticism. By 1900, the company was transporting over 25 million gallons annually.[44] The milk trade grew slowly through the 1860s, but went through a period of extensive, structural change in the 1870s and 1880s.
+three-axle milk tank wagon at the Didcot Railway Centre, based on an SR chassis]] The growth in urban population, coupled with the expansion of the railway network in the mid-19th century, brought about a revolution in milk production and supply. Individual railway firms began transporting milk from rural areas to London from the 1840s and 1850s. Possibly the first such instance was in 1846, when St Thomas's Hospital in Southwark contracted with milk suppliers outside London to ship milk by rail.[43] The Great Western Railway was an early and enthusiastic adopter, and began to transport milk into London from Maidenhead in 1860, despite much criticism. By 1900, the company was transporting over 25 million gallons annually.[44] The milk trade grew slowly through the 1860s, but went through a period of extensive, structural change in the 1870s and 1880s.
 
-Aesthetic_Milk_Vehicle.jpg]] Urban demand began to grow, as consumer purchasing power increased and milk became regarded as a required daily commodity. Over the last three decades of the 19th century, demand for milk in most parts of the country doubled, or in some cases, tripled. Legislation in 1875 made the adulteration of milk illegal – this combined with a marketing campaign to change the image of milk. The proportion of rural imports by rail as a percentage of total milk consumption in London grew from under 5% in the 1860s to over 96% by the early 20th century. By that point, the supply system for milk was the most highly organized and integrated of any food product.[45]
+]] Urban demand began to grow, as consumer purchasing power increased and milk became regarded as a required daily commodity. Over the last three decades of the 19th century, demand for milk in most parts of the country doubled, or in some cases, tripled. Legislation in 1875 made the adulteration of milk illegal – this combined with a marketing campaign to change the image of milk. The proportion of rural imports by rail as a percentage of total milk consumption in London grew from under 5% in the 1860s to over 96% by the early 20th century. By that point, the supply system for milk was the most highly organized and integrated of any food product.[45]
 
-Milk_supply_1959_in_Oberlech,_Austria.jpg The first glass bottle packaging for milk was used in the 1870s. The first company to do so may have been the New York Dairy Company in 1877. The Express Dairy Company in England began glass bottle production in 1880. In 1884, Hervey Thatcher, an American inventor from New York, invented a glass milk bottle, called "Thatcher's Common Sense Milk Jar," which was sealed with a waxed paper disk.[46] Later, in 1932, plastic-coated paper milk cartons were introduced commercially.[47]
+The first glass bottle packaging for milk was used in the 1870s. The first company to do so may have been the New York Dairy Company in 1877. The Express Dairy Company in England began glass bottle production in 1880. In 1884, Hervey Thatcher, an American inventor from New York, invented a glass milk bottle, called "Thatcher's Common Sense Milk Jar," which was sealed with a waxed paper disk.[46] Later, in 1932, plastic-coated paper milk cartons were introduced commercially.[47]
 
 In 1863, French chemist and biologist Louis Pasteur invented pasteurization, a method of killing harmful bacteria in beverages and food products.[48] He developed this method while on summer vacation in Arbois, to remedy the frequent acidity of the local wines.[49] He found out experimentally that it is sufficient to heat a young wine to only about for a brief time to kill the microbes, and that the wine could be nevertheless properly aged without sacrificing the final quality.[50] In honor of Pasteur, the process became known as "pasteurization". Pasteurization was originally used as a way of preventing wine and beer from souring.[51] Commercial pasteurizing equipment was produced in Germany in the 1880s, and producers adopted the process in Copenhagen and Stockholm by 1885.[52][53]
 
@@ -100,7 +100,7 @@ Continued improvements in the efficiency of milk production led to a worldwide g
 
 Sources
 
-Farm_in_sogn_og_fjordane.JPG in Norway]] The females of all mammal species can by definition produce milk, but cow's milk dominates commercial production. In 2011, FAO estimates 85% of all milk worldwide was produced from cows.[55] Human milk is not produced or distributed industrially or commercially; however, human milk banks collect donated human breastmilk and redistribute it to infants who may benefit from human milk for various reasons (premature neonates, babies with allergies, metabolic diseases, etc.) but who cannot breastfeed.[56]
+in Norway]] The females of all mammal species can by definition produce milk, but cow's milk dominates commercial production. In 2011, FAO estimates 85% of all milk worldwide was produced from cows.[55] Human milk is not produced or distributed industrially or commercially; however, human milk banks collect donated human breastmilk and redistribute it to infants who may benefit from human milk for various reasons (premature neonates, babies with allergies, metabolic diseases, etc.) but who cannot breastfeed.[56]
 
 In the Western world, cow's milk is produced on an industrial scale and is by far the most commonly consumed form of milk. Commercial dairy farming using automated milking equipment produces the vast majority of milk in developed countries. Dairy cattle such as the Holstein have been bred selectively for increased milk production. About 90% of the dairy cows in the United States and 85% in Great Britain are Holsteins.[57] Other dairy cows in the United States include Ayrshire, Brown Swiss, Guernsey, Jersey and Milking Shorthorn (Dairy Shorthorn).
 
@@ -235,7 +235,7 @@ Increasing affluence in developing countries, as well as increased promotion of 
 
 Production yields
 
-MilkMaid.JPG FAO reports[73] Israel dairy farms are the most productive in the world, with a yield of milk per cow per year. This survey over 2001 and 2007 was conducted by ICAR (International Committee for Animal Recording)[74] across 17 developed countries. The survey found that the average herd size in these developed countries increased from 74 to 99 cows per herd between 2001 and 2007. A dairy farm had an average of 19 cows per herd in Norway, and 337 in New Zealand. Annual milk production in the same period increased from per cow in these developed countries. The lowest average production was in New Zealand at per cow. The milk yield per cow depended on production systems, nutrition of the cows, and only to a minor extent different genetic potential of the animals. What the cow ate made the most impact on the production obtained. New Zealand cows with the lowest yield per year grazed all year, in contrast to Israel with the highest yield where the cows ate in barns with an energy-rich mixed diet.
+FAO reports[73] Israel dairy farms are the most productive in the world, with a yield of milk per cow per year. This survey over 2001 and 2007 was conducted by ICAR (International Committee for Animal Recording)[74] across 17 developed countries. The survey found that the average herd size in these developed countries increased from 74 to 99 cows per herd between 2001 and 2007. A dairy farm had an average of 19 cows per herd in Norway, and 337 in New Zealand. Annual milk production in the same period increased from per cow in these developed countries. The lowest average production was in New Zealand at per cow. The milk yield per cow depended on production systems, nutrition of the cows, and only to a minor extent different genetic potential of the animals. What the cow ate made the most impact on the production obtained. New Zealand cows with the lowest yield per year grazed all year, in contrast to Israel with the highest yield where the cows ate in barns with an energy-rich mixed diet.
 
 The milk yield per cow in the United States, the world's largest cow milk producer, was per year in 2010. In contrast, the milk yields per cow in India and China – the second and third largest producers – were respectively and per year.[75]
 
@@ -246,7 +246,7 @@ It was reported in 2007 that with increased worldwide prosperity and the competi
 
 Physical and chemical properties
 
-TriglycerideDairyButter.png (fat) formed from fatty acids such as myristic, palmitic, and oleic acids.]] Milk is an emulsion or colloid of butterfat globules within a water-based fluid that contains dissolved carbohydrates and protein aggregates with minerals.[78] Because it is produced as a food source for the young, all of its contents provide benefits for growth. The principal requirements are energy (lipids, lactose, and protein), biosynthesis of non-essential amino acids supplied by proteins (essential amino acids and amino groups), essential fatty acids, vitamins and inorganic elements, and water.[79]
+(fat) formed from fatty acids such as myristic, palmitic, and oleic acids.]] Milk is an emulsion or colloid of butterfat globules within a water-based fluid that contains dissolved carbohydrates and protein aggregates with minerals.[78] Because it is produced as a food source for the young, all of its contents provide benefits for growth. The principal requirements are energy (lipids, lactose, and protein), biosynthesis of non-essential amino acids supplied by proteins (essential amino acids and amino groups), essential fatty acids, vitamins and inorganic elements, and water.[79]
 
 pH
 
@@ -298,7 +298,7 @@ Some sources indicate that the trapped calcium phosphate is in the form of Ca9(P
 
 Sugars and carbohydrates
 
-Hydrolysis_of_lactose.svg molecule being broken down into glucose (2) and galactose (1)]] Milk contains several different carbohydrate including lactose, glucose, galactose, and other oligosaccharides. The lactose gives milk its sweet taste and contributes approximately 40% of whole cow's milk's calories. Lactose is a disaccharide composite of two simple sugars, glucose and galactose. Bovine milk averages 4.8% anhydrous lactose, which amounts to about 50% of the total solids of skimmed milk. Levels of lactose are dependent upon the type of milk as other carbohydrates can be present at higher concentrations than lactose in milks.[91]
+molecule being broken down into glucose (2) and galactose (1)]] Milk contains several different carbohydrate including lactose, glucose, galactose, and other oligosaccharides. The lactose gives milk its sweet taste and contributes approximately 40% of whole cow's milk's calories. Lactose is a disaccharide composite of two simple sugars, glucose and galactose. Bovine milk averages 4.8% anhydrous lactose, which amounts to about 50% of the total solids of skimmed milk. Levels of lactose are dependent upon the type of milk as other carbohydrates can be present at higher concentrations than lactose in milks.[91]
 
 Miscellaneous contents
 
@@ -311,7 +311,7 @@ Both the fat globules and the smaller casein micelles, which are just large enou
 
 Processing
 
-Milkproducts_v2.svg In most Western countries, centralized dairy facilities process milk and products obtained from milk, such as cream, butter, and cheese. In the U.S., these dairies usually are local companies, while in the Southern Hemisphere facilities may be run by large multi-national corporations such as Fonterra.
+In most Western countries, centralized dairy facilities process milk and products obtained from milk, such as cream, butter, and cheese. In the U.S., these dairies usually are local companies, while in the Southern Hemisphere facilities may be run by large multi-national corporations such as Fonterra.
 
 Pasteurization
 
@@ -327,7 +327,7 @@ Ultrafiltration uses finer filters than microfiltration, which allow lactose and
 
 Creaming and homogenization
 
-Cow_milking_machine_in_action_DSC04132.jpg Upon standing for 12 to 24 hours, fresh milk has a tendency to separate into a high-fat cream layer on top of a larger, low-fat milk layer. The cream often is sold as a separate product with its own uses. Today the separation of the cream from the milk usually is accomplished rapidly in centrifugal cream separators. The fat globules rise to the top of a container of milk because fat is less dense than water. The smaller the globules, the more other molecular-level forces prevent this from happening. In fact, the cream rises in cow's milk much more quickly than a simple model would predict: rather than isolated globules, the fat in the milk tends to form into clusters containing about a million globules, held together by a number of minor whey proteins.[104] These clusters rise faster than individual globules can. The fat globules in milk from goats, sheep, and water buffalo do not form clusters as readily and are smaller to begin with, resulting in a slower separation of cream from these milks.[105]
+Upon standing for 12 to 24 hours, fresh milk has a tendency to separate into a high-fat cream layer on top of a larger, low-fat milk layer. The cream often is sold as a separate product with its own uses. Today the separation of the cream from the milk usually is accomplished rapidly in centrifugal cream separators. The fat globules rise to the top of a container of milk because fat is less dense than water. The smaller the globules, the more other molecular-level forces prevent this from happening. In fact, the cream rises in cow's milk much more quickly than a simple model would predict: rather than isolated globules, the fat in the milk tends to form into clusters containing about a million globules, held together by a number of minor whey proteins.[104] These clusters rise faster than individual globules can. The fat globules in milk from goats, sheep, and water buffalo do not form clusters as readily and are smaller to begin with, resulting in a slower separation of cream from these milks.[105]
 
 Milk often is homogenized, a treatment that prevents a cream layer from separating out of the milk. The milk is pumped at high pressures through very narrow tubes, breaking up the fat globules through turbulence and cavitation.[106] A greater number of smaller particles possess more total surface area than a smaller number of larger ones, and the original fat globule membranes cannot completely cover them. Casein micelles are attracted to the newly exposed fat surfaces. Nearly one-third of the micelles in the milk end up participating in this new membrane structure. The casein weighs down the globules and interferes with the clustering that accelerated separation. The exposed fat globules are vulnerable to certain enzymes present in milk, which could break down the fats and produce rancid flavors. To prevent this, the enzymes are inactivated by pasteurizing the milk immediately before or during homogenization.
 
@@ -486,7 +486,7 @@ Milk production is also resource intensive. On a global weighted average, for th
 
 Varieties and brands
 
-Dairy_Crest_Semi_Skimmed_Milk_Bottle.jpg Milk products are sold in a number of varieties based on types/degrees of:
+Milk products are sold in a number of varieties based on types/degrees of:
 
 -   additives (e.g. vitamins, flavorings)
 -   age (e.g. cheddar, old cheddar)
@@ -527,7 +527,7 @@ Milk often has flavoring added to it for better taste or as a means of improving
 
 Distribution
 
-Glass_milk_bottles.jpgs, used for home delivery service in the UK]] Milk-bottle.jpg of non-homogenized, organic, local milk from the U.S. state of California. American milk bottles are generally rectangular in shape]] Kirkland_Milk_Jug.JPG design used by Costco and Sam's Club stores in the United States which allows for stacking and display of filled containers rather than being shipped to the store in milk crates and manual loading into a freezer display rack]]
+s, used for home delivery service in the UK]] of non-homogenized, organic, local milk from the U.S. state of California. American milk bottles are generally rectangular in shape]] design used by Costco and Sam's Club stores in the United States which allows for stacking and display of filled containers rather than being shipped to the store in milk crates and manual loading into a freezer display rack]]
 
 Due to the short shelf life of normal milk, it used to be delivered to households daily in many countries; however, improved refrigeration at home, changing food shopping patterns because of supermarkets, and the higher cost of home delivery mean that daily deliveries by a milkman are no longer available in most countries.
 
@@ -557,7 +557,7 @@ Almost 95% of all milk in the UK is thus sold in shops today, most of it in plas
 
 United States
 
-TotallyFreeImages_com-421312-Standard-preview.jpg In the United States, glass milk bottles have been replaced mostly with milk cartons and plastic jugs. Gallons of milk are almost always sold in jugs, while half gallons and quarts may be found in both paper cartons and plastic jugs, and smaller sizes are almost always in cartons.
+In the United States, glass milk bottles have been replaced mostly with milk cartons and plastic jugs. Gallons of milk are almost always sold in jugs, while half gallons and quarts may be found in both paper cartons and plastic jugs, and smaller sizes are almost always in cartons.
 
 The "half pint" () milk carton is the traditional unit as a component of school lunches, though some companies have replaced that unit size with a plastic bottle, which is also available at retail in 6- and 12-pack size.
 
@@ -612,8 +612,6 @@ Indonesia
 
 Israel
 
-Israeli_Milk_Bag.jpg
-
     Non-UHT milk is most commonly sold in 1 liter waxed cardboard boxes and 1 liter plastic bags. It may also be found in 1.5 L and 2 L waxed cardboard boxes, 2 L plastic jugs and 1 L plastic bottles. UHT milk is available in 1 liter (and less commonly also in 0.5 L) carton "bricks".
 
 Japan
@@ -639,8 +637,6 @@ South Korea
 
 Sweden
 
-Mejeriprodukter_i_Skånsk_butik.jpg
-
     Commonly sold in 0.3 L, 1 L or 1.5 L cartons and sometimes as plastic or glass milk bottles.
 
 Turkey
@@ -659,7 +655,7 @@ Practically everywhere, condensed milk and evaporated milk are distributed in me
 
 Spoilage and fermented milk products
 
-Yakult_brazil.jpg, a probiotic milk-like product made by fermenting a mixture of skimmed milk with a special strain of the bacterium _Lactobacillus casei Shirota_]] Kipsigis_Gourd.jpg to prepare a local version of fermented milk called mursik[199] ]]
+, a probiotic milk-like product made by fermenting a mixture of skimmed milk with a special strain of the bacterium _Lactobacillus casei Shirota_]] to prepare a local version of fermented milk called mursik[199] ]]
 
 When raw milk is left standing for a while, it turns "sour". This is the result of fermentation, where lactic acid bacteria ferment the lactose in the milk into lactic acid. Prolonged fermentation may render the milk unpleasant to consume. This fermentation process is exploited by the introduction of bacterial cultures (e.g. _Lactobacilli sp., Streptococcus sp., Leuconostoc sp._, etc.) to produce a variety of fermented milk products. The reduced pH from lactic acid accumulation denatures proteins and causes the milk to undergo a variety of different transformations in appearance and texture, ranging from an aggregate to smooth consistency. Some of these products include sour cream, yogurt, cheese, buttermilk, viili, kefir, and kumis. _See Dairy product_ for more information.
 
@@ -672,12 +668,12 @@ Freezing of milk can cause fat globule aggregation upon thawing, resulting in mi
 
 Use in other food products
 
-Steamed_milk.jpg is used in a variety of espresso-based coffee beverages.]] Milk is used to make yogurt, cheese, ice milk, pudding, hot chocolate and french toast. Milk is often added to dry breakfast cereal, porridge and granola. Milk is often served in coffee and tea. Steamed milk is used to prepare espresso-based drinks such as cafe latte.
+is used in a variety of espresso-based coffee beverages.]] Milk is used to make yogurt, cheese, ice milk, pudding, hot chocolate and french toast. Milk is often added to dry breakfast cereal, porridge and granola. Milk is often served in coffee and tea. Steamed milk is used to prepare espresso-based drinks such as cafe latte.
 
 
 Language and culture
 
-From_Abhisheka_To_Panchamrutha.jpg ritual in Agara, Bangalore Rural District, Karnataka]] The importance of milk in human culture is attested to by the numerous expressions embedded in our languages, for example, "the milk of human kindness", the expression "there's no use crying over spilt milk" (which means don't "be unhappy about what cannot be undone"), "don't milk the ram" (this means "to do or attempt something futile") and "Why buy a cow when you can get milk for free?" (which means "why pay for something that you can get for free otherwise").[204]
+ritual in Agara, Bangalore Rural District, Karnataka]] The importance of milk in human culture is attested to by the numerous expressions embedded in our languages, for example, "the milk of human kindness", the expression "there's no use crying over spilt milk" (which means don't "be unhappy about what cannot be undone"), "don't milk the ram" (this means "to do or attempt something futile") and "Why buy a cow when you can get milk for free?" (which means "why pay for something that you can get for free otherwise").[204]
 
 In Greek mythology, the Milky Way was formed after the trickster god Hermes suckled the infant Heracles at the breast of Hera, the queen of the gods, while she was asleep.[205][206] When Hera awoke, she tore Heracles away from her breast and splattered her breast milk across the heavens.[207][208] In another version of the story, Athena, the patron goddess of heroes, tricked Hera into suckling Heracles voluntarily,[209][210] but he bit her nipple so hard that she flung him away, spraying milk everywhere.[211][212]
 

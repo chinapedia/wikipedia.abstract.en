@@ -28,7 +28,7 @@ After appearing in the TV series _Neighbours_ and _Living with the Law,_ Crowe w
 
 North America
 
-Russell_Crowe_1999.jpg, 1999]] After initial success in Australia, Crowe first starred in a Canadian production in 1993, _For the Moment_, before concentrating on American films. He co-starred with Denzel Washington in _Virtuosity_ (the duo later appearing together in American Gangster) and with Sharon Stone in _The Quick and the Dead_ in 1995.[35] He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2000 for _Gladiator_.[36] Crowe was awarded the (Australian) Centenary Medal in 2001 for "service to Australian society and Australian film production."[37]
+, 1999]] After initial success in Australia, Crowe first starred in a Canadian production in 1993, _For the Moment_, before concentrating on American films. He co-starred with Denzel Washington in _Virtuosity_ (the duo later appearing together in American Gangster) and with Sharon Stone in _The Quick and the Dead_ in 1995.[35] He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2000 for _Gladiator_.[36] Crowe was awarded the (Australian) Centenary Medal in 2001 for "service to Australian society and Australian film production."[37]
 
 Crowe received three consecutive best actor Oscar nominations, for _The Insider_, _Gladiator_ and _A Beautiful Mind_.[38] Crowe won the best actor award for _A Beautiful Mind_ at the 2002 BAFTA award ceremony, as well as the Golden Globe and Screen Actors Guild Award for the same performance. Although nominated for an Academy Award, he lost to Denzel Washington.
 
@@ -41,7 +41,7 @@ After a year off from acting, Crowe played Jackknife in _The Man with the Iron F
 
 Music
 
-Russell_Crowe_cropped.JPG night at O'Reilly's Pub in St. John's, Newfoundland. 13 June 2005]] In the 1980s, Crowe, under the name of "Russ le Roq", recorded a song titled "I Want To Be Like Marlon Brando".[48]
+night at O'Reilly's Pub in St. John's, Newfoundland. 13 June 2005]] In the 1980s, Crowe, under the name of "Russ le Roq", recorded a song titled "I Want To Be Like Marlon Brando".[48]
 
 In the 1980s, Crowe and friend Billy Dean Cochran formed a band, Roman Antix, which later evolved into the Australian rock band 30 Odd Foot of Grunts (abbreviated to TOFOG). Crowe performed lead vocals and guitar for the band, which formed in 1992. The band released _The Photograph Kills EP_ in 1995, as well as three full-length records, _Gaslight_ (1998), _Bastard Life or Clarity_ (2001) and _Other Ways of Speaking_ (2003). In 2000, TOFOG performed shows in London, Los Angeles and the now famous run of shows at Stubbs in Austin, Texas which became a live DVD that was released in 2001, called _Texas_. In 2001, the band came to the US for major press, radio and TV appearances for the _Bastard Life or Clarity_ release and returned to Stubbs in Austin, Texas to kick off a sold out US tour with dates in Austin, Boulder, Chicago, Portland, San Francisco, Hollywood, Philadelphia, New York City and the last show at the famous Stone Pony in Asbury Park, New Jersey.
 
@@ -54,14 +54,14 @@ On 2 August 2011, the third collaboration between Crowe and Doyle was released o
 
 Philanthropy
 
-Crowe1.JPG donated by The Crowe Family in Centennial Park, New South Wales]] During location filming of _Cinderella Man_, Crowe made a donation to a Jewish elementary school whose library had been damaged as a result of arson.[53] A note with an anti-Semitic message had been left at the scene.[54] Crowe called school officials to express his concern and wanted his message relayed to the students.[55] The school's building fund received donations from throughout Canada and the amount of Crowe's donation was not disclosed.[56]
+donated by The Crowe Family in Centennial Park, New South Wales]] During location filming of _Cinderella Man_, Crowe made a donation to a Jewish elementary school whose library had been damaged as a result of arson.[53] A note with an anti-Semitic message had been left at the scene.[54] Crowe called school officials to express his concern and wanted his message relayed to the students.[55] The school's building fund received donations from throughout Canada and the amount of Crowe's donation was not disclosed.[56]
 
 On another occasion, Crowe donated $200,000 to a struggling primary school near his home in rural Australia. The money went towards an $800,000 project to construct a swimming pool at the school. Crowe's sympathies were sparked when a pupil drowned at the nearby Coffs Harbour beach in 2001, and he felt the pool would help students become better swimmers and improve their water safety. At the opening ceremony, he dived into the pool fully clothed as soon as it was declared open. Nana Glen principal Laurie Renshall said, "The many things he does up here, people just don't know about. We've been trying to get a pool for 10 years."[57]
 
 
 Personal life
 
-Russell_Crowe_Danielle_Spencer_Sept_14_2011.jpg in September 2011]]
+in September 2011]]
 
 Crowe began an on-again, off-again relationship with Australian singer Danielle Spencer in 1989, when they co-starred in the 1990 film _The Crossing_.[58] In 2000, Crowe was romantically involved with his co-star Meg Ryan (who was married to Dennis Quaid) while on the set of their film _Proof of Life_.[59] Crowe and Spencer reconciled in 2001, and married in April 2003 (on Crowe's 39th birthday) at his cattle property in Nana Glen, New South Wales.[60][61] They have two sons: Charles Spencer Crowe, born December 21, 2003[62] and Tennyson Spencer Crowe, born 7 July 2006.[63] In October 2012, it was reported that Crowe and Spencer had separated;[64][65] they divorced in April 2018.[66]
 
@@ -77,7 +77,7 @@ On 9 March 2005, Crowe revealed to _GQ_ magazine that Federal Bureau of Investig
 
 Altercations and controversies
 
-Russell_crowe_nypd.jpg in handcuffs on a perp walk to his arraignment for the phone throwing incident. 6 June 2005]] Between 1999 and 2005 Crowe was involved in four altercations, which gave him a reputation for having a bad temper.[76]
+in handcuffs on a perp walk to his arraignment for the phone throwing incident. 6 June 2005]] Between 1999 and 2005 Crowe was involved in four altercations, which gave him a reputation for having a bad temper.[76]
 
 In 1999, Crowe was involved in a scuffle at the Plantation Hotel in Coffs Harbour, Australia, which was caught on security video.[77] Two men were acquitted of using the video in an attempt to blackmail Crowe.[78]
 
@@ -92,7 +92,7 @@ The telephone incident had a generally negative impact on Crowe's public image, 
 
 Sport
 
-Russell_Crowe_North_Sydney_Bears.jpg game]]
+game]]
 
 Rugby league
 

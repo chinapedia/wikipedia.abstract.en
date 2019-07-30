@@ -37,7 +37,7 @@ Murray (1966) claims that the "ancient" Gaelic name was _Innis nan Druinich_ ("t
 
 Geography
 
-TyIonaBayAtTheBackOfTheOcean20030825r19f19.jpg]] upright=1.0 Iona lies about from the coast of Mull. It is about wide and long with a resident population of 125.[20] The geology of the island consists mainly of Precambrian Lewisian gneiss with Torridonian sedimentary rocks on the eastern side[21] and small outcrops of pink granite on the eastern beaches. Like other places swept by ocean breezes, there are few trees; most of them are near the parish church.
+]] upright=1.0 Iona lies about from the coast of Mull. It is about wide and long with a resident population of 125.[20] The geology of the island consists mainly of Precambrian Lewisian gneiss with Torridonian sedimentary rocks on the eastern side[21] and small outcrops of pink granite on the eastern beaches. Like other places swept by ocean breezes, there are few trees; most of them are near the parish church.
 
 Iona's highest point is Dùn Ì, , an Iron Age hill fort dating from 100 BC – AD 200. Iona's geographical features include the Bay at the Back of the Ocean and _Càrn Cùl ri Éirinn_ (the Hill/Cairn of [turning the] Back to Ireland), said to be adjacent to the beach where St. Columba first landed.
 
@@ -61,7 +61,7 @@ History
 
 Dál Riata
 
-KellsFol292rIncipJohn.jpg - Gospel of John]] In the early Historic Period Iona lay within the Gaelic kingdom of Dál Riata, in the region controlled by the Cenél Loairn (i.e. Lorn, as it was then). The island was the site of a highly important monastery (see Iona Abbey) during the Early Middle Ages. According to tradition the monastery was founded in 563 by the monk Columba, also known as Colm Cille, who had been exiled from his native Ireland as a result of his involvement in the Battle of Cul Dreimhne.[29] Columba and twelve companions went into exile on Iona and founded a monastery there. The monastery was hugely successful, and played a crucial role in the conversion to Christianity of the Picts of present-day Scotland in the late 6th century and of the Anglo-Saxon kingdom of Northumbria in 635. Many satellite institutions were founded, and Iona became the centre of one of the most important monastic systems in Great Britain and Ireland.[30]
+- Gospel of John]] In the early Historic Period Iona lay within the Gaelic kingdom of Dál Riata, in the region controlled by the Cenél Loairn (i.e. Lorn, as it was then). The island was the site of a highly important monastery (see Iona Abbey) during the Early Middle Ages. According to tradition the monastery was founded in 563 by the monk Columba, also known as Colm Cille, who had been exiled from his native Ireland as a result of his involvement in the Battle of Cul Dreimhne.[29] Columba and twelve companions went into exile on Iona and founded a monastery there. The monastery was hugely successful, and played a crucial role in the conversion to Christianity of the Picts of present-day Scotland in the late 6th century and of the Anglo-Saxon kingdom of Northumbria in 635. Many satellite institutions were founded, and Iona became the centre of one of the most important monastic systems in Great Britain and Ireland.[30]
 
 Iona became a renowned centre of learning, and its scriptorium produced highly important documents, probably including the original texts of the Iona Chronicle, thought to be the source for the early Irish annals.[31] The monastery is often associated with the distinctive practices and traditions known as Celtic Christianity. In particular, Iona was a major supporter of the "Celtic" system for calculating the date of Easter at the time of the Easter controversy, which pitted supporters of the Celtic system against those favoring the "Roman" system used elsewhere in Western Christianity. The controversy weakened Iona's ties to Northumbria, which adopted the Roman system at the Synod of Whitby in 664, and to Pictland, which followed suit in the early 8th century. Iona itself did not adopt the Roman system until 715, according to the Anglo-Saxon historian Bede. Iona's prominence was further diminished over the next centuries as a result of Viking raids and the rise of other powerful monasteries in the system, such as the Abbey of Kells.[32]
 
@@ -96,7 +96,7 @@ In the 19th century green-streaked marble was commercially mined in the south-ea
 
 Iona Abbey
 
-Iona_Abbey._Panorama.jpg Iona.showing.monasteries.jpg Iona Abbey, now an ecumenical church, is of particular historical and religious interest to pilgrims and visitors alike. It is the most elaborate and best-preserved ecclesiastical building surviving from the Middle Ages in the Western Isles of Scotland. Though modest in scale in comparison to medieval abbeys elsewhere in Western Europe, it has a wealth of fine architectural detail, and monuments of many periods. The 8th Duke of Argyll presented the sacred buildings and sites of the island to the Iona Cathedral trust in 1899.[45]
+Iona Abbey, now an ecumenical church, is of particular historical and religious interest to pilgrims and visitors alike. It is the most elaborate and best-preserved ecclesiastical building surviving from the Middle Ages in the Western Isles of Scotland. Though modest in scale in comparison to medieval abbeys elsewhere in Western Europe, it has a wealth of fine architectural detail, and monuments of many periods. The 8th Duke of Argyll presented the sacred buildings and sites of the island to the Iona Cathedral trust in 1899.[45]
 
 In front of the Abbey stands the 9th century St Martin's Cross, one of the best-preserved Celtic crosses in the British Isles, and a replica of the 8th century St John's Cross (original fragments in the Abbey museum).
 
@@ -119,7 +119,7 @@ Other early Christian and medieval monuments have been removed for preservation 
 
 Marble Quarry remains
 
-Marble_Quarry_Iona.jpg The remains of a marble quarrying enterprise can be seen in a small bay on the south-east shore of Iona.[48] The quarry is the source of ‘Iona Marble’, a beautiful translucent green and white stone, much used in brooches and other jewellery.[49] The stone has been known of for centuries and was credited with healing and other powers. While the quarry had been used in a small way, it was not until around the end of the C18 when it was opened up on a more industrial scale by the Duke of Argyle. [50] The then difficulties of extracting the hard stone and transporting it meant that the scheme was short lived. Another attempt was started in 1907, this time more successful with considerable quantities of stone extracted and indeed exported, but the First World War put paid to this as well, with little quarrying after 1914 and the operation finally closing in 1919. A painting showing the quarry in operation, _The Marble Quarry, Iona_ (1909) by David Young Cameron, is in the collection of Cartwright Hall art gallery in Bradford.[51]. Such is the site’s rarity that it has been designated as a Scheduled Ancient Monument.[52]
+The remains of a marble quarrying enterprise can be seen in a small bay on the south-east shore of Iona.[48] The quarry is the source of ‘Iona Marble’, a beautiful translucent green and white stone, much used in brooches and other jewellery.[49] The stone has been known of for centuries and was credited with healing and other powers. While the quarry had been used in a small way, it was not until around the end of the C18 when it was opened up on a more industrial scale by the Duke of Argyle. [50] The then difficulties of extracting the hard stone and transporting it meant that the scheme was short lived. Another attempt was started in 1907, this time more successful with considerable quantities of stone extracted and indeed exported, but the First World War put paid to this as well, with little quarrying after 1914 and the operation finally closing in 1919. A painting showing the quarry in operation, _The Marble Quarry, Iona_ (1909) by David Young Cameron, is in the collection of Cartwright Hall art gallery in Bradford.[51]. Such is the site’s rarity that it has been designated as a Scheduled Ancient Monument.[52]
 
 
 Present day
@@ -128,7 +128,7 @@ The island, other than the land owned by the Iona Cathedral Trust, was purchased
 
 Iona Community
 
-Iona_Village_from_seawards.jpg Not to be confused with the local island community, Iona (Abbey) Community are based within Iona Abbey.
+Not to be confused with the local island community, Iona (Abbey) Community are based within Iona Abbey.
 
 In 1938 George MacLeod founded the Iona Community, an ecumenical Christian community of men and women from different walks of life and different traditions in the Christian church committed to seeking new ways of living the Gospel of Jesus in today's world. This community is a leading force in the present Celtic Christian revival.
 

@@ -14,8 +14,6 @@ Some time in the early 1970s, he began using "Al-Fayed" rather than "Fayed". His
 
 United Kingdom
 
-Mohammed_Al-Fayed,_Madame_Tussauds.jpg
-
 Early business dealings
 
 Fayed and his brothers founded a shipping company in Egypt before moving its headquarters to Genoa, Italy with offices in London. Around 1964 Fayed entered a close relationship with Haitian leader François Duvalier, known as 'Papa Doc' Duvalier, and became interested in the construction of a Fayed-Duvalier oil refinery in Haiti. He also associated with the geologist George de Mohrenschildt. Fayed terminated his stay in Haiti six months later when a sample of "crude oil" provided by Haitian associates proved to be low-grade molasses.[10]
@@ -104,7 +102,7 @@ Al-Fayed financially supported _Unlawful Killing_ (2011), a documentary film acc
 
 Business interests
 
-75_Rockefeller_Plaza_by_David_Shankbone.jpg Al-Fayed's business interests include:
+Al-Fayed's business interests include:
 
 -   Hôtel Ritz Paris
 -   Balnagowan Castle & Estates

@@ -51,8 +51,6 @@ The Moroccan Royal Gendarmerie is the Gendarmerie body of Morocco, the legislati
 
 History of participation in peacekeeping operations
 
-M16A4_AIM_Iraq.jpg
-
 1960–1961
 
 Somalia 1992–1994

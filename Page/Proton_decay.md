@@ -1,4 +1,4 @@
-Proton_decay.svgs, weak hypercharges, and color charges for particles in the Georgi–Glashow model. Here, a proton, consisting of two up quarks and a down, decays into a pion, consisting of an up and anti-up, and a positron, via an X boson with electric charge −⁴_/_₃.]]
+s, weak hypercharges, and color charges for particles in the Georgi–Glashow model. Here, a proton, consisting of two up quarks and a down, decays into a pion, consisting of an up and anti-up, and a positron, via an X boson with electric charge −⁴_/_₃.]]
 
 In particle physics, PROTON DECAY is a hypothetical form of particle decay in which the proton decays into lighter subatomic particles, such as a neutral pion and a positron.[1] The proton decay hypothesis was first formulated by Andrei Sakharov in 1967. Despite significant experimental effort, proton decay has never been observed. If it does decay via a positron, the proton's half-life is constrained to be at least years.[2]
 
@@ -79,8 +79,6 @@ Dimension-5 proton decay operators
 In supersymmetric extensions (such as the MSSM), we can also have dimension-5 operators involving two fermions and two sfermions caused by the exchange of a tripletino of mass _M_. The sfermions will then exchange a gaugino or Higgsino or gravitino leaving two fermions. The overall Feynman diagram has a loop (and other complications due to strong interaction physics). This decay rate is suppressed by $\frac{1}{M M_{SUSY}}$ where _M__(SUSY) is the mass scale of the superpartners.
 
 Dimension-4 proton decay operators
-
-R-parity_violating_decay.svg
 
 In the absence of matter parity, supersymmetric extensions of the Standard Model can give rise to the last operator suppressed by the inverse square of sdown quark mass. This is due to the dimension-4 operators ^(c) and ^(c)^(c)^(c).
 

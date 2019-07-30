@@ -30,7 +30,7 @@ Sometime during the initial uprising, Lindh was shot in the right upper thigh an
 
 Shortly after his recapture, Lindh was noticed and interviewed by Pelton, who was working as a stringer for CNN. Lindh initially gave his name as "Abd-al-Hamid" but later gave his birth name. Pelton brought a medic and food for Lindh and interviewed him about how he got there. During the interview, Lindh said that he was a member of al-Ansar, a group of Arabic-speaking fighters financed by Osama bin Laden. Lindh said that the prison uprising was sparked by some of the prisoner guards smuggling grenades into the basement: "This is against what we had agreed upon with the Northern Alliance, and this is against Islam. It is a major sin to break a contract, especially in military situations".[35] A U.S. Army Special Forces operator, fresh from three weeks of combat, gave up his bed so that the wounded Lindh could sleep there.[36][37][38][39] Pelton repeatedly asked Lindh if he wanted to call his parents or have the journalist do so, but Lindh declined.
 
-John_Walker_Lindh_Custody.jpg]]
+]]
 
 After capture, Lindh was given basic first aid and questioned for a week at Mazār-e Sharīf. He was taken to Camp Rhino on December 7, 2001, the bullet still within his thigh.[40][41] When Lindh arrived at Camp Rhino, he was stripped and restrained on a stretcher, blindfolded and placed in a metal shipping container, which was procedure for dealing with a potentially dangerous detainee associated with a terrorist organization.[42] While bound to the stretcher, he was photographed by some American military personnel.[43] At Camp Rhino, he was given oxycodone/paracetamol for pain and diazepam.[44]
 

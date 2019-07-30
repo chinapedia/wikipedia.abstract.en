@@ -52,7 +52,7 @@ Political parties and elections
 
 Judicial branch
 
-Malta_Valletta_BW_2011-10-07_10-41-05.JPG in Valletta]] The Judicial system in Malta comprises Inferior Courts, Civil and Criminal Courts of Appeal, and a Constitutional Court.[3] Inferior courts are presided over by a Magistrates which have original jurisdiction in criminal and civil actions. In the Criminal Courts, the presiding judge sits with a jury of nine. The Court of Appeal and the Court of Criminal Appeal hear appeals from decisions of the civil and criminal actions respectively.
+in Valletta]] The Judicial system in Malta comprises Inferior Courts, Civil and Criminal Courts of Appeal, and a Constitutional Court.[3] Inferior courts are presided over by a Magistrates which have original jurisdiction in criminal and civil actions. In the Criminal Courts, the presiding judge sits with a jury of nine. The Court of Appeal and the Court of Criminal Appeal hear appeals from decisions of the civil and criminal actions respectively.
 
 The highest court, the Constitutional Court, has both original and appellate jurisdiction. In its appellate jurisdiction it adjudicates cases involving violations of human rights and interpretation of the Constitution. It can also perform judicial review. In its original jurisdiction it has jurisdiction over disputed parliamentary elections and electoral corrupt practices.
 

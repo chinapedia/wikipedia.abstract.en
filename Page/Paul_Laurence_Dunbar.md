@@ -37,7 +37,7 @@ By the late 1890s, Dunbar started to explore the short story and novel forms; in
 
 Later work
 
-Paul_Laurence_Dunbar.jpg Dunbar was prolific during his relatively short career: he wrote a dozen books of poetry, four books of short stories, four novels, lyrics for a musical, and a play.
+Dunbar was prolific during his relatively short career: he wrote a dozen books of poetry, four books of short stories, four novels, lyrics for a musical, and a play.
 
 His first collection of short stories, _Folks From Dixie_ (1898), a sometimes "harsh examination of racial prejudice", had favorable reviews.[23]
 
@@ -55,7 +55,7 @@ Dunbar was active in the area of civil rights and the uplifting of African Ameri
 
 Marriage and declining health
 
-Paul_Laurence_Dunbar_Gravestone.JPG After returning from the United Kingdom, Dunbar married Alice Ruth Moore, on March 6, 1898. She was a teacher and poet from New Orleans whom he had met three years earlier.[33] Dunbar called her "the sweetest, smartest little girl I ever saw".[34] A graduate of Straight University (now Dillard University), a historically black college, Moore is best known for her short story collection, _Violets_. She and her husband also wrote books of poetry as companion pieces. An account of their love, life and marriage was portrayed in _Oak and Ivy,_ a 2001 play by Kathleen McGhee-Anderson.[35]
+After returning from the United Kingdom, Dunbar married Alice Ruth Moore, on March 6, 1898. She was a teacher and poet from New Orleans whom he had met three years earlier.[33] Dunbar called her "the sweetest, smartest little girl I ever saw".[34] A graduate of Straight University (now Dillard University), a historically black college, Moore is best known for her short story collection, _Violets_. She and her husband also wrote books of poetry as companion pieces. An account of their love, life and marriage was portrayed in _Oak and Ivy,_ a 2001 play by Kathleen McGhee-Anderson.[35]
 
 In October 1897 Dunbar took a job at the Library of Congress in Washington, DC. He and his wife moved to the capital, where they lived in the comfortable LeDroit Park neighborhood. At the urging of his wife, Dunbar soon left the job to focus on his writing, which he promoted through public readings.
 
@@ -101,7 +101,7 @@ Two brief examples of Dunbar's work, the first in standard English and the secon
 
 Critical response and legacy
 
-Pauldunbar.jpg Dunbar became the first African-American poet to earn national distinction and acceptance. _The New York Times_ called him "a true singer of the people – white or black."[42] Frederick Douglass once referred to Dunbar as, "one of the sweetest songsters his race has produced and a man of whom [he hoped] great things."[43]
+Dunbar became the first African-American poet to earn national distinction and acceptance. _The New York Times_ called him "a true singer of the people – white or black."[42] Frederick Douglass once referred to Dunbar as, "one of the sweetest songsters his race has produced and a man of whom [he hoped] great things."[43]
 
 His friend and writer James Weldon Johnson highly praised Dunbar, writing in _The Book of American Negro Poetry:_
 
@@ -115,8 +115,6 @@ Maya Angelou titled her autobiography, _I Know Why the Caged Bird Sings_ (1969),
 
 
 Bibliography
-
-Dunbar_poems_book.jpeg
 
 Works of poetry
 

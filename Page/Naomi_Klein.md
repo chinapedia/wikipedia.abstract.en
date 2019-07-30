@@ -31,7 +31,7 @@ In 1999, Klein published the book _No Logo_, which for many became a manifesto o
 
 _Fences and Windows_
 
-Naomi_Klein_speaking_at_LSE,_14th_October_2002.jpg Klein's _Fences and Windows_ (2002) is a collection of her articles and speeches written on behalf of the anti-globalization movement (all proceeds from the book go to benefit activist organizations through The Fences and Windows Fund).[28]
+Klein's _Fences and Windows_ (2002) is a collection of her articles and speeches written on behalf of the anti-globalization movement (all proceeds from the book go to benefit activist organizations through The Fences and Windows Fund).[28]
 
 _The Take_
 
@@ -41,7 +41,7 @@ An article in _Z Communications_ criticized _The Take_ for its portrayal of the 
 
 _The Shock Doctrine_
 
-Naomi_Klein_Warsaw_Nov._19_2008_Fot_Mariusz_Kubik_03.jpg Klein's third book, _The Shock Doctrine: The Rise of Disaster Capitalism_, was published on September 4, 2007. The book argues that the free market policies of Nobel Laureate Milton Friedman and the Chicago School of Economics have risen to prominence in countries such as Chile, under Pinochet, Poland, Russia, under Yeltsin. The book also argues that policy initiatives (for instance, the privatization of Iraq's economy under the Coalition Provisional Authority) were rushed through while the citizens of these countries were in shock from disasters, upheavals, or invasion. The book became an international and _New York Times_ bestseller[31] and was translated into 28 languages.[32]
+Klein's third book, _The Shock Doctrine: The Rise of Disaster Capitalism_, was published on September 4, 2007. The book argues that the free market policies of Nobel Laureate Milton Friedman and the Chicago School of Economics have risen to prominence in countries such as Chile, under Pinochet, Poland, Russia, under Yeltsin. The book also argues that policy initiatives (for instance, the privatization of Iraq's economy under the Coalition Provisional Authority) were rushed through while the citizens of these countries were in shock from disasters, upheavals, or invasion. The book became an international and _New York Times_ bestseller[31] and was translated into 28 languages.[32]
 
 Central to the book's thesis is the contention that those who wish to implement unpopular free market policies now routinely do so by taking advantage of certain features of the aftermath of major disasters, be they economic, political, military or natural. The suggestion is that when a society experiences a major 'shock' there is a widespread desire for a rapid and decisive response to correct the situation; this desire for bold and immediate action provides an opportunity for unscrupulous actors to implement policies which go far beyond a legitimate response to disaster. The book suggests that when the rush to act means the specifics of a response will go unscrutinized, that is the moment when unpopular and unrelated policies will intentionally be rushed into effect. The book appears to claim that these shocks are in some cases intentionally encouraged or even manufactured.
 
@@ -91,8 +91,6 @@ Klein was also a spokesperson for the protest against the spotlight on Tel Aviv 
 
 Environmentalism
 
-Nation_150th_in_Seattle_-_Naomi_Klein_05A_(22198412286)_(2).jpg
-
 Since 2009, Klein's attention has turned to environmentalism, with particular focus on climate change, the subject of her book _This Changes Everything_ (2014).[66] According to her website, the book and its accompanying film (released in 2015) will be about "how the climate crisis can spur economic and political transformation."[67] She sits on the board of directors of campaign group 350.org[68] and took part in their "Do the Math" tour in 2013, encouraging a divestment movement.[69]
 
 She has encouraged the Occupy movement to join forces with the environmental movement, saying the financial crisis and the climate crisis have the same root—unrestrained corporate greed.[70] She gave a speech at Occupy Wall Street where she described the world as "upside down", where we act as if "there is no end to what is actually finite—fossil fuels and the atmospheric space to absorb their emissions," and as if there are "limits to what is actually bountiful—the financial resources to build the kind of society we need."[71]
@@ -108,7 +106,7 @@ On November 9, 2016, following the election of Donald Trump as the 45th Presiden
 
 Other activities
 
-Naomi_Klein_Occupy_Wall_Street_2011_Shankbone_2.JPG Klein contributes to _The Nation_, _In These Times_, _The Globe and Mail_, _This Magazine_, _Harper's Magazine_, and _The Guardian_, and is a senior contributor for _The Intercept_.[80] She is a former Miliband Fellow and lectured at the London School of Economics on the anti-globalization movement.[81] Her appointment as the inaugural Gloria Steinem Endowed Chair in Media, Culture and Feminist Studies at Rutgers University-New Brunswick began in October 2018 and runs for 3 years.[82] The position is funded by foundations, endowments and individuals.
+Klein contributes to _The Nation_, _In These Times_, _The Globe and Mail_, _This Magazine_, _Harper's Magazine_, and _The Guardian_, and is a senior contributor for _The Intercept_.[80] She is a former Miliband Fellow and lectured at the London School of Economics on the anti-globalization movement.[81] Her appointment as the inaugural Gloria Steinem Endowed Chair in Media, Culture and Feminist Studies at Rutgers University-New Brunswick began in October 2018 and runs for 3 years.[82] The position is funded by foundations, endowments and individuals.
 
 Klein ranked 11th in an internet poll of the top global intellectuals of 2005, a list of the world's top 100 public intellectuals compiled by the _Prospect_ magazine in conjunction with _Foreign Policy_ magazine.[83] She was involved in 2010 G-20 Toronto summit protests, condemning police force and brutality. She spoke to a rally seeking the release of protesters in front of police headquarters on June 28, 2010.[84]
 

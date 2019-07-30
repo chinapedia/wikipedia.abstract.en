@@ -24,8 +24,6 @@ The numerous works of Allix were in French, Latin, and English. They are chiefly
 -   _Dissertatio de Conciliorum quorumvis definitionibus ad examen revocandis_, 1680.
 -   _Anastasii Sinaiticæ anagogicarum contemplationum in Hexahemeron lib. xii._ 1682.
 
-Allix_Examination_of_the_Scruples.jpg
-
 -   _Défense de la Réformation, sermon sur Jeremie v. 16, prononcé à Charenton en 1682._
 -   _Douze Sermons de P. A. sur divers textes_, 1685.
 -   _Determinatio F. Joannis Parisiensis de modo existendi corporis Christi in sacramento altaris_, 1686 (arguing that the Church of Rome did not hold transubstantiation before the Council of Trent).

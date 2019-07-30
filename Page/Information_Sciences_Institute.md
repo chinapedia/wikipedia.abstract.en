@@ -1,5 +1,3 @@
-Icannheadquarters.jpg
-
 The USC INFORMATION SCIENCES INSTITUTE (ISI) is a component of the University of Southern California (USC) Viterbi School of Engineering, and specializes in research and development in information processing, computing, and communications technologies. It is located in Marina del Rey, California.[1]
 
 ISI actively participated in the information revolution, and it played a leading role in developing and managing the early Internet and its predecessor ARPAnet.[2][3][4] The Institute conducts basic and applied research supported by more than 20 U.S. GOVERNMENT AGENCIES involved in defense, science, health, homeland security, energy and other areas. Annual funding is about $100 million.[5]

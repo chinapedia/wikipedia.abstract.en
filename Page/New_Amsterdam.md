@@ -1,4 +1,4 @@
-CastelloPlanOriginal.jpg, from 1660 (the bottom left corner is approximately south, while the top right corner is approximately north)]]
+, from 1660 (the bottom left corner is approximately south, while the top right corner is approximately north)]]
 
 NEW AMSTERDAM (, or ) was a 17th-century Dutch settlement established at the southern tip of Manhattan Island that served as the seat of the colonial government in New Netherland. The _factorij_ became a settlement outside Fort Amsterdam. The fort was situated on the strategic southern tip of the island of Manhattan and was meant to defend the fur trade operations of the Dutch West India Company in the North River (Hudson River). In 1624, it became a provincial extension of the Dutch Republic and was designated as the capital of the province in 1625.
 
@@ -11,8 +11,6 @@ History
 
 Early settlement (1609–1625)
 
-Rigging_House_motif.jpg
-
 In 1524, nearly a century before the arrival of the Dutch, the site that later became New Amsterdam was named New Angoulême by the Italian explorer Giovanni da Verrazzano, to commemorate his patron King Francis I of France, former Count of Angoulême.[3] The first recorded exploration by the Dutch of the area around what is now called New York Bay was in 1609 with the voyage of the ship _Halve Maen_ (English: "Half Moon"), captained by Henry Hudson[4] in the service of the Dutch Republic, as the emissary of Maurice of Nassau, Prince of Orange, Holland's stadholder. Hudson named the river the Mauritius River. He was covertly attempting to find the Northwest Passage for the Dutch East India Company. Instead, he brought back news about the possibility of exploitation of beaver by the Dutch who sent commercial, private missions to the area the following years.
 
 At the time, beaver pelts were highly prized in Europe, because the fur could be felted to make waterproof hats. A by-product of the trade in beaver pelts was castoreum—the secretion of the animals' anal glands—which was used for its medicinal properties and for perfumes. The expeditions by Adriaen Block and Hendrick Christiaensen in 1611, 1612, 1613 and 1614, resulted in the surveying and charting of the region from the 38th parallel to the 45th parallel.[5] On their 1614 map, which gave them a four-year trade monopoly under a patent of the States General, they named the newly discovered and mapped territory New Netherland for the first time. It also showed the first year-round trading presence in New Netherland, Fort Nassau, which would be replaced in 1624 by Fort Orange, which eventually grew into the town of Beverwijck, now Albany.
@@ -23,7 +21,7 @@ The territory of New Netherland was originally a private, profit-making commerci
 
 Pilgrims' attempt to settle in the Hudson River area
 
-Mayflower_in_Plymouth_Harbor,_by_William_Halsall.jpg'' sailing from England to America in 1620, in Plymouth Harbor]]
+'' sailing from England to America in 1620, in Plymouth Harbor]]
 
 In 1620 the Pilgrims attempted to sail to the Hudson River from England. However, the _Mayflower_ reached Cape Cod (now part of Massachusetts) on November 9, 1620, after a voyage of 64 days.[8] For a variety of reasons, primarily a shortage of supplies, the _Mayflower_ could not proceed to the Hudson River, and the colonists decided to settle near Cape Cod, establishing the Plymouth Colony.
 
@@ -37,7 +35,7 @@ A fort and sawmill were soon erected at Nut Island. The latter was constructed b
 
 Fort Amsterdam (1624)
 
-Blaeu_-_Nova_Belgica_et_Anglia_Nova_(Detail_Hudson_Area).png c. 1635 (north is to the right)]]
+c. 1635 (north is to the right)]]
 
 The threat of attack from other European colonial powers prompted the directors of the Dutch West India Company to formulate a plan to protect the entrance to the Hudson River. In 1624, 30 families were sponsored by Dutch West India Company moving from Nut Island to Manhattan Island, where a citadel to contain Fort Amsterdam was being laid out by Cryn Frederickz van Lobbrecht at the direction of Willem Verhulst. By the end of 1625, the site had been staked out directly south of Bowling Green on the site of the present U.S. Custom House. The Mohawk-Mahican War in the Hudson Valley led the company to relocate even more settlers to the vicinity of the new Fort Amsterdam. In the end, colonizing was a prohibitively expensive undertaking, only partly subsidized by the fur trade. This led to a scaling back of the original plans. By 1628, a smaller fort was constructed with walls containing a mixture of clay and sand.
 
@@ -45,7 +43,7 @@ The fort also served as the center of trading activity. It contained a barracks,
 
 1624–1664
 
-First_Slave_Auction_1655_Howard_Pyle.jpg]] GezichtOpNieuwAmsterdam.jpg
+]]
 
 Verhulst, with his council, was responsible for the selection of Manhattan as a permanent place of settlement and for situating Fort Amsterdam. He was replaced as the company director-general of New Amsterdam by Peter Minuit in 1626. According to the writer Nathaniel Benchley, to legally safeguard the settlers' investments, possessions and farms on Manhattan island, Minuit negotiated the "purchase" of Manhattan from a band of Canarse from Brooklyn who occupied the bottom quarter of Manhattan, known then as the Manhattoes for 60 guilders' worth of trade goods. Minuit conducted the transaction with the Canarse chief Seyseys, who was only too happy to accept valuable merchandise in exchange for an island that was actually mostly controlled by the Weckquaesgeeks.[11] The deed itself has not survived, so the specific details are unknown. A textual reference to the deed became the foundation for the legend that Minuit had purchased Manhattan from the Native Americans for twenty-four dollars' worth of trinkets and beads, the guilder rate at the time being about two and a half to a Spanish dollar. The price of 60 Dutch guilders in 1626 amounts to around $1,100 in 2012 dollars.[12] Further complicating the calculation is that the value of goods in the area would have been different than the value of those same goods in the developed market of the Netherlands.
 
@@ -74,8 +72,6 @@ In July 1673, during the Third Anglo-Dutch War, the Dutch briefly and quickly oc
 
 Cartography
 
-Castelloplan.jpg
-
 The beginnings of New Amsterdam, unlike most other colonies in the New World, were thoroughly documented in city maps. During the time of New Netherland's colonization, the Dutch were the pre-eminent cartographers in Europe. The delegated authority of the Dutch West India Company over New Netherland required maintaining sovereignty on behalf of the States General, generating cash flow through commercial enterprise for its shareholders, and funding the province's growth. Thus its directors regularly required that censuses be taken. These tools to measure and monitor the province's progress were accompanied by accurate maps and plans. These surveys, as well as grassroots activities to seek redress of grievances,[29] account for the existence of some of the most important of the early documents.[30]
 
 There is a particularly detailed city map called the Castello Plan produced in 1660. Virtually every structure in New Amsterdam at the time is believed to be represented, and by cross-referencing the _Nicasius de Sille List_ of 1660, which enumerates all the citizens of New Amsterdam and their addresses, it can be determined who resided in every house.[31]
@@ -86,7 +82,7 @@ The existence of these city maps has proven to be very useful in the archaeology
 
 Layout
 
-Wall_Street_IRT_008c.JPG subway station]]
+subway station]]
 
 The maps enable a precise reconstruction of the town. Fort Amsterdam was located at the most southern tip of the island of Manhattan, which today is surrounded by Bowling Green. The Battery is a reference to its batteries or cannons.
 
@@ -96,8 +92,6 @@ The layout of the streets was winding, as in a European city. Only starting from
 
 
 Legacy
-
-Wyckoff-house.jpg DSCN3495_pearlstreet_e.JPG
 
 The 1625 date of the founding of New Amsterdam is now commemorated in the official Seal of New York City. (Formerly, the year on the seal was 1664, the year of the provisional Articles of Transfer, assuring New Netherlanders that they "shall keep and enjoy the liberty of their consciences in religion", negotiated with the English by Peter Stuyvesant and his council.)
 

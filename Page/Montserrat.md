@@ -11,12 +11,10 @@ Etymology
 
 In 1493, Christopher Columbus named the island _Santa María de Montserrate_, after the Virgin of Montserrat in the Monastery of Montserrat, on Montserrat mountain, near Barcelona in Catalonia, Spain.[9] "Montserrat" means "serrated mountain" in Catalan.
 
-Soufriere_Hills_Volcano_dome_collapse.gif]] Plymouth_City_&_Volcano.jpg Montserrat_Salem_Eruption1.jpg
+]]
 
 
 History
-
-Little_Bay_from_above,_Montserrat.JPG
 
 Pre-colonial era
 
@@ -66,14 +64,14 @@ From 1871 to 1958, Montserrat was administered as part of the federal crown colo
 
 In 1979, The Beatles producer George Martin opened AIR Studios Montserrat, which resulted in musical artists such as Dire Straits, Paul McCartney, Duran Duran, The Police, Elton John, Jimmy Buffett and The Rolling Stones visiting the island to record albums.[53]
 
-Montserrat_Island_Sunset_(4568325551).jpg]] In the early hours of 17 September 1989, Hurricane Hugo passed the island as a Category 4 hurricane, damaging more than 90% of the structures on the island.[54] AIR Studios Montserrat closed, and the tourist economy was virtually wiped out.[55] Corruption allegations within the PLM party resulted in the collapse of the Osborne government in 1991, with Reuben Meade becoming the new chief minister.[56][57] As a result, early elections were called.[58] In 1995 Montserrat was devastated by the catastrophic volcanic eruptions of the Soufrière Hills, which destroyed the capital city of Plymouth, and necessitated the evacuation of a large part of the island. Many Montserratians emigrated abroad, mainly to the United Kingdom, though in recent years some have started returning. The eruptions rendered the entire southern half of the island uninhabitable, and it is currently designated an Exclusion Zone with restricted access. Criticism of the Montserratian government's response to the disaster led to the resignation of Chief Minister Bertrand Osborne in 1997 after only a year in office, being replaced by David Brandt who remained in office until 2001. Since leaving office Brandt has been the subject of criminal investigation into alleged sex offences.[59]
+]] In the early hours of 17 September 1989, Hurricane Hugo passed the island as a Category 4 hurricane, damaging more than 90% of the structures on the island.[54] AIR Studios Montserrat closed, and the tourist economy was virtually wiped out.[55] Corruption allegations within the PLM party resulted in the collapse of the Osborne government in 1991, with Reuben Meade becoming the new chief minister.[56][57] As a result, early elections were called.[58] In 1995 Montserrat was devastated by the catastrophic volcanic eruptions of the Soufrière Hills, which destroyed the capital city of Plymouth, and necessitated the evacuation of a large part of the island. Many Montserratians emigrated abroad, mainly to the United Kingdom, though in recent years some have started returning. The eruptions rendered the entire southern half of the island uninhabitable, and it is currently designated an Exclusion Zone with restricted access. Criticism of the Montserratian government's response to the disaster led to the resignation of Chief Minister Bertrand Osborne in 1997 after only a year in office, being replaced by David Brandt who remained in office until 2001. Since leaving office Brandt has been the subject of criminal investigation into alleged sex offences.[59]
 
 John Osborne returned as Chief Minister following victory in the 2001 election, being ousted by Lowell Lewis of the Montserrat Democratic Party in 2006. Ruben Meade returned to office in 2009-2014[60]; during his term the post of Chief Minister was replaced with that of Premier. Since 2014 Donaldson Romeo of the People's Democratic Movement has been Premier. In the fall of 2017, Montserrat was not hit by Hurricane Irma and sustained only minor damage from Hurricane Maria.[61]
 
 
 Politics and government
 
-William_Henry_Bramble.jpg Montserrat is an internally self-governing overseas territory of the United Kingdom.[62] The United Nations Committee on Decolonization includes Montserrat on the United Nations list of Non-Self-Governing Territories. The island's Chief of State is Queen Elizabeth II represented by an appointed Governor. Executive power is exercised by the government, whereas the Premier is the head of government. The Premier is appointed by the Governor from among the members of the Legislative Assembly which consists of nine elected members. The leader of the party with a majority of seats is usually the one who is appointed.[63] Legislative power is vested in both the government and the Legislative Assembly. The Assembly also includes two _ex officio_ members, the attorney general and financial secretary.[64]
+Montserrat is an internally self-governing overseas territory of the United Kingdom.[62] The United Nations Committee on Decolonization includes Montserrat on the United Nations list of Non-Self-Governing Territories. The island's Chief of State is Queen Elizabeth II represented by an appointed Governor. Executive power is exercised by the government, whereas the Premier is the head of government. The Premier is appointed by the Governor from among the members of the Legislative Assembly which consists of nine elected members. The leader of the party with a majority of seats is usually the one who is appointed.[63] Legislative power is vested in both the government and the Legislative Assembly. The Assembly also includes two _ex officio_ members, the attorney general and financial secretary.[64]
 
 Military defence is the responsibility of the United Kingdom so the island has no regular army.
 
@@ -91,8 +89,6 @@ The UK Postcode for directing mail to Montserrat is MSR followed by four digits 
 
 Geography
 
-Coastal_cliffs.jpg
-
 The island of Montserrat is located approximately 25 miles (39km) south-west of Antigua, 13m (22km) south-east of Redonda (a small island owned by Antigua and Barbuda), and 35m (56km) north-west of the French overseas region of Guadeloupe. Beyond Redonda lies Nevis (part of St Kitts and Nevis), about 30m (49km) to the north-west. It comprises and is gradually increasing owing to the buildup of volcanic deposits on the south-east coast. The island is long and wide and consists of a mountainous interior surrounded by a flatter littoral region, with rock cliffs rising above the sea and a number of smooth bottomed sandy beaches scattered among coves on the western (Caribbean Sea) side of the island. The major mountains are (from north to south) Silver Hill, Katy Hill in the Centre Hills range, the Soufrière Hills and the South Soufrière Hills.[68] The Soufrière Hills volcano is the island's highest point; its pre-1995 height was 915m, however it has now grown due post-eruption due to the creation of a lava dome, with its current height being estimated at 1,050m.[69]
 
 The 2011 estimate by the CIA indicates that 30% of the island's land is classified as agricultural, 20% as arable, 25% as forest and the balance as "other".[70]
@@ -101,7 +97,7 @@ Montserrat has a few tiny off-shore islands, such as Little Redonda off its nort
 
 Volcano and exclusion zone
 
-_Montserrat_eruption.JPG, the former capital city and major port of Montserrat, on 12 July 1997, after pyroclastic flows burned much of what was not covered in ash]]
+, the former capital city and major port of Montserrat, on 12 July 1997, after pyroclastic flows burned much of what was not covered in ash]]
 
 In July 1995, Montserrat's Soufrière Hills volcano, dormant for centuries, erupted and soon buried the island's capital, Plymouth, in more than of mud, destroyed its airport and docking facilities, and rendered the southern part of the island, now termed the exclusion zone, uninhabitable and not safe for travel. The southern part of the island was evacuated and visits are severely restricted.[71] The exclusion zone also includes two sea areas adjacent to the land areas of most volcanic activity.[72]
 
@@ -132,7 +128,7 @@ The Montserrat Tarantula (_Cyrtopholis femoralis_) is the only species of tarant
 
 Economy
 
-Caribe_Queen.jpg _Caribe Queen_ is a Nevis ferry boat which shuttles passengers between Antigua and Montserrat several times a week.]]
+_Caribe Queen_ is a Nevis ferry boat which shuttles passengers between Antigua and Montserrat several times a week.]]
 
 Montserrat's economy was devastated by the 1995 eruption and its aftermath[87]; currently the island's operating budget is largely supplied by the British government and administered through the Department for International Development (DFID) amounting to approximately £25 million per year. Additional amounts are secured through income and property taxes, licence and other fees as well as customs duties levied on imported goods.
 
@@ -144,8 +140,6 @@ From 1979 to 1989, Montserrat was home to a branch of George Martin's AIR Studio
 
 
 Transportation
-
-Montserrat_Airport_(15632994595).jpg
 
 Air
 
@@ -192,8 +186,6 @@ Education in Montserrat is compulsory for children between the ages of 5 and 14,
 
 
 Culture
-
-Montserrat_Cultural_Center_(5809290561).jpg
 
 In 1979, George Martin, an English record producer, built a recording studio on the island called AIR Studios Montserrat. For more than a decade, AIR Montserrat played host to recording sessions by many well known rock musicians, including Dire Straits, Elton John, Michael Jackson and The Rolling Stones.[107] In 1989, Hurricane Hugo destroyed the studios.
 
@@ -245,8 +237,6 @@ Surfing was introduced by two American brothers in 1980, Carrll and Gary Robilot
 
 Parishes
 
-Parishes_of_Montserrat.svg
-
 Montserrat is divided into three parishes:
 
 -   Saint Peter Parish
@@ -258,7 +248,7 @@ The locations of settlements on the island have been vastly changed since the vo
 
 Settlements
 
-Little_Bay,_Montserrat.jpg.[123]]] Settlements known to be within the exclusion cannot be accessed and are no longer habitable. See also List of settlements abandoned after the 1997 Soufrière Hills eruption.
+.[123]]] Settlements known to be within the exclusion cannot be accessed and are no longer habitable. See also List of settlements abandoned after the 1997 Soufrière Hills eruption.
 
 Settlements in the safe zone
 

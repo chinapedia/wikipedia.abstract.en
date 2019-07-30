@@ -1,5 +1,3 @@
-Bay_Area_by_Sentinel-2.jpg
-
 The SAN FRANCISCO PENINSULA is a peninsula in the San Francisco Bay Area that separates San Francisco Bay from the Pacific Ocean. On its northern tip is the City and County of San Francisco. Its southern base is in northern Santa Clara County, including the cities of Palo Alto, Mountain View, and Los Altos. Most of the Peninsula is occupied by San Mateo County, between San Francisco and Santa Clara counties, and including the cities and towns of Atherton, Belmont, Brisbane, Burlingame, Colma, Daly City, East Palo Alto, El Granada, Foster City, Hillsborough, Half Moon Bay, La Honda, Loma Mar, Los Altos, Menlo Park, Millbrae, Mountain View, Pacifica, Palo Alto, Pescadero, Portola Valley, Redwood City, San Bruno, San Carlos, San Mateo, South San Francisco, Sunnyvale, and Woodside.
 
 Whereas the term _peninsula_ technically refers to the entire geographical San Franciscan Peninsula, in local jargon, "The Peninsula" does not include the city of San Francisco.[1]
@@ -20,20 +18,20 @@ The east side of the peninsula is a densely populated and largely urban and subu
 
 Major highways
 
--   I-80_(CA).svg Interstate 80
--   I-280_(CA).svg Interstate 280
--   I-380_(CA).svg Interstate 380
--   US_101_(CA).svg U.S. Route 101
--   California_1.svg State Route 1
--   California_9.svg State Route 9
--   California_35.svg State Route 35
--   California_82.svg State Route 82
--   California_84.svg State Route 84
--   California_85.svg State Route 85
--   California_92.svg State Route 92
--   California_109.svg State Route 109
--   California_114.svg State Route 114
--   California_237.svg State Route 237
+-   Interstate 80
+-   Interstate 280
+-   Interstate 380
+-   U.S. Route 101
+-   State Route 1
+-   State Route 9
+-   State Route 35
+-   State Route 82
+-   State Route 84
+-   State Route 85
+-   State Route 92
+-   State Route 109
+-   State Route 114
+-   State Route 237
 
 The bridges in the Peninsula include the Dumbarton Bridge, the San Francisco - Oakland Bay Bridge, the San Mateo-Hayward Bridge and the Golden Gate Bridge.
 

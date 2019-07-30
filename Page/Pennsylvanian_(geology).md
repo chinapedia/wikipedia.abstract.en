@@ -5,7 +5,7 @@ The division between Pennsylvanian and Mississippian comes from North American s
 
 Life
 
-US_pennsylvanian_general_USGS.jpg in middle Pennsylvanian time.]]
+in middle Pennsylvanian time.]]
 
 Fungi
 

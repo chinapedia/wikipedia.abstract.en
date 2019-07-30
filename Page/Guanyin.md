@@ -1,4 +1,4 @@
-Todaiji_Monaster_Fukukensaku_Kwannon_of_Hokkedo_(232).jpg, Nara, Japan.]] GUANYIN or GUAN YIN () is the most commonly used Chinese translation of the bodhisattva known as AVALOKITEŚVARA.[1] In English usage, Guanyin is the Buddhist bodhisattva associated with compassion and venerated chiefly by followers of Mahayana Buddhist schools as practiced in the sinosphere. From the Buddhist perspective, the term Guanyin encompasses the entire spectrum of Mahayana Buddhist practices related to Avalokitesvara ranging from the Lotus Sutra and extending towards Shingon as well as Tibetan Vajrayana. It also includes localized practices different from other regions; localizations are however found throughout the Buddhist world. Guanyin also refers to the bodhisattva as adopted by other Eastern religions such as Taoism, where she is revered as an immortal, as well as Chinese folk religions, Japanese Shinto, Korean blending of Guanyin worship with native beliefs and in Vietnam the adoption of Guanyin by Cao Daism. In western languages, she was first given the appellation of "GODDESS OF MERCY" or the MERCY GODDESS by Jesuit missionaries in China.[2] The Chinese name Guanyin, is short for GUANSHIYIN, which means "[The One Who] Perceives the Sounds of the World".[3]
+, Nara, Japan.]] GUANYIN or GUAN YIN () is the most commonly used Chinese translation of the bodhisattva known as AVALOKITEŚVARA.[1] In English usage, Guanyin is the Buddhist bodhisattva associated with compassion and venerated chiefly by followers of Mahayana Buddhist schools as practiced in the sinosphere. From the Buddhist perspective, the term Guanyin encompasses the entire spectrum of Mahayana Buddhist practices related to Avalokitesvara ranging from the Lotus Sutra and extending towards Shingon as well as Tibetan Vajrayana. It also includes localized practices different from other regions; localizations are however found throughout the Buddhist world. Guanyin also refers to the bodhisattva as adopted by other Eastern religions such as Taoism, where she is revered as an immortal, as well as Chinese folk religions, Japanese Shinto, Korean blending of Guanyin worship with native beliefs and in Vietnam the adoption of Guanyin by Cao Daism. In western languages, she was first given the appellation of "GODDESS OF MERCY" or the MERCY GODDESS by Jesuit missionaries in China.[2] The Chinese name Guanyin, is short for GUANSHIYIN, which means "[The One Who] Perceives the Sounds of the World".[3]
 
 Some Buddhists believe that when one of their adherents departs from this world, they are placed by Guanyin in the heart of a lotus, and then sent to the western Pure Land of Sukhāvatī.[4] Guanyin is often referred to as the "most widely beloved Buddhist Divinity"[5] with miraculous powers to assist all those who pray to her, as is said in the Lotus Sutra and Karandavyuha Sutra.
 
@@ -28,7 +28,7 @@ Direct translations from the Sanskrit name Avalokiteśvara include:
 
 Names in other Asian languages
 
-Liao_Dynasty_Avalokitesvara_Statue_Clear.jpeg (A.D. 907–1125) Nelson-Atkins Museum Collection; Kansas City, Missouri]]
+(A.D. 907–1125) Nelson-Atkins Museum Collection; Kansas City, Missouri]]
 
 Due to the devotional popularity of Guanyin in Asia, she is known by many names, most of which are simply the localised pronunciations of "Guanyin" or "Guanshiyin":
 
@@ -52,7 +52,7 @@ In these same countries, the variant _Guanzizai_ "Lord of Contemplation" and its
 
 Depiction
 
-Avalokitesvara_Gandhara_Musée_Guimet_2418_1.jpg, 3rd century]] Guanyin.jpg, the damaged hands probably performing _dharmacakramudra_, a gesture that signifies the moment when Buddha put the wheel of learning in motion; painted and gilded wood, China, Song/Jin period, late 13th century]]
+, 3rd century]] , the damaged hands probably performing _dharmacakramudra_, a gesture that signifies the moment when Buddha put the wheel of learning in motion; painted and gilded wood, China, Song/Jin period, late 13th century]]
 
 _Lotus Sūtra_
 
@@ -64,7 +64,7 @@ A total of 33 different manifestations of Avalokitasvara are described, includin
 
 Iconography
 
-Eleven-faced_Goddess_of_Mercy_edit.jpg. Eleven faced _Ekādaśamukha_ form. Japan, 12th century]]
+. Eleven faced _Ekādaśamukha_ form. Japan, 12th century]]
 
 Representations of the bodhisattva in China prior to the Song dynasty (960–1279) were masculine in appearance. Images which later displayed attributes of both genders are believed to be in accordance with the Lotus Sutra, where Avalokitesvara has the supernatural power of assuming any form required to relieve suffering, and also has the power to grant children. Because this bodhisattva is considered the personification of compassion and kindness, a mother goddess and patron of mothers and seamen, the representation in China was further interpreted in an all-female form around the 12th century. On occasion, Guanyin is also depicted holding an infant in order to further stress the relationship between the bodhisattva, maternity, and birth.[20] In the modern period, Guanyin is most often represented as a beautiful, white-robed woman, a depiction which derives from the earlier _Pandaravasini_ form.
 
@@ -79,7 +79,7 @@ In Chinese art, Guanyin is often depicted either alone, standing atop a dragon, 
 
 Legends
 
-Quan_Am_1656.jpg, northern Vietnam. It is now located in the History Museum in Hanoi.]]
+, northern Vietnam. It is now located in the History Museum in Hanoi.]]
 
 Guanyin and the Thousand Arms
 
@@ -93,7 +93,7 @@ In China, it is said that fishermen used to pray to her to ensure safe voyages. 
 
 Legend of Miaoshan
 
-Daienin_Kannon.JPG, Japan.]] Yuan_porcelain_buddha.JPG (1271–1368 AD)]] Gangaramaya_Temple_SL2.png in Colombo, Sri Lanka.]] Another story from the _Precious Scroll of Fragrant Mountain_ () describes an incarnation of Guanyin as the daughter of a cruel king who wanted her to marry a wealthy but uncaring man. The story is usually ascribed to the research of the Buddhist monk Jiang Zhiqi during the 11th century. The story is likely to have its origin in Taoism. When Chiang penned the work, he believed that the Guanyin we know today was actually a princess called Miaoshan (), who had a religious following on Fragrant Mountain.[22] Despite this there are many variants of the story in Chinese mythology.[23]
+, Japan.]] (1271–1368 AD)]] in Colombo, Sri Lanka.]] Another story from the _Precious Scroll of Fragrant Mountain_ () describes an incarnation of Guanyin as the daughter of a cruel king who wanted her to marry a wealthy but uncaring man. The story is usually ascribed to the research of the Buddhist monk Jiang Zhiqi during the 11th century. The story is likely to have its origin in Taoism. When Chiang penned the work, he believed that the Guanyin we know today was actually a princess called Miaoshan (), who had a religious following on Fragrant Mountain.[22] Despite this there are many variants of the story in Chinese mythology.[23]
 
 According to the story, after the king asked his daughter Miaoshan to marry the wealthy man, she told him that she would obey his command, so long as the marriage eased three misfortunes.
 
@@ -117,8 +117,6 @@ After her return to Earth, Guanyin was said to have stayed for a few years on th
 
 Guanyin and Shancai
 
-An_Altar_of_Guanyin_Worship.jpg
-
 Legend has it that Shancai (also called Sudhana in Sanskrit) was a disabled boy from India who was very interested in studying the dharma. When he heard that there was a Buddhist teacher on the rocky island of Putuo he quickly journeyed there to learn. Upon arriving at the island, he managed to find Guanyin despite his severe disability.
 
 Guanyin, after having a discussion with Shancai, decided to test the boy's resolve to fully study the Buddhist teachings. She conjured the illusion of three sword-wielding pirates running up the hill to attack her. Guanyin took off and dashed to the edge of a cliff, the three illusions still chasing her.
@@ -129,13 +127,13 @@ Shancai fell down the cliff but was halted in midair by Guanyin, who now asked h
 
 Guanyin and Longnü
 
-Guan_She_Yin_statue_of_Sanggar_Agung_Temple,_Surabaya-Indonesia.jpg, Surabaya, Indonesia]]
+, Surabaya, Indonesia]]
 
 Many years after Shancai became a disciple of Guanyin, a distressing event happened in the South China Sea. The third son of one of the Dragon Kings was caught by a fisherman while swimming in the form of a fish. Being stuck on land, he was unable to transform back into his dragon form. His father, despite being a mighty Dragon King, was unable to do anything while his son was on land. Distressed, the son called out to all of Heaven and Earth.
 
 Hearing this cry, Guanyin quickly sent Shancai to recover the fish and gave him all the money she had. The fish at this point was about to be sold in the market. It was causing quite a stir as it was alive hours after being caught. This drew a much larger crowd than usual at the market. Many people decided that this prodigious situation meant that eating the fish would grant them immortality, and so all present wanted to buy the fish. Soon a bidding war started, and Shancai was easily outbid.
 
-Guan_Yin_in_white_robe,_by_Mu-ch'i.jpg]] Shancai begged the fish seller to spare the life of the fish. The crowd, now angry at someone so daring, was about to pry him away from the fish when Guanyin projected her voice from far away, saying "A life should definitely belong to one who tries to save it, not one who tries to take it."
+]] Shancai begged the fish seller to spare the life of the fish. The crowd, now angry at someone so daring, was about to pry him away from the fish when Guanyin projected her voice from far away, saying "A life should definitely belong to one who tries to save it, not one who tries to take it."
 
 The crowd, realising their shameful actions and desire, dispersed. Shancai brought the fish back to Guanyin, who promptly returned it to the sea. There the fish transformed back to a dragon and returned home. Paintings of Guanyin today sometimes portray her holding a fish basket, which represents the aforementioned tale.
 
@@ -151,7 +149,7 @@ In popular iconography, the parrot is coloured white and usually seen hovering t
 
 Guanyin and Chen Jinggu
 
-Chinese_-_Seated_Guanyin_(Kuan-yin)_Bodhisattva_-_Walters_25256_(2).jpg |url=http://art.thewalters.org/detail/4483 |title=Seated Guanyin (Kuan-yin) Bodhisattva}} The Walters Art Museum.]]
+|url=http://art.thewalters.org/detail/4483 |title=Seated Guanyin (Kuan-yin) Bodhisattva}} The Walters Art Museum.]]
 
 When the people of Quanzhou, Fujian could not raise enough money to build a bridge, Guanyin changed into a beautiful maiden. Getting on a boat, she offered to marry any man who could hit her with a piece of silver from the edge of the water. Due to many people missing, she collected a large sum of money in her boat. However, Lü Dongbin, one of the Eight Immortals, helped a merchant hit Guanyin in the hair with silver powder, which floated away in the water. Guanyin bit her finger and a drop of blood fell into the water, but she vanished. This blood was swallowed by a washer woman, who gave birth to Chen Jinggu () or Lady Linshui (); the hair was turned into a female white snake and sexually used men and killed rival women. The snake and Chen were to be mortal enemies. The merchant was sent to be reborn as Liu Qi ().
 
@@ -175,19 +173,19 @@ Due to her symbolization of compassion, in East Asia, Guanyin is associated with
 
 Role in East Asian Buddhism
 
-Dongguan_Guanyinshan.jpg, China.]] In East Asian Buddhism, Guanyin is the bodhisattva Avalokiteśvara. Among the Chinese, Avalokiteśvara is almost exclusively called _Guanshiyin Pusa_ (). The Chinese translation of many Buddhist sutras has in fact replaced the Chinese transliteration of Avalokitesvara with _Guanshiyin_ (). Some Taoist scriptures give her the title of _Guanyin Dashi_, sometimes informally _Guanyin Fozu_.
+, China.]] In East Asian Buddhism, Guanyin is the bodhisattva Avalokiteśvara. Among the Chinese, Avalokiteśvara is almost exclusively called _Guanshiyin Pusa_ (). The Chinese translation of many Buddhist sutras has in fact replaced the Chinese transliteration of Avalokitesvara with _Guanshiyin_ (). Some Taoist scriptures give her the title of _Guanyin Dashi_, sometimes informally _Guanyin Fozu_.
 
-Guanyin_and_child.jpg theme.]] In Chinese culture, the popular belief and worship of Guanyin as a goddess by the populace is generally not viewed to be in conflict with the bodhisattva Avalokitesvara's nature. In fact the widespread worship of Guanyin as a "Goddess of Mercy and Compassion" is seen by Buddhists as the boundless salvific nature of bodhisattva Avalokiteśvara at work (in Buddhism, this is referred to as Guanyin's "skillful means", or upaya). The Buddhist canon states that bodhisattvas can assume whatsoever gender and form is needed to liberate beings from ignorance and dukkha. With specific reference to Avalokitesvara, he is stated both in the _Lotus Sutra_ (Chapter 25 "Perceiver of the World's Sounds" or "Universal Gateway"), and the _Śūraṅgama Sūtra_ to have appeared before as a woman or a goddess to save beings from suffering and ignorance. Some Buddhist schools refer to Guanyin both as male and female interchangeably.
+theme.]] In Chinese culture, the popular belief and worship of Guanyin as a goddess by the populace is generally not viewed to be in conflict with the bodhisattva Avalokitesvara's nature. In fact the widespread worship of Guanyin as a "Goddess of Mercy and Compassion" is seen by Buddhists as the boundless salvific nature of bodhisattva Avalokiteśvara at work (in Buddhism, this is referred to as Guanyin's "skillful means", or upaya). The Buddhist canon states that bodhisattvas can assume whatsoever gender and form is needed to liberate beings from ignorance and dukkha. With specific reference to Avalokitesvara, he is stated both in the _Lotus Sutra_ (Chapter 25 "Perceiver of the World's Sounds" or "Universal Gateway"), and the _Śūraṅgama Sūtra_ to have appeared before as a woman or a goddess to save beings from suffering and ignorance. Some Buddhist schools refer to Guanyin both as male and female interchangeably.
 
 In Mahayana Buddhism, gender is no obstacle to attaining enlightenment (or nirvana). The Buddhist concept of non-duality applies here. The _Vimalakirti Sutra_{{'}}s "Goddess" chapter clearly illustrates an enlightened being who is also a female and deity. In the _Lotus Sutra_, a maiden became enlightened in a very short time span. The view that Avalokiteśvara is also the goddess Guanyin does not seem contradictory to Buddhist beliefs. Guanyin has been a buddha called the "Tathāgata of Brightness of Correct Dharma" ().[31]
 
 Given that bodhisattvas are known to incarnate at will as living people according to the sutras, the princess Miaoshan is generally viewed by Buddhists as an incarnation of Guanyin.
 
-Status_of_Kuan_Yin.jpg porcelain figure of Guanyin.]] Guanyin is immensely popular among Chinese Buddhists, especially those from devotional schools. She is generally seen as a source of unconditional love and, more importantly, as a saviour. In her bodhisattva vow, Guanyin promises to answer the cries and pleas of all sentient beings and to liberate them from their own karmic woes. Based on the Lotus Sutra and the Shurangama sutra, Avalokitesvara is generally seen as a saviour, both spiritually and physically. The sutras state that through his saving grace even those who have no chance of being enlightened can be enlightened, and those deep in negative karma can still find salvation through his compassion.
+porcelain figure of Guanyin.]] Guanyin is immensely popular among Chinese Buddhists, especially those from devotional schools. She is generally seen as a source of unconditional love and, more importantly, as a saviour. In her bodhisattva vow, Guanyin promises to answer the cries and pleas of all sentient beings and to liberate them from their own karmic woes. Based on the Lotus Sutra and the Shurangama sutra, Avalokitesvara is generally seen as a saviour, both spiritually and physically. The sutras state that through his saving grace even those who have no chance of being enlightened can be enlightened, and those deep in negative karma can still find salvation through his compassion.
 
 In Pure Land Buddhism, Guanyin is described as the "Barque of Salvation". Along with Amitābha and the bodhisattva Mahasthamaprapta, she temporarily liberates beings out of the Wheel of Samsara into the Pure Land, where they will have the chance to accrue the necessary merit so as to be a Buddha in one lifetime. In Chinese Buddhist iconography, Guanyin is often depicted as meditating or sitting alongside one of the Buddhas and usually accompanied by another bodhisattva. The buddha and bodhisattva that are portrayed together with Guanyin usually follow whichever school of Buddhism they represent. In Pure Land Buddhism, for example, Guanyin is frequently depicted on the left of Amitābha, while on the buddha's right is Mahasthamaprapta. Temples that revere the bodhisattva Ksitigarbha usually depict him meditating beside Amitābha and Guanyin.
 
-Guanyin_Myanmar.jpg Even among Chinese Buddhist schools that are non-devotional, Guanyin is still highly venerated. Instead of being seen as an active external force of unconditional love and salvation, the personage of Guanyin is highly revered as the principle of compassion, mercy and love. The act, thought and feeling of compassion and love is viewed as Guanyin. A merciful, compassionate, loving individual is said to be Guanyin. A meditative or contemplative state of being at peace with oneself and others is seen as Guanyin.
+Even among Chinese Buddhist schools that are non-devotional, Guanyin is still highly venerated. Instead of being seen as an active external force of unconditional love and salvation, the personage of Guanyin is highly revered as the principle of compassion, mercy and love. The act, thought and feeling of compassion and love is viewed as Guanyin. A merciful, compassionate, loving individual is said to be Guanyin. A meditative or contemplative state of being at peace with oneself and others is seen as Guanyin.
 
 In the Mahayana canon, the _Heart Sutra_ is ascribed entirely to Guanyin. This is unique, since most Mahayana Sutras are usually ascribed to Gautama Buddha and the teachings, deeds or vows of the bodhisattvas are described by Shakyamuni Buddha. In the _Heart Sutra_, Guanyin describes to the arhat Sariputta the nature of reality and the essence of the Buddhist teachings. The famous Buddhist saying "Form is emptiness, emptiness is form" () comes from this sutra.
 
@@ -197,7 +195,7 @@ Pilgrimage Sites Dedicated to Guanyin
 
 Role in other Eastern religions
 
-Lahad-Datu_Sabah_Guan-Yin-Temple-01.jpg temple devoted primarily to the goddess Guanyin, in Lahad Datu, Sabah, Malaysia.]]
+temple devoted primarily to the goddess Guanyin, in Lahad Datu, Sabah, Malaysia.]]
 
 Guanyin is an extremely popular goddess in Chinese folk religion and is worshiped in many Chinese communities throughout East and South East Asia.[32][33][34][35] In Taoism, records claim Guanyin was a Chinese woman who became an immortal, Cihang Zhenren in Shang Dynasty or Xingyin ().[36]
 
@@ -216,7 +214,7 @@ Guanyin is also a ubiquitous figure found within the new religious movements of 
 
 Similarity to the Virgin Mary
 
-The_Virgin_Mary_disguised_as_Kanon_Japan.jpg disguised as Kannon, _kakure kirishitan_ (Japanese hidden Christians), 17th century. Salle des Martyrs, Paris Foreign Missions Society.]] Some Buddhist and Christian observers have commented on the similarity between Guanyin and the Blessed Virgin Mary. This can be attributed to the representation of Guanyin holding a child in Chinese art and sculpture; it is believed that Guanyin is the patron saint of mothers and grants parents filial children, this apparition is popularly known as the "Child-Sending Guanyin" (). One example of this comparison can be found in the Tzu Chi Foundation, a Taiwanese Buddhist humanitarian organisation, which noticed the similarity between this form of Guanyin and the Virgin Mary. The organisation commissioned a portrait of Guanyin holding a baby, closely resembling the typical Roman Catholic Madonna and Child painting. Copies of this portrait are now displayed prominently in Tzu Chi affiliated medical centres, especially since Tzu Chi's founder is a Buddhist master and her supporters come from various religious backgrounds.
+disguised as Kannon, _kakure kirishitan_ (Japanese hidden Christians), 17th century. Salle des Martyrs, Paris Foreign Missions Society.]] Some Buddhist and Christian observers have commented on the similarity between Guanyin and the Blessed Virgin Mary. This can be attributed to the representation of Guanyin holding a child in Chinese art and sculpture; it is believed that Guanyin is the patron saint of mothers and grants parents filial children, this apparition is popularly known as the "Child-Sending Guanyin" (). One example of this comparison can be found in the Tzu Chi Foundation, a Taiwanese Buddhist humanitarian organisation, which noticed the similarity between this form of Guanyin and the Virgin Mary. The organisation commissioned a portrait of Guanyin holding a baby, closely resembling the typical Roman Catholic Madonna and Child painting. Copies of this portrait are now displayed prominently in Tzu Chi affiliated medical centres, especially since Tzu Chi's founder is a Buddhist master and her supporters come from various religious backgrounds.
 
 During the Edo period in Japan, when Christianity was banned and punishable by death, some underground Christian groups venerated Jesus and the Virgin Mary by disguising them as statues of Kannon holding a child; such statues are known as _Maria Kannon_. Many had a cross hidden in an inconspicuous location.
 

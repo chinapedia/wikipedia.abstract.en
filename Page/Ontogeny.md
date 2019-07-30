@@ -1,4 +1,4 @@
-HumanEmbryogenesis.svg]] Human_embryo_8_weeks_2.JPG
+]]
 
 ONTOGENY (also ONTOGENESIS or MORPHOGENESIS) is the origination and development of an organism, usually from the time of fertilization of the egg to the organism's mature form—although the term can be used to refer to the study of the entirety of an organism's lifespan.
 

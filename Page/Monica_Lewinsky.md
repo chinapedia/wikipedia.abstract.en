@@ -18,7 +18,7 @@ With the assistance of a family connection, Lewinsky got an unpaid summer White 
 
 Scandal
 
-Bill_Clinton_and_Monica_Lewinsky_on_February_28,_1997_A3e06420664168d9466c84c3e31ccc2f.jpg Monica_lewinsky.jpg Lewinsky stated that between November 1995 and March 1997, she had nine sexual encounters in the Oval Office with then-President Bill Clinton. According to her testimony, these involved fellatio and other sexual acts, but not sexual intercourse.[38]
+Lewinsky stated that between November 1995 and March 1997, she had nine sexual encounters in the Oval Office with then-President Bill Clinton. According to her testimony, these involved fellatio and other sexual acts, but not sexual intercourse.[38]
 
 Clinton had previously been confronted with allegations of sexual misconduct during his time as Governor of Arkansas. Former Arkansas state employee Paula Jones filed a civil lawsuit against him; she alleged that he had sexually harassed her. Lewinsky's name surfaced during the discovery phase of Jones' case, when Jones' lawyers sought to show a pattern of behavior by Clinton that involved inappropriate sexual relationships with other government employees.[39]
 
@@ -58,7 +58,7 @@ During her decade out of the public eye, Lewinsky lived in London, Los Angeles, 
 
 Public re-emergence
 
-Monica_Lewinsky.jpg, March 2015]] In May 2014, Lewinsky wrote an essay for _Vanity Fair_ magazine titled "Shame and Survival", wherein she discussed her life and the scandal.[109][110] She continued to maintain that the relationship was mutual and wrote that while Clinton took advantage of her, it was a consensual relationship.[111] She added: "I, myself, deeply regret what happened between me and President Clinton. Let me say it again: I. Myself. Deeply. Regret. What. Happened."[112] However, she said it was now time to "stick my head above the parapet so that I can take back my narrative and give a purpose to my past."[113] The magazine later announced her as a _Vanity Fair_ contributor, stating she would "contribute to their website on an ongoing basis, on the lookout for relevant topics of interest".[114][115]
+, March 2015]] In May 2014, Lewinsky wrote an essay for _Vanity Fair_ magazine titled "Shame and Survival", wherein she discussed her life and the scandal.[109][110] She continued to maintain that the relationship was mutual and wrote that while Clinton took advantage of her, it was a consensual relationship.[111] She added: "I, myself, deeply regret what happened between me and President Clinton. Let me say it again: I. Myself. Deeply. Regret. What. Happened."[112] However, she said it was now time to "stick my head above the parapet so that I can take back my narrative and give a purpose to my past."[113] The magazine later announced her as a _Vanity Fair_ contributor, stating she would "contribute to their website on an ongoing basis, on the lookout for relevant topics of interest".[114][115]
 
 In July 2014, Lewinsky was interviewed in a three-part television special for the National Geographic Channel, titled _The 90s: The Last Great Decade_. The series looked at various events of the 1990s, including the scandal that brought Lewinsky into the national spotlight. This was Lewinsky's first such interview in more than ten years.[116]
 

@@ -1,4 +1,4 @@
-Patriotism_by_Francisco_Pérez_del_Valle_(Madrid)_01.jpg of Patriotism in the _Monument to the Fallen for Spain_ in Madrid (1840), by sculptor Francisco Pérez del Valle]]
+of Patriotism in the _Monument to the Fallen for Spain_ in Madrid (1840), by sculptor Francisco Pérez del Valle]]
 
 PATRIOTISM or NATIONAL PRIDE is the feeling of love, devotion and sense of attachment to a homeland and alliance with other citizens who share the same sentiment. This attachment can be a combination of many different feelings relating to one's own homeland, including ethnic, cultural, political or historical aspects. It encompasses a set of concepts closely related to nationalism.[1][2][3]
 
@@ -14,7 +14,7 @@ The English term _patriot_ is first attested in the Elizabethan era; it came via
 
 History
 
-"Be_Patriotic_sign_your_country's_pledge_to_save_the_food."_-_NARA_-_512548.jpg The general notion of civic virtue and group dedication has been attested in culture globally throughout the historical period. For the Enlightenment thinkers of 18th-century Europe, loyalty to the state was chiefly considered in contrast to loyalty to the Church. It was argued that clerics should not be allowed to teach in public schools since their _patrie_ was heaven, so that they could not inspire love of the homeland in their students. One of the most influential proponents of this classical notion of patriotism was Jean-Jacques Rousseau.[8]
+The general notion of civic virtue and group dedication has been attested in culture globally throughout the historical period. For the Enlightenment thinkers of 18th-century Europe, loyalty to the state was chiefly considered in contrast to loyalty to the Church. It was argued that clerics should not be allowed to teach in public schools since their _patrie_ was heaven, so that they could not inspire love of the homeland in their students. One of the most influential proponents of this classical notion of patriotism was Jean-Jacques Rousseau.[8]
 
 Enlightenment thinkers also criticized what they saw as the excess of patriotism. In 1774, Samuel Johnson published _The Patriot_, a critique of what he viewed as false patriotism. On the evening of 7 April 1775, he made the famous statement, "Patriotism is the last refuge of the scoundrel."[9] James Boswell, who reported this comment in his _Life of Johnson_, does not provide context for the quote, and it has therefore been argued that Johnson was in fact attacking the false use of the term "patriotism" by contemporaries such as John Stuart, 3rd Earl of Bute (the patriot-minister) and his supporters; Johnson spoke elsewhere in favor of what he considered "true" patriotism.[10] However, there is no direct evidence to contradict the widely held belief that Johnson's famous remark was a criticism of patriotism itself.
 
@@ -36,8 +36,6 @@ Voltaire stated that "It is lamentable, that to be a good patriot one must becom
 Marxism
 
 Marxists have taken various stances regarding patriotism. On one hand, Karl Marx famously stated that "The working men have no country"[17] and that "the supremacy of the proletariat will cause them [national differences] to vanish still faster." The same view is promoted by present-day Trotskyists such as Alan Woods, who is "in favour of tearing down all frontiers and creating a socialist world commonwealth."[18]
-
-Singing_Red_Song_competition_in_Dalian_University.jpg
 
 On the other hand, Stalinists and Maoists are usually in favour of socialist patriotism based on the theory of socialism in one country.[19]
 

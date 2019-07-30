@@ -28,7 +28,7 @@ Some specific things to notice about Omaha hands are:
 
  Omaha hi-low split-8 or better
 
-Poker_Omaha_hilo_showdown1.jpg Poker_Omaha_Beispielhand2.jpg In OMAHA HI-LOW SPLIT-8 OR BETTER (simply OMAHA/8), each player makes a separate five-card high hand and five-card ace-to-five low hand (eight-high or lower to qualify), and the pot is split between the high and low (which may be the same player). To qualify for low, a player must be able to play an 8-7-6-5-4 or lower (this is why it is called "eight or better"). A few casinos play with a 9-low qualifier instead, but this is rare. Each player can play any two of his four hole cards to make his high hand, and any two of his four hole cards to make his low hand. If there is no qualifying low hand, the high hand wins (_scoops_) the whole pot. This game is usually played in the fixed limit version, although pot limit Omaha/8 is becoming more popular. A few low-stakes online tournaments feature no limit Omaha/8.
+In OMAHA HI-LOW SPLIT-8 OR BETTER (simply OMAHA/8), each player makes a separate five-card high hand and five-card ace-to-five low hand (eight-high or lower to qualify), and the pot is split between the high and low (which may be the same player). To qualify for low, a player must be able to play an 8-7-6-5-4 or lower (this is why it is called "eight or better"). A few casinos play with a 9-low qualifier instead, but this is rare. Each player can play any two of his four hole cards to make his high hand, and any two of his four hole cards to make his low hand. If there is no qualifying low hand, the high hand wins (_scoops_) the whole pot. This game is usually played in the fixed limit version, although pot limit Omaha/8 is becoming more popular. A few low-stakes online tournaments feature no limit Omaha/8.
 
 The brief explanation above belies the complexity of the game, so a number of examples will be useful here to clarify it. The table below shows a five-card board of community cards at the end of play, and then lists for each player the initial private four-card hand dealt to him or her, and the best five-card high hand and low hand each player can play on showdown:
 
@@ -55,7 +55,7 @@ Some specific things to notice about Omaha/8 hands are:
 
 Pot-limit Omaha
 
-Poker_Omaha_Beispielhand3.jpg POT-LIMIT OMAHA (shortened to PLO) is popular in Europe, online, and in high-stakes "mixed games" played in some American casinos. It is more often played high only, but can also be played high-low. Even more so than Limit Omaha Hi-Lo, PLO is a game of drawing, if you are drawing, to the nut hand.[8] Second best flushes and straights can be, and frequently are, beaten. Furthermore, because of the exponential growth of the pot size in pot-limit play, seeing one of these hands to the end can be very expensive and carry immense reverse implied odds.
+POT-LIMIT OMAHA (shortened to PLO) is popular in Europe, online, and in high-stakes "mixed games" played in some American casinos. It is more often played high only, but can also be played high-low. Even more so than Limit Omaha Hi-Lo, PLO is a game of drawing, if you are drawing, to the nut hand.[8] Second best flushes and straights can be, and frequently are, beaten. Furthermore, because of the exponential growth of the pot size in pot-limit play, seeing one of these hands to the end can be very expensive and carry immense reverse implied odds.
 
 Wraps
 

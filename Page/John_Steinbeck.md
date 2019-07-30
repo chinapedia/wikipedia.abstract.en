@@ -11,7 +11,7 @@ Steinbeck was born on February 27, 1902, in Salinas, California.[7] He was of Ge
 
 His father, John Ernst Steinbeck (1862–1935), served as Monterey County treasurer. John's mother, Olive Hamilton (1867–1934), a former school teacher, shared Steinbeck's passion for reading and writing.[9] The Steinbecks were members of the Episcopal Church,[10] although Steinbeck later became agnostic.[11] Steinbeck lived in a small rural town, no more than a frontier settlement, set in some of the world's most fertile land.[12] He spent his summers working on nearby ranches and later with migrant workers on Spreckels sugar beet farms. There he learned of the harsher aspects of the migrant life and the darker side of human nature, which supplied him with material expressed in such works as _Of Mice and Men_.[13] He explored his surroundings, walking across local forests, fields, and farms.[14] While working at Spreckels Sugar Company, he sometimes worked in their laboratory, which gave him time to write.[15] He had considerable mechanical aptitude and fondness for repairing things he owned.[16]
 
-SteinbeckHouse.jpg at 132 Central Avenue, Salinas, California, the Victorian home where Steinbeck spent his childhood.]] Steinbeck graduated from Salinas High School in 1919 and went on to study English Literature at Stanford University near Palo Alto, leaving without a degree in 1925. He traveled to New York City where he took odd jobs while trying to write. When he failed to publish his work, he returned to California and worked in 1928 as a tour guide and caretaker[17] at Lake Tahoe, where he met Carol Henning, his first wife.[18][19][20] They married in January 1930 in Los Angeles, where, with friends, he attempted to make money by manufacturing plaster mannequins.[21]
+at 132 Central Avenue, Salinas, California, the Victorian home where Steinbeck spent his childhood.]] Steinbeck graduated from Salinas High School in 1919 and went on to study English Literature at Stanford University near Palo Alto, leaving without a degree in 1925. He traveled to New York City where he took odd jobs while trying to write. When he failed to publish his work, he returned to California and worked in 1928 as a tour guide and caretaker[17] at Lake Tahoe, where he met Carol Henning, his first wife.[18][19][20] They married in January 1930 in Los Angeles, where, with friends, he attempted to make money by manufacturing plaster mannequins.[21]
 
 When their money ran out six months later due to a slow market, Steinbeck and Carol moved back to Pacific Grove, California, to a cottage owned by his father, on the Monterey Peninsula a few blocks outside the Monterey city limits. The elder Steinbecks gave John free housing, paper for his manuscripts, and from 1928, loans that allowed him to write without looking for work. During the Great Depression, Steinbeck bought a small boat, and later claimed that he was able to live on the fish and crab that he gathered from the sea, and fresh vegetables from his garden and local farms. When those sources failed, Steinbeck and his wife accepted welfare, and on rare occasions, stole bacon from the local produce market.[22] Whatever food they had, they shared with their friends.[23] Carol became the model for Mary Talbot in Steinbeck's novel _Cannery Row_.[24]
 
@@ -35,8 +35,6 @@ Steinbeck began to write a series of "California novels" and Dust Bowl fiction, 
 _Of Mice and Men_ was a drama about the dreams of two migrant agricultural laborers in California. It was critically acclaimed[37] and Steinbeck's 1962 Nobel Prize citation called it a "little masterpiece".[38] Its stage production was a hit, starring Wallace Ford as George and Broderick Crawford as George's companion, the mentally childlike, but physically powerful itinerant farmhand Lennie. Steinbeck refused to travel from his home in California to attend any performance of the play during its New York run, telling director George S. Kaufman that the play as it existed in his own mind was "perfect" and that anything presented on stage would only be a disappointment. Steinbeck wrote two more stage plays (_The Moon Is Down_ and _Burning Bright_).
 
 _Of Mice and Men_ was also adapted as a 1939 Hollywood film, with Lon Chaney, Jr. as Lennie (he had filled the role in the Los Angeles stage production) and Burgess Meredith as George.[39] Meredith and Steinbeck became close friends for the next two decades.[40] Another film based on the novella was made in 1992 starring Gary Sinise as George and John Malkovich as Lennie.
-
-John-Steinbeck-1939.jpg
 
 Steinbeck followed this wave of success with _The Grapes of Wrath_ (1939), based on newspaper articles about migrant agricultural workers that he had written in San Francisco. It is commonly considered his greatest work. According to _The New York Times_, it was the best-selling book of 1939 and 430,000 copies had been printed by February 1940. In that month, it won the National Book Award, favorite fiction book of 1939, voted by members of the American Booksellers Association.[41] Later that year, it won the Pulitzer Prize for Fiction[42] and was adapted as a film directed by John Ford, starring Henry Fonda as Tom Joad; Fonda was nominated for the best actor Academy Award. _Grapes_ was controversial. Steinbeck's New Deal political views, negative portrayal of aspects of capitalism, and sympathy for the plight of workers, led to a backlash against the author, especially close to home.[43] Claiming the book was both obscene and misrepresented conditions in the county, the Kern County Board of Supervisors banned the book from the county's publicly funded schools and libraries in August 1939. This ban lasted until January 1941.[44]
 
@@ -72,7 +70,7 @@ In 1952, John Steinbeck appeared as the on-screen narrator of 20th Century Fox's
 
 Following the success of _Viva Zapata!_, Steinbeck collaborated with Kazan on _East of Eden_, James Dean's film debut.
 
-TravelswithCharlieVehicle.jpg, camper truck in which Steinbeck traveled across the United States in 1960]] _Travels with Charley: In Search of America_ is a travelogue of his 1960 road trip with his poodle Charley. Steinbeck bemoans his lost youth and roots, while dispensing both criticism and praise for America. According to Steinbeck's son Thom, Steinbeck made the journey because he knew he was dying and wanted to see the country one last time.[57]
+, camper truck in which Steinbeck traveled across the United States in 1960]] _Travels with Charley: In Search of America_ is a travelogue of his 1960 road trip with his poodle Charley. Steinbeck bemoans his lost youth and roots, while dispensing both criticism and praise for America. According to Steinbeck's son Thom, Steinbeck made the journey because he knew he was dying and wanted to see the country one last time.[57]
 
 Steinbeck's last novel, _The Winter of Our Discontent_ (1961), examines moral decline in America. The protagonist Ethan grows discontented with his own moral decline and that of those around him.[58] The book has a very different tone from Steinbeck's amoral and ecological stance in earlier works like _Tortilla Flat_ and _Cannery Row_. It was not a critical success. Many reviewers recognized the importance of the novel, but were disappointed that it was not another _Grapes of Wrath_.[59] In the Nobel Prize presentation speech next year, however, the Swedish Academy cited it most favorably: "Here he attained the same standard which he set in The Grapes of Wrath. Again he holds his position as an independent expounder of the truth with an unbiased instinct for what is genuinely American, be it good or bad."[60]
 
@@ -93,7 +91,7 @@ In 1967, at the behest of _Newsday_ magazine, Steinbeck went to Vietnam to repor
 
 Personal life
 
-John_Steinbeck_with_Elaine_Scott_1950.jpg In May 1948, Steinbeck returned to California on an emergency trip to be with his friend Ed Ricketts, who had been seriously injured when a train struck his car. Ricketts died hours before Steinbeck arrived. Upon returning home, Steinbeck was confronted by Gwyn, who asked for a divorce, which became final in August. Steinbeck spent the year after Ricketts' death in deep depression.
+In May 1948, Steinbeck returned to California on an emergency trip to be with his friend Ed Ricketts, who had been seriously injured when a train struck his car. Ricketts died hours before Steinbeck arrived. Upon returning home, Steinbeck was confronted by Gwyn, who asked for a divorce, which became final in August. Steinbeck spent the year after Ricketts' death in deep depression.
 
 In June 1949, Steinbeck met stage-manager Elaine Scott at a restaurant in Carmel, California. Steinbeck and Scott eventually began a relationship and in December 1950 Steinbeck and Scott married, within a week of the finalizing of Scott's own divorce from actor Zachary Scott. This third marriage for Steinbeck lasted until his death in 1968.[76]
 
@@ -104,7 +102,7 @@ In 1966, Steinbeck traveled to Tel Aviv to visit the site of Mount Hope, a farm 
 
 Death and legacy
 
-SteinbeckGrave.jpg John Steinbeck died in New York City on December 20, 1968, of heart disease and congestive heart failure. He was 66, and had been a lifelong smoker. An autopsy showed nearly complete occlusion of the main coronary arteries.[79]
+John Steinbeck died in New York City on December 20, 1968, of heart disease and congestive heart failure. He was 66, and had been a lifelong smoker. An autopsy showed nearly complete occlusion of the main coronary arteries.[79]
 
 In accordance with his wishes, his body was cremated, and interred on March 4, 1969[80] at the Hamilton family gravesite in Salinas, with those of his parents and maternal grandparents. His third wife, Elaine, was buried in the plot in 2004. He had written to his doctor that he felt deeply "in his flesh" that he would not survive his physical death, and that the biological end of his life was the final end to it.[81]
 
@@ -130,7 +128,7 @@ His later work reflected his wide range of interests, including marine biology, 
 
 Commemoration
 
-MontereyCanneryRow.jpg in Monterey]] NationalSteinbeckCentre.jpg in Salinas, California]]Steinbeck's boyhood home, a turreted Victorian building in downtown Salinas, has been preserved and restored by the Valley Guild, a nonprofit organization. Fixed menu lunches are served Monday through Saturday, and the house is open for tours on Sunday afternoons during the summer.[95]
+in Monterey]] in Salinas, California]]Steinbeck's boyhood home, a turreted Victorian building in downtown Salinas, has been preserved and restored by the Valley Guild, a nonprofit organization. Fixed menu lunches are served Monday through Saturday, and the house is open for tours on Sunday afternoons during the summer.[95]
 
 The National Steinbeck Center, two blocks away at 1 Main Street is the only museum in the U.S. dedicated to a single author. Dana Gioia (chair of the National Endowment for the Arts) told an audience at the center, "This is really the best modern literary shrine in the country, and I've seen them all." Its "Steinbeckiana" includes "Rocinante", the camper-truck in which Steinbeck made the cross-country trip described in _Travels with Charley_.
 
@@ -158,7 +156,7 @@ Steinbeck distanced himself from religious views when he left Salinas for Stanfo
 
 Political views
 
-JohnSteinbeck.JPG, in the Oval Office, May 16, 1966. John Jr. is shortly to leave for active duty in Vietnam.]] Steinbeck's contacts with leftist authors, journalists, and labor union figures may have influenced his writing. He joined the League of American Writers, a Communist organization, in 1935.[106] Steinbeck was mentored by radical writers Lincoln Steffens and his wife Ella Winter. Through Francis Whitaker, a member of the Communist Party USA's John Reed Club for writers, Steinbeck met with strike organizers from the Cannery and Agricultural Workers' Industrial Union.[107] In 1939, he signed a letter with some other writers in support of the Soviet invasion of Finland and the Soviet-established puppet government.[108]
+, in the Oval Office, May 16, 1966. John Jr. is shortly to leave for active duty in Vietnam.]] Steinbeck's contacts with leftist authors, journalists, and labor union figures may have influenced his writing. He joined the League of American Writers, a Communist organization, in 1935.[106] Steinbeck was mentored by radical writers Lincoln Steffens and his wife Ella Winter. Through Francis Whitaker, a member of the Communist Party USA's John Reed Club for writers, Steinbeck met with strike organizers from the Cannery and Agricultural Workers' Industrial Union.[107] In 1939, he signed a letter with some other writers in support of the Soviet invasion of Finland and the Soviet-established puppet government.[108]
 
 Documents released by the Central Intelligence Agency in 2012 indicate that Steinbeck offered his services to the Agency in 1952, while planning a European tour, and the Director of Central Intelligence, Walter Bedell Smith, was eager to take him up on the offer.[109] What work, if any, Steinbeck may have performed for the CIA during the Cold War is unknown.
 
@@ -177,7 +175,7 @@ Major works
 
 _In Dubious Battle_
 
-Dorothea_Lange_-_Migrant_Family_in_Salinas,_CA.tif In 1936, Steinbeck published the first of what came to be known as his Dustbowl trilogy, which included _Of Mice and Men_ and _The Grapes of Wrath_. This first novel tells the story of a fruit pickers' strike in California which is both aided and damaged by the help of "the Party," generally taken to be the Communist Party, although this is never spelled out in the book.
+In 1936, Steinbeck published the first of what came to be known as his Dustbowl trilogy, which included _Of Mice and Men_ and _The Grapes of Wrath_. This first novel tells the story of a fruit pickers' strike in California which is both aided and damaged by the help of "the Party," generally taken to be the Communist Party, although this is never spelled out in the book.
 
 _Of Mice and Men_
 

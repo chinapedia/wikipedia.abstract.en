@@ -56,11 +56,9 @@ United States
 
 The political relations between the United States of America and Myanmar began to face major problems following the 1988 military coup and the junta's outbursts of repression against pro-democracy activists. Subsequent repression, including that of protestors in September 2007, further strained the relationship. However, following signs of democratisation and economic liberalisation, Hillary Clinton, as Secretary of State, and others called for the mending of America's relations with Myanmar in 2011.[34] As a result of the refurbishment of ties, the American authorities in 2012 planned for the re-establishment of ambassador-level relations with Myanmar for the first time since 1990.[35]
 
-Clinton_and_President_Thein_Sein.jpg
-
 Historic relations and diplomacy
 
-Massachusetts, as a US state, attempted to place sanctions against Burma on its own in 1996 but the concept proved to be contradictory to the US Constitution. Later, the United States federal government imposed broad sanctions against Burma under several different legislative and policy vehicles. The Burma Freedom and Democracy Act (BFDA), passed by both the US Senate and their House of Representatives and signed by then President George W. Bush in 2003, imposed a ban on all imports from Myanmar, a ban on the export of financial services to Myanmar, a freeze on the assets of certain Burmese financial institutions, alongside further visa restrictions against Burmese officials. American legislators then renewed the BFDA on an almost annual basis, most recently in July 2010.[36] Embassy_of_Myanmar,_Washington.jpg in Washington, D.C.]]
+Massachusetts, as a US state, attempted to place sanctions against Burma on its own in 1996 but the concept proved to be contradictory to the US Constitution. Later, the United States federal government imposed broad sanctions against Burma under several different legislative and policy vehicles. The Burma Freedom and Democracy Act (BFDA), passed by both the US Senate and their House of Representatives and signed by then President George W. Bush in 2003, imposed a ban on all imports from Myanmar, a ban on the export of financial services to Myanmar, a freeze on the assets of certain Burmese financial institutions, alongside further visa restrictions against Burmese officials. American legislators then renewed the BFDA on an almost annual basis, most recently in July 2010.[36] in Washington, D.C.]]
 
 Since 27 September 2007, the US Department of Treasury froze assets of 25 high-ranking officials Burmese government officials as it was authorised to do so by Executive Order 13310. On 19 October 2007, President George W. Bush imposed a new Executive Order (E.O. 13448) authorising the freezing of assets against individuals who stand accused by the Government of the United States of being party to human rights violations and acts of public corruption, as well as against those who provide material and financial support to the military junta.
 
@@ -72,7 +70,7 @@ The United States lowered its level of representation in Burma from Ambassador t
 
 Recent moves
 
-Obama-thein-sein.jpg in Yangon/Rangoon, the former capital, on 19 November 2012]] US Secretary of State, Hillary Clinton, visited Myanmar in November–December 2011. In this visit, the first by a Secretary of State since 1955, Hillary met with the President of Myanmar, Thein Sein, in the official capital Naypyidaw, and later met with democracy activist Aung San Suu Kyi in Yangon. The US announced a reduction of laws against providing aid to Myanmar and raised the possibility of an exchange of ambassadors.[40]
+in Yangon/Rangoon, the former capital, on 19 November 2012]] US Secretary of State, Hillary Clinton, visited Myanmar in November–December 2011. In this visit, the first by a Secretary of State since 1955, Hillary met with the President of Myanmar, Thein Sein, in the official capital Naypyidaw, and later met with democracy activist Aung San Suu Kyi in Yangon. The US announced a reduction of laws against providing aid to Myanmar and raised the possibility of an exchange of ambassadors.[40]
 
 On 13 January 2012, the US Secretary of State Hillary Clinton announced the US will exchange ambassadors with Myanmar, after a landmark Burmese political prisoner amnesty.[41]
 
@@ -263,7 +261,7 @@ The Republic of Korea and Burma generally enjoy good relations. Burma has an emb
 
 Timeline of diplomatic representation
 
-Burmese_ambassador_level_relations.svg Below are the years that countries have established ambassador-level diplomatic relationships with Myanmar.
+Below are the years that countries have established ambassador-level diplomatic relationships with Myanmar.
 
 -   1947: Pakistan, United Kingdom, United States of America, Netherlands
 -   1948: France, India, Soviet Union (now Russia), Thailand

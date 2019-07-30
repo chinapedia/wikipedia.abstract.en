@@ -10,11 +10,11 @@ Nomenclature
 
 Observation history
 
-Mira_light_curve.png of Mira, generated using the AAVSO light curve generator tool]] Evidence that the variability of Mira was known in ancient China, Babylon or Greece is at best only circumstantial.[3] What is certain is that the variability of Mira was recorded by the astronomer David Fabricius beginning on August 3, 1596. Observing what he thought was the planet Mercury (later identified as Jupiter), he needed a reference star for comparing positions and picked a previously unremarked third-magnitude star nearby. By August 21, however, it had increased in brightness by one magnitude, then by October had faded from view. Fabricius assumed it was a nova, but then saw it again on February 16, 1609.[4]
+of Mira, generated using the AAVSO light curve generator tool]] Evidence that the variability of Mira was known in ancient China, Babylon or Greece is at best only circumstantial.[3] What is certain is that the variability of Mira was recorded by the astronomer David Fabricius beginning on August 3, 1596. Observing what he thought was the planet Mercury (later identified as Jupiter), he needed a reference star for comparing positions and picked a previously unremarked third-magnitude star nearby. By August 21, however, it had increased in brightness by one magnitude, then by October had faded from view. Fabricius assumed it was a nova, but then saw it again on February 16, 1609.[4]
 
 In 1638 Johannes Holwarda determined a period of the star's reappearances, eleven months; he is often credited with the discovery of Mira's variability. Johannes Hevelius was observing it at the same time and named it Mira in 1662, for it acted like no other known star. Ismail Bouillaud then estimated its period at 333 days, less than one day off the modern value of 332 days. Bouillaud's measurement may not have been erroneous: Mira is known to vary slightly in period, and may even be slowly changing over time. The star is estimated to be a 6-billion-year-old red giant.[5]
 
-Mira_the_star.jpg There is considerable speculation as to whether Mira had been observed prior to Fabricius. Certainly Algol's history (known for certain as a variable only in 1667, but with legends and such dating back to antiquity showing that it had been observed with suspicion for millennia) suggests that Mira might have been known too. Karl Manitius, a modern translator of Hipparchus' _Commentary on Aratus_, has suggested that certain lines from that second-century text may be about Mira. The other pre-telescopic Western catalogs of Ptolemy, al-Sufi, Ulugh Beg, and Tycho Brahe turn up no mentions, even as a regular star. There are three observations from Chinese and Korean archives, in 1596, 1070, and the same year when Hipparchus would have made his observation (134 BC) that are suggestive, but the Chinese practice of pinning down observations no more precisely than within a given Chinese constellation makes it difficult to be sure.
+There is considerable speculation as to whether Mira had been observed prior to Fabricius. Certainly Algol's history (known for certain as a variable only in 1667, but with legends and such dating back to antiquity showing that it had been observed with suspicion for millennia) suggests that Mira might have been known too. Karl Manitius, a modern translator of Hipparchus' _Commentary on Aratus_, has suggested that certain lines from that second-century text may be about Mira. The other pre-telescopic Western catalogs of Ptolemy, al-Sufi, Ulugh Beg, and Tycho Brahe turn up no mentions, even as a regular star. There are three observations from Chinese and Korean archives, in 1596, 1070, and the same year when Hipparchus would have made his observation (134 BC) that are suggestive, but the Chinese practice of pinning down observations no more precisely than within a given Chinese constellation makes it difficult to be sure.
 
 
 Distance
@@ -28,13 +28,13 @@ This binary star system consists of a red giant (Mira, designated Mira A) underg
 
 Component A
 
-Mira_in_UV_and_Visible_Light.jpg Mira A is currently an asymptotic giant branch (AGB) star, in the thermally pulsing AGB phase.[9][10] Each pulse lasts a decade or more, and an amount of time on the order of 10,000 years passes between each pulse. With every pulse cycle Mira increases in luminosity and the pulses grow stronger. This is also causing dynamic instability in Mira, resulting in dramatic changes in luminosity and size over shorter, irregular time periods.[11]
+Mira A is currently an asymptotic giant branch (AGB) star, in the thermally pulsing AGB phase.[9][10] Each pulse lasts a decade or more, and an amount of time on the order of 10,000 years passes between each pulse. With every pulse cycle Mira increases in luminosity and the pulses grow stronger. This is also causing dynamic instability in Mira, resulting in dramatic changes in luminosity and size over shorter, irregular time periods.[11]
 
 The overall shape of Mira A has been observed to change, exhibiting pronounced departures from symmetry. These appear to be caused by bright spots on the surface that evolve their shape on time scales of 3–14 months. Observations of Mira A in the ultraviolet band by the Hubble Space Telescope have shown a plume-like feature pointing toward the companion star.[12]
 
 Variability
 
-Mira_1997.jpg in August 1997]] Mira A is a well-known example of a category of variable stars known as Mira variables, which are named after it. The 6,000 to 7,000 known stars of this class[13] are all red giants whose surfaces pulsate in such a way as to increase and decrease in brightness over periods ranging from about 80 to more than 1000 days.
+in August 1997]] Mira A is a well-known example of a category of variable stars known as Mira variables, which are named after it. The 6,000 to 7,000 known stars of this class[13] are all red giants whose surfaces pulsate in such a way as to increase and decrease in brightness over periods ranging from about 80 to more than 1000 days.
 
 In the particular case of Mira, its increases in brightness take it up to about magnitude 3.5 on average, placing it among the brighter stars in the Cetus constellation. Individual cycles vary too; well-attested maxima go as high as magnitude 2.0 in brightness and as low as 4.9, a range almost 15 times in brightness, and there are historical suggestions that the real spread may be three times this or more. Minima range much less, and have historically been between 8.6 and 10.1, a factor of four times in luminosity. The total swing in brightness from absolute maximum to absolute minimum (two events which did not occur on the same cycle) is 1700 times. Since Mira emits the vast majority of its radiation in the infrared, its variability in that band is only about two magnitudes. The shape of its light curve is of an increase over about 100 days, and the return to minimum taking twice as long.[14]
 
@@ -68,7 +68,7 @@ Contemporary approximate maxima for Mira:[15]
 -   Jul 16, 2022
 -   Jun 13, 2023
 
-Chi_Cygni_pulsations.png, showing the relation between the visual light curve, temperature, radius, and luminosity typical of Mira variable stars]] From northern temperate latitudes, Mira is generally not visible between late March and June due to its proximity to the Sun. This means that at times several years can pass without it appearing as a naked-eye object.
+, showing the relation between the visual light curve, temperature, radius, and luminosity typical of Mira variable stars]] From northern temperate latitudes, Mira is generally not visible between late March and June due to its proximity to the Sun. This means that at times several years can pass without it appearing as a naked-eye object.
 
 The pulsations of Mira variables cause the star to expand and contract, but also to change its temperature. The temperature is highest slightly after the visual maximum, and lowest slightly before minimum. The photosphere, measured at the Rosseland radius, is smallest just before visual maximum and close to the time of maximum temperature. The largest size is reached slightly before the time of lowest temperature. The bolometric luminosity is proportional to the fourth power of the temperature and the square of the radius, but the radius varies by over 20% and the temperature by less than 10%.[16]
 
@@ -82,7 +82,7 @@ Mass loss
 
 Ultra-violet studies of Mira by NASA's Galaxy Evolution Explorer (GALEX) space telescope have revealed that it sheds a trail of material from the outer envelope, leaving a tail 13 light-years in length, formed over tens of thousands of years.[20][21] It is thought that a hot bow-wave of compressed plasma/gas is the cause of the tail; the bow-wave is a result of the interaction of the stellar wind from Mira A with gas in interstellar space, through which Mira is moving at an extremely high speed of 130 kilometres/second (291,000 miles per hour).[22] The tail consists of material stripped from the head of the bow-wave, which is also visible in ultra-violet observations. Mira's bow-shock will eventually evolve into a planetary nebula, the form of which will be considerably affected by the motion through the interstellar medium (ISM).[23]
 
-A-Mira-Full_down_sampled_and_cropped.jpg.]]
+.]]
 
 Component B
 

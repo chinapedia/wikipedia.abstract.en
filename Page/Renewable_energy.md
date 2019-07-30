@@ -1,4 +1,4 @@
-Alternative_Energies.jpg, solar, and hydroelectricity are three renewable sources of energy.]] Global_public_support_for_energy_sources_(Ipsos_2011).png[1]]] RENEWABLE ENERGY is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat.[2] Renewable energy often provides energy in four important areas: electricity generation, air and water heating/cooling, transportation, and rural (off-grid) energy services.[3]
+, solar, and hydroelectricity are three renewable sources of energy.]] [1]]] RENEWABLE ENERGY is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat.[2] Renewable energy often provides energy in four important areas: electricity generation, air and water heating/cooling, transportation, and rural (off-grid) energy services.[3]
 
 Based on REN21's 2017 report, renewables contributed 19.3% to humans' global energy consumption and 24.5% to their generation of electricity in 2015 and 2016, respectively. This energy consumption is divided as 8.9% coming from traditional biomass, 4.2% as heat energy (modern biomass, geothermal and solar heat), 3.9% from hydroelectricity and the remaining 2.2% is electricity from wind, solar, geothermal, and other forms of biomass. Worldwide investments in renewable technologies amounted to more than US$286 billion in 2015.[4] Globally, there are an estimated 7.7 million jobs associated with the renewable energy industries, with solar photovoltaics being the largest renewable employer.[5] Renewable energy systems are rapidly becoming more efficient and cheaper and their share of total energy consumption is increasing.[6] worldwide, more than two-thirds of all new electricity capacity installed was renewable.[7] Growth in consumption of coal and oil could end by 2020 due to increased uptake of renewables and natural gas.[8][9]
 
@@ -9,7 +9,7 @@ While many renewable energy projects are large-scale, renewable technologies are
 
 Overview
 
-Total_World_Energy_Consumption_by_Source_2013.png by source. Renewables accounted for 19% in 2012.]] Tûranor_PlanetSolar_Rabat.JPG, the world's largest solar-powered boat and the first ever solar electric vehicle to circumnavigate the globe (in 2012)]]
+by source. Renewables accounted for 19% in 2012.]] , the world's largest solar-powered boat and the first ever solar electric vehicle to circumnavigate the globe (in 2012)]]
 
 Renewable energy flows involve natural phenomena such as sunlight, wind, tides, plant growth, and geothermal heat, as the International Energy Agency explains:[22]
 
@@ -31,7 +31,7 @@ Renewable energy often displaces conventional fuels in four areas: electricity g
 
 -   TRANSPORTATION
 
-Soybeanbus.jpg]]
+]]
 
     Bioethanol is an alcohol made by fermentation, mostly from carbohydrates produced in sugar or starch crops such as corn, sugarcane, or sweet sorghum. Cellulosic biomass, derived from non-food sources such as trees and grasses is also being developed as a feedstock for ethanol production. Ethanol can be used as a fuel for vehicles in its pure form, but it is usually used as a gasoline additive to increase octane and improve vehicle emissions. Bioethanol is widely used in the USA and in Brazil. Biodiesel can be used as a fuel for vehicles in its pure form, but it is usually used as a diesel additive to reduce levels of particulates, carbon monoxide, and hydrocarbons from diesel-powered vehicles. Biodiesel is produced from oils or fats using transesterification and is the most common biofuel in Europe.
 
@@ -51,7 +51,7 @@ Mainstream technologies
 
 Wind power
 
-Shepherds_Flat_Wind_Farm_2011.jpg near Arlington, Oregon, US]] Global_Map_of_Wind_Power_Density_Potential.png In 2018, worldwide installed capacity of wind power was 564 GW.[46]
+near Arlington, Oregon, US]] In 2018, worldwide installed capacity of wind power was 564 GW.[46]
 
 Air flow can be used to run wind turbines. Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine.[47] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Typically, full load hours of wind turbines vary between 16 and 57 percent annually, but might be higher in particularly favorable offshore sites.[48]
 
@@ -61,7 +61,7 @@ Globally, the long-term technical potential of wind energy is believed to be fiv
 
 Hydropower
 
-ThreeGorgesDam-China2009.jpg on the Yangtze River in China]] In 2017, worldwide renewable hydropower capacity was 1,154 GW.[50]
+on the Yangtze River in China]] In 2017, worldwide renewable hydropower capacity was 1,154 GW.[50]
 
 Since water is about 800 times denser than air, even a slow flowing stream of water, or moderate sea swell, can yield considerable amounts of energy. There are many forms of water energy:
 
@@ -75,7 +75,7 @@ Wave power, which captures the energy of ocean surface waves, and tidal power, c
 
 Solar energy
 
-Topaz_Solar_Farm,_California_Valley.jpg in California, US]] Global_Map_of_Global_Horizontal_Radiation.png In 2017, global installed solar capacity was 390 GW.[57]
+in California, US]] In 2017, global installed solar capacity was 390 GW.[57]
 
 Solar energy, radiant light and heat from the sun, is harnessed using a range of ever-evolving technologies such as solar heating, photovoltaics, concentrated solar power (CSP), concentrator photovoltaics (CPV), solar architecture and artificial photosynthesis.[58][59] Solar technologies are broadly characterized as either passive solar or active solar depending on the way they capture, convert, and distribute solar energy. Passive solar techniques include orienting a building to the Sun, selecting materials with favorable thermal mass or light dispersing properties, and designing spaces that naturally circulate air. Active solar technologies encompass solar thermal energy, using solar collectors for heating, and solar power, converting sunlight into electricity either directly using photovoltaics (PV), or indirectly using concentrated solar power (CSP).
 
@@ -85,7 +85,7 @@ In 2011, the International Energy Agency said that "the development of affordabl
 
 Geothermal energy
 
-NesjavellirPowerPlant_edit2.jpg in Iceland]] Global geothermal capacity in 2017 was 12.9 GW.[66]
+in Iceland]] Global geothermal capacity in 2017 was 12.9 GW.[66]
 
 High Temperature Geothermal energy is from thermal energy generated and stored in the Earth. Thermal energy is the energy that determines the temperature of matter. Earth's geothermal energy originates from the original formation of the planet and from radioactive decay of minerals (in currently uncertain[67] but possibly roughly equal[68] proportions). The geothermal gradient, which is the difference in temperature between the core of the planet and its surface, drives a continuous conduction of thermal energy in the form of heat from the core to the surface. The adjective _geothermal_ originates from the Greek roots _geo_, meaning earth, and _thermos_, meaning heat.
 
@@ -125,8 +125,6 @@ Renewable power has been more effective in creating jobs than coal or oil in the
 
 Growth of renewables
 
-GlobalREPowerCapacity-exHydro-Eng.png Bp_world_energy_consumption_2016.gif
-
 From the end of 2004, worldwide renewable energy capacity grew at rates of 10–60% annually for many technologies. In 2015 global investment in renewables rose 5% to $285.9 billion, breaking the previous record of $278.5 billion in 2011. 2015 was also the first year that saw renewables, excluding large hydro, account for the majority of all new power capacity (134 GW, making up 53.6% of the total). Of the renewables total, wind accounted for 72 GW and solar photovoltaics 56 GW; both record-breaking numbers and sharply up from 2014 figures (49 GW and 45 GW respectively). In financial terms, solar made up 56% of total new investment and wind accounted for 38%.
 
 In 2014 global wind power capacity expanded 16% to 369,553 MW.[93] Yearly wind energy production is also growing rapidly and has reached around 4% of worldwide electricity usage,[94] 11.4% in the EU,[95] and it is widely used in Asia, and the United States. In 2015, worldwide installed photovoltaics capacity increased to 227 gigawatts (GW), sufficient to supply 1 percent of global electricity demands.[96] Solar thermal energy stations operate in the United States and Spain, and as of 2016, the largest of these is the 392 MW Ivanpah Solar Electric Generating System in California.[97][98] The world's largest geothermal power installation is The Geysers in California, with a rated capacity of 750 MW. Brazil has one of the largest renewable energy programs in the world, involving production of ethanol fuel from sugar cane, and ethanol now provides 18% of the country's automotive fuel. Ethanol fuel is also widely available in the United States.
@@ -151,7 +149,7 @@ In 2017 the world renewable hydropower capacity was 1,154 GW.[106] Only a quart
 
 Wind power development
 
-Global_Wind_Power_Cumulative_Capacity.svg Thames_Estuary_and_Wind_Farms_from_Space_NASA_with_annotations.jpg area: Kentish Flats, Gunfleet Sands, Thanet and London Array. The latter is the largest in the world as of April 2013.]]
+area: Kentish Flats, Gunfleet Sands, Thanet and London Array. The latter is the largest in the world as of April 2013.]]
 
 Wind power is widely used in Europe, China, and the United States. From 2004 to 2017, worldwide installed capacity of wind power has been growing from 47 GW to 514 GW—a more than tenfold increase within 13 years[110] As of the end of 2014, China, the United States and Germany combined accounted for half of total global capacity.[111] Several other countries have achieved relatively high levels of wind power penetration, such as 21% of stationary electricity production in Denmark, 18% in Portugal, 16% in Spain, and 14% in Ireland in 2010 and have since continued to expand their installed capacity.[112][113] More than 80 countries around the world are using wind power on a commercial basis.[114]
 
@@ -167,7 +165,7 @@ Wind turbines are increasing in power with some commercially deployed models gen
 
 Solar thermal
 
-IvanpahRunning.JPG with all three towers under load, Feb 2014. Taken from I-15.]] PS20andPS10.jpg and PS20 solar thermal plants in Spain]] Solar thermal energy capacity has increased from 1.3 GW in 2012 to 5.0 GW in 2017.[122]
+with all three towers under load, Feb 2014. Taken from I-15.]] and PS20 solar thermal plants in Spain]] Solar thermal energy capacity has increased from 1.3 GW in 2012 to 5.0 GW in 2017.[122]
 
 Spain is the world leader in solar thermal power deployment with 2.3 GW deployed.[123] The United States has 1.8 GW,[124] most of it in California where 1.4 GW of solar thermal power projects are operational.[125] Several power plants have been constructed in the Mojave Desert, Southwestern United States. As of 2017 only 4 other countries have deployments above 100 MW:[126] South Africa (300 MW) India (229 MW) Morocco (180 MW) and United Arab Emirates (100 MW).
 
@@ -191,11 +189,11 @@ Worldwide growth of PV capacity grouped by region in MW (2006–2014)
 
 PV uses solar cells assembled into solar panels to convert sunlight into electricity. PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station. The predominant PV technology is crystalline silicon, while thin-film solar cell technology accounts for about 10 percent of global photovoltaic deployment. In recent years, PV technology has improved its electricity generating efficiency, reduced the installation cost per watt as well as its energy payback time, and reached grid parity in at least 30 different markets by 2014.[132] Building-integrated photovoltaics or "onsite" PV systems use existing land and structures and generate power close to where it is consumed.[133]
 
-Photovoltaics grew fastest in China, followed by Japan and the United States. Italy meets 7.9 percent of its electricity demands with photovoltaic power—the highest share worldwide.[134] Solar power is forecasted to become the world's largest source of electricity by 2050, with solar photovoltaics and concentrated solar power contributing 16% and 11%, respectively. This requires an increase of installed PV capacity to 4,600 GW, of which more than half is expected to be deployed in China and India.[135]Solar_Panels_at_Topaz_Solar_1_(8159002527)_(2).jpgs at the 550 MW Topaz Solar Farm]]Commercial concentrated solar power plants were first developed in the 1980s. As the cost of solar electricity has fallen, the number of grid-connected solar PV systems has grown into the millions and utility-scale solar power stations with hundreds of megawatts are being built. Many solar photovoltaic power stations have been built, mainly in Europe, China and the United States.[136] The 1.5 GW Tengger Desert Solar Park, in China is the world's largest PV power station. Many of these plants are integrated with agriculture and some use tracking systems that follow the sun's daily path across the sky to generate more electricity than fixed-mounted systems.
+Photovoltaics grew fastest in China, followed by Japan and the United States. Italy meets 7.9 percent of its electricity demands with photovoltaic power—the highest share worldwide.[134] Solar power is forecasted to become the world's largest source of electricity by 2050, with solar photovoltaics and concentrated solar power contributing 16% and 11%, respectively. This requires an increase of installed PV capacity to 4,600 GW, of which more than half is expected to be deployed in China and India.[135]s at the 550 MW Topaz Solar Farm]]Commercial concentrated solar power plants were first developed in the 1980s. As the cost of solar electricity has fallen, the number of grid-connected solar PV systems has grown into the millions and utility-scale solar power stations with hundreds of megawatts are being built. Many solar photovoltaic power stations have been built, mainly in Europe, China and the United States.[136] The 1.5 GW Tengger Desert Solar Park, in China is the world's largest PV power station. Many of these plants are integrated with agriculture and some use tracking systems that follow the sun's daily path across the sky to generate more electricity than fixed-mounted systems.
 
 Biofuel development
 
-Sao_Paulo_ethanol_pump_04_2008_74_zoom.jpg produces bioethanol made from sugarcane available throughout the country. A typical gas station with dual fuel service is marked "A" for alcohol (ethanol) and "G" for gasoline.]] Bioenergy global capacity in 2017 was 109 GW.[137] Biofuels provided 3% of the world's transport fuel in 2017.[138]
+produces bioethanol made from sugarcane available throughout the country. A typical gas station with dual fuel service is marked "A" for alcohol (ethanol) and "G" for gasoline.]] Bioenergy global capacity in 2017 was 109 GW.[137] Biofuels provided 3% of the world's transport fuel in 2017.[138]
 
 Mandates for blending biofuels exist in 31 countries at the national level and in 29 states/provinces.[139] According to the International Energy Agency, biofuels have the potential to meet more than a quarter of world demand for transportation fuels by 2050.[140]
 
@@ -205,7 +203,7 @@ Nearly all the gasoline sold in the United States today is mixed with 10% ethano
 
 Geothermal development
 
-West_Ford_Flat_Geothermal_Cooling_Tower.JPG, California, US]] Global geothermal capacity in 2017 was 12.9 GW.[146]
+, California, US]] Global geothermal capacity in 2017 was 12.9 GW.[146]
 
 Geothermal power is cost effective, reliable, sustainable, and environmentally friendly,[147] but has historically been limited to areas near tectonic plate boundaries. Recent technological advances have expanded the range and size of viable resources, especially for applications such as home heating, opening a potential for widespread exploitation. Geothermal wells release greenhouse gases trapped deep within the earth, but these emissions are usually much lower per energy unit than those of fossil fuels. As a result, geothermal power has the potential to help mitigate global warming if widely deployed in place of fossil fuels.
 
@@ -213,7 +211,7 @@ In 2017, the United States led the world in geothermal electricity production wi
 
 Developing countries
 
-Solar-Panel-Cooker-in-front-of-hut.jpgs use sunlight as energy source for outdoor cooking]]
+s use sunlight as energy source for outdoor cooking]]
 
 Renewable energy technology has sometimes been seen as a costly luxury item by critics, and affordable only in the affluent developed world. This erroneous view has persisted for many years, however between 2016 and 2017, investments in renewable energy were higher in developing countries than in devloped countries, with China leading global investment with a record 126.6 billion dollars. Many Latin American and African countries increased their investments significantly as well.[151] Renewable energy can be particularly suitable for developing countries. In rural and remote areas, transmission and distribution of energy generated from fossil fuels can be difficult and expensive. Producing renewable energy locally can offer a viable alternative.[152]
 
@@ -229,8 +227,6 @@ Policy
 Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in early 2000s, most countries around the world now have some form of energy policy.[159]
 
 Policy trends
-
-Global-RE-Investment-VC-Eng.png
 
 The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, by 75 countries signing the charter of IRENA.[160] As of April 2019, IRENA has 160 member states.[161] The then United Nations' Secretary-General Ban Ki-moon has said that renewable energy has the ability to lift the poorest nations to new levels of prosperity,[162] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy.[163]
 
@@ -259,7 +255,7 @@ There are numerous organizations within the academic, federal, and commercial se
 
 -   Enhanced geothermal system
 
-EGS_diagram.svg _(see file description for details)_]]
+_(see file description for details)_]]
 
     Enhanced geothermal systems (EGS) are a new type of geothermal power technologies that do not require natural convective hydrothermal resources. The vast majority of geothermal energy within drilling reach is in dry and non-porous rock.[186] EGS technologies "enhance" and/or create geothermal resources in this "hot dry rock (HDR)" through hydraulic stimulation. EGS and HDR technologies, such as hydrothermal geothermal, are expected to be baseload resources which produce power 24 hours a day like a fossil plant. Distinct from hydrothermal, HDR and EGS may be feasible anywhere in the world, depending on the economic limits of drill depth. Good locations are over deep granite covered by a thick (3–5 km) layer of insulating sediments which slow heat loss.[187] There are HDR and EGS systems currently being developed and tested in France, Australia, Japan, Germany, the U.S. and Switzerland. The largest EGS project in the world is a 25 megawatt demonstration plant currently being developed in the Cooper Basin, Australia. The Cooper Basin has the potential to generate 5,000–10,000 MW.
 
@@ -269,7 +265,7 @@ EGS_diagram.svg _(see file description for details)_]]
 
 -   Marine energy
 
-Rance_tidal_power_plant.JPG, France]]
+, France]]
 
     Marine energy (also sometimes referred to as ocean energy) refers to the energy carried by ocean waves, tides, salinity, and ocean temperature differences. The movement of water in the world's oceans creates a vast store of kinetic energy, or energy in motion. This energy can be harnessed to generate electricity to power homes, transport and industries. The term marine energy encompasses both wave powerpower from surface waves, and tidal powerobtained from the kinetic energy of large bodies of moving water. Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh river water and salty sea water in large power cells designed for this purpose; as of 2016 it is being tested at a small scale (50 kW). Offshore wind power is not a form of marine energy, as wind power is derived from the wind, even if the wind turbines are placed over water. The oceans have a tremendous amount of energy and are close to many if not most concentrated populations. Ocean energy has the potential of providing a substantial amount of new renewable energy around the world.[190]
 
@@ -307,7 +303,7 @@ Rance_tidal_power_plant.JPG, France]]
 
 -   Solar aircraft
 
-Solar_Impulse_SI2_pilote_Bertrand_Piccard_Payerne_November_2014.jpg 2'' was the first solar-powered aircraft to complete a circumnavigation of the world.]]
+2'' was the first solar-powered aircraft to complete a circumnavigation of the world.]]
 
     An electric aircraft is an aircraft that runs on electric motors rather than internal combustion engines, with electricity coming from fuel cells, solar cells, ultracapacitors, power beaming,[211] or batteries.
 

@@ -18,11 +18,11 @@ René Laennec wrote the classic treatise _De l'Auscultation Médiate_, published
 
 Laennec had discovered that the new stethoscope was superior to the normally used method of placing the ear over the chest, particularly if the patient was overweight. A stethoscope also avoided the embarrassment of placing the ear against the chest of a woman.[7]
 
-Rene-Theophile-Hyacinthe_Laennec_Drawings_stethoscope_1819.jpg, 1819]] Stethoscope-2.png ]] Laennec is said to have seen schoolchildren playing with long, hollow sticks in the days leading up to his innovation.[8] The children held their ear to one end of the stick while the opposite end was scratched with a pin, the stick transmitted and amplified the scratch. His skill as a flautist may also have inspired him. He built his first instrument as a 25 cm by 2.5 cm hollow wooden cylinder, which he later refined to comprise three detachable parts. The refined design featured a funnel-shaped cavity to augment the sound, separable from the body of the stethoscope.[9]
+, 1819]] ]] Laennec is said to have seen schoolchildren playing with long, hollow sticks in the days leading up to his innovation.[8] The children held their ear to one end of the stick while the opposite end was scratched with a pin, the stick transmitted and amplified the scratch. His skill as a flautist may also have inspired him. He built his first instrument as a 25 cm by 2.5 cm hollow wooden cylinder, which he later refined to comprise three detachable parts. The refined design featured a funnel-shaped cavity to augment the sound, separable from the body of the stethoscope.[9]
 
 His clinical work allowed him to follow chest patients from bedside to the autopsy table. He was therefore able to correlate sounds captured by his new instruments with specific pathological changes in the chest, in effect pioneering a new non-invasive diagnostic tool. Pulmonary phthisis, for example, was one ailment he could more clearly identify using his knowledge of typical and atypical chest sounds.[10] Laennec was the first to classify and discuss the terms rales, rhonchi, crepitance, and egophony – terms that doctors now use on a daily basis during physical exams and diagnoses.[11] Laënnec presented his findings and research on the stethoscope to the Academy of Sciences in Paris, and in 1819 he published his masterpiece, _De l’auscultation médiate ou Traité du Diagnostic des Maladies des Poumon et du Coeur_, 8 in two volumes.[12]
 
-Laennec coined the phrase _mediate auscultation_ (indirect listening), as opposed to the popular practice at the time of directly placing the ear on the chest (immediate auscultation). He named his instrument the stethoscope, from the Greek words _στήθος[stethos]_ (chest), and _σκοπός[skopos]_ (examination). Laennecs_stethoscope,_c_1820._(9660576833).jpg The stethoscope quickly gained popularity as _De l'Auscultation Médiate_ was translated and distributed across France, England, Italy and Germany in the early 1820s.[13] However, not all doctors readily embraced the new stethoscope. Although the _New England Journal of Medicine_ reported the invention of the stethoscope two years later in 1821, as late as 1885, a professor of medicine stated, "He that hath ears to hear, let him use his ears and not a stethoscope." Even the founder of the American Heart Association, L. A. Connor (1866–1950) carried a silk handkerchief with him to place on the wall of the chest for ear auscultation.[14]
+Laennec coined the phrase _mediate auscultation_ (indirect listening), as opposed to the popular practice at the time of directly placing the ear on the chest (immediate auscultation). He named his instrument the stethoscope, from the Greek words _στήθος[stethos]_ (chest), and _σκοπός[skopos]_ (examination). The stethoscope quickly gained popularity as _De l'Auscultation Médiate_ was translated and distributed across France, England, Italy and Germany in the early 1820s.[13] However, not all doctors readily embraced the new stethoscope. Although the _New England Journal of Medicine_ reported the invention of the stethoscope two years later in 1821, as late as 1885, a professor of medicine stated, "He that hath ears to hear, let him use his ears and not a stethoscope." Even the founder of the American Heart Association, L. A. Connor (1866–1950) carried a silk handkerchief with him to place on the wall of the chest for ear auscultation.[14]
 
 Laennec often referred to the stethoscope as "the cylinder," and as he neared death only a few years later, he bequeathed his own stethoscope to his nephew, referring to it as "the greatest legacy of my life."
 
@@ -31,7 +31,7 @@ The modern binaural stethoscope with two ear pieces was invented in 1851 by Arth
 
 Other medical contributions
 
-Laennec_-_Théobald_Chartran.jpg a patient before his students]] He developed the understanding of peritonitis and cirrhosis. Although the disease of cirrhosis was known, Laennec gave cirrhosis its name, using the Greek word (_kirrhos_, tawny) that referred to the tawny, yellow nodules characteristic of the disease.
+a patient before his students]] He developed the understanding of peritonitis and cirrhosis. Although the disease of cirrhosis was known, Laennec gave cirrhosis its name, using the Greek word (_kirrhos_, tawny) that referred to the tawny, yellow nodules characteristic of the disease.
 
 He coined the term melanoma and described metastases of melanoma to the lungs. In 1804, while still a medical student, he was the first person to lecture on melanoma. This lecture was subsequently published in 1805. Laennec actually used the term 'melanose,' which he derived from the Greek (_mela_, _melan_) for "black." Over the years, there were bitter exchanges between Laennec and Dupuytren, the latter objecting that there was no mention of his work in this area and his role in its discovery.
 
@@ -48,8 +48,6 @@ In Sir John Forbes' annotated translation of Laennec's treatise, it is reported:
 
 
 Legacy
-
-Rene-Theophile-Hyacinthe_Laennec2.jpg
 
 -   Laennec's cirrhosis refers to the appearance of regenerated liver, comprising small lobules separated by a fine, fibrous tissue; Laennec's thrombus is an antenatal thrombus in the heart.
 -   Laennec's pearls refer to sputum produced by asthmatics.

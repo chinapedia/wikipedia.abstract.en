@@ -41,13 +41,9 @@ Models
 
 Porsche introduced the 944 for the 1982 model year. It was slightly faster (despite having a poorer drag co-efficient), was better equipped and more refined than the 924; it had better handling and stopping power, and was more comfortable to drive. The factory-claimed a 0–97 km/h (60 mph) acceleration time of less than 9 seconds (8.3 seconds according to "Porsche the Ultimate Guide" By Scott Faragher). The factory-claimed top speed of was also pessimistic, Autocar having verified a top speed of .[6] The car had a nearly even front to rear weight distribution (50.7% front/49.3% rear) courtesy of the rear transaxle balancing out the engine in the front.[7] North American-market cars had bigger bumpers and the front bumper had a larger rubber portion, replacing the auxiliary lights as required by the North American laws.[8]
 
-'82-'85_Porsche_944.JPG
-
 In mid-1985, the 944 underwent its first significant changes, these included: new dashboard and door panels, embedded radio antenna, upgraded alternator (from 90 amp to 115 amp), increased oil sump capacity, new front and rear cast alloy control arms and semi-trailing arms, larger fuel tank, optional heated and powered seats, Porsche HiFi sound system, and revisions in the mounting of the transaxle to reduce noise and vibration. The front windshield was now a flush-mounted unit. The "cookie cutter" style wheels used in the early 944s were upgraded to new "phone dial" style wheels (Fuchs wheels remained an option).
 
 For the 1987 model year, the 944 Motronic DME was updated, and newly incorporated elements included anti-lock braking system and airbags. Because of the ABS, the wheel offset was changed to and Fuchs wheels were no longer available as an option.
-
-1989_Porsche_944_2.7L.jpg
 
 In early 1989 before the release of the 944S2, Porsche upgraded the 944's engine from the 2.5 L four cylinder engine to a 2.7 L engine having a bore of and stroke of , with a rated power output of (versus for the 1988 2.5 L version) and a significant increase in torque. In addition to the increase in displacement, the new engine featured a siamesed-cylinder block design and a different cylinder head which incorporated larger valves.[9]
 
@@ -58,8 +54,6 @@ In 1983, American tuning company Callaway Cars began offering a turbocharged pac
 944 Turbo (951/952)
 
 For the 1986 model year, Porsche introduced the 944 Turbo, known internally as the 951. The Turbo had a turbocharged and intercooled version of the standard 944's engine that generated ( in the US) at 6,000 rpm. In 1987, _Car and Driver_ tested the 944 Turbo and achieved a time of 5.9 seconds. The Turbo was the first Porsche production car utilising a ceramic port liner to retain exhaust gas temperature along with new forged pistons and was also the first vehicle to produce an identical power output with or without a catalytic converter. The Turbo also featured several other changes, such as improved aerodynamics, notably an integrated front bumper. This featured the widest turn signals (indicators) fitted to any production car, a strengthened gearbox with a different final drive ratio, standard external oil coolers for both the engine and transmission, standard 16 inch wheels (optional forged Fuchs wheels), and a slightly stiffer suspension (progressive springs) to handle the extra weight. The Turbo's front and rear brakes were borrowed from the 911, with Brembo 4-piston fixed calipers and 12-inch discs. ABS also came standard. Engine component revisions, more than thirty in all, were made to the 951 to compensate for increased internal loads and heat.
-
-1987_Porsche_944_Turbo.JPG
 
 Changes occurred for the 1987 model year. Interior wise, the North American variant of the 1987 944 Turbo became the first production car in the world to be equipped with driver and passenger side air bags as standard equipment. A low oil level light was added to the dash as well as a speedometer as opposed to the speedometer on the 1986 model year cars. Also included was the deletion of the transmission oil cooler, and a change in suspension control arms to reduce the car's scrub radius. The engine remained the same M44/51 inline-4 as in the 1986 model.
 
@@ -73,8 +67,6 @@ In 1989 and later production years, the 'S' designation was dropped from the 944
 
 944 S
 
-Porsche_944_S_^_Audi_R8_-_Flickr_-_Alexandre_Prévot_(2).jpg
-
 For the 1987 model year, the 944 S (the S being the abbreviation of Super) was introduced. The 944 S featured a high performance naturally aspirated, dual-overhead-cam 16-valve version of the 2.5 L engine (M44/40) featuring a self-adjusting timing belt tensioner. This marked the first use of four-valves-per-cylinder heads and DOHC in the 944, derived from the 928 S4 featuring a redesigned camshaft drive, a magnesium intake tract/passages, magnesium valve cover, larger capacity oil sump, and revised exhaust system. The alternator capacity was 115 amps. The wheel bearings were also strengthened and the brake servo action was made more powerful. Floating 944 calipers were standard, but the rear wheel brake circuit pressure regulator from the 944 turbo was used. Small '16 Ventiler' script badges were added on the sides in front of the body protection mouldings. Performance figures included 0- being achieved in 6.5 seconds (Best) and a top speed due to a curb weight. It also featured an improved programmed Bosch Digital Motronic 2 Computer/DME with dual knock sensors for improved fuel performance for the higher 10.9:1 compression ratio cylinder head. Like the 944 Turbo, the 944 S received progressive springs for improved handling, larger front and rear anti-roll bars, revised transmission and gearing to better suit the 2.5 L DOHC engine's higher 6,800 rpm rev limit. Dual safety air bags, limited-slip differential, and ABS braking system were optional on the 944 S.
 
 A Club Sport touring package (M637) was available as was the lightweight 16-inch CS/Sport Fuchs 16x7 and 16x9 forged alloy wheels. This version was raced in Canada, Europe and in the IMSA Firehawk Cup Series held in the U.S. Production was only during 1987 and 1988. It was superseded in 1989 by the 'S2' version. The 1987 944 S' power-to-weight ratio was such that it was able to accelerate from 0 to 100 km/h in 6.5 seconds thus matching the acceleration of its newer larger displacement 3.0 L 944 S2 sibling.
@@ -83,17 +75,11 @@ A Club Sport touring package (M637) was available as was the lightweight 16-inch
 
 In 1989 the 944 S2 was introduced, powered by a normally aspirated, dual-overhead-cam 16-valve 3.0 L version of the 944 S' engine. With a bore of and a stroke of , it was the largest production 4-cylinder engine of its time.[13] The 944 S2 also received a revised transmission and gearing to better suit the 3.0 L M44/41 powerplant. The 944 S2 had the same rounded nose and a rear valance found on the Turbo model. Quoted performance figures included a 0–97 km/h acceleration time of 6.0 seconds (0–100 km/h being achieved in 6.8 seconds) and a top speed of for the cars with a manual transmission. A Club Sport touring package (M637) was also available. Dual air bags (left hand drive models), limited-slip differential and ABS were optional. Series 90 16-inch cast alloy wheels were standard equipment.[14]
 
-1991_Porsche_944_Convertible_(10333936763).jpg
-
 In 1989, Porsche introduced the 944 S2 Cabriolet, the first 944 to feature a convertible body style. The 944 S2's body was manufactured by ASC (American Sunroof Company) in Weinsberg, Germany. The first year of production included 16 944 S2 Cabriolet manufactured for the U.S. market. For the 1990 model year, Porsche produced 3,938 cars for all markets including right-hand drive units for the United Kingdom, Australia and South Africa.
-
-Lublin_-_Porsche_01.jpg
 
 The 944 S2 competed in the British championship that was called the Porsche Motorsport Championship. Production was during 1989, 1990, and 1991. The 944 S2's power-to-weight ratio was such that it was able to accelerate from 0 to 97 km/h in 6.5 seconds.
 
 944 Turbo Cabriolet
-
-Porsche_944_Cabrio_offen_Seite.JPG
 
 In February 1991, Porsche unveiled the 944 Turbo Cabriolet, which combined the Turbo S' engine with the cabriolet body style also built by ASC. Porsche initially announced that 600 cars would be made; ultimately 625 were built, 100 of which were right-hand drive for the United Kingdom, Japanese, Australian, and South African markets. None were imported to the U.S. and The Americas.[15]
 

@@ -7,7 +7,7 @@ PSP comes with an interface for automating tasks with scripts written in Python.
 
 History
 
-PSP100.png Originally called simply PAINT SHOP, the first version, 1.0, was a basic picture converter between BMP, GIF and PCX formats, released by Robert Voit in August 1990.[1][2] Paint Shop was originally distributed as shareware and is still available at many download sites (4.12 being a popular version). Most newer versions are only commercially available although some have been distributed in the United Kingdom in computer magazine CDs after they became obsolete.
+Originally called simply PAINT SHOP, the first version, 1.0, was a basic picture converter between BMP, GIF and PCX formats, released by Robert Voit in August 1990.[1][2] Paint Shop was originally distributed as shareware and is still available at many download sites (4.12 being a popular version). Most newer versions are only commercially available although some have been distributed in the United Kingdom in computer magazine CDs after they became obsolete.
 
 Paint Shop Pro 5 added support for layers as well as CMYK and HSL colour modes, included JASC Animation Shop for creating animations and in fact was marketed as "Paint Shop Pro 5.0 with Animation Shop".[3] PaintShop Pro X6 was the first to be available as a native 64 bit version (purchase includes both versions).[4] PaintShop Pro X7 includes content-aware features such as "Magic Fill" and "Smart Edge" as well as support for XMP sidecar files that preserve edit settings for raw formats.[5]
 

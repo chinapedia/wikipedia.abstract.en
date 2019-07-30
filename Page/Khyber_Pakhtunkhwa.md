@@ -15,14 +15,14 @@ When the British established it as a province, they called it "North West Fronti
 
 Pakistan Muslim League was against that name since it was too similar to Bacha Khan's demand of separate nation of Pashtunistan.[19] PML-N wanted to name the province something other than which does not carry Pashtun identity in it as they argued that there were other minor ethnicities living in the province especially Hindkowans who spoke Hindko, thus the word _Khyber_ was introduced with the name because it is the name of a major pass which connects Pakistan to Afghanistan.[20]
 
-  PROVINCIAL FLAG       Flag of Khyber Pakhtunkhwa     Flag_of_Khyber_Pakhtunkhwa.svg
-  --------------------- ------------------------------ ---------------------------------------------------------------------------
-  PROVINCIAL INSIGNIA   Emblem of Khyber Pakhtunkhwa   KP_Logo.jpg
-  PROVINCIAL ANIMAL     Kabul markhor                  Capra_falconeri_Markhor_Parc_Bouillon_31082014_2.jpg
-  PROVINCIAL BIRD       White-crested Kalij pheasant   Kaleej_Pheasant_Lophura_leucomelanos_by_Dr._Raju_Kasambe_IMG_1181_(4).jpg
-  PROVINCIAL TREE       Afghan pine tree               Kızılçam_ağacı_-_Pinus_brutia_02.JPG
-  PROVINCIAL FLOWER     Lady's tulip                   Tulipa_clusiana1ScottZona.jpg
-  PROVINCIAL SPORT      Pashtun Archery                Makha_(shooting_game).jpg
+  PROVINCIAL FLAG       Flag of Khyber Pakhtunkhwa
+  --------------------- ------------------------------ --
+  PROVINCIAL INSIGNIA   Emblem of Khyber Pakhtunkhwa
+  PROVINCIAL ANIMAL     Kabul markhor
+  PROVINCIAL BIRD       White-crested Kalij pheasant
+  PROVINCIAL TREE       Afghan pine tree
+  PROVINCIAL FLOWER     Lady's tulip
+  PROVINCIAL SPORT      Pashtun Archery
 
   : Provincial symbols of KP (official)
 
@@ -31,7 +31,7 @@ History
 
 Early history
 
-During the times of Indus Valley Civilization (3300 BCE – 1300 BCE) the modern Khyber Pakhtunkhwa's Khyber Pass, through Hindu Kush provided a route to other neighbouring regions and was used by merchants on trade excursions.[21] From 1500 BCE, Indo-Aryan peoples started to enter in the region(of modern-day Iran, Pakistan, Afghanistan, North India) after having passed Khyber Pass.[22][23] Coin_of_KanishkaII.jpg Gandhara.JPG
+During the times of Indus Valley Civilization (3300 BCE – 1300 BCE) the modern Khyber Pakhtunkhwa's Khyber Pass, through Hindu Kush provided a route to other neighbouring regions and was used by merchants on trade excursions.[21] From 1500 BCE, Indo-Aryan peoples started to enter in the region(of modern-day Iran, Pakistan, Afghanistan, North India) after having passed Khyber Pass.[22][23]
 
 The Gandharan civilization, which reached its zenith between the sixth and first centuries BCE, and which features prominently in the Hindu epic poem, the Mahabharatha,[24] had one of its cores over the modern Khyber Pakhtunkhwa province. The modern day capital city of Peshawar was originally known in ancient times as Purushapura when the region was Hindu. Vedic texts refer to the area as the Janapada of Pushkalavati. The area was once known to be a great center of learning.[25]
 
@@ -43,7 +43,7 @@ In the spring of 327 BCE Alexander the Great crossed the Indian Caucasus (Hindu
 
 Hindu and Buddhist Rule
 
-After Alexander's death in 323 BCE Porus obtained possession of the region, but was murdered by Eudemus in 317 BCE. Eudemus then left the region, and with his departure Macedonian power collapsed. Sandrocottus (Chandragupta), the founder of the Mauryan dynasty, then declared himself master of the province. His grandson, Ashoka, made Buddhism the dominant religion in ancient Gandhara.[29] Buddha_relics.JPG from the ruins of the Kanishka stupa at Peshawar – now in Mandalay, Myanmar]]
+After Alexander's death in 323 BCE Porus obtained possession of the region, but was murdered by Eudemus in 317 BCE. Eudemus then left the region, and with his departure Macedonian power collapsed. Sandrocottus (Chandragupta), the founder of the Mauryan dynasty, then declared himself master of the province. His grandson, Ashoka, made Buddhism the dominant religion in ancient Gandhara.[29] from the ruins of the Kanishka stupa at Peshawar – now in Mandalay, Myanmar]]
 
 After Ashoka's death the Mauryan empire collapse, just as in the west the Seleucid power was rising. The Greek princes of neighboring Bactria (in modern Afghanistan) took advantage of the power vacuum to declare their independence. The Bactrian kingdoms were then attacked from the west by the Parthians and from the north (about 139 BCE) by the Sakas, a Central Asian tribe. Local Greek rulers still exercised a feeble and precarious power along the borderland, but the last vestige of Greek dominion was extinguished by the arrival of the Yueh-chi.[30]
 
@@ -51,7 +51,7 @@ The Yueh-Chi were a race of nomads that were themselves forced southwards out of
 
 Early Islamic Invasions
 
-Kushanshas-Hepthalites_565ad.jpg kingdoms, centered on modern Khyber Pakhtunkhwa.]] After the Saffarids had left in Kabul, the Hindu Shahis had once again been placed into power. The restored Hindu Shahi kingdom was founded by the Brahmin minister Kallar in 843 CE. Kallar had moved the capital into Udabandhapura in modern-day Khyber Pakhtunkhwa from Kabul. Trade had flourished and many gems, textiles, perfumes, and other goods had been exported West. Coins minted by the Shahis have been found all over the Indian subcontinent. The Shahis had built Hindu temples with many idols, all of which were later looted by invaders. The ruins of these temples can be found at Nandana, Malot, Siv Ganga, and Ketas, as well as across the west bank of the Indus river.[32][33]
+kingdoms, centered on modern Khyber Pakhtunkhwa.]] After the Saffarids had left in Kabul, the Hindu Shahis had once again been placed into power. The restored Hindu Shahi kingdom was founded by the Brahmin minister Kallar in 843 CE. Kallar had moved the capital into Udabandhapura in modern-day Khyber Pakhtunkhwa from Kabul. Trade had flourished and many gems, textiles, perfumes, and other goods had been exported West. Coins minted by the Shahis have been found all over the Indian subcontinent. The Shahis had built Hindu temples with many idols, all of which were later looted by invaders. The ruins of these temples can be found at Nandana, Malot, Siv Ganga, and Ketas, as well as across the west bank of the Indus river.[32][33]
 
 At its height King Jayapala, the rule of the Shahi kingdom had extended to Kabul from the West, Bajaur to the North, Multan to the South, and the present day India-Pakistan border to the East.[34] Jayapala saw a danger from the rise to power of the Ghaznavids and invaded their capital city of Ghazni both in the reign of Sebuktigin and in that of his son Mahmud. This had initiated the Muslim Ghaznavid and Hindu Shahi struggles.[35] Sebuktigin, however, defeated him, and forced Jayapala to pay an indemnity.[36] Eventually, Jayapala refused payment and took to war once more. The Shahis were decisively defeated by Mahmud of Ghazni after the defeat of Jayapala at the Battle of Peshawar on November 27, 1001.[37] Over time, Mahmud of Ghazni had pushed further into the subcontinent, as far as east as modern day Agra. During his campaigns, many Hindu temples and Buddhist monasteries had been looted and destroyed, as well as many people being forcibly converted into Islam.[38]
 
@@ -63,7 +63,7 @@ Yusufzai Pashtun tribes from the Kabul and Jalalabad valleys began migrating to 
 
 Mughal
 
-Masjid_Muhabat_Khan.jpg in 1630, the white-marble façade of the Mohabbat Khan Mosque is one of Peshawar's most iconic sights.]] Mughal suzerainty over the Khyber Pakhtunkhwa region was partially established after Babar, the founder of the Mughal Empire, invaded the region in 1505 CE via the Khyber Pass. The Mughal Empire noted the importance of the region as a weak point in their empire's defenses,[41] and determined to hold Peshawar and Kabul at all cost against any threats from the Uzbek _Shaybanids_.[42]
+in 1630, the white-marble façade of the Mohabbat Khan Mosque is one of Peshawar's most iconic sights.]] Mughal suzerainty over the Khyber Pakhtunkhwa region was partially established after Babar, the founder of the Mughal Empire, invaded the region in 1505 CE via the Khyber Pass. The Mughal Empire noted the importance of the region as a weak point in their empire's defenses,[41] and determined to hold Peshawar and Kabul at all cost against any threats from the Uzbek _Shaybanids_.[42]
 
 He was forced to retreat westwards to Kabul, but returned to defeat the Lodis in July 1526, when he captured Peshawar from Daulat Khan Lodi,[43] though the region was never considered to be fully subjugated to the Mughals.[44]
 
@@ -101,7 +101,7 @@ British Raj
 
 British East India Company defeated the Sikhs during the Second Anglo-Sikh War in 1849, and incorporated small parts of the region into the Province of Punjab. While Peshawar was the site of a small mutiny against British during the Indian Rebellion of 1857, local Pashtun tribes throughout the region generally remained neutral and supportive of the British as they detested the Sikhs,[73] in contrast to other parts of British India which rose up in revolt against the British. However, British control of parts of the region was routinely challenged by Wazir tribesmen in Waziristan and other Pashtun tribes, who resisted any foreign occupation until Pakistan was created. By the late 19th century, the official boundaries of Khyber Pakhtunkhwa region still had not been defined as the region was still claimed by the Kingdom of Afghanistan. It was only in 1893 The British demarcated the boundary with Afghanistan under a treaty agreed to by the Afghan king, Abdur Rahman Khan, following the Second Anglo-Afghan War.[74] Several princely states within the boundaries of the region were allowed to maintain their autonomy under the terms of maintaining friendly ties with the British. As the British war effort during World War One demanded the reallocation of resources from British India to the European war fronts, some tribesmen from Afghanistan crossed the Durand Line in 1917 to attack British posts in an attempt to gain territory and weaken the legitimacy of the border. The validity of the Durand Line, however, was re-affirmed in 1919 by the Afghan government with the signing of the Treaty of Rawalpindi,[75] which ended the Third Anglo-Afghan War – a war in which Waziri tribesmen allied themselves with the forces of Afghanistan's King Amanullah in their resistance to British rule. The Wazirs and other tribes, taking advantage of instability on the frontier, continued to resist British occupation until 1920 – even after Afghanistan had signed a peace treaty with the British.
 
-British campaigns to subdue tribesmen along the Durand Line, as well as three Anglo-Afghan wars, made travel between Afghanistan and the densely populated heartlands of Khyber Pakhtunkwa increasingly difficult. The two regions were largely isolated from one another from the start of the Second Anglo-Afghan War in 1878 until the start of World War II in 1939 when conflict along the Afghan frontier largely dissipated. Concurrently, the British continued their large public works projects in the region, and extended the Great Indian Peninsula Railway into the region, which connected the modern Khyber Pakhtunkhwa region to the plains of India to the east. Other projects, such as the Attock Bridge, Islamia College University, Khyber Railway, and establishment of cantonments in Peshawar, Kohat, Mardan, and Nowshera further cemented British rule in the region. In 1901, the British carved out the northwest portions of Punjab Province to create the Northwest Frontier Province (NWFP), which was renamed "Khyber Pakhtunkhwa" in 2010.[76] Badshah_Khan.jpg with Mahatma Gandhi]]
+British campaigns to subdue tribesmen along the Durand Line, as well as three Anglo-Afghan wars, made travel between Afghanistan and the densely populated heartlands of Khyber Pakhtunkwa increasingly difficult. The two regions were largely isolated from one another from the start of the Second Anglo-Afghan War in 1878 until the start of World War II in 1939 when conflict along the Afghan frontier largely dissipated. Concurrently, the British continued their large public works projects in the region, and extended the Great Indian Peninsula Railway into the region, which connected the modern Khyber Pakhtunkhwa region to the plains of India to the east. Other projects, such as the Attock Bridge, Islamia College University, Khyber Railway, and establishment of cantonments in Peshawar, Kohat, Mardan, and Nowshera further cemented British rule in the region. In 1901, the British carved out the northwest portions of Punjab Province to create the Northwest Frontier Province (NWFP), which was renamed "Khyber Pakhtunkhwa" in 2010.[76] with Mahatma Gandhi]]
 
 During the independence period there was a Congress-led ministry in the province, which was led by secular Pashtun leaders, including Bacha Khan, who preferred joining India instead of Pakistan. The secular Pashtun leadership was also of the view that if joining India was not an option then they should espouse the cause of an independent ethnic Pashtun state rather than Pakistan.[77] The secular stance of Bacha Khan had driven a wedge between the ulama of the otherwise pro-Congress (and pro-Indian unity) Jamiat Ulema Hind (JUH) and Bacha Khan's Khudai Khidmatgars. The directives of the ulama in the province began to take on communal tones. The ulama saw the Hindus in the province as a 'threat' to Muslims. Accusations of molesting Muslim women were levelled at Hindu shopkeepers in Nowshera, a town where anti-Hindu sermons were delivered by maulvis.
 
@@ -123,7 +123,7 @@ As the region came under British control, as had been agreed to by the Afghan go
 
 After the creation of Pakistan
 
-Jinnah1945.jpg, the founder of Pakistan]] After the creation of Pakistan in 1947, Afghanistan was the sole member of the United Nations to vote against Pakistan's accession to the UN because of Kabul's claim to the Pashtun territories on the Pakistani side of the Durand Line.[94] Afghanistan's Loya Jirga of 1949 declared the Durand Line invalid, which led to border tensions with Pakistan, and decades of mistrust between the two states. Afghan governments have also periodically refused to recognize Pakistan's inheritance of British treaties regarding the region.[95] During the 1950s, Afghanistan supported the secessionist Pushtunistan Movement.
+, the founder of Pakistan]] After the creation of Pakistan in 1947, Afghanistan was the sole member of the United Nations to vote against Pakistan's accession to the UN because of Kabul's claim to the Pashtun territories on the Pakistani side of the Durand Line.[94] Afghanistan's Loya Jirga of 1949 declared the Durand Line invalid, which led to border tensions with Pakistan, and decades of mistrust between the two states. Afghan governments have also periodically refused to recognize Pakistan's inheritance of British treaties regarding the region.[95] During the 1950s, Afghanistan supported the secessionist Pushtunistan Movement.
 
 For travelers the area remained relatively peaceful in the 1960s and '70s. It was the usual route on the Hippie trail overland from Europe to India, with buses running from Kabul to Peshawar.[96] While waiting to cross at the border visitors were however cautioned not to stray from the main road.
 
@@ -140,7 +140,7 @@ Khyber Pakhtunkhwa is also the main theater for Pakistan's Zarb-e-Azb operation 
 
 Geography
 
-River_Swat_Pakistan_3.jpg.]] Khyber Pakhtunkhwa sits primarily on the Iranian plateau and comprises the junction where the slopes of the Hindu Kush mountains on the Eurasian plate give way to the Indus-watered hills approaching South Asia. This situation has led to seismic activity in the past.[105] The famous Khyber Pass links the province to Afghanistan, while the Kohalla Bridge in Circle Bakote Abbottabad is a major crossing point over the Jhelum River in the east.
+.]] Khyber Pakhtunkhwa sits primarily on the Iranian plateau and comprises the junction where the slopes of the Hindu Kush mountains on the Eurasian plate give way to the Indus-watered hills approaching South Asia. This situation has led to seismic activity in the past.[105] The famous Khyber Pass links the province to Afghanistan, while the Kohalla Bridge in Circle Bakote Abbottabad is a major crossing point over the Jhelum River in the east.
 
 Geographically the province could be divided into two zones: the northern one extending from the ranges of the Hindu Kush to the borders of Peshawar basin and the southern one extending from Peshawar to the Derajat basin.
 
@@ -158,7 +158,7 @@ The climate of Khyber Pakhtunkhwa varies immensely for a region of its size, enc
 
 Rainfall also varies widely. Although large parts of Khyber Pakhtunkhwa are typically dry, the province also contains the wettest parts of Pakistan in its eastern fringe specially in monsoon season from mid June to mid September.
 
-Ghabral_swatvalley_x004.JPG, Swat Valley]]
+, Swat Valley]]
 
 Chitral District
 
@@ -188,23 +188,23 @@ National parks
 
 There are about 29 National Parks in Pakistan and about 18 in Khyber Pakhtunkhwa.
 
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Name                             | Photo                                                                                                             | Location                  | Date established | Area (Hec) | Key wildlife                                                                                                                                               |
-+==================================+===================================================================================================================+===========================+==================+============+============================================================================================================================================================+
-| Ayubia National Park             | Mukeshpuri.jpg                                                                                                    | Abbottabad District       |                  | 3,122      | Koklass pheasant, kalij pheasant, chukar partridge, yellow-throated marten, common leopard, rhesus macaque, flying squirrel                                |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Chitral Gol National Park        | Meadows_of_Chitral_Gol_National_Park;_Tahsin_Shah_03.jpg                                                          | Chitral District          |                  | 7,750      | Markhor, urial, snow leopard, wolf, Himalayan snowcock, chukar partridge, greenwood pigeon                                                                 |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Broghil Valley National Park     | I_took_this_picture_of_Karmbar_lake_on_my_recent_visit._Im_donating_it_only_to_wikipedia_for_public_knowledge.jpg | Chitral District          |                  | 134,744    | Ibex, blue sheep, snow leopard, brown bear, Tibetan wolf, golden marmot, snow cock, chukar partridge                                                       |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sheikh Badin National Park       |                                                                                                                   | Dera Ismail Khan District |                  | 15,540     | Black partridge, grey partridge, chukar partridge, rock dove, pied bush chat, red-vented bulbul, fox, hare, jackal, jungle cat, porcupine, wild boar, wolf |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Saiful Muluk National Park       | Saif_ul_Maluk_Lake_2.jpg                                                                                          | Mansehra District         |                  | 12,026     | Asian black bear, marten, ram chakor, snow partridge, Himalayan monal                                                                                      |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Lulusar-Dudipatsar National Park | Dudiptsar_Lake.jpg                                                                                                | Mansehra District         |                  | 75,058     | Common leopard, Asian black bear, ibex, marten, Himalayan monal, koklass pheasant, ram chakor                                                              |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                  |                                                                                                                   |                           |                  |            |                                                                                                                                                            |
-+----------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Name                             | Photo | Location                  | Date established | Area (Hec) | Key wildlife                                                                                                                                               |
++==================================+=======+===========================+==================+============+============================================================================================================================================================+
+| Ayubia National Park             |       | Abbottabad District       |                  | 3,122      | Koklass pheasant, kalij pheasant, chukar partridge, yellow-throated marten, common leopard, rhesus macaque, flying squirrel                                |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Chitral Gol National Park        |       | Chitral District          |                  | 7,750      | Markhor, urial, snow leopard, wolf, Himalayan snowcock, chukar partridge, greenwood pigeon                                                                 |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Broghil Valley National Park     |       | Chitral District          |                  | 134,744    | Ibex, blue sheep, snow leopard, brown bear, Tibetan wolf, golden marmot, snow cock, chukar partridge                                                       |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sheikh Badin National Park       |       | Dera Ismail Khan District |                  | 15,540     | Black partridge, grey partridge, chukar partridge, rock dove, pied bush chat, red-vented bulbul, fox, hare, jackal, jungle cat, porcupine, wild boar, wolf |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Saiful Muluk National Park       |       | Mansehra District         |                  | 12,026     | Asian black bear, marten, ram chakor, snow partridge, Himalayan monal                                                                                      |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Lulusar-Dudipatsar National Park |       | Mansehra District         |                  | 75,058     | Common leopard, Asian black bear, ibex, marten, Himalayan monal, koklass pheasant, ram chakor                                                              |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                  |       |                           |                  |            |                                                                                                                                                            |
++----------------------------------+-------+---------------------------+------------------+------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Population
@@ -226,7 +226,7 @@ The majority of the residents of the Khyber-Pakhtunkhwa overwhelmingly follows a
 
 Government and politics
 
-NWFP_FATA.svg prior to merger with Khyber Pakhtunkhwa province]]
+prior to merger with Khyber Pakhtunkhwa province]]
 
 Political leanings and the Legislative branch
 
@@ -264,7 +264,7 @@ Peshawar is the capital and largest city of Khyber Pakhtunkhwa. The city is the 
 
 Economy
 
-Forestry_by_Province.jpg Khyber Pakhtunkhwa has the third largest provincial economy in Pakistan. Khyber Pakhtunkhwa's share of Pakistan's GDP has historically comprised 10.5%, although the province accounts for 11.9% of Pakistan's total population. The part of the economy that Khyber Pakhtunkhwa dominates is forestry, where its share has historically ranged from a low of 34.9% to a high of 81%, giving an average of 61.56%.[156] Currently, Khyber Pakhtunkhwa accounts for 10% of Pakistan's GDP,[157] 20% of Pakistan's mining output[158] and, since 1972, it has seen its economy grow in size by 3.6 times.[159]
+Khyber Pakhtunkhwa has the third largest provincial economy in Pakistan. Khyber Pakhtunkhwa's share of Pakistan's GDP has historically comprised 10.5%, although the province accounts for 11.9% of Pakistan's total population. The part of the economy that Khyber Pakhtunkhwa dominates is forestry, where its share has historically ranged from a low of 34.9% to a high of 81%, giving an average of 61.56%.[156] Currently, Khyber Pakhtunkhwa accounts for 10% of Pakistan's GDP,[157] 20% of Pakistan's mining output[158] and, since 1972, it has seen its economy grow in size by 3.6 times.[159]
 
 Agriculture remains important and the main cash crops include wheat, maize, tobacco (in Swabi), rice, sugar beets, as well as fruits are grown in the province.
 
@@ -305,7 +305,7 @@ Hindko and Pashto folk music are popular in Pakhtunkhwa and have a rich traditio
 
 Education
 
-Math_Department_Peshawar_University_Panorama.jpg]] Islamia_college.jpg_04.jpg]] Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_(viewed_from_clock_tower).jpg]]
+]] ]] ]]
 
   Year   Literacy rate
   ------ ---------------

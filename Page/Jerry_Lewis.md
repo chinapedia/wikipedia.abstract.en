@@ -16,7 +16,7 @@ Career
 
 Performing with Dean Martin
 
-Lewis_and_Martin.jpg in 1950]] Lewis initially gained attention as part of a double act with singer Dean Martin, who served as straight man to Lewis' zany antics as the Martin and Lewis comedy team. They were different from other duo acts of the time because they played to each other and had ad-libbed improvisational segments within their planned routines.
+in 1950]] Lewis initially gained attention as part of a double act with singer Dean Martin, who served as straight man to Lewis' zany antics as the Martin and Lewis comedy team. They were different from other duo acts of the time because they played to each other and had ad-libbed improvisational segments within their planned routines.
 
 After forming in 1946, they quickly rose to national prominence, first with their popular nightclub act, then as stars of _The Martin and Lewis Show_ on the radio NBC Red Network.[32] The two made appearances on early live television on their June 20, 1948 debut broadcast on _Toast of the Town_ (later renamed as _The Ed Sullivan Show_ on September 25, 1955) on CBS.[33] This was followed by a guest stint on _The Milton Berle Show_, then their appearance on NBC's _Welcome Aboard_ on October 3, 1948.
 
@@ -60,7 +60,7 @@ This contract made Lewis the highest paid individual Hollywood talent to date an
 
 1960s and emergence as director
 
-Jerry_Lewis_1973.JPG He had finished his film contract with Wallis with _Visit to a Small Planet_ (1960) and wrapped up production on his own film _Cinderfella_ (1960), directed by Tashlin. The movie was postponed for a Christmas 1960 release. Paramount Pictures, needing a quickie motion picture for its summer 1960 schedule, held Lewis to his contract to produce one.[52] As a result, he made his debut as film director of and starred in _The Bellboy_ (1960).
+He had finished his film contract with Wallis with _Visit to a Small Planet_ (1960) and wrapped up production on his own film _Cinderfella_ (1960), directed by Tashlin. The movie was postponed for a Christmas 1960 release. Paramount Pictures, needing a quickie motion picture for its summer 1960 schedule, held Lewis to his contract to produce one.[52] As a result, he made his debut as film director of and starred in _The Bellboy_ (1960).
 
 Using the Fontainebleau Hotel in Miami as his setting — on a small budget, with a very tight shooting schedule — Lewis shot the film during the day and performed at the hotel in the evenings.[53] Bill Richmond collaborated with him on many of the sight gags. Lewis later revealed that Paramount was not happy about financing a "silent movie" and withdrew backing. Lewis used his own funds to cover the movie's $950,000 budget.
 
@@ -84,7 +84,7 @@ Lewis made an appearance on _The Danny Thomas Hour_, starred in the Jerry Paris 
 
 1970s
 
-Jerry_Lewis_show.jpg In 1970, Lewis guest appeared on _The Red Skelton Show_, then contributed to some scripts for Filmation's animated show _Will the Real Jerry Lewis Please Sit Down_. He later guest hosted _The Mike Douglas Show_ and then directed an episode of _The Bold Ones_. He made guest appearances on _The Hollywood Palace_, _The Engelbert Humperdinck Show_, _The Irv Kupcinet Show_, _The Linkletter Show_, _The Real Tom Kennedy Show_ and _A Christmas Night with the Stars_.
+In 1970, Lewis guest appeared on _The Red Skelton Show_, then contributed to some scripts for Filmation's animated show _Will the Real Jerry Lewis Please Sit Down_. He later guest hosted _The Mike Douglas Show_ and then directed an episode of _The Bold Ones_. He made guest appearances on _The Hollywood Palace_, _The Engelbert Humperdinck Show_, _The Irv Kupcinet Show_, _The Linkletter Show_, _The Real Tom Kennedy Show_ and _A Christmas Night with the Stars_.
 
 Lewis then directed and made his first offscreen voice performance as a bandleader in _One More Time_ (1970), a sequel to the 1968 film _Salt and Pepper_, at times turning stars Peter Lawford and Davis Jr. into something of an erstwhile faux Martin and Lewis. His next film was _Which Way to the Front?_ (1970) and then guest star on _The Carol Burnett Show_, _The Rolf Harris Show_ and _The Kraft Music Hall_ in 1971.
 
@@ -102,7 +102,7 @@ Less well known, Lewis returned the surprise the following year by walking onto 
 
 Later years
 
-Jerry_Lewis_-_1981.jpg After 11 years of absence, Lewis returned to the big screen in _Hardly Working_ (1981), which he directed and starred in. Despite being panned by critics, it eventually earned $50 million. In 1982, Lewis was a guest on _Late Night with David Letterman_. In 1983, Lewis co-starred in Martin Scorsese's film _The King of Comedy_, as a late-night TV host, plagued by two obsessive fans, played by Robert De Niro and Sandra Bernhard. He received wide critical acclaim and a BAFTA nomination for this serious dramatic role.
+After 11 years of absence, Lewis returned to the big screen in _Hardly Working_ (1981), which he directed and starred in. Despite being panned by critics, it eventually earned $50 million. In 1982, Lewis was a guest on _Late Night with David Letterman_. In 1983, Lewis co-starred in Martin Scorsese's film _The King of Comedy_, as a late-night TV host, plagued by two obsessive fans, played by Robert De Niro and Sandra Bernhard. He received wide critical acclaim and a BAFTA nomination for this serious dramatic role.
 
 Lewis guest hosted _Saturday Night Live_ and also starred in _Cracking Up_ a.k.a. _Smorgasbord_ (1983) and _Slapstick (Of Another Kind)_ (1984), then starred in two French films, _To Catch a Cop_ a.k.a. _The Defective Detective_ (1984) and _How Did You Get In? We Didn't See You Leave_ (1984), both of which had their distribution under Lewis' control; Lewis stated that they would never be released in American movie theaters and on home media.
 
@@ -112,7 +112,7 @@ In 1987, 31 years after his first double act with Martin, Lewis performed in Las
 
 The filming schedule of the show forced Lewis to miss the Museum of the Moving Image's opening with a retrospective of his work. In 1989, Lewis joined Martin on stage, for what would be Martin's final live performance, at Bally's Hotel and Casino in Las Vegas. Lewis wheeled out a cake on Martin's 72nd birthday, sang "Happy Birthday" to him and joked, "Why we broke up, I'll never know".[62] Again, their appearance together made headlines. He then appeared in _Cookie_ (1989).
 
-Jerry_Lewis.jpg]] In 1991, Lewis guest starred in and directed an episode of the FOX series _Good Grief_. In 1992, Lewis had a cameo in _Mr. Saturday Night_ (1992), appeared as a guest on _The Arsenio Hall Show_, _The Whoopi Goldberg Show_ and _Inside The Comedy Mind_. Lewis did a three-part retrospective for The Disney Channel entitled _Martin & Lewis: Their Golden Age of Comedy_, using previously unseen kinescopes from his personal archive, highlighting his years as part of a team with Martin and as a soloist.
+]] In 1991, Lewis guest starred in and directed an episode of the FOX series _Good Grief_. In 1992, Lewis had a cameo in _Mr. Saturday Night_ (1992), appeared as a guest on _The Arsenio Hall Show_, _The Whoopi Goldberg Show_ and _Inside The Comedy Mind_. Lewis did a three-part retrospective for The Disney Channel entitled _Martin & Lewis: Their Golden Age of Comedy_, using previously unseen kinescopes from his personal archive, highlighting his years as part of a team with Martin and as a soloist.
 
 In 1993, he was the first of a series of 'classic' comedians to guest star in _Mad About You_, playing an eccentric billionaire. He appearanced on _Larry King Live_ many times and co-starred in the film _Arizona Dream_ (1993) as a car salesman uncle to as his nephew. Lewis then starred as the 'Comedy Legend' father of a young comic in _Funny Bones_ (1995).
 
@@ -124,7 +124,7 @@ In 2000, Lewis appeared as a guest on _The Martin Short Show_, then on _Russell 
 
 In 2006, He guest starred in an episode of _Law & Order: Special Victims Unit_ as Munch's uncle. Lewis sang and recorded the duet song "Time After Time" with Dean Martin's daughter, Deana Martin, for her album _Memories Are Made of This_. He then appeared on the 81st Academy Awards in 2009.
 
-Jerry_Lewis_Cannes_2013_2.jpg in 2013]] Lewis made a musical theatre play of _The Nutty Professor_[66][67] at the Tennessee Performing Arts Center in Nashville in 2012. In Brazil, Lewis appeared in _Till Luck Do Us Part 2_ (2013), a sequel to the 2012 film _Till Luck Do Us Part_. In 2014, Lewis was guest on _The Talk_ and on _The Tonight Show Starring Jimmy Fallon_. In 2015, Lewis guest appeared on _The World Over with Raymond Arroyo_.
+in 2013]] Lewis made a musical theatre play of _The Nutty Professor_[66][67] at the Tennessee Performing Arts Center in Nashville in 2012. In Brazil, Lewis appeared in _Till Luck Do Us Part 2_ (2013), a sequel to the 2012 film _Till Luck Do Us Part_. In 2014, Lewis was guest on _The Talk_ and on _The Tonight Show Starring Jimmy Fallon_. In 2015, Lewis guest appeared on _The World Over with Raymond Arroyo_.
 
 Lewis starred in a small role in _The Trust_ (2016) and a serious lead role in his final film _Max Rose_ (2016), which premiered at the Cannes Film Festival.[68] He was a guest on _WTF with Marc Maron_ and in December, expressed interest in another movie.[69] Lewis' last appearance was in an episode of _Comedians in Cars Getting Coffee_.
 
@@ -156,7 +156,7 @@ Appreciation of Lewis became a misunderstood stereotype about "the French", and 
 
 Activism with MDA
 
-Mda2018logo.png Alongside his film career, Lewis was a world-renowned humanitarian, philanthropist and "number one volunteer" who supported fundraising for research into muscular dystrophy. As early as December 1951, Lewis and Martin made their first appeal for MDA at the finale of _The Colgate Comedy Hour_. In 1952, after another appeal, Lewis hosted New York area telethons until 1959. In 1954, Lewis fought Rocky Marciano in a boxing bout for MDA's fund drive.
+Alongside his film career, Lewis was a world-renowned humanitarian, philanthropist and "number one volunteer" who supported fundraising for research into muscular dystrophy. As early as December 1951, Lewis and Martin made their first appeal for MDA at the finale of _The Colgate Comedy Hour_. In 1952, after another appeal, Lewis hosted New York area telethons until 1959. In 1954, Lewis fought Rocky Marciano in a boxing bout for MDA's fund drive.
 
 In 1956, Lewis began his reign as national chairman of the Muscular Dystrophy Association (formerly, the Muscular Dystrophy Associations of America),[83] then in late 1966, the live annual Labor Day event of _The Jerry Lewis MDA Labor Day Telethon_ (also referred to as _Jerry Lewis Extra Special Special_, _Jerry Lewis Super Show_ and _Jerry Lewis Stars Across America_) debuted in syndication and would air each year. In 1977, Lewis was nominated for a Nobel Peace Prize for his work with the charity.
 
@@ -286,7 +286,7 @@ Sammy Petrillo bore a coincidental resemblance to Lewis,[248][249] so much so th
 
 Awards and other honors
 
-jerrylewisstar.jpg at 6821 Hollywood Blvd.]]
+at 6821 Hollywood Blvd.]]
 
 -   1952 - Photoplay Award
 -   1952 - Primetime Emmy Award Nomination for Best Comedian or Comedienne

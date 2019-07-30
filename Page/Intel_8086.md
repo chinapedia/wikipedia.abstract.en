@@ -13,7 +13,7 @@ Two years later, Intel launched the 8080,[7] employing the new 40-pin DIL packag
 
 The first x86 design
 
-Intel_8086_CPU_Die.JPG The 8086 project started in May 1976 and was originally intended as a temporary substitute for the ambitious and delayed iAPX 432 project. It was an attempt to draw attention from the less-delayed 16- and 32-bit processors of other manufacturers (such as Motorola, Zilog, and National Semiconductor) and at the same time to counter the threat from the Zilog Z80 (designed by former Intel employees), which became very successful. Both the architecture and the physical chip were therefore developed rather quickly by a small group of people, and using the same basic microarchitecture elements and physical implementation techniques as employed for the slightly older 8085 (and for which the 8086 also would function as a continuation).
+The 8086 project started in May 1976 and was originally intended as a temporary substitute for the ambitious and delayed iAPX 432 project. It was an attempt to draw attention from the less-delayed 16- and 32-bit processors of other manufacturers (such as Motorola, Zilog, and National Semiconductor) and at the same time to counter the threat from the Zilog Z80 (designed by former Intel employees), which became very successful. Both the architecture and the physical chip were therefore developed rather quickly by a small group of people, and using the same basic microarchitecture elements and physical implementation techniques as employed for the slightly older 8085 (and for which the 8086 also would function as a continuation).
 
 Marketed as source compatible, the 8086 was designed to allow assembly language for the 8008, 8080, or 8085 to be automatically converted into equivalent (suboptimal) 8086 source code, with little or no hand-editing. The programming model and instruction set is (loosely) based on the 8080 in order to make this possible. However, the 8086 design was expanded to support full 16-bit processing, instead of the fairly limited 16-bit capabilities of the 8080 and 8085.
 
@@ -27,8 +27,6 @@ The architecture was defined by Stephen P. Morse with some help and assistance b
 
 
 Details
-
-Intel_8086_pinout.svg
 
 Buses and operation
 
@@ -156,8 +154,6 @@ This routine will operate correctly if interrupted, because the program counter 
 
 Performance
 
-Intel_8086_block_scheme.svg
-
 Although partly shadowed by other design choices in this particular chip, the multiplexed address and data buses limit performance slightly; transfers of 16-bit or 8-bit quantities are done in a four-clock memory access cycle, which is faster on 16-bit, although slower on 8-bit quantities, compared to many contemporary 8-bit based CPUs. As instructions vary from one to six bytes, fetch and execution are made concurrent and decoupled into separate units (as it remains in today's x86 processors): The _bus interface unit_ feeds the instruction stream to the _execution unit_ through a 6-byte prefetch queue (a form of loosely coupled pipelining), speeding up operations on registers and immediates, while memory operations became slower (four years later, this performance problem was fixed with the 80186 and 80286). However, the full (instead of partial) 16-bit architecture with a full width ALU meant that 16-bit arithmetic instructions could now be performed with a single ALU cycle (instead of two, via internal carry, as in the 8080 and 8085), speeding up such instructions considerably. Combined with orthogonalizations of operations versus operand types and addressing modes, as well as other enhancements, this made the performance gain over the 8080 or 8085 fairly significant, despite cases where the older chips may be faster (see below).
 
   instruction        register-register                                                         register immediate   register-memory   memory-register   memory-immediate
@@ -194,9 +190,9 @@ The 80C86, the CMOS version of the 8086, was used in the GRiDPad, Toshiba T1200,
 
 For the packaging, the Intel 8086 was available both in ceramic and plastic DIP packages.
 
-  -------------------- -----------------
-  Intel_D8086_CS.jpg   Intel_P8086.jpg
-  -------------------- -----------------
+  -- --
+
+  -- --
 
 List of Intel 8086
 
@@ -210,7 +206,7 @@ List of Intel 8086
 
 Derivatives and clones
 
-KL_USSR_KP1810BM86.jpg]] Oki_80c86a.jpg M80C86A QFP-56]] UPD8086D-2_NEC_1984year_19week_JAPAN.JPG Compatible—and, in many cases, enhanced—versions were manufactured by Fujitsu, Harris/Intersil, OKI, Siemens AG, Texas Instruments, NEC, Mitsubishi, and AMD. For example, the NEC V20 and NEC V30 pair were hardware-compatible with the 8088 and 8086 even though NEC made original Intel clones μPD8088D and μPD8086D respectively, but incorporated the instruction set of the 80186 along with some (but not all) of the 80186 speed enhancements, providing a drop-in capability to upgrade both instruction set and processing speed without manufacturers having to modify their designs. Such relatively simple and low-power 8086-compatible processors in CMOS are still used in embedded systems.
+]] M80C86A QFP-56]] Compatible—and, in many cases, enhanced—versions were manufactured by Fujitsu, Harris/Intersil, OKI, Siemens AG, Texas Instruments, NEC, Mitsubishi, and AMD. For example, the NEC V20 and NEC V30 pair were hardware-compatible with the 8088 and 8086 even though NEC made original Intel clones μPD8088D and μPD8086D respectively, but incorporated the instruction set of the 80186 along with some (but not all) of the 80186 speed enhancements, providing a drop-in capability to upgrade both instruction set and processing speed without manufacturers having to modify their designs. Such relatively simple and low-power 8086-compatible processors in CMOS are still used in embedded systems.
 
 The electronics industry of the Soviet Union was able to replicate the 8086 through . The resulting chip, K1810VM86, was binary and pin-compatible with the 8086.
 

@@ -1,4 +1,4 @@
-Malachite_Kolwezi_Katanga_Congo.jpg specimen, showing the original botryoidal form & a polished face of the opposite half of the specimen. Mines in the vicinity of Kolwezi supply much of the polishing-grade malachite in the world.]] Malachite_Katanga_ROM.jpg.]]
+specimen, showing the original botryoidal form & a polished face of the opposite half of the specimen. Mines in the vicinity of Kolwezi supply much of the polishing-grade malachite in the world.]] .]]
 
 KATANGA was one of the eleven provinces of the Democratic Republic of the Congo between 1966 and 2015, when it was split into the Tanganyika, Haut-Lomami, Lualaba and Haut-Katanga provinces. Between 1971 and 1997 (during the rule of Mobutu Sese Seko when Congo was known as Zaïre), its official name was SHABA PROVINCE.[1]
 
@@ -15,7 +15,7 @@ After 1900, the Societe Generale de Belgique practically controlled all of the m
 
 In 1915 a deposit of pitchblende and other uranium minerals of a higher grade than had ever been found before anywhere in the world and higher than any found since were discovered at Shinkolobwe. The discovery was kept secret by UMHK. After WWI ended a factory was built at Olen and the secrecy was lifted at the end of 1922 with the announcement of the production of the first gram of radium the pitchblende.[6] By the start of WWII, the mining companies "constituted a state within the Belgian Congo". The Shinkolobwe mine by Jadotville (now Likasi) was at the centre of the Manhattan Project.[7]
 
-Shinkolobwe.jpg and the Atomic bombing of Hiroshima and Nagasaki came from Shinkolobwe mine.]] Shinkolobwe_mine.jpg
+and the Atomic bombing of Hiroshima and Nagasaki came from Shinkolobwe mine.]]
 
 In 1960, after the Democratic Republic of the Congo (then called Republic of the Congo) gained independence from Belgium, the UMHK, Moise Tshombe and Godefroid Munongo supported the secession of the province of Katanga from the Congo. This was supported by Belgium but opposed by the Congolese Prime Minister Patrice Lumumba. This led to the murder of Lumumba and the Katanga Crisis (or "Congo Crisis"), which lasted from 1960 to 1965. The breakaway State of Katanga existed from 1960 to 1963.[8]
 
@@ -45,7 +45,7 @@ Mining companies
 
 Geography
 
-Katanga_Hills.jpg The province formed the Congolese border with Angola and Zambia. The province also bordered Tanzania – although Katanga province and Tanzania did not share a land border – but the border was within Lake Tanganyika. Katanga has a wet and dry season. Rainfall is about .[20]
+The province formed the Congolese border with Angola and Zambia. The province also bordered Tanzania – although Katanga province and Tanzania did not share a land border – but the border was within Lake Tanganyika. Katanga has a wet and dry season. Rainfall is about .[20]
 
 
 Education and medical care
@@ -58,7 +58,7 @@ In Lubumbashi, French, Belgian, and Greek schools are sponsored by the respectiv
 
 The Jason Sendwe Hospital is the largest hospital in the province, located in Lubumbashi. The Afia (Don Bosco) and Vie & Santé hospitals are among the best-equipped and staffed. The University of Lubumbashi maintains a small teaching hospital in the center of Lubumbashi.
 
-Katanga province has the highest rate of infant mortality in the world, with 184 of 1000 babies born expected to die before the age of five.[22] Katanga_provincial_parliament_building.jpg]]
+Katanga province has the highest rate of infant mortality in the world, with 184 of 1000 babies born expected to die before the age of five.[22] ]]
 
 
 Transportation

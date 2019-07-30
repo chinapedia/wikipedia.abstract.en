@@ -149,7 +149,7 @@ At birth, life expectancy is 76.5 years for male children, and 82.9 for female (
 
 Religion
 
-Mosquée-Moufia-2512.JPG]]
+]]
 
 The predominant religion is Roman Catholicism with Hinduism, Islam and Buddhism also represented, among others.
 
@@ -163,7 +163,7 @@ Tamil is taught as optional language in some schools.[6] Due to the diverse popu
 
 Ethnic groups
 
-Manapany.jpg]]
+]]
 
 Ethnic groups present include people of European, African, Malagasy, Indians and Chinese origin as well as many of mixed race. Local names for these are used: Yabs, Cafres, Malbars and Zarabes (both ethnic groups of Indian origin) and Chinois.
 

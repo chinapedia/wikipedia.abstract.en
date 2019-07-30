@@ -30,8 +30,6 @@ In 1966 and 1967 Sinatra traveled to Vietnam to perform for the US troops. Many 
 
 Films and television
 
-Nancy_Sinatra.JPG
-
 In 1963 she played the young secretary in Burkes Law episode "Who killed Wade Walker". She starred in three teen musicals ("beach party films")—_For Those Who Think Young_ (1964), _Get Yourself a College Girl_ (1964) and _The Ghost in the Invisible Bikini_ (1966)—the latter of which featured her in a singing role. She was also scheduled to appear in the role that went to Linda Evans in _Beach Blanket Bingo_. Nancy did not do the film as her character was kidnapped and the parallel to her brother Frank Sinatra Jr.'s kidnapping was not considered tasteful.[17]
 
 In 1965 Sinatra was a guest with Woody Allen on the game show _Password_.

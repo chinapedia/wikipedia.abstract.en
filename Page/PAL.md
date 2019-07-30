@@ -1,5 +1,3 @@
-PAL-NTSC-SECAM.svg
-
 PHASE ALTERNATING LINE (PAL) is a colour encoding system for analogue television used in broadcast television systems in most countries broadcasting at 625-line / 50 field (25 frame) per second (576i). Other common colour encoding systems are NTSC National Television Standards Committee, ATSC Advanced Television Systems Committee, and SECAM.
 
 All the countries using PAL are currently in process of conversion or have already converted standards to DVB, ISDB or DTMB.
@@ -24,7 +22,7 @@ Both the PAL and the NTSC system use a quadrature amplitude modulated subcarrier
 
 The name "Phase Alternating Line" describes the way that the phase of part of the colour information on the video signal is reversed with each line, which automatically corrects phase errors in the transmission of the signal by cancelling them out, at the expense of vertical frame colour resolution. Lines where the colour phase is reversed compared to NTSC are often called PAL or phase-alternation lines, which justifies one of the expansions of the acronym, while the other lines are called NTSC lines. Early PAL receivers relied on the human eye to do that cancelling; however, this resulted in a comb-like effect known as Hanover bars on larger phase errors. Thus, most receivers now use a chrominance analog delay line, which stores the received colour information on each line of display; an average of the colour information from the previous line and the current line is then used to drive the picture tube. The effect is that phase errors result in saturation changes, which are less objectionable than the equivalent hue changes of NTSC. A minor drawback is that the vertical colour resolution is poorer than the NTSC system's, but since the human eye also has a colour resolution that is much lower than its brightness resolution, this effect is not visible. In any case, NTSC, PAL, and SECAM all have chrominance bandwidth (horizontal colour detail) reduced greatly compared to the luminance signal.
 
-Pal_channel.svg PAL-I.png of an actual PAL-I transmission with NICAM.]] PAL_picture.png PAL_multi_lines.png PAL_2_lines.png
+of an actual PAL-I transmission with NICAM.]]
 
 The 4.43361875 MHz frequency of the colour carrier is a result of 283.75 colour clock cycles per line plus a 25 Hz offset to avoid interferences. Since the line frequency (number of lines per second) is 15625 Hz (625 lines × 50 Hz ÷ 2), the colour carrier frequency calculates as follows: 4.43361875 MHz = 283.75 × 15625 Hz + 25 Hz. The frequency 50 Hz is the optional refresh frequency of the monitor to be able to create an illusion of motion, while 625 lines means the vertical lines or resolution that the PAL system supports. The original colour carrier is required by the colour decoder to recreate the colour difference signals. Since the carrier is not transmitted with the video information it has to be generated locally in the receiver. In order that the phase of this locally generated signal can match the transmitted information, a 10 cycle burst of colour subcarrier is added to the video signal shortly after the line sync pulse, but before the picture information, during the so-called back porch. This colour burst is not actually in phase with the original colour subcarrier, but leads it by 45 degrees on the odd lines and lags it by 45 degrees on the even lines. This swinging burst enables the colour decoder circuitry to distinguish the phase of the R-Y vector which reverses every line.
 
@@ -88,7 +86,7 @@ For PAL-B/G the signal has these characteristics.
 
 After 0.9 µs a colorburst of cycles is sent. Most rise/fall times are in range. Amplitude is 100% for white level, 30% for black, and 0% for sync.[7] The CVBS electrical amplitude is Vpp and impedance of 75 Ω.[8]
 
-Composite_Video.svg) signal used in systems M and N before combination with a sound carrier and modulation onto an RF carrier.]]
+) signal used in systems M and N before combination with a sound carrier and modulation onto an RF carrier.]]
 
 The vertical timings are:
 

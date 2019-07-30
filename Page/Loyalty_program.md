@@ -1,4 +1,4 @@
-Kundenkarten.JPG LOYALTY PROGRAMS are structured marketing strategies designed by merchants to encourage customers to continue to shop at or use the services of businesses associated with each program.[1] These programs exist covering most types of commerce, each one having varying features and rewards-schemes.
+LOYALTY PROGRAMS are structured marketing strategies designed by merchants to encourage customers to continue to shop at or use the services of businesses associated with each program.[1] These programs exist covering most types of commerce, each one having varying features and rewards-schemes.
 
 In marketing generally, and in banking, entertainment, hospitality, retailing, and travel more specifically, a LOYALTY CARD, REWARDS CARD, POINTS CARD, ADVANTAGE CARD, CLUB CARD is a plastic or paper card, visually similar to a credit card, debit card, or digital card that identifies the card holder as a participant in a loyalty program.[2] Loyalty cards (both physical and digital) relate to the loyalty business-model.
 

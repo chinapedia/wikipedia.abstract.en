@@ -1,4 +1,4 @@
-NAVSPASUR_Fence_2001.jpg at Lake Kickapoo, Texas c.2001.]] The AN/FPS-133 AIR FORCE SPACE SURVEILLANCE SYSTEM, colloquially known as the SPACE FENCE, was a U.S. government multistatic radar system built to detect orbital objects passing over America. It is a component of the US space surveillance network, and according to the US Navy was able to detect basketball sized () objects at heights up to 30,000 km (15,000 nautical miles.)[1]
+at Lake Kickapoo, Texas c.2001.]] The AN/FPS-133 AIR FORCE SPACE SURVEILLANCE SYSTEM, colloquially known as the SPACE FENCE, was a U.S. government multistatic radar system built to detect orbital objects passing over America. It is a component of the US space surveillance network, and according to the US Navy was able to detect basketball sized () objects at heights up to 30,000 km (15,000 nautical miles.)[1]
 
 The system ceased operation in September 2013. Plans for a new space fence are underway with sites at the Kwajalein Atoll in the Marshall Islands, along with an option for another radar site in Western Australia.[2]
 

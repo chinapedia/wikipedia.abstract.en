@@ -1,17 +1,17 @@
-Sackbutt.jpg] Sacabutxs,_conjunt_al_Museu_de_la_Música.jpg]]
+] ]]
 
 A SACKBUT is a type of trombone from the Renaissance and Baroque eras, characterised by a telescopic slide that is used to vary the length of the tube to change pitch. Unlike the earlier slide trumpet from which it evolved, the sackbut possesses a U-shaped slide, with two parallel sliding tubes, which allows for playing scales in a lower range.
 
 Records of the term "trombone" predates the term "sackbut" by two decades, and evidence for the German term "Posaune" is even older.[1] "Sackbut", originally a French term, was used in England until the instrument fell into disuse in the eighteenth century; when it returned, the Italian term "trombone" became dominant.[2] In modern English, an older trombone or its replica is called a sackbut.
 
-An older instrument generally differs from modern trombones by its smaller, more cylindrically-proportioned bore, and its less-flared bell. The bell section was more resonant (since it did not contain the tuning slide and was loosely stayed rather than firmly braced to itself). These traits produce a "covered, blended sound which was a timbre particularly effective for working with voices,... zincks and crumhorns",[3] as in an alta capella. Contra_bass_trombone_by_Georg_Nikolaus_Öller._M242_(crop_1).tif The revived instrument had changed in specific ways. In the mid-18th century, the bell flare increased, crooks fell out of use, and flat, removable stays were replaced by tubular braces. The new shape produced a stronger sound,[4] suitable to open-air performance in the marching bands where trombones became popular again in the 19th century. Before the early 19th century, most trombones adjusted tuning with a crook on the joint between the bell and slide or, more rarely, between the mouthpiece and the slide,[5] rather than the modern tuning slide on the bell curve,[6] whose cylindrical sections prevent the instrument from flaring smoothly through this section. Older trombones also generally don't have water keys,[7] stockings,[8] a leadpipe, or a slide lock, but as these parts are not critical to sound, replicas may include them. Bore size remained variable, as it still is today.[9]
+An older instrument generally differs from modern trombones by its smaller, more cylindrically-proportioned bore, and its less-flared bell. The bell section was more resonant (since it did not contain the tuning slide and was loosely stayed rather than firmly braced to itself). These traits produce a "covered, blended sound which was a timbre particularly effective for working with voices,... zincks and crumhorns",[3] as in an alta capella. The revived instrument had changed in specific ways. In the mid-18th century, the bell flare increased, crooks fell out of use, and flat, removable stays were replaced by tubular braces. The new shape produced a stronger sound,[4] suitable to open-air performance in the marching bands where trombones became popular again in the 19th century. Before the early 19th century, most trombones adjusted tuning with a crook on the joint between the bell and slide or, more rarely, between the mouthpiece and the slide,[5] rather than the modern tuning slide on the bell curve,[6] whose cylindrical sections prevent the instrument from flaring smoothly through this section. Older trombones also generally don't have water keys,[7] stockings,[8] a leadpipe, or a slide lock, but as these parts are not critical to sound, replicas may include them. Bore size remained variable, as it still is today.[9]
 
 
 Terminological history
 
 The first reference to a slide instrument was probably _trompette des ménestrels_, first found in Burgundy in the 1420s and later in other regions of Europe. The name distinguished the instrument from the _trompettes de guerre_ (war trumpets), which were of fixed length.[10]
 
-Virdung_1511_musica_getutscht.png by Sebastian Virdung.]]
+by Sebastian Virdung.]]
 
 The next word to appear in the 15th century that implied a slide was the _sackbut_ group of words. There are two theories for the sources: it is either derived from the Middle French _sacquer_ (to pull) and _bouter_ (to push) or from the Spanish _sacar_ (to draw or pull) and _bucha_ (a tube or pipe).[11] The term survives in numerous English spelling variations including sacbut, sackbutte, sagbut, shagbolt, sacabushe, shakbusse[12] and shakbusshe.
 
@@ -26,7 +26,7 @@ In Italy it was (and remains) _trombone_, which derived from trumpet in the Lati
 
 History
 
-Lippi-trombone-detail.jpg by Filippino Lippi in Rome, _The Assumption of the Virgin_, dating from 1488–93. This is the earliest clear evidence of a double-slide instrument.[16]]] The trombone developed from the trumpet. Up until 1375 trumpets were simply a long straight tube with a bell flare.[17]
+by Filippino Lippi in Rome, _The Assumption of the Virgin_, dating from 1488–93. This is the earliest clear evidence of a double-slide instrument.[16]]] The trombone developed from the trumpet. Up until 1375 trumpets were simply a long straight tube with a bell flare.[17]
 
 There are various uses of _sackbut_-like words in the Bible, which has led to a faulty translation from the Latin bible that suggested the trombones date back as far as 600 BC, but there is no evidence of slides at this time.[18]
 
@@ -41,7 +41,7 @@ It was one of the most important instruments in Baroque polychoral works, along 
 
 Instrument sizes
 
-Praetorius_Trombones_1614-1620_Syntagma_Musicum.png'' (1614-20), by Michael Praetorius.]]
+'' (1614-20), by Michael Praetorius.]]
 
 Sackbuts come in several sizes. According to Michael Praetorius, these were:
 
@@ -53,7 +53,7 @@ Sackbuts come in several sizes. According to Michael Praetorius, these were:
   double bass   Octav-Posaun                   A (octave below tenor)   B♭ (octave below tenor)
 
 
-Praetorius_Octav-Posaun.png The pitch of the trombones has (notionally) moved up a semi-tone since the 17th century, and this is explained in the section on pitch.
+ The pitch of the trombones has (notionally) moved up a semi-tone since the 17th century, and this is explained in the section on pitch.
 
 Because the tenor instrument is described as "Gemeine" (common or ordinary), this is probably the most widely used trombone.
 
@@ -68,7 +68,7 @@ The bore size of renaissance/baroque trombones is approximately and the bell rar
 
 Modern reproductions of sackbuts sacrifice some authenticity to harness manufacturing techniques and inventions that make them more comfortable for modern players, while retaining much of the original character of the old instruments.
 
-Mersenne_harmonie_universelle_1636_trombone.png, _L'Harmonie universelle_ (1636). ]]
+, _L'Harmonie universelle_ (1636). ]]
 
 Some original instruments could be disassembled into the constituent straight tubes, bowed tubes, bell flare, and stays, with ferrules at the joints. Mersenne has a diagram. (Little imagination is needed to see how it could be reassembled—with an extra tube—into something approaching a natural trumpet.) There is a debate as to whether they used tight fittings, wax or another joining substance. Modern sackbut reproductions are usually soldered together. Some modern sackbut reproductions use glue as a compromise to give a loose fitting for high resonance without risk of falling apart.
 
@@ -89,8 +89,6 @@ Until some time in the 18th century, the trombone was in A and the pitch of that
 
 -   Fellow church instruments that are fixed pitch—cornetts and organs—were pitched at approximately A=460–480 Hz ("Chorton") across Europe in the Renaissance and baroque eras. High pitch is also seen in Renaissance wind bands.
 
-Virigiliano_il_dolcimelo_trombone.png
-
 -   Aurelio Virgiliano's _Il dolcimelo_ (c. 1600) teaches trombonists that first position gives A, E, A, C , E and G.[25]
 -   In 1687, Daniel Speer's _Grund-richtiger_ concurs with these notes for the slide all the way in (while describing pushing the slide out a bit to get the C).
 -   Praetorius describes an alto in D, tenor in A, and bass in D.
@@ -102,7 +100,7 @@ Many groups now perform at A=466 Hz for the sake of greater historical accuracy
 
 Timbre
 
-A_band_of_modern_waits_(York,_2006).jpg, an ensemble of loud instruments suited to playing outdoors. Centre, a sackbut.]] The sackbut was described as suitable for playing with the 'loud' ensembles in the outdoors, as well as the 'soft' ensembles inside.
+, an ensemble of loud instruments suited to playing outdoors. Centre, a sackbut.]] The sackbut was described as suitable for playing with the 'loud' ensembles in the outdoors, as well as the 'soft' ensembles inside.
 
 The alta capella bands are seen in drawings as entertaining outside with ensembles including shawms, trumpets and trombones. When pushed, sackbuts can easily make a loud and brassy sound.
 
@@ -125,18 +123,18 @@ Along with the improvisation, many of these tutors discuss articulation. Frances
 
 Another integral part of the early music sound-world is the musical temperament. Music in the middle-ages favours intervals of the fourth and fifth, which is why Pythagorean tuning was used. The interval of a third was used as a clash until the Renaissance, when it became consonant in compositions, which went hand-in-hand with the widespread use of meantone temperament. During the 17th century, Well temperament began to become more and more popular as the range of keys increased. Temperament affects the colour of a composition, and therefore modern performances, typically employing equal temperament, may not be true representations of the composers' intentions.
 
-These old tunings are the result of the natural harmonic series of a brass instrument such as the sackbut. Harmonics_to_32.png ]]
+These old tunings are the result of the natural harmonic series of a brass instrument such as the sackbut. ]]
 
 As the bell is smaller than a modern trombone, the harmonic series is closer to a perfect harmonic series, which is the basis for just tuning. Without adjusting the slide, the first to second harmonic is a perfect octave, second to third harmonic is a fifth slightly wider than equal temperament and fourth to fifth harmonic is a major third slightly narrower than in equal temperament. These adjusted intervals make chords ring and are the basis of meantone. In fact, Daniel Speer says “Once you have found a good C (third position), this is also the place you will find your F.” Playing a sounding C and F in exactly the same position on a modern orchestra sounds out of tune, but it tunes perfectly well on in a sackbut choir if everyone plays natural harmonics.
 
-Picchi_canzon_decima_terza_-_trombone.png seen here is very common for trombone parts of this era. ]]
+seen here is very common for trombone parts of this era. ]]
 
 Plenty of musical understanding can be gathered from reading the original music print. Publishers such as SPES[29] and Arnaldo Forni Edition provide facsimile copies of plenty of music for trombone from this era. To read these it one needs to become familiar with the old clefs, time signatures, ligatures and notational conventions of the era.
 
 
 Symbolism
 
-At_the_Last_Trump_(6379252387).jpg]] The sound of sackbuts (and trombones) has long been thought especially solemn and noble, had an association with death and the afterlife.[30] The instrument was a symbol of divine presence, the voice of the angels and instrument of judgment.[31] This symbolism can be seen, for instance, in _L'Orfeo_, _Alceste_, _The Magic Flute_, the _Death March_ from _Saul_, and funeral aequales.[32]
+]] The sound of sackbuts (and trombones) has long been thought especially solemn and noble, had an association with death and the afterlife.[30] The instrument was a symbol of divine presence, the voice of the angels and instrument of judgment.[31] This symbolism can be seen, for instance, in _L'Orfeo_, _Alceste_, _The Magic Flute_, the _Death March_ from _Saul_, and funeral aequales.[32]
 
 This association was probably encouraged by the lack of distinction made between natural horns, slide trumpets, and trombones in this Renaissance; they were used and often named interchangeably. Martin Luther's 1534 translation of the Bible into German renders the Greek _shophar_ and _salpigx_ to _Posaune_. _Posaune_ at the time could refer to a natural horn or other brass instrument, but it later came to mean exclusively "trombone" (similarly, English translations generally have "trumpet", and only occasionally "horn" or "shofar"). This gives the later reader of the Luther Bible texts such as: “…we shall all be changed, in a moment, in the twinkling of an eye, at the last trombone; for the trombone shall sound and the dead shall be raised incorruptible” (1 Corinthians 15:52).[33]
 

@@ -11,7 +11,7 @@ Tetzel was also condemned (though later pardoned) for immorality. When he discov
 
 Tetzel died in Leipzig in 1519. At the time of his death, Tetzel had fallen into disrepute and was shunned by the public.
 
-When Luther heard that Tetzel was mortally ill and on his deathbed, he wrote to comfort him and bade him "not to be troubled, for the matter did not begin on his account, but the child had quite a different father." After his death, he was given an honorable burial and interred before the high altar of the Dominican Church in Leipzig. access-date=31 October 2018 _Tetzel_Kasten.JPG (article in German).]]
+When Luther heard that Tetzel was mortally ill and on his deathbed, he wrote to comfort him and bade him "not to be troubled, for the matter did not begin on his account, but the child had quite a different father." After his death, he was given an honorable burial and interred before the high altar of the Dominican Church in Leipzig. access-date=31 October 2018 (article in German).]]
 
 
 Doctrinal positions
@@ -29,8 +29,6 @@ This oft-quoted saying was by no means representative of the official Catholic t
   He also taught, in accordance with the opinion then held, that an indulgence could be applied to any given soul with unfailing effect. Starting from this assumption, there is no doubt that his doctrine was virtually that of the well known drastic proverb.
 
   The Papal Bull of indulgence gave no sanction whatever to this proposition. It was a vague scholastic opinion, rejected by the Sorbonne in 1482, and again in 1518, and certainly not a doctrine of the Church, which was thus improperly put forward as dogmatic truth. The first among the theologians of the Roman court, Cardinal Cajetan, was the enemy of all such extravagances and declared emphatically that, even if theologians and preachers taught such opinions, no faith need be given them. "Preachers," he said, "speak in the name of the Church only so long as they proclaim the doctrine of Christ and His Church; but if, for purposes of their own, they teach that about which they know nothing, and which is only their own imagination, they must not be accepted as mouthpieces of the Church. No one must be surprised if such as these fall into error."
-
-_Portrait_of_Johann_Tetzel_Taking_an_Oath.jpg
 
 
 Luther's impression

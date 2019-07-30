@@ -24,7 +24,7 @@ The main virion components are:
 
 Multiplication
 
-Life_Cycle_of_a_Retrovirus.svg When retroviruses have integrated their own genome into the germ line, their genome is passed on to a following generation. These endogenous retroviruses (ERVs), contrasted with exogenous ones, now make up 5-8% of the human genome.[6] Most insertions have no known function and are often referred to as "junk DNA". However, many endogenous retroviruses play important roles in host biology, such as control of gene transcription, cell fusion during placental development in the course of the germination of an embryo, and resistance to exogenous retroviral infection. Endogenous retroviruses have also received special attention in the research of immunology-related pathologies, such as autoimmune diseases like multiple sclerosis, although endogenous retroviruses have not yet been proven to play any causal role in this class of disease.[7]
+When retroviruses have integrated their own genome into the germ line, their genome is passed on to a following generation. These endogenous retroviruses (ERVs), contrasted with exogenous ones, now make up 5-8% of the human genome.[6] Most insertions have no known function and are often referred to as "junk DNA". However, many endogenous retroviruses play important roles in host biology, such as control of gene transcription, cell fusion during placental development in the course of the germination of an embryo, and resistance to exogenous retroviral infection. Endogenous retroviruses have also received special attention in the research of immunology-related pathologies, such as autoimmune diseases like multiple sclerosis, although endogenous retroviruses have not yet been proven to play any causal role in this class of disease.[7]
 
 While transcription was classically thought to occur only from DNA to RNA, reverse transcriptase transcribes RNA into DNA. The term "retro" in retrovirus refers to this reversal (making DNA from RNA) of the usual direction of transcription. It still obeys the central dogma of molecular biology, which states that information can be transferred from nucleic acid to nucleic acid but cannot be transferred back from protein to either protein or nucleic acid. Reverse transcriptase activity outside of retroviruses has been found in almost all eukaryotes, enabling the generation and insertion of new copies of retrotransposons into the host genome. These inserts are transcribed by enzymes of the host into new RNA molecules that enter the cytosol. Next, some of these RNA molecules are translated into viral proteins. For example, the _gag_ gene is translated into molecules of the capsid protein, the _pol_ gene is translated into molecules of reverse transcriptase, and the _env_ gene is translated into molecules of the envelope protein. It is important to note that a retrovirus must "bring" its own reverse transcriptase in its capsid, otherwise it is unable to utilize the enzymes of the infected cell to carry out the task, due to the unusual nature of producing DNA from RNA.
 
@@ -65,8 +65,6 @@ Retroviruses that cause tumor growth include _Rous sarcoma virus_ and _Mouse mam
 
 
 Classification
-
-Phylogeny_of_Retroviruses.svg
 
 Exogenous
 

@@ -1,4 +1,4 @@
-Oscillating_sine_wave.gif In physics and mathematics, the PHASE of a periodic function F of some real variable t is the relative value of that variable within the span of each full period.
+In physics and mathematics, the PHASE of a periodic function F of some real variable t is the relative value of that variable within the span of each full period.
 
 The phase is typically expressed as an angle ϕ(t), in such a scale that it varies by one full turn as the variable t goes through each period (and F(t) goes through each complete cycle). Thus, if the phase is expressed in degrees, it will increase by 360° as t increases by one period. If it is expressed in radians, the same increase in t will increase the phase by 2π.[1]
 
@@ -60,8 +60,6 @@ Similar formulas hold for radians, with 2π instead of 360.
 
 Phase shift
 
-Phase_shift.svg
-
 General definition
 
 The difference φ(t) = ϕ_(G)(t) − ϕ_(F)(t) between the phases of two periodic signals F and G is called the PHASE DIFFERENCE of G relative to F.[2] At values of t when the difference is zero, the two signals are said to be IN PHASE, otherwise they are OUT OF PHASE with each other.
@@ -102,9 +100,9 @@ The phase shift of the co-sine function relative to the sine function is +90°. 
 $$C = \sqrt{A^2 + B^2}\quad\quad{}$$
 and   sin (φ) = B/C.
 
-Sine_waves_same_phase.svg Sine_waves_different_phase.svg Phase_Comparison_image_two_waves.gif Phase-shift_illustration.png of a plane wave moving from top to bottom. Right: the same wave after a central section underwent a phase shift, for example, by passing through a glass of different thickness than the other parts.]]
+of a plane wave moving from top to bottom. Right: the same wave after a central section underwent a phase shift, for example, by passing through a glass of different thickness than the other parts.]]
 
-.Out_of_phase_AE.gif
+.
 
 A real-world example of a sonic phase difference occurs in the warble of a Native American flute. The amplitude of different harmonic components of same long-held note on the flute come into dominance at different points in the phase cycle. The phase difference between the different harmonics can be observed on a spectrogram of the sound of a warbling flute.[3]
 

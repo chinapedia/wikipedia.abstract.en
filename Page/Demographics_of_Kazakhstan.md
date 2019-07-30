@@ -7,7 +7,7 @@ Official estimates put the population of Kazakhstan at 18,137,300 as of December
 
 The proportion of men makes up 48.3%, the proportion of women 51.7%. The proportion of Kazakhs makes up 63.6%, Russians 23.7%, Uzbeks 2.9%, Ukrainians 2.1%, Uygur 1.4%, Tatars 1.3%, Germans 1.1%, others 3.9%. Note that a large percentage of the population are of mixed ethnicity.
 
-The first census in Kazakhstan was conducted under Russian Imperial rule in 1897, which estimated population at round 4 million people. Following censuses showed a growth until 1939, where numbers showed a decrease to 6,081 thousand relative to the previous census done 13 years earlier, due to famines of 1922 and 1933. But since 1939 population has steadily increased to 16.5 million in the 1989, according to corresponding year census. Official estimates indicate that the population continued to increase after 1989, peaking out at 17 million in 1993 and then declining to 15 million in the 1999 census. The downward trend continued through 2002, when the estimated population bottomed out at 14.9 million, and then resumed its growth.[7] Significant numbers of Russians returned to Russia. Kazakhstan underwent significant urbanization during the first 50 years of the Soviet era, as the share of rural population declined from more than 90% in the 1920s to less than 50% since the 1970s.[8] Dzhasybay_beach.jpg beach, Pavlodar Region ]]
+The first census in Kazakhstan was conducted under Russian Imperial rule in 1897, which estimated population at round 4 million people. Following censuses showed a growth until 1939, where numbers showed a decrease to 6,081 thousand relative to the previous census done 13 years earlier, due to famines of 1922 and 1933. But since 1939 population has steadily increased to 16.5 million in the 1989, according to corresponding year census. Official estimates indicate that the population continued to increase after 1989, peaking out at 17 million in 1993 and then declining to 15 million in the 1999 census. The downward trend continued through 2002, when the estimated population bottomed out at 14.9 million, and then resumed its growth.[7] Significant numbers of Russians returned to Russia. Kazakhstan underwent significant urbanization during the first 50 years of the Soviet era, as the share of rural population declined from more than 90% in the 1920s to less than 50% since the 1970s.[8] beach, Pavlodar Region ]]
 
 Population of Kazakhstan 1897–2018
 
@@ -195,8 +195,6 @@ Source: _UN World Population Prospects_[26]
 
 
 Ethnic groups
-
-Kazakhstan_demographics_1897-1970_en.png
 
 History of ethnic composition
 

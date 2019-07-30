@@ -13,7 +13,7 @@ At its widest points, the Lower Peninsula is long from north to south and from e
 
 Flora and fauna
 
-Michigan_Basin_2.jpg The American Bird Conservancy and the National Audubon Society have designated several locations as internationally Important Bird Areas.[5]
+The American Bird Conservancy and the National Audubon Society have designated several locations as internationally Important Bird Areas.[5]
 
 Geology
 
@@ -53,7 +53,7 @@ The Great Lakes Circle Tour is a designated scenic road system connecting all of
 
 Regions
 
-Michigan_Regions.png Michigan's Lower Peninsula can be divided into four main regions based on geological, soil, and vegetation differences; amount of urban areas or rural areas; minority populations; and agriculture. The four principal regions listed below can further be separated into sub-regions and overlapping areas.
+Michigan's Lower Peninsula can be divided into four main regions based on geological, soil, and vegetation differences; amount of urban areas or rural areas; minority populations; and agriculture. The four principal regions listed below can further be separated into sub-regions and overlapping areas.
 
 -   Northern Michigan
 -   Central/Mid-Michigan

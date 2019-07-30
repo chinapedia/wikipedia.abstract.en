@@ -11,8 +11,6 @@ Carson was brevetted a Brigadier General and took command of Fort Garland, Color
 
 Early life (1809–1829)
 
-Early_photo_of_Kit_Carson.jpg
-
 Christopher Houston Carson was born on Christmas Eve, 1809 at the Home of Thomas Young in Houstonville, Iredell County, North Carolina. His parents were Lindsay Carson and his second wife, Rebecca Robinson. Lindsay had had five children by his first wife Lucy Bradley, and ten more children by Rebecca. The Christmas Eve occasion of Christopher "Kit" Houston Carson birth was an interesting experience. Thomas Young and his family had a family tradition to celebrate Christmas by annually having a party at their fashionable home in Houstonville. In addition to their own family, the Carsons would always invite friends and close neighbors. It was to this occasion that Lindsay and Rebecca Carson were invited. Lindsay's wife, Rebecca was expecting the imminent birth of their 6th child. Early in the evening, the hostess, Mrs. Young noticed that Rebecca Carson seemed to be in some distress and knowing of her expectant child, Mrs. Young took Rebecca to a room in another building where she could be in a more comforting environment and attended by a helpful attendant, a woman who was an African-American slave. It was not long until the sound of a new pair of strong lungs sounded out the alarm, a new child had been born to Lindsay and Rebecca Carson. The new mother and father decided quickly their son should be named Christopher Houston Carson, and because of his small size, to give him the nick-name, "Kit." Lindsay Carson had a Scots-Irish Presbyterian background.[1] He was a farmer, a cabin builder, and a veteran of the American Revolutionary War and the War of 1812.[2] He fought Indians on the American frontier, losing two fingers on his left hand in a battle with the Fox and Sauk Indians.[3]
 
 The Carson family moved to Boone's Lick, Howard County, Missouri, when Kit was about one year old. The family settled on a tract of land owned by the sons of Daniel Boone, who had purchased the land from the Spanish. The Boone and Carson families became good friends, working and socializing together, and intermarrying. Lindsay's oldest son William married Boone's grand-niece, Millie Boone, in 1810. Their daughter Adaline became Kit's favorite playmate.[4]
@@ -36,7 +34,7 @@ Between 1827 and 1829, Carson worked as cook, translator, and wagon driver in th
 
 Mountain man (1829–1841)
 
-Carson_and_his_horse_Apache.jpg At the age of nineteen, Carson began his career as a mountain man. He traveled through many parts of the American West with famous mountain men like Jim Bridger and Old Bill Williams. He spent the winter of 1828–1829 as a cook for Ewing Young in Taos.[15] He joined Young's trapping expedition of 1829. The leadership of Young and the experience of the venture are credited with shaping Carson's early life in the mountains.
+At the age of nineteen, Carson began his career as a mountain man. He traveled through many parts of the American West with famous mountain men like Jim Bridger and Old Bill Williams. He spent the winter of 1828–1829 as a cook for Ewing Young in Taos.[15] He joined Young's trapping expedition of 1829. The leadership of Young and the experience of the venture are credited with shaping Carson's early life in the mountains.
 
 During August 1829 the party went into Apache country along the Gila River. The expedition was attacked, being Carson's first experience of combat. Young's party continued on into Alta California trapping and trading in California from Sacramento in the north to Los Angeles in the south, returning to Taos, New Mexico in April 1830 after trapping along the Colorado River.[16]
 
@@ -53,7 +51,7 @@ In 1841, he was hired at Bent's Fort in Colorado, at the largest building on the
 
 Indian fighter
 
-Carson was nineteen when he set off with Ewing Young's expedition to the Rocky Mountains in 1829. In addition to furs and the company of free-spirited, rugged mountain men, Carson sought action and adventure. He found what he was looking for in killing and scalping Indians. Carson probably killed and took the scalp of his first Indian when he was nineteen years old, during Ewing Young's expedition.[26] Jim_Bridger.jpg Carson's _Memoirs_ are replete with stories about hostile Indian encounters with the memoirist. In January 1833, for example, warriors of the Crow tribe stole nine horses from Carson's camp. Carson and two other men sprayed the Crow camp with gunfire, killing almost every Crow. Carson wrote in his _Memoirs_: "During our pursuit for the lost animals, we suffered considerably but, the success of having recovered our horses and sending many a redskin to his long home, our sufferings were soon forgotten."[27]
+Carson was nineteen when he set off with Ewing Young's expedition to the Rocky Mountains in 1829. In addition to furs and the company of free-spirited, rugged mountain men, Carson sought action and adventure. He found what he was looking for in killing and scalping Indians. Carson probably killed and took the scalp of his first Indian when he was nineteen years old, during Ewing Young's expedition.[26] Carson's _Memoirs_ are replete with stories about hostile Indian encounters with the memoirist. In January 1833, for example, warriors of the Crow tribe stole nine horses from Carson's camp. Carson and two other men sprayed the Crow camp with gunfire, killing almost every Crow. Carson wrote in his _Memoirs_: "During our pursuit for the lost animals, we suffered considerably but, the success of having recovered our horses and sending many a redskin to his long home, our sufferings were soon forgotten."[27]
 
 Carson viewed the Blackfoot nation as a hostile tribe, believing they posed the greatest threat to his livelihood, safety, and life. He hated the Blackfeet, and killed them at every opportunity. Historian David Roberts has written: "It was taken for granted that the Blackfeet were bad Indians; to shoot them whenever he could was a mountain man's instinct and duty."[28]
 
@@ -66,7 +64,7 @@ Carson's notions about Indians softened over the years. He found himself more an
 
 Expeditions with John Charles Frémont (1842–1848)
 
-J_c_fremont.jpg, the photographer and date are unknown.]]
+, the photographer and date are unknown.]]
 
 In April 1842, Carson went back to his childhood home in Missouri to put his daughter Adaline in the care of relatives.[32] On the return trip, Carson met John C. Frémont aboard a steamboat on the Missouri River. Frémont was a United States Army officer in the Corps of Topographical Engineers. He was about to lead an expedition into the West. After a brief conversation, Frémont hired Carson as a guide at $100 a month. It was the best-paying job of Carson's life.[33] Frémont wrote, "I was pleased with him and his manner of address at this first meeting. He was a man of medium height, broad-shouldered, and deep-chested, with a clear steady blue eye and frank speech and address; quiet and unassuming."[34]
 
@@ -106,8 +104,6 @@ Carson's fame spread throughout the United States with government reports, dime 
 
 Dime novels
 
-Fighting_Trapper,_or_Kit_Carson_to_the_Rescue.jpg
-
 The first story about Carson's adventures was printed in 1847. It was called _An Adventure of Kit Carson: A Tale of the Sacramento_. It was printed in _Holden's Dollar Magazine_. Other stories were also printed, such as _Kit Carson: The Prince of the Goldhunters_ and _The Prairie Flower_. Writers thought Carson the perfect mountain man and Indian fighter. His exciting adventures were printed in the story _Kiowa Charley, The White Mustanger; or, Rocky Mountain Kit's Last Scalp Hunt_. In this story, an older Kit is said to have "ridden into Sioux camps unattended and alone, had ridden out again, but with the scalps of their greatest warriors at his belt."[46]
 
 Indian captive Mrs. Ann White
@@ -140,8 +136,6 @@ In April 1861, the American Civil War broke out. Carson left his job as an India
 
 Campaign against the Apaches
 
-James_Henry_Carleton.jpg
-
 Once the Confederates were driven from New Mexico, Carson's commander Major General James Henry Carleton turned his attention to the Native Americans. Author and historian Edwin Sabin writes that this officer had a "psychopathic hatred of the Apaches".[54] Carleton led his forces deep into the Mescalero Apache territory. The Mescaleros were tired of fighting and put themselves under Carson's protection. Carleton put these Apaches on a remote and lonely reservation on the Pecos River.[55]
 
 Carson disliked the Apaches as well. He wrote in a report that the Jicarilla Apaches "were truly the most degraded and troublesome Indians we have in our department ... [W]e daily witness them in a state of intoxication in our plaza."[56] Carson half-heartedly supported Carleton's plans. He was tired and had suffered an injury two years before that gave him great trouble. He resigned from the Army in February 1863. Carleton refused to accept the resignation because he wanted Carson to lead a campaign against the Navajo.[57]
@@ -149,8 +143,6 @@ Carson disliked the Apaches as well. He wrote in a report that the Jicarilla Apa
 Campaign against the Navajo
 
 Carleton had chosen a bleak site on the Pecos River for his reservation, which was called Bosque Redondo (Round Grove). He chose this site for the Apaches and Navajos because it was far from white settlements. He also wanted these Apaches and Navajo to act as a buffer for any aggressive acts committed upon the white settlements from Kiowas and Comanches to the east of Bosque Redondo. He thought as well that the remoteness and desolation of the reservation would discourage white settlement.[58]
-
-Hweeldi3.jpg
 
 The Mescalero Apaches walked to the reservation. By March 1863, four hundred Apaches had settled around nearby Fort Sumner. Others had fled west to join fugitive bands of Apaches. By middle summer, many of these people were planting crops and doing other farm work.
 
@@ -199,8 +191,6 @@ Carson was married three times. His first two wives were Native American. His th
 
 In 1836, Carson met an Arapaho woman named Waanibe (Singing Grass, or Grass Singing) at a mountain man rendezvous held along the Green River in Wyoming. Singing Grass was a lovely young woman, and many mountain men were in love with her.[76] Carson was forced to fight a duel with a French trapper named Chouinard for Waanibe's hand in marriage. Carson won, but he had a very narrow escape. The French trapper's bullet singed his hair. The duel was one of the best known stories about Carson in the 19th century.[77]
 
-Josefacarson02crop.jpg
-
 Carson married Singing Grass. She tended to his needs, and went with him on his trapping trips. They had a daughter named Adaline (or Adeline). Singing Grass died after giving birth to Carson's second daughter, in about 1841. This second child did not live long: in 1843, she fell into a kettle of boiling soap in Taos, New Mexico.[78]
 
 Carson's life as a mountain man was too hard for a little girl so he took Adaline to live with his sister Mary Ann Carson Rubey in St. Louis, Missouri. Adaline was taught in a school for girls called a seminary. Carson brought her West when she was a teenager. She married a George Stilts of St. Louis, and divorced. In 1858, she went to the California goldfields. Adaline died in 1860[79] or after 1862, probably in Mono County, California.[80]
@@ -218,8 +208,6 @@ Carson enjoyed having other people read to him, and preferred the poetry of Geor
 
 Final days
 
-FinalKitCarsonPhoto.jpg
-
 When the Civil War ended, and the Indian Wars campaigns were in a lull, Carson was appointed brevet brigadier general (dated March 13, 1865) and appointed commandant of Ft. Garland, Colorado, in the heart of Ute country. Carson had many Ute friends in the area and assisted in government relations.[85]
 
 After being mustered out of the Army, Carson took up ranching, settling at Boggsville in Bent County. In 1868, at the urging of Washington and the Commissioner of Indian Affairs, Carson journeyed to Washington D.C., where he escorted several Ute Chiefs to meet with the President of the United States to plead for assistance to their tribe.[86]
@@ -229,7 +217,7 @@ Soon after his return, his wife Josefa died from complications after giving birt
 
 Legacy
 
-KitCarson-FrederickWilliamMacMonnies-BMA.jpg, 1906.]]
+, 1906.]]
 
 Carson's home in Taos, New Mexico is today a museum called the Kit Carson Home and Museum. A monument was raised in the plaza at Santa Fe by the New Mexico Grand Army. In Denver, a statue of a mounted Kit Carson can be found atop the Mac Monnies Pioneer Monument. Another equestrian statue can be seen in Trinidad, Colorado. Carson National Forest in New Mexico was named for him, as well as a county and a town in Colorado. A river in Nevada is named for Carson as well as the state's capital, Carson City. Fort Carson, an army training post near Colorado Springs, was named after him during World War II by popular vote of the men training there.[88] Kit Carson Park in Escondido, California is named for him.
 

@@ -20,8 +20,6 @@ Each of the nine divisions that make up the three corps has one or two regiments
 
 Navy
 
-Naval_Jack_of_Paraguay.svg
-
 Although Paraguay is a landlocked country, it has a strong naval tradition by virtue of the fact that it has access to the Atlantic Ocean through the Paraguay–Paraná rivers. The Paraguayan Navy has twelve bases. The main base is the Puerto Sajonia in Asuncion, followed by Bahia Negra, Ciudad del Este, Encarnacion, Salto del Guaira. It also has facilities in Puerto Sajonia for helicopters and airplanes in SGAS. Naval personnel including Marine Corps aviation personnel, and the naval inward waters prefecture equal about 8,950. The Marine Corps have 800 marines, of which 400 are assigned to one commando unit with the rest being organized into a single battalion consisting of three companies.
 
 In terms of vessels, the Navy has 34 surface ships, some of which have reached centenarian age. (This is due in part to limited use and floating in fresh water.) The main vessels and the flagship of the Paraguay Navy is still _Humaita_, which was commissioned prior to Paraguay's involvement in the Chaco War. It has a further four patrol vessels, of which the oldest was commissioned in 1908 and the newest in 1985. The Navy has 17 patrol boats of various drafts, four of which were donated by Taiwan and the United States, while the other 13 were built locally. The rest of the fleet is composed of tugboats, barges, landing craft, transports, and a presidential yacht. The new additions are four Croc-class riverine vessels from Australia, plus 43 locally built riverline patrol vessels constructed from 2006–2009.
@@ -83,8 +81,6 @@ Naval aviation
 
 Air Force
 
-Roundel_of_Paraguay.svg
-
 The air force, the newest and smallest of the services, has about 1,100 personnel as of 2012.[4] The Paraguayan Air Forces is organised in an Air Brigade of seven air groups and a brigade of paratroopers on battalion level. Almost all operating units are based in premises at Silvio Pettirosi internacional airport (SGAS) in Asuncion.
 
 The units comprising the force are: the Aerotactico group (TAG) with three fighter squadrons (numbered 1 to 3), respectively equipped with the MB-326, T-33 and EMB-312.It is noteworthy that the first two are in storage or operating either by withdrawal of this aircraft. The squadron "Moros", equipped with Tucanos, has only one squadron (3 airplanes active). The Air Transport Group (GTA) operates aircraft of the CASA, DHC-6, and Beechcraft types. The Helicopter air group (HLG) has a SAR squadron, a utility squadron, and a squadron of attack craft, and is equipped with ex-Taiwanese UH-1H and Brazilian HB-350B aircraft. The Air Group Instruction (AFI) has materials and T-25 and T-35 aircraft. Photogrammetric called air group (GAF) and group aviation maintenance section (SEMAER) do not have aircraft assigned. The Parachute Brigade operates CASA aircraft.Paraguayan Helicopters constantly flew the skies of Asuncion during the visit of Pope Francis in July 2015
@@ -130,7 +126,7 @@ Aircraft
 
 Current inventory
 
-Paraguayan_Air_Force_CASA_212_Newton-1.jpg Embraer_312.jpg]]
+]]
 
   Aircraft             Origin          Type                     Variant   In service   Notes
   -------------------- --------------- ------------------------ --------- ------------ -------
@@ -178,13 +174,9 @@ Officer ranks
 
 The stars worn by Army and Air Force lieutenants (Sub-Teniente, Teniente, Teniente 1ro) and captains are silver in color. The ones worn by the Major, Lieutenant Colonel and Colonel are gold. The army officers branch is denoted by the color of circular pads under the stars, which is also the same color used for the chevron. Red denotes branches such as Infantry and Artillery, while Cavalry is denoted by a pink. A darker red denotes support branches such as Engineering Corps, Communications, and Intelligence. Green means Supply and Transportation, while purple is reserved for the Medicine Branch. Generals' special chevron consists of a woven depiction of the olive and palm found in the national emblem in gold threads.
 
-Paraguayan-Miliatry-Ranks-Officers.jpg
-
 Enlisted ranks
 
 As in the case of the army officers, the army enlisted branch is denoted by the color of their chevrons and bars. The colors and meanings are the same as the ones explained above.
-
-Paraguayan-Miliatry-Ranks-Enlisted.jpg
 
 
 See also

@@ -1,4 +1,4 @@
-Overgrazing.JPG in western New South Wales (Australia), in the upper right corner.]] Israel_Egypt_Border.JPG and Egypt. The Egyptian side, to the left, is overgrazed]]
+in western New South Wales (Australia), in the upper right corner.]] and Egypt. The Egyptian side, to the left, is overgrazed]]
 
 OVERGRAZING occurs when plants are exposed to intensive grazing for extended periods of time, or without sufficient recovery periods. It can be caused by either livestock in poorly managed agricultural applications, game reserves, or nature reserves. It can also be caused by immobile, travel restricted populations of native or non-native wild animals. However, "overgrazing" is a controversial concept, based on equilibrium system theory.
 

@@ -31,7 +31,7 @@ A new era began in Mexico following the fraudulent 1988 presidential elections. 
 
 Before European arrival
 
-La_Venta_Pirámide_cara_sur.jpg Chichen_Itza_3.jpg sits atop this pyramid with a total of 365 stairs on its four sides. At the spring and fall equinoxes, the sun casts a shadow in the shape of a serpent along the northern staircase.]]
+sits atop this pyramid with a total of 365 stairs on its four sides. At the spring and fall equinoxes, the sun casts a shadow in the shape of a serpent along the northern staircase.]]
 
 The large and complex civilizations of Mexico developed in the center and southern regions (with the southern region extending into what is now Central America) in what has come to be known as Mesoamerica. The civilizations that rose and declined over millennia were characterized by:[2]
 
@@ -58,8 +58,6 @@ The first people to settle in Mexico encountered a climate far milder than the c
 
 Corn, squash, and beans
 
-Corncobs.jpg
-
 Indigenous peoples in western Mexico began to selectively breed maize (_Zea mays_) plants from precursor grasses (e.g., teosinte) between 5,000 and 10,000 years ago.[6]
 
 The diet of ancient central and southern Mexico was varied, including domesticated corn (or maize), squashes such as pumpkin and butternut squash, common beans (pinto, kidney, navy and other common beans consumed today), tomatoes, peppers, cassavas, pineapples, chocolate, and tobacco. The Three Sisters (corn, squash, and beans) constituted the principal diet.1
@@ -68,7 +66,7 @@ Religion
 
 The Mesoamericans had the concept of god and religion, but their concept was very different from Abrahamic concepts. The Mesoamericans had a belief where everything, every element of the cosmos, the earth, the sun, the moon, the stars, which mankind inhabits, everything that forms part of nature such as animals, plants, water and mountains all represented a manifestation of the supernatural. In most cases gods and goddesses are often depicted in stone reliefs, pottery decoration, wall paintings and in the various Maya, and pictorial manuscripts such as Maya codices, Aztec codices, and Mixtec codices.
 
-Yaxchilan_Lintel_24.jpg, Maya, linted 24 of temple 23, Yaxchilan, Mexico, ca. 725 ce. Limestone, 3'7" × 2' 6.5". British Museum, London. The Maya built vast complexes of temples, palaces, and plazas and decorated many with painted reliefs.]]
+, Maya, linted 24 of temple 23, Yaxchilan, Mexico, ca. 725 ce. Limestone, 3'7" × 2' 6.5". British Museum, London. The Maya built vast complexes of temples, palaces, and plazas and decorated many with painted reliefs.]]
 
 The spiritual pantheon was vast and extremely complex. However, many of the deities depicted are common to the various civilizations and their worship survived over long periods of time. They frequently took on different characteristics and even names in different areas, but in effect they transcended cultures and time. Great masks with gaping jaws and monstrous features in stone or stucco were often located at the entrance to temples, symbolizing a cavern or cave on the flanks of the mountains that allowed access to the depths of Mother Earth and the shadowy roads that lead to the underworld.[7]
 
@@ -89,7 +87,7 @@ The fact that there was an existing prehispanic tradition of writing meant that 
 
 Major civilizations
 
-Olmeca_head_in_Villahermosa.jpg are uncertain, but their individualized features and distinctive headgear, as well as later Maya practice, suggest that these heads portray rulers rather than deities.]] During the pre-Columbian period, many city-states, kingdoms, and empires competed with one another for power and prestige. Ancient Mexico can be said to have produced five major civilizations: the Olmec, Maya, Teotihuacan, Toltec, and Aztec. Unlike other indigenous Mexican societies, these civilizations (with the exception of the politically fragmented Maya) extended their political and cultural reach across Mexico and beyond.
+are uncertain, but their individualized features and distinctive headgear, as well as later Maya practice, suggest that these heads portray rulers rather than deities.]] During the pre-Columbian period, many city-states, kingdoms, and empires competed with one another for power and prestige. Ancient Mexico can be said to have produced five major civilizations: the Olmec, Maya, Teotihuacan, Toltec, and Aztec. Unlike other indigenous Mexican societies, these civilizations (with the exception of the politically fragmented Maya) extended their political and cultural reach across Mexico and beyond.
 
 They consolidated power and exercised influence in matters of trade, art, politics, technology, and religion. Over a span of 3,000 years, other regional powers made economic and political alliances with them; many made war on them. But almost all found themselves within their spheres of influence.
 
@@ -99,7 +97,7 @@ The Olmec first appeared along the Atlantic coast (in what is now the state of T
 
 Maya
 
-Maya_Chac_Mool_by_Luis_Alberto_Melograna.jpg, Maya, from the Platform of the Eagles, Chichen Itza, Mexico, ca. 800–90 CE. Stone, 4' 10.5" high. National Museum of Anthropology, Mexico city. Chacmools represent fallen warriors reclining on their backs with receptacles on their chests to receive sacrificial offerings. Excavators discovered one in the burial chamber inside the Castilloyo]]
+, Maya, from the Platform of the Eagles, Chichen Itza, Mexico, ca. 800–90 CE. Stone, 4' 10.5" high. National Museum of Anthropology, Mexico city. Chacmools represent fallen warriors reclining on their backs with receptacles on their chests to receive sacrificial offerings. Excavators discovered one in the burial chamber inside the Castilloyo]]
 
 Maya cultural characteristics, such as the rise of the _ahau_, or king, can be traced from 300 BC onwards. During the centuries preceding the classical period, Maya kingdoms sprang up in an area stretching from the Pacific coasts of southern Mexico and Guatemala to the northern Yucatán Peninsula. The egalitarian Maya society of pre-royal centuries gradually gave way to a society controlled by a wealthy elite that began building large ceremonial temples and complexes.
 
@@ -107,9 +105,9 @@ The earliest known long-count date, 199 AD, heralds the classic period, during w
 
 Teotihuacan
 
-Tetitla_Diosa_de_Jade.jpg Teotihuacan is an enormous archaeological site in the Basin of Mexico, containing some of the largest pyramidal structures built in the pre-Columbian Americas. Apart from the pyramidal structures, Teotihuacan is also known for its large residential complexes, the Avenue of the Dead, and numerous colorful, well-preserved murals. Additionally, Teotihuacan produced a thin orange pottery style that spread through Mesoamerica.[11]
+Teotihuacan is an enormous archaeological site in the Basin of Mexico, containing some of the largest pyramidal structures built in the pre-Columbian Americas. Apart from the pyramidal structures, Teotihuacan is also known for its large residential complexes, the Avenue of the Dead, and numerous colorful, well-preserved murals. Additionally, Teotihuacan produced a thin orange pottery style that spread through Mesoamerica.[11]
 
-View_from_Pyramide_de_la_luna.jpg view of the Avenue of the Dead and the Pyramid of the Sun, from the Pyramid of the Moon. At its peak around 600 CE, Teotihuacan was the sixth-largest city in the world. It featured a rational grid plan and a two-mile-long main avenue. Its monumental pyramids echo the shapes of surrounding mountains.]]
+view of the Avenue of the Dead and the Pyramid of the Sun, from the Pyramid of the Moon. At its peak around 600 CE, Teotihuacan was the sixth-largest city in the world. It featured a rational grid plan and a two-mile-long main avenue. Its monumental pyramids echo the shapes of surrounding mountains.]]
 
 The city is thought to have been established around 100 BCE and continued to be built until about 250 CE.[12] The city may have lasted until sometime between the 7th and 8th centuries CE. At its zenith, perhaps in the first half of the 1st millennium CE, Teotihuacan was the largest city in the pre-Columbian Americas. At this time it may have had more than 200,000 inhabitants, placing it among the largest cities of the world in this period. Teotihuacan was even home to multi-floor apartment compounds built to accommodate this large population.[13]
 
@@ -117,7 +115,7 @@ The civilization and cultural complex associated with the site is also referred 
 
 Toltec
 
-Telamones_Tula.jpg portraying warriors armed with darts and spear-throwers reflect the military regime of the Toltecs, whose arrival in central Mexico coincided with the decline of the Maya.]]
+portraying warriors armed with darts and spear-throwers reflect the military regime of the Toltecs, whose arrival in central Mexico coincided with the decline of the Maya.]]
 
 The Toltec culture is an archaeological Mesoamerican culture that dominated a state centered in Tula, Hidalgo, in the early post-classic period of Mesoamerican chronology (ca 800–1000 CE). The later Aztec culture saw the Toltecs as their intellectual and cultural predecessors and described Toltec culture emanating from Tollan (Nahuatl for Tula) as the epitome of civilization; indeed, in the Nahuatl language the word "Toltec" came to take on the meaning "artisan".
 
@@ -144,19 +142,19 @@ Spanish conquest
 
 Mesoamerica on the eve of the Spanish conquest
 
-Emperador_Moctezuma.jpg''' was the ninth tlatoani or ruler of Tenochtitlan, reigning from 1502 to 1520. The first contact between indigenous civilizations of Mesoamerica and Europeans took place during his reign, and he was killed during the initial stages of the Spanish conquest of Mexico, when Conquistador Hernán Cortés and his men fought to escape from the Aztec capital Tenochtitlan.]]
+''' was the ninth tlatoani or ruler of Tenochtitlan, reigning from 1502 to 1520. The first contact between indigenous civilizations of Mesoamerica and Europeans took place during his reign, and he was killed during the initial stages of the Spanish conquest of Mexico, when Conquistador Hernán Cortés and his men fought to escape from the Aztec capital Tenochtitlan.]]
 
 The first mainland explorations were followed by a phase of inland expeditions and conquest. The Spanish crown extended the Reconquista effort, completed in Spain in 1492, to non-Catholic people in new territories. In 1502 on the coast of present-day Colombia, near the Gulf of Urabá, Spanish explorers led by Vasco Núñez de Balboa explored and conquered the area near the Atrato River.[15]
 
 The conquest was of the Chibcha-speaking nations, mainly the Muisca and Tairona indigenous people that lived here. The Spanish founded San Sebastian de Uraba in 1509—abandoned within the year, and in 1510 the first permanent Spanish mainland settlement in America, Santa María la Antigua del Darién.[16]
 
-Cortes_y_moctezuma.jpg and Moctezuma meet.]]
+and Moctezuma meet.]]
 
 The first Europeans to arrive in what is modern day Mexico were the survivors of a Spanish shipwreck in 1511. Only two managed to survive Gerónimo de Aguilar and Gonzalo Guerrero until further contact was made with Spanish explorers years later. On 8 February 1517 an expedition led by Francisco Hernández de Córdoba left the harbor of Santiago de Cuba to explore the shores of southern Mexico.
 
 During the course of this expedition many of Hernández' men were killed, most during a battle near the town of Champotón against a Maya army. He himself was injured, and died a few days shortly after his return to Cuba. This was the Europeans' first encounter with a civilization in the Americas with buildings and complex social organizations which they recognized as being comparable to those of the Old World. Hernán Cortés led a new expedition to Mexico landing ashore at present day Veracruz on 22 April 1519, a date which marks the beginning of 300 years of Spanish hegemony over the region.
 
-Batalla_de_Centla.jpg was use in battle in a war in the Americas. Mural in the Palacio Municipal of Paraíso, Tabasco.]] In general the 'Spanish conquest of Mexico' denotes the conquest of the central region of Mesoamerica where the Aztec Empire was based. The fall of the Aztec capital of Tenochtitlan in 1521 was a decisive event, but Spaniards conquered other regions of Mexico, such as Yucatán, extended long after Spaniards consolidated control of central Mexico. The Spanish conquest of Yucatán is the much longer campaign, from 1551 to 1697, against the Maya peoples of the Maya civilization in the Yucatán Peninsula of present-day Mexico and northern Central America.
+was use in battle in a war in the Americas. Mural in the Palacio Municipal of Paraíso, Tabasco.]] In general the 'Spanish conquest of Mexico' denotes the conquest of the central region of Mesoamerica where the Aztec Empire was based. The fall of the Aztec capital of Tenochtitlan in 1521 was a decisive event, but Spaniards conquered other regions of Mexico, such as Yucatán, extended long after Spaniards consolidated control of central Mexico. The Spanish conquest of Yucatán is the much longer campaign, from 1551 to 1697, against the Maya peoples of the Maya civilization in the Yucatán Peninsula of present-day Mexico and northern Central America.
 
 Analysis of defeat
 
@@ -168,9 +166,7 @@ Aftermath of the conquest
 
 Tenochtitlan, the Aztecs, and the Tlaxcalteca
 
-El_suplicio_de_Cuauhtémoc.jpg", a 19th-century painting by Leandro Izaguirre.]]
-
-Leutze,_Emanuel_—_Storming_of_the_Teocalli_by_Cortez_and_His_Troops_—_1848.jpg
+", a 19th-century painting by Leandro Izaguirre.]]
 
 Tenochtitlan was almost completely destroyed by fire and cannon shots. Those Aztecs who survived were forbidden to live in the city and the surrounding isles, and they went to live in Tlatelolco.
 
@@ -185,7 +181,7 @@ The Spanish had no intention to turn over Tenochtitlan to the Tlaxcalteca. While
 
 Colonial period (1521–1810)
 
-Catedral_de_Chihuahua_-_07.JPG]]
+]]
 
 The capture of Tenochtitlan marked the beginning of a 300-year colonial period, during which Mexico was known as "New Spain" ruled by a viceroy in the name of the Spanish monarch. Colonial Mexico had key elements to attract Spanish immigrants: (1) dense and politically complex indigenous populations (especially in the central part) that could be compelled to work, and (2) huge mineral wealth, especially major silver deposits in the northern regions Zacatecas and Guanajuato. The Viceroyalty of Peru also had those two important elements, so that New Spain and Peru were the seats of Spanish power and the source of its wealth, until other viceroyalties were created in Spanish South America in the late 18th century.
 
@@ -193,13 +189,13 @@ This wealth made Spain the dominant power in Europe and the envy of England, Fra
 
 Continued conquest (1521–1550)
 
-Catedral_de_México.jpg]] Spanish conquerors did not bring all areas of Aztec Empire under its control. After the fall of Tenochtitlan in 1521, it took decades of sporadic warfare to subdue the rest of Mesoamerica, particularly the Maya regions of southern New Spain and into what is now Central America.
+]] Spanish conquerors did not bring all areas of Aztec Empire under its control. After the fall of Tenochtitlan in 1521, it took decades of sporadic warfare to subdue the rest of Mesoamerica, particularly the Maya regions of southern New Spain and into what is now Central America.
 
 Outside the zone of settled Mesoamerican civilizations were nomadic northern _indios bárbaros_ ("wild Indians") who fought fiercely against the Spaniards and their indigenous allies, such as the Tlaxcalans, in the Chichimeca War (1576–1606). The northern indigenous populations had gained mobility via the horses that Spaniards had imported to the New World. The desert in the north was only interesting to Spanish because of its rich silver deposits. The Spanish mining settlements and trunk lines to Mexico City needed to be made safe for supplies to move north and silver to move to south, to central Mexico.
 
 Economics of the early colonial period
 
-Murales_Rivera_-_Ausbeutung_durch_die_Spanier_1_perspective.jpg.]] ElDanzanteJuanVelascoPardomop1.jpg.]]
+.]] .]]
 
 The most important source of wealth in the first years after the conquest of central Mexico was the encomienda, a grant of the labor of a particular indigenous settlement to an individual Spanish and his heirs. Conquerors expected to receive these awards and conqueror Hernán Cortés in his letter to the Spanish king justified his own allocation of these grants. Spaniards were the recipients of traditional indigenous products that had been rendered in tribute to their local lords and to the Aztec empire. The first Spanish viceroy, Don Antonio de Mendoza has his name given to the title of an Aztec manuscript Codex Mendoza, that enumerates in glyphic form the types of tribute goods and amounts rendered from particular indigenous towns under Aztec rule. The earliest holders of encomiendas, the encomenderos were the conquerors involved in the campaign leading to the fall of Tenochtitlan, and later their heirs and people with influence but not conquerors. Forced labor could be directed toward developing land and industry in the area the Spanish encomenderos' Indians lived. Land was a secondary source of wealth during this immediate conquest period. Where indigenous labor was absent or needed supplementing, the Spanish brought African slaves, often as skilled laborers or artisans, or as labor bosses of encomienda Indians.
 
@@ -209,13 +205,11 @@ During the three centuries of colonial rule, fewer than 700,000 Spaniards, most 
 
 Colonial period (1521-1821)
 
-El_caballito_de_Tolsa_a.jpg in Mexico City, the king was the maximum authority of the Viceroyalty of New Spain]] Colonial Mexico was part of the Spanish Empire and administered by the Viceroyalty of New Spain. The Spanish crown claimed all of the Western Hemisphere west of the line established between Spain and Portugal by the Treaty of Tordesillas. This included all of North America and South America, except for Brazil. The viceroyalty of New Spain had jurisdiction over Spain's northern empire in the Americas. When Spain established a colony in the Philippines in the late sixteenth century, the Viceroyalty of New Spain had jurisdiction over it, since there was more direct contact between the two than the Philippines with Spain.
+in Mexico City, the king was the maximum authority of the Viceroyalty of New Spain]] Colonial Mexico was part of the Spanish Empire and administered by the Viceroyalty of New Spain. The Spanish crown claimed all of the Western Hemisphere west of the line established between Spain and Portugal by the Treaty of Tordesillas. This included all of North America and South America, except for Brazil. The viceroyalty of New Spain had jurisdiction over Spain's northern empire in the Americas. When Spain established a colony in the Philippines in the late sixteenth century, the Viceroyalty of New Spain had jurisdiction over it, since there was more direct contact between the two than the Philippines with Spain.
 
 Hernán Cortés had conquered the great empire of the Aztecs and established New Spain as the largest and most important Spanish colony. During the 16th century, Spain focused on conquering areas with dense populations that had produced Pre-Columbian civilizations. These populations were a disciplined labor force and a population to convert to Christianity.
 
-Monumento_al_Mestizaje.jpg]] Territories populated by nomadic peoples were harder to conquer, and although the Spanish explored much of North America, seeking the fabled "El Dorado", they made no concerted effort to settle the northern desert regions in what is now the United States until the end of the 16th century (Santa Fe, 1598).
-
-Imperios_Español_y_Portugués_1790.svg
+]] Territories populated by nomadic peoples were harder to conquer, and although the Spanish explored much of North America, seeking the fabled "El Dorado", they made no concerted effort to settle the northern desert regions in what is now the United States until the end of the 16th century (Santa Fe, 1598).
 
 Colonial law with native origins but with Spanish historical precedents was introduced, creating a balance between local jurisdiction (the Cabildos) and the Crown's, whereby upper administrative offices were closed to natives, even those of pure Spanish blood. Administration was based on a racial separation of the population among the Republics of Spaniards, Indians and Mestizos, autonomous and directly dependent on the king. The population of New Spain was divided into four main groups, or classes. The group a person belonged to was determined by racial background and birthplace. The most powerful group was the Spaniards, people born in Spain and sent across the Atlantic to rule the colony. Only Spaniards could hold high-level jobs in the colonial government.
 
@@ -223,15 +217,15 @@ The second group, called creoles, were people of Spanish background but born in 
 
 The third group, the mestizos, were people who had some Spanish ancestors and some Indian ancestors. The word _mestizo_ means "mixed". Mestizos had a much lower position and were looked down upon by both the Spaniards and the creoles, who held the belief that people of pure European background were superior to everyone else.
 
-Hacienda_San_Gabriel.jpg, Mexico.]] The poorest, most marginalised group in New Spain was the Indians, descendants of pre-Columbian peoples. They had less power and endured harsher conditions than other groups. Indians were forced to work as laborers on the ranches and farms (called haciendas) of the Spaniards and creoles.
+, Mexico.]] The poorest, most marginalised group in New Spain was the Indians, descendants of pre-Columbian peoples. They had less power and endured harsher conditions than other groups. Indians were forced to work as laborers on the ranches and farms (called haciendas) of the Spaniards and creoles.
 
 In addition to the four main groups, there were also some black Africans in colonial Mexico. These black African were imported as laborers and shared the low status of the Indians. They made up about 4% to 5% of the population, and their mixed-race descendants, called _mulattoes_, eventually grew to represent about 9%.
 
 From an economic point of view, New Spain was administered principally for the benefit of the Empire and its military and defensive efforts. Mexico provided more than half of the Empire taxes and supported the administration of all North and Central America. Competition with the metropolis was discouraged; for example cultivation of grapes and olives, introduced by Cortez himself, was banned out of fear that these crops would compete with Spain's.
 
-San_juan_ulua1.JPG in Veracruz.]] To protect the country from the attacks by English, French and Dutch pirates, as well as the Crown's revenue, only two ports were open to foreign trade—Veracruz on the Atlantic and Acapulco on the Pacific. Pirates attacked, plundered and ravaged several cities like Campeche (1557), Veracruz (1568) and Alvarado (1667).
+in Veracruz.]] To protect the country from the attacks by English, French and Dutch pirates, as well as the Crown's revenue, only two ports were open to foreign trade—Veracruz on the Atlantic and Acapulco on the Pacific. Pirates attacked, plundered and ravaged several cities like Campeche (1557), Veracruz (1568) and Alvarado (1667).
 
-Retrato_de_Sor_Juana_Inés_de_la_Cruz_(Fray_Miguel_Herrera).jpg Education was encouraged by the Crown from the very beginning, and Mexico boasts the first primary school (Texcoco, 1523), first university, the University of Mexico(1551) and the first printing press (1524) of the Americas. Indigenous languages were studied mainly by the religious orders during the first centuries, and became official languages in the so-called Republic of Indians, only to be outlawed and ignored after independence by the prevailing Spanish-speaking creoles.
+Education was encouraged by the Crown from the very beginning, and Mexico boasts the first primary school (Texcoco, 1523), first university, the University of Mexico(1551) and the first printing press (1524) of the Americas. Indigenous languages were studied mainly by the religious orders during the first centuries, and became official languages in the so-called Republic of Indians, only to be outlawed and ignored after independence by the prevailing Spanish-speaking creoles.
 
 Mexico produced important cultural achievements during the colonial period, like the literature of Sor Juana Inés de la Cruz and Ruiz de Alarcón, as well as cathedrals, civil monuments, forts and colonial cities such as Puebla, Mexico City, Querétaro, Zacatecas and others, today part of Unesco's World Heritage.
 
@@ -244,9 +238,9 @@ Independence (1807–1829)
 
 War of Independence
 
-Miguel_Hidalgo_y_Costilla1.jpeg]] Congreso_de_Chilpancingo.png, 1813.]] Political_divisions_of_Mexico_1821_(location_map_scheme).svg after its independence. ]] Inspired by the American and French Revolutions, Mexican insurgents saw an opportunity in 1808 as the king abdicated in Madrid and Spain was overwhelmed by war and occupation. The rebellion began as an idealistic peasants' and miners' movement led by a local priest Miguel Hidalgo y Costilla who issued "The Cry of Dolores" on 16 September 1810; the day is celebrated as Independence Day. Shouting "Independence and death to the Spaniards!" they marched on the capital with a very large, poorly organized army. It was routed by the Spanish and Hidalgo was executed.[21]
+]] , 1813.]] after its independence. ]] Inspired by the American and French Revolutions, Mexican insurgents saw an opportunity in 1808 as the king abdicated in Madrid and Spain was overwhelmed by war and occupation. The rebellion began as an idealistic peasants' and miners' movement led by a local priest Miguel Hidalgo y Costilla who issued "The Cry of Dolores" on 16 September 1810; the day is celebrated as Independence Day. Shouting "Independence and death to the Spaniards!" they marched on the capital with a very large, poorly organized army. It was routed by the Spanish and Hidalgo was executed.[21]
 
-thum Another priest, Jose Maria Morelos took over and was more successful in his quest for republicanism and independence. Spain's monarchy was restored in 1814 after Napoleon's defeat, and it fought back and executed Morelos in 1815. The scattered insurgents formed guerrilla bands. In 1820, creoles, led by Agustín de Iturbide, joined the rebellion. The rebels formulated the "Plan of Iguala", demanding an independent constitutional monarchy, a religious monopoly for the Catholic Church, and equality for Spaniards and creoles. On September 27, 1821, Iturbide and the viceroy signed the Treaty of Cordoba whereby Spain granted the demands and withdrew.
+Another priest, Jose Maria Morelos took over and was more successful in his quest for republicanism and independence. Spain's monarchy was restored in 1814 after Napoleon's defeat, and it fought back and executed Morelos in 1815. The scattered insurgents formed guerrilla bands. In 1820, creoles, led by Agustín de Iturbide, joined the rebellion. The rebels formulated the "Plan of Iguala", demanding an independent constitutional monarchy, a religious monopoly for the Catholic Church, and equality for Spaniards and creoles. On September 27, 1821, Iturbide and the viceroy signed the Treaty of Cordoba whereby Spain granted the demands and withdrew.
 
 After independence (1821–1829)
 
@@ -258,7 +252,7 @@ The newly independent nation was in dire straits after 11 years of war. No plans
 
 Mexican Empire
 
-Coronamiento_Iturbide.JPG of Iturbide in 1822.]] Mexico now had its own government, but Iturbide quickly became a dictator. He even had himself proclaimed emperor of Mexico, copying the ceremony used by Napoleon when he proclaimed himself emperor of France. No one was allowed to speak against Iturbide. He filled his government with corrupt officials, who became rich by taking bribes and making dishonest business deals.
+of Iturbide in 1822.]] Mexico now had its own government, but Iturbide quickly became a dictator. He even had himself proclaimed emperor of Mexico, copying the ceremony used by Napoleon when he proclaimed himself emperor of France. No one was allowed to speak against Iturbide. He filled his government with corrupt officials, who became rich by taking bribes and making dishonest business deals.
 
 In 1822, Mexico annexed the Federal Republic of Central America, which includes present-day Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and part of Chiapas.
 
@@ -279,7 +273,7 @@ Political developments (1830-1854)
 
 Political Instability in the early Republic
 
-Antonio_Lopez_de_Santa_Anna_1852.jpg depicting head and shoulders of General Santa Anna.]]
+depicting head and shoulders of General Santa Anna.]]
 
 In much of Spanish America soon after its independence, military strongmen or caudillos dominated politics, and this period is often called "The Age of Caudillismo". In Mexico, from the late 1820s to the mid-1850s the period is often called the "Age of Santa Anna", named for the general turned politician, Antonio López de Santa Anna. The federalists asked Santa Anna to overthrow conservative President Anastasio Bustamante. After he did, he declared General Manuel Gómez Pedraza (who won the election of 1828) president. Elections were held thereafter, and Santa Anna took office in 1832. He served as president 11 times.[26] Constantly changing his political beliefs, in 1834 Santa Anna abrogated the federal constitution, causing insurgencies in the southeastern state of Yucatán and the northernmost portion of the northern state of Coahuila y Tejas. Both areas sought independence from the central government. Negotiations and the presence of Santa Anna's army caused Yucatán to recognize Mexican sovereignty. Then Santa Anna's army turned to the northern rebellion.
 
@@ -293,13 +287,13 @@ In addition to Comanche raids, the First Republic's northern border was plagued 
 
 Texas
 
-FalloftheAlamo.jpg" by Robert Jenkins Onderdonk. Following a 13-day siege, Mexican troops under Santa Anna launched an assault on the Alamo Mission near San Antonio de Béxar (modern-day San Antonio, Texas, USA). All of the Texian defenders were killed.]]
+" by Robert Jenkins Onderdonk. Following a 13-day siege, Mexican troops under Santa Anna launched an assault on the Alamo Mission near San Antonio de Béxar (modern-day San Antonio, Texas, USA). All of the Texian defenders were killed.]]
 
 Soon after achieving independence from Spain, the Mexican government, in an effort to populate its northern territories, awarded extensive land grants in Coahuila y Tejas to thousands of families from the United States, on condition that the settlers convert to Catholicism and become Mexican citizens. The Mexican government also forbade the importation of slaves. These conditions were largely ignored.[30]
 
 A key factor in the government decision to allow those settlers was the belief that they would (a) protect northern Mexico from Comanche attacks and (b) buffer the northern states against US westward expansion. The policy failed on both counts: the Americans tended to settle far from the Comanche raiding zones and used the Mexican government's failure to suppress the raids as a pretext for declaring independence.[31]
 
-SantaAnnaSurrender.jpg" by William Henry Huddle shows the Mexican president and general surrendering to a wounded Sam Houston in 1836.]]
+" by William Henry Huddle shows the Mexican president and general surrendering to a wounded Sam Houston in 1836.]]
 
 The TEXAS REVOLUTION or TEXAS WAR OF INDEPENDENCE was a military conflict between Mexico and settlers in the Texas portion of the Mexican state Coahuila y Tejas.
 
@@ -311,13 +305,11 @@ Mexican-American War (1846–1848)
 
 In response to a Mexican massacre of a U.S. army detachment in disputed territory, the U.S. Congress declared war on May 13, 1846; Mexico followed suit on 23 May. The Mexican–American War took place in two theaters: the western (aimed at California) and Central Mexico (aimed at capturing Mexico City) campaigns.
 
-Mapa_Mexico_1845.PNG
-
 In March 1847, U.S. President James K. Polk sent an army of 12,000 volunteer and regular U.S. Army soldiers under General Winfield Scott to the port of Veracruz. The 70 ships of the invading forces arrived at the city on 7 March and began a naval bombardment. After landing his men, horses, and supplies, Scott began the Siege of Veracruz.[32]
 
 The city (at that time still walled) was defended by Mexican General Juan Morales with 3,400 men. Veracruz replied as best it could with artillery to the bombardment from land and sea, but the city walls were reduced. After 12 days, the Mexicans surrendered. Scott marched west with 8,500 men, while Santa Anna entrenched with artillery and 12,000 troops on the main road halfway to Mexico City. At the Battle of Cerro Gordo, Santa Anna was outflanked and routed.
 
-Battle_of_Chapultepec.jpg.'']] Mexico_nebel.jpg.]]
+.'']] .]]
 
 Scott pushed on to Puebla, Mexico's second largest city, which capitulated without resistance on 1 May—the citizens were hostile to Santa Anna. After the Battle of Chapultepec (13 September 1847), Mexico City was occupied; Scott became its military governor. Many other parts of Mexico were also occupied. Some Mexican units fought with distinction. One of the justly commemorated units was a group of six young Military College cadets (now considered Mexican national heroes), who fought to the death defending their college during the Battle of Chapultepec.
 
@@ -328,11 +320,11 @@ After the war, Washington discovered that a much easier railroad route to Califo
 
 Struggle for liberal reform (1855–1872)
 
-José_Ignacio_Gregorio_Comonfort.jpg]]
+]]
 
 La Reforma was a period during the mid-19th century characterized by liberal reforms and the transformation of Mexico into a nation-state.[35] The reformers, based in the cities, reached out to educate the largely rural population of eight million, half of them poorly educated Indians. The younger generation of political leaders were shocked at Mexico's poor fight against the United States in 1848, and saw modernization as a way to strengthen the nation.[36]
 
-Benito_Juárez.jpg President of Mexico (1861–1863 and 1867–1872).]]
+President of Mexico (1861–1863 and 1867–1872).]]
 
 Notable liberal politicians in the reform period include Benito Juárez, Juan Álvarez, Ignacio Comonfort, Miguel Lerdo de Tejada, Sebastián Lerdo de Tejada, Melchor Ocampo, José María Iglesias and Santos Degollado. Their strategy was to sharply limit the traditional privileges and land holdings of the Catholic Church and thereby revitalize the market in land. However, no class of small peasants who identified with the Liberal program emerged. Many merchants acquired land (and control over the associated tenant farmers). Many existing landowners expanded their holdings at peasant expense, and some upwardly mobile ranch owners, often mestizos, acquired land.[37]
 
@@ -342,7 +334,7 @@ Common dates are 1861, after the liberal victory in the Reform War; 1867, after 
 
 Constitution of 1857
 
-Alegoría_de_la_Constitución_de_1857.jpg, 1869.]] José_Mariano_Salas.png Mexican general and politician who served twice as interim president of Mexico (1846 and 1859). He was also a member of the executive triumvirate of the Second Mexican Empire that invited Maximilian of Habsburg to take the throne.]]
+, 1869.]] Mexican general and politician who served twice as interim president of Mexico (1846 and 1859). He was also a member of the executive triumvirate of the Second Mexican Empire that invited Maximilian of Habsburg to take the throne.]]
 
 Colonel Ignacio Comonfort became president in 1855 after a revolt based in Ayutla overthrew Santa Anna. Comonfort was a moderate liberal who tried to maintain an uncertain coalition, but the moderate liberals and the radical liberals were unable to resolve their sharp differences. During his presidency, the Constitution of 1857 was drafted creating the Second Federal Republic of Mexico. The new constitution restricted some of the Catholic Church's traditional privileges, land holdings, revenues and control over education.[40]
 
@@ -356,11 +348,11 @@ For some time, the Liberals and Conservatives simultaneously administered separa
 
 French intervention and Second Mexican Empire (1861–1867)
 
-BattleofPuebla2.jpg, 1862.]] Siège_de_Puebla_-_29_mars_1863.PNG attacks the fort of San Xavier during the siege of Puebla, 29 March 1863.]]
+, 1862.]] attacks the fort of San Xavier during the siege of Puebla, 29 March 1863.]]
 
 In 1862, the country was invaded by France which sought to collect debts that the Juárez government had defaulted on, but the larger purpose was to install a ruler under French control. They chose a member of the Habsburg dynasty, which had ruled Spain and its overseas possessions until 1700. Archduke Ferdinand Maximilian of Austria was installed as Emperor Maximilian I of Mexico, with support from the Catholic Church, conservative elements of the upper class, and some indigenous communities. Although the French suffered an initial defeat (the Battle of Puebla on May 5, 1862, now commemorated as the Cinco de Mayo holiday), the French eventually defeated the Mexican army and set Maximilian on the throne. The Mexican-French monarchy set up administration in Mexico City, governing from the National Palace.[42]
 
-Dell'Acqua_Arrival_of_Empress_Elisabeth_in_Miramare.jpg at the Castello di Miramare 1861; Carlota of Mexico (in white dress) welcomes Elisabeth while her husband Ferdinand Maximilian and his brother Emperor Franz Joseph I. wait on the boat. Source Historical Museum of Castello di Miramare.]]
+at the Castello di Miramare 1861; Carlota of Mexico (in white dress) welcomes Elisabeth while her husband Ferdinand Maximilian and his brother Emperor Franz Joseph I. wait on the boat. Source Historical Museum of Castello di Miramare.]]
 
 Maximilian's consort was Empress Carlota of Mexico and they chose Chapultepec Castle as their home. The Imperial couple noticed the inequality in Mexican society and pursued policies that favored the Upper Class white Mexicans over the Majority Mestizo and Indigenous peasants. They were also in favor of exploiting the nation's resources for themselves and their allies. This included favoring the plans of Napoleon III to exploit the mines in the northwest of the country and to grow cotton.[43]
 
@@ -377,7 +369,7 @@ Part of Juarez's reforms included fully secularizing the country. The Catholic C
 
 Porfiriato (1876–1910)
 
-Porfirio_Diaz.jpg The rule of Porfirio Díaz (1876–1911) was dedicated to the rule by law, suppression of violence, and modernization of all aspects of the society and economy.[44] Diaz was an astute military leader and liberal politician who built a national base of supporters. To avoid antagonizing Catholics, he avoided enforcement of anticlerical laws. The country's infrastructure was greatly improved, thanks to increased foreign investment from Britain and the US, and a strong, stable central government.[45]
+The rule of Porfirio Díaz (1876–1911) was dedicated to the rule by law, suppression of violence, and modernization of all aspects of the society and economy.[44] Diaz was an astute military leader and liberal politician who built a national base of supporters. To avoid antagonizing Catholics, he avoided enforcement of anticlerical laws. The country's infrastructure was greatly improved, thanks to increased foreign investment from Britain and the US, and a strong, stable central government.[45]
 
 Increased tax revenue and better administration dramatically improved public safety, public health, railways, mining, industry, foreign trade, and national finances. Díaz modernized the army and suppressed some banditry. After a half-century of stagnation, where per capita income was merely a tenth of the developed nations such as Britain and the US, the Mexican economy took off and grew at an annual rate of 2.3% (1877 to 1910), which was high by world standards.[46]
 
@@ -389,11 +381,7 @@ Mexico City was poorer per capita in 1876 than in 1821. Some commentators attrib
 
 Order, progress, and dictatorship
 
-Rurales.jpg
-
 In 1876, Lerdo was reelected, defeating Porfirio Díaz. Díaz rebelled against the government with the proclamation of the Plan de Tuxtepec, in which he opposed reelection, in 1876. Díaz overthrew Lerdo, who fled the country, and Díaz was named president. Thus began a period of more than 30 years (1876–1911) during which Díaz was Mexico's strong man. He was elected president eight times, turning over power once, from 1880 to 1884, to a trusted ally, General Manuel Gonzailez.[49]
-
-Mexico_City_street_market_1885.jpg
 
 This period of relative prosperity is known as the _Porfiriate_. Diaz remained in power by rigging elections and censoring the press. Possible rivals were destroyed, and popular generals were moved to new areas so they could not build a permanent base of support. Banditry on roads leading to major cities was largely suppressed by the "Rurales", a new police force controlled by Diaz. Banditry remained a major threat in more remote areas, because the Rurales comprised fewer than 1000 men.[50]
 
@@ -403,17 +391,13 @@ The political skills that Díaz used so effectively before 1900 faded, as he and
 
 Population and public health
 
-MexicoCityc1890.jpg
-
 Under Díaz, the population grew steadily from 11 million in 1877 to 23 million in 1910. Because of very high infant mortality (22% of new babies died) the life expectancy at birth was only 25.0 years in 1900.[58] Few immigrants arrived. Diaz gave enormous power and prestige to the Superior Health Council, which developed a consistent and assertive strategy using up-to-date international scientific standards. It took control of disease certification; required prompt reporting of disease; and launched campaigns against tropical disease such as yellow fever.[59]
 
 Economy
 
-La_Constitucion_ha_muerto_1903.jpg
-
 Fiscal stability was achieved by José Yves Limantour (1854–1935), Secretary of Finance of Mexico from 1893 until 1910. He was the leader of the well-educated technocrats known as Científicos, who were committed to modernity and sound finance. Limantour expanded foreign investment, supported free trade, and balanced the budget for the first time and generated a budget surplus by 1894. However, he was unable to halt the rising cost of food, which alienated the poor.[60]
 
-Archivo34.jpg, 1909.]]
+, 1909.]]
 
 The American Panic of 1907 was an economic downturn that caused a sudden drop in demand for Mexican copper, silver, gold, zinc, and other metals. Mexico in turn cut its imports of horses and mules, mining machinery, and railroad supplies. The result was an economic depression in Mexico in 1908–1909 that soured optimism and raised discontent with the Díaz regime, thus helping to set the stage for revolution in 1910.[61]
 
@@ -423,7 +407,7 @@ Mexico had few factories by 1880, but then industrialization took hold in the No
 
 Modernity
 
-2686_women_working_in_cigarette_factory.jpg factory, Mexico City]]
+factory, Mexico City]]
 
 The modernizers insisted that schools lead the way, and that science replace superstition.[63] They reformed elementary schools by mandating uniformity, secularization, and rationality. These reforms were consistent with international trends in teaching methods. In order to break the traditional peasant habits that hindered industrialization and rationalization, reforms emphasized the children's punctuality, assiduity, and health.[64] In 1910, the National University was opened as an elite school for the next generation of leaders.
 
@@ -436,7 +420,7 @@ Tutino examines the impact of the Porfiriato in the highland basins south of Mex
 
 Revolution of 1910–1920
 
-Madero_en_Cuernavaca.jpg, Emiliano Zapata, June 12, 1911, in Cuernavaca]] The Mexican Revolution is a broad term to describe political and social changes in the early 20th century. Most scholars consider it to span the years 1910–1920, from the fraudulent election of Porfirio Díaz in 1910 until the December 1920 election of northern general Alvaro Obregón. Foreign powers had important economic and strategic interests in the outcome of power struggles in Mexico, with United States involvement in the Mexican Revolution playing an especially significant role.[67]
+, Emiliano Zapata, June 12, 1911, in Cuernavaca]] The Mexican Revolution is a broad term to describe political and social changes in the early 20th century. Most scholars consider it to span the years 1910–1920, from the fraudulent election of Porfirio Díaz in 1910 until the December 1920 election of northern general Alvaro Obregón. Foreign powers had important economic and strategic interests in the outcome of power struggles in Mexico, with United States involvement in the Mexican Revolution playing an especially significant role.[67]
 
 The Revolution grew increasingly broad-based, radical and violent. Revolutionaries sought far-reaching social and economic reforms by strengthening the state and weakening the conservative forces represented by the Church, the rich landowners, and foreign capitalists.
 
@@ -450,11 +434,9 @@ The Mexican Revolution was based on popular participation. At first, it was base
 
 Election of 1910 and popular rebellion
 
-Mexican_rebel_camp.jpg
-
 Porfirio Díaz announced in an interview to a US journalist James Creelman that he would not run for president in 1910, at which point he would be 80 years old. This set off a spate of political activity by potential candidates, including Francisco I. Madero, a member of one of Mexico's richest families. Madero was part of the Anti-Re-electionist Party, whose main platform was the end of the Díaz regime. But Díaz reversed his decision to retire and ran again. He created the office of vice president, which could have been a mechanism to ease transition in the presidency. But Díaz chose a politically unpalatable running mate, Ramón Corral, over a popular military man, Bernardo Reyes and popular civilian Francisco I. Madero. He sent Reyes on a "study mission" to Europe and jailed Madero. Official election results declared that Díaz had won almost unanimously and Madero received only a few hundred votes. This fraud was too blatant, and riots broke out. Uprisings against Díaz occurred in the fall of 1910, particularly in Mexico's north and the southern state of Morelos. Helping unite opposition forces was a political plan drafted by Madero, the Plan of San Luis Potosí, in which he called on the Mexican people to take up arms and fight against the Díaz government. The rising was set for November 20, 1910. Madero escaped from prison to San Antonio, Texas, where he began preparing to overthrow Díaz—an action today considered the start of the Mexican Revolution. Diaz tried to use the army to suppress the revolts, but most of the ranking generals were old men close to his own age and they did not act swiftly or with sufficient energy to stem the violence. Revolutionary force—led by, among others, Emiliano Zapata in the South, Pancho Villa and Pascual Orozco in the North, and Venustiano Carranza—defeated the Federal Army.
 
-Toma_de_Juarez.jpg. Present are José María Pino Suárez, Venustiano Carranza, Francisco I. Madero (and his father), Pascual Orozco, Pancho Villa, Gustavo Madero, Raul Madero, Abraham González, and Giuseppe Garibaldi Jr.]]
+. Present are José María Pino Suárez, Venustiano Carranza, Francisco I. Madero (and his father), Pascual Orozco, Pancho Villa, Gustavo Madero, Raul Madero, Abraham González, and Giuseppe Garibaldi Jr.]]
 
 Díaz resigned in May 1911 for the "sake of the peace of the nation". The terms of his resignation were spelled out in the Treaty of Ciudad Juárez, but it also called for an interim presidency and new elections were to be held. Francisco León de la Barra served as interim president. The Federal Army, although defeated by the northern revolutionaries, was kept intact. Francisco I. Madero, whose 1910 Plan of San Luis Potosí had helped mobilize forces opposed to Díaz, accepted the political settlement. He campaigned in the presidential elections of October 1911, won decisively, and was inaugurated in November 1911.
 
@@ -464,7 +446,7 @@ Following the resignation of Díaz and a brief interim presidency of a high-leve
 
 The revolutionary leaders had many different objectives; revolutionary figures varied from liberals such as Madero to radicals such as Emiliano Zapata and Pancho Villa. As a consequence, it proved impossible to agree about how to organize the government that emerged from the triumphant first phase of the revolution. This standoff over political principles led quickly to a struggle for control of the government, a violent conflict that lasted more than 20 years.
 
-V_Huerta.jpg, ruler of Mexico from 1913 to 1914.]]
+, ruler of Mexico from 1913 to 1914.]]
 
 Counter-revolution and civil war, 1913–1915
 
@@ -482,9 +464,9 @@ The US Navy made an incursion on the Gulf Coast, occupying Veracruz in April 191
 
 Initially, the forces in northern Mexico were united under the Constitutionalist banner, with able revolutionary generals serving the civilian First Chief Carranza. Pancho Villa began to split from supporting Carranza as Huerta was on his way out. The break was not simply on personalist grounds, but primarily because Carranza was politically too conservative for Villa. Carranza was not only a political holdover from the Díaz era, but was also a rich hacienda owner whose interests were threatened by the more radical ideas of Villa, especially on land reform.[76] Zapata in the south was also hostile to Carranza due to his stance on land reform.
 
-In July 1914, Huerta resigned under pressure and went into exile. His resignation marked the end of an era since the Federal Army, a spectacularly ineffective fighting force against the revolutionaries, ceased to exist.[77] Francisco_Villa.gif in the entrance of Ojinaga]]
+In July 1914, Huerta resigned under pressure and went into exile. His resignation marked the end of an era since the Federal Army, a spectacularly ineffective fighting force against the revolutionaries, ceased to exist.[77] in the entrance of Ojinaga]]
 
-With the exit of Huerta, the revolutionary factions decided to meet and make "a last ditch effort to avert more intense warfare than that which unseated Huerta."[78] Called to meet in Mexico City in October 1914, revolutionaries opposed to Carranza's influence successfully moved the venue to Aguascalientes. The Convention of Aguascalientes did not reconcile the various victorious factions in the Mexican Revolution, but was a brief pause in revolutionary violence. The break between Carranza and Villa became definitive during the Convention. Rather than First Chief Carranza being named president of Mexico, General Eulalio Gutiérrez was chosen. Carranza and Obregón left Aguascalientes, with far smaller forces than Villa's. The convention declared Carranza in rebellion against it and civil war resumed, this time between revolutionary armies that had fought in a united cause to oust Huerta. Zapataandvilla.png and Emiliano Zapata, December 6, 1914. Villa is sitting in the presidential throne in the Palacio Nacional at the left.]]
+With the exit of Huerta, the revolutionary factions decided to meet and make "a last ditch effort to avert more intense warfare than that which unseated Huerta."[78] Called to meet in Mexico City in October 1914, revolutionaries opposed to Carranza's influence successfully moved the venue to Aguascalientes. The Convention of Aguascalientes did not reconcile the various victorious factions in the Mexican Revolution, but was a brief pause in revolutionary violence. The break between Carranza and Villa became definitive during the Convention. Rather than First Chief Carranza being named president of Mexico, General Eulalio Gutiérrez was chosen. Carranza and Obregón left Aguascalientes, with far smaller forces than Villa's. The convention declared Carranza in rebellion against it and civil war resumed, this time between revolutionary armies that had fought in a united cause to oust Huerta. and Emiliano Zapata, December 6, 1914. Villa is sitting in the presidential throne in the Palacio Nacional at the left.]]
 
 Villa went into alliance with Zapata to form the Army of the Convention. Their forces separately moved on the capital and captured Mexico City in 1914, which Carranza's forces had abandoned. The famous picture of Villa, sitting in the presidential chair in the National Palace, and Zapata is a classic image of the Revolution. Villa is reported to have said to Zapata that the presidential "chair is too big for us."[79] The alliance between Villa and Zapata did not function in practice beyond this initial victory against the Constitutionalists. Zapata returned to his southern stronghold in Morelos, where he continued to engage in guerrilla warfare under the Plan of Ayala.[80] Villa prepared to win a decisive victory against the Constitutionalist Army under Obregón.
 
@@ -494,7 +476,7 @@ Constitutionalists in power, 1915–1920
 
 Venustiano Carranza promulgated a new constitution on February 5, 1917. The Mexican Constitution of 1917, with significant amendments in the 1990s, still governs Mexico.
 
-Venustiano_Carranza_en_La_Cañada,_Queretaro.JPG in La Cañada, Querétaro, January 22, 1916.]]
+in La Cañada, Querétaro, January 22, 1916.]]
 
 On 19 January 1917, a secret message (the Zimmermann Telegram) was sent from the German foreign minister to Mexico proposing joint military action against the United States if war broke out. The offer included material aid to Mexico to reclaim the territory lost during the Mexican–American War, specifically the American states of Texas, New Mexico and Arizona. Carranza's generals told him that Mexico would lose to its much more powerful neighbor. However, Zimmermann's message was intercepted and published, and outraged American opinion, leading to a declaration of war in early April. Carranza then formally rejected the offer, and the threat of war with the US eased.[81]
 
@@ -505,7 +487,7 @@ Consolidation of revolution, 1920-1940
 
 Northern revolutionary generals as presidents
 
-Alvaro_Obregón.jpg (1915), earning him the nickname of _Manco de Celaya_ ("the one-armed man of Celaya").]] Three Sonoran generals of the Constitutionalist Army, Álvaro Obregón, Plutarco Elías Calles, and Adolfo de la Huerta dominated Mexico in the 1920s. Their life experience in Mexico's northwest, described as a "savage pragmatism"[82] was in a sparsely settled region, conflict with Indians, secular rather than religious culture, and independent, commercially oriented ranchers and farmers. This was different from subsistence agriculture of the dense population of the strongly Catholic indigenous and mestizo peasantry of central Mexico. Obregón was the dominant member of the triumvirate, as the best general in the Constitutionalist Army, who had defeated Pancho Villa in battle. However, all three men were skilled politicians and administrators, who had honed their skills in Sonora. There they had "formed their own professional army, patronized and allied themselves with labor unions, and expanded the government authority to promote economic development." Once in power, they scaled this up to the national level.[83]
+(1915), earning him the nickname of _Manco de Celaya_ ("the one-armed man of Celaya").]] Three Sonoran generals of the Constitutionalist Army, Álvaro Obregón, Plutarco Elías Calles, and Adolfo de la Huerta dominated Mexico in the 1920s. Their life experience in Mexico's northwest, described as a "savage pragmatism"[82] was in a sparsely settled region, conflict with Indians, secular rather than religious culture, and independent, commercially oriented ranchers and farmers. This was different from subsistence agriculture of the dense population of the strongly Catholic indigenous and mestizo peasantry of central Mexico. Obregón was the dominant member of the triumvirate, as the best general in the Constitutionalist Army, who had defeated Pancho Villa in battle. However, all three men were skilled politicians and administrators, who had honed their skills in Sonora. There they had "formed their own professional army, patronized and allied themselves with labor unions, and expanded the government authority to promote economic development." Once in power, they scaled this up to the national level.[83]
 
 Obregón presidency, 1920–1924
 
@@ -513,7 +495,7 @@ Obregón, Calles, and de la Huerta revolted against Carranza in the Plan of Agua
 
 Obregón knew it was necessary for his regime to secure the recognition of the United States. With the promulgation of the Mexican Constitution of 1917, the Mexican government was empowered to expropriate natural resources. The U.S. had considerable business interests in Mexico, especially oil, and the threat of Mexican economic nationalism to big oil companies meant that diplomatic recognition could hinge on Mexican compromise in implementing the constitution. In 1923 when the Mexican presidential elections were on the horizon, Obregón began negotiating with the U.S. government in earnest, with the two governments signing the Bucareli Treaty. The treaty resolved questions about foreign oil interests in Mexico, largely in favor of U.S. interests, but Obregón's government gained U.S. diplomatic recognition. With that arms and ammunition began flowing to revolutionary armies loyal to Obregón.[87]
 
-Since Obregón had named his fellow Sonoran general, Plutarco Elías Calles, as his successor, Obregón was imposing a "little known nationally and unpopular with many generals,"[88] thereby foreclosing the ambitions of fellow revolutionaries, particularly his old comrade Adolfo de la Huerta. De la Huerta staged a serious rebellion against Obregón. But Obregón once again demonstrated his brilliance as a military tactician who now had arms and even air support from the United States to suppress it brutally. Fifty-four former Obregonistas were shot in the event.[89] Vasconcelos resigned from Obregón's cabinet as minister of education. Plutarco_Elias_Calles.jpg, president of Mexico 1924–28, and power behind the presidency during the Maximato when he did not hold formal power]] Although the Constitution of 1917 had even stronger anticlerical articles than the liberal constitution of 1857, Obregón largely sidestepped confrontation with the Roman Catholic Church in Mexico. Since political opposition parties were essentially banned, the Catholic Church "filled the political void and play the part of a substitute opposition."[90]
+Since Obregón had named his fellow Sonoran general, Plutarco Elías Calles, as his successor, Obregón was imposing a "little known nationally and unpopular with many generals,"[88] thereby foreclosing the ambitions of fellow revolutionaries, particularly his old comrade Adolfo de la Huerta. De la Huerta staged a serious rebellion against Obregón. But Obregón once again demonstrated his brilliance as a military tactician who now had arms and even air support from the United States to suppress it brutally. Fifty-four former Obregonistas were shot in the event.[89] Vasconcelos resigned from Obregón's cabinet as minister of education. , president of Mexico 1924–28, and power behind the presidency during the Maximato when he did not hold formal power]] Although the Constitution of 1917 had even stronger anticlerical articles than the liberal constitution of 1857, Obregón largely sidestepped confrontation with the Roman Catholic Church in Mexico. Since political opposition parties were essentially banned, the Catholic Church "filled the political void and play the part of a substitute opposition."[90]
 
 Calles presidency, 1924–1928
 
@@ -521,27 +503,25 @@ The 1924 presidential election was not a demonstration of free and fair election
 
 Cristero War (1926–1929)
 
-Ejército_Unión_Popular_Cristera.jpg The Cristero War of 1926 to 1929 was a counter-revolution against the Calles regime set off by his persecution of the Catholic Church in Mexico[92] and specifically the strict enforcement of the anti-clerical provisions of the Mexican Constitution of 1917 and the expansion of further anti-clerical laws.
+The Cristero War of 1926 to 1929 was a counter-revolution against the Calles regime set off by his persecution of the Catholic Church in Mexico[92] and specifically the strict enforcement of the anti-clerical provisions of the Mexican Constitution of 1917 and the expansion of further anti-clerical laws.
 
 A number of articles of the 1917 Constitution were at issue: a) Article 5 (outlawing monastic religious orders); b) Article 24 (forbidding public worship outside of church buildings); and c) Article 27 (restricting religious organizations' rights to own property). Finally, Article 130 took away basic civil rights of the clergy: priests and religious leaders were prevented from wearing their habits, were denied the right to vote, and were not permitted to comment on public affairs in the press.
 
-Cristeroscolgados.jpg.]] The formal rebellions began early in 1927,[93] with the rebels calling themselves _Cristeros_ because they felt they were fighting for Jesus Christ himself. The laity stepped into the vacuum created by the removal of priests, and in the long run the Church was strengthened.[94] The Cristero War was resolved diplomatically, largely with the help of the U.S. Ambassador, Dwight Whitney Morrow.[95]
+.]] The formal rebellions began early in 1927,[93] with the rebels calling themselves _Cristeros_ because they felt they were fighting for Jesus Christ himself. The laity stepped into the vacuum created by the removal of priests, and in the long run the Church was strengthened.[94] The Cristero War was resolved diplomatically, largely with the help of the U.S. Ambassador, Dwight Whitney Morrow.[95]
 
 The conflict claimed about 90,000 lives: 57,000 on the federal side, 30,000 Cristeros, and civilians and Cristeros killed in anticlerical raids after the war's end. As promised in the diplomatic resolution, the laws considered offensive by the Cristeros remained on the books, but the federal government made no organized attempt to enforce them. Nonetheless, persecution of Catholic priests continued in several localities, fueled by local officials' interpretation of the law.
 
 Maximato and the Formation of the ruling party
 
-Logo_Partido_Nacional_Revolucionario.svg After the presidential term of Calles, which ended in 1928, former president Alvaro Obregón won the presidency. However, he was assassinated immediately after the July election and there was a power vacuum. Calles could not immediately stand for election, so there needed to be a solution to the crisis. Revolutionary generals and others in the power elite agreed that congress should appoint an interim president and new elections held in 1928. In his final address to congress on 1 September 1928, President Calles declared the end of strong man rule, a ban on Mexican presidents serving again in that office, and that Mexico was now entering an age of rule by institutions and laws.[96] Congress chose Emilio Portes Gil to serve as interim president.
+After the presidential term of Calles, which ended in 1928, former president Alvaro Obregón won the presidency. However, he was assassinated immediately after the July election and there was a power vacuum. Calles could not immediately stand for election, so there needed to be a solution to the crisis. Revolutionary generals and others in the power elite agreed that congress should appoint an interim president and new elections held in 1928. In his final address to congress on 1 September 1928, President Calles declared the end of strong man rule, a ban on Mexican presidents serving again in that office, and that Mexico was now entering an age of rule by institutions and laws.[96] Congress chose Emilio Portes Gil to serve as interim president.
 
 Calles created a more permanent solution to presidential succession with the founding of the National Revolutionary Party (PNR) in 1929. It was a national party that was a permanent rather than a local and ephemeral institution. Calles became the power behind the presidency in this period, known as the _Maximato_, named after his title of _jefe máximo_ (maximum leader). The party brought together regional caudillos and integrated labor organizations and peasant leagues in a party that was better able to manage the political process. For the six-year term that Obregón was to serve, three presidents held office, Emilio Portes Gil, Pascual Ortiz Rubio, and Abelardo L. Rodríguez, with Calles the power behind the presidency. In 1934, the PNR chose Calles-supporter Lázaro Cárdenas, a revolutionary general, who had a political power base in Michoacan, as the candidate of the PNR for the Mexican presidency. After an initial period of acquiescence to Calles's role intervening in the presidency, Cárdenas out-maneuvered his former patron and eventually sent him into exile. Cárdenas reformed the PNR structure, resulting in the creation of the PRM (_Partido Revolucionario Mexicano_), the Mexican Revolutionary Party, which included the army as a party sector. He had convinced most of the remaining revolutionary generals to hand over their personal armies to the Mexican Army; the date of the PRM party's foundation is thus considered by some to be the end of the Revolution. The party was re-structured again in 1946 and renamed the Institutional Revolutionary Party (PRI) and held power continuously until 2000. After its establishment as the ruling party, the PRI monopolized all the political branches: it did not lose a senate seat until 1988 or a gubernatorial race until 1989.[97] It was not until July 2, 2000, that Vicente Fox of the opposition "Alliance for Change" coalition, headed by the National Action Party (PAN), was elected president. His victory ended the PRI's 71-year hold on the presidency. Fox was succeeded by the PAN candidate, Felipe Calderón. In the 2012 elections, the PRI regained the presidency with its candidate Enrique Peña Nieto.
 
 Revitalization of the revolution under Cárdenas
 
-Lazaro_Cardenas_Jijilpan.JPG
-
 Lázaro Cárdenas was hand-picked by Calles as the successor to the presidency in 1934. Cárdenas managed to unite the different forces in the PRI and set the rules that allowed his party to rule unchallenged for decades to come without internal fights. He nationalized the oil industry (on 18 March 1938), the electricity industry, created the National Polytechnic Institute, and started land reform and the distribution of free textbooks to children.[98] In 1936 he exiled Calles, the last general with dictatorial ambitions, thereby removing the army from power.
 
-Leo_Trotzki_1938.jpg in Mexico, 1938]] On the eve of World War II, the Cárdenas administration (1934–1940) was just stabilizing, and consolidating control over, a Mexican nation that, for decades, had been in revolutionary flux,[99] and Mexicans were beginning to interpret the European battle between the communists and fascists, especially the Spanish Civil War, through their unique revolutionary lens. Whether Mexico would side with the United States was unclear during Lázaro Cárdenas' rule, as he remained neutral. "Capitalists, businessmen, Catholics, and middle-class Mexicans who opposed many of the reforms implemented by the revolutionary government sided with the Spanish Falange"[100] i.e., the fascist movement.[101]
+in Mexico, 1938]] On the eve of World War II, the Cárdenas administration (1934–1940) was just stabilizing, and consolidating control over, a Mexican nation that, for decades, had been in revolutionary flux,[99] and Mexicans were beginning to interpret the European battle between the communists and fascists, especially the Spanish Civil War, through their unique revolutionary lens. Whether Mexico would side with the United States was unclear during Lázaro Cárdenas' rule, as he remained neutral. "Capitalists, businessmen, Catholics, and middle-class Mexicans who opposed many of the reforms implemented by the revolutionary government sided with the Spanish Falange"[100] i.e., the fascist movement.[101]
 
 Nazi propagandist Arthur Dietrich and his team of agents in Mexico successfully manipulated editorials and coverage of Europe by paying hefty subsidies to Mexican newspapers, including the widely read dailies Excélsior and El Universal.[102] The situation became even more worrisome for the Allies when major oil companies boycotted Mexican oil following Lázaro Cárdenas' nationalization of the oil industry and expropriation of all corporate oil properties in 1938,[103] which severed Mexico's access to its traditional markets and led Mexico to sell its oil to Germany and Italy.[104]
 
@@ -552,13 +532,13 @@ Manuel Ávila Camacho presidency and World War II
 
 Manuel Ávila Camacho, Cárdenas's successor, presided over a "bridge" between the revolutionary era and the era of machine politics under PRI that lasted until 2000. Ávila, moving away from nationalistic autarchy, proposed to create a favorable climate for international investment, which had been a policy favored nearly two generations earlier by Madero. Ávila's regime froze wages, repressed strikes, and persecuted dissidents with a law prohibiting the "crime of social dissolution." During this period, the PRI shifted to the right and abandoned much of the radical nationalism of the early Cárdenas era. Miguel Alemán Valdés, Ávila's successor, even had Article 27 amended to protect elite landowners.[105]
 
-Aztec_Eagles_P-47D.jpg with a maintenance crew after a combat mission]] Mexico played a relatively minor role militarily in World War Two in terms of sending troops, but there were other opportunities for Mexico to contribute significantly. Relations between Mexico and the U.S. had been warming in the 1930s, particularly after U.S. President Franklin Delano Roosevelt implemented the Good Neighbor Policy toward Latin American countries.[106] Even before the outbreak of hostilities between the Axis and Allied powers, Mexico aligned itself firmly with the United States, initially as a proponent of "belligerent neutrality" which the U.S. followed prior to the Pearl Harbor attack in December 1941. Mexico sanctioned businesses and individuals identified by the U.S. government as being supporters of the Axis powers; in August 1941, Mexico broke off economic ties with Germany, then recalled its diplomats from Germany, and closed the German consulates in Mexico.[107] The Confederation of Mexican Workers (CTM) and the Confederation of Mexican Peasants (CNC) staged massive rallies in support of the government.[108] Immediately following the Japanese attack on Pearl Harbor on December 7, 1941, Mexico went on a war footing.[109]
+with a maintenance crew after a combat mission]] Mexico played a relatively minor role militarily in World War Two in terms of sending troops, but there were other opportunities for Mexico to contribute significantly. Relations between Mexico and the U.S. had been warming in the 1930s, particularly after U.S. President Franklin Delano Roosevelt implemented the Good Neighbor Policy toward Latin American countries.[106] Even before the outbreak of hostilities between the Axis and Allied powers, Mexico aligned itself firmly with the United States, initially as a proponent of "belligerent neutrality" which the U.S. followed prior to the Pearl Harbor attack in December 1941. Mexico sanctioned businesses and individuals identified by the U.S. government as being supporters of the Axis powers; in August 1941, Mexico broke off economic ties with Germany, then recalled its diplomats from Germany, and closed the German consulates in Mexico.[107] The Confederation of Mexican Workers (CTM) and the Confederation of Mexican Peasants (CNC) staged massive rallies in support of the government.[108] Immediately following the Japanese attack on Pearl Harbor on December 7, 1941, Mexico went on a war footing.[109]
 
 Mexico's biggest contributions to the war effort were in vital war materiel and labor, particularly the Bracero Program, a guest-worker program in the U.S. freeing men there to fight in the European and Pacific theaters of War. There was heavy demand for its exports, which created a degree of prosperity.[110] A Mexican atomic scientist, José Rafael Bejarano, worked on the secret Manhattan Project that developed the atomic bomb.[111]
 
 In Mexico and throughout Latin America, Franklin Roosevelt's "Good Neighbor Policy" was necessary at such a delicate time. Much work had already been accomplished between the U.S. and Mexico to create more harmonious relations between the two countries, including the settlement of U.S. citizen claims against the Mexican government, initially and ineffectively negotiated by the binational American-Mexican Claims Commission, but then in direct bilateral negotiations between the two governments.[112] The U.S. had not intervened on behalf of U.S. oil companies when the Mexican government expropriated foreign oil in 1938, allowing Mexico to assert its economic sovereignty but also benefiting the U.S. by easing antagonism in Mexico. The Good Neighbor Policy led to the Douglas-Weichers Agreement in June 1941 that secured Mexican oil only for the United States,[113] and the Global Settlement in November 1941 that ended oil company demands on generous terms for the Mexicans, an example of the U.S. putting national security concerns over the interests of U.S. oil companies.[114] When it became clear in other parts of Latin America that the U.S. and Mexico had substantially resolved their differences, the other Latin American countries were more amenable to support the U.S. and Allied effort against the Axis.[115]
 
-BraceroProgram.jpg by train in 1942. Photograph by Dorothea Lange.]]
+by train in 1942. Photograph by Dorothea Lange.]]
 
 Following losses of oil ships in the Gulf (the _Potrero del Llano_ and _Faja de Oro_) to German submarines (_U-564_ and _U-106_ respectively) the Mexican government declared war on the Axis powers on May 30, 1942.[116]
 
@@ -572,13 +552,11 @@ With so many draftees, the U.S. needed farm workers. The Bracero Program gave th
 
 Economic "miracle" (1940–1970)
 
-Nafin.jpg
-
 During the next four decades, Mexico experienced impressive economic growth (albeit from a low baseline), an achievement historians call "_El Milagro Mexicano_", the Mexican Miracle. A key component of this phenomenon was the achievement of political stability, which since the founding of the dominant party, has insured stable presidential succession and control of potentially dissident labor and peasant sections through participation in the party structure. In 1938, Lázaro Cárdenas used Article 27 of the Constitution of 1917, which gave subsoil rights to the Mexican government, to expropriate foreign oil companies. It was a popular move, but it did not generate further major expropriations. With Cárdenas's hand-picked successor, Manuel Avila Camacho, Mexico moved closer to the U.S., as an ally in World War II. This alliance brought significant economic gains to Mexico. By supplying raw and finished war materials to the Allies, Mexico built up significant assets that in the post-war period could be translated into sustained growth and industrialization.[120] After 1946, the government took a rightward turn under President Miguel Alemán, who repudiated policies of previous presidents. Mexico pursued industrial development, through import substitution industrialization and tariffs against foreign imports. Mexican industrialists, including a group in Monterrey, Nuevo León as well as wealthy businessmen in Mexico City joined Alemán's coalition. Alemán tamed the labor movement in favor of policies supporting industrialists.[121][122]
 
 Financing industrialization came from private entrepreneurs, such as the Monterrey group, but the government funded a significant amount through its development bank, _Nacional Financiera_. Foreign capital through direct investment was another source of funding for industrialization, much of it from the United States.[123] Government policies transferred economic benefits from the countryside to the city by keeping agricultural artificially prices low, which made food cheap for city-dwelling industrial workers and other urban consumers. Commercial agriculture expanded with the growth of exports to the U.S. of high value fruits and vegetables, with rural credit going to large producers, not peasant agriculture. In particular, the creation of high yield seeds developed with the funding of the Rockefeller Foundation became what is known as the Green Revolution aimed at expanding commercially oriented, highly mechanized agribusiness.[124]
 
-Exèrcit_al_Zócalo-28_d'agost.jpg in 1968 Tlatelolco massacre.]]
+in 1968 Tlatelolco massacre.]]
 
 Guatemala conflict
 
@@ -589,7 +567,7 @@ The Mexico–Guatemala conflict was an armed conflict between the Latin American
 
 Economic crisis (1970–1994)
 
-Shah_Mohammad_Reza_Pahlavi,_Henry_Boniet_in_Cuernavaca,_Mexico,_1979.jpg and Henry Boniet in Cuernavaca, Mexico, in 1979]]
+and Henry Boniet in Cuernavaca, Mexico, in 1979]]
 
 Although PRI administrations achieved economic growth and relative prosperity for almost three decades after World War II, the party's management of the economy led to several crises. Political unrest grew in the late 1960s, culminating in the Tlatelolco massacre in 1968. Economic crises swept the country in 1976 and 1982, leading to the nationalization of Mexico's banks, which were blamed for the economic problems (La Década Perdida).[126]
 
@@ -597,7 +575,7 @@ On both occasions, the Mexican peso was devalued, and, until 2000, it was normal
 
 Earthquake of 1985
 
-1985_Mexico_Earthquake_-_Building_collapsed.jpg]]
+]]
 
 On 19 September 1985, an earthquake (8.1 on the Richter scale) struck Michoacán, inflicting severe damage on Mexico City. Estimates of the number of dead range from 6,500 to 30,000.[127] Public anger at the PRI's mishandling of relief efforts combined with the ongoing economic crisis led to a substantial weakening of the PRI. As a result, for the first time since the 1930s, the PRI began to face serious electoral challenges.
 
@@ -616,7 +594,7 @@ Contemporary Mexico
 
 NAFTA and economic resurgence (1994–present)
 
-Nafta.jpg, U.S. President George H. W. Bush, and Canadian Prime Minister Brian Mulroney, observe the signing of the North American Free Trade Agreement. Commenced in San Antonio, Texas on December 17, 1992.]]
+, U.S. President George H. W. Bush, and Canadian Prime Minister Brian Mulroney, observe the signing of the North American Free Trade Agreement. Commenced in San Antonio, Texas on December 17, 1992.]]
 
 On 1 January 1994, Mexico became a full member of the North American Free Trade Agreement (NAFTA), joining the United States and Canada.[134]
 
@@ -626,7 +604,7 @@ Per capita income is one-quarter that of the United States; income distribution 
 
 President Ernesto Zedillo (1994–2000)
 
-Subcomandante_Marcos.jpg]] In 1995, President Ernesto Zedillo faced the "December Mistake" crisis, triggered by a sudden devaluation of the peso. There were public demonstrations in Mexico City and a constant military presence after the 1994 rising of the Zapatista Army of National Liberation in Chiapas.[136]
+]] In 1995, President Ernesto Zedillo faced the "December Mistake" crisis, triggered by a sudden devaluation of the peso. There were public demonstrations in Mexico City and a constant military presence after the 1994 rising of the Zapatista Army of National Liberation in Chiapas.[136]
 
 The United States intervened rapidly to stem the economic crisis, first by buying pesos in the open market, and then by granting assistance in the form of $50 billion in loan guarantees. The peso stabilized at 6 pesos per dollar. By 1996, the economy was growing, and in 1997, Mexico repaid, ahead of schedule, all U.S. Treasury loans.
 
@@ -638,7 +616,7 @@ Accused many times of blatant fraud, the PRI held almost all public offices unti
 
 President Vicente Fox Quesada (2000–2006)
 
-Vicente_Fox_Singh.jpg.]]
+.]]
 
 Emphasizing the need to upgrade infrastructure, modernize the tax system and labor laws, integrate with the U.S. economy, and allow private investment in the energy sector, Vicente Fox Quesada, the candidate of the National Action Party (PAN), was elected the 69th president of Mexico on 2 July 2000, ending PRI's 71-year-long control of the office. Though Fox's victory was due in part to popular discontent with decades of unchallenged PRI hegemony, also, Fox's opponent, president Zedillo, conceded defeat on the night of the election—a first in Mexican history.[139] A further sign of the quickening of Mexican democracy was the fact that PAN failed to win a majority in both chambers of Congress—a situation that prevented Fox from implementing his reform pledges. Nonetheless, the transfer of power in 2000 was quick and peaceful.
 
@@ -648,7 +626,7 @@ Fox was a very strong candidate, but an ineffective president who was weakened b
 
 President Felipe Calderón Hinojosa (2006–2012)
 
-Felipe_Calderon_Lula_da_Silva.jpg with President of Brazil Luiz Inácio Lula da Silva.]]
+with President of Brazil Luiz Inácio Lula da Silva.]]
 
 President Felipe Calderón Hinojosa (PAN) took office after one of the most hotly contested elections in recent Mexican history; Calderón won by such a small margin (.56% or 233,831 votes.)[141] that the runner-up, Andrés Manuel López Obrador of the leftist Party of the Democratic Revolution (PRD) contested the results.
 
@@ -658,7 +636,7 @@ Calderón's government also ordered massive raids on drug cartels upon assuming 
 
 President Enrique Peña Nieto (2012–2018)
 
-Cena_de_Estado_que_en_honor_del_Excmo._Sr._Xi_Jinping,_Presidente_de_la_República_Popular_China,_y_de_su_esposa,_Sra._Peng_Liyuan_(8960384656).jpg]] On July 1, 2012, Enrique Peña Nieto was elected president of Mexico with 38% of the vote. He is a former governor of the state of Mexico and a member of the PRI. His election returned the PRI to power after 12 years of PAN rule. He was officially sworn into office on December 1, 2012.[142]
+]] On July 1, 2012, Enrique Peña Nieto was elected president of Mexico with 38% of the vote. He is a former governor of the state of Mexico and a member of the PRI. His election returned the PRI to power after 12 years of PAN rule. He was officially sworn into office on December 1, 2012.[142]
 
 The _Pacto por México_ was a cross party alliance that called for the accomplishment of 95 goals. It was signed on 2 December 2012 by the leaders of the three main political parties in Chapultepec Castle. The Pact has been lauded by international pundits as an example for solving political gridlock and for effectively passing institutional reforms.[143][144][145] Among other legislation, it called for education reform, banking reform, fiscal reform and telecommunications reform, all of which were eventually passed.[146] Most importantly the Pact wanted a revaluation of PEMEX. This ultimately resulted in the dissolution of the agreement when in December 2013 the center-left PRD refused to collaborate with the legislation penned by the center-right PAN and PRI that ended PEMEX's monopoly and allowed for foreign investment in Mexico's oil industry.
 
@@ -668,11 +646,9 @@ On July 1, 2018, Andrés Manuel López Obrador was elected president with 30,112
 
 Drug war
 
-Fuerza_del_Estado_Michoacán.jpg in 2007.]]
+in 2007.]]
 
 Mexico is a major transit and drug-producing nation: an estimated 90% of the cocaine smuggled into the United States every year moves through Mexico.[148] Fueled by the increasing demand for drugs in the United States, the country has become a major supplier of heroin, producer and distributor of MDMA, and the largest foreign supplier of cannabis and methamphetamine to the U.S.'s market. Major drug syndicates control the majority of drug trafficking in the country, and Mexico is a significant money-laundering center.[149]
-
-Mexican_States_with_mafia_conflicts.png
 
 After the Federal Assault Weapons Ban expired on September 13, 2004 in the United States, the Mexican President Calderon Hinojosa decided to use brute force to combat some drug lords and in 2007 started a major escalation on the Mexican Drug War.[150] Mexican drug lords found it easy to buy assault weapons in the United States.[151] The result is that drug cartels have now both more gun power, and more manpower due to the high unemployment in Mexico.[152]
 

@@ -1,4 +1,4 @@
-BLW_Teapot_with_Actresses.jpg becoming widely known.]]
+becoming widely known.]]
 
 INDUSTRIAL ESPIONAGE, ECONOMIC ESPIONAGE, CORPORATE SPYING or CORPORATE ESPIONAGE is a form of espionage conducted for commercial purposes instead of purely national security.[1]
 
@@ -12,7 +12,7 @@ Economic or industrial espionage takes place in two main forms. In short, the pu
 
 Target industries
 
-Lincoln_MKC_test_vehicle.jpg paint patterns designed to obfuscate the vehicle's lines. Padded covers, or deceptive decals are also often used. This is also to prevent Motoring Media-outlets from spoiling the model's big reveal.]] Economic and industrial espionage is most commonly associated with technology-heavy industries, including computer software and hardware, biotechnology, aerospace, telecommunications, transportation and engine technology, automobiles, machine tools, energy, materials and coatings and so on. Silicon Valley is known to be one of the world's most targeted areas for espionage, though any industry with information of use to competitors may be a target.
+paint patterns designed to obfuscate the vehicle's lines. Padded covers, or deceptive decals are also often used. This is also to prevent Motoring Media-outlets from spoiling the model's big reveal.]] Economic and industrial espionage is most commonly associated with technology-heavy industries, including computer software and hardware, biotechnology, aerospace, telecommunications, transportation and engine technology, automobiles, machine tools, energy, materials and coatings and so on. Silicon Valley is known to be one of the world's most targeted areas for espionage, though any industry with information of use to competitors may be a target.
 
 
 Information theft and sabotage
@@ -58,7 +58,7 @@ History
 
 Origins
 
-Lettre_du_pere_Entrecolles_1712_du_Halde_1735.jpg to reveal to Europe the manufacturing methods of Chinese porcelain in 1712, is sometimes considered an early case of industrial espionage]]Economic and industrial espionage has a long history. Father Francois Xavier d'Entrecolles in Jingdezhen, China revealing the manufacturing methods of Chinese porcelain in 1712 to Europe is sometimes considered an early case of industrial espionage.
+to reveal to Europe the manufacturing methods of Chinese porcelain in 1712, is sometimes considered an early case of industrial espionage]]Economic and industrial espionage has a long history. Father Francois Xavier d'Entrecolles in Jingdezhen, China revealing the manufacturing methods of Chinese porcelain in 1712 to Europe is sometimes considered an early case of industrial espionage.
 
 Historical accounts have been written of industrial espionage between Britain and France. Attributed to Britain's emergence as an "industrial creditor", the second decade of the 18th century saw the emergence of a large-scale state-sponsored effort to surreptitiously take British industrial technology to France. Witnesses confirmed both the inveigling of tradespersons abroad and the placing of apprentices in England. Protests by those such as iron workers in Sheffield and steel workers in Newcastle, about skilled industrial workers being enticed abroad, led to the first English legislation aimed at preventing this method of economic and industrial espionage.
 

@@ -1,11 +1,11 @@
-Ojibweherbalistmedicine.png _midew_ (ceremonial leader) in a _mide-wiigiwaam_ (medicine lodge).]] A MEDICINE MAN or MEDICINE WOMAN is a traditional healer and spiritual leader who serves a community of indigenous people of the Americas. Individual cultures have their own names, in their respective Indigenous languages, for the spiritual healers and ceremonial leaders in their particular cultures.
+_midew_ (ceremonial leader) in a _mide-wiigiwaam_ (medicine lodge).]] A MEDICINE MAN or MEDICINE WOMAN is a traditional healer and spiritual leader who serves a community of indigenous people of the Americas. Individual cultures have their own names, in their respective Indigenous languages, for the spiritual healers and ceremonial leaders in their particular cultures.
 
 
 The medicine man and woman in North America
 
 Cultural context
 
-Yupik_shaman_Nushagak.jpg "medicine man exorcising evil spirits from a sick boy" in Nushagak, Alaska, 1890s.[1]]]
+"medicine man exorcising evil spirits from a sick boy" in Nushagak, Alaska, 1890s.[1]]]
 
 In the ceremonial context of Indigenous North American communities, "medicine" usually refers to _spiritual_ healing. Medicine men/women should not be confused with those who employ Native American ethnobotany, a practice that is very common in a large number of Native American and First Nations households.[2][3][4]
 

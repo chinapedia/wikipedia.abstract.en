@@ -48,7 +48,7 @@ Niger is divided into 7 Regions (French: _régions;_ singular_région)_. Each de
 
 Departments
 
-Niger_arrondissements.png. A further 27 were then carved out of existing divisions.]] The Regions of Niger are subdivided into 63 Departments.
+. A further 27 were then carved out of existing divisions.]] The Regions of Niger are subdivided into 63 Departments.
 
 Communes
 
@@ -69,7 +69,7 @@ Physical geography
 
 Agricultural geography
 
-Niger_sat.png of Niger]]
+of Niger]]
 
 Some of the land in Niger is used as arable land (660 km² of land in Niger is irrigated) and as pasture. There are some forests and woodland. The table below describes land use in Niger, as of 2011.
 
@@ -84,7 +84,7 @@ Some of the land in Niger is used as arable land (660 km² of land in Niger is 
 
 Climate
 
-Niger_map_of_Köppen_climate_classification.svg Niger's climate is largely hot and dry, with most of the country in a desert region. The terrain is predominantly desert plains and sand dunes. There are also large plains in the south and hills in the north. In the extreme south, there is a tropical climate near the edges of the Niger River Basin. Lake Chad at the southeast corner of the country is shared between Niger, Nigeria, Chad, and Cameroon.
+Niger's climate is largely hot and dry, with most of the country in a desert region. The terrain is predominantly desert plains and sand dunes. There are also large plains in the south and hills in the north. In the extreme south, there is a tropical climate near the edges of the Niger River Basin. Lake Chad at the southeast corner of the country is shared between Niger, Nigeria, Chad, and Cameroon.
 
 Current issues
 
@@ -92,7 +92,7 @@ Current environmental issues in Niger include overgrazing, soil erosion, defores
 
 Natural hazards
 
-Sahel_Map-Africa_rough.png region is a belt up to 1,000 km wide that spans Africa from the Atlantic Ocean to the Red Sea]]
+region is a belt up to 1,000 km wide that spans Africa from the Atlantic Ocean to the Red Sea]]
 
 Recurring droughts are a serious challenge for Niger.[11] The 2012 Sahel drought, along with failed crops, insect plagues, high food prices and conflicts is currently affecting Niger causing a hunger crisis.[12] Many families in Niger, still recovering from the 2010 Sahel famine, are being affected by the 2012 Sahel drought.[13]
 
@@ -128,7 +128,7 @@ Niger has signed, but not ratified the Kyoto Protocol and Law of the Sea.[17][18
 
 National parks and reserves
 
-WAP-Komplex_englisch.svg Protected area in Niger]] Niger's protected areas comprise about 7.7 percent of the total land area.[19] Six of the reserves are fully categorized under the International Union for Conservation of Nature (IUCN).
+Protected area in Niger]] Niger's protected areas comprise about 7.7 percent of the total land area.[19] Six of the reserves are fully categorized under the International Union for Conservation of Nature (IUCN).
 
 Natural resources
 

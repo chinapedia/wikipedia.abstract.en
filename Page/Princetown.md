@@ -9,14 +9,14 @@ History
 
 In 1780, a farm was reclaimed on the site of an ancient tenement near the Two Bridges, and in 1785, Sir Thomas Tyrwhitt set about improving the moor at a place which he named Tor Royal (present day Tor Royal Farm), about south-east of Princetown.[3] The Plume of Feathers Inn also bears this date on its sign. He made an estate and built a house in 1798. Later the road from Tavistock to Princetown was built, as well as the other roads that now cross the moor.
 
-1900_Princetown,_Prison_Gate.jpg about 1900]] He also proposed that a prison be built on Dartmoor to house the thousands of captives of the Napoleonic Wars and the later War of 1812, who had become too numerous to lodge in the prisons and prison-ships at Plymouth. The site was given by the Prince of Wales, who held the lands of the Duchy of Cornwall to which the whole moor belonged. This is why the settlement is named Princetown. Dartmoor Prison was built in 1806 at a cost of £130,000. At one time it had a capacity of between 7,000 and 9,000 prisoners.
+about 1900]] He also proposed that a prison be built on Dartmoor to house the thousands of captives of the Napoleonic Wars and the later War of 1812, who had become too numerous to lodge in the prisons and prison-ships at Plymouth. The site was given by the Prince of Wales, who held the lands of the Duchy of Cornwall to which the whole moor belonged. This is why the settlement is named Princetown. Dartmoor Prison was built in 1806 at a cost of £130,000. At one time it had a capacity of between 7,000 and 9,000 prisoners.
 
 A small town grew up near the prison. Two large inns were built during the war - the current Prince of Wales and the former Devil's Elbow / Railway Inn. Many of the prisoners had prize money to come from their own country; many others made their own money in their hammocks at night, even forging Bank of England and local bank notes, which they passed off in the great daily market held in the prison. With the closing of the prison in 1816, the town almost collapsed, but the completion of the Princetown Railway in 1823 brought back many people to the granite quarries. The prison remained derelict until 1851, when it was reopened for prisoners serving long sentences. It has since been considerably extended.[4] and was scheduled for closure [5], but this now appears to be in doubt [6]
 
 
 Geography
 
-Church_St_Michael_Princetown.jpg The village is located on the B3212 road between Yelverton and Two Bridges and is surrounded by moorland. Several footpaths across the moor pass through the village, including one leading west to Sampford Spiney and one leading south to Nun's Cross and Erme Head.
+The village is located on the B3212 road between Yelverton and Two Bridges and is surrounded by moorland. Several footpaths across the moor pass through the village, including one leading west to Sampford Spiney and one leading south to Nun's Cross and Erme Head.
 
 Tor Royal Lane is a dead end road which leads down from the village to the site of the disused Whiteworks tin mine, about 2 miles or 3 km to the south-east, which overlooks Fox Tor Mires, the presumed site of the Grimpen Mire to be found in Arthur Conan Doyle's tale _The Hound of the Baskervilles._ Conan Doyle stayed at the former Duchy Hotel whilst writing and researching the story with his friend, Bertram Fletcher Robinson. The hotel has long since closed and the building now houses the National Park Visitor Centre which is an all-weather centre and activity hub, with interactive displays, films, inspiring exhibitions and a children's discovery area.
 
@@ -32,7 +32,7 @@ The village is mainly made up of white British people living in a mix of social 
 
 Economy
 
-Plume_of_Feathers_Pub_Princetown.jpg In terms of tourism, Princetown is a popular destination and hub for people traversing the moors, and the sight of large groups of hikers and walkers is especially common during the summer months. A bunkhouse, bed and breakfast and camping facilities are available in the village and there are also a handful of local shops.
+In terms of tourism, Princetown is a popular destination and hub for people traversing the moors, and the sight of large groups of hikers and walkers is especially common during the summer months. A bunkhouse, bed and breakfast and camping facilities are available in the village and there are also a handful of local shops.
 
 Princetown has a brewery producing the appropriately named Jail Ale, Legend, Dartmoor IPA, Dartmoor Gold, Dartmoor Best, Dragon's Breath and Three Hares. This used to be housed in the Prince of Wales pub, but now occupies a modern purpose-built building on the edge of the village, close to the former railway. The other pub is the Plume of Feathers (the Railway Inn – "The Devils Elbow" – has closed as a pub in the last few years). In April 2017 the go-ahead was given for the construction of a whisky distillery, which invoked controversy due to the destruction of buildings that this would entail.[12]
 

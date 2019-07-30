@@ -11,17 +11,15 @@ History
 
 Middle Ages
 
-Nuremberg_defensive_wall_north_f_burggarten_bastion_f_w.jpg
-
 The first documentary mention of the city, in 1050, mentions Nuremberg as the location of an Imperial castle between the East Franks and the Bavarian March of the Nordgau.[1] From 1050 to 1571 the city expanded and rose dramatically in importance due to its location on key trade-routes. King Conrad III (reigning as King of Germany from 1138 to 1152) established the Burgraviate of Nuremberg, with the first burgraves coming from the Austrian House of Raab. With the extinction of their male line around 1190, the last Raabs count's son-in-law, Frederick I from the House of Hohenzollern, inherited the burgraviate in 1192.
 
 From the late 12th century to the Interregnum (1254–73), however, the power of the burgraves diminished as the Hohenstaufen emperors transferred most non-military powers to a castellan, with the city administration and the municipal courts handed over to an Imperial mayor () from 1173/74.[2][3] The strained relations between the burgraves and the castellans, with gradual transferral of powers to the latter in the late 14th and early 15th centuries, finally broke out into open enmity, which greatly influenced the history of the city.[4]
 
-Nuernberg_Burg_Panorama_PtGUI.jpg Nuremberg is often referred to as the "unofficial capital" of the Holy Roman Empire, particularly because the Imperial Diet (_Reichstag_) and courts met at Nuremberg Castle. The Diets of Nuremberg played an important role in the administration of the empire. The increasing demands of the Imperial court and the increasing importance of the city attracted increased trade and commerce in Nuremberg. In 1219 Emperor Frederick II granted the ('Great Letter of Freedom'), including town rights, Imperial immediacy (), the privilege to mint coins, and an independent customs policy - almost wholly removing the city from the purview of the burgraves.[5][6] Nuremberg soon became, with Augsburg, one of the two great trade-centers on the route from Italy to Northern Europe.
+Nuremberg is often referred to as the "unofficial capital" of the Holy Roman Empire, particularly because the Imperial Diet (_Reichstag_) and courts met at Nuremberg Castle. The Diets of Nuremberg played an important role in the administration of the empire. The increasing demands of the Imperial court and the increasing importance of the city attracted increased trade and commerce in Nuremberg. In 1219 Emperor Frederick II granted the ('Great Letter of Freedom'), including town rights, Imperial immediacy (), the privilege to mint coins, and an independent customs policy - almost wholly removing the city from the purview of the burgraves.[5][6] Nuremberg soon became, with Augsburg, one of the two great trade-centers on the route from Italy to Northern Europe.
 
 In 1298 the Jews of the town were falsely accused of having desecrated the host, and 698 of them were killed in one of the many Rintfleisch massacres. Behind the massacre of 1298 was also the desire to combine the northern and southern parts of the city, which were divided by the Pegnitz. The Jews of the German lands suffered many massacres during the plague years of the mid-14th century.
 
-In 1349 Nuremberg's Jews suffered a pogrom.[7] They were burned at the stake or expelled, and a marketplace was built over the former Jewish quarter.[8] The plague returned to the city in 1405, 1435, 1437, 1482, 1494, 1520 and 1534.[9] Nuremberg_chronicles_-_Nuremberga.png'').]]
+In 1349 Nuremberg's Jews suffered a pogrom.[7] They were burned at the stake or expelled, and a marketplace was built over the former Jewish quarter.[8] The plague returned to the city in 1405, 1435, 1437, 1482, 1494, 1520 and 1534.[9] '').]]
 
 The largest growth of Nuremberg occurred in the 14th century. Charles IV's Golden Bull of 1356, naming Nuremberg as the city where newly elected kings of Germany must hold their first Imperial Diet, made Nuremberg one of the three most important cities of the Empire.[10] Charles was the patron of the Frauenkirche, built between 1352 and 1362 (the architect was likely Peter Parler), where the Imperial court worshipped during its stays in Nuremberg. The royal and Imperial connection grew stronger in 1423 when the Holy Roman Emperor Sigismund of Luxembourg granted the Imperial regalia to be kept permanently in Nuremberg, where they remained until 1796, when the advance of French troops required their removal to Regensburg and thence to Vienna.[11]
 
@@ -33,7 +31,7 @@ During the Middle Ages, Nuremberg fostered a rich, varied, and influential liter
 
 Early modern age
 
-De_Merian_Frankoniae_090.jpg The cultural flowering of Nuremberg, in the 15th and 16th centuries, made it the centre of the German Renaissance. In 1525, Nuremberg accepted the Protestant Reformation, and in 1532, the Nuremberg Religious Peace was signed there, preventing war between Protestants and Catholics[19] for 15 years.[20] During the 1552 revolution against Charles V, Nuremberg tried to purchase its neutrality, but the city was attacked without a declaration of war and was forced into a disadvantageous peace.[21] At the Peace of Augsburg, the possessions of the Protestants were confirmed by the Emperor, their religious privileges extended and their independence from the Bishop of Bamberg affirmed, while the 1520s' secularisation of the monasteries was also approved.[22] Old_town_hall.jpg
+The cultural flowering of Nuremberg, in the 15th and 16th centuries, made it the centre of the German Renaissance. In 1525, Nuremberg accepted the Protestant Reformation, and in 1532, the Nuremberg Religious Peace was signed there, preventing war between Protestants and Catholics[19] for 15 years.[20] During the 1552 revolution against Charles V, Nuremberg tried to purchase its neutrality, but the city was attacked without a declaration of war and was forced into a disadvantageous peace.[21] At the Peace of Augsburg, the possessions of the Protestants were confirmed by the Emperor, their religious privileges extended and their independence from the Bishop of Bamberg affirmed, while the 1520s' secularisation of the monasteries was also approved.[22]
 
 The state of affairs in the early 16th century, increased trade routes elsewhere and the ossification of the social hierarchy and legal structures contributed to the decline in trade.[23] Frequent quartering of Imperial, Swedish and League soldiers, the financial costs of the war and the cessation of trade caused irreparable damage to the city and a near-halving of the population.[24] In 1632, the city, occupied by the forces of Gustavus Adolphus of Sweden, was besieged by the army of Imperial general Albrecht von Wallenstein. The city declined after the war and recovered its importance only in the 19th century, when it grew as an industrial centre. Even after the Thirty Years' War, however, there was a late flowering of architecture and culture – secular Baroque architecture is exemplified in the layout of the civic gardens built outside the city walls, and in the Protestant city's rebuilding of St. Egidien church, destroyed by fire at the beginning of the 18th century, considered a significant contribution to the baroque church architecture of Middle Franconia.[25]
 
@@ -41,7 +39,7 @@ After the Thirty Years' War, Nuremberg attempted to remain detached from externa
 
 After the Napoleonic Wars
 
-Nuremberg_Scrapbooks_cropped.jpg Adler_Originalfoto.jpg'' was the locomotive of the first German Railway between Nuremberg and Fürth.]]
+'' was the locomotive of the first German Railway between Nuremberg and Fürth.]]
 
 After the fall of Napoleon, the city's trade and commerce revived; the skill of its inhabitants together with its favourable situation soon made the city prosperous, particularly after its public debt had been acknowledged as a part of the Bavarian national debt. Having been incorporated into a Catholic country, the city was compelled to refrain from further discrimination against Catholics, who had been excluded from the rights of citizenship. Catholic services had been celebrated in the city by the priests of the Teutonic Order, often under great difficulties. After their possessions had been confiscated by the Bavarian government in 1806, they were given the Frauenkirche on the Market in 1809; in 1810 the first Catholic parish was established, which in 1818 numbered 1,010 souls.[29][30]
 
@@ -49,7 +47,7 @@ In 1817, the city was incorporated into the district of Rezatkreis (named for th
 
 Nazi era
 
-Reichsparteitag_1935_Großer_Appell_28-1121M_original.jpg, 1935]] Nuremberg held great significance during the Nazi Germany era. Because of the city's relevance to the Holy Roman Empire and its position in the centre of Germany, the Nazi Party chose the city to be the site of huge Nazi Party conventions — the Nuremberg rallies. The rallies were held in 1927, 1929 and annually from 1933 through 1938. After Adolf Hitler's rise to power in 1933 the Nuremberg rallies became huge Nazi propaganda events, a centre of Nazi ideals. The 1934 rally was filmed by Leni Riefenstahl, and made into a propaganda film called _Triumph des Willens_ (_Triumph of the Will_).
+, 1935]] Nuremberg held great significance during the Nazi Germany era. Because of the city's relevance to the Holy Roman Empire and its position in the centre of Germany, the Nazi Party chose the city to be the site of huge Nazi Party conventions — the Nuremberg rallies. The rallies were held in 1927, 1929 and annually from 1933 through 1938. After Adolf Hitler's rise to power in 1933 the Nuremberg rallies became huge Nazi propaganda events, a centre of Nazi ideals. The 1934 rally was filmed by Leni Riefenstahl, and made into a propaganda film called _Triumph des Willens_ (_Triumph of the Will_).
 
 At the 1935 rally, Hitler specifically ordered the Reichstag to convene at Nuremberg to pass the Nuremberg Laws which revoked German citizenship for all Jews and other non-Aryans. A number of premises were constructed solely for these assemblies, some of which were not finished. Today many examples of Nazi architecture can still be seen in the city. The city was also the home of the Nazi propagandist Julius Streicher, the publisher of _Der Stürmer_.
 
@@ -61,7 +59,7 @@ Nuremberg was a heavily fortified city that was captured in a fierce battle last
 
 Nuremberg trials
 
-Defendants_in_the_dock_at_nuremberg_trials.jpg Between 1945 and 1946, German officials involved in war crimes and crimes against humanity were brought before an international tribunal in the Nuremberg trials. The Soviet Union had wanted these trials to take place in Berlin. However, Nuremberg was chosen as the site for the trials for specific reasons:
+Between 1945 and 1946, German officials involved in war crimes and crimes against humanity were brought before an international tribunal in the Nuremberg trials. The Soviet Union had wanted these trials to take place in Berlin. However, Nuremberg was chosen as the site for the trials for specific reasons:
 
 -   The city had been the location of the Nazi Party's Nuremberg rallies and the laws stripping Jews of their citizenship were passed there. There was symbolic value in making it the place of Nazi demise.
 -   The Palace of Justice was spacious and largely undamaged (one of the few that had remained largely intact despite extensive Allied bombing of Germany). The already large courtroom was reasonably easily expanded by the removal of the wall at the end opposite the bench, thereby incorporating the adjoining room. A large prison was also part of the complex.
@@ -148,7 +146,7 @@ In 2017, Nuremberg saw a total of 3.3 million overnight stays, a record for the 
 
 Culture
 
-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg]] Christkindlesmarkt_nuernberg.jpg with _Schöner Brunnen_]]Nuremberg was an early centre of humanism, science, printing, and mechanical invention. The city contributed much to the science of astronomy. In 1471 Johannes Mueller of Königsberg (Bavaria), later called Regiomontanus, built an astronomical observatory in Nuremberg and published many important astronomical charts.
+]] with _Schöner Brunnen_]]Nuremberg was an early centre of humanism, science, printing, and mechanical invention. The city contributed much to the science of astronomy. In 1471 Johannes Mueller of Königsberg (Bavaria), later called Regiomontanus, built an astronomical observatory in Nuremberg and published many important astronomical charts.
 
 In 1515, Albrecht Dürer, a native of Nuremberg, created woodcuts of the first maps of the stars of the northern and southern hemispheres, producing the first printed star charts, which had been ordered by Johannes Stabius. Around 1515 Dürer also published the "Stabiussche Weltkarte", the first perspective drawing of the terrestrial globe.[54] Perhaps most famously, the main part of Nicolaus Copernicus's work was published in Nuremberg in 1543.
 
@@ -174,7 +172,7 @@ Museums
 
 Performing arts
 
-Staatstheater_Nürnberg_2006-08-08.jpg Bardentreffen_2013_3668.jpg The Nuremberg State Theatre, founded in 1906, is dedicated to all types of opera, ballet and stage theatre. During the season 2009/2010, the theatre presented 651 performances for an audience of 240,000 persons.[55] The State Philharmonic Nuremberg (Staatsphilharmonie Nürnberg) is the orchestra of the State Theatre. Its name was changed in 2011 from its previous name: The Nuremberg Philharmonic (_Nürnberger Philharmoniker_). It is the second-largest opera orchestra in Bavaria.[56] Besides opera performances, it also presents its own subscription concert series in the Meistersingerhalle. Christof Perick was the principal conductor of the orchestra between 2006–2011. Marcus Bosch heads the orchestra since September 2011 .
+The Nuremberg State Theatre, founded in 1906, is dedicated to all types of opera, ballet and stage theatre. During the season 2009/2010, the theatre presented 651 performances for an audience of 240,000 persons.[55] The State Philharmonic Nuremberg (Staatsphilharmonie Nürnberg) is the orchestra of the State Theatre. Its name was changed in 2011 from its previous name: The Nuremberg Philharmonic (_Nürnberger Philharmoniker_). It is the second-largest opera orchestra in Bavaria.[56] Besides opera performances, it also presents its own subscription concert series in the Meistersingerhalle. Christof Perick was the principal conductor of the orchestra between 2006–2011. Marcus Bosch heads the orchestra since September 2011 .
 
 The Nuremberg Symphony Orchestra (_Nürnberger Symphoniker_) performs around 100 concerts a year to a combined annual audience of more than 180,000.[57] The regular subscription concert series are mostly performed in the _Meistersingerhalle_ but other venues are used as well, including the new concert hall of the _Kongresshalle_ and the _Serenadenhof_. Alexander Shelley has been the principal conductor of the orchestra since 2009.
 
@@ -182,14 +180,14 @@ The Nuremberg International Chamber Music Festival (_Internationales Kammermusik
 
 Cuisine
 
-Nürnberger_Bratwürste.jpg]] Nuremberg is known for Nürnberger Bratwurst, which is shorter and thinner than other bratwurst sausages.
+]] Nuremberg is known for Nürnberger Bratwurst, which is shorter and thinner than other bratwurst sausages.
 
 Another Nuremberg speciality is Nürnberger Lebkuchen, a kind of gingerbread eaten mainly around Christmas time.
 
 
 Education
 
-Germany_Nuernberg_Georg-Simon-Ohm-Fachhochschule.jpg Technische Hochschule Nürnberg (Kesslerplatz).]] Nuremberg offers 51 public and 6 private elementary schools in nearly all of its districts. Secondary education is offered at 23 Mittelschulen, 12 Realschulen, and 17 Gymnasien (state, city, church, and privately owned). There are also several other providers of secondary education such as Berufsschule, Berufsfachschule, Wirtschaftsschule etc.[59]
+Technische Hochschule Nürnberg (Kesslerplatz).]] Nuremberg offers 51 public and 6 private elementary schools in nearly all of its districts. Secondary education is offered at 23 Mittelschulen, 12 Realschulen, and 17 Gymnasien (state, city, church, and privately owned). There are also several other providers of secondary education such as Berufsschule, Berufsfachschule, Wirtschaftsschule etc.[59]
 
 Higher education
 
@@ -216,13 +214,13 @@ Main sights
 -   The Nuremberg Ring (now welded within an iron fence of Schöner Brunnen) is said to bring good luck to those that spin it.
 -   The Nazi party rally grounds with the documentation-center.
 
-  ----------------------- -------------------------------------------------------------- -------------------------------
-  Nürnberg_panorama.jpg   Nuremberg_View_Old_Town.jpg and Nuremberg Castle in winter]]   Nürnberg_(9532545824)_(3).jpg
-  ----------------------- -------------------------------------------------------------- -------------------------------
+  -- ---------------------------------- --
+     and Nuremberg Castle in winter]]
+  -- ---------------------------------- --
 
-  ------------------------------- ----------------------------------------- -----------------------------------------
-  Nuernberg_Pilatushaus_001.JPG   Nuremberg_Aerial_Tullnau_Moegeldorf.JPG   Ostbau_Justizpalast_Nürnberg.jpg site]]
-  ------------------------------- ----------------------------------------- -----------------------------------------
+  -- -- --------
+        site]]
+  -- -- --------
 
 
 Transport
@@ -231,21 +229,21 @@ The city's location next to numerous highways, railways, and a waterway has cont
 
 Railways
 
-Nuremberg.Central_railway_station.jpg Subway_station_nuremberg.jpg Nürnberg Hauptbahnhof is a stop for IC and ICE trains on the German long-distance railway network. The Nuremberg–Ingolstadt–Munich high-speed line with operation opened 28 May 2006, and was fully integrated into the rail schedule on 10 December 2006. Travel times to Munich have been reduced to as little as one hour. The Nuremberg–Erfurt high-speed railway opened in December 2017.
+Nürnberg Hauptbahnhof is a stop for IC and ICE trains on the German long-distance railway network. The Nuremberg–Ingolstadt–Munich high-speed line with operation opened 28 May 2006, and was fully integrated into the rail schedule on 10 December 2006. Travel times to Munich have been reduced to as little as one hour. The Nuremberg–Erfurt high-speed railway opened in December 2017.
 
 City and regional transport
 
-DT3_Hauptbahnhof_TB.JPG train on the line _U3_]] The Nuremberg tramway network was opened in 1881. , it extended a total length of , had six lines, and carried 39.152 million passengers annually. The first segment of the Nuremberg U-Bahn metro system was opened in 1972. Nuremberg's trams, buses and metro system are operated by the VAG Nürnberg (_Verkehrsaktiengesellschaft Nürnberg_ or Nuremberg Transport Corporation), itself a member of the VGN (_Verkehrsverbund Grossraum Nürnberg_ or Greater Nuremberg Transport Network).
+train on the line _U3_]] The Nuremberg tramway network was opened in 1881. , it extended a total length of , had six lines, and carried 39.152 million passengers annually. The first segment of the Nuremberg U-Bahn metro system was opened in 1972. Nuremberg's trams, buses and metro system are operated by the VAG Nürnberg (_Verkehrsaktiengesellschaft Nürnberg_ or Nuremberg Transport Corporation), itself a member of the VGN (_Verkehrsverbund Grossraum Nürnberg_ or Greater Nuremberg Transport Network).
 
 There is also a Nuremberg S-Bahn suburban metro railway and a regional train network, both centred on Nürnberg Hauptbahnhof. Since 2008, Nuremberg has had the first U-Bahn in Germany (U2/U21 and U3) that works without a driver. It also was the first subway system worldwide in which both driver-operated trains and computer-controlled trains shared tracks.
 
-  ------------------------------------- ------------------------------ ---------------------------------------
-  Straßenbahn_Nürnberg_Linienband.png   Schnellbahnnetz_nürnberg.jpg   Schnellbahnnetz_Nürnberg_S_U_Tram.png
-  ------------------------------------- ------------------------------ ---------------------------------------
+  -- -- --
 
-  -------------------------------- --------------------------------
-  S-Bahn_Nürnberg_Linienband.png   U-Bahn_Nürnberg_Linienband.png
-  -------------------------------- --------------------------------
+  -- -- --
+
+  -- --
+
+  -- --
 
 Motorways
 
@@ -262,7 +260,7 @@ Nuremberg is an important port on the Rhine–Main–Danube Canal.
 
 Sport
 
-Frankenstadion_3.JPG is the football stadium of Bundesliga club 1. FC Nürnberg]]
+is the football stadium of Bundesliga club 1. FC Nürnberg]]
 
 Football
 
@@ -321,7 +319,7 @@ Nuremberg also engages in cooperation with various other cities internationally:
 
 Notable residents
 
-Durer_selfporitrait.jpg is the best-known son of the city]]
+is the best-known son of the city]]
 
 -   Peter Angermann[75]
 -   Chaya Arbel (Israeli composer)[76]

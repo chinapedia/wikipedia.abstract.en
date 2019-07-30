@@ -15,7 +15,7 @@ The kumquat plant is native to south Asia and the Asia-Pacific region. The earli
 
 Description
 
-A_lemon_plant_(Citrus_japonica);_flowering_and_fruiting_stem_Wellcome_V0044760.jpg]]
+]]
 
 They are slow-growing evergreen shrubs or short trees that stand tall, with dense branches, sometimes bearing small thorns. The leaves are dark glossy green, and the flowers are white, similar to other citrus flowers, and can be borne singly or clustered within the leaf-axils. Depending on size, the kumquat tree can produce hundreds or even thousands of fruits each year.[2]
 
@@ -30,7 +30,7 @@ The ROUND KUMQUAT, MARUMI KUMQUAT or MORGANI KUMQUAT (retaining the name _Citrus
 
 Oval kumquat
 
-Citrus_japonica_'Centennial_Variegated'_-_Kumquat.jpg Citrus_japonica_'Centennial_Variegated'_-_Kumquat_-_fruit.jpg The OVAL KUMQUAT or NAGAMI KUMQUAT[6] (_Citrus margarita_ or _Fortunella margarita_ if dividing _Eufortunella_ kumquats into separate species) is ovoid in shape and typically eaten whole, skin and all. The inside is still quite sour, but the skin has a very sweet flavour, so when eaten together an unusual tart-sweet, refreshing flavour is produced. The fruit ripens mid- to late winter and always crops very heavily, creating a spectacular display against the dark green foliage. The tree tends to be much smaller and dwarf in nature, making it ideal for pots and occasionally bonsai cultivation.
+The OVAL KUMQUAT or NAGAMI KUMQUAT[6] (_Citrus margarita_ or _Fortunella margarita_ if dividing _Eufortunella_ kumquats into separate species) is ovoid in shape and typically eaten whole, skin and all. The inside is still quite sour, but the skin has a very sweet flavour, so when eaten together an unusual tart-sweet, refreshing flavour is produced. The fruit ripens mid- to late winter and always crops very heavily, creating a spectacular display against the dark green foliage. The tree tends to be much smaller and dwarf in nature, making it ideal for pots and occasionally bonsai cultivation.
 
 The 'Centennial Variegated' kumquat cultivar arose spontaneously from the oval kumquat. It produces a greater proportion of fruit to peel than the oval kumquat, and the fruit are rounder and sometimes necked. Fruit are distinguishable by their variegation in color, exhibiting bright green and yellow stripes. The tree is distinguishable by its lack of thorns.Centennial at the Citrus Variety Collection
 

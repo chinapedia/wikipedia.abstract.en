@@ -1,7 +1,5 @@
 Saw (musical instrument)}}
 
-Musical_saw_2.jpg
-
 A MUSICAL SAW, also called a SINGING SAW, is a hand saw used as a musical instrument. Capable of continuous glissando (portamento), the sound creates an ethereal tone, very similar to the theremin. The musical saw is classified as a plaque friction idiophone with direct friction (132.22) under the Hornbostel-Sachs system of musical instrument classification.
 
 
@@ -108,8 +106,6 @@ Other composers for chamber music with musical saw are Jonathan Rutherford (_An 
 
 
 Sample
-
-Zaagfragment.ogg
 
 
 See also

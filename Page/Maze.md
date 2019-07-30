@@ -1,11 +1,11 @@
-Longleat_maze.jpg at Longleat stately home in England]]
+at Longleat stately home in England]]
 
 A MAZE is a path or collection of paths, typically from an entrance to a goal. The word is used to refer both to branching tour puzzles through which the solver must find a route, and to simpler non-branching ("unicursal") patterns that lead unambiguously through a convoluted layout to a goal. (The term "labyrinth" is generally synonymous with "maze", but can also connote specifically a unicursal pattern.[1]) The pathways and walls in a maze are typically fixed, but puzzles in which the walls and paths can change during the game are also categorised as mazes or tour puzzles.
 
 
 Maze construction
 
-Maze_simple.svg Mazes have been built with walls and rooms, with hedges, turf, corn stalks, straw bales, books, paving stones of contrasting colors or designs, and brick,[2] or in fields of crops such as corn or, indeed, maize. Maize mazes can be very large; they are usually only kept for one growing season, so they can be different every year, and are promoted as seasonal tourist attractions. Indoors, mirror mazes are another form of maze, in which many of the apparent pathways are imaginary routes seen through multiple reflections in mirrors. Another type of maze consists of a set of rooms linked by doors (so a passageway is just another room in this definition). Players enter at one spot, and exit at another, or the idea may be to reach a certain spot in the maze. Mazes can also be printed or drawn on paper to be followed by a pencil or fingertip. Mazes can be built with snow.
+Mazes have been built with walls and rooms, with hedges, turf, corn stalks, straw bales, books, paving stones of contrasting colors or designs, and brick,[2] or in fields of crops such as corn or, indeed, maize. Maize mazes can be very large; they are usually only kept for one growing season, so they can be different every year, and are promoted as seasonal tourist attractions. Indoors, mirror mazes are another form of maze, in which many of the apparent pathways are imaginary routes seen through multiple reflections in mirrors. Another type of maze consists of a set of rooms linked by doors (so a passageway is just another room in this definition). Players enter at one spot, and exit at another, or the idea may be to reach a certain spot in the maze. Mazes can also be printed or drawn on paper to be followed by a pencil or fingertip. Mazes can be built with snow.
 
 
 Generating mazes
@@ -37,8 +37,6 @@ Mazes are often used in psychology experiments to study spatial navigation and l
 
 
 Other types of mazes
-
-Maze_2008a.JPG
 
 Ball-in-a-maze puzzles: Dexterity puzzles which involve navigating a ball through a maze or labyrinth.
 
@@ -175,7 +173,7 @@ UK
 
 North America
 
-MysteryMaze.jpg theme park, Valdosta, Georgia, United States. It was removed before the 2010 season.]] Hedge_Maze,_St_Louis_Botanical_Gardens_(St_Louis,_Missouri_-_June_2003).jpg in St. Louis]]
+theme park, Valdosta, Georgia, United States. It was removed before the 2010 season.]] in St. Louis]]
 
 Canada
 

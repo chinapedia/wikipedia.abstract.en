@@ -19,7 +19,7 @@ Just as Galilean relativity is now accepted to be an approximation of special re
 
 Galileo Galilei had already postulated that there is no absolute and well-defined state of rest (no privileged reference frames), a principle now called Galileo's principle of relativity. Einstein extended this principle so that it accounted for the constant speed of light,[13] a phenomenon that had been observed in the Michelson–Morley experiment. He also postulated that it holds for all the laws of physics, including both the laws of mechanics and of electrodynamics.[14]
 
-Einstein_patentoffice.jpg around 1905, the year his "_Annus Mirabilis_ papers" were published. These included _Zur Elektrodynamik bewegter Körper_ , the paper founding special relativity.]]
+around 1905, the year his "_Annus Mirabilis_ papers" were published. These included _Zur Elektrodynamik bewegter Körper_ , the paper founding special relativity.]]
 
 
  Traditional "two postulates" approach to special relativity
@@ -44,7 +44,7 @@ Principle of relativity
 
 Reference frames and relative motion
 
-Frames_of_reference_in_relative_motion.svg, an observer stationary in the primed system will view a likewise construction except that the velocity they record will be −_v_. The changing of the speed of propagation of interaction from infinite in non-relativistic mechanics to a finite value will require a modification of the transformation equations mapping events in one frame to another.]]
+, an observer stationary in the primed system will view a likewise construction except that the velocity they record will be −_v_. The changing of the speed of propagation of interaction from infinite in non-relativistic mechanics to a finite value will require a modification of the transformation equations mapping events in one frame to another.]]
 
 Reference frames play a crucial role in relativity theory. The term reference frame as used here is an observational perspective in space which is not undergoing any change in motion (acceleration), from which a position can be measured along 3 spatial axes (so, at rest or constant velocity). In addition, a reference frame has the ability to determine measurements of the time of events using a 'clock' (any reference device with uniform periodicity).
 
@@ -185,8 +185,6 @@ In considering the physical significance of Δs², there are three cases to note
 
 Relativity of simultaneity
 
-Relativity_of_Simultaneity_Animation.gif
-
 Consider two events happening in two different locations that occur simultaneously in the reference frame of one inertial observer. They may occur non-simultaneously in the reference frame of another inertial observer (lack of absolute simultaneity).
 
 From (the forward Lorentz transformation in terms of coordinate differences)
@@ -272,7 +270,7 @@ Thomas rotation provides the resolution to the well-known "meter stick and hole 
 
 Causality and prohibition of motion faster than light
 
-Simple_light_cone_diagram.svgIn Fig. 4‑3, the time interval between the events A (the "cause") and B (the "effect") is 'time-like'; i.e., there is a frame of reference in which events A and B occur at the _same location in space_, separated only by occurring at different times. If A precedes B in that frame, then A precedes B in all frames accessible by a Lorentz transformation. It is possible for matter (or information) to travel (below light speed) from the location of A, starting at the time of A, to the location of B, arriving at the time of B, so there can be a causal relationship (with A the cause and B the effect).
+In Fig. 4‑3, the time interval between the events A (the "cause") and B (the "effect") is 'time-like'; i.e., there is a frame of reference in which events A and B occur at the _same location in space_, separated only by occurring at different times. If A precedes B in that frame, then A precedes B in all frames accessible by a Lorentz transformation. It is possible for matter (or information) to travel (below light speed) from the location of A, starting at the time of A, to the location of B, arriving at the time of B, so there can be a causal relationship (with A the cause and B the effect).
 
 The interval AC in the diagram is 'space-like'; i.e., there is a frame of reference in which events A and C occur simultaneously, separated only in space. There are also frames in which A precedes C (as shown) and frames in which C precedes A. However, there are no frames accessible by a Lorentz transformation, in which events A and C occur at the same location. If it were possible for a cause-and-effect relationship to exist between events A and C, then paradoxes of causality would result.
 
@@ -294,7 +292,7 @@ Optical effects
 
 Dragging effects
 
-Fizeau_experiment_schematic.svg In 1850, Hippolyte Fizeau and Léon Foucault independently established that light travels more slowly in water than in air, thus validating a prediction of Fresnel's wave theory of light and invalidating the corresponding prediction of Newton's corpuscular theory.[58] The speed of light was measured in still water. What would be the speed of light in flowing water?
+In 1850, Hippolyte Fizeau and Léon Foucault independently established that light travels more slowly in water than in air, thus validating a prediction of Fresnel's wave theory of light and invalidating the corresponding prediction of Newton's corpuscular theory.[58] The speed of light was measured in still water. What would be the speed of light in flowing water?
 
 In 1851, Fizeau conducted an experiment to answer this question, a simplified representation of which is illustrated in Fig. 5‑1. A beam of light is divided by a beam splitter, and the split beams are passed in opposite directions through a tube of flowing water. They are recombined to form interference fringes, indicating a difference in optical path length, that an observer can view. The experiment demonstrated that dragging of the light by the flowing water caused displacement of the fringes, showing that the motion of the water had affected the speed of the light.
 
@@ -310,7 +308,7 @@ From the point of view of special relativity, Fizeau's result is nothing but an 
 
 Relativistic aberration of light
 
-Stellar_aberration_illustration.svg Because of the finite speed of light, if the relative motions of a source and receiver include a transverse component, then the direction from which light arrives at the receiver will be displaced from the geometric position in space of the source relative to the receiver. The classical calculation of the displacement takes two forms and makes different predictions depending on whether the receiver, the source, or both are in motion with respect to the medium. (1) If the receiver is in motion, the displacement would be the consequence of the aberration of light. The incident angle of the beam relative to the receiver would be calculable from the vector sum of the receiver's motions and the velocity of the incident light.[61] (2) If the source is in motion, the displacement would be the consequence of light-time correction. The displacement of the apparent position of the source from its geometric position would be the result of the source's motion during the time that its light takes to reach the receiver.[62]
+Because of the finite speed of light, if the relative motions of a source and receiver include a transverse component, then the direction from which light arrives at the receiver will be displaced from the geometric position in space of the source relative to the receiver. The classical calculation of the displacement takes two forms and makes different predictions depending on whether the receiver, the source, or both are in motion with respect to the medium. (1) If the receiver is in motion, the displacement would be the consequence of the aberration of light. The incident angle of the beam relative to the receiver would be calculable from the vector sum of the receiver's motions and the velocity of the incident light.[61] (2) If the source is in motion, the displacement would be the consequence of light-time correction. The displacement of the apparent position of the source from its geometric position would be the result of the source's motion during the time that its light takes to reach the receiver.[62]
 
 The classical explanation failed experimental test. Since the aberration angle depends on the relationship between the velocity of the receiver and the speed of the incident light, passage of the incident light through a refractive medium should change the aberration angle. In 1810, Arago used this expected phenomenon in a failed attempt to measure the speed of light,[63] and in 1870, George Airy tested the hypothesis using a water-filled telescope, finding that, against expectation, the measured aberration was identical to the aberration measured with an air-filled telescope.[64] A "cumbrous" attempt to explain these results used the hypothesis of partial aether-drag,[65] but was incompatible with the results of the Michelson–Morley experiment, which apparently demanded _complete_ aether-drag.[66]
 
@@ -345,8 +343,6 @@ An identical expression for relativistic Doppler shift is obtained when performi
 
 Transverse Doppler effect
 
-Transverse_Doppler_effect_scenarios_5.svg
-
 The transverse Doppler effect is one of the main novel predictions of the special theory of relativity.
 
 Classically, one might expect that if source and receiver are moving transversely with respect to each other with no longitudinal component to their relative motions, that there should be no Doppler shift in the light arriving at the receiver.
@@ -359,9 +355,9 @@ Time dilation and length contraction are not optical illusions, but genuine effe
 
 Scientists make a fundamental distinction between _measurement_ or _observation_ on the one hand, versus _visual appearance_, or what one _sees_. The measured shape of an object is a hypothetical snapshot of all of the object's points as they exist at a single moment in time. The visual appearance of an object, however, is affected by the varying lengths of time that light takes to travel from different points on the object to one's eye.
 
-Animated_Terrell_Rotation_-_Cube.gif For many years, the distinction between the two had not been generally appreciated, and it had generally been thought that a length contracted object passing by an observer would in fact actually be _seen_ as length contracted. In 1959, James Terrell and Roger Penrose independently pointed out that differential time lag effects in signals reaching the observer from the different parts of a moving object result in a fast moving object's visual appearance being quite different from its measured shape. For example, a receding object would _appear_ contracted, an approaching object would _appear_ elongated, and a passing object would have a skew appearance that has been likened to a rotation.[73][74][75][76] A sphere in motion retains the appearance of a sphere, although images on the surface of the sphere will appear distorted.[77]
+For many years, the distinction between the two had not been generally appreciated, and it had generally been thought that a length contracted object passing by an observer would in fact actually be _seen_ as length contracted. In 1959, James Terrell and Roger Penrose independently pointed out that differential time lag effects in signals reaching the observer from the different parts of a moving object result in a fast moving object's visual appearance being quite different from its measured shape. For example, a receding object would _appear_ contracted, an approaching object would _appear_ elongated, and a passing object would have a skew appearance that has been likened to a rotation.[73][74][75][76] A sphere in motion retains the appearance of a sphere, although images on the surface of the sphere will appear distorted.[77]
 
-M87_jet_(1).jpg streams out a black-hole-powered jet of electrons and other sub-atomic particles traveling at nearly the speed of light.]] Fig. 5‑4 illustrates a cube viewed from a distance of four times the length of its sides. At high speeds, the sides of the cube that are perpendicular to the direction of motion appear hyperbolic in shape. The cube is actually not rotated. Rather, light from the rear of the cube takes longer to reach one's eyes compared with light from the front, during which time the cube has moved to the right. This illusion has come to be known as _Terrell rotation_ or the _Terrell–Penrose effect_.[78]
+streams out a black-hole-powered jet of electrons and other sub-atomic particles traveling at nearly the speed of light.]] Fig. 5‑4 illustrates a cube viewed from a distance of four times the length of its sides. At high speeds, the sides of the cube that are perpendicular to the direction of motion appear hyperbolic in shape. The cube is actually not rotated. Rather, light from the rear of the cube takes longer to reach one's eyes compared with light from the front, during which time the cube has moved to the right. This illusion has come to be known as _Terrell rotation_ or the _Terrell–Penrose effect_.[78]
 
 Another example where visual appearance is at odds with measurement comes from the observation of apparent superluminal motion in various radio galaxies, BL Lac objects, quasars, and other astronomical objects that eject relativistic-speed jets of matter at narrow angles with respect to the viewer. An apparent optical illusion results giving the appearance of faster than light travel.[79][80][81] In Fig. 5‑5, galaxy M87 streams out a high-speed jet of subatomic particles almost directly towards us, but Penrose–Terrell rotation causes the jet to appear to be moving laterally in the same manner that the appearance of the cube in Fig. 5‑4 has been stretched out.[82]
 
@@ -446,7 +442,7 @@ Geometry of spacetime
 
 Comparison between flat Euclidean space and Minkowski space
 
-Orthogonality_and_rotation.svg through circular angle _φ_, RIGHT: in Minkowski spacetime through hyperbolic angle _φ_ (red lines labelled _c_ denote the worldlines of a light signal, a vector is orthogonal to itself if it lies on this line).[102]]]
+through circular angle _φ_, RIGHT: in Minkowski spacetime through hyperbolic angle _φ_ (red lines labelled _c_ denote the worldlines of a light signal, a vector is orthogonal to itself if it lies on this line).[102]]]
 
 Special relativity uses a 'flat' 4-dimensional Minkowski space – an example of a spacetime. Minkowski spacetime appears to be very similar to the standard 3-dimensional Euclidean space, but there is a crucial difference with respect to time.
 
@@ -465,8 +461,6 @@ The actual form of _ds_ above depends on the metric and on the choices for the _
 Some authors use , with factors of _c_ elsewhere to compensate; for instance, spatial coordinates are divided by _c_ or factors of _c_^(±2) are included in the metric tensor.[104] These numerous conventions can be superseded by using natural units where . Then space and time have equivalent units, and no factors of _c_ appear anywhere.
 
 3D spacetime
-
-Special_relativity-_Three_dimensional_dual-cone.svg
 
 If we reduce the spatial dimensions to 2, so that we can represent the physics in a 3D space
 
@@ -492,7 +486,7 @@ so
 
 _d__x_₁² + _d__x_₂² + _d__x_₃² = _c_²_d__t_².
 
-Concentric_Spheres.svg As illustrated in Fig. 10‑3, the null geodesics can be visualized as a set of continuous concentric spheres with radii = _c dt_.
+As illustrated in Fig. 10‑3, the null geodesics can be visualized as a set of continuous concentric spheres with radii = _c dt_.
 
 This null dual-cone represents the "line of sight" of a point in space. That is, when we look at the stars and say "The light from that star which I am receiving is X years old", we are looking down this line of sight: a null geodesic. We are looking at an event a distance $d = \sqrt{x_1^2+x_2^2+x_3^2}$ away and a time _d/c_ in the past. For this reason the null dual cone is also known as the 'light cone'. (The point in the lower left of the Fig. 10‑2 represents the star, the origin represents the observer, and the line represents the null geodesic "line of sight".)
 

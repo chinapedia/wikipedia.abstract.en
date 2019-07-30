@@ -1,5 +1,3 @@
-A_Manhattan.jpg
-
 A MANHATTAN is a cocktail made with whisky, sweet vermouth and bitters. While rye is the traditional whiskey of choice, other commonly used whiskies include Canadian whisky, bourbon, blended whiskey and Tennessee whiskey. The cocktail is usually stirred then strained into a cocktail glass and garnished with a Maraschino cherry.[1][2] A Manhattan may also be served on the rocks in a lowball glass.
 
 The whiskey-based Manhattan is one of five cocktails named for a New York City borough. It is closely related to the Brooklyn cocktail,[3] which uses dry vermouth and Maraschino liqueur in place of the Manhattan's sweet vermouth, and Amer Picon in place of the Manhattan's angostura bitters.
@@ -27,7 +25,7 @@ On the small North Frisian island of Föhr, the Manhattan cocktail is a standard
 
 Variations
 
-Manhattan_cocktail.jpg]]
+]]
 
 Traditional views insist that a Manhattan be made with American rye whiskey. However it can also be made with bourbon or Canadian whisky. The Manhattan is subject to considerable variation and innovation, and is often a way for the best bartenders to show off their creativity.[13] Some shake the ingredients with ice in a cocktail shaker instead of stirring it, creating a froth on the surface of the drink. Angostura is the classic bitters, but orange bitters or Peychaud's Bitters may be used. Some make their own bitters and syrups, substitute comparable digestifs in place of vermouth, specialize in local or rare whiskeys, or use other exotic ingredients.[14] A lemon peel may be used as garnish. Some add juice from the cherry jar or Maraschino liqueur to the cocktail for additional sweetness and color.
 

@@ -13,8 +13,6 @@ Niels Henrik Abel was born in Nedstrand, Norway, as the second child of the past
 
 Niels Henrik Abel's father, Søren Georg Abel, had a degree in theology and philosophy and served as pastor at Finnøy. Søren's father, Niels's grandfather, Hans Mathias Abel, was also a pastor, at Gjerstad Church near the town of Risør. Søren had spent his childhood at Gjerstad, and had also served as chaplain there; and after his father's death in 1804, Søren was appointed pastor at Gjerstad and the family moved there. The Abel family originated in Schleswig and came to Norway in the 17th century.
 
-Gjerstad_kirke_or_Risør.jpg
-
 Anne Marie Simonsen was from Risør; her father, Niels Henrik Saxild Simonsen, was a tradesman and merchant ship-owner, and said to be the richest person in Risør. Anne Marie had grown up with two stepmothers, in relatively luxurious surroundings. At Gjerstad rectory, she enjoyed arranging balls and social gatherings. Much suggests she was early on an alcoholic and took little interest in the upbringing of the children. Niels Henrik and his brothers were given their schooling by their father, with handwritten books to read. An addition table in a book of mathematics reads: 1+0=0.[8]
 
 Cathedral School and Royal Frederick University
@@ -33,13 +31,9 @@ Abel graduated in 1822. His performance was exceptionally high in mathematics an
 
 Career
 
-Abel-kladd.jpg
-
 After he graduated, professors from university supported Abel financially, and Professor Christopher Hansteen let him live in a room in the attic of his home. Abel would later view Ms. Hansteen as his second mother. While living here, Abel helped his younger brother, Peder Abel, through examen artium. He also helped his sister Elisabeth to find work in the town.
 
 In early 1823, Niels Abel published his first article in "Magazin for Naturvidenskaberne", Norway's first scientific journal, which had been co-founded by Professor Hansteen. Abel published several articles, but the journal soon realized that this was not material for the common reader. In 1823, Abel also wrote a paper in French. It was "a general representation of the possibility to integrate all differential formulas" (_Norwegian: en alminnelig Fremstilling af Muligheten at integrere alle mulige Differential-Formler)_. He applied for funds at the university to publish it. However the work was lost, while being reviewed, never to be found thereafter.[13]
-
-Christine_Kemp.jpg
 
 In mid-1823, Professor Rasmussen gave Abel a gift of 100 speciedaler so he could travel to Copenhagen and visit Ferdinand Degen and other mathematicians there. While in Copenhagen, Abel did some work on Fermat's Last Theorem. Abel's uncle, Peder Mandrup Tuxen, lived at the naval base in Christianshavn, Copenhagen, and at a ball there Niels Abel met Christine Kemp, his future fiancée. In 1824, Christine moved to Son, Norway to work as a governess and the couple got engaged over Christmas.[14]
 

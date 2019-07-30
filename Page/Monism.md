@@ -1,4 +1,4 @@
-Monad.svg or The Absolute]]
+or The Absolute]]
 
 MONISM attributes oneness or singleness (Greek: μόνος) to a concept e.g., existence. Various kinds of monism can be distinguished:
 
@@ -34,7 +34,7 @@ Philosophy
 
 Types
 
-Dualism-vs-Monism.png Different types of monism include:[9]
+Different types of monism include:[9]
 
 1.  Substance monism, "the view that the apparent plurality of substances is due to different states or appearances of a single substance"
 2.  Attributive monism, "the view that whatever the number of substances, they are of a single ultimate kind"
@@ -149,7 +149,7 @@ Hinduism
 
 Vedanta
 
-_Adi Shankara with Disciples_, by Raja Ravi Varma (1904)|right|thumb|x216px Vedanta is the inquiry into and systematisation of the Vedas and Upanishads, to harmonise the various and contrasting ideas that can be found in those texts. Within Vedanta, different schools exist:[33]
+Vedanta is the inquiry into and systematisation of the Vedas and Upanishads, to harmonise the various and contrasting ideas that can be found in those texts. Within Vedanta, different schools exist:[33]
 
 -   Advaita Vedanta, absolute monism, of which Adi Shankara is the best-known representative;
 -   Vishishtadvaita, qualified monism, is from the school of Ramanuja;[34]

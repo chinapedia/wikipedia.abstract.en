@@ -11,7 +11,7 @@ The Economist Intelligence Unit has rated Jamaica as "flawed democracy" in 2016.
 
 Legislative branch
 
-Parliament.jm.jpg.]] Parliament is composed of an appointed Senate and an elected House of Representatives. Thirteen Senators are nominated on the advice of the prime minister and eight on the advice of the leader of the opposition; a two-thirds super-majority of both chambers is needed for major constitutional amendments. General elections must be held within five years of the forming of a new government.
+.]] Parliament is composed of an appointed Senate and an elected House of Representatives. Thirteen Senators are nominated on the advice of the prime minister and eight on the advice of the leader of the opposition; a two-thirds super-majority of both chambers is needed for major constitutional amendments. General elections must be held within five years of the forming of a new government.
 
 The prime minister may ask the governor-general to call elections sooner, however. The Senate may submit bills, and it also reviews legislation submitted by the House. It may not delay budget bills for more than one month or other bills for more than seven months. The prime minister and the Cabinet are selected from the Parliament. No fewer than two nor more than four members of the Cabinet must be selected from the Senate.
 

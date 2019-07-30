@@ -1,4 +1,4 @@
-Einscharpflug_-_Farmer_plowing_in_Fahrenwalde,_Mecklenburg-Vorpommern,_Germany.jpg Araire_13th.jpg, Royal Library of Spain]] Chikkagowdanakoppalu,_Yelwala.jpg Plough.JPG A PLOUGH (UK) or PLOW (US; both ) is a tool or farm implement used for initial cultivation to loosen or turn the soil in preparation for sowing seed or planting.[1] Ploughs were traditionally drawn by working animals such as oxen and horses, but in modern farms are drawn by tractors. A plough may be made of wood, iron, or steel frame with an attached blade or stick used to cut and loosen the soil. It has been a basic instrument for most of history[2], and is one of the most significant inventions. The earliest ploughs were wheelless, with the Romans using a wheelless plough called the _aratrum_, but Celtic peoples began using wheeled ploughs during the Roman era.[3]
+, Royal Library of Spain]] A PLOUGH (UK) or PLOW (US; both ) is a tool or farm implement used for initial cultivation to loosen or turn the soil in preparation for sowing seed or planting.[1] Ploughs were traditionally drawn by working animals such as oxen and horses, but in modern farms are drawn by tractors. A plough may be made of wood, iron, or steel frame with an attached blade or stick used to cut and loosen the soil. It has been a basic instrument for most of history[2], and is one of the most significant inventions. The earliest ploughs were wheelless, with the Romans using a wheelless plough called the _aratrum_, but Celtic peoples began using wheeled ploughs during the Roman era.[3]
 
 The primary purpose of ploughing is to turn over the upper layer of the soil,[4] bringing fresh nutrients to the surface,[5] while burying weeds and the remains of previous crops and allowing them to decay. As the plough is drawn through the soil, it creates long trenches of fertile soil called furrows. In modern use, a ploughed field is typically left to dry out, and is then harrowed before planting. Ploughing and cultivating a soil homogenises and modifies the upper to form a plough layer, where the majority of fine plant feeder roots grow.
 
@@ -9,8 +9,6 @@ Modern competitions take place for ploughing enthusiasts like the National Ploug
 
 Etymology
 
-Young_Folks'_History_of_Rome_illus090.png
-
 In older English, as in other Germanic languages, the plough was traditionally known by other names, e.g. Old English , Old High German , , , Old Norse (Swedish ), and Gothic , all presumably referring to the ard (scratch plough). The term plough, as used today, was not common until 1700.
 
 The modern word _plough_ comes from Old Norse , and therefore Germanic, but it appears relatively late (it is not attested in Gothic), and is thought to be a loanword from one of the north Italic languages. The German cognate is "Pflug", the Dutch is "ploeg" and the Swedish is "plog". In many Slavic languages and also Rumanian the word is "plug". Words with the same root appeared with related meanings: in Raetic "wheeled heavy plough" (Pliny, _Nat. Hist._ 18, 172), and in Latin "farm cart", "cart", and "cart box".[6][7] The word must have originally referred to the wheeled heavy plough, which was common in Roman northwestern Europe by the 5th century AD.[8]
@@ -20,7 +18,7 @@ Orel (2003)[9] tentatively attaches _plough_ to a PIE stem *__, which gave Armen
 
 Parts
 
-Old_plough_schema.svg Steel_plough%2C_Emly.jpg The diagram (_right_) shows the basic parts of the modern plough:
+The diagram (_right_) shows the basic parts of the modern plough:
 
 1.  beam
 2.  hitch (Brit: hake)
@@ -37,7 +35,7 @@ On modern ploughs and some older ploughs, the mouldboard is separate from the sh
 
 History
 
-Akkadian_seal_Agricultural_scene_Louvre_Museum.jpg seal, circa 2200 BC. Louvre Museum]]
+seal, circa 2200 BC. Louvre Museum]]
 
 Hoeing
 
@@ -45,7 +43,7 @@ When agriculture was first developed, soil was turned using simple hand-held dig
 
 Ard
 
-Maler_der_Grabkammer_des_Sennudem_001.jpg)]]
+)]]
 
 Some ancient hoes, like the Egyptian _mr_, were pointed and strong enough to clear rocky soil and make seed drills, which is why they are called _hand-ards_. However, the domestication of oxen in Mesopotamia and the Indus valley civilization, perhaps as early as the 6th millennium BC, provided mankind with the draft power necessary to develop the larger, animal-drawn true _ard_ (or scratch plough). The earliest evidence of a ploughed field in the world was found at the Indus Valley Civilization site of Kalibangan ().[11] Archeological finds in Prague, Czech Republic, push the oldest known ploughed field even further, to 3500–3800 BC.[12] A terracotta model of the early ards was found at Banawali, giving historians insight into the form of the tool.[13] The ard remains easy to replace if it were to become damaged and easy to find materials to recreate.[14]
 
@@ -53,7 +51,7 @@ The earliest was the _bow ard_, which consists of a _draft-pole_ (or _beam_) pie
 
 Mouldboard plough
 
-Child_and_ox_ploughing,_Laos_(1).jpg used for ploughing in Si Phan Don, Laos]]
+used for ploughing in Si Phan Don, Laos]]
 
 To grow crops regularly in less-fertile areas, it was once believed that the soil must be turned to bring nutrients to the surface. A major advance for this type of farming was the turnplough, also known as the mouldboard plough (UK), moldboard plow (US), or frame-plough. A _coulter_ (or _skeith_) could be added to cut vertically into the ground just ahead of the _share_ (in front of the _frog_), a wedge-shaped cutting edge at the bottom front of the _mouldboard_ with the landside of the frame supporting the undershare (below-ground component). The mouldboard plough was introduced in the 18th century and was a major advance in plough technology.[16]
 
@@ -65,7 +63,7 @@ In this way, a series of ploughing runs down a field leaves a row of sods that l
 
 The mouldboard plough greatly reduced the amount of time needed to prepare a field, and as a consequence, allowed a farmer to work a larger area of land. In addition, the resulting pattern of low (under the mouldboard) and high (beside it) ridges in the soil forms water channels, allowing the soil to drain. In areas where snow buildup causes difficulties, this lets farmers plant the soil earlier, as the snow runoff drains away more quickly.
 
-Mouldboard_plough.JPG There are five major parts of a mouldboard plough:
+There are five major parts of a mouldboard plough:
 
 1.  Mouldboard
 2.  Share
@@ -95,7 +93,7 @@ The frog (standard) is the central part of the plough bottom to which the other 
 
 A _runner_ extending from behind the share to the rear of the plough controls the direction of the plough, because it is held against the bottom land-side corner of the new furrow being formed. The holding force is the weight of the sod, as it is raised and rotated, on the curved surface of the mouldboard. Because of this runner, the mouldboard plough is harder to turn around than the scratch plough, and its introduction brought about a change in the shape of fields – from mostly square fields into longer rectangular "strips" (hence the introduction of the furlong).
 
-An advance on the basic design was the _iron ploughshare_, a replaceable horizontal cutting surface mounted on the tip of the share. The earliest ploughs with a detachable and replaceable share date from around 1000 BC in the Ancient Near East,[18] and the earliest iron ploughshares from in China.[19] Early mouldboards were basically wedges that sat inside the cut formed by the coulter, turning over the soil to the side. The ploughshare spread the cut horizontally below the surface, so when the mouldboard lifted it, a wider area of soil was turned over. Mouldboards are known in Britain from the late 6th century[20] on. Aratro_1849.jpg
+An advance on the basic design was the _iron ploughshare_, a replaceable horizontal cutting surface mounted on the tip of the share. The earliest ploughs with a detachable and replaceable share date from around 1000 BC in the Ancient Near East,[18] and the earliest iron ploughshares from in China.[19] Early mouldboards were basically wedges that sat inside the cut formed by the coulter, turning over the soil to the side. The ploughshare spread the cut horizontally below the surface, so when the mouldboard lifted it, a wider area of soil was turned over. Mouldboards are known in Britain from the late 6th century[20] on.
 
 Mouldboard plough type is usually determined by the method in which the plough is attached to the tractor and by the way it is lifted and carried. The basic types are:
 
@@ -137,15 +135,13 @@ Loy ploughing was a form of manual ploughing in Ireland, on small farms, where f
 
 Heavy ploughs
 
-ChineseIronPlow1637.jpg In the basic mouldboard plough the depth of the cut is adjusted by lifting against the runner in the furrow, which limited the weight of the plough to what the ploughman could easily lift. This limited the construction to a small amount of wood (although metal edges were possible). These ploughs were fairly fragile, and were not suitable for breaking up the heavier soils of northern Europe. The introduction of wheels to replace the runner allowed the weight of the plough to increase, and in turn allowed the use of a much larger mouldboard faced in metal. These _heavy ploughs_ led to greater food production and eventually a significant population increase beginning around 1000 AD.[25]
+In the basic mouldboard plough the depth of the cut is adjusted by lifting against the runner in the furrow, which limited the weight of the plough to what the ploughman could easily lift. This limited the construction to a small amount of wood (although metal edges were possible). These ploughs were fairly fragile, and were not suitable for breaking up the heavier soils of northern Europe. The introduction of wheels to replace the runner allowed the weight of the plough to increase, and in turn allowed the use of a much larger mouldboard faced in metal. These _heavy ploughs_ led to greater food production and eventually a significant population increase beginning around 1000 AD.[25]
 
 Before the Han Dynasty (202 BC – AD 220), Chinese ploughs were made almost entirely of wood, except the iron blade of the ploughshare. By the Han period, the entire ploughshare was made of cast iron; these are the first known heavy mouldboard iron ploughs.[26][27]
 
 The Romans achieved the heavy wheeled mouldboard plough in the late 3rd and 4th century AD, when archaeological evidence appears, inter alia, in Roman Britain.[28] The first indisputable appearance after the Roman period is from 643, in a northern Italian document. Old words connected with the heavy plough and its use appear in Slavic, suggesting possible early use in this region. The general adoption of the CARRUCA heavy plough in Europe appears to have accompanied the adoption of the three-field system in the later eighth and early ninth centuries, leading to an improvement of the agricultural productivity per unit of land in northern Europe. This was accompanied by larger fields as well, known variously as carucates, ploughlands, and ploughgates.
 
 Improved designs
-
-A_champion_ploughman_from_The_Powerhouse_Museum_Collection.jpg
 
 The basic plough, with coulter, ploughshare and mouldboard, remained in use for a millennium. Major changes in design did not become common until the Age of Enlightenment, when there was rapid progress in design. Joseph Foljambe in Rotherham, England, in 1730 used new shapes as the basis for the Rotherham plough, which also covered the mouldboard with iron.[29] Unlike the heavy plough, the Rotherham (or Rotherham swing) plough consisted entirely of the coulter, mouldboard and handles. It was much lighter than conventional designs and became very popular in England. It may have been the first plough to be widely built in factories and the first to be commercially successful.[30]
 
@@ -157,8 +153,6 @@ Improvements on this followed developments in metallurgy: steel coulters and sha
 
 Single-sided ploughing
 
-Ploughing_match_from_The_Powerhouse_Museum_Collection.jpg
-
 The first mouldboard ploughs could only turn the soil over in one direction (conventionally always to the right), as dictated by the shape of the mouldboard, and so the field had to be ploughed in long strips, or _lands_. The plough was usually worked clockwise around each land, ploughing the long sides and being dragged across the short sides without ploughing. The length of the strip was limited by the distance oxen (or later horses) could comfortably work without a rest, and their width by the distance the plough could conveniently be dragged. These distances determined the traditional size of the strips: a furlong, (or "furrow's length", ) by a chain () – an area of one acre (about 0.4 hectares); this is the origin of the acre. The one-sided action gradually moved soil from the sides to the centre line of the strip. If the strip was in the same place each year, the soil built up into a ridge, creating the ridge and furrow topography still seen in some ancient fields.
 
 Turnwrest plough
@@ -167,7 +161,7 @@ The turnwrest plough allows ploughing to be done to either side. The mouldboard 
 
 Reversible plough
 
-Vendeplog.jpg.]]
+.]]
 
 The reversible plough (or "rollover plow") has two mouldboard ploughs mounted back-to-back, one turning to the right, the other to the left. While one is working the land, the other is carried upside-down in the air. At the end of each row, the paired ploughs are turned over, so the other can be used. This returns along the next furrow, again working the field in a consistent direction.
 
@@ -178,8 +172,6 @@ Driving the tractor with the furrow-side wheels in the furrow bottom provides th
 Driving with all four wheels on unploughed land is another solution to the problem of wide tyres. Semi-mounted ploughs can be hitched in a way that allows the tractor to run on unbroken land and pull the plough in correct alignment without any sideways movement (crabbing).
 
 Riding and multiple-furrow ploughs
-
-OldPlow2006-05-21.JPG
 
 Early steel ploughs, like those for thousands of years prior, were _walking ploughs_, directed by the ploughman holding onto handles on either side of the plough. The steel ploughs were so much easier to draw through the soil that the constant adjustments of the blade to react to roots or clods was no longer necessary, as the plough could easily cut through them. Consequently, it was not long after that the first _riding ploughs_ appeared. On these, wheels kept the plough at an adjustable level above the ground, while the ploughman sat on a seat; whereas, with earlier ploughs the ploughman would have had to walk. Direction was now controlled mostly through the draught team, with levers allowing fine adjustments. This led very quickly to riding ploughs with multiple mouldboards, dramatically increasing ploughing performance.
 
@@ -195,7 +187,7 @@ John Deere, an Illinois, US blacksmith, noted that the ploughing of many sticky,
 
 Balance plough
 
-Heißdampf-Kipppflug.jpg The advent of the mobile steam engine allowed steam power to be applied to ploughing from about 1850. In Europe, soil conditions were often too soft to support the weight of heavy traction engines. Instead, counterbalanced, wheeled ploughs, known as _balance ploughs_, were drawn by cables across the fields by pairs of ploughing engines on opposite field edges, or by a single engine drawing directly towards it at one end and drawing away from it via a pulley at the other end. The balance plough had two sets of ploughs facing each other, arranged so when one was in the ground, the other set was lifted into the air. When pulled in one direction, the trailing ploughs were lowered onto the ground by the tension on the cable. When the plough reached the edge of the field, the other engine pulled the opposite cable, and the plough tilted (balanced), putting the other set of shares into the ground, and the plough worked back across the field.
+The advent of the mobile steam engine allowed steam power to be applied to ploughing from about 1850. In Europe, soil conditions were often too soft to support the weight of heavy traction engines. Instead, counterbalanced, wheeled ploughs, known as _balance ploughs_, were drawn by cables across the fields by pairs of ploughing engines on opposite field edges, or by a single engine drawing directly towards it at one end and drawing away from it via a pulley at the other end. The balance plough had two sets of ploughs facing each other, arranged so when one was in the ground, the other set was lifted into the air. When pulled in one direction, the trailing ploughs were lowered onto the ground by the tension on the cable. When the plough reached the edge of the field, the other engine pulled the opposite cable, and the plough tilted (balanced), putting the other set of shares into the ground, and the plough worked back across the field.
 
 One set of ploughs was right-handed, and the other left-handed, allowing continuous ploughing along the field, as with the turnwrest and reversible ploughs. The man credited with the invention of the ploughing engine and the associated balance plough, in the mid nineteenth century, was John Fowler, an English agricultural engineer and inventor.[33]
 
@@ -203,7 +195,7 @@ In America the firm soil of the Plains allowed direct pulling with steam tractor
 
 Stump-jump plough
 
-Disc_ploughs_from_The_Powerhouse_Museum_Collection.jpgs in Australia, c. 1900]]
+s in Australia, c. 1900]]
 
 The stump-jump plough was an Australian invention of the 1870s, designed to cope with the breaking up of new farming land, that contains many tree stumps and rocks that would be very expensive to remove. The plough uses a moveable weight to hold the ploughshare in position. When a tree stump or other obstruction such as a rock is encountered, the ploughshare is thrown upwards, clear of the obstacle, to avoid breaking the plough's harness or linkage; ploughing can be continued when the weight is returned to the earth after the obstacle is passed.
 
@@ -211,7 +203,7 @@ A simpler system, developed later, uses a concave disc (or a pair of them) set a
 
 Modern ploughs
 
-WWILandArmyPoster.jpg recruitment poster for the Women's Land Army.]]
+recruitment poster for the Women's Land Army.]]
 
 Modern ploughs are usually multiple reversible ploughs, mounted on a tractor via a three-point linkage.[34] These commonly have between two and as many as seven mouldboards – and _semi-mounted_ ploughs (the lifting of which is supplemented by a wheel about halfway along their length) can have as many as eighteen mouldboards. The hydraulic system of the tractor is used to lift and reverse the implement, as well as to adjust furrow width and depth. The ploughman still has to set the draughting linkage from the tractor so that the plough is carried at the proper angle in the soil. This angle and depth can be controlled automatically by modern tractors. As a complement to the rear plough a two or three mouldboards-plough can be mounted on the front of the tractor if it is equipped with front three-point linkage.
 
@@ -222,7 +214,7 @@ Chisel plough
 
 The _chisel plough_ is a common tool to get deep tillage (prepared land) with limited soil disruption. The main function of this plough is to loosen and aerate the soils while leaving crop residue at the top of the soil. This plough can be used to reduce the effects of compaction and to help break up ploughpan and hardpan. Unlike many other ploughs the chisel will not invert or turn the soil. This characteristic has made it a useful addition to no-till and low-till farming practices that attempt to maximise the erosion-prevention benefits of keeping organic matter and farming residues present on the soil surface through the year. Because of these attributes, the use of a chisel plough is considered by some to be more sustainable than other types of plough, such as the mouldboard plough.
 
-JDTractor_chisel-plough.jpg 8110 Farm Tractor using a chisel plough. The ploughing tines are at the rear; the refuse-cutting coulters at the front.]] Bigham_Brother_Tomato_Tiller.JPG
+8110 Farm Tractor using a chisel plough. The ploughing tines are at the rear; the refuse-cutting coulters at the front.]]
 
 Chisel ploughs are becoming more popular as a primary tillage tool in row crop farming areas. Basically the chisel plough is a very heavy duty field cultivator intended to operate at depths from 15 cm [6 in] to as much as 46 cm [18 in]. However some models may run much deeper. Each of the individual ploughs, or shanks, are typically set from nine inches (229 mm) to twelve inches (305 mm) apart. Such a plough can encounter significant soil drag, consequently a tractor of sufficient power and good traction is required. When planning to plough with a chisel plough it is important to bear in mind that 10 to 20 horsepower (7.5 to 15 kW) per shank will be required, depending on depth.
 

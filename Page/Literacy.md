@@ -1,4 +1,4 @@
-World_map_of_countries_by_literacy_rate.svg'') Grey = no data]] upright=1.35 Brain_pathways_for_mirror_discrimination_learning_during_literacy_acquisition.jpg
+'') Grey = no data]] upright=1.35
 
 Dictionaries traditionally define LITERACY as the ability to read and write.[1] In the modern world, this is one way of interpreting literacy. One more broad interpretation sees literacy as knowledge and competence in a specific area.[2] The concept of literacy has evolved in meaning. The modern term's meaning has been expanded to include the ability to use language, numbers, images, computers, and other basic means to understand, communicate, gain useful knowledge, solve mathematical problems and use the dominant symbol systems of a culture.[3] The concept of literacy is expanding across OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.[4] A person who travels and resides in a foreign country but is unable to read or write in the language of the host country would be regarded by the locals as illiterate.
 
@@ -11,15 +11,13 @@ Experts at a United Nations Educational, Scientific and Cultural Organization (U
 
 History
 
-Illiteracy_france.png
-
 Prehistoric and ancient literacy
 
 Origins of literacy
 
 Literacy emerged with the development of numeracy and computational devices as early as 8000 BCE. Script developed independently at least five times in human history Mesopotamia, Egypt, the Indus civilization, lowland Mesoamerica, and China.[8][9]
 
-Bill_of_sale_Louvre_AO3765.jpg, Sumerian tablet, circa 2600 BC]] The earliest forms of written communication originated in Serbia (Vinča culture), followed by Sumer, located in southern Mesopotamia about 3500-3000 BCE. During this era, literacy was "a largely functional matter, propelled by the need to manage the new quantities of information and the new type of governance created by trade and large scale production".[10] Writing systems in Mesopotamia first emerged from a recording system in which people used impressed token markings to manage trade and agricultural production.[11] The token system served as a precursor to early cuneiform writing once people began recording information on clay tablets. Proto-cuneiform texts exhibit not only numerical signs, but also ideograms depicting objects being counted.[12]
+, Sumerian tablet, circa 2600 BC]] The earliest forms of written communication originated in Serbia (Vinča culture), followed by Sumer, located in southern Mesopotamia about 3500-3000 BCE. During this era, literacy was "a largely functional matter, propelled by the need to manage the new quantities of information and the new type of governance created by trade and large scale production".[10] Writing systems in Mesopotamia first emerged from a recording system in which people used impressed token markings to manage trade and agricultural production.[11] The token system served as a precursor to early cuneiform writing once people began recording information on clay tablets. Proto-cuneiform texts exhibit not only numerical signs, but also ideograms depicting objects being counted.[12]
 
 Egyptian hieroglyphs emerged from 3300-3100 BCE and depicted royal iconography that emphasized power amongst other elites. The Egyptian hieroglyphic writing system was the first notation system to have phonetic values.
 
@@ -70,17 +68,17 @@ Modern literacy
 
 Spread of literacy since the mid-twentieth century
 
-Figure_1_Adult_literacy_rates_have_increased_Reading_the_past_writing_the_futureUPDATED.svg Literacy data published by UNESCO displays that since 1950, the adult literacy rate at the world level has increased by 5 percentage points every decade on average, from 55.7 per cent in 1950 to 86.2 per cent in 2015. However, for four decades, the population growth was so rapid that the number of illiterate adults kept increasing, rising from 700 million in 1950 to 878 million in 1990. Since then, the number has fallen markedly to 745 million in 2015, although it remains higher than in 1950 despite decades of universal education policies, literacy interventions and the spread of print material and information and communications technology (ICT). However, these trends have been far from uniform across regions.[29]
+Literacy data published by UNESCO displays that since 1950, the adult literacy rate at the world level has increased by 5 percentage points every decade on average, from 55.7 per cent in 1950 to 86.2 per cent in 2015. However, for four decades, the population growth was so rapid that the number of illiterate adults kept increasing, rising from 700 million in 1950 to 878 million in 1990. Since then, the number has fallen markedly to 745 million in 2015, although it remains higher than in 1950 despite decades of universal education policies, literacy interventions and the spread of print material and information and communications technology (ICT). However, these trends have been far from uniform across regions.[29]
 
 Regional disparities
 
-Available global data indicates significant variations in literacy rates between world regions. North America, Europe, West Asia, and Central Asia have achieved almost full adult literacy (individuals at or over the age of 15) for both men and women. Most countries in East Asia and the Pacific, as well as Latin America and the Caribbean, are above a 90% literacy rate for adults.[30] Illiteracy persists to a greater extent in other regions: 2013 UNESCO Institute for Statistics (UIS) data indicates adult literacy rates of only 67.55% in South Asia and North Africa, 59.76% in Sub-Saharan Africa.[31] Figure_5_Literacy_has_rapidly_spread_Reading_the_past_writing_the_future.svg In much of the world, high youth literacy rates suggest that illiteracy will become less and less common as younger generations with higher educational attainment levels replace older ones.[32] However, in sub-Saharan Africa and South Asia, where the vast majority of the world's illiterate youth live, lower school enrollment implies that illiteracy will persist to a greater degree.[33] According to 2013 UIS data, the youth literacy rate (individuals ages 15 to 24) is 84.03% in South Asia and North Africa, and 70.06% in Sub-Saharan Africa.[34]
+Available global data indicates significant variations in literacy rates between world regions. North America, Europe, West Asia, and Central Asia have achieved almost full adult literacy (individuals at or over the age of 15) for both men and women. Most countries in East Asia and the Pacific, as well as Latin America and the Caribbean, are above a 90% literacy rate for adults.[30] Illiteracy persists to a greater extent in other regions: 2013 UNESCO Institute for Statistics (UIS) data indicates adult literacy rates of only 67.55% in South Asia and North Africa, 59.76% in Sub-Saharan Africa.[31] In much of the world, high youth literacy rates suggest that illiteracy will become less and less common as younger generations with higher educational attainment levels replace older ones.[32] However, in sub-Saharan Africa and South Asia, where the vast majority of the world's illiterate youth live, lower school enrollment implies that illiteracy will persist to a greater degree.[33] According to 2013 UIS data, the youth literacy rate (individuals ages 15 to 24) is 84.03% in South Asia and North Africa, and 70.06% in Sub-Saharan Africa.[34]
 
 That being said, literacy has rapidly spread in several regions in the last twenty-five years (see image).[35]
 
 Gender disparities
 
-Figure_4_Progress_towards_gender_parity_Reading_the_past_writing_the_future.svg On a worldwide scale, illiteracy disproportionately impacts women.[36] According to 2015 UIS data collected by the UNESCO Institute for Statistics, about two-thirds (63%) of the world's illiterate adults are women. This disparity was even starker in previous decades: from 1970 to 2000, the global gender gap in literacy would decrease by roughly 50%.[37] In recent years, however, this progress has stagnated, with the remaining gender gap holding almost constant over the last two decades.[38] In general, the gender gap in literacy is not as pronounced as the regional gap; that is, differences between countries in overall literacy are often larger than gender differences within countries.[39] However, the gap between men and women would narrow from 1990 onwards, after the increase of male adult literacy rates at 80 per cent (see image).[40]
+On a worldwide scale, illiteracy disproportionately impacts women.[36] According to 2015 UIS data collected by the UNESCO Institute for Statistics, about two-thirds (63%) of the world's illiterate adults are women. This disparity was even starker in previous decades: from 1970 to 2000, the global gender gap in literacy would decrease by roughly 50%.[37] In recent years, however, this progress has stagnated, with the remaining gender gap holding almost constant over the last two decades.[38] In general, the gender gap in literacy is not as pronounced as the regional gap; that is, differences between countries in overall literacy are often larger than gender differences within countries.[39] However, the gap between men and women would narrow from 1990 onwards, after the increase of male adult literacy rates at 80 per cent (see image).[40]
 
 Sub-Saharan Africa, the region with the lowest overall literacy rates, also features the widest gender gap: just 52% of adult females are literate, and 68% among adult men. Similar gender disparity persists in two other regions, North Africa (86% adult male literacy, 70% adult female literacy) and South Asia (77% adult male literacy, 58% adult female literacy).[41]
 
@@ -185,25 +183,19 @@ Teaching non-native users
 
 Although there is considerable awareness that language deficiencies (lacking proficiency) are disadvantageous to immigrants settling in a new country, there appears to be a lack of pedagogical approaches that address the instruction of literacy to migrant English language learners (ELLs). Harvard scholar Catherine Snow (2001) called for a gap to be addresses: "The TESOL field needs a concerted research effort to inform literacy instruction for such children ... to determine when to start literacy instruction and how to adapt it to the LS reader's needs".[117] The scenario becomes more complex when there is no choice in such decisions as in the case of the current migration trends with citizens from the Middle East and Africa being relocated to English majority nations due to various political or social reasons. Recent developments to address the gap in teaching literacy to second or foreign language learners has been ongoing and promising results have been shown by Pearson and Pellerine (2010)[118] which integrates Teaching for Understanding, a curricular framework from the Harvard Graduate School of Education. A series of pilot projects had been carried out in the Middle East and Africa (see Patil, 2016).[119] In this work significant interest from the learners perspective have been noticed through the integration of visual arts as springboards for literacy oriented instruction. In one case migrant women had been provided with cameras and a walking tour of their local village was provided to the instructor as the women photographed their tour focusing on places and activities that would later be used for writings about their daily life. In essence a narrative of life. Other primers for writing activities include: painting, sketching, and other craft projects (e.g. gluing activities).
 
-Sample_sketch_of_milestone.jpg
-
 A series of pilot studies were carried out to investigate alternatives to instructing literacy to migrant ELLs,[120] starting from simple trials aiming to test the teaching of photography to participants with no prior photography background, to isolating painting and sketching activities that could later be integrated into a larger pedagogical initiative. In efforts to develop alternative approaches for literacy instruction utilising visual arts, work was carried out with Afghan labourers, Bangladeshi tailors, Emirati media students, internal Ethiopian migrants (both labourers and university students), and a street child.[121][122][123]
-
-Migrant_Woman_Reviewing_Photography,_Making_Seletions_for_Writing.jpeg
 
 It should be pointed out that in such challenging contexts sometimes the teaching of literacy may have unforeseen barriers. The _EL Gazette_ reported that in the trials carried out in Ethiopia, for example, it was found that all ten of the participants had problems with vision.[124] In order to overcome this, or to avoid such challenges, preliminary health checks can help inform pre-teaching in order to better assist in the teaching/learning of literacy.
 
 In a visual arts approach to literacy instruction a benefit can be the inclusion of both a traditional literacy approach (reading and writing) while at the same time addressing 21st Century digital literacy instruction through the inclusion of digital cameras and posting images onto the web. Many scholars[125] feel that the inclusion of digital literacy is necessary to include under the traditional umbrella of literacy instruction specifically when engaging second language learners. (Also see: Digital literacy.)[126]
 
-Other ways in which visual arts have been integrated into literacy instruction for migrant populations include integrating aspects of visual art with the blending of core curricular goals. Integrating_Content_for_Language_Instruction_to_MELLs.jpg
+Other ways in which visual arts have been integrated into literacy instruction for migrant populations include integrating aspects of visual art with the blending of core curricular goals.
 
 Teaching migrant/immigrant language users
 
 A more pressing challenge in education is the instruction of literacy to Migrant English Language Learners (MELLs), a term coined by Pellerine. It is not just limited to English. “Due to the growing share of immigrants in many Western societies, there has been increasing concern for the degree to which immigrants acquire language that is spoken in the destination country” (Tubergen 2006).[127] Remembering that teaching literacy to a native in their L1 can be challenging, and the challenge becomes more cognitively demanding when in a second language (L2), the task can become considerably more difficult when confronted with a migrant who has made a sudden change (migrated) and requires the second language upon arrival in the country of destination. In many instances a migrant will not have the opportunity, for many obvious reasons, to start school again at grade one and acquire the language naturally. In these situations alternative interventions need to take place.
 
 In working with illiterate people (and individuals with low-proficiency in an L2) following the composition of some artifact like in taking a photo, sketching an event, or painting an image, a stage of orality has been seen as an effective way to understand the intention of the learner.
-
-Including_Orality.jpg
 
 In the accompanying image from left to right a) an image taken during a phototour of the participant's village. This image is of the individual at her shop, and this is one of her products that she sells, dung for cooking fuel. The image helps the interlocutor understand the realities of the participants daily life and most importantly it allows the participant the opportunity to select what they feel is important to them. b) This is an image of a student explaining and elaborating the series of milestones in her life to a group. In this image the student had a very basic ability and with some help was able to write brief captions under the images. While she speaks a recording of her story takes place to understand her story and to help develop it in the L2. The third image is of a painting that had been used with a composite in Photoshop. With further training participants can learn how to blend images they would like to therefore introducing elements of digital literacies, beneficial in many spheres of life in the 21st century.[128]
 
@@ -223,8 +215,6 @@ More research would need to be conducted to confirm such trends.
 
 In bringing work together from students in culminating projects, authorship programs have been successful in bringing student work together in book format. Such artifacts can be used to both document learning, but more importantly reinforce language and content goals.
 
-Covers_for_Authorship_Initiatives_to_Promote_Literacy_via_Visual_Art_with_ELLs.jpg
-
 The culmination of such writings, into books can evoke both intrinsic and extrinsic motivation. Form feedback by students involved in such initiatives the responses have indicated that the healthy pressures of collective and collaborative work was beneficial.
 
 Importance
@@ -235,8 +225,6 @@ The _EL Gazette_ reviewed Pellerine's work with migrant English language learner
 
 
 By continent
-
-Figure_2_Most_illiterate_persons_in_South_Asia_and_Subsaharan_Africa_Reading_the_past_writing_the_future.svg
 
 Europe
 
@@ -250,7 +238,7 @@ Literacy is first documented in the area of modern England on 24 September 54 BC
 
 Wales
 
-Formal higher education in the arts and sciences in Wales, from the Middle Ages to the 18th century, was the preserve of the wealthy and the clergy. As in England, Welsh history and archaeological finds dating back to the Bronze Age reveal not only reading and writing, but also alchemy, botany, advanced maths and science. Following the Roman occupation and the conquest by the English, education in Wales was at a very low ebb in the early modern period; in particular, formal education was only available in English while the majority of the population spoke only Welsh. The first modern grammar schools were established in Welsh towns such as Ruthin, Brecon, and Cowbridge. One of the first modern national education methods to use the native Welsh language was started by Griffith Jones in 1731.[139] Jones was the rector of Llanddowror from 1716 and remained there for the rest of his life. He organized and introduced a Welsh medium circulating school system, which was attractive and effective for Welsh speakers, while also teaching them English, which gave them access to broader educational sources. The circulating schools may have taught half the country's population to read. Literacy rates in Wales by the mid-18th century were one of the highest. Adriaen_van_Ostade_007.jpg
+Formal higher education in the arts and sciences in Wales, from the Middle Ages to the 18th century, was the preserve of the wealthy and the clergy. As in England, Welsh history and archaeological finds dating back to the Bronze Age reveal not only reading and writing, but also alchemy, botany, advanced maths and science. Following the Roman occupation and the conquest by the English, education in Wales was at a very low ebb in the early modern period; in particular, formal education was only available in English while the majority of the population spoke only Welsh. The first modern grammar schools were established in Welsh towns such as Ruthin, Brecon, and Cowbridge. One of the first modern national education methods to use the native Welsh language was started by Griffith Jones in 1731.[139] Jones was the rector of Llanddowror from 1716 and remained there for the rest of his life. He organized and introduced a Welsh medium circulating school system, which was attractive and effective for Welsh speakers, while also teaching them English, which gave them access to broader educational sources. The circulating schools may have taught half the country's population to read. Literacy rates in Wales by the mid-18th century were one of the highest.
 
 Continental Europe
 
@@ -308,7 +296,7 @@ In the last 40 years, the rate of illiteracy in Mexico has been steadily decreas
 
 United States
 
-Farm_Security_Administration_school_in_Alabama_USA_1935.gif c. 1935]] Before the 20th century white illiteracy was not uncommon and many of the slave states made it illegal to teach slaves to read.[172] By 1900 the situation had improved somewhat, but 44% of black people remained illiterate. There were significant improvements for African American and other races in the early 20th century as the descendants of former slaves, who had had no educational opportunities, grew up in the post Civil War period and often had some chance to obtain a basic education. The gap in illiteracy between white and black adults continued to narrow through the 20th century, and in 1979 the rates were about the same.[173]
+c. 1935]] Before the 20th century white illiteracy was not uncommon and many of the slave states made it illegal to teach slaves to read.[172] By 1900 the situation had improved somewhat, but 44% of black people remained illiterate. There were significant improvements for African American and other races in the early 20th century as the descendants of former slaves, who had had no educational opportunities, grew up in the post Civil War period and often had some chance to obtain a basic education. The gap in illiteracy between white and black adults continued to narrow through the 20th century, and in 1979 the rates were about the same.[173]
 
 Full prose proficiency,[174] as measured by the ability to process complex and challenging material such as would be encountered in everyday life, is achieved by about 13% of the general, 17% of the white, and 2% of the African American population.[175][176] However 86% of the general population had basic or higher prose proficiency as of 2003, with a decrease distributed across all groups in the full proficiency group vs. 1992 of more than 10% consistent with trends, observed results in the SAT reading score to the present (2015).[177][178]
 
@@ -417,7 +405,7 @@ Asia
 
 Afghanistan
 
-Schoolgirls_in_Bamozai.JPG of Afghanistan]] Afghanistan has one of the lowest literacy rates in the world at 28.1% with males having a literacy rate of 43.1% and females with a literacy rate of 12.6%. The Afghan government considers someone literate if they are 15 years of age or older, and if they can read and write.[218] To improve the literacy rate U.S. military trainers have been teaching Afghan Army recruits how to read before teaching to fire a weapon. U.S. commanders in the region estimate that as many as 65% of recruits may be illiterate.[219]
+of Afghanistan]] Afghanistan has one of the lowest literacy rates in the world at 28.1% with males having a literacy rate of 43.1% and females with a literacy rate of 12.6%. The Afghan government considers someone literate if they are 15 years of age or older, and if they can read and write.[218] To improve the literacy rate U.S. military trainers have been teaching Afghan Army recruits how to read before teaching to fire a weapon. U.S. commanders in the region estimate that as many as 65% of recruits may be illiterate.[219]
 
 China
 
@@ -429,7 +417,7 @@ Literacy is defined by the Registrar General and Census Commissioner of India, a
 
 Laos
 
-Lao_schoolgirls_reading_books.jpg girls sit outside their school, each absorbed in reading a book they received at a rural school book party.]]
+girls sit outside their school, each absorbed in reading a book they received at a rural school book party.]]
 
 Laos has the lowest level of adult literacy in all of Southeast Asia other than East Timor.[223]
 
@@ -449,7 +437,7 @@ The data of the survey shows that in Khyber Pakhtunkhwa, primary school survival
 
 Philippines
 
-Baybayin_alpha.jpg Laguna_Copperplate_Inscription.gif Early Filipinos devised and used their own system of writings from 300 BC, which derived from the Brahmic family of scripts of Ancient India. Baybayin became the most widespread of these derived scripts by the 11th century.
+Early Filipinos devised and used their own system of writings from 300 BC, which derived from the Brahmic family of scripts of Ancient India. Baybayin became the most widespread of these derived scripts by the 11th century.
 
 Early chroniclers, who came during the first Spanish expeditions to the islands, noted the proficiency of some of the natives, especially the chieftain and local kings, in Sanskrit, Old Javanese, Old Malay, and several other languages.[226][227]
 
@@ -463,7 +451,7 @@ The DepEd, CHED, and other academic institutions encourage children to improve l
 
 Sri Lanka
 
-Sarachchandra_Theatre.jpg's Sarachchandra open-air theatre, named in memory of Ediriweera Sarachchandra, Sri Lanka's premier playwright.]] With a literacy rate of 92.5%,[228] Sri Lanka has one of the most literate populations amongst developing nations.[229] Its youth literacy rate stands at 98%,[230] computer literacy rate at 35%,[231] and primary school enrollment rate at over 99%.[232] An education system which dictates 9 years of compulsory schooling for every child is in place. The free education system established in 1945,[233] is a result of the initiative of C. W. W. Kannangara and A. Ratnayake.[234][235] It is one of the few countries in the world that provide universal free education from primary to tertiary stage.[236]
+'s Sarachchandra open-air theatre, named in memory of Ediriweera Sarachchandra, Sri Lanka's premier playwright.]] With a literacy rate of 92.5%,[228] Sri Lanka has one of the most literate populations amongst developing nations.[229] Its youth literacy rate stands at 98%,[230] computer literacy rate at 35%,[231] and primary school enrollment rate at over 99%.[232] An education system which dictates 9 years of compulsory schooling for every child is in place. The free education system established in 1945,[233] is a result of the initiative of C. W. W. Kannangara and A. Ratnayake.[234][235] It is one of the few countries in the world that provide universal free education from primary to tertiary stage.[236]
 
 Oceania
 

@@ -3,7 +3,7 @@ LACTOSE is a disaccharide. It is a sugar composed of galactose and glucose subun
 
 Structure and reactions
 
-Alpha-lactose-from-xtal-3D-balls.png.]]
+.]]
 
 Lactose is a disaccharide derived from the condensation of galactose and glucose, which form a β-1→4 glycosidic linkage. Its systematic name is β-D-galactopyranosyl-(1→4)-D-glucose. The glucose can be in either the α-pyranose form or the β-pyranose form, whereas the galactose can only have the β-pyranose form: hence α-lactose and β-lactose refer to the anomeric form of the glucopyranose ring alone.
 

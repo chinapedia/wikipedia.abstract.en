@@ -1,4 +1,4 @@
-Catnach_broomstick-wedding_1822.jpg.[1]]]
+.[1]]]
 
 JUMPING THE BROOM (or JUMPING THE BESOM) is a phrase and custom relating to a wedding ceremony where the couple jumps over a broom. It has been suggested that the custom is based on an 18th-century idiomatic expression for "sham marriage", "marriage of doubtful validity"; it was popularized in the context of the introduction of civil marriage in Britain with the Marriage Act 1836.
 
@@ -43,7 +43,7 @@ Local variations of the custom were developed in different parts of England and 
 
 African American custom
 
-Jumping_the_Broom2011.jpg In some African-American communities, marrying couples will end their ceremony by jumping over a broomstick, either together or separately. This practice is well attested for as a marriage ceremony for slaves in the Southern United States in the 1840s and 1850s who were often not permitted to wed legally. Its revival in 20th century African American culture is due to the novel and miniseries _Roots_ (1976, 1977).[28]
+In some African-American communities, marrying couples will end their ceremony by jumping over a broomstick, either together or separately. This practice is well attested for as a marriage ceremony for slaves in the Southern United States in the 1840s and 1850s who were often not permitted to wed legally. Its revival in 20th century African American culture is due to the novel and miniseries _Roots_ (1976, 1977).[28]
 
 Alan Dundes (1996) notes the unusual development of how "a custom which slaves were _forced_ to observe by their white masters has been revived a century later by African Americans as a treasured tradition".[29]
 

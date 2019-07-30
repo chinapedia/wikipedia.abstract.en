@@ -15,7 +15,7 @@ In 1928, a U.S. Army 'Caliber Board' conducted firing tests at Aberdeen Proving 
 
 However, senior American commanders having faced fanatical enemies and experienced major logistical problems during WWII and the Korean War,[20][21][22][23][24] insisted that a single powerful .30 caliber cartridge be developed, that could not only be used by the new automatic rifle, but by the new general-purpose machine gun (GPMG) in concurrent development.[25][26] This culminated in the development of the 7.62×51mm NATO cartridge.[27]
 
-AR10_Armalite_vue_d'ensemble.jpg The U.S. Army then began testing several rifles to replace the obsolete M1 Garand. Springfield Armory's T44E4 and heavier T44E5 were essentially updated versions of the Garand chambered for the new 7.62 mm round, while Fabrique Nationale submitted their FN FAL as the T48. ArmaLite entered the competition late, hurriedly submitting several AR-10 prototype rifles in the fall of 1956 to the U.S. Army's Springfield Armory for testing.[28] The AR-10 featured an innovative straight-line barrel/stock design, forged aluminum alloy receivers and with phenolic composite stocks.[29] It had rugged elevated sights, an oversized aluminum[30] flash suppressor and recoil compensator, and an adjustable gas system.[31] The final prototype featured an upper and lower receiver with the now-familiar hinge and takedown pins, and the charging handle was on top of the receiver placed inside of the carry handle.[32] For a 7.62mm NATO rifle, the AR-10 was incredibly lightweight at only 6.85 lb empty.[33] Initial comments by Springfield Armory test staff were favorable, and some testers commented that the AR-10 was the best lightweight automatic rifle ever tested by the Armory.[34][35] In the end the U.S. Army chose the T44 now named M14 rifle[36] which was an improved M1 Garand with a 20-round magazine and automatic fire capability.[37][38][39] The U.S. also adopted the M60 general purpose machine gun (GPMG).[40] Its NATO partners adopted the FN FAL and HK G3 rifles, as well as the FN MAG and Rheinmetall MG3 GPMGs.
+The U.S. Army then began testing several rifles to replace the obsolete M1 Garand. Springfield Armory's T44E4 and heavier T44E5 were essentially updated versions of the Garand chambered for the new 7.62 mm round, while Fabrique Nationale submitted their FN FAL as the T48. ArmaLite entered the competition late, hurriedly submitting several AR-10 prototype rifles in the fall of 1956 to the U.S. Army's Springfield Armory for testing.[28] The AR-10 featured an innovative straight-line barrel/stock design, forged aluminum alloy receivers and with phenolic composite stocks.[29] It had rugged elevated sights, an oversized aluminum[30] flash suppressor and recoil compensator, and an adjustable gas system.[31] The final prototype featured an upper and lower receiver with the now-familiar hinge and takedown pins, and the charging handle was on top of the receiver placed inside of the carry handle.[32] For a 7.62mm NATO rifle, the AR-10 was incredibly lightweight at only 6.85 lb empty.[33] Initial comments by Springfield Armory test staff were favorable, and some testers commented that the AR-10 was the best lightweight automatic rifle ever tested by the Armory.[34][35] In the end the U.S. Army chose the T44 now named M14 rifle[36] which was an improved M1 Garand with a 20-round magazine and automatic fire capability.[37][38][39] The U.S. also adopted the M60 general purpose machine gun (GPMG).[40] Its NATO partners adopted the FN FAL and HK G3 rifles, as well as the FN MAG and Rheinmetall MG3 GPMGs.
 
 The first confrontations between the AK-47 and the M14 came in the early part of the Vietnam War. Battlefield reports indicated that the M14 was uncontrollable in full-auto and that soldiers could not carry enough ammunition to maintain fire superiority over the AK-47.[41][42] And, while the M2 carbine offered a high rate of fire, it was under-powered and ultimately outclassed by the AK-47.[43] A replacement was needed: a medium between the traditional preference for high-powered rifles such as the M14, and the lightweight firepower of the M2 Carbine.
 
@@ -23,7 +23,7 @@ As a result, the Army was forced to reconsider a 1957 request by General Willard
 
 This request ultimately resulted in the development of a scaled-down version of the Armalite AR-10, named ArmaLite AR-15 rifle.[46][47][48] In the late 1950s, designer Eugene Stoner was completing his work on the AR-15. The AR-15 used .22-caliber bullets, which destabilized when they hit a human body, as opposed to the .30 round, which typically passed through in a straight line. The smaller caliber meant that it could be controlled in autofire due the reduced kick. Being almost one-third the weight of the .30 meant that the soldier could sustain fire for longer with the same load. Due to design innovations, the AR-15 could fire 600 to 700 rounds a minute with an extremely low jamming rate. Parts were stamped out, not hand-machined, so could be mass-produced, and the stock was plastic to reduce weight.[49]
 
-ArmaLite_AR-15_SPAR_3240_DEC._17._2004.png In 1958, the Army's Combat Developments Experimentation Command ran experiments with small squads in combat situations using the M14, AR-15, and another rifle designed by Winchester. The resulting study recommended adopting a lightweight rifle like the AR-15. In response, the Army declared that all rifles and machine guns should use the same ammunition, and ordered full production of the M-14.[50] However, advocates for the AR-15 gained the attention of Air Force Chief of Staff General Curtis Lemay. After testing the AR-15 with the ammunition manufactured by Remington that Armalite and Colt recommended, the Air Force declared that the AR-15 was its 'standard model' and ordered 8,500 rifles and 8.5 million rounds.[51] Advocates for the AR-15 in the Defense Advanced Research Projects Agency acquired 1,000 Air Force AR-15s and shipped them to be tested by the Army of the Republic of Vietnam (ARVN). The South Vietnam soldiers issued glowing reports of the weapon's reliability, recording zero broken parts while firing 80,000 rounds in one stage of testing, and requiring only two replacement parts for the 1,000 weapons over the entire course of testing. The report of the experiment recommended that the U.S. provide the AR-15 as the standard rifle of the ARVN, but Admiral Harry Felt, then Commander in Chief, Pacific Forces, rejected the recommendations on the advice of the U.S. Army.[52]
+In 1958, the Army's Combat Developments Experimentation Command ran experiments with small squads in combat situations using the M14, AR-15, and another rifle designed by Winchester. The resulting study recommended adopting a lightweight rifle like the AR-15. In response, the Army declared that all rifles and machine guns should use the same ammunition, and ordered full production of the M-14.[50] However, advocates for the AR-15 gained the attention of Air Force Chief of Staff General Curtis Lemay. After testing the AR-15 with the ammunition manufactured by Remington that Armalite and Colt recommended, the Air Force declared that the AR-15 was its 'standard model' and ordered 8,500 rifles and 8.5 million rounds.[51] Advocates for the AR-15 in the Defense Advanced Research Projects Agency acquired 1,000 Air Force AR-15s and shipped them to be tested by the Army of the Republic of Vietnam (ARVN). The South Vietnam soldiers issued glowing reports of the weapon's reliability, recording zero broken parts while firing 80,000 rounds in one stage of testing, and requiring only two replacement parts for the 1,000 weapons over the entire course of testing. The report of the experiment recommended that the U.S. provide the AR-15 as the standard rifle of the ARVN, but Admiral Harry Felt, then Commander in Chief, Pacific Forces, rejected the recommendations on the advice of the U.S. Army.[52]
 
 Throughout 1962 and 1963, the U.S. military extensively tested the AR-15. Positive evaluations emphasized its lightness, "lethality", and reliability.[53] However, the Army Materiel Command criticized its inaccuracy at longer ranges and lack of penetrating power at higher ranges.[54][55][56] In early 1963, the U.S. Special Forces asked, and was given permission, to make the AR-15 its standard weapon. Other users included Army Airborne units in Vietnam and some units affiliated with the Central Intelligence Agency. As more units adopted the AR-15, Secretary of the Army Cyrus Vance ordered an investigation into why the weapon had been rejected by the Army. The resulting report found that Army Materiel Command had rigged the previous tests, selecting tests that would favor the M14 and choosing match grade M14s to compete against AR-15s out of the box.[57] At this point, the bureaucratic battle lines were well-defined, with the Army ordnance agencies opposed to the AR-15 and the Air Force and civilian leadership of the Defense Department in favor.[58]
 
@@ -31,7 +31,7 @@ In January 1963, Secretary of Defense Robert McNamara concluded that the AR-15 w
 
 After modifications,[63] the new redesigned rifle was subsequently adopted as the M16 Rifle.[64][65][66] "(The M16) was much lighter compared to the M14 it replaced, ultimately allowing soldiers to carry more ammunition. The air-cooled, gas-operated, magazine-fed assault rifle was made of steel, aluminum alloy and composite plastics, truly cutting-edge for the time. Designed with full and semi-automatic capabilities, the weapon initially did not respond well to wet and dirty conditions, sometimes even jamming in combat. After a few minor modifications, the weapon gained in popularity among troops on the battlefield."[67][68][69]
 
-Sam16a1.jpg Despite its early failures the M16 proved to be a revolutionary design and stands as the longest continuously serving rifle in US military history.[70][71] It has been adopted by many US allies and the 5.56×45mm NATO cartridge has become not only the NATO standard, but "the standard assault-rifle cartridge in much of the world."[72][73][74] It also led to the development of small-caliber high-velocity service rifles by every major army in the world.[75] It is a benchmark against which other assault rifles are judged.[76][77][78]
+Despite its early failures the M16 proved to be a revolutionary design and stands as the longest continuously serving rifle in US military history.[70][71] It has been adopted by many US allies and the 5.56×45mm NATO cartridge has become not only the NATO standard, but "the standard assault-rifle cartridge in much of the world."[72][73][74] It also led to the development of small-caliber high-velocity service rifles by every major army in the world.[75] It is a benchmark against which other assault rifles are judged.[76][77][78]
 
 M16s were produced by Colt until the late 1980s, when FN Herstal began to manufacture them.[79]
 
@@ -45,7 +45,7 @@ However, despite overwhelming evidence that the AR-15 could bring more firepower
 
 In January 1963, Secretary McNamara received reports that M14 production was insufficient to meet the needs of the armed forces and ordered a halt to M14 production.[91] At the time, the AR-15 was the only rifle that could fulfill a requirement of a "universal" infantry weapon for issue to all services. McNamara ordered its adoption, despite receiving reports of several deficiencies, most notably the lack of a chrome-plated chamber.[92][93]
 
-101st_Airborne_Division_-_Vietnam_03.jpg in 1966]] Front_cover_-_the_M16A1_Rifle_-_Operation_and_Preventive_Maintenance_(art_by_Will_Eisner).jpg]] After modifications (most notably, the charging handle was re-located from under the carrying handle like AR-10 to the rear of the receiver),[94] the new redesigned rifle was renamed the _Rifle, Caliber 5.56 mm, M16_.[95][96] Inexplicably, the modification to the new M16 did not include a chrome-plated barrel. Meanwhile, the Army relented and recommended the adoption of the M16 for jungle warfare operations. However, the Army insisted on the inclusion of a forward assist to help push the bolt into battery in the event that a cartridge failed to seat into the chamber. The Air Force, Colt and Eugene Stoner believed that the addition of a forward assist was an unjustified expense. As a result, the design was split into two variants: the Air Force's M16 without the forward assist, and the XM16E1 with the forward assist for the other service branches.
+in 1966]] ]] After modifications (most notably, the charging handle was re-located from under the carrying handle like AR-10 to the rear of the receiver),[94] the new redesigned rifle was renamed the _Rifle, Caliber 5.56 mm, M16_.[95][96] Inexplicably, the modification to the new M16 did not include a chrome-plated barrel. Meanwhile, the Army relented and recommended the adoption of the M16 for jungle warfare operations. However, the Army insisted on the inclusion of a forward assist to help push the bolt into battery in the event that a cartridge failed to seat into the chamber. The Air Force, Colt and Eugene Stoner believed that the addition of a forward assist was an unjustified expense. As a result, the design was split into two variants: the Air Force's M16 without the forward assist, and the XM16E1 with the forward assist for the other service branches.
 
 In November 1963, McNamara approved the U.S. Army's order of 85,000 XM16E1s;[97][98] and to appease General LeMay, the Air Force was granted an order for another 19,000 M16s.[99][100] In March 1964, the M16 rifle went into production and the Army accepted delivery of the first batch of 2,129 rifles later that year, and an additional 57,240 rifles the following year.[101]
 
@@ -60,7 +60,7 @@ In 1969, the M16A1 officially replaced the M14 rifle to become the U.S. military
 
 Reliability
 
-M16_rifle_Firing_FM_23-9_Fig_2-7.png DIRECTM16.gif 101vietnam1969.jpg Carl_Witherspoon_Cleans_His_M-16_Rifle,_1969_(20730228222)_(cropped).jpg, Vietnam, 1969 ]]
+, Vietnam, 1969 ]]
 
 During the early part of its career, the M16 had a reputation for poor reliability and a malfunction rate of two per 1000 rounds fired.[117] The M16's action works by passing high pressure propellant gasses tapped from the barrel down a tube and into the carrier group within the upper receiver, and is commonly referred to as a "direct impingement gas system". The gas goes from the gas tube, through the bolt carrier key, and into the inside of the carrier where it expands in a donut shaped gas cylinder. Because the bolt is prevented from moving forward by the barrel, the carrier is driven to the rear by the expanding gases and thus converts the energy of the gas to movement of the rifle's parts. The back part of the bolt forms a piston head and the cavity in the bolt carrier is the piston sleeve. It is more correct to call it an "internal piston" system."[118] This design is much lighter and more compact than a gas-piston design. However, this design requires that combustion byproducts from the discharged cartridge be blown into the receiver as well. This accumulating carbon and vaporized metal build-up within the receiver and bolt-carrier negatively affects reliability and necessitates more intensive maintenance on the part of the individual soldier. The channeling of gasses into the bolt carrier during operation increases the amount of heat that is deposited in the receiver while firing the M16 and causes essential lubricant to be "burned off". This requires frequent and generous applications of appropriate lubricant.[119] Lack of proper lubrication is the most common source of weapon stoppages or jams .[120]
 
@@ -68,7 +68,7 @@ The original M16 fared poorly in the jungles of Vietnam and was infamous for rel
 
 When these issues were addressed and corrected by the M16A1, the reliability problems decreased greatly.[124] According to a 1968 Department of Army report, the M16A1 rifle achieved widespread acceptance by U.S. troops in Vietnam.[125] "Most men armed with the M16 in Vietnam rated this rifle's performance high, however, many men entertained some misgivings about the M16's reliability. When asked what weapon they preferred to carry in combat, 85 percent indicated that they wanted either the M16 or its [smaller] submachine gun version, the XM177E2." Also "the M14 was preferred by 15 percent, while less than one percent wished to carry either the Stoner rifle, the AK-47, the carbine or a pistol."[126] In March 1970, the "President's Blue Ribbon Defense Panel" concluded that the issuance of the M16 saved the lives of 20,000 U.S. servicemen during the Vietnam War, who would have otherwise died had the M14 remained in service.[127] However, the M16 rifle's reputation continues to suffer.[128][129]
 
-US_Army_on_partol_in_Sadr_City.jpg After the introduction of the M4 Carbine, it was found that the shorter barrel length of 14.5 inches also has a negative effect on reliability, as the gas port is located closer to the chamber than the gas port of the standard length M16 rifle: 7.5 inches instead of 13 inches.[130] This affects the M4's timing and increases the amount of stress and heat on the critical components, thereby reducing reliability.[131] In a 2002 assessment the USMC found that the M4 malfunctioned three times more often than the M16A4 (the M4 failed 186 times for 69,000 rounds fired, while the M16A4 failed 61 times).[132] Thereafter, the Army and Colt worked to make modifications to the M4s and M16A4s in order to address the problems found.[133] In tests conducted in 2005 and 2006 the Army found that on average, the new M4s and M16s fired approximately 5,000 rounds between stoppages.[134][135]
+After the introduction of the M4 Carbine, it was found that the shorter barrel length of 14.5 inches also has a negative effect on reliability, as the gas port is located closer to the chamber than the gas port of the standard length M16 rifle: 7.5 inches instead of 13 inches.[130] This affects the M4's timing and increases the amount of stress and heat on the critical components, thereby reducing reliability.[131] In a 2002 assessment the USMC found that the M4 malfunctioned three times more often than the M16A4 (the M4 failed 186 times for 69,000 rounds fired, while the M16A4 failed 61 times).[132] Thereafter, the Army and Colt worked to make modifications to the M4s and M16A4s in order to address the problems found.[133] In tests conducted in 2005 and 2006 the Army found that on average, the new M4s and M16s fired approximately 5,000 rounds between stoppages.[134][135]
 
 In December 2006, the Center for Naval Analyses (CNA) released a report on U.S. small arms in combat. The CNA conducted surveys on 2,608 troops returning from combat in Iraq and Afghanistan over the past 12 months. Only troops who had fired their weapons at enemy targets were allowed to participate. 1,188 troops were armed with M16A2 or A4 rifles, making up 46 percent of the survey. 75 percent of M16 users (891 troops) reported they were satisfied with the weapon. 60 percent (713 troops) were satisfied with handling qualities such as handguards, size, and weight. Of the 40 percent dissatisfied, most were with its size. Only 19 percent of M16 users (226 troops) reported a stoppage, while 80 percent of those that experienced a stoppage said it had little impact on their ability to clear the stoppage and re-engage their target. Half of the M16 users never experienced failures of their magazines to feed. 83 percent (986 troops) did not need their rifles repaired while in theater. 71 percent (843 troops) were confident in the M16's reliability, defined as level of soldier confidence their weapon will fire without malfunction, and 72 percent (855 troops) were confident in its durability, defined as level of soldier confidence their weapon will not break or need repair. Both factors were attributed to high levels of soldiers performing their own maintenance. 60 percent of M16 users offered recommendations for improvements. Requests included greater bullet lethality, new-built instead of rebuilt rifles, better quality magazines, decreased weight, and a collapsible stock. Some users recommended shorter and lighter weapons such as M4 carbine.[136] Some issues have been addressed with the issuing of the Improved STANAG magazine in March 2009,[137][138] and the M855A1 Enhanced Performance Round in June 2010.[139]
 
@@ -76,8 +76,6 @@ In early 2010, two journalists from _The New York Times_ spent three months with
 
 
 Design
-
-Rifle_5.56mm,_XM16E1,_Operation_and_Cycle_of_Functioning_TF9-3663.webm M16A1_brimob.jpg M16_Variants.jpg
 
 The M16 is a lightweight, 5.56 mm, air-cooled, gas-operated, magazine-fed assault rifle, with a rotating bolt. The M16's receivers are made of 7075 aluminum alloy, its barrel, bolt, and bolt carrier of steel, and its handguards, pistol grip, and buttstock of plastics.
 
@@ -103,8 +101,6 @@ Notes: Free recoil is mathematical equation calculated by using the rifle weight
 
 Sights
 
-1st_Lt._Keller_Fires_M16_(7637605542).jpg M16A2_rear_sight_in_front_side_P1010034.JPG
-
 The M16's most distinctive ergonomic feature is the carrying handle and rear sight assembly on top of the receiver. This is a by-product of the original design, where the carry handle served to protect the charging handle.[158] As the line of sight is over the bore, the M16 has an inherent parallax problem. At closer ranges (typically inside 15–20 meters), the shooter must compensate by aiming high to place shots where desired. The M16 has a 500 mm (19.75 inches) sight radius.[159] The M16 uses an L-type flip, aperture rear sight and it is adjustable with two settings: 0 to 300 meters and 300 to 400 meters.[160] The front sight is a post adjustable for elevation in the field. The rear sight can be adjusted in the field for windage. The sights can be adjusted with a bullet tip or pointed tool, as troops are trained to zero their own rifles. The sight picture is the same as the M14, M1 Garand, M1 Carbine and the M1917 Enfield. The M16 also has a "Low Light Level Sight System", which includes a front sight post with a weak light source provided by tritium radioluminescence in an embedded small glass vial and a larger aperture rear sight.[161]
 
 The M16 can also mount a scope on the carrying handle. With the advent of the M16A2, a new fully adjustable rear sight was added, allowing the rear sight to be dialed in for specific range settings between 300 and 800 meters and to allow windage adjustments without the need of a tool or cartridge.[162] Modern versions such as M16A4 have a detachable carrying handle and use Picatinny rails, which allows for the use of various scopes and sighting devices. The current U.S. Army and Air Force issue M4 Carbine comes with the M68 Close Combat Optic and Back-up Iron Sight.[163][164] The U.S. Marine Corps uses the ACOG Rifle Combat Optic[165][166] and the U.S. Navy uses EOTech Holographic Weapon Sight.[167]
@@ -128,8 +124,6 @@ Note *: The effective range of a firearm is the maximum distance at which a weap
 Note **: The horizontal range is the distance traveled by a bullet, fired from the rifle at a height of 1.6 meters and 0° elevation, until the bullet hits the ground.[186]
 Note ***: The lethal range is the maximum range of a small-arms projectile, while still maintaining the minimum energy required to put a man out of action, which is generally believed to be 15 kilogram-meters (108 ft.-Ibs.).[187] This is the equivalent of the muzzle energy of a .22LR handgun.[188]
 Note ****: The maximum range of a small-arms projectile is attained at about 30° elevation. This maximum range is only of safety interest, not for combat firing.[189]
-
-NATO_E-type_Silhouette_Target.PNG
 
   SINGLE-SHOT HIT-PROBABILITY ON CROUCHING MAN (NATO E-TYPE SILHOUETTE) TARGET[190]
   -----------------------------------------------------------------------------------
@@ -171,8 +165,6 @@ The M855A1 EPR may be green, and reports are still pretty thin, but it very well
 
 Magazines
 
-Stanag_mags.jpg Improved_M16_Magazine_Follower.jpg
-
 The M16's magazine was meant to be a lightweight, disposable item.[224][225] As such, it is made of pressed/stamped aluminum and was not designed to be durable.[226] The M16 originally used a 20-round magazine which was later replaced by a bent 30-round design. As a result, the magazine follower tends to rock or tilt, causing malfunctions.[227] Many non-U.S. and commercial magazines have been developed to effectively mitigate these shortcomings (e.g., H&K's all-stainless-steel magazine, Magpul's polymer P-MAG, etc.).[228][229]
 
 Production of the 30-round magazine started late 1967 but did not fully replace the 20-round magazine until the mid-1970s.[230] Standard USGI aluminum 30-round M16 magazines weigh empty and are long.[231][232] The newer plastic magazines are about a half inch longer.[233] The newer steel magazines are about 0.5 inch longer and four ounces heavier.[234] The M16's magazine has become the unofficial NATO STANAG magazine and is currently used by many Western Nations, in numerous weapon systems.[235][236]
@@ -183,8 +175,6 @@ In July 2016, the U.S. Army introduced another improvement, the new Enhanced Per
 
 Muzzle devices
 
-AR15_flash_suppressor.JPG
-
 Most M16 rifles have a barrel threaded in 1⁄2-28" threads to incorporate the use of a muzzle device such as a flash suppressor or sound suppressor.[241] The initial flash suppressor design had three tines or prongs and was designed to preserve the shooter's night vision by disrupting the flash. Unfortunately it was prone to breakage and getting entangled in vegetation. The design was later changed to close the end to avoid this and became known as the "A1" or "bird cage" flash suppressor on the M16A1. Eventually on the M16A2 version of the rifle, the bottom port was closed to reduce muzzle climb and prevent dust from rising when the rifle was fired in the prone position.[242] For these reasons, the U.S. military declared the A2 flash suppressor as a compensator or a muzzle brake; but it is more commonly known as the "GI" or "A2" flash suppressor.[243]
 
 The M16's Vortex Flash Hider weighs 3 ounces, is 2.25 inches long, and does not require a lock washer to attach to barrel.[244] It was developed in 1984, and is one of the earliest privately designed muzzle devices. The U.S. military uses the Vortex Flash Hider on M4 carbines and M16 rifles.[245][246] A version of the Vortex has been adopted by the Canadian Military for the Colt Canada C8 CQB rifle.[247] Other flash suppressors developed for the M16 include the Phantom Flash Suppressor by Yankee Hill Machine (YHM) and the KX-3 by Noveske Rifleworks.[248]
@@ -193,13 +183,13 @@ The threaded barrel allows sound suppressors with the same thread pattern to be 
 
 Grenade launchers and shotguns
 
-Loading_M203_40_mm_grenade_launcher_attached_to_an_M16_rifle.jpg attached to an M16 rifle with a practice round]]
+attached to an M16 rifle with a practice round]]
 
 All current M16 type rifles can mount under-barrel 40 mm grenade-launchers, such as the M203 and M320. Both use the same 40 mm grenades as the older, stand-alone M79 grenade launcher. The M16 can also mount under-barrel 12 gauge shotguns such as KAC Masterkey or the M26 Modular Accessory Shotgun System.
 
 Riot Control Launcher
 
-M234.png Combat_knife_attached_to_gun.jpg]]
+]]
 
 The M234 Riot Control Launcher is an M16-series rifle attachment firing an M755 blank round. The M234 mounts on the muzzle, bayonet lug and front sight post of the M16. It fires either the M734 64 mm Kinetic Riot Control or the M742 64 mm CSI Riot Control Ring Airfoil Projectiles. The latter produces a 4 to 5 foot tear gas cloud on impact. The main advantage to using Ring Airfoil Projectiles is that their design does not allow them be thrown back by rioters with any real effect. The M234 is no longer used by U.S. forces. It has been replaced by the M203 40 mm grenade launcher and nonlethal ammunition.
 
@@ -216,7 +206,7 @@ The M3 bipod continues to be referenced in at least one official manual as late 
 
 NATO standards
 
-Bundeswehr_shooting_M16.jpg soldiers of the 13th Panzergrenadier Division qualify with the M16A2 at Würzburg, as part of a partnership range with the U.S. 1st Infantry Division]] 4_IBCT_Soldiers_test_the_GREM_weapon_system_during_Vanguard_Focus_Exercise.ogv]]
+soldiers of the 13th Panzergrenadier Division qualify with the M16A2 at Würzburg, as part of a partnership range with the U.S. 1st Infantry Division]] ]]
 
 In March 1970, the U.S. recommended that all NATO forces adopt the 5.56×45mm cartridge.[255] This shift represented a change in the philosophy of the military's long-held position about caliber size. By the mid 1970s, other armies were looking at M16-style weapons. A NATO standardization effort soon started and tests of various rounds were carried out starting in 1977.[256] The U.S. offered the 5.56×45mm M193 round, but there were concerns about its penetration in the face of the wider introduction of body armor.[257] In the end the Belgian 5.56×45mm SS109 round was chosen (STANAG 4172) in October 1980.[258] The SS109 round was based on the U.S. cartridge but included a new stronger, heavier, 62 grain bullet design, with better long range performance and improved penetration (specifically, to consistently penetrate the side of a steel helmet at 600 meters).[259] Due to its design and lower muzzle velocity (about 3110 ft/s)[260] the Belgian SS109 round is considered more humane because it is less likely to fragment than the U.S. M193 round.[261] The NATO 5.56×45mm standard ammunition produced for U.S. forces is designated M855.
 
@@ -231,8 +221,6 @@ Currently, the M16 is in use by 15 NATO countries and more than 80 countries wor
 
 ArmaLite AR-15
 
-ArmaLite_AR-15_SPAR8367_DEC._20._2004.png Colt_ArmaLite_AR-15_Model_01_SPAR1372_DEC._22._2004.jpg Colt_ArmaLite_AR-15_Model_02_SPAR1373_DEC._22._2004.jpg
-
 ArmaLite AR-15
 
 The weapon that eventually became the M16 series was basically a scaled down AR-10 with an ambidextrous charging handle located within the carrying handle, a narrower front sight "A" frame, and no flash suppressor.[265]
@@ -246,15 +234,11 @@ Variants
 
 M16
 
-Armamento_-_Museo_de_Armas_de_la_Nación_05.JPG
-
 This was the first M16 variant adopted operationally, originally by the U.S. Air Force. It was equipped with triangular handguards, butt stocks without a compartment for the storage of a cleaning kit,[267] a three-pronged flash suppressor, full auto, and no forward assist. Bolt carriers were originally chrome plated and slick-sided, lacking forward assist notches. Later, the chrome plated carriers were dropped in favor of Army issued notched and parkerized carriers though the interior portion of the bolt carrier is still chrome-lined. The Air Force continued to operate these weapons until around 2001, at which time the Air Force converted all of its M16s to the M16A2 configuration.
 
 The M16 was also adopted by the British SAS, who used it during the Falklands War.[268]
 
 XM16E1 and M16A1 (Colt Model 603)
-
-M16A1_PVS-2.JPEG
 
 The U.S. Army XM16E1 was essentially the same weapon as the M16 with the addition of a forward assist and corresponding notches in the bolt carrier. The M16A1 was the finalized production model in 1967 and was produced until 1982.
 
@@ -264,7 +248,7 @@ With these and other changes, the malfunction rate slowly declined and new soldi
 
 M16A2
 
-M16A2_noBG.jpg M16_upper_right.jpg TANKSaimingin2041102.jpg, Iraq, 2004]]
+, Iraq, 2004]]
 
 The development of the M16A2 rifle was originally requested by the United States Marine Corps as a result of combat experience in Vietnam with the XM16E1 and M16A1. It was officially adopted by the Department of Defense as the "US Rifle, 5.56mm, M16A2" in 1982. The Marines were the first branch of the U.S. Armed Forces to adopt it, in the early/mid-1980s, with the United States Army following suit in the late 1980s.
 
@@ -280,7 +264,7 @@ The M16A3 is a modified version of the M16A2 adopted in small numbers by the U.S
 
 M16A4
 
-The_M16A4_Series_5.56mm_Rifle.jpg JGSDF_soldiers_at_Camp_Kinser_11-28-07.jpg soldiers training with their M16A4 rifles]]
+soldiers training with their M16A4 rifles]]
 
 The M16A4 is the fourth generation of the M16 series. It is equipped with a removable carrying handle and a full length quad Picatinny rail for mounting optics and other ancillary devices. The FN M16A4, using safe/semi/burst selective fire, became standard issue for the U.S. Marine Corps.
 
@@ -306,15 +290,13 @@ Derivatives
 
 Colt Commando (AKA: XM177 & GAU-5)
 
-CCTwithGAU-5.jpg
-
 In Vietnam, some soldiers were issued a carbine version of the M16 named XM177. The XM177 had a shorter barrel and a telescoping stock, which made it substantially more compact. It also possessed a combination flash hider/sound moderator to reduce problems with muzzle flash and loud report. The Air Force's GAU-5/A (XM177) and the Army's XM177E1 variants differed over the latter's inclusion of a forward assist, although some GAU-5s do have the forward assist. The final Air Force GAU-5/A and Army XM177E2 had an barrel with a longer flash/sound suppressor. The lengthening of the barrel was to support the attachment of Colt's own XM148 40 mm grenade launcher. These versions were also known as the Colt Commando model commonly referenced and marketed as the CAR-15. The variants were issued in limited numbers to special forces, helicopter crews, Air Force pilots, Air Force Security Police Military Working Dog (MWD) handlers, officers, radio operators, artillerymen, and troops other than front line riflemen. Some USAF GAU-5A/As were later equipped with even longer 1/12 rifled barrels as the two shorter versions were worn out. The barrel allowed the use of MILES gear and for bayonets to be used with the sub-machine guns (as the Air Force described them). By 1989, the Air Force started to replace the earlier barrels with 1/7 rifled models for use with the M855-round. The weapons were given the redesignation of GUU-5/P.
 
 These were effectively used by the British Special Air Service during the Falklands War.[287]
 
 M4 carbine
 
-SCRange20034344940.jpg (foreground) and two M16A2s (background) being fired by U.S. Marines during a live fire exercise: though adopted in the 1990s and derived from the M16A2, the M4 carbine was part of a long line of short-barreled AR-15 used in the U.S. military]]
+(foreground) and two M16A2s (background) being fired by U.S. Marines during a live fire exercise: though adopted in the 1990s and derived from the M16A2, the M4 carbine was part of a long line of short-barreled AR-15 used in the U.S. military]]
 
 The M4 carbine was developed from various outgrowths of these designs, including a number of -barreled A1 style carbines. The XM4 (Colt Model 727) started its trials in the mid-1980s, with a barrel of . Officially adopted as a replacement for the M3 "Grease Gun" (and the Beretta M9 and M16A2 for select troops) in 1994, it was used with great success in the Balkans and in more recent conflicts, including the Afghanistan and Iraq theaters. The M4 carbine has a three-round burst firing mode, while the M4A1 carbine has a fully automatic firing mode. Both have a Picatinny rail on the upper receiver, allowing the carry handle/rear sight assembly to be replaced with other sighting devices.
 
@@ -324,7 +306,7 @@ Colt also returned to the original "Commando" idea, with its Model 733, essentia
 
 Diemaco C7 and C8
 
-Canadian_C7A2_Rifle.JPGA2 sight. This particular example is missing the standard TRIAD mount.]]
+A2 sight. This particular example is missing the standard TRIAD mount.]]
 
 The Diemaco C7 and C8 are updated variants of the M16 developed and used by the Canadian Forces and are now manufactured by Colt Canada. The C7 is a further development of the experimental M16A1E1. Like earlier M16s, it can be fired in either semi-automatic or automatic mode, instead of the burst function selected for the M16A2. The C7 also features the structural strengthening, improved handguards, and longer stock developed for the M16A2. Diemaco changed the trapdoor in the buttstock to make it easier to access and a spacer of is available to adjust stock length to user preference. The most easily noticeable external difference between American M16A2s and Diemaco C7s is the retention of the A1 style rear sights. Not easily apparent is Diemaco's use of hammer-forged barrels. The Canadians originally desired to use a heavy barrel profile instead.
 
@@ -334,8 +316,6 @@ The C8 is the carbine version of the C7.[288] The C7 and C8 are also used by _H�
 
 Heckler & Koch HK416
 
-HK416.jpg
-
 The HECKLER & KOCH HK416 is an assault rifle designed and manufactured by Heckler & Koch. It is based on the M16, and was originally conceived as an improvement based on the Colt M4 carbine family issued to the U.S. military, with the notable inclusion of an HK-proprietary short-stroke gas piston system derived from the Heckler & Koch G36. The HK416 was used by U.S. Navy SEALs to kill Osama bin Laden.[289][290]
 
 Mk 4 Mod 0
@@ -344,13 +324,9 @@ The Mk 4 Mod 0 was a variant of the M16A1 produced for the U.S. Navy SEALs durin
 
 US Navy Mk 12 Special Purpose Rifle
 
-SPRCrane.jpg
-
 Developed to increase the effective range of soldiers in the designated marksman role, the U.S. Navy developed the Mark 12 Special Purpose Rifle (SPR). Configurations in service vary, but the core of the Mark 12 SPR is an 18" heavy barrel with muzzle brake and free float tube. This tube relieves pressure on the barrel caused by standard handguards and greatly increases the potential accuracy of the system. Also common are higher magnification optics ranging from the 6× power Trijicon ACOG to the Leupold Mark 4 Tactical rifle scopes. Firing Mark 262 Mod 0 ammunition with a 77gr Open tip Match bullet, the system has an official effective range of 600+ meters. However published reports of confirmed kills beyond 800 m from Iraq and Afghanistan are not uncommon.
 
 M231 Firing Port Weapon (FPW)
-
-M231_1.svg
 
 The M231 Firing Port Weapon (FPW) is an adapted version of the M16 assault rifle for firing from ports on the M2 Bradley. The infantry's normal M16s are too long for use in a "buttoned up" fighting vehicle, so the FPW was developed to provide a suitable weapon for this role.
 
@@ -376,13 +352,11 @@ Others
 
 Production and users
 
-M16_operators_of_the_world.svg
-
 The M16 is the most commonly manufactured 5.56×45mm rifle in the world. Currently, the M16 is in use by 15 NATO countries and more than 80 countries worldwide. Together, numerous companies in the United States, Canada, and China have produced more than 8,000,000 rifles of all variants. Approximately 90% are still in operation.[296] The M16 replaced both the M14 rifle and M2 carbine as standard infantry rifle of the U.S. armed forces. Although, the M14 continues to see limited service, mostly in sniper, designated marksman, and ceremonial roles.
 
 Users
 
-140311-M-YZ032-904_(13218013143).jpg soldiers with M16A2 rifles]] LAV3patrol.jpg CARAT_Malaysia_2008_(080715-N-4431B-568).jpg during a CARAT Malaysia 2008]] Peshmerga_soldier.jpg soldier with his modified M16A4 rifle]] Flickr_-_Israel_Defense_Forces_-_Female_Soldiers_Practice_Shooting_(1).jpg in training with M16A1 rifles with M16A2 handguards]] Monaco-military-02.JPG Carabinier with M16 rifle]] RP_Marines_assault_line_DM-SD-06-10463.JPEG 2013.10.1_건군_제65주년_국군의_날_행사_The_celebration_ceremony_for_the_65th_Anniversary_of_ROK_Armed_Forces_(10078325636).jpg ARVN_Rangers_defend_Saigon,_Tet_Offensive.jpg armed with M16s defend Saigon during the Tet Offensive]] US_Marine_M16A4_Rifle_ACOG.jpg]]
+soldiers with M16A2 rifles]] during a CARAT Malaysia 2008]] soldier with his modified M16A4 rifle]] in training with M16A1 rifles with M16A2 handguards]] Carabinier with M16 rifle]] armed with M16s defend Saigon during the Tet Offensive]] ]]
 
 -   : Standard issue rifle of the Afghan National Army.[297] Colt Canada C7 variants also saw limited service.
 

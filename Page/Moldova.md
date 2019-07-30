@@ -1,8 +1,6 @@
 {{Infobox country | conventional_long_name = Republic of Moldova | common_name = Moldova | native_name = | image_flag = Flag of Moldova.svg | image_coat = Coat of arms of Moldova.svg | national_anthem = "Limba Noastră"
 ()
 
-File:Imnul Republicii Moldova US NAVY.ogg
-
 | image_map = Location Moldova Europe.png | map_caption = | image_map2 = Moldova - Location Map (2013) - MDA - UNOCHA.svg | capital = Chișinău | coordinates = | largest_city = capital | official_languages = Romanian (also named Moldovan)^(a)[1][2][3] | regional_languages = | languages_type = Inter-ethnic languages | languages = Russian[4][5][6] | ethnic_groups = 75.1% Moldovan
 7.0% Romanian
 6.6% Ukrainian
@@ -41,13 +39,13 @@ In 2010 N.K. Anisjutkin discovered Oldowan flint tools at Bayraki that are 800,0
 
 Antiquity and the early Middle Ages
 
-Bulgaria-Ivan_Asen_2.png under Ivan Asen II]]
+under Ivan Asen II]]
 
 In antiquity, Moldova's territory was inhabited by Dacian tribes. Between the 1st and 7th centuries AD, the south was intermittently under the Roman, and then Byzantine Empires. Due to its strategic location on a route between Asia and Europe, the territory of modern Moldova was invaded many times in late antiquity and the early Middle Ages, including by Goths, Huns, Avars, Bulgarians, Magyars, Pechenegs, Cumans, Mongols and Tatars.
 
 Friar William of Rubruck, who visited the court of the Great Khan in the 1250s, listed "the Blac",[18] or Vlachs, among the peoples who paid tribute to the Mongols, but the Vlachs' territory is uncertain. Rubruck described "Blakia" as "Assan's territory"[19] south of the Lower Danube, showing that he identified it with the northern regions of the Second Bulgarian Empire.
 
-Bolohoveni_land_from_A.V._Boldur_description.PNG peoples.]]
+peoples.]]
 
 The Bolohoveni, a Vlach population, is mentioned by the Hypatian Chronicle in the 13th century. The chronicle shows that this land is bordered on the principalities of Halych, Volhynia and Kiev. Archaeological research also identified the location of 13th-century fortified settlements in this region. Alexandru V. Boldur identified Voscodavie, Voscodavti, Voloscovti, Volcovti, Volosovca and their other towns and villages between the middle course of the rivers Nistru/Dniester and Nipru/Dnieper.[20] The Bolohoveni disappeared from chronicles after their defeat in 1257 by Daniel of Galicia's troops.
 
@@ -57,11 +55,11 @@ On the border between Halych and the Brodniks, in the 11th century, a Viking by 
 
 Founding of the Principality of Moldavia
 
-MoldavianPrincipalityPhysical.jpg and the modern boundaries of Moldova, Ukraine, and Romania.]] The founding of the Principality of Moldavia began with the arrival of a Vlach voivode (military leader), Dragoș, soon followed by his people from Maramureș to the region of the Moldova River. Dragoș established a polity there as a vassal to the Kingdom of Hungary in the 1350s. The independence of the Principality of Moldavia was gained when Bogdan I, another Vlach voivode from Maramureș who had fallen out with the Hungarian king, crossed the Carpathian mountains in 1359 and took control of Moldavia, wresting the region from Hungary. The Principality of Moldavia was bounded by the Carpathian Mountains in the west, the Dniester River in the east, and the Danube River and Black Sea to the south. Its territory comprised the present-day territory of the Republic of Moldova, the eastern eight counties of Romania, and parts of the Chernivtsi Oblast and Budjak region of Ukraine. Like the present-day republic and Romania's north-eastern region, it was known to the locals as _Moldova_.
+and the modern boundaries of Moldova, Ukraine, and Romania.]] The founding of the Principality of Moldavia began with the arrival of a Vlach voivode (military leader), Dragoș, soon followed by his people from Maramureș to the region of the Moldova River. Dragoș established a polity there as a vassal to the Kingdom of Hungary in the 1350s. The independence of the Principality of Moldavia was gained when Bogdan I, another Vlach voivode from Maramureș who had fallen out with the Hungarian king, crossed the Carpathian mountains in 1359 and took control of Moldavia, wresting the region from Hungary. The Principality of Moldavia was bounded by the Carpathian Mountains in the west, the Dniester River in the east, and the Danube River and Black Sea to the south. Its territory comprised the present-day territory of the Republic of Moldova, the eastern eight counties of Romania, and parts of the Chernivtsi Oblast and Budjak region of Ukraine. Like the present-day republic and Romania's north-eastern region, it was known to the locals as _Moldova_.
 
 Between Poland and Hungary
 
-Polska_1386_-_1434.png and the Grand Duchy of Lithuania between 1386 and 1434 showing the Principality of Moldavia as a Polish fief.]]
+and the Grand Duchy of Lithuania between 1386 and 1434 showing the Principality of Moldavia as a Polish fief.]]
 
 The history of what is today Moldova has been intertwined with that of Poland for centuries. The Polish chronicler Jan Długosz mentioned Moldavians (under the name _Wallachians_) as having joined a military expedition in 1342, under King Ladislaus I, against the Margraviate of Brandenburg.[22] The Polish state was powerful enough to counter the Hungarian Kingdom which was consistently interested in bringing the area that would become Moldova into its political orbit.
 
@@ -93,7 +91,7 @@ Over the 19th century, the Russian authorities encouraged the colonization of Be
 
 Russian Revolution and Greater Romania
 
-Greater_Romania.svg between 1920 and 1940.]] World War I brought in a rise in political and cultural (ethnic) awareness among the inhabitants of the region, as 300,000 Bessarabians were drafted into the Russian Army formed in 1917; within bigger units several "Moldavian Soldiers' Committees" were formed. Following the Russian Revolution of 1917, a Bessarabian parliament, Sfatul Țării (a National Council), was elected in October–November 1917 and opened on . The Sfatul Țării proclaimed the Moldavian Democratic Republic () within a federal Russian state, and formed a government ().
+between 1920 and 1940.]] World War I brought in a rise in political and cultural (ethnic) awareness among the inhabitants of the region, as 300,000 Bessarabians were drafted into the Russian Army formed in 1917; within bigger units several "Moldavian Soldiers' Committees" were formed. Following the Russian Revolution of 1917, a Bessarabian parliament, Sfatul Țării (a National Council), was elected in October–November 1917 and opened on . The Sfatul Țării proclaimed the Moldavian Democratic Republic () within a federal Russian state, and formed a government ().
 
 Bessarabia proclaimed independence from Russia on and requested the assistance of the French army present in Romania (general Henri Berthelot) and of the Romanian army, which had occupied the region in early January at the request of the National Council.[34] On , the Sfatul Țării decided with 86 votes for, 3 against and 36 abstaining, to unite with the Kingdom of Romania. The union was conditional upon fulfillment of the agrarian reform, autonomy, and respect for universal human rights.[35] A part of the interim Parliament agreed to drop these conditions after Bukovina and Transylvania also joined the Kingdom of Romania, although historians note that they lacked the quorum to do so.[36][37][38][39][40]
 
@@ -103,19 +101,19 @@ In May 1919, the Bessarabian Soviet Socialist Republic was proclaimed as a gover
 
 World War II and Soviet era
 
-"Monument_to_the_villagers_who_died_in_World_War_II,_the_village_Cojusna,_Straseni_District"_(80-ies_famous)._(6177439670).jpg, the village Cojușna, Strășeni District.]]
+, the village Cojușna, Strășeni District.]]
 
 In August 1939, the Molotov–Ribbentrop Pact and its secret additional protocol were signed, by which Nazi Germany recognized Bessarabia as being within the Soviet sphere of influence, which led the latter to actively revive its claim to the region.[44] On 28 June 1940, the Soviet Union issued an ultimatum to Romania requesting the cession of Bessarabia and northern Bukovina, with which Romania complied the following day. Soon after, the Moldavian Soviet Socialist Republic (Moldavian SSR, MSSR) was established,[45] comprising about 65% of Bessarabia, and 50% of the now-disbanded Moldavian ASSR. Ethnic Germans left in 1940.
 
 As part of the 1941 Axis invasion of the Soviet Union, Romania regained the territories of Bessarabia and northern Bukovina, and seized Transnistria. Romanian forces, working with the Germans, deported or massacred about 300,000 Jews, including 147,000 from Bessarabia and Bukovina. Of the latter, approximately 90,000 died.[46] The Soviet Army re-captured the region in February–August 1944, and re-established the Moldavian SSR. Between the end of the Jassy–Kishinev Offensive in August 1944 and the end of the war in May 1945, 256,800 inhabitants of the Moldavian SSR were drafted into the Soviet Army. 40,592 of them perished.[47]
 
-Bundesarchiv_Bild_137-065360,_Bessarabien,_Abtransport_von_Umsiedlern.jpg resettling after the Soviet occupation of Bessarabia in 1940.]] During the periods 1940–1941 and 1944–1953, deportations of locals to the northern Urals, to Siberia, and northern Kazakhstan occurred regularly, with the largest ones on 12–13 June 1941, and 5–6 July 1949, accounting from MSSR alone for 18,392 and 35,796 deportees respectively.[48] Other forms of Soviet persecution of the population included political arrests or, in 8,360 cases, execution.
+resettling after the Soviet occupation of Bessarabia in 1940.]] During the periods 1940–1941 and 1944–1953, deportations of locals to the northern Urals, to Siberia, and northern Kazakhstan occurred regularly, with the largest ones on 12–13 June 1941, and 5–6 July 1949, accounting from MSSR alone for 18,392 and 35,796 deportees respectively.[48] Other forms of Soviet persecution of the population included political arrests or, in 8,360 cases, execution.
 
 In 1946, as a result of a severe drought and excessive delivery quota obligations and requisitions imposed by the Soviet government, the southwestern part of the USSR suffered from a major famine.[49][50] In 1946–1947, at least 216,000 deaths and about 350,000 cases of dystrophy were accounted by historians in the Moldavian SSR alone.[51] Similar events occurred in the 1930s in the Moldavian ASSR.[52] In 1944–53, there were several anti-Soviet resistance groups in Moldova; however the NKVD and later MGB managed to eventually arrest, execute or deport their members.[53]
 
 In the postwar period, the Soviet government organized the immigration of working age Russian speakers (mostly Russians, Belarusians, and Ukrainians), into the new Soviet republic, especially into urbanized areas, partly to compensate for the demographic loss caused by the war and the emigration of 1940 and 1944.[54] In the 1970s and 1980s, the Moldavian SSR received substantial allocations from the budget of the USSR to develop industrial and scientific facilities and housing. In 1971, the Council of Ministers of the USSR adopted a decision "About the measures for further development of the city of Kishinev" (modern Chișinău), that allotted more than one billion Soviet rubles (approximately 6.8 billion in 2018 US dollars) from the USSR budget for building projects.[55]
 
-Center_Balti_-_2_(1985)._(18203012941).jpg in Soviet Moldavia in 1985]] The Soviet government conducted a campaign to promote a Moldovan ethnic identity distinct from that of the Romanians, based on a theory developed during the existence of the Moldavian ASSR. Official Soviet policy asserted that the language spoken by Moldovans was distinct from the Romanian language (see Moldovenism). To distinguish the two, during the Soviet period, Moldovan was written in the Cyrillic alphabet, in contrast with Romanian, which since 1860 had been written in the Latin alphabet.
+in Soviet Moldavia in 1985]] The Soviet government conducted a campaign to promote a Moldovan ethnic identity distinct from that of the Romanians, based on a theory developed during the existence of the Moldavian ASSR. Official Soviet policy asserted that the language spoken by Moldovans was distinct from the Romanian language (see Moldovenism). To distinguish the two, during the Soviet period, Moldovan was written in the Cyrillic alphabet, in contrast with Romanian, which since 1860 had been written in the Latin alphabet.
 
 All independent organizations were severely reprimanded, with the National Patriotic Front leaders being sentenced in 1972 to long prison terms.[56] The Commission for the Study of the Communist Dictatorship in Moldova is assessing the activity of the communist totalitarian regime.
 
@@ -123,7 +121,7 @@ In the 1980s, amid political conditions created by the glasnost and perestroika,
 
 Independence
 
-Gheorghe_Ghimpu_arboreaza_Tricolorul.jpg replaces the Soviet flag on the Parliament with the Romanian flag on 27 April 1990.]]
+replaces the Soviet flag on the Parliament with the Romanian flag on 27 April 1990.]]
 
 The first democratic elections for the local parliament were held in February and March 1990. Mircea Snegur was elected as Speaker of the Parliament, and Mircea Druc as Prime Minister. On 23 June 1990, the Parliament adopted the Declaration of Sovereignty of the "Soviet Socialist Republic Moldova", which, among other things, stipulated the supremacy of Moldovan laws over those of the Soviet Union.[61] After the failure of the 1991 Soviet coup d'état attempt, Moldova declared its independence on 27 August 1991.
 
@@ -135,7 +133,7 @@ On 2 January 1992, Moldova introduced a market economy, liberalizing prices, whi
 
 In the 1994 parliamentary elections, the Democratic Agrarian Party gained a majority of the seats, setting a turning point in Moldovan politics. With the nationalist Popular Front now in a parliamentary minority, new measures aiming to moderate the ethnic tensions in the country could be adopted. Plans for a union with Romania were abandoned,[66] and the new Constitution gave autonomy to the breakaway Transnistria and Gagauzia. On 23 December 1994, the Parliament of Moldova adopted a "Law on the Special Legal Status of Gagauzia", and in 1995 the latter was constituted.
 
-Chisinau_riot_2009-04-07_02.jpg outside the Parliament building in 2009.]] After winning the 1996 presidential elections, on 15 January 1997, Petru Lucinschi, the former First Secretary of the Moldavian Communist Party in 1989–91, became the country's second president (1997–2001), succeeding Mircea Snegur (1991–1996). In 2000, the Constitution was amended, transforming Moldova into a parliamentary republic, with the president being chosen through indirect election rather than direct popular vote.
+outside the Parliament building in 2009.]] After winning the 1996 presidential elections, on 15 January 1997, Petru Lucinschi, the former First Secretary of the Moldavian Communist Party in 1989–91, became the country's second president (1997–2001), succeeding Mircea Snegur (1991–1996). In 2000, the Constitution was amended, transforming Moldova into a parliamentary republic, with the president being chosen through indirect election rather than direct popular vote.
 
 Winning 49.9% of the vote, the Party of Communists of the Republic of Moldova (reinstituted in 1993 after being outlawed in 1991), gained 71 of the 101 MPs, and on 4 April 2001, elected Vladimir Voronin as the country's third president (re-elected in 2005). The country became the first post-Soviet state where a non-reformed Communist Party returned to power.[67] New governments were formed by Vasile Tarlev (19 April 2001 – 31 March 2008), and Zinaida Greceanîi (31 March 2008 – 14 September 2009). In 2001–2003 relations between Moldova and Russia improved, but then temporarily deteriorated in 2003–2006, in the wake of the failure of the Kozak memorandum, culminating in the 2006 wine exports crisis. The Party of Communists of the Republic of Moldova managed to stay in power for eight years. The fragmentation of the liberal bloc helped consolidate its power. The decline of the Communist Party started in 2009 after Marian Lupu joined the Democratic Party.[68]
 
@@ -154,11 +152,11 @@ In 2019, from 7 June to 15 June, the Moldovan government went through a period o
 
 Government
 
-Parliament_Building_in_Chișinău.jpg]]
+]]
 
 Moldova is a unitary parliamentary representative democratic republic. The 1994 Constitution of Moldova sets the framework for the government of the country. A parliamentary majority of at least two-thirds is required to amend the Constitution of Moldova, which cannot be revised in time of war or national emergency. Amendments to the Constitution affecting the state's sovereignty, independence, or unity can only be made after a majority of voters support the proposal in a referendum. Furthermore, no revision can be made to limit the fundamental rights of people enumerated in the Constitution.[84]
 
-Presidential_palace_in_Chisinau_01.jpg]] The country's central legislative body is the unicameral Moldovan Parliament (__), which has 101 seats, and whose members are elected by popular vote on party lists every four years.
+]] The country's central legislative body is the unicameral Moldovan Parliament (__), which has 101 seats, and whose members are elected by popular vote on party lists every four years.
 
 The head of state is the President of Moldova, who between 2001 and 2015 was elected by the Moldovan Parliament, requiring the support of three-fifths of the deputies (at least 61 votes). The president of Moldova has been elected by the parliament since 2001, a change designed to decrease executive authority in favour of the legislature. Nevertheless, the Constitutional Court ruled on 4 March 2016, that this constitutional change adopted in 2000 regarding the presidential election was unconstitutional,[85] thus reverting the election method of the President to a two-round system direct election.
 
@@ -168,13 +166,13 @@ The 1994 constitution also establishes an independent Constitutional Court, comp
 
 Internal affairs
 
-Sediul_MAI_al_Republicii_Moldova.jpg]] On 19 December 2016, Moldovan MPs approved raising the retirement age to 63 years[87] from the current level of 57 for women and 62 for men, a reform that is part of a 3-year-old assistance program agreed with the International Monetary Fund. The retirement age will be lifted gradually by a few months every year until coming fully into effect in 2028.
+]] On 19 December 2016, Moldovan MPs approved raising the retirement age to 63 years[87] from the current level of 57 for women and 62 for men, a reform that is part of a 3-year-old assistance program agreed with the International Monetary Fund. The retirement age will be lifted gradually by a few months every year until coming fully into effect in 2028.
 
 Life expectancy in the ex-Soviet country (which is among Europe's poorest) is 67.5 years for men and 75.5 years for women. In a country with a population of 3.5 million, of which 1 million are abroad, there are more than 700,000 pensioners.
 
 Foreign relations
 
-European_Union_Moldova_Locator.svg is a central issue in Moldovan politics]]
+is a central issue in Moldovan politics]]
 
 After achieving independence from the Soviet Union, Moldova's foreign policy was designed with a view to establishing relations with other European countries, neutrality, and European Union integration. In 1995 the country was admitted to the Council of Europe.
 
@@ -184,7 +182,7 @@ In 2005, Moldova and the EU established an action plan that sought to improve co
 
 After the 1990–1992 War of Transnistria, Moldova sought a peaceful resolution to the conflict in the Transnistria region by working with Romania, Ukraine, and Russia, calling for international mediation, and co-operating with the OSCE and UN fact-finding and observer missions. The foreign minister of Moldova, Andrei Stratan, repeatedly stated that the Russian troops stationed in the breakaway region were there against the will of the Moldovan government and called on them to leave "completely and unconditionally".[88] In 2012, a security zone incident resulted in the death of a civilian, raising tensions with Russia.[89]
 
-Prime_Minister_Narendra_Modi_speaks_with_Russian_President_Vladimir_Putin,_Austrian_Federal_Chancellor_Christian_Kern,_and_Moldovan_President_Igor_Dodon_on_the_sidelines_of_the_St_Petersburg_International_Economic_Forum.jpg (right) with Austrian Chancellor Christian Kern and Russian President Vladimir Putin, 2 June 2017]]
+(right) with Austrian Chancellor Christian Kern and Russian President Vladimir Putin, 2 June 2017]]
 
 In September 2010, the European Parliament approved a grant of €90 million to Moldova.[90] The money was to supplement US$570 million in International Monetary Fund loans,[91] World Bank and other bilateral support already granted to Moldova. In April 2010, Romania offered Moldova development aid worth of €100 million while the number of scholarships for Moldovan students doubled to 5,000.[92] According to a lending agreement signed in February 2010, Poland provided US$15 million as a component of its support for Moldova in its European integration efforts.[93] The first joint meeting of the Governments of Romania and Moldova, held in March 2012, concluded with several bilateral agreements in various fields.[94][95] The European orientation "has been the policy of Moldova in recent years and this is the policy that must continue," Nicolae Timofti told lawmakers before his election.[96]
 
@@ -196,7 +194,7 @@ It can be said that religious leaders play a role in shaping foreign policy. Sin
 
 Military
 
-Moldovan_army_Capt._Deli_Ianec,_left,_role-playing_as_an_Afghan_National_Army_officer,_and_U.S._Army_Capt._Trey_Marsh,_with_Iron_Troop,_3rd_Squadron,_2nd_Cavalry_Regiment,_review_pictures_taken_after_a_search_130311-A-PU716-004.jpg at the Joint Multinational Readiness Center in Hohenfels, Germany]]
+at the Joint Multinational Readiness Center in Hohenfels, Germany]]
 
 The Moldovan armed forces consist of the Ground Forces and Air Force. Moldova has accepted all relevant arms control obligations of the former Soviet Union. On 30 October 1992, Moldova ratified the Treaty on Conventional Armed Forces in Europe, which establishes comprehensive limits on key categories of conventional military equipment and provides for the destruction of weapons in excess of those limits. The country acceded to the provisions of the nuclear Non-Proliferation Treaty in October 1994 in Washington, D.C. It does not have nuclear, biological, chemical or radiological weapons. Moldova joined the North Atlantic Treaty Organisation's Partnership for Peace on 16 March 1994.
 
@@ -225,13 +223,13 @@ The largest city in Moldova is Chișinău with a population of 635,994 people.
 
 Geography
 
-Dniester_in_Moldova,_2004.jpg]] Dniester_near_Vadul_lui_Vodă.jpg near Vadul lui Vodă]]
+]] near Vadul lui Vodă]]
 
 Moldova lies between latitudes 45° and 49° N, and mostly between meridians 26° and 30° E (a small area lies east of 30°). The total land area is 33,851 km²
 
 The largest part of the nation lies between two rivers, the Dniester and the Prut. The western border of Moldova is formed by the Prut river, which joins the Danube before flowing into the Black Sea. Moldova has access to the Danube for only about , and Giurgiulești is the only Moldovan port on the Danube. In the east, the Dniester is the main river, flowing through the country from north to south, receiving the waters of Răut, Bîc, Ichel, Botna. Ialpug flows into one of the Danube limans, while Cogîlnic into the Black Sea chain of limans.
 
-Orhei_Vechi,_Moldova_-_Flickr_-_Dave_Proffer_(13).jpg]] Toltre_FTȘT-52.JPG, Edineț District]]
+]] , Edineț District]]
 
 The country is landlocked, though it is close to the Black Sea. While most of the country is hilly, elevations never exceed – the highest point being the Bălănești Hill. Moldova's hills are part of the Moldavian Plateau, which geologically originate from the Carpathian Mountains. Its subdivisions in Moldova include the Dniester Hills (Northern Moldavian Hills and Dniester Ridge), the Moldavian Plain (Middle Prut Valley and Bălți Steppe), and the Central Moldavian Plateau (Ciuluc-Soloneț Hills, Cornești Hills—Codri Massive, "Codri" meaning "forests"—Lower Dniester Hills, Lower Prut Valley, and Tigheci Hills). In the south, the country has a small flatland, the Bugeac Plain. The territory of Moldova east of the river Dniester is split between parts of the Podolian Plateau, and parts of the Eurasian Steppe.
 
@@ -255,8 +253,6 @@ The highest temperature ever recorded in Moldova was on 21 July 2007 in Camenca.
 
 
 Economy
-
-MoldovanGDPBySector.svg
 
 After the breakup from the USSR in 1991, energy shortages, political uncertainty, trade obstacles and weak administrative capacity contributed to the decline of economy. As a part of an ambitious economic liberalization effort, Moldova introduced a convertible currency, liberalized all prices, stopped issuing preferential credits to state enterprises, backed steady land privatization, removed export controls, and liberalized interest rates. The government entered into agreements with the World Bank and the International Monetary Fund to promote growth. The economy reversed from decline in late 90's. Since 1999 the GDP (PPP) has had a steady growth as follows:[115][116]
 
@@ -310,7 +306,7 @@ Corporate governance in the banking sector is a major concern. In line with FSAP
 
 A political crisis in early 2013 led to policy slippages in the fiscal and financial areas. The political crisis that broke out in early 2013 was resolved with the appointment of a government supported by a pro-European center-right/center coalition in May 2013. However, delays in policy implementation prevented completion of the final reviews under the ECF/EFF arrangements.
 
-Moldova-chisineu-Mall-Dova.jpg shopping centre in Chișinău]] Despite a sharp decline in poverty in recent years, Moldova remains one of the poorest countries in Europe and structural reforms are needed to promote sustainable growth. Based on the Europe and Central Asia (ECA) regional poverty line of US$5/day (PPP), 55 percent of the population was poor in 2011. While this was significantly lower than 94 percent in 2002, Moldova's poverty rate is still more than double the ECA average of 25 percent. The NDS—Moldova (National Development System) 2020, which was published in November 2012, focuses on several critical areas to boost economic development and reduce poverty. These include education, infrastructure, financial sector, business climate, energy consumption, pension system, and judicial framework. Following the regional financial crisis in 1998, Moldova has made significant progress towards achieving and retaining macroeconomic and financial stabilization. It has, furthermore, implemented many structural and institutional reforms that are indispensable for the efficient functioning of a market economy. These efforts have helped maintain macroeconomic and financial stability under difficult external circumstances, enabled the resumption of economic growth and contributed to establishing an environment conducive to the economy's further growth and development in the medium term.
+shopping centre in Chișinău]] Despite a sharp decline in poverty in recent years, Moldova remains one of the poorest countries in Europe and structural reforms are needed to promote sustainable growth. Based on the Europe and Central Asia (ECA) regional poverty line of US$5/day (PPP), 55 percent of the population was poor in 2011. While this was significantly lower than 94 percent in 2002, Moldova's poverty rate is still more than double the ECA average of 25 percent. The NDS—Moldova (National Development System) 2020, which was published in November 2012, focuses on several critical areas to boost economic development and reduce poverty. These include education, infrastructure, financial sector, business climate, energy consumption, pension system, and judicial framework. Following the regional financial crisis in 1998, Moldova has made significant progress towards achieving and retaining macroeconomic and financial stabilization. It has, furthermore, implemented many structural and institutional reforms that are indispensable for the efficient functioning of a market economy. These efforts have helped maintain macroeconomic and financial stability under difficult external circumstances, enabled the resumption of economic growth and contributed to establishing an environment conducive to the economy's further growth and development in the medium term.
 
 The government's goal of EU integration has resulted in some market-oriented progress. Moldova experienced better than expected economic growth in 2013 due to increased agriculture production, to economic policies adopted by the Moldovan government since 2009, and to the receipt of EU trade preferences connecting Moldovan products to the world's largest market. Moldova has signed the Association Agreement and the Deep and Comprehensive Free Trade Agreement with the European Union during summer 2014.[130] Moldova has also achieved a Free Visa Regime[131] with the EU which represents the biggest achievement of Moldovan diplomacy since independence.[132] Still, growth has been hampered by high prices for Russian natural gas, a Russian import ban on Moldovan wine, increased foreign scrutiny of Moldovan agricultural products, and by Moldova's large external debt. Over the longer term, Moldova's economy remains vulnerable to political uncertainty, weak administrative capacity, vested bureaucratic interests, corruption, higher fuel prices, Russian pressure, and the separatist regime in Moldova's Transnistria region.[133] According to IMF World Economic Outlook April 2014, the Moldovan GDP (PPP) per capita is 3,927 International Dollars,[134][135] excluding grey economy and tax evasion.
 
@@ -320,7 +316,7 @@ With few natural energy resources, Moldova imports almost all of its energy supp
 
 Wine industry
 
-Mileştii_Mici_(3944427747).jpg is home to the world's biggest wine cellars.]] The country has a well-established wine industry. It has a vineyard area of , of which are used for commercial production. Most of the country's wine production is made for export. Many families have their own recipes and grape varieties that have been passed down through the generations. Mileștii Mici is the home of the largest wine cellar in the world. It stretches for 200 km and holds almost 2 million bottles of wine[138]
+is home to the world's biggest wine cellars.]] The country has a well-established wine industry. It has a vineyard area of , of which are used for commercial production. Most of the country's wine production is made for export. Many families have their own recipes and grape varieties that have been passed down through the generations. Mileștii Mici is the home of the largest wine cellar in the world. It stretches for 200 km and holds almost 2 million bottles of wine[138]
 
 Agriculture
 
@@ -328,7 +324,7 @@ Moldova's rich soil and temperate continental climate (with warm summers and mil
 
 Transport
 
-Chisinau_Airport_KIV.jpg.]]
+.]]
 
 The main means of transportation in Moldova are railways and a highway system ( overall, including of paved surfaces). The sole international air gateway of Moldova is the Chișinău International Airport. The Giurgiulești terminal on the Danube is compatible with small seagoing vessels. Shipping on the lower Prut and Nistru rivers plays only a modest role in the country's transportation system.
 
@@ -391,7 +387,7 @@ MOLDOVANS or MOLDAVIANS (, ; Moldovan Cyrillic: Молдовень) are the larg
 
 As per 2014 census preliminary data, 2,998,235 inhabitants live in Moldova (within the areas controlled by the central government), an 11.3% decrease from the figure recorded at the 2004 census. The urbanization rate is 45% of the total population living in urban areas ().[145]
 
-Rep.Moldova_-_Harta_Etnică_(2014).png According to the last census in Transnistria (October 2015), the population of the region was 475,665, a 14.3% decrease from the figure recorded at the 2004 census. The urbanization rate was 69.9%.[146][147]
+According to the last census in Transnistria (October 2015), the population of the region was 475,665, a 14.3% decrease from the figure recorded at the 2004 census. The urbanization rate was 69.9%.[146][147]
 
   ---------------------------------------------------------------------------
    POPULATION OF TRANSNISTRIA ACCORDING TO ETHNIC GROUP (CENSUSES 2004–2015)
@@ -413,7 +409,7 @@ Rep.Moldova_-_Harta_Etnică_(2014).png According to the last census in Transnist
 
 Languages
 
-Grafitti_politice_în_Republica_Moldova.png (Our language) social ad in Chișinău, to which the handwritten word "Română" (Romanian) was added.
+(Our language) social ad in Chișinău, to which the handwritten word "Română" (Romanian) was added.
 RIGHT. An inscription on a building in Chișinău: "I am Moldovan! I speak Moldovan!"
 (_both messages use the same language_)]] The official language of Moldova is Romanian, a Romance language related to Italian, French, Spanish, and Portuguese.
 
@@ -485,7 +481,7 @@ For the 2004 census, Orthodox Christians, who make up 93.3% of Moldova's populat
 
 Education
 
-National_Library_of_the_Republic_of_Moldova_(7992652868).jpg]]
+]]
 
 There are 16 state and 15[153] private institutions of higher education in Moldova, with a total of 126,100 students, including 104,300 in the state institutions and 21,700 in the private ones. The number of students per 10,000 inhabitants in Moldova has been constantly growing since the collapse of the Soviet Union, reaching 217 in 2000–2001, and 351 in 2005–2006.
 
@@ -516,7 +512,7 @@ Emigration is a mass phenomenon in Moldova and has a major impact on the country
 
 Culture
 
-Eminescu.jpg, the national poet of Moldova and Romania]] Moldova's cultural tradition has been influenced primarily by the Romanian origins of its majority population, the roots of which go back to the 2nd century AD, the period of Roman colonisation in Dacia.[176] Located geographically at the crossroads of Latin, Slavic and other cultures, Moldova has enriched its own culture adopting and maintaining traditions of neighbouring regions and of other influential sources.[177] The largest ethnic group, which had come to identify itself widely as "Moldovan" by the 14th century, played a significant role in the shaping of classical Romanian culture. The culture has been also influenced by the Byzantine culture, the neighbouring Magyar and Slavic populations, and later by the Ottoman Turks. A strong Western European influence in Moldovan literature and arts was prevalent in the 19th century. During the periods 1812-1917 and 1944–89, Moldovans were influenced by Russian and Soviet administrative control as well and by ethnic Russian immigration.[178]
+, the national poet of Moldova and Romania]] Moldova's cultural tradition has been influenced primarily by the Romanian origins of its majority population, the roots of which go back to the 2nd century AD, the period of Roman colonisation in Dacia.[176] Located geographically at the crossroads of Latin, Slavic and other cultures, Moldova has enriched its own culture adopting and maintaining traditions of neighbouring regions and of other influential sources.[177] The largest ethnic group, which had come to identify itself widely as "Moldovan" by the 14th century, played a significant role in the shaping of classical Romanian culture. The culture has been also influenced by the Byzantine culture, the neighbouring Magyar and Slavic populations, and later by the Ottoman Turks. A strong Western European influence in Moldovan literature and arts was prevalent in the 19th century. During the periods 1812-1917 and 1944–89, Moldovans were influenced by Russian and Soviet administrative control as well and by ethnic Russian immigration.[178]
 
 The country's cultural heritage was marked by numerous churches and monasteries built by the Moldavian ruler Stephen the Great in the 15th century, by the works of the later renaissance Metropolitans Varlaam and Dosoftei, and those of scholars such as Grigore Ureche, Miron Costin, Nicolae Milescu, Dimitrie Cantemir and Ion Neculce. In the 19th century, Moldavians from the territories of the medieval Principality of Moldavia, divided into Bessarabia, Bukovina, and Western Moldavia (after 1859, Romania), made a significant contribution to the formation of the modern Romanian culture. Among these were many Bessarabians, such as Alexandru Donici, Alexandru Hâjdeu, Bogdan Petriceicu Hasdeu, Constantin Stamati, Constantin Stamati-Ciurea, Costache Negruzzi, Alecu Russo, Constantin Stere.
 
@@ -530,17 +526,17 @@ In October 1939, _Radio Basarabia_, a local station of the Romanian Radio Broadc
 
 Food and beverage
 
-Sarmalute_mamaliguta.JPG), accompanied by sauerkraut and mămăligă.]] Moldovan cuisine is similar to neighbouring Romania, and has been influenced by elements of Russian, Turkish, and Ukrainian cuisine. Main dishes include beef, pork, potatoes, cabbage, and a variety of cereals. Popular alcoholic beverages are _divin_ (Moldovan brandy), beer, and local wine.
+), accompanied by sauerkraut and mămăligă.]] Moldovan cuisine is similar to neighbouring Romania, and has been influenced by elements of Russian, Turkish, and Ukrainian cuisine. Main dishes include beef, pork, potatoes, cabbage, and a variety of cereals. Popular alcoholic beverages are _divin_ (Moldovan brandy), beer, and local wine.
 
 Total recorded adult alcohol consumption is approximately evenly split between spirits, beer and wine.
 
 Music
 
-Moldova_at_ESC_2011.jpg performing at the 2011 Eurovision Song Contest.]] Among Moldova's most prominent composers are Gavriil Musicescu, Ștefan Neaga and Eugen Doga.
+performing at the 2011 Eurovision Song Contest.]] Among Moldova's most prominent composers are Gavriil Musicescu, Ștefan Neaga and Eugen Doga.
 
 In the field of pop music, Moldova has produced the band O-Zone, who came to prominence in 2003, with their hit song "Dragostea Din Tei", which topped multiple notable single charts. Moldova has been participating in the Eurovision Song Contest since 2005. Another popular band from Moldova is Zdob și Zdub that represented the country in the 2005 Eurovision Song Contest, finishing 6th.
 
-Carla%27s_Dreams_in_Feb_2018.jpg]] In May 2007, Natalia Barbu represented Moldova in Helsinki at the Eurovision Song Contest 2007 with her entry "Fight". Natalia squeezed into the final by a very small margin. She took 10th place with 109 points. Then Zdob și Zdub again represented Moldova in the 2011 Eurovision Song Contest finishing 12th.
+]] In May 2007, Natalia Barbu represented Moldova in Helsinki at the Eurovision Song Contest 2007 with her entry "Fight". Natalia squeezed into the final by a very small margin. She took 10th place with 109 points. Then Zdob și Zdub again represented Moldova in the 2011 Eurovision Song Contest finishing 12th.
 
 The band SunStroke Project with Olia Tira represented the country in the 2010 Eurovision Song Contest with their hit song "Run Away". Their performance gained international notoriety as an internet meme due to the pelvic thrusting and dancing of Sergey Stepanov, the band saxophonist. He has been fittingly dubbed "Epic Sax Guy". SunStroke Project featured again in the 2017 Eurovision entry "Hey Mama" which got third place.[180]
 
@@ -550,7 +546,7 @@ Among most prominent classical musicians in Moldova are Maria Bieșu, one of the
 
 Holidays
 
-Zimbru_Stadium.JPG]]
+]]
 
 Most retail businesses close on New Year's Day and Independence Day, but remain open on all other holidays. Christmas is celebrated either on 7 January, the traditional date in Old Calendarists Eastern Orthodox Churches, or on 25 December, with both dates being recognized as public holidays.[181]
 

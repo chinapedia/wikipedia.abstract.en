@@ -38,7 +38,7 @@ In 2013, after Russian air exercises in close proximity to the Swedish border we
 
 Organisation
 
-Gripen_3.jpg.]] Swedish_CV9040.JPG Strf 90 produced and used by Sweden.]] NH90_P6230205.JPG of the Swedish Armed Forces]] K32_HMS_Helsingborg_Anchored-of-Gotska-Sandoen_cropped.jpg.]]
+.]] Strf 90 produced and used by Sweden.]] of the Swedish Armed Forces]] .]]
 
 The Supreme Commander () is a four-star general or flag officer that is the agency head of the Swedish Armed Forces, and is the highest ranking professional officer on active duty. The Supreme Commander in turn reports, normally through the Minister for Defence, directly to the Government of Sweden, which in turn answers to the Riksdag.
 
@@ -102,7 +102,7 @@ Personnel
 
 From national service to an all-volunteer force
 
-Svenska-försvaret-1965-2010.gif In mid-1995, with the national service system based on universal military training, the Swedish Army consisted of 15 maneuver brigades and, in addition, 100 battalions of various sorts (artillery, engineers, rangers, air defense, amphibious, security, surveillance etc.) with a mobilization-time of between one and two days. When national service was replaced by a selective service system, fewer and fewer young men were drafted due to the reduction in size of the armed forces. By 2010 the Swedish Army had two battalions that could be mobilized within 90 days. When the volunteer system has been fully implemented by 2019, the army will consist of 7 maneuver battalions and 14 battalions of various sorts with a readiness of one week. The Home Guard will be reduced in size to 22,000 soldiers.[24] In 2019 the Swedish armed forces, now with a restared national service system combained with volunteer forces, aimed to reach 3 brigades as maneuver units by 2025.[25]
+In mid-1995, with the national service system based on universal military training, the Swedish Army consisted of 15 maneuver brigades and, in addition, 100 battalions of various sorts (artillery, engineers, rangers, air defense, amphibious, security, surveillance etc.) with a mobilization-time of between one and two days. When national service was replaced by a selective service system, fewer and fewer young men were drafted due to the reduction in size of the armed forces. By 2010 the Swedish Army had two battalions that could be mobilized within 90 days. When the volunteer system has been fully implemented by 2019, the army will consist of 7 maneuver battalions and 14 battalions of various sorts with a readiness of one week. The Home Guard will be reduced in size to 22,000 soldiers.[24] In 2019 the Swedish armed forces, now with a restared national service system combained with volunteer forces, aimed to reach 3 brigades as maneuver units by 2025.[25]
 
   ----------------- ----------------------------- ------------------------------ -------------------------- ----------------------------------------------
                     National Service Force 1995   Selective Service Force 2010   All-Volunteer Force 2019   Selective Service Force/Volunteer Force 2025
@@ -159,8 +159,6 @@ The transformation of the old invasion defence-oriented armed forces to the new 
 During 2013 several Russian Air Force exercises over the Baltic Sea aimed at Swedish Military targets have made the future of the Swedish Armed Forces a hot topic and several political parties now want to increase defence funding.[32][33][34]
 
 Ranks
-
-Gen. Micael Bydén, the Supreme Commander of the Swedish Armed Forces.|thumbnail|right
 
 When an army based on national service (conscription) was introduced in 1901 all commissioned officers had ranks that were senior of the warrant officers (_underofficerare_) and non-commissioned officers (_underbefäl_). In a reform 1926 the relative rank of the then senior warrant officer, fanjunkare, was increased to be equal with the junior officer rank _underlöjtnant_ and above the most junior officer rank _fänrik_. In 1960 the relative rank of the warrant officers were elevated further so that
 

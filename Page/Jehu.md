@@ -12,7 +12,7 @@ Jezreel and the deaths of Jehoram and Jezebel
 
 With a chosen band, proceeded to Jezreel. King Jehoram tried to flee, but Jehu fired an arrow which pierced his heart. King Ahaziah managed to escape, but was mortally wounded, and died shortly after in Megiddo.[6]
 
-The author of Kings tells that Jehu secretly entered the city without resistance. He saw Jehoram's mother, Jezebel, watching him with contempt from a palace window. Jehu commanded the palace eunuchs to throw her from the window. Jezebel was killed, and Jehu drove his chariot over her body. Her servants later came to bury her, only to find that dogs had eaten all but her hands, feet, and skull. Jehu.jpg's _Promptuarii Iconum Insigniorum_]]
+The author of Kings tells that Jehu secretly entered the city without resistance. He saw Jehoram's mother, Jezebel, watching him with contempt from a palace window. Jehu commanded the palace eunuchs to throw her from the window. Jezebel was killed, and Jehu drove his chariot over her body. Her servants later came to bury her, only to find that dogs had eaten all but her hands, feet, and skull. 's _Promptuarii Iconum Insigniorum_]]
 
 Now master of Jezreel, Jehu wrote to command the chief men in Samaria to hunt down and kill all of the royal princes. They did as ordered, and the next day they piled the seventy heads in two heaps outside the city gate, as Jehu commanded. Ahab's entire family was slain. Shortly afterwards, Jehu encountered the "brothers of Ahaziah" (since the brothers of Ahaziah had previously been taken away and probably killed by the Philistines,[7] these must have been relatives of Ahaziah in a broader sense, like nephews and cousins) at "Beth-eked of the shepherds". He then slaughtered all of them at "the pit of Beth-eked", forty-two men in total.
 
@@ -28,8 +28,6 @@ The destruction of the house of Ahab is commended by the author of 2 Kings as a 
 
 
 Black Obelisk
-
-Jehu_of_the_House_of_Omri_bows_before_the_Assyrian_king_Shalmaneser_III,_The_Black_Obelisk..JPG
 
 Aside from the Hebrew Scriptures, Jehu appears in Assyrian documents, notably in the Black Obelisk where he is depicted as kissing the ground in front of Shalmaneser III and presenting a gift (_maddattu ša Ia-ú-a...kaspu mâdu_ "tribute of Jehu...much silver"). In the Assyrian documents, he is simply referred to as "son of Omri"[15][16] (, possibly expressing his having been the ruler of 'the House of Omri,' a later Assyrian designation for the Kingdom of Israel). This tribute is dated 841 BCE.[17] It is the earliest preserved depiction of an Israelite.
 

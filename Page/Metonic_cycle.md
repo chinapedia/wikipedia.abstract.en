@@ -1,4 +1,4 @@
-CLM_14456_70v71r.jpg (Clm 14456, fol. 71r)]] Christmas_full_moons_1711-2300.gif between 1711 and 2300.[1][2] A small horizontal libration is visible comparing their appearances. A red color shows full moons that are also lunar eclipses.]]
+(Clm 14456, fol. 71r)]] between 1711 and 2300.[1][2] A small horizontal libration is visible comparing their appearances. A red color shows full moons that are also lunar eclipses.]]
 
 For astronomy and calendar studies, the METONIC CYCLE or ENNEADECAETERIS (from , "nineteen years") is a period of an almost exact 19 years that is nearly a common multiple of the solar year and the synodic (lunar) month. The Greek astronomer Meton of Athens (fifth century BC) observed that a period of 19 years is almost exactly equal to 235 synodic months and, rounded to full days, counts 6,940 days. The difference between the two periods (of 19 solar years and 235 synodic months) is only a few hours, depending on the definition of the year.
 

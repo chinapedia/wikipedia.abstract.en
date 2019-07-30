@@ -1,4 +1,4 @@
-Jazzing_orchestra_1921.png Orquesta_Filarmonica_de_Jalisco.jpg is an example of a large classical musical ensemble.]]
+is an example of a large classical musical ensemble.]]
 
 A MUSICAL ENSEMBLE, also known as a MUSIC GROUP or MUSICAL GROUP, is a group of people who perform instrumental or vocal music, with the ensemble typically known by a distinct name. Some music ensembles consist solely of instruments, such as the jazz quartet or the orchestra. Some music ensembles consist solely of singers, such as choirs and doo wop groups. In both popular music and classical music, there are ensembles in which both instrumentalists and singers perform, such as the rock band or the Baroque chamber group for basso continuo (harpsichord and cello) and one or more singers. In classical music, TRIOS or QUARTETS either blend the sounds of musical instrument families (such as piano, strings, and wind instruments) or group together instruments from the same instrument family, such as STRING ENSEMBLES (e.g., string quartet) or WIND ENSEMBLES (e.g., wind quintet). Some ensembles blend the sounds of a variety of instrument families, such as the orchestra, which uses a string section, brass instruments, woodwinds and percussion instruments, or the concert band, which uses brass, woodwinds and percussion.
 
@@ -9,7 +9,7 @@ Music ensembles typically have a leader. In jazz bands, rock and pop groups and 
 
 Classical chamber music
 
-KneiselQuartet.jpg, led by Franz Kneisel, is an example of chamber music. This American ensemble debuted Dvořák's American Quartet, opus 96]] IranianMusicGroup.jpgian musical ensemble in 1886]]
+, led by Franz Kneisel, is an example of chamber music. This American ensemble debuted Dvořák's American Quartet, opus 96]] ian musical ensemble in 1886]]
 
 In Western classical music, smaller ensembles are called chamber music ensembles. The terms duet, trio, quartet, quintet, sextet, septet, octet, nonet and dectet describe groups of two up to ten musicians, respectively. A group of eleven musicians, such as found in _The Carnival of the Animals_, is called either a _hendectet_ or an _undectet_ (see Latin numerical prefixes). A soloist playing unaccompanied (e.g., a pianist playing a solo piano piece or a cellist playing a Bach suite for unaccompanied cello) is not an ensemble because it only contains one musician.
 
@@ -31,7 +31,7 @@ Some other quintets in classical music are the wind quintet, usually consisting 
 
 Six or more instruments
 
-London_Barbican_Hall_LSO_Haitink.jpg, Barbican Hall]] Concert_Band.jpg.]]
+, Barbican Hall]] .]]
 
 Classical chamber ensembles of six (sextet), seven (septet), or eight musicians (octet) are fairly common; use of latinate terms for larger groups is rare, except for the nonet (nine musicians). In most cases, a larger classical group is referred to as an orchestra of some type or a concert band. A small orchestra with fifteen to thirty members (violins, violas, four cellos, two or three double basses, and several woodwind or brass instruments) is called a chamber orchestra. A sinfonietta usually denotes a somewhat smaller orchestra (though still not a chamber orchestra). Larger orchestras are called symphony orchestras (see below) or philharmonic orchestras.[1]
 
@@ -46,7 +46,7 @@ When orchestras perform baroque music (from the 17th century and early 18th cent
 
 Jazz ensembles
 
-CountBasieEthelWatersStageDoorCanteen.jpg and band, with vocalist Ethel Waters, from the film _Stage Door Canteen_ (1943)]]
+and band, with vocalist Ethel Waters, from the film _Stage Door Canteen_ (1943)]]
 
 Three parts
 
@@ -63,7 +63,7 @@ The lineup of larger jazz ensembles can vary considerably, depending on the styl
 
 Rock and pop bands
 
-Blackkeys022011.jpg are a two-part band consisting of a drummer and vocalist/guitarist lineup]]
+are a two-part band consisting of a drummer and vocalist/guitarist lineup]]
 
 Two parts
 
@@ -77,7 +77,7 @@ W.A.S.P. guitarist Doug Blair is also known for his work in the two-piece progre
 
 Three parts
 
-Jimi_Hendrix_Experience_in_Fenklup.png, a power trio, performing for Dutch television in 1967. From left to right: singer-guitarist Jimi Hendrix, bassist Noel Redding and drummer Mitch Mitchell]] The smallest ensemble that is commonly used in rock music is the trio format. In a hard rock or blues-rock band, or heavy metal rock group, a "power trio" format is often used, which consists of an electric guitar player, an electric bass guitar player and a drummer, and typically one or more of these musicians also sing (sometimes all three members will sing, e.g. Bee Gees or Alkaline Trio). Some well-known power trios with the guitarist on lead vocals are The Jimi Hendrix Experience, Stevie Ray Vaughan and Double Trouble, Nirvana, Violent Femmes, Gov't Mule, Green Day, The Minutemen, Triumph, Shellac, Sublime, Chevelle, Muse, The Jam, Short Stack, and ZZ Top.
+, a power trio, performing for Dutch television in 1967. From left to right: singer-guitarist Jimi Hendrix, bassist Noel Redding and drummer Mitch Mitchell]] The smallest ensemble that is commonly used in rock music is the trio format. In a hard rock or blues-rock band, or heavy metal rock group, a "power trio" format is often used, which consists of an electric guitar player, an electric bass guitar player and a drummer, and typically one or more of these musicians also sing (sometimes all three members will sing, e.g. Bee Gees or Alkaline Trio). Some well-known power trios with the guitarist on lead vocals are The Jimi Hendrix Experience, Stevie Ray Vaughan and Double Trouble, Nirvana, Violent Femmes, Gov't Mule, Green Day, The Minutemen, Triumph, Shellac, Sublime, Chevelle, Muse, The Jam, Short Stack, and ZZ Top.
 
 A handful of others with the bassist on vocals include Primus, Motörhead, The Police, The Melvins, MxPx, Blue Cheer, Rush, The Presidents of the United States of America, Venom, and Cream. Some power trios feature two lead vocalists. For example, in the band blink-182 vocals are split between bassist Mark Hoppus and guitarist Tom DeLonge, or in the band Dinosaur Jr., guitarist J. Mascis is the primary songwriter and vocalist, but bassist Lou Barlow writes some songs and sings as well.
 
@@ -87,7 +87,7 @@ A power trio with the guitarist on lead vocals is a popular record company lineu
 
 Four parts
 
-Rhcp-live-pinkpop05.jpg is a four-part band with a lead vocalist, guitarist, bassist, and drummer lineup.]]
+is a four-part band with a lead vocalist, guitarist, bassist, and drummer lineup.]]
 
 The four-piece band is the most common configuration in rock and pop music.
 
@@ -99,7 +99,7 @@ Some bands will have the bassist on lead vocals, such as Thin Lizzy, The Chamele
 
 Five parts
 
-TheStrokes.jpg were a five-part band with a lead vocalist, two guitarists, bassist, and drummer lineup.]]
+were a five-part band with a lead vocalist, two guitarists, bassist, and drummer lineup.]]
 
 Five-piece bands have existed in rock music since the development of the genre. The Beach Boys, The Rolling Stones (until 1993), Aerosmith, Def Leppard, AC/DC, Oasis, Pearl Jam, Guns N' Roses, Radiohead, The Strokes, The Yardbirds, 311 and The Hives are examples of the common vocalist, lead guitar, rhythm guitar, bass, and drums lineup whilst other bands such as Judas Priest have two guitarists who equally share lead and rhythm parts. An alternative to the five-member lineup replaces the rhythm guitarist with a keyboard–synthesizer player (examples being the bands Journey, Elbow, Dream Theater, Genesis, Jethro Tull, The Zombies, The Animals, Bon Jovi, Yes, Fleetwood Mac, Marilyn Manson and Deep Purple, all of which consist of a vocalist, guitarist, bassist, keyboardist, and a drummer) or with a turntablist such as Deftones, Hed PE, Incubus or Limp Bizkit.
 
@@ -111,7 +111,7 @@ A less common lineup is to have lead vocals, two guitarists of varying types and
 
 Larger rock ensembles
 
-Iron_Maiden_in_performance.jpg is a six-part band with a lead vocalist, three guitarists, a bassist, and drummer lineup. (Not shown: Bruce Dickinson and Nicko McBrain.)]]
+is a six-part band with a lead vocalist, three guitarists, a bassist, and drummer lineup. (Not shown: Bruce Dickinson and Nicko McBrain.)]]
 
 Although they are quite uncommon, larger bands have long been a part of rock and pop music, in part due to the influence of the "singer accompanied with orchestra" model inherited from popular big-band jazz and swing and popularized by Frank Sinatra and Ella Fitzgerald. To create larger ensembles, rock bands often add an additional guitarist, an additional keyboardist, additional percussionists or second drummer, an entire horn section, and even a flautist. An example of a six-member rock band is Toto with a lead vocalist, guitarist, bassist, two keyboard players, and drummer. The American heavy metal band Slipknot is composed of nine members, with a vocalist, two guitarists, a drummer, a bassist, two custom percussionists/backing vocalists, a turntablist, and a sampler/keyboardist.
 
@@ -129,7 +129,7 @@ Electronic music groups typically use electronic musical instruments such as syn
 
 Role of women
 
-AKB48_20090703_Japan_Expo_35.jpg music band, called AKB48, entertain the audience by performing on stage in Paris, France, 2009]] Suzi_Quatro_plays_a_bass_guitar_while_she_sings_at_AIS_Arena.jpg is a singer, bassist and bandleader. When she launched her career in 1973, she was one of the few prominent women instrumentalists and bandleaders]] Women have a high prominence in many popular music styles as singers. However, professional women instrumentalists are uncommon in popular music, especially in rock genres such as heavy metal. "[P]laying in a band is largely a male homosocial activity, that is, learning to play in a band is largely a peer-based... experience, shaped by existing sex-segregated friendship networks.[3] As well, rock music "...is often defined as a form of male rebellion vis-à-vis female bedroom culture."[4] In popular music, there has been a gendered "distinction between public (male) and private (female) participation" in music.[5] "[S]everal scholars have argued that men exclude women from bands or from the bands' rehearsals, recordings, performances, and other social activities."[6] "Women are mainly regarded as passive and private consumers of allegedly slick, prefabricated – hence, inferior – pop music..., excluding them from participating as high status rock musicians."[7] One of the reasons that there are rarely mixed gender bands is that "bands operate as tight-knit units in which homosocial solidarity – social bonds between people of the same sex... – plays a crucial role."[8] In the 1960s pop music scene, "[s]inging was sometimes an acceptable pastime for a girl, but playing an instrument...simply wasn't done."[9]
+music band, called AKB48, entertain the audience by performing on stage in Paris, France, 2009]] is a singer, bassist and bandleader. When she launched her career in 1973, she was one of the few prominent women instrumentalists and bandleaders]] Women have a high prominence in many popular music styles as singers. However, professional women instrumentalists are uncommon in popular music, especially in rock genres such as heavy metal. "[P]laying in a band is largely a male homosocial activity, that is, learning to play in a band is largely a peer-based... experience, shaped by existing sex-segregated friendship networks.[3] As well, rock music "...is often defined as a form of male rebellion vis-à-vis female bedroom culture."[4] In popular music, there has been a gendered "distinction between public (male) and private (female) participation" in music.[5] "[S]everal scholars have argued that men exclude women from bands or from the bands' rehearsals, recordings, performances, and other social activities."[6] "Women are mainly regarded as passive and private consumers of allegedly slick, prefabricated – hence, inferior – pop music..., excluding them from participating as high status rock musicians."[7] One of the reasons that there are rarely mixed gender bands is that "bands operate as tight-knit units in which homosocial solidarity – social bonds between people of the same sex... – plays a crucial role."[8] In the 1960s pop music scene, "[s]inging was sometimes an acceptable pastime for a girl, but playing an instrument...simply wasn't done."[9]
 
 "The rebellion of rock music was largely a male rebellion; the women—often, in the 1950s and '60s, girls in their teens—in rock usually sang songs as personæ utterly dependent on their macho boyfriends...". Philip Auslander says that "Although there were many women in rock by the late 1960s, most performed only as singers, a traditionally feminine position in popular music". Though some women played instruments in American all-female garage rock bands, none of these bands achieved more than regional success. So they "did not provide viable templates for women's on-going participation in rock".[10] In relation to the gender composition of heavy metal bands, it has been said that "[h]eavy metal performers are almost exclusively male"[11] "...[a]t least until the mid-1980s"[12] apart from "...exceptions such as Girlschool."[13] However, "...now [in the 2010s] maybe more than ever–strong metal women have put up their dukes and got down to it",[14] "carv[ing] out a considerable place for [them]selves."[15] When Suzi Quatro emerged in 1973, "no other prominent female musician worked in rock simultaneously as a singer, instrumentalist, songwriter, and bandleader".[16] According to Auslander, she was "kicking down the male door in rock and roll and proving that a female _musician_ ... and this is a point I am extremely concerned about ... could play as well if not better than the boys".[17]
 

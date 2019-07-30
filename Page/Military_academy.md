@@ -42,7 +42,7 @@ List of military academies by countries
 
 Afghanistan
 
-Cornerstone_Laying_ceremony_of_the_National_Military_Academy_of_Afghanistan_(4496292883).jpg stand in formation awaiting dignitaries. The Academy was established in 2005.]]
+stand in formation awaiting dignitaries. The Academy was established in 2005.]]
 
 -   Afghanistan National Army Officer Academy
 -   National Military Academy of Afghanistan
@@ -60,7 +60,7 @@ Angola
 
 Argentina
 
-Presidenta_Kirchner_en_Colegio_Militar.jpg addresses the 2010 graduating class of Argentina's National Military College.]] Argentine Army
+addresses the 2010 graduating class of Argentina's National Military College.]] Argentine Army
 
 -   Colegio Militar de la Nación (National Military College), located in El Palomar, Buenos Aires
 
@@ -80,7 +80,7 @@ Armenia
 
 Australia
 
-ADFA_Tri-Service_Institution.jpg is a tri-service military college. The Academy was established in 1986.]]
+is a tri-service military college. The Academy was established in 1986.]]
 
 -   Australian Defence Force Academy
 -   Royal Military College, Duntroon
@@ -101,7 +101,7 @@ Azerbaijan
 
 Bangladesh
 
-Colours_Contingent_of_BMA.jpg. The Academy is a training institute for officers of the Bangladesh Army.]]
+. The Academy is a training institute for officers of the Bangladesh Army.]]
 
 -   Bangladesh Military Academy
 -   Bangladesh Naval Academy
@@ -133,7 +133,7 @@ Cadet Colleges in Bangladesh
 
 Belarus
 
-Парад_по_случаю_Дня_независимости_Белоруссии_при_участии_авиации_ЗВО_(5).jpg during the 2017 Minsk Independence Day Parade. The institution is the only military high school in Belarus.]]
+during the 2017 Minsk Independence Day Parade. The institution is the only military high school in Belarus.]]
 
 -   Military Academy of Belarus
 -   Minsk Suvorov Military School
@@ -150,7 +150,7 @@ Bolivia
 
 Brazil
 
-Agulhas_Negras.jpg'' during a graduation ceremony. It is the largest military college operated by the Brazilian Army.]] Has several military academies:
+'' during a graduation ceremony. It is the largest military college operated by the Brazilian Army.]] Has several military academies:
 
 -   Army – The biggest Academy is _Academia Militar de Agulhas Negras (AMAN)_ in the municipality of Resende, in state of Rio de Janeiro, in the southeast of that country. For high school level, The Sistema Colégio Militar do Brasil (SCMB) is composed for 13 military schools in Belo Horizonte, Belém, Brasília, Campo Grande, Curitiba, Fortaleza, Juiz de Fora (MG), Manaus, Porto Alegre, Recife, Rio de Janeiro, Salvador and Santa Maria (RS).
 -   Navy – [Escola Naval] was founded in 1823 and is located on Villegagnon island, near downtown Rio de Janeiro. The location of the school has historical significance during the French invasions of the then Portuguese Colony in 1555. The Brazilian Navy also prepares students at the High School level at Colégio Naval in preparation for the Naval Academy (Escola Naval). Colégio Naval was founded in 1876 and is located at Enseada Almirante Batista das Neves em Angra dos Reis.
@@ -167,7 +167,7 @@ Bulgaria
 
 Canada
 
-Royal_Military_College_of_Canada_band_piper_and_bugler,_Remembrance_Day.jpg band piper and bugler. Established in 1876, the College is Canada's only post-secondary military college with degree-granting powers.]] Canada currently has one military-theme private boarding school open for students at the pre-university level, Robert Land Academy (RLA), which is located in West Lincoln, Ontario. Founded in 1978, it is an all-boys' institute whose funding arises solely from tuition fees. The Academy is an institute fully accredited by the province of Ontario, which accepts students from Grade 6 to Grade 12 (the Ontario Academic Credit level).
+band piper and bugler. Established in 1876, the College is Canada's only post-secondary military college with degree-granting powers.]] Canada currently has one military-theme private boarding school open for students at the pre-university level, Robert Land Academy (RLA), which is located in West Lincoln, Ontario. Founded in 1978, it is an all-boys' institute whose funding arises solely from tuition fees. The Academy is an institute fully accredited by the province of Ontario, which accepts students from Grade 6 to Grade 12 (the Ontario Academic Credit level).
 
 Canada formerly had three university level service academies, the Canadian Military Colleges. These included the Royal Military College of Canada (RMC) in Kingston, Ontario, Royal Roads Military College (RRMC) in Victoria, British Columbia and the Collège militaire royal de Saint-Jean (CMR) in Saint-Jean-sur-Richelieu, Québec. RMC was founded in 1876, RRMC in 1941 and CMR in 1954.[11] By the 1960s all three institutions were providing military education to officer cadets of all three elements in the Canadian Forces; the navy, army and air force; and RMC received the authority to grant academic degrees in Arts, Science and Engineering.[12]
 
@@ -175,7 +175,7 @@ Graduates of the Colleges are widely acknowledged to have had a disproportionate
 
 China, People's Republic of
 
-Gate_of_PLA-National_Defence_University.jpg. The institution is a national university administered by the People's Liberation Army.]]
+. The institution is a national university administered by the People's Liberation Army.]]
 
 -   PLA National Defense University
 
@@ -199,7 +199,7 @@ China (Taiwan), Republic of
 
 Colombia
 
-José_María_Córdova_Military_School_Honor_Guard.jpg. Cadets undergo undergraduate studies at the institution.]] National Army of Colombia:
+. Cadets undergo undergraduate studies at the institution.]] National Army of Colombia:
 
 -   José María Córdova Military School, located in Bogotá.
 -   Colombian Army NCO School
@@ -225,7 +225,7 @@ Czech Republic
 
 Denmark
 
-Royal_Danish_Naval_Academy.jpg is the oldest-still-existing officers' academy in the world.]]
+is the oldest-still-existing officers' academy in the world.]]
 
 -   Royal Danish Defence College
 -   Royal Danish Military Academy
@@ -247,7 +247,7 @@ El Salvador
 
 Estonia
 
-Selline_kevade_algus_2010.jpg is a multinational military college established by the three Baltic states.]]
+is a multinational military college established by the three Baltic states.]]
 
 -   Estonian National Defence College
 -   Baltic Defence College, both in Tartu
@@ -259,7 +259,7 @@ Finland
 
 France
 
-PrytaneeStudents.jpg'' having lunch, 1900. The institution is one of several military preparatory schools in France.]]
+'' having lunch, 1900. The institution is one of several military preparatory schools in France.]]
 
 High schools
 
@@ -272,7 +272,7 @@ High schools
 
 Officer academies
 
-ESM_close-up_Bastille_Day_2008.jpg'' during the 2008 Bastille Day military parade. The military college was established in 1802 by Napoleon.]]
+'' during the 2008 Bastille Day military parade. The military college was established in 1802 by Napoleon.]]
 
 -   École spéciale militaire de Saint-Cyr (ESM, literally the "Special Military School of St Cyr") is the French Military Academy. It is often referred to as "Saint-Cyr". Founded by Napoleon in 1802, and initially located in Fontainebleau, it was moved first to Saint-Cyr-l'École in 1808, and then to Coëtquidan (Brittany) in 1945.
 -   École militaire interarmes (EMIA)
@@ -308,7 +308,7 @@ NDA is established by the MoD with the status of the Legal Entity of Public Law.
 
 Germany
 
-Rote_Schloss,_MSM_zur_Wasserseite_(Flensburg-Mürwik_2006).jpg of the German Navy.]] Bundeswehr_university_main_library.JPG. It provides post-secondary education to military personnel and civilians.]]
+of the German Navy.]] . It provides post-secondary education to military personnel and civilians.]]
 
 Germany has a unique system for civil and military education. The only true military academy is the _Führungsakademie der Bundeswehr_ where mainly future staff officers and general staff officers are further trained.
 
@@ -336,7 +336,7 @@ Academic and staff education:
 
 Greece
 
-20081004-Piraeus-HNA_A233-0033.jpg of the Hellenic Naval Academy sails past with a crew of naval cadet officers. The Academy is supervised by the Hellenic Navy.]] The Hellenic Armed Forces have military academies supervised by each branch of the Armed Forces individually:
+of the Hellenic Naval Academy sails past with a crew of naval cadet officers. The Academy is supervised by the Hellenic Navy.]] The Hellenic Armed Forces have military academies supervised by each branch of the Armed Forces individually:
 
 -   The Hellenic Army supervises:
     -   The Evelpidon Military Academy, located in Athens.
@@ -353,7 +353,7 @@ Hungary
 
 India
 
-Admiral_RK_Dhowan_reviewing_the_Passing_Out_Parade_at_the_Indian_Military_Academy,_Dehradun_01.JPG, Chief of Naval Staff for India, reviews cadets during a passing out parade of the Indian Military Academy. The institution is a training academy of the Indian Army.]]
+, Chief of Naval Staff for India, reviews cadets during a passing out parade of the Indian Military Academy. The institution is a training academy of the Indian Army.]]
 
 -   National Defence Academy (NDA)
 -   Indian Military Academy (IMA)
@@ -369,7 +369,7 @@ Military Schools 1. 5 Rashtriya Military Schools across India in Belgaum Belgaum
 
 Indonesia
 
-Taruna_akmil.jpg in parade uniform during the Indonesian independence day ceremony. The institution is the military academy of the Indonesian Army.]] Indonesian_air_force_cadets.png in formation before parading for the Air force anniversary ceremony. The Academy is operated by the Indonesian Air Force.]] The Indonesian Military Academy [19] was founded in Yogyakarta, October 13, 1945 by the order of General Staff Chief of Indonesia Army Lieutenant General Urip Sumohardjo as the MILITAIRE ACADEMIE (MA) Yogyakarta.
+in parade uniform during the Indonesian independence day ceremony. The institution is the military academy of the Indonesian Army.]] in formation before parading for the Air force anniversary ceremony. The Academy is operated by the Indonesian Air Force.]] The Indonesian Military Academy [19] was founded in Yogyakarta, October 13, 1945 by the order of General Staff Chief of Indonesia Army Lieutenant General Urip Sumohardjo as the MILITAIRE ACADEMIE (MA) Yogyakarta.
 
 Currently, the _Tentara Nasional Indonesia_ or the "TNI" (Indonesian National Armed Forces), under the supervision of the Commanding General of the Indonesian National Armed Forces Academy System (a three-star officer in billet) in the HQ of the Indonesian National Armed Forces, has divided the academies into the three respective services:
 
@@ -399,7 +399,7 @@ Imam Ali Officers' University (Persian: دانشگاه افسری امام عل�
 
 Italy
 
-Allievo_della_Nunziatella,_1787.jpg in 1787, the year the academy was established. Nunziatellais is the oldest military academy in the world still operating without interruption.]] High School level institutions (only for Classical and Scientific Liceum, starting from grade 10):
+in 1787, the year the academy was established. Nunziatellais is the oldest military academy in the world still operating without interruption.]] High School level institutions (only for Classical and Scientific Liceum, starting from grade 10):
 
 -   Scuola Militare Nunziatella, founded during the Bourbon Period in 1787, in Italian Army, Naples
 -   Scuola Militare Teulié, founded during the Napoleonic period in 1802, Italian Army, Milan
@@ -425,7 +425,7 @@ Japan
 
 Kazakhstan
 
-Kazakh_Cadets_in_Moscow_Parade.jpg march in the 2015 Moscow Victory Day Parade.]]
+march in the 2015 Moscow Victory Day Parade.]]
 
 -   Talgat Bigeldinov Military Institute of Air Defence Forces
 -   National Defense University
@@ -438,7 +438,7 @@ Korea, North
 
 Korea, South
 
-KKMA_Visit_-_03_FEB_2010_(2).jpg during a visit to United Nations Command.]] The three main military academies:
+during a visit to United Nations Command.]] The three main military academies:
 
 -   Korea Military Academy (Army)
 -   Korea Naval Academy
@@ -455,7 +455,7 @@ Kyrgyzstan
 
 Malaysia
 
-V3xn.jpg on an exercise. The institution is a post-secondary school operated by the Malaysian Armed Forces.]] Secondary level institutions:
+on an exercise. The institution is a post-secondary school operated by the Malaysian Armed Forces.]] Secondary level institutions:
 
 -   Royal Military College (Malaysia) (Maktab Tentera Diraja)
 
@@ -475,7 +475,7 @@ Reserve Officer Training Units ( or ) or ROTU exists only in public universities
 
 Mexico
 
-Mexican_cadet.jpg with a golden eagle, the institution's mascot.]]
+with a golden eagle, the institution's mascot.]]
 
 -   Heroica Escuela Naval Militar
 -   Heroico Colegio Militar
@@ -504,7 +504,7 @@ Namibia
 
 Netherlands
 
-Adelborsten_in_college.jpg. The academy is a part of _Nederlandse Defensie Academie_.]]
+. The academy is a part of _Nederlandse Defensie Academie_.]]
 
 -   Koninklijke Militaire Academie
 -   Royal Naval College (Netherlands)
@@ -527,7 +527,7 @@ Tier Three – Senior Officer Education
 
 Nigeria
 
-Afmslab.jpg, a boys-only military high school.]]
+, a boys-only military high school.]]
 
 High school training
 
@@ -548,7 +548,7 @@ Postgraduate officer training
 
 Norway
 
-Wallemsviken.jpg, an undergraduate institution intended to instruct officers of the Royal Norwegian Navy.]]
+, an undergraduate institution intended to instruct officers of the Royal Norwegian Navy.]]
 
 Undergraduate officer training
 
@@ -563,7 +563,7 @@ Postgraduate training
 
 Pakistan
 
-Kakul_Passingoutprade_Oweis.JPG. ]]
+. ]]
 
 -   Pakistan Military Academy, Kakul
 -   Pakistan Air Force Academy, Risalpur
@@ -585,7 +585,7 @@ http://www.policia.gob.pa/direcciones/dnrrhh/ces.html
 
 Paraguay
 
-Cadets_at_the_Francisco_López_Military_Academy_pictured_in_2015.png on parade. The institution is a tri-service military academy.]] The Francisco López Military Academy is located in Capiatá, Paraguay.
+on parade. The institution is a tri-service military academy.]] The Francisco López Military Academy is located in Capiatá, Paraguay.
 
 Peru
 
@@ -598,7 +598,7 @@ Undergraduate officer training
 
 Philippines
 
-Pma_cadets.JPG at a homecoming.]] National_Defense_College_of_the_Philippines_in_Camp_Aguinaldo,_Quezon_City.png is a graduate-level military college established in 1963.]] The Philippines patterned all its military academies after the United States Military Academy (WEST POINT) and the United States Merchant Marine Academy.
+at a homecoming.]] is a graduate-level military college established in 1963.]] The Philippines patterned all its military academies after the United States Military Academy (WEST POINT) and the United States Merchant Marine Academy.
 
 These colleges are operated by the Philippine Government which serves 4 years of different baccalaureate degrees:
 
@@ -615,7 +615,7 @@ The nation's higher military colleges are:
 
 Poland
 
-Załoga_iskra.jpg aboard the ORP _Iskra_, 1937.]]
+aboard the ORP _Iskra_, 1937.]]
 
 -   National Defence University in Warsaw
 -   Jarosław Dąbrowski Military University of Technology in Warsaw
@@ -631,7 +631,7 @@ Defunct
 
 Portugal
 
-P3069432_(6249994461).jpg'' on parade. The school is one of two pre-university institutions in Portugal.]]
+'' on parade. The school is one of two pre-university institutions in Portugal.]]
 
 Pre-University level institution
 
@@ -640,7 +640,7 @@ Pre-University level institution
 
 Undergraduate officer training
 
-Palácio_da_Bemposta_2.JPG of the Portuguese Military Academy, an undergraduate-level institution.]]
+of the Portuguese Military Academy, an undergraduate-level institution.]]
 
 -   Academia Militar, Lisbon and Amadora – Portuguese Army and Republican National Guard university school;
 -   Escola Naval, Almada – Portuguese Navy university school;
@@ -723,7 +723,7 @@ First stage of training
 
 Secondary education
 
-MsSVU08.jpg. The high school was the first of several Suvorov Military School established throughout Russia.]]
+. The high school was the first of several Suvorov Military School established throughout Russia.]]
 
 -   Suvorov Military School are a type of boarding school in modern Russia for boys of 14-18. Education in such these schools focuses on military related subjects.
 
@@ -755,7 +755,7 @@ MsSVU08.jpg. The high school was the first of several Suvorov Military School es
 
 Post-secondary education
 
-Saint_Petersburg_St_Michael's_Castle.jpg, with a monument to Peter the Great in the foreground.]] General-staff-academy-building-moscow-russia-may-2016.jpg is a post-graduate military academy.]]
+, with a monument to Peter the Great in the foreground.]] is a post-graduate military academy.]]
 
 -   Combined Arms Academy of the Armed Forces
 -   Gagarin Air Force Academy (now the Gagarin-Zhukovsky Combined Air Force Academy)
@@ -786,7 +786,7 @@ Staff college
 
 Serbia
 
-Borenje_sabljom.jpg.]]
+.]]
 
 -   Military Academy Belgrade
 -   Military Medical Academy (Serbia)
@@ -828,7 +828,7 @@ Sweden
 
 Undergraduate officer training
 
-Karlbergs_slott_från_Stadshagen.jpg, home of Sweden's Military Academy Karlberg. Established in 1792, it is the oldest military academy in the world to remain in its original location.]]
+, home of Sweden's Military Academy Karlberg. Established in 1792, it is the oldest military academy in the world to remain in its original location.]]
 
 -   Military Academy Karlberg, officers
 -   Military Academy Halmstad, specialist officers (NCO) and reserve officers
@@ -851,7 +851,7 @@ Thailand
 
 Turkey
 
-Cadets_from_the_Turkish_Military_Academy.jpg at 2016 Sandhurst Competition at West Point.]]
+at 2016 Sandhurst Competition at West Point.]]
 
 -   National Defence University
 -   Turkish Military Academy
@@ -895,7 +895,7 @@ United Kingdom
 
 Pre-University level institution
 
-WelbeckParade.JPG. The College is one of two pre-university level institutions in the country.]]
+. The College is one of two pre-university level institutions in the country.]]
 
 -   Welbeck Defence Sixth Form College – Sixth form college for 16- to 18-year-olds providing A-Level education in preparation for entry into the British Armed Forces or Ministry of Defence Civil Service as Technical Officers, following undergraduate education sponsored under the Defence Technical Undergraduate Scheme (DTUS).
 -   Duke of York's Royal Military School – Military based secondary school in Dover, Kent; students are influenced to join the forces after education, but have no commitment to do so.
@@ -908,7 +908,7 @@ Although an undergraduate degree is not a pre-requisite for Officer training, th
 
 Officer training
 
-Sandhurst_Royal_Military_Academy_-_geograph.org.uk_-_44912.jpg. Sandhurst is one of four military academies in the United Kingdom.]] There are now four military academies in the United Kingdom. Although the curriculum at each varies due to the differing nature of the service a man or woman is joining, it is a combination of military and academic study that is designed to turn young civilians into comprehensively trained military officers.
+. Sandhurst is one of four military academies in the United Kingdom.]] There are now four military academies in the United Kingdom. Although the curriculum at each varies due to the differing nature of the service a man or woman is joining, it is a combination of military and academic study that is designed to turn young civilians into comprehensively trained military officers.
 
 -   Britannia Royal Naval College, HMS Dartmouth
 -   Commando Training Centre Royal Marines
@@ -931,7 +931,7 @@ Postgraduate and staff training
 
 :*Advanced Research and Assessment Group
 
-:*Conflict Studies Research Centre The_first_RAF_Staff_College_course_at_Andover.jpg course at Andover, 1922. The staff college operated from 1922 to 1970.]]
+:*Conflict Studies Research Centre course at Andover, 1922. The staff college operated from 1922 to 1970.]]
 
 No longer operational
 
@@ -957,7 +957,7 @@ Most state-level military academies maintain both a civilian student body and a 
 
 Federal Service Academies
 
-Horizontal_Ladder_and_Vertical_Rope_USMA_IOCT.JPG (USMA) navigate the horizontal ladder and vertical rope obstacle of the Indoor Obstacle Course Test. USMA is one of five federal service academies.]] The colleges operated by the U.S. Federal Government are referred to as FEDERAL SERVICE ACADEMIES and are:
+(USMA) navigate the horizontal ladder and vertical rope obstacle of the Indoor Obstacle Course Test. USMA is one of five federal service academies.]] The colleges operated by the U.S. Federal Government are referred to as FEDERAL SERVICE ACADEMIES and are:
 
 -   United States Military Academy, West Point, New York
 -   United States Naval Academy, Annapolis, Maryland
@@ -971,7 +971,7 @@ Post-graduate School
 
 Senior and junior military colleges
 
-Fishreviewfall06.jpg has transformed into a state university, it still maintains a corps of cadets along with a civilian student body.]] MMI_BC_and_Staff.jpg after the Alumni Weekend parade. The Institute is one of four junior military colleges in the United States.]] There is one all-military state-sponsored military academy:
+has transformed into a state university, it still maintains a corps of cadets along with a civilian student body.]] after the Alumni Weekend parade. The Institute is one of four junior military colleges in the United States.]] There is one all-military state-sponsored military academy:
 
 -   The Virginia Military Institute (VMI), Lexington, Virginia
 
@@ -994,7 +994,7 @@ Today four institutions are considered Military Junior Colleges (MJC). These fou
 
 Merchant Marine Academies that have military academy style operations
 
-TS_State_of_Michigan_on_Grand_Traverse_Bay.jpg learning how to row a boat. The institution is one of six military-styled maritime academies in the United States.]] There are six (6) state-operated Merchant Marine academies:
+learning how to row a boat. The institution is one of six military-styled maritime academies in the United States.]] There are six (6) state-operated Merchant Marine academies:
 
 -   Massachusetts Maritime Academy
 -   Maine Maritime Academy
@@ -1018,7 +1018,7 @@ United States Air Force Air University attached staff colleges
 
 Staff Colleges of the United States Army
 
-Classroom_Activities,_School_of_Advanced_Military_Studies,_Fort_Leavenworth,_2_November_2010.jpg, one of four staff colleges of the United States Army.]]
+, one of four staff colleges of the United States Army.]]
 
 -   United States Army Command and General Staff College
 -   United States Army School of Advanced Military Studies
@@ -1032,7 +1032,7 @@ Staff Colleges of the United States Navy and the United States Marine Corps
 
 Joint Service staff colleges
 
-National_War_College_-_Roosevelt_Hall.jpg, a school of the National Defense University is a multi-service staff college in the United States.]]
+, a school of the National Defense University is a multi-service staff college in the United States.]]
 
 -   National Defense University in Washington, D.C. which includes the
     -   Joint Forces Staff College (Norfolk, Virginia)

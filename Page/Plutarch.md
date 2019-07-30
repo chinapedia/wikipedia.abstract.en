@@ -5,7 +5,7 @@ Life
 
 Early life
 
-Delphi_temple_of_Apollo_dsc06283.jpg, where Plutarch served as one of the priests responsible for interpreting the predictions of the Pythia]]
+, where Plutarch served as one of the priests responsible for interpreting the predictions of the Pythia]]
 
 Plutarch was born to a prominent family in the small town of Chaeronea, about east of Delphi, in the Greek region of Boeotia. His family was wealthy. The name of Plutarch's father has not been preserved, but based on the common Greek custom of repeating a name in alternate generations, it was probably Nikarchus (). The name of Plutarch's grandfather was Lamprias, as he attested in _Moralia_[5] and in his _Life of Antony_.
 
@@ -31,14 +31,14 @@ According to the 8th/9th-century historian George Syncellus, late in Plutarch's 
 
 Late period: Priest at Delphi
 
-Plutarch_and_herm.jpg Plutarch spent the last thirty years of his life serving as a priest in Delphi. He thus connected part of his literary work with the sanctuary of Apollo, the processes of oracle-giving and the personalities who lived or traveled there. One of his most important works is the "Why Pythia does not give oracles in verse" (Moralia 11) ( "Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν").[15] Even more important is the dialogue "On the E in Delphi" ("Περὶ τοῦ Εἶ τοῦ ἐν Δελφοῖς"),[16] which features Ammonius, a Platonic philosopher and teacher of Plutarch, and Lambrias, Plutarch's brother. According to Ammonius, the letter E written on the temple of Apollo in Delphi originated from the following fact: the wise men of antiquity, whose maxims were also written on the walls of the vestibule of the temple, were not seven but actually five: Chilon, Solon, Thales, Bias and Pittakos. However, the tyrants Cleobulos and Periandros used their political power in order to be incorporated in the list. Thus, the E, which corresponds to number 5, constituted an acknowledgment that the Delphic maxims actually originated from the five real wise men. The portrait of a philosopher exhibited at the exit of the Archaeological Museum of Delphi, dating to the 2nd century AD, had been in the past identified with Plutarch. The man, although bearded, is depicted at a relatively young age. His hair and beard are rendered in coarse volumes and thin incisions. The gaze is deep, due to the heavy eyelids and the incised pupils. The portrait is no longer thought to represent Plutarch. But a fragmentary hermaic stele next to the portrait probably did once bear a portrait of Plutarch, since it is inscribed, "The Delphians along with the Chaeroneans dedicated this to Plutarch, following the precepts of the Amphictyony" ("Δελφοὶ Χαιρωνεῦσιν ὁμοῦ Πλούταρχον ἔθηκαν | τοῖς Ἀμφικτυόνων δόγμασι πειθόμενοι" _Syll_.³ 843=_CID_ 4, no. 151).
+Plutarch spent the last thirty years of his life serving as a priest in Delphi. He thus connected part of his literary work with the sanctuary of Apollo, the processes of oracle-giving and the personalities who lived or traveled there. One of his most important works is the "Why Pythia does not give oracles in verse" (Moralia 11) ( "Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν").[15] Even more important is the dialogue "On the E in Delphi" ("Περὶ τοῦ Εἶ τοῦ ἐν Δελφοῖς"),[16] which features Ammonius, a Platonic philosopher and teacher of Plutarch, and Lambrias, Plutarch's brother. According to Ammonius, the letter E written on the temple of Apollo in Delphi originated from the following fact: the wise men of antiquity, whose maxims were also written on the walls of the vestibule of the temple, were not seven but actually five: Chilon, Solon, Thales, Bias and Pittakos. However, the tyrants Cleobulos and Periandros used their political power in order to be incorporated in the list. Thus, the E, which corresponds to number 5, constituted an acknowledgment that the Delphic maxims actually originated from the five real wise men. The portrait of a philosopher exhibited at the exit of the Archaeological Museum of Delphi, dating to the 2nd century AD, had been in the past identified with Plutarch. The man, although bearded, is depicted at a relatively young age. His hair and beard are rendered in coarse volumes and thin incisions. The gaze is deep, due to the heavy eyelids and the incised pupils. The portrait is no longer thought to represent Plutarch. But a fragmentary hermaic stele next to the portrait probably did once bear a portrait of Plutarch, since it is inscribed, "The Delphians along with the Chaeroneans dedicated this to Plutarch, following the precepts of the Amphictyony" ("Δελφοὶ Χαιρωνεῦσιν ὁμοῦ Πλούταρχον ἔθηκαν | τοῖς Ἀμφικτυόνων δόγμασι πειθόμενοι" _Syll_.³ 843=_CID_ 4, no. 151).
 
 
 Works
 
 Lives of the Roman emperors
 
-Nuremberg_chronicles_f_111r_3.png'' ]] Plutarch's first biographical works were the Lives of the Roman Emperors from Augustus to Vitellius. Of these, only the Lives of Galba and Otho survive. The Lives of Tiberius and Nero are extant only as fragments, provided by Damascius (Life of Tiberius, cf. his Life of Isidore)[17] and Plutarch himself (Life of Nero, cf. Galba 2.1), respectively. These early emperors’ biographies were probably published under the Flavian dynasty or during the reign of Nerva (AD 96–98).
+'' ]] Plutarch's first biographical works were the Lives of the Roman Emperors from Augustus to Vitellius. Of these, only the Lives of Galba and Otho survive. The Lives of Tiberius and Nero are extant only as fragments, provided by Damascius (Life of Tiberius, cf. his Life of Isidore)[17] and Plutarch himself (Life of Nero, cf. Galba 2.1), respectively. These early emperors’ biographies were probably published under the Flavian dynasty or during the reign of Nerva (AD 96–98).
 
 There is reason to believe that the two Lives still extant, those of Galba and Otho, "ought to be considered as a single work."[18] Therefore, they do not form a part of the Plutarchian canon of single biographies – as represented by the Life of Aratus of Sicyon and the Life of Artaxerxes II (the biographies of Hesiod, Pindar, Crates and Daiphantus were lost). Unlike in these biographies, in _Galba-Otho_ the individual characters of the persons portrayed are not depicted for their own sake but instead serve as an illustration of an abstract principle; namely the adherence or non-adherence to Plutarch’s morally founded ideal of governing as a Princeps (cf. Galba 1.3; Moralia 328D–E).[19]
 
@@ -48,7 +48,7 @@ _Galba-Otho_ was handed down through different channels. It can be found in the 
 
 _Parallel Lives_
 
-Plutarch_Han.jpg'']]
+'']]
 
 Plutarch's best-known work is the _Parallel Lives_, a series of biographies of famous Greeks and Romans, arranged in pairs to illuminate their common moral virtues and vices. The surviving _Lives_ contain 23 pairs, each with one Greek _Life_ and one Roman _Life_, as well as four unpaired single _Lives_.
 
@@ -93,8 +93,6 @@ On the other hand, he generally sets out his moral anecdotes in chronological or
 
 _Moralia_
 
-Plutarchus_-_Moralia._De_placitis_philosophorum,_1531_-_3020537.tif
-
 The remainder of Plutarch's surviving work is collected under the title of the _Moralia_ (loosely translated as _Customs and Mores_). It is an eclectic collection of seventy-eight essays and transcribed speeches, including _On Fraternal Affection_—a discourse on honour and affection of siblings toward each other, _On the Fortune or the Virtue of Alexander the Great_—an important adjunct to his Life of the great king, _On the Worship of Isis and Osiris_ (a crucial source of information on Egyptian religious rites),[32] along with more philosophical treatises, such as _On the Decline of the Oracles_, _On the Delays of the Divine Vengeance_, _On Peace of Mind_ and lighter fare, such as _Odysseus and Gryllus_, a humorous dialogue between Homer's Odysseus and one of Circe's enchanted pigs. The _Moralia_ was composed first, while writing the Lives occupied much of the last two decades of Plutarch's own life.
 
 _Questions_
@@ -103,7 +101,7 @@ Book IV of the _Moralia_ contains the _Roman and Greek Questions_ (Αἰτίαι
 
 _On the Malice of Herodotus_
 
-Herodotus_Massimo_Inv124478.jpg, whom Plutarch criticized in _On the Malice of Herodotus_]]
+, whom Plutarch criticized in _On the Malice of Herodotus_]]
 
 In _On the Malice of Herodotus_ Plutarch criticizes the historian Herodotus for all manner of prejudice and misrepresentation. It has been called the "first instance in literature of the slashing review."[34] The 19th-century English historian George Grote considered this essay a serious attack upon the works of Herodotus, and speaks of the "honourable frankness which Plutarch calls his malignity."[35] Plutarch makes some palpable hits, catching Herodotus out in various errors, but it is also probable that it was merely a rhetorical exercise, in which Plutarch plays devil's advocate to see what could be said against so favourite and well-known a writer.[36] According to Plutarch scholar R. H. Barrow, Herodotus’ real failing in Plutarch’s eyes was to advance any criticism at all of those states that saved Greece from Persia. “Plutarch”, he concluded, “is fanatically biased in favor of the Greek cities; they can do no wrong.”[37]
 

@@ -1,4 +1,4 @@
-Organic_CMOS_logic_circuit.jpg logic circuit. Total thickness is less than 3 μm. Scale bar: 25 mm]] ORGANIC ELECTRONICS is a field of materials science concerning the design, synthesis, characterization, and application of organic small molecules or polymers that show desirable electronic properties such as conductivity. Unlike conventional inorganic conductors and semiconductors, organic electronic materials are constructed from organic (carbon-based) small molecules or polymers using synthetic strategies developed in the context of organic and polymer chemistry. One of the promised benefits of organic electronics is their potential low cost compared to traditional inorganic electronics.[1][2][3] Attractive properties of polymeric conductors include their electrical conductivity that can be varied by the concentrations of dopants. Relative to metals, they have mechanical flexibility. Some have high thermal stability.
+logic circuit. Total thickness is less than 3 μm. Scale bar: 25 mm]] ORGANIC ELECTRONICS is a field of materials science concerning the design, synthesis, characterization, and application of organic small molecules or polymers that show desirable electronic properties such as conductivity. Unlike conventional inorganic conductors and semiconductors, organic electronic materials are constructed from organic (carbon-based) small molecules or polymers using synthetic strategies developed in the context of organic and polymer chemistry. One of the promised benefits of organic electronics is their potential low cost compared to traditional inorganic electronics.[1][2][3] Attractive properties of polymeric conductors include their electrical conductivity that can be varied by the concentrations of dopants. Relative to metals, they have mechanical flexibility. Some have high thermal stability.
 
 
 History
@@ -16,7 +16,7 @@ The initial characterization of the basic properties of polymer light emitting d
 
 Conductive organic materials
 
-Semiconducting_small_molecules.png Organic conductive materials can be grouped into two main classes: conductive polymers and conductive molecular solids and salts.
+Organic conductive materials can be grouped into two main classes: conductive polymers and conductive molecular solids and salts.
 
 Molecular solids and salts
 
@@ -29,7 +29,7 @@ Conductive polymers are often typically intrinsically conductive or at least sem
 
 Organic light-emitting diode
 
-An OLED (organic light-emitting diode) consists of a thin film of organic material that emits light under stimulation by an electric current. A typical OLED consists of an anode, a cathode, OLED organic material and a conductive layer. Br6Acrystal.png Bilayer-OLED.png
+An OLED (organic light-emitting diode) consists of a thin film of organic material that emits light under stimulation by an electric current. A typical OLED consists of an anode, a cathode, OLED organic material and a conductive layer.
 
 Discovery of OLED
 
@@ -44,7 +44,7 @@ Polymer light-emitting diodes (PLEDs), similar to SM-OLED, emit light under an a
 
 Organic field-effect transistor
 
-Rubrene.svg An Organic field-effect transistor is a field-effect transistor utilizing organic molecules or polymers as the active semiconducting layer. A field-effect transistor (FET) is any semiconductor material that utilizes electric field to control the shape of a channel of one type of charge carrier, thereby changing its conductivity. Two major classes of FET are n-type and p-type semiconductor, classified according to the charge type carried. In the case of organic FETs (OFETs), p-type OFET compounds are generally more stable than n-type due to the susceptibility of the latter to oxidative damage.
+An Organic field-effect transistor is a field-effect transistor utilizing organic molecules or polymers as the active semiconducting layer. A field-effect transistor (FET) is any semiconductor material that utilizes electric field to control the shape of a channel of one type of charge carrier, thereby changing its conductivity. Two major classes of FET are n-type and p-type semiconductor, classified according to the charge type carried. In the case of organic FETs (OFETs), p-type OFET compounds are generally more stable than n-type due to the susceptibility of the latter to oxidative damage.
 
 Discovery of the OFET
 
@@ -57,7 +57,7 @@ Like OLEDs, OFETs can be classified into small-molecule and polymer-based system
 
 Organic electronic devices
 
-Flexible_display.jpg Organic_photovoltaic_material.pdf Organic solar cells could cut the cost of solar power by making use of inexpensive organic polymers rather than the expensive crystalline silicon used in most solar cells. What's more, the polymers can be processed using low-cost equipment such as ink-jet printers or coating equipment employed to make photographic film, which reduces both capital and operating costs compared with conventional solar-cell manufacturing.[28]
+Organic solar cells could cut the cost of solar power by making use of inexpensive organic polymers rather than the expensive crystalline silicon used in most solar cells. What's more, the polymers can be processed using low-cost equipment such as ink-jet printers or coating equipment employed to make photographic film, which reduces both capital and operating costs compared with conventional solar-cell manufacturing.[28]
 
 Silicon thin-film solar cells on flexible substrates allow a significant cost reduction of large-area photovoltaics for several reasons:[29]
 
@@ -74,9 +74,9 @@ There are important differences between the processing of small molecule organic
 
 Organic solar cells
 
-BilayerElectrode.pdf Compared to conventional inorganic solar cell, organic solar cells have the advantage of lower fabrication cost. An organic solar cell is a device that uses organic electronics to convert light into electricity. Organic solar cells utilize organic photovoltaic materials, organic semiconductor diodes that convert light into electricity. Figure to the right shows five commonly used organic photovoltaic materials. Electrons in these organic molecules can be delocalized in a delocalized π orbital with a corresponding π* antibonding orbital. The difference in energy between the π orbital, or highest occupied molecular orbital(HOMO), and π* orbital, or lowest unoccupied molecular orbital(LUMO) is called the band gap of organic photovoltaic materials. Typically, the band gap lies in the range of 1-4eV.[34][35][36]
+Compared to conventional inorganic solar cell, organic solar cells have the advantage of lower fabrication cost. An organic solar cell is a device that uses organic electronics to convert light into electricity. Organic solar cells utilize organic photovoltaic materials, organic semiconductor diodes that convert light into electricity. Figure to the right shows five commonly used organic photovoltaic materials. Electrons in these organic molecules can be delocalized in a delocalized π orbital with a corresponding π* antibonding orbital. The difference in energy between the π orbital, or highest occupied molecular orbital(HOMO), and π* orbital, or lowest unoccupied molecular orbital(LUMO) is called the band gap of organic photovoltaic materials. Typically, the band gap lies in the range of 1-4eV.[34][35][36]
 
-The difference in the band gap of organic photovoltaic materials leads to different chemical structures and forms of organic solar cells. Different forms of solar cells includes single-layer organic photovoltaic cells, bilayer organic photovoltaic cells and heterojunction photovoltaic cells. However, all three of these types of solar cells share the approach of sandwiching the organic electronic layer between two metallic conductors, typically indium tin oxide.[37] Tft.png
+The difference in the band gap of organic photovoltaic materials leads to different chemical structures and forms of organic solar cells. Different forms of solar cells includes single-layer organic photovoltaic cells, bilayer organic photovoltaic cells and heterojunction photovoltaic cells. However, all three of these types of solar cells share the approach of sandwiching the organic electronic layer between two metallic conductors, typically indium tin oxide.[37]
 
 Organic field-effect transistors
 

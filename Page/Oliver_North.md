@@ -39,23 +39,23 @@ Military awards
 
 North received the following military awards and decorations:[21][22][23][24]
 
-+-------------------------------------+
-| USA_Parachutist.png                 |
-+-------------------------------------+
-|                                     |
-+-------------------------------------+
-|                                     |
-+-------------------------------------+
-|                                     |
-+-------------------------------------+
-|                                     |
-+-------------------------------------+
-|                                     |
-+-------------------------------------+
-|                                     |
-+-------------------------------------+
-| US_-_Presidential_Service_Badge.png |
-+-------------------------------------+
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
 
 +--------------------------------------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------+
 |                                                                                      | Basic Parachutist Badge                                               |                                                     |
@@ -80,7 +80,7 @@ North received the following military awards and decorations:[21][22][23][24]
 
 Iran–Contra affair
 
-Oliver_North_mug_shot.jpg North came into the public spotlight as a result of his participation in the Iran-Contra affair, a political scandal during the Reagan administration, in which he claimed partial responsibility for the sale of weapons through intermediaries to Iran, with the profits being channeled to the Contras in Nicaragua. It was alleged that he was responsible for the establishment of a covert network which subsequently funneled those funds to the Contras. Congress passed the Boland Amendment (to the House Appropriations Bill of 1982 and following years),[25] which prohibited the appropriation of U.S. funds by intelligence agencies for the support of the Contras.
+North came into the public spotlight as a result of his participation in the Iran-Contra affair, a political scandal during the Reagan administration, in which he claimed partial responsibility for the sale of weapons through intermediaries to Iran, with the profits being channeled to the Contras in Nicaragua. It was alleged that he was responsible for the establishment of a covert network which subsequently funneled those funds to the Contras. Congress passed the Boland Amendment (to the House Appropriations Bill of 1982 and following years),[25] which prohibited the appropriation of U.S. funds by intelligence agencies for the support of the Contras.
 
 North solicited $10 million from the Sultan of Brunei to skirt U.S. prohibitions on funding the Contras. However, he gave the wrong number of the Swiss bank account intended to launder the money, and it went instead to a Swiss businessman. A Senate committee investigating the transaction tracked it down so it could be returned to Brunei.[26]
 
@@ -99,21 +99,19 @@ The individual members of the prosecution team had isolated themselves from news
 
 Later life
 
-OliverNorthBookSigning.jpg
-
 Politics
 
 In the 1994 election, North unsuccessfully ran for the United States Senate as the Republican Party candidate in Virginia. Republican Senator John Warner of Virginia endorsed Marshall Coleman, a Republican who ran as an independent, instead of North. North lost, garnering 43 percent of votes, while incumbent Democrat Charles Robb,[40] a son-in-law of President Lyndon B. Johnson, won reelection with 46 percent. Coleman received 11 percent. North's candidacy was documented in the 1996 film _A Perfect Candidate_.[41]
 
-Oliver_North_2.jpg, Franklin County, Ohio Assistant Fire Chief John Harris and Lieutenant Douglas Brown, at a public speaking event.]] In his failed bid to unseat Robb, North raised $20.3 million in a single year through nationwide direct-mail solicitations, telemarketing, fundraising events, and contributions from major donors. About $16 million of that amount was from direct mail alone. This was the biggest accumulation of direct-mail funds for a statewide campaign to that date, and it made North the top direct-mail political fundraiser in the country in 1994.[42]
+, Franklin County, Ohio Assistant Fire Chief John Harris and Lieutenant Douglas Brown, at a public speaking event.]] In his failed bid to unseat Robb, North raised $20.3 million in a single year through nationwide direct-mail solicitations, telemarketing, fundraising events, and contributions from major donors. About $16 million of that amount was from direct mail alone. This was the biggest accumulation of direct-mail funds for a statewide campaign to that date, and it made North the top direct-mail political fundraiser in the country in 1994.[42]
 
 Books and media
 
 North has written several best-selling books including _Under Fire_, _One More Mission_, _War Stories—Operation Iraqi Freedom_,[43] _Mission Compromised_,[44] _The Jericho Sanction_,[45] and _The Assassins_.[46]
 
-His book _American Heroes_ was released nationally in the United States on May 6, 2008. In the book, "North addresses issues of defense against global terrorism, Jihad, and radical Islam from his firsthand perspective as a military officer and national security advisor and current Middle East war correspondent."[47] He writes a nationally syndicated newspaper column through Creators Syndicate.[48] USMC-050509-M-0502E-006.jpg, 2005]] On November 5, 2013, North's _American Heroes on the Homefront_, was released. This is a nonfiction book that gives a firsthand account of the Americans who have volunteered to join the United States Army. The book was a collection from the dozen years North and the Fox News Channel have traveled the frontlines of the War on Terror. During those years North and his team have profiled hundreds of soldiers and chronicles what it means to be a hero. In the book he continues the journey by following these soldiers from the battlefield back to the home front.[49]
+His book _American Heroes_ was released nationally in the United States on May 6, 2008. In the book, "North addresses issues of defense against global terrorism, Jihad, and radical Islam from his firsthand perspective as a military officer and national security advisor and current Middle East war correspondent."[47] He writes a nationally syndicated newspaper column through Creators Syndicate.[48] , 2005]] On November 5, 2013, North's _American Heroes on the Homefront_, was released. This is a nonfiction book that gives a firsthand account of the Americans who have volunteered to join the United States Army. The book was a collection from the dozen years North and the Fox News Channel have traveled the frontlines of the War on Terror. During those years North and his team have profiled hundreds of soldiers and chronicles what it means to be a hero. In the book he continues the journey by following these soldiers from the battlefield back to the home front.[49]
 
-Oliver_North_at_Holloman_Air_Force_Base_(4462410923).jpg, New Mexico, 2010]] In 1991 North appeared on the first season of _The Jerry Springer Show_. From 1995 to 2003, he was host of his own nationally syndicated radio program on Radio America known as the _Oliver North Radio Show_ or _Common Sense Radio_. He also served as co-host of _Equal Time_ on MSNBC for a couple of years starting in 1999. North was the host of the television show _War Stories with Oliver North_ from 2001 to 2016, and is a regular commentator on _Hannity_, both on the Fox News Channel.[50] North appeared as himself on many television shows including the sitcom _Wings_ in 1991, and three episodes of the TV military drama _JAG_ in 1995, 1996, and 2002 as "Ollie", a close friend of the deceased father of Tracey Needham's character Meg Austin.[51]
+, New Mexico, 2010]] In 1991 North appeared on the first season of _The Jerry Springer Show_. From 1995 to 2003, he was host of his own nationally syndicated radio program on Radio America known as the _Oliver North Radio Show_ or _Common Sense Radio_. He also served as co-host of _Equal Time_ on MSNBC for a couple of years starting in 1999. North was the host of the television show _War Stories with Oliver North_ from 2001 to 2016, and is a regular commentator on _Hannity_, both on the Fox News Channel.[50] North appeared as himself on many television shows including the sitcom _Wings_ in 1991, and three episodes of the TV military drama _JAG_ in 1995, 1996, and 2002 as "Ollie", a close friend of the deceased father of Tracey Needham's character Meg Austin.[51]
 
 In addition, he regularly speaks at both public and private events. North appears in an episode of _Auction Kings_ to have his Marine Corps sword returned after it was lost and presumably stolen in 1980. North was credited as a military consultant in the 2012 video game _Call of Duty: Black Ops II_ and voiced himself in one level of the game.[52] In Season 4, Episode 15 _Stanny Slickers II: The Legend of Ollie's Gold_ of the TV series _American Dad!_ Stan Smith searches under his house for Oliver North's hidden gold. In 2014 he received story credit for an episode of the TV series _The Americans_ where the protagonist Soviet spies infiltrate a Contra training base in the United States.[53]
 

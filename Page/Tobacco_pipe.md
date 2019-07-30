@@ -1,11 +1,11 @@
-smoking_pipe_rack.jpg Adventures_with_Sherlock_Holmes_TD_Gallery_Jan_5-Mar_10,_2012.jpg smoking a pipe. This color painting by Sidney Paget first appeared in the September, 1914 number of _Strand Magazine_ to illustrate the first installment of "The Valley of Fear".]]
+smoking a pipe. This color painting by Sidney Paget first appeared in the September, 1914 number of _Strand Magazine_ to illustrate the first installment of "The Valley of Fear".]]
 
 A TOBACCO PIPE, often called simply a PIPE, is a device specifically made to smoke tobacco. It comprises a chamber (the bowl) for the tobacco from which a thin hollow stem (shank) emerges, ending in a mouthpiece (the bit). Pipes can range from very simple machine-made briar models to highly prized hand-made artisanal implements made by renowned pipemakers, which are often very expensive collector's items. Pipe smoking is the oldest known traditional form of tobacco smoking.
 
 
 History
 
-Inlayed_Pipe_Bowl_with_Two_Faces,_early_19th_century,50.67.104.jpg]]
+]]
 
 Some Native American cultures smoke tobacco in ceremonial pipes, and have done so since long before the arrival of Europeans. For instance the Lakota people use a ceremonial pipe called ČHAŊNÚŊPA. Other American Indian cultures smoke tobacco socially.[1] The tobacco plant is native to South America but spread into North America long before Europeans arrived. Tobacco was introduced to Europe from the Americas in the 16th century and spread around the world rapidly.
 
@@ -19,8 +19,6 @@ Principle
 A pipe's fundamental function is to provide a relatively safe, manipulable volume in which to incompletely combust a smokable substance. Typically this is accomplished by connecting a refractory 'bowl' to some sort of 'stem' which extends and may also cool the smoke mixture drawn through the combusting organic mass (see below).
 
 Parts
-
-Tobacco_pipe_parts.svg
 
 The broad anatomy of a pipe typically comprises mainly the bowl and the stem. The _bowl_ (1) which is the cup-like outer shell, the part hand-held while packing, holding and smoking a pipe, is also the part "knocked" top-down to loosen and release impacted spent tobacco. On being sucked, the general stem delivers the smoke from the bowl to the user's mouth.
 
@@ -78,8 +76,6 @@ File:Smoking pipe macarthur.jpg|MacArthur. File:Zulu.jpg%7CBing. File:Pipe Neoge
 
 Calabash
 
-calabash-pipe.jpg
-
 Calabash gourds (usually with meerschaum or porcelain bowls set inside them) have long made prized pipes, but they are labour-intensive and, today, quite expensive. Because of this expense, pipes with bodies made of wood (usually mahogany) instead of gourd, but with the same classic shape, are sold as calabashes. Both wood and gourd pipes are functionally the same (with the important exception that the dried gourd, usually being noticeably lighter, sits more comfortably in the mouth). They consist of a downward curve that ends with an upcurve where the bowl sits. Beneath the bowl is an air chamber which serves to cool, dry, and mellow the smoke. There are also briar pipes being sold as calabashes. These typically do not have an air chamber and are so named only because of their external shape.
 
 A calabash pipe is rather large and easy to recognize as a pipe when used on a stage in dramatic productions. Although a British newspaper cartoon of the early 1900s depicts the British actor H. A. Saintsbury as the Great Detective smoking what may be a calabash pipe, its now-stereotypical identification with Sherlock Holmes remains a mystery.
@@ -98,7 +94,7 @@ Bowls are made of varying shapes and materials to allow the smoker to try differ
 
 Hookahs
 
-Hookah_2.jpgian hookah (shisha)]] A _hookah_, _ghelyan_, or _narghile_, is a Middle Eastern water pipe that cools the smoke by filtering it through a water chamber. Often ice, cough-drops, milk, or fruit juice is added to the water. Traditionally, the tobacco is mixed with a sweetener, such as honey or molasses. Fruit flavors have also become popular. Modern hookah smokers, especially in the US, smoke "me'assel", "moassel", "molasses" or "shisha", all names for the same wet mixture of tobacco, molasses/honey, glycerine, and often, flavoring. This style of tobacco is smoked in a bowl with foil or a screen (metal or glass) on top of the bowl. More traditional tobaccos are "tombiek" (a dry unflavored tobacco, which the user moistens in water, squeezes out the extra liquid, and places coals directly on top) or "jarak" (more of a paste of tobacco with fruit to flavor the smoke).
+ian hookah (shisha)]] A _hookah_, _ghelyan_, or _narghile_, is a Middle Eastern water pipe that cools the smoke by filtering it through a water chamber. Often ice, cough-drops, milk, or fruit juice is added to the water. Traditionally, the tobacco is mixed with a sweetener, such as honey or molasses. Fruit flavors have also become popular. Modern hookah smokers, especially in the US, smoke "me'assel", "moassel", "molasses" or "shisha", all names for the same wet mixture of tobacco, molasses/honey, glycerine, and often, flavoring. This style of tobacco is smoked in a bowl with foil or a screen (metal or glass) on top of the bowl. More traditional tobaccos are "tombiek" (a dry unflavored tobacco, which the user moistens in water, squeezes out the extra liquid, and places coals directly on top) or "jarak" (more of a paste of tobacco with fruit to flavor the smoke).
 
 Bowl materials
 
@@ -118,11 +114,11 @@ File:Smoking pipe billard 2.jpg|Briar. File:Smoking pipe beechwood.jpg|Beechwood
 
 Briar
 
-A-Peterson-pipe.jpg briar pipe]]The majority of pipes sold today, whether handmade or machine-made, are fashioned from briar (). Briar is a particularly well suited wood for pipe making for a number of reasons. The first and most important characteristic is its natural resistance to fire. The second is its inherent ability to absorb moisture. The burl absorbs water in nature to supply the tree in the dry times and likewise will absorb the moisture that is a byproduct of combustion. Briar is cut from the root burl of the tree heath (_Erica arborea_), which is native to the rocky and sandy soils of the Mediterranean region. Briar burls are cut into two types of blocks; ebauchon and plateaux. Ebauchon is taken from the heart of the burl while plateaux is taken from the outer part of the burl. While both types of blocks can produce pipes of the highest quality, most artisan pipemakers prefer to use plateaux because of its superior graining.
+briar pipe]]The majority of pipes sold today, whether handmade or machine-made, are fashioned from briar (). Briar is a particularly well suited wood for pipe making for a number of reasons. The first and most important characteristic is its natural resistance to fire. The second is its inherent ability to absorb moisture. The burl absorbs water in nature to supply the tree in the dry times and likewise will absorb the moisture that is a byproduct of combustion. Briar is cut from the root burl of the tree heath (_Erica arborea_), which is native to the rocky and sandy soils of the Mediterranean region. Briar burls are cut into two types of blocks; ebauchon and plateaux. Ebauchon is taken from the heart of the burl while plateaux is taken from the outer part of the burl. While both types of blocks can produce pipes of the highest quality, most artisan pipemakers prefer to use plateaux because of its superior graining.
 
 Clay
 
-ClayPipesBedfordMuseum.JPG, 2010]]
+, 2010]]
 
 Ceramic pipes, made of moulded and then fired clay, were used almost universally by Europeans between the introduction of tobacco in the 16th century, and the introduction of cheap cigarettes at the end of the nineteenth.[3]
 
@@ -136,21 +132,19 @@ Broken fragments of clay pipe can be useful as dating evidence for archaeologist
 
 Corncob
 
-Corncob-pipe.jpg pipe]] The specifically American style of pipes made from corncobs are cheap and effective, even if some regard them as inelegant. The cobs are first dried for two years. Then they are hollowed out to make a bowl shape. The bowls are dipped in a plaster-based mixture and varnished or lacquered on the outside. Shanks made from birch wood are then inserted into the bowls. The first and largest manufacturer of corncob pipes is Missouri Meerschaum, located in Washington, Missouri, in the United States.[10] Missouri Meerschaum has produced the pipes since 1869.[11] General Douglas MacArthur and Mark Twain were perhaps the most famous smokers of this type of pipe, along with the cartoon characters Popeye and Frosty the Snowman.
+pipe]] The specifically American style of pipes made from corncobs are cheap and effective, even if some regard them as inelegant. The cobs are first dried for two years. Then they are hollowed out to make a bowl shape. The bowls are dipped in a plaster-based mixture and varnished or lacquered on the outside. Shanks made from birch wood are then inserted into the bowls. The first and largest manufacturer of corncob pipes is Missouri Meerschaum, located in Washington, Missouri, in the United States.[10] Missouri Meerschaum has produced the pipes since 1869.[11] General Douglas MacArthur and Mark Twain were perhaps the most famous smokers of this type of pipe, along with the cartoon characters Popeye and Frosty the Snowman.
 
 Corncob pipes remain popular today because they are inexpensive and require no "break-in" period like briar pipes.[12][13] For these two reasons, corncob pipes are often recommended as a "beginner's pipe."[14] However, corncob pipes are equally valued by both learners and experienced smokers who simply desire a cool, clean smoke. Pipesmokers who wish to sample a wide variety of different tobaccos and blends also might keep a stock of corncobs on hand to permit them to try new flavors without "carryover" from an already-used pipe, or to keep a potentially bad-tasting tobacco from adding its flavor to a more expensive or favored pipe.[15]
 
 Meerschaum
 
-Meerschaumpfeife.jpg]]
+]]
 
 Meerschaum (hydrated magnesium silicate), a mineral found in small shallow deposits mainly around the city of Eskişehir in central Turkey, is prized for the properties which allow it to be carved into finely detailed decorative and figural shapes. It has been used since the 17th century and, with clay pipes, represented the most common medium for pipes before the introduction of briar as the material of choice in the 19th century. The word "meerschaum" means "sea foam" in German, alluding to its natural white color and its surprisingly low weight. Meerschaum is a very porous mineral that absorbs elements of the tobacco during the smoking process, and gradually changes color to a golden brown. Old, well-smoked meerschaum pipes are valued by collectors for their distinctive coloring.
 
 Meerschaum pipes can either be carved from a block of meerschaum, or made from meerschaum dust collected after carving and mixed with a binder then pressed into a pipe shape. The latter are far less absorbent, color in blotches, and lack the smoking quality of the block carved pipe.
 
 Synthetics
-
-VenturiPipeGreen.jpg
 
 A variety of other materials may also be used for pipes. The Redmanol corporation manufactured pipes with translucent stems in the 1920s and a series of pipes were manufactured and distributed by the Tar Gard (later Venturi) Corporation of San Francisco from 1965-1975. Marketed under names such as "the pipe," "THE SMOKE" and "Venturi," they used materials such as pyrolytic graphite, phenolic resin, nylon, Bakelite and other synthetics, allowing for higher temperatures in the bowl, reduced tar, and aesthetic variations of color and style.[16] After Venturi stopped making pipes, several companies continue to make pipes from Brylon, a composite of nylon and wood flour, as a cheaper substitute for briar.
 
@@ -246,8 +240,6 @@ Smoking a pipe requires more apparatus and technique than cigarette or even ciga
 
 Tobacco
 
-DunhillEarlyMorningPipeMurrays.jpg
-
 Tobaccos for smoking in pipes are often carefully treated and blended to achieve flavour nuances not available in other tobacco products. Many of these are blends using staple ingredients of variously cured Burley and Virginia tobaccos which are enhanced by spice tobaccos, among them many Oriental or Balkan varietals, Latakia (a fire-cured spice tobacco of Syrian origin), Perique (uniquely grown in St. James Parish, Louisiana) which is also an old method of fermentation, or blends of Virginia and Burley tobaccos of African, Indian, or South American origins. Traditionally, many U.S. blends are made of American Burley with sweeteners and flavorings added to create an "aromatic" flavor, whereas "English" blends are based on natural Virginia tobaccos enhanced with Oriental and other natural tobaccos. There is a growing tendency towards "natural" tobaccos which derive their aromas from artful blending with selected spice tobaccos only and careful, often historically-based, curing processes.
 
 Pipe tobacco can be purchased in several forms, which vary both in flavour (leading to many blends and opportunities for smokers to blend their own tobaccos) and in the physical shape and size to which the tobacco has been reduced. Most pipe tobaccos are less mild than cigarette tobacco, substantially more moist and cut much more coarsely. Too finely cut tobacco does not allow enough air to flow through the pipe, and overly dry tobacco burns too quickly with little flavour. Pipe tobacco must be kept in an airtight container, such as a canning jar or sealed tin, to keep from drying out.
@@ -262,7 +254,7 @@ An alternative packing technique called the Frank method involves lightly droppi
 
 Lighting
 
-Jianshui_-_old_city_-_P1370481.JPG, China, 2016]] Matches, or separately lit slivers of wood are often considered preferable to lighters because of lower burning temperature. Butane lighters made specifically for pipes emit flame sideways or at an angle to make it easier to direct flame into the bowl. Torch-style lighters should never be used to light a pipe because their flames are too hot and can char the rim of the pipe bowl. Matches should be allowed to burn for several seconds to allow the sulfur from the tip to burn away and the match to produce a full flame. A naphtha fueled lighter should also be allowed to burn a few seconds to get rid of stray naphtha vapors that could give a foul taste to the smoke. When a flame has been produced, it is then moved in circles above the rim of the bowl while the smoker puffs to draw the flame down and light the tobacco. Packing method and humidity can affect how often a pipe must be relit.
+, China, 2016]] Matches, or separately lit slivers of wood are often considered preferable to lighters because of lower burning temperature. Butane lighters made specifically for pipes emit flame sideways or at an angle to make it easier to direct flame into the bowl. Torch-style lighters should never be used to light a pipe because their flames are too hot and can char the rim of the pipe bowl. Matches should be allowed to burn for several seconds to allow the sulfur from the tip to burn away and the match to produce a full flame. A naphtha fueled lighter should also be allowed to burn a few seconds to get rid of stray naphtha vapors that could give a foul taste to the smoke. When a flame has been produced, it is then moved in circles above the rim of the bowl while the smoker puffs to draw the flame down and light the tobacco. Packing method and humidity can affect how often a pipe must be relit.
 
 Burning prevention
 
@@ -284,7 +276,7 @@ A pipe cleaner can be used to dry out the bowl and, wetted with alcohol, the inn
 
 Cleaning
 
-Hút_thuốc_lào,_bát_điếu.JPG]]
+]]
 
 The ash and the last bits of unburned tobacco, known as dottle, should be cleaned out with a suitable pipe tool. A soft or bristle pipe cleaner, which may be moistened with strong spirits is then run through the airways of the stem and shank to remove any moisture, ash, and other residue before the pipe is allowed to dry. A pipe should be allowed to cool before removing the stem to avoid the possibility of warping it.
 

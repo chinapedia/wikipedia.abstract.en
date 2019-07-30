@@ -156,8 +156,6 @@ The Sapphic stanza was imitated in English by Algernon Charles Swinburne in a po
 
           Saw the reluctant...
 
-Arabic-E-meters.gif
-
 Classical Arabic
 
 The metrical system of Classical Arabic poetry, like those of classical Greek and Latin, is based on the weight of syllables classified as either "long" or "short". The basic principles of Arabic poetic metre _Arūḍ_ or Arud ( __) Science of Poetry ( __), were put forward by Al-Farahidi (786 - 718 CE) who did so after noticing that poems consisted of repeated syllables in each verse. In his first book, _Al-Ard_ ( __), he described 15 types of verse. Al-Akhfash described one extra, the 16th.

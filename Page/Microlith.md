@@ -9,8 +9,6 @@ Regardless of type, microliths were used to form the points of hunting weapons, 
 
 Types of microlith
 
-Microlith_in_hand.jpg
-
 Laminar and non-geometric microliths
 
 Laminar microliths date from at least the Gravettian culture or possibly the start of the Upper Paleolithic era, and they are found all through the Mesolithic and Neolithic eras. "Noailles" burins and micro-gravettes indicate that the production of microliths had already started in the Gravettian culture.[1] This style of flint working flourished during the Magdalenian period and persisted in numerous Epipaleolithic traditions all around the Mediterranean basin. These microliths are slightly larger than the geometric microliths that followed and were made from the flakes of flint obtained _ad hoc_ from a small nucleus or from a depleted nucleus of flint. They were produced either by percussion or by the application of a variable pressure (although pressure is the best option, this method of producing microliths is complicated and was not the most commonly used technique).[2]
@@ -76,7 +74,7 @@ Discoveries
 
 France
 
-Sépulture_de_Teviec_Global.jpg]] In France, one unusual find stands out: in the Mesolithic cemetery of Téviec, in Morbihan, one of the skeletons that has been found has a geometric microlith lodged in one of its vertebra. All indications suggest that the person died because of this projectile; whether by intention or by accident is unknown. It is widely agreed that geometric microliths were mainly used in hunting and fishing, but they may also have been used as weapons.[15]
+]] In France, one unusual find stands out: in the Mesolithic cemetery of Téviec, in Morbihan, one of the skeletons that has been found has a geometric microlith lodged in one of its vertebra. All indications suggest that the person died because of this projectile; whether by intention or by accident is unknown. It is widely agreed that geometric microliths were mainly used in hunting and fishing, but they may also have been used as weapons.[15]
 
 Scandinavia
 
@@ -95,7 +93,7 @@ Early research regard the microlithic industry in India as a Holocene phenomenon
 
 Dating
 
-Crystal_spear_tips.jpg Laminar microliths are common artifacts from the Upper Paleolithic and the Epipaleolithic, to such a degree that numerous studies have used them as markers to date different phases of prehistoric cultures.
+Laminar microliths are common artifacts from the Upper Paleolithic and the Epipaleolithic, to such a degree that numerous studies have used them as markers to date different phases of prehistoric cultures.
 
 During the Epipaleolithic and the Mesolithic, the presence of laminar or geometric microliths serves to date the deposits of different cultural traditions. For instance, in the Atlas Mountains of northwest Africa, the end of the Upper Paleolithic period coincides with the end of the Aterian tradition of producing laminar microliths, and deposits can be dated by the presence or absence of these artifacts. In the Near East, the laminar microliths of the Kebarian culture were superseded by the geometric microliths of the Natufian tradition a little more than 11,000 years ago. This pattern is repeated throughout the Mediterranean basin and across Europe in general.[21][22]
 

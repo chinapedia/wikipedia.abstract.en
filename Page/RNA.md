@@ -1,4 +1,4 @@
-Pre-mRNA-1ysv-tubes.pngs (green) and the ribose-phosphate backbone (blue). This is a single strand of RNA that folds back upon itself.]]
+s (green) and the ribose-phosphate backbone (blue). This is a single strand of RNA that folds back upon itself.]]
 
 RIBONUCLEIC ACID (RNA) is a polymeric molecule essential in various biological roles in coding, decoding, regulation and expression of genes. RNA and DNA are nucleic acids, and, along with lipids, proteins and carbohydrates, constitute the four major macromolecules essential for all known forms of life. Like DNA, RNA is assembled as a chain of nucleotides, but unlike DNA it is more often found in nature as a single-strand folded onto itself, rather than a paired double-strand. Cellular organisms use messenger RNA (_MRNA_) to convey genetic information (using the nitrogenous bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many viruses encode their genetic information using an RNA genome.
 
@@ -7,7 +7,7 @@ Some RNA molecules play an active role within cells by catalyzing biological rea
 
 Comparison with DNA
 
-50S-subunit_of_the_ribosome_3CC2.png ribosomal subunit. Ribosomal RNA is in ochre, proteins in blue. The active site is a small segment of rRNA, indicated in red.]]
+ribosomal subunit. Ribosomal RNA is in ochre, proteins in blue. The active site is a small segment of rRNA, indicated in red.]]
 
 The chemical structure of RNA is very similar to that of DNA, but differs in three primary ways:
 
@@ -20,11 +20,11 @@ Like DNA, most biologically active RNAs, including mRNA, tRNA, rRNA, snRNAs, and
 
 Structure
 
-Piwi-siRNA-basepairing.png (hydrogen atoms are not shown)]] Each nucleotide in RNA contains a ribose sugar, with carbons numbered 1' through 5'. A base is attached to the 1' position, in general, adenine (A), cytosine (C), guanine (G), or uracil (U). Adenine and guanine are purines, cytosine and uracil are pyrimidines. A phosphate group is attached to the 3' position of one ribose and the 5' position of the next. The phosphate groups have a negative charge each, making RNA a charged molecule (polyanion). The bases form hydrogen bonds between cytosine and guanine, between adenine and uracil and between guanine and uracil.[8] However, other interactions are possible, such as a group of adenine bases binding to each other in a bulge,[9] or the GNRA tetraloop that has a guanine–adenine base-pair.[10]
+(hydrogen atoms are not shown)]] Each nucleotide in RNA contains a ribose sugar, with carbons numbered 1' through 5'. A base is attached to the 1' position, in general, adenine (A), cytosine (C), guanine (G), or uracil (U). Adenine and guanine are purines, cytosine and uracil are pyrimidines. A phosphate group is attached to the 3' position of one ribose and the 5' position of the next. The phosphate groups have a negative charge each, making RNA a charged molecule (polyanion). The bases form hydrogen bonds between cytosine and guanine, between adenine and uracil and between guanine and uracil.[8] However, other interactions are possible, such as a group of adenine bases binding to each other in a bulge,[9] or the GNRA tetraloop that has a guanine–adenine base-pair.[10]
 
-RNA_chemical_structure.GIF An important structural component of RNA that distinguishes it from DNA is the presence of a hydroxyl group at the 2' position of the ribose sugar. The presence of this functional group causes the helix to mostly take the A-form geometry,[11] although in single strand dinucleotide contexts, RNA can rarely also adopt the B-form most commonly observed in DNA.[12] The A-form geometry results in a very deep and narrow major groove and a shallow and wide minor groove.[13] A second consequence of the presence of the 2'-hydroxyl group is that in conformationally flexible regions of an RNA molecule (that is, not involved in formation of a double helix), it can chemically attack the adjacent phosphodiester bond to cleave the backbone.[14]
+An important structural component of RNA that distinguishes it from DNA is the presence of a hydroxyl group at the 2' position of the ribose sugar. The presence of this functional group causes the helix to mostly take the A-form geometry,[11] although in single strand dinucleotide contexts, RNA can rarely also adopt the B-form most commonly observed in DNA.[12] The A-form geometry results in a very deep and narrow major groove and a shallow and wide minor groove.[13] A second consequence of the presence of the 2'-hydroxyl group is that in conformationally flexible regions of an RNA molecule (that is, not involved in formation of a double helix), it can chemically attack the adjacent phosphodiester bond to cleave the backbone.[14]
 
-Ciliate_telomerase_RNA.JPG of a telomerase RNA.]] RNA is transcribed with only four bases (adenine, cytosine, guanine and uracil),[15] but these bases and attached sugars can be modified in numerous ways as the RNAs mature. Pseudouridine (Ψ), in which the linkage between uracil and ribose is changed from a C–N bond to a C–C bond, and ribothymidine (T) are found in various places (the most notable ones being in the TΨC loop of tRNA).[16] Another notable modified base is hypoxanthine, a deaminated adenine base whose nucleoside is called inosine (I). Inosine plays a key role in the wobble hypothesis of the genetic code.[17]
+of a telomerase RNA.]] RNA is transcribed with only four bases (adenine, cytosine, guanine and uracil),[15] but these bases and attached sugars can be modified in numerous ways as the RNAs mature. Pseudouridine (Ψ), in which the linkage between uracil and ribose is changed from a C–N bond to a C–C bond, and ribothymidine (T) are found in various places (the most notable ones being in the TΨC loop of tRNA).[16] Another notable modified base is hypoxanthine, a deaminated adenine base whose nucleoside is called inosine (I). Inosine plays a key role in the wobble hypothesis of the genetic code.[17]
 
 There are more than 100 other naturally occurring modified nucleosides.[18] The greatest structural diversity of modifications can be found in tRNA,[19] while pseudouridine and nucleosides with 2'-O-methylribose often present in rRNA are the most common.[20] The specific roles of many of these modifications in RNA are not fully understood. However, it is notable that, in ribosomal RNA, many of the post-transcriptional modifications occur in highly functional regions, such as the peptidyl transferase center and the subunit interface, implying that they are important for normal function.[21]
 
@@ -48,7 +48,7 @@ Types of RNA
 
 Overview
 
-Full_length_hammerhead_ribozyme.png, a ribozyme that cuts RNA]] Messenger RNA (mRNA) is the RNA that carries information from DNA to the ribosome, the sites of protein synthesis (translation) in the cell. The coding sequence of the mRNA determines the amino acid sequence in the protein that is produced.[28] However, many RNAs do not code for protein (about 97% of the transcriptional output is non-protein-coding in eukaryotes[29][30][31][32]).
+, a ribozyme that cuts RNA]] Messenger RNA (mRNA) is the RNA that carries information from DNA to the ribosome, the sites of protein synthesis (translation) in the cell. The coding sequence of the mRNA determines the amino acid sequence in the protein that is produced.[28] However, many RNAs do not code for protein (about 97% of the transcriptional output is non-protein-coding in eukaryotes[29][30][31][32]).
 
 These so-called non-coding RNAs ("ncRNA") can be encoded by their own genes (RNA genes), but can also derive from mRNA introns.[33] The most prominent examples of non-coding RNAs are transfer RNA (tRNA) and ribosomal RNA (rRNA), both of which are involved in the process of translation.[34] There are also non-coding RNAs involved in gene regulation, RNA processing and other roles. Certain RNAs are able to catalyse chemical reactions such as cutting and ligating other RNA molecules,[35] and the catalysis of peptide bond formation in the ribosome;[36] these are known as ribozymes.
 
@@ -92,7 +92,7 @@ Archaea also have systems of regulatory RNA.[66] The CRISPR system, recently bei
 
 In RNA processing
 
-Synthesis_of_Pseudouridine.svg Many RNAs are involved in modifying other RNAs. Introns are spliced out of pre-mRNA by spliceosomes, which contain several small nuclear RNAs (snRNA),[69] or the introns can be ribozymes that are spliced by themselves.[70] RNA can also be altered by having its nucleotides modified to nucleotides other than A, C, G and U. In eukaryotes, modifications of RNA nucleotides are in general directed by small nucleolar RNAs (snoRNA; 60–300 nt),[71] found in the nucleolus and cajal bodies. snoRNAs associate with enzymes and guide them to a spot on an RNA by basepairing to that RNA. These enzymes then perform the nucleotide modification. rRNAs and tRNAs are extensively modified, but snRNAs and mRNAs can also be the target of base modification.[72][73] RNA can also be methylated.[74][75]
+Many RNAs are involved in modifying other RNAs. Introns are spliced out of pre-mRNA by spliceosomes, which contain several small nuclear RNAs (snRNA),[69] or the introns can be ribozymes that are spliced by themselves.[70] RNA can also be altered by having its nucleotides modified to nucleotides other than A, C, G and U. In eukaryotes, modifications of RNA nucleotides are in general directed by small nucleolar RNAs (snoRNA; 60–300 nt),[71] found in the nucleolus and cajal bodies. snoRNAs associate with enzymes and guide them to a spot on an RNA by basepairing to that RNA. These enzymes then perform the nucleotide modification. rRNAs and tRNAs are extensively modified, but snRNAs and mRNAs can also be the target of base modification.[72][73] RNA can also be methylated.[74][75]
 
 
 RNA genomes
@@ -106,7 +106,7 @@ Reverse transcribing viruses replicate their genomes by reverse transcribing DNA
 
 Double-stranded RNA
 
-Double-stranded_RNA.gif Double-stranded RNA (dsRNA) is RNA with two complementary strands, similar to the DNA found in all cells, but with the replacement of thymine by uracil. dsRNA forms the genetic material of some viruses (double-stranded RNA viruses). Double-stranded RNA, such as viral RNA or siRNA, can trigger RNA interference in eukaryotes, as well as interferon response in vertebrates.[79][80][81][82]
+Double-stranded RNA (dsRNA) is RNA with two complementary strands, similar to the DNA found in all cells, but with the replacement of thymine by uracil. dsRNA forms the genetic material of some viruses (double-stranded RNA viruses). Double-stranded RNA, such as viral RNA or siRNA, can trigger RNA interference in eukaryotes, as well as interferon response in vertebrates.[79][80][81][82]
 
 
 Circular RNA
@@ -116,7 +116,7 @@ In the late 1970s, it was shown that there is a single stranded covalently close
 
 Key discoveries in RNA biology
 
-R_Holley.jpg Research on RNA has led to many important biological discoveries and numerous Nobel Prizes. Nucleic acids were discovered in 1868 by Friedrich Miescher, who called the material 'nuclein' since it was found in the nucleus.[84] It was later discovered that prokaryotic cells, which do not have a nucleus, also contain nucleic acids. The role of RNA in protein synthesis was suspected already in 1939.[85] Severo Ochoa won the 1959 Nobel Prize in Medicine (shared with Arthur Kornberg) after he discovered an enzyme that can synthesize RNA in the laboratory.[86] However, the enzyme discovered by Ochoa (polynucleotide phosphorylase) was later shown to be responsible for RNA degradation, not RNA synthesis. In 1956 Alex Rich and David Davies hybridized two separate strands of RNA to form the first crystal of RNA whose structure could be determined by X-ray crystallography.[87]
+Research on RNA has led to many important biological discoveries and numerous Nobel Prizes. Nucleic acids were discovered in 1868 by Friedrich Miescher, who called the material 'nuclein' since it was found in the nucleus.[84] It was later discovered that prokaryotic cells, which do not have a nucleus, also contain nucleic acids. The role of RNA in protein synthesis was suspected already in 1939.[85] Severo Ochoa won the 1959 Nobel Prize in Medicine (shared with Arthur Kornberg) after he discovered an enzyme that can synthesize RNA in the laboratory.[86] However, the enzyme discovered by Ochoa (polynucleotide phosphorylase) was later shown to be responsible for RNA degradation, not RNA synthesis. In 1956 Alex Rich and David Davies hybridized two separate strands of RNA to form the first crystal of RNA whose structure could be determined by X-ray crystallography.[87]
 
 The sequence of the 77 nucleotides of a yeast tRNA was found by Robert W. Holley in 1965,[88] winning Holley the 1968 Nobel Prize in Medicine (shared with Har Gobind Khorana and Marshall Nirenberg).
 

@@ -14,7 +14,7 @@ Innocent III raised him to the rank of a cardinal priest in 1200,[5] by which he
 
 Papal election
 
-Honorius3.JPG.]] On 18 July 1216, seventeen cardinals present at the death of Innocent III assembled at Perugia (where Innocent III had died two days previously) with the purpose of electing a new pope. The troubled state of affairs in Italy, the threatening attitude of the Tatars, and the fear of a schism induced the cardinals to agree to an election by compromise. Cardinals Ugolino of Ostia (afterwards Pope Gregory IX) and Guido Papareschi were empowered to appoint the new pope. Their choice fell upon Cencio Savelli, who accepted the tiara with reluctance and took the name of Honorius III. He was consecrated at Perugia on 24 July and was crowned at Rome on 31 August. He took possession of the Lateran on 3 September 1216. The Roman people were greatly elated at the election, for Honorius III was himself a Roman and by his extreme kindness had endeared himself to the hearts of all.[6]
+.]] On 18 July 1216, seventeen cardinals present at the death of Innocent III assembled at Perugia (where Innocent III had died two days previously) with the purpose of electing a new pope. The troubled state of affairs in Italy, the threatening attitude of the Tatars, and the fear of a schism induced the cardinals to agree to an election by compromise. Cardinals Ugolino of Ostia (afterwards Pope Gregory IX) and Guido Papareschi were empowered to appoint the new pope. Their choice fell upon Cencio Savelli, who accepted the tiara with reluctance and took the name of Honorius III. He was consecrated at Perugia on 24 July and was crowned at Rome on 31 August. He took possession of the Lateran on 3 September 1216. The Roman people were greatly elated at the election, for Honorius III was himself a Roman and by his extreme kindness had endeared himself to the hearts of all.[6]
 
 Like his famous predecessor, Pope Innocent III, he set his mind on the achievement of two great goals: the recovery of the Holy Land in the Fifth Crusade and a spiritual reform of the entire Church. But in contrast with Innocent III, he sought these achievements by kindness and indulgence rather than by force and severity.[7]
 
@@ -23,7 +23,7 @@ Papacy
 
 Fifth Crusade
 
-Portrait_of_Honorius_III_-_Apse_Mosaic_of_the_Basilica_of_Saint_Paul_Outside_the_Walls_-_Roma_-_Italy.jpg (1220) (Rome, Italy)]] The Fifth Crusade was endorsed by the Lateran Council of 1215, and Honorius started preparations for the crusade to begin in 1217. To procure the means necessary for this colossal undertaking, the Pope, and the cardinals were to contribute the tenth part of their income for three years. All other ecclesiastics were to contribute the twentieth part. Though the money thus collected was considerable, it was by no means sufficient for a general crusade as planned by Honorius III.[8]
+(1220) (Rome, Italy)]] The Fifth Crusade was endorsed by the Lateran Council of 1215, and Honorius started preparations for the crusade to begin in 1217. To procure the means necessary for this colossal undertaking, the Pope, and the cardinals were to contribute the tenth part of their income for three years. All other ecclesiastics were to contribute the twentieth part. Though the money thus collected was considerable, it was by no means sufficient for a general crusade as planned by Honorius III.[8]
 
 Far-reaching prospects seemed to open before him when Honorius crowned Peter II of Courtenay as Latin Emperor of Constantinople in April 1217, but the new Emperor was captured on his eastward journey by the despot of Epirus, Theodore Komnenos Doukas, and died in confinement.
 
@@ -47,7 +47,7 @@ The most widely important event of this period was the siege and capture of Avig
 
 Approval of religious orders and other works
 
-LANCUM-9BA377,_Medieval_papal_bulla_of_Honorius_III_(FindID_217402).jpg of Honorius III ]]
+of Honorius III ]]
 
 Pope Honorius III approved the Dominican Order in 1216,[11] the Franciscan Order in 1223,[12] and the Carmelite Order's Rule of St. Albert of Jerusalem in 1226.[13]
 

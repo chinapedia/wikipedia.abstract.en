@@ -17,8 +17,6 @@ Archeologists in 2013 posited that the first people to settle in the Marianas ma
 
 Spanish possession
 
-Old_Spanish_Church_Tower.JPG
-
 The first European explorer of the area, the Portuguese navigator Ferdinand Magellan, arrived in 1521. He landed on Guam, the southernmost island of the Marianas, and claimed the archipelago for Spain. The Spanish ships were met offshore by the native Chamorros, who delivered refreshments and then helped themselves to a small boat belonging to Magellan's fleet. This led to a cultural clash: in Chamorro tradition, little property was private and taking something one needed, such as a boat for fishing, did not count as stealing. The Spanish did not understand this custom, and fought the Chamorros until the boat was recovered. Three days after he had been welcomed on his arrival, Magellan fled the archipelago. Spain regarded the islands as annexed and later made them part of the Spanish East Indies (1565). In 1734, the Spanish built a royal palace in Guam for the governor of the islands. Its remains are visible even in the 21st century; see the Plaza de España (Hagåtña) article.
 
 Guam operated as an important stopover between Manila and Mexico for galleons carrying gold between the Philippines and Spain. Some galleons sunk in Guam remain.
@@ -37,7 +35,7 @@ The conquering Spanish did not focus attempts at cultural suppression against Ca
 
 German possession and Japanese LON mandate
 
-Korean_Cafe_in_Saipan.JPG]] Following its loss during the Spanish–American War of 1898, Spain ceded Guam to the United States and sold the remainder of the Marianas (i.e., the Northern Marianas), along with the Caroline Islands, to Germany under the German–Spanish Treaty of 1899. Germany administered the islands as part of its colony of German New Guinea and did little in terms of development.
+]] Following its loss during the Spanish–American War of 1898, Spain ceded Guam to the United States and sold the remainder of the Marianas (i.e., the Northern Marianas), along with the Caroline Islands, to Germany under the German–Spanish Treaty of 1899. Germany administered the islands as part of its colony of German New Guinea and did little in terms of development.
 
 Early in World War I, Japan declared war on Germany and invaded the Northern Marianas. In 1919, the League of Nations awarded all of Germany's islands in the Pacific Ocean located north of the Equator, including the Northern Marianas, under mandate to Japan. Under this arrangement, the Japanese thus administered the Northern Marianas as part of the South Pacific Mandate. During the Japanese period, sugar cane became the main industry of the islands. Garapan on Saipan was developed as a regional capital, and numerous Japanese (including ethnic Koreans, Okinawan, and Taiwanese) migrated to the islands. In the December 1939 census, the total population of the South Pacific Mandate was 129,104, of whom 77,257 were Japanese (including ethnic Taiwanese and Koreans). On Saipan the pre-war population comprised 29,348 Japanese settlers and 3,926 Chamorro and Caroline Islanders; Tinian had 15,700 Japanese settlers (including 2,700 ethnic Koreans and 22 ethnic Chamorro).
 
@@ -45,7 +43,7 @@ World War II
 
 On December 8, 1941, hours after the attack on Pearl Harbor, Japanese forces from the Marianas launched an invasion of Guam. Chamorros from the Northern Marianas, which had been under Japanese rule for more than 20 years, were brought to Guam to assist the Japanese administration. This, combined with the harsh treatment of Guamanian Chamorros during the 31-month occupation, created a rift that would become the main reason Guamanians rejected the reunification referendum approved by the Northern Marianas in the 1960s.
 
-Marine_infantrymen_on_Saipan.jpg, Saipan]] On June 15, 1944, the United States military invaded the Mariana Islands, starting the Battle of Saipan, which ended on July 9. Of the 30,000 Japanese troops defending Saipan, fewer than 1,000 remained alive at the battle's end.[8] Many Japanese civilians were also killed, by disease, starvation, enemy fire, and suicide. Approximately 1,000 civilians committed suicide by jumping off the cliffs at Mt. Marpi or Marpi Point.[9] U.S. forces then recaptured Guam on July 21, and invaded Tinian on July 24. A year later Tinian was the takeoff point for the _Enola Gay_, the plane that dropped the atomic bomb on Hiroshima. Rota was left untouched (and isolated) until the Japanese surrender in August 1945, owing to its military insignificance.
+, Saipan]] On June 15, 1944, the United States military invaded the Mariana Islands, starting the Battle of Saipan, which ended on July 9. Of the 30,000 Japanese troops defending Saipan, fewer than 1,000 remained alive at the battle's end.[8] Many Japanese civilians were also killed, by disease, starvation, enemy fire, and suicide. Approximately 1,000 civilians committed suicide by jumping off the cliffs at Mt. Marpi or Marpi Point.[9] U.S. forces then recaptured Guam on July 21, and invaded Tinian on July 24. A year later Tinian was the takeoff point for the _Enola Gay_, the plane that dropped the atomic bomb on Hiroshima. Rota was left untouched (and isolated) until the Japanese surrender in August 1945, owing to its military insignificance.
 
 The war did not end for everyone with the signing of the armistice. The last group of Japanese holdouts surrendered on Saipan on December 1, 1945. On Guam, Japanese soldier Shoichi Yokoi, unaware that the war had ended, hid in a jungle cave in the Talofofo area until 1972.
 
@@ -53,12 +51,12 @@ Japanese nationals were eventually repatriated to the Japanese home islands.
 
 United States Possession (UN trusteeship)
 
-saipan.jpg]] After Japan's defeat in World War II, the Northern Marianas were administered by the United States pursuant to Security Council Resolution 21 as part of the United Nations Trust Territory of the Pacific Islands, which gave responsibility for defense and foreign affairs to the United States. Four referenda offering integration with Guam or changes to the islands' status were held in 1958, 1961, 1963 and 1969. On each occasion, a majority voted in favor of integration with Guam, but this did not happen: Guam rejected integration in a 1969 referendum. The people of the Northern Mariana Islands decided in the 1970s not to seek independence, but instead to forge closer links with the United States. Negotiations for commonwealth status began in 1972 and a covenant to establish a commonwealth in political union with the United States[10] was approved in a 1975 referendum. A new government and constitution came into effect in 1978 after being approved in a 1977 referendum. The United Nations approved this arrangement pursuant to Security Council Resolution 683. The commonwealth does not have voting representation in the United States Congress, but, since 2009, has been represented in the U.S. House of Representatives by a delegate who may participate in debate but may not vote on the floor. The commonwealth has no representation in the U.S. Senate.[11]
+]] After Japan's defeat in World War II, the Northern Marianas were administered by the United States pursuant to Security Council Resolution 21 as part of the United Nations Trust Territory of the Pacific Islands, which gave responsibility for defense and foreign affairs to the United States. Four referenda offering integration with Guam or changes to the islands' status were held in 1958, 1961, 1963 and 1969. On each occasion, a majority voted in favor of integration with Guam, but this did not happen: Guam rejected integration in a 1969 referendum. The people of the Northern Mariana Islands decided in the 1970s not to seek independence, but instead to forge closer links with the United States. Negotiations for commonwealth status began in 1972 and a covenant to establish a commonwealth in political union with the United States[10] was approved in a 1975 referendum. A new government and constitution came into effect in 1978 after being approved in a 1977 referendum. The United Nations approved this arrangement pursuant to Security Council Resolution 683. The commonwealth does not have voting representation in the United States Congress, but, since 2009, has been represented in the U.S. House of Representatives by a delegate who may participate in debate but may not vote on the floor. The commonwealth has no representation in the U.S. Senate.[11]
 
 
 Geography
 
-Anatahan_aerial.jpg]] Northern_Mariana_Islands_map.gif The Northern Mariana Islands, together with Guam to the south, compose the Mariana Islands archipelago. The southern islands are limestone, with level terraces and fringing coral reefs. The northern islands are volcanic, with active volcanoes on several islands, including Anatahan, Pagan, and Agrihan. The volcano on Agrihan has the highest elevation at .[12] An expedition organized by John D. Mitchler and Reid Larson made the first complete ascent to the summit of this peak on June 1, 2018.[13]
+]] The Northern Mariana Islands, together with Guam to the south, compose the Mariana Islands archipelago. The southern islands are limestone, with level terraces and fringing coral reefs. The northern islands are volcanic, with active volcanoes on several islands, including Anatahan, Pagan, and Agrihan. The volcano on Agrihan has the highest elevation at .[12] An expedition organized by John D. Mitchler and Reid Larson made the first complete ascent to the summit of this peak on June 1, 2018.[13]
 
 Anatahan Volcano is a small volcanic island north of Saipan. It is about long and wide. Anatahan began erupting from its east crater on May 10, 2003. It has since alternated between eruptive and calm periods.[14] On April 6, 2005, an estimated of ash and rock were ejected, causing a large, black cloud to drift south over Saipan and Tinian.[15]
 
@@ -74,7 +72,7 @@ The Northern Mariana Islands have a tropical rainforest climate moderated by sea
 
 Politics and government
 
-Ralph_Torres.jpg, the Governor of the Northern Mariana Islands]]
+, the Governor of the Northern Mariana Islands]]
 
 The Northern Mariana Islands have a multiparty presidential representative democratic system. They are a commonwealth of the United States. Federal funds to the commonwealth are administered by the Office of Insular Affairs of the U.S. Department of the Interior.
 
@@ -155,7 +153,7 @@ In 1947, the Northern Mariana Islands became part of the post–World War II Uni
 
 On December 22, 1990, the United Nations Trusteeship Council terminated the TTPI as it applied to the CNMI and five other of the TTPI's original seven districts (the Marshall Islands and the Federated States of Micronesia (Chuuk, Kosrae, Pohnpei and Yap)), this was acknowledged in United Nations Security Council Resolution 683 passed on the same day.
 
-TTPI_High_Court_judges.jpg Under the Covenant, in general, United States federal law applies to CNMI. However, the CNMI is outside the customs territory of the United States and, although the internal revenue code does apply in the form of a local income tax, the income tax system is largely locally determined. According to the Covenant, the federal minimum wage and federal immigration laws "will not apply to the Northern Mariana Islands except in the manner and to the extent made applicable to them by the Congress by law after termination of the Trusteeship Agreement."[37] The local control of minimum wage was superseded by the United States Congress in 2007.
+Under the Covenant, in general, United States federal law applies to CNMI. However, the CNMI is outside the customs territory of the United States and, although the internal revenue code does apply in the form of a local income tax, the income tax system is largely locally determined. According to the Covenant, the federal minimum wage and federal immigration laws "will not apply to the Northern Mariana Islands except in the manner and to the extent made applicable to them by the Congress by law after termination of the Trusteeship Agreement."[37] The local control of minimum wage was superseded by the United States Congress in 2007.
 
 Initially under the Covenant a separate immigration system existed in the CNMI, and U.S. immigration laws did not apply. But on November 28, 2009 the CNRA unilaterally amended the Covenant to match US law; specifically, CNRA § 702(a) amended the Covenant to state that "the provisions of the 'immigration laws' (as defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17))) shall apply to the Commonwealth of the Northern Mariana Islands." Further, under CNRA § 702(a), the "immigration laws," as well as the amendments to the Covenant, "shall...supersede and replace all laws, provisions, or programs of the Commonwealth relating to the admission of aliens and the removal of aliens from the Commonwealth."[38] Transition to U.S. immigration laws began November 28, 2009.[39][40]
 
@@ -164,7 +162,7 @@ The CNMI has a United States territorial court which exercises jurisdiction over
 
 Economy
 
-Pagan_Island,_Northern_Marianas.jpg]]
+]]
 
 The Commonwealth of the Northern Mariana Islands benefits from its trading relationship with the federal government of the United States and cheap trained labor from Asia. Historically, the CNMI's economy has relied on tourism, mostly from Japan, and on the garment manufacturing sector. The economy has declined since quotas were lifted in 2005, eventually leading all the garment factories on Saipan to close by February 2009. Tourism also declined after 2005 when Japan Airlines stopped serving the Marianas.[41]
 
@@ -227,7 +225,7 @@ The Commonwealth of the Northern Mariana Islands Public School System operates p
 
 Culture
 
-Chamorro_performers.jpg Much of the Chamorro culture in the Mariana Islands was heavily influenced by the Spanish during the Spanish era, as well as by the Germans and Japanese. In Chamorro culture, respect is the biggest thing taught, and one common display is the tradition of "manngingi'". This tradition has been around for centuries and involves an elder and a young Chamorro child. The child takes the hand of the elder, places it on their nose and says _ñot_ to the men and _ñora_ to the women with the elders responding _diosti ayudi_, meaning "God help you".
+Much of the Chamorro culture in the Mariana Islands was heavily influenced by the Spanish during the Spanish era, as well as by the Germans and Japanese. In Chamorro culture, respect is the biggest thing taught, and one common display is the tradition of "manngingi'". This tradition has been around for centuries and involves an elder and a young Chamorro child. The child takes the hand of the elder, places it on their nose and says _ñot_ to the men and _ñora_ to the women with the elders responding _diosti ayudi_, meaning "God help you".
 
 The Carolinian culture is very similar to the Chamorro culture with respect being very important. The Carolinian culture can be traced back to Yap and Chuuk, where the Carolinians originated.
 
@@ -243,7 +241,7 @@ The Marianas and the Hawaiian islands are the world's foremost consumers, per ca
 
 Religion
 
-Saipan_from_ISS_2.png seen from the International Space Station]] Owing to the Spanish missionaries in the Marianas, a large majority of Chamorros and Carolinians practice Roman Catholicism, including the use of rosaries and novenas. The Japanese occupation had the effect of creating a sizable Buddhist community which remained even after their departure. Due to influence of the United States, diverse denominations of Protestantism also entered the islands.
+seen from the International Space Station]] Owing to the Spanish missionaries in the Marianas, a large majority of Chamorros and Carolinians practice Roman Catholicism, including the use of rosaries and novenas. The Japanese occupation had the effect of creating a sizable Buddhist community which remained even after their departure. Due to influence of the United States, diverse denominations of Protestantism also entered the islands.
 
 Sports
 

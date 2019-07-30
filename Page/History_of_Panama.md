@@ -1,9 +1,9 @@
-The HISTORY OF PANAMA refers to the Isthmus of Panama region's long history that occurred in Central America, from Pre-Columbian cultures, during the Spanish colonial era, through independence and the current country of Panama. Pm-map.png (top).]]
+The HISTORY OF PANAMA refers to the Isthmus of Panama region's long history that occurred in Central America, from Pre-Columbian cultures, during the Spanish colonial era, through independence and the current country of Panama. (top).]]
 
 
 Pre-Columbian history
 
-Panamanian_-_Amphibian_Pendant_-_Walters_57301.jpg The earliest artifacts discovered in Panama include Paleo-Indians projectile points. Later central Panama was home to some of the earliest pottery-making in the Americas, such as the Monagrillo cultures dating to about 2500–1700 BC. These evolved into significant populations that are best known through the noteworthy burials (dating to c. 500–900 AD) at the Monagrillo archaeological site, and the polychrome pottery of the Gran Coclé style. The monumental monolithic sculptures at the Barriles (Chiriqui) site are other important evidence of the ancient isthmian cultures.
+The earliest artifacts discovered in Panama include Paleo-Indians projectile points. Later central Panama was home to some of the earliest pottery-making in the Americas, such as the Monagrillo cultures dating to about 2500–1700 BC. These evolved into significant populations that are best known through the noteworthy burials (dating to c. 500–900 AD) at the Monagrillo archaeological site, and the polychrome pottery of the Gran Coclé style. The monumental monolithic sculptures at the Barriles (Chiriqui) site are other important evidence of the ancient isthmian cultures.
 
 Prior to the arrival of Europeans, Panama was widely settled by Chibchan, Chocoan, and Cueva peoples, among whom the largest group were the Cueva (whose specific language affiliation is poorly documented). There is no accurate knowledge of the size of the Pre-Columbian indigenous population of the isthmus at the time of the European conquest. Estimates range as high as two million people, but more recent studies place that number closer to 200,000. Archaeological finds, as well as testimonials by early European explorers, describe diverse native isthmian groups exhibiting cultural variety and already experienced in using regional trade routes. The indigenous people of Panama lived by hunting, gathering edible plants & fruits, growing corn, cacao, and root crops. They lived in small huts made of palm leaves over a rounded branch structure, with hammocks hung between the interior walls.
 
@@ -18,7 +18,7 @@ Santa Maria la Antigua del Darien
 
 In September 1510, the first permanent European settlement, _Santa María la Antigua del Darién_ on the Americas mainland was founded. Vasco Nuñez de Balboa and Martín Fernández de Enciso agreed on the site near the mouth of the Tarena River on the Atlantic. Balboa maneuvered and was appointed Mayor on the first official _cabildo abierto_ (municipal council) held on the mainland. On August 28, 1513, the Santa María de La Antigua del Darién mission was erected with Fray Juan de Quevedo as the first Catholic Bishop in the continental Americas.[1]
 
-Balboa_Voyage_1513.PNG's 1513 expedition route to the South Sea-Pacific Ocean]] Balboa_südsee.jpg claiming possession of the South Sea.]]
+'s 1513 expedition route to the South Sea-Pacific Ocean]] claiming possession of the South Sea.]]
 
 Balboa expedition
 
@@ -42,7 +42,7 @@ Explorations and conquest expeditions launched from Panama claimed new lands and
 
 Royal Audiencia of Panama
 
-New_Caledonia_in_Darien.jpg in the Bay of Caledonia]]
+in the Bay of Caledonia]]
 
 In 1538, the _Audiencia Real de Panama_, Royal Audiencia of Panama, was established, initially with jurisdiction from Nicaragua to Cape Horn. An Audiencia Real (royal audiency) was a judicial district that functioned as an appellate court. Each audiencia had _oidores_ (a hearer, a judge).
 
@@ -103,7 +103,7 @@ Bólivar, in turn, replied,
 
 Panama and Colombia
 
-Colombia_in_1853.svg in 1851]] Simón Bolívar had hesitated to include Panama in his Gran Colombia project, because he was aware of Panama's geographical obstacles and the unique qualities and its critical role in trade throughout history and under Spanish tutelage. Also, he had no role in Panama's independence, unlike his decisive military factor in the independence of Venezuela, New Granada and Ecuador. Thus, while Bolívar knew that Panama was linked historically and culturally to South America, he also knew that the region was part of the Central American geography. This view is clearly seen in some of his famous documents and quotes such as his Carta de Jamaica (1815):
+in 1851]] Simón Bolívar had hesitated to include Panama in his Gran Colombia project, because he was aware of Panama's geographical obstacles and the unique qualities and its critical role in trade throughout history and under Spanish tutelage. Also, he had no role in Panama's independence, unlike his decisive military factor in the independence of Venezuela, New Granada and Ecuador. Thus, while Bolívar knew that Panama was linked historically and culturally to South America, he also knew that the region was part of the Central American geography. This view is clearly seen in some of his famous documents and quotes such as his Carta de Jamaica (1815):
 
   The Isthmian States, from Panama to Guatemala, will perhaps form an association. This magnificent position between the two great oceans could with time become the emporium of the universe. Its canals will shorten the distances of the world: they will narrow commercial ties between Europe, America and Asia; and bring to such fortunate region the tributes of the four parts of the globe. Perhaps some day only there could the capital of the world be established!
 
@@ -143,7 +143,7 @@ From 1882, Ferdinand de Lesseps started work on a canal.[7] By 1889, with engine
 
 US involvement
 
-Panama_Canal_under_construction,_1907.jpg, in 1907 photograph.]] Kroonland_in_Panama_Canal,_1915.jpg, in 1915 photograph.]] US President Theodore Roosevelt convinced US Congress to take on the abandoned works in 1902, while Colombia was in the midst of the Thousand Days' War. During the war, there were at least three attempts by Panamanian Liberals to seize control of Panama and potentially achieve full autonomy, including one led by Liberal guerrillas like Belisario Porras and Victoriano Lorenzo, each of whom was suppressed by a collaboration of Conservative Colombian and US forces under the Mallarino–Bidlack Treaty which had been in effect since 1846. The Roosevelt administration proposed to Colombia that the US should control the canal in return for a $10 million payment and $250,000 annual payment that would begin in 1912. The negotiations initially went well for the US and it received everything it was asking for in the Hay–Herrán Treaty, but the Colombian government, upset by the US bias in the treaty, refused to ratify it and began demanding more money. By September 1903, negotiations had all but broken down. The US then changed tactics.[9]
+, in 1907 photograph.]] , in 1915 photograph.]] US President Theodore Roosevelt convinced US Congress to take on the abandoned works in 1902, while Colombia was in the midst of the Thousand Days' War. During the war, there were at least three attempts by Panamanian Liberals to seize control of Panama and potentially achieve full autonomy, including one led by Liberal guerrillas like Belisario Porras and Victoriano Lorenzo, each of whom was suppressed by a collaboration of Conservative Colombian and US forces under the Mallarino–Bidlack Treaty which had been in effect since 1846. The Roosevelt administration proposed to Colombia that the US should control the canal in return for a $10 million payment and $250,000 annual payment that would begin in 1912. The negotiations initially went well for the US and it received everything it was asking for in the Hay–Herrán Treaty, but the Colombian government, upset by the US bias in the treaty, refused to ratify it and began demanding more money. By September 1903, negotiations had all but broken down. The US then changed tactics.[9]
 
 According to the treaty, the US was to pay $40,000,000 to the stockholders of the French company that had tried to build the canal across Panama.[10] Colombia's rejection of the treaty confronted these French investors with the prospect of losing everything. At this point, the French company's chief lobbyist (and a major stockholder), Philippe Bunau-Varilla went into action. Justly confident that the Roosevelt administration would support his initiative, he met with Manuel Amador, the leader of the Panamanian Independence movement, in a suite in the Waldorf-Astoria hotel in New York where he wrote him a $100,000 check to fund a renewed Panamanian revolt. In return, Bunau-Varilla would become Panama's representative in Washington.[11][12]
 
@@ -165,7 +165,7 @@ It is a common mistake to call the 1903 events ‘Panama’s independence from C
 
 Reaction to the Hay–Bunau-Varilla Treaty
 
-Panama_canal_cartooon_1903.jpg The reaction to the treaty in the US was generally positive, public support for building a canal (as the treaty effectively guaranteed) having already been high. The Panamanian reaction, however, was more mixed. Although the new Panamanian government, led by Manuel Amador, was happy to have its independence from Colombia, they also knew that the US could easily assert itself over them if it felt they were not working in line with its interests. They had instructed their ambassador, Bunau-Varilla, to not make any agreements with the US that would compromise Panama's new freedom, nor could he make a canal treaty without consulting them. Both of these orders were ignored.[18] Nevertheless, the Panamanian government, fearing the alternative, ratified the treaty.[19]
+The reaction to the treaty in the US was generally positive, public support for building a canal (as the treaty effectively guaranteed) having already been high. The Panamanian reaction, however, was more mixed. Although the new Panamanian government, led by Manuel Amador, was happy to have its independence from Colombia, they also knew that the US could easily assert itself over them if it felt they were not working in line with its interests. They had instructed their ambassador, Bunau-Varilla, to not make any agreements with the US that would compromise Panama's new freedom, nor could he make a canal treaty without consulting them. Both of these orders were ignored.[18] Nevertheless, the Panamanian government, fearing the alternative, ratified the treaty.[19]
 
 By the time the Canal opened in 1914, many Panamanians still questioned the validity of the treaty.[20] The controversy surrounding the US's presence in Panama was a major issue in Panamanian politics throughout the following decades and revisions to the Hay—Bunau-Varilla Treaty in 1936 (Arias-Roosevelt/Hull-Alfaro Treaty) and 1955 (Remon-Eisenhower Treaty) both failed to adequately address the situation. The controversy would continue until the US agreed to hand over the Canal Zone wholly to Panama in the 1977 Torrijos-Carter Treaties.[21]
 
@@ -191,7 +191,7 @@ On September 7, 1977, the Torrijos–Carter Treaties were signed by the Panamani
 
 Manuel Noriega regime (1983-1989)
 
-Manuel_Noriega_mugshot_cropped.jpg after his capture by the US.]]
+after his capture by the US.]]
 
 Torrijos died in a mysterious plane crash on August 1, 1981. The circumstances of his death generated charges and speculation that he was assassinated. Torrijos' death changed the tone but not the direction of Panama's political evolution. Despite constitutional amendments in 1983, which appeared to proscribe a political role for the military, the Panama Defense Forces (PDF) continued to dominate political life behind a facade of civilian government. By then, General Manuel Noriega was firmly in control of both the PDF and the civilian government, and had created the Dignity Battalions to help suppress opposition.
 
@@ -203,7 +203,7 @@ Foreign observers including the Catholic Church and Jimmy Carter certified Endar
 
 US invasion (1989)
 
-Panama_clashes_1989.JPEG.]] By autumn 1989 the regime was barely clinging to power. On December 20, US troops began an invasion of Panama. They achieved their objectives and began withdrawal on December 27. The US was obligated to return control of the Canal to Panama on January 1 due to a treaty signed decades before. Endara was sworn in as President at a US military base on the day of the invasion. Noriega is now serving a 40-year sentence for drug trafficking.
+.]] By autumn 1989 the regime was barely clinging to power. On December 20, US troops began an invasion of Panama. They achieved their objectives and began withdrawal on December 27. The US was obligated to return control of the Canal to Panama on January 1 due to a treaty signed decades before. Endara was sworn in as President at a US military base on the day of the invasion. Noriega is now serving a 40-year sentence for drug trafficking.
 
 The US estimated the civilian death toll at 202, while the UN estimated 500 civilians dead and Americas Watch put the civilian death toll at 300.[25]
 

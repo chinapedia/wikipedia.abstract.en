@@ -24,7 +24,7 @@ The kora is mentioned in the Senegalese national anthem "Pincez Tous vos Koras, 
 
 Nowadays, increasingly, koras are made with guitar machine heads instead of the traditional leather rings. The advantage is that they are much easier to tune. The disadvantage is that this design limits the pitch of the instrument because string lengths are more fixed and lighter strings are needed to lift it much more than a tone. Learning to tune a traditional kora is arguably as difficult as learning to play it, and many tourists who are entranced by the sound while in West Africa buy koras and then find themselves unable to keep it in tune once they are home, relegating it to the status of ornament. Koras can be converted to replace the leather rings with machine heads. Wooden pegs and harp pegs are also used, but both can still cause tuning problems in damper climates unless made with great skill.
 
-Gravi-kora_2_(Photo_Jacques_Burtin).JPG]]
+]]
 
 In the late 20th century, a 25-string model of the kora was developed, though it has been adopted by only a few players, primarily in the region of Casamance, in southern Senegal. Some kora players such as Seckou Keita have double necked koras, allowing them to switch from one tuning to another within seconds, giving them increased flexibility.
 
@@ -34,8 +34,6 @@ An electric instrument modeled on the kora (but made primarily of metal) called 
 
 
 Scores
-
-Kora_Sheet_Music_(Jacques_Burtin).tiff
 
 The kora music being part of the oral tradition, its music was not written until the 20th century. The ethnomusicologists were the only ones to note some traditional airs in the normal grand staff method using the G clef and the F clef.
 
@@ -69,7 +67,7 @@ Western composers (written music)
 
 Notable kora players
 
-Gambia_kora_havard.jpg]]
+]]
 
 -   Toumani Diabaté (Mali)[19]
 -   Soriba Kouyate (Senegal)

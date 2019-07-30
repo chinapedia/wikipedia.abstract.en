@@ -25,7 +25,7 @@ According to the _Oxford English Dictionary_, the definition of the word _privy_
 
 Composition
 
-Thomas_Rowlandson_-_The_Privy_Council_of_a_King_-_Google_Art_Project.jpg. 1815]] The sovereign, when acting on the Council's advice, is known as the _King-in-Council_ or _Queen-in-Council_.[15] The members of the Council are collectively known as _The Lords of Her Majesty's Most Honourable Privy Council_[16] (sometimes _The Lords and others of ..._).[17] The chief officer of the body is the Lord President of the Council, who is the fourth highest Great Officer of State,[18] a Cabinet member and normally, either the Leader of the House of Lords or of the House of Commons.[19] Another important official is the Clerk, whose signature is appended to all orders made in the Council.[20]
+. 1815]] The sovereign, when acting on the Council's advice, is known as the _King-in-Council_ or _Queen-in-Council_.[15] The members of the Council are collectively known as _The Lords of Her Majesty's Most Honourable Privy Council_[16] (sometimes _The Lords and others of ..._).[17] The chief officer of the body is the Lord President of the Council, who is the fourth highest Great Officer of State,[18] a Cabinet member and normally, either the Leader of the House of Lords or of the House of Commons.[19] Another important official is the Clerk, whose signature is appended to all orders made in the Council.[20]
 
 Both _Privy Counsellor_ and _Privy Councillor_ may be correctly used to refer to a member of the Council. The former, however, is preferred by the Privy Council Office,[21] emphasising English usage of the term _Counsellor_ as "one who gives counsel", as opposed to "one who is a member of a council". A Privy Counsellor is traditionally said to be "_sworn of_" the Council after being received by the sovereign.[22]
 
@@ -46,7 +46,7 @@ Although the Privy Council is primarily a British institution, officials from so
 
 Privy Council oath and initiation rite
 
-Viviana_examined_by_the_Earl_of_Salisbury,_and_the_Privy_Council_in_the_Star_Chamber.png It was formerly regarded by the Privy Council as criminal, and possibly treasonous, to disclose the oath administered to Privy Counsellors as they take office.[46] However, the oath was officially made public by the Blair Government in a written parliamentary answer in 1998, as follows.[47] It had also been read out in full in the House of Lords during debate by Lord Rankeillour on 21 December 1932.[48]
+It was formerly regarded by the Privy Council as criminal, and possibly treasonous, to disclose the oath administered to Privy Counsellors as they take office.[46] However, the oath was officially made public by the Blair Government in a written parliamentary answer in 1998, as follows.[47] It had also been read out in full in the House of Lords during debate by Lord Rankeillour on 21 December 1932.[48]
 
 A form of this oath dates back to at least 1570.[49]
 
@@ -68,7 +68,7 @@ So far, three Privy Counsellors have resigned in the 21st century, coincidentall
 
 Meetings
 
-Victoria_Privy_Council_(Wilke).jpg convened her first Privy Council on the day of her accession in 1837.]] Meetings of the Privy Council are normally held once each month wherever the sovereign may be in residence at the time.[80] The quorum, according to the Privy Council Office, is three,[81] though some statutes provide for other quorums (for example, section 35 of the Opticians Act 1989[82] provides for a lower quorum of two).
+convened her first Privy Council on the day of her accession in 1837.]] Meetings of the Privy Council are normally held once each month wherever the sovereign may be in residence at the time.[80] The quorum, according to the Privy Council Office, is three,[81] though some statutes provide for other quorums (for example, section 35 of the Opticians Act 1989[82] provides for a lower quorum of two).
 
 The sovereign attends the meeting, though his or her place may be taken by two or more Counsellors of State.[83][84] Under the Regency Acts 1937 to 1953,[85] Counsellors of State may be chosen from among the sovereign's spouse and the four individuals next in the line of succession who are over 21 years of age (18 for the heir to the throne).[86] Customarily the sovereign remains standing at meetings of the Privy Council, so that no other members may sit down,[87] thereby keeping meetings short. The Lord President reads out a list of Orders to be made, and the sovereign merely says "Approved".[88]
 
@@ -90,7 +90,7 @@ The sovereign also grants Royal Charters on the advice of the Privy Council. Cha
 
 Committees
 
-Judicial_Committee_of_the_Privy_Council_-_Court_3.jpg The Privy Council comprises a number of Standing Committees:[108]
+The Privy Council comprises a number of Standing Committees:[108]
 
 -   Baronetage Committee
 -   Cabinet of the United Kingdom

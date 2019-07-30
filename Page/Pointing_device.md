@@ -1,4 +1,4 @@
-Logitech_Mouse.JPG]] Touchpad.jpg and a pointing stick on an IBM notebook]] Mouse_pointing_stick.jpeg ]] Boule-stick-001.jpg]] PerspectaRAD_mouse_Phantom.JPG
+]] and a pointing stick on an IBM notebook]] ]] ]]
 
 A POINTING DEVICE is an input interface (specifically a human interface device) that allows a user to input spatial (i.e., continuous and multi-dimensional) data to a computer. CAD systems and graphical user interfaces (GUI) allow the user to control and provide data to the computer using physical gestures by moving a hand-held mouse or similar device across the surface of the physical desktop and activating switches on the mouse. Movements of the pointing device are echoed on the screen by movements of the pointer (or cursor) and other visual changes. Common gestures are point and click and drag and drop.
 
@@ -77,12 +77,12 @@ Buxton's Three-State-Model
 
 This model describes different states that a pointing device can assume. The three common states as described by Buxton are _out of range, tracking and dragging_. Not every pointing device can switch to all states.[3]
 
-  Model                  Explanation
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Tsm_mouse_svg.svg      A mouse is moved without the button being pushed. This state can be called _tracking_, meaning the user just moves the mouse without further interacting with the system. If the mouse is pointed at an icon and the button is pressed while moving the mouse, a new state called _dragging_ is entered. These states are shown in the image _"2 State Transaction"_.
-  Tsm_touch_svg.svg      If a touch tablet, which is able to sense touch or no-touch, is used instead of a mouse, the state model looks different. More precisely this means that any movement of the finger off the display is _out of range_ and has no effect on the system. Only when the finger touches the display, the state switches to _tracking_ (Figure: _"Out of Range & Tracking"_).
-  Tsm_stylus_svg.svg     If a graphics tablet with a stylus is used, it is possible to sense all three states. When the stylus is lifted, it is _out of range_. When it is in range, the state switches to _tracking_ and the pointer follows the stylus' movement. Performing extra pressure on the stylus initiates state 2 _dragging_ (Figure: _"Out of Range, Tracking & Dragging"_).
-  Tsm_multiple_svg.svg   By using a multiple-button mouse or multiple clicks, State 2 can be split into a set of states, i.e. pressing different buttons leads to different states. For example, selecting an object with _Button 1_ switches to the state _Drag Original_ whereas _Button 2_ switches to _Drag Copy_. The same goes for multiple clicks known from Windows: one click on an object selects an object, double-clicks open it (Figure: _"State 2 Set"_).
+  Model   Explanation
+  ------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          A mouse is moved without the button being pushed. This state can be called _tracking_, meaning the user just moves the mouse without further interacting with the system. If the mouse is pointed at an icon and the button is pressed while moving the mouse, a new state called _dragging_ is entered. These states are shown in the image _"2 State Transaction"_.
+          If a touch tablet, which is able to sense touch or no-touch, is used instead of a mouse, the state model looks different. More precisely this means that any movement of the finger off the display is _out of range_ and has no effect on the system. Only when the finger touches the display, the state switches to _tracking_ (Figure: _"Out of Range & Tracking"_).
+          If a graphics tablet with a stylus is used, it is possible to sense all three states. When the stylus is lifted, it is _out of range_. When it is in range, the state switches to _tracking_ and the pointer follows the stylus' movement. Performing extra pressure on the stylus initiates state 2 _dragging_ (Figure: _"Out of Range, Tracking & Dragging"_).
+          By using a multiple-button mouse or multiple clicks, State 2 can be split into a set of states, i.e. pressing different buttons leads to different states. For example, selecting an object with _Button 1_ switches to the state _Drag Original_ whereas _Button 2_ switches to _Drag Copy_. The same goes for multiple clicks known from Windows: one click on an object selects an object, double-clicks open it (Figure: _"State 2 Set"_).
 
 
 Fitts' Law
@@ -175,7 +175,7 @@ Position-tracking pointing devices
 
 Graphics tablet
 
-Wacom_Graphire4_tablet.jpg with a pen]]
+with a pen]]
 
 A graphics tablet or digitizing tablet is a special tablet similar to a touchpad, but controlled with a pen or stylus that is held and used like a normal pen or pencil. The thumb usually controls the clicking via a two-way button on the top of the pen, or by tapping on the tablet's surface.
 
@@ -183,7 +183,7 @@ A cursor (also called a puck) is similar to a mouse, except that it has a window
 
 Stylus
 
-HTC_Touch2_used_with_a_stylus.jpg being operated with a stylus]]
+being operated with a stylus]]
 
 A stylus is a small pen-shaped instrument that is used to input commands to a computer screen, mobile device or graphics tablet.
 
@@ -191,15 +191,13 @@ The stylus is the primary input device for personal digital assistants and smart
 
 Touchpad
 
-Macbook_pro_trackpad.jpg]]
+]]
 
 A touchpad or trackpad is a flat surface that can detect finger contact. It is a stationary pointing device, commonly used on laptop computers. At least one physical button normally comes with the touchpad, but the user can also generate a mouse click by tapping on the pad. Advanced features include pressure sensitivity and special gestures such as scrolling by moving one's finger along an edge.
 
 It uses a two-layer grid of electrodes to measure finger movement: one layer has vertical electrode strips that handle vertical movement, and the other layer has horizontal electrode strips to handle horizontal movements.[11]
 
 Touchscreen
-
-Apple_iPad_Event03.jpg
 
 A touchscreen is a device embedded into the screen of the TV monitor, or system LCD monitor screens of laptop computers. Users interact with the device by physically pressing items shown on the screen, either with their fingers or some helping tool.
 

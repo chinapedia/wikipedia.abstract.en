@@ -9,7 +9,7 @@ History
 
 Early cultivation
 
-Klazomenai.jpg, Ionia (modern Turkey)]]
+, Ionia (modern Turkey)]]
 
 The olive tree is native to the Mediterranean basin; wild olives were collected by Neolithic peoples as early as the 8th millennium BC.[1] The wild olive tree originated in Asia Minor[2] or in ancient Greece. It is not clear when and where olive trees were first domesticated: in Asia Minor, in the Levant,[3] or somewhere in the Mesopotamian part of the Fertile Crescent.
 
@@ -19,17 +19,15 @@ Recent genetic studies suggest that species used by modern cultivators descend f
 
 History and trade
 
-Turkey.Bodrum042.jpg
-
 Olive trees and oil production in the Eastern Mediterranean can be traced to archives of the ancient city-state Ebla (2600–2240 BC), which were located on the outskirts of the Syrian city Aleppo. Here some dozen documents dated 2400 BC describe lands of the king and the queen. These belonged to a library of clay tablets perfectly preserved by having been baked in the fire that destroyed the palace. A later source is the frequent mentions of oil in the Tanakh.[8] Dynastic Egyptians before 2000 BC imported olive oil from Crete, Syria and Canaan and oil was an important item of commerce and wealth. Remains of olive oil have been found in jugs over 4,000 years old in a tomb on the island of Naxos in the Aegean Sea. Sinuhe, the Egyptian exile who lived in northern Canaan about 1960 BC, wrote of abundant olive trees.[9]
 
 Besides food, olive oil has been used for religious rituals, medicines, as a fuel in oil lamps, soap-making, and skin care application. The Minoans used olive oil in religious ceremonies. The oil became a principal product of the Minoan civilization, where it is thought to have represented wealth. Olive oil, a multi-purpose product of Mycenaean Greece (c. 1600–1100 BC) at that time, was a chief export.[10] Olive tree growing reached Iberia and Etruscan cities well before the 8th century BC through trade with the Phoenicians and Carthage, then was spread into Southern Gaul by the Celtic tribes during the 7th century BC. Over 100 olive presses have been found in Tel Miqne (Ekron), one of the five main cities of the Biblical Philistines. These presses are estimated to have had output of between 1,000 and 3,000 tons of olive oil per season.
 
 Many ancient presses still exist in the Eastern Mediterranean region, and some dating to the Roman period are still in use today.[11]
 
-Olive_Press_in_Pompeji.JPG Olive oil was common in ancient Greek and Roman cuisine. According to Herodotus, Apollodorus, Plutarch, Pausanias, Ovid and other sources, the city of Athens obtained its name because Athenians considered olive oil essential, preferring the offering of the goddess Athena (an olive tree) over the offering of Poseidon (a spring of salt water gushing out of a cliff). The Spartans and other Greeks used oil to rub themselves while exercising in the gymnasia. From its beginnings early in the 7th century BC, the cosmetic use of olive oil quickly spread to all of the Hellenic city states, together with athletes training in the nude, and lasted close to a thousand years despite its great expense.[12][13] Olive oil was also popular as a form of birth control; Aristotle in his History of Animals recommends applying a mixture of olive oil combined with either oil of cedar, ointment of lead, or ointment of frankincense to the cervix to prevent pregnancy.[14] Olive trees were planted throughout the entire Mediterranean basin during evolution of the Roman Republic and Empire. According to the historian Pliny the Elder, Italy had "excellent olive oil at reasonable prices" by the 1st century AD—"the best in the Mediterranean", he maintained.
+Olive oil was common in ancient Greek and Roman cuisine. According to Herodotus, Apollodorus, Plutarch, Pausanias, Ovid and other sources, the city of Athens obtained its name because Athenians considered olive oil essential, preferring the offering of the goddess Athena (an olive tree) over the offering of Poseidon (a spring of salt water gushing out of a cliff). The Spartans and other Greeks used oil to rub themselves while exercising in the gymnasia. From its beginnings early in the 7th century BC, the cosmetic use of olive oil quickly spread to all of the Hellenic city states, together with athletes training in the nude, and lasted close to a thousand years despite its great expense.[12][13] Olive oil was also popular as a form of birth control; Aristotle in his History of Animals recommends applying a mixture of olive oil combined with either oil of cedar, ointment of lead, or ointment of frankincense to the cervix to prevent pregnancy.[14] Olive trees were planted throughout the entire Mediterranean basin during evolution of the Roman Republic and Empire. According to the historian Pliny the Elder, Italy had "excellent olive oil at reasonable prices" by the 1st century AD—"the best in the Mediterranean", he maintained.
 
-The_Manufacture_of_Oil_drawn_and_engraved_by_J_Amman_in_the_Sixteenth_Century.png]]
+]]
 
 The importance and antiquity of olive oil can be seen in the fact that the English word _oil_ derives from c. 1175, _olive oil_, from Anglo-Fr. and O.N.Fr. _olie_, from O.Fr. _oile_ (12c., Mod.Fr. _huile_), from L. _oleum_ "oil, olive oil" (cf. It. _olio_), from Gk. _elaion_ "olive tree",[15][16] which may have been borrowed through trade networks from the Semitic Phoenician use of _el'yon_ meaning "superior", probably in recognized comparison to other vegetable or animal fats available at the time. Robin Lane Fox suggests[17] that the Latin borrowing of Greek _elaion_ for oil (Latin _oleum_) is itself a marker for improved Greek varieties of oil-producing olive, already present in Italy as Latin was forming, brought by Euboean traders, whose presence in Latium is signaled by remains of their characteristic pottery, from the mid-8th century.
 
@@ -41,7 +39,7 @@ There are many olive cultivars, each with a particular flavor, texture, and shel
 
 Uses
 
-Vinegar_&_Oil.JPG and olive oil]] Olives_in_olive_oil.jpgs in olive oil]]
+and olive oil]] s in olive oil]]
 
 Culinary use
 
@@ -86,7 +84,7 @@ Olive oil is also a natural and safe lubricant, and can be used to lubricate kit
 
 Extraction
 
-Cold_press_olive_oil_machine_at_Saba_Habib_in_Israel_2.jpg.]] Frantoio_Maraldi_2.JPG
+.]]
 
 Olive oil is produced by grinding olives and extracting the oil by mechanical or chemical means. Green olives usually produce more bitter oil, and overripe olives can produce oil that is rancid, so for good extra virgin olive oil care is taken to make sure the olives are perfectly ripened. The process is generally as follows:
 
@@ -127,8 +125,6 @@ Production
 | Source: International Olive Council[40] |
 +-----------------------------------------+
 
-Olive_niche.jpg
-
 In 2016/17 period, world production of virgin olive oil was 2.586,5 thousand tonnes (table), an 18,6% decrease under 2015/16 global production.[41] Spain produced 1.290,6 thousand tonnes or 50% of world production. The next six largest producers – Greece, Italy, Turkey, Morocco, Syria and Tunisia – collectively produced 70 percent of Spain's annual total (table).
 
 In the EU, Eurostat reported in 2007 that there were 1.9 million farms with olive groves. The olive sector is characterised by a large number of small operations. The largest holdings are in Andalucía (8 ha/holding on average) in Spain and Alentejo (7.5 ha/holding) in Portugal while the smallest are located in Cyprus (0.5 ha/holding), Apulia and Crete (1.7 ha/holding).[42]
@@ -162,7 +158,7 @@ The United States is not a member of the IOC and is not subject to its authority
 
 Commercial grades
 
-Italian_olive_oil_2007.jpg All production begins by transforming the olive fruit into olive paste by crushing or pressing. This paste is then malaxed (slowly churned or mixed) to allow the microscopic oil droplets to agglomerate. The oil is then separated from the watery matter and fruit pulp with the use of a press (traditional method) or centrifugation (modern method). After extraction the remnant solid substance, called pomace, still contains a small quantity of oil.
+All production begins by transforming the olive fruit into olive paste by crushing or pressing. This paste is then malaxed (slowly churned or mixed) to allow the microscopic oil droplets to agglomerate. The oil is then separated from the watery matter and fruit pulp with the use of a press (traditional method) or centrifugation (modern method). After extraction the remnant solid substance, called pomace, still contains a small quantity of oil.
 
 To classify its organoleptic qualities, olive oil is judged by a panel of trained tasters in a blind taste test.
 
@@ -174,8 +170,6 @@ The grades of oil extracted from the olive fruit can be classified as:
 -   _Lampante virgin oil_ is olive oil extracted by virgin (mechanical) methods but not suitable for human consumption without further refining; “lampante” is the attributive form of “lampa”, the Italian word for “lamp”, referring to the earlier use of such oil in oil lamps. Lampante virgin oil can be used for industrial purposes, or refined (see below) to make it edible.[72]
 -   _Refined olive oil_ is the olive oil obtained from any grade of virgin olive oil by refining methods which do not lead to alterations in the initial glyceridic structure. The refining process removes colour, odour and flavour from the olive oil, and leaves behind a very pure form of olive oil that is tasteless, colourless and odourless and extremely low in free fatty acids. Olive oils sold as the grades _Extra virgin olive oil_ and _Virgin olive oil_ therefore cannot contain any refined oil.[73]
 -   _Crude olive pomace oil_ is the oil obtained by treating olive pomace (the leftover paste after the pressing of olives for virgin olive oils) with solvents or other physical treatments, to the exclusion of oils obtained by re-esterification processes and of any mixture with oils of other kinds. It is then further refined into _Refined olive pomace oil_ and once re-blended with virgin olive oils for taste, is then known as _Olive pomace oil_.[74]
-
-Olio_prodotto_in_Liguria.JPG
 
 International Olive Council
 
@@ -236,7 +230,7 @@ In early February 2017, the Carabinieri arrested 33 suspects in the Calabrian ma
 
 Constituents
 
-Fat_structural_formulae_V3.svg). R¹, R² and R³ are alkyl groups (approx. 20%) or alkenyl groups (approx. 80%).]]
+). R¹, R² and R³ are alkyl groups (approx. 20%) or alkenyl groups (approx. 80%).]]
 
 Olive oil is composed mainly of the mixed triglyceride esters of oleic acid and palmitic acid and of other fatty acids, along with traces of squalene (up to 0.7%) and sterols (about 0.2% phytosterol and tocosterols). The composition varies by cultivar, region, altitude, time of harvest, and extraction process.
 

@@ -27,8 +27,6 @@ In 1910, Foster wrested legal control of the team from its founder, Frank Leland
 
 Chicago American Giants
 
-Chicago_American_Giants_1919.jpg 1920_Detroit_Stars.jpg
-
 The following season, Foster established a partnership with John Schorling, the son-in-law of Chicago White Sox owner Charlie Comiskey. The White Sox had just moved into Comiskey Park, and Schorling arranged for Foster's team to use the vacated South Side Park, at 39th and Wentworth. Settling into their new home (now called Schorling's Park), the Lelands became the Chicago American Giants. For the next four seasons, the American Giants claimed the western black baseball championship, though they lost a 1913 series to the Lincoln Giants for the national championship.
 
 By 1915, Foster's first serious rival in the midwest had emerged: C. I. Taylor's Indianapolis ABCs, who claimed the western championship after defeating the American Giants four games to none in July. One of the victories was a forfeit called after a brawl between the two teams broke out. After the series, Foster and Taylor engaged in a public dispute about that game and the championship. In 1916, both teams again claimed the western title. The continued wrangling led to calls for a black baseball league to be formed, but Foster, Taylor, and the other major clubs in the midwest were unable to come to any agreement.
@@ -40,7 +38,7 @@ In 1919, Foster helped Tenny Blount finance a new club in Detroit, the Stars. He
 
 Negro National League
 
-Rube_Foster_1924.jpg.]] In 1920, Foster, Taylor, and the owners of six other midwestern clubs met in the spring to form a professional baseball circuit for African-American teams. Foster, as president, controlled league operations, while remaining owner and manager of the American Giants. He was periodically accused of favoring his own team, especially in matters of scheduling (the Giants in the early years tended to have a disproportionate number of home games) and personnel: Foster seemed able to acquire whatever talent he needed from other clubs, such as Jimmie Lyons, the Detroit Stars' best player in 1920, who was transferred to the American Giants for 1921, or Foster's own younger brother, Bill, who joined the American Giants unwillingly when Rube forced the Memphis Red Sox to give him up in 1926. His critics believed he had organized the league primarily for purposes of booking games for the American Giants. With a stable schedule and reasonably solvent opponents, Foster was able to improve receipts at the gate. It is also true that when opposing clubs lost money, he was known to help them meet payroll, sometimes out of his own pocket.
+.]] In 1920, Foster, Taylor, and the owners of six other midwestern clubs met in the spring to form a professional baseball circuit for African-American teams. Foster, as president, controlled league operations, while remaining owner and manager of the American Giants. He was periodically accused of favoring his own team, especially in matters of scheduling (the Giants in the early years tended to have a disproportionate number of home games) and personnel: Foster seemed able to acquire whatever talent he needed from other clubs, such as Jimmie Lyons, the Detroit Stars' best player in 1920, who was transferred to the American Giants for 1921, or Foster's own younger brother, Bill, who joined the American Giants unwillingly when Rube forced the Memphis Red Sox to give him up in 1926. His critics believed he had organized the league primarily for purposes of booking games for the American Giants. With a stable schedule and reasonably solvent opponents, Foster was able to improve receipts at the gate. It is also true that when opposing clubs lost money, he was known to help them meet payroll, sometimes out of his own pocket.
 
 His American Giants won the new league's first three pennants, before being overtaken by the Kansas City Monarchs in 1923. In the same year the Hilldale Club and Bacharach Giants, the most important eastern clubs, pulled out of an agreement with the NNL and founded their own league, the Eastern Colored League (ECL). The ECL raided the older circuit for players, Foster's own ace pitcher Dave Brown among them. Eventually the two leagues reached an agreement to respect one another's contracts, and to play a world series.
 
@@ -55,7 +53,7 @@ Foster is interred in Lincoln Cemetery in Blue Island, Illinois.
 
 Legacy
 
-Rube_Foster_plaque_HOF.jpg]]
+]]
 
 In 1981, Foster was elected to the National Baseball Hall of Fame. He was the first representative of the Negro leagues elected as a pioneer or executive.
 

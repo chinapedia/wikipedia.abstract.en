@@ -59,7 +59,7 @@ While in office, Thompson chose the following jurists to sit as justices of the 
 
 Death in office
 
-John_Thompson_Grave,_Holy_Cross_Cemetery,_Halifax,_Nova_Scotia.jpg, Halifax, Nova Scotia]] Sir John Thompson had been Prime Minister of Canada for only two years when he died suddenly from a heart attack at the age of 49 on December 12, 1894. He was at England's Windsor Castle, where Queen Victoria had just made him a member of her Privy Council.[3][4] Thompson's physical condition had deteriorated during his time in Ottawa; he was significantly overweight when he died (standing , he weighed about ), and had always pushed himself very hard in his work.
+, Halifax, Nova Scotia]] Sir John Thompson had been Prime Minister of Canada for only two years when he died suddenly from a heart attack at the age of 49 on December 12, 1894. He was at England's Windsor Castle, where Queen Victoria had just made him a member of her Privy Council.[3][4] Thompson's physical condition had deteriorated during his time in Ottawa; he was significantly overweight when he died (standing , he weighed about ), and had always pushed himself very hard in his work.
 
 Thompson was the second of two Canadian prime ministers to die in office (the first being Sir John A. Macdonald), and the first of three who did not die in Canada (the other two being Sir Charles Tupper and R. B. Bennett).
 
@@ -70,7 +70,7 @@ Despite having held prime ministerial office, Thompson had little estate, so Par
 
 Family
 
-Annie_E_Thompson_by_William_James_Topley.jpg]] Thompson, then a young barrister, married in 1870 Annie E. Affleck, daughter of John Affleck, of Halifax, Nova Scotia, and his wife, Catherine Saunders. Annie was born and educated in Halifax, Nova Scotia. The couple had nine children, only five of whom survived early childhood. After she was widowed December 12, 1894, a fund of $30,000 was raised for Lady Thompson, headed by Lord Strathcona with a subscription of $5,000; the Parliament of Canada contributed $25,000. The Governor-General, the Earl of Aberdeen undertook the education of the sons. Lady Thompson cofounded, with the Countess of Aberdeen, the National Council of Women, and served as one of its presidents. She served as a governor of the Victorian Order of Nurses. As a widow, she lived at Derwent Lodge, 631 Sherbourne Street in Toronto.[8]
+]] Thompson, then a young barrister, married in 1870 Annie E. Affleck, daughter of John Affleck, of Halifax, Nova Scotia, and his wife, Catherine Saunders. Annie was born and educated in Halifax, Nova Scotia. The couple had nine children, only five of whom survived early childhood. After she was widowed December 12, 1894, a fund of $30,000 was raised for Lady Thompson, headed by Lord Strathcona with a subscription of $5,000; the Parliament of Canada contributed $25,000. The Governor-General, the Earl of Aberdeen undertook the education of the sons. Lady Thompson cofounded, with the Countess of Aberdeen, the National Council of Women, and served as one of its presidents. She served as a governor of the Victorian Order of Nurses. As a widow, she lived at Derwent Lodge, 631 Sherbourne Street in Toronto.[8]
 
 
 Legacy

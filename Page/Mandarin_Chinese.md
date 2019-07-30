@@ -30,7 +30,7 @@ The hundreds of modern local varieties of Chinese developed from regional varian
 
 Old Mandarin
 
-Mengu_Ziyun_xia_24b.jpg'', covering the syllables _tsim_ to _lim_]]
+'', covering the syllables _tsim_ to _lim_]]
 
 After the fall of the Northern Song (959–1126) and during the reign of the Jin (1115–1234) and Yuan (Mongol) dynasties in northern China, a common speech developed based on the dialects of the North China Plain around the capital, a language referred to as Old Mandarin. New genres of vernacular literature were based on this language, including verse, drama and story forms, such as the _qu_ and _sanqu_ poetry.
 
@@ -52,7 +52,7 @@ Hu Shih, a pivotal figure of the first half of the twentieth century, wrote an i
 
 Koiné of the Late Empire
 
-Fourmont-Zhongguo-Guanhua.png (with Arcadio Huang) in 1742[6]]]
+(with Arcadio Huang) in 1742[6]]]
 
 Until the mid-20th century, most Chinese people living in many parts of South China spoke only their local variety. As a practical measure, officials of the Ming and Qing dynasties carried out the administration of the empire using a common language based on Mandarin varieties, known as _Guānhuà_. Knowledge of this language was thus essential for an official career, but it was never formally defined.
 
@@ -78,7 +78,7 @@ The written forms of Standard Chinese are also essentially equivalent, although 
 
 Geographic distribution and dialects
 
-Mandarin_subgroups_and_Jin_group.png, which many linguists include as part of Mandarin, according to the _Language Atlas of China_ (1987)]]
+, which many linguists include as part of Mandarin, according to the _Language Atlas of China_ (1987)]]
 
 Most Han Chinese living in northern and southwestern China are native speakers of a dialect of Mandarin. The North China Plain provided few barriers to migration, leading to relative linguistic homogeneity over a wide area in northern China. In contrast, the mountains and rivers of southern China have spawned the other six major groups of Chinese varieties, with great internal diversity, particularly in Fujian.
 
@@ -183,7 +183,7 @@ R-coloring, a characteristic feature of Mandarin, works quite differently in the
 
 Tones
 
-Mandarin_tones_in_musical_notation.svg, using musical notation.]] In general, no two Mandarin-speaking areas have exactly the same set of tone values, but most Mandarin-speaking areas have very similar tone _distribution_. For example, the dialects of Jinan, Chengdu, Xi'an and so on all have four tones that correspond quite well to the Beijing dialect tones of (55), (35), (214), and (51). The exception to this rule lies in the distribution of syllables formerly ending in a stop consonant, which are treated differently in different dialects of Mandarin.
+, using musical notation.]] In general, no two Mandarin-speaking areas have exactly the same set of tone values, but most Mandarin-speaking areas have very similar tone _distribution_. For example, the dialects of Jinan, Chengdu, Xi'an and so on all have four tones that correspond quite well to the Beijing dialect tones of (55), (35), (214), and (51). The exception to this rule lies in the distribution of syllables formerly ending in a stop consonant, which are treated differently in different dialects of Mandarin.
 
 Middle Chinese stops and affricates had a three-way distinction between tenuis, voiceless aspirate and voiced (or breathy voiced) consonants. In Mandarin dialects the voicing is generally lost, yielding voiceless aspirates in syllables with a Middle Chinese level tone and non-aspirates in other syllables. Of the four tones of Middle Chinese, the level, rising and departing tones have also developed into four modern tones in a uniform way across Mandarin dialects; the Middle Chinese level tone has split into two registers, conditioned on voicing of the Middle Chinese initial, while rising tone syllables with voiced obstruent initials have shifted to the departing tone. The following examples from the standard language illustrate the regular development common to Mandarin dialects (recall that pinyin _d_ denotes a non-aspirate , while _t_ denotes an aspirate ):
 

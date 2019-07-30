@@ -1,4 +1,4 @@
-codex_ephremi.jpg'', a Greek manuscript of the Bible from the 5th century, is a palimpsest.]]
+'', a Greek manuscript of the Bible from the 5th century, is a palimpsest.]]
 
 In textual studies, a PALIMPSEST () is a manuscript page, either from a scroll or a book, from which the text has been scraped or washed off so that the page can be reused for another document.[1] Pergamene (now known as parchment) was made of lamb, calf, or goat kid skin (best made in ancient Pergamon) and was expensive and not readily available, so in the interest of economy a pergamene often was re-used by scraping the previous writing. In colloquial usage, the term _palimpsest_ is also used in architecture, archaeology, and geomorphology to denote an object made or worked upon for one purpose and later reused for another, for example a monumental brass the reverse blank side of which has been re-engraved.
 
@@ -10,7 +10,7 @@ The word "palimpsest" derives from the Latin _palimpsestus_, which derives from 
 
 Development
 
-Georgian_paliphsest_V-VI_cc.jpg palimpsest from the 5th or 6th century]]
+palimpsest from the 5th or 6th century]]
 
 Because parchment prepared from animal hides is far more durable than paper or papyrus, most palimpsests known to modern scholars are parchment, which rose in popularity in Western Europe after the 6th century. Where papyrus was in common use, reuse of writing media was less common because papyrus was cheaper and more expendable than costly parchment. Some papyrus palimpsests do survive, and Romans referred to this custom of washing papyrus.[2]
 

@@ -1,4 +1,4 @@
-קלף,_נוצה_ודיו.jpg 3quills.jpg Out_of_ink.jpg Quill_pen_tip.jpg A QUILL pen is a writing implement made from a moulted flight feather (preferably a primary wing-feather) of a large bird. Quills were used for writing with ink before the invention of the dip pen, the metal-nibbed pen, the fountain pen, and, eventually, the ballpoint pen.[1] The hand-cut goose quill is rarely used as a calligraphy tool, because many papers are now derived from wood pulp and wear down the quill very quickly. However, it is still the tool of choice for a few scribes who noted that quills provide an unmatched sharp stroke as well as greater flexibility than a steel pen.
+A QUILL pen is a writing implement made from a moulted flight feather (preferably a primary wing-feather) of a large bird. Quills were used for writing with ink before the invention of the dip pen, the metal-nibbed pen, the fountain pen, and, eventually, the ballpoint pen.[1] The hand-cut goose quill is rarely used as a calligraphy tool, because many papers are now derived from wood pulp and wear down the quill very quickly. However, it is still the tool of choice for a few scribes who noted that quills provide an unmatched sharp stroke as well as greater flexibility than a steel pen.
 
 
 Description
@@ -24,7 +24,7 @@ Quills are also used as the plectrum material in string instruments, particularl
 
 History
 
-The_bookkeeper_by_van_Dijk.jpg Quills were the primary writing instrument in the western world from the 6th to the 19th century. The best quills were usually made from goose, swan, and later turkey feathers. Quills went into decline after the invention of the metal pen, mass production beginning in Great Britain as early as 1822 by John Mitchell of Birmingham.[14]
+Quills were the primary writing instrument in the western world from the 6th to the 19th century. The best quills were usually made from goose, swan, and later turkey feathers. Quills went into decline after the invention of the metal pen, mass production beginning in Great Britain as early as 1822 by John Mitchell of Birmingham.[14]
 
 Quill pens were the instrument of choice during the medieval era due to their compatibility with parchment and vellum. Before this the reed pen had been used, but a finer letter was achieved on animal skin using a cured quill. Other than written text, they were often used to create figures, decorations, and images on manuscripts, although many illuminators and painters preferred fine brushes for their work. The variety of different strokes in formal hands was accomplished by good penmanship as the tip was square cut and rigid, exactly as it is today with modern steel pens.
 
@@ -48,7 +48,7 @@ From the 19th century in radical and socialist symbolism, quill is used to symbo
 
 Today
 
-Quill_(PSF)_vector.svg representation of a quill pen]] A quill knife was the original primary tool used for cutting and sharpening quills, known as "dressing".
+representation of a quill pen]] A quill knife was the original primary tool used for cutting and sharpening quills, known as "dressing".
 
 Following the decline of the quill in the 1820s, after the introduction of the maintenance-free, mass-produced steel dip nib by John Mitchell, knives were still manufactured but became known as desk knives, stationery knives or latterly as the name stuck "pen" knives.
 

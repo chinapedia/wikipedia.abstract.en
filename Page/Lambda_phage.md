@@ -5,11 +5,7 @@ The phage particle consists of a head (also known as a capsid), a tail, and tail
 
 Anatomy
 
-Phage_lambda_virion.svg
-
 The virus particle consists of a head and a tail that can have tail fibers. The whole particle consists of 12–14 different proteins with more than 1000 protein molecules total and one DNA molecule located in the phage head. However, it is still not entirely clear whether the L and M proteins are part of the virion.[4]
-
-LambdaPhage_Genome_Linear.svg
 
 The GENOME contains 48,490 base pairs of double-stranded, linear DNA, with 12-base single-strand segments at both 5' ends.[5] These two single-stranded segments are the "sticky ends" of what is called the _cos_ site. The _cos_ site circularizes the DNA in the host cytoplasm. In its circular form, the phage genome, therefore, is 48,502 base pairs in length.[6] The lambda genome can be inserted into the '' E. coli'' chromosome and is then called a PROPHAGE. See section below for details.
 
@@ -18,8 +14,6 @@ Life cycle
 
 Infection
 
-MANXYZ_permease_Step_4.jpg
-
 Lambda phage is a non-contractile tailed phage, meaning during an infection event it cannot 'force' its DNA through a bacterial cell membrane. It must instead use an existing pathway to invade the host cell, having evolved the tip of its tail to interact with a specific pore to allow entry of its DNA to the hosts.
 
 1.  Bacteriophage Lambda binds to an _E. coli_ cell by means of its J PROTEIN in the tail tip. The J protein interacts with the maltose outer membrane porin (the product of the _lamB_ gene) of _E. coli_,[7] a porin molecule, which is part of the maltose operon.
@@ -27,12 +21,8 @@ Lambda phage is a non-contractile tailed phage, meaning during an infection even
 
 1.  The DNA passes through the mannose permease complex in the inner membrane [8] (encoded by the manXYZ genes) and immediately circularises using the _cos_ sites, 12-base G-C-rich cohesive "sticky ends". The single-strand viral DNA ends are ligated by host DNA ligase.
 
-MANXYZ_permease_Step_10.jpg
-
 1.  Host DNA gyrase puts negative supercoils in the circular chromosome, causing A-T-rich regions to unwind and drive transcription.
 2.  Transcription starts from the constitutive _P_(L)_, _P_(R)_ and _P_(R')_ promoters producing the 'immediate early' transcripts. At first, these express the _N_ and _CRO_ genes, producing N, Cro and a short inactive protein.
-
-N_protien.svg
 
 1.  CRO binds to _OR3_, preventing access to the _P_(RM)_ promoter, preventing expression of the _cI_ gene. N binds to the two _Nut_ (N utilisation) sites, one in the _N_ gene in the _P_(L)_ reading frame, and one in the _cro_ gene in the _P_(R)_ reading frame.
 2.  The N protein is an antiterminator, and functions to extend the reading frames to which it is bound. When RNA polymerase transcribes these regions, it recruits the N and forms a complex with several host NUS proteins. This complex skips through most termination sequences. The extended transcripts (the 'late early' transcripts) include the _N_ and _CRO_ genes along with _CII_ and _CIII_ genes, and _XIS_, _INT_, _O_, _P_ and _Q_ genes discussed later.
@@ -80,7 +70,7 @@ Q is similar to N in its effect: Q binds to RNA polymerase in _Qut_ sites and th
 
 Leftward transcription
 
-Phage_Lambda_int_xis_Retroregulation.jpg Leftward transcription expresses the _gam_, _red_, _xis_, and _int_ genes. Gam and red proteins are involved in recombination. Gam is also important in that it inhibits the host RecBCD nuclease from degrading the 3’ ends in rolling circle replication. Int and xis are integration and excision proteins vital to lysogeny.
+Leftward transcription expresses the _gam_, _red_, _xis_, and _int_ genes. Gam and red proteins are involved in recombination. Gam is also important in that it inhibits the host RecBCD nuclease from degrading the 3’ ends in rolling circle replication. Int and xis are integration and excision proteins vital to lysogeny.
 
 xis and int regulation of insertion and excision
 
@@ -109,11 +99,7 @@ The INTEGRATION of phage λ takes place at a special ATTachment site in the bact
 
 Maintenance of lysogeny
 
-Phage_Lambda_Integration_Excision.jpg
-
 -   Lysogeny is maintained solely by CI. cI represses transcription from _P_(L)_ and _P_(R)_ while upregulating and controlling its own expression from _P_(RM)_. It is therefore the only protein expressed by lysogenic phage.
-
-Polymerase_cl_protien.svg
 
 -   This is coordinated by the _P_(L)_ and _P_(R)_ operators. Both operators have three binding sites for cI: _OL1_, _OL2_, and _OL3_ for _P_(L)_, and _OR1_, _OR2_ and _OR3_ for _P_(R)_.
 -   cI binds most favorably to _OR1_; binding here inhibits transcription from _P_(R)_. As cI easily dimerises, the binding of cI to _OR1_ greatly increases the affinity of the binding of cI to _OR2_, and this happens almost immediately after _OR1_ binding. This activates transcription in the other direction from _P_(RM)_, as the N terminal domain of cI on _OR2_ tightens the binding of RNA polymerase to _P_(RM)_ and hence cI stimulates its own transcription. When it is present at a much higher concentration, it also binds to _OR3_, inhibiting transcription from _P_(RM)_, thus regulating its own levels in a negative feedback loop.
@@ -122,15 +108,13 @@ Polymerase_cl_protien.svg
 
 Induction
 
-Phage_Lambda_SwitchStates.jpg The classic induction of a lysogen involved irradiating the infected cells with UV light. Any situation where a lysogen undergoes DNA damage or the SOS response of the host is otherwise stimulated leads to induction.
+The classic induction of a lysogen involved irradiating the infected cells with UV light. Any situation where a lysogen undergoes DNA damage or the SOS response of the host is otherwise stimulated leads to induction.
 
 1.  The host cell, containing a dormant phage genome, experiences DNA damage due to a high stress environment, and starts to undergo the SOS response.
 2.  RecA (a cellular protein) detects DNA damage and becomes activated. It is now RecA*, a highly specific co-protease.
 3.  Normally RecA* binds LexA (a transcription repressor), activating LexA auto-protease activity, which destroys LexA repressor, allowing production of DNA repair proteins. In lysogenic cells, this response is hijacked, and RecA* stimulates cI autocleavage. This is because cI mimics the structure of LexA at the autocleavage site.
 4.  Cleaved cI can no longer dimerise, and loses its affinity for DNA binding.
 5.  The _P_(R)_ and _P_(L)_ promoters are no longer repressed and switch on, and the cell returns to the lytic sequence of expression events (note that cII is not stable in cells undergoing the SOS response). There is however one notable difference.
-
-Lambda_phage_LexA_inihibition.svg
 
 Control of phage genome excision in induction
 
@@ -149,9 +133,7 @@ Survival of UV-irradiated phage λ is increased when the E. coli host is lysogen
 
 Repressor
 
-Lambda_phage_temperate_controls.png The repressor found in the phage lambda is a notable example of the level of control possible over gene expression by a very simple system. It forms a 'binary switch' with two genes under mutually exclusive expression, as discovered by Barbara J. Meyer.[15]
-
-LambdaPhage_Repressor_Cooperativity.jpg
+The repressor found in the phage lambda is a notable example of the level of control possible over gene expression by a very simple system. It forms a 'binary switch' with two genes under mutually exclusive expression, as discovered by Barbara J. Meyer.[15]
 
 The lambda repressor gene system consists of (from left to right on the chromosome):
 
@@ -243,7 +225,7 @@ Protein function overview
 
 Lytic vs. Lysogenic
 
-Lambda_temperate_life_cycle.png An important distinction here is that between the two decisions; lysogeny and lysis on infection, and continuing lysogeny or lysis from a prophage. The latter is determined solely by the activation of RecA in the SOS response of the cell, as detailed in the section on induction. The former will also be affected by this; a cell undergoing an SOS response will always be lysed, as no cI protein will be allowed to build up. However, the initial lytic/lysogenic decision on infection is also dependent on the cII and cIII proteins.
+An important distinction here is that between the two decisions; lysogeny and lysis on infection, and continuing lysogeny or lysis from a prophage. The latter is determined solely by the activation of RecA in the SOS response of the cell, as detailed in the section on induction. The former will also be affected by this; a cell undergoing an SOS response will always be lysed, as no cI protein will be allowed to build up. However, the initial lytic/lysogenic decision on infection is also dependent on the cII and cIII proteins.
 
 In cells with sufficient nutrients, protease activity is high, which breaks down cII.[18] This leads to the lytic lifestyle. In cells with limited nutrients, protease activity is low, making cII stable. This leads to the lysogenic lifestyle. cIII appears to stabilize cII, both directly and by acting as a competitive inhibitor to the relevant proteases. This means that a cell "in trouble", i.e. lacking in nutrients and in a more dormant state, is more likely to lysogenise. This would be selected for because the phage can now lie dormant in the bacterium until it falls on better times, and so the phage can create more copies of itself with the additional resources available and with the more likely proximity of further infectable cells.
 

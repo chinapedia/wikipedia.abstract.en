@@ -14,8 +14,6 @@ The name Montana comes from the Spanish word _Montaña,_ which in turn comes fro
 
 Geography
 
-Montana_Map.jpg
-
 Montana is one of the nine Mountain States, located in the north of the region known as the Western United States. It borders North Dakota and South Dakota to the east. Wyoming is to the south, Idaho is to the west and southwest, and three Canadian provinces, British Columbia, Alberta, and Saskatchewan, are to the north.
 
 With an area of ,[4] Montana is slightly larger than Japan. It is the fourth largest state in the United States after Alaska, Texas, and California; it is the largest landlocked U.S. state.
@@ -26,11 +24,11 @@ The state's topography is roughly defined by the Continental Divide, which split
 
 The Bitterroot Mountains—one of the longest continuous ranges in the Rocky Mountain chain from Alaska to Mexico—along with smaller ranges, including the Coeur d'Alene Mountains and the Cabinet Mountains, divide the state from Idaho. The southern third of the Bitterroot range blends into the Continental Divide. Other major mountain ranges west of the Divide include the Cabinet Mountains, the Anaconda Range, the Missions, the Garnet Range, Sapphire Mountains, and Flint Creek Range.
 
-Montana_Relief_1.jpg The Divide's northern section, where the mountains rapidly give way to prairie, is part of the Rocky Mountain Front. The front is most pronounced in the Lewis Range, located primarily in Glacier National Park. Due to the configuration of mountain ranges in Glacier National Park, the Northern Divide (which begins in Alaska's Seward Peninsula) crosses this region and turns east in Montana at Triple Divide Peak. It causes the Waterton River, Belly, and Saint Mary rivers to flow north into Alberta, Canada. There they join the Saskatchewan River, which ultimately empties into Hudson Bay.
+The Divide's northern section, where the mountains rapidly give way to prairie, is part of the Rocky Mountain Front. The front is most pronounced in the Lewis Range, located primarily in Glacier National Park. Due to the configuration of mountain ranges in Glacier National Park, the Northern Divide (which begins in Alaska's Seward Peninsula) crosses this region and turns east in Montana at Triple Divide Peak. It causes the Waterton River, Belly, and Saint Mary rivers to flow north into Alberta, Canada. There they join the Saskatchewan River, which ultimately empties into Hudson Bay.
 
 East of the divide, several roughly parallel ranges cover the state's southern part, including the Gravelly Range, the Madison Range, Gallatin Range, Absaroka Mountains and the Beartooth Mountains. The Beartooth Plateau is the largest continuous land mass over high in the continental United States. It contains the state's highest point, Granite Peak, high. North of these ranges are the Big Belt Mountains, Bridger Mountains, Tobacco Roots, and several island ranges, including the Crazy Mountains and Little Belt Mountains.
 
-St_Mary_Lake.jpg in Glacier National Park]]
+in Glacier National Park]]
 
 Between many mountain ranges are rich river valleys. The Big Hole Valley, Bitterroot Valley, Gallatin Valley, Flathead Valley, and Paradise Valley have extensive agricultural resources and multiple opportunities for tourism and recreation.
 
@@ -38,7 +36,7 @@ East and north of this transition zone are the expansive and sparsely populated 
 
 The area east of the divide in the state' north-central portion is known for the Missouri Breaks and other significant rock formations. Three buttes south of Great Falls are major landmarks: Cascade, Crown, Square, Shaw and Buttes. Known as laccoliths, they formed when igneous rock protruded through cracks in the sedimentary rock. The underlying surface consists of sandstone and shale. Surface soils in the area are highly diverse, and greatly affected by the local geology, whether glaciated plain, intermountain basin, mountain foothills, or tableland. Foothill regions are often covered in weathered stone or broken slate, or consist of uncovered bare rock (usually igneous, quartzite, sandstone, or shale). The soil of intermountain basins usually consists of clay, gravel, sand, silt, and volcanic ash, much of it laid down by lakes which covered the region during the Oligocene 33 to 23 million years ago. Tablelands are often topped with argillite gravel and weathered quartzite, occasionally underlain by shale. The glaciated plains are generally covered in clay, gravel, sand, and silt left by the proglacial Lake Great Falls or by moraines or gravel-covered former lake basins left by the Wisconsin glaciation 85,000 to 11,000 years ago. Farther east, areas such as Makoshika State Park near Glendive and Medicine Rocks State Park near Ekalaka contain some of the most scenic badlands regions in the state.
 
-MK02256_2257_Belly_River.jpg in Waterton Lakes National Park]]
+in Waterton Lakes National Park]]
 
 The Hell Creek Formation in Northeast Montana is a major source of dinosaur fossils. Paleontologist Jack Horner of the Museum of the Rockies in Bozeman brought this formation to the world's attention with several major finds.
 
@@ -48,7 +46,7 @@ Montana has thousands of named rivers and creeks, of which are known for "blue-r
 
 Pacific Ocean drainage basin
 
-Missouri_River_breaks.jpg region in central Montana]] West of the divide, the Clark Fork of the Columbia (not to be confused with the Clarks Fork of the Yellowstone River) rises near Butte and flows northwest to Missoula, where it is joined by the Blackfoot River and Bitterroot River. Farther downstream, it is joined by the Flathead River before entering Idaho near Lake Pend Oreille. The Pend Oreille River forms the outflow of Lake Pend Oreille. The Pend Oreille River joined the Columbia River, which flows to the Pacific Ocean—making the long Clark Fork/Pend Oreille (considered a single river system) the longest river in the Rocky Mountains. The Clark Fork discharges the greatest volume of water of any river exiting the state. The Kootenai River in northwest Montana is another major tributary of the Columbia.
+region in central Montana]] West of the divide, the Clark Fork of the Columbia (not to be confused with the Clarks Fork of the Yellowstone River) rises near Butte and flows northwest to Missoula, where it is joined by the Blackfoot River and Bitterroot River. Farther downstream, it is joined by the Flathead River before entering Idaho near Lake Pend Oreille. The Pend Oreille River forms the outflow of Lake Pend Oreille. The Pend Oreille River joined the Columbia River, which flows to the Pacific Ocean—making the long Clark Fork/Pend Oreille (considered a single river system) the longest river in the Rocky Mountains. The Clark Fork discharges the greatest volume of water of any river exiting the state. The Kootenai River in northwest Montana is another major tributary of the Columbia.
 
 Gulf of Mexico drainage basin
 
@@ -70,7 +68,7 @@ Montana has some 3,000 named lakes and reservoirs, including Flathead Lake, the 
 
 Flora and fauna
 
-Pompeys_Pillar_NM_(9424545304).jpg]]
+]]
 
 Vegetation of the state includes lodgepole pine, ponderosa pine; Douglas fir, larch, spruce; aspen, birch, red cedar, hemlock, ash, alder; rocky mountain maple and cottonwood trees. Forests cover approximately 25 percent of the state. Flowers native to Montana include asters, bitterroots, daisies, lupins, poppies, primroses, columbine, lilies, orchids, and dryads. Several species of sagebrush and cactus and many species of grasses are common. Many species of mushrooms and lichens are also found in the state.
 
@@ -78,11 +76,11 @@ Montana is home to a diverse array of fauna that includes 14 amphibian, 90 fish,
 
 Protected lands
 
-Bison_herd_grazing_at_the_National_Bison_Range.jpg herd grazing at the National Bison Range]] Montana contains Glacier National Park, "The Crown of the Continent"; and parts of Yellowstone National Park, including three of the park's five entrances. Other federally recognized sites include the Little Bighorn National Monument, Bighorn Canyon National Recreation Area, Big Hole National Battlefield, and the National Bison Range.
+herd grazing at the National Bison Range]] Montana contains Glacier National Park, "The Crown of the Continent"; and parts of Yellowstone National Park, including three of the park's five entrances. Other federally recognized sites include the Little Bighorn National Monument, Bighorn Canyon National Recreation Area, Big Hole National Battlefield, and the National Bison Range.
 
 Federal and state agencies administer approximately , or 35 percent of Montana's land. The U.S. Department of Agriculture Forest Service administers of forest land in ten National Forests. There are approximately of wilderness in 12 separate wilderness areas that are part of the National Wilderness Preservation System established by the Wilderness Act of 1964. The U.S. Department of the Interior Bureau of Land Management controls of federal land. The U.S. Department of the Interior Fish and Wildlife Service administers of 1.1 million acres of National Wildlife Refuges and waterfowl production areas in Montana. The U.S. Department of the Interior Bureau of Reclamation administers approximately of land and water surface in the state. The Montana Department of Fish, Wildlife and Parks operates approximately of state parks and access points on the state's rivers and lakes. The Montana Department of Natural Resources and Conservation manages of School Trust Land ceded by the federal government under the Land Ordinance of 1785 to the state in 1889 when Montana was granted statehood. These lands are managed by the state for the benefit of public schools and institutions in the state.
 
-Quakelakemontana.jpg was created by a landslide during the 1959 Hebgen Lake earthquake.]]
+was created by a landslide during the 1959 Hebgen Lake earthquake.]]
 
 Areas managed by the National Park Service include:
 
@@ -97,17 +95,17 @@ Areas managed by the National Park Service include:
 
 Climate
 
-Helena,_Montana_1961-1990_Climate_data.gif]] Montana_Köppen.svg of Montana]] Montana is a large state with considerable variation in geography, topography and altitude, and the climate is, therefore, equally varied. The state spans from below the 45th parallel (the line equidistant between the equator and North Pole) to the 49th parallel, and elevations range from under to nearly above sea level. The western half is mountainous, interrupted by numerous large valleys. Eastern Montana comprises plains and badlands, broken by hills and isolated mountain ranges, and has a semi-arid, continental climate (Köppen climate classification _BSk_). The Continental Divide has a considerable effect on the climate, as it restricts the flow of warmer air from the Pacific from moving east, and drier continental air from moving west. The area west of the divide has a modified northern Pacific coast climate, with milder winters, cooler summers, less wind and a longer growing season. Low clouds and fog often form in the valleys west of the divide in winter, but this is rarely seen in the east.
+]] of Montana]] Montana is a large state with considerable variation in geography, topography and altitude, and the climate is, therefore, equally varied. The state spans from below the 45th parallel (the line equidistant between the equator and North Pole) to the 49th parallel, and elevations range from under to nearly above sea level. The western half is mountainous, interrupted by numerous large valleys. Eastern Montana comprises plains and badlands, broken by hills and isolated mountain ranges, and has a semi-arid, continental climate (Köppen climate classification _BSk_). The Continental Divide has a considerable effect on the climate, as it restricts the flow of warmer air from the Pacific from moving east, and drier continental air from moving west. The area west of the divide has a modified northern Pacific coast climate, with milder winters, cooler summers, less wind and a longer growing season. Low clouds and fog often form in the valleys west of the divide in winter, but this is rarely seen in the east.
 
 Average daytime temperatures vary from in January to in July. The variation in geography leads to great variation in temperature. The highest observed summer temperature was at Glendive on July 20, 1893, and Medicine Lake on July 5, 1937. Throughout the state, summer nights are generally cool and pleasant. Extreme hot weather is less common above . Snowfall has been recorded in all months of the year in the more mountainous areas of central and western Montana, though it is rare in July and August.
 
-Big_Drift.jpg covering the Going-to-the-Sun Road in Glacier National Park as photographed on March 23, 2006]]
+covering the Going-to-the-Sun Road in Glacier National Park as photographed on March 23, 2006]]
 
 The coldest temperature on record for Montana is also the coldest temperature for the contiguous United States. On January 20, 1954, was recorded at a gold mining camp near Rogers Pass. Temperatures vary greatly on cold nights, and Helena, to the southeast had a low of only on the same date, and an all-time record low of . Winter cold spells are usually the result of cold continental air coming south from Canada. The front is often well defined, causing a large temperature drop in a 24-hour period. Conversely, air flow from the southwest results in "chinooks." These steady (or more) winds can suddenly warm parts of Montana, especially areas just to the east of the mountains, where temperatures sometimes rise up to for ten days or longer.
 
 Loma is the site of the most extreme recorded temperature change in a 24-hour period in the United States. On January 15, 1972, a chinook wind blew in and the temperature rose from .
 
-Grinnell_overlook.jpg receives of precipitation per year.]] Fall_Clark_Fork.jpg
+receives of precipitation per year.]]
 
 Average annual precipitation is , but great variations are seen. The mountain ranges block the moist Pacific air, holding moisture in the western valleys, and creating rain shadows to the east. Heron, in the west, receives the most precipitation, . On the eastern (leeward) side of a mountain range, the valleys are much drier; Lonepine averages , and Deer Lodge of precipitation. The mountains can receive over , for example the Grinnell Glacier in Glacier National Park gets . An area southwest of Belfry averaged only over a sixteen-year period. Most of the larger cities get of snow each year. Mountain ranges can accumulate of snow during a winter. Heavy snowstorms may occur from September through May, though most snow falls from November to March.
 
@@ -134,7 +132,7 @@ Montana is one of only two continental US states (along with Colorado) which is 
 
 History
 
-Early_Indian_treaty_territories_in_Montana.png]] Assinniboine2.jpg family, Montana, 1890–91]]
+]] family, Montana, 1890–91]]
 
 Various indigenous peoples lived in the territory of the present-day state of Montana for thousands of years. Historic tribes encountered by Europeans and settlers from the United States included the Crow in the south-central area; the Cheyenne in the very southeast; the Blackfeet, Assiniboine and Gros Ventres in the central and north-central area; and the Kootenai and Salish in the west. The smaller Pend d'Oreille and Kalispel tribes lived near Flathead Lake and the western mountains, respectively. A part of southeastern Montana was used as a corridor between the Crows and the related Hidatsas in North Dakota.
 
@@ -144,13 +142,13 @@ The first gold discovered in Montana was at Gold Creek near present-day Garrison
 
 Montana territory
 
-Montana_Territory_1865.jpg Before the creation of Montana Territory (1864–1889), areas within present-day Montana were part of the Oregon Territory (1848–1859), Washington Territory (1853–1863), Idaho Territory (1863–1864), and Dakota Territory (1861–1864). Montana became a United States territory (Montana Territory) on May 26, 1864. The first territorial capital was at Bannack. The first territorial governor was Sidney Edgerton. The capital moved to Virginia City in 1865 and to Helena in 1875. In 1870, the non-Indian population of Montana Territory was 20,595. The Montana Historical Society, founded on February 2, 1865, in Virginia City is the oldest such institution west of the Mississippi (excluding Louisiana). In 1869 and 1870 respectively, the Cook–Folsom–Peterson and the Washburn–Langford–Doane Expeditions were launched from Helena into the Upper Yellowstone region and directly led to the creation of Yellowstone National Park in 1872.
+Before the creation of Montana Territory (1864–1889), areas within present-day Montana were part of the Oregon Territory (1848–1859), Washington Territory (1853–1863), Idaho Territory (1863–1864), and Dakota Territory (1861–1864). Montana became a United States territory (Montana Territory) on May 26, 1864. The first territorial capital was at Bannack. The first territorial governor was Sidney Edgerton. The capital moved to Virginia City in 1865 and to Helena in 1875. In 1870, the non-Indian population of Montana Territory was 20,595. The Montana Historical Society, founded on February 2, 1865, in Virginia City is the oldest such institution west of the Mississippi (excluding Louisiana). In 1869 and 1870 respectively, the Cook–Folsom–Peterson and the Washburn–Langford–Doane Expeditions were launched from Helena into the Upper Yellowstone region and directly led to the creation of Yellowstone National Park in 1872.
 
 Conflicts
 
 As settlers began populating Montana from the 1850s through the 1870s, disputes with Native Americans ensued, primarily over land ownership and control. In 1855, Washington Territorial Governor Isaac Stevens negotiated the Hellgate treaty between the United States Government and the Salish, Pend d'Oreille, and the Kootenai people of western Montana, which established boundaries for the tribal nations. The treaty was ratified in 1859. While the treaty established what later became the Flathead Indian Reservation, trouble with interpreters and confusion over the terms of the treaty led whites to believe the Bitterroot Valley was opened to settlement, but the tribal nations disputed those provisions. The Salish remained in the Bitterroot Valley until 1891.
 
-The first U.S. Army post established in Montana was Camp Cooke in 1866, on the Missouri River, to protect steamboat traffic going to Fort Benton, Montana. More than a dozen additional military outposts were established in the state. Pressure over land ownership and control increased due to discoveries of gold in various parts of Montana and surrounding states. Major battles occurred in Montana during Red Cloud's War, the Great Sioux War of 1876, the Nez Perce War and in conflicts with Piegan Blackfeet. The most notable were the Marias Massacre (1870), Battle of the Little Bighorn (1876), Battle of the Big Hole (1877) and Battle of Bear Paw (1877). The last recorded conflict in Montana between the U.S. Army and Native Americans occurred in 1887 during the Battle of Crow Agency in the Big Horn country. Indian survivors who had signed treaties were generally required to move onto reservations. Chief_Joseph_and_Col._John_Gibbon.jpg
+The first U.S. Army post established in Montana was Camp Cooke in 1866, on the Missouri River, to protect steamboat traffic going to Fort Benton, Montana. More than a dozen additional military outposts were established in the state. Pressure over land ownership and control increased due to discoveries of gold in various parts of Montana and surrounding states. Major battles occurred in Montana during Red Cloud's War, the Great Sioux War of 1876, the Nez Perce War and in conflicts with Piegan Blackfeet. The most notable were the Marias Massacre (1870), Battle of the Little Bighorn (1876), Battle of the Big Hole (1877) and Battle of Bear Paw (1877). The last recorded conflict in Montana between the U.S. Army and Native Americans occurred in 1887 during the Battle of Crow Agency in the Big Horn country. Indian survivors who had signed treaties were generally required to move onto reservations.
 
 Simultaneously with these conflicts, bison, a keystone species and the primary protein source that Native people had survived on for centuries were being destroyed. Some estimates say there were over 13 million bison in Montana in 1870. In 1875, General Philip Sheridan pleaded to a joint session of Congress to authorize the slaughtering of herds in order to deprive the Indians of their source of food. By 1884, commercial hunting had brought bison to the verge of extinction; only about 325 bison remained in the entire United States.
 
@@ -160,7 +158,7 @@ Cattle ranching has been central to Montana's history and economy since Johnny G
 
 Railroads
 
-Buffalo_soldiers1.jpgs, Ft. Keogh, Montana, 1890. The nickname was given to the "Black Cavalry" by the Native American tribes they fought.]] Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribes in the 1870s. Jay Cooke, the NPR president launched major surveys into the Yellowstone valley in 1871, 1872 and 1873 which were challenged forcefully by the Sioux under chief Sitting Bull. These clashes, in part, contributed to the Panic of 1873, a financial crisis that delayed construction of the railroad into Montana. Surveys in 1874, 1875 and 1876 helped spark the Great Sioux War of 1876. The transcontinental NPR was completed on September 8, 1883, at Gold Creek.
+s, Ft. Keogh, Montana, 1890. The nickname was given to the "Black Cavalry" by the Native American tribes they fought.]] Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribes in the 1870s. Jay Cooke, the NPR president launched major surveys into the Yellowstone valley in 1871, 1872 and 1873 which were challenged forcefully by the Sioux under chief Sitting Bull. These clashes, in part, contributed to the Panic of 1873, a financial crisis that delayed construction of the railroad into Montana. Surveys in 1874, 1875 and 1876 helped spark the Great Sioux War of 1876. The transcontinental NPR was completed on September 8, 1883, at Gold Creek.
 
 Tracks of the Great Northern Railroad (GNR) reached eastern Montana in 1887 and when they reached the northern Rocky Mountains in 1890, the GNR became a significant promoter of tourism to Glacier National Park region. The transcontinental GNR was completed on January 6, 1893, at Scenic, Washington.
 
@@ -168,13 +166,7 @@ In 1881, the Utah and Northern Railway a branch line of the Union Pacific comple
 
 Statehood
 
-Reporting statehood: Article text is here. The official telegram received:
-EXECUTIVE MANSION,
-WASHINGTON, D.C. NOV. 7, 1889
-TO HON. JOSEPH K. TOOLE, GOVERNOR OF THE STATE OF MONTANA:
-THE PRESIDENT SIGNED AND ISSUED THE PROCLAMATION DECLARING MONTANA A STATE OF THE UNION AT 10:40 O'CLOCK THIS MORNING.
-JAMES G. BLAINE
-SECRETARY OF STATE[8] Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention held in Helena in 1884 produced a constitution ratified 3:1 by Montana citizens in November 1884. For political reasons, Congress did not approve Montana statehood until February 1889 and President Grover Cleveland signed an omnibus bill granting statehood to Montana, North Dakota, South Dakota and Washington once the appropriate state constitutions were crafted. In July 1889, Montanans convened their third constitutional convention and produced a constitution accepted by the people and the federal government. On November 8, 1889 President Benjamin Harrison proclaimed Montana the union's forty-first state. The first state governor was Joseph K. Toole. In the 1880s, Helena (the state capital) had more millionaires per capita than any other United States city.
+Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention held in Helena in 1884 produced a constitution ratified 3:1 by Montana citizens in November 1884. For political reasons, Congress did not approve Montana statehood until February 1889 and President Grover Cleveland signed an omnibus bill granting statehood to Montana, North Dakota, South Dakota and Washington once the appropriate state constitutions were crafted. In July 1889, Montanans convened their third constitutional convention and produced a constitution accepted by the people and the federal government. On November 8, 1889 President Benjamin Harrison proclaimed Montana the union's forty-first state. The first state governor was Joseph K. Toole. In the 1880s, Helena (the state capital) had more millionaires per capita than any other United States city.
 
 Homesteading
 
@@ -182,7 +174,7 @@ The Homestead Act of 1862 provided free land to settlers who could claim and "pr
 
 The Desert Land Act of 1877 was passed to allow settlement of arid lands in the west and allotted to settlers for a fee of $.25 per acre and a promise to irrigate the land. After three years, a fee of one dollar per acre would be paid and the land would be owned by the settler. This act brought mostly cattle and sheep ranchers into Montana, many of whom grazed their herds on the Montana prairie for three years, did little to irrigate the land and then abandoned it without paying the final fees. Some farmers came with the arrival of the Great Northern and Northern Pacific Railroads throughout the 1880s and 1890s, though in relatively small numbers.
 
-Mennonite_family_in_Montana_1937.jpg family in Montana, c. 1937]]
+family in Montana, c. 1937]]
 
 In the early 1900s, James J. Hill of the Great Northern began to promote settlement in the Montana prairie to fill his trains with settlers and goods. Other railroads followed suit. In 1902, the Reclamation Act was passed, allowing irrigation projects to be built in Montana's eastern river valleys. In 1909, Congress passed the Enlarged Homestead Act that expanded the amount of free land from per family and in 1912 reduced the time to "prove up" on a claim to three years. In 1916, the Stock-Raising Homestead Act allowed homesteads of 640 acres in areas unsuitable for irrigation. This combination of advertising and changes in the Homestead Act drew tens of thousands of homesteaders, lured by free land, with World War I bringing particularly high wheat prices. In addition, Montana was going through a temporary period of higher-than-average precipitation. Homesteaders arriving in this period were known as "Honyockers", or "scissorbills." Though the word "honyocker", possibly derived from the ethnic slur "hunyak," was applied in a derisive manner at homesteaders as being "greenhorns", "new at his business" or "unprepared", most of these new settlers had farming experience, though there were also many who did not.
 
@@ -214,7 +206,7 @@ In 1940, Jeannette Rankin was again elected to Congress. In 1941, as she had in 
 
 Other military
 
-During World War II, the planned battleship USS _Montana_ was named in honor of the state. However, the battleship was never completed. Montana is the only one of the first 48 states lacking a completed battleship being named for it. Alaska and Hawaii have both had nuclear submarines named after them. Montana is the only state in the union without a modern naval ship named in its honor. However, in August 2007 Senator Jon Tester made a request to the Navy that a submarine be christened USS _Montana_. Secretary of the Navy Ray Mabus announced on September 3, 2015 that Virginia Class attack Submarine SSN-794 will bear the state's namesake. This will be the second commissioned warship to bear the name _Montana._[9]
+During World War II, the planned battleship USS _Montana_ was named in honor of the state. However, the battleship was never completed. Montana is the only one of the first 48 states lacking a completed battleship being named for it. Alaska and Hawaii have both had nuclear submarines named after them. Montana is the only state in the union without a modern naval ship named in its honor. However, in August 2007 Senator Jon Tester made a request to the Navy that a submarine be christened USS _Montana_. Secretary of the Navy Ray Mabus announced on September 3, 2015 that Virginia Class attack Submarine SSN-794 will bear the state's namesake. This will be the second commissioned warship to bear the name _Montana._[8]
 
 Cold War Montana
 
@@ -223,16 +215,14 @@ In the post-World War II Cold War era, Montana became host to U.S. Air Force Mil
 
 Demographics
 
-Montana_population_map.png Population_of_Montana_1870–2018_(est.).svg
-
-The United States Census Bureau estimates the population of Montana was 1,062,305 on July 1, 2018, a 7.37% increase since the 2010 United States Census.[10] The 2010 Census put Montana's population at 989,415 which is an increase of 72,890 people, or 7.37 percent, since 2010. During the first decade of the new century, growth was mainly concentrated in Montana's seven largest counties, with the highest percentage growth in Gallatin County, which saw a 32 percent increase in its population from 2000–2010. The city seeing the largest percentage growth was Kalispell with 40.1 percent, and the city with the largest increase in actual residents was Billings with an increase in population of 14,323 from 2000–2010.
+The United States Census Bureau estimates the population of Montana was 1,062,305 on July 1, 2018, a 7.37% increase since the 2010 United States Census.[9] The 2010 Census put Montana's population at 989,415 which is an increase of 72,890 people, or 7.37 percent, since 2010. During the first decade of the new century, growth was mainly concentrated in Montana's seven largest counties, with the highest percentage growth in Gallatin County, which saw a 32 percent increase in its population from 2000–2010. The city seeing the largest percentage growth was Kalispell with 40.1 percent, and the city with the largest increase in actual residents was Billings with an increase in population of 14,323 from 2000–2010.
 
 On January 3, 2012, the Census and Economic Information Center (CEIC) at the Montana Department of Commerce estimated Montana had hit the one million population mark sometime between November and December 2011. The United States Census Bureau estimates the population of Montana was 1,062,305 on July 1, 2018, a 7.37 percent increase since the 2010 United States Census.
 
 According to the 2010 Census, 89.4 percent of the population was White (87.8 percent Non-Hispanic White), 6.3 percent American Indian and Alaska Native, 2.9 percent Hispanics and Latinos of any race, 0.6 percent Asian, 0.4 percent Black or African American, 0.1 percent Native Hawaiian and Other Pacific Islander, 0.6 percent from Some Other Race, and 2.5 percent from two or more races. The largest European ancestry groups in Montana as of 2010 are: German (27.0 percent), Irish (14.8 percent), English (12.6 percent), Norwegian (10.9 percent), French (4.7 percent) and Italian (3.4 percent).
 
 +------------------------+----------+----------+----------+
-| Racial composition     | 1990[11] | 2000[12] | 2010[13] |
+| Racial composition     | 1990[10] | 2000[11] | 2010[12] |
 +========================+==========+==========+==========+
 | White                  | 92.7%    | 90.6%    | 89.4%    |
 +------------------------+----------+----------+----------+
@@ -272,7 +262,7 @@ English is the official language in the state of Montana, as it is in many U.S. 
 
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | Language                                                                                                                                                              | Percentage of population |
-|                                                                                                                                                                       | (as of 2000)[14]         |
+|                                                                                                                                                                       | (as of 2000)[13]         |
 +=======================================================================================================================================================================+==========================+
 | Spanish                                                                                                                                                               | 1.5%                     |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
@@ -282,7 +272,7 @@ English is the official language in the state of Montana, as it is in many U.S. 
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | Scandinavian languages (including Danish, Norwegian, and Swedish)                                                                                                     | 0.2%                     |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| Italian, Japanese, Russian, Native American languages (other than Crow; significantly Cheyenne),[15] Slavic languages (including Czech, Slovak, and Ukrainian) (tied) | 0.1%                     |
+| Italian, Japanese, Russian, Native American languages (other than Crow; significantly Cheyenne),[14] Slavic languages (including Czech, Slovak, and Ukrainian) (tied) | 0.1%                     |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 |                                                                                                                                                                       |                          |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
@@ -291,21 +281,21 @@ English is the official language in the state of Montana, as it is in many U.S. 
 
 Religion
 
-According to the Pew Forum, the religious affiliations of the people of Montana are as follows: Protestant 47%, Catholic 23%, LDS (Mormon) 5%, Jehovah's Witness 2%, Buddhist 1%, Jewish 0.5%, Muslim 0.5%, Hindu 0.5% and Non-Religious at 20%.[16]
+According to the Pew Forum, the religious affiliations of the people of Montana are as follows: Protestant 47%, Catholic 23%, LDS (Mormon) 5%, Jehovah's Witness 2%, Buddhist 1%, Jewish 0.5%, Muslim 0.5%, Hindu 0.5% and Non-Religious at 20%.[15]
 
-The largest denominations in Montana as of 2010 were the Catholic Church with 127,612 adherents, The Church of Jesus Christ of Latter-day Saints with 46,484 adherents, Evangelical Lutheran Church in America with 38,665 adherents, and non-denominational Evangelical Protestant with 27,370 adherents. [17]
+The largest denominations in Montana as of 2010 were the Catholic Church with 127,612 adherents, The Church of Jesus Christ of Latter-day Saints with 46,484 adherents, Evangelical Lutheran Church in America with 38,665 adherents, and non-denominational Evangelical Protestant with 27,370 adherents. [16]
 
 Native Americans
 
-Montana_Indian_Reservations.svg Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), and the Indian Reorganization Act (1934), seven Indian reservations, encompassing eleven federally recognized tribal nations, were created in Montana. A twelfth nation, the Little Shell Chippewa is a "landless" people headquartered in Great Falls; it is recognized by the state of Montana but not by the U.S. government. The Blackfeet nation is headquartered on the Blackfeet Indian Reservation (1851) in Browning, Crow on the Crow Indian Reservation (1868) in Crow Agency, Confederated Salish and Kootenai and Pend d'Oreille on the Flathead Indian Reservation (1855) in Pablo, Northern Cheyenne on the Northern Cheyenne Indian Reservation (1884) at Lame Deer, Assiniboine and Gros Ventre on the Fort Belknap Indian Reservation (1888) in Fort Belknap Agency, Assiniboine and Sioux on the Fort Peck Indian Reservation (1888) at Poplar, and Chippewa-Cree on the Rocky Boy's Indian Reservation (1916) near Box Elder. Approximately 63% of all Native people live off the reservations, concentrated in the larger Montana cities, with the largest concentration of urban Indians in Great Falls. The state also has a small Métis population, and 1990 census data indicated that people from as many as 275 different tribes lived in Montana.
+Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), and the Indian Reorganization Act (1934), seven Indian reservations, encompassing eleven federally recognized tribal nations, were created in Montana. A twelfth nation, the Little Shell Chippewa is a "landless" people headquartered in Great Falls; it is recognized by the state of Montana but not by the U.S. government. The Blackfeet nation is headquartered on the Blackfeet Indian Reservation (1851) in Browning, Crow on the Crow Indian Reservation (1868) in Crow Agency, Confederated Salish and Kootenai and Pend d'Oreille on the Flathead Indian Reservation (1855) in Pablo, Northern Cheyenne on the Northern Cheyenne Indian Reservation (1884) at Lame Deer, Assiniboine and Gros Ventre on the Fort Belknap Indian Reservation (1888) in Fort Belknap Agency, Assiniboine and Sioux on the Fort Peck Indian Reservation (1888) at Poplar, and Chippewa-Cree on the Rocky Boy's Indian Reservation (1916) near Box Elder. Approximately 63% of all Native people live off the reservations, concentrated in the larger Montana cities, with the largest concentration of urban Indians in Great Falls. The state also has a small Métis population, and 1990 census data indicated that people from as many as 275 different tribes lived in Montana.
 
-Montana's Constitution specifically reads that "the state recognizes the distinct and unique cultural heritage of the American Indians and is committed in its educational goals to the preservation of their cultural integrity."[18] It is the only state in the U.S. with such a constitutional mandate. The Indian Education for All Act (IEFA) was passed in 1999 to provide funding for this mandate and ensure implementation.[19] It mandates that all schools teach American Indian history, culture, and heritage from preschool through college.[20] For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools.[21] The state was sued in 2004 because of lack of funding, and the state has increased its support of the program.[22] South Dakota passed similar legislation in 2007, and Wisconsin was working to strengthen its own program based on this model – and the current practices of Montana's schools.[23] Each Indian reservation in the state has a fully accredited tribal college. The University of Montana "was the first to establish dual admission agreements with all of the tribal colleges and as such it was the first institution in the nation to actively facilitate student transfer from the tribal colleges"[24]
+Montana's Constitution specifically reads that "the state recognizes the distinct and unique cultural heritage of the American Indians and is committed in its educational goals to the preservation of their cultural integrity."[17] It is the only state in the U.S. with such a constitutional mandate. The Indian Education for All Act (IEFA) was passed in 1999 to provide funding for this mandate and ensure implementation.[18] It mandates that all schools teach American Indian history, culture, and heritage from preschool through college.[19] For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools.[20] The state was sued in 2004 because of lack of funding, and the state has increased its support of the program.[21] South Dakota passed similar legislation in 2007, and Wisconsin was working to strengthen its own program based on this model – and the current practices of Montana's schools.[22] Each Indian reservation in the state has a fully accredited tribal college. The University of Montana "was the first to establish dual admission agreements with all of the tribal colleges and as such it was the first institution in the nation to actively facilitate student transfer from the tribal colleges"[23]
 
 Birth data
 
 _Note: Births in table don't add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number._
 
-  Race                       2013[25]         2014[26]         2015[27]         2016[28]        2017[29]
+  Race                       2013[24]         2014[25]         2015[26]         2016[27]        2017[28]
   -------------------------- ---------------- ---------------- ---------------- --------------- ---------------
   White:                     10,615 (85.7%)   10,572 (85.0%)   10,768 (85.6%)   ...             ...
   > Non-Hispanic White       10,170 (82.2%)   10,153 (81.7%)   10,270 (81.6%)   9,761 (79.5%)   9,372 (79.4%)
@@ -322,15 +312,15 @@ _Note: Births in table don't add up, because Hispanics are counted both by their
 
 Economy
 
-Craft_Breweries_Per_Capita_(US).svg per capita.]] First_Interstate_Center,_Billings,_MT_cropped.jpg in downtown Billings, the tallest building in Montana]] The Bureau of Economic Analysis estimates Montana's state product in 2014 was $44.3 billion. Per capita personal income in 2014 was $40,601, 35th in the nation.
+per capita.]] in downtown Billings, the tallest building in Montana]] The Bureau of Economic Analysis estimates Montana's state product in 2014 was $44.3 billion. Per capita personal income in 2014 was $40,601, 35th in the nation.
 
-Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. There are significant industries for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Ecotaxes on resource extraction are numerous. A 1974 state severance tax on coal (which varied from 20 to 30 percent) was upheld by the Supreme Court of the United States in _Commonwealth Edison Co. v. Montana_, 453 U.S. 609 (1981).[30]
+Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. There are significant industries for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Ecotaxes on resource extraction are numerous. A 1974 state severance tax on coal (which varied from 20 to 30 percent) was upheld by the Supreme Court of the United States in _Commonwealth Edison Co. v. Montana_, 453 U.S. 609 (1981).[29]
 
 Tourism is also important to the economy with over ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn and three of the five entrances to Yellowstone National Park.
 
 Montana's personal income tax contains 7 brackets, with rates ranging from 1 percent to 6.9 percent. Montana has no sales tax. In Montana, household goods are exempt from property taxes. However, property taxes are assessed on livestock, farm machinery, heavy equipment, automobiles, trucks, and business equipment. The amount of property tax owed is not determined solely by the property's value. The property's value is multiplied by a tax rate, set by the Montana Legislature, to determine its taxable value. The taxable value is then multiplied by the mill levy established by various taxing jurisdictions—city and county government, school districts and others.
 
-As of January 2019, the state's unemployment rate is 3.8 percent. [31]
+As of January 2019, the state's unemployment rate is 3.8 percent. [30]
 
 
 Education
@@ -377,7 +367,7 @@ Colleges and universities
 
 Schools
 
-The Montana Territory was formed on April 26, 1864, when the U.S. passed the Organic Act.[32] Schools started forming in the area before it was officially a territory as families started settling into the area. The first schools were subscription schools that typically met in the teacher's home. The first formal school on record was at Fort Owen in Bitterroot valley in 1862. The students were Indian children and the children of Fort Owen employees. The first school term started in early winter and only lasted until February 28. Classes were taught by Mr. Robinson.[33] Another early subscription school was started by Thomas Dimsdale in Virginia City in 1863. In this school students were charged $1.75 per week.[34] The Montana Territorial Legislative Assembly had its inaugural meeting in 1864.[35] The first legislature authorized counties to levy taxes for schools, which set the foundations for public schooling.[36] Madison County was the first to take advantage of the newly authorized taxes and it formed fhe first public school in Virginia City in 1886.[37] The first school year was scheduled to begin in January 1866, but severe weather postponed its opening until March. The first school year ran through the summer and didn't end until August 17. One of the first teachers at the school was Sarah Raymond. She was a 25-year-old woman who had traveled to Virginia City via wagon train in 1865. To become a certified teacher, Raymond took a test in her home and paid a $6 fee in gold dust to obtain a teaching certificate. With the help of an assistant teacher, Mrs. Farley,[38] Raymond was responsible for teaching 50 to 60 students each day out of the 81 students enrolled at the school. Sarah Raymond was paid $125 per month, and Mrs. Farley was paid $75 per month. There were no textbooks used in the school. In their place was an assortment of books brought by various emigrants.[39] Sarah quit teaching the following year, but she later become the Madison County superintendent of schools.[40]
+The Montana Territory was formed on April 26, 1864, when the U.S. passed the Organic Act.[31] Schools started forming in the area before it was officially a territory as families started settling into the area. The first schools were subscription schools that typically met in the teacher's home. The first formal school on record was at Fort Owen in Bitterroot valley in 1862. The students were Indian children and the children of Fort Owen employees. The first school term started in early winter and only lasted until February 28. Classes were taught by Mr. Robinson.[32] Another early subscription school was started by Thomas Dimsdale in Virginia City in 1863. In this school students were charged $1.75 per week.[33] The Montana Territorial Legislative Assembly had its inaugural meeting in 1864.[34] The first legislature authorized counties to levy taxes for schools, which set the foundations for public schooling.[35] Madison County was the first to take advantage of the newly authorized taxes and it formed fhe first public school in Virginia City in 1886.[36] The first school year was scheduled to begin in January 1866, but severe weather postponed its opening until March. The first school year ran through the summer and didn't end until August 17. One of the first teachers at the school was Sarah Raymond. She was a 25-year-old woman who had traveled to Virginia City via wagon train in 1865. To become a certified teacher, Raymond took a test in her home and paid a $6 fee in gold dust to obtain a teaching certificate. With the help of an assistant teacher, Mrs. Farley,[37] Raymond was responsible for teaching 50 to 60 students each day out of the 81 students enrolled at the school. Sarah Raymond was paid $125 per month, and Mrs. Farley was paid $75 per month. There were no textbooks used in the school. In their place was an assortment of books brought by various emigrants.[38] Sarah quit teaching the following year, but she later become the Madison County superintendent of schools.[39]
 
 
 Culture
@@ -392,7 +382,7 @@ Many notable Montana authors have documented or been inspired by life in Montana
 
 Major cultural events
 
-Crowdance.jpg Montana hosts numerous arts and cultural festivals and events every year. Major events include:
+Montana hosts numerous arts and cultural festivals and events every year. Major events include:
 
 -   Bozeman was once known as the "Sweet Pea capital of the nation" referencing the prolific edible pea crop. To promote the area and celebrate its prosperity, local business owners began a "Sweet Pea Carnival" that included a parade and queen contest. The annual event lasted from 1906 to 1916. Promoters used the inedible but fragrant and colorful sweet pea flower as an emblem of the celebration. In 1977 the "Sweet Pea" concept was revived as an arts festival rather than a harvest celebration, growing into a three-day event that is one of the largest festivals in Montana.
 -   Montana Shakespeare in the Parks has been performing free, live theatrical productions of Shakespeare and other classics throughout Montana since 1973. The Montana Shakespeare Company is based in Helena.
@@ -401,7 +391,7 @@ Crowdance.jpg Montana hosts numerous arts and cultural festivals and events ever
 
 Sports
 
-Bobcat_stadium_gold_rush_2012.JPG at Bobcat Stadium (Montana State University), Bozeman]]
+at Bobcat Stadium (Montana State University), Bozeman]]
 
 Professional sports
 
@@ -419,10 +409,10 @@ There are junior ice hockey teams in Montana, four of which are affiliated with 
 
 Olympic competitors
 
--   Ski jumping champion and United States Skiing Hall of Fame inductee Casper Oimoen was captain of the U.S. Olympic team at the 1936 Winter Olympics while he was a resident of Anaconda. He placed thirteenth that year, and had previously finished fifth at the 1932 Winter Olympics.[41][42]
+-   Ski jumping champion and United States Skiing Hall of Fame inductee Casper Oimoen was captain of the U.S. Olympic team at the 1936 Winter Olympics while he was a resident of Anaconda. He placed thirteenth that year, and had previously finished fifth at the 1932 Winter Olympics.[40][41]
 -   Montana has produced two U.S. champions and Olympic competitors in men's figure skating, both from Great Falls: John Misha Petkevich, lived and trained in Montana before entering college, competed in the 1968 and 1972 Winter Olympics. Scott Davis, also from Great Falls, competed at the 1994 Winter Olympics.
--   Missoulian Tommy Moe won Olympic gold and silver medals at the 1994 Winter Olympics in downhill skiing and super G, the first American skier to win two medals at any Winter Olympics.[43]
--   Eric Bergoust, also of Missoula, won an Olympic gold medal in freestyle aerial skiing at the 1998 Winter Olympics, also competing in 1994, 2002 and 2006 Olympics plus winning 13 World Cup titles.[44]
+-   Missoulian Tommy Moe won Olympic gold and silver medals at the 1994 Winter Olympics in downhill skiing and super G, the first American skier to win two medals at any Winter Olympics.[42]
+-   Eric Bergoust, also of Missoula, won an Olympic gold medal in freestyle aerial skiing at the 1998 Winter Olympics, also competing in 1994, 2002 and 2006 Olympics plus winning 13 World Cup titles.[43]
 
 Sporting achievements
 
@@ -444,7 +434,7 @@ Montana is home to the Rocky Mountain Elk Foundation and has a historic big game
 
 Winter sports
 
-Big_Sky_resort.jpg]] Red_Lodge_Palisades.jpg]] SnowmobilesYellowstone.jpg
+]] ]]
 
 Both downhill skiing and cross-country skiing are popular in Montana, which has 15 developed downhill ski areas open to the public, including:
 
@@ -477,7 +467,7 @@ Health
 
 Montana does not have a Trauma I hospital, but does have Trauma II hospitals in Missoula, Billings, and Great Falls. In 2013, _AARP The Magazine_ named the Billings Clinic one of the safest hospitals in the United States.
 
-Montana is ranked as the least obese state in the U.S., at 19.6%, according to the 2014 Gallup Poll.[45]
+Montana is ranked as the least obese state in the U.S., at 19.6%, according to the 2014 Gallup Poll.[44]
 
 
 Media
@@ -489,7 +479,7 @@ During the age of the Copper Kings, each Montana copper company had its own news
 
 Transportation
 
-West_Yellowstone_MT_-_aerial_edit.jpg, West Yellowstone, Montana]]
+, West Yellowstone, Montana]]
 
 Railroads have been an important method of transportation in Montana since the 1880s. Historically, the state was traversed by the main lines of three east-west transcontinental routes: the Milwaukee Road, the Great Northern, and the Northern Pacific. Today, the BNSF Railway is the state's largest railroad, its main transcontinental route incorporating the former Great Northern main line across the state. Montana RailLink, a privately held Class II railroad, operates former Northern Pacific trackage in western Montana.
 
@@ -508,13 +498,13 @@ Law and government
 
 Constitution
 
-Montana is governed by a constitution. The first constitution was drafted by a constitutional convention in 1889, in preparation for statehood. Ninety percent of its language came from an 1884 constitution which was never acted upon by Congress for national political reasons. The 1889 constitution mimicked the structure of the United States Constitution, as well as outlining almost the same civil and political rights for citizens. However, the 1889 Montana constitution significantly restricted the power of state government, the legislature was much more powerful than the executive branch, and the jurisdiction of the District Courts very specifically described. Montana voters amended the 1889 constitution 37 times between 1889 and 1972.[46] In 1914, Montana granted women the vote. In 1916, Montana became the first state to elect a woman, Progressive Republican Jeannette Rankin, to Congress.
+Montana is governed by a constitution. The first constitution was drafted by a constitutional convention in 1889, in preparation for statehood. Ninety percent of its language came from an 1884 constitution which was never acted upon by Congress for national political reasons. The 1889 constitution mimicked the structure of the United States Constitution, as well as outlining almost the same civil and political rights for citizens. However, the 1889 Montana constitution significantly restricted the power of state government, the legislature was much more powerful than the executive branch, and the jurisdiction of the District Courts very specifically described. Montana voters amended the 1889 constitution 37 times between 1889 and 1972.[45] In 1914, Montana granted women the vote. In 1916, Montana became the first state to elect a woman, Progressive Republican Jeannette Rankin, to Congress.
 
 In 1971, Montana voters approved the call for a state constitutional convention. A new constitution was drafted, which made the legislative and executive branches much more equal in power and which was much less prescriptive in outlining powers, duties, and jurisdictions. The draft included an expanded, more progressive list of civil and political rights, extended these rights to children for the first time, transferred administration of property taxes to the counties from the state, implemented new water rights, eliminated sovereign immunity, and gave the legislature greater power to spend tax revenues. The constitution was narrowly approved, 116,415 to 113,883, and declared ratified on June 20, 1972. Three issues which the constitutional convention were unable to resolve were submitted to voters simultaneously with the proposed constitution. Voters approved the legalization of gambling, a bicameral legislature, and retention of the death penalty.
 
-The 1972 constitution has been amended 31 times as of 2015.[47] Major amendments include establishment of a reclamation trust (funded by taxes on natural resource extraction) to restore mined land (1974); restoration of sovereign immunity, when such immunity has been approved by a two-thirds vote in each house (1974); establishment of a 90-day biennial (rather than annual) legislative session (1974); establishment of a coal tax trust fund, funded by a tax on coal extraction (1976); conversion of the mandatory decennial review of county government into a voluntary one, to be approved or disallowed by residents in each county (1978); conversion of the provision of public assistance from a mandatory civil right to a non-fundamental legislative prerogative (1988); a new constitutional right to hunt and fish (2004); a prohibition on gay marriage (2004); and a prohibition on new taxes on the sale or transfer of real property (2010).[48] In 1992, voters approved a constitutional amendment implementing term limits for certain statewide elected executive branch offices (governor, lieutenant governor, secretary of state, state auditor, attorney general, superintendent of public instruction) and for members of the Montana Legislature. Extensive new constitutional rights for victims of crime were approved in 2016.[49]
+The 1972 constitution has been amended 31 times as of 2015.[46] Major amendments include establishment of a reclamation trust (funded by taxes on natural resource extraction) to restore mined land (1974); restoration of sovereign immunity, when such immunity has been approved by a two-thirds vote in each house (1974); establishment of a 90-day biennial (rather than annual) legislative session (1974); establishment of a coal tax trust fund, funded by a tax on coal extraction (1976); conversion of the mandatory decennial review of county government into a voluntary one, to be approved or disallowed by residents in each county (1978); conversion of the provision of public assistance from a mandatory civil right to a non-fundamental legislative prerogative (1988); a new constitutional right to hunt and fish (2004); a prohibition on gay marriage (2004); and a prohibition on new taxes on the sale or transfer of real property (2010).[47] In 1992, voters approved a constitutional amendment implementing term limits for certain statewide elected executive branch offices (governor, lieutenant governor, secretary of state, state auditor, attorney general, superintendent of public instruction) and for members of the Montana Legislature. Extensive new constitutional rights for victims of crime were approved in 2016.[48]
 
-The 1972 constitution requires that voters determine every 20 years whether to hold a new constitutional convention. Voters turned down a new convention in 1990 (84 percent no) and again in 2010 (58.6 percent no).[50]
+The 1972 constitution requires that voters determine every 20 years whether to hold a new constitutional convention. Voters turned down a new convention in 1990 (84 percent no) and again in 2010 (58.6 percent no).[49]
 
 Executive
 
@@ -524,7 +514,7 @@ There are 18 departments and offices which make up the executive branch: Adminis
 
 Independent state agencies not within a department or office include the Montana Arts Council, Montana Board of Crime Control, Montana Historical Society, Montana Public Employees Retirement Administration, Commissioner of Political Practices, the Montana Lottery, Office of the State Public Defender, Public Service Commission, the Montana School for the Deaf and Blind, the Montana State Fund (which operates the state's unemployment insurance, worker compensation, and self-insurance operations), the Montana State Library, and the Montana Teachers Retirement System.
 
-Montana is an Alcoholic beverage control state.[51] It is an equitable distribution and no-fault divorce state. It is one of five states to have no sales tax.[52]
+Montana is an Alcoholic beverage control state.[50] It is an equitable distribution and no-fault divorce state. It is one of five states to have no sales tax.[51]
 
 Legislative
 
@@ -552,7 +542,7 @@ The U.S. Constitution provides each state with two Senators. Montana's two U.S. 
 
 Montana's Senate district is the fourth largest by area, behind Alaska, Texas, and California. The most notorious of Montana's early Senators was William A. Clark, a "Copper King" and one of the 50 richest Americans ever. He is well known for having bribed his way into the U.S. Senate. Among Montana's most historically prominent Senators are Thomas J. Walsh (serving from 1913 to 1933), who was President-elect Franklin D. Roosevelt's choice for Attorney General when he died; Burton K. Wheeler (serving from 1923 to 1947), an oft-mentioned presidential candidate and strong supporter of isolationism; Mike Mansfield, the longest-serving Senate Majority Leader in U.S. history; Max Baucus (served 1978 to 2014), longest-serving U.S. Senator in Montana history, and the senator who shepherded the Patient Protection and Affordable Care Act through the Senate in 2010; and Lee Metcalf (served 1961 to 1978), a pioneer of the environmental movement.
 
-Montana's House district is the largest congressional district in the United States by population, with just over 1,023,000 constituents. It is the second largest House district by area, after Alaska's at-large congressional district. Of Montana's House delegates, Jeannette Rankin was the first woman to hold national office in the United States when she was elected to the U.S. House of Representatives in 1916.[53] Also notable is Representative (later Senator) Thomas H. Carter, the first Catholic to serve as chairman of the Republican National Committee (from 1892 to 1896).[54]
+Montana's House district is the largest congressional district in the United States by population, with just over 1,023,000 constituents. It is the second largest House district by area, after Alaska's at-large congressional district. Of Montana's House delegates, Jeannette Rankin was the first woman to hold national office in the United States when she was elected to the U.S. House of Representatives in 1916.[52] Also notable is Representative (later Senator) Thomas H. Carter, the first Catholic to serve as chairman of the Republican National Committee (from 1892 to 1896).[53]
 
 Federal courts in Montana include the United States District Court for the District of Montana and the United States Bankruptcy Court for the District of Montana. Three former Montana politicians have been named judges on the U.S. District Court: Charles Nelson Pray (who served in the U.S. House of Representatives from 1907 to 1913), James Franklin Battin (who served in the U.S. House of Representatives from 1961 to 1969), and Paul G. Hatfield (who served as an appointed U.S. Senator in 1978). Brian Morris, who served as an Associate Justice of the Montana Supreme Court from 2005 to 2013, currently served as a judge on the court.
 
@@ -572,7 +562,7 @@ Politics
 
   : Presidential elections results
 
-United_States_presidential_election_in_Montana,_2016.svg of the popular vote by county, 2016 presidential election]] Elections in the state have been competitive, with the Democrats usually holding an edge, thanks to the support among unionized miners and railroad workers. Large-scale battles revolved around the giant Anaconda Copper company, based in Butte and controlled by Rockefeller interests, until it closed in the 1970s. Until 1959, the company owned five of the state's six largest newspapers.
+ of the popular vote by county, 2016 presidential election]] Elections in the state have been competitive, with the Democrats usually holding an edge, thanks to the support among unionized miners and railroad workers. Large-scale battles revolved around the giant Anaconda Copper company, based in Butte and controlled by Rockefeller interests, until it closed in the 1970s. Until 1959, the company owned five of the state's six largest newspapers.
 
 Historically, Montana is a swing state of cross-ticket voters who tend to fill elected offices with individuals from both parties. Through the mid-20th century, the state had a tradition of "sending the liberals to Washington and the conservatives to Helena." Between 1988 and 2006, the pattern flipped, with voters more likely to elect conservatives to federal offices. There have also been long-term shifts of party control. From 1968 through 1988, the state was dominated by the Democratic Party, with Democratic governors for a 20-year period, and a Democratic majority of both the national congressional delegation and during many sessions of the state legislature. This pattern shifted, beginning with the 1988 election, when Montana elected a Republican governor for the first time since 1964 and sent a Republican to the U.S. Senate for the first time since 1948. This shift continued with the reapportionment of the state's legislative districts that took effect in 1994, when the Republican Party took control of both chambers of the state legislature, consolidating a Republican party dominance that lasted until the 2004 reapportionment produced more swing districts and a brief period of Democratic legislative majorities in the mid-2000s.
 
@@ -585,14 +575,12 @@ Montana has only one representative in the U.S. House, having lost its second di
 
 Cities and towns
 
-Missoula_Skyline.png Montana has 56 counties with the United States Census Bureau stating Montana's contains 364 "places", broken down into 129 incorporated places and 235 census-designated places. Incorporated places consist of 52 cities, 75 towns, and two consolidated city-counties. Montana has one city, Billings, with a population over 100,000; and two cities with populations over 50,000, Missoula and Great Falls. These three communities are considered the centers of Montana's three Metropolitan Statistical Areas.
+Montana has 56 counties with the United States Census Bureau stating Montana's contains 364 "places", broken down into 129 incorporated places and 235 census-designated places. Incorporated places consist of 52 cities, 75 towns, and two consolidated city-counties. Montana has one city, Billings, with a population over 100,000; and two cities with populations over 50,000, Missoula and Great Falls. These three communities are considered the centers of Montana's three Metropolitan Statistical Areas.
 
 The state also has five Micropolitan Statistical Areas centered on Bozeman, Butte, Helena, Kalispell and Havre. These communities, excluding Havre, are colloquially known as the "big 7" Montana cities, as they are consistently the seven largest communities in Montana, with a significant population difference when these communities are compared to those 8th or lower on the list. According to the 2010 U.S. Census, the population of Montana's seven most populous cities, in rank order, are Billings, Missoula, Great Falls, Bozeman, Butte, Helena and Kalispell. Based on 2013 census numbers, they collectively contain 35 percent of Montana's population. and the counties containing these communities hold 62 percent of the state's population. The geographic center of population of Montana is in sparsely populated Meagher County, in the town of White Sulphur Springs.
 
 
 State symbols
-
-Montana_quarter,_reverse_side,_2007.png
 
 Montana's motto, _Oro y Plata_, Spanish for "Gold and Silver", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory. A state seal with a miner's pick and shovel above the motto, surrounded by the mountains and the Great Falls of the Missouri River, was adopted during the first meeting of the territorial legislature in 1864–65. The design was only slightly modified after Montana became a state and adopted it as the Great Seal of the State of Montana, enacted by the legislature in 1893. The state flower, the Bitterroot, was adopted in 1895 with the support of a group called the Floral Emblem Association, which formed after Montana's Women's Christian Temperance Union adopted the bitterroot as the organization's state flower. All other symbols were adopted throughout the 20th century, save for Montana's newest symbol, the state butterfly, the mourning cloak, adopted in 2001, and the state lullaby, "Montana Lullaby", adopted in 2007.
 
@@ -602,35 +590,35 @@ Montana schoolchildren played a significant role in selecting several state symb
 
 Various community civic groups also played a role in selecting the state grass and the state gemstones. When broadcaster Norma Ashby discovered there was no state fish, she initiated a drive via her television show, _Today in Montana_, and an informal citizen's election to select a state fish resulted in a win for the blackspotted cutthroat trout after hot competition from the Arctic grayling. The legislature in turn adopted this recommendation by a wide margin.
 
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| Designation     | Name                                                  | Enacted | Image                                     |
-+=================+=======================================================+=========+===========================================+
-| State seal      |                                                       | 1893    | Montana-StateSeal.svg                     |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State flag      |                                                       |         | Flag_of_Montana.svg                       |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State animal    | Grizzly bear (_Ursus arctos horribilis_)              | 1983    | Grizzly_bear_glacier_national_park_3.jpg  |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State bird      | Western meadowlark (_Sturnella neglecta_)             | 1931    | WesternMeadowlark23.jpg                   |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State butterfly | Mourning cloak (_Nymphalis antiopa_)                  | 2001    | Nymphalis_antiopa,_Mourning_Cloak.jpg     |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State fish      | Blackspotted cutthroat trout (_Oncorhynchus clarkii_) | 1977    | Wscutt.jpg                                |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State flower    | Bitterroot (_Lewisia rediviva_)                       | 1895    | Lewisia_rediviva_(4351639040).jpg         |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State fossil    | Duck-billed dinosaur (_Maiasaura peeblesorum_)        | 1985    | Maiasaura_baby_MOR1.jpg                   |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State gemstones | Sapphire and agate                                    | 1969    | Montana_official_gemstones_horizontal.jpg |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State grass     | Bluebunch wheatgrass (_Pseudoroegneria spicata_)      | 1973    | Pseudoroegneria_spicata_(3821759845).jpg  |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State motto     | "Oro y Plata" (Spanish for "Gold and Silver")         | 1865    | TransparentPlaceholder.svg                |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State music     |                                                       |         | TransparentPlaceholder.svg                |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
-| State tree      | Ponderosa pine (_Pinus ponderosa_)                    | 1949    | Pinus_ponderosa_branch_cones.jpg          |
-+-----------------+-------------------------------------------------------+---------+-------------------------------------------+
++-----------------+-------------------------------------------------------+---------+-------+
+| Designation     | Name                                                  | Enacted | Image |
++=================+=======================================================+=========+=======+
+| State seal      |                                                       | 1893    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State flag      |                                                       |         |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State animal    | Grizzly bear (_Ursus arctos horribilis_)              | 1983    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State bird      | Western meadowlark (_Sturnella neglecta_)             | 1931    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State butterfly | Mourning cloak (_Nymphalis antiopa_)                  | 2001    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State fish      | Blackspotted cutthroat trout (_Oncorhynchus clarkii_) | 1977    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State flower    | Bitterroot (_Lewisia rediviva_)                       | 1895    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State fossil    | Duck-billed dinosaur (_Maiasaura peeblesorum_)        | 1985    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State gemstones | Sapphire and agate                                    | 1969    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State grass     | Bluebunch wheatgrass (_Pseudoroegneria spicata_)      | 1973    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State motto     | "Oro y Plata" (Spanish for "Gold and Silver")         | 1865    |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State music     |                                                       |         |       |
++-----------------+-------------------------------------------------------+---------+-------+
+| State tree      | Ponderosa pine (_Pinus ponderosa_)                    | 1949    |       |
++-----------------+-------------------------------------------------------+---------+-------+
 
 : Symbols of Montana
 
@@ -685,7 +673,7 @@ Montana Category:1889 establishments in the United States Category:States and te
 
 [7]
 
-[8]  Article's text is here.
+[8]
 
 [9]
 
@@ -717,17 +705,17 @@ Montana Category:1889 establishments in the United States Category:States and te
 
 [23]
 
-[24]
+[24] https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf
 
-[25] https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf
+[25] https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf
 
-[26] https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf
+[26] https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf
 
-[27] https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf
+[27] https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf
 
-[28] https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf
+[28] https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf
 
-[29] https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf
+[29]
 
 [30]
 
@@ -773,8 +761,6 @@ Montana Category:1889 establishments in the United States Category:States and te
 
 [51]
 
-[52]
+[52]  US House of Representatives: History, Art & Archives|website=history.house.gov|language=en|access-date=2019-01-28}}
 
-[53]  US House of Representatives: History, Art & Archives|website=history.house.gov|language=en|access-date=2019-01-28}}
-
-[54]
+[53]

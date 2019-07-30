@@ -11,7 +11,7 @@ Early life
 
 John Keats was born in Moorgate, London, on 31 October 1795 to Thomas Keats and his wife, Frances Jennings. There is little evidence of his exact birthplace. Although Keats and his family seem to have marked his birthday on 29 October, baptism records give the date as the 31st.[3][4] He was the eldest of four surviving children; his younger siblings were George (1797–1841), Thomas (1799–1818), and Frances Mary "Fanny" (1803–1889) who eventually married Spanish author Valentín Llanos Gutiérrez.[5] Another son was lost in infancy. His father first worked as a hostler[6] at the stables attached to the Swan and Hoop Inn, an establishment he later managed, and where the growing family lived for some years. Keats believed that he was born at the inn, a birthplace of humble origins, but there is no evidence to support his belief.[7] The Globe pub now occupies the site (2012), a few yards from the modern-day Moorgate station.[8] He was baptised at St Botolph-without-Bishopsgate, and sent to a local dame school as a child.[9][10]
 
-Keatslifemask.jpg, 1816]]
+, 1816]]
 
 His parents were unable to afford Eton or Harrow,[11][12] so in the summer of 1803, he was sent to board at John Clarke's school in Enfield, close to his grandparents' house. The small school had a liberal outlook and a progressive curriculum more modern than the larger, more prestigious schools.[13] In the family atmosphere at Clarke's, Keats developed an interest in classics and history, which would stay with him throughout his short life. The headmaster's son, Charles Cowden Clarke, also became an important mentor and friend, introducing Keats to Renaissance literature, including Tasso, Spenser, and Chapman's translations. The young Keats was described by his friend Edward Holmes as a volatile character, "always in extremes", given to indolence and fighting. However, at 13 he began focusing his energy on reading and study, winning his first academic prize in midsummer 1809.[14]
 
@@ -41,7 +41,7 @@ In June 1818, Keats began a walking tour of Scotland, Ireland, and the Lake Dist
 
 Wentworth Place
 
-J_Keats_House.jpg museum (left), Ten Keats Grove (right)]]
+museum (left), Ten Keats Grove (right)]]
 
 John Keats moved to the newly built Wentworth Place, owned by his friend Charles Armitage Brown. It was on the edge of Hampstead Heath, ten minutes' walk south of his old home in Well Walk. The winter of 1818–19, though a difficult period for the poet, marked the beginning of his _annus mirabilis_ in which he wrote his most mature work.[58] He had been inspired by a series of recent lectures by Hazlitt on English poets and poetic identity and had also met Wordsworth.[59][60] Keats may have seemed to his friends to be living on comfortable means, but in reality he was borrowing regularly from Abbey and his friends.[61]
 
@@ -59,7 +59,7 @@ Keats befriended Isabella Jones in May 1817, while on holiday in the village of 
 
 Letters and drafts of poems suggest that Keats first met Frances (Fanny) Brawne between September and November 1818.[84] It is likely that the 18-year-old Brawne visited the Dilke family at Wentworth Place before she lived there. She was born in the hamlet of West End (now in the district of West Hampstead), on 9 August 1800. Like Keats' grandfather, her grandfather kept a London inn, and both lost several family members to tuberculosis. She shared her first name with both Keats' sister and mother, and had a talent for dress-making and languages as well as a natural theatrical bent.[85] During November 1818 she developed an intimacy with Keats, but it was shadowed by the illness of Tom Keats, whom John was nursing through this period.[86]
 
-Fannybrawne.jpg of Fanny Brawne taken circa 1850 (photograph on glass)]] On 3 April 1819, Brawne and her widowed mother moved into the other half of Dilke's Wentworth Place, and Keats and Brawne were able to see each other every day. Keats began to lend Brawne books, such as Dante's _Inferno_, and they would read together. He gave her the love sonnet "Bright Star" (perhaps revised for her) as a declaration. It was a work in progress which he continued at until the last months of his life, and the poem came to be associated with their relationship. "All his desires were concentrated on Fanny".[87] From this point there is no further documented mention of Isabella Jones.[88] Sometime before the end of June, he arrived at some sort of understanding with Brawne, far from a formal engagement as he still had too little to offer, with no prospects and financial stricture.[89] Keats endured great conflict knowing his expectations as a struggling poet in increasingly hard straits would preclude marriage to Brawne. Their love remained unconsummated; jealousy for his 'star' began to gnaw at him. Darkness, disease and depression surrounded him, reflected in poems such as "The Eve of St. Agnes" and "La Belle Dame sans Merci" where love and death both stalk. "I have two luxuries to brood over in my walks;" he wrote to her, "...your loveliness, and the hour of my death".[90]
+of Fanny Brawne taken circa 1850 (photograph on glass)]] On 3 April 1819, Brawne and her widowed mother moved into the other half of Dilke's Wentworth Place, and Keats and Brawne were able to see each other every day. Keats began to lend Brawne books, such as Dante's _Inferno_, and they would read together. He gave her the love sonnet "Bright Star" (perhaps revised for her) as a declaration. It was a work in progress which he continued at until the last months of his life, and the poem came to be associated with their relationship. "All his desires were concentrated on Fanny".[87] From this point there is no further documented mention of Isabella Jones.[88] Sometime before the end of June, he arrived at some sort of understanding with Brawne, far from a formal engagement as he still had too little to offer, with no prospects and financial stricture.[89] Keats endured great conflict knowing his expectations as a struggling poet in increasingly hard straits would preclude marriage to Brawne. Their love remained unconsummated; jealousy for his 'star' began to gnaw at him. Darkness, disease and depression surrounded him, reflected in poems such as "The Eve of St. Agnes" and "La Belle Dame sans Merci" where love and death both stalk. "I have two luxuries to brood over in my walks;" he wrote to her, "...your loveliness, and the hour of my death".[90]
 
 In one of his many hundreds of notes and letters, Keats wrote to Brawne on 13 October 1819: "My love has made me selfish. I cannot exist without you – I am forgetful of every thing but seeing you again – my Life seems to stop there – I see no further. You have absorb'd me. I have a sensation at the present moment as though I was dissolving – I should be exquisitely miserable without the hope of soon seeing you ... I have been astonished that Men could die Martyrs for religion – I have shudder'd at it – I shudder no more – I could be martyr'd for my Religion – Love is my religion – I could die for that – I could die for you."
 
@@ -73,15 +73,13 @@ During 1820 Keats displayed increasingly serious symptoms of tuberculosis, suffe
 
 He lost large amounts of blood and was bled further by the attending physician. Hunt nursed him in London for much of the following summer. At the suggestion of his doctors, he agreed to move to Italy with his friend Joseph Severn. On 13 September, they left for Gravesend and four days later boarded the sailing brig _Maria Crowther_, where he made the final revisions of "Bright Star". The journey was a minor catastrophe: storms broke out followed by a dead calm that slowed the ship's progress. When they finally docked in Naples, the ship was held in quarantine for ten days due to a suspected outbreak of cholera in Britain. Keats reached Rome on 14 November, by which time any hope of the warmer climate he sought had disappeared.[99]
 
-Keats-Shelley_House.jpg Keats wrote his last letter on 30 November 1820 to Charles Armitage Brown; "Tis the most difficult thing in the world to me to write a letter. My stomach continues so bad, that I feel it worse on opening any book – yet I am much better than I was in Quarantine. Then I am afraid to encounter the proing and conning of any thing interesting to me in England. I have an habitual feeling of my real life having past, and that I am leading a posthumous existence".[100]
+Keats wrote his last letter on 30 November 1820 to Charles Armitage Brown; "Tis the most difficult thing in the world to me to write a letter. My stomach continues so bad, that I feel it worse on opening any book – yet I am much better than I was in Quarantine. Then I am afraid to encounter the proing and conning of any thing interesting to me in England. I have an habitual feeling of my real life having past, and that I am leading a posthumous existence".[100]
 
 On arrival in Italy, he moved into a villa on the Spanish Steps in Rome, today the Keats–Shelley Memorial House museum. Despite care from Severn and Dr. James Clark, his health rapidly deteriorated. The medical attention Keats received may have hastened his death.[101] In November 1820, Clark declared that the source of his illness was "mental exertion" and that the source was largely situated in his stomach. Clark eventually diagnosed consumption (tuberculosis) and placed Keats on a starvation diet of an anchovy and a piece of bread a day intended to reduce the blood flow to his stomach. He also bled the poet: a standard treatment of the day, but also likely a significant contributor to Keats' weakness.[102] Severn's biographer Sue Brown writes: "They could have used opium in small doses, and Keats had asked Severn to buy a bottle of opium when they were setting off on their voyage. What Severn didn't realise was that Keats saw it as a possible resource if he wanted to commit suicide. He tried to get the bottle from Severn on the voyage but Severn wouldn't let him have it. Then in Rome he tried again... Severn was in such a quandary he didn't know what to do, so in the end he went to the doctor who took it away. As a result Keats went through dreadful agonies with nothing to ease the pain at all." Keats was angry with both Severn and Clark when they would not give him laudanum (opium). He repeatedly demanded "how long is this posthumous existence of mine to go on?"[103]
 
 Death
 
 The first months of 1821 marked a slow and steady decline into the final stage of tuberculosis. Keats was coughing up blood and covered in sweat. Severn nursed him devotedly and observed in a letter how Keats would sometimes cry upon waking to find himself still alive. Severn writes,
-
-John_Keats_Tombstone_in_Rome_01.jpg
 
 John Keats died in Rome on 23 February 1821. His body was buried in the city's Protestant Cemetery. His last request was to be placed under a tombstone bearing no name or date, only the words, "Here lies One whose Name was writ in Water." Severn and Brown erected the stone, which under a relief of a lyre with broken strings, includes the epitaph:
 
@@ -94,7 +92,7 @@ Seven weeks after the funeral Shelley memorialised Keats in his poem _Adonaïs_.
 
 Reception
 
-9069_-_Roma_-_Cimitero_acattolico_-_Lapide_a_John_Keats_(1795-1821)_-_Foto_Giovanni_Dall'Orto,_31-March-2008.jpg on wall near his grave in Rome]]
+on wall near his grave in Rome]]
 
 When Keats died at 25, he had been writing poetry seriously for only about six years, from 1814 until the summer of 1820; and publishing for only four. In his lifetime, sales of Keats' three volumes of poetry probably amounted to only 200 copies.[108] His first poem, the sonnet _O Solitude_ appeared in _the Examiner_ in May 1816, while his collection _Lamia, Isabella, The Eve of St. Agnes and other poems_ was published in July 1820 before his last visit to Rome. The compression of his poetic apprenticeship and maturity into so short a time is just one remarkable aspect of Keats' work.[109]
 
@@ -118,7 +116,7 @@ Shelley promoted Keats as someone whose achievement could not be separated from 
 
 Other portrayals
 
-Poet_John_Keats,_by_sculptor_Vincent_Gray.jpg _John Keats: His Life and Death_, the first major motion picture about the life of Keats, was produced in 1973 by Encyclopædia Britannica, Inc.. It was directed by John Barnes. John Stride played John Keats and Janina Faye played Fanny Brawne.[139]
+_John Keats: His Life and Death_, the first major motion picture about the life of Keats, was produced in 1973 by Encyclopædia Britannica, Inc.. It was directed by John Barnes. John Stride played John Keats and Janina Faye played Fanny Brawne.[139]
 
 The 2009 film _Bright Star_, written and directed by Jane Campion, focuses on Keats' relationship with Fanny Brawne.[140] Inspired by the 1997 Keats biography penned by Andrew Motion, it stars Ben Whishaw as Keats and Abbie Cornish as Fanny.[141]
 
@@ -131,7 +129,7 @@ In Tim Powers' book _The Stress of Her Regard_, John Keats, along with Percy She
 
 Letters
 
-John_Keats_-_On_death_-_Breestraat_113,_Leiden.JPG, Netherlands.]]
+, Netherlands.]]
 
 Keats' letters were first published in 1848 and 1878. During the 19th century, critics deemed them unworthy of attention, distractions from his poetic works.[145] During the 20th century they became almost as admired and studied as his poetry,[146] and are highly regarded within the canon of English literary correspondence.[147] T. S. Eliot described them as "certainly the most notable and most important ever written by any English poet."[148][149] Keats spent a great deal of time considering poetry itself, its constructs and impacts, displaying a deep interest unusual amongst his milieu who were more easily distracted by metaphysics or politics, fashions or science. Eliot wrote of Keats' conclusions; "There is hardly one statement of Keats' about poetry which ... will not be found to be true, and what is more, true for greater and more mature poetry than anything Keats ever wrote."[150][151]
 

@@ -3,7 +3,7 @@ KARL FRIEDRICH BENZ (; 25 November 1844 – 4 April 1929) was a German engine de
 
 Early life
 
-Karl_Benz_1869.png Karl Benz was born Karl Friedrich Michael Vaillant, on 25 November 1844 in Mühlburg, now a borough of Karlsruhe, Baden-Württemberg, which is part of modern Germany, to Josephine Vaillant and a locomotive driver, Johann Georg Benz, whom she married a few months later. According to German law, the child acquired the name "Benz" by legal marriage of his parents Benz and Vaillant.[1][2][3][4] When he was two years old, his father died of pneumonia,[5] and his name was changed to Karl Friedrich Benz in remembrance of his father.[6]
+Karl Benz was born Karl Friedrich Michael Vaillant, on 25 November 1844 in Mühlburg, now a borough of Karlsruhe, Baden-Württemberg, which is part of modern Germany, to Josephine Vaillant and a locomotive driver, Johann Georg Benz, whom she married a few months later. According to German law, the child acquired the name "Benz" by legal marriage of his parents Benz and Vaillant.[1][2][3][4] When he was two years old, his father died of pneumonia,[5] and his name was changed to Karl Friedrich Benz in remembrance of his father.[6]
 
 Despite living in near poverty, his mother strove to give him a good education. Benz attended the local Grammar School in Karlsruhe and was a prodigious student. In 1853, at the age of nine he started at the scientifically oriented Lyceum. Next he studied at the Poly-Technical University under the instruction of Ferdinand Redtenbacher.
 
@@ -36,10 +36,9 @@ After all the necessary incorporation agreements, Benz was unhappy because he wa
 
 Benz & Cie. and the Benz Patent Motorwagen
 
-Benz_Patent_Motorwagen_1886_(Replica).jpg built in 1885]]
+built in 1885]]
 
   -----------------------------------------------------------------------------------------
-                                        1885Benz.jpg
                                         Three wheels
                                      Tubular steel frame
    Rack and pinion steering, connected to a driver end tiller; wheel chained to front axle
@@ -54,7 +53,7 @@ Benz_Patent_Motorwagen_1886_(Replica).jpg built in 1885]]
 
   : 1885 BENZ PATENT MOTORWAGEN
 
-Benz_Patent_Motorwagen_Engine.jpg Benz's lifelong hobby brought him to a bicycle repair shop in Mannheim owned by Max Rose and Friedrich Wilhelm Eßlinger. In 1883, the three founded a new company producing industrial machines: _Benz & Companie Rheinische Gasmotoren-Fabrik_, usually referred to as _Benz & Cie._ Quickly growing to twenty-five employees, it soon began to produce static gas engines as well.
+ Benz's lifelong hobby brought him to a bicycle repair shop in Mannheim owned by Max Rose and Friedrich Wilhelm Eßlinger. In 1883, the three founded a new company producing industrial machines: _Benz & Companie Rheinische Gasmotoren-Fabrik_, usually referred to as _Benz & Cie._ Quickly growing to twenty-five employees, it soon began to produce static gas engines as well.
 
 The success of the company gave Benz the opportunity to indulge in his old passion of designing a _horseless carriage_. Based on his experience with, and fondness for, bicycles, he used similar technology when he created an automobile. It featured wire wheels (unlike carriages' wooden ones) [10] with a four-stroke engine of his own design between the rear wheels, with a very advanced coil ignition[11] and evaporative cooling rather than a radiator.[12] Power was transmitted by means of two roller chains to the rear axle. Karl Benz finished his creation in 1885 and named it "_Benz Patent Motorwagen_".
 
@@ -69,14 +68,14 @@ The early 1888 version of the Motorwagen had no gears and could not climb hills 
 
 Bertha Benz's long-distance drive
 
-Berthabenzmemorialrouteschild.jpg, commemorating the world's first long distance journey with a Benz Patent-Motorwagen Number 3 in 1888]] In the first long distance automobile trip, Bertha Benz, supposedly without the knowledge of her husband, on the morning of 5 August 1888, took this vehicle on a trip from Mannheim to Pforzheim to visit her mother, taking her sons Eugen and Richard with her. In addition to having to locate pharmacies on the way to fuel up, she repaired various technical and mechanical problems and invented brake lining. After some longer downhill slopes, she ordered a shoemaker to nail leather on the brake blocks. Bertha Benz and sons finally arrived at nightfall, announcing the achievement to Karl by telegram. It had been her intention to demonstrate the feasibility of using the Benz Motorwagen for travel and to generate publicity in the manner now referred to as live marketing. Today, the event is celebrated every two years in Germany with an antique automobile rally. In 2008, the Bertha Benz Memorial Route[16] was officially approved as a route of industrial heritage of mankind, because it follows Bertha Benz's tracks of the world's first long-distance journey by automobile in 1888. Now everybody can follow the 194 km of signposted route from Mannheim via Heidelberg to Pforzheim (Black Forest) and back. The return trip, which didn't go through Heidelberg, was along a different, slightly shorter, itinerary, as shown on the maps of the Bertha Benz Memorial Route.
+, commemorating the world's first long distance journey with a Benz Patent-Motorwagen Number 3 in 1888]] In the first long distance automobile trip, Bertha Benz, supposedly without the knowledge of her husband, on the morning of 5 August 1888, took this vehicle on a trip from Mannheim to Pforzheim to visit her mother, taking her sons Eugen and Richard with her. In addition to having to locate pharmacies on the way to fuel up, she repaired various technical and mechanical problems and invented brake lining. After some longer downhill slopes, she ordered a shoemaker to nail leather on the brake blocks. Bertha Benz and sons finally arrived at nightfall, announcing the achievement to Karl by telegram. It had been her intention to demonstrate the feasibility of using the Benz Motorwagen for travel and to generate publicity in the manner now referred to as live marketing. Today, the event is celebrated every two years in Germany with an antique automobile rally. In 2008, the Bertha Benz Memorial Route[16] was officially approved as a route of industrial heritage of mankind, because it follows Bertha Benz's tracks of the world's first long-distance journey by automobile in 1888. Now everybody can follow the 194 km of signposted route from Mannheim via Heidelberg to Pforzheim (Black Forest) and back. The return trip, which didn't go through Heidelberg, was along a different, slightly shorter, itinerary, as shown on the maps of the Bertha Benz Memorial Route.
 
 Benz's Model 3 made its wide-scale debut to the world in the 1889 World's Fair in Paris; about twenty-five Motorwagens were built between 1886 and 1893.
 
 
 Benz & Cie. expansion
 
-Karl_Benz_-_early_automobile_logo_w_cog_wheel_-_83d40m.JPG Benz_Velo_1894.jpg Bertha_Benz_with_her_husband_Carl_Benz_in_a_Benz-Viktoria,_model_1894.jpg Erste_Benzin-Omnibus_der_Welt.jpg The great demand for stationary, static internal combustion engines forced Karl Benz to enlarge the factory in Mannheim, and in 1886 a new building located on Waldhofstrasse (operating until 1908) was added. _Benz & Cie._ had grown in the interim from 50 employees in 1889 to 430 in 1899.
+The great demand for stationary, static internal combustion engines forced Karl Benz to enlarge the factory in Mannheim, and in 1886 a new building located on Waldhofstrasse (operating until 1908) was added. _Benz & Cie._ had grown in the interim from 50 employees in 1889 to 430 in 1899.
 
 During the last years of the nineteenth century, _Benz_ was the largest automobile company in the world with 572 units produced in 1899.
 
@@ -88,7 +87,7 @@ The Benz _Velo_ also participated in the world's first automobile race, the 1894
 
 In 1895, Benz designed the first truck with an internal combustion engine in history. Benz also built the first motor buses in history in 1895, for the _Netphener_ bus company.[18][19][20]
 
-zzz-Vik-Lond.jpg In 1896, Karl Benz was granted a patent for his design of the first FLAT ENGINE. It had horizontally opposed pistons, a design in which the corresponding pistons reach top dead centre simultaneously, thus balancing each other with respect to momentum. Flat engines with four or fewer cylinders are most commonly called BOXER engines, _boxermotor_ in German, and also are known as _horizontally opposed engines_. This design is still used by Porsche, Subaru, and some high performance engines used in racing cars. In motorcycles, the most famous boxer engine is found in BMW Motorrad,[21] though the boxer engine design was used in many other models, including Victoria, Harley-Davidson XA, Zündapp, Wooler, Douglas Dragonfly, Ratier, Universal, IMZ-Ural, Dnepr, Gnome et Rhône, Chang Jiang, Marusho, and the Honda Gold Wing.[22]
+In 1896, Karl Benz was granted a patent for his design of the first FLAT ENGINE. It had horizontally opposed pistons, a design in which the corresponding pistons reach top dead centre simultaneously, thus balancing each other with respect to momentum. Flat engines with four or fewer cylinders are most commonly called BOXER engines, _boxermotor_ in German, and also are known as _horizontally opposed engines_. This design is still used by Porsche, Subaru, and some high performance engines used in racing cars. In motorcycles, the most famous boxer engine is found in BMW Motorrad,[21] though the boxer engine design was used in many other models, including Victoria, Harley-Davidson XA, Zündapp, Wooler, Douglas Dragonfly, Ratier, Universal, IMZ-Ural, Dnepr, Gnome et Rhône, Chang Jiang, Marusho, and the Honda Gold Wing.[22]
 
 Although Gottlieb Daimler died in March 1900—and there is no evidence that Benz and Daimler knew each other nor that they knew about each other's early achievements—eventually, competition with Daimler Motoren Gesellschaft (DMG) in Stuttgart began to challenge the leadership of Benz & Cie. In October 1900, the main designer of DMG, Wilhelm Maybach, built the engine that would later be used in the _Mercedes-35hp_ of 1902. The engine was built to the specifications of Emil Jellinek under a contract for him to purchase thirty-six vehicles with the engine, and for him to become a dealer of the special series. Jellinek stipulated the new engine be named Daimler-_Mercedes_ (for his daughter). Maybach would quit DMG in 1907, but he designed the model and all of the important changes. After testing, the first was delivered to Jellinek on 22 December 1900. Jellinek continued to make suggestions for changes to the model and obtained good results racing the automobile in the next few years, encouraging DMG to engage in commercial production of automobiles, which they did in 1902.
 
@@ -107,16 +106,14 @@ Along with continuing as a director of Benz & Cie., Karl Benz would soon found a
 
 Blitzen Benz
 
-Blitzen_Benz_racing_car.jpg]] In 1909, the _Blitzen Benz_ was built in Mannheim by Benz & Cie. The bird-beaked vehicle had a 21.5-liter (1312ci), engine, and on 9 November 1909 in the hands of Victor Hémery of France,[27] the land speed racer at Brooklands, set a record of 226.91 km/h (141.94 mph), said to be "faster than any plane, train, or automobile" at the time, a record that was not exceeded for ten years by any other vehicle. It was transported to several countries, including the United States, to establish multiple records of this achievement.
+]] In 1909, the _Blitzen Benz_ was built in Mannheim by Benz & Cie. The bird-beaked vehicle had a 21.5-liter (1312ci), engine, and on 9 November 1909 in the hands of Victor Hémery of France,[27] the land speed racer at Brooklands, set a record of 226.91 km/h (141.94 mph), said to be "faster than any plane, train, or automobile" at the time, a record that was not exceeded for ten years by any other vehicle. It was transported to several countries, including the United States, to establish multiple records of this achievement.
 
 
 Benz Söhne (1906–1923)
 
-Benz_Logo_Mannheim.png Benz_&_Cie_1912_1000_Mk.jpg Patentmotorwagen_mit_Karl_und_Bertha_Benz.jpg
-
 Karl Benz, Bertha Benz, and their son, Eugen, moved east of Mannheim to live in nearby Ladenburg, and solely with their own capital, founded the private company, C. Benz Sons (German: _Benz Söhne_) in 1906, producing automobiles and gas engines. The latter type was replaced by petrol engines because of lack of demand.[28]
 
-C-Benz-Soehne-Logo.png This company never issued stocks publicly, building its own line of automobiles independently from Benz & Cie., which was located in Mannheim. The _Benz Sons_ automobiles were of good quality and became popular in London as taxis.
+This company never issued stocks publicly, building its own line of automobiles independently from Benz & Cie., which was located in Mannheim. The _Benz Sons_ automobiles were of good quality and became popular in London as taxis.
 
 In 1912, Karl Benz liquidated all of his shares in Benz Sons and left the family-held company in Ladenburg to Eugen and Richard, but he remained as a director of Benz & Cie.
 
@@ -129,7 +126,7 @@ In the last production year of the _Benz Sons_ company, 1923, three hundred and 
 
 Toward _Daimler-Benz_ and the first _Mercedes-Benz_ in 1926
 
-Ladenburg_Wohnhaus_Carl_Benz_20100920.jpg, in Baden-Württemberg]] The German economic crisis worsened. In 1923 _Benz & Cie._ produced only 1,382 units in Mannheim, and _DMG_ made only 1,020 in Stuttgart. The average cost of an automobile was 25 million marks because of rapid inflation. Negotiations between the two companies resumed and in 1924 they signed an "Agreement of Mutual Interest" valid until the year 2000. Both enterprises standardized design, production, purchasing, sales, and advertising—marketing their automobile models jointly—although keeping their respective brands.[31]
+, in Baden-Württemberg]] The German economic crisis worsened. In 1923 _Benz & Cie._ produced only 1,382 units in Mannheim, and _DMG_ made only 1,020 in Stuttgart. The average cost of an automobile was 25 million marks because of rapid inflation. Negotiations between the two companies resumed and in 1924 they signed an "Agreement of Mutual Interest" valid until the year 2000. Both enterprises standardized design, production, purchasing, sales, and advertising—marketing their automobile models jointly—although keeping their respective brands.[31]
 
 On 28 June 1926, Benz & Cie. and DMG finally merged as the _Daimler-Benz_ company, baptizing all of its automobiles, _Mercedes-Benz_, honoring the most important model of the DMG automobiles, the 1902 _Mercedes 35 hp_, along with the Benz name. The name of that DMG model had been selected after ten-year-old Mercédès Jellinek, the daughter of Emil Jellinek who had set the specifications for the new model. Between 1900 and 1909 he was a member of DMG's board of management and long before the merger Jellinek had resigned.
 
@@ -149,7 +146,7 @@ In 2011, a dramatized television movie about the life of Karl and Bertha Benz wa
 
 See also
 
-Motorwagen_Serienversion.jpg for the first long distance journey by automobile (more than 106 km or sixty miles)]] Karl_Benz_Führerschein.jpg
+for the first long distance journey by automobile (more than 106 km or sixty miles)]]
 
 -   Benz (unit)
 -   Bertha Benz, his wife and automotive pioneer

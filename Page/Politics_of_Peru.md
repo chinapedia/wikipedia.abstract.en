@@ -21,7 +21,7 @@ During the government of Fujimori the 1979 Constitution was changed after the Fu
 
 Executive branch
 
-PalacioEjecutivodelPeru.jpg.]]
+.]]
 
 |President |Martín Vizcarra |Independent |23 March 2018 |- |First Vice President |Mercedes Aráoz |Peruvians for Change |23 March 2018 |- |Second Vice President |_Vacant_ | |23 March 2018 |- |Prime Minister |Salvador del Solar |Independent |11 March 2019 |}
 
@@ -32,7 +32,7 @@ The President appoints the Prime Minister _(Primer Ministro)_ and the Council of
 
 Legislative branch
 
-Peru_Lima_Congreso_from_center_left.jpg.]] The legislative branch consists of a unicameral Congress _(Congreso)_ of 130 members. elected for a five-year term by proportional representation In addition to passing laws, Congress ratifies treaties, authorizes government loans, and approves the government budget. The president has the power to block legislation with which the executive branch does not agree.
+.]] The legislative branch consists of a unicameral Congress _(Congreso)_ of 130 members. elected for a five-year term by proportional representation In addition to passing laws, Congress ratifies treaties, authorizes government loans, and approves the government budget. The president has the power to block legislation with which the executive branch does not agree.
 
 
 Political parties and elections
@@ -40,7 +40,7 @@ Political parties and elections
 
 Judicial branch
 
-Palacio_de_Justicia._Lima,_Perú..jpg.]] The judicial branch of government is headed by a 16-member Supreme Court seated in Lima. The National Council of the Judiciary appoints judges to this court.
+.]] The judicial branch of government is headed by a 16-member Supreme Court seated in Lima. The National Council of the Judiciary appoints judges to this court.
 
 The Constitutional Court _(Tribunal Constitucional)_ interprets the constitution on matters of individual rights. Superior courts in regional capitals review appeals from decisions by lower courts. Courts of first instance are located in provincial capitals and are divided into civil, penal, and special chambers. The judiciary has created several temporary specialized courts in an attempt to reduce the large backlog of cases pending final court action.
 

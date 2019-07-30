@@ -11,7 +11,7 @@ In 1605, Cervantes was in Valladolid when the immediate success of the first par
 
 Birth and early life
 
-Capilla_del_Oidor%2C_Alcalá_de_Henares.jpg. The square in front of it is now called _Plaza Cervantes_.]]
+. The square in front of it is now called _Plaza Cervantes_.]]
 
 It is assumed that Cervantes was born in Alcalá de Henares, a Castilian city about north-east from Madrid, probably on 29 September (the feast day of Saint Michael the Archangel) 1547. The probable date of his birth was determined from records in the church register, given the tradition of naming a child after the feast day of his birth. He was baptized in Alcalá de Henares on 9 October 1547[8] at the parish church of _Santa María la Mayor_. The register of baptisms records the following:
 
@@ -26,7 +26,7 @@ His siblings were Andrés (1543), Andrea (1544), Luisa (1546), Rodrigo (1550), M
 
 Military service and captivity
 
-The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg (c. 1572, oil on canvas, 169 × 137 cm, Gallerie dell'Accademia, Venice)]] Nafpaktos_evlahos.jpg (Lepanto)]]
+(c. 1572, oil on canvas, 169 × 137 cm, Gallerie dell'Accademia, Venice)]] (Lepanto)]]
 
 The reason that Cervantes left Spain is unknown. Possible reasons include that he was a "student" of the same name, a "sword-wielding fugitive from justice", or fleeing from a royal warrant of arrest, for having wounded a certain Antonio de Sigura in a duel.[12] Like many young Spanish men who wanted to further their careers, Cervantes left for Italy. In Rome, he focused his attention on Renaissance art, architecture, and poetry – knowledge of Italian literature is discernible in his work. He found "a powerful impetus to revive the contemporary world in light of its accomplishments".[13][14] Thus, Cervantes' stay in Italy, as revealed in his later works, might be in part a desire for a return to an earlier period of the Renaissance.[15]
 
@@ -41,14 +41,12 @@ On 6 or 7 September 1575, Cervantes set sail on the galley _Sol_ from Naples to 
 
 Later life
 
-_Miguel_de_Cervantes_at_the_National_Library.jpg (National Library of Spain).]]
+(National Library of Spain).]]
 
 Cervantes led a middle-class life after his return to Spain. Like almost all authors of his day, he was unable to support himself through his writings. Two periods of his life that are very well documented are his years of work in Andalucía as a purchasing agent for the Spanish navy (i.e., the King). This led to his imprisonment for a few months in Seville after a banker with whom he had deposited Crown funds went bankrupt. (Since Cervantes says that _Don Quixote_ was "engendered" in a prison, that is presumably a reference to this episode.) He also worked as a tax collector, traveling from town to town collecting back taxes due the crown. He applied unsuccessfully for "one of four vacant positions in the New World", including as an accountant for the port of Cartagena and as governor of La Paz. At the time he was living in Valladolid, then briefly the capital (1601–1606), and finishing _Don Quixote_ Part One, he was presumably working in the banking industry, or a related occupation where his accounting skills could be put to use. He was turned down for a position as secretary to the Count of Lemos, although he did receive some type of pension from him, which permitted him to write full-time during his final years (about 1610 to 1616). His last known written words – the dedication to Los trabajos de Persiles y Sigismunda – was written, he tells us, after having received Extreme Unction. He died in 1616 of type II diabetes.[21]
 
 
 Literary pursuits
-
-Don_Quijote_illustrated_by_Gustav_Dore_V.jpg Don_Quijote_Illustration_by_Gustave_Dore_VII.jpg
 
 In Esquivias, on 12 December 1584, he married the much younger Catalina de Salazar y Palacios (born Esquivias – d. 31 October 1626),[22] daughter of Fernando de Salazar y Vozmediano and Catalina de Palacios. Over the next 20 years, Cervantes led a nomadic existence, working as a purchasing agent for the Spanish Armada and as a tax collector. He suffered bankruptcy and was imprisoned at least twice (1597 and 1602) for irregularities in his accounts.[23] Between 1596 and 1600, he lived primarily in Seville. In 1606, Cervantes settled in Madrid, where he remained for the rest of his life.[24]
 
@@ -71,7 +69,7 @@ In July 1613 Cervantes joined the Third Order Franciscan[47].
 
 Death
 
-Trinitmad.jpg in Madrid.]]
+in Madrid.]]
 
 During the first months of 1616 his health deteriorated. On April 2, when he was already too weak to leave his house, he has professed a Third Order Franciscan.[48]
 
@@ -88,7 +86,7 @@ On 11 June 2015, the remains of Cervantes were given a formal burial at a Madrid
 
 Works
 
-Illustration_to_Don_Quixote_de_la_Mancha_by_Miguel_de_Cervantes.jpg Gustave_Doré_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_"A_world_of_disorderly_notions,_picked_out_of_his_books,_crowded_into_his_imagination".jpg's first (of about 370) illustrations for _Don Quixote_]] La_Galatea_First_Edition_Title_Page.jpg
+'s first (of about 370) illustrations for _Don Quixote_]]
 
 -   _El ingenioso hidalgo Don Quixote de la Mancha_ (1605): First volume of _Don Quixote_.
 -   _Novelas ejemplares_ (1613): a collection of 12 short stories of varied types about the social, political, and historical problems of Cervantes' Spain:
@@ -110,15 +108,13 @@ Illustration_to_Don_Quixote_de_la_Mancha_by_Miguel_de_Cervantes.jpg Gustave_Dor�
 
 _Don Quixote_
 
-Don_Quixote.jpg
-
 _Don Quixote_ (spelled "Quijote" in modern Spanish) consists of two somewhat different parts, published 10 years apart. They present the life and death of an impoverished, small-town nobleman named, Cervantes tells us at the end, Alonso Quijano. His excessive readings of romances of chivalry, led him to lose his mind, and he imagines himself Don Quixote de la Mancha, a hero who carries his enthusiasm and self-deception to unintentional and comic ends. On one level, _Don Quixote_ works as a satire of the romances of chivalry, which, though still popular in Cervantes' time, had become an object of ridicule among more demanding critics. The choice of a madman as hero also served a critical purpose, for it was "the impression of ill-being or 'in-sanity,' rather than a finding of dementia or psychosis in clinical terms, that defined the madman for Cervantes and his contemporaries." Indeed, the concept of madness was "associated with physical or moral displacement, as may be seen in the literal and figurative sense of the adjectives _eccentric_, _extravagant_, _deviant_, _aberrant_, etc."[60] The novel allows Cervantes to illuminate various aspects of human nature. Because the novel, particularly the first part, was written in individually published sections, the composition includes several incongruities. Cervantes pointed out some of these errors in the preface to the second part; but he disdained to correct them, because he conceived that they had been too severely condemned by his critics. Cervantes felt a passion for the vivid painting of character. _Don Quixote_ is noble-minded, an enthusiastic admirer of everything good and great, yet having all these fine qualities accidentally blended with a relative kind of madness. He is paired with a character of opposite qualities, Sancho Panza, a man of low self-esteem, who is a compound of grossness and simplicity.
 
 _Don Quixote_ is cited as the first classic model of the modern romance or novel, and it has served as the prototype of the comic novel. The humorous situations are mostly burlesque, and it includes satire. _Don Quixote_ is one of the _Encyclopædia Britannica_'s Great Books of the Western World, while the Russian author Fyodor Dostoyevsky called it "the ultimate and most sublime work of human thinking".[61] It is in _Don Quixote_ that Cervantes coined the popular phrase "the proof of the pudding is in the eating" (_por la muestra se conoce el paño_), which still sees heavy use in the shortened form of "the proof is in the pudding", and "who walks much and reads much, knows much and sees much" (_quien anda mucho y lee mucho, sabe mucho y ve mucho_).
 
 Exemplary novels
 
-Don_Quijote_illustrated_by_Gustav_Dore_II.jpg]] Paul_Gustave_Louis_Christophe_Doré_III.jpg
+]]
 
 Cervantes intended his novels should be to Spanish nearly what the novellas of Boccaccio were to Italians. Some are anecdotes, some are romances in miniature, some are serious, some comic; they are written in a light, smooth, conversational style.
 
@@ -134,7 +130,7 @@ The two young vagabonds of _Rinconete y Cortadillo_ come by chance to Seville, a
 
 _Los trabajos de Persiles y Sigismunda_
 
-Los_trabajos_de_Persiles_y_Sigismunda_(1617).png Cervantes finished the romance of _The Labours of Persiles and Sigismunda_ shortly before his death. The idea of this romance was not new and Cervantes appears to imitate Heliodorus.[63] The work is a romantic description of travels, both by sea and land. Real and fabulous geography and history are mixed together and, in the second half of the romance, the scene is transferred to Spain and Italy. The book ends with a visit to the Pope and the Christian marriage of the two protagonists, whose identity has been concealed.
+Cervantes finished the romance of _The Labours of Persiles and Sigismunda_ shortly before his death. The idea of this romance was not new and Cervantes appears to imitate Heliodorus.[63] The work is a romantic description of travels, both by sea and land. Real and fabulous geography and history are mixed together and, in the second half of the romance, the scene is transferred to Spain and Italy. The book ends with a visit to the Pope and the Christian marriage of the two protagonists, whose identity has been concealed.
 
 Poetry
 
@@ -142,7 +138,7 @@ Some of his poems are found in _La Galatea._ He also wrote _Dos Canciones à la 
 
 _Viaje del Parnaso_
 
-Viaje_del_Parnaso.jpg The prose of the _Galatea_, which is in other respects so beautiful, is occasionally overloaded with epithet. Cervantes displays a totally different kind of poetic talent in the _Viaje del Parnaso_, an extended commentary on the Spanish authors of his time.
+The prose of the _Galatea_, which is in other respects so beautiful, is occasionally overloaded with epithet. Cervantes displays a totally different kind of poetic talent in the _Viaje del Parnaso_, an extended commentary on the Spanish authors of his time.
 
 Plays
 
@@ -183,8 +179,6 @@ The tragedy is written in conformity with no rules, save those the author prescr
 
 Legacy
 
-Miguel_de_Cervantes_Saavedra_01.jpg Miguel_cervantes_de_saavedra.jpg
-
 During his life, Cervantes was primarily known as a writer of comedy, which was how his contemporaries viewed _Don Quixote_ Part I. His _Novelas ejemplares_ were better received than _Don Quixote_ and allowed him to publish his plays and _entremeses_, _Viaje del Parnaso_, Part II of _Don Quixote_, and (by his widow) _Los trabajos de Persiles y Sigismunda_. He then faded into semi-obscurity. Interest in him first revived in England in the 18th century, first by the deluxe edition of Tonson, for which the first biographical sketch was written (1738), and then by the scholarly editor John Bowle, who was the first to call Cervantes a "classic" author. This began his influence on other novelists and then an intense interest by the German romantics in the late 18th and early 19th centuries. The tricentennial, 1905, saw a great wave of celebrations in Spain. The year 2016, the 400th anniversary of Cervantes' death, saw the production of _Cervantina_, a celebration of the author's plays by the Compañía Nacional de Teatro Clásico in Madrid.
 
 Cervantes' novel _Don Quixote_ has had a tremendous influence on the development of prose fiction. It has been translated into all major languages and has appeared in 700 editions. The first translation was in English, made by Thomas Shelton in 1608 (Part I only[83]), but not published until 1612. Shelton renders some Spanish idioms into English so literally that they sound nonsensical when translated. As an example Shelton always translates the word _dedos_ as _fingers_, not realizing that _dedos_ can also mean _inches_. (In the original Spanish, for instance, a phrase such as _una altura de quince dedos_, which makes perfect sense in Spanish, would mean "fifteen inches high" in English, but a translator who renders it too literally would translate it as "fifteen _fingers_ high".
@@ -201,7 +195,7 @@ _Don Quixote_ has been the subject of a variety of works in other fields of art,
 
 Ballets
 
-Suzanne_Farrell_and_George_Balanchine_NYWTS.jpg with Suzanne Farrell in his 1965 _Don Quixote_]]
+with Suzanne Farrell in his 1965 _Don Quixote_]]
 
 -   A 1965 production of Nicolas Nabokov's _Don Quixote_ with choreography by George Balanchine.[90]
 -   A 2011 production of _The Inquisition of Don Miguel_ with choreography by Sallyann Mulcahy (Ballet Montana) to Richard Strauss’ _Opus 35, Fantastic Variations on a Theme of Knightly Character_
@@ -298,7 +292,7 @@ Modern scholars, especially in the United States, where Castro taught and had di
 
 Likeness
 
-Cervantes_Burgos.JPG.]] Although the portrait of Cervantes attributed to Juan de Jáuregui is the one most associated with the author, there is no known portrait that is really a true likeness.[97][98]
+.]] Although the portrait of Cervantes attributed to Juan de Jáuregui is the one most associated with the author, there is no known portrait that is really a true likeness.[97][98]
 
 The oil painting _Retrato de un caballero desconocido_ (_Portrait of an Unknown Gentleman_), painted by El Greco in Toledo between 1600 and 1605, and on display at the Museo del Prado, has also been cited as a possible portrait of Cervantes, based on the fact that he was living near Toledo in 1604 and that he knew people within El Greco's circle of friends.[99]
 

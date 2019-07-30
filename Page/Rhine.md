@@ -28,8 +28,6 @@ The grammatical gender of the Celtic name (as well as of its Greek and Latin ada
 
 Geography
 
-Rhein-Karte2.png
-
 The length of the Rhine is conventionally measured in "Rhine-kilometers" (_Rheinkilometer_), a scale introduced in 1939 which runs from the Old Rhine Bridge at Constance (0 km) to Hoek van Holland (1036.20 km).
 
 The river is significantly shortened from its natural course due to a number of canalisation projects completed in the 19th and 20th century.[8] The "total length of the Rhine", to the inclusion of Lake Constance and the Alpine Rhine is more difficult to measure objectively; it was cited as by the Dutch Rijkswaterstaat in 2010.[9]
@@ -51,19 +49,17 @@ Headwaters and sources
 
 Sources
 
-Above_Tomasee.JPG, seen from the upstream end]] The Rhine carries its name without distinctive accessories only from the confluence of the Rein Anteriur/Vorderrhein and Rein Posteriur/Hinterrhein next to Reichenau in Tamins. Above this point is the extensive catchment of the headwaters of the Rhine. It belongs almost exclusively to the Swiss canton of Graubünden, ranging from Saint-Gotthard Massif in the west via one valley lying in Ticino and Italy in the south to the Flüela Pass in the east.
+, seen from the upstream end]] The Rhine carries its name without distinctive accessories only from the confluence of the Rein Anteriur/Vorderrhein and Rein Posteriur/Hinterrhein next to Reichenau in Tamins. Above this point is the extensive catchment of the headwaters of the Rhine. It belongs almost exclusively to the Swiss canton of Graubünden, ranging from Saint-Gotthard Massif in the west via one valley lying in Ticino and Italy in the south to the Flüela Pass in the east.
 
 Traditionally, Lake Toma near the Oberalp Pass in the Gotthard region is seen as the source of the Anterior Rhine and the Rhine as a whole. The Posterior Rhine rises in the Rheinwald below the Rheinwaldhorn.
 
 Anterior Rhine and Posterior Rhine
 
-Rheinzusammenfluss.JPG to the left next to Reichenau]] The source of the river is generally considered north of _Lai da Tuma/Tomasee_ on _Rein Anteriur/Vorderrhein_,[27] although its southern tributary _Rein da Medel_ is actually longer before its confluence with the Anterior Rhine near Disentis.
+to the left next to Reichenau]] The source of the river is generally considered north of _Lai da Tuma/Tomasee_ on _Rein Anteriur/Vorderrhein_,[27] although its southern tributary _Rein da Medel_ is actually longer before its confluence with the Anterior Rhine near Disentis.
 
     The ANTERIOR RHINE (, ) springs from _Lai da Tuma/Tomasee_, near the Oberalp Pass and passes the impressive _Ruinaulta_ formed by the largest visible rock slide in the alps, the Flims Rockslide.
 
     The POSTERIOR RHINE (, ) starts from the Paradies Glacier, near the _Rheinwaldhorn_. One of its tributaries, the _Reno di Lei_, drains the _Valle di Lei_ on politically Italian territory. After three main valleys separated by the two gorges, _Roflaschlucht_ and _Viamala_, it reaches Reichenau in Tamins.
-
-Karte_Alpenrhein.png
 
 The Anterior Rhine arises from numerous source streams in the upper Surselva and flows in an easterly direction. One source is _Lai da Tuma_ ()[28] with the _Rein da Tuma_, which is usually indicated as source of the Rhine, flowing through it.
 
@@ -87,7 +83,7 @@ Numerous larger and smaller tributary rivers bear the name of the _Rhine_ or equ
 
 Alpine Rhine
 
-Rhein_bei_Balzers_-_Blick_auf_Gonzen.JPG (CH, left) and Balzers (Liechtenstein, right) with the Gonzen (, left), the Girrenspitz () in the back, and the Maziferchopf () to the right]] Rheintal}}
+(CH, left) and Balzers (Liechtenstein, right) with the Gonzen (, left), the Girrenspitz () in the back, and the Maziferchopf () to the right]] Rheintal}}
 
 Next to Reichenau in Tamins the Anterior Rhine and the Posterior Rhine join and form the Alpine Rhine. The river makes a distinctive turn to the north near Chur. This section is nearly 86 km long, and descends from a height of 599 m to 396 m. It flows through a wide glacial Alpine valley known as the Rhine Valley (). Near Sargans a natural dam, only a few metres high, prevents it from flowing into the open Seeztal valley and then through Lake Walen and Lake Zurich into the Aare. The Alpine Rhine begins in the westernmost part of the Swiss canton of Graubünden, and later forms the border between Switzerland to the west and Liechtenstein and later Austria to the east.
 
@@ -95,13 +91,13 @@ As an effect of human work, it empties into Lake Constance on Austrian territory
 
 The mouth of the Rhine into Lake Constance forms an inland delta. The delta is delimited in the west by the _Alter Rhein_ ("Old Rhine") and in the east by a modern canalized section. Most of the delta is a nature reserve and bird sanctuary. It includes the Austrian towns of Gaißau, Höchst and Fußach. The natural Rhine originally branched into at least two arms and formed small islands by precipitating sediments. In the local Alemannic dialect, the singular is pronounced "Isel" and this is also the local pronunciation of _Esel_ ("Donkey"). Many local fields have an official name containing this element.
 
-Rheinmuendung_im_Bodensee.jpg A regulation of the Rhine was called for, with an upper canal near Diepoldsau and a lower canal at Fußach, in order to counteract the constant flooding and strong sedimentation in the western Rhine Delta. The Dornbirner Ach had to be diverted, too, and it now flows parallel to the canalized Rhine into the lake. Its water has a darker color than the Rhine; the latter's lighter suspended load comes from higher up the mountains. It is expected that the continuous input of sediment into the lake will silt up the lake. This has already happened to the former Lake Tuggenersee.
+A regulation of the Rhine was called for, with an upper canal near Diepoldsau and a lower canal at Fußach, in order to counteract the constant flooding and strong sedimentation in the western Rhine Delta. The Dornbirner Ach had to be diverted, too, and it now flows parallel to the canalized Rhine into the lake. Its water has a darker color than the Rhine; the latter's lighter suspended load comes from higher up the mountains. It is expected that the continuous input of sediment into the lake will silt up the lake. This has already happened to the former Lake Tuggenersee.
 
 The cut-off Old Rhine at first formed a swamp landscape. Later an artificial ditch of about two km was dug. It was made navigable to the Swiss town of Rheineck.
 
 Lake Constance
 
-Bodensee_satellit.jpg'', is visible, and it includes, in the lower right, the Delta of the Alpine Rhine. The northwesterly "finger" (on the top left) is _Lake Überlingen_, containing the island of Mainau. Below Lake Überlingen (also in the west) is the smaller _Untersee_, containing Reichenau Island. The Obersee and Untersee are connected by the four kilometers long Seerhein. On the left the High Rhine can be seen.]] Lake Constance consists of three bodies of water: the Obersee ("upper lake"), the Untersee ("lower lake"), and a connecting stretch of the Rhine, called the Seerhein ("Lake Rhine"). The lake is situated in Germany, Switzerland and Austria near the Alps. Specifically, its shorelines lie in the German states of Bavaria and Baden-Württemberg, the Austrian state of Vorarlberg, and the Swiss cantons of Thurgau and St. Gallen. The Rhine flows into it from the south following the Swiss-Austrian border. It is located at approximately .
+'', is visible, and it includes, in the lower right, the Delta of the Alpine Rhine. The northwesterly "finger" (on the top left) is _Lake Überlingen_, containing the island of Mainau. Below Lake Überlingen (also in the west) is the smaller _Untersee_, containing Reichenau Island. The Obersee and Untersee are connected by the four kilometers long Seerhein. On the left the High Rhine can be seen.]] Lake Constance consists of three bodies of water: the Obersee ("upper lake"), the Untersee ("lower lake"), and a connecting stretch of the Rhine, called the Seerhein ("Lake Rhine"). The lake is situated in Germany, Switzerland and Austria near the Alps. Specifically, its shorelines lie in the German states of Bavaria and Baden-Württemberg, the Austrian state of Vorarlberg, and the Swiss cantons of Thurgau and St. Gallen. The Rhine flows into it from the south following the Swiss-Austrian border. It is located at approximately .
 
 Obersee
 
@@ -113,7 +109,7 @@ Three countries border the Obersee, namely Switzerland in the south, Austria in 
 
 Seerhein
 
-Konstanz_Blick_vom_Münsterturm.jpg Rheinkilometer_Loreley.JPG The Seerhein is only four km long. It connects the Obersee with the 30 cm lower Untersee. Distance markers along the Rhine measure the distance from the bridge in the old city centre of Constance.
+The Seerhein is only four km long. It connects the Obersee with the 30 cm lower Untersee. Distance markers along the Rhine measure the distance from the bridge in the old city centre of Constance.
 
 For most of its length, the Seerhein forms the border between Germany and Switzerland. The exception is the old city centre of Constance, on the Swiss side of the river.
 
@@ -131,7 +127,7 @@ Lake Untersee is part of the border between Switzerland and Germany, with German
 
 High Rhine
 
-Karte_Hochrhein.png Rheinfall01.jpg (Switzerland)]] The Rhine emerges from Lake Constance, flows generally westward, as the _Hochrhein_, passes the Rhine Falls, and is joined by its major tributary, the Aare. The Aare more than doubles the Rhine's water discharge, to an average of nearly , and provides more than a fifth of the discharge at the Dutch border. The Aare also contains the waters from the summit of Finsteraarhorn, the highest point of the Rhine basin. The Rhine roughly forms the German-Swiss border from Lake Constance with the exceptions of the canton of Schaffhausen and parts of the cantons of Zürich and Basel-Stadt, until it turns north at the so-called Rhine knee at Basel, leaving Switzerland.
+(Switzerland)]] The Rhine emerges from Lake Constance, flows generally westward, as the _Hochrhein_, passes the Rhine Falls, and is joined by its major tributary, the Aare. The Aare more than doubles the Rhine's water discharge, to an average of nearly , and provides more than a fifth of the discharge at the Dutch border. The Aare also contains the waters from the summit of Finsteraarhorn, the highest point of the Rhine basin. The Rhine roughly forms the German-Swiss border from Lake Constance with the exceptions of the canton of Schaffhausen and parts of the cantons of Zürich and Basel-Stadt, until it turns north at the so-called Rhine knee at Basel, leaving Switzerland.
 
 The High Rhine begins in Stein am Rhein at the western end of the Untersee. Unlike the Alpine Rhine and Upper Rhine, it flows to the west. It falls from 395 m to 252 m. Some stretches of the High Rhine between Stein am Rhein and Eglisau form the border between Switzerland on the south bank and Germany in the north. On other stretches, both sides are Swiss; in fact most of the Canton of Schaffhausen is on the north bank. Between Eglisau and Basel, the High Rhine consistently forms the border.
 
@@ -141,9 +137,9 @@ Near Koblenz in the Aargau, the Aare joins the Rhine. With an average discharge 
 
 Upper Rhine
 
-Middle_Bridge,_Basel,_Switzerland.JPG is Switzerland's gateway to the sea]] In the centre of Basel, the first major city in the course of the stream, is located the "Rhine knee"; this is a major bend, where the overall direction of the Rhine changes from west to north. Here the High Rhine ends. Legally, the Central Bridge is the boundary between High and Upper Rhine. The river now flows north as Upper Rhine through the Upper Rhine Plain, which is about 300 km long and up to 40 km wide. The most important tributaries in this area are the Ill below of Strasbourg, the Neckar in Mannheim and the Main across from Mainz. In Mainz, the Rhine leaves the Upper Rhine Valley and flows through the Mainz Basin.
+is Switzerland's gateway to the sea]] In the centre of Basel, the first major city in the course of the stream, is located the "Rhine knee"; this is a major bend, where the overall direction of the Rhine changes from west to north. Here the High Rhine ends. Legally, the Central Bridge is the boundary between High and Upper Rhine. The river now flows north as Upper Rhine through the Upper Rhine Plain, which is about 300 km long and up to 40 km wide. The most important tributaries in this area are the Ill below of Strasbourg, the Neckar in Mannheim and the Main across from Mainz. In Mainz, the Rhine leaves the Upper Rhine Valley and flows through the Mainz Basin.
 
-Rhein_Mainzer_Becken_stromab_von_Mainz_bei_Eltville_und_Erbach_vor_Bingen_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0263.jpg The southern half of the Upper Rhine forms the border between France (Alsace) and Germany (Baden-Württemberg). The northern part forms the border between the German states of Rhineland-Palatinate in the west on the one hand, and Baden-Württemberg and Hesse on the other hand, in the east and north. A curiosity of this border line is that the parts of the city of Mainz on the right bank of the Rhine were given to Hesse by the occupying forces in 1945.
+The southern half of the Upper Rhine forms the border between France (Alsace) and Germany (Baden-Württemberg). The northern part forms the border between the German states of Rhineland-Palatinate in the west on the one hand, and Baden-Württemberg and Hesse on the other hand, in the east and north. A curiosity of this border line is that the parts of the city of Mainz on the right bank of the Rhine were given to Hesse by the occupying forces in 1945.
 
 The Upper Rhine was a significant cultural landscape in Central Europe already in antiquity and during the Middle Ages. Today, the Upper Rhine area hosts many important manufacturing and service industries, particularly in the centers Basel, Strasbourg and Mannheim-Ludwigshafen. Strasbourg is the seat of the European Parliament, and so one of the three European capitals is located on the Upper Rhine.
 
@@ -155,9 +151,9 @@ The section of the Upper Rhine downstream from Mainz is also known as the "Islan
 
 Middle Rhine
 
-The Rhine is the longest river in Germany. It is here that the Rhine encounters some more of its main tributaries, such as the Neckar, the Main and, later, the Moselle, which contributes an average discharge of more than . Northeastern France drains to the Rhine via the Moselle; smaller rivers drain the Vosges and Jura Mountains uplands. Most of Luxembourg and a very small part of Belgium also drain to the Rhine via the Moselle. As it approaches the Dutch border, the Rhine has an annual mean discharge of and an average width of . RheinBeiRüdesheim2008Video.ogv to Rüdesheim (Video 2008)]] Between Bingen am Rhein and Bonn, the Middle Rhine flows through the Rhine Gorge, a formation which was created by erosion. The rate of erosion equaled the uplift in the region, such that the river was left at about its original level while the surrounding lands raised. The gorge is quite deep and is the stretch of the river which is known for its many castles and vineyards. It is a UNESCO World Heritage Site (2002) and known as "the Romantic Rhine", with more than 40 castles and fortresses from the Middle Ages and many quaint and lovely country villages.
+The Rhine is the longest river in Germany. It is here that the Rhine encounters some more of its main tributaries, such as the Neckar, the Main and, later, the Moselle, which contributes an average discharge of more than . Northeastern France drains to the Rhine via the Moselle; smaller rivers drain the Vosges and Jura Mountains uplands. Most of Luxembourg and a very small part of Belgium also drain to the Rhine via the Moselle. As it approaches the Dutch border, the Rhine has an annual mean discharge of and an average width of . to Rüdesheim (Video 2008)]] Between Bingen am Rhein and Bonn, the Middle Rhine flows through the Rhine Gorge, a formation which was created by erosion. The rate of erosion equaled the uplift in the region, such that the river was left at about its original level while the surrounding lands raised. The gorge is quite deep and is the stretch of the river which is known for its many castles and vineyards. It is a UNESCO World Heritage Site (2002) and known as "the Romantic Rhine", with more than 40 castles and fortresses from the Middle Ages and many quaint and lovely country villages.
 
-St.Goarshausen_Loreley_Burg_Katz_2016-03-27-17-13-57.jpg, in the background Lorelei]] The Mainz Basin ends in Bingen am Rhein; the Rhine continues as "Middle Rhine" into the Rhine Gorge in the Rhenish Slate Mountains. In this sections the river falls from 77.4 m above sea level to 50.4 m. On the left, is located the mountain ranges of Hunsrück and Eifel, on the right Taunus and Westerwald. According to geologists, the characteristic narrow valley form was created by erosion by the river while the surrounding landscape was lifted (see water gap).
+, in the background Lorelei]] The Mainz Basin ends in Bingen am Rhein; the Rhine continues as "Middle Rhine" into the Rhine Gorge in the Rhenish Slate Mountains. In this sections the river falls from 77.4 m above sea level to 50.4 m. On the left, is located the mountain ranges of Hunsrück and Eifel, on the right Taunus and Westerwald. According to geologists, the characteristic narrow valley form was created by erosion by the river while the surrounding landscape was lifted (see water gap).
 
 Major tributaries in this section are the Lahn and the Moselle. They join the Rhine near Koblenz, for the right and left respectively. Almost the entire length of the Middle Rhine runs in the German state of Rhineland-Palatinate.
 
@@ -165,7 +161,7 @@ The dominant economic sectors in the Middle Rhine area are viniculture and touri
 
 Lower Rhine
 
-Düsseldorf,_Rhein_und_historisches_Stadtzentrum,_Vogelperspektive,_2007.jpg]] Emmerich_am_Rhein_Osten.jpg]]
+]] ]]
 
 In Bonn, where the Sieg flows into the Rhine, the Rhine enters the North German Plain and turns into the Lower Rhine. The Lower Rhine falls from 50 m to 12 m. The main tributaries on this stretch are the Ruhr and the Lippe. Like the Upper Rhine, the Lower Rhine used to meander until engineering created a solid river bed. Because the levees are some distance from the river, at high tide the Lower Rhine has more room for widening than the Upper Rhine.
 
@@ -175,9 +171,9 @@ Until the early 1980s, industry was a major source of water pollution. Although 
 
 Delta
 
-Maas_Delta1.jpg Abbinden_der_Maas_von_der_Waal_1904_aus_Hochwasserschutzgründen.gif estuary in 1904: light blue old course, dark blue today's course]] Map_of_the_annual_average_discharge_of_Rhine_and_Maas_2000-2011_(EN).png
+estuary in 1904: light blue old course, dark blue today's course]]
 
-John_Frostbrug.jpg at Arnhem]] The Dutch name for Rhine is "Rijn". The Rhine turns west and enters the Netherlands, where, together with the rivers Meuse and Scheldt, it forms the extensive Rhine-Meuse-Scheldt delta, with the largest river delta in Europe.[39] Crossing the border into the Netherlands at Spijk, close to Nijmegen and Arnhem, the Rhine is at its widest, although the river then splits into three main distributaries: the Waal, Nederrijn ("Nether Rhine") and IJssel.
+at Arnhem]] The Dutch name for Rhine is "Rijn". The Rhine turns west and enters the Netherlands, where, together with the rivers Meuse and Scheldt, it forms the extensive Rhine-Meuse-Scheldt delta, with the largest river delta in Europe.[39] Crossing the border into the Netherlands at Spijk, close to Nijmegen and Arnhem, the Rhine is at its widest, although the river then splits into three main distributaries: the Waal, Nederrijn ("Nether Rhine") and IJssel.
 
 From here, the situation becomes more complicated, as the Dutch name _Rijn_ no longer coincides with the main flow of water. Two thirds of the water flow volume of the Rhine flows farther west, through the Waal and then, via the Merwede and Nieuwe Merwede (De Biesbosch), merging with the Meuse, through the Hollands Diep and Haringvliet estuaries, into the North Sea. The Beneden Merwede branches off, near Hardinxveld-Giessendam and continues as the Noord, to join the Lek, near the village of Kinderdijk, to form the Nieuwe Maas; then flows past Rotterdam and continues via Het Scheur and the Nieuwe Waterweg, to the North Sea. The Oude Maas branches off, near Dordrecht, farther down rejoining the Nieuwe Maas to form Het Scheur.
 
@@ -202,7 +198,7 @@ Geologic history
 
 Alpine orogeny
 
-Rhinegrabencross.jpg.]]
+.]]
 
 The Rhine flows from the Alps to the North Sea Basin; the geography and geology of its present-day watershed has been developing, since the Alpine orogeny began.
 
@@ -245,7 +241,7 @@ At present, the branches Waal and Nederrijn-Lek discharge to the North Sea throu
 
 Cultural history
 
-Loreley_von_Spitznack.jpg]]
+]]
 
 Antiquity
 
@@ -271,9 +267,9 @@ Germanic tribes crossed the Rhine in the Migration period, by the 5th century es
 
 Medieval and modern history
 
-Louis_XIV_crosses_the_Rhine_at_Lobith_-_Lodewijk_XIV_trekt_bij_het_Tolhuis_bij_Lobith_de_Rijn_over,_12_juni_1672_(Adam_Frans_van_der_Meulen).jpg cross the Rhine into the Netherlands in 1672]] By the 6th century, the Rhine was within the borders of Francia. In the 9th, it formed part of the border between Middle and Western Francia, but in the 10th century, it was fully within the Holy Roman Empire, flowing through Swabia, Franconia and Lower Lorraine. The mouths of the Rhine, in the county of Holland, fell to the Burgundian Netherlands in the 15th century; Holland remained contentious territory throughout the European wars of religion and the eventual collapse of the Holy Roman Empire, when the length of the Rhine fell to the First French Empire and its client states. The Alsace on the left banks of the Upper Rhine was sold to Burgundy by Archduke Sigismund of Austria in 1469 and eventually fell to France in the Thirty Years' War. The numerous historic castles in Rhineland-Palatinate attest to the importance of the river as a commercial route.
+cross the Rhine into the Netherlands in 1672]] By the 6th century, the Rhine was within the borders of Francia. In the 9th, it formed part of the border between Middle and Western Francia, but in the 10th century, it was fully within the Holy Roman Empire, flowing through Swabia, Franconia and Lower Lorraine. The mouths of the Rhine, in the county of Holland, fell to the Burgundian Netherlands in the 15th century; Holland remained contentious territory throughout the European wars of religion and the eventual collapse of the Holy Roman Empire, when the length of the Rhine fell to the First French Empire and its client states. The Alsace on the left banks of the Upper Rhine was sold to Burgundy by Archduke Sigismund of Austria in 1469 and eventually fell to France in the Thirty Years' War. The numerous historic castles in Rhineland-Palatinate attest to the importance of the river as a commercial route.
 
-Since the Peace of Westphalia, the Upper Rhine formed a contentious border between France and Germany. Establishing "natural borders" on the Rhine was a long-term goal of French foreign policy, since the Middle Ages, though the language border was – and is – far more to the west. French leaders, such as Louis XIV and Napoleon Bonaparte, tried with varying degrees of success to annex lands west of the Rhine. The Confederation of the Rhine was established by Napoleon, as a French client state, in 1806 and lasted until 1814, during which time it served as a significant source of resources and military manpower for the First French Empire. In 1840, the Rhine crisis, prompted by French prime minister Adolphe Thiers{{'s}} desire to reinstate the Rhine as a natural border, led to a diplomatic crisis and a wave of nationalism in Germany. Royal_Newfoundland_Regiment_crossing_the_Rhine_into_Germany.jpg crossing the Rhine into Germany after the end of WWI, December 1918]] The Rhine became an important symbol in German nationalism during the formation of the German state in the 19th century (see Rhine romanticism).
+Since the Peace of Westphalia, the Upper Rhine formed a contentious border between France and Germany. Establishing "natural borders" on the Rhine was a long-term goal of French foreign policy, since the Middle Ages, though the language border was – and is – far more to the west. French leaders, such as Louis XIV and Napoleon Bonaparte, tried with varying degrees of success to annex lands west of the Rhine. The Confederation of the Rhine was established by Napoleon, as a French client state, in 1806 and lasted until 1814, during which time it served as a significant source of resources and military manpower for the First French Empire. In 1840, the Rhine crisis, prompted by French prime minister Adolphe Thiers{{'s}} desire to reinstate the Rhine as a natural border, led to a diplomatic crisis and a wave of nationalism in Germany. crossing the Rhine into Germany after the end of WWI, December 1918]] The Rhine became an important symbol in German nationalism during the formation of the German state in the 19th century (see Rhine romanticism).
 
 -   The song _Die Wacht am Rhein_, which became almost a national anthem.
 -   _Das Rheingold_ – inspired by the _Nibelungenlied_, the Rhine is one of the settings for the first opera of Richard Wagner's _Der Ring des Nibelungen_. The action of the epic opens and ends underneath the Rhine, where three Rheinmaidens swim and protect a hoard of gold.
@@ -281,7 +277,7 @@ Since the Peace of Westphalia, the Upper Rhine formed a contentious border betwe
 
 At the end of World War I, the Rhineland was subject to the Treaty of Versailles. This decreed that it would be occupied by the allies, until 1935 and after that, it would be a demilitarised zone, with the German army forbidden to enter. The Treaty of Versailles and this particular provision, in general, caused much resentment in Germany and is often cited as helping Adolf Hitler's rise to power. The allies left the Rhineland, in 1930 and the German army re-occupied it in 1936, which was enormously popular in Germany. Although the allies could probably have prevented the re-occupation, Britain and France were not inclined to do so, a feature of their policy of appeasement to Hitler.
 
-Crossingtherhine.jpg cross the Rhine in assault boats under German fire as part of Operation Plunder on 24 March 1945]] In World War II, it was recognised that the Rhine would present a formidable natural obstacle to the invasion of Germany, by the Western Allies. The Rhine bridge at Arnhem, immortalized in the book, _A Bridge Too Far_ and the film, was a central focus of the battle for Arnhem, during the failed Operation Market Garden of September 1944. The bridges at Nijmegen, over the Waal distributary of the Rhine, were also an objective of Operation Market Garden. In a separate operation, the Ludendorff Bridge, crossing the Rhine at Remagen, became famous, when U.S. forces were able to capture it intact – much to their own surprise – after the Germans failed to demolish it. This also became the subject of a film, _The Bridge at Remagen_. _Seven Days to the River Rhine_ was a Warsaw Pact war plan for an invasion of Western Europe during the Cold War.
+cross the Rhine in assault boats under German fire as part of Operation Plunder on 24 March 1945]] In World War II, it was recognised that the Rhine would present a formidable natural obstacle to the invasion of Germany, by the Western Allies. The Rhine bridge at Arnhem, immortalized in the book, _A Bridge Too Far_ and the film, was a central focus of the battle for Arnhem, during the failed Operation Market Garden of September 1944. The bridges at Nijmegen, over the Waal distributary of the Rhine, were also an objective of Operation Market Garden. In a separate operation, the Ludendorff Bridge, crossing the Rhine at Remagen, became famous, when U.S. forces were able to capture it intact – much to their own surprise – after the Germans failed to demolish it. This also became the subject of a film, _The Bridge at Remagen_. _Seven Days to the River Rhine_ was a Warsaw Pact war plan for an invasion of Western Europe during the Cold War.
 
 Until 1932 the generally accepted length of the Rhine was 1,230 kilometres (764 miles). In 1932 the German encyclopedia Knaurs Lexikon stated the length as 1,320 kilometres (820 miles), presumably a typographical error. After this number was placed into the authoritative Brockhaus Enzyklopädie, it became generally accepted and found its way into numerous textbooks and official publications. The error was discovered in 2010, and the Dutch Rijkswaterstaat confirms the length at .[46]
 

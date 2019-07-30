@@ -1,4 +1,4 @@
-thumbtime=1_]] Sherlock_Holmes_Baffled.ogv_, an early silent film employing the effect for comic purposes]]
+thumbtime=1_]] _, an early silent film employing the effect for comic purposes]]
 
 The SUBSTITUTION SPLICE[1][2] or STOP TRICK[3] is a cinematic special effect in which filmmakers achieve an appearance, disappearance, or transformation[4] by altering one or more selected aspects of the mise-en-scène between two shots while maintaining the same framing and other aspects of the scene in both shots. The effect is usually polished by careful editing to establish a seamless cut and optimal moment of change.[5] It has also been referred to as STOP MOTION SUBSTITUTION or STOP-ACTION.
 

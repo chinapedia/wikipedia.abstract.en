@@ -1,6 +1,6 @@
 The indigenous population of Papua New Guinea is one of the most heterogeneous in the world. Papua New Guinea has several thousand separate communities, most with only a few hundred people. Divided by language, customs, and tradition, some of these communities have engaged in endemic warfare with their neighbors for centuries. It is the second most populous nation in Oceania.
 
-Huli_wigman.jpg Wigman from the Southern Highlands Province]]
+Wigman from the Southern Highlands Province]]
 
 The isolation created by the mountainous terrain is so great that some groups, until recently, were unaware of the existence of neighboring groups only a few kilometers away. The diversity, reflected in a folk saying, "For each village, a different culture", is perhaps best shown in the local languages. Spoken mainly on the island of New Guinea, about 650 of these Papuan languages have been identified; of these, only 350-450 are related. The remainder of the Papuan languages seem to be totally unrelated either to each other or to the other major groupings. In addition, many languages belonging to Austronesian language group are used in Papua New Guinea, and in total, more than 800 languages are spoken in Papua New Guinea.[1] Native languages are spoken by a few hundred to a few thousand, although Enga language, used in Enga Province, is spoken by some 130,000 people.
 
@@ -24,7 +24,7 @@ Most Papua New Guineans still adhere strongly to this traditional social structu
 
 CIA demographic statistics
 
-Papua-demography.png, year 2005; Number of inhabitants in thousands.]]
+, year 2005; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook 2015 [2]
 

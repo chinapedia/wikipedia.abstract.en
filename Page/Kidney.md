@@ -9,7 +9,7 @@ Procedures used in the management of kidney disease include chemical and microsc
 
 Structure
 
-Surface_projections_of_the_organs_of_the_trunk.png, with positions of the organs show, and kidneys seen at the vertebral level of T12 to L3. ]] In humans, the kidneys are located high in the abdominal cavity, one on each side of the spine, and lie in a retroperitoneal position at a slightly oblique angle.[2] The asymmetry within the abdominal cavity, caused by the position of the liver, typically results in the right kidney being slightly lower and smaller than the left, and being placed slightly more to the middle than the left kidney.[3][4][5] The left kidney is approximately at the vertebral level T12 to L3,[6] and the right is slightly lower. The right kidney sits just below the diaphragm and posterior to the liver. The left sits below the diaphragm and posterior to the spleen. On top of each kidney is an adrenal gland. The upper parts of the kidneys are partially protected by the 11th and 12th ribs. Each kidney, with its adrenal gland is surrounded by two layers of fat: the perirenal fat present between renal fascia and renal capsule and pararenal fat superior to the renal fascia.
+, with positions of the organs show, and kidneys seen at the vertebral level of T12 to L3. ]] In humans, the kidneys are located high in the abdominal cavity, one on each side of the spine, and lie in a retroperitoneal position at a slightly oblique angle.[2] The asymmetry within the abdominal cavity, caused by the position of the liver, typically results in the right kidney being slightly lower and smaller than the left, and being placed slightly more to the middle than the left kidney.[3][4][5] The left kidney is approximately at the vertebral level T12 to L3,[6] and the right is slightly lower. The right kidney sits just below the diaphragm and posterior to the liver. The left sits below the diaphragm and posterior to the spleen. On top of each kidney is an adrenal gland. The upper parts of the kidneys are partially protected by the 11th and 12th ribs. Each kidney, with its adrenal gland is surrounded by two layers of fat: the perirenal fat present between renal fascia and renal capsule and pararenal fat superior to the renal fascia.
 
 The kidney is a bean-shaped structure with a convex and a concave border. A recessed area on the concave border is the renal hilum, where the renal artery enters the kidney and the renal vein and ureter leave. The kidney is surrounded by tough fibrous tissue, the renal capsule, which is itself surrounded by perirenal fat, renal fascia, and pararenal fat. The anterior (front) surface of these tissues is the peritoneum, while the posterior (rear) surface is the transversalis fascia.
 
@@ -66,7 +66,7 @@ The mammalian kidney develops from intermediate mesoderm. Kidney development, al
 
 Function
 
-Kidney_Nephron.png, shown here, is the functional unit of the kidneys. Its parts are labelled except the (gray) _connecting tubule_ located after the (dark red) distal convoluted tubule and before the large (gray) collecting duct (mislabeled _collection_ duct).]]
+, shown here, is the functional unit of the kidneys. Its parts are labelled except the (gray) _connecting tubule_ located after the (dark red) distal convoluted tubule and before the large (gray) collecting duct (mislabeled _collection_ duct).]]
 
 The kidneys excrete a variety of waste products produced by metabolism into the urine. The microscopic structural and functional unit of the kidney is the nephron. It processes the blood supplied to it via filtration, reabsorption, secretion and excretion; the consequence of those processes is the production of urine. These include the nitrogenous wastes urea, from protein catabolism, and uric acid, from nucleic acid metabolism. The ability of mammals and some birds to concentrate wastes into a volume of urine much smaller than the volume of blood from which the wastes were extracted is dependent on an elaborate countercurrent multiplication mechanism. This requires several independent nephron characteristics to operate: a tight hairpin configuration of the tubules, water and ion permeability in the descending limb of the loop, water impermeability in the ascending loop, and active ion transport out of most of the ascending limb. In addition, passive countercurrent exchange by the vessels carrying the blood supply to the nephron is essential for enabling this function.
 
@@ -74,7 +74,7 @@ The kidney participates in whole-body homeostasis, regulating acid-base balance,
 
 Formation of urine
 
-Physiology_of_Nephron.png.]]
+.]]
 
 Filtration
 
@@ -82,7 +82,7 @@ Filtration, which takes place at the renal corpuscle, is the process by which ce
 
 Reabsorption
 
-2618_Nephron_Secretion_Reabsorption.jpg Reabsorption is the transport of molecules from this ultrafiltrate and into the peritubular capillary. It is accomplished via selective receptors on the luminal cell membrane. Water is 55% reabsorbed in the proximal tubule. Glucose at normal plasma levels is completely reabsorbed in the proximal tubule. The mechanism for this is the Na⁺/glucose cotransporter. A plasma level of 350 mg/dL will fully saturate the transporters and glucose will be lost in the urine. A plasma glucose level of approximately 160 is sufficient to allow glucosuria, which is an important clinical clue to diabetes mellitus.
+Reabsorption is the transport of molecules from this ultrafiltrate and into the peritubular capillary. It is accomplished via selective receptors on the luminal cell membrane. Water is 55% reabsorbed in the proximal tubule. Glucose at normal plasma levels is completely reabsorbed in the proximal tubule. The mechanism for this is the Na⁺/glucose cotransporter. A plasma level of 350 mg/dL will fully saturate the transporters and glucose will be lost in the urine. A plasma glucose level of approximately 160 is sufficient to allow glucosuria, which is an important clinical clue to diabetes mellitus.
 
 Amino acids are reabsorbed by sodium dependent transporters in the proximal tubule. Hartnup disease is a deficiency of the tryptophan amino acid transporter, which results in pellagra.[23]
 
@@ -167,7 +167,7 @@ Generally, humans can live normally with just one kidney, as one has more functi
 
 Dialysis
 
-Peritoneal_dialysis.jpg.]] Dialysis is a treatment that substitutes for the function of normal kidneys. Dialysis may be instituted when approximately 85%-90% of kidney function is lost, as indicated by a glomerular filtration rate (GFR) of less than 15. Dialysis removes metabolic waste products as well as excess water and sodium (thereby contributing to regulating blood pressure); and maintains many chemical levels within the body. Life expectancy is 5–10 years for those on dialysis; some live up to 30 years. Dialysis can occur via the blood (through a catheter or arteriovenous fistula), or through the peritoneum (peritoneal dialysis) Dialysis is typically administered three times a week for several hours at free-standing dialysis centers, allowing recipients to lead an otherwise essentially normal life.[28]
+.]] Dialysis is a treatment that substitutes for the function of normal kidneys. Dialysis may be instituted when approximately 85%-90% of kidney function is lost, as indicated by a glomerular filtration rate (GFR) of less than 15. Dialysis removes metabolic waste products as well as excess water and sodium (thereby contributing to regulating blood pressure); and maintains many chemical levels within the body. Life expectancy is 5–10 years for those on dialysis; some live up to 30 years. Dialysis can occur via the blood (through a catheter or arteriovenous fistula), or through the peritoneum (peritoneal dialysis) Dialysis is typically administered three times a week for several hours at free-standing dialysis centers, allowing recipients to lead an otherwise essentially normal life.[28]
 
 Congenital disease
 
@@ -249,7 +249,7 @@ The Latin term _renes_ is related to the English word "reins", a synonym for the
 
 As food
 
-1407871818_5c7f215934_o.jpg The kidneys, like other offal, can be cooked and eaten.
+The kidneys, like other offal, can be cooked and eaten.
 
 Kidneys are usually grilled or sautéed, but in more complex dishes they are stewed with a sauce that will improve their flavor. In many preparations, kidneys are combined with pieces of meat or liver, as in mixed grill. Dishes include the British steak and kidney pie, the Swedish _hökarpanna_ (pork and kidney stew), the French _rognons de veau sauce moutarde_ (veal kidneys in mustard sauce) and the Spanish _riñones al Jerez_ (kidneys stewed in sherry sauce) .[54]
 

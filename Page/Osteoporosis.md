@@ -9,7 +9,7 @@ Osteoporosis becomes more common with age.[24] About 15% of Caucasians in their 
 
 Signs and symptoms
 
-Blausen_0686_Osteoporosis_01.png Osteoporosis itself has no symptoms; its main consequence is the increased risk of bone fractures. Osteoporotic fractures occur in situations where healthy people would not normally break a bone; they are therefore regarded as fragility fractures. Typical fragility fractures occur in the vertebral column, rib, hip and wrist.
+Osteoporosis itself has no symptoms; its main consequence is the increased risk of bone fractures. Osteoporotic fractures occur in situations where healthy people would not normally break a bone; they are therefore regarded as fragility fractures. Typical fragility fractures occur in the vertebral column, rib, hip and wrist.
 
 Fractures
 
@@ -34,8 +34,6 @@ It is more common in females than males.[41]
 
 Nonmodifiable
 
-615_Age_and_Bone_Mass.jpg
-
 -   The most important risk factors for osteoporosis are advanced age (in both men and women) and female sex; estrogen deficiency following menopause or surgical removal of the ovaries is correlated with a rapid reduction in bone mineral density, while in men, a decrease in testosterone levels has a comparable (but less pronounced) effect.[42][43]
 -   Ethnicity: While osteoporosis occurs in people from all ethnic groups, European or Asian ancestry predisposes for osteoporosis.[44]
 -   Heredity: Those with a family history of fracture or osteoporosis are at an increased risk; the heritability of the fracture, as well as low bone mineral density, is relatively high, ranging from 25 to 80%. At least 30 genes are associated with the development of osteoporosis.[45]
@@ -57,7 +55,7 @@ Potentially modifiable
 
 Medical disorders
 
-625_Calcium_Homeostasis.jpg Many diseases and disorders have been associated with osteoporosis.[81] For some, the underlying mechanism influencing the bone metabolism is straightforward, whereas for others the causes are multiple or unknown.
+Many diseases and disorders have been associated with osteoporosis.[81] For some, the underlying mechanism influencing the bone metabolism is straightforward, whereas for others the causes are multiple or unknown.
 
 -   In general, immobilization causes bone loss (following the 'use it or lose it' rule). For example, localized osteoporosis can occur after prolonged immobilization of a fractured limb in a cast. This is also more common in active people with a high bone turn-over (for example, athletes). Other examples include bone loss during space flight or in people who are bedridden or use wheelchairs for various reasons.
 -   Hypogonadal states can cause secondary osteoporosis. These include Turner syndrome, Klinefelter syndrome, Kallmann syndrome, anorexia nervosa, andropause,[82] hypothalamic amenorrhea or hyperprolactinemia.[83] In females, the effect of hypogonadism is mediated by estrogen deficiency. It can appear as early menopause (<45 years) or from prolonged premenopausal amenorrhea (>1 year). Bilateral oophorectomy (surgical removal of the ovaries) and premature ovarian failure cause deficient estrogen production. In males, testosterone deficiency is the cause (for example, andropause or after surgical removal of the testes).
@@ -90,7 +88,7 @@ Age-related bone loss is common among humans due to exhibiting less dense bones 
 
 Pathogenesis
 
-Osteoporosis_Locations.png The underlying mechanism in all cases of osteoporosis is an imbalance between bone resorption and bone formation. In normal bone, matrix remodeling of bone is constant; up to 10% of all bone mass may be undergoing remodeling at any point in time. The process takes place in bone multicellular units (BMUs) as first described by Frost & Thomas in 1963.[129] Osteoclasts are assisted by transcription factor PU.1 to degrade the bone matrix, while osteoblasts rebuild the bone matrix. Low bone mass density can then occur when osteoclasts are degrading the bone matrix faster than the osteoblasts are rebuilding the bone.[130]
+The underlying mechanism in all cases of osteoporosis is an imbalance between bone resorption and bone formation. In normal bone, matrix remodeling of bone is constant; up to 10% of all bone mass may be undergoing remodeling at any point in time. The process takes place in bone multicellular units (BMUs) as first described by Frost & Thomas in 1963.[129] Osteoclasts are assisted by transcription factor PU.1 to degrade the bone matrix, while osteoblasts rebuild the bone matrix. Low bone mass density can then occur when osteoclasts are degrading the bone matrix faster than the osteoblasts are rebuilding the bone.[130]
 
 The three main mechanisms by which osteoporosis develops are an inadequate peak bone mass (the skeleton develops insufficient mass and strength during growth), excessive bone resorption, and inadequate formation of new bone during remodeling, likely due to MSC biasing away from the osteoblast and toward the marrow adipocyte lineage.[131] An interplay of these three mechanisms underlies the development of fragile bone tissue.[132] Hormonal factors strongly determine the rate of bone resorption; lack of estrogen (e.g. as a result of menopause) increases bone resorption, as well as decreasing the deposition of new bone that normally takes place in weight-bearing bones. The amount of estrogen needed to suppress this process is lower than that normally needed to stimulate the uterus and breast gland. The α-form of the estrogen receptor appears to be the most important in regulating bone turnover.[133] In addition to estrogen, calcium metabolism plays a significant role in bone turnover, and deficiency of calcium and vitamin D leads to impaired bone deposition; in addition, the parathyroid glands react to low calcium levels by secreting parathyroid hormone (parathormone, PTH), which increases bone resorption to ensure sufficient calcium in the blood. The role of calcitonin, a hormone generated by the thyroid that increases bone deposition, is less clear and probably not as significant as that of PTH.[134]
 
@@ -102,8 +100,6 @@ Image:Osteoclast.jpg|Light micrograph of an osteoclast displaying typical distin
 
 
 Diagnosis
-
-L1_2_vertebral_fracture.jpg
 
 The diagnosis of osteoporosis can be made using conventional radiography and by measuring the bone mineral density (BMD).[137] The most popular method of measuring BMD is dual-energy X-ray absorptiometry.
 
@@ -153,7 +149,7 @@ In people with coeliac disease adherence to a gluten-free diet decreases the ris
 
 Nutrition
 
-thumb|upright=1.4|Global dietary calcium intake among adults (mg/day).[161] Vitamin_D_serum_levels_in_adults_world_map.svg Studies of the benefits of supplementation with calcium and vitamin D are conflicting, possibly because most studies did not have people with low dietary intakes.[162] A 2018 review by the USPSTF found low-quality evidence that the routine use of calcium and vitamin D supplements (or both supplements together) did not reduce the risk of having an osteoporotic fracture in male and female adults living in the community who had no known history of vitamin D deficiency, osteoporosis, or a fracture.[163] Furthermore, the same review found moderate-quality evidence that the combination of vitamin D and calcium supplementation increases the risk for developing kidney stones in this population.[164] The evidence was insufficient to determine if supplementation with vitamin D, calcium, or the combination of both had an effect on the risk of cancer, cardiovascular disease, or death from any cause.[165] The USPSTF does not recommend low dose supplementation (less than 1 g of calcium and 400 IU of vitamin D) in postmenopausal women as there does not appear to be a difference in fracture risk.[166] A 2015 review found little data that supplementation of calcium decreases the risk of fractures.[167]
+thumb|upright=1.4|Global dietary calcium intake among adults (mg/day).[161] Studies of the benefits of supplementation with calcium and vitamin D are conflicting, possibly because most studies did not have people with low dietary intakes.[162] A 2018 review by the USPSTF found low-quality evidence that the routine use of calcium and vitamin D supplements (or both supplements together) did not reduce the risk of having an osteoporotic fracture in male and female adults living in the community who had no known history of vitamin D deficiency, osteoporosis, or a fracture.[163] Furthermore, the same review found moderate-quality evidence that the combination of vitamin D and calcium supplementation increases the risk for developing kidney stones in this population.[164] The evidence was insufficient to determine if supplementation with vitamin D, calcium, or the combination of both had an effect on the risk of cancer, cardiovascular disease, or death from any cause.[165] The USPSTF does not recommend low dose supplementation (less than 1 g of calcium and 400 IU of vitamin D) in postmenopausal women as there does not appear to be a difference in fracture risk.[166] A 2015 review found little data that supplementation of calcium decreases the risk of fractures.[167]
 
 While some meta-analyses have found a benefit of vitamin D supplements combined with calcium for fractures, they did not find a benefit of vitamin D supplements (800 IU/day or less) alone.[168][169]
 
@@ -226,7 +222,7 @@ Fragility fractures of the ribs are common in men as young as age 35. These are 
 
 Epidemiology
 
-Hip_fracture_incidence_world_map.svg It is estimated that 200 million people have osteoporosis.[227] Osteoporosis becomes more common with age.[228] About 15% of Caucasians in their 50s and 70% of those over 80 are affected.[229] It is more common in women than men.[230] In the developed world, depending on the method of diagnosis, 2% to 8% of males and 9% to 38% of females are affected.[231] Rates of disease in the developing world are unclear.[232]
+It is estimated that 200 million people have osteoporosis.[227] Osteoporosis becomes more common with age.[228] About 15% of Caucasians in their 50s and 70% of those over 80 are affected.[229] It is more common in women than men.[230] In the developed world, depending on the method of diagnosis, 2% to 8% of males and 9% to 38% of females are affected.[231] Rates of disease in the developing world are unclear.[232]
 
 There are 8.9 million fractures worldwide per year due to osteoporosis.[233] Globally, 1 in 3 women and 1 in 5 men over the age of 50 will have an osteoporotic fracture.[234] Data from the United States shows a decrease in osteoporosis within the general population and in white women, from 18% in 1994 to 10% in 2006.[235] White and Asian people are at greater risk.[236] People of African descent are at a decreased risk of fractures due to osteoporosis, although they have the highest risk of death following an osteoporotic fracture.[237]
 

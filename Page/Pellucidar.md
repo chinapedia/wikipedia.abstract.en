@@ -23,7 +23,7 @@ Beyond the Mahars' domain exist independent human cultures, many of them at a St
 
 Wildlife
 
-At_the_Earths_Core_1922_Illustration.jpg]] Dyryth--At_the_Earths_Core_1922_Illustration.jpg]] Various animals reside in Pellucidar. Many of Pellucidar's fauna consist of prehistoric creatures, which are extinct on the surface world. However, some animals are creations of Edgar Rice Burroughs himself. They are listed below by outer world name (if known), Pellucidarian name (if known), and the novel in which they first appear, along with any relevant comments.
+]] ]] Various animals reside in Pellucidar. Many of Pellucidar's fauna consist of prehistoric creatures, which are extinct on the surface world. However, some animals are creations of Edgar Rice Burroughs himself. They are listed below by outer world name (if known), Pellucidarian name (if known), and the novel in which they first appear, along with any relevant comments.
 
 -   ANT BEAR — An elephant-sized edentate mammal which preys on the Giant Ants. It has no outer world equivalent and its Pellucidarian name is unknown.
 -   ANTELOPE — Pellucidarian name unknown. It first appeared in _At the Earth's Core_. One antelope species resembles a common eland, with spiral horns curved to the back of their ears.

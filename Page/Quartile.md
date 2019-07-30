@@ -3,7 +3,7 @@ A QUARTILE is a type of quantile. The first quartile (_Q_₁) is defined as the 
 
 Definitions
 
-Boxplot_vs_PDF.svg (with quartiles and an interquartile range) and a probability density function (pdf) of a normal N(0,1σ²) population]]
+(with quartiles and an interquartile range) and a probability density function (pdf) of a normal N(0,1σ²) population]]
 
 +--------+-------+--------------------------------------------------------+
 | Symbol | Names | Definition                                             |

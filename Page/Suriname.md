@@ -16,13 +16,13 @@ When the territory was taken over by the Dutch, it became part of a group of col
 
 History
 
-Maroon_village,_Suriname_River,_1955.jpg, 1955.]]
+, 1955.]]
 
 Indigenous settlement of Suriname dates back to 3,000 BC. The largest tribes were the Arawak, a nomadic coastal tribe that lived from hunting and fishing. They were the first inhabitants in the area. The Carib also settled in the area and conquered the Arawak by using their superior sailing ships. They settled in Galibi (_Kupali Yumï,_ meaning "tree of the forefathers") at the mouth of the Marowijne River. While the larger Arawak and Carib tribes lived along the coast and savanna, smaller groups of indigenous people lived in the inland rainforest, such as the Akurio, Trió, Warrau, and Wayana.
 
 Colonial period
 
-Presidential_palace,_Paramaribo,_Suriname.jpg]]
+]]
 
 Beginning in the 16th century, French, Spanish and English explorers visited the area. A century later, Dutch and English settlers established plantation colonies along the many rivers in the fertile Guiana plains. The earliest documented colony in Guiana was an English settlement named Marshall's Creek along the Suriname River.[4] After that there was another short-lived English colony called Willoughbyland that lasted from 1650 to 1674.
 
@@ -32,7 +32,7 @@ In 1683, the Society of Suriname was founded by the city of Amsterdam, the Van A
 
 With the help of the native South Americans living in the adjoining rain forests, these runaway slaves established a new and unique culture in the interior that was highly successful in its own right. They were known collectively in English as Maroons, in French as _Nèg'Marrons_ (literally meaning "brown negroes", that is "pale-skinned negroes"), and in Dutch as _Marrons._ The Maroons gradually developed several independent tribes through a process of ethnogenesis, as they were made up of slaves from different African ethnicities. These tribes include the Saramaka, Paramaka, Ndyuka or Aukan, Kwinti, Aluku or Boni, and Matawai.
 
-Water-front_houses_in_Paramaribo,_1955.jpg, 1955.]] The Maroons often raided plantations to recruit new members from the slaves and capture women, as well as to acquire weapons, food and supplies. They sometimes killed planters and their families in the raids; colonists built defenses, which were so important they were shown on 18th-century maps, but these were not sufficient.[7]
+, 1955.]] The Maroons often raided plantations to recruit new members from the slaves and capture women, as well as to acquire weapons, food and supplies. They sometimes killed planters and their families in the raids; colonists built defenses, which were so important they were shown on 18th-century maps, but these were not sufficient.[7]
 
 The colonists also mounted armed campaigns against the Maroons, who generally escaped through the rain forest, which they knew much better than did the colonists. To end hostilities, in the 18th century the European colonial authorities signed several peace treaties with different tribes. They granted the Maroons sovereign status and trade rights in their inland territories, giving them autonomy.
 
@@ -42,11 +42,9 @@ From 1861 to 1863, with the American Civil War underway, and enslaved people esc
 
 The Netherlands abolished slavery in Suriname in 1863, under a gradual process that required enslaved people to work on plantations for 10 transition years for minimal pay, which was considered as partial compensation for their masters. After 1873, most freedmen largely abandoned the plantations where they had worked for several generations in favor of the capital city, Paramaribo.
 
-COLLECTIE_TROPENMUSEUM_Suriname_immigranten_afkomstig_uit_Nederlands-Indië_de_vrouw_rechts_draagt_een_peniti_tak_broche_TMnr_60008927.jpg immigrants brought as contract workers from the Dutch East Indies. Picture was taken between 1880 and 1900.]] As a plantation colony, Suriname had an economy dependent on labor-intensive commodity crops. To make up for a shortage of labor, the Dutch recruited and transported contract or indentured laborers from the Dutch East Indies (modern Indonesia) and India (the latter through an arrangement with the British, who then ruled the area). In addition, during the late 19th and early 20th centuries, small numbers of laborers, mostly men, were recruited from China and the Middle East.
+immigrants brought as contract workers from the Dutch East Indies. Picture was taken between 1880 and 1900.]] As a plantation colony, Suriname had an economy dependent on labor-intensive commodity crops. To make up for a shortage of labor, the Dutch recruited and transported contract or indentured laborers from the Dutch East Indies (modern Indonesia) and India (the latter through an arrangement with the British, who then ruled the area). In addition, during the late 19th and early 20th centuries, small numbers of laborers, mostly men, were recruited from China and the Middle East.
 
 Although Suriname's population remains relatively small, because of this complex colonization and exploitation, it is one of the most ethnically and culturally diverse countries in the world.[9][10]
-
-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_10019010_Groep_Nederlandse_kolonisten_op_de_bo.jpg
 
 Decolonization
 
@@ -56,7 +54,7 @@ In 1954, Suriname became one of the constituent countries of the Kingdom of the 
 
 Independence
 
-Henck_Arron,_Beatrix,_Johan_Ferrier_1975.jpg, Beatrix and Johan Ferrier on 25 November 1975.]] The first President of the country was Johan Ferrier, the former governor, with Henck Arron (the then leader of the NPS) as Prime Minister. In the years leading up to independence, nearly one-third of the population of Suriname emigrated to the Netherlands, amidst concern that the new country would fare worse under independence than it had as a constituent country of the Kingdom of the Netherlands. Indeed, Surinamese politics soon degenerated into ethnic polarization and corruption, with the NPS using Dutch aid money for partisan purposes. Its leaders were accused of fraud in the 1977 elections, in which Arron won a further term, and the discontent was such that a large chunk of the population fled to the Netherlands, joining the already significant Surinamese community there.[12]
+, Beatrix and Johan Ferrier on 25 November 1975.]] The first President of the country was Johan Ferrier, the former governor, with Henck Arron (the then leader of the NPS) as Prime Minister. In the years leading up to independence, nearly one-third of the population of Suriname emigrated to the Netherlands, amidst concern that the new country would fare worse under independence than it had as a constituent country of the Kingdom of the Netherlands. Indeed, Surinamese politics soon degenerated into ethnic polarization and corruption, with the NPS using Dutch aid money for partisan purposes. Its leaders were accused of fraud in the 1977 elections, in which Arron won a further term, and the discontent was such that a large chunk of the population fled to the Netherlands, joining the already significant Surinamese community there.[12]
 
 1980 military coup
 
@@ -78,8 +76,6 @@ On 19 July 2010, the former dictator Dési Bouterse returned to power when he wa
 
 
 Politics
-
-AssembleeSurinaam.jpg Paramaribo,_Hof_van_Justitie_(Court_of_Justice).jpg
 
 The Republic of Suriname is a parliamentary representative democratic republic, based on the Constitution of 1987. The legislative branch of government consists of a 51-member unicameral National Assembly, simultaneously and popularly elected for a five-year term.
 
@@ -119,8 +115,6 @@ Administrative divisions
 
 The country is divided into ten administrative districts, each headed by a district commissioner appointed by the president, who also has the power of dismissal. Suriname is further subdivided into 62 resorts (ressorten).
 
-Suriname_districts_numbered.png
-
 +-----+------------+-----------------+------------+----------+-------------------+----------------+----------------------+
 | # | | District   | Capital         | Area (km²) | Area (%) | Population        | Population (%) | Pop. dens. (inh/km²) |
 |     |            |                 |            |          | (2012 census)[30] |                |                      |
@@ -153,7 +147,7 @@ Suriname_districts_numbered.png
 
 Geography
 
-Suriname_with_disputed_territories.jpg Koppen-Geiger_Map_SUR_present.svg Suriname is the smallest independent country in South America. Situated on the Guiana Shield, it lies mostly between latitudes 1° and 6°N, and longitudes 54° and 58°W. The country can be divided into two main geographic regions. The northern, lowland coastal area (roughly above the line Albina-Paranam-Wageningen) has been cultivated, and most of the population lives here. The southern part consists of tropical rainforest and sparsely inhabited savanna along the border with Brazil, covering about 80% of Suriname's land surface.
+Suriname is the smallest independent country in South America. Situated on the Guiana Shield, it lies mostly between latitudes 1° and 6°N, and longitudes 54° and 58°W. The country can be divided into two main geographic regions. The northern, lowland coastal area (roughly above the line Albina-Paranam-Wageningen) has been cultivated, and most of the population lives here. The southern part consists of tropical rainforest and sparsely inhabited savanna along the border with Brazil, covering about 80% of Suriname's land surface.
 
 The two main mountain ranges are the Bakhuys Mountains and the Van Asch Van Wijck Mountains. Julianatop is the highest mountain in the country at above sea level. Other mountains include Tafelberg at , Mount Kasikasima at , Goliathberg at and Voltzberg at .
 
@@ -172,11 +166,11 @@ Located in the upper Coppename River watershed, the Central Suriname Nature Rese
 
 Economy
 
-Suriname_Export_Treemap.png]]
+]]
 
 Suriname's democracy gained some strength after the turbulent 1990s, and its economy became more diversified and less dependent on Dutch financial assistance. Bauxite (aluminium ore) mining continues to be a strong revenue source, and the discovery and exploitation of oil and gold has added substantially to Suriname's economic independence. Agriculture, especially rice and bananas, remains a strong component of the economy, and ecotourism is providing new economic opportunities. More than 80% of Suriname's land-mass consists of unspoiled rain forest; with the establishment of the Central Suriname Nature Reserve in 1998, Suriname signalled its commitment to conservation of this precious resource. The Central Suriname Nature Reserve became a World Heritage Site in 2000.
 
-Financien.JPG The economy of Suriname was dominated by the bauxite industry, which accounts for more than 15% of GDP and 70% of export earnings up to 2016. Other main export products include rice, bananas and shrimp. Suriname has recently started exploiting some of its sizeable oil[34] and gold[35] reserves. About a quarter of the people work in the agricultural sector. The Surinamese economy is very dependent on commerce, its main trade partners being the Netherlands, the United States, Canada, and Caribbean countries, mainly Trinidad and Tobago and the islands of the former Netherlands Antilles.[36]
+The economy of Suriname was dominated by the bauxite industry, which accounts for more than 15% of GDP and 70% of export earnings up to 2016. Other main export products include rice, bananas and shrimp. Suriname has recently started exploiting some of its sizeable oil[34] and gold[35] reserves. About a quarter of the people work in the agricultural sector. The Surinamese economy is very dependent on commerce, its main trade partners being the Netherlands, the United States, Canada, and Caribbean countries, mainly Trinidad and Tobago and the islands of the former Netherlands Antilles.[36]
 
 After assuming power in the fall of 1996, the Wijdenbosch government ended the structural adjustment program of the previous government, claiming it was unfair to the poorer elements of society. Tax revenues fell as old taxes lapsed and the government failed to implement new tax alternatives. By the end of 1997, the allocation of new Dutch development funds was frozen as Surinamese Government relations with the Netherlands deteriorated. Economic growth slowed in 1998, with decline in the mining, construction, and utility sectors. Rampant government expenditures, poor tax collection, a bloated civil service, and reduced foreign aid in 1999 contributed to the fiscal deficit, estimated at 11% of GDP. The government sought to cover this deficit through monetary expansion, which led to a dramatic increase in inflation. It takes longer on average to register a new business in Suriname than virtually any other country in the world (694 days or about 99 weeks).[37]
 
@@ -193,8 +187,6 @@ After assuming power in the fall of 1996, the Wijdenbosch government ended the s
 
 
 Demographics
-
-Suriname_demography.png
 
 According to the 2012 census, Suriname had a population of 541,638 inhabitants.[40] The Surinamese populace is characterized by its high level of diversity, wherein no particular demographic group constitutes a majority. This is a legacy of centuries of Dutch rule, which entailed successive periods of forced, contracted, or voluntary migration by various nationalities and ethnic groups from around the world.
 
@@ -222,7 +214,7 @@ According to the 2012 census, 48.4% were Christians;[45] 26.7% of Surinamese wer
 
 Languages
 
-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60008924_Een_groep_Brits-Indische_immigranten.jpg]] Butcher_Paramaribo_market.jpg.]] Dutch is the sole official language, and is the language of education, government, business, and the media.[51] Over 60% of the population speaks Dutch as a mother tongue,[52] and most of the rest of the population speaks it as a second language. In 2004 Suriname became an associate member of the Dutch Language Union.[53] It is the only Dutch-speaking country in South America as well as the only independent nation in the Americas where Dutch is spoken by a majority of the population, and one of the two non-Romance-speaking countries in South America, the other being English-speaking Guyana.
+]] .]] Dutch is the sole official language, and is the language of education, government, business, and the media.[51] Over 60% of the population speaks Dutch as a mother tongue,[52] and most of the rest of the population speaks it as a second language. In 2004 Suriname became an associate member of the Dutch Language Union.[53] It is the only Dutch-speaking country in South America as well as the only independent nation in the Americas where Dutch is spoken by a majority of the population, and one of the two non-Romance-speaking countries in South America, the other being English-speaking Guyana.
 
 In Paramaribo, Dutch is the main home language in two-thirds of households.[54] The recognition of _"Surinaams-Nederlands"_ (_"Surinamese Dutch"_) as a national dialect equal to _"Nederlands-Nederlands"_ (_"Dutch Dutch"_) and _"Vlaams-Nederlands"_ (_"Flemish Dutch"_) was expressed in 2009 by the publication of the _Woordenboek Surinaams Nederlands_ (_Surinamese–Dutch Dictionary_).[55] Only in the interior of Suriname is Dutch seldom spoken.
 
@@ -268,7 +260,7 @@ There are several holidays which are unique to Suriname. These include the India
 
 New Year's Eve
 
-Kerstoudjaar_037.jpg New Year's Eve in Suriname is called _Oud jaar_, or "old year". It is during this period that the Surinamese population goes to the city's commercial district to watch "demonstrational fireworks". The bigger stores invest in these firecrackers and display them out in the streets. Every year the length of them is compared, and high praises are given for the company that has imported the largest ribbon.
+New Year's Eve in Suriname is called _Oud jaar_, or "old year". It is during this period that the Surinamese population goes to the city's commercial district to watch "demonstrational fireworks". The bigger stores invest in these firecrackers and display them out in the streets. Every year the length of them is compared, and high praises are given for the company that has imported the largest ribbon.
 
 These celebrations start at 10 in the morning and finish the next day. The day is usually filled with laughter, dance, music, and drinking. When the night starts, the big street parties are already at full capacity. The most popular fiesta is the one that is held at café 't Vat in the main tourist district. The parties there stop between 10 and 11 at night, after which people go home to light their pagaras (red-firecracker-ribbons) at midnight. After 12, the parties continue and the streets fill again until daybreak.[57]
 
@@ -380,7 +372,7 @@ Crime rates continue to rise in Paramaribo and armed robberies are not uncommon.
 
 Landmarks
 
-Cathedral_Paramaribo.jpg in Paramaribo]] The Jules Wijdenbosch Bridge is a bridge over the river Suriname between Paramaribo and Meerzorg in the Commewijne district. The bridge was built during the tenure of President Jules Albert Wijdenbosch (1996–2000) and was completed in 2000. The bridge is high, and long. It connects Paramaribo with Commewijne, a connection which previously could only be made by ferry. The purpose of the bridge was to facilitate and promote the development of the eastern part of Suriname. The bridge consists of two lanes (one lane each way) and is not accessible to pedestrians.
+in Paramaribo]] The Jules Wijdenbosch Bridge is a bridge over the river Suriname between Paramaribo and Meerzorg in the Commewijne district. The bridge was built during the tenure of President Jules Albert Wijdenbosch (1996–2000) and was completed in 2000. The bridge is high, and long. It connects Paramaribo with Commewijne, a connection which previously could only be made by ferry. The purpose of the bridge was to facilitate and promote the development of the eastern part of Suriname. The bridge consists of two lanes (one lane each way) and is not accessible to pedestrians.
 
 The construction of the Sts. Peter and Paul Cathedral started on 13 January 1883. Before it became a cathedral it was a theatre. The theatre was built in 1809 and burned down in 1820.
 

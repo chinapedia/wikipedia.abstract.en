@@ -38,7 +38,7 @@ Two of his short stories, "Some Lapse of Time" and "The Last Lonely Man", were a
 
 Bibliography
 
-Two_complete_science_adventure_books_1953sum_n9.jpg'' in 1953, before appearing in book form as _The Space-Time Juggler_]] Fantastic_universe_195803.jpg'']]
+'' in 1953, before appearing in book form as _The Space-Time Juggler_]] '']]
 
 Science-fiction and fantasy novels
 

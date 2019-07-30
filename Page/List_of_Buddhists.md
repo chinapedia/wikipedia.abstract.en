@@ -7,8 +7,6 @@ Individuals are grouped by nationality, except in cases where their influence wa
 
 Buddha's disciples and early Buddhists
 
-Walking_statue_of_the_Buddha.JPG
-
     _See also: Disciples of Gautama Buddha and Family of Gautama Buddha_
 
 -   THE BUDDHA, SIDDHĀRTHA GAUTAMA

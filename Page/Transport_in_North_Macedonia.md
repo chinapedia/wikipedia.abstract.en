@@ -29,7 +29,7 @@ Maps
 
 Roads
 
-E75_Macedonia_Motorway_M-1.jpg]] Macedonia_Motorway_M-3.jpg]] Road_M4_in_MK_(border_crossing).JPG]] Macedonian_national_road_M-5.jpg]]
+]] ]] ]] ]]
 
 _total_ (2002)
 228 km of motorways (2008)
@@ -76,7 +76,7 @@ E871
 
 Road rules
 
-Galičica-P504-P1100719.JPG Mts to Lake Ohrid]] The traffic signs adhere to the Vienna Convention on Road Signs and Signals.
+Mts to Lake Ohrid]] The traffic signs adhere to the Vienna Convention on Road Signs and Signals.
 
 Lights must be on all the time, seatbelts are mandatory for passengers in the front and drivers are forbidden to speak on a mobile phone while driving.
 
@@ -112,7 +112,7 @@ After the end of Second World War, passenger and cargo air transport reestablish
 
 Beside Skopje, in North Macedonia, during second half of the 20th century, Ohrid airport was also developed, starting with the opening of regular scheduled flights between Belgrade–Skopje–Ohrid during the 1960s. Until 1990 charted flights were also inaugurated linking Ohrid with international destinations.
 
-Skopje_Alexander_the_Great_Airport.jpg]] 17 (2002 est.)
+]] 17 (2002 est.)
 
 Airports - with paved runways
 

@@ -19,7 +19,7 @@ In 1966, Nintendo moved into the Japanese toy industry with the Ultra Hand, an e
 
 1974–1978: Early electronic era
 
-Nintendo-Color-TV-Game-Blockbreaker-FL.png, which would soon become its primary focus]]
+, which would soon become its primary focus]]
 
 Nintendo's first venture into the video gaming industry was securing rights to distribute the Magnavox Odyssey video game console in Japan in 1974. Nintendo began to produce its own hardware in 1977, with the Color TV-Game home video game consoles. Four versions of these consoles were produced, each including variations of a single game; for example, Color TV Game 6 features six versions of _Light Tennis_.
 
@@ -29,7 +29,7 @@ In 1975, Nintendo moved into the video arcade game industry with _EVR Race_, des
 
 1979–1982: First video game success
 
-Game_&_Watch.png series is Nintendo's first worldwide success in video game consoles.]]
+series is Nintendo's first worldwide success in video game consoles.]]
 
 In 1979, Gunpei Yokoi conceived the idea of a handheld video game, while observing a fellow bullet train commuter who passed the time by interacting idly with a portable LCD calculator. The idea became Game & Watch.[16] In 1980, Nintendo launched _Game & Watch_—a handheld video game series developed by Yokoi. These systems do not contain interchangeable cartridges and thus the hardware was tied to the game. The first Game & Watch game, _Ball_, was distributed worldwide. The modern "cross" D-pad design was developed in 1982, by Yokoi for a _Donkey Kong_ version. Proven to be popular, the design was patented by Nintendo. It later earned a Technology & Engineering Emmy Award.[17][18]
 
@@ -65,7 +65,7 @@ In 2003, Nintendo released the Game Boy Advance SP, a redesign of the Game Boy A
 
 In 2004, Nintendo released the Nintendo DS, its fourth major handheld system. The DS is a dual screened handheld featuring touch screen capabilities, which respond to either a stylus or the touch of a finger. Former Nintendo president and chairman Hiroshi Yamauchi was translated by GameScience as explaining, "If we can increase the scope of the industry, we can re-energise the global market and lift Japan out of depression – that is Nintendo's mission." Regarding lukewarm GameCube sales which had yielded the company's first reported operating loss in over 100 years, Yamauchi continued: "The DS represents a critical moment for Nintendo's success over the next two years. If it succeeds, we rise to the heavens, if it fails, we sink into hell."[35][36][37] Due to games such as _Nintendogs_ and _Mario Kart DS_, the DS became a success. In 2005, Nintendo released the Game Boy Micro in North America, a redesign of the Game Boy Advance. The last system in the Game Boy line, it is also the smallest Game Boy, and the least successful. In the middle of 2005, Nintendo opened the Nintendo World Store in New York City, which would sell Nintendo games, present a museum of Nintendo history, and host public parties such as for product launches. The store was renovated and renamed as Nintendo New York in 2016.
 
-Wii_Remote_Image.jpg, along with the Wii, was said to be "revolutionary" because of its motion detection capabilities]] In the first half of 2006, Nintendo released the Nintendo DS Lite, a version of the original Nintendo DS with lighter weight, brighter screen, and better battery life. In addition to this streamlined design, its prolific subset of casual games appealed to the masses, such as the _Brain Age_ series. Meanwhile, _New Super Mario Bros._ provided a substantial addition to the _Mario_ series when it was launched to the top of sales charts. The successful direction of the Nintendo DS had a big influence on Nintendo's next home console (including the common Nintendo Wi-Fi Connection),[38] which had been codenamed "Revolution" and was now renamed to "Wii". In August 2006, Nintendo published ES, a now-dormant, open source research operating system project designed around web application integration but for no specific purpose.[39][40]
+, along with the Wii, was said to be "revolutionary" because of its motion detection capabilities]] In the first half of 2006, Nintendo released the Nintendo DS Lite, a version of the original Nintendo DS with lighter weight, brighter screen, and better battery life. In addition to this streamlined design, its prolific subset of casual games appealed to the masses, such as the _Brain Age_ series. Meanwhile, _New Super Mario Bros._ provided a substantial addition to the _Mario_ series when it was launched to the top of sales charts. The successful direction of the Nintendo DS had a big influence on Nintendo's next home console (including the common Nintendo Wi-Fi Connection),[38] which had been codenamed "Revolution" and was now renamed to "Wii". In August 2006, Nintendo published ES, a now-dormant, open source research operating system project designed around web application integration but for no specific purpose.[39][40]
 
 In the latter half of 2006, Nintendo released the Wii as the backward-compatible successor to the GameCube. Based upon intricate Wii Remote motion controls and a balance board, the Wii inspired several new game franchises, some targeted at entirely new market segments of casual and fitness gaming. With more than 100 million units sold worldwide, the Wii is the best selling console of the seventh generation, regaining market share lost during the tenures of the Nintendo 64 and GameCube.
 
@@ -75,7 +75,7 @@ During the holiday season of 2008, Nintendo followed up the success of the DS wi
 
 2011–2015: Nintendo 3DS and Wii U
 
-Nintendo-3DS-AquaOpen.png In 2011, Nintendo released the Nintendo 3DS, based upon a glasses-free stereoscopic 3D display. In February 2012, Nintendo acquired Mobiclip, a France-based research and development company specialized in highly optimized software technologies such as video compression. The company's name was later changed to Nintendo European Research & Development.[42] During the fourth quarter of 2012, Nintendo released the Wii U. It sold slower than expected,[43] despite being the first eighth generation console. By September 2013, however, sales had rebounded. Intending to broaden the 3DS market, Nintendo released 2013's cost-reduced Nintendo 2DS. The 2DS is compatible with but lacks the 3DS's more expensive but cosmetic autostereoscopic 3D feature. Nintendo also released the Wii Mini, a cheaper and non-networked redesign of the Wii.[44]
+In 2011, Nintendo released the Nintendo 3DS, based upon a glasses-free stereoscopic 3D display. In February 2012, Nintendo acquired Mobiclip, a France-based research and development company specialized in highly optimized software technologies such as video compression. The company's name was later changed to Nintendo European Research & Development.[42] During the fourth quarter of 2012, Nintendo released the Wii U. It sold slower than expected,[43] despite being the first eighth generation console. By September 2013, however, sales had rebounded. Intending to broaden the 3DS market, Nintendo released 2013's cost-reduced Nintendo 2DS. The 2DS is compatible with but lacks the 3DS's more expensive but cosmetic autostereoscopic 3D feature. Nintendo also released the Wii Mini, a cheaper and non-networked redesign of the Wii.[44]
 
 On 25 September 2013, Nintendo announced it had purchased a 28% stake in a Panasonic spin-off company called PUX Corporation. The company specializes in face and voice recognition technology, with which Nintendo intends to improve the usability of future game systems. Nintendo has also worked with this company in the past to create character recognition software for a Nintendo DS touchscreen.[45] After announcing a 30% dive in profits for the April to December 2013 period, president Satoru Iwata announced he would take a 50% pay-cut, with other executives seeing reductions by 20%–30%.[46]
 
@@ -85,7 +85,7 @@ On 11 July 2015, Iwata died from a bile duct tumor at the age of 55. Following h
 
 2015–present: Mobile and Nintendo Switch
 
-Takashi_Tezuka,_Shigeru_Miyamoto_and_Kōji_Kondō.jpg, Shigeru Miyamoto, and Koji Kondo in 2015]]
+, Shigeru Miyamoto, and Koji Kondo in 2015]]
 
 On 17 March 2015, Nintendo announced a partnership with Japanese mobile developer DeNA to produce games for smart devices.[50][51] The first of these, _Miitomo_, was released in March 2016.[52]
 
@@ -118,7 +118,7 @@ Released in 1977, Japan's highest selling first generation console is Nintendo's
 
 Nintendo Entertainment System
 
-Nes-console-with-controller.jpg, Nintendo's first major success in the home console market]]
+, Nintendo's first major success in the home console market]]
 
 The NINTENDO ENTERTAINMENT SYSTEM (NES) is an 8-bit video game console, which released in North America in 1985, and in Europe throughout 1986 and 1987. The console was initially released in Japan as the FAMILY COMPUTER (abbreviated as FAMICOM) in 1983. The best-selling gaming console of its time,[85] the NES helped revitalize the US video game industry following the video game crash of 1983.[86] With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute games for Nintendo's platform.[87] The NES was bundled with _Super Mario Bros._, one of the best-selling video games of all time, and received ports of Nintendo's most popular arcade games.[88]
 
@@ -126,7 +126,7 @@ Nintendo produced a limited run of the NES Classic Edition in 2016. The NES Clas
 
 Super Nintendo Entertainment System
 
-SNES-Mod1-Console-Set.jpg, the successor to the Nintendo Entertainment System]]
+, the successor to the Nintendo Entertainment System]]
 
 The SUPER NINTENDO ENTERTAINMENT SYSTEM (SUPER NES or SNES) is a 16-bit video game console, which was released in North America in 1991, and in Europe in 1992. The console was initially released in Japan in 1990 as the SUPER FAMICOM, officially adopting the colloquially abbreviated name of its predecessor. The console introduced advanced graphics and sound capabilities compared with other consoles at the time. Soon, the development of a variety of enhancement chips which were integrated onto each new game cartridge's circuit boards, progressed the SNES's competitive edge. While even crude three-dimensional graphics had previously rarely been seen on home consoles,[90] the Super NES's enhancement chips suddenly enabled a new caliber of games containing increasingly sophisticated faux 3D effects as seen in 1991's _Pilotwings_ and 1992's _Super Mario Kart_. Argonaut Games developed the Super FX chip in order to replicate 3D graphics from their earlier Atari ST and Amiga _Starglider_ series on the Super NES (more specifically, _Starglider 2_),[91] starting with _Star Fox_ in 1993. The SNES is the best-selling console of the 16-bit era although having experienced a relatively late start and fierce competition from Sega's Mega Drive/Genesis console.
 
@@ -134,31 +134,31 @@ Nintendo also released a limited run of the Super NES Classic Edition in Septemb
 
 Nintendo 64
 
-Nintendo-64-wController-L.jpg, named for its 64-bit graphics, was Nintendo's first home console to feature 3D computer graphics]]
+, named for its 64-bit graphics, was Nintendo's first home console to feature 3D computer graphics]]
 
 The NINTENDO 64 was released in 1996, featuring 3D polygon model rendering capabilities and built-in multiplayer for up to four players. The system's controller introduced the analog stick and later introduced the Rumble Pak, an accessory for the controller that produces force feedback with compatible games. Both are the first such features to have come to market for home console gaming and eventually became the _de facto_ industry standard.[92] Announced in 1995, prior to the console's 1996 launch, the 64DD ("DD" standing for "Disk Drive") was designed to enable the development of new genre of video games[93] by way of 64 MB writable magnetic disks, video editing, and Internet connectivity. Eventually released only in Japan in 1999, the 64DD peripheral's commercial failure there resulted in only nine games being released and precluded further worldwide release.
 
 GameCube
 
-GameCube-Console-Set.png is Nintendo's first home console to use optical discs as a primary storage medium]]
+is Nintendo's first home console to use optical discs as a primary storage medium]]
 
 The GAMECUBE (officially called NINTENDO GAMECUBE, abbreviated NGC in Japan and GCN in North America) was released in 2001, in Japan and North America, and in 2002 worldwide. The sixth-generation console is the successor to the Nintendo 64 and competed with Sony's PlayStation 2, Microsoft's Xbox, and Sega's Dreamcast. The GameCube is the first Nintendo console to use optical discs as its primary storage medium.[94] The discs are similar to the miniDVD format, but the system was not designed to play standard DVDs or audio CDs. Nintendo introduced a variety of connectivity options for the GameCube. The GameCube's game library has sparse support for Internet gaming, a feature that requires the use of the aftermarket GameCube Broadband Adapter and Modem Adapter. The GameCube supports connectivity to the Game Boy Advance, allowing players to access exclusive in-game features using the handheld as a second screen and controller.
 
 Wii
 
-Wii-Console.png, Nintendo's best selling home video game console and first to use motion controls]]
+, Nintendo's best selling home video game console and first to use motion controls]]
 
 The WII was released during the holiday season of 2006 worldwide. The system features the Wii Remote controller, which can be used as a handheld pointing device and which detects movement in three dimensions. Another notable feature of the console is WiiConnect24, which enables it to receive messages and updates over the Internet while in standby mode.[95] It also features a game download service, called "Virtual Console", which features emulated games from past systems. Since its release, the Wii has spawned many peripheral devices, including the Wii Balance Board and Motion Plus, and has had several hardware revisions. The _Wii Family Edition_ variant is identical to the original model, but is designed to sit horizontally and removes the GameCube compatibility. The _Wii Mini_ is a smaller, redesigned Wii which lacks GameCube compatibility, online connectivity, GameCube compatibility, the SD card slot and Wi-Fi support, and has only one USB port unlike the previous models' two.[96][97]
 
 Wii U
 
-Wii_U_Console_and_Gamepad.png, the successor to the Wii]]
+, the successor to the Wii]]
 
 The WII U, the successor to the Wii, was released during the holiday season of 2012 worldwide.[98][99] The Wii U is the first Nintendo console to support high-definition graphics. The Wii U's primary controller is the Wii U GamePad, which features an embedded touchscreen. Each game may be designed to use this touchscreen as supplemental to the main TV, or as the only screen for Off-TV Play. The system supports most Wii controllers and accessories, and the more classically shaped Wii U Pro Controller.[100] The system is backward compatible with Wii software and accessories; this mode also utilizes Wii-based controllers, and it optionally offers the GamePad as its primary Wii display and motion sensor bar. The console has various online services powered by Nintendo Network, including: the Nintendo eShop for online distribution of software and content; and Miiverse, a social network which can be variously integrated with games and applications. As of 31 March 2018, worldwide Wii U sales had totalled over 13 million units, with over 100 million games and other software for it sold.[101]
 
 Nintendo Switch
 
-Nintendo-Switch-Console-Docked-wJoyConRB.jpg.]]
+.]]
 
 On 17 March 2015, Nintendo announced a new "dedicated games platform with a brand new concept" with the codename "NX" that would be further revealed in 2016.[102][103] Reggie Fils-Aimé, president of Nintendo of America at the time, referred to NX as "our next home console" in a June 2015 interview with _The Wall Street Journal_.[104] In a later article on 16 October 2015, _The Wall Street Journal_ relayed speculation from unnamed inside sources that, although the NX hardware specifications were unknown, it may be intended to feature "industry leading" hardware specifications and include both a console and a mobile unit that could either be used with the console or taken on the road for separate use. It was also reported that Nintendo had begun distributing software development kits (SDKs) for NX to third-party developers, with the unnamed source further speculating that these moves "[suggest that] the company is on track to introduce [NX] as early as [2016]."[105] At an investor's meeting on 27 April 2016, Nintendo announced that the NX would be released worldwide in March 2017.[106] In an interview with Asahi Shimbun in May 2016, Kimishima referred to the NX as "neither the successor to the Wii U nor to the 3DS", as well as it being a "new way of playing games," but it would "slow Wii U sales" upon reveal and dissemination.[107] In June 2016, Miyamoto stated that the reason Nintendo had not released any information on the "NX" up until that point was because they were afraid of imitators, saying he and Nintendo thought other companies could copy "an idea that [they're] working on."[108][109] The same day, Kimishima revealed during a Q&A session with investors that they were also researching virtual reality.[110] On 19 October 2016, Nintendo announced they would release a trailer for the console the following day.[111] The next day, Nintendo unveiled the trailer that revealed the final name of the platform called Nintendo Switch.[112] By March 2018, over 17 million Switch units had been sold worldwide.[113]
 
@@ -170,7 +170,7 @@ GAME & WATCH is a line of handheld electronic games produced by Nintendo from 19
 
 Game Boy
 
-Game-Boy-FL.jpg After the success of the _Game & Watch_ series, Yokoi developed the GAME BOY handheld console, which was released in 1989. Eventually becoming the best-selling handheld of all time, the Game Boy remained dominant for more than a decade, seeing critically and commercially popular games such as _Pokémon Yellow_ released as late as 1998 in Japan, 1999 in North America, and 2000 in Europe. Incremental updates of the Game Boy, including _Game Boy Pocket_, _Game Boy Light_ and _Game Boy Color_, did little to change the original formula, though the latter introduced color graphics to the Game Boy line.
+After the success of the _Game & Watch_ series, Yokoi developed the GAME BOY handheld console, which was released in 1989. Eventually becoming the best-selling handheld of all time, the Game Boy remained dominant for more than a decade, seeing critically and commercially popular games such as _Pokémon Yellow_ released as late as 1998 in Japan, 1999 in North America, and 2000 in Europe. Incremental updates of the Game Boy, including _Game Boy Pocket_, _Game Boy Light_ and _Game Boy Color_, did little to change the original formula, though the latter introduced color graphics to the Game Boy line.
 
 Game Boy Advance
 
@@ -178,11 +178,11 @@ The first major update to its handheld line since 1989, the GAME BOY ADVANCE fea
 
 Nintendo DS
 
-Nintendo-DS-Lite-Black-Open.jpg is the best-selling handheld console of all time]] Although originally advertised as an alternative to the Game Boy Advance, the NINTENDO DS replaced the Game Boy line after its initial release in 2004.[116] It was distinctive for its dual screens and a microphone, as well as a touch-sensitive lower screen. The _Nintendo DS Lite_ brought a smaller form factor[117] while the _Nintendo DSi_ features larger screens and two cameras,[118] and was followed by an even larger model, the _Nintendo DSi XL_, with a 90% bigger screen.[119]
+is the best-selling handheld console of all time]] Although originally advertised as an alternative to the Game Boy Advance, the NINTENDO DS replaced the Game Boy line after its initial release in 2004.[116] It was distinctive for its dual screens and a microphone, as well as a touch-sensitive lower screen. The _Nintendo DS Lite_ brought a smaller form factor[117] while the _Nintendo DSi_ features larger screens and two cameras,[118] and was followed by an even larger model, the _Nintendo DSi XL_, with a 90% bigger screen.[119]
 
 Nintendo 3DS
 
-Nintendo-3DS-XL-angled.jpg Further expanding the Nintendo DS line, the NINTENDO 3DS uses the process of autostereoscopy to produce a stereoscopic three-dimensional effect without glasses.[120] Released to major markets during 2011, the 3DS got off to a slow start, initially missing many key features that were promised before the system launched.[121] Partially as a result of slow sales, Nintendo stock declined in value. Subsequent price cuts and game releases helped to boost 3DS and 3DS software sales and to renew investor confidence in the company.[122] As of August 2013, the 3DS was the best selling console in the United States for four consecutive months.[123] The _Nintendo 3DS XL_ was introduced in August 2012 and includes a 90% larger screen, a 4 GB SD card and extended battery life. In August 2013, Nintendo announced the cost-reduced _Nintendo 2DS_, a version of the 3DS without the 3D display. It has a slate-like design as opposed to the hinged, clamshell design of its predecessors.
+Further expanding the Nintendo DS line, the NINTENDO 3DS uses the process of autostereoscopy to produce a stereoscopic three-dimensional effect without glasses.[120] Released to major markets during 2011, the 3DS got off to a slow start, initially missing many key features that were promised before the system launched.[121] Partially as a result of slow sales, Nintendo stock declined in value. Subsequent price cuts and game releases helped to boost 3DS and 3DS software sales and to renew investor confidence in the company.[122] As of August 2013, the 3DS was the best selling console in the United States for four consecutive months.[123] The _Nintendo 3DS XL_ was introduced in August 2012 and includes a 90% larger screen, a 4 GB SD card and extended battery life. In August 2013, Nintendo announced the cost-reduced _Nintendo 2DS_, a version of the 3DS without the 3D display. It has a slate-like design as opposed to the hinged, clamshell design of its predecessors.
 
 A hardware revision, _New Nintendo 3DS_, was unveiled in August 2014. It is produced in a standard-sized model and a larger XL model; both models feature upgraded processors and additional RAM, an eye-tracking sensor to improve the stability of the autostereoscopic 3D image, colored face buttons, and near-field communication support for native use of Amiibo products. The standard-sized model also features slightly larger screens, and support for faceplate accessories.[124]
 

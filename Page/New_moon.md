@@ -1,4 +1,4 @@
-New_Moon.jpg and Starlight]] In astronomy, the _' new moon_' is the first lunar phase, when the Moon and Sun have the same ecliptic longitude.[1] At this phase, the lunar disk is not visible to the unaided eye, except when silhouetted during a solar eclipse. Daylight outshines the earthlight that dimly illuminates the new moon. The actual phase is usually a very thin crescent.[2]
+and Starlight]] In astronomy, the _' new moon_' is the first lunar phase, when the Moon and Sun have the same ecliptic longitude.[1] At this phase, the lunar disk is not visible to the unaided eye, except when silhouetted during a solar eclipse. Daylight outshines the earthlight that dimly illuminates the new moon. The actual phase is usually a very thin crescent.[2]
 
 The original meaning of the term _new moon_, which is still sometimes used in non-astronomical contexts, was the first visible crescent of the Moon, after conjunction with the Sun.[3] This crescent moon is briefly visible when low above the western horizon shortly after sunset and before moonset.
 
@@ -7,7 +7,7 @@ A LUNATION or synodic month is the average time from one new moon to the next. I
 
 Formula for New Moons
 
-Moon_phase_0.svg The length of a lunation is about 29.53 days. Its precise duration is linked to many phenomena in nature, such as the variation between spring and neap tides (the most and least profound tidal variances respectively). An approximate formula to compute the mean moments of new moon (conjunction between Sun and Moon) for successive months is:
+The length of a lunation is about 29.53 days. Its precise duration is linked to many phenomena in nature, such as the variation between spring and neap tides (the most and least profound tidal variances respectively). An approximate formula to compute the mean moments of new moon (conjunction between Sun and Moon) for successive months is:
 
     d = 5.597661 + 29.5305888610 × N + (102.026 × 10^( − 12)) × N²
 
@@ -25,7 +25,7 @@ The long-term error of the formula is approximately: 1 cy² seconds in TT, and 1
 
 Explanation of the formula
 
-New_Moon_at_sunset.jpg The moment of mean conjunction can easily be computed from an expression for the mean ecliptical longitude of the Moon minus the mean ecliptical longitude of the Sun (Delauney parameter _D_). Jean Meeus gave formulae to compute this in his _Astronomical Formulae for Calculators_ based on the ephemerides of Brown and Newcomb (ca. 1900); and in his 1st edition of _Astronomical Algorithms_[7] based on the ELP2000-85[8] (the 2nd edition uses ELP2000-82 with improved expressions from Chapront _et al._ in 1998). These are now outdated: Chapront _et al._ (2002)[9] published improved parameters. Also Meeus's formula uses a fractional variable to allow computation of the four main phases, and uses a second variable for the secular terms. For the convenience of the reader, the formula given above is based on Chapront's latest parameters and expressed with a single integer variable, and the following additional terms have been added:
+The moment of mean conjunction can easily be computed from an expression for the mean ecliptical longitude of the Moon minus the mean ecliptical longitude of the Sun (Delauney parameter _D_). Jean Meeus gave formulae to compute this in his _Astronomical Formulae for Calculators_ based on the ephemerides of Brown and Newcomb (ca. 1900); and in his 1st edition of _Astronomical Algorithms_[7] based on the ELP2000-85[8] (the 2nd edition uses ELP2000-82 with improved expressions from Chapront _et al._ in 1998). These are now outdated: Chapront _et al._ (2002)[9] published improved parameters. Also Meeus's formula uses a fractional variable to allow computation of the four main phases, and uses a second variable for the secular terms. For the convenience of the reader, the formula given above is based on Chapront's latest parameters and expressed with a single integer variable, and the following additional terms have been added:
 
 constant term:
 

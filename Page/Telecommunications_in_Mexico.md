@@ -1,6 +1,5 @@
               Telecommunications
   ------------------------------------------
-               Telmexstore.jpg
    _Telmex Retail Store in Puerto Vallarta_
              Telephone land lines
                  Mobile lines

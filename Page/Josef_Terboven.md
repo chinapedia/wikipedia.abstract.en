@@ -15,7 +15,7 @@ He then went to work full-time for the Nazi party. Terboven helped establish the
 
 Rule of Norway
 
-Bundesarchiv_Bild_101III-Moebius-029-12,_Norwegen,_Besuch_Himmler,_Terboven_und_Quisling.jpg, Himmler and von Falkenhorst.]] Terboven was made Reichskommissar for Norway on 24 April 1940, even before the military invasion was completed on 7 June 1940. He moved into the Norwegian crown prince's residence at Skaugum in September 1940 and made his headquarters in Stortinget (the Norwegian parliament buildings). Ilse and their daughter Inge did not accompany him to Norway, remaining in Germany.
+, Himmler and von Falkenhorst.]] Terboven was made Reichskommissar for Norway on 24 April 1940, even before the military invasion was completed on 7 June 1940. He moved into the Norwegian crown prince's residence at Skaugum in September 1940 and made his headquarters in Stortinget (the Norwegian parliament buildings). Ilse and their daughter Inge did not accompany him to Norway, remaining in Germany.
 
 Terboven only had supervisory authority over the civilian administration in Norway. The German civilian administration did not rule Norway directly, however, and remained relatively small. Daily affairs were managed by the existing Norwegian state administration, headed by an acting cabinet and then by the Quisling cabinet. Terboven did not have authority over the 400,000 regular German Army forces stationed in Norway which were the command of General Nikolaus von Falkenhorst, but he did command a personal force of around 6,000 men, of whom 800 were part of the secret police.
 

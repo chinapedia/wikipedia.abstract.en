@@ -45,8 +45,6 @@ In later years his behavior became quite eccentric. According to associate B. A.
 
 On Heaviside's religious views, he was a Unitarian, but not a religious one. He was even said to have made fun of people who put their faith in a supreme being.[19]
 
-Comparison_of_before_and_after_the_monument_restoration.PNG
-
 Heaviside died on 3 February 1925, at Torquay in Devon after falling from a ladder,[20] and is buried near the eastern corner of Paignton cemetery. He is buried with his father, Thomas Heaviside (1813–1896) and his mother, Rachel Elizabeth Heaviside. The gravestone was cleaned thanks to an anonymous donor sometime in 2005.[21] Most of his recognition was gained posthumously.
 
 Heaviside Memorial Project

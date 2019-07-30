@@ -29,7 +29,7 @@ Although his first love was drama and he had achieved some success with his occa
 
 1960s
 
-Massey_college.jpgIn 1960, Davies joined Trinity College at the University of Toronto, where he would teach literature until 1981. The following year he published a collection of essays on literature, _A Voice From the Attic_, and was awarded the Lorne Pierce Medal for his literary achievements.[14]
+In 1960, Davies joined Trinity College at the University of Toronto, where he would teach literature until 1981. The following year he published a collection of essays on literature, _A Voice From the Attic_, and was awarded the Lorne Pierce Medal for his literary achievements.[14]
 
 In 1963, he became the Master of Massey College, the University of Toronto's new graduate college.[15] During his stint as Master, he initiated a tradition of writing and telling ghost stories at the yearly Christmas celebrations.[16] His stories were later collected in the book, _High Spirits_ (1982).[17]
 

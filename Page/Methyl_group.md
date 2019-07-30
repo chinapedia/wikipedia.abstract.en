@@ -1,5 +1,3 @@
-Methyl_Group_General_Formulae_V.1.png
-
 A METHYL GROUP is an alkyl derived from methane, containing one carbon atom bonded to three hydrogen atoms — CH₃. In formulas, the group is often abbreviated ME. Such hydrocarbon groups occur in many organic compounds. It is a very stable group in most molecules. While the methyl group is usually part of a larger molecule, it can be found on its own in any of three forms: anion, cation or radical. The anion has eight valence electrons, the radical seven and the cation six. All three forms are highly reactive and rarely observed.[1]
 
 

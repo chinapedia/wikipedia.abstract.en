@@ -1,4 +1,4 @@
-thumb|upright=2|Some knots Knopar_-_2017.jpg with different knots.]] A KNOT is an intentional complication in cordage which may be useful or decorative. Practical knots may be classified as hitches, bends, splices, or knots. A _hitch_ fastens a rope to another object; a _bend_ unites two rope ends; a _splice_ is a multi-strand bend or loop.[1] A _knot_ in the strictest sense serves as a stopper or knob at the end of a rope to keep that end from slipping through a grommet or eye. Knots have excited interest since ancient times for their practical uses, as well as their topological intricacy, studied in the area of mathematics known as knot theory.
+thumb|upright=2|Some knots with different knots.]] A KNOT is an intentional complication in cordage which may be useful or decorative. Practical knots may be classified as hitches, bends, splices, or knots. A _hitch_ fastens a rope to another object; a _bend_ unites two rope ends; a _splice_ is a multi-strand bend or loop.[1] A _knot_ in the strictest sense serves as a stopper or knob at the end of a rope to keep that end from slipping through a grommet or eye. Knots have excited interest since ancient times for their practical uses, as well as their topological intricacy, studied in the area of mathematics known as knot theory.
 
 
 Use
@@ -7,7 +7,7 @@ There is a large variety of knots, each with properties that make it suitable fo
 
 Teaching
 
-School_for_Sailors_NGM-v31-p351.jpg in the early 20th century]] Sjömanssäck_-_1991.jpg While some people can look at diagrams or photos and tie the illustrated knots, others learn best by watching how a knot is tied. Knot tying skills are often transmitted by sailors, scouts, climbers, canyoners, cavers, arborists, rescue professionals, stagehands, fishermen, linemen and surgeons. The International Guild of Knot Tyers is an organization dedicated to the promotion of knot tying.
+in the early 20th century]] While some people can look at diagrams or photos and tie the illustrated knots, others learn best by watching how a knot is tied. Knot tying skills are often transmitted by sailors, scouts, climbers, canyoners, cavers, arborists, rescue professionals, stagehands, fishermen, linemen and surgeons. The International Guild of Knot Tyers is an organization dedicated to the promotion of knot tying.
 
 Applications
 
@@ -42,7 +42,7 @@ Even with secure knots, slippage may occur when the knot is first put under real
 
 Capsizing
 
-Bowline_(PSF).jpg]] To capsize (or spill) a knot is to change its form and rearrange its parts, usually by pulling on specific ends in certain ways.[6] When used inappropriately, some knots tend to capsize easily or even spontaneously. Often the capsized form of the knot offers little resistance to slipping or unraveling. A reef knot, when misused as a bend, can capsize dangerously.
+]] To capsize (or spill) a knot is to change its form and rearrange its parts, usually by pulling on specific ends in certain ways.[6] When used inappropriately, some knots tend to capsize easily or even spontaneously. Often the capsized form of the knot offers little resistance to slipping or unraveling. A reef knot, when misused as a bend, can capsize dangerously.
 
 Sometimes a knot is intentionally capsized as a method of tying another knot, as with the "lightning method" of tying a bowline. Some knots, such as the carrick bend, are generally tied in one form then capsized to obtain a stronger or more stable form.
 
@@ -56,8 +56,6 @@ Knots differ in the effort required to untie them after loading. Knots that are 
 
 
 Components
-
-Eyes_and_turns.jpg
 
 
 
@@ -157,7 +155,7 @@ Trick knots are knots that are used as part of a magic trick, a joke, or a puzzl
 
 Knot theory
 
-TrefoilKnot_01.svg is a mathematical version of an overhand knot.]]
+is a mathematical version of an overhand knot.]]
 
 Knot theory is a branch of topology. It deals with the mathematical analysis of knots, their structure and properties, and with the relationships between different knots. In topology, a knot is a figure consisting of a single loop with any number of crossing or knotted elements: a closed curve in space which may be moved around so long as its strands never pass through each other. As a closed loop, a mathematical knot has no proper ends, and cannot be undone or untied; however, any physical knot in a piece of string can be thought of as a mathematical knot by fusing the two ends. A configuration of several knots winding around each other is called a _link_. Various mathematical techniques are used to classify and distinguish knots and links. For instance, the Alexander polynomial associates certain numbers with any given knot; these numbers are different for the trefoil knot, the figure-eight knot, and the unknot (a simple loop), showing that one cannot be moved into the other (without strands passing through each other).[9]
 

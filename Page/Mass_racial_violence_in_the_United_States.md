@@ -56,19 +56,15 @@ In 1891, a mob lynched Joe Coe, a black worker in Omaha, Nebraska suspected of a
 
 Twentieth-century events
 
-East_St_Louis_Massacre_cartoon,_Morris.jpg 101st_Airborne_at_Little_Rock_Central_High.jpg safeguard black children on the way to school in Little Rock, during protest actions.]]
+safeguard black children on the way to school in Little Rock, during protest actions.]]
 
-Wattsriots-burningbuildings-loc.jpg
+make arrests during protest actions.]]
 
-Wattsriots-policearrest-loc.jpg make arrests during protest actions.]]
+of National guard after riots in Los Angeles in 1992]]
 
-ANG40InfantryDivisionLosAngelesRiot1992.jpg of National guard after riots in Los Angeles in 1992]]
-
-Labor and immigrant conflict was a source of tensions that catalyzed as the East St. Louis riot of 1917. White rioters, many of them ethnic immigrants, killed an estimated 100 black residents of East St. Louis, after black residents had killed two white policemen, mistaking the car they were riding in for a previous car of white occupants who drove through a black neighborhood and fired randomly into a crowd of black people . chicago-race-riot.jpg]] White-on-Black race riots include the Atlanta riots (1906), the Omaha and Chicago riots (1919), part of a series of riots in the volatile post-World War I environment, and the Tulsa riots (1921).
+Labor and immigrant conflict was a source of tensions that catalyzed as the East St. Louis riot of 1917. White rioters, many of them ethnic immigrants, killed an estimated 100 black residents of East St. Louis, after black residents had killed two white policemen, mistaking the car they were riding in for a previous car of white occupants who drove through a black neighborhood and fired randomly into a crowd of black people . ]] White-on-Black race riots include the Atlanta riots (1906), the Omaha and Chicago riots (1919), part of a series of riots in the volatile post-World War I environment, and the Tulsa riots (1921).
 
 The Chicago race riot of 1919 grew out of tensions on the Southside, where Irish descendants and African Americans competed for jobs at the stockyards, and where both were crowded into substandard housing. The Irish descendants had been in the city longer, and were organized around athletic and political clubs.
-
-Tulsariotpostcard1.jpg
 
 A young black Chicagoan, Eugene Williams, paddled a raft near a Southside Lake Michigan beach into "white territory", and drowned after being hit by a rock thrown by a young white man. Witnesses pointed out the killer to a policeman, who refused to make an arrest. An indignant black mob attacked the officer.[14] Violence broke out across the city. White mobs, many of them organized around Irish athletic clubs, began pulling black people off trolley cars, attacking black businesses, and beating victims. Having learned from the East St. Louis riot, the city closed down the street car system, but the rioting continued. A total of 23 black people and 15 white people were killed.[15]
 

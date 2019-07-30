@@ -47,7 +47,7 @@ At the 1999 French Open, Rafter drew future World No. 1 and 20-time Grand Slam c
 
 2000: Wimbledon runner-up
 
-Rafter3.jpg in 2001.]] Rafter's ranking had fallen to No. 21 by the time he reached the Wimbledon final in July 2000. In the semifinals, he defeated Agassi 7–5, 4–6, 7–5, 4–6, 6–3. The match was hailed as a classic, particularly because of their contrasting playing styles, with Agassi playing primarily from the baseline and Rafter attacking the net. Rafter faced Sampras in the final, who was gunning for a record-breaking seventh Wimbledon title overall (and seven in the past eight years). While Rafter made a strong start to the match and took the first set, after the match he would claim that he had "choked" part way through the second set, and was then not able to get back into his game. Sampras won in four sets.
+in 2001.]] Rafter's ranking had fallen to No. 21 by the time he reached the Wimbledon final in July 2000. In the semifinals, he defeated Agassi 7–5, 4–6, 7–5, 4–6, 6–3. The match was hailed as a classic, particularly because of their contrasting playing styles, with Agassi playing primarily from the baseline and Rafter attacking the net. Rafter faced Sampras in the final, who was gunning for a record-breaking seventh Wimbledon title overall (and seven in the past eight years). While Rafter made a strong start to the match and took the first set, after the match he would claim that he had "choked" part way through the second set, and was then not able to get back into his game. Sampras won in four sets.
 
 2001
 

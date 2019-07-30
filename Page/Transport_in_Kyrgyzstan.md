@@ -1,9 +1,9 @@
-Osh182.jpg TRANSPORT IN KYRGYZSTAN is severely constrained by the country's alpine topography. Roads have to snake up steep valleys, cross passes of altitude and more, and are subject to frequent mud slides and snow avalanches. Winter travel is close to impossible in many of the more remote and high-altitude regions. Additional problems are because many roads and railway lines built during the Soviet period are today intersected by international boundaries, requiring time-consuming border formalities to cross where they are not completely closed. The horse is still a much used transport option, especially in rural and inaccessible areas, as it does not depend on imported fuel. For transport in the Soviet Union, see Transport in the Soviet Union.
+TRANSPORT IN KYRGYZSTAN is severely constrained by the country's alpine topography. Roads have to snake up steep valleys, cross passes of altitude and more, and are subject to frequent mud slides and snow avalanches. Winter travel is close to impossible in many of the more remote and high-altitude regions. Additional problems are because many roads and railway lines built during the Soviet period are today intersected by international boundaries, requiring time-consuming border formalities to cross where they are not completely closed. The horse is still a much used transport option, especially in rural and inaccessible areas, as it does not depend on imported fuel. For transport in the Soviet Union, see Transport in the Soviet Union.
 
 
 Railways
 
-E7939-Bishkek-rail-overpass.jpg The Kyrgyz Railway is currently responsible for railway development and maintenance in the country. The Chuy Valley in the north and the Fergana Valley in the south were endpoints of the Soviet Union's rail system in Central Asia. Following the emergence of independent post-Soviet states, the rail lines which were built without regard for administrative boundaries have been cut by borders, and traffic is therefore severely curtailed. The small bits of rail lines within Kyrgyzstan, about 370 km of broad gauge in total, have little economic value in the absence of the former bulk traffic over long distances to and from such centers as Tashkent, Almaty and the cities of Russia.
+The Kyrgyz Railway is currently responsible for railway development and maintenance in the country. The Chuy Valley in the north and the Fergana Valley in the south were endpoints of the Soviet Union's rail system in Central Asia. Following the emergence of independent post-Soviet states, the rail lines which were built without regard for administrative boundaries have been cut by borders, and traffic is therefore severely curtailed. The small bits of rail lines within Kyrgyzstan, about 370 km of broad gauge in total, have little economic value in the absence of the former bulk traffic over long distances to and from such centers as Tashkent, Almaty and the cities of Russia.
 
 There are vague plans about extending rail lines from Balykchy in the north and/or from Osh in the south into the People's Republic of China, but the cost of construction would be enormous.
 
@@ -21,7 +21,7 @@ Maps
 
 Highways
 
-E8103-Bishkek-West-Bus-Terminal.jpg With support from the Asian Development Bank, a major road linking the north and southwest from Bishkek to Osh has recently been completed. This considerably eases communication between the two major population centers of the country—the Chuy Valley in the north and the Fergana Valley in the South. An offshoot of this road branches off across a 3,500 meter pass into the Talas Valley in the northwest. Plans are now being formulated to build a major road from Osh into the People's Republic of China.
+With support from the Asian Development Bank, a major road linking the north and southwest from Bishkek to Osh has recently been completed. This considerably eases communication between the two major population centers of the country—the Chuy Valley in the north and the Fergana Valley in the South. An offshoot of this road branches off across a 3,500 meter pass into the Talas Valley in the northwest. Plans are now being formulated to build a major road from Osh into the People's Republic of China.
 
 The total length of the road network in Kyrgyzstan is approximately 34,000 km. Of them, 18,810 km are public roads directly subordinated to the Ministry of Transport and Communications, and 15,190 km - other roads (village, agricultural, industrial,etc.). By their status the roads of the Ministry of Transport and Communications are classified as:
 
@@ -55,7 +55,7 @@ Kyrgyzstan's only port is Balykchy, a fishing town on Issyk Kul Lake. None of Ky
 
 Airports
 
-Antonov_An-2_Tamchi.jpg village on Issyk Kul Lake's north shore]] Kyrgyzstan_Air_Antonov_AN-24_prepares_for_flight_QH6_to_Bishkek,_Jalal-Abad_Airport,_Kyrgyzstan,_March_7,_2010.JPG Antonov AN-24 in Jalal-Abad Airport prepares for flight to Bishkek, March 7, 2010.]] At the end of the Soviet period there were about 50 airports and airstrips in Kyrgyzstan, many of them built primarily to serve military purposes in this border region so close to China. Only a few of them remain in service today.
+village on Issyk Kul Lake's north shore]] Antonov AN-24 in Jalal-Abad Airport prepares for flight to Bishkek, March 7, 2010.]] At the end of the Soviet period there were about 50 airports and airstrips in Kyrgyzstan, many of them built primarily to serve military purposes in this border region so close to China. Only a few of them remain in service today.
 
 There are four airports with international flights, namely in Bishkek, Osh, Tamchy and Karakol.
 

@@ -15,13 +15,13 @@ Voroshilov headed the Petrograd Police during 1917 and 1918.
 
 Soviet political and military career
 
-The_red_banner_from_the_Commune,_brought_to_Moscow_by_French_communists.jpg, brought to Moscow by French communists. On the photo: Kliment Voroshilov first on the right, Grigory Zinoviev third from the right, Avel Enukidze fourth from the right and Nikolay Antipov fifth from the right. 1924 ]] Voroshilov served as a member of the Central Committee from his election in 1921 until 1961. In 1925, after the death of Mikhail Frunze, Voroshilov was appointed People's Commissar for Military and Navy Affairs and Chairman of the Revolutionary Military Council of the USSR, a post he held until 1934. His main accomplishment in this period was to move key Soviet war industries east of the Urals, so that the Soviet Union could strategically retreat, while keeping its manufacturing capability intact.[6] Frunze's political position adhered to that of the Troika (Grigory Zinoviev, Lev Kamenev, Stalin), but Stalin preferred to have a close, personal ally in charge (as opposed to Frunze, a "Zinovievite"). Frunze was urged by a group of Stalin's hand-picked doctors to have surgery to treat an old stomach ulcer, despite previous doctors recommendations to avoid surgery and Frunze's own unwillingness.[7] He died on the operating table of a massive overdose of chloroform, an anaesthetic.[8] Voroshilov became a full member of the newly formed Politburo in 1926, remaining a member until 1960.
+, brought to Moscow by French communists. On the photo: Kliment Voroshilov first on the right, Grigory Zinoviev third from the right, Avel Enukidze fourth from the right and Nikolay Antipov fifth from the right. 1924 ]] Voroshilov served as a member of the Central Committee from his election in 1921 until 1961. In 1925, after the death of Mikhail Frunze, Voroshilov was appointed People's Commissar for Military and Navy Affairs and Chairman of the Revolutionary Military Council of the USSR, a post he held until 1934. His main accomplishment in this period was to move key Soviet war industries east of the Urals, so that the Soviet Union could strategically retreat, while keeping its manufacturing capability intact.[6] Frunze's political position adhered to that of the Troika (Grigory Zinoviev, Lev Kamenev, Stalin), but Stalin preferred to have a close, personal ally in charge (as opposed to Frunze, a "Zinovievite"). Frunze was urged by a group of Stalin's hand-picked doctors to have surgery to treat an old stomach ulcer, despite previous doctors recommendations to avoid surgery and Frunze's own unwillingness.[7] He died on the operating table of a massive overdose of chloroform, an anaesthetic.[8] Voroshilov became a full member of the newly formed Politburo in 1926, remaining a member until 1960.
 
-Kaganovich_stalin_postyshev_voroshilov1934.jpg, Stalin, Postyshev, Voroshilov (1934)]]
+, Stalin, Postyshev, Voroshilov (1934)]]
 
 Voroshilov was appointed People's Commissar (Minister) for Defence in 1934 and a Marshal of the Soviet Union in 1935. He played a central role in Stalin's Great Purge of the 1930s, denouncing many of his own military colleagues and subordinates when asked to do so by Stalin. He wrote personal letters to exiled former Soviet officers and diplomats such as commissar Mikhail Ostrovsky, asking them to return voluntarily to the Soviet Union and falsely reassuring them that they would not face retribution from authorities.[9] Voroshilov personally signed 185 documented execution lists, fourth among the Soviet leadership after Molotov, Stalin and Kaganovich.[10]
 
-5marshals_01.jpg, Blyukher, Yegorov, Voroshilov and Tukhachevsky (November 1935). Only Voroshilov and Budyonny would survive Stalin's Great Purge.]]
+, Blyukher, Yegorov, Voroshilov and Tukhachevsky (November 1935). Only Voroshilov and Budyonny would survive Stalin's Great Purge.]]
 
 World War II
 
@@ -43,7 +43,7 @@ Stalin's death on 5 March 1953 prompted major changes in the Soviet leadership. 
 
 Fall from grace
 
-After Khrushchev removed most of the old Stalinists like Molotov and Malenkov from the party, Voroshilov's career began to fade. On 7 May 1960, the Supreme Soviet of the Soviet Union granted Voroshilov's request for retirement and elected Leonid Brezhnev chairman of the Presidium of the Supreme Council (the head of state). The Central Committee also relieved him of duties as a member of the Party Presidium (as the Politburo had been called since 1952) on 16 July 1960. In October 1961, his political defeat was complete at the 22nd party congress when he was excluded from election to the Central Committee.Paasikivi_ja_Voroshilov.jpg in Helsinki]]Following Khrushchev's fall from power, Soviet leader Brezhnev brought Voroshilov out of retirement into a figurehead political post. Voroshilov was again re-elected to the Central Committee in 1966. Voroshilov was awarded a second medal of Hero of the Soviet Union 1968.
+After Khrushchev removed most of the old Stalinists like Molotov and Malenkov from the party, Voroshilov's career began to fade. On 7 May 1960, the Supreme Soviet of the Soviet Union granted Voroshilov's request for retirement and elected Leonid Brezhnev chairman of the Presidium of the Supreme Council (the head of state). The Central Committee also relieved him of duties as a member of the Party Presidium (as the Politburo had been called since 1952) on 16 July 1960. In October 1961, his political defeat was complete at the 22nd party congress when he was excluded from election to the Central Committee. in Helsinki]]Following Khrushchev's fall from power, Soviet leader Brezhnev brought Voroshilov out of retirement into a figurehead political post. Voroshilov was again re-elected to the Central Committee in 1966. Voroshilov was awarded a second medal of Hero of the Soviet Union 1968.
 
 
 Death
@@ -53,7 +53,7 @@ thumb in Moscow.]] Voroshilov died in 1969 in Moscow and was buried in the Kreml
 
 Personal life
 
-19730v.jpg in 1959]]
+in 1959]]
 
 Voroshilov was married to Ekaterina Voroshilova, born Golda Gorbman, who came from a Jewish Ukrainian family from Mardarovka. She changed her name when she converted to Orthodox Christianity in order to be allowed to marry Voroshilov. They met while both exiled in Arkhangelsk, where Ekaterina was sent in 1906. While both serving on the Tsaritsyn Front in 1918, where Ekaterina was helping orphans, they adopted a four-year-old orphan boy who they named Petya.[21] They also adopted the children of Mikhail Frunze following his death in 1925. During Stalin's rule they lived in the Kremlin at the Horse Guards.[22]
 

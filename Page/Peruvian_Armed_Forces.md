@@ -10,7 +10,7 @@ The Joint Command of the Armed Forces is tasked with the mission to "plan, prepa
 
 Army
 
-CEREMONIA_POR_EL_DÍA_DEL_EJÉRCITO_(11296858993).jpg Headquartered in Lima, it has a strength of 76,228 troops divided in four military regions with headquarters in Piura, Lima, Arequipa and Iquitos. Every military region is assigned several brigades of which there are different types, including infantry, cavalry and armored. There are also several groups and battalions which operate independently of the army's organization.
+Headquartered in Lima, it has a strength of 76,228 troops divided in four military regions with headquarters in Piura, Lima, Arequipa and Iquitos. Every military region is assigned several brigades of which there are different types, including infantry, cavalry and armored. There are also several groups and battalions which operate independently of the army's organization.
 
 The equipment of the Peruvian Army includes infantry weapons that include assault rifles and carbines such as the M16A2 and the M4A1 and pistols like the FN Five-seveN and Smith & Wesson M&P9.
 
@@ -19,7 +19,7 @@ Vehicles include several types of tanks (T-55 and AMX-13), armoured personnel ca
 
 Navy
 
-US_Navy_040703-N-1464F-001_The_Peruvian_cruiser_Almirante_Grau_CLM-81_fires_one_of_its_15.2_cm_caliber_cannons.jpg (CLM 81) firing its guns]]
+(CLM 81) firing its guns]]
 
 The Peruvian Navy (_Marina de Guerra del Perú_) is organized in five naval zones headquartered in Piura, Lima, Arequipa, Iquitos and Pucallpa. It has a strength of around 25,988 troops divided between the Pacific Operations and the Amazon Operations General Commands and the Coast Guard.
 
@@ -27,14 +27,14 @@ The Pacific fleet flagship is the guided-missile cruiser BAP Almirante Grau (CLM
 
 Marines
 
-Peruvian_Marines_2017.jpg The Peruvian Marines date back to 6 November 1821, when the Peruvian Navy requested a battalion of soldiers. Its first battle was an attack on the Spanish, successfully taking the city of Arica (today Tacna). Into the mid-20th century, the Peruvian Marines modernized their equipment and by the 1980s with the Shining Path emerging as a new threat to Peru, the Marines began to be tasked with counterterrorism operations.
+The Peruvian Marines date back to 6 November 1821, when the Peruvian Navy requested a battalion of soldiers. Its first battle was an attack on the Spanish, successfully taking the city of Arica (today Tacna). Into the mid-20th century, the Peruvian Marines modernized their equipment and by the 1980s with the Shining Path emerging as a new threat to Peru, the Marines began to be tasked with counterterrorism operations.
 
 As part of the Peruvian Navy, the Peruvian Marines utilize the equipment and logistics of the Navy. Various Marine battalions are based in Ancón, Iquitos, Mollendo, Pucallpa, Puno and Tumbes. The Peruvian Marines also have a Special Forces composed of the Espíritus Negros and Fuerza Delta, based on the American Delta Force and US Army Rangers.
 
 
 Air Force
 
-MIG-29SM-P.jpg is the main fighter of the Peruvian Air Force.]] On May 20, 1929, the aviation divisions of the Peruvian army and navy were merged into the Peruvian Aviation Corps (CAP, _Cuerpo de Aviación del Peru_). In 1950, the corps was reorganized again and became the Peruvian Air Force (FAP, _Fuerza Aérea del Perú_).
+is the main fighter of the Peruvian Air Force.]] On May 20, 1929, the aviation divisions of the Peruvian army and navy were merged into the Peruvian Aviation Corps (CAP, _Cuerpo de Aviación del Peru_). In 1950, the corps was reorganized again and became the Peruvian Air Force (FAP, _Fuerza Aérea del Perú_).
 
 The Peruvian Air Force is divided into six wing areas, headquartered in Piura, Chiclayo, Lima, Arequipa, Rioja and Iquitos. With a strength of 17,969 troops, the FAP counts in its arsenal with MiG-29 (interceptor) and Mirage 2000 (interdictor / multirole aircraft).
 

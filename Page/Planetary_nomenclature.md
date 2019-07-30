@@ -1,4 +1,4 @@
-MoonMap1.jpg, 1st edition (1881), predating IAU conventions]] PLANETARY NOMENCLATURE, like terrestrial nomenclature, is a system of uniquely identifying features on the surface of a planet or natural satellite so that the features can be easily located, described, and discussed. Since the invention of the telescope, astronomers have given names to the surface features they have discerned, especially on the Moon and Mars. To standardize planetary nomenclature, the International Astronomical Union (IAU) was assigned in 1919 the task of selecting official names for features on Solar System bodies.[1]
+, 1st edition (1881), predating IAU conventions]] PLANETARY NOMENCLATURE, like terrestrial nomenclature, is a system of uniquely identifying features on the surface of a planet or natural satellite so that the features can be easily located, described, and discussed. Since the invention of the telescope, astronomers have given names to the surface features they have discerned, especially on the Moon and Mars. To standardize planetary nomenclature, the International Astronomical Union (IAU) was assigned in 1919 the task of selecting official names for features on Solar System bodies.[1]
 
 
 How names are approved by the IAU
@@ -166,7 +166,7 @@ Categories for naming features on planets and satellites
 
 Mercury
 
-Mercury_h06_Kuiper_quadrangle.png.]]
+.]]
 
   Feature type   Current list   Naming convention
   -------------- -------------- ------------------------------------------------------------------------------------------------------------------------------
@@ -224,8 +224,6 @@ Mars and martian satellites
 
 Mars
 
-Karte_Mars_Schiaparelli_MKL1888.png
-
   Feature type     Naming convention
   ---------------- ----------------------------------------------------------------------------------------------------------------------------
   Large craters    Deceased scientists who have contributed to the study of Mars; writers and others who have contributed to the lore of Mars
@@ -238,7 +236,7 @@ When space probes have landed on Mars, individual small features such as rocks, 
 
 Deimos
 
-SwiftCrater.gif Features on Deimos are named after authors who wrote about Martian satellites. There are currently two named features on Deimos - Swift crater and Voltaire crater - after Jonathan Swift and Voltaire who predicted the presence of Martian moons.
+Features on Deimos are named after authors who wrote about Martian satellites. There are currently two named features on Deimos - Swift crater and Voltaire crater - after Jonathan Swift and Voltaire who predicted the presence of Martian moons.
 
 Phobos
 
@@ -357,8 +355,6 @@ People and places from Sayers' translation of _Chanson de Roland_, the only exce
 
 Phoebe
 
-Cratersofphoebe.jpg
-
   Feature type   Naming convention
   -------------- -----------------------------------------------------------------------------------------------------------------------------------------------
   Craters        Craters of Phoebe are named after people associated with Phoebe or people from _Argonautica_ by Apollonius Rhodius or Gaius Valerius Flaccus.
@@ -416,7 +412,7 @@ Features on other satellites of Neptune, once discovered, should be named after 
 
 Pluto and plutonian satellites
 
-Pluto-Map-Annotated.jpg on Pluto]]
+on Pluto]]
 
 In February 2017, the IAU approved the following themes for surface features on Pluto and its satellites:[5]
 
@@ -521,7 +517,7 @@ Notes
 
 References
 
--   PD-icon.svg The above article incorporates text from the United States Geological Survey Gazetteer of Planetary Nomenclature, which is in the public domain.
+-   The above article incorporates text from the United States Geological Survey Gazetteer of Planetary Nomenclature, which is in the public domain.
 -   .
 
 

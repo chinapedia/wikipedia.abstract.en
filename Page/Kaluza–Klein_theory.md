@@ -157,7 +157,7 @@ Quantum field theory interpretation
 
 Group theory interpretation
 
-Kaluza_Klein_compactification.svg over M.]] A splitting of five-dimensional spacetime into the Einstein equations and Maxwell equations in four dimensions was first discovered by Gunnar Nordström in 1914, in the context of his theory of gravity, but subsequently forgotten. Kaluza published his derivation in 1921 as an attempt to unify electromagnetism with Einstein's general relativity.
+over M.]] A splitting of five-dimensional spacetime into the Einstein equations and Maxwell equations in four dimensions was first discovered by Gunnar Nordström in 1914, in the context of his theory of gravity, but subsequently forgotten. Kaluza published his derivation in 1921 as an attempt to unify electromagnetism with Einstein's general relativity.
 
 In 1926, Oskar Klein proposed that the fourth spatial dimension is curled up in a circle of a very small radius, so that a particle moving a short distance along that axis would return to where it began. The distance a particle can travel before reaching its initial position is said to be the size of the dimension. This extra dimension is a compact set, and construction of this compact dimension is referred to as compactification.
 

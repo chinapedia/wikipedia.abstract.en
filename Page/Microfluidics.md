@@ -12,7 +12,7 @@ Typically in microfluidic systems fluids are transported, mixed, separated or ot
 
 Microscale behaviour of fluids
 
-Microfluidics.jpg micrographs of a serpentine channel ~15 μm wide.]] The behaviour of fluids at the microscale can differ from "macrofluidic" behaviour in that factors such as surface tension, energy dissipation, and fluidic resistance start to dominate the system. Microfluidics studies how these behaviours change, and how they can be worked around, or exploited for new uses.[1][2][3][4][5]
+micrographs of a serpentine channel ~15 μm wide.]] The behaviour of fluids at the microscale can differ from "macrofluidic" behaviour in that factors such as surface tension, energy dissipation, and fluidic resistance start to dominate the system. Microfluidics studies how these behaviours change, and how they can be worked around, or exploited for new uses.[1][2][3][4][5]
 
 At small scales (channel size of around 100 nanometers to 500 micrometers) some interesting and sometimes unintuitive properties appear. In particular, the Reynolds number (which compares the effect of the momentum of a fluid to the effect of viscosity) can become very low. A key consequence is co-flowing fluids do not necessarily mix in the traditional sense, as flow becomes laminar rather than turbulent; molecular transport between them must often be through diffusion.[6]
 
@@ -52,8 +52,6 @@ Continuous flow microfluidics rely on the control of a steady state liquid flow 
 Process monitoring capabilities in continuous-flow systems can be achieved with highly sensitive microfluidic flow sensors based on MEMS technology which offers resolutions down to the nanoliter range.
 
 Droplet-based microfluidics
-
-_Gas4psi_LONDs26uLmin-1_50kfps_x10lens.webm
 
 Droplet-based microfluidics is a subcategory of microfluidics in contrast with continuous microfluidics; droplet-based microfluidics manipulates discrete volumes of fluids in immiscible phases with low Reynolds number and laminar flow regimes. Interest in droplet-based microfluidics systems has been growing substantially in past decades. Microdroplets allow for handling miniature volumes (μl to fl) of fluids conveniently, provide better mixing, encapsulation, sorting, and sensing, and suit high throughput experiments.[49] Exploiting the benefits of droplet-based microfluidics efficiently requires a deep understanding of droplet generation [50] to perform various logical operations[51][52] such as droplet motion, droplet sorting, droplet merging, and droplet breakup.[53]
 

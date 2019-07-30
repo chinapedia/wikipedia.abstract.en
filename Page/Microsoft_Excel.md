@@ -17,8 +17,6 @@ Macro programming
 
 VBA programming
 
-Functions_in_Excel.PNG Subroutine_in_Excel.PNG
-
 The Windows version of Excel supports programming through Microsoft's Visual Basic for Applications (VBA), which is a dialect of Visual Basic. Programming with VBA allows spreadsheet manipulation that is awkward or impossible with standard spreadsheet techniques. Programmers may write code directly using the Visual Basic Editor (VBE), which includes a window for writing code, debugging code, and code module organization environment. The user can implement numerical methods as well as automating tasks such as formatting or data organization in VBA[14] and guide the calculation using any desired intermediate results reported back to the spreadsheet.
 
 VBA was removed from Mac Excel 2008, as the developers did not believe that a timely release would allow porting the VBA engine natively to Mac OS X. VBA was restored in the next version, Mac Excel 2011,[15] although the build lacks support for ActiveX objects, impacting some high level developer tools.[16]
@@ -35,7 +33,7 @@ From its first version Excel supported end user programming of macros (automatio
 
 Charts
 
-Excel_chart.PNG made using Microsoft Excel]]
+made using Microsoft Excel]]
 
 Excel supports charts, graphs, or histograms generated from specified groups of cells. The generated graphic component can either be embedded within the current sheet, or added as a separate object.
 
@@ -174,8 +172,6 @@ In addition to issues with spreadsheets in general, other problems specific to E
 
 Numeric precision
 
-Excel_fifteen_figure.PNG
-
 Despite the use of 15-figure precision, Excel can display many more figures (up to thirty) upon user request. But the displayed figures are _not_ those actually used in its computations, and so, for example, the difference of two numbers may differ from the difference of their displayed values. Although such departures are usually beyond the 15th decimal, exceptions do occur, especially for very large or very small numbers. Serious errors can occur if decisions are made based upon automated comparisons of numbers (for example, using the Excel _If_ function), as equality of two numbers can be unpredictable.
 
 In the figure the fraction 1/9000 is displayed in Excel. Although this number has a decimal representation that is an infinite string of ones, Excel displays only the leading 15 figures. In the second line, the number one is added to the fraction, and again Excel displays only 15 figures. In the third line, one is subtracted from the sum using Excel. Because the sum in the second line has only eleven 1's after the decimal, the difference when 1 is subtracted from this displayed value is three 0's followed by a string of eleven 1's. However, the difference reported by Excel in the third line is three 0's followed by a string of _thirteen_ 1's and two extra erroneous digits. This is because Excel calculates with about half a digit more than it displays.
@@ -266,7 +262,7 @@ Versions 5.0 to 9.0 of Excel contain various Easter eggs, including a "Hall of T
 
 Excel 95 (v7.0)
 
-Screenshot_of_Microsoft_Office_Excel_95,_an_application_part_of_Microsoft_Office_system.png Released in 1995 with Microsoft Office for Windows 95, this is the first major version after Excel 5.0, as there is no Excel 6.0 with all of the Office applications standardizing on the same major version number.
+Released in 1995 with Microsoft Office for Windows 95, this is the first major version after Excel 5.0, as there is no Excel 6.0 with all of the Office applications standardizing on the same major version number.
 
 Internal rewrite to 32-bits. Almost no external changes, but faster and more stable.
 
@@ -278,7 +274,7 @@ This version of Excel includes a flight simulator as an Easter Egg.
 
 Excel 2000 (v9.0)
 
-FileScreenshot_of_Microsoft_Office_Excel_2000.png Included in Office 2000. This was a minor upgrade, but introduced an upgrade to the clipboard where it can hold multiple objects at once. The Office Assistant, whose frequent unsolicited appearance in Excel 97 had annoyed many users, became less intrusive.
+Included in Office 2000. This was a minor upgrade, but introduced an upgrade to the clipboard where it can hold multiple objects at once. The Office Assistant, whose frequent unsolicited appearance in Excel 97 had annoyed many users, became less intrusive.
 
 Excel 2002 (v10.0)
 
@@ -290,7 +286,7 @@ Included in Office 2003. Minor enhancements, most significant being the new Tabl
 
 Excel 2007 (v12.0)
 
-Microsoft_Office_Excel_2007.png Included in Office 2007. This release was a major upgrade from the previous version. Similar to other updated Office products, Excel in 2007 used the new Ribbon menu system. This was different from what users were used to, and was met with mixed reactions. One study reported fairly good acceptance by users except highly experienced users and users of word processing applications with a classical WIMP interface, but was less convinced in terms of efficiency and organisation.[80] However, an online survey reported that a majority of respondents had a negative opinion of the change, with advanced users being "somewhat more negative" than intermediate users, and users reporting a self-estimated reduction in productivity.[81]
+Included in Office 2007. This release was a major upgrade from the previous version. Similar to other updated Office products, Excel in 2007 used the new Ribbon menu system. This was different from what users were used to, and was met with mixed reactions. One study reported fairly good acceptance by users except highly experienced users and users of word processing applications with a classical WIMP interface, but was less convinced in terms of efficiency and organisation.[80] However, an online survey reported that a majority of respondents had a negative opinion of the change, with advanced users being "somewhat more negative" than intermediate users, and users reporting a self-estimated reduction in productivity.[81]
 
 Added functionality included the SmartArt set of editable business diagrams. Also added was an improved management of named variables through the _Name Manager_, and much improved flexibility in formatting graphs, which allow (_x, y_) coordinate labeling and lines of arbitrary weight. Several improvements to pivot tables were introduced.
 
@@ -300,7 +296,7 @@ Specifically, many of the size limitations of previous versions were greatly inc
 
 Excel 2010 (v14.0)
 
-Excel_2010.png Included in Office 2010, this is the next major version after v12.0, as version number 13 was skipped.
+Included in Office 2010, this is the next major version after v12.0, as version number 13 was skipped.
 
 Minor enhancements and 64-bit support,[83] including the following:
 
@@ -342,8 +338,6 @@ Included in Office 2016, along with a lot of new tools included in this release:
 -   Excel data cards[91]
 
 Apple Macintosh
-
-Microsoft_Excel_for_Mac_2011.png
 
 -   1985 Excel 1.0
 -   1988 Excel 1.5

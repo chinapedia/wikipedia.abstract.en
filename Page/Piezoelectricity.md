@@ -1,4 +1,4 @@
-Piezoelectric_balance_presented_by_Pierre_Curie_to_Lord_Kelvin,_Hunterian_Museum,_Glasgow.jpg to Lord Kelvin, Hunterian Museum, Glasgow]] PIEZOELECTRICITY is the electric charge that accumulates in certain solid materials (such as crystals, certain ceramics, and biological matter such as bone, DNA and various proteins)[1] in response to applied mechanical stress. The word _piezoelectricity_ means electricity resulting from pressure and latent heat. It is derived from the Greek word ; _piezein_, which means to squeeze or press, and _ēlektron_, which means amber, an ancient source of electric charge.[2][3] French physicists Jacques and Pierre Curie discovered piezoelectricity in 1880.[4]
+to Lord Kelvin, Hunterian Museum, Glasgow]] PIEZOELECTRICITY is the electric charge that accumulates in certain solid materials (such as crystals, certain ceramics, and biological matter such as bone, DNA and various proteins)[1] in response to applied mechanical stress. The word _piezoelectricity_ means electricity resulting from pressure and latent heat. It is derived from the Greek word ; _piezein_, which means to squeeze or press, and _ēlektron_, which means amber, an ancient source of electric charge.[2][3] French physicists Jacques and Pierre Curie discovered piezoelectricity in 1880.[4]
 
 The piezoelectric effect results from the linear electromechanical interaction between the mechanical and electrical states in crystalline materials with no inversion symmetry.[5] The piezoelectric effect is a reversible process: materials exhibiting the piezoelectric effect (the internal generation of electrical charge resulting from an applied mechanical force) also exhibit the reverse piezoelectric effect, the internal generation of a mechanical strain resulting from an applied electrical field. For example, lead zirconate titanate crystals will generate measurable piezoelectricity when their static structure is deformed by about 0.1% of the original dimension. Conversely, those same crystals will change about 0.1% of their static dimension when an external electric field is applied to the material. The inverse piezoelectric effect is used in the production of ultrasonic sound waves.[6]
 
@@ -11,9 +11,7 @@ Discovery and early research
 
 The pyroelectric effect, by which a material generates an electric potential in response to a temperature change, was studied by Carl Linnaeus and Franz Aepinus in the mid-18th century. Drawing on this knowledge, both René Just Haüy and Antoine César Becquerel posited a relationship between mechanical stress and electric charge; however, experiments by both proved inconclusive.[7]
 
-Top_view_of_Curie_piezo_electric_compensator.jpg The first demonstration of the direct piezoelectric effect was in 1880 by the brothers Pierre Curie and Jacques Curie.[8] They combined their knowledge of pyroelectricity with their understanding of the underlying crystal structures that gave rise to pyroelectricity to predict crystal behavior, and demonstrated the effect using crystals of tourmaline, quartz, topaz, cane sugar, and Rochelle salt (sodium potassium tartrate tetrahydrate). Quartz and Rochelle salt exhibited the most piezoelectricity.
-
-SchemaPiezo.gif
+The first demonstration of the direct piezoelectric effect was in 1880 by the brothers Pierre Curie and Jacques Curie.[8] They combined their knowledge of pyroelectricity with their understanding of the underlying crystal structures that gave rise to pyroelectricity to predict crystal behavior, and demonstrated the effect using crystals of tourmaline, quartz, topaz, cane sugar, and Rochelle salt (sodium potassium tartrate tetrahydrate). Quartz and Rochelle salt exhibited the most piezoelectricity.
 
 The Curies, however, did not predict the converse piezoelectric effect. The converse effect was mathematically deduced from fundamental thermodynamic principles by Gabriel Lippmann in 1881.[9] The Curies immediately confirmed the existence of the converse effect,[10] and went on to obtain quantitative proof of the complete reversibility of electro-elasto-mechanical deformations in piezoelectric crystals.
 
@@ -40,7 +38,7 @@ In contrast, Japanese manufacturers shared their information, quickly overcoming
 
 Mechanism
 
-Piezo_bending_principle.jpg to sound waves]] The nature of the piezoelectric effect is closely related to the occurrence of electric dipole moments in solids. The latter may either be induced for ions on crystal lattice sites with asymmetric charge surroundings (as in BaTiO₃ and PZTs) or may directly be carried by molecular groups (as in cane sugar). The dipole density or polarization (dimensionality [C·m/m³] ) may easily be calculated for crystals by summing up the dipole moments per volume of the crystallographic unit cell.[13] As every dipole is a vector, the dipole density _P_ is a vector field. Dipoles near each other tend to be aligned in regions called Weiss domains. The domains are usually randomly oriented, but can be aligned using the process of _poling_ (not the same as magnetic poling), a process by which a strong electric field is applied across the material, usually at elevated temperatures. Not all piezoelectric materials can be poled.[14]
+to sound waves]] The nature of the piezoelectric effect is closely related to the occurrence of electric dipole moments in solids. The latter may either be induced for ions on crystal lattice sites with asymmetric charge surroundings (as in BaTiO₃ and PZTs) or may directly be carried by molecular groups (as in cane sugar). The dipole density or polarization (dimensionality [C·m/m³] ) may easily be calculated for crystals by summing up the dipole moments per volume of the crystallographic unit cell.[13] As every dipole is a vector, the dipole density _P_ is a vector field. Dipoles near each other tend to be aligned in regions called Weiss domains. The domains are usually randomly oriented, but can be aligned using the process of _poling_ (not the same as magnetic poling), a process by which a strong electric field is applied across the material, usually at elevated temperatures. Not all piezoelectric materials can be poled.[14]
 
 Of decisive importance for the piezoelectric effect is the change of polarization _P_ when applying a mechanical stress. This might either be caused by a reconfiguration of the dipole-inducing surrounding or by re-orientation of molecular dipole moments under the influence of the external stress. Piezoelectricity may then manifest in a variation of the polarization strength, its direction or both, with the details depending on: 1. the orientation of _P_ within the crystal; 2. crystal symmetry; and 3. the applied mechanical stress. The change in _P_ appears as a variation of surface charge density upon the crystal faces, i.e. as a variation of the electric field extending between the faces caused by a change in dipole density in the bulk. For example, a 1 cm³ cube of quartz with 2 kN (500 lbf) of correctly applied force can produce a voltage of 12500 V.[15]
 
@@ -132,7 +130,7 @@ where the first set of four terms corresponds to the direct piezoelectric effect
 
 Crystal classes
 
-Capacitor_schematic_with_dielectric.svg, and therefore an electric potential. Shown here is a standard dielectric in a capacitor. In a piezoelectric device, mechanical stress, instead of an externally applied voltage, causes the charge separation in the individual atoms of the material.]]
+, and therefore an electric potential. Shown here is a standard dielectric in a capacitor. In a piezoelectric device, mechanical stress, instead of an externally applied voltage, causes the charge separation in the individual atoms of the material.]]
 
 Of the 32 crystal classes, 21 are non-centrosymmetric (not having a centre of symmetry), and of these, 20 exhibit direct piezoelectricity[20] (the 21st is the cubic class 432). Ten of these represent the polar crystal classes,[21] which show a spontaneous polarization without mechanical stress due to a non-vanishing electric dipole moment associated with their unit cell, and which exhibit pyroelectricity. If the dipole moment can be reversed by applying an external electric field, the material is said to be ferroelectric.
 
@@ -187,7 +185,7 @@ Synthetic crystals
 
 Synthetic ceramics
 
-Perovskite.svg Ceramics with randomly oriented grains must be ferroelectric to exhibit piezoelectricity.[32] The macroscopic piezoelectricity is possible in textured polycrystalline non-ferroelectric piezoelectric materials, such as AlN and ZnO. The family of ceramics with perovskite, tungsten-bronze and related structures exhibits piezoelectricity:
+Ceramics with randomly oriented grains must be ferroelectric to exhibit piezoelectricity.[32] The macroscopic piezoelectricity is possible in textured polycrystalline non-ferroelectric piezoelectric materials, such as AlN and ZnO. The family of ceramics with perovskite, tungsten-bronze and related structures exhibits piezoelectricity:
 
 -   Barium titanate (BaTiO₃)—Barium titanate was the first piezoelectric ceramic discovered.
 -   Lead zirconate titanate (Pb[] with 0 ≤ _x_ ≤ 1)—more commonly known as PZT, lead zirconate titanate is the most common piezoelectric ceramic in use today.
@@ -249,7 +247,7 @@ Direct piezoelectricity of some substances, like quartz, can generate potential 
 
 Sensors
 
-Piezoelectric_pickup1.jpg]] RPG-7_detached.jpg. For example: RPG-7[59]]] The principle of operation of a piezoelectric sensor is that a physical dimension, transformed into a force, acts on two opposing faces of the sensing element. Depending on the design of a sensor, different "modes" to load the piezoelectric element can be used: longitudinal, transversal and shear.
+]] . For example: RPG-7[59]]] The principle of operation of a piezoelectric sensor is that a physical dimension, transformed into a force, acts on two opposing faces of the sensing element. Depending on the design of a sensor, different "modes" to load the piezoelectric element can be used: longitudinal, transversal and shear.
 
 Detection of pressure variations in the form of sound is the most common sensor application, e.g. piezoelectric microphones (sound waves bend the piezoelectric material, creating a changing voltage) and piezoelectric pickups for acoustic-electric guitars. A piezo sensor attached to the body of an instrument is known as a contact microphone.
 
@@ -271,7 +269,7 @@ In addition to those mentioned above, various sensor applications include:
 
 Actuators
 
-2007-07-24_Piezoelectric_buzzer.jpg]]
+]]
 
 As very high electric fields correspond to only tiny changes in the width of the crystal, this width can be changed with better-than-µm precision, making piezo crystals the most important tool for positioning objects with extreme accuracy—thus their use in actuators[61]. Multilayer ceramics, using layers thinner than , allow reaching high electric fields with voltage lower than . These ceramics are used within two kinds of actuators: direct piezo actuators and Amplified piezoelectric actuators. While direct actuator's stroke is generally lower than , amplified piezo actuators can reach millimeter strokes.
 
@@ -300,7 +298,7 @@ The piezoelectrical properties of quartz are useful as a standard of frequency.
 
 Piezoelectric motors
 
-Slip-stick_actuator_operation.svg Types of piezoelectric motor include:
+Types of piezoelectric motor include:
 
 -   The traveling-wave motor used for auto-focus in reflex cameras
 -   Inchworm motors for linear motion

@@ -22,8 +22,6 @@ During the late 19th century, Ernst Haeckel's recapitulation theory, or "biogene
 
 Timeline of key events
 
-Bronn_tree.gif Haeckel_arbol_bn.png
-
 -   14th century, _lex parsimoniae_ (parsimony principle), William of Ockam, English philosopher, theologian, and Franciscan friar, but the idea actually goes back to Aristotle, precursor concept
 -   1763, Bayesian probability, Rev. Thomas Bayes,[11] precursor concept
 -   18th century, Pierre Simon (Marquis de Laplace), perhaps first to use ML (maximum likelihood), precursor concept

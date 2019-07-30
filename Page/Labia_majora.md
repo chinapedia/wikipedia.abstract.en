@@ -1,4 +1,4 @@
-Vulva_labeled_english.jpg The LABIA MAJORA (singular: _labium majus_) are two prominent longitudinal cutaneous folds that extend downward and backward from the mons pubis to the perineum. Together with the labia minora they form the labia of the vulva.
+The LABIA MAJORA (singular: _labium majus_) are two prominent longitudinal cutaneous folds that extend downward and backward from the mons pubis to the perineum. Together with the labia minora they form the labia of the vulva.
 
 The labia majora are homologous to the male scrotum.
 

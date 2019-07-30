@@ -1,4 +1,4 @@
-Krasnal-Wroclaw-ulSwidnicka.jpg.]] PL_Orange_Alternative_Warsaw.jpg]] The ORANGE ALTERNATIVE (Polish: _Pomarańczowa Alternatywa_) is a Polish anti-communist underground movement, started in Wrocław, a city in south-west Poland and led by Waldemar Fydrych (sometimes misspelled as Frydrych), commonly known as _Major (Commander of Festung Breslau)_ in the 1980s.[1] Its main purpose was to offer a wider group of citizens an alternative way of opposition against the authoritarian regime by means of a peaceful protest that used absurd and nonsensical elements.
+.]] ]] The ORANGE ALTERNATIVE (Polish: _Pomarańczowa Alternatywa_) is a Polish anti-communist underground movement, started in Wrocław, a city in south-west Poland and led by Waldemar Fydrych (sometimes misspelled as Frydrych), commonly known as _Major (Commander of Festung Breslau)_ in the 1980s.[1] Its main purpose was to offer a wider group of citizens an alternative way of opposition against the authoritarian regime by means of a peaceful protest that used absurd and nonsensical elements.
 
 By doing this, members of the Orange Alternative could not be arrested by the police for opposition to the regime without the authorities becoming a laughing stock. The Orange Alternative has been viewed as part of the broader Solidarity movement. Academics Dennis Bos and Marjolein 't Hart have asserted it was the most effective of all Solidarity's factions in bringing about the movement's success.[2]
 
@@ -39,7 +39,7 @@ At the beginning of the 21st century Dwarf figurines made of bronze began to app
 
 Happenings
 
-Pomaranczowa_alternatywa-dzien_wojska.jpg What brought the Orange Alternative the biggest fame were its street happenings which it organized throughout the second half of the 1980s. These actions gained it enormous popularity among the Polish youth, who joined the movement, seeing it an alternative to the opposition style presented by the Solidarity, which they viewed as more stiff and boring.
+What brought the Orange Alternative the biggest fame were its street happenings which it organized throughout the second half of the 1980s. These actions gained it enormous popularity among the Polish youth, who joined the movement, seeing it an alternative to the opposition style presented by the Solidarity, which they viewed as more stiff and boring.
 
 The first modest happening called the "Burning of Tubes" was organized as early as 1985 in Wrocław by Major Waldemar Fydrych accompanied by a small group of artists to which belonged: Krzysztof Skarbek, Piotr Petyszkowski, Andrzej Głuszek, and Sławomir Monkiewicz.[7]
 
@@ -49,12 +49,12 @@ The biggest happenings however took place in the years 1987 through 1989, with t
 
 The actions of the Orange Alternative – although its leaders and participants often expressed anarchistic viewpoints – were not inherently ideological. No serious demands were ever expressed. Rather, the slogans were surrealist in character (such as "Vivat Sorbovit", Sorbovit being a popular soft drink at that time) or "There is no freedom without dwarves". They often paraphrased slogans used by the Solidarity Union or the communists. Their role was to laugh at absurdities and pompousness of both sides of the system and provoke independent thinking.
 
-+-------------------------------------------------------------------------------------------+-----------------------------+
-| OrangeAlternative-big_4.jpg                                                               | OrangeAlternative-big_3.jpg |
-+-------------------------------------------------------------------------------------------+-----------------------------+
-| _PRECZ Z UPAŁAMI_ – "AWAY WITH SWELTER",if the person wearing letter 'U' shirt turns away |                             |
-| the text says _PRECZ Z PAŁAMI_ – "AWAY WITH BATONS" happening in Wrocław, July 1988)      |                             |
-+-------------------------------------------------------------------------------------------+-----------------------------+
++-------------------------------------------------------------------------------------------+--+
+|                                                                                           |  |
++-------------------------------------------------------------------------------------------+--+
+| _PRECZ Z UPAŁAMI_ – "AWAY WITH SWELTER",if the person wearing letter 'U' shirt turns away |  |
+| the text says _PRECZ Z PAŁAMI_ – "AWAY WITH BATONS" happening in Wrocław, July 1988)      |  |
++-------------------------------------------------------------------------------------------+--+
 
 The open street formula allowed all individuals to take part in the happenings. This openness drew thousands of pedestrians to participate in the group's actions. In such a way, the majority of the happenings could assemble thousands of participants, of whom many were accidental passers-by. The culmination point in the movement's history was the action organized on 1 June 1988, known as the "Revolution of Dwarves", during which more than 10 thousand people marched through the center of Wrocław wearing orange dwarf hats.
 

@@ -44,7 +44,7 @@ On August 4, 2015, Kermit the Frog and Miss Piggy "announced" that they had ende
 
 Career
 
-Tv_sam_and_friends.jpg'']] Kermit has been featured prominently on both _The Muppet Show_ and _Sesame Street_.[30] However, he had a prominent career before _Sesame Street_{{'}}s debut in 1969, as he starred in _Sam and Friends_, and numerous Muppets made guest appearances on _Today_ from 1961 and _The Ed Sullivan Show_ from 1966.[31]
+'']] Kermit has been featured prominently on both _The Muppet Show_ and _Sesame Street_.[30] However, he had a prominent career before _Sesame Street_{{'}}s debut in 1969, as he starred in _Sam and Friends_, and numerous Muppets made guest appearances on _Today_ from 1961 and _The Ed Sullivan Show_ from 1966.[31]
 
 _Sesame Street_
 
@@ -112,7 +112,7 @@ Cultural impact
 
 Awards and commemorations
 
-Kermit_the_frog_hollywood_walk_of_fame.jpg]] Kermit was awarded an honorary doctorate of Amphibious Letters on May 19, 1996, at Southampton College, New York, where he also gave a commencement speech.[45] He is also the only "amphibian" to have had the honor of addressing the Oxford Union.[46][47] A statue of Henson and Kermit was erected on the campus of Henson's alma mater, the University of Maryland, College Park in 2003.
+]] Kermit was awarded an honorary doctorate of Amphibious Letters on May 19, 1996, at Southampton College, New York, where he also gave a commencement speech.[45] He is also the only "amphibian" to have had the honor of addressing the Oxford Union.[46][47] A statue of Henson and Kermit was erected on the campus of Henson's alma mater, the University of Maryland, College Park in 2003.
 
 Kermit was also given the honor of being the Grand Marshal of the Tournament of Roses Parade in 1996. The Macy's Thanksgiving Day Parade has featured a Kermit balloon since 1977.[48]
 

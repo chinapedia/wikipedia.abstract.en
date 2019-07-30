@@ -1,4 +1,4 @@
-transmitlies.jpeg'' Series depicts the Nazi propaganda machine.]]
+'' Series depicts the Nazi propaganda machine.]]
 
 A PROPAGANDA FILM is a film that involves some form of propaganda. Propaganda films may be packaged in numerous ways, but are most often documentary-style productions or fictional screenplays, that are produced to convince the viewer of a specific political point or influence the opinions or behavior of the viewer, often by providing subjective content that may be deliberately misleading.[1]
 

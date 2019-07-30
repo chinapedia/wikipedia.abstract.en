@@ -3,14 +3,14 @@ FRA LUCA BARTOLOMEO DE PACIOLI (sometimes _Paccioli_ or _Paciolo_; 1447 – 19 J
 
 Life
 
-Luca_Pacioli_in_the_Summa.jpg_[3]]] Luca Pacioli was born between 1446 and 1448 in the Tuscan town of Sansepolcro where he received an abbaco education. This was education in the vernacular (_i.e.'', the local tongue) rather than Latin and focused on the knowledge required of merchants. His father was Bartolomeo Pacioli; however, Luca Pacioli was said to have lived with the Befolci family as a child in his birth town Sansepolcro.[4] He moved to Venice around 1464, where he continued his own education while working as a tutor to the three sons of a merchant. It was during this period that he wrote his first book, a treatise on arithmetic for the boys he was tutoring. Between 1472 and 1475, he became a Franciscan friar.[5] Thus, he could be referred to as Fra ('Friar') Luca.
+_[3]]] Luca Pacioli was born between 1446 and 1448 in the Tuscan town of Sansepolcro where he received an abbaco education. This was education in the vernacular (_i.e.'', the local tongue) rather than Latin and focused on the knowledge required of merchants. His father was Bartolomeo Pacioli; however, Luca Pacioli was said to have lived with the Befolci family as a child in his birth town Sansepolcro.[4] He moved to Venice around 1464, where he continued his own education while working as a tutor to the three sons of a merchant. It was during this period that he wrote his first book, a treatise on arithmetic for the boys he was tutoring. Between 1472 and 1475, he became a Franciscan friar.[5] Thus, he could be referred to as Fra ('Friar') Luca.
 
 In 1475, he started teaching in Perugia, first as a private teacher, from 1477 holding the first chair in mathematics. He wrote a comprehensive textbook in the vernacular for his students. He continued to work as a private tutor of mathematics and was instructed to stop teaching at this level in Sansepolcro in 1491. In 1494, his first book, _Summa de arithmetica, geometria, Proportioni et proportionalita_, was published in Venice. In 1497, he accepted an invitation from Duke Ludovico Sforza to work in Milan. There he met, taught mathematics to, collaborated, and lived with Leonardo da Vinci. In 1499, Pacioli and Leonardo were forced to flee Milan when Louis XII of France seized the city and drove out their patron. Their paths appear to have finally separated around 1506. Pacioli died at about the age of 70 on 19 June 1517, most likely in Sansepolcro where it is thought that he had spent much of his final years.[6]
 
 
 Mathematics
 
-De_divina_proportione_-_Vigintisex_Basium_Planum_Vacuum.jpg, by Leonardo da Vinci, published in _Divina proportione_]] Pacioli_De_Divina_Proportione_Head_Equilateral_Triangle_1509.jpg
+, by Leonardo da Vinci, published in _Divina proportione_]]
 
 Pacioli published several works on mathematics, including:
 

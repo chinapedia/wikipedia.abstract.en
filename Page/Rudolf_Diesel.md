@@ -44,7 +44,7 @@ Shortly after Diesel's disappearance, his wife Martha opened a bag that her husb
 
 Legacy
 
-204 px After Diesel's death, his engine underwent much development and became a very important replacement for the steam piston engine in many applications. Because the Diesel engine required a heavier, more robust construction than a gasoline engine, it saw limited use in aviation. The Diesel engine became widespread in many other applications, however, such as stationary engines, agricultural machines, submarines, ships, and much later, locomotives, trucks, and in modern automobiles.
+After Diesel's death, his engine underwent much development and became a very important replacement for the steam piston engine in many applications. Because the Diesel engine required a heavier, more robust construction than a gasoline engine, it saw limited use in aviation. The Diesel engine became widespread in many other applications, however, such as stationary engines, agricultural machines, submarines, ships, and much later, locomotives, trucks, and in modern automobiles.
 
 The Diesel engine has the benefit of running more fuel-efficiently than gasoline engines due to much higher compression ratios and longer duration of combustion, which means the temperature rises more slowly, allowing more heat to be converted to mechanical work. Diesel was interested in using coal dust [21] or vegetable oil as fuel, and in fact, his engine was run on peanut oil.[22]
 

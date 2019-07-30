@@ -41,11 +41,11 @@ Due to Boutros-Ghali's overthrow, a second Annan term would give Africa the offi
 
 Activities
 
-President_Vladimir_Putin_with_UN_Secretary_General_Kofi_Annan.jpg Vladimir Putin at United Nations Headquarters in New York City on 16 November 2001.]]
+Vladimir Putin at United Nations Headquarters in New York City on 16 November 2001.]]
 
 Recommendations for UN reform
 
-Kofi_Annan_Portrait.JPG Soon after taking office in 1997, Annan released two reports on management reform. On 17 March 1997, the report _Management and Organisational Measures_ (A/51/829) introduced new management mechanisms through the establishment of a cabinet-style body to assist him and be grouping the UN's activities in accordance with four core missions. A comprehensive reform agenda was issued on 14 July 1997 entitled _Renewing the United Nations: A Programme for Reform_ (A/51/950). Key proposals included the introduction of strategic management to strengthen unity of purpose, the establishment of the position of Deputy Secretary-General, a 10-percent reduction in posts, a reduction in administrative costs, the consolidation of the UN at the country level, and reaching out to civil society and the private sector as partners. Annan also proposed to hold a Millennium Summit in 2000.[33] After years of research, Annan presented a progress report, _In Larger Freedom_, to the UN General Assembly, on 21 March 2005. Annan recommended Security Council expansion and a host of other UN reforms.[34]
+Soon after taking office in 1997, Annan released two reports on management reform. On 17 March 1997, the report _Management and Organisational Measures_ (A/51/829) introduced new management mechanisms through the establishment of a cabinet-style body to assist him and be grouping the UN's activities in accordance with four core missions. A comprehensive reform agenda was issued on 14 July 1997 entitled _Renewing the United Nations: A Programme for Reform_ (A/51/950). Key proposals included the introduction of strategic management to strengthen unity of purpose, the establishment of the position of Deputy Secretary-General, a 10-percent reduction in posts, a reduction in administrative costs, the consolidation of the UN at the country level, and reaching out to civil society and the private sector as partners. Annan also proposed to hold a Millennium Summit in 2000.[33] After years of research, Annan presented a progress report, _In Larger Freedom_, to the UN General Assembly, on 21 March 2005. Annan recommended Security Council expansion and a host of other UN reforms.[34]
 
 On 31 January 2006, Annan outlined his vision for a comprehensive and extensive reform of the UN in a policy speech to the United Nations Association UK. The speech, delivered at Central Hall, Westminster, also marked the 60th Anniversary of the first meetings of the General Assembly and Security Council.[35]
 
@@ -125,7 +125,7 @@ In 2001, its centennial year, the Nobel Committee decided that the Peace Prize w
 
 Relations between the United States and the United Nations
 
-Rice_and_Annan.jpg Condoleezza Rice in 2006]] Annan defended his deputy Secretary-General Mark Malloch Brown,[85] who openly criticized the United States in a speech on 6 June 2006: "[T]he prevailing practice of seeking to use the UN almost by stealth as a diplomatic tool while failing to stand up for it against its domestic critics is simply not sustainable. You will lose the UN one way or another. [...] [That] the US is constructively engaged with the UN [...] is not well known or understood, in part because much of the public discourse that reaches the US heartland has been largely abandoned to its loudest detractors such as Rush Limbaugh and Fox News."[86] Malloch later said his talk was a "sincere and constructive critique of U.S. policy toward the U.N. by a friend and admirer."[87]
+Condoleezza Rice in 2006]] Annan defended his deputy Secretary-General Mark Malloch Brown,[85] who openly criticized the United States in a speech on 6 June 2006: "[T]he prevailing practice of seeking to use the UN almost by stealth as a diplomatic tool while failing to stand up for it against its domestic critics is simply not sustainable. You will lose the UN one way or another. [...] [That] the US is constructively engaged with the UN [...] is not well known or understood, in part because much of the public discourse that reaches the US heartland has been largely abandoned to its loudest detractors such as Rush Limbaugh and Fox News."[86] Malloch later said his talk was a "sincere and constructive critique of U.S. policy toward the U.N. by a friend and admirer."[87]
 
 The talk was unusual because it violated unofficial policy of not having top officials publicly criticize member nations.[88] The interim U.S. ambassador John R. Bolton, appointed by President George W. Bush, was reported to have told Annan on the phone: "I've known you since 1989 and I'm telling you this is the worst mistake by a senior UN official that I have seen in that entire time."[89] Observers from other nations supported Malloch's view that conservative politicians in the U.S. prevented many citizens from understanding the benefits of U.S. involvement in the UN.[90]
 
@@ -160,7 +160,7 @@ The panel, headed by Annan, managed to convince the two principal parties to the
 
 Joint Special Envoy for Syria
 
-Kofi_Annan_in_meeting_with_former_Iranian_President_Akbar_Rafsanjani_02.jpg]] On 23 February 2012, Annan was appointed as the UN-Arab League envoy to Syria, in an attempt to end the civil war taking place.[103] He developed a six-point plan for peace:[104]
+]] On 23 February 2012, Annan was appointed as the UN-Arab League envoy to Syria, in an attempt to end the civil war taking place.[103] He developed a six-point plan for peace:[104]
 
 1.  commit to work with the Envoy in an inclusive Syrian-led political process to address the legitimate aspirations and concerns of the Syrian people, and, to this end, commit to appoint an empowered interlocutor when invited to do so by the Envoy;
 2.  commit to stop the fighting and achieve urgently an effective United Nations supervised cessation of armed violence in all its forms by all parties to protect civilians and stabilise the country.
@@ -192,7 +192,7 @@ In 2018, before Annan's death, Myanmar's civilian government, under the directio
 
 Other activities
 
-Ranjit_Bhaskar_Juba,_jan_9,_2011042_-_Flickr_-_Al_Jazeera_English.jpg, 2011, with former US president Jimmy Carter]] CORPORATE BOARDS
+, 2011, with former US president Jimmy Carter]] CORPORATE BOARDS
 
 In March 2011,[128] Annan became a member of the Advisory Board for Investcorp Bank B. S. C.[129] Europe,[130] an international private equity firm and sovereign wealth fund owned by the United Arab Emirates. He held the position until 2018.
 
@@ -214,7 +214,7 @@ In addition to the above, Annan also became involved with several organizations 
 -   Global Humanitarian Forum, founder and president (2007–2018)[139]
 -   Global Commission on Drug Policy, founding commissioner.[140] The commission had declared in a 2011 report that the war on drugs was a failure.[141] Annan believed that, since drug use represents a health risk, it should be regulated, comparing it to the regulation of tobacco which reduced smoking in many countries.[142]
 
-Kofi_Annan_(2018).jpg 2018]]
+2018]]
 
 Annan served as Chair of The Elders, a group of independent global leaders who work together on peace and human rights issues.[143][144] In November 2008, Annan and fellow Elders Jimmy Carter and Graça Machel attempted to travel to Zimbabwe to make a first-hand assessment of the humanitarian situation in the country. Refused entry, the Elders instead carried out their assessment from Johannesburg, where they met Zimbabwe- and South Africa-based leaders from politics, business, international organisations, and civil society.[145] In May 2011, following months of political violence in Côte d'Ivoire, Annan travelled to the country with Elders Desmond Tutu and Mary Robinson to encourage national reconciliation.[146] On 16 October 2014, Annan attended the One Young World Summit in Dublin. During a session with fellow Elder Mary Robinson, Annan encouraged 1,300 young leaders from 191 countries to lead on intergenerational issues such as climate change and the need for action to take place now, not tomorrow.[147][148]
 

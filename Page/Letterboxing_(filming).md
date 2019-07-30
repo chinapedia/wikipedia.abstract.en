@@ -1,5 +1,3 @@
-Image_cropping_235x1.jpg
-
 LETTERBOXING is the practice of transferring film shot in a widescreen aspect ratio to standard-width video formats while preserving the film's original aspect ratio. The resulting videographic image has mattes (black bars) above and below it; these mattes are part of the image (i.e., of each frame of the video signal). _LBX_ or _LTBX_ are the identifying abbreviations for films and images so formatted. The term refers to the shape of a letter box, a slot in a wall or door through which mail is delivered, being rectangular and wider than it is high.
 
 
@@ -51,7 +49,7 @@ The table below shows which TV lines will contain picture information when lette
 
 Pillarboxing and windowboxing
 
-windowboxed.jpg image]]
+image]]
 
 Pillarboxing (reversed letterboxing) is the display of an image within a wider image frame by adding lateral mattes (vertical bars at the sides); for example, a 1.33:1 image has lateral mattes when displayed on a 16:9 aspect ratio television screen.
 

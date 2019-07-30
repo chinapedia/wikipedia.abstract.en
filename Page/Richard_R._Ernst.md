@@ -10,7 +10,7 @@ Ernst received both his diploma in chemistry in 1957 and his Ph.D. in physical c
 
 Awards and honours
 
-Science_and_Peace_-_Richard_Ernst.webm Ernst is a foreign fellow of the Estonian Academy of Sciences (elected 2002)[11] and Bangladesh Academy of Sciences.[12] He was elected a Foreign Member of the Royal Society (ForMemRS) in 1993.[13] He was awarded the John Gamble Kirkwood Medal in 1989. The Nobel Prize in Chemistry 1991 was awarded to Richard R. Ernst "for his contributions to the development of the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy" [14] A strong proponent of Ernst's nomination was the long-time Danish colleague and member of the Nobel Committee Professor Børge Bak.
+Ernst is a foreign fellow of the Estonian Academy of Sciences (elected 2002)[11] and Bangladesh Academy of Sciences.[12] He was elected a Foreign Member of the Royal Society (ForMemRS) in 1993.[13] He was awarded the John Gamble Kirkwood Medal in 1989. The Nobel Prize in Chemistry 1991 was awarded to Richard R. Ernst "for his contributions to the development of the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy" [14] A strong proponent of Ernst's nomination was the long-time Danish colleague and member of the Nobel Committee Professor Børge Bak.
 
 He holds Honorary Doctorates from the Technical University of Munich and University of Zurich.[15]
 

@@ -1,5 +1,3 @@
-Poltergeist-Therese_Selles.jpg
-
 In ghostlore, a POLTERGEIST (; German for "noisy ghost" or "noisy spirit") is a type of ghost or spirit that is responsible for physical disturbances, such as loud noises and objects being moved or destroyed. They are purportedly capable of pinching, biting, hitting, and tripping people. Most accounts of poltergeists describe the movement or levitation of objects such as furniture and cutlery, or noises such as knocking on doors.
 
 They have traditionally been described as troublesome spirits who haunt a particular person instead of a specific location. Such alleged poltergeist manifestations have been reported in many cultures and countries including the United States, Pakistan, India‚ Japan, Brazil, Australia, and most European nations. Early accounts date back to the 1st century. Forms of spiritual harassment became more common in the early 1600s.[1]
@@ -49,7 +47,7 @@ Psychoanalyst Carl Gustav Jung was interested in the concept of poltergeists and
 
 Famous cases
 
-Epworth_Rectory_Front_View.png]]
+]]
 
 -   The Amityville Horror (1974-1975)
 -   Glenluce Devil (1654-1656)

@@ -1,5 +1,3 @@
-JamaicaOMC.png
-
 Jamaica lies south of Cuba and west of Haiti. At its greatest extent, Jamaica is long, and its width varies between . With an area of , Jamaica is the largest island of the Commonwealth Caribbean and the third largest of the Greater Antilles, after Cuba and Hispaniola. Many small islands are located along the south coast of Jamaica, such as the Port Royal Cays. Southwest of mainland Jamaica lies Pedro Bank, an area of shallow seas, with a number of cays (low islands or reefs), extending generally east to west for over . To the southeast lies Morant Bank, with the Morant Cays, from Morant Point, the easternmost point of mainland Jamaica. Alice Shoal, southwest of the main island of Jamaica, falls within the Jamaica–Colombia Joint Regime.
 
 
@@ -22,8 +20,6 @@ The southern coast has small stretches of plains lined by black sand beaches. Th
 
 
 Climate
-
-Koppen-Geiger_Map_JAM_present.svg
 
 Two types of climate are found in Jamaica. An upland tropical climate prevails on the windward side of the mountains, whereas a semiarid climate predominates on the leeward side. Warm trade winds from the east and northeast bring rainfall throughout the year. The rainfall is heaviest from May to October, with peaks in those two months. The average rainfall is per year. Rainfall is much greater in the mountain areas facing the north and east, however. Where the higher elevations of the John Crow Mountains and the Blue Mountains catch the rain from the moisture-laden winds, rainfall exceeds per year. Since the southwestern half of the island lies in the rain shadow of the mountains, it has a semiarid climate and receives fewer than of rainfall annually.
 

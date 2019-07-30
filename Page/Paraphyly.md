@@ -1,4 +1,4 @@
-Traditional_Reptilia.jpg (green field) is a paraphyletic group comprising all amniotes (Amniota) except for two subgroups: Mammalia (mammals) and Aves (birds); therefore, Reptilia is not a clade. In contrast, Amniota itself is a clade, which is a monophyletic group.]]
+(green field) is a paraphyletic group comprising all amniotes (Amniota) except for two subgroups: Mammalia (mammals) and Aves (birds); therefore, Reptilia is not a clade. In contrast, Amniota itself is a clade, which is a monophyletic group.]]
 
 In taxonomy, a group is PARAPHYLETIC if it consists of the group's last common ancestor and all descendants of that ancestor excluding a few—typically only one or two—monophyletic subgroups. The group is said to be paraphyletic _with respect to_ the excluded subgroups. The arrangement of the members of a paraphyletic group is called a PARAPHYLY. The term is commonly used in phylogenetics (a subfield of biology) and in linguistics.
 
@@ -18,7 +18,7 @@ By comparison, the term _polyphyly_, or _polyphyletic_, uses the Ancient Greek p
 
 Phylogenetics
 
-Monophyly,_paraphyly,_polyphyly.svg of the primates, showing a MONOPHYLY (the simians, in yellow), a PARAPHYLY (the prosimians, in blue, including the red patch), and a POLYPHYLY (the night-active primates, the lorises and the tarsiers, in red).]]
+of the primates, showing a MONOPHYLY (the simians, in yellow), a PARAPHYLY (the prosimians, in blue, including the red patch), and a POLYPHYLY (the night-active primates, the lorises and the tarsiers, in red).]]
 
 In cladistics
 
@@ -32,7 +32,7 @@ Paraphyletic groupings are considered problematic by many taxonomists, as it is 
 
 Examples
 
-Wasps_are_Paraphyletic.svgs are paraphyletic, consisting of the clade Apocrita without ants and bees, which are not usually considered to be wasps; the sawflies ("Symphyta") too are paraphyletic, as the Apocrita are nested inside the Symphytan clades.]]
+s are paraphyletic, consisting of the clade Apocrita without ants and bees, which are not usually considered to be wasps; the sawflies ("Symphyta") too are paraphyletic, as the Apocrita are nested inside the Symphytan clades.]]
 
 The prokaryotes (single-celled life forms without cell nuclei), because they exclude the eukaryotes, a descendant group. Bacteria and Archaea are prokaryotes, but archaea and eukaryotes share a common ancestor that is not ancestral to the bacteria. The prokaryote/eukaryote distinction was proposed by Edouard Chatton in 1937[12] and was generally accepted after being adopted by Roger Stanier and C.B. van Niel in 1962. The botanical code (the ICBN, now the ICN) abandoned consideration of bacterial nomenclature in 1975; currently, prokaryotic nomenclature is regulated under the ICNB with a starting date of January 1, 1980 (in contrast to a 1753 start date under the ICBN/ICN).[13]
 

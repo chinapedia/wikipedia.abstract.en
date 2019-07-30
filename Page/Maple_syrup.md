@@ -9,7 +9,7 @@ Maple syrup is often used as a condiment for pancakes, waffles, French toast, oa
 
 Sources
 
-Acer_saccharum.jpg Three species of maple trees are predominantly used to produce maple syrup: the sugar maple (_Acer saccharum_), the black maple (_A. nigrum_), and the red maple (_A. rubrum_), because of the high sugar content (roughly two to five percent) in the sap of these species. The black maple is included as a subspecies or variety in a more broadly viewed concept of _A. saccharum_, the sugar maple, by some botanists.[5] Of these, the red maple has a shorter season because it buds earlier than sugar and black maples, which alters the flavour of the sap.[6]
+Three species of maple trees are predominantly used to produce maple syrup: the sugar maple (_Acer saccharum_), the black maple (_A. nigrum_), and the red maple (_A. rubrum_), because of the high sugar content (roughly two to five percent) in the sap of these species. The black maple is included as a subspecies or variety in a more broadly viewed concept of _A. saccharum_, the sugar maple, by some botanists.[5] Of these, the red maple has a shorter season because it buds earlier than sugar and black maples, which alters the flavour of the sap.[6]
 
 A few other (but not all) species of maple (_Acer_) are also sometimes used as sources of sap for producing maple syrup, including the box elder or Manitoba maple (_Acer negundo_),[7] the silver maple (_A. saccharinum_),[8] and the bigleaf maple (_A. macrophyllum_).[9] Similar syrups may also be produced from walnut, birch or palm trees, among other sources.[10][11][12]
 
@@ -18,13 +18,11 @@ History
 
 Indigenous peoples
 
-Sugar-Making_Among_the_Indians_in_the_North.gif Indigenous peoples living in northeastern North America were the first groups known to have produced maple syrup and maple sugar. According to aboriginal oral traditions, as well as archaeological evidence, maple tree sap was being processed into syrup long before Europeans arrived in the region.[13] There are no authenticated accounts of how maple syrup production and consumption began,[14] but various legends exist; one of the most popular involves maple sap being used in place of water to cook venison served to a chief.[15] Other stories credit the development of maple syrup production to Nanabozho, Glooskap, or the squirrel. Aboriginal tribes developed rituals around sugar-making, celebrating the Sugar Moon (the first full moon of spring) with a Maple Dance. Many aboriginal dishes replaced the salt traditional in European cuisine with maple sugar or syrup.[16]
+Indigenous peoples living in northeastern North America were the first groups known to have produced maple syrup and maple sugar. According to aboriginal oral traditions, as well as archaeological evidence, maple tree sap was being processed into syrup long before Europeans arrived in the region.[13] There are no authenticated accounts of how maple syrup production and consumption began,[14] but various legends exist; one of the most popular involves maple sap being used in place of water to cook venison served to a chief.[15] Other stories credit the development of maple syrup production to Nanabozho, Glooskap, or the squirrel. Aboriginal tribes developed rituals around sugar-making, celebrating the Sugar Moon (the first full moon of spring) with a Maple Dance. Many aboriginal dishes replaced the salt traditional in European cuisine with maple sugar or syrup.[16]
 
 The Algonquians recognized maple sap as a source of energy and nutrition. At the beginning of the spring thaw, they used stone tools to make V-shaped incisions in tree trunks; they then inserted reeds or concave pieces of bark to run the sap into buckets, which were often made from birch bark.[17] The maple sap was concentrated either by dropping hot cooking stones into the buckets[18] or by leaving them exposed to the cold temperatures overnight and disposing of the layer of ice that formed on top.[19]
 
 European colonists
-
-Sugar_Making_in_Canada,_1852._By_Cornelius_Krieghoff_(1815-1872).jpg
 
 In the early stages of European colonization in northeastern North America, local Indigenous peoples showed the arriving colonists how to tap the trunks of certain types of maples during the spring thaw to harvest the sap. André Thevet, the "Royal Cosmographer of France", wrote about Jacques Cartier drinking maple sap during his Canadian voyages.[20] By 1680, European settlers and fur traders were involved in harvesting maple products. However, rather than making incisions in the bark, the Europeans used the method of drilling tapholes in the trunks with augers. During the 17th and 18th centuries, processed maple sap was used primarily as a source of concentrated sugar, in both liquid and crystallized-solid form, as cane sugar had to be imported from the West Indies.[21]
 
@@ -34,11 +32,9 @@ The boiling process was very time-consuming. The harvested sap was transported b
 
 Since 1850
 
-Maple_sugaring_bucket_(5571412972).jpg Around the time of the American Civil War (1861-1865), syrup makers started using large, flat sheet metal pans as they were more efficient for boiling than heavy, rounded iron kettles, because of a greater surface area for evaporation.[28] Around this time, cane sugar replaced maple sugar as the dominant sweetener in the US; as a result, producers focused marketing efforts on maple syrup. The first evaporator, used to heat and concentrate sap, was patented in 1858. In 1872, an evaporator was developed that featured two pans and a metal arch or firebox, which greatly decreased boiling time.[29] Around 1900, producers bent the tin that formed the bottom of a pan into a series of flues, which increased the heated surface area of the pan and again decreased boiling time. Some producers also added a finishing pan, a separate batch evaporator, as a final stage in the evaporation process.[30]
+Around the time of the American Civil War (1861-1865), syrup makers started using large, flat sheet metal pans as they were more efficient for boiling than heavy, rounded iron kettles, because of a greater surface area for evaporation.[28] Around this time, cane sugar replaced maple sugar as the dominant sweetener in the US; as a result, producers focused marketing efforts on maple syrup. The first evaporator, used to heat and concentrate sap, was patented in 1858. In 1872, an evaporator was developed that featured two pans and a metal arch or firebox, which greatly decreased boiling time.[29] Around 1900, producers bent the tin that formed the bottom of a pan into a series of flues, which increased the heated surface area of the pan and again decreased boiling time. Some producers also added a finishing pan, a separate batch evaporator, as a final stage in the evaporation process.[30]
 
 Buckets began to be replaced with plastic bags, which allowed people to see at a distance how much sap had been collected. Syrup producers also began using tractors to haul vats of sap from the trees being tapped (the sugarbush) to the evaporator. Some producers adopted motor-powered tappers and metal tubing systems to convey sap from the tree to a central collection container, but these techniques were not widely used.[31] Heating methods also diversified: modern producers use wood, oil, natural gas, propane, or steam to evaporate sap.[32] Modern filtration methods were perfected to prevent contamination of the syrup.[33]
-
-Sap_plastic_tubing.jpg
 
 A large number of technological changes took place during the 1970s. Plastic tubing systems that had been experimental since the early part of the century were perfected, and the sap came directly from the tree to the evaporator house. Vacuum pumps were added to the tubing systems, and preheaters were developed to recycle heat lost in the steam. Producers developed reverse-osmosis machines to take a portion of water out of the sap before it was boiled, increasing processing efficiency.[34]
 
@@ -47,7 +43,7 @@ Improvements in tubing and vacuum pumps, new filtering techniques, "supercharged
 
 Processing
 
-Maple_sap_collecting_at_Bowdoin_Park,_New_York.JPG Open pan evaporation methods have been streamlined since colonial days, but remain basically unchanged. Sap must first be collected and boiled down to obtain pure syrup without chemical agents or preservatives. Maple syrup is made by boiling between 20 and 50 volumes of sap (depending on its concentration) over an open fire until 1 volume of syrup is obtained, usually at a temperature over the boiling point of water. As the boiling point of water varies with changes in air pressure the correct value for pure water is determined at the place where the syrup is being produced, each time evaporation is begun and periodically throughout the day.[38] Syrup can be boiled entirely over one heat source or can be drawn off into smaller batches and boiled at a more controlled temperature.
+Open pan evaporation methods have been streamlined since colonial days, but remain basically unchanged. Sap must first be collected and boiled down to obtain pure syrup without chemical agents or preservatives. Maple syrup is made by boiling between 20 and 50 volumes of sap (depending on its concentration) over an open fire until 1 volume of syrup is obtained, usually at a temperature over the boiling point of water. As the boiling point of water varies with changes in air pressure the correct value for pure water is determined at the place where the syrup is being produced, each time evaporation is begun and periodically throughout the day.[38] Syrup can be boiled entirely over one heat source or can be drawn off into smaller batches and boiled at a more controlled temperature.
 
 Boiling the syrup is a tightly controlled process, which ensures appropriate sugar content. Syrup boiled too long will eventually crystallize, whereas under-boiled syrup will be watery, and will quickly spoil. The finished syrup has a density of 66° on the Brix scale (a hydrometric scale used to measure sugar solutions). The syrup is then filtered to remove sugar sand, crystals made up largely of sugar and calcium malate.[39] These crystals are not toxic, but create a "gritty" texture in the syrup if not filtered out.
 
@@ -57,18 +53,12 @@ The higher the sugar content of the sap, the smaller the volume of sap is needed
 
 The filtered syrup is graded and packaged while still hot, usually at a temperature of or greater. The containers are turned over after being sealed to sterilize the cap with the hot syrup. Packages can be made of metal, glass, or coated plastic, depending on volume and target market. The syrup can also be heated longer and further processed to create a variety of other maple products, including maple sugar, maple butter or cream, and maple candy or taffy.
 
-MapleSyrupDrop.ogv
-
 Off-flavours
 
 Off-flavours can sometimes develop during the production of maple syrup, resulting from contaminants in the boiling apparatus (such as disinfectants), microorganisms, fermentation products, metallic can flavours, and "buddy sap", an off-flavour occurring late in the syrup season when tree budding has begun.[43] In some circumstances, it is possible to remove off-flavours through processing.[44][45]
 
 
 Production
-
-Making_Maple_Syrup_(MSA)_(12794030474).jpg Bouillir_l'eau_d'érable_à_sucre_2013-04-07_23-33.jpg
-
-Maple_syrup_production.svg
 
 Maple syrup production is centred in northeastern North America; however, given the correct weather conditions, it can be made wherever suitable species of maple trees grow.
 
@@ -118,8 +108,6 @@ This grading system was accepted and made law by most maple-producing states and
 Golden and Amber grades typically have a milder flavour than Dark and Very dark, which are both dark and have an intense maple flavour.[91] The darker grades of syrup are used primarily for cooking and baking, although some specialty dark syrups are produced for table use.[92] Syrup harvested earlier in the season tends to yield a lighter colour.[93] With the new grading system, the classification of maple syrup depends ultimately on its internal transmittance at 560 nm wavelength through a 10 mm sample. Golden must have 75 percent or more transmittance, Amber must have 50.0 to 74.9 percent transmittance, Dark must have 25.0 to 49.9 percent transmittance, and Very Dark is any product having less than 25.0 percent transmittance.[94]
 
 Old grading system
-
-Syrup_grades_large.JPG
 
 In Canada, maple syrup was classified prior to December 31, 2014, by the Canadian Food Inspection Agency (CFIA) as one of three grades, each with several colour classes:[95]
 
@@ -191,7 +179,7 @@ In 2016, maple syrup producers from nine US states petitioned the Food and Drug 
 
 Cultural significance
 
-Flag_of_Canada.svg is a maple leaf.]] 2001_VT_Proof.png Maple products are considered emblematic of Canada, and are frequently sold in tourist shops and airports as souvenirs from Canada. The sugar maple's leaf has come to symbolize Canada, and is depicted on the country's flag.[125] Several US states, including West Virginia, New York, Vermont and Wisconsin, have the sugar maple as their state tree.[126] A scene of sap collection is depicted on the Vermont state quarter, issued in 2001.[127]
+is a maple leaf.]] Maple products are considered emblematic of Canada, and are frequently sold in tourist shops and airports as souvenirs from Canada. The sugar maple's leaf has come to symbolize Canada, and is depicted on the country's flag.[125] Several US states, including West Virginia, New York, Vermont and Wisconsin, have the sugar maple as their state tree.[126] A scene of sap collection is depicted on the Vermont state quarter, issued in 2001.[127]
 
 Maple syrup and maple sugar were used during the American Civil War and by abolitionists in the years before the war because most cane sugar and molasses were produced by Southern slaves.[128][129] Because of food rationing during the Second World War, people in the northeastern United States were encouraged to stretch their sugar rations by sweetening foods with maple syrup and maple sugar,[130] and recipe books were printed to help housewives employ this alternative source.[131]
 

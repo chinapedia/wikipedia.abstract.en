@@ -7,7 +7,7 @@ The Scandinavian Peninsula is the largest of the well-known peninsulas of Europe
 
 Geography
 
-Luftbild_Skandinavien.jpg Fennoscandia.png ]]
+]]
 
 The largest peninsula in Europe, the Scandinavian Peninsula is approximately long with a width varying approximately from 370 to 805 kilometres (230 to 500 miles). The Scandinavian mountain range generally defines the border between Norway and Sweden. The peninsula is bordered by several bodies of water including:
 
@@ -31,8 +31,6 @@ The Scandinavian Peninsula occupies part of the Baltic Shield, a stable and larg
 
 The glaciation during the Ice Ages also deepened many of the river valleys, which were invaded by the sea when the ice melted, creating the noteworthy fjords of Norway. In the southern part of the peninsula, the glaciers deposited vast numbers of terminal moraines, configuring a very chaotic landscape.[7] These terminal moraines covered all of what is now Denmark.
 
-Scandinavia.jpg
-
 Although the Baltic Shield is mostly geologically stable and hence resistant to the influences of other neighbouring tectonic formations, the weight of nearly four kilometres of ice during the Ice Ages caused all of the Scandinavian terrain to sink. When the ice sheet disappeared, the shield rose again, a tendency that continues to this day at a rate of about one metre per century.[8] Conversely, the southern part has tended to sink to compensate, causing flooding of the Low Countries and Denmark.
 
 The crystalline substrate of the land and absence of soil in many places have exposed mineral deposits of metal ores, such as those of iron, copper, nickel, zinc, silver and gold. The very most valuable of these have been the deposits of iron ore in northwestern Sweden. In the 19th century these deposits prompted the building of a railway from northwestern Sweden to the Norwegian seaport of Narvik so that the iron ore could be exported by ship to places like southern Sweden, Germany, Great Britain and Belgium for smelting into iron and steel. This railway is in a region of Norway and Sweden that otherwise does not have any railways because of the very rugged terrain, mountains and fjords of that part of Scandinavia.
@@ -47,7 +45,7 @@ The northern and central part of the peninsula is partially inhabited by the Sam
 
 Political development
 
-Schweden_und_Norwegen_um_1888.jpg political borders in 1888]] Although the Nordic countries look back on more than 1,000 years of history as distinct political entities, the international boundaries came late and emerged gradually. It was not until the middle of the 17th century that Sweden had a secure outlet on the Kattegat and control of the south Baltic coast. The Swedish and Norwegian boundaries were finally agreed and marked out in 1751. The Finnish-Norwegian border on the peninsula was established after extensive negotiation in 1809, and the common Norwegian-Russian districts were not partitioned until 1826. Even then the borders were still fluid, with Finland gaining access to the Barents Sea in 1920, but ceding this territory to the Soviet Union in 1944.[11]
+political borders in 1888]] Although the Nordic countries look back on more than 1,000 years of history as distinct political entities, the international boundaries came late and emerged gradually. It was not until the middle of the 17th century that Sweden had a secure outlet on the Kattegat and control of the south Baltic coast. The Swedish and Norwegian boundaries were finally agreed and marked out in 1751. The Finnish-Norwegian border on the peninsula was established after extensive negotiation in 1809, and the common Norwegian-Russian districts were not partitioned until 1826. Even then the borders were still fluid, with Finland gaining access to the Barents Sea in 1920, but ceding this territory to the Soviet Union in 1944.[11]
 
 Denmark, Sweden and the Russian Empire dominated the political relationships on the Scandinavian Peninsula for centuries, with Iceland, Finland and Norway only gaining their full independence during the 20th century. The Kingdom of Norway long held in personal union by Denmark fell to Sweden after the Napoleonic Wars and only attained full independence in 1905. Having been an autonomous grand duchy within the Russian Empire since 1809, Finland declared independence during the Soviet revolution of Russia in 1917. Iceland declared its independence from Denmark in 1944, while Denmark was under the occupation of Nazi Germany. Iceland was encouraged to do this by the British and American armed forces that were defending Iceland from Nazi invasion.
 

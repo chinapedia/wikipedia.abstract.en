@@ -1,5 +1,3 @@
-Nauru_Government.jpg
-
 POLITICS OF NAURU takes place in a framework of a parliamentary representative democratic republic, whereby the President of Nauru is the head of government of the executive branch. Legislative power is vested in both the government and the parliament. The Judiciary is independent of the executive and the legislature.
 
 
@@ -93,7 +91,7 @@ A series of no-confidence votes, resignations and elections between 1999 and 200
 
 Legislative branch
 
-Nauru-parliament.jpg Parliament has 19 members, elected for a three-year term in multi-seat constituencies. Each constituency returns 2 members to the Nauruan Parliament, except for Ubenide which returns 4. Voting is compulsory for all citizens aged 20 or more.
+Parliament has 19 members, elected for a three-year term in multi-seat constituencies. Each constituency returns 2 members to the Nauruan Parliament, except for Ubenide which returns 4. Voting is compulsory for all citizens aged 20 or more.
 
 
 Political parties and elections

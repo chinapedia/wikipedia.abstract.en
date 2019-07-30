@@ -26,7 +26,7 @@ Following the First Opium War and establishment of Hong Kong, Macau lost its rol
 
 During the Second World War, the Empire of Japan did not occupy the colony and generally respected Portuguese neutrality in Macau. However, after Japanese troops captured a British cargo ship in Macau waters in 1943, Japan installed a group of government "advisors" as an alternative to military occupation. The territory largely avoided military action during the war except in 1945, when the United States ordered air raids on Macau after learning that the colonial government was preparing to sell aviation fuel to Japan. Portugal was later given over US$20 million in compensation for the damage in 1950.[44]
 
-Flag_of_the_Government_of_Portuguese_Macau_(1976–1999).svg flag from 1976–1999]] Refugees from mainland China swelled the population as they fled from the Chinese Civil War. Access to a large workforce enabled Macau's economy to grow as the colony expanded its clothing and textiles manufacturing industry, developed tourism, and legalised casino gaming.[45] However, at the height of the Cultural Revolution, residents dissatisfied with the colonial administration rioted in the 1966 12-3 incident, in which 8 people were killed and over 200 were injured. Portugal lost full control over the colony afterwards, and agreed to cooperate with the communist authorities in exchange for continued administration of Macau.[46]
+flag from 1976–1999]] Refugees from mainland China swelled the population as they fled from the Chinese Civil War. Access to a large workforce enabled Macau's economy to grow as the colony expanded its clothing and textiles manufacturing industry, developed tourism, and legalised casino gaming.[45] However, at the height of the Cultural Revolution, residents dissatisfied with the colonial administration rioted in the 1966 12-3 incident, in which 8 people were killed and over 200 were injured. Portugal lost full control over the colony afterwards, and agreed to cooperate with the communist authorities in exchange for continued administration of Macau.[46]
 
 Following the 1974 Carnation Revolution, Portugal formally relinquished Macau as an overseas province and acknowledged it as a "Chinese territory under Portuguese administration."[47] After China first concluded arrangements on Hong Kong's future with the United Kingdom, it entered negotiations with Portugal over Macau in 1986. They were concluded with the signing of the 1987 Joint Declaration on the Question of Macau, in which Portugal agreed to transfer the colony in 1999 and China would guarantee Macau's political and economic systems for 50 years after the transfer.[48] In the waning years of colonial rule, Macau rapidly urbanised and constructed large-scale infrastructure projects, including Macau International Airport and a new container port.[49] Macau was transferred to China on 20 December 1999, after 442 years of Portuguese rule.[50]
 
@@ -37,7 +37,7 @@ In 2015, the borders of Macau were redrawn by the state council, shifting the la
 
 Government and politics
 
-Assembleia_Legislativa.jpg in Sé.]]
+in Sé.]]
 
 Macau is a special administrative region of China, with executive, legislative, and judicial powers devolved from the national government.[54] The Sino-Portuguese Joint Declaration provided for economic and administrative continuity through the transfer of sovereignty, resulting in an executive-led governing system largely inherited from the territory's history as a Portuguese colony.[55] Under these terms and the "one country, two systems" principle, the Basic Law of Macao is the regional constitution.[56] Because negotiations for the Joint Declaration and Basic Law began after transitional arrangements for Hong Kong were made, Macau's structure of government is very similar to Hong Kong's.[57]
 
@@ -53,7 +53,7 @@ The Legislative Assembly has 33 members, each serving a four-year term: 14 are d
 
 Twelve political parties had representatives elected to the Legislative Assembly in the 2017 election.[72] These parties have aligned themselves into two ideological groups: the pro-establishment (the current government) and pro-democracy camps.[73] Macau is represented in the National People's Congress by 12 deputies chosen through an electoral college, and 29 delegates in the Chinese People's Political Consultative Conference appointed by the central government.[74]
 
-Macau_Government_Headquarters_01.JPG is the official office of the Chief Executive.]] Chinese national law does not generally apply in the region, and Macau is treated as a separate jurisdiction.[75] Its judicial system is based on Portuguese civil law, continuing the legal tradition established during colonial rule. Interpretative and amending power over the Basic Law and jurisdiction over acts of state lie with the central authority, however, making regional courts ultimately subordinate to the mainland's socialist civil law system. Decisions made by the Standing Committee of the National People's Congress can also override territorial judicial processes.[76]
+is the official office of the Chief Executive.]] Chinese national law does not generally apply in the region, and Macau is treated as a separate jurisdiction.[75] Its judicial system is based on Portuguese civil law, continuing the legal tradition established during colonial rule. Interpretative and amending power over the Basic Law and jurisdiction over acts of state lie with the central authority, however, making regional courts ultimately subordinate to the mainland's socialist civil law system. Decisions made by the Standing Committee of the National People's Congress can also override territorial judicial processes.[76]
 
 The territory's jurisdictional independence is most apparent in its immigration and taxation policies. The Identification Department issues passports for permanent residents which differ from those of the mainland or Hong Kong, and the region maintains a regulated border with the rest of the country.[77] All travellers between Macau and China and Hong Kong must pass border controls, regardless of nationality.[78] Chinese citizens resident in mainland China do not have the right of abode in Macau, and are subject to immigration controls.[79] Public finances are handled separately from the national government, and taxes levied in Macau do not fund the central authority.[80]
 
@@ -63,7 +63,7 @@ The State Council and the Ministry of Foreign Affairs handle diplomatic matters,
 
 Administrative divisions
 
-Administrative_Division_of_Macau.png The territory is divided into seven parishes. Cotai, a major area developed on reclaimed land between Taipa and Coloane, and areas of the Macau New Urban Zone do not have defined parishes.[89] Historically, the parishes belonged to one of two municipalities (the Municipality of Macau or the Municipality of Ilhas) that were responsible for administering municipal services. The Civic and Municipal Affairs Bureau superseded the municipalities and is currently responsible for providing local services.[90]
+The territory is divided into seven parishes. Cotai, a major area developed on reclaimed land between Taipa and Coloane, and areas of the Macau New Urban Zone do not have defined parishes.[89] Historically, the parishes belonged to one of two municipalities (the Municipality of Macau or the Municipality of Ilhas) that were responsible for administering municipal services. The Civic and Municipal Affairs Bureau superseded the municipalities and is currently responsible for providing local services.[90]
 
 +--------------------------------------------------------+---------+-----------+
 | Parish/Area                                            | Chinese | Area      |
@@ -95,8 +95,6 @@ Administrative_Division_of_Macau.png The territory is divided into seven parishe
 
 Geography
 
-Macau_peninsula.jpg
-
 Macau is on China's southern coast, west of Hong Kong, on the western side of the Pearl River estuary. It is surrounded by the South China Sea in the east and south, and neighbours the Guangdong city of Zhuhai to the west and north.[92] The territory consists of Macau Peninsula, Taipa, and Coloane.[93] A parcel of land in neighbouring Hengqin island that hosts the University of Macau also falls under the regional government's jurisdiction.[94] The territory's highest point is Coloane Alto, above sea level.[95]
 
 Urban development is concentrated on peninsular Macau, where most of the population lives.[96] The peninsula was originally a separate island with hilly terrain, which gradually became a tombolo as a connecting sandbar formed over time. Both natural sedimentation and land reclamation expanded the area enough to support urban growth.[97] Macau has tripled its land area in the last century, increasing from in the late 19th century[98] to in 2018.[99]
@@ -110,7 +108,7 @@ Macau has a humid subtropical climate (Köppen _Cwa_), characteristic of souther
 
 Demographics
 
-Population_pyramid_of_Macau_2016.png]] The Statistics and Census Service estimated Macau's population at 653,100 at the end of 2017.[108] With a population density of 21,340 people per square kilometre,[109] Macau is the most densely populated region in the world. The overwhelming majority (88.7 per cent) is Han Chinese, many of whom originate from Guangdong (31.9 per cent) or Fujian (5.9 per cent).[110] The remaining 11.6 per cent are non-ethnic Chinese minorities, primarily Filipinos, Vietnamese, and Portuguese. Macanese, native-born multiracial people with mixed Portuguese ancestry, make up a portion of the Portuguese population.[111] A large portion of the population are Portuguese citizens, a legacy of colonial rule; at the time of the transfer of sovereignty in 1999, 107,000 residents held Portuguese passports.[112]
+]] The Statistics and Census Service estimated Macau's population at 653,100 at the end of 2017.[108] With a population density of 21,340 people per square kilometre,[109] Macau is the most densely populated region in the world. The overwhelming majority (88.7 per cent) is Han Chinese, many of whom originate from Guangdong (31.9 per cent) or Fujian (5.9 per cent).[110] The remaining 11.6 per cent are non-ethnic Chinese minorities, primarily Filipinos, Vietnamese, and Portuguese. Macanese, native-born multiracial people with mixed Portuguese ancestry, make up a portion of the Portuguese population.[111] A large portion of the population are Portuguese citizens, a legacy of colonial rule; at the time of the transfer of sovereignty in 1999, 107,000 residents held Portuguese passports.[112]
 
 The predominant language is Cantonese, a variety of Chinese originating in Guangdong. It is spoken by 87.5 per cent of the population, 80.1 per cent as a first language and 7.5 per cent as a second language. Only 2.3 per cent can speak Portuguese, the other official language;[113] 0.7 per cent are native speakers, and 1.6 per cent use it as a second language. Increased immigration from mainland China in recent years has added to the number of Mandarin speakers, making up about half of the population (50.4 per cent); 5.5 per cent are native speakers and 44.9 per cent are second language speakers.[114] Traditional Chinese characters are used in writing, rather than the simplified characters used on the mainland. English is considered an additional working language[115] and is spoken by over a quarter of the population (27.5 per cent); 2.8 per cent are native speakers, and 24.7 per cent speak English as a second language.[116] Macanese Patois, a local creole generally known as _Patuá_, is now spoken only by a few in the older Macanese community.[117]
 
@@ -122,8 +120,6 @@ Migrant workers living in Macau account for over 25 per cent of the entire workf
 
 
 Economy
-
-Lago_Nam_Van,_Macao,_2013-08-08,_DD_05.jpg
 
 Macau has a capitalist service economy largely based on casino gaming and tourism. It is the world's 83rd-largest economy, with a nominal GDP of approximately MOP433 billion (US$53.9 billion).[125] Although Macau has one of the highest per capita GDPs, the territory also has a high level of wealth disparity.[126] Macau's gaming industry is the largest in the world, generating over MOP195 billion (US$24 billion) in revenue and about seven times larger than that of Las Vegas.[127]
 
@@ -142,7 +138,7 @@ Infrastructure
 
 Transport
 
-Air_Macau_Airbus_A321-200_B-MCA_(24311327220).jpg Airbus A321 taxiing at Macau International Airport]]
+Airbus A321 taxiing at Macau International Airport]]
 
 Macau has a highly developed road system, with over of road constructed in the territory. Automobiles drive on the left (unlike in both mainland China and Portugal), due to historical influence of the Portuguese Empire.[150] Vehicle traffic is extremely congested, especially within the oldest part of the city, where streets are the most narrow.[151] Public bus services operate over 80 routes, supplemented by free hotel shuttle buses that also run routes to popular tourist attractions and downtown locations.[152] About 1,500 black taxicabs are licensed to carry riders in the territory.[153] The Hong Kong–Zhuhai–Macau Bridge, opened in 2018, provides a direct link with the eastern side of the Pearl River estuary.[154] Cross-boundary traffic to mainland China may also pass through border checkpoints at the Portas do Cerco and Lótus Bridge.[155]
 
@@ -150,7 +146,7 @@ Macau International Airport serves over 8 million passengers each year and is th
 
 Healthcare
 
-Kiang_Wu_Hospital.jpg]] Macau is served by one major public hospital, the Hospital Conde S. Januário, and one major private hospital, the Kiang Wu Hospital, both located in Macau Peninsula, as well as a university associated hospital called Macau University of Science and Technology Hospital in Cotai. In addition to hospitals, Macau also has numerous health centres providing free basic medical care to residents. Consultation in traditional Chinese medicine is also available.[159]
+]] Macau is served by one major public hospital, the Hospital Conde S. Januário, and one major private hospital, the Kiang Wu Hospital, both located in Macau Peninsula, as well as a university associated hospital called Macau University of Science and Technology Hospital in Cotai. In addition to hospitals, Macau also has numerous health centres providing free basic medical care to residents. Consultation in traditional Chinese medicine is also available.[159]
 
 None of the Macau hospitals are independently assessed through international healthcare accreditation. There are no western-style medical schools in Macau, and thus all aspiring physicians in Macau have to obtain their education and qualification elsewhere.[160] Local nurses are trained at the Macau Polytechnic Institute and the Kiang Wu Nursing College.[161][162] Currently there are no training courses in midwifery in Macau. A study by the University of Macau, commissioned by the Macau SAR government, concluded that Macau is too small to have its own medical specialist training centre.[163]
 
@@ -163,7 +159,7 @@ Macau healthcare authorities send patients to Queen Mary Hospital in Hong Kong i
 
 Education
 
-UM_Hengqin_2.jpg is located in neighbouring Hengqin.]]
+is located in neighbouring Hengqin.]]
 
 Education in Macau does not have a single centralised set of standards or curriculum. Individual schools follow different educational models, including Chinese, Portuguese, Hong Kong, and British systems.[168] Children are required to attend school from the age of five until completion of lower secondary school, or at age 15. Of residents aged 3 and older, 69.4 per cent completed lower secondary education, 49.2 per cent graduated from an upper secondary school, 21 per cent earned a bachelor's degree or higher.[169] Mandatory education has contributed to an adult literacy rate of 96.5 per cent. While lower than that of other developed economies, the rate is due to the influx of refugees from mainland China during the post-war colonial era. Much of the elderly population were not formally educated due to war and poverty.[170]
 
@@ -190,7 +186,7 @@ Food in Macau is mainly based on both Cantonese and Portuguese cuisine, drawing 
 
 Sports
 
-2008_Macau_F3_GP.JPG racers in the 2008 Macau Grand Prix]]
+racers in the 2008 Macau Grand Prix]]
 
 Despite its small area, Macau is home to a variety of sports and recreational facilities that have hosted a number of major international sporting events, including the 2005 East Asian Games, the 2006 Lusophony Games, and the 2007 Asian Indoor Games.
 

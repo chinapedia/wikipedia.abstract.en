@@ -1,4 +1,4 @@
-19_York_Place,_Edinburgh.jpg The_grave_of_John_Abercrombie,_St_Cuthberts,_Edinburgh.JPG JOHN ABERCROMBIE (10 October 1780 – 14 November 1844) was a Scottish physician and philosopher. The _Chambers Biographical Dictionary_ says of him that after James Gregory's death, he was "recognized as the first consulting physician in Scotland".[1]
+JOHN ABERCROMBIE (10 October 1780 – 14 November 1844) was a Scottish physician and philosopher. The _Chambers Biographical Dictionary_ says of him that after James Gregory's death, he was "recognized as the first consulting physician in Scotland".[1]
 
 He was the official physician to Heriot's Hospital and Physician to the King for Scotland.[2]
 

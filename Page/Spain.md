@@ -13,7 +13,7 @@ Spain is a secular parliamentary democracy and a parliamentary monarchy,[6] with
 
 Etymology
 
-The origins of the Roman name _Hispania_, from which the modern name _España_ was derived, are uncertain due to inadequate evidence, although it is documented that the Phoenicians and Carthaginians referred to the region as _Spania_, therefore the most widely accepted etymology is a Semitic-Phoenician one.[9][10] Down the centuries there have been a number of accounts and hypotheses: Dama_de_Elche_(M.A.N._Madrid)_01.jpg, possibly depicting Tanit, from Carthaginian Iberia, 4th century BC]]
+The origins of the Roman name _Hispania_, from which the modern name _España_ was derived, are uncertain due to inadequate evidence, although it is documented that the Phoenicians and Carthaginians referred to the region as _Spania_, therefore the most widely accepted etymology is a Semitic-Phoenician one.[9][10] Down the centuries there have been a number of accounts and hypotheses: , possibly depicting Tanit, from Carthaginian Iberia, 4th century BC]]
 
 The Renaissance scholar Antonio de Nebrija proposed that the word _Hispania_ evolved from the Iberian word _Hispalis_, meaning "city of the western world".
 
@@ -28,7 +28,7 @@ Two 15th-century Spanish Jewish scholars, Don Isaac Abravanel and Solomon ibn Ve
 
 History
 
-Reproduction_cave_of_Altamira_02.jpg paintings,[18] in Cantabria]]
+paintings,[18] in Cantabria]]
 
 Iberia enters written records as a land populated largely by the Iberians, Basques and Celts. Early on its coastal areas were settled by Phoenicians who founded Western Europe's most ancient cities Cadiz and Malaga. Phoenician influence expanded as much of the Peninsula was eventually incorporated into the Carthaginian Empire, becoming a major theatre of the Punic Wars against the expanding Roman Empire. After an arduous conquest, the peninsula came fully under Roman Rule. During the early Middle Ages it came under Gothic rule but later, much of it was conquered by Muslim invaders from North Africa. In a process that took centuries, the small Christian kingdoms in the north gradually regained control of the peninsula. The last Muslim state fell in the same year Columbus reached the Americas. A global empire began which saw Spain become the strongest kingdom in Europe, the leading world power for a century and a half, and the largest overseas empire for three centuries.
 
@@ -36,21 +36,21 @@ Continued wars and other problems eventually led to a diminished status. The Nap
 
 Prehistory and pre-Roman peoples
 
-Greek_and_Phoenician_Colonies_in_The_Iberian_Peninsula.png Archaeological research at Atapuerca indicates the Iberian Peninsula was populated by hominids 1.2 million years ago.[19] In Atapuerca fossils have been found of the earliest known hominins in Europe, the Homo antecessor. Modern humans first arrived in Iberia, from the north on foot, about 35,000 years ago.[20] The best known artefacts of these prehistoric human settlements are the famous paintings in the Altamira cave of Cantabria in northern Iberia, which were created from 35,600 to 13,500 BCE by Cro-Magnon.[21][22] Archaeological and genetic evidence suggests that the Iberian Peninsula acted as one of several major refugia from which northern Europe was repopulated following the end of the last ice age.
+Archaeological research at Atapuerca indicates the Iberian Peninsula was populated by hominids 1.2 million years ago.[19] In Atapuerca fossils have been found of the earliest known hominins in Europe, the Homo antecessor. Modern humans first arrived in Iberia, from the north on foot, about 35,000 years ago.[20] The best known artefacts of these prehistoric human settlements are the famous paintings in the Altamira cave of Cantabria in northern Iberia, which were created from 35,600 to 13,500 BCE by Cro-Magnon.[21][22] Archaeological and genetic evidence suggests that the Iberian Peninsula acted as one of several major refugia from which northern Europe was repopulated following the end of the last ice age.
 
 The largest groups inhabiting the Iberian Peninsula before the Roman conquest were the Iberians and the Celts. The Iberians inhabited the Mediterranean side of the peninsula, from the northeast to the southeast. The Celts inhabited much of the inner and Atlantic sides of the peninsula, from the northwest to the southwest. Basques occupied the western area of the Pyrenees mountain range and adjacent areas, the Phoenician-influenced Tartessians culture flourished in the southwest and the Lusitanians and Vettones occupied areas in the central west. A number of cities were founded along the coast by Phoenicians, and trading outposts and colonies were established by Greeks in the East. Eventually, Phoenician-Carthaginians expanded inland towards the meseta, however due to the bellicose inland tribes the Carthaginians got settled in the coasts of the Iberian Peninsula.
 
 Roman Hispania and the Visigothic Kingdom
 
-Teatro_de_Mérida,_España,_2017_18.jpg, Mérida]]
+, Mérida]]
 
 During the Second Punic War, roughly between 210 and 205 BC the expanding Roman Republic captured Carthaginian trading colonies along the Mediterranean coast. Although it took the Romans nearly two centuries to complete the conquest of the Iberian Peninsula, they retained control of it for over six centuries. Roman rule was bound together by law, language, and the Roman road.[23]
 
 The cultures of the Celtic and Iberian populations were gradually Romanised (Latinised) at different rates depending on what part of Hispania they lived in, with local leaders being admitted into the Roman aristocratic class.[24] Hispania served as a granary for the Roman market, and its harbours exported gold, wool, olive oil, and wine. Agricultural production increased with the introduction of irrigation projects, some of which remain in use. Emperors Hadrian, Trajan, Theodosius I, and the philosopher Seneca were born in Hispania. Christianity was introduced into Hispania in the 1st century AD and it became popular in the cities in the 2nd century AD.[25] Most of Spain's present languages and religion, and the basis of its laws, originate from this period.[26]
 
-Concil_Toled.jpg and bishops. Council III of Toledo, 589. Codex Vigilanus, fol. 145, Biblioteca del Escorial.]] The weakening of the Western Roman Empire's jurisdiction in Hispania began in 409, when the Germanic Suebi and Vandals, together with the Sarmatian Alans entered the peninsula at the invitation of a Roman usurper. These tribes had crossed the Rhine in early 407 and ravaged Gaul. The Suebi established a kingdom in what is today modern Galicia and northern Portugal whereas the Vandals established themselves in southern Spain by 420 before crossing over to North Africa in 429 and taking Carthage in 439. As the western empire disintegrated, the social and economic base became greatly simplified: but even in modified form, the successor regimes maintained many of the institutions and laws of the late empire, including Christianity and assimilation to the evolving Roman culture.
+and bishops. Council III of Toledo, 589. Codex Vigilanus, fol. 145, Biblioteca del Escorial.]] The weakening of the Western Roman Empire's jurisdiction in Hispania began in 409, when the Germanic Suebi and Vandals, together with the Sarmatian Alans entered the peninsula at the invitation of a Roman usurper. These tribes had crossed the Rhine in early 407 and ravaged Gaul. The Suebi established a kingdom in what is today modern Galicia and northern Portugal whereas the Vandals established themselves in southern Spain by 420 before crossing over to North Africa in 429 and taking Carthage in 439. As the western empire disintegrated, the social and economic base became greatly simplified: but even in modified form, the successor regimes maintained many of the institutions and laws of the late empire, including Christianity and assimilation to the evolving Roman culture.
 
-Alcazar_of_Toledo_-_Toledo,_Spain_-_Dec_2006.jpg, capital of the Visigothic Kingdom]] The Byzantines established an occidental province, Spania, in the south, with the intention of reviving Roman rule throughout Iberia. Eventually, however, Hispania was reunited under Visigothic rule. These Visigoths, or Western Goths, after sacking Rome under the leadership of Alaric (410), turned towards the Iberian Peninsula, with Athaulf for their leader, and occupied the northeastern portion. Wallia extended his rule over most of the peninsula, keeping the Suebians shut up in Galicia. Theodoric I took part, with the Romans and Franks, in the Battle of the Catalaunian Plains, where Attila was routed. Euric (466), who put an end to the last remnants of Roman power in the peninsula, may be considered the first monarch of Spain, though the Suebians still maintained their independence in Galicia. Euric was also the first king to give written laws to the Visigoths. In the following reigns the Catholic kings of France assumed the role of protectors of the Hispano-Roman Catholics against the Arianism of the Visigoths, and in the wars which ensued Alaric II and Amalaric lost their lives.
+, capital of the Visigothic Kingdom]] The Byzantines established an occidental province, Spania, in the south, with the intention of reviving Roman rule throughout Iberia. Eventually, however, Hispania was reunited under Visigothic rule. These Visigoths, or Western Goths, after sacking Rome under the leadership of Alaric (410), turned towards the Iberian Peninsula, with Athaulf for their leader, and occupied the northeastern portion. Wallia extended his rule over most of the peninsula, keeping the Suebians shut up in Galicia. Theodoric I took part, with the Romans and Franks, in the Battle of the Catalaunian Plains, where Attila was routed. Euric (466), who put an end to the last remnants of Roman power in the peninsula, may be considered the first monarch of Spain, though the Suebians still maintained their independence in Galicia. Euric was also the first king to give written laws to the Visigoths. In the following reigns the Catholic kings of France assumed the role of protectors of the Hispano-Roman Catholics against the Arianism of the Visigoths, and in the wars which ensued Alaric II and Amalaric lost their lives.
 
 Athanagild, having risen against King Agila, called in the Byzantines and, in payment for the succour they gave him, ceded to them the maritime places of the southeast (554). Liuvigild restored the political unity of the peninsula, subduing the Suebians, but the religious divisions of the country, reaching even the royal family, brought on a civil war. St. Hermengild, the king's son, putting himself at the head of the Catholics, was defeated and taken prisoner, and suffered martyrdom for rejecting communion with the Arians. Recared, son of Liuvigild and brother of St. Hermengild, added religious unity to the political unity achieved by his father, accepting the Catholic faith in the Third Council of Toledo (589). The religious unity established by this council was the basis of that fusion of Goths with Hispano-Romans which produced the Spanish nation. Sisebut and Suintila completed the expulsion of the Byzantines from Spain.[27]
 
@@ -58,7 +58,7 @@ Intermarriage between Visigoths and Hispano-Romans was prohibited, though in pra
 
 Muslim era and Reconquista
 
-Mort_de_Roland.jpg leader Roland defeated by a Basque and Muslim-Muladi (Banu Qasi) alliance at the Battle of Roncevaux Pass (778) originated the Kingdom of Navarre led by Íñigo Arista.]]
+leader Roland defeated by a Basque and Muslim-Muladi (Banu Qasi) alliance at the Battle of Roncevaux Pass (778) originated the Kingdom of Navarre led by Íñigo Arista.]]
 
 In the 8th century, nearly all of the Iberian Peninsula was conquered (711–718) by largely Moorish Muslim armies from North Africa. These conquests were part of the expansion of the Umayyad Caliphate. Only a small area in the mountainous north-west of the peninsula managed to resist the initial invasion. Legend has it that Count Julian, the governor of Ceuta, in revenge for the violation of his daughter, Florinda, by King Roderic, invited the Muslims and opened to them the gates of the peninsula.
 
@@ -68,17 +68,17 @@ Conversion to Islam proceeded at an increasing pace. The _muladíes_ (Muslims of
 
 The Muslim community in the Iberian Peninsula was itself diverse and beset by social tensions. The Berber people of North Africa, who had provided the bulk of the invading armies, clashed with the Arab leadership from the Middle East. Over time, large Moorish populations became established, especially in the Guadalquivir River valley, the coastal plain of Valencia, the Ebro River valley and (towards the end of this period) in the mountainous region of Granada.[34]
 
-Cordoba_sal.jpg is among the oldest mosque buildings in the world]]
+is among the oldest mosque buildings in the world]]
 
 Córdoba, the capital of the caliphate since Abd-ar-Rahman III, was the largest, richest and most sophisticated city in western Europe. Mediterranean trade and cultural exchange flourished. Muslims imported a rich intellectual tradition from the Middle East and North Africa. Some important philosophers at the time were Averroes, Ibn Arabi and Maimonides. The Romanised cultures of the Iberian Peninsula interacted with Muslim and Jewish cultures in complex ways, giving the region a distinctive culture.[35] Outside the cities, where the vast majority lived, the land ownership system from Roman times remained largely intact as Muslim leaders rarely dispossessed landowners and the introduction of new crops and techniques led to an expansion of agriculture introducing new produces which originally came from Asia or the former territories of the Roman Empire.[36]
 
-In the 11th century, the Muslim holdings fractured into rival Taifa states (Arab, Berber, and Slav),[37] allowing the small Christian states the opportunity to greatly enlarge their territories.[38] The arrival from North Africa of the Islamic ruling sects of the Almoravids and the Almohads restored unity upon the Muslim holdings, with a stricter, less tolerant application of Islam, and saw a revival in Muslim fortunes. This re-united Islamic state experienced more than a century of successes that partially reversed Christian gains. Leon_(San_Isidoro,_panteón).jpg, León]] The _Reconquista_ (Reconquest) was the centuries-long period in which Christian rule was re-established over the Iberian Peninsula. The Reconquista is viewed as beginning with the Battle of Covadonga won by Don Pelayo in 722 and was concurrent with the period of Muslim rule on the Iberian Peninsula. The Christian army's victory over Muslim forces led to the creation of the Christian Kingdom of Asturias along the northwestern coastal mountains. Shortly after, in 739, Muslim forces were driven from Galicia, which was to eventually host one of medieval Europe's holiest sites, Santiago de Compostela and was incorporated into the new Christian kingdom. The Kingdom of León was the strongest Christian kingdom for centuries. In 1188 the first modern parliamentary session in Europe was held in León (Cortes of León). The Kingdom of Castile, formed from Leonese territory, was its successor as strongest kingdom. The kings and the nobility fought for power and influence in this period. The example of the Roman emperors influenced the political objective of the Crown, while the nobles benefited from feudalism.
+In the 11th century, the Muslim holdings fractured into rival Taifa states (Arab, Berber, and Slav),[37] allowing the small Christian states the opportunity to greatly enlarge their territories.[38] The arrival from North Africa of the Islamic ruling sects of the Almoravids and the Almohads restored unity upon the Muslim holdings, with a stricter, less tolerant application of Islam, and saw a revival in Muslim fortunes. This re-united Islamic state experienced more than a century of successes that partially reversed Christian gains. , León]] The _Reconquista_ (Reconquest) was the centuries-long period in which Christian rule was re-established over the Iberian Peninsula. The Reconquista is viewed as beginning with the Battle of Covadonga won by Don Pelayo in 722 and was concurrent with the period of Muslim rule on the Iberian Peninsula. The Christian army's victory over Muslim forces led to the creation of the Christian Kingdom of Asturias along the northwestern coastal mountains. Shortly after, in 739, Muslim forces were driven from Galicia, which was to eventually host one of medieval Europe's holiest sites, Santiago de Compostela and was incorporated into the new Christian kingdom. The Kingdom of León was the strongest Christian kingdom for centuries. In 1188 the first modern parliamentary session in Europe was held in León (Cortes of León). The Kingdom of Castile, formed from Leonese territory, was its successor as strongest kingdom. The kings and the nobility fought for power and influence in this period. The example of the Roman emperors influenced the political objective of the Crown, while the nobles benefited from feudalism.
 
 Muslim armies had also moved north of the Pyrenees but they were defeated by Frankish forces at the Battle of Poitiers, Frankia and pushed out of the very southernmost region of France along the seacoast by the 760s. Later, Frankish forces established Christian counties on the southern side of the Pyrenees. These areas were to grow into the kingdoms of Navarre and Aragon.[39] For several centuries, the fluctuating frontier between the Muslim and Christian controlled areas of Iberia was along the Ebro and Douro valleys.
 
-The County of Barcelona and the Kingdom of Aragon entered in a dynastic union and gained territory and power in the Mediterranean. In 1229 Majorca was conquered, so was Valencia in 1238. The break-up of Al-Andalus into the competing taifa kingdoms helped the long embattled Iberian Christian kingdoms gain the initiative. The capture of the strategically central city of Toledo in 1085 marked a significant shift in the balance of power in favour of the Christian kingdoms. Following a great Muslim resurgence in the 12th century, the great Moorish strongholds in the south fell to Christian Spain in the 13th century—Córdoba in 1236 and Seville in 1248. In the 13th and 14th centuries, the Marinid dynasty of Morocco invaded and established some enclaves on the southern coast but failed in their attempt to re-establish North African rule in Iberia and were soon driven out. After 800 years of Muslim presence in Spain, the last Nasrid sultanate of Granada, a tributary state would finally surrender in 1492 to the Catholic monarchs Queen Isabella I of Castile[40] and King Ferdinand II of Aragon.[41][42][43] LibroDesJuegasAlfonXAndCourt.jpg, pretender to the Holy Roman Empire crown and king of the Crown of Castile]] From the mid 13th century, literature and philosophy started to flourish again in the Christian peninsular kingdoms, based on Roman and Gothic traditions. An important philosopher from this time is Ramon Llull. Abraham Cresques was a prominent Jewish cartographer. Roman law and its institutions were the model for the legislators. The king Alfonso X of Castile focused on strengthening this Roman and Gothic past, and also on linking the Iberian Christian kingdoms with the rest of medieval European Christendom. Alfonso worked for being elected emperor of the Holy Roman Empire and published the Siete Partidas code. The Toledo School of Translators is the name that commonly describes the group of scholars who worked together in the city of Toledo during the 12th and 13th centuries, to translate many of the philosophical and scientific works from Classical Arabic, Ancient Greek, and Ancient Hebrew.
+The County of Barcelona and the Kingdom of Aragon entered in a dynastic union and gained territory and power in the Mediterranean. In 1229 Majorca was conquered, so was Valencia in 1238. The break-up of Al-Andalus into the competing taifa kingdoms helped the long embattled Iberian Christian kingdoms gain the initiative. The capture of the strategically central city of Toledo in 1085 marked a significant shift in the balance of power in favour of the Christian kingdoms. Following a great Muslim resurgence in the 12th century, the great Moorish strongholds in the south fell to Christian Spain in the 13th century—Córdoba in 1236 and Seville in 1248. In the 13th and 14th centuries, the Marinid dynasty of Morocco invaded and established some enclaves on the southern coast but failed in their attempt to re-establish North African rule in Iberia and were soon driven out. After 800 years of Muslim presence in Spain, the last Nasrid sultanate of Granada, a tributary state would finally surrender in 1492 to the Catholic monarchs Queen Isabella I of Castile[40] and King Ferdinand II of Aragon.[41][42][43] , pretender to the Holy Roman Empire crown and king of the Crown of Castile]] From the mid 13th century, literature and philosophy started to flourish again in the Christian peninsular kingdoms, based on Roman and Gothic traditions. An important philosopher from this time is Ramon Llull. Abraham Cresques was a prominent Jewish cartographer. Roman law and its institutions were the model for the legislators. The king Alfonso X of Castile focused on strengthening this Roman and Gothic past, and also on linking the Iberian Christian kingdoms with the rest of medieval European Christendom. Alfonso worked for being elected emperor of the Holy Roman Empire and published the Siete Partidas code. The Toledo School of Translators is the name that commonly describes the group of scholars who worked together in the city of Toledo during the 12th and 13th centuries, to translate many of the philosophical and scientific works from Classical Arabic, Ancient Greek, and Ancient Hebrew.
 
-The Islamic transmission of the classics is the main Islamic contributions to Medieval Europe. The Castilian language—more commonly known (especially later in history and at present) as "Spanish" after becoming the national language and _lingua franca_ of Spain—evolved from Vulgar Latin, as did other Romance languages of Spain like the Catalan, Asturian and Galician languages, as well as other Romance languages in Latin Europe. Basque, the only non-Romance language in Spain, continued evolving from Early Basque to Medieval. The Glosas Emilianenses founded in the monasteries of San Millán de la Cogolla contain the first written words in both Basque and Spanish, having the first become an influence in the formation of the second as an evolution of Latin. Patio_de_los_Leones._Alhambra_de_Granada._Spain..JPG, the Nasrids were the last ruling Moorish dynasty]]
+The Islamic transmission of the classics is the main Islamic contributions to Medieval Europe. The Castilian language—more commonly known (especially later in history and at present) as "Spanish" after becoming the national language and _lingua franca_ of Spain—evolved from Vulgar Latin, as did other Romance languages of Spain like the Catalan, Asturian and Galician languages, as well as other Romance languages in Latin Europe. Basque, the only non-Romance language in Spain, continued evolving from Early Basque to Medieval. The Glosas Emilianenses founded in the monasteries of San Millán de la Cogolla contain the first written words in both Basque and Spanish, having the first become an influence in the formation of the second as an evolution of Latin. , the Nasrids were the last ruling Moorish dynasty]]
 
 The 13th century also witnessed the Crown of Aragon, centred in Spain's north east, expand its reach across islands in the Mediterranean, to Sicily and Naples.[44] Around this time the universities of Palencia (1212/1263) and Salamanca (1218/1254) were established. The Black Death of 1348 and 1349 devastated Spain.[45]
 
@@ -88,7 +88,7 @@ Anti-Semitic animus accompanied the Reconquista. There were mass killings in Ara
 
 Spanish Empire
 
-Emanuel_Gottlieb_Leutze_-_Columbus_Before_the_Queen.JPG meets Isabella I of Castile and Ferdinand II of Aragon in the Alcázar of Córdoba]]
+meets Isabella I of Castile and Ferdinand II of Aragon in the Alcázar of Córdoba]]
 
 In 1469, the crowns of the Christian kingdoms of Castile and Aragon were united by the marriage of Isabella I of Castile and Ferdinand II of Aragon. 1478 commenced the completion of the conquest of the Canary Islands and in 1492, the combined forces of Castile and Aragon captured the Emirate of Granada from its last ruler Muhammad XII, ending the last remnant of a 781-year presence of Islamic rule in Iberia. That same year, Spain's Jews were ordered to convert to Catholicism or face expulsion from Spanish territories during the Spanish Inquisition.[54] As many as 200,000 Jews were expelled from Spain.[55][56][57] This was followed by expulsions in 1493 in Aragonese Sicily and Portugal in 1497. The Treaty of Granada guaranteed religious tolerance towards Muslims,[58] for a few years before Islam was outlawed in 1502 in the Kingdom of Castile and 1527 in the Kingdom of Aragon, leading to Spain's Muslim population becoming nominally Christian Moriscos. A few decades after the Morisco rebellion of Granada known as the War of the Alpujarras, a significant proportion of Spain's formerly-Muslim population was expelled, settling primarily in North Africa.[59] From 1609–14, over 300,000 Moriscos were sent on ships to North Africa and other locations, and, of this figure, around 50,000 died resisting the expulsion, and 60,000 died on the journey.[60][61][62]
 
@@ -100,23 +100,23 @@ As Renaissance New Monarchs, Isabella and Ferdinand centralised royal power at t
 
 The unification of the crowns of Aragon and Castile by the marriage of their sovereigns laid the basis for modern Spain and the Spanish Empire, although each kingdom of Spain remained a separate country socially, politically, legally, and in currency and language.[69][70]
 
-Doña_María_Pacheco_después_de_Villalar_(Museo_del_Prado).jpg, last leader of Revolt of the Comuneros, one of the first modern revolutions]] There were two big revolts against the new Habsburg monarch and the more authoritarian and imperial-style crown: Revolt of the Comuneros in Castile and Revolt of the Brotherhoods in Majorca and Valencia. After years of combat, Comuneros Juan López de Padilla, Juan Bravo and Francisco Maldonado were executed and María Pacheco went into exile. Germana de Foix also finished with the revolt in the Mediterranean.
+, last leader of Revolt of the Comuneros, one of the first modern revolutions]] There were two big revolts against the new Habsburg monarch and the more authoritarian and imperial-style crown: Revolt of the Comuneros in Castile and Revolt of the Brotherhoods in Majorca and Valencia. After years of combat, Comuneros Juan López de Padilla, Juan Bravo and Francisco Maldonado were executed and María Pacheco went into exile. Germana de Foix also finished with the revolt in the Mediterranean.
 
 Habsburg Spain was Europe's leading power throughout the 16th century and most of the 17th century, a position reinforced by trade and wealth from colonial possessions and became the world's leading maritime power. It reached its apogee during the reigns of the first two Spanish Habsburgs—Charles I (1516–1556) and Philip II (1556–1598). This period saw the Italian Wars, the Schmalkaldic War, the Dutch Revolt, the War of the Portuguese Succession, clashes with the Ottomans, intervention in the French Wars of Religion and the Anglo-Spanish War.[71]
 
-Spanish_Empire_Complete.svg Through exploration and conquest or royal marriage alliances and inheritance, the Spanish Empire expanded to include vast areas in the Americas, islands in the Asia-Pacific area, areas of Italy, cities in Northern Africa, as well as parts of what are now France, Germany, Belgium, Luxembourg, and the Netherlands. The first circumnavigation of the world was carried out in 1519–1521. It was the first empire on which it was said that the sun never set. This was an Age of Discovery, with daring explorations by sea and by land, the opening-up of new trade routes across oceans, conquests and the beginnings of European colonialism. Spanish explorers brought back precious metals, spices, luxuries, and previously unknown plants, and played a leading part in transforming the European understanding of the globe.[72] The cultural efflorescence witnessed during this period is now referred to as the Spanish Golden Age. The expansion of the empire caused immense upheaval in the Americas as the collapse of societies and empires and new diseases from Europe devastated American indigenous populations. The rise of humanism, the Counter-Reformation and new geographical discoveries and conquests raised issues that were addressed by the intellectual movement now known as the School of Salamanca, which developed the first modern theories of what are now known as international law and human rights. Juan Luis Vives was another prominent humanist during this period.
+Through exploration and conquest or royal marriage alliances and inheritance, the Spanish Empire expanded to include vast areas in the Americas, islands in the Asia-Pacific area, areas of Italy, cities in Northern Africa, as well as parts of what are now France, Germany, Belgium, Luxembourg, and the Netherlands. The first circumnavigation of the world was carried out in 1519–1521. It was the first empire on which it was said that the sun never set. This was an Age of Discovery, with daring explorations by sea and by land, the opening-up of new trade routes across oceans, conquests and the beginnings of European colonialism. Spanish explorers brought back precious metals, spices, luxuries, and previously unknown plants, and played a leading part in transforming the European understanding of the globe.[72] The cultural efflorescence witnessed during this period is now referred to as the Spanish Golden Age. The expansion of the empire caused immense upheaval in the Americas as the collapse of societies and empires and new diseases from Europe devastated American indigenous populations. The rise of humanism, the Counter-Reformation and new geographical discoveries and conquests raised issues that were addressed by the intellectual movement now known as the School of Salamanca, which developed the first modern theories of what are now known as international law and human rights. Juan Luis Vives was another prominent humanist during this period.
 
-Europe_map_1648.PNG, major Catholic countries like Spain, Poland and the Holy Roman Empire lost their influence and the Habsburg supremacy curtailed]] Spain's 16th century maritime supremacy was demonstrated by the victory over the Ottomans at Lepanto in 1571, and then after the setback of the Spanish Armada in 1588, in a series of victories against England in the Anglo-Spanish War of 1585–1604. However, during the middle decades of the 17th century Spain's maritime power went into a long decline with mounting defeats against the United Provinces and then England; that by the 1660s it was struggling grimly to defend its overseas possessions from pirates and privateers.
+, major Catholic countries like Spain, Poland and the Holy Roman Empire lost their influence and the Habsburg supremacy curtailed]] Spain's 16th century maritime supremacy was demonstrated by the victory over the Ottomans at Lepanto in 1571, and then after the setback of the Spanish Armada in 1588, in a series of victories against England in the Anglo-Spanish War of 1585–1604. However, during the middle decades of the 17th century Spain's maritime power went into a long decline with mounting defeats against the United Provinces and then England; that by the 1660s it was struggling grimly to defend its overseas possessions from pirates and privateers.
 
 The Protestant Reformation dragged the kingdom ever more deeply into the mire of religiously charged wars. The result was a country forced into ever expanding military efforts across Europe and in the Mediterranean.[73] By the middle decades of a war- and plague-ridden 17th-century Europe, the Spanish Habsburgs had enmeshed the country in continent-wide religious-political conflicts. These conflicts drained it of resources and undermined the economy generally. Spain managed to hold on to most of the scattered Habsburg empire, and help the imperial forces of the Holy Roman Empire reverse a large part of the advances made by Protestant forces, but it was finally forced to recognise the separation of Portugal and the United Provinces, and eventually suffered some serious military reverses to France in the latter stages of the immensely destructive, Europe-wide Thirty Years' War.[74] In the latter half of the 17th century, Spain went into a gradual decline, during which it surrendered several small territories to France and England; however, it maintained and enlarged its vast overseas empire, which remained intact until the beginning of the 19th century.
 
-La_familia_de_Felipe_V_(Van_Loo).jpg. During the Enlightenment in Spain a new royal family reigned, the House of Bourbon.]] The decline culminated in a controversy over succession to the throne which consumed the first years of the 18th century. The War of the Spanish Succession was a wide-ranging international conflict combined with a civil war, and was to cost the kingdom its European possessions and its position as one of the leading powers on the Continent.[75] During this war, a new dynasty originating in France, the Bourbons, was installed. Long united only by the Crown, a true Spanish state was established when the first Bourbon king, Philip V, united the crowns of Castile and Aragon into a single state, abolishing many of the old regional privileges and laws.[76]
+. During the Enlightenment in Spain a new royal family reigned, the House of Bourbon.]] The decline culminated in a controversy over succession to the throne which consumed the first years of the 18th century. The War of the Spanish Succession was a wide-ranging international conflict combined with a civil war, and was to cost the kingdom its European possessions and its position as one of the leading powers on the Continent.[75] During this war, a new dynasty originating in France, the Bourbons, was installed. Long united only by the Crown, a true Spanish state was established when the first Bourbon king, Philip V, united the crowns of Castile and Aragon into a single state, abolishing many of the old regional privileges and laws.[76]
 
 The 18th century saw a gradual recovery and an increase in prosperity through much of the empire. The new Bourbon monarchy drew on the French system of modernising the administration and the economy. Enlightenment ideas began to gain ground among some of the kingdom's elite and monarchy. Bourbon reformers created formal disciplined militias across the Atlantic. Spain needed every hand it could take during the seemingly endless wars of the eighteenth century—the Spanish War of Succession or Queen Anne's War (1702–13), the War of Jenkins' Ear (1739–42) which became the War of the Austrian Succession (1740–48), the Seven Years' War (1756–63) and the Anglo-Spanish War (1779–83)—and its new disciplined militias served around the Atlantic as needed.
 
 Liberalism, labour movement and nation state
 
-El_Tres_de_Mayo,_by_Francisco_de_Goya,_from_Prado_in_Google_Earth.jpg'' by Francisco de Goya depicts an episode of the Spanish Independence War.]]
+'' by Francisco de Goya depicts an episode of the Spanish Independence War.]]
 
 In 1793, Spain went to war against the revolutionary new French Republic as a member of the first Coalition. The subsequent War of the Pyrenees polarised the country in a reaction against the gallicised elites and following defeat in the field, peace was made with France in 1795 at the Peace of Basel in which Spain lost control over two-thirds of the island of Hispaniola. The Prime Minister, Manuel Godoy, then ensured that Spain allied herself with France in the brief War of the Third Coalition which ended with the British naval victory at the Battle of Trafalgar in 1805. In 1807, a secret treaty between Napoleon and the unpopular prime minister led to a new declaration of war against Britain and Portugal. Napoleon's troops entered the country to invade Portugal but instead occupied Spain's major fortresses. The Spanish king abdicated in favour of Napoleon's brother, Joseph Bonaparte.
 
@@ -124,17 +124,17 @@ Joseph Bonaparte was seen as a puppet monarch and was regarded with scorn by the
 
 Napoleon was forced to intervene personally, defeating several Spanish armies and forcing a British army to retreat. However, further military action by Spanish armies, guerrillas and Wellington's British-Portuguese forces, combined with Napoleon's disastrous invasion of Russia, led to the ousting of the French imperial armies from Spain in 1814, and the return of King Ferdinand VII.[80]
 
-Cortes_de_cadiz.jpg in Cádiz]]
+in Cádiz]]
 
 During the war, in 1810, a revolutionary body, the Cortes of Cádiz, was assembled to co-ordinate the effort against the Bonapartist regime and to prepare a constitution.[81] It met as one body, and its members represented the entire Spanish empire.[82] In 1812, a constitution for universal representation under a constitutional monarchy was declared, but after the fall of the Bonapartist regime, Ferdinand VII dismissed the Cortes Generales and was determined to rule as an absolute monarch. These events foreshadowed the conflict between conservatives and liberals in the 19th and early 20th centuries.
 
 Spain's conquest by France benefited Latin American anti-colonialists who resented the Imperial Spanish government's policies that favoured Spanish-born citizens (Peninsulars) over those born overseas (Criollos) and demanded retroversion of the sovereignty to the people. Starting in 1809 Spain's American colonies began a series of revolutions and declared independence, leading to the Spanish American wars of independence that ended Spanish control over its mainland colonies in the Americas. King Ferdinand VII's attempt to re-assert control proved futile as he faced opposition not only in the colonies but also in Spain and army revolts followed, led by liberal officers. By the end of 1826, the only American colonies Spain held were Cuba and Puerto Rico.
 
-Barcelona,_proclamación_de_la_república,_aspecto_de_la_plaza_de_San_Jaime_en_la_mañana_del_21_de_febrero,_de_Pellicer.jpg in Barcelona, 1873. Francesc Pi i Margall, was president and intellectual theoric of federalism.]]
+in Barcelona, 1873. Francesc Pi i Margall, was president and intellectual theoric of federalism.]]
 
 The Napoleonic War left Spain economically ruined, deeply divided and politically unstable. In the 1830s and 1840s Anti-liberal forces known as Carlists fought against liberals in the Carlist Wars. Liberal forces won, but the conflict between progressive and conservative liberals ended in a weak early constitutional period. After the Glorious Revolution of 1868 and the short-lived First Spanish Republic, a more stable monarchic period began characterised by the practice of _turnismo_ (the rotation of government control between progressive and conservative liberals within the Spanish government).
 
-Semana_tragica.jpg events in 1909]]
+events in 1909]]
 
 In the late 19th century nationalist movements arose in the Philippines and Cuba. In 1895 and 1896 the Cuban War of Independence and the Philippine Revolution broke out and eventually the United States became involved. The Spanish–American War was fought in the spring of 1898 and resulted in Spain losing the last of its once vast colonial empire outside of North Africa. _El Desastre_ (the Disaster), as the war became known in Spain, gave added impetus to the Generation of '98 who were conducting an analysis of the country.
 
@@ -142,17 +142,17 @@ Although the period around the turn of the century was one of increasing prosper
 
 Second Spanish Republic
 
-Arrested_workers_during_the_Asturian_Revolution,_1934.jpg.]] Government_of_the_Republican_Spain_in_Barcelona._2.jpg and the government of the Republic of Spain in Barcelona.]] After a period of authoritarian rule under General Miguel Primo de Rivera (1923–1931), the king determined to seek a solution to the political situation and establish the Constitution, the king led the municipal elections on 12 April 1931. These gave a resounding victory to the Republican-Socialist candidacies in large cities and provincial capitals, while the total number of councillors was mostly monarchical. The organised demonstrations demanding the establishment of a democratic republic led the king to leave the country and the proclamation of the same on 14 April of that same year. During the Second Republic there was a great political and social upheaval, marked by a sharp radicalisation of the left and the right. The moderate leaders were boycotted and each party intended to create a Spain to suit them. During the first two years, governed a coalition of republican and socialist parties. In the elections held in 1933 the right triumphed and in 1936, the left. The violent acts during this period included the burning of churches, the monarchical uprising of the militar José Sanjurjo, the Revolution of 1934 and numerous attacks against rival political leaders. On the other hand, it is also during the Second Republic when important reforms are initiated to modernise the country – democratic constitution, agrarian reform, restructuring of the army, first Statutes of Autonomy ... – and the rights of citizens as the recognition of women's right to vote, establishing universal suffrage.
+.]] and the government of the Republic of Spain in Barcelona.]] After a period of authoritarian rule under General Miguel Primo de Rivera (1923–1931), the king determined to seek a solution to the political situation and establish the Constitution, the king led the municipal elections on 12 April 1931. These gave a resounding victory to the Republican-Socialist candidacies in large cities and provincial capitals, while the total number of councillors was mostly monarchical. The organised demonstrations demanding the establishment of a democratic republic led the king to leave the country and the proclamation of the same on 14 April of that same year. During the Second Republic there was a great political and social upheaval, marked by a sharp radicalisation of the left and the right. The moderate leaders were boycotted and each party intended to create a Spain to suit them. During the first two years, governed a coalition of republican and socialist parties. In the elections held in 1933 the right triumphed and in 1936, the left. The violent acts during this period included the burning of churches, the monarchical uprising of the militar José Sanjurjo, the Revolution of 1934 and numerous attacks against rival political leaders. On the other hand, it is also during the Second Republic when important reforms are initiated to modernise the country – democratic constitution, agrarian reform, restructuring of the army, first Statutes of Autonomy ... – and the rights of citizens as the recognition of women's right to vote, establishing universal suffrage.
 
 On 17 July and 18, 1936, the Falangists of Spain, as well as those in the military garrisons of Spanish North Africa, revolted against the government of the Republic in a coup d'état that triumphed in only part of the country. Spain was then divided into two zones: one in which the social revolution of 1936 was effected and under the authority of the Republican government, and the other controlled by the Nationalist insurgents. The situation led to a civil war, in which General Francisco Franco was sworn in as the supreme leader of the insurgents.
 
 Spanish Civil War and Francoist Spain
 
-Bundesarchiv_Bild_183-H25224,_Guernica,_Ruinen.jpg after bombing by the Luftwaffe]]
+after bombing by the Luftwaffe]]
 
 The Spanish Civil War broke out in 1936. For three years the Nationalist forces led by General Francisco Franco and supported by Nazi Germany and Fascist Italy fought the Republican side, which was supported by the Soviet Union, Mexico and International Brigades but it was not supported by the Western powers due to the British-led policy of non-intervention. The civil war was viciously fought and there were many atrocities committed by all sides. The war claimed the lives of over 500,000 people and caused the flight of up to a half-million citizens from the country.[83][84] In 1939, General Franco emerged victorious and became a dictator.
 
-Franco_eisenhower_1959_madrid.jpg and Dwight D. Eisenhower (Madrid 1959) in the context of the Cold War. Spain entered in United Nations in 1955.]]
+and Dwight D. Eisenhower (Madrid 1959) in the context of the Cold War. Spain entered in United Nations in 1955.]]
 
 The state as established under Franco was nominally neutral in the Second World War, although sympathetic to the Axis. The only legal party under Franco's post civil war regime was the _Falange Española Tradicionalista y de las JONS_, formed in 1937; the party emphasised falangism, a form of fascism that emphasised anti-communism, nationalism and Roman Catholicism. Given Franco's opposition to competing political parties, the party was renamed the National Movement (_Movimiento Nacional_) in 1949.
 
@@ -160,11 +160,11 @@ After World War II Spain was politically and economically isolated, and was kept
 
 Restoration of democracy
 
-MITING_CNT_MONTJUÏC.jpg speaks at the meeting of the CNT in Barcelona in 1977 after 36 years of exile.]]
+speaks at the meeting of the CNT in Barcelona in 1977 after 36 years of exile.]]
 
 In 1962, a group of politicians involved in the opposition to Franco's regime inside the country and in exile met in the congress of the European Movement in Munich, where they made a resolution in favour of democracy.[85][86][87]
 
-With Franco's death in November 1975, Juan Carlos succeeded to the position of King of Spain and head of state in accordance with the franquist law. With the approval of the new Spanish Constitution of 1978 and the restoration of democracy, the State devolved much authority to the regions and created an internal organisation based on autonomous communities. The Spanish 1977 Amnesty Law let people of Franco's regime continue inside institutions without consequences, even perpetrators of some crimes during transition to democracy like the Massacre of 3 March 1976 in Vitoria or 1977 Massacre of Atocha. The 'founding chairman' of the current leading political party in Spain, the People's Party, was Manuel Fraga who had been a minister in Franco's government and yet continued with his political career until shortly before his death in 2012. President_Bush_addresses_the_Middle_East_Peace_Conference_at_the_Royal_Palace_in_Madrid,_Spain_-_NARA_-_186439.tif about Israeli–Palestinian peace process with presidents George H. W. Bush and Felipe González, among others.]] In the Basque Country, moderate Basque nationalism coexisted with a radical nationalist movement led by the armed organisation ETA until the latter's dissolution in May 2018.[88] The group was formed in 1959 during Franco's rule but has continued to wage its violent campaign even after the restoration of democracy and the return of a large measure of regional autonomy.
+With Franco's death in November 1975, Juan Carlos succeeded to the position of King of Spain and head of state in accordance with the franquist law. With the approval of the new Spanish Constitution of 1978 and the restoration of democracy, the State devolved much authority to the regions and created an internal organisation based on autonomous communities. The Spanish 1977 Amnesty Law let people of Franco's regime continue inside institutions without consequences, even perpetrators of some crimes during transition to democracy like the Massacre of 3 March 1976 in Vitoria or 1977 Massacre of Atocha. The 'founding chairman' of the current leading political party in Spain, the People's Party, was Manuel Fraga who had been a minister in Franco's government and yet continued with his political career until shortly before his death in 2012. about Israeli–Palestinian peace process with presidents George H. W. Bush and Felipe González, among others.]] In the Basque Country, moderate Basque nationalism coexisted with a radical nationalist movement led by the armed organisation ETA until the latter's dissolution in May 2018.[88] The group was formed in 1959 during Franco's rule but has continued to wage its violent campaign even after the restoration of democracy and the return of a large measure of regional autonomy.
 
 On 23 February 1981, rebel elements among the security forces seized the Cortes in an attempt to impose a military-backed government. King Juan Carlos took personal command of the military and successfully ordered the coup plotters, via national television, to surrender.
 
@@ -172,9 +172,9 @@ During the 1980s the democratic restoration made possible a growing open society
 
 On 1 January 2002, Spain fully adopted the euro, and Spain experienced strong economic growth, well above the EU average during the early 2000s. However, well-publicised concerns issued by many economic commentators at the height of the boom warned that extraordinary property prices and a high foreign trade deficit were likely to lead to a painful economic collapse.[89]
 
-Tratado_de_Lisboa_13_12_2007_(081).jpg since 1986.]] In 2002 the Prestige oil spill occurred with big ecological consequences along Spain's Atlantic coastline. In 2003 José María Aznar supported US president George W. Bush in the Iraq War, and a strong movement against war rose in Spanish society. On 11 March 2004 a local Islamist terrorist group inspired by Al-Qaeda carried out the largest terrorist attack in Spanish history when they killed 191 people and wounded more than 1,800 others by bombing commuter trains in Madrid.[90] Though initial suspicions focused on the Basque terrorist group ETA, evidence soon emerged indicating Islamist involvement. Because of the proximity of the 2004 election, the issue of responsibility quickly became a political controversy, with the main competing parties PP and PSOE exchanging accusations over the handling of the incident.[91] The elections on 14 March were won by the PSOE, led by José Luis Rodríguez Zapatero.
+since 1986.]] In 2002 the Prestige oil spill occurred with big ecological consequences along Spain's Atlantic coastline. In 2003 José María Aznar supported US president George W. Bush in the Iraq War, and a strong movement against war rose in Spanish society. On 11 March 2004 a local Islamist terrorist group inspired by Al-Qaeda carried out the largest terrorist attack in Spanish history when they killed 191 people and wounded more than 1,800 others by bombing commuter trains in Madrid.[90] Though initial suspicions focused on the Basque terrorist group ETA, evidence soon emerged indicating Islamist involvement. Because of the proximity of the 2004 election, the issue of responsibility quickly became a political controversy, with the main competing parties PP and PSOE exchanging accusations over the handling of the incident.[91] The elections on 14 March were won by the PSOE, led by José Luis Rodríguez Zapatero.
 
-Go_Spanish_revolution_-_Indignados.jpg square in Madrid, shown here on 20 May 2011, became a focal point and a symbol during the protests.]]
+square in Madrid, shown here on 20 May 2011, became a focal point and a symbol during the protests.]]
 
 The proportion of Spain's foreign born population increased rapidly during its economic boom in the early 2000s, but then declined due to the financial crisis.[92] In 2005 the Spanish government legalised same sex marriage. Decentralisation was supported with much resistance of Constitutional Court and conservative opposition, so did gender politics like quotas or the law against gender violence. Government talks with ETA happened, and the group announced its permanent cease of violence in 2010.
 
@@ -186,8 +186,6 @@ On 1 June 2018 the Congress of Deputies passed a motion of no-confidence against
 
 
 Geography
-
-Spain_topo.jpg
 
 At , Spain is the world's fifty-second largest country and Europe's fourth largest country. It is some smaller than France and larger than the US state of California. Mount Teide (Tenerife) is the highest mountain peak in Spain and is the third largest volcano in the world from its base. Spain is a transcontinental country, having territory in both Europe and Africa.
 
@@ -201,7 +199,7 @@ Islands
 
 Spain also includes the Balearic Islands in the Mediterranean Sea, the Canary Islands in the Atlantic Ocean and a number of uninhabited islands on the Mediterranean side of the Strait of Gibraltar, known as ("places of sovereignty", or territories under Spanish sovereignty), such as the Chafarinas Islands and Alhucemas. The peninsula of Vélez de la Gomera is also regarded as a _plaza de soberanía_. The isle of Alborán, located in the Mediterranean between Spain and North Africa, is also administered by Spain, specifically by the municipality of Almería, Andalusia. The little Pheasant Island in the River Bidasoa is a Spanish-French condominium.
 
-Largest inhabited islands of Spain: Teide_2_Blick_auf.jpg, Tenerife, Canary Islands]]
+Largest inhabited islands of Spain: , Tenerife, Canary Islands]]
 
   Island                 Population
   ---------------------- ------------
@@ -216,7 +214,7 @@ Largest inhabited islands of Spain: Teide_2_Blick_auf.jpg, Tenerife, Canary Isla
 
 Mountains and rivers
 
-Circo_de_Soaso.jpg, World Heritage Site in the Pyrenees]]
+, World Heritage Site in the Pyrenees]]
 
 Mainland Spain is a mountainous country, dominated by high plateaus and mountain chains. After the Pyrenees, the main mountain ranges are the Cordillera Cantábrica (Cantabrian Range), Sistema Ibérico (Iberian System), Sistema Central (Central System), Montes de Toledo, Sierra Morena and the Sistema Bético (Baetic System) whose highest peak, the Mulhacén, located in Sierra Nevada, is the highest elevation in the Iberian Peninsula. The highest point in Spain is the Teide, a active volcano in the Canary Islands. The Meseta Central (often translated as "Inner Plateau") is a vast plateau in the heart of peninsular Spain.
 
@@ -224,7 +222,7 @@ There are several major rivers in Spain such as the Tagus (_Tajo_), Ebro, Guadia
 
 Climate
 
-Koppen-Geiger_Map_ESP_present.svg 2009Somiedo_(7).JPG, Cantabrian Mountains, Asturias.]] Tossa_de_Mar_View.jpg region of Costa Brava in northeastern Spain]] 291114B-_Tablas_Daimiel_-_El_puente_-_Castilla-La_Mancha.jpg, Castile-La Mancha.]] Three main climatic zones can be separated, according to geographical situation and orographic conditions:[101][102][103]
+, Cantabrian Mountains, Asturias.]] region of Costa Brava in northeastern Spain]] , Castile-La Mancha.]] Three main climatic zones can be separated, according to geographical situation and orographic conditions:[101][102][103]
 
 -   The Mediterranean climate, characterised by warm/hot and dry summers, is dominant in the peninsula. It has two varieties: _Csa_ and _Csb_ according to the Köppen climate classification.
     -   The _Csa_ zone is associated to areas with hot summers. It is predominant in the Mediterranean and Southern Atlantic coast and inland throughout Andalusia, Extremadura and much, if not most, of the centre of the country. The _Csa_ zone covers climatic zones with both relatively warm and cold winters which are considered extremely different to each other at a local level, reason for which Köppen classification is often eschewed within Spain. Local climatic maps generally divide the Mediterranean zone (which covers most of the country) between warm-winter and cold-winter zones, rather than according to summer temperatures.
@@ -236,7 +234,7 @@ Apart from these main types, other sub-types can be found, like the alpine clima
 
 Fauna and flora
 
-Iberian_Wolf_AdF_001.jpg in Castile and Leon. The region has the 25% of the land covered by Natura 2000 protected natural spaces.]]
+in Castile and Leon. The region has the 25% of the land covered by Natura 2000 protected natural spaces.]]
 
 The fauna presents a wide diversity that is due in large part to the geographical position of the Iberian peninsula between the Atlantic and the Mediterranean and between Africa and Eurasia, and the great diversity of habitats and biotopes, the result of a considerable variety of climates and well differentiated regions.
 
@@ -245,7 +243,7 @@ The vegetation of Spain is varied due to several factors including the diversity
 
 Politics
 
-Palacio_Real_Jardines.jpg in Madrid]]
+in Madrid]]
 
 According to the Democracy Index of the EIU, Spain is one of the 19 full democracies in the world.
 
@@ -257,11 +255,11 @@ The Spanish administration approved the _Gender Equality Act_ in 2007 aimed at f
 
 Government
 
-Sesión_Solemne_en_el_Congreso_de_los_Diputados.jpg, Madrid]]
+, Madrid]]
 
 Spain is a constitutional monarchy, with a hereditary monarch and a bicameral parliament, the _Cortes Generales_ (General Courts).[110] The executive branch consists of a Council of Ministers of Spain presided over by the Prime Minister, nominated and appointed by the monarch and confirmed by the Congress of Deputies following legislative elections. By political custom established by King Juan Carlos since the ratification of the 1978 Constitution, the king's nominees have all been from parties who maintain a plurality of seats in the Congress.
 
-The legislative branch is made up of the Congress of Deputies (_Congreso de los Diputados_) with 350 members, elected by popular vote on block lists by proportional representation to serve four-year terms, and a Senate (_Senado_) with 259 seats of which 208 are directly elected by popular vote, using a limited voting method, and the other 51 appointed by the regional legislatures to also serve four-year terms. Presidente_del_Gobierno,_Pedro_Sánchez.jpg Pedro Sánchez in 2018]]
+The legislative branch is made up of the Congress of Deputies (_Congreso de los Diputados_) with 350 members, elected by popular vote on block lists by proportional representation to serve four-year terms, and a Senate (_Senado_) with 259 seats of which 208 are directly elected by popular vote, using a limited voting method, and the other 51 appointed by the regional legislatures to also serve four-year terms. Pedro Sánchez in 2018]]
 
 -   HEAD OF STATE
     -   King Felipe VI, since 19 June 2014
@@ -275,7 +273,7 @@ Spain is organisationally structured as a so-called _Estado de las Autonomías_ 
 
 Human rights
 
-Europride_2007_Madrid.JPG in Madrid. In 2017 a Summit about LGBTI human rights took part at the same time as World Pride celebrations.[112]]] The Spanish Constitution of 1978 "protect all Spaniards and all the peoples of Spain in the exercise of human rights, their cultures and traditions, languages and institutions".[113]
+in Madrid. In 2017 a Summit about LGBTI human rights took part at the same time as World Pride celebrations.[112]]] The Spanish Constitution of 1978 "protect all Spaniards and all the peoples of Spain in the exercise of human rights, their cultures and traditions, languages and institutions".[113]
 
 According to Amnesty International (AI), government investigations of alleged police abuses are often lengthy and punishments were light.[114] Violence against women was a problem, which the Government took steps to address.[115][116]
 
@@ -313,7 +311,7 @@ The current provincial division structure is based—with minor changes—on the
 
 Foreign relations
 
-Cumbre_del_G20_en_Los_Cabos,_México.jpg in a G-20 Summit in Mexico. Spain is a permanent guest of the G-20. ]] Cumbre_Iberoamericana_2008.jpg, in San Salvador, 2008]] Palau_Reial_Pedralbes_(Barcelona).JPG, in Barcelona, headquarters of the Union for the Mediterranean.]] Sede_de_la_AECID_(Madrid)_01.jpg headquarters in Madrid.]] After the return of democracy following the death of Franco in 1975, Spain's foreign policy priorities were to break out of the diplomatic isolation of the Franco years and expand diplomatic relations, enter the European Community, and define security relations with the West.
+in a G-20 Summit in Mexico. Spain is a permanent guest of the G-20. ]] , in San Salvador, 2008]] , in Barcelona, headquarters of the Union for the Mediterranean.]] headquarters in Madrid.]] After the return of democracy following the death of Franco in 1975, Spain's foreign policy priorities were to break out of the diplomatic isolation of the Franco years and expand diplomatic relations, enter the European Community, and define security relations with the West.
 
 As a member of NATO since 1982, Spain has established itself as a participant in multilateral international security activities. Spain's EU membership represents an important part of its foreign policy. Even on many international issues beyond western Europe, Spain prefers to co-ordinate its efforts with its EU partners through the European political co-operation mechanisms.
 
@@ -335,7 +333,7 @@ Besides the Perejil Island, the Spanish-held territories claimed by other countr
 
 Military
 
-Spanish_military_images_(1).jpg in Cartagena, Spain, multirole fighter Eurofighter Typhoon, Boeing CH-47 Chinook, universal tank Leopard 2]]
+in Cartagena, Spain, multirole fighter Eurofighter Typhoon, Boeing CH-47 Chinook, universal tank Leopard 2]]
 
 The armed forces of Spain are known as the Spanish Armed Forces (_Fuerzas Armadas Españolas_). Their Commander-in-chief is the King of Spain, Felipe VI.[137]
 
@@ -347,7 +345,7 @@ The Spanish Armed Forces are divided into three branches:[138]
 
 Ecology
 
-Vitoria_05_2012_Anillo_Verde_1922.JPG wetlands in Vitoria-Gasteiz.]] Since 1996, CO2 emissions have risen notably, not reaching the reduction emissions promised in the Kyoto Protocol for fighting climate change. In the period 1880–2000 more than half of the years have been qualified as dry or very dry. Spain is the country in Europe more exposed to climate change effects, according to Al Gore.
+wetlands in Vitoria-Gasteiz.]] Since 1996, CO2 emissions have risen notably, not reaching the reduction emissions promised in the Kyoto Protocol for fighting climate change. In the period 1880–2000 more than half of the years have been qualified as dry or very dry. Spain is the country in Europe more exposed to climate change effects, according to Al Gore.
 
 Electricity from renewable sources in Spain represented 42.8% of electricity demand coverage during 2014. The country has a very large wind power capability built up over many years and is one of the world leaders in wind power generation. Spain also positioned itself as a European leader in Solar power, by 2007–2010 the country was second only to Germany in installed capacity.
 
@@ -356,11 +354,11 @@ Vitoria-Gasteiz was awarded with the European Green Capital in 2012 after implem
 
 Economy
 
-Santander.Banco.Santander.jpg in Santander]] Spain's capitalist mixed economy is the 14th largest worldwide and the 5th largest in the European Union, as well as the Eurozone's 4th largest.
+in Santander]] Spain's capitalist mixed economy is the 14th largest worldwide and the 5th largest in the European Union, as well as the Eurozone's 4th largest.
 
-The centre-right government of former prime minister José María Aznar worked successfully to gain admission to the group of countries launching the euro in 1999. Unemployment stood at 17.1% in June 2017,[139] below Spain's early 1990s unemployment rate of at over 20%. The youth unemployment rate (35% in March 2018) is extremely high compared to EU standards.[140] Perennial weak points of Spain's economy include a large informal economy,[141][142][143] and an education system which OECD reports place among the poorest for developed countries, together with the United States and UK.[144] City_of_Madrid_(18035561592).jpg called AZCA]] Barcelona_desde_el_mar_-_panoramio_(1a).jpg, business and innovation district in Barcelona]] By the mid-1990s the economy had recommenced the growth that had been disrupted by the global recession of the early 1990s. The strong economic growth helped the government to reduce the government debt as a percentage of GDP and Spain's high unemployment rate began to steadily decline. With the government budget in balance and inflation under control Spain was admitted into the Eurozone in 1999.
+The centre-right government of former prime minister José María Aznar worked successfully to gain admission to the group of countries launching the euro in 1999. Unemployment stood at 17.1% in June 2017,[139] below Spain's early 1990s unemployment rate of at over 20%. The youth unemployment rate (35% in March 2018) is extremely high compared to EU standards.[140] Perennial weak points of Spain's economy include a large informal economy,[141][142][143] and an education system which OECD reports place among the poorest for developed countries, together with the United States and UK.[144] called AZCA]] , business and innovation district in Barcelona]] By the mid-1990s the economy had recommenced the growth that had been disrupted by the global recession of the early 1990s. The strong economic growth helped the government to reduce the government debt as a percentage of GDP and Spain's high unemployment rate began to steadily decline. With the government budget in balance and inflation under control Spain was admitted into the Eurozone in 1999.
 
-Since the 1990s some Spanish companies have gained multinational status, often expanding their activities in culturally close Latin America. Spain is the second biggest foreign investor there, after the United States. Spanish companies have also expanded into Asia, especially China and India.[145] This early global expansion is a competitive advantage over its competitors and European neighbours. The reason for this early expansion is the booming interest towards Spanish language and culture in Asia and Africa and a corporate culture that learned to take risks in unstable markets. BlueEurozone.svg, the Eurozone and the European Single Market.]] Spanish companies invested in fields like renewable energy commercialisation (Iberdrola was the world's largest renewable energy operator[146]), technology companies like Telefónica, Abengoa, Mondragon Corporation (which is the world's largest worker-owned cooperative), Movistar, Hisdesat, Indra, train manufacturers like CAF, Talgo, global corporations such as the textile company Inditex, petroleum companies like Repsol or Cepsa and infrastructure, with six of the ten biggest international construction firms specialising in transport being Spanish, like Ferrovial, Acciona, ACS, OHL and FCC.[147]
+Since the 1990s some Spanish companies have gained multinational status, often expanding their activities in culturally close Latin America. Spain is the second biggest foreign investor there, after the United States. Spanish companies have also expanded into Asia, especially China and India.[145] This early global expansion is a competitive advantage over its competitors and European neighbours. The reason for this early expansion is the booming interest towards Spanish language and culture in Asia and Africa and a corporate culture that learned to take risks in unstable markets. , the Eurozone and the European Single Market.]] Spanish companies invested in fields like renewable energy commercialisation (Iberdrola was the world's largest renewable energy operator[146]), technology companies like Telefónica, Abengoa, Mondragon Corporation (which is the world's largest worker-owned cooperative), Movistar, Hisdesat, Indra, train manufacturers like CAF, Talgo, global corporations such as the textile company Inditex, petroleum companies like Repsol or Cepsa and infrastructure, with six of the ten biggest international construction firms specialising in transport being Spanish, like Ferrovial, Acciona, ACS, OHL and FCC.[147]
 
 In 2005 the Economist Intelligence Unit's quality of life survey placed Spain among the top 10 in the world.[148] In 2013 the same survey (now called the "Where-to-be-born index"), ranked Spain 28th in the world.[149]
 
@@ -378,7 +376,7 @@ Agriculture
 
 Crop areas were farmed in two highly diverse manners. Areas relying on non-irrigated cultivation (_secano_), which made up 85% of the entire crop area, depended solely on rainfall as a source of water. They included the humid regions of the north and the northwest, as well as vast arid zones that had not been irrigated. The much more productive regions devoted to irrigated cultivation (_regadío_) accounted for 3 million hectares in 1986, and the government hoped that this area would eventually double, as it already had doubled since 1950. Particularly noteworthy was the development in Almería—one of the most arid and desolate provinces of Spain—of winter crops of various fruits and vegetables for export to Europe.
 
-Viñedos_en_Briñas.jpg of Rioja]]
+of Rioja]]
 
 Though only about 17% of Spain's cultivated land was irrigated, it was estimated to be the source of between 40–45% of the gross value of crop production and of 50% of the value of agricultural exports. More than half of the irrigated area was planted in corn, fruit trees, and vegetables. Other agricultural products that benefited from irrigation included grapes, cotton, sugar beets, potatoes, legumes, olive trees, mangos, strawberries, tomatoes, and fodder grasses. Depending on the nature of the crop, it was possible to harvest two successive crops in the same year on about 10% of the country's irrigated land.
 
@@ -386,7 +384,7 @@ Citrus fruits, vegetables, cereal grains, olive oil, and wine—Spain's traditio
 
 Tourism
 
-Benidorm_-_Playa_de_Poniente_26.jpg, one of Europe's largest coastal tourist destinations]]
+, one of Europe's largest coastal tourist destinations]]
 
 In 2017, Spain was the second most visited country in the world, recording 82 million tourists which marked the fifth consecutive year of record-beating numbers.[158] The headquarters of the World Tourism Organization are located in Madrid.
 
@@ -402,7 +400,7 @@ Non-renewable energy sources used in Spain are nuclear (8 operative reactors), g
 
 Transport
 
-RENFE_Class_730_Viaducto_Martin_Gil.jpg train on the Viaducto Martin Gil near Zamora]] Port_of_Valencia.jpg]] The Spanish road system is mainly centralised, with six highways connecting Madrid to the Basque Country, Catalonia, Valencia, West Andalusia, Extremadura and Galicia. Additionally, there are highways along the Atlantic (Ferrol to Vigo), Cantabrian (Oviedo to San Sebastián) and Mediterranean (Girona to Cádiz) coasts. Spain aims to put one million electric cars on the road by 2014 as part of the government's plan to save energy and boost energy efficiency.[173] The former Minister of Industry Miguel Sebastián said that "the electric vehicle is the future and the engine of an industrial revolution."[174]
+train on the Viaducto Martin Gil near Zamora]] ]] The Spanish road system is mainly centralised, with six highways connecting Madrid to the Basque Country, Catalonia, Valencia, West Andalusia, Extremadura and Galicia. Additionally, there are highways along the Atlantic (Ferrol to Vigo), Cantabrian (Oviedo to San Sebastián) and Mediterranean (Girona to Cádiz) coasts. Spain aims to put one million electric cars on the road by 2014 as part of the government's plan to save energy and boost energy efficiency.[173] The former Minister of Industry Miguel Sebastián said that "the electric vehicle is the future and the engine of an industrial revolution."[174]
 
 Spain has the most extensive high-speed rail network in Europe, and the second-most extensive in the world after China.[175][176] As of October 2010, Spain has a total of of high-speed tracks linking Málaga, Seville, Madrid, Barcelona, Valencia and Valladolid, with the trains reaching speeds up to . On average, the Spanish high-speed train is the fastest one in the world, followed by the Japanese bullet train and the French TGV.[177] Regarding punctuality, it is second in the world (98.5% on-time arrival) after the Japanese Shinkansen (99%).[178] Should the aims of the ambitious AVE programme (Spanish high speed trains) be met, by 2020 Spain will have of high-speed trains linking almost all provincial cities to Madrid in less than three hours and Barcelona within four hours.
 
@@ -410,7 +408,7 @@ There are 47 public airports in Spain. The busiest one is the airport of Madrid 
 
 Science and technology
 
-Ing_telescopes_sunset_la_palma_july_2001.jpg, Instituto de Astrofísica de Canarias]]
+, Instituto de Astrofísica de Canarias]]
 
 In the 19th and 20th centuries science in Spain was held back by severe political instability and consequent economic underdevelopment. Despite the conditions, some important scientists and engineers emerged. The most notable were Miguel Servet, Santiago Ramón y Cajal, Narcís Monturiol, Celedonio Calatayud, Juan de la Cierva, Leonardo Torres y Quevedo, Margarita Salas and Severo Ochoa.
 
@@ -423,7 +421,7 @@ Demographics
 
 In 2008 the population of Spain officially reached 46 million people, as recorded by the _Padrón municipal_ (Spain's Municipal Register).[180] Spain's population density, at 91/km² (235/sq mi), is lower than that of most Western European countries and its distribution across the country is very unequal. With the exception of the region surrounding the capital, Madrid, the most populated areas lie around the coast. The population of Spain has risen 2 1/2 times since 1900, when it stood at 18.6 million, principally due to the spectacular demographic boom in the 1960s and early 1970s.[181]
 
-Spainpop.svg in 2017]] In 2017 the average total fertility rate (TFR) across Spain was 1.33 children born per woman,[182] one of the lowest in the world, below the replacement rate of 2.1, it remains considerably below the high of 5.11 children born per woman in 1865.[183] Spain subsequently has one of the oldest populations in the world, with the average age of 43.1 years.[184]
+in 2017]] In 2017 the average total fertility rate (TFR) across Spain was 1.33 children born per woman,[182] one of the lowest in the world, below the replacement rate of 2.1, it remains considerably below the high of 5.11 children born per woman in 1865.[183] Spain subsequently has one of the oldest populations in the world, with the average age of 43.1 years.[184]
 
 Native Spaniards make up 88% of the total population of Spain. After the birth rate plunged in the 1980s and Spain's population growth rate dropped, the population again trended upward initially upon the return of many Spaniards who had emigrated to other European countries during the 1970s, and more recently, fuelled by large numbers of immigrants who make up 12% of the population. The immigrants originate mainly in Latin America (39%), North Africa (16%), Eastern Europe (15%), and Sub-Saharan Africa (4%).[185] In 2005, Spain instituted a three-month amnesty programme through which certain hitherto undocumented aliens were granted legal residency.[186]
 
@@ -435,7 +433,7 @@ Urbanisation
 
 Metropolitan areas
 
-EspDens2.jpg Guggenheim_Bilbao_06_2012_Panorama_2680.jpg has been hailed as an example of "smart city".[193][194][195]]]
+has been hailed as an example of "smart city".[193][194][195]]]
 
 Source: "_Áreas urbanas +50_", Ministry of Public Works and Transport (2013)[196] |- style="background: #efefef;" !rowspan="2"| Rank !rowspan="2"| Metro area !rowspan="2"| Autonomous
 community !colspan="2"| Population |- style="background: #efefef;" !Government data !Other estimations |- style="text-align:right;" | 1 || Madrid || Madrid || 6,052,247 || style="text-align:left;"| 5.4 – 6.5 m[197][198] |- style="text-align:right;" | 2 || Barcelona || Catalonia || 5,030,679 || style="text-align:left;"| |- style="text-align:right;" | 3 || Valencia || Valencia || 1,551,585 || style="text-align:left;"| 1.5 – 2.3 m[199] |- style="text-align:right;" | 4 || Seville || Andalusia || 1,294,867 || style="text-align:left;"| 1.2 – 1.3 m |- style="text-align:right;" | 5 || Málaga || Andalusia || 953,251 || style="background:silver;"| |- style="text-align:right;" | 6 || Bilbao || Basque Country || 910,578 || style="background:silver;"| |- style="text-align:right;" | 7 || Oviedo–Gijón–Avilés || Asturias || 835,053 || style="background:silver;"| |- style="text-align:right;" | 8 || Zaragoza || Aragon || 746,152 || style="background:silver;"| |- style="text-align:right;" | 9 || Alicante–Elche || Valencia || 698,662 || style="background:silver;"| |- style="text-align:right;" | 10 || Murcia || Murcia || 643,854 || style="background:silver;"| |}
@@ -450,15 +448,13 @@ It is this last feature of "shared identity" between the more local level or aut
 
 Minority groups
 
-Illuminated_manuscript_of_the_Pentateuch,_Western_Europe_in_the_12th_century.jpg, Jerusalem.]] Spain has a number of descendants of populations from former colonies, especially Latin America and North Africa. Smaller numbers of immigrants from several Sub-Saharan countries have recently been settling in Spain. There are also sizeable numbers of Asian immigrants, most of whom are of Middle Eastern, South Asian and Chinese origin. The single largest group of immigrants are European; represented by large numbers of Romanians, Britons, Germans, French and others.[203]
+, Jerusalem.]] Spain has a number of descendants of populations from former colonies, especially Latin America and North Africa. Smaller numbers of immigrants from several Sub-Saharan countries have recently been settling in Spain. There are also sizeable numbers of Asian immigrants, most of whom are of Middle Eastern, South Asian and Chinese origin. The single largest group of immigrants are European; represented by large numbers of Romanians, Britons, Germans, French and others.[203]
 
 The arrival of the _gitanos_, a Romani people, began in the 16th century; estimates of the Spanish Roma population range from 750,000 to over one million.[204][205][206][207][208] There are also the _mercheros_ (also _quinquis_), a formerly nomadic minority group. Their origin is unclear.
 
 Historically, Sephardi Jews and Moriscos are the main minority groups originated in Spain and with a contribution to Spanish culture.[209] The Spanish government is offering Spanish nationality to Sephardi Jews.[210]
 
 Immigration
-
-Distribución_de_la_población_extranjera_en_España_(2005).png
 
 According to the Spanish government there were 5.7 million foreign residents in Spain in 2011, or 12% of the total population. According to residence permit data for 2011, more than 860,000 were Romanian, about 770,000 were Moroccan, approximately 390,000 were British, and 360,000 were Ecuadorian.[211] Other sizeable foreign communities are Colombian, Bolivian, German, Italian, Bulgarian, and Chinese. There are more than 200,000 migrants from Sub-Saharan Africa living in Spain, principally Senegaleses and Nigerians.[212] Since 2000, Spain has experienced high population growth as a result of immigration flows, despite a birth rate that is only half the replacement level. This sudden and ongoing inflow of immigrants, particularly those arriving illegally by sea, has caused noticeable social tension.[213]
 
@@ -469,8 +465,6 @@ Another statistically significant factor is the large number of residents of EU 
 In 2008, the government instituted a "Plan of Voluntary Return" which encouraged unemployed immigrants from outside the EU to return to their home countries and receive several incentives, including the right to keep their unemployment benefits and transfer whatever they contributed to the Spanish Social Security.[220] The programme had little effect; during its first two months, just 1,400 immigrants took up the offer.[221] What the programme failed to do, the sharp and prolonged economic crisis has done from 2010 to 2011 in that tens of thousands of immigrants have left the country due to lack of jobs. In 2011 alone, more than half a million people left Spain.[222] For the first time in decades the net migration rate was expected to be negative, and nine out of 10 emigrants were foreigners.[223]
 
 Languages
-
-Languages_of_Spain.svg
 
 Spain is legally multilingual,[224] and the constitution establishes that the nation will protect "all Spaniards and the peoples of Spain in the exercise of human rights, their cultures and traditions, languages and institutions.[225]
 
@@ -483,7 +477,7 @@ The other official languages of Spain, co-official with Spanish are:
 -   Basque (_euskara_) in the Basque Country and Navarre; and
 -   Occitan (_aranés_) in Catalonia.
 
-As a percentage of the general population of all Spain, Spanish is natively spoken by 74%, Catalan by 17%, Galician by 7% and Basque by 2% of all Spaniards. Occitan is spoken by less than 5,000 people, only in the small region of _Val d'Aran_.[227] Glosas.02.jpg monastery of San Millán de Suso there were found the first written records of both basque and Spanish languages (Glosas Emilianenses).]]
+As a percentage of the general population of all Spain, Spanish is natively spoken by 74%, Catalan by 17%, Galician by 7% and Basque by 2% of all Spaniards. Occitan is spoken by less than 5,000 people, only in the small region of _Val d'Aran_.[227] monastery of San Millán de Suso there were found the first written records of both basque and Spanish languages (Glosas Emilianenses).]]
 
 Other Romance minority languages, though not official, have special recognition, such as the Astur-Leonese language (_asturianu_, _bable_[228] or _llionés_) and Aragonese (_aragonés_) in Aragon.
 
@@ -491,7 +485,7 @@ In the North African Spanish autonomous city of Melilla, Riff Berber is spoken b
 
 Education
 
-Concepcion_Arenal_1.jpg, krausist and pioneer of the Asociación para la Enseñanza de la Mujer]]
+, krausist and pioneer of the Asociación para la Enseñanza de la Mujer]]
 
 State education in Spain is free and compulsory from the age of six to sixteen. The current education system is regulated by the 2006 educational law, LOE (_Ley Orgánica de Educación_), or Fundamental Law for the Education.[230] In 2014, the LOE was partially modified by the newer and controversial LOMCE law (_Ley Orgánica para la Mejora de la Calidad Educativa_), or Fundamental Law for the Improvement of the Education System, commonly called _Ley Wert_ (Wert Law).[231] Since 1970 to 2014, Spain has had seven different educational laws (LGE, LOECE, LODE, LOGSE, LOPEG, LOE and LOMCE).[232]
 
@@ -503,7 +497,7 @@ The health care system of Spain (Spanish National Health System) is considered o
 
 Religion
 
-Catedral_de_Santiago_de_Compostela_agosto_2018_(cropped).jpg]]
+]]
 
 Roman Catholicism, which has a long history in Spain, remains the dominant religion. Although it no longer has official status by law, in all public schools in Spain students have to choose either a religion or ethics class. Catholicism is the religion most commonly taught, although the teaching of Islam,[235] Judaism,[236] and evangelical Christianity[237] is also recognised in law. According to a June 2016 study by the Spanish Centre for Sociological Research about 70% of Spaniards self-identify as Catholics, 2% other faith, and about 25% identify with no religion. Most Spaniards do not participate regularly in religious services. This same study shows that of the Spaniards who identify themselves as religious, 59% hardly ever or never go to church, 16% go to church some times a year, 9% some time per month and 15% every Sunday or multiple times per week.[238] Recent polls and surveys have revealed that 20% to 27% of the Spanish population is irreligious.[239][240][241]
 
@@ -528,17 +522,17 @@ Spain is a Western country. Almost every aspect of Spanish life is permeated by 
 
 World Heritage Sites
 
-Naranco,_Iglesia_Santa_Maria-PM_34664.jpg architecture of Santa María del Naranco in Oviedo.]]
+architecture of Santa María del Naranco in Oviedo.]]
 
 Spain has 47 World Heritage Sites. These include the landscape of Monte Perdido in the Pyrenees, which is shared with France, the Prehistoric Rock Art Sites of the Côa Valley and Siega Verde, which is shared with Portugal, the Heritage of Mercury, shared with Slovenia and the Ancient and Primeval Beech Forests, shared with other countries of Europe.[249] In addition, Spain has also 14 Intangible cultural heritage, or "Human treasures".[250]
 
 Literature
 
-Corral_de_comedias_de_Almagro.JPG, Spanish Golden Age theatre with Lope de Vega and Calderon de la Barca]]
+, Spanish Golden Age theatre with Lope de Vega and Calderon de la Barca]]
 
 The earliest recorded examples of vernacular Romance-based literature date from the same time and location, the rich mix of Muslim, Jewish, and Christian cultures in Muslim Spain, in which Maimonides, Averroes, and others worked, the Kharjas (_Jarchas_).
 
-Bronze_statues_of_Don_Quixote_and_Sancho_Panza.jpg and Sancho Panza in the Plaza de España in Madrid]]
+and Sancho Panza in the Plaza de España in Madrid]]
 
 During the Reconquista, the epic poem _Cantar de Mio Cid_ was written about a real man—his battles, conquests, and daily life. The Valencian chivalric romance Tirant lo Blanch written in Valencian is also remarkable.
 
@@ -558,7 +552,7 @@ The Generation of 1914 or _Novecentismo_. The next supposed "generation" of Span
 
 Leading voices include the poet Juan Ramón Jiménez, the academics and essayists Ramón Menéndez Pidal, Gregorio Marañón, Manuel Azaña, Maria Zambrano, Eugeni d'Ors, Clara Campoamor and Ortega y Gasset, and the novelists Gabriel Miró, Ramón Pérez de Ayala, and Ramón Gómez de la Serna. While still driven by the national and existential questions that obsessed the writers of '98, they approached these topics with a greater sense of distance and objectivity. Salvador de Madariaga, another prominent intellectual and writer, was one of the founders of the College of Europe and the composer of the constitutive manifest of the Liberal International.
 
-The Generation of 1927, where poets Pedro Salinas, Jorge Guillén, Federico García Lorca, Vicente Aleixandre, Dámaso Alonso. All were scholars of their national literary heritage, again evidence of the impact of the calls of _regeneracionistas_ and the Generation of 1898 for Spanish intelligence to turn at least partially inwards. Miguel_Delibes_(década_de_1960)_-_4.tif (Valle de Sedano in 1960), describes the situation of rural Spain after the Rural flight in the 1950s.]] The two main writers in the second half of the 20th century were the Nobel Prize in Literature laureate Camilo José Cela and Miguel Delibes from Generation of '36. Spain is one of the countries with the most number of laureates with the Nobel Prize in Literature, and with Latin American laureates they made the Spanish language literature one of the most laureates of all. The Spanish writers are: José Echegaray, Jacinto Benavente, Juan Ramón Jiménez, Vicente Aleixandre and Camilo José Cela. The Portuguese writer José Saramago, also awarded with the prize, lived for many years in Spain and spoke both Portuguese and Spanish. Saramago was also well known by his Iberist ideas.
+The Generation of 1927, where poets Pedro Salinas, Jorge Guillén, Federico García Lorca, Vicente Aleixandre, Dámaso Alonso. All were scholars of their national literary heritage, again evidence of the impact of the calls of _regeneracionistas_ and the Generation of 1898 for Spanish intelligence to turn at least partially inwards. (Valle de Sedano in 1960), describes the situation of rural Spain after the Rural flight in the 1950s.]] The two main writers in the second half of the 20th century were the Nobel Prize in Literature laureate Camilo José Cela and Miguel Delibes from Generation of '36. Spain is one of the countries with the most number of laureates with the Nobel Prize in Literature, and with Latin American laureates they made the Spanish language literature one of the most laureates of all. The Spanish writers are: José Echegaray, Jacinto Benavente, Juan Ramón Jiménez, Vicente Aleixandre and Camilo José Cela. The Portuguese writer José Saramago, also awarded with the prize, lived for many years in Spain and spoke both Portuguese and Spanish. Saramago was also well known by his Iberist ideas.
 
 The Generation of '50 are also known as the children of the civil war. Rosa Chacel, Gloria Fuertes, Jaime Gil de Biedma, Juan Goytisolo, Carmen Martín Gaite, Ana María Matute, Juan Marsé, Blas de Otero, Gabriel Celaya, Antonio Gamoneda, Rafael Sánchez Ferlosio or Ignacio Aldecoa.
 
@@ -566,7 +560,7 @@ Premio Planeta de Novela and Miguel de Cervantes Prize are the two main awards n
 
 Philosophy
 
-University_of_Salamanca_Fray_Luis_de_Leon.jpg in which Francisco de Vitoria created the School of Salamanca and international law.]] Seneca was a philosopher during the time of the Roman Empire.
+in which Francisco de Vitoria created the School of Salamanca and international law.]] Seneca was a philosopher during the time of the Roman Empire.
 
 During Al-Andalus, Muslim, Jewish and Christian philosopher flourished. That is the case of Ibn Arabi, Averroes or Maimonides.
 
@@ -592,7 +586,7 @@ Joaquín Sorolla is a well-known impressionist painter and there are many import
 
 Sculpture
 
-Chillida-peine.jpg in San Sebastián]]
+in San Sebastián]]
 
 The Plateresque style extended from beginnings of the 16th century until the last third of the century and its stylistic influence pervaded the works of all great Spanish artists of the time. Alonso Berruguete (Valladolid School) is called the "Prince of Spanish sculpture". His main works were the upper stalls of the choir of the Cathedral of Toledo, the tomb of Cardinal Tavera in the same Cathedral, and the altarpiece of the Visitation in the church of Santa Úrsula in the same locality. Other notable sculptors were Bartolomé Ordóñez, Diego de Siloé, Juan de Juni and Damián Forment.
 
@@ -602,7 +596,7 @@ Other notable Andalusian Baroque sculptors were Pedro de Mena, Pedro Roldán and
 
 Cinema
 
-Pedro_Almodovar_and_Penélope_Cruz.jpg and Penélope Cruz in Oviedo (Princess of Asturias Awards)]]
+and Penélope Cruz in Oviedo (Princess of Asturias Awards)]]
 
 Spanish cinema has achieved major international success including Oscars for recent films such as _Pan's Labyrinth_ and _Volver_.[251] In the long history of Spanish cinema, the great filmmaker Luis Buñuel was the first to achieve world recognition, followed by Pedro Almodóvar in the 1980s (La Movida Madrileña). Mario Camus and Pilar Miró worked together in Curro Jiménez.
 
@@ -622,19 +616,17 @@ The arrival of Modernism in the academic arena produced much of the architecture
 
 Music and dance
 
-Belen_maya.jpg is an Andalusian artistic form that evolved from the Seguidilla.]]
+is an Andalusian artistic form that evolved from the Seguidilla.]]
 
 Spanish music is often considered abroad to be synonymous with flamenco, a West Andalusian musical genre, which, contrary to popular belief, is not widespread outside that region. Various regional styles of folk music abound in Aragon, Catalonia, Valencia, Castile, the Basque Country, Galicia, Cantabria and Asturias. Pop, rock, hip hop and heavy metal are also popular.
 
 In the field of classical music, Spain has produced a number of noted composers such as Isaac Albéniz, Manuel de Falla and Enrique Granados and singers and performers such as Plácido Domingo, José Carreras, Montserrat Caballé, Alicia de Larrocha, Alfredo Kraus, Pablo Casals, Ricardo Viñes, José Iturbi, Pablo de Sarasate, Jordi Savall and Teresa Berganza. In Spain there are over forty professional orchestras, including the Orquestra Simfònica de Barcelona, Orquesta Nacional de España and the Orquesta Sinfónica de Madrid. Major opera houses include the Teatro Real, the Gran Teatre del Liceu, Teatro Arriaga and the El Palau de les Arts Reina Sofía.
 
-Joan_Manuel_Serrat_-_Gira_100x100_Serrat.jpg is a singer of the Nueva canción music genre, he is one of the greatest singer-songwriters of the contemporary history of Spain.]] Thousands of music fans also travel to Spain each year for internationally recognised summer music festivals Sónar which often features the top up and coming pop and techno acts, and Benicàssim which tends to feature alternative rock and dance acts.[253] Both festivals mark Spain as an international music presence and reflect the tastes of young people in the country.
+is a singer of the Nueva canción music genre, he is one of the greatest singer-songwriters of the contemporary history of Spain.]] Thousands of music fans also travel to Spain each year for internationally recognised summer music festivals Sónar which often features the top up and coming pop and techno acts, and Benicàssim which tends to feature alternative rock and dance acts.[253] Both festivals mark Spain as an international music presence and reflect the tastes of young people in the country.
 
 Vitoria-Gasteiz jazz festival is one of the main ones on its genre.
 
 The most popular traditional musical instrument, the guitar, originated in Spain.[254] Typical of the north are the traditional bag pipers or _gaiteros_, mainly in Asturias and Galicia.
-
-Zara_Mallorca.jpg
 
 Fashion
 
@@ -646,7 +638,7 @@ Fashion designers as Cristóbal Balenciaga are between the most influential duri
 
 Cuisine
 
-Cooking_a_paella.jpg, a traditional Valencian dish[255]]]
+, a traditional Valencian dish[255]]]
 
 Spanish cuisine consists of a great variety of dishes which stem from differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep Mediterranean roots. Spain's extensive history with many cultural influences has led to a unique cuisine. In particular, three main divisions are easily identified:
 
@@ -658,7 +650,7 @@ _ATLANTIC_ Spain – the whole Northern coast, including Asturian, Basque, Canta
 
 Sport
 
-Barcelona-1992-rr-800.jpg in Barcelona]]
+in Barcelona]]
 
 While varieties of football had been played in Spain as far back as Roman times, sport in Spain has been dominated by football since the early 20th century. Real Madrid C.F. and FC Barcelona are two of the most successful football clubs in the world. The country's national football team won the UEFA European Football Championship in 1964, 2008 and 2012 and the FIFA World Cup in 2010, and is the first team to ever win three back-to-back major international tournaments.
 
@@ -670,7 +662,7 @@ In their respective regions, the games of Basque pelota and Valencian pilota are
 
 Public holidays and festivals
 
-Sanfermines_Vaquillas_Pamplona_05.jpg festival, Pamplona]]
+festival, Pamplona]]
 
 Public holidays celebrated in Spain include a mix of religious (Roman Catholic), national and regional observances. Each municipality is allowed to declare a maximum of 14 public holidays per year; up to nine of these are chosen by the national government and at least two are chosen locally.[264] Spain's National Day (_Fiesta Nacional de España_) is 12 October, the anniversary of the Discovery of America and commemorate Our Lady of the Pillar feast, patroness of Aragon and throughout Spain.
 

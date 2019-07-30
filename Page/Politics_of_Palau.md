@@ -55,7 +55,7 @@ The President of Palau is advised and assisted in governing by his/her Cabinet, 
 
 Agencies
 
-The executive branch also has some independent agencies, including the Environmental Quality Protection Board, created in 1981 and tasked with protecting the "unique and aesthetically beautiful environment while promoting sustainable economic and social development" Capitol,_Melekeok,_Palau.jpg
+The executive branch also has some independent agencies, including the Environmental Quality Protection Board, created in 1981 and tasked with protecting the "unique and aesthetically beautiful environment while promoting sustainable economic and social development"
 
 
 Legislative branch

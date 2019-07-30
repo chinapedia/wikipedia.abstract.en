@@ -1,11 +1,9 @@
-Map_ancient_athens.png
-
 KERAMEIKOS (, ) also known by its Latinized form CERAMICUS, is an area of Athens, Greece, located to the northwest of the Acropolis, which includes an extensive area both within and outside the ancient city walls, on both sides of the Dipylon (Δίπυλον) Gate and by the banks of the Eridanos River. It was the potters' quarter of the city, from which the English word "ceramic" is derived, and was also the site of an important cemetery and numerous funerary sculptures erected along the road out of the city towards Eleusis.
 
 
 History and description
 
-Kerameikos6_Athens.JPG Athens-Kerameikos-Eridanos-March-2008_1.jpg river]] Kerameikos7_Athens.JPG built in the 5th century BC]] Athens_-_Ancient_road_to_Academy_1.jpg]] 1520_-_Keramikos_cemetery,_Athens_-_Tripopatréion_-_Photo_by_Giovanni_Dall'Orto,_Nov_12_2009.jpg
+river]] built in the 5th century BC]] ]]
 
 The area took its name from the city square or dēmos (δῆμος) of the Kerameis (Κεραμεῖς, potters), which in turn derived its name from the word κέραμος (_kéramos_, "pottery clay", from which the English word "ceramic" is derived).[1] The "Inner Kerameikos" was the former "potters' quarter" within the city and "Outer Kerameikos" covers the cemetery and also the _Dēmósion Sēma_ (δημόσιον σῆμα, public graveyard) just outside the city walls, where Pericles delivered his funeral oration in 431 BC. The cemetery was also where the Ηiera Hodos (the Sacred Way, i.e. the road to Eleusis) began, along which the procession moved for the Eleusinian Mysteries. The quarter was located there because of the abundance of clay mud carried over by the Eridanos River.
 
@@ -21,8 +19,6 @@ The Pompeion and many other buildings in the vicinity of the Sacred Gate were ra
 
 
 Archaeology
-
-Kerameikos_Tombs.jpg (copy)_Kerameikos,_Ancient_Graveyard,_Athens,_Greece_(4451627317).jpg
 
 Archaeological excavations in the Kerameikos began in 1870 under the auspices of the Greek Archaeological Society. They have continued from 1913 to the present day under the German Archaeological Institute at Athens.
 

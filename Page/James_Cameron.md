@@ -29,8 +29,6 @@ Major films
 
 _The Terminator_ (1984)
 
-James_Cameron.jpg
-
 After completing a screenplay for _The Terminator_, Cameron decided to sell it so that he could direct the movie. However, the production companies he contacted, while expressing interest in the project, were unwilling to let a largely inexperienced feature film director make the movie. Finally, Cameron found a company called Hemdale Pictures, which was willing to let him direct. Gale Anne Hurd, who had started her own production company, Pacific Western Productions, had previously worked with Cameron in Roger Corman's company and agreed to buy Cameron's screenplay for one dollar, on the condition that Cameron direct the film. Hurd was signed on as a producer, and Cameron finally got his first break as director. Orion Pictures distributed the film. Hurd and Cameron were married from 1985 to 1989.
 
 For the role of the Terminator, Cameron envisioned a man who was not exceptionally muscular, who could "blend into" a crowd. Lance Henriksen, who had starred in _Piranha II: The Spawning_, was considered for the title role, but when Arnold Schwarzenegger and Cameron first met over lunch to discuss Schwarzenegger's playing the role of Kyle Reese, both came to the conclusion that the cyborg villain would be the more compelling role for the Austrian bodybuilder; Henriksen got the smaller part of LAPD detective Hal Vukovich and the role of Kyle Reese went to Michael Biehn. In addition, Linda Hamilton first appeared in this film in her iconic role of Sarah Connor, and later married Cameron.[34]
@@ -42,8 +40,6 @@ _Rambo: First Blood Part II_ (1985)
 During the early 1980s, Cameron wrote three screenplays simultaneously: _The Terminator_, _Aliens_, and the first draft of _Rambo: First Blood Part II_. While Cameron continued with _The Terminator_ and _Aliens_, Sylvester Stallone eventually took over the script of _Rambo: First Blood Part II_, creating a final draft which differed radically from Cameron's initial vision.[36]
 
 _Aliens_ (1986)
-
-Gale_Ann_Hurd_and_James_Cameron.jpg
 
 Cameron next began the sequel to _Alien_, the 1979 film by Ridley Scott. Cameron named the sequel _Aliens_ and again cast Sigourney Weaver in the iconic role of Ellen Ripley. According to Cameron, the crew on _Aliens_ was hostile to him, regarding him as a poor substitute for Ridley Scott. Cameron sought to show them _The Terminator_ but the majority of the crew refused to watch it and remained skeptical of his direction throughout production. Despite this and other off-screen problems (such as clashing with an uncooperative camera man and having to replace one of the lead actors when Michael Biehn of _Terminator_ took James Remar's place as Corporal Hicks), _Aliens_ became a box-office success. It received Academy Award nominations for Best Actress for Weaver, Best Art Direction, Best Film Editing, Best Original Score, Best Sound, and won awards for Best Sound Editing and Best Visual Effects. In addition, the film and its lead actress made the cover of _TIME_ magazine as a result of numerous and extensive scenes of women in combat; these were almost without precedent and expressed the feminist theme of the film very strongly.
 
@@ -97,8 +93,6 @@ Unable to make _Spider-Man_, Cameron moved to television and created _Dark Angel
 
 Documentaries (2002–2012)
 
-James_Cameron_2010.jpg
-
 In 1998, James and John David Cameron formed a digital media company, earthship.tv, which became Earthship Productions.[52] The company produced live multimedia documentaries from the depths of the Atlantic and Pacific oceans. With Earthship Productions, John Cameron's recent projects have included undersea documentaries on the (_Expedition: Bismarck_, 2002) and the (_Ghosts of the Abyss_ (2003, in IMAX 3D) and _Tony Robinson's Titanic Adventure_ (2005)).[53] He was a producer on the 2002 film _Solaris_, and narrated _The Exodus Decoded_.
 
 Cameron is an advocate for stereoscopic digital 3D films. In a 2003 interview about his IMAX 2D documentary _Ghosts of the Abyss_, he mentioned that he is "going to do everything in 3D now".[54] He has made similar statements in other interviews. _Ghosts of the Abyss_ and _Aliens of the Deep_ (also an IMAX documentary) were both shot in 3-D and released by Walt Disney Pictures and Walden Media, and Cameron did the same for his new project, _Avatar_ for 20th Century Fox. He intends to use the same technology for _Sanctum_ and _Alita: Battle Angel_.
@@ -113,7 +107,7 @@ As a National Geographic explorer-in-residence,[57] Cameron re-investigated the 
 
 _Avatar_ (2009)
 
-JamesCameronCCJuly09.jpg Comic-Con]]
+Comic-Con]]
 
 In June 2005, Cameron was announced to be working on a project tentatively titled "Project 880" (now known to be _Avatar_) in parallel with another project, _Alita: Battle Angel_ (an adaptation of the manga series Battle Angel Alita).[61] Both movies were to be shot in 3D. By December, Cameron stated that he wanted to film _Battle Angel_ first, followed by _Avatar_. However, in February 2006, he switched goals for the two film projects and decided to film _Avatar_ first. He mentioned that if both films were successful, he would be interested in seeing a trilogy being made for both.[62] _Alita: Battle Angel_ eventually began production in 2016 with Cameron writing and producing and Robert Rodriguez directing.[63]
 
@@ -182,7 +176,7 @@ He has recently announced a joint business venture with another leading movie di
 
 Notable affiliations
 
-Jamescameron.jpg in December 2011]] Cameron is a member of the NASA Advisory Council and is working on the project to put cameras on an upcoming human mission to Mars.[127] Cameron has also given speeches and raised money for the Mars Society, a non-profit organization lobbying for the colonization of Mars.[128][129]
+in December 2011]] Cameron is a member of the NASA Advisory Council and is working on the project to put cameras on an upcoming human mission to Mars.[127] Cameron has also given speeches and raised money for the Mars Society, a non-profit organization lobbying for the colonization of Mars.[128][129]
 
 In 2006, Cameron's wife co-founded MUSE School, in 2015, the school became the first K-12 vegan school in the United States.[130]
 
@@ -201,7 +195,7 @@ In June 2013, British artist Roger Dean filed a legal action at a court in New Y
 
 Influence
 
-James_Cameron_by_Gage_Skidmore.jpg]] Cameron's directorial style has had significant influence within the Hollywood film industry. _Buffy the Vampire Slayer_ and _Firefly_ creator Joss Whedon stated that Cameron's approach to action scenes was influential to those in _The Avengers_. Whedon also admired Cameron's ability of writing female characters such as Ellen Ripley.[137] He also cited Cameron as "the leader and the teacher and the Yoda".[138] Michael Bay considers Cameron an idol and was convinced by him to use 3D in _Transformers: Dark of the Moon_.[139] Cameron's approach to 3D also inspired Baz Luhrmann to use it in _The Great Gatsby_.[140] Other directors that have drawn inspiration from Cameron include Peter Jackson, Neill Blomkamp and Quentin Tarantino.[141][142][143]
+]] Cameron's directorial style has had significant influence within the Hollywood film industry. _Buffy the Vampire Slayer_ and _Firefly_ creator Joss Whedon stated that Cameron's approach to action scenes was influential to those in _The Avengers_. Whedon also admired Cameron's ability of writing female characters such as Ellen Ripley.[137] He also cited Cameron as "the leader and the teacher and the Yoda".[138] Michael Bay considers Cameron an idol and was convinced by him to use 3D in _Transformers: Dark of the Moon_.[139] Cameron's approach to 3D also inspired Baz Luhrmann to use it in _The Great Gatsby_.[140] Other directors that have drawn inspiration from Cameron include Peter Jackson, Neill Blomkamp and Quentin Tarantino.[141][142][143]
 
 
 Reputation
@@ -225,7 +219,7 @@ In a 2015 joint interview, Cameron collaborators Sigourney Weaver and Jamie Lee 
 
 Awards
 
-JamesCameronStarDec09.jpg in December 2009]] Cameron received the inaugural Ray Bradbury Award from the Science Fiction and Fantasy Writers of America in 1992 for _Terminator 2: Judgment Day_ (_Avatar_ would be a finalist in 2010).[155]
+in December 2009]] Cameron received the inaugural Ray Bradbury Award from the Science Fiction and Fantasy Writers of America in 1992 for _Terminator 2: Judgment Day_ (_Avatar_ would be a finalist in 2010).[155]
 
 Cameron did not receive any major mainstream filmmaking awards prior to _Titanic_. For _Titanic_, he won several, including Academy Awards for Best Picture (shared with Jon Landau), Best Director and Best Film Editing (shared with Conrad Buff and Richard A. Harris). Cameron is one of the few filmmakers to win three Oscars in a single evening and Golden Globes for Best Motion Picture – Drama and Best Director.
 

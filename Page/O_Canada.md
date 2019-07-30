@@ -39,11 +39,11 @@ The lyrics and melody of "O Canada" are both in the public domain,[13] a status 
 
 History
 
-Adolphe-Basile_Routhier.png ]]
+]]
 
 The original French lyrics of "O Canada" were written by Sir Adolphe-Basile Routhier, to music composed by Calixa Lavallée, as a French Canadian patriotic song for the Saint-Jean-Baptiste Society and first performed on June 24, 1880, at a Saint-Jean-Baptiste Day banquet in Quebec City. At that time, the "Chant National", also by Routhier, was popular amongst Francophones as an anthem,[17] while "God Save the Queen" and "The Maple Leaf Forever" had, since 1867, been competing as unofficial national anthems in English Canada. "O Canada" joined that fray when a group of school children sang it for the 1901 tour of Canada by the Duke and Duchess of Cornwall (later King George V and Queen Mary).[18] This was the first known performance of the song outside Quebec.[19]
 
-O_Canada_house_QC.jpg in 1878]]
+in 1878]]
 
 Five years later, the Whaley and Royce company in Toronto published the music with the French text and a first translation into English by Thomas Bedford Richardson and, in 1908, _Collier's Weekly_ magazine held a competition to write new English lyrics for "O Canada". The competition was won by Mercy E. Powell McCulloch, but her version never gained wide acceptance.[20] In fact, many made English translations of Routhier's words; however, the most popular version was created in 1908 by Robert Stanley Weir, a lawyer and Recorder of the City of Montreal. Weir's original lyrics from 1908 contained no religious references and used the phrase "thou dost in us command" before they were changed by Weir in 1913 to read "in all thy sons command".[21][22][23] In 1926, a fourth verse of a religious nature was added.[24] A slightly modified version was officially published for the Diamond Jubilee of Confederation in 1927, and gradually it became the most widely accepted and performed version of this song.[25]
 
@@ -64,8 +64,6 @@ In the speech from the throne delivered by Governor General Michaëlle Jean on M
 In another attempt to make the anthem gender-neutral, Liberal MP Mauril Bélanger introduced a private member's bill in September 2014. His Bill C-624, _An Act to amend the National Anthem Act (gender)_, was defeated at second reading in April 2015.[42] Following the 2015 federal election, Bélanger reintroduced the bill in the new parliament as Bill C-210 in January 2016.[43] In June 2016, the bill passed its third reading with a vote of 225 to 74 in the House of Commons.[44] The bill passed its third reading in the Senate with a voice vote on January 31, 2018 and received royal assent on February 7, 2018.[45][46]
 
 Second and third stanzas: historical refrain
-
-O_Canada_Original_Lyrics.png
 
 Below are some slightly different versions of the second and third stanzas and the chorus, plus an additional fourth stanza.[47] These are rarely sung.[48]
 
@@ -98,7 +96,7 @@ Sacred love of the throne and the altar, Fill our hearts with your immortal brea
 
 Performances
 
-Stained_glass,_Oh_Canada_Royal_Military_College_of_Canada_Club_Montreal_1965.jpg]] "O Canada" is routinely played before sporting events involving Canadian teams. Singers at such public events often mix the English and French lyrics to represent Canada's linguistic duality.[49] Other linguistic variations have also been performed: During the opening ceremonies of the 1988 Winter Olympics in Calgary, "O Canada" was sung in the southern Tutchone language by Yukon native Daniel Tlen.[50][51] At a National Hockey League (NHL) game in Calgary, in February 2007, Cree singer Akina Shirt became the first person ever to perform "O Canada" in the Cree language at such an event.[52]
+]] "O Canada" is routinely played before sporting events involving Canadian teams. Singers at such public events often mix the English and French lyrics to represent Canada's linguistic duality.[49] Other linguistic variations have also been performed: During the opening ceremonies of the 1988 Winter Olympics in Calgary, "O Canada" was sung in the southern Tutchone language by Yukon native Daniel Tlen.[50][51] At a National Hockey League (NHL) game in Calgary, in February 2007, Cree singer Akina Shirt became the first person ever to perform "O Canada" in the Cree language at such an event.[52]
 
 Major League Baseball, Major League Soccer, the National Basketball Association, and the NHL all require venues to perform both the Canadian and American national anthems at games that involve teams from both countries (including all-star games), with the away team's anthem being performed first, followed by the host country.[53] The NHL's Buffalo Sabres play both anthems before every home game, regardless of the opponent, in recognition of the team's significant Canadian fanbase. Major League Baseball teams have played the song at games involving the Toronto Blue Jays and the former Montreal Expos,[54] and National Basketball Association teams do so for games involving the Toronto Raptors, and previously, the Vancouver Grizzlies. Major League Soccer has the anthem performed at matches involving Toronto FC, Montreal Impact, and Vancouver Whitecaps FC.
 

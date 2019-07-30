@@ -29,7 +29,7 @@ The DPRK takes its defense seriously, confronting countries they see as threaten
 
 History
 
-Tower_of_Juche_Idea,_Pyongyang,_North_Korea_(2909246855).jpg, Pyongyang]]
+, Pyongyang]]
 
 After 1945, the Soviet Union supplied the economic and military aid that enabled the DPRK to mount its invasion of South Korea in 1950. Soviet aid and influence continued at a high level during the Korean war. This was only the beginning of the DPRK as governed by the faction which had its roots in an anti-Japanese Korean nationalist movement based in Manchuria and China, with Kim Il-sung participating in this movement and later forming the Workers' Party of Korea (WPK).
 
@@ -43,13 +43,13 @@ This treaty was prolonged twice, in 1981 and 2001, with a validity until 2021.
 
 For most of the Cold War, the DPRK avoided taking sides in the Sino-Soviet split, but was originally only recognized by countries in the Communist Bloc until 1958 when Algeria recognized it.
 
-East Germany was an important source of economic cooperation for the DPRK. The East German leader, Erich Honecker, who visited in 1977, was one of Kim Il-sung's closest foreign friends.[26] In 1986, the two countries signed an agreement on military co-operation.[27] Kim was also close to maverick Communist leaders, Josip Broz Tito of Yugoslavia, and Nicolae Ceaușescu of Romania.[28] The DPRK began to play a part in the global radical movement, forging ties with such diverse groups as the Black Panther Party of the US,[29] the Workers Party of Ireland,[30] and the African National Congress.[31] As it increasingly emphasized its independence, the DPRK began to promote the doctrine of _Juche_ ("self-reliance") as an alternative to orthodox Marxism-Leninism and as a model for developing countries to follow.[32] 80th_Anniversary_Kim_Il-Sung.jpg When North-South dialogue started in 1972, the DPRK began to receive diplomatic recognition from countries outside the Communist bloc. Within four years, the DPRK was recognized by 93 countries, on par with South Korea's 96. The DPRK gained entry into the World Health Organization and, as a result, sent its first permanent observer missions to the United Nations (UN).[33] In 1975, it joined the Non-Aligned Movement.[34]
+East Germany was an important source of economic cooperation for the DPRK. The East German leader, Erich Honecker, who visited in 1977, was one of Kim Il-sung's closest foreign friends.[26] In 1986, the two countries signed an agreement on military co-operation.[27] Kim was also close to maverick Communist leaders, Josip Broz Tito of Yugoslavia, and Nicolae Ceaușescu of Romania.[28] The DPRK began to play a part in the global radical movement, forging ties with such diverse groups as the Black Panther Party of the US,[29] the Workers Party of Ireland,[30] and the African National Congress.[31] As it increasingly emphasized its independence, the DPRK began to promote the doctrine of _Juche_ ("self-reliance") as an alternative to orthodox Marxism-Leninism and as a model for developing countries to follow.[32] When North-South dialogue started in 1972, the DPRK began to receive diplomatic recognition from countries outside the Communist bloc. Within four years, the DPRK was recognized by 93 countries, on par with South Korea's 96. The DPRK gained entry into the World Health Organization and, as a result, sent its first permanent observer missions to the United Nations (UN).[33] In 1975, it joined the Non-Aligned Movement.[34]
 
 During the 1980s, the pace of the DPRK's establishment of new diplomatic relations slowed considerably.[35][36] Following Kim Il-sung's 1984 visit to Moscow, there was a dramatic improvement in Soviet-DPRK relations, resulting in renewed deliveries of advanced Soviet weaponry to the DPRK and increases in economic aid. In 1989, as a response to the 1988 Seoul Olympics, North Korea hosted the 13th World Festival of Youth and Students in Pyongyang.[37][38]
 
 South Korea established diplomatic relations with the Soviet Union in 1990 and the People's Republic of China in 1992, which put a serious strain on relations between the DPRK and its traditional allies. Moreover, the demise of Communist states in Eastern Europe in 1989 and the disintegration of the Soviet Union in 1991 had resulted in a significant drop in communist aid to DPRK, resulting in largely decreased relations with Russia. Subsequently, South Korea developed the "sunshine policy" towards the DPRK, aiming for peaceful Korean reunification. This policy ended in 2009.
 
-In September 1991, the DPRK became a member of the UN. In July 2000, it began participating in the ASEAN Regional Forum (ARF), as Foreign Minister Paek Nam-sun attended the ARF ministerial meeting in Bangkok 26–27 July. The DPRK also expanded its bilateral diplomatic ties in that year, establishing diplomatic relations with Italy, Australia and the Philippines. The United Kingdom established diplomatic relations with the DPRK on 13 December 2000,[39] as did Canada in February 2001,[40] followed by Germany and New Zealand on 1 March 2001.[41][42] Trump-Kim_meeting_in_Capella_Hotel_(1).jpg in June 2018]]
+In September 1991, the DPRK became a member of the UN. In July 2000, it began participating in the ASEAN Regional Forum (ARF), as Foreign Minister Paek Nam-sun attended the ARF ministerial meeting in Bangkok 26–27 July. The DPRK also expanded its bilateral diplomatic ties in that year, establishing diplomatic relations with Italy, Australia and the Philippines. The United Kingdom established diplomatic relations with the DPRK on 13 December 2000,[39] as did Canada in February 2001,[40] followed by Germany and New Zealand on 1 March 2001.[41][42] in June 2018]]
 
 In 2006, the DPRK test-fired a series of ballistic missiles, after Chinese officials had advised DPRK authorities not to do so. As a result, Chinese authorities publicly rebuked what the west perceives as China's closest ally, and supported the UN Security Council Resolution 1718, which imposed sanctions on DPRK.[43] At other times however, China has blocked United Nations resolutions threatening sanctions against the DPRK.[44] In January, 2009, China's president Hu Jintao and the DPRK's supreme leader Kim Jong-il exchanged greetings and declared 2009 as the "year of China-DPRK friendship", marking 60 years of diplomatic relations between the two countries.[45]
 
@@ -58,7 +58,7 @@ On 28 November 2010, as part of the United States diplomatic cables leak, WikiLe
 
 Inter-Korean relations
 
-Joint_Security_Area,_Korean_DMZ,_looking_south.jpg In August 1971, both North and South Korea agreed to hold talks through their respective Red Cross societies with the aim of reuniting the many Korean families separated following the division of Korea after the Korean War. After a series of secret meetings, both sides announced on 4 July 1972, an agreement to work toward peaceful reunification and an end to the hostile atmosphere prevailing on the peninsula. Dialogue was renewed on several fronts in September 1984, when South Korea accepted the North's offer to provide relief goods to victims of severe flooding in South Korea.
+In August 1971, both North and South Korea agreed to hold talks through their respective Red Cross societies with the aim of reuniting the many Korean families separated following the division of Korea after the Korean War. After a series of secret meetings, both sides announced on 4 July 1972, an agreement to work toward peaceful reunification and an end to the hostile atmosphere prevailing on the peninsula. Dialogue was renewed on several fronts in September 1984, when South Korea accepted the North's offer to provide relief goods to victims of severe flooding in South Korea.
 
 In a major initiative in July 1988, South Korean President Roh Tae-woo called for new efforts to promote North-South exchanges, family reunification, inter-Korean trade and contact in international forums. Roh followed up this initiative in a UN General Assembly speech in which South Korea offered to discuss security matters with the North for the first time. In September 1990, the first of eight prime minister-level meetings between officials of the DPRK and South Korea took place in Seoul, beginning an especially fruitful period of dialogue. The prime ministerial talks resulted in two major agreements: the Agreement on Reconciliation, Nonaggression, Exchanges, and Cooperation (the _Basic Agreement_) and the Declaration on the Denuclearization of the Korean Peninsula (the _Joint Declaration_). The _Joint Declaration_ on denuclearization was initiated on 13 December 1991. It forbade both sides to test, manufacture, produce, receive, possess, store, deploy, or use nuclear weapons and forbade the possession of nuclear reprocessing and uranium enrichment facilities. On 30 January 1992, the DPRK also signed a nuclear safeguards agreement with the IAEA, as it had pledged to do in 1985 when acceding to the nuclear Non-Proliferation Treaty. This safeguards agreement allowed IAEA inspections to begin in June 1992.
 
@@ -77,8 +77,6 @@ Moon and Kim met the second time on 26 May.[72] Their second summit was unannoun
 
 Nuclear weapons program
 
-Yongbyon_5MWe_Magnox_reactor.jpg
-
 The DPRK's nuclear research program started with Soviet help in the 1960s, on condition that it joined the Nuclear Non-Proliferation Treaty (NPT). In the 1980s an indigenous nuclear reactor development program started with a small experimental 5 MWe gas-cooled reactor in Yongbyon, with a 50 MWe and 200 MWe reactor to follow. Concerns that the DPRK had non-civilian nuclear ambitions were first raised in the late 1980s and almost resulted in their withdrawal from the NPT in 1994. However, the Agreed Framework and the Korean Peninsula Energy Development Organization (KEDO) temporarily resolved this crisis by having the US and several other countries agree that in exchange for dismantling its nuclear program, two light-water reactors (LWRs) would be provided with moves toward normalization of political and economic relations. This agreement started to break down from 2001 because of slow progress on the KEDO light water reactor project and U.S. President George W. Bush's Axis of Evil speech. After continued allegations from the United States, the DPRK declared the existence of uranium enrichment programs during a private meeting with American military officials. The DPRK withdrew from the Nuclear Non-Proliferation Treaty on 10 January 2003. In 2006, North Korea conducted its first nuclear test.[75]
 
 In the third (and last) phase of the fifth round of six-party talks were held on 8 February 2007, and implementation of the agreement reached at the end of the round has been successful according to the requirements of steps to be taken by all six parties within 30 days, and within 60 days after the agreement, including normalization of US-DPRK and Japanese-DPRK diplomatic ties, but on the condition that the DPRK ceases to operate its Yongbyon nuclear research centre.[76][77]
@@ -87,8 +85,6 @@ The DPRK conducted further nuclear tests in 2009, 2013, January and September 20
 
 
 Bilateral relations
-
-Foreign_relations_of_North_Korea.png
 
 The DPRK is often perceived as the "Hermit kingdom", completely isolated from the rest of the world, but the DPRK maintains diplomatic relations with 164 independent states.[81]
 
@@ -273,7 +269,7 @@ During the 1977–2004 rule of President France-Albert René, the socialist and 
 
 United States
 
-Though strained for more than half a century, relations have started to be mended between the United States and the DPRK under leaders Donald Trump and Kim Jong-un.Kim_and_Trump_shaking_hands_at_the_red_carpet_during_the_DPRK–USA_Singapore_Summit.jpg and US President Donald Trump during the 2018 North Korea–United States summit in June 2018.]] Prior to 2018, relations developed primarily during the Korean War, but in recent years have been largely defined by the DPRK's six tests of nuclear weapons, its development of long-range missiles capable of striking targets thousands of miles away, and its ongoing threats to strike the United States[188] and South Korea with nuclear weapons and conventional forces.[189][190]
+Though strained for more than half a century, relations have started to be mended between the United States and the DPRK under leaders Donald Trump and Kim Jong-un. and US President Donald Trump during the 2018 North Korea–United States summit in June 2018.]] Prior to 2018, relations developed primarily during the Korean War, but in recent years have been largely defined by the DPRK's six tests of nuclear weapons, its development of long-range missiles capable of striking targets thousands of miles away, and its ongoing threats to strike the United States[188] and South Korea with nuclear weapons and conventional forces.[189][190]
 
 Although hostility between the two countries has its roots in Cold War politics, earlier conflicts between the United States and Korea included the 19th-century _General Sherman_ Incident, when Korean forces attacked a US gunboat sent to negotiate a trade treaty and killed its crew, after it defied instructions from Korean officials. A retaliatory US attack followed, called the _Sinmiyangyo_ in Korean.
 
@@ -301,11 +297,11 @@ Bangladesh currently operates an North Korean office through it's embassy in Bei
 
 Cambodia
 
-DPRKEmbassyPhnomPenhCambodia.JPG Cambodia and the DPRK generally have good relations. When the Khmer Rouge was removed by a Vietnamese invasion in 1979, the DPRK supported Norodom Sihanouk in an exile government, and he lived in the DPRK until 1991 when he became King of Cambodia and returned to the country with a bodyguard of individuals from the DPRK.[197] The DPRK has an embassy in Phnom Penh and Cambodia has an embassy in Pyongyang. While the DPRK has built the Angkor Panorama museum within the country, reportedly relations are strained with some saying that Cambodia could cast off the DPRK as a partner although this seems unlikely since the DPRK has asked for help from the country in reducing tensions on the Korean Peninsula.[198] [199][200] In 2016, one United Nations expert claimed that the Cambodia Supreme Court upholding "a life sentence for two top cadres of the 1970s Khmer Rouge found guilty of crimes against humanity" will send a "message" to the leaders of the DPRK even though the said country never supported the Khmer Rouge.[201] More directly, the DPRK has defended Cambodia, saying in later 2016 that a division of the Office of the High Commissioner for Human Rights was operating illegally in the country, saying its operation violated the "principle of respect for sovereignty and non-interference in domestic affairs" and that "every year the U.N. raises the issue of human rights while violating the principle of fairness when discussing human rights and showing sympathy for hostile acts against sovereign states."[202]
+Cambodia and the DPRK generally have good relations. When the Khmer Rouge was removed by a Vietnamese invasion in 1979, the DPRK supported Norodom Sihanouk in an exile government, and he lived in the DPRK until 1991 when he became King of Cambodia and returned to the country with a bodyguard of individuals from the DPRK.[197] The DPRK has an embassy in Phnom Penh and Cambodia has an embassy in Pyongyang. While the DPRK has built the Angkor Panorama museum within the country, reportedly relations are strained with some saying that Cambodia could cast off the DPRK as a partner although this seems unlikely since the DPRK has asked for help from the country in reducing tensions on the Korean Peninsula.[198] [199][200] In 2016, one United Nations expert claimed that the Cambodia Supreme Court upholding "a life sentence for two top cadres of the 1970s Khmer Rouge found guilty of crimes against humanity" will send a "message" to the leaders of the DPRK even though the said country never supported the Khmer Rouge.[201] More directly, the DPRK has defended Cambodia, saying in later 2016 that a division of the Office of the High Commissioner for Human Rights was operating illegally in the country, saying its operation violated the "principle of respect for sovereignty and non-interference in domestic affairs" and that "every year the U.N. raises the issue of human rights while violating the principle of fairness when discussing human rights and showing sympathy for hostile acts against sovereign states."[202]
 
 China
 
-Sino-Korean_Friendship_Bridge_across_the_Yalu.jpg across the Yalu (Amnokgang) at Sinuiju and Dandong]]
+across the Yalu (Amnokgang) at Sinuiju and Dandong]]
 
 China and the DPRK share a 1,416-kilometre long border (890 miles) that corresponds to the course of the Yalu and Tumen rivers, which both flow from Heaven Lake on Mount Paektu. The countries have six border crossings between them.[203]
 
@@ -359,7 +355,7 @@ However, numerous groups within Japan support the DPRK. In May 2017, a delegatio
 
 Laos
 
-DPRK_Embassy_in_Laos.jpg Laos maintains an embassy in Pyongyang, with Laos being a similar state ideologically.[243] In February 2016 Kim Yong-Chul made an official visit to Bounnhang Vorachith.
+Laos maintains an embassy in Pyongyang, with Laos being a similar state ideologically.[243] In February 2016 Kim Yong-Chul made an official visit to Bounnhang Vorachith.
 
 Malaysia
 
@@ -493,7 +489,7 @@ Norway
 
 Poland
 
-Waw_korea_polnocna11.jpg.]] Poland maintains diplomatic and limited trading (fishing) relations with the DPRK after relations between the two countries began on 16 October 1948. Poland maintains an embassy in Pyongyang, with economic relations between the two countries currently maintained at the symbolic level of trade and sailing co-operation[323][324][325]
+.]] Poland maintains diplomatic and limited trading (fishing) relations with the DPRK after relations between the two countries began on 16 October 1948. Poland maintains an embassy in Pyongyang, with economic relations between the two countries currently maintained at the symbolic level of trade and sailing co-operation[323][324][325]
 
 Portugal
 
@@ -501,13 +497,13 @@ Kim Yong-nam has made statements affirming the good relationship between the two
 
 Romania
 
-Romanian_Embassy_in_Pyongyang.jpg Socialist Republic of Romania and North Korea established diplomatic relations on 3 November 1948. The two states had little contact until Nicolae Ceaușescu and Kim Il-sung met in 1971 as part of Ceaușescu's Asian tour.[329][330] The two were close allies,[331] and got along both in terms of political and personal relations.[332] During the trip, Ceausescu took a liking to North Korea's _Juche_ ideology. This experience contributed to his formerly liberal stance taking a turn for authoritarianism.[333] It was the first of many times Ceaușescu would visit Pyongyang.[334]
+Socialist Republic of Romania and North Korea established diplomatic relations on 3 November 1948. The two states had little contact until Nicolae Ceaușescu and Kim Il-sung met in 1971 as part of Ceaușescu's Asian tour.[329][330] The two were close allies,[331] and got along both in terms of political and personal relations.[332] During the trip, Ceausescu took a liking to North Korea's _Juche_ ideology. This experience contributed to his formerly liberal stance taking a turn for authoritarianism.[333] It was the first of many times Ceaușescu would visit Pyongyang.[334]
 
 Both countries host embassies to one another.
 
 Russia
 
-North_Korean_Embassy_Moscow.jpg, Russia.]] 2011_Russian_Embassy_in_DPRK.jpg Russia–DPRK relations are determined by Russia's strategic interests in Korea and the goal of preserving peace and stability in the Korean peninsula. Russia's official position is by extension its stance on settlement of the North Korean nuclear crisis.
+, Russia.]] Russia–DPRK relations are determined by Russia's strategic interests in Korea and the goal of preserving peace and stability in the Korean peninsula. Russia's official position is by extension its stance on settlement of the North Korean nuclear crisis.
 
 Serbia
 
@@ -525,7 +521,7 @@ On the afternoon of February 22, 2019, ten perpetrators, mostly Korean, broke in
 
 Sweden
 
-Nordkoreas_ambassad_på_Lidingö.jpg, Sweden.]] German_Embassy_in_Pyongyang,_DPRK.JPG Sweden was the first Western country to open an embassy in the DPRK. The embassy is located in Pyongyang, and "Sweden serves as the interim consular protecting power for American, Finnish, Australian and Canadian interests in North Korea."[349] The Swedish-Korean Association has friendly ties with the DPRK government and works to promote solidarity with and support for it.
+, Sweden.]] Sweden was the first Western country to open an embassy in the DPRK. The embassy is located in Pyongyang, and "Sweden serves as the interim consular protecting power for American, Finnish, Australian and Canadian interests in North Korea."[349] The Swedish-Korean Association has friendly ties with the DPRK government and works to promote solidarity with and support for it.
 
 Switzerland
 
@@ -541,7 +537,7 @@ Turkey fought against North Korea during the Korean War, in which approximately 
 
 United Kingdom
 
-North_Korean_Embassy_in_London.jpg. It is situated in a suburban area of Ealing, West London.]] Following initial progress in North Korea–South Korea relations, the DPRK and the United Kingdom established diplomatic relations on 12 December 2000, opening resident embassies in London and Pyongyang. The United Kingdom provides English language and human rights training to DPRK officials, urging the DPRK government to allow a visit by the UN Special Rapporteur for Human Rights, and it oversees bilateral humanitarian projects in the DPRK.[356][357]
+. It is situated in a suburban area of Ealing, West London.]] Following initial progress in North Korea–South Korea relations, the DPRK and the United Kingdom established diplomatic relations on 12 December 2000, opening resident embassies in London and Pyongyang. The United Kingdom provides English language and human rights training to DPRK officials, urging the DPRK government to allow a visit by the UN Special Rapporteur for Human Rights, and it oversees bilateral humanitarian projects in the DPRK.[356][357]
 
 To mark the tenth anniversary of the DPRK's relations with the United Kingdom, an edited version of the 2002 film _Bend It Like Beckham_ was broadcast on DPRK state television on 26 December 2010. The British Ambassador to South Korea, Martin Uden, posted on Twitter that it was the "1st ever Western-made film to air on TV" in the DPRK.[358]
 
@@ -551,7 +547,7 @@ Oceania
 
 Australia
 
-DPRK_Embassy_in_Canberra.jpg before its closure in 2008]]
+before its closure in 2008]]
 
 Australia and the DPRK maintain diplomatic relations.[360] Neither country has a diplomatic presence in the other country, and relations are strained by disputes such as over the DPRK's nuclear program and alleged drug trafficking.[361][362]
 

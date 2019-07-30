@@ -21,8 +21,6 @@ An important part of the convention was a prohibition of using military force to
 
 Parties
 
-Parties to the Montevideo Convention
-
 The 16 states that have ratified this convention are limited to the Americas.
 
 +-------------+--------+-----------+--------------+

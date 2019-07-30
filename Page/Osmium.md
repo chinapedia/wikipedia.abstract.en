@@ -5,7 +5,7 @@ Characteristics
 
 Physical properties
 
-Osmium_1-crop.jpg Osmium has a blue-gray tint and is the densest stable element; it is approximately twice as dense as lead and slightly denser than iridium.[3] Calculations of density from the X-ray diffraction data may produce the most reliable data for these elements, giving a value of for osmium, slightly denser than the of iridium; both metals are nearly 23 times as dense as water.[4]
+Osmium has a blue-gray tint and is the densest stable element; it is approximately twice as dense as lead and slightly denser than iridium.[3] Calculations of density from the X-ray diffraction data may produce the most reliable data for these elements, giving a value of for osmium, slightly denser than the of iridium; both metals are nearly 23 times as dense as water.[4]
 
 Osmium is a hard but brittle metal that remains lustrous even at high temperatures. It has a very low compressibility. Correspondingly, its bulk modulus is extremely high, reported between and , which rivals that of diamond (). The hardness of osmium is moderately high at .[5][6][7] Because of its hardness, brittleness, low vapor pressure (the lowest of the platinum-group metals), and very high melting point (the fourth highest of all elements, after only carbon, tungsten, and rhenium), solid osmium is difficult to machine, form, or work.
 
@@ -57,7 +57,7 @@ Nowadays osmium is obtained primarily from the processing of platinum and nickel
 
 Occurrence
 
-Platinum_nuggets.jpg metals]]
+metals]]
 
 Osmium is one of the even-numbered elements, which puts it in the upper half of elements commonly found in space. It is, however, the least abundant stable element in Earth's crust, with an average mass fraction of 50 parts per trillion in the continental crust.[48]
 
@@ -68,7 +68,7 @@ Within Earth's crust, osmium, like iridium, is found at highest concentrations i
 
 Production
 
-Osmium_cluster.jpgs, grown by chemical vapor transport.]] Osmium is obtained commercially as a by-product from nickel and copper mining and processing. During electrorefining of copper and nickel, noble metals such as silver, gold and the platinum group metals, together with non-metallic elements such as selenium and tellurium settle to the bottom of the cell as _anode mud_, which forms the starting material for their extraction.[55][56] Separating the metals requires that they first be brought into solution. Several methods can achieve this, depending on the separation process and the composition of the mixture. Two representative methods are fusion with sodium peroxide followed by dissolution in aqua regia, and dissolution in a mixture of chlorine with hydrochloric acid.[57][58] Osmium, ruthenium, rhodium and iridium can be separated from platinum, gold and base metals by their insolubility in aqua regia, leaving a solid residue. Rhodium can be separated from the residue by treatment with molten sodium bisulfate. The insoluble residue, containing Ru, Os and Ir, is treated with sodium oxide, in which Ir is insoluble, producing water-soluble Ru and Os salts. After oxidation to the volatile oxides, is separated from by precipitation of (NH₄)₃RuCl₆ with ammonium chloride.
+s, grown by chemical vapor transport.]] Osmium is obtained commercially as a by-product from nickel and copper mining and processing. During electrorefining of copper and nickel, noble metals such as silver, gold and the platinum group metals, together with non-metallic elements such as selenium and tellurium settle to the bottom of the cell as _anode mud_, which forms the starting material for their extraction.[55][56] Separating the metals requires that they first be brought into solution. Several methods can achieve this, depending on the separation process and the composition of the mixture. Two representative methods are fusion with sodium peroxide followed by dissolution in aqua regia, and dissolution in a mixture of chlorine with hydrochloric acid.[57][58] Osmium, ruthenium, rhodium and iridium can be separated from platinum, gold and base metals by their insolubility in aqua regia, leaving a solid residue. Rhodium can be separated from the residue by treatment with molten sodium bisulfate. The insoluble residue, containing Ru, Os and Ir, is treated with sodium oxide, in which Ir is insoluble, producing water-soluble Ru and Os salts. After oxidation to the volatile oxides, is separated from by precipitation of (NH₄)₃RuCl₆ with ammonium chloride.
 
 After it is dissolved, osmium is separated from the other platinum group metals by distillation or extraction with organic solvents of the volatile osmium tetroxide.[59] The first method is similar to the procedure used by Tennant and Wollaston. Both methods are suitable for industrial scale production. In either case, the product is reduced using hydrogen, yielding the metal as a powder or sponge that can be treated using powder metallurgy techniques.[60]
 

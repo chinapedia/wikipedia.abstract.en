@@ -9,7 +9,7 @@ Normandy's name comes from the settlement of the territory by mainly Danish and 
 
 History
 
-TheatreLillebonne.jpg in Lillebonne]] Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg (Scene 23): Harold II swearing oath on holy relics to William the Conqueror]] Archaeological finds, such as cave paintings, prove that humans were present in the region in prehistoric times.
+in Lillebonne]] (Scene 23): Harold II swearing oath on holy relics to William the Conqueror]] Archaeological finds, such as cave paintings, prove that humans were present in the region in prehistoric times.
 
 Celts (also known as Belgae and Gauls) invaded Normandy in successive waves from the 4th to the 3rd century BC. When Julius Caesar invaded Gaul, there were nine different Celtic tribes living in Normandy.[6] The Romanisation of Normandy was achieved by the usual methods: Roman roads and a policy of urbanisation. Classicists have knowledge of many Gallo-Roman villas in Normandy.
 
@@ -23,7 +23,7 @@ Rollo's descendant William became king of England in 1066 after defeating Harold
 
 Norman expansion
 
-Normans_possessions_12century-fr.png Besides the conquest of England and the subsequent subjugation of Wales and Ireland, the Normans expanded into other areas. Norman families, such as that of Tancred of Hauteville, Rainulf Drengot and Guimond de Moulins played important parts in the conquest of southern Italy and the Crusades.
+Besides the conquest of England and the subsequent subjugation of Wales and Ireland, the Normans expanded into other areas. Norman families, such as that of Tancred of Hauteville, Rainulf Drengot and Guimond de Moulins played important parts in the conquest of southern Italy and the Crusades.
 
 The Drengot lineage, de Hauteville's sons William Iron Arm, Drogo, and Humphrey, Robert Guiscard and Roger the Great Count progressively claimed territories in southern Italy until founding the Kingdom of Sicily in 1130. They also carved out a place for themselves and their descendants in the Crusader states of Asia Minor and the Holy Land.
 
@@ -31,7 +31,7 @@ The 14th-century explorer Jean de Béthencourt established a kingdom in the Cana
 
 13th to 17th centuries
 
-Joan_of_arc_burning_at_stake.jpg burning at the stake in the city of Rouen, painting by Jules Eugène Lenepveu]] In 1204, during the reign of John of England, mainland Normandy was taken from England by France under King Philip II. Insular Normandy (the Channel Islands) remained however under English control. In 1259, Henry III of England recognized the legality of French possession of mainland Normandy under the Treaty of Paris. His successors, however, often fought to regain control of their ancient fiefdom.
+burning at the stake in the city of Rouen, painting by Jules Eugène Lenepveu]] In 1204, during the reign of John of England, mainland Normandy was taken from England by France under King Philip II. Insular Normandy (the Channel Islands) remained however under English control. In 1259, Henry III of England recognized the legality of French possession of mainland Normandy under the Treaty of Paris. His successors, however, often fought to regain control of their ancient fiefdom.
 
 The _Charte aux Normands_ granted by Louis X of France in 1315 (and later re-confirmed in 1339) – like the analogous Magna Carta granted in England in the aftermath of 1204 – guaranteed the liberties and privileges of the province of Normandy.
 
@@ -57,7 +57,7 @@ There was an economic revival (mechanization of textile manufacture, first train
 
 And new economic activity stimulated the coasts: seaside tourism. The 19th century marks the birth of the first beach resorts.
 
-NormandySupply_edit.jpg, 1944]] During the Second World War, following the armistice of 22 June 1940, continental Normandy was part of the German occupied zone of France. The Channel Islands were occupied by German forces between 30 June 1940 and 9 May 1945. The town of Dieppe was the site of the unsuccessful Dieppe Raid by Canadian and British armed forces.
+, 1944]] During the Second World War, following the armistice of 22 June 1940, continental Normandy was part of the German occupied zone of France. The Channel Islands were occupied by German forces between 30 June 1940 and 9 May 1945. The town of Dieppe was the site of the unsuccessful Dieppe Raid by Canadian and British armed forces.
 
 The Allies, in this case involving Britain, the United States, Canada and Free France, coordinated a massive build-up of troops and supplies to support a large-scale invasion of Normandy in the D-Day landings on 6 June 1944 under the code name Operation Overlord. The Germans were dug into fortified emplacements above the beaches. Caen, Cherbourg, Carentan, Falaise and other Norman towns endured many casualties in the Battle of Normandy, which continued until the closing of the so-called Falaise gap between Chambois and Mont Ormel. The liberation of Le Havre followed. This was a significant turning point in the war and led to the restoration of the French Republic.
 
@@ -68,7 +68,7 @@ Between 1956 and 2015 Normandy was divided into two administrative regions: Lowe
 
 Geography
 
-Mont_Saint_Michel_bordercropped.jpg, the most visited monument in Normandy]] Falaises_Etretat_2012.jpg]] Jonquerets-de-Livret-_batiment_du_Pressoir.JPG building. This is now a village hall]]
+, the most visited monument in Normandy]] ]] building. This is now a village hall]]
 
 The historical Duchy of Normandy was a formerly independent duchy occupying the lower Seine area, the Pays de Caux and the region to the west through the Pays d'Auge as far as the Cotentin Peninsula.
 
@@ -104,7 +104,7 @@ Regions
 -   The pays d'Ouche
 -   The Roumois et Marais-Vernier
 -   The Suisse Normande (Norman Switzerland), in the south, presents hillier terrain.
--   The Val de SaireNormandy_countryside_(8930216616).jpg
+-   The Val de Saire
 -   The Vexin normand
 
 Channel Islands
@@ -118,7 +118,7 @@ Although the British surrendered claims to mainland Normandy, France, and other 
 
 Rivers
 
-Petit-andely-depuis-chateau-gaillard.jpg]] La_Bresle_au_centre_d'Eu_(vue_vers_l'amont).jpg Rivers in Normandy include:
+]] Rivers in Normandy include:
 
 -   the Seine and its tributaries:
     -   the Andelle
@@ -142,7 +142,7 @@ And many coastal rivers:
 
 Politics
 
-Caserne_Jeanne_d'Arc.jpg The modern region of Normandy was created by the territorial reform of French Regions in 2014 by the merger of Lower Normandy, and Upper Normandy. The new region took effect on 1 January 2016, after the regional elections in December 2015.[13]
+The modern region of Normandy was created by the territorial reform of French Regions in 2014 by the merger of Lower Normandy, and Upper Normandy. The new region took effect on 1 January 2016, after the regional elections in December 2015.[13]
 
 Government
 
@@ -178,7 +178,7 @@ Demographics
 
 In January 2006 the population of Normandy (including the part of Perche which lies inside the Orne _département_ but excluding the Channel Islands) was estimated at 3,260,000 with an average population density of 109 inhabitants per km², just under the French national average, but rising to 147 for Upper Normandy.
 
-HalftimberedHousesRouen2.JPG The main cities (population given from the 1999 census) are Rouen (518,316 in the metropolitan area), the capital since 2016 of the province and formerly of Upper Normandy; Caen (420,000 in the metropolitan area) and formerly the capital of Lower Normandy; Le Havre (296,773 in the metropolitan area); and Cherbourg (117,855 in the metropolitan area).
+The main cities (population given from the 1999 census) are Rouen (518,316 in the metropolitan area), the capital since 2016 of the province and formerly of Upper Normandy; Caen (420,000 in the metropolitan area) and formerly the capital of Lower Normandy; Le Havre (296,773 in the metropolitan area); and Cherbourg (117,855 in the metropolitan area).
 
 
 Culture
@@ -197,7 +197,7 @@ The Norman language, a regional language, is spoken by a minority of the populat
 
 Architecture
 
-Dauville_Hotel_Normandie.jpg]]
+]]
 
 Architecturally, Norman cathedrals, abbeys (such as the Abbey of Bec) and castles characterise the former duchy in a way that mirrors the similar pattern of Norman architecture in England following the Norman Conquest of 1066.
 
@@ -209,9 +209,7 @@ The south part of Bagnoles-de-l'Orne is filled with bourgeois villas in _Belle �
 
 Gastronomy
 
-Vachesnormandes.jpg
-
-]] Parts of Normandy consist of rolling countryside typified by pasture for dairy cattle and apple orchards. A wide range of dairy products are produced and exported. Norman cheeses include Camembert, Livarot, Pont l'Évêque, Brillat-Savarin, Neufchâtel, Petit Suisse and Boursin.[21] Normandy butter and Normandy cream are lavishly used in gastronomic specialties. Reflets_de_France_Cidre.jpg from Normandy
+]] Parts of Normandy consist of rolling countryside typified by pasture for dairy cattle and apple orchards. A wide range of dairy products are produced and exported. Norman cheeses include Camembert, Livarot, Pont l'Évêque, Brillat-Savarin, Neufchâtel, Petit Suisse and Boursin.[21] Normandy butter and Normandy cream are lavishly used in gastronomic specialties. from Normandy
 
 ]] Fish and seafood are of superior quality in Normandy. Turbot and oysters from the Cotentin Peninsula are major delicacies throughout France. Normandy is the chief oyster-cultivating, scallop-exporting, and mussel-raising region in France.
 
@@ -229,13 +227,13 @@ Normandy is the native land of Taillevent, cook of the kings of France Charles V
 
 Literature
 
-Wace_illustration_Roman_de_Rou_1824.jpg presents his _Roman de Rou_ to Henry II, Illustration 1824]] The dukes of Normandy commissioned and inspired epic literature to record and legitimise their rule. Wace, Orderic Vitalis and Stephen of Rouen were among those who wrote in the service of the dukes. After the division of 1204, French literature provided the model for the development of literature in Normandy. Olivier Basselin wrote of the Vaux de Vire, the origin of literary _vaudeville_. Notable Norman writers include Jean Marot, Rémy Belleau, Guy de Maupassant, Jules Barbey d'Aurevilly, Gustave Flaubert, Octave Mirbeau, and Remy de Gourmont, and Alexis de Tocqueville. The Corneille brothers, Pierre and Thomas, born in Rouen, were great figures of French classical literature.
+presents his _Roman de Rou_ to Henry II, Illustration 1824]] The dukes of Normandy commissioned and inspired epic literature to record and legitimise their rule. Wace, Orderic Vitalis and Stephen of Rouen were among those who wrote in the service of the dukes. After the division of 1204, French literature provided the model for the development of literature in Normandy. Olivier Basselin wrote of the Vaux de Vire, the origin of literary _vaudeville_. Notable Norman writers include Jean Marot, Rémy Belleau, Guy de Maupassant, Jules Barbey d'Aurevilly, Gustave Flaubert, Octave Mirbeau, and Remy de Gourmont, and Alexis de Tocqueville. The Corneille brothers, Pierre and Thomas, born in Rouen, were great figures of French classical literature.
 
 David Ferrand (1591–1660) in his _Muse Normande_ established a landmark of Norman language literature. In the 16th and 17th centuries, the workers and merchants of Rouen established a tradition of polemical and satirical literature in a form of language called the _parler purin_. At the end of the 18th century and beginning of the 19th century a new movement arose in the Channel Islands, led by writers such as George Métivier, which sparked a literary renaissance on the Norman mainland. In exile in Jersey and then Guernsey, Victor Hugo took an interest in the vernacular literature. _Les Travailleurs de la mer_ is a well-known novel by Hugo set in the Channel Islands. The boom in insular literature in the early 19th century encouraged production especially in La Hague and around Cherbourg, where Alfred Rossel, Louis Beuve and Côtis-Capel became active. The typical medium for literary expression in Norman has traditionally been newspaper columns and almanacs. The novel _Zabeth_ by André Louis which appeared in 1969 was the first novel published in Norman.
 
 Painting
 
-Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg, _Woman with a Parasol - Madame Monet and Her Son_, 1875]]
+, _Woman with a Parasol - Madame Monet and Her Son_, 1875]]
 
 Normandy has a rich tradition of painting and gave to France some of its most important artists.
 
@@ -243,7 +241,7 @@ In the 17th century some major French painters were Normans like Nicolas Poussin
 
 Romanticism drew painters to the Channel coasts of Normandy. Richard Parkes Bonington and J. M. W. Turner crossed the Channel from Great Britain, attracted by the light and landscapes. Théodore Géricault, a native of Rouen, was a notable figure in the Romantic movement, its famous _Radeau de la Méduse_ being considered come the breakthrough of pictorial romanticism in France when it was officially presented at the 1819 Salon. The competing Realist tendency was represented by Jean-François Millet, a native of La Hague. The landscape painter Eugène Boudin, born in Honfleur, was a determining influence on the impressionnists and was highly considered by Monet.
 
-Robert_Antoine_Pinchon,_Un_après-midi_à_l'Ile_aux_Cerises,_Rouen,_oil_on_canvas,_50_x_61.2_cm.jpg, _Un après-midi à l'Ile aux Cerises, Rouen_, oil on canvas, 50 x 61.2 cm]] Breaking away from the more formalised and classical themes of the early part of the 19th century, Impressionist painters preferred to paint outdoors, in natural light, and to concentrate on landscapes, towns and scenes of daily life.
+, _Un après-midi à l'Ile aux Cerises, Rouen_, oil on canvas, 50 x 61.2 cm]] Breaking away from the more formalised and classical themes of the early part of the 19th century, Impressionist painters preferred to paint outdoors, in natural light, and to concentrate on landscapes, towns and scenes of daily life.
 
 Leader of the movement and father of modern painting, Claude Monet is one of the best known Impressionists and a major character in Normandy's artistic heritage. His house and gardens at Giverny are one of the region's major tourist sites, much visited for their beauty and their water lilies, as well as for their importance to Monet's artistic inspiration. Normandy was at the heart of his creation, from the paintings of Rouen's cathedral to the famous depictions of the cliffs at Etretat, the beach and port at Fécamp and the sunrise at Le Havre. It was _Impression, Sunrise_, Monet's painting of Le Havre, that led to the movement being dubbed Impressionism. After Monet, all the main avant-garde painters of the 1870s and 1880s came to Normandy to paint its landscapes and its changing lights, concentrating along the Seine valley and the Norman coast.
 
@@ -255,7 +253,7 @@ The _Société Normande de Peinture Moderne_ was founded in 1909 by Pierre Dumon
 
 Religion
 
-Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg]]
+]]
 
 Christian missionaries implanted monastic communities in the territory in the 5th and 6th centuries. Some of these missionaries came from across the Channel. The influence of Celtic Christianity can still be found in the Cotentin. By the terms of the treaty of Saint-Clair-sur-Epte, Rollo, a Viking pagan, accepted Christianity and was baptised. The Duchy of Normandy was therefore formally a Christian state from its foundation. The cathedrals of Normandy have exerted influence down the centuries in matters of both faith and politics. King Henry II of England, did penance at the cathedral of Avranches on 21 May 1172 and was absolved from the censures incurred by the assassination of Thomas Becket. Mont Saint-Michel is a historic pilgrimage site.
 

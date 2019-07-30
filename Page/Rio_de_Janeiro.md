@@ -9,7 +9,7 @@ Rio de Janeiro is one of the most visited cities in the Southern Hemisphere and 
 
 History
 
-Palácio_Pedro_Ernesto_-_Fundação_da_Cidade.jpg Nicolas-Antoine_Taunay.jpg, as seen from the terrace of the _Convento de Santo Antônio_ (Convent of St. Anthony), c. 1816]] Mapa_da_cidade_do_Rio_de_Janeiro.jpg, with the transfer of the Portuguese court to Brazil.]]
+, as seen from the terrace of the _Convento de Santo Antônio_ (Convent of St. Anthony), c. 1816]] , with the transfer of the Portuguese court to Brazil.]]
 
 Colonial period
 
@@ -37,7 +37,7 @@ Donohoe was horrified to discover that there was no knowledge of football among 
 
 Republican period
 
-Rio_de_Janeiro_ca1910s_photo_from_USA_Library_of_Congress_19301u.jpg Bondinho_Rio_1940.jpg cable car between the 1940s and 1950s]] Tanques_ocupam_a_Avenida_Presidente_Vargas,_1968-04-04.jpg. At time, Rio de Janeiro was a city-state, capital of Guanabara]]
+cable car between the 1940s and 1950s]] . At time, Rio de Janeiro was a city-state, capital of Guanabara]]
 
 At the time Brazil's Old Republic was established, the city lacked urban planning and sanitation, which helped spread several diseases, such as yellow fever, dysentery, variola, tuberculosis and even black death. Pereira Passos, who was named mayor in 1902, imposed reforms to modernize the city, demolishing the cortiços where most of the poor population lived. These people, mostly descendants of slaves, then moved to live in the city's hills, creating the first favelas.[25] Inspired by the city of Paris, Passos built the Municipal Theatre, the National Museum of Fine Arts and the National Library in the city's center; brought electric power to Rio and created larger avenues to adapt the city to automobiles.[26] Passos also named Dr. Oswaldo Cruz as Director General of Public Health. Cruz's plans to clean the city of diseases included compulsory vaccination of the entire population and forced entry into houses to kill mosquitos and rats. The people of city rebelled against Cruz's policy, in what would be known as the Vaccine Revolt.[27]
 
@@ -52,7 +52,7 @@ In 1992, Rio hosted the Earth Summit, a United Nations conference to fight envir
 
 Geography
 
-Rio_de_Janeiro,_satellite_image,_LandSat-5,_2011-05-09_(cropped).jpg view of Greater Rio de Janeiro]]
+view of Greater Rio de Janeiro]]
 
 Rio de Janeiro is on the far western part of a strip of Brazil's Atlantic coast (between a strait east to Ilha Grande, on the Costa Verde, and the Cabo Frio), close to the Tropic of Capricorn, where the shoreline is oriented east–west. Facing largely south, the city was founded on an inlet of this stretch of the coast, Guanabara Bay (Baía de Guanabara), and its entrance is marked by a point of land called Sugar Loaf (Pão de Açúcar) – a "calling card" of the city.[32]
 
@@ -76,7 +76,7 @@ There are, on the other hand, signs of decontamination in the lagoon made throug
 
 Climate
 
-Vista_do_Morro_Dona_Marta.jpg with the Sugarloaf Mountain]] Rio_de_Janeiro_visto_do_Parque_da_Cidade,_em_Niterói.jpg]] Marina_da_Glória_1.jpg]]
+with the Sugarloaf Mountain]] ]] ]]
 
 Rio has a tropical savanna climate (_Aw_) that closely borders a tropical monsoon climate (_Am_) according to the Köppen climate classification, and is often characterized by long periods of heavy rain between December and March.[43] The city experiences hot, humid summers, and warm, sunny winters. In inland areas of the city, temperatures above are common during the summer, though rarely for long periods, while maximum temperatures above can occur on a monthly basis.
 
@@ -88,7 +88,7 @@ Drought is very rare, albeit bound to happen occasionally given the city's stron
 
 Roughly in the same suburbs (Nova Iguaçu and surrounding areas, including parts of Campo Grande and Bangu) that correspond to the location of the March 2012, February–March 2013 and January 2015 pseudo-hail (_granizo_) falls, there was a tornado-like phenomenon in January 2011, for the first time in the region's recorded history, causing structural damage and long-lasting blackouts, but no fatalities.[51][52] The World Meteorological Organization has advised that Brazil, especially its southeastern region, must be prepared for increasingly severe weather occurrences in the near future, since events such as the catastrophic January 2011 Rio de Janeiro floods and mudslides are not an isolated phenomenon. In early May 2013, winds registering above caused blackouts in 15 neighborhoods of the city and three surrounding municipalities, and killed one person.[53] Rio saw similarly high winds (about ) in January 2015.[54] The average annual minimum temperature is ,[55] the average annual maximum temperature is ,[56] and the average annual temperature is .[57] The average yearly precipitation is .[58]
 
-1_leblon_aerial_2014.jpg neighborhood]] Praia_Vermelha_vista_do_alto_Pão_de_Açúcar.jpg and Copacabana as seen from Sugarloaf Mountain]]
+neighborhood]] and Copacabana as seen from Sugarloaf Mountain]]
 
 Temperature also varies according to elevation, distance from the coast, and type of vegetation or land use. During the winter, cold fronts and dawn/morning sea breezes bring mild temperatures; cold fronts, the Intertropical Convergence Zone (in the form of winds from the Amazon Forest), the strongest sea-borne winds (often from an extratropical cyclone) and summer evapotranspiration bring showers or storms. Thus the monsoon-like climate has dry and mild winters and springs, and very wet and warm summers and autumns. As a result, temperatures over , that may happen about year-round but are much more common during the summer, often mean the actual temperature feeling is over , when there is little wind and the relative humidity percentage is high.[59][60][61][62]
 
@@ -113,7 +113,7 @@ City districts
 
 Central Zone
 
-Centro_do_Rio_visto_do_museu_chácara_do_céu.jpg]]
+]]
 
 Centro or Downtown is the historic core of the city, as well as its financial centre. Sites of interest include the Paço Imperial, built during colonial times to serve as a residence for the Portuguese governors of Brazil; many historic churches, such as the Candelária Church (the former cathedral), São Jose, Santa Lucia, Nossa Senhora do Carmo, Santa Rita, São Francisco de Paula, and the monasteries of Santo Antônio and São Bento. The Centro also houses the modern concrete Rio de Janeiro Cathedral. Around the Cinelândia square, there are several landmarks of the _Belle Époque_ of Rio, such as the Municipal Theatre and the National Library building.
 
@@ -121,7 +121,7 @@ Among its several museums, the Museu Nacional de Belas Artes (National Museum of
 
 South Zone
 
-Forte_de_Copacabana_panorama.jpg, with Ipanema (background) and Copacabana (right)]] Bondinho_chegando_no_Pão_de_Açúcar.JPG arriving at Sugarloaf]]
+, with Ipanema (background) and Copacabana (right)]] arriving at Sugarloaf]]
 
 The South Zone of Rio de Janeiro () is composed of several districts, among which are São Conrado, Leblon, Ipanema, Arpoador, Copacabana, and Leme, which compose Rio's famous Atlantic beach coastline. Other districts in the South Zone are Glória, Catete, Flamengo, Botafogo, and Urca, which border Guanabara Bay, and Santa Teresa, Cosme Velho, Laranjeiras, Humaitá, Lagoa, Jardim Botânico, and Gávea. It is the wealthiest part of the city and the best known overseas; the neighborhoods of Leblon and Ipanema, in particular, have the most expensive real estate in all of South America.
 
@@ -135,7 +135,7 @@ The Pontifical Catholic University of Rio (Pontifícia Universidade Católica do
 
 North Zone
 
-Aerea2_maracana.jpg]] Palácio_de_São_Cristóvão.jpg, the former residence of the Emperors of Brazil, was the National Museum of the Federal University of Rio de Janeiro, at Quinta da Boa Vista, located in São Cristóvão imperial neighbourhood.]]The North Zone () begins at Grande Tijuca (the middle class residential and commercial _bairro_ of Tijuca), just west of the city center, and sprawls for miles inland until Baixada Fluminense and the city's Northwest.
+]] , the former residence of the Emperors of Brazil, was the National Museum of the Federal University of Rio de Janeiro, at Quinta da Boa Vista, located in São Cristóvão imperial neighbourhood.]]The North Zone () begins at Grande Tijuca (the middle class residential and commercial _bairro_ of Tijuca), just west of the city center, and sprawls for miles inland until Baixada Fluminense and the city's Northwest.
 
 This region is home to the Maracanã stadium (located in Grande Tijuca), once the world's highest capacity football venue, able to hold nearly 199,000 people, as it did for the World Cup final of 1950. More recently its capacity has been reduced to conform with modern safety regulations and the stadium has introduced seating for all fans. Currently undergoing reconstruction, it has now the capacity for 90,000; it will eventually hold around 80,000 people. Maracanã was the site for the Opening and Closing Ceremonies and football competition of the 2007 Pan American Games; hosted the final match of the 2014 FIFA World Cup, the Opening and Closing Ceremonies and the football matches of the 2016 Summer Olympics.
 
@@ -145,13 +145,13 @@ This region is also home to most of the samba schools of Rio de Janeiro such as 
 
 West Zone
 
-Colônia_Juliano_Moreira_-_Aqueduto_dos_Psicopatas.jpg West Zone (_Zona Oeste_) of Rio de Janeiro is a complicated place that makes up more than 50% of the city area, including Barra da Tijuca and Recreio dos Bandeirantes neighborhoods. The West Side of Rio has many historic sites because of the old "Royal Road of Santa Cruz" that crossed the territory in the regions of Realengo, Bangu, and Campo Grande, finishing at the Royal Palace of Santa Cruz in the Santa Cruz region. The highest peak of the city of Rio de Janeiro is the Pedra Branca Peak (Pico da Pedra Branca) inside the Pedra Branca State Park. It has an altitude of 1024m. The Pedra Branca State Park (Parque Estadual da Pedra Branca)[76] is the biggest urban state park in the world comprising 17 neighborhoods in the west side, being a "giant lung" in the city with trails,[77] waterfalls and historic constructions like an old aqueduct in the Colônia Juliano Moreira[78] in the neighborhood of Taquara and a dam in Camorim. The park has three principal entrances: the main one is in Taquara called Pau da Fome Core, another entrance is the Piraquara Core in Realengo and the last one is the Camorim Core, considered the cultural heritage of the city.
+West Zone (_Zona Oeste_) of Rio de Janeiro is a complicated place that makes up more than 50% of the city area, including Barra da Tijuca and Recreio dos Bandeirantes neighborhoods. The West Side of Rio has many historic sites because of the old "Royal Road of Santa Cruz" that crossed the territory in the regions of Realengo, Bangu, and Campo Grande, finishing at the Royal Palace of Santa Cruz in the Santa Cruz region. The highest peak of the city of Rio de Janeiro is the Pedra Branca Peak (Pico da Pedra Branca) inside the Pedra Branca State Park. It has an altitude of 1024m. The Pedra Branca State Park (Parque Estadual da Pedra Branca)[76] is the biggest urban state park in the world comprising 17 neighborhoods in the west side, being a "giant lung" in the city with trails,[77] waterfalls and historic constructions like an old aqueduct in the Colônia Juliano Moreira[78] in the neighborhood of Taquara and a dam in Camorim. The park has three principal entrances: the main one is in Taquara called Pau da Fome Core, another entrance is the Piraquara Core in Realengo and the last one is the Camorim Core, considered the cultural heritage of the city.
 
 Santa Cruz and Campo Grande Region have exhibited economic growth, mainly in the Campo Grande neighborhood. Industrial enterprises are being built in lower and lower middle class residential Santa Cruz, one of the largest and most populous of Rio de Janeiro's neighbourhoods, most notably Ternium Brasil, a new steel mill with its own private docks on Sepetiba Bay, which is planned to be South America's largest steel works.[79] A tunnel called _Túnel da Grota Funda_, opened in 2012, creating a public transit facility between Barra da Tijuca and Santa Cruz, lessening travel time to the region from other areas of Rio de Janeiro.[80]
 
 Barra da Tijuca region
 
-Praia_da_Barra_e_Montanhas_do_Parque_Nacional_da_Tijuca.jpg with Pedra da Gávea at background]] This is an elite area of the West Zone of the city of Rio de Janeiro. It includes Barra da Tijuca, Recreio dos Bandeirantes, Vargem Grande, Vargem Pequena, Grumari, Itanhangá, Camorim and Joá. Westwards from the older zones of Rio, Barra da Tijuca is a flat complex of barrier islands of formerly undeveloped coastal land, which constantly experiences new constructions and developments. It remains an area of accelerated growth, attracting some of the richer sectors of the population as well as luxury companies. High rise flats and sprawling shopping centers give the area a far more modern feel than the crowded city centre.
+with Pedra da Gávea at background]] This is an elite area of the West Zone of the city of Rio de Janeiro. It includes Barra da Tijuca, Recreio dos Bandeirantes, Vargem Grande, Vargem Pequena, Grumari, Itanhangá, Camorim and Joá. Westwards from the older zones of Rio, Barra da Tijuca is a flat complex of barrier islands of formerly undeveloped coastal land, which constantly experiences new constructions and developments. It remains an area of accelerated growth, attracting some of the richer sectors of the population as well as luxury companies. High rise flats and sprawling shopping centers give the area a far more modern feel than the crowded city centre.
 
 The urban planning of the area, completed in the late 1960s, mixes zones of single-family houses with residential skyscrapers. The beaches of Barra da Tijuca are also popular with the residents from other parts of the city. One of the most famous hills in the city is the Pedra da Gávea (Crow's nest Rock) bordering the South Zone. On the top of its summit is a huge rock formation (some, such as Erich von Däniken in his 1973 book, _In Search of Ancient Gods_, claim it to be a sculpture) resembling a sphinx-like, bearded head that is visible for many kilometres around.
 
@@ -164,7 +164,7 @@ In 2010, the city of Rio de Janeiro was the 2nd most populous city in Brazil, af
 
 Different ethnic groups contributed to the formation of the population of Rio de Janeiro. Before European colonization, there were at least seven different indigenous peoples speaking 20 languages in the region. A part of them joined the Portuguese and the other the French. Those who joined the French were then exterminated by the Portuguese, while the other part was assimilated.[85]
 
-Rio de Janeiro is home to the largest Portuguese population outside of Lisbon in Portugal.[86] After independence from Portugal, Rio de Janeiro became a destination for hundreds of thousands of immigrants from Portugal, mainly in the early 20th century. The immigrants were mostly poor peasants who subsequently found prosperity in Rio as city workers and small traders.[87] The Portuguese cultural influence is still seen in many parts of the city (and many other parts of the state of Rio de Janeiro), including architecture and language. Most Brazilians with some cultural contact with Rio know how to easily differentiate between the local dialect, _fluminense_, and other Brazilian dialects. リオの幻想図書館_Real_Gabinete_Portugues_de_Leitura_(8735773218).jpg. Rio de Janeiro is considered the largest "Portuguese city" outside Portugal.[88]]] Afot3602.jpg
+Rio de Janeiro is home to the largest Portuguese population outside of Lisbon in Portugal.[86] After independence from Portugal, Rio de Janeiro became a destination for hundreds of thousands of immigrants from Portugal, mainly in the early 20th century. The immigrants were mostly poor peasants who subsequently found prosperity in Rio as city workers and small traders.[87] The Portuguese cultural influence is still seen in many parts of the city (and many other parts of the state of Rio de Janeiro), including architecture and language. Most Brazilians with some cultural contact with Rio know how to easily differentiate between the local dialect, _fluminense_, and other Brazilian dialects. . Rio de Janeiro is considered the largest "Portuguese city" outside Portugal.[88]]]
 
 People of Portuguese ancestry predominate in most of the state. The Brazilian census of 1920 showed that 39.7% of the Portuguese who lived in Brazil lived in Rio de Janeiro. Including all of the Rio de Janeiro, the proportion raised to 46.3% of the Portuguese who lived in Brazil. The numerical presence of the Portuguese was extremely high, accounting for 72% of the foreigners who lived in the capital. Portuguese born people accounted for 20.4% of the population of Rio, and those with a Portuguese father or a Portuguese mother accounted for 30.8%. In other words, native born Portuguese and their children accounted for 51.2% of the inhabitants of Rio, or a total of 267,664 people in 1890.[89]
 
@@ -270,7 +270,7 @@ text:
 
 Religion
 
-Igreja_de_Nossa_Senhora_da_Candelária_-_Rio_de_Janeiro,_Brasil.jpg]]
+]]
 
 The Rio de Janeiro metropolitan area, according to 2009 research from Fundação Getúlio Vargas (known as ), ranks first in Brazil in the percentage of Catholics (51.1%) living there. Rio de Janeiro city also ranks fifth among Brazilian state capital cities in the percentage of its population that is irreligious (13.3%), barely changing since 2000 (the first-ranked, Boa Vista, has 21.2% irreligious).[101][102] It is also the Brazilian state capital with the greatest percentage of Spiritists (now about 4–5%), and with substantial numbers in Afro-Brazilian religions and Eastern religions.
 
@@ -287,7 +287,7 @@ The Rio de Janeiro metropolitan area, according to 2009 research from Fundação
 
 Urban challenges
 
-1_rocinha_night_2014_panorama.jpg slum (_favela_) at night]]
+slum (_favela_) at night]]
 
 There are significant disparities between the rich and the poor in Rio de Janeiro, and different socioeconomic groups are largely segregated into different neighborhoods.[104] Although the city clearly ranks among the world's major metropolises, large numbers live in slums known as favelas, where 95% of the population are poor, compared to 40% in the general population.[105]
 
@@ -298,7 +298,7 @@ Rio has more people living in slums than any other city in Brazil, according to 
 
 Economy
 
-Rio_de_Janeiro_-_Exports_2014.svg] Aerial_View_of_Flamengo_1.jpg, in the financial district of the city]]
+] , in the financial district of the city]]
 
 Rio de Janeiro has the second largest GDP of any city in Brazil, surpassed only by São Paulo. According to the IBGE, it was approximately US$201 billion in 2008, equivalent to 5.1% of the national total. Taking into consideration the network of influence exerted by the urban metropolis (which covers 11.3% of the population), this share in GDP rises to 14.4%, according to a study released in October 2008 by the IBGE.[107]
 
@@ -306,7 +306,7 @@ Greater Rio de Janeiro, as perceived by the IBGE, has a GDP of US$187 billion, 
 
 Benefiting from the federal capital position it had for a long period (1763–1960), the city became a dynamic administrative, financial, commercial and cultural center. Rio de Janeiro became an attractive place for companies to locate when it was the capital of Brazil, as important sectors of society and of the government were present in the city, even when their factories were located in other cities or states. The city was chosen as headquarters for state-owned companies such as Petrobras, Eletrobras, Caixa Econômica Federal, National Economic and Social Development Bank and Vale (which was privatized in the 1990s). The Rio de Janeiro Stock Exchange (BVRJ), which currently trades only government securities, was the first stock exchange founded in Brazil in 1845. Despite the transfer of the capital to Brasília in 1960, many of these headquarters remained within the Rio metropolitan area.
 
-The off-shore oil exploration in the Campos Basin began in 1968 and became the main site for oil production of Brazil. This caused many oil and gas companies to be based in Rio de Janeiro, such as the Brazilian branches of Shell, EBX and Esso. For many years Rio was the second largest industrial hub of Brazil,[112] with oil refineries, shipbuilding industries, steel, metallurgy, petrochemicals, cement, pharmaceutical, textile, processed foods and furniture industries. Rio_night.jpg at night seen from _Christ the Redeemer_]] Aterro_do_Flamengo_visto_a_partir_do_morro_da_Urca.jpg at night with Downtown Rio in the background]] Barra_Panorama.jpg]]
+The off-shore oil exploration in the Campos Basin began in 1968 and became the main site for oil production of Brazil. This caused many oil and gas companies to be based in Rio de Janeiro, such as the Brazilian branches of Shell, EBX and Esso. For many years Rio was the second largest industrial hub of Brazil,[112] with oil refineries, shipbuilding industries, steel, metallurgy, petrochemicals, cement, pharmaceutical, textile, processed foods and furniture industries. at night seen from _Christ the Redeemer_]] at night with Downtown Rio in the background]] ]]
 
 Major international pharmaceutical companies have their Brazilian headquarters in Rio such as: Merck, Roche, Arrow, Darrow, Baxter, Mayne, and Mappel. A newer electronics and computer sector has been added to the more-established industries. Construction, also an important activity, provides a significant source of employment for large numbers of unskilled workers and is buoyed by the number of seasonal residents who build second homes in the Greater Rio de Janeiro area.
 
@@ -324,7 +324,7 @@ Compared to other cities, Rio de Janeiro's economy is the 2nd largest in Brazil,
 
 Tourism
 
-Cidade_Maravilhosa.jpg]] Museu_do_Amanhã_05.JPG]] Rio de Janeiro is Brazil's primary tourist attraction and resort. It receives the most visitors per year of any city in South America with 2.82 million international tourists a year.[124]
+]] ]] Rio de Janeiro is Brazil's primary tourist attraction and resort. It receives the most visitors per year of any city in South America with 2.82 million international tourists a year.[124]
 
 The city world-class hotels, like Belmond Copacabana Palace, approximately 80 kilometres of beaches and the famous Corcovado, Sugarloaf mountains and Maracanã Stadium. While the city had in past had a thriving tourism sector, the industry entered a decline in the last quarter of the 20th century. Annual international airport arrivals dropped from 621,000 to 378,000 and average hotel occupancy dropped to 50% between 1985 and 1993.[125]
 
@@ -337,11 +337,11 @@ The city is an important global LGBT destination, 1 million LGBT tourists visiti
 
 Education
 
-UFRJ-Praia_Vermelha.jpg]] The Portuguese language is the official and national language, and thus the primary language taught in schools. English and Spanish are also part of the official curriculum. There are also international schools, such as the American School of Rio de Janeiro, Our Lady of Mercy School, the Corcovado German School, the Lycée Français and the British School of Rio de Janeiro.
+]] The Portuguese language is the official and national language, and thus the primary language taught in schools. English and Spanish are also part of the official curriculum. There are also international schools, such as the American School of Rio de Janeiro, Our Lady of Mercy School, the Corcovado German School, the Lycée Français and the British School of Rio de Janeiro.
 
 Educational institutions
 
-Centro_ciências_humanas.JPG of the Federal University of the State of Rio de Janeiro]] Military_Engineering_Institute.jpg]] The city has several universities and research institutes. The Ministry of Education has certified approximately 99 upper-learning institutions in Rio.[130] The most prestigious university is the Federal University of Rio de Janeiro, the fifth best in Latin America, and the second best in Brazil, second only to the University of São Paulo, the best in Latin America, according to the QS World University Rankings.[131][132]
+of the Federal University of the State of Rio de Janeiro]] ]] The city has several universities and research institutes. The Ministry of Education has certified approximately 99 upper-learning institutions in Rio.[130] The most prestigious university is the Federal University of Rio de Janeiro, the fifth best in Latin America, and the second best in Brazil, second only to the University of São Paulo, the best in Latin America, according to the QS World University Rankings.[131][132]
 
 Some notable higher education institutions are: Federal University of Rio de Janeiro (UFRJ); Federal University of the Rio de Janeiro state (UNIRIO); Rio de Janeiro State University (UERJ); Federal Rural University of Rio de Janeiro (UFRRJ, often nicknamed _Rural_); Fluminense Federal University (UFF); Pontifical Catholic University of Rio de Janeiro (PUC-Rio); Getúlio Vargas Foundation (FGV); Military Institute of Engineering (IME); Superior Institute of Technology in Computer Science of Rio de Janeiro (IST-Rio); College of Publicity and Marketing (ESPM); National Institute of Pure and Applied Mathematics (IMPA) and Federal Center of Technological Education Celso Suckow da Fonseca (CEFET/RJ). There are more than 137 upper-learning institutions in whole Rio de Janeiro state.[133]
 
@@ -356,17 +356,17 @@ In Rio, there were 1,033 primary schools with 25,594 teachers and 667,788 studen
 
 Culture
 
-MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg]] Rio de Janeiro is a main cultural hub in Brazil. Its architecture embraces churches and buildings dating from the 16th to the 19th centuries, blending with the world-renowned designs of the 20th century. Rio was home to the Portuguese Imperial family and capital of the country for many years, and was influenced by Portuguese, English, and French architecture.[138]
+]] Rio de Janeiro is a main cultural hub in Brazil. Its architecture embraces churches and buildings dating from the 16th to the 19th centuries, blending with the world-renowned designs of the 20th century. Rio was home to the Portuguese Imperial family and capital of the country for many years, and was influenced by Portuguese, English, and French architecture.[138]
 
 Rio de Janeiro has inherited a strong cultural role from the past. In the late 19th century, there were sessions held of the first Brazilian film and since then, several production cycles have spread out, eventually placing Rio at the forefront of experimental and national cinema. The Rio de Janeiro International Film Festival[139] has been held annually since 1999.[140]
 
-Rio currently brings together the main production centers of Brazilian television.[141] Major international films set in Rio de Janeiro include _Blame it on Rio_; the James Bond film _Moonraker_; the Oscar award-winning, critically acclaimed _Central Station_ by Walter Salles, who is also one of Brazil's best-known directors; and the Oscar award-winning historical drama, _Black Orpheus_, which depicted the early days of Carnaval in Rio de Janeiro. Internationally famous, Brazilian-made movies illustrating a darker side of Rio de Janeiro include _Elite Squad_ and _City of God_. Esculturas,_Museu_Nacional_de_Belas_Artes_02.jpg]]
+Rio currently brings together the main production centers of Brazilian television.[141] Major international films set in Rio de Janeiro include _Blame it on Rio_; the James Bond film _Moonraker_; the Oscar award-winning, critically acclaimed _Central Station_ by Walter Salles, who is also one of Brazil's best-known directors; and the Oscar award-winning historical drama, _Black Orpheus_, which depicted the early days of Carnaval in Rio de Janeiro. Internationally famous, Brazilian-made movies illustrating a darker side of Rio de Janeiro include _Elite Squad_ and _City of God_. ]]
 
 Rio has many important cultural landmarks, such as the Biblioteca Nacional (National Library), one of the largest libraries in the world with collections totalling more than 9 million items; the Theatro Municipal; the National Museum of Fine Arts; the Carmen Miranda Museum; the Rio de Janeiro Botanical Garden; the Parque Lage; the Quinta da Boa Vista; the Imperial Square; the Brazilian Academy of Letters; the Museu de Arte Moderna do Rio de Janeiro; and the Natural History Museum.
 
 Literature
 
-After Brazilian independence from Portugal in 1822, Rio de Janeiro quickly developed a European-style bourgeois cultural life, including numerous newspapers, in which most 19th-century novels were initially published in serial. Joaquim Manuel de Macedo's _A Moreninha_ (1844) was perhaps the first successful novel in Brazil and inaugurates a recurrent 19th-century theme: a romantic relationship between idealistic young people in spite of cruelties of social fortune. Academia_brasileira_de_letras_2.JPG]]
+After Brazilian independence from Portugal in 1822, Rio de Janeiro quickly developed a European-style bourgeois cultural life, including numerous newspapers, in which most 19th-century novels were initially published in serial. Joaquim Manuel de Macedo's _A Moreninha_ (1844) was perhaps the first successful novel in Brazil and inaugurates a recurrent 19th-century theme: a romantic relationship between idealistic young people in spite of cruelties of social fortune. ]]
 
 The first notable work of realism focusing on the urban lower-middle class is Manuel Antônio de Almeida's _Memórias de um sargento de milícias_ (1854), which presents a series of picaresque but touching scenes, and evokes the transformation of a town into a city with suggestive nostalgia. Romantic and realist modes both flourished through the late 19th century and often overlapped within works.[142]
 
@@ -382,7 +382,7 @@ The Real Gabinete Português de Leitura (Portuguese Royal Reading Library) is lo
 
 Music
 
-Tom_Jobim_e_Chico_Buarque_no_Festival_Internacional_da_Canção_(FIC).tif and Chico Buarque, leading names of _bossa nova_.]] The official song of Rio de Janeiro is "Cidade Maravilhosa", which means "marvelous city". The song is considered the civic anthem of Rio, and is always the favourite song during Rio's Carnival in February. Rio de Janeiro and São Paulo, are considered the centre of the urban music movement in Brazil.[149]
+and Chico Buarque, leading names of _bossa nova_.]] The official song of Rio de Janeiro is "Cidade Maravilhosa", which means "marvelous city". The song is considered the civic anthem of Rio, and is always the favourite song during Rio's Carnival in February. Rio de Janeiro and São Paulo, are considered the centre of the urban music movement in Brazil.[149]
 
 "Rio was popularised by the hit song "The Girl from Ipanema", composed by Antônio Carlos Jobim and Vinicius de Moraes and recorded by Astrud Gilberto and João Gilberto, Frank Sinatra, and Ella Fitzgerald. It is also the main key song of the bossa nova, a music genre born in Rio. A genre unique to Rio and Brazil as a whole is Funk Carioca. While samba music continues to act as the national unifying agent in Rio, Funk Carioca found a strong community following in Brazil. With its genesis in the 1970s as the modern black pop music from the United States, it evolved in the 1990s to describe a variety of electronic music associated with the current US black music scene, including hip hop, modern soul, and house music."[150]
 
@@ -390,7 +390,7 @@ Brazil's return to democracy in 1985 after over 20 years of military authoritar
 
 Theatre
 
-Teatro_Municipal_-_panoramio_(4).jpg]] Cidade_da_musica_city_of_music.jpg]]
+]] ]]
 
 Rio de Janeiro's Theatro Municipal is one of the most attractive buildings in the central area of the city. Home of one of the largest stages in Latin America and one of Brazil's best known venues for opera, ballet, and classical music, the building was inspired by the Palais Garnier, home of the Paris Opera. Construction of the Theatro Municipal began in 1905 following designs of the architect Francisco Pereira Passos. The statues on the top, of two women representing Poetry and Music, are by Rodolfo Bernardelli, and the interior is rich with furnishings and fine paintings. Inaugurated in 1909, the Teatro Municipal has close to 1,700 seats. Its interior includes turn of the century stained glass from France, ceilings of rose-colored marble and a 1,000 pound crystal bead chandelier surrounded by a painting of the "Dance of the Hours". The exterior walls of the building are dotted with inscriptions bearing the names of famous Brazilians as well as many other international celebrities.[153]
 
@@ -400,15 +400,15 @@ Events
 
 New Year's Eve
 
-Rio_New_Year_Fireworks.jpg Every 31 December, 2.5 million people gather at Copacabana Beach to celebrate New Year's in Rio de Janeiro. The crowd, mostly dressed in white, celebrates all night at the hundreds of different shows and events along the beach. It is the second largest celebration only next to the Carnival. People celebrate the New Year by sharing chilled champagne. It is considered good luck to shake the champagne bottle and spray around at midnight. Chilled champagne adds to the spirit of the festivities.[154]
+Every 31 December, 2.5 million people gather at Copacabana Beach to celebrate New Year's in Rio de Janeiro. The crowd, mostly dressed in white, celebrates all night at the hundreds of different shows and events along the beach. It is the second largest celebration only next to the Carnival. People celebrate the New Year by sharing chilled champagne. It is considered good luck to shake the champagne bottle and spray around at midnight. Chilled champagne adds to the spirit of the festivities.[154]
 
 Rock in Rio
 
-World_Stage_Rock_in_Rio_4.jpg" music festival]] "Rock in Rio" is a music festival conceived by entrepreneur Roberto Medina for the first time in 1985, and since its creation, recognized as the largest music festival in the Latin world and the largest in the world, with 1.5 million people attending the first event, 700,000 attending the second and fourth, about 1.2 million attending the third, and about 350,000 people attending each of the 3 Lisbon events. It was originally organized in Rio de Janeiro, from where the name comes from, has become a world level event and, in 2004, had its first edition abroad in Lisbon, Portugal, before Madrid, Spain and Las Vegas, United States. The festival is considered the eighth best in the world by the specialized site Fling Festival.[155]
+" music festival]] "Rock in Rio" is a music festival conceived by entrepreneur Roberto Medina for the first time in 1985, and since its creation, recognized as the largest music festival in the Latin world and the largest in the world, with 1.5 million people attending the first event, 700,000 attending the second and fourth, about 1.2 million attending the third, and about 350,000 people attending each of the 3 Lisbon events. It was originally organized in Rio de Janeiro, from where the name comes from, has become a world level event and, in 2004, had its first edition abroad in Lisbon, Portugal, before Madrid, Spain and Las Vegas, United States. The festival is considered the eighth best in the world by the specialized site Fling Festival.[155]
 
 Carnival
 
-Banda_de_Ipanema.jpg, one of the largest carnival blocks of the city]] Carnaval, is an annual celebration in the Roman Catholic tradition that allows merry-making and red meat consumption before the more sober 40 days of Lent penance which culminates with Holy or Passion Week and Easter. The tradition of Carnaval parades was probably influenced by the French or German courts and the custom was brought by the Portuguese or Brazilian Imperial families who had Bourbon and Austrian ancestors. Up until the time of the marchinhas, the revelry was more of a high class and Caucasian-led event. The influence of the African-Brazilian drums and music became more noticeable from the first half of the 20th century. Rio de Janeiro has many Carnaval choices, including the famous samba school (_Escolas de Samba)_[156] parades in the sambadrome exhibition center and the popular _blocos de carnaval_, street revelry, which parade in almost every corner of the city. The most famous ones are:
+, one of the largest carnival blocks of the city]] Carnaval, is an annual celebration in the Roman Catholic tradition that allows merry-making and red meat consumption before the more sober 40 days of Lent penance which culminates with Holy or Passion Week and Easter. The tradition of Carnaval parades was probably influenced by the French or German courts and the custom was brought by the Portuguese or Brazilian Imperial families who had Bourbon and Austrian ancestors. Up until the time of the marchinhas, the revelry was more of a high class and Caucasian-led event. The influence of the African-Brazilian drums and music became more noticeable from the first half of the 20th century. Rio de Janeiro has many Carnaval choices, including the famous samba school (_Escolas de Samba)_[156] parades in the sambadrome exhibition center and the popular _blocos de carnaval_, street revelry, which parade in almost every corner of the city. The most famous ones are:
 
 -   _Cordão do Bola Preta_: Parades in the centre of the city. It is one of the most traditional carnavals. In 2008, 500,000 people attended in one day.[157] In 2011, a record 2 million people attended the city covering three different metro stations.
 -   _Suvaco do Cristo_: Band that parades in the Botanic Garden, directly below the Redeemer statue's arm. The name translates to 'Christ's armpit' in English, and was chosen for that reason.
@@ -423,7 +423,7 @@ Sports
 
 Football
 
-Maracanã_2014_e.jpg]] Rio2016_Gerais_030_8069_-c-2016_GabrielHeusi_HeusiAction.jpg]] Estádio_de_São_Januário_by_Diego_Baravelli.jpg]] Ilha_do_urubu.jpeg]]
+]] ]] ]] ]]
 
 As in the rest of Brazil, association football is the most popular sport. The city's major teams are Flamengo, Vasco da Gama, Fluminense and Botafogo. Madureira, Bangu, Portuguesa, America and Bonsucesso are small clubs. Famous players born in the city include Ronaldo and Romário.[159]
 
@@ -445,7 +445,7 @@ Rio de Janeiro was one of the host cities of the 1950 and 2014 FIFA World Cups, 
 
 Olympics
 
-Parque_Olímpico_Rio_2016_(cropped).jpg, built for 2016 Summer Olympics]] On 2 October 2009, the International Olympic Committee selected Rio de Janeiro to host the 2016 Summer Olympics.[161] Rio made their first bid for the 1936 Summer Olympics, but lost to Berlin. They later made bids for the 2004 and 2012 Games, but failed to become a candidate city both times. Those games were awarded to Athens and London respectively.[162]
+, built for 2016 Summer Olympics]] On 2 October 2009, the International Olympic Committee selected Rio de Janeiro to host the 2016 Summer Olympics.[161] Rio made their first bid for the 1936 Summer Olympics, but lost to Berlin. They later made bids for the 2004 and 2012 Games, but failed to become a candidate city both times. Those games were awarded to Athens and London respectively.[162]
 
 Rio is the first Brazilian and South American city to host the Summer Olympics. Rio de Janeiro also became the first city in the southern hemisphere outside of Australia to host the games – Melbourne in 1956 and Sydney in 2000. In July 2007, Rio successfully organized and hosted the XV Pan American Games.
 
@@ -455,7 +455,7 @@ Rio de Janeiro hosted the 2016 Olympics and Paralympics. The Olympic Games were 
 
 Other sports
 
-The city has a history as host of major international sports events. The Ginásio do Maracanãzinho was the host arena for the official FIBA Basketball World Championship for its 1954 and 1963 editions. Later, the Jacarepaguá circuit in Rio de Janeiro was the site for the Formula One Brazilian Grand Prix from 1978 to 1989. Rio de Janeiro also hosted the MotoGP Brazilian Grand Prix from 1995 to 2004 and the Champ Car event from 1996 to 1999. WCT/WQS surfing championships were contested on the beaches from 1985 to 2001. The Rio Champions Cup Tennis tournament is held in the spring. As part of its preparations to host the 2007 Pan American Games, Rio built a new stadium, Estádio Olímpico João Havelange, to hold 45,000 people. It was named after Brazilian ex-FIFA president João Havelange. The stadium is owned by the city of Rio de Janeiro, but it was rented to Botafogo de Futebol e Regatas for 20 years.[164] Rio de Janeiro has also a multi-purpose arena, the HSBC Arena. Crianças_jogando_futebol_de_areia.jpg
+The city has a history as host of major international sports events. The Ginásio do Maracanãzinho was the host arena for the official FIBA Basketball World Championship for its 1954 and 1963 editions. Later, the Jacarepaguá circuit in Rio de Janeiro was the site for the Formula One Brazilian Grand Prix from 1978 to 1989. Rio de Janeiro also hosted the MotoGP Brazilian Grand Prix from 1995 to 2004 and the Champ Car event from 1996 to 1999. WCT/WQS surfing championships were contested on the beaches from 1985 to 2001. The Rio Champions Cup Tennis tournament is held in the spring. As part of its preparations to host the 2007 Pan American Games, Rio built a new stadium, Estádio Olímpico João Havelange, to hold 45,000 people. It was named after Brazilian ex-FIFA president João Havelange. The stadium is owned by the city of Rio de Janeiro, but it was rented to Botafogo de Futebol e Regatas for 20 years.[164] Rio de Janeiro has also a multi-purpose arena, the HSBC Arena.
 
 The Brazilian Dance/Sport/Martial art Capoeira is very popular. Other popular sports are basketball, beach football, beach volleyball, Beach American Football, footvolley, surfing, kite surfing, hang gliding, motor racing, Brazilian Jiu-Jitsu, sailing, and competitive rowing. Another sport that is highly popular in beaches of Rio is called "Frescobol" (), a type of beach tennis. Rio de Janeiro is also paradise for rock climbers, with hundreds of routes all over the city, ranging from easy boulders to highly technical big wall climbs, all inside the city. The most famous, Rio's granite mountain, the Sugar Loaf (_Pão de Açúcar_), is an example, with routes from the easy third grade (American 5.4, French 3) to the extremely difficult ninth grade (5.13/8b), up to .
 
@@ -468,7 +468,7 @@ Transportation
 
 Airports
 
-The city of Rio de Janeiro is served by the following airports for use: Airj_aeroporto_internacional_do_mundo_rio_de_janeiro_-_panoramio.jpg]] Santos_Dumont_by_Diego_Baravelli.jpg]]
+The city of Rio de Janeiro is served by the following airports for use: ]] ]]
 
 -   Galeão–Antônio Carlos Jobim International Airport: used for all international and most of the domestic flights. Since August 2004, with the transfer of many flights from Santos-Dumont Airport, Rio de Janeiro International Airport has returned to being the main doorway to the city. Besides linking Rio to the rest of Brazil with domestic flights, Galeão has connections to 19 countries. It has a capacity to handle up to 30 million users a year in two passenger terminals. It is located from downtown Rio. The airport complex also has Brazil's longest runway at , and one of South America's largest cargo logistics terminals. The airport is connected to the express bus service.[166]
 -   Santos Dumont Airport: used mainly by the services to São Paulo, some short and medium-haul domestic flights, and general aviation. Located on Guanabara Bay just a few blocks from the heart of downtown Rio, during the 1990s Santos-Dumont began to outgrow its capacity, besides diverging from its specialization on short-hop flights, offering routes to other destinations in Brazil. For this reason, in late 2004 Santos-Dumont returned to its original condition of operating only shuttle flights to and from Congonhas Airport in São Paulo, along with regional aviation. The passenger terminal has undergone extensive renovation and expansion, which increased its capacity to 9,9 million users a year. The airport is connected to the city light rail system (Rio de Janeiro Light Rail), which connects several transport systems to downtown.[167]
@@ -482,7 +482,7 @@ Military airports include:
 
 Ports
 
-Cruise_Ship_Costa_Serena_docked_in_Rio_de_Janeiro_(city)_-_Feb._2011.jpg]]
+]]
 
 The Port of Rio de Janeiro is Brazil's third busiest port in terms of cargo volume, and it is the center for cruise vessels. Located on the west coast of the Guanabara Bay, it serves the States of Rio de Janeiro, São Paulo, Minas Gerais, and Espírito Santo. The port is managed by Companhia Docas de Rio de Janeiro. The Port of Rio de Janeiro covers territory from the Mauá Pier in the east to the Wharf of the Cashew in the north. The Port of Rio de Janeiro contains almost of continuous wharf and an pier. The Companhia Docas de Rio de Janeiro administers directly the Wharf of the Gamboa general cargo terminal; the wheat terminal with two warehouses capable of moving 300 tons of grains; General Load Terminal 2 with warehouses covering over ; and the Wharves of Are Cristovao with terminals for wheat and liquid bulk.[171]
 
@@ -490,7 +490,7 @@ At the Wharf of Gamboa, leaseholders operate terminals for sugar, paper, iron an
 
 Public transportation
 
-Public_transport_map_of_Rio_de_Janeiro.png In Rio de Janeiro, buses are the main form of public transportation. There are nearly 440 municipal bus lines serving over four million passengers every day, in addition to intercity lines. Although cheap and frequent, Rio's transportation policy has been moving towards trains and subway in order to reduce surface congestion and increase carrier capacity. Rio's public transportation service has been a target of many critics and the motive of the 2013's protests and manifestations that started in São Paulo and spread through the entire country. According to the people, the raise in the bus and subway fares are invalid, seeing that the amount charged is too high for the low quality of the services.
+In Rio de Janeiro, buses are the main form of public transportation. There are nearly 440 municipal bus lines serving over four million passengers every day, in addition to intercity lines. Although cheap and frequent, Rio's transportation policy has been moving towards trains and subway in order to reduce surface congestion and increase carrier capacity. Rio's public transportation service has been a target of many critics and the motive of the 2013's protests and manifestations that started in São Paulo and spread through the entire country. According to the people, the raise in the bus and subway fares are invalid, seeing that the amount charged is too high for the low quality of the services.
 
 The average amount of time people spend commuting with public transit in Rio de Janeiro, for example to and from work, on a weekday is 95 min. 32% of public transit riders, ride for more than 2 hours every day. The average amount of time people wait at a stop or station for public transit is 19 min, while 35% of riders wait for over 20 minutes on average every day. The average distance people usually ride in a single trip with public transit is 12.3 km, while 37% travel for over 12 km in a single direction.[173]
 
@@ -504,19 +504,19 @@ SuperVia connects the city of Rio with other locations in Greater Rio de Janeiro
 
 Light rail
 
-VLT_Rio_05_2016_2109.jpg in Downtown Rio.]]In order to improve traffic in the central zone, the prefecture started the project "Porto Maravilha" (Marvelous Port), which foresees a modern tramway system. Its lines will connect the central business district to Santos Dumont Airport, the ferry station at XV Square, the Novo Rio terminal bus station at Santo Cristo, and the future high-speed rail Leopoldina station between Rio de Janeiro and São Paulo.[179]
+in Downtown Rio.]]In order to improve traffic in the central zone, the prefecture started the project "Porto Maravilha" (Marvelous Port), which foresees a modern tramway system. Its lines will connect the central business district to Santos Dumont Airport, the ferry station at XV Square, the Novo Rio terminal bus station at Santo Cristo, and the future high-speed rail Leopoldina station between Rio de Janeiro and São Paulo.[179]
 
 In 2016, for the Olympic Games, the light rail system was inaugurated, with 28 km, 42 stations, distributed in 3 lines. The trams are the first in the world to use a combination of ground-level power supply (APS) and on-board supercapacitor energy storage (SRS), in order to eliminate overhead lines along the entire route.
 
 Bus
 
-Rio_01_2013_TransOeste_5811.JPG Bus Rapid Transit (BRT)]] City buses cost about R$3.80 to ride. They come in both non-air conditioned (R$3.80)[180] and air conditioned versions (R$3–R$5.40).[181] The system may be relatively safe by day but less so at night.[182] Integration of bus lines has been recently implemented, allowing users to take two non-air conditioned bus rides in two hours paying just one ticket. It is necessary to have a registered electronic card (the "_Bilhete Único Carioca (BUC)_") in order to benefit of this system.
+Bus Rapid Transit (BRT)]] City buses cost about R$3.80 to ride. They come in both non-air conditioned (R$3.80)[180] and air conditioned versions (R$3–R$5.40).[181] The system may be relatively safe by day but less so at night.[182] Integration of bus lines has been recently implemented, allowing users to take two non-air conditioned bus rides in two hours paying just one ticket. It is necessary to have a registered electronic card (the "_Bilhete Único Carioca (BUC)_") in order to benefit of this system.
 
 Another type of local bus is called the "_Frescão_" (air-conditioned). These buses run several routes, the main being from Centro through Botafogo, Copacabana and Ipanema to Leblon (and vice versa), and from the International Airport to Barra, through the beach road. They are air conditioned – about – more upscale/comfortable and cost between R$6.00–R$12.00.[183] However, it is only available during weekdays. The buses also run more frequently during the rush hours in the morning and evening. Going in the direction of Centro (city center), the bus can be flagged down on the beach road (buses with plaques showing "Castelo").
 
 Ferry
 
-Barca_Pão_de_Açúcar_(4).jpg The most geographically close sister city to Rio that is on the other side of Guanabara Bay is Niterói. Many people who live in Niterói, as well its neighbouring municipalities São Gonçalo and Maricá, commute to Rio de Janeiro to study and work. There are several ferry services that operate between the Rio Centro (Praça XV) and Niterói (Centro and Charitas). There is a traditional boat as well as several "fast cat" hydrofoil boats. One of the city neighborhoods is Paquetá Island, which can only be accessed by ferryboats or hydrofoil boats. The ferryboat to Paquetá leaves every hour, from early in the morning until around midnight. There is also a ferry to Cocotá.
+The most geographically close sister city to Rio that is on the other side of Guanabara Bay is Niterói. Many people who live in Niterói, as well its neighbouring municipalities São Gonçalo and Maricá, commute to Rio de Janeiro to study and work. There are several ferry services that operate between the Rio Centro (Praça XV) and Niterói (Centro and Charitas). There is a traditional boat as well as several "fast cat" hydrofoil boats. One of the city neighborhoods is Paquetá Island, which can only be accessed by ferryboats or hydrofoil boats. The ferryboat to Paquetá leaves every hour, from early in the morning until around midnight. There is also a ferry to Cocotá.
 
 Tram
 
@@ -528,7 +528,7 @@ After a derail occurred on 28 August 2011,[187] which left seven dead, tram serv
 
 Road transport
 
-Rio_de_Janeiro_Ponte_Niteroi_Aerea_102_Feb_2006.jpg]]
+]]
 
 Driving in Rio de Janeiro, as in most large cities of Brazil, might not be the best choice because of the large car fleet. The city is served by a number of expressways, like Linha Vermelha, Linha Amarela, Avenida Brasil, Avenida das Américas and Avenida Infante Dom Henrique (Aterro do Flamengo); in spite of this, traffic jams are very common.[188] Because of the organization of the 2016 Olympics the city is installing four BRT systems to link Barra da Tijuca with other major neighbourhoods: TransOlimpica (between Barra and Deodoro); TransBrasil (over the Avenida Brasil expressway); TransCarioca (between Barra and the Galeão International Airport); and TransOeste (between Barra and Santa Cruz, over Avenida das Américas).
 
@@ -536,7 +536,7 @@ In Brazil, most interstate transportation is done by road. A large terminal for 
 
 Bicycles
 
-BikeRio_11_2015_Praça_Mauá_706.JPG rental station located in Mauá Square, Downtown Rio]] The city has of cycle paths that, wherever they exist, are very much preferable to riding in the city's traffic. Most paths run alongside beaches and extend intermittently from the Marina da Glória, Centro, through Flamengo, Copacabana and Ipanema, to Barra da Tijuca and Recreio dos Bandeirantes. of cycle paths traverse the Tijuca National Park.[189]
+rental station located in Mauá Square, Downtown Rio]] The city has of cycle paths that, wherever they exist, are very much preferable to riding in the city's traffic. Most paths run alongside beaches and extend intermittently from the Marina da Glória, Centro, through Flamengo, Copacabana and Ipanema, to Barra da Tijuca and Recreio dos Bandeirantes. of cycle paths traverse the Tijuca National Park.[189]
 
 The Bike Rio began operations in October 2011. This bicycle sharing system is sponsored by the municipal government of Rio de Janeiro in partnership with Banco Itaú. The bike sharing system has 600 bicycles available at 60 rental stations in 14 neighborhoods throughout the city.[190][191]
 
@@ -1058,7 +1058,7 @@ Rio_de_Janeiro_(city) Category:Former national capitals Category:Guanabara Bay C
 
 [172]
 
-[173]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[173]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [174]
 

@@ -1,4 +1,4 @@
-Light_dispersion_conceptual_waves.gif dispersing a beam of white light. The longer wavelengths (red) and the shorter wavelengths (blue) are separated. ]] LIGHT is electromagnetic radiation within a certain portion of the electromagnetic spectrum. The word usually refers to VISIBLE LIGHT, which is the visible spectrum that is visible to the human eye and is responsible for the sense of sight.[1] Visible light is usually defined as having wavelengths in the range of 400–700 nanometres (nm), or 4.00 × 10^(−7) to 7.00 × 10^(−7) m, between the infrared (with longer wavelengths) and the ultraviolet (with shorter wavelengths).[2][3] This wavelength means a frequency range of roughly 430–750 terahertz (THz). Rocca_dell'Abisso,_Fondachelli_Fantina,_Sicilia.JPG Fantina, Sicily]]
+dispersing a beam of white light. The longer wavelengths (red) and the shorter wavelengths (blue) are separated. ]] LIGHT is electromagnetic radiation within a certain portion of the electromagnetic spectrum. The word usually refers to VISIBLE LIGHT, which is the visible spectrum that is visible to the human eye and is responsible for the sense of sight.[1] Visible light is usually defined as having wavelengths in the range of 400–700 nanometres (nm), or 4.00 × 10^(−7) to 7.00 × 10^(−7) m, between the infrared (with longer wavelengths) and the ultraviolet (with shorter wavelengths).[2][3] This wavelength means a frequency range of roughly 430–750 terahertz (THz). Fantina, Sicily]]
 
 The main source of light on Earth is the Sun. Sunlight provides the energy that green plants use to create sugars mostly in the form of starches, which release energy into the living things that digest them. This process of photosynthesis provides virtually all the energy used by living things. Historically, another important source of light for humans has been fire, from ancient campfires to modern kerosene lamps. With the development of electric lights and power systems, electric lighting has effectively replaced firelight. Some species of animals generate their own light, a process called bioluminescence. For example, fireflies use light to locate mates, and vampire squids use it to hide themselves from prey.
 
@@ -9,7 +9,7 @@ In physics, the term _light_ sometimes refers to electromagnetic radiation of an
 
 Electromagnetic spectrum and visible light
 
-EM_spectrum.svg, with the visible portion highlighted]]
+, with the visible portion highlighted]]
 
 Generally, EM radiation (the designation "radiation" excludes static electric, magnetic, and near fields), or EMR, is classified by wavelength into radio waves, microwaves, infrared, the visible spectrum that we perceive as light, ultraviolet, X-rays, and gamma rays.
 
@@ -24,8 +24,6 @@ Above the range of visible light, ultraviolet light becomes invisible to humans,
 Various sources define visible light as narrowly as 420–680 nm[7][8] to as broadly as 380–800 nm.[9][10] Under ideal laboratory conditions, people can see infrared up to at least 1050 nm;[11] children and young adults may perceive ultraviolet wavelengths down to about 310–313 nm.[12][13][14]
 
 Plant growth is also affected by the color spectrum of light, a process known as photomorphogenesis.
-
-Linear_visible_spectrum.svg
 
 
 Speed of light
@@ -48,8 +46,6 @@ Optics
 The study of light and the interaction of light and matter is termed optics. The observation and study of optical phenomena such as rainbows and the aurora borealis offer many clues as to the nature of light.
 
 Refraction
-
-Refraction-with-soda-straw.jpg Cloud_in_the_sunlight.jpg
 
 Refraction is the bending of light rays when passing through a surface between one transparent material and another. It is described by Snell's Law:
 
@@ -74,7 +70,7 @@ Deceleration of a free charged particle, such as an electron, can produce visibl
 
 Certain substances produce light when they are illuminated by more energetic radiation, a process known as fluorescence. Some substances emit light slowly after excitation by more energetic radiation. This is known as phosphorescence. Phosphorescent materials can also be excited by bombarding them with subatomic particles. Cathodoluminescence is one example. This mechanism is used in cathode ray tube television sets and computer monitors.
 
-Colorful_artificial_lighting_at_night.jpg]]
+]]
 
 Certain other mechanisms can produce light:
 
@@ -129,7 +125,7 @@ Descartes is not the first to use the mechanical analogies but because he clearl
 
 Particle theory
 
-PierreGassendi.jpg.]] Pierre Gassendi (1592–1655), an atomist, proposed a particle theory of light which was published posthumously in the 1660s. Isaac Newton studied Gassendi's work at an early age, and preferred his view to Descartes' theory of the _plenum_. He stated in his _Hypothesis of Light_ of 1675 that light was composed of corpuscles (particles of matter) which were emitted in all directions from a source. One of Newton's arguments against the wave nature of light was that waves were known to bend around obstacles, while light travelled only in straight lines. He did, however, explain the phenomenon of the diffraction of light (which had been observed by Francesco Grimaldi) by allowing that a light particle could create a localised wave in the aether.
+.]] Pierre Gassendi (1592–1655), an atomist, proposed a particle theory of light which was published posthumously in the 1660s. Isaac Newton studied Gassendi's work at an early age, and preferred his view to Descartes' theory of the _plenum_. He stated in his _Hypothesis of Light_ of 1675 that light was composed of corpuscles (particles of matter) which were emitted in all directions from a source. One of Newton's arguments against the wave nature of light was that waves were known to bend around obstacles, while light travelled only in straight lines. He did, however, explain the phenomenon of the diffraction of light (which had been observed by Francesco Grimaldi) by allowing that a light particle could create a localised wave in the aether.
 
 Newton's theory could be used to predict the reflection of light, but could only explain refraction by incorrectly assuming that light accelerated upon entering a denser medium because the gravitational pull was greater. Newton published the final version of his theory in his _Opticks_ of 1704. His reputation helped the particle theory of light to hold sway during the 18th century. The particle theory of light led Laplace to argue that a body could be so massive that light could not escape from it. In other words, it would become what is now called a black hole. Laplace withdrew his suggestion later, after a wave theory of light became firmly established as the model for light (as has been explained, neither a particle or wave theory is fully correct). A translation of Newton's essay on light appears in _The large scale structure of space-time_, by Stephen Hawking and George F. R. Ellis.
 
@@ -139,9 +135,9 @@ Wave theory
 
 To explain the origin of colors, Robert Hooke (1635–1703) developed a "pulse theory" and compared the spreading of light to that of waves in water in his 1665 work _Micrographia_ ("Observation IX"). In 1672 Hooke suggested that light's vibrations could be perpendicular to the direction of propagation. Christiaan Huygens (1629–1695) worked out a mathematical wave theory of light in 1678, and published it in his _Treatise on light_ in 1690. He proposed that light was emitted in all directions as a series of waves in a medium called the _Luminiferous ether_. As waves are not affected by gravity, it was assumed that they slowed down upon entering a denser medium.[36]
 
-Christiaan_Huygens-painting.jpeg.]]
+.]]
 
-Young_Diffraction.png's sketch of a double-slit experiment showing diffraction. Young's experiments supported the theory that light consists of waves.]]
+'s sketch of a double-slit experiment showing diffraction. Young's experiments supported the theory that light consists of waves.]]
 
 The wave theory predicted that light waves could interfere with each other like sound waves (as noted around 1800 by Thomas Young). Young showed by means of a diffraction experiment that light behaved as waves. He also proposed that different colours were caused by different wavelengths of light, and explained colour vision in terms of three-coloured receptors in the eye. Another supporter of the wave theory was Leonhard Euler. He argued in _Nova theoria lucis et colorum_ (1746) that diffraction could more easily be explained by a wave theory. In 1816 André-Marie Ampère gave Augustin-Jean Fresnel an idea that the polarization of light can be explained by the wave theory if light were a transverse wave.[37]
 
@@ -153,7 +149,7 @@ Newton's corpuscular theory implied that light would travel faster in a denser m
 
 Electromagnetic theory
 
-light-wave.svg light wave frozen in time and showing the two oscillating components of light; an electric field and a magnetic field perpendicular to each other and to the direction of motion (a transverse wave).]]
+light wave frozen in time and showing the two oscillating components of light; an electric field and a magnetic field perpendicular to each other and to the direction of motion (a transverse wave).]]
 
 In 1845, Michael Faraday discovered that the plane of polarisation of linearly polarised light is rotated when the light rays travel along the magnetic field direction in the presence of a transparent dielectric, an effect now known as Faraday rotation.[39] This was the first evidence that light was related to electromagnetism. In 1846 he speculated that light might be some form of disturbance propagating along magnetic field lines.[40] Faraday proposed in 1847 that light was a high-frequency electromagnetic vibration, which could propagate even in the absence of a medium such as the ether.
 

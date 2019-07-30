@@ -20,7 +20,7 @@ Acting career
 
 Chinese films
 
-JetLiHK.jpg in Hong Kong.]]
+in Hong Kong.]]
 
 The fame gained by his sports winnings led to a career as a martial arts film star, beginning in mainland China and then continuing into Hong Kong. Li acquired his screen name in 1982 in the Philippines when a publicity company thought his real name was too hard to pronounce. They likened his career to an aircraft, which likewise "takes-off" as quickly, so they placed the name Jet Li on the movie posters. Soon everybody was calling him by this new name, which was also based on the nickname, "Jet," given to him as a young student, due to his speed and grace when training with the Beijing Wushu team. He made his debut with the 1982 film _Shaolin Temple_. Some of his more famous Chinese films include:
 
@@ -62,7 +62,7 @@ Li was cast as the Emperor of China for the 2020 live action movie, _Mulan_.[25]
 
 Personal life
 
-Mark_Zuckerberg,_founder_Facebook,_and_Jet_Li,_famous_martial_arts_star.jpg of Facebook _(left)_ with Li]]
+of Facebook _(left)_ with Li]]
 
 Li is a practitioner of Tibetan Buddhism.[26] His master is Lho Kunsang.[27]
 

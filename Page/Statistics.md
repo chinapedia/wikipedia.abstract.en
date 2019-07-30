@@ -1,4 +1,4 @@
-Standard_Normal_Distribution.png, a very common probability density, useful because of the central limit theorem.]] Scatterplot.jpgs are used in descriptive statistics to show the observed relationships between different variables.]]
+, a very common probability density, useful because of the central limit theorem.]] s are used in descriptive statistics to show the observed relationships between different variables.]]
 
 STATISTICS is a branch of mathematics working with data collection, organization, analysis, interpretation and presentation.[1][2] In applying statistics to a scientific, industrial, or social problem, it is conventional to begin with a statistical population or a statistical model to be studied. Populations can be diverse groups of people or objects such as "all people living in a country" or "every atom composing a crystal". Statistics deals with every aspect of data, including the planning of data collection in terms of the design of surveys and experiments.[3] See glossary of probability and statistics.
 
@@ -35,7 +35,7 @@ Mathematical statistics is the application of mathematics to statistics. Mathema
 
 History
 
-Jerôme_Cardan.jpg, a pioneer on the mathematics of probability.]]
+, a pioneer on the mathematics of probability.]]
 
 The earliest writing on statistics was found in a 9th-century book entitled _Manuscript on Deciphering Cryptographic Messages_, written by Arab scholar Al-Kindi (801–873). In his book, Al-Kindi gave a detailed description of how to use statistics and frequency analysis to decipher encrypted messages. This text laid the foundations for statistics and cryptanalysis.[15][16] Al-Kindi also made the earliest known use of statistical inference, while he and other Arab cryptologists developed the early statistical methods for decoding encrypted messages. Arab mathematicians including Al-Kindi, Al-Khalil (717–786) and Ibn Adlan (1187–1268) used forms of probability and statistics, with one of Ibn Adlan's most important contributions being on sample size for use of frequency analysis.[17]
 
@@ -43,7 +43,7 @@ The earliest European writing on statistics dates back to 1663, with the publica
 
 The mathematical foundations of modern statistics were laid in the 17th century with the development of the probability theory by Gerolamo Cardano, Blaise Pascal and Pierre de Fermat. Mathematical probability theory arose from the study of games of chance, although the concept of probability was already examined in medieval law and by philosophers such as Juan Caramuel.[19] The method of least squares was first described by Adrien-Marie Legendre in 1805.
 
-Karl_Pearson,_1910.jpg, a founder of mathematical statistics.]]
+, a founder of mathematical statistics.]]
 
 The modern field of statistics emerged in the late 19th and early 20th century in three stages.[20] The first wave, at the turn of the century, was led by the work of Francis Galton and Karl Pearson, who transformed statistics into a rigorous mathematical discipline used for analysis, not just in science, but in industry and politics as well. Galton's contributions included introducing the concepts of standard deviation, correlation, regression analysis and the application of these methods to the study of the variety of human characteristics—height, weight, eyelash length among others.[21] Pearson developed the Pearson product-moment correlation coefficient, defined as a product-moment,[22] the method of moments for the fitting of distributions to samples and the Pearson distribution, among many other things.[23] Galton and Pearson founded _Biometrika_ as the first journal of mathematical statistics and biostatistics (then called biometry), and the latter founded the world's first university statistics department at University College London.[24]
 
@@ -148,15 +148,13 @@ A statistical error is the amount by which an observation differs from its expec
 
 Mean squared error is used for obtaining efficient estimators, a widely used class of estimators. Root mean square error is simply the square root of mean squared error.
 
-Linear_least_squares(2).svg
-
 Many statistical methods seek to minimize the residual sum of squares, and these are called "methods of least squares" in contrast to Least absolute deviations. The latter gives equal weight to small and big errors, while the former gives more weight to large errors. Residual sum of squares is also differentiable, which provides a handy property for doing regression. Least squares applied to linear regression is called ordinary least squares method and least squares applied to nonlinear regression is called non-linear least squares. Also in a linear regression model the non deterministic part of the model is called error term, disturbance or more simply noise. Both linear regression and non-linear regression are addressed in polynomial least squares, which also describes the variance in a prediction of the dependent variable (y axis) as a function of the independent variable (x axis) and the deviations (errors, noise, disturbances) from the estimated (fitted) curve.
 
 Measurement processes that generate statistical data are also subject to error. Many of these errors are classified as random (noise) or systematic (bias), but other types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important. The presence of missing data or censoring may result in biased estimates and specific techniques have been developed to address these problems.[56]
 
 Interval estimation
 
-NYW-confidence-interval.svg: the red line is true value for the mean in this example, the blue lines are random confidence intervals for 100 realizations.]]
+: the red line is true value for the mean in this example, the blue lines are random confidence intervals for 100 realizations.]]
 
 Most studies only sample part of a population, so results don't fully represent the whole population. Any estimates obtained from the sample only approximate the population value. Confidence intervals allow statisticians to express how closely the sample estimate matches the true value in the whole population. Often they are expressed as 95% confidence intervals. Formally, a 95% confidence interval for a value is a range where, if the sampling and analysis were repeated under the same conditions (yielding a different dataset), the interval would include the true (population) value in 95% of all possible cases. This does _not_ imply that the probability that the true value is in the confidence interval is 95%. From the frequentist perspective, such a claim does not even make sense, as the true value is not a random variable. Either the true value is or is not within the given interval. However, it is true that, before any data are sampled and given a plan for how to construct the confidence interval, the probability is 95% that the yet-to-be-calculated interval will cover the true value: at this point, the limits of the interval are yet-to-be-observed random variables. One approach that does yield an interval that can be interpreted as having a given probability of containing the true value is to use a credible interval from Bayesian statistics: this approach depends on a different way of interpreting what is meant by "probability", that is as a Bayesian probability.
 
@@ -231,7 +229,7 @@ Statistics is applicable to a wide variety of academic disciplines, including na
 
 Statistical computing
 
-Gretl_screenshot.png, an example of an open source statistical package]]
+, an example of an open source statistical package]]
 
 The rapid and sustained increases in computing power starting from the second half of the 20th century have had a substantial impact on the practice of statistical science. Early statistical models were almost always from the class of linear models, but powerful computers, coupled with suitable numerical algorithms, caused an increased interest in nonlinear models (such as neural networks) as well as the creation of new types, such as generalized linear models and multilevel models.
 

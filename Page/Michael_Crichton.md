@@ -78,7 +78,7 @@ Around this time Crichton also wrote and sold an original film script, _Morton's
 
 _Five Patients_
 
-MassGeneralHospital.jpg'', recounts his experiences of practices in the late 1960s at Massachusetts General Hospital and the issues of costs and politics within American health care.]] Aside from fiction, Crichton wrote several other books based on medical or scientific themes, often based upon his own observations in his field of expertise. In 1970, he published _Five Patients_, a book which recounts his experiences of hospital practices in the late 1960s at Massachusetts General Hospital in Boston, Massachusetts. [50][51]
+'', recounts his experiences of practices in the late 1960s at Massachusetts General Hospital and the issues of costs and politics within American health care.]] Aside from fiction, Crichton wrote several other books based on medical or scientific themes, often based upon his own observations in his field of expertise. In 1970, he published _Five Patients_, a book which recounts his experiences of hospital practices in the late 1960s at Massachusetts General Hospital in Boston, Massachusetts. [50][51]
 
 The book follows each of five patients through their hospital experience and the context of their treatment, revealing inadequacies in the hospital institution at the time. The book relates the experiences of Ralph Orlando, a construction worker seriously injured in a scaffold collapse; John O'Connor, a middle-aged dispatcher suffering from fever that has reduced him to a delirious wreck; Peter Luchesi, a young man who severs his hand in an accident; Sylvia Thompson, an airline passenger who suffers chest pains; and Edith Murphy, a mother of three who is diagnosed with a life-threatening disease.
 
@@ -182,15 +182,13 @@ Later Novels
 
 _Jurassic Park_
 
-Jurassic_Park_for_kids_in_Kletno_PL.jpg, Poland.]]
+, Poland.]]
 
 In 1990, Crichton published the novel _Jurassic Park_. Crichton utilized the presentation of "fiction as fact", used in his previous novels, _Eaters of the Dead_ and _The Andromeda Strain_. In addition, chaos theory and its philosophical implications are used to explain the collapse of an amusement park in a "biological preserve" on Isla Nublar, a fictional island to the west of Costa Rica. Paleontologist Alan Grant and his paleobotanist graduate student, Ellie Sattler, are brought by billionaire John Hammond to investigate. The park is revealed to contain genetically recreated dinosaur species, including _Dilophosaurus_, _Velociraptor_, _Triceratops_, _Stegosaurus_, and _Tyrannosaurus rex_. They have been recreated using damaged dinosaur DNA, found in mosquitoes that had sucked their blood and then became trapped and preserved in amber.
 
 Crichton originally had conceived a screenplay about a graduate student who recreates a dinosaur, but decided to explore his fascination with dinosaurs and cloning until he began writing the novel.[68]
 
 Steven Spielberg learned of the novel in October 1989 while he and Crichton were discussing a screenplay that would become the television series _ER_. Before the book was published, Crichton demanded a non-negotiable fee of $1.5 million as well as a substantial percentage of the gross. Warner Bros. and Tim Burton, Sony Pictures Entertainment and Richard Donner, and 20th Century Fox and Joe Dante bid for the rights,[69] but Universal eventually acquired the rights in May 1990 for Spielberg.[70] Universal paid Crichton a further $500,000 to adapt his own novel,[71] which he had completed by the time Spielberg was filming _Hook_. Crichton noted that, because the book was "fairly long", his script only had about 10% to 20% of the novel's content.[72] The film, directed by Spielberg, was released in 1993. The film became extremely successful.
-
-Mosquito_in_amber.jpg
 
 _Rising Sun_
 

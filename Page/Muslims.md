@@ -36,7 +36,7 @@ The Qur'an describes many prophets and messengers within Judaism and Christianit
 
 Demographics
 
-Islam_percent_population_in_each_nation_World_Map_Muslim_data_by_Pew_Research.svg)]] Muslim_population_map_2009.png, 2009)]]
+)]] , 2009)]]
 
 The most populous Muslim-majority country is Indonesia, home to 12.7% of the world's Muslims,[25] followed by Pakistan (11.0%), Bangladesh (9.2%), and Egypt (4.9%).[26] About 20% of the world's Muslims lives in the Middle East and North Africa.[27][28]
 

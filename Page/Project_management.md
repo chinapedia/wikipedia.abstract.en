@@ -7,13 +7,13 @@ A project is a temporary endeavor designed to produce a unique product, service 
 
 History
 
-Until 1900, civil engineering projects were generally managed by creative architects, engineers, and master builders themselves, for example, Vitruvius (first century BC), Christopher Wren (1632–1723), Thomas Telford (1757–1834) and Isambard Kingdom Brunel (1806–1859).[7] In the 1950s organizations started to systematically apply project-management tools and techniques to complex engineering projects.[8] Henry_Gantt.jpg (1861–1919), the father of planning and control techniques]]
+Until 1900, civil engineering projects were generally managed by creative architects, engineers, and master builders themselves, for example, Vitruvius (first century BC), Christopher Wren (1632–1723), Thomas Telford (1757–1834) and Isambard Kingdom Brunel (1806–1859).[7] In the 1950s organizations started to systematically apply project-management tools and techniques to complex engineering projects.[8] (1861–1919), the father of planning and control techniques]]
 
 As a discipline, project management developed from several fields of application including civil construction, engineering, and heavy defense activity.[9] Two forefathers of project management are Henry Gantt, called the father of planning and control techniques,[10] who is famous for his use of the Gantt chart as a project management tool (alternatively _Harmonogram_ first proposed by Karol Adamiecki[11]); and Henri Fayol for his creation of the five management functions that form the foundation of the body of knowledge associated with project and program management.[12] Both Gantt and Fayol were students of Frederick Winslow Taylor's theories of scientific management. His work is the forerunner to modern project management tools including work breakdown structure (WBS) and resource allocation.
 
 The 1950s marked the beginning of the modern project management era where core engineering fields come together to work as one. Project management became recognized as a distinct discipline arising from the management discipline with engineering model.[13] In the United States, prior to the 1950s, projects were managed on an ad-hoc basis, using mostly Gantt charts and informal techniques and tools. At that time, two mathematical project-scheduling models were developed. The "critical path method" (CPM) was developed as a joint venture between DuPont Corporation and Remington Rand Corporation for managing plant maintenance projects. The "program evaluation and review technique" (PERT), was developed by the U.S. Navy Special Projects Office in conjunction with the Lockheed Corporation and Booz Allen Hamilton as part of the Polaris missile submarine program.[14]
 
-PERT and CPM are very similar in their approach but still present some differences. CPM is used for projects that assume deterministic activity times; the times at which each activity will be carried out are known. PERT, on the other hand, allows for stochastic activity times; the times at which each activity will be carried out are uncertain or varied. Because of this core difference, CPM and PERT are used in different contexts. These mathematical techniques quickly spread into many private enterprises. Pert_chart_colored.svg for a seven-month project with five milestones]]
+PERT and CPM are very similar in their approach but still present some differences. CPM is used for projects that assume deterministic activity times; the times at which each activity will be carried out are known. PERT, on the other hand, allows for stochastic activity times; the times at which each activity will be carried out are uncertain or varied. Because of this core difference, CPM and PERT are used in different contexts. These mathematical techniques quickly spread into many private enterprises. for a seven-month project with five milestones]]
 
 At the same time, as project-scheduling models were being developed, technology for project cost estimating, cost management and engineering economics was evolving, with pioneering work by Hans Lang and others. In 1956, the American Association of Cost Engineers (now AACE International; the Association for the Advancement of Cost Engineering) was formed by early practitioners of project management and the associated specialties of planning and scheduling, cost estimating, and cost/schedule control (project control). AACE continued its pioneering work and in 2006 released the first integrated process for portfolio, program and project management (total cost management framework).
 
@@ -56,7 +56,7 @@ The goal is to increase the flow of projects in an organization (throughput). Ap
 
 Earned value management
 
-EarnedValueChartNormalized.jpg.]]
+.]]
 
 Earned value management (EVM) extends project management with techniques to improve project monitoring. It illustrates project progress towards completion in terms of work and value (cost). Earned Schedule is an extension to the theory and practice of EVM. This theory was introduced in 2019. [22]
 
@@ -72,7 +72,7 @@ Lean project management uses the principles from lean manufacturing to focus on 
 
 Phased approach
 
-The phased (or staged) approach breaks down and manages the work through a series of distinct steps to be completed, and is often referred to as "traditional"[28] or "waterfall".[29] Although it can vary, it typically consists of five process areas, four phases plus control:Project_Management_(phases).png
+The phased (or staged) approach breaks down and manages the work through a series of distinct steps to be completed, and is often referred to as "traditional"[28] or "waterfall".[29] Although it can vary, it typically consists of five process areas, four phases plus control:
 
 1.  initiation
 2.  planning and design
@@ -99,7 +99,7 @@ Product-based planning is a structured approach to project management, based on 
 
  Process groups
 
-Project_development_stages.jpg Traditionally (depending on what project management methodology is being used), project management includes a number of elements: four to five project management process groups, and a control system. Regardless of the methodology or terminology used, the same basic project management processes or stages of development will be used. Major process groups generally include:[34]
+Traditionally (depending on what project management methodology is being used), project management includes a number of elements: four to five project management process groups, and a control system. Regardless of the methodology or terminology used, the same basic project management processes or stages of development will be used. Major process groups generally include:[34]
 
 -   Initiation
 -   Planning
@@ -111,11 +111,9 @@ In project environments with a significant exploratory element (e.g., research a
 
 Initiating
 
-Initiating_Process_Group_Processes.jpg The initiating processes determine the nature and scope of the project.[35] If this stage is not performed well, it is unlikely that the project will be successful in meeting the business’ needs. The key project controls needed here are an understanding of the business environment and making sure that all necessary controls are incorporated into the project. Any deficiencies should be reported and a recommendation should be made to fix them.
+The initiating processes determine the nature and scope of the project.[35] If this stage is not performed well, it is unlikely that the project will be successful in meeting the business’ needs. The key project controls needed here are an understanding of the business environment and making sure that all necessary controls are incorporated into the project. Any deficiencies should be reported and a recommendation should be made to fix them.
 
 The initiating stage should include a plan that encompasses the following areas. These areas can be recorded in a series of documents called Project Initiation documents. Project Initiation documents are a series of planned documents used to create order for the duration of the project. These tend to include:
-
-_RACIQ_Chart_-_Responsibility_Assignment_Matrix.jpg
 
 -   project proposal (idea behind project, overall goal, duration)
 -   project scope (project direction and track)
@@ -155,7 +153,7 @@ For new product development projects, conceptual design of the operation of the 
 
 Executing
 
-Executing_Process_Group_Processes.jpg WHILE EXECUTING WE MUST KNOW WHAT ARE THE PLANNED TERMS THAT NEED TO BE EXECUTED. The execution/implementation phase ensures that the project management plan's deliverables are executed accordingly. This phase involves proper allocation, co-ordination and management of human resources and any other resources such as material and budgets. The output of this phase is the project deliverables.
+WHILE EXECUTING WE MUST KNOW WHAT ARE THE PLANNED TERMS THAT NEED TO BE EXECUTED. The execution/implementation phase ensures that the project management plan's deliverables are executed accordingly. This phase involves proper allocation, co-ordination and management of human resources and any other resources such as material and budgets. The output of this phase is the project deliverables.
 
 Project Documentation
 
@@ -163,7 +161,7 @@ Documenting everything within a project is key to being successful. In order to 
 
 Monitoring and controlling
 
-Monitoring_and_Controlling_Process_Group_Processes.jpgMonitoring and controlling consists of those processes performed to observe project execution so that potential problems can be identified in a timely manner and corrective action can be taken, when necessary, to control the execution of the project. The key benefit is that project performance is observed and measured regularly to identify variances from the project management plan.
+Monitoring and controlling consists of those processes performed to observe project execution so that potential problems can be identified in a timely manner and corrective action can be taken, when necessary, to control the execution of the project. The key benefit is that project performance is observed and measured regularly to identify variances from the project management plan.
 
 Monitoring and controlling includes:[38]
 
@@ -180,7 +178,7 @@ Project maintenance is an ongoing process, and it includes:[39]
 -   Correction of errors
 -   Updates to the product over time
 
-Project_Management_(project_control).png In this stage, auditors should pay attention to how effectively and quickly user problems are resolved.
+In this stage, auditors should pay attention to how effectively and quickly user problems are resolved.
 
 Over the course of any construction project, the work scope may change. Change is a normal and expected part of the construction process. Changes can be the result of necessary design modifications, differing site conditions, material availability, contractor-requested changes, value engineering and impacts from third parties, to name a few. Beyond executing the change in the field, the change normally needs to be documented to show what was actually constructed. This is referred to as change management. Hence, the owner usually requires a final record to show all changes or, more specifically, any change that modifies the tangible portions of the finished work. The record is made on the contract documents – usually, but not necessarily limited to, the design drawings. The end product of this effort is what the industry terms as-built drawings, or more simply, "as built." The requirement for providing them is a norm in construction contracts. Construction document management is a highly important task undertaken with the aid an online or desktop software system, or maintained through physical documentation. The increasing legality pertaining to the construction industry's maintenance of correct documentation has caused the increase in the need for document management systems.
 
@@ -188,7 +186,7 @@ When changes are introduced to the project, the viability of the project has to 
 
 Closing
 
-Closing_Process_Group_Processes.jpg Closing includes the formal acceptance of the project and the ending thereof. Administrative activities include the archiving of the files and documenting lessons learned.
+Closing includes the formal acceptance of the project and the ending thereof. Administrative activities include the archiving of the files and documenting lessons learned.
 
 This phase consists of:[40]
 
@@ -274,8 +272,6 @@ There is a tendency to confuse the project success with project management succe
 
 
 Risk management
-
-_SimulTrain12RiskRegister.JPG
 
 The United States Department of Defense states; "Cost, Schedule, Performance, and Risk" are the four elements through which Department of Defense acquisition professionals make trade-offs and track program status.[54] There are also international standards. Risk management applies proactive identification (see tools) of future problems and understanding of their consequences allowing predictive decisions about projects.
 

@@ -1,6 +1,6 @@
 Mac}}
 
-UMTS_Router_Surf@home_II,_o2-0017.jpg router with MAC addresses for LAN and WLAN modules]]
+router with MAC addresses for LAN and WLAN modules]]
 
 A MEDIA ACCESS CONTROL ADDRESS (MAC ADDRESS) of a device is a unique identifier assigned to a network interface controller (NIC). For communications within a network segment, it is used as a network address for most IEEE 802 network technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or no separator (see Notational conventions below).
 
@@ -13,7 +13,7 @@ MAC addresses are most often assigned by the manufacturer of network interface c
 
 Address details
 
-MAC-48_Address.svg and unicast addressing and the _local_ or _U/L_ bit (b1) distinguishes universal and locally administered addressing.]]
+and unicast addressing and the _local_ or _U/L_ bit (b1) distinguishes universal and locally administered addressing.]]
 
 The original IEEE 802 MAC address comes from the original Xerox Network Systems Ethernet addressing scheme.[3] This 48-bit address space contains potentially 2⁴⁸ or 281,474,976,710,656 possible MAC addresses. The IEEE manages allocation of MAC addresses, originally known as MAC-48 and which it now refers to as EUI-48 identifiers. The IEEE has a target lifetime of 100 years (until 2080) for applications using EUI-48 space and restricts applications accordingly. The IEEE encourages adoption of the more plentiful EUI-64 for non-Ethernet applications.
 

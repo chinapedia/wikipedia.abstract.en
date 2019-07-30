@@ -7,7 +7,7 @@ The sport is governed by the World Lacrosse.
 
 History
 
-George_Catlin_-_Ball-play_of_the_Choctaw--Ball_Up_-_Google_Art_Project.jpg, circa 1846–1850]]
+, circa 1846–1850]]
 
 Lacrosse is based on games played by various Native American communities as early as 1100 AD.[1] By the seventeenth century, a version of lacrosse was well-established and was documented by Jesuit missionary priests in the territory of present-day Canada.[2]
 
@@ -15,7 +15,7 @@ In the traditional aboriginal Canadian version, each team consisted of about 100
 
 Lacrosse played a significant role in the community and religious life of tribes across the continent for many years. Early lacrosse was characterized by deep spiritual involvement, befitting the spirit of combat in which it was undertaken. Those who took part did so in the role of warriors, with the goal of bringing glory and honor to themselves and their tribes.[4] The game was said to be played "for the Creator" or was referred to as "The Creator's Game."[5]
 
-Ball_players.jpg The French Jesuit missionary Jean de Brébeuf saw Huron tribesmen play the game during 1637 in present-day Ontario. He called it _la crosse_, "the stick" in French.[6] The name seems to be originated from the French term for field hockey, _le jeu de la crosse_.[7]
+The French Jesuit missionary Jean de Brébeuf saw Huron tribesmen play the game during 1637 in present-day Ontario. He called it _la crosse_, "the stick" in French.[6] The name seems to be originated from the French term for field hockey, _le jeu de la crosse_.[7]
 
 James Smith described in some detail a game being played in 1757 by Mohawk people "wherein now they used a wooden ball, about in diameter, and the instrument they moved it with was a strong staff about long, with a hoop net on the end of it, large enough to contain the ball."[8]
 
@@ -23,7 +23,7 @@ Anglophones from Montreal noticed the game being played by Mohawk people and sta
 
 The new sport proved to be very popular and spread across the English-speaking world; by 1900 there were dozens of men's clubs in Canada, the United States, England, Australia, and New Zealand. The women's game was introduced by Louisa Lumsden in Scotland in 1890. The first women's club in the United States was started by Rosabelle Sinclair at Bryn Mawr School in 1926.[12]
 
-From_rattlesnake_hunt_to_hockey_page_121_cropped.jpg "Young Canadians" lacrosse team, 1885.]]
+"Young Canadians" lacrosse team, 1885.]]
 
 In the United States, lacrosse during the late 1800s and first half of the 1900s was primarily a regional sport centered around the Mid-Atlantic states, especially New York and Maryland. However, in the last half of the 20th century, the sport spread outside this region, and can be currently found in most of the United States. According to a survey conducted by US Lacrosse in 2016, there are over 825,000 lacrosse participants nationwide and lacrosse is the fastest-growing team sport among NFHS member schools.[13]
 
@@ -32,11 +32,11 @@ Versions of lacrosse
 
 Field lacrosse
 
-Mens_lacrosse_diagram.svg Field lacrosse is the men's outdoor version of the sport. There are ten players on each team: three attackmen, three midfielders, three defensemen, and one goalie. Each player carries a lacrosse stick. A short stick measures between long and is used by attackmen and midfielders. A maximum of four players on the field per team may carry a long stick which is between long and is used by the three defensemen and sometimes one defensive midfielder. The goalie uses a stick with a head as wide as that can be between long.[14]
+Field lacrosse is the men's outdoor version of the sport. There are ten players on each team: three attackmen, three midfielders, three defensemen, and one goalie. Each player carries a lacrosse stick. A short stick measures between long and is used by attackmen and midfielders. A maximum of four players on the field per team may carry a long stick which is between long and is used by the three defensemen and sometimes one defensive midfielder. The goalie uses a stick with a head as wide as that can be between long.[14]
 
 The field of play is . The goals are and are apart. Each goal sits inside a circular "crease", measuring in diameter.[15] The goalie has special privileges within the crease to avoid opponents' stick checks. Offensive players or their sticks may not enter into the crease at any time. The mid-field line separates the field into an offensive and defensive zone for each team. Each team must keep four players in its defensive zone and three players in its offensive zone at all times. It does not matter which positional players satisfy the requirement, although usually the three attackmen stay in the offensive zone, the three defensemen and the goalie stay in the defensive zone, and the three middies play in both zones. A team that violates this rule is offsides and either loses possession of the ball if they have it or incurs a technical foul if they do not.[16]
 
-Face-off.jpg The regulation playing time of a game is 60 minutes, divided into four periods of 15 minutes each.[17] Play is started at the beginning of each quarter and after each goal with a face-off. During a face-off, two players lay their sticks on the ground parallel to the mid-line, the two heads of their sticks on opposite sides of the ball. At the whistle, the face-off-men scrap for the ball, often by "clamping" it under their stick and flicking it out to their teammates. When one of the teams has possession of the ball, they bring it into their offensive zone and try to score a goal. Due to the offsides rule, settled play involves six offensive players versus six defensive players and a goalie.[18]
+The regulation playing time of a game is 60 minutes, divided into four periods of 15 minutes each.[17] Play is started at the beginning of each quarter and after each goal with a face-off. During a face-off, two players lay their sticks on the ground parallel to the mid-line, the two heads of their sticks on opposite sides of the ball. At the whistle, the face-off-men scrap for the ball, often by "clamping" it under their stick and flicking it out to their teammates. When one of the teams has possession of the ball, they bring it into their offensive zone and try to score a goal. Due to the offsides rule, settled play involves six offensive players versus six defensive players and a goalie.[18]
 
 If the ball goes out of bounds, possession is awarded against the team that touched it last. The exception is when the ball is shot towards the goal. Missed shots that go out of bounds are awarded to the team that has the player who is the closest to the ball when and where the ball goes out. During play, teams may substitute players in and out if they leave and enter the field through the substitution area, sometimes referred to as "on the fly". After penalties and goals, players may freely substitute and do not have to go through the substitution area.[19]
 
@@ -46,7 +46,7 @@ The team that has taken the penalty is said to be playing man down, while the ot
 
 Box lacrosse
 
-Box_Lacrosse.jpg Box lacrosse is played by teams of five runners plus a goalie on a hockey rink where the ice has been removed or covered by artificial turf, or in an indoor soccer field. The enclosed playing area is called a box, in contrast to the open playing field of the traditional game.[22] This version of the game was introduced in Canada in the 1930s to promote business for hockey arenas outside of the ice hockey season.[23] Within several years it had nearly supplanted field lacrosse in Canada.[24]
+Box lacrosse is played by teams of five runners plus a goalie on a hockey rink where the ice has been removed or covered by artificial turf, or in an indoor soccer field. The enclosed playing area is called a box, in contrast to the open playing field of the traditional game.[22] This version of the game was introduced in Canada in the 1930s to promote business for hockey arenas outside of the ice hockey season.[23] Within several years it had nearly supplanted field lacrosse in Canada.[24]
 
 The goals in box lacrosse are smaller than field lacrosse, traditionally wide and tall. Also, the goaltender wears much more protective padding, including a massive chest protector and armguard combination known as "uppers", large shin guards known as leg pads (both of which must follow strict measurement guidelines), and ice hockey-style goalie masks.[25][26]
 
@@ -58,11 +58,11 @@ Box lacrosse is played at the highest level in the National Lacrosse League and 
 
 Women's lacrosse
 
-2005_NCAA_Women's_Lacrosse_Championship_-_Virginia_Cavaliers_vs_Northwestern_Wildcats.jpg]] The rules of women's lacrosse differ significantly from men's lacrosse, most notably by equipment and the degree of allowable physical contact.[33] Women's lacrosse rules also differ significantly between the US and all other countries, who play by the Federation of International Lacrosse (FIL) rules. Women's lacrosse does not allow physical contact, the only protective equipment worn is a mouth guard and eye-guard. Recently, there has been discussion of requiring headgear to prevent concussions. Florida was the first state to mandate headgear in women's lacrosse in 2008.[34] Stick checking is permitted in the women's game, but only in certain levels of play and within strict rules. Women's lacrosse also does not allow players to have a pocket, or loose net, on the lacrosse stick. Women start the game with a "draw" instead of a face-off. The two players stand up and the ball is placed between their stick heads while their sticks are horizontal at waist-height. At the whistle, the players lift their sticks into the air, trying to control where the ball goes.
+]] The rules of women's lacrosse differ significantly from men's lacrosse, most notably by equipment and the degree of allowable physical contact.[33] Women's lacrosse rules also differ significantly between the US and all other countries, who play by the Federation of International Lacrosse (FIL) rules. Women's lacrosse does not allow physical contact, the only protective equipment worn is a mouth guard and eye-guard. Recently, there has been discussion of requiring headgear to prevent concussions. Florida was the first state to mandate headgear in women's lacrosse in 2008.[34] Stick checking is permitted in the women's game, but only in certain levels of play and within strict rules. Women's lacrosse also does not allow players to have a pocket, or loose net, on the lacrosse stick. Women start the game with a "draw" instead of a face-off. The two players stand up and the ball is placed between their stick heads while their sticks are horizontal at waist-height. At the whistle, the players lift their sticks into the air, trying to control where the ball goes.
 
 The first modern women's lacrosse game was held at St Leonards School in Scotland in 1890. It was introduced by the school's headmistress Louisa Lumsden after a visit to Quebec, where she saw it played.[35] The first women's lacrosse team in the United States was established at Bryn Mawr School in Baltimore, Maryland in 1926. Men's and women's lacrosse were played under virtually the same rules, with no protective equipment, until the mid-1930s.
 
-Women's_lacrosse.GIF Both the number of players and the lines on the field differ from men's lacrosse. There are 12 players in women's lacrosse and players must abide by certain boundaries that do not exist in men's play. The three specific boundaries are the "fan" in front of the goal ( internationally), the ( internationally) half circle that surrounds the 8-meter fan, and the draw circle in the center of the field, which is used for draws to start quarters and after goals. The goal circle is also positioned slightly closer to the end line in women's lacrosse compared to men's. In women's lacrosse on either the offensive or defensive end, the players besides the goaltender are not able to step inside the goal circle; this becomes a "goal-circle violation". However, at the women's collegiate level, a new rule has been established that allows defenders to pass through the goal circle.
+Both the number of players and the lines on the field differ from men's lacrosse. There are 12 players in women's lacrosse and players must abide by certain boundaries that do not exist in men's play. The three specific boundaries are the "fan" in front of the goal ( internationally), the ( internationally) half circle that surrounds the 8-meter fan, and the draw circle in the center of the field, which is used for draws to start quarters and after goals. The goal circle is also positioned slightly closer to the end line in women's lacrosse compared to men's. In women's lacrosse on either the offensive or defensive end, the players besides the goaltender are not able to step inside the goal circle; this becomes a "goal-circle violation". However, at the women's collegiate level, a new rule has been established that allows defenders to pass through the goal circle.
 
 The 8-meter fan that is in front of the goal circle has a few restrictions in it. Defenders cannot stand inside the 8-meter fan longer than 3 seconds without being a stick-length away from the offensive player they are guarding. This is very similar to the three-second rule in basketball. A three seconds violation results in a player from the other team taking a free shot against the goalie. If you are an attacker trying to shoot the ball into the goal, you are not supposed to take a shot while a defender is in "shooting space." To make sure that you, the defender, are being safe, you want to lead with your lacrosse stick and once you are a sticks-length away, you can be in front of her.[36]
 
@@ -114,7 +114,7 @@ The Iroquois Nationals are the men's national team representing the Six Nations 
 
 Olympic Games
 
-1904_Winnipeg_Shamrocks_Lacrosse.jpg Gold Medal winning _Winnipeg Shamrocks_ lacrosse team]]
+Gold Medal winning _Winnipeg Shamrocks_ lacrosse team]]
 
 Field lacrosse was a medal sport in the 1904 and the 1908 Summer Olympics. In 1904, three teams competed in the games held in St. Louis. Two Canadian teams, the Winnipeg Shamrocks and a team of Mohawk people from the Iroquois Confederacy, plus the local St. Louis Amateur Athletic Association team representing the United States participated. The Winnipeg Shamrocks captured the gold medal.[48][49] The 1908 games held in London, England, featured only two teams, representing Canada and Great Britain. The Canadians again won the gold medal in a single championship match by a score of 14–10.[50]
 
@@ -125,8 +125,6 @@ Efforts were made to include lacrosse as an exhibition sport at the 1996 Summer 
 An obstacle for lacrosse to return to the Olympics is insufficient international participation. To be considered for the Olympics, a sport must be played on four continents and by at least 75 countries. Lacrosse is played on all six continents, but the most recent world championships have involved 38 men's teams and 25 women's teams.
 
 Other
-
-Lacrosse_dive_shot.jpg
 
 The European Lacrosse Federation (ELF) was established in 1995 and held the first European Lacrosse Championships that year.[56] Originally an annual event, it is now held every four years, in between FIL's men's and women's championships. In 2004, 12 men's and 6 women's teams played in the tournament, making it the largest international lacrosse event of the year. The last men's tournament was in 2016, when 24 countries participated. England won its ninth gold medal out of the ten tournaments played. 2015 was the last women's tournament, when 17 teams participated in the Czech Republic. England won its sixth gold medal, with Wales earning silver and Scotland bronze. These three countries from Great Britain have dominated the women's championships, earning all but three medals since the tournament began in 1996. There are currently 29 members of the ELF, they make up the majority of nations in the FIL.[57]
 
@@ -185,8 +183,6 @@ The United Women's Lacrosse League (UWLX), a four-team women's lacrosse league, 
 
 
 Equipment
-
-Womens_lacrosse_stick_head_2.jpg
 
 Stick
 

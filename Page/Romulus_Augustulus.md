@@ -9,7 +9,7 @@ The historical record contains few details of Romulus' life. He was the son of O
 
 Life
 
-628px-Western_and_Eastern_Roman_Empires_476AD(3).PNG in 476.]] _Young_Folks'_History_of_Rome_illus420.png Romulus' father Orestes was a Roman citizen, originally from Pannonia, who had served as a secretary and diplomat for Attila the Hun and later rose through the ranks of the Roman army.[6] The future emperor was named _Romulus_ after his maternal grandfather, a nobleman from Poetovio in Noricum. Many historians have noted the coincidence that the last western emperor bore the names of both Romulus, the legendary founder and first king of Rome, and Augustus, the first emperor.[7]
+in 476.]] Romulus' father Orestes was a Roman citizen, originally from Pannonia, who had served as a secretary and diplomat for Attila the Hun and later rose through the ranks of the Roman army.[6] The future emperor was named _Romulus_ after his maternal grandfather, a nobleman from Poetovio in Noricum. Many historians have noted the coincidence that the last western emperor bore the names of both Romulus, the legendary founder and first king of Rome, and Augustus, the first emperor.[7]
 
 Orestes was appointed Magister militum by Julius Nepos in 475. Shortly after his appointment, Orestes launched a rebellion and captured Ravenna, the capital of the Western Roman Empire since 402, on 28 August 475. Nepos fled to Dalmatia, where his uncle had ruled a semi-autonomous state in the 460s.[8] Orestes, however, refused to become emperor, "from some secret motive", said historian Edward Gibbon.[9] Instead, he installed his son on the throne on 31 October 475.
 
@@ -32,7 +32,7 @@ Cassiodorus, then a secretary to Theodoric the Great, wrote a letter in 507 to a
 
 Last Western emperor
 
-Tremissis_Julius_Nepos-RIC_3221.jpg on a gold tremissis]] Some sources suggest that Julius Nepos claimed to hold legally the title of emperor when Odoacer took power. However, few of Nepos' contemporaries were willing to support his cause after he fled to Dalmatia. Some historians regard Julius Nepos, who ruled in Dalmatia until being murdered in 480, as the last lawful Western Roman Emperor.[26]
+on a gold tremissis]] Some sources suggest that Julius Nepos claimed to hold legally the title of emperor when Odoacer took power. However, few of Nepos' contemporaries were willing to support his cause after he fled to Dalmatia. Some historians regard Julius Nepos, who ruled in Dalmatia until being murdered in 480, as the last lawful Western Roman Emperor.[26]
 
 Following Odoacer's coup, the Roman Senate sent a letter to Zeno stating that "the majesty of a sole monarch is sufficient to pervade and protect, at the same time, both the East and the West".[27] While Zeno told the Senate that Nepos was their lawful sovereign, he did not press the point, and he accepted the imperial insignia brought to him by the senate.[28][29]
 

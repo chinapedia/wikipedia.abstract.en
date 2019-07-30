@@ -1,4 +1,4 @@
-Mehmet_I_honoraries_miniature.jpg.]] MEHMED I (1379 – 26 May 1421), also known as MEHMED ÇELEBI (, "the noble-born") or KIRIŞÇI (from Greek _Kyritzes_, "lord's son"), was the Ottoman Sultan from 1413 to 1421. The fourth son of Sultan Bayezid I and Devlet Hatun, he fought with his brothers over control of the Ottoman realm in the Ottoman Interregnum (1402–1413). Starting from the province of Rûm he managed to bring first Anatolia and then the European territories (Rumelia) under his control, reuniting the Ottoman state by 1413, and ruling it until his death in 1421.
+.]] MEHMED I (1379 – 26 May 1421), also known as MEHMED ÇELEBI (, "the noble-born") or KIRIŞÇI (from Greek _Kyritzes_, "lord's son"), was the Ottoman Sultan from 1413 to 1421. The fourth son of Sultan Bayezid I and Devlet Hatun, he fought with his brothers over control of the Ottoman realm in the Ottoman Interregnum (1402–1413). Starting from the province of Rûm he managed to bring first Anatolia and then the European territories (Rumelia) under his control, reuniting the Ottoman state by 1413, and ruling it until his death in 1421.
 
 
 Early life
@@ -25,7 +25,7 @@ In 1416, Sheikh Bedreddin started his rebellion against the throne. After a four
 
 Death
 
-Yeşil_Türbe_-_01.jpg, in Bursa]] The reign of Mehmed I as sultan of the re-united empire lasted only eight years before his death, but he had also been the most powerful brother contending for the throne and _de facto_ ruler of most of the empire for nearly the whole preceding period of 11 years of the Ottoman Interregnum that passed between his father's captivity at Ankara and his own final victory over his brother Musa Çelebi at the Battle of Çamurlu.
+, in Bursa]] The reign of Mehmed I as sultan of the re-united empire lasted only eight years before his death, but he had also been the most powerful brother contending for the throne and _de facto_ ruler of most of the empire for nearly the whole preceding period of 11 years of the Ottoman Interregnum that passed between his father's captivity at Ankara and his own final victory over his brother Musa Çelebi at the Battle of Çamurlu.
 
 He was buried in Bursa, in a mausoleum erected by himself near the celebrated mosque which he built there, and which, because of its decorations of green glazed tiles, is called the Green Mosque. Mehmed I also completed another mosque in Bursa, which his grandfather Murad I had commenced but which had been neglected during the reign of Bayezid. Mehmed founded in the vicinity of his own Green Mosque and mausoleum two other characteristic institutions, one a school and one a refectory for the poor, both of which he endowed with royal munificence.
 

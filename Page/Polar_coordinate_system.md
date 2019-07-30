@@ -1,11 +1,11 @@
-Examples_of_Polar_Coordinates.svg In mathematics, the POLAR COORDINATE SYSTEM is a two-dimensional coordinate system in which each point on a plane is determined by a distance from a reference point and an angle from a reference direction.
+In mathematics, the POLAR COORDINATE SYSTEM is a two-dimensional coordinate system in which each point on a plane is determined by a distance from a reference point and an angle from a reference direction.
 
 The reference point (analogous to the origin of a Cartesian coordinate system) is called the _pole_, and the ray from the pole in the reference direction is the _polar axis_. The distance from the pole is called the _radial coordinate_, _radial distance_ or simply _radius_, and the angle is called the _angular coordinate_, _polar angle_, or _azimuth_.[1]
 
 
 History
 
-Hipparchos_1.jpeg The concepts of angle and radius were already used by ancient peoples of the first millennium BC. The Greek astronomer and astrologer Hipparchus (190–120 BC) created a table of chord functions giving the length of the chord for each angle, and there are references to his using polar coordinates in establishing stellar positions.[2] In _On Spirals_, Archimedes describes the Archimedean spiral, a function whose radius depends on the angle. The Greek work, however, did not extend to a full coordinate system.
+The concepts of angle and radius were already used by ancient peoples of the first millennium BC. The Greek astronomer and astrologer Hipparchus (190–120 BC) created a table of chord functions giving the length of the chord for each angle, and there are references to his using polar coordinates in establishing stellar positions.[2] In _On Spirals_, Archimedes describes the Archimedean spiral, a function whose radius depends on the angle. The Greek work, however, did not extend to a full coordinate system.
 
 From the 8th century AD onward, astronomers developed methods for approximating and calculating the direction to Mecca (qibla)—and its distance—from any location on the Earth.[3] From the 9th century onward they were using spherical trigonometry and map projection methods to determine these quantities accurately. The calculation is essentially the conversion of the equatorial polar coordinates of Mecca (i.e. its longitude and latitude) to its polar coordinates (i.e. its qibla and distance) relative to a system whose reference meridian is the great circle through the given location and the Earth's poles, and whose polar axis is the line through the location and its antipodal point.[4]
 
@@ -18,7 +18,7 @@ The actual term _polar coordinates_ has been attributed to Gregorio Fontana and 
 
 Conventions
 
-Polar_graph_paper.svg The radial coordinate is often denoted by _r_ or _ρ_, and the angular coordinate by _φ_, _θ_, or _t_. The angular coordinate is specified as _φ_ by ISO standard 31-11. However, in mathematical literature the angle is often denoted by θ instead of _φ_.
+The radial coordinate is often denoted by _r_ or _ρ_, and the angular coordinate by _φ_, _θ_, or _t_. The angular coordinate is specified as _φ_ by ISO standard 31-11. However, in mathematical literature the angle is often denoted by θ instead of _φ_.
 
 Angles in polar notation are generally expressed in either degrees or radians (2 rad being equal to 360°). Degrees are traditionally used in navigation, surveying, and many applied disciplines, while radians are more common in mathematics and mathematical physics.[10]
 
@@ -32,8 +32,6 @@ Where a unique representation is needed for any point besides the pole, it is us
 
 
 Converting between polar and Cartesian coordinates
-
-Polar_to_cartesian.svg Cartesian_to_polar.gif
 
 The polar coordinates _r_ and _φ_ can be converted to the Cartesian coordinates _x_ and _y_ by using the trigonometric functions sine and cosine:
 
@@ -83,7 +81,7 @@ For the circle, line, and polar rose below, it is understood that there are no r
 
 Circle
 
-circle_r=1.svg The general equation for a circle with a center at and radius _a_ is
+The general equation for a circle with a center at and radius _a_ is
 
 _r_² − 2_r__r_₀cos (_φ_ − _γ_) + _r_₀² = _a_².
 
@@ -114,7 +112,7 @@ Otherwise stated (_r₀_, ɣ) is the point in which the tangent intersects the i
 
 Polar rose
 
-Rose_2sin(4theta).svg A polar rose is a mathematical curve that looks like a petaled flower, and that can be expressed as a simple polar equation,
+A polar rose is a mathematical curve that looks like a petaled flower, and that can be expressed as a simple polar equation,
 
 _r_(_φ_) = _a_cos (_k__φ_+_γ_₀)
 
@@ -122,14 +120,14 @@ for any constant ɣ₀ (including 0). If _k_ is an integer, these equations will
 
 Archimedean spiral
 
-Spiral_of_Archimedes.svg The Archimedean spiral is a spiral that was discovered by Archimedes, which can also be expressed as a simple polar equation. It is represented by the equation
+The Archimedean spiral is a spiral that was discovered by Archimedes, which can also be expressed as a simple polar equation. It is represented by the equation
 
 _r_(_φ_) = _a_ + _b__φ_.
 Changing the parameter _a_ will turn the spiral, while _b_ controls the distance between the arms, which for a given spiral is always constant. The Archimedean spiral has two arms, one for and one for . The two arms are smoothly connected at the pole. Taking the mirror image of one arm across the 90°/270° line will yield the other arm. This curve is notable as one of the first curves, after the conic sections, to be described in a mathematical treatise, and as being a prime example of a curve that is best defined by a polar equation.
 
 Conic sections
 
-Elps-slr.svg A conic section with one focus on the pole and the other somewhere on the 0° ray (so that the conic's major axis lies along the polar axis) is given by:
+A conic section with one focus on the pole and the other somewhere on the 0° ray (so that the conic's major axis lies along the polar axis) is given by:
 
     $r = { \ell\over {1 - e \cos \varphi}}$
 
@@ -147,7 +145,7 @@ The graphs of two polar functions r = f(θ) and r = g(θ) have possible 
 
 Complex numbers
 
-Imaginarynumber2.svg Euler's_formula.svg]] Every complex number can be represented as a point in the complex plane, and can therefore be expressed by specifying either the point's Cartesian coordinates (called rectangular or Cartesian form) or the point's polar coordinates (called polar form). The complex number _z_ can be represented in rectangular form as
+]] Every complex number can be represented as a point in the complex plane, and can therefore be expressed by specifying either the point's Cartesian coordinates (called rectangular or Cartesian form) or the point's polar coordinates (called polar form). The complex number _z_ can be represented in rectangular form as
 
     z = x + iy
 
@@ -271,11 +269,11 @@ $$L = \int_a^b \sqrt{ \left[r(\varphi)\right]^2 + \left[ {\tfrac{dr(\varphi) }{ 
 
 Integral calculus (area)
 
-Polar_coordinates_integration_region.svg Let _R_ denote the region enclosed by a curve _r_(_φ_) and the rays _φ_ = _a_ and _φ_ = _b_, where . Then, the area of _R_ is
+Let _R_ denote the region enclosed by a curve _r_(_φ_) and the rays _φ_ = _a_ and _φ_ = _b_, where . Then, the area of _R_ is
 
 $$\frac12\int_a^b \left[r(\varphi)\right]^2\, d\varphi.$$
 
-Polar_coordinates_integration_Riemann_sum.svg Planimeter.jpg, which mechanically computes polar integrals]] This result can be found as follows. First, the interval is divided into _n_ subintervals, where _n_ is an arbitrary positive integer. Thus Δ_φ_, the length of each subinterval, is equal to (the total length of the interval), divided by _n_, the number of subintervals. For each subinterval _i_ = 1, 2, ..., _n_, let _φ__(_i_) be the midpoint of the subinterval, and construct a sector with the center at the pole, radius _r_(_φ__(_i_)), central angle Δ_φ_ and arc length _r_(_φ__(_i_))Δ_φ_. The area of each constructed sector is therefore equal to
+, which mechanically computes polar integrals]] This result can be found as follows. First, the interval is divided into _n_ subintervals, where _n_ is an arbitrary positive integer. Thus Δ_φ_, the length of each subinterval, is equal to (the total length of the interval), divided by _n_, the number of subintervals. For each subinterval _i_ = 1, 2, ..., _n_, let _φ__(_i_) be the midpoint of the subinterval, and construct a sector with the center at the pole, radius _r_(_φ__(_i_)), central angle Δ_φ_ and arc length _r_(_φ__(_i_))Δ_φ_. The area of each constructed sector is therefore equal to
 
 $$\left[r(\varphi_i)\right]^2 \pi \cdot \frac{\Delta \varphi}{2\pi} = \frac{1}{2}\left[r(\varphi_i)\right]^2 \Delta \varphi.$$
 Hence, the total area of all of the sectors is
@@ -312,8 +310,6 @@ Now, a function, that is given in polar coordinates, can be integrated as follow
 
 Here, _R_ is the same region as above, namely, the region enclosed by a curve _r_(_ϕ_) and the rays _φ_ = _a_ and _φ_ = _b_. The formula for the area of _R_ mentioned above is retrieved by taking _f_ identically equal to 1.
 
-The_Gaussian_integral.svg
-
 A more surprising application of this result yields the Gaussian integral, here denoted _K_:
 
 $$K=\int_{-\infty}^\infty e^{-x^2} \, dx = \sqrt\pi.$$
@@ -348,8 +344,6 @@ Centrifugal and Coriolis terms
 The term rφ̇² is sometimes referred to as the _centripetal acceleration_, and the term 2ṙφ̇ as the _Coriolis acceleration_. For example, see Shankar.[19]
 
 Note: these terms, that appear when acceleration is expressed in polar coordinates, are a mathematical consequence of differentiation; they appear whenever polar coordinates are used. In planar particle dynamics these accelerations appear when setting up Newton's second law of motion in a rotating frame of reference. Here these extra terms are often called fictitious forces; fictitious because they are simply a result of a change in coordinate frame. That does not mean they do not exist, rather they exist only in the rotating frame.
-
-Co-rotating_frame_vector.svg
 
 Co-rotating frame
 

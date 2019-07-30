@@ -22,11 +22,11 @@ The FRENCH PYRENEES are part of the following _départements_, from east to west
 
 The independent principality of Andorra is sandwiched in the eastern portion of the mountain range between the Spanish Pyrenees and French Pyrenees.
 
-Pyrenees_composite_NASA.jpg)]] Aneto_01.jpg, the highest mountain of the Pyrenees]] Pic_de_Bugatet.jpg in the Néouvielle massif]] Pedraforca.jpg, Catalonia (Spain)]] Baretous_piemont_Pyreneen.jpg San_Mauricio_lake.jpg, Catalonia (Spain)]]
+)]] , the highest mountain of the Pyrenees]] in the Néouvielle massif]] , Catalonia (Spain)]] , Catalonia (Spain)]]
 
 Physiographical divisions
 
-Monteperdido_y_Cilindro.jpg (Spain)]] Physiographically, the Pyrenees may be divided into three sections: the Atlantic (or Western), the Central, and the Eastern Pyrenees. Together, they form a distinct physiographic province of the larger Alpine System division.
+(Spain)]] Physiographically, the Pyrenees may be divided into three sections: the Atlantic (or Western), the Central, and the Eastern Pyrenees. Together, they form a distinct physiographic province of the larger Alpine System division.
 
 In the Western Pyrenees, from the Basque mountains near the Bay of Biscay of the Atlantic Ocean, the average elevation gradually increases from west to east.
 
@@ -77,7 +77,7 @@ Because of the lack of low passes a number of tunnels have been created, beneath
 
 A notable visual feature of this mountain range is La Brèche de Roland, a gap in the ridge line, whichaccording to legendwas created by Roland.
 
-Ibón.JPG. ]]
+. ]]
 
 
 Natural resources
@@ -98,7 +98,7 @@ The annual snow-line varies in different parts of the Pyrenees from about 2,700 
 
 Flora and fauna
 
-Cascada_aigualluts.jpg (Spain)]]
+(Spain)]]
 
 Flora
 
@@ -113,7 +113,7 @@ The Pyrenean ibex mysteriously became extinct in January 2000; the native Pyrene
 
 Protected areas
 
-20080824-Ibón_de_Barrancs.jpg) in Posets-Maladeta Natural Park, Aragon (Spain)]] Principal nature reserves and national parks:
+) in Posets-Maladeta Natural Park, Aragon (Spain)]] Principal nature reserves and national parks:
 
 -   Ordesa y Monte Perdido National Park (Spain)
 -   Pyrénées National Park (France)
@@ -123,7 +123,7 @@ Protected areas
 
 Demographics and culture
 
-Bovins_estive_Pic_du_Midi_Ossau.jpg on summer pasture near the Pic du Midi d'Ossau]] The Pyrenean region possesses a varied ethnology, folklore and history: see Andorra; Aragon; Ariège; Basque Country; Béarn; Catalonia; Navarre; Roussillon. For their history, see also Almogavars, Marca Hispanica.
+on summer pasture near the Pic du Midi d'Ossau]] The Pyrenean region possesses a varied ethnology, folklore and history: see Andorra; Aragon; Ariège; Basque Country; Béarn; Catalonia; Navarre; Roussillon. For their history, see also Almogavars, Marca Hispanica.
 
 The principal languages spoken in the area are Spanish, French, Aragonese, Catalan (in Catalonia and Andorra), and Basque. Also spoken, to a lesser degree, is the Occitan language, consisting of the Gascon and Languedocien dialects in France and the Aranese dialect in the Aran Valley.
 
@@ -265,7 +265,7 @@ The following is the complete list of the summits of the Pyrenees above 3,000 me
 
 Notable summits below 3,000 metres
 
-Gentau_Pic_du_Midi_Ossau.jpg]] Lac_Ansabere01-Aspe-4643~2015_07_28.JPG]]
+]] ]]
 
 -   Pic de Palas (2,974 m)
 -   Pic de Comapedrosa (2,942 m) - highest point of Andorra
@@ -318,8 +318,6 @@ Three main long-distance footpaths run the length of the mountain range: the GR 
 _Pirena_ is a dog-mushing competition held in the Pyrenees.
 
 Ski resorts
-
-Ski_Center.jpg
 
 Ski resorts in the Pyrenees include:
 

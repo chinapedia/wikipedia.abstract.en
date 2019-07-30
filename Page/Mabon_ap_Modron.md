@@ -1,4 +1,4 @@
-Culhwch.jpg, 1881]]
+, 1881]]
 
 MABON AP MODRON is a prominent figure from Welsh literature and mythology, the son of Modron and a member of Arthur's war band. Both he and his mother were likely deities in origin, descending from a divine mother–son pair. His name is related to the Romano-British god Maponos, whose name means "Great Son"; Modron, in turn, is likely related to the Gaulish goddess Dea Matrona. He is often equated with the Demetian hero Pryderi fab Pwyll, and may be associated with the minor Arthurian character MABON FAB MELLT.[1]
 
@@ -12,7 +12,7 @@ Role in Welsh tradition
 
 _Culhwch ac Olwen_
 
-Ysbaddaden.jpeg's court. Image by Ernest Wallcousins in "Celtic Myth & Legend", Charles Squire, 1920.]]
+'s court. Image by Ernest Wallcousins in "Celtic Myth & Legend", Charles Squire, 1920.]]
 
 Culhwch's father, King Cilydd, the son of Celyddon, loses his wife Goleuddydd after a difficult childbirth. When he remarries, the young Culhwch rejects his stepmother's attempt to pair him with his new stepsister. Offended, the new queen puts a curse on him so that he can marry no one besides the beautiful Olwen, daughter of the giant Ysbaddaden. Though he has never seen her, Culhwch becomes infatuated with her, but his father warns him that he will never find her without the aid of his famous cousin Arthur. The young man immediately sets off to seek his kinsman. He finds him at his court in Celliwig in Cornwall and asks for support and assistance. Cai is the first knight to volunteer to assist Culhwch in his quest, promising to stand by his side until Olwen is found. A further five knights join them in their mission.
 

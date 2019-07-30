@@ -3,7 +3,7 @@ PADSTOW (; [1]) is a town, civil parish and fishing port on the north coast of C
 
 History
 
-Cross_-_panoramio_(15).jpg Padstow was originally named _Petroc-stow_, Petroc-stowe, or 'Petrock's Place', after the Welsh missionary Saint Petroc, who landed at Trebetherick around AD 500. After his death a monastery (Lanwethinoc, the church of Wethinoc, an earlier holy man) was established here which was of great importance until "Petroces stow" (probably Padstow) was raided by the Vikings in 981, according to the Anglo-Saxon Chronicle.[6] Whether as a result of this attack or later, the monks moved inland to Bodmin, taking with them the relics of St Petroc.[7] The cult of St Petroc was important both in Padstow and Bodmin.
+Padstow was originally named _Petroc-stow_, Petroc-stowe, or 'Petrock's Place', after the Welsh missionary Saint Petroc, who landed at Trebetherick around AD 500. After his death a monastery (Lanwethinoc, the church of Wethinoc, an earlier holy man) was established here which was of great importance until "Petroces stow" (probably Padstow) was raided by the Vikings in 981, according to the Anglo-Saxon Chronicle.[6] Whether as a result of this attack or later, the monks moved inland to Bodmin, taking with them the relics of St Petroc.[7] The cult of St Petroc was important both in Padstow and Bodmin.
 
 Padstow is recorded in the Domesday Book (1086) when it was held by Bodmin Monastery. There was land for 4 ploughs, 5 villeins who had 2 ploughs, 6 smallholders and 24 acres of pasture. It was valued at 10/- (10 shillings or 50p).[8]
 
@@ -23,7 +23,7 @@ The church of St Petroc is one of four said to have been founded by the saint, t
 
 Economy
 
-Rick_Stein's_Seafood_Restaurant,_Padstow.jpg Traditionally a fishing port, Padstow is now a popular tourist destination. Although some of its former fishing fleet remains, it is mainly a yachting haven on a dramatic coastline with few easily navigable harbours. The influence of restaurateur Rick Stein can be seen in the port, and tourists travel from long distances to eat at his restaurant and cafés. This has led to the town being dubbed "Padstein", by food writers in the British media.[13][14][15]
+Traditionally a fishing port, Padstow is now a popular tourist destination. Although some of its former fishing fleet remains, it is mainly a yachting haven on a dramatic coastline with few easily navigable harbours. The influence of restaurateur Rick Stein can be seen in the port, and tourists travel from long distances to eat at his restaurant and cafés. This has led to the town being dubbed "Padstein", by food writers in the British media.[13][14][15]
 
 However, the boom in the popularity of the port has caused house price inflation both in the port and surrounding areas, as people buy homes to live in, or as second or holiday homes. This has meant significant numbers of locals cannot afford to buy property in the area, with prices often well over 10 times the average salary of around £15,000. This has led to a population decline.
 
@@ -36,7 +36,7 @@ Maritime traffic
 
 During the mid-19th century, ships carrying timber from Canada (particularly Quebec City) would arrive at Padstow and offer cheap travel to passengers wishing to emigrate. Shipbuilders in the area would also benefit from the quality of their cargoes. Among the ships that sailed were the barques _Clio_, _Belle_[17] and _Voluna_; and the brig _Dalusia_.[18]
 
-Padstow-Rock_Ferry.JPG The approach from the sea into the River Camel is partially blocked by the Doom Bar, a bank of sand extending across the estuary which is a significant hazard to shipping and the cause of many shipwrecks.
+The approach from the sea into the River Camel is partially blocked by the Doom Bar, a bank of sand extending across the estuary which is a significant hazard to shipping and the cause of many shipwrecks.
 
 For ships entering the estuary, the immediate loss of wind due to the cliffs was a particular hazard, often resulting in ships being swept onto the Doom Bar. A manual capstan was installed on the west bank of the river (its remains can still be seen) and rockets were fired to carry a line to ships so that they could be winched to safety.
 
@@ -63,7 +63,7 @@ Culture
 
 'Obby 'Oss festival
 
-Red_obby_oss_maiden_20050502.jpg Padstow is best known for its "'Obby 'Oss" festival. Although its origins are unclear, it most likely stems from an ancient fertility rite, perhaps the Celtic festival of Beltane. The festival starts at midnight on May Eve when townspeople gather outside the Golden Lion Inn to sing the "Night Song." By morning, the town has been dressed with greenery and flowers placed around the maypole. The excitement begins with the appearance of one of the 'Obby 'Osses. Male dancers cavort through the town dressed as one of two 'Obby 'Osses, the "Old" and the "Blue Ribbon" 'Obby 'Osses; as the name suggests, they are stylised kinds of horses. Prodded on by acolytes known as "Teasers," each wears a mask and black frame-hung cape under which they try to catch young maidens as they pass through the town. Throughout the day, the two parades, led by the "Mayer" in his top hat and decorated stick, followed by a band of accordions and drums, then the 'Oss and the Teaser, with a host of people - all singing the "Morning Song."1 - pass along the streets of the town. Finally, late in the evening, the two 'osses meet, at the maypole, before returning to their respective stables where the crowd sings of the 'Obby 'Oss death, until its resurrection the following May Eve. Red_obby_oss_party_20050502.jpg
+Padstow is best known for its "'Obby 'Oss" festival. Although its origins are unclear, it most likely stems from an ancient fertility rite, perhaps the Celtic festival of Beltane. The festival starts at midnight on May Eve when townspeople gather outside the Golden Lion Inn to sing the "Night Song." By morning, the town has been dressed with greenery and flowers placed around the maypole. The excitement begins with the appearance of one of the 'Obby 'Osses. Male dancers cavort through the town dressed as one of two 'Obby 'Osses, the "Old" and the "Blue Ribbon" 'Obby 'Osses; as the name suggests, they are stylised kinds of horses. Prodded on by acolytes known as "Teasers," each wears a mask and black frame-hung cape under which they try to catch young maidens as they pass through the town. Throughout the day, the two parades, led by the "Mayer" in his top hat and decorated stick, followed by a band of accordions and drums, then the 'Oss and the Teaser, with a host of people - all singing the "Morning Song."1 - pass along the streets of the town. Finally, late in the evening, the two 'osses meet, at the maypole, before returning to their respective stables where the crowd sings of the 'Obby 'Oss death, until its resurrection the following May Eve.
 
 Mummers' or Darkie Day
 

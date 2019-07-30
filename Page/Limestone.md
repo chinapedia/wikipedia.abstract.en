@@ -1,6 +1,6 @@
 LIMESTONE is a carbonate sedimentary rock that is often composed of the skeletal fragments of marine organisms such as coral, foraminifera, and molluscs. Its major materials are the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO₃). A closely related rock is dolomite, which contains a high percentage of the mineral dolomite, CaMg(CO₃)₂. In fact, in old USGS publications, dolomite was referred to as _magnesian limestone_, a term now reserved for magnesium-deficient dolomites or magnesium-rich limestones.
 
-Pamukkale_12.jpg limestone terraces of Pamukkale, Turkey.]]
+limestone terraces of Pamukkale, Turkey.]]
 
 About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.
 
@@ -9,7 +9,7 @@ Limestone has numerous uses: as a building material, an essential component of c
 
 Description
 
-Limestone_Mines_at_Cedar_Creek.jpg, USA]] Gozo,_limestone_quarry_-_cutting_the_stone.JPG, Malta]] Kalkstein_(nahe).JPG La_Zaplaz,_Piatra_Craiului.jpg, Romania.]] Like most other sedimentary rocks, most limestone is composed of grains. Most grains in limestone are skeletal fragments of marine organisms such as coral or foraminifera. These organisms secrete shells made of aragonite or calcite, and leave these shells behind when they die. Other carbonate grains composing limestones are ooids, peloids, intraclasts, and extraclasts.
+, USA]] , Malta]] , Romania.]] Like most other sedimentary rocks, most limestone is composed of grains. Most grains in limestone are skeletal fragments of marine organisms such as coral or foraminifera. These organisms secrete shells made of aragonite or calcite, and leave these shells behind when they die. Other carbonate grains composing limestones are ooids, peloids, intraclasts, and extraclasts.
 
 Limestone often contains variable amounts of silica in the form of chert (chalcedony, flint, jasper, etc.) or siliceous skeletal fragment (sponge spicules, diatoms, radiolarians), and varying amountsl precipitation of calcite or aragonite, i.e. travertine. Secondary calcite may be deposited by supersaturated meteoric waters (groundwater that precipitates the material in caves). This produces speleothems, such as stalagmites and stalactites. Another form taken by calcite is oolitic limestone, which can be recognized by its granular (oolite) appearance.
 
@@ -32,7 +32,7 @@ Classification
 
 Two major classification schemes, the Folk and the Dunham, are used for identifying the types of carbonate rocks collectively known as limestone.
 
-JoultersCayOoids.jpg from a beach on Joulter's Cay, The Bahamas ]] Ooids_Carmel_Formation_Jurassic.jpg (Middle Jurassic) of southwestern Utah.]]
+from a beach on Joulter's Cay, The Bahamas ]] (Middle Jurassic) of southwestern Utah.]]
 
 Folk classification
 
@@ -61,13 +61,13 @@ See: Carbonate platform
 
 Limestone landscape
 
-Maczuga_Herkulesa_(background_Castle_Pieskowa_Skała).jpg'', a tall limestone rock (Pieskowa Skała Castle in the background)]]
+'', a tall limestone rock (Pieskowa Skała Castle in the background)]]
 
-Cenote_in_valladolid_mexico_(21362599476).jpg cenote in Valladolid, Yucatán, Mexico]]
+cenote in Valladolid, Yucatán, Mexico]]
 
-Reflecting_cavern_lake.jpg of the northern Shenandoah Valley]]
+of the northern Shenandoah Valley]]
 
-White_Cliffs_of_Dover_2_(Piotr_Kuczynski).jpg ]]
+]]
 
 About 10% of all sedimentary rocks are limestones.[9][10]
 
@@ -88,9 +88,9 @@ The world's largest limestone quarry is at Michigan Limestone and Chemical Compa
 
 Uses
 
-Facade_Hagar_Qim.jpg such as Ħaġar Qim are built entirely of limestone. They are among the oldest freestanding structures in existence.[13]]]
+such as Ħaġar Qim are built entirely of limestone. They are among the oldest freestanding structures in existence.[13]]]
 
-Limestone is very common in architecture, especially in Europe and North America. Many landmarks across the world, including the Great Pyramid and its associated complex in Giza, Egypt, were made of limestone. So many buildings in Kingston, Ontario, Canada were, and continue to be, constructed from it that it is nicknamed the 'Limestone City'.[14] On the island of Malta, a variety of limestone called Globigerina limestone was, for a long time, the only building material available, and is still very frequently used on all types of buildings and sculptures. Limestone is readily available and relatively easy to cut into blocks or more elaborate carving.[15] Ancient American sculptors valued limestone because it was easy to work and good for fine detail. Going back to the Late Preclassic period (by 200–100 BCE), the Maya civilization (Ancient Mexico) created refined sculpture using limestone because of these excellent carving properties. The Maya would decorate the ceilings of their sacred buildings (known as lintels) and cover the walls with carved limestone panels. Carved on these sculptures were political and social stories, and this helped communicate messages of the king to his people.[16] Limestone is long-lasting and stands up well to exposure, which explains why many limestone ruins survive. However, it is very heavy, making it impractical for tall buildings, and relatively expensive as a building material. Gizeh_Cheops_BW_1.jpg, one of the Seven Wonders of the Ancient World had an outside cover made entirely from limestone.]] Riley_(Kansas)_County_Courthouse_1.jpg Courthouse built of limestone in Manhattan, Kansas, USA]] Litography_press_with_map_of_Moosburg_01.jpg in Bavaria is prepared for a lithography print.]] Limestone was most popular in the late 19th and early 20th centuries. Train stations, banks and other structures from that era are normally made of limestone. It is used as a facade on some skyscrapers, but only in thin plates for covering, rather than solid blocks. In the United States, Indiana, most notably the Bloomington area, has long been a source of high quality quarried limestone, called Indiana limestone. Many famous buildings in London are built from Portland limestone.
+Limestone is very common in architecture, especially in Europe and North America. Many landmarks across the world, including the Great Pyramid and its associated complex in Giza, Egypt, were made of limestone. So many buildings in Kingston, Ontario, Canada were, and continue to be, constructed from it that it is nicknamed the 'Limestone City'.[14] On the island of Malta, a variety of limestone called Globigerina limestone was, for a long time, the only building material available, and is still very frequently used on all types of buildings and sculptures. Limestone is readily available and relatively easy to cut into blocks or more elaborate carving.[15] Ancient American sculptors valued limestone because it was easy to work and good for fine detail. Going back to the Late Preclassic period (by 200–100 BCE), the Maya civilization (Ancient Mexico) created refined sculpture using limestone because of these excellent carving properties. The Maya would decorate the ceilings of their sacred buildings (known as lintels) and cover the walls with carved limestone panels. Carved on these sculptures were political and social stories, and this helped communicate messages of the king to his people.[16] Limestone is long-lasting and stands up well to exposure, which explains why many limestone ruins survive. However, it is very heavy, making it impractical for tall buildings, and relatively expensive as a building material. , one of the Seven Wonders of the Ancient World had an outside cover made entirely from limestone.]] Courthouse built of limestone in Manhattan, Kansas, USA]] in Bavaria is prepared for a lithography print.]] Limestone was most popular in the late 19th and early 20th centuries. Train stations, banks and other structures from that era are normally made of limestone. It is used as a facade on some skyscrapers, but only in thin plates for covering, rather than solid blocks. In the United States, Indiana, most notably the Bloomington area, has long been a source of high quality quarried limestone, called Indiana limestone. Many famous buildings in London are built from Portland limestone.
 
 Limestone was also a very popular building block in the Middle Ages in the areas where it occurred, since it is hard, durable, and commonly occurs in easily accessible surface exposures. Many medieval churches and castles in Europe are made of limestone. Beer stone was a popular kind of limestone for medieval buildings in southern England.
 

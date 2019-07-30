@@ -15,8 +15,6 @@ Franchise history
 
 The Royals began play in 1969 in Kansas City, Missouri. In their inaugural game, on April 8, 1969, the Royals defeated the Minnesota Twins 4–3 in 12 innings. The Royals went 69-93 in their first season, highlighted by Lou Piniella, who won the AL Rookie of the Year Award.
 
-1989_Kansas_City_Royals_away_uniform.jpg
-
 The team was quickly built through a number of trades engineered by its first General Manager, Cedric Tallis, who picked up center fielder Amos Otis, who became the team's first great star, first baseman John Mayberry, who provided power, second baseman Cookie Rojas, shortstop Fred Patek, designated hitter Hal McRae, and others. The Royals also invested in a strong farm system and soon developed such future stars as pitchers Paul Splittorff, Dennis Leonard, and Steve Busby, infielders George Brett and Frank White, and outfielder Al Cowens. Under these young players, the Royals started to build a young core set up for future success.
 
 In 1971, the Royals had their first winning season, with manager Bob Lemon leading them to a second-place finish. In 1973, under manager Jack McKeon, the Royals adopted their iconic "powder blue" road uniforms and moved from Municipal Stadium to the brand-new Royals Stadium (now known as Kauffman Stadium).
@@ -29,7 +27,7 @@ Manager Whitey Herzog replaced McKeon in 1975, and the Royals quickly became the
 
 After the Royals finished in second place in 1979, Herzog was fired and replaced by Jim Frey. Under Frey and a legendary .390 season from George Brett, the Royals rebounded in 1980 and advanced to the ALCS, where they again faced the Yankees. The Royals vanquished the Yankees in a three-game sweep punctuated by a Brett's home run off of Yankees' star relief pitcher Goose Gossage. After reaching their first World Series, the Royals fell to the Philadelphia Phillies in six games. Game 6 was also significant because it remains the most-watched game in World Series history with a television audience of 54.9 million viewers.[8]
 
-George_brett_pine_tar_bat_rotated.JPG used by third baseman George Brett in the "Pine Tar Incident" on July 24, 1983]]
+used by third baseman George Brett in the "Pine Tar Incident" on July 24, 1983]]
 
 In July 1983, while the Royals were headed for a second-place finish behind the Chicago White Sox another chapter in the team's rivalry with the New York Yankees occurred. In what has come to be known as "the Pine Tar Incident", umpires discovered illegal placement of pine tar (more than 18 inches up the handle) on third baseman George Brett's bat after he had hit a two-run home run off Gossage that put the Royals up 5–4 in the top of the 9th. After Yankee Manager Billy Martin came out of the dugout to talk to home plate umpire Tim McClelland, McClelland and the other umpires mulled over the bat (measuring it over home plate, touching it, etc.). McClelland then pointed to Brett in the dugout and gave the "out" sign, disallowing the home run. Enraged, Brett stormed out of the dugout toward McClelland and Martin, and McClelland ejected Brett. The homer was later reinstated by AL President Lee MacPhail, and the Royals won the game after it was resumed several weeks later.
 
@@ -49,7 +47,7 @@ In the 1985 World Series (nicknamed the "I-70 Series" because the two teams are 
 
 The Royals maintained a reputation as one of the American League West's top teams throughout the late 1980s. The club posted a winning record in three of the four seasons following its 1985 World Series championship, while developing young stars such as Bo Jackson, Tom Gordon, and Kevin Seitzer.[10] The Royals finished the 1989 season with a 92–70 record (third-best in the major leagues) but did not qualify for the playoffs, finishing second in their division behind the eventual World Series champion Oakland Athletics.[11]
 
-George_Brett_1990_CROP.jpg bats during a 1990 game at Royals Stadium.]]
+bats during a 1990 game at Royals Stadium.]]
 
 At the end of the 1989 season, the team boasted a powerhouse pitching rotation, including the AL Cy Young Award-winner Bret Saberhagen (who set franchise record 23 wins that year), two-time All-Star Mark Gubicza (a 15-game winner in 1989) and 1989 AL Rookie of the Year runner-up Tom Gordon (who won 17 games that year).[12] But the organization felt it was still missing a few necessary pieces to give its divisional rival Oakland Athletics a run for their money.[13] So prior to the 1990 season, the Royals acquired Mark Davis, the 1989 National League Cy Young Award-winner and league leader in saves, signing him to a 4-year, $13 million contract (the largest annual salary in baseball history at the time).[14] The Royals also signed starting pitcher Storm Davis, who was coming off a career-high 19-game win season (third-best in the AL), to a three-year $6 million contract.[15] Despite the promising off-season moves, the team suffered critical bullpen injuries while both newly signed Davises experienced lackluster seasons in 1990.[16] The Royals concluded the season with a 75–86 record, in second-to-last place in the AL West (and with the worst franchise record since 1970). Bo Jackson—the team's potential future franchise player—suffered a devastating hip injury while playing football in the off-season, so the Royals waived him during spring training in 1991.[17]
 
@@ -71,7 +69,7 @@ In 2002, the Royals set a new team record for futility, losing 100 games for the
 
 The 2003 season saw a temporary end to the losing, when manager Tony Peña, in his first full season with the club, guided the team to its first winning record (83–79) since 1994 and finished in third place in the AL Central. He was named the American League Manager of the Year for his efforts and shortstop Ángel Berroa was named AL Rookie of the Year.
 
-Gil_Meche.jpg pitching in 2008]]
+pitching in 2008]]
 
 2004–2008: Rock Bottom
 
@@ -87,9 +85,9 @@ The Royals hired Trey Hillman, formerly the manager of the Nippon Ham Fighters a
 
 2009–2012: Kauffman Renovations and Further Rebuilding
 
-NewKauffman.jpg scoreboard.]]
+scoreboard.]]
 
-Zack_Greinke_on_July_29,_2009.jpg did not allow an earned run in the first 24 innings of the 2009 season.]]
+did not allow an earned run in the first 24 innings of the 2009 season.]]
 
 Prior to the 2009 season, the Royals renovated Kauffman Stadium. After the season began, the Royals ended April at the top of the AL Central, all of which raised excitement levels among fans. However, the team faded as the season progressed and finished the year with a final record of 65–97, in a fourth place tie in its division. The season was highlighted by starter Zack Greinke, who did not allow an earned run in the first 24 innings of the season, went on to finish the year with a Major League-leading 2.16 earned run average, and won the American League Cy Young Award. Greinke joined Bret Saberhagen (in 1985 and 1989) and David Cone (in 1994) as the only three players in Royals history to receive the award.
 
@@ -121,7 +119,7 @@ After setting an AL record by winning eight straight games to reach the World Se
 
 2015: World Series Champions
 
-Royals_Celebrating_Winning_the_2015_World_Series.jpg After earning a wild-card entry to the playoffs in 2014, in 2015 the Royals won the franchise's first division title since 1985 and first Central division title ever (the Central was created in 1994). The Royals went on to win the 2015 World Series – the first championship for the Royals since 1985 – beating the New York Mets four games to one.[38]
+After earning a wild-card entry to the playoffs in 2014, in 2015 the Royals won the franchise's first division title since 1985 and first Central division title ever (the Central was created in 1994). The Royals went on to win the 2015 World Series – the first championship for the Royals since 1985 – beating the New York Mets four games to one.[38]
 
 The Royals entered the 2015 All-Star break with the best record in the American League (52–34). The team continued its momentum into the second half of the season, and on July 26, Royals management traded three prospects Brandon Finnegan, John Lamb, and Cody Reed for 2014 All-Star pitcher Johnny Cueto to help bolster its starting pitching rotation, as well as trading for super-utility player Ben Zobrist.[39] The team ended the regular season with a record of 95–67, best in the American League, and the organization's best since 1980.
 
@@ -253,8 +251,6 @@ Hall of Fame
 
 
 Current roster
-
-Kansas_City_Royals.jpg
 
 
 Managers

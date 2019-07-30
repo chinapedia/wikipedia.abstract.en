@@ -14,7 +14,7 @@ History
 
 Medieval and early modern history
 
-Vischer_-_Topographia_Ducatus_Stiria_-_247_Marburg_-_Maribor.jpg, 1678.]] In 1164, a castle known as _Castrum Marchburch_ ("March Castle") was documented in the March of Drava.[2] The castle was originally built on Piramida Hill, which is located just above the city. Maribor was first mentioned as a market near the castle in 1204, and received town privileges in 1254. It began to grow rapidly after the victory of Rudolf I of the Habsburg dynasty over King Otakar II of Bohemia in 1278. Maribor withstood sieges by Matthias Corvinus in 1480/1481 and by the Ottoman Empire in 1532 and 1683.
+, 1678.]] In 1164, a castle known as _Castrum Marchburch_ ("March Castle") was documented in the March of Drava.[2] The castle was originally built on Piramida Hill, which is located just above the city. Maribor was first mentioned as a market near the castle in 1204, and received town privileges in 1254. It began to grow rapidly after the victory of Rudolf I of the Habsburg dynasty over King Otakar II of Bohemia in 1278. Maribor withstood sieges by Matthias Corvinus in 1480/1481 and by the Ottoman Empire in 1532 and 1683.
 
 Early 20th century
 
@@ -30,7 +30,7 @@ After 1918, most of Maribor's Austrian Germans left the Kingdom of Slovenes, Cro
 
 World War II and aftermath
 
-Bundesarchiv_Bild_121-0723,_Marburg-Drau,_Adolf_Hitler.jpg on the Old Bridge in Maribor, Yugoslavia in 1941.]]
+on the Old Bridge in Maribor, Yugoslavia in 1941.]]
 
 In 1941 Lower Styria, the predominantly Yugoslav part of Styria, was annexed by Nazi Germany. German troops marched into the town at 9 pm on 8 April 1941.
 
@@ -82,7 +82,7 @@ Maribor has a humid continental climate (Köppen climate classification: Dfb), b
 
 Architecture
 
-Maribor_Rotovž.jpg Many historical structures stand in Maribor. Of the remains of city walls surrounding the old downtown, the most prominent are the Judgement Tower, the Water Tower, and the Jewish Tower. Maribor Cathedral was built in the Gothic style in the 13th century. Maribor Synagogue was built in the 14th century, and is the second oldest synagogue of Europe. Today it serves as a centre for cultural activities. Other prominent Medieval buildings are Maribor Castle, Betnava Castle, and the ruins of Upper Maribor Castle on Pyramid Hill.[12] Town Hall was constructed in the Renaissance style, and the Plague Column in the Baroque style.
+Many historical structures stand in Maribor. Of the remains of city walls surrounding the old downtown, the most prominent are the Judgement Tower, the Water Tower, and the Jewish Tower. Maribor Cathedral was built in the Gothic style in the 13th century. Maribor Synagogue was built in the 14th century, and is the second oldest synagogue of Europe. Today it serves as a centre for cultural activities. Other prominent Medieval buildings are Maribor Castle, Betnava Castle, and the ruins of Upper Maribor Castle on Pyramid Hill.[12] Town Hall was constructed in the Renaissance style, and the Plague Column in the Baroque style.
 
 At the start of the 21st century, plans were made for a new modern business, residential and entertainment district, called the Drava Gate () and nicknamed the _Maribor Manhattan_. The project includes many new exclusive residential apartments, offices and conference halls, a green and recreational space, and other structures. It also includes a tall skyscraper that would be the tallest building in Slovenia. Due to lack of finances, the project has been postponed.
 
@@ -106,16 +106,16 @@ Demographics and religion
 
 Catholic Church
 
-MP_stolnica.JPG Maribor, previously in the Catholic Diocese of Graz-Seckau, became part of the Diocese of Lavant on 1 June 1859, and the seat of its Prince-Bishop. The name of the diocese (after a river in Carinthia) was later changed to the Diocese of Maribor on 5 March 1962. It was elevated to an archdiocese by Pope Benedict XVI on 7 April 2006.
+Maribor, previously in the Catholic Diocese of Graz-Seckau, became part of the Diocese of Lavant on 1 June 1859, and the seat of its Prince-Bishop. The name of the diocese (after a river in Carinthia) was later changed to the Diocese of Maribor on 5 March 1962. It was elevated to an archdiocese by Pope Benedict XVI on 7 April 2006.
 
 Jewish community
 
-Synagogue_in_Maribor_Slovenia.JPG Jewish people living in Maribor were first mentioned in 1277. It is suggested that at that time there was already a Jewish quarter in the city. The Jewish ghetto was located in the southeastern part of the city and it comprised, at its peak, several main streets in the city centre including part of the main city square. The ghetto had a synagogue, a Jewish cemetery and also a Talmud school. The Jewish community of Maribor was numerically at its apex around 1410. After 1450 the circumstances changed dramatically: increasing competition that coincided with an economic crisis dealt a severe blow to the economic activities that were crucial to their economic success. According to a decree issued by Emperor Maximilian I in 1496, Jews were forced to leave the city of Maribor. Restrictions on settlement and business for Jews remained in place until 1861.[13] From late spring 1941, after Lower Styria was annexed by the Third Reich, the Jews of Maribor were deported to concentration camps.
+Jewish people living in Maribor were first mentioned in 1277. It is suggested that at that time there was already a Jewish quarter in the city. The Jewish ghetto was located in the southeastern part of the city and it comprised, at its peak, several main streets in the city centre including part of the main city square. The ghetto had a synagogue, a Jewish cemetery and also a Talmud school. The Jewish community of Maribor was numerically at its apex around 1410. After 1450 the circumstances changed dramatically: increasing competition that coincided with an economic crisis dealt a severe blow to the economic activities that were crucial to their economic success. According to a decree issued by Emperor Maximilian I in 1496, Jews were forced to leave the city of Maribor. Restrictions on settlement and business for Jews remained in place until 1861.[13] From late spring 1941, after Lower Styria was annexed by the Third Reich, the Jews of Maribor were deported to concentration camps.
 
 
 Culture
 
-UniverzaMaribor.jpg]] Maribor_Zametovka_vine_and_daughter.png The city hosts the University of Maribor, established in 1975,[14] and many other schools.
+]] The city hosts the University of Maribor, established in 1975,[14] and many other schools.
 
 Every June, the two-week Lent Festival (named after the waterfront district called Lent) is held, with hundreds of musical, theatrical and other events. Every year the festival attracts theatre, opera, ballet performers, classical, modern, and jazz musicians and dancers from all over the world, and of course many visitors. There is also mime, magic shows are being held and acrobats perform during the festival.
 

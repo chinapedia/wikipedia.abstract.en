@@ -1,4 +1,4 @@
-Mario_Berlinguer.jpg MARIO BERLINGUER (; Sassari, August 29, 1891 – Rome, September 5, 1969) was an Italian lawyer and politician. He descended from a noble Sardinian family of Catalan origins.
+MARIO BERLINGUER (; Sassari, August 29, 1891 – Rome, September 5, 1969) was an Italian lawyer and politician. He descended from a noble Sardinian family of Catalan origins.
 
 Born in Sassari, in his youth he was a follower of the Meridionalist activist Gaetano Salvemini. After his graduation in law he collaborated with the newspaper _La Nuova Sardegna_ and other Italian newspapers.
 

@@ -18,7 +18,7 @@ History
 
 Pre-colonial period
 
-Buschmannkinder.jpg are Namibia's oldest indigenous inhabitants.]] The dry lands of Namibia have been inhabited since early times by San, Damara, and Nama. Around the 14th century, immigrating Bantu people began to arrive during the Bantu expansion from central Africa.
+are Namibia's oldest indigenous inhabitants.]] The dry lands of Namibia have been inhabited since early times by San, Damara, and Nama. Around the 14th century, immigrating Bantu people began to arrive during the Bantu expansion from central Africa.
 
 From the late 18th century onward, Oorlam people from Cape Colony crossed the Orange River and moved into the area that today is southern Namibia.[5] Their encounters with the nomadic Nama tribes were largely peaceful. They received the missionaries accompanying the Oorlam very well,[6] granting them the right to use waterholes and grazing against an annual payment. On their way further north, however, the Oorlam encountered clans of the OvaHerero at Windhoek, Gobabis, and Okahandja, who resisted their encroachment. The Nama-Herero War broke out in 1880, with hostilities ebbing only after the German Empire deployed troops to the contested places and cemented the status quo among the Nama, Oorlam, and Herero.
 
@@ -26,7 +26,7 @@ The first Europeans to disembark and explore the region were the Portuguese navi
 
 German rule
 
-Kirche_denkmal_nam.jpg Namibia became a German colony in 1884 under Otto von Bismarck to forestall perceived British encroachment and was known as German South West Africa (_Deutsch-Südwestafrika_).[7] The Palgrave Commission by the British governor in Cape Town determined that only the natural deep-water harbor of Walvis Bay was worth occupying and thus annexed it to the Cape province of British South Africa.
+Namibia became a German colony in 1884 under Otto von Bismarck to forestall perceived British encroachment and was known as German South West Africa (_Deutsch-Südwestafrika_).[7] The Palgrave Commission by the British governor in Cape Town determined that only the natural deep-water harbor of Walvis Bay was worth occupying and thus annexed it to the Cape province of British South Africa.
 
 From 1904 to 1907, the Herero and the Namaqua took up arms against brutal German colonialism. In calculated punitive action by the German occupiers, government officials ordered extinction of the natives in the OvaHerero and Namaqua genocide. In what has been called the "first genocide of the 20th century",[8] the Germans systematically killed 10,000 Nama (half the population) and approximately 65,000 Herero (about 80% of the population).[9][10] The survivors, when finally released from detention, were subjected to a policy of dispossession, deportation, forced labor, racial segregation, and discrimination in a system that in many ways anticipated the apartheid established by South Africa in 1948.
 
@@ -36,7 +36,7 @@ South African mandate
 
 During World War I, South African troops under General Louis Botha occupied the territory and deposed the German colonial administration. The end of the war and the Treaty of Versailles left South Africa in possession of South West Africa as a League of Nations mandate.[14] The mandate system was formed as a compromise between those who advocated for an Allied annexation of former German and Turkish territories and a proposition put forward by those who wished to grant them to an international trusteeship until they could govern themselves.[15] It permitted the South African government to administer South West Africa until that territory's inhabitants were prepared for political self-determination.[16] South Africa interpreted the mandate as a veiled annexation and made no attempt to prepare South West Africa for future autonomy.[17]
 
-As a result of the Conference on International Organization in 1945, the League of Nations was formally superseded by the United Nations (UN) and former League mandates by a trusteeship system. Article 77 of the United Nations Charter stated that UN trusteeship "shall apply...to territories now held under mandate"; furthermore, it would "be a matter of subsequent agreement as to which territories in the foregoing territories will be brought under the trusteeship system and under what terms".[18] The UN requested all former League of Nations mandates be surrendered to its Trusteeship Council in anticipation of their independence.[19] South Africa declined to do so and instead requested permission from the UN to formally annex South West Africa, for which it received considerable criticism.[20] When the UN General Assembly rejected this proposal, South Africa dismissed its opinion and began solidifying control of the territory.[21] The UN responded by deferring to the International Court of Justice (ICJ), which held a number of discussions on the legality of South African rule between 1949 and 1966.[22] Namibia_homelands_78.jpeg Namibia.jpg South Africa began imposing _apartheid,_ its codified system of racial segregation and discrimination, on South West Africa during the late 1940s.[23] Black South West Africans were subject to pass laws, curfews, and a host of draconian residential regulations that heavily restricted their movement. Development was concentrated in the region of the country immediately adjacent to South Africa, formally called the "Police Zone", where most of the German colonial era settlements and mines were. Outside the Police Zone, indigenous peoples were restricted to theoretically self-governing tribal homelands.[24]
+As a result of the Conference on International Organization in 1945, the League of Nations was formally superseded by the United Nations (UN) and former League mandates by a trusteeship system. Article 77 of the United Nations Charter stated that UN trusteeship "shall apply...to territories now held under mandate"; furthermore, it would "be a matter of subsequent agreement as to which territories in the foregoing territories will be brought under the trusteeship system and under what terms".[18] The UN requested all former League of Nations mandates be surrendered to its Trusteeship Council in anticipation of their independence.[19] South Africa declined to do so and instead requested permission from the UN to formally annex South West Africa, for which it received considerable criticism.[20] When the UN General Assembly rejected this proposal, South Africa dismissed its opinion and began solidifying control of the territory.[21] The UN responded by deferring to the International Court of Justice (ICJ), which held a number of discussions on the legality of South African rule between 1949 and 1966.[22] South Africa began imposing _apartheid,_ its codified system of racial segregation and discrimination, on South West Africa during the late 1940s.[23] Black South West Africans were subject to pass laws, curfews, and a host of draconian residential regulations that heavily restricted their movement. Development was concentrated in the region of the country immediately adjacent to South Africa, formally called the "Police Zone", where most of the German colonial era settlements and mines were. Outside the Police Zone, indigenous peoples were restricted to theoretically self-governing tribal homelands.[24]
 
 During the late 1950s and early 1960s, pressure for global decolonisation and national self-determination began mounting on the African continent; these factors had a radical impact on South West African nationalism. Early nationalist organisations such as the South West African National Union (SWANU) and South West African People's Organisation (SWAPO) made determined attempts to establish indigenous political structures for an independent South West Africa.[25] In 1966, following the ICJ's controversial ruling that it had no legal standing to consider the question of South African rule, SWAPO launched an armed insurgency that escalated into part of a wider regional conflict known as the South African Border War.[26]
 
@@ -44,7 +44,7 @@ Independence
 
 As SWAPO's insurgency intensified, South Africa's case for annexation in the international community continued to decline.[27] The UN declared that South Africa had failed in its obligations to ensure the moral and material well-being of South West Africa's indigenous inhabitants and had thus disavowed its own mandate.[28] On 12 June 1968, the UN General Assembly adopted a resolution proclaiming that, in accordance with the desires of its people, South West Africa be renamed _Namibia_.[29] United Nations Security Council Resolution 269, adopted in August 1969, declared South Africa's continued occupation of Namibia illegal.[30][31] In recognition of this landmark decision, SWAPO's armed wing was renamed the People's Liberation Army of Namibia (PLAN).[32]
 
-Namibia became one of several flashpoints for Cold War proxy conflicts in southern Africa during the latter years of the PLAN insurgency.[33] The insurgents sought out weapons and sent recruits to the Soviet Union for military training.[34] SWAPO's political leadership, dependent on military aid from the Soviets, Cuba, and Angola, positioned the movement within the socialist bloc by 1975.[35] This practical alliance reinforced the prevailing perspective of SWAPO as a Soviet proxy, which dominated Cold War ideology in South Africa and the United States.[36] For its part, the Soviet Union supported SWAPO partly because it viewed South Africa as a regional Western ally.[37] SADF-Operations_4.jpg Growing war weariness and the reduction of tensions between the superpowers compelled South Africa, Angola, and Cuba to accede to the Tripartite Accord, under pressure from both the Soviet Union and the United States.[38] South Africa accepted Namibian independence in exchange for Cuban military withdrawal from the region and an Angolan commitment to cease all aid to PLAN.[39] PLAN and South Africa adopted an informal ceasefire in August 1988, and a United Nations Transition Assistance Group (UNTAG) was formed to monitor the Namibian peace process and supervise the return of refugees.[40] The ceasefire was broken after PLAN made a final incursion into the territory, possibly as a result of misunderstanding UNTAG's directives, in March 1989.[41] A new ceasefire was later imposed with the condition that the insurgents were to be confined to their external bases in Angola until they could be disarmed and demobilised by UNTAG.[42][43]
+Namibia became one of several flashpoints for Cold War proxy conflicts in southern Africa during the latter years of the PLAN insurgency.[33] The insurgents sought out weapons and sent recruits to the Soviet Union for military training.[34] SWAPO's political leadership, dependent on military aid from the Soviets, Cuba, and Angola, positioned the movement within the socialist bloc by 1975.[35] This practical alliance reinforced the prevailing perspective of SWAPO as a Soviet proxy, which dominated Cold War ideology in South Africa and the United States.[36] For its part, the Soviet Union supported SWAPO partly because it viewed South Africa as a regional Western ally.[37] Growing war weariness and the reduction of tensions between the superpowers compelled South Africa, Angola, and Cuba to accede to the Tripartite Accord, under pressure from both the Soviet Union and the United States.[38] South Africa accepted Namibian independence in exchange for Cuban military withdrawal from the region and an Angolan commitment to cease all aid to PLAN.[39] PLAN and South Africa adopted an informal ceasefire in August 1988, and a United Nations Transition Assistance Group (UNTAG) was formed to monitor the Namibian peace process and supervise the return of refugees.[40] The ceasefire was broken after PLAN made a final incursion into the territory, possibly as a result of misunderstanding UNTAG's directives, in March 1989.[41] A new ceasefire was later imposed with the condition that the insurgents were to be confined to their external bases in Angola until they could be disarmed and demobilised by UNTAG.[42][43]
 
 By the end of the 11-month transition period, the last South African troops had been withdrawn from Namibia, all political prisoners granted amnesty, racially discriminatory legislation repealed, and 42,000 Namibian refugees returned to their homes. Just over 97% of eligible voters participated in the country's first parliamentary elections held under a universal franchise.[44] The United Nations plan included oversight by foreign election observers in an effort to ensure a free and fair election. SWAPO won a plurality of seats in the Constituent Assembly with 57% of the popular vote.[45] This gave the party 41 seats, but not a two-thirds majority, which would have enabled it to draft the constitution on its own.[46]
 
@@ -61,7 +61,7 @@ In 1999, the national government quashed a secessionist attempt in the northeast
 
 Geography
 
-Namib_Desert_Namibia(2).jpg, Namibia]] Namibia_Natural_Earth_1.jpg Namibia_map_of_Köppen_climate_classification.svg At ,[52] Namibia is the world's thirty-fourth largest country (after Venezuela). It lies mostly between latitudes 17° and 29°S (a small area is north of 17°), and longitudes 11° and 26°E.
+, Namibia]] At ,[52] Namibia is the world's thirty-fourth largest country (after Venezuela). It lies mostly between latitudes 17° and 29°S (a small area is north of 17°), and longitudes 11° and 26°E.
 
 Being situated between the Namib and the Kalahari deserts, Namibia has the least rainfall of any country in sub-Saharan Africa.[53]
 
@@ -79,11 +79,11 @@ The Kalahari Desert, an arid region that extends into South Africa and Botswana,
 
 Namibia's Coastal Desert is one of the oldest deserts in the world. Its sand dunes, created by the strong onshore winds, are the highest in the world.[60] Because of the location of the shoreline, at the point where the Atlantic's cold water reaches Africa's hot climate, often extremely dense fog forms along the coast.[61] Near the coast there are areas where the dunes are vegetated with hammocks.[62] Namibia has rich coastal and marine resources that remain largely unexplored.[63]
 
-SAC_Namibia-cactus.jpg]]
+]]
 
 Climate
 
-Namibia-1113.jpg Namibia extends from 17°S to 25°S latitude: climatically the range of the sub-Tropical High Pressure Belt. Its overall climate description is arid, descending from the Sub-Humid [mean rain above ] through Semi-Arid [between ] (embracing most of the waterless Kalahari) and Arid [from ] (these three regions are inland from the western escarpment) to the Hyper-Arid coastal plain [less than ]. Temperature maxima are limited by the overall elevation of the entire region: only in the far south, Warmbad for instance, are mid- maxima recorded.[64]
+Namibia extends from 17°S to 25°S latitude: climatically the range of the sub-Tropical High Pressure Belt. Its overall climate description is arid, descending from the Sub-Humid [mean rain above ] through Semi-Arid [between ] (embracing most of the waterless Kalahari) and Arid [from ] (these three regions are inland from the western escarpment) to the Hyper-Arid coastal plain [less than ]. Temperature maxima are limited by the overall elevation of the entire region: only in the far south, Warmbad for instance, are mid- maxima recorded.[64]
 
 Typically the sub-Tropical High Pressure Belt, with frequent clear skies, provides more than 300 days of sunshine per year. It is situated at the southern edge of the tropics; the Tropic of Capricorn cuts the country about in half. The winter (June – August) is generally dry. Both rainy seasons occur in summer: the small rainy season between September and November, the big one between February and April.[65] Humidity is low, and average rainfall varies from almost zero in the coastal desert to more than in the Caprivi Strip. Rainfall is highly variable, and droughts are common.[66] The rainy season with rainfall far below the annual average occurred in summer 2006/07.[67]
 
@@ -101,14 +101,14 @@ More than 100,000 boreholes have been drilled in Namibia over the past century. 
 
 Communal Wildlife Conservancies
 
-SAC_Namibia-bushveld.jpg]] Namibia is one of few countries in the world to specifically address conservation and protection of natural resources in its constitution.[78] Article 95 states, "The State shall actively promote and maintain the welfare of the people by adopting international policies aimed at the following: maintenance of ecosystems, essential ecological processes, and biological diversity of Namibia, and utilisation of living natural resources on a sustainable basis for the benefit of all Namibians, both present and future."[79]
+]] Namibia is one of few countries in the world to specifically address conservation and protection of natural resources in its constitution.[78] Article 95 states, "The State shall actively promote and maintain the welfare of the people by adopting international policies aimed at the following: maintenance of ecosystems, essential ecological processes, and biological diversity of Namibia, and utilisation of living natural resources on a sustainable basis for the benefit of all Namibians, both present and future."[79]
 
 In 1993, Namibia's newly formed government received funding from the United States Agency for International Development (USAID) through its Living in a Finite Environment (LIFE) Project.[80] The Ministry of Environment and Tourism, with financial support from organisations such as USAID, Endangered Wildlife Trust, WWF, and Canadian Ambassador's Fund, together form a Community Based Natural Resource Management (CBNRM) support structure. The project's main goal is to promote sustainable natural resource management by giving local communities rights to wildlife management and tourism.[81]
 
 
 Politics and government
 
-Tintenpalast-Windhoek.jpg, the centre of Namibia's government
+, the centre of Namibia's government
 
 ]]
 
@@ -136,7 +136,7 @@ The United Nations Transitional Assistance Group (UNTAG)'s Kenyan infantry batta
 
 Administrative divisions
 
-Namibia_numbered_colored_regions_English1.png: ]] Namibia is divided into 14 regions and subdivided into 121 constituencies. The administrative division of Namibia is tabled by _Delimitation Commissions_ and accepted or declined by the National Assembly. Since state foundation four Delimitation Commissions have delivered their work, the last one in 2013 under the chairmanship of Judge Alfred Siboleka.[94]
+: ]] Namibia is divided into 14 regions and subdivided into 121 constituencies. The administrative division of Namibia is tabled by _Delimitation Commissions_ and accepted or declined by the National Assembly. Since state foundation four Delimitation Commissions have delivered their work, the last one in 2013 under the chairmanship of Judge Alfred Siboleka.[94]
 
 Regional councillors are directly elected through secret ballots (regional elections) by the inhabitants of their constituencies.[95]
 
@@ -145,7 +145,7 @@ Local authorities in Namibia can be in the form of municipalities (either Part 1
 
 Economy
 
-Downtown_Windhoek,_Independence_Avenue.jpg]] Tsumeb-Main_Road.JPG's main road]]
+]] 's main road]]
 
 Namibia's economy is tied closely to South Africa's due to their shared history.[97][98] The largest economic sectors are mining (10.4% of the gross domestic product in 2009), agriculture (5.0%), manufacturing (13.5%), and tourism.[99]
 
@@ -161,7 +161,7 @@ The cost of living in Namibia is relatively high because most goods, including c
 
 Taxation in Namibia includes personal income tax, which is applicable to total taxable income of an individual. All individuals are taxed at progressive marginal rates over a series of income brackets. The value added tax (VAT) is applicable to most of the commodities and services.[108]
 
-Sandstorm_while_driving_from_Swakopmund_to_Walfish_Bay,_2005.jpg between Swakopmund and Walvis Bay, Namibia]] Despite the remote nature of much of the country, Namibia has seaports, airports, highways, and railways (narrow-gauge). It seeks to become a regional transportation hub; it has an important seaport and several landlocked neighbours. The Central Plateau already serves as a transportation corridor from the more densely populated north to South Africa, the source of four-fifths of Namibia's imports.[109]
+between Swakopmund and Walvis Bay, Namibia]] Despite the remote nature of much of the country, Namibia has seaports, airports, highways, and railways (narrow-gauge). It seeks to become a regional transportation hub; it has an important seaport and several landlocked neighbours. The Central Plateau already serves as a transportation corridor from the more densely populated north to South Africa, the source of four-fifths of Namibia's imports.[109]
 
 Income disparity
 
@@ -169,7 +169,7 @@ According to recent statistics on the country's income share held by the highest
 
 Agriculture
 
-Schildburgsdorf.jpg]] About half of the population depends on agriculture (largely subsistence agriculture) for its livelihood, but Namibia must still import some of its food. Although per capita GDP is five times the per capita GDP of Africa's poorest countries, the majority of Namibia's people live in rural areas and have a subsistence way of life. Namibia has one of the highest rates of income inequality in the world, due in part to the fact that there is an urban economy and a more rural cashless economy. The inequality figures thus take into account people who do not actually rely on the formal economy for their survival. Although arable land accounts for only 1% of Namibia, nearly half of the population is employed in agriculture.[110]
+]] About half of the population depends on agriculture (largely subsistence agriculture) for its livelihood, but Namibia must still import some of its food. Although per capita GDP is five times the per capita GDP of Africa's poorest countries, the majority of Namibia's people live in rural areas and have a subsistence way of life. Namibia has one of the highest rates of income inequality in the world, due in part to the fact that there is an urban economy and a more rural cashless economy. The inequality figures thus take into account people who do not actually rely on the formal economy for their survival. Although arable land accounts for only 1% of Namibia, nearly half of the population is employed in agriculture.[110]
 
 About 4,000, mostly white, commercial farmers own almost half of Namibia's arable land.[111] The governments of Germany and Britain will finance Namibia's land reform process, as Namibia plans to start expropriating land from white farmers to resettle landless black Namibians.[112]
 
@@ -187,7 +187,7 @@ Although much of the world's diamond supply comes from what have been called Afr
 
 Tourism
 
-Equus_burchelli_4.jpg, is one focus of tourism.]] Tourism is a major contributor (14.5%) to Namibia's GDP, creating tens of thousands of jobs (18.2% of all employment) directly or indirectly and servicing over a million tourists per year.[121] The country is a prime destination in Africa and is known for ecotourism, which features Namibia's extensive wildlife.[122]
+, is one focus of tourism.]] Tourism is a major contributor (14.5%) to Namibia's GDP, creating tens of thousands of jobs (18.2% of all employment) directly or indirectly and servicing over a million tourists per year.[121] The country is a prime destination in Africa and is known for ecotourism, which features Namibia's extensive wildlife.[122]
 
 There are many lodges and reserves to accommodate eco-tourists. Sport and trophy hunting is also a large and growing component of the Namibian economy, accounting for 14% of total tourism in the year 2000, or 19.6 million US dollars, with Namibia boasting numerous species sought after by international sport hunters.[123]
 
@@ -210,8 +210,6 @@ Apart from residences for upper and middle class households, sanitation is insuf
 
 Demographics
 
-Namibia_Population_Density_(2011).jpg
-
 +------------+
 | Population |
 +============+
@@ -224,13 +222,13 @@ Namibia_Population_Density_(2011).jpg
 |            |
 +------------+
 
-Bevölkerungspyramide_Namibia_2016.png Namibia has the second-lowest population density of any sovereign country, after Mongolia.[140] In 2017 there were on average 3.08 people per km².[141] The total fertility rate in 2015 was 3.47 children per woman according to the UN.
+Namibia has the second-lowest population density of any sovereign country, after Mongolia.[140] In 2017 there were on average 3.08 people per km².[141] The total fertility rate in 2015 was 3.47 children per woman according to the UN.
 
 The majority of the Namibian population is of Bantu-speaking origin—mostly of the Ovambo ethnicity, which forms about half of the population—residing mainly in the north of the country, although many are now resident in towns throughout Namibia. Other ethnic groups are the Herero and Himba people, who speak a similar language, and the Damara, who speak the same "click" language as the Nama.
 
-In addition to the Bantu majority, there are large groups of Khoisan (such as Nama and San), who are descendants of the original inhabitants of Southern Africa. The country also contains some descendants of refugees from Angola. There are also two smaller groups of people with mixed racial origins, called "Coloureds" and "Basters", who together make up 8.0% (with the Coloureds outnumbering the Basters two to one). There is a substantial Chinese minority in Namibia; it stood at 40,000 in 2006.[142] Himba_Woman_and_Family.JPG in northern Namibia]]
+In addition to the Bantu majority, there are large groups of Khoisan (such as Nama and San), who are descendants of the original inhabitants of Southern Africa. The country also contains some descendants of refugees from Angola. There are also two smaller groups of people with mixed racial origins, called "Coloureds" and "Basters", who together make up 8.0% (with the Coloureds outnumbering the Basters two to one). There is a substantial Chinese minority in Namibia; it stood at 40,000 in 2006.[142] in northern Namibia]]
 
-Whites (mainly of Afrikaner, German, British and Portuguese origin) make up between 4.0 and 7.0% of the population. Although their proportion of the population decreased after independence due to emigration and lower birth rates, they still form the second-largest population of European ancestry, both in terms of percentage and actual numbers, in Sub-Saharan Africa (after South Africa).[143] The majority of Namibian whites and nearly all those who are mixed race speak Afrikaans and share similar origins, culture, and religion as the white and coloured populations of South Africa. A large minority of whites (around 30,000) trace their family origins back to the German settlers who colonized Namibia prior to the British confiscation of German lands after World War I, and they maintain German cultural and educational institutions. Nearly all Portuguese settlers came to the country from the former Portuguese colony of Angola.[144] The 1960 census reported 526,004 persons in what was then South West Africa, including 73,464 whites (14%).[145] Children_in_Namibia(1_cropped).jpg
+Whites (mainly of Afrikaner, German, British and Portuguese origin) make up between 4.0 and 7.0% of the population. Although their proportion of the population decreased after independence due to emigration and lower birth rates, they still form the second-largest population of European ancestry, both in terms of percentage and actual numbers, in Sub-Saharan Africa (after South Africa).[143] The majority of Namibian whites and nearly all those who are mixed race speak Afrikaans and share similar origins, culture, and religion as the white and coloured populations of South Africa. A large minority of whites (around 30,000) trace their family origins back to the German settlers who colonized Namibia prior to the British confiscation of German lands after World War I, and they maintain German cultural and educational institutions. Nearly all Portuguese settlers came to the country from the former Portuguese colony of Angola.[144] The 1960 census reported 526,004 persons in what was then South West Africa, including 73,464 whites (14%).[145]
 
 Namibia conducts a census every ten years. After independence the first Population and Housing Census was carried out in 1991; further rounds followed in 2001 and 2011.[146] The data collection method is to count every person resident in Namibia on the census reference night, wherever they happen to be. This is called the _de facto_ method.[147] For enumeration purposes the country is demarcated into 4,042 _enumeration areas_. These areas do not overlap with constituency boundaries to get reliable data for election purposes as well.[148]
 
@@ -238,7 +236,7 @@ The 2011 Population and Housing Census counted 2,113,077 inhabitants. Between 20
 
 Religion
 
-Swakopmund_ev-luth_Kirche_1.jpg]]
+]]
 
 The Christian community makes up 80%–90% of the population of Namibia, with at least 75% being Protestant, and at least 50% Lutheran. Lutherans are the largest religious group, a legacy of the German and Finnish missionary work during the country's colonial times. 10%–20% of the population hold indigenous beliefs.[150]
 
@@ -248,7 +246,7 @@ Islam in Namibia is subscribed to by about 9,000 people,[151] many of them Nama.
 
 Languages
 
-NamibiaMehrsprachigkeit.jpg and Oshiwambo.]] Up to 1990, English, German, and Afrikaans were official languages. Long before Namibia's independence from South Africa, SWAPO was of the opinion that the country should become officially monolingual, choosing this approach in contrast to that of its neighbour South Africa (which granted all 11 of its major languages official status), which it saw as "a deliberate policy of ethnolinguistic fragmentation."[154] Consequently, SWAPO instituted English as Namibia's sole official language though only about 3% of the population speaks it as a home language. Its implementation is focused on the civil service, education and the broadcasting system, especially the state broadcaster NBC.[155] Some other languages have received semi-official recognition by being allowed as medium of instruction in primary schools. Private schools are expected to follow the same policy as state schools, and "English language" is a compulsory subject.[156] Some critics argue that, as in other postcolonial African societies, the push for monolingual instruction and policy has resulted in a high rate of school dropouts and of individuals whose academic competence in any language is low.[157]
+and Oshiwambo.]] Up to 1990, English, German, and Afrikaans were official languages. Long before Namibia's independence from South Africa, SWAPO was of the opinion that the country should become officially monolingual, choosing this approach in contrast to that of its neighbour South Africa (which granted all 11 of its major languages official status), which it saw as "a deliberate policy of ethnolinguistic fragmentation."[154] Consequently, SWAPO instituted English as Namibia's sole official language though only about 3% of the population speaks it as a home language. Its implementation is focused on the civil service, education and the broadcasting system, especially the state broadcaster NBC.[155] Some other languages have received semi-official recognition by being allowed as medium of instruction in primary schools. Private schools are expected to follow the same policy as state schools, and "English language" is a compulsory subject.[156] Some critics argue that, as in other postcolonial African societies, the push for monolingual instruction and policy has resulted in a high rate of school dropouts and of individuals whose academic competence in any language is low.[157]
 
 According to the 2011 census, the most common languages are Oshiwambo (the most spoken language for 49% of households),[158] Nama/Damara (11.3%), Afrikaans (10.4%), Kavango (9%), and Otjiherero (9%).[159][160] The most widely understood national language is Afrikaans, the country's lingua franca. Both Afrikaans and English are used primarily as a second language reserved for public communication. A complete list of languages according to the 2011 census is 48.9% Oshiwambo, 11.3% Nama/Damara, 10.4% Afrikaans, 8.6% Otjiherero, 8.5% Kavango, 4.8% Caprivi Languages, 3.4% English, 1.2% Other African Languages, 0.9% German, 0.8% San, 0.7% Other European Languages, 0.3% Setswana, and 0.1% Asian Languages.[161]
 
@@ -259,7 +257,7 @@ Largest cities
 
 Sport
 
-Namibia_Rugby_Team.jpg]] The most popular sport in Namibia is association football. The Namibia national football team qualified for the 1998 Africa Cup of Nations, 2008 Africa Cup of Nations and 2019 Africa Cup of Nations but has yet to qualify for any World Cups.
+]] The most popular sport in Namibia is association football. The Namibia national football team qualified for the 1998 Africa Cup of Nations, 2008 Africa Cup of Nations and 2019 Africa Cup of Nations but has yet to qualify for any World Cups.
 
 The most successful national team is the Namibian rugby team, having competed in five separate World Cups. Namibia were participants in the 1999, 2003, 2007, 2011 and 2015 Rugby World Cups. Cricket is also popular, with the national side having played in the 2003 Cricket World Cup. In December 2017, Namibia Cricket reached the final of the Cricket South Africa (CSA) Provincial One Day Challenge for the first time.[164] In February 2018 Namibia hosted the ICC World Cricket League Division 2 with Namibia, Kenya, UAE, Nepal, Canada and Oman to compete for the final two ICC Cricket World Cup Qualifier positions in Zimbabwe.[165]
 
@@ -283,7 +281,7 @@ Media and journalists in Namibia are represented by the Namibian chapter of the 
 
 Education
 
-42817_06.JPG Namibia has free education for both primary and secondary education levels. Grades 1–7 are primary level, grades 8–12 are secondary. In 1998, there were 400,325 Namibian students in primary school and 115,237 students in secondary schools. The pupil-teacher ratio in 1999 was estimated at 32:1, with about 8% of the GDP being spent on education.[182] Curriculum development, educational research, and professional development of teachers is centrally organised by the National Institute for Educational Development (NIED) in Okahandja.[183]
+Namibia has free education for both primary and secondary education levels. Grades 1–7 are primary level, grades 8–12 are secondary. In 1998, there were 400,325 Namibian students in primary school and 115,237 students in secondary schools. The pupil-teacher ratio in 1999 was estimated at 32:1, with about 8% of the GDP being spent on education.[182] Curriculum development, educational research, and professional development of teachers is centrally organised by the National Institute for Educational Development (NIED) in Okahandja.[183]
 
 Most schools in Namibia are state-run, but there are some private schools, which are also part of the country's education system. There are four teacher training universities, three colleges of agriculture, a police training college, and three universities: University of Namibia (UNAM), International University of Management (IUM) and Namibia University of Science and Technology (NUST).
 
@@ -304,17 +302,17 @@ Namibia faces non-communicable disease burden. The Demographic and Health Survey
 -   Sixty-seven percent of women and 74 percent of men with diabetes are taking medication to lower their blood glucose.
 -   Women and men with a higher-than-normal body mass index (25.0 or higher) are more likely to have elevated blood pressure and elevated fasting blood glucose.[187] 
 
-Estimated percentage of HIV among young adults (15–49) per country .[188] The HIV epidemic remains a public health issue in Namibia despite significant achievements made by the Ministry of Health and Social Services to expand HIV treatment services.[189] In 2001, there were an estimated 210,000 people living with HIV/AIDS, and the estimated death toll in 2003 was 16,000. According to the 2011 UNAIDS Report, the epidemic in Namibia "appears to be leveling off."[190] As the HIV/AIDS epidemic has reduced the working-aged population, the number of orphans has increased. It falls to the government to provide education, food, shelter and clothing for these orphans.[191] A Demographic and Health Survey with an HIV biomarker was completed in 2013 and served as the fourth comprehensive, national-level population and health survey conducted in Namibia as part of the global Demographic and Health Surveys (DHS) programme. The DHS observed important characteristics associated to the HIV epidemic:
+The HIV epidemic remains a public health issue in Namibia despite significant achievements made by the Ministry of Health and Social Services to expand HIV treatment services.[188] In 2001, there were an estimated 210,000 people living with HIV/AIDS, and the estimated death toll in 2003 was 16,000. According to the 2011 UNAIDS Report, the epidemic in Namibia "appears to be leveling off."[189] As the HIV/AIDS epidemic has reduced the working-aged population, the number of orphans has increased. It falls to the government to provide education, food, shelter and clothing for these orphans.[190] A Demographic and Health Survey with an HIV biomarker was completed in 2013 and served as the fourth comprehensive, national-level population and health survey conducted in Namibia as part of the global Demographic and Health Surveys (DHS) programme. The DHS observed important characteristics associated to the HIV epidemic:
 
 -   Overall, 26 percent of men age 15–49 and 32 percent of those age 50–64 have been circumcised. HIV prevalence for men age 15–49 is lower among circumcised (8.0 percent) than among uncircumcised men (11.9 percent). The pattern of lower HIV prevalence among circumcised than uncircumcised men is observed across most background characteristics. For each age group, circumcised men have lower HIV prevalence than those who are not circumcised; the difference is especially pronounced for men age 35–39 and 45–49 (11.7 percentage points each). The difference in HIV prevalence between uncircumcised and circumcised men is larger among urban than rural men (5.2 percentage points versus 2.1 percentage points).
 -   HIV prevalence among respondents age 15–49 is 16.9 percent for women and 10.9 percent for men. HIV prevalence rates among women and men age 50–64 are similar (16.7 percent and 16.0 percent, respectively).
 -   HIV prevalence peaks in the 35–39 age group for both women and men (30.9 percent and 22.6 percent, respectively). It is lowest among respondents age 15–24 (2.5–6.4 percent for women and 2.0–3.4 percent for men).
 -   Among respondents age 15–49, HIV prevalence is highest for women and men in Zambezi (30.9 percent and 15.9 percent, respectively) and lowest for women in Omaheke (6.9 percent) and men in Ohangwena (6.6 percent).
--   In 76.4 percent of the 1,007 cohabiting couples who were tested for HIV in the 2013 NDHS, both partners were HIV negative; in 10.1 percent of the couples, both partners were HIV positive; and 13.5 percent of the couples were discordant (that is, one partner was infected with HIV and the other was not).[192]
+-   In 76.4 percent of the 1,007 cohabiting couples who were tested for HIV in the 2013 NDHS, both partners were HIV negative; in 10.1 percent of the couples, both partners were HIV positive; and 13.5 percent of the couples were discordant (that is, one partner was infected with HIV and the other was not).[191]
 
-As of 2015, the Ministry of Health and Social Services and UNAIDS produced a Progress Report in which UNAIDS projected HIV prevalence among 15 – 49 year olds at 13.3% [12.2% – 14.5%] and an estimated 210 000 [200 000 – 230 000] living with HIV.[193]
+As of 2015, the Ministry of Health and Social Services and UNAIDS produced a Progress Report in which UNAIDS projected HIV prevalence among 15 – 49 year olds at 13.3% [12.2% – 14.5%] and an estimated 210 000 [200 000 – 230 000] living with HIV.[192]
 
-The malaria problem seems to be compounded by the AIDS epidemic.[194] Research has shown that in Namibia the risk of contracting malaria is 14.5% greater if a person is also infected with HIV.[195] The risk of death from malaria is also raised by approximately 50% with a concurrent HIV infection.[196] The country had only 598 physicians in 2002.[197]
+The malaria problem seems to be compounded by the AIDS epidemic.[193] Research has shown that in Namibia the risk of contracting malaria is 14.5% greater if a person is also infected with HIV.[194] The risk of death from malaria is also raised by approximately 50% with a concurrent HIV infection.[195] The country had only 598 physicians in 2002.[196]
 
 
 See also
@@ -741,5 +739,3 @@ Namibia Category:Southern African countries Category:Member states of the Africa
 [195]
 
 [196]
-
-[197]

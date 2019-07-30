@@ -5,12 +5,12 @@ With six _Mario Kart_ games released on home consoles, three on portable handhel
 
 History
 
-Mario_kart_first_logo.png The first title in the _Mario Kart_ series, _Super Mario Kart,_ was released for the Super Nintendo Entertainment System in 1992. The development of the first game was overseen by Shigeru Miyamoto, the Japanese video game designer who created the original _Super Mario Bros._, as well as many other successful games for Nintendo. Darran Jones of NowGamer suggests that the original success of _Super Mario Kart_ was the result of including characters previously seen in _Mario Bros._ games, while also being a new type of racing game.[3]
+The first title in the _Mario Kart_ series, _Super Mario Kart,_ was released for the Super Nintendo Entertainment System in 1992. The development of the first game was overseen by Shigeru Miyamoto, the Japanese video game designer who created the original _Super Mario Bros._, as well as many other successful games for Nintendo. Darran Jones of NowGamer suggests that the original success of _Super Mario Kart_ was the result of including characters previously seen in _Mario Bros._ games, while also being a new type of racing game.[3]
 
 
 Gameplay
 
-MK8_Mario_Circuit.jpg''.]] In the _Mario Kart_ series, players compete in go-kart races, controlling one of a selection of characters, typically from the _Mario_ franchise. Up to twelve characters can compete in each race, the exact number varies between games.
+''.]] In the _Mario Kart_ series, players compete in go-kart races, controlling one of a selection of characters, typically from the _Mario_ franchise. Up to twelve characters can compete in each race, the exact number varies between games.
 
 One of the features of the series is the use of various power-up items obtained by driving into item boxes laid out on the course. These power-ups include mushrooms to give players a speed boost, Koopa Shells to be thrown at opponents, banana peels, and fake item boxes that can be laid on the course as hazards. The type of weapon received from an item box is influenced by the player's current position in the race.[4] For example, players lagging far behind may receive more powerful items while the leader may only receive small defensive items. Called rubber banding, this gameplay mechanism allows other players or computers a realistic chance to catch up to the leading player. They can also perform driving techniques during the race such as mini-turbos, slipstreams, and rocket starts.
 
@@ -126,7 +126,7 @@ In the portable entries, the series also performed outstanding sales. _Mario Kar
 
 Rental go-kart dispute
 
-Mario_Kart_in_Japan_(27228418683).jpg, Tokyo]] In September 2016, Nintendo filed an objection against the Japanese company MariCar, which rents go-karts modified for use on public roads in Tokyo along with costumes resembling Nintendo characters.[41] MariCar's English website warned customers not to throw "banana peels" or "red turtle shells".[42] The service is popular with tourists.[43]
+, Tokyo]] In September 2016, Nintendo filed an objection against the Japanese company MariCar, which rents go-karts modified for use on public roads in Tokyo along with costumes resembling Nintendo characters.[41] MariCar's English website warned customers not to throw "banana peels" or "red turtle shells".[42] The service is popular with tourists.[43]
 
 Nintendo argued that the MariCar name was "intended to be mistaken for or confused with" _Mario Kart_, citing games commonly known by abbreviations in Japan, such as _Pokémon_ (for _Pocket Monsters_) and Sumabura (_Super Smash Bros._). In January 2017, the Japan Patent Office dismissed the objection, ruling that MariCar was not widely recognized as an abbreviation of _Mario Kart_.[44]
 

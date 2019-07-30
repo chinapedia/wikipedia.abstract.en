@@ -3,8 +3,6 @@ NORN is an extinct North Germanic language that was spoken in the Northern Isles
 
 History
 
-Languages of Scotland around the early 15th century, based on placename evidence.
-
 Norse settlement in the islands probably began in the early 9th century.[1] These settlers are believed to have arrived in very substantial numbers and like those who migrated to Iceland and the Faroe Islands it is probable that most came from the west coast of Norway.[2] Shetland toponymy bears some resemblance to that of northwest Norway, while Norn vocabulary implies links with more southerly Norwegian regions.[3]
 
 Orkney and Shetland were pledged to James III in 1468 and 1469 respectively, and it is with these pledges that the replacement of Norn with Scots is most associated. However, the decline of Norse speech in Orkney probably began in 1379 when the earldom passed into the hands of the Sinclairs, and Scots had superseded Norse as the language of prestige on the island by the early 15th century.[4] In Shetland the transition began later, but by the end of the 15th century both island groups were bilingual.[5] Despite this, the process by which Scots overtook Norn as the primary spoken language on the islands was not a swift one,[6] and most natives of Orkney and Shetland likely spoke Norn as a first language until the late 16th and early-to-mid 17th centuries respectively.[7]
@@ -37,7 +35,7 @@ The features of Norn grammar were very similar to the other Scandinavian languag
 
 Sample text
 
-Faroe_stamp_047_europe_(jakob_jakobsen).jpg was a Faroese linguist and leading documentarist of Norn]] The following are Norn and Old Norse versions of the Lord's Prayer:[16]
+was a Faroese linguist and leading documentarist of Norn]] The following are Norn and Old Norse versions of the Lord's Prayer:[16]
 
 -   Orkney Norn:
 
@@ -123,7 +121,7 @@ The answer is a cow: four nipples hang, four legs walk, two horns and two ears s
 
 Modern use
 
-Yellferries.jpg, Yell, Shetland.]]
+, Yell, Shetland.]]
 
 Most of the use of Norn/Norse in modern-day Shetland and Orkney is purely ceremonial, and mostly in Old Norse, for example the Shetland motto, which is __ ("with law shall land be built") which is the same motto used by the Icelandic police force and inspired by the old Norwegian Frostathing Law.
 

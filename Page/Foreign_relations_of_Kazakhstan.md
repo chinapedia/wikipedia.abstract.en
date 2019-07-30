@@ -406,8 +406,6 @@ The concept of the WAC Plan, based on democratic principles and the interests of
 
 Overview
 
-Diplomatic_relations_of_Kazakhstan.svg
-
 Kazakhstan has established diplomatic relations with 130 sovereign entities (including the Vatican City, Order of Malta and State of Palestine)[152] and the European Union.[153][154]
 
 Kazakhstan has not yet established diplomatic relations with:

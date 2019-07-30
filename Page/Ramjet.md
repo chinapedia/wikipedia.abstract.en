@@ -1,5 +1,3 @@
-Ramjet_operation.svg
-
 A RAMJET, sometimes referred to as a FLYING STOVEPIPE or an ATHODYD (AERO THERMODYNAMIC DUCT), is a form of airbreathing jet engine that uses the engine's forward motion to compress incoming air without an axial compressor or a centrifugal compressor. Because ramjets cannot produce thrust at zero airspeed, they cannot move an aircraft from a standstill. A ramjet-powered vehicle, therefore, requires an assisted take-off like a rocket assist to accelerate it to a speed where it begins to produce thrust. Ramjets work most efficiently at supersonic speeds around . This type of engine can operate up to speeds of .
 
 Ramjets can be particularly useful in applications requiring a small and simple mechanism for high-speed use, such as missiles. Weapon designers are looking to use ramjet technology in artillery shells to give added range; a 120 mm mortar shell, if assisted by a ramjet, is thought to be able to attain a range of .[1] They have also been used successfully, though not efficiently, as tip jets on the end of helicopter rotors.[2]
@@ -21,7 +19,7 @@ The ramjet was conceived in 1913 by French inventor René Lorin, who was granted
 
 Albert Fonó
 
-Albert_Fono's_ramjet-cannonball_in_1915-hu.svg's ramjet-cannonball from 1915]] In 1915, Hungarian inventor Albert Fonó devised a solution for increasing the range of artillery, comprising a gun-launched projectile which was to be united with a ramjet propulsion unit, thus giving a long range from relatively low muzzle velocities, allowing heavy shells to be fired from relatively lightweight guns. Fonó submitted his invention to the Austro-Hungarian Army, but the proposal was rejected.[5] After World War I, Fonó returned to the subject of jet propulsion, in May 1928 describing an "air-jet engine" which he described as being suitable for high-altitude supersonic aircraft, in a German patent application. In an additional patent application, he adapted the engine for subsonic speed. The patent was granted in 1932 after four years of examination (German Patent No. 554,906, 1932-11-02).[6]
+'s ramjet-cannonball from 1915]] In 1915, Hungarian inventor Albert Fonó devised a solution for increasing the range of artillery, comprising a gun-launched projectile which was to be united with a ramjet propulsion unit, thus giving a long range from relatively low muzzle velocities, allowing heavy shells to be fired from relatively lightweight guns. Fonó submitted his invention to the Austro-Hungarian Army, but the proposal was rejected.[5] After World War I, Fonó returned to the subject of jet propulsion, in May 1928 describing an "air-jet engine" which he described as being suitable for high-altitude supersonic aircraft, in a German patent application. In an additional patent application, he adapted the engine for subsonic speed. The patent was granted in 1932 after four years of examination (German Patent No. 554,906, 1932-11-02).[6]
 
 Soviet Union
 
@@ -41,7 +39,7 @@ United States
 
 Gorgon IV
 
-GorgonIV_on_BlackWidow.png in preparation for flight testing]]
+in preparation for flight testing]]
 
 The US Navy developed a series of air-to-air missiles under the name of "Gorgon" using different propulsion mechanisms, including ramjet propulsion. The ramjet Gorgon IVs, made by Glenn Martin, were tested in 1948 and 1949 at Naval Air Station Point Mugu. The ramjet engine itself was designed at the University of Southern California and manufactured by the Marquardt Aircraft Company. The engine was long and in diameter and was positioned below the missile (see photo).
 
@@ -51,8 +49,6 @@ Eminent Swiss astrophysicist Fritz Zwicky was research director at Aerojet and h
 
 France
 
-Leduc_022.JPG
-
 In France, the works of René Leduc were notable. Leduc's Model, the Leduc 0.10 was one of the first ramjet-powered aircraft to fly, in 1949.
 
 The Nord 1500 Griffon reached in 1958.
@@ -60,12 +56,12 @@ The Nord 1500 Griffon reached in 1958.
 
 Engine cycle
 
-Brayton_cycle.svg The Brayton cycle is a thermodynamic cycle that describes the workings of the gas turbine engine, the basis of the airbreathing jet engine and others. It is named after George Brayton, the American engineer who developed it, although it was originally proposed and patented by Englishman John Barber in 1791.[10] It is also sometimes known as the JOULE CYCLE.
+The Brayton cycle is a thermodynamic cycle that describes the workings of the gas turbine engine, the basis of the airbreathing jet engine and others. It is named after George Brayton, the American engineer who developed it, although it was originally proposed and patented by Englishman John Barber in 1791.[10] It is also sometimes known as the JOULE CYCLE.
 
 
 Design
 
-Ramjet_P280b.jpg A ramjet is designed around its inlet. An object moving at high speed through air generates a high pressure region upstream. A ramjet uses this high pressure in front of the engine to force air through the tube, where it is heated by combusting some of it with fuel. It is then passed through a nozzle to accelerate it to supersonic speeds. This acceleration gives the ramjet forward thrust.
+A ramjet is designed around its inlet. An object moving at high speed through air generates a high pressure region upstream. A ramjet uses this high pressure in front of the engine to force air through the tube, where it is heated by combusting some of it with fuel. It is then passed through a nozzle to accelerate it to supersonic speeds. This acceleration gives the ramjet forward thrust.
 
 A ramjet is sometimes referred to as a "flying stovepipe", a very simple device comprising an air intake, a combustor, and a nozzle. Normally, the only moving parts are those within the turbopump, which pumps the fuel to the combustor in a liquid-fuel ramjet. Solid-fuel ramjets are even simpler.
 
@@ -80,7 +76,7 @@ Ramjets try to exploit the very high dynamic pressure within the air approaching
 
 Most ramjets operate at supersonic flight speeds and use one or more conical (or oblique) shock waves, terminated by a strong normal shock, to slow down the airflow to a subsonic velocity at the exit of the intake. Further diffusion is then required to get the air velocity down to a suitable level for the combustor.
 
-Pitotintake.svg Subsonic ramjets do not need such a sophisticated inlet, since the airflow is already subsonic, and a simple hole is usually used. This would also work at slightly supersonic speeds, but as the air will choke at the inlet, this is inefficient.
+Subsonic ramjets do not need such a sophisticated inlet, since the airflow is already subsonic, and a simple hole is usually used. This would also work at slightly supersonic speeds, but as the air will choke at the inlet, this is inefficient.
 
 The inlet is divergent, to provide a constant inlet speed of .
 
@@ -96,7 +92,7 @@ The propelling nozzle is a critical part of a ramjet design, since it accelerate
 
 For a ramjet operating at a subsonic-flight Mach number, exhaust flow is accelerated through a converging nozzle. For a supersonic-flight Mach number, acceleration is typically achieved by a convergent–divergent nozzle.
 
-Bloodhound_thor_arp_750pix.jpg ramjet engines on a Bristol Bloodhound missile]]
+ramjet engines on a Bristol Bloodhound missile]]
 
 Performance and control
 

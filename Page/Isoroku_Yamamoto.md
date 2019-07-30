@@ -12,14 +12,14 @@ In 1916, Isoroku was adopted into the Yamamoto family (another family of former 
 
 Early career
 
-Yamamoto1905.jpg After graduating from the Imperial Japanese Naval Academy in 1904, Yamamoto served on the armored cruiser during the Russo-Japanese War. He was wounded at the Battle of Tsushima, losing two fingers (the index and middle fingers) on his left hand, as the cruiser was hit repeatedly by the Russian battle line. He returned to the Naval Staff College in 1914, emerging as a lieutenant commander in 1916.
+After graduating from the Imperial Japanese Naval Academy in 1904, Yamamoto served on the armored cruiser during the Russo-Japanese War. He was wounded at the Battle of Tsushima, losing two fingers (the index and middle fingers) on his left hand, as the cruiser was hit repeatedly by the Russian battle line. He returned to the Naval Staff College in 1914, emerging as a lieutenant commander in 1916.
 
 
 1920s and 1930s
 
 Yamamoto was part of the Japanese Navy establishment, who were rivals of the more aggressive army establishment, especially the officers of the Kwantung Army. As such, he promoted a policy of a strong fleet to project force through gunboat diplomacy, rather than a fleet used primarily for transport of invasion land forces, as some of his political opponents in the army wanted.[5] This stance led him to oppose the invasion of China. He also opposed war against the United States partly because of his studies at Harvard University (1919–1921) and his two postings as a naval attaché in Washington, D.C., where he learned to speak fluent English. Yamamoto traveled extensively in the United States during his tour of duty there, where he studied American customs and business practices.
 
-He was promoted to captain in 1923. On February 13, 1924, at the rank of captain, he was part of the Japanese delegation visiting the US Naval War College.[6] Later that year, he changed his specialty from gunnery to naval aviation. His first command was the cruiser in 1928, followed by the aircraft carrier . H78628_Isoroku_Yamamoto.jpg Curtis D. Wilbur.]]
+He was promoted to captain in 1923. On February 13, 1924, at the rank of captain, he was part of the Japanese delegation visiting the US Naval War College.[6] Later that year, he changed his specialty from gunnery to naval aviation. His first command was the cruiser in 1928, followed by the aircraft carrier . Curtis D. Wilbur.]]
 
 He participated in the second London Naval Conference of 1930 as a rear admiral and the 1934 London Naval Conference as a vice admiral, as the growing military influence on the government at the time deemed that a career military specialist needed to accompany the diplomats to the arms limitations talks. Yamamoto was a strong proponent of naval aviation, and served as head of the Aeronautics Department before accepting a post as commander of the First Carrier Division. Yamamoto opposed the Japanese invasion of northeast China in 1931, the subsequent full-scale land war with China in 1937, and the Tripartite Pact with Nazi Germany and fascist Italy in 1940. As Deputy Navy Minister, he apologized to United States Ambassador Joseph C. Grew for the bombing of the gunboat in December 1937. These issues made him a target of assassination threats by pro-war militarists.
 
@@ -29,8 +29,6 @@ The Japanese Army, annoyed at Yamamoto's unflinching opposition to a Rome-Berlin
 
 
 1940–1941
-
-Yamamoto-Isoroku.jpg
 
 Yamamoto was promoted to admiral on November 15, 1940. This, in spite of the fact that when Hideki Tōjō was appointed prime minister on October 18, 1941, many political observers thought that Yamamoto's career was essentially over.[11] Tōjō had been Yamamoto's old opponent from the time when the latter served as Japan's deputy naval minister and Tōjō was the prime mover behind Japan's takeover of Manchuria. It was believed that Yamamoto would be appointed to command the Yokosuka Naval Base, "a nice safe demotion with a big house and no power at all".[12] After the new Japanese cabinet was announced, however, Yamamoto found himself left alone in his position despite his open conflicts with Tōjō and other members of the army's oligarchy who favored war with the European powers and the United States. Two of the main reasons for Yamamoto's political survival were his immense popularity within the fleet, where he commanded the respect of his men and officers, and his close relations with the imperial family.[13] He also had the acceptance of Japan's naval hierarchy:
 
@@ -42,7 +40,7 @@ Yamamoto was responsible for a number of innovations in Japanese naval aviation.
 
 The range of the G3M and G4M contributed to a demand for great range in a fighter aircraft. This partly drove the requirements for the A6M Zero which was as noteworthy for its range as for its maneuverability. Both qualities were again purchased at the expense of light construction and flammability that later contributed to the A6M's high casualty rates as the war progressed.
 
-Yamamoto_h63430.jpg'' in 1940]]
+'' in 1940]]
 
 As Japan moved toward war during 1940, Yamamoto gradually moved toward strategic as well as tactical innovation, again with mixed results. Prompted by talented young officers such as Lieutenant Commander Minoru Genda, Yamamoto approved the reorganization of Japanese carrier forces into the First Air Fleet, a consolidated striking force that gathered Japan's six largest carriers into one unit. This innovation gave great striking capacity, but also concentrated the vulnerable carriers into a compact target. Yamamoto also oversaw the organization of a similar large land-based organization in the 11th Air Fleet, which would later use the G3M and G4M to neutralize American air forces in the Philippines and sink the British "Force Z".
 
@@ -116,13 +114,13 @@ Yamamoto committed Combined Fleet units to a series of small attrition actions a
 
 Death
 
-Yamamoto_last_image_alive.jpg, April 18, 1943]]
+, April 18, 1943]]
 
 To boost morale following the defeat at Guadalcanal, Yamamoto decided to make an inspection tour throughout the South Pacific. On April 14, 1943, the US naval intelligence effort, code-named "Magic", intercepted and decrypted a message containing specifics of Yamamoto's tour, including arrival and departure times and locations, as well as the number and types of aircraft that would transport and accompany him on the journey. Yamamoto, the itinerary revealed, would be flying from Rabaul to Balalae Airfield, on an island near Bougainville in the Solomon Islands, on the morning of April 18, 1943.
 
 US President Franklin D. Roosevelt may have authorized Secretary of the Navy Frank Knox to "get Yamamoto," however no official record of such an order exists[32] and sources disagree whether he did so.[33] Knox essentially let Admiral Chester W. Nimitz make the decision.[34] Nimitz first consulted Admiral William F. Halsey, Jr., Commander, South Pacific, and then authorized the mission on April 17 to intercept Yamamoto's flight _en route_ and shoot it down. A squadron of USAAF Lockheed P-38 Lightning aircraft were assigned the task as only they possessed sufficient range to intercept and engage. Select pilots from three units were informed that they were intercepting an "important high officer" with no specific name given.
 
-Japan-navy-1931-1944-sleeve_30-1-.gif; the rank Yamamoto held at the time of his death.]]
+; the rank Yamamoto held at the time of his death.]]
 
 On the morning of April 18, despite urging by local commanders to cancel the trip for fear of ambush, Yamamoto's two Mitsubishi G4M bombers, used as fast transport aircraft without bombs, left Rabaul as scheduled for the trip. Sixteen P-38 Lightnings intercepted the flight over Bougainville and a dogfight ensued between them and the six escorting Mitsubishi A6M Zeroes. First Lieutenant Rex T. Barber engaged the first of the two Japanese transports, which turned out to be _T1-323_ (Yamamoto's aircraft). He fired on the aircraft until it began to spew smoke from its left engine. Barber turned away to attack the other transport as Yamamoto's plane crashed into the jungle.
 
@@ -140,15 +138,15 @@ Decorations
 
 _From the Japanese Wikipedia_
 
-  --------------------------------------------------------------------------------------------------------------------------------------
-  JPN_Daikun'i_kikkasho_BAR.svg Grand Cordon of the Order of the Chrysanthemum (posthumous appointment, 18 April 1943)
-  JPN_Kyokujitsu-sho_Paulownia_BAR.svg Grand Cordon of the Order of the Rising Sun with Paulownia Flowers (4 April 1942)
-  JPN_Kyokujitsu-sho_1Class_BAR.svg Grand Cordon of the Order of the Rising Sun (29 April 1940)
-  JPN_Zuiho-sho_(WW2)_1Class_BAR.svg Grand Cordon of the Order of the Sacred Treasure (23 March 1939)
-  JPN_Kinshi-kunsho_1Class_BAR.svg Order of the Golden Kite (1st class: 18 April 1943 (posthumous); Second Class: 4 April 1942)
-  Ribbon_of_Order_of_the_German_Eagle.svg Grand Cross of the Order of the German Eagle (Nazi Germany, 9 February 1940)
-  DEU_EK_Ritter_oak-sword_BAR.svg Knight's Cross of the Iron Cross with Oak Leaves and Swords (Nazi Germany, 27 May 1943 (posthumous))
-  --------------------------------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------
+  Grand Cordon of the Order of the Chrysanthemum (posthumous appointment, 18 April 1943)
+  Grand Cordon of the Order of the Rising Sun with Paulownia Flowers (4 April 1942)
+  Grand Cordon of the Order of the Rising Sun (29 April 1940)
+  Grand Cordon of the Order of the Sacred Treasure (23 March 1939)
+  Order of the Golden Kite (1st class: 18 April 1943 (posthumous); Second Class: 4 April 1942)
+  Grand Cross of the Order of the German Eagle (Nazi Germany, 9 February 1940)
+  Knight's Cross of the Iron Cross with Oak Leaves and Swords (Nazi Germany, 27 May 1943 (posthumous))
+  ------------------------------------------------------------------------------------------------------
 
 Yamamoto's career promotions
 

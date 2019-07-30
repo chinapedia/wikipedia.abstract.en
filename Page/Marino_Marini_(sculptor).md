@@ -14,7 +14,7 @@ He is buried at Cimitero Comunale of Pistoia, Toscana, Italy.
 
 Career
 
-Paolo_Monti_-_Servizio_fotografico_-_BEIC_6340886.jpg, 1963 (Fondo Paolo Monti, BEIC).]]
+, 1963 (Fondo Paolo Monti, BEIC).]]
 
 He participated in the 'Twentieth-Century Italian Art' show at the Museum of Modern Art in New York City in 1944. Curt Valentin began exhibiting Marini’s work at his Buchholz Gallery in New York in 1950, on which occasion the sculptor visited the city and met Jean Arp, Max Beckmann, Alexander Calder, Lyonel Feininger, and Jacques Lipchitz. On his return to Europe, he stopped in London, where the Hanover Gallery had organized a solo show of his work, and there met Henry Moore. In 1951 a Marini exhibition traveled from the Kestner-Gesellschaft Hannover to the Kunstverein in Hamburg and the Haus der Kunst of Munich. He was awarded the Grand Prize for Sculpture at the Venice Biennale in 1952 and the Feltrinelli Prize at the Accademia dei Lincei in Rome in 1954. One of his monumental sculptures was installed in The Hague in 1959.[5]
 
@@ -25,7 +25,7 @@ There is a museum dedicated to his work in Florence (in the former church of San
 
 Work
 
-The_Pilgrim_(Il_pellegrino),_bronze_sculpture_by_Marino_Marini,_1939,_Museum_of_Fine_Arts,_Houston.JPG]] Marino_Marini_-_Miracolo_1959-60-1.jpg in Munich]] Denhaag_the_hague_rider_marino_marini.jpg]] Marini developed several themes in sculpture: equestrian, Pomonas (nudes), portraits, and circus figures.[12] He drew on traditions of Etruscan and Northern European sculpture in developing these themes. His aim was to develop mythical images by interpreting classical themes in light of modern concerns and techniques.[13]
+]] in Munich]] ]] Marini developed several themes in sculpture: equestrian, Pomonas (nudes), portraits, and circus figures.[12] He drew on traditions of Etruscan and Northern European sculpture in developing these themes. His aim was to develop mythical images by interpreting classical themes in light of modern concerns and techniques.[13]
 
 Marini is particularly famous for his series of stylised equestrian statues, which feature a man with outstretched arms on a horse. The evolution of the horse and rider as a subject in Marini's works reflects the artist's response to the changing context of the modern world. This theme appeared in his work in 1936. At first the proportions of horse and rider are slender and both are "poised, formal, and calm." By the next year the horse is depicted rearing and the rider gesturing. By 1940 the forms are simpler and more archaic in spirit; the proportions squatter.[14]
 

@@ -15,7 +15,7 @@ It was announced in February 2009 that Bollman were reviewing their worldwide op
 
 Pop Fashion
 
-Bernard_Law_Montgomery.jpg, wearing his iconic Kangol beret]]
+, wearing his iconic Kangol beret]]
 
 During WWII, the signature Kangol beret was worn famously by British Field Marshal Montgomery.[9]
 
@@ -30,7 +30,7 @@ In 2009, Eminem wore the Cotton Twill Army Cap Kangol hat on his _Beautiful_ vid
 
 In Popular Culture
 
-Samuel_L_Jackson_at_San_Diego_ComicCon_2008.jpg at San Diego ComicCon 2008]]
+at San Diego ComicCon 2008]]
 
 -   Slick Rick references Kangol in his songs "La Di Da Di" and "Mona Lisa".
 -   Boogie Boys 1980's hip hop band, reference Kangol in their song "A Fly Girl". The lyrics line reads, "Girls look fly in Kangols".

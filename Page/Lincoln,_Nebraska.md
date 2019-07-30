@@ -13,39 +13,33 @@ Prior to the expansion westward of settlers, the prairie was covered with buffal
 
 Founding
 
-Lincoln,_Nebraska,_USA_(1868).jpg
-
 Lincoln was founded in 1856 as the village of Lancaster and became the county seat of the newly created Lancaster County in 1859.[2] The village was sited on the east bank of Salt Creek.[3] The first settlers were attracted to the area due to the abundance of salt. Once J. Sterling Morton developed his salt mines in Kansas, salt in the village was no longer a viable commodity.[4] Captain W. T. Donovan, a former steamer captain, and his family settled on Salt Creek in 1856. In the fall of 1859, the village settlers met to form a county. A caucus was formed and the committee, which included Captain Donovan, selected the village of Lancaster to be the county seat. The county was named Lancaster. After the passage of the 1862 Homestead Act, homesteaders began to inhabit the area. The first plat was dated August 6, 1864.[5]
 
 By the close of 1868, Lancaster had a population of approximately 500 people.[6] The township of Lancaster was renamed Lincoln with the incorporation of the city of Lincoln on April 1, 1869. In 1869, the University of Nebraska was established in Lincoln by the state with a land grant of about 130,000 acres. Construction of University Hall, the first building, began the same year.
 
 State Capital
 
-Thomas_P._Kennard_house_from_NW_1.JPG
-
 Nebraska was granted statehood on March 1, 1867. The capital of the Nebraska Territory had been Omaha since the creation of the territory in 1854; however, most of the territory's population lived south of the Platte River. After much of the territory south of the Platte River considered annexation to Kansas, the territorial legislature voted to locate the capital city south of the river and as far west as possible. Prior to the vote to remove the capital city from Omaha, a last ditch effort by Omaha Senator J. N. H. Patrick attempted to derail the move by having the future capital city named after recently assassinated President Abraham Lincoln. Many of the people south of the Platte River had been sympathetic to the Confederate cause in the recently concluded Civil War. It was assumed that senators south of the river would not vote to pass the measure if the future capital was named after the former president. In the end, the motion to name the future capital city Lincoln was ineffective in blocking the measure and the vote to change the capital's location south of the Platte River was successful with the passage of the Removal Act in 1867.[7][8]
 
-Nebraska_State_Capitol_(at_night,_2016),_Lincoln,_Nebraska,_USA.jpg The Removal Act called for the formation of a Capital Commission to locate a site for the capital on state-owned land. The Commission, composed of Governor David Butler, Secretary of State Thomas Kennard and Auditor John Gillespie, began to tour sites on July 18, 1867, for the new capital city. The village of Lancaster was chosen, in part due to the salt flats and marshes.[9][10] Lancaster had approximately 30 residents. Disregarding the original plat of the village of Lancaster, Thomas Kennard platted Lincoln on a broader scale. The plat of the village of Lancaster was not dissolved nor abandoned; Lancaster became Lincoln when the Lincoln plat files were finished September 6, 1867. To raise money for the construction of a capital city, a successful auction of lots was held. Newcomers began to arrive and Lincoln's population grew. The Nebraska State Capitol was completed on December 1, 1868; a two-story building constructed with native limestone with a central cupola. The Kennard house, built in 1869, is the oldest remaining building in the original plat of Lincoln.[11]
+The Removal Act called for the formation of a Capital Commission to locate a site for the capital on state-owned land. The Commission, composed of Governor David Butler, Secretary of State Thomas Kennard and Auditor John Gillespie, began to tour sites on July 18, 1867, for the new capital city. The village of Lancaster was chosen, in part due to the salt flats and marshes.[9][10] Lancaster had approximately 30 residents. Disregarding the original plat of the village of Lancaster, Thomas Kennard platted Lincoln on a broader scale. The plat of the village of Lancaster was not dissolved nor abandoned; Lancaster became Lincoln when the Lincoln plat files were finished September 6, 1867. To raise money for the construction of a capital city, a successful auction of lots was held. Newcomers began to arrive and Lincoln's population grew. The Nebraska State Capitol was completed on December 1, 1868; a two-story building constructed with native limestone with a central cupola. The Kennard house, built in 1869, is the oldest remaining building in the original plat of Lincoln.[11]
 
 In 1888 a new capitol building was constructed on the site of the first capitol. The new building replaced the former structurally unsound capitol. The second capitol building was a classical design, designed by architect William H. Willcox.[12] Construction began on a third capitol building in 1922. Bertram G. Goodhue was selected in a national competition as its architect. By 1924, the first phase of construction was completed and state offices moved into the new building. In 1925, the Willcox-designed capitol building was razed. The Goodhue-designed capitol was constructed in four phases, with the completion of the fourth phase in 1932.[13] The capitol is the second tallest capitol building in the United States.[14] The completion of the original Goodhue design will be finally realized with the completion of the capitol fountains within the four interior courtyards of the capitol building in 2017.[15]
 
 Growth and expansion
 
-Government_Square,_Lincoln,_Nebraska,_USA.jpg (1906–1969).]]
+(1906–1969).]]
 
 The worldwide economic depression of 1890 saw the reduction of Lincoln's population from 55,000 to 37,000 by 1900. Volga-German immigrants from Russia settled in the North Bottoms neighborhood and as Lincoln expanded with the growth in population, the city began to annex towns nearby. Normal was the first town annexed in 1919.[16] Bethany Heights, incorporated in 1890, was annexed in 1922.[17] In 1926, the town of University Place was annexed.[18] College View, incorporated in 1892, was annexed in 1929. Union College, a Seventh Day Adventist institution, was founded in College View in 1891. In 1930, Lincoln annexed the town of Havelock. Havelock actively opposed annexation to Lincoln and only relented due to a strike by the Burlington railroad shop workers which halted progress and growth for the city.[19]
 
 The Burlington and Missouri River Railroad's first train arrived in Lincoln on June 26, 1870, soon to be followed by the Midland Pacific in 1871 and the Atchison and Nebraska in 1872. The Union Pacific began service in 1877. The Chicago and North Western and Missouri Pacific began service in 1886. The Chicago, Rock Island and Pacific extended service to Lincoln in 1892. Lincoln became a rail center hub.[20]
 
-Detroit-Lincoln-Denver_Highway_monument_(from_SW),_Lincoln,_Nebraska,_USA.jpg As automobile travel became more common in the U.S., the need for better roads in Nebraska and throughout the U.S. grew. The Omaha-Denver Trans-Continental Route Association in 1911, with support from the Good Roads Movement, established the Omaha-Lincoln-Denver Highway (O-L-D) through Lincoln. The goal was having the most efficient highway to travel on throughout Nebraska, from Omaha to Denver.[21] In 1920, the Omaha-Denver Association merged with the Detroit-Lincoln-Denver Highway Association. As a result, the O-L-D was renamed the Detroit-Lincoln-Denver Highway (D-L-D) with the goal of having a continuous highway from Detroit to Denver. The goal was eventually realized by the mid-1920s; of constantly improved highway through six states.[22] The auto route was a tourist magnet and traffic was heavy. Businesses were built and facilities were established in towns along the route in order to keep up with traveler demand. In 1924, the D-L-D was officially designated as Nebraska State Highway 6. In 1926, the highway became part of the Federal Highway System and was renumbered U.S. Route 38. In 1931, U.S. 38 was renumbered as a U.S. 6/U.S. 38 overlap and in 1933, the U.S. 38 route designation was dropped.[23][24]
+As automobile travel became more common in the U.S., the need for better roads in Nebraska and throughout the U.S. grew. The Omaha-Denver Trans-Continental Route Association in 1911, with support from the Good Roads Movement, established the Omaha-Lincoln-Denver Highway (O-L-D) through Lincoln. The goal was having the most efficient highway to travel on throughout Nebraska, from Omaha to Denver.[21] In 1920, the Omaha-Denver Association merged with the Detroit-Lincoln-Denver Highway Association. As a result, the O-L-D was renamed the Detroit-Lincoln-Denver Highway (D-L-D) with the goal of having a continuous highway from Detroit to Denver. The goal was eventually realized by the mid-1920s; of constantly improved highway through six states.[22] The auto route was a tourist magnet and traffic was heavy. Businesses were built and facilities were established in towns along the route in order to keep up with traveler demand. In 1924, the D-L-D was officially designated as Nebraska State Highway 6. In 1926, the highway became part of the Federal Highway System and was renumbered U.S. Route 38. In 1931, U.S. 38 was renumbered as a U.S. 6/U.S. 38 overlap and in 1933, the U.S. 38 route designation was dropped.[23][24]
 
-Arrow_Sport,_Lincoln_Airport,_Lincoln,_Nebraska,_USA.jpg In the early years of air travel, Lincoln had three airports and one airfield.[25] Union Airport, was established northeast of Lincoln in 1920. The Lincoln Flying School was founded by E.J. Sias in a building he built at 2145 O Street. Charles Lindbergh was a student at the flying school in 1922. The flying school closed in 1947. Some remnants of the Union Airport can still be seen in-between N. 56th and N. 70th Streets, north of Fletcher Avenue; mangled within a slowly developing industrial zone.[26] Arrow Airport was established around 1925 as a manufacturing and test facility for Arrow Aircraft and Motors Corporation, primarily the Arrow Sport. The airfield was located near Havelock; or to the west of where the North 48th Street Small Vehicle Transfer Station is located today. Arrow Aircraft and Motors declared bankruptcy in 1939 and Arrow Airport closed roughly several decades later.[27] An existing Arrow Sport can be seen on permanent display, hanging in the Lincoln Airport's main passenger terminal.[28][29]
+In the early years of air travel, Lincoln had three airports and one airfield.[25] Union Airport, was established northeast of Lincoln in 1920. The Lincoln Flying School was founded by E.J. Sias in a building he built at 2145 O Street. Charles Lindbergh was a student at the flying school in 1922. The flying school closed in 1947. Some remnants of the Union Airport can still be seen in-between N. 56th and N. 70th Streets, north of Fletcher Avenue; mangled within a slowly developing industrial zone.[26] Arrow Airport was established around 1925 as a manufacturing and test facility for Arrow Aircraft and Motors Corporation, primarily the Arrow Sport. The airfield was located near Havelock; or to the west of where the North 48th Street Small Vehicle Transfer Station is located today. Arrow Aircraft and Motors declared bankruptcy in 1939 and Arrow Airport closed roughly several decades later.[27] An existing Arrow Sport can be seen on permanent display, hanging in the Lincoln Airport's main passenger terminal.[28][29]
 
 The city's small municipal airfield in 1930 was dedicated to Charles Lindbergh and named Lindbergh Field for a short period of time as another airfield was named Lindbergh in California. The airfield was north of Salt Lake, in an area known variously over the years as Huskerville, Arnold Heights and Air Park; and was located approximately within the western half of the West Lincoln Township.[30][31][32] The air field was a stop for United Airlines in 1927 and a mail stop in 1928.[33] As train, automobile, and air travel increased, business flourished, and the city prospered. The population of Lincoln increased 38.2% from 1920 to a population of 75,933 in 1930.[34] In 1942 the Lincoln Army Airfield was established at the site. During World War II, over 25,000 aviation mechanics were trained with over 40,000 troopers being processed for combat. The Army closed the base in 1945. The Air Force reactivated the base during the Korean War in 1952. In 1966, the base was closed and Lincoln annexed the airfield, including the base's old housing units to the west.[35] The base became the Lincoln Municipal Airport under ownership of the Lincoln Airport Authority. The airport was later renamed the Lincoln Airport. The two main airlines serving the airport were United Airlines and Frontier Airlines. The authority shared facilities with the Nebraska National Guard, who continued ownership over some portions of the old Air Force base.[36] In 1966, Lincoln annexed the township of West Lincoln, incorporated in 1887. West Lincoln voters rejected annexation by Lincoln until the state legislature passed a bill in 1965 allowing cities to annex surrounding areas without a vote.[37]
 
 Revitalization and growth
-
-Nighttime_skyline_of_downtown_Lincoln,_Nebraska,_USA_(2015,_from_Arnold_Heights_Park).jpg
 
 The downtown core retail district from 1959 to 1984 saw profound changes as retail shopping moved from downtown to the suburban Gateway Shopping Mall. In 1956, Bankers Life Insurance Company of Nebraska announced plans to build a $6 million shopping center next to their new campus on the east-side outskirts of Lincoln. Gateway Shopping Center, now called Gateway Mall, was completed and open for business at 60th and O streets in 1960.[38][39] By 1984, 75% of Lincoln's revenue from retail sales tax came from within a one-mile radius of the Mall. With the exodus of retail and service businesses, the downtown core began to decline and deteriorate.
 
@@ -74,8 +68,6 @@ Lincoln is in two metropolitan statistical areas as defined by the United States
 
 Neighborhoods
 
-View_of_South_Lincoln.jpg
-
 Lincoln's neighborhoods include both old and new development. Some neighborhoods in Lincoln were formerly small towns that Lincoln later annexed, including University Place in 1926, Belmont, Bethany (Bethany Heights) in 1922, College View in 1929, Havelock in 1930, and West Lincoln in 1966.[73] A number of Historic Districts are located near downtown Lincoln, while newer neighborhoods have appeared primarily in the south and east.[74] As of December 2013, Lincoln had 45 registered neighborhood associations within the city limits.[75]
 
 One core neighborhood that has seen rapid residential growth in recent years is the downtown Lincoln area. In 2010, there were 1,200 downtown Lincoln residents; in 2016, there were 3,000 (an increase of 140%).[76] Around the middle of the same decade, demand for housing and rent units began outpacing supply. With Lincoln's population expected to grow to more than 311,000 people by 2020, prices for homes and rent costs have risen. Home prices rose 10% from the first quarter of 2015 to the first quarter of 2016; rent prices rose 30% from 2007 to 2017 with a 5–8% increase in 2016 alone.[77][78]
@@ -84,7 +76,7 @@ Climate
 
 Located on the Great Plains far from the moderating influence of mountains or large bodies of water, Lincoln possesses a highly variable four-season humid continental climate (Köppen _Dfa_): winters are cold but relatively dry, summers are hot and occasionally humid.[79] With little precipitation falling during winter, precipitation is concentrated in the warmer months, when thunderstorms frequently roll in, often producing tornadoes. Snow averages per season but seasonal accumulation has ranged from in 1967–68 to in 1959–60.[80] Snow tends to fall in light amounts, though blizzards are possible. There is an average of 39 days with a snow depth of or more. The average window for freezing temperatures is October 5 thru April 25, allowing a growing season of 162 days.[81]
 
-August_2011_Sky_in_Lincoln,_4.jpg The monthly daily average temperature ranges from in January to in July. However, the city is subject both to episodes of bitter cold in winter and heat waves during summer, with 11.4 nights of sub- lows, 41 days of + highs, and 4.6 days of + highs.[82] The city straddles the boundary of USDA Plant Hardiness Zones 5b and 6a.[83] Temperature extremes have ranged from on January 12, 1974 up to on July 25, 1936.[84] Readings as high as or as low as occur somewhat rarely; the last occurrence of each was July 22, 2012 and February 3, 1996.[85]
+The monthly daily average temperature ranges from in January to in July. However, the city is subject both to episodes of bitter cold in winter and heat waves during summer, with 11.4 nights of sub- lows, 41 days of + highs, and 4.6 days of + highs.[82] The city straddles the boundary of USDA Plant Hardiness Zones 5b and 6a.[83] Temperature extremes have ranged from on January 12, 1974 up to on July 25, 1936.[84] Readings as high as or as low as occur somewhat rarely; the last occurrence of each was July 22, 2012 and February 3, 1996.[85]
 
 Based on 30-year averages obtained from NOAA's National Climatic Data Center for the months of December, January and February, Weather Channel ranked Lincoln the seventh-coldest major U.S. city as of 2014[86] In 2014, the Lincoln-Beatrice area was among the "Cleanest U.S. Cities for Ozone Air Pollution" in the American Lung Association's "State of the Air 2014" report.[87]
 
@@ -140,7 +132,7 @@ Arts and culture
 
 Since the opening of Pinnacle Bank Arena in 2013, Lincoln's emerging music scene has grown to the point where it is sometimes referred to as a "Music City."[111][112][113][114] Primary venues for live music include: Pinnacle Bank Arena,[115] Bourbon Theatre, Duffy's Tavern, and the Zoo Bar. The Pla-Mor Ballroom is a classic Lincoln music and dance scene with its in-house Sandy Creek Band. Pinewood Bowl hosts a range of performances – from national music performances to local plays during the warm weather months.[116]
 
-14th_and_O_facing_east.JPG The Lied Center is a venue for national tours of Broadway productions, concert music, guest lectures, and regularly features its resident orchestra Lincoln's Symphony Orchestra.[117] Lincoln has several performing arts venues. Plays are staged by UNL students in the Temple Building;[118] community theater productions are held at the Lincoln Community Playhouse,[119] the Loft at The Mill, and the Haymarket Theater.
+The Lied Center is a venue for national tours of Broadway productions, concert music, guest lectures, and regularly features its resident orchestra Lincoln's Symphony Orchestra.[117] Lincoln has several performing arts venues. Plays are staged by UNL students in the Temple Building;[118] community theater productions are held at the Lincoln Community Playhouse,[119] the Loft at The Mill, and the Haymarket Theater.
 
 Lincoln has a growing number of arts galleries, some of which include the Sheldon Museum of Art, Burkholder Project and Noyes Art Gallery.
 
@@ -163,7 +155,7 @@ Tourist attractions and activities include the Sunken Gardens,[133] basketball g
 
 Sports
 
-091507-USCNeb-MemorialStadium.jpg]]
+]]
 
 Lincoln is home to the University of Nebraska's football team, the Nebraska Cornhuskers. In total, the university fields 22 men's and women's teams in 14 NCAA Division I sports.[141] Nebraska football began play in 1890.[142] Among the 128 Division I-A teams, Nebraska is one of ten football programs to win 800 or more games.[143] Notable coaches were Tom Osborne, and Bob Devaney. Osborne coached from 1973–1997. Devaney coached from 1962–1972 and the university's indoor arena, the Bob Devaney Sports Center, was named for him.
 
@@ -182,8 +174,6 @@ Other notable parks include Iron Horse Park,[160] Lincoln Community Foundation T
 
 
 Government
-
-County-City_Building,_Lincoln,_Nebraska,_USA.jpg
 
 Lincoln has a mayor-council government. The mayor and a seven-member city council are selected in nonpartisan elections. Four members are elected from city council districts; the remaining three members are elected at-large.[168] Lincoln's health, personnel, and planning departments are joint city/county agencies; most city and Lancaster County offices are located in the County/City Building.
 
@@ -221,8 +211,6 @@ Southeast Community College is a community college system located in southeaster
 
 Media
 
-Nebraska_Educational_Telecommunications_(NET),_Lincoln,_Nebraska,_USA.jpg
-
 Television
 
 Lincoln has four licensed broadcast full power television stations:[198]
@@ -243,8 +231,6 @@ Lincoln has four licensed broadcast full power television stations:[198]
 The headquarters of Nebraska Educational Telecommunications (NET), which is affiliated with the Public Broadcasting Service and National Public Radio, are in Lincoln.[202] Lincoln is one of the few cities without its own NBC affiliate; Omaha's WOWT historically served as the city's default NBC affiliate until 2014 when Hastings' affiliate KHAS-TV moved to KSNB-TV, making both available on cable (KSNB primarily serves central Nebraska).[203] The city has two low power digital TV stations in Lincoln area included the translator KFDY-LD (simulcast of (KOHA-LD)) owned by Flood Communications of Nebraska LLC, including for main Spanish-language network affiliate Telemundo on 27.1, NCN (Ind.) on 27.2, and religious network affiliate 3ABN on 27.3 in Lincoln area only, on virtual channel 27, digital channel 27; and another low power digital KCWH-LD on CW+ affiliate, owned by Gray on channel 18.1 included subchannels like Ion on 18.2, and CBS (Simulcast of KOLN) on 18.3.[204]
 
 Radio
-
-US_Navy_110906-N-CI293-168_Rear_Adm._Douglas_J._McAneny,_commandant_of_the_National_War_College,_is_interviewed_by_Dennis_Kellog_of_KLIN_News_Talk.jpg
 
 There are 17 radio stations licensed in Lincoln, not including radio stations licensed outside of the city that serve the Lincoln area. Most areas of Lincoln also receive radio signals from Omaha and other surrounding communities.
 
@@ -280,19 +266,15 @@ Infrastructure
 
 Transportation
 
-Street_and_Highway_Map_of_the_City_of_Lincoln,_Nebraska.png
-
 Major highways
 
-Lincoln is served by I-80.svg Interstate 80 via 7 interchanges, connecting the city to San Francisco and Teaneck, New Jersey in the New York City Metropolitan Area.[212] Other Highways that serve the Lincoln area are I-180.svg Interstate 180, US_6.svg U.S. Highway 6, US_34.svg U.S. Highway 34, US_77.svg U.S. Highway 77 and nearby N-79.svg Nebraska Highway 79. The eastern segment of N-2.svg Nebraska Highway 2 is a primary trucking route that connects Kansas City (Interstate 29) to the I-80 corridor in Lincoln.[213] A few additional minor State Highway segments reside within the city as well.[214]
+Lincoln is served by Interstate 80 via 7 interchanges, connecting the city to San Francisco and Teaneck, New Jersey in the New York City Metropolitan Area.[212] Other Highways that serve the Lincoln area are Interstate 180, U.S. Highway 6, U.S. Highway 34, U.S. Highway 77 and nearby Nebraska Highway 79. The eastern segment of Nebraska Highway 2 is a primary trucking route that connects Kansas City (Interstate 29) to the I-80 corridor in Lincoln.[213] A few additional minor State Highway segments reside within the city as well.[214]
 
 Mass transit
 
 A public bus transit system, StarTran, operates in Lincoln. StarTran's fleet consists of 67 full-sized buses and 13 Handi-Vans. The transit system has 18 bus routes, with a circular bus route downtown. Annual ridership for the fiscal year 2017–18 was 2,463,799.[215]
 
 Intercity transit
-
-A183367_Lincoln_airport_LNK.JPG
 
 The Lincoln Airport (KLNK/LNK) provides passengers with daily non-stop service to United Airlines hubs Chicago O'Hare International Airport and Denver International Airport as well as Delta Air Lines hubs Minneapolis-Saint Paul International Airport and Hartsfield–Jackson Atlanta International Airport. General aviation support is provided through several private aviation companies.[216] The Lincoln Airport was among the emergency landing sites for the NASA Space Shuttle.[217] The site was chosen chiefly because of a runway; the longest of three at the airport.[218]
 

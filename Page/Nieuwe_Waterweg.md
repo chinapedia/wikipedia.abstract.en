@@ -21,8 +21,6 @@ Because of the currents and erosion, the shipping lane has been widened somewhat
 
 In 1997, the last part of the Delta Works, the Maeslantkering, was put in operation near the mouth of the Nieuwe Waterweg. This storm surge barrier protects Rotterdam against north westerly Beaufort Force 10 to 12 storms.
 
-RMSDeltaNorth.jpg Maassluis_Nieuwe_waterweg.jpg
-
 
 Current situation
 

@@ -22,7 +22,7 @@ New Latin was inaugurated by the triumph of the humanist reform of Latin educati
 
 Height
 
-Europe_map_1648.PNG in 1648]] The Protestant Reformation (1520–1580), though it removed Latin from the liturgies of the churches of Northern Europe, may have advanced the cause of the new secular Latin. The period during and after the Reformation, coinciding with the growth of printed literature, saw the growth of an immense body of New Latin literature, on all kinds of secular as well as religious subjects.
+in 1648]] The Protestant Reformation (1520–1580), though it removed Latin from the liturgies of the churches of Northern Europe, may have advanced the cause of the new secular Latin. The period during and after the Reformation, coinciding with the growth of printed literature, saw the growth of an immense body of New Latin literature, on all kinds of secular as well as religious subjects.
 
 The heyday of New Latin was its first two centuries (1500–1700), when in the continuation of the Medieval Latin tradition, it served as the lingua franca of science, education, and to some degree diplomacy in Europe. Classic works such as Newton's Principia Mathematica (1687) were written in the language. Throughout this period, Latin was a universal school subject, and indeed, the pre-eminent subject for elementary education in most of Europe and other places of the world that shared its culture. All universities required Latin proficiency (obtained in local grammar schools) to obtain admittance as a student. Latin was an official language of Poland—recognised and widely used[4][5][6][7] between the 9th and 18th centuries, commonly used in foreign relations and popular as a second language among some of the nobility.[8]
 
@@ -54,7 +54,7 @@ Coincident with these changes in Latin instruction, and to some degree motivatin
 
 Relics
 
-Sjukhusfickur_(gabbe).jpg made for the medical community has Latin instructions for measuring a patient's pulse rate on its dial: _enumeras ad XX pulsus_, "you count to 20 beats".]] Ecclesiastical Latin, the form of New Latin used in the Roman Catholic Church, remained in use throughout the period and after. Until the Second Vatican Council of 1962–65 all priests were expected to have competency in it, and it was studied in Catholic schools. It is today still the official language of the Church, and all Catholic priests of the Latin liturgical rites are required by canon law to have competency in the language.[10] Use of Latin in the Mass, largely abandoned through the later 20th century, has recently seen a resurgence, due in large part to Pope Benedict XVI's motu proprio Summorum Pontificum and its use by traditional Catholic priests and their organizations.
+made for the medical community has Latin instructions for measuring a patient's pulse rate on its dial: _enumeras ad XX pulsus_, "you count to 20 beats".]] Ecclesiastical Latin, the form of New Latin used in the Roman Catholic Church, remained in use throughout the period and after. Until the Second Vatican Council of 1962–65 all priests were expected to have competency in it, and it was studied in Catholic schools. It is today still the official language of the Church, and all Catholic priests of the Latin liturgical rites are required by canon law to have competency in the language.[10] Use of Latin in the Mass, largely abandoned through the later 20th century, has recently seen a resurgence, due in large part to Pope Benedict XVI's motu proprio Summorum Pontificum and its use by traditional Catholic priests and their organizations.
 
 New Latin is also the source of the biological system of binomial nomenclature and classification of living organisms devised by Carolus Linnæus, although the rules of the ICZN allow the construction of names that deviate considerably from historical norms. (See also classical compounds.) Another continuation is the use of Latin names for the surface features of planets and planetary satellites (planetary nomenclature), originated in the mid-17th century for selenographic toponyms. New Latin has also contributed a vocabulary for specialized fields such as anatomy and law; some of these words have become part of the normal, non-technical vocabulary of various European languages.
 
@@ -137,7 +137,7 @@ The digraphs _ae_ and _oe_ were rarely so written (except when part of a word in
 
 Diacritics
 
-Three kinds of diacritic were in common use: the acute accent ´, the grave accent `, and the circumflex accent ˆ. These were normally only marked on vowels (e.g. í, è, â); but see below regarding _que_. RenaissanceLatinHandwriting1.jpg
+Three kinds of diacritic were in common use: the acute accent ´, the grave accent `, and the circumflex accent ˆ. These were normally only marked on vowels (e.g. í, è, â); but see below regarding _que_.
 
 The acute accent marked a stressed syllable, but was usually confined to those where the stress was not in its normal position, as determined by vowel length and syllabic weight. In practice, it was typically found on the vowel in the syllable immediately preceding a final clitic, particularly _que_ "and", _ve_ "or" and _ne_, a question marker; e.g. _idémque_ "and the same (thing)". Some printers, however, put this acute accent over the _q_ in the enclitic _que_, e.g. _eorumq́ue_ "and their". The acute accent fell out of favor by the 19th century.
 
@@ -148,7 +148,7 @@ The circumflex accent represented metrical length (generally not distinctively p
 
 Notable works (1500–1900)
 
-Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg]]
+]]
 
 Literature and biography
 

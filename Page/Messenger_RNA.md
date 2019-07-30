@@ -1,4 +1,4 @@
-MRNA-interaction.png cell. RNA is transcribed in the nucleus; after processing, it is transported to the cytoplasm and translated by the ribosome. Finally, the mRNA is degraded.]]
+cell. RNA is transcribed in the nucleus; after processing, it is transported to the cytoplasm and translated by the ribosome. Finally, the mRNA is degraded.]]
 
 MESSENGER RNA (MRNA) is a large family of RNA molecules that convey genetic information from DNA to the ribosome, where they specify the amino acid sequence of the protein products of gene expression. RNA polymerase transcribes primary transcript mRNA (known as pre-mRNA) into processed, mature mRNA. This mature mRNA is then translated into a polymer of amino acids: a protein, as summarized in the central dogma of molecular biology.
 
@@ -54,7 +54,7 @@ Eukaryotic mRNA that has been processed and transported to the cytoplasm (i.e., 
 
 Structure
 
-MRNA_structure.svg, 5' UTR, coding region, 3' UTR, and poly(A) tail.]]
+, 5' UTR, coding region, 3' UTR, and poly(A) tail.]]
 
 Coding regions
 

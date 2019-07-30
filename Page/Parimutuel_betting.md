@@ -2,7 +2,7 @@ PARIMUTUEL BETTING (from the or mutual betting) is a betting system in which all
 
 The parimutuel system is used in gambling on horse racing, greyhound racing, jai alai, and all sporting events of relatively short duration in which participants finish in a ranked order. A modified parimutuel system is also used in some lottery games.
 
-Betting_on_the_Favorite.jpg]]
+]]
 
 
 Definition

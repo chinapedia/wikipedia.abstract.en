@@ -15,7 +15,7 @@ History
 
 Beginnings of Datsun brand name from 1914
 
-Datsun_Model_11_Phaeton.JPG]]
+]]
 
 Masujiro Hashimoto founded the KAISHINSHA MOTOR CAR WORKS ( _A Good Company Automobile Manufacturer_) in Tokyo's Azabu-Hiroo district, Japan's first automobile manufacturer. In 1914, the company produced its first car, called DAT.[9][10][11]
 
@@ -51,13 +51,11 @@ In 1940, first knockdown kits were shipped to Dowa Jidosha Kogyo (Dowa Automobil
 
 Nissan's early American connection
 
-Petersen_Automotive_Museum_PA140052_(45229770615).jpg DAT had inherited Kubota's chief designer, American engineer William R. Gorham. This, along with Aikawa's 1908 visit to Detroit, was to greatly affect Nissan's future.[26][27] Although it had always been Aikawa's intention to use cutting-edge auto making technology from America, it was Gorham that carried out the plan. Most of the machinery and processes originally came from the United States. When Nissan started to assemble larger vehicles under the "Nissan" brand in 1937, much of the design plans and plant facilities were supplied by the Graham-Paige Company.[28] Nissan also had a Graham license under which passenger cars, buses and trucks were made.[29]
+DAT had inherited Kubota's chief designer, American engineer William R. Gorham. This, along with Aikawa's 1908 visit to Detroit, was to greatly affect Nissan's future.[26][27] Although it had always been Aikawa's intention to use cutting-edge auto making technology from America, it was Gorham that carried out the plan. Most of the machinery and processes originally came from the United States. When Nissan started to assemble larger vehicles under the "Nissan" brand in 1937, much of the design plans and plant facilities were supplied by the Graham-Paige Company.[28] Nissan also had a Graham license under which passenger cars, buses and trucks were made.[29]
 
 In David Halberstam's 1986 book _The Reckoning,_ Halberstam states "In terms of technology, Gorham was the founder of the Nissan Motor Company" and that "young Nissan engineers who had never met him spoke of him as a god and could describe in detail his years at the company and his many inventions."[30]
 
 Austin Motor Company relations (1937–1960s)
-
-Datsun_16_Sedan_1937.jpg 1938_Austin_Seven_Ruby_Motor_Centre,_Gaydon.jpg
 
 From 1934 Datsun began to build Austin 7s under licence. This operation became the greatest success of Austin's overseas licensing of its Seven and marked the beginning of Datsun's international success.
 
@@ -67,13 +65,11 @@ Nissan leveraged the Austin patents to further develop their own modern engine d
 
 100 Day Strike of 1953
 
-1953_Nissan_Labor_Dispute.JPG
-
 During the Korean War, Nissan was a major vehicle producer for the U.S. Army.[35] After the Korean War ended, significant levels of anti-communist sentiment existed in Japan. The union that organized Nissan's workforce was strong and militant.[36][37] Nissan was in financial difficulties, and when wage negotiations came, the company took a hard line. Workers were locked out, and several hundred were fired. The Japanese government and the U.S. occupation forces arrested several union leaders.[38] The union ran out of strike funds, and was defeated. A new labor union was formed,[39] with Shioji Ichiro one of its leaders. Ichiro had studied at Harvard University on a U.S. government scholarship. He advanced an idea to trade wage cuts against saving 2,000 jobs.[40] Ichiro's idea was made part of a new union contract [41] that prioritized productivity. Between 1955 and 1973, Nissan "expanded rapidly on the basis of technical advances supported – and often suggested – by the union." Ichiro became president of the Confederation of Japan Automobile Workers Unions and "the most influential figure in the right wing of the Japanese labor movement."[42]
 
 Merger with Prince Motor Company
 
-1966_Prince_R380_01.jpg racecar]] In 1966, Nissan merged with the Prince Motor Company, bringing more upmarket cars, including the Skyline and Gloria, into its selection. The Prince name was eventually abandoned, and successive Skylines and Glorias bore the Nissan name. "Prince," was used at the Japanese Nissan dealership "Nissan Prince Shop" until 1999, when "Nissan Red Stage" replaced it. Nissan Red Stage itself has been replaced as of 2007. The Skyline lives on as the G Series of Infiniti.
+racecar]] In 1966, Nissan merged with the Prince Motor Company, bringing more upmarket cars, including the Skyline and Gloria, into its selection. The Prince name was eventually abandoned, and successive Skylines and Glorias bore the Nissan name. "Prince," was used at the Japanese Nissan dealership "Nissan Prince Shop" until 1999, when "Nissan Red Stage" replaced it. Nissan Red Stage itself has been replaced as of 2007. The Skyline lives on as the G Series of Infiniti.
 
 Miss Fairlady
 
@@ -87,17 +83,17 @@ In April 2013, 6 more Miss Fairlady candidates were added to Ginza showroom, for
 
 Foreign expansion
 
-1971_Datsun_240-Z_coupe_-_green_-_fvl.jpg (U.S. model) in green metallic|alt=]]
+(U.S. model) in green metallic|alt=]]
 
 In the 1950s, Nissan decided to expand into worldwide markets. Nissan management realized their Datsun small car line would fill an unmet need in markets such as Australia and the world's largest car market, the United States. They first showed the Datsun Bluebird at the 1958 Los Angeles Auto Show.[49][50] The company formed a U.S. subsidiary, Nissan Motor Corporation U.S.A., in Gardena, California[51] in 1960, headed by Yutaka Katayama.[52] Nissan continued to improve their sedans with the latest technological advancements and chic Italianate styling in sporty cars such as the Datsun Fairlady roadsters, the race-winning 411 series, the Datsun 510 and the world-class Datsun 240Z. By 1970, Nissan had become one of the world's largest exporters of automobiles.
 
-2010_Nissan_Maxima_SV_Sport_--_05-03-2010.jpg SV Sport]]
+SV Sport]]
 
 In the wake of the 1973 oil crisis, consumers worldwide (especially in the lucrative U.S. market) began turning to high-quality small economy cars. To meet the growing demand for its new Nissan Sunny, the company built new factories in Mexico (Nissan Mexicana was established in the early 1960s and commenced manufacturing since 1966 at their Cuernavaca assembly facility, making it their first North American assembly plant), Australia, New Zealand, Taiwan, United States (Nissan Motor Manufacturing Corporation USA was established in 1980) and South Africa. The "Chicken Tax" of 1964 placed a 25% tax on commercial vans imported to the United States.[53] In response, Nissan, Toyota Motor Corp. and Honda Motor Co. began building plants in the U.S. in the early 1980s.[54] Nissan's initial assembly plant Smyrna assembly plant (which broke ground in 1980) at first built only trucks such as the 720 and Hardbody, but has since expanded to produce several car and SUV lines, including the Altima, Maxima, Rogue, Pathfinder, Infiniti QX60 and LEAF all-electric car. The addition of mass-market automobiles was in response to the 1981 Voluntary Export Restraints imposed by the U.S. Government. An engine plant in Decherd, Tennessee followed, most recently a second assembly plant was established in Canton, Mississippi. In 1970, Teocar was created, which was a Greek assembly plant created in cooperation with Theoharakis.[55] It was situated in Volos, Greece and its geographical location was perfect as the city had a major port. The plant started production in 1980, assembling Datsun pick-up trucks and continuing with the Nissan Cherry and Sunny automobiles. Until May 1995 170,000 vehicles were made, mainly for Greece.
 
 By the early 1980s, Nissan (Datsun) had long been the best selling Japanese brand in Europe.[56] In order to overcome export tariffs and delivery costs to its European customers, Nissan contemplated establishing a plant in Europe. Nissan tried to convert the Greek plant into one manufacturing cars for all European countries. However, due to issues with the Greek government not only did that not happen but the plant itself was closed. A joint venture with Italy's then state-owned Alfa Romeo was also entered in 1980, leading to Italian production of the Nissan Cherry and an Alfa-badged version, the Alfa Romeo Arna.[57] After an extensive review, Nissan decided to go it alone instead. The City of Sunderland in the north east of England was chosen for its skilled workforce and its location near major ports. The plant was completed in 1986 as the subsidiary Nissan Motor Manufacturing (UK) Ltd. By 2007, it was producing 400,000 vehicles per year, landing it the title of the most productive plant in Europe.
 
-2013_Nissan_GT-R_--_06-23-2012_1.JPG]]
+]]
 
 In 2001, Nissan established a manufacturing plant in Brazil. In 2005, Nissan added operations in India, through its subsidiary Nissan Motor India Pvt. Ltd.[58] With its global alliance partner, Renault, Nissan invested $990 million to set up a manufacturing facility in Chennai, catering to the Indian market as well as a base for exports of small cars to Europe.[59][60] Nissan entered the Middle East market in 1957 when it sold its first car in Saudi Arabia.[61] Nissan sold nearly 520,000 new vehicles in China in 2009 in a joint venture with Dongfeng Motor. To meet increased production targets, Dongfeng-Nissan expanded its production base in Guangzhou, which would become Nissan's largest factory around the globe in terms of production capacity.[62] Nissan also has moved and expanded its Nissan Americas Inc. headquarters, moving from Los Angeles to Franklin, Tennessee in the Nashville area.[63]
 
@@ -108,8 +104,6 @@ In 2018, Nissan Kicks compact utility vehicle makes North American debut at the 
 In the U.S., Nissan has been increasing its reliance on sales to daily-rental companies like Enterprise Rent-A-Car or Hertz. In 2016, Nissan's rental sales jumped 37% and in 2017 Nissan became the only major auto maker to boost rental sales when the Detroit Three cut back less profitable deliveries to daily-rental companies, which traditionally are the biggest customers of domestic auto makers.[64]
 
 Relationships with other car companies
-
-Nissan_Head_Office_2009.jpg
 
 Luxgen
 
@@ -143,7 +137,7 @@ LDV Group sold a badge engineered light commercial vehicle version of the Nissan
 
 Alliance with Renault
 
-Carlos_Ghosn_Leaf.JPG has been credited with reviving Nissan]]
+has been credited with reviving Nissan]]
 
 In 1999, facing severe financial difficulties, Nissan entered an alliance with Renault S.A. of France.[75]
 
@@ -179,8 +173,6 @@ Other alliances and joint ventures
 
 Leadership
 
-Nissan_logo_(1983–2002).svg Nissan_logo.svg Nissan-logo.svg
-
 Presidents and chief executive officers of Nissan:
 
 -   1933–1939: Yoshisuke Aikawa
@@ -203,8 +195,6 @@ Presidents and chief executive officers of Nissan:
 
 Branding and corporate identity
 
-Carlos_Ghosn_at_the_2013_earnings_press_conference_Yokohama.jpg Nissan_Corporation_Logo_large.png
-
 Brands
 
 NISSAN: Nissan's volume models are sold worldwide under the Nissan brand.
@@ -226,13 +216,13 @@ Later in 2013, the Nissan "Company" logo changed to the Nissan "Corporation" log
 
 Products
 
-Nismo_Shop.JPG, Japan]]
+, Japan]]
 
 Automotive products
 
 Nissan has produced an extensive range of mainstream cars and trucks, initially for domestic consumption but exported around the world since the 1950s.
 
-It also produced several memorable sports cars, including the Datsun Fairlady 1500, 1600 and 2000 Roadsters, the Z-car, an affordable sports car originally introduced in 1969; and the GT-R, a powerful all-wheel-drive sports coupe. 2019_Nissan_Altima_front_12.24.18.jpg Platinum]] In 1985, Nissan created a tuning division, _Nismo_, for competition and performance development of such cars. One of Nismo's latest models is the 370Z Nismo.
+It also produced several memorable sports cars, including the Datsun Fairlady 1500, 1600 and 2000 Roadsters, the Z-car, an affordable sports car originally introduced in 1969; and the GT-R, a powerful all-wheel-drive sports coupe. Platinum]] In 1985, Nissan created a tuning division, _Nismo_, for competition and performance development of such cars. One of Nismo's latest models is the 370Z Nismo.
 
 Nissan also sells a range of kei cars, mainly as a joint venture with other Japanese manufacturers like Suzuki or Mitsubishi. Until 2013, Nissan rebadged kei cars built by other manufacturers. Beginning in 2013, Nissan and Mitsubishi shared the development of the Nissan DAYZ / Mitsubishi eK Wagon series.[107] Nissan also has shared model development of Japanese domestic cars with other manufacturers, particularly Mazda, Subaru, Suzuki and Isuzu.
 
@@ -250,7 +240,7 @@ In 2018, Nissan launched the sixth-generation Altima at the 2018 New York Auto S
 
 Japan
 
-NISSAN_NEW_VI.jpg]] Nissan_Red_and_Blue_Stage_Nagano_dealership_corporate_office.JPG
+]]
 
 As of 2007 in Japan, Nissan sells its products with internationally recognized "Nissan" signage, using a chrome circle with "Nissan" across the front.
 
@@ -286,8 +276,6 @@ Trucks
 
 Nissan Cabstar (日産・キャブスター _Nissan Kyabusutā_) is the name used in Japan for two lines of pickup trucks and light commercial vehicles sold by Nissan and built by UD Nissan Diesel, a Volvo AB company and by Renault-Nissan Alliance for the European market. The name originated with the 1968 Datsun Cabstar, but this was gradually changed over to "Nissan" badging in the early 1980s. The lighter range (1-1.5 tons) replaced the earlier Cabstar and Homer, while the heavier Caball and Clipper were replaced by the 2–4 ton range Atlas (日産・アトラス _Nissan Atorasu_). The nameplate was first introduced in December 1981.The Cabstar is known also as the Nissan Cabstar, Renault Maxity and Samsung SV110 depending on the location. The range has been sold across the world. It shares its platform with the Nissan Caravan.
 
-Nissan_Titan_King_Cab_002.jpg
-
 The Nissan Titan was introduced in 2004, as a full-size pickup truck produced for the North American market, the truck shares the stretched Nissan F-Alpha platform with the Nissan Armada and Infiniti QX56 SUVs. It was listed by Edmunds.com as the best full-size truck.[114][115] The second generation Titan was revealed at the 2016 North American International Auto Show as a 2017 model year vehicle.
 
 Japan
@@ -304,7 +292,7 @@ The Atlas F22 was sold in Europe as the Nissan Cabstar and proved a popular truc
 
 Electric vehicles
 
-Nissan_eNV200_1_9-June-2014_-_picture_by_Bertel_Schmitt_03.JPG all-electric commercial van]]
+all-electric commercial van]]
 
 Nissan introduced its first battery electric vehicle, the Nissan Altra at the Los Angeles International Auto Show on 29 December 1997.[116] Unveiled in 2009, the EV-11 prototype electric car was based on the Nissan Tiida (Versa in North America), with the conventional gasoline engine replaced with an all-electric drivetrain.[117]
 
@@ -314,11 +302,11 @@ Nissan's second all-electric vehicle, the Nissan e-NV200, was announced in Novem
 
 In June 2016, Nissan announced it will introduce its first range extender car in Japan before March 2017. The series plug-in hybrid will use a new hybrid system, dubbed e-Power, which debuted with the Nissan Gripz concept crossover showcased at the September 2015 Frankfurt Auto Show.[127] , Nissan electric vehicles were sold in 48 world markets.[128] Nissan global electric vehicle sales passed 275,000 units in December 2016.[129]
 
-The second-generation Leaf was launched by Nissan in Japan. Nissan_LEAF_MK2_(2018).jpg at an electric charging station.]]
+The second-generation Leaf was launched by Nissan in Japan. at an electric charging station.]]
 
 Autonomous cars
 
-2014-03-04_Geneva_Motor_Show_1186.JPG prototype technology was fitted on a Nissan Leaf all-electric car.]]
+prototype technology was fitted on a Nissan Leaf all-electric car.]]
 
 In August 2013 Nissan announced its plans to launch several driverless cars by 2020. The company is building a dedicated autonomous driving proving ground in Japan, to be completed in 2014. Nissan installed its autonomous car technology in a Nissan Leaf all-electric car for demonstration purposes. The car was demonstrated at Nissan 360 test drive event held in California in August 2013.[130][131] In September 2013, the Leaf fitted with the prototype Advanced Driver Assistance System was granted a license plate that allows it to drive on Japanese public roads. The testing car will be used by Nissan engineers to evaluate how its in-house autonomous driving software performs in the real world. Time spent on public roads will help refine the car's software for fully automated driving.[132] The autonomous Leaf was demonstrated on public roads for the first time at a media event held in Japan in November 2013. The Leaf drove on the Sagami Expressway in Kanagawa prefecture, near Tokyo. Nissan vice chairman Toshiyuki Shiga and the prefecture's governor, Yuji Kuroiwa, rode in the car during the test.[133][134]
 
@@ -366,8 +354,6 @@ Nissan's test courses are in Tochigi (two courses), Yokosuka and Hokkaido.
 Manufacturing locations
 
 Data extracted from Nissan's international corporate website.[149]
-
-International_locations_of_Nissan_factories_2013.svg
 
 -   Japan
     -   Oppama, Yokosuka, Kanagawa (Oppama Plant & Research Center)

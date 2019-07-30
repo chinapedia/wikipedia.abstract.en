@@ -8,9 +8,9 @@ If the areas of the two parallel faces are A₁ and A₃, the cross-sectional ar
 
 Prismatoid families
 
-  Pyramids                 Wedges                Parallelepipeds                 Prisms                 Antiprisms             Cupolae                    Frusta
-  ------------------------ --------------------- ------------------------------- ---------------------- ---------------------- -------------------------- ------------------------------------
-  Pentagonal_pyramid.png   Geometric_wedge.png   Parallelepiped_2013-11-29.svg   Pentagonal_prism.png   Square_antiprism.png   Pentagonal_antiprism.png   Pentagrammic_crossed_antiprism.png
+  Pyramids   Wedges   Parallelepipeds   Prisms   Antiprisms   Cupolae   Frusta
+  ---------- -------- ----------------- -------- ------------ --------- --------
+
 
 Families of prismatoids include:
 
@@ -34,7 +34,6 @@ Higher dimensions
 
 In general, a polytope is prismatoidal if its vertices exist in two hyperplanes. For example, in four dimensions, two polyhedra can be placed in two parallel 3-spaces, and connected with polyhedral sides.
 
-4D_Tetrahedral_Cupola-perspective-cuboctahedron-first.png
 A tetrahedral-cuboctahedral cupola.
 
 

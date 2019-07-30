@@ -19,8 +19,6 @@ Examples
 -   By order of Mary I, the body of Martin Bucer (1491–1551) was exhumed and burned at the Market Square in Cambridge, England.
 -   In 1600, after the failure of the Gowrie conspiracy, the corpses of John, Earl of Gowrie and his brother Alexander Ruthven were hanged and quartered at the Mercat Cross, Edinburgh. Their heads were put on spikes at Edinburgh's Old Tolbooth and their limbs upon spikes at various locations around Perth, Scotland.
 
-Sententie-uyt-ghesproocken-over-Gielis-van-Ledenberch_MG_1363.tif
-
 -   Gilles van Ledenberg, whose embalmed corpse was hanged from a gibbet in 1619, after his conviction of treason in the trial of Johan van Oldenbarnevelt.
 -   A number of the 59 regicides of Charles I of England, including the most prominent of the regicides, the former Lord Protector Oliver Cromwell, died before the Restoration of his son Charles II in 1660. Parliament passed an order of attainder for High Treason on the four most prominent deceased regicides: John Bradshaw the court president; Oliver Cromwell; Henry Ireton; and Thomas Pride.[7] The bodies were exhumed and three were hanged for a day at Tyburn and then beheaded. The three bodies were then thrown into a pit close to the gallows, while the heads were placed, with Bradshaw's in the middle, at the end of Westminster Hall (the symbolism was lost on no one as that was the building where the trial of Charles I had taken place).[8] Oliver Cromwell's head was finally buried in 1960. The body of Pride was not "punished", perhaps because it had decayed too much.
 -   In 1917, the body of Rasputin, the Russian mystic, was exhumed from the ground by a mob and burned with gasoline.

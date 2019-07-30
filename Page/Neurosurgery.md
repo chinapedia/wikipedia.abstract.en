@@ -16,15 +16,13 @@ In the United Kingdom, students must gain entry into medical school. MBBS qualif
 
 History
 
-Neurosurgery, or the premeditated incision into the head for pain relief, has been around for thousands of years, but notable advancements in neurosurgery have only come within the last hundred years.[6] Edinburgh_Skull,_trepanning_showing_hole_in_back_of_skull_Wellcome_M0009393.jpg
+Neurosurgery, or the premeditated incision into the head for pain relief, has been around for thousands of years, but notable advancements in neurosurgery have only come within the last hundred years.[6]
 
 Ancient
 
 The Incas appear to have practiced a procedure known as trepanation since the late Stone age.[7] During the Middle Ages in Al-Andalus from 936 to 1013 AD, Al-Zahrawi performed surgical treatments of head injuries, skull fractures, spinal injuries, hydrocephalus, subdural effusions and headache.[8]
 
 Modern
-
-HochbergFig1.jpg
 
 There was not much advancement in neurosurgery until late 19th early 20th century, when electrodes were placed on the brain and superficial tumors were removed.
 
@@ -34,7 +32,7 @@ HISTORY OF TUMOR REMOVAL: In 1879 after locating it via neurological signs alone
 
 Modern surgical instruments
 
-Puma_Robotic_Arm_-_GPN-2000-001817.jpg DORO_Aluminum_Headrest_System.png The main advancements in neurosurgery came about as a result of highly crafted tools. Modern neurosurgical tools, or instruments, include chisels, curettes, dissectors, distractors, elevators, forceps, hooks, impactors, probes, suction tubes, power tools, and robots.[15][16] Most of these modern tools, like chisels, elevators, forceps, hooks, impactors, and probes, have been in medical practice for a relatively long time. The main difference of these tools, pre and post advancement in neurosurgery, were the precision in which they were crafted. These tools are crafted with edges that are within a millimeter of desired accuracy.[17] Other tools such as hand held power saws and robots have only recently been commonly used inside of a neurological operating room. As an example, the University of Utah developed a device for computer-aided design / computer-aided manufacturing (CAD-CAM) which uses an image-guided system to define a cutting tool path for a robotic cranial drill.[18]
+The main advancements in neurosurgery came about as a result of highly crafted tools. Modern neurosurgical tools, or instruments, include chisels, curettes, dissectors, distractors, elevators, forceps, hooks, impactors, probes, suction tubes, power tools, and robots.[15][16] Most of these modern tools, like chisels, elevators, forceps, hooks, impactors, and probes, have been in medical practice for a relatively long time. The main difference of these tools, pre and post advancement in neurosurgery, were the precision in which they were crafted. These tools are crafted with edges that are within a millimeter of desired accuracy.[17] Other tools such as hand held power saws and robots have only recently been commonly used inside of a neurological operating room. As an example, the University of Utah developed a device for computer-aided design / computer-aided manufacturing (CAD-CAM) which uses an image-guided system to define a cutting tool path for a robotic cranial drill.[18]
 
 
 Main divisions
@@ -54,7 +52,7 @@ Specialized branches have developed to cater to special and difficult conditions
 
 Neuropathology
 
-Neuropathology_case_V_03.jpg Neuropathology is a specialty within the study of pathology focused on the disease of the brain, spinal cord, and neural tissue.[20] This includes the central nervous system and the peripheral nervous system. Tissue analysis comes from either surgical biopsies or post mortem autopsies. Common tissue samples include muscle fibers and nervous tissue.[21] Common applications of neuropathology include studying samples of tissue in patients who have Parkinson's disease, Alzheimer's disease, dementia, Huntington's disease, amyotrophic lateral sclerosis, mitochondria disease, and any disorder that has neural deterioration in the brain or spinal cord.[22][23]
+Neuropathology is a specialty within the study of pathology focused on the disease of the brain, spinal cord, and neural tissue.[20] This includes the central nervous system and the peripheral nervous system. Tissue analysis comes from either surgical biopsies or post mortem autopsies. Common tissue samples include muscle fibers and nervous tissue.[21] Common applications of neuropathology include studying samples of tissue in patients who have Parkinson's disease, Alzheimer's disease, dementia, Huntington's disease, amyotrophic lateral sclerosis, mitochondria disease, and any disorder that has neural deterioration in the brain or spinal cord.[22][23]
 
 History
 

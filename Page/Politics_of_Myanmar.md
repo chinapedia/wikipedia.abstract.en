@@ -90,7 +90,7 @@ Members of the Myanmar cabinet in the Win Myint administration
 
 Legislative branch
 
-Myanmar-Lower-House-Parliament.jpg.]] Under the 2008 Constitution the legislative power of the Union is shared among the _Pyidaungsu Hluttaw_, State and Region Hluttaws.[35] The _Pyidaungsu Hluttaw_ consists of the People's Assembly (_Pyithu Hluttaw_) elected on the basis of township as well as population, and the House of Nationalities (_Amyotha Hluttaw_) with on an equal number of representatives elected from Regions and States.[36][37] The People's Assembly consists of 440 representatives, with 110 being military personnel nominated by the Commander-in-Chief of the Defence Services.[38] The House of Nationalities consists of 224 representatives with 56 being military personnel nominated by the Commander-in-Chief of the Defence Services.[39]
+.]] Under the 2008 Constitution the legislative power of the Union is shared among the _Pyidaungsu Hluttaw_, State and Region Hluttaws.[35] The _Pyidaungsu Hluttaw_ consists of the People's Assembly (_Pyithu Hluttaw_) elected on the basis of township as well as population, and the House of Nationalities (_Amyotha Hluttaw_) with on an equal number of representatives elected from Regions and States.[36][37] The People's Assembly consists of 440 representatives, with 110 being military personnel nominated by the Commander-in-Chief of the Defence Services.[38] The House of Nationalities consists of 224 representatives with 56 being military personnel nominated by the Commander-in-Chief of the Defence Services.[39]
 
 
 Judicial system

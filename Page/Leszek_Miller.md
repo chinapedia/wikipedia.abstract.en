@@ -1,4 +1,4 @@
-Leszek_Miller_Krzysztof_Gawkowski_Sejm_2014.JPG Marek_Belka_i_Leszek_Miller.jpg (2004)]] 00_Leszek_Miller.jpg
+(2004)]]
 
 LESZEK CEZARY MILLER (Polish pronunciation: ; born 3 July 1946) is a Polish left-wing politician who served as Prime Minister of Poland from 2001 to 2004. He is now a Member of the European Parliament. Miller was the leader of the Democratic Left Alliance from 1999 to 2004 and again from 2011 to 2016.
 

@@ -35,8 +35,6 @@ Keynes adds that "this psychological law was of the utmost importance in the dev
 
 Liquidity preference
 
-Keynesp180.svg
-
 Keynes viewed the money supply as one of the main determinants of the state of the real economy. The significance he attributed to it is one of the innovative features of his work, and was influential on the politically hostile monetarist school.
 
 Money supply comes into play through the _liquidity preference_ function, which is the demand function that corresponds to money supply. It specifies the amount of money people will seek to hold according to the state of the economy. In Keynes's first (and simplest) account – that of Chapter 13 – liquidity preference is determined solely by the interest rate _r_—which is seen as the earnings forgone by holding wealth in liquid form:[13] hence liquidity preference can be written _L_(_r_ ) and in equilibrium must equal the externally fixed money supply _M̂_.
@@ -76,8 +74,6 @@ Keynesian models and concepts
 
 Aggregate demand
 
-Keynescross.svg
-
 Keynes' view of saving and investment was his most important departure from the classical outlook. It can be illustrated using the "Keynesian cross" devised by Paul Samuelson.[17] The horizontal axis denotes total income and the purple curve shows _C_ (_Y_ ), the propensity to consume, whose complement _S_ (_Y_ ) is the propensity to save: the sum of these two functions is equal to total income, which is shown by the broken line at 45°.
 
 The horizontal blue line _I_(s )_(_r_ ) is the schedule of the marginal efficiency of capital whose value is independent of _Y_. Keynes interprets this as the demand for investment and denotes the sum of demands for consumption and investment as "aggregate demand", plotted as a separate curve. Aggregate demand must equal total income, so equilibrium income must be determined by the point where the aggregate demand curve crosses the 45° line.[18] This is the same horizontal position as the intersection of _I_(s )_(_r_ ) with _S_ (_Y_ ).
@@ -112,7 +108,7 @@ The value Keynes assigns to his multiplier is the reciprocal of the marginal pro
 
 The liquidity trap
 
-Keynesliquiditytrap.svgThe liquidity trap is a phenomenon that may impede the effectiveness of monetary policies in reducing unemployment.
+The liquidity trap is a phenomenon that may impede the effectiveness of monetary policies in reducing unemployment.
 
 Economists generally think the rate of interest will not fall below a certain limit, often seen as zero or a slightly negative number. Keynes suggested that the limit might be appreciably greater than zero but did not attach much practical significance to it. The term "liquidity trap" was coined by Dennis Robertson in his comments on the _General Theory_,[29] but it was John Hicks in "Mr. Keynes and the Classics"[30] who recognised the significance of a slightly different concept.
 
@@ -123,8 +119,6 @@ Paul Krugman has worked extensively on the liquidity trap, claiming that it was 
   Short-term interest rates were close to zero, long-term rates were at historical lows, yet private investment spending remained insufficient to bring the economy out of deflation. In that environment, monetary policy was just as ineffective as Keynes described. Attempts by the Bank of Japan to increase the money supply simply added to already ample bank reserves and public holdings of cash...[32]
 
 The IS–LM model
-
-Keynesislm.svg
 
 Hicks showed how to analyze Keynes' system when liquidity preference is a function of income as well as of the rate of interest. Keynes's admission of income as an influence on the demand for money is a step back in the direction of classical theory, and Hicks takes a further step in the same direction by generalizing the propensity to save to take both _Y_  and _r_  as arguments. Less classically he extends this generalization to the schedule of the marginal efficiency of capital.
 
@@ -143,7 +137,7 @@ Keynesian economic policies
 
 Active fiscal policy
 
-Economic_Policy_-_Intervention_Strategy_Matrix.png Keynes argued that the solution to the Great Depression was to stimulate the country ("incentive to invest") through some combination of two approaches:
+Keynes argued that the solution to the Great Depression was to stimulate the country ("incentive to invest") through some combination of two approaches:
 
 1.  A reduction in interest rates (monetary policy), and
 2.  Government investment in infrastructure (fiscal policy).

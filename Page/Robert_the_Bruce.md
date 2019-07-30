@@ -18,7 +18,7 @@ Early life (1274–1292)
 
 Birth
 
-Turnberry_Castle.jpg, Robert the Bruce's likely birthplace]]
+, Robert the Bruce's likely birthplace]]
 
 Although Robert the Bruce's date of birth is known,[4] his place of birth is less certain, although it is most likely to have been Turnberry Castle in Ayrshire, the head of his mother's earldom.[5] However, there are claims that he may have been born in Lochmaben in Dumfriesshire, or Writtle in Essex.[6][7][8]
 
@@ -47,7 +47,7 @@ Earl of Carrick (1292–1306)
 
 The Bruces regroup
 
-Robert_I_and_Isabella_of_Mar.jpg, as depicted in the 1562 Forman Armorial.]]
+, as depicted in the 1562 Forman Armorial.]]
 
 Even after John's accession, Edward still continued to assert his authority over Scotland and relations between the two kings soon began to deteriorate. The Bruces sided with King Edward against King John and his Comyn allies. Robert the Bruce and his father both considered John a usurper.[33][34] Against the objections of the Scots, Edward I agreed to hear appeals on cases ruled on by the court of the Guardians that had governed Scotland during the interregnum.[35] A further provocation came in a case brought by Macduff, son of Malcolm, Earl of Fife, in which Edward demanded that John appear in person before the English Parliament to answer the charges.[36] This the Scottish king did, but the final straw was Edward's demand that the Scottish magnates provide military service in England's war against France.[37] This was unacceptable; the Scots instead formed an alliance with France.[38]
 
@@ -69,7 +69,7 @@ When King Edward returned to England after his victory at the Battle of Falkirk,
 
 Guardian
 
-William Wallace resigned as Guardian of Scotland after his defeat at the Battle of Falkirk. He was succeeded by Robert Bruce and John Comyn as joint Guardians, but they could not see past their personal differences. As a nephew and supporter of King John, and as someone with a serious claim to the Scottish throne, Comyn was Bruce's enemy. In 1299, William Lamberton, Bishop of St. Andrews, was appointed as a third, neutral Guardian to try to maintain order between Bruce and Comyn. The following year, Bruce finally resigned as joint Guardian and was replaced by Sir Gilbert de Umfraville, Earl of Angus. In May 1301, Umfraville, Comyn, and Lamberton also resigned as joint Guardians and were replaced by Sir John de Soules as sole Guardian. Soules was appointed largely because he was part of neither the Bruce nor the Comyn camps and was a patriot. He was an active Guardian and made renewed efforts to have King John returned to the Scottish throne. Wallace_Monument_20080505_Bust_Robert_the_Bruce.jpg]] In July 1301 King Edward I launched his sixth campaign into Scotland. Though he captured the castles of Bothwell and Turnberry, he did little to damage the Scots' fighting ability, and in January 1302 he agreed to a nine-month truce. It was around this time that Robert the Bruce submitted to Edward, along with other nobles, even though he had been on the side of the Scots until then. There were rumours that John Balliol would return to regain the Scottish throne. Soules, who had probably been appointed by John, supported his return, as did most other nobles. But it was no more than a rumour and nothing came of it.
+William Wallace resigned as Guardian of Scotland after his defeat at the Battle of Falkirk. He was succeeded by Robert Bruce and John Comyn as joint Guardians, but they could not see past their personal differences. As a nephew and supporter of King John, and as someone with a serious claim to the Scottish throne, Comyn was Bruce's enemy. In 1299, William Lamberton, Bishop of St. Andrews, was appointed as a third, neutral Guardian to try to maintain order between Bruce and Comyn. The following year, Bruce finally resigned as joint Guardian and was replaced by Sir Gilbert de Umfraville, Earl of Angus. In May 1301, Umfraville, Comyn, and Lamberton also resigned as joint Guardians and were replaced by Sir John de Soules as sole Guardian. Soules was appointed largely because he was part of neither the Bruce nor the Comyn camps and was a patriot. He was an active Guardian and made renewed efforts to have King John returned to the Scottish throne. ]] In July 1301 King Edward I launched his sixth campaign into Scotland. Though he captured the castles of Bothwell and Turnberry, he did little to damage the Scots' fighting ability, and in January 1302 he agreed to a nine-month truce. It was around this time that Robert the Bruce submitted to Edward, along with other nobles, even though he had been on the side of the Scots until then. There were rumours that John Balliol would return to regain the Scottish throne. Soules, who had probably been appointed by John, supported his return, as did most other nobles. But it was no more than a rumour and nothing came of it.
 
 In March 1302, Bruce sent a letter to the monks at Melrose Abbey apologising for having called tenants of the monks to service in his army when there had been no national call-up. Bruce pledged that, henceforth, he would "never again" require the monks to serve unless it was to "the common army of the whole realm", for national defence. Bruce also married his second wife that year, Elizabeth de Burgh, the daughter of Richard de Burgh, 2nd Earl of Ulster. By Elizabeth he had four children: David II, John (died in childhood), Matilda (who married Thomas Isaac and died at Aberdeen 20 July 1353), and Margaret (who married William de Moravia, 5th Earl of Sutherland in 1345).
 
@@ -83,7 +83,7 @@ Robert Bruce as Earl of Carrick, and now 7th Lord of Annandale, held huge estate
 
 Murder of John Comyn
 
-Death_of_Comyn.jpg, a 19th-century illustrator]]
+, a 19th-century illustrator]]
 
 Bruce, like all his family, had a complete belief in his right to the throne. However, his actions of supporting alternatively the English and Scottish armies had led to a great deal of distrust towards Bruce among the "Community of the Realm of Scotland". His ambition was further thwarted by John Comyn, who had been much more resolute in his opposition to the English. Comyn was the most powerful noble in Scotland and was related to many more powerful nobles both within Scotland and England, including relatives that held the earldoms of Buchan, Mar, Ross, Fife, Angus, Dunbar, and Strathearn; the Lordships of Kilbride, Kirkintilloch, Lenzie, Bedrule, and Scraesburgh; and sheriffdoms in Banff, Dingwall, Wigtown, and Aberdeen. He also had a powerful claim to the Scottish throne through his descent from Donald III on his father's side and David I on his mother's side. Comyn was the nephew of John Balliol.
 
@@ -102,7 +102,7 @@ Early reign (1306–1314)
 
 War of Robert the Bruce
 
-Robert_The_Bruce_Crowned_King_of_Scots.jpg Six weeks after Comyn was killed in Dumfries, Bruce was crowned King of Scots by Bishop William de Lamberton at Scone, near Perth, on Palm Sunday[63] 25 March 1306 with all formality and solemnity. The royal robes and vestments that Robert Wishart had hidden from the English were brought out by the bishop and set upon King Robert. The bishops of Moray and Glasgow were in attendance, as were the earls of Atholl, Menteith, Lennox, and Mar. The great banner of the kings of Scotland was planted behind Bruce's throne.[64]
+Six weeks after Comyn was killed in Dumfries, Bruce was crowned King of Scots by Bishop William de Lamberton at Scone, near Perth, on Palm Sunday[63] 25 March 1306 with all formality and solemnity. The royal robes and vestments that Robert Wishart had hidden from the English were brought out by the bishop and set upon King Robert. The bishops of Moray and Glasgow were in attendance, as were the earls of Atholl, Menteith, Lennox, and Mar. The great banner of the kings of Scotland was planted behind Bruce's throne.[64]
 
 Isabella MacDuff, Countess of Buchan and wife of John Comyn, 3rd Earl of Buchan (a cousin of the murdered John Comyn) arrived the next day, too late for the coronation. She claimed the right of her family, the MacDuff Earl of Fife, to crown the Scottish king for her brother, Donnchadh IV, Earl of Fife, who was not yet of age, and in English hands. So a second coronation was held and once more the crown was placed on the brow of Robert Bruce, Earl of Carrick, Lord of Annandale, King of the Scots.
 
@@ -110,7 +110,7 @@ In June 1306 Bruce was defeated at the Battle of Methven. His wife and daughters
 
 Edward I marched north again in the spring. On his way, he granted the Scottish estates of Bruce and his adherents to his own followers and had published a bill excommunicating Bruce. Bruce's queen, Elizabeth, his daughter Marjorie, his sisters Christina and Mary, and Isabella MacDuff were captured in a sanctuary at Tain and sent to harsh imprisonment, which included Mary and Isabella being hung in cages at Roxburgh and Berwick castles respectively for about four years, while Bruce's brother Neil was executed by being hanged, drawn, and quartered.[67][68]
 
-On 7 July, King Edward I died, leaving Bruce opposed by the king's son, Edward II. At_night_when_they_gathered_round_the_watch-fires,_the_king_would_read_stories_of_the_old_books.jpg It is still uncertain where Bruce spent the winter of 1306–07. Most likely he spent it in the Hebrides, possibly sheltered by Christina of the Isles. The latter was married to a member of the Mar kindred, a family to which Bruce was related (not only was his first wife a member of this family but her brother, Gartnait, was married to a sister of Bruce). Ireland is also a serious possibility, and Orkney (under Norwegian rule at the time) or Norway proper (where his sister Isabel Bruce was queen dowager) are unlikely but not impossible.[69] Bruce and his followers returned to the Scottish mainland in February in two groups. One, led by Bruce and his brother Edward, landed at Turnberry Castle and began a guerrilla war in south-west Scotland. The other, led by his brothers Thomas and Alexander, landed slightly further south in Loch Ryan, but they were soon captured and executed. In April, Bruce won a small victory over the English at the Battle of Glen Trool, before defeating Aymer de Valence, 2nd Earl of Pembroke, at the Battle of Loudoun Hill. At the same time, James Douglas made his first foray for Bruce into south-western Scotland, attacking and burning his own castle in Douglasdale. Leaving his brother Edward in command in Galloway, Bruce travelled north, capturing Inverlochy and Urquhart Castles, burning to the ground Inverness Castle and Nairn, then unsuccessfully threatening Elgin.
+On 7 July, King Edward I died, leaving Bruce opposed by the king's son, Edward II. It is still uncertain where Bruce spent the winter of 1306–07. Most likely he spent it in the Hebrides, possibly sheltered by Christina of the Isles. The latter was married to a member of the Mar kindred, a family to which Bruce was related (not only was his first wife a member of this family but her brother, Gartnait, was married to a sister of Bruce). Ireland is also a serious possibility, and Orkney (under Norwegian rule at the time) or Norway proper (where his sister Isabel Bruce was queen dowager) are unlikely but not impossible.[69] Bruce and his followers returned to the Scottish mainland in February in two groups. One, led by Bruce and his brother Edward, landed at Turnberry Castle and began a guerrilla war in south-west Scotland. The other, led by his brothers Thomas and Alexander, landed slightly further south in Loch Ryan, but they were soon captured and executed. In April, Bruce won a small victory over the English at the Battle of Glen Trool, before defeating Aymer de Valence, 2nd Earl of Pembroke, at the Battle of Loudoun Hill. At the same time, James Douglas made his first foray for Bruce into south-western Scotland, attacking and burning his own castle in Douglasdale. Leaving his brother Edward in command in Galloway, Bruce travelled north, capturing Inverlochy and Urquhart Castles, burning to the ground Inverness Castle and Nairn, then unsuccessfully threatening Elgin.
 
 Transferring operations to Aberdeenshire in late 1307, he threatened Banff before falling seriously ill, probably owing to the hardships of the lengthy campaign. Recovering, leaving John Comyn, 3rd Earl of Buchan unsubdued at his rear, Bruce returned west to take Balvenie and Duffus Castles, then Tarradale Castle on the Black Isle. Looping back via the hinterlands of Inverness and a second failed attempt to take Elgin, Bruce finally achieved his landmark defeat of Comyn at the Battle of Inverurie in May 1308; he then overran Buchan and defeated the English garrison at Aberdeen. The Harrying of Buchan in 1308 was ordered by Bruce to make sure all Comyn family support was extinguished. Buchan had a very large population because it was the agricultural capital of northern Scotland, and much of its population was loyal to the Comyn family even after the defeat of the Earl of Buchan. Most of the Comyn castles in Moray, Aberdeen and Buchan were destroyed and their inhabitants killed. Bruce ordered similar harryings in Argyle and Kintyre, in the territories of Clan MacDougall. With these acts, Bruce had successfully destroyed the power of the Comyns, which had controlled much of northern and southwestern Scotland for over 150 years. He then crossed to Argyll and defeated the MacDougalls (allies of the Comyns) at the Battle of Pass of Brander and took Dunstaffnage Castle, the last major stronghold of the Comyns.[70]
 
@@ -120,7 +120,7 @@ The eight years of exhausting but deliberate refusal to meet the English on even
 
 Battle of Bannockburn
 
-Battle_from_Holkham_Bible.jpg depiction of the Battle of Bannockburn (1314)]]
+depiction of the Battle of Bannockburn (1314)]]
 
 By 1314, Bruce had recaptured most of the castles in Scotland held by the English and was sending raiding parties into northern England as far as Carlisle.[73] In response, Edward II planned a major military campaign with the support of Lancaster and the barons, mustering a large army of between 15,000 and 20,000 men.[74] In the spring of 1314, Edward Bruce laid siege to Stirling Castle, a key fortification in Scotland whose governor, Philip de Mowbray, agreed to capitulate if not relieved before 24 June 1314. In March, James Douglas captured Roxburgh, and Randolph captured Edinburgh Castle, while in May, Bruce again raided England and subdued the Isle of Man. News of the agreement regarding Stirling Castle reached the English king in late May, and he decided to speed his march north from Berwick to relieve the castle.[75] Robert, with between 5,500 and 6,500 troops, predominantly spearmen, prepared to prevent Edward's forces from reaching Stirling.[76]
 
@@ -131,7 +131,7 @@ Edward II was dragged from the battlefield, hotly pursued by the Scottish forces
 
 Mid-reign (1314–1320)
 
-Battle_of_Bannockburn_-_Bruce_addresses_troops.jpg's _History of England_.[86]]]
+'s _History of England_.[86]]]
 
 Further confrontation with England then the Irish conflict
 
@@ -145,8 +145,6 @@ The Bruce campaign in Ireland was characterised by some initial military success
 
 
 Later reign (1320–1329)
-
-Declaration_of_arbroath.jpg
 
 The reign of Robert Bruce also included some significant diplomatic achievements. The Declaration of Arbroath of 1320 strengthened his position, particularly in relation to the Papacy, and Pope John XXII eventually lifted Bruce's excommunication. In May 1328 King Edward III of England signed the Treaty of Edinburgh-Northampton, which recognised Scotland as an independent kingdom, and Bruce as its king.
 
@@ -169,7 +167,7 @@ Death (1329)
 
 Death and aftermath
 
-Dunfermline_Abbey_-_entrance.jpg]]
+]]
 
 Robert died on 7 June 1329, at the Manor of Cardross, near Dumbarton. Apart from failing to fulfill a vow to undertake a crusade he died utterly fulfilled, in that the goal of his lifetime's struggle—untrammelled recognition of the Bruce right to the crown—had been realised, and confident that he was leaving the kingdom of Scotland safely in the hands of his most trusted lieutenant, Moray, until his infant son reached adulthood.[111] Six days after his death, to complete his triumph still further, papal bulls were issued granting the privilege of unction at the coronation of future Kings of Scots.[112]
 
@@ -186,8 +184,6 @@ When a projected international crusade failed to materialise, Sir James Douglas 
 In accordance with Bruce's written request, the heart was buried at Melrose Abbey in Roxburghshire.[125] In 1920, the heart was discovered by archaeologists and was reburied, but the location was not marked.[126] In 1996, a casket was unearthed during construction work.[127] Scientific study by AOC archaeologists in Edinburgh, demonstrated that it did indeed contain human tissue and it was of appropriate age. It was reburied in Melrose Abbey in 1998, pursuant to the dying wishes of the King.[128]
 
 Discovery of the Bruce's tomb
-
-Dunfermline_Abbey_20080504_Skull_Robert_the_Bruce.jpg
 
 On 17 February 1818, workmen breaking ground on the new parish church to be built on the site of the eastern choir of Dunfermline Abbey uncovered a vault before the site of the former abbey high altar.[129][130] The vault was covered by two large, flat stones—one forming a headstone, and a larger stone six feet (182 cm) in length, with six iron rings or handles set in it. When these stones were removed, the vault was found to be seven feet (214 cm) in length, 56 cm wide and 45 cm deep.[131] Within the vault, inside the remnants of a decayed oak coffin, there was a body entirely enclosed in lead, with a decayed shroud of cloth of gold over it. Over the head of the body the lead was formed into the shape of a crown.[132] Fragments of marble and alabaster had been found in the debris around the site of the vault several years earlier, which were linked to Robert the Bruce's recorded purchase of a marble and alabaster tomb made in Paris.[133]
 
@@ -232,8 +228,6 @@ Commemoration and monuments
 Robert I was originally buried in Dunfermline Abbey, traditional resting-place of Scottish monarchs since the reign of Malcolm III. His tomb, imported from Paris, was extremely elaborate, carved from gilded alabaster. It was destroyed at the Reformation, but some fragments were discovered in the 19th century (now in the Museum of Scotland in Edinburgh).
 
 The site of the tomb in Dunfermline Abbey was marked by large carved stone letters spelling out "King Robert the Bruce" around the top of the bell tower, when the eastern half of the abbey church was rebuilt in the first half of the 19th century. In 1974 the Bruce Memorial Window was installed in the north transept, commemorating the 700th anniversary of the year of his birth. It depicts stained glass images of the Bruce flanked by his chief men, Christ, and saints associated with Scotland.[147]
-
-Robert_the_Bruce,_Edinburgh_Castle.jpg
 
 A 1929 statue of Robert the Bruce is set in the wall of Edinburgh Castle at the entrance, along with one of William Wallace. In Edinburgh also, the Scottish National Portrait Gallery has statues of Bruce and Wallace in niches flanking the main entrance. The building also contains several frescos depicting scenes from Scots history by William Brassey Hole in the entrance foyer, including a large example of Bruce marshalling his men at Bannockburn.
 

@@ -1,14 +1,14 @@
-Baobab_trees_likoma_island.jpgTRANSPORTATION IN MALAWI is poorly developed. The country of almost 14 million has 39 airports, 6 with paved runways and 33 with unpaved runways. It has of railways, all narrow-gauge and about 45 percent of its roads are paved. Though it is landlocked, Malawi also has of waterways on Lake Malawi and along the Shire River.[1]
+TRANSPORTATION IN MALAWI is poorly developed. The country of almost 14 million has 39 airports, 6 with paved runways and 33 with unpaved runways. It has of railways, all narrow-gauge and about 45 percent of its roads are paved. Though it is landlocked, Malawi also has of waterways on Lake Malawi and along the Shire River.[1]
 
 
 Highways
 
-Mzuzu.JPG through the Chikangawa man-made forest.]] Recent assessments indicate that there were of roads in the country; of these, (45 percent) were paved. The remaining were not paved.[2]
+through the Chikangawa man-made forest.]] Recent assessments indicate that there were of roads in the country; of these, (45 percent) were paved. The remaining were not paved.[2]
 
 
 Ports, harbours and waterways
 
-Malawi_boat.jpgLake Nyasa (Lake Malawi) and Shire River (144 kilometres) provide the major waterways. There is a railhead at the port of Chipoka, Salima district in central Malawi. Smaller ports exist at Monkey Bay, Nkhata Bay, Nkhotakota and Chilumba. The MV Ilala connects Likoma Island with the mainland, as well as the Malawian and Mozambican sides of the lake. In 2010, a port in Nsanje was opened to connect the country through the Shire and Zambezi rivers with the Indian Ocean. As of 2015, the port is not operational due to unresolved contracts with Mozambique.
+Lake Nyasa (Lake Malawi) and Shire River (144 kilometres) provide the major waterways. There is a railhead at the port of Chipoka, Salima district in central Malawi. Smaller ports exist at Monkey Bay, Nkhata Bay, Nkhotakota and Chilumba. The MV Ilala connects Likoma Island with the mainland, as well as the Malawian and Mozambican sides of the lake. In 2010, a port in Nsanje was opened to connect the country through the Shire and Zambezi rivers with the Indian Ocean. As of 2015, the port is not operational due to unresolved contracts with Mozambique.
 
 
 Air transport

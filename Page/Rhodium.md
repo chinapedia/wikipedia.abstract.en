@@ -9,7 +9,7 @@ Rhodium detectors are used in nuclear reactors to measure the neutron flux level
 
 History
 
-Wollaston_William_Hyde_Jackson_color.jpg]] Rhodium (Greek _rhodon_ (ῥόδον) meaning "rose") was discovered in 1803 by William Hyde Wollaston,[2] soon after his discovery of palladium.[3][4][5] He used crude platinum ore presumably obtained from South America.[6] His procedure involved dissolving the ore in aqua regia and neutralizing the acid with sodium hydroxide (NaOH). He then precipitated the platinum as ammonium chloroplatinate by adding ammonium chloride (). Most other metals like copper, lead, palladium and rhodium were precipitated with zinc. Diluted nitric acid dissolved all but palladium and rhodium. Of these, palladium dissolved in aqua regia but rhodium did not,[7] and the rhodium was precipitated by the addition of sodium chloride as . After being washed with ethanol, the rose-red precipitate was reacted with zinc, which displaced the rhodium in the ionic compound and thereby released the rhodium as free metal.[8]
+]] Rhodium (Greek _rhodon_ (ῥόδον) meaning "rose") was discovered in 1803 by William Hyde Wollaston,[2] soon after his discovery of palladium.[3][4][5] He used crude platinum ore presumably obtained from South America.[6] His procedure involved dissolving the ore in aqua regia and neutralizing the acid with sodium hydroxide (NaOH). He then precipitated the platinum as ammonium chloroplatinate by adding ammonium chloride (). Most other metals like copper, lead, palladium and rhodium were precipitated with zinc. Diluted nitric acid dissolved all but palladium and rhodium. Of these, palladium dissolved in aqua regia but rhodium did not,[7] and the rhodium was precipitated by the addition of sodium chloride as . After being washed with ethanol, the rose-red precipitate was reacted with zinc, which displaced the rhodium in the ionic compound and thereby released the rhodium as free metal.[8]
 
 After the discovery, the rare element had only minor applications; for example, by the turn of the century, rhodium-containing thermocouples were used to measure temperatures up to 1800 K.[9][10] The first major application was electroplating for decorative uses and as corrosion-resistant coating.[11] The introduction of the three-way catalytic converter by Volvo in 1976 increased the demand for rhodium. The previous catalytic converters used platinum or palladium, while the three-way catalytic converter used rhodium to reduce the amount of NO_(x) in the exhaust.[12][13][14]
 
@@ -27,7 +27,7 @@ Rhodium is a hard, silvery, durable metal that has a high reflectance. Rhodium m
 
 Chemical properties
 
-Wilkinson's-catalyst-2D.png Rhodium belongs to group 9 of the periodic table, but the configuration of electrons in the outermost shells is atypical for the group. This anomaly is also observed in the neighboring elements, niobium (41), ruthenium (44), and palladium (46).
+Rhodium belongs to group 9 of the periodic table, but the configuration of electrons in the outermost shells is atypical for the group. This anomaly is also observed in the neighboring elements, niobium (41), ruthenium (44), and palladium (46).
 
 +------------------+
 | Oxidation states |
@@ -67,7 +67,7 @@ Rhodium is one of the rarest elements in the Earth's crust, comprising an estima
 
 Mining and price
 
-Rh_price.png The industrial extraction of rhodium is complex because the ores are mixed with other metals such as palladium, silver, platinum, and gold and there are very few rhodium-bearing minerals. It is found in platinum ores and extracted as a white inert metal that is difficult to fuse. Principal sources are located in South Africa; in river sands of the Ural Mountains; and in North America, including the copper-nickel sulfide mining area of the Sudbury, Ontario, region. Although the quantity at Sudbury is very small, the large amount of processed nickel ore makes rhodium recovery cost-effective.
+The industrial extraction of rhodium is complex because the ores are mixed with other metals such as palladium, silver, platinum, and gold and there are very few rhodium-bearing minerals. It is found in platinum ores and extracted as a white inert metal that is difficult to fuse. Principal sources are located in South Africa; in river sands of the Ural Mountains; and in North America, including the copper-nickel sulfide mining area of the Sudbury, Ontario, region. Although the quantity at Sudbury is very small, the large amount of processed nickel ore makes rhodium recovery cost-effective.
 
 The main exporter of rhodium is South Africa (approximately 80% in 2010) followed by Russia.[25] The annual world production is 30 tonnes. The price of rhodium is highly variable. In 2007, rhodium cost approximately eight times more than gold, 450 times more than silver, and 27,250 times more than copper by weight. In 2008, the price briefly rose above $10,000 per ounce ($350,000 per kilogram). The economic slowdown of the 3rd quarter of 2008 pushed rhodium prices sharply back below $1,000 per ounce ($35,000 per kilogram); the price rebounded to $2,750 by early 2010 ($97,000 per kilogram) (more than twice the gold price), but in late 2013, the prices were less than $1000.
 

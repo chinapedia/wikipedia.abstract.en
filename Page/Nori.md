@@ -1,4 +1,4 @@
-Nori_for_Sushi_micro_photo_200x.jpg is the Japanese name for edible seaweed (a "sea vegetable") species of the red algae genus _Pyropia_, including _P. yezoensis_ and _P. tenera_. It has a strong and distinctive flavor. It is used chiefly in Japanese cuisine as an ingredient to wrap rolls of sushi or _onigiri_, in which case the term refers to the dried sheets.
+is the Japanese name for edible seaweed (a "sea vegetable") species of the red algae genus _Pyropia_, including _P. yezoensis_ and _P. tenera_. It has a strong and distinctive flavor. It is used chiefly in Japanese cuisine as an ingredient to wrap rolls of sushi or _onigiri_, in which case the term refers to the dried sheets.
 
 The finished dried sheets are made by a shredding and rack-drying process that resembles papermaking. They are sold in packs in grocery stores for culinary purposes. Since _nori_ sheets easily absorb water from the air and degrade, a desiccant is needed when storing _nori_ for any significant time.
 
@@ -7,7 +7,7 @@ The Academy of Nutrition and Dietetics established in 2016 that nori is not an a
 
 History
 
-Cakes_and_Food_Made_of_Seaweed_by_Kubo_Shunman.jpg Shinagawa_nori_Utagawa_Kuniyoshi_1864.jpg Originally, the term _nori_ was generic and referred to seaweeds, including _hijiki_.[3] One of the oldest descriptions of nori is dated to around the 8th century. In the Taihō Code enacted in 701, _nori_ was already included in the form of taxation.[4] Local people have been described as drying nori in Hitachi Province fudoki (721–721), and harvesting of nori was mentioned in Izumo Province fudoki (713–733), showing that nori was used as food from ancient times.[5] In _Utsubo Monogatari_, written around 987, _nori_ was recognized as a common food. Nori had been consumed as paste form until the sheet form was invented in Asakusa, Edo (contemporary Tokyo), around 1750 in the Edo period through the method of Japanese paper-making.[6][7][8][9]
+Originally, the term _nori_ was generic and referred to seaweeds, including _hijiki_.[3] One of the oldest descriptions of nori is dated to around the 8th century. In the Taihō Code enacted in 701, _nori_ was already included in the form of taxation.[4] Local people have been described as drying nori in Hitachi Province fudoki (721–721), and harvesting of nori was mentioned in Izumo Province fudoki (713–733), showing that nori was used as food from ancient times.[5] In _Utsubo Monogatari_, written around 987, _nori_ was recognized as a common food. Nori had been consumed as paste form until the sheet form was invented in Asakusa, Edo (contemporary Tokyo), around 1750 in the Edo period through the method of Japanese paper-making.[6][7][8][9]
 
 The word "_nori_" first appeared in an English-language publication in _C. P. Thunberg's Trav._, published in 1796.[10] It was used in conjugation as "_Awa nori_", probably referring to what is now called aonori.[11]
 
@@ -25,8 +25,6 @@ Production and processing of _nori_ is an advanced form of agriculture. The biol
 Several grades of _nori_ are available in the United States. The most common, and least expensive, grades are imported from China, costing about six cents per sheet. At the high end, ranging up to 90 cents per sheet, are "delicate _shin-nori_" (_nori_ from the first of the year's several harvests) cultivated in Ariake Sea, off the island of Kyushu in Japan.[15]
 
 In Japan, over of coastal waters are given to producing of _nori_, worth over a billion dollars. China produces about a third of this amount.[16]
-
-Negitoro_gunkanmaki_of_Moriya_Sakanaya_Uohei.jpg
 
 
 Culinary uses

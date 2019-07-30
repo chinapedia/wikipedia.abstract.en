@@ -1,4 +1,4 @@
-Moldova_map.gif Satellite_image_of_Moldova_in_September_2003.jpg Located in Eastern Europe, Moldova is bordered on the west and southwest by Romania and on the north, south, and east by Ukraine. Most of its territory lies between the area's two main rivers, the Nistru and the Prut. The Nistru forms a small part of Moldova's border with Ukraine in the northeast and southeast, but it mainly flows through the eastern part of the country, separating Bessarabia and Transnistria. The Prut River forms Moldova's entire western boundary with Romania. The Danube touches the Moldovan border at its southernmost tip, and forms the border for .
+Located in Eastern Europe, Moldova is bordered on the west and southwest by Romania and on the north, south, and east by Ukraine. Most of its territory lies between the area's two main rivers, the Nistru and the Prut. The Nistru forms a small part of Moldova's border with Ukraine in the northeast and southeast, but it mainly flows through the eastern part of the country, separating Bessarabia and Transnistria. The Prut River forms Moldova's entire western boundary with Romania. The Danube touches the Moldovan border at its southernmost tip, and forms the border for .
 
 
 Basic data
@@ -57,11 +57,11 @@ Cahul's climate. (Southern Moldova)
 
 Topography
 
-MoldRelief.jpg Most of Moldova's territory is a moderate hilly plateau cut deeply by many streams and rivers. Geologically, Moldova lies primarily on deep sedimentary rock that gives way to harder crystalline outcroppings only in the north. Moldova's hills are part of the Moldavian Plateau, which geologically originate from the Carpathian Mountains.
+Most of Moldova's territory is a moderate hilly plateau cut deeply by many streams and rivers. Geologically, Moldova lies primarily on deep sedimentary rock that gives way to harder crystalline outcroppings only in the north. Moldova's hills are part of the Moldavian Plateau, which geologically originate from the Carpathian Mountains.
 
 The northern landscape of Moldova is characterized by gently rolling uplands of the Dniester Hills (up to , in elevation) interlaced with small flat plains in the valleys of the numerous creeks (at elevation). These hills, which have an average altitude of and a maximum altitude of , can be divided into the Northern Moldavian Hills and the Dniester Ridge, and continue further occupying the northern part of the Chernivtsi oblast in Ukraine. The eastern slopes of the Dniester Ridge (average , max ), form the high right bank of the Dniester River.
 
-The Moldavian Plain has an average of and a maximum altitude of , and can be divided into the Bălți Steppe and the Middle Prut Valley. Originally forested, it has been extensively de-forested for agriculture during the 19th and 20th centuries. In contrast to the region to the north and south, which is smore slant, this area is referred to as _plain_, although it has relief very different from that of a flatland, and vegetation different from that of the steppe. MoldGeologica.jpg The hills of central Moldova, the Central Moldavian Plateau, at an average elevation of about , are ridges interlaced by deep, flat valleys, ravines, and landslide-scoured depressions. Steep forest-clad slopes account for much of the terrain, where the most common trees are hornbeam, oak, linden, maple, wild pear, and wild cherry. The term _Codri_ refers more generally to all the forests between the Carpathians and the Dniester river, and even more generally to all forests in the area of the Carpathians, yet since in Moldova most of them were preserved in the central part, Codri sometimes can colloquially refer to the remaining forests in the hills west and north of Chişinău. The Dniester Ridge border Central Moldavian Plateau to the north along the river Răut.
+The Moldavian Plain has an average of and a maximum altitude of , and can be divided into the Bălți Steppe and the Middle Prut Valley. Originally forested, it has been extensively de-forested for agriculture during the 19th and 20th centuries. In contrast to the region to the north and south, which is smore slant, this area is referred to as _plain_, although it has relief very different from that of a flatland, and vegetation different from that of the steppe. The hills of central Moldova, the Central Moldavian Plateau, at an average elevation of about , are ridges interlaced by deep, flat valleys, ravines, and landslide-scoured depressions. Steep forest-clad slopes account for much of the terrain, where the most common trees are hornbeam, oak, linden, maple, wild pear, and wild cherry. The term _Codri_ refers more generally to all the forests between the Carpathians and the Dniester river, and even more generally to all forests in the area of the Carpathians, yet since in Moldova most of them were preserved in the central part, Codri sometimes can colloquially refer to the remaining forests in the hills west and north of Chişinău. The Dniester Ridge border Central Moldavian Plateau to the north along the river Răut.
 
 The plateau can be divided into 5 parts: Ciuluc-Soloneţ Hills (), elongated in the north along the right side of the Răut river, , Corneşti Hills (), also known as Cordi Hills (), , Lower Dniester Hills (), elongated to the south of the Botna river, , Tigheci Hills (), elongated in the south along the left side of the Prut river, , and between the latter and the Prut river, the Lower Prut Valley (), .
 
@@ -89,7 +89,7 @@ Extreme points
 
 Natural habitat
 
-MoldVeget.jpg Dniester_in_Moldova,_2004.jpg valley view.]] Moldova's natural habitat is characterized by forest steppes, a temperate-climate habitat type composed of grassland interspersed with areas of woodland or forest. A belt of forest steppes cross Eurasia from eastern Europe to Eastern Siberia, forming a transition between temperate broadleaf and mixed forests and temperate grasslands. In the 19th century Moldova witnessed a sharp decrease in the forested areas, sacrificed for agriculture due to rich soil.
+valley view.]] Moldova's natural habitat is characterized by forest steppes, a temperate-climate habitat type composed of grassland interspersed with areas of woodland or forest. A belt of forest steppes cross Eurasia from eastern Europe to Eastern Siberia, forming a transition between temperate broadleaf and mixed forests and temperate grasslands. In the 19th century Moldova witnessed a sharp decrease in the forested areas, sacrificed for agriculture due to rich soil.
 
   | land formation[1]        | area, km²   | of which currently forests, km²   | % forests   | habitat type
   -------------------------- ------------- ----------------------------------- ------------- ----------------
@@ -110,7 +110,7 @@ MoldVeget.jpg Dniester_in_Moldova,_2004.jpg valley view.]] Moldova's natural hab
 
 Environment
 
-Stamp_of_Moldova_285.gif Stamp_of_Moldova_125.gif]] Stamp_of_Moldova_359.gif]] Stamp_of_Moldova_293.gif
+]] ]]
 
 Historical references
 

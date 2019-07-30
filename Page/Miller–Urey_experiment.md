@@ -1,5 +1,3 @@
-MUexperiment.png
-
 The MILLER–UREY EXPERIMENT[1] (or MILLER EXPERIMENT)[2] was a chemical experiment that simulated the conditions thought at the time to be present on the early Earth, and tested the chemical origin of life under those conditions. The experiment supported Alexander Oparin's and J. B. S. Haldane's hypothesis that putative conditions on the primitive Earth favoured chemical reactions that synthesized more complex organic compounds from simpler inorganic precursors. Considered to be the classic experiment investigating abiogenesis, it was conducted in 1952[3] by Stanley Miller, with assistance from Harold Urey, at the University of Chicago and later the University of California, San Diego and published the following year.[4][5][6]
 
 After Miller's death in 2007, scientists examining sealed vials preserved from the original experiments were able to show that there were actually well over 20 different amino acids produced in Miller's original experiments. That is considerably more than what Miller originally reported, and more than the 20 that naturally occur in life.[7] More recent evidence suggests that Earth's original atmosphere might have had a composition different from the gas used in the Miller experiment, but prebiotic experiments continue to produce racemic mixtures of simple to complex compounds under varying conditions.[8]
@@ -7,7 +5,7 @@ After Miller's death in 2007, scientists examining sealed vials preserved from t
 
 Experiment
 
-Miller-Urey_experiment_-_Work_by_the_C3BC_consortium,_licensed_under_CC-BY-3.0.webm The experiment used water (H₂O), methane (CH₄), ammonia (NH₃), and hydrogen (H₂). The chemicals were all sealed inside a sterile 5-liter glass flask connected to a 500 ml flask half-full of water. The water in the smaller flask was heated to induce evaporation, and the water vapour was allowed to enter the larger flask. Continuous electrical sparks were fired between the electrodes to simulate lightning in the water vapour and gaseous mixture, and then the simulated atmosphere was cooled again so that the water condensed and trickled into a U-shaped trap at the bottom of the apparatus.
+The experiment used water (H₂O), methane (CH₄), ammonia (NH₃), and hydrogen (H₂). The chemicals were all sealed inside a sterile 5-liter glass flask connected to a 500 ml flask half-full of water. The water in the smaller flask was heated to induce evaporation, and the water vapour was allowed to enter the larger flask. Continuous electrical sparks were fired between the electrodes to simulate lightning in the water vapour and gaseous mixture, and then the simulated atmosphere was cooled again so that the water condensed and trickled into a U-shaped trap at the bottom of the apparatus.
 
 After a day, the solution collected at the trap had turned pink in colour.
 

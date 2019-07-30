@@ -1,4 +1,4 @@
-EntryWithCollCode173233downbaxis.png, viewed down b axis, used in second harmonic generation.]] NONLINEAR OPTICS (NLO) is the branch of optics that describes the behaviour of light in _nonlinear media_, that is, media in which the polarization density P responds non-linearly to the electric field E of the light. The non-linearity is typically observed only at very high light intensities (values of atomic electric fields, typically 10⁸ V/m) such as those provided by lasers. Above the Schwinger limit, the vacuum itself is expected to become nonlinear. In nonlinear optics, the superposition principle no longer holds.
+, viewed down b axis, used in second harmonic generation.]] NONLINEAR OPTICS (NLO) is the branch of optics that describes the behaviour of light in _nonlinear media_, that is, media in which the polarization density P responds non-linearly to the electric field E of the light. The non-linearity is typically observed only at very high light intensities (values of atomic electric fields, typically 10⁸ V/m) such as those provided by lasers. Above the Schwinger limit, the vacuum itself is expected to become nonlinear. In nonlinear optics, the superposition principle no longer holds.
 
 The first nonlinear optical effect to be predicted was two-photon absorption, by Maria Goeppert Mayer for her PhD in 1931, but it remained an unexplored theoretical curiosity until 1961 and the almost simultaneous observation of two-photon absorption at Bell Labs [1] and the discovery of second-harmonic generation by Peter Franken _et al._ at University of Michigan, both shortly after the construction of the first laser by Theodore Harold Maiman.[2] However, some nonlinear effects were discovered before the development of the laser.[3] The theoretical basis for many nonlinear processes were first described in Bloembergen's monograph "Nonlinear Optics".[4]
 
@@ -119,7 +119,7 @@ Note: Parametric generation and amplification is a variation of difference-frequ
 
 Phase matching
 
-Sellmeier-equation.png shown here, have normal dispersion: the index of refraction decreases monotonically as a function of wavelength (or increases as a function of frequency). This makes phase matching impossible in most frequency-mixing processes. For example, in SHG, there is no simultaneous solution to ω′ = 2ω and K′ = 2K in these materials. Birefringent materials avoid this problem by having two indices of refraction at once.[14]]] The above ignores the position dependence of the electrical fields. In a typical situation, the electrical fields are traveling waves described by
+shown here, have normal dispersion: the index of refraction decreases monotonically as a function of wavelength (or increases as a function of frequency). This makes phase matching impossible in most frequency-mixing processes. For example, in SHG, there is no simultaneous solution to ω′ = 2ω and K′ = 2K in these materials. Birefringent materials avoid this problem by having two indices of refraction at once.[14]]] The above ignores the position dependence of the electrical fields. In a typical situation, the electrical fields are traveling waves described by
 
 _E__(_j_)(X, _t_) = _E__(_j_, 0)_e_^(_i_(K_(_j_) ⋅ X − _ω__(_j_)_t_)) + c.c.
 
@@ -158,7 +158,7 @@ The other method is quasi-phase-matching. In this method the frequencies involve
 
 Higher-order frequency mixing
 
-Supersonic_high_harmonics.png The above holds for χ⁽²⁾ processes. It can be extended for processes where χ⁽³⁾ is nonzero, something that is generally true in any medium without any symmetry restrictions; in particular resonantly enhanced sum or difference frequency mixing in gasses is frequently used for extreme or "vacuum" Ultra Violet light generation.[15] In common scenarios, such as mixing in dilute gases, the non-linearity is weak and so the light beams are focused which, unlike the plane wave approximation used above, introduces a pi phase shift on each light beam, complicating the phase matching requirements.[16] Conveniently, difference frequency mixing with χ⁽³⁾ cancels this focal phase shift and often has a nearly self-canceling overall phase matching condition, which relatively simplifies broad wavelength tuning compared to sum frequency generation.
+The above holds for χ⁽²⁾ processes. It can be extended for processes where χ⁽³⁾ is nonzero, something that is generally true in any medium without any symmetry restrictions; in particular resonantly enhanced sum or difference frequency mixing in gasses is frequently used for extreme or "vacuum" Ultra Violet light generation.[15] In common scenarios, such as mixing in dilute gases, the non-linearity is weak and so the light beams are focused which, unlike the plane wave approximation used above, introduces a pi phase shift on each light beam, complicating the phase matching requirements.[16] Conveniently, difference frequency mixing with χ⁽³⁾ cancels this focal phase shift and often has a nearly self-canceling overall phase matching condition, which relatively simplifies broad wavelength tuning compared to sum frequency generation.
 
 In χ⁽³⁾ all four frequencies are mixing simultaneously, as opposed to sequential mixing via two χ⁽²⁾ processes.
 
@@ -179,7 +179,7 @@ It is possible, using nonlinear optical processes, to exactly reverse the propag
 
 One can interpret this nonlinear optical interaction as being analogous to a real-time holographic process.[20] In this case, the interacting beams simultaneously interact in a nonlinear optical material to form a dynamic hologram (two of the three input beams), or real-time diffraction pattern, in the material. The third incident beam diffracts at this dynamic hologram, and, in the process, reads out the _phase-conjugate_ wave. In effect, all three incident beams interact (essentially) simultaneously to form several real-time holograms, resulting in a set of diffracted output waves that phase up as the "time-reversed" beam. In the language of nonlinear optics, the interacting beams result in a nonlinear polarization within the material, which coherently radiates to form the phase-conjugate wave.
 
-PhaseConjugationPrinciple.en.svg The most common way of producing optical phase conjugation is to use a four-wave mixing technique, though it is also possible to use processes such as stimulated Brillouin scattering. A device producing the phase-conjugation effect is known as a PHASE-CONJUGATE MIRROR (PCM).
+The most common way of producing optical phase conjugation is to use a four-wave mixing technique, though it is also possible to use processes such as stimulated Brillouin scattering. A device producing the phase-conjugation effect is known as a PHASE-CONJUGATE MIRROR (PCM).
 
 For the four-wave mixing technique, we can describe four beams (_j_ = 1, 2, 3, 4) with electric fields:
 
@@ -256,7 +256,7 @@ The early studies of nonlinear optics and materials focused on the inorganic sol
 
 Common SHG materials
 
-The_dark_red_Gallium_Selenid_in_its_bulk_form.jpg Ordered by pump wavelength:
+Ordered by pump wavelength:
 
 -   800 nm: BBO
 -   806 nm: lithium iodate (LiIO₃)

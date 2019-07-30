@@ -1,4 +1,4 @@
-Kustodiev_The_Bolshevik.jpg]] Exterminists'_Rise_in_Power_in_Russia.png'' headline from 9 November 1917]] The OCTOBER REVOLUTION, officially known in Soviet historiography as the GREAT OCTOBER SOCIALIST REVOLUTION and commonly referred to as the OCTOBER UPRISING, the OCTOBER COUP, the BOLSHEVIK REVOLUTION,[1] the BOLSHEVIK COUP or the RED OCTOBER, was a revolution in Russia led by the Bolshevik Party of Vladimir Lenin that was instrumental in the larger Russian Revolution of 1917–23. It took place through an armed insurrection in Petrograd on 7 November (25 October, O.S.) 1917.
+]] '' headline from 9 November 1917]] The OCTOBER REVOLUTION, officially known in Soviet historiography as the GREAT OCTOBER SOCIALIST REVOLUTION and commonly referred to as the OCTOBER UPRISING, the OCTOBER COUP, the BOLSHEVIK REVOLUTION,[1] the BOLSHEVIK COUP or the RED OCTOBER, was a revolution in Russia led by the Bolshevik Party of Vladimir Lenin that was instrumental in the larger Russian Revolution of 1917–23. It took place through an armed insurrection in Petrograd on 7 November (25 October, O.S.) 1917.
 
 It followed and capitalized on the February Revolution of the same year, which overthrew the Tsarist autocracy and resulted in a provisional government after a transfer of power proclaimed by Grand Duke Michael, the younger brother of Tsar Nicholas II, who declined to take power after the Tsar stepped down. During this time, urban workers began to organize into councils (soviets) wherein revolutionaries criticized the provisional government and its actions. After the Congress of Soviets, now the governing body, had its second session, it elected members of the Bolsheviks and other left wing groups such as the Left Socialist Revolutionaries to important positions within the new state of affairs. This immediately initiated the establishment of the Russian Soviet Republic. On 17 July 1918, the Tsar and his family were executed.
 
@@ -38,7 +38,7 @@ In a diplomatic note of 1 May, the minister of foreign affairs, Pavel Milyukov, 
 
 July days
 
-19170704_Riot_on_Nevsky_prosp_Petrograd.jpg On 16 July, spontaneous demonstrations of workers and soldiers began in Petrograd, demanding that power be turned over to the soviets. The Central Committee of the Russian Social Democratic Labour Party provided leadership to the spontaneous movements. On 17 July, over 500,000 people participated in what was intended to be a peaceful demonstration in Petrograd, the so-called July Days. The Provisional Government, with the support of Socialist-Revolutionary Party-Menshevik leaders of the All-Russian Executive Committee of the Soviets, ordered an armed attack against the demonstrators, killing hundreds.[11]
+On 16 July, spontaneous demonstrations of workers and soldiers began in Petrograd, demanding that power be turned over to the soviets. The Central Committee of the Russian Social Democratic Labour Party provided leadership to the spontaneous movements. On 17 July, over 500,000 people participated in what was intended to be a peaceful demonstration in Petrograd, the so-called July Days. The Provisional Government, with the support of Socialist-Revolutionary Party-Menshevik leaders of the All-Russian Executive Committee of the Soviets, ordered an armed attack against the demonstrators, killing hundreds.[11]
 
 A period of repression followed. On 5–6 July, attacks were made on the editorial offices and printing presses of _Pravda_ and on the Palace of Kshesinskaya, where the Central Committee and the Petrograd Committee of the Bolsheviks were located. On 7 July, the government ordered the arrest and trial of Vladimir Lenin. He was forced to go underground, as he had been under the Tsarist regime. Bolsheviks were arrested, workers were disarmed, and revolutionary military units in Petrograd were disbanded or sent to the war front. On 12 July, the Provisional Government published a law introducing the death penalty at the front. The second coalition government was formed on 24 July, chaired by Alexander Kerensky.[12]
 
@@ -59,7 +59,7 @@ Insurrection
 
 Planning
 
-CruiserAurora061609.jpg ]] GunAurora061609.jpg On 23 October 1917 (5 November New Style), the Bolsheviks' Central Committee voted 10–2 for a resolution saying that "an armed uprising is inevitable, and that the time for it is fully ripe".[17] At the Committee meeting, Lenin discussed how the people of Russia had waited long enough for "an armed uprising", and it was the Bolsheviks' time to take power. Lenin expressed his confidence in the success of the planned insurrection. His confidence stemmed from months of Bolshevik buildup of power and successful elections to different committees and councils in major cities such as Petrograd and Moscow.[18]
+]] On 23 October 1917 (5 November New Style), the Bolsheviks' Central Committee voted 10–2 for a resolution saying that "an armed uprising is inevitable, and that the time for it is fully ripe".[17] At the Committee meeting, Lenin discussed how the people of Russia had waited long enough for "an armed uprising", and it was the Bolsheviks' time to take power. Lenin expressed his confidence in the success of the planned insurrection. His confidence stemmed from months of Bolshevik buildup of power and successful elections to different committees and councils in major cities such as Petrograd and Moscow.[18]
 
 The Bolsheviks created a revolutionary military committee within the Petrograd soviet, led by the soviet's president, Trotsky. The committee included armed workers, sailors and soldiers, and assured the support or neutrality of the capital's garrison. The committee methodically planned to occupy strategic locations through the city, almost without concealing their preparations: the Provisional Government's president Kerensky was himself aware of them, and some details, leaked by Kamenev and Zinoviev, were published in newspapers.[19][20]
 
@@ -133,7 +133,7 @@ Timeline of the spread of Soviet power (Gregorian calendar dates)
 
 Outcome
 
-Milrevkom_proclamation.jpg proclamation about the deposing of the Russian Provisional Government ]]
+proclamation about the deposing of the Russian Provisional Government ]]
 
 The Second Congress of Soviets consisted of 670 elected delegates; 300 were Bolshevik and nearly a hundred were Left Socialist-Revolutionaries, who also supported the overthrow of the Alexander Kerensky Government.[44] When the fall of the Winter Palace was announced, the Congress adopted a decree transferring power to the Soviets of Workers', Soldiers' and Peasants' Deputies, thus ratifying the Revolution.
 
@@ -149,7 +149,7 @@ After the fall of Moscow, there was only minor public anti-Bolshevik sentiment, 
 
 On 10 November 1917 (23 November N.S), the government sought to label its citizens as "citizens of the Russian Republic," and make them equal in all possible respects. This was accomplished by the nullification of all "legal designations of civil equality, such as estates, titles, and ranks."[50]
 
-Russian_Constituent_Assembly_Election_1917.png took place in November 1917. The Bolsheviks gained 23.9% of the vote.[51]]]
+took place in November 1917. The Bolsheviks gained 23.9% of the vote.[51]]]
 
 On 12 November (25 November N.S), a Constituent Assembly was elected. In these elections, 26 mandatory delegates were proposed by the Bolshevik Central Committee and 58 were proposed by the Socialist Revolutionaries. The outcome of the election gave the majority to the Socialist Revolutionary Party, which no longer existed as a full party by that time, as the Left SR Party was in coalition with the Bolsheviks. The Bolsheviks dissolved the Constituent Assembly in January 1918, when it came into conflict with the Soviets.
 

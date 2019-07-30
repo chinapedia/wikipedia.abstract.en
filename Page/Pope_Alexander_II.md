@@ -29,7 +29,7 @@ Also in the same year, Alexander called for the Crusade of Barbastro against the
 
 William the Conqueror
 
-Bayeux_Sc.36_William_with_Papal_Banner.jpg: William the Conqueror holds a papal gonfalon with a golden cross, a gift from Pope Alexander II.]]
+: William the Conqueror holds a papal gonfalon with a golden cross, a gift from Pope Alexander II.]]
 
 In 1066, he entertained an embassy from William, Duke of Normandy, after his successful invasion of Brittany. The embassy had been sent to obtain his blessing for William's prospective invasion of Anglo-Saxon England. Alexander gave it, along with a papal ring, the Standard of St. George,[13] and an edict to the autonomous Old English clergy guiding them to submit to the new regime. These favors were instrumental in the submission of the English church following the Battle of Hastings. Count Eustace carried his papal insignia, a gonfanon with three tails charged with a cross, which William of Poitiers says was given to William I to signify the pope's blessing of his invasion to secure a submission to Rome.[14]
 

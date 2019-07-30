@@ -3,13 +3,13 @@ MARQUETTE is a city in the U.S. state of Michigan and the county seat of Marquet
 
 History
 
-PereMarquetteMarquetteMI.jpg in Marquette]]
+in Marquette]]
 
 The land around Marquette was known to French missionaries of the early 17th century and the trappers of the early 19th century. Development of the area did not begin until 1844, when William Burt and Jacob Houghton (the brother of geologist Douglass Houghton) discovered iron deposits near Teal Lake west of Marquette. In 1845, Jackson Mining Company, the first organized mining company in the region, was formed.[3]
 
 The village of Marquette began on September 14, 1849, with the formation of a second iron concern, the Marquette Iron Company. Three men participated in organizing the firm: Robert J. Graveraet, who had prospected the region for ore; Edward Clark, agent for Waterman A. Fisher of Worcester, Massachusetts, who financed the company, and Amos Rogers Harlow. The village was at first called New Worcester, with Harlow as the first postmaster. On August 21, 1850, the name was changed to honor Jacques Marquette, the French Jesuit missionary who had explored the region. A second post office, named Carp River, was opened on October 13, 1851 by Peter White, who had gone there with Graveraet at age 18.[4] Harlow closed his post office in August 1852. The Marquette Iron Company failed, while its successor, the Cleveland Iron Mining Company, flourished and had the village platted in 1854. The plat was recorded by Peter White. White's office was renamed as Marquette in April 1856, and the village was incorporated in 1859. It was incorporated as a city in 1871.[5]
 
-2009-0618-UP002-MarquetteStPeters.jpg]] During the 1850s, Marquette was linked by rail to numerous mines and became the leading shipping center of the Upper Peninsula. The first ore pocket dock, designed by an early town leader, John Burt, was built by the Cleveland Iron Mining Company in 1859.[6] By 1862, the city had a population of over 1,600 and a soaring economy.[7]
+]] During the 1850s, Marquette was linked by rail to numerous mines and became the leading shipping center of the Upper Peninsula. The first ore pocket dock, designed by an early town leader, John Burt, was built by the Cleveland Iron Mining Company in 1859.[6] By 1862, the city had a population of over 1,600 and a soaring economy.[7]
 
 In the late 19th century, during the height of iron mining, Marquette became nationally known as a summer haven. Visitors brought in by Great Lakes passenger steamships filled the city's hotels and resorts.[8]
 
@@ -81,9 +81,9 @@ Recreation and tourism
 
 Recreational facilities
 
-Presque_Isle,_Marquette,_MI_-_2016.jpg The city of Marquette has a number of parks and recreational facilities that are used by city and county residents. Presque Isle Park is Marquette's most popular park located on the north side of the city. It includes of mostly forested land and juts out into Lake Superior. The park was designed by Frederick Law Olmsted, noted for designing Central Park in New York City. Amenities include a wooden band shell for concerts, a park pavilion, a gazebo, a marina, a concession stand, picnic tables, barbecue pits, walking/skiing trails, playground facilities, and Moosewood Nature Center. The city has two popular beaches, South Beach Park and McCarty's Cove. McCarty's Cove, flanked by the red U.S. Coast Guard Station lighthouse on its south shore, serves as a reprieve from hot summer days, where city and county residents alike take advantage of the cool, but tolerable, water temperatures and the cooling effects of the lake-generated sea breeze. Both beaches have picnic areas, grills, children's playgrounds and lifeguard stands. Other parks include Tourist Park, Founder's Landing, LaBonte Park, Mattson Lower Harbor Park, Park Cemetery, Shiras Park, Williams Park, Harlow Park, Pocket Park, Spring Street Park and Father Marquette Park.
+The city of Marquette has a number of parks and recreational facilities that are used by city and county residents. Presque Isle Park is Marquette's most popular park located on the north side of the city. It includes of mostly forested land and juts out into Lake Superior. The park was designed by Frederick Law Olmsted, noted for designing Central Park in New York City. Amenities include a wooden band shell for concerts, a park pavilion, a gazebo, a marina, a concession stand, picnic tables, barbecue pits, walking/skiing trails, playground facilities, and Moosewood Nature Center. The city has two popular beaches, South Beach Park and McCarty's Cove. McCarty's Cove, flanked by the red U.S. Coast Guard Station lighthouse on its south shore, serves as a reprieve from hot summer days, where city and county residents alike take advantage of the cool, but tolerable, water temperatures and the cooling effects of the lake-generated sea breeze. Both beaches have picnic areas, grills, children's playgrounds and lifeguard stands. Other parks include Tourist Park, Founder's Landing, LaBonte Park, Mattson Lower Harbor Park, Park Cemetery, Shiras Park, Williams Park, Harlow Park, Pocket Park, Spring Street Park and Father Marquette Park.
 
-2009-0618-Marquette-SuperiorDome.jpg]]
+]]
 
 There are also numerous other recreational facilities located within the city. Lakeview Arena is best known for its use as an ice hockey facility, but it also hosts a number of public events. A skateboard park is located just outside the arena and open during the summer. Lakeview Arena was home to the Marquette Electricians and Marquette Senior High School's Redmen hockey team. In 1974, the arena replaced the historic Palestra, which had been located a few blocks away. Gerard Haley Memorial Baseball field home of the Marquette Blues and Reds is located in the north side along with numerous little league and softball fields. Marquette has the largest wooden dome in the world, the Superior Dome—unofficially but affectionately known as the YooperDome. During the football season, the Dome is used primarily for football on its newly renovated astro turf field. The turf was installed in July 2009. Northern Michigan University holds its home football games in the Dome, as does the Michigan High School Athletic Association with the upper peninsula's High School football playoffs. The dome also hosts numerous private and public events that draw in thousands from around the region. The Marquette Golf Club has brought international recognition to the area for its unique and dramatic Greywalls course, opened in 2005. The course features several panoramic views of Lake Superior and winds its way through rocky outcroppings, heaving fairways and a rolling valley, yet is located less than two miles (3 km) from the downtown area.
 
@@ -124,7 +124,7 @@ Live theatrical productions are also provided through Northern Michigan Universi
 
 Transportation
 
-M-V_Lee_A._Tregurtha_and_the_M-V_Kaye_E._Barker_at_the_Iron_Ore_Dock_in_Marquette,_Michigan.jpg, was built in 1912. Trains drop ore into the dock. Then chutes on the side of the dock lower to spill the ore into ships. Shown docked in the photo are the MV _Lee A. Tregurtha_ (near) and the MV _Kaye E. Barker_ (far).|264x264px]]
+, was built in 1912. Trains drop ore into the dock. Then chutes on the side of the dock lower to spill the ore into ships. Shown docked in the photo are the MV _Lee A. Tregurtha_ (near) and the MV _Kaye E. Barker_ (far).|264x264px]]
 
 Marquette is served by American Eagle and Delta Connection out of Sawyer International Airport (KSAW) with daily flights to Chicago, Detroit and Minneapolis–Saint Paul, .[53] The airport is located south of downtown Marquette.
 
@@ -242,7 +242,7 @@ Notable people
 
 In popular culture
 
-2009-0618-UP-MarquetteCtyCourthouse.jpg''.]]
+''.]]
 
 -   Robert Traver (John Voelker) set his novels _Anatomy of a Murder_ (1958) and _Laughing Whitefish_ (1965) in Marquette. The film version of _Anatomy of a Murder_, dramatizing a 1952 murder that happened in the area and the subsequent trial, was partly filmed in Marquette and Big Bay. Much of it was filmed in the Marquette County Courthouse in Marquette, where the actual murder case had been tried. Traver's _Danny and the Boys_ (1951) is a collection of short stories set in and around Marquette.
 -   Philip Caputo set his novel _Indian Country_ (1987) in the Upper Peninsula and several scenes depict Marquette.

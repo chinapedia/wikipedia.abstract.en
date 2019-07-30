@@ -35,8 +35,6 @@ Page structure
 
 The following is the field layout of an Ogg page header:
 
-Ogg_page_header_structure_(en).svg
-
 Capture pattern – 32 bits
     The capture pattern or sync code is a magic number used to ensure synchronization when parsing Ogg files. Every page starts with the four ASCII character sequence, "OggS". This assists in resynchronizing a parser in cases where data has been lost or is corrupted, and is a sanity check before commencing parsing of the page structure.
 
@@ -88,7 +86,7 @@ Other existing and proposed mechanisms are:[13]
 
 History
 
-Play_ogg.png The Ogg project began with a simple audio compression package as part of a larger project in 1993.[14] The software was originally named _Squish_ but due to an existing trade mark it was renamed to _OggSquish_. This name was later used for the whole Ogg project. In 1997, the Xiphophorus OggSquish was described as "an attempt both to create a flexible compressed audio format for modern audio applications as well as to provide the first audio format that is common on any and every modern computer platform".[15] The OggSquish was in 2000 referred to as "a group of several related multimedia and signal processing projects". In 2000, two projects were in active development for planned release: Ogg Vorbis format and libvorbis - the reference implementation of Vorbis. Research also included work on future video and lossless audio coding.[16][17][18][19][20] In 2001, OggSquish was renamed to _Ogg_ and it was described as "the umbrella for a group of several related multimedia and signal processing projects".[21] Ogg has come to stand for the file format, as part of the larger Xiph.org multimedia project. Squish became just the name of one of the Ogg codecs.[22] In 2009, Ogg is described as "a multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs".[23]
+The Ogg project began with a simple audio compression package as part of a larger project in 1993.[14] The software was originally named _Squish_ but due to an existing trade mark it was renamed to _OggSquish_. This name was later used for the whole Ogg project. In 1997, the Xiphophorus OggSquish was described as "an attempt both to create a flexible compressed audio format for modern audio applications as well as to provide the first audio format that is common on any and every modern computer platform".[15] The OggSquish was in 2000 referred to as "a group of several related multimedia and signal processing projects". In 2000, two projects were in active development for planned release: Ogg Vorbis format and libvorbis - the reference implementation of Vorbis. Research also included work on future video and lossless audio coding.[16][17][18][19][20] In 2001, OggSquish was renamed to _Ogg_ and it was described as "the umbrella for a group of several related multimedia and signal processing projects".[21] Ogg has come to stand for the file format, as part of the larger Xiph.org multimedia project. Squish became just the name of one of the Ogg codecs.[22] In 2009, Ogg is described as "a multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs".[23]
 
 Ogg reference implementation was separated from Vorbis on September 2, 2000.[24]
 

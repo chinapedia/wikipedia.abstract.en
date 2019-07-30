@@ -5,12 +5,10 @@ Structure
 
 The anion is the conjugate base of nitric acid, consisting of one central nitrogen atom surrounded by three identically bonded oxygen atoms in a trigonal planar arrangement. The nitrate ion carries a formal charge of −1. This results from a combination formal charge in which each of the three oxygens carries a − charge, whereas the nitrogen carries a +1 charge, all these adding up to formal charge of the polyatomic nitrate ion. This arrangement is commonly used as an example of resonance. Like the isoelectronic carbonate ion, the nitrate ion can be represented by resonance structures:
 
-Nitrate-ion-resonance-2D.png
-
 
 Properties and diet
 
-Nitrate-ion-with-partial-charges-2D.png Almost all inorganic nitrate salts are soluble in water at standard temperature and pressure. A common example of an inorganic nitrate salt is potassium nitrate (saltpeter). A rich source of inorganic nitrate in the human body comes from diets rich in leafy green foods, such as spinach and arugula. (inorganic nitrate) is the viable active component within beetroot juice and other vegetables.
+Almost all inorganic nitrate salts are soluble in water at standard temperature and pressure. A common example of an inorganic nitrate salt is potassium nitrate (saltpeter). A rich source of inorganic nitrate in the human body comes from diets rich in leafy green foods, such as spinach and arugula. (inorganic nitrate) is the viable active component within beetroot juice and other vegetables.
 
 Dietary nitrate may be found in cured meats, various leafy vegetables, and drinking water; nitrite consumption is primarily determined by the amount of processed meats eaten, and the concentration of nitrates in these meats. Nitrate and water are converted in the body to nitric oxide, which could reduce hypertension. Anti-hypertensive diets, such as the DASH diet, typically contain high levels of nitrates, which are first reduced to nitrite in the saliva, as detected in saliva testing, prior to forming nitric oxide.[1]
 
@@ -28,7 +26,7 @@ As a byproduct of lightning strikes in earth's nitrogen-oxygen rich atmosphere, 
 
 Uses
 
-40mm_table_tennis_ball_Celluloid.jpg Nitrates are mainly produced for use as fertilizers in agriculture because of their high solubility and biodegradability. The main nitrate fertilizers are ammonium, sodium, potassium, and calcium salts. Several million kilograms are produced annually for this purpose.[2]
+Nitrates are mainly produced for use as fertilizers in agriculture because of their high solubility and biodegradability. The main nitrate fertilizers are ammonium, sodium, potassium, and calcium salts. Several million kilograms are produced annually for this purpose.[2]
 
 The second major application of nitrates is as oxidizing agents, most notably in explosives where the rapid oxidation of carbon compounds liberates large volumes of gases (see gunpowder for an example). Sodium nitrate is used to remove air bubbles from molten glass and some ceramics. Mixtures of the molten salt are used to harden some metals.
 
@@ -70,7 +68,7 @@ Another human health effects from the ingestion of nitrate is in the form of pro
 
 Aquatic toxicity
 
-WOA09_sea-surf_NO3_AYool.png]] In freshwater or estuarine systems close to land, nitrate can reach concentrations that can potentially cause the death of fish. While nitrate is much less toxic than ammonia,[40] levels over 30 ppm of nitrate can inhibit growth, impair the immune system and cause stress in some aquatic species.[41] However, in light of inherent problems with past protocols on acute nitrate toxicity experiments, the extent of nitrate toxicity has been the subject of recent debate.[42]
+]] In freshwater or estuarine systems close to land, nitrate can reach concentrations that can potentially cause the death of fish. While nitrate is much less toxic than ammonia,[40] levels over 30 ppm of nitrate can inhibit growth, impair the immune system and cause stress in some aquatic species.[41] However, in light of inherent problems with past protocols on acute nitrate toxicity experiments, the extent of nitrate toxicity has been the subject of recent debate.[42]
 
 In most cases of excess nitrate concentrations in aquatic systems, the primary source is surface runoff from agricultural or landscaped areas that have received excess nitrate fertilizer. This will contribute to eutrophication and can lead to algae blooms which may result in anoxia and the formation of dead zones, these blooms may cause other changes to ecosystem function, favouring some groups of organisms over others. As a consequence, as nitrate forms a component of total dissolved solids, they are widely used as an indicator of water quality.
 

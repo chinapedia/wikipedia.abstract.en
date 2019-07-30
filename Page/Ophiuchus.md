@@ -3,7 +3,7 @@ OPHIUCHUS () is a large constellation straddling the celestial equator. Its name
 
 Location
 
-Guisard_-_Milky_Way.jpg, shown with a surrounding bluish cloud slightly above a pentagon of stars in Scorpius, with the main band of the Milky Way much further to the left]] Stjärnbild_på_Herkules,_1602_-_Skoklosters_slott_-_102426.tif.]] Ophiuchus lies between Aquila, Serpens, Scorpius, Sagittarius, and Hercules, northwest of the center of the Milky Way. The southern part lies between Scorpius to the west and Sagittarius to the east.[1][2][3] In the northern hemisphere, it is best visible in summer.[4] It is opposite Orion. Ophiuchus is depicted as a man grasping a serpent; the interposition of his body divides the snake constellation Serpens into two parts, Serpens Caput and Serpens Cauda. Ophiuchus straddles the equator with the majority of its area lying in the southern hemisphere. Rasalhague, its brightest star, lies near the northern edge of Ophiuchus at about 12½°N declination.[5] The constellation extends southward to −30° declination. Segments of the ecliptic within Ophiuchus are south of −20° declination.
+, shown with a surrounding bluish cloud slightly above a pentagon of stars in Scorpius, with the main band of the Milky Way much further to the left]] .]] Ophiuchus lies between Aquila, Serpens, Scorpius, Sagittarius, and Hercules, northwest of the center of the Milky Way. The southern part lies between Scorpius to the west and Sagittarius to the east.[1][2][3] In the northern hemisphere, it is best visible in summer.[4] It is opposite Orion. Ophiuchus is depicted as a man grasping a serpent; the interposition of his body divides the snake constellation Serpens into two parts, Serpens Caput and Serpens Cauda. Ophiuchus straddles the equator with the majority of its area lying in the southern hemisphere. Rasalhague, its brightest star, lies near the northern edge of Ophiuchus at about 12½°N declination.[5] The constellation extends southward to −30° declination. Segments of the ecliptic within Ophiuchus are south of −20° declination.
 
 In contrast to Orion, from November to January (summer in the Southern Hemisphere, winter in the Northern Hemisphere), Ophiuchus is in the daytime sky and thus not visible at most latitudes. However, for much of the Arctic Circle in the Northern Hemisphere's winter months, the Sun is below the horizon even at midday. Stars (and thus parts of Ophiuchus, especially Rasalhague) are then visible at twilight for a few hours around local noon, low in the south. In the Northern Hemisphere's spring and summer months, when Ophiuchus is normally visible in the night sky, the constellation is actually not visible, at those times and places in the Arctic when midnight sun obscures the stars. In countries close to the equator, Ophiuchus appears overhead in June around midnight and in the October evening sky.
 
@@ -22,7 +22,7 @@ Image:OphiuchusCC.jpg|The constellation Ophiuchus as it can be seen by naked eye
 
 Deep-sky objects
 
-Rho_Ophiuchi.jpg molecular cloud complex from NASA.]] Rho_Ophiucus_Widefield.jpg molecular cloud complex.]]
+molecular cloud complex from NASA.]] molecular cloud complex.]]
 
 Ophiuchus contains several star clusters, such as IC 4665, NGC 6633, M9, M10, M12, M14, M19, M62, and M107, as well as the nebula IC 4603-4604. M10 is a fairly close globular cluster, only 20,000 light-years from Earth. It has a magnitude of 6.6 and is a Shapley class VII cluster. This means that it has "intermediate" concentration; it is only somewhat concentrated towards its center.
 

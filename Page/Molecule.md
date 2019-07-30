@@ -1,4 +1,4 @@
-PTCDA_AFM.jpg (AFM) image of a PTCDA molecule, in which the five six-carbon rings are visible.[1]]] Pentacene_on_Ni(111)_STM.jpg image of pentacene molecules, which consist of linear chains of five carbon rings.[2]]] TOAT_AFM.png
+(AFM) image of a PTCDA molecule, in which the five six-carbon rings are visible.[1]]] image of pentacene molecules, which consist of linear chains of five carbon rings.[2]]]
 
 A MOLECULE is an electrically neutral group of two or more atoms held together by chemical bonds.[3][4][5][6][7] Molecules are distinguished from ions by their lack of electrical charge. However, in quantum physics, organic chemistry, and biochemistry, the term _molecule_ is often used less strictly, also being applied to polyatomic ions.
 
@@ -29,11 +29,11 @@ Molecules are held together by either covalent bonding or ionic bonding. Several
 
 Covalent
 
-Covalent_bond_hydrogen.svgs share the two electrons]] Covalent bond is a chemical bond that involves the sharing of electron pairs between atoms. These electron pairs are termed _shared pairs_ or _bonding pairs_, and the stable balance of attractive and repulsive forces between atoms, when they share electrons, is termed _covalent bonding_.[14]
+s share the two electrons]] Covalent bond is a chemical bond that involves the sharing of electron pairs between atoms. These electron pairs are termed _shared pairs_ or _bonding pairs_, and the stable balance of attractive and repulsive forces between atoms, when they share electrons, is termed _covalent bonding_.[14]
 
 Ionic
 
-NaF.gif and fluorine undergoing a redox reaction to form sodium fluoride. Sodium loses its outer electron to give it a stable electron configuration, and this electron enters the fluorine atom exothermically.]]
+and fluorine undergoing a redox reaction to form sodium fluoride. Sodium loses its outer electron to give it a stable electron configuration, and this electron enters the fluorine atom exothermically.]]
 
 Ionic bonding is a type of chemical bond that involves the electrostatic attraction between oppositely charged ions, and is the primary interaction occurring in ionic compounds. The ions are atoms that have lost one or more electrons (termed cations) and atoms that have gained one or more electrons (termed anions).[15] This transfer of electrons is termed _electrovalence_ in contrast to covalence. In the simplest case, the cation is a metal atom and the anion is a nonmetal atom, but these ions can be of a more complicated nature, e.g. molecular ions like NH₄⁺ or SO₄^(2−). Basically, an ionic bond is the transfer of electrons from a metal to a non-metal for both atoms to obtain a full valence shell.
 
@@ -63,21 +63,21 @@ The molecular mass can be calculated from the chemical formula and is expressed 
 
 Structural formula
 
-Atisane3.png (left and center) and 2D (right) representations of the terpenoid molecule atisane]]
+(left and center) and 2D (right) representations of the terpenoid molecule atisane]]
 
 For molecules with a complicated 3-dimensional structure, especially involving atoms bonded to four different substituents, a simple molecular formula or even semi-structural chemical formula may not be enough to completely specify the molecule. In this case, a graphical type of formula called a structural formula may be needed. Structural formulas may in turn be represented with a one-dimensional chemical name, but such chemical nomenclature requires many words and terms which are not part of chemical formulas.
 
 
 Molecular geometry
 
-Cyanostar_STM.png image of a "cyanostar" dendrimer molecule.[21]]]
+image of a "cyanostar" dendrimer molecule.[21]]]
 
 Molecules have fixed equilibrium geometries—bond lengths and angles— about which they continuously oscillate through vibrational and rotational motions. A pure substance is composed of molecules with the same average geometrical structure. The chemical formula and the structure of a molecule are the two important factors that determine its properties, particularly its reactivity. Isomers share a chemical formula but normally have very different properties because of their different structures. Stereoisomers, a particular type of isomer, may have very similar physico-chemical properties and at the same time different biochemical activities.
 
 
 Molecular spectroscopy
 
-Dehydrogenation_of_H2TPP_by_STM.jpg molecules by applying excess voltage to the tip of a scanning tunneling microscope (STM, a); this removal alters the current-voltage (I-V) curves of TPP molecules, measured using the same STM tip, from diode like (red curve in b) to resistor like (green curve). Image (c) shows a row of TPP, H₂TPP and TPP molecules. While scanning image (d), excess voltage was applied to H₂TPP at the black dot, which instantly removed hydrogen, as shown in the bottom part of (d) and in the rescan image (e). Such manipulations can be used in single-molecule electronics.[22]]]
+molecules by applying excess voltage to the tip of a scanning tunneling microscope (STM, a); this removal alters the current-voltage (I-V) curves of TPP molecules, measured using the same STM tip, from diode like (red curve in b) to resistor like (green curve). Image (c) shows a row of TPP, H₂TPP and TPP molecules. While scanning image (d), excess voltage was applied to H₂TPP at the black dot, which instantly removed hydrogen, as shown in the bottom part of (d) and in the rescan image (e). Such manipulations can be used in single-molecule electronics.[22]]]
 
 MOLECULAR SPECTROSCOPY deals with the response (spectrum) of molecules interacting with probing signals of known energy (or frequency, according to Planck's formula). Molecules have quantized energy levels that can be analyzed by detecting the molecule's energy exchange through absorbance or emission.[23] Spectroscopy does not generally refer to diffraction studies where particles such as neutrons, electrons, or high energy X-rays interact with a regular arrangement of molecules (as in a crystal).
 

@@ -9,8 +9,6 @@ The McIntosh or McIntosh Red (nicknamed the "Mac"), is the most popular apple cu
 
 A spreading tree that is moderately vigorous, the McIntosh bears annually or in alternate years. The tree is hardy to at least USDA Hardiness zone 4a, or . 50% or more of its flowers die at or below.
 
-Platexlvii.jpg
-
 The McIntosh apple is a small- to medium-sized round fruit with a short stem. It has a red and green skin that is thick, tender, and easy to peel. Its white flesh is sometime tinged with green or pink and is juicy, tender, and firm, soon becoming soft. The flesh is easily bruised.
 
 The fruit is considered "all-purpose", suitable both for eating raw and for cooking. It is used primarily for dessert, and requires less time to cook than most cultivars. It is usually blended when used for juice.
@@ -39,14 +37,14 @@ John McIntosh's son Allan (1815–1899) learned grafting about 1835; with this c
 
 Horticulturist William Tyrrell Macoun of the Central Experimental Farm in Ottawa is credited with popularizing the McIntosh in Canada. He stated the McIntosh needed "no words of praise", that it was "one of the finest appearing and best dessert apples grown". The Macoun, a hybrid of the McIntosh and Jersey Black grown by the Agricultural Experiment Station in Geneva, NY, was named for him in 1923. In the northeastern United States the McIntosh replaced a large number of Baldwins that were killed in a severe winter in 1933–34. In the late 1940s, Canadian ambassador to the United Nations Andrew McNaughton told Soviet Minister for Foreign Affairs Andrei Gromyko that the McIntosh Red was Canada's best apple.
 
-The McIntosh made up 40% of the Canadian apple market by the 1960s; and at least thirty varieties of McIntosh hybrid were known by 1970. Apple922.jpgIts popularity later waned in the face of competition from foreign imports; in the first decade of the 21st century, the Gala accounted for 33% of the apple market in Ontario to the McIntosh's 12%, and the Northern Spy had become the preferred apple for pies.[2] Production remained important to Ontario, however, as of McIntoshes were produced in 2010.
+The McIntosh made up 40% of the Canadian apple market by the 1960s; and at least thirty varieties of McIntosh hybrid were known by 1970. Its popularity later waned in the face of competition from foreign imports; in the first decade of the 21st century, the Gala accounted for 33% of the apple market in Ontario to the McIntosh's 12%, and the Northern Spy had become the preferred apple for pies.[2] Production remained important to Ontario, however, as of McIntoshes were produced in 2010.
 
 The original tree discovered by John McIntosh bore fruit for more than ninety years, and died in 1910. Horticulturalists from the Upper Canada Village heritage park saved cuttings from the last known first-generation McIntosh graft before it died in 2011 for producing clones.
 
 
 Cultural significance
 
-Macintosh_128k_transparency.png's Macintosh line of personal computers was named after the fruit.]]
+'s Macintosh line of personal computers was named after the fruit.]]
 
 The McIntosh has been designated the national apple of Canada. A popular subscription funded a plaque placed from the original McIntosh tree in 1912. The Ontario Archaeological and Historic Sites Board replaced the plaque with a more descriptive one in 1962, and the Historic Sites and Monuments Board of Canada put up another in a park nearby in 2001, by a painted mural commemorating the fruit.
 

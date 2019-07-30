@@ -5,8 +5,6 @@ The Philippine archipelago is divided into three island groups: Luzon, Visayas, 
 
 Physical geography
 
-Ph_Territorial_Map.png
-
 The Philippine archipelago lies in Southeast Asia in a position that has led to its becoming a cultural crossroads - a place where Malays, Hindus, Arabs, Chinese, Spaniards, Americans, and others had interacted to forge a unique cultural and racial blend. The archipelago numbers some 7,641 islands.[3] The Philippines occupies an area that stretches for from about the fifth to the twentieth parallels north latitude. The total land area is .[4][5][6] Only approximately 1,000 of its islands are populated, and fewer than one-half of these are larger than . Eleven islands make up 95 percent of the Philippine landmass, and two of these — Luzon and Mindanao — measure and , respectively. They, together with the cluster of islands in Visayas in between them, represent the three principal regions of the archipelago that are identified by the three stars on the Philippine flag. The Philippines is broken up in many islands by the sea. This gives it the fifth longest coastline of in the world.[7] [8] The Exclusive economic zone of the Philippines covers , from its shores.[9]
 
 Off the coast of eastern Mindanao is the Philippine Trench, which descends to a depth of . The Philippines is part of a western Pacific arc system characterized by active volcanoes. Among the most notable peaks are Mount Mayon near Legazpi City, Taal Volcano south of Manila, and Mount Apo in Mindanao. All of the Philippine islands are prone to earthquakes. The northern Luzon highlands, or Cordillera Central, rise to between and , and, together with the Sierra Madre in the northeastern portion of Luzon and the mountains of Mindanao, boast rain forests that provide refuge for numerous upland tribal groups. The rain forests also offer prime habitat for more than 500 species of birds, including the Philippine eagle (or monkey-eating eagle), some 1,100 species of orchids, and some 8,500 species of flowering plants.
@@ -18,8 +16,6 @@ To protect the country's biological resources, the government has taken a first 
 Most of the islands used to be covered by tropical rainforests. However, illegal logging has reduced forest cover to less than 10% of the total land area.
 
 Geology
-
-MajorVolcanoesOfThePhilippines-USGS.gif
 
 The islands are volcanic in origin, being part of the Pacific Ring of Fire, and are mostly mountainous. The highest point in the country is the peak of Mount Apo in Mindanao, which is above sea level. The second highest point can be found on Luzon at Mount Pulag, a peak above sea level.
 
@@ -35,7 +31,7 @@ Topography
 
 Luzon
 
-Northern_Philippines_(Luzon).jpg in a satellite image]]
+in a satellite image]]
 
 The Batanes and Babuyan islands
 
@@ -99,15 +95,13 @@ The Kalayaan Islands are located to the west of Palawan. _Kalayaan_ is a Filipin
 
 Visayas
 
-Expanded_Visayas.png (red), Negros Island (green), Central Visayas (light blue), and Eastern Visayas (pink).]]
+(red), Negros Island (green), Central Visayas (light blue), and Eastern Visayas (pink).]]
 
 Catbalogan plains
 
 Panay-Negros-Cebu area
 
 Mindanao
-
-Atlas_of_the_Philippine_Islands_(1900)_(14585692528).jpg
 
 Eastern Pacific Cordillera
 
@@ -232,8 +226,6 @@ Of the 81 provinces of the Philippines, 15 are _landlocked_, and 16 are _island 
 
 Climate
 
-Philippines_map_of_Köppen_climate_classification.svg
-
 The Philippines has a tropical climate dominated by a rainy season and a dry season, although certain locations have no dry season (meaning, all months have an average rainfall of above 60 mm) and certain higher-altitude areas can have a subtropical climate. The summer monsoon brings heavy rains to most of the archipelago from May to October, whereas the winter monsoon brings relatively cooler and drier air from December to February. Manila and most of the lowland areas are hot and dusty from March to May. Even at this time, however, temperatures rarely rise above . Mean annual sea-level temperatures rarely fall below . Annual rainfall measures as much as in the mountainous east coast section of the country, but less than in some of the sheltered valleys.
 
 Monsoon rains, although hard and drenching, are not normally associated with high winds and waves. But the Philippines sit astride the typhoon belt, and it suffers an annual onslaught of dangerous storms from July through October. These are especially hazardous for northern and eastern Luzon and the Bicol and Eastern Visayas regions, but Manila gets devastated periodically as well.
@@ -345,8 +337,6 @@ Four distinct geographic divisions converging at a single point is not uncommon 
 +-------+-----------------------+----------------------------------------+
 | 8     |                       | Albay (_Mayon Volcano crater_)         |
 +-------+-----------------------+----------------------------------------+
-
-Ph_locator_albay_MAYON_municipalities.png
 
 Geographic center
 

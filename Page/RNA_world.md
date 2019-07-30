@@ -1,4 +1,4 @@
-Difference_DNA_RNA-EN.svgs each employs]]
+s each employs]]
 
 The RNA WORLD is a hypothetical stage in the evolutionary history of life on Earth, in which self-replicating RNA molecules proliferated before the evolution of DNA and proteins. The term also refers to the hypothesis that posits the existence of this stage.
 
@@ -42,7 +42,7 @@ RNA in information storage
 
 RNA is a very similar molecule to DNA, with only two major chemical differences (the backbone of RNA uses ribose instead of deoxyribose and its nucleobases include uracil instead of thymine). The overall structure of RNA and DNA are immensely similar—one strand of DNA and one of RNA can bind to form a double helical structure. This makes the storage of information in RNA possible in a very similar way to the storage of information in DNA. However, RNA is less stable, being more prone to hydrolysis due to the presence of a hydroxyl group at the ribose 2' position.
 
-RNA_chemical_structure.GIF group at the 2'-position.]]
+group at the 2'-position.]]
 
 Comparison of DNA and RNA structure
 

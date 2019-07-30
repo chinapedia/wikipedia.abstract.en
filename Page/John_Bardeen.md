@@ -26,13 +26,11 @@ From 1941 to 1944, Bardeen headed the group working on magnetic mines and torped
 
 Bell Labs
 
-Bardeen_Shockley_Brattain_1948.JPG In October 1945, Bardeen began work at Bell Labs. He was a member of a solid-state physics group, led by William Shockley and chemist Stanley Morgan. Other personnel working in the group were Walter Brattain, physicist Gerald Pearson, chemist Robert Gibney, electronics expert Hilbert Moore and several technicians. He moved his family to Summit, New Jersey.[17]
+In October 1945, Bardeen began work at Bell Labs. He was a member of a solid-state physics group, led by William Shockley and chemist Stanley Morgan. Other personnel working in the group were Walter Brattain, physicist Gerald Pearson, chemist Robert Gibney, electronics expert Hilbert Moore and several technicians. He moved his family to Summit, New Jersey.[17]
 
 The assignment of the group was to seek a solid-state alternative to fragile glass vacuum tube amplifiers. Their first attempts were based on Shockley's ideas about using an external electrical field on a semiconductor to affect its conductivity. These experiments mysteriously failed every time in all sorts of configurations and materials. The group was at a standstill until Bardeen suggested a theory that invoked surface states that prevented the field from penetrating the semiconductor. The group changed its focus to study these surface states, and they met almost daily to discuss the work. The rapport of the group was excellent, and ideas were freely exchanged.[18] By the winter of 1946 they had enough results that Bardeen submitted a paper on the surface states to _Physical Review_. Brattain started experiments to study the surface states through observations made while shining a bright light on the semiconductor's surface. This led to several more papers (one of them co-authored with Shockley), which estimated the density of the surface states to be more than enough to account for their failed experiments. The pace of the work picked up significantly when they started to surround point contacts between the semiconductor and the conducting wires with electrolytes. Moore built a circuit that allowed them to vary the frequency of the input signal easily and suggested that they use glycol borate (gu), a viscous chemical that didn't evaporate. Finally they began to get some evidence of power amplification when Pearson, acting on a suggestion by Shockley,[19] put a voltage on a droplet of gu placed across a p–n junction.
 
 The invention of the transistor
-
-Replica-of-first-transistor.jpg
 
 On December 23, 1947, Bardeen and Brattain were working without Shockley when they succeeded in creating a point-contact transistor that achieved amplification. By the next month, Bell Labs' patent attorneys started to work on the patent applications.[20]
 
@@ -44,7 +42,7 @@ The "transistor" (a portmanteau of "transconductance" and "resistor") was 1/50 t
 
 University of Illinois at Urbana–Champaign
 
-Bardeen_plaque_uiuc.jpg]]
+]]
 
 By 1951, Bardeen was looking for a new job. Fred Seitz, a friend of Bardeen, convinced the University of Illinois at Urbana–Champaign to make Bardeen an offer of $10,000 a year. Bardeen accepted the offer and left Bell Labs.[26] He joined the engineering and physics faculties at the University of Illinois at Urbana–Champaign in 1951. He was Professor of Electrical Engineering and of Physics at Illinois. His Ph.D. student Nick Holonyak (1954), invented the LED in 1962.[27]
 

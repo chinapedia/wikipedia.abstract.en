@@ -1,4 +1,4 @@
-West_Bank_Access_Restrictions.pdf in 2014]] Greater_Jerusalem_May_2006_CIA_remote-sensing_map_3500px.jpg remote sensing map of Greater Jerusalem, showing Israeli settlements, Palestinian refugee camps, fences, walls, etc. in May 2006.]] Golan_92.jpg with Israeli settlements in 1992.]]
+in 2014]] remote sensing map of Greater Jerusalem, showing Israeli settlements, Palestinian refugee camps, fences, walls, etc. in May 2006.]] with Israeli settlements in 1992.]]
 
 ISRAELI SETTLEMENTS are civilian communities inhabited by Israeli citizens, almost exclusively of Jewish ethnicity,[1][2] built predominantly on lands within the Palestinian territories, which Israel has militarily occupied since the 1967 Six-Day War,[3] and partly on lands considered Syrian territory also militarily occupied by Israel since the 1967 war. Such settlements within Palestinian territories currently exist in Area C of the West Bank and in East Jerusalem, and within Syrian territory in the Golan Heights.
 
@@ -62,7 +62,7 @@ enterprise according to the decisions of the Government and of the jo
 _"This will enable us to bring about the dispersion … to the presently empty areas of J&S."''
   The "Drobles Plan" from the World Zionist Organization, dated October 1978 and named "Master Plan for the Development of Settlements in Judea and Samaria, 1979–1983", was written by the Jewish Agency director and former Knesset member Matityahu Drobles. In January 1981, the government adopted a follow up-plan from Drobles, dated September 1980 and named "The current state of the settlements in Judea and Samaria", with more details about settlement strategy and policy.[51] [52]
 
-2012.01.16.HebronGilbertCheckpoint.2.JPG soldiers searching a Palestinian in Tel Rumeida, 2012]] Since 1967, government-funded settlement projects in the West Bank are implemented by the "Settlement Division" of the World Zionist Organization.[53] Though formally a non-governmental organization, it is funded by the Israeli government and leases lands from the Civil Administration to settle in the West Bank. It is authorized to create settlements in the West Bank on lands licensed to it by the Civil Administration.[54] Traditionally, the Settlement Division has been under the responsibility of the Agriculture Ministry. Since the Olso Accords, it was always housed within the Prime Minister's Office (PMO). In 2007, it was moved back to the Agriculture Ministry. In 2009, the Netanyahu Government decided to subject all settlement activities to additional approval of the Prime Minister and the Defense Minister. In 2011, Netanyahu sought to move the Settlement Division again under the direct control of (his own) PMO, and to curtail Defense Minister Ehud Barak's authority.[55]
+soldiers searching a Palestinian in Tel Rumeida, 2012]] Since 1967, government-funded settlement projects in the West Bank are implemented by the "Settlement Division" of the World Zionist Organization.[53] Though formally a non-governmental organization, it is funded by the Israeli government and leases lands from the Civil Administration to settle in the West Bank. It is authorized to create settlements in the West Bank on lands licensed to it by the Civil Administration.[54] Traditionally, the Settlement Division has been under the responsibility of the Agriculture Ministry. Since the Olso Accords, it was always housed within the Prime Minister's Office (PMO). In 2007, it was moved back to the Agriculture Ministry. In 2009, the Netanyahu Government decided to subject all settlement activities to additional approval of the Prime Minister and the Defense Minister. In 2011, Netanyahu sought to move the Settlement Division again under the direct control of (his own) PMO, and to curtail Defense Minister Ehud Barak's authority.[55]
 
 At the presentation of the Oslo II Accord on 5 October 1995 in the Knesset, PM Yitzhak Rabin expounded the Israeli settlement policy in connection with the permanent solution to the conflict. Israel wanted _"a Palestinian entity, less than a state, which will be a home to most of the Palestinian residents living in the Gaza Strip and the West Bank"_. It wanted to keep settlements beyond the Green Line including Ma'ale Adumim and Givat Ze'ev in East Jerusalem. Blocs of settlements should be established in the West Bank. Rabin promised not to return to the 4 June 1967 lines.[56]
 
@@ -140,7 +140,7 @@ Other communities: Shimon HaTzadik, Neve Yaakov and Atarot which in post-1967 wa
 
 Demographics
 
-IsraeliSettlementGrowthLineGraph.png, Gaza Strip, East Jerusalem and Golan Heights 1972-2007 [80][81]]]
+, Gaza Strip, East Jerusalem and Golan Heights 1972-2007 [80][81]]]
 
 At the end of 2010, 534,224 Jewish Israeli lived in the West Bank, including East Jerusalem. 314,132 of them lived in the 121 authorised settlements and 102 unauthorised settlement outposts on the West Bank, 198,629 were living in East Jerusalem, and almost 20,000 lived in settlements in the Golan Heights.
 
@@ -169,7 +169,7 @@ Administration and local government
 
 West Bank
 
-Palestine_Map_2007_(Settlements).gif and the Gaza Strip with Israeli Settlements, 2007]] PikiWiki_Israel_18561_Geography_of_Israel.JPG in the Sinai, between 1975 and 1980, evacuated by Israel in 1982]] Gush_Katif-N-Dekalim02.jpg, Gaza Strip, evacuated by Israel in 2005]]
+and the Gaza Strip with Israeli Settlements, 2007]] in the Sinai, between 1975 and 1980, evacuated by Israel in 1982]] , Gaza Strip, evacuated by Israel in 2005]]
 
 The Israeli settlements in the West Bank fall under the administrative district of _Judea and Samaria Area_. Since December 2007, approval by both the Israeli Prime Minister and Israeli Defense Minister of all settlement activities (including planning) in the West Bank is required.[100] Authority for planning and construction is held by the Israel Defense Forces Civil Administration.
 
@@ -208,7 +208,7 @@ Before Israel's unilateral disengagement plan in which the Israeli settlements w
 
 Legal status
 
-Gilocrossing.jpg, East Jerusalem]] PisgatzeevS.jpg, East Jerusalem]] Katzrinlibrary.jpg, Golan Heights]]
+, East Jerusalem]] , East Jerusalem]] , Golan Heights]]
 
 The consensus view[111] in the international community is that the existence of Israeli settlements in the West Bank including East Jerusalem and the Golan Heights is in violation of international law.[112] The Fourth Geneva Convention includes statements such as "the Occupying Power shall not deport or transfer parts of its own civilian population into the territory it occupies".[113]
 
@@ -260,7 +260,7 @@ A UN conference was held in Rome in 1998, where Israel was one of seven countrie
 
 Land ownership
 
-Elon_Moreh.jpg, West Bank]]
+, West Bank]]
 
 By Israeli law, privately owned land can not be part of a settlement, unless the land in question has been confiscated for military purposes.[161] In 2006 Peace Now acquired a report, which it claims was leaked from the Israeli Government's Civil Administration, indicating that up to 40 percent of the land Israel plans to retain in the West Bank is privately owned by Palestinians.[162] Peace Now called this a violation of Israeli law.[163] Peace Now published a comprehensive report about settlements on private lands.[164][165] In the wake of a legal battle, Peace Now lowered the figure to 32 percent, which the Civil Administration also denied.[166] _The Washington Post_ reported that "The 38-page report offers what appears to be a comprehensive argument against the Israeli government's contention that it avoids building on private land, drawing on the state's own data to make the case."[167]
 
@@ -276,8 +276,6 @@ According to Amira Hass, one of the techniques used by Israel to expropriate Pal
 
 
 Effects on Palestinian human rights
-
-Settlements_allocated_land,_January-2012.png
 
 Amnesty International argues that Israel's settlement policy is discriminatory and a violation of Palestinian human rights.[177] B'Tselem claims that Israeli travel restrictions impact on Palestinian freedom of movement[178] and Palestinian human rights have been violated in Hebron due to the presence of the settlers within the city.[179][180][181] According to B'Tselem, over fifty percent of West Bank land expropriated from Palestinians has been used to establish settlements and create reserves of land for their future expansion. The seized lands mainly benefit the settlements and Palestinians cannot use them.[182] The roads built by Israel in the West Bank to serve the settlements are closed to Palestinian vehicles'[183][184] and act as a barrier often between villages and the lands on which they subsist.[185]
 
@@ -326,7 +324,7 @@ Violence
 
 Israeli settler violence
 
-Gas_the_Arabs_painted_in_Hebron.jpg, 2008]] VandalisedOliveTree.jpg in November 2009]]
+, 2008]] in November 2009]]
 
 Gush Emunim Underground was a militant organization that operated in 1979–1984. The organization planned attacks on Palestinian officials and the Dome of the Rock.[217][218] In 1994, Baruch Goldstein of Hebron, a member of Kach carried out the Cave of the Patriarchs massacre, killing 29 Muslim worshipers and injuring 125. The attack was widely condemned by the Israeli government and Jewish community. The Palestinian leadership has accused Israel of "encouraging and enabling" settler violence in a bid to provoke Palestinian riots and violence in retaliation.[219] Violence perpetrated by Israeli settlers against Palestinians constitutes terrorism according to the U.S. Department of State, and former IDF Head of Central Command Avi Mizrahi stated that such violence constitutes "terror."[220]
 
@@ -352,7 +350,7 @@ Violent attacks on olive trees seem to be facilitated by the apparently systemat
 
 Pro-Palestinian activist violence
 
-Itamar2.jpg, West Bank. Itamar's residents have been the target of deadly attacks by Palestinian militants and have themselves committed violent acts against local Palestinians]] Bodies_wrapped_in_tallit_at_funeral_in_Givat_Shaul_(Fogel_family).jpg]] Pro-Palestinian activists who hold regular protests near the settlements have been accused of stone-throwing, physical assault and provocation.[256][257][258] In 2008, Avshalom Peled, head of the Israel Police's Hebron district, called "left-wing" activity in the city dangerous and provocative, and accused activists of antagonizing the settlers in the hope of getting a reaction.[259]
+, West Bank. Itamar's residents have been the target of deadly attacks by Palestinian militants and have themselves committed violent acts against local Palestinians]] ]] Pro-Palestinian activists who hold regular protests near the settlements have been accused of stone-throwing, physical assault and provocation.[256][257][258] In 2008, Avshalom Peled, head of the Israel Police's Hebron district, called "left-wing" activity in the city dangerous and provocative, and accused activists of antagonizing the settlers in the hope of getting a reaction.[259]
 
 Palestinian violence against settlers
 
@@ -372,7 +370,7 @@ According to Palestinian environmentalists, the settlers operate industrial and 
 
 Impact on Palestinian demographics
 
-Settlers-onlyRoad.jpg, Hebron, 2010]] The Consortium for Applied Research on International Migration (CARIM) has reported in their 2011 migration profile for Palestine that the reasons for individuals to leave the country are similar to those of other countries in the region and they attribute less importance to the specific political situation of the occupied Palestinian territory.[283] Human Rights Watch in 2010 reported that Israeli settlement policies have had the effect of "forcing residents to leave their communities".[284][285]
+, Hebron, 2010]] The Consortium for Applied Research on International Migration (CARIM) has reported in their 2011 migration profile for Palestine that the reasons for individuals to leave the country are similar to those of other countries in the region and they attribute less importance to the specific political situation of the occupied Palestinian territory.[283] Human Rights Watch in 2010 reported that Israeli settlement policies have had the effect of "forcing residents to leave their communities".[284][285]
 
 In 2008, Condoleezza Rice suggested sending Palestinian refugees to South America, which might reduce pressure on Israel to withdraw from the settlements.[286] Sushil P. Seth speculates that Israelis seem to feel that increasing settlements will force many Palestinians to flee to other countries and that the remainder will be forced to live under Israeli terms.[287] Speaking anonymously with regard to Israeli policies in the South Hebron Hills, a UN expert said that the Israeli crackdown on alternative energy infrastructures like solar panels is part of a deliberate strategy in Area C.
 
@@ -383,7 +381,7 @@ Approximately 1,500 people in 16 communities, living in the area since the 19th 
 
 Educational institutions
 
-Ariel_University_Center.jpg]] Ariel University, formerly the College of Judea and Samaria, is the major Israeli institution of higher education in the West Bank. With close to 13,000 students, it is Israel's largest public college. The college was accredited in 1994 and awards bachelor's degrees in arts, sciences, technology, architecture and physical therapy.[290] On 17 July 2012, the Council for Higher Education in Judea and Samaria voted to grant the institution full university status.[291]
+]] Ariel University, formerly the College of Judea and Samaria, is the major Israeli institution of higher education in the West Bank. With close to 13,000 students, it is Israel's largest public college. The college was accredited in 1994 and awards bachelor's degrees in arts, sciences, technology, architecture and physical therapy.[290] On 17 July 2012, the Council for Higher Education in Judea and Samaria voted to grant the institution full university status.[291]
 
 Teacher training colleges include Herzog College in Alon Shvut and Orot Israel College in Elkana. Ohalo College is located in Katzrin, in the Golan Heights.[292] Curricula at these institutions are overseen by the Council for Higher Education in Judea and Samaria (CHE-JS).[293]
 
@@ -392,7 +390,7 @@ In March 2012, The Shomron Regional Council was awarded the Israeli Ministry of 
 
 Strategic significance
 
-SettlersSoldiersIraqBurin.jpg In 1983 an Israeli government plan entitled "Master Plan and Development Plan for Settlement in Samaria and Judea" envisaged placing a "maximally large Jewish population" in priority areas to accomplish incorporation of the West Bank in the Israeli "national system".[296] According to Ariel Sharon, strategic settlement locations would work to preclude the formation of a Palestinian state.[297]
+In 1983 an Israeli government plan entitled "Master Plan and Development Plan for Settlement in Samaria and Judea" envisaged placing a "maximally large Jewish population" in priority areas to accomplish incorporation of the West Bank in the Israeli "national system".[296] According to Ariel Sharon, strategic settlement locations would work to preclude the formation of a Palestinian state.[297]
 
 Palestinians argue that the policy of settlements constitutes an effort to preempt or sabotage a peace treaty that includes Palestinian sovereignty, and claim that the presence of settlements harm the ability to have a viable and contiguous state.[298][299] This was also the view of the Israeli Vice Prime Minister Haim Ramon in 2008, saying "the pressure to enlarge Ofra and other settlements does not stem from a housing shortage, but rather is an attempt to undermine any chance of reaching an agreement with the Palestinians ..."[300]
 
@@ -403,7 +401,7 @@ The Israel Foreign Ministry asserts that some settlements are legitimate, as the
 
 Dismantling of settlements
 
-Yamit_evacuation_3.jpg An early evacuation took place in 1982 as part of the Egypt–Israel Peace Treaty, when Israel was required to evacuate its settlers from the 18 Sinai settlements. Arab parties to the conflict had demanded the dismantlement of the settlements as a condition for peace with Israel. The evacuation was carried out with force in some instances, for example in Yamit. The settlements were demolished, as it was feared that settlers might try to return to their homes after the evacuation.
+An early evacuation took place in 1982 as part of the Egypt–Israel Peace Treaty, when Israel was required to evacuate its settlers from the 18 Sinai settlements. Arab parties to the conflict had demanded the dismantlement of the settlements as a condition for peace with Israel. The evacuation was carried out with force in some instances, for example in Yamit. The settlements were demolished, as it was feared that settlers might try to return to their homes after the evacuation.
 
 Israel's unilateral disengagement plan took place in 2005. It involved the evacuation of settlements in the Gaza Strip and part of the West Bank, including all 21 settlements in Gaza and four in the West Bank, while retaining control over Gaza's borders, coastline, and airspace. Most of these settlements had existed since the early 1980s, some were over 30 years old;[307] the total population involved was more than 10,000. There was significant opposition to the plan among parts of the Israeli public, and especially those living in the territories. George W. Bush said that a permanent peace deal would have to reflect "demographic realities" in the West Bank regarding Israel's settlements.[308]
 
@@ -425,7 +423,7 @@ Finally in 2012, several European states switched to either abstain or vote for 
 
 Impact on peace process
 
-Ariel3.JPG, one of the four biggest settlements in the West Bank]] Beitar_Ilit.jpg, one of the four biggest settlements in the West Bank]] MaaleAdumim7335.JPG, one of the four biggest settlements in the West Bank, industrial area, 2012]] Kiryatsefer.jpg, one of the four biggest settlements in the West Bank]]
+, one of the four biggest settlements in the West Bank]] , one of the four biggest settlements in the West Bank]] , one of the four biggest settlements in the West Bank, industrial area, 2012]] , one of the four biggest settlements in the West Bank]]
 
 The settlements have been a source of tension between Israel and the U.S. Jimmy Carter regarded the settlements as illegal and tactically unwise. Ronald Reagan stated that they were legal but an obstacle to negotiations.[319] In 1991, the U.S. delayed a subsidized loan to pressure Israel on the subject of settlement-building in the Jerusalem-Bethlehem corridor. In 2005, U.S. declared support for "the retention by Israel of major Israeli population centers as an outcome of negotiations,"[320] reflecting the statement by George W. Bush that a permanent peace treaty would have to reflect "demographic realities" in the West Bank.[321] In June 2009, Barack Obama said that the United States "does not accept the legitimacy of continued Israeli settlements."[322]
 

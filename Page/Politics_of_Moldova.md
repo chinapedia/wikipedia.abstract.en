@@ -5,14 +5,13 @@ The Economist Intelligence Unit has rated Moldova as "flawed democracy" in 2016.
 
 Legislative branch
 
-Parliament_Building_Moldova.jpg in Chişinău.]] The Moldovan Parliament (_Parlamentul_) has 101 members, elected for a four-year term by proportional representation. The president is elected for a four-year term by the citizens.
+in Chişinău.]] The Moldovan Parliament (_Parlamentul_) has 101 members, elected for a four-year term by proportional representation. The president is elected for a four-year term by the citizens.
 
 The seat of the legislature is known simply as the .
 
 Parliamentary election results
 
-  -----------------------------
-  Moldova_Parliament_2019.svg
+  ---------------------------
   Party/alliance
   Votes
   style=background:|
@@ -21,7 +20,7 @@ Parliamentary election results
   TOTAL
   Registered voters/turnout
   Source: CEC
-  -----------------------------
+  ---------------------------
 
 
 Executive branch
@@ -63,7 +62,7 @@ Russian and Soviet-era identity politics focused on Russification in the colonia
 
 Transnistria
 
-TransnistrianRegionMap.pngn region of Moldova]]
+n region of Moldova]]
 
 Transnistria (Pridnestyrovie) is a strip of land running along Moldova's eastern border with Ukraine, named after the Nistru (Dniestr) river. The Transnistrian region is majority Slavic (Ukrainian and Russian) and russophone, in contrast with the rest of the country, and it was heavily industrialized during USSR rule. The Moldovan Declaration of Independence claims continuity of Moldovan sovereignty over the territory of Transnistria as it is "a component part of the historical and ethnic territory of our people". However, the Moldovan Declaration of Independence is itself used as an argument against Moldovan sovereignty over Transnistria as it denounces the Ribbentrop-Molotov agreement of 23 August 1939 between the government of the Soviet Union and the government of Nazi Germany "null and void" being the only formal union between the two territories.[7]
 

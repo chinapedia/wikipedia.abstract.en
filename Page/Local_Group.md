@@ -1,4 +1,4 @@
-Local_Group_and_nearest_galaxies.jpg (Andromeda Galaxy) and Milky Way, as well as other nearby galaxies.]] VLT_Shows_Milky_Way's_Neighbouring_Galaxies_Have_Different_History.jpg content (in logarithmic scale) in four dwarf neighbouring galaxies of the Milky Way]]
+(Andromeda Galaxy) and Milky Way, as well as other nearby galaxies.]] content (in logarithmic scale) in four dwarf neighbouring galaxies of the Milky Way]]
 
 The LOCAL GROUP is the galaxy group that includes the Milky Way. It has a total diameter of roughly 3 Mpc (or 10 Mly ≈ ), and a total mass of the order of solar masses ().[1] It consists of two clusters of galaxies in a "dumbbell" shape, the Milky Way and its satellites on one hand, and the Andromeda Galaxy and its satellites on the other. The two clusters are separated by about 0.8 Mpc and move towards one another with a velocity of .[2] The group itself is a part of the larger Virgo Supercluster, which may be a part of the Laniakea Supercluster. The total number of galaxies in the Local Group is unknown (due to its partial occlusion by the Milky Way) but known to exceed 54, most of them being dwarf galaxies.
 

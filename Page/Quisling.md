@@ -1,4 +1,4 @@
-Bundesarchiv_Bild_101III-Moebius-029-12,_Norwegen,_Besuch_Himmler,_Terboven_und_Quisling.jpg, Heinrich Himmler, Josef Terboven, and Nikolaus von Falkenhorst seated in front of officers of the Waffen-SS, German Army and Air Force in 1941]]
+, Heinrich Himmler, Josef Terboven, and Nikolaus von Falkenhorst seated in front of officers of the Waffen-SS, German Army and Air Force in 1941]]
 
 _QUISLING_ (; ) is a term originating in Norway, which is used in Scandinavian languages and in English for a person who collaborates with an enemy occupying force – or more generally as a synonym for traitor.[1][2][3] The word originates from the surname of the Norwegian war-time leader Vidkun Quisling, who headed a domestic Nazi collaborationist regime during World War II.
 

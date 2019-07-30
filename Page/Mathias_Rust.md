@@ -7,7 +7,7 @@ Rust's flight through a supposedly impenetrable air defence system had great eff
 
 Flight profile
 
-Flugroute_von_Mathias_Rust.svg Rust, aged 18, was an inexperienced pilot, with about 50 hours of flying experience at the time of his flight. On 13 May 1987, Rust left Uetersen near Hamburg and his home town Wedel in his rented Reims Cessna F172P D-ECJB, which was modified by removing some of the seats and replacing them with auxiliary fuel tanks. He spent the next two weeks travelling across northern Europe, visiting the Faroe islands, spending a week in Iceland, and then visiting Bergen on his way back. He was later quoted as saying that he had the idea of attempting to reach Moscow even before the departure, and he saw the trip to Iceland (where he visited Hofdi House, the site of unsuccessful talks between the United States and the Soviet Union in October 1986) as a way to test his piloting skills.[5]
+Rust, aged 18, was an inexperienced pilot, with about 50 hours of flying experience at the time of his flight. On 13 May 1987, Rust left Uetersen near Hamburg and his home town Wedel in his rented Reims Cessna F172P D-ECJB, which was modified by removing some of the seats and replacing them with auxiliary fuel tanks. He spent the next two weeks travelling across northern Europe, visiting the Faroe islands, spending a week in Iceland, and then visiting Bergen on his way back. He was later quoted as saying that he had the idea of attempting to reach Moscow even before the departure, and he saw the trip to Iceland (where he visited Hofdi House, the site of unsuccessful talks between the United States and the Soviet Union in October 1986) as a way to test his piloting skills.[5]
 
 On 28 May 1987, Rust refuelled at Helsinki-Malmi Airport. He told air traffic control that he was going to Stockholm, and took off at 12:21. Immediately after his final communication with traffic control, he turned his plane to the east near Nummela. Air traffic controllers tried to contact him as he was moving around the busy Helsinki–Moscow route, but Rust turned off all his communications equipment.[6][7]
 
@@ -26,7 +26,7 @@ Around 19:00 Rust appeared above Moscow. He had initially intended to land in th
 
 Aftermath
 
-Cessna_172_D-ECJB_of_Mathias_Rust.jpg in Berlin (2010)]]
+in Berlin (2010)]]
 
 Rust's trial began in Moscow on 2 September 1987. He was sentenced to four years in a general-regime labour camp for hooliganism, for disregard of aviation laws, and for breaching the Soviet border.[18] He was never transferred to a labour camp, and instead served his time at the high security Lefortovo temporary detention facility in Moscow. Two months later, Reagan and Gorbachev agreed to sign a treaty to eliminate intermediate-range nuclear weapons in Europe, and the Supreme Soviet ordered Rust to be released in August 1988 as a goodwill gesture to the West.[19]
 

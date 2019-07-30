@@ -1,4 +1,4 @@
-Starsinthesky.jpg region in the Large Magellanic Cloud]] The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg imagery of the Sun, a G-type main-sequence star, the closest to Earth]]
+region in the Large Magellanic Cloud]] imagery of the Sun, a G-type main-sequence star, the closest to Earth]]
 
 A STAR is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye from Earth during the night, appearing as a multitude of fixed luminous points in the sky due to their immense distance from Earth. Historically, the most prominent stars were grouped into constellations and asterisms, the brightest of which gained proper names. Astronomers have assembled star catalogues that identify the known stars and provide standardized stellar designations. However, most of the estimated 300 sextillion ()[1] stars in the observable universe are invisible to the naked eye from Earth, including all stars outside our galaxy, the Milky Way.
 
@@ -11,7 +11,7 @@ Binary and multi-star systems consist of two or more stars that are gravitationa
 
 Observation history
 
-Dibuix_de_Leo.png, the lion, is by Johannes Hevelius.[6]]] LeoCC.jpg as it can be seen by the naked eye. Lines have been added.]]
+, the lion, is by Johannes Hevelius.[6]]] as it can be seen by the naked eye. Lines have been added.]]
 
 Historically, stars have been important to civilizations throughout the world. They have been part of religious practices and used for celestial navigation and orientation. Many ancient astronomers believed that stars were permanently affixed to a heavenly sphere and that they were immutable. By convention, astronomers grouped stars into constellations and used them to track the motions of the planets and the inferred position of the Sun.[7] The motion of the Sun against the background stars (and the horizon) was used to create calendars, which could be used to regulate agricultural practices.[8] The Gregorian calendar, currently used nearly everywhere in the world, is a solar calendar based on the angle of the Earth's rotational axis relative to its local star, the Sun.
 
@@ -31,13 +31,13 @@ William Herschel was the first astronomer to attempt to determine the distributi
 
 The science of stellar spectroscopy was pioneered by Joseph von Fraunhofer and Angelo Secchi. By comparing the spectra of stars such as Sirius to the Sun, they found differences in the strength and number of their absorption lines—the dark lines in stellar spectra caused by the atmosphere's absorption of specific frequencies. In 1865, Secchi began classifying stars into spectral types.[31] However, the modern version of the stellar classification scheme was developed by Annie J. Cannon during the 1900s.
 
-Alpha_Centauri_AB_over_limb_of_Saturn_PIA10406.jpg and B over limb of Saturn
+and B over limb of Saturn
 
 ]] The first direct measurement of the distance to a star (61 Cygni at 11.4 light-years) was made in 1838 by Friedrich Bessel using the parallax technique. Parallax measurements demonstrated the vast separation of the stars in the heavens.[32] Observation of double stars gained increasing importance during the 19th century. In 1834, Friedrich Bessel observed changes in the proper motion of the star Sirius and inferred a hidden companion. Edward Pickering discovered the first spectroscopic binary in 1899 when he observed the periodic splitting of the spectral lines of the star Mizar in a 104-day period. Detailed observations of many binary star systems were collected by astronomers such as Friedrich Georg Wilhelm von Struve and S. W. Burnham, allowing the masses of stars to be determined from computation of orbital elements. The first solution to the problem of deriving an orbit of binary stars from telescope observations was made by Felix Savary in 1827.[33] The twentieth century saw increasingly rapid advances in the scientific study of stars. The photograph became a valuable astronomical tool. Karl Schwarzschild discovered that the color of a star and, hence, its temperature, could be determined by comparing the visual magnitude against the photographic magnitude. The development of the photoelectric photometer allowed precise measurements of magnitude at multiple wavelength intervals. In 1921 Albert A. Michelson made the first measurements of a stellar diameter using an interferometer on the Hooker telescope at Mount Wilson Observatory.[34]
 
 Important theoretical work on the physical structure of stars occurred during the first decades of the twentieth century. In 1913, the Hertzsprung-Russell diagram was developed, propelling the astrophysical study of stars. Successful models were developed to explain the interiors of stars and stellar evolution. Cecilia Payne-Gaposchkin first proposed that stars were made primarily of hydrogen and helium in her 1925 PhD thesis.[35] The spectra of stars were further understood through advances in quantum physics. This allowed the chemical composition of the stellar atmosphere to be determined.[36]
 
-Milky_Way_IR_Spitzer.jpg shows hundreds of thousands of stars in the Milky Way galaxy]] With the exception of supernovae, individual stars have primarily been observed in the Local Group,[37] and especially in the visible part of the Milky Way (as demonstrated by the detailed star catalogues available for our galaxy).[38] But some stars have been observed in the M100 galaxy of the Virgo Cluster, about 100 million light years from the Earth.[39] In the Local Supercluster it is possible to see star clusters, and current telescopes could in principle observe faint individual stars in the Local Group[40] (see Cepheids). However, outside the Local Supercluster of galaxies, neither individual stars nor clusters of stars have been observed. The only exception is a faint image of a large star cluster containing hundreds of thousands of stars located at a distance of one billion light years[41]—ten times further than the most distant star cluster previously observed.
+shows hundreds of thousands of stars in the Milky Way galaxy]] With the exception of supernovae, individual stars have primarily been observed in the Local Group,[37] and especially in the visible part of the Milky Way (as demonstrated by the detailed star catalogues available for our galaxy).[38] But some stars have been observed in the M100 galaxy of the Virgo Cluster, about 100 million light years from the Earth.[39] In the Local Supercluster it is possible to see star clusters, and current telescopes could in principle observe faint individual stars in the Local Group[40] (see Cepheids). However, outside the Local Supercluster of galaxies, neither individual stars nor clusters of stars have been observed. The only exception is a faint image of a large star cluster containing hundreds of thousands of stars located at a distance of one billion light years[41]—ten times further than the most distant star cluster previously observed.
 
 In February 2018, astronomers reported, for the first time, a signal of the reionization epoch, an indirect detection of light from the earliest stars formed—about 180 million years after the Big Bang.[42]
 
@@ -78,8 +78,6 @@ Large lengths, such as the radius of a giant star or the semi-major axis of a bi
 
 Formation and evolution
 
-star_life_cycles_red_dwarf_en.svg
-
 Stars condense from regions of space of higher matter density, yet those regions are less dense than within a vacuum chamber. These regions—known as _molecular clouds_—consist mostly of hydrogen, with about 23 to 28 percent helium and a few percent heavier elements. One example of such a star-forming region is the Orion Nebula.[66] Most stars form in groups of dozens to hundreds of thousands of stars.[67] Massive stars in these groups may powerfully illuminate those clouds, ionizing the hydrogen, and creating H II regions. Such feedback effects, from star formation, may ultimately disrupt the cloud and prevent further star formation.
 
 All stars spend the majority of their existence as _main sequence stars_, fueled primarily by the nuclear fusion of hydrogen into helium within their cores. However, stars of different masses have markedly different properties at various stages of their development. The ultimate fate of more massive stars differs from that of less massive stars, as do their luminosities and the impact they have on their environment. Accordingly, astronomers often group stars by their mass:[68]
@@ -91,7 +89,7 @@ All stars spend the majority of their existence as _main sequence stars_, fueled
 
 Star formation
 
-The formation of a star begins with gravitational instability within a molecular cloud, caused by regions of higher density—often triggered by compression of clouds by radiation from massive stars, expanding bubbles in the interstellar medium, the collision of different molecular clouds, or the collision of galaxies (as in a starburst galaxy).[70][71] When a region reaches a sufficient density of matter to satisfy the criteria for Jeans instability, it begins to collapse under its own gravitational force.[72] Witness_the_Birth_of_a_Star.jpg.]] As the cloud collapses, individual conglomerations of dense dust and gas form "Bok globules". As a globule collapses and the density increases, the gravitational energy converts into heat and the temperature rises. When the protostellar cloud has approximately reached the stable condition of hydrostatic equilibrium, a protostar forms at the core.[73] These pre-main-sequence stars are often surrounded by a protoplanetary disk and powered mainly by the conversion of gravitational energy. The period of gravitational contraction lasts about 10 to 15 million years. W40_star-forming_region.jpg stellar nursery.]]
+The formation of a star begins with gravitational instability within a molecular cloud, caused by regions of higher density—often triggered by compression of clouds by radiation from massive stars, expanding bubbles in the interstellar medium, the collision of different molecular clouds, or the collision of galaxies (as in a starburst galaxy).[70][71] When a region reaches a sufficient density of matter to satisfy the criteria for Jeans instability, it begins to collapse under its own gravitational force.[72] .]] As the cloud collapses, individual conglomerations of dense dust and gas form "Bok globules". As a globule collapses and the density increases, the gravitational energy converts into heat and the temperature rises. When the protostellar cloud has approximately reached the stable condition of hydrostatic equilibrium, a protostar forms at the core.[73] These pre-main-sequence stars are often surrounded by a protoplanetary disk and powered mainly by the conversion of gravitational energy. The period of gravitational contraction lasts about 10 to 15 million years. stellar nursery.]]
 
 Early stars of less than 2 are called T Tauri stars, while those with greater mass are Herbig Ae/Be stars. These newly formed stars emit jets of gas along their axis of rotation, which may reduce the angular momentum of the collapsing star and result in small patches of nebulosity known as Herbig–Haro objects.[74][75] These jets, in combination with radiation from nearby massive stars, may help to drive away the surrounding cloud from which the star was formed.[76]
 
@@ -105,7 +103,7 @@ Stars spend about 90% of their existence fusing hydrogen into helium in high-tem
 
 Every star generates a stellar wind of particles that causes a continual outflow of gas into space. For most stars, the mass lost is negligible. The Sun loses 10^(−14) every year,[80] or about 0.01% of its total mass over its entire lifespan. However, very massive stars can lose 10^(−7) to 10^(−5) each year, significantly affecting their evolution.[81] Stars that begin with more than 50 can lose over half their total mass while on the main sequence.[82]
 
-H-R_diagram_-edited-3.gif for a set of stars that includes the Sun (center). (See "Classification" below.)]]
+for a set of stars that includes the Sun (center). (See "Classification" below.)]]
 
 The time a star spends on the main sequence depends primarily on the amount of fuel it has and the rate at which it fuses it. The Sun is expected to live 10 billion (10¹⁰) years. Massive stars consume their fuel very rapidly and are short-lived. Low mass stars consume their fuel very slowly. Stars less massive than 0.25 , called red dwarfs, are able to fuse nearly all of their mass while stars of about 1 can only fuse about 10% of their mass. The combination of their slow fuel-consumption and relatively large usable fuel supply allows low mass stars to last about one trillion (10¹²) years; the most extreme of 0.08 ) will last for about 12 trillion years. Red dwarfs become hotter and more luminous as they accumulate helium. When they eventually run out of hydrogen, they contract into a white dwarf and decline in temperature.[83] However, since the lifespan of such stars is greater than the current age of the universe (13.8 billion years), no stars under about 0.85 [84] are expected to have moved off the main sequence.
 
@@ -131,7 +129,7 @@ Collapse
 
 As a star's core shrinks, the intensity of radiation from that surface increases, creating such radiation pressure on the outer shell of gas that it will push those layers away, forming a planetary nebula. If what remains after the outer atmosphere has been shed is less than 1.4 , it shrinks to a relatively tiny object about the size of Earth, known as a white dwarf. White dwarfs lack the mass for further gravitational compression to take place.[93] The electron-degenerate matter inside a white dwarf is no longer a plasma, even though stars are generally referred to as being spheres of plasma. Eventually, white dwarfs fade into black dwarfs over a very long period of time.
 
-Crab_Nebula.jpg, remnants of a supernova that was first observed around 1050 AD]]
+, remnants of a supernova that was first observed around 1050 AD]]
 
 In massive stars, fusion continues until the iron core has grown so large (more than 1.4 ) that it can no longer support its own mass. This core will suddenly collapse as its electrons are driven into its protons, forming neutrons, neutrinos, and gamma rays in a burst of electron capture and inverse beta decay. The shockwave formed by this sudden collapse causes the rest of the star to explode in a supernova. Supernovae become so bright that they may briefly outshine the star's entire home galaxy. When they occur within the Milky Way, supernovae have historically been observed by naked-eye observers as "new stars" where none seemingly existed before.[94]
 
@@ -146,7 +144,7 @@ The post–main-sequence evolution of binary stars may be significantly differen
 
 Distribution
 
-Sirius_A_and_B_artwork.jpg star in orbit around Sirius (artist's impression).]]
+star in orbit around Sirius (artist's impression).]]
 
 Stars are not spread uniformly across the universe, but are normally grouped into galaxies along with interstellar gas and dust. A typical galaxy contains hundreds of billions of stars, and there are more than 100 billion (10¹¹) galaxies in the observable universe.[98] In 2010, one estimate of the number of stars in the observable universe was 300 sextillion ().[99][100] While it is often believed that stars only exist within galaxies, intergalactic stars have been discovered.[101]
 
@@ -154,7 +152,7 @@ A multi-star system consists of two or more gravitationally bound stars that orb
 
 It has been a long-held assumption that the majority of stars occur in gravitationally bound, multiple-star systems. This is particularly true for very massive O and B class stars, where 80% of the stars are believed to be part of multiple-star systems. The proportion of single star systems increases with decreasing star mass, so that only 25% of red dwarfs are known to have stellar companions. As 85% of all stars are red dwarfs, most stars in the Milky Way are likely single from birth.[103]
 
-Ngc6397_hst_blue_straggler.jpgs", for their apparent location on the Hertzsprung–Russell diagram]] The nearest star to the Earth, apart from the Sun, is Proxima Centauri, which is 39.9 trillion kilometres, or 4.2 light-years. Travelling at the orbital speed of the Space Shuttle (8 kilometres per second—almost 30,000 kilometres per hour), it would take about 150,000 years to arrive.[104] This is typical of stellar separations in galactic discs.[105] Stars can be much closer to each other in the centres of galaxies and in globular clusters, or much farther apart in galactic halos.
+s", for their apparent location on the Hertzsprung–Russell diagram]] The nearest star to the Earth, apart from the Sun, is Proxima Centauri, which is 39.9 trillion kilometres, or 4.2 light-years. Travelling at the orbital speed of the Space Shuttle (8 kilometres per second—almost 30,000 kilometres per hour), it would take about 150,000 years to arrive.[104] This is typical of stellar separations in galactic discs.[105] Stars can be much closer to each other in the centres of galaxies and in globular clusters, or much farther apart in galactic halos.
 
 Due to the relatively vast distances between stars outside the galactic nucleus, collisions between stars are thought to be rare. In denser regions such as the core of globular clusters or the galactic center, collisions can be more common.[106] Such collisions can produce what are known as blue stragglers. These abnormal stars have a higher surface temperature than the other main sequence stars with the same luminosity of the cluster to which it belongs.[107]
 
@@ -189,7 +187,7 @@ The star with the lowest iron content ever measured is the dwarf HE1327-2326, wi
 
 Diameter
 
-Well_known_stars_2.png Due to their great distance from the Earth, all stars except the Sun appear to the unaided eye as shining points in the night sky that twinkle because of the effect of the Earth's atmosphere. The Sun is also a star, but it is close enough to the Earth to appear as a disk instead, and to provide daylight. Other than the Sun, the star with the largest apparent size is R Doradus, with an angular diameter of only 0.057 arcseconds.[120]
+Due to their great distance from the Earth, all stars except the Sun appear to the unaided eye as shining points in the night sky that twinkle because of the effect of the Earth's atmosphere. The Sun is also a star, but it is close enough to the Earth to appear as a disk instead, and to provide daylight. Other than the Sun, the star with the largest apparent size is R Doradus, with an angular diameter of only 0.057 arcseconds.[120]
 
 The disks of most stars are much too small in angular size to be observed with current ground-based optical telescopes, and so interferometer telescopes are required to produce images of these objects. Another technique for measuring the angular size of stars is through occultation. By precisely measuring the drop in brightness of a star as it is occulted by the Moon (or the rise in brightness when it reappears), the star's angular diameter can be computed.[121]
 
@@ -197,7 +195,7 @@ Stars range in size from neutron stars, which vary anywhere from 20 to in diamet
 
 Kinematics
 
-Pleiades_large.jpg, an open cluster of stars in the constellation of Taurus. These stars share a common motion through space.[125]]]
+, an open cluster of stars in the constellation of Taurus. These stars share a common motion through space.[125]]]
 
 The motion of a star relative to the Sun can provide useful information about the origin and age of a star, as well as the structure and evolution of the surrounding galaxy. The components of motion of a star consist of the radial velocity toward or away from the Sun, and the traverse angular movement, which is called its proper motion.
 
@@ -207,7 +205,7 @@ When both rates of movement are known, the space velocity of the star relative t
 
 Magnetic field
 
-suaur.jpg (a young star of T Tauri type), reconstructed by means of Zeeman–Doppler imaging]]
+(a young star of T Tauri type), reconstructed by means of Zeeman–Doppler imaging]]
 
 The magnetic field of a star is generated within regions of the interior where convective circulation occurs. This movement of conductive plasma functions like a dynamo, wherein the movement of electrical charges induce magnetic fields, as does a mechanical dynamo. Those magnetic fields have a great range that extend throughout and beyond the star. The strength of the magnetic field varies with the mass and composition of the star, and the amount of magnetic surface activity depends upon the star's rate of rotation. This surface activity produces starspots, which are regions of strong magnetic fields and lower than normal surface temperatures. Coronal loops are arching magnetic field flux lines that rise from a star's surface into the star's outer atmosphere, its corona. The coronal loops can be seen due to the plasma they conduct along their length. Stellar flares are bursts of high-energy particles that are emitted due to the same magnetic activity.[129]
 
@@ -217,7 +215,7 @@ Mass
 
 One of the most massive stars known is Eta Carinae,[131] which, with 100–150 times as much mass as the Sun, will have a lifespan of only several million years. Studies of the most massive open clusters suggests as an upper limit for stars in the current era of the universe.[132] This represents an empirical value for the theoretical limit on the mass of forming stars due to increasing radiation pressure on the accreting gas cloud. Several stars in the R136 cluster in the Large Magellanic Cloud have been measured with larger masses,[133] but it has been determined that they could have been created through the collision and merger of massive stars in close binary systems, sidestepping the 150 limit on massive star formation.[134]
 
-Ngc1999.jpg NGC 1999 is brilliantly illuminated by V380 Orionis (center), a variable star with about 3.5 times the mass of the Sun. The black patch of sky is a vast hole of empty space and not a dark nebula as previously thought.]] The first stars to form after the Big Bang may have been larger, up to 300 ,[135] due to the complete absence of elements heavier than lithium in their composition. This generation of supermassive population III stars is likely to have existed in the very early universe (i.e., they are observed to have a high redshift), and may have started the production of chemical elements heavier than hydrogen that are needed for the later formation of planets and life. In June 2015, astronomers reported evidence for Population III stars in the Cosmos Redshift 7 galaxy at 6.60}}.[136][137]
+NGC 1999 is brilliantly illuminated by V380 Orionis (center), a variable star with about 3.5 times the mass of the Sun. The black patch of sky is a vast hole of empty space and not a dark nebula as previously thought.]] The first stars to form after the Big Bang may have been larger, up to 300 ,[135] due to the complete absence of elements heavier than lithium in their composition. This generation of supermassive population III stars is likely to have existed in the very early universe (i.e., they are observed to have a high redshift), and may have started the production of chemical elements heavier than hydrogen that are needed for the later formation of planets and life. In June 2015, astronomers reported evidence for Population III stars in the Cosmos Redshift 7 galaxy at 6.60}}.[136][137]
 
 With a mass only 80 times that of Jupiter (), 2MASS J0523-1403 is the smallest known star undergoing nuclear fusion in its core.[138] For stars with metallicity similar to the Sun, the theoretical minimum mass the star can have and still undergo fusion at the core, is estimated to be about 75 .[139][140] When the metallicity is very low, however, the minimum star size seems to be about 8.3% of the solar mass, or about 87 .[141][142] Smaller bodies called brown dwarfs, occupy a poorly defined grey area between stars and gas giants.
 
@@ -324,7 +322,7 @@ White dwarf stars have their own class that begins with the letter _D_. This is 
 
 Variable stars
 
-Mira_1997.jpg, an oscillating variable star.]]
+, an oscillating variable star.]]
 
 Variable stars have periodic or random changes in luminosity because of intrinsic or extrinsic properties. Of the intrinsically variable stars, the primary types can be subdivided into three principal groups.
 
@@ -339,7 +337,7 @@ Stars can also vary in luminosity because of extrinsic factors, such as eclipsin
 
 Structure
 
-Star_types.svg, convection zones with arrowed cycles and radiative zones with red flashes. To the left a LOW-MASS red dwarf, in the center a MID-SIZED yellow dwarf, and, at the right, a MASSIVE blue-white main sequence star.]]
+, convection zones with arrowed cycles and radiative zones with red flashes. To the left a LOW-MASS red dwarf, in the center a MID-SIZED yellow dwarf, and, at the right, a MASSIVE blue-white main sequence star.]]
 
 The interior of a stable star is in a state of hydrostatic equilibrium: the forces on any small volume almost exactly counterbalance each other. The balanced forces are inward gravitational force and an outward force due to the pressure gradient within the star. The pressure gradient is established by the temperature gradient of the plasma; the outer part of the star is cooler than the core. The temperature at the core of a main sequence or giant star is at least on the order of 10⁷ K. The resulting temperature and pressure at the hydrogen-burning core of a main sequence star are sufficient for nuclear fusion to occur and for sufficient energy to be produced to prevent further collapse of the star.[183][184]
 
@@ -351,7 +349,7 @@ The radiation zone is the region of the stellar interior where the flux of energ
 
 The occurrence of convection in the outer envelope of a main sequence star depends on the star's mass. Stars with several times the mass of the Sun have a convection zone deep within the interior and a radiative zone in the outer layers. Smaller stars such as the Sun are just the opposite, with the convective zone located in the outer layers.[187] Red dwarf stars with less than 0.4 are convective throughout, which prevents the accumulation of a helium core.[188] For most stars the convective zones will also vary over time as the star ages and the constitution of the interior is modified.[189]
 
-Sun_parts_big.jpg.]] The photosphere is that portion of a star that is visible to an observer. This is the layer at which the plasma of the star becomes transparent to photons of light. From here, the energy generated at the core becomes free to propagate into space. It is within the photosphere that sun spots, regions of lower than average temperature, appear.
+.]] The photosphere is that portion of a star that is visible to an observer. This is the layer at which the plasma of the star becomes transparent to photons of light. From here, the energy generated at the core becomes free to propagate into space. It is within the photosphere that sun spots, regions of lower than average temperature, appear.
 
 Above the level of the photosphere is the stellar atmosphere. In a main sequence star such as the Sun, the lowest level of the atmosphere, just above the photosphere, is the thin chromosphere region, where spicules appear and stellar flares begin. Above this is the transition region, where the temperature rapidly increases within a distance of only . Beyond this is the corona, a volume of super-heated plasma that can extend outward to several million kilometres.[190] The existence of a corona appears to be dependent on a convective zone in the outer layers of the star.[191] Despite its high temperature, and the corona emits very little light, due to its low gas density. The corona region of the Sun is normally only visible during a solar eclipse.
 

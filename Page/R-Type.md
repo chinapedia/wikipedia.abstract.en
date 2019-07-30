@@ -7,7 +7,7 @@ _R-Type_ was celebrated by critics for its graphics and addictive gameplay, alth
 
 Gameplay
 
-ARC_R-Type.png The game is composed of several sequential levels, with a boss enemy at the end of each. The player controls a small spacecraft and must navigate terrain and fight enemies using the various ship weapons. The player's spacecraft has, by default, a weak but rapid-firing main gun; and a more powerful gun called a _wave cannon_, which requires the player to hold their fire to build up power for the cannon.
+The game is composed of several sequential levels, with a boss enemy at the end of each. The player controls a small spacecraft and must navigate terrain and fight enemies using the various ship weapons. The player's spacecraft has, by default, a weak but rapid-firing main gun; and a more powerful gun called a _wave cannon_, which requires the player to hold their fire to build up power for the cannon.
 
 During the game, the player can obtain an auxiliary device called a _Force_. This resembles a glowing orange ball. The Force can be attached to the front or back of the player's spacecraft, or detached to fly freely. When attached, the Force provides one of three different powerful weapons, in addition to the main gun and the wave cannon.
 

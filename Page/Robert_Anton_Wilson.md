@@ -5,7 +5,7 @@ Wilson described his work as an "attempt to break down conditioned associations,
 
 Early life
 
-Robert_Anton_Wilson,_1977.jpg, London, for the 10-hour stage version of _Illuminatus!_ in 1977]]
+, London, for the 10-hour stage version of _Illuminatus!_ in 1977]]
 
 Born Robert Edward Wilson in Methodist Hospital, in Brooklyn, New York, he spent his first years in Flatbush, and moved with his family to lower middle class Gerritsen Beach around the age of four or five, where they stayed until relocating to the steadfastly middle class neighborhood of Bay Ridge when Wilson was thirteen. He suffered from polio as a child, and found generally effective treatment with the Kenny Method (created by Elizabeth Kenny) which the American Medical Association repudiated at that time. Polio's effects remained with Wilson throughout his life, usually manifesting as minor muscle spasms causing him to use a cane occasionally until 2000, when he experienced a major bout with post-polio syndrome that would continue until his death.
 

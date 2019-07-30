@@ -41,7 +41,7 @@ Consecration is an equally important magical operation. It is essentially the de
 
 Invocation
 
-Circletriangle.gif Invocation is the bringing in or identifying with a particular deity or spirit. Crowley wrote of two keys to success in this arena: to "inflame thyself in praying"[11] and to "invoke often". For Crowley, the single most important invocation, or any act of Magick for that matter, was the invocation of one's Holy Guardian Angel, or "secret self", which allows the adept to know his or her True Will.
+Invocation is the bringing in or identifying with a particular deity or spirit. Crowley wrote of two keys to success in this arena: to "inflame thyself in praying"[11] and to "invoke often". For Crowley, the single most important invocation, or any act of Magick for that matter, was the invocation of one's Holy Guardian Angel, or "secret self", which allows the adept to know his or her True Will.
 
 Crowley describes the experience of invocation:
 

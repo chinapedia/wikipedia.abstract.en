@@ -24,12 +24,12 @@ The arrest orders were impossible to carry out for a considerable period of time
 
 Place in the calendar of saints
 
-Moscow,_St.Martin,_murals.jpg, 1793–1806]] Since the 1969 revision of the General Roman Calendar, the memorial of Saint Martin I, which earlier versions of the calendar place on 12 November, is on 13 April, celebrated as the formal anniversary of his death.[12][13] In the Eastern Orthodox Church, his feast day is 14 April (27 April New Style).[14]
+, 1793–1806]] Since the 1969 revision of the General Roman Calendar, the memorial of Saint Martin I, which earlier versions of the calendar place on 12 November, is on 13 April, celebrated as the formal anniversary of his death.[12][13] In the Eastern Orthodox Church, his feast day is 14 April (27 April New Style).[14]
 
 
 Later references
 
-Pope_Martin_I_Illustration.jpg Pope Pius VII made an honourable reference to Martin in his 1800 encyclical _Diu satis_: The breviary of the Orthodox Church states: "Glorious definer of the Orthodox Faith... sacred chief of divine dogmas, unstained by error... true reprover of heresy... foundation of bishops, pillar of the Orthodox faith, teacher of religion.... Thou didst adorn the divine see of Peter, and since from this divine Rock, thou didst immovably defend the Church, so now thou art glorified with him.”[15]
+Pope Pius VII made an honourable reference to Martin in his 1800 encyclical _Diu satis_: The breviary of the Orthodox Church states: "Glorious definer of the Orthodox Faith... sacred chief of divine dogmas, unstained by error... true reprover of heresy... foundation of bishops, pillar of the Orthodox faith, teacher of religion.... Thou didst adorn the divine see of Peter, and since from this divine Rock, thou didst immovably defend the Church, so now thou art glorified with him.”[15]
 
 
 References

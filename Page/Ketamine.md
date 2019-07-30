@@ -70,7 +70,7 @@ Tonic-clonic movements are reported at higher anesthetic doses in greater than 1
 
 Neurological
 
-Zebrafish_Make_a_Splash_in_FDA_Research_(8614532586).jpg In 1989, psychiatry professor John Olney reported ketamine caused irreversible changes, known as Olney's lesions, in two small areas of the rat brain. However, the rat brain has significant differences in metabolism from the human brain; therefore such changes may not occur in humans.Neurological effects of ketamine introduction references:
+In 1989, psychiatry professor John Olney reported ketamine caused irreversible changes, known as Olney's lesions, in two small areas of the rat brain. However, the rat brain has significant differences in metabolism from the human brain; therefore such changes may not occur in humans.Neurological effects of ketamine introduction references:
 
 -   -   -   -
 
@@ -97,8 +97,6 @@ Liver
 In case reports of three people treated with esketamine for relief of chronic pain, liver enzyme abnormalities occurred following repeat treatment with ketamine infusions, with the liver enzyme values returning below the upper reference limit of normal range on cessation of the drug. The result suggests liver enzymes must be monitored during such treatment.[101]
 
 Dependence
-
-Rational_harm_assessment_of_drugs_radar_plot.svg
 
 Ketamine's potential for dependence has been established in various operant conditioning paradigms, including conditioned place preference and self-administration; further, rats demonstrate locomotor sensitization following repeated exposure to ketamine.[102] Increased subjective feelings of 'high' have been observed in healthy human volunteers exposed to ketamine.[103] Additionally, the rapid onset of effects following smoking, insufflation, and/or intramuscular injection is thought to increase the drug's recreational use potential. The short duration of effects promotes bingeing; tolerance can develop; and withdrawal symptoms, including anxiety, shaking, and palpitations, may be present in some daily users following cessation of use.[104]
 
@@ -272,8 +270,6 @@ The optical rotation of a given enantiomer of ketamine can vary between its salt
 
 Analogues
 
-Arylcyclohexylamines.png
-
 Other arylcyclohexylamines and analogues of ketamine include eticyclidine (PCE), 3-MeO-PCE, methoxetamine (MXE), tiletamine, phencyclidine (PCP), tenocyclidine (TCP), and many others.[289]
 
 Detection
@@ -285,13 +281,11 @@ History
 
 Medical use
 
-Ketamine_Vials.jpg
-
 Ketamine was first synthesized in 1962 by Calvin L. Stevens, a professor of Chemistry at Wayne State University and a Parke-Davis consultant conducting research on alpha-hydroxyimine rearrangements.[293] After promising preclinical research in animals, ketamine was introduced to testing in human prisoners in 1964.[294][295] These investigations demonstrated ketamine's short duration of action and reduced behavioral toxicity made it a favorable choice over phencyclidine (PCP) as a dissociative anesthetic.[296] Following FDA approval in 1970, ketamine anesthesia was first given to American soldiers during the Vietnam War.[297]
 
 Nonmedical use
 
-Just_Say_Neigh_(7909762236).jpg campaign and ketamine's reputation as a drug for horses.[298]]]
+campaign and ketamine's reputation as a drug for horses.[298]]]
 
 Nonmedical use of ketamine began on the West Coast of the United States in the early 1970s.[299] Early use was documented in underground literature such as _The Fabulous Furry Freak Brothers_. It was used in psychiatric and other academic research through the 1970s, culminating in 1978 with the publishing of psychonaut John Lilly's _The Scientist_, and Marcia Moore and Howard Alltounian's _Journeys into the Bright World_, which documented the unusual phenomenology of ketamine intoxication.History of non-medical use in literature references:
 
@@ -357,8 +351,6 @@ United States
 The increase in recreational use prompted ketamine to be placed in Schedule III of the United States Controlled Substance Act in August 1999.[335]
 
 Recreational use
-
-Ketamine_Crystals.jpg
 
 Recreational use of ketamine was documented in the early 1970s in underground literature (e.g., _The Fabulous Furry Freak Brothers_).[336] It was used in psychiatric and other academic research through the 1970s, culminating in 1978 with the publishing of psychonaut John Lilly's _The Scientist_, and Marcia Moore and Howard Alltounian's _Journeys into the Bright World_, which documented the unusual phenomenology of ketamine intoxication.[337] The incidence of non-medical ketamine use increased through the end of the century, especially in the context of raves and other parties.[338][339][340][341][342] Its emergence as a club drug differs from other club drugs (e.g., MDMA), however, due to its anesthetic properties (e.g., slurred speech, immobilization) at higher doses;[343] in addition, reports of ketamine being sold as "ecstasy" are common.[344] In the 1993 book _E for Ecstasy_[345] (about the uses of the street drug Ecstasy in the UK), the writer, activist, and Ecstasy advocate Nicholas Saunders highlighted test results showing that certain consignments of the drug also contained ketamine. Consignments of Ecstasy known as "Strawberry" contained what Saunders described as a "potentially dangerous combination of ketamine, ephedrine, and selegiline", as did a consignment of "Sitting Duck" Ecstasy tablets.[346]
 

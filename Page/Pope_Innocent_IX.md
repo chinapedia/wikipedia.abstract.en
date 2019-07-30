@@ -13,8 +13,6 @@ He studied at the University of Bologna - which was pre-eminent in jurisprudence
 
 He travelled to Rome and he became the secretary to Cardinal Nicolò Ardinghelli before entering the service of Cardinal Alessandro Farnese, brother of the Duke of Parma and grandson of Pope Paul III (1534–1549), one of the great patrons of the time. The cardinal, who was the Archbishop of Avignon, sent Facchinetti there as his ecclesiastical representative and subsequently recalled him to the management of his affairs at Parma, where he was acting governor of the city, from 1556 to 1558. He was also made the Referendary of the Apostolic Signatura in 1559 and held that post for a year.
 
-Tomb_of_pope_Innocent_IX.jpg
-
 Episcopate and cardinalate
 
 In 1560, Facchinetti was named as the Bishop of Nicastro, in Calabria,[3] and in 1562 was present at the Council of Trent. He was the first bishop to actually reside in the diocese in three decades. Pope Pius V (1566–1572) sent him as papal nuncio to Venice in 1566[4] to further the papal alliance with Spain and Venice against the Turks, which ultimately resulted in the victory of Lepanto in 1571. He was recalled from Venice in 1572 and was made the Prior Commendatario of S. Andrea di Carmignano in the diocese of Padua from 1576 to 1587.[5]

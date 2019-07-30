@@ -1,4 +1,4 @@
-Linear_Function_Graph.svg In mathematics, a LINEAR EQUATION is an equation that may be put in the form
+In mathematics, a LINEAR EQUATION is an equation that may be put in the form
 
 _a_₁_x_₁ + ⋯ + _a__(_n_)_x__(_n_) + _b_ = 0,
 where x₁, …, x_(n) are the variables (or unknowns or indeterminates), and b, a₁, …, a_(n) are the coefficients, which are often real numbers. The coefficients may be considered as parameters of the equation, and may be arbitrary expressions, provided they do not contain any of the variables. To yield a meaningful equation for non-zero values of b, the coefficients are required to not be all zero.
@@ -74,13 +74,9 @@ In Cartesian coordinates
 
 Every single solution of a linear equation in two variables can be interpreted as two coordinate values, fixing a point in the Euclidean plane with a Cartesian coordinate system. The sets of solutions of such an equation form a line in this plane. Conventionally, the first component of a solution (x, y), the x-value, is assigned to a horizontally drawn x-axis, and the second component, the y-value, to a vertical y-axis.
 
-x_is_a.svg
-
 In the case of a ≠ 0, b = 0 the equation is x = x₀, and the set of its solutions S^(y) = {(x₀, y) ∣ y ∈ ℝ} has a vertical line as its graph, as shown in the figure to the right. The value $x_0= -\tfrac c a,$ where the line intersects the x-axis in the point (x₀, 0), is called an {{nowrap Except for x₀ = 0, when the graph coincides with the graphs of this kind do not intersect the they have no {{nowrap
 
 The set of solutions defines a function f(t) and, simultaneously, the graph of this function, by interpreting the pairs (x, y) as (t, f(t)), provided that any two such solutions that differ in their second value also differ in their respective first values The set S^(y) = {(x₀, y) ∣ y ∈ ℝ} violates this condition: all real values y in the second component have the same first component x₀. Nevertheless, a graph for this set may be drawn, but it is not a graph of a function under the conventional assignment of axes, it obviously fails the vertical line test. This is the only type of straight line which is not the graph of any function f(t).
-
-y_is_b.svg
 
 The sets S_(x) and S satisfy the above condition, and the graph of S_(x) = {(x, y₀) ∣ x ∈ ℝ} is shown to the right. In this case of a = 0, b ≠ 0 the graph of the constant function f(x) = y = y₀ is a horizontal line. The value $y_0= -\tfrac c b,$ where the line intersects the y-axis, is called Except for y₀ = 0, where the graph coincides with the x-axis, graphs of this kind have no
 

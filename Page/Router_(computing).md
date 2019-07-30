@@ -1,4 +1,4 @@
-Ciscosystemsrouteratcern.jpg ASM/2-32EM router deployed at CERN in 1987]]
+ASM/2-32EM router deployed at CERN in 1987]]
 
 A ROUTER is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.[1]
 
@@ -19,7 +19,7 @@ A router has two types of network element components organized onto separate _pl
 
 Applications
 
-Adsl_connections.jpg showing the telephone socket _(left, white)_ to connect it to the internet using ADSL, and Ethernet jacks _(right, yellow)_ to connect it to home computers and printers.]]
+showing the telephone socket _(left, white)_ to connect it to the internet using ADSL, and Ethernet jacks _(right, yellow)_ to connect it to home computers and printers.]]
 
 A router may have interfaces for different types of physical layer connections, such as copper cables, fiber optic, or wireless transmission. It can also support different network layer transmission standards. Each network interface is used to enable data packets to be forwarded from one transmission system to another. Routers may also be used to connect two or more logical groups of computer devices known as subnets, each with a different network prefix.
 
@@ -29,7 +29,7 @@ All sizes of routers may be found inside enterprises.[5] The most powerful route
 
 Access, core and distribution
 
-OpenWRT_8.09.1_LuCI_screenshot.png. This page configures Dynamic DNS.]] Access routers, including small office/home office (SOHO) models, are located at home and customer sites such as branch offices that do not need hierarchical routing of their own. Typically, they are optimized for low cost. Some SOHO routers are capable of running alternative free Linux-based firmware like Tomato, OpenWrt or DD-WRT.[7]
+. This page configures Dynamic DNS.]] Access routers, including small office/home office (SOHO) models, are located at home and customer sites such as branch offices that do not need hierarchical routing of their own. Typically, they are optimized for low cost. Some SOHO routers are capable of running alternative free Linux-based firmware like Tomato, OpenWrt or DD-WRT.[7]
 
 Distribution routers aggregate traffic from multiple access routers. Distribution routers are often responsible for enforcing quality of service across a wide area network (WAN), so they may have considerable memory installed, multiple WAN interface connections, and substantial onboard data processing routines. They may also provide connectivity to groups of file servers or other external networks.
 
@@ -60,7 +60,7 @@ Routers intended for ISP and major enterprise connectivity usually exchange rout
 
 Historical and technical information
 
-ARPANET_first_router_2.jpg delivered to UCLA August 30, 1969, and went online October 29, 1969]]
+delivered to UCLA August 30, 1969, and went online October 29, 1969]]
 
 The concept of an "Interface computer" was first used by Donald Davies for the NPL network in 1966.[17] The Interface Message Processor (IMP), conceived in 1967 for use in the ARPANET, had fundamentally the same functionality as a router does today. The idea for a router (called "gateways" at the time) initially came about through an international group of computer networking researchers called the International Network Working Group (INWG). Set up in 1972 as an informal group to consider the technical issues involved in connecting different networks, it became a subcommittee of the International Federation for Information Processing later that year.[18] These gateway devices were different from most previous packet switching schemes in two ways. First, they connected dissimilar kinds of networks, such as serial lines and local area networks. Second, they were connectionless devices, which had no role in assuring that traffic was delivered reliably, leaving that entirely to the hosts.
 

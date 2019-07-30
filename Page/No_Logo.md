@@ -1,4 +1,4 @@
-'The_Economist'_cover_(September_8,_2001).png'' (8 September 2001) in reference to _No Logo_.]]
+'' (8 September 2001) in reference to _No Logo_.]]
 
 _NO LOGO: TAKING AIM AT THE BRAND BULLIES_ is a book by the Canadian author Naomi Klein. First published by Knopf Canada and Picador in December 1999,[1][2] shortly after the 1999 WTO Ministerial Conference protests in Seattle had generated media attention around such issues, it became one of the most influential books about the alter-globalization movement and an international bestseller.[3]
 

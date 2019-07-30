@@ -44,7 +44,7 @@ The Church required him to give up his lecturing at the Catholic Institute in or
 
 Teilhard traveled again to China in April 1926. He would remain there for about twenty years, with many voyages throughout the world. He settled until 1932 in Tientsin with Emile Licent, then in Beijing. Teilhard made five geological research expeditions in China between 1926 and 1935. They enabled him to establish a general geological map of China. That same year, Teilhard's superiors in the Jesuit Order forbade him to teach any longer.
 
-In 1926–27, after a missed campaign in Gansu, Teilhard traveled in the Sang-Kan-Ho valley near Kalgan (Zhangjiakou) and made a tour in Eastern Mongolia. He wrote _Le Milieu Divin_ (_The Divine Milieu_). Teilhard prepared the first pages of his main work _Le Phénomène Humain_ (_The Phenomenon of Man_). The Holy See refused the Imprimatur for _Le Milieu Divin_ in 1927. Illustration_of_Peking_Man_(Sinanthropus_Pekinen_Sis)_Wellcome_M0001113.jpg''.]] He joined the ongoing excavations of the Peking Man Site at Zhoukoudian as an advisor in 1926 and continued in the role for the Cenozoic Research Laboratory of the Geological Survey of China following its founding in 1928. Teilhard resided in Manchuria with Emile Licent, staying in Western Shansi (Shanxi) and northern Shensi (Shaanxi) with the Chinese paleontologist C. C. Young and with Davidson Black, Chairman of the Geological Survey of China.
+In 1926–27, after a missed campaign in Gansu, Teilhard traveled in the Sang-Kan-Ho valley near Kalgan (Zhangjiakou) and made a tour in Eastern Mongolia. He wrote _Le Milieu Divin_ (_The Divine Milieu_). Teilhard prepared the first pages of his main work _Le Phénomène Humain_ (_The Phenomenon of Man_). The Holy See refused the Imprimatur for _Le Milieu Divin_ in 1927. ''.]] He joined the ongoing excavations of the Peking Man Site at Zhoukoudian as an advisor in 1926 and continued in the role for the Cenozoic Research Laboratory of the Geological Survey of China following its founding in 1928. Teilhard resided in Manchuria with Emile Licent, staying in Western Shansi (Shanxi) and northern Shensi (Shaanxi) with the Chinese paleontologist C. C. Young and with Davidson Black, Chairman of the Geological Survey of China.
 
 After a tour in Manchuria in the area of Great Khingan with Chinese geologists, Teilhard joined the team of American Expedition Center-Asia in the Gobi Desert, organized in June and July by the American Museum of Natural History with Roy Chapman Andrews. Henri Breuil and Teilhard discovered that the Peking Man, the nearest relative of _Pithecanthropus_ from Java, was a _faber_ (worker of stones and controller of fire). Teilhard wrote _L'Esprit de la Terre_ (_The Spirit of the Earth_).
 
@@ -55,8 +55,6 @@ In 1933, Rome ordered him to give up his post in Paris. Teilhard subsequently un
 During all these years, Teilhard contributed considerably to the constitution of an international network of research in human paleontology related to the whole of eastern and southeastern Asia. He would be particularly associated in this task with two friends, the English/Canadian Davidson Black and the Scot George Brown Barbour. Often he would visit France or the United States, only to leave these countries for further expeditions.
 
 World travels
-
-TeilhardP_1947.jpg
 
 From 1927 to 1928, Teilhard based himself in Paris. He journeyed to Leuven, Belgium, and to Cantal and Ariège, France. Between several articles in reviews, he met new people such as Paul Valéry and Bruno de Solages, who were to help him in issues with the Catholic Church.
 
@@ -80,7 +78,7 @@ The Diocese of Rome on 30 September 1963 required Catholic booksellers in Rome t
 
 Death
 
-CIA_Jesuit_cemetery_02.jpg Teilhard died in New York City, where he was in residence at the Jesuit Church of St. Ignatius Loyola, Park Avenue. On 15 March 1955, at the house of his diplomat cousin Jean de Lagarde, Teilhard told friends he hoped he would die on Easter Sunday.[10] On the evening of Easter Sunday, 10 April 1955, during an animated discussion at the apartment of Rhoda de Terra, his personal assistant since 1949, Teilhard suffered a heart attack and died.[11] He was buried in the cemetery for the New York Province of the Jesuits at the Jesuit novitiate, St. Andrew-on-Hudson, in Hyde Park, New York,[12] With the moving of the novitiate, the property was sold to the Culinary Institute of America in 1970.
+Teilhard died in New York City, where he was in residence at the Jesuit Church of St. Ignatius Loyola, Park Avenue. On 15 March 1955, at the house of his diplomat cousin Jean de Lagarde, Teilhard told friends he hoped he would die on Easter Sunday.[10] On the evening of Easter Sunday, 10 April 1955, during an animated discussion at the apartment of Rhoda de Terra, his personal assistant since 1949, Teilhard suffered a heart attack and died.[11] He was buried in the cemetery for the New York Province of the Jesuits at the Jesuit novitiate, St. Andrew-on-Hudson, in Hyde Park, New York,[12] With the moving of the novitiate, the property was sold to the Culinary Institute of America in 1970.
 
 
 Teachings

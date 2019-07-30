@@ -1,4 +1,4 @@
-Munkar|the small drum of Arabic origin|naqareh}} Zakariya_ibn_Muhammad_Qazwini_-_The_Angels_Munkir_and_Nakir_-_Walters_W65951B_-_Full_Page.jpg
+Munkar|the small drum of Arabic origin|naqareh}}
 
 MUNKAR AND NAKIR () (English translation: "The Denied and The Denier") in Islamic eschatology, are angels who test the faith of the dead in their graves.[1]
 

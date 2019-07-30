@@ -21,7 +21,7 @@ Gall's list of the "brain organs" was specific. An enlarged organ meant that the
 
 History
 
-1895-Dictionary-Phrenolog.png Among the first to identify the brain as the major controlling center for the body were Hippocrates and his followers, inaugurating a major change in thinking from Egyptian, biblical and early Greek views, which based bodily primacy of control on the heart.[21] This belief was supported by the Greek physician Galen, who concluded that mental activity occurred in the brain rather than the heart, contending that the brain, a cold, moist organ formed of sperm, was the seat of the animal soul—one of three "souls" found in the body, each associated with a principal organ.[22]
+Among the first to identify the brain as the major controlling center for the body were Hippocrates and his followers, inaugurating a major change in thinking from Egyptian, biblical and early Greek views, which based bodily primacy of control on the heart.[21] This belief was supported by the Greek physician Galen, who concluded that mental activity occurred in the brain rather than the heart, contending that the brain, a cold, moist organ formed of sperm, was the seat of the animal soul—one of three "souls" found in the body, each associated with a principal organ.[22]
 
 The Swiss pastor Johann Kaspar Lavater (1741–1801) introduced the idea that physiognomy related to the specific character traits of individuals, rather than general types, in his _Physiognomische Fragmente_, published between 1775 and 1778.[23] His work was translated into English and published in 1832 as _The Pocket Lavater, or, The Science of Physiognomy_.[24] He believed that thoughts of the mind and passions of the soul were connected with an individual's external frame.
 
@@ -37,7 +37,7 @@ Johann Spurzheim was Gall's most important collaborator. He worked as Gall's ana
 
 Gall was more concerned with creating a physical science, so it was through Spurzheim that phrenology was first spread throughout Europe and America. Phrenology, while not universally accepted, was hardly a fringe phenomenon of the era. George Combe would become the chief promoter of phrenology throughout the English-speaking world after he viewed a brain dissection by Spurzheim, convincing him of phrenology's merits.
 
-COMBE.jpg]]The popularization of phrenology in the middle and working classes was due in part to the idea that scientific knowledge was important and an indication of sophistication and modernity. Cheap and plentiful pamphlets, as well as the growing popularity of scientific lectures as entertainment, also helped spread phrenology to the masses. Combe created a system of philosophy of the human mind that became popular with the masses because of its simplified principles and wide range of social applications that were in harmony with the liberal Victorian world view. George Combe's book _On the Constitution of Man and its Relationship to External Objects_ sold over 200,000 copies through nine editions. Combe also devoted a large portion of his book to reconciling religion and phrenology, which had long been a sticking point. Another reason for its popularity was that phrenology balanced between free will and determinism. A person's inherent faculties were clear, and no faculty was viewed as evil, though the abuse of a faculty was. Phrenology allowed for self-improvement and upward mobility, while providing fodder for attacks on aristocratic privilege. Phrenology also had wide appeal because of its being a reformist philosophy not a radical one. Phrenology was not limited to the common people, and both Queen Victoria and Prince Albert invited George Combe to read the heads of their children.
+]]The popularization of phrenology in the middle and working classes was due in part to the idea that scientific knowledge was important and an indication of sophistication and modernity. Cheap and plentiful pamphlets, as well as the growing popularity of scientific lectures as entertainment, also helped spread phrenology to the masses. Combe created a system of philosophy of the human mind that became popular with the masses because of its simplified principles and wide range of social applications that were in harmony with the liberal Victorian world view. George Combe's book _On the Constitution of Man and its Relationship to External Objects_ sold over 200,000 copies through nine editions. Combe also devoted a large portion of his book to reconciling religion and phrenology, which had long been a sticking point. Another reason for its popularity was that phrenology balanced between free will and determinism. A person's inherent faculties were clear, and no faculty was viewed as evil, though the abuse of a faculty was. Phrenology allowed for self-improvement and upward mobility, while providing fodder for attacks on aristocratic privilege. Phrenology also had wide appeal because of its being a reformist philosophy not a radical one. Phrenology was not limited to the common people, and both Queen Victoria and Prince Albert invited George Combe to read the heads of their children.
 
 The American brothers Lorenzo Niles Fowler (1811–1896) and Orson Squire Fowler (1809–1887) were leading phrenologists of their time. Orson, together with associates Samuel Robert Wells and Nelson Sizer, ran the phrenological business and publishing house _Fowlers & Wells_ in New York City. Meanwhile, Lorenzo spent much of his life in England where he initiated the famous phrenological publishing house, L.N Fowler & Co., and gained considerable fame with his _phrenology head_ (a china head showing the phrenological faculties), which has become a symbol of the discipline.[26] Orson Fowler was known for his octagonal house.
 
@@ -59,8 +59,6 @@ During the 1930s Belgian colonial authorities in Rwanda used phrenology to expla
 
 
 Application
-
-Phrenology-journal.jpg
 
 Racism
 
@@ -90,8 +88,6 @@ In the Victorian era, phrenology as a psychology was taken seriously and permeat
 
 Reception
 
-(King1893NYC)_pg330_FOWLER_and_WELLS_CO,_AMERICAN_INSTITUTE_OF_PHRENOLOGY,_27_EAST,_21ST_STREET.jpg
-
 Britain
 
 Phrenology was introduced at a time when the old theological and philosophical understanding of the mind was being questioned and no longer seemed adequate in a society that was experiencing rapid social and demographic changes. Phrenology became one of the most popular movements of the Victorian Era. In part phrenology's success was due to George Combe tailoring phrenology for the middle class. Combe's book _On the Constitution of Man and its Relationship to External Objects_ was one of the most popular of the time, selling over two hundred thousand copies in a ten-year period. Phrenology's success was also due in part because it was introduced at a time when scientific lectures were becoming a form of middle-class entertainment, exposing a large demographic of people to phrenological ideas who would not have heard them otherwise. As a result of the changing of the times, along with new avenues for exposure and its multifaceted appeal, phrenology flourished in popular culture although it was discredited as scientific theory by 1840.
@@ -111,7 +107,7 @@ Through the teachings of Gall and Spurzheim, phrenological teachings spread, and
 
 Specific phrenological modules
 
-From Combe: PhrenologyPix.jpg Earthenware_phrenological_bust,_areas_are_marked_off_with_an_Wellcome_L0057601.jpg
+From Combe:
 
 Propensities
 

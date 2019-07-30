@@ -24,7 +24,7 @@ The Latin specific epithet _latifolia_ means "with broad leaves" – as opposed 
 
 Cultivation
 
-Kalmia_latifolia_Clementine_Churchill.jpg]] The plant was originally brought to Europe as an ornamental plant during the 18th century. It is still widely grown for its attractive flowers and year round evergreen leaves. Elliptic, alternate, leathery, glossy evergreen leaves (to 5" long) are dark green above and yellow green beneath and reminiscent to the leaves of rhododendrons. All parts of this plant are toxic if ingested. Numerous cultivars have been selected with varying flower color. Many of the cultivars have originated from the Connecticut Experiment Station in Hamden and from the plant breeding of Dr. Richard Jaynes. Jaynes has numerous named varieties that he has created and is considered the world's authority on _Kalmia latifolia_.[15][16]
+]] The plant was originally brought to Europe as an ornamental plant during the 18th century. It is still widely grown for its attractive flowers and year round evergreen leaves. Elliptic, alternate, leathery, glossy evergreen leaves (to 5" long) are dark green above and yellow green beneath and reminiscent to the leaves of rhododendrons. All parts of this plant are toxic if ingested. Numerous cultivars have been selected with varying flower color. Many of the cultivars have originated from the Connecticut Experiment Station in Hamden and from the plant breeding of Dr. Richard Jaynes. Jaynes has numerous named varieties that he has created and is considered the world's authority on _Kalmia latifolia_.[15][16]
 
 In the UK the following cultivars have gained the Royal Horticultural Society's Award of Garden Merit:
 
@@ -36,7 +36,7 @@ In the UK the following cultivars have gained the Royal Horticultural Society's 
 
 Wood
 
-mountain-laurel-handrail.jpg The wood of the mountain laurel is heavy and strong but brittle, with a close, straight grain.[21] It has never been a viable commercial crop as it does not grow large enough,[22] yet it is suitable for wreaths, furniture, bowls and other household items.[23] It was used in the early 19th century in wooden-works clocks.[24] Root burls were used for pipe bowls in place of imported briar burls unattainable during World War II.[25] It can be used for handrails or guard rails.
+The wood of the mountain laurel is heavy and strong but brittle, with a close, straight grain.[21] It has never been a viable commercial crop as it does not grow large enough,[22] yet it is suitable for wreaths, furniture, bowls and other household items.[23] It was used in the early 19th century in wooden-works clocks.[24] Root burls were used for pipe bowls in place of imported briar burls unattainable during World War II.[25] It can be used for handrails or guard rails.
 
 
 Toxicity

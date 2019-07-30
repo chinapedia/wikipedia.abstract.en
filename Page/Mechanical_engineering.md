@@ -20,7 +20,7 @@ In the United States, the American Society of Mechanical Engineers (ASME) was fo
 
 Education
 
-Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif was operated by hand and could efficiently raise water, as the animated red ball demonstrates.]]
+was operated by hand and could efficiently raise water, as the animated red ball demonstrates.]]
 
 Degrees in mechanical engineering are offered at various universities worldwide. Mechanical engineering programs typically take four to five years of study and result in a Bachelor of Engineering (B.Eng. or B.E.), Bachelor of Science (B.Sc. or B.S.), Bachelor of Science Engineering (B.Sc.Eng.), Bachelor of Technology (B.Tech.), Bachelor of Mechanical Engineering (B.M.E.), or Bachelor of Applied Science (B.A.Sc.) degree, in or with emphasis in mechanical engineering. In Spain, Portugal and most of South America, where neither B.S. nor B.Tech. programs have been adopted, the formal name for the degree is "Mechanical Engineer", and the course work is based on five or six years of training. In Italy the course work is based on five years of education, and training, but in order to qualify as an Engineer one has to pass a state exam at the end of the course. In Greece, the coursework is based on a five-year curriculum and the requirement of a 'Diploma' Thesis, which upon completion a 'Diploma' is awarded rather than a B.Sc.
 
@@ -101,7 +101,7 @@ The field of mechanical engineering can be thought of as a collection of many me
 
 Mechanics
 
-Mohrs_circle.svg, a common tool to study stresses in a mechanical element]]
+, a common tool to study stresses in a mechanical element]]
 
 Mechanics is, in the most general sense, the study of forces and their effect upon matter. Typically, engineering mechanics is used to analyze and predict the acceleration and deformation (both elastic and plastic) of objects under known forces (also called loads) or stresses. Subdisciplines of mechanics include
 
@@ -116,7 +116,7 @@ Mechanical engineers typically use mechanics in the design or analysis phases of
 
 Mechatronics and robotics
 
-FMS1_small.JPG, workbench CNC Mill and CNC Lathe]]
+, workbench CNC Mill and CNC Lathe]]
 
 Mechatronics is a combination of mechanics and electronics. It is an interdisciplinary branch of mechanical engineering, electrical engineering and software engineering that is concerned with integrating electrical and mechanical engineering to create hybrid systems. In this way, machines can be automated through the use of electric motors, servo-mechanisms, and other electrical systems in conjunction with special software. A common example of a mechatronics system is a CD-ROM drive. Mechanical systems open and close the drive, spin the CD and move the laser, while an optical system reads the data on the CD and converts it to bits. Integrated software controls the process and communicates the contents of the CD to the computer.
 
@@ -142,7 +142,7 @@ Thermodynamics principles are used by mechanical engineers in the fields of heat
 
 Design and drafting
 
-Mech_2_3D.png ]]
+]]
 
 Drafting or technical drawing is the means by which mechanical engineers design products and create instructions for manufacturing parts. A technical drawing can be a computer model or hand-drawn schematic showing all the dimensions necessary to manufacture a part, as well as assembly notes, a list of required materials, and other pertinent information.[32] A U.S. mechanical engineer or skilled worker who creates technical drawings may be referred to as a drafter or draftsman. Drafting has historically been a two-dimensional process, but computer-aided design (CAD) programs now allow the designer to create in three dimensions.
 
@@ -152,8 +152,6 @@ Drafting is used in nearly every subdiscipline of mechanical engineering, and by
 
 
 Modern tools
-
-cad_crank.jpg
 
 Many mechanical engineering companies, especially those in industrialized nations, have begun to incorporate computer-aided engineering (CAE) programs into their existing design and analysis processes, including 2D and 3D solid modeling computer-aided design (CAD). This method has many benefits, including easier and more exhaustive visualization of products, the ability to create virtual assemblies of parts, and the ease of use in designing mating interfaces and tolerances.
 
@@ -177,8 +175,6 @@ Friction stir welding (FSW)
 Friction stir welding, a new type of welding, was discovered in 1991 by The Welding Institute (TWI). The innovative steady state (non-fusion) welding technique joins materials previously un-weldable, including several aluminum alloys. It plays an important role in the future construction of airplanes, potentially replacing rivets. Current uses of this technology to date include welding the seams of the aluminum main Space Shuttle external tank, Orion Crew Vehicle test article, Boeing Delta II and Delta IV Expendable Launch Vehicles and the SpaceX Falcon 1 rocket, armor plating for amphibious assault ships, and welding the wings and fuselage panels of the new Eclipse 500 aircraft from Eclipse Aviation among an increasingly growing pool of uses.[33][34][35]
 
 Composites
-
-Kohlenstofffasermatte.jpg
 
 Composites or composite materials are a combination of materials which provide different physical characteristics than either material separately. Composite material research within mechanical engineering typically focuses on designing (and, subsequently, finding applications for) stronger or more rigid materials while attempting to reduce weight, susceptibility to corrosion, and other undesirable factors. Carbon fiber reinforced composites, for instance, have been used in such diverse applications as spacecraft and fishing rods.
 

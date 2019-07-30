@@ -90,7 +90,7 @@ There are several private marinas in Puerto Rico for boats and yachts, the large
 
 Federal restrictions
 
-Map-of-jones-act-carrier-routes-for-puerto-rico.png carrier routes for Puerto Rico.]]
+carrier routes for Puerto Rico.]]
 
 The Merchant Marine Act of 1920 (also known as the Jones Act) prevents foreign-flagged ships from carrying cargo between two American ports (a practice known as cabotage). Because of the Jones Act, foreign ships inbound with goods from Central and South America, Western Europe, and Africa cannot stop in Puerto Rico, offload Puerto Rico-bound goods, load mainland-bound Puerto Rico-manufactured goods, and continue to U.S. ports. Instead, they must proceed directly to U.S. ports, where distributors break bulk and send Puerto Rico-bound manufactured goods to Puerto Rico across the ocean by U.S.-flagged ships.
 
@@ -109,7 +109,7 @@ Current systems
 
 Defunct systems
 
-Train_Station_in_Yauco.jpg]]
+]]
 
 The Puerto Rico train system flourished during the late 19th and early 20th century due to a large sugar cane industry in the island. Most, if not all, of these system were private-owned services. Vieques Island also had the system all around the island connecting the others sugar cane plantations.
 
@@ -122,7 +122,7 @@ However, when Puerto Rico changed its mostly agricultural economy to an industri
 
 Road transportation
 
-Puerto_Rico_Interstates.svg Puerto Rico has an extensive system of roads and highways featuring tolled freeways (_autopistas_). Some are designated as Interstate Highways; although these routes do not connect to the contiguous United States, and are unsigned as such, they still receive funding in a similar fashion to the other Interstates on the U.S. mainland. In total, there are more than 8,950 miles (14,400 km, 1999 est.) of paved road. Some of the major highways are:
+Puerto Rico has an extensive system of roads and highways featuring tolled freeways (_autopistas_). Some are designated as Interstate Highways; although these routes do not connect to the contiguous United States, and are unsigned as such, they still receive funding in a similar fashion to the other Interstates on the U.S. mainland. In total, there are more than 8,950 miles (14,400 km, 1999 est.) of paved road. Some of the major highways are:
 
 -   PR-1 - Original main road between San Juan and Ponce before the completion of PR-52. It is now mostly used by people living nearby and as a scenic route.
 -   PR-2 - Main freeway/highway/urban primary highway between/through Ponce, Mayagüez, Aguadilla, and Arecibo. Original main highway between Arecibo and San Juan before completion of PR-22 (currently undergoing a conversion to a freeway between Ponce and Mayagüez). This is the longest road in Puerto Rico.
@@ -136,7 +136,7 @@ Puerto_Rico_Interstates.svg Puerto Rico has an extensive system of roads and hig
 
 Urban transportation
 
-Tren_Urbano_in_Bayamón_(Puerto_Rico).jpg Transportation in Puerto Rico is heavily dependent on automobile transportation. Nevertheless, the government has increased investment in public transportation in an attempt to decrease vehicle dependency and road congestion. The island's metro area is serviced with three major public transportation systems:
+Transportation in Puerto Rico is heavily dependent on automobile transportation. Nevertheless, the government has increased investment in public transportation in an attempt to decrease vehicle dependency and road congestion. The island's metro area is serviced with three major public transportation systems:
 
 -   The 10.7 mile (17.2 km) metro system called "Tren Urbano" with a total of 16 stations.[8] The project, which began operations in late 2004 cost a total of $2.25 billion and was more than $1 billion over budget and four years late. However, the "subsidized" Tren Urbano has received far less ridership than was originally projected and has failed to make a significant impact on reducing the island's metropolitan area traffic.[9]
 -   A daily ferry service known as the Cataño Ferry, (_La Lancha de Cataño_ in Spanish) which operates a route across San Juan Bay between Old San Juan and the municipality of Cataño.[10]

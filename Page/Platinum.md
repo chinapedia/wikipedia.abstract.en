@@ -19,7 +19,7 @@ Its physical characteristics and chemical stability make it useful for industria
 
 Chemical
 
-Platin_löst_sich_in_heißem_Königswasser.jpg'']]
+'']]
 
 The most common oxidation states of platinum are +2 and +4. The +1 and +3 oxidation states are less common, and are often stabilized by metal bonding in bimetallic (or polymetallic) species. As is expected, tetracoordinate platinum(II) compounds tend to adopt 16-electron square planar geometries. Although elemental platinum is generally unreactive, it dissolves in hot aqua regia to give aqueous chloroplatinic acid (H₂PtCl₆):[14]
 
@@ -35,7 +35,7 @@ Platinum has six naturally occurring isotopes: ¹⁹⁰Pt, ¹⁹²Pt, ¹⁹⁴Pt
 
 Occurrence
 
-Platinum-nugget.jpg mine, Khabarovsk Krai]] Platinum is an extremely rare metal,[18] occurring at a concentration of only 0.005 ppm in Earth's crust.[19][20] It is sometimes mistaken for silver. Platinum is often found chemically uncombined as native platinum and as alloy with the other platinum-group metals and iron mostly. Most often the native platinum is found in secondary deposits in alluvial deposits. The alluvial deposits used by pre-Columbian people in the Chocó Department, Colombia are still a source for platinum-group metals. Another large alluvial deposit is in the Ural Mountains, Russia, and it is still mined.[21]
+mine, Khabarovsk Krai]] Platinum is an extremely rare metal,[18] occurring at a concentration of only 0.005 ppm in Earth's crust.[19][20] It is sometimes mistaken for silver. Platinum is often found chemically uncombined as native platinum and as alloy with the other platinum-group metals and iron mostly. Most often the native platinum is found in secondary deposits in alluvial deposits. The alluvial deposits used by pre-Columbian people in the Chocó Department, Colombia are still a source for platinum-group metals. Another large alluvial deposit is in the Ural Mountains, Russia, and it is still mined.[21]
 
 In nickel and copper deposits, platinum-group metals occur as sulfides (e.g. (Pt,Pd)S), tellurides (e.g. PtBiTe), antimonides (PdSb), and arsenides (e.g. PtAs₂), and as end alloys with nickel or copper. Platinum arsenide, sperrylite (PtAs₂), is a major source of platinum associated with nickel ores in the Sudbury Basin deposit in Ontario, Canada. At Platinum, Alaska, about was mined between 1927 and 1975. The mine ceased operations in 1990.[22] The rare sulfide mineral cooperite, (Pt,Pd,Ni)S, contains platinum along with palladium and nickel. Cooperite occurs in the Merensky Reef within the Bushveld complex, Gauteng, South Africa.[23]
 
@@ -93,7 +93,7 @@ European discovery
 
 The first European reference to platinum appears in 1557 in the writings of the Italian humanist Julius Caesar Scaliger as a description of an unknown noble metal found between Darién and Mexico, "which no fire nor any Spanish artifice has yet been able to liquefy".[53] From their first encounters with platinum, the Spanish generally saw the metal as a kind of impurity in gold, and it was treated as such. It was often simply thrown away, and there was an official decree forbidding the adulteration of gold with platinum impurities.[54]
 
-platinum-symbol_2.svg for platinum was made by joining the symbols of silver (moon) and gold (sun).]] Almirante_Antonio_de_Ulloa.jpg is credited in European history with the discovery of platinum.]]
+for platinum was made by joining the symbols of silver (moon) and gold (sun).]] is credited in European history with the discovery of platinum.]]
 
 In 1735, Antonio de Ulloa and Jorge Juan y Santacilia saw Native Americans mining platinum while the Spaniards were travelling through Colombia and Peru for eight years. Ulloa and Juan found mines with the whitish metal nuggets and took them home to Spain. Antonio de Ulloa returned to Spain and established the first mineralogy lab in Spain and was the first to systematically study platinum, which was in 1748. His historical account of the expedition included a description of platinum as being neither separable nor calcinable. Ulloa also anticipated the discovery of platinum mines. After publishing the report in 1748, Ulloa did not continue to investigate the new metal. In 1758, he was sent to superintend mercury mining operations in Huancavelica.[55]
 
@@ -112,8 +112,6 @@ In 1786, Charles III of Spain provided a library and laboratory to Pierre-Franç
 
 Production
 
-Platinum_Mining.jpg Platinum_world_production.svg
-
 Platinum, along with the rest of the platinum-group metals, is obtained commercially as a by-product from nickel and copper mining and processing. During electrorefining of copper, noble metals such as silver, gold and the platinum-group metals as well as selenium and tellurium settle to the bottom of the cell as "anode mud", which forms the starting point for the extraction of the platinum-group metals.[63]
 
 If pure platinum is found in placer deposits or other ores, it is isolated from them by various methods of subtracting impurities. Because platinum is significantly denser than many of its impurities, the lighter impurities can be removed by simply floating them away in a liquid. Platinum is paramagnetic, whereas nickel and iron are both ferromagnetic. These two impurities are thus removed by running an electromagnet over the mixture. Because platinum has a higher melting point than most other substances, many impurities can be burned or melted away without melting the platinum. Finally, platinum is resistant to hydrochloric and sulfuric acids, whereas other substances are readily attacked by them. Metal impurities can be removed by stirring the mixture in either of the two acids and recovering the remaining platinum.[64]
@@ -123,7 +121,7 @@ One suitable method for purification for the raw platinum, which contains platin
 
 Applications
 
-Aufgeschnittener_Metall_Katalysator_für_ein_Auto.jpg]]
+]]
 
 Of the 218 tonnes of platinum sold in 2014, 98 tonnes were used for vehicle emissions control devices (45%), 74.7 tonnes for jewelry (34%), 20.0 tonnes for chemical production and petroleum refining (9.2%), and 5.85 tonnes for electrical applications such as hard disk drives (2.7%). The remaining 28.9 tonnes went to various other minor applications, such as medicine and biomedicine, glassmaking equipment, investment, electrodes, anticancer drugs, oxygen sensors, spark plugs and turbine engines.[68]
 
@@ -133,7 +131,7 @@ The most common use of platinum is as a catalyst in chemical reactions, often as
 
 Standard
 
-Platinum-Iridium_meter_bar.jpg From 1889 to 1960, the meter was defined as the length of a platinum-iridium (90:10) alloy bar, known as the International Prototype Meter bar. The previous bar was made of platinum in 1799. Until May 2019, the kilogram was defined by the International Prototype Kilogram; a cylinder of the same platinum-iridium alloy made in 1879.[73]
+From 1889 to 1960, the meter was defined as the length of a platinum-iridium (90:10) alloy bar, known as the International Prototype Meter bar. The previous bar was made of platinum in 1799. Until May 2019, the kilogram was defined by the International Prototype Kilogram; a cylinder of the same platinum-iridium alloy made in 1879.[73]
 
 The standard hydrogen electrode also uses a platinized platinum electrode due to its corrosion resistance, and other attributes.[74]
 
@@ -154,8 +152,6 @@ Other uses
 In the laboratory, platinum wire is used for electrodes; platinum pans and supports are used in thermogravimetric analysis because of the stringent requirements of chemical inertness upon heating to high temperatures (~1000 °C). Platinum is used as an alloying agent for various metal products, including fine wires, noncorrosive laboratory containers, medical instruments, dental prostheses, electrical contacts, and thermocouples. Platinum-cobalt, an alloy of roughly three parts platinum and one part cobalt, is used to make relatively strong permanent magnets.[83] Platinum-based anodes are used in ships, pipelines, and steel piers.[84]
 
 Symbol of prestige in marketing
-
-Platinum_nuggets.jpg
 
 Platinum's rarity as a metal has caused advertisers to associate it with exclusivity and wealth. "Platinum" debit and credit cards have greater privileges than "gold" cards.[85] "Platinum awards" are the second highest possible, ranking above "gold", "silver" and "bronze", but below diamond. For example, in the United States, a musical album that has sold more than 1 million copies will be credited as "platinum", whereas an album that has sold more than 10 million copies will be certified as "diamond".[86] Some products, such as blenders and vehicles, with a silvery-white color are identified as "platinum". Platinum is considered a precious metal, although its use is not as common as the use of gold or silver. The frame of the Crown of Queen Elizabeth The Queen Mother, manufactured for her coronation as Consort of King George VI, is made of platinum. It was the first British crown to be made of this particular metal.[87]
 

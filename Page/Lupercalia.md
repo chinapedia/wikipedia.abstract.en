@@ -26,7 +26,7 @@ The sacrificial feast followed, after which the Luperci cut thongs (known as __)
 
   ...many of the noble youths and of the magistrates run up and down through the city naked, for sport and laughter striking those they meet with shaggy thongs. And many women of rank also purposely get in their way, and like children at school present their hands to be struck, believing that the pregnant will thus be helped in delivery, and the barren to pregnancy.[15]
 
-The _Luperci_ completed their circuit of the Palatine, then returned to the _Lupercal_ cave. Circle_of_Adam_Elsheimer_The_Lupercalian_Festival_in_Rome.jpg, showing the Luperci dressed as dogs and goats, with Cupid and personifications of fertility]]
+The _Luperci_ completed their circuit of the Palatine, then returned to the _Lupercal_ cave. , showing the Luperci dressed as dogs and goats, with Cupid and personifications of fertility]]
 
 
 History
@@ -42,7 +42,7 @@ There is no contemporary evidence to support the popular notions that Gelasius a
 
 Legacy
 
-CaesarRefusesTheDiademRidpathdrawing.jpg Horace's Ode III, 18 alludes to the Lupercalia. The festival or its associated rituals gave its name to the Roman month of February (__) and thence to the modern month. The Roman god Februus personified both the month and purification, but seems to postdate both.
+Horace's Ode III, 18 alludes to the Lupercalia. The festival or its associated rituals gave its name to the Roman month of February (__) and thence to the modern month. The Roman god Februus personified both the month and purification, but seems to postdate both.
 
 William Shakespeare's play _Julius Caesar_ begins during the Lupercalia. Mark Antony is instructed by Caesar to strike his wife Calpurnia, in the hope that she will be able to conceive.
 

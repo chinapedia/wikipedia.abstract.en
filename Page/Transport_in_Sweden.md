@@ -39,8 +39,6 @@ Railway links with adjacent countries
 
 Road traffic
 
-Slussen_1963_2007.jpg
-
 Sweden has right-hand traffic today like all its neighbours.
 
 Sweden had left-hand traffic (_Vänstertrafik_ in Swedish) from approximately 1736 and continued to do so until 1967. Despite this virtually all cars in Sweden were actually left-hand drive and the neighbouring Nordic countries already drove on the right, leading to mistakes by visitors. The Swedish voters rejected a change to driving on the right in a referendum held in 1955.

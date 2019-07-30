@@ -1,4 +1,4 @@
-E_coli_at_10000x,_original.jpg of _Escherichia coli_ bacteria magnified 10,000 times]]
+of _Escherichia coli_ bacteria magnified 10,000 times]]
 
 A MICROORGANISM, or MICROBE, is a microscopic organism, which may exist in its single-celled form or in a colony of cells.
 
@@ -13,11 +13,11 @@ Microbes are important in human culture and health in many ways, serving to ferm
 
 History and discovery
 
-Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg was the first to study microorganisms, using simple microscopes of his own design.]] Spallanzani.jpg showed that boiling a broth stopped it from decaying.]]
+was the first to study microorganisms, using simple microscopes of his own design.]] showed that boiling a broth stopped it from decaying.]]
 
 Ancient precursors
 
-Mahaveer_swami.jpg postulated the existence of microscopic creatures in the 6th century BC.]] The possible existence of microorganisms was discussed for many centuries before their discovery in the 17th century. By the fifth century BC, the Jains of present-day India postulated the existence of tiny organisms called nigodas.[3] These nigodas are said to be born in clusters; they live everywhere, including the bodies of plants, animals, and people; and their life lasts only for fraction of a second.[4] According to the Jain leader Mahavira, the humans destroy these nigodas on a massive scale, when they eat, breathe, sit and move.[5] Many modern Jains assert that Mahavira's teachings presage the existence of microorganisms as discovered by modern science.[6]
+postulated the existence of microscopic creatures in the 6th century BC.]] The possible existence of microorganisms was discussed for many centuries before their discovery in the 17th century. By the fifth century BC, the Jains of present-day India postulated the existence of tiny organisms called nigodas.[3] These nigodas are said to be born in clusters; they live everywhere, including the bodies of plants, animals, and people; and their life lasts only for fraction of a second.[4] According to the Jain leader Mahavira, the humans destroy these nigodas on a massive scale, when they eat, breathe, sit and move.[5] Many modern Jains assert that Mahavira's teachings presage the existence of microorganisms as discovered by modern science.[6]
 
 The earliest known idea to indicate the possibility of diseases spreading by yet unseen organisms was that of the Roman scholar Marcus Terentius Varro in a 1st-century BC book titled _On Agriculture_ in which he called the unseen creatures animalcules, and warns against locating a homestead near a swamp:[7]
 
@@ -33,11 +33,11 @@ Antonie Van Leeuwenhoek is considered to be the father of microbiology. He was t
 
 19th century
 
-Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg showed that Spallanzani's findings held even if air could enter through a filter that kept particles out.]]
+showed that Spallanzani's findings held even if air could enter through a filter that kept particles out.]]
 
 Louis Pasteur (1822–1895) exposed boiled broths to the air, in vessels that contained a filter to prevent particles from passing through to the growth medium, and also in vessels without a filter, but with air allowed in via a curved tube so dust particles would settle and not come in contact with the broth. By boiling the broth beforehand, Pasteur ensured that no microorganisms survived within the broths at the beginning of his experiment. Nothing grew in the broths in the course of Pasteur's experiment. This meant that the living organisms that grew in such broths came from outside, as spores on dust, rather than spontaneously generated within the broth. Thus, Pasteur refuted the theory of spontaneous generation and supported the germ theory of disease.[16]
 
-Robert_Koch.jpg showed that microorganisms caused disease.]]
+showed that microorganisms caused disease.]]
 
 In 1876, Robert Koch (1843–1910) established that microorganisms can cause disease. He found that the blood of cattle which were infected with anthrax always had large numbers of _Bacillus anthracis_. Koch found that he could transmit anthrax from one animal to another by taking a small sample of blood from the infected animal and injecting it into a healthy one, and this caused the healthy animal to become sick. He also found that he could grow the bacteria in a nutrient broth, then inject it into a healthy animal, and cause illness. Based on these experiments, he devised criteria for establishing a causal link between a microorganism and a disease and these are now known as Koch's postulates.[17] Although these postulates cannot be applied in all cases, they do retain historical importance to the development of scientific thought and are still being used today.[18]
 
@@ -70,7 +70,7 @@ The biodiversity of the prokaryotes is unknown, but may be very large. A May 201
 
 Bacteria
 
-Staphylococcus_aureus_01.jpg'' bacteria magnified about 10,000x]] Bacteria like archaea are prokaryotic – unicellular, and having no cell nucleus or other membrane-bound organelle. Bacteria are microscopic, with a few extremely rare exceptions, such as _Thiomargarita namibiensis_.[51] Bacteria function and reproduce as individual cells, but they can often aggregate in multicellular colonies.[52] Some species such as myxobacteria can aggregate into complex swarming structures, operating as multicellular groups as part of their life cycle,[53] or form clusters in bacterial colonies such as _E.coli_.
+'' bacteria magnified about 10,000x]] Bacteria like archaea are prokaryotic – unicellular, and having no cell nucleus or other membrane-bound organelle. Bacteria are microscopic, with a few extremely rare exceptions, such as _Thiomargarita namibiensis_.[51] Bacteria function and reproduce as individual cells, but they can often aggregate in multicellular colonies.[52] Some species such as myxobacteria can aggregate into complex swarming structures, operating as multicellular groups as part of their life cycle,[53] or form clusters in bacterial colonies such as _E.coli_.
 
 Their genome is usually a circular bacterial chromosome – a single loop of DNA, although they can also harbor small pieces of DNA called plasmids. These plasmids can be transferred between cells through bacterial conjugation. Bacteria have an enclosing cell wall, which provides strength and rigidity to their cells. They reproduce by binary fission or sometimes by budding, but do not undergo meiotic sexual reproduction. However, many bacterial species can transfer DNA between individual cells by a horizontal gene transfer process referred to as natural transformation.[54] Some species form extraordinarily resilient spores, but for bacteria this is a mechanism for survival, not reproduction. Under optimal conditions bacteria can grow extremely rapidly and their numbers can double as quickly as every 20 minutes.[55]
 
@@ -84,7 +84,7 @@ Unicellular eukaryotes usually reproduce asexually by mitosis under favorable co
 
 Protists
 
-Euglena_mutabilis_-_400x_-_1_(10388739803)_(cropped).jpg'', a photosynthetic flagellate]]
+'', a photosynthetic flagellate]]
 
 Of eukaryotic groups, the protists are most commonly unicellular and microscopic. This is a highly diverse group of organisms that are not easy to classify.[61][62] Several algae species are multicellular protists, and slime molds have unique life cycles that involve switching between unicellular, colonial, and multicellular forms.[63] The number of species of protists is unknown since only a small proportion has been identified. Protist diversity is high in oceans, deep sea-vents, river sediment and an acidic river, suggesting that many eukaryotic microbial communities may yet be discovered.[64][65]
 
@@ -117,7 +117,7 @@ The roots of plants create a narrow region known as the rhizosphere that support
 
 Symbiosis
 
-Hyella_caespitosa.jpg _Hyella caespitosa_ (round shapes) with fungal hyphae (translucent threads) in the lichen _Pyrenocollema halodytes_]] A lichen is a symbiosis of a macroscopic fungus with photosynthetic microbial algae or cyanobacteria.[86][87]
+_Hyella caespitosa_ (round shapes) with fungal hyphae (translucent threads) in the lichen _Pyrenocollema halodytes_]] A lichen is a symbiosis of a macroscopic fungus with photosynthetic microbial algae or cyanobacteria.[86][87]
 
 
 Applications
@@ -130,7 +130,7 @@ Microorganisms are used in a fermentation process to make yoghurt, cheese, curd,
 
 Water treatment
 
-WWTP_Antwerpen-Zuid.jpg rely largely on microorganisms to oxidise organic matter.]]
+rely largely on microorganisms to oxidise organic matter.]]
 
 These depend for their ability to clean up water contaminated with organic material on microorganisms that can respire dissolved substances. Respiration may be aerobic, with a well-oxygenated filter bed such as a slow sand filter.[91] Anaerobic digestion by methanogens generate useful methane gas as a by-product._[92]_
 
@@ -146,7 +146,7 @@ Microorganisms are used to prepare bioactive molecules such as Streptokinase fro
 
 Science
 
-Biofermentor.jpeg vessel]]
+vessel]]
 
 Microorganisms are essential tools in biotechnology, biochemistry, genetics, and molecular biology. The yeasts _Saccharomyces cerevisiae_ and _Schizosaccharomyces pombe_ are important model organisms in science, since they are simple eukaryotes that can be grown rapidly in large numbers and are easily manipulated.[102] They are particularly valuable in genetics, genomics and proteomics.[103][104] Microorganisms can be harnessed for uses such as creating steroids and treating skin diseases. Scientists are also considering using microorganisms for living fuel cells,[105] and as a solution for pollution.[106]
 
@@ -169,7 +169,7 @@ Microorganisms can form an endosymbiotic relationship with other, larger organis
 
 Disease
 
-Plasmodium.jpg parasite _Plasmodium falciparum_ (spiky blue shapes), a causative agent of malaria, in human blood]]
+parasite _Plasmodium falciparum_ (spiky blue shapes), a causative agent of malaria, in human blood]]
 
 Microorganisms are the causative agents (pathogens) in many infectious diseases. The organisms involved include pathogenic bacteria, causing diseases such as plague, tuberculosis and anthrax; protozoan parasites, causing diseases such as malaria, sleeping sickness, dysentery and toxoplasmosis; and also fungi causing diseases such as ringworm, candidiasis or histoplasmosis. However, other diseases such as influenza, yellow fever or AIDS are caused by pathogenic viruses, which are not usually classified as living organisms and are not, therefore, microorganisms by the strict definition. No clear examples of archaean pathogens are known,[113] although a relationship has been proposed between the presence of some archaean methanogens and human periodontal disease.[114]
 

@@ -60,8 +60,6 @@ Towns served by rail
 
 Rapid transit and tram systems
 
-Станция_Алмалы.jpg
-
 Almaty
 
 There is a small metro system in Almaty. Second and third metro lines are planned in the future. The second line would intersect with the first line at Alatau and Zhibek Zholy stations.[12]
@@ -93,7 +91,7 @@ There are two tram lines in this city.[21]
 
 Highways
 
-alfarabi3.jpg Kazakhstan has a road network stretching over , most of which is in need of modernization and repair. It is, however, notable for containing the easterly terminus of European route E40, which contains the most easterly section of the Euro Route network.
+Kazakhstan has a road network stretching over , most of which is in need of modernization and repair. It is, however, notable for containing the easterly terminus of European route E40, which contains the most easterly section of the Euro Route network.
 
 -   _Total:_ (2002)[22]
 -   _Paved:_  (2002)
@@ -196,7 +194,7 @@ Total: 3 (2012)[36]
 
 Airlines
 
-P4-PAS.JPG aircraft at Aktau Airport.]] European Commission blacklisted all Kazakh carriers in 2009, with a sole exception of Air Astana. Since then, Kazakhstan was consistently taking measures to modernize and revamp its air safety oversight. Thus, in 2016 the European air safety authorities removed all Kazakh airlines from blacklist and there was “sufficient evidence of compliance” with international standards by Kazakh airlines and the Civil Aviation Committee.[37]
+aircraft at Aktau Airport.]] European Commission blacklisted all Kazakh carriers in 2009, with a sole exception of Air Astana. Since then, Kazakhstan was consistently taking measures to modernize and revamp its air safety oversight. Thus, in 2016 the European air safety authorities removed all Kazakh airlines from blacklist and there was “sufficient evidence of compliance” with international standards by Kazakh airlines and the Civil Aviation Committee.[37]
 
 AIR ASTANA - most popular Kazakhstani Air operator Air Astana (Эйр Астана) is the principal airline and the flag carrier of the Republic of Kazakhstan, based in Almaty, Kazakhstan.[38] It operates scheduled domestic and international services on 56 routes from its main hub, Almaty International Airport, and from its 2 secondary hubs, Astana International Airport and Atyrau Airport. It is a joint venture between Kazakhstan's sovereign wealth fund Samruk-Kazyna (51%), and BAE Systems PLC (49%). It was incorporated in October 2001, and started commercial flights on 15 May 2002. At the 2012 World Airline Awards held at Farnborough Airshow in the UK, Air Astana was named the _Best Airline in Central Asia & India_.[39]
 

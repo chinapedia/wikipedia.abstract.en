@@ -1,4 +1,4 @@
-Dominoeffect.png.[1][2]]]
+.[1][2]]]
 
 MATHEMATICAL INDUCTION is a mathematical proof technique. It is essentially used to prove that a property _P_(_n_) holds for every natural number _n_, i.e. for _n_ = 0, 1, 2, 3, and so on. Metaphors can be informally used to understand the concept of mathematical induction, such as the metaphor of falling dominoes or climbing a ladder:
 

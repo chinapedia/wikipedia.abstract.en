@@ -5,13 +5,13 @@ Although Okinawa Prefecture comprises just 0.6 percent of Japan's total land mas
 
 History
 
-East_China_Sea_Map.jpg The oldest evidence of human existence on the Ryukyu islands is from the Stone Age and was discovered in Naha[5] and Yaeyama.[6] Some human bone fragments from the Paleolithic era were unearthed from a site in Naha, but the artifact was lost in transportation before it was examined to be Paleolithic or not.[7] Japanese Jōmon influences are dominant on the Okinawa Islands, although clay vessels on the Sakishima Islands have a commonality with those in Taiwan.
+The oldest evidence of human existence on the Ryukyu islands is from the Stone Age and was discovered in Naha[5] and Yaeyama.[6] Some human bone fragments from the Paleolithic era were unearthed from a site in Naha, but the artifact was lost in transportation before it was examined to be Paleolithic or not.[7] Japanese Jōmon influences are dominant on the Okinawa Islands, although clay vessels on the Sakishima Islands have a commonality with those in Taiwan.
 
 The first mention of the word _Ryukyu_ was written in the _Book of Sui_. _Okinawa_ was the Japanese word identifying the islands, first seen in the biography of Jianzhen, written in 779. Agricultural societies begun in the 8th century slowly developed until the 12th century.[8][9] Since the islands are located at the eastern perimeter of the East China Sea relatively close to Japan, China and South-East Asia, the Ryukyu Kingdom became a prosperous trading nation. Also during this period, many Gusukus, similar to castles, were constructed. The Ryukyu Kingdom entered into the Imperial Chinese tributary system under the Ming dynasty beginning in the 15th century, which established economic relations between the two nations.
 
 In 1609, the Shimazu clan, which controlled the region that is now Kagoshima Prefecture, invaded the Ryukyu Kingdom. The Ryukyu Kingdom was obliged to agree to form a suzerain-vassal relationship with the Satsuma and the Tokugawa shogunate, while maintaining its previous role within the Chinese tributary system; Ryukyuan sovereignty was maintained since complete annexation would have created a conflict with China. The Satsuma clan earned considerable profits from trade with China during a period in which foreign trade was heavily restricted by the shogunate.
 
-Ryukyuan_mission_in_Edo.jpg in Edo.]]
+in Edo.]]
 
 Although Satsuma maintained strong influence over the islands, the Ryukyu Kingdom maintained a considerable degree of domestic political freedom for over two hundred years. Four years after the 1868 Meiji Restoration, the Japanese government, through military incursions, officially annexed the kingdom and renamed it Ryukyu han. At the time, the Qing Empire asserted a nominal suzerainty over the islands of the Ryukyu Kingdom, since the Ryūkyū Kingdom was also a member state of the Chinese tributary system. Ryukyu han became Okinawa Prefecture of Japan in 1879, even though all other hans had become prefectures of Japan in 1872. In 1912, Okinawans first obtained the right to vote for representatives to the which had been established in 1890.[10]
 
@@ -48,8 +48,6 @@ The 1995 rape of a 12-year-old girl by U.S. servicemen triggered large protests 
 Documents declassified in 1997 proved that both tactical and strategic weapons have been maintained in Okinawa.[31][32] In 1999 and 2002, the _Japan Times_ and the _Okinawa Times_ reported speculation that not all weapons were removed from Okinawa.[33][34] On October 25, 2005, after a decade of negotiations, the governments of the US and Japan officially agreed to move Marine Corps Air Station Futenma from its location in the densely populated city of Ginowan to the more northerly and remote Camp Schwab in Nago by building a heliport with a shorter runway, partly on Camp Schwab land and partly running into the sea.[35] The move is partly an attempt to relieve tensions between the people of Okinawa and the Marine Corps.
 
 Okinawa prefecture constitutes 0.6 percent of Japan's land surface,[36] yet , 75 percent of all USFJ bases were located on Okinawa, and U.S. military bases occupied 18 percent of the main island.[37]
-
-US_military_bases_in_Okinawa.svg
 
 2007–present
 
@@ -92,8 +90,6 @@ Geography
 
 Major islands
 
-Map-okinawa-pref.png
-
 The islands comprising the prefecture are the southern two thirds of the archipelago of the . Okinawa's inhabited islands are typically divided into three geographical archipelagos. From northeast to southwest:
 
 -   -   Ie-jima
@@ -113,8 +109,6 @@ The islands comprising the prefecture are the southern two thirds of the archipe
     -   Okidaitōjima
 
 Cities
-
-Map_of_Okinawa_Prefecture_Ja.svg Asahi-machi_Naha_Okinawa01s3s4410.jpg Ishigaki_center_city.jpg
 
 Eleven cities are located within the Okinawa Prefecture. Okinawan names are in parentheses:
 
@@ -184,7 +178,7 @@ Flora
 
 Okinawa is a major producer of sugar cane, pineapple, papaya, and other tropical fruit, and the Southeast Botanical Gardens represent tropical plant species.
 
-GusukuArch.jpg Naha_Shuri_Castle50s3s4500.jpg, Naha]]
+, Naha]]
 
 Geology
 
@@ -201,52 +195,52 @@ Okinawa prefecture age pyramid as of October 1, 2003[74]
 (per thousands of people)
 
   Age     People
-  ------- -----------------------------------------------
-  0–4     g50.pngg30.pngg05.pngg03.pngg01.png 84
-  5–9     g50.pngg30.pngg10.png 85
-  10–14   g50.pngg30.pngg10.pngg01.pngg01.png 87
-  15–19   g50.pngg30.pngg10.pngg05.pngg03.pngg01.png 94
-  20–24   g50.pngg30.pngg10.pngg05.pngg01.png 91
-  25–29   g100.pngg01.pngg01.png 97
-  30–34   g100.pngg03.pngg01.png 99
-  35–39   g50.pngg30.pngg10.pngg01.pngg01.png 87
-  40–44   g50.pngg30.pngg10.pngg05.pngg01.png 91
-  45–49   g100.pngg01.png 96
-  50–54   g100.pngg05.pngg01.png 100
-  55–59   g50.pngg10.pngg05.pngg01.pngg01.png 64
-  60–64   g50.pngg10.pngg05.pngg03.png 65
-  65–69   g50.pngg10.pngg05.pngg03.pngg01.png 66
-  70–74   g50.pngg05.pngg01.png 53
-  75–79   g30.pngg05.pngg03.pngg01.png 37
-  80 +    g50.pngg05.pngg03.png 55
+  ------- --------
+  0–4     84
+  5–9     85
+  10–14   87
+  15–19   94
+  20–24   91
+  25–29   97
+  30–34   99
+  35–39   87
+  40–44   91
+  45–49   96
+  50–54   100
+  55–59   64
+  60–64   65
+  65–69   66
+  70–74   53
+  75–79   37
+  80 +    55
 
 Okinawa Prefecture age pyramid, divided by sex, as of October 1, 2003
 (per thousands of people)
 
-                                     Males   Age   Females
-  ---------------------------------------- ------- ----------------------------------------
-                  43 g30.pngg10.pngg05.png   0–4   r30.pngr10.pngr03.png 41
-           44 g30.pngg10.pngg05.pngg01.png   5–9   r30.pngr10.pngr03.png 41
-    45 g30.pngg10.pngg05.pngg01.pngg01.png  10–14  r30.pngr10.pngr03.pngr01.png 42
-                                48 g50.png  15–19  r30.pngr10.pngr05.pngr03.png 46
-           46 g30.pngg10.pngg05.pngg03.png  20–24  r30.pngr10.pngr05.pngr01.pngr01.png 45
-                         49 g50.pngg01.png  25–29  r50.png 48
-                         49 g50.pngg01.png  30–34  r50.pngr03.png 50
-                  43 g30.pngg10.pngg05.png  35–39  r30.pngr10.pngr05.pngr01.png 44
-           46 g30.pngg10.pngg05.pngg03.png  40–44  r30.pngr10.pngr05.pngr01.pngr01.png 45
-                         49 g50.pngg01.png  45–49  r30.pngr10.pngr05.pngr03.pngr01.png 47
-                         52 g50.pngg05.png  50–54  r50.png 48
-                         32 g30.pngg03.png  55–59  r30.pngr03.png 32
-                         32 g30.pngg03.png  60–64  r30.pngr03.pngr01.png 33
-                         32 g30.pngg03.png  65–69  r30.pngr05.pngr01.png 34
-                  24 g10.pngg10.pngg05.png  70–74  r30.png 29
-                  14 g10.pngg03.pngg01.png  75–79  r10.pngr10.pngr03.pngr01.png 23
-                  17 g10.pngg05.pngg03.png  80 +   r30.pngr10.png 38
+    Males   Age   Females
+  ------- ------- ---------
+       43   0–4   41
+       44   5–9   41
+       45  10–14  42
+       48  15–19  46
+       46  20–24  45
+       49  25–29  48
+       49  30–34  50
+       43  35–39  44
+       46  40–44  45
+       49  45–49  47
+       52  50–54  48
+       32  55–59  32
+       32  60–64  33
+       32  65–69  34
+       24  70–74  29
+       14  75–79  23
+       17  80 +   38
 
 
 Language and culture
 
-Tomori_stonelion1.jpg]] OkinawaPottery.jpg pots]]
+]] pots]]
 
 Having been a separate nation until 1879, Okinawan language and culture differ in many ways from those of mainland Japan.
 
@@ -279,8 +273,6 @@ Karate
 Karate originated in Okinawa. Over time, it developed into several styles and sub-styles. On Okinawa, the three main styles are considered to be Shōrin-ryū, Gōjū-ryū and Uechi-ryū. Internationally, the various styles and sub-styles include Matsubayashi-ryū, Wadō-ryū, Isshin-ryū, Shōrinkan, Shotokan, Shitō-ryū, Shōrinjiryū Kenkōkan, Shorinjiryu Koshinkai, and Shōrinji-ryū.
 
 Architecture
-
-NakamuraHouse2.jpg
 
 Despite widespread destruction during World War II, there are many remains of a unique type of castle or fortress known as _gusuku_; the most significant are now inscribed on the UNESCO World Heritage List (Gusuku Sites and Related Properties of the Kingdom of Ryukyu).[83] In addition, twenty-three Ryukyuan architectural complexes and forty historic sites have been designated for protection by the national government.[84]
 

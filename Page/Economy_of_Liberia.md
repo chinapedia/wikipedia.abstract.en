@@ -24,7 +24,7 @@ Liberia's external debt was estimated in 2006 at approximately $4.5 billion, 800
 
 Economic sectors
 
-Young_boy_grinding_sugar_cane_in_Liberia.jpg Liberia's business sector is largely controlled by foreigners mainly of Lebanese and Indian descent. There also are limited numbers of Chinese engaged in agriculture. The largest timber concession, Oriental Timber Corporation (OTC), is Indonesian owned. There also are significant numbers of West Africais engaged in cross-border trade. Legal monopolies are possible; for example, Cemenco holds a monopoly on cement production.
+Liberia's business sector is largely controlled by foreigners mainly of Lebanese and Indian descent. There also are limited numbers of Chinese engaged in agriculture. The largest timber concession, Oriental Timber Corporation (OTC), is Indonesian owned. There also are significant numbers of West Africais engaged in cross-border trade. Legal monopolies are possible; for example, Cemenco holds a monopoly on cement production.
 
 Unlike almost all other countries in the world, Liberia has not adopted the metric system as its primary system of measurement.
 
@@ -61,7 +61,7 @@ Formal electricity services are solely provided by the state-owned Liberia Elect
 
 International economic networks
 
-Liberia_Export_Treemap.jpg - there are 3,500 vessels registered under Liberia's flag accounting for 11% of ships worldwide.[22][23]]]
+- there are 3,500 vessels registered under Liberia's flag accounting for 11% of ships worldwide.[22][23]]]
 
 Liberia is a member of the Economic Community of West African States (ECOWAS). With Guinea and Sierra Leone, it formed the Mano River Union (MRU) for development and the promotion of regional economic integration. The MRU became all but defunct because of the Liberian civil war which spilled over into neighboring Sierra Leone and Guinea.
 

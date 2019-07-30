@@ -1,5 +1,3 @@
-Riemann-Zeta-Detail.png
-
 The RIEMANN ZETA FUNCTION or EULER–RIEMANN ZETA FUNCTION, , is a function of a complex variable _s_ that analytically continues the sum of the Dirichlet series
 
 $$\zeta(s) =\sum_{n=1}^\infty\frac{1}{n^s}$$
@@ -165,7 +163,7 @@ As a result, if σ > 1 then
 
     _ξ_(_s_) = _ξ_(1 − _s_).​
 
-    (Riemann's original . Zeta_polar.svg RiemannCriticalLine.svg The functional equation shows that the Riemann zeta function has zeros at . These are called the TRIVIAL ZEROS. They are trivial in the sense that their existence is relatively easy to prove, for example, from being 0 in the functional equation. The non-trivial zeros have captured far more attention because their distribution not only is far less understood but, more importantly, their study yields impressive results concerning prime numbers and related objects in number theory. It is known that any non-trivial zero lies in the open strip , which is called the CRITICAL STRIP. The Riemann hypothesis, considered one of the greatest unsolved problems in mathematics, asserts that any non-trivial zero has }}. In the theory of the Riemann zeta function, the set }}} is called the CRITICAL LINE. For the Riemann zeta function on the critical line, see [[Z_function| line.[10] A better result[11] that follows from an effective form of Vinogradov's mean-value theorem is that whenever and
+    (Riemann's original . The functional equation shows that the Riemann zeta function has zeros at . These are called the TRIVIAL ZEROS. They are trivial in the sense that their existence is relatively easy to prove, for example, from being 0 in the functional equation. The non-trivial zeros have captured far more attention because their distribution not only is far less understood but, more importantly, their study yields impressive results concerning prime numbers and related objects in number theory. It is known that any non-trivial zero lies in the open strip , which is called the CRITICAL STRIP. The Riemann hypothesis, considered one of the greatest unsolved problems in mathematics, asserts that any non-trivial zero has }}. In the theory of the Riemann zeta function, the set }}} is called the CRITICAL LINE. For the Riemann zeta function on the critical line, see [[Z_function| line.[10] A better result[11] that follows from an effective form of Vinogradov's mean-value theorem is that whenever and
 
 $$\sigma\ge 1-\frac{1}{57.54(\log{|t|})^\frac23(\log{\log{|t|}})^\frac13}.$$
 

@@ -1,17 +1,15 @@
-+-------------------+-----------------------+-----------------------+
-| {3,3,3}           | {3,3,4}               | {4,3,3}               |
-+===================+=======================+=======================+
-| 4-simplex_t0.svg  | 4-cube_t3.svg         | 4-cube_t0.svg         |
-| 5-cell            | 16-cell               | 8-cell                |
-| Pentatope         | Orthoplex             | Tesseract             |
-| 4-simplex         | 4-orthoplex           | 4-cube                |
-+-------------------+-----------------------+-----------------------+
-| {3,4,3}           | {5,3,3}               | {3,3,5}               |
-+-------------------+-----------------------+-----------------------+
-| 24-cell_t0_F4.svg | 120-cell_graph_H4.svg | 600-cell_graph_H4.svg |
-| Octaplex          | Dodecaplex            | Tetraplex             |
-| 24-cell           | 120-cell              | 600-cell              |
-+-------------------+-----------------------+-----------------------+
++-----------+-------------+-----------+
+| {3,3,3}   | {3,3,4}     | {4,3,3}   |
++===========+=============+===========+
+| 5-cell    | 16-cell     | 8-cell    |
+| Pentatope | Orthoplex   | Tesseract |
+| 4-simplex | 4-orthoplex | 4-cube    |
++-----------+-------------+-----------+
+| {3,4,3}   | {5,3,3}     | {3,3,5}   |
++-----------+-------------+-----------+
+| Octaplex  | Dodecaplex  | Tetraplex |
+| 24-cell   | 120-cell    | 600-cell  |
++-----------+-------------+-----------+
 
 : Graphs of six convex regular 4-polytopes
 
@@ -31,12 +29,12 @@ The most familiar 4-polytope is the tesseract or hypercube, the 4D analogue of t
 
 Visualisation
 
-  Sectioning                       Net
-  -------------------------------- ----------------------------
-  24cell_section_anim.gif          Polychoron_24-cell_net.png
+  Sectioning    Net
+  ------------- ---------------
+
   Projections
-  Schlegel                         2D orthogonal
-  Schlegel_wireframe_24-cell.png   24-cell_t0_F4.svg
+  Schlegel      2D orthogonal
+
 
   : Example presentations of a 24-cell
 
@@ -61,7 +59,7 @@ A net of a 4-polytope is composed of polyhedral cells that are connected by thei
 
 Topological characteristics
 
-Hypercube.svg as a Schlegel diagram]]
+as a Schlegel diagram]]
 
 The topology of any given 4-polytope is defined by its Betti numbers and torsion coefficients.[4]
 
@@ -87,7 +85,7 @@ Like all polytopes, 4-polytopes may be classified based on properties like "conv
 
 Classes
 
-The following lists the various categories of 4-polytopes classified according to the criteria above: Schlegel_half-solid_truncated_120-cell.png is one of 47 convex non-prismatic uniform 4-polytopes]] UNIFORM 4-POLYTOPE (vertex-transitive):
+The following lists the various categories of 4-polytopes classified according to the criteria above: is one of 47 convex non-prismatic uniform 4-polytopes]] UNIFORM 4-POLYTOPE (vertex-transitive):
 
 -   CONVEX UNIFORM 4-POLYTOPES (64, plus two infinite families)
     -   47 non-prismatic convex uniform 4-polytope including:
@@ -96,7 +94,7 @@ The following lists the various categories of 4-polytopes classified according t
         -   {} × {p,q} : 18 polyhedral hyperprisms (including cubic hyperprism, the regular hypercube)
         -   Prisms built on antiprisms (infinite family)
         -   {p} × {q} : duoprisms (infinite family)
--   NON-CONVEX UNIFORM 4-POLYTOPES (10 + unknown)Ortho_solid_016-uniform_polychoron_p33-t0.png is the largest of 10 regular star 4-polytopes, having 600 vertices.]]
+-   NON-CONVEX UNIFORM 4-POLYTOPES (10 + unknown) is the largest of 10 regular star 4-polytopes, having 600 vertices.]]
     -   10 (regular) Schläfli-Hess polytopes
     -   57 hyperprisms built on nonconvex uniform polyhedra
     -   Unknown total number of nonconvex uniform 4-polytopes: Norman Johnson and other collaborators have identified 1849 known cases (convex and star), all constructed by vertex figures by Stella4D software.[7]
@@ -106,7 +104,7 @@ OTHER CONVEX 4-POLYTOPES:
 -   Polyhedral pyramid
 -   Polyhedral prism
 
-Cubic_honeycomb.png is the only infinite regular 4-polytope in Euclidean 3-dimensional space.]] INFINITE UNIFORM 4-POLYTOPES OF EUCLIDEAN 3-SPACE (uniform tessellations of convex uniform cells)
+is the only infinite regular 4-polytope in Euclidean 3-dimensional space.]] INFINITE UNIFORM 4-POLYTOPES OF EUCLIDEAN 3-SPACE (uniform tessellations of convex uniform cells)
 
 -   28 convex uniform honeycombs: uniform convex polyhedral tessellations, including:
     -   1 regular tessellation, cubic honeycomb: {4,3,4}
@@ -129,7 +127,7 @@ OTHERS:
 
 -   Weaire–Phelan structure periodic space-filling honeycomb with irregular cells
 
-Hemi-icosahedron_coloured.svg is an abstract regular 4-polytope, existing in the real projective plane, it can be seen by presenting its 11 hemi-icosahedral vertices and cells by index and color.]] ABSTRACT REGULAR 4-POLYTOPES:
+is an abstract regular 4-polytope, existing in the real projective plane, it can be seen by presenting its 11 hemi-icosahedral vertices and cells by index and color.]] ABSTRACT REGULAR 4-POLYTOPES:
 
 -   11-cell
 -   57-cell

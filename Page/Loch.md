@@ -1,4 +1,4 @@
-Ben_Lomond_Scotland.jpg, towards Ben Lomond]] LOCH () is the Irish, Scottish Gaelic and Scots word for a lake or for a sea inlet. It is cognate with the Manx LOUGH, Cornish LOGH, and one of the Welsh words for lake, LLWCH.
+, towards Ben Lomond]] LOCH () is the Irish, Scottish Gaelic and Scots word for a lake or for a sea inlet. It is cognate with the Manx LOUGH, Cornish LOGH, and one of the Welsh words for lake, LLWCH.
 
 In English English and Hiberno-English, the anglicised spelling LOUGH is commonly found in place names; in Lowland Scots and Scottish English, the spelling "loch" is always used.
 
@@ -7,7 +7,7 @@ Some lochs could also be called firths, fjords, estuaries, straits or bays. Sea-
 
 Background
 
-LochLong(StevePartridge)Nov2007.jpg Loch_Lubnaig_(223068248).jpg Lake_of_Menteith_looking_towards_Port_of_Monteith.jpg (Loch Innis MoCholmaig)]] Loch_Derculich_near_Aberfeldy,_Perthshire,_Scotland.JPG This name for a body of water is Insular Celtic[1] in origin and is applied to most lakes in Scotland and to many sea inlets in the west and north of Scotland. The word is Indo-European in origin; cf. Latin _lacus_.
+(Loch Innis MoCholmaig)]] This name for a body of water is Insular Celtic[1] in origin and is applied to most lakes in Scotland and to many sea inlets in the west and north of Scotland. The word is Indo-European in origin; cf. Latin _lacus_.
 
 Lowland Scots orthography, like Scottish Gaelic, Welsh and Irish, represents with _ch_, so the word was borrowed with identical spelling.
 

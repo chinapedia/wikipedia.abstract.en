@@ -60,8 +60,6 @@ The surreal numbers form a proper class rather than a set, but otherwise obey th
 
 Properties of ordered fields
 
-Invariance_of_less-than-relation_by_multiplication_with_positive_number.svg Translation_invariance_of_less-than-relation.svg
-
 For every _a_, _b_, _c_, _d_ in _F_:
 
 -   Either −_a_ ≤ 0 ≤ _a_ or _a_ ≤ 0 ≤ −_a_

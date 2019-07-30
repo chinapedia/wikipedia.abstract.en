@@ -9,7 +9,7 @@ In antiquity, Ozymandias () was a Greek name for the Egyptian pharaoh Ramesses I
 
 Writing and publication history
 
-Statue_of_Ramesses_II_at_the_British_Museum.jpg'' statue of Ramesses II in the British Museum. Its imminent arrival in London may have inspired the poem.]]
+'' statue of Ramesses II in the British Museum. Its imminent arrival in London may have inspired the poem.]]
 
 Publication history
 
@@ -19,7 +19,7 @@ The two poems were later published in Leigh Hunt's _The Examiner,_[8] published 
 
 Shelley's poem
 
-Ozymandias_Shelley_draft_c1817.gif Shelley's poem was published on 11 January 1818 under the pen name Glirastes. It appeared on page 24 in the yearly collection, under Original Poetry. Shelley's poem was later republished under the title "Sonnet. Ozymandias" in his 1819 collection _Rosalind and Helen, A Modern Eclogue; with Other Poems_ by Charles and James OllierReprinted in
+Shelley's poem was published on 11 January 1818 under the pen name Glirastes. It appeared on page 24 in the yearly collection, under Original Poetry. Shelley's poem was later republished under the title "Sonnet. Ozymandias" in his 1819 collection _Rosalind and Helen, A Modern Eclogue; with Other Poems_ by Charles and James OllierReprinted in
 
 and in the 1826 _Miscellaneous and Posthumous Poems of Percy Bysshe Shelley_ by William Benbow, both in London.[9]
 
@@ -40,7 +40,7 @@ We wonder,—and some Hunter may express Wonder like ours, when thro' the wilder
 
 Analysis and interpretation
 
-Ozymandias.jpg]]
+]]
 
 Form
 

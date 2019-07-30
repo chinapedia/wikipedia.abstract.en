@@ -1,4 +1,4 @@
-C_Hello_World_Program.png for a simple computer program written in the C programming language. When compiled and run, it will give the output "Hello, world!".]] A PROGRAMMING LANGUAGE is a formal language, which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms.
+for a simple computer program written in the C programming language. When compiled and run, it will give the output "Hello, world!".]] A PROGRAMMING LANGUAGE is a formal language, which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms.
 
 Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. Early ones preceded the invention of the digital computer, the first probably being the automatic flute player described in the 9th century by the brothers Musa in Baghdad, during the Islamic Golden Age.[1] Since the early 1800s, programs have been used to direct the behavior of machines such as Jacquard looms, music boxes and player pianos.[2] The programs for these machines (such as a player piano's scrolls) did not produce different behavior in response to different inputs or conditions.
 
@@ -69,8 +69,6 @@ The 1960s and 1970s also saw considerable debate over the merits of _structured 
 
 Consolidation and growth
 
-Bangalore_India_Tech_books_for_sale_IMG_5261.jpg
-
 The 1980s were years of relative consolidation. C++ combined object-oriented and systems programming. The United States government standardized Ada, a systems programming language derived from Pascal and intended for use by defense contractors. In Japan and elsewhere, vast sums were spent investigating so-called "fifth-generation" languages that incorporated logic programming constructs.[42] The functional languages community moved to standardize ML and Lisp. Rather than inventing new paradigms, all of these movements elaborated upon the ideas invented in the previous decades.
 
 One important trend in language design for programming large-scale systems during the 1980s was an increased focus on the use of _modules_ or large-scale organizational units of code. Modula-2, Ada, and ML all developed notable module systems in the 1980s, which were often wedded to generic programming constructs.[43]
@@ -88,7 +86,7 @@ All programming languages have some primitive building blocks for the descriptio
 
 Syntax
 
-Python_add5_parse.png of Python code with inset tokenization]] Python_add5_syntax.svg is often used to aid programmers in recognizing elements of source code. The language above is Python.]] A programming language's surface form is known as its syntax. Most programming languages are purely textual; they use sequences of text including words, numbers, and punctuation, much like written natural languages. On the other hand, there are some programming languages which are more graphical in nature, using visual relationships between symbols to specify a program.
+of Python code with inset tokenization]] is often used to aid programmers in recognizing elements of source code. The language above is Python.]] A programming language's surface form is known as its syntax. Most programming languages are purely textual; they use sequences of text including words, numbers, and punctuation, much like written natural languages. On the other hand, there are some programming languages which are more graphical in nature, using visual relationships between symbols to specify a program.
 
 The syntax of a language describes the possible combinations of symbols that form a syntactically correct program. The meaning given to a combination of symbols is handled by semantics (either formal or hard-coded in a reference implementation). Since most languages are textual, this article discusses textual syntax.
 

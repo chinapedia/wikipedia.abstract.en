@@ -7,7 +7,7 @@ The state is one of the 13 original founding states of the United States; it cam
 
 Geography
 
-Pennsylvania-counties-map.gif]] Flickr_-_Nicholas_T_-_Canyon_Vista.jpg, Sullivan County]] Pennsylvania is north to south and east to west.[2] Of a total , are land, are inland waters, and are waters in Lake Erie.[3] It is the 33rd-largest state in the United States.[4] Pennsylvania has [5] of coastline along Lake Erie and [6] of shoreline along the Delaware Estuary. Of the original Thirteen Colonies, Pennsylvania is the only state that does not border the Atlantic Ocean.
+]] , Sullivan County]] Pennsylvania is north to south and east to west.[2] Of a total , are land, are inland waters, and are waters in Lake Erie.[3] It is the 33rd-largest state in the United States.[4] Pennsylvania has [5] of coastline along Lake Erie and [6] of shoreline along the Delaware Estuary. Of the original Thirteen Colonies, Pennsylvania is the only state that does not border the Atlantic Ocean.
 
 The boundaries of the state are the Mason–Dixon line (39° 43' N) to the south, the Twelve-Mile Circle on the Pennsylvania-Delaware border, the Delaware River to the east, 80° 31' W to the west and the 42° N to the north, with the exception of a short segment on the western end, where a triangle extends north to Lake Erie.
 
@@ -28,7 +28,7 @@ Adjacent states and province
 
 Climate
 
-Pennsylvania_Köppen.svg Flickr_-_Nicholas_T_-_Endless_Mountains_Landscape_(1).jpg]] Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, with the exception of the southeastern corner, has a humid continental climate (Köppen climate classification _Dfa_). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen _Cfa_) that covers much of Delaware and Maryland to the south.
+]] Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, with the exception of the southeastern corner, has a humid continental climate (Köppen climate classification _Dfa_). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen _Cfa_) that covers much of Delaware and Maryland to the south.
 
 Summers are generally hot and humid. Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near Lake Erie, can receive over of snowfall annually, and the entire state receives plentiful precipitation throughout the year. The state may be subject to severe weather from spring through summer into autumn. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage.[7]
 
@@ -53,21 +53,21 @@ Other tribes, like the Erie, may have once held some land in Pennsylvania, but n
 
 17th century
 
-Darlington_map_of_Pennsylvania_1680.png).]] Both the Dutch and the English claimed both sides of the Delaware River as part of their colonial lands in America.[21][22][23] The Dutch were the first to take possession.[24]
+).]] Both the Dutch and the English claimed both sides of the Delaware River as part of their colonial lands in America.[21][22][23] The Dutch were the first to take possession.[24]
 
 By June 3, 1631, the Dutch had begun settling the Delmarva Peninsula by establishing the Zwaanendael Colony on the site of present-day Lewes, Delaware.[25] In 1638, Sweden established the New Sweden Colony, in the region of Fort Christina, on the site of present-day Wilmington, Delaware. New Sweden claimed and, for the most part, controlled the lower Delaware River region (parts of present-day Delaware, New Jersey, and Pennsylvania) but settled few colonists there.[26][27]
 
-Edward_Hicks_-_Penn's_Treaty.jpeg]] On March 12, 1664, King Charles II of England gave James, Duke of York a grant that incorporated all lands included in the original Virginia Company of Plymouth Grant plus other lands. This grant was in conflict with the Dutch claim for New Netherland, which included parts of today's Pennsylvania.[28]
+]] On March 12, 1664, King Charles II of England gave James, Duke of York a grant that incorporated all lands included in the original Virginia Company of Plymouth Grant plus other lands. This grant was in conflict with the Dutch claim for New Netherland, which included parts of today's Pennsylvania.[28]
 
 On June 24, 1664, the Duke of York sold the portion of his large grant that included present-day New Jersey to John Berkeley and George Carteret for a proprietary colony. The land was not yet in British possession, but the sale boxed in the portion of New Netherland on the West side of the Delaware River. The British conquest of New Netherland began on August 29, 1664, when New Amsterdam was coerced to surrender while facing cannons on British ships in New York Harbor.[29][30] This conquest continued, and was completed in October 1664, when the British captured Fort Casimir in what today is New Castle, Delaware.
 
-John_Dickinson_portrait.jpg]] The Peace of Breda between England, France and the Netherlands confirmed the English conquest on July 21, 1667,[31][32] although there were temporary reversions.
+]] The Peace of Breda between England, France and the Netherlands confirmed the English conquest on July 21, 1667,[31][32] although there were temporary reversions.
 
 On September 12, 1672, during the Third Anglo-Dutch War, the Dutch re-conquered New York Colony/New Amsterdam, establishing three County Courts which went on to become original Counties in present-day Delaware and Pennsylvania. The one that later transferred to Pennsylvania was Upland.[33] This was partially reversed on February 9, 1674, when the Treaty of Westminster ended the Third Anglo-Dutch War, and reverted all political situations to the _status quo ante bellum_. The British retained the Dutch Counties with their Dutch names.[34] By June 11, 1674, New York reasserted control over the outlying colonies, including Upland, but the names started to be changed to British names by November 11, 1674.[35] Upland was partitioned on November 12, 1674, producing the general outline of the current border between Pennsylvania and Delaware.[36]
 
 On February 28, 1681, Charles II granted a land charter[37] to William Penn to repay a debt of £16,000[38] (around £2,100,000 in 2008, adjusting for retail inflation)[39] owed to William's father, Admiral William Penn. This was one of the largest land grants to an individual in history.[40] The King named it Pennsylvania (literally "Penn's Woods") in honor of the Admiral. Penn, the son, who wanted it to be called New Wales, and then Sylvania (from the Latin _silva_: "forest, woods"), was embarrassed at the change, fearing that people would think he had named it after himself, but King Charles would not rename the grant.[41] Penn established a government with two innovations that were much copied in the New World: the county commission and freedom of religious conviction.[42]
 
-A_mapp_of_ye_improved_part_of_Pensilvania_in_America,_divided_into_countyes_townships_and_lotts_-_cropped,_curves.jpg Improved part of Pensilvania in America, Divided into Countyes Townships and Lotts]]
+Improved part of Pensilvania in America, Divided into Countyes Townships and Lotts]]
 
 What had been Upland on what became the Pennsylvania side of the Pennsylvania-Delaware Border was renamed as Chester County when Pennsylvania instituted their colonial governments on March 4, 1681.[43][44] The Quaker leader William Penn had signed a peace treaty with Tammany, leader of the Delaware tribe, beginning a long period of friendly relations between the Quakers and the Indians.[45] Additional treaties between Quakers and other tribes followed. The treaty of William Penn was never violated.[46]
 
@@ -77,7 +77,7 @@ Between 1730 and when it was shut down by Parliament with the Currency Act of 17
 
 James Smith wrote that in 1763, "the Indians again commenced hostilities, and were busily engaged in killing and scalping the frontier inhabitants in various parts of Pennsylvania." Further, "This state was then a Quaker government, and at the first of this war the frontiers received no assistance from the state."[48] The ensuing hostilities became known as Pontiac's War.
 
-PhiladelphiaPresidentsHouse.jpg. The Masters-Penn mansion housed Pennsylvania's governor in the early 1770s. It later served as the presidential mansion of George Washington and John Adams, 1790–1800, while Philadelphia was the temporary capital of the union.]] After the Stamp Act Congress of 1765, Delegate John Dickinson of Philadelphia wrote the _Declaration of Rights and Grievances_. The Congress was the first meeting of the Thirteen Colonies, called at the request of the Massachusetts Assembly, but only nine colonies sent delegates.[49] Dickinson then wrote _Letters from a Farmer in Pennsylvania, To the Inhabitants of the British Colonies_, which were published in the Pennsylvania Chronicle between December 2, 1767, and February 15, 1768.[50]
+. The Masters-Penn mansion housed Pennsylvania's governor in the early 1770s. It later served as the presidential mansion of George Washington and John Adams, 1790–1800, while Philadelphia was the temporary capital of the union.]] After the Stamp Act Congress of 1765, Delegate John Dickinson of Philadelphia wrote the _Declaration of Rights and Grievances_. The Congress was the first meeting of the Thirteen Colonies, called at the request of the Massachusetts Assembly, but only nine colonies sent delegates.[49] Dickinson then wrote _Letters from a Farmer in Pennsylvania, To the Inhabitants of the British Colonies_, which were published in the Pennsylvania Chronicle between December 2, 1767, and February 15, 1768.[50]
 
 When the Founding Fathers of the United States convened in Philadelphia in 1774, 12 colonies sent representatives to the First Continental Congress.[51] The Second Continental Congress, which also met in Philadelphia (in May 1775), drew up and signed the Declaration of Independence in Philadelphia,[52] but when that city was captured by the British, the Continental Congress escaped westward, meeting at the Lancaster courthouse on Saturday, September 27, 1777, and then to York. There they and its primary author, John Dickinson, drew up the Articles of Confederation that formed 13 independent States[53] into a new union. Later, the Constitution was written, and Philadelphia was once again chosen to be cradle to the new American Union.[54] The Constitution was drafted and signed at the Pennsylvania State House, now known as Independence Hall, and the same building where the Declaration of Independence was signed.[55]
 
@@ -85,7 +85,7 @@ Pennsylvania became the first large state, and the second state to ratify the U.
 
 Dickinson College of Carlisle was the first college founded after the States united. Established in 1773, the college was ratified five days after the Treaty of Paris on September 9, 1783. The school was founded by Benjamin Rush and named after John Dickinson.
 
-HillsCapitol.jpg For half a century, the Commonwealth's General Assembly (legislature) met at various places in the general Philadelphia area before starting to meet regularly in Independence Hall in Philadelphia for 63 years.[58] But it needed a more central location, as for example the Paxton Boys massacres of 1763 had made the legislature aware. So, in 1799 the General Assembly moved to the Lancaster Courthouse,[59] and finally in 1812 to Harrisburg.[60]
+For half a century, the Commonwealth's General Assembly (legislature) met at various places in the general Philadelphia area before starting to meet regularly in Independence Hall in Philadelphia for 63 years.[58] But it needed a more central location, as for example the Paxton Boys massacres of 1763 had made the legislature aware. So, in 1799 the General Assembly moved to the Lancaster Courthouse,[59] and finally in 1812 to Harrisburg.[60]
 
 19th century
 
@@ -99,7 +99,7 @@ Pennsylvania was also the home of the first commercially drilled oil well. In 18
 
 20th century
 
-Federal_Emergency_Relief_Administration,_FERA_camp_for_unemployed_women_in_Arcola,_PA_-_NARA_-_196583.tif's FERA camp for unemployed women, 1934]] At the beginning of the 20th century Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. A surge in immigration to the U.S. during the late 19th and early 20th centuries provided a steady flow of cheap labor for these industries which often employed children and people who could not speak English.
+'s FERA camp for unemployed women, 1934]] At the beginning of the 20th century Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. A surge in immigration to the U.S. during the late 19th and early 20th centuries provided a steady flow of cheap labor for these industries which often employed children and people who could not speak English.
 
 In 1923, President Calvin Coolidge established the Allegheny National Forest under the authority of the Weeks Act of 1911.[70] The forest is located in the northwest part of the state in Elk, Forest, McKean, and Warren Counties for the purposes of timber production and watershed protection in the Allegheny River basin. The Allegheny is the state's only national forest.[71]
 
@@ -160,8 +160,6 @@ The majority of Hispanics in Pennsylvania are of Puerto Rican descent, having on
 Of the black population, the vast majority in the state are African American, being descendants of African slaves brought to the US south during the colonial era. There are also a growing number of blacks of West Indian, recent African, and Hispanic origins.[88] Most blacks live in the Philadelphia area, Pittsburgh, and South Central Pennsylvania. Whites make up the majority of Pennsylvania; they are mostly descended from German, Irish, Italian, and English immigrants. Rural portions of South Central Pennsylvania are famous nationwide for their notable Amish communities. The "Wyoming Valley" or the Scranton/Wilkes-Barre Metropolitan Area has a large concentration of whites. It has the highest percentage of white residents of any metropolitan area in the U.S., with 96.2% of its population claiming to be white with no Hispanic background.
 
 The center of population of Pennsylvania is located in Perry County, in the borough of Duncannon.[89]
-
-PennsylvaniaDemography.svg Pennsylvania_population_map_1.png
 
 Age and poverty
 
@@ -248,7 +246,7 @@ Pennsylvania German is often—even though misleadingly—called "Pennsylvania D
 
 Religion
 
-Lancaster_County_Amish_03.jpg family riding in a traditional Amish buggy in Lancaster County, Pennsylvania.]] Of all the colonies, only Rhode Island had religious freedom as secure as in Pennsylvania.[101] Voltaire, writing of William Penn in 1733, observed: "The new sovereign also enacted several wise and wholesome laws for his colony, which have remained invariably the same to this day. The chief is, to ill–treat no person on account of religion, and to consider as brethren all those who believe in one God."[102] One result of this uncommon freedom was a wide religious diversity, which continues to the present.
+family riding in a traditional Amish buggy in Lancaster County, Pennsylvania.]] Of all the colonies, only Rhode Island had religious freedom as secure as in Pennsylvania.[101] Voltaire, writing of William Penn in 1733, observed: "The new sovereign also enacted several wise and wholesome laws for his colony, which have remained invariably the same to this day. The chief is, to ill–treat no person on account of religion, and to consider as brethren all those who believe in one God."[102] One result of this uncommon freedom was a wide religious diversity, which continues to the present.
 
 Pennsylvania's population in 2010 was 12,702,379. Of these, 6,838,440 (53.8%) were estimated to belong to some sort of organized religion. According to the Association of religion data archives (ARDA) at Pennsylvania State University, the largest religions in Pennsylvania by adherents are the Roman Catholic Church with 3,503,028 adherents, the United Methodist Church with 591,734 members, and the Evangelical Lutheran Church in America with 501,974 members.
 
@@ -278,9 +276,7 @@ According to a 2016 Gallup poll, 38% of Pennsylvanians are very religious, 29% a
 
 Economy
 
-Sorry_We're_Open_-_sign._Philadelphia.JPG]] Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation.[110] If Pennsylvania were an independent country, its economy would rank as the 19th-largest in the world.[111] On a per-capita basis, Pennsylvania's 2016 per-capita GSP of $50,665 (in chained 2009 dollars) ranks 22nd among the 50 states.[112]
-
-Geo_Map_of_Income_by_Location_in_Pennsylvania.png
+]] Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation.[110] If Pennsylvania were an independent country, its economy would rank as the 19th-largest in the world.[111] On a per-capita basis, Pennsylvania's 2016 per-capita GSP of $50,665 (in chained 2009 dollars) ranks 22nd among the 50 states.[112]
 
 Philadelphia in the southeast corner, Pittsburgh in the southwest corner, Erie in the northwest corner, Scranton-Wilkes-Barre in the northeast corner, and Allentown-Bethlehem-Easton in the east central region are urban manufacturing centers. Much of the Commonwealth is rural; this dichotomy affects state politics as well as the state economy.[113] Philadelphia is home to six Fortune 500 companies,[114] with more located in suburbs like King of Prussia; it is a leader in the financial[115] and insurance industry.
 
@@ -339,7 +335,7 @@ The current Governor is Tom Wolf. The other elected officials composing the exec
 
 Legislative
 
-Pennsylvania_State_Capitol_Front_Panorama.jpg in Harrisburg]] Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The original Frame of Government of William Penn had a unicameral legislature.[135] The General Assembly includes 50 Senators and 203 Representatives. Joe Scarnati is currently President Pro Tempore of the State Senate, Jake Corman the Majority Leader, and Jay Costa the Minority Leader.[136] Mike Turzai is Speaker of the House of Representatives, with Bryan Cutler as Majority Leader and Frank Dermody as Minority Leader.[137] As of the 2018 elections, the Republicans hold the majority in the State House and Senate.
+in Harrisburg]] Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The original Frame of Government of William Penn had a unicameral legislature.[135] The General Assembly includes 50 Senators and 203 Representatives. Joe Scarnati is currently President Pro Tempore of the State Senate, Jake Corman the Majority Leader, and Jay Costa the Minority Leader.[136] Mike Turzai is Speaker of the House of Representatives, with Bryan Cutler as Majority Leader and Frank Dermody as Minority Leader.[137] As of the 2018 elections, the Republicans hold the majority in the State House and Senate.
 
 Judiciary
 
@@ -351,7 +347,7 @@ The Pennsylvania State Police is the chief law enforcement agency in the Commonw
 
 Municipalities
 
-Allentown.jpg, 2010]]
+, 2010]]
 
 Pennsylvania is divided into 67 counties.[144] Counties are further subdivided into municipalities that are either incorporated as cities, boroughs, or townships.[145] One county, Philadelphia County, is coterminous with the city of Philadelphia after it was consolidated in 1854. The most populous county in Pennsylvania is Philadelphia, while the least populous is Cameron (5,085).[146]
 
@@ -371,7 +367,7 @@ County | city_1 = Philadelphia, Pennsylvania{{!}}Philadelphia | div_1 = Philadel
 
 Politics
 
-30th_Street_Station_Philadelphia_July_2016_002_edit.jpg was held in Philadelphia.|alt=A large neoclassical building lit up red and blue with white stars.]] For most of the second half of the 20th century and into the 21st century, Pennsylvania has been a powerful swing state. It only supported the losing candidate in a presidential election twice from 1932 to 1988. Since 1992, Pennsylvania has been trending Democratic in Presidential elections, voting for Bill Clinton twice by large margins, and slightly closer in 2000 for Al Gore. In the 2004 Presidential Election, Senator John F. Kerry beat President George W. Bush in Pennsylvania 2,938,095 (50.92%) to 2,793,847 (48.42%). In the 2008 Presidential Election, Democrat Barack Obama defeated Republican John McCain in Pennsylvania, 3,184,778 (54%) to 2,584,088 (44%). Most recently, in the 2016 Presidential Election, Donald Trump became the first Republican candidate to win the state since 1988, winning the state 48.6% to 47.8%.[160] The state holds 20 electoral votes.[161]
+was held in Philadelphia.|alt=A large neoclassical building lit up red and blue with white stars.]] For most of the second half of the 20th century and into the 21st century, Pennsylvania has been a powerful swing state. It only supported the losing candidate in a presidential election twice from 1932 to 1988. Since 1992, Pennsylvania has been trending Democratic in Presidential elections, voting for Bill Clinton twice by large margins, and slightly closer in 2000 for Al Gore. In the 2004 Presidential Election, Senator John F. Kerry beat President George W. Bush in Pennsylvania 2,938,095 (50.92%) to 2,793,847 (48.42%). In the 2008 Presidential Election, Democrat Barack Obama defeated Republican John McCain in Pennsylvania, 3,184,778 (54%) to 2,584,088 (44%). Most recently, in the 2016 Presidential Election, Donald Trump became the first Republican candidate to win the state since 1988, winning the state 48.6% to 47.8%.[160] The state holds 20 electoral votes.[161]
 
 In recent national elections since 1992, Pennsylvania had leaned for the Democratic Party. The state voted for the Democratic ticket for president in every election between 1992 and 2012. During the 2008 election campaign a recruitment drive saw registered Democrats outnumber registered Republicans by 1.2 million. However, Pennsylvania has a history of electing Republican senators. From 2009 to 2011, the state was represented by two Democratic senators for the first time since 1947. In 2010, Republicans recaptured a U.S. Senate seat as well as a majority of the state's congressional seats, control of both chambers of the state legislature and the governor's mansion. Democrats won back the governor's mansion 4 years later in the 2014 election. It was the first time since a governor became eligible to succeed himself that an incumbent governor had been defeated for reelection.
 
@@ -407,7 +403,7 @@ Pennsylvania has a mixed health record, and is ranked as the 29th-overall-health
 
 Education
 
-Penn_campus_2.jpg quadrangle in Philadelphia]]
+quadrangle in Philadelphia]]
 
 Pennsylvania has 500 public school districts, thousands of private schools, publicly funded colleges and universities, and over 100 private institutions of higher education.
 
@@ -434,9 +430,9 @@ Carnegie Mellon University, The Pennsylvania State University, the University of
 
 Recreation
 
-Dorney_Park_Steel_Force_Thunderhawk.jpg Steel Force and Thunderhawk roller coasters in Allentown]]
+Steel Force and Thunderhawk roller coasters in Allentown]]
 
-Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo.[182] Other long-accredited AZA zoos include the Erie Zoo and the Pittsburgh Zoo & PPG Aquarium. The Lehigh Valley Zoo and ZOOAMERICA are other notable zoos. The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. One unique museum is the Houdini Museum in Scranton, the only building in the world devoted to the legendary magician.[183] Pennsylvania is also home to the National Aviary, located in Pittsburgh. Baughman's_Rock_Overlook.ogv timelapse]]
+Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo.[182] Other long-accredited AZA zoos include the Erie Zoo and the Pittsburgh Zoo & PPG Aquarium. The Lehigh Valley Zoo and ZOOAMERICA are other notable zoos. The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. One unique museum is the Houdini Museum in Scranton, the only building in the world devoted to the legendary magician.[183] Pennsylvania is also home to the National Aviary, located in Pittsburgh. timelapse]]
 
 All 121 state parks in Pennsylvania feature free admission.
 
@@ -451,11 +447,9 @@ The Boone and Crockett Club shows that five of the ten largest (skull size) blac
 
 Transportation
 
-National-atlas-pennsylvania.png
-
 The Pennsylvania Department of Transportation, abbreviated as PennDOT, owns of the of roadway in the state, making it the fifth-largest state highway system in the United States.[188] The Pennsylvania Turnpike system is long, with the mainline portion stretching from Ohio to Philadelphia and New Jersey.[189] It is overseen by the Pennsylvania Turnpike Commission. Another major east–west route is Interstate 80, which runs primarily in the northern tier of the state from Ohio to New Jersey at the Delaware Water Gap. Interstate 90 travels the relatively short distance between Ohio and New York through Erie County, in the extreme northwestern part of the state.
 
-Appalachian_Throughway.jpg as it passes through Lamar Township.]] Primary north–south highways are Interstate 79 from its terminus in Erie through Pittsburgh to West Virginia, Interstate 81 from New York through Scranton, Lackawanna County and Harrisburg to Maryland and Interstate 476, which begins north of the Delaware border, in Chester, Delaware County and travels to Clarks Summit, Lackawanna County, where it joins I-81. All but of I-476 is the Northeast Extension of the Pennsylvania Turnpike, while the highway south of the main line of the Pennsylvania Turnpike is officially called the "Veterans Memorial Highway", but is commonly referred to by locals as the "Blue Route".
+as it passes through Lamar Township.]] Primary north–south highways are Interstate 79 from its terminus in Erie through Pittsburgh to West Virginia, Interstate 81 from New York through Scranton, Lackawanna County and Harrisburg to Maryland and Interstate 476, which begins north of the Delaware border, in Chester, Delaware County and travels to Clarks Summit, Lackawanna County, where it joins I-81. All but of I-476 is the Northeast Extension of the Pennsylvania Turnpike, while the highway south of the main line of the Pennsylvania Turnpike is officially called the "Veterans Memorial Highway", but is commonly referred to by locals as the "Blue Route".
 
 The Southeastern Pennsylvania Transportation Authority (SEPTA) is the sixth-largest transit agency in the United States and operates the commuter, heavy and light rail transit, and transit bus service in the Philadelphia metropolitan area. The Port Authority of Allegheny County is the 25th-largest transit agency and provides transit bus and light rail service in and around Pittsburgh.[190]
 
@@ -474,7 +468,7 @@ Arts
 
 Sports
 
-"Full_House_at_Citizens_Bank_Park"_(Photo).jpg in South Philadelphia, home of the Philadelphia Phillies]] Pennsylvania is home to many major league professional sports teams; the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. Among them, these teams have accumulated 7 World Series Championships (Pirates 5, Phillies 2), 16 National League Pennants (Pirates 9, Phillies 7), 3 pre-Super Bowl era NFL Championships (Eagles), 7 Super Bowl Championships (Steelers 6, Eagles 1), 2 NBA Championships (76ers), and 7 Stanley Cups (Penguins 5, Flyers 2).
+in South Philadelphia, home of the Philadelphia Phillies]] Pennsylvania is home to many major league professional sports teams; the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. Among them, these teams have accumulated 7 World Series Championships (Pirates 5, Phillies 2), 16 National League Pennants (Pirates 9, Phillies 7), 3 pre-Super Bowl era NFL Championships (Eagles), 7 Super Bowl Championships (Steelers 6, Eagles 1), 2 NBA Championships (76ers), and 7 Stanley Cups (Penguins 5, Flyers 2).
 
 Pennsylvania also has minor league and semi-pro sports teams: the Triple-A baseball Lehigh Valley IronPigs and the Scranton/Wilkes-Barre RailRiders of the International League; the Double-A baseball Altoona Curve, Erie SeaWolves, Harrisburg Senators, and Reading Fightin Phils of the Eastern League; the Class A-Short Season baseball State College Spikes and Williamsport Crosscutters of the New York–Penn League; the independent baseball Lancaster Barnstormers and York Revolution of the Atlantic League of Professional Baseball; the independent baseball Washington Wild Things of the Frontier League; the Erie BayHawks of the NBA G League; the Lehigh Valley Phantoms, Wilkes-Barre/Scranton Penguins, and Hershey Bears of the American Hockey League; the Reading Royals and of the ECHL; and the Philadelphia Soul of the Arena Football League. Among them, these teams have accumulated 12 triple and double A baseball league titles (RailRiders 1, Senators 6, Fightin Phils 4 Curve 1), 1 Arena Bowl Championship (Soul), and 11 Calder Cups (Bears).
 
@@ -482,7 +476,7 @@ Since 1959, the Little League World Series is held each summer in South Williams
 
 Also, the first World Series between the Boston Pilgrims (which became the Boston Red Sox) and Pittsburgh Pirates was played in Pittsburgh in 1903.
 
-Soccer is gaining popularity within the state of Pennsylvania as well. With the addition of the Philadelphia Union in the MLS, the state now boasts three teams that are eligible to compete for the Lamar Hunt U.S. Open Cup annually. The other two teams are Bethlehem Steel FC and the Pittsburgh Riverhounds. However, Penn FC (formally Harrisburg City Islanders) used to be one of these teams before they announced they'd be on hiatus in 2019; although they would be returning for the 2020 season[198]. Both of the United Soccer League (USL). Within the American Soccer Pyramid, the MLS takes the first tier, while the USL-2 claims the third tier. Pocono_Victory_Lane.JPG racing at Pocono Raceway in Long Pond]] In motorsports, the Mario Andretti dynasty of race drivers hails from Nazareth in the Lehigh Valley. Notable racetracks in Pennsylvania include the Jennerstown Speedway in Jennerstown, the Lake Erie Speedway in North East, the Mahoning Valley Speedway in Lehighton, the Motordome Speedway in Smithton, the Mountain Speedway in St. Johns, the Nazareth Speedway in Nazareth (closed); and the Pocono Raceway in Long Pond, which is home to two NASCAR Cup Series races and an IndyCar Series race. The state is also home to Maple Grove Raceway, near Reading, which hosts major National Hot Rod Association sanctioned drag racing events each year.
+Soccer is gaining popularity within the state of Pennsylvania as well. With the addition of the Philadelphia Union in the MLS, the state now boasts three teams that are eligible to compete for the Lamar Hunt U.S. Open Cup annually. The other two teams are Bethlehem Steel FC and the Pittsburgh Riverhounds. However, Penn FC (formally Harrisburg City Islanders) used to be one of these teams before they announced they'd be on hiatus in 2019; although they would be returning for the 2020 season[198]. Both of the United Soccer League (USL). Within the American Soccer Pyramid, the MLS takes the first tier, while the USL-2 claims the third tier. racing at Pocono Raceway in Long Pond]] In motorsports, the Mario Andretti dynasty of race drivers hails from Nazareth in the Lehigh Valley. Notable racetracks in Pennsylvania include the Jennerstown Speedway in Jennerstown, the Lake Erie Speedway in North East, the Mahoning Valley Speedway in Lehighton, the Motordome Speedway in Smithton, the Mountain Speedway in St. Johns, the Nazareth Speedway in Nazareth (closed); and the Pocono Raceway in Long Pond, which is home to two NASCAR Cup Series races and an IndyCar Series race. The state is also home to Maple Grove Raceway, near Reading, which hosts major National Hot Rod Association sanctioned drag racing events each year.
 
 There are also two motocross race tracks that host a round of the AMA Toyota Motocross Championships in Pennsylvania. High Point Raceway in located in Mt. Morris, Pennsylvania, and Steel City is located in Delmont, Pennsylvania.
 
@@ -500,7 +494,7 @@ College basketball is also popular in the state, especially in the Philadelphia 
 
 Food
 
-Hershey_Pennsylvania_1976.jpg]] Author Sharon Hernes Silverman calls Pennsylvania the snack food capital of the world.[204] It leads all other states in the manufacture of pretzels and potato chips. The Sturgis Pretzel House introduced the pretzel to America, and companies like Anderson Bakery Company, Intercourse Pretzel Factory, and Snyder's of Hanover are leading manufacturers in the Commonwealth. Two of the three companies that define the U.S. potato chip industry are based in Pennsylvania: Utz Quality Foods, which started making chips in Hanover, Pennsylvania, in 1921, and Wise Foods which started making chips in Berwick in 1921 (the third, Lay's Potato Chips, is a Texas company). Other companies such as Herr's Snacks, Martin's Potato Chips, Snyder's of Berlin (not associated with Snyder's of Hanover) and Troyer Farms Potato Products are popular chip manufacturers.
+]] Author Sharon Hernes Silverman calls Pennsylvania the snack food capital of the world.[204] It leads all other states in the manufacture of pretzels and potato chips. The Sturgis Pretzel House introduced the pretzel to America, and companies like Anderson Bakery Company, Intercourse Pretzel Factory, and Snyder's of Hanover are leading manufacturers in the Commonwealth. Two of the three companies that define the U.S. potato chip industry are based in Pennsylvania: Utz Quality Foods, which started making chips in Hanover, Pennsylvania, in 1921, and Wise Foods which started making chips in Berwick in 1921 (the third, Lay's Potato Chips, is a Texas company). Other companies such as Herr's Snacks, Martin's Potato Chips, Snyder's of Berlin (not associated with Snyder's of Hanover) and Troyer Farms Potato Products are popular chip manufacturers.
 
 The U.S. chocolate industry is centered in Hershey, Pennsylvania, with Mars, Godiva, and Wilbur Chocolate Company nearby, and smaller manufacturers such as Asher's[205] in Souderton,[206] and Gertrude Hawk Chocolates of Dunmore. Other notable companies include Just Born in Bethlehem, Pennsylvania, makers of Hot Tamales, Mike and Ikes, the Easter favorite marshmallow Peeps, and Boyer Brothers of Altoona, Pennsylvania, which is well known for its Mallo Cups. Auntie Anne's Pretzels began as a market-stand in Downingtown, Pennsylvania, and now has corporate headquarters in Lancaster City.[207] Traditional Pennsylvania Dutch foods include chicken potpie, ham potpie, schnitz un knepp (dried apples, ham, and dumplings), fasnachts (raised doughnuts), scrapple, pretzels, bologna, chow-chow, and Shoofly pie. Martin's Famous Pastry Shoppe, Inc., headquartered in Chambersburg, Pennsylvania, specializes in potato bread, another traditional Pennsylvania Dutch food. D.G. Yuengling & Son, America's oldest brewery, has been brewing beer in Pottsville since 1829.
 
@@ -508,8 +502,6 @@ Among the regional foods associated with Philadelphia are cheesesteaks, hoagie, 
 
 
 State symbols
-
-USBrigNiagaraInPort.JPG
 
 -   MOTTO: "Virtue, liberty, and independence"
 -   TREE: Eastern hemlock[208]

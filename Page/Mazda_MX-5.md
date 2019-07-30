@@ -55,24 +55,20 @@ With the first generation of the MX-5, the phrase was developed into five specif
 
  First generation (NA)
 
-1st_Mazda_Miata_--_03-16-2012.JPG The first generation MX-5 was introduced in 1989 and was in production until 1997. Upon its release, the car won numerous accolades such as _Automobile_ Magazine's 1990 Automobile of the Year and _Car and Driver_{{'}}s 10Best list from 1990 to 1992.
+The first generation MX-5 was introduced in 1989 and was in production until 1997. Upon its release, the car won numerous accolades such as _Automobile_ Magazine's 1990 Automobile of the Year and _Car and Driver_{{'}}s 10Best list from 1990 to 1992.
 
 
  Second generation (NB)
 
-2nd_Mazda_MX-5_Miata.jpg The second generation MX-5 was unveiled in 1997 and put on sale in 1998 for the 1999 model year. While it kept the same proportions of its predecessor, its most noticeable change was the deletion of the retractable headlamps, which no longer passed pedestrian safety tests and were replaced by fixed ones.
+The second generation MX-5 was unveiled in 1997 and put on sale in 1998 for the 1999 model year. While it kept the same proportions of its predecessor, its most noticeable change was the deletion of the retractable headlamps, which no longer passed pedestrian safety tests and were replaced by fixed ones.
 
 
  Third generation (NC)
-
-2006-2007_galaxy_gray.jpg
 
 Taking design cues from the 2003 Mazda Ibuki concept car, the third generation Mazda MX-5 was introduced in 2005 and was in production until 2015. This generation introduced a Power Retractable Hard Top variant that features a folding mechanism that does not interfere with trunk space. During its release, the third generation MX-5 received several accolades such as the 2005-2006 Car of the Year Japan Award and _Car and Driver_{{'}}s 10Best list from 2006 to 2013.
 
 
  Fourth generation (ND)
-
-2018_Mazda_MX-5_RF_Sport_2.0_Front.jpg
 
 The fourth generation Mazda MX-5 was unveiled in 2014 and has been in production since 2015. Although the update introduced in 2018 is basically the same, it has been designated as series "ND2" due to the engine upgrade to and several other improvements in the car. The ND generation introduced a Retractable Fastback (RF) variant that features a rigid roof and buttresses that give the silhouette a more coupé-like appearance than the soft top convertible. The fourth generation MX-5 has received several accolades such as the 2015-2016 Car of the Year Japan Award, the 2016 World Car of the Year Award, _Car and Driver_{{'}}s 10Best list from 2016 to 2019, and the Red Dot Best of the Best Award in Product Design 2017. In addition, the car is the basis for the Fiat 124 Spider and Abarth 124 Spider.
 

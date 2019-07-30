@@ -11,9 +11,9 @@ Public transport in Nicaragua is mostly served by buses on both short and wide r
 
 Urban buses
 
-Urban_bus_at_Ferrecalle,_Estelí.jpg used as urban bus on the line from Hospital to Oscar Gamez.]]
+used as urban bus on the line from Hospital to Oscar Gamez.]]
 
-Urban_bus_at_Hospital,_Estelí.jpg used as urban bus on the line from Hospital to Villa Cuba.]]
+used as urban bus on the line from Hospital to Villa Cuba.]]
 
 Urban buses (_Urbanos_) can be found in Managua, Estelí, León, Chinandega, Matagalpa and Bluefields. In most cases, passengers have to pay for each ride on a bus, with the need to pay again when switching to another. The costs differ from 2.50 C$ in Managua to 10 C$ in Bluefields.[3]
 
@@ -21,7 +21,7 @@ An urban bus in Nicaragua takes the same road multiple times per day, following 
 
 Another fact that heavily differs are the vehicles used in the different cities. In Managua mostly urban buses sponsored by Russia are used, in Estelí former school buses from the United States, in Bluefields Japanese light commercial vans and in León pickup trucks that got extended with seats and a roof.[5]
 
-Bus_stop_sign_in_Estelí.jpg]]
+]]
 
 The quality of bus stops also heavily differs. In the center of Managua many proper bus stops exist with roofs or at least signs, in other areas there often isn't any indication of a bus stop. Nevertheless, buses serve a network of established stops with common names known by bus assistants. Passengers need to know or ask where and when which bus stops.[6]
 
@@ -35,19 +35,17 @@ Suburban buses (_Suburbanos_) connect larger cities with communities in outer ar
 
 Ruteados
 
-Ruteado_in_COTRAN_Sur,_Estelí,_Nicaragua.jpg]]
+]]
 
 Connecting two or more cities, Ruteados (also called _Servicio Ordinario_) are the biggest part of bus services in Nicaragua.[10]
 
 Express buses
 
-Express_long-distance_bus_in_Nicaragua.jpg
-
 Express buses (_Expresos_) connect, like Ruteados and share taxis, two or more cities, but with less stops, resulting in a faster travel time.[11]
 
 Share taxis
 
-Interlocal_at_COTRAN_Norte,_Estelí,_Nicaragua.jpg]]
+]]
 
 Share taxis are called _Interlocales_ in Nicaragua and also connect two or more cities, like Ruteados and express buses, with the main difference that they depart from the bus station once they are filled either mostly or completely with passengers. Like express buses, they nearly don't stop between start and destination.[12]
 

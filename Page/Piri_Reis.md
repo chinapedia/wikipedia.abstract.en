@@ -7,7 +7,7 @@ In 1528, Piri Reis drew a second world map, of which a small fragment (showing G
 
 Biography
 
-Piri_reis_world_map_01.jpg of Piri Reis (1513)]]
+of Piri Reis (1513)]]
 
 For many years, little was known about the identity of Piri Reis. The name _Piri Reis_ means _Captain Piri_ (_Reis_ is not part of his proper name). Today, based on the Ottoman archives, it is known that his full name was "Hacı Ahmed Muhiddin Piri"[2] and that he was born either in Gelibolu (Gallipoli) on the European part of the Ottoman Empire (in present-day Turkish Thrace),[3] or in Karaman (his father's birthplace) in central Anatolia,[4] then the capital of the Beylik of Karaman (annexed by the Ottoman Empire in 1487). The exact date of his birth is unknown. His father's name was Hacı Mehmed Piri. The honorary and informal Islamic title _Hadji_ (Turkish: _Hacı_) in Piri's and his father's names indicate that they both had completed the Hajj (Islamic pilgrimage) by going to Mecca during the dedicated annual period.
 
@@ -15,7 +15,7 @@ Piri began engaging in government-supported privateering (a common practice in t
 
 By 1516, he was again at sea as a ship captain in the Ottoman fleet. He took part in the 1516–17 Ottoman conquest of Egypt. In 1522 he participated in the Siege of Rhodes against the Knights of St. John, which ended with the island's surrender to the Ottomans on 25 December 1522 and the permanent departure of the Knights from Rhodes on 1 January 1523 (the Knights relocated briefly to Sicily and later permanently to Malta). In 1524 he captained the ship that took the Ottoman Grand Vizier Pargalı İbrahim Pasha to Egypt.
 
-Second_World_Map_of_Piri_Reis.jpg In 1547, Piri had risen to the rank of Reis (admiral) as the Commander of the Ottoman Fleet in the Indian Ocean and Admiral of the Fleet in Egypt, headquartered in Suez. On 26 February 1548 he recaptured Aden from the Portuguese, followed in 1552 by the sack of Muscat, which Portugal had occupied since 1507, and the strategically important island of Kish. Turning further east, Piri Reis attempted to capture the island of Hormuz in the Strait of Hormuz, at the entrance of the Persian Gulf, unsuccessfully. When the Portuguese turned their attention to the Persian Gulf, Piri Reis occupied the Qatar peninsula to deprive the Portuguese of suitable bases on the Arabian coast.
+In 1547, Piri had risen to the rank of Reis (admiral) as the Commander of the Ottoman Fleet in the Indian Ocean and Admiral of the Fleet in Egypt, headquartered in Suez. On 26 February 1548 he recaptured Aden from the Portuguese, followed in 1552 by the sack of Muscat, which Portugal had occupied since 1507, and the strategically important island of Kish. Turning further east, Piri Reis attempted to capture the island of Hormuz in the Strait of Hormuz, at the entrance of the Persian Gulf, unsuccessfully. When the Portuguese turned their attention to the Persian Gulf, Piri Reis occupied the Qatar peninsula to deprive the Portuguese of suitable bases on the Arabian coast.
 
 He then returned to Egypt, an old man approaching the age of 90. When he refused to support the Ottoman Vali (Governor) of Basra, Kubad Pasha, in another campaign against the Portuguese in the northern Persian Gulf, Piri Reis was beheaded in 1553.
 
@@ -24,7 +24,7 @@ Several warships and submarines of the Turkish Navy have been named after Piri R
 
 _Kitab-ı Bahriye_
 
-PiriReis_IstanbulNavalMuseum.JPG]]
+]]
 
 Piri Reis is the author of the _Kitāb-ı Baḥrīye_, or "Book of the Sea", one of the most famous cartographical works of the period. The work was first published in 1521, and it was revised in 1524-1525 with additional information and better-crafted charts in order to be presented as a gift to Suleiman I. The revised edition had a total of 434 pages containing 290 maps.
 
@@ -33,8 +33,6 @@ Sources
 Although he was not an explorer and never sailed to the Atlantic, he compiled over twenty maps of Arab, Spanish, Portuguese, Chinese, Indian and older Greek origins into a comprehensive representation of the known world of his era. This work included the recently explored shores of both the African and American continents; on his first World Map of 1513, he imprinted the description "these lands and islands are drawn from the map of Columbus."[6] In his text, he also wrote that he used the "maps drawn in the time of Alexander the Great" as a source, but most likely he had mistakenly confused the 2nd-century Greek geographer Ptolemy with Alexander's general of the same name (of four and a half centuries before), since his map is similar with the Jan of Stobnica famous reproduction map of Ptolemy, printed in 1512. Ptolemy's _Geographia_ had been translated in Turkish after a personal order of Mehmed II some decades before. It can be seen that the Atlantic part of the map originates with Columbus because of the errors it contains (such as Columbus’ belief that Cuba was a continental peninsula) since at the time the manuscript was produced, the Spaniards had already been in Mexico for two years.
 
 Contents
-
-Piri_Reis_map_of_Europe_and_the_Mediterranean_Sea.jpg
 
 Apart from the maps, the book also contained detailed information on the major ports, bays, gulfs, capes, peninsulas, islands, straits and ideal shelters of the Mediterranean Sea, as well as techniques of navigation and navigation-related information on astronomy, together with information about the local people of each country and city and the curious aspects of their culture. There are thirty legends around the world map, twenty-nine in Turkish and one in Arabic; the latter gives the date as the month Muharrem of AH 919 AH (i.e. the spring of 1513) but most studies have identified the more probable date of completion as 1521.
 

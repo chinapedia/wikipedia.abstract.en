@@ -1,4 +1,4 @@
-PFC_William_B_Baugh_(ship).jpg, Florida in 2008]]Saipan_2011_362.jpg in June 2011]]
+, Florida in 2008]] in June 2011]]
 
 STRATEGIC SEALIFT SHIPS are part of the United States Military Sealift Command's (MSC) prepositioning program. There are currently 49[1][2] ships in the program, strategically positioned around the world to support the Army, Navy, Air Force, Marine Corps and Defense Logistics Agency. Most are named after Medal of Honor recipients from the service they support.[3][4][5] The ships are assigned to two[6] Military Prepositioning Ship (MPS) squadrons[7] located in the Indian Ocean at Diego Garcia and in the Western Pacific Ocean at Guam and Saipan.
 
@@ -9,7 +9,7 @@ Ships
 
 _Sergeant Matej Kocak_ class
 
-Eugene_A_Obregon_(ship).jpg The _Sergeant Matej Kocak_ class, the second class of MPS ships chartered by MSC, also gained amidships and a helicopter deck after conversion. These ships, delivered to MSC in the mid-1980s, built at Sun Shipbuilding & Drydock Co., Chester, Pennsylvania and converted at National Steel and Shipbuilding Company, San Diego. They were previously owned by Waterman Steamship Corporation but recently sold to MSC and now operated by Keystone Shipping Company.
+The _Sergeant Matej Kocak_ class, the second class of MPS ships chartered by MSC, also gained amidships and a helicopter deck after conversion. These ships, delivered to MSC in the mid-1980s, built at Sun Shipbuilding & Drydock Co., Chester, Pennsylvania and converted at National Steel and Shipbuilding Company, San Diego. They were previously owned by Waterman Steamship Corporation but recently sold to MSC and now operated by Keystone Shipping Company.
 
 -   Builder: Sun Shipbuilding & Drydock Co., Chester, PA; General Dynamics Quincy Shipbuilding Division, Quincy, Massachusetts
 -   Converted: National Steel and Shipbuilding Company, San Diego, California

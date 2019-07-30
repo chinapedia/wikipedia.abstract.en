@@ -9,7 +9,7 @@ His fiction is distinguished by its attention to the concerns, passions, and suf
 
 Early life and education
 
-JOHN_UPDIKE_CHILDHOOD_HOME,_SHILLINGTON,_BERKS_COUNTY.jpg Updike was born in Reading, Pennsylvania, the only child of Linda Grace (née Hoyer) and Wesley Russell Updike, and was raised in the nearby small town of Shillington.[5] The family later moved to the unincorporated village of Plowville. His mother's attempts to become a published writer impressed the young Updike. "One of my earliest memories", he later recalled, "is of seeing her at her desk ... I admired the writer's equipment, the typewriter eraser, the boxes of clean paper. And I remember the brown envelopes that stories would go off in—and come back in."[6]
+Updike was born in Reading, Pennsylvania, the only child of Linda Grace (née Hoyer) and Wesley Russell Updike, and was raised in the nearby small town of Shillington.[5] The family later moved to the unincorporated village of Plowville. His mother's attempts to become a published writer impressed the young Updike. "One of my earliest memories", he later recalled, "is of seeing her at her desk ... I admired the writer's equipment, the typewriter eraser, the boxes of clean paper. And I remember the brown envelopes that stories would go off in—and come back in."[6]
 
 These early years in Berks County, Pennsylvania, would influence the environment of the Rabbit Angstrom tetralogy, as well as many of his early novels and short stories.[7] Updike graduated from Shillington High School as co-valedictorian and class president in 1950 and received a full scholarship to Harvard College, where he was the roommate of Christopher Lasch during their first year.[8] Updike had already received recognition for his writing as a teenager by winning a Scholastic Art & Writing Award,[9] and at Harvard he soon became well known among his classmates as a talented and prolific contributor to _The Harvard Lampoon_, of which he served as president. He graduated _summa cum laude_ in 1954 with a degree in English and was elected to Phi Beta Kappa Society.[10]
 
@@ -91,7 +91,7 @@ British poet Gavin Ewart praised Updike for the metaphysical quality of his poet
 
 Literary criticism and art criticism
 
-Updike was also a critic of literature and art, one frequently cited as one of the best American critics of his generation.[57] In the introduction to _Picked-Up Pieces,_ his 1975 collection of prose, he listed his personal rules for literary criticism: Updike_29.jpg.]]
+Updike was also a critic of literature and art, one frequently cited as one of the best American critics of his generation.[57] In the introduction to _Picked-Up Pieces,_ his 1975 collection of prose, he listed his personal rules for literary criticism: .]]
 
   1. Try to understand what the author wished to do, and do not blame him for not achieving what he did not attempt.
 
@@ -175,7 +175,7 @@ During November 2008 the editors of the UK's _Literary Review_ magazine awarded 
 
 Themes
 
-Updikenyrb.gif'' by David Levine, who drew Updike several times.]]
+'' by David Levine, who drew Updike several times.]]
 
 The principal themes in Updike's work are religion, sex, and America[103] as well as death.[104] Often he would combine them, frequently in his favored terrain of "the American small town, Protestant middle class", of which he once said, "I like middles. It is in middles that extremes clash, where ambiguity restlessly rules."[105]
 

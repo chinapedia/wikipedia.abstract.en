@@ -1,4 +1,4 @@
-HCo(CO)4-3D-balls.png with five ligands]]
+with five ligands]]
 
 In coordination chemistry, a LIGAND is an ion or molecule (functional group) that binds to a central metal atom to form a coordination complex. The bonding with the metal generally involves formal donation of one or more of the ligand's electron pairs. The nature of metal–ligand bonding can range from covalent to ionic. Furthermore, the metal–ligand bond order can range from one to three. Ligands are viewed as Lewis bases, although rare cases are known to involve Lewis acidic "ligands".[1][2]
 
@@ -40,7 +40,7 @@ The arrangement of the d-orbitals on the central atom (as determined by the 'str
 
 In cases where the ligand has low energy LUMO, such orbitals also participate in the bonding. The metal–ligand bond can be further stabilised by a formal donation of electron density back to the ligand in a process known as _back-bonding._ In this case a filled, central-atom-based orbital donates density into the LUMO of the (coordinated) ligand. Carbon monoxide is the preeminent example a ligand that engages metals via back-donation. Complementarily, ligands with low-energy filled orbitals of pi-symmetry can serve as pi-donor.
 
-Metal-EDTA.svg complex, wherein the aminocarboxylate is a hexadentate (chelating) ligand. ]] CoA6Cl3.png ligands, which are monodentate. The chloride is not a ligand.]]
+complex, wherein the aminocarboxylate is a hexadentate (chelating) ligand. ]] ligands, which are monodentate. The chloride is not a ligand.]]
 
 
 Classification of ligands as L and X
@@ -89,7 +89,7 @@ A spectator ligand is a tightly coordinating polydentate ligand that does not pa
 
 Bulky ligands
 
-Bulky ligands are used to control the steric properties of a metal center. They are used for many reasons, both practical and academic. On the practical side, they influence the selectivity of metal catalysts, e.g., in hydroformylation. Of academic interest, bulky ligands stabilize unusual coordination sites, e.g., reactive coligands or low coordination numbers. Often bulky ligands are employed to simulate the steric protection afforded by proteins to metal-containing active sites. Of course excessive steric bulk can prevent the coordination of certain ligands. 1,3-bis(2,4,6-trimethylphenyl)imidazol-2-ylidene_(aka_IMes).png ligand called IMes is a bulky ligand by virtue of the pair of mesityl groups.]]
+Bulky ligands are used to control the steric properties of a metal center. They are used for many reasons, both practical and academic. On the practical side, they influence the selectivity of metal catalysts, e.g., in hydroformylation. Of academic interest, bulky ligands stabilize unusual coordination sites, e.g., reactive coligands or low coordination numbers. Often bulky ligands are employed to simulate the steric protection afforded by proteins to metal-containing active sites. Of course excessive steric bulk can prevent the coordination of certain ligands. ligand called IMes is a bulky ligand by virtue of the pair of mesityl groups.]]
 
 Chiral ligands
 

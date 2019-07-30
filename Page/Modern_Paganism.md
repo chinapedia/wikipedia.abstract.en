@@ -1,4 +1,4 @@
-Sveriges_Asatrosamfunds_höstblot_2009.jpg altar for Haustblot in Björkö, Sweden; the larger wooden idol represents the god Frey.]] MODERN PAGANISM, also known as CONTEMPORARY PAGANISM and NEOPAGANISM, is a collective term for new religious movements influenced by or derived from the various historical pagan beliefs of pre-modern Europe, North Africa and the Near East. Although they do share similarities, contemporary Pagan religious movements are diverse, and no single set of beliefs, practices or texts are shared by them all. Most academics studying the phenomenon have treated it as a movement of different religions, whereas a minority instead characterise it as a single religion into which different Pagan faiths fit as denominations. Not all members of faiths or beliefs regarded as Neopagan self-identify as "Pagan".
+altar for Haustblot in Björkö, Sweden; the larger wooden idol represents the god Frey.]] MODERN PAGANISM, also known as CONTEMPORARY PAGANISM and NEOPAGANISM, is a collective term for new religious movements influenced by or derived from the various historical pagan beliefs of pre-modern Europe, North Africa and the Near East. Although they do share similarities, contemporary Pagan religious movements are diverse, and no single set of beliefs, practices or texts are shared by them all. Most academics studying the phenomenon have treated it as a movement of different religions, whereas a minority instead characterise it as a single religion into which different Pagan faiths fit as denominations. Not all members of faiths or beliefs regarded as Neopagan self-identify as "Pagan".
 
 Adherents rely on pre-Christian, folkloric and ethnographic sources to a variety of degrees; many follow a spirituality which they accept as being entirely modern, while others attempt to reconstruct or revive indigenous, ethnic religions as found in historical and folkloric sources as accurately as possible.[1] Academic research has placed the Pagan movement along a spectrum, with Eclecticism on one end and Polytheistic Reconstructionism on the other. Polytheism, animism and pantheism are common features in Pagan theology. Rituals take place in both public and in private domestic settings.
 
@@ -15,7 +15,7 @@ Contemporary Paganism has been defined as "a collection of modern religious, spi
 
 Discussing the relationship between the different Pagan religions, religious studies scholars Kaarina Aitamurto and Scott Simpson stated that they were "like siblings who have taken different paths in life but still retain many visible similarities". However, while viewing different forms of Paganism as distinct religions in their own right, there has been much "cross-fertilization" between these different faiths. Accordingly, many groups have exerted an influence on, and in turn have been influenced by, other Pagan religions, thus making clear-cut distinctions between them more difficult for religious studies scholars to make. The various Pagan religions have been academically classified as new religious movements, with the anthropologist Kathryn Rountree describing Paganism as a whole as a "new religious phenomenon". A number of academics, particularly in North America, have considered modern Paganism to be a form of nature religion.
 
-Vårblot_2010_offergåvor.jpg, Sweden, 2010]]
+, Sweden, 2010]]
 
 Some practitioners eschew the term "Pagan" altogether, choosing not to define themselves as such, but rather under the more specific name of their religion, like Heathen or Wiccan. This is because the term "Pagan" has its origins in Christian terminology, which the Pagans wish to avoid. Some favor the term "ethnic religion" over "Paganism" – for instance the World Pagan Congress, founded in 1998, soon renamed itself the European Congress of Ethnic Religions – enjoying that term's association with the Greek _ethnos_ and the academic field of ethnology. Within linguistically Slavic areas of Europe, the term "Native Faith" is often favored as a synonym for Paganism, being rendered as _Ridnovirstvo_ in Ukrainian, _Rodnoverie_ in Russian, and _Rodzimowierstwo_ in Polish. Alternately, many practitioners within these regions view "Native Faith" as a category that exists within modern Paganism but which does not encompass all Pagan religions. Other terms sometimes favored by Pagans are "traditional religion", "indigenous religion", "nativist religion", and "reconstructionism".
 
@@ -25,7 +25,7 @@ Reappropriation of "paganism"
 
 Many scholars have favored the use of "Neopaganism" to describe this phenomenon, with the prefix "neo-" serving to clearly distinguish the modern religions from their ancient, pre-Christian counterparts. Some Pagan practitioners also prefer "Neopaganism", believing that the prefix conveys the reformed nature of the religion, including for instance its rejection of superstition and animal sacrifice. Conversely, most Pagans do not use the word "Neopagan", with some expressing disapproval of it, arguing that the term "neo" offensively disconnects them from what they perceive as their pre-Christian forebears. Accordingly, to avoid causing offense many scholars in the English-speaking world have begun using the prefixes "modern" or "contemporary" rather than "neo". Several academics operating in Pagan studies, such as Ronald Hutton and Sabina Magliocco, have emphasized the use of the upper-case "Paganism" to distinguish the modern movement from the lower-case "paganism", a term which is commonly used for pre-Christian belief systems. In 2015, Rountree stated that this lower case/upper case division was "now [the] convention" in Pagan studies.
 
-The_Parthenon_in_Athens.jpg, an ancient pre-Christian temple in Athens dedicated to the goddess Athena. Strmiska believed that modern Pagans in part reappropriate the term "pagan" to honor the cultural achievements of Europe's pre-Christian societies]]
+, an ancient pre-Christian temple in Athens dedicated to the goddess Athena. Strmiska believed that modern Pagans in part reappropriate the term "pagan" to honor the cultural achievements of Europe's pre-Christian societies]]
 
 The term "neo-pagan" was coined in the 19th century in reference to Renaissance and Romanticist Hellenophile classical revivalism.[2] By the mid-1930s the term "Neopagan" was being applied to new religious movements like Jakob Wilhelm Hauer's German Faith Movement and Jan Stachniuk's Polish Zadruga, usually by outsiders and often in a pejorative sense. Pagan as a self-designation appeared in 1964 and 1965, in the publications of the Witchcraft Research Association; at that time, the term was in use by revivalist Witches in the United States and the United Kingdom, but unconnected to the broader, counter-culture Pagan movement. The modern popularisation of the terms pagan and neopagan, as they are currently understood, is largely traced to Oberon Zell-Ravenheart, co-founder of the 1st Neo-Pagan Church of All Worlds who, beginning in 1967 with the early issues of _Green Egg_, used both terms for the growing movement. This usage has been common since the pagan revival in the 1970s.
 
@@ -36,7 +36,7 @@ Divisions
 
 Ethnicity and region
 
-Pagan_religions_symbols_-_4_rows.png For some Pagan groups, ethnicity is central to their religion, and they often restrict membership to those who are of the same ethnic group as themselves. Critics of this position have described this exclusionary approach as a form of racism. Alternately, other Pagan groups allow individuals of any ethnicity to join them, expressing the view that the gods and goddesses of a particular region can call anyone to their worship. Sometimes such individuals express the view that they feel a particular affinity for the pre-Christian belief systems of a particular region with which they have no ethnic link because they see themselves as the reincarnation of an individual from that society. There is a greater focus on ethnicity within the Pagan movements of continental Europe than in those in North America and the British Isles. Such ethnic Paganisms have varyingly been seen as responses to concerns regarding foreign colonizing ideologies, globalization, cosmopolitanism, and anxieties about cultural erosion. Ethnically restricted groups will face challenges to their attitudes as Eastern and Northern Europe become increasingly ethnically diverse through migration and inter-marriage.
+For some Pagan groups, ethnicity is central to their religion, and they often restrict membership to those who are of the same ethnic group as themselves. Critics of this position have described this exclusionary approach as a form of racism. Alternately, other Pagan groups allow individuals of any ethnicity to join them, expressing the view that the gods and goddesses of a particular region can call anyone to their worship. Sometimes such individuals express the view that they feel a particular affinity for the pre-Christian belief systems of a particular region with which they have no ethnic link because they see themselves as the reincarnation of an individual from that society. There is a greater focus on ethnicity within the Pagan movements of continental Europe than in those in North America and the British Isles. Such ethnic Paganisms have varyingly been seen as responses to concerns regarding foreign colonizing ideologies, globalization, cosmopolitanism, and anxieties about cultural erosion. Ethnically restricted groups will face challenges to their attitudes as Eastern and Northern Europe become increasingly ethnically diverse through migration and inter-marriage.
 
 Although acknowledging that it was "a highly simplified model", Aitamurto and Simpson commented that there was "some truth" to the claim that leftist-oriented forms of Paganism were prevalent in North America and the British Isles, whereas rightist-oriented forms of Paganism were prevalent in Central and Eastern Europe. They noted that in these latter regions, Pagan groups placed an emphasis on "the centrality of the nation, the ethnic group, or the tribe". Rountree stated that it was wrong to assume that "expressions of Paganism can be categorized straight-forwardly according to region", although acknowledged that some regional trends were visible, such as the impact of Catholicism on Paganism in Southern Europe.
 
@@ -62,7 +62,7 @@ Eclectic Paganism takes an undogmatic religious stance, and therefore potentiall
 
 Beliefs
 
-Romuvan_ceremony_(1).PNG priestess Inija Trinkūnienė leading a ritual]]
+priestess Inija Trinkūnienė leading a ritual]]
 
 Beliefs and practices vary widely among different Pagan groups; however, there are a series of core principles common to most, if not all, forms of modern paganism. The English academic Graham Harvey noted that Pagans "rarely indulge in theology".
 
@@ -80,7 +80,7 @@ Pagan religions commonly exhibit a metaphysical concept of an underlying order t
 
 Animism and pantheism
 
-Zemaiciu_Alka_(Samogitian_Alka).jpg, a reconstruction of a medieval pagan observatory in Šventoji, Lithuania used by the modern Romuvans]]
+, a reconstruction of a medieval pagan observatory in Šventoji, Lithuania used by the modern Romuvans]]
 
 A key part of most Pagan worldviews is the holistic concept of a universe that is interconnected. This is connected with a belief in either pantheism or panentheism. In both beliefs, divinity and the material or spiritual universe are one. For pagans, pantheism means that "divinity is inseparable from nature and that deity is immanent in nature".
 
@@ -90,12 +90,12 @@ Another pivotal belief in the contemporary Pagan movement is that of animism. Th
 
 Animism was also a concept common to many pre-Christian European religions, and in adopting it, contemporary Pagans are attempting to "reenter the primeval worldview" and participate in a view of cosmology "that is not possible for most Westerners after childhood".
 
-Horned_God_and_Mother_Goddess_(Doreen_Valiente's_Altar).jpg altar belonging to Doreen Valiente, displaying the Wiccan view of sexual duality in divinity]] Such views have also led many pagans to revere the planet Earth as Mother Earth, who is often referred to as Gaia after the ancient Greek goddess of the Earth.
+altar belonging to Doreen Valiente, displaying the Wiccan view of sexual duality in divinity]] Such views have also led many pagans to revere the planet Earth as Mother Earth, who is often referred to as Gaia after the ancient Greek goddess of the Earth.
 
 
 Practices
 
-Sigurblót_2009.JPG and other members of the Icelandic Ásatrúarfélagið conduct a _blót_ on the First Day of Summer in 2009]]
+and other members of the Icelandic Ásatrúarfélagið conduct a _blót_ on the First Day of Summer in 2009]]
 
 Ritual
 
@@ -107,7 +107,7 @@ Domestic worship typically takes place in the home and is carried out by either 
 
 Festival
 
-Wheel_of_the_Year.JPG, Boscastle, Cornwall, England, displaying all eight of the Sabbats]]
+, Boscastle, Cornwall, England, displaying all eight of the Sabbats]]
 
 Paganism's public rituals are generally calendrical, although the pre-Christian festivals that Pagans use as a basis varied across Europe. Nevertheless, common to almost all Pagan religions is an emphasis on an agricultural cycle and respect for the dead. Common Pagan festivals include those marking the summer solstice and winter solstice as well as the start of spring and the harvest. In Wicca, a Wheel of the Year has been developed which typically involves eight seasonal festivals.
 
@@ -128,7 +128,7 @@ The Romantic movement of the 18th century led to the re-discovery of Old Gaelic 
 
 Early 20th century
 
-Memorial_for_Dievturi_(Latvian_pagan)_victims_of_Soviet_rule_1942-1952,_Forest_Cemetery,_Riga,_Latvia.jpg of Riga to Latvian Dievturi killed by the Communists 1942–1952.]]
+of Riga to Latvian Dievturi killed by the Communists 1942–1952.]]
 
 The rise of modern Paganism was aided by the decline in Christianity throughout many parts of Europe and North America, as well as by the concomitant decline in enforced religious conformity and greater freedom of religion that developed, allowing people to explore a wider range of spiritual options and form religious organisations that could operate free from legal persecution.
 
@@ -155,7 +155,7 @@ Adherents of the Goddess Spirituality movement typically envision a history of t
 
 Heathenry
 
-Nordiska_gudabilder_vid_julgille.jpg, Sweden]] Heathenism, also known as Germanic Neopaganism, refers to a series of contemporary Pagan traditions that are based upon the historical religions, culture and literature of Germanic-speaking Europe. Heathenry is spread out across north-western Europe, and also North America and Australasia, where the descendants of historic Germanic-speaking people now live.
+, Sweden]] Heathenism, also known as Germanic Neopaganism, refers to a series of contemporary Pagan traditions that are based upon the historical religions, culture and literature of Germanic-speaking Europe. Heathenry is spread out across north-western Europe, and also North America and Australasia, where the descendants of historic Germanic-speaking people now live.
 
 Many Heathen groups adopt variants of Norse mythology as a basis to their beliefs, conceiving of the Earth as being situated on a great world tree called Yggdrasil. Heathens believe in multiple polytheistic deities, all adopted from historical Germanic mythologies. The majority of Heathens are polytheistic realists, believing that the deities are real entities, while others view them as Jungian archetypes.
 
@@ -179,7 +179,7 @@ In 1925, the Czech esotericist Franz Sättler founded a pagan religion known as 
 
 LGBT paganism
 
-Radical_Faeries_2010_London_Pride.jpg The western LGBTQ community, often marginalized and/or outright rejected by the Abrahamic-predominant mainstream religious establishments, has often sought spiritual acceptance and association in neopagan religious/spiritual practice. As pagan-specializing religious scholar Christine Hoff Kraemer wrote, "Pagans tend to be relatively accepting of same-sex relationships, BDSM, polyamory, transgender, and other expressions of gender and sexuality that are marginalized by mainstream society." Conflict naturally arises, however, as some neopagan belief systems and sect ideologies stem from fundamental beliefs in the male-female gender binary, heterosexual pairing, resulting heterosexual reproduction, and often gender essentialism.[14][15]
+The western LGBTQ community, often marginalized and/or outright rejected by the Abrahamic-predominant mainstream religious establishments, has often sought spiritual acceptance and association in neopagan religious/spiritual practice. As pagan-specializing religious scholar Christine Hoff Kraemer wrote, "Pagans tend to be relatively accepting of same-sex relationships, BDSM, polyamory, transgender, and other expressions of gender and sexuality that are marginalized by mainstream society." Conflict naturally arises, however, as some neopagan belief systems and sect ideologies stem from fundamental beliefs in the male-female gender binary, heterosexual pairing, resulting heterosexual reproduction, and often gender essentialism.[14][15]
 
 In response, groups and sects inclusive-of or specific-to LGBTQ people have developed. Theologian Jone Salomonsen noted in the 1980s and 1990s that the Reclaiming movement of San Francisco featured an usually high number of LGBTQ individuals, particularly bisexual individuals. Margot Adler noted groups whose practices focused on male homosexuality, such as Eddie Buczynski's Minoan Brotherhood, a Wiccan sect that combines the iconography from ancient Minoan religion with a Wiccan theology and an emphasis on men-loving-men, and the eclectic pagan group known as the Radical Faeries. When Adler asked one gay male pagan what the pagan community offered members of the LGBTQ community, the reply was "A place to belong. Community. Acceptance. And a way to connect with all kinds of people, gay, bi, straight, celibate, transgender, in a way that is hard to do in the greater society."[16]
 
@@ -189,11 +189,11 @@ Trans exclusion can be found in Alexandrian Wicca as well, whose founder paints 
 
 Reconstructionism
 
-Svetoary_community_celebrating_Mokosh_2016.jpg celebrating Mokosh.]] In contrast to the eclectic traditions, Polytheistic Reconstructionists practice culturally specific, ethnic traditions, basing their practices on the surviving folklore, traditional songs and prayers, as well as reconstructions from the historical record. Thus, Hellenic, Roman, Kemetic, Celtic, Germanic, Guanche, Baltic and Slavic Reconstructionists aim for the preservation and revival of historical practices and beliefs of Ancient Greece, Ancient Rome, Ancient Egypt, the Celts, the Germanic peoples, the Guanche people, the Balts and the Slavs, respectively.[21][22][23]
+celebrating Mokosh.]] In contrast to the eclectic traditions, Polytheistic Reconstructionists practice culturally specific, ethnic traditions, basing their practices on the surviving folklore, traditional songs and prayers, as well as reconstructions from the historical record. Thus, Hellenic, Roman, Kemetic, Celtic, Germanic, Guanche, Baltic and Slavic Reconstructionists aim for the preservation and revival of historical practices and beliefs of Ancient Greece, Ancient Rome, Ancient Egypt, the Celts, the Germanic peoples, the Guanche people, the Balts and the Slavs, respectively.[21][22][23]
 
 Wicca and modern witchcraft
 
-Mabon-Fall_Equinox_2015_Altar_by_the_Salt_Lake_Pagan_Society,_Salt_Lake_City,_UT.jpg Wicca is the largest form of modern Paganism, as well as the best known form, and the most extensively studied by academics.
+Wicca is the largest form of modern Paganism, as well as the best known form, and the most extensively studied by academics.
 
 The scholar of religious studies Graham Harvey noted that a poem known as the Charge of the Goddess remains central to the liturgy of most Wiccan groups. Originally written by Wiccan High Priestess Doreen Valiente in the mid-1950s, Harvey noted that the recitation of the Charge in the midst of ritual allows Wiccans to gain wisdom and experience deity in "the ordinary things in life".
 
@@ -218,7 +218,7 @@ Establishing precise figures on Paganism is difficult. Due to the secrecy and fe
 
 Europe
 
-Paganavebury.jpg ceremony at Avebury in England.]]
+ceremony at Avebury in England.]]
 
 Neopagan and other folk religion movements have gained a significant following on the eastern fringes of Europe, especially in the Caucasus and the Volga region.
 
@@ -237,8 +237,6 @@ Western Europe
 A study by Ronald Hutton compared a number of different sources (including membership lists of major UK organizations, attendance at major events, subscriptions to magazines, etc.) and used standard models for extrapolating likely numbers. This estimate accounted for multiple membership overlaps as well as the number of adherents represented by each attendee of a pagan gathering. Hutton estimated that there are 250,000 neopagan adherents in the United Kingdom, roughly equivalent to the national Hindu community.
 
 A smaller number is suggested by the results of the 2001 Census, in which a question about religious affiliation was asked for the first time. Respondents were able to write in an affiliation not covered by the checklist of common religions, and a total of 42,262 people from England, Scotland and Wales declared themselves to be Pagans by this method. These figures were not released as a matter of course by the Office for National Statistics, but were released after an application by the Pagan Federation of Scotland.[42] This is more than many well known traditions such as Rastafarian, Bahá'í and Zoroastrian groups, but fewer than the big six of Christianity, Islam, Hinduism, Sikhism, Judaism and Buddhism. It is also fewer than the adherents of Jediism, whose campaign made them the fourth largest religion after Christianity, Islam and Hinduism.[43]
-
-Hellen_ritual_(2).jpg
 
 The 2001 UK Census figures did not allow an accurate breakdown of traditions within the Pagan heading, as a campaign by the Pagan Federation before the census encouraged Wiccans, Heathens, Druids and others all to use the same write-in term 'Pagan' in order to maximise the numbers reported. The 2011 census however made it possible to describe oneself as Pagan-Wiccan, Pagan-Druid and so on. The figures for England and Wales showed 80,153 describing themselves as Pagan (or some subgroup thereof.) The largest subgroup was Wicca, with 11,766 adherents.[44] The overall numbers of people self-reporting as Pagan rose between 2001 and 2011. In 2001 about seven people per 10,000 UK respondents were pagan; in 2011 the number (based on the England and Wales population) was 14.3 people per 10,000 respondents.
 
@@ -319,8 +317,6 @@ Paganism in society
 Propagation
 
 Based upon her study of the pagan community in the United States, the sociologist Margot Adler noted that it is rare for Pagan groups to proselytize in order to gain new converts to their faiths. Instead, she argued that "in most cases", converts first become interested in the movement through "word of mouth, a discussion between friends, a lecture, a book, an article or a Web site". She went on to put forward the idea that this typically confirmed "some original, private experience, so that the most common experience of those who have named themselves pagan is something like 'I finally found a group that has the same religious perceptions I always had{{' "}}. A practicing Wiccan herself, Adler used her own conversion to paganism as a case study, remarking that as a child she had taken a great interest in the gods and goddesses of ancient Greece, and had performed her own devised rituals in dedication to them. When she eventually came across the Wiccan religion many years later, she then found that it confirmed her earlier childhood experiences, and that "I never converted in the accepted sense. I simply accepted, reaffirmed, and extended a very old experience."
-
-Heathen_altar.png
 
 Folklorist Sabina Magliocco supported this idea, noting that a great many of those Californian Pagans whom she interviewed claimed that they had been greatly interested in mythology and folklore as children, imagining a world of "enchanted nature and magical transformations, filled with lords and ladies, witches and wizards, and humble but often wise peasants". Magliocco noted that it was this world that pagans "strive to re-create in some measure". Further support for Adler's idea came from American Wiccan priestess Judy Harrow, who noted that among her comrades, there was a feeling that "you don't _become_ pagan, you discover that you always were". They have also been supported by Pagan studies scholar Graham Harvey.
 

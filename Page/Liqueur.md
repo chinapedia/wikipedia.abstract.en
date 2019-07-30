@@ -1,4 +1,4 @@
-Benedictine_01_08.jpg is a traditional French herbal liqueur]]
+is a traditional French herbal liqueur]]
 
 A LIQUEUR (, ) is an alcoholic drink flavored variously by fruits, herbs, spices, flowers, nuts or cream combined with distilled spirits. Often served with or after dessert, they are typically heavily sweetened and un-aged beyond a resting period during production, when necessary, for their flavors to mingle.
 
@@ -39,7 +39,7 @@ Anise and Rakı liqueurs have the property of turning from transparent to cloudy
 
 Use
 
-Cocktail_B52.jpg is a layered drink prepared using Grand Marnier atop Irish cream over a base of coffee liqueur]]
+is a layered drink prepared using Grand Marnier atop Irish cream over a base of coffee liqueur]]
 
 Cocktails
 

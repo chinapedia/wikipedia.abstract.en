@@ -1,5 +1,3 @@
-Hawaiianislandchain_USGS.png
-
 MIDWAY ATOLL (colloquial: MIDWAY ISLANDS; Hawaiian: _Pihemanu Kauihelani_) is a atoll in the North Pacific Ocean at . Midway is roughly equidistant between North America and Asia. Midway Atoll is an unorganized, unincorporated territory of the United States. Midway continues to be the only island in the Hawaiian archipelago that is not part of the state of Hawaii.[1] Unlike the other Hawaiian islands, Midway observes Samoa Time (UTC−11:00, i.e., eleven hours behind Coordinated Universal Time), which is one hour behind the time in the state of Hawaii. For statistical purposes, Midway is grouped as one of the United States Minor Outlying Islands. The MIDWAY ATOLL NATIONAL WILDLIFE REFUGE, encompassing [2] of land and water in the surrounding area, is administered by the United States Fish and Wildlife Service (FWS). The refuge and most of its surrounding area are part of the larger Papahānaumokuākea Marine National Monument.
 
 Until 1993, the atoll was the home of the Naval Air Facility Midway Island. The Battle of Midway, which was fought between June 4 and 6, 1942, was a critical Allied victory of the Pacific campaign of World War II. The United States Navy successfully defended the atoll from a Japanese invasion, defeating a Japanese battle group, marking a turning point in the war in the Pacific Theater. USAAF aircraft based at the original Henderson Field on Eastern Island joined the attack against the Japanese fleet, which suffered losses of four carriers and one heavy cruiser.
@@ -54,13 +52,11 @@ Midway has no indigenous inhabitants and was uninhabited until the 19th century.
 
 The atoll was sighted on July 5, 1859, by Captain N.C. Middlebrooks, commonly known as Captain Brooks, of the sealing ship _Gambia_. The islands were named the "Middlebrook Islands" or the "Brook Islands". Brooks claimed Midway for the United States under the Guano Islands Act of 1856, which authorized Americans to occupy uninhabited islands temporarily to obtain guano. There is no record of any attempt to mine guano on the island. On August 28, 1867, Captain William Reynolds of the formally took possession of the atoll for the United States;[15] the name changed to "Midway" some time after this. The atoll was the first Pacific island annexed by the United States, as the Unincorporated Territory of Midway Island, and was administered by the United States Navy.
 
-Starr_080531-4733_Midway_Island_Cable_station_building_(nb_643)_in_May_2008_with_cocos_nucifera.jpg date back to 1903 (2008).]]
+date back to 1903 (2008).]]
 
 The first attempt at settlement was in 1871, when the Pacific Mail Steamship Company started a project of blasting and dredging a ship channel through the reef to the lagoon using money put up by the United States Congress. The purpose was to establish a mid-ocean coaling station to avoid the high taxes imposed at ports controlled by the Hawaiians. The project was shortly a complete failure, and the evacuated the last of the channel project's work force in October 1871. The ship ran aground at Kure Atoll, stranding everyone. All were rescued, with the exception of four of the five persons who sailed to Kauai in an open boat to seek help.
 
 Early 20th century
-
-Aerial_view_of_Midway_Atoll_on_24_November_1941_(80-G-451086).jpg
 
 In 1903, workers for the Commercial Pacific Cable Company took up residence on the island as part of the effort to lay a trans-Pacific telegraph cable. These workers introduced many non-native species to the island, including the canary, cycad, Norfolk Island pine, she-oak, coconut, and various deciduous trees; along with ants, cockroaches, termites, centipedes, and countless others.
 
@@ -120,7 +116,7 @@ In 2007, the Monument's name was changed to Papahānaumokuākea () Marine Nation
 
 Environment
 
-US_Navy_100602-N-7498L-021_More_than_a_million_Laysan_Albatrosses_occupy_the_entire_Midway_atoll.jpges at Midway Atoll]]Midway Atoll is a critical habitat in the central Pacific Ocean which includes breeding habitat for 17 seabird species. A number of native species rely on the island, which is now home to 67–70% of the world's Laysan albatross population, and 34–39% of the global population of black-footed albatross.[37] A very small number of the very rare short-tailed albatross also have been observed. Fewer than 2,200 individuals of this species are believed to exist due to excessive feather hunting in the late nineteenth century.[38] In 2007-8, the US Fish and Wildlife Service translocated 42 endangered Laysan ducks to the atoll as part of their efforts to conserve the species.
+es at Midway Atoll]]Midway Atoll is a critical habitat in the central Pacific Ocean which includes breeding habitat for 17 seabird species. A number of native species rely on the island, which is now home to 67–70% of the world's Laysan albatross population, and 34–39% of the global population of black-footed albatross.[37] A very small number of the very rare short-tailed albatross also have been observed. Fewer than 2,200 individuals of this species are believed to exist due to excessive feather hunting in the late nineteenth century.[38] In 2007-8, the US Fish and Wildlife Service translocated 42 endangered Laysan ducks to the atoll as part of their efforts to conserve the species.
 
 Over 250 different species of marine life are found in the of lagoon and surrounding waters. The critically endangered Hawaiian monk seals raise their pups on the beaches, relying on the atoll's reef fish, squid, octopus and crustaceans. Green sea turtles, another threatened species, occasionally nest on the island. The first was found in 2006 on Spit Island and another in 2007 on Sand Island. A resident pod of 300 spinner dolphins live in the lagoons and nearshore waters.[39]
 
@@ -131,8 +127,6 @@ A number of invasive exotics have been introduced; for example, ironwood trees f
 Lead paint on the buildings still poses an environmental hazard (avian lead poisoning) to the albatross population of the island. The cost of stripping the paint is estimated to be $5 million.[40] Paint removal is expected to be finished by 2017.[41]
 
 Pollution
-
-Starr_080603-5640_Tournefortia_argentea.jpg
 
 Midway Atoll, in common with all the Hawaiian Islands, receives substantial amounts of marine debris from the Great Pacific Garbage Patch. Consisting of ninety percent plastic, this debris accumulates on the beaches of Midway. This garbage represents a hazard to the bird population of the island. Twenty tons of plastic debris washes up on Midway every year, with five tons of that debris being fed to Albatross chicks.[42] The U.S. Fish & Wildlife Service estimates at least of plastic washes up every week.[43]
 

@@ -27,7 +27,7 @@ After leaving Davis, Carter was for several years a mainstay of CTI Records, mak
 
 1990s–2000s
 
-Ron_Carter_photo_1.jpg In 1993, he won a Grammy Award for Best Jazz Instrumental Group and another Grammy in 1998 for "an instrumental composition for the film" _Round Midnight_.[6] He appears on the alternative hip hop group A Tribe Called Quest's influential album _The Low End Theory_ on a track called "Verses from the Abstract". He appeared as a member of the jazz combo the Classical Jazz Quartet. In 1994, Carter appeared on the Red Hot Organization's compilation album, _Stolen Moments: Red Hot + Cool_.
+In 1993, he won a Grammy Award for Best Jazz Instrumental Group and another Grammy in 1998 for "an instrumental composition for the film" _Round Midnight_.[6] He appears on the alternative hip hop group A Tribe Called Quest's influential album _The Low End Theory_ on a track called "Verses from the Abstract". He appeared as a member of the jazz combo the Classical Jazz Quartet. In 1994, Carter appeared on the Red Hot Organization's compilation album, _Stolen Moments: Red Hot + Cool_.
 
 The album, meant to raise awareness and funds in support of the AIDS epidemic in relation to the African-American community, was heralded as "Album of the Year" by _TIME_. In 2001, Carter collaborated with Black Star and John Patton to record "Money Jungle" for the Red Hot Organization's compilation album, _Red Hot + Indigo_, a tribute to Duke Ellington.
 

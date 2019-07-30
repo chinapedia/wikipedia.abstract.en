@@ -9,7 +9,7 @@ In addition to the Mainland, most of the islands are in two groups, the North an
 
 Etymology
 
-Blaeu_-_Atlas_of_Scotland_1654_-_ORCADVM_ET_SCHETLANDIÆ_-_Orkney_and_Shetland.jpg 1654 map of Orkney and Shetland. Map makers at this time continued to use the original Latin name "Orcades" .]]
+1654 map of Orkney and Shetland. Map makers at this time continued to use the original Latin name "Orcades" .]]
 
 Pytheas of Massilia visited Britain – probably sometime between 322 and 285 BC – and described it as triangular in shape, with a northern tip called _Orcas_.[10] This may have referred to Dunnet Head, from which Orkney is visible.[11] Writing in the 1st century AD, the Roman geographer Pomponius Mela called the islands __, as did Tacitus in 98 AD, claiming that his father-in-law Agricola had "discovered and subjugated the Orcades hitherto unknown"[12][13] (although both Mela and Pliny had previously referred to the islands[14]). Etymologists usually interpret the element __ as a Pictish tribal name meaning "young pig" or "young boar".{{#tag:ref|The proto-Celtic root __, can mean either pig or salmon, thus giving an alternative of "island(s) of (the) salmon".[15]|group="Notes"}}[16] Speakers of Old Irish referred to the islands as __ "island of the pigs".[17][18] The archipelago is known as __ in modern Welsh and __ in modern Scottish Gaelic, the __ representing a fossilized prepositional case ending.
 
@@ -24,7 +24,7 @@ The Norse knew Mainland, Orkney as __ "Mainland" or as __ "Horse Island".[24] Th
 
 History
 
-RingofBrodgarJM.jpg, on the island of Mainland, Orkney]]
+, on the island of Mainland, Orkney]]
 
 Prehistory
 
@@ -34,7 +34,7 @@ During the Bronze Age fewer large stone structures were built although the great
 
 Iron Age
 
-Midhowe_Broch.jpg on the west coast of Rousay]]
+on the west coast of Rousay]]
 
 Excavations at Quanterness on the Mainland have revealed an Atlantic roundhouse built about 700 BC and similar finds have been made at Bu on the Mainland and Pierowall Quarry on Westray.[38] The most impressive Iron Age structures of Orkney are the ruins of later round towers called "brochs" and their associated settlements such as the Broch of Burroughston[39] and Broch of Gurness. The nature and origin of these buildings is a subject of ongoing debate. Other structures from this period include underground storehouses, and aisled roundhouses, the latter usually in association with earlier broch sites.[40][41]
 
@@ -44,21 +44,21 @@ By the late Iron Age, Orkney was part of the Pictish kingdom, and although the a
 
 Norwegian rule
 
-Flateyjarbok_Haraldr_Halfdan.jpg'', Harald Fairhair (on the left) took control of Orkney in 875.]] Both Orkney and Shetland saw a significant influx of Norwegian settlers during the late 8th and early 9th centuries. Vikings made the islands the headquarters of their pirate expeditions carried out against Norway and the coasts of mainland Scotland. In response, Norwegian king Harald Fairhair (Harald Hårfagre) annexed the Northern Isles, comprising Orkney and Shetland, in 875. (It is clear that this story, which appears in the _Orkneyinga Saga_, is based on the later voyages of Magnus Barelegs and some scholars believe it to be apocryphal.)[51] Rognvald Eysteinsson received Orkney and Shetland from Harald as an earldom as reparation for the death of his son in battle in Scotland, and then passed the earldom on to his brother Sigurd the Mighty.[52]
+'', Harald Fairhair (on the left) took control of Orkney in 875.]] Both Orkney and Shetland saw a significant influx of Norwegian settlers during the late 8th and early 9th centuries. Vikings made the islands the headquarters of their pirate expeditions carried out against Norway and the coasts of mainland Scotland. In response, Norwegian king Harald Fairhair (Harald Hårfagre) annexed the Northern Isles, comprising Orkney and Shetland, in 875. (It is clear that this story, which appears in the _Orkneyinga Saga_, is based on the later voyages of Magnus Barelegs and some scholars believe it to be apocryphal.)[51] Rognvald Eysteinsson received Orkney and Shetland from Harald as an earldom as reparation for the death of his son in battle in Scotland, and then passed the earldom on to his brother Sigurd the Mighty.[52]
 
-However, Sigurd's line barely survived him and it was Torf-Einarr, Rognvald's son by a slave, who founded a dynasty that controlled the islands for centuries after his death.[53]{{#tag:ref|Sigurd The Mighty's son Gurthorm ruled for a single winter after Sigurd's death and died childless. Rognvald's son Hallad inherited the title but, unable to constrain Danish raids on Orkney, he gave up the earldom and returned to Norway, which according to the _Orkneyinga Saga_ "everyone thought was a huge joke."[54]|group="Notes"}} He was succeeded by his son Thorfinn Skull-splitter and during this time the deposed Norwegian King Eric Bloodaxe often used Orkney as a raiding base before being killed in 954. Thorfinn's death and presumed burial at the broch of Hoxa, on South Ronaldsay, led to a long period of dynastic strife.[55][56] Peter_nicolai_arbo,_olaf_tryggvasson_king.jpg of Norway, who forcibly Christianised Orkney.[57] Painting by Peter Nicolai Arbo.]]
+However, Sigurd's line barely survived him and it was Torf-Einarr, Rognvald's son by a slave, who founded a dynasty that controlled the islands for centuries after his death.[53]{{#tag:ref|Sigurd The Mighty's son Gurthorm ruled for a single winter after Sigurd's death and died childless. Rognvald's son Hallad inherited the title but, unable to constrain Danish raids on Orkney, he gave up the earldom and returned to Norway, which according to the _Orkneyinga Saga_ "everyone thought was a huge joke."[54]|group="Notes"}} He was succeeded by his son Thorfinn Skull-splitter and during this time the deposed Norwegian King Eric Bloodaxe often used Orkney as a raiding base before being killed in 954. Thorfinn's death and presumed burial at the broch of Hoxa, on South Ronaldsay, led to a long period of dynastic strife.[55][56] of Norway, who forcibly Christianised Orkney.[57] Painting by Peter Nicolai Arbo.]]
 
 Initially a pagan culture, detailed information about the turn to the Christian religion to the islands of Scotland during the Norse-era is elusive.[58] The _Orkneyinga Saga_ suggests the islands were Christianised by Olaf Tryggvasson in 995 when he stopped at South Walls on his way from Ireland to Norway. The King summoned the _jarl_ Sigurd the Stout{{#tag:ref|Sigurd the Stout was Thorfinn Skull-splitter's grandson.|group="Notes"}} and said, "I order you and all your subjects to be baptised. If you refuse, I'll have you killed on the spot and I swear I will ravage every island with fire and steel." Unsurprisingly, Sigurd agreed and the islands became Christian at a stroke,[59] receiving their own bishop in the early 11th century.{{#tag:ref|The first recorded bishop was Henry of Lund (also known as "the Fat") who was appointed sometime prior to 1035.[60] The bishopric appears to have been under the authority of the Archbishops of York and of Hamburg-Bremen at different times during the early period and from the mid twelfth century to 1472 was subordinate to the Archbishop of Nidaros (today's Trondheim).[61]|group="Notes"}}{{#tag:ref|When the sagas were written down Orkney had been Christian for 200 years or more[62] and this conversion tale has been described as "blatantly unhistorical".[63]|group="Notes"}}
 
 Thorfinn the Mighty was a son of Sigurd and a grandson of King Máel Coluim mac Cináeda (Malcolm II of Scotland). Along with Sigurd's other sons he ruled Orkney during the first half of the 11th century and extended his authority over a small maritime empire stretching from Dublin to Shetland. Thorfinn died around 1065 and his sons Paul and Erlend succeeded him, fighting at the Battle of Stamford Bridge in 1066.[64] Paul and Erlend quarreled as adults and this dispute carried on to the next generation. The martyrdom of Magnus Erlendsson, who was killed in April 1116 by his cousin Haakon Paulsson, resulted in the building of St. Magnus Cathedral, still today a dominating feature of Kirkwall.{{#tag:ref|The Scandinavian peoples, relatively recent converts to Christianity, had a tendency to confer martyrdom and sainthood on leading figures of the day who met violent deaths. Magnus and Haakon Paulsson had been co-rulers of Orkney, and although he had a reputation for piety, there is no suggestion that Magnus died for his Christian faith.[65]|group="Notes"}}{{#tag:ref|"St Magnus Cathedral still dominates the Kirkwall skyline – a familiar, and comforting sight, to Kirkwallians around the world."[66]|group="Notes"}}
 
-Kirkwall_cathedral.jpg in Kirkwall]] Unusually, from c. 1100 onwards the Norse _jarls_ owed allegiance both to Norway for Orkney and to the Scottish crown through their holdings as Earls of Caithness.[67] In 1231 the line of Norse earls, unbroken since Rognvald, ended with Jon Haraldsson's murder in Thurso.[68] The Earldom of Caithness was granted to Magnus, second son of the Earl of Angus, whom Haakon IV of Norway confirmed as Earl of Orkney in 1236.[69] In 1290, the death of the child princess Margaret, Maid of Norway in Orkney, en route to mainland Scotland, created a disputed succession that led to the Wars of Scottish Independence.[70]{{#tag:ref|It is often believed that the princess's death is associated with the village of St Margaret's Hope on South Ronaldsay but there is no evidence for this other than the coincidence of the name.[71]|group="Notes"}} In 1379 the earldom passed to the Sinclair family, who were also barons of Roslin near Edinburgh.[72]{{#tag:ref|The notion that Henry the first Sinclair Earl, voyaged to North America many years before Christopher Columbus has gained some currency of late.[73] The idea is however dismissed out of hand by many scholars. For example, Thomson (2008) states "Henry's fictitious trip to America continues to received a good deal of unfortunate publicity, but it belongs to fantasy rather than real history".[74][75]|group="Notes"}}
+in Kirkwall]] Unusually, from c. 1100 onwards the Norse _jarls_ owed allegiance both to Norway for Orkney and to the Scottish crown through their holdings as Earls of Caithness.[67] In 1231 the line of Norse earls, unbroken since Rognvald, ended with Jon Haraldsson's murder in Thurso.[68] The Earldom of Caithness was granted to Magnus, second son of the Earl of Angus, whom Haakon IV of Norway confirmed as Earl of Orkney in 1236.[69] In 1290, the death of the child princess Margaret, Maid of Norway in Orkney, en route to mainland Scotland, created a disputed succession that led to the Wars of Scottish Independence.[70]{{#tag:ref|It is often believed that the princess's death is associated with the village of St Margaret's Hope on South Ronaldsay but there is no evidence for this other than the coincidence of the name.[71]|group="Notes"}} In 1379 the earldom passed to the Sinclair family, who were also barons of Roslin near Edinburgh.[72]{{#tag:ref|The notion that Henry the first Sinclair Earl, voyaged to North America many years before Christopher Columbus has gained some currency of late.[73] The idea is however dismissed out of hand by many scholars. For example, Thomson (2008) states "Henry's fictitious trip to America continues to received a good deal of unfortunate publicity, but it belongs to fantasy rather than real history".[74][75]|group="Notes"}}
 
 Evidence of the Viking presence is widespread, and includes the settlement at the Brough of Birsay,[76] the vast majority of place names,[77] and the runic inscriptions at Maeshowe.{{#tag:ref|The Maeshowe inscriptions date from the 12th century.[78]|group="Notes"}}
 
 Annexation by Scotland
 
-James_III_and_Margaret_of_Denmark.jpg and Margaret, whose betrothal led to Orkney passing from Norway to Scotland.]] In 1468 Orkney was pledged by Christian I, in his capacity as King of Norway, as security against the payment of the dowry of his daughter Margaret, betrothed to James III of Scotland. However the money was never paid, and Orkney was annexed by the Kingdom of Scotland in 1472. {{#tag:ref|Apparently without the knowledge of the Norwegian Rigsraadet (Council of the Realm), Christian pawned Orkney for 50,000 Rhenish guilders. On 28 May the next year he also pawned Shetland for 8,000 Rhenish guilders.[79] He secured a clause in the contract that gave future kings of Norway the right to redeem the islands for a fixed sum of 210 kg of gold or 2,310 kg of silver. Several attempts were made during the 17th and 18th centuries to redeem the islands, without success.[80]|group="Notes"}}
+and Margaret, whose betrothal led to Orkney passing from Norway to Scotland.]] In 1468 Orkney was pledged by Christian I, in his capacity as King of Norway, as security against the payment of the dowry of his daughter Margaret, betrothed to James III of Scotland. However the money was never paid, and Orkney was annexed by the Kingdom of Scotland in 1472. {{#tag:ref|Apparently without the knowledge of the Norwegian Rigsraadet (Council of the Realm), Christian pawned Orkney for 50,000 Rhenish guilders. On 28 May the next year he also pawned Shetland for 8,000 Rhenish guilders.[79] He secured a clause in the contract that gave future kings of Norway the right to redeem the islands for a fixed sum of 210 kg of gold or 2,310 kg of silver. Several attempts were made during the 17th and 18th centuries to redeem the islands, without success.[80]|group="Notes"}}
 
 The history of Orkney prior to this time is largely the history of the ruling aristocracy. From now on the ordinary people emerge with greater clarity. An influx of Scottish entrepreneurs helped to create a diverse and independent community that included farmers, fishermen and merchants that called themselves _comunitas Orcadie_ and who proved themselves increasingly able to defend their rights against their feudal overlords.[81][82]
 
@@ -72,7 +72,7 @@ During the 18th century Jacobite risings, Orkney was largely Jacobite in its sym
 
 20th century
 
-The_altar_art_of_the_Italian_chapel_of_Orkney_-_geograph.org.uk_-_739607.jpg on Lamb Holm was built and decorated by Italian prisoners of war working on the Churchill Barriers.[90]]] Orkney was the site of a Royal Navy base at Scapa Flow, which played a major role in World War I and II. After the Armistice in 1918, the German High Seas Fleet was transferred in its entirety to Scapa Flow to await a decision on its future. The German sailors opened the sea-cocks and scuttled all the ships. Most ships were salvaged, but the remaining wrecks are now a favoured haunt of recreational divers. One month into World War II, a German U-boat sank the Royal Navy battleship in Scapa Flow. As a result, barriers were built to close most of the access channels; these had the additional advantage of creating causeways enabling travellers to go from island to island by road instead of being obliged to rely on ferries. The causeways were constructed by Italian prisoners of war, who also constructed the ornate Italian Chapel.[91]
+on Lamb Holm was built and decorated by Italian prisoners of war working on the Churchill Barriers.[90]]] Orkney was the site of a Royal Navy base at Scapa Flow, which played a major role in World War I and II. After the Armistice in 1918, the German High Seas Fleet was transferred in its entirety to Scapa Flow to await a decision on its future. The German sailors opened the sea-cocks and scuttled all the ships. Most ships were salvaged, but the remaining wrecks are now a favoured haunt of recreational divers. One month into World War II, a German U-boat sank the Royal Navy battleship in Scapa Flow. As a result, barriers were built to close most of the access channels; these had the additional advantage of creating causeways enabling travellers to go from island to island by road instead of being obliged to rely on ferries. The causeways were constructed by Italian prisoners of war, who also constructed the ornate Italian Chapel.[91]
 
 The navy base became run down after the war, eventually closing in 1957. The problem of a declining population was significant in the post-war years, though in the last decades of the 20th century there was a recovery and life in Orkney focused on growing prosperity and the emergence of a relatively classless society.[92] Orkney was rated as the best place to live in Scotland in both 2013 and 2014, and in 2019 the best place to live in the UK, according to the Halifax Quality of Life survey.[93][94]
 
@@ -83,7 +83,7 @@ In the modern era, population peaked in the mid 19th century at just over 32,000
 
 Geography
 
-Orkney_Islands_by_Sentinel-2.jpg Orkney_Map.png Orkney is separated from the mainland of Scotland by the Pentland Firth, a wide seaway between Brough Ness on the island of South Ronaldsay and Duncansby Head in Caithness. Orkney lies between 58°41′ and 59°24′ North, and 2°22′ and 3°26′ West, measuring from northeast to southwest and from east to west, and covers .[100][101]
+Orkney is separated from the mainland of Scotland by the Pentland Firth, a wide seaway between Brough Ness on the island of South Ronaldsay and Duncansby Head in Caithness. Orkney lies between 58°41′ and 59°24′ North, and 2°22′ and 3°26′ West, measuring from northeast to southwest and from east to west, and covers .[100][101]
 
 Orkney is separated from the Shetland Islands, a group farther out, by a body of water called the Fair Isle Channel.[102]
 
@@ -101,7 +101,7 @@ Islands
 
 The Mainland
 
-Stromness_2.jpg on the Mainland is the second largest settlement on Orkney.]]
+on the Mainland is the second largest settlement on Orkney.]]
 
 The Mainland is the largest island of Orkney. Both of Orkney's burghs, Kirkwall and Stromness, are on this island, which is also the heart of Orkney's transportation system, with ferry and air connections to the other islands and to the outside world. The island is more densely populated (75% of Orkney's population) than the other islands and has much fertile farmland. The Mainland is split into areas called East and West Mainland. These areas are determined by whether they lie East or West of Kirkwall. The bulk of the mainland lies West of Kirkwall, with comparatively little land lying East of Kirkwall. West Mainland parishes are: Stromness, Sandwick, Birsay, Harray, Stenness, Orphir, Evie, Rendall and Firth. East Mainland Parishes are: St Ola, Tankerness, St Andrews, Holm and Deerness.
 
@@ -111,7 +111,7 @@ The other islands in the group are classified as north or south of the Mainland.
 
 The North Isles
 
-NR_sheep.jpg are a semi-feral breed that has evolved to eat seaweed.[109] Their unique genetic inheritance makes them of interest to conservationists.[110]]]
+are a semi-feral breed that has evolved to eat seaweed.[109] Their unique genetic inheritance makes them of interest to conservationists.[110]]]
 
 The northern group of islands is the most extensive and consists of a large number of moderately sized islands, linked to the Mainland by ferries and by air services. Farming, fishing and tourism are the main sources of income for most of the islands.
 
@@ -121,7 +121,7 @@ Rousay, Egilsay and Gairsay lie north of the west Mainland across the Eynhallow 
 
 Other small uninhabited islands in the North Isles group include: Calf of Eday, Damsay, Eynhallow, Faray, Helliar Holm, Holm of Faray, Holm of Huip, Holm of Papa, Holm of Scockness, Kili Holm, Linga Holm, Muckle Green Holm, Rusk Holm and Sweyn Holm.
 
-Hoy_Lighthouse_RLH.jpg on Graemsay]]
+on Graemsay]]
 
 The South Isles
 
@@ -132,11 +132,9 @@ Uninhabited South Islands include: Calf of Flotta, Cava, Copinsay, Corn Holm, Fa
 
 Geology
 
-OldManofHoycloseJM.jpg]]
+]]
 
 The superficial rock of Orkney is almost entirely Old Red Sandstone, mostly of Middle Devonian age.[112] As in the neighbouring mainland county of Caithness, this sandstone rests upon the metamorphic rocks of the Moine series, as may be seen on the Mainland, where a narrow strip is exposed between Stromness and Inganess, and again in the small island of Graemsay; they are represented by grey gneiss and granite.[113]
-
-OrkneyGeologyMap.png
 
 The Middle Devonian is divided into three main groups. The lower part of the sequence, mostly Eifelian in age, is dominated by lacustrine beds of the lower and upper Stromness Flagstones that were deposited in Lake Orcadie.[114] The later Rousay flagstone formation is found throughout much of the North and South Isles and East Mainland.[115]
 
@@ -185,7 +183,7 @@ In 2007, of the 1,420 VAT registered enterprises 55% were in agriculture, forest
 
 Power
 
-Pelamis_at_EMEC.jpg on site at EMEC's wave testing site off Billia Croo]] Orkney has significant wind and marine energy resources, and renewable energy has recently come into prominence. Although Orkney is connected to the mainland, it generates over 100% of its net power from renewables.[147] This comes mainly from wind turbines situated across Orkney.
+on site at EMEC's wave testing site off Billia Croo]] Orkney has significant wind and marine energy resources, and renewable energy has recently come into prominence. Although Orkney is connected to the mainland, it generates over 100% of its net power from renewables.[147] This comes mainly from wind turbines situated across Orkney.
 
 The European Marine Energy Centre (EMEC) is a research facility operating a grid-connected wave test site at Billia Croo, off the west coast of the Orkney Mainland, and a tidal power test site in the Fall of Warness, off the northern island of Eday.[148] At the official opening of the Eday project the site was described as "the first of its kind in the world set up to provide developers of wave and tidal energy devices with a purpose-built performance testing facility."{{#tag:ref|"
 
@@ -203,7 +201,7 @@ Within Orkney, the council operates airfields on most of the larger islands incl
 
 Ferry
 
-Ferry_at_Whale_Geo_pier,_Westray_-_geograph.org.uk_-_33804.jpg arrives at Westray. Orkney Ferries operate a fleet of inter-island ferries.[158]]]
+arrives at Westray. Orkney Ferries operate a fleet of inter-island ferries.[158]]]
 
 Ferries serve both to link Orkney to the rest of Scotland, and also to link together the various islands of the Orkney archipelago. Ferry services operate between Orkney and the Scottish mainland and Shetland on the following routes:
 
@@ -230,7 +228,7 @@ The islands are the home of several international festivals, including the Orkne
 
 Language, literature, and folklore
 
-Odin-Stone_sketch.jpeg At the beginning of recorded history, the islands were inhabited by the Picts, whose language was Brythonic.{{#tag:ref|There is convincing place-name evidence for the Picts' use of Brythonic or P-Celtic, although no written records survive. No certain knowledge of any pre-Pictish language exists anywhere in Scotland, but there may well have been times of significant overlap.[168] For example, the early Scottish Earls spoke Gaelic when the majority of their subjects spoke Norn, and both of these languages were then replaced by Insular Scots. It is therefore possible that the Pictish aristocracy spoke one language and the common folk an unknown precursor such as Proto-Celtic.[169]|group="Notes"}} The Ogham script on the Buckquoy spindle-whorl is cited as evidence for the pre-Norse existence of Old Irish in Orkney.[170]{{#tag:ref|Only two Q-Celtic words exist in the language of modern Orcadians – "iper" from _eabhar_, meaning a midden slurry, and "keero" from _caora_ – used to describe a small sheep in the North Isles.[171]|group="Notes"}}
+At the beginning of recorded history, the islands were inhabited by the Picts, whose language was Brythonic.{{#tag:ref|There is convincing place-name evidence for the Picts' use of Brythonic or P-Celtic, although no written records survive. No certain knowledge of any pre-Pictish language exists anywhere in Scotland, but there may well have been times of significant overlap.[168] For example, the early Scottish Earls spoke Gaelic when the majority of their subjects spoke Norn, and both of these languages were then replaced by Insular Scots. It is therefore possible that the Pictish aristocracy spoke one language and the common folk an unknown precursor such as Proto-Celtic.[169]|group="Notes"}} The Ogham script on the Buckquoy spindle-whorl is cited as evidence for the pre-Norse existence of Old Irish in Orkney.[170]{{#tag:ref|Only two Q-Celtic words exist in the language of modern Orcadians – "iper" from _eabhar_, meaning a midden slurry, and "keero" from _caora_ – used to describe a small sheep in the North Isles.[171]|group="Notes"}}
 
 After the Norse occupation, the toponymy of Orkney became almost wholly West Norse.[172] The Norse language changed into the local Norn, which lingered until the end of the 18th century, when it finally died out.[173] Norn was replaced by the Orcadian dialect of Insular Scots. This dialect is at a low ebb due to the pervasive influences of television, education, and the large number of incomers. However, attempts are being made by some writers and radio presenters to revitalise its use[174] and the distinctive sing-song accent and many dialect words of Norse origin remain in use.{{#tag:ref|Lamb (2003) counted 60 words "with correlates in Old Norse only" and 500 Scots expressions in common use in the 1950s.[175]|group="Notes"}} The Orcadian word most frequently encountered by visitors is _peedie_, meaning _small_, which may be derived from the French _petit_.[176]{{#tag:ref|The word is of uncertain origin and has also been attested in the Lothians and Fife in the 19th century.[177]|group="Notes"}}
 
@@ -243,8 +241,6 @@ The best known literary figures from modern Orkney are the poet Edwin Muir, the 
 
 Orcadians
 
-The_Bridge_of_Brodgar,_Stenness,_1875._By_Walter_Hugh_Patton_(1828-1895).tif
-
 An Orcadian is a native of Orkney, a term that reflects a strongly held identity with a tradition of understatement.[181] Although the annexation of the earldom by Scotland took place over five centuries ago in 1472, some Orcadians regard themselves as Orcadians first and Scots second.[182] However in response to the national identity question in the 2011 Scotland Census, self-reported levels of Scottish identity in Orkney were in line with the national average.[183]
 
 The Scottish mainland is often referred to as "Scotland" in Orkney, with "the mainland" referring to Mainland, Orkney.[184] The archipelago also has a distinct culture, with traditions of the Scottish Highlands such as tartan, clans, bagpipes not indigenous to the culture of the islands.[185] However, at least two tartans with Orkney connections have been registered and a tartan has been designed for Sanday by one of the island's residents,[186][187][188] and there are pipe bands in Orkney.[189][190]
@@ -254,7 +250,7 @@ Native Orcadians refer to the non-native residents of the islands as "ferry loup
 
 Natural history
 
-Seals_hauled_out_by_Lyrie_Geo,_Hoy,_Orkney_-_geograph.org.uk_-_2472901.jpg. Orkney has an abundance of wildlife.]] Orkney has an abundance of wildlife, especially of grey and common seals and seabirds such as puffins, kittiwakes, tysties, ravens, and bonxies. Whales, dolphins, and otters are also seen around the coasts. Inland the Orkney vole, a distinct subspecies of the common vole introduced by Neolithic humans, is an endemic.[193][194] There are five distinct varieties, found on the islands of Sanday, Westray, Rousay, South Ronaldsay, and the Mainland, all the more remarkable as the species is absent on mainland Britain.[195]
+. Orkney has an abundance of wildlife.]] Orkney has an abundance of wildlife, especially of grey and common seals and seabirds such as puffins, kittiwakes, tysties, ravens, and bonxies. Whales, dolphins, and otters are also seen around the coasts. Inland the Orkney vole, a distinct subspecies of the common vole introduced by Neolithic humans, is an endemic.[193][194] There are five distinct varieties, found on the islands of Sanday, Westray, Rousay, South Ronaldsay, and the Mainland, all the more remarkable as the species is absent on mainland Britain.[195]
 
 The coastline is well known for its colourful flowers including sea aster, sea squill, sea thrift, common sea-lavender, bell and common heather. The Scottish primrose is found only on the coasts of Orkney and nearby Caithness and Sutherland.[196][197] Although stands of trees are generally rare, a small forest named Happy Valley with 700 trees and lush gardens was created from a boggy hillside near Stenness during the second half of the 20th century.[198]
 

@@ -7,7 +7,7 @@ Life and work
 
 Early years and family
 
-The Cézannes came from the commune of Saint-Sauveur (Hautes-Alpes, Occitania). Paul Cézanne was born on 19 January 1839 in Aix-en-Provence.[1] On 22 February, he was baptized in the Église de la Madeleine, with his grandmother and uncle Louis as godparents,[2][3][4][5] and became a devout Catholic later in life.[6] His father, Louis Auguste Cézanne (1798–1886),[7] a native of Saint-Zacharie (Var), was the co-founder of a banking firm (Banque Cézanne et Cabassol) that prospered throughout the artist's life, affording him financial security that was unavailable to most of his contemporaries and eventually resulting in a large inheritance.[8] Woman_in_a_Green_Hat_(by_Paul_Cézanne,_1894-95).jpg
+The Cézannes came from the commune of Saint-Sauveur (Hautes-Alpes, Occitania). Paul Cézanne was born on 19 January 1839 in Aix-en-Provence.[1] On 22 February, he was baptized in the Église de la Madeleine, with his grandmother and uncle Louis as godparents,[2][3][4][5] and became a devout Catholic later in life.[6] His father, Louis Auguste Cézanne (1798–1886),[7] a native of Saint-Zacharie (Var), was the co-founder of a banking firm (Banque Cézanne et Cabassol) that prospered throughout the artist's life, affording him financial security that was unavailable to most of his contemporaries and eventually resulting in a large inheritance.[8]
 
 His mother, Anne Elisabeth Honorine Aubert (1814–1897),[9] was "vivacious and romantic, but quick to take offence".[10] It was from her that Cézanne got his conception and vision of life.[11] He also had two younger sisters, Marie and Rose, with whom he went to a primary school every day.[12][13]
 
@@ -17,13 +17,13 @@ Going against the objections of his banker father, he committed himself to pursu
 
 Artistic style
 
-Paul_Cézanne,_1892-95,_Les_joueurs_de_carte_(The_Card_Players),_60_x_73_cm,_oil_on_canvas,_Courtauld_Institute_of_Art,_London.jpg)'', 1892–95, oil on canvas, 60 x 73 cm, Courtauld Institute of Art, London]]
+)'', 1892–95, oil on canvas, 60 x 73 cm, Courtauld Institute of Art, London]]
 
 In Paris, Cézanne met the Impressionist Camille Pissarro. Initially the friendship formed in the mid-1860s between Pissarro and Cézanne was that of master and disciple, in which Pissarro exerted a formative influence on the younger artist. Over the course of the following decade their landscape painting excursions together, in Louveciennes and Pontoise, led to a collaborative working relationship between equals.
 
 Cézanne's early work is often concerned with the figure in the landscape and includes many paintings of groups of large, heavy figures in the landscape, imaginatively painted. Later in his career, he became more interested in working from direct observation and gradually developed a light, airy painting style. Nevertheless, in Cézanne's mature work there is the development of a solidified, almost architectural style of painting. Throughout his life he struggled to develop an authentic observation of the seen world by the most accurate method of representing it in paint that he could find. To this end, he structurally ordered whatever he perceived into simple forms and colour planes. His statement "I want to make of impressionism something solid and lasting like the art in the museums",[23] and his contention that he was recreating Poussin "after nature" underscored his desire to unite observation of nature with the permanence of classical composition.
 
-Paul_Cézanne,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg'', 1898–1905: the triumph of Poussinesque stability and geometric balance]]
+'', 1898–1905: the triumph of Poussinesque stability and geometric balance]]
 
 Optical phenomena
 
@@ -31,11 +31,11 @@ Cézanne was interested in the simplification of naturally occurring forms to th
 
 Exhibitions and subjects
 
-Paul_Cézanne_130.jpg, Washington, D.C.]] Cézanne's paintings were shown in the first exhibition of the Salon des Refusés in 1863, which displayed works not accepted by the jury of the official Paris Salon. The Salon rejected Cézanne's submissions every year from 1864 to 1869. He continued to submit works to the Salon until 1882. In that year, through the intervention of fellow artist Antoine Guillemet, he exhibited _Portrait de M. L. A._, probably _Portrait of Louis-Auguste Cézanne, The Artist's Father, Reading "L'Événement"_, 1866 (National Gallery of Art, Washington, D.C.),[29] his first and last successful submission to the Salon.[30][31] Cézanne,_Paul_-_Still_Life_with_a_Curtain.jpg Before 1895 Cézanne exhibited twice with the Impressionists (at the first Impressionist exhibition in 1874 and the third Impressionist exhibition in 1877). In later years a few individual paintings were shown at various venues, until 1895, when the Parisian dealer, Ambroise Vollard, gave the artist his first solo exhibition. Despite the increasing public recognition and financial success, Cézanne chose to work in increasing artistic isolation, usually painting in the south of France, in his beloved Provence, far from Paris.
+, Washington, D.C.]] Cézanne's paintings were shown in the first exhibition of the Salon des Refusés in 1863, which displayed works not accepted by the jury of the official Paris Salon. The Salon rejected Cézanne's submissions every year from 1864 to 1869. He continued to submit works to the Salon until 1882. In that year, through the intervention of fellow artist Antoine Guillemet, he exhibited _Portrait de M. L. A._, probably _Portrait of Louis-Auguste Cézanne, The Artist's Father, Reading "L'Événement"_, 1866 (National Gallery of Art, Washington, D.C.),[29] his first and last successful submission to the Salon.[30][31] Before 1895 Cézanne exhibited twice with the Impressionists (at the first Impressionist exhibition in 1874 and the third Impressionist exhibition in 1877). In later years a few individual paintings were shown at various venues, until 1895, when the Parisian dealer, Ambroise Vollard, gave the artist his first solo exhibition. Despite the increasing public recognition and financial success, Cézanne chose to work in increasing artistic isolation, usually painting in the south of France, in his beloved Provence, far from Paris.
 
 He concentrated on a few subjects and was equally proficient in each of these genres: still lifes, portraits, landscapes and studies of bathers. For the last, Cézanne was compelled to design from his imagination, due to a lack of available nude models. Like the landscapes, his portraits were drawn from that which was familiar, so that not only his wife and son but local peasants, children and his art dealer served as subjects. His still lifes are at once decorative in design, painted with thick, flat surfaces, yet with a weight reminiscent of Gustave Courbet. The 'props' for his works are still to be found, as he left them, in his studio (atelier), in the suburbs of modern Aix.
 
-Overture.jpg: The Artist's Mother and Sister'', 1868, Hermitage Museum, St. Petersburg]] Cézanne's paintings were not well received among the petty bourgeoisie of Aix. In 1903 Henri Rochefort visited the auction of paintings that had been in Zola's possession and published on 9 March 1903 in L'Intransigeant a highly critical article entitled "Love for the Ugly".[32] Rochefort describes how spectators had supposedly experienced laughing fits, when seeing the paintings of "an ultra-impressionist named Cézanne".[33] The public in Aix was outraged, and for many days, copies of L'Intransigeant appeared on Cézanne's door-mat with messages asking him to leave the town "he was dishonouring".[34]
+: The Artist's Mother and Sister'', 1868, Hermitage Museum, St. Petersburg]] Cézanne's paintings were not well received among the petty bourgeoisie of Aix. In 1903 Henri Rochefort visited the auction of paintings that had been in Zola's possession and published on 9 March 1903 in L'Intransigeant a highly critical article entitled "Love for the Ugly".[32] Rochefort describes how spectators had supposedly experienced laughing fits, when seeing the paintings of "an ultra-impressionist named Cézanne".[33] The public in Aix was outraged, and for many days, copies of L'Intransigeant appeared on Cézanne's door-mat with messages asking him to leave the town "he was dishonouring".[34]
 
 Death
 
@@ -56,9 +56,9 @@ Among the _couillarde_ paintings are a series of portraits of his uncle Dominiqu
 
 Impressionist period, Provence and Paris, 1870–1878
 
-Jas_de_bouffan.jpg After the start of the Franco-Prussian War in July 1870, Cézanne and his mistress, Marie-Hortense Fiquet, left Paris for L'Estaque, near Marseilles, where he changed themes to predominantly landscapes. He was declared a draft dodger in January 1871, but the war ended the next month, in February, and the couple moved back to Paris, in the summer of 1871. After the birth of their son Paul in January 1872, in Paris, they moved to Auvers in Val-d'Oise near Paris. Cézanne's mother was kept a party to family events, but his father was not informed of Hortense for fear of risking his wrath. The artist received from his father a monthly allowance of 100 francs.[48]
+After the start of the Franco-Prussian War in July 1870, Cézanne and his mistress, Marie-Hortense Fiquet, left Paris for L'Estaque, near Marseilles, where he changed themes to predominantly landscapes. He was declared a draft dodger in January 1871, but the war ended the next month, in February, and the couple moved back to Paris, in the summer of 1871. After the birth of their son Paul in January 1872, in Paris, they moved to Auvers in Val-d'Oise near Paris. Cézanne's mother was kept a party to family events, but his father was not informed of Hortense for fear of risking his wrath. The artist received from his father a monthly allowance of 100 francs.[48]
 
-Paul_Cézanne_079.jpg Camille Pissarro lived in Pontoise. There and in Auvers he and Cézanne painted landscapes together. For a long time afterwards, Cézanne described himself as Pissarro's pupil, referring to him as "God the Father", as well as saying: "We all stem from Pissarro."[49] Under Pissarro's influence Cézanne began to abandon dark colours and his canvases grew much brighter.[50]
+Camille Pissarro lived in Pontoise. There and in Auvers he and Cézanne painted landscapes together. For a long time afterwards, Cézanne described himself as Pissarro's pupil, referring to him as "God the Father", as well as saying: "We all stem from Pissarro."[49] Under Pissarro's influence Cézanne began to abandon dark colours and his canvases grew much brighter.[50]
 
 Leaving Hortense in the Marseille region, Cézanne moved between Paris and Provence, exhibiting in the first (1874) and third Impressionist shows (1877). In 1875, he attracted the attention of the collector Victor Chocquet, whose commissions provided some financial relief. But Cézanne's exhibited paintings attracted hilarity, outrage, and sarcasm. Reviewer Louis Leroy said of Cézanne's portrait of Chocquet: "This peculiar looking head, the colour of an old boot might give [a pregnant woman] a shock and cause yellow fever in the fruit of her womb before its entry into the world."[51]
 
@@ -66,7 +66,7 @@ In March 1878, Cézanne's father found out about Hortense and threatened to cut 
 
 Mature period, Provence, 1878–1890
 
-Paul_Cézanne_107.jpg'', ca.1887, Courtauld Institute of Art]] Harlequin,_1888-1890.jpg]]
+'', ca.1887, Courtauld Institute of Art]] ]]
 
 In the early 1880s the Cézanne family stabilized their residence in Provence where they remained, except for brief sojourns abroad, from then on. The move reflects a new independence from the Paris-centered impressionists and a marked preference for the south, Cézanne's native soil. Hortense's brother had a house within view of Montagne Sainte-Victoire at Estaque. A run of paintings of this mountain from 1880 to 1883 and others of Gardanne from 1885 to 1888 are sometimes known as "the Constructive Period".[53]
 
@@ -80,11 +80,11 @@ Final period, Provence, 1890–1906
 
 Cézanne's idyllic period at Jas de Bouffan was temporary. From 1890 until his death he was beset by troubling events and he withdrew further into his painting, spending long periods as a virtual recluse. His paintings became well-known and sought after and he was the object of respect from a new generation of painters.[57]
 
-Paul_Cézanne,_Pyramid_of_Skulls,_c._1901.jpg,'' , The dramatic resignation to death informs several still life paintings Cézanne made in his final period between 1898 and 1905 which take the skulls as their subject. Today the skulls themselves remain in Cézanne's studio in a suburb of Aix-en-Provence.]] The problems began with the onset of diabetes in 1890, destabilizing his personality to the point where relationships with others were again strained. He traveled in Switzerland, with Hortense and his son, perhaps hoping to restore their relationship. Cézanne, however, returned to Provence to live; Hortense and Paul junior, to Paris. Financial need prompted Hortense's return to Provence but in separate living quarters. Cézanne moved in with his mother and sister. In 1891 he turned to Catholicism.[58]
+,'' , The dramatic resignation to death informs several still life paintings Cézanne made in his final period between 1898 and 1905 which take the skulls as their subject. Today the skulls themselves remain in Cézanne's studio in a suburb of Aix-en-Provence.]] The problems began with the onset of diabetes in 1890, destabilizing his personality to the point where relationships with others were again strained. He traveled in Switzerland, with Hortense and his son, perhaps hoping to restore their relationship. Cézanne, however, returned to Provence to live; Hortense and Paul junior, to Paris. Financial need prompted Hortense's return to Provence but in separate living quarters. Cézanne moved in with his mother and sister. In 1891 he turned to Catholicism.[58]
 
 Cézanne alternated between painting at Jas de Bouffan and in the Paris region, as before. In 1895, he made a germinal visit to Bibémus Quarries and climbed Montagne Sainte-Victoire. The labyrinthine landscape of the quarries must have struck a note, as he rented a cabin there in 1897 and painted extensively from it. The shapes are believed to have inspired the embryonic "Cubist" style. Also in that year, his mother died, an upsetting event but one which made reconciliation with his wife possible. He sold the empty nest at Jas de Bouffan and rented a place on Rue Boulegon, where he built a studio.[59]
 
-The relationship, however, continued to be stormy. He needed a place to be by himself. In 1901 he bought some land along the Chemin des Lauves, an isolated road on some high ground at Aix, and commissioned a studio to be built there (now open to the public). He moved there in 1903. Meanwhile, in 1902, he had drafted a will excluding his wife from his estate and leaving everything to his son. The relationship was apparently off again; she is said to have burned the mementos of his mother.[60] Paul_Cézanne,_1888-90,_Madame_Cézanne_(Hortense_Fiquet,_1850–1922)_in_a_Red_Dress,_oil_on_canvas,_116.5_x_89.5_cm,_The_Metropolitan_Museum_of_Art,_New_York.jpg, New York]] From 1903 to the end of his life he painted in his studio, working for a month in 1904 with Émile Bernard, who stayed as a house guest. After his death it became a monument, Atelier Paul Cézanne, or les Lauves.[61]
+The relationship, however, continued to be stormy. He needed a place to be by himself. In 1901 he bought some land along the Chemin des Lauves, an isolated road on some high ground at Aix, and commissioned a studio to be built there (now open to the public). He moved there in 1903. Meanwhile, in 1902, he had drafted a will excluding his wife from his estate and leaving everything to his son. The relationship was apparently off again; she is said to have burned the mementos of his mother.[60] , New York]] From 1903 to the end of his life he painted in his studio, working for a month in 1904 with Émile Bernard, who stayed as a house guest. After his death it became a monument, Atelier Paul Cézanne, or les Lauves.[61]
 
 
 "Cézanne's Doubt": essay by Maurice Merleau-Ponty
@@ -94,7 +94,7 @@ Cézanne's stylistic approaches and beliefs regarding how to paint were analyzed
 
 Legacy
 
-Salon_d'Automne,_1904,_Ambroise_Vollard,_Salle_Cézanne.jpg, Salle Cézanne (_Victor Choquet_, _Baigneuses_, etc.)]]
+, Salle Cézanne (_Victor Choquet_, _Baigneuses_, etc.)]]
 
 Cézanne's works were rejected numerous times by the official Salon in Paris and ridiculed by art critics when exhibited with the Impressionists. Yet during his lifetime Cézanne was considered a master by younger artists who visited his studio in Aix.[64]
 
@@ -115,7 +115,7 @@ The 2016 film _Cézanne and I_ explores the friendship between the artist and É
 
 Art market
 
-Paul_Cézanne_222.jpg On 10 May 1999, Cézanne's painting _Rideau, Cruchon et Compotier_ sold for $60.5 million, the fourth-highest price paid for a painting up to that time. As of 2006, it was the most expensive still life ever sold at an auction. One of Cézanne's _The Card Players_ was sold in 2011 to the Royal Family of Qatar for a price variously estimated at between $250 million ($ million today) and possibly as high as $300 million ($ million today), either price signifying a new mark for highest price for a painting; surpassed only by Leonardo da Vinci's _Salvator Mundi_ in November 2017.[72][73]
+On 10 May 1999, Cézanne's painting _Rideau, Cruchon et Compotier_ sold for $60.5 million, the fourth-highest price paid for a painting up to that time. As of 2006, it was the most expensive still life ever sold at an auction. One of Cézanne's _The Card Players_ was sold in 2011 to the Royal Family of Qatar for a price variously estimated at between $250 million ($ million today) and possibly as high as $300 million ($ million today), either price signifying a new mark for highest price for a painting; surpassed only by Leonardo da Vinci's _Salvator Mundi_ in November 2017.[72][73]
 
 
 Gallery

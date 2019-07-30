@@ -14,7 +14,7 @@ By 1982, the Royal Canadian Mint had begun work on a new composition for the dol
 
 Introduction
 
-1988_Canada_one_dollar_(5158672877).jpg The government announced on March 25, 1986, that the new dollar coin would be launched the following year as a replacement for the dollar bill, which would be phased out.[9] It was expected to cost $31.8 million to produce the first 300 million coins, but through seigniorage (the difference between the cost of production and the coin's value), expected to make up to $40 million a year on the coins. From the proceeds, a total of $60 million over five years was dedicated toward funding the 1988 Winter Olympics in Calgary.[10]
+The government announced on March 25, 1986, that the new dollar coin would be launched the following year as a replacement for the dollar bill, which would be phased out.[9] It was expected to cost $31.8 million to produce the first 300 million coins, but through seigniorage (the difference between the cost of production and the coin's value), expected to make up to $40 million a year on the coins. From the proceeds, a total of $60 million over five years was dedicated toward funding the 1988 Winter Olympics in Calgary.[10]
 
 The failure of the Susan B. Anthony dollar coin in the United States had been considered and it was believed Americans refused to support the coin due to its similarity to their quarter coin and its lack of esthetic appeal.[11] In announcing the new Canadian dollar coin, the government stated it would be the same overall size as the Susan B. Anthony coin – slightly larger than a quarter – to allow for compatibility with American manufactured vending machines, but would be eleven-sided and gold-coloured.[12]
 
@@ -29,7 +29,7 @@ The loonie has subsequently gained iconic status within Canada,[24] and is now r
 
 Lucky loonie
 
-2010_Olympic_Lucky_Loonie.jpg Officials for the 2002 Salt Lake Winter Olympics invited the National Hockey League's ice making consultant, Dan Craig, to oversee the city's E Center arena, where the ice hockey tournament was being held. Craig invited a couple of members from the ice crew in his hometown of Edmonton to assist. One of them, Trent Evans, secretly placed a loonie at centre ice. He originally placed a dime, but added the loonie after the smaller coin quickly vanished as the ice surface was built up.[28] He placed the coins after realizing there was no target at centre ice for referees to aim for when dropping the puck for a faceoff. A thin yellow dot was painted on the ice surface over the coins, though the loonie was faintly visible to those who knew to look for it.[29]
+Officials for the 2002 Salt Lake Winter Olympics invited the National Hockey League's ice making consultant, Dan Craig, to oversee the city's E Center arena, where the ice hockey tournament was being held. Craig invited a couple of members from the ice crew in his hometown of Edmonton to assist. One of them, Trent Evans, secretly placed a loonie at centre ice. He originally placed a dime, but added the loonie after the smaller coin quickly vanished as the ice surface was built up.[28] He placed the coins after realizing there was no target at centre ice for referees to aim for when dropping the puck for a faceoff. A thin yellow dot was painted on the ice surface over the coins, though the loonie was faintly visible to those who knew to look for it.[29]
 
 Keeping the coin a secret, Evans told only a few people of its placement and swore them to secrecy. Among those told were the players of the men's and women's teams.[30] Both Canadian teams went on to win gold medals. Several members of the women's team kissed the spot where the coin was buried following their victory.[31] After the men won their final, the coin was dug up and given to Wayne Gretzky, the team's executive-director, who revealed the existence of the "lucky loonie" at a post-game press conference.[32]
 
@@ -77,7 +77,7 @@ Alongside the regular minting of the loonie with the standard image of the commo
 
 Specimen set editions
 
-In 1997, 2002, and each year since 2004, the Royal Canadian Mint has issued a one-dollar coin that depicts a different and unique image of a bird on the coin's reverse.[64] These special loonies have limited mintages and are available only in the six-coin specimen sets. Big_loonie.jpg, Ontario.]]
+In 1997, 2002, and each year since 2004, the Royal Canadian Mint has issued a one-dollar coin that depicts a different and unique image of a bird on the coin's reverse.[64] These special loonies have limited mintages and are available only in the six-coin specimen sets. , Ontario.]]
 
   Year   Theme                                Artist                Mintage   Full-Set Issue Price (CAD)
   ------ ------------------------------------ --------------------- --------- ----------------------------

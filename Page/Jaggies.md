@@ -1,4 +1,4 @@
-Test_nn.gif, and thus the jaggies on the edges of the symbols became more prominent.]] "JAGGIES" is the informal name for artifacts in raster images, most frequently from aliasing,[1] which in turn is often caused by non-linear mixing effects producing high-frequency components or missing or poor anti-aliasing filtering prior to sampling.
+, and thus the jaggies on the edges of the symbols became more prominent.]] "JAGGIES" is the informal name for artifacts in raster images, most frequently from aliasing,[1] which in turn is often caused by non-linear mixing effects producing high-frequency components or missing or poor anti-aliasing filtering prior to sampling.
 
 Jaggies are stairlike lines that appear where there should be smooth straight lines or curves. For example, when a nominally straight, un-aliased line steps across one pixel, a dogleg occurs halfway through the line, where it crosses the threshold from one pixel to the other.
 

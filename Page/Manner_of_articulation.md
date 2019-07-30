@@ -1,4 +1,4 @@
-Illu01_head_neck.jpg Real-time_MRI_-_Speaking_(English).ogv.]]
+.]]
 
 In articulatory phonetics, the MANNER OF ARTICULATION is the configuration and interaction of the articulators (speech organs such as the tongue, lips, and palate) when making a speech sound. One parameter of manner is _stricture,_ that is, how closely the speech organs approach one another. Others include those involved in the r-like sounds (taps and trills), and the sibilancy of fricatives.
 
@@ -7,7 +7,7 @@ The concept of manner is mainly used in the discussion of consonants, although t
 
 Broad Classifications
 
-IPA-euler-manners-features.svg showing a typical classification of sounds (in IPA) and their manners of articulation and phonological features]] Manners of articulation with substantial obstruction of the airflow (stops, fricatives, affricates) are called OBSTRUENTS. These are prototypically voiceless, but voiced obstruents are extremely common as well. Manners without such obstruction (nasals, liquids, approximants, and also vowels) are called SONORANTS because they are nearly always voiced. Voiceless sonorants are uncommon, but are found in Welsh and Classical Greek (the spelling "rh"), in Standard Tibetan (the "lh" of Lhasa), and the "wh" in those dialects of English that distinguish "which" from "witch".
+showing a typical classification of sounds (in IPA) and their manners of articulation and phonological features]] Manners of articulation with substantial obstruction of the airflow (stops, fricatives, affricates) are called OBSTRUENTS. These are prototypically voiceless, but voiced obstruents are extremely common as well. Manners without such obstruction (nasals, liquids, approximants, and also vowels) are called SONORANTS because they are nearly always voiced. Voiceless sonorants are uncommon, but are found in Welsh and Classical Greek (the spelling "rh"), in Standard Tibetan (the "lh" of Lhasa), and the "wh" in those dialects of English that distinguish "which" from "witch".
 
 Sonorants may also be called RESONANTS, and some linguists prefer that term, restricting the word 'sonorant' to non-vocoid resonants (that is, nasals and liquids, but not vowels or semi-vowels). Another common distinction is between OCCLUSIVES (stops, nasals and affricates) and CONTINUANTS (all else).
 

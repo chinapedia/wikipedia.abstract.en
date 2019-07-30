@@ -1,4 +1,4 @@
-Les_Très_Riches_Heures_du_duc_de_Berry_mars.jpg in March
+in March
 _Les Très Riches Heures du Duc de Berry_, c.1410]]
 
 MANORIALISM was an organizing principle of rural economies which vested legal and economic power in a Lord of the Manor. He was supported economically from his own direct landholding in a manor (sometimes called a fief), and from the obligatory contributions of a legally subject part of the peasant population under his jurisdiction and that of his manorial court. These obligations could be payable in several ways, in labor (the French term _corvée_ is conventionally applied), in kind, or, on rare occasions, in coin.
@@ -12,7 +12,7 @@ Manorialism died slowly and piecemeal, along with its most vivid feature in the 
 
 Historical and geographical distribution
 
-The_Hall_at_Penshurst_Place_from_Ancestral_Homes_of_Noted_Americans_by_Anne_Hollingsworth_Wharton_(1915).jpg, Kent, built in the mid 14th century. The hall was of central importance to every manor, being the place where the lord and his family ate, received guests, and conferred with dependents.]] The term is most often used with reference to medieval Western Europe. Antecedents of the system can be traced to the rural economy of the later Roman Empire (Dominate). With a declining birthrate and population, labor was the key factor of production.[6] Successive administrations tried to stabilise the imperial economy by freezing the social structure into place: sons were to succeed their fathers in their trade, councilors were forbidden to resign, and _coloni_, the cultivators of land, were not to move from the land they were attached to. The workers of the land were on their way to becoming serfs.[7]
+, Kent, built in the mid 14th century. The hall was of central importance to every manor, being the place where the lord and his family ate, received guests, and conferred with dependents.]] The term is most often used with reference to medieval Western Europe. Antecedents of the system can be traced to the rural economy of the later Roman Empire (Dominate). With a declining birthrate and population, labor was the key factor of production.[6] Successive administrations tried to stabilise the imperial economy by freezing the social structure into place: sons were to succeed their fathers in their trade, councilors were forbidden to resign, and _coloni_, the cultivators of land, were not to move from the land they were attached to. The workers of the land were on their way to becoming serfs.[7]
 
 Several factors conspired to merge the status of former slaves and former free farmers into a dependent class of such _coloni_: it was possible to be described as _servus et colonus_, "both slave and _colonus_".[8] Laws of Constantine I around 325 both reinforced the semi-servile status of the _coloni_ and limited their rights to sue in the courts; the _Codex Theodosianus_ promulgated under Theodosius II extended these restrictions. The legal status of _adscripti_, "bound to the soil",[9] contrasted with barbarian _foederati_, who were permitted to settle within the imperial boundaries, remaining subject to their own traditional law.
 
@@ -36,7 +36,7 @@ To these two systems, the Carolingian monarchs added a third, the _aprisio_, whi
 
 Common features
 
-Plan_mediaeval_manor.jpg''', the hatched areas part of the GLEBE.
+''', the hatched areas part of the GLEBE.
 William R. Shepherd, _Historical Atlas_, 1923]] Manors each consisted of up to three classes of land:
 
 1.  DEMESNE, the part directly controlled by the lord and used for the benefit of his household and dependents;

@@ -1,5 +1,3 @@
-Neal-Stephenson-in-the-beginning.jpg
-
 _IN THE BEGINNING... WAS THE COMMAND LINE_ is an essay by Neal Stephenson which was originally published online in 1999 and later made available in book form (November 1999, ). The essay is a commentary on why the proprietary operating systems business is unlikely to remain profitable in the future because of competition from free software. It also analyzes the corporate/collective culture of the Microsoft, Apple, and free software communities.
 
 
@@ -19,8 +17,6 @@ The essay was written before the advent of Mac OS X. A recurring theme is the fu
 he replied:
 
   I embraced OS X as soon as it was available and have never looked back. So a lot of _In the Beginning...was the Command Line_ is now obsolete. I keep meaning to update it, but if I'm honest with myself, I have to say this is unlikely.[1]
-
-Neal_Stephenson.jpg
 
 With Neal Stephenson's permission, Garrett Birkel responded to _In the Beginning...was the Command Line_ in 2004, bringing it up to date and critically discussing Stephenson's argument.[2] Birkel's response is interspersed throughout the original text, which remains untouched.
 

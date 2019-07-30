@@ -23,7 +23,7 @@ Scholars may debate whether Isidore ever personally embraced monastic life or af
 
 Bishop of Seville
 
-Isidoro_de_Sevilla_(José_Alcoverro)_01.jpg, 1892, outside the Biblioteca Nacional de España, in Madrid]] San_Isidoro,_Portada_del_Bautismo_de_la_Catedral_de_Sevilla.jpg. Sculpture of Lorenzo Mercadante de Bretaña]]
+, 1892, outside the Biblioteca Nacional de España, in Madrid]] . Sculpture of Lorenzo Mercadante de Bretaña]]
 
 After the death of Saint Leander of Seville on 13 March 600 or 601, Isidore succeeded to the See of Seville. On his elevation to the episcopate, he immediately constituted himself as protector of monks.
 
@@ -62,7 +62,7 @@ Isidore's Latin style in the _Etymologiae_ and elsewhere, though simple and luci
 
 _Etymologiae_
 
-Isidoro_di_siviglia,_etimologie,_fine_VIII_secolo_MSII_4856_Bruxelles,_Bibliotheque_Royale_Albert_I,_20x31,50,_pagina_in_scrittura_onciale_carolina.jpg manuscript (8th century), Brussels, Royal Library of Belgium]] Isidori_Hispalensis_Opera_Omnia.tif
+manuscript (8th century), Brussels, Royal Library of Belgium]]
 
 Isidore was the first Christian writer to try to compile a _summa_ of universal knowledge, in his most important work, the _Etymologiae_ (taking its title from the method he uncritically used in the transcription of his era's knowledge). It is also known by classicists as the _Origines_ (the standard abbreviation being _Orig_). This encyclopedia — the first such Christian epitome—formed a huge compilation of 448 chapters in 20 volumes.[8]
 
@@ -74,7 +74,7 @@ The fame of this work imparted a new impetus to encyclopedic writing, which bore
 
 On the Catholic faith against the Jews
 
-Diagrammatic_T-O_world_map_-_12th_century.jpg represents the inhabited world as described by Isidore in his _Etymologiae_.]]
+represents the inhabited world as described by Isidore in his _Etymologiae_.]]
 
 Isidore's _De fide catholica contra Iudaeos_ furthers Augustine of Hippo's ideas on the Jewish presence in Christian society. Like Augustine, Isidore accepted the necessity of the Jewish presence because of their expected role in the anticipated Second Coming of Christ. In _De fide catholica contra Iudaeos_, Isidore exceeds the anti-rabbinic polemics of earlier theologians by criticizing Jewish practice as deliberately disingenuous.[16]
 
@@ -99,7 +99,7 @@ Isidore's other works, all in Latin, include:
 
 Veneration
 
-Meister_des_Codex_167_001.jpg (left) in an Ottonian illuminated manuscript from the 2nd half of the 10th century]] Isidore was one of the last of the ancient Christian philosophers and was contemporary with Maximus the Confessor. Some consider him to be the most learned man of his age, and he exercised a far-reaching and immeasurable influence on the educational life of the Middle Ages. His contemporary and friend, Braulio of Zaragoza, regarded him as a man raised up by God to save the Iberian peoples from the tidal wave of barbarism that threatened to inundate the ancient civilization of Hispania.
+(left) in an Ottonian illuminated manuscript from the 2nd half of the 10th century]] Isidore was one of the last of the ancient Christian philosophers and was contemporary with Maximus the Confessor. Some consider him to be the most learned man of his age, and he exercised a far-reaching and immeasurable influence on the educational life of the Middle Ages. His contemporary and friend, Braulio of Zaragoza, regarded him as a man raised up by God to save the Iberian peoples from the tidal wave of barbarism that threatened to inundate the ancient civilization of Hispania.
 
 The Eighth Council of Toledo (653) recorded its admiration of his character in these glowing terms: "The extraordinary doctor, the latest ornament of the Catholic Church, the most learned man of the latter ages, always to be named with reverence, Isidore". This tribute was endorsed by the Fifteenth Council of Toledo, held in 688, and later in 1598 by Pope Clement VIII. Isidore was declared a Doctor of the Church in 1722 by Pope Innocent XIII.
 
@@ -120,8 +120,6 @@ The Order of St. Isidore of Seville is a chivalric order formed on January 1, 20
 References
 
 Primary sources
-
-Isidorus_-_Chronica_minora,_alli_anni_domini_MCCCCLXXXII_Addi_cinque_di_octobro_-_512701.jpg
 
 -   The _Etymologiae_ (complete Latin text)
 -   Barney, Stephen A., Lewis, W.J., Beach, J.A. and Berghof, Oliver (translators). _The Etymologies of Isidore of Seville._ Cambridge: Cambridge University Press, 2006. .

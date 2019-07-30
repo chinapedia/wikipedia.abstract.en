@@ -1,4 +1,4 @@
-OSI_Model_v1.svg]] The PROTOCOL STACK or NETWORK STACK is an implementation of a computer networking PROTOCOL SUITE or PROTOCOL FAMILY. Some of these terms are used interchangeably but strictly speaking, the _suite_ is the definition of the communication protocols, and the _stack_ is the software implementation of them.[1]
+]] The PROTOCOL STACK or NETWORK STACK is an implementation of a computer networking PROTOCOL SUITE or PROTOCOL FAMILY. Some of these terms are used interchangeably but strictly speaking, the _suite_ is the definition of the communication protocols, and the _stack_ is the software implementation of them.[1]
 
 Individual protocols within a suite are often designed with a single purpose in mind. This modularization simplifies design and evaluation. Because each protocol module usually communicates with two others, they are commonly imagined as layers in a stack of protocols. The lowest protocol always deals with low-level interaction with the communications hardware. Each higher layer adds additional capabilities. User applications usually deal only with the topmost layers.[2]
 
@@ -19,7 +19,7 @@ A request on computer _A_ to send a chunk of data to _C_ is taken by the upper p
 
 Examples
 
-amitcp.svg]]
+]]
 
   Protocol      Layer
   ------------- ---------------------

@@ -1,4 +1,4 @@
-Nereus,_Doris,_Okeanos_Pergamonaltar.JPG (Berlin).]]
+(Berlin).]]
 
 In Greek mythology, NEREUS (; Ancient Greek: Νηρεύς) was the eldest son of Pontus (the Sea) and Gaia (the Earth), who with Doris fathered the Nereids and Nerites, with whom Nereus lived in the Aegean Sea.[1]
 

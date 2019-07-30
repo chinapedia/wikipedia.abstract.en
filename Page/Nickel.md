@@ -13,7 +13,7 @@ Properties
 
 Atomic and physical properties
 
-Ni@CNT2.jpg of a Ni nanocrystal inside a single wall carbon nanotube; scale bar 5 nm.[7]]] Nickel is a silvery-white metal with a slight golden tinge that takes a high polish. It is one of only four elements that are magnetic at or near room temperature, the others being iron, cobalt and gadolinium. Its Curie temperature is , meaning that bulk nickel is non-magnetic above this temperature.[8] The unit cell of nickel is a face-centered cube with the lattice parameter of 0.352 nm, giving an atomic radius of 0.124 nm. This crystal structure is stable to pressures of at least 70 GPa. Nickel belongs to the transition metals. It is hard, malleable and ductile, and has a relatively high for transition metals electrical and thermal conductivity.[9] The high compressive strength of 34 GPa, predicted for ideal crystals, is never obtained in the real bulk material due to the formation and movement of dislocations; however, it has been reached in Ni nanoparticles.[10]
+of a Ni nanocrystal inside a single wall carbon nanotube; scale bar 5 nm.[7]]] Nickel is a silvery-white metal with a slight golden tinge that takes a high polish. It is one of only four elements that are magnetic at or near room temperature, the others being iron, cobalt and gadolinium. Its Curie temperature is , meaning that bulk nickel is non-magnetic above this temperature.[8] The unit cell of nickel is a face-centered cube with the lattice parameter of 0.352 nm, giving an atomic radius of 0.124 nm. This crystal structure is stable to pressures of at least 70 GPa. Nickel belongs to the transition metals. It is hard, malleable and ductile, and has a relatively high for transition metals electrical and thermal conductivity.[9] The high compressive strength of 34 GPa, predicted for ideal crystals, is never obtained in the real bulk material due to the formation and movement of dislocations; however, it has been reached in Ni nanoparticles.[10]
 
 Electron configuration dispute
 
@@ -37,7 +37,7 @@ Radioactive nickel-56 is produced by the silicon burning process and later set f
 
 Occurrence
 
-Widmanstatten_hand.jpg showing the two forms of nickel-iron, kamacite and taenite, in an octahedrite meteorite]] On Earth, nickel occurs most often in combination with sulfur and iron in pentlandite, with sulfur in millerite, with arsenic in the mineral nickeline, and with arsenic and sulfur in nickel galena.[25] Nickel is commonly found in iron meteorites as the alloys kamacite and taenite.
+showing the two forms of nickel-iron, kamacite and taenite, in an octahedrite meteorite]] On Earth, nickel occurs most often in combination with sulfur and iron in pentlandite, with sulfur in millerite, with arsenic in the mineral nickeline, and with arsenic and sulfur in nickel galena.[25] Nickel is commonly found in iron meteorites as the alloys kamacite and taenite.
 
 The bulk of the nickel is mined from two types of ore deposits. The first is laterite, where the principal ore mineral mixtures are nickeliferous limonite, (Fe,Ni)O(OH), and garnierite (a mixture of various hydrous nickel and nickel-rich silicates). The second is magmatic sulfide deposits, where the principal ore mineral is pentlandite: .
 
@@ -50,7 +50,7 @@ On geophysical evidence, most of the nickel on Earth is believed to be in the Ea
 
 Compounds
 
-Nickel-carbonyl-2D.png The most common oxidation state of nickel is +2, but compounds of Ni⁰, Ni⁺, and Ni³⁺ are well known, and the exotic oxidation states Ni^(2−), Ni^(1−), and Ni⁴⁺ have been produced and studied.[29]
+The most common oxidation state of nickel is +2, but compounds of Ni⁰, Ni⁺, and Ni³⁺ are well known, and the exotic oxidation states Ni^(2−), Ni^(1−), and Ni⁴⁺ have been produced and studied.[29]
 
 Nickel(0)
 
@@ -68,13 +68,13 @@ It is thought that the nickel(I) oxidation state is important to nickel-containi
 
 Nickel(II)
 
-Color_of_various_Ni(II)_complexes_in_aqueous_solution.jpg)]²⁺, , ]] Nickel(II)-sulfate-hexahydrate-sample.jpg nickel sulfate.]] Nickel(II) forms compounds with all common anions, including sulfide, sulfate, carbonate, hydroxide, carboxylates, and halides. Nickel(II) sulfate is produced in large quantities by dissolving nickel metal or oxides in sulfuric acid, forming both a hexa- and heptahydrates[33] useful for electroplating nickel. Common salts of nickel, such as the chloride, nitrate, and sulfate, dissolve in water to give green solutions of the metal aquo complex .
+)]²⁺, , ]] nickel sulfate.]] Nickel(II) forms compounds with all common anions, including sulfide, sulfate, carbonate, hydroxide, carboxylates, and halides. Nickel(II) sulfate is produced in large quantities by dissolving nickel metal or oxides in sulfuric acid, forming both a hexa- and heptahydrates[33] useful for electroplating nickel. Common salts of nickel, such as the chloride, nitrate, and sulfate, dissolve in water to give green solutions of the metal aquo complex .
 
 The four halides form nickel compounds, which are solids with molecules that feature octahedral Ni centres. Nickel(II) chloride is most common, and its behavior is illustrative of the other halides. Nickel(II) chloride is produced by dissolving nickel or its oxide in hydrochloric acid. It is usually encountered as the green hexahydrate, the formula of which is usually written NiCl₂•6H₂O. When dissolved in water, this salt forms the metal aquo complex . Dehydration of NiCl₂•6H₂O gives the yellow anhydrous .
 
 Some tetracoordinate nickel(II) complexes, e.g. bis(triphenylphosphine)nickel chloride, exist both in tetrahedral and square planar geometries. The tetrahedral complexes are paramagnetic, whereas the square planar complexes are diamagnetic. In having properties of magnetic equilibrium and formation of octahedral complexes, they contrast with the divalent complexes of the heavier group 10 metals, palladium(II) and platinum(II), which form only square-planar geometry.[34]
 
-Nickelocene is known; it has an electron count of 20, making it relatively unstable. Nickel_antimonide.jpg
+Nickelocene is known; it has an electron count of 20, making it relatively unstable.
 
 Nickel(III) and (IV)
 
@@ -85,14 +85,14 @@ Ni(IV) is present in the mixed oxide , while Ni(III) is present in nickel oxide 
 
 History
 
-Because the ores of nickel are easily mistaken for ores of silver, understanding of this metal and its use dates to relatively recent times. However, the unintentional use of nickel is ancient, and can be traced back as far as 3500 BCE. Bronzes from what is now Syria have been found to contain as much as 2% nickel.[43] Some ancient Chinese manuscripts suggest that "white copper" (cupronickel, known as _baitong_) was used there between 1700 and 1400 BCE. This Paktong white copper was exported to Britain as early as the 17th century, but the nickel content of this alloy was not discovered until 1822.[44] Coins of nickel-copper alloy were minted by the Bactrian kings Agathocles, Euthydemus II and Pantaleon in the 2nd Century BCE, possibly out of the Chinese cupronickel.[45] Nickeline.jpg In medieval Germany, a red mineral was found in the Erzgebirge (Ore Mountains) that resembled copper ore. However, when miners were unable to extract any copper from it, they blamed a mischievous sprite of German mythology, Nickel (similar to _Old Nick_), for besetting the copper. They called this ore _Kupfernickel_ from the German _Kupfer_ for copper.[46][47][48][49] This ore is now known to be nickeline, a nickel arsenide. In 1751, Baron Axel Fredrik Cronstedt tried to extract copper from kupfernickel at a cobalt mine in the Swedish village of Los, and instead produced a white metal that he named after the spirit that had given its name to the mineral, nickel.[50] In modern German, Kupfernickel or Kupfer-Nickel designates the alloy cupronickel.[51]
+Because the ores of nickel are easily mistaken for ores of silver, understanding of this metal and its use dates to relatively recent times. However, the unintentional use of nickel is ancient, and can be traced back as far as 3500 BCE. Bronzes from what is now Syria have been found to contain as much as 2% nickel.[43] Some ancient Chinese manuscripts suggest that "white copper" (cupronickel, known as _baitong_) was used there between 1700 and 1400 BCE. This Paktong white copper was exported to Britain as early as the 17th century, but the nickel content of this alloy was not discovered until 1822.[44] Coins of nickel-copper alloy were minted by the Bactrian kings Agathocles, Euthydemus II and Pantaleon in the 2nd Century BCE, possibly out of the Chinese cupronickel.[45] In medieval Germany, a red mineral was found in the Erzgebirge (Ore Mountains) that resembled copper ore. However, when miners were unable to extract any copper from it, they blamed a mischievous sprite of German mythology, Nickel (similar to _Old Nick_), for besetting the copper. They called this ore _Kupfernickel_ from the German _Kupfer_ for copper.[46][47][48][49] This ore is now known to be nickeline, a nickel arsenide. In 1751, Baron Axel Fredrik Cronstedt tried to extract copper from kupfernickel at a cobalt mine in the Swedish village of Los, and instead produced a white metal that he named after the spirit that had given its name to the mineral, nickel.[50] In modern German, Kupfernickel or Kupfer-Nickel designates the alloy cupronickel.[51]
 
 Originally, the only source for nickel was the rare Kupfernickel. Beginning in 1824, nickel was obtained as a byproduct of cobalt blue production. The first large-scale smelting of nickel began in Norway in 1848 from nickel-rich pyrrhotite. The introduction of nickel in steel production in 1889 increased the demand for nickel, and the nickel deposits of New Caledonia, discovered in 1865, provided most of the world's supply between 1875 and 1915. The discovery of the large deposits in the Sudbury Basin, Canada in 1883, in Norilsk-Talnakh, Russia in 1920, and in the Merensky Reef, South Africa in 1924, made large-scale production of nickel possible.[52]
 
 
 Coinage
 
-Nickel2.jpg made of pure nickel]] Aside from the aforementioned Bactrian coins, nickel was not a component of coins until the mid-19th century.
+made of pure nickel]] Aside from the aforementioned Bactrian coins, nickel was not a component of coins until the mid-19th century.
 
 Canada
 
@@ -117,8 +117,6 @@ In the 21st century, the high price of nickel has led to some replacement of the
 
 World production
 
-Nickel_world_production.svg Evolution_minerai_nickel.svg
-
 More than 2.3 million tonnes (t) of nickel per year are mined worldwide, with Indonesia (560,000 t), The Philippines (340,000 t), Russia (210,000 t), New Caledonia (210,000 t), Australia (170,000 t) and Canada (160,000 t) being the largest producers as of 2019.[59] The largest deposits of nickel in non-Russian Europe are located in Finland and Greece. Identified land-based resources averaging 1% nickel or greater contain at least 130 million tonnes of nickel. Approximately 60% is in laterites and 40% is in sulfide deposits. In addition, extensive deep-sea resources of nickel are in manganese crusts and nodules covering large areas of the ocean floor, particularly in the Pacific Ocean.[60]
 
 The one locality in the United States where nickel has been profitably mined is Riddle, Oregon, where several square miles of nickel-bearing garnierite surface deposits are located. The mine closed in 1987.[61][62] The Eagle mine project is a new nickel mine in Michigan's upper peninsula. Construction was completed in 2013, and operations began in the third quarter of 2014.[63] In the first full year of operation, Eagle Mine produced 18,000 t.[64]
@@ -126,11 +124,9 @@ The one locality in the United States where nickel has been profitably mined is 
 
 Extraction and purification
 
-Nickel_extraction.svg
-
 Nickel is obtained through extractive metallurgy: it is extracted from the ore by conventional roasting and reduction processes that yield a metal of greater than 75% purity. In many stainless steel applications, 75% pure nickel can be used without further purification, depending on the impurities.
 
-Traditionally, most sulfide ores have been processed using pyrometallurgical techniques to produce a matte for further refining. Recent advances in hydrometallurgical techniques resulted in significantly purer metallic nickel product. Most sulfide deposits have traditionally been processed by concentration through a froth flotation process followed by pyrometallurgical extraction. In hydrometallurgical processes, nickel sulfide ores are concentrated with flotation (differential flotation if Ni/Fe ratio is too low) and then smelted. The nickel matte is further processed with the Sherritt-Gordon process. First, copper is removed by adding hydrogen sulfide, leaving a concentrate of cobalt and nickel. Then, solvent extraction is used to separate the cobalt and nickel, with the final nickel content greater than 99%. Nickel_electrolytic_and_1cm3_cube.jpg nickel nodule, with green, crystallized nickel-electrolyte salts visible in the pores.]]
+Traditionally, most sulfide ores have been processed using pyrometallurgical techniques to produce a matte for further refining. Recent advances in hydrometallurgical techniques resulted in significantly purer metallic nickel product. Most sulfide deposits have traditionally been processed by concentration through a froth flotation process followed by pyrometallurgical extraction. In hydrometallurgical processes, nickel sulfide ores are concentrated with flotation (differential flotation if Ni/Fe ratio is too low) and then smelted. The nickel matte is further processed with the Sherritt-Gordon process. First, copper is removed by adding hydrogen sulfide, leaving a concentrate of cobalt and nickel. Then, solvent extraction is used to separate the cobalt and nickel, with the final nickel content greater than 99%. nickel nodule, with green, crystallized nickel-electrolyte salts visible in the pores.]]
 
 Electrorefining
 
@@ -138,7 +134,7 @@ A second common refining process is leaching the metal matte into a nickel salt 
 
 Mond process
 
-Nickel_kugeln.jpg.]] The purest metal is obtained from nickel oxide by the Mond process, which achieves a purity of greater than 99.99%.[65] The process was patented by Ludwig Mond and has been in industrial use since before the beginning of the 20th century. In this process, nickel is reacted with carbon monoxide in the presence of a sulfur catalyst at around 40–80 °C to form nickel carbonyl. Iron gives iron pentacarbonyl, too, but this reaction is slow. If necessary, the nickel may be separated by distillation. Dicobalt octacarbonyl is also formed in nickel distillation as a by-product, but it decomposes to tetracobalt dodecacarbonyl at the reaction temperature to give a non-volatile solid.[66]
+.]] The purest metal is obtained from nickel oxide by the Mond process, which achieves a purity of greater than 99.99%.[65] The process was patented by Ludwig Mond and has been in industrial use since before the beginning of the 20th century. In this process, nickel is reacted with carbon monoxide in the presence of a sulfur catalyst at around 40–80 °C to form nickel carbonyl. Iron gives iron pentacarbonyl, too, but this reaction is slow. If necessary, the nickel may be separated by distillation. Dicobalt octacarbonyl is also formed in nickel distillation as a by-product, but it decomposes to tetracobalt dodecacarbonyl at the reaction temperature to give a non-volatile solid.[66]
 
 Nickel is obtained from nickel carbonyl by one of two processes. It may be passed through a large chamber at high temperatures in which tens of thousands of nickel spheres, called pellets, are constantly stirred. The carbonyl decomposes and deposits pure nickel onto the nickel spheres. In the alternate process, nickel carbonyl is decomposed in a smaller chamber at 230 °C to create a fine nickel powder. The byproduct carbon monoxide is recirculated and reused. The highly pure nickel product is known as "carbonyl nickel".[67]
 
@@ -153,11 +149,11 @@ As of September 19, 2013, the melt value of a US nickel (copper and nickel inclu
 
 Applications
 
-Ni_foam.jpg The global production of nickel is presently used as follows: 68% in stainless steel; 10% in nonferrous alloys; 9% in electroplating; 7% in alloy steel; 3% in foundries; and 4% other uses (including batteries).[72]
+The global production of nickel is presently used as follows: 68% in stainless steel; 10% in nonferrous alloys; 9% in electroplating; 7% in alloy steel; 3% in foundries; and 4% other uses (including batteries).[72]
 
 Nickel is used in many specific and recognizable industrial and consumer products, including stainless steel, alnico magnets, coinage, rechargeable batteries, electric guitar strings, microphone capsules, plating on plumbing fixtures,[73] and special alloys such as permalloy, elinvar, and invar. It is used for plating and as a green tint in glass. Nickel is preeminently an alloy metal, and its chief use is in nickel steels and nickel cast irons, in which it typically increases the tensile strength, toughness, and elastic limit. It is widely used in many other alloys, including nickel brasses and bronzes and alloys with copper, chromium, aluminium, lead, cobalt, silver, and gold (Inconel, Incoloy, Monel, Nimonic).[74]
 
-MagnetEZ.jpg nickel alloy.]]
+nickel alloy.]]
 
 Because it is resistant to corrosion, nickel was occasionally used as a substitute for decorative silver. Nickel was also occasionally used in some countries after 1859 as a cheap coinage metal (see above), but in the later years of the 20th century was replaced by cheaper stainless steel (i.e., iron) alloys, except in the United States and Canada.
 

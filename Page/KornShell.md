@@ -13,7 +13,7 @@ KornShell complies with POSIX.2, Shell and Utilities, Command Interpreter (IEEE 
 
 History
 
-OpenBSD_ksh_Interaction.png's default shell, ]]
+'s default shell, ]]
 
 KornShell was originally proprietary software. In 2000 the source code was released under a license particular to AT&T, but since the 93q release in early 2005 it has been licensed under the Eclipse Public License.[6] KornShell is available as part of the AT&T Software Technology (AST) Open Source Software Collection. As KornShell was initially only available through a proprietary license from AT&T, a number of free and open source alternatives were created. These include , , GNU , and .
 

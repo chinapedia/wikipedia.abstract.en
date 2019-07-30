@@ -62,7 +62,7 @@ Although James Ussher regarded it as genuine, the authenticity of the account ha
 
 Epistles
 
-Ignatius_of_Antioch.jpg (c. 1000 AD)]] The following seven epistles preserved under the name of Ignatius are generally considered authentic, since they were mentioned by the historian Eusebius in the first half of the fourth century.
+(c. 1000 AD)]] The following seven epistles preserved under the name of Ignatius are generally considered authentic, since they were mentioned by the historian Eusebius in the first half of the fourth century.
 
 SEVEN ORIGINAL EPISTLES:
 

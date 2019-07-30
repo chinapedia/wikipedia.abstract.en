@@ -144,7 +144,7 @@ Data from July 2010.[21]
 
 Structure of the population
 
-Bevölkerungspyramide_Malaysia_2016.png Structure of the population (01.07.2011) (Estimates - Data refer to projections based on the 2000 Population Census):[22]
+Structure of the population (01.07.2011) (Estimates - Data refer to projections based on the 2000 Population Census):[22]
 
   Age Group   Male         Female       Total        %
   ----------- ------------ ------------ ------------ ------
@@ -370,7 +370,7 @@ Average life expectancy at age 0 of the total population.[32]
 
 Ethnolinguistic groups
 
-Malaysia's population comprises many ethnic groups. People of Austronesian origin make up the majority of the population, and are known as the Bumiputras. Large Chinese and Indian minorities also exist. Malays, as Bumiputra, see Malaysia as their land, and since race riots in 1969 Bumiputra have been especially privileged in Malaysia – top government positions are reserved for Malays, and the Malays received cheaper housing, priority in government jobs as well as business licenses. However, since the riot racial stability has prevailed, if not full harmony, and mixed marriages are on the rise.[33] The following are the twenty-five largest ethnolinguistic groups in Malaysia; speakers of distinct dialects of a language may be grouped separately, for example Terengganu Malay and Kelantan Malay are grouped into East Coast Malay:[34] Malaysia_election_results_map_by_ethnicity,_2018.svg population in Malaysia]]
+Malaysia's population comprises many ethnic groups. People of Austronesian origin make up the majority of the population, and are known as the Bumiputras. Large Chinese and Indian minorities also exist. Malays, as Bumiputra, see Malaysia as their land, and since race riots in 1969 Bumiputra have been especially privileged in Malaysia – top government positions are reserved for Malays, and the Malays received cheaper housing, priority in government jobs as well as business licenses. However, since the riot racial stability has prevailed, if not full harmony, and mixed marriages are on the rise.[33] The following are the twenty-five largest ethnolinguistic groups in Malaysia; speakers of distinct dialects of a language may be grouped separately, for example Terengganu Malay and Kelantan Malay are grouped into East Coast Malay:[34] population in Malaysia]]
 
   --------------------------- -----------
              GROUP               TOTAL
@@ -405,7 +405,7 @@ Malaysia's population comprises many ethnic groups. People of Austronesian origi
 
 Bumiputras
 
-AliMuthuAhHockKopiTiam0.jpg that depicts the languages and ethnic groups of Malaysia]] Bumiputras totaling 68.8% of Malaysia's population as of 2017 are divided into Muslim Malays proper, who make up the majority of the Malaysian population at 54.66%; and other bumiputra, who make up 14.14% of the Malaysian population, and most of whom belong to various Austronesian Malay ethnic groups related to the Muslim Malays.[35] Bumiputra status is also accorded to certain non-Malay indigenous peoples, including ethnic Thais, Khmers, Chams and the natives of Sabah and Sarawak. Laws over who gets Bumiputra status vary between states.[36] Some Eurasians can obtain bumiputra privileges, providing they can prove they are of Portuguese (Kristang) descent.[37]
+that depicts the languages and ethnic groups of Malaysia]] Bumiputras totaling 68.8% of Malaysia's population as of 2017 are divided into Muslim Malays proper, who make up the majority of the Malaysian population at 54.66%; and other bumiputra, who make up 14.14% of the Malaysian population, and most of whom belong to various Austronesian Malay ethnic groups related to the Muslim Malays.[35] Bumiputra status is also accorded to certain non-Malay indigenous peoples, including ethnic Thais, Khmers, Chams and the natives of Sabah and Sarawak. Laws over who gets Bumiputra status vary between states.[36] Some Eurasians can obtain bumiputra privileges, providing they can prove they are of Portuguese (Kristang) descent.[37]
 
 Malays
 
@@ -419,7 +419,7 @@ Malay culture shows strong influences from Buddhism, Hinduism and animism. Howev
 
 Other Bumiputras
 
-Sabah_Malaysia_Welcoming-Contingent_Hari-Merdeka-2013-16.jpg Malaysia has many other non-Malay indigenous people, who are given Bumiputra status. The indigenous tribes are the oldest inhabitants of Malaysia, and the indigenous groups of Peninsular Malaysia and East Malaysia are collectively known as the "Orang Asli". They account for about 11 percent of the nation's population, and represent a majority in East Malaysia of Sabah and Sarawak. In Sarawak, the dominant tribal group are the Dayak people, who are either Iban (also known as Sea Dayak) or Bidayuh (also known as Land Dayak) of which are mainly Christians. The Iban form the largest of all indigenous groups, numbering over 600,000 (35% of Sarawak's population), who mostly still live in traditional longhouses which can hold up to 200 people.[39] Longhouses are mostly places along the Rajang and Lupar rivers and their tributaries, although many Iban have moved to the cities. The Bidayuhs, numbering around 170,000, are concentrated in the southwestern part of Sarawak. They, together with other indigenous groups in Sarawak make up over half of the states population.[40]
+Malaysia has many other non-Malay indigenous people, who are given Bumiputra status. The indigenous tribes are the oldest inhabitants of Malaysia, and the indigenous groups of Peninsular Malaysia and East Malaysia are collectively known as the "Orang Asli". They account for about 11 percent of the nation's population, and represent a majority in East Malaysia of Sabah and Sarawak. In Sarawak, the dominant tribal group are the Dayak people, who are either Iban (also known as Sea Dayak) or Bidayuh (also known as Land Dayak) of which are mainly Christians. The Iban form the largest of all indigenous groups, numbering over 600,000 (35% of Sarawak's population), who mostly still live in traditional longhouses which can hold up to 200 people.[39] Longhouses are mostly places along the Rajang and Lupar rivers and their tributaries, although many Iban have moved to the cities. The Bidayuhs, numbering around 170,000, are concentrated in the southwestern part of Sarawak. They, together with other indigenous groups in Sarawak make up over half of the states population.[40]
 
 The largest indigenous tribe in Sabah is the Kadazan, most of whom are Christians[41] and rice farmers.[42] They live as substinence farmers. Sabah has a large amount of indigenous people, 28% of the population are Kadazan-Dusuns, and 17% are Bajaus.[43]
 
@@ -456,7 +456,7 @@ There is no general consensus on the ethnic profiling of children of mixed paren
 
 Languages
 
-7-11_Penang_Sentral.jpg stores showing common languages in Malaysia: Malay, English, Chinese, and Tamil]] Malaysia contains speakers of 137 living languages,[63] 41 of which are found in Peninsula Malaysia.[64] The official language of Malaysia is known as Bahasa Malaysia, a standardised form of the Malay language.[65] English was, for a protracted period, the de facto, administrative language of Malaysia, though its status was later rescinded. Despite that, English remains an active second language in many areas of Malaysian society and is taught as a compulsory subject in all public schools.[66][67] Many businesses in Malaysia conduct their transactions in English, and it is sometimes used in official correspondence. Examinations are based on British English, although there has been much American influence through television.
+stores showing common languages in Malaysia: Malay, English, Chinese, and Tamil]] Malaysia contains speakers of 137 living languages,[63] 41 of which are found in Peninsula Malaysia.[64] The official language of Malaysia is known as Bahasa Malaysia, a standardised form of the Malay language.[65] English was, for a protracted period, the de facto, administrative language of Malaysia, though its status was later rescinded. Despite that, English remains an active second language in many areas of Malaysian society and is taught as a compulsory subject in all public schools.[66][67] Many businesses in Malaysia conduct their transactions in English, and it is sometimes used in official correspondence. Examinations are based on British English, although there has been much American influence through television.
 
 Malaysian English, also known as Malaysian Standard English (MySE), is a form of English derived from British English, although there is little official use of the term, except with relation to education. Malaysian English also sees wide use in business, along with Manglish, which is a colloquial form of English with heavy Malay, Chinese languages and Tamil influences. Most Malaysians are conversant in English, although some are only fluent in the Manglish form. The Malaysian government officially discourages the use of Manglish.[68]
 
@@ -476,7 +476,7 @@ Citizenship is usually granted by lex soli.[75] Citizenship in the states of Sab
 
 Religion
 
-Around-Kota-Bharu-(19).jpg in Tumpat is one of the oldest mosques in Malaysia, dating to early 18th century]] Islam is the largest and state religion of Malaysia, although Malaysia is a multi-religious society and the Malaysian constitution guarantees religious freedom. Despite the recognition of Islam as the state religion, the first 4 prime ministers have stressed that Malaysia could function as a secular state. According to the Population and Housing Census 2010 figures, approximately 61.3 percent of the population practised Islam; 19.8 percent Buddhism; 9.2 percent Christianity; 6.3 percent Hinduism; and 1.3 percent practise Confucianism, Taoism and other traditional Chinese religions. Of the remainders, 0.4% was accounted for by other faiths, including animism, folk religion, and Sikhism, while 1.7% either reported having no religion or did not provide any information.[77] The percentage population of Muslims has been steadily increasing – from 58.6% in 1991, 60.4% in 2000, to the 61.3% of the 2010 census.[78][79]
+in Tumpat is one of the oldest mosques in Malaysia, dating to early 18th century]] Islam is the largest and state religion of Malaysia, although Malaysia is a multi-religious society and the Malaysian constitution guarantees religious freedom. Despite the recognition of Islam as the state religion, the first 4 prime ministers have stressed that Malaysia could function as a secular state. According to the Population and Housing Census 2010 figures, approximately 61.3 percent of the population practised Islam; 19.8 percent Buddhism; 9.2 percent Christianity; 6.3 percent Hinduism; and 1.3 percent practise Confucianism, Taoism and other traditional Chinese religions. Of the remainders, 0.4% was accounted for by other faiths, including animism, folk religion, and Sikhism, while 1.7% either reported having no religion or did not provide any information.[77] The percentage population of Muslims has been steadily increasing – from 58.6% in 1991, 60.4% in 2000, to the 61.3% of the 2010 census.[78][79]
 
 The majority of Malaysian Indians follow Hinduism (84.5%), with a significant minority identifying as Christians (7.7%), Sikhs (3.9%), Muslims (3.8%), and 1,000 Jains. Most Malaysian Chinese follow a combination of Buddhism, Taoism, Confucianism and ancestor-worship but, when pressed to specify their religion, will identify themselves as Buddhists. Statistics from the 2000 Census indicate that 75.9% of Malaysia's ethnic Chinese identify as Buddhist, with significant numbers of adherents following Taoism (10.6%) and Christianity (9.6%), along with small Hui-Muslim populations in areas like Penang.[80] Christianity constitutes a slim majority of the non-Malay Bumiputra community (50.1%) with an additional 36.3% identifying as Muslims while 7.3% follow folk religion.[81]
 
@@ -489,7 +489,7 @@ Muslims are obliged to follow the decisions of Syariah courts in matters concern
 
 Education
 
-Nottinghamunimalaysia.JPG of the University of Nottingham at Semenyih, Selangor]] Literacy rates (percentage of people over 15 who can read and write) are high in Malaysia, with an overall Literacy rate of 88.7%.[87] Literacy rates are higher among males (92%) than females (85.4%)
+of the University of Nottingham at Semenyih, Selangor]] Literacy rates (percentage of people over 15 who can read and write) are high in Malaysia, with an overall Literacy rate of 88.7%.[87] Literacy rates are higher among males (92%) than females (85.4%)
 
 Education in Malaysia is monitored by the federal government Ministry of Education.[88] The education system features a non-compulsory kindergarten education followed by six years of compulsory primary education,[89] and five years of optional secondary education.[90] Most Malaysian children start schooling between the ages of three to six, in kindergarten.
 
@@ -497,7 +497,7 @@ Primary education
 
 Children begin primary schooling at the age of seven for a period of six years. Primary schools are divided into two categories, national primary schools and vernacular school.[91] Vernacular schools (_Sekolah Jenis Kebangsaan_) use either Chinese or Tamil as the medium of instruction, whereas national primary schools (_Sekolah Kebangsaan_) uses Bahasa Malaysia as the medium of instruction for subjects except English, Science and Mathematics.
 
-Overfloor_and_Big_Tree,_Malay_College.jpg (MCKK) is one of the earliest boarding schools established in British Malaya.]] Before progressing to the secondary level of education, pupils in Year 6 are required to sit the Primary School Achievement Test (_Ujian Pencapaian Sekolah Rendah_, UPSR).[92] A programme called First Level Assessment (_Penilaian Tahap Satu_, PTS) taken during Primary Year 3 was abolished in 2001.
+(MCKK) is one of the earliest boarding schools established in British Malaya.]] Before progressing to the secondary level of education, pupils in Year 6 are required to sit the Primary School Achievement Test (_Ujian Pencapaian Sekolah Rendah_, UPSR).[92] A programme called First Level Assessment (_Penilaian Tahap Satu_, PTS) taken during Primary Year 3 was abolished in 2001.
 
 Secondary education
 
@@ -509,7 +509,7 @@ There are also 60 Chinese Independent High Schools in Malaysia, where most subje
 
 Tertiary education
 
-CYBER.jpg's Cyberjaya campus. Multimedia University is Malaysia's first private university.]]
+'s Cyberjaya campus. Multimedia University is Malaysia's first private university.]]
 
 Before the introduction of the matriculation system, students aiming to enter public universities had to complete an additional 18 months of secondary schooling in Form Six and sit the Malaysian Higher School Certificate (_Sijil Tinggi Persekolahan Malaysia_, STPM); equivalent to the British Advanced or 'A' levels.[94] Since the introduction of the matriculation programme as an alternative to STPM in 1999, students who completed the 12-month programme in matriculation colleges (kolej matrikulasi in Malay) can enrol in local universities. However, in the matriculation system, only 10 per cent of the places are open to non-Bumiputra students.[95]
 

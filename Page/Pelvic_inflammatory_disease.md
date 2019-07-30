@@ -9,7 +9,7 @@ Globally, about 106 million cases of chlamydia and 106 million cases of gonorrhe
 
 Signs and symptoms
 
-Blausen_0719_PelvicInflammatoryDisease.pngSymptoms in PID range from none to severe. If there are symptoms, then fever, cervical motion tenderness, lower abdominal pain, new or different discharge, painful intercourse, uterine tenderness, adnexal tenderness, or irregular menstruation may be noted.[31][32][33][34]
+Symptoms in PID range from none to severe. If there are symptoms, then fever, cervical motion tenderness, lower abdominal pain, new or different discharge, painful intercourse, uterine tenderness, adnexal tenderness, or irregular menstruation may be noted.[31][32][33][34]
 
 Other complications include endometritis, salpingitis, tubo-ovarian abscess, pelvic peritonitis, periappendicitis, and perihepatitis.[35]
 
@@ -62,7 +62,7 @@ Bacteria
 
 Diagnosis
 
-Mucopurelent_discharge.png Salpingitis_-_low_mag.jpg of salpingitis – a component of pelvic inflammatory disease. H&E stain.]]
+of salpingitis – a component of pelvic inflammatory disease. H&E stain.]]
 
 Upon a pelvic examination, cervical motion, uterine, or adnexal tenderness will be experienced.[49] Mucopurulent cervicitis and or urethritis may be observed. In severe cases more testing may be required such as laparoscopy, intra-abdominal bacteria sampling and culturing, or tissue biopsy.[50][51]
 

@@ -22,8 +22,6 @@ Understanding quantum teleportation requires a good grounding in finite-dimensio
 
 Protocol
 
-Quantum_teleportation_diagram.PNG
-
 The prerequisites for quantum teleportation are a qubit that is to be teleported, a conventional communication channel capable of transmitting two classical bits (i.e., one of four states), and means of generating an entangled EPR pair of qubits, transporting each of these to two different locations, A and B, performing a Bell measurement on one of the EPR pair qubits, and manipulating the quantum state of the other pair. The protocol is then as follows:
 
 1.  An EPR pair is generated, one qubit sent to location A, the other to B.
@@ -134,7 +132,7 @@ to his qubit.
 
 $$\sigma_1 \sigma_3  =  - \sigma_3 \sigma_1 =  -i \sigma_2 = \begin{bmatrix} 0 & -1 \\ 1 & 0\end{bmatrix}.$$
 
-Teleportation is thus achieved. The above-mentioned three gates correspond to rotations of π radians (180°) about appropriate axes (X, Y and Z). Quantum_Teleportation.gif] Some remarks:
+Teleportation is thus achieved. The above-mentioned three gates correspond to rotations of π radians (180°) about appropriate axes (X, Y and Z). ] Some remarks:
 
 -   After this operation, Bob's qubit will take on the state |ψ⟩_(B) = α|0⟩_(B) + β|1⟩_(B), and Alice's qubit becomes an (undefined) part of an entangled state. Teleportation does not result in the copying of qubits, and hence is consistent with the no cloning theorem.
 -   There is no transfer of matter or energy involved. Alice's particle has not been physically moved to Bob; only its state has been transferred. The term "teleportation", coined by Bennett, Brassard, Crépeau, Jozsa, Peres and Wootters, reflects the indistinguishability of quantum mechanical particles.
@@ -145,7 +143,7 @@ Quantum circuit for a single qubit quantum teleportation is demonstrated using Q
 
 Alternative notations
 
-Quantum_teleportation_circuit.svg representation of quantum teleportation]]
+representation of quantum teleportation]]
 
 There are a variety of different notations in use that describe the teleportation protocol. One common one is by using the notation of quantum gates. In the above derivation, the unitary transformation that is the change of basis (from the standard product basis into the Bell basis) can be written using quantum gates. Direct calculation shows that this gate is given by
 

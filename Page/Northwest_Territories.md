@@ -22,7 +22,7 @@ Geographical features include Great Bear Lake, the largest lake entirely within 
 
 Climate
 
-Northwest_Territories_Köppen.svg Ice_Road_on_Great_Slave_Lake_2.jpg, Northwest Territories, 2009]] The Northwest Territories extends for more than and has a large climate variant from south to north. The southern part of the territory (most of the mainland portion) has a subarctic climate, while the islands and northern coast have a polar climate.
+, Northwest Territories, 2009]] The Northwest Territories extends for more than and has a large climate variant from south to north. The southern part of the territory (most of the mainland portion) has a subarctic climate, while the islands and northern coast have a polar climate.
 
 Summers in the north are short and cool, daytime highs of 14-17 degrees Celsius (57° to 63 °F), and lows of 1-5 degrees Celsius (34° to 41 °F). Winters are long and harsh, daytime highs in the mid , and lows around .
 
@@ -44,13 +44,13 @@ About half of the territory is above the tree line. There are not many trees in 
 
 History
 
-North-western-territory.png Northwest_Territories_Proclamation.jpg and the North-Western Territories to Canada]]
+and the North-Western Territories to Canada]]
 
 The present-day territory came under government authority in July 1870, after the Hudson's Bay Company transferred Rupert's Land and the North-Western Territory to the British Crown, which subsequently transferred them to Canada, giving it the name the North-west Territories. This immense region comprised all of today's Canada except that which was encompassed within the early signers of Canadian Confederation, that is, British Columbia, early forms of present-day Ontario and Quebec (which encompassed the coast of the Great Lakes, the Saint Lawrence River valley and the southern third of Quebec), the Maritimes (NS, PEI and NB), Newfoundland, the Labrador coast, and the Arctic Islands, except the southern half of Baffin Island (the Arctic Islands remained under direct British claim until 1880).[15]
 
 The first residential school opened in 1867 in Fort Resolution, followed by several others in regions across the territory, thus contributing to the it reaching the highest percentage of students in residential schools of any area in Canada.[16]
 
-After the 1870 transfer, some of the North-West Territories was whittled away. The province of Manitoba was created on July 15, 1870, at first a small square area around Winnipeg, and then enlarged in 1881 to a rectangular region composing the modern province's south. By the time British Columbia joined Confederation on July 20, 1871, it had already (1866) been granted the portion of North-Western Territory south of 60 degrees north and west of 120 degrees west, an area that comprised most of the Stickeen Territories. Kane_The_Surveyor.jpg winter 1843/44]]
+After the 1870 transfer, some of the North-West Territories was whittled away. The province of Manitoba was created on July 15, 1870, at first a small square area around Winnipeg, and then enlarged in 1881 to a rectangular region composing the modern province's south. By the time British Columbia joined Confederation on July 20, 1871, it had already (1866) been granted the portion of North-Western Territory south of 60 degrees north and west of 120 degrees west, an area that comprised most of the Stickeen Territories. winter 1843/44]]
 
 In the meantime, the Province of Ontario was enlarged northwestward in 1882. Quebec was also extended northwards in 1898. Yukon was made a separate territory that year, due to the Klondike Gold Rush, to free the North-west Territories government in Regina from the burden of addressing the problems caused by the sudden boom of population and economic activity, and the influx of non-Canadians.
 
@@ -63,7 +63,7 @@ On April 1, 1999, the existing Northwest Territories was split into two parts, w
 
 Demography
 
-The NWT is one of two jurisdictions in Canada – Nunavut being the other – where Aboriginal peoples are in the majority, constituting 50.4% of the population.[20] Slavey_girls_Mackenzie_River_Northwest_Territories_-_NA-1463-23.jpg girls, Mackenzie River, Northwest Territories, 1899]] According to the 2016 Canadian census, the 10 major ethnic groups were:[21]
+The NWT is one of two jurisdictions in Canada – Nunavut being the other – where Aboriginal peoples are in the majority, constituting 50.4% of the population.[20] girls, Mackenzie River, Northwest Territories, 1899]] According to the 2016 Canadian census, the 10 major ethnic groups were:[21]
 
 -   First Nations – 36.8%
 -   Canadian – 18.6%
@@ -137,7 +137,7 @@ The largest denominations by number of adherents according to the 2001 census we
 
 Language
 
-Multilingual_sign_for_eye_clinic_in_Yellowknife,_NT.jpg French was made an official language in 1877 by the territorial government. After a lengthy and bitter debate resulting from a speech from the throne in 1888 by Lieutenant Governor Joseph Royal the members of the day voted on more than one occasion to nullify that and make English the only language used in the assembly. After some conflict with the Confederation Government in Ottawa, and a decisive vote on January 19, 1892, the assembly members voted for an English-only territory.
+French was made an official language in 1877 by the territorial government. After a lengthy and bitter debate resulting from a speech from the throne in 1888 by Lieutenant Governor Joseph Royal the members of the day voted on more than one occasion to nullify that and make English the only language used in the assembly. After some conflict with the Confederation Government in Ottawa, and a decisive vote on January 19, 1892, the assembly members voted for an English-only territory.
 
 The Northwest Territories' Official Languages Act recognizes the following eleven official languages:[28]
 
@@ -178,7 +178,7 @@ There were also 630 responses of both English and a "non-official language"; 35 
 
 Communities
 
-Downtown_Yellowknife_2.jpg from Old Town]]
+from Old Town]]
 
 As of 2014, there are 33 official communities in the NWT.[30] These range in size from Yellowknife with a population of 19,569[31] to Kakisa with 36 people.[32] Governance of each community differs, some are run under various types of First Nations control, while others are designated as a city, town, village or hamlet, but most communities are municipal corporations.[33][34] Yellowknife is the largest community and has the largest number of Aboriginal peoples, 4,520 (23.4%) people.[35] However, Behchokǫ̀, with a population of 1,874,[36] is the largest First Nations community, 1,696 (90.9%),[37] and Inuvik with 3,243 people[38] is the largest Inuvialuit community, 1,315 (40.5%).[39] There is one Indian reserve in the NWT, Hay River Reserve, located on the south shore of the Hay River.
 
@@ -194,8 +194,6 @@ As of 2014, there are 33 official communities in the NWT.[30] These range in siz
 
 
 Economy
-
-Diavik_Diamond_Mine.jpg Tungsten,_Northwest_Territories.jpg
 
 The NWT's geological resources include gold, diamonds, natural gas and petroleum. BP is the only oil company currently producing oil in the Territory. NWT diamonds are promoted as an alternative to purchasing blood diamonds.[45] Two of the biggest mineral resource companies in the world, BHP Billiton and Rio Tinto mine many of their diamonds from the NWT. In 2010, NWT accounted for 28.5% of Rio Tinto's total diamond production (3.9 million carats, 17% more than in 2009, from the Diavik Diamond Mine) and 100% of BHP's (3.05 million carats from the EKATI mine).[46][47]
 
@@ -226,7 +224,7 @@ Major territorial mines
 
 Government
 
-Northwest_Territories_Legislative_Building.jpg]] As a territory, the NWT has fewer rights than the provinces. During his term, Premier Kakfwi pushed to have the federal government accord more rights to the territory, including having a greater share of the returns from the territory's natural resources go to the territory.[50] Devolution of powers to the territory was an issue in the 20th general election in 2003, and has been ever since the territory began electing members in 1881.
+]] As a territory, the NWT has fewer rights than the provinces. During his term, Premier Kakfwi pushed to have the federal government accord more rights to the territory, including having a greater share of the returns from the territory's natural resources go to the territory.[50] Devolution of powers to the territory was an issue in the 20th general election in 2003, and has been ever since the territory began electing members in 1881.
 
 The Commissioner of the NWT is the chief executive and is appointed by the Governor-in-Council of Canada on the recommendation of the federal Minister of Aboriginal Affairs and Northern Development. The position used to be more administrative and governmental, but with the devolution of more powers to the elected assembly since 1967, the position has become symbolic. The Commissioner had full governmental powers until 1980 when the territories were given greater self-government. The Legislative Assembly then began electing a cabinet and _Government Leader_, later known as the Premier. Since 1985 the Commissioner no longer chairs meetings of the Executive Council (or cabinet), and the federal government has instructed commissioners to behave like a provincial Lieutenant Governor. Unlike Lieutenant Governors, the Commissioner of the Northwest Territories is not a formal representative of the Queen of Canada.
 
@@ -269,7 +267,7 @@ Transportation
 
 Road
 
-Dempster_2769.jpg, Northwest Territories]]
+, Northwest Territories]]
 
 Northwest Territories has eight numbered highways. The longest is the Mackenzie Highway which stretches from the Alberta Highway 35's northern terminus in the south at the Alberta – Northwest Territories border at the 60th parallel to Wrigley, Northwest Territories in the north. Ice roads and winter roads are also prominent and provide road access in winter to towns and mines which would otherwise be fly-in locations. Yellowknife Highway branches out from Mackenzie Highway and connects it to Yellowknife. Dempster Highway is the continuation of Klondike Highway. It starts just west of Dawson City, Yukon, and continues east for over to Inuvik.
 
@@ -281,7 +279,7 @@ Yellowknife Transit is the public transportation agency in the city, and is the 
 
 Air
 
-Yellowknife_Airport_terminal.jpg Yellowknife Airport is the largest airport in the territory in terms of aircraft movements and passengers. It is the gateway airport to other destinations within the Northwest Territories. As the airport of the territory capital, it is part of the National Airports System. It is the hub of multiple regional airlines. Major airlines serving destinations within Northwest Territories include Buffalo Airways, Canadian North, First Air, North-Wright Airways.
+Yellowknife Airport is the largest airport in the territory in terms of aircraft movements and passengers. It is the gateway airport to other destinations within the Northwest Territories. As the airport of the territory capital, it is part of the National Airports System. It is the hub of multiple regional airlines. Major airlines serving destinations within Northwest Territories include Buffalo Airways, Canadian North, First Air, North-Wright Airways.
 
 
 Culture

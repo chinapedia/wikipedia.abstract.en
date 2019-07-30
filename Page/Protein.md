@@ -1,4 +1,4 @@
-Myoglobin.png showing turquoise α-helices. This protein was the first to have its structure solved by X-ray crystallography. Towards the right-center among the coils, a prosthetic group called a heme group (shown in gray) with a bound oxygen molecule (red).]]
+showing turquoise α-helices. This protein was the first to have its structure solved by X-ray crystallography. Towards the right-center among the coils, a prosthetic group called a heme group (shown in gray) with a bound oxygen molecule (red).]]
 
 PROTEINS are large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, providing structure to cells and organisms, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific three-dimensional structure that determines its activity.
 
@@ -13,7 +13,7 @@ Proteins may be purified from other cellular components using a variety of techn
 
 Biochemistry
 
-Peptide-Figure-Revised.png and an adjacent amino acid (top/inset). The bond itself is made of the CHON elements.]] Peptide_group_resonance.png structures of the peptide bond that links individual amino acids to form a protein polymer]]
+and an adjacent amino acid (top/inset). The bond itself is made of the CHON elements.]] structures of the peptide bond that links individual amino acids to form a protein polymer]]
 
 Most proteins consist of linear polymers built from series of up to 20 different L-α- amino acids. All proteinogenic amino acids possess common structural features, including an α-carbon to which an amino group, a carboxyl group, and a variable side chain are bonded. Only proline differs from this basic structure as it contains an unusual ring to the N-end amine group, which forces the CO–NH amide moiety into a fixed conformation.[1] The side chains of the standard amino acids, detailed in the list of standard amino acids, have a great variety of chemical structures and properties; it is the combined effect of all of the amino acid side chains in a protein that ultimately determines its three-dimensional structure and its chemical reactivity.[2] The amino acids in a polypeptide chain are linked by peptide bonds. Once linked in the protein chain, an individual amino acid is called a _residue,_ and the linked series of carbon, nitrogen, and oxygen atoms are known as the _main chain_ or _protein backbone._[3]
 
@@ -34,7 +34,7 @@ Synthesis
 
 Biosynthesis
 
-Ribosome_mRNA_translation_en.svg Genetic_code.svg sequence of a gene encodes the amino acid sequence of a protein]]
+sequence of a gene encodes the amino acid sequence of a protein]]
 
 Proteins are assembled from amino acids using information encoded in genes. Each protein has its own unique amino acid sequence that is specified by the nucleotide sequence of the gene encoding this protein. The genetic code is a set of three-nucleotide sets called codons and each three-nucleotide combination designates an amino acid, for example AUG (adenine-uracil-guanine) is the code for methionine. Because DNA contains four nucleotides, the total number of possible codons is 64; hence, there is some redundancy in the genetic code, with some amino acids specified by more than one codon.[14] Genes encoded in DNA are first transcribed into pre-messenger RNA (mRNA) by proteins such as RNA polymerase. Most organisms then process the pre-mRNA (also known as a _primary transcript_) using various forms of Post-transcriptional modification to form the mature mRNA, which is then used as a template for protein synthesis by the ribosome. In prokaryotes the mRNA may either be used as soon as it is produced, or be bound by a ribosome after having moved away from the nucleoid. In contrast, eukaryotes make mRNA in the cell nucleus and then translocate it across the nuclear membrane into the cytoplasm, where protein synthesis then takes place. The rate of protein synthesis is higher in prokaryotes than eukaryotes and can reach up to 20 amino acids per second.[15]
 
@@ -49,7 +49,7 @@ Short proteins can also be synthesized chemically by a family of methods known a
 
 Structure
 
-Chaperonin_1AON.png Proteinviews-1tim.png. LEFT: All-atom representation colored by atom type. MIDDLE: Simplified representation illustrating the backbone conformation, colored by secondary structure. RIGHT: Solvent-accessible surface representation colored by residue type (acidic residues red, basic residues blue, polar residues green, nonpolar residues white).]]
+. LEFT: All-atom representation colored by atom type. MIDDLE: Simplified representation illustrating the backbone conformation, colored by secondary structure. RIGHT: Solvent-accessible surface representation colored by residue type (acidic residues red, basic residues blue, polar residues green, nonpolar residues white).]]
 
 Most proteins fold into unique 3-dimensional structures. The shape into which a protein naturally folds is known as its native conformation.[23] Although many proteins can fold unassisted, simply through the chemical properties of their amino acids, others require the aid of molecular chaperones to fold into their native states.[24] Biochemists often refer to four distinct aspects of a protein's structure:[25]
 
@@ -60,7 +60,7 @@ Most proteins fold into unique 3-dimensional structures. The shape into which a
 
 Proteins are not entirely rigid molecules. In addition to these levels of structure, proteins may shift between several related structures while they perform their functions. In the context of these functional rearrangements, these tertiary or quaternary structures are usually referred to as "conformations", and transitions between them are called _conformational changes._ Such changes are often induced by the binding of a substrate molecule to an enzyme's active site, or the physical region of the protein that participates in chemical catalysis. In solution proteins also undergo variation in structure through thermal vibration and the collision with other molecules.[26]
 
-Protein_composite.png (IgG, an antibody), hemoglobin, insulin (a hormone), adenylate kinase (an enzyme), and glutamine synthetase (an enzyme).]]
+(IgG, an antibody), hemoglobin, insulin (a hormone), adenylate kinase (an enzyme), and glutamine synthetase (an enzyme).]]
 
 Proteins can be informally divided into three main classes, which correlate with typical tertiary structures: globular proteins, fibrous proteins, and membrane proteins. Almost all globular proteins are soluble and many are enzymes. Fibrous proteins are often structural, such as collagen, the major component of connective tissue, or keratin, the protein component of hair and nails. Membrane proteins often serve as receptors or provide channels for polar or charged molecules to pass through the cell membrane.[27]
 
@@ -79,7 +79,7 @@ Cellular functions
 
 Proteins are the chief actors within the cell, said to be carrying out the duties specified by the information encoded in genes.[30] With the exception of certain types of RNA, most other biological molecules are relatively inert elements upon which proteins act. Proteins make up half the dry weight of an _Escherichia coli_ cell, whereas other macromolecules such as DNA and RNA make up only 3% and 20%, respectively.[31] The set of proteins expressed in a particular cell or cell type is known as its proteome.
 
-Hexokinase_ball_and_stick_model,_with_substrates_to_scale_copy.png is shown as a conventional ball-and-stick molecular model. To scale in the top right-hand corner are two of its substrates, ATP and glucose.]]
+is shown as a conventional ball-and-stick molecular model. To scale in the top right-hand corner are two of its substrates, ATP and glucose.]]
 
 The chief characteristic of proteins that also allows their diverse set of functions is their ability to bind other molecules specifically and tightly. The region of the protein responsible for binding another molecule is known as the binding site and is often a depression or "pocket" on the molecular surface. This binding ability is mediated by the tertiary structure of the protein, which defines the binding site pocket, and by the chemical properties of the surrounding amino acids' side chains. Protein binding can be extraordinarily tight and specific; for example, the ribonuclease inhibitor protein binds to human angiogenin with a sub-femtomolar dissociation constant (<10^(−15) M) but does not bind at all to its amphibian homolog onconase (>1 M). Extremely minor chemical changes such as the addition of a single methyl group to a binding partner can sometimes suffice to nearly eliminate binding; for example, the aminoacyl tRNA synthetase specific to the amino acid valine discriminates against the very similar side chain of the amino acid isoleucine.[32]
 
@@ -95,7 +95,7 @@ Dirigent proteins are members of a class of proteins that dictate the stereochem
 
 Cell signaling and ligand binding
 
-Mouse_cholera_antibody.png of a mouse antibody against cholera that binds a carbohydrate antigen]]
+of a mouse antibody against cholera that binds a carbohydrate antigen]]
 
 Many proteins are involved in the process of cell signaling and signal transduction. Some proteins, such as insulin, are extracellular proteins that transmit a signal from the cell in which they were synthesized to other cells in distant tissues. Others are membrane proteins that act as receptors whose main function is to bind a signaling molecule and induce a biochemical response in the cell. Many receptors have a binding site exposed on the cell surface and an effector domain within the cell, which may have enzymatic activity or may undergo a conformational change detected by other proteins within the cell.[40]
 
@@ -124,7 +124,7 @@ For natural proteins, a series of purification steps may be necessary to obtain 
 
 Cellular localization
 
-Localisations02eng.jpgs and structures tagged with green fluorescent protein (here, white)]]
+s and structures tagged with green fluorescent protein (here, white)]]
 
 The study of proteins _in vivo_ is often concerned with the synthesis and localization of the protein within the cell. Although many intracellular proteins are synthesized in the cytoplasm and membrane-bound or secreted proteins in the endoplasmic reticulum, the specifics of how proteins are targeted to specific organelles or cellular structures is often unclear. A useful technique for assessing cellular localization uses genetic engineering to express in a cell a fusion protein or chimera consisting of the natural protein of interest linked to a "reporter" such as green fluorescent protein (GFP).[50] The fused protein's position within the cell can be cleanly and efficiently visualized using microscopy,[51] as shown in the figure opposite.
 
@@ -154,7 +154,7 @@ Many more gene sequences are known than protein structures. Further, the set of 
 
 Structure prediction and simulation
 
-225_Peptide_Bond-01.jpg units]]
+units]]
 
 Complementary to the field of structural genomics, _protein structure prediction_ develops efficient mathematical models of proteins to computationally predict the molecular formations in theory, instead of detecting structures with laboratory observation.[67] The most successful type of structure prediction, known as homology modeling, relies on the existence of a "template" structure with sequence similarity to the protein being modeled; structural genomics' goal is to provide sufficient representation in solved structures to model most of those that remain.[68] Although producing accurate models remains a challenge when only distantly related template structures are available, it has been suggested that sequence alignment is the bottleneck in this process, as quite accurate models can be produced if a "perfect" sequence alignment is known.[69] Many structure prediction methods have served to inform the emerging field of protein engineering, in which novel protein folds have already been designed.[70] A more complex computational problem is the prediction of intermolecular interactions, such as in molecular docking and protein–protein interaction prediction.[71]
 
@@ -184,7 +184,7 @@ Early nutritional scientists such as the German Carl von Voit believed that prot
 
 The difficulty in purifying proteins in large quantities made them very difficult for early protein biochemists to study. Hence, early studies focused on proteins that could be purified in large quantities, e.g., those of blood, egg white, various toxins, and digestive/metabolic enzymes obtained from slaughterhouses. In the 1950s, the Armour Hot Dog Co. purified 1 kg of pure bovine pancreatic ribonuclease A and made it freely available to scientists; this gesture helped ribonuclease A become a major target for biochemical study for the following decades.[95]
 
-KendrewMyoglobin.jpg with model of myoglobin in progress]]
+with model of myoglobin in progress]]
 
 Linus Pauling is credited with the successful prediction of regular protein secondary structures based on hydrogen bonding, an idea first put forth by William Astbury in 1933.[96] Later work by Walter Kauzmann on denaturation,[97][98] based partly on previous studies by Kaj Linderstrøm-Lang,[99] contributed an understanding of protein folding and structure mediated by hydrophobic interactions.
 

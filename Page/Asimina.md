@@ -5,14 +5,14 @@ _Asimina_ has large simple leaves and large fruit. It is native to eastern North
 
 Names
 
-Michel_Adanson_(1727-1806).png The genus name _Asimina_ was first described and named by Michel Adanson, a French naturalist of Scottish descent. The name is adapted from the Native American name _assimin_[7] through the French colonial _asiminier._[8]
+The genus name _Asimina_ was first described and named by Michel Adanson, a French naturalist of Scottish descent. The name is adapted from the Native American name _assimin_[7] through the French colonial _asiminier._[8]
 
 The common name PAWPAW, also spelled PAW PAW, PAW-PAW, and PAPAW, probably derives from the Spanish _papaya_, perhaps because of the superficial similarity of their fruits.
 
 
 Description
 
-Asimina_reticulata_flower.jpg Pawpaws are shrubs or small trees to tall. The northern, cold-tolerant common pawpaw (_Asimina triloba_) is deciduous, while the southern species are often evergreen.
+Pawpaws are shrubs or small trees to tall. The northern, cold-tolerant common pawpaw (_Asimina triloba_) is deciduous, while the southern species are often evergreen.
 
 The leaves are alternate, obovate, entire, long and broad.
 
@@ -54,7 +54,7 @@ Larvae of the zebra swallowtail butterfly feed exclusively on young leaves of th
 
 Cultivation and uses
 
-Asimina_triloba_red_fern_farm.jpg Wild-collected fruits of the common pawpaw (_Asimina triloba_) have long been a favorite treat throughout the tree's extensive native range in eastern North America.[27] Fresh pawpaw fruits are commonly eaten raw; however, they do not store or ship well unless frozen.[28] The fruit pulp is also often used locally in baked dessert recipes, with pawpaw often substituted in many banana-based recipes.
+Wild-collected fruits of the common pawpaw (_Asimina triloba_) have long been a favorite treat throughout the tree's extensive native range in eastern North America.[27] Fresh pawpaw fruits are commonly eaten raw; however, they do not store or ship well unless frozen.[28] The fruit pulp is also often used locally in baked dessert recipes, with pawpaw often substituted in many banana-based recipes.
 
 Pawpaws have never been cultivated for fruit on the scale of apples and peaches, but interest in pawpaw cultivation has increased in recent decades.[29] However, only frozen fruit will store or ship well. Other methods of preservation include dehydration, production of jams or jellies, and pressure canning.
 

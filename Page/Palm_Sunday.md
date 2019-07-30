@@ -1,11 +1,11 @@
-Palm-sunday.jpg PALM SUNDAY is a Christian moveable feast that falls on the Sunday before Easter. The feast commemorates Jesus' triumphal entry into Jerusalem, an event mentioned in each of the four canonical Gospels.[1]
+PALM SUNDAY is a Christian moveable feast that falls on the Sunday before Easter. The feast commemorates Jesus' triumphal entry into Jerusalem, an event mentioned in each of the four canonical Gospels.[1]
 
 In most liturgical churches Palm Sunday is celebrated by the blessing and distribution of palm branches or the branches of other native trees representing the palm branches the crowd scattered in front of Christ as he rode into Jerusalem. The difficulty of procuring palms in unfavorable climates led to their substitution with branches of native trees, including box, olive, willow, and yew. The Sunday was often named after these substitute trees, as in YEW SUNDAY, or by the general term BRANCH SUNDAY.
 
 
 Biblical basis and symbolism
 
-Entry_into_Jerusalem_(Annunciation_Cathedral_in_Moscow).jpg'', byzantine icon (Cathedral of the Annunciation, Moscow) ]]
+'', byzantine icon (Cathedral of the Annunciation, Moscow) ]]
 
 In the accounts of the four canonical Gospels, Christ's triumphal entry into Jerusalem takes place a week before his resurrection.[2][3][4][5] Only the Gospel[6] of John shows a timeline of the event, dated six days before the Passover (John 12:1).
 
@@ -19,7 +19,7 @@ According to the Gospels, Jesus Christ rode on a donkey into Jerusalem, and the 
 
 The symbolism of the donkey may refer to the Eastern tradition that it is an animal of peace, unlike the horse which is the animal of war.[14] A king would have ridden a horse when he was bent on war and ridden a donkey to symbolize his arrival in peace. Jesus' entry to Jerusalem would have thus symbolized his entry as the Prince of Peace, not as a war-waging king.[15][16] Thus there have been two different meanings (or more levels of biblical hermeneutics): an historical meaning, truly happening according to the Gospels, and a secondary meaning in the symbolism.
 
-Enrique_Simonet_-_Flevit_super_illam_1892.jpg, 1892]] In Luke 19:41 as Jesus approaches Jerusalem, he looks at the city and weeps over it (an event known as _Flevit super illam_ in Latin), foretelling his coming Passion and the suffering that awaits the city in the events of the destruction of the Second Temple.
+, 1892]] In Luke 19:41 as Jesus approaches Jerusalem, he looks at the city and weeps over it (an event known as _Flevit super illam_ in Latin), foretelling his coming Passion and the suffering that awaits the city in the events of the destruction of the Second Temple.
 
 In many lands in the ancient Near East, it was customary to cover in some way the path of someone thought worthy of the highest honour. The Hebrew Bible (2 Kings 9:13) reports that Jehu, son of Jehoshaphat, was treated this way. Both the Synoptic Gospels and the Gospel of John report that people gave Jesus this form of honour. In the synoptics the people are described as laying their garments and cut rushes on the street, whereas John specifies fronds of palm (Greek _phoinix)_. In Jewish tradition, the palm is one of the Four Species carried for Sukkot, as prescribed for rejoicing at .
 
@@ -45,7 +45,7 @@ Caption on the illustration: _Abrieß der Muscowitischen Prozession am Palmsonta
 
 Western Christianity
 
-Palmsonntag_in_Osttimor_2019.jpg]]
+]]
 
 In ancient times, palm branches symbolized goodness and victory. They were often depicted on coins and important buildings. Solomon had palm branches carved into the walls and doors of the temple (1 Kings 6:29). Again at the end of the Bible, people from every nation raise palm branches to honor Jesus (Revelation 7:9).
 
@@ -55,7 +55,7 @@ In the Roman Catholic Church, as well as among many Anglican and Lutheran congre
 
 In the Catholic Church and the Episcopal Church, this feast now coincides with that of Passion Sunday, which is the focus of the Mass which follows the palms ceremony. The palms are saved in many churches to be burned on Shrove Tuesday the following year to make ashes used in Ash Wednesday services. The Catholic Church considers the blessed palms to be sacramentals. The vestments for the day are deep scarlet red, the colour of blood, indicating the supreme redemptive sacrifice Christ was entering the city to fulfill: his Passion and Resurrection in Jerusalem.
 
-PalmSunday.jpg]] In the Episcopal and many other Anglican churches and in Lutheran churches, as well, the day is nowadays officially called "The Sunday of the Passion: Palm Sunday"; in practice, though, it is usually termed "Palm Sunday" as in the 1928 American Book of Common Prayer and in earlier Lutheran liturgies and calendars, to avoid undue confusion with the penultimate Sunday of Lent in the traditional calendar, which was "Passion Sunday".
+]] In the Episcopal and many other Anglican churches and in Lutheran churches, as well, the day is nowadays officially called "The Sunday of the Passion: Palm Sunday"; in practice, though, it is usually termed "Palm Sunday" as in the 1928 American Book of Common Prayer and in earlier Lutheran liturgies and calendars, to avoid undue confusion with the penultimate Sunday of Lent in the traditional calendar, which was "Passion Sunday".
 
 In the Church of Pakistan (a member of the Anglican Communion), the faithful on Palm Sunday carry palm branches into the church as they sing Psalm 24.
 
@@ -86,7 +86,7 @@ In Orthodox Ethiopia, this holiday is referred to as Hosanna. Palm leaves will b
 
 Finland
 
-Easter_witches_in_Nissilä_IM5293_C.jpg In Finland, it is popular for children to dress up as Easter witches and go door to door in neighborhoods and trade decorated pussy willow branches for coins and candy. This is an old Karelian custom called _virpominen_.
+In Finland, it is popular for children to dress up as Easter witches and go door to door in neighborhoods and trade decorated pussy willow branches for coins and candy. This is an old Karelian custom called _virpominen_.
 
 It is customary for the children to chant, with some variation, "Virvon varvon tuoreeks, terveeks, tulevaks vuodeks, vitsa sulle, palkka mulle!"[26] which translates as "I'm wishing you a fresh, healthy upcoming year, a branch for you, a prize for me!" The chant has been translated in Juha Vuorinen's novel _Totally Smashed!_ as "Willow switch, I'm the Easter witch! I wish you health and a love that's rich! From me I bring some luck today, for this branch what will you pay?"[27]
 
@@ -94,7 +94,7 @@ India
 
 In most of the Catholic churches in India the palms are blessed by the priest on Palm Sunday and then distributed among the people after the holy mass. There is a tradition of folding palm fronds into palm crosses, which are kept at the altar till the next Ash Wednesday.
 
-Marigolds_in_the_sanctuary.jpg) strewn about the sanctuary in an Oriental Orthodox church in Mumbai, India, on Palm Sunday]] In the South Indian state of Kerala (and in Indian Orthodox, Church of South India (CSI), Syro-Malankara Catholic Church, and Syriac Orthodox Church (Jacobite) congregations elsewhere in India and throughout the West), flowers are strewn about the sanctuary on Palm Sunday during the reading of the Gospel, at the words uttered by the crowd welcoming Jesus, "Hosanna! Blessed is he who is come and is to come in the name of the Lord God". These words are read to the congregation thrice. The congregation then repeats, "Hosanna!", and the flowers are scattered. This is adapted from the older Hindu custom of scattering flowers on festive occasions, as well as the honour shown to Jesus upon his entry into Jerusalem.
+) strewn about the sanctuary in an Oriental Orthodox church in Mumbai, India, on Palm Sunday]] In the South Indian state of Kerala (and in Indian Orthodox, Church of South India (CSI), Syro-Malankara Catholic Church, and Syriac Orthodox Church (Jacobite) congregations elsewhere in India and throughout the West), flowers are strewn about the sanctuary on Palm Sunday during the reading of the Gospel, at the words uttered by the crowd welcoming Jesus, "Hosanna! Blessed is he who is come and is to come in the name of the Lord God". These words are read to the congregation thrice. The congregation then repeats, "Hosanna!", and the flowers are scattered. This is adapted from the older Hindu custom of scattering flowers on festive occasions, as well as the honour shown to Jesus upon his entry into Jerusalem.
 
 Indian Orthodoxy traces its roots to the arrival in India of Saint Thomas the Apostle (traditionally dated to AD 52) and his evangelism among both the Brahmans of the Malabar Coast and the ancient Jewish community there. Its rites and ceremonies are both Hindu and Jewish, as well as Levantine Christian, in origin. In Syro-Malabar Catholic Church's palm leaves are blessed during Palm Sunday ceremony and a Procession takes place holding the palms.[28].
 
@@ -124,13 +124,13 @@ In the Saxon regions of the Netherlands, crosses are decorated with candy and br
 
 Philippines
 
-Palm33jf.JPG in Plaridel, Bulacan, Philippines.]] In the Philippines, a statue of Christ riding a donkey (the _Humenta_), or the presiding priest on horseback, is brought to the local church in a morning procession. Congregants line the route, waving _palaspás_ (ornately woven palm branches) and spreading _tapis_ (heirloom "aprons" made for this ritual) in imitation of the excited Jerusalemites. At the church parvise, a house, or the town plaza, children dressed as angels scatter flowers as they sing the day’s antiphon _Hosanna Filio David_ in the vernacular and to traditional tunes. The first Mass of the day then follows.
+in Plaridel, Bulacan, Philippines.]] In the Philippines, a statue of Christ riding a donkey (the _Humenta_), or the presiding priest on horseback, is brought to the local church in a morning procession. Congregants line the route, waving _palaspás_ (ornately woven palm branches) and spreading _tapis_ (heirloom "aprons" made for this ritual) in imitation of the excited Jerusalemites. At the church parvise, a house, or the town plaza, children dressed as angels scatter flowers as they sing the day’s antiphon _Hosanna Filio David_ in the vernacular and to traditional tunes. The first Mass of the day then follows.
 
 Once blessed, the _palaspás_ are brought home and placed on altars, doorways, and windows. The Church teaches that this is a sign of welcoming Christ into the home, but folk belief holds that the blessed _palaspás_ are apotropaic, deterring evil spirits, lightning, and fires. Another folk custom is to feed pieces of blessed _palaspás_ to roosters used in _sabong_ (cockfighting); this was strongly discouraged by the Archbishop of Manila, Cardinal Luis Antonio Tagle. In other provinces, the flowers strewn by the angels during the procession are added to the rice seeds being planted, in the belief that these will ensure a bountiful harvest.
 
 Poland
 
-87365_Palm_Sunday.jpg, Poland]] Many Polish towns and villages (the best known are Lipnica Murowana in Lesser Poland and Łyse) organize artificial palm competitions. The biggest of those reach above 30 meters in length; for example, the highest palm in 2008 was 33.39 meters.[30]
+, Poland]] Many Polish towns and villages (the best known are Lipnica Murowana in Lesser Poland and Łyse) organize artificial palm competitions. The biggest of those reach above 30 meters in length; for example, the highest palm in 2008 was 33.39 meters.[30]
 
 Romania and Moldova
 

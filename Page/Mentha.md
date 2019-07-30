@@ -18,7 +18,7 @@ More than 3,000 names have been published in the genus _Mentha_, at ranks from s
 
 Species
 
-Mint_Plant.jpg , Plants of the World Online recognized the following species:[18]
+, Plants of the World Online recognized the following species:[18]
 
 -   _Mentha alaica_ Boriss.
 -   _Mentha aquatica_ L. – water mint, marsh mint
@@ -47,7 +47,7 @@ Mint_Plant.jpg , Plants of the World Online recognized the following species:[18
 
 Hybrids
 
-CSA-Chocolate-Mint.jpg The mint genus has a large grouping of recognized hybrids. Those accepted by Plants of the World Online are listed below.[19] Parent species are taken from Tucker & Naczi (2007).[20] Synonyms, along with cultivars and varieties where available, are included within the specific nothospecies.
+The mint genus has a large grouping of recognized hybrids. Those accepted by Plants of the World Online are listed below.[19] Parent species are taken from Tucker & Naczi (2007).[20] Synonyms, along with cultivars and varieties where available, are included within the specific nothospecies.
 
 -   _Mentha_ × _carinthiaca_ Host (_M. arvensis_ × _M. suaveolens_)
 -   _Mentha_ × _dalmatica_ Tausch (_M. arvensis_ × _M. longifolia_)
@@ -68,8 +68,6 @@ CSA-Chocolate-Mint.jpg The mint genus has a large grouping of recognized hybrids
 
 Cultivation
 
-Mentha_gracilis_and_rotundifolia_MN_2007.JPG
-
 All mints thrive near pools of water, lakes, rivers, and cool moist spots in partial shade.[21] In general, mints tolerate a wide range of conditions, and can also be grown in full sun. Mint grows all year round.[22]
 
 They are fast-growing, extending their reach along surfaces through a network of runners. Due to their speedy growth, one plant of each desired mint, along with a little care, will provide more than enough mint for home use. Some mint species are more invasive than others. Even with the less invasive mints, care should be taken when mixing any mint with any other plants, lest the mint take over. To control mints in an open environment, they should be planted in deep, bottomless containers sunk in the ground, or planted above ground in tubs and barrels.[23]
@@ -87,7 +85,7 @@ Uses
 
 Culinary
 
-Mintjelly.jpg Mint_lemonade.jpg'' (mint lemonade) served in Damascus, Syria]]
+'' (mint lemonade) served in Damascus, Syria]]
 
 The leaf, fresh or dried, is the culinary source of mint. Fresh mint is usually preferred over dried mint when storage of the mint is not a problem. The leaves have a warm, fresh, aromatic, sweet flavor with a cool aftertaste, and are used in teas, beverages, jellies, syrups, candies, and ice creams. In Middle Eastern cuisine, mint is used on lamb dishes, while in British cuisine and American cuisine, mint sauce and mint jelly are used, respectively.
 
@@ -120,8 +118,6 @@ Diseases
 
 
 Etymology of "mint"
-
-Mint-leaves-2007.jpg
 
 Mint descends from the Latin word _mentha_, which is rooted in the Greek word _minthe_, personified in Greek mythology as Minthe, a nymph who was transformed into a mint plant, and reflex of a proto-Indo-European root whence also Sanskrit _-mantha, mathana_ (_premna serratifolia_).
 

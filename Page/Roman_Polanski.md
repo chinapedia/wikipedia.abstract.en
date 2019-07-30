@@ -42,7 +42,7 @@ After the war, he watched films, either at school or at a local cinema, using wh
 
 Early career in Poland
 
-Roman_Polanski_gwiazda_Lodz.jpg walk of fame]]
+walk of fame]]
 
 Polanski attended the National Film School in Łódź, the third-largest city in Poland.[38] In the 1950s, Polanski took up acting, appearing in Andrzej Wajda's _Pokolenie_ (_A Generation_, 1954) and in the same year in Silik Sternfeld's _Zaczarowany rower_ (_Enchanted Bicycle_ or _Magical Bicycle_). Polanski's directorial debut was also in 1955 with a short film _Rower_ (_Bicycle_). _Rower_ is a semi-autobiographical feature film, believed to be lost, which also starred Polanski. It refers to his real-life violent altercation with a notorious Kraków felon, Janusz Dziuba, who arranged to sell Polanski a bicycle, but instead beat him badly and stole his money. In real life, the offender was arrested while fleeing after fracturing Polanski's skull, and executed for three murders, out of eight prior such assaults which he had committed.[39] Several other short films made during his study at Łódź gained him considerable recognition, particularly _Two Men and a Wardrobe_ (1958) and _When Angels Fall_ (1959). He graduated in 1959.[40]
 
@@ -123,7 +123,7 @@ _Frantic_ (1988) was a Hitchcockian suspense-thriller starring Harrison Ford[79]
 
 1990s
 
-Roman_Polanski_Emmanuelle_Seigner_Cannes.jpg at the 1992 Cannes Film Festival.]] Polanski followed this with the dark psycho-sexual film _Bitter Moon_ (1992), followed by a film of the acclaimed play _Death and the Maiden_ (1994) starring Sigourney Weaver.
+at the 1992 Cannes Film Festival.]] Polanski followed this with the dark psycho-sexual film _Bitter Moon_ (1992), followed by a film of the acclaimed play _Death and the Maiden_ (1994) starring Sigourney Weaver.
 
 In 1997, Polanski directed a stage version of his 1967 film _The Fearless Vampire Killers_, which debuted in Vienna[81] followed by successful runs in Stuttgart, Hamburg, Berlin, and Budapest. On 1998, Polanski was elected a member of the Académie des Beaux-Arts.[82]
 
@@ -133,7 +133,7 @@ _The Ninth Gate_ is a thriller based on the novel _El Club Dumas_ by Arturo Pere
 
 2000s
 
-Roman_Polanski..jpg for _The Pianist_]]
+for _The Pianist_]]
 
 _The Pianist_ (2002)
 
@@ -147,8 +147,6 @@ _Oliver Twist_ (2005)
 
 _Oliver Twist_ is an adaptation of Charles Dickens' novel, written by _The Pianist_{{'}}s Ronald Harwood and shot in Prague.[87] Polanski said in interviews that he made the film as something he could show his children, and that the life of the young scavenger mirrored his own life, fending for himself in World War II Poland.
 
-Roman-Polanski-y-Diego-Moldes,-Madrid,-.29.11.2005.jpg
-
 2010s
 
 _The Ghost Writer_ (2010)
@@ -159,7 +157,7 @@ The film is based on a novel by British writer Robert Harris. Harris and Polansk
 
 The cast includes Ewan McGregor as the writer and Pierce Brosnan as former British Prime Minister Adam Lang. The film was shot on locations in Germany.[93]
 
-In the United States, film critic Roger Ebert included it in his top 10 pick for 2010, and states that "this movie is the work of a man who knows how to direct a thriller. Smooth, calm, confident, it builds suspense instead of depending on shock and action."[94] Co-star Ewan McGregor agrees, saying about Polanski that "he's a legend ... I've never examined a director and the way that they work, so much before. He's brilliant, just brilliant, and absolutely warrants his reputation as a great director."[95] Roman_Polanski_2011_2.jpg'' in Paris, November 2011]]
+In the United States, film critic Roger Ebert included it in his top 10 pick for 2010, and states that "this movie is the work of a man who knows how to direct a thriller. Smooth, calm, confident, it builds suspense instead of depending on shock and action."[94] Co-star Ewan McGregor agrees, saying about Polanski that "he's a legend ... I've never examined a director and the way that they work, so much before. He's brilliant, just brilliant, and absolutely warrants his reputation as a great director."[95] '' in Paris, November 2011]]
 
 _Carnage_ (2011)
 
@@ -192,7 +190,7 @@ Polanski's first wife, Barbara Lass (née Kwiatkowska),[115] was a Polish actres
 
 Sharon Tate
 
-Sharon_Tate_in_Eye_of_the_Devil_trailer_2.jpg''.]] Polanski met rising actress Sharon Tate while filming _The Fearless Vampire Killers_, and during the production, the two of them began dating.[118] On 1968, Polanski married Tate in London.[119]
+''.]] Polanski met rising actress Sharon Tate while filming _The Fearless Vampire Killers_, and during the production, the two of them began dating.[118] On 1968, Polanski married Tate in London.[119]
 
 In August 1969, while Polanski was in Europe working on a film, Tate was murdered along with four of their friends at their home in Los Angeles by members of Charles Manson's "family", a group of young, mostly female followers. Tate was pregnant at the time of her murder.
 
@@ -213,13 +211,13 @@ Legal history
 
 Sexual abuse case
 
-Mug_shot_of_Roman_Polanski.png On 11 March 1977, three years after making _Chinatown_, Polanski was arrested at the Beverly Wilshire Hotel for the sexual assault of 13-year-old Samantha Gailey, who had modeled for Polanski during a _Vogue_ magazine photo shoot the previous day around the swimming pool at the Bel Air home of Polanski was indicted on six counts of criminal behavior, including rape.[127][128] At his arraignment, he pleaded not guilty to all charges. Many executives in Hollywood came to his defense.[129] Gailey's attorney next arranged a plea bargain in which five of the six charges would be dismissed, and Polanski accepted.[130]
+On 11 March 1977, three years after making _Chinatown_, Polanski was arrested at the Beverly Wilshire Hotel for the sexual assault of 13-year-old Samantha Gailey, who had modeled for Polanski during a _Vogue_ magazine photo shoot the previous day around the swimming pool at the Bel Air home of Polanski was indicted on six counts of criminal behavior, including rape.[127][128] At his arraignment, he pleaded not guilty to all charges. Many executives in Hollywood came to his defense.[129] Gailey's attorney next arranged a plea bargain in which five of the six charges would be dismissed, and Polanski accepted.[130]
 
 At the time of the incident, Nicholson was out of town making a film, but his steady girlfriend, actress Anjelica Huston, had dropped by unannounced to pick up some items. She heard Polanski in the other room say "We'll be right out."[131] Polanski then came out with Gailey and he introduced her to Huston, and they chatted about Nicholson's two large dogs which were sitting nearby. Huston recalled Gailey was wearing platform heels and appeared quite tall.[132]
 
 After a brief conversation, Polanski had packed up his camera gear and Huston saw them drive off in his car. Huston told police the next day, after Polanski was arrested, that she "had witnessed nothing untoward" and never saw them together in the other room.[133] Gailey learned afterwards that Huston had recently broken up with Nicholson, but stopped by to pick up some belongings.[134]
 
-Roman_Polański.jpg As a result of the plea bargain, Polanski pleaded guilty to the charge of "unlawful sexual intercourse with a minor",[135][136] and was ordered to undergo 90 days of psychiatric evaluation at California Institution for Men at Chino.[137] Upon release from prison after 42 days, Polanski agreed to the plea bargain, his penalty to be time served along with probation. However, he learned afterward that the judge, Laurence J. Rittenband, had told some friends that he was going to disregard the plea bargain and sentence Polanski to 50 years in prison:[138][139] "I'll see this man never gets out of jail," he told Polanski's friend, screenwriter Howard E. Koch.[140] Gailey's attorney confirmed the judge changed his mind after he met the judge in his chambers:
+As a result of the plea bargain, Polanski pleaded guilty to the charge of "unlawful sexual intercourse with a minor",[135][136] and was ordered to undergo 90 days of psychiatric evaluation at California Institution for Men at Chino.[137] Upon release from prison after 42 days, Polanski agreed to the plea bargain, his penalty to be time served along with probation. However, he learned afterward that the judge, Laurence J. Rittenband, had told some friends that he was going to disregard the plea bargain and sentence Polanski to 50 years in prison:[138][139] "I'll see this man never gets out of jail," he told Polanski's friend, screenwriter Howard E. Koch.[140] Gailey's attorney confirmed the judge changed his mind after he met the judge in his chambers:
 
 Polanski was told by his attorney that "the judge could no longer be trusted" and that the judge's representations were "worthless".[141] Polanski decided not to appear at his sentencing. He told his friend, director Dino De Laurentis, "I've made up my mind. I'm getting out of here."[142] the day before sentencing, Polanski left the country on a flight to where he had a home. One day later, he left for As a French citizen, he has been protected from extradition and has lived mostly in France since then.[143] However, since he fled the United States before final sentencing, the charges are still pending.
 

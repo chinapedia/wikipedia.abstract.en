@@ -3,7 +3,7 @@ TRANSPORT IN THE REPUBLIC OF THE CONGO includes land, air and water transportati
 
 Railways
 
-Railways_in_Congo.svg _total:_ 795 km (includes 285 km private track) - Congo-Ocean Railway connects Brazzaville and Pointe-Noire.
+_total:_ 795 km (includes 285 km private track) - Congo-Ocean Railway connects Brazzaville and Pointe-Noire.
 _narrow gauge:_ 795 km 1.067-m gauge (1995 est.)
 
 Timeline

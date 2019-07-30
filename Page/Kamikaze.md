@@ -1,4 +1,4 @@
-USS_Bunker_Hill_hit_by_two_Kamikazes.jpg Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_(new).png, who flew his aircraft into USS _Bunker Hill_ (CV-17) on 11 May 1945]]
+, who flew his aircraft into USS _Bunker Hill_ (CV-17) on 11 May 1945]]
 
 , officially , were a part of the Japanese Special Attack Units of military aviators who initiated suicide attacks for the Empire of Japan against Allied naval vessels in the closing stages of the Pacific campaign in World War II, designed to destroy warships more effectively than possible with conventional air attacks. About 3,800 _kamikaze_ pilots died during the war, and more than 7,000 naval personnel were killed by _kamikaze_ attacks.[1]
 
@@ -13,7 +13,7 @@ The tradition of death instead of defeat, capture and shame was deeply entrenche
 
 Definition and etymology
 
-MokoShurai.jpg in a typhoon, by Kikuchi Yōsai, 1847]]
+in a typhoon, by Kikuchi Yōsai, 1847]]
 
 The Japanese word _kamikaze_ is usually translated as "divine wind" (_kami_ is the word for "god", "spirit", or "divinity", and _kaze_ for "wind"). The word originated from _Makurakotoba_ of waka poetry modifying "Ise"[8] and has been used since August 1281 to refer to the major typhoons that dispersed Mongol-Koryo fleets who invaded Japan under Kublai Khan in 1274.[9][10]
 
@@ -26,13 +26,11 @@ History
 
 Background
 
-Yokosuka_D4Y3.jpg3 (Type 33 _Suisei_) "Judy" in a suicide dive against on 25 November 1944. The attack left 15 killed and 44 wounded. The dive brakes are extended and the non-self-sealing port wing tank trails fuel vapor and/or smoke.]]
+3 (Type 33 _Suisei_) "Judy" in a suicide dive against on 25 November 1944. The attack left 15 killed and 44 wounded. The dive brakes are extended and the non-self-sealing port wing tank trails fuel vapor and/or smoke.]]
 
 Before the formation of _kamikaze_ units, pilots had made deliberate crashes as a last resort when their planes had suffered severe damage and they did not want to risk being captured, or wanted to do as much damage to the enemy as possible, since they were crashing anyway. Such situations occurred in both the Axis and Allied air forces. Axell and Kase see these suicides as "individual, impromptu decisions by men who were mentally prepared to die".[12] In most cases, little evidence exists that such hits represented more than accidental collisions of the kind that sometimes happen in intense sea or air battles. One example of this occurred on 7 December 1941 during the attack on Pearl Harbor. First Lieutenant Fusata Iida's plane had taken a hit and had started leaking fuel when he apparently used it to make a suicide attack on Naval Air Station Kaneohe. Before taking off, he had told his men that if his plane were to become badly damaged he would crash it into a "worthy enemy target".[13]
 
 The carrier battles in 1942, particularly Midway, inflicted irreparable damage on the Imperial Japanese Navy Air Service (IJNAS), such that they could no longer put together a large number of fleet carriers with well-trained aircrews.[14] Japanese planners had assumed a quick war and lacked comprehensive programmes to replace the losses of ships, pilots and sailors; at Midway in June 1942, the Japanese lost as many air crew in a single day as their pre-war training program had lost in a year.[15] The following Solomon Islands campaign (1942–1945) and the New Guinea campaign (1942–1945), notably the Battles of Eastern Solomons (August 1942) and Santa Cruz (October 1942), further decimated the IJNAS veteran aircrews, and replacing their combat experience proved impossible.[16]
-
-A6M5_52c_Kyushu.jpg
 
 During 1943–1944, U.S. forces steadily advanced toward Japan. Newer U.S.-made planes, especially the Grumman F6F Hellcat and Vought F4U Corsair, outclassed and soon outnumbered Japan's fighter planes. Tropical diseases, as well as shortages of spare parts and fuel, made operations more and more difficult for the IJNAS. By the Battle of the Philippine Sea (June 1944), the Japanese had to make do with obsolete aircraft and inexperienced aviators in the fight against better-trained and more experienced US Navy airmen who flew radar-directed combat air patrols. The Japanese lost over 400 carrier-based planes and pilots in the Battle of the Philippine Sea, effectively putting an end to their carriers' potency. Allied aviators called the action the "Great Marianas Turkey Shoot".
 
@@ -42,8 +40,6 @@ The important Japanese base of Saipan fell to the Allied forces on 15 July 1944.
 
 Beginnings
 
-USS_Essex_(CV-9)_is_hit_by_a_Kamikaze_off_the_Philippines_on_25_November_1944.jpg
-
 Captain Motoharu Okamura, in charge of the Tateyama Base in Tokyo, as well as the 341st Air Group Home, was, according to some sources, the first officer to officially propose _kamikaze_ attack tactics. With his superiors, he arranged the first investigations into the plausibility and mechanisms of intentional suicide attacks on 15 June 1944.[18]
 
 In August 1944, it was announced by the Domei news agency that a flight instructor named Takeo Tagata was training pilots in Taiwan for suicide missions.[19]
@@ -52,15 +48,13 @@ One source claims that the first _kamikaze_ mission occurred on 13 September 194
 
 According to some sources, on 14 October 1944, was hit by a deliberately crashed Japanese plane.[21]
 
-Arima_Masafumi.jpg
-
 Rear Admiral Masafumi Arima, the commander of the 26th Air Flotilla (part of the 11th Air Fleet), is sometimes credited with inventing the _kamikaze_ tactic. Arima personally led an attack by about 100 Yokosuka D4Y _Suisei_ ("Judy") dive bombers against a large _Essex_-class aircraft carrier, , near Leyte Gulf, on or about 15 October 1944. Arima was killed and part of a plane hit _Franklin_. The Japanese high command and propagandists seized on Arima's example. He was promoted posthumously to Vice Admiral and was given official credit for making the first _kamikaze_ attack. It is not clear that this was a planned suicide attack, and official Japanese accounts of Arima's attack bore little resemblance to the actual events.
 
 On 17 October 1944, Allied forces assaulted Suluan Island, beginning the Battle of Leyte Gulf. The Imperial Japanese Navy's 1st Air Fleet, based at Manila, was assigned the task of assisting the Japanese ships that would attempt to destroy Allied forces in Leyte Gulf. That unit had only 40 aircraft: 34 Mitsubishi A6M Zero carrier-based fighters, three Nakajima B6N _Tenzan_ ("Jill") torpedo bombers, one Mitsubishi G4M ("Betty") and two Yokosuka P1Y _Ginga_ ("Frances") land-based bombers, and one additional reconnaissance aircraft. The task facing the Japanese air forces seemed impossible. The 1st Air Fleet commandant, Vice Admiral Takijirō Ōnishi, decided to form a suicide offensive force, the Special Attack Unit. In a meeting on 19 October at Mabalacat Airfield (known to the U.S. military as Clark Air Base) near Manila, Onishi told officers of the 201st Flying Group headquarters: "I don't think there would be any other certain way to carry out the operation [to hold the Philippines] than to put a 250 kg bomb on a Zero and let it crash into a U.S. carrier, in order to disable her for a week."
 
 First unit
 
-72nd_Shinbu_1945_Kamikaze.jpg, holding a puppy, with four other pilots of the 72nd _Shinbu_ Squadron at Bansei, Kagoshima. Araki died the following day, at the age of 17, in a suicide attack on ships near Okinawa.]]
+, holding a puppy, with four other pilots of the 72nd _Shinbu_ Squadron at Bansei, Kagoshima. Araki died the following day, at the age of 17, in a suicide attack on ships near Okinawa.]]
 
 Commander Asaichi Tamai asked a group of 23 talented student pilots, all of whom he had trained, to volunteer for the special attack force. All of the pilots raised both of their hands, volunteering to join the operation. Later, Tamai asked Lieutenant Yukio Seki to command the special attack force. Seki is said to have closed his eyes, lowered his head and thought for ten seconds before saying: "Please do appoint me to the post." Seki became the 24th _kamikaze_ pilot to be chosen. He later said: "Japan's future is bleak if it is forced to kill one of its best pilots" and "I am not going on this mission for the Emperor or for the Empire ... I am going because I was ordered to."[22]
 
@@ -72,7 +66,7 @@ A less literal translation[25] is:
 
 Leyte Gulf: the first attacks
 
-SL_Exp_5.jpg D4Y_tail_kitkun.jpg horizontal stabilizer from the tail of a "Judy" on the deck of . The "Judy" made a run on the ship approaching from dead astern; it was met by effective fire and the plane passed over the island and exploded. Parts of the plane and the pilot were scattered over the flight deck and the forecastle.]]
+horizontal stabilizer from the tail of a "Judy" on the deck of . The "Judy" made a run on the ship approaching from dead astern; it was met by effective fire and the plane passed over the island and exploded. Parts of the plane and the pilot were scattered over the flight deck and the forecastle.]]
 
 Several suicide attacks, carried out during the invasion of Leyte by Japanese pilots from units other than the Special Attack Force, have been described as the first _kamikaze_ attacks. Early on 21 October, a Japanese aircraft deliberately crashed into the foremast of the heavy cruiser .[27] This aircraft was possibly either a Aichi D3A dive bomber, from an unidentified unit of the Imperial Japanese Navy Air Service,[28] or a Mitsubishi Ki-51 of the 6th Flying Brigade, Imperial Japanese Army Air Force.[29] The attack killed 30 personnel, including the cruiser's captain, Emile Dechaineux, and wounded 64, including the Australian force commander, Commodore John Collins.[30] The Australian official history of the war claimed that this was the first _kamikaze_ attack on an Allied ship, although other sources disagree because it was not a planned attack by a member of the Special Attack Force, but was most likely to have been undertaken on the pilot's own initiative.[31]
 
@@ -92,13 +86,11 @@ Purpose-built _kamikaze_ planes, as opposed to converted fighters and dive-bombe
 
 Allied defensive tactics
 
-USS_White_Plains_attack_by_Tokkotai_unit_25.10.1945_kk1a.jpg (A6M2 Model 21) towards the end of its run at the escort carrier on 25 October 1944. The aircraft exploded in mid-air moments after the picture was taken, scattering debris across the deck.]]
+(A6M2 Model 21) towards the end of its run at the escort carrier on 25 October 1944. The aircraft exploded in mid-air moments after the picture was taken, scattering debris across the deck.]]
 
 In early 1945, U.S. Navy aviator Commander John Thach, already famous for developing effective aerial tactics against the Japanese such as the Thach Weave, developed a defensive strategy against _kamikazes_ called the "big blue blanket" to establish Allied air supremacy well away from the carrier force. This recommended combat air patrols (CAP) that were larger and operated further from the carriers than before, a line of picket destroyers and destroyer escorts at least from the main body of the fleet to provide earlier radar interception and improved coordination between fighter direction officers on carriers. This plan also called for around-the-clock fighter patrols over Allied fleets, though the U.S. Navy had cut back training of fighter pilots so there were not enough Navy pilots available to counter the _kamikaze_ threat. A final element included intensive fighter sweeps over Japanese airfields, and bombing of Japanese runways, using delayed-action bombs to make repairs more difficult.[34]
 
 Late in 1944, the British Pacific Fleet (BPF) used the good high-altitude performance of its Supermarine Seafires (the naval version of the Spitfire) on combat air patrol duties. Seafires were heavily involved in countering the _kamikaze_ attacks during the Iwo Jima landings and beyond. The Seafires' best day was 15 August 1945, shooting down eight attacking aircraft with a single loss.
-
-A6M_kamikaze_attacking_c1945.jpg
 
 Allied pilots were more experienced, better trained and in command of superior aircraft, making the poorly trained _kamikaze_ pilots easy targets. The U.S. Fast Carrier Task Force alone could bring over 1,000 fighter aircraft into play. Allied pilots became adept at destroying enemy aircraft before they struck ships.
 
@@ -106,13 +98,13 @@ Allied gunners had begun to develop techniques to negate _kamikaze_ attacks. Lig
 
 Final phase
 
-USS_Louisville_(CA-28)_is_hit_by_a_kamikaze_in_Lingayen_Gulf_on_6_January_1945_(80-G-363217).jpg _kamikaze_ at the Battle of Lingayen Gulf, 6 January 1945.]] Kamikaze_zero.jpg (visible top left), 11 April 1945]]
+_kamikaze_ at the Battle of Lingayen Gulf, 6 January 1945.]] (visible top left), 11 April 1945]]
 
 The peak period of _kamikaze_ attack frequency came during April–June 1945 at the Battle of Okinawa. On 6 April 1945, waves of aircraft made hundreds of attacks in Operation _Kikusui_ ("floating chrysanthemums").[37] At Okinawa, _kamikaze_ attacks focused at first on Allied destroyers on picket duty, and then on the carriers in the middle of the fleet. Suicide attacks by planes or boats at Okinawa sank or put out of action at least 30 U.S. warships[38] and at least three U.S. merchant ships,[39] along with some from other Allied forces. The attacks expended 1,465 planes. Many warships of all classes were damaged, some severely, but no aircraft carriers, battleships or cruisers were sunk by _kamikaze_ at Okinawa. Most of the ships lost were destroyers or smaller vessels, especially those on picket duty.[40] The destroyer earned the nickname "The Ship That Would Not Die" after surviving six _kamikaze_ attacks and four bomb hits during this battle.[41]
 
 U.S. carriers, with their wooden flight decks, appeared to suffer more damage from _kamikaze_ hits than the armored-decked carriers from the British Pacific Fleet. U.S. carriers also suffered considerably heavier casualties from _kamikaze_ strikes; for instance, 389 men were killed in one attack on , greater than the combined number of fatalities suffered on all six Royal Navy armoured carriers from all forms of attack during the entire war. _Bunker Hill_ and _Franklin_ were both hit while conducting operations with fully fueled and armed aircraft spotted on deck for takeoff, an extremely vulnerable state for any carrier. Eight _kamikaze_ hits on five British carriers resulted in only 20 deaths while a combined total of 15 bomb hits, most of weight or greater, and one torpedo hit on four carriers caused 193 fatal casualties earlier in the war – striking proof of the protective value of the armoured flight deck.[42][43]
 
-HMS_Formidable_(67)_on_fire_1945.jpg. The _kamikaze_ made a dent long and wide and deep in the armored flight deck. Eight crew members were killed, forty-seven were wounded, and 11 aircraft were destroyed.]]
+. The _kamikaze_ made a dent long and wide and deep in the armored flight deck. Eight crew members were killed, forty-seven were wounded, and 11 aircraft were destroyed.]]
 
 The resilience of well-armoured vessels was shown on 4 May, just after 11:30, when there was a wave of suicide attacks against the British Pacific Fleet. One Japanese plane made a steep dive from "a great height" at the carrier and was engaged by anti-aircraft guns.[44] Although the _kamikaze_ was hit by gunfire, it managed to drop a bomb that detonated on the flight deck, making a crater long, wide and deep. A long steel splinter speared down through the hangar deck and the main boiler room (where it ruptured a steam line) before coming to rest in a fuel tank near the aircraft park, where it started a major fire. Eight personnel were killed and 47 were wounded. One Corsair and 10 Grumman Avengers were destroyed. The fires were gradually brought under control, and the crater in the deck was repaired with concrete and steel plate. By 17:00, Corsairs were able to land. On 9 May, _Formidable_ was again damaged by a _kamikaze_, as were the carrier and the battleship . The British were able to clear the flight deck and resume flight operations in just hours, while their American counterparts took a few days or even months, as observed by a U.S. Navy liaison officer on who commented: "When a _kamikaze_ hits a U.S. carrier it means six months of repair at Pearl Harbor. When a _kamikaze_ hits a Limey carrier it’s just a case of 'Sweepers, man your brooms'."
 
@@ -123,13 +115,11 @@ Vice Admiral Matome Ugaki, the commander of the IJN 5th Air Fleet based in Kyush
 
 Effects
 
-Ugaki_Matome_final_mission.jpg
-
 As the end of the war approached, the Allies did not suffer more serious significant losses, despite having far more ships and facing a greater intensity of _kamikaze_ attacks. Although causing some of the heaviest casualties on U.S. carriers in 1945, the IJN had sacrificed 2,525 _kamikaze_ pilots and the IJAAF 1,387—far more than it had lost in 1942 when it sank or crippled three carriers (albeit without inflicting significant casualties). In 1942, when U.S. Navy vessels were scarce, the temporary absence of key warships from the combat zone would tie up operational initiatives. By 1945, however, the U.S. Navy was large enough that damaged ships could be detached back home for repair without significantly hampering the fleet's operational capability. The only surface losses were destroyers and smaller ships that lacked the capability to sustain heavy damage. Overall, the _kamikazes_ were unable to turn the tide of the war and stop the Allied invasion.
 
 In the immediate aftermath of _kamikaze_ strikes, British carriers with their armoured flight decks recovered more quickly compared to their US counterparts. Post-war analysis showed that some British carriers such as HMS _Formidable_ suffered structural damage that led to them being scrapped, as being beyond economic repair. Britain's post-war economic situation played a role in the decision to not repair damaged carriers, while even seriously damaged American carriers such as USS _Bunker Hill_ were repaired, although they were then mothballed or sold off as surplus after World War II without re-entering service.
 
-USS_Intrepid_CV-11_kamikaze_strike.jpg gun aboard the battleship watches a _kamikaze_ plane descend upon 25 November 1944. Over 75 men were killed or missing and 100 wounded.]]
+gun aboard the battleship watches a _kamikaze_ plane descend upon 25 November 1944. Over 75 men were killed or missing and 100 wounded.]]
 
 The exact number of ships sunk is a matter of debate. According to a wartime Japanese propaganda announcement, the missions sank 81 ships and damaged 195, and according to a Japanese tally, _kamikaze_ attacks accounted for up to 80% of the U.S. losses in the final phase of the war in the Pacific. In a 2004 book, _World War II_, the historians Wilmott, Cross and Messenger stated that more than 70 U.S. vessels were "sunk or damaged beyond repair" by _kamikazes_.
 
@@ -155,7 +145,7 @@ Australian journalists Denis and Peggy Warner, in a 1982 book with Japanese nava
 
 Recruitment
 
-Kamikaze-ManchesterMSI_crop.jpg ("cherry blossom"), a specially built rocket-powered _kamikaze_ aircraft used towards the end of the war. The U.S. called them _Baka Bombs_ ("idiot bombs").]]
+("cherry blossom"), a specially built rocket-powered _kamikaze_ aircraft used towards the end of the war. The U.S. called them _Baka Bombs_ ("idiot bombs").]]
 
 It was claimed by the Japanese forces at the time that there were many volunteers for the suicidal forces. Captain Motoharu Okamura commented that "there were so many volunteers for suicide missions that he referred to them as a swarm of bees", explaining: "Bees die after they have stung."[46] Okamura is credited with being the first to propose the _kamikaze_ attacks. He had expressed his desire to lead a volunteer group of suicide attacks some four months before Admiral Takijiro Ohnishi, commander of the Japanese naval air forces in the Philippines, presented the idea to his staff. While Vice Admiral Shigeru Fukudome, commander of the second air fleet, was inspecting the 341st Air Group, Captain Okamura took the chance to express his ideas on crash-dive tactics. "In our present situation I firmly believe that the only way to swing the war in our favor is to resort to crash-dive attacks with our planes. There is no other way. There will be more than enough volunteers for this chance to save our country, and I would like to command such an operation. Provide me with 300 planes and I will turn the tide of war."[47]
 
@@ -183,15 +173,13 @@ Cultural background
 
 In 1944–45, American propagandists invented the term "State Shinto" to differentiate the Japanese state's ideology from traditional Shinto practices. As time went on, Americans claimed, Shinto was used increasingly in the promotion of nationalist sentiment. In 1890, the Imperial Rescript on Education was passed, under which students were required to ritually recite its oath to offer themselves "courageously to the State" as well as protect the Imperial family. The ultimate offering was to give up one’s life. It was an honour to die for Japan and the Emperor. Axell and Kase pointed out: "The fact is that innumerable soldiers, sailors and pilots were determined to die, to become eirei, that is 'guardian spirits' of the country. ... Many Japanese felt that to be enshrined at Yasukuni was a special honour because the Emperor visited the shrine to pay homage twice a year. Yasukuni is the only shrine deifying common men which the Emperor would visit to pay his respects."[55] Young Japanese people were indoctrinated from an early age with these ideals.
 
-19441025_pilots_of_japanese_201_naval_air_corps_farewell.jpg
-
 Following the commencement of the _kamikaze_ tactic, newspapers and books ran advertisements, articles and stories regarding the suicide bombers to aid in recruiting and support. In October 1944, the _Nippon Times_ quoted Lieutenant Sekio Nishina: "The spirit of the Special Attack Corps is the great spirit that runs in the blood of every Japanese ... The crashing action which simultaneously kills the enemy and oneself without fail is called the Special Attack ... Every Japanese is capable of becoming a member of the Special Attack Corps."[56] Publishers also played up the idea that the _kamikaze_ were enshrined at Yasukuni and ran exaggerated stories of _kamikaze_ bravery – there were even fairy tales for little children that promoted the _kamikaze_. A Foreign Office official named Toshikazu Kase said: "It was customary for GHQ [in Tokyo] to make false announcements of victory in utter disregard of facts, and for the elated and complacent public to believe them."[57]
 
 While many stories were falsified, some were true, such as that of Kiyu Ishikawa, who saved a Japanese ship when he crashed his plane into a torpedo that an American submarine had launched. The sergeant major was posthumously promoted to second lieutenant by the emperor and was enshrined at Yasukuni.[58] Stories like these, which showed the kind of praise and honour death produced, encouraged young Japanese to volunteer for the Special Attack Corps and instilled a desire in the youth to die as a _kamikaze_.
 
 Ceremonies were carried out before _kamikaze_ pilots departed on their final mission. The _kamikaze_ shared ceremonial cups of sake or water known as "mizu no sakazuki". Many Army officer _kamikaze_ took their swords along, while the Navy pilots (as a general rule) did not. The _kamikaze_, along with all Japanese aviators flying over unfriendly territory, were issued (or purchased, if they were officers) a Nambu pistol with which to end their lives if they risked being captured. Like all Army and Navy servicemen, the _kamikaze_ would wear their _senninbari_, a "belt of a thousand stitches" given to them by their mothers.[59] They also composed and read a death poem, a tradition stemming from the samurai, who did so before committing _seppuku_. Pilots carried prayers from their families and were given military decorations. The _kamikaze_ were escorted by other pilots whose function was to protect them en route to their destination and report on the results. Some of these escort pilots, such as Zero pilot Toshimitsu Imaizumi, were later sent out on their own _kamikaze_ missions.[60]
 
-Chiran_high_school_girls_wave_kamikaze_pilot.jpg-IIIa _Hayabusa_.]]
+-IIIa _Hayabusa_.]]
 
 While it is commonly perceived that volunteers signed up in droves for _kamikaze_ missions, it has also been contended that there was extensive coercion and peer pressure involved in recruiting soldiers for the sacrifice. Their motivations in "volunteering" were complex and not simply about patriotism or bringing honour to their families. Firsthand interviews with surviving _kamikaze_ and escort pilots has revealed that they were motivated by a desire to protect their families from perceived atrocities and possible extinction at the hands of the Allies. They viewed themselves as the last defense.[61]
 

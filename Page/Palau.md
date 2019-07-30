@@ -18,7 +18,7 @@ Palau was originally settled between the 3rd and 2nd millennia BCE, most likely 
 
 Sonsorol, part of the Southwest Islands, an island chain approximately from the main island chain of Palau, was sighted by Europeans as early as 1522, when the Spanish mission of the _Trinidad_, the flagship of Ferdinand Magellan's voyage of circumnavigation, sighted two small islands around the 5th parallel north, naming them "San Juan".[9]
 
-Islas_Marianas_Palaos_y_Carolinas.JPG After the conquest of the Philippines in 1565 by the Spanish Empire, the archipelago of Palau became part of the territory of the Captaincy General of the Philippines, established in 1574 as part of the Spanish East Indies with the capital based in the colonial centre in Manila. However, the Spanish presence only began to express with evangelization, began at the end of the 17th century, and its dominance began to take shape in the 18th century.
+After the conquest of the Philippines in 1565 by the Spanish Empire, the archipelago of Palau became part of the territory of the Captaincy General of the Philippines, established in 1574 as part of the Spanish East Indies with the capital based in the colonial centre in Manila. However, the Spanish presence only began to express with evangelization, began at the end of the 17th century, and its dominance began to take shape in the 18th century.
 
 After 16th century
 
@@ -30,7 +30,7 @@ This map and the letter caused a vast interest in the new islands. Another lette
 
 Transitions era
 
-Palau-Inseln.jpg]] Koror_chiefs_in_1915.jpg
+]]
 
 British traders became prominent visitors to Palau in the 18th century, followed by expanding Spanish influence in the 19th century. Palau, under the name _Palaos_, was included in the Malolos Congress, the first revolutionary congress in the Philippines which aimed to become fully independent from colonialists. Palau, at the time, was part of the Philippines. Palau had one appointed member to the Congress, becoming the only group of islands in the entire Caroline Islands to be granted high representation in a non-colonial Philippine Congress. The Congress also supported the right of Palau to self-determination if ever it wishes to pursue such a path.[12] During World War I, the Japanese Empire annexed the islands after seizing them from Germany in 1914. Following World War I, the League of Nations formally placed the islands under Japanese administration as part of the South Pacific Mandate. In World War II, Palau was used by Japan to support its 1941 invasion of the Philippines, which succeeded in 1942. The invasion overthrew the American-installed Commonwealth government in the Philippines and installed the Japanese-backed Second Philippine Republic in 1943.[13]
 
@@ -40,14 +40,14 @@ During World War II, the United States captured Palau from Japan in 1944 after t
 
 Independence
 
-TTPI_High_Commissioner_and_staff.jpg Four of the Trust Territory districts joined together and formed the Federated States of Micronesia in 1979, but the districts of Palau and the Marshall Islands declined to participate. Palau, the westernmost cluster of the Carolines, instead opted for independent status in 1978, which was widely supported by the Philippines, Taiwan, and Japan. It approved a new constitution and became the Republic of Palau on 1 January 1981.[14] It signed a Compact of Free Association with the United States in 1982. In the same year, Palau became one of the founding members of the Nauru Agreement. After eight referenda and an amendment to the Palauan constitution, the Compact was ratified in 1993. The Compact went into effect on 1 October 1994,[15] making Palau _de jure_ independent, although it had been _de facto_ independent since 25 May 1994, when the trusteeship ended. Formal diplomatic relations with the Philippines was re-established in the same year, although the two nations already had diplomatic back channels prior to 1994. Palau also became a member of the Pacific Islands Forum.
+Four of the Trust Territory districts joined together and formed the Federated States of Micronesia in 1979, but the districts of Palau and the Marshall Islands declined to participate. Palau, the westernmost cluster of the Carolines, instead opted for independent status in 1978, which was widely supported by the Philippines, Taiwan, and Japan. It approved a new constitution and became the Republic of Palau on 1 January 1981.[14] It signed a Compact of Free Association with the United States in 1982. In the same year, Palau became one of the founding members of the Nauru Agreement. After eight referenda and an amendment to the Palauan constitution, the Compact was ratified in 1993. The Compact went into effect on 1 October 1994,[15] making Palau _de jure_ independent, although it had been _de facto_ independent since 25 May 1994, when the trusteeship ended. Formal diplomatic relations with the Philippines was re-established in the same year, although the two nations already had diplomatic back channels prior to 1994. Palau also became a member of the Pacific Islands Forum.
 
 Legislation making Palau an "offshore" financial center was passed by the Senate in 1998. In 2001, Palau passed its first bank regulation and anti-money laundering laws. In 2005, Palau led the Micronesia challenge, which would conserve 30% of near-shore coastal waters and 20% of forest land of participating countries by 2020. In 2012, the Rock Islands of Palau was declared as a UNESCO World Heritage Site.[16] In 2015, Palau became a member of the Climate Vulnerable Forum under the chairmanship of the Philippines, and at the same time, the country officially protected 80% of its water resources, becoming the first country to do so.[17] The protection of its water resources made significant increases in the country's economy in less than two years.[18] In 2017, the nation became the first to establish an eco-promise, known as the _Palau Pledge_, which are stamped on local and foreign passports.[19] In 2018, Palau and the Philippines began re-connecting their economic and diplomatic relations. The Philippines has supported Palau to become an observer state in ASEAN, as Palau also has Southeast Asian ethnic origins.[20]
 
 
 Politics and government
 
-Capitol,_Melekeok,_Palau.jpg, the seat of government.]]
+, the seat of government.]]
 
 Palau is a democratic republic. The President of Palau is both head of state and head of government. Executive power is exercised by the government, while legislative power is vested in both the government and the Palau National Congress. The judiciary is independent of the executive and the legislature. Palau adopted a constitution in 1981.
 
@@ -75,36 +75,32 @@ Only one of the Uyghurs initially agreed to resettlement,[39] but by the end of 
 
 Administrative divisions
 
-States_of_Palau.jpg
-
 Palau is divided into sixteen States (until 1984 called municipalities). These are listed below with their areas (in square kilometres) and 2012 estimated and 2015 Census populations:
 
-  State                                         Area (km²)   Estimate 2012   Census 13 April 2015   Notes
-  --------------------------------------------- ------------ --------------- ---------------------- -----------------------------------------------------------------------------------------------------
-  Flag_of_Kayangel_State.png Kayangel           1.7          76              54                     comprising islands of Kayangel Atoll
-  Flag_of_Ngarchelong.svg Ngarchelong           11.2         281             316                    northern end of Babeldaob Island
-  Flag_of_Ngaraard_State.svg Ngaraard           34           453             413                    northeastern side of Babeldaob Island
-  Flag_of_Ngardmau_State.png Ngardmau           34           195             185                    on western side of Babeldaob Island
-  Flag_of_Ngeremlengui_State.png Ngaremlengui   68           310             350                    on western side of Babeldaob Island
-  Flag_of_Ngatpang_State.png Ngatpang           33           257             282                    on western side of Babeldaob Island
-  Flag_of_Ngiwal_State.png Ngiwal               17           226             282                    on eastern side of Babeldaob Island
-  Flag_of_Melekeok.png Melekeok                 26           300             277                    on eastern side of Babeldaob Island
-  Flag_of_Ngchesar_State.png Ngchesar           43           287             291                    on eastern side of Babeldaob Island
-  Flag_of_Aimeliik.svg Aimeliik                 44           281             334                    southwest part of Babeldaob Island
-  Flag_of_Airai_State.png Airai                 59           2,537           2,455                  southeast part of Babeldaob Island
-  Flag_of_Koror_State.png Koror                 60.52        11,670          11,444                 Koror, Arakabesan and Malakal Islands, plus Rock Islands (Chelbacheb) and Eil Malk to the southwest
-  Flag_of_Peleliu_State.png Peleliu             22.3         510             484                    comprises Peleliu Island and some islets to its north, notably Ngercheu
-  Flag_of_Angaur_State.png Angaur               8.06         130             119                    Angaur Island, 12 km south of Peliliu
-  Flag_of_Sonsorol.svg Sonsorol                 3.1          42              40                     comprises Sonsorol, Pulo Anna and Merir Islands
-  Flag_of_Hatohobei.svg Hatohobei               0.9          10              25                     comprises Tobi Island and (uninhabited) Helen Reef
+  State          Area (km²)   Estimate 2012   Census 13 April 2015   Notes
+  -------------- ------------ --------------- ---------------------- -----------------------------------------------------------------------------------------------------
+  Kayangel       1.7          76              54                     comprising islands of Kayangel Atoll
+  Ngarchelong    11.2         281             316                    northern end of Babeldaob Island
+  Ngaraard       34           453             413                    northeastern side of Babeldaob Island
+  Ngardmau       34           195             185                    on western side of Babeldaob Island
+  Ngaremlengui   68           310             350                    on western side of Babeldaob Island
+  Ngatpang       33           257             282                    on western side of Babeldaob Island
+  Ngiwal         17           226             282                    on eastern side of Babeldaob Island
+  Melekeok       26           300             277                    on eastern side of Babeldaob Island
+  Ngchesar       43           287             291                    on eastern side of Babeldaob Island
+  Aimeliik       44           281             334                    southwest part of Babeldaob Island
+  Airai          59           2,537           2,455                  southeast part of Babeldaob Island
+  Koror          60.52        11,670          11,444                 Koror, Arakabesan and Malakal Islands, plus Rock Islands (Chelbacheb) and Eil Malk to the southwest
+  Peleliu        22.3         510             484                    comprises Peleliu Island and some islets to its north, notably Ngercheu
+  Angaur         8.06         130             119                    Angaur Island, 12 km south of Peliliu
+  Sonsorol       3.1          42              40                     comprises Sonsorol, Pulo Anna and Merir Islands
+  Hatohobei      0.9          10              25                     comprises Tobi Island and (uninhabited) Helen Reef
 
 Historically, Palau's Rock Islands have been part of the State of Koror. The Southwestern islands (Sonsorol and Hatohobei States) do not speak Palauan, but the distinct Sonsorolese-Tobian (related to Woleai Atoll's Yapese)
 
-Palau-CIA_WFB_Map.png
-
 Maritime law enforcement
 
-Palau_Maritime_Police_vessel.jpg'', _Kabekl M’tal_ and _Bul_ provide littoral fishery protection.[42]]]
+'', _Kabekl M’tal_ and _Bul_ provide littoral fishery protection.[42]]]
 
 Palau's Division of Marine Law Enforcement patrols the nation's 230,000 square mile exclusive economic zone. They operate two long range patrol boats, the _Remeliik_ and the _Kedam_, to hunt for poachers and unlicensed fishermen.[43][44][45] Smaller boats are used for littoral operations.[46] They are based on Koror.[47]
 
@@ -123,7 +119,7 @@ Typhoons are rare, as Palau lies outside the main typhoon zone. The strongest ty
 
 Environment
 
-Palau-rock-islands20071222.jpg in Palau.]] Palau_2008030818_4709_(2347767520).jpg
+in Palau.]]
 
 While much of Palau remains free of environmental degradation, areas of concern include illegal dynamite fishing, inadequate solid waste disposal facilities in Koror and extensive sand and coral dredging in the Palau lagoon. As with other Pacific island nations, rising sea level presents a major environmental threat. Inundation of low-lying areas threatens coastal vegetation, agriculture, and an already insufficient water supply. Wastewater treatment is a problem, along with the handling of toxic waste from fertilizers and biocides.
 
@@ -142,7 +138,7 @@ Economy
 
 Palau's economy consists primarily of tourism, subsistence agriculture and fishing. Tourist activity focuses on scuba diving and snorkeling in the islands' rich marine environment, including its barrier reefs' walls and World War II wrecks. The government is the largest employer, relying heavily on U.S. financial assistance. Business and tourist arrivals numbered some 50,000 in fiscal year 2000–2001.
 
-Japan_Palau_Friendship_Bridge.jpg]]
+]]
 
 The population enjoys a per capita income twice that of Micronesia as a whole. Long-term prospects for the key tourist sector have been greatly bolstered by the expansion of air travel in the Pacific, the rising prosperity of leading East Asian countries and the willingness of foreigners to finance infrastructure development.
 
@@ -157,14 +153,14 @@ Major tourist draws in Palau include Rock Islands Southern Lagoon, a UNESCO worl
 
 Transportation
 
-Palau_International_Airport_1.JPG]] Palau International Airport provides scheduled direct flights with Guam, Manila, Seoul and Taipei and since December 2010, Tokyo-Narita. Palau Pacific Airways also has charter flights to and from Hong Kong and Macau. In addition, the states of Angaur and Peleliu have regular service to domestic destinations.
+]] Palau International Airport provides scheduled direct flights with Guam, Manila, Seoul and Taipei and since December 2010, Tokyo-Narita. Palau Pacific Airways also has charter flights to and from Hong Kong and Macau. In addition, the states of Angaur and Peleliu have regular service to domestic destinations.
 
 Freight, military and cruise ships often call at Malakal Harbor, on Malakal Island outside Koror. The country has no railways, and of the of highways, only are paved. Driving is on the right and the speed limit is . Taxis are available in Koror. They are not metered and fares are negotiable. Transportation between islands mostly relies on private boats and domestic air services. However, there are some state run boats[63] between islands as a cheaper alternative.
 
 
 Demographics
 
-The population of Palau is approximately , of whom 73% are native Palauans of mixed Melanesian, and Austronesian descent. There are many Asian communities within Palau. Filipinos form the largest Asian group and second largest ethnic group in the country. There are significant numbers of Chinese and Koreans. There are also smaller numbers of Palauans of mixed or full Japanese ancestry. Smaller numbers of Bangladeshi and Nepalese migrant workers and their descendants who came to the islands during the late 1900s can also be found. Most Palauans of Asian origin came during the late 1900s with many Filipinos, Chinese, Bangladeshis and Nepalese coming to Palau as unskilled workers and professionals.[64] There are also small numbers of Europeans and Americans. Tobi_AKK_Villagers.jpg
+The population of Palau is approximately , of whom 73% are native Palauans of mixed Melanesian, and Austronesian descent. There are many Asian communities within Palau. Filipinos form the largest Asian group and second largest ethnic group in the country. There are significant numbers of Chinese and Koreans. There are also smaller numbers of Palauans of mixed or full Japanese ancestry. Smaller numbers of Bangladeshi and Nepalese migrant workers and their descendants who came to the islands during the late 1900s can also be found. Most Palauans of Asian origin came during the late 1900s with many Filipinos, Chinese, Bangladeshis and Nepalese coming to Palau as unskilled workers and professionals.[64] There are also small numbers of Europeans and Americans.
 
 Languages
 
@@ -179,7 +175,7 @@ The German and Japanese occupations of Palau both subsidized missionaries to fol
 
 Culture
 
-A_traditional_Palauan_hut,_2012.jpg Palauan society follows a very strict matrilineal system. Matrilineal practices are seen in nearly every aspect of Palauan traditions, especially in funeral, marriage, inheritance and the passing of traditional titles. The system probably had its origins from the Philippine archipelago, which had a similar system until the archipelago was colonized by Spain.
+Palauan society follows a very strict matrilineal system. Matrilineal practices are seen in nearly every aspect of Palauan traditions, especially in funeral, marriage, inheritance and the passing of traditional titles. The system probably had its origins from the Philippine archipelago, which had a similar system until the archipelago was colonized by Spain.
 
 The cuisine includes local foods such as cassava, taro, yam, potato, fish and pork. Western cuisine is favored among young Palauans and the locals are joined by foreign tourists. The rest of Micronesia is similar with much less tourism, leading to fewer restaurants. Tourists eat mainly at their hotels on such islands. Some local foods include an alcoholic drink made from coconut on the tree; the drink made from the roots of the kava; and the chewing of betel nuts.
 

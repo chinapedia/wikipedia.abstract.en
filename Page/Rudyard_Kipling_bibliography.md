@@ -93,7 +93,7 @@ Books
 -   _The Brushwood Boy_ (1907), 1895 story, illus. F. H. Townsend; UK and US
 -   _Actions and Reactions_ (1909)
 
-Kipling_-_Song_of_the_English,_1914_-_3492116_F.jpg, 1914]]
+, 1914]]
 
 -   _A Song of the English_ (1909), with W. Heath Robinson (illustrator)
 -   _Rewards and Fairies_ (1910)

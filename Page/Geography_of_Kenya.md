@@ -1,5 +1,3 @@
-Un-kenya.png LocationKenya.svg
-
 The GEOGRAPHY OF KENYA is diverse, varying amongst Kenya's 47 Counties. Kenya has a coastline on the Indian Ocean, which contains swamps of East African mangroves. Inland are broad plains and numerous hills.
 
 Central and Western Kenya is characterised by the Kenyan Rift Valley and central province home to the highest mountain, Mount Kenya and Mount Elgon on the border between Kenya and Uganda. The Kakamega Forest in western Kenya is a relic of an East African rainforest. Much bigger is Mau Forest, the largest forest complex in East Africa.
@@ -28,8 +26,6 @@ Land boundaries
 
 Coastline
 
-Kenya_sat.png
-
 -   536 km (333 mi) along the Indian Ocean.
 
 Maritime claims
@@ -46,7 +42,7 @@ Much of the western two-thirds of the country consists of the Pliocene–Pleisto
 
 Climate
 
-Koppen-Geiger_Map_KEN_present.svg The climate of Kenya varies by location, from mostly cool every day, to always warm/hot.[6][7][8] The climate along the coast is tropical. This means rainfall and temperatures are higher throughout the year. At the coastal cities, Mombasa, Lamu and Malindi, the air changes from cool to hot, almost every day. (_See chart below_).[9]
+The climate of Kenya varies by location, from mostly cool every day, to always warm/hot.[6][7][8] The climate along the coast is tropical. This means rainfall and temperatures are higher throughout the year. At the coastal cities, Mombasa, Lamu and Malindi, the air changes from cool to hot, almost every day. (_See chart below_).[9]
 
 The further inside Kenya, the more arid the climate becomes. An arid climate is nearly devoid of rainfall, and temperature swings widely according to the general time of the day/night. For many areas of Kenya, the daytime temperature rises about 12 °C (corresponding to a rise of about 22 °F), almost every day.[10][11][12]
 
@@ -106,7 +102,7 @@ On the high mountains, such as Mount Kenya, Mount Elgon and Kilimanjaro, the wea
 
 Terrain
 
-Kenya_Topography.png Kenya's terrain is composed of low plains that rise into central highlands that are, in turn, bisected by the Great Rift Valley. There is also a fertile plateau in the west of the country.
+Kenya's terrain is composed of low plains that rise into central highlands that are, in turn, bisected by the Great Rift Valley. There is also a fertile plateau in the west of the country.
 
 Elevation extremes
 

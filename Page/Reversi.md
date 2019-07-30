@@ -7,7 +7,7 @@ Reversi was most recently marketed by Mattel under the trademark OTHELLO.
 
 History
 
-Nintendo-TV-Game-Computer.jpg was one of Nintendo's first arcade games, and was later ported to a dedicated home game console in 1980.]]
+was one of Nintendo's first arcade games, and was later ported to a dedicated home game console in 1980.]]
 
 Original version
 

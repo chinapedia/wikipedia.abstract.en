@@ -51,7 +51,7 @@ Revolution and foundation
 
 Modern revolutionary activity in the Russian Empire began with the Decembrist revolt of 1825. Although serfdom was abolished in 1861, it was done on terms unfavorable to the peasants and served to encourage revolutionaries. A parliament—the State Duma—was established in 1906 after the Russian Revolution of 1905, but Tsar Nicholas II resisted attempts to move from absolute to constitutional monarchy. Social unrest continued and was aggravated during World War I by military defeat and food shortages in major cities.
 
-19191107-lenin_second_anniversary_october_revolution_moscow.jpg, Trotsky and Kamenev celebrating the second anniversary of the October Revolution]]
+, Trotsky and Kamenev celebrating the second anniversary of the October Revolution]]
 
 A spontaneous popular uprising in Petrograd, in response to the wartime decay of Russia's economy and morale, culminated in the February Revolution and the toppling of the imperial government in March 1917. The tsarist autocracy was replaced by the Russian Provisional Government, which intended to conduct elections to the Russian Constituent Assembly and to continue fighting on the side of the Entente in World War I.
 
@@ -87,7 +87,7 @@ Under the doctrine of state atheism in the Soviet Union, there was a "government
 
 1930s
 
-Korolev_posle_aresta_1938.jpg, the father of the Soviet space program, shortly after his arrest during Stalin's Great Terror]]
+, the father of the Soviet space program, shortly after his arrest during Stalin's Great Terror]]
 
 Closer cooperation between the Soviet Union and the West developed in the early 1930s. From 1932 to 1934, the Soviet Union participated in the World Disarmament Conference. In 1933, diplomatic relations between the United States and the USSR were established when in November the newly elected President of the United States, Franklin D. Roosevelt, chose to formally recognize Stalin's Communist government and negotiated a new trade agreement between the two nations.[39] In September 1934, the Soviet Union joined the League of Nations. After the Spanish Civil War broke out in 1936, the USSR actively supported the Republican forces against the Nationalists, who were supported by Fascist Italy and Nazi Germany.
 
@@ -99,13 +99,13 @@ In the east, the Soviet military won several decisive victories during border cl
 
 World War II
 
-World-War-II-military-deaths-in-Europe-by-theater-year.png in Europe and military situation in autumn 1944]] RIAN_archive_44732_Soviet_soldiers_attack_house.jpg is considered by many historians as a decisive turning point of World War II.]]
+in Europe and military situation in autumn 1944]] is considered by many historians as a decisive turning point of World War II.]]
 
 Although it has been debated whether the Soviet Union intended to invade Germany once it was strong enough,[40] Germany itself broke the treaty and invaded the Soviet Union on 22 June 1941, starting what was known in the USSR as the "Great Patriotic War". The Red Army stopped the seemingly invincible German Army at the Battle of Moscow, aided by an unusually harsh winter. The Battle of Stalingrad, which lasted from late 1942 to early 1943, dealt a severe blow to the Germans from which they never fully recovered and became a turning point in the war. After Stalingrad, Soviet forces drove through Eastern Europe to Berlin before Germany surrendered in 1945. The German Army suffered 80% of its military deaths in the Eastern Front.[41]
 
 The same year, the USSR, in fulfillment of its agreement with the Allies at the Yalta Conference, denounced the Soviet–Japanese Neutrality Pact in April 1945[42] and invaded Manchukuo and other Japan-controlled territories on 9 August 1945.[43] This conflict ended with a decisive Soviet victory, contributing to the unconditional surrender of Japan and the end of World War II.
 
-Teheran_conference-1943.jpg, US President Roosevelt and British Prime Minister Churchill confer in Tehran in 1943.]]
+, US President Roosevelt and British Prime Minister Churchill confer in Tehran in 1943.]]
 
 The Soviet Union suffered greatly in the war, losing around 27 million people.[44] Approximately 2.8 million Soviet POWs died of starvation, mistreatment, or executions in just eight months of 1941–42.[45][46] During the war, the Soviet Union together with the United States, the United Kingdom and China were considered the Big Four Allied powers in World War II,[47] and later became the Four Policemen, which formed the basis of the United Nations Security Council.[48] It emerged as a superpower in the post-war period. Once denied diplomatic recognition by the Western world, the Soviet Union had official relations with practically every nation by the late 1940s. A member of the United Nations at its foundation in 1945, the Soviet Union became one of the five permanent members of the United Nations Security Council, which gave it the right to veto any of its resolutions.
 
@@ -115,7 +115,7 @@ The Soviet Union maintained its status as one of the world's two superpowers for
 
 Cold War
 
-Bundesarchiv_Bild_183-B0121-0010-050,_Berlin,_VI._SED-Parteitag,_6.Tag.jpg and Walter Ulbricht in Berlin, East Germany, 1963]]
+and Walter Ulbricht in Berlin, East Germany, 1963]]
 
 During the immediate postwar period, the Soviet Union rebuilt and expanded its economy, while maintaining its strictly centralized control. It took effective control over most of the countries of Eastern Europe (except Yugoslavia and later Albania), turning them into satellite states. The Soviet Union bound its satellite states in a military alliance, the Warsaw Pact, in 1955, and an economic organization, The Council for Mutual Economic Assistance or Comecon, a counterpart to the European Economic Community (EEC), from 1949 to 1991.[50] The Soviet Union concentrated on its own recovery, seizing and transferring most of Germany's industrial plants, and it exacted war reparations from East Germany, Hungary, Romania, and Bulgaria using Soviet-dominated joint enterprises. It also instituted trading arrangements deliberately designed to favor the Soviet Union. Moscow controlled the Communist parties that ruled the satellite states, and they followed orders from the Kremlin. Historian Mark Kramer concludes:
 
@@ -123,11 +123,11 @@ Later, the Comecon supplied aid to the eventually victorious Communist Party of 
 
 Khrushchev era
 
-John_Kennedy,_Nikita_Khrushchev_1961.jpg (left) with John F. Kennedy in Vienna, 3 June 1961]]
+(left) with John F. Kennedy in Vienna, 3 June 1961]]
 
 Stalin died on 5 March 1953. Without a mutually agreeable successor, the highest Communist Party officials initially opted to rule the Soviet Union jointly through a troika headed by Georgy Malenkov. This did not last, however, and Nikita Khrushchev eventually won the ensuing power struggle by the mid-1950s. In 1956 he denounced Stalin's use of repression and proceeded to ease controls over party and society. This was known as de-Stalinization.
 
-Soviet_empire_1960.png of 1959 but before the official Sino-Soviet split of 1961]]
+of 1959 but before the official Sino-Soviet split of 1961]]
 
 Moscow considered Eastern Europe to be a critically vital buffer zone for the forward defense of its western borders, in case of another major invasion such as the German invasion of 1941. For this reason, the USSR sought to cement its control of the region by transforming the Eastern European countries into satellite states, dependent upon and subservient to its leadership. Soviet military force was used to suppress anti-Stalinist uprisings in Hungary and Poland in 1956.
 
@@ -135,7 +135,7 @@ In the late 1950s, a confrontation with China regarding the USSR's rapprochement
 
 During this period of the late 1950s and early 1960s, the Soviet Union continued to realize scientific and technological exploits in the Space Race, rivaling the United States: launching the first artificial satellite, Sputnik 1 in 1957; a living dog named Laika in 1957; the first human being, Yuri Gagarin in 1961; the first woman in space, Valentina Tereshkova in 1963; Alexei Leonov, the first person to walk in space in 1965; the first soft landing on the Moon by spacecraft Luna 9 in 1966; and the first Moon rovers, Lunokhod 1 and Lunokhod 2.[51]
 
-Gagarin_in_Sweden-2.jpg, first human to travel into space]]
+, first human to travel into space]]
 
 Khrushchev initiated "The Thaw", a complex shift in political, cultural and economic life in the Soviet Union. This included some openness and contact with other nations and new social and economic policies with more emphasis on commodity goods, allowing living standards to rise dramatically while maintaining high levels of economic growth. Censorship was relaxed as well.
 
@@ -147,7 +147,7 @@ The Era of Stagnation was a period of negative economic, political, and social e
 
 Following the ousting of Khrushchev, another period of collective leadership ensued, consisting of Leonid Brezhnev as General Secretary, Alexei Kosygin as Premier and Nikolai Podgorny as Chairman of the Presidium, lasting until Brezhnev established himself in the early 1970s as the preeminent Soviet leader.
 
-Carter_Brezhnev_sign_SALT_II.jpg and US President Jimmy Carter sign the SALT II arms limitation treaty in Vienna on 18 June 1979]]
+and US President Jimmy Carter sign the SALT II arms limitation treaty in Vienna on 18 June 1979]]
 
 In 1968, the Soviet Union and Warsaw Pact allies invaded Czechoslovakia to halt the Prague Spring reforms. In the aftermath, Brezhnev justified the invasion along with the earlier invasions of Eastern European states by introducing the Brezhnev Doctrine, which claimed the right of the Soviet Union to violate the sovereignty of any country that attempted to replace Marxism–Leninism with capitalism.
 
@@ -157,7 +157,7 @@ In October 1977, the third Soviet Constitution was unanimously adopted. The prev
 
 Gorbachev era
 
-Reagan_and_Gorbachev_hold_discussions.jpg in one-to-one discussions with US President Ronald Reagan]]
+in one-to-one discussions with US President Ronald Reagan]]
 
 Two developments dominated the decade that followed: the increasingly apparent crumbling of the Soviet Union's economic and political structures, and the patchwork attempts at reforms to reverse that process. Kenneth S. Deffeyes argued in _Beyond Oil_ that the Reagan administration encouraged Saudi Arabia to lower the price of oil to the point where the Soviets could not make a profit selling their oil, so the USSR's hard currency reserves became depleted.[52]
 
@@ -165,7 +165,7 @@ Brezhnev's next two successors, transitional figures with deep roots in his trad
 
 Gorbachev made significant changes in the economy and party leadership, called _perestroika_. His policy of _glasnost_ freed public access to information after decades of heavy government censorship.
 
-Gorbachev_and_Reagan_1988-4.jpg with Gorbachev during the Moscow Summit, 31 May 1988]]
+with Gorbachev during the Moscow Summit, 31 May 1988]]
 
 Gorbachev also moved to end the Cold War. In 1988, the Soviet Union abandoned its nine-year war in Afghanistan and began to withdraw its forces. In the late 1980s, which paved the way for Revolutions of 1989. With the tearing down of the Berlin Wall and with East Germany and West Germany pursuing unification, the Iron Curtain between the West and Soviet-controlled regions came down.
 
@@ -181,7 +181,7 @@ Dissolution
 
 The remaining 12 republics continued discussing new, increasingly looser, models of the Union. However, by December all except Russia and Kazakhstan had formally declared independence. During this time, Yeltsin took over what remained of the Soviet government, including the Moscow Kremlin. The final blow was struck on 1 December when Ukraine, the second most powerful republic, voted overwhelmingly for independence. Ukraine's secession ended any realistic chance of the Soviet Union staying together even on a limited scale.
 
-Cold_War_border_changes.png]]
+]]
 
 On 8 December 1991, the presidents of Russia, Ukraine and Belarus (formerly Byelorussia), signed the Belavezha Accords, which declared the Soviet Union dissolved and established the Commonwealth of Independent States (CIS) in its place. While doubts remained over the authority of the accords to do this, on 21 December 1991, the representatives of all Soviet republics except Georgia signed the Alma-Ata Protocol, which confirmed the accords. On 25 December 1991, Gorbachev resigned as the President of the USSR, declaring the office extinct. He turned the powers that had been vested in the presidency over to Yeltsin. That night, the Soviet flag was lowered for the last time, and the Russian tricolor was raised in its place.
 
@@ -189,7 +189,7 @@ The following day, the Supreme Soviet, the highest governmental body of the Sovi
 
 Following the dissolution of the Soviet Union on 26 December 1991, Russia was internationally recognized[56] as its legal successor on the international stage. To that end, Russia voluntarily accepted all Soviet foreign debt and claimed overseas Soviet properties as its own. Under the 1992 Lisbon Protocol, Russia also agreed to receive all nuclear weapons remaining in the territory of other former Soviet republics. Since then, the Russian Federation has assumed the Soviet Union's rights and obligations. Ukraine has refused to recognize exclusive Russian claims to succession of the USSR and claimed such status for Ukraine as well, which was codified in Articles 7 and 8 of its 1991 law On Legal Succession of Ukraine. Since its independence in 1991, Ukraine has continued to pursue claims against Russia in foreign courts, seeking to recover its share of the foreign property that was owned by the USSR.
 
-Refugeesaz.jpgis from Nagorno-Karabakh, 1993]] USSR_-_Then_and_Now.png (fifth in the second row) no longer exists as a political entity of any kind and the emblem is unofficial).]]
+is from Nagorno-Karabakh, 1993]] (fifth in the second row) no longer exists as a political entity of any kind and the emblem is unofficial).]]
 
 The dissolution of the Soviet Union was followed by a severe economic contraction, deteriorating social conditions, and a catastrophic fall in living standards in post-Soviet states,[57][58] including a rapid increase in poverty,[59][60][61][62] crime,[63][64] corruption,[65][66] unemployment,[67] homelessness,[68][69] rates of disease,[70][71][72] demographic losses,[73] income inequality and the rise of an oligarchical class,[74][75] along with decreases in calorie intake, life expectancy, adult literacy, and income.[76] Between 1988/1989 and 1993/1995, the Gini ratio increased by an average of 9 points for all former socialist countries.[77] The economic shocks that accompanied wholesale privatization were associated with sharp increases in mortality. Data shows Russia, Kazakhstan, Latvia, Lithuania and Estonia saw a tripling of unemployment and a 42% increase in male death rates between 1991 and 1994.[78][79] In the following decades, only five or six of the post-communist states are on a path to joining the wealthy capitalist West while most are falling behind, some to such an extent that it will take over fifty years to catch up to where they were before the fall of the Soviet Bloc.[80][81]
 
@@ -206,7 +206,7 @@ Foreign affairs
 
 Organizations
 
-Cuba-Russia_friendship_poster.jpg and Nikita Khrushchev]] President_Ford_informally_concludes_the_Vladivostok_Summit_-_NARA_-_7062568.jpg, Leonid Brezhnev and Henry Kissinger speaking informally at the Vladivostok Summit in 1974]] RIAN_archive_330109_Soviet_President_Mikhail_Gorbachev_and_U.S._President_George_Bush.jpg signing bilateral documents during Gorbachev's official visit to the United States in 1990]]
+and Nikita Khrushchev]] , Leonid Brezhnev and Henry Kissinger speaking informally at the Vladivostok Summit in 1974]] signing bilateral documents during Gorbachev's official visit to the United States in 1990]]
 
 Stalin always made the final policy decisions, 1925–1953. Otherwise Soviet foreign policy was set by the Commission on the Foreign Policy of the Central Committee of the Communist Party of the Soviet Union, or by the Party's highest body the Politburo. Operations were handled by the separate Ministry of Foreign Affairs. It was known as the People's Commissariat for Foreign Affairs (or Narkomindel), until 1946. The most influential spokesmen were Georgy Chicherin (1872–1936), Maxim Litvinov (1876–1951), Vyacheslav Molotov (1890–1986), Andrey Vyshinsky (1883–1954) and Andrei Gromyko (1909–1989). Intellectuals were based in the Moscow State Institute of International Relations.[83]
 
@@ -216,8 +216,6 @@ Stalin always made the final policy decisions, 1925–1953. Otherwise Soviet for
 -   The Cominform (1947–1956), informally the Communist Information Bureau and officially the Information Bureau of the Communist and Workers' Parties, was the first official agency of the international communist movement since the dissolution of the Comintern in 1943. Its role was to coordinate actions between communist parties under Soviet direction. Stalin used it to order Western European communist parties to abandon their exclusively parliamentarian line and instead concentrate on politically impeding the operations of the Marshall Plan.[89] It also coordinated international aid to communist insurgents during the Greek Civil War in 1947–1949.[90] It expelled Yugoslavia in 1948 after Josip Broz Tito insisted on an independent program. Its newspaper, _For a Lasting Peace, for a People's Democracy!_, promoted Stalin's positions. The Cominform's concentration on Europe meant a deemphasis on world revolution in Soviet foreign policy. By enunciating a uniform ideology, it allowed the constituent parties to focus on personalities rather than issues.[91]
 
 Early Soviet foreign policies (1919–1939)
-
-1987_CPA_5896.jpg
 
 The Communist leadership the Soviet Union intensely debated foreign policy issues and change directions several times. Even after Stalin assumed dictatorial control in the late 1920s, there were debates and he frequently changed positions.[92]
 
@@ -248,7 +246,7 @@ However, in practice the degree of control the party was able to exercise over t
 
 Government
 
-Supreme_Soviet_1982.jpg, seat of the Supreme Soviet of the Soviet Union, 1982]]
+, seat of the Supreme Soviet of the Soviet Union, 1982]]
 
 The Supreme Soviet (successor of the Congress of Soviets and Central Executive Committee) was nominally the highest state body for most of the Soviet history,[107] at first acting as a rubber stamp institution, approving and implementing all decisions made by the party. However, the powers and functions of the Supreme Soviet were extended in the late 1950s, 1960s and 1970s, including the creation of new state commissions and committees. It gained additional powers relating to the approval of the Five-Year Plans and the Soviet government budget.[108] The Supreme Soviet elected a Presidium to wield its power between plenary sessions,[109] ordinarily held twice a year, and appointed the Supreme Court,[110] the Procurator General[111] and the Council of Ministers (known before 1946 as the Council of People's Commissars), headed by the Chairman (Premier) and managing an enormous bureaucracy responsible for the administration of the economy and society.[112] State and party structures of the constituent republics largely emulated the structure of the central institutions, although the Russian SFSR, unlike the other constituent republics, for most of its history had no republican branch of the CPSU, being ruled directly by the union-wide party until 1990. Local authorities were organized likewise into party committees, local Soviets and executive committees. While the state system was nominally federal, the party was unitary.[113]
 
@@ -256,7 +254,7 @@ The state security police (the KGB and its predecessor agencies) played an impor
 
 Separation of power and reform
 
-RIAN_archive_699872_Dushanbe_riots,_February_1990.jpg, Tajikistan, 1990]]
+, Tajikistan, 1990]]
 
 The Union constitutions, which were promulgated in 1918, 1924, 1936 and 1977,[117] did not limit state power. No formal separation of powers existed between the Party, Supreme Soviet and Council of Ministers[118] that represented executive and legislative branches of the government. The system was governed less by statute than by informal conventions, and no settled mechanism of leadership succession existed. Bitter and at times deadly power struggles took place in the Politburo after the deaths of Lenin[119] and Joseph Stalin,[120] as well as after Khrushchev's dismissal,[121] itself due to a decision by both the Politburo and the Central Committee.[122] All leaders of the Communist Party before Gorbachev died in office, except Georgy Malenkov[123] and Khrushchev, both dismissed from the party leadership amid internal struggle within the party.[124]
 
@@ -324,17 +322,17 @@ The Soviet Union became the first country to adopt a command economy, whereby pr
 
 After a long debate among the members of Politburo about the course of economic development, by 1928–1929, upon gaining control of the country, Joseph Stalin abandoned NEP and pushed for full central planning, starting forced collectivization of agriculture and enacting draconian labor legislation. Resources were mobilized for rapid industrialization, which greatly expanded Soviet capacity in heavy industry and capital goods during the 1930s.[136] A main motivation for industrialization was preparation for war, mostly due to distrust of the outside capitalistic world.[137] As a result, the USSR was transformed from a largely agrarian economy into a great industrial power, leading the way for its emergence as a superpower after World War II.[138] The war hugely devastated Soviet economy and infrastructure and they required extensive reconstruction.[139]
 
-DneproGES_1947.JPG, one of many hydroelectric power stations in the Soviet Union]]
+, one of many hydroelectric power stations in the Soviet Union]]
 
 By the early 1940s, the Soviet economy had become relatively self-sufficient; for most of the period until the creation of Comecon, only a very small share of domestic products was traded internationally.[140] After the creation of the Eastern Bloc, external trade rose rapidly. Still, the influence of the world economy on the USSR was limited by fixed domestic prices and a state monopoly on foreign trade.[141] Grain and sophisticated consumer manufactures became major import articles from around the 1960s.[142] During the arms race of the Cold War, the Soviet economy was burdened by military expenditures, heavily lobbied for by a powerful bureaucracy dependent on the arms industry. At the same time, the Soviet Union became the largest arms exporter to the Third World. Significant amounts of Soviet resources during the Cold War were allocated in aid to the other socialist states.[143]
 
-Armenian_cotton.jpg in the 1930s]]
+in the 1930s]]
 
 From the 1930s until its dissolution in late 1991, the way the Soviet economy operated remained essentially unchanged. The economy was formally directed by central planning, carried out by Gosplan and organized in five-year plans. However, in practice the plans were highly aggregated and provisional, subject to _ad hoc_ intervention by superiors. All key economic decisions were taken by the political leadership. Allocated resources and plan targets were normally denominated in rubles rather than in physical goods. Credit was discouraged, but widespread. Final allocation of output was achieved through relatively decentralized, unplanned contracting. Although in theory prices were legally set from above, in practice they were often negotiated, and informal horizontal links (between producer factories etc.) were widespread.[144]
 
 A number of basic services were state-funded, such as education and health care. In the manufacturing sector, heavy industry and defense were prioritized over consumer goods.[145] Consumer goods, particularly outside large cities, were often scarce, of poor quality and limited choice. Under command economy, consumers had almost no influence on production, so the changing demands of a population with growing incomes could not be satisfied by supplies at rigidly fixed prices.[146] A massive unplanned second economy grew up at low levels alongside the planned one, providing some of the goods and services that the planners could not. Legalization of some elements of the decentralized economy was attempted with the reform of 1965.[147]
 
-RIAN_archive_633872_Workers_of_Soligorsk_potash_plant.jpg potash plant, Belarus, 1968]]
+potash plant, Belarus, 1968]]
 
 Although statistics of the Soviet economy are notoriously unreliable and its economic growth difficult to estimate precisely,[148][149] by most accounts, the economy continued to expand until the mid-1980s. During the 1950s and 1960s, it had comparatively high growth and was catching up to the West.[150] However, after 1970, the growth, while still positive, steadily declined much more quickly and consistently than in other countries, despite a rapid increase in the capital stock (the rate of capital increase was only surpassed by Japan).[151]
 
@@ -346,7 +344,7 @@ In 1990, the Soviet Union had a Human Development Index of 0.920, placing it in 
 
 Energy
 
-1987_CPA_5858.jpg, published in 1987, a year following the Chernobyl nuclear disaster]]
+, published in 1987, a year following the Chernobyl nuclear disaster]]
 
 The need for fuel declined in the Soviet Union from the 1970s to the 1980s,[160] both per ruble of gross social product and per ruble of industrial product. At the start, this decline grew very rapidly but gradually slowed down between 1970 and 1975. From 1975 and 1980, it grew even slower, only 2.6 percent.[161] David Wilson, a historian, believed that the gas industry would account for 40 percent of Soviet fuel production by the end of the century. His theory did not come to fruition because of the USSR's collapse.[162] The USSR, in theory, would have continued to have an economic growth rate of 2–2.5 percent during the 1990s because of Soviet energy fields.[163] However, the energy sector faced many difficulties, among them the country's high military expenditure and hostile relations with the First World (pre-Gorbachev era).[164]
 
@@ -354,7 +352,7 @@ In 1991, the Soviet Union had a pipeline network of for crude oil and another fo
 
 Science and technology
 
-Sputnik-stamp-ussr.jpg]]
+]]
 
 The Soviet Union placed great emphasis on science and technology within its economy,[169] however, the most remarkable Soviet successes in technology, such as producing the world's first space satellite, typically were the responsibility of the military.[170] Lenin believed that the USSR would never overtake the developed world if it remained as technologically backward as it was upon its founding. Soviet authorities proved their commitment to Lenin's belief by developing massive networks, research and development organizations. In the early 1960s, the Soviets awarded 40% of chemistry PhDs to women, compared to only 5% who received such a degree in the United States.[171] By 1989, Soviet scientists were among the world's best-trained specialists in several areas, such as energy physics, selected areas of medicine, mathematics, welding and military technologies. Due to rigid state planning and bureaucracy, the Soviets remained far behind technologically in chemistry, biology, and computers when compared to the First World.
 
@@ -362,7 +360,7 @@ Under the Reagan administration, Project Socrates determined that the Soviet Uni
 
 Transport
 
-Flag_of_the_Aeroflot.svg's flag during the Soviet era]]
+'s flag during the Soviet era]]
 
 Transport was a key component of the nation's economy. The economic centralization of the late 1920s and 1930s led to the development of infrastructure on a massive scale, most notably the establishment of Aeroflot, an aviation enterprise.[175] The country had a wide variety of modes of transport by land, water and air.[176] However, due to bad maintenance, much of the road, water and Soviet civil aviation transport were outdated and technologically backward compared to the First World.[177]
 
@@ -375,7 +373,7 @@ The Soviet merchant navy was one of the largest in the world.[187]
 
 Demographics
 
-Population_of_former_USSR.PNG (blue) from 1961 to 2009 as well as projection (dotted blue) from 2010 to 2100]]
+(blue) from 1961 to 2009 as well as projection (dotted blue) from 2010 to 2100]]
 
 Excess deaths over the course of World War I and the Russian Civil War (including the postwar famine) amounted to a combined total of 18 million,[188] some 10 million in the 1930s,[189] and more than 26 million in 1941–5. The postwar Soviet population was 45 to 50 million smaller than it would have been if pre-war demographic growth had continued.[190] According to Catherine Merridale, "... reasonable estimate would place the total number of excess deaths for the whole period somewhere around 60 million."[191]
 
@@ -388,19 +386,19 @@ Social history
 
 Women and fertility
 
-RIAN_archive_16735_Cosmonaut_Valentina_Tereshkova.jpg, the first woman in space, visiting the Lviv confectionery, Ukrainian SSR, 1967]] Under Lenin the state made explicit commitments to promote the equality of men and women. Many early Russian feminists and ordinary Russian working women actively participated in the Revolution, and many more were affected by the events of that period and the new policies. Beginning in October 1918, the Lenin's government liberalized divorce and abortion laws, decriminalized homosexuality, permitted cohabitation, and ushered in a host of reforms.[198] But without birth control the new system produced many broken marriages, as well as countless children born out of wedlock.[199] The epidemic of divorces and extramarital affairs created social hardships when Soviet leaders wanted people to concentrate their efforts on growing the economy. Giving Soviet women control over their fertility also led to a precipitous decline in the birth rate, perceived as a threat to their country's military power. By 1936, Joseph Stalin reversed most of the liberal laws, ushering in a pronatalist era that lasted for decades to come.[200]
+, the first woman in space, visiting the Lviv confectionery, Ukrainian SSR, 1967]] Under Lenin the state made explicit commitments to promote the equality of men and women. Many early Russian feminists and ordinary Russian working women actively participated in the Revolution, and many more were affected by the events of that period and the new policies. Beginning in October 1918, the Lenin's government liberalized divorce and abortion laws, decriminalized homosexuality, permitted cohabitation, and ushered in a host of reforms.[198] But without birth control the new system produced many broken marriages, as well as countless children born out of wedlock.[199] The epidemic of divorces and extramarital affairs created social hardships when Soviet leaders wanted people to concentrate their efforts on growing the economy. Giving Soviet women control over their fertility also led to a precipitous decline in the birth rate, perceived as a threat to their country's military power. By 1936, Joseph Stalin reversed most of the liberal laws, ushering in a pronatalist era that lasted for decades to come.[200]
 
 By 1917, Russia became the first great power to grant women the right to vote.[201] After heavy casualties in World War I and II, women outnumbered men in Russia by a 4:3 ratio.[202] This contributed to the larger role women played in Russian society compared to other great powers at the time.
 
 Education
 
-Young_Pioneers_in_Kazakh_SSR.jpg at a Young Pioneer camp in Kazakh SSR]] Anatoly Lunacharsky became the first People's Commissar for Education of Soviet Russia. At the beginning, the Soviet authorities placed great emphasis on the elimination of illiteracy. In the Soviet Union, all left-handed kids were forced to write with their right hand in the soviet school system.[203][204][205][206] People who were literate were automatically hired as teachers. For a short period, quality was sacrificed for quantity. By 1940, Joseph Stalin could announce that illiteracy had been eliminated. Throughout the 1930s social mobility rose sharply, which has been attributed to Soviet reforms in education.[207] In the aftermath of the Great Patriotic War, the country's educational system expanded dramatically. This expansion had a tremendous effect. In the 1960s, nearly all Soviet children had access to education, the only exception being those living in remote areas. Nikita Khrushchev tried to make education more accessible, making it clear to children that education was closely linked to the needs of society. Education also became important in giving rise to the New Man.[208] Citizens directly entering the work force had the constitutional right to a job and to free vocational training.
+at a Young Pioneer camp in Kazakh SSR]] Anatoly Lunacharsky became the first People's Commissar for Education of Soviet Russia. At the beginning, the Soviet authorities placed great emphasis on the elimination of illiteracy. In the Soviet Union, all left-handed kids were forced to write with their right hand in the soviet school system.[203][204][205][206] People who were literate were automatically hired as teachers. For a short period, quality was sacrificed for quantity. By 1940, Joseph Stalin could announce that illiteracy had been eliminated. Throughout the 1930s social mobility rose sharply, which has been attributed to Soviet reforms in education.[207] In the aftermath of the Great Patriotic War, the country's educational system expanded dramatically. This expansion had a tremendous effect. In the 1960s, nearly all Soviet children had access to education, the only exception being those living in remote areas. Nikita Khrushchev tried to make education more accessible, making it clear to children that education was closely linked to the needs of society. Education also became important in giving rise to the New Man.[208] Citizens directly entering the work force had the constitutional right to a job and to free vocational training.
 
 The country's system of education was highly centralized and universally accessible to all citizens, with affirmative action for applicants from nations associated with cultural backwardness. However, as part of the general antisemitic policy, an unofficial Jewish quota was applied in the leading institutions of higher education by subjecting Jewish applicants to harsher entrance examinations.[209][210][211][212] The Brezhnev era also introduced a rule that required all university applicants to present a reference from the local Komsomol party secretary.[213] According to statistics from 1986, the number of higher education students per the population of 10,000 was 181 for the USSR, compared to 517 for the US.[214]
 
 Nationalities and ethnic groups
 
-Samarkand-1981-0013.JPG, Uzbek SSR, 1981]] Mestia,_Svaneti._October_30,_1929.JPG man in Mestia, Georgian SSR, 1929]]
+, Uzbek SSR, 1981]] man in Mestia, Georgian SSR, 1929]]
 
 The Soviet Union was a very ethnically diverse country, with more than 100 distinct ethnic groups. The total population was estimated at 293 million in 1991. According to a 1990 estimate, the majority were Russians (50.78%), followed by Ukrainians (15.45%) and Uzbeks (5.84%).[215]
 
@@ -412,7 +410,7 @@ File:Ethnic map USSR 1941.jpg|Ethnographic map of the Soviet Union, 1941 File:Uk
 
 Health
 
-RussianAbortionPoster.jpg practices]]
+practices]]
 
 In 1917, before the revolution, health conditions were significantly behind those of developed countries. As Lenin later noted, "Either the lice will defeat socialism, or socialism will defeat the lice".[219] The Soviet principle of health care was conceived by the People's Commissariat for Health in 1918. Health care was to be controlled by the state and would be provided to its citizens free of charge, this at the time being a revolutionary concept. Article 42 of the 1977 Soviet Constitution gave all citizens the right to health protection and free access to any health institutions in the USSR. Before Leonid Brezhnev became General Secretary, the healthcare system of the Soviet Union was held in high esteem by many foreign specialists. This changed however, from Brezhnev's accession and Mikhail Gorbachev's tenure as leader, the Soviet health care system was heavily criticized for many basic faults, such as the quality of service and the unevenness in its provision.[220] Minister of Health Yevgeniy Chazov, during the 19th Congress of the Communist Party of the Soviet Union, while highlighting such Soviet successes as having the most doctors and hospitals in the world, recognized the system's areas for improvement and felt that billions of Soviet rubles were squandered.[221]
 
@@ -426,7 +424,7 @@ As the most widely spoken of the Soviet Union's many languages, Russian _de fact
 
 Religion
 
-Christ_saviour_explosion.jpg in Moscow during its demolition in 1931]] Hujum.png burning ceremony in the Uzbek SSR as part of Soviet Hujum policies.]] Christianity and Islam had the greatest number of adherents among the Soviet state's religious citizens.[229] Eastern Christianity predominated among Christians, with Russia's traditional Russian Orthodox Church being the Soviet Union's largest Christian denomination. About 90 percent of the Soviet Union's Muslims were Sunnis, with Shias being concentrated in the Azerbaijan SSR.[230] Smaller groups included Roman Catholics, Jews, Buddhists, and a variety of Protestant denominations (especially Baptists and Lutherans).[231]
+in Moscow during its demolition in 1931]] burning ceremony in the Uzbek SSR as part of Soviet Hujum policies.]] Christianity and Islam had the greatest number of adherents among the Soviet state's religious citizens.[229] Eastern Christianity predominated among Christians, with Russia's traditional Russian Orthodox Church being the Soviet Union's largest Christian denomination. About 90 percent of the Soviet Union's Muslims were Sunnis, with Shias being concentrated in the Azerbaijan SSR.[230] Smaller groups included Roman Catholics, Jews, Buddhists, and a variety of Protestant denominations (especially Baptists and Lutherans).[231]
 
 Religious influence had been strong in the Russian Empire. The Russian Orthodox Church enjoyed a privileged status as the church of the monarchy and took part in carrying out official state functions.[232] The immediate period following the establishment of the Soviet state included a struggle against the Orthodox Church, which the revolutionaries considered an ally of the former ruling classes.[233]
 
@@ -434,7 +432,7 @@ In Soviet law, the "freedom to hold religious services" was constitutionally gua
 
 The 1918 Council of People's Commissars decree establishing the Russian Soviet Federative Socialist Republic (RSFSR) as a secular state also decreed that "the teaching of religion in all [places] where subjects of general instruction are taught, is forbidden. Citizens may teach and may be taught religion privately."[236] Among further restrictions, those adopted in 1929, a half-decade into Stalin's rule, included express prohibitions on a range of church activities, including meetings for organized Bible study.[237] Both Christian and non-Christian establishments were shut down by the thousands in the 1920s and 1930s. By 1940, as many as 90 percent of the churches, synagogues, and mosques that had been operating in 1917 were closed.[238]
 
-1989_CPA_6135.jpg and statue of Bohdan Khmelnytsky, 1989]]
+and statue of Bohdan Khmelnytsky, 1989]]
 
 Convinced that religious anti-Sovietism had become a thing of the past with most Soviet Christians, and with the looming threat of war, the Stalin regime began shifting to a more moderate religion policy in the late 1930s.[239] Soviet religious establishments overwhelmingly rallied to support the war effort during the Soviet war with Nazi Germany. Amid other accommodations to religious faith after Nazi Germany attacked the Soviet Union, churches were reopened, Radio Moscow began broadcasting a religious hour, and a historic meeting between Stalin and Orthodox Church leader Patriarch Sergius of Moscow was held in 1943. Stalin had the support of the majority of the religious people in the Soviet Union even through the late 1980s.[240] The general tendency of this period was an increase in religious activity among believers of all faiths.[241]
 
@@ -451,7 +449,7 @@ Legacy
 
 Culture
 
-Марш_энтузиастов.ogg Vladimir_Vysotsky.jpg in 1979]]
+in 1979]]
 
 The culture of the Soviet Union passed through several stages during the USSR's 69-year existence. During the first eleven years following the Revolution (1918–1929), there was relative freedom and artists experimented with several different styles to find a distinctive Soviet style of art. Lenin wanted art to be accessible to the Russian people. On the other hand, hundreds of intellectuals, writers, and artists were exiled or executed, and their work banned, for example Nikolay Gumilyov (shot for alleged conspiring against the Bolshevik regime) and Yevgeny Zamyatin (banned).[248]
 
@@ -466,7 +464,7 @@ In the second half of the 1980s, Gorbachev's policies of _perestroika_ and _glas
 
 Sport
 
-RR5110-0098R.png represented the Soviet Union at 11 Ice Hockey World Championships, winning 8 gold medals, 2 silvers and 1 bronze.]]
+represented the Soviet Union at 11 Ice Hockey World Championships, winning 8 gold medals, 2 silvers and 1 bronze.]]
 
 Founded on 20 July 1924 in Moscow, _Sovetsky Sport_ was the first sports newspaper of the Soviet Union.
 

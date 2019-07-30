@@ -9,8 +9,6 @@ History
 
 Foundation and early years
 
-Internazionale1910Scudetto.jpg
-
 +--+--+
 |  |  |
 +--+--+
@@ -19,13 +17,13 @@ The club was founded on 9 March 1908 as _Football Club Internazionale_, followin
 
 The club won its very first championship in 1910 and its second in 1920. The captain and coach of the first championship winning team was Virgilio Fossati, who was later killed in battle while serving in the Italian army during World War I.
 
-In 1922, Inter remained in the top league after winning two play-offs. Six years later, during the Fascist era, the club was forced to merge with the _Unione Sportiva Milanese_ and was renamed _Società Sportiva Ambrosiana_.[9] The team wore white jerseys during this time with a red cross emblazoned on it. The jersey's design was inspired by the flag and coat of arms of the city of Milan. In 1929, club chairman Oreste Simonotti changed the club's name to _Associazione Sportiva Ambrosiana_, however supporters continued to call the team _Inter_, and in 1931 new chairman Pozzani caved in to shareholder pressure and changed the name to _Associazione Sportiva Ambrosiana-Inter_. Giuseppe_Meazza_1935.jpg still holds the record for the most goals scored in a debut season in Serie A, with 31 goals in his first season (1929–30)]]
+In 1922, Inter remained in the top league after winning two play-offs. Six years later, during the Fascist era, the club was forced to merge with the _Unione Sportiva Milanese_ and was renamed _Società Sportiva Ambrosiana_.[9] The team wore white jerseys during this time with a red cross emblazoned on it. The jersey's design was inspired by the flag and coat of arms of the city of Milan. In 1929, club chairman Oreste Simonotti changed the club's name to _Associazione Sportiva Ambrosiana_, however supporters continued to call the team _Inter_, and in 1931 new chairman Pozzani caved in to shareholder pressure and changed the name to _Associazione Sportiva Ambrosiana-Inter_. still holds the record for the most goals scored in a debut season in Serie A, with 31 goals in his first season (1929–30)]]
 
 Their first Coppa Italia (Italian Cup) was won in 1938–39, led by the iconic Giuseppe Meazza, after whom the San Siro stadium is officially named. A fifth championship followed in 1940, despite Meazza incurring an injury. After the end of World War II the club regained its original name, winning its sixth championship in 1953 and its seventh in 1954.
 
 _Grande Inter_
 
-In 1960, manager Helenio Herrera joined Inter from Barcelona, bringing with him his midfield general Luis Suárez, who won the European Footballer of the Year in the same year for his role in Barcelona's La Liga/Fairs Cup double. He would transform Inter into one of the greatest teams in Europe. He modified a 5–3–2 tactic known as the "_Verrou_" ("door bolt") which created greater flexibility for counterattacks. The _catenaccio_ system was invented by an Austrian coach, Karl Rappan. Rappan's original system was implemented with four fixed defenders, playing a strict man-to-man marking system, plus a playmaker in the middle of the field who plays the ball together with two midfield wings. Herrera would modify it by adding a fifth defender, the sweeper or libero behind the two centre backs. The sweeper or libero who acted as the free man would deal with any attackers who went through the two centre backs. Inter finished third in the Serie A in his first season, second the next year and first in his third season. Then followed a back-to-back European Cup victory in 1964 and 1965, earning him the title "_il Mago_" ("the Wizard"). The core of Herrera's team were the attacking fullbacks Tarcisio Burgnich and Giacinto Facchetti, Armando Picchi the sweeper, Suárez the playmaker, Jair the winger, Mario Corso the left midfielder, and Sandro Mazzola, who played on the inside-right.[10][11][12][13][14][15] Sandro_mazzola_inter.jpg played for the highly successful Inter team remembered by the name of "La Grande Inter", during the 1960s]]
+In 1960, manager Helenio Herrera joined Inter from Barcelona, bringing with him his midfield general Luis Suárez, who won the European Footballer of the Year in the same year for his role in Barcelona's La Liga/Fairs Cup double. He would transform Inter into one of the greatest teams in Europe. He modified a 5–3–2 tactic known as the "_Verrou_" ("door bolt") which created greater flexibility for counterattacks. The _catenaccio_ system was invented by an Austrian coach, Karl Rappan. Rappan's original system was implemented with four fixed defenders, playing a strict man-to-man marking system, plus a playmaker in the middle of the field who plays the ball together with two midfield wings. Herrera would modify it by adding a fifth defender, the sweeper or libero behind the two centre backs. The sweeper or libero who acted as the free man would deal with any attackers who went through the two centre backs. Inter finished third in the Serie A in his first season, second the next year and first in his third season. Then followed a back-to-back European Cup victory in 1964 and 1965, earning him the title "_il Mago_" ("the Wizard"). The core of Herrera's team were the attacking fullbacks Tarcisio Burgnich and Giacinto Facchetti, Armando Picchi the sweeper, Suárez the playmaker, Jair the winger, Mario Corso the left midfielder, and Sandro Mazzola, who played on the inside-right.[10][11][12][13][14][15] played for the highly successful Inter team remembered by the name of "La Grande Inter", during the 1960s]]
 
 In 1964, Inter reached the European Cup Final by beating Borussia Dortmund in the semi-final and Partizan in the quarter-final. In the final, they met Real Madrid, a team that had reached seven out of the nine finals to date. Mazzola scored two goals in a 3–1 victory, and then the team won the Intercontinental Cup against Independiente. A year later, Inter repeated the feat by beating two-time winner Benfica in the final held at home, from a Jair goal, and then again beat Independiente in the Intercontinental Cup.
 
@@ -39,11 +37,11 @@ Led by the German duo of Andreas Brehme and Lothar Matthäus, and Argentine Ram�
 
 Mixed fortunes
 
-Festeggiamenti_Coppa_UEFA_Inter-Salisburgo_1993-1994.jpg win against Austria Salzburg]]
+win against Austria Salzburg]]
 
 The 1990s was a period of disappointment. While their great rivals Milan and Juventus were achieving success both domestically and in Europe, Inter were left behind, with repeated mediocre results in the domestic league standings, their worst coming in 1993–94 when they finished just one point out of the relegation zone. Nevertheless, they achieved some European success with three UEFA Cup victories in 1991, 1994 and 1998.
 
-With Massimo Moratti's takeover from Ernesto Pellegrini in 1995, Inter twice broke the world record transfer fee in this period (£19.5 million for Ronaldo from Barcelona in 1997 and £31 million for Christian Vieri from Lazio two years later).[16] However, the 1990s remained the only decade in Inter's history in which they did not win a single Serie A championship. For Inter fans, it was difficult to find who in particular was to blame for the troubled times and this led to some icy relations between them and the chairman, the managers and even some individual players. Jerseys_of_Ronaldo,_Zanetti,_Zamorano_&_Figo.jpg (number 10), Zamorano (one plus eight) and Figo (seven) in the San Siro museum]]
+With Massimo Moratti's takeover from Ernesto Pellegrini in 1995, Inter twice broke the world record transfer fee in this period (£19.5 million for Ronaldo from Barcelona in 1997 and £31 million for Christian Vieri from Lazio two years later).[16] However, the 1990s remained the only decade in Inter's history in which they did not win a single Serie A championship. For Inter fans, it was difficult to find who in particular was to blame for the troubled times and this led to some icy relations between them and the chairman, the managers and even some individual players. (number 10), Zamorano (one plus eight) and Figo (seven) in the San Siro museum]]
 
 Moratti later became a target of the fans, especially when he sacked the much-loved coach Luigi Simoni after only a few games into the 1998–99 season, having just received the Italian manager of the year award for 1998 the day before being dismissed. That season, Inter failed to qualify for any European competition for the first time in almost ten years, finishing in eighth place.
 
@@ -55,13 +53,13 @@ In 2002, not only did Inter manage to make it to the UEFA Cup semi-finals, but w
 
 Comeback and unprecedented treble
 
-Consegna_Coppa_Italia._Inter-Roma_11_05_2006.jpg, beating A.S. Roma]]
+, beating A.S. Roma]]
 
 On 8 July 2004, Inter appointed former Lazio coach Roberto Mancini as its new head coach. In his first season, the team collected 72 points from 18 wins, 18 draws and only two losses, as well as winning the Coppa Italia and later the Supercoppa Italiana. On 11 May 2006, Inter retained their Coppa Italia title once again after defeating Roma with a 4–1 aggregate victory (a 1–1 scoreline in Rome and a 3–1 win at the San Siro).
 
 Inter were awarded the 2005–06 Serie A championship retrospectively after points were stripped from Juventus and Milan due to the match fixing scandal that year. During the following season, Inter went on a record-breaking run of 17 consecutive victories in Serie A, starting on 25 September 2006 with a 4–1 home victory over Livorno, and ending on 28 February 2007, after a 1–1 draw at home to Udinese. On 22 April 2007, Inter won their second consecutive _Scudetto_—and first on the field since 1989—when they defeated Siena 2–1 at Stadio Artemio Franchi. Italian World Cup-winning defender Marco Materazzi scored both goals.[17]
 
-Inter started the 2007–08 season with the goal of winning both Serie A and Champions League. The team started well in the league, topping the table from the first round of matches, and also managed to qualify for the Champions League knockout stage. However, a late collapse, leading to a 2–0 defeat with ten men away to Liverpool on 19 February in the Champions League, threw into question manager Roberto Mancini's future at Inter while domestic form took a sharp turn of fortune with the team failing to win in the three following Serie A games. After being eliminated by Liverpool in the Champions League, Mancini announced his intention to leave his job immediately only to change his mind the following day. On the final day of the 2007–08 Serie A season, Inter played Parma away, and two goals from Zlatan Ibrahimović sealed their third consecutive championship. Mancini, however, was sacked soon after due to his previous announcement to leave the club.[18] Il_biscione_e_l'fc_Internazionale_al_Bernabeu.jpg final at Santiago Bernabéu]]
+Inter started the 2007–08 season with the goal of winning both Serie A and Champions League. The team started well in the league, topping the table from the first round of matches, and also managed to qualify for the Champions League knockout stage. However, a late collapse, leading to a 2–0 defeat with ten men away to Liverpool on 19 February in the Champions League, threw into question manager Roberto Mancini's future at Inter while domestic form took a sharp turn of fortune with the team failing to win in the three following Serie A games. After being eliminated by Liverpool in the Champions League, Mancini announced his intention to leave his job immediately only to change his mind the following day. On the final day of the 2007–08 Serie A season, Inter played Parma away, and two goals from Zlatan Ibrahimović sealed their third consecutive championship. Mancini, however, was sacked soon after due to his previous announcement to leave the club.[18] final at Santiago Bernabéu]]
 
 On 2 June 2008, Inter appointed former Porto and Chelsea boss José Mourinho as new head coach.[19] In his first season, the _Nerazzurri_ won a Suppercoppa Italiana and a fourth consecutive title, though falling in the Champions League in the first knockout round for a third-straight year, losing to eventual finalist Manchester United. In winning the league title Inter became the first club in the last 60 years to win the title for the fourth consecutive time and joined Torino and Juventus as the only clubs to accomplish this feat, as well as being the first club based outside Turin.
 
@@ -73,7 +71,7 @@ Leonardo started with 30 points from 12 games, with an average of 2.5 points per
 
 Decline and changes in ownership
 
-On 1 August 2012, the club announced that Moratti was to sell a minority interest of the club to a Chinese consortium led by Kenneth Huang.[26] On the same day, Inter announced an agreement was formed with China Railway Construction Corporation Limited for a new stadium project, however, the deal with the Chinese eventually collapsed.[27] The 2012–13 season was the worst in recent club history with Inter finishing ninth in Serie A and failing to qualify for any European competitions. Walter Mazzarri was appointed to replace Stramaccioni on 24 May 2013. Dnepr-Inter_(1).jpg on 18 September 2014]]
+On 1 August 2012, the club announced that Moratti was to sell a minority interest of the club to a Chinese consortium led by Kenneth Huang.[26] On the same day, Inter announced an agreement was formed with China Railway Construction Corporation Limited for a new stadium project, however, the deal with the Chinese eventually collapsed.[27] The 2012–13 season was the worst in recent club history with Inter finishing ninth in Serie A and failing to qualify for any European competitions. Walter Mazzarri was appointed to replace Stramaccioni on 24 May 2013. on 18 September 2014]]
 
 On 15 October 2013, an Indonesian consortium (International Sports Capital HK Ltd.) led by Erick Thohir, Handy Soetedjo and Rosan Roeslani, signed an agreement to acquire 70% of Inter shares from Internazionale Holding S.r.l.[28][29][30] Immediately after the deal, Moratti's Internazionale Holding S.r.l. still retained 29.5% of the shares of FC Internazionale Milano S.p.A.[31] After the deal, the shares of Inter was owned by a chain of holding companies, namely International Sports Capital S.p.A. of Italy (for 70% stake), International Sports Capital HK Limited and Asian Sports Ventures HK Limited of Hong Kong. Asian Sports Ventures HK Limited, itself another intermediate holding company, was owned by Nusantara Sports Ventures HK Limited (60% stake, a company owned by Thohir), Alke Sports Investment HK Limited (20% stake) and Aksis Sports Capital HK Limited (20% stake).
 
@@ -88,8 +86,6 @@ On 26 October 2018, Steven Zhang was appointed as new president of the club.[41]
 
 Colours and badge
 
-1928–29_Società_Sportiva_Ambrosiana.jpg
-
 One of the founders of Inter, a painter named Giorgio Muggiani, was responsible for the design of the first Inter logo in 1908. The first design incorporated the letters "FCIM" in the centre of a series of circles that formed the badge of the club. The basic elements of the design have remained constant even as finer details have been modified over the years. Starting at the 1999–2000 season, the original club crest was reduced in size, to give place for the addition of the club's name and foundation year at the upper and lower part of the logo respectively.
 
 In 2007, the logo was returned to the pre-1999–2000 era. It was given a more modern look with a smaller _Scudetto_ star and lighter color scheme. This version was used until July 2014, when the club decided to undertake a rebranding.[44] The most significant difference between the current and the previous logo is the omission of the star from other media except match kits.[45]
@@ -101,8 +97,6 @@ Animals are often used to represent football clubs in Italy – the grass snake,
 
 Stadium
 
-Scudo2009.jpg
-
 The team's stadium is the 80,018 seat San Siro, officially known as the _Stadio Giuseppe Meazza_ after the former player who represented both Milan and Inter. The more commonly used name, _San Siro_, is the name of the district where it is located. San Siro has been the home of Milan since 1926, when it was privately built by funding from Milan's chairman at the time, Piero Pirelli. Construction was performed by 120 workers, and took 13 and a half months to complete. The stadium was owned by the club until it was sold to the city council in 1935, and since 1947 it has been shared with Inter, when they were accepted as joint tenant.
 
 The first game played at the stadium was on 19 September 1926, when Inter beat Milan 6–3 in a friendly match. Milan played its first league game in San Siro on 19 September 1926, losing 1–2 to Sampierdarenese. From an initial capacity of 35,000 spectators, the stadium has undergone several major renovations, most recently in preparation for the 1990 FIFA World Cup when its capacity was set to 85,700, all covered with a polycarbonate roof. In the summer of 2008, its capacity was reduced to 80,018 to meet the new standards set by UEFA.
@@ -112,20 +106,20 @@ Based on the English model for stadiums, San Siro is specifically designed for f
 
 Supporters and rivalries
 
-Serie_A_1979-80_-_AC_Milan_v_Inter_Milan_-_Giuseppe_and_Franco_Baresi.jpg (left) and Franco (right) Baresi face each other in the 1979–80 Milan derby]] Inter is one of the most supported clubs in Italy, according to an August 2007 research by Italian newspaper _La Repubblica_.[51] Historically, the largest section of Inter fans from the city of Milan were the middle-class bourgeoisie Milanese, while Milan fans were typically working-class.[52]
+(left) and Franco (right) Baresi face each other in the 1979–80 Milan derby]] Inter is one of the most supported clubs in Italy, according to an August 2007 research by Italian newspaper _La Repubblica_.[51] Historically, the largest section of Inter fans from the city of Milan were the middle-class bourgeoisie Milanese, while Milan fans were typically working-class.[52]
 
 The traditional ultras group of Inter is _Boys San_; they hold a significant place in the history of the ultras scene in general due to the fact that they are one of the oldest, being founded in 1969. Politically, the ultras of Inter are usually considered right-wing and they have good relationships with the Lazio ultras. As well as the main group of _Boys San_, there are four more significant groups: _Viking_, _Irriducibili_, _Ultras_, and _Brianza Alcoolica_.
 
 Inter's most vocal fans are known to gather in the Curva Nord, or north curve of the San Siro. This longstanding tradition has led to the Curva Nord being synonymous with the club's most die-hard supporters, who unfurl banners and wave flags in support of their team.
 
-Inter_vs_Milan_-_1915_-_Coppa_Gazzetta_dello_Sport.jpg Inter have several rivalries, two of which are highly significant in Italian football; firstly, they participate in the intra city _Derby della Madonnina_ with Milan; the rivalry has existed ever since Inter splintered off from Milan in 1908.[53] The name of the derby refers to the Blessed Virgin Mary, whose statue atop the Milan Cathedral is one of the city's main attractions. The match usually creates a lively atmosphere, with numerous (often humorous or offensive) banners unfolded before the match. Flares are commonly present, but they also led to the abandonment of the second leg of the 2004–05 Champions League quarter-final matchup between Milan and Inter on 12 April after a flare thrown from the crowd by an Inter supporter struck Milan keeper Dida on the shoulder.[54]
+Inter have several rivalries, two of which are highly significant in Italian football; firstly, they participate in the intra city _Derby della Madonnina_ with Milan; the rivalry has existed ever since Inter splintered off from Milan in 1908.[53] The name of the derby refers to the Blessed Virgin Mary, whose statue atop the Milan Cathedral is one of the city's main attractions. The match usually creates a lively atmosphere, with numerous (often humorous or offensive) banners unfolded before the match. Flares are commonly present, but they also led to the abandonment of the second leg of the 2004–05 Champions League quarter-final matchup between Milan and Inter on 12 April after a flare thrown from the crowd by an Inter supporter struck Milan keeper Dida on the shoulder.[54]
 
 The other most significant rivalry is with Juventus; the two participate in the _Derby d'Italia_. Up until the 2006 Italian football scandal, which saw Juventus relegated, the two were the only Italian clubs to have never played below Serie A. In recent years, post-_Calciopoli_, Inter have developed a rivalry with Roma, having finished runners-up to Inter in all but one of Inter's five _Scudetto_-winning seasons between 2005 and 2010. The two sides have also contested in five Coppa Italia finals and four Supercoppa Italiana finals since 2006. Other clubs, like Atalanta and Napoli, are also considered amongst their rivals.[55] Their supporters collectively go by _Interisti_, or _Nerazzurri._[56]
 
 
 Honours
 
-Inter1965-66.jpg]] Inter have won 30 domestic trophies, including the league 18 times, the Coppa Italia seven and the Supercoppa Italiana five. From 2006 to 2010, the club won five successive league titles, equalling the all-time record before 2017, when Juventus won the sixth successive league title.[57] They have won the Champions League three times: two back-to-back in 1964 and 1965 and then another in 2010; the last completed an unprecedented Italian treble with the Coppa Italia and the _Scudetto_.[58] The club has also won three UEFA Cups, two Intercontinental Cups and one FIFA Club World Cup.
+]] Inter have won 30 domestic trophies, including the league 18 times, the Coppa Italia seven and the Supercoppa Italiana five. From 2006 to 2010, the club won five successive league titles, equalling the all-time record before 2017, when Juventus won the sixth successive league title.[57] They have won the Champions League three times: two back-to-back in 1964 and 1965 and then another in 2010; the last completed an unprecedented Italian treble with the Coppa Italia and the _Scudetto_.[58] The club has also won three UEFA Cups, two Intercontinental Cups and one FIFA Club World Cup.
 
   Type                  Competition                            Titles                                                          Seasons
   --------------------- -------------------------------------- --------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -142,7 +136,7 @@ Inter1965-66.jpg]] Inter have won 30 domestic trophies, including the league 18 
 
 Club statistics and records
 
-Javier_Zanetti_FC_Internazionale.jpg made a record 858 appearances for Internazionale, including 618 in Serie A]]
+made a record 858 appearances for Internazionale, including 618 in Serie A]]
 
 Javier Zanetti holds the records for both total appearances and Serie A appearances for Inter, with 858 official games played in total and 618 in Serie A.
 
@@ -175,7 +169,7 @@ Retired numbers
 
 Technical staff
 
-20150616_Antonio_Conte.jpg is the current coach of the club]]
+is the current coach of the club]]
 
     __[64]
 
@@ -237,7 +231,7 @@ Below is a list of Inter chairmen from 1908 until the present day.[65]
 
 Managerial history
 
-Jose_Mourinho_-_Inter_Mailand_(5).jpg, winner of the first treble in Italian history in the 2009–2010 season]] Below is a list of Inter coaches from 1909 until the present day.[66]
+, winner of the first treble in Italian history in the 2009–2010 season]] Below is a list of Inter coaches from 1909 until the present day.[66]
 
 +---+---------------------------------------------------+---+----------------------------------------------------+
 |   | +---------------------+-------------+-----------+ |   | +----------------------+-------------+-----------+ |

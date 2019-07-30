@@ -24,7 +24,7 @@ In 1901 he isolated and purified the hormone adrenaline (the first effective bro
 
 In 1905 he founded the Nippon Club, which was for many years located at 161 West 93rd Street in Manhattan.[13]
 
-Jokichi_Takamine_Mausoleum_12-2008.jpg, Bronx, New York]] Many of the beautiful cherry blossom trees in the West Potomac Park surrounding the Tidal Basin in Washington, DC were donated by the mayor of Tokyo (Yukio Ozaki) and Jokichi Takamine in 1912.[14]
+, Bronx, New York]] Many of the beautiful cherry blossom trees in the West Potomac Park surrounding the Tidal Basin in Washington, DC were donated by the mayor of Tokyo (Yukio Ozaki) and Jokichi Takamine in 1912.[14]
 
 In 1904, the Emperor Meiji of Japan honored Takamine with an unusual gift. In the context of the St. Louis World Fair (Louisiana Purchase Exposition), the Japanese government had replicated a historical Japanese structure, the "Pine and Maple Palace" (_Shofu-den_), modelled after the Kyoto Imperial Coronation Palace of 1,300 years ago. This structure was given to Dr. Takamine in grateful recognition of his efforts to further friendly relations between Japan and the United States.[15] He had the structure transported in sections from Missouri to his summer home in upstate New York, seventy-five miles north of New York City. In 1909, the structure served as a guest house for Prince Kuni Kuniyoshi and Princess Kuni of Japan, who were visiting the area.[16] Although the property was sold in 1922, the reconstructed structure remained in its serene setting. In 2008, it still continues to be one of the undervalued tourist attractions of New York's Sullivan County.[17]
 

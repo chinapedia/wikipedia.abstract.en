@@ -7,13 +7,13 @@ The term was later applied to a number of movements, especially republicanism du
 
 History
 
-Estatesgeneral.jpg in Versailles]]
+in Versailles]]
 
 In politics, the term "Left" derives from the French Revolution, as the anti-monarchist Montagnard and Jacobin deputies from the Third Estate generally sat to the left of the presiding member's chair in parliament, a habit which began in the French Estates General of 1789. Throughout the 19th century in France, the main line dividing Left and Right was between supporters of the French Republic and those of the monarchy.[18] The June Days uprising during the Second Republic was an attempt by the Left to assert itself after the 1848 Revolution, but only a small portion of the population supported this.
 
 In the mid-19th century, nationalism, socialism, democracy and anti-clericalism became features of the French Left. After Napoleon III's 1851 coup and the subsequent establishment of the Second Empire, Marxism began to rival radical republicanism and utopian socialism as a force within left-wing politics. The influential _Communist Manifesto_ by Karl Marx and Friedrich Engels, published in 1848, asserted that all human history is the history of class struggle. They predicted that a proletarian revolution would eventually overthrow bourgeois capitalism and create a classless, stateless, post-monetary communist society. It was in this period that the word "wing" was appended to both Left and Right.[19]
 
-1912_Lawrence_Textile_Strike_1.jpg]] In the United States, many leftists, social liberals, progressives and trade unionists were influenced by the works of Thomas Paine, who introduced the concept of asset-based egalitarianism, which theorises that social equality is possible by a redistribution of resources.
+]] In the United States, many leftists, social liberals, progressives and trade unionists were influenced by the works of Thomas Paine, who introduced the concept of asset-based egalitarianism, which theorises that social equality is possible by a redistribution of resources.
 
 The International Workingmen's Association (1864–1876), sometimes called the First International, brought together delegates from many different countries, with many different views about how to reach a classless and stateless society. Following a split between supporters of Marx and Mikhail Bakunin, anarchists formed the International Workers' Association.[20] The Second International (1888–1916) became divided over the issue of World War I. Those who opposed the war, such as Vladimir Lenin and Rosa Luxemburg, saw themselves as further to the left.
 
@@ -48,7 +48,7 @@ Several left-wing or socialist groupings have an overt environmental concern and
 
 Well-known socialist Bolivian President Evo Morales has traced environmental degradation to consumerism.[54] He has said: "The Earth does not have enough for the North to live better and better, but it does have enough for all of us to live well". James Hansen, Noam Chomsky, Raj Patel, Naomi Klein, The Yes Men and Dennis Kucinich have had similar views.[55][56][57][58][59][60]
 
-Ms._magazine_Cover_-_Spring_2007.jpg'' magazine]] In the 21st century, questions about the environment have become increasingly politicized, with the Left generally accepting the findings of environmental scientists about global warming[61][62] and many on the Right disputing or rejecting those findings.[63][64][65] However, the left is divided over how to effectively and equitably reduce carbon emissions: the center-left often advocates a reliance on market measures such as emissions trading or a carbon tax, while those further to the left tend to support direct government regulation and intervention either alongside or instead of market mechanisms.[66][67][68]
+'' magazine]] In the 21st century, questions about the environment have become increasingly politicized, with the Left generally accepting the findings of environmental scientists about global warming[61][62] and many on the Right disputing or rejecting those findings.[63][64][65] However, the left is divided over how to effectively and equitably reduce carbon emissions: the center-left often advocates a reliance on market measures such as emissions trading or a carbon tax, while those further to the left tend to support direct government regulation and intervention either alongside or instead of market mechanisms.[66][67][68]
 
 Nationalism and anti-nationalism
 

@@ -11,7 +11,7 @@ Uses
 
 Recreational
 
-Pink_Elephants_on_Parade_Blotter_LSD_Dumbo.jpg LSD is commonly used as a recreational drug.[32]
+LSD is commonly used as a recreational drug.[32]
 
 Spiritual
 
@@ -23,8 +23,6 @@ LSD currently has no approved uses in medicine.[36][37] A meta analysis conclude
 
 
 Effects
-
-Possible_physical_effects_of_lysergic_acid_diethylamide_(LSD).svg
 
 Physical
 
@@ -43,7 +41,7 @@ LSD causes an animated sensory experience of senses, emotions, memories, time, a
 
 Adverse effects
 
-Rational_harm_assessment_of_drugs_radar_plot.svg regarding 20 popular recreational drugs. LSD was ranked 14th in dependence, 15th in physical harm, and 13th in social harm.[48]]]
+regarding 20 popular recreational drugs. LSD was ranked 14th in dependence, 15th in physical harm, and 13th in social harm.[48]]]
 
 Of the 20 drugs ranked according to individual and societal harm by David Nutt, LSD was third to last, approximately 1/10th as harmful as alcohol. The most significant adverse effect was impairment of mental functioning while intoxicated.[49]
 
@@ -85,7 +83,7 @@ Pharmacology
 
 Pharmacodynamics
 
-LSDaffinities.GIF (K_(i)), the more strongly LSD binds to that receptor (i.e. with higher affinity). The horizontal line represents an approximate value for human plasma concentrations of LSD, and hence, receptor affinities that are above the line are unlikely to be involved in LSD's effect. Data averaged from data from the K_(i) Database]]
+(K_(i)), the more strongly LSD binds to that receptor (i.e. with higher affinity). The horizontal line represents an approximate value for human plasma concentrations of LSD, and hence, receptor affinities that are above the line are unlikely to be involved in LSD's effect. Data averaged from data from the K_(i) Database]]
 
 Most serotonergic psychedelics are not significantly dopaminergic, and LSD is therefore atypical in this regard. The agonism of the D₂ receptor by LSD may contribute to its psychoactive effects in humans.[75][76]
 
@@ -102,8 +100,6 @@ The pharmacokinetics of LSD were not properly determined until 2015, which is no
 
 Chemistry
 
-Lysergide_stereoisomers_structural_formulae_v.2.png
-
 LSD is a chiral compound with two stereocenters at the carbon atoms C-5 and C-8, so that theoretically four different optical isomers of LSD could exist. LSD, also called (+)-D-LSD, has the absolute configuration (5_R_,8_R_). The C-5 isomers of lysergamides do not exist in nature and are not formed during the synthesis from _d_-lysergic acid. Retrosynthetically, the C-5 stereocenter could be analysed as having the same configuration of the alpha carbon of the naturally occurring amino acid L-tryptophan, the precursor to all biosynthetic ergoline compounds.
 
 However, LSD and iso-LSD, the two C-8 isomers, rapidly interconvert in the presence of bases, as the alpha proton is acidic and can be deprotonated and reprotonated. Non-psychoactive iso-LSD which has formed during the synthesis can be separated by chromatography and can be isomerized to LSD.
@@ -116,7 +112,7 @@ LSD is an ergoline derivative. It is commonly synthesized by reacting diethylami
 
 Dosage
 
-10_strip.jpg A single dose of LSD may be between 40 and 500 micrograms—an amount roughly equal to one-tenth the mass of a grain of sand. Threshold effects can be felt with as little as 25 micrograms of LSD.[127][128] Dosages of LSD are measured in micrograms (µg), or millionths of a gram. By comparison, dosages of most drugs, both recreational and medicinal, are measured in milligrams (mg), or thousandths of a gram. For example, an active dose of mescaline, roughly , has effects comparable to 100 µg or less of LSD.[129]
+A single dose of LSD may be between 40 and 500 micrograms—an amount roughly equal to one-tenth the mass of a grain of sand. Threshold effects can be felt with as little as 25 micrograms of LSD.[127][128] Dosages of LSD are measured in micrograms (µg), or millionths of a gram. By comparison, dosages of most drugs, both recreational and medicinal, are measured in milligrams (mg), or thousandths of a gram. For example, an active dose of mescaline, roughly , has effects comparable to 100 µg or less of LSD.[129]
 
 In the mid-1960s, the most important black market LSD manufacturer (Owsley Stanley) distributed acid at a standard concentration of 270 µg,[130] while street samples of the 1970s contained 30 to 300 µg. By the 1980s, the amount had reduced to between 100 and 125 µg, dropping more in the 1990s to the 20–80 µg range,[131] and even more in the 2000s (decade).[132][133]
 
@@ -139,7 +135,7 @@ The apparent plasma half life of LSD is considered to be around 5.1 hours with p
 
 History
 
-LSD was first synthesized on November 16, 1938[140] by Swiss chemist Albert Hofmann at the Sandoz Laboratories in Basel, Switzerland as part of a large research program searching for medically useful ergot alkaloid derivatives. LSD's psychedelic properties were discovered 5 years later when Hofmann himself accidentally ingested an unknown quantity of the chemical.[141] The first intentional ingestion of LSD occurred on April 19, 1943,[142] when Hofmann ingested 250 µg of LSD. He said this would be a threshold dose based on the dosages of other ergot alkaloids. Hofmann found the effects to be much stronger than he anticipated.[143] Sandoz Laboratories introduced LSD as a psychiatric drug in 1947 and marketed LSD as a psychiatric panacea, hailing it "as a cure for everything from schizophrenia to criminal behavior, 'sexual perversions,' and alcoholism."[144] Albert_Hofmann.jpg in 2006]]
+LSD was first synthesized on November 16, 1938[140] by Swiss chemist Albert Hofmann at the Sandoz Laboratories in Basel, Switzerland as part of a large research program searching for medically useful ergot alkaloid derivatives. LSD's psychedelic properties were discovered 5 years later when Hofmann himself accidentally ingested an unknown quantity of the chemical.[141] The first intentional ingestion of LSD occurred on April 19, 1943,[142] when Hofmann ingested 250 µg of LSD. He said this would be a threshold dose based on the dosages of other ergot alkaloids. Hofmann found the effects to be much stronger than he anticipated.[143] Sandoz Laboratories introduced LSD as a psychiatric drug in 1947 and marketed LSD as a psychiatric panacea, hailing it "as a cure for everything from schizophrenia to criminal behavior, 'sexual perversions,' and alcoholism."[144] in 2006]]
 
 Beginning in the 1950s, the US Central Intelligence Agency began a research program code named Project MKULTRA. Experiments included administering LSD to CIA employees, military personnel, doctors, other government agents, prostitutes, mentally ill patients, and members of the general public in order to study their reactions, usually without the subjects' knowledge. The project was revealed in the US congressional Rockefeller Commission report in 1975.
 
@@ -152,7 +148,7 @@ Society and culture
 
 Counterculture
 
-Hell0_Darinzo.jpg attempts to capture the visions experienced on a psychedelic trip]] By the mid-1960s, the youth countercultures in California, particularly in San Francisco, had adopted the use of hallucinogenic drugs, with the first major underground LSD factory established by Owsley Stanley.[152] From 1964, the Merry Pranksters, a loose group that developed around novelist Ken Kesey, sponsored the Acid Tests, a series of events primarily staged in or near San Francisco, involving the taking of LSD (supplied by Stanley), accompanied by light shows, film projection and discordant, improvised music known as the _psychedelic symphony_.[153][154] The Pranksters helped popularize LSD use, through their road trips across America in a psychedelically-decorated converted school bus, which involved distributing the drug and meeting with major figures of the beat movement, and through publications about their activities such as Tom Wolfe's _The Electric Kool-Aid Acid Test_ (1968).[155]
+attempts to capture the visions experienced on a psychedelic trip]] By the mid-1960s, the youth countercultures in California, particularly in San Francisco, had adopted the use of hallucinogenic drugs, with the first major underground LSD factory established by Owsley Stanley.[152] From 1964, the Merry Pranksters, a loose group that developed around novelist Ken Kesey, sponsored the Acid Tests, a series of events primarily staged in or near San Francisco, involving the taking of LSD (supplied by Stanley), accompanied by light shows, film projection and discordant, improvised music known as the _psychedelic symphony_.[153][154] The Pranksters helped popularize LSD use, through their road trips across America in a psychedelically-decorated converted school bus, which involved distributing the drug and meeting with major figures of the beat movement, and through publications about their activities such as Tom Wolfe's _The Electric Kool-Aid Acid Test_ (1968).[155]
 
 In San Francisco's Haight-Ashbury neighborhood, brothers Ron and Jay Thelin opened the Psychedelic Shop in January 1966. The Thelins' store is regarded as the first ever head shop. The Thelins opened the store to promote safe use of LSD, which was then still legal in California. The Psychedelic Shop helped to further popularize LSD in the Haight and to make the neighborhood the unofficial capital of the hippie counterculture in the United States. Ron Thelin was also involved in organizing the Love Pageant rally, a protest held in Golden Gate park to protest California's newly adopted ban on LSD in October 1966. At the rally, hundreds of attendees took acid in unison. Although the Psychedelic Shop closed after barely a year-and-a-half in business, its role in popularizing LSD was considerable.[156]
 
@@ -220,15 +216,11 @@ Economics
 
 Production
 
-LSDLabGlassware.jpg
-
 An active dose of LSD is very minute, allowing a large number of doses to be synthesized from a comparatively small amount of raw material. Twenty five kilograms of precursor ergotamine tartrate can produce 5–6 kg of pure crystalline LSD; this corresponds to 100 million doses. Because the masses involved are so small, concealing and transporting illicit LSD is much easier than smuggling cocaine, cannabis, or other illegal drugs.[189]
 
 Manufacturing LSD requires laboratory equipment and experience in the field of organic chemistry. It takes two to three days to produce 30 to 100 grams of pure compound. It is believed that LSD is not usually produced in large quantities, but rather in a series of small batches. This technique minimizes the loss of precursor chemicals in case a step does not work as expected.[190]
 
 Forms
-
-5_LSD_blotters.png
 
 LSD is produced in crystalline form and then mixed with excipients or redissolved for production in ingestible forms. Liquid solution is either distributed in small vials or, more commonly, sprayed onto or soaked into a distribution medium. Historically, LSD solutions were first sold on sugar cubes, but practical considerations forced a change to tablet form. Appearing in 1968 as an orange tablet measuring about 6 mm across, "Orange Sunshine" acid was the first largely available form of LSD after its possession was made illegal. Tim Scully, a prominent chemist, made some of these tablets, but said that most "Sunshine" in the USA came by way of Ronald Stark, who imported approximately thirty-five million doses from Europe.[191]
 
@@ -245,8 +237,6 @@ Many LSD dealers and chemists describe a religious or humanitarian purpose that 
 In the second half of the 20th century, dealers and chemists loosely associated with the Grateful Dead like Owsley Stanley, Nicholas Sand, Karen Horning, Sarah Maltzer, "Dealer McDope," and Leonard Pickard played an essential role in distributing LSD.[203]
 
  Mimics
-
-Docpsychadelic.jpg Lysergic.JPG
 
 Since 2005, law enforcement in the United States and elsewhere has seized several chemicals and combinations of chemicals in blotter paper which were sold as LSD mimics, including DOB,[204][205] a mixture of DOC and DOI,[206] 25I-NBOMe,[207] and a mixture of DOC and DOB.[208] Street users of LSD are often under the impression that blotter paper which is actively hallucinogenic can only be LSD because that is the only chemical with low enough doses to fit on a small square of blotter paper. While it is true that LSD requires lower doses than most other hallucinogens, blotter paper is capable of absorbing a much larger amount of material. The DEA performed a chromatographic analysis of blotter paper containing 2C-C which showed that the paper contained a much greater concentration of the active chemical than typical LSD doses, although the exact quantity was not determined.[209] Blotter LSD mimics can have relatively small dose squares; a sample of blotter paper containing DOC seized by Concord, California police had dose markings approximately 6 mm apart.[210] Several deaths have been attributed to 25I-NBOMe.[211][212][213][214]
 

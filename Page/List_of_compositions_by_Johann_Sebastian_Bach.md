@@ -1,4 +1,4 @@
-Canon_BWV_1076.jpg made of Bach (1746, 1748 – above). In the 19th-century Bach Gesellschaft edition the canon was published in Volume 45¹, p. 138. In 1950 the piece was assigned the number 1076 in Schmieder's catalogue of Bach's works (BWV). The 1998 edition of that catalogue (BWV^(2a)) mentions Haussmann's paintings as original sources for the work (p. 438), and likewise the Bach digital website gives a description of both paintings as sources for the piece (linked from Bach digital Work page ).]] Johann Sebastian Bach composed cantatas, motets, masses, Magnificats, Passions, oratorios, four-part chorales, songs and arias. His instrumental music includes concertos, suites, sonatas, fugues, and other works for organ, harpsichord, lute, violin, cello, flute, chamber ensemble and orchestra.
+made of Bach (1746, 1748 – above). In the 19th-century Bach Gesellschaft edition the canon was published in Volume 45¹, p. 138. In 1950 the piece was assigned the number 1076 in Schmieder's catalogue of Bach's works (BWV). The 1998 edition of that catalogue (BWV^(2a)) mentions Haussmann's paintings as original sources for the work (p. 438), and likewise the Bach digital website gives a description of both paintings as sources for the piece (linked from Bach digital Work page ).]] Johann Sebastian Bach composed cantatas, motets, masses, Magnificats, Passions, oratorios, four-part chorales, songs and arias. His instrumental music includes concertos, suites, sonatas, fugues, and other works for organ, harpsichord, lute, violin, cello, flute, chamber ensemble and orchestra.
 
 There are over 1000 known compositions by Bach. Nearly all of them are listed in the __ (BWV), which is the best known and most widely used catalogue of Bach's compositions.
 
@@ -9,7 +9,7 @@ The earliest lists of Bach's compositions are given by his biographers, starting
 
 BG
 
-WTK-I-12-01-Leipzig_Breitkopf_&_Haertel,_1866.jpg of _The Well-Tempered Clavier_ book 1, in the BGA known as Vol. 14, p. 44, over eighty years before it got the number 857 in the _Bach-Werke-Verzeichnis_]] In the second half of the 19th century the Bach-Gesellschaft (BG) published all of Bach's works in around 50 volumes, the so-called Bach Gesellschaft Ausgabe (BGA).[1] This offered a unique identification of all of Bach's known works, a system that was quickly adopted, for instance by the biographers: Philipp Spitta used it complementarily to the Peters edition numbering for the BG volumes that had appeared when he was writing his Bach-biography in the second half of the 19th century (e.g. "B. G., III., p. 173" for the above-mentioned Prelude in E-flat major), and Terry used it in the third Appendix to his 20th-century translation of Forkel's biography.[2]
+of _The Well-Tempered Clavier_ book 1, in the BGA known as Vol. 14, p. 44, over eighty years before it got the number 857 in the _Bach-Werke-Verzeichnis_]] In the second half of the 19th century the Bach-Gesellschaft (BG) published all of Bach's works in around 50 volumes, the so-called Bach Gesellschaft Ausgabe (BGA).[1] This offered a unique identification of all of Bach's known works, a system that was quickly adopted, for instance by the biographers: Philipp Spitta used it complementarily to the Peters edition numbering for the BG volumes that had appeared when he was writing his Bach-biography in the second half of the 19th century (e.g. "B. G., III., p. 173" for the above-mentioned Prelude in E-flat major), and Terry used it in the third Appendix to his 20th-century translation of Forkel's biography.[2]
 
 But there was still a lot of confusion: some authors preferred to list Bach's works according to Novello's editions, or Augener's, or Schirmer's,... giving rise to various conversion tables at the end of books on Bach's compositions (e.g. Harvey Grace's in a 1922 book on Bach's organ compositions).
 
@@ -19,7 +19,7 @@ In 1900 the BG published its last volume, and dissolved itself, as its primary g
 
 BWV
 
-In 1950 the _Bach-Werke-Verzeichnis_ was published, allocating a unique number to every known composition by Bach. Wolfgang Schmieder, the editor of that catalogue, grouped the compositions by genre, largely following BG for the collation (e.g. BG cantata number = BWV number of the cantata):[4] Loure_bach.png, thus it identifies every movement of every composition by its first measures, like the opening of BWV 1006, movement 2 (Loure) above.]]
+In 1950 the _Bach-Werke-Verzeichnis_ was published, allocating a unique number to every known composition by Bach. Wolfgang Schmieder, the editor of that catalogue, grouped the compositions by genre, largely following BG for the collation (e.g. BG cantata number = BWV number of the cantata):[4] , thus it identifies every movement of every composition by its first measures, like the opening of BWV 1006, movement 2 (Loure) above.]]
 
 1.  Kantaten (Cantatas), BWV 1–224
 2.  Motetten (Motets), BWV 225–231
@@ -86,7 +86,7 @@ As of mid-2018 the Bach digital website started to implement the new numbers of 
 
 NBA
 
-CU3title.jpg illustrates its score editions with facsimiles from manuscripts or contemporary editions: for instance NBA Series IV Volume 4 (_Clavier-Übung III_) contains a facsimile of the title page of the 1739 first edition of that collection.]] In the meantime, the New Bach Edition (Neue Bach-Ausgabe, abbreviated as NBA) was being published,[11] offering a new system to refer to Bach's works, e.g. , which is Series IV, Volume 4, p. 2 (Prelude) and p. 105 (Fugue), for BWV 552.
+illustrates its score editions with facsimiles from manuscripts or contemporary editions: for instance NBA Series IV Volume 4 (_Clavier-Übung III_) contains a facsimile of the title page of the 1739 first edition of that collection.]] In the meantime, the New Bach Edition (Neue Bach-Ausgabe, abbreviated as NBA) was being published,[11] offering a new system to refer to Bach's works, e.g. , which is Series IV, Volume 4, p. 2 (Prelude) and p. 105 (Fugue), for BWV 552.
 
 NBArev
 
@@ -106,7 +106,7 @@ The Berlin State Library (Staatsbibliothek zu Berlin = SBB) holds an important c
 
 By opus number, and chronological lists
 
-Clavier-Übung-I-title-page.jpg'', 1731), the only time he seems to have used an opus number ]] Apart from indicating his first published keyboard composition as Opus 1, Bach didn't use opus numbers, so Bach's works can't be listed by opus number. Lists following publication chronologies are for example implied in the first list in Bach's obituary, and BG numbers (within the BGA sequence of publication) – overall lists covering all of Bach's compositions in order of first publication are however not a way Bach's compositions are usually presented.
+'', 1731), the only time he seems to have used an opus number ]] Apart from indicating his first published keyboard composition as Opus 1, Bach didn't use opus numbers, so Bach's works can't be listed by opus number. Lists following publication chronologies are for example implied in the first list in Bach's obituary, and BG numbers (within the BGA sequence of publication) – overall lists covering all of Bach's compositions in order of first publication are however not a way Bach's compositions are usually presented.
 
 Listing Bach's works according to their time of composition can't be done comprehensively: for many works the period in which they were composed is a very wide range. For Bach's larger vocal works (cantatas, Passions,...) research has led to some more or less generally accepted chronologies, covering most of these works: a catalogue in this sense is Philippe (and Gérard) Zwang's list giving a chronological number to the cantatas BWV 1–215 and 248–249.[16] This list was published in 1982 as _Guide pratique des cantates de Bach_ in Paris, . A revised edition was published in 2005 ().
 

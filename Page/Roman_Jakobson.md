@@ -19,7 +19,7 @@ Jakobson escaped from Prague in early March 1939[10] via Berlin for Denmark, whe
 
 Career in the United States and later life
 
-Roman_Jakobson.jpg In New York, he began teaching at The New School, still closely associated with the Czech émigré community during that period. At the École libre des hautes études, a sort of Francophone university-in-exile, he met and collaborated with Claude Lévi-Strauss, who would also become a key exponent of structuralism. He also made the acquaintance of many American linguists and anthropologists, such as Franz Boas, Benjamin Whorf, and Leonard Bloomfield. When the American authorities considered "repatriating" him to Europe, it was Franz Boas who actually saved his life. After the war, he became a consultant to the International Auxiliary Language Association, which would present Interlingua in 1951.
+In New York, he began teaching at The New School, still closely associated with the Czech émigré community during that period. At the École libre des hautes études, a sort of Francophone university-in-exile, he met and collaborated with Claude Lévi-Strauss, who would also become a key exponent of structuralism. He also made the acquaintance of many American linguists and anthropologists, such as Franz Boas, Benjamin Whorf, and Leonard Bloomfield. When the American authorities considered "repatriating" him to Europe, it was Franz Boas who actually saved his life. After the war, he became a consultant to the International Auxiliary Language Association, which would present Interlingua in 1951.
 
 In 1949[14] Jakobson moved to Harvard University, where he remained until his retirement in 1967.[15] His universalizing structuralist theory of phonology, based on a markedness hierarchy of distinctive features, achieved its canonical exposition in a book published in the United States in 1951, jointly authored by Roman Jakobson, C. Gunnar Fant and Morris Halle.[16] In the same year, Jakobson's theory of 'distinctive features' made a profound impression on the thinking of a young American linguist named Noam Chomsky, in this way decisively shaping the development of linguistics for the remainder of the twentieth century.[17]
 
@@ -46,8 +46,6 @@ Influenced by the Organon-Model by Karl Bühler, Jakobson distinguishes six comm
 4.  conative (: vocative or imperative addressing of receiver)
 5.  phatic (: checking channel working)
 6.  metalingual (: checking code working)[23]
-
-Roma_jakobson_theory.png
 
 One of the six functions is always the dominant function in a text and usually related to the type of text. In poetry, the dominant function is the poetic function: the focus is on the message itself. The true hallmark of poetry is according to Jakobson "the projection of the principle of equivalence from the axis of selection to the axis of combination". Very broadly speaking, it implies that poetry successfully combines and integrates form and function, that poetry turns the poetry of grammar into the grammar of poetry, so to speak. Jakobson's theory of communicative functions was first published in "Closing Statements: Linguistics and Poetics" (in Thomas A. Sebeok, _Style In Language_, Cambridge Massachusetts, MIT Press, 1960, pp. 350–377). Despite its wide adoption, the six-functions model has been criticized for lacking specific interest in the "play function" of language that, according to an early review by Georges Mounin, is "not enough studied in general by linguistics researchers".[24]
 

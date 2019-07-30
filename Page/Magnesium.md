@@ -58,7 +58,7 @@ Forms
 
 Alloys
 
-Cold_rolling_of_Mg_and_Mg-1Al-0.1Ca.jpgs when its thickness is reduced by only 10% by cold rolling (top). However, after alloying Mg with 1% Al and 0.1% Ca, its thickness could be reduced by 54% using the same process (bottom).]] As of 2013, magnesium alloys consumption was less than one million tonnes per year, compared with 50 million tonnes of aluminum alloys. Their use has been historically limited by the tendency of Mg alloys to corrode, creep at high temperatures, and combust.[18]
+s when its thickness is reduced by only 10% by cold rolling (top). However, after alloying Mg with 1% Al and 0.1% Ca, its thickness could be reduced by 54% using the same process (bottom).]] As of 2013, magnesium alloys consumption was less than one million tonnes per year, compared with 50 million tonnes of aluminum alloys. Their use has been historically limited by the tendency of Mg alloys to corrode, creep at high temperatures, and combust.[18]
 
 Corrosion
 
@@ -83,7 +83,7 @@ It is conventional to plot / against an Al/Mg ratio. In an isochron dating plot,
 
 Production
 
-Mg_sheets_and_ingots.jpg World production was approximately 1,100 kt in 2017, with the bulk being produced in China (930 kt) and Russia (60 kt).[24] China is almost completely reliant on the silicothermic Pidgeon process (the reduction of the oxide at high temperatures with silicon, often provided by a ferrosilicon alloy in which the iron is but a spectator in the reactions) to obtain the metal.[25] The process can also be carried out with carbon at approx 2300 °C:
+World production was approximately 1,100 kt in 2017, with the bulk being produced in China (930 kt) and Russia (60 kt).[24] China is almost completely reliant on the silicothermic Pidgeon process (the reduction of the oxide at high temperatures with silicon, often provided by a ferrosilicon alloy in which the iron is but a spectator in the reactions) to obtain the metal.[25] The process can also be carried out with carbon at approx 2300 °C:
 
     +  + →  +
 
@@ -121,7 +121,7 @@ The metal itself was first isolated by Sir Humphry Davy in England in 1808. He u
 
 Uses as a metal
 
-Bundesarchiv_Bild_102-12062,_Wasserreiter_mit_Magnesiumfackeln.jpg source while wakeskating in 1931]]
+source while wakeskating in 1931]]
 
 Magnesium is the third-most-commonly-used structural metal, following iron and aluminium.[33] The main applications of magnesium are, in order: aluminium alloys, die-casting (alloyed with zinc),[34] removing sulfur in the production of iron and steel, and the production of titanium in the Kroll process.[35] Magnesium is used in super-strong, lightweight materials and alloys. For example, when infused with silicon carbide nanoparticles, it has extremely high specific strength.[36]
 
@@ -135,8 +135,6 @@ Aircraft
 
 Automotive
 
-Mg_alloy_car_engine_blocks.jpg
-
 -   Mercedes-Benz used the alloy Elektron in the bodywork of an early model Mercedes-Benz 300 SLR; these cars competed in the 1955 World Sportscar Championship including a win at the Mille Miglia, and at Le Mans where one was involved in the 1955 Le Mans disaster when spectators were showered with burning fragments of elektron.
 -   Porsche used magnesium alloy frames in the 917/053 that won Le Mans in 1971, and continues to use magnesium alloys for its engine blocks due to the weight advantage.
 -   Volkswagen Group has used magnesium in its engine components for many years.
@@ -148,13 +146,13 @@ Both AJ62A and AE44 are recent developments in high-temperature low-creep magnes
 
 Electronics
 
-Because of low weight and good mechanical and electrical properties, magnesium is widely used for manufacturing of mobile phones, laptop and tablet computers, cameras, and other electronic components. Magnesium-products.jpg
+Because of low weight and good mechanical and electrical properties, magnesium is widely used for manufacturing of mobile phones, laptop and tablet computers, cameras, and other electronic components.
 
 Other
 
 Magnesium, being readily available and relatively nontoxic, has a variety of uses:
 
--   Magnesium is flammable, burning at a temperature of approximately ,[43] and the autoignition temperature of magnesium ribbon is approximately .[44] It produces intense, bright, white light when it burns. Magnesium's high combustion temperature makes it a useful tool for starting emergency fires. Other uses include flash photography, flares, pyrotechnics, and fireworks sparklers. Magnesium is also often used to ignite thermite or other materials that require a high ignition temperature.Magnesium_Sparks.jpg and flint to create sparks that ignite the shavings]]
+-   Magnesium is flammable, burning at a temperature of approximately ,[43] and the autoignition temperature of magnesium ribbon is approximately .[44] It produces intense, bright, white light when it burns. Magnesium's high combustion temperature makes it a useful tool for starting emergency fires. Other uses include flash photography, flares, pyrotechnics, and fireworks sparklers. Magnesium is also often used to ignite thermite or other materials that require a high ignition temperature. and flint to create sparks that ignite the shavings]]
 -   In the form of turnings or ribbons, to prepare Grignard reagents, which are useful in organic synthesis.
 -   As an additive agent in conventional propellants and the production of nodular graphite in cast iron.
 -   As a reducing agent to separate uranium and other metals from their salts.
@@ -166,7 +164,7 @@ Magnesium, being readily available and relatively nontoxic, has a variety of use
 
 Safety precautions
 
-Burning_Magnesium_Block!.ogv to self-combustion, emitting intense white light]] Magnesium metal and its alloys can be explosive hazards; they are highly flammable in their pure form when molten or in powder or ribbon form. Burning or molten magnesium reacts violently with water. When working with powdered magnesium, safety glasses with eye protection and UV filters (such as welders use) are employed because burning magnesium produces ultraviolet light that can permanently damage the retina of a human eye.[46]
+to self-combustion, emitting intense white light]] Magnesium metal and its alloys can be explosive hazards; they are highly flammable in their pure form when molten or in powder or ribbon form. Burning or molten magnesium reacts violently with water. When working with powdered magnesium, safety glasses with eye protection and UV filters (such as welders use) are employed because burning magnesium produces ultraviolet light that can permanently damage the retina of a human eye.[46]
 
 Magnesium is capable of reducing water and releasing highly flammable hydrogen gas:[47]
 
@@ -206,7 +204,7 @@ The important interaction between phosphate and magnesium ions makes magnesium e
 
 Dietary sources, recommended intake, and supplementation
 
-FoodSourcesOfMagnesium.jpg Spices, nuts, cereals, cocoa and vegetables are rich sources of magnesium.[52] Green leafy vegetables such as spinach are also rich in magnesium.[53]
+Spices, nuts, cereals, cocoa and vegetables are rich sources of magnesium.[52] Green leafy vegetables such as spinach are also rich in magnesium.[53]
 
 In the UK, the recommended daily values for magnesium are 300 mg for men and 270 mg for women.[54] In the U.S. the Recommended Dietary Allowances (RDAs) are 400 mg for men ages 19–30 and 420 mg for older; for women 310 mg for ages 19–30 and 320 mg for older.[55]
 

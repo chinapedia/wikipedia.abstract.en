@@ -8,7 +8,7 @@ A small fraction (about one in 1000) of free neutrons decay with the same produc
 
     →  +  +  +
 
-This gamma ray may be thought of as an "internal bremsstrahlung" that arises from the electromagnetic interaction of the emitted beta particle with the proton. Internal bremsstrahlung gamma ray production is also a minor feature of beta decays of bound neutrons (as discussed below). Beta-minus_Decay.svg of the nucleus of an atom indicating radiation, the emission of a fast electron from the nucleus (the accompanying antineutrino is omitted). In the Rutherford model for the nucleus, red spheres were protons with positive charge and blue spheres were protons tightly bound to an electron with no net charge.
+This gamma ray may be thought of as an "internal bremsstrahlung" that arises from the electromagnetic interaction of the emitted beta particle with the proton. Internal bremsstrahlung gamma ray production is also a minor feature of beta decays of bound neutrons (as discussed below). of the nucleus of an atom indicating radiation, the emission of a fast electron from the nucleus (the accompanying antineutrino is omitted). In the Rutherford model for the nucleus, red spheres were protons with positive charge and blue spheres were protons tightly bound to an electron with no net charge.
 The INSET shows beta decay of a free neutron as it is understood today; an electron and antineutrino are created in this process.]] A very small minority of neutron decays (about four per million) are so-called "two-body (neutron) decays", in which a proton, electron and antineutrino are produced as usual, but the electron fails to gain the 13.6 eV necessary energy to escape the proton (the ionization energy of hydrogen), and therefore simply remains bound to it, as a neutral hydrogen atom (one of the "two bodies"). In this type of free neutron decay, almost all of the neutron decay energy is carried off by the antineutrino (the other "body"). (The hydrogen atom recoils with a speed of only about (decay energy)/(hydrogen rest energy) times the speed of light, or 250 km/s.)
 
 The transformation of a free proton to a neutron (plus a positron and a neutrino) is energetically impossible, since a free neutron has a greater mass than a free proton. But a high-energy collision of a proton and an electron or neutrino can result in a neutron.
@@ -151,7 +151,7 @@ SOURCES OF NEUTRONS FOR RESEARCH. These include certain types of radioactive dec
 
 In practice, the most commonly used small laboratory sources of neutrons use radioactive decay to power neutron production. One noted neutron-producing radioisotope, californium-252 decays (half-life 2.65 years) by spontaneous fission 3% of the time with production of 3.7 neutrons per fission, and is used alone as a neutron source from this process. Nuclear reaction sources (that involve two materials) powered by radioisotopes use an alpha decay source plus a beryllium target, or else a source of high-energy gamma radiation from a source that undergoes beta decay followed by gamma decay, which produces photoneutrons on interaction of the high-energy gamma ray with ordinary stable beryllium, or else with the deuterium in heavy water. A popular source of the latter type is radioactive antimony-124 plus beryllium, a system with a half-life of 60.9 days, which can be constructed from natural antimony (which is 42.8% stable antimony-123) by activating it with neutrons in a nuclear reactor, then transported to where the neutron source is needed.[45]
 
-Institut_Laue–Langevin_(ILL)_in_Grenoble,_France.jpg (ILL) in Grenoble, France – a major neutron research facility.]]
+(ILL) in Grenoble, France – a major neutron research facility.]]
 
 Nuclear fission reactors naturally produce free neutrons; their role is to sustain the energy-producing chain reaction. The intense neutron radiation can also be used to produce various radioisotopes through the process of neutron activation, which is a type of neutron capture.
 
@@ -207,8 +207,6 @@ Cold neutrons
 
 _Cold neutrons_ are thermal neutrons that have been equilibrated in a very cold substance such as liquid deuterium. Such a _cold source_ is placed in the moderator of a research reactor or spallation source. Cold neutrons are particularly valuable for neutron scattering experiments.
 
-Cold_Neutron_Source.jpg
-
 Ultracold neutrons
 
 Ultracold neutrons are produced by elastically scattering cold neutrons in substances with a temperature of a few kelvins, such as solid deuterium or superfluid helium. An alternative production method is the mechanical deceleration of cold neutrons.
@@ -221,8 +219,6 @@ Fast neutrons can be made into thermal neutrons via a process called moderation.
 
 Fusion neutrons
 
-fusion_rxnrate.svg
-
 D–T (deuterium–tritium) fusion is the fusion reaction that produces the most energetic neutrons, with 14.1 MeV of kinetic energy and traveling at 17% of the speed of light. D–T fusion is also the easiest fusion reaction to ignite, reaching near-peak rates even when the deuterium and tritium nuclei have only a thousandth as much kinetic energy as the 14.1 MeV that will be produced.
 
 14.1 MeV neutrons have about 10 times as much energy as fission neutrons, and are very effective at fissioning even non-fissile heavy nuclei, and these high-energy fissions produce more neutrons on average than fissions by lower-energy neutrons. This makes D–T fusion neutron sources such as proposed tokamak power reactors useful for transmutation of transuranic waste. 14.1 MeV neutrons can also produce neutrons by knocking them loose from nuclei.
@@ -233,7 +229,7 @@ Other fusion reactions produce much less energetic neutrons. D–D fusion produc
 
 Intermediate-energy neutrons
 
-Sasahara.svg, which is a thermal-spectrum reactor]] A fission energy neutron that has slowed down but not yet reached thermal energies is called an epithermal neutron.
+, which is a thermal-spectrum reactor]] A fission energy neutron that has slowed down but not yet reached thermal energies is called an epithermal neutron.
 
 Cross sections for both capture and fission reactions often have multiple resonance peaks at specific energies in the epithermal energy range. These are of less significance in a fast neutron reactor, where most neutrons are absorbed before slowing down to this range, or in a well-moderated thermal reactor, where epithermal neutrons interact mostly with moderator nuclei, not with either fissile or fertile actinide nuclides. However, in a partially moderated reactor with more interactions of epithermal neutrons with heavy metal nuclei, there are greater possibilities for transient changes in reactivity that might make reactor control more difficult.
 

@@ -1,4 +1,4 @@
-Hildegard_von_Bingen.jpg, showing Hildegard of Bingen receiving a vision, dictating to her scribe and sketching on a wax tablet.]]
+, showing Hildegard of Bingen receiving a vision, dictating to her scribe and sketching on a wax tablet.]]
 
 In religion and theology, REVELATION is the revealing or disclosing of some form of truth or knowledge through communication with a deity or other supernatural entity or entities.
 
@@ -33,7 +33,7 @@ In the 20th century, religious existentialists proposed that revelation held no 
 
 Public revelation
 
-The_Ten_Commandments_(Bible_Card).jpg in an illustration from a Christian Bible card published by the Providence Lithograph Company, 1907]] Some religious groups believe a deity has been revealed or spoken to a large group of people or have legends to a similar effect. In the Book of Deuteronomy, Yahweh is said to have been revealed upon giving the Ten Commandments to the Israelites at Mount Sinai. In Christianity, the Book of Acts describes the Day of Pentecost wherein a large group of the followers of Jesus experienced mass revelation. The Lakota people believe Ptesáŋwiŋ spoke directly to the people in the establishment of Lakota religious traditions. Some versions of an Aztec legend tell of Huitzilopochtli speaking directly to the Aztec people upon their arrival at Anåhuac. Historically, some emperors, cult leaders, and other figures have also been deified and treated as though their words are themselves revelations.
+in an illustration from a Christian Bible card published by the Providence Lithograph Company, 1907]] Some religious groups believe a deity has been revealed or spoken to a large group of people or have legends to a similar effect. In the Book of Deuteronomy, Yahweh is said to have been revealed upon giving the Ten Commandments to the Israelites at Mount Sinai. In Christianity, the Book of Acts describes the Day of Pentecost wherein a large group of the followers of Jesus experienced mass revelation. The Lakota people believe Ptesáŋwiŋ spoke directly to the people in the establishment of Lakota religious traditions. Some versions of an Aztec legend tell of Huitzilopochtli speaking directly to the Aztec people upon their arrival at Anåhuac. Historically, some emperors, cult leaders, and other figures have also been deified and treated as though their words are themselves revelations.
 
 
 Methods
@@ -64,7 +64,7 @@ In various religions
 
 Bahá'í
 
-Revelation-writing.jpg]] The Báb, Bahá'u'lláh and `Abdu'l-Bahá received thousands of written enquiries, and wrote thousands of responses, hundreds of which amount to whole and proper books, while many are shorter texts, such as letters. In addition, the Bahá'í faith has large works which were divinely revealed in a very short time, as in a night, or a few days.[13] Additionally, because many of the works were first recorded by an amanuensis,[14] most were submitted for approval and correction and the final text was personally approved by the revelator.
+]] The Báb, Bahá'u'lláh and `Abdu'l-Bahá received thousands of written enquiries, and wrote thousands of responses, hundreds of which amount to whole and proper books, while many are shorter texts, such as letters. In addition, the Bahá'í faith has large works which were divinely revealed in a very short time, as in a night, or a few days.[13] Additionally, because many of the works were first recorded by an amanuensis,[14] most were submitted for approval and correction and the final text was personally approved by the revelator.
 
 Bahá'u'lláh would occasionally write the words of revelation down himself, but normally the revelation was dictated to his amanuensis, who sometimes recorded it in what has been called _revelation writing_, a shorthand script written with extreme speed owing to the rapidity of the utterance of the words. Afterwards, Bahá'u'lláh revised and approved these drafts. These _revelation drafts_ and many other transcriptions of Bahá'u'lláh's writings, around 15,000 items, some of which are in his own handwriting, are kept in the International Bahá'í Archives in Haifa, Israel.[15][16][17]
 
@@ -84,7 +84,7 @@ Karl Barth argued that God is the object of God’s own self-knowledge, and reve
 
 Latter Day Saint movement
 
-Joseph_Smith_receiving_golden_plates.jpg receiving the golden plates and other artifacts from the angel Moroni.]] This denomination believes that the president of the church receives revelation directly from God for the direction of the church. The Church of Jesus Christ of Latter-day Saints (LDS Church) and some other Latter Day Saint denominations claim to be led by revelation from God to a living prophet, who receives God’s word, just as Abraham, Moses, other ancient prophets and apostles did.
+receiving the golden plates and other artifacts from the angel Moroni.]] This denomination believes that the president of the church receives revelation directly from God for the direction of the church. The Church of Jesus Christ of Latter-day Saints (LDS Church) and some other Latter Day Saint denominations claim to be led by revelation from God to a living prophet, who receives God’s word, just as Abraham, Moses, other ancient prophets and apostles did.
 
 Latter-day Saints believe in an open scriptural canon, and in addition to the Bible and the Book of Mormon, have books of scripture containing the revelations of modern-day prophets such as the Doctrine and Covenants and the Pearl of Great Price. LDS Church leaders (from the Quorum of the Twelve Apostles) have taught during the church's General Conferences that conference talks which are "…[spoken as] moved upon by the Holy Ghost shall be scripture…".[31] In addition, many Mormons believe that ancient prophets in other regions of the world received revelations that resulted in additional scriptures that have been lost and may, one day, be forthcoming. Hence, the belief in continuing revelation. Latter Day Saints also believe that the United States Constitution is a divinely inspired document.[32][33]
 
@@ -98,7 +98,7 @@ Hinduism
 
 Islam
 
-Muhammad-Majmac-al-tawarikh-1.jpg (Compendium of Histories), ca. 1425; Timurid. From Herat, Afghanistan. In The Metropolitan Museum of Art]] Muslims believe that God (Arabic: ألله _Allah_) revealed his final message to all of existence through Muhammad via the angel Gabriel.[41] Muhammad is considered to have been the Seal of the Prophets and the last revelation, the Qur'an, is believed by Muslims to be the flawless final revelation of God to humanity, valid until the Last Day. The Qur'an claims to have been revealed word by word and letter by letter.
+(Compendium of Histories), ca. 1425; Timurid. From Herat, Afghanistan. In The Metropolitan Museum of Art]] Muslims believe that God (Arabic: ألله _Allah_) revealed his final message to all of existence through Muhammad via the angel Gabriel.[41] Muhammad is considered to have been the Seal of the Prophets and the last revelation, the Qur'an, is believed by Muslims to be the flawless final revelation of God to humanity, valid until the Last Day. The Qur'an claims to have been revealed word by word and letter by letter.
 
 Muslims hold that the message of Islam is the same as the message preached by all the messengers sent by God to humanity since Adam. Muslims believe that Islam is the oldest of the monotheistic religions because it represents both the original and the final revelation of God to Abraham, Moses, David, Jesus, and Muhammad.[42][43] Likewise, Muslims believe that every prophet received revelation in their lives, as each prophet was sent by God to guide mankind. Jesus is significant in this aspect as he received revelation in a twofold aspect, as Muslims believe he preached the Gospel while also having been taught the Torah.
 

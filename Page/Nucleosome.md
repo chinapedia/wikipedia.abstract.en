@@ -15,8 +15,6 @@ Structure
 
 Structure of the core particle
 
-Nucleosome_1KX5_colour_coded.png
-
 Overview
 
 Pioneering structural studies in the 1980s by Aaron Klug's group provided the first evidence that an octamer of histone proteins wraps DNA around itself in about 1.7 turns of a left-handed superhelix.[19] In 1997 the first near atomic resolution crystal structure of the nucleosome was solved by the Richmond group, showing the most important details of the particle. The human alpha-satellite palindromic DNA critical to achieving the 1997 nucleosome crystal structure was developed by the Bunick group at Oak Ridge National Laboratory in Tennessee.[20][21][22][23][24] The structures of over 20 different nucleosome core particles have been solved to date,[25] including those containing histone variants and histones from different species. The structure of the nucleosome core particle is remarkably conserved, and even a change of over 100 residues between frog and yeast histones results in electron density maps with an overall root mean square deviation of only 1.6Å.[26]
@@ -25,7 +23,7 @@ The nucleosome core particle (NCP)
 
 The nucleosome core particle (shown in the figure) consists of about 146 bp of DNA[27] wrapped in 1.67 left-handed superhelical turns around the histone octamer, consisting of 2 copies each of the core histones H2A, H2B, H3, and H4. Adjacent nucleosomes are joined by a stretch of free DNA termed "linker DNA" (which varies from 10 - 80 bp in length depending on species and tissue type[28]).
 
-Apoptotic_DNA_Laddering.png. Digested chromatin is in the first lane; the second contains DNA standard to compare lengths.]] Nucleosome_organization.png Nucleosome_core_particle_1EQZ_v.2.gif
+. Digested chromatin is in the first lane; the second contains DNA standard to compare lengths.]]
 
 Nucleosome core particles are observed when chromatin in interphase is treated to cause the chromatin to unfold partially. The resulting image, via an electron microscope, is "beads on a string". The string is the DNA, while each bead in the nucleosome is a core particle. The nucleosome core particle is composed of DNA and histone proteins.[29]
 
@@ -45,7 +43,7 @@ The histone tail extensions constitute up to 30% by mass of histones, but are no
 
 Higher order structure
 
-Chromatin_Structures.png The organization of the DNA that is achieved by the nucleosome cannot fully explain the packaging of DNA observed in the cell nucleus. Further compaction of chromatin into the cell nucleus is necessary, but is not yet well understood. The current understanding[35] is that repeating nucleosomes with intervening "linker" DNA form a _10-nm-fiber_, described as "beads on a string", and have a packing ratio of about five to ten.[36] A chain of nucleosomes can be arranged in a _30 nm fiber_, a compacted structure with a packing ratio of ~50[37] and whose formation is dependent on the presence of the H1 histone.
+The organization of the DNA that is achieved by the nucleosome cannot fully explain the packaging of DNA observed in the cell nucleus. Further compaction of chromatin into the cell nucleus is necessary, but is not yet well understood. The current understanding[35] is that repeating nucleosomes with intervening "linker" DNA form a _10-nm-fiber_, described as "beads on a string", and have a packing ratio of about five to ten.[36] A chain of nucleosomes can be arranged in a _30 nm fiber_, a compacted structure with a packing ratio of ~50[37] and whose formation is dependent on the presence of the H1 histone.
 
 A crystal structure of a tetranucleosome has been presented and used to build up a proposed structure of the 30 nm fiber as a two-start helix.[38] There is still a certain amount of contention regarding this model, as it is incompatible with recent electron microscopy data.[39] Beyond this, the structure of chromatin is poorly understood, but it is classically suggested that the 30 nm fiber is arranged into loops along a central protein scaffold to form transcriptionally active euchromatin. Further compaction leads to transcriptionally inactive heterochromatin.
 
@@ -92,7 +90,7 @@ Studies in 2007 have catalogued nucleosome positions in yeast and shown that nuc
 
 Nucleosome assembly _in vitro_
 
-Nucleosome_structure.png Nucleosomes can be assembled _in vitro_ by either using purified native or recombinant histones.[74][75] One standard technique of loading the DNA around the histones involves the use of salt dialysis. A reaction consisting of the histone octamers and a naked DNA template can be incubated together at a salt concentration of 2 M. By steadily decreasing the salt concentration, the DNA will equilibrate to a position where it is wrapped around the histone octamers, forming nucleosomes. In appropriate conditions, this reconstitution process allows for the nucleosome positioning affinity of a given sequence to be mapped experimentally.[76]
+Nucleosomes can be assembled _in vitro_ by either using purified native or recombinant histones.[74][75] One standard technique of loading the DNA around the histones involves the use of salt dialysis. A reaction consisting of the histone octamers and a naked DNA template can be incubated together at a salt concentration of 2 M. By steadily decreasing the salt concentration, the DNA will equilibrate to a position where it is wrapped around the histone octamers, forming nucleosomes. In appropriate conditions, this reconstitution process allows for the nucleosome positioning affinity of a given sequence to be mapped experimentally.[76]
 
 Disulfide crosslinked nucleosome core particles
 

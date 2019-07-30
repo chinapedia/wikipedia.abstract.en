@@ -1,4 +1,4 @@
-Bundesarchiv_Bild_183-R67561,_Potsdamer_Konferenz,_Konferenztisch.jpg, Ernest Bevin, Vyacheslav Molotov, Joseph Stalin, William D. Leahy, Joseph E. Davies, James F. Byrnes, and Harry S. Truman]] Trumanstalin.jpg, Secretary of State James F. Byrnes, and Soviet Foreign Minister Vyacheslav Molotov. Second row: Brigadier General Harry H. Vaughan, Truman's confidant and military aide, Russian interpreter Charles Bohlen, Truman naval aide James K. Vardaman, Jr., and (partially obscured) Charles Griffith Ross.[1]]] Potsdam_conference_1945-8.jpg, Harry S. Truman, Joseph Stalin, and behind: Fleet Admiral William Daniel Leahy, Foreign Secretary Ernest Bevin, Secretary of State James F. Byrnes, and Foreign Minister Vyacheslav Molotov]] Cecilienhof_in_Potsdam.jpg, site of the Potsdam Conference, pictured in 2014]]
+, Ernest Bevin, Vyacheslav Molotov, Joseph Stalin, William D. Leahy, Joseph E. Davies, James F. Byrnes, and Harry S. Truman]] , Secretary of State James F. Byrnes, and Soviet Foreign Minister Vyacheslav Molotov. Second row: Brigadier General Harry H. Vaughan, Truman's confidant and military aide, Russian interpreter Charles Bohlen, Truman naval aide James K. Vardaman, Jr., and (partially obscured) Charles Griffith Ross.[1]]] , Harry S. Truman, Joseph Stalin, and behind: Fleet Admiral William Daniel Leahy, Foreign Secretary Ernest Bevin, Secretary of State James F. Byrnes, and Foreign Minister Vyacheslav Molotov]] , site of the Potsdam Conference, pictured in 2014]]
 
 The POTSDAM CONFERENCE () was held at Cecilienhof, the home of Crown Prince Wilhelm in Potsdam, occupied Germany, from 17 July to 2 August 1945. (In some older documents, it is also referred to as the BERLIN CONFERENCE OF THE THREE HEADS OF GOVERNMENT OF THE USSR, USA, AND UK.[2][3]) The participants were the Soviet Union, the United Kingdom, and the United States, represented respectively by Communist Party General Secretary Joseph Stalin, Prime Ministers Winston Churchill[4] and Clement Attlee,[5] and President Harry S. Truman.
 
@@ -24,7 +24,7 @@ Agreements made between the leaders at Potsdam
 
 Potsdam Agreements
 
-Vertreibungsgebiet.jpg Oder-neisse.gif (click to enlarge)]] At the end of the conference, the three Heads of Government agreed on the following actions. All other issues were to be answered by the final peace conference to be called as soon as possible.
+(click to enlarge)]] At the end of the conference, the three Heads of Government agreed on the following actions. All other issues were to be answered by the final peace conference to be called as soon as possible.
 
 Germany
 
@@ -42,7 +42,7 @@ France, having been excluded from the Conference, resisted implementing the Pots
 
 Poland
 
-Curzon_line_en.svg's old and new borders, 1945. Territory previously part of Germany is identified in pink]]
+'s old and new borders, 1945. Territory previously part of Germany is identified in pink]]
 
 -   A Provisional Government of National Unity recognized by all three powers should be created (known as the Lublin Poles). When the Big Three recognized the Soviet controlled government, it meant, in effect, the end of recognition for the existing Polish government-in-exile (known as the London Poles).
 -   Poles who were serving in the British Army should be free to return to Poland, with no security upon their return to the communist country guaranteed.
@@ -54,7 +54,7 @@ Potsdam Declaration
 
 William D. Leahy's role
 
-One person who was at the Potsdam Conference, but is not mentioned often is William D. Leahy. Leahy was Fleet Admiral in the U.S. Navy and stood as advisor to President Roosevelt during the Yalta Conference and to President Truman during the Potsdam Conference. Leahy had lengthy military background as he served as the senior-most United States military officer on active duty during WWII. He said in his book, _I Was There: The Personal Story of the Chief of Staff to Presidents Roosevelt and Truman Based on His Notes and Diaries Made at the Time,_ that the Potsdam Conference was one of the most frustrating out of all the conferences, due to hostile relations between the Soviet Union and the United Kingdom and the United States. Throughout his work, he refers to the conference as its code name, Terminal. Later in his book he discusses a tour of Berlin that he takes with President Truman, and describes this experience as "I never saw such destruction. I don't know whether they learned anything from it or not." Bundesarchiv_Bild_183-14059-0016,_Potsdamer_Konferenz,_Molotow,_Byrnes,_Eden.jpg, James F. Byrnes, and Anthony Eden, July 1945]]
+One person who was at the Potsdam Conference, but is not mentioned often is William D. Leahy. Leahy was Fleet Admiral in the U.S. Navy and stood as advisor to President Roosevelt during the Yalta Conference and to President Truman during the Potsdam Conference. Leahy had lengthy military background as he served as the senior-most United States military officer on active duty during WWII. He said in his book, _I Was There: The Personal Story of the Chief of Staff to Presidents Roosevelt and Truman Based on His Notes and Diaries Made at the Time,_ that the Potsdam Conference was one of the most frustrating out of all the conferences, due to hostile relations between the Soviet Union and the United Kingdom and the United States. Throughout his work, he refers to the conference as its code name, Terminal. Later in his book he discusses a tour of Berlin that he takes with President Truman, and describes this experience as "I never saw such destruction. I don't know whether they learned anything from it or not." , James F. Byrnes, and Anthony Eden, July 1945]]
 
 In addition to the Potsdam Agreement, on 26 July, Churchill, Truman, and Chiang Kai-shek, Chairman of the Nationalist Government of China (the Soviet Union was not at war with Japan) issued the Potsdam Declaration which outlined the terms of surrender for Japan during World War II in Asia.
 

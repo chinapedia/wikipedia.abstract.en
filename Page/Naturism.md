@@ -1,4 +1,4 @@
-At_the_nudist_beach.jpg, 2008]] NATURISM, or NUDISM, is a cultural and political movement practicing, advocating, and defending personal and social nudity, most but not all of which takes place on private property. The term may also refer to a lifestyle based on personal, family, or social nudity. Naturism may take a number of forms. It may be practiced individually, within a family, socially, or in public. Additionally, there is also militant naturism, including campaigning, and extreme naturism is sometimes considered a separate category.
+, 2008]] NATURISM, or NUDISM, is a cultural and political movement practicing, advocating, and defending personal and social nudity, most but not all of which takes place on private property. The term may also refer to a lifestyle based on personal, family, or social nudity. Naturism may take a number of forms. It may be practiced individually, within a family, socially, or in public. Additionally, there is also militant naturism, including campaigning, and extreme naturism is sometimes considered a separate category.
 
 
 Definition and lexicology
@@ -13,7 +13,7 @@ People interested in social nudity can attend clothes-free beaches and other typ
 
 Many contemporary naturists and naturist organisations feel that the practice of social nudity should be asexual. For various social, cultural, and historical reasons the lay public, the media, and many contemporary naturists and their organisations often oversimplify the relationship between naturism and sexuality. Current research has begun to explore this complex relationship.
 
-Zwembad_op_naturistenterrein.JPG with a warning that no clothing (including underwear) is permitted.]]
+with a warning that no clothing (including underwear) is permitted.]]
 
 The International Naturist Federation explains:
 
@@ -32,7 +32,7 @@ The social nudity movement includes a large range of variants including "naturis
 
 Personal and family nudity
 
-Carl_Larsson_Model_writing_postcards_1906.jpg, _Model Writing Postcards_, watercolor, 1906]]
+, _Model Writing Postcards_, watercolor, 1906]]
 
 Many people are often nude in the privacy of their home or garden, either alone or with members of the family; naturists normally refer to them as at-home-nudists or closet-nudists. This may be occasional nudity or as a naturist lifestyle. There are differences of opinion as to whether, and if so to what extent, parents should appear naked in front of their children, and whether children should be nude within the home in the view of their family as well as visitors. This has attracted a great deal of academic study.
 
@@ -57,8 +57,6 @@ At naturist organised events or venues clothing is usually optional, except by s
 
 Facilities for naturists are classified in various ways. A landed or members' naturist club is one that owns its own facilities, while non-landed (or travel) clubs meet at various locations, such as private residences, swimming pools, hot springs, landed clubs and resorts, and rented facilities. Landed clubs can be run by members on democratic lines or by one or more owners who make the rules. In either case, they can determine membership criteria and the obligations of members. This usually involves sharing work necessary to maintain or develop the site.
 
-Outdoor_bathing_at_Jhiben_Hot_Spring_20121110.jpg
-
 Some clubs have stricter entrance requirements than some traditional 'country clubs', including the requirement to supply references, a sponsoring member, a trial membership, committee approval or, criminal background checks. UK clubs are now required to have child-protection policies in place, and designated child-protection officers. Many clubs promote frequent social activities.
 
 The international naturist organizations were mainly composed of representatives of landed clubs. Nudist colony is no longer a favored term, but it is used by naturists as a term of derision for landed clubs that have rigid non-inclusive membership criteria, and in meta-data on naturist websites.
@@ -73,8 +71,6 @@ Freikörperkultur (FKK) literally translated as 'free body culture' is the name 
 
 Nude beaches
 
-Chihuahua20_01_2007_2.jpg
-
 Clothing is optional at nude beaches (or "free beaches"). A feature of bathing on a nude beach is the anonymity it offers, with membership of a club not being required, nor detailed application processes, nor pre-booking of visits.
 
 In some European countries, such as Denmark,[4] all beaches are clothing optional, while in others like Germany and experimentally in France,[5] there are naturist sunbathing areas in public parks, e.g., in Munich[6] and Berlin.[7] Beaches in some holiday destinations, such as Crete, are also clothing-optional, except some central urban beaches.[8] There are two centrally located clothes-optional beaches in Barcelona.[9]
@@ -85,7 +81,7 @@ Naturism encourages a healthy life style, and many naturist clubs at times organ
 
 Festival naturism
 
-People_pix_in_the_village.jpg festival, New Zealand, 1981]]
+festival, New Zealand, 1981]]
 
 From Woodstock to Edinburgh, and Nambassa in the southern hemisphere communal nudity is commonly recorded at music and counterculture festivals.
 
@@ -93,7 +89,7 @@ The series of 1970s Nambassa hippie festivals held in New Zealand is a further e
 
 Roskilde festival in Denmark hosts a naked run, that has become one of the most popular events there.
 
-Perhaps nowadays the biggest and most famous festival where participants spontaneously decide to go naked or take part in nude events is Burning Man: it's got its own naked bike ride aka 'Naked Pub Crawl', and a few camps organize activities in the nude, including the famous[11] oil wrestling by camp Gymnasium.[12] Posing_nude_at_Burning_Man.jpg
+Perhaps nowadays the biggest and most famous festival where participants spontaneously decide to go naked or take part in nude events is Burning Man: it's got its own naked bike ride aka 'Naked Pub Crawl', and a few camps organize activities in the nude, including the famous[11] oil wrestling by camp Gymnasium.[12]
 
 Florida Young Naturists[13] has organized seasonal "Bashes" hosted by several Florida nudist/naturist clubs and resorts since 2008.
 
@@ -114,7 +110,7 @@ It is difficult to nominate exactly when naturism started as a movement. The wor
 
 The earliest known naturist club in the "western" sense of the word was established in British India in 1891. The 'Fellowship of the Naked Trust' was founded by Charles Edward Gordon Crawford, a widower, who was a District and Sessions Judge for the Bombay Civil Service. The commune was based in Matheran and had just three members at the beginning; Crawford and two sons of an Anglican missionary, Andrew and Kellogg Calderwood. The commune fell apart when Crawford was transferred to Ratnagiri; he died soon after in 1894.
 
-Koch,_Max_(1854-1925)_-_1897_-_Freilicht_-_vmp_01.jpg's _Freilicht_, 1897]]
+'s _Freilicht_, 1897]]
 
 In 1902, a series of philosophical papers was published in Germany by Dr. Heinrich Pudor, under the pseudonym Heinrich Scham, who coined the term _Nacktkultur_. In 1906 he went on to write a three volume treatise with his new term as its title, which discussed the benefits of nudity in co-education and advocated participating in sports while being free of cumbersome clothing. Richard Ungewitter (_Nacktheit_, 1906, _Nackt_, 1908, etc.) proposed that combining physical fitness, sunlight, and fresh air bathing, and then adding the nudist philosophy, contributed to mental and psychological fitness, good health, and an improved moral-life view. Major promoters of these ideas included Adolf Koch and Hans Suren. Germany published the first journal of nudism between 1902 and 1932.
 
@@ -129,7 +125,7 @@ By 1951, the national federations united to form the International Naturist Fede
 
 Philosophy
 
-Badstuga,_efter_illustration_i_Acerbis_Travels,_Nordisk_familjebok.png Naturism had many different philosophical sources and means many things to different people.[25] There is no one definition. In 1974, the INF defined naturism as:
+Naturism had many different philosophical sources and means many things to different people.[25] There is no one definition. In 1974, the INF defined naturism as:
 
 
 
@@ -165,7 +161,7 @@ Naturist writers
 
 Naturist ideals
 
-Nude_people_at_Praia_do_Abricó.jpg]]
+]]
 
 Individuals have formed naturist groups for a variety of specific purposes. It is generally agreed by naturist organisations that eroticism and blatant sexuality have no place in naturism and are, in fact, antithetical to its ideals. Reasons that have at times been given:
 
@@ -194,7 +190,7 @@ There are also documented psychological benefits of naturist activities includin
 
 World Naked Bike Ride
 
-Naked_Bike_Ride_-_Holborn_-_12_June_2016.JPG 11 June 2016]] The World Naked Bike Ride (WNBR) is an international clothing-optional bike ride and exercise in public nudity, that has developed outside the organised naturism movement. Participants plan, meet and ride together _en masse_ on human-powered transport (the vast majority on bicycles, but some on skateboards and inline skates), to "deliver a vision of a cleaner, safer, body-positive world". [39] Bodypainting is popular at these events. The WNBR shares some aspects of the philosophy of naturism in that it promotes a return to healthy exercise in unpolluted air at the same time promoting positive body image.
+11 June 2016]] The World Naked Bike Ride (WNBR) is an international clothing-optional bike ride and exercise in public nudity, that has developed outside the organised naturism movement. Participants plan, meet and ride together _en masse_ on human-powered transport (the vast majority on bicycles, but some on skateboards and inline skates), to "deliver a vision of a cleaner, safer, body-positive world". [39] Bodypainting is popular at these events. The WNBR shares some aspects of the philosophy of naturism in that it promotes a return to healthy exercise in unpolluted air at the same time promoting positive body image.
 
 
 Demographics
@@ -277,11 +273,9 @@ France
 
 In 1903 la _Revue des deux mondes_ published a report on German naturism and S. Gay created a naturist community at Bois-Fourgon. In 1907, supported by his superiors, Abbé Legrée encouraged the students at his Catholic college to bathe nude on the rocky beaches near Marseille.
 
-CapdAgde_crop.jpg
-
 Marcel Kienné de Mongeot is credited with starting naturism in France in 1920. His family had suffered from tuberculosis, and he saw naturism as a cure and a continuation of the traditions of the ancient Greeks. In 1926, he started the magazine _Vivre intégralement_ (later called _Vivre_) and the first French naturist club, _Sparta Club_ at Garambouville, near Evreux. The court action that he initiated, established that nudism was legal on private property that was fenced and screened.
 
-Nude_hiking_in_Gard.jpg, Gard, 2008]]
+, Gard, 2008]]
 
 Drs. André and Gaston Durville bought a 70 hectare site on the Île du Levant where they established the village of Héliopolis. The village was open to the public. In 1925 Dr François Fougerat de David de Lastours wrote a thesis on heliotherapy. and in that year opened the _Club gymnique de France_. In 1936, the naturist movement was officially recognised.
 
@@ -293,13 +287,11 @@ Germany
 
 German naturism was part of the Lebensreform movement and the Wandervogel youth movement of 1896, from Steglitz, Berlin which promoted ideas of fitness and vigour. At the same time doctors of the Natural Healing Movement were using heliotherapy, treating diseases such as TB, rheumatism and scrofula with exposure to sunlight.
 
-Naked_woman_in_inner_city_3.jpg woman moves in a busy market in Germany, while other people carry on with their routine activities, 2005.]]
+woman moves in a busy market in Germany, while other people carry on with their routine activities, 2005.]]
 
 Nacktkultur, a term coined in 1903 by Heinrich Pudor, flourished. Nacktkultur connected nudity, vegetarianism and social reform. It was practised in a network of 200 members clubs. The movement gained prominence in the 1920s as offering a health giving life-style with Utopian ideals. Germany published the first naturist journal between 1902 and 1932. It became politicised by radical socialists who believed it would lead to classlessness and a breaking down of society. It became associated with pacificism.
 
 In 1926, Adolf Koch established a school of naturism in Berlin; encouraging a mixing of the sexes, open air exercises, and a programme of "sexual hygiene". In 1929, the Berlin school hosted the first International Congress on Nudity.
-
-Bundesarchiv_Bild_183-1988-0905-402,_Ostsee,_Sonnenbad.jpg
 
 During the National Socialist _Gleichschaltung_ era, all naturist clubs had to register with the _Reichsbund für Leibesübungen_, which meant excluding Jews and Communists. Also, they had to keep all activities hidden in the countryside where there was little chance of being seen by others. The status as a West German _sports federation_ member gave the clubs rights and privileges (e.g. tax exemptions) so the naturist clubs remained in the federation after the war had ended.
 
@@ -323,7 +315,7 @@ First reported naturist society was established in 1897 in Grudziądz. In pre-wa
 
 In the early 1980s naturism became popular mostly due to increased interest in media. As the pop song "Chałupy Welcome To" (about the naturist beach in Chałupy, featuring beach nudity in the clip) became the 1985 summer hit in Poland, the nude seaside locations like Chałupy or Rowy became known to an average Polish sunbather. Polish Naturist Society was formed and after the number of lawsuits, naturism became tolerated in selected "unofficial" beaches and distant spots.
 
-Woodstock_Poland_2014_--_FKK.jpg festival, 2014]]
+festival, 2014]]
 
 In today's Poland naturism is practiced in number of the seaside and inland beaches. Most Polish beaches are actually clothes-optional rather than naturist. Among the most popular locations are Międzyzdroje-Lubiewo,[62] Grzybowo, Rowy, Dębki, Gdańsk-Stogi and Piaski. The most popular inland locations include Warsaw (Wał Miedzeszyński), Kazimierz Dolny and Kryspinów near Kraków. In the winter season, naturism is practiced by organized groups in Warsaw and Tri-City. Public naturist events are held bi-monthly in Poznań-Koziegłowy and Łódź waterpark.
 
@@ -341,7 +333,7 @@ Beginnings of naturism in Slovenia started in the year 1852, when a 29 year old 
 
 Spain
 
-Nudist-Textile_couple_in_Cabo_de_Gata,_Spain.jpg Public nudity in Spain is not illegal since there is no law banning its practice. Spanish legislation foresees felony for exhibitionism but restricts its scope to obscene exposure in front of children or mentally impaired individuals, i.e. with sexual connotation.[66] However, people do not normally use this right to be naked to do it anywhere, and most usually perform this activity in places where nudism is a tradition.
+Public nudity in Spain is not illegal since there is no law banning its practice. Spanish legislation foresees felony for exhibitionism but restricts its scope to obscene exposure in front of children or mentally impaired individuals, i.e. with sexual connotation.[66] However, people do not normally use this right to be naked to do it anywhere, and most usually perform this activity in places where nudism is a tradition.
 
 There are however some municipalities (like San Pedro del Pinatar) where public nudity has been regulated (banned) by means of by-laws. Other municipalities (like Barcelona, Salou, Platja de Palma and Sant Antoni de Portmany) have also used these provisions to regulate the practice of semi-nudism, forcing people to cover their torso on the streets. Some naturist associations have appealed these by-laws on the grounds that a fundamental right (freedom of expression, as they understand that nudism is a way of self-expression) cannot be regulated with this mechanism. Some judicial instances have ruled in favour of nudist associations.[67][68]
 
@@ -353,7 +345,7 @@ Legal aspects regarding topless are analogue to those regarding nudism, but soci
 
 United Kingdom
 
-BrightonFKKStrand5843.JPG. The naturist section of the beach is protected by an artificial bank of shingle]] WNBR_Brighton_2014_04.jpg in Brighton, 2014]]
+. The naturist section of the beach is protected by an artificial bank of shingle]] in Brighton, 2014]]
 
 In the United Kingdom, the first official nudist club was established in Wickford, Essex in 1924. According to Michael Farrar, writing for British Naturism the club adopted the name "Moonella Group" from the name of the owner of the ground, _Moonella_, and called its site The Camp. Moonella, who was still living in 1965 but whose identity remains to be discovered, had inherited a house with land in 1923 and made it available to certain members of the New Gymnosophy Society. This society had been founded a few years before by H.C. Booth, M.H. Sorensen and Rex Wellbye under the name of the English Gymnosophical Society. It met for discussions at the Minerva Cafe at 144 High Holborn in London, the headquarters of the Women's Freedom League. Those who were permitted to join the Moonella Group were carefully selected, and the club was run by an "aristocracy" of the original members, all of whom had "club names" to preserve their anonymity. The club closed in 1926 because of building on adjacent land.[73]
 
@@ -366,7 +358,7 @@ In North America
 
 Canada
 
-Hanlans_Point_nudist.jpg.]] In Canada, individuals around the country became interested in nudism, skinny-dipping, and physical culture in the early part of the 20th century. After 1940 they had their own Canadian magazine, _Sunbathing & Health_, which occasionally carried local news. Canadians had scattered groups in several cities during the 1930s and 1940s, and some of these groups attracted enough interest to form clubs on private land. The most significant clubs were the Van Tan Club, formed in 1939, and continues today in North Vancouver, BC., and, in Ontario, the Sun Air Club.
+.]] In Canada, individuals around the country became interested in nudism, skinny-dipping, and physical culture in the early part of the 20th century. After 1940 they had their own Canadian magazine, _Sunbathing & Health_, which occasionally carried local news. Canadians had scattered groups in several cities during the 1930s and 1940s, and some of these groups attracted enough interest to form clubs on private land. The most significant clubs were the Van Tan Club, formed in 1939, and continues today in North Vancouver, BC., and, in Ontario, the Sun Air Club.
 
 Canadians who served in the military during the Second World War met like-minded souls from across the country, and often visited clubs while in Europe. They were a ready pool of recruits for post-war organizers. A few years later, the wave of post-war immigration brought many Europeans with their own extensive experience, and they not only swelled the ranks of membership, but often formed their own clubs, helping to expand nudism from coast to coast.
 
@@ -376,8 +368,6 @@ In 1977 the Fédération québécoise de naturisme (FQN) was founded in Quebec, 
 
 Mexico
 
-WestEndZipoliteNudes.JPG
-
 Federación Nudista de México[77] is a members organization with both individual and organization members. It promotes social nudity in Mexico, and it is recognized by the International Naturist Federation as the official national naturist organization in that country.
 
 As of 2016, Playa Zipolite is Mexico's first and only legal public nude beach.[78] A "free beach" and unofficially nudist for more than 50 years[79], this beach is reputed to be the best place for nudism in the country. The numerous nude sunbathers, and the long tradition, make it safe for nudism and naturism. Annually since 2016, on the first weekend of February, Zipolite has hosted Festival Nudista Zipolite[80] that in 2019 attracted 7,000-8,000 visitors.[81]
@@ -386,7 +376,7 @@ Elsewhere, Mexican law condemns only "immorality" and thus the issue ends up bei
 
 United States
 
-Haulover-skinny-dipping.JPG, USA]]
+, USA]]
 
 Kurt Barthel founded the American League for Physical Culture in 1929 and organized the first nudist event. In about 1930 they organized the American Gymnosophical Association. Barthel founded America's first official nudist camp, Sky Farm in New Jersey, in May, 1932.[82] Around 1932, AGA established the Rock Lodge Club as a nudist facility in Stockholm, New Jersey and Ilsley Boone, a Dutch Reformed minister, formed the Christian naturism movement. Naturism began expanding nationwide.[83][84][85][86] Nudism venues were teetotal until 1970,[87]
 
@@ -403,7 +393,7 @@ In 2014, an organization called Unconstitutional Arkansas was created to highlig
 
 In Asia
 
-Beautiful_sunrise_from_Taitung_beach.jpg, Taiwan]]
+, Taiwan]]
 
 Generally, public nudity in Asia is not tolerated. However, some traditional, religious or cultural nudity has survived the introduction of Western moral values against nudity, such as the Jain Digambara monks in India, hot springs in Taiwan and Japan, and some traditional tribes in Papua. Nudism and naked recreation is slowly developing in some countries, mainly Indonesia (Bali) and Thailand. Nudists meet on the internet (e.g. Bareskinasia.com) and organize activities in remote or private locations. Several nudists also have their own blogs.
 

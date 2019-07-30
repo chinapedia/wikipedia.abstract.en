@@ -9,7 +9,7 @@ Philosophy of education
 
 Plato
 
-Platon_altes_Museum2.jpg of Plato. (Berlin, Altes Museum).]] DATE: 424/423 BC – 348/347 BC
+of Plato. (Berlin, Altes Museum).]] DATE: 424/423 BC – 348/347 BC
 
 Plato's educational philosophy was grounded in a vision of an ideal _Republic_ wherein the individual was best served by being subordinated to a just society due to a shift in emphasis that departed from his predecessors. The mind and body were to be considered separate entities. In the dialogues of Phaedo, written in his "middle period" (360 B.C.E.) Plato expressed his distinctive views about the nature of knowledge, reality, and the soul:[8]
 
@@ -37,7 +37,7 @@ Realism
 
 Aristotle
 
-Busto_di_Aristotele_conservato_a_Palazzo_Altemps,_Roma._Foto_di_Giovanni_Dall'Orto.jpg from 330 B.C.]] DATE: 384 BC – 322 BC
+from 330 B.C.]] DATE: 384 BC – 322 BC
 
 Only fragments of Aristotle's treatise _On Education_ are still in existence. We thus know of his philosophy of education primarily through brief passages in other works. Aristotle considered human nature, habit and reason to be equally important forces to be cultivated in education.1 Thus, for example, he considered repetition to be a key tool to develop good habits. The teacher was to lead the student systematically; this differs, for example, from Socrates' emphasis on questioning his listeners to bring out their own ideas (though the comparison is perhaps incongruous since Socrates was dealing with adults).
 
@@ -81,7 +81,7 @@ Locke also wrote that "the little and almost insensible impressions on our tende
 
 Jean-Jacques Rousseau
 
-Jean-Jacques_Rousseau_(painted_portrait).jpg]] DATE: 1712–1778
+]] DATE: 1712–1778
 
 Rousseau, though he paid his respects to Plato's philosophy, rejected it as impractical due to the decayed state of society.[23] Rousseau also had a different theory of human development; where Plato held that people are born with skills appropriate to different castes (though he did not regard these skills as being inherited), Rousseau held that there was one developmental process common to all humans. This was an intrinsic, natural process, of which the primary behavioral manifestation was curiosity. This differed from Locke's 'tabula rasa' in that it was an active process deriving from the child's nature, which drove the child to learn and adapt to its surroundings.
 
@@ -109,7 +109,7 @@ Scholasticism
 
 Thomas Aquinas
 
-St-thomas-aquinas.jpg by Carlo Crivelli, 1476)]] DATE: c. 1225 – 1274
+by Carlo Crivelli, 1476)]] DATE: c. 1225 – 1274
 
 See Religious perennialism.
 
@@ -125,7 +125,7 @@ Pragmatism
 
 John Dewey
 
-DATE: 1859–1952 John_Dewey_in_1902.jpg in 1902.]] In _Democracy and Education: An Introduction to the Philosophy of Education_, Dewey stated that education, in its broadest sense, is the means of the "social continuity of life" given the "primary ineluctable facts of the birth and death of each one of the constituent members in a social group". Education is therefore a necessity, for "the life of the group goes on."[28] Dewey was a proponent of Educational Progressivism and was a relentless campaigner for reform of education, pointing out that the authoritarian, strict, pre-ordained knowledge approach of modern traditional education was too concerned with delivering knowledge, and not enough with understanding students' actual experiences.[29]
+DATE: 1859–1952 in 1902.]] In _Democracy and Education: An Introduction to the Philosophy of Education_, Dewey stated that education, in its broadest sense, is the means of the "social continuity of life" given the "primary ineluctable facts of the birth and death of each one of the constituent members in a social group". Education is therefore a necessity, for "the life of the group goes on."[28] Dewey was a proponent of Educational Progressivism and was a relentless campaigner for reform of education, pointing out that the authoritarian, strict, pre-ordained knowledge approach of modern traditional education was too concerned with delivering knowledge, and not enough with understanding students' actual experiences.[29]
 
 William James
 
@@ -169,7 +169,7 @@ Critical theory
 
 Paulo Freire
 
-Paulo_Freire.jpg]] DATE: 1921–1997
+]] DATE: 1921–1997
 
 A Brazilian philosopher and educator committed to the cause of educating the impoverished peasants of his nation and collaborating with them in the pursuit of their liberation from what he regarded as "oppression," Freire is best known for his attack on what he called the "banking concept of education," in which the student was viewed as an empty account to be filled by the teacher. Freire also suggests that a deep reciprocity be inserted into our notions of teacher and student; he comes close to suggesting that the teacher-student dichotomy be completely abolished, instead promoting the roles of the participants in the classroom as the teacher-student (a teacher who learns) and the student-teacher (a learner who teaches). In its early, strong form this kind of classroom has sometimes been criticized on the grounds that it can mask rather than overcome the teacher's authority.
 
@@ -212,7 +212,7 @@ Perennialists believe that one should teach the things that one deems to be of e
 
 Allan Bloom
 
-Neill_birthday.jpg]] DATE: 1930–1992
+]] DATE: 1930–1992
 
 Bloom, a professor of political science at the University of Chicago, argued for a traditional Great Books-based liberal education in his lengthy essay _The Closing of the American Mind_.
 
@@ -248,7 +248,7 @@ DATE: 1889–1974
 
 Maria Montessori
 
-Maria_Montessori_&_Samuel_Sidney_McClure_1914.jpg and Samuel Sidney McClure]] DATE: 1870–1952
+and Samuel Sidney McClure]] DATE: 1870–1952
 
 The Montessori method arose from Dr. Maria Montessori's discovery of what she referred to as "the child's true normal nature" in 1907,[39] which happened in the process of her experimental observation of young children given freedom in an environment prepared with materials designed for their self-directed learning activity.[40] The method itself aims to duplicate this experimental observation of children to bring about, sustain and support their true natural way of being.[41]
 

@@ -1,4 +1,4 @@
-Historylink_Ballardlib03.JPG, Seattle, Washington ca. 1907]]
+, Seattle, Washington ca. 1907]]
 
 The REFERENCE DESK or INFORMATION DESK of a library is a public service counter where professional librarians provide library users with direction to library materials, advice on library collections and services, and expertise on multiple kinds of information from multiple sources.
 

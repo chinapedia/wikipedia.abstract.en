@@ -1,4 +1,4 @@
-Mars_Excursion_Module.jpg (MEM) proposed in a NASA study in 1963, a manned mission to Mars concept that failed to pan out.]] Fictional representations of Mars have been popular for over a century. Interest in Mars has been stimulated by the planet's dramatic red color, by early scientific speculations that its surface conditions might be capable of supporting life, and by the possibility that Mars could be colonized by humans in the future. Almost as popular as stories about Mars are stories about Martians engaging in activity (frequently invasions) away from their home planet.
+(MEM) proposed in a NASA study in 1963, a manned mission to Mars concept that failed to pan out.]] Fictional representations of Mars have been popular for over a century. Interest in Mars has been stimulated by the planet's dramatic red color, by early scientific speculations that its surface conditions might be capable of supporting life, and by the possibility that Mars could be colonized by humans in the future. Almost as popular as stories about Mars are stories about Martians engaging in activity (frequently invasions) away from their home planet.
 
 In the 20th century, actual spaceflights to the planet Mars, including seminal events such as the first man-made object to impact the surface of Mars in 1971, and then later the first landing of "the first mechanized device to successfully operate on Mars" in 1976 (in the Viking program by the United States), inspired a great deal of interest in Mars-related fiction. Exploration of the planet has continued in the 21st century on to the present day.
 
@@ -16,8 +16,6 @@ First ventures
 Several early modern writers, including Athanasius Kircher (1602–1680) and Emanuel Swedenborg (1688-1772), hypothesized contact with Mars. Early science fiction about Mars often involved the first voyages to the planet, sometimes as an invasion force, more often for the purposes of exploration.
 
 Early works to 1910
-
-Alvim-correa12.jpg
 
 -   _Across the Zodiac_ (1880) by Percy Greg. The narrator flies his craft, the "Astronaut," to visit diminutive beings on Mars.
 -   _Uranie_ (1889, translated as Urania in 1890) by Camille Flammarion. A young astronomer and his fiancée are killed in a ballooning accident, and are reincarnated in new bodies on Mars.
@@ -37,8 +35,6 @@ Alvim-correa12.jpg
 -   _Red Star_ (1908) by Alexander Bogdanov. The narrator is taken to Mars, which is imagined as a socialist utopia.
 
 1910s and 1920s
-
-Princess_of_Mars_large.jpg
 
 -   _Le Mystère des XV_ (1911) by Jean de La Hire. De la Hire's hero, the Nyctalope helps a group of fifteen Earth scientists establish a permanent settlement on Mars.
 -   _To Mars via the Moon_ (1911) by Mark Wicks. Telepathic Martians have developed advanced canal-building technology and live in an Utopian socialist society.[2]

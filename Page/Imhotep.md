@@ -1,4 +1,4 @@
-Imhotep-Louvre.JPG]]
+]]
 
 IMHOTEP (;[1] Egyptian: _ỉỉ-m-ḥtp_ _*jā-im-ḥātap_, in Unicode hieroglyphs: 𓇍𓅓𓊵:𓏏*𓊪, "the one who comes in peace"; fl. late 27th century BC) was an Egyptian chancellor to the pharaoh Djoser, probable architect of the Djoser's step pyramid, and high priest of the sun god Ra at Heliopolis. Very little is known of Imhotep as a historical figure, but in the 3000 years following his death, he was gradually glorified and deified.
 
@@ -17,7 +17,7 @@ Imhotep's historicity is confirmed by two contemporary inscriptions made during 
 
 Architecture and engineering
 
-Sakkara_01.jpg Imhotep was one of the chief officials of the Pharaoh Djoser. Egyptologists ascribe to him the design of the Pyramid of Djoser, a step pyramid at Saqqara in Egypt in 2630–2611 BC.[17] He may also have been responsible for the first known use of stone columns to support a building.[18] Despite these later attestations, the pharaonic Egyptians themselves never credited Imhotep as the designer of the stepped pyramid nor with the invention of stone architecture.[19]
+Imhotep was one of the chief officials of the Pharaoh Djoser. Egyptologists ascribe to him the design of the Pyramid of Djoser, a step pyramid at Saqqara in Egypt in 2630–2611 BC.[17] He may also have been responsible for the first known use of stone columns to support a building.[18] Despite these later attestations, the pharaonic Egyptians themselves never credited Imhotep as the designer of the stepped pyramid nor with the invention of stone architecture.[19]
 
 
 Deification

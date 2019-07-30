@@ -7,13 +7,9 @@ Roller hockey is played on both quad skates and inline skates, have different ru
 
 Quad hockey
 
-Argentin_player_during_2007_rink_hockey_world_championship.jpg
-
 Quad hockey is a variation of roller hockey. Roller hockey is the overarching name for a rollersport that has existed long before inline skates were "re-invented" in the 70s (They were actually invented before quads, in the 1760s). Roller hockey has been played on quad skates, in sixty countries worldwide and so has many names worldwide. Sometimes the sport is called QUAD HOCKEY, HÓQUEI EM PATINS (PT), ROLHOCKEY (NL), ROLLHOCKEY (DE), INTERNATIONAL STYLE BALL HOCKEY, RINK HOCKEY (FR), HOCKEY SU PISTA (IT), HOQUEI SOBRE PATINS (CA), HOCKEY SOBRE PATINES (ES), RULLESKØJTEHOCKEY (DA), RULLBANDY (S), RULLUISUHOKI (ET) AND HARDBALL HOCKEY (US), depending on which region of the world it is played. Roller hockey was a demonstration rollersport in the 1992 Summer Olympics in Barcelona.
 
 Inline hockey
-
-Inline_Hockey_at_Albuquerque_6.jpg
 
 Inline hockey is a variation of roller hockey very similar to ice hockey, from which it is derived.[4] It is referred to by many names worldwide, including BALL HOCKEY, INLINE HOCKEY, ROLLER HOCKEY, LONGSTICK HOCKEY, DECK HOCKEY, ROAD HOCKEY, STREET HOCKEY AND SKATER HOCKEY depending on which region of the world in which it is played.
 

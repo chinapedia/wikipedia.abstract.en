@@ -9,7 +9,7 @@ History
 
 Polish began to emerge as a distinct language around the 10th century, the process largely triggered by the establishment and development of the Polish state. Mieszko I, ruler of the Polans tribe from the Greater Poland region, united a few culturally and linguistically related tribes from the basins of the Vistula and Oder before eventually accepting baptism in 966. With Christianity, Poland also adopted the Latin alphabet, which made it possible to write down Polish, which until then had existed only as a spoken language.[8]
 
-Book_of_Henryków.PNG is the earliest document to include a sentence written entirely in what can be interpreted as Old Polish - _Day, ut ia pobrusa, a ti poziwai_ highlighted in red]]
+is the earliest document to include a sentence written entirely in what can be interpreted as Old Polish - _Day, ut ia pobrusa, a ti poziwai_ highlighted in red]]
 
 The precursor to modern Polish is the Old Polish language. Ultimately, Polish is thought to descend from the unattested Proto-Slavic language. Polish was a _lingua franca_ from 1500–1700 in Central and small portions of Eastern Europe, because of the political, cultural, scientific and military influence of the former Polish–Lithuanian Commonwealth.[9]
 
@@ -31,7 +31,7 @@ The geographical distribution of the Polish language was greatly affected by the
 
 Dialects
 
-Modlitwy_drukowane_po_polsku_w_r._1475.JPG by Kasper Elyan.]] Polish-alphabet.png The Polish language became far more homogeneous in the second half of the 20th century, in part due to the mass migration of several million Polish citizens from the eastern to the western part of the country after the Soviet annexation of the Kresy (Eastern Borderlands) in 1939, and the annexation of former German territory after World War II. This tendency toward a homogeneity also stems from the vertically integrated nature of the Polish People's Republic.[16]
+by Kasper Elyan.]] The Polish language became far more homogeneous in the second half of the 20th century, in part due to the mass migration of several million Polish citizens from the eastern to the western part of the country after the Soviet annexation of the Kresy (Eastern Borderlands) in 1939, and the annexation of former German territory after World War II. This tendency toward a homogeneity also stems from the vertically integrated nature of the Polish People's Republic.[16]
 
 The inhabitants of different regions of Poland speak Polish somewhat differently, although the differences between modern-day vernacular varieties and standardized Polish appear relatively slight. First-language speakers of Polish have no trouble understanding each other, and non-native speakers may have difficulty distinguishing regional variations.
 
@@ -58,8 +58,6 @@ Some additional characteristic but less widespread regional dialects include:
 
 Phonology
 
-Pl-Deflegmator-article.ogg
-
 Vowels and consonants
 
 Polish has six oral vowels (all monophthongs) and two nasal vowels. The oral vowels are (spelled _i_), (spelled _y_), (spelled _e_), (spelled _a_), (spelled _o_) and (spelled _u_ or _ó_). The nasal vowels are (spelled _ę_) and (spelled _ą_).
@@ -73,7 +71,7 @@ The Polish consonant system shows more complexity: its characteristic features i
 -   approximants (_l_), (_j_), (_ł_)
 -   trill (_r_)
 
-Polish_vowel_chart_(with_allophones).svg (in black) are in broad transcription, whereas positional allophones (in red and green) are in narrow transcription. Allophones with red dots appear in palatal contexts. The central vowel [ɜ] is an unstressed allophone of /ɛ, ɔ, a/ in certain contexts]]
+(in black) are in broad transcription, whereas positional allophones (in red and green) are in narrow transcription. Allophones with red dots appear in palatal contexts. The central vowel [ɜ] is an unstressed allophone of /ɛ, ɔ, a/ in certain contexts]]
 
 Neutralization occurs between voiced–voiceless consonant pairs in certain environments: at the end of words (where devoicing occurs), and in certain consonant clusters (where assimilation occurs). For details, see _Voicing and devoicing_ in the article on Polish phonology.
 
@@ -93,7 +91,7 @@ The predominant stress pattern in Polish is penultimate stress – in a word of 
 
 Each vowel represents one syllable, although the letter _i_ normally does not represent a vowel when it precedes another vowel (it represents , palatalization of the preceding consonant, or both depending on analysis). Also the letters _u_ and _i_ sometimes represent only semivowels when they follow another vowel, as in _autor_ ('author'), mostly in loanwords (so not in native _nauka_ 'science, the act of learning', for example, nor in nativized _Mateusz_ 'Matthew').
 
-Styl_urzedowy_-_Polish_sign.jpg]]
+]]
 
 Some loanwords, particularly from the classical languages, have the stress on the antepenultimate (third-from-last) syllable. For example, _fizyka_ () ('physics') is stressed on the first syllable. This may lead to a rare phenomenon of minimal pairs differing only in stress placement, for example _muzyka_ 'music' vs. _muzyka_ - genitive singular of _muzyk_ 'musician'. When additional syllables are added to such words through inflection or suffixation, the stress normally becomes regular. For example, _uniwersytet_ (, 'university') has irregular stress on the third (or antepenultimate) syllable, but the genitive _uniwersytetu_ () and derived adjective _uniwersytecki_ () have regular stress on the penultimate syllables. Over time, loanwords become nativized to have penultimate stress.
 
@@ -108,7 +106,7 @@ The Polish alphabet derives from the Latin script, but includes certain addition
 
 The diacritics used in the Polish alphabet are the _kreska_ (graphically similar to the acute accent) in the letters _ć, ń, ó, ś, ź_ and through the letter in _ł_; the _kropka_ (superior dot) in the letter _ż_, and the _ogonek_ ("little tail") in the letters _ą, ę_. The letters _q, v, x_ are often not considered part of the Polish alphabet; they are used only in foreign words and names.
 
-Polish orthography is largely phonemic—there is a consistent correspondence between letters (or digraphs and trigraphs) and phonemes (for exceptions see below). The letters of the alphabet and their normal phonemic values are listed in the following table. Wyjscia_wujek_1599.jpg in Polish, 1599 print. The letters á and é were subsequently abolished, but survive in Czech.]]
+Polish orthography is largely phonemic—there is a consistent correspondence between letters (or digraphs and trigraphs) and phonemes (for exceptions see below). The letters of the alphabet and their normal phonemic values are listed in the following table. in Polish, 1599 print. The letters á and é were subsequently abolished, but survive in Czech.]]
 
 +-------+-------+----------+-------+-------+----------+
 | Upper | Lower | Phonemic | Upper | Lower | Phonemic |
@@ -242,7 +240,7 @@ In 1518, the Polish king Sigismund I the Old married Bona Sforza, the niece of t
 
 In the 18th century, with the rising prominence of France in Europe, French supplanted Latin as an important source of words. Some French borrowings also date from the Napoleonic era, when the Poles were enthusiastic supporters of Napoleon. Examples include _ekran_ (from French "écran", screen), _abażur_ ("abat-jour", lamp shade), _rekin_ ("requin", shark), _meble_ ("meuble", furniture), _bagaż_ ("bagage", luggage), _walizka_ ("valise", suitcase), _fotel_ ("fauteuil", armchair), _plaża_ ("plage", beach) and _koszmar_ ("cauchemar", nightmare). Some place names have also been adapted from French, such as the Warsaw borough of Żoliborz ("joli bord" = beautiful riverside), as well as the town of Żyrardów (from the name Girard, with the Polish suffix -ów attached to refer to the founder of the town).[38]
 
-Pink_Birkin_bag.jpg in Polish is called a _torba_, a word directly derived from the Turkish language. Turkish loanwords are common as Poland bordered the Ottoman Empire for centuries]]
+in Polish is called a _torba_, a word directly derived from the Turkish language. Turkish loanwords are common as Poland bordered the Ottoman Empire for centuries]]
 
 Many words were borrowed from the German language from the sizable German population in Polish cities during medieval times. German words found in the Polish language are often connected with trade, the building industry, civic rights and city life. Some words were assimilated verbatim, for example _handel_ (trade) and _dach_ (roof); others are pronounced the same, but differ in writing _schnur_—_sznur_ (cord). As a result of being neighbours with Germany, Polish has many German expressions which have become literally translated (calques). The regional dialects of Upper Silesia and Masuria (Modern Polish East Prussia) have noticeably more German loanwords than other dialects.
 
@@ -259,7 +257,7 @@ Recent loanwords come primarily from the English language, mainly those that hav
 
 Loanwords from Polish
 
-Fishing_-_The_Noun_Project.svg languages which are near-identical due to the large Jewish minority that once inhabited Poland. An example includes a fishing rod, ווענטקע (ventke), borrowed directly from Polish _wędka_]] The Polish language has influenced others. Particular influences appear in other Slavic languages and in German — due to their proximity and shared borders.[45] Examples of loanwords include German _Grenze_ (border),[46] Dutch and Afrikaans _grens_ from Polish _granica_; German _Peitzker_ from Polish _piskorz_ (weatherfish); German _Zobel_, French _zibeline_, Swedish _sobel_, and English _sable_ from Polish _soból_; and _ogonek_ ("little tail") — the word describing a diacritic hook-sign added below some letters in various alphabets. "Szmata," a Polish, Slovak and Ruthenian word for "mop" or "rag" became part of Yiddish.
+languages which are near-identical due to the large Jewish minority that once inhabited Poland. An example includes a fishing rod, ווענטקע (ventke), borrowed directly from Polish _wędka_]] The Polish language has influenced others. Particular influences appear in other Slavic languages and in German — due to their proximity and shared borders.[45] Examples of loanwords include German _Grenze_ (border),[46] Dutch and Afrikaans _grens_ from Polish _granica_; German _Peitzker_ from Polish _piskorz_ (weatherfish); German _Zobel_, French _zibeline_, Swedish _sobel_, and English _sable_ from Polish _soból_; and _ogonek_ ("little tail") — the word describing a diacritic hook-sign added below some letters in various alphabets. "Szmata," a Polish, Slovak and Ruthenian word for "mop" or "rag" became part of Yiddish.
 
 There is a substantial number of Polish words which officially became part of Yiddish, once the main language of European Jews. These include basic items, objects or terms such as a bread bun (Polish _bułka_, Yiddish בולקע _bulke_), a fishing rod (_wędka_, ווענטקע _ventke_), an oak (_dąb_, דעמב _demb_), a meadow (_łąka_, לאָנקע _lonke_), a moustache (_wąsy_, וואָנצעס _vontses_) and a bladder (_pęcherz_, פּענכער _penkher_).[47]
 

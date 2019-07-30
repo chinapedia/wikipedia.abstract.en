@@ -20,7 +20,7 @@ Many debates center on whether journalists are "supposed" to be "objective" and 
 
 Forms
 
-There are several forms of journalism with diverse audiences. Thus, journalism is said to serve the role of a "fourth estate", acting as a watchdog on the workings of the government. A single publication (such as a newspaper) contains many forms of journalism, each of which may be presented in different formats. Each section of a newspaper, magazine, or website may cater to a different audience.[7] Photojournalists_photograph_President_Barack_Obama.jpg Suleiman_Kova_and_media,_2013_DSM_Building_Collapse.jpg and broadcast journalists interviewing a government official after a building collapse in Dar es Salaam, Tanzania. March 2013.]] Some forms include:
+There are several forms of journalism with diverse audiences. Thus, journalism is said to serve the role of a "fourth estate", acting as a watchdog on the workings of the government. A single publication (such as a newspaper) contains many forms of journalism, each of which may be presented in different formats. Each section of a newspaper, magazine, or website may cater to a different audience.[7] and broadcast journalists interviewing a government official after a building collapse in Dar es Salaam, Tanzania. March 2013.]] Some forms include:
 
 -   Access journalism – journalists who self-censor and voluntarily cease speaking about issues that might embarrass their hosts, guests, or powerful politicians or businesspersons.
 -   Advocacy journalism – writing to advocate particular viewpoints or influence the opinions of the audience.
@@ -101,7 +101,7 @@ The rampant discrimination and segregation against African-Americans led to the 
 
 Writing for experts or for ordinary citizens?
 
-Walter_Lippmann_1914.jpg in 1914]]
+in 1914]]
 
 In the 1920s in the United States, as newspapers dropped their blatant partisanship in search of new subscribers, political analyst Walter Lippmann and philosopher John Dewey debated the role of journalism in a democracy.[47] Their differing philosophies still characterize an ongoing debate about the role of journalism in society. Lippmann's views prevailed for decades, helping to bolster the Progressives' confidence in decision-making by experts, with the general public standing by. Lippmann argued that high-powered journalism was wasted on ordinary citizens, but was of genuine value to an elite class of administrators and experts.[48] Dewey, on the other hand, believed not only that the public was capable of understanding the issues created or responded to by the elite, but also that it was in the public forum that decisions should be made after discussion and debate. When issues were thoroughly vetted, then the best ideas would bubble to the surface. The danger of demagoguery and false news did not trouble Dewey. His faith in popular democracy has been implemented in various degrees, and is now known as "community journalism".[49] The 1920s debate has been endlessly repeated across the globe, as journalists wrestle with their roles.[50]
 
@@ -121,12 +121,12 @@ Notably, in the American media landscape, newsrooms have reduced their staff and
 
 The compactness in coverage has been linked to broad audience attrition.[55] According to the Pew Research Center, the circulation for U.S. newspapers has fallen sharply in the 21st century.[56] The digital era also introduced journalism that ordinary citizens play a greater role in the process, with the rise of citizen journalism being possible through the Internet. Using video camera-equipped smartphones, active citizens are now enabled to record footage of news events and upload them onto channels like YouTube (which is often discovered and used by mainstream news media outlets). News from a variety of online sources, like blogs and other social media, results in a wider choice of official and unofficial sources, rather than only traditional media organizations.
 
-Cosplayers_at_Comicdom_2012_in_Athens,_Greece_grant_interviews_to_the_MTV_television_channel_21.JPGer]]
+er]]
 
 
 Professional and ethical standards
 
-News_photographers_and_reporters_wait_outside_Jacqueline_Kennedy_Onassis'_apartment.jpg, in May 1994]] While various existing codes have some differences, most share common elements including the principles of – truthfulness, accuracy, objectivity, impartiality, fairness and public accountability – as these apply to the acquisition of newsworthy information and its subsequent dissemination to the public.[57][58][59][60][61]
+, in May 1994]] While various existing codes have some differences, most share common elements including the principles of – truthfulness, accuracy, objectivity, impartiality, fairness and public accountability – as these apply to the acquisition of newsworthy information and its subsequent dissemination to the public.[57][58][59][60][61]
 
 Bill Kovach and Tom Rosenstiel propose several guidelines for journalists in their book _The Elements of Journalism_.[62] Their view is that journalism's first loyalty is to the citizenry, and that journalists are thus obliged to tell the truth and must serve as an independent monitor of powerful individuals and institutions within society. In this view, the essence of journalism is to provide citizens with reliable information through the discipline of verification.
 
@@ -155,7 +155,7 @@ Journalism does not have a universal code of conduct; individuals are not legall
 
 Legal status
 
-Msc_2008-Saturday,_09.00_-_11.00_Uhr-Moerk001_Sa.jpg]] 10.1177_0022343316680859-fig1.gif Governments have widely varying policies and practices towards journalists, which control what they can research and write, and what press organizations can publish. Some governments guarantee the freedom of the press; while other nations severely restrict what journalists can research or publish.
+]] Governments have widely varying policies and practices towards journalists, which control what they can research and write, and what press organizations can publish. Some governments guarantee the freedom of the press; while other nations severely restrict what journalists can research or publish.
 
 Journalists in many nations have some privileges that members of the general public do not, including better access to public events, crime scenes and press conferences, and to extended interviews with public officials, celebrities and others in the public eye.
 

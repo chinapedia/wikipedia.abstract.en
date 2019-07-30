@@ -5,7 +5,7 @@ Its outlet is the Abitibi River, a tributary of the Moose River, which empties i
 
 European Exploration
 
-HBC_Post_Abitibi_Lake_1910.jpg post on Lake Abitibi, circa 1910]]
+post on Lake Abitibi, circa 1910]]
 
 Application of _Abitibi_ to describe the lake and the people living in the area around it was first noted in The Jesuit Relations in 1640.[4] One of the first Europeans in this area was Pierre de Troyes, who built a post on Lake Abitibi when he was on his way to capture English HBC posts on James Bay in 1686.[5] The Abitibi Post lay halfway between trading posts on James Bay and those on the Ottawa River. It was formerly used by the Hudson's Bay Company (HBC) as part of a canoe route to the fur lands of the north. A HBC trading post was located on the east shore of the lake in Ontario.[6] The construction of the Grand Trunk Pacific Railway (now Canadian National Railway) through this district made it of some importance at the start of the 20th century.
 

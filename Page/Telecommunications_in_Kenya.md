@@ -26,8 +26,6 @@ The state-run Kenya Broadcasting Corporation (KBC) is funded from advertising re
 
 Telephones
 
-SEACOM_Network_Map.jpg
-
 CALLING CODE: +254[6]
 
 INTERNATIONAL CALL PREFIX: 000[7]

@@ -12,7 +12,7 @@ Garrett Blythe created DosLynx in April 1994 and later joined the Lynx effort as
 
 Features
 
-Lynx_vs._Firefox_rendering.png rendering the same page]] Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number. Current versions support SSL and many HTML features. Tables are formatted using spaces, while frames are identified by name and can be explored as if they were separate pages. Lynx cannot inherently display various types of non-text content on the web, such as images and video, but it can launch external programs to handle it, such as an image viewer or a video player.
+rendering the same page]] Browsing in Lynx consists of highlighting the chosen link using cursor keys, or having all links on a page numbered and entering the chosen link's number. Current versions support SSL and many HTML features. Tables are formatted using spaces, while frames are identified by name and can be explored as if they were separate pages. Lynx cannot inherently display various types of non-text content on the web, such as images and video, but it can launch external programs to handle it, such as an image viewer or a video player.
 
 Unlike most web browsers, Lynx does not support JavaScript or Adobe Flash, which some websites require to work correctly.
 
@@ -45,7 +45,7 @@ Lynx is also used to test web sites' performance. As one can run the browser fro
 
 Supported platforms
 
-Lynx2.gif Lynx was originally designed for Unix-like operating systems, though it was ported to VMS soon after its public release and to other systems, including DOS, Microsoft Windows, Classic Mac OS and OS/2. It was included in the default OpenBSD installation from OpenBSD 2.3 (May 1998) to 5.5 (May 2014), being in the main tree prior to July 2014, subsequently being made available through the ports tree, and can also be found in the repositories of most Linux distributions, as well as in the Homebrew[1] and Fink repositories for macOS. Ports to BeOS, MINIX, QNX, AmigaOS and OS/2 are also available.
+Lynx was originally designed for Unix-like operating systems, though it was ported to VMS soon after its public release and to other systems, including DOS, Microsoft Windows, Classic Mac OS and OS/2. It was included in the default OpenBSD installation from OpenBSD 2.3 (May 1998) to 5.5 (May 2014), being in the main tree prior to July 2014, subsequently being made available through the ports tree, and can also be found in the repositories of most Linux distributions, as well as in the Homebrew[1] and Fink repositories for macOS. Ports to BeOS, MINIX, QNX, AmigaOS and OS/2 are also available.
 
 The sources can be built on many platforms, e.g., mention is made of Google's Android operating system.[2]
 

@@ -1,6 +1,6 @@
-pub.williams.arp.750pix.jpg country pub, The Williams Arms, near Braunton, Devon, England]] PubCamdenTown.jpg, Camden Town, London]]
+country pub, The Williams Arms, near Braunton, Devon, England]] , Camden Town, London]]
 
-Henry_Singleton_The_Ale-House_Door_c._1790.jpg)]]
+)]]
 
 A PUB, or PUBLIC HOUSE, is an establishment licensed to sell alcoholic drinks, which traditionally include beer (such as ale) and cider. It is a social drinking establishment and a prominent part of British,[1] Irish,[2] Breton, New Zealand, Canadian, South African and Australian cultures.[3] In many places, especially in villages, a pub is the focal point of the community. In his 17th-century diary Samuel Pepys described the pub as "the heart of England".[4]
 
@@ -9,13 +9,13 @@ Pubs can be traced back to Roman taverns,[5] through the Anglo-Saxon alehouse to
 
 Origins and history
 
-Joseph_Rowntree,_Public_Houses_in_Central_London,_1899,_Cornell,_CUL_PJM_1134_01.jpg The inhabitants of the British Isles have been drinking ale since the Bronze Age, but it was with the arrival of the Roman Empire on its shores in the 1st century, and the construction of the Roman road networks that the first inns, called tabernae,[8] in which travellers could obtain refreshment, began to appear. After the departure of Roman authority in the 5th century and the fall of the Romano-British kingdoms, the Anglo-Saxons established alehouses that may have grown out of domestic dwellings, first attested in the 10th century. These alehouses quickly evolved into meeting houses for the folk to socially congregate, gossip and arrange mutual help within their communities. The Wantage law code of Æthelred the Unready proscribes fines for breaching the peace at meetings held in alehouses.[9] Herein lies the origin of the modern public house, or "pub" as it is colloquially called in England.
+The inhabitants of the British Isles have been drinking ale since the Bronze Age, but it was with the arrival of the Roman Empire on its shores in the 1st century, and the construction of the Roman road networks that the first inns, called tabernae,[8] in which travellers could obtain refreshment, began to appear. After the departure of Roman authority in the 5th century and the fall of the Romano-British kingdoms, the Anglo-Saxons established alehouses that may have grown out of domestic dwellings, first attested in the 10th century. These alehouses quickly evolved into meeting houses for the folk to socially congregate, gossip and arrange mutual help within their communities. The Wantage law code of Æthelred the Unready proscribes fines for breaching the peace at meetings held in alehouses.[9] Herein lies the origin of the modern public house, or "pub" as it is colloquially called in England.
 
-Ye_Olde_Fighting_Cocks_(2).JPG in St Albans, Hertfordshire, which holds the Guinness World Record for the oldest pub in England]] A traveller in the early Middle Ages could obtain overnight accommodation in monasteries, but later a demand for hostelries grew with the popularity of pilgrimages and travel. The Hostellers of London were granted guild status in 1446 and in 1514 the guild became the Worshipful Company of Innholders.[10] A survey in 1577 of drinking establishment in England and Wales for taxation purposes[11] recorded 14,202 alehouses, 1,631 inns, and 329 taverns, representing one pub for every 187 people.[12]
+in St Albans, Hertfordshire, which holds the Guinness World Record for the oldest pub in England]] A traveller in the early Middle Ages could obtain overnight accommodation in monasteries, but later a demand for hostelries grew with the popularity of pilgrimages and travel. The Hostellers of London were granted guild status in 1446 and in 1514 the guild became the Worshipful Company of Innholders.[10] A survey in 1577 of drinking establishment in England and Wales for taxation purposes[11] recorded 14,202 alehouses, 1,631 inns, and 329 taverns, representing one pub for every 187 people.[12]
 
 Inns
 
-Jan_Steen_Peasants_before_an_Inn.jpg c. 1653]] Inns are buildings where travellers can seek lodging and, usually, food and drink. They are typically located in the country or along a highway. In Europe, they possibly first sprang up when the Romans built a system of roads two millennia ago. Some inns in Europe are several centuries old. In addition to providing for the needs of travellers, inns traditionally acted as community gathering places.
+c. 1653]] Inns are buildings where travellers can seek lodging and, usually, food and drink. They are typically located in the country or along a highway. In Europe, they possibly first sprang up when the Romans built a system of roads two millennia ago. Some inns in Europe are several centuries old. In addition to providing for the needs of travellers, inns traditionally acted as community gathering places.
 
 In Europe, it is the provision of accommodation,[13] if anything, that now distinguishes inns from taverns, alehouses and pubs. The latter tend to provide alcohol (and, in the UK, soft drinks and often food), but less commonly accommodation. Inns tend to be older and grander establishments: historically they provided not only food and lodging, but also stabling and fodder for the traveller's horse(s) and on some roads fresh horses for the mail coach. Famous London inns include The George, Southwark and The Tabard. There is, however, no longer a formal distinction between an inn and other kinds of establishment. Many pubs use "Inn" in their name, either because they are long established former coaching inns, or to summon up a particular kind of image, or in many cases simply as a pun on the word "in", as in "The Welcome Inn", the name of many pubs in Scotland.
 
@@ -31,7 +31,7 @@ The drunkenness and lawlessness created by gin was seen to lead to the ruination
 
 By the early 19th century, encouraged by lower duties on gin, the gin houses or "Gin Palaces" had spread from London to most cities and towns in Britain, with most of the new establishments illegal and unlicensed. These bawdy, loud and unruly drinking dens so often described by Charles Dickens in his _Sketches by Boz_ (published 1835–1836) increasingly came to be held as unbridled cesspits of immorality or crime and the source of much ill-health and alcoholism among the working classes.[16]
 
-Under a banner of "reducing public drunkenness" the Beer Act of 1830 introduced "beer houses", a new lower tier of premises permitted to sell alcohol. At the time, beer was viewed as harmless, nutritious and even healthy. Young children were often given what was described as small beer, brewed to have a low alcohol content, as the local water was often unsafe. Even the evangelical church and temperance movements of the day viewed the drinking of beer very much as a secondary evil and a normal accompaniment to a meal. The freely available beer was thus intended to wean drinkers off the evils of gin, or so the thinking went.[17] Farriers_Arms_pub_-_geograph.org.uk_-_1466879.jpg, Greater London.]] Under the 1830 Act any householder who paid rates could apply, with a one-off payment of two guineas (roughly equal in value to £ today), to sell beer or cider in his home (usually the front parlour) and even to brew his own on his premises. The permission did not extend to the sale of spirits and fortified wines, and any beer house discovered selling those items was closed down and the owner heavily fined. Beer houses were not permitted to open on Sundays. The beer was usually served in jugs or dispensed directly from tapped wooden barrels on a table in the corner of the room. Often profits were so high the owners were able to buy the house next door to live in, turning every room in their former home into bars and lounges for customers.
+Under a banner of "reducing public drunkenness" the Beer Act of 1830 introduced "beer houses", a new lower tier of premises permitted to sell alcohol. At the time, beer was viewed as harmless, nutritious and even healthy. Young children were often given what was described as small beer, brewed to have a low alcohol content, as the local water was often unsafe. Even the evangelical church and temperance movements of the day viewed the drinking of beer very much as a secondary evil and a normal accompaniment to a meal. The freely available beer was thus intended to wean drinkers off the evils of gin, or so the thinking went.[17] , Greater London.]] Under the 1830 Act any householder who paid rates could apply, with a one-off payment of two guineas (roughly equal in value to £ today), to sell beer or cider in his home (usually the front parlour) and even to brew his own on his premises. The permission did not extend to the sale of spirits and fortified wines, and any beer house discovered selling those items was closed down and the owner heavily fined. Beer houses were not permitted to open on Sundays. The beer was usually served in jugs or dispensed directly from tapped wooden barrels on a table in the corner of the room. Often profits were so high the owners were able to buy the house next door to live in, turning every room in their former home into bars and lounges for customers.
 
 In the first year, 400 beer houses opened and within eight years there were 46,000[18] across the country, far outnumbering the combined total of long-established taverns, pubs, inns and hotels. Because it was so easy to obtain permission and the profits could be huge compared to the low cost of gaining permission, the number of beer houses continued to rise; in some towns nearly every other house in a street might be a beer house. Finally in 1869 the growth had to be checked by magisterial control. New licensing laws were introduced making harder to get a licence, and the regime which operates today was established.
 
@@ -41,8 +41,6 @@ The beer houses tended to avoid the traditional pub names like _The Crown_, _The
 
 
 Licensing laws
-
-Pubbsm.jpg
 
 There was regulation of public drinking spaces in England from at least the 15th century. In 1496, under, Henry VII, an act was passed, "against vagabonds and beggers" (11 Hen. VII c2), that included a clause empowering two justices of the peace, "to rejecte and put awey comen ale-selling in tounes and places where they shall think convenyent, and to take suertie of the keepers of ale-houses in their gode behavyng by the discrecion of the seid justices, and in the same to be avysed and aggreed at the tyme of their sessions."[20] More legislation was introduced in the following centuries, together with licence fees[21][22][23], which became an income stream for the crown. Tavern owners were required to possess a licence to sell ale, and a separate licence for distilled spirits.
 
@@ -80,7 +78,7 @@ Architecture
 
 Saloon or lounge
 
-Eagle_City_Road_London_2005.jpg, Islington, London, September 2005]] The_Clock,_Birmingham_-_geograph.org.uk_-_1468943.jpg pub, now demolished to make way for the expansion of Birmingham Airport. Many were built between the world wars as part of the "improved" pub movement and as "roadhouse" inns—with large car parks to attract passing trade.[41]]] By the end of the 18th century a new room in the pub was established: the saloon. Beer establishments had always provided entertainment of some sort—singing, gaming or sport. Balls Pond Road in Islington was named after an establishment run by a Mr. Ball that had a duck pond at the rear, where drinkers could, for a fee, go out and take a potshot at the ducks.[42] More common, however, was a card room or a billiard room. The saloon was a room where, for an admission fee or a higher price of drinks, singing, dancing, drama, or comedy was performed and drinks would be served at the table. From this came the popular music hall form of entertainment—a show consisting of a variety of acts. A most famous London saloon was the Grecian Saloon in The Eagle, City Road, which is still famous because of a nursery rhyme: "Up and down the City Road / In and out The Eagle / That's the way the money goes / Pop goes the weasel."[43] This meant that the customer had spent all his money at The Eagle, and needed to pawn his "weasel" to get some more.[44] The meaning of the "weasel" is unclear but the two most likely definitions are: a flat iron used for finishing clothing; or rhyming slang for a coat (_weasel and stoat_).[45]
+, Islington, London, September 2005]] pub, now demolished to make way for the expansion of Birmingham Airport. Many were built between the world wars as part of the "improved" pub movement and as "roadhouse" inns—with large car parks to attract passing trade.[41]]] By the end of the 18th century a new room in the pub was established: the saloon. Beer establishments had always provided entertainment of some sort—singing, gaming or sport. Balls Pond Road in Islington was named after an establishment run by a Mr. Ball that had a duck pond at the rear, where drinkers could, for a fee, go out and take a potshot at the ducks.[42] More common, however, was a card room or a billiard room. The saloon was a room where, for an admission fee or a higher price of drinks, singing, dancing, drama, or comedy was performed and drinks would be served at the table. From this came the popular music hall form of entertainment—a show consisting of a variety of acts. A most famous London saloon was the Grecian Saloon in The Eagle, City Road, which is still famous because of a nursery rhyme: "Up and down the City Road / In and out The Eagle / That's the way the money goes / Pop goes the weasel."[43] This meant that the customer had spent all his money at The Eagle, and needed to pawn his "weasel" to get some more.[44] The meaning of the "weasel" is unclear but the two most likely definitions are: a flat iron used for finishing clothing; or rhyming slang for a coat (_weasel and stoat_).[45]
 
 A few pubs have stage performances such as serious drama, stand-up comedy, musical bands, cabaret or striptease; however, juke boxes, karaoke and other forms of pre-recorded music have otherwise replaced the musical tradition of a piano or guitar and singing.
 
@@ -152,15 +150,13 @@ In 2011 _The Good Food Guide_ suggested that the term has become irrelevant.[61]
 
 Country pub
 
-The_Crown_Inn_Chiddingfold_DSC_2319.jpg
-
 A COUNTRY PUB, sometimes referred to as a tavern, is a rural public house. Traditionally, many functioned as a social centre for villages and rural communities, providing opportunities for country folk to meet and exchange news. Others, particularly those located on main thoroughfares, existed as coaching inns, providing accommodation or refreshment for travellers before the advent of motorised transport.[62]
 
 In recent years many country pubs have either closed, or been converted to gastropubs, rather than continuing in their traditional role as a venue for members of the local community to meet and drink convivially.[63]
 
 Roadhouse
 
-The_Dutch_House_-_geograph.org.uk_-_20457.jpg on the busy A20 road in Eltham, Greater London.]]
+on the busy A20 road in Eltham, Greater London.]]
 
 The term ROADHOUSE was originally applied to a coaching inn, but with the advent of popular travel by motor car in the 1920s and 1930s in the United Kingdom, a new type of roadhouse emerged, often located on the newly constructed arterial roads and bypasses. They were large establishments offering meals and refreshment and accommodation to motorists and parties travelling by charabanc. The largest roadhouses boasted facilities such as tennis courts and swimming pools. Their popularity ended with the outbreak of the Second World War when recreational road travel became impossible, and the advent of post-war drink driving legislation prevented their full recovery.[64] Many of these establishments are now operated as pub restaurants or fast food outlets.
 
@@ -175,7 +171,7 @@ A MICROPUB is a small community pub with limited opening hours and, commonly, a 
 
 Signs
 
-thegeorgesouthwarksign.jpg, depicting St George slaying a dragon]]
+, depicting St George slaying a dragon]]
 
 In 1393, King Richard II of England compelled landlords to erect signs outside their premises. The legislation stated "Whosoever shall brew ale in the town with intention of selling it must hang out a sign, otherwise he shall forfeit his ale."[67] This law was to make alehouses easily visible to passing inspectors, borough ale tasters, who would decide the quality of the ale they provided. William Shakespeare's father, John Shakespeare, was one such inspector.
 
@@ -201,7 +197,7 @@ Many names for pubs that appear nonsensical may have come from corruptions of ol
 
 Entertainment
 
-Indoor_Quoits.jpg, Gloucestershire.]] Traditional games are played in pubs, ranging from the well-known darts,[73] skittles,[74] dominoes,[75] cards and bar billiards,[76] to the more obscure Aunt Sally,[77] Nine Men's Morris[78] and ringing the bull.[79] In the UK betting is legally limited to certain games such as cribbage or dominoes, played for small stakes. In recent decades the game of pool[80] (both the British and American versions) has increased in popularity as well as other table based games such as snooker[81] or table football becoming common.
+, Gloucestershire.]] Traditional games are played in pubs, ranging from the well-known darts,[73] skittles,[74] dominoes,[75] cards and bar billiards,[76] to the more obscure Aunt Sally,[77] Nine Men's Morris[78] and ringing the bull.[79] In the UK betting is legally limited to certain games such as cribbage or dominoes, played for small stakes. In recent decades the game of pool[80] (both the British and American versions) has increased in popularity as well as other table based games such as snooker[81] or table football becoming common.
 
 Increasingly, more modern games such as video games and slot machines are provided. Pubs hold special events, from tournaments of the aforementioned games to karaoke nights to pub quizzes. Some play pop music and hip-hop (dance bar), or show football and rugby union on big screen televisions (sports bar). Shove ha'penny[82] and Bat and trap[83] were also popular in pubs south of London.
 
@@ -212,7 +208,7 @@ Pubs may be venues for pub songs and live music. During the 1970s pubs provided 
 
 Food
 
-Pub_grub.jpg, along with a pint of beer]]
+, along with a pint of beer]]
 
 Some pubs have a long tradition of serving food, dating back to their historic usage as inns and hotels where travellers would stay.
 
@@ -234,7 +230,7 @@ CAMRA maintains a "National Inventory" of historical notability and of architect
 
 Records
 
-Sun_Inn,_Leintwardine_(Geograph_383027_by_Peter_Evans).jpg The_Crooked_House,_Dudley_-_geograph.org.uk_-_96790.jpg', Himley, is known for the extreme lean of the building, caused by subsidence produced by mining]] Ye_Olde_Man_&_Scythe,_Bolton_-_geograph.org.uk_-_498745.jpg, Bolton]]
+', Himley, is known for the extreme lean of the building, caused by subsidence produced by mining]] , Bolton]]
 
 Highest and remotest
 
@@ -280,7 +276,7 @@ Statistics
 
 Decline
 
-"The_First_and_Last"_Pub,_John_Street,_Omagh_-_geograph.org.uk_-_637567.jpg, in County Tyrone, Northern Ireland.]] The number of pubs in the UK has declined year on year, at least since 1982.[106] Various reasons are put forward for this, such as the failure of some establishments to keep up with customer requirements.[107] Others claim the smoking ban of 2007, intense competition from gastro-pubs, the availability of cheap alcohol in supermarkets or the general economic climate are either to blame, or are factors in the decline.[108] Changes in demographics may be an additional factor.[109]
+, in County Tyrone, Northern Ireland.]] The number of pubs in the UK has declined year on year, at least since 1982.[106] Various reasons are put forward for this, such as the failure of some establishments to keep up with customer requirements.[107] Others claim the smoking ban of 2007, intense competition from gastro-pubs, the availability of cheap alcohol in supermarkets or the general economic climate are either to blame, or are factors in the decline.[108] Changes in demographics may be an additional factor.[109]
 
 In 2015 the rate of pub closures came under the scrutiny of Parliament in the UK, with a promise of legislation to improve relations between owners and tenants.[110] The Lost Pubs Project listed 31,301 closed English pubs on 19 July 2016, with photographs of over 16,000.[111]
 
@@ -289,13 +285,13 @@ In the fifteen years to 2017 a quarter of London's pubs had closed. The closures
 
 Cultural associations
 
-Inns and taverns feature throughout English literature and poetry, from The Tabard Inn in Chaucer's _Canterbury Tales_ onwards.[113] Jamaica_Inn_exterior.jpg in Cornwall inspired a novel and a film.]] The highwayman Dick Turpin used the Swan Inn at Woughton-on-the-Green in Buckinghamshire as his base.[114] Jamaica Inn near Bolventor in Cornwall gave its name to a 1936 novel by Daphne du Maurier and a 1939 film directed by Alfred Hitchcock.[115] In the 1920s John Fothergill (1876–1957) was the innkeeper of the Spread Eagle in Thame, Berkshire, and published his autobiography: _An Innkeeper's Diary_ (London: Chatto & Windus, 1931).[116] During his idiosyncratic occupancy many famous people came to stay, such as H. G. Wells. United States president George W. Bush fulfilled his lifetime ambition of visiting a 'genuine British pub' during his November 2003 state visit to the UK when he had lunch and a pint of non-alcoholic lager (Bush being a teetotaler) with British Prime Minister Tony Blair at the Dun Cow pub in Sedgefield, County Durham in Blair's home constituency.[117] There were approximately 53,500 public houses in 2009 in the United Kingdom.[118] This number has been declining every year, so that nearly half of the smaller villages no longer have a local pub.[119]
+Inns and taverns feature throughout English literature and poetry, from The Tabard Inn in Chaucer's _Canterbury Tales_ onwards.[113] in Cornwall inspired a novel and a film.]] The highwayman Dick Turpin used the Swan Inn at Woughton-on-the-Green in Buckinghamshire as his base.[114] Jamaica Inn near Bolventor in Cornwall gave its name to a 1936 novel by Daphne du Maurier and a 1939 film directed by Alfred Hitchcock.[115] In the 1920s John Fothergill (1876–1957) was the innkeeper of the Spread Eagle in Thame, Berkshire, and published his autobiography: _An Innkeeper's Diary_ (London: Chatto & Windus, 1931).[116] During his idiosyncratic occupancy many famous people came to stay, such as H. G. Wells. United States president George W. Bush fulfilled his lifetime ambition of visiting a 'genuine British pub' during his November 2003 state visit to the UK when he had lunch and a pint of non-alcoholic lager (Bush being a teetotaler) with British Prime Minister Tony Blair at the Dun Cow pub in Sedgefield, County Durham in Blair's home constituency.[117] There were approximately 53,500 public houses in 2009 in the United Kingdom.[118] This number has been declining every year, so that nearly half of the smaller villages no longer have a local pub.[119]
 
 London
 
 Many of London's pubs are known to have been used by famous people, but in some cases, such as the association between Samuel Johnson and Ye Olde Cheshire Cheese, this is speculative, based on little more than the fact that the person is known to have lived nearby. However, Charles Dickens is known to have visited the Cheshire Cheese, the Prospect of Whitby, Ye Olde Cock Tavern and many others. Samuel Pepys is also associated with the Prospect of Whitby and the Cock Tavern.
 
-The Fitzroy Tavern[120] is a pub situated at 16 Charlotte Street in the Fitzrovia district, to which it gives its name. It became famous (or according to others, infamous) during a period spanning the 1920s to the mid-1950s as a meeting place for many of London's artists, intellectuals and bohemians such as Dylan Thomas, Augustus John, and George Orwell. Several establishments in Soho, London, have associations with well-known, post-war literary and artistic figures, including the Pillars of Hercules, The Colony Room and the Coach and Horses. The Canonbury Tavern, Canonbury, was the prototype for Orwell's ideal English pub, _The Moon Under Water_. The_Red_Lion,_Whitehall,_London_SW1_-_geograph.org.uk_-_1419086.jpg is close to the Houses of Parliament and is frequented by Members of Parliament and political journalists.]] The Red Lion in Whitehall is close to the Palace of Westminster and is consequently used by political journalists and Members of Parliament. The pub is equipped with a Division bell that summons MPs back to the chamber when they are required to take part in a vote.[121] The Punch Bowl, Mayfair was at one time jointly owned by Madonna and Guy Ritchie.[122] The Coleherne public house in Earls Court was a well-known gay pub from the 1950s. It attracted many well-known patrons, such as Freddie Mercury, Kenny Everett and Rudolph Nureyev. It was used by the serial-killer Colin Ireland to pick up victims.
+The Fitzroy Tavern[120] is a pub situated at 16 Charlotte Street in the Fitzrovia district, to which it gives its name. It became famous (or according to others, infamous) during a period spanning the 1920s to the mid-1950s as a meeting place for many of London's artists, intellectuals and bohemians such as Dylan Thomas, Augustus John, and George Orwell. Several establishments in Soho, London, have associations with well-known, post-war literary and artistic figures, including the Pillars of Hercules, The Colony Room and the Coach and Horses. The Canonbury Tavern, Canonbury, was the prototype for Orwell's ideal English pub, _The Moon Under Water_. is close to the Houses of Parliament and is frequented by Members of Parliament and political journalists.]] The Red Lion in Whitehall is close to the Palace of Westminster and is consequently used by political journalists and Members of Parliament. The pub is equipped with a Division bell that summons MPs back to the chamber when they are required to take part in a vote.[121] The Punch Bowl, Mayfair was at one time jointly owned by Madonna and Guy Ritchie.[122] The Coleherne public house in Earls Court was a well-known gay pub from the 1950s. It attracted many well-known patrons, such as Freddie Mercury, Kenny Everett and Rudolph Nureyev. It was used by the serial-killer Colin Ireland to pick up victims.
 
 Jack Straw's Castle was a pub named after Jack Straw, one of the three leaders of Peasants' Revolt, the pub was active since 14th century until its destruction by The Blitz during second world war.
 
@@ -309,7 +305,7 @@ The Eagle and Child and the Lamb and Flag, Oxford, were regular meeting places o
 
 Fictional pubs
 
-The_Queen_Vic.jpg'', London]]
+'', London]]
 
 Soap operas
 
@@ -317,8 +313,6 @@ The major soap operas on British television each feature a pub, and these pubs h
 
 
 Outside Great Britain
-
-THE_BISHOPS_ARMS_PUB_MALMO_SWEDEN_SEP_2013_(9842397433).jpg
 
 Although "British" pubs found outside of Britain and its former colonies are often themed bars owing little to the original British pub, a number of "true" pubs may be found around the world.
 

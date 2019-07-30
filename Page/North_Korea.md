@@ -28,7 +28,7 @@ Japan tried to suppress Korean traditions and culture and ran the economy primar
 
 Division of Korea (1945–1950)
 
-Jeju_Massacre.jpg]]
+]]
 
 At the end of World War II in 1945, the Korean Peninsula was divided into two zones along the 38th parallel, with the northern half of the peninsula occupied by the Soviet Union and the southern half by the United States. The drawing of the division was assigned to two American officers, diplomat Dean Rusk and Army officer Charles Bonesteel, who chose the 38th parallel because it divided the country approximately in half but would place the capital Seoul under U.S. control (no experts on Korea were consulted).[47][48] Nevertheless, the division was immediately accepted by the Soviet Union. The agreement was incorporated into the U.S.'s General Order No. 1 for the surrender of Japan.[49] Initial hopes for a unified, independent Korea had evaporated as the politics of the Cold War resulted in the establishment of two separate states with diametrically opposed political, economic, and social systems.
 
@@ -38,7 +38,7 @@ Soviet forces withdrew from the North in 1948, and most American forces withdrew
 
 Korean War (1950–1953)
 
-NKmuseum.jpg. Alleged American war atrocities against the Korean people are the main theme of the museum.]]
+. Alleged American war atrocities against the Korean people are the main theme of the museum.]]
 
 The military of North Korea invaded the South on 25 June 1950, and swiftly overran most of the country. A United Nations force, led by the United States, intervened to defend the South, and rapidly advanced into North Korea. As they neared the border with China, Chinese forces intervened on behalf of North Korea, shifting the balance of the war again. Fighting ended on 27 July 1953, with an armistice that approximately restored the original boundaries between North and South Korea. More than one million civilians and soldiers were killed in the war. As a result of the war, almost every substantial building in North Korea was destroyed.[60][61]
 
@@ -48,17 +48,15 @@ A heavily guarded demilitarized zone (DMZ) still divides the peninsula, and an a
 
 Post-war developments
 
-Korean_People's_Army_soldier_pointing_to_the_DMZ.jpg soldier pointing to the Korean Demilitarized Zone (DMZ)]]
+soldier pointing to the Korean Demilitarized Zone (DMZ)]]
 
-The relative peace between the South and the North following the armistice was interrupted by border skirmishes, celebrity abductions, and assassination attempts. The North failed in several assassination attempts on South Korean leaders, such as in 1968, 1974 and the Rangoon bombing in 1983; tunnels were found under the DMZ and tensions flared over the axe murder incident at Panmunjom in 1976.[65] For almost two decades after the war, the two states did not seek to negotiate with one another. In 1971, secret, high-level contacts began to be conducted culminating in the 1972 July 4th North–South Joint Statement that established principles of working toward peaceful reunification. The talks ultimately failed because in 1973, South Korea declared its preference that the two Koreas should seek separate memberships in international organizations.[66] 庆祝朝鲜“八一五”解放十周年大会.jpg, Li Jishen, Kim Tu-bong, Zhu De, Kim Il-sung, Averky Aristov, Pak Chŏng Ae and Choe Yong-gon in 1955.]] During the 1956 August Faction Incident, Kim Il-sung successfully resisted efforts by the Soviet Union and China to depose him in favor of Soviet Koreans or the pro-Chinese Yan'an faction.[67][68] The last Chinese troops withdrew from the country in October 1958, which is the consensus as the latest date when North Korea became effectively independent. Some scholars believe that the 1956 August incident demonstrated independence.[69][70] North Korea remained closely aligned with China and the Soviet Union, and the Sino-Soviet split allowed Kim to play the powers off each other.[71] North Korea sought to become a leader of the Non-Aligned Movement, and emphasized the ideology of _Juche_ to distinguish it from both the Soviet Union and China.[72]
+The relative peace between the South and the North following the armistice was interrupted by border skirmishes, celebrity abductions, and assassination attempts. The North failed in several assassination attempts on South Korean leaders, such as in 1968, 1974 and the Rangoon bombing in 1983; tunnels were found under the DMZ and tensions flared over the axe murder incident at Panmunjom in 1976.[65] For almost two decades after the war, the two states did not seek to negotiate with one another. In 1971, secret, high-level contacts began to be conducted culminating in the 1972 July 4th North–South Joint Statement that established principles of working toward peaceful reunification. The talks ultimately failed because in 1973, South Korea declared its preference that the two Koreas should seek separate memberships in international organizations.[66] , Li Jishen, Kim Tu-bong, Zhu De, Kim Il-sung, Averky Aristov, Pak Chŏng Ae and Choe Yong-gon in 1955.]] During the 1956 August Faction Incident, Kim Il-sung successfully resisted efforts by the Soviet Union and China to depose him in favor of Soviet Koreans or the pro-Chinese Yan'an faction.[67][68] The last Chinese troops withdrew from the country in October 1958, which is the consensus as the latest date when North Korea became effectively independent. Some scholars believe that the 1956 August incident demonstrated independence.[69][70] North Korea remained closely aligned with China and the Soviet Union, and the Sino-Soviet split allowed Kim to play the powers off each other.[71] North Korea sought to become a leader of the Non-Aligned Movement, and emphasized the ideology of _Juche_ to distinguish it from both the Soviet Union and China.[72]
 
 Recovery from the war was quick—by 1957 industrial production reached 1949 levels. In 1959, relations with Japan had improved somewhat, and North Korea began allowing the repatriation of Japanese citizens in the country. The same year, North Korea revalued the North Korean won, which held greater value than its South Korean counterpart. Until the 1960s, economic growth was higher than in South Korea, and North Korean GDP per capita was equal to that of its southern neighbor as late as 1976.
 
 By the 1980s the economy had begun to stagnate; it started its long decline in 1987 and almost completely collapsed after the dissolution of the Soviet Union in 1991, when all Soviet aid was suddenly halted. The North began reestablishing trade relations with China shortly thereafter, but the Chinese could not afford to provide enough food aid to meet demand.
 
 Post Cold War
-
-Pjongjang_Zentrum.jpg
 
 In 1992, as Kim Il-sung's health began deteriorating, Kim Jong-il slowly began taking over various state tasks. Kim Il-sung died of a heart attack in 1994, in the midst of a standoff with the United States over North Korean nuclear weapon development. Kim Jong-il declared a three-year period of national mourning before officially announcing his position as the new leader.
 
@@ -87,13 +85,13 @@ In May 2019 the United Nations World Food Programme reported food rations were c
 
 Geography
 
-North_Korea_Topography.png North Korea occupies the northern portion of the Korean Peninsula, lying between latitudes 37° and 43°N, and longitudes 124° and 131°E. It covers an area of .[93] North Korea shares land borders with China and Russia to the north, and borders South Korea along the Korean Demilitarized Zone. To its west are the Yellow Sea and Korea Bay, and to its east lies Japan across the Sea of Japan (East Sea of Korea). 0409_-_Nordkorea_2015_-_Kumgang_Gebirge_(22961925095).jpg]] North_Korean_coast_near_Hamhung_(14876597009).jpg]] Early European visitors to Korea remarked that the country resembled "a sea in a heavy gale" because of the many successive mountain ranges that crisscross the peninsula.[94] Some 80 percent of North Korea is composed of mountains and uplands, separated by deep and narrow valleys. All of the Korean Peninsula's mountains with elevations of or more are located in North Korea. The highest point in North Korea is Paektu Mountain, a volcanic mountain with an elevation of above sea level.[95] Paektu is very significant in Korean culture, in which it is considered a sacred place by the Korean people and is thus incorporated in the elaborate folklore around the Kim dynasty.[96] Other prominent ranges are the Hamgyong Range in the extreme northeast and the Rangrim Mountains, which are located in the north-central part of North Korea. Mount Kumgang in the Taebaek Range, which extends into South Korea, is famous for its scenic beauty.[97]
+North Korea occupies the northern portion of the Korean Peninsula, lying between latitudes 37° and 43°N, and longitudes 124° and 131°E. It covers an area of .[93] North Korea shares land borders with China and Russia to the north, and borders South Korea along the Korean Demilitarized Zone. To its west are the Yellow Sea and Korea Bay, and to its east lies Japan across the Sea of Japan (East Sea of Korea). ]] ]] Early European visitors to Korea remarked that the country resembled "a sea in a heavy gale" because of the many successive mountain ranges that crisscross the peninsula.[94] Some 80 percent of North Korea is composed of mountains and uplands, separated by deep and narrow valleys. All of the Korean Peninsula's mountains with elevations of or more are located in North Korea. The highest point in North Korea is Paektu Mountain, a volcanic mountain with an elevation of above sea level.[95] Paektu is very significant in Korean culture, in which it is considered a sacred place by the Korean people and is thus incorporated in the elaborate folklore around the Kim dynasty.[96] Other prominent ranges are the Hamgyong Range in the extreme northeast and the Rangrim Mountains, which are located in the north-central part of North Korea. Mount Kumgang in the Taebaek Range, which extends into South Korea, is famous for its scenic beauty.[97]
 
 The coastal plains are wide in the west and discontinuous in the east. A great majority of the population lives in the plains and lowlands. According to a United Nations Environmental Programme report in 2003, forest covers over 70 percent of the country, mostly on steep slopes.[98] The longest river is the Amnok (Yalu) River which flows for .[99]
 
 Climate
 
-Koppen-Geiger_Map_PRK_present.svg North Korea experiences a combination of continental climate and an oceanic climate,[100][101] but most of the country experiences a humid continental climate within the Köppen climate classification scheme. Winters bring clear weather interspersed with snow storms as a result of northern and northwestern winds that blow from Siberia.[102] Summer tends to be by far the hottest, most humid, and rainiest time of year because of the southern and southeastern monsoon winds that carry moist air from the Pacific Ocean. Approximately 60 percent of all precipitation occurs from June to September.[103] Spring and autumn are transitional seasons between summer and winter. The daily average high and low temperatures for Pyongyang are in January and in August.[104]
+North Korea experiences a combination of continental climate and an oceanic climate,[100][101] but most of the country experiences a humid continental climate within the Köppen climate classification scheme. Winters bring clear weather interspersed with snow storms as a result of northern and northwestern winds that blow from Siberia.[102] Summer tends to be by far the hottest, most humid, and rainiest time of year because of the southern and southeastern monsoon winds that carry moist air from the Pacific Ocean. Approximately 60 percent of all precipitation occurs from June to September.[103] Spring and autumn are transitional seasons between summer and winter. The daily average high and low temperatures for Pyongyang are in January and in August.[104]
 
 Administrative divisions
 
@@ -132,7 +130,7 @@ Administrative divisions
 
 Government and politics
 
-Mansudae-Kongressalle.JPG, seat of the Supreme People's Assembly]]
+, seat of the Supreme People's Assembly]]
 
 North Korea functions as a highly centralized, one-party state. According to its 2016 constitution, it is a self-described revolutionary and socialist state "guided in its activities by the Juche idea and the Songun idea".[105] In addition to the constitution, North Korea is governed by the Ten Principles for the Establishment of a Monolithic Ideological System (also known as the "Ten Principles of the One-Ideology System") which establishes standards for governance and a guide for the behaviors of North Koreans.[106] The Workers' Party of Korea (WPK) has an estimated 3,000,000 members and dominates every aspect of North Korean politics. It has two satellite organizations, the Korean Social Democratic Party and the Chondoist Chongu Party which participate in the WPK-led Democratic Front for the Reunification of the Fatherland.
 
@@ -156,13 +154,13 @@ Scholar Brian Reynolds Myers views North Korea's actual ideology as a Korean eth
 
 Kim dynasty
 
-Sinpyong_Lake,_North_Korea_(2921982738).jpg and Kim Jong-il on top of Paektu Mountain]] North Korea is ruled by the Kim dynasty, which in North Korea is referred to as the _Mount Paektu Bloodline_. It is a three-generation lineage descending from the country's first leader, Kim Il-sung, since 1948. Kim developed a cult of personality closely tied to the state philosophy of _Juche_, which was later passed on to his successors: his son Kim Jong-il and grandson Kim Jong-un. In 2013 this lineage was made explicit when Clause 2 of Article 10 of the new edited Ten Fundamental Principles of the Korean Workers' Party stated that the party and revolution must be carried "eternally" by the "Baekdu bloodline".[124] In order to solidify _Mount Paektu Bloodline_, Kim Il-sung and Kim Jong-il have recalled all the family genealogy books under the pretext that familyism and regionalism are the hotbeds of the revolution. In 1958, North Korea declared its ideology to be socialism and took away all of people's private property and dismantled family groups that had been living in the center of genealogy and ancestors. They later moved the entire population from the northern 38th parallel.[125] Hence, in North Korea there is no bon-gwan in people's names.[126]
+and Kim Jong-il on top of Paektu Mountain]] North Korea is ruled by the Kim dynasty, which in North Korea is referred to as the _Mount Paektu Bloodline_. It is a three-generation lineage descending from the country's first leader, Kim Il-sung, since 1948. Kim developed a cult of personality closely tied to the state philosophy of _Juche_, which was later passed on to his successors: his son Kim Jong-il and grandson Kim Jong-un. In 2013 this lineage was made explicit when Clause 2 of Article 10 of the new edited Ten Fundamental Principles of the Korean Workers' Party stated that the party and revolution must be carried "eternally" by the "Baekdu bloodline".[124] In order to solidify _Mount Paektu Bloodline_, Kim Il-sung and Kim Jong-il have recalled all the family genealogy books under the pretext that familyism and regionalism are the hotbeds of the revolution. In 1958, North Korea declared its ideology to be socialism and took away all of people's private property and dismantled family groups that had been living in the center of genealogy and ancestors. They later moved the entire population from the northern 38th parallel.[125] Hence, in North Korea there is no bon-gwan in people's names.[126]
 
 According to _New Focus International_, the cult of personality, particularly surrounding Kim Il-sung, has been crucial for legitimizing the family's hereditary succession,[127] The control the North Korean government exercises over many aspects of the nation's culture is used to perpetuate the cult of personality surrounding Kim Il-sung, and Kim Jong-il. While visiting North Korea in 1979, journalist Bradley Martin wrote that nearly all music, art, and sculpture that he observed glorified "Great Leader" Kim Il-sung, whose personality cult was then being extended to his son, "Dear Leader" Kim Jong-il.
 
 Claims that the dynasty has been deified are contested by North Korea researcher B. R. Myers: "Divine powers have never been attributed to either of the two Kims. In fact, the propaganda apparatus in Pyongyang has generally been careful _not_ to make claims that run directly counter to citizens' experience or common sense." He further explains that the state propaganda painted Kim Jong-il as someone whose expertise lay in military matters and that the famine of the 1990s was partially caused by natural disasters out of Kim Jong-il's control.
 
-Chung_Eui-yong_and_Kim_Jong-un.jpg and his sister Kim Yo-jong (right) in March 2018]] The song "No Motherland Without You", sung by the North Korean army choir, was created especially for Kim Jong-il and is one of the most popular tunes in the country. Kim Il-sung is still officially revered as the nation's "Eternal President". Several landmarks in North Korea are named for Kim Il-sung, including Kim Il-sung University, Kim Il-sung Stadium, and Kim Il-sung Square. Defectors have been quoted as saying that North Korean schools deify both father and son.[128] Kim Il-sung rejected the notion that he had created a cult around himself, and accused those who suggested this of "factionalism". Following the death of Kim Il-sung, North Koreans were prostrating and weeping to a bronze statue of him in an organized event;[129] similar scenes were broadcast by state television following the death of Kim Jong-il.[130]
+and his sister Kim Yo-jong (right) in March 2018]] The song "No Motherland Without You", sung by the North Korean army choir, was created especially for Kim Jong-il and is one of the most popular tunes in the country. Kim Il-sung is still officially revered as the nation's "Eternal President". Several landmarks in North Korea are named for Kim Il-sung, including Kim Il-sung University, Kim Il-sung Stadium, and Kim Il-sung Square. Defectors have been quoted as saying that North Korean schools deify both father and son.[128] Kim Il-sung rejected the notion that he had created a cult around himself, and accused those who suggested this of "factionalism". Following the death of Kim Il-sung, North Koreans were prostrating and weeping to a bronze statue of him in an organized event;[129] similar scenes were broadcast by state television following the death of Kim Jong-il.[130]
 
 Critics maintain that Kim Jong-il's personality cult was inherited from his father. Kim Jong-il was often the center of attention throughout ordinary life. His birthday is one of the most important public holidays in the country. On his 60th birthday (based on his official date of birth), mass celebrations occurred throughout the country.[131] Kim Jong-il's personality cult, although significant, was not as extensive as his father's. One point of view is that Kim Jong-il's cult of personality was solely out of respect for Kim Il-sung or out of fear of punishment for failure to pay homage,[132] while North Korean government sources consider it genuine hero worship.[133]
 
@@ -170,15 +168,15 @@ The extent of the cult of personality surrounding Kim Jong-il and Kim Il-sung wa
 
 Foreign relations
 
-North_Korea_-_China_friendship_(5578914865).jpg is celebrated at the Arirang Mass Games in Pyongyang.]]
+is celebrated at the Arirang Mass Games in Pyongyang.]]
 
 As a result of its isolation, North Korea is sometimes known as the "hermit kingdom", a term that originally referred to the isolationism in the latter part of the Joseon Dynasty.[135] Initially, North Korea had diplomatic ties with only other communist countries, and even today, most of the foreign embassies accredited to North Korea are located in Beijing rather than in Pyongyang.[136] In the 1960s and 1970s, it pursued an independent foreign policy, established relations with many developing countries, and joined the Non-Aligned Movement. In the late 1980s and the 1990s its foreign policy was thrown into turmoil with the collapse of the Soviet bloc. Suffering an economic crisis, it closed a number of its embassies. At the same time, North Korea sought to build relations with developed free market countries.[137]
 
-, North Korea had diplomatic relations with 166 countries and embassies in 47 countries.[138] However, owing to the human rights and political situation, the DPRK is not recognised by Argentina, Botswana, Estonia, France, Iraq, Israel, Japan, Taiwan, and the United States.[139][140][141][142][143][144][145] This means that in September 2017, France and Estonia are the last two European countries that do not have an official relationship with North Korea.[146] North Korea continues to have strong ties with its socialist southeast Asian allies in Vietnam and Laos, as well as with Cambodia.[147] Kim_Jong-un_and_Vladimir_Putin_(2019-04-25)_05.jpg, 25 April 2019]] 2018_North_Korea-United_States_summit_-_Kim_and_Trump_shake_hands.jpg and North Korean Leader Kim Jong-un during the 2018 North Korea-United States summit in Singapore, June 2018]] As a result of the North Korean nuclear weapons program, the Six-Party Talks were established to find a peaceful solution to the growing tension between the two Korean governments, Russia, China, Japan, and the United States. The talks were discontinued in 2009. North Korea was previously designated a state sponsor of terrorism[148] because of its alleged involvement in the 1983 Rangoon bombing and the 1987 bombing of a South Korean airliner.[149] On 11 October 2008, the United States removed North Korea from its list of states that sponsor terrorism after Pyongyang agreed to cooperate on issues related to its nuclear program.[150] North Korea was re-designated a state sponsor of terrorism by the U.S. under the Trump administration on 20 November 2017, 9 years after it was removed from the list.[151] The kidnapping of at least 13 Japanese citizens by North Korean agents in the 1970s and the 1980s has affected North Korea's relationship with Japan.[152]
+, North Korea had diplomatic relations with 166 countries and embassies in 47 countries.[138] However, owing to the human rights and political situation, the DPRK is not recognised by Argentina, Botswana, Estonia, France, Iraq, Israel, Japan, Taiwan, and the United States.[139][140][141][142][143][144][145] This means that in September 2017, France and Estonia are the last two European countries that do not have an official relationship with North Korea.[146] North Korea continues to have strong ties with its socialist southeast Asian allies in Vietnam and Laos, as well as with Cambodia.[147] , 25 April 2019]] and North Korean Leader Kim Jong-un during the 2018 North Korea-United States summit in Singapore, June 2018]] As a result of the North Korean nuclear weapons program, the Six-Party Talks were established to find a peaceful solution to the growing tension between the two Korean governments, Russia, China, Japan, and the United States. The talks were discontinued in 2009. North Korea was previously designated a state sponsor of terrorism[148] because of its alleged involvement in the 1983 Rangoon bombing and the 1987 bombing of a South Korean airliner.[149] On 11 October 2008, the United States removed North Korea from its list of states that sponsor terrorism after Pyongyang agreed to cooperate on issues related to its nuclear program.[150] North Korea was re-designated a state sponsor of terrorism by the U.S. under the Trump administration on 20 November 2017, 9 years after it was removed from the list.[151] The kidnapping of at least 13 Japanese citizens by North Korean agents in the 1970s and the 1980s has affected North Korea's relationship with Japan.[152]
 
 Inter-Korean relations
 
-The Korean Demilitarized Zone with South Korea remains the most heavily fortified border in the world.[153] Inter-Korean relations are at the core of North Korean diplomacy and have seen numerous shifts in the last few decades. North Korea's policy is to seek reunification without what it sees as outside interference, through a federal structure retaining each side's leadership and systems. In 1972, the two Koreas agreed in principle to achieve reunification through peaceful means and without foreign interference. On 10 October 1980 then North Korean president Kim Il-sung proposed a federation between North and South Korea named the Democratic Federal Republic of Korea in which the respective political systems would initially remain.[154] However, relations remained cool well until the early 1990s, with a brief period in the early 1980s when North Korea offered to provide flood relief to its southern neighbor.[155] Although the offer was initially welcomed, talks over how to deliver the relief goods broke down and none of the promised aid ever crossed the border.[156] The two countries also organized a reunion of 92 separated families. 2018_inter-Korean_summit_01.jpg shake hands during the 2018 inter-Korean Summit, April 2018]]501_cows_sent_to_North_Korea.jpg
+The Korean Demilitarized Zone with South Korea remains the most heavily fortified border in the world.[153] Inter-Korean relations are at the core of North Korean diplomacy and have seen numerous shifts in the last few decades. North Korea's policy is to seek reunification without what it sees as outside interference, through a federal structure retaining each side's leadership and systems. In 1972, the two Koreas agreed in principle to achieve reunification through peaceful means and without foreign interference. On 10 October 1980 then North Korean president Kim Il-sung proposed a federation between North and South Korea named the Democratic Federal Republic of Korea in which the respective political systems would initially remain.[154] However, relations remained cool well until the early 1990s, with a brief period in the early 1980s when North Korea offered to provide flood relief to its southern neighbor.[155] Although the offer was initially welcomed, talks over how to deliver the relief goods broke down and none of the promised aid ever crossed the border.[156] The two countries also organized a reunion of 92 separated families. shake hands during the 2018 inter-Korean Summit, April 2018]]
 
 The Sunshine Policy instituted by South Korean president Kim Dae-jung in 1998 was a watershed in inter-Korean relations. It encouraged other countries to engage with the North, which allowed Pyongyang to normalize relations with a number of European Union states and contributed to the establishment of joint North-South economic projects. The culmination of the Sunshine Policy was the 2000 Inter-Korean summit, when Kim Dae-jung visited Kim Jong-il in Pyongyang. Both North and South Korea signed the June 15th North–South Joint Declaration, in which both sides promised to seek peaceful reunification.[157] On 4 October 2007, South Korean president Roh Moo-hyun and Kim Jong-il signed an eight-point peace agreement.[158] However, relations worsened in the late 2000s and early 2010s when South Korean president Lee Myung-bak adopted a more hard-line approach and suspended aid deliveries pending the de-nuclearization of the North. North Korea responded by ending all of its previous agreements with the South.[159] It deployed additional ballistic missiles[160] and placed its military on full combat alert after South Korea, Japan and the United States threatened to intercept a Unha-2 space launch vehicle.[161] The next few years witnessed a string of hostilities, including the alleged North Korean involvement in the sinking of South Korean warship _Cheonan_,[162] mutual ending of diplomatic ties,[163] a North Korean artillery attack on Yeonpyeong Island,[164] and growing international concern over North Korea's nuclear program.[165] In 2018, a détente developed at the Winter Olympics in the South.[166][167]
 
@@ -202,8 +200,6 @@ The North Korean government rejects the human rights abuse claims, calling them 
 
 Law enforcement and internal security
 
-North_Korean_traffic_police_in_Pyongyang_(12074843383).jpg
-
 North Korea has a civil law system based on the Prussian model and influenced by Japanese traditions and communist legal theory.[194] Judiciary procedures are handled by the Supreme Court (the highest court of appeal), provincial or special city-level courts, people's courts and special courts. People's courts are at the lowest level of the system and operate in cities, counties and urban districts, while different kinds of special courts handle cases related to military, railroad or maritime matters.
 
 Judges are theoretically elected by their respective local people's assemblies, but in practice they are appointed by the Workers' Party of Korea. The penal code is based on the principle of _nullum crimen sine lege_ (no crime without a law), but remains a tool for political control despite several amendments reducing ideological influence. Courts carry out legal procedures related to not only criminal and civil matters, but also political cases as well. Political prisoners are sent to labor camps, while criminal offenders are incarcerated in a separate system.[195]
@@ -215,13 +211,13 @@ The security apparatus is very extensive, exerting strict control over residence
 
 Military
 
-Soldiers_at_Panmunjon_(5063812314).jpg (KPA) soldiers at Panmunjom]]
+(KPA) soldiers at Panmunjom]]
 
 The Korean People's Army (KPA) is North Korea's military organization. The KPA has 1,106,000 active and 8,389,000 reserve and paramilitary troops, making it the largest military institution in the world.[200] About 20 percent of men aged 17–54 serve in the regular armed forces,[201] and approximately one in every 25 citizens is an enlisted soldier.[202][203] The KPA has five branches: Ground Force, Navy, Air Force, Special Operations Force, and Rocket Force. Command of the Korean People's Army lies in both the Central Military Commission of the Workers' Party of Korea and the independent State Affairs Commission. The Ministry of People's Armed Forces is subordinated to the latter.
 
 Of all KPA branches, the Ground Force is the largest. It has approximately one million personnel divided into 80 infantry divisions, 30 artillery brigades, 25 special warfare brigades, 20 mechanized brigades, 10 tank brigades and seven tank regiments. They are equipped with 3,700 tanks, 2,100 armored personnel carriers and infantry fighting vehicles, 17,900 artillery pieces, 11,000 anti-aircraft guns and some 10,000 MANPADS and anti-tank guided missiles.[204] Other equipment includes 1,600 aircraft in the Air Force and 1,000 vessels in the Navy. North Korea has the largest special forces and the largest submarine fleet in the world.
 
-AIR_KORYO_IL76_P912_AT_SONDOK_HAMHUNG_AIRPORT_DPR_KOREA_OCT_2012_(8179381094).jpg strategic military airlifter used by Air Koryo]]
+strategic military airlifter used by Air Koryo]]
 
 North Korea possesses nuclear weapons, but the strength of its arsenal is uncertain. In January 2018, estimates of North Korea's nuclear arsenal ranged between 15 and 60 bombs, probably including hydrogen bombs.[205] Delivery capabilities[206] are provided by the Rocket Force, which has some 1,000 ballistic missiles with a range of up to .[207]
 
@@ -236,7 +232,7 @@ Society
 
 Demographics
 
-North_Korea_-_Kumsusan_(5015230319).jpg]]
+]]
 
 +------------+
 | Population |
@@ -250,7 +246,7 @@ North_Korea_-_Kumsusan_(5015230319).jpg]]
 |            |
 +------------+
 
-Bevölkerungspyramide_Nordkorea_2016.png With the exception of a small Chinese community and a few ethnic Japanese, North Korea's people are ethnically homogeneous.[221] Demographic experts in the 20th century estimated that the population would grow to 25.5 million by 2000 and 28 million by 2010, but this increase never occurred due to the North Korean famine. It began in 1995, lasted for three years and resulted in the deaths of between 240,000 and 420,000 North Koreans.[222]
+With the exception of a small Chinese community and a few ethnic Japanese, North Korea's people are ethnically homogeneous.[221] Demographic experts in the 20th century estimated that the population would grow to 25.5 million by 2000 and 28 million by 2010, but this increase never occurred due to the North Korean famine. It began in 1995, lasted for three years and resulted in the deaths of between 240,000 and 420,000 North Koreans.[222]
 
 International donors led by the United States initiated shipments of food through the World Food Program in 1997 to combat the famine.[223] Despite a drastic reduction of aid under the George W. Bush Administration,[224] the situation gradually improved: the number of malnourished children declined from 60% in 1998 to 37% in 2006[225] and 28% in 2013.[226] Domestic food production almost recovered to the recommended annual level of 5.37 million tons of cereal equivalent in 2013,[227] but the World Food Program reported a continuing lack of dietary diversity and access to fats and proteins.[228]
 
@@ -258,7 +254,7 @@ The famine had a significant impact on the population growth rate, which decline
 
 Health
 
-North_Korea-Pyongyang_Maternity_Hospital-04.jpg]]
+]]
 
 North Korea had a life expectancy of 69.8 years in 2013.[232] While North Korea is classified as a low-income country, the structure of North Korea's causes of death (2013) is unlike that of other low-income countries.[233] Instead, it is closer to worldwide averages, with non-communicable diseases—such as cardiovascular disease and cancers—accounting for two-thirds of the total deaths.[234]
 
@@ -272,7 +268,7 @@ A free universal insurance system is in place. Quality of medical care varies si
 
 Education
 
-Laika_ac_Mangyongdae_School_Children's_Palace_(11985523363).jpg The 2008 census listed the entire population as literate.[245] An 11-year free, compulsory cycle of primary and secondary education is provided in more than 27,000 nursery schools, 14,000 kindergartens, 4,800 four-year primary and 4,700 six-year secondary schools. 77% of males and 79% of females aged 30–34 have finished secondary school.[246] An additional 300 universities and colleges offer higher education.
+The 2008 census listed the entire population as literate.[245] An 11-year free, compulsory cycle of primary and secondary education is provided in more than 27,000 nursery schools, 14,000 kindergartens, 4,800 four-year primary and 4,700 six-year secondary schools. 77% of males and 79% of females aged 30–34 have finished secondary school.[246] An additional 300 universities and colleges offer higher education.
 
 Most graduates from the compulsory program do not attend university but begin their obligatory military service or proceed to work in farms or factories instead. The main deficiencies of higher education are the heavy presence of ideological subjects, which comprise 50% of courses in social studies and 20% in sciences, and the imbalances in curriculum. The study of natural sciences is greatly emphasized while social sciences are neglected. Heuristics is actively applied to develop the independence and creativity of students throughout the system.[247] The study of Russian and English was made compulsory in upper middle schools in 1978.
 
@@ -282,7 +278,7 @@ North Korea shares the Korean language with South Korea, although some dialectal
 
 Religion
 
-Chilgol_Church_(15545529301).jpg in Pyongyang, where Kang Pan-sok—the mother of the late supreme leader Kim Il-sung—served as a Presbyterian deaconess.]]
+in Pyongyang, where Kang Pan-sok—the mother of the late supreme leader Kim Il-sung—served as a Presbyterian deaconess.]]
 
 Officially, North Korea is an atheist state.[250][251] There are no known official statistics of religions in North Korea. According to Religious Intelligence, 64.3% of the population are irreligious, 16% practice Korean shamanism, 13.5% practice Chondoism, 4.5% are Buddhist, and 1.7% are Christian.[252] Freedom of religion and the right to religious ceremonies are constitutionally guaranteed, but religions are restricted by the government.[253] Amnesty International has expressed concerns about religious persecution in North Korea.[254]
 
@@ -291,8 +287,6 @@ The influence of Buddhism and Confucianism still has an effect on cultural life.
 The Open Doors mission, a Protestant-group based in the United States and founded during the Cold War-era, claims the most severe persecution of Christians in the world occurs in North Korea.[257] Four state-sanctioned churches exist, but critics claim these are showcases for foreigners.[258][259]
 
 Formal ranking of citizens' loyalty
-
-Korean_youth_on_Pyongyang_street.jpg
 
 According to North Korean documents and refugee testimonies,[260] all North Koreans are sorted into groups according to their Songbun, an ascribed status system based on a citizen's assessed loyalty to the government. Based on their own behavior and the political, social, and economic background of their family for three generations as well as behavior by relatives within that range, Songbun is allegedly used to determine whether an individual is trusted with responsibility, given opportunities,[261] or even receives adequate food.[262][263]
 
@@ -305,7 +299,7 @@ Economy
 
 North Korea has maintained one of the most closed and centralized economies in the world since the 1940s. For several decades it followed the Soviet pattern of five-year plans with the ultimate goal of achieving self-sufficiency. Extensive Soviet and Chinese support allowed North Korea to rapidly recover from the Korean War and register very high growth rates. Systematic inefficiency began to arise around 1960, when the economy shifted from the extensive to the intensive development stage. The shortage of skilled labor, energy, arable land and transportation significantly impeded long-term growth and resulted in consistent failure to meet planning objectives. The major slowdown of the economy contrasted with South Korea, which surpassed the North in terms of absolute GDP and per capita income by the 1980s. North Korea declared the last seven-year plan unsuccessful in December 1993 and thereafter stopped announcing plans.
 
-Industry_Hamhung,_North_Korea.jpg]]
+]]
 
 The loss of Eastern Bloc trading partners and a series of natural disasters throughout the 1990s caused severe hardships, including widespread famine. By 2000, the situation improved owing to a massive international food assistance effort, but the economy continues to suffer from food shortages, dilapidated infrastructure and a critically low energy supply.[270] In an attempt to recover from the collapse, the government began structural reforms in 1998 that formally legalized private ownership of assets and decentralized control over production. A second round of reforms in 2002 led to an expansion of market activities, partial monetization, flexible prices and salaries, and the introduction of incentives and accountability techniques. Despite these changes, North Korea remains a command economy where the state owns almost all means of production and development priorities are defined by the government.[271]
 
@@ -313,7 +307,7 @@ North Korea has the structural profile of a relatively industrialized country wh
 
 The economy is heavily nationalized. Food and housing are extensively subsidized by the state; education and healthcare are free; and the payment of taxes was officially abolished in 1974.[277] A variety of goods are available in department stores and supermarkets in Pyongyang,[278] though most of the population relies on small-scale _jangmadang_ markets.[279][280] In 2009, the government attempted to stem the expanding free market by banning jangmadang and the use of foreign currency,[281] heavily devaluing the won and restricting the convertibility of savings in the old currency,[282] but the resulting inflation spike and rare public protests caused a reversal of these policies.[283] Private trade is dominated by women because most men are required to be present at their workplace, even though many state-owned enterprises are non-operational.[284]
 
-Masikryong_North_Korea_Ski_Resort_(12300043424).jpg]]
+]]
 
 Industry and services employ 65%[285] of North Korea's 12.6 million labor force.[286] Major industries include machine building, military equipment, chemicals, mining, metallurgy, textiles, food processing and tourism.[287] Iron ore and coal production are among the few sectors where North Korea performs significantly better than its southern neighbor – it produces about 10 times larger amounts of each resource.[288] Using ex-Romanian drilling rigs, several oil exploration companies have confirmed significant oil reserves in the North Korean shelf of the Sea of Japan, and in areas south of Pyongyang.[289] The agricultural sector was shattered by the natural disasters of the 1990s. Its 3,500 cooperatives and state farms were among the most productive and successful in the world around 1980 but now experience chronic fertilizer and equipment shortages. Rice, corn, soybeans and potatoes are some of the primary crops.[290] A significant contribution to the food supply comes from commercial fishing and aquaculture.[291] Tourism has been a growing sector for the past decade.[292] North Korea aims to increase the number of foreign visitors from 200,000 to one million by 2016 through projects like the Masikryong Ski Resort.[293]
 
@@ -321,11 +315,11 @@ Foreign trade surpassed pre-crisis levels in 2005 and continues to expand.[294] 
 
 Infrastructure
 
-Korean_Peninsula_at_night_from_space.jpg at night, showing North Korea in almost complete darkness, with one small bright spot, the capital Pyongyang]] North Korea's energy infrastructure is obsolete and in disrepair. Power shortages are chronic and would not be alleviated even by electricity imports because the poorly maintained grid causes significant losses during transmission. Coal accounts for 70% of primary energy production, followed by hydroelectric power with 17%. The government under Kim Jong-un has increased emphasis on renewable energy projects like wind farms, solar parks, solar heating and biomass.[303] A set of legal regulations adopted in 2014 stressed the development of geothermal, wind and solar energy along with recycling and environmental conservation.[304][305] North Korea's long-term objective is to curb fossil fuel usage and reach an output of 5 million kilowatts from renewable sources by 2044, up from its current total of 430,000 kilowatts from all sources. Wind power is projected to satisfy 15% of the country's total energy demand under this strategy.[306]
+at night, showing North Korea in almost complete darkness, with one small bright spot, the capital Pyongyang]] North Korea's energy infrastructure is obsolete and in disrepair. Power shortages are chronic and would not be alleviated even by electricity imports because the poorly maintained grid causes significant losses during transmission. Coal accounts for 70% of primary energy production, followed by hydroelectric power with 17%. The government under Kim Jong-un has increased emphasis on renewable energy projects like wind farms, solar parks, solar heating and biomass.[303] A set of legal regulations adopted in 2014 stressed the development of geothermal, wind and solar energy along with recycling and environmental conservation.[304][305] North Korea's long-term objective is to curb fossil fuel usage and reach an output of 5 million kilowatts from renewable sources by 2044, up from its current total of 430,000 kilowatts from all sources. Wind power is projected to satisfy 15% of the country's total energy demand under this strategy.[306]
 
 North Korea also strives to develop its own civilian nuclear program. These efforts are under much international dispute due to their military applications and concerns about safety.[307]
 
-DPRK_railway_diesel._(11585810604).jpg diesel unit at Pyongyang Station]] Tupolev_Tu-204-300_of_Air_Koryo_at_Vladivostok_Airport_(1).jpg of Air Koryo over Vladivostok Airport]]
+diesel unit at Pyongyang Station]] of Air Koryo over Vladivostok Airport]]
 
 Transport infrastructure includes railways, highways, water and air routes, but rail transport is by far the most widespread. North Korea has some 5,200 kilometers of railways mostly in standard gauge which carry 80% of annual passenger traffic and 86% of freight, but electricity shortages undermine their efficiency. Construction of a high-speed railway connecting Kaesong, Pyongyang and Sinuiju with speeds exceeding 200 km/h was approved in 2013.[308] North Korea connects with the Trans-Siberian Railway through Rajin.[309]
 
@@ -335,7 +329,7 @@ Science and technology
 
 R&D efforts are concentrated at the State Academy of Sciences, which runs 40 research institutes, 200 smaller research centers, a scientific equipment factory and six publishing houses.[315] The government considers science and technology to be directly linked to economic development.[316][317] A five-year scientific plan emphasizing IT, biotechnology, nanotechnology, marine and plasma research was carried out in the early 2000s.[318] A 2010 report by the South Korean Science and Technology Policy Institute identified polymer chemistry, single carbon materials, nanoscience, mathematics, software, nuclear technology and rocketry as potential areas of inter-Korean scientific cooperation. North Korean institutes are strong in these fields of research, although their engineers require additional training and laboratories need equipment upgrades.[319]
 
-North_Korean_Unha-3_rocket_at_launch_pad.jpg space launch vehicle at Sohae Satellite Launching Station]]
+space launch vehicle at Sohae Satellite Launching Station]]
 
 Under its "constructing a powerful knowledge economy" slogan, the state has launched a project to concentrate education, scientific research and production into a number of "high-tech development zones". International sanctions remain a significant obstacle to their development.[320] The _Miraewon_ network of electronic libraries was established in 2014 under similar slogans.[321]
 
@@ -350,7 +344,7 @@ Internet access itself is limited to a handful of elite users and scientists. In
 
 Culture
 
-Pyohunsa_Temple_-_Mount_Kumgang_North_Korea_(10449400303).jpg Buddhist Temple, a National Treasure of North Korea]]
+Buddhist Temple, a National Treasure of North Korea]]
 
 Despite a historically strong Chinese influence, Korean culture has shaped its own unique identity.[346] It came under attack during the Japanese rule from 1910 to 1945, when Japan enforced a cultural assimilation policy. Koreans were forced to learn and speak Japanese, adopt the Japanese family name system and Shinto religion, and were forbidden to write or speak the Korean language in schools, businesses, or public places.[347]
 
@@ -360,7 +354,7 @@ Korean heritage is protected and maintained by the state. Over 190 historical si
 
 Art
 
-Political_Art_(5109346023).jpg Visual arts are generally produced in the esthetics of Socialist realism.[351] North Korean painting combines the influence of Soviet and Japanese visual expression to instill a sentimental loyalty to the system.[352] All artists in North Korea are required to join the Artists' Union, and the best among them can receive an official license to portray the leaders. Portraits and sculptures depicting Kim Il-sung, Kim Jong-il and Kim Jong-un are classed as "Number One works".[353]
+Visual arts are generally produced in the esthetics of Socialist realism.[351] North Korean painting combines the influence of Soviet and Japanese visual expression to instill a sentimental loyalty to the system.[352] All artists in North Korea are required to join the Artists' Union, and the best among them can receive an official license to portray the leaders. Portraits and sculptures depicting Kim Il-sung, Kim Jong-il and Kim Jong-un are classed as "Number One works".[353]
 
 Most aspects of art have been dominated by Mansudae Art Studio since its establishment in 1959. It employs around 1,000 artists in what is likely the biggest art factory in the world where paintings, murals, posters and monuments are designed and produced.[354] The studio has commercialized its activity and sells its works to collectors in a variety of countries including China, where it is in high demand.[355] Mansudae Overseas Projects is a subdivision of Mansudae Art Studio that carries out construction of large-scale monuments for international customers.[356] Some of the projects include the African Renaissance Monument in Senegal,[357] and the Heroes' Acre in Namibia.[358]
 
@@ -376,7 +370,7 @@ Pop music appeared in the 1980s with the Pochonbo Electronic Ensemble and Wangja
 
 Literature
 
-North_Korea_(5015250703).jpg and Kim Jong-il]]
+and Kim Jong-il]]
 
 All publishing houses are owned by the government or the WPK because they are considered an important tool for propaganda and agitation. The Workers' Party of Korea Publishing House is the most authoritative among them and publishes all works of Kim Il-sung, ideological education materials and party policy documents. The availability of foreign literature is limited, examples being North Korean editions of Indian, German, Chinese and Russian fairy tales, _Tales from Shakespeare_ and some works of Bertolt Brecht and Erich Kästner.[370]
 
@@ -386,7 +380,7 @@ Science fiction is considered a secondary genre because it somewhat departs from
 
 Media
 
-Laika_ac_Rodong_Shinmun_Office_(12196828873).jpg'' office in Pyongyang]] Government policies towards film are no different than those applied to other arts—motion pictures serve to fulfill the targets of "social education". Some of the most influential films are based on historic events (_An Jung-geun shoots Itō Hirobumi_) or folk tales (_Hong Gildong_).[374] Most movies have predictable propaganda story lines which make cinema an unpopular entertainment. Viewers only see films that feature their favorite actors. Western productions are only available at private showings to high-ranking Party members, although the 1997 film _Titanic_ is frequently shown to university students as an example of Western culture.[375] Access to foreign media products is available through smuggled DVDs and television or radio broadcasts in border areas.[376] Western films like _The Interview_, _Titanic_, and _Charlie's Angels_ are just a few films that have been smuggled across the borders of North Korea, allowing for access to the North Korean citizens.[377][378]
+'' office in Pyongyang]] Government policies towards film are no different than those applied to other arts—motion pictures serve to fulfill the targets of "social education". Some of the most influential films are based on historic events (_An Jung-geun shoots Itō Hirobumi_) or folk tales (_Hong Gildong_).[374] Most movies have predictable propaganda story lines which make cinema an unpopular entertainment. Viewers only see films that feature their favorite actors. Western productions are only available at private showings to high-ranking Party members, although the 1997 film _Titanic_ is frequently shown to university students as an example of Western culture.[375] Access to foreign media products is available through smuggled DVDs and television or radio broadcasts in border areas.[376] Western films like _The Interview_, _Titanic_, and _Charlie's Angels_ are just a few films that have been smuggled across the borders of North Korea, allowing for access to the North Korean citizens.[377][378]
 
 North Korean media are under some of the strictest government control in the world. Freedom of the press in 2017 was 180th out of 180 countries in Reporters Without Borders' annual Press Freedom Index.[379] According to Freedom House, all media outlets serve as government mouthpieces, all journalists are Party members and listening to foreign broadcasts carries the threat of a death penalty.[380] The main news provider is the Korean Central News Agency. All 12 major newspapers and 20 periodicals, including _Rodong Sinmun_, are published in the capital.[381]
 
@@ -396,7 +390,7 @@ Media coverage of North Korea has often been inadequate as a result of the count
 
 Cuisine
 
-North_Korean_Bibimbap_비빔밥_(12330376074).jpg'']]
+'']]
 
 Korean cuisine has evolved through centuries of social and political change. Originating from ancient agricultural and nomadic traditions in southern Manchuria and the Korean Peninsula, it has gone through a complex interaction of the natural environment and different cultural trends.[391] Rice dishes and kimchi are staple Korean food. In a traditional meal, they accompany both side dishes (_panch'an_) and main courses like _juk_, _pulgogi_ or noodles. _Soju_ liquor is the best-known traditional Korean spirit.[392]
 
@@ -404,7 +398,7 @@ North Korea's most famous restaurant, Okryu-gwan, located in Pyongyang, is known
 
 Sports
 
-FIFA_World_Cup_2010_Brazil_North_Korea_7.jpg Laika_ac_Arirang_Mass_Games_(7934639696).jpg]]
+]]
 
 Most schools have daily practice in association football, basketball, table tennis, gymnastics, boxing and others. The DPR Korea League is popular inside the country and its games are often televised. The national football team, _Chollima_, competed in the FIFA World Cup in 2010, when it lost all three matches against Brazil, Portugal and Ivory Coast.[398] Its 1966 appearance was much more successful, seeing a surprise 1–0 victory over Italy and a quarter final loss to Portugal by 3–5.[399] A national team represents the nation in international basketball competitions as well. In December 2013, former American basketball professional Dennis Rodman visited North Korea to help train the national team after he developed a friendship with Kim Jong-un.[400]
 

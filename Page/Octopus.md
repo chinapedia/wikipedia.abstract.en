@@ -14,19 +14,17 @@ Anatomy and physiology
 
 Size
 
-North_Pacific_Giant_Octopus.JPG
-
 The giant Pacific octopus _(Enteroctopus dofleini)_ is often cited as the largest known octopus species. Adults usually weigh around 15 kg (33 lb), with an arm span of up to 4.3 m (14 ft).[12] The largest specimen of this species to be scientifically documented was an animal with a live mass of 71 kg (156.5 lb).[13] Much larger sizes have been claimed for the giant Pacific octopus:[14] one specimen was recorded as 272 kg (600 lb) with an arm span of 9 m (30 ft).[15] A carcass of the seven-arm octopus, _Haliphron atlanticus_, weighed 61 kg (134 lb) and was estimated to have had a live mass of 75 kg (165 lb).[16][17] The smallest species is _Octopus wolfi_, which is around and weighs less than .[18]
 
 External characteristics
 
 The octopus is bilaterally symmetrical along its dorso-ventral axis; the head and foot are at one end of an elongated body and function as the anterior (front) of the animal. The head includes the mouth and brain. The foot has evolved into a set of flexible, prehensile appendages, known as "arms", that surround the mouth and are attached to each other near their base by a webbed structure.[19] The arms can be described based on side and sequence position (such as L1, R1, L2, R2) and divided into four pairs.[20] The two rear appendages are generally used to walk on the sea floor, while the other six are used to forage for food; hence some biologists refer to the animals as having six "arms" and two "legs".[21][22] The bulbous and hollow mantle is fused to the back of the head and is known as the visceral hump; it contains most of the vital organs. The mantle cavity has muscular walls and contains the gills; it is connected to the exterior by a funnel or siphon.[23][24] The mouth of an octopus, located underneath the arms, has a sharp hard beak.
 
-Schematic_lateral_aspect_of_octopod_features.jpg (eyespot), web, arms, suckers, hectocotylus and ligula labelled.]]
+(eyespot), web, arms, suckers, hectocotylus and ligula labelled.]]
 
 The skin consists of a thin outer epidermis with mucous cells and sensory cells, and a connective tissue dermis consisting largely of collagen fibres and various cells allowing colour change.[25] Most of the body is made of soft tissue allowing it to lengthen, contract, and contort itself. The octopus can squeeze through tiny gaps; even the larger species can pass through an opening close to in diameter. Lacking skeletal support, the arms work as muscular hydrostats and contain longitudinal, transverse and circular muscles around a central axial nerve. They can extend and contract, twist to left or right, bend at any place in any direction or be held rigid.[26][27]
 
-The interior surfaces of the arms are covered with circular, adhesive suckers. The suckers allow the octopus to anchor itself or to manipulate objects. Each sucker is usually circular and bowl-like and has two distinct parts: an outer shallow cavity called an infundibulum and a central hollow cavity called an acetabulum, both of which are thick muscles covered in a protective chitinous cuticle. When a sucker attaches to a surface, the orifice between the two structures is sealed. The infundibulum provides adhesion while the acetabulum remains free, and muscle contractions allow for attachment and detachment.[28][29] Dumbo-hires_(cropped).jpg'' species with its atypical octopus body plan.|alt=A stubby round sea-creature with short ear-like fins]]
+The interior surfaces of the arms are covered with circular, adhesive suckers. The suckers allow the octopus to anchor itself or to manipulate objects. Each sucker is usually circular and bowl-like and has two distinct parts: an outer shallow cavity called an infundibulum and a central hollow cavity called an acetabulum, both of which are thick muscles covered in a protective chitinous cuticle. When a sucker attaches to a surface, the orifice between the two structures is sealed. The infundibulum provides adhesion while the acetabulum remains free, and muscle contractions allow for attachment and detachment.[28][29] '' species with its atypical octopus body plan.|alt=A stubby round sea-creature with short ear-like fins]]
 
 The eyes of the octopus are large and are at the top of the head. They are similar in structure to those of a fish and are enclosed in a cartilaginous capsule fused to the cranium. The cornea is formed from a translucent epidermal layer and the slit-shaped pupil forms a hole in the iris and lies just behind. The lens is suspended behind the pupil and photoreceptive retinal cells cover the back of the eye. The pupil can be adjusted in size and a retinal pigment screens incident light in bright conditions.[30]
 
@@ -40,8 +38,6 @@ The systemic heart has muscular contractile walls and consists of a single ventr
 
 Respiration
 
-Octopus_vulgaris_Cuvier,_1797_2.jpg
-
 Respiration involves drawing water into the mantle cavity through an aperture, passing it through the gills, and expelling it through the siphon. The ingress of water is achieved by contraction of radial muscles in the mantle wall, and flapper valves shut when strong circular muscles force the water out through the siphon.[35] Extensive connective tissue lattices support the respiratory muscles and allow them to expand the respiratory chamber. The lamella structure of the gills allows for a high oxygen uptake; up to 65% in water at .[36] Water flow over the gills correlates with locomotion, and an octopus can propel its body when it expels water out of its siphon.[37]
 
 The thin skin of the octopus absorbs additional oxygen. When resting, around 41% of an octopus's oxygen absorption is through the skin. This decreases to 33% when it swims, as more water flows over the gills; skin oxygen uptake also increases. When it is resting after a meal, absorption through the skin can drop to 3% of its total oxygen uptake.[38]
@@ -52,13 +48,13 @@ The digestive system of the octopus begins with the buccal mass which consists o
 
 During osmoregulation, fluid is added to the pericardia of the branchial hearts. The octopus has two nephridia (equivalent to vertebrate kidneys) which are associated with the branchial hearts; these and their associated ducts connect the pericardial cavities with the mantle cavity. Before reaching the branchial heart, each branch of the vena cava expands to form renal appendages which are in direct contact with the thin-walled nephridium. The urine is first formed in the pericardial cavity, and is modified by excretion, chiefly of ammonia, and selective absorption from the renal appendages, as it is passed along the associated duct and through the nephridiopore into the mantle cavity.[40]
 
-Moving_Octopus_Vulgaris_2005-01-14.ogv (_Octopus vulgaris_) moving around. Its nervous system allows the arms to move with some autonomy.|alt=video of an octopus crawling about, its suckered arms moving]]
+(_Octopus vulgaris_) moving around. Its nervous system allows the arms to move with some autonomy.|alt=video of an octopus crawling about, its suckered arms moving]]
 
 Nervous system and senses
 
 The octopus (along with cuttlefish) has the highest brain-to-body mass ratios of all invertebrates; it is also greater than that of many vertebrates.[41][42] It has a highly complex nervous system, only part of which is localised in its brain, which is contained in a cartilaginous capsule.[43] Two-thirds of an octopus's neurons are found in the nerve cords of its arms, which show a variety of complex reflex actions that persist even when they have no input from the brain.[44] Unlike vertebrates, the complex motor skills of octopuses are not organised in their brain via an internal somatotopic map of its body, instead using a nonsomatotopic system unique to large-brained invertebrates.[45]
 
-Reef1072_-_Flickr_-_NOAA_Photo_Library.jpg|alt=Close up of an octopus showing its eye and an arm with suckers]]
+|alt=Close up of an octopus showing its eye and an arm with suckers]]
 
 Like other cephalopods, octopuses can distinguish the polarisation of light. Colour vision appears to vary from species to species, for example being present in _O. aegina_ but absent in _O. vulgaris_.[46] Researchers believe that opsins in the skin can sense different wavelengths of light and help the creatures choose a coloration that camouflages them, in addition to light input from the eyes.[47] Other researchers hypothesise that cephalopod eyes in species which only have a single photoreceptor protein may use chromatic aberration to turn monochromatic vision into colour vision, though this sacrifices image quality.[48] This would explain pupils shaped like the letter U, the letter W, or a dumbbell, as well as explaining the need for colourful mating displays.[49]
 
@@ -77,7 +73,7 @@ Lifecycle
 
 Reproduction
 
-Tremoctopus_violaceus5.jpg'' with hectocotylus|alt=Drawing of a male octopus with one large arm ending in the sexual apparatus]]
+'' with hectocotylus|alt=Drawing of a male octopus with one large arm ending in the sexual apparatus]]
 
 Octopuses are gonochoric and have a single, posteriorly-located gonad which is associated with the coelom. The testis in males and the ovary in females bulges into the gonocoel and the gametes are released here. The gonocoel is connected by the gonoduct to the mantle cavity, which it enters at the gonopore.[55] An optic gland creates hormones that cause the octopus to mature and age and stimulate gamete production. The gland may be triggered by environmental conditions such as temperature, light and nutrition, which thus control the timing of reproduction and lifespan.[56]
 
@@ -85,13 +81,11 @@ When octopuses reproduce, the male uses a specialised arm called a hectocotylus 
 
 The reproduction of octopuses has been studied in only a few species. One such species is the giant Pacific octopus, in which courtship is accompanied, especially in the male, by changes in skin texture and colour. The male may cling to the top or side of the female or position himself beside her. There is some speculation that he may first use his hectocotylus to remove any spermatophore or sperm already present in the female. He picks up a spermatophore from his spermatophoric sac with the hectocotylus, inserts it into the female's mantle cavity, and deposits it in the correct location for the species, which in the giant Pacific octopus is the opening of the oviduct. Two spermatophores are transferred in this way; these are about one metre (yard) long, and the empty ends may protrude from the female's mantle.[59] A complex hydraulic mechanism releases the sperm from the spermatophore, and it is stored internally by the female.[60]
 
-Enteroctopus_dofleini_to_spawn.jpg
-
 About forty days after mating, the female giant Pacific octopus attaches strings of small fertilised eggs (10,000 to 70,000 in total) to rocks in a crevice or under an overhang. Here she guards and cares for them for about five months (160 days) until they hatch.[61] In colder waters, such as those off of Alaska, it may take as much as 10 months for the eggs to completely develop.[62] The female aerates the eggs and keeps them clean; if left untended, many eggs will not hatch.[63] She does not feed during this time and dies soon afterwards. Males become senescent and die a few weeks after mating.[64]
 
 The eggs have large yolks; cleavage (division) is superficial and a germinal disc develops at the pole. During gastrulation, the margins of this grow down and surround the yolk, forming a yolk sac, which eventually forms part of the gut. The dorsal side of the disc grows upwards and forms the embryo, with a shell gland on its dorsal surface, gills, mantle and eyes. The arms and funnel develop as part of the foot on the ventral side of the disc. The arms later migrate upwards, coming to form a ring around the funnel and mouth. The yolk is gradually absorbed as the embryo develops.[65]
 
-Fish3566_-_Flickr_-_NOAA_Photo_Library.jpg, a planktonic hatchling|alt=A microscopic view of a small round-bodied transparent animal with very short arms]]
+, a planktonic hatchling|alt=A microscopic view of a small round-bodied transparent animal with very short arms]]
 
 Most young octopuses hatch as paralarvae and are planktonic for weeks to months, depending on the species and water temperature. They feed on copepods, arthropod larvae and other zooplankton, eventually settling on the ocean floor and developing directly into adults with no distinct metamorphoses that are present in other groups of mollusc larvae.[66] Octopus species that produce larger eggs – including the southern blue-ringed, Caribbean reef, California two-spot, _Eledone moschata_[67] and deep sea octopuses – do not have a paralarval stage, but hatch as benthic animals similar to the adults.[68][69]
 
@@ -104,8 +98,6 @@ Octopuses have a relatively short life expectancy; some species live for as litt
 
 Distribution and habitat
 
-Octopus_cyaneain_Kona.jpg
-
 Octopuses live in every ocean, and different species have adapted to different marine habitats. As juveniles, common octopuses inhabit shallow tide pools. The Hawaiian day octopus (_Octopus cyanea_) lives on coral reefs; argonauts drift in pelagic waters. _Abdopus aculeatus_ mostly lives in near-shore seagrass beds. Some species are adapted to the cold, ocean depths. The spoon-armed octopus (_Bathypolypus arcticus_) is found in abyssal plains at depths of , and _Vulcanoctopus hydrothermalis_ lives near hydrothermal vents at . The cirrate species are often free-swimming and live in deep-water habitats.[73] No species are known to live in fresh water.[74]
 
 
@@ -117,7 +109,7 @@ Octopuses bring captured prey back to the den where they can eat it safely. Some
 
 Feeding
 
-Veined_Octopus_-_Amphioctopus_Marginatus_eating_a_Crab.jpg eating a crab|alt=An octopus in an open seashell on a sandy surface, surrounding a small crab with the suckers on its arms]]
+eating a crab|alt=An octopus in an open seashell on a sandy surface, surrounding a small crab with the suckers on its arms]]
 
 Nearly all octopuses are predatory; bottom-dwelling octopuses eat mainly crustaceans, polychaete worms, and other molluscs such as whelks and clams; open-ocean octopuses eat mainly prawns, fish and other cephalopods.[79] Major items in the diet of the giant Pacific octopus include bivalve molluscs such as the cockle _Clinocardium nuttallii_, clams and scallops, and crustaceans such as crabs and spider crabs. Prey that it is likely to reject include moon snails, because they are too large, and limpets, rock scallops, chitons and abalone, because they are too securely fixed to the rock.[80]
 
@@ -127,13 +119,9 @@ Some species have other modes of feeding. _Grimpoteuthis_ has a reduced or non-e
 
 Locomotion
 
-Octopus3.jpg
-
 Octopuses mainly move about by relatively slow crawling, with some swimming in a head-first position. Jet propulsion, or backwards swimming, is their fastest means of locomotion, followed by swimming and crawling.[86] When in no hurry, they usually crawl on either solid or soft surfaces. Several arms are extended forwards, some of the suckers adhere to the substrate and the animal hauls itself forwards with its powerful arm muscles, while other arms may push rather than pull. As progress is made, other arms move ahead to repeat these actions and the original suckers detach. During crawling, the heart rate nearly doubles, and the animal requires ten or fifteen minutes to recover from relatively minor exercise.[87]
 
 Most octopuses swim by expelling a jet of water from the mantle through the siphon into the sea. The physical principle behind this is that the force required to accelerate the water through the orifice produces a reaction that propels the octopus in the opposite direction.[88] The direction of travel depends on the orientation of the siphon. When swimming, the head is at the front and the siphon is pointed backwards, but when jetting, the visceral hump leads, the siphon points towards the head and the arms trail behind, with the animal presenting a fusiform appearance. In an alternative method of swimming, some species flatten themselves dorso-ventrally, and swim with the arms held out sideways, and this may provide lift and be faster than normal swimming. Jetting is used to escape from danger, but is physiologically inefficient, requiring a mantle pressure so high as to stop the heart from beating, resulting in a progressive oxygen deficit.[89]
-
-Cirroteuthis_muelleri_NOAA.jpg
 
 Cirrate octopuses cannot produce jet propulsion and rely on their fins for swimming. They have neutral buoyancy and drift through the water with the fins extended. They can also contract their arms and surrounding web to make sudden moves known as "take-offs". Another form of locomotion is "pumping", which involves symmetrical contractions of muscles in their webs producing peristaltic waves. This moves the body slowly.[90]
 
@@ -141,15 +129,11 @@ In 2005, _Adopus aculeatus_ and veined octopus (_Amphioctopus marginatus_) were 
 
 Intelligence
 
-Oktopus_opening_a_container_with_screw_cap_02_(cropped).jpg
-
 Octopuses are highly intelligent; the extent of their intelligence and learning capability are not well defined.[97][98][99][100] Maze and problem-solving experiments have shown evidence of a memory system that can store both short- and long-term memory. It is not known precisely what contribution learning makes to adult octopus behaviour. Young octopuses learn nothing from their parents, as adults provide no parental care beyond tending to their eggs until the young octopuses hatch.[101]
 
 In laboratory experiments, octopuses can be readily trained to distinguish between different shapes and patterns. They have been reported to practise observational learning,[102] although the validity of these findings is contested.[103][104] Octopuses have also been observed in what has been described as play: repeatedly releasing bottles or toys into a circular current in their aquariums and then catching them.[105] Octopuses often break out of their aquariums and sometimes into others in search of food.[106][107][108] They have even boarded fishing boats and opened holds to eat crabs.[109] The veined octopus collects discarded coconut shells, then uses them to build a shelter, an example of tool use.[110][111][112]
 
 Camouflage and colour change
-
-Octopus.ogv
 
 Octopuses use camouflage when hunting, and to avoid predators. To do this they use specialised skin cells which change the appearance of the skin by adjusting its colour, opacity, or reflectivity. Chromatophores contain yellow, orange, red, brown, or black pigments; most species have three of these colours, while some have two or four. Other colour-changing cells are reflective iridophores and white leucophores.[113] This colour-changing ability is also used to communicate with or warn other octopuses.
 
@@ -159,7 +143,7 @@ A "moving rock" trick involves the octopus mimicking a rock and them inching acr
 
 Defence
 
-Hapalochlaena_lunulata2.JPG of greater blue-ringed octopus (_Hapalochlaena lunulata_)|alt=An octopus among coral displaying conspicuous rings of turquoise outlined in black against a sandy background]]
+of greater blue-ringed octopus (_Hapalochlaena lunulata_)|alt=An octopus among coral displaying conspicuous rings of turquoise outlined in black against a sandy background]]
 
 Aside from humans, octopuses may be preyed on by fishes, seabirds, sea otters, pinnipeds, cetaceans, and other cephalopods.[115] Octopuses typically hide or disguise themselves by camouflage and mimicry; some have conspicuous warning coloration (aposematism) or deimatic behaviour . An octopus may spend 40% of its time hidden away in its den. When the octopus is approached, it may extend an arm to investigate. 66% of _Enteroctopus dofleini_ in one study had scars, with 50% having amputated arms.[116] The blue rings of the highly venomous blue-ringed octopus are hidden in muscular skin folds which contract when the animal is threatened, exposing the iridescent warning.[117] The Atlantic white-spotted octopus (_Callistoctopus macropus_) turns bright brownish red with oval white spots all over in a high contrast display.[118] Displays are often reinforced by stretching out the animal's arms, fins or web to make it look as big and threatening as possible.[119]
 
@@ -178,7 +162,7 @@ Evolution
 
 The scientific name Octopoda was first coined and given as the order of octopuses in 1818 by English biologist William Elford Leach,[128] who classified them as Octopoida the previous year.[129] The Octopoda consists of around 300 known species and were historically divided into two suborders, the Incirrina and the Cirrina.[130] However, more recent evidence suggests that Cirrina are merely the most basal species and are not a unique clade.[131] The incirrate octopuses (the majority of species) lack the cirri and paired swimming fins of the cirrates.[132] In addition, the internal shell of incirrates is either present as a pair of stylets or absent altogether.[133]
 
--   ORDER OCTOPODAKeuppia_levante.jpg|alt=Painting of a smooth-surfaced swimming octopus]]
+-   ORDER OCTOPODA|alt=Painting of a smooth-surfaced swimming octopus]]
     -   Genus †_Keuppia_ (_incertae sedis_)
     -   Genus †_Palaeoctopus_ (_incertae sedis_)
     -   Genus †_Paleocirroteuthis_ (_incertae sedis_)
@@ -219,13 +203,13 @@ Octopuses and other coleoid cephalopods are capable of greater RNA editing (whic
 
 Relationship to humans
 
-AMI_-_Oktopusvase.jpg clay vase with octopus decoration, c. 1500 BC|alt=An ancient nearly spherical vase with 2 handles by the top, painted all over with an octopus decoration in black]]
+clay vase with octopus decoration, c. 1500 BC|alt=An ancient nearly spherical vase with 2 handles by the top, painted all over with an octopus decoration in black]]
 
 Cultural references
 
 Ancient seafaring people were aware of the octopus, as evidenced by certain artworks and designs. For example, a stone carving found in the archaeological recovery from Bronze Age Minoan Crete at Knossos (1900–1100 BC) has a depiction of a fisherman carrying an octopus.[142] The terrifyingly powerful Gorgon of Greek mythology has been thought to have been inspired by the octopus or squid, the octopus itself representing the severed head of Medusa, the beak as the protruding tongue and fangs, and its tentacles as the snakes.[143] The Kraken are legendary sea monsters of giant proportions said to dwell off the coasts of Norway and Greenland, usually portrayed in art as a giant octopus attacking ships. Linnaeus included it in the first edition of his 1735 _Systema Naturae_.[144][145] One translation of the Hawaiian creation myth the Kumulipo suggests that the octopus is the lone survivor of a previous age.[146][147][148] The Akkorokamui is a gigantic octopus-like monster from Ainu folklore.[149]
 
-NROL-39_Patch.jpg mission patch, depicting the National Reconnaissance Office as an octopus with a long reach|alt=A mission badge of an octopus spanning the world against a starry background, labelled "NROL-39" and "Nothing is beyond our reach"]]
+mission patch, depicting the National Reconnaissance Office as an octopus with a long reach|alt=A mission badge of an octopus spanning the world against a starry background, labelled "NROL-39" and "Nothing is beyond our reach"]]
 
 A battle with an octopus plays a significant role in Victor Hugo's book _Travailleurs de la mer_ (_Toilers of the Sea_), relating to his time in exile on Guernsey.[150] Ian Fleming's 1966 short story collection _Octopussy and The Living Daylights_, and the 1983 _James Bond_ film were partly inspired by Hugo's book.[151]
 
@@ -235,7 +219,7 @@ Since it has numerous arms emanating from a common centre, the octopus is often 
 
 Danger
 
-Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg drawing of an imagined colossal octopus attacking a ship, by the malacologist Pierre de Montfort, 1801|alt=Coloured drawing of a huge octopus rising from the sea and attacking a sailing ship's three masts with its spiralling arms]]
+drawing of an imagined colossal octopus attacking a ship, by the malacologist Pierre de Montfort, 1801|alt=Coloured drawing of a huge octopus rising from the sea and attacking a sailing ship's three masts with its spiralling arms]]
 
 Octopuses generally avoid humans, but incidents have been verified. For example, a Pacific octopus, said to be nearly perfectly camouflaged, "lunged" at a diver and "wrangled" over his camera before it let go. Another diver recorded the encounter on video.[158]
 
@@ -247,9 +231,9 @@ Octopus fisheries exist around the world with total catches varying between 245,
 
 In science and technology
 
-Octopus_vulgaris.2_-_Aquarium_Finisterrae.JPG in Corunna, Galicia, Spain. These animals are known to escape from their tanks.|alt=An octopus in an aquarium tank]]
+in Corunna, Galicia, Spain. These animals are known to escape from their tanks.|alt=An octopus in an aquarium tank]]
 
-In classical Greece, Aristotle (384–322 BC) commented on the colour-changing abilities of the octopus, both for camouflage and for signalling, in his _Historia animalium_: "The octopus ... seeks its prey by so changing its colour as to render it like the colour of the stones adjacent to it; it does so also when alarmed."[171] Aristotle noted that the octopus had a hectocotyl arm and suggested it might be used in sexual reproduction. This claim was widely disbelieved until the 19th century. It was described in 1829 by the French zoologist Georges Cuvier, who supposed it to be a parasitic worm, naming it as a new species, _Hectocotylus octopodis_.[172][173] Other zoologists thought it a spermatophore; the German zoologist Heinrich Müller believed it was "designed" to detach during copulation. In 1856 the Danish zoologist Japetus Steenstrup demonstrated that it is used to transfer sperm, and only rarely detaches.[174] OCTOPUS_arm1.JPG 'Octopus' robotics arm. The BioRobotics Institute, Scuola Superiore Sant'Anna, Pisa, 2011]] Octopuses offer many possibilities in biological research, including their ability to regenerate limbs, change the colour of their skin, behave intelligently with a distributed nervous system, and make use of 168 kinds of protocadherins (humans have 58), the proteins that guide the connections neurons make with each other. The California two-spot octopus has had its genome sequenced, allowing exploration of its molecular adaptations.[175] Having independently evolved mammal-like intelligence, octopuses have been compared to hypothetical intelligent extraterrestrials.[176] Their problem-solving skills, along with their mobility and lack of rigid structure enable them to escape from supposedly secure tanks in laboratories and public aquariums.[177]
+In classical Greece, Aristotle (384–322 BC) commented on the colour-changing abilities of the octopus, both for camouflage and for signalling, in his _Historia animalium_: "The octopus ... seeks its prey by so changing its colour as to render it like the colour of the stones adjacent to it; it does so also when alarmed."[171] Aristotle noted that the octopus had a hectocotyl arm and suggested it might be used in sexual reproduction. This claim was widely disbelieved until the 19th century. It was described in 1829 by the French zoologist Georges Cuvier, who supposed it to be a parasitic worm, naming it as a new species, _Hectocotylus octopodis_.[172][173] Other zoologists thought it a spermatophore; the German zoologist Heinrich Müller believed it was "designed" to detach during copulation. In 1856 the Danish zoologist Japetus Steenstrup demonstrated that it is used to transfer sperm, and only rarely detaches.[174] 'Octopus' robotics arm. The BioRobotics Institute, Scuola Superiore Sant'Anna, Pisa, 2011]] Octopuses offer many possibilities in biological research, including their ability to regenerate limbs, change the colour of their skin, behave intelligently with a distributed nervous system, and make use of 168 kinds of protocadherins (humans have 58), the proteins that guide the connections neurons make with each other. The California two-spot octopus has had its genome sequenced, allowing exploration of its molecular adaptations.[175] Having independently evolved mammal-like intelligence, octopuses have been compared to hypothetical intelligent extraterrestrials.[176] Their problem-solving skills, along with their mobility and lack of rigid structure enable them to escape from supposedly secure tanks in laboratories and public aquariums.[177]
 
 Due to their intelligence, octopuses are listed in some countries as experimental animals on which surgery may not be performed without anesthesia, a protection usually extended only to vertebrates. In the UK from 1993 to 2012, the common octopus (_Octopus vulgaris_) was the only invertebrate protected under the Animals (Scientific Procedures) Act 1986.[178] In 2012, this legislation was extended to include all cephalopods[179] in accordance with a general EU directive.[180]
 

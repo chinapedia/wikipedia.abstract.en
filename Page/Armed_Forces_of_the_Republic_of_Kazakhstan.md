@@ -5,7 +5,7 @@ The _Military Balance 2013_ reported the armed forces' strength as; Army, 20,000
 
 History
 
-Shevron-vsrk.svgOn May 7, 1992, the President of Kazakhstan took a number of actions regarding defence. He signed a decree on the 'establishment of the Armed Forces of the Republic of Kazakhstan', the transformation of the State Committee of Defence of the Republic of Kazakhstan into the Ministry of Defence, on the attribution of Sagadat Nurmagambetov the military rank of Colonel General, and the appointment of General-Colonel Sagadat Nurmagambetov as Defence Minister of Kazakhstan. Mukhtar Altynbayev served as the Minister of Defence twice, most recently from December 2001 to 10 January 2007.
+On May 7, 1992, the President of Kazakhstan took a number of actions regarding defence. He signed a decree on the 'establishment of the Armed Forces of the Republic of Kazakhstan', the transformation of the State Committee of Defence of the Republic of Kazakhstan into the Ministry of Defence, on the attribution of Sagadat Nurmagambetov the military rank of Colonel General, and the appointment of General-Colonel Sagadat Nurmagambetov as Defence Minister of Kazakhstan. Mukhtar Altynbayev served as the Minister of Defence twice, most recently from December 2001 to 10 January 2007.
 
 On June 30, 1992, the Soviet Armed Forces' Turkestan Military District disbanded, following the collapse of the Soviet Union. The most powerful grouping of forces from the Turkestan Military District then became the core of Kazakhstan's new military. Kazakhstan acquired all the units of the 40th Army (the former 32nd Army) and part of the 17th Army Corps, including 6 land force divisions, storage bases, the 14th and 35th air-landing brigades, 2 rocket brigades, 2 artillery regiments and a large amount of equipment which had been withdrawn from over the Urals after the signing of the Treaty on Conventional Armed Forces in Europe.
 
@@ -23,8 +23,6 @@ Kazakhstan is a founding member of CSTO and SCO. Kazakhstan also has an Individu
 
 
 Ground forces
-
-ВО_Казахстана.svg
 
 The 32nd Army had been serving in Kazakhstan for many years. The 32nd Army had been redesignated initially the 1st Army Corps (1988), then the 40th Army (June 1991). It came under Kazakh control in May 1992. On November 1, 1992, on the basis of units of the former Soviet 40th Army of the Turkestan Military District, the First Army Corps was created, with its headquarters in Semipalatinsk.[5] Later, at its base was established the Eastern Military District, retitled on 13 November 2003 as Regional Command East.
 
@@ -46,7 +44,7 @@ There are also the Air Defence Forces, the Airmobile Forces with four brigades, 
 
 Airmobile forces
 
-Бойцы_АэроМобильных_Войск_в_полевой_экипировке.JPG The Airmobile Forces were formed by grouping the 35th Guards Air Assault Brigade with new brigades formed from previous Soviet units. The 35th Guards Air Assault Brigade arrived from Germany in April 1991, and was taken over by Kazakhstan in 1992. Near Karaganda was the 5204th Base for Storage of Weapons and Equipment, the remnants of a motor rifle division.[10] In 1998 two motorized rifle brigades were created from the former storage base. One of which was left near Karaganda, and another called 2nd Separate Motor Rifle Brigade and was relocated 200 kilometers to the north of Nur-Sultan, which by that time was the capital, and for that reason ought to have a decent court garrison. No units were stationed in Nur-Sultan (Astana) during the Soviet period. In October 2003, the 36th Separate Air Assault Brigade was formed on the basis of the 2nd Motor Rifle Brigade. On the basis of Taldykorgan Motor Rifle Regiment, 173rd Sary Ozekskoy Motor Rifle Division, in April 2003 was formed the 37th Separate Air Assault Brigade.
+The Airmobile Forces were formed by grouping the 35th Guards Air Assault Brigade with new brigades formed from previous Soviet units. The 35th Guards Air Assault Brigade arrived from Germany in April 1991, and was taken over by Kazakhstan in 1992. Near Karaganda was the 5204th Base for Storage of Weapons and Equipment, the remnants of a motor rifle division.[10] In 1998 two motorized rifle brigades were created from the former storage base. One of which was left near Karaganda, and another called 2nd Separate Motor Rifle Brigade and was relocated 200 kilometers to the north of Nur-Sultan, which by that time was the capital, and for that reason ought to have a decent court garrison. No units were stationed in Nur-Sultan (Astana) during the Soviet period. In October 2003, the 36th Separate Air Assault Brigade was formed on the basis of the 2nd Motor Rifle Brigade. On the basis of Taldykorgan Motor Rifle Regiment, 173rd Sary Ozekskoy Motor Rifle Division, in April 2003 was formed the 37th Separate Air Assault Brigade.
 
 -   the 35th Guards Air Assault Brigade at Kapshagai,
 -   the 36th Air Assault Brigade at Nur-Sultan,
@@ -56,7 +54,7 @@ Airmobile forces
 
 Ground forces equipment
 
-Paradbaku98_(modified).jpg ]] T-72B_-TankBiathlon2013-28.jpg main battle tank]]
+]] main battle tank]]
 
   Name                       Origin          Type                        In service   Notes
   -------------------------- --------------- --------------------------- ------------ ---------------------------------------
@@ -72,16 +70,12 @@ Paradbaku98_(modified).jpg ]] T-72B_-TankBiathlon2013-28.jpg main battle tank]]
 
 Security agencies and commando units
 
-Kazakhstan_Republican_Guard.JPEG
-
 There are a number of special forces units reporting to various Kazakh security agencies which are not part of the Armed Forces. Examples of this include an Arystan Commando Unit and a Border Guard of the National Security Committee of the Republic of Kazakhstan (KNS), the Police have units, and the Kazakh Presidency.
 
 Additionally, a small Republican Guard exists, with 2,500 soldiers (1994), but this force is not considered as a part of the Army. The Republican Guard was established on March 6, 1992, when the President of Kazakhstan signed a decree on their creation. The Republican Guard was established on the basis of a separate brigade of operational designation of the Internal Troops deployed in the village of Kaskelen district of Almaty region.[22] Two Republican Guard regiments were created, stationed in Nur-Sultan and Almaty.
 
 
 Air and air defence forces
-
-Roundel_of_Kazakhstan.svg
 
 At the time of the dissolution of the Soviet Union, the 24th Fighter-Bomber Aviation Division with three aviation regiments and three separate regiments was stationed in Kazakhstan.[23] By late 1993 the Kazakhstan Air Force comprised a total of six regiments, with a further air defence fighter regiment. The 11th Division included the 129th Fighter-Bomber Regiment based at Taldy Kurgan, with MiG-27 'Flogger' aircraft and the 134th Fighter-Bomber Regiment at Zhangiz-tobe with MiG-27s. There was also the 149th Bomber Regiment at Zhetigen/Nikolayevka, with Sukhoi Su-24 'Fencers'. Independent elements comprised the 715th Fighter Regiment at Lugovaya, with MiG-29s and MiG-23 'Floggers'; the 39th Reconnaissance Regiment at Balkhash, with MiG-25RBs and Su-24MR 'Fencer' aircraft, and the 486th Helicopter Regiment based at Ucharal with Mi-24 'Hind'. The sole air defence fighter aviation regiment was the 356th Fighter Aviation Regiment at Semipalatinsk with MiG-31 air defence fighters. The Air Force was under the command of Major General Aliy Petrovich Volkov.
 
@@ -98,7 +92,7 @@ Aircraft
 
 Current inventory
 
-A_Kazakh_Sukhoi_Su-27P(modified).jpg]] Kazakhstan_Air_Force_Sukhoi_Su-25_Pichugin-1.jpg]] Kazakhstan_Border_Guards_Antonov_An-72-100_Batuzak-1.jpg of Kazakh Air Force]]
+]] ]] of Kazakh Air Force]]
 
 +-------------------------+----------------------------+--------------------------------------+--------------------------------------+------------+--------------------------------------+
 | Aircraft                | Origin                     | Type                                 | Variant                              | In service | Notes                                |
@@ -160,7 +154,7 @@ In May 2012, Kazakhstan signed a letter of intent to acquire 20 Eurocopter EC725
 
 Naval forces
 
-Emblem-vmsrk.svg Naval_Ensign_of_Kazakhstan.svg Kazakhstan's Naval Forces were established by presidential decree on 7 May 2003 in spite of being the largest landlocked country on earth. They operate on the Caspian Sea, based at Aktau. The Kazakh Naval Force has a strength of 3,000 personnel and is equipped with fourteen inshore patrol craft.[45]
+Kazakhstan's Naval Forces were established by presidential decree on 7 May 2003 in spite of being the largest landlocked country on earth. They operate on the Caspian Sea, based at Aktau. The Kazakh Naval Force has a strength of 3,000 personnel and is equipped with fourteen inshore patrol craft.[45]
 
 Equipment
 
@@ -178,7 +172,7 @@ The naval aviation base in Aktau was opened eight years later, in 2011. The 612t
 
 Higher educational institutions
 
-Kazakh_Cadets_in_Moscow_Parade.jpg march in the 2015 Moscow Victory Day Parade.]]
+march in the 2015 Moscow Victory Day Parade.]]
 
 The following institutions are the main military academies in Kazakhstan:
 

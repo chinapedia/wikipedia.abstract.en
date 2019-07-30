@@ -1,6 +1,6 @@
 This is a list of notable and representative Polish composers.
 
-NOTE: This list should contain notable composers, best with an existing article on Wikipedia. If a notable Polish composer is missing and without an article, please add the name here. Frederic_Chopin_photo.jpeg]] Moniuszkoportrait.jpg]] Karol_Szymanowski.jpg]] Lutoslawski3.jpg]] Krzysztof_Penderecki_20080706.jpg]] Henryk_Mikołaj_Górecki_Polish_composer.jpg]] Wojciech_Kilar_2.jpg]]
+NOTE: This list should contain notable composers, best with an existing article on Wikipedia. If a notable Polish composer is missing and without an article, please add the name here. ]] ]] ]] ]] ]] ]] ]]
 
 
 Middle Ages

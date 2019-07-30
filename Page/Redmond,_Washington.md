@@ -50,7 +50,7 @@ The median income for a household in the city was $66,735, and the median income
 
 Economy
 
-Microsoft_building_17_front_door.jpg Nintendo_of_America_Headquarters.jpg Several companies in the high-tech industry are based in Redmond. The largest employer in the city by far is Microsoft Corporation, which moved its headquarters to Redmond in 1986. Microsoft has over 40,000[14] blue badge FTEs (full-time employee), 45,000 orange badge contractors (as of June 2012, there are over 94,000 workers, and over half are contractors), and more than 8 million square feet (750,000 square meters) of office space in the Seattle area Eastside region, primarily in Redmond, with additional offices in Bellevue and Issaquah (90,000 employees worldwide). In June 2006, Microsoft purchased former Safeco's Redmond campus at 4515-5069 154th Place NE for $220.5 million.[15]
+Several companies in the high-tech industry are based in Redmond. The largest employer in the city by far is Microsoft Corporation, which moved its headquarters to Redmond in 1986. Microsoft has over 40,000[14] blue badge FTEs (full-time employee), 45,000 orange badge contractors (as of June 2012, there are over 94,000 workers, and over half are contractors), and more than 8 million square feet (750,000 square meters) of office space in the Seattle area Eastside region, primarily in Redmond, with additional offices in Bellevue and Issaquah (90,000 employees worldwide). In June 2006, Microsoft purchased former Safeco's Redmond campus at 4515-5069 154th Place NE for $220.5 million.[15]
 
 Other companies with headquarters in Redmond include Nintendo of America, Genie Industries, Physio-Control, Visible.net, WildTangent, Solstice (acquired by Samsung) and Data I/O.
 
@@ -126,28 +126,28 @@ Landmarks
 Redmond has designated the following landmarks:[31]
 
   Landmark                                                               Built        Listed     Address                                               Photo
-  ---------------------------------------------------------------------- ------------ ---------- ----------------------------------------------------- ---------------------------------------------------------------
-  Bill Brown Saloon                                                      1913         unknown    7824 Leary Way NE                                     Bill_Brown_Saloon-Matador.jpg
+  ---------------------------------------------------------------------- ------------ ---------- ----------------------------------------------------- -------
+  Bill Brown Saloon                                                      1913         unknown    7824 Leary Way NE
   Brown's Garage                                                         1920         unknown    16389 Redmond Way
-  Conrad Olson Farmstead                                                 1905         unknown    18834 NE 95th Street                                  Conrad_Olson_Farmstead.jpg
-  Haida House Studio (workplace of Dudley Carter)                        1988         unknown    7747 159th Avenue NE                                  Haida_House,_Redmond,_Washington,_USA,_June_2011.png
-  Earl and Elise McWhirter Farm (Hutcheson Homestead)                    circa 1936   unknown    19545 NE Redmond Road                                 Earl_and_Elise_McWhirter_Farm_(Hutcheson_Homestead).jpg
-  Justice White House (Hotel Redmond)                                    1889         unknown    7529 Leary Way NE                                     Justice_White_House_-_Redmond.jpg
+  Conrad Olson Farmstead                                                 1905         unknown    18834 NE 95th Street
+  Haida House Studio (workplace of Dudley Carter)                        1988         unknown    7747 159th Avenue NE
+  Earl and Elise McWhirter Farm (Hutcheson Homestead)                    circa 1936   unknown    19545 NE Redmond Road
+  Justice White House (Hotel Redmond)                                    1889         unknown    7529 Leary Way NE
   Lodge Hall (Redmond Hardware, Gerk's, Edge & Spoke)                    1903         unknown    7875 Leary Way NE
-  O.A. Wiley Home (The Stone House)[32]                                  1916         2007[33]   16244 Cleveland Street                                O.A._Wiley_Home.jpg
-  Odd Fellows Hall (Redmond's Bar & Grill)                               1903         unknown    7979 Leary Way NE                                     Odd_Fellows_Hall_-_Redmond%27s_Bar_%26_Grill.jpg
-  Perrigo Farm House                                                     1909         unknown    17325 NE 85th Place                                   Perrigo_Farm_House.jpg
-  Redmond City Park (Albert Anderson Memorial Park)                      1938         2008       7802 168th Avenue NE                                  Redmond,_WA_-_Anderson_Park_pano.jpg
-  Redmond Methodist Episcopal Church (Redmond United Methodist Church)   1908         unknown    16540 NE 80th Street                                  Redmond_United_Methodist_Church.jpg
-  Redmond Pioneer Cemetery                                               1904         unknown    180th Avenue NE between NE 70th and NE 76th Streets   Redmond_Pioneer_Cemetery_AKA_Redmond_Community_Cemetery.jpg
-  Redmond School (Old Redmond Schoolhouse Community Center)              1922         unknown    16600 NE 80th Street                                  Redmond,_WA_-_Old_Redmond_Schoolhouse_Community_Center_01.jpg
-  Redmond State Bank                                                     1911         unknown    7841 Leary Way NE                                     Redmond_State_Bank.jpg
-  Redmond Trading Company                                                1908         unknown    7805 Leary Way NE                                     Redmond_Trading_Company-Half_Price_Books.jpg
+  O.A. Wiley Home (The Stone House)[32]                                  1916         2007[33]   16244 Cleveland Street
+  Odd Fellows Hall (Redmond's Bar & Grill)                               1903         unknown    7979 Leary Way NE
+  Perrigo Farm House                                                     1909         unknown    17325 NE 85th Place
+  Redmond City Park (Albert Anderson Memorial Park)                      1938         2008       7802 168th Avenue NE
+  Redmond Methodist Episcopal Church (Redmond United Methodist Church)   1908         unknown    16540 NE 80th Street
+  Redmond Pioneer Cemetery                                               1904         unknown    180th Avenue NE between NE 70th and NE 76th Streets
+  Redmond School (Old Redmond Schoolhouse Community Center)              1922         unknown    16600 NE 80th Street
+  Redmond State Bank                                                     1911         unknown    7841 Leary Way NE
+  Redmond Trading Company                                                1908         unknown    7805 Leary Way NE
 
 
 Parks and recreation
 
-Marymoor_Park_climbing_rock.jpg ]] According to the city's website, Redmond has 47 public parks totaling over .[34] Many of these are neighborhood parks with picnic tables and sports fields or courts. The largest park within the city is not owned by the city – it is King County's Marymoor Park, one of the most popular in King County. It features a climbing rock, a model airplane flying field, a 48-acre off-leash dog park, an outdoor theater, sports fields such as baseball and soccer, a playground, tennis courts, a community garden, cricket pitch, and a velodrome, which hosts the FSA Star Crossed – Redmond cyclo-cross competition in September.
+]] According to the city's website, Redmond has 47 public parks totaling over .[34] Many of these are neighborhood parks with picnic tables and sports fields or courts. The largest park within the city is not owned by the city – it is King County's Marymoor Park, one of the most popular in King County. It features a climbing rock, a model airplane flying field, a 48-acre off-leash dog park, an outdoor theater, sports fields such as baseball and soccer, a playground, tennis courts, a community garden, cricket pitch, and a velodrome, which hosts the FSA Star Crossed – Redmond cyclo-cross competition in September.
 
 The city offers over of public trails for hiking, bicycling, and horseback riding. The Sammamish River Trail connects to the Puget Power trail, the Burke-Gilman Trail (in Bothell), and the East Lake Sammamish Trail.
 

@@ -3,7 +3,7 @@ KNUD JOHAN VICTOR RASMUSSEN (; 7 June 1879 – 21 December 1933) was a Greenlan
 
 Early years
 
-Rasmussenhaus.JPG Rasmussen was born in Jakobshavn, Greenland, the son of a Danish missionary, the vicar Christian Rasmussen, and an Inuit–Danish mother, Lovise Rasmussen (née Fleischer). He had two siblings.
+Rasmussen was born in Jakobshavn, Greenland, the son of a Danish missionary, the vicar Christian Rasmussen, and an Inuit–Danish mother, Lovise Rasmussen (née Fleischer). He had two siblings.
 
 Rasmussen spent his early years in Greenland among the Kalaallit where he learned to speak Kalaallisut, hunt, drive dog sleds and live in harsh Arctic conditions. "My playmates were native Greenlanders; from the earliest boyhood I played and worked with the hunters, so even the hardships of the most strenuous sledge-trips became pleasant routine for me."[4]
 
@@ -18,7 +18,7 @@ In 1910, Rasmussen and friend Peter Freuchen established the Thule Trading Stati
 
 The First Thule Expedition (1912, Rasmussen and Freuchen) aimed to test Robert Peary's claim that a channel divided Peary Land from Greenland. They proved this was not the case in a remarkable journey across the inland ice that almost killed them.[10] Clements Markham, president of the Royal Geographical Society, called the journey the "finest ever performed by dogs."[11] Freuchen wrote personal accounts of this journey (and others) in _Vagrant Viking_ (1953) and _I Sailed with Rasmussen_ (1958).
 
-Knud_Rasmussen_1924.jpg The Second Thule Expedition (1916–1918) was larger with a team of seven men, which set out to map a little-known area of Greenland's north coast. This journey was documented in Rasmussen's account _Greenland by the Polar Sea_ (1921). The trip was beset with two fatalities, the only in Rasmussen's career,[12] namely Thorild Wulff and Hendrik Olsen. The Third Thule Expedition (1919) was depot-laying for Roald Amundsen's polar drift in _Maud_.[13] The Fourth Thule Expedition (1919–1920) was in east Greenland where Rasmussen spent several months collecting ethnographic data near Angmagssalik.[14]
+The Second Thule Expedition (1916–1918) was larger with a team of seven men, which set out to map a little-known area of Greenland's north coast. This journey was documented in Rasmussen's account _Greenland by the Polar Sea_ (1921). The trip was beset with two fatalities, the only in Rasmussen's career,[12] namely Thorild Wulff and Hendrik Olsen. The Third Thule Expedition (1919) was depot-laying for Roald Amundsen's polar drift in _Maud_.[13] The Fourth Thule Expedition (1919–1920) was in east Greenland where Rasmussen spent several months collecting ethnographic data near Angmagssalik.[14]
 
 Rasmussen's "greatest achievement"[15] was the massive Fifth Thule Expedition (1921–1924) which was designed to "attack the great primary problem of the origin of the Eskimo race."[16] A ten volume account (_The Fifth Thule Expedition 1921–1924_ (1946)) of ethnographic, archaeological and biological data was collected, and many artifacts are still on display in museums in Denmark. The team of seven first went to eastern Arctic Canada where they began collecting specimens, taking interviews (including the shaman Aua, who told him of Uvavnuk), and excavating sites.
 

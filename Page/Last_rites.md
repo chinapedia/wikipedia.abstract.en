@@ -1,11 +1,11 @@
-Last_Rites_ca_1600.jpg, c. 1600)]]
+, c. 1600)]]
 
 The LAST RITES, in Roman Catholicism, are the last prayers and ministrations given to an individual of the faith, when possible, shortly before death. The last rites go by various names. They may be administered to those awaiting execution, mortally injured, or terminally ill.
 
 
 Roman Catholic Church
 
-Joseph_T._O'Callahan_gives_last_rites_to_an_injured_crewman_aboard_USS_Franklin_(CV-13),_19_March_1945.jpg, Lieutenant Commander Joseph T. O'Callahan, administering the last rites to an injured crewman aboard USS _Franklin_, after the ship was set afire by a Japanese air attack, 19 March 1945]]
+, Lieutenant Commander Joseph T. O'Callahan, administering the last rites to an injured crewman aboard USS _Franklin_, after the ship was set afire by a Japanese air attack, 19 March 1945]]
 
 What in the judgment of the Roman Catholic Church are properly described as the Last Rites are Viaticum (Holy Communion administered to someone who is dying), and the ritual prayers of Commendation of the Dying, and Prayers for the Dead.[1]
 
@@ -26,7 +26,7 @@ People awaiting execution would receive Confession and Viaticum, but not Anointi
 
 Orthodox and Eastern Catholic Churches
 
-Prithastie_ranennogo.jpg priest administering the last rites to a soldier on the field of battle]]
+priest administering the last rites to a soldier on the field of battle]]
 
 In the Orthodox Church and those Eastern Catholic Churches which follow the Byzantine Rite, the last rites consist of the Sacred Mysteries (sacraments) of Confession and the reception of Holy Communion.
 

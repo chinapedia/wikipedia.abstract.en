@@ -5,7 +5,7 @@ Early life
 
 Escape from the Holocaust
 
-Roald_Hoffmann_05.jpg Hoffmann was born in Złoczów, Second Polish Republic (now Zolochiv, Ukraine), to a Polish-Jewish family, and was named in honor of the Norwegian explorer Roald Amundsen. His parents were Clara (Rosen), a teacher, and Hillel Safran, a civil engineer.[6] After Germany invaded Poland and occupied the town, his family was placed in a labor camp where his father, who was familiar with much of the local infrastructure, was a valued prisoner. As the situation grew more dangerous, with prisoners being transferred to extermination camps, the family bribed guards to allow an escape and arranged with a Ukrainian neighbor named Mykola Dyuk for Hoffmann, his mother, two uncles and an aunt to hide in the attic and a storeroom of the local schoolhouse, where they remained for eighteen months, from January 1943 to June 1944, while Hoffmann was aged 5 to 7.[7]
+Hoffmann was born in Złoczów, Second Polish Republic (now Zolochiv, Ukraine), to a Polish-Jewish family, and was named in honor of the Norwegian explorer Roald Amundsen. His parents were Clara (Rosen), a teacher, and Hillel Safran, a civil engineer.[6] After Germany invaded Poland and occupied the town, his family was placed in a labor camp where his father, who was familiar with much of the local infrastructure, was a valued prisoner. As the situation grew more dangerous, with prisoners being transferred to extermination camps, the family bribed guards to allow an escape and arranged with a Ukrainian neighbor named Mykola Dyuk for Hoffmann, his mother, two uncles and an aunt to hide in the attic and a storeroom of the local schoolhouse, where they remained for eighteen months, from January 1943 to June 1944, while Hoffmann was aged 5 to 7.[7]
 
 His father remained at the labor camp, but was able to occasionally visit, until he was tortured and killed by the Germans for his involvement in a plot to arm the camp prisoners. When she received the news, his mother attempted to contain her sorrow by writing down her feelings in a notebook her husband had been using to take notes on a relativity textbook he had been reading. While in hiding his mother kept Hoffmann entertained by teaching him to read and having him memorize geography from textbooks stored in the attic, then quizzing him on it. He referred to the experience as having been enveloped in a cocoon of love.[8]
 
@@ -51,8 +51,6 @@ He co-authored with Carl Djerassi the play _Oxygen_, about the discovery of oxyg
 
 
 Honors and awards
-
-Roald_Hoffmann_HD2006_AIC_Gold_Medal.JPG
 
 Nobel Prize in Chemistry
 

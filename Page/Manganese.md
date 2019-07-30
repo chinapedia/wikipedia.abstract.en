@@ -11,7 +11,7 @@ Characteristics
 
 Physical properties
 
-Manganese_electrolytic_and_1cm3_cube.jpg Manganese is a silvery-gray metal that resembles iron. It is hard and very brittle, difficult to fuse, but easy to oxidize.[2] Manganese metal and its common ions are paramagnetic.[3] Manganese tarnishes slowly in air and oxidizes ("rusts") like iron in water containing dissolved oxygen.
+Manganese is a silvery-gray metal that resembles iron. It is hard and very brittle, difficult to fuse, but easy to oxidize.[2] Manganese metal and its common ions are paramagnetic.[3] Manganese tarnishes slowly in air and oxidizes ("rusts") like iron in water containing dissolved oxygen.
 
 Isotopes
 
@@ -21,11 +21,11 @@ Manganese is part of the iron group of elements, which are thought to be synthes
 
 Oxidation States
 
-Chlorid_manganatý.JPG crystals – the pale pink color of Mn(II) salts is due to a spin-forbidden 3d transition.[8]]]
+crystals – the pale pink color of Mn(II) salts is due to a spin-forbidden 3d transition.[8]]]
 
 The most common oxidation states of manganese are +2, +3, +4, +6, and +7, though all oxidation states from −3 to +7 have been observed. Mn²⁺ often competes with Mg²⁺ in biological systems. Manganese compounds where manganese is in oxidation state +7, which are mostly restricted to the unstable oxide Mn₂O₇, compounds of the intensely purple permanganate anion MnO₄^(−), and a few oxyhalides (MnO₃F and MnO₃Cl), are powerful oxidizing agents.[9] Compounds with oxidation states +5 (blue) and +6 (green) are strong oxidizing agents and are vulnerable to disproportionation.
 
-KMnO4_in_H2O.jpg The most stable oxidation state for manganese is +2, which has a pale pink color, and many manganese(II) compounds are known, such as manganese(II) sulfate (MnSO₄) and manganese(II) chloride (MnCl₂). This oxidation state is also seen in the mineral rhodochrosite (manganese(II) carbonate). Manganese(II) most commonly exists with a high spin, S = 5/2 ground state because of the high pairing energy for manganese(II). However, there are a few examples of low-spin, S =1/2 manganese(II).[10][11] There are no spin-allowed d–d transitions in manganese(II), explaining why manganese(II) compounds are typically pale to colorless.[12]
+The most stable oxidation state for manganese is +2, which has a pale pink color, and many manganese(II) compounds are known, such as manganese(II) sulfate (MnSO₄) and manganese(II) chloride (MnCl₂). This oxidation state is also seen in the mineral rhodochrosite (manganese(II) carbonate). Manganese(II) most commonly exists with a high spin, S = 5/2 ground state because of the high pairing energy for manganese(II). However, there are a few examples of low-spin, S =1/2 manganese(II).[10][11] There are no spin-allowed d–d transitions in manganese(II), explaining why manganese(II) compounds are typically pale to colorless.[12]
 
 +--------------------------------------+
 | Oxidation states of manganese[13]    |
@@ -58,13 +58,13 @@ History
 
 The origin of the name manganese is complex. In ancient times, two black minerals from Magnesia (located within modern Greece) were both called _magnes_ from their place of origin, but were considered to differ in gender. The masculine _magnes_ attracted iron, and was the iron ore now known as lodestone or magnetite, and which probably gave us the term magnet. The feminine _magnes_ ore did not attract iron, but was used to decolorize glass. This feminine _magnes_ was later called _magnesia_, known now in modern times as pyrolusite or manganese dioxide. Neither this mineral nor elemental manganese is magnetic. In the 16th century, manganese dioxide was called _manganesum_ (note the two Ns instead of one) by glassmakers, possibly as a corruption and concatenation of two words, since alchemists and glassmakers eventually had to differentiate a _magnesia negra_ (the black ore) from _magnesia alba_ (a white ore, also from Magnesia, also useful in glassmaking). Michele Mercati called magnesia negra _manganesa_, and finally the metal isolated from it became known as _manganese_ (German: _Mangan_). The name _magnesia_ eventually was then used to refer only to the white magnesia alba (magnesium oxide), which provided the name magnesium for the free element when it was isolated much later.[16]
 
-Lascaux_painting.jpg, France, use manganese-based pigments.[17]]]
+, France, use manganese-based pigments.[17]]]
 
 Several colorful oxides of manganese, for example manganese dioxide, are abundant in nature and have been used as pigments since the Stone Age. The cave paintings in Gargas that are 30,000 to 24,000 years old contain manganese pigments.[18]
 
 Manganese compounds were used by Egyptian and Roman glassmakers, either to add to, or remove color from glass.[19] Use as "glassmakers soap" continued through the Middle Ages until modern times and is evident in 14th-century glass from Venice.[20]
 
-Gahn_Johan_Gottlieb.jpg.]]
+.]]
 
 Because it was used in glassmaking, manganese dioxide was available for experiments by alchemists, the first chemists. Ignatius Gottfried Kaim (1770) and Johann Glauber (17th century) discovered that manganese dioxide could be converted to permanganate, a useful laboratory reagent.[21] By the mid-18th century, the Swedish chemist Carl Wilhelm Scheele used manganese dioxide to produce chlorine. First, hydrochloric acid, or a mixture of dilute sulfuric acid and sodium chloride was made to react with manganese dioxide, later hydrochloric acid from the Leblanc process was used and the manganese dioxide was recycled by the Weldon process. The production of chlorine and hypochlorite bleaching agents was a large consumer of manganese ores.
 
@@ -79,12 +79,10 @@ Occurrence and production
 
 Manganese comprises about 1000 ppm (0.1%) of the Earth's crust, the 12th most abundant of the crust's elements.[26] Soil contains 7–9000 ppm of manganese with an average of 440 ppm.[27] Seawater has only 10 ppm manganese and the atmosphere contains 0.01 µg/m³.[28] Manganese occurs principally as pyrolusite (MnO₂), braunite, (Mn²⁺Mn³⁺₆)(SiO₁₂),[29] psilomelane (Ba,H₂O)₂Mn₅O₁₀, and to a lesser extent as rhodochrosite (MnCO₃).
 
-  ----------------------- ------------------------------ ----------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------
-  ManganeseOreUSGOV.jpg   Mineraly.sk_-_psilomelan.jpg   Spiegeleisen.jpg                                                              Dendrites01.jpg                                                                                           The_Searchlight_Rhodochrosite_Crystal.jpg
-  Manganese ore           Psilomelane (manganese ore)    Spiegeleisen is an iron alloy with a manganese content of approximately 15%   Manganese oxide dendrites on limestone from Solnhofen, Germany – a kind of pseudofossil. Scale is in mm   Mineral rhodochrosite (manganese(II) carbonate)
-  ----------------------- ------------------------------ ----------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------
+  --------------- ----------------------------- ----------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------
 
-World_Manganese_Production_2006.svg
+  Manganese ore   Psilomelane (manganese ore)   Spiegeleisen is an iron alloy with a manganese content of approximately 15%   Manganese oxide dendrites on limestone from Solnhofen, Germany – a kind of pseudofossil. Scale is in mm   Mineral rhodochrosite (manganese(II) carbonate)
+  --------------- ----------------------------- ----------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------
 
 The most important manganese ore is pyrolusite (MnO₂). Other economically important manganese ores usually show a close spatial relation to the iron ores.[30] Land-based resources are large but irregularly distributed. About 80% of the known world manganese resources are in South Africa; other important manganese deposits are in Ukraine, Australia, India, China, Gabon and Brazil.[31] According to 1978 estimate, the ocean floor has 500 billion tons of manganese nodules.[32] Attempts to find economically viable methods of harvesting manganese nodules were abandoned in the 1970s.[33] The CIA once used mining manganese modules on the ocean floor as a cover story for recovering a sunken Soviet submarine.[34]
 
@@ -94,7 +92,7 @@ Manganese is mainly mined in South Africa, Australia, China, Gabon, Brazil, Indi
 
 For the production of ferromanganese, the manganese ore is mixed with iron ore and carbon, and then reduced either in a blast furnace or in an electric arc furnace.[39] The resulting ferromanganese has a manganese content of 30 to 80%.[40] Pure manganese used for the production of iron-free alloys is produced by leaching manganese ore with sulfuric acid and a subsequent electrowinning process.[41]
 
-Manganese_Process_Flow_Diagram.jpg A more progressive extraction process involves directly reducing manganese ore in a heap leach. This is done by percolating natural gas through the bottom of the heap; the natural gas provides the heat (needs to be at least 850 °C) and the reducing agent (carbon monoxide). This reduces all of the manganese ore to manganese oxide (MnO), which is a leachable form. The ore then travels through a grinding circuit to reduce the particle size of the ore to between 150–250 μm, increasing the surface area to aid leaching. The ore is then added to a leach tank of sulfuric acid and ferrous iron (Fe²⁺) in a 1.6:1 ratio. The iron reacts with the manganese dioxide to form iron hydroxide and elemental manganese. This process yields approximately 92% recovery of the manganese. For further purification, the manganese can then be sent to an electrowinning facility.[42]
+A more progressive extraction process involves directly reducing manganese ore in a heap leach. This is done by percolating natural gas through the bottom of the heap; the natural gas provides the heat (needs to be at least 850 °C) and the reducing agent (carbon monoxide). This reduces all of the manganese ore to manganese oxide (MnO), which is a leachable form. The ore then travels through a grinding circuit to reduce the particle size of the ore to between 150–250 μm, increasing the surface area to aid leaching. The ore is then added to a leach tank of sulfuric acid and ferrous iron (Fe²⁺) in a 1.6:1 ratio. The iron reacts with the manganese dioxide to form iron hydroxide and elemental manganese. This process yields approximately 92% recovery of the manganese. For further purification, the manganese can then be sent to an electrowinning facility.[42]
 
 In 1972 the CIA's Project Azorian, through billionaire Howard Hughes, commissioned the ship _Hughes Glomar Explorer_ with the cover story of harvesting manganese nodules from the sea floor. That triggered a rush of activity to collect manganese nodules, which was not actually practical. The real mission of _Hughes Glomar Explorer_ was to raise a sunken Soviet submarine, the K-129, with the goal of retrieving Soviet code books.[43]
 
@@ -105,7 +103,7 @@ Manganese has no satisfactory substitute in its major applications in metallurgy
 
 Steel
 
-M1917helmet.jpg, a variant of Brodie helmet, made from Hadfield steel manganese alloy.]] Manganese is essential to iron and steel production by virtue of its sulfur-fixing, deoxidizing, and alloying properties, as first recognized by the British metallurgist Robert Forester Mushet (1811–1891) who, in 1856, introduced the element, in the form of Spiegeleisen, into steel for the specific purpose of removing excess dissolved oxygen, sulfur, and phosphorus in order to improve its malleability. Steelmaking,[45] including its ironmaking component, has accounted for most manganese demand, presently in the range of 85% to 90% of the total demand.[46] Manganese is a key component of low-cost stainless steel.[47][48] Often ferromanganese (usually about 80% manganese) is the intermediate in modern processes.
+, a variant of Brodie helmet, made from Hadfield steel manganese alloy.]] Manganese is essential to iron and steel production by virtue of its sulfur-fixing, deoxidizing, and alloying properties, as first recognized by the British metallurgist Robert Forester Mushet (1811–1891) who, in 1856, introduced the element, in the form of Spiegeleisen, into steel for the specific purpose of removing excess dissolved oxygen, sulfur, and phosphorus in order to improve its malleability. Steelmaking,[45] including its ironmaking component, has accounted for most manganese demand, presently in the range of 85% to 90% of the total demand.[46] Manganese is a key component of low-cost stainless steel.[47][48] Often ferromanganese (usually about 80% manganese) is the intermediate in modern processes.
 
 Small amounts of manganese improve the workability of steel at high temperatures by forming a high-melting sulfide and preventing the formation of a liquid iron sulfide at the grain boundaries. If the manganese content reaches 4%, the embrittlement of the steel becomes a dominant feature. The embrittlement decreases at higher manganese concentrations and reaches an acceptable level at 8%. Steel containing 8 to 15% of manganese has a high tensile strength of up to 863 MPa.[49][50] Steel with 12% manganese was discovered in 1882 by Robert Hadfield and is still known as Hadfield steel (mangalloy). It was used for British military steel helmets and later by the U.S. military.[51]
 
@@ -138,7 +136,7 @@ Manganese oxide is also used in Portland cement mixtures.[70]
 
 Biological role
 
-Arginase.jpeg – the manganese atoms are shown in yellow.]] Manganese is an essential human dietary element. It is present as a coenzyme in several biological processes, which include macronutrient metabolism, bone formation, and free radical defense systems. It is a critical component in dozens of proteins and enzymes.[71] The human body contains about 12 mg of manganese, mostly in the bones. The soft tissue remainder is concentrated in the liver and kidneys.[72] In the human brain, the manganese is bound to manganese metalloproteins, most notably glutamine synthetase in astrocytes.[73]
+– the manganese atoms are shown in yellow.]] Manganese is an essential human dietary element. It is present as a coenzyme in several biological processes, which include macronutrient metabolism, bone formation, and free radical defense systems. It is a critical component in dozens of proteins and enzymes.[71] The human body contains about 12 mg of manganese, mostly in the bones. The soft tissue remainder is concentrated in the liver and kidneys.[72] In the human brain, the manganese is bound to manganese metalloproteins, most notably glutamine synthetase in astrocytes.[73]
 
 Excessive exposure or intake may lead to a condition known as manganism, a neurodegenerative disorder that causes dopaminergic neuronal death and symptoms similar to Parkinson's disease.[74][75] The classes of enzymes that have manganese cofactors is large and includes oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases, lectins, and integrins. The reverse transcriptases of many retroviruses (though not lentiviruses such as HIV) contain manganese. The best-known manganese-containing polypeptides may be arginase, the diphtheria toxin, and Mn-containing superoxide dismutase (Mn-SOD).[76]
 
@@ -187,7 +185,7 @@ Waterborne manganese has a greater bioavailability than dietary manganese. Accor
 
 Manganese in gasoline
 
-Methylcyclopentadienyl_manganese_tricarbonyl.tif (MMT)]] Methylcyclopentadienyl manganese tricarbonyl (MMT) is a gasoline additive used to replace lead compounds for unleaded gasolines to improve the octane rating of low octane petroleum distillates. It reduces engine knock agent through the action of the carbonyl groups. Fuels containing manganese tend to form manganese carbides, which damage exhaust valves. Compared to 1953, levels of manganese in air have dropped.[97]
+(MMT)]] Methylcyclopentadienyl manganese tricarbonyl (MMT) is a gasoline additive used to replace lead compounds for unleaded gasolines to improve the octane rating of low octane petroleum distillates. It reduces engine knock agent through the action of the carbonyl groups. Fuels containing manganese tend to form manganese carbides, which damage exhaust valves. Compared to 1953, levels of manganese in air have dropped.[97]
 
 Manganese in tobacco smoke
 

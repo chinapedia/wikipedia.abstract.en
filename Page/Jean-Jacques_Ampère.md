@@ -1,5 +1,3 @@
-Jean-Jacques_Ampère.jpg
-
 JEAN-JACQUES AMPÈRE (12 August 1800 – 27 March 1864) was a French philologist and man of letters.
 
 Born in Lyon, he was the only son of the physicist André-Marie Ampère (1775–1836). Jean-Jacques' mother died while he was an infant. (But André-Marie Ampère had a daughter – Albine (1807–1842) – with his second wife.) On his tomb at the cemetery of Montmartre, Paris, he is named Jean-Jacques Antoine Ampère. His father's father was also named Jean-Jacques Ampère (executed in Lyon, 1793).

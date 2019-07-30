@@ -3,7 +3,7 @@ NATIONAL RAIL (NR) in the United Kingdom is the trading name licensed for use by
 
 National Rail and Network Rail
 
-British_rail_ticket_Wellington_Shrewsbury.jpg to Shrewsbury]] EK_to_Central_Ticket.jpg to Glasgow]] _National_ Rail should not be confused with _Network Rail_. National Rail is a brand used to promote passenger railway services, and providing some harmonisation for passengers in ticketing, while Network Rail is the organisation which owns and manages most of the fixed assets of the railway network, including tracks, stations and signals.
+to Shrewsbury]] to Glasgow]] _National_ Rail should not be confused with _Network Rail_. National Rail is a brand used to promote passenger railway services, and providing some harmonisation for passengers in ticketing, while Network Rail is the organisation which owns and manages most of the fixed assets of the railway network, including tracks, stations and signals.
 
 The two generally coincide where passenger services are run. Most major Network Rail lines also carry freight traffic and some lines are freight only. There are some scheduled passenger services on privately managed, non-Network Rail lines, for example Heathrow Express, which partly runs on Network Rail track. The London Underground also overlaps with Network Rail in places.
 

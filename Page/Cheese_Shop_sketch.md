@@ -1,4 +1,4 @@
-cheeseshop.jpg performing the Cheese Shop sketch.]]The CHEESE SHOP is a well-known sketch from _Monty Python's Flying Circus_.[1][2]
+performing the Cheese Shop sketch.]]The CHEESE SHOP is a well-known sketch from _Monty Python's Flying Circus_.[1][2]
 
 It originally appeared in episode 33, "Salad Days". The script for the sketch is included in the book _The Complete Monty Python's Flying Circus: All the Words, Volume 2_.[3]
 

@@ -16,7 +16,7 @@ The dictionary of Monier Monier-Williams (1819–1899) however interprets the wo
 
 Definition
 
-Suryaprajnapati_Sutra.jpg book script), ]]
+book script), ]]
 
 Modern scholars have used the term "Prakrit" to refer to two concepts:
 

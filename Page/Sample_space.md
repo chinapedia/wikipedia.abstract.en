@@ -25,8 +25,6 @@ For many experiments, there may be more than one plausible sample space availabl
 
 Equally likely outcomes
 
-Coin_tossing.JPG Brass_thumbtack.jpg
-
 Some treatments of probability assume that the various outcomes of an experiment are always defined so as to be equally likely.[9] However, there are experiments that are not easily described by a sample space of equally likely outcomes—for example, if one were to toss a thumb tack many times and observe whether it landed with its point upward or downward, there is no symmetry to suggest that the two outcomes should be equally likely.
 
 Though most random phenomena do not have equally likely outcomes, it can be helpful to define a sample space in such a way that outcomes are at least approximately equally likely, since this condition significantly simplifies the computation of probabilities for events within the sample space. If each individual outcome occurs with the same probability, then the probability of any event becomes simply:[10]

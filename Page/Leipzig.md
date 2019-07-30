@@ -13,7 +13,7 @@ History
 
 Name
 
-Leipzig_1632.jpg The name Leipzig is derived from the Slavic word __, which means "settlement where the linden trees (British English: lime trees; U.S. English: basswood trees) stand".[21] An older spelling of the name in English is . The Latin name was also used.[22] The name is cognate with () in Russia and in Latvia.[23]
+The name Leipzig is derived from the Slavic word __, which means "settlement where the linden trees (British English: lime trees; U.S. English: basswood trees) stand".[21] An older spelling of the name in English is . The Latin name was also used.[22] The name is cognate with () in Russia and in Latvia.[23]
 
 In 1937 the Nazi government officially renamed the city __ (Imperial Trade Fair City Leipzig).[24]
 
@@ -23,7 +23,7 @@ More recently, the city has sometimes been nicknamed the "Boomtown of eastern Ge
 
 Origins
 
-Karte_Voelkerschlacht_bei_Leipzig_18_Oktober_1813.png}}'' depicting the Battle of Leipzig on 18 October 1813]] Battle_of_Leipzig_by_Zauerweid.jpg Leipzig was first documented in 1015 in the chronicles of Bishop Thietmar of Merseburg as __ (_ VII_, 25) and endowed with city and market privileges in 1165 by Otto the Rich. Leipzig Trade Fair, started in the Middle Ages, has become an event of international importance and is the oldest surviving trade fair in the world.
+}}'' depicting the Battle of Leipzig on 18 October 1813]] Leipzig was first documented in 1015 in the chronicles of Bishop Thietmar of Merseburg as __ (_ VII_, 25) and endowed with city and market privileges in 1165 by Otto the Rich. Leipzig Trade Fair, started in the Middle Ages, has become an event of international importance and is the oldest surviving trade fair in the world.
 
 There are records of commercial fishing operations on the river Pleiße in Leipzig dating back to 1305, when the Margrave Dietrich the Younger granted the fishing rights to the church and convent of St Thomas.[31]
 
@@ -37,11 +37,11 @@ On 24 December 1701, an oil-fueled street lighting system was introduced. The ci
 
 19th century
 
-Neues_Rathaus_Leipzig_nach1905.jpg of Leipzig, built in 1905]] The Leipzig region was the arena of the 1813 Battle of Leipzig between Napoleonic France and an allied coalition of Prussia, Russia, Austria and Sweden. It was the largest battle in Europe before the First World War and the coalition victory ended Napoleon's presence in Germany and would ultimately lead to his first exile on Elba. The Monument to the Battle of the Nations celebrating the centenary of this event was completed in 1913. In addition to stimulating German nationalism, the war had a major impact in mobilizing a civic spirit in numerous volunteer activities. Many volunteer militias and civic associations were formed, and collaborated with churches and the press to support local and state militias, patriotic wartime mobilization, humanitarian relief and postwar commemorative practices and rituals.[32]
+of Leipzig, built in 1905]] The Leipzig region was the arena of the 1813 Battle of Leipzig between Napoleonic France and an allied coalition of Prussia, Russia, Austria and Sweden. It was the largest battle in Europe before the First World War and the coalition victory ended Napoleon's presence in Germany and would ultimately lead to his first exile on Elba. The Monument to the Battle of the Nations celebrating the centenary of this event was completed in 1913. In addition to stimulating German nationalism, the war had a major impact in mobilizing a civic spirit in numerous volunteer activities. Many volunteer militias and civic associations were formed, and collaborated with churches and the press to support local and state militias, patriotic wartime mobilization, humanitarian relief and postwar commemorative practices and rituals.[32]
 
 When it was made a terminus of the first German long-distance railway to Dresden (the capital of Saxony) in 1839, Leipzig became a hub of Central European railway traffic, with Leipzig Hauptbahnhof the largest terminal station by area in Europe. The railway station has two grand entrance halls, the eastern one for the Royal Saxon State Railways and the western one for the Prussian state railways.
 
-In the 19th century, Leipzig was a centre of the German and Saxon liberal movements. The first German labor party, the General German Workers' Association (_Allgemeiner Deutscher Arbeiterverein_, ADAV) was founded in Leipzig on 23 May 1863 by Ferdinand Lassalle; about 600 workers from across Germany travelled to the foundation on the new railway. Leipzig expanded rapidly to more than 700,000 inhabitants. Huge _Gründerzeit_ areas were built, which mostly survived both war and post-war demolition. Leipzig_um_1900.jpg House, around 1900]]
+In the 19th century, Leipzig was a centre of the German and Saxon liberal movements. The first German labor party, the General German Workers' Association (_Allgemeiner Deutscher Arbeiterverein_, ADAV) was founded in Leipzig on 23 May 1863 by Ferdinand Lassalle; about 600 workers from across Germany travelled to the foundation on the new railway. Leipzig expanded rapidly to more than 700,000 inhabitants. Huge _Gründerzeit_ areas were built, which mostly survived both war and post-war demolition. House, around 1900]]
 
 20th century
 
@@ -50,8 +50,6 @@ With the opening of a fifth production hall in 1907, the Leipziger Baumwollspinn
 During the 1930s and 1940s, music was prominent throughout Leipzig. Many students attended Felix Mendelssohn Bartholdy College of Music and Theatre (then named Landeskonservatorium.) However, in 1944, it was closed due to World War II. It re-opened soon after the war ended in 1945.
 
 On 22 May 1930, Carl Friedrich Goerdeler was elected mayor of Leipzig. He was well known as an opponent of the Nazi regime.[34] He resigned in 1937 when, in his absence, his Nazi deputy ordered the destruction of the city's statue of Felix Mendelssohn. On Kristallnacht in 1938, the 1855 Moorish Revival Leipzig synagogue, one of the city's most architecturally significant buildings, was deliberately destroyed. Goerdeler was later executed by the Nazis on 2 February 1945.
-
-Fotothek_df_roe-neg_0002629_002_Trümmerbeseitigung.jpg Leipzigsuicide.jpg With_torn_picture_of_his_feuhrer_beside_his_clenched_fist,_a_dead_general_of_the_Volkssturm_lies_on_the_floor_of_city..._-_NARA_-_535982.tif
 
 Several thousand forced labourers were stationed in Leipzig during the Second World War.
 
@@ -84,7 +82,7 @@ Nowadays, Leipzig is an important economic center in Germany. Since the 2010s, t
 
 Geography
 
-Weisse_Elster_ehem._Wollgarnfabrik.jpg in the Plagwitz district of Leipzig]] Auwald_leipzig.jpg]]
+in the Plagwitz district of Leipzig]] ]]
 
 Location
 
@@ -98,7 +96,7 @@ Leipzig was a walled city in the Middle Ages and the current "ring" road around 
 
 Subdivision
 
-Since 1992 Leipzig has been divided administratively into ten districts, which in turn contain a total of 63 subdistricts. Some of these correspond to outlying villages which have been annexed by Leipzig. Verwaltung_Leipzig.svg
+Since 1992 Leipzig has been divided administratively into ten districts, which in turn contain a total of 63 subdistricts. Some of these correspond to outlying villages which have been annexed by Leipzig.
 
 +-----------+----------+-------+---------+
 | District  | Pop.     | Area  | Pop.    |
@@ -129,14 +127,14 @@ Since 1992 Leipzig has been divided administratively into ten districts, which i
 
 Neighbouring communities
 
-  -------------- ------------------------------ -------------
-                 Delitzsch                      Jesewitz
-  Schkeuditz     Rackwitz                       Taucha
-                 Compass_rose_transparent.png   Borsdorf
-  Markranstädt   Markkleeberg                   Naunhof
-  Kitzen         Zwenkau                        Grosspoesna
+  -------------- -------------- -------------
+                 Delitzsch      Jesewitz
+  Schkeuditz     Rackwitz       Taucha
+                                Borsdorf
+  Markranstädt   Markkleeberg   Naunhof
+  Kitzen         Zwenkau        Grosspoesna
 
-  -------------- ------------------------------ -------------
+  -------------- -------------- -------------
 
 Climate
 
@@ -145,7 +143,7 @@ Like many places located in Eastern parts of Germany, Leipzig has an oceanic cli
 
 Demographics
 
-Einwohnerentwicklung_von_Leipzig.svg Leipzig_(Rathausturm,_Neues_Rathaus)_11_ies.jpg, St. Thomas Church, Highrise of Sparkasse Leipzig Bank, Hotel The Westin Leipzig and Museum of Fine Arts to the right.]]
+, St. Thomas Church, Highrise of Sparkasse Leipzig Bank, Hotel The Westin Leipzig and Museum of Fine Arts to the right.]]
 
 Leipzig has a population of about 570,000. In 1930 the population reached its historical peak of over 700,000. It decreased steadily from 1950 until 1989 to about 530,000. In the 1990s the population decreased rather rapidly to 437,000 in 1998. This reduction was mostly due to outward migration and suburbanization. After almost doubling the city area by incorporation of surrounding towns in 1999, the number stabilized and started to rise again with an increase of 1,000 in 2000.[64] , Leipzig is the fastest-growing city in Germany with over 500,000 inhabitants.[65] The growth of the past 10–15 years has mostly been due to inward migration. In recent years inward migration accelerated, reaching an increase of 12,917 in 2014.[66]
 
@@ -212,22 +210,22 @@ Tallest buildings and structures
 
 The tallest structure in Leipzig is the chimney of the Stahl- und Hartgusswerk Bösdorf GmbH with a height of . With , the City-Hochhaus Leipzig is the tallest high-rise building in Leipzig. From 1972 to 1973 it was Germany's tallest building.
 
-  Buildings and structures                          Image                                                Height in metres   Year   Notes
-  ------------------------------------------------- ---------------------------------------------------- ------------------ ------ -----------------------------------------------------------------------------------------------------
-  Chimney of Stahl- und Hartgusswerk Bösdorf GmbH   Knautnaundorf_schornstein.jpg                        205                1984
-  Funkturm Leipzig                                  FT_Leipzig_Antennenmontage_6.jpg                     191                2015
-  DVB-T-Sendeturm                                   DVB-T-Turm-C-M.jpg                                   190                1986
-  City-Hochhaus Leipzig                             Leipzig_-_Augustusplatz_+_City-Hochhaus_03_ies.jpg   142                1972   Total height 153 m, tallest building in Germany 1972–1973. Headquarter of European Energy Exchange.
-  Fernmeldeturm Leipzig                             Leipzig_Fernmeldeturm_Holzhausen_2.JPG               132                1995
-  Tower of New Town Hall                            Leipzig_Neues_Rathaus_01.JPG                         115                1905   Tallest Town Hall in Germany
-  Wintergartenhochhaus                              Leipzig.Wintergartenstraße_12.03.2014_17-26-49.JPG   106,8              1972   Used as residential tower
-  Hotel The Westin Leipzig                          Westinleipzig.jpg                                    95                 1972   Hotel with skybar and restaurant
-  Monument to the Battle of the Nations             Völkerschlachtdenkmal_Leipzig_beim_Nacht.jpg         91                 1913   Tallest monument in Europe.
-  St. Peters'                                       Peterskirche8405.JPG                                 88,5               1885   Leipzig's tallest church.
-  MDR-Hochhaus                                      131008-MDR-Leipzig.JPG                               65                 2000   MDR is one of Germany's public broadcasters.
-  Hochhaus Löhr's Carree                            Löhrs_Carré_Leipzig.JPG                              65                 1997   Headquarters of Sachsen Bank and Sparkasse Leipzig.
-  Center Torgauer Platz                             Leipzig_Torgauer_Platz_Center.jpg                    63                 1995
-  Europahaus                                        Europahaus-Leipzig.jpg                               56                 1929   Headquarters of Stadtwerke Leipzig
+  Buildings and structures                          Image   Height in metres   Year   Notes
+  ------------------------------------------------- ------- ------------------ ------ -----------------------------------------------------------------------------------------------------
+  Chimney of Stahl- und Hartgusswerk Bösdorf GmbH           205                1984
+  Funkturm Leipzig                                          191                2015
+  DVB-T-Sendeturm                                           190                1986
+  City-Hochhaus Leipzig                                     142                1972   Total height 153 m, tallest building in Germany 1972–1973. Headquarter of European Energy Exchange.
+  Fernmeldeturm Leipzig                                     132                1995
+  Tower of New Town Hall                                    115                1905   Tallest Town Hall in Germany
+  Wintergartenhochhaus                                      106,8              1972   Used as residential tower
+  Hotel The Westin Leipzig                                  95                 1972   Hotel with skybar and restaurant
+  Monument to the Battle of the Nations                     91                 1913   Tallest monument in Europe.
+  St. Peters'                                               88,5               1885   Leipzig's tallest church.
+  MDR-Hochhaus                                              65                 2000   MDR is one of Germany's public broadcasters.
+  Hochhaus Löhr's Carree                                    65                 1997   Headquarters of Sachsen Bank and Sparkasse Leipzig.
+  Center Torgauer Platz                                     63                 1995
+  Europahaus                                                56                 1929   Headquarters of Stadtwerke Leipzig
 
 Museums and arts
 
@@ -343,7 +341,7 @@ More than 300 sport clubs in the city represent 78 different disciplines. Over 4
 
 Football
 
-Red_Bull_arena,_Leipzig_von_oben_Zentralstadion.jpg from above. Home of RB Leipzig.]] BrunoPlacheStadion.JPG is the home stadion of 1. FC Lokomotive Leipzig.]] The German Football Association (DFB) was founded in Leipzig in 1900. The city was the venue for the 2006 FIFA World Cup draw, and hosted four first-round matches and one match in the round of 16 in the central stadium.
+from above. Home of RB Leipzig.]] is the home stadion of 1. FC Lokomotive Leipzig.]] The German Football Association (DFB) was founded in Leipzig in 1900. The city was the venue for the 2006 FIFA World Cup draw, and hosted four first-round matches and one match in the round of 16 in the central stadium.
 
 VfB Leipzig, now 1. FC Lokomotive Leipzig, won the first national Association football championship in 1903. The club was reformed as 1. FC Lokomotive Leipzig in 1966 and has had a glorious past in international competition as well, having been champions of the 1965–66 Intertoto Cup, semi-finalists in the 1973–74 UEFA Cup, and runners-up in the 1986–87 European Cup Winners' Cup.
 
@@ -376,7 +374,7 @@ Handball-Club Leipzig is one of the most successful women's handball clubs in Ge
 
 Other sports
 
-Markkleeberger_See_Wildwasseranlage2.jpg at Markkleeberger See.]] From 1950 to 1990 Leipzig was host of the Deutsche Hochschule für Körperkultur (DHfK, German College of Physical Culture), the national sports college of the GDR.
+at Markkleeberger See.]] From 1950 to 1990 Leipzig was host of the Deutsche Hochschule für Körperkultur (DHfK, German College of Physical Culture), the national sports college of the GDR.
 
 Leipzig also hosted the Fencing World Cup in 2005 and hosts a number of international competitions in a variety of sports each year.
 
@@ -397,7 +395,7 @@ File:Leipziger Lerchen.jpg|Leipziger Lerchen File:Goseflasche Pressglas.jpg|Hist
 
 Education
 
-Leipzig_-_Universitätsstraße_-_Uni_+_Paulinum_+_Neues_Augusteum_-_Schinkeltor_02_ies.jpg]] HGB-LichthofMontage.jpg]]
+]] ]]
 
 University
 
@@ -421,7 +419,7 @@ The private Leipzig Graduate School of Management, (in German _Handelshochschule
 
 Others
 
-LE_Max_Blanck_MIS_MPI.jpg]] Among the research institutes located in Leipzig, three belong to the Max Planck Society. These are the Max Planck Institute for Mathematics in the Sciences, Max Planck Institute for Human Cognitive and Brain Sciences, and Max Planck Institute for Evolutionary Anthropology. Two more are Fraunhofer Society institutes. Others are the Helmholtz Centre for Environmental Research, part of the Helmholtz Association of German Research Centres, and the Leibniz-Institute for Tropospheric Research.
+]] Among the research institutes located in Leipzig, three belong to the Max Planck Society. These are the Max Planck Institute for Mathematics in the Sciences, Max Planck Institute for Human Cognitive and Brain Sciences, and Max Planck Institute for Evolutionary Anthropology. Two more are Fraunhofer Society institutes. Others are the Helmholtz Centre for Environmental Research, part of the Helmholtz Association of German Research Centres, and the Leibniz-Institute for Tropospheric Research.
 
 Leipzig is home to one of the world's oldest schools _Thomasschule zu Leipzig_ (St. Thomas' School, Leipzig), which gained fame for its long association with the Bach family of musicians and composers.
 
@@ -455,7 +453,7 @@ File:Porsche Diamond.jpg|Porsche Diamond, the customer center building of Porsch
 
 Media
 
-Leipzig_Ri.-Le.-Str_6.jpg'', one of Germany's public broadcasters]]
+'', one of Germany's public broadcasters]]
 
 -   MDR, one of Germany's public broadcasters, has its headquarters and main television studios in the city. It provides programmes to various TV and radio networks and has its own symphony orchestra, choir and a ballet.
 -   _Leipziger Volkszeitung_ (_LVZ_) is the city's only daily newspaper. Founded in 1894, it has published under several different forms of government. The monthly magazine _Kreuzer_ specializes in culture, festivities and the arts in Leipzig. Leipzig was also home to the world's first daily newspaper in modern times. The "Einkommende Zeitungen" were first published in 1650.[119]
@@ -466,7 +464,7 @@ Leipzig_Ri.-Le.-Str_6.jpg'', one of Germany's public broadcasters]]
 
 Quality of life
 
-Leipzig_-_Thomasgasse_+_Thomaswiese_+_Thomaskirche_01_ies.jpg In December 2013, according to a study by Marktforschungsinstituts GfK, Leipzig was ranked as the most livable city in Germany[124][125] and is one of the three European cities with the highest quality of living (after Groningen and Kraków).[126] In 2015/2016, Leipzig was named the second-best city for students in Germany (after Munich).[127]
+In December 2013, according to a study by Marktforschungsinstituts GfK, Leipzig was ranked as the most livable city in Germany[124][125] and is one of the three European cities with the highest quality of living (after Groningen and Kraków).[126] In 2015/2016, Leipzig was named the second-best city for students in Germany (after Munich).[127]
 
 In a 2017 study, the Leipzig inner city ranked first among all large cities in Germany due to its urban aesthetics, gastronomy, and shopping opportunities.[128][129]
 
@@ -487,7 +485,7 @@ Founded at the crossing of Via Regia and Via Imperii, Leipzig has been a major i
 
 Rail
 
-Bahnhof_Leipzig_von_Panorama_Tower_2013.jpg is the main hub of tram and rail network and the world's largest railway station by floor area.]] Leipziger_Bahnhof_(228148125).jpeg Opened in 1915, Leipzig Central Station is the largest overhead railway station in Europe in terms of its built-up area. At the same time, it is an important supra-regional junction in the ICE and Intercity network of the Deutsche Bahn as well as a connection point for S-Bahn and regional traffic in the Halle/Leipzig area.
+is the main hub of tram and rail network and the world's largest railway station by floor area.]] Opened in 1915, Leipzig Central Station is the largest overhead railway station in Europe in terms of its built-up area. At the same time, it is an important supra-regional junction in the ICE and Intercity network of the Deutsche Bahn as well as a connection point for S-Bahn and regional traffic in the Halle/Leipzig area.
 
 In Leipzig, the Intercity Express routes (Hamburg-)Berlin-Leipzig-Nuremberg-Munich and Dresden-Leipzig-Erfurt-Frankfurt am Main-(Wiesbaden/Saarbrücken) intersect. After completion of the high-speed line to Erfurt, the ICE will run on both lines via Leipzig/Halle Airport and Erfurt. Leipzig is also the starting point for the intercity lines Leipzig-Halle (Saale)-Magdeburg-Braunschweig-Hannover-Dortmund-Köln and -Bremen-Oldenburg(-Norddeich Mole). Both lines complement each other at hourly intervals and also stop at Leipzig/Halle Airport. The only international connection is the daily EuroCity Leipzig-Prague.
 
@@ -499,13 +497,13 @@ For freight traffic, there are freight stations in the districts of Wahren and E
 
 Suburban train
 
-S-Bahn_-_City-Tunnel_Leipzig_mit_BR_182_und_Doppelstockwagen_(HP_Markt).jpg.]] Leipzig is the core of the S-Bahn Mitteldeutschland line network. Together with the tram, six of the ten lines form the backbone of local public transport and an important link to the region and the neighbouring Halle. The main line of the S-Bahn consists of the underground S-Bahn stations Hauptbahnhof, Markt, Wilhelm-Leuschner-Platz and Bayerischer Bahnhof leading through the City Tunnel as well as the above-ground station Leipzig MDR. There are a total of 30 S-Bahn stations in the Leipzig city area. Endpoints of the S-Bahn lines include Oschatz, Zwickau, Geithain and Bitterfeld. Two lines run to Halle, one of them via Leipzig/Halle Airport. In 2015, the network will be extended to Dessau and Lutherstadt Wittenberg.
+.]] Leipzig is the core of the S-Bahn Mitteldeutschland line network. Together with the tram, six of the ten lines form the backbone of local public transport and an important link to the region and the neighbouring Halle. The main line of the S-Bahn consists of the underground S-Bahn stations Hauptbahnhof, Markt, Wilhelm-Leuschner-Platz and Bayerischer Bahnhof leading through the City Tunnel as well as the above-ground station Leipzig MDR. There are a total of 30 S-Bahn stations in the Leipzig city area. Endpoints of the S-Bahn lines include Oschatz, Zwickau, Geithain and Bitterfeld. Two lines run to Halle, one of them via Leipzig/Halle Airport. In 2015, the network will be extended to Dessau and Lutherstadt Wittenberg.
 
 With the timetable change in December 2004, the networks of Leipzig and Halle were combined to form the Leipzig-Halle S-Bahn. However, this network only served as a transitional solution and was replaced by the S-Bahn Mitteldeutschland on 15 December 2013. At the same time, the main line tunnel, marketed as the Leipzig City Tunnel, went into operation. The tunnel, which is almost four kilometres long, crosses the entire city centre from the main railway station to the Bavarian railway station. The S-Bahn stations are up to 22 metres underground. This construction was the first to create a continuous north-south axis, which had not existed until now due to the north-facing terminus station. The connection to the south of the city and the federal state will thus be greatly improved.
 
 Tramway and Buses
 
-Leipzig_Tram_2017.jpg.]] The Leipziger Verkehrsbetriebe, existing since 1 January 1917, operate a total of 13 tram lines and 51 bus lines in the city.
+.]] The Leipziger Verkehrsbetriebe, existing since 1 January 1917, operate a total of 13 tram lines and 51 bus lines in the city.
 
 The total length of the tram network is 149.9 km, making it the largest in Saxony (130.2 km) ahead of Dresden and the second largest in Germany (193.6 km after Berlin). The longest line in the Leipzig network is line 11, which connects Schkeuditz with Markkleeberg over 22 kilometres and is the only tram line in Leipzig to run in three tariff zones of the Central German Transport Association.
 
@@ -519,7 +517,7 @@ Since 2004 there is a bicycle-sharing system. Bikes can be borrowed and returned
 
 Road
 
-Mitteldeutsche-Schleife.png Leipzig-Halle_Airport_Check-in.jpg, hub of DHL]]
+, hub of DHL]]
 
 Several federal motorways pass by Leipzig: the A 14 in the north, the A 9 in the west and the A 38 in the south. The three motorways form a triangular partial ring of the double ring Mitteldeutsche Schleife around Halle and Leipzig. To the south towards Chemnitz, the A 72 is also partly under construction or being planned.
 
@@ -549,7 +547,7 @@ The former military airport near Altenburg, Thuringia called Leipzig-Altenburg A
 
 Water
 
-Leipzig_-_Elsterflutbett_+_Palmengartenwehr_01_ies.jpg]] In the first half of the 20th century, the construction of the Elster-Saale canal, White Elster and Saale was started in Leipzig in order to connect to the network of waterways. The outbreak of the Second World War stopped most of the work, though some may have continued through the use of forced labor. The Lindenauer port was almost completed but not yet connected to the Elster-Saale and Karl-Heine canal respectively. The Leipzig rivers (White Elster, New Luppe, Pleiße, and Parthe) in the city have largely artificial river beds and are supplemented by some channels. These waterways are suitable only for small leisure boat traffic.
+]] In the first half of the 20th century, the construction of the Elster-Saale canal, White Elster and Saale was started in Leipzig in order to connect to the network of waterways. The outbreak of the Second World War stopped most of the work, though some may have continued through the use of forced labor. The Lindenauer port was almost completed but not yet connected to the Elster-Saale and Karl-Heine canal respectively. The Leipzig rivers (White Elster, New Luppe, Pleiße, and Parthe) in the city have largely artificial river beds and are supplemented by some channels. These waterways are suitable only for small leisure boat traffic.
 
 Through the renovation and reconstruction of existing mill races and watercourses in the south of the city and flooded disused open cast mines, the city's navigable water network is being expanded. The city commissioned planning for a link between Karl Heine Canal and the disused Lindenauer port in 2008. Still more work was scheduled to complete the Elster-Saale canal. Such a move would allow small boats to reach the Elbe from Leipzig. The intended completion date has been postponed because of an unacceptable cost-benefit ratio.
 
@@ -568,8 +566,6 @@ _Das angenehme Pleis-Athen, Behält den Ruhm vor allen, Auch allen zu gefallen, 
 
 
 International relations
-
-Plaque_at_2-37_Leipzig_Street,_Kiev,_Ukraine.jpg
 
 Leipzig is twinned with:[136]
 
@@ -606,8 +602,6 @@ Notable residents
 
 17th century
 
-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg
-
 -   Gottfried Wilhelm Leibniz; (1646–1716), philosopher and scientist, mathematician, diplomat
 -   Johann Friedrich Mayer; (1650–1712), Lutheran theologian
 -   Augustus Quirinus Rivinus, origin. '' Bachmann ''; (1652–1723), physician and botanist
@@ -630,16 +624,12 @@ Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg
 -   Richard Wagner; (1813–1883), composer, theatre director and conductor (among others opera _The Flying Dutchman_)
 -   Louise Otto-Peters; (1819–1895), suffragette, author, founder of the General German Women's Association
 
-Clara_Schumann_(Andreas_Staub)_freigestellt.png
-
 -   Clara Schumann; (1819–1896), pianist and composer
 -   Carl Reinecke; (1824–1910), composer, conductor, and pianist
 -   August Bebel; (1840–1913), socialist politician, co-founder of Germany's Social Democratic Party
 -   Karl Wittgenstein; (1847–1913), entrepreneur
 
 1851–1900
-
-KLiebknecht.jpg
 
 -   Hans Meyer; (1858–1929), geographer, Africanist and mountaineer, first European to reach the summit of Mount Kilimanjaro
 -   Wilhelm Souchon; (1864–1946), Vice Admiral of the Imperial Navy, commander of the Ottoman and Bulgarian Navy
@@ -669,8 +659,6 @@ KLiebknecht.jpg
 -   Ruth Pfau, (1929–2017), nun, physician, writer( "Pakistan's Mother Teresa")
 
 1951–present
-
-Rauch_neo_bruehl_maxernstmuseum_281007_06.jpg
 
 -   Hans-Joachim Schulze (born 1934), German Bach scholar
 -   Riccardo Chailly (born 1953), conductor of the Gewandhaus orchestra

@@ -21,7 +21,7 @@ The American synthesis was independently confirmed in 1973 and secured the ident
 
 Naming controversy
 
-Ernest_Rutherford2.jpg]]
+]]
 
 The Russian scientists proposed the name KURCHATOVIUM and the American scientists suggested the name _rutherfordium_ for the new element.[5] In 1992, the IUPAC/IUPAP Transfermium Working Group (TWG) assessed the claims of discovery and concluded that both teams provided contemporaneous evidence to the synthesis of element 104 and that credit should be shared between the two groups.[6]
 
@@ -130,7 +130,7 @@ Experimental chemistry
 
 Gas phase
 
-RfCl4.png Early work on the study of the chemistry of rutherfordium focused on gas thermochromatography and measurement of relative deposition temperature adsorption curves. The initial work was carried out at Dubna in an attempt to reaffirm their discovery of the element. Recent work is more reliable regarding the identification of the parent rutherfordium radioisotopes. The isotope ^(261m)Rf has been used for these studies,[58] though the long-lived isotope ²⁶⁷Rf (produced in the decay chains of ²⁹¹Lv, ²⁸⁷Fl, and ²⁸³Cn) may be advantageous for future experiments.[59] The experiments relied on the expectation that rutherfordium would begin the new 6d series of elements and should therefore form a volatile tetrachloride due to the tetrahedral nature of the molecule.[60][61][62] Rutherfordium(IV) chloride is more volatile than its lighter homologue hafnium(IV) chloride (HfCl₄) because its bonds are more covalent.[63]
+Early work on the study of the chemistry of rutherfordium focused on gas thermochromatography and measurement of relative deposition temperature adsorption curves. The initial work was carried out at Dubna in an attempt to reaffirm their discovery of the element. Recent work is more reliable regarding the identification of the parent rutherfordium radioisotopes. The isotope ^(261m)Rf has been used for these studies,[58] though the long-lived isotope ²⁶⁷Rf (produced in the decay chains of ²⁹¹Lv, ²⁸⁷Fl, and ²⁸³Cn) may be advantageous for future experiments.[59] The experiments relied on the expectation that rutherfordium would begin the new 6d series of elements and should therefore form a volatile tetrachloride due to the tetrahedral nature of the molecule.[60][61][62] Rutherfordium(IV) chloride is more volatile than its lighter homologue hafnium(IV) chloride (HfCl₄) because its bonds are more covalent.[63]
 
 A series of experiments confirmed that rutherfordium behaves as a typical member of group 4, forming a tetravalent chloride (RfCl₄) and bromide (RfBr₄) as well as an oxychloride (RfOCl₂). A decreased volatility was observed for when potassium chloride is provided as the solid phase instead of gas, highly indicative of the formation of nonvolatile mixed salt.[64][65][66]
 

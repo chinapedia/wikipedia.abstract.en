@@ -4,8 +4,6 @@ Unlike the first three Rashidun caliphs, Ali was from the same clan as Muhammad,
 
 Adherents of Shia Islam are called SHIAS OF ALI, SHIAS or the SHI'A as a collective or SHI'I or SHI'ITE individually.[4] Shia Islam is the second largest branch of Islam: as of the late 2000s, Shia Muslims constituted 10–15% of all Muslims.[5] Twelver Shia (_Ithnā'ashariyyah_) is the largest branch of Shia Islam,[6] with 2012 estimates saying that 85% of Shias were Twelvers.[7]
 
-Rashidun_Caliph_Ali_ibn_Abi_Talib_-_علي_بن_أبي_طالب.svg
-
 Shia Islam is based on the Quran and the message of Muhammad attested in hadith, and on hadith taught by their Imams.[8][9] Shia consider Ali to have been divinely appointed as the successor to Muhammad, and as the first Imam. The Shia also extend this Imammah doctrine to Muhammad's family, the _Ahl al-Bayt_ ("the people/family of the House"),[10] and some individuals among his descendants, known as _Imams_, who they believe possess special spiritual and political authority over the community, infallibility and other divinely ordained traits.[11] Although there are many Shia subsects, modern Shia Islam has been divided into two main groupings: Twelvers and Ismailis, with Twelver Shia being the largest and most influential group among Shia.[12][13][14]
 
 
@@ -36,7 +34,7 @@ Shia Muslims believe this to be Muhammad's appointment of Ali as his successor.
 
 Ali's caliphate
 
-Investiture_of_Ali_Edinburgh_codex.jpg at Ghadir Khumm (MS Arab 161, fol. 162r, AD 1309/8 Ilkhanid manuscript illustration)]] When Muhammad died in 632 CE, Ali and Muhammad's closest relatives made the funeral arrangements. While they were preparing his body, Abu Bakr, Umar, and Abu Ubaidah ibn al Jarrah met with the leaders of Medina and elected Abu Bakr as caliph. Ali did not accept the caliphate of Abu Bakr and refused to pledge allegiance to him. This is indicated in both Sunni and Shia _sahih_ and authentic Hadith.
+at Ghadir Khumm (MS Arab 161, fol. 162r, AD 1309/8 Ilkhanid manuscript illustration)]] When Muhammad died in 632 CE, Ali and Muhammad's closest relatives made the funeral arrangements. While they were preparing his body, Abu Bakr, Umar, and Abu Ubaidah ibn al Jarrah met with the leaders of Medina and elected Abu Bakr as caliph. Ali did not accept the caliphate of Abu Bakr and refused to pledge allegiance to him. This is indicated in both Sunni and Shia _sahih_ and authentic Hadith.
 
 Ibn Qutaybah, a 9th-century Sunni Islamic scholar narrates of Ali:
 
@@ -62,13 +60,13 @@ Hasan then retired to Medina, where in 670 CE he was poisoned by his wife Ja'da 
 
 Husayn ibn Ali
 
-ImamHusaynMosqueKarbalaIraqPre2006.JPG in Karbala, Iraq is a holy site for Shia Muslims.]] Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_overall.jpg]] Husayn, Ali's younger son and brother to Hasan, initially resisted calls to lead the Muslims against Muawiyah and reclaim the caliphate. In 680 CE, Muawiyah died and passed the caliphate to his son Yazid, and breaking the treaty with Hasan ibn Ali. Yazid asked Husayn to swear allegiance (_bay'ah_) to him. Ali's faction, having expected the caliphate to return to Ali's line upon Muawiyah's death, saw this as a betrayal of the peace treaty and so Husayn rejected this request for allegiance. There was a groundswell of support in Kufa for Husayn to return there and take his position as caliph and imam, so Husayn collected his family and followers in Medina and set off for Kufa. En route to Kufa, he was blocked by an army of Yazid's men (which included people from Kufa) near Karbala (modern Iraq), and Husayn and approximately 72 of his family and followers were killed in the Battle of Karbala.
+in Karbala, Iraq is a holy site for Shia Muslims.]] ]] Husayn, Ali's younger son and brother to Hasan, initially resisted calls to lead the Muslims against Muawiyah and reclaim the caliphate. In 680 CE, Muawiyah died and passed the caliphate to his son Yazid, and breaking the treaty with Hasan ibn Ali. Yazid asked Husayn to swear allegiance (_bay'ah_) to him. Ali's faction, having expected the caliphate to return to Ali's line upon Muawiyah's death, saw this as a betrayal of the peace treaty and so Husayn rejected this request for allegiance. There was a groundswell of support in Kufa for Husayn to return there and take his position as caliph and imam, so Husayn collected his family and followers in Medina and set off for Kufa. En route to Kufa, he was blocked by an army of Yazid's men (which included people from Kufa) near Karbala (modern Iraq), and Husayn and approximately 72 of his family and followers were killed in the Battle of Karbala.
 
 The Shias regard Husayn as a martyr (_shahid_), and count him as an Imam from the Ahl al-Bayt. They view Husayn as the defender of Islam from annihilation at the hands of Yazid I. Husayn is the last imam following Ali whom all Shiah sub-branches mutually recognize.[54] The Battle of Karbala is often cited as the definitive break between the Shiah and Sunni sects of Islam, and is commemorated each year by Shiah Muslims on the Day of Ashura.
 
 Imamate of the _Ahl al-Bayt_
 
-Sword_and_shield_reproduction_from_Bab_al_Nasr_gate_Cairo_Egypt.jpg with and without the shield. The Fatimid depiction of Ali's sword as carved on the Gates of Old Cairo, namely Bab al-Nasr shown below. Two swords were captured from the temple of the pagan polytheist god Manāt during the Raid of Sa'd ibn Zaid al-Ashhali. Muhammad gave them to Ali, saying that one of them was Zulfiqar, which became the famous sword of Ali and a later symbol of Shiism.[55]]] Sword_Zufiqar_on_old_Cairo_wall.jpeg Later most of the Shia, including Twelver and Ismaili, became Imamis. Imami Shia believe that Imams are the spiritual and political successors to Muhammad. Imams are human individuals who not only rule over the community with justice, but also are able to keep and interpret the divine law and its esoteric meaning. The words and deeds of Muhammad and the imams are a guide and model for the community to follow; as a result, they must be free from error and sin, and must be chosen by divine decree, or _nass_, through Muhammad.[56][57]
+with and without the shield. The Fatimid depiction of Ali's sword as carved on the Gates of Old Cairo, namely Bab al-Nasr shown below. Two swords were captured from the temple of the pagan polytheist god Manāt during the Raid of Sa'd ibn Zaid al-Ashhali. Muhammad gave them to Ali, saying that one of them was Zulfiqar, which became the famous sword of Ali and a later symbol of Shiism.[55]]] Later most of the Shia, including Twelver and Ismaili, became Imamis. Imami Shia believe that Imams are the spiritual and political successors to Muhammad. Imams are human individuals who not only rule over the community with justice, but also are able to keep and interpret the divine law and its esoteric meaning. The words and deeds of Muhammad and the imams are a guide and model for the community to follow; as a result, they must be free from error and sin, and must be chosen by divine decree, or _nass_, through Muhammad.[56][57]
 
 According to this view, there is always an Imam of the Age, who is the divinely appointed authority on all matters of faith and law in the Muslim community. Ali was the first imam of this line, the rightful successor to Muhammad, followed by male descendants of Muhammad through his daughter Fatimah.
 
@@ -81,7 +79,7 @@ The Mahdi is the prophesied redeemer of Islam who will rule for seven, nine or n
 
 Theology
 
-Islamic_branches.jpg.
+.
 Red represents Shi'ism.
 Blue represents Ibadism.
 Purple represents Quranism.
@@ -95,7 +93,7 @@ The Shia believe that the status of Ali is supported by numerous hadith, includi
 
 Profession of faith
 
-Kalema-tut-shahadat.jpg of the Mosque of Ibn Tulun in Cairo, Egypt with phrase "Ali-un-Waliullah"]]
+of the Mosque of Ibn Tulun in Cairo, Egypt with phrase "Ali-un-Waliullah"]]
 
 The Shia version of the Shahada, the Islamic profession of faith, differs from that of the Sunni. The Sunni Shahada states _There is no god except God, Muhammad is the messenger of God_, but to this the Shia append _Ali is the Wali (custodian) of God_, . This phrase embodies the Shia emphasis on the inheritance of authority through Muhammad's lineage. The three clauses of the Shia Shahada thus address _tawhid_ (the unity of God), _nubuwwah_ (the prophethood of Muhammad), and _imamah_ (imamate, the leadership of the faith).
 
@@ -104,7 +102,7 @@ The basis of Ali as the "wali" is taken from a specific verse of the quran .[71]
 
 Infallibility
 
-Alī.png is credited as the first male to convert to Islam.]] _Ismah_ is the concept of infallibility or "divinely bestowed freedom from error and sin" in Islam.[73] Muslims believe that Muhammad and other prophets in Islam possessed _ismah_. Twelver and Ismaili Shia Muslims also attribute the quality to Imams as well as to Fatimah, daughter of Muhammad, in contrast to the Zaidi, who do not attribute 'ismah to the Imams.[74] Though initially beginning as a political movement, infallibility and sinlessness of the imams later evolved as a distinct belief of (non-Zaidi) Shiism.[75]
+is credited as the first male to convert to Islam.]] _Ismah_ is the concept of infallibility or "divinely bestowed freedom from error and sin" in Islam.[73] Muslims believe that Muhammad and other prophets in Islam possessed _ismah_. Twelver and Ismaili Shia Muslims also attribute the quality to Imams as well as to Fatimah, daughter of Muhammad, in contrast to the Zaidi, who do not attribute 'ismah to the Imams.[74] Though initially beginning as a political movement, infallibility and sinlessness of the imams later evolved as a distinct belief of (non-Zaidi) Shiism.[75]
 
 According to Shia theologians, infallibility is considered a rational necessary precondition for spiritual and religious guidance. They argue that since God has commanded absolute obedience from these figures they must only order that which is right. The state of infallibility is based on the Shia interpretation of the verse of purification.[76][77] Thus, they are the most pure ones, the only immaculate ones preserved from, and immune to, all uncleanness.[78] It does not mean that supernatural powers prevent them from committing a sin, but due to the fact that they have absolute belief in God, they refrain from doing anything that is a sin.[79]
 
@@ -133,7 +131,7 @@ Imam Ali al-Ridha narrates that wherever the armaments among us would go, knowle
 
 History
 
-Ghazan_et_Öldjeïtu.jpg and his brother Öljaitü both were tolerant of sectarian differences within the boundaries of Islam, in contrast to the traditions of Genghis Khan.]]
+and his brother Öljaitü both were tolerant of sectarian differences within the boundaries of Islam, in contrast to the traditions of Genghis Khan.]]
 
 Historians dispute the origin of Shia Islam, with many Western scholars positing that Shiism began as a political faction rather than a truly religious movement.[89][90] Other scholars disagree, considering this concept of religious-political separation to be an anachronistic application of a Western concept.[91]
 
@@ -148,7 +146,7 @@ In the century following the Battle of Karbala (680 AD), as various Shia-affilia
 -   Bahmanis (1347–1527 CE): a Shia Muslim state of the Deccan in southern India and one of the great medieval Indian kingdoms.[92] Bahmanid Sultanate was the first independent Islamic Kingdom in South India.[93]
 -   Buyids (934–1055 CE): at its peak consisted of large portions of modern Iraq and Iran.
 
-Fatimid_Caliphate.PNG at its peak]]
+at its peak]]
 
 Fatimid Caliphate
 
@@ -158,7 +156,7 @@ Fatimid Caliphate
 
 Safavid Empire
 
-Shah_Ismail_I.jpg Ismail I of Safavid dynasty first actions was the proclamation of the Twelver sect of Shia Islam to be the official religion of his newly formed state, causing sectarian tensions in the Middle East when he destroyed the tombs of Abū Ḥanīfa and the Sufi Abdul Qadir Gilani in 1508.[98] In 1533, Ottomans, upon their conquest of Iraq, rebuilt various important Sunni shrines.[99]]] A major turning point in Shia history was the Safavid dynasty (1501–1736) in Persia. This caused a number of changes in the Muslim world:
+Ismail I of Safavid dynasty first actions was the proclamation of the Twelver sect of Shia Islam to be the official religion of his newly formed state, causing sectarian tensions in the Middle East when he destroyed the tombs of Abū Ḥanīfa and the Sufi Abdul Qadir Gilani in 1508.[98] In 1533, Ottomans, upon their conquest of Iraq, rebuilt various important Sunni shrines.[99]]] A major turning point in Shia history was the Safavid dynasty (1501–1736) in Persia. This caused a number of changes in the Muslim world:
 
 -   The ending of the relative mutual tolerance between Sunnis and Shias that existed from the time of the Mongol conquests onwards and the resurgence of antagonism between the two groups.
 -   Initial dependence of Shiite clerics on the state followed by the emergence of an independent body of _ulama_ capable of taking a political stand different from official policies.[100]
@@ -174,7 +172,7 @@ Community
 
 Demographics
 
-thumb|upright=1.8|Islam by country Sunni Shias Ibadi Madhhab_Map3.png
+thumb|upright=1.8|Islam by country Sunni Shias Ibadi
 
 According to Shia Muslims, one of the lingering problems in estimating Shia population is that unless Shia form a significant minority in a Muslim country, the entire population is often listed as Sunni. The reverse, however, has not held true, which may contribute to imprecise estimates of the size of each sect. For example, the 1926 rise of the House of Saud in Arabia brought official discrimination against Shia.[103] Shiites are estimated to be 21% of the Muslim population in South Asia, although the total number is difficult to estimate due to that reason.[104] It is estimated that 15%[105][106][107][108] of the world's Muslims are Shia. They may number up to 200 million as of 2009.[109]
 
@@ -298,7 +296,7 @@ Twelvers constitute the majority of the population in Iran (90%),[187] Azerbaija
 
 Doctrine
 
-Names_of_imameen.jpg name '''على ''' 'Ali']] Twelver doctrine is based on five principles.[193] These five principles known as _Usul ad-Din_ are as follow:[194][195]
+name '''على ''' 'Ali']] Twelver doctrine is based on five principles.[193] These five principles known as _Usul ad-Din_ are as follow:[194][195]
 
 1.  MONOTHEISM, God is one and unique.
 2.  JUSTICE, the concept of moral rightness based on ethics, fairness, and equity, along with the punishment of the breach of said ethics.

@@ -1,4 +1,4 @@
-Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg, where the concept of the "nation state" was born.]]
+, where the concept of the "nation state" was born.]]
 
 A NATION STATE (or NATION-STATE) is a state in which the great majority shares the same culture and is conscious of it. The nation state is an ideal in which cultural boundaries match up with political ones.[1] According to one definition, "a nation state is a sovereign state of which most of its subjects are united also by factors which defined a nation such as language or common descent."[2] It is a more precise concept than "country", since a country does not need to have a predominant ethnic group.
 
@@ -45,7 +45,7 @@ In recent years, a nation state's claim to absolute sovereignty within its borde
 
 Before the nation state
 
-Dissolution_of_Austria-Hungary.png (1918)]]
+(1918)]]
 
 In Europe, during the 18th century, the classic non-national states were the _multiethnic_ empires, the Austrian Empire, Kingdom of France, Kingdom of Hungary,[27] the Russian Empire, the Ottoman Empire, the British Empire and smaller nations at what would now be called sub-state level. The multi-ethnic empire was an absolute monarchy ruled by a king, emperor or sultan. The population belonged to many ethnic groups, and they spoke many languages. The empire was dominated by one ethnic group, and their language was usually the language of public administration. The ruling dynasty was usually, but not always, from that group.
 
@@ -92,7 +92,7 @@ Examples of nation states where ethnic groups make up more than 85% of the popul
 -   Eswatini: The vast majority of the population is ethnically Swazi at about 98.6% of the population, with the remainder consisting of a few small ethnic minorities.
 -   Greece: 91.6% of the permanent residents are ethnic Greek; the remaining 911929 inhabitants consist of immigrants from Albania (480,824), Bulgaria (75,915), Romania (46,253), former USSR (70,000), Western Europe (77,000) and the rest of the world (161,937).[42]
 -   Hungary: The Hungarians (or _Magyar_) people consist of about 95% of the population, with a small Roma and German minority: see Demographics of Hungary.
--   Iceland: Although the inhabitants are ethnically related to other Scandinavian groups, the national culture and language are found only in Iceland. There are no cross-border minorities as the nearest land is too far away: see Demographics of Iceland.Bjs48_02_Ainu.jpg, an ethnic minority people from Japan (between 1863 and early 1870s).]]
+-   Iceland: Although the inhabitants are ethnically related to other Scandinavian groups, the national culture and language are found only in Iceland. There are no cross-border minorities as the nearest land is too far away: see Demographics of Iceland., an ethnic minority people from Japan (between 1863 and early 1870s).]]
 -   Japan: Japan is also traditionally seen as an example of a nation state and also the largest of the nation states, with population in excess of 120 million. Japan has a small number of minorities such as Ryūkyū peoples, Koreans and Chinese, and on the northern island of Hokkaidō, the indigenous Ainu minority. However, they are either numerically insignificant (Ainu), their difference is not as pronounced (though Ryukyuan culture is closely related to Japanese culture, it is nonetheless distinctive in that it historically received much more influence from China and has separate political and nonpolitical and religious traditions) or well assimilated (Zainichi population is collapsing due to assimilation/naturalisation).
 -   Lebanon: The Lebanese Arabs comprise about 95% of the population, with the remainder consisting of a few small ethnic minorities, as well as refugees or asylum seekers. Modern Lebanese identity is closely tied to the geography of Lebanon and its history. Although they are now an Arab people and ethnically homogeneous, its identity oversees overlapping or conflicting ideologies between its Phoenician heritage and Arab heritage. While many Lebanese regard themselves as Arab, some Lebanese Christians, especially the Maronites, regard themselves, their history, and their culture as Phoenician and not Arab, while still other Lebanese regard themselves as both.
 -   Lesotho: Lesotho's ethno-linguistic structure consists almost entirely of the Basotho (singular Mosotho), a Bantu-speaking people; about 99.7% of the population are Basotho.
@@ -109,8 +109,6 @@ The notion of a unifying "national identity" also extends to countries that host
 Innumerable conflicts have arisen where political boundaries did not correspond with ethnic or cultural boundaries.
 
 After World War II in the Josip Broz Tito era, nationalism was appealed to for uniting South Slav peoples. Later in the 20th century, after the break-up of the Soviet Union, leaders appealed to ancient ethnic feuds or tensions that ignited conflict between the Serbs, Croats and Slovenes, as well as Bosniaks, Montenegrins and Macedonians, eventually breaking up the long collaboration of peoples. Ethnic cleansing was carried out in the Balkans, resulting in the destruction of the formerly socialist republic and producing the civil wars in Bosnia and Herzegovina in 1992–95, resulting in mass population displacements and segregation that radically altered what was once a highly diverse and intermixed ethnic makeup of the region. These conflicts were largely about creating a new political framework of states, each of which would be ethnically and politically homogeneous. Serbs, Croats and Bosniaks insisted they were ethnically distinct although many communities had a long history of intermarriage. Presently Slovenia (89% Slovene), Croatia (90.4% Croat)[44] and Serbia (83% Serb) could be classified as nation states per se, whereas Macedonia (66% Macedonian), Montenegro (42% Montenegrin) and Bosnia and Herzegovina (50.1% Bosniak) are multinational states.
-
-Ethnolinguistic_map_of_China_1983.png
 
 Belgium is a classic example of a state that is not a nation state. The state was formed by secession from the United Kingdom of the Netherlands in 1830, whose neutrality and integrity was protected by the Treaty of London 1839; thus it served as a buffer state after the Napoleonic Wars between the European powers France, Prussia (after 1871 the German Empire) and the United Kingdom until World War I, when its neutrality was breached by the Germans. Currently, Belgium is divided between the Flemings in the north and the French-speaking or the German-speaking population in the south. The Flemish population in the north speaks Dutch, the Walloon population in the south speaks French or German. The Brussels population speaks French or Dutch.
 
@@ -166,7 +164,7 @@ When national boundaries that do not match ethnic boundaries are drawn, such as 
 
 Irredentism
 
-Nazi_Germany.svg in 1943]]
+in 1943]]
 
 Ideally, the border of a nation state extends far enough to include all the members of the nation, and all of the national homeland. Again, in practice some of them always live on the 'wrong side' of the border. Part of the national homeland may be there too, and it may be governed by the 'wrong' nation. The response to the non-inclusion of territory and population may take the form of irredentism: demands to annex _unredeemed_ territory and incorporate it into the nation state.
 

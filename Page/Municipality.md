@@ -1,6 +1,6 @@
-Ponce_City_Hall.JPG, in the city of Ponce, Puerto Rico, is the seat of the government for both the city and the surrounding _barrios_ making up the municipality.]]
+, in the city of Ponce, Puerto Rico, is the seat of the government for both the city and the surrounding _barrios_ making up the municipality.]]
 
-Map_of_all_City_Municipalities_in_Slovenia.svg]] A MUNICIPALITY is usually a single administrative division having corporate status and powers of self-government or jurisdiction as granted by national and regional laws to which it is subordinate. It is to be distinguished (usually) from the county, which may encompass rural territory or numerous small communities such as towns, villages and hamlets.
+]] A MUNICIPALITY is usually a single administrative division having corporate status and powers of self-government or jurisdiction as granted by national and regional laws to which it is subordinate. It is to be distinguished (usually) from the county, which may encompass rural territory or numerous small communities such as towns, villages and hamlets.
 
 The term _municipality_ may also mean the governing or ruling body of a given municipality.[1] A municipality is a general-purpose administrative subdivision, as opposed to a special-purpose district.
 
@@ -22,7 +22,7 @@ Powers of municipalities range from virtual autonomy to complete subordination t
 
 In various countries
 
-5_Boroughs_Labels_New_York_City_Map.svg as well as its composite five boroughs are all municipalities. |alt=A map with five insular regions of different colors.]]
+as well as its composite five boroughs are all municipalities. |alt=A map with five insular regions of different colors.]]
 
 Communes
 

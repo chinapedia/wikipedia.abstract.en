@@ -10,7 +10,7 @@ The entire nuclear pore complex has a diameter of about 120 nanometers in verteb
 
 Transport through the nuclear pore complex
 
-Rancycle_nuclearimport_nuclearexport.png 3D-SIM-1_NPC_Confocal_vs_3D-SIM_detail.jpg and Chromatin]]
+and Chromatin]]
 
 Small particles (< ~30-60 kDa) are able to pass through the nuclear pore complex by passive diffusion.[14][15] Larger particles are also able to diffuse passively through the large diameter of the pore, at rates that decrease gradually with molecular weight. Efficient passage through the complex requires several protein factors,[16] and in particular, nuclear transport receptors that bind to cargo molecules and mediate their translocation across the NPC, either into the nucleus (importins) or out of it (exportins). The largest family of nuclear transport receptors are karyopherins, which includes dozens of both importins and exportins; this family is further subdivided to the karyopherin-α and the karyopherin-β subfamilies. Other nuclear transport receptors include NTF2 and some NTF2-like proteins.
 
@@ -41,7 +41,7 @@ There are different export pathways through the NPC for each RNA class that exis
 
 Assembly of the NPC
 
-Blausen_0212_CellNucleus.png As the NPC controls access to the genome, it is essential that it exists in large amounts in stages of the cell cycle where plenty of transcription is necessary. For example, cycling mammalian and yeast cells double the amount of NPC in the nucleus between the G1 and G2 phase of the cell cycle, and oocytes accumulate large numbers of NPCs to prepare for the rapid mitosis that exists in the early stages of development. Interphase cells must also keep up a level of NPC generation to keep the levels of NPC in the cell constant as some may get damaged. Some cells can even increase the NPC numbers due to increased transcriptional demand.[18]
+As the NPC controls access to the genome, it is essential that it exists in large amounts in stages of the cell cycle where plenty of transcription is necessary. For example, cycling mammalian and yeast cells double the amount of NPC in the nucleus between the G1 and G2 phase of the cell cycle, and oocytes accumulate large numbers of NPCs to prepare for the rapid mitosis that exists in the early stages of development. Interphase cells must also keep up a level of NPC generation to keep the levels of NPC in the cell constant as some may get damaged. Some cells can even increase the NPC numbers due to increased transcriptional demand.[18]
 
 Theories of assembly
 

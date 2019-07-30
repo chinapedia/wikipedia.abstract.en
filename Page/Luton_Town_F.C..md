@@ -7,8 +7,6 @@ Luton Town's most recent successful period began in 1981–82, when the club won
 
 History
 
-Luton_Town_F.C._(1898)_(cropped).jpg
-
 Formation and election to the Southern League (1885–1890)
 
 Luton Town Football Club was formed on 11 April 1885.[1][2] Before this there were many clubs in the town, the most prominent of which were Luton Wanderers and Luton Excelsior. A Wanderers player, George Deacon, came up with the idea of a "Town" club which would include all the best players in Luton. Wanderers secretary Herbert Spratley seized upon Deacon's idea and arranged a secret meeting on 13 January 1885 at the St Matthews school rooms in High Town. The Wanderers committee resolved to rename the club Luton Town—which was not well received by the wider community. The local newspapers referred to the club as "Luton Town (late Wanderers)". When George Deacon and John Charles Lomax then arranged a public meeting with the purpose of forming a "Luton Town Football Club", Spratley protested, saying there was already a Luton Town club; and the atmosphere was tense when the meeting convened in the town hall on the 11 April 1885. The meeting, attended by most football lovers in the town, heard about Spratley's secret January meeting and voted down his objections. The motion to form a "Luton Town Football Club", put forward by G H Small and seconded by E H Lomax, was carried. A club committee was elected by ballot and the team colours were agreed to be pink and dark blue shirts and caps.[3]
@@ -19,7 +17,7 @@ Early 20th Century (1900–1950)
 
 Eight years after arriving at Dunstable Road, Luton moved again, settling at their current ground, Kenilworth Road, in 1905.[14] Captain and left winger Bob Hawkes became Luton's first international player when he was picked to play for England against Ireland on 16 February 1907.[15] A poor 1911–12 season saw Luton relegated to the Southern League's Second Division; the club won promotion back two years later.[16][17] After the First World War broke out, Luton took part in The London Combination during 1915–16, and afterwards filled each season with friendly matches.[18][19] A key player of the period was Ernie Simms, a forward. Simms was invalided back to England after being wounded on the Italian front,[20][21] but recovered enough to regain his place in the Luton team and scored 40 goals during the 1916–17 season.[22]
 
-Paynevbristolrovers.jpg _(white shirt, left)_ scores one of his record-breaking 10 goals in one match|alt=A black-and-white newspaper photograph: taken from behind the goalkeeper's left-hand goalpost, a football is pictured on the right-hand side, in the foreground; an association football player in a white shirt and black shorts is seen on the left-hand side.]]
+_(white shirt, left)_ scores one of his record-breaking 10 goals in one match|alt=A black-and-white newspaper photograph: taken from behind the goalkeeper's left-hand goalpost, a football is pictured on the right-hand side, in the foreground; an association football player in a white shirt and black shorts is seen on the left-hand side.]]
 
 The Luton side first played in the white and black colours which it has retained for much of its history during the 1920–21 season, when the club rejoined the Football League;[23] the players had previously worn an assortment of colour combinations, most permanently sky blue shirts with white shorts and navy socks.[24] Such was the quality of Luton's team at this time that despite playing in the third tier, a fixture between Ireland and England at Windsor Park on 22 October 1921 saw three Luton players on the pitch—Louis Bookman and Allan Mathieson for Ireland, and the club's top goalscorer, Simms, for England.[25][26] However, after Luton finished fourth in the division, the squad was broken up as Simms, Bookman and Mathieson joined South Shields, Port Vale and Exeter City respectively.[27][28] Luton stayed in the Third Division South until 1936–37, when the team finished top and won promotion to the Second Division, at that time the second tier of English football.[29] During the promotion season, striker Joe Payne scored 55 goals in 39 games; during the previous season he had scored 10 in one match against Bristol Rovers, which remains a Football League record today.[30]
 
@@ -27,7 +25,7 @@ Success under Duncan and relegation (1950–1965)
 
 During the early 1950s, one of Luton's greatest sides[31] emerged under manager Dally Duncan.[32] The team included Gordon Turner, who went on to become Luton's all-time top goalscorer,[33] Bob Morton, who holds the record for the most club appearances,[34] and Syd Owen, an England international.[35] During this period, Luton sides also featured two England international goalkeepers, Ron Baynham and Bernard Streten,[36][37] as well as Irish internationals Seamus Dunne,[38] Tom Aherne and George Cummins.[39][40] This team reached the top flight for the first time in 1955–56, after finishing the season in second place behind Birmingham City on goal average.[41] A few years of success followed, including an FA Cup Final appearance against Nottingham Forest in 1958–59;[42] at the end of the season, Owen was voted FWA Footballer of the Year.[43] However, the club was relegated the following season and, by 1964–65, was playing in the fourth tier.[44]
 
-Oak_Road_End_at_Kenilworth_Road,_1980.jpg in 1980|alt=A professional football match in progress, viewed from behind one of the goals. One team is in white and the other is in yellow.]]
+in 1980|alt=A professional football match in progress, viewed from behind one of the goals. One team is in white and the other is in yellow.]]
 
 Back to the first tier and late century success (1965–1992)
 
@@ -35,7 +33,7 @@ In yo-yo club fashion, Luton were to return. A team including Bruce Rioch, John 
 
 On the last day of the 1982–83 season, the club's first back in the top tier, it narrowly escaped relegation: playing Manchester City at Maine Road, Luton needed to win to stay up, while City could escape with a draw.[53] A late winner by Yugoslavian substitute Raddy Antić saved the team and prompted Pleat to dance across the pitch performing a "jig of joy",[54] an image that has become iconic.[55] The club achieved its highest ever league position, seventh, under John Moore in 1986–87,[56] and, managed by Ray Harford, won the Football League Cup a year later with a 3–2 win over Arsenal. With ten minutes left on the clock and Arsenal 2–1 ahead, a penalty save from stand-in goalkeeper Andy Dibble sparked a late Luton rally: Danny Wilson equalised, before Brian Stein scored the winner with the last kick of the match.[57][58][59] The club reached the League Cup Final once more in 1988–89, but lost 3–1 to Nottingham Forest.[60]
 
-Luton_Town_lift_Conference_championship_trophy_2014.jpg title in 2014|alt=A crowd of men, some wearing grey suits and some wearing white shirts, navy shorts and white socks, celebrate raucously on a podium. An open bottle of champagne is visible in front of them, spiralling through the air as if somebody has thrown it]]
+title in 2014|alt=A crowd of men, some wearing grey suits and some wearing white shirts, navy shorts and white socks, celebrate raucously on a podium. An open bottle of champagne is visible in front of them, spiralling through the air as if somebody has thrown it]]
 
 Resurgence and fall to non-league (1992–2009)
 
@@ -49,8 +47,6 @@ Relegation meant that 2009–10 saw Luton playing in the Conference Premier, a c
 
 
 Club identity
-
-LutonTownFCBadge1973-1987.png
 
 The club's nickname, "the Hatters", reflects Luton's historical connection with the hat making trade, which has been prominent there since the 17th century.[90][91] The nickname was originally a variant on the now rarely seen straw-plaiters. Supporters of the club are also called Hatters.[92]
 
@@ -67,9 +63,7 @@ The club released the song "Hatters, Hatters", a collaboration between the Luton
 
 Stadium
 
-Kenilworth_Road.jpg
-
-LTFCattendancespostwar2017.png to 2016–17. Attendances rose with Luton's promotion in 1955 before plummeting during the early 1960s as the club suffered three relegations. Spectators returned with the promotions of the late 1960s and mid 1970s, before seeing a decline with the introduction of an all-seater stadium in 1986.|alt=See accompanying text]]
+to 2016–17. Attendances rose with Luton's promotion in 1955 before plummeting during the early 1960s as the club suffered three relegations. Spectators returned with the promotions of the late 1960s and mid 1970s, before seeing a decline with the introduction of an all-seater stadium in 1986.|alt=See accompanying text]]
 
 Luton Town's first ground was at Dallow Lane, the former ground of Excelsior.[113] The ground was next to the Dunstable to Luton railway line, and players regularly claimed to have trouble seeing the ball because of smoke from the trains.[114] A damaging financial loss during 1896–97 forced Luton to sell the stadium to stay afloat and, as a result, the club moved across the tracks to a stadium between the railway and Dunstable Road.[115] The Dunstable Road ground was opened by Herbrand Russell, 11th Duke of Bedford, who also donated £50 towards the £800 building costs.[116] When the site was sold for housing in 1905, the club was forced to move again at short notice,[117] to its present Kenilworth Road site, in time for the start of the 1905–06 season.[118][119]
 
@@ -90,7 +84,7 @@ In April 2016, the club announced its intention to build and move into a 17,500-
 
 Supporters and rivalries
 
-Luton_fans_at_Wembley_2012.png, May 2012|alt=A three-tiered football stadium stand, the bottom two full of people clad mostly in white and orange. Several white and orange flags are visible.]]
+, May 2012|alt=A three-tiered football stadium stand, the bottom two full of people clad mostly in white and orange. Several white and orange flags are visible.]]
 
 During the 2014–15 season, Luton Town had an average home league attendance of 8,702—the second highest in League Two behind only Portsmouth. In the 2013–14 season, when the club were in the Conference Premier, the club had significantly higher support than the other clubs in its league, with an average home attendance of 7,387; more than twice compared to the second highest of 3,568. Average attendances at Kenilworth Road fell with the installation of seats and the club's reduction in stature, dropping from 13,452 in 1982–83 to their 2014–15 level—a slump of 35% over 32 years.[143] A supporters' trust, Trust in Luton, owns shares in the club and elects a representative to the club's board.[144][145] The club's official supporters' group, Luton Town Supporters' Club, merged with Trust in Luton in 2014.[146] The club is associated with another supporters' group, the breakaway Loyal Luton Supporters Club.[147] Trust in Luton has, since March 2014, held the legal right to veto any changes to the club's identity, including name, nickname, colours, club crest and mascot.[148]
 
@@ -100,8 +94,6 @@ The club produces an official match programme for home games, _Talk of the Town_
 
 
 Records and statistics
-
-Luton_Town_FC_League_Performance.svg
 
 The record for the most appearances for Luton is held by Bob Morton, who turned out for Luton 562 times in all competitions.[156] Morton also holds the record for the most Football League appearances for the club, with 495.[157] Fred Hawkes holds the record for the most league appearances for Luton, having played in 509 league matches.[158] Six players, Gordon Turner, Andy Rennie, Brian Stein, Ernie Simms, Herbert Moody and Steve Howard, have scored more than 100 goals for Luton.[159][160][161][162]
 
@@ -155,9 +147,9 @@ Management
 
 Managers
 
-Joe_Kinnear_Hull_City_v._Newcastle_United_1.png, seen in 2009, was Luton manager from 2001 to 2003.|alt=A grey-haired man in a black suit walks out of a building.]]
+, seen in 2009, was Luton manager from 2001 to 2003.|alt=A grey-haired man in a black suit walks out of a building.]]
 
-Money,_Richard.jpg _(2007 photograph)_, a player for Luton during the 1982–83 season, managed the club from 2009 to 2011.|alt=A middle-aged, balding man in a dark suit looks at the camera with a neutral expression on his face.]]
+_(2007 photograph)_, a player for Luton during the 1982–83 season, managed the club from 2009 to 2011.|alt=A middle-aged, balding man in a dark suit looks at the camera with a neutral expression on his face.]]
 
     _As of 9 January 2019. Only managers in charge for a minimum of 50 competitive matches are counted._[183][184][185]
     _Key: M = matches; W = matches won; D = matches drawn; L = matches lost_

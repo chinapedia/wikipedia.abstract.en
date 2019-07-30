@@ -7,7 +7,7 @@ Cannon's congressional career spanned 46 years of cumulative service—a record 
 
 Early life
 
-Cannon was born in Guilford County, North Carolina, and in 1840 moved with his parents to Annapolis, Indiana, about 30 miles north of Terre Haute. He was the elder of two sons of Gulielma (née Hollingsworth) and Horace Franklin Cannon, a country doctor.[2] Horace Cannon drowned on August 7, 1851 when Joseph was fifteen years old as he tried to reach a sick patient by crossing Sugar Creek. Young Cannon took charge of the family farm. His brother William would become a successful banker and realtor. Joseph_Gurney_Cannon_-_Brady-Handy.jpg
+Cannon was born in Guilford County, North Carolina, and in 1840 moved with his parents to Annapolis, Indiana, about 30 miles north of Terre Haute. He was the elder of two sons of Gulielma (née Hollingsworth) and Horace Franklin Cannon, a country doctor.[2] Horace Cannon drowned on August 7, 1851 when Joseph was fifteen years old as he tried to reach a sick patient by crossing Sugar Creek. Young Cannon took charge of the family farm. His brother William would become a successful banker and realtor.
 
 Asked by Terre Haute politician and lawyer John Palmer Usher, future Secretary of the Interior under President Abraham Lincoln, to testify in a slander case, Cannon became fascinated with the law. Eventually, he asked Usher if he could study law under him and moved to Terre Haute. At age 19 he traveled to Cincinnati, Ohio, to attend a semester of law school at the University of Cincinnati law school. In 1858, he was admitted to the bar and commenced practice in Terre Haute, Indiana, but was disappointed when Usher refused to offer him a place in his office. That year he relocated to Tuscola, Illinois. His choice of a new hometown was somewhat involuntary, taking place while he was travelling from Shelbyville, Illinois, to Chicago to find more clients for his law firm. During the trip, he ran out of money. He boarded a Chicago-bound train in Mattoon, Illinois; after the train had started, he was asked for his ticket. As Cannon did not have a ticket, he was removed from the train in Tuscola.[3] There, he became State's attorney for the twenty-seventh judicial district of Illinois, holding the position from March 1861 to December 1868. He was one of the charter members of Tuscola's Masonic Lodge No. 332, which was founded on October 2, 1860.[4]
 
@@ -18,9 +18,9 @@ Political career
 
 He became a follower of Abraham Lincoln during the Lincoln–Douglas debates of 1858. After Lincoln was elected President in 1860, Cannon received an appointment as a regional prosecutor. Cannon, a member of the Republican Party, was elected to the United States House of Representatives from Illinois to the Forty-second and to the eight succeeding Congresses (March 4, 1873 – March 4, 1891), and was the chairman of the Committee on Expenditures in the Post Office Department (Forty-seventh Congress) and of the Committee on Appropriations (Fifty-first Congress). Cannon was an unsuccessful candidate for reelection in 1890 to the Fifty-second Congress, but was elected to the Fifty-third and to the nine succeeding Congresses that sat between 1893 and 1913.
 
-He attempted to gain the Speakership four times before succeeding. His antic speaking style, diminutive stature and pugnacious manner were his trademarks. The newspapers frequently lampooned him as a colorful rube. "Uncle Joe", as he was known, often clashed with fellow Republican Theodore Roosevelt, asserting that Roosevelt "has no more use for the Constitution than a tomcat has for a marriage license".[5] JoeCannon3.jpg in Chicago]]
+He attempted to gain the Speakership four times before succeeding. His antic speaking style, diminutive stature and pugnacious manner were his trademarks. The newspapers frequently lampooned him as a colorful rube. "Uncle Joe", as he was known, often clashed with fellow Republican Theodore Roosevelt, asserting that Roosevelt "has no more use for the Constitution than a tomcat has for a marriage license".[5] in Chicago]]
 
-59thUSCngrs-HOR,JGC_presides.jpg Cannon presides over the House of Representatives during the 59th Congress, 1906.]]
+Cannon presides over the House of Representatives during the 59th Congress, 1906.]]
 
 Cannon was chairman to the Committee on Appropriations (Fifty-fourth through Fifty-seventh Congresses), Committee on Rules (Fifty-eighth through Sixty-first Congresses), and Speaker of the House of Representatives (Fifty-eighth through Sixty-first Congresses). He received fifty-eight votes for the presidential nomination at the Republican National Convention at Chicago in 1908.
 
@@ -42,7 +42,7 @@ File:Chase Wilson 02900v.jpg|Woodrow Wilson, Warren G. Harding, Cannon, and Phil
 
 Post-Speaker
 
-Postcard_showing_Joseph_Cannon_residence_in_Danville,_Illinois,_USA_circa_1913.png Cannon was defeated in 1912 but returned in 1914 and was re-elected each congressional election until 1920. He was a critic of President Woodrow Wilson and U.S. entry into World War I. He was also an outspoken critic of Wilson's League of Nations.
+Cannon was defeated in 1912 but returned in 1914 and was re-elected each congressional election until 1920. He was a critic of President Woodrow Wilson and U.S. entry into World War I. He was also an outspoken critic of Wilson's League of Nations.
 
 Cannon declined to run in the 1922 congressional election, and retired at the end of his last term in 1923; he was featured on the cover of the first issue of _Time_ magazine on the last day of his last term in office.
 

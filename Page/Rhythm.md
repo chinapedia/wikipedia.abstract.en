@@ -1,4 +1,4 @@
-Phenakistoscope_3g07690b.gif demonstrates the waltz.]]
+demonstrates the waltz.]]
 
 RHYTHM (from Greek , _rhythmos_, "any regular recurring motion, symmetry" ) generally means a "movement marked by the regulated succession of strong and weak elements, or of opposite or different conditions" . This general meaning of regular recurrence or pattern in time can apply to a wide variety of cyclical natural phenomena having a periodicity or frequency of anything from microseconds to several seconds (as with the riff in a rock music song); to several minutes or hours, or, at the most extreme, even over many years.
 
@@ -7,17 +7,13 @@ In the performance arts, rhythm is the timing of events on a human scale; of mus
 
 Anthropology
 
-Traditional_indonesian_instruments02.jpg
-
 In his television series _How Music Works_, Howard Goodall presents theories that human rhythm recalls the regularity with which we walk and the heartbeat . Other research suggests that it does not relate to the heartbeat directly, but rather the speed of emotional affect, which also influences heartbeat. Yet other researchers suggest that since certain features of human music are widespread, it is "reasonable to suspect that beat-based rhythmic processing has ancient evolutionary roots" . Justin London writes that musical metre "involves our initial perception as well as subsequent anticipation of a series of beats that we abstract from the rhythm surface of the music as it unfolds in time" . The "perception" and "abstraction" of rhythmic measure is the foundation of human instinctive musical participation, as when we divide a series of identical clock-ticks into "tick-tock-tick-tock" (; ).
 
-Characteristic_rock_drum_pattern.png drum pattern, which lays a foundation of duration common in popular music: .]]
+drum pattern, which lays a foundation of duration common in popular music: .]]
 
 Joseph Jordania recently suggested that the sense of rhythm was developed in the early stages of hominid evolution by the forces of natural selection . Plenty of animals walk rhythmically and hear the sounds of the heartbeat in the womb, but only humans have the ability to be engaged (entrained) in rhythmically coordinated vocalizations and other activities. According to Jordania, development of the sense of rhythm was central for the achievement of the specific neurological state of the battle trance, crucial for the development of the effective defense system of early hominids. Rhythmic war cry, rhythmic drumming by shamans, rhythmic drilling of the soldiers and contemporary professional combat forces listening to the heavy rhythmic rock music all use the ability of rhythm to unite human individuals into a shared collective identity where group members put the interests of the group above their individual interests and safety.
 
 Some types of parrots can know rhythm . Neurologist Oliver Sacks states that chimpanzees and other animals show no similar appreciation of rhythm yet posits that human affinity for rhythm is fundamental, so that a person's sense of rhythm cannot be lost (e.g. by stroke). "There is not a single report of an animal being trained to tap, peck, or move in synchrony with an auditory beat" (, cited in , who adds, "No doubt many pet lovers will dispute this notion, and indeed many animals, from the Lippizaner horses of the Spanish Riding School of Vienna to performing circus animals appear to 'dance' to music. It is not clear whether they are doing so or are responding to subtle visual or tactile cues from the humans around them.") Human rhythmic arts are possibly to some extent rooted in courtship ritual .
-
-Compound_triple_drum_pattern.png
 
 The establishment of a basic beat requires the perception of a regular sequence of distinct short-duration pulses and, as a subjective perception of loudness is relative to background noise levels, a pulse must decay to silence before the next occurs if it is to be really distinct. For this reason, the fast-transient sounds of percussion instruments lend themselves to the definition of rhythm. Musical cultures that rely upon such instruments may develop multi-layered polyrhythm and simultaneous rhythms in more than one time signature, called polymeter. Such are the cross-rhythms of Sub-Saharan Africa and the interlocking _kotekan_ rhythms of the _gamelan_.
 
@@ -28,11 +24,9 @@ Terminology
 
 Pulse, beat and measure
 
-Metric_levels.svgs: beat level shown in middle with division levels above and multiple levels below.]] Most music, dance and oral poetry establishes and maintains an underlying "metric level", a basic unit of time that may be audible or implied, the pulse or _tactus_ of the mensural level (; ; ), or _beat level_, sometimes simply called the beat. This consists of a (repeating) series of identical yet distinct periodic short-duration stimuli perceived as points in time . The "beat" pulse is not necessarily the fastest or the slowest component of the rhythm but the one that is perceived as fundamental: it has a tempo to which listeners entrain as they tap their foot or dance to a piece of music . It is currently most often designated as a crotchet or quarter note in western notation (see time signature). Faster levels are _division levels_, and slower levels are _multiple levels_ . Maury Yeston clarified "Rhythms of recurrence" arise from the interaction of two levels of motion, the faster providing the pulse and the slower organizing the beats into repetitive groups . "Once a metric hierarchy has been established, we, as listeners, will maintain that organization as long as minimal evidence is present" .
+s: beat level shown in middle with division levels above and multiple levels below.]] Most music, dance and oral poetry establishes and maintains an underlying "metric level", a basic unit of time that may be audible or implied, the pulse or _tactus_ of the mensural level (; ; ), or _beat level_, sometimes simply called the beat. This consists of a (repeating) series of identical yet distinct periodic short-duration stimuli perceived as points in time . The "beat" pulse is not necessarily the fastest or the slowest component of the rhythm but the one that is perceived as fundamental: it has a tempo to which listeners entrain as they tap their foot or dance to a piece of music . It is currently most often designated as a crotchet or quarter note in western notation (see time signature). Faster levels are _division levels_, and slower levels are _multiple levels_ . Maury Yeston clarified "Rhythms of recurrence" arise from the interaction of two levels of motion, the faster providing the pulse and the slower organizing the beats into repetitive groups . "Once a metric hierarchy has been established, we, as listeners, will maintain that organization as long as minimal evidence is present" .
 
 Unit and gesture
-
-Rhythmic_units.png
 
 A durational pattern that synchronises with a pulse or pulses on the underlying metric level may be called a _rhythmic unit_. These may be classified as; _metric_—even patterns, such as steady eighth notes or pulses—_intrametric_—confirming patterns, such as dotted eighth-sixteenth note and swing patterns—_contrametric_—non-confirming, or syncopated patterns and _extrametric_—irregular patterns, such as tuplets.
 
@@ -62,7 +56,7 @@ Curtis Roads takes a wider view by distinguishing nine-time scales, this time in
 
 Metric structure
 
-Claves-detail.gif: Each cell of the grid corresponds to a fixed duration of time with a resolution fine enough to capture the timing of the pattern, which may be counted as two bars of four beats in divisive (metrical or symmetrical) rhythm, each beat divided into two cells. The first bar of the pattern may also usefully be counted additively (in measured or asymmetrical rhythm) as .]]
+: Each cell of the grid corresponds to a fixed duration of time with a resolution fine enough to capture the timing of the pattern, which may be counted as two bars of four beats in divisive (metrical or symmetrical) rhythm, each beat divided into two cells. The first bar of the pattern may also usefully be counted additively (in measured or asymmetrical rhythm) as .]]
 
 The study of rhythm, stress, and pitch in speech is called prosody (see also: prosody (music)): it is a topic in linguistics and poetics, where it means the number of lines in a verse, the number of syllables in each line and the arrangement of those syllables as long or short, accented or unaccented. Music inherited the term "meter or metre" from the terminology of poetry (; ; ).
 
@@ -70,7 +64,7 @@ The metric structure of music includes meter, tempo and all other rhythmic aspec
 
 Dance music has instantly recognizable patterns of beats built upon a characteristic tempo and measure. The Imperial Society of Teachers of Dancing defines the tango, for example, as to be danced in time at approximately 66 beats per minute. The basic slow step forwards or backwards, lasting for one beat, is called a "slow", so that a full "right–left" step is equal to one measure (_See Rhythm and dance_).
 
-clavepattern.svg relative to the one above, in one instead of two four-beat measures .]]
+relative to the one above, in one instead of two four-beat measures .]]
 
 The general classifications of _metrical rhythm_, _measured rhythm_, and _free rhythm_ may be distinguished . Metrical or divisive rhythm, by far the most common in Western music calculates each time value as a multiple or fraction of the beat. Normal accents re-occur regularly providing systematical grouping (measures). Measured rhythm (additive rhythm) also calculates each time value as a multiple or fraction of a specified time unit but the accents do not recur regularly within the cycle. Free rhythm is where there is neither , such as in Christian chant, which has a basic pulse but a freer rhythm, like the rhythm of prose compared to that of verse . _See Free time (music)_.
 
@@ -79,7 +73,7 @@ Finally some music, such as some graphically scored works since the 1950s and no
 
 Composite rhythm
 
-Bach,_Sinfonia_in_F_minor_BWV_795,_mm._1-3a_composite_rhythm.png's _Sinfonia in F minor_ BWV 795, mm. 1–3 .]]
+'s _Sinfonia in F minor_ BWV 795, mm. 1–3 .]]
 
 A _composite rhythm_ is the durations and patterns (rhythm) produced by amalgamating all sounding parts of a musical texture. In music of the common practice period, the composite rhythm usually confirms the meter, often in metric or even-note patterns identical to the pulse on a specific metric level. White defines _composite rhythm_ as, "the resultant overall rhythmic articulation among all the voices of a contrapuntal texture" . This concept was concurrently defined as “attack point rhythm” by Maury Yeston in 1976 as “the extreme rhythmic foreground of a composition – the absolute surface of articulated movement” .
 
@@ -99,7 +93,7 @@ In the western academic world several schools and training courses have been dev
 
 African music
 
-Diffa_Niger_Griot_DSC_0177.jpg In the Griot tradition of Africa everything related to music has been passed on orally. Babatunde Olatunji (1927–2003) developed a simple series of spoken sounds for teaching the rhythms of the hand-drum, using six vocal sounds, "Goon, Doon, Go, Do, Pa, Ta", for three basic sounds on the drum, each played with either the left or the right hand. The debate about the appropriateness of staff notation for African music is a subject of particular interest to outsiders while African scholars from Kyagambiddwa to Kongo have, for the most part, accepted the conventions and limitations of staff notation, and produced transcriptions to inform and enable discussion and debate .
+In the Griot tradition of Africa everything related to music has been passed on orally. Babatunde Olatunji (1927–2003) developed a simple series of spoken sounds for teaching the rhythms of the hand-drum, using six vocal sounds, "Goon, Doon, Go, Do, Pa, Ta", for three basic sounds on the drum, each played with either the left or the right hand. The debate about the appropriateness of staff notation for African music is a subject of particular interest to outsiders while African scholars from Kyagambiddwa to Kongo have, for the most part, accepted the conventions and limitations of staff notation, and produced transcriptions to inform and enable discussion and debate .
 
 John Miller has argued that West African music is based on the tension between rhythms, polyrhythms created by the simultaneous sounding of two or more different rhythms, generally one dominant rhythm interacting with one or more independent competing rhythms. These often oppose or complement each other and the dominant rhythm. Moral values underpin a musical system based on repetition of relatively simple patterns that meet at distant cross-rhythmic intervals and on call-and-response form. Collective utterances such as proverbs or lineages appear either in phrases translated into "drum talk" or in the words of songs. People expect musicians to stimulate participation by reacting to people dancing. Appreciation of musicians is related to the effectiveness of their upholding community values .
 

@@ -11,7 +11,7 @@ Adrian VI and his eventual successor Marcellus II are the only popes of the mode
 
 Early life
 
-Geboortehuis_van_Paus_Adriaan.jpg]] Adriaan Florensz was born on 2 March 1459 in the city of Utrecht, which was then the capital of the Prince-Bishopric of Utrecht,[2] a part of the Burgundian Netherlands in the Holy Roman Empire. He was born into modest circumstances as the son of Florens Boeyensz, also born in Utrecht, and his wife Geertruid. He had three older brothers, Jan, Cornelius, and Claes.[3] Adrian consistently signed with _Adrianus Florentii_ or _Adrianus de Traiecto_ ("Adrian of Utrecht") in later life, suggesting that his family did not yet have a surname but used patronymics only.[4]
+]] Adriaan Florensz was born on 2 March 1459 in the city of Utrecht, which was then the capital of the Prince-Bishopric of Utrecht,[2] a part of the Burgundian Netherlands in the Holy Roman Empire. He was born into modest circumstances as the son of Florens Boeyensz, also born in Utrecht, and his wife Geertruid. He had three older brothers, Jan, Cornelius, and Claes.[3] Adrian consistently signed with _Adrianus Florentii_ or _Adrianus de Traiecto_ ("Adrian of Utrecht") in later life, suggesting that his family did not yet have a surname but used patronymics only.[4]
 
 Adrian was probably raised in a house on the corner of the Brandsteeg and Oude Gracht that was owned by his grandfather Boudewijn (Boeyen, for short). His father, a carpenter and likely shipwright, died when Adrian was 10 years or younger.[5] Adrian studied from a very young age under the Brethren of the Common Life, either at Zwolle or Deventer and was also a student of the Latin school (now _Gymnasium Celeanum_) in Zwolle.[6]
 
@@ -35,7 +35,7 @@ On 14 November 1516 the King commissioned him Inquisitor General of Aragon.
 
 In his fifth Consistory for the creation of cardinals, on 1 July 1517, Pope Leo X (1513–21) named thirty-one cardinals among whom was Adrianus de Traiecto,[15] naming him Cardinal Priest of the Basilica of Saints John and Paul on the Coelian Hill.[16]
 
-During the minority of Charles V, Adrian was named to serve with Cardinal Francisco Jimenez de Cisneros as co-regent of Spain. After the death of Jimenez, Adrian was appointed (14 March 1518) General of the Reunited Inquisitions of Castile and Aragon, in which capacity he acted until his departure for Rome.[17] When Charles V left Spain for the Netherlands in 1520, he appointed Cardinal Adrian Regent of Spain, during which time he had to deal with the Revolt of the Comuneros. Pope_Adrian_VI.JPG]]
+During the minority of Charles V, Adrian was named to serve with Cardinal Francisco Jimenez de Cisneros as co-regent of Spain. After the death of Jimenez, Adrian was appointed (14 March 1518) General of the Reunited Inquisitions of Castile and Aragon, in which capacity he acted until his departure for Rome.[17] When Charles V left Spain for the Netherlands in 1520, he appointed Cardinal Adrian Regent of Spain, during which time he had to deal with the Revolt of the Comuneros. ]]
 
 
 Papal election
@@ -55,7 +55,7 @@ His plan was to attack notorious abuses one by one; however, in his attempt to i
 
 Papacy
 
-Adrian VI was not successful as a peacemaker among Christian princes, whom he hoped to unite in a war against the Turks. In August 1523 he was forced into an alliance with the Empire, England, and Venice against France; meanwhile, in 1522 Suleiman the Magnificent (1520–66) had conquered Rhodes. Portrait_of_Pope_Adrian_VI.jpg In his reaction to the early stages of the Lutheran revolt, Adrian VI did not completely understand the gravity of the situation. At the Diet of Nuremberg, which opened in December 1522, he was represented by Francesco Chieregati, whose private instructions contain the frank admission that the disorder of the Church was perhaps the fault of the Roman Curia itself, and that it should be reformed.[21][22] However, the former professor and Inquisitor General was strongly opposed to any change in doctrine and demanded that Martin Luther be punished for teaching heresy.[23]
+Adrian VI was not successful as a peacemaker among Christian princes, whom he hoped to unite in a war against the Turks. In August 1523 he was forced into an alliance with the Empire, England, and Venice against France; meanwhile, in 1522 Suleiman the Magnificent (1520–66) had conquered Rhodes. In his reaction to the early stages of the Lutheran revolt, Adrian VI did not completely understand the gravity of the situation. At the Diet of Nuremberg, which opened in December 1522, he was represented by Francesco Chieregati, whose private instructions contain the frank admission that the disorder of the Church was perhaps the fault of the Roman Curia itself, and that it should be reformed.[21][22] However, the former professor and Inquisitor General was strongly opposed to any change in doctrine and demanded that Martin Luther be punished for teaching heresy.[23]
 
 He made only one cardinal in the course of his pontificate, Willem van Enckevoirt, made a cardinal-priest in a consistory held on September 10, 1523.
 
@@ -63,7 +63,7 @@ Adrian VI held no beatifications in his pontificate but canonized Saints Antonin
 
 Charles V's ambassador in Rome, Juan Manuel, lord of Belmonte, wrote that he was worried that Charles's influence over Adrian waned after Adrian's election, writing " The Pope is "deadly" afraid of the College of Cardinals. He does whatever two or three cardinals write to him in the name of the college."[24]
 
-SantaMariaAnima-TombaAdrianoVI01-SteO153.JPG in Rome]]
+in Rome]]
 
 
 Death
@@ -76,8 +76,6 @@ The pope was mocked by the people of Rome on the Pasquino, and the Romans, who h
 
 
 Pope Adrian VI in popular culture
-
-Engraving_of_the_birthhouse_of_pope_hadrian.jpg
 
 The first series of engravings used to educate Dutch school children at the turn of the 18th century includes Adrian VI in its woodcut on 'Famous Dutch Men and Women' with the following poem:
 

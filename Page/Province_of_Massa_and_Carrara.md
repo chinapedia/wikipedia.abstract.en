@@ -3,8 +3,6 @@ The PROVINCE OF MASSA-CARRARA () is a province in the Tuscany region of central 
 
 History
 
-Carta_delle_provincie_di_Massa,_Lucca,_Pisa_e_Livorno_%281896%29.jpg
-
 The province of "Massa e Carrara" was born in 1859 from the separation of the Lunigiana and the Garfagnana from the Ducato of Modena. Originally it was composed of three _circondari_: I° "Circondario of Massa and Carrara" (a group of seven districts divided in 14 municipalities), II° "Circondario" of Castelnuovo Garfagnana (four districts divided in 17 municipalities), III° "Circondario" of Pontremoli (three districts divided into six municipalities).
 
 Until the census of 1861, the province appears as part of Compartimento territoriale Modena, Reggio and Massa, but since the census of the population of 1871 it has been counted as part of Tuscany. Later, with the "Regio Decreto n. 1913 of September 2, 1923", the municipalities of Calice al Cornoviglio and Rocchetta Vara were detached from the province, and added to the new province of La Spezia. In the same period ("Regio Decreto n.2490 of November 9, 1923") the 17 municipalities of the "Circondario" Castelnuovo Garfagnana were removed from Emilia and assigned to the province of Lucca, in order to compensate for the passage to the new province of Pistoia of all the municipalities of the Val di Nievole.

@@ -7,7 +7,7 @@ History
 
 Formation (1986)
 
-BlackFrancisTroxy.jpg]]Guitarist Joey Santiago and songwriter Black Francis (born Charles Michael Kitteridge Thompson IV) met when they lived next to each other in a suite while attending the University of Massachusetts Amherst.[1] Although Santiago was worried about distractions, he noticed Francis played music and the pair began to jam together.[2] Francis embarked on a student exchange trip to Puerto Rico to study Spanish.[3] After six months, he returned to Amherst and dropped out of the university.[4] Francis and Santiago spent 1984 working in a warehouse, with Francis composing songs on his acoustic guitar and writing lyrics on the subway train.[5]
+]]Guitarist Joey Santiago and songwriter Black Francis (born Charles Michael Kitteridge Thompson IV) met when they lived next to each other in a suite while attending the University of Massachusetts Amherst.[1] Although Santiago was worried about distractions, he noticed Francis played music and the pair began to jam together.[2] Francis embarked on a student exchange trip to Puerto Rico to study Spanish.[3] After six months, he returned to Amherst and dropped out of the university.[4] Francis and Santiago spent 1984 working in a warehouse, with Francis composing songs on his acoustic guitar and writing lyrics on the subway train.[5]
 
 The pair formed a band in January 1986.[6] Two weeks later, Francis placed an advertisement seeking a bass player who liked both the folk music act Peter, Paul and Mary and the alternative rock band Hüsker Dü.[7] Kim Deal was the only respondent, and arrived at the audition without a bass, as she had never played one before.[8][9] She was invited to join as she liked the songs Francis showed her. She obtained a bass, and the trio started rehearsing in Deal's apartment.[10]
 
@@ -33,7 +33,7 @@ During this time, Santiago and Lovering went on vacation[46] while Francis perfo
 
 _Bossanova_ and _Trompe le Monde_ (1990–1993)
 
-PixiesTicket1990.jpgIn 1990, all members of the group except for Deal moved to Los Angeles.[52] Lovering stated that he, Santiago, and Francis moved there "because the recording studio was there".[53] Unlike previous recordings, the band had little time to practice beforehand, and Black Francis wrote much of the album in the studio.[54] Featuring the singles "Velouria" and "Dig for Fire", _Bossanova_ reached number 70 in the United States.[55] In contrast, the album peaked at number three in the United Kingdom.[56] Also in 1990, the Pixies released a cover of the Paul Butterfield Blues Band's "Born in Chicago" on the compilation album _Rubáiyát: Elektra's 40th Anniversary_.[57]
+In 1990, all members of the group except for Deal moved to Los Angeles.[52] Lovering stated that he, Santiago, and Francis moved there "because the recording studio was there".[53] Unlike previous recordings, the band had little time to practice beforehand, and Black Francis wrote much of the album in the studio.[54] Featuring the singles "Velouria" and "Dig for Fire", _Bossanova_ reached number 70 in the United States.[55] In contrast, the album peaked at number three in the United Kingdom.[56] Also in 1990, the Pixies released a cover of the Paul Butterfield Blues Band's "Born in Chicago" on the compilation album _Rubáiyát: Elektra's 40th Anniversary_.[57]
 
 The band continued to tour and released _Trompe le Monde_ in 1991, their final album before their break-up. The album included "U-Mass", which has been described as being about college apathy,[58] and whose guitar riff was written years before at the University of Massachusetts before Francis and Santiago dropped out.[59] The album also featured a cover of "Head On" by The Jesus and Mary Chain.[60] Also that year, the band contributed a cover of "I Can't Forget" to the Leonard Cohen tribute album _I'm Your Fan_,[61] and began an international tour on which they played stadiums in Europe and smaller venues in the United States.[62] They then signed to be the support act of U2 on the lucrative US _Zoo TV_ Tour in 1992.[63] Tensions rose among band members, and at the end of the year, the Pixies went on sabbatical and focused on separate projects.[64]
 
@@ -47,7 +47,7 @@ Santiago played lead guitar on a number of Frank Black albums,[72][73][74] as we
 
 4AD and Elektra Records continued to release Pixies material: the best-of album _Death to the Pixies_ (1997),[84] the Peel-session compilation _Pixies at the BBC_ (1998),[85] and the _Complete 'B' Sides_ compilation (2001).[86] In 2002, material from the Pixies' original 17-track demo tape was released as an EP, _Pixies_, on Cooking Vinyl in the U.K.[87] and SpinArt Records in the U.S.;[88] Frank Black has also used these labels to release solo work[89][90] and albums with the Catholics.[91][92]
 
-Pixies_in_Kansas_City,_October_1,_2004.jpg, October 1, 2004. From left to right, Frank Black, David Lovering (back) and Kim Deal.]]
+, October 1, 2004. From left to right, Frank Black, David Lovering (back) and Kim Deal.]]
 
 Reunion (2003–12)
 

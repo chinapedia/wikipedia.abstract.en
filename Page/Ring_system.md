@@ -1,4 +1,4 @@
-Planet Ring}} PIA07712_-_F_ring_animation_videoquality_6_framerate_5.ogv Prometheus (right) and Pandora orbit just inside and outside the F ring of Saturn, but only Prometheus is thought to function as a ring shepherd]]
+Planet Ring}} Prometheus (right) and Pandora orbit just inside and outside the F ring of Saturn, but only Prometheus is thought to function as a ring shepherd]]
 
 A RING SYSTEM is a disc or ring orbiting an astronomical object that is composed of solid material such as dust and moonlets, and is a common component of satellite systems around giant planets. A ring system around a planet is also known as a PLANETARY RING system.[1]
 
@@ -7,7 +7,7 @@ The most prominent and most famous planetary rings in the Solar System are those
 
 Ring systems of planets
 
-Saturn_in_natural_colors_(captured_by_the_Hubble_Space_Telescope).jpg consists of chunks of ice and dust. The little dark spot on Saturn is the shadow from Saturn's moon Enceladus.]] There are three ways that thicker planetary rings (the rings around planets) have been proposed to have formed: from material of the protoplanetary disk that was within the Roche limit of the planet and thus could not coalesce to form moons, from the debris of a moon that was disrupted by a large impact, or from the debris of a moon that was disrupted by tidal stresses when it passed within the planet's Roche limit. Most rings were thought to be unstable and to dissipate over the course of tens or hundreds of millions of years, but it now appears that Saturn's rings might be quite old, dating to the early days of the Solar System.[3]
+consists of chunks of ice and dust. The little dark spot on Saturn is the shadow from Saturn's moon Enceladus.]] There are three ways that thicker planetary rings (the rings around planets) have been proposed to have formed: from material of the protoplanetary disk that was within the Roche limit of the planet and thus could not coalesce to form moons, from the debris of a moon that was disrupted by a large impact, or from the debris of a moon that was disrupted by tidal stresses when it passed within the planet's Roche limit. Most rings were thought to be unstable and to dissipate over the course of tens or hundreds of millions of years, but it now appears that Saturn's rings might be quite old, dating to the early days of the Solar System.[3]
 
 Fainter planetary rings can form as a result of meteoroid impacts with moons orbiting around the planet or, in case of Saturn's E-ring, the ejecta of cryovolcanic material.[4][5]
 
@@ -66,7 +66,7 @@ Fomalhaut b was found to be large and unclearly defined when detected in 2008. T
 
 Visual comparison
 
-Main_Ring_Galeleo_forward_PIA00538.jpg'' image of Jupiter's main ring.]] FDS_26852.19_Rings_of_Uranus.png'' image of Uranus's rings.]] PIA02202_Neptune's_full_rings.jpg'' images of Neptune's rings.]]
+'' image of Jupiter's main ring.]] '' image of Uranus's rings.]] '' images of Neptune's rings.]]
 
 
 See also

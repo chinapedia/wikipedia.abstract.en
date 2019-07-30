@@ -65,7 +65,7 @@ Production
 
 Development
 
-Galahad_grail.jpg provided a unifying motif for the film.]] Fifteen months before the BBC visited the set in May 1974, the Monty Python troupe assembled the first version of the screenplay.[2] When half of the resulting material was set in the Middle Ages, and half was set in the present day, the group opted to focus on the Middle Ages, revolving on the legend of the Holy Grail. By the fourth or fifth version of their screenplay, the story was complete, and the cast joked the fact that the Grail was never retrieved would be "a big let-down ... a great anti-climax".[3] Graham Chapman said a challenge was incorporating scenes that did not fit the Holy Grail motif.[4]
+provided a unifying motif for the film.]] Fifteen months before the BBC visited the set in May 1974, the Monty Python troupe assembled the first version of the screenplay.[2] When half of the resulting material was set in the Middle Ages, and half was set in the present day, the group opted to focus on the Middle Ages, revolving on the legend of the Holy Grail. By the fourth or fifth version of their screenplay, the story was complete, and the cast joked the fact that the Grail was never retrieved would be "a big let-down ... a great anti-climax".[3] Graham Chapman said a challenge was incorporating scenes that did not fit the Holy Grail motif.[4]
 
 Neither Terry Gilliam nor Terry Jones had directed a film before, and described it as a learning experience in which they would learn to make a film by making an entire full-length film.[5] The cast humorously described the novice directing style as employing the level of mutual disrespect always found in Monty Python's work.[6]
 
@@ -125,7 +125,7 @@ Other reviews were less enthusiastic. _Variety_ wrote that the storyline was "ba
 
 The film's reputation grew over time. In 2000, readers of _Total Film_ magazine voted _Holy Grail_ the fifth-greatest comedy film of all time.[46] The next Python film, _Life of Brian_, was ranked first.[47] A similar poll of Channel 4 viewers in 2005 placed _Holy Grail_ in sixth place (with _Life of Brian_ again topping the list).
 
-Azariaspamalot.jpg in a production of _Spamalot_]] In 2005, the film spawned a Tony Award-winning Broadway musical smash hit spinoff, _Spamalot_. Written primarily by Idle, the show has more of an overarching plot and leaves out certain portions of the movie due to difficulties in rendering certain effects on stage. Nonetheless, many of the jokes from the film are present in the show.[48]
+in a production of _Spamalot_]] In 2005, the film spawned a Tony Award-winning Broadway musical smash hit spinoff, _Spamalot_. Written primarily by Idle, the show has more of an overarching plot and leaves out certain portions of the movie due to difficulties in rendering certain effects on stage. Nonetheless, many of the jokes from the film are present in the show.[48]
 
 In 2011, an ABC prime-time special, _Best in Film: The Greatest Movies of Our Time_, counted down the best films chosen by fans based on results of a poll conducted by ABC and _People_. _Holy Grail_ was selected as the second best comedy after _Airplane!_.
 

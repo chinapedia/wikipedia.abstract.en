@@ -1,5 +1,3 @@
-_1_: RNA POLYMERASE, _2_: REPRESSOR, _3_: PROMOTER, _4_: OPERATOR, _5_: LACTOSE, _6_: LACZ, _7_: LACY, _8_: LACA. TOP: The gene is essentially turned off. There is no lactose to inhibit the repressor, so the repressor binds to the operator, which obstructs the RNA polymerase from binding to the promoter and making lactase. BOTTOM: The gene is turned on. Lactose is inhibiting the repressor, allowing the RNA polymerase to bind with the promoter and express the genes, which synthesize lactase. Eventually, the lactase will digest all of the lactose, until there is none to bind to the repressor. The repressor will then bind to the operator, stopping the manufacture of lactase.
-
 In genetics, a PROMOTER is a region of DNA that leads to initiation of transcription of a particular gene. Promoters are located near the transcription start sites of genes, upstream on the DNA (towards the 5' region of the sense strand). Promoters can be about 100–1000 base pairs long.[1]
 
 
@@ -72,7 +70,7 @@ Eukaryotic
 
 Eukaryotic promoters are diverse and can be difficult to characterize, however, recent studies show that they are divided in more than 10 classes.[10]
 
-Ten_classes_of_eukaryotic_promoters_and_their_representative_K-DNA_patterns.jpg'''. The representative eukaryotic promoter classes are shown in the following sections: (A) AT-based class, (B) CG-based class, (C) ATCG-compact class, (D) ATCG-balanced class, (E) ATCG-middle class, (F) ATCG-less class, (G) AT-less class, (H) CG-spike class, (I) CG-less class and (J) ATspike class.[11]]]
+'''. The representative eukaryotic promoter classes are shown in the following sections: (A) AT-based class, (B) CG-based class, (C) ATCG-compact class, (D) ATCG-balanced class, (E) ATCG-middle class, (F) ATCG-less class, (G) AT-less class, (H) CG-spike class, (I) CG-less class and (J) ATspike class.[11]]]
 
 Gene promoters are typically located upstream of the gene and can have regulatory elements several kilobases away from the transcriptional start site (enhancers). In eukaryotes, the transcriptional complex can cause the DNA to bend back on itself, which allows for placement of regulatory sequences far from the actual site of transcription. Eukaryotic RNA-polymerase-II-dependent promoters can contain a TATA element (consensus sequence TATAAA), which is recognized by the general transcription factor TATA-binding protein (TBP); and a B recognition element (BRE), which is recognized by the general transcription factor TFIIB.[12][13][14] The TATA element and BRE typically are located close to the transcriptional start site (typically within 30 to 40 base pairs).
 
@@ -103,7 +101,7 @@ A wide variety of algorithms have been developed to facilitate detection of prom
 
 Evolutionary change
 
-Superposition_between_promoter_distributions.png Changes in promoter sequences are critical in evolution as indicated by the relatively stable number of genes in many lineages. For instance, most vertebrates have roughly the same number of protein-coding genes (about 20,000) which are often highly conserved in sequence, hence much of evolutionary change must come from changes in gene expression.[33][34]
+Changes in promoter sequences are critical in evolution as indicated by the relatively stable number of genes in many lineages. For instance, most vertebrates have roughly the same number of protein-coding genes (about 20,000) which are often highly conserved in sequence, hence much of evolutionary change must come from changes in gene expression.[33][34]
 
 De novo origin of promoters
 

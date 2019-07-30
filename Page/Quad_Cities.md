@@ -15,7 +15,7 @@ The first railroad bridge built across the Mississippi River connected Davenport
 
 Evolution of an identity
 
-Quad_Cities_1919_Automobile_Blue_Book.jpg After the Civil War, the region began to gain a common identity. The river towns that were thoughtfully planned and competently led flourished, while other settlements, usually get-rich-quick schemes for speculators, failed to pan out. By World War I, the towns of Davenport, Rock Island, and Moline had begun to style themselves as the "Tri-Cities," a cluster of three more-or-less equally-sized river communities growing around the small bend of the Mississippi River where it flows west. But with the growth of Rock Island County, during the 1930s the term "Quad Cities" came into vogue, as East Moline was given "equal status." Despite the fact that the region had earned the name "Quad Cities," the National Basketball Association had a franchise in Moline, Illinois, from 1946 to 1951 called the "Tri-Cities Blackhawks." Then, with the opening of an Alcoa (now Arconic) plant east of Davenport in 1948, the town of Bettendorf underwent so much growth that many people in the community discussed the adoption of the name "Quint Cities",[9] But by this time, the name "Quad Cities" had become known well beyond the area, and "Quint Cities" never caught on, despite the efforts of WOC-TV (as KWQC-TV was then called) and others. Consequently, when Bettendorf passed East Moline in size, there was some debate about whether Bettendorf had "displaced" East Moline. Instead, local officials, such as the Chamber of Commerce,[10] have chosen an inclusive approach, maintaining the name "Quad Cities" yet including all five cities.[11]
+After the Civil War, the region began to gain a common identity. The river towns that were thoughtfully planned and competently led flourished, while other settlements, usually get-rich-quick schemes for speculators, failed to pan out. By World War I, the towns of Davenport, Rock Island, and Moline had begun to style themselves as the "Tri-Cities," a cluster of three more-or-less equally-sized river communities growing around the small bend of the Mississippi River where it flows west. But with the growth of Rock Island County, during the 1930s the term "Quad Cities" came into vogue, as East Moline was given "equal status." Despite the fact that the region had earned the name "Quad Cities," the National Basketball Association had a franchise in Moline, Illinois, from 1946 to 1951 called the "Tri-Cities Blackhawks." Then, with the opening of an Alcoa (now Arconic) plant east of Davenport in 1948, the town of Bettendorf underwent so much growth that many people in the community discussed the adoption of the name "Quint Cities",[9] But by this time, the name "Quad Cities" had become known well beyond the area, and "Quint Cities" never caught on, despite the efforts of WOC-TV (as KWQC-TV was then called) and others. Consequently, when Bettendorf passed East Moline in size, there was some debate about whether Bettendorf had "displaced" East Moline. Instead, local officials, such as the Chamber of Commerce,[10] have chosen an inclusive approach, maintaining the name "Quad Cities" yet including all five cities.[11]
 
 1980s–current
 
@@ -62,7 +62,7 @@ The Jewish population is about 500-600, which is down from about 1,800-2,000 in 
 
 Landmarks
 
-JDPavilionMar06.jpg in Moline]] Downtown_Rock_Island,_IL.jpg Figge_Art_Museum_2.jpg in Downtown Davenport, Iowa]]
+in Moline]] in Downtown Davenport, Iowa]]
 
 -   The business Antique Archeology, featured on the History Channel show _American Pickers_, is located in LeClaire
 -   Brady Street Stadium, a major high-school sports venue along Davenport's Brady Street (U.S. 61)
@@ -97,7 +97,7 @@ JDPavilionMar06.jpg in Moline]] Downtown_Rock_Island,_IL.jpg Figge_Art_Museum_2.
 
 Noteworthy companies
 
-Konebuilding.JPG Building in Downtown Moline, Illinois.]]
+Building in Downtown Moline, Illinois.]]
 
 -   Adolph's Mexican Foods
 -   Arconic
@@ -284,7 +284,7 @@ Also in 2012, the PBS Frontline documentary _Poor Kids_ was filmed in and around
 
 Transportation
 
-I-74_Bridge.jpg, connecting Bettendorf, Iowa, and Moline, Illinois, is located near the geographic center of the Quad Cities.]] Four interstate highways serve the Quad Cities: Interstate 80, Interstate 280, Interstate 74 serve both states while Interstate 88 serves just Illinois. United States highways include U.S. Route 6 and U.S. Route 67 which run through both Iowa and Illinois, while U.S. Route 61 serves just Iowa and U.S. Route 150 serves just Illinois. A total of five bridges accessible by automobiles connect Iowa with Illinois in the Quad Cities across the Mississippi River. The Fred Schwengel Memorial Bridge carries Interstate 80 and connects Le Claire, Iowa, with Rapids City, Illinois. Continuing downstream, the I-74 Bridge connects Bettendorf, Iowa, with Moline, Illinois, and is the busiest bridge with an average of 70,400 cars a day.[43] The Government Bridge connects Downtown Davenport with the Rock Island Arsenal. Three bridges connect Davenport with Rock Island, Illinois; The Rock Island Centennial Bridge, The Crescent Rail Bridge, and the furthest downstream bridge, the Sergeant John F. Baker, Jr. Bridge which carries I-280.
+, connecting Bettendorf, Iowa, and Moline, Illinois, is located near the geographic center of the Quad Cities.]] Four interstate highways serve the Quad Cities: Interstate 80, Interstate 280, Interstate 74 serve both states while Interstate 88 serves just Illinois. United States highways include U.S. Route 6 and U.S. Route 67 which run through both Iowa and Illinois, while U.S. Route 61 serves just Iowa and U.S. Route 150 serves just Illinois. A total of five bridges accessible by automobiles connect Iowa with Illinois in the Quad Cities across the Mississippi River. The Fred Schwengel Memorial Bridge carries Interstate 80 and connects Le Claire, Iowa, with Rapids City, Illinois. Continuing downstream, the I-74 Bridge connects Bettendorf, Iowa, with Moline, Illinois, and is the busiest bridge with an average of 70,400 cars a day.[43] The Government Bridge connects Downtown Davenport with the Rock Island Arsenal. Three bridges connect Davenport with Rock Island, Illinois; The Rock Island Centennial Bridge, The Crescent Rail Bridge, and the furthest downstream bridge, the Sergeant John F. Baker, Jr. Bridge which carries I-280.
 
 Several state highways also serve the area. Iowa Highway 22 is on Davenport's southwest side and runs west through the county, while Iowa Highway 130 runs along Northwest Boulevard on Davenport's north edge. Illinois Route 5 (John Deere Road) runs from Rock Island east till it runs into Interstate 88. Illinois Route 92 runs along the Mississippi River, while Illinois Route 84 runs along the east side of Rock Island County. Illinois Route 192 connects Highway 92 with Illinois Route 94 near Taylor Ridge. The Chicago – Kansas City Expressway also serves the area along Interstates 74, 80, and 88.
 

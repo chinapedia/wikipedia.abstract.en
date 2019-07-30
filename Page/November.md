@@ -15,9 +15,9 @@ The Western zodiac signs, for the month of November, are Scorpio (October 24 –
 
 November symbols
 
-Chrysanthemums.jpg]]
+]]
 
--   Topaze1.jpg crystal]]Citrine_taillee.jpg gemstone]]November's birthstone is the topaz (particularly, yellow) which symbolizes friendship and the citrine.
+-   crystal]] gemstone]]November's birthstone is the topaz (particularly, yellow) which symbolizes friendship and the citrine.
 -   Its birth flower is the chrysanthemum.[1]
 
 
@@ -216,7 +216,7 @@ DAY AFTER FOURTH THURSDAY: NOVEMBER 29
 
 Fixed observances
 
-Thanksgiving-Brownscombe.jpg is celebrated in November]]
+is celebrated in November]]
 
 -   November 1
     -   All Saints' Day (Catholicism)
@@ -261,7 +261,7 @@ Thanksgiving-Brownscombe.jpg is celebrated in November]]
 -   November 5
     -   Bank Transfer Day (United States)
     -   Colón Day (Panama)
-    -   2005-11-05_-_London_-_Battersea_Park_-_Guy_Fawkes_Night_-_Bondfire_(4887823453).jpg fireworks. Guy Fawkes Night is celebrated on November 5th in the United Kingdom.]]Guy Fawkes Night (United Kingdom, New Zealand and Newfoundland and Labrador, Canada), and its related observances:
+    -   fireworks. Guy Fawkes Night is celebrated on November 5th in the United Kingdom.]]Guy Fawkes Night (United Kingdom, New Zealand and Newfoundland and Labrador, Canada), and its related observances:
         -   West Country Carnival (English West Country)
     -   Kanakadasa Jayanthi (Karnataka, India)
     -   National Love Your Red Hair Day (Ireland)

@@ -9,7 +9,7 @@ PCP was initially made in 1926 and brought to market as an anesthetic medication
 
 Recreational uses
 
-Phencyclidine_(PCP).jpg Phencyclidine is used for its ability to induce a dissociative state. [24]
+Phencyclidine is used for its ability to induce a dissociative state. [24]
 
 Effects
 
@@ -122,8 +122,6 @@ PCP is metabolized into PCHP, PPC and PCAA. 90% of phencycledine is metabolised 
 
 When smoked, some of the compound is broken down by heat into 1-phenylcyclohexene (PC) and piperidine.
 
-PCP2PCandPOPERIDINE.png
-
 It takes 15 to 60 minutes for effects of phencyclidine to come into action.[122]
 
 
@@ -132,8 +130,6 @@ Chemistry
 PCP is an arylcyclohexylamine.
 
 Analogues
-
-ACHA_SAR.png
 
 Fewer than 30 different analogues of PCP were reported as being used on the street during the 1970s and 1980s, mainly in the United States.[123] The best known of these are rolicyclidine (PCPy or 1-(1-phenylcyclohexyl)pyrrolidine); eticyclidine (PCE or _N_-ethyl-1-phenylcyclohexylamine); and tenocyclidine (TCP or 1-(1-(2-thienyl)cyclohexyl)piperidine).[124] Only of a few of these compounds were widely used.[125]
 

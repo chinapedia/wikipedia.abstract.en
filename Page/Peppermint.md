@@ -5,8 +5,6 @@ Although the genus _Mentha_ comprises more than 25 species, the most common one 
 
 Botany
 
-Mentha-piperita.JPG Mentha_×_piperita_-_Köhler–s_Medizinal-Pflanzen-095.jpg
-
 Peppermint was first described in 1753 by Carl Linnaeus from specimens that had been collected in England; he treated it as a species,[13] but it is now universally agreed to be a hybrid.[14] It is a herbaceous rhizomatous perennial plant that grows to be tall, with smooth stems, square in cross section. The rhizomes are wide-spreading, fleshy, and bear fibrous roots. The leaves can be long and broad. They are dark green with reddish veins, and they have an acute apex and coarsely toothed margins. The leaves and stems are usually slightly fuzzy. The flowers are purple, long, with a four-lobed corolla about diameter; they are produced in whorls (verticillasters) around the stem, forming thick, blunt spikes. Flowering season lasts from mid- to late summer. The chromosome number is variable, with 2n counts of 66, 72, 84, and 120 recorded.[15][16][17] Peppermint is a fast-growing plant; once it sprouts, it spreads very quickly.
 
 
@@ -19,7 +17,7 @@ Outside of its native range, areas where peppermint was formerly grown for oil o
 
 Cultivation
 
-Mint_2014-06-01_00-53.jpg Peppermint generally grows best in moist, shaded locations, and expands by underground rhizomes. Young shoots are taken from old stocks and dibbled into the ground about 1.5 feet apart. They grow quickly and cover the ground with runners if it is permanently moist. For the home gardener, it is often grown in containers to restrict rapid spreading. It grows best with a good supply of water, without being water-logged, and planted in areas with part-sun to shade.
+Peppermint generally grows best in moist, shaded locations, and expands by underground rhizomes. Young shoots are taken from old stocks and dibbled into the ground about 1.5 feet apart. They grow quickly and cover the ground with runners if it is permanently moist. For the home gardener, it is often grown in containers to restrict rapid spreading. It grows best with a good supply of water, without being water-logged, and planted in areas with part-sun to shade.
 
 The leaves and flowering tops are used; they are collected as soon as the flowers begin to open and can be dried. The wild form of the plant is less suitable for this purpose, with cultivated plants having been selected for more and better oil content. They may be allowed to lie and wilt a little before distillation, or they may be taken directly to the still.
 
@@ -63,8 +61,6 @@ Peppermint contains terpenoids and flavonoids such as eriocitrin, hesperidin, an
 
 
 Oil
-
-PeppermintEssentialOil.png
 
 Peppermint oil has a high concentration of natural pesticides, mainly pulegone (found mainly in _Mentha arvensis_ var. _piperascens_ cornmint, field mint, Japanese mint, and to a lesser extent (6,530 ppm) in _Mentha_ × _piperita_ subsp. _notho_[49]) and menthone.[50] It is known to repel some pest insects, including mosquitos, and has uses in organic gardening.[51][52][53]
 

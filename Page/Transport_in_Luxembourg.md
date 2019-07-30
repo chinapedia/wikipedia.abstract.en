@@ -1,6 +1,6 @@
 TRANSPORT IN LUXEMBOURG is ensured principally by road, rail and air. There are also services along the River Moselle which forms the border with Germany. The road network has been significantly modernised in recent years with motorways to adjacent countries. The advent of the high-speed TGV link to Paris has led to renovation of the city's railway station while a new passenger terminal at Luxembourg Airport has recently been opened. Trams in the capital were introduced in December 2017 and there are plans for light-rail lines in adjacent areas.
 
-Cfl.png]]
+]]
 
 
 Railways
@@ -16,7 +16,7 @@ Roads
 
 Road network
 
-A7_between_Luxembourg_and_Ettelbrück.jpg The six Luxembourg motorways cover a total distance of 147 km, linking the capital with Trier (Germany), Thionville (France) and Arlon (Belgium) as well as with Esch-sur-Alzette and Ettelbruck in Luxembourg. Luxembourg's motorways are toll free. The speed limit is normally 130 km/h, 110 km/h in rainy weather. With 56.8 km of motorway per 1,000 km², Luxembourg probably now has the highest density of motorways in Europe.[2]
+The six Luxembourg motorways cover a total distance of 147 km, linking the capital with Trier (Germany), Thionville (France) and Arlon (Belgium) as well as with Esch-sur-Alzette and Ettelbruck in Luxembourg. Luxembourg's motorways are toll free. The speed limit is normally 130 km/h, 110 km/h in rainy weather. With 56.8 km of motorway per 1,000 km², Luxembourg probably now has the highest density of motorways in Europe.[2]
 
 Luxembourg City is a major business and financial center. Many workers prefer to live in the three neighboring countries and drive to work each day. This creates huge traffic jams during peak commuting hours. Tailbacks on the E411 motorway can extend five or more kilometers into Belgium and can take an hour or more to navigate.
 
@@ -39,7 +39,7 @@ All transport companies work together under the _Verkéiersverbond_, which uses 
 
 Trams
 
-Luxembourg's historic tramway network closed in 1964 but the city reintroduced trams at the end of 2017. The phased approach will initially see trams running through the Kirchberg district to the Grand Duchess Charlotte Bridge, before the line is eventually extended to Luxembourg railway station and the Cloche d'Or business district in the South, and Luxembourg Airport in the North. Service started on a part of the route on 10 December 2017. On the same day a new funicular line opened between the Grand Duchess Charlotte Bridge, commonly called the Pont Rouge or Red Bridge and a new station on a CFL rail line located in a valley below.[8] The full line will enter full operational service in 2021. L-Remich6.JPG]]
+Luxembourg's historic tramway network closed in 1964 but the city reintroduced trams at the end of 2017. The phased approach will initially see trams running through the Kirchberg district to the Grand Duchess Charlotte Bridge, before the line is eventually extended to Luxembourg railway station and the Cloche d'Or business district in the South, and Luxembourg Airport in the North. Service started on a part of the route on 10 December 2017. On the same day a new funicular line opened between the Grand Duchess Charlotte Bridge, commonly called the Pont Rouge or Red Bridge and a new station on a CFL rail line located in a valley below.[8] The full line will enter full operational service in 2021. ]]
 
 
 Water
@@ -52,8 +52,6 @@ Mertert near Grevenmacher on the Moselle is Luxembourg's only commercial port. W
 Air
 
 Luxembourg Airport at Findel, some 6 km to the north of the city, is Luxembourg's only commercial airport. Thanks to its long runway (4,000 m), even the largest types of aircraft are able to use its facilities.[12]
-
-Luxembourg-Findel_International_Airport.jpg
 
 Luxair, Luxembourg's international airline, and Cargolux, a cargo-only airline, operate out of the airport. In 2008, the airport ranked as Europe's 5th largest and the world's 23rd by cargo tonnage.[13]
 

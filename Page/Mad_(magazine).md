@@ -7,7 +7,7 @@ On July 3, 2019, it was widely reported that _Mad_ would no longer be sold on ne
 
 History
 
-Madhk1.jpg's cover for _Mad_ #1 (Oct–Nov 1952)]] Mad24.JPG _Mad_ began as a comic book published by EC, debuting in August 1952 (cover date October–November), and located in lower Manhattan at 225 Lafayette Street. In the early 1960s, the _Mad_ office moved to 485 Madison Avenue, a location identified in the magazine as "485 MADison Avenue".
+'s cover for _Mad_ #1 (Oct–Nov 1952)]] _Mad_ began as a comic book published by EC, debuting in August 1952 (cover date October–November), and located in lower Manhattan at 225 Lafayette Street. In the early 1960s, the _Mad_ office moved to 485 Madison Avenue, a location identified in the magazine as "485 MADison Avenue".
 
 The first issue was written almost entirely by Harvey Kurtzman, and featured illustrations by Kurtzman, along with Wally Wood, Will Elder, Jack Davis, and John Severin. Wood, Elder, and Davis were the three main illustrators throughout the 23-issue run of the comic book.
 
@@ -40,7 +40,7 @@ _Mad_{{'}}s satiric net was cast wide. The magazine often featured parodies of o
 
 In 2007, the _Los Angeles Times_{{'}} Robert Boyd wrote, "All I really need to know I learned from _Mad_ magazine", going on to assert:
 
-8.23.12MichaelBiehnByLuigiNovi11.jpg autographing a copy of _Mad_ #268 (January 1987) which parodies one of Biehn's films, _Aliens_]] In 1988, Geoffrey O'Brien wrote about the impact _Mad_ had upon the younger generation of the 1950s:
+autographing a copy of _Mad_ #268 (January 1987) which parodies one of Biehn's films, _Aliens_]] In 1988, Geoffrey O'Brien wrote about the impact _Mad_ had upon the younger generation of the 1950s:
 
 In 1994, Brian Siano in _The Humanist_ discussed the effect of _Mad_ on that segment of people already disaffected from society:
 
@@ -67,7 +67,7 @@ _Mad_ is known for many regular and semi-regular recurring features in its pages
 
 Alfred E. Neuman
 
-MAD_Magazine_(no._21,_front_cover).jpg]] The image most closely associated with the magazine is that of Alfred E. Neuman, the boy with misaligned eyes, a gap-toothed smile, and the perennial motto "What, me worry?" The original image was a popular humorous graphic for many decades before _Mad_ adopted it, but the face is now primarily associated with _Mad_.
+]] The image most closely associated with the magazine is that of Alfred E. Neuman, the boy with misaligned eyes, a gap-toothed smile, and the perennial motto "What, me worry?" The original image was a popular humorous graphic for many decades before _Mad_ adopted it, but the face is now primarily associated with _Mad_.
 
 _Mad_ initially used the boy's face in November 1954. His first iconic full-cover appearance was as a write-in candidate for President on issue #30 (December 1956), in which he was identified by name and sported his "What, me worry?" motto. He has since appeared in a slew of guises and comic situations. According to _Mad_ writer Frank Jacobs, a letter was once successfully delivered to the magazine through the U.S. mail bearing only Neuman's face, without any address or other identifying information.[43]
 
@@ -291,7 +291,7 @@ In September 2010, Cartoon Network began airing the animated series _Mad_, from 
 
 Computer software
 
-Totallymad.jpg In 1984, the _Spy vs. Spy_ characters were given their own computer game series, in which players could set traps for each other. The games were made for various computer systems such as the Atari 800, Apple II, Commodore 64, and ZX Spectrum. Whereas the original game took place in a nondescript building, the sequels transposed the action to a desert island for _Spy vs. Spy: The Island Caper_ and a polar setting for _Spy vs. Spy: Arctic Antics_.
+In 1984, the _Spy vs. Spy_ characters were given their own computer game series, in which players could set traps for each other. The games were made for various computer systems such as the Atari 800, Apple II, Commodore 64, and ZX Spectrum. Whereas the original game took place in a nondescript building, the sequels transposed the action to a desert island for _Spy vs. Spy: The Island Caper_ and a polar setting for _Spy vs. Spy: Arctic Antics_.
 
 Not to be confused with the later television show, _Mad TV_ is a television station management simulation computer game produced in 1991 by Rainbow Arts for the Mad franchise. It was released on the PC and the Amiga. It is faithful to the magazine's general style of cartoon humor but does not include any of the original characters except for a brief closeup of Alfred E. Neuman's eyes during the opening screens.
 

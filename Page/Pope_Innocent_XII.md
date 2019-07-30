@@ -17,7 +17,7 @@ At the age of 20 he became an official of the court of Pope Urban VIII. Pignatel
 
 Episcopate and cardinalate
 
-PIGNATELLI_ANTONIO.jpg Pignatelli was made Titular Archbishop of Larissa in 1652 and received episcopal consecration in Rome. He served as the Apostolic Nuncio to Poland from 1660 to 1668 and later in Austria from 1668 to 1671.[3] He was transferred to Lecce in 1671. Pope Innocent XI appointed him as the Cardinal-Priest of San Pancrazio in 1681 and then moved him to the see of Faenza in 1682. He was moved to his final post before the papacy, as Archbishop of Naples in 1686.
+Pignatelli was made Titular Archbishop of Larissa in 1652 and received episcopal consecration in Rome. He served as the Apostolic Nuncio to Poland from 1660 to 1668 and later in Austria from 1668 to 1671.[3] He was transferred to Lecce in 1671. Pope Innocent XI appointed him as the Cardinal-Priest of San Pancrazio in 1681 and then moved him to the see of Faenza in 1682. He was moved to his final post before the papacy, as Archbishop of Naples in 1686.
 
 
 Papacy
@@ -26,7 +26,7 @@ Papal election
 
 Pope Alexander VIII died in 1691 and the College of Cardinals assembled to hold a conclave to select his successor. Factions loyal to the Kingdom of France, Kingdom of Spain and the broader Holy Roman Empire failed to agree on a consensus candidate.
 
-After five months, Cardinal Pignatelli emerged as a compromise candidate between the cardinals of France and those of the Holy Roman Empire.[4] Pignatelli took his new name in honour of Pope Innocent XI and was crowned on 15 July 1691 by the protodeacon, Cardinal Urbano Sacchetti. He took possession of the Basilica of Saint John Lateran on 13 April 1692. Médaille_annuelle_en_or_du_Vatican_à_l'effigie_du_Pape_Innocent_XII,_1695.jpg
+After five months, Cardinal Pignatelli emerged as a compromise candidate between the cardinals of France and those of the Holy Roman Empire.[4] Pignatelli took his new name in honour of Pope Innocent XI and was crowned on 15 July 1691 by the protodeacon, Cardinal Urbano Sacchetti. He took possession of the Basilica of Saint John Lateran on 13 April 1692.
 
 Actions
 
@@ -48,7 +48,7 @@ He canonized Saint Zita of Lucca on 5 September 1696. Innocent XII beatified Aug
 
 Death
 
-Pope_Innocent_XII_Tomb.jpg Innocent XII died on 27 September 1700 and was succeeded by Pope Clement XI (1700–1721). His tomb at St. Peter's Basilica was sculpted by Filippo della Valle.
+Innocent XII died on 27 September 1700 and was succeeded by Pope Clement XI (1700–1721). His tomb at St. Peter's Basilica was sculpted by Filippo della Valle.
 
 
 Trivia

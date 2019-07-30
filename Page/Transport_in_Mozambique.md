@@ -1,13 +1,9 @@
-Mz-map.png
-
 Modes of transport in Mozambique include rail, road, water, and air. There are rail links serving principal cities and connecting the country with Malawi, Zimbabwe and South Africa. There are over 30,000km of roads, but much of the network is unpaved.
 
 On the Indian Ocean coast are several large seaports, including Nacala, Beira and Maputo, with further ports being developed. There are 3,750km of navigable inland waterways. There is an international airport at Maputo, 21 other paved airports, and over 100 with unpaved runways.
 
 
 Railways
-
-Railways_in_Mozambique.svg Steam_locomotive_Inhambane.jpg
 
 The Mozambican railway system developed over more than a century from three different ports on the Indian Ocean that serve as terminals for separate lines to the hinterland. The railroads were major targets during the Mozambican Civil War, were sabotaged by RENAMO, and are being rehabilitated. A parastatal authority, _Portos e Caminhos de Ferro de Moçambique_ (abbreviated CFM; in English MOZAMBIQUE PORTS AND RAILWAYS), oversees the railway system of Mozambique and its connected ports, but management has been largely outsourced. Each line has its own development corridor.
 
@@ -20,7 +16,7 @@ Towns served by railways
 
 Highways
 
-Caia_bridge.JPG there was estimated to be a total of 30,400 km of highways, of which 5,685 km was paved.
+there was estimated to be a total of 30,400 km of highways, of which 5,685 km was paved.
 
 
 Waterways

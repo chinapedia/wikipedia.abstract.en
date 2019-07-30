@@ -1,4 +1,4 @@
-Low-alcohol_beer,_Iran.jpg.]] LOW-ALCOHOL BEER is beer with little or no alcohol content and aims to reproduce the taste of beer without the inebriating effects of standard alcoholic brews. Most low-alcohol beers are lagers, but there are some low-alcohol ales. Low-alcohol beer is also known as LIGHT BEER, NON-ALCOHOLIC BEER, SMALL BEER, SMALL ALE, or NEAR-BEER.
+.]] LOW-ALCOHOL BEER is beer with little or no alcohol content and aims to reproduce the taste of beer without the inebriating effects of standard alcoholic brews. Most low-alcohol beers are lagers, but there are some low-alcohol ales. Low-alcohol beer is also known as LIGHT BEER, NON-ALCOHOLIC BEER, SMALL BEER, SMALL ALE, or NEAR-BEER.
 
 In the United States, beverages containing less than 0.5% alcohol by volume (ABV) were legally called non-alcoholic, according to the now-defunct Volstead Act. Because of its very low alcohol content, non-alcoholic beer may be legally sold to minors in many American states.
 
@@ -65,7 +65,7 @@ Missouri also has a legal classification for low-point beer, which it calls "non
 
 Near beer
 
-Tourtel_Nearbeer.JPG]] Originally, "near beer" was a term for malt beverages containing little or no alcohol (less than 0.5% ABV), which were mass-marketed during Prohibition in the United States. Near beer could not legally be labeled as "beer" and was officially classified as a "cereal beverage".[21] The public, however, almost universally called it "near beer".
+]] Originally, "near beer" was a term for malt beverages containing little or no alcohol (less than 0.5% ABV), which were mass-marketed during Prohibition in the United States. Near beer could not legally be labeled as "beer" and was officially classified as a "cereal beverage".[21] The public, however, almost universally called it "near beer".
 
 The most popular "near beer" was Bevo, brewed by the Anheuser-Busch company. The Pabst company brewed "Pablo", Miller brewed "Vivo", and Schlitz brewed "Famo". Many local and regional breweries stayed in business by marketing their own near-beers. By 1921, production of near beer had reached over 300 million US gallons (1 billion L) a year (36 L/s).
 
@@ -85,7 +85,7 @@ However, small beer/small ale can also refer to a beer made of the "second runni
 
 Non-alcoholic beer
 
-0.00_ABV_beers.jpg The Middle East accounts for almost a third of worldwide sales of nonalcoholic and alcohol-free beer.[25]
+The Middle East accounts for almost a third of worldwide sales of nonalcoholic and alcohol-free beer.[25]
 
 Arab world
 
@@ -132,7 +132,7 @@ Clausthaler Classic uses a different technology in their non-alcoholic beer than
 
 Hill Street Craft Brewed Lager
 
-Hill Street Craft Brewed Lager promotes going alcohol free for a month by offering discounts on their website. They currently only offer a lager in their beer section, but other things the company produces include cannabis infused beer[31]. PartakePaleAle.png
+Hill Street Craft Brewed Lager promotes going alcohol free for a month by offering discounts on their website. They currently only offer a lager in their beer section, but other things the company produces include cannabis infused beer[31].
 
 
 Legal drinking age in the US
@@ -180,7 +180,7 @@ Once the alcohol is removed, one proceeds with the normal finishing process in w
 
 Branding
 
-Piwo_Heineken_0_procent_-_sierpień_2018.jpg Many low-alcohol beer brands incorporate the colour blue into the packaging design, including Becks Blue, Heineken 0.0%, Ožujsko Cool and Erdinger Alkoholfrei.
+Many low-alcohol beer brands incorporate the colour blue into the packaging design, including Becks Blue, Heineken 0.0%, Ožujsko Cool and Erdinger Alkoholfrei.
 
 
 See also

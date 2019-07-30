@@ -13,7 +13,7 @@ John the Baptist is mentioned in all four canonical Gospels and the non-canonica
 
 In Mark
 
-Brueghel_l'Ancien_-_La_Prédication_de_Saint_Jean-Baptiste.jpg, 1566|upright=1.8]] The Gospel of Mark introduces John as a fulfilment of a prophecy from the Book of Isaiah about a messenger being sent ahead, and a voice crying out in the wilderness. John is described as wearing clothes of camel's hair, living on locusts and wild honey. John proclaims baptism of repentance for the forgiveness of sin, and says another will come after him who will not baptize with water, but with the Holy Spirit.
+, 1566|upright=1.8]] The Gospel of Mark introduces John as a fulfilment of a prophecy from the Book of Isaiah about a messenger being sent ahead, and a voice crying out in the wilderness. John is described as wearing clothes of camel's hair, living on locusts and wild honey. John proclaims baptism of repentance for the forgiveness of sin, and says another will come after him who will not baptize with water, but with the Holy Spirit.
 
 Jesus comes to John, and is baptized by him in the river Jordan. The account describes how; as he emerges from the water, the heavens open and the Holy Spirit descends on him 'like a dove'. A voice from heaven then says, "You are my Son, the Beloved; with you I am well pleased." ()
 
@@ -31,7 +31,7 @@ As it is written in Isaiah the prophet, "Behold, I send my messenger before your
 
 John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins. Now John was clothed with camel's hair and wore a leather belt around his waist and ate locusts and wild honey. And he preached, saying, "After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie. I have baptized you with water, but he will baptize you with the Holy Spirit."
 
-In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, "You are my beloved Son, with you I am well pleased." File:Bautismo de Cristo. Goya.tif
+In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, "You are my beloved Son, with you I am well pleased."
 
 Death of John (Mark 6)
 
@@ -43,7 +43,7 @@ But an opportunity came when Herod on his birthday gave a banquet for his nobles
 
 In Matthew
 
-Mattia_Preti_-_San_Giovanni_Battista_Predicazione.jpg]] The Gospel of Matthew account begins with the same modified quotation from Isaiah,[38] moving the Malachi and Exodus material to later in the text, where it is quoted by Jesus.[39] The description of John is taken directly from Mark ("clothing of camel's hair with a leather belt around his waist, and his food was locusts and wild honey"), along with the proclamation that one was coming who would baptise with the Holy Spirit "and fire".()
+]] The Gospel of Matthew account begins with the same modified quotation from Isaiah,[38] moving the Malachi and Exodus material to later in the text, where it is quoted by Jesus.[39] The description of John is taken directly from Mark ("clothing of camel's hair with a leather belt around his waist, and his food was locusts and wild honey"), along with the proclamation that one was coming who would baptise with the Holy Spirit "and fire".()
 
 Unlike Mark, Matthew describes John as critical of Pharisees and Sadducees and as preaching "the kingdom of heaven is at hand" and a "coming judgment".
 
@@ -87,7 +87,7 @@ At that time Herod the tetrarch heard about the fame of Jesus, and he said to hi
 
 In Luke and Acts
 
-InfantJesus_JohnBaptist.JPG, in the painting _The Holy Children with a Shell_ by Bartolomé Esteban Perez Murillo]]
+, in the painting _The Holy Children with a Shell_ by Bartolomé Esteban Perez Murillo]]
 
 The Gospel of Luke adds an account of John's infancy, introducing him as the miraculous son of Zechariah, an old man, and his wife Elizabeth, who was past menopause and therefore unable to have children.[42][43] According to this account, the birth of John was foretold by the angel Gabriel to Zechariah, while he was performing his functions as a priest in the temple of Jerusalem. Since he is described as a priest of the course of Abijah and Elizabeth as one of the daughters of Aaron,[44] this would make John a descendant of Aaron on both his father's and mother's side.[45] On the basis of this account, the Catholic as well as the Anglican and Lutheran liturgical calendars placed the feast of the Nativity of John the Baptist on June 24, six months before Christmas.[46]
 
@@ -193,7 +193,7 @@ In the Gospel of John
 
 The fourth gospel describes John the Baptist as "a man sent from God" who "was not the light", but "came as a witness, to bear witness to the light, so that through him everyone might believe".[50] John clearly denies being the Christ or Elijah or 'the prophet', instead describing himself as the "voice of one crying in the wilderness".[51]
 
-Upon literary analysis, it is clear that John is the "testifier and confessor _par excellence_", particularly when compared to figures like Nicodemus.[52] Mathis_Gothart_Grünewald_024.jpg, detail of the _Isenheim Altarpiece_|upright]] Jesus's baptism is implied but not depicted. Unlike the other gospels, it is John himself who testifies to seeing "the Spirit come down from heaven like a dove and rest on him". John explicitly announces that Jesus is the one "who baptizes with the Holy Spirit" and John even professes a "belief that he is the Son of God" and "the Lamb of God".
+Upon literary analysis, it is clear that John is the "testifier and confessor _par excellence_", particularly when compared to figures like Nicodemus.[52] , detail of the _Isenheim Altarpiece_|upright]] Jesus's baptism is implied but not depicted. Unlike the other gospels, it is John himself who testifies to seeing "the Spirit come down from heaven like a dove and rest on him". John explicitly announces that Jesus is the one "who baptizes with the Holy Spirit" and John even professes a "belief that he is the Son of God" and "the Lamb of God".
 
 The Gospel of John reports that Jesus' disciples were baptizing and that a debate broke out between some of the disciples of John and another Jew about purification.[53] In this debate John argued that Jesus "must become greater," while he (John) "must become less"[54] (Latin Vulgate: ).
 
@@ -253,17 +253,17 @@ Divergences between the passage's presentation and the biblical accounts of John
 
 Relics
 
-Nabi_Yahya_Mosque,_Sebastia,_c._1920.jpg, the traditional burial site in Sebastia, near Nablus, the West Bank, the Levant.]] records that "his disciples came and took away [John's] body and buried it". Theologian Joseph Benson refers to a belief that "it seems that [the body] had been thrown over the prison walls, without burial, probably by order of Herodias.[64]
+, the traditional burial site in Sebastia, near Nablus, the West Bank, the Levant.]] records that "his disciples came and took away [John's] body and buried it". Theologian Joseph Benson refers to a belief that "it seems that [the body] had been thrown over the prison walls, without burial, probably by order of Herodias.[64]
 
 The burial-place of John the Baptist was traditionally said to be at the Nabi Yahya Mosque (Saint John the Baptiste Mosque) in Sebastia in current Palestinian territories, and mention is made of his relics being honored there around the middle of the 4th century. The historians Rufinus and Theodoretus record that the shrine was desecrated under Julian the Apostate around 362, the bones being partly burned. A portion of the rescued relics were carried to Jerusalem, then to Alexandria, where on 27 May 395, they were laid in the basilica newly dedicated to the Forerunner on the former site of the temple of Serapis. The tomb at Sebaste continued, nevertheless, to be visited by pious pilgrims, and Saint Jerome bears witness to miracles being worked there.
 
 What became of the head of John the Baptist is difficult to determine. Nicephorus[65] and Symeon Metaphrastes say that Herodias had it buried in the fortress of Machaerus (in accordance with Josephus). Other writers say that it was interred in Herod's palace at Jerusalem; there it was found during the reign of Constantine I, and thence secretly taken to Emesa where it was concealed, the place remaining unknown for years, until it was manifested by revelation in 453. However, the decapitation cloth of Saint John is kept at the Aachen Cathedral. The Coptic Christian Orthodox Church also claim to hold the relics of Saint John the Baptist. These are to be found in a monastery in Lower Egypt between Cairo and Alexandria. It is possible, with permission from the monks, to see the original tomb where the remains were found.
 
-Shrine_of_John_the_Baptist,_Great_Umayyid_Mosque,_Damascus.jpg.]]
+.]]
 
 -   Several different locations claim to possess the severed head of John the Baptist. The current official place for the Catholic Church is the Shrine of Saint John the Baptiste (_Nabi Yahya_ in Arabic) inside the Umayyad Mosque in Damascus.[66] The place was visited by Pope John Paul II in 2001 who "paused for a minute's silent meditation at the tomb of St John the Baptist".[67] Previous to that the catholic Church used to believe that it was kept in the San Silvestro in Capite in Rome;[68] and then that it was held by the Knights Templar at Amiens Cathedral in France (brought home by Wallon de Sarton from the Fourth Crusade in Constantinople), at Antioch in Turkey (fate uncertain). Other traditions assume that it was in Residenz Museum in Munich, Germany (official residence of the Wittelsbach rulers of Bavaria from 1385 to 1918).[69] or even the parish church at Tenterden in Kent, where it was preserved up until the Reformation.
 
-Armenian_Chinsurah_2.jpg kisses the hand of a priest of Saint John the Baptist, Chinsurah]]
+kisses the hand of a priest of Saint John the Baptist, Chinsurah]]
 
 -   The saint's right hand, with which he baptised Jesus, is claimed to be in the Serbian Orthodox Cetinje monastery in Montenegro; Topkapi Palace in Istanbul;[70] and also in the Romanian skete of the Forerunner on Mount Athos. The saint's left hand is allegedly preserved in the Armenian Apostolic Church of St. John at Chinsurah, West Bengal, where each year on "Chinsurah Day" in January it blesses the Armenian Christians of Calcutta.[71] A crypt and relics said to be John's and mentioned in 11th- and 16th-century manuscripts, were discovered in 1969 during restoration of the Church of St. Macarius at the Monastery of Saint Macarius the Great in Scetes, Egypt;[72] Additional relics are claimed to reside in Gandzasar Monastery's _Cathedral of St. John the Baptist_, in Nagorno Karabakh.
 
@@ -275,7 +275,7 @@ Religious views
 
 Christianity
 
-San_Juan_Bautista_por_Joan_de_Joanes.jpg Rom,_Basilika_San_Giovanni_in_Laterano,_Hl._Johannes_der_Täufer_2.jpg, Rome]] Christians believe that John the Baptist had a specific role ordained by God as forerunner or precursor of Jesus, who was the foretold Messiah. The New Testament Gospels speak of this role. In the role of John is referred to as being "to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord." In as "...thou shalt go before the face of the Lord to prepare his ways" and in as being "To give knowledge of salvation unto his people by the remission of their sins."
+, Rome]] Christians believe that John the Baptist had a specific role ordained by God as forerunner or precursor of Jesus, who was the foretold Messiah. The New Testament Gospels speak of this role. In the role of John is referred to as being "to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord." In as "...thou shalt go before the face of the Lord to prepare his ways" and in as being "To give knowledge of salvation unto his people by the remission of their sins."
 
 There are several passages within the Old Testament which are interpreted by Christians as being prophetic of John the Baptist in this role. These include a passage in the Book of Malachi () that refers to a prophet who would _prepare the way of the Lord_:
 
@@ -295,7 +295,7 @@ Due to influence of Qumranic terminology and ideas in Paul's Epistle to the Ephe
 
 Catholic Church
 
-st_johns_head.jpg]] St_John_the_Baptists_tomb.JPG monastery in Lower Egypt. The bones of Saint John the Baptist were said to have been found here.]]
+]] monastery in Lower Egypt. The bones of Saint John the Baptist were said to have been found here.]]
 
 The Catholic Church commemorates Saint John the Baptist on two feast days:
 
@@ -306,7 +306,7 @@ According to Frederick Holweck, at the Visitation of the Blessed Virgin Mary to 
 
 Eastern Christianity
 
-John_the_Baptist_by_Prokopiy_Chirin_(1620s,_GTG).jpg _John the Baptist – the Angel of the Desert_ (Stroganov School, 1620s) Tretyakov Gallery, Moscow.]] The Eastern Catholic Churches and Eastern Orthodox faithful believe that John was the last of the Old Testament prophets, thus serving as a bridge between that period of revelation and the New Covenant. They also teach that, following his death, John descended into Hades and there once more preached that Jesus the Messiah was coming, so he was the Forerunner of Christ in death as he had been in life. Eastern Catholic and Orthodox churches will often have an icon of Saint John the Baptist in a place of honor on the iconostasis, and he is frequently mentioned during the Divine Services. Every Tuesday throughout the year is dedicated to his memory.
+_John the Baptist – the Angel of the Desert_ (Stroganov School, 1620s) Tretyakov Gallery, Moscow.]] The Eastern Catholic Churches and Eastern Orthodox faithful believe that John was the last of the Old Testament prophets, thus serving as a bridge between that period of revelation and the New Covenant. They also teach that, following his death, John descended into Hades and there once more preached that Jesus the Messiah was coming, so he was the Forerunner of Christ in death as he had been in life. Eastern Catholic and Orthodox churches will often have an icon of Saint John the Baptist in a place of honor on the iconostasis, and he is frequently mentioned during the Divine Services. Every Tuesday throughout the year is dedicated to his memory.
 
 The Eastern Orthodox Church remembers Saint John the Forerunner on six separate feast days, listed here in order in which they occur during the church year (which begins on September 1):
 
@@ -394,7 +394,7 @@ John is not asking an incidental question, but instead is issuing a public chall
 
 In art
 
-Puvis_de_Chavannes,_Pierre-Cécile_-_The_Beheading_of_St_John_the_Baptist_-_c._1869.jpg, _The Beheading of St John the Baptist_, c. 1869]] John_Everett_Millais_-_Christ_in_the_House_of_His_Parents_(`The_Carpenter's_Shop')_-_Google_Art_Project.jpg'' by John Everett Millais, 1849–50]] Fondazione_Querini_Stampalia_-_San_Giovanni_Battista_(1674-81)_-_Michele_Fabris.jpg]] San_juan_Wood_Sculture_By_Santiago_Martinez.jpg.]] Allori_C_San_Giovanni.jpg's _John the Baptist in the desert_]]
+, _The Beheading of St John the Baptist_, c. 1869]] '' by John Everett Millais, 1849–50]] ]] .]] 's _John the Baptist in the desert_]]
 
 The beheading of Saint John the Baptist is a standard theme in Christian art,[147] in which John's head is often depicted on a platter, which represents the request of Herod's stepdaughter, Salome.[148] He is also depicted as an ascetic wearing camel hair, with a staff and scroll inscribed _Ecce Agnus Dei_, or bearing a book or dish with a lamb on it.[149] In Orthodox icons, he often has angel's wings, since Mark 1:2 describes him as a messenger.[150]
 
@@ -402,13 +402,13 @@ The _Baptism of Christ_ was one of the earliest scenes from the _Life of Christ_
 
 A number of narrative scenes from his life were often shown on the predella of altarpieces dedicated to John, and other settings, notably the large series in grisaille fresco in the , which was Andrea del Sarto's largest work, and the frescoed _Life_ by Domenico Ghirlandaio in the Tornabuoni Chapel, both in Florence. There is another important fresco cycle by Filippo Lippi in Prato Cathedral. These include the typical scenes:[151] the _Annunciation to Zechariah_, John's birth, his naming by his father, the _Visitation_, John's departure for the desert, his preaching in the desert, the _Baptism of Christ_, John before Herod, the dance of Salome, and his beheading.
 
-'De_Gray'_Hours_(f.24.v)_St_John_the_Baptist.jpg]] Leonardo_da_Vinci_-_St_John_the_Baptist_-_WGA12723.jpg'' (c.1513–1516), Leonardo da Vinci]]
+]] '' (c.1513–1516), Leonardo da Vinci]]
 
 His birth, which unlike the Nativity of Jesus allowed a relatively wealthy domestic interior to be shown, became increasingly popular as a subject in the late Middle Ages, with depictions by Jan van Eyck in the Turin-Milan Hours and Ghirlandaio in the Tornabuoni Chapel being among the best known. His execution, a church feast-day, was often shown, and by the 15th-century scenes such as the dance of Salome became popular, sometimes, as in an engraving by Israhel van Meckenem, the interest of the artist is clearly in showing the life of Herod's court, given contemporary dress, as much as the martyrdom of the saint.[152] Salome bearing John's head on a platter equally became a subject for the Northern Renaissance taste for images of glamorous but dangerous women (Delilah, Judith and others),[153] and was often painted by Lucas Cranach the Elder and engraved by the Little Masters. These images remained popular into the Baroque, with Carlo Dolci painting at least three versions. John preaching, in a landscape setting, was a popular subject in Dutch art from Pieter Brueghel the Elder and his successors.
 
 As a child (of varying age), he is sometimes shown from the 15th century in family scenes from the life of Christ such as the _Presentation of Christ_, the _Marriage of the Virgin_ and the _Holy Kinship_. Leonardo da Vinci's versions of the _Virgin of the Rocks_ were influential in establishing a Renaissance fashion for variations on the Madonna and Child that included John. Raphael in particular painted many compositions of the subject, such as the _Alba Madonna_, _La belle jardinière_, _Aldobrandini Madonna_, _Madonna della seggiola_, _Madonna dell'Impannata_, which were among his best-known works. John was also often shown by himself as an older child or adolescent, usually already wearing his distinctive dress and carrying a long thin wooden cross – another theme influenced by Leonardo, whose equivocal composition, reintroducing the camel-skin dress, was developed by Raphael Titian and Guido Reni among many others. Often he is accompanied by a lamb, especially in the many Early Netherlandish paintings which needed this attribute as he wore normal clothes. Caravaggio painted an especially large number of works including John, from at least five largely nude youths attributed to him, to three late works on his death – the great _Execution_ in Malta, and two sombre Salomes with his head, one in Madrid, and one in London.
 
-St_John_the_Baptist_Titular_Statue_of_Xewkija_Gozo,_Malta.jpg – 1845. Xewkija]]
+– 1845. Xewkija]]
 
 Amiens cathedral, which holds one of the alleged heads of the Baptist, has a biographical sequence in polychrome relief, dating from the 16th century. This stresses the execution and the disposal of the saint's remains.
 
@@ -438,7 +438,7 @@ John the Baptist has appeared in a number of screen adaptations of the life of J
 
 Commemoration
 
-Surp_Garabed_Vank_(Hampikian,_1923).jpg at the Saint Karapet Monastery.[165][166]]] Ein_Kerem_Church_of_St_John_the_Baptist_by_David_Shankbone.jpg on the site where John the Baptist is said to have been born]]
+at the Saint Karapet Monastery.[165][166]]] on the site where John the Baptist is said to have been born]]
 
 Saint John the Baptist is the patron saint of Jordan: his beheading is said to have taken place in Machaerus in central Jordan.
 

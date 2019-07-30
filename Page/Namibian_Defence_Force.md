@@ -12,22 +12,20 @@ Defence spending and percentage of GDP included $90 million in 1997/98, 2.6% of 
 
 History
 
-Namibian_Army_WZ523_APC.jpg Major General A W Dennis, CB, OBE (rtd), British Army, previously Director of Military Assistance Overseas, made the following comments on the initial phase in Namibia at a conference in Pretoria, South Africa on 6 August 1992:[3]
+Major General A W Dennis, CB, OBE (rtd), British Army, previously Director of Military Assistance Overseas, made the following comments on the initial phase in Namibia at a conference in Pretoria, South Africa on 6 August 1992:[3]
 
   You will no doubt recall that the Angola accords were signed in Luanda on 22 December 1988. In November 1989 SWAPO won 57% of the votes in the Namibian General Election and immediately requested the help of a British Military Advisory and Training Team following independence on 21 March 1990. The team, initially 55 strong, was duly deployed on 26 March 1990 and the first leaders cadre, for the 1st and 2nd Battalions, was run from 17 April to 2 June. By 1 July, the 1st Battalion, about 1 000 men strong, accompanied by 5 BMATT Advisors, had deployed to the northern border. By November 1990, only four months later, the 5th Battalion had deployed and in early 1991 the 21st Guards Battalion had also been formed, four staff courses had been run, support weapons and logistics training was well advanced (indeed a logistics battalion deployed as early as July 1990) and an operational test exercise had been conducted. In addition the Ministry of Defence, a mixture of civilian and military personnel, was operating as a department of state. No-one would pretend that everything was working perfectly, nevertheless, a great deal had been achieved in the first year following independence. Most people would probably agree that at some 7 500 strong the Army is unnecessarily large, but sensible plans will need to be made for the employment of any surplus soldiers before they are discharged. Integration has not been easy to achieve, at least in part, because of the need to use several interpreters to cope with the wide variety of languages involved. Battalions are made up of approximately 70% ex-PLAN and 30% ex-SWATF. This mixture could have proved explosive but hounded by their BMATT instructors they united in a common task (or perhaps in the face of a common enemy!) and soon realised that they could work well together. At the higher levels, integration has been more patchy, at least in part because of the departure of most white South African and SWATF officers. But the Government's intentions seem clear in that it decided to split the four MOD directorates evenly, appointing two white and two black (ex PLAN) directors. In all this, BMATT Namibia has played a role remarkably similar to that of BMATT Zimbabwe.
 
-Namibian_Air_Force_K-8.jpg In August 1999, a separatist Lozi faction in the Caprivi Strip launched a coup attempt (see Caprivi conflict) which was summarily put down by the Namibian Defence Force.[4] The army has conducted security operations along the northern border with Angola. In the process of these operations, there were allegations in 2001 that the army has tortured people suspected of being UNITA sympathisers.[5] IRIN reported that the Ministry of Defence had admitted that two Namibian soldiers died fighting suspected UNITA rebels in southern Angola in July 2001.[6] The Namibian Defence Force assists in putting out wildfires.[7]
+In August 1999, a separatist Lozi faction in the Caprivi Strip launched a coup attempt (see Caprivi conflict) which was summarily put down by the Namibian Defence Force.[4] The army has conducted security operations along the northern border with Angola. In the process of these operations, there were allegations in 2001 that the army has tortured people suspected of being UNITA sympathisers.[5] IRIN reported that the Ministry of Defence had admitted that two Namibian soldiers died fighting suspected UNITA rebels in southern Angola in July 2001.[6] The Namibian Defence Force assists in putting out wildfires.[7]
 
 As of 13 October 2010, Sibbinda councillor Felix Mukupi has requested a meeting with the regional army commander in order to request 'the NDF to deploy its troops [on the Namibia/Zambia border area] stretching from Wenela to Kongola' in order to curtail stock thefts by gangs of cattle thieves from Zambia.[8]
 
-On 24 May 2010, Chen Bingde, Chief of the General Staff Department of the People's Liberation Army and member of the Central Military Commission, met Charles Namoloh and Peter Nambundunga, acting commander of the Namibian Defence Forces, in Windhoek.[9] At their meeting, the two sides had in-depth discussions on further strengthening exchanges and cooperation between the two armed forces. Chen was accompanied by the chief of staff of the Second Artillery Corps and two PLA Military Region chiefs of staff. Chen also met President Pohamba that day. NS_Brendan_Simbwaye.jpg In 2012, NDF officials announced the suspension of its recruitment campaign due to a lack of "accommodation facilities" for new personnel for a two-year period.[10] The suspension how ever did not include the recruitment of specialist personnel as the Namibian Navy in 2013 had a recruitment exercise for sailors(officers and men) and marines.[11] In 2014 recruitment resumed after accommodation issues were resolved.[12]
+On 24 May 2010, Chen Bingde, Chief of the General Staff Department of the People's Liberation Army and member of the Central Military Commission, met Charles Namoloh and Peter Nambundunga, acting commander of the Namibian Defence Forces, in Windhoek.[9] At their meeting, the two sides had in-depth discussions on further strengthening exchanges and cooperation between the two armed forces. Chen was accompanied by the chief of staff of the Second Artillery Corps and two PLA Military Region chiefs of staff. Chen also met President Pohamba that day. In 2012, NDF officials announced the suspension of its recruitment campaign due to a lack of "accommodation facilities" for new personnel for a two-year period.[10] The suspension how ever did not include the recruitment of specialist personnel as the Namibian Navy in 2013 had a recruitment exercise for sailors(officers and men) and marines.[11] In 2014 recruitment resumed after accommodation issues were resolved.[12]
 
 
 Organization and structure
 
 The Chief Of Defence Force is the highest-ranking officer and exercises overall executive command of the force. Service Chiefs are two star General Officers, Air Officers and Flag Officers in command of their respective arms of service. NDF directorates are led by one star General Officers, Air Officers and Flag Officers.The exception however is the Joint Operations Directorate whose head is a Major General, who also doubles up as the GOC Special Forces.The Joint Operations Directorate is responsible for Force deployment in the Military.
-
-Namibian_Defence_Force_Structure.jpeg
 
 -   Chief of Defence Force: Lieutenant-General John Mutwa[13]
     -   Army Commander: Major-General Tomas Hamunyela
@@ -43,7 +41,7 @@ Namibian_Defence_Force_Structure.jpeg
 
 Chief of Defence Force
 
-Namibian_Marines_manning_a_boat.jpg Namibian_Navy_Members.jpg The Chief of Defence Force is always a commissioned three star General/Air/Flag Officer from the officer corps. The first chief of the NDF was Lieutenant-General Dimo Hamaambo. He was previously the leader of PLAN, and a survivor of the Battle of Cassinga. Lieutenant-General Hamaambo was the first to be laid to rest at the Heroes' Acre memorial outside Windhoek, a few days after its official opening in 2002. Lieutenant-General Solomon Huwala replaced Hamaambo as Chief of the NDF on Hamaambo's retirement. After Lieutenant-General Huwala retired in October 2006, Lieutenant General Martin Shalli headed the NDF.[23]
+The Chief of Defence Force is always a commissioned three star General/Air/Flag Officer from the officer corps. The first chief of the NDF was Lieutenant-General Dimo Hamaambo. He was previously the leader of PLAN, and a survivor of the Battle of Cassinga. Lieutenant-General Hamaambo was the first to be laid to rest at the Heroes' Acre memorial outside Windhoek, a few days after its official opening in 2002. Lieutenant-General Solomon Huwala replaced Hamaambo as Chief of the NDF on Hamaambo's retirement. After Lieutenant-General Huwala retired in October 2006, Lieutenant General Martin Shalli headed the NDF.[23]
 
 President Hifikepunye Pohamba suspended Lieutenant-General Shalli from his post as Chief of Defence Force in 2009 over corruption allegations, dating back to the time when Shalli served as Namibia’s High Commissioner to Zambia.[24] During the time of the suspension, Army Commander Major General Peter Nambundunga acted as Chief.[25] Shalli was eventually forced to retire in January 2011; the post of Chief of the NDF was given to Epaphras Denga Ndaitwah.[26] Ndaitwah served until 31 December 2013 when the NDF Chief's position was given to Maj Gen John Mutwa.[27]
 
@@ -58,7 +56,7 @@ As of February 2012, it was reported that a Chinese company paid US $499,950 int
 
 NDF Sergeant Major
 
-Namibian_Special_Forces_on_a_Agrale_Marrua.png NDF Sergeant Major is the highest appointment a Non Commission Officer may receive. Duties of the NDF Sergeant Major includes making sure that discipline, drills, dressing code, performance standards and morale of the non commissioned officers are maintained.[29] The current NDF Sergeant Major is Warrant Officer Class 1(WO1) Albert Siyaya. He took over from retired Namibian Navy WO1 Isak Nankela.
+NDF Sergeant Major is the highest appointment a Non Commission Officer may receive. Duties of the NDF Sergeant Major includes making sure that discipline, drills, dressing code, performance standards and morale of the non commissioned officers are maintained.[29] The current NDF Sergeant Major is Warrant Officer Class 1(WO1) Albert Siyaya. He took over from retired Namibian Navy WO1 Isak Nankela.
 
 Previous Sergeant Major are:
 
@@ -75,7 +73,7 @@ The Force's Medical Service provides medical services to service personnel, it o
 
 Chief of Defence Force direct command
 
-Namibian_Military_police_escorting_during_parade.png There are some units that report directly to the Chief of Defence Force. These are the:
+There are some units that report directly to the Chief of Defence Force. These are the:
 
 -   Military School
 -   Composite Depot,
@@ -164,7 +162,7 @@ The School of Military Science, run in conjunction with the University of Namibi
 
 Namibian Command and Staff College
 
-Namibian_Navy_Type_037_Class_boats.jpg The Namibian Command and Staff College offers the Junior Staff Course (JSC) and the Senior Command and Staff Course (SCSC).[36] It provides staff training to prepare students for staff appointments.[37] The NCSC's commandant is Brigadier General Joshua Ndandalwakwasha Namhindo.
+The Namibian Command and Staff College offers the Junior Staff Course (JSC) and the Senior Command and Staff Course (SCSC).[36] It provides staff training to prepare students for staff appointments.[37] The NCSC's commandant is Brigadier General Joshua Ndandalwakwasha Namhindo.
 
 Parachute Training School
 

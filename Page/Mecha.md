@@ -1,4 +1,4 @@
-1920_-_before_the_storm.jpg]]
+]]
 
 The term may refer to both scientific ideas and science fiction genres that center on giant robots or machines (MECHS) controlled by people. Mechas are typically depicted as humanoid mobile robots. The term was first used in Japanese (_meka_) after shortening the English loanword _mekanikaru_ ('mechanical'), but the meaning in Japanese is more inclusive, and "robot" (_robotto_) or "giant robot" is the narrower term.
 
@@ -51,7 +51,7 @@ Mecha based on anime have seen extreme cultural reception across the world. The 
 
 In film
 
-All_Terrain_Armored_Transport_in_Star_Wars.JPG'', the second film of the original _Star Wars_ trilogy.]]
+'', the second film of the original _Star Wars_ trilogy.]]
 
 -   The _Star Wars_ multimedia franchise features several walker types, such as the World-famous AT-AT and AT-ST.
 -   The film _Robot Jox_ is based around gladiatorial combat between giant mecha.
@@ -71,7 +71,7 @@ All_Terrain_Armored_Transport_in_Star_Wars.JPG'', the second film of the origina
 
 In video games
 
-Strike_Suit_Zero_-_Screenshot_01.jpg'' is a 2013 space combat video game featuring mecha designs by Junji Okubo.]] Gearhead_rpg_01.png, _GearHead RPG_.]] Mecha are often featured in computer and console video games. Because of their size and fictional power, mecha are quite popular subjects for games, both tabletop and electronic. They have been featured in video games since the 1980s, particularly in vehicular combat and shooter games, including Sesame Japan's side-scrolling shooter game _Vastar_ in 1983,[11] various _Gundam_ games such as _Mobile Suit Gundam: Last Shooting_ in 1984 and _Z-Gundam: Hot Scramble_ in 1986,[12] the run and gun shooters _Hover Attack_ in 1984 and _Thexder_ in 1985, and Arsys Software's 3D role-playing shooters _WiBArm_ in 1986 and _Star Cruiser_ in 1988. Historically mecha-based games have been more popular in Japan than in other countries.[13]
+'' is a 2013 space combat video game featuring mecha designs by Junji Okubo.]] , _GearHead RPG_.]] Mecha are often featured in computer and console video games. Because of their size and fictional power, mecha are quite popular subjects for games, both tabletop and electronic. They have been featured in video games since the 1980s, particularly in vehicular combat and shooter games, including Sesame Japan's side-scrolling shooter game _Vastar_ in 1983,[11] various _Gundam_ games such as _Mobile Suit Gundam: Last Shooting_ in 1984 and _Z-Gundam: Hot Scramble_ in 1986,[12] the run and gun shooters _Hover Attack_ in 1984 and _Thexder_ in 1985, and Arsys Software's 3D role-playing shooters _WiBArm_ in 1986 and _Star Cruiser_ in 1988. Historically mecha-based games have been more popular in Japan than in other countries.[13]
 
 -   A popular classic of mecha in games is the _MechWarrior_ series of video games, which takes place in the Battletech universe. Another game, _Heavy Gear 2_ offers a complex yet semi-realistic control system for its mecha in both terrain and outer space warfare.
 -   _Armored Core_ is a mecha series developed by FromSoftware, combining industrial customizable mecha designs with fast-paced action.

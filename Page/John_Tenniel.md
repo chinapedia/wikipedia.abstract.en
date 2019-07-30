@@ -3,7 +3,7 @@ SIR JOHN TENNIEL (28 February 1820 – 25 February 1914)[1] was an English illus
 
 Early life
 
-John_Tenniel_Conspiracy.jpg Tenniel was born in Bayswater, West London, to John Baptist Tenniel, a fencing and dancing master of Huguenot descent,[2][3] and Eliza Maria Tenniel. Tenniel had five siblings; two brothers and three sisters. One sister, Mary, was later to marry Thomas Goodwin Green, owner of the pottery that produced Cornishware. Tenniel was a quiet and introverted person, both as a boy and as an adult. He was content to remain firmly out of the limelight and seemed unaffected by competition or change. His biographer Rodney Engen wrote that Tenniel's "life and career was that of the supreme gentlemanly outside, living on the edge of respectability."[4]
+Tenniel was born in Bayswater, West London, to John Baptist Tenniel, a fencing and dancing master of Huguenot descent,[2][3] and Eliza Maria Tenniel. Tenniel had five siblings; two brothers and three sisters. One sister, Mary, was later to marry Thomas Goodwin Green, owner of the pottery that produced Cornishware. Tenniel was a quiet and introverted person, both as a boy and as an adult. He was content to remain firmly out of the limelight and seemed unaffected by competition or change. His biographer Rodney Engen wrote that Tenniel's "life and career was that of the supreme gentlemanly outside, living on the edge of respectability."[4]
 
 In 1840, Tenniel, while practising fencing with his father, received a serious eye wound from his father's foil, which had accidentally lost its protective tip. Over the years, Tenniel gradually lost sight in his right eye;[5] he never told his father of the severity of the wound, as he did not wish to upset his father further.[6]
 
@@ -25,7 +25,7 @@ Tenniel's first book illustration was for Samuel Carter Hall's _The Book of Brit
 
 _Punch_
 
-BritishLionTenniel1857Punch1.jpg]]
+]]
 
 As the influential result of his position as the chief cartoon artist for _Punch_ (published 1841–1992, 1996–2002), John Tenniel remained through satirical, often radical and at times vitriolic images of the world Britain's steadfast witness to sweeping changes in political and social reform. At Christmas 1850 he was invited by Mark Lemon to fill the position of joint cartoonist (with John Leech) on _Punch_, having been selected on the strength of recent illustrations to Aesop's _Fables_. He contributed his first drawing in the initial letter appearing on p. 224, vol. xix. This was entitled _Lord Jack the Giant Killer_ and showed Lord John Russell assailing Cardinal Wiseman.
 
@@ -41,11 +41,11 @@ In his career Tenniel contributed around 2,300 cartoons, innumerable minor drawi
 
 Alice
 
-Alice_05a-1116x1492.jpg. An illustration from _Alice's Adventures in Wonderland_]] Despite the thousands of political cartoons and hundreds of illustrative works attributed to him, much of Tenniel's fame stems from his illustrations for _Alice_. Tenniel drew ninety-two drawings for Lewis Carroll's _Alice's Adventures in Wonderland_ (London: Macmillan, 1865) and _Through the Looking-Glass and What Alice Found There_ (London: Macmillan, 1871).
+. An illustration from _Alice's Adventures in Wonderland_]] Despite the thousands of political cartoons and hundreds of illustrative works attributed to him, much of Tenniel's fame stems from his illustrations for _Alice_. Tenniel drew ninety-two drawings for Lewis Carroll's _Alice's Adventures in Wonderland_ (London: Macmillan, 1865) and _Through the Looking-Glass and What Alice Found There_ (London: Macmillan, 1871).
 
 Lewis Carroll originally illustrated _Wonderland_ himself, but his artistic abilities were limited. Engraver Orlando Jewitt, who had worked for Carroll in 1859 and had reviewed Carroll's drawings for _Wonderland_, suggested that he employ a professional illustrator. Carroll was a regular reader of _Punch_ and was therefore familiar with Tenniel. In 1865 Tenniel, after long talks with Carroll, illustrated the first edition of _Alice's Adventures in Wonderland_.
 
-Tenniel_ms_eng_718_6_p177.jpeg, Harvard University]]
+, Harvard University]]
 
 The first print run of 2,000 was sold in the United States, rather than England, because Tenniel objected to the print quality.[19] A new edition was released in December 1865, carrying an 1866 date, and became an instant best-seller, increasing Tenniel's fame. His drawings for both books have become some of the most famous literary illustrations. After 1872, when the Carroll projects were finished, Tenniel largely abandoned literary illustration. Carroll did later approach Tenniel to undertake another project for him. To this Tenniel replied:
 
@@ -113,7 +113,7 @@ TENNIEL'S DIFFERENT COLLABORATIONS:
 
 Retirement and death
 
-Tenniel_Knight.jpg An ultimate tribute came to an elderly Tenniel as he was knighted for his public service in 1893 by Queen Victoria. It was the first such honour ever bestowed on an illustrator or cartoonist, and his fellows saw his knighting as gratitude for "raising what had been a fairly lowly profession to an unprecedented level of respectability".[51] With knighthood, Tenniel elevated the social status of the black and white illustrator, and sparked a new sense of recognition of his profession.[52] When he retired in January 1901, Tenniel was honoured with a farewell banquet (12 June), at which AJ Balfour, then Leader of the House of Commons, presided.[53]
+An ultimate tribute came to an elderly Tenniel as he was knighted for his public service in 1893 by Queen Victoria. It was the first such honour ever bestowed on an illustrator or cartoonist, and his fellows saw his knighting as gratitude for "raising what had been a fairly lowly profession to an unprecedented level of respectability".[51] With knighthood, Tenniel elevated the social status of the black and white illustrator, and sparked a new sense of recognition of his profession.[52] When he retired in January 1901, Tenniel was honoured with a farewell banquet (12 June), at which AJ Balfour, then Leader of the House of Commons, presided.[53]
 
 Tenniel died on 25 February 1914, aged 93.
 

@@ -1,4 +1,4 @@
-Piston_of_DAT_engine.jpg]] Piston.gif A PISTON is a component of reciprocating engines, reciprocating pumps, gas compressors and pneumatic cylinders, among other similar mechanisms. It is the moving component that is contained by a cylinder and is made gas-tight by piston rings. In an engine, its purpose is to transfer force from expanding gas in the cylinder to the crankshaft via a piston rod and/or connecting rod. In a pump, the function is reversed and force is transferred from the crankshaft to the piston for the purpose of compressing or ejecting the fluid in the cylinder. In some engines, the piston also acts as a valve by covering and uncovering ports in the cylinder.
+]] A PISTON is a component of reciprocating engines, reciprocating pumps, gas compressors and pneumatic cylinders, among other similar mechanisms. It is the moving component that is contained by a cylinder and is made gas-tight by piston rings. In an engine, its purpose is to transfer force from expanding gas in the cylinder to the crankshaft via a piston rod and/or connecting rod. In a pump, the function is reversed and force is transferred from the crankshaft to the piston for the purpose of compressing or ejecting the fluid in the cylinder. In some engines, the piston also acts as a valve by covering and uncovering ports in the cylinder.
 
 __TOC__
 
@@ -7,7 +7,7 @@ Piston engines
 
 Internal combustion engines
 
-BHB_Hiduminium_piston_(Autocar_Handbook,_13th_ed,_1935).jpg piston, sectioned to show the gudgeon pin.]]
+piston, sectioned to show the gudgeon pin.]]
 
 An internal combustion engine is acted upon by the pressure of the expanding combustion gases in the combustion chamber space at the top of the cylinder. This force then acts downwards through the connecting rod and onto the crankshaft. The connecting rod is attached to the piston by a swivelling gudgeon pin (US: wrist pin). This pin is mounted within the piston: unlike the steam engine, there is no piston rod or crosshead (except big two stroke engines).
 
@@ -43,19 +43,17 @@ Because of the additional weight of these pistons, they are not used for high-sp
 
 Slipper pistons
 
-Ricardo_slipper_piston_(Autocar_Handbook,_13th_ed,_1935).jpg
-
 A SLIPPER PISTON is a piston for a petrol engine that has been reduced in size and weight as much as possible. In the extreme case, they are reduced to the piston crown, support for the piston rings, and just enough of the piston skirt remaining to leave two lands so as to stop the piston rocking in the bore. The sides of the piston skirt around the gudgeon pin are reduced away from the cylinder wall. The purpose is mostly to reduce the reciprocating mass, thus making it easier to balance the engine and so permit high speeds. In racing applications, slipper piston skirts can be configured to yield extremely light weight while maintaining the rigidity and strength of a full skirt.[3] Reduced inertia also improves mechanical efficiency of the engine: the forces required to accelerate and decelerate the reciprocating parts cause more piston friction with the cylinder wall than the fluid pressure on the piston head. A secondary benefit may be some reduction in friction with the cylinder wall, since the area of the skirt, which slides up and down in the cylinder is reduced by half. However, most friction is due to the piston rings, which are the parts which actually fit the tightest in the bore and the bearing surfaces of the wrist pin, and thus the benefit is reduced.
 
 Deflector pistons
 
-Two-stroke_deflector_piston_(Autocar_Handbook,_13th_ed,_1935).jpg deflector piston]] Deflector pistons are used in two-stroke engines with crankcase compression, where the gas flow within the cylinder must be carefully directed in order to provide efficient scavenging. With cross scavenging, the transfer (inlet to the cylinder) and exhaust ports are on directly facing sides of the cylinder wall. To prevent the incoming mixture passing straight across from one port to the other, the piston has a raised rib on its crown. This is intended to deflect the incoming mixture upwards, around the combustion chamber.
+deflector piston]] Deflector pistons are used in two-stroke engines with crankcase compression, where the gas flow within the cylinder must be carefully directed in order to provide efficient scavenging. With cross scavenging, the transfer (inlet to the cylinder) and exhaust ports are on directly facing sides of the cylinder wall. To prevent the incoming mixture passing straight across from one port to the other, the piston has a raised rib on its crown. This is intended to deflect the incoming mixture upwards, around the combustion chamber.
 
 Much effort, and many different designs of piston crown, went into developing improved scavenging. The crowns developed from a simple rib to a large asymmetric bulge, usually with a steep face on the inlet side and a gentle curve on the exhaust. Despite this, cross scavenging was never as effective as hoped. Most engines today use Schnuerle porting instead. This places a pair of transfer ports in the sides of the cylinder and encourages gas flow to rotate around a vertical axis, rather than a horizontal axis.
 
 Racing Pistons
 
-Piston,_sprung_ring_(Heat_Engines,_1913).jpg piston, with a metal piston ring spring-loaded against the cylinder wall.]] 1830s_beam_engine_piston_with_rope_seal,_Coalbrookdale_Museum_of_Iron.jpg. The piston seal is made by turns of wrapped rope.]] In racing engines, piston strength and stiffness is typically much higher than that of a passenger car engine, while the weight is much less, to achieve the high engine RPM necessary in racing.[4]
+piston, with a metal piston ring spring-loaded against the cylinder wall.]] . The piston seal is made by turns of wrapped rope.]] In racing engines, piston strength and stiffness is typically much higher than that of a passenger car engine, while the weight is much less, to achieve the high engine RPM necessary in racing.[4]
 
 Steam engines
 

@@ -7,7 +7,7 @@ The current leader of the National Party is Michael McCormack, who won a leaders
 
 History
 
-WMcWilliams.JPG, Country Party leader 1920–1921.]] Earle_Page.jpg, Prime Minister of Australia 1939.]] FaddenPEO.jpg, Prime Minister of Australia 1941.]] Sir_John_McEwen.jpg, Prime Minister of Australia 1967-68.]]
+, Country Party leader 1920–1921.]] , Prime Minister of Australia 1939.]] , Prime Minister of Australia 1941.]] , Prime Minister of Australia 1967-68.]]
 
 The Country Party was formally founded in 1913 in Western Australia, and nationally in 1920 from a number of state-based parties such as the Victorian Farmers' Union (VFU) and the Farmers and Settlers Party of New South Wales.[2] Australia's first Country Party was founded in 1912 by Harry J. Stephens, editor of _The Farmer & Settler_, but under fierce opposition from rival newspapers,[3] failed to gain momentum.
 
@@ -21,7 +21,7 @@ Page remained dominant in the party until 1939 and briefly served as an interim 
 
 The Fadden-led Coalition made almost no headway against Curtin, and was severely defeated in the 1943 election. After that loss, Fadden became deputy Leader of the Opposition under Menzies, a role that continued after Menzies folded the UAP into the Liberal Party of Australia in 1944. Fadden remained a loyal partner of Menzies, though he was still keen to assert the independence of his party. Indeed, in the lead up to the 1949 federal election, Fadden played a key role in the defeat of the Chifley Labor government, frequently making inflammatory claims about the "socialist" nature of the Labor Party, which Menzies could then "clarify" or repudiate as he saw fit, thus appearing more "moderate". In 1949, Fadden became Treasurer in the second Menzies government and remained so until his retirement in 1958. His successful partnership with Menzies was one of the elements that sustained the coalition, which remained in office until 1972 (Menzies himself retired in 1966).[10]
 
-Embassy_of_Argentina_in_Canberra.jpg]]
+]]
 
 Fadden's successor, Trade Minister John McEwen, took the then unusual step of declining to serve as Treasurer, believing he could better ensure that the interests of Australian primary producers were safeguarded. Accordingly, McEwen personally supervised the signing of the first post-war trade treaty with Japan, new trade agreements with New Zealand and Britain, and Australia's first trade agreement with the USSR (1965). In addition to this he insisted on developing an all encompassing system of tariff protection that would encourage the development of those secondary industries that would "value add" Australia's primary produce. His success in this endeavour is sometimes dubbed "McEwenism". This was the period of the Country Party's greatest power, as was demonstrated in 1962 when McEwen was able to insist that Menzies sack a Liberal Minister who claimed that Britain's entry into the European Economic Community was unlikely to severely impact on the Australian economy as a whole.[11]
 
@@ -213,37 +213,37 @@ Leadership
 
 List of leaders
 
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| #  | Leader                              | Term start | Term end          | Time in office   | Notes |
-+====+=====================================+============+===================+==================+=======+
-| 1  | WMcWilliams.JPG                     |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 2  | Earle_Page.jpg                      |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 3  | Archie_Cameron_1940.jpg             |            | 13 September 1939 |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 4  | Arthur_Fadden.jpg                   |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 5  | Sir_John_McEwen.jpg                 |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 6  | Doug_Anthony.jpg                    |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 7  | Ian_Sinclair.jpg                    |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 8  |                                     |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 9  | Tim_Fischer.jpg                     |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 10 | John_Anderson_2001_(cropped).jpg    |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 11 | Mark_Vaile_(TM).jpg                 |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 12 | Warren_Truss_Portrait_2010.jpg      |            |                   |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 13 | Barnaby_Joyce_Portrait_2010.jpg     |            |                   | 26 February 2018 |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
-| 14 | Michael_McCormack_Portrait_2010.jpg |            | 26 February 2018  |                  |       |
-+----+-------------------------------------+------------+-------------------+------------------+-------+
++----+--------+------------+-------------------+------------------+-------+
+| #  | Leader | Term start | Term end          | Time in office   | Notes |
++====+========+============+===================+==================+=======+
+| 1  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 2  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 3  |        |            | 13 September 1939 |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 4  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 5  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 6  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 7  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 8  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 9  |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 10 |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 11 |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 12 |        |            |                   |                  |       |
++----+--------+------------+-------------------+------------------+-------+
+| 13 |        |            |                   | 26 February 2018 |       |
++----+--------+------------+-------------------+------------------+-------+
+| 14 |        |            | 26 February 2018  |                  |       |
++----+--------+------------+-------------------+------------------+-------+
 
 List of deputy leaders
 

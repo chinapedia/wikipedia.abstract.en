@@ -1,4 +1,4 @@
-Meiosis_Overview_new.svg) and homologous chromosomes exchange genetic information (chromosomal crossover) during the first division, called meiosis I. The daughter cells divide again in meiosis II, splitting up sister chromatids to form haploid gametes. Two gametes fuse during fertilization, creating a diploid cell with a complete set of paired chromosomes.]] Calyculin-A-an-enhancer-of-myosin-speeds-up-anaphase-chromosome-movement-1475-9268-6-1-S1.ogv spermatocyte, played back at 120× the recorded speed.]]
+) and homologous chromosomes exchange genetic information (chromosomal crossover) during the first division, called meiosis I. The daughter cells divide again in meiosis II, splitting up sister chromatids to form haploid gametes. Two gametes fuse during fertilization, creating a diploid cell with a complete set of paired chromosomes.]] spermatocyte, played back at 120× the recorded speed.]]
 
 MEIOSIS (; from Greek μείωσις, _meiosis_, which means lessening) is a special type of cell division that reduces the chromosome number by half, creating four haploid cells, each genetically distinct from the parent cell that gave rise to them.[1] This process occurs in all sexually reproducing single-celled and multicellular eukaryotes, including animals, plants, and fungi.[2][3][4][5] Errors in meiosis resulting in aneuploidy are the leading known cause of miscarriage and the most frequent genetic cause of developmental disabilities.[6]
 
@@ -53,7 +53,7 @@ During meiosis, specific genes are more highly transcribed.[13] In addition to s
 
 Meiosis I
 
-Meiosis I segregates homologous chromosomes, which are joined as tetrads (2n, 4c), producing two haploid cells (n chromosomes, 23 in humans) which each contain chromatid pairs (1n, 2c). Because the ploidy is reduced from diploid to haploid, meiosis I is referred to as a _reductional division_. Meiosis II is an _equational division_ analogous to mitosis, in which the sister chromatids are segregated, creating four haploid daughter cells (1n, 1c).[15] Meiosis_Prophase_I.png
+Meiosis I segregates homologous chromosomes, which are joined as tetrads (2n, 4c), producing two haploid cells (n chromosomes, 23 in humans) which each contain chromatid pairs (1n, 2c). Because the ploidy is reduced from diploid to haploid, meiosis I is referred to as a _reductional division_. Meiosis II is an _equational division_ analogous to mitosis, in which the sister chromatids are segregated, creating four haploid daughter cells (1n, 1c).[15]
 
 Prophase I
 
@@ -123,8 +123,6 @@ Occurrence
 
 In life cycles
 
-gametic_meiosis.png zygotic_meiosis.png
-
 Meiosis occurs in eukaryotic life cycles involving sexual reproduction, consisting of the constant cyclical process of meiosis and fertilization. This takes place alongside normal mitotic cell division. In multicellular organisms, there is an intermediary step between the diploid and haploid transition where the organism grows. At certain stages of the life cycle, germ cells produce gametes. Somatic cells make up the body of the organism and are not involved in gamete production.
 
 Cycling meiosis and fertilization events produces a series of transitions back and forth between alternating haploid and diploid states. The organism phase of the life cycle can occur either during the diploid state (_diplontic_ life cycle), during the haploid state (_haplontic_ life cycle), or both (_haplodiplontic_ life cycle, in which there are two distinct organism phases, one during the haploid state and the other during the diploid state). In this sense there are three types of life cycles that utilize sexual reproduction, differentiated by the location of the organism phase(s).
@@ -137,7 +135,7 @@ Finally, in the _haplodiplontic life cycle_ (with sporic or intermediate meiosis
 
 In plants and animals
 
-MitosisAndMeiosis_en.png Meiosis occurs in all animals and plants. The end result, the production of gametes with half the number of chromosomes as the parent cell, is the same, but the detailed process is different. In animals, meiosis produces gametes directly. In land plants and some algae, there is an alternation of generations such that meiosis in the diploid sporophyte generation produces haploid spores. These spores multiply by mitosis, developing into the haploid gametophyte generation, which then gives rise to gametes directly (i.e. without further meiosis). In both animals and plants, the final stage is for the gametes to fuse, restoring the original number of chromosomes.[33]
+Meiosis occurs in all animals and plants. The end result, the production of gametes with half the number of chromosomes as the parent cell, is the same, but the detailed process is different. In animals, meiosis produces gametes directly. In land plants and some algae, there is an alternation of generations such that meiosis in the diploid sporophyte generation produces haploid spores. These spores multiply by mitosis, developing into the haploid gametophyte generation, which then gives rise to gametes directly (i.e. without further meiosis). In both animals and plants, the final stage is for the gametes to fuse, restoring the original number of chromosomes.[33]
 
 In mammals
 

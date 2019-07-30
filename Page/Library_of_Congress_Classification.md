@@ -13,7 +13,7 @@ The National Library of Medicine classification system (NLM) uses the initial le
 
 Classification
 
-LibraryOfCongressClassification.jpg books in the QA subclass.]]
+books in the QA subclass.]]
 
   Letter   Subject area
   -------- ----------------------------------------------------------------------------------
@@ -216,8 +216,6 @@ Class N – Fine Arts
 -   Subclass NX – Arts in general
 
 Class P – Language and Literature
-
-RyersonUniversityLibrary.JPG
 
 -   Subclass P – Philology. Linguistics
 -   Subclass PA – Greek language and literature. Latin language and literature

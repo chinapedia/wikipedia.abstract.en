@@ -1,6 +1,6 @@
 This is a LIST OF SCIENCE FICTION AND FANTASY ARTISTS, notable and well-known 20th- and 21st-century artists who have created book covers or interior illustrations for books, or who have had their own books or comic books of fantastic art with science fiction or fantasy themes published. Artists known exclusively for their work in comic books are not included. Many of the artists are known for their work in both the fantasy and sf fields. Artists who have won the Hugo Award, the World Fantasy Award, or the Chesley Award are noted, as are inductees into the Science Fiction Hall of Fame.
 
-MBoehmeMeeting.jpg, 2010]]
+, 2010]]
 
 
 A
@@ -26,7 +26,7 @@ A
 
 B
 
-Weird_Tales_March_1940.jpg for _Weird Tales_ March 1940]]
+for _Weird Tales_ March 1940]]
 
 -   Wayne Douglas Barlowe
 -   George Barr (Hugo)
@@ -97,7 +97,7 @@ E
 
 F
 
-If_cover_June_1954.jpg'' magazine June 1954, cover art by Ken Fagg: "Lava Falls on Mercury"]]
+'' magazine June 1954, cover art by Ken Fagg: "Lava Falls on Mercury"]]
 
 -   Stephen Fabian
 -   Ken Fagg (1901-1980)[11]
@@ -119,7 +119,7 @@ If_cover_June_1954.jpg'' magazine June 1954, cover art by Ken Fagg: "Lava Falls 
 
 G
 
-WeirdTalesv42n04pg006_Tell_Your_Fortune.png illustration, _Weird Tales_ May 1950]]
+illustration, _Weird Tales_ May 1950]]
 
 -   Hector Garrido
 -   Jack Gaughan (Hugo)
@@ -165,7 +165,7 @@ I
 
 J
 
-Fantastic_Adventures_1949_Mar_cover.jpg'' March 1949, cover by Alexander Kohn]]
+'' March 1949, cover by Alexander Kohn]]
 
 -   Tim Jacobus
 -   Jael
@@ -226,7 +226,7 @@ M
 
 N
 
-Amazing_stories_193008.jpg'' cover by Frank Paul, 1930]]
+'' cover by Frank Paul, 1930]]
 
 -   Naoyuki Kato
 -   Earl Norem (1923-2015)
@@ -266,7 +266,7 @@ R
 
 S
 
-Fantastic_October_1961_front.jpg]]
+]]
 
 -   James Allen St. John (1872-1957)
 -   John Schoenherr (Hugo) (1935-2010)
@@ -305,7 +305,7 @@ T
 
 V
 
-Fantastic_October_1956_front.jpg]]
+]]
 
 -   Ed Valigursky (1926-2009)[20]
 -   Boris Vallejo

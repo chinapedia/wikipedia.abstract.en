@@ -40,7 +40,7 @@ Rodríguez is a strong supporter of digital filmmaking, having been introduced t
 
 _Predators_
 
-Robert_Rodriguez.jpg'', Austin, Texas, 2007]] On February 7, 2010, it was announced that Rodríguez would produce a new Predator sequel, entitled _Predators_. This film's script was based on early drafts he had written after seeing the original. Rodriguez's ideas included a planet-sized game preserve and various creatures used by the Predators to hunt a group of abducted yet skilled humans. Opening to mostly positive reviews, the film fared reasonably well at the box office.
+'', Austin, Texas, 2007]] On February 7, 2010, it was announced that Rodríguez would produce a new Predator sequel, entitled _Predators_. This film's script was based on early drafts he had written after seeing the original. Rodriguez's ideas included a planet-sized game preserve and various creatures used by the Predators to hunt a group of abducted yet skilled humans. Opening to mostly positive reviews, the film fared reasonably well at the box office.
 
 _Machete_
 
@@ -54,7 +54,7 @@ On May 5, 2010, Robert Rodríguez responded to Arizona's controversial immigrati
 
 Unproduced projects and upcoming films
 
-Robert_Rodriguez_SDCC_2014.jpg Since 1998, he has owned the film rights to Mike Allred's off-beat comic _Madman_. The two have hinted at the project being close to beginning on several occasions without anything coming of it. However, other projects have been completed first (Allred was instrumental in connecting Rodríguez with Frank Miller, leading to the production of _Sin City_). In 2004, Allred, while promoting his comic book, _The Golden Plates_, announced that a screenplay by George Huang was near completion. In March 2006, it was announced that production on _Sin City: A Dame to Kill For_ would be postponed. Allred announced at the 2006 WonderCon that production would likely commence on _Madman the Movie_ in 2006. Huang is actually friends with Rodriguez, who advised him to pursue filmmaking as a career when Rodriguez landed a deal with Columbia Pictures where Huang was an employee.
+Since 1998, he has owned the film rights to Mike Allred's off-beat comic _Madman_. The two have hinted at the project being close to beginning on several occasions without anything coming of it. However, other projects have been completed first (Allred was instrumental in connecting Rodríguez with Frank Miller, leading to the production of _Sin City_). In 2004, Allred, while promoting his comic book, _The Golden Plates_, announced that a screenplay by George Huang was near completion. In March 2006, it was announced that production on _Sin City: A Dame to Kill For_ would be postponed. Allred announced at the 2006 WonderCon that production would likely commence on _Madman the Movie_ in 2006. Huang is actually friends with Rodriguez, who advised him to pursue filmmaking as a career when Rodriguez landed a deal with Columbia Pictures where Huang was an employee.
 
 In May 2007, it was announced that Rodríguez had signed on to direct a remake of _Barbarella_ for a 2008 release.[33] At the 2007 Comic-Con convention, actress Rosario Dawson announced that because of _Barbarella_, production of _Sin City: A Dame to Kill For_ would be put on hold. She also announced that she would be playing an amazon in the Barbarella film.[34] As of June 2008, plans to remake the film Barbarella with Rose McGowan as the lead have been delayed; the actress and director are instead remaking the film _Red Sonja_.[35]
 
@@ -82,7 +82,7 @@ In March 2014, Rodriguez showed his collection of Frank Frazetta original painti
 
 The "one-man film crew" and "Mariachi-style"
 
-Rodriguez,_Robert_(2007).jpg Rodríguez not only has the credits of producing, directing and writing his films, he also frequently serves as editor, director of photography, camera operator, steadicam operator, composer, production designer, visual effects supervisor, and sound editor on his films. This has earned him the nickname of "the one-man film crew". He abbreviates his numerous roles in his film credits; _Once Upon a Time in Mexico_, for instance, is "shot, chopped, and scored by Robert Rodriguez", and _Sin City_ is "shot and cut by Robert Rodriguez".
+Rodríguez not only has the credits of producing, directing and writing his films, he also frequently serves as editor, director of photography, camera operator, steadicam operator, composer, production designer, visual effects supervisor, and sound editor on his films. This has earned him the nickname of "the one-man film crew". He abbreviates his numerous roles in his film credits; _Once Upon a Time in Mexico_, for instance, is "shot, chopped, and scored by Robert Rodriguez", and _Sin City_ is "shot and cut by Robert Rodriguez".
 
 He calls his style of making movies "Mariachi-style" (in reference to his first feature film _El Mariachi_) in which (according to the back cover of his book _Rebel Without a Crew_) "Creativity, not money, is used to solve problems."
 

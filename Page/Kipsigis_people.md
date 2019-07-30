@@ -1,9 +1,9 @@
-The KIPSIGIS are a Nilotic ethnic group of Kenya. Their first language is Kipsigis, which belongs to the Nilo-Saharan language family. The traditional occupation of the Kipsigis is herding. In pre-colonial Kipsigis society, there was a warrior element. Living on the Western Highlands at an altitude of 1500 to 2000m, the Kipsigis now also grow maize, wheat, pyrethrum and tea.[1] Teapickers-near-kericho.JPG
+The KIPSIGIS are a Nilotic ethnic group of Kenya. Their first language is Kipsigis, which belongs to the Nilo-Saharan language family. The traditional occupation of the Kipsigis is herding. In pre-colonial Kipsigis society, there was a warrior element. Living on the Western Highlands at an altitude of 1500 to 2000m, the Kipsigis now also grow maize, wheat, pyrethrum and tea.[1]
 
 
 History
 
-Kericho_location_map.pngThe Kipsigis describe their place of origin as _To_ near Lake Baringo. The Kipsigis are a Nilotic (Nilo hamitic) people. They are the most populous sub-group of the Kalenjin, a subdivision of Nilotes, who originated in the South Sudan region. Another Kalenjin sub-group are the Tatonga people of Tanzania. In the 1700s, the two tribes migrated to the present-day region of Shinyanga in western Tanzania. Later, the Kipsigis returned to Kericho and a smaller group moved south to Angata Barigoi near the Tanzanian border. By the 19th century, the Kipsigis were living in the Rift Valley province of Kenya. British rule forced the Kipsigis into the colonial market economy.[2][3] Kipsigis mainly used finger millet, meat and milk as their staple food. Some of the known finger millet varieties (list not exhaustive) are:
+The Kipsigis describe their place of origin as _To_ near Lake Baringo. The Kipsigis are a Nilotic (Nilo hamitic) people. They are the most populous sub-group of the Kalenjin, a subdivision of Nilotes, who originated in the South Sudan region. Another Kalenjin sub-group are the Tatonga people of Tanzania. In the 1700s, the two tribes migrated to the present-day region of Shinyanga in western Tanzania. Later, the Kipsigis returned to Kericho and a smaller group moved south to Angata Barigoi near the Tanzanian border. By the 19th century, the Kipsigis were living in the Rift Valley province of Kenya. British rule forced the Kipsigis into the colonial market economy.[2][3] Kipsigis mainly used finger millet, meat and milk as their staple food. Some of the known finger millet varieties (list not exhaustive) are:
 
 -   Kapnyagoboba
 -   Ketui
@@ -45,7 +45,7 @@ Tulwap Kipsigis is a hill near Londiani township, Kericho county, Kenya. To the 
 
 Culture
 
-Kipsigis_Gourd.jpg Kipsigis have a tradition of humility, endurance of hardship, strong emotional expression, loyalty, courage hospitality and courtesy. Artists such as Joel Arap Kimeto, Paul Sang Temugo, Paul Subembe, Kipchamba Arap Tapotuk, Solomon Manori, Francis Koech, Junior Kotestes, and the comedian, Bomori Araap Baikalyaang, are from the Kipsigis community. The Segechek are a smaller clan with a belief in luck, wisdom and wealth and secretiveness.
+Kipsigis have a tradition of humility, endurance of hardship, strong emotional expression, loyalty, courage hospitality and courtesy. Artists such as Joel Arap Kimeto, Paul Sang Temugo, Paul Subembe, Kipchamba Arap Tapotuk, Solomon Manori, Francis Koech, Junior Kotestes, and the comedian, Bomori Araap Baikalyaang, are from the Kipsigis community. The Segechek are a smaller clan with a belief in luck, wisdom and wealth and secretiveness.
 
 
 Customs

@@ -1,4 +1,4 @@
-Elongated_square_gyrobicupola.png (_J_₃₇), a Johnson solid]] Stella_octangula.png example is not a Johnson solid because it is not convex.]] Partial_cubic_honeycomb.pngs.)]]
+(_J_₃₇), a Johnson solid]] example is not a Johnson solid because it is not convex.]] s.)]]
 
 In geometry, a JOHNSON SOLID is a strictly convex polyhedron, which is not uniform (i.e., not a Platonic solid, Archimedean solid, prism, or antiprism), and each face of which is a regular polygon. There is no requirement that each face must be the same polygon, or that the same polygons join around each vertex. An example of a Johnson solid is the square-based pyramid with equilateral sides (_J_₁); it has 1 square face and 4 triangular faces.
 
@@ -46,39 +46,39 @@ Pyramids
 
 The first two Johnson solids, J1 and J2, are pyramids. The _triangular pyramid_ is the regular tetrahedron, so it is not a Johnson solid.
 
-+----------------------+-------------------------+-------------------------+
-| Regular              | J1                      | J2                      |
-+======================+=========================+=========================+
-| Triangular pyramid   | Square pyramid          | Pentagonal pyramid      |
-| (Tetrahedron)        |                         |                         |
-+----------------------+-------------------------+-------------------------+
-| Tetrahedron.png      | Square_pyramid.png      | Pentagonal_pyramid.png  |
-+----------------------+-------------------------+-------------------------+
-| Tetrahedron_flat.svg | Johnson_solid_1_net.png | Johnson_solid_2_net.png |
-+----------------------+-------------------------+-------------------------+
++--------------------+----------------+--------------------+
+| Regular            | J1             | J2                 |
++====================+================+====================+
+| Triangular pyramid | Square pyramid | Pentagonal pyramid |
+| (Tetrahedron)      |                |                    |
++--------------------+----------------+--------------------+
+|                    |                |                    |
++--------------------+----------------+--------------------+
+|                    |                |                    |
++--------------------+----------------+--------------------+
 
 Cupolae and rotunda
 
 The next four Johnson solids are three cupolae and one rotunda. They represent sections of uniform polyhedra.
 
-+----------------------------+-------------------------+
-| Cupola                     | Rotunda                 |
-+============================+=========================+
-| Uniform                    | J3                      |
-+----------------------------+-------------------------+
-| Fastigium                  | Triangular cupola       |
-| (Triangular prism)         |                         |
-+----------------------------+-------------------------+
-| Triangular_prism_wedge.png | Triangular_cupola.png   |
-+----------------------------+-------------------------+
-|                            | Johnson_solid_3_net.png |
-+----------------------------+-------------------------+
-| Related uniform polyhedra  |                         |
-+----------------------------+-------------------------+
-|                            | Cuboctahedron           |
-+----------------------------+-------------------------+
-|                            | Cuboctahedron.png       |
-+----------------------------+-------------------------+
++---------------------------+-------------------+
+| Cupola                    | Rotunda           |
++===========================+===================+
+| Uniform                   | J3                |
++---------------------------+-------------------+
+| Fastigium                 | Triangular cupola |
+| (Triangular prism)        |                   |
++---------------------------+-------------------+
+|                           |                   |
++---------------------------+-------------------+
+|                           |                   |
++---------------------------+-------------------+
+| Related uniform polyhedra |                   |
++---------------------------+-------------------+
+|                           | Cuboctahedron     |
++---------------------------+-------------------+
+|                           |                   |
++---------------------------+-------------------+
 
 Modified pyramids, cupolae and rotundae
 
@@ -88,24 +88,24 @@ Elongated and gyroelongated pyramids
 
 In the gyroelongated triangular pyramid, three pairs of adjacent triangles are coplanar and form non-square rhombi, so it is not a Johnson solid.
 
-+--------------------------------------+-----------------------------------+
-| Elongated pyramids                   | Gyroelongated pyramids            |
-+======================================+===================================+
-| J7                                   | J8                                |
-+--------------------------------------+-----------------------------------+
-| Elongated triangular pyramid         | Elongated square pyramid          |
-+--------------------------------------+-----------------------------------+
-| Elongated_triangular_pyramid.png     | Elongated_square_pyramid.png      |
-+--------------------------------------+-----------------------------------+
-| Johnson_solid_7_net.png              | Johnson_solid_8_net.png           |
-+--------------------------------------+-----------------------------------+
-| Augmented from polyhedra             |                                   |
-+--------------------------------------+-----------------------------------+
-| tetrahedron                          | square pyramid                    |
-| triangular prism                     | cube                              |
-+--------------------------------------+-----------------------------------+
-| tetrahedron.png triangular_prism.png | square_pyramid.png hexahedron.png |
-+--------------------------------------+-----------------------------------+
++------------------------------+--------------------------+
+| Elongated pyramids           | Gyroelongated pyramids   |
++==============================+==========================+
+| J7                           | J8                       |
++------------------------------+--------------------------+
+| Elongated triangular pyramid | Elongated square pyramid |
++------------------------------+--------------------------+
+|                              |                          |
++------------------------------+--------------------------+
+|                              |                          |
++------------------------------+--------------------------+
+| Augmented from polyhedra     |                          |
++------------------------------+--------------------------+
+| tetrahedron                  | square pyramid           |
+| triangular prism             | cube                     |
++------------------------------+--------------------------+
+|                              |                          |
++------------------------------+--------------------------+
 
 Bipyramids
 
@@ -119,165 +119,165 @@ The _square bipyramid_ is the regular octahedron, while the _gyroelongated penta
 | Triangular bipyramid     | Square bipyramid     | Pentagonal bipyramid     |
 |                          | (octahedron)         |                          |
 +--------------------------+----------------------+--------------------------+
-| Triangular_dipyramid.png | Octahedron.png       | Pentagonal_dipyramid.png |
+|                          |                      |                          |
 +--------------------------+----------------------+--------------------------+
-| Johnson_solid_12_net.png | Octahedron_flat.svg  | Johnson_solid_13_net.png |
+|                          |                      |                          |
 +--------------------------+----------------------+--------------------------+
 | Augmented from polyhedra |                      |                          |
 +--------------------------+----------------------+--------------------------+
 | tetrahedron              | square pyramid       | pentagonal pyramid       |
 +--------------------------+----------------------+--------------------------+
-| tetrahedron.png          | square_pyramid.png   | pentagonal_pyramid.png   |
+|                          |                      |                          |
 +--------------------------+----------------------+--------------------------+
 
 Elongated cupolae and rotundae
 
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-| Elongated cupola                          | Elongated rotunda                         | Gyroelongated cupola                  | Gyroelongated rotunda                     |
-+===========================================+===========================================+=======================================+===========================================+
-| Coplanar                                  | J18                                       | J19                                   | J20                                       |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-| Elongated fastigium                       | Elongated triangular cupola               | Elongated square cupola               | Elongated pentagonal cupola               |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-| Elongated_digonal_cupola.png              | Elongated_triangular_cupola.png           | Elongated_square_cupola.png           | Elongated_pentagonal_cupola.svg           |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-|                                           | Johnson_solid_18_net.png                  | Johnson_solid_19_net.png              | Johnson_solid_20_net.png                  |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-| Augmented from polyhedra                  |                                           |                                       |                                           |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-| Square prism                              | Hexagonal prism                           | Octagonal prism                       | Decagonal prism                           |
-| Triangular prism                          | Triangular cupola                         | Square cupola                         | Pentagonal cupola                         |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
-| tetragonal_prism.png Triangular_prism.png | Hexagonal_prism.png Triangular_cupola.png | Octagonal_prism.png Square_cupola.png | Decagonal_prism.png Pentagonal_cupola.png |
-+-------------------------------------------+-------------------------------------------+---------------------------------------+-------------------------------------------+
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+| Elongated cupola         | Elongated rotunda           | Gyroelongated cupola    | Gyroelongated rotunda       |
++==========================+=============================+=========================+=============================+
+| Coplanar                 | J18                         | J19                     | J20                         |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+| Elongated fastigium      | Elongated triangular cupola | Elongated square cupola | Elongated pentagonal cupola |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+|                          |                             |                         |                             |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+|                          |                             |                         |                             |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+| Augmented from polyhedra |                             |                         |                             |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+| Square prism             | Hexagonal prism             | Octagonal prism         | Decagonal prism             |
+| Triangular prism         | Triangular cupola           | Square cupola           | Pentagonal cupola           |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
+|                          |                             |                         |                             |
++--------------------------+-----------------------------+-------------------------+-----------------------------+
 
 Bicupolae
 
 The triangular gyrobicupola is an Archimedean solid (in this case the cuboctahedron), so it is not a Johnson solid.
 
   Orthobicupola               Gyrobicupola
-  --------------------------- ------------------------------
+  --------------------------- --------------------------
   Coplanar                    J27
   Bifastigium                 Triangular orthobicupola
-  Digonal_orthobicupola.png   Triangular_orthobicupola.png
-                              Johnson_solid_27_net.png
+
+
   Augmented from polyhedron
   Triangular prism            Triangular cupola
-  Triangular_prism.png        Triangular_cupola.png
+
 
 Cupola-rotundae and birotunda
 
 The pentagonal gyrobirotunda is an Archimedean solid (in this case the icosidodecahedron), so it is not a Johnson solid.
 
-+----------------------------------------------+----------------------------------+
-| Cupola-rotunda                               | Birotunda                        |
-+==============================================+==================================+
-| J32                                          | J33                              |
-+----------------------------------------------+----------------------------------+
-| Pentagonal orthocupolarotunda                | Pentagonal gyrocupolarotunda     |
-+----------------------------------------------+----------------------------------+
-| Pentagonal_orthocupolarotunda.png            | Pentagonal_gyrocupolarotunda.png |
-+----------------------------------------------+----------------------------------+
-| Johnson_solid_32_net.png                     | Johnson_solid_33_net.png         |
-+----------------------------------------------+----------------------------------+
-| Augumented from polyhedra                    |                                  |
-+----------------------------------------------+----------------------------------+
-| Pentagonal cupola                            | Pentagonal rotunda               |
-| Pentagonal rotunda                           |                                  |
-+----------------------------------------------+----------------------------------+
-| Pentagonal_cupola.png Pentagonal_rotunda.png | Pentagonal_rotunda.png           |
-+----------------------------------------------+----------------------------------+
++-------------------------------+------------------------------+
+| Cupola-rotunda                | Birotunda                    |
++===============================+==============================+
+| J32                           | J33                          |
++-------------------------------+------------------------------+
+| Pentagonal orthocupolarotunda | Pentagonal gyrocupolarotunda |
++-------------------------------+------------------------------+
+|                               |                              |
++-------------------------------+------------------------------+
+|                               |                              |
++-------------------------------+------------------------------+
+| Augumented from polyhedra     |                              |
++-------------------------------+------------------------------+
+| Pentagonal cupola             | Pentagonal rotunda           |
+| Pentagonal rotunda            |                              |
++-------------------------------+------------------------------+
+|                               |                              |
++-------------------------------+------------------------------+
 
 Elongated bicupolae
 
 The elongated square orthobicupola is an Archimedean solid (in this case the rhombicuboctahedron), so it is not a Johnson solid.
 
-+-------------------------------------------+-------------------------------------------+
-| Elongated orthobicupola                   | Elongated gyrobicupola                    |
-+===========================================+===========================================+
-| Coplanar                                  | J35                                       |
-+-------------------------------------------+-------------------------------------------+
-| Elongated bifastigium                     | Elongated triangular orthobicupola        |
-+-------------------------------------------+-------------------------------------------+
-| Elongated_digonal_orthobicupola.png       | Elongated_triangular_orthobicupola.png    |
-+-------------------------------------------+-------------------------------------------+
-|                                           | Johnson_solid_35_net.png                  |
-+-------------------------------------------+-------------------------------------------+
-| Augmented from polyhedra                  |                                           |
-+-------------------------------------------+-------------------------------------------+
-| Square prism                              | Hexagonal prism                           |
-| Triangular prism                          | Triangular cupola                         |
-+-------------------------------------------+-------------------------------------------+
-| tetragonal_prism.png Triangular_prism.png | Hexagonal_prism.png Triangular_cupola.png |
-+-------------------------------------------+-------------------------------------------+
++--------------------------+------------------------------------+
+| Elongated orthobicupola  | Elongated gyrobicupola             |
++==========================+====================================+
+| Coplanar                 | J35                                |
++--------------------------+------------------------------------+
+| Elongated bifastigium    | Elongated triangular orthobicupola |
++--------------------------+------------------------------------+
+|                          |                                    |
++--------------------------+------------------------------------+
+|                          |                                    |
++--------------------------+------------------------------------+
+| Augmented from polyhedra |                                    |
++--------------------------+------------------------------------+
+| Square prism             | Hexagonal prism                    |
+| Triangular prism         | Triangular cupola                  |
++--------------------------+------------------------------------+
+|                          |                                    |
++--------------------------+------------------------------------+
 
 Elongated cupola-rotundae and birotundae
 
-+------------------------------------------------------------------+--------------------------------------------+
-| Elongated cupolarotunda                                          | Elongated birotunda                        |
-+==================================================================+============================================+
-| J40                                                              | J41                                        |
-+------------------------------------------------------------------+--------------------------------------------+
-| Elongated pentagonal orthocupolarotunda                          | Elongated pentagonal gyrocupolarotunda     |
-+------------------------------------------------------------------+--------------------------------------------+
-| Elongated_pentagonal_orthocupolarotunda.png                      | Elongated_pentagonal_gyrocupolarotunda.png |
-+------------------------------------------------------------------+--------------------------------------------+
-| Johnson_solid_40_net.png                                         | Johnson_solid_41_net.png                   |
-+------------------------------------------------------------------+--------------------------------------------+
-| Augmented from polyhedra                                         |                                            |
-+------------------------------------------------------------------+--------------------------------------------+
-| Decagonal prism                                                  | Decagonal prism                            |
-| Pentagonal cupola                                                | Pentagonal rotunda                         |
-| Pentagonal rotunda                                               |                                            |
-+------------------------------------------------------------------+--------------------------------------------+
-| Decagonal_prism.png Pentagonal_cupola.png Pentagonal_rotunda.png | Decagonal_prism.png Pentagonal_rotunda.png |
-+------------------------------------------------------------------+--------------------------------------------+
++-----------------------------------------+----------------------------------------+
+| Elongated cupolarotunda                 | Elongated birotunda                    |
++=========================================+========================================+
+| J40                                     | J41                                    |
++-----------------------------------------+----------------------------------------+
+| Elongated pentagonal orthocupolarotunda | Elongated pentagonal gyrocupolarotunda |
++-----------------------------------------+----------------------------------------+
+|                                         |                                        |
++-----------------------------------------+----------------------------------------+
+|                                         |                                        |
++-----------------------------------------+----------------------------------------+
+| Augmented from polyhedra                |                                        |
++-----------------------------------------+----------------------------------------+
+| Decagonal prism                         | Decagonal prism                        |
+| Pentagonal cupola                       | Pentagonal rotunda                     |
+| Pentagonal rotunda                      |                                        |
++-----------------------------------------+----------------------------------------+
+|                                         |                                        |
++-----------------------------------------+----------------------------------------+
 
 Gyroelongated bicupolae, cupola-rotunda, and birotunda
 
 These Johnson solids have 2 chiral forms.
 
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-| Gyroelongated bicupola                    | Gyroelongated cupolarotunda                   | Gyroelongated birotunda                   |
-+===========================================+===============================================+===========================================+
-| Concave                                   | J44                                           | J45                                       |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-| Gyroelongated bifastigium                 | Gyroelongated triangular bicupola             | Gyroelongated square bicupola             |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-| Gyroelongated_digonal_bicupola.png        | Gyroelongated_triangular_bicupola.png         | Gyroelongated_square_bicupola.png         |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-|                                           | Johnson_solid_44_net.png                      | Johnson_solid_45_net.png                  |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-| Augmented from polyhedra                  |                                               |                                           |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-| Triangular prism                          | Triangular cupola                             | Square cupola                             |
-| Square antiprism                          | Hexagonal antiprism                           | Octagonal antiprism                       |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
-| triangular_prism.png square_antiprism.png | triangular_cupola.png Hexagonal_antiprism.png | Square_cupola.png Octagonal_antiprism.png |
-+-------------------------------------------+-----------------------------------------------+-------------------------------------------+
++---------------------------+-----------------------------------+-------------------------------+
+| Gyroelongated bicupola    | Gyroelongated cupolarotunda       | Gyroelongated birotunda       |
++===========================+===================================+===============================+
+| Concave                   | J44                               | J45                           |
++---------------------------+-----------------------------------+-------------------------------+
+| Gyroelongated bifastigium | Gyroelongated triangular bicupola | Gyroelongated square bicupola |
++---------------------------+-----------------------------------+-------------------------------+
+|                           |                                   |                               |
++---------------------------+-----------------------------------+-------------------------------+
+|                           |                                   |                               |
++---------------------------+-----------------------------------+-------------------------------+
+| Augmented from polyhedra  |                                   |                               |
++---------------------------+-----------------------------------+-------------------------------+
+| Triangular prism          | Triangular cupola                 | Square cupola                 |
+| Square antiprism          | Hexagonal antiprism               | Octagonal antiprism           |
++---------------------------+-----------------------------------+-------------------------------+
+|                           |                                   |                               |
++---------------------------+-----------------------------------+-------------------------------+
 
 Augmented prisms
 
 Johnson solids 49 to 57 are built by augmenting the sides of prisms with square pyramids.
 
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| Augmented triangular prisms             | Augmented pentagonal prisms             | Augmented hexagonal prisms             |
-+=========================================+=========================================+========================================+
-| J49                                     | J50                                     | J51                                    |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| Augmented triangular prism              | Biaugmented triangular prism            | Triaugmented triangular prism          |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| Augmented_triangular_prism.png          | Biaugmented_triangular_prism.png        | Triaugmented_triangular_prism.png      |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| Johnson_solid_49_net.png                | Johnson_solid_50_net.png                | Johnson_solid_51_net.png               |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| Augumented from polyhedra               |                                         |                                        |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| Triangular prism                        | Pentagonal prism                        | Hexagonal prism                        |
-| Square pyramid                          | Square pyramid                          | Square pyramid                         |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
-| triangular_prism.png square_pyramid.png | Pentagonal_prism.png square_pyramid.png | Hexagonal_prism.png square_pyramid.png |
-+-----------------------------------------+-----------------------------------------+----------------------------------------+
++-----------------------------+------------------------------+-------------------------------+
+| Augmented triangular prisms | Augmented pentagonal prisms  | Augmented hexagonal prisms    |
++=============================+==============================+===============================+
+| J49                         | J50                          | J51                           |
++-----------------------------+------------------------------+-------------------------------+
+| Augmented triangular prism  | Biaugmented triangular prism | Triaugmented triangular prism |
++-----------------------------+------------------------------+-------------------------------+
+|                             |                              |                               |
++-----------------------------+------------------------------+-------------------------------+
+|                             |                              |                               |
++-----------------------------+------------------------------+-------------------------------+
+| Augumented from polyhedra   |                              |                               |
++-----------------------------+------------------------------+-------------------------------+
+| Triangular prism            | Pentagonal prism             | Hexagonal prism               |
+| Square pyramid              | Square pyramid               | Square pyramid                |
++-----------------------------+------------------------------+-------------------------------+
+|                             |                              |                               |
++-----------------------------+------------------------------+-------------------------------+
 
 Modified Platonic and Archimedean solids
 
@@ -285,98 +285,98 @@ Johnson solids 58 to 83 are built by augmenting, diminishing or gyrating Platoni
 
 Augmented dodecahedra
 
-  J58                                       J59                                J60                                J61
-  ----------------------------------------- ---------------------------------- ---------------------------------- -------------------------------
-  Augmented dodecahedron                    Parabiaugmented dodecahedron       Metabiaugmented dodecahedron       Triaugmented dodecahedron
-  Augmented_dodecahedron.png                Parabiaugmented_dodecahedron.png   Metabiaugmented_dodecahedron.png   Triaugmented_dodecahedron.png
-  Johnson_solid_58_net.png                  Johnson_solid_59_net.png           Johnson_solid_60_net.png           Johnson_solid_61_net.png
+  J58                                   J59                            J60                            J61
+  ------------------------------------- ------------------------------ ------------------------------ ---------------------------
+  Augmented dodecahedron                Parabiaugmented dodecahedron   Metabiaugmented dodecahedron   Triaugmented dodecahedron
+
+
   Augumented from polyhedra
   Dodecahedron and pentagonal pyramid
-  dodecahedron.png Pentagonal_pyramid.png
+
 
 Diminished icosahedra
 
-+--------------------------------------+-------------------------------------+
-| Diminished icosahedra                | Augmented tridiminished icosahedron |
-+======================================+=====================================+
-| J11                                  | Uniform                             |
-| (Repeated)                           |                                     |
-+--------------------------------------+-------------------------------------+
-| Diminished icosahedron               | Parabidiminished icosahedron        |
-| (Gyroelongated pentagonal pyramid)   | (Pentagonal antiprism)              |
-+--------------------------------------+-------------------------------------+
-| Gyroelongated_pentagonal_pyramid.png | Pentagonal_antiprism.png            |
-+--------------------------------------+-------------------------------------+
-| Johnson_solid_11_net.png             |                                     |
-+--------------------------------------+-------------------------------------+
++------------------------------------+-------------------------------------+
+| Diminished icosahedra              | Augmented tridiminished icosahedron |
++====================================+=====================================+
+| J11                                | Uniform                             |
+| (Repeated)                         |                                     |
++------------------------------------+-------------------------------------+
+| Diminished icosahedron             | Parabidiminished icosahedron        |
+| (Gyroelongated pentagonal pyramid) | (Pentagonal antiprism)              |
++------------------------------------+-------------------------------------+
+|                                    |                                     |
++------------------------------------+-------------------------------------+
+|                                    |                                     |
++------------------------------------+-------------------------------------+
 
 Augmented Archimedean solids
 
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| Augmented truncated tetrahedron                 | Augmented truncated cubes                  | Augmented truncated dodecahedra                  |
-+=================================================+============================================+==================================================+
-| J65                                             | J66                                        | J67                                              |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| Augmented truncated tetrahedron                 | Augmented truncated cube                   | Biaugmented truncated cube                       |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| Augmented_truncated_tetrahedron.png             | Augmented_truncated_cube.png               | Biaugmented_truncated_cube.png                   |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| Johnson_solid_65_net.png                        | Johnson_solid_66_net.png                   | Johnson_solid_67_net.png                         |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| Augumented from polyhedra                       |                                            |                                                  |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| truncated tetrahedron                           | truncated cube                             | truncated dodecahedron                           |
-| triangular cupola                               | square cupola                              | pentagonal cupola                                |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
-| truncated_tetrahedron.png triangular_cupola.png | truncated_hexahedron.png square_cupola.png | truncated_dodecahedron.png pentagonal_cupola.png |
-+-------------------------------------------------+--------------------------------------------+--------------------------------------------------+
++---------------------------------+---------------------------+---------------------------------+
+| Augmented truncated tetrahedron | Augmented truncated cubes | Augmented truncated dodecahedra |
++=================================+===========================+=================================+
+| J65                             | J66                       | J67                             |
++---------------------------------+---------------------------+---------------------------------+
+| Augmented truncated tetrahedron | Augmented truncated cube  | Biaugmented truncated cube      |
++---------------------------------+---------------------------+---------------------------------+
+|                                 |                           |                                 |
++---------------------------------+---------------------------+---------------------------------+
+|                                 |                           |                                 |
++---------------------------------+---------------------------+---------------------------------+
+| Augumented from polyhedra       |                           |                                 |
++---------------------------------+---------------------------+---------------------------------+
+| truncated tetrahedron           | truncated cube            | truncated dodecahedron          |
+| triangular cupola               | square cupola             | pentagonal cupola               |
++---------------------------------+---------------------------+---------------------------------+
+|                                 |                           |                                 |
++---------------------------------+---------------------------+---------------------------------+
 
 Gyrate and diminished rhombicosidodecahedra
 
-  J72                                           J73                                                J74                                                J75
-  --------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------------------------------
-  Gyrate rhombicosidodecahedron                 Parabigyrate rhombicosidodecahedron                Metabigyrate rhombicosidodecahedron                Trigyrate rhombicosidodecahedron
-  Gyrate_rhombicosidodecahedron.png             Parabigyrate_rhombicosidodecahedron.png            Metabigyrate_rhombicosidodecahedron.png            Trigyrate_rhombicosidodecahedron.png
-  Johnson_solid_72_net.png                      Johnson_solid_73_net.png                           Johnson_solid_74_net.png                           Johnson_solid_75_net.png
+  J72                                       J73                                            J74                                            J75
+  ----------------------------------------- ---------------------------------------------- ---------------------------------------------- --------------------------------------------
+  Gyrate rhombicosidodecahedron             Parabigyrate rhombicosidodecahedron            Metabigyrate rhombicosidodecahedron            Trigyrate rhombicosidodecahedron
+
+
    
-  J76                                           J77                                                J78                                                J79
-  Diminished rhombicosidodecahedron             Paragyrate diminished rhombicosidodecahedron       Metagyrate diminished rhombicosidodecahedron       Bigyrate diminished rhombicosidodecahedron
-  Diminished_rhombicosidodecahedron.png         Paragyrate_diminished_rhombicosidodecahedron.png   Metagyrate_diminished_rhombicosidodecahedron.png   Bigyrate_diminished_rhombicosidodecahedron.png
-  Johnson_solid_76_net.png                      Johnson_solid_77_net.png                           Johnson_solid_78_net.png                           Johnson_solid_79_net.png
+  J76                                       J77                                            J78                                            J79
+  Diminished rhombicosidodecahedron         Paragyrate diminished rhombicosidodecahedron   Metagyrate diminished rhombicosidodecahedron   Bigyrate diminished rhombicosidodecahedron
+
+
    
-  J80                                           J81                                                J82                                                J83
-  Parabidiminished rhombicosidodecahedron       Metabidiminished rhombicosidodecahedron            Gyrate bidiminished rhombicosidodecahedron         Tridiminished rhombicosidodecahedron
-  Parabidiminished_rhombicosidodecahedron.png   Metabidiminished_rhombicosidodecahedron.png        Gyrate_bidiminished_rhombicosidodecahedron.png     Tridiminished_rhombicosidodecahedron.png
-  Johnson_solid_80_net.png                      Johnson_solid_81_net.png                           Johnson_solid_82_net.png                           Johnson_solid_83_net.png
+  J80                                       J81                                            J82                                            J83
+  Parabidiminished rhombicosidodecahedron   Metabidiminished rhombicosidodecahedron        Gyrate bidiminished rhombicosidodecahedron     Tridiminished rhombicosidodecahedron
+
+
 
 Snub antiprisms
 
 The snub antiprisms can be constructed as an alternation of a truncated antiprism. The gyrobianticupolae are another construction for the snub antiprisms. Only snub antiprisms with at most 4 sides can be constructed from regular polygons. The snub triangular antiprism is the regular icosahedron, so it is not a Johnson solid.
 
-+--------------------------------------+-----------------------------------+--------------------------------------------+
-| J84                                  | Regular                           | J85                                        |
-+======================================+===================================+============================================+
-| Snub disphenoid                      | Icosahedron                       | Snub square antiprism                      |
-| ss{2,4}                              | ss{2,6}                           | ss{2,8}                                    |
-+--------------------------------------+-----------------------------------+--------------------------------------------+
-| Digonal gyrobianticupola             | Triangular gyrobianticupola       | Square gyrobianticupola                    |
-+--------------------------------------+-----------------------------------+--------------------------------------------+
-| Snub_digonal_antiprism.png           | snub_triangular_antiprism.png     | Snub_square_antiprism_colored.png          |
-+--------------------------------------+-----------------------------------+--------------------------------------------+
-| Snub_disphenoid_net_snubcoloring.png | Snub_triangular_antiprism_net.png | Snub_square_antiprism_net_snubcoloring.png |
-+--------------------------------------+-----------------------------------+--------------------------------------------+
++--------------------------+-----------------------------+-------------------------+
+| J84                      | Regular                     | J85                     |
++==========================+=============================+=========================+
+| Snub disphenoid          | Icosahedron                 | Snub square antiprism   |
+| ss{2,4}                  | ss{2,6}                     | ss{2,8}                 |
++--------------------------+-----------------------------+-------------------------+
+| Digonal gyrobianticupola | Triangular gyrobianticupola | Square gyrobianticupola |
++--------------------------+-----------------------------+-------------------------+
+|                          |                             |                         |
++--------------------------+-----------------------------+-------------------------+
+|                          |                             |                         |
++--------------------------+-----------------------------+-------------------------+
 
 Others
 
-  J86                        J87                          J88
-  -------------------------- ---------------------------- --------------------------
-  Sphenocorona               Augmented sphenocorona       Sphenomegacorona
-  Sphenocorona.png           Augmented_sphenocorona.png   Sphenomegacorona.png
-  Johnson_solid_86_net.png   Johnson_solid_87_net.png     Johnson_solid_88_net.png
-  J89                        J90                          J91
-  Hebesphenomegacorona       Disphenocingulum             Bilunabirotunda
-  Hebesphenomegacorona.png   Disphenocingulum.png         Bilunabirotunda.png
-  Johnson_solid_89_net.png   Johnson_solid_90_net.png     Johnson_solid_91_net.png
+  J86                    J87                      J88
+  ---------------------- ------------------------ ------------------
+  Sphenocorona           Augmented sphenocorona   Sphenomegacorona
+
+
+  J89                    J90                      J91
+  Hebesphenomegacorona   Disphenocingulum         Bilunabirotunda
+
+
 
 
 Classification by types of faces
@@ -385,91 +385,87 @@ Triangle-faced Johnson solids
 
 Five Johnson solids are deltahedra, with all equilateral triangle faces:
 
-+---------------------------------------------------------------------------+-------------------------------------------------------------------------+
-|     J12 Triangular bipyramid Triangular_dipyramid.png                     |     J51 Triaugmented triangular prism Triaugmented_triangular_prism.png |
-|     J13 Pentagonal bipyramid Pentagonal_dipyramid.png                     |     J84 Snub disphenoid Snub_disphenoid.png                             |
-|     J17 Gyroelongated square bipyramid Gyroelongated_square_dipyramid.png |                                                                         |
-+---------------------------------------------------------------------------+-------------------------------------------------------------------------+
++----------------------------------------+---------------------------------------+
+|     J12 Triangular bipyramid           |     J51 Triaugmented triangular prism |
+|     J13 Pentagonal bipyramid           |     J84 Snub disphenoid               |
+|     J17 Gyroelongated square bipyramid |                                       |
++----------------------------------------+---------------------------------------+
 
 Triangle and square-faced Johnson solids
 
 Twenty four Johnson solids have only triangle or square faces:
 
-+---------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------+
-|     J1 Square pyramid Square_pyramid.png                                  |     J27 Triangular orthobicupola Triangular_orthobicupola.png                     |     J49 Augmented triangular prism Augmented_triangular_prism.png     |
-|     J7 Elongated triangular pyramid Elongated_triangular_pyramid.png      |     J28 Square orthobicupola Square_orthobicupola.png                             |     J50 Biaugmented triangular prism Biaugmented_triangular_prism.png |
-|     J8 Elongated square pyramid Elongated_square_pyramid.png              |     J29 Square gyrobicupola Square_gyrobicupola.png                               |     J85 Snub square antiprism Snub_square_antiprism.png               |
-|     J10 Gyroelongated square pyramid Gyroelongated_square_pyramid.png     |     J35 Elongated triangular orthobicupola Elongated_triangular_orthobicupola.png |     J86 Sphenocorona Sphenocorona.png                                 |
-|     J14 Elongated triangular bipyramid Elongated_triangular_dipyramid.png |     J36 Elongated triangular gyrobicupola Elongated_triangular_gyrobicupola.png   |     J87 Augmented sphenocorona Augmented_sphenocorona.png             |
-|     J15 Elongated square bipyramid Elongated_square_dipyramid.png         |     J37 Elongated square gyrobicupola Elongated_square_gyrobicupola.png           |     J88 Sphenomegacorona Sphenomegacorona.png                         |
-|     J16 Elongated pentagonal bipyramid Elongated_pentagonal_dipyramid.png |     J44 Gyroelongated triangular bicupola Gyroelongated_triangular_bicupola.png   |     J89 Hebesphenomegacorona Hebesphenomegacorona.png                 |
-|     J26 Gyrobifastigium Gyrobifastigium.png                               |     J45 Gyroelongated square bicupola Gyroelongated_square_bicupola.png           |     J90 Disphenocingulum Disphenocingulum.png                         |
-+---------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------+
++----------------------------------------+--------------------------------------------+--------------------------------------+
+|     J1 Square pyramid                  |     J27 Triangular orthobicupola           |     J49 Augmented triangular prism   |
+|     J7 Elongated triangular pyramid    |     J28 Square orthobicupola               |     J50 Biaugmented triangular prism |
+|     J8 Elongated square pyramid        |     J29 Square gyrobicupola                |     J85 Snub square antiprism        |
+|     J10 Gyroelongated square pyramid   |     J35 Elongated triangular orthobicupola |     J86 Sphenocorona                 |
+|     J14 Elongated triangular bipyramid |     J36 Elongated triangular gyrobicupola  |     J87 Augmented sphenocorona       |
+|     J15 Elongated square bipyramid     |     J37 Elongated square gyrobicupola      |     J88 Sphenomegacorona             |
+|     J16 Elongated pentagonal bipyramid |     J44 Gyroelongated triangular bicupola  |     J89 Hebesphenomegacorona         |
+|     J26 Gyrobifastigium                |     J45 Gyroelongated square bicupola      |     J90 Disphenocingulum             |
++----------------------------------------+--------------------------------------------+--------------------------------------+
 
 Triangle and pentagonal-faced Johnson solids
 
 Eleven Johnson solids have only triangle and pentagonal faces:
 
-+-----------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
-|     J2 Pentagonal pyramid Pentagonal_pyramid.png                                  |     J60 Metabiaugmented dodecahedron Metabiaugmented_dodecahedron.png               |
-|     J11 Gyroelongated pentagonal pyramid Gyroelongated_pentagonal_pyramid.png     |     J61 Triaugmented dodecahedron Triaugmented_dodecahedron.png                     |
-|     J34 Pentagonal orthobirotunda Pentagonal_orthobirotunda.png                   |     J62 Metabidiminished icosahedron Metabidiminished_icosahedron.png               |
-|     J48 Gyroelongated pentagonal birotunda Gyroelongated_pentagonal_birotunda.png |     J63 Tridiminished icosahedron Tridiminished_icosahedron.png                     |
-|     J58 Augmented dodecahedron Augmented_dodecahedron.png                         |     J64 Augmented tridiminished icosahedron Augmented_tridiminished_icosahedron.png |
-|     J59 Parabiaugmented dodecahedron Parabiaugmented_dodecahedron.png             |                                                                                     |
-+-----------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
++--------------------------------------------+---------------------------------------------+
+|     J2 Pentagonal pyramid                  |     J60 Metabiaugmented dodecahedron        |
+|     J11 Gyroelongated pentagonal pyramid   |     J61 Triaugmented dodecahedron           |
+|     J34 Pentagonal orthobirotunda          |     J62 Metabidiminished icosahedron        |
+|     J48 Gyroelongated pentagonal birotunda |     J63 Tridiminished icosahedron           |
+|     J58 Augmented dodecahedron             |     J64 Augmented tridiminished icosahedron |
+|     J59 Parabiaugmented dodecahedron       |                                             |
++--------------------------------------------+---------------------------------------------+
 
 Triangle, square, and hexagonal-faced Johnson solids
 
 Eight Johnson solids have only triangle, square and hexagonal faces:
 
-+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-|     J3 Triangular cupola Triangular_cupola.png                              |     J55 Parabiaugmented hexagonal prism Parabiaugmented_hexagonal_prism.png |
-|     J18 Elongated triangular cupola Elongated_triangular_cupola.png         |     J56 Metabiaugmented hexagonal prism Metabiaugmented_hexagonal_prism.png |
-|     J22 Gyroelongated triangular cupola Gyroelongated_triangular_cupola.png |     J57 Triaugmented hexagonal prism Triaugmented_hexagonal_prism.png       |
-|     J54 Augmented hexagonal prism Augmented_hexagonal_prism.png             |     J65 Augmented truncated tetrahedron Augmented_truncated_tetrahedron.png |
-+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------+
++-----------------------------------------+-----------------------------------------+
+|     J3 Triangular cupola                |     J55 Parabiaugmented hexagonal prism |
+|     J18 Elongated triangular cupola     |     J56 Metabiaugmented hexagonal prism |
+|     J22 Gyroelongated triangular cupola |     J57 Triaugmented hexagonal prism    |
+|     J54 Augmented hexagonal prism       |     J65 Augmented truncated tetrahedron |
++-----------------------------------------+-----------------------------------------+
 
 Triangle, square, and octagonal-faced Johnson solids
 
 Five Johnson solids have only triangle, square and octagonal faces:
 
-+---------------------------------------------------------------------+-------------------------------------------------------------------+
-|     J4 Square cupola Square_cupola.png                              |     J66 Augmented truncated cube Augmented_truncated_cube.png     |
-|     J19 Elongated square cupola Elongated_square_cupola.png         |     J67 Biaugmented truncated cube Biaugmented_truncated_cube.png |
-|     J23 Gyroelongated square cupola Gyroelongated_square_cupola.png |                                                                   |
-+---------------------------------------------------------------------+-------------------------------------------------------------------+
++-------------------------------------+------------------------------------+
+|     J4 Square cupola                |     J66 Augmented truncated cube   |
+|     J19 Elongated square cupola     |     J67 Biaugmented truncated cube |
+|     J23 Gyroelongated square cupola |                                    |
++-------------------------------------+------------------------------------+
 
 
 Circumscribable Johnson solids
 
 25 of the Johnson solids have vertices that exist on the surface of a sphere: 1–6,11,19,27,34,37,62,63,72–83. All of them can be seen to be related to a regular or uniform polyhedron by gyration, diminishment, or dissection.[3]
 
-+--------------------+-----------------------+------------------------------+
-| Octahedron         | Cuboctahedron         | Rhombicuboctahedron          |
-+====================+=======================+==============================+
-| J1                 | J3                    | J27                          |
-| Square_pyramid.png | Triangular_cupola.png | Triangular_orthobicupola.png |
-+--------------------+-----------------------+------------------------------+
++------------+---------------+---------------------+
+| Octahedron | Cuboctahedron | Rhombicuboctahedron |
++============+===============+=====================+
+| J1         | J3            | J27                 |
++------------+---------------+---------------------+
 
-+------------------------+-------------------------------+
-| Icosahedron            | Icosidodecahedron             |
-+========================+===============================+
-| J2                     | J63                           |
-| Pentagonal_pyramid.png | Tridiminished_icosahedron.png |
-+------------------------+-------------------------------+
++-------------+-------------------+
+| Icosahedron | Icosidodecahedron |
++=============+===================+
+| J2          | J63               |
++-------------+-------------------+
 
-+-----------------------+---------------------------------------+---------------------------------------------+---------------------------------------------+------------------------------------------+
-| J5                    | J76                                   | J80                                         | J81                                         | J83                                      |
-| Pentagonal_cupola.png | Diminished_rhombicosidodecahedron.png | Parabidiminished_rhombicosidodecahedron.png | Metabidiminished_rhombicosidodecahedron.png | Tridiminished_rhombicosidodecahedron.png |
-+-----------------------+---------------------------------------+---------------------------------------------+---------------------------------------------+------------------------------------------+
++----+-----+-----+-----+-----+
+| J5 | J76 | J80 | J81 | J83 |
++----+-----+-----+-----+-----+
 
 : Rhombicosidodecahedron (diminished)
 
-+-----------------------------------+-----------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------------+--------------------------------------------------+------------------------------------------------+------------------------------------------------+
-| J72                               | J73                                     | J74                                     | J75                                  | J77                                              | J78                                              | J79                                            | J82                                            |
-| Gyrate_rhombicosidodecahedron.png | Parabigyrate_rhombicosidodecahedron.png | Metabigyrate_rhombicosidodecahedron.png | Trigyrate_rhombicosidodecahedron.png | Paragyrate_diminished_rhombicosidodecahedron.png | Metagyrate_diminished_rhombicosidodecahedron.png | Bigyrate_diminished_rhombicosidodecahedron.png | Gyrate_bidiminished_rhombicosidodecahedron.png |
-+-----------------------------------+-----------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------------+--------------------------------------------------+------------------------------------------------+------------------------------------------------+
++-----+-----+-----+-----+-----+-----+-----+-----+
+| J72 | J73 | J74 | J75 | J77 | J78 | J79 | J82 |
++-----+-----+-----+-----+-----+-----+-----+-----+
 
 : Rhombicosidodecahedron (+gyration)
 

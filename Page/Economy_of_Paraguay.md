@@ -71,8 +71,6 @@ The processing of petroleum, chemicals, and plastics repreated an increasing act
 
 Structure of the economy
 
-Soja_y_silos_Paraguay_01.jpg
-
 The most important component of the Paraguayan economy is the farming sector, which contributed 27% to GDP in 2006. The participation of commerce was 20.2%, and that of other services, including government, 38.4%. Industry's part (including mining and construction) was about 20%.
 
 After years of economic crisis, between 1999 and 2002, the Paraguayan economy grew at between 2.9 and 4.1% per year from 2003 to 2006. For 2007, the estimated growth is about 6.4%. Inflation in 2007 reached 6.0%.
@@ -81,9 +79,9 @@ Most enterprises are small, micro and individual ones, including subsistence job
 
 In June 2007 external foreign exchange reserves amounted to US$2153 million, and the foreign official debt US$2154 million, close to parity. The fiscal surplus is provisionally reported as 0.5% of GDP in 2006 and 2007. Paraguay's economy (GDP) grew 5.8% in 2008, fastest growing sector being agriculture with 10.5% growth.[3]
 
-ParaguayChaco_Cattleranch3_PdeHayes.JPG ]]
+]]
 
- ParaguayChaco_Clearings_for_cattle_grazing.jpgAgriculture accounts for about 20 percent of Paraguay's annual gross domestic product (25 percent in 2004) and virtually all of the country's export earnings. It is Paraguay's largest and most consistent source of employment, employing  about 45 percent of the working population. In addition to those engaged in the formal agricultural sector, thousands of Paraguayan families survive through subsistence farming.[4]
+ Agriculture accounts for about 20 percent of Paraguay's annual gross domestic product (25 percent in 2004) and virtually all of the country's export earnings. It is Paraguay's largest and most consistent source of employment, employing  about 45 percent of the working population. In addition to those engaged in the formal agricultural sector, thousands of Paraguayan families survive through subsistence farming.[4]
 
 Paraguay produces enough basic food to be largely self-sufficient. Corn, cassava, and wheat are the main food crops for local consumption. The global surge in grain prices 2007/2008 was a major impulse for the agricultural sector. Wheat cultivation expanded, so did rice. Most significant was the increase of soy production. In 2004 Paraguay had about 1.6 million hectares dedicated to genetically modified (GM) crops.[5] Export value of soy and its derivates increased from US$1,25 billion in 2007 to US$2,54billion in 2008
 
@@ -107,8 +105,6 @@ In 2003 manufacturing made up 13.6 percent of the GDP, and the sector employed a
 
 Energy
 
-ItaipuAerea2AAL.jpg
-
 Paraguay relies almost solely on hydroelectric power to meet its energy needs. The Itaipú Dam, completed in 1984, has the world's second largest power-generating capacity: 13.3 gigawatts. The dam is located on the Paraguay River, and Paraguay and Brazil evenly share the ownership, operation, and electricity generated. Additionally, Paraguay co-owns another major hydropower plant, Yacyretá, with Argentina. Paraguay uses only a small portion of the energy it generates through Itaipú and Yacyretá. In 2002 Paraguay generated more than 48 billion kilowatt-hours of energy. It consumed only 2.5 billion kilowatt-hours while exporting 45.9 billion kilowatt-hours. Paraguay will have even more hydroelectricity to export when planned new turbines are installed at Itaipú and the Yacyretá dam is fully completed.[12] In 2007 electricity production rose to 70 TWh, and exports reached 64 TWh which put Paraguay in second place worldwide as an exporter of electrical power (And in the first place as a net exporter since France, the Number one exporter in the World with 67 TWh, also imports 10 TWh, while Paraguay does not import any).
 
 Paraguay has no oil reserves; it relies on imported oil to meet its limited need for oil-produced energy. The Paraguayan government owns Petróleos Paraguayos, which is responsible for all distribution of oil products. The state accepts bids from international oil companies, selecting a few companies annually to meet the country's demand. Presently, Paraguay does not produce or consume natural gas, but consumes LPG imported mainly from Argentina.[13]
@@ -119,7 +115,7 @@ The services sector made up nearly 50 percent of Paraguay's gross domestic produ
 
 Tourism
 
-Turismo_en_Paraguay.JPG Paraguay has a small tourism industry. Total tourism receipts declined annually from 2000 through 2002. In 2003 Paraguay's hotel occupancy rate was 38 percent. It increased by 15 percent in 2004. Small gains in tourism have come from business rather than leisure travellers. For many years, Paraguay served as a central market for trafficable, duty-free goods. However, crackdowns by the governments of Brazil and Argentina have stemmed the flow of shoppers travelling to Paraguay looking for trafficable items.[15]
+Paraguay has a small tourism industry. Total tourism receipts declined annually from 2000 through 2002. In 2003 Paraguay's hotel occupancy rate was 38 percent. It increased by 15 percent in 2004. Small gains in tourism have come from business rather than leisure travellers. For many years, Paraguay served as a central market for trafficable, duty-free goods. However, crackdowns by the governments of Brazil and Argentina have stemmed the flow of shoppers travelling to Paraguay looking for trafficable items.[15]
 
 Paraguay is a country that has a lot of different activities for tourism, due to privileged weather and location conditions condensed into a varied geography, an inviting "warm" tropical climate and an interesting history and unmatched folk art that adorn its streets with an identity that enchants anyone who visits the country. As an example, for less than 80 US dollars a visitor can have a personalized trip to a nature reserve area called Eco-Reserva Mbatovi which is located in the Paraguari department, about an hour away from the capital. The trip includes various outdoor activities, water, and complete professional guidance during the whole trip.[16]
 
@@ -149,7 +145,7 @@ Price inflation fell dramatically between 2003 and 2004, from 14.2 percent to a 
 
 Foreign economic relations
 
-Exportparaguay2007-2008.jpg Paraguay is a member of the Common Market of the South (Mercado Común del Sur or Mercosur). Most of Paraguay's trade takes place with Uruguay, Brazil and Argentina.[24] In 2002 Paraguay conducted more than US$400 million in trade with Argentina and nearly US$800 million with Brazil. Paraguay is also a member of the Inter-American Development Bank, Latin American Integration Association, and Latin American Economic System and a signatory to the agreement creating the South American Community of Nations. In 2004 Paraguay signed an energy cooperation agreement with Venezuela to purchase oil and petroleum. Venezuela agreed to concessional financing that allowed Paraguay to pay over a 15-year period at a nominal interest rate.[25]
+Paraguay is a member of the Common Market of the South (Mercado Común del Sur or Mercosur). Most of Paraguay's trade takes place with Uruguay, Brazil and Argentina.[24] In 2002 Paraguay conducted more than US$400 million in trade with Argentina and nearly US$800 million with Brazil. Paraguay is also a member of the Inter-American Development Bank, Latin American Integration Association, and Latin American Economic System and a signatory to the agreement creating the South American Community of Nations. In 2004 Paraguay signed an energy cooperation agreement with Venezuela to purchase oil and petroleum. Venezuela agreed to concessional financing that allowed Paraguay to pay over a 15-year period at a nominal interest rate.[25]
 
 Imports totaled US$3.3 billion in 2004. Principal import commodities included automobiles, chemical products, consumer goods, tobacco, petroleum, and machinery. Brazil was the leading source of imports to Paraguay (24.3 percent), followed by the United States (22.3 percent), Argentina (16.2 percent), China (9.9 percent), and Hong Kong (5 percent). Experts note that import statistics are difficult to confirm for Paraguay because as much as half of all imports are illegally re-exported to Argentina or Brazil. Imports from Mercosur countries continue to rise, up to 57 percent in 2003.[26]
 

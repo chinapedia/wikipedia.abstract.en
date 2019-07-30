@@ -31,8 +31,6 @@ When "Out of Step" was rerecorded for the LP _Out of Step_, MacKaye inserted a s
 
 Breakup
 
-LansburghCulturalCenter_showposter_092383.jpg
-
 Minor Threat broke up in 1983. A contributing factor was disagreement over musical direction. MacKaye was allegedly skipping practice sessions towards the end of the band's career, and he wrote the lyrics to the songs on the _Salad Days_ EP in the studio. That was quite a contrast with the earlier recordings, as he had written and co-written the music for much of the band's early material. Minor Threat, which had returned to being a four-piece group with the departure of Hansgen, played its final show on September 23, 1983, at the Lansburgh Cultural Center in Washington, D.C.,[11][12] sharing the bill with the go-go band Trouble Funk, and the Austin, Texas punk funk act the Big Boys. In a meaningful way, Minor Threat ended their final set with "Last Song", which was the original title of their song "Salad Days".
 
 Following the breakup, MacKaye stated that he did not "check out" on hardcore, but in fact hardcore "checked out." Explaining this, he stated that at a 1984 Minutemen show, a fan struck MacKaye's younger brother Alec in the face, and he punched the fan back, then realizing that the violence was "stupid," and that he saw his role in the stupidity. MacKaye claimed that immediately after this he decided to leave the hardcore scene.

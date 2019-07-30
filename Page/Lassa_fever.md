@@ -18,11 +18,11 @@ Cause
 
 Virology
 
-Lassa_virus.JPG Lassa virus is a member of the Arenaviridae, a family of negative-sense, single-stranded RNA viruses.[38] Specifically it is an old world arenavirus, which is enveloped, single-stranded, and bi-segmented RNA. This virus has a both a large and a small genome section, with four lineages identified to date: Josiah (Sierra Leone), GA391 (Nigeria), LP (Nigeria) and strain AV.[39]
+Lassa virus is a member of the Arenaviridae, a family of negative-sense, single-stranded RNA viruses.[38] Specifically it is an old world arenavirus, which is enveloped, single-stranded, and bi-segmented RNA. This virus has a both a large and a small genome section, with four lineages identified to date: Josiah (Sierra Leone), GA391 (Nigeria), LP (Nigeria) and strain AV.[39]
 
 Spread
 
-Mastomys_natalensis.jpg Lassa virus commonly spreads to humans from other animals, specifically the _natal multimammate mouse_ or African rat, also called the natal multimammate rat (_Mastomys natalensis_).[40] This is probably the most common mouse in equatorial Africa, common in human households and eaten as a delicacy in some areas.[41][42]
+Lassa virus commonly spreads to humans from other animals, specifically the _natal multimammate mouse_ or African rat, also called the natal multimammate rat (_Mastomys natalensis_).[40] This is probably the most common mouse in equatorial Africa, common in human households and eaten as a delicacy in some areas.[41][42]
 
 The multimammate mouse can quickly produce a large number of offspring, tends to colonize human settlements increasing the risk of rodent-human contact, and is found throughout the west, central and eastern parts of the African continent.[43]
 
@@ -33,14 +33,14 @@ Individuals who are at a higher risk of contracting the infection are those who 
 
 Diagnosis
 
-454277-Q-GYI14-255(1).jpg preparing to test Lassa fever samples.]] A range of laboratory investigations are performed, where possible, to diagnose the disease and assess its course and complications. The confidence of a diagnosis can be compromised if laboratory tests are not available. One comprising factor is the number of febrile illnesses present in Africa, such as malaria or typhoid fever that could potentially exhibit similar symptoms, particularly for non-specific manifestations of Lassa fever.[50] In cases with abdominal pain, in countries where Lassa is common, Lassa fever is often misdiagnosed as appendicitis and intussusception which delays treatment with the antiviral ribavirin.[51] In West Africa, where Lassa is most common, it is difficult to diagnose due to the absence of proper equipment to perform testing.[52]
+preparing to test Lassa fever samples.]] A range of laboratory investigations are performed, where possible, to diagnose the disease and assess its course and complications. The confidence of a diagnosis can be compromised if laboratory tests are not available. One comprising factor is the number of febrile illnesses present in Africa, such as malaria or typhoid fever that could potentially exhibit similar symptoms, particularly for non-specific manifestations of Lassa fever.[50] In cases with abdominal pain, in countries where Lassa is common, Lassa fever is often misdiagnosed as appendicitis and intussusception which delays treatment with the antiviral ribavirin.[51] In West Africa, where Lassa is most common, it is difficult to diagnose due to the absence of proper equipment to perform testing.[52]
 
 The FDA has yet to approve a widely validated laboratory test for Lassa, but there are tests that have been able to provide definitive proof of the presence of the LASV virus.[53] These tests include cell cultures, PCR, ELISA antigen assays, plaque neutralization assays, and immunofluorescence essays. However, immunofluorescence essays provide less definitive proof of Lassa infection.[54] An ELISA test for antigen and Immunoglobulin M antibodies give 88% sensitivity and 90% specificity for the presence of the infection. Other laboratory findings in Lassa fever include lymphocytopenia (low white blood cell count), thrombocytopenia (low platelets), and elevated aspartate transaminase levels in the blood. Lassa fever virus can also be found in cerebrospinal fluid.[55]
 
 
 Prevention
 
-LassaRat.png Control of the _Mastomys_ rodent population is impractical, so measures focus on keeping rodents out of homes and food supplies, encouraging effective personal hygiene, storing grain and other foodstuffs in rodent-proof containers, and disposing of garbage far from the home to help sustain clean households. Gloves, masks, laboratory coats, and goggles are advised while in contact with an infected person, to avoid contact with blood and body fluids. These issues in many countries are monitored by a department of public health. In less developed countries, these types of organizations may not have the necessary means to effectively control outbreaks.
+Control of the _Mastomys_ rodent population is impractical, so measures focus on keeping rodents out of homes and food supplies, encouraging effective personal hygiene, storing grain and other foodstuffs in rodent-proof containers, and disposing of garbage far from the home to help sustain clean households. Gloves, masks, laboratory coats, and goggles are advised while in contact with an infected person, to avoid contact with blood and body fluids. These issues in many countries are monitored by a department of public health. In less developed countries, these types of organizations may not have the necessary means to effectively control outbreaks.
 
 Vaccine
 

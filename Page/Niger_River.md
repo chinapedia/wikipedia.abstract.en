@@ -24,7 +24,7 @@ The modern nations of Nigeria and Niger take their names from the river, marking
 
 Geography
 
-Mali.A2001291.1045.250m.jpg and Savanna. The green mass on the left is the Inner Niger Delta, and on the far left are tributaries of the Senegal River.]] Niger_River_Center_Island.jpg, a wide section of the Niger River.]]
+and Savanna. The green mass on the left is the Inner Niger Delta, and on the far left are tributaries of the Senegal River.]] , a wide section of the Niger River.]]
 
 The Niger River is a relatively "clear" river, carrying only a tenth as much sediment as the Nile because the Niger's headwaters lie in ancient rocks that provide little silt. Like the Nile, the Niger floods yearly; this begins in September, peaks in November, and finishes by May.
 
@@ -46,9 +46,9 @@ The surrounding Niger River Basin is one of the distinct physiographic sections 
 
 History
 
-Ravenna_Cosmography_1889_Africa_crop.jpg placed on a Ptolemaic map. The RIVER GER is visible at bottom. Note it is placed, following Ptolemy, as just south of the land of the Garamantes, in modern Libya, constricting the continent to the land from the central Sahara north.]]
+placed on a Ptolemaic map. The RIVER GER is visible at bottom. Note it is placed, following Ptolemy, as just south of the land of the Garamantes, in modern Libya, constricting the continent to the land from the central Sahara north.]]
 
-1561_map_of_West_Africa_by_Girolamo_Ruscelli.JPG. The mouths of the Senegal River and Gambia River are postulated to flow into a lake, which also feeds the "Ger"/"Niger River", which in turn feeds the "Nile Lake" and Nile River.]]
+. The mouths of the Senegal River and Gambia River are postulated to flow into a lake, which also feeds the "Ger"/"Niger River", which in turn feeds the "Nile Lake" and Nile River.]]
 
 The origin of the river's name remains unclear. What is clear is that "Niger" was an appellation applied in the Mediterranean world from at least the Classical era, when knowledge of the area by Europeans was slightly better than fable. A careful study of Classical writings on the interior of the Sahara begins with Ptolemy, who mentions two rivers in the desert: the "Gir" (Γειρ)[8] and farther south, the "Nigir" (Νιγειρ).[9][10] The first has been since identified as the Wadi Ghir on the north western edge of the Tuat, along the borders of modern Morocco and Algeria.[11][12] This would likely have been as far as Ptolemy would have had consistent records. The Ni-Ger was likely speculation, although the name stuck as that of a river south of the Mediterranean's "known world". Suetonius reports Romans traveling to the "Ger", although in reporting any river's name derived from a Berber language, in which "gher" means "watercourse", confusion could easily arise. Pliny connected these two rivers as one long watercourse which flowed (via lakes and underground sections) into the Nile, a notion which persisted in the Arab and European worlds – and further added the Senegal River as the "Ger" – until the 19th century. The connection to the Nile River was made not simply because this was then known as the great river of "Aethiopia" (by which all lands south of the desert were called by Classical writers), but because the Nile flooded every summer. In Europe and Western Asia, floods are expected in the Spring, following snow melt. Classical authors explained the summer flood by calculating the time it took for flood waters to move down a river, and calculating how long the Nile must have been for the waters to travel from a mountain range in the spring. However the cycle of the Nile is influenced by tropical rain patterns instead of by melting snow, a characteristic unknown to the Classical Mediterranean world.[13] Through the descriptions of Leo Africanus and even Ibn Battuta – despite his visit to the river – the myth connecting the Niger to the Nile persisted.
 

@@ -3,7 +3,7 @@ LIONS CLUBS INTERNATIONAL (LCI) is an international non-political service organi
 
 Introduction
 
-Monumento_a_Melvin_Jones_(Madrid)_02.jpg in Madrid, Spain]] Lions_Clubs_International_2018_stamp_of_India.jpg Lions Clubs International, a service membership organization of over 1.7 million members worldwide (as of June 2018), was founded in Evansville, Indiana on 24 October 1916 by Dr. William Perry Woods and subsequently evolved as an international service organization under the guidance and supervision of its Secretary, Melvin Jones.
+in Madrid, Spain]] Lions Clubs International, a service membership organization of over 1.7 million members worldwide (as of June 2018), was founded in Evansville, Indiana on 24 October 1916 by Dr. William Perry Woods and subsequently evolved as an international service organization under the guidance and supervision of its Secretary, Melvin Jones.
 
 In 1917, Melvin Jones, was a 38-year-old Chicago business leader who told members of his local business club they should reach beyond business issues and address the betterment of their communities and the world. Jones' group, the Business Circle of Chicago, agreed. After contacting similar groups around the United States, an organizational meeting was held on June 7, 1917, in Chicago, Illinois, US. The Business Circle subsequently joined one of the invited groups, the "International Association of Lions Clubs" and at a national convention held in Dallas, Texas, later that year, those who were assembled: (1) adopted a Constitution, By-Laws, Code of Ethics and an Emblem; (2) established as a main tenet "unselfish service to others", (3) unanimously elected Dr. William Perry Woods as its first President effectively securing his leadership for the first two years of the existence of the International Association of Lions, and (4) selected Melvin Jones to serve as the Organization's Secretary-Treasurer.[2]
 
@@ -37,8 +37,6 @@ Lions focus on work for the blind and visually impaired began when Helen Keller 
 Lions also have a strong commitment to community hearing- and cancer-screening projects. In Perth, Western Australia, they have conducted hearing screening for over 30 years and provided seed funding for the Lions Ear and Hearing Institute established September 9, 2001, a center of excellence in the diagnosis, management, and research of ear and hearing disorders.[11] In Perth, Lions have also been instrumental in the establishment of the Lions Eye Institute. In Brisbane, Queensland, the Lions Medical Research Foundation provides funding to a number of researchers. Ian Frazer's initial work, leading to the development of a HPV vaccine for the human papillomavirus which could lead to cervical cancer, was funded by the Lions Medical Research Foundation.
 
 Lions Clubs International has supported the work of the United Nations since that organization's inception in 1945, when it was one of the non-governmental organizations invited to assist in the drafting of the United Nations Charter in San Francisco, California.
-
-Lions_Club_Bridge.jpg
 
 Lions Clubs International Foundation
 
@@ -100,11 +98,9 @@ The Melvin Jones Fellowship (MJF) Award is the highest recognition from the _Lio
 
 Spread of Lions
 
-HK_Lion_International_at_the_Peak_of_HK_island.jpg
-
 Lions Clubs around the world
 
-Lions_Club_Involvement_Map.svg The organization became international on 12 March 1920, when the first club in Canada was established in Windsor, Ontario. Lions Clubs have since spread across the globe and have a current membership roster of 1.4 million members worldwide.[26]
+The organization became international on 12 March 1920, when the first club in Canada was established in Windsor, Ontario. Lions Clubs have since spread across the globe and have a current membership roster of 1.4 million members worldwide.[26]
 
 Extensions of the Lions family
 

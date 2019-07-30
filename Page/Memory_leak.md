@@ -132,8 +132,6 @@ When all the memory on a system is exhausted (whether there is virtual memory or
 
 Some multi-tasking operating systems have special mechanisms to deal with an out-of-memory condition, such as killing processes at random (which may affect "innocent" processes), or killing the largest process in memory (which presumably is the one causing the problem). Some operating systems have a per-process memory limit, to prevent any one program from hogging all of the memory on the system. The disadvantage to this arrangement is that the operating system sometimes must be re-configured to allow proper operation of programs that legitimately require large amounts of memory, such as those dealing with graphics, video, or scientific calculations.
 
-Sample_sawtooth.jpg
-
 If the memory leak is in the kernel, the operating system itself will likely fail. Computers without sophisticated memory management, such as embedded systems, may also completely fail from a persistent memory leak.
 
 Publicly accessible systems such as web servers or routers are prone to denial-of-service attacks if an attacker discovers a sequence of operations which can trigger a leak. Such a sequence is known as an exploit.

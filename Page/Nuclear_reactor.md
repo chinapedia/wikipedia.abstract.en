@@ -1,4 +1,4 @@
-Crocus-p1020491.jpg, a small nuclear reactor used for research at the EPFL in Switzerland]] A NUCLEAR REACTOR, formerly known as an ATOMIC PILE, is a device used to initiate and control a self-sustained nuclear chain reaction. Nuclear reactors are used at nuclear power plants for electricity generation and in nuclear marine propulsion. Heat from nuclear fission is passed to a working fluid (water or gas), which in turn runs through steam turbines. These either drive a ship's propellers or turn electrical generators' shafts. Nuclear generated steam in principle can be used for industrial process heat or for district heating. Some reactors are used to produce isotopes for medical and industrial use, or for production of weapons-grade plutonium. As of early 2019, the IAEA reports there are 454 nuclear power reactors and 226 nuclear research reactors in operation around the world.[1][2]
+, a small nuclear reactor used for research at the EPFL in Switzerland]] A NUCLEAR REACTOR, formerly known as an ATOMIC PILE, is a device used to initiate and control a self-sustained nuclear chain reaction. Nuclear reactors are used at nuclear power plants for electricity generation and in nuclear marine propulsion. Heat from nuclear fission is passed to a working fluid (water or gas), which in turn runs through steam turbines. These either drive a ship's propellers or turn electrical generators' shafts. Nuclear generated steam in principle can be used for industrial process heat or for district heating. Some reactors are used to produce isotopes for medical and industrial use, or for production of weapons-grade plutonium. As of early 2019, the IAEA reports there are 454 nuclear power reactors and 226 nuclear research reactors in operation around the world.[1][2]
 
 
 How a nuclear reactor works
@@ -50,7 +50,7 @@ The energy released in the fission process generates heat, some of which can be 
 
 Early reactors
 
-Stagg_Field_reactor.jpg, the first nuclear reactor, built in secrecy at the University of Chicago in 1942 during World War II as part of the US's Manhattan project. ]] Otto_Hahn_und_Lise_Meitner.jpg and Otto Hahn in their laboratory.]] ChicagoPileTeam.png, including Enrico Fermi and Leó Szilárd.]] The neutron was discovered in 1932 by British physicist James Chadwick. The concept of a nuclear chain reaction brought about by nuclear reactions mediated by neutrons was first realized shortly thereafter, by Hungarian scientist Leó Szilárd, in 1933. He filed a patent for his idea of a simple reactor the following year while working at the Admiralty in London.[12] However, Szilárd's idea did not incorporate the idea of nuclear fission as a neutron source, since that process was not yet discovered. Szilárd's ideas for nuclear reactors using neutron-mediated nuclear chain reactions in light elements proved unworkable.
+, the first nuclear reactor, built in secrecy at the University of Chicago in 1942 during World War II as part of the US's Manhattan project. ]] and Otto Hahn in their laboratory.]] , including Enrico Fermi and Leó Szilárd.]] The neutron was discovered in 1932 by British physicist James Chadwick. The concept of a nuclear chain reaction brought about by nuclear reactions mediated by neutrons was first realized shortly thereafter, by Hungarian scientist Leó Szilárd, in 1933. He filed a patent for his idea of a simple reactor the following year while working at the Admiralty in London.[12] However, Szilárd's idea did not incorporate the idea of nuclear fission as a neutron source, since that process was not yet discovered. Szilárd's ideas for nuclear reactors using neutron-mediated nuclear chain reactions in light elements proved unworkable.
 
 Inspiration for a new type of reactor using uranium came from the discovery by Lise Meitner, Fritz Strassmann and Otto Hahn in 1938 that bombardment of uranium with neutrons (provided by an alpha-on-beryllium fusion reaction, a "neutron howitzer") produced a barium residue, which they reasoned was created by the fissioning of the uranium nuclei. Subsequent studies in early 1939 (one of them by Szilárd and Fermi) revealed that several neutrons were also released during the fissioning, making available the opportunity for the nuclear chain reaction that Szilárd had envisioned six years previously.
 
@@ -76,7 +76,7 @@ The first commercial nuclear power station, Calder Hall in Sellafield, England w
 
 The first portable nuclear reactor "Alco PM-2A" used to generate electrical power (2 MW) for Camp Century from 1960.[21]
 
-HPR1000,_reactor_coolant_system.png (red), steam generators (purple), pressurizer (blue), and pumps (green) in the three coolant loop Hualong One pressurized water reactor design]]
+(red), steam generators (purple), pressurizer (blue), and pumps (green) in the three coolant loop Hualong One pressurized water reactor design]]
 
 
 Reactor types
@@ -85,7 +85,7 @@ Reactor types
 
 }}
 
-Pulstar2.jpg's PULSTAR Reactor is a 1 MW pool-type research reactor with 4% enriched, pin-type fuel consisting of UO₂ pellets in zircaloy cladding.]]
+'s PULSTAR Reactor is a 1 MW pool-type research reactor with 4% enriched, pin-type fuel consisting of UO₂ pellets in zircaloy cladding.]]
 
 Classifications
 
@@ -115,7 +115,7 @@ Used by thermal reactors:
 
 By coolant
 
-RIAN_archive_450312_Treatment_of_interior_part_of_reactor_frame.jpg reactor frame on Atommash.]] Thermal_reactor_diagram.png
+reactor frame on Atommash.]]
 
 -   Water cooled reactor. These constitute the great majority of operational nuclear reactors: as of 2014, 93% of the world's nuclear reactors are water cooled, providing about 95% of the world's total nuclear generation capacity.[25]
     -   Pressurized water reactor (PWR) Pressurized water reactors constitute the large majority of all Western nuclear power plants.
@@ -180,7 +180,7 @@ By use
 
 Current technologies
 
-Diablo_canyon_nuclear_power_plant.jpg — a PWR]]
+— a PWR]]
 
 -   Pressurized water reactors (PWR) [moderator: high-pressure water; coolant: high-pressure water]
 
@@ -194,7 +194,7 @@ Diablo_canyon_nuclear_power_plant.jpg — a PWR]]
 
         A BWR is like a PWR without the steam generator. The lower pressure of its cooling water allows it to boil inside the pressure vessel, producing the steam that runs the turbines. Unlike a PWR, there is no primary and secondary loop. The thermal efficiency of these reactors can be higher, and they can be simpler, and even potentially more stable and safe. This is a thermal neutron reactor design, the newest of which are the Advanced Boiling Water Reactor and the Economic Simplified Boiling Water Reactor.
 
-CANDU_at_Qinshan.jpg Qinshan Nuclear Power Plant]]
+Qinshan Nuclear Power Plant]]
 
 -   Pressurized Heavy Water Reactor (PHWR) [moderator: high-pressure heavy water; coolant: high-pressure heavy water]
 
@@ -202,7 +202,7 @@ CANDU_at_Qinshan.jpg Qinshan Nuclear Power Plant]]
 
         A Canadian design (known as CANDU), very similar to PWRs but using heavy water. While heavy water is significantly more expensive than ordinary water, it has greater neutron economy (creates a higher number of thermal neutrons), allowing the reactor to operate without fuel-enrichment facilities. Instead of using a single large pressure vessel as in a PWR, the fuel is contained in hundreds of pressure tubes. These reactors are fueled with natural uranium and are thermal neutron reactor designs. PHWRs can be refueled while at full power, which makes them very efficient in their use of uranium (it allows for precise flux control in the core). CANDU PHWRs have been built in Canada, Argentina, China, India, Pakistan, Romania, and South Korea. India also operates a number of PHWRs, often termed 'CANDU-derivatives', built after the Government of Canada halted nuclear dealings with India following the 1974 Smiling Buddha nuclear weapon test.
 
-    Elektrownia_Ignalina.jpg — a RBMK type (closed 2009)]]
+    — a RBMK type (closed 2009)]]
 
 -   Reaktor Bolshoy Moschnosti Kanalniy (High Power Channel Reactor) (RBMK) [moderator: graphite; coolant: high-pressure water]
 
@@ -210,7 +210,7 @@ CANDU_at_Qinshan.jpg Qinshan Nuclear Power Plant]]
 
         A Soviet design, built to produce plutonium as well as power. BMKs are in some respects similar to CANDU in that they are refuelable during power operation and employ a pressure tube design instead of a PWR-style pressure vessel. However, unlike CANDU they are very unstable and large, making containment buildings for them expensive. A series of critical safety flaws have also been identified with the RBMK design, though some of these were corrected following the Chernobyl disaster. Their main attraction is their use of light water and un-enriched uranium. As of 2019, 10 remain open, mostly due to safety improvements and help from international safety agencies such as the DOE. Despite these safety improvements, RBMK reactors are still considered one of the most dangerous reactor designs in use. RBMK reactors were deployed only in the former Soviet Union.
 
-Sizewell_A.jpg Sizewell A nuclear power station]] Torness_Nuclear_Power_Station,_Scotland.JPG — an AGR]]
+Sizewell A nuclear power station]] — an AGR]]
 
 -   Gas-cooled reactor (GCR) and advanced gas-cooled reactor (AGR) [moderator: graphite; coolant: carbon dioxide]
 
@@ -220,13 +220,13 @@ Sizewell_A.jpg Sizewell A nuclear power station]] Torness_Nuclear_Power_Station,
 
 -   Liquid-metal fast-breeder reactor (LMFBR) [moderator: none; coolant: liquid metal]
 
-Topaz_nuclear_reactor.jpg]]
+]]
 
 
 
         This totally unmoderated reactor design produces more fuel than it consumes. They are said to "breed" fuel, because they produce fissionable fuel during operation because of neutron capture. These reactors can function much like a PWR in terms of efficiency, and do not require much high-pressure containment, as the liquid metal does not need to be kept at high pressure, even at very high temperatures. These reactors are fast neutron, not thermal neutron designs. These reactors come in two types:
 
-Superphénix.jpg, one of the few FBRs]]
+, one of the few FBRs]]
 
 
 
@@ -332,7 +332,7 @@ Nuclear safety covers the actions taken to prevent nuclear and radiation acciden
 
 Nuclear accidents and controversy
 
-Fukushima_I_by_Digital_Globe.jpg overheated, causing the coolant water to dissociate and led to the hydrogen explosions. This along with fuel meltdowns released large amounts of radioactive material into the air.[47]]]
+overheated, causing the coolant water to dissociate and led to the hydrogen explosions. This along with fuel meltdowns released large amounts of radioactive material into the air.[47]]]
 
 Some serious nuclear and radiation accidents have occurred. Nuclear power plant accidents include the SL-1 accident (1961), the Three Mile Island accident (1979), Chernobyl disaster (1986), and the Fukushima Daiichi nuclear disaster (2011).[48] Nuclear-powered submarine mishaps include the K-19 reactor accident (1961),[49] the K-27 reactor accident (1968),[50] and the K-431 reactor accident (1985).[51]
 

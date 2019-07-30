@@ -18,13 +18,13 @@ In 1978, Kinski starred in the Italian romance _Stay as You Are_ (_Così come se
 
 Kinski met the director Roman Polanski at a party in 1976.[16] He urged her to study method acting with Lee Strasberg in the United States and she was offered the title role in Polanski's upcoming film, _Tess_ (1979). In 1978, Kinski underwent extensive preparation for the portrayal of an English peasant girl, which included acquiring a Dorset accent through elocution studies:
 
-נסטסיה.jpg and Yoni S. Hamenachem on the set of _Maria's Lovers_ (1984)]] The film was nominated for six awards, including Best Picture, at the 53rd Academy Awards, and won three.
+and Yoni S. Hamenachem on the set of _Maria's Lovers_ (1984)]] The film was nominated for six awards, including Best Picture, at the 53rd Academy Awards, and won three.
 
 In 1981, Richard Avedon photographed Kinski with a Burmese python coiled around her nude body.[17] The image, which first appeared in the October 1981 issue of US _Vogue_, was released as a poster and became a best-seller, further confirming her status as a sex symbol.[18]
 
 In 1982, she starred in Francis Ford Coppola's romantic musical _One from the Heart_, her first film made in the United States.[19] _Texas Monthly_ described her as acting "as a Felliniesque circus performer to represent the twinkling evanescence of Eros."[20] The film failed at the box office and was a major loss for Coppola's new Zoetrope Studios. That year, she was also in the erotic horror movie _Cat People_. Dudley Moore's comedy _Unfaithfully Yours_ and an adaptation of John Irving's _The Hotel New Hampshire_ followed in 1984.
 
-Nastassja_Kinski_(1989)_by_Erling_Mandelmann.jpg Nastassja_Kinski_Cannes.jpg]] Nastassja_Kinski_in_Jerewan.jpg
+]]
 
 Kinski reteamed with Wenders for the 1984 film _Paris, Texas_. One of her most acclaimed films to date, it won the top award at the Cannes Film Festival. Throughout the 1980s, Kinski split her time between Europe and the United States, making _Moon in the Gutter_ (1983), _Harem_ (1985) and _Torrents of Spring_ (1989) in Europe, and _Exposed_ (1983), _Maria's Lovers_ (1984), and _Revolution_ (1985) in the United States.
 

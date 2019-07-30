@@ -83,8 +83,6 @@ Like many other varieties of Western High German, Luxembourgish has a rule of fi
 
 Phonology
 
-Luxembourgish_(Wikitongues).ogg
-
 Consonants
 
 The consonant inventory of Luxembourgish is quite similar to that of Standard German.
@@ -349,7 +347,7 @@ Some words are different from Standard German but have equivalents in German dia
 
 Selected common phrases
 
-Moien.jpg during the Luxembourgish EU-Presidency, first half of 2005]]
+during the Luxembourgish EU-Presidency, first half of 2005]]
 
 _Note: Words spoken in sound clip do not reflect all words on this list._
 

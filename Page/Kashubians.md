@@ -7,15 +7,13 @@ The Kashubs are closely related to the Poles. The Kashubs are grouped with the S
 
 Modern Kashubia
 
-Kashubian_language_and_nationality.png Kaszuby_-_grupy_lokalne.png with Kashubian local names on ethnic territory in the twentieth century.]] Among larger cities, Gdynia (_Gdiniô_) contains the largest proportion of people declaring Kashubian origin. However, the biggest city of the Kashubia region is Gdańsk (_Gduńsk_), the capital of the Pomeranian Voivodeship. Between 80.3% and 93.9% of the people in towns such as Linia, Sierakowice, Szemud, Kartuzy, Chmielno, Żukowo, etc. are of Kashubian descent.[9]
+with Kashubian local names on ethnic territory in the twentieth century.]] Among larger cities, Gdynia (_Gdiniô_) contains the largest proportion of people declaring Kashubian origin. However, the biggest city of the Kashubia region is Gdańsk (_Gduńsk_), the capital of the Pomeranian Voivodeship. Between 80.3% and 93.9% of the people in towns such as Linia, Sierakowice, Szemud, Kartuzy, Chmielno, Żukowo, etc. are of Kashubian descent.[9]
 
 The traditional occupations of the Kashubs have been agriculture and fishing. These have been joined by the service and hospitality industries, as well as agrotourism. The main organization that maintains the Kashubian identity is the Kashubian-Pomeranian Association. The recently formed "Odroda" is also dedicated to the renewal of Kashubian culture.
 
 The traditional capital has been disputed for a long time and includes Kartuzy (_Kartuzë_) among the seven contenders.[10] The biggest cities claiming to be the capital are: Gdańsk (_Gduńsk_),[11] Wejherowo (_Wejrowò_),[12] and Bytów (_Bëtowò_).[13][14]
 
 Population
-
-Dzewus_w_kaszebsczich_ruchnach.jpg
 
 The total number of Kashubians (Pomeranians) varies depending on one's definition. A common estimate is that over 500,000 people in Poland are of the Kashubian ethnicity, the estimates range from ca. 500,000[15] to ca. 570,000.[16][17] In the Polish census of 2002, only 5,100 people declared Kashubian national identity, although 52,655 declared Kashubian as their everyday language.[18] Most Kashubs declare Polish national identity and Kashubian ethnicity, and are considered both Polish _and_ Kashubian. On the 2002 census there was no option to declare one national identity and a different ethnicity, or more than one ethnicity. On the 2011 census, the number of persons declaring "Kashubian" as their only ethnicity was 16,000, and 233,000 including those who declared Kashubian as first or second ethnicity (together with Polish).[19][20] In that census, over 108,000 people declared everyday use of Kashubian language.[21] The number of people who can speak at least some Kashubian is higher, around 366,000.[22]
 
@@ -87,7 +85,7 @@ The westernmost (Slovincian) parts of Kashubia, located in the medieval Lands of
 
 German and Polish impact
 
-KaszebeGrifon.jpg German Ostsiedlung in Kashubia was initiated by the Pomeranian dukes[47] and focussed on the towns, whereas much of the countryside remained Kashubian.[48] An exception was the German settled Vistula delta[49] (Vistula Germans), the coastal regions,[50] and the Vistula valley.[51] Following the centuries of interaction between local German and Kashubian population, Aleksander Hilferding (1862) and Alfons Parczewski (1896) confirmed a progressive language shift in the Kashubian population from their Slavonic vernacular to the local German dialect (Low German Ostpommersch, Low German Low Prussian, or High German).[52]
+German Ostsiedlung in Kashubia was initiated by the Pomeranian dukes[47] and focussed on the towns, whereas much of the countryside remained Kashubian.[48] An exception was the German settled Vistula delta[49] (Vistula Germans), the coastal regions,[50] and the Vistula valley.[51] Following the centuries of interaction between local German and Kashubian population, Aleksander Hilferding (1862) and Alfons Parczewski (1896) confirmed a progressive language shift in the Kashubian population from their Slavonic vernacular to the local German dialect (Low German Ostpommersch, Low German Low Prussian, or High German).[52]
 
 On the other hand, Pomerelia since the Middle Ages was assigned to the Kuyavian Diocese of Leslau and thus retained Polish as the church language. Only the Slovincians in 1534 adopted Lutheranism after the Protestant Reformation had reached the Duchy of Pomerania,[53][54][55] while the Kashubes in Pomerelia remained Roman Catholic. The Prussian parliament (_Landtag_) in Königsberg changed the official church language from Polish to German in 1843. But this decision was soon repealed.
 
@@ -128,7 +126,7 @@ The Pope John Paul II’s visit in June 1987, during which he appealed to the Ka
 
 Today
 
-Witamiwilno.jpg, the oldest Polish settlement in Canada.]] In 2005, Kashubian was for the first time made an official subject on the Polish matura exam (roughly equivalent to the English A-Level and French Baccalaureat).[98] Despite an initial uptake of only 23 students, this development was seen as an important step in the official recognition and establishment of the language. Today, in some towns and villages in northern Poland, Kashubian is the second language spoken after Polish,[99] and it is taught in some regional schools.[100]
+, the oldest Polish settlement in Canada.]] In 2005, Kashubian was for the first time made an official subject on the Polish matura exam (roughly equivalent to the English A-Level and French Baccalaureat).[98] Despite an initial uptake of only 23 students, this development was seen as an important step in the official recognition and establishment of the language. Today, in some towns and villages in northern Poland, Kashubian is the second language spoken after Polish,[99] and it is taught in some regional schools.[100]
 
 Since 2005 Kashubian enjoys legal protection in Poland as an official regional language. It is the only tongue in Poland with this status. It was granted by an act of the Polish Parliament on January 6, 2005. Old Kashubian culture has partially survived in architecture and folk crafts such as pottery, plaiting, embroidery, amber-working, sculpturing and glasspainting.
 
@@ -162,7 +160,7 @@ In 1858 Kashubians emigrated to Upper Canada and created the settlement of Wilno
 
 Kashubian immigrants founded St. Josaphat parish in Chicago's Lincoln Park community in the late 19th century, as well as the parish of Immaculate Heart of Mary in Irving Park, the vicinity of which was dubbed as "Little Cassubia". In the 1870s a fishing village was established in Jones Island in Milwaukee, Wisconsin, by Kashubian immigrants. The settlers however did not hold deeds to the land, and the government of Milwaukee evicted them as squatters in the 1940s, with the area soon after turned into industrial park. The last trace of this Milwaukee fishing village that had been settled by Kashubians on Jones Island is in the name of the smallest park in the city, _Kaszube's Park_.[106]
 
-Lakes_klodno_biale_rekowo.jpg, View from Tamowa Mountain, near Kartuzy and Lakes Kłodno, Białe, and Rekowo.]]
+, View from Tamowa Mountain, near Kartuzy and Lakes Kłodno, Białe, and Rekowo.]]
 
 
 Notable Kashubs

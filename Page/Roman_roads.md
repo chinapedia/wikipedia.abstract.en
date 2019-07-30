@@ -1,4 +1,4 @@
-PompeiiStreet.jpg]]
+]]
 
 '''Roman roads ''' (Latin: _viae Romanae_ IPA: ; singular: _via Romana_ IPA: ; meaning "Roman way") were physical infrastructure vital to the maintenance and development of the Roman state, and were built from about 300 BC through the expansion and consolidation of the Roman Republic and the Roman Empire.[1] They provided efficient means for the overland movement of armies, officials, civilians, inland carriage of official communications, and trade goods.[2] Roman roads were of several kinds, ranging from small local roads to broad, long-distance highways built to connect cities, major towns and military bases. These major roads were often stone-paved and metaled, cambered for drainage, and were flanked by footpaths, bridleways and drainage ditches. They were laid along accurately surveyed courses, and some were cut through hills, or conducted over rivers and ravines on bridgework. Sections could be supported over marshy ground on rafted or piled foundations.[3][4]
 
@@ -29,7 +29,7 @@ Roman law and tradition forbade the use of vehicles in urban areas, except in ce
 
 Types
 
-Carved_steps_along_Ancient_Roman_Road.jpg to Beit Gubrin, adjacent to regional hwy 375 in Israel]] Roman roads varied from simple corduroy roads to paved roads using deep roadbeds of tamped rubble as an underlying layer to ensure that they kept dry, as the water would flow out from between the stones and fragments of rubble, instead of becoming mud in clay soils. According to Ulpian, there were three types of roads:[18]
+to Beit Gubrin, adjacent to regional hwy 375 in Israel]] Roman roads varied from simple corduroy roads to paved roads using deep roadbeds of tamped rubble as an underlying layer to ensure that they kept dry, as the water would flow out from between the stones and fragments of rubble, instead of becoming mud in clay soils. According to Ulpian, there were three types of roads:[18]
 
 1.  _Viae publicae, consulares, praetoriae_ or _militares_
 2.  _Viae privatae, rusticae, glareae_ or _agrariae_
@@ -37,7 +37,7 @@ Carved_steps_along_Ancient_Roman_Road.jpg to Beit Gubrin, adjacent to regional h
 
 _Viae publicae, consulares, praetoriae_ and _militares_
 
-Aeclanum_(Ancient_Roman_Street).jpg.]] The first type of road included public high or main roads, constructed and maintained at the public expense, and with their soil vested in the state. Such roads led either to the sea, or to a town, or to a public river (one with a constant flow), or to another public road. Siculus Flaccus, who lived under Trajan (98-117), calls them _viae publicae regalesque_,[19] and describes their characteristics as follows:
+.]] The first type of road included public high or main roads, constructed and maintained at the public expense, and with their soil vested in the state. Such roads led either to the sea, or to a town, or to a public river (one with a constant flow), or to another public road. Siculus Flaccus, who lived under Trajan (98-117), calls them _viae publicae regalesque_,[19] and describes their characteristics as follows:
 
 1.  They are placed under _curatores_ (commissioners), and repaired by _redemptores_ (contractors) at the public expense; a fixed contribution, however, being levied from the neighboring landowners.[20]
 2.  These roads bear the names of their constructors (e.g. Via Appia, Cassia, Flaminia).[21]
@@ -102,8 +102,6 @@ Construction and engineering
 
 Ancient Rome boasted impressive technological feats, using many advances that would be lost in the Middle Ages. These accomplishments would not be rivaled until the Modern Age. Many practical Roman innovations were adopted from earlier designs. Some of the common, earlier designs incorporated arches.
 
-Metopa_Columna_lui_Traian_Constructie_drum.jpg
-
 Practices and terminology
 
 Roman road builders aimed at a regulation width (see Laws and traditions above), but actual widths have been measured at between and more than . Today, the concrete has worn from the spaces around the stones, giving the impression of a very bumpy road, but the original practice was to produce a surface that was no doubt much closer to being flat. Many roads were built to resist rain, freezing and flooding. They were constructed to need as little repair as possible.
@@ -142,8 +140,6 @@ After the civil engineer looked over the site of the proposed road and determine
 
 The _libratores_ then began their work using ploughs and, sometimes with the help of legionaries, with spades excavated the road bed down to bed rock or at least to the firmest ground they could find. The excavation was called the _fossa_, the Latin word for ditch. The depth varied according to terrain.
 
-The general appearance of such a metalled road and footway is shown in an existing street of Pompeii.
-
 The method varied according to geographic locality, materials available and terrain, but the plan, or ideal at which the engineer aimed was always the same. The roadbed was layered. The road was constructed by filling the ditch. This was done by layering rock over other stones.
 
 Into the ditch was dumped large amounts of rubble, gravel and stone, whatever fill was available. Sometimes a layer of sand was put down, if it could be found. When it came to within 1 yd (1 m) or so of the surface it was covered with gravel and tamped down, a process called _pavire_, or _pavimentare_. The flat surface was then the _pavimentum_. It could be used as the road, or additional layers could be constructed. A _statumen_ or "foundation" of flat stones set in cement might support the additional layers.
@@ -152,7 +148,7 @@ The final steps utilized lime-based concrete, which the Romans had discovered.[6
 
 An example is found in an early basalt road by the Temple of Saturn on the Clivus Capitolinus. It had travertine paving, polygonal basalt blocks, concrete bedding (substituted for the gravel), and a rain-water gutter.[64]
 
-Tabula_Traiana.jpg)]] Engineering_corps_traian_s_column_river_crossing.jpg
+)]]
 
 Obstacle crossings
 
@@ -183,11 +179,11 @@ Milestones permitted distances and locations to be known and recorded exactly. I
 
 Itinerary maps and charts
 
-Part_of_Tabula_Peutingeriana.jpg'' (Southern Italy centered).]] Combined topographical and road-maps may have existed as specialty items in some Roman libraries, but they were expensive, hard to copy and not in general use. Travelers wishing to plan a journey could consult an _itinerarium_, which in its most basic form was a simple list of cities and towns along a given road, and the distances between them.[66] It was only a short step from lists to a master list, or a schematic route-planner in which roads and their branches were represented more or less in parallel, as in the _Tabula Peutingeriana_. From this master list, parts could be copied and sold on the streets. The most thorough used different symbols for cities, way stations, water courses, and so on. The Roman government from time to time would produce a master road-itinerary. The first known were commissioned in 44 BC by Julius Caesar and Mark Antony. Three Greek geographers, Zenodoxus, Theodotus and Polyclitus, were hired to survey the system and compile a master itinerary; the task required over 25 years and the resulting stone-engraved master itinerary was set up near the Pantheon. Travelers and itinerary sellers could make copies from it.
+'' (Southern Italy centered).]] Combined topographical and road-maps may have existed as specialty items in some Roman libraries, but they were expensive, hard to copy and not in general use. Travelers wishing to plan a journey could consult an _itinerarium_, which in its most basic form was a simple list of cities and towns along a given road, and the distances between them.[66] It was only a short step from lists to a master list, or a schematic route-planner in which roads and their branches were represented more or less in parallel, as in the _Tabula Peutingeriana_. From this master list, parts could be copied and sold on the streets. The most thorough used different symbols for cities, way stations, water courses, and so on. The Roman government from time to time would produce a master road-itinerary. The first known were commissioned in 44 BC by Julius Caesar and Mark Antony. Three Greek geographers, Zenodoxus, Theodotus and Polyclitus, were hired to survey the system and compile a master itinerary; the task required over 25 years and the resulting stone-engraved master itinerary was set up near the Pantheon. Travelers and itinerary sellers could make copies from it.
 
 Vehicles and transportation
 
-Römischer_Reisewagen.JPG (reconstruction)]] Outside the cities, Romans were avid riders and rode on or drove quite a number of vehicle types, some of which are mentioned here. Carts driven by oxen were used. Horse-drawn carts could travel up to per day,[67] pedestrians . For purposes of description, Roman vehicles can be divided into the car, the coach, and the cart. Cars were used to transport one or two individuals, coaches were used to transport parties, and carts to transport cargo.
+(reconstruction)]] Outside the cities, Romans were avid riders and rode on or drove quite a number of vehicle types, some of which are mentioned here. Carts driven by oxen were used. Horse-drawn carts could travel up to per day,[67] pedestrians . For purposes of description, Roman vehicles can be divided into the car, the coach, and the cart. Cars were used to transport one or two individuals, coaches were used to transport parties, and carts to transport cargo.
 
 Of the cars, the most popular was the _carrus_, a standard chariot form descending to the Romans from a greater antiquity. The top was open, the front closed. One survives in the Vatican. It carried a driver and a passenger. A _carrus_ with two horses was a _biga_; three horses, a _triga_; and four horses a _quadriga_. The tyres were of iron. When not in use, its wheels were removed for easier storage.
 
@@ -216,13 +212,11 @@ Two postal services were available under the empire, one public and one private.
 
 Locations
 
-Roman_Empire_125_general_map_(Red_roads).svg (ruled 117–138), showing the network of main Roman roads.]]
+(ruled 117–138), showing the network of main Roman roads.]]
 
 There are many examples of roads that still follow the route of Roman roads.
 
 Italian areas
-
-The_Ancient_Roads_of_Italy_and_Sicily_nopng.svg
 
 Major roads
 
@@ -266,7 +260,7 @@ Africa
 -   In Egypt: Via Hadriana
 -   In Mauretania Tingitana from Tingis southward (see: Roman roads in Morocco)
 
-2006_0814Histria_Road_Market20060416.jpg presumed to be of Roman origin (the rectangular blocks are not true Roman construction)[71]]]
+presumed to be of Roman origin (the rectangular blocks are not true Roman construction)[71]]]
 
 Albania / North Macedonia / Greece / Turkey
 
@@ -286,7 +280,7 @@ In France, a Roman road is called _voie romaine_ in vernacular language.
 -   Via Domitia (118 BC), from Nîmes to the Pyrenees, where it joins to the Via Augusta at the Col de Panissars
 -   _Voie romaine_, extending from Dunkirk to Cassel in Nord Département
 
-Germania_inferior_roads_towns.png]]
+]]
 
 Germania Inferior (Germany, Belgium, Netherlands)
 
@@ -300,7 +294,7 @@ Middle East
 -   Via Traiana Nova
 -   Petra Roman Road 1st-century Petra, Jordan
 
-BALKANS_ROMAN_ROADS_cropped.jpg]]
+]]
 
 Romania
 
@@ -312,7 +306,7 @@ Romania / Bulgaria
 
 -   Via Pontica
 
-Hispania_roads.svg, or Roman Iberia]] Roman_road_in_Tarsus,_Mersin_Province.jpg, Mersin Province in Turkey]]
+, or Roman Iberia]] , Mersin Province in Turkey]]
 
 Spain and Portugal
 
@@ -339,7 +333,7 @@ Connecting Hispania and Gallia:
 
 -   Ab Asturica Burdigalam
 
-High_Street_and_Small_Water_from_Harter_Fell.jpg in the English Lake District, named after the Roman road which runs over the summit, is the highest Roman road in Britain]]
+in the English Lake District, named after the Roman road which runs over the summit, is the highest Roman road in Britain]]
 
 United Kingdom
 

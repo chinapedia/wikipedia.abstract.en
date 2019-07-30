@@ -3,8 +3,6 @@ NUR-UD-DIN MUHAMMAD SALIM[1] (Persian: ), known by his imperial name JAHANGIR (P
 
 Early life
 
-Prince_Salim,_the_future_Jahangir.jpg
-
 Prince Salim, later Jahangir, was born on 31 August 1569, in Fatehpur Sikri, to Akbar and one of his wives Mariam-uz-Zamani, daughter of Raja Bharmal of Amber.[3] Akbar's previous children had died in infancy and he had sought the help of holy men to produce a son. Salim was named for one such man, Shaikh Salim, though Akbar always called him Shekhu Baba.[4]
 
 Prince Salim succeeded to the throne on Thursday, 3 November 1605, eight days after his father's death. Salim ascended to the throne with the title of Nur-ud-din Muhammad Jahangir Badshah Ghazi and thus began his 22-year reign at the age of 36. Jahangir soon after had to fend off his own son, Prince Khusrau Mirza, when the latter attempted to claim the throne based on Akbar's will to become his next heirs. Khusrau Mirza was defeated in 1606 and confined in the fort of Agra. As punishment, Khusrau Mirza was handed over to his younger brother and was partially blinded and killed.[5]
@@ -14,13 +12,11 @@ Jahangir considered his third son Prince Khurram (future Shah Jahan), his favour
 
 Reign
 
-Celebrations_at_the_accession_of_Jahangir.jpg was away from the capital on an expedition, Salim organised a coup and declared himself Emperor. Akbar had to hastily return to Agra and restore order.]]
+was away from the capital on an expedition, Salim organised a coup and declared himself Emperor. Akbar had to hastily return to Agra and restore order.]]
 
-In 1622, Jahangir sent his son, Prince Khurram, to fight against the combined forces of Ahmednagar, Bijapur and Golconda. After his victory, Khurram turned against his father and made a bid for power. As with the insurrection of his eldest son, Khusrau Mirza, Jahangir was able to defeat the challenge from within his family and retain power.[7] سکه_جهانگیرشاه_هند.jpg symbol and Legends in Persian. 1611]]
+In 1622, Jahangir sent his son, Prince Khurram, to fight against the combined forces of Ahmednagar, Bijapur and Golconda. After his victory, Khurram turned against his father and made a bid for power. As with the insurrection of his eldest son, Khusrau Mirza, Jahangir was able to defeat the challenge from within his family and retain power.[7] symbol and Legends in Persian. 1611]]
 
 Foreign relations
-
-Shah_ʿAbbas_I_receiving_Khan_ʿÁlam,_ambassador_from_Jahángír_in_1617.jpg
 
 In 1623, Emperor Jahangir sent his _Tahwildar_, Khan Alam, to Safavid Persia, accompanied by 800 sepoys, scribes and scholars along with ten Howdahs well decorated in gold and silver, in order to negotiate peace with Abbas I of Persia after a brief conflict in the region around Kandahar. Khan Alam soon returned with valuable gifts and groups of _Mir Shikar_ (Hunt Masters) from both Safavid Persia and the Khanates of Central Asia.
 
@@ -29,9 +25,9 @@ In 1626, Jahangir began to contemplate an alliance between the Ottomans, Mughals
 
 Marriage
 
-Jahangir's_Genealogical_Order.jpg Salim was made a Mansabdar of ten thousand (Das-Hazari), the highest military rank of the empire (after the emperor). He independently commanded a regiment in the Kabul campaign of 1581 when he was barely twelve. His Mansab was raised to Twelve Thousand, in 1585, at the time of his betrothal to his cousin Rajkumari Man Bai, daughter of Bhagwant Das of Amer. Bhagwant Das, was the son of Raja Bharmal and the brother of Akbar's Hindu wife and Salim's mother – Mariam-uz-Zamani.[8]
+Salim was made a Mansabdar of ten thousand (Das-Hazari), the highest military rank of the empire (after the emperor). He independently commanded a regiment in the Kabul campaign of 1581 when he was barely twelve. His Mansab was raised to Twelve Thousand, in 1585, at the time of his betrothal to his cousin Rajkumari Man Bai, daughter of Bhagwant Das of Amer. Bhagwant Das, was the son of Raja Bharmal and the brother of Akbar's Hindu wife and Salim's mother – Mariam-uz-Zamani.[8]
 
-Manohar._Emperor_Jahangir_Weighs_Prince_Khurram._Page_from_Tuzuk-i_Jahangiri._1610-1615,_British_Museum,_London.jpg (the future Shah Jahan) on a weighing scale by artist Manohar (AD 1615).]]
+(the future Shah Jahan) on a weighing scale by artist Manohar (AD 1615).]]
 
 The marriage with Man Bai took place on 13 February, 1585. Jahangir named her Shah Begum and she gave birth to Khusrau Mirza. Thereafter, Salim married, in quick succession, a number of accomplished girls from the aristocratic Mughal and Rajput families. One of his early favourite wives was a Rajput Princess, Jagat Gosain Begum. Jahangir named her Taj Bibi Bilqis Makani and she gave birth to Prince Khurram, the future Shah Jahan, who was Jahangir's successor to the throne.
 
@@ -41,11 +37,9 @@ Jahangir married the extremely beautiful and intelligent Mehr-un-Nisaa (better k
 
 Nur Jahan
 
-Noorjahan_&_Jahangir.jpg and Jahangir]]
+and Jahangir]]
 
 Mehr-Un-Nisa, or Nur Jahan, occupies an important place in the history of Jahangir. She was the widow of a rebel officer, Sher Afgan, whose actual name was Ali Quli Beg Ist'ajlu. He had earned the title "Sher Afgan" (Tiger tosser) from Emperor Akbar after throwing off a tiger that had leaped to attack Akbar on the top of an elephant in a royal hunt at Bengal and then stabbing the fallen tiger to death. Akbar was greatly affected by the bravery of the young Turkish bodyguard accompanying him and awarded him the captaincy of the Imperial Guard at Burdwan, Bengal. Sher Afgan had killed in rebellion (after having learned of Jahangir's orders to have him slain to possess his beautiful wife Mehr Un Nisaa as Jahangir yearned for her much earlier than her wedding to Sher Afgan), the governor of Bengal Qutubuddin Koka who was instructed secretly by Jahangir in his quest and who also was the emperor's foster brother and Sheikh Salim Chishti's grandson and consequently had been slain by the guards of the Governor. The widowed Mehr-Un-Nisaa was brought to Agra along with her nine-year-old daughter and placed in—or refused to be placed in—the Royal harem in 1607. Jahangir married her in 1611 and gave her the title of Nur Jahan or "Light of the World". It was rumoured that Jahangir had a hand in the death of her first husband Sher Afghan, albeit there is no recorded evidence to prove that he was guilty of that crime; in fact most travellers' reports say that he met her after Sher Afgan's death. (See Ellison Banks Findly's scholarly biography for a full discussion.)
-
-Silver_rupee_coin_of_Jahangir,_Ahmedabad_mint.jpg
 
 The loss of Kandahar was due to Prince Khurram's refusal to obey her orders. When the Persians besieged Kandahar, Nur Jahan was at the helm of affairs. She ordered Prince Khurram to march for Kandahar, but the latter refused to do so. There is no doubt that the refusal of the prince was due to her behaviour towards him, as she was favouring her son-in-law, Shahryar, at the expense of Khurram. Khurram suspected that in his absence, Shahryar might be given promotion and that he might die on the battlefield. This fear forced Khurram to rebel against his father rather than fight against the Persians, and thereby Kandahar was lost to the Persians. Nur Jahan struck coins in her own name during the last years of Jahangir's reign when he was taken ill.
 
@@ -55,8 +49,6 @@ Under Jahangir, the empire continued to be a war state attuned to conquest and e
 Conquests
 
 In the year 1594, Jahangir was dispatched by his father, the Mughal Emperor Akbar, alongside Abu'l-Hasan Asaf Khan, also known as Mirza Jafar Beg son of Mirza Ghiyas Beg Isfahani and brother of Nur Jahan, and Abu'l-Fazl ibn Mubarak, to defeat the renegade Vir Singh Deo of Bundela and capture the city of Orchha, which was considered the centre of the revolt. Jahangir arrived with a force of 12,000 after many ferocious encounters and finally subdued the Bundela and ordered Vir Singh Deo to surrender. After tremendous casualties and the start of negotiations between the two, Vir Singh Deo handed over 5000 Bundela infantry and 1000 cavalry, but he feared Mughal retaliation and remained a fugitive until his death. The victorious Jahangir, at 26 years of age, ordered the completion of the Jahangir Mahal a famous Mughal citadel in Orchha to commemorate and honour his victory.
-
-Jahangir_hunting_with_a_falcon..jpg
 
 Jahangir then gathered his forces under the command of Ali Kuli Khan and fought Lakshmi Narayan of Koch Bihar. Lakshmi Narayan then accepted the Mughals as his suzerains and was given the title _Nazir_, later establishing a garrison at Atharokotha.
 
@@ -69,7 +61,7 @@ Jahangir posted Islam Khan I to subdue Musa Khan, an Afghan rebel in Bengal, in 
 
 Death
 
-Jehangir_Tomb3.jpg in Shahdara, Lahore]]
+in Shahdara, Lahore]]
 
 Jahangir was trying to restore his health by visiting Kashmir and Kabul. He went from Kabul to Kashmir but decided to return to Lahore because of a severe cold .
 
@@ -82,19 +74,19 @@ Religion
 
 Sir Thomas Roe was England's first ambassador to the Mughal court. Relations with England turned tense in 1617 when Roe warned Jahangir that if the young and charismatic Prince Shah Jahan, newly instated as the Subedar of Gujarat, turned the English out of the province, _"then he must expect we would do our justice upon the seas"_. Shah Jahan chose to seal an official Firman allowing the English to trade in Gujarat in the year 1618.
 
-Portrait_of_Emperor_Jahangir_Praying.jpg prayer]]
+prayer]]
 
 Many contemporary chroniclers were not sure how to describe Jahangir's personal belief structure. Roe labelled him an atheist, and although most others shied away from that term, they did not feel as though they could call him an orthodox Sunni. Roe believed Jahangir's religion to be of his own making, "for he envies [the Prophet] Mohammed, and wisely sees no reason why he should not bee as great a prophet as he and therefore professed himself so... he hath found many disciples that flatter or follow him." At this time, one of those disciples happened to be the current English ambassador, though his initiation into Jahangir's inner circle was devoid of religious significance for Roe, as he did not understand the full extent of what he was doing. Jahangir hung "a picture of him self set in gold hanging at a wire gold chain" round Roe's neck. Roe thought it "an especial favour, for that all the great men that wear the Kings image (which none may do but to whom it is given) receive no other than a medal of gold as big as six pence."
 
 Had Roe intentionally converted, it would have caused quite a scandal in London. But since there was no intent, there was no resultant problem. Such disciples were an elite group of imperial servants, with one of them being promoted to Chief Justice. However, it is not clear that any of those who became disciples renounced their previous religion, so it is probable to see this as a way in which the emperor strengthened the bond between himself and his nobles. Despite Roe's somewhat casual use of the term 'atheist', he could not quite put his finger on Jahangir's real beliefs. Roe lamented that the emperor was either "the most impossible man in the world to be converted, or the most easy; for he loves to hear, and hath so little religion yet, that he can well abide to have any derided."
 
-QUR'AN_2981b.jpg, made during the reign of the Mughal Emperor Jahangir]]
+, made during the reign of the Mughal Emperor Jahangir]]
 
 This should not imply that the multi-confessional state appealed to all, or that all Muslims were happy with the situation in India. In a book written on statecraft for Jahangir, the author advised him to direct "all his energies to understanding the counsel of the sages and to comprehending the intimations of the 'ulama." At the start of his regime many staunch Sunnis were hopeful, because he seemed less tolerant of other faiths than his father had been. At the time of his accession and the elimination of Abu'l Fazl, his father's chief minister and the architect of his eclectic religious stance, a powerful group of orthodox noblemen had gained increased power in the Mughal court. Jahangir did not always regard Hindu customs and rituals benevolently. On visiting a Hindu temple, he found a statue of a man with a pig's head (more than likely a boar's head, a representation of Varaha), one of the idols in the Hindu religion and he "ordered them to break that hideous form and throw it in the tank." If the Tuzuk is reliable on this subject (and there is no reason to suspect that it is not), then this was an isolated case.
 
 J.F. Richards argues that "Jahangir seems to have been persistently hostile to popularly venerated religious figures", which is debatable. A Muslim saint, Mujadid Alif Sani Imam e Rabbani Sheikh Ahmed Sirhindi Al-Farooqi, who had gained a large number of followers through his spiritual preaching, was imprisoned in Gwalior Fort.
 
-Jahangir_&_Abbas_I.jpg Jahangir and the Safavid Shah Abbas I, and the qualities of Mughal-Safavid relations.]]
+Jahangir and the Safavid Shah Abbas I, and the qualities of Mughal-Safavid relations.]]
 
 Most notorious was the execution of the Sikh Guru Arjan Dev, whom Jahangir had had killed in prison. His lands were confiscated and his sons imprisoned as Jahangir suspected him of helping Khusrau's rebellion.[11] It is unclear whether Jahangir even understood what a Sikh was, referring to Guru Arjan as a Hindu, who had "captured many of the simple-hearted of the Hindus and even of the ignorant and foolish followers of Islam, by his ways and manners... for three or four generations (of spiritual successors) they had kept this shop warm." The trigger for Guru Arjan's execution was his support for Jahangir's rebel son Khusrau Mirza, yet it is clear from Jahangir's own memoirs that he disliked Guru Arjan before then: "many times it occurred to me to put a stop to this vain affair or bring him into the assembly of the people of Islam."
 
@@ -105,7 +97,7 @@ Art
 
 Jahangir was fascinated with art and architecture. Jahangir himself was far from modest in his autobiography when he stated his prowess at being able to determine the artist of any portrait by simply looking at a painting. He also preserved paintings from Emperor Akbar's period. An excellent example of this is the painting of Musician Naubat Khan, son in law of legendary Tansen. It was the work of Ustad Mansur. As he said:
 
-Jahangirs_huqqa_close_national_museum_india.JPG'', National Museum, New Delhi]]
+'', National Museum, New Delhi]]
 
 Jahangir took his connoisseurship of art very seriously. In addition to their aesthetic qualities, paintings created under his reign were closely catalogued, dated and even signed, providing scholars with fairly accurate ideas as to when and in what context many of the pieces were created.
 
@@ -123,7 +115,7 @@ According to John F. Richards, Jahangir's frequent withdrawal to a private spher
 
 In media
 
-Prince_Salim_(the_future_Jahangir)_and_his_legendary_illicit_love.jpg]]
+]]
 
 -   In the 1939 Hindi film _Pukar_, Jehangir was portrayed by Chandra Mohan.[20]
 -   In the 1953 Hindi film _Anarkali_, he was portrayed by Pradeep Kumar.[21]

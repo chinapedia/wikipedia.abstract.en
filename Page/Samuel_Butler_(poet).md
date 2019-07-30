@@ -20,7 +20,7 @@ Butler died of consumption on 25 September 1680, and was buried on 27 September 
 
 _Hudibras_
 
-HudibrasButler1744.jpg _Hudibras_ is directed against religious sectarianism. The poem was very popular in its time, and several of its phrases have passed into the dictionary. It was sufficiently popular to spawn imitators. _Hudibras_ takes some of its characterization from _Don Quixote_ but, unlike that work, it has many more references to personalities and events of the day. Butler was also influenced by satirists such as John Skelton and Paul Scarron's _Virgile travesti_; a satire on classical literature, particularly Virgil.[17]
+_Hudibras_ is directed against religious sectarianism. The poem was very popular in its time, and several of its phrases have passed into the dictionary. It was sufficiently popular to spawn imitators. _Hudibras_ takes some of its characterization from _Don Quixote_ but, unlike that work, it has many more references to personalities and events of the day. Butler was also influenced by satirists such as John Skelton and Paul Scarron's _Virgile travesti_; a satire on classical literature, particularly Virgil.[17]
 
 _Hudibras_ was reprinted many times in the centuries following Butler's death. Two of the more noteworthy editions are those edited by Zachery Grey (1752) and Treadway Russell Nash (1793). The standard edition of the work was edited by John Wilders (1967).
 

@@ -7,7 +7,7 @@ The debate reemerged again in 1969, when Arthur Jensen championed the view that 
 
 History of the debate
 
-Alfred_Binet.jpg (1857–1911), inventor of the first intelligence test]]
+(1857–1911), inventor of the first intelligence test]]
 
 Claims of races having different intelligence were used to justify colonialism, slavery, racism, social Darwinism, and racial eugenics. Racial thinkers such as Arthur de Gobineau relied crucially on the assumption that black people were innately inferior to whites in developing their ideologies of white supremacy. Even enlightenment thinkers such as Thomas Jefferson, a slave owner, believed blacks to be innately inferior to whites in physique and intellect.
 
@@ -98,8 +98,6 @@ The following environmental factors are some of those suggested as explaining a 
 
 Health and nutrition
 
-Lead_levels_children.png
-
 Environmental factors including childhood lead exposure,[42] low rates of breast feeding,[43] and poor nutrition[44][45] can significantly affect cognitive development and functioning. For example, childhood exposure to lead, associated with homes in poorer areas[46] causes an average IQ drop of 7 points,[47] and iodine deficiency causes a fall, on average, of 12 IQ points.[48][49] Such impairments may sometimes be permanent, sometimes be partially or wholly compensated for by later growth. The first two years of life is the critical time for malnutrition, the consequences of which are often irreversible and include poor cognitive development, educability, and future economic productivity.[50] The African American population of the United States is statistically more likely to be exposed to many detrimental environmental factors such as poorer neighborhoods, schools, nutrition, and prenatal and postnatal health care.[51][52] Mackintosh points out that for American blacks infant mortality is about twice as high as for whites, and low birthweight is twice as prevalent. At the same time white mothers are twice as likely to breastfeed their infants, and breastfeeding is highly correlated with IQ for low birthweight infants. In this way a wide number of health related factors that influence IQ are unequally distributed between the two groups.
 
 The Copenhagen consensus in 2004 stated that lack of both iodine and iron has been implicated in impaired brain development, and this can affect enormous numbers of people: it is estimated that one-third of the total global population are affected by iodine deficiency. In developing countries, it is estimated that 40% of children aged four and under suffer from anaemia because of insufficient iron in their diets.[53]
@@ -167,7 +165,7 @@ A 2005 literature review article by Sternberg, Grigorenko and Kidd stated that n
 
 Heritability within and between groups
 
-Heritability_plants.jpeg.]]
+.]]
 
 Twin studies of intelligence have reported high heritability values. However, these studies are based on questionable assumptions. When used in the context of human behavior genetics, the term "heritability" is highly misleading, as it does not convey any information about the relative importance of genetic or environmental factors on the development of a given trait, nor does it convey the extent to which that trait is genetically determined. Arguments in support of a genetic explanation of racial differences in IQ are sometimes fallacious. For instance, hereditarians have sometimes cited the failure of known environmental factors to account for such differences, or the high heritability of intelligence within races, as evidence that racial differences in IQ are genetic.[107]
 

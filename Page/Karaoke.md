@@ -1,9 +1,9 @@
-卡拉OK.jpg.]] KARAOKE (, ; , clipped compound of Japanese _kara_ "empty" and _ōkesutora_ "orchestra") is a way of dining interactive entertainment or video game developed in Japan in which an amateur singer sings along with recorded music (a music video) using a microphone. The music is normally an instrumental version of a well-known popular song. Lyrics are usually displayed on a video screen, along with a moving symbol, changing colour, or music video images, to guide the singer. In several Asian countries such as China, Cambodia or the Philippines, a karaoke box is called a KTV. The global karaoke market has been estimated to be worth nearly $10 billion.[1]
+.]] KARAOKE (, ; , clipped compound of Japanese _kara_ "empty" and _ōkesutora_ "orchestra") is a way of dining interactive entertainment or video game developed in Japan in which an amateur singer sings along with recorded music (a music video) using a microphone. The music is normally an instrumental version of a well-known popular song. Lyrics are usually displayed on a video screen, along with a moving symbol, changing colour, or music video images, to guide the singer. In several Asian countries such as China, Cambodia or the Philippines, a karaoke box is called a KTV. The global karaoke market has been estimated to be worth nearly $10 billion.[1]
 
 
 History
 
-Wuhan-LuoyuDongLu-karaoke-4108.jpg, China]]
+, China]]
 
 1960s: Development of audio-visual-recording devices
 
@@ -29,7 +29,7 @@ Shortly after the development of LaserDisc Pioneer started to offer Video Karaok
 
 1990s
 
-Taipei_KTV-Eingangshalle.jpg, Taiwan]]
+, Taiwan]]
 
 Karaoke soon spread to the rest of Asia and other countries all over the world. In-home karaoke machines soon followed but lacked success in the American and Canadian markets. When creators became aware of this problem, karaoke machines were no longer being sold strictly for the purpose of karaoke but as home theater systems to enhance television watching to "movie theater like quality". Home theater systems took off, and karaoke went from being the main purpose of the stereo system to a side feature.
 
@@ -37,8 +37,6 @@ As more music became available for karaoke machines, more people within the indu
 
 
 Technology
-
-KaraokeMachine.JPG
 
 A basic karaoke machine consists of a music player, microphone inputs, a means of altering the pitch of the played music, and an audio output. Some low-end machines attempt to provide vocal suppression so that one can feed regular songs into the machine and remove the voice of the original singer; however, this is rarely effective. Most common machines are CD+G, Laser Disc, VCD or DVD players with microphone inputs and an audio mixer built in.[14] CD+G players use a special track called subcode to encode the lyrics and pictures displayed on the screen while other formats natively display both audio and video.
 
@@ -48,7 +46,7 @@ A popular game using karaoke is to type in a random number and call up a song, w
 
 Many low-end entertainment systems have a karaoke mode that attempts to remove the vocal track from regular audio CDs, using an Out Of Phase Stereo (OOPS) technique. This is done by center channel extraction, which exploits the fact that in most stereo recordings the vocals are in the center. This means that the voice, as part of the music, has equal volume on both stereo channels and no phase difference. To get the quasi-karaoke (mono) track, the left channel of the original audio is subtracted from the right channel. The Sega Saturn also has a "mute vocals" feature that is based on the same principle and is also able to adjust the pitch of the song to match the singer's vocal range.
 
-Karaoke_Booth.jpg, Philippines]] This crude approach results in the often-poor performance of voice removal. Common effects are hearing the reverberation effects on the voice track (due to stereo reverb on the vocals not being in the center); also, other instruments (snare/bass drum, bass guitar and solo instruments) that happen to be mixed into the center get removed, degrading this approach to hardly more than a gimmick in those devices. Recent years have seen the development of new techniques based on the Fast Fourier Transform. Although still not perfect, the results are usually much better than the old technique, because the stereo left-right comparison can be done on individual frequencies.
+, Philippines]] This crude approach results in the often-poor performance of voice removal. Common effects are hearing the reverberation effects on the voice track (due to stereo reverb on the vocals not being in the center); also, other instruments (snare/bass drum, bass guitar and solo instruments) that happen to be mixed into the center get removed, degrading this approach to hardly more than a gimmick in those devices. Recent years have seen the development of new techniques based on the Fast Fourier Transform. Although still not perfect, the results are usually much better than the old technique, because the stereo left-right comparison can be done on individual frequencies.
 
 Early age
 
@@ -133,7 +131,7 @@ In culture
 
 Public places
 
-Karaoke-Big_echo-P5262150.jpg Karaoke-Harbin6303733.jpg]] Karaoke-irish-pub.jpg in Hamburg]]
+]] in Hamburg]]
 
 Asia
 
@@ -161,7 +159,7 @@ Throughout much of North America, live band karaoke is also popular. With live b
 
 Rock critic Rob Sheffield claims that the 1986 music video for the song "Wild Wild Life" by the Talking Heads was the first depiction of karaoke in American popular culture. The video features a variety of characters taking turns singing portions of the song to an audience at a bar.[30]
 
-Room_601,_Karaoke_Kan,_Tokyo.jpg Karaoke made a brief appearance in Sofia Coppola's 2003 movie _Lost In Translation_, and it was, three years before, the primary focus of Bruce Paltrow's 2000 film _Duets,_ written by John Bynum and starring Paltrow's daughter Gwyneth and Huey Lewis, "anchor-man" of Huey Lewis and the News.
+Karaoke made a brief appearance in Sofia Coppola's 2003 movie _Lost In Translation_, and it was, three years before, the primary focus of Bruce Paltrow's 2000 film _Duets,_ written by John Bynum and starring Paltrow's daughter Gwyneth and Huey Lewis, "anchor-man" of Huey Lewis and the News.
 
 Also popular among the international performing arts community in Europe, a group of Finnish producers organized an international karaoke competition called KWC (Karaoke World Championships). Their 2011 international karaoke competition has attracted ABC producers to help host America's karaoke competition in Las Vegas Nevada called Karaoke Battle USA. The competition is promised to select 1 male and 1 female contestant to represent the U.S. in the international arena. Largely supported by the Broadway community in Times Square, Pulse Karaoke Lounge sponsored 2011's New York state karaoke finals to select individuals representing New York in the eastern finals.
 
@@ -207,7 +205,7 @@ In the mid-2000s, a number of karaoke bars sprouted in Sydney with karaoke boxes
 
 Production methods
 
-Kumyoung_vivaus_feeltong.jpg by Kumyoung in South Korea]]
+by Kumyoung in South Korea]]
 
 Karaoke is very popular in Asian countries, and many artists distribute a karaoke track at the same time the song is released. The most common form of karaoke nowadays is released in MIDI format with on-screen lyrics on a DVD background video.
 

@@ -1,4 +1,4 @@
-Amphora_death_Priam_Louvre_F222.jpg, detail of an Attic black-figure amphora, ca. 520–510 BC]]
+, detail of an Attic black-figure amphora, ca. 520–510 BC]]
 
 In Greek mythology, PRIAM (; , ) was the legendary king of Troy during the Trojan War. His many children included notable characters like Hector and Paris.
 

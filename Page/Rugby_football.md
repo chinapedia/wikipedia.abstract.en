@@ -16,7 +16,7 @@ History
 
 Ancient Ball Games
 
-Ancient_Greek_Football_Player.jpg _episkyros_ player on an Attic _lekythos_]] The Greeks and Romans are known to have played many ball games, some of which involved the use of the feet. The Roman game _harpastum_ is believed to have been adapted from a Greek team game known as "ἐπίσκυρος" (_Episkyros_)[9][10] or "φαινίνδα" (_phaininda_),[11] which is mentioned by a Greek playwright, Antiphanes (388–311 BC) and later referred to by the Christian theologian Clement of Alexandria (c.150-c.215 AD). These games appear to have resembled rugby football.[12][13][14][15][16] The Roman politician Cicero (106–42 BC) describes the case of a man who was killed whilst having a shave when a ball was kicked into a barber's shop. Roman ball games already knew the air-filled ball, the follis.[17][18] _Episkyros_ is recognised as an early form of football by FIFA.[19]
+_episkyros_ player on an Attic _lekythos_]] The Greeks and Romans are known to have played many ball games, some of which involved the use of the feet. The Roman game _harpastum_ is believed to have been adapted from a Greek team game known as "ἐπίσκυρος" (_Episkyros_)[9][10] or "φαινίνδα" (_phaininda_),[11] which is mentioned by a Greek playwright, Antiphanes (388–311 BC) and later referred to by the Christian theologian Clement of Alexandria (c.150-c.215 AD). These games appear to have resembled rugby football.[12][13][14][15][16] The Roman politician Cicero (106–42 BC) describes the case of a man who was killed whilst having a shave when a ball was kicked into a barber's shop. Roman ball games already knew the air-filled ball, the follis.[17][18] _Episkyros_ is recognised as an early form of football by FIFA.[19]
 
 Establishment of modern rugby
 
@@ -174,7 +174,7 @@ Rugby league is also both a professional and amateur game, administered on a glo
 
 Rules
 
-Rugby_Lineout.jpg Scrum-1.JPG: A scrum between the Crusaders and the Brumbies (May 2006)]] Distinctive features common to both rugby codes include the oval ball and throwing the ball forward is not allowed so that players can gain ground only by running with the ball or by kicking it. As the sport of rugby league moved further away from its union counterpart, rule changes were implemented with the aim of making a faster-paced and more try-oriented game. Another interesting fact about rugby is that, unlike football, the players do not wear any sort of protection or armour.
+: A scrum between the Crusaders and the Brumbies (May 2006)]] Distinctive features common to both rugby codes include the oval ball and throwing the ball forward is not allowed so that players can gain ground only by running with the ball or by kicking it. As the sport of rugby league moved further away from its union counterpart, rule changes were implemented with the aim of making a faster-paced and more try-oriented game. Another interesting fact about rugby is that, unlike football, the players do not wear any sort of protection or armour.
 
 The main differences between the two games, besides league having teams of 13 players and union of 15, involve the tackle and its aftermath:
 
@@ -213,7 +213,7 @@ About a quarter of rugby players are injured in each season.[37]
 
 Rugby ball
 
-Rugbyball2.jpg rugby football as used in rugby union]]
+rugby football as used in rugby union]]
 
 A rugby ball, originally called a quanco, is a diamond shape ball used for easier passing. Richard Lindon and Bernardo Solano started making balls for Rugby school out of hand stitched, four-panel, leather casings and pigs’ bladders. The rugby ball's distinctive shape is supposedly due to the pig's bladder, although early balls were more plumb-shape than oval. The balls varied in size in the beginning depending upon how large the pig's bladder was.
 

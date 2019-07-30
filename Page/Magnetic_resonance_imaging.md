@@ -11,8 +11,6 @@ Mechanism
 
 Construction and physics
 
-Mri_scanner_schematic_labelled.svg
-
 To perform a study, the person is positioned within an MRI scanner that forms a strong magnetic field around the area to be imaged. In most medical applications, protons (hydrogen atoms) in tissues containing water molecules create a signal that is processed to form an image of the body. First, energy from an oscillating magnetic field is temporarily applied to the patient at the appropriate resonance frequency. The excited hydrogen atoms emit a radio frequency signal, which is measured by a receiving coil. The radio signal may be made to encode position information by varying the main magnetic field using gradient coils. As these coils are rapidly switched on and off they create the characteristic repetitive noise of an MRI scan. The contrast between different tissues is determined by the rate at which excited atoms return to the equilibrium state. Exogenous contrast agents may be given to the person to make the image clearer.[4]
 
 The major components of an MRI scanner are the main magnet, which polarizes the sample, the shim coils for correcting shifts in the homogeneity of the main magnetic field, the gradient system which is used to localize the MR signal and the RF system, which excites the sample and detects the resulting NMR signal. The whole system is controlled by one or more computers.
@@ -21,7 +19,7 @@ MRI requires a magnetic field that is both strong and uniform. The field strengt
 
 T1 and T2
 
-TR_TE.jpg T1t2PD.jpg weighted MRI scans]]
+weighted MRI scans]]
 
 Each tissue returns to its equilibrium state after excitation by the independent relaxation processes of T1 (spin-lattice; that is, magnetization in the same direction as the static magnetic field) and T2 (spin-spin; transverse to the static magnetic field). To create a T1-weighted image, magnetization is allowed to recover before measuring the MR signal by changing the repetition time (TR). This image weighting is useful for assessing the cerebral cortex, identifying fatty tissue, characterizing focal liver lesions and in general for obtaining morphological information, as well as for post-contrast imaging. To create a T2-weighted image, magnetization is allowed to decay before measuring the MR signal by changing the echo time (TE). This image weighting is useful for detecting edema and inflammation, revealing white matter lesions and assessing zonal anatomy in the prostate and uterus.
 
@@ -53,21 +51,17 @@ Diagnostics
 
 Usage by organ or system
 
-Siemens_Magnetom_Aera_MRI_scanner.jpg
-
 MRI has a wide range of applications in medical diagnosis and more than 25,000 scanners are estimated to be in use worldwide.[33] MRI affects diagnosis and treatment in many specialties although the effect on improved health outcomes is uncertain.[34]
 
 MRI is the investigation of choice in the preoperative staging of rectal and prostate cancer and, has a role in the diagnosis, staging, and follow-up of other tumors.[35]
 
 Neuroimaging
 
-White_Matter_Connections_Obtained_with_MRI_Tractography.png tracts]]
+tracts]]
 
 MRI is the investigative tool of choice for neurological cancers over CT, as it offers better visualization of the posterior cranial fossa, containing the brainstem and the cerebellum. The contrast provided between grey and white matter makes MRI the best choice for many conditions of the central nervous system, including demyelinating diseases, dementia, cerebrovascular disease, infectious diseases, Alzheimer's disease and epilepsy.[36][37][38] Since many images are taken milliseconds apart, it shows how the brain responds to different stimuli, enabling researchers to study both the functional and structural brain abnormalities in psychological disorders.[39] MRI also is used in guided stereotactic surgery and radiosurgery for treatment of intracranial tumors, arteriovenous malformations, and other surgically treatable conditions using a device known as the N-localizer.[40][41][42]
 
 Cardiovascular
-
-PAPVR.gif
 
 Cardiac MRI is complementary to other imaging techniques, such as echocardiography, cardiac CT, and nuclear medicine. Its applications include assessment of myocardial ischemia and viability, cardiomyopathies, myocarditis, iron overload, vascular diseases, and congenital heart disease.[43]
 
@@ -80,8 +74,6 @@ Liver and gastrointestinal
 Hepatobiliary MR is used to detect and characterize lesions of the liver, pancreas, and bile ducts. Focal or diffuse disorders of the liver may be evaluated using diffusion-weighted, opposed-phase imaging, and dynamic contrast enhancement sequences. Extracellular contrast agents are used widely in liver MRI and newer hepatobiliary contrast agents also provide the opportunity to perform functional biliary imaging. Anatomical imaging of the bile ducts is achieved by using a heavily T2-weighted sequence in magnetic resonance cholangiopancreatography (MRCP). Functional imaging of the pancreas is performed following administration of secretin. MR enterography provides non-invasive assessment of inflammatory bowel disease and small bowel tumors. MR-colonography may play a role in the detection of large polyps in patients at increased risk of colorectal cancer.[45][46][47][48]
 
 Angiography
-
-mra1.jpg
 
 Magnetic resonance angiography (MRA) generates pictures of the arteries to evaluate them for stenosis (abnormal narrowing) or aneurysms (vessel wall dilatations, at risk of rupture). MRA is often used to evaluate the arteries of the neck and brain, the thoracic and abdominal aorta, the renal arteries, and the legs (called a "run-off"). A variety of techniques can be used to generate the pictures, such as administration of a paramagnetic contrast agent (gadolinium) or using a technique known as "flow-related enhancement" (e.g., 2D and 3D time-of-flight sequences), where most of the signal on an image is due to blood that recently moved into that plane (see also FLASH MRI).
 
@@ -109,7 +101,7 @@ Magnetic resonance spectroscopic imaging (MRSI) combines both spectroscopic and 
 
 Real-time MRI
 
-Real-time_MRI_-_Thorax.ogv at a resolution of 50 ms]] Real-time MRI refers to the continuous imaging of moving objects (such as the heart) in real time. One of the many different strategies developed since the early 2000s is based on radial FLASH MRI, and iterative reconstruction. This gives a temporal resolution of 20–30 ms for images with an in-plane resolution of 1.5–2.0 mm.[67] Balanced steady-state free precession (bSSFP) imaging has a better image contrast between the blood pool and myocardium than the FLASH MRI, yet it will produce severe banding artifact when the B0 inhomogeneity is strong. Real-time MRI is likely to add important information on diseases of the heart and the joints, and in many cases may make MRI examinations easier and more comfortable for patients, especially for the patients who cannot hold their breathings or who have arrhythmia.[68]
+at a resolution of 50 ms]] Real-time MRI refers to the continuous imaging of moving objects (such as the heart) in real time. One of the many different strategies developed since the early 2000s is based on radial FLASH MRI, and iterative reconstruction. This gives a temporal resolution of 20–30 ms for images with an in-plane resolution of 1.5–2.0 mm.[67] Balanced steady-state free precession (bSSFP) imaging has a better image contrast between the blood pool and myocardium than the FLASH MRI, yet it will produce severe banding artifact when the B0 inhomogeneity is strong. Real-time MRI is likely to add important information on diseases of the heart and the joints, and in many cases may make MRI examinations easier and more comfortable for patients, especially for the patients who cannot hold their breathings or who have arrhythmia.[68]
 
 Interventional MRI
 
@@ -140,7 +132,7 @@ Economics
 
 In the UK, the price of a clinical 1.5-tesla MRI scanner is around £920,000/, with the lifetime maintenance cost broadly similar to the purchase cost.[80] In the Netherlands, the average MRI scanner costs around €1 million,[81] with a 7-T MRI having been taken in use by the UMC Utrecht in December 2007, costing €7 million.[82] Construction of MRI suites could cost up to /€370.000 or more, depending on project scope. Pre-polarizing MRI (PMRI) systems using resistive electromagnets have shown promise as a low-cost alternative and have specific advantages for joint imaging near metal implants; however, they are likely unsuitable for routine whole-body or neuroimaging applications.[83][84]
 
-Modern_3T_MRI.JPG clinical MRI scanner.]] MRI scanners have become significant sources of revenue for healthcare providers in the US. This is because of favorable reimbursement rates from insurers and federal government programs. Insurance reimbursement is provided in two components, an equipment charge for the actual performance and operation of the MRI scan and a professional charge for the radiologist's review of the images and/or data. In the US Northeast, an equipment charge might be $3,500/€2,600 and a professional charge might be $350/€260,[85] although the actual fees received by the equipment owner and interpreting physician are often significantly less and depend on the rates negotiated with insurance companies or determined by the Medicare fee schedule. For example, an orthopedic surgery group in Illinois billed a charge of $1,116/€825 for a knee MRI in 2007, but the Medicare reimbursement in 2007 was only $470.91/€350.[86] Many insurance companies require advance approval of an MRI procedure as a condition for coverage.
+clinical MRI scanner.]] MRI scanners have become significant sources of revenue for healthcare providers in the US. This is because of favorable reimbursement rates from insurers and federal government programs. Insurance reimbursement is provided in two components, an equipment charge for the actual performance and operation of the MRI scan and a professional charge for the radiologist's review of the images and/or data. In the US Northeast, an equipment charge might be $3,500/€2,600 and a professional charge might be $350/€260,[85] although the actual fees received by the equipment owner and interpreting physician are often significantly less and depend on the rates negotiated with insurance companies or determined by the Medicare fee schedule. For example, an orthopedic surgery group in Illinois billed a charge of $1,116/€825 for a knee MRI in 2007, but the Medicare reimbursement in 2007 was only $470.91/€350.[86] Many insurance companies require advance approval of an MRI procedure as a condition for coverage.
 
 In the United States, an MRI of the brain with and without contrast billed to Medicare Part B entails, on average, a technical payment of /€300 and a separate payment to the radiologist of /€70.[87] In France, the cost of an MRI exam is approximately €150/. This covers three basic scans including one with an intravenous contrast agent as well as a consultation with the technician and a written report to the patient's physician.[88] In Japan, the cost of an MRI examination (excluding the cost of contrast material and films) ranges from /€115 to /€133, with an additional radiologist professional fee of /€12.50.[89] In India, the cost of an MRI examination including the fee for the radiologist's opinion comes to around Rs 3000–4000 (€37–49/), excluding the cost of contrast material. In the UK the retail price for an MRI scan privately ranges between £350 and £700 (€405–810).[90]
 
@@ -162,7 +154,7 @@ Medical societies issue guidelines for when physicians should use MRI on patient
 
 Artifacts
 
-MRI_with_motion_artifacts.jpg An MRI artifact is a visual artifact, that is, an anomaly during visual representation. Many different artifacts can occur during magnetic resonance imaging (MRI), some affecting the diagnostic quality, while others may be confused with pathology. Artifacts can be classified as patient-related, signal processing-dependent and hardware (machine)-related.[98]
+An MRI artifact is a visual artifact, that is, an anomaly during visual representation. Many different artifacts can occur during magnetic resonance imaging (MRI), some affecting the diagnostic quality, while others may be confused with pathology. Artifacts can be classified as patient-related, signal processing-dependent and hardware (machine)-related.[98]
 
 
 Non-medical use

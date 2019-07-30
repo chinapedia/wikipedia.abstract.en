@@ -33,7 +33,7 @@ Rolf Nevanlinna's article _Zur Theorie der meromorphen Funktionen_ which contain
 
 Nevanlinna theory touches also on a class of functions called the Nevanlinna class, or functions of "bounded type".
 
-Memorial_plaque_of_Rolf_Nevanlinna's_birth_home,_Koulukatu_25,_Joensuu,_Finland.jpg When the Winter War broke out (1939), Nevanlinna was invited to join the Finnish Army's Ballistics Office to assist in improving artillery firing tables. These tables had been based on a calculation technique developed by General Vilho Petter Nenonen, but Nevanlinna now came up with a new method which made them considerably faster to compile. In recognition of his work he was awarded the Order of the Cross of Liberty, Second Class, and throughout his life he held this honour in especial esteem.
+When the Winter War broke out (1939), Nevanlinna was invited to join the Finnish Army's Ballistics Office to assist in improving artillery firing tables. These tables had been based on a calculation technique developed by General Vilho Petter Nenonen, but Nevanlinna now came up with a new method which made them considerably faster to compile. In recognition of his work he was awarded the Order of the Cross of Liberty, Second Class, and throughout his life he held this honour in especial esteem.
 
 Among Rolf Nevanlinna's later interests in mathematics were the theory of Riemann surfaces (the monograph _Uniformisierung_ in 1953) and functional analysis (_Absolute analysis_ in 1959, written in collaboration with his brother Frithiof). Nevanlinna also published in Finnish a book on the foundations of geometry and a semipopular account of the Theory of Relativity. His Finnish textbook on the elements of complex analysis, _Funktioteoria_ (1963), written together with Veikko Paatero, has appeared in German, English and Russian translations.
 
@@ -43,8 +43,6 @@ Nevanlinna's work was recognised in the form of honorary degrees which he held f
 
 
 Administrative activities
-
-Rolf_Nevanlinna.jpg
 
 From 1954, Rolf Nevanlinna chaired the committee which set about the first computer project in Finland.
 

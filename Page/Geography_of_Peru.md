@@ -1,5 +1,3 @@
-Peru_Blue_Marble.png Peru_Topography.png Peru_pol91.jpg Peru_veg_1970.png
-
 Peru is a country on the central western coast of South America facing the Pacific Ocean. It lies wholly in the Southern Hemisphere, its northernmost extreme reaching to 1.8 minutes of latitude or about south of the equator. Peru shares land borders with Ecuador, Colombia, Brazil, Bolivia, and Chile, with its longest land border shared with Brazil.
 
 
@@ -41,7 +39,7 @@ Thousands of Venezuelans head to Peru in search of residency.[8] The Internation
 
 Climate
 
-Koppen-Geiger_Map_PER_present.svg The combination of tropical latitude, mountain ranges, topography variations and two ocean currents (Humboldt and El Niño) gives Peru a large diversity of climates. Peru has a tropical climate with a wet and dry season.
+The combination of tropical latitude, mountain ranges, topography variations and two ocean currents (Humboldt and El Niño) gives Peru a large diversity of climates. Peru has a tropical climate with a wet and dry season.
 
 Amazon Basin or Low Amazon
 

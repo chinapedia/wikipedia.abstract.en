@@ -5,7 +5,7 @@ History
 
 Thasian colonists established a settlement at Krenides (meaning "springs") in Thrace in 360/359 BC near the head of the Aegean Sea at the foot of Mt. Orbelos, now called Mt. Lekani, about north-west of Kavalla, on the northern border of the marsh that, in antiquity, covered the entire plain separating it from the Pangaion hills to the south. In 356 BC King Philip II of Macedon conquered the city and renamed it to Philippi.
 
-Phillippi,_Macedonia,_Greece,_6784.jpg Theater_of_Philippi_-_2.jpg of the theatre]] Relief_decorations,_Ancient_Theatre,_built_by_Philip_II_in_the_4th_century_BC_and_later_reconstructed_by_the_Romans,_Philippi_(7272260946).jpg
+of the theatre]]
 
 The Macedonian conquerors of the town aimed to take control of the neighbouring gold mines and to establish a garrison at a strategic passage: the site controlled the route between Amphipolis and Neapolis, part of the great royal route which runs east-west across Macedonia and which the Roman Republic reconstructed in the 2nd century BC as part of the _Via Egnatia_. Philip II endowed the city with important fortifications, which partially blocked the passage between the swamp and Mt. Orbelos, and sent colonists to occupy it. Philip also had the marsh partially drained, as the writer Theophrastus ( 371 – 287 BC) attests. Philippi preserved its autonomy within the kingdom of Macedon and had its own political institutions (the _Assembly_ of the _demos_). The discovery of new gold mines near the city, at Asyla, contributed to the wealth of the kingdom and Philip established a mint there. The city became fully integrated into the kingdom during the reign (221 to 179 BC) of Philip V of Macedon.
 
@@ -17,8 +17,6 @@ Almost nothing is known about the city in this period, but archeological remains
 
 Roman era
 
-The_Forum,_Philippi_(7272795358).jpg Philippi_RomanGraveMarker.JPG
-
 The city reappears in the sources during the Liberators' civil war (43–42 BC) that followed the assassination of Julius Caesar in 44 BC. Caesar's heirs Mark Antony and Octavian confronted the forces of the assassins Marcus Junius Brutus and Gaius Cassius Longinus at the Battle of Philippi on the plain to the west of the city during October in 42 BC. Antony and Octavian won this final battle against the partisans of the Republic. They released some of their veteran soldiers, probably from Legion XXVIII, to colonize the city, which was refounded as _Colonia Victrix Philippensium_. From 30 BC Octavian established his control of the Roman state, becoming Roman emperor from 27 BC. He reorganized the colony and established more settlers there, veterans (possibly from the Praetorian Guard) and other Italians. The city was renamed _Colonia Iulia Philippensis_, and then _Colonia Augusta Iulia Philippensis_ after January, 27 BC, when Octavian received the title Augustus from the Roman Senate.
 
 Following this second renaming, and perhaps after the first, the territory of Philippi was centuriated (divided into squares of land) and distributed to the colonists. The city kept its Macedonian walls, and its general plan was modified only partially by the construction of a forum, a little to the east of the site of Greek agora. It was a "miniature Rome", under the municipal law of Rome, and governed by two military officers, the _duumviri_, who were appointed directly from Rome.
@@ -27,13 +25,9 @@ The colony recognized its dependence on the mines that brought it its privileged
 
 Early Christian era
 
-Archaeological_site_of_Philippi_BW_2017-10-05_12-54-40.jpg
-
 The New Testament records a visit to the city by the apostle Paul during his second missionary journey (likely in AD 49 or 50)(). On the basis of the Acts of the Apostles[2] and the letter to the Philippians,[3] early Christians concluded that Paul had founded their community. Accompanied by Silas, by Timothy and possibly by Luke (the author of the Acts of the Apostles), Paul is believed to have preached for the first time on European soil in Philippi.[4] According to the New Testament, Paul visited the city on two other occasions, in 56 and 57. The Epistle to the Philippians dates from around 61-62 and is believed to show the immediate effects of Paul's instruction.
 
 The development of Christianity in Philippi is indicated by a letter from Polycarp of Smyrna addressed to the community in Philippi around AD 160 and by funerary inscriptions.
-
-Ruins_of_a_large_three-aisled_early_christian_Basilica_(Basilica_A),_end_of_5th_century_AD,_Philippi_(7272360544).jpg The_imposing_basilica_next_to_the_Forum_and_its_gagantic_pillars,_also_known_as_Basilica_B,_Philippi_(7272621716).jpg
 
 The first church described in the city is a small building that was probably originally a small prayer-house. This _Basilica of Paul_, identified by a mosaic inscription on the pavement, is dated around 343 from a mention by the bishop Porphyrios, who attended the Council of Serdica that year.
 
@@ -44,8 +38,6 @@ The prosperity of the city in the 5th and 6th centuries was attributed to Paul a
 In the same age, the Empire rebuilt the fortifications of the city in order to better defend against growing instability in the Balkans. In 473 Ostrogothic troops of Theodoric Strabo besieged the city; they failed to take it but burned down the surrounding villages.
 
 Byzantine era
-
-Archaeological_site_of_Philippi_BW_2017-10-05_12-40-34.jpg
 
 Already weakened by the Slavic invasions at the end of the 6th century - which ruined the agrarian economy of Macedonia - and probably also by the Plague of Justinian in 547, the city was almost totally destroyed by an earthquake around 619, from which it never recovered. There was a small amount of activity there in the 7th century, but the city was now hardly more than a village.
 
@@ -59,8 +51,6 @@ The city was abandoned at an unknown date. When the French traveller Pierre Belo
 
 
 Archaeological excavation of the site
-
-Philippi_Daumet_Direkler.jpg
 
 Noted or briefly described by 16th century travellers, the first archaeological description of the city was made in 1856 by Perrot, then in 1861 by Léon Heuzey and Henri Daumet in their famous _Mission archéologique de Macédoine_.[5] The first excavations did not begin until the summer of 1914, and were soon interrupted by the First World War. The excavations, carried out by the École française d'Athènes, were renewed in 1920 and continued until 1937. During this time the Greek theatre, the forum, Basilicas A and B, the baths and the walls were excavated. After the Second World War, Greek archaeologists returned to the site. From 1958 to 1978, the Société Archéologique, then the Service archéologique and the University of Thessalonica uncovered the bishop's quarter and the octagonal church, large private residences, a new basilica near the Museum and two others in the necropolis to the east of the city.
 

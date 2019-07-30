@@ -5,11 +5,11 @@ The river drains an area of ,[3] of which are in Texas and in Louisiana.[4] It f
 
 Description
 
-Sabine_River_near_Big_Sandy,_TX_IMG_5294.JPG near Big Sandy, Texas]]
+near Big Sandy, Texas]]
 
-Sabine_River_at_Toledo_Bend_IMG_7524.JPG, Louisiana.]]
+, Louisiana.]]
 
-SabineRiver.jpg]]
+]]
 
 The Sabine rises in northeast Texas by the union of three branches: the Cowleech Fork, Caddo Fork, and South Fork. The Cowleech Fork rises in northwestern Hunt County and flows southeast for .[6] The Caddo Fork, shown as "Caddo Creek" on federal maps, rises in two tributary forks, the East Caddo Fork and the West Caddo Fork, in northwestern Hunt County. The South Fork rises in the southwestern corner of Hunt County and flows east for ,[7] joining the Caddo Fork and Cowleech Fork in southeastern Hunt County. The confluence of the forks is now submerged in the Lake Tawakoni reservoir. The combined river flows southeast across northeast Texas and is joined by a fourth branch, Lake Fork Creek, downstream from the reservoir.[8]
 

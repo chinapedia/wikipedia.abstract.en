@@ -3,13 +3,13 @@ SAINT RAPHAEL OF BROOKLYN (; born RAPHAEL HAWAWEENY ; November 20, 1860 – Febr
 
 Life
 
-He was born in Beirut, modern-day Lebanon, to Damascene Syrian parents of the Antiochian Orthodox faith who had come to Beirut fleeing a massacre of Christians in Damascus.[2] He was first educated at the Damascus Patriarchal School that had become the leading Greek Orthodox institution of higher learning in the Levant under the leadership of Saint Joseph of Damascus. He furthered his study of Christian theology at the Patriarchical Halki seminary in Constantinople, and at the Theological Academy in Kiev, Russian Empire (now Ukraine). Raphael_of_Brooklyn.jpg Father Raphael was sent to New York City in 1895 by Tsar Nicholas II of Russia to administer the local Orthodox Christian community which then included mainly Russian, Greek, and Levantine immigrants.
+He was born in Beirut, modern-day Lebanon, to Damascene Syrian parents of the Antiochian Orthodox faith who had come to Beirut fleeing a massacre of Christians in Damascus.[2] He was first educated at the Damascus Patriarchal School that had become the leading Greek Orthodox institution of higher learning in the Levant under the leadership of Saint Joseph of Damascus. He furthered his study of Christian theology at the Patriarchical Halki seminary in Constantinople, and at the Theological Academy in Kiev, Russian Empire (now Ukraine). Father Raphael was sent to New York City in 1895 by Tsar Nicholas II of Russia to administer the local Orthodox Christian community which then included mainly Russian, Greek, and Levantine immigrants.
 
 In 1904 he became the first Orthodox bishop to be consecrated in North America; the consecration was performed in New York City by Saint Archbishop Tikhon (Bellavin) and Bishop Innocent (Pustynsky). He served as Bishop of Brooklyn until his death.
 
 During the course of his ministry as an auxiliary bishop of the Russian Orthodox Church in America, St. Raphael founded the present-day cathedral of the Antiochian Orthodox Archdiocese of North America, established twenty-nine parishes and assisted in the founding of St. Tikhon's Orthodox Monastery.
 
-Father Raphael founded the official magazine of the Antiochian Orthodox Archdiocese, _The Word_, in 1905 in Arabic (الكلمة).[3] Icon_of_Saint_Raphael_of_Brooklyn.jpg
+Father Raphael founded the official magazine of the Antiochian Orthodox Archdiocese, _The Word_, in 1905 in Arabic (الكلمة).[3]
 
 
 Glorification and honors

@@ -20,7 +20,7 @@ Pontificate
 
 Papal election
 
-Italy_Papal_States_1689-I_Quadrupla_Scudo_d'Oro.jpg from 1689. Saints Peter and Paul on the reverse. Engraved by Antonio Travani, a goldsmith and medalist in Rome.[4]]]
+from 1689. Saints Peter and Paul on the reverse. Engraved by Antonio Travani, a goldsmith and medalist in Rome.[4]]]
 
 The ambassador of King Louis XIV of France (1643–1715) succeeded in procuring his election on 6 October 1689, as the successor to Pope Innocent XI (1676–89); nevertheless, after months of negotiation Alexander VIII finally condemned the declaration made in 1682 by the French clergy concerning the liberties of the Gallican church.[5]
 
@@ -32,7 +32,7 @@ Alexander VIII was almost an octogenarian when elected to the papacy, which last
 
 Financial controversies
 
-Charities on a large scale and unbounded nepotism exhausted the papal treasury,[9] reversing the policies of his predecessor. Among the various nominations, his 22-year-old grandnephew Pietro was made cardinal and vice-chancellor of the Church,[10][11] nephew Marco, son of his brother Agostino, was made inspector of naval fortifications and Duke of Fiano, and nephew Antonio, another of Agostino's children, was made general of the church. His nephew Giovanni Rubin was made secretary of state and bishop of Vicenza. Out of compassion for the poor of the impoverished Papal States, he sought to help them by reducing taxes. But this same generous nature led him to bestow on his relations the riches they were eager to accumulate; on their behalf, and to the discredit of his pontificate, he revived sinecure offices which had been suppressed by Innocent XI.[12] He bought the books and manuscripts of Queen Christina of Sweden for the Vatican Library.[13] Alexander VIII assisted his native Venice by generous subsidies in the war against the Turks,[14] as well as sending seven galleys and 2,000 infantry for the campaign in Albania. AlexandreVIII.jpg In 1690 he condemned the doctrines of the so-called philosophical sin, taught in the Jesuit schools.[15] He also held three consistories that saw 14 new cardinals elevated.
+Charities on a large scale and unbounded nepotism exhausted the papal treasury,[9] reversing the policies of his predecessor. Among the various nominations, his 22-year-old grandnephew Pietro was made cardinal and vice-chancellor of the Church,[10][11] nephew Marco, son of his brother Agostino, was made inspector of naval fortifications and Duke of Fiano, and nephew Antonio, another of Agostino's children, was made general of the church. His nephew Giovanni Rubin was made secretary of state and bishop of Vicenza. Out of compassion for the poor of the impoverished Papal States, he sought to help them by reducing taxes. But this same generous nature led him to bestow on his relations the riches they were eager to accumulate; on their behalf, and to the discredit of his pontificate, he revived sinecure offices which had been suppressed by Innocent XI.[12] He bought the books and manuscripts of Queen Christina of Sweden for the Vatican Library.[13] Alexander VIII assisted his native Venice by generous subsidies in the war against the Turks,[14] as well as sending seven galleys and 2,000 infantry for the campaign in Albania. In 1690 he condemned the doctrines of the so-called philosophical sin, taught in the Jesuit schools.[15] He also held three consistories that saw 14 new cardinals elevated.
 
 Beatifications and canonizations
 

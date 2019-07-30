@@ -40,8 +40,6 @@ Communications
 
 Power
 
-Two_of_four_SNAP_19_RTGs_of_a_Pioneer_space_probe.jpg
-
     _Pioneer 11_ uses four SNAP-19 radioisotope thermoelectric generators (RTGs) (_SEE DIAGRAM_). They are positioned on two three-rod trusses, each in length and 120 degrees apart. This was expected to be a safe distance from the sensitive scientific experiments carried on board. Combined, the RTGs provided 155 watts at launch, and decayed to 140 W in transit to Jupiter. The spacecraft requires 100 W to power all systems.[13]
 
 Computer
@@ -52,60 +50,60 @@ Scientific instruments
 
 Pioneer has one additional instrument more than Pioneer 10, a flux-gate magnetometer.[15]
 
-+---------------------------------------------------------+
-| Helium Vector Magnetometer (HVM)                        |
-+=========================================================+
-| Pioneer_10-11_-_P50_-_fx.jpg                            |
-+---------------------------------------------------------+
-| Quadrispherical Plasma Analyzer                         |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P51b_-_fx.jpg                           |
-+---------------------------------------------------------+
-| Charged Particle Instrument (CPI)                       |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P52a_-_fx.jpg                           |
-+---------------------------------------------------------+
-| Cosmic Ray Telescope (CRT)                              |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P52b_-_fx.jpg                           |
-+---------------------------------------------------------+
-| Geiger Tube Telescope (GTT)                             |
-+---------------------------------------------------------+
-|                                                         |
-+---------------------------------------------------------+
-| Trapped Radiation Detector (TRD)                        |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P54_-_fx.jpg                            |
-+---------------------------------------------------------+
-| Meteoroid Detectors                                     |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P56_-_fx.jpg                            |
-+---------------------------------------------------------+
-| Asteroid/Meteoroid Detector (AMD)                       |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P55b_-_fx.jpg                           |
-+---------------------------------------------------------+
-| Ultraviolet Photometer                                  |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P57a_-_fx.jpg                           |
-+---------------------------------------------------------+
-| Imaging Photopolarimeter (IPP)                          |
-+---------------------------------------------------------+
-| Pioneer_10-11_-_P60_-_fx.jpg                            |
-+---------------------------------------------------------+
-| Infrared Radiometer                                     |
-+---------------------------------------------------------+
-| P58_-_fx.jpg                                            |
-+---------------------------------------------------------+
-| Triaxial Fluxgate Magnetometer                          |
-+---------------------------------------------------------+
-| Triaxial_Fluxgate_Mars_Global_Surveyor_Magnetometer.gif |
-+---------------------------------------------------------+
++-----------------------------------+
+| Helium Vector Magnetometer (HVM)  |
++===================================+
+|                                   |
++-----------------------------------+
+| Quadrispherical Plasma Analyzer   |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Charged Particle Instrument (CPI) |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Cosmic Ray Telescope (CRT)        |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Geiger Tube Telescope (GTT)       |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Trapped Radiation Detector (TRD)  |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Meteoroid Detectors               |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Asteroid/Meteoroid Detector (AMD) |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Ultraviolet Photometer            |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Imaging Photopolarimeter (IPP)    |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Infrared Radiometer               |
++-----------------------------------+
+|                                   |
++-----------------------------------+
+| Triaxial Fluxgate Magnetometer    |
++-----------------------------------+
+|                                   |
++-----------------------------------+
 
 
 Mission profile
 
-Pioneer_G_(Pioneer_11)_launch.jpg.]] Animation_of_Pioneer_11_trajectory.gif}} {{·}}{{·}}]] Animation_of_Pioneer_11_trajectory_around_Jupiter.gif}}{{·}}{{·}} {{·}} {{·}}]]
+.]] }} {{·}}{{·}}]] }}{{·}}{{·}} {{·}} {{·}}]]
 
 +--------------------------------------------------------------+
 | Timeline of travel                                           |
@@ -254,7 +252,7 @@ By 1995, _Pioneer 11_ could no longer power any of its detectors, so the decisio
 
 Current status
 
-Pioneer_speed_and_distance_from_Sun.svg On January 30, 2019, _Pioneer 11_ was from the Earth and from the Sun; and traveling at (relative to the Sun) and traveling outward at about 2.37 AU per year.[30] The spacecraft is heading in the direction of the constellation Scutum near the current position (August 2017) RA 18h 50m dec -8° 39.5' (J2000.0) close to Messier 26. In 928,000 years it will pass within 0.25pc of the K dwarf TYC 992-192-1.[31]
+On January 30, 2019, _Pioneer 11_ was from the Earth and from the Sun; and traveling at (relative to the Sun) and traveling outward at about 2.37 AU per year.[30] The spacecraft is heading in the direction of the constellation Scutum near the current position (August 2017) RA 18h 50m dec -8° 39.5' (J2000.0) close to Messier 26. In 928,000 years it will pass within 0.25pc of the K dwarf TYC 992-192-1.[31]
 
 _Pioneer 11_ has now been overtaken by the two Voyager probes, launched in 1977, and _Voyager 1_ is now the most distant object built by humans.[32]
 

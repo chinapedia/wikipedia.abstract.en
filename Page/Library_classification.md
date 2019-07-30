@@ -1,4 +1,4 @@
-HK_Wan_Chai_Library_Inside_Bookcase_a.jpg arranged using the Dewey classification]]
+arranged using the Dewey classification]]
 
 A LIBRARY CLASSIFICATION is a system of knowledge organization by which library resources are arranged and ordered systematically. Library classifications use a notational system that represents the order of topics in the classification and allows items to be stored in that order. Library classification systems group related materials together, typically arranged as a hierarchical tree structure. A different kind of classification system, called a faceted classification system, is also widely used which allows the assignment of multiple classifications to an object, enabling the classifications to be ordered in multiple ways.
 

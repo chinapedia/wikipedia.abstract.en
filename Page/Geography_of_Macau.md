@@ -7,7 +7,7 @@ There is a long border between Macau and mainland China and a forty-kilometer-lo
 
 Location, size, border, and coastline
 
-THE_MAP_OF_THE_MACAO_SPECIAL_ADMINISTRATIVE_REGION_OF_THE_PEOPLE'S_REPUBLIC_OF_CHINA_2015.jpg in Guangdong Province. The map also shows Macau's maritime boundaries.]] GEOGRAPHIC COORDINATES:
+in Guangdong Province. The map also shows Macau's maritime boundaries.]] GEOGRAPHIC COORDINATES:
 
 Area
 
@@ -30,8 +30,6 @@ Coastline
 
 
 Topography
-
-Administrative_Division_of_Macau.png Vistas_de_Macao,_2013-08-08,_DD_05.jpg Vista_de_los_casinos_desde_el_Centro_de_Ciencia,_Macao,_2013-08-08,_DD_04.jpg
 
 LOCATION: Eastern Asia, bordering the South China Sea and China
 
@@ -105,7 +103,7 @@ Relying on the water supply of Xijiang River, Macau is at present suffering its 
 
 Land use and reclamation
 
-Macau_1889.jpg in 1889]] MapaMacau1912.jpg and Coloane in 1912]] MapaMacau1986.jpg and Coloane in 1986]] Macau_topographic_map-fr_animated.gif Until early 20th century, the Macau peninsula was dotted with small farms on its northern area, beyond the walls protecting the city. Currently, in the Macau peninsula, no arable land, natural pastures or woodland exists and forests have been cleared and plant species have been subjected to profound changes. Coloane on the other hand, due to its later colonisation, still has its forests and is dotted with small farms, namely around the Coloane, Hac Sa and Ka Ho villages.
+in 1889]] and Coloane in 1912]] and Coloane in 1986]] Until early 20th century, the Macau peninsula was dotted with small farms on its northern area, beyond the walls protecting the city. Currently, in the Macau peninsula, no arable land, natural pastures or woodland exists and forests have been cleared and plant species have been subjected to profound changes. Coloane on the other hand, due to its later colonisation, still has its forests and is dotted with small farms, namely around the Coloane, Hac Sa and Ka Ho villages.
 
 _arable land:_ 0%
 _permanent crops:_ 0%

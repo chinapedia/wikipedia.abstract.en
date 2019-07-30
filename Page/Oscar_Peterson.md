@@ -23,7 +23,7 @@ He considered the trio with Brown and Ellis "the most stimulating" and productiv
 
 When Ellis departed in 1958, they hired drummer Ed Thigpen because they felt no guitarist could compare to Ellis.[19] Brown and Thigpen worked with Peterson on his albums _Night Train_ and _Canadiana Suite_. Both left in 1965 and were replaced by bassist Sam Jones and drummer Louis Hayes (and later, drummer Bobby Durham). The trio performed together until 1970. In 1969 Peterson recorded _Motions and Emotions_ with orchestral arrangements of "Yesterday" and "Eleanor Rigby" by The Beatles. In the fall of 1970, Peterson's trio released the album _Tristeza on Piano_. Jones and Durham left in 1970.
 
-Joe_Pass_&_Oscar_Peterson.jpg and Oscar Peterson at Eastman Theatre Rochester, New York, in 1977]]
+and Oscar Peterson at Eastman Theatre Rochester, New York, in 1977]]
 
 In the 1970s Peterson formed a trio with guitarist Joe Pass and bassist Niels-Henning Ørsted Pedersen. This trio emulated the success of the 1950s trio with Brown and Ellis and gave acclaimed performances at festivals. Their album _The Trio_ won the 1974 Grammy Award for Best Jazz Performance by a Group. On April 22, 1978, Peterson performed in the interval act for the Eurovision Song Contest 1978 that was broadcast live from the Palais des congrès de Paris. In 1974 he added British drummer Martin Drew. This quartet toured and recorded extensively worldwide. Pass said in a 1976 interview, "The only guys I've heard who come close to total mastery of their instruments are Art Tatum and Peterson".
 
@@ -31,7 +31,7 @@ Peterson was open to experimental collaborations with jazz musicians such as sax
 
 Ill health and later years
 
-Grave_of_Oscar_Peterson_-_St._Peter's_Anglican_Church.jpg Peterson had arthritis since his youth, and in later years he had trouble buttoning his shirt. Never slender, his weight increased to , hindering his mobility. He had hip replacement surgery in the early 1990s.[21] Although the surgery was successful, his mobility was still inhibited. In 1993 a stroke weakened his left side and removed him from work for two years. During the same year incoming prime minister Jean Chrétien, his friend and fan, offered him the position of Lieutenant-Governor of Ontario. According to Chrétien, Peterson declined the job due to ill health related to the stroke.[22]
+Peterson had arthritis since his youth, and in later years he had trouble buttoning his shirt. Never slender, his weight increased to , hindering his mobility. He had hip replacement surgery in the early 1990s.[21] Although the surgery was successful, his mobility was still inhibited. In 1993 a stroke weakened his left side and removed him from work for two years. During the same year incoming prime minister Jean Chrétien, his friend and fan, offered him the position of Lieutenant-Governor of Ontario. According to Chrétien, Peterson declined the job due to ill health related to the stroke.[22]
 
 Although he recovered some dexterity in his left hand, his piano playing was diminished, and his style had relied principally on his right hand. In 1995 he returned to occasional public performances and recorded for Telarc. In 1997 he received the Grammy Lifetime Achievement Award and an International Jazz Hall of Fame Award. His friend, Canadian politician and amateur pianist Bob Rae, said, "a one-handed Oscar was better than just about anyone with two hands."[23]
 
@@ -45,8 +45,6 @@ Peterson was married four times.[26][27] He smoked cigarettes and a pipe and oft
 
 
 Composer and teacher
-
-Oscar_Peterson.jpg
 
 Peterson taught piano and improvisation in Canada, mainly in Toronto. With associates, he started and headed the Advanced School of Contemporary Music in Toronto for five years during the 1960s, but it closed because touring called him and his associates away, and it did not have government funding.[29] Later, he mentored the York University jazz program and was the Chancellor of the university for several years in the early 1990s.[30][31] He published jazz piano etudes for practice. He asked his students to study the music of Johann Sebastian Bach, especially _The Well-Tempered Clavier_, the _Goldberg Variations_, and _The Art of Fugue_, considering these piano pieces essential for every serious pianist. Among his students were pianists Benny Green and Oliver Jones.[32]
 
@@ -77,7 +75,7 @@ Grammy Awards
 
 Other awards
 
-Statue_of_Oscar_Peterson_1.jpg was unveiled by Queen Elizabeth II at the National Arts Centre in Ottawa in June 2010.]]
+was unveiled by Queen Elizabeth II at the National Arts Centre in Ottawa in June 2010.]]
 
 -   Pianist of the year, _DownBeat_ magazine, 1950, and won again for the next 12 years[37]
 -   Order of Canada, Officer, 1972; Companion, 1984

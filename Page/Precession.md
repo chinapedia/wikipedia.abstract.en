@@ -1,4 +1,4 @@
-Gyroscope_precession.gif]]
+]]
 
 PRECESSION is a change in the orientation of the rotational axis of a rotating body. In an appropriate reference frame it can be defined as a change in the first Euler angle, whereas the third Euler angle defines the rotation itself. In other words, if the axis of rotation of a body is itself rotating about a second axis, that body is said to be precessing about the second axis. A motion in which the second Euler angle changes is called _nutation_. In physics, there are two types of precession: torque-free and torque-induced.
 
@@ -37,7 +37,7 @@ Torque-induced
 
 Torque-induced precession (GYROSCOPIC PRECESSION) is the phenomenon in which the axis of a spinning object (e.g., a gyroscope) describes a cone in space when an external torque is applied to it. The phenomenon is commonly seen in a spinning toy top, but all rotating objects can undergo precession. If the speed of the rotation and the magnitude of the external torque are constant, the spin axis will move at right angles to the direction that would intuitively result from the external torque. In the case of a toy top, its weight is acting downwards from its center of mass and the normal force (reaction) of the ground is pushing up on it at the point of contact with the support. These two opposite forces produce a torque which causes the top to precess.
 
-Gyroscopic_precession_256x256.png The device depicted on the right (or above on mobile devices) is gimbal mounted. From inside to outside there are three axes of rotation: the hub of the wheel, the gimbal axis, and the vertical pivot.
+The device depicted on the right (or above on mobile devices) is gimbal mounted. From inside to outside there are three axes of rotation: the hub of the wheel, the gimbal axis, and the vertical pivot.
 
 To distinguish between the two horizontal axes, rotation around the wheel hub will be called _spinning_, and rotation around the gimbal axis will be called _pitching_. Rotation around the vertical pivot axis is called _rotation_.
 
@@ -55,7 +55,7 @@ Precession or gyroscopic considerations have an effect on bicycle performance at
 
 Classical (Newtonian)
 
-PrecessionOfATop.svg caused by the normal force – and the weight of the top causes a change in the angular momentum in the direction of that torque. This causes the top to precess.]]
+caused by the normal force – and the weight of the top causes a change in the angular momentum in the direction of that torque. This causes the top to precess.]]
 
 Precession is the change of angular velocity and angular momentum produced by a torque. The general equation that relates the torque to the rate of change of angular momentum is:
 
@@ -104,7 +104,7 @@ The ancient Greek astronomer Hipparchus (c. 190–120 BC) is generally accepted 
 
 Apsidal precession
 
-Precessing_Kepler_orbit_280frames_e0.6_smaller.gif—the orbit rotates gradually over time.]]
+—the orbit rotates gradually over time.]]
 
 The orbits of planets around the Sun do not really follow an identical ellipse each time, but actually trace out a flower-petal shape because the major axis of each planet's elliptical orbit also precesses within its orbital plane, partly in response to perturbations in the form of the changing gravitational forces exerted by other planets. This is called perihelion precession or apsidal precession.
 

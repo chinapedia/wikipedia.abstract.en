@@ -3,7 +3,7 @@ RAGTIME – also spelled RAG-TIME or RAG TIME[1] – is a musical style that enj
 
 History
 
-Scott_Joplin_19072.jpg achieved fame for his ragtime compositions and was dubbed the "King of Ragtime".]]
+achieved fame for his ragtime compositions and was dubbed the "King of Ragtime".]]
 
 Origins of ragtime
 
@@ -30,8 +30,6 @@ Ragtime – with Joplin's work at the forefront – has been cited as an America
 
 Historical context
 
-Maple_Leaf_Rag.PNG
-
 Ragtime originated in African American music in the late 19th century and descended from the jigs and march music played by African American bands, referred to as "jig piano" or "piano thumping".[17][18]
 
 By the start of the 20th century, it became widely popular throughout North America and was listened and danced to, performed, and written by people of many different subcultures. A distinctly American musical style, ragtime may be considered a synthesis of African syncopation and European classical music, especially the marches made popular by John Philip Sousa.
@@ -44,7 +42,7 @@ The emergence of mature ragtime is usually dated to 1897, the year in which seve
 
 The heyday of ragtime occurred before sound recording was widely available. Like classical music, and unlike jazz, classical ragtime had and has primarily a written tradition, being distributed in sheet music rather than through recordings or by imitation of live performances. Ragtime music was also distributed via piano rolls for player pianos. A folk ragtime tradition also existed before and during the period of classical ragtime (a designation largely created by Scott Joplin's publisher John Stillwell Stark), manifesting itself mostly through string bands, banjo and mandolin clubs (which experienced a burst of popularity during the early 20th century) and the like.
 
-The_Top_Liner_Rag.jpg's "The Top Liner Rag", a classic rag from 1916]]
+'s "The Top Liner Rag", a classic rag from 1916]]
 
 A form known as novelty piano (or novelty ragtime) emerged as the traditional rag was fading in popularity. Where traditional ragtime depended on amateur pianists and sheet music sales, the novelty rag took advantage of new advances in piano-roll technology and the phonograph record to permit a more complex, pyrotechnic, performance-oriented style of rag to be heard. Chief among the novelty rag composers is Zez Confrey, whose "Kitten on the Keys" popularized the style in 1921.
 
@@ -55,7 +53,7 @@ Although most ragtime was composed for piano, transcriptions for other instrumen
 
 Musical form
 
-Easy_Winners_2.jpg shows ragtime rhythms and syncopated melodies.]]
+shows ragtime rhythms and syncopated melodies.]]
 
 The rag was a modification of the march made popular by John Philip Sousa, with additional polyrhythms coming from African music.[28] It was usually written in 2/4 or 4/4 time with a predominant left-hand pattern of bass notes on strong beats (beats 1 and 3) and chords on weak beats (beat 2 and 4) accompanying a syncopated melody in the right hand. According to some sources the name "ragtime" may come from the "ragged or syncopated rhythm" of the right hand.[29] A rag written in 3/4 time is a "ragtime waltz."
 
@@ -68,11 +66,9 @@ In a note on the sheet music for the song "Leola" Joplin wrote, "Notice! Don't p
 
 Related forms and styles
 
-Spaghetti_Rag.jpg]]
+]]
 
 Ragtime pieces came in a number of different styles during the years of its popularity and appeared under a number of different descriptive names. It is related to several earlier styles of music, has close ties with later styles of music, and was associated with a few musical fads of the period such as the foxtrot. Many of the terms associated with ragtime have inexact definitions and are defined differently by different experts; the definitions are muddled further by the fact that publishers often labelled pieces for the fad of the moment rather than the true style of the composition. There is even disagreement about the term "ragtime" itself; experts such as David Jasen and Trebor Tichenor choose to exclude ragtime songs from the definition but include novelty piano and stride piano (a modern perspective), while Edward A. Berlin includes ragtime songs and excludes the later styles (which is closer to how ragtime was viewed originally). The terms below should not be considered exact, but merely an attempt to pin down the general meaning of the concept.
-
-Shoe_Tickler_Rag.jpg
 
 -   Cakewalk – a pre-ragtime dance form popular until about 1904. The music is intended to be representative of an African-American dance contest in which the prize is a cake. Many early rags are cakewalks.
 -   Characteristic march – a march incorporating idiomatic touches (such as syncopation) supposedly characteristic of the race of their subject, which is usually African-Americans. Many early rags are characteristic marches.
@@ -94,7 +90,7 @@ The most famous ragtime composer[34] was Scott Joplin. Joseph Lamb, James Scott,
 
 Influence on European composers
 
-On_the_Pike_1.jpg's 1904 "On the Pike", which refers to the midway of the St. Louis World's Fair of 1904]] European Classical composers were influenced by the form. The first contact with ragtime was probably at the Paris Exposition in 1900, one of the stages of the European tour of John Philip Sousa. The first notable classical composer to take a serious interest in ragtime was Antonín Dvořák.[35] French composer Claude Debussy emulated ragtime in three pieces for piano. The best-known remains the _Golliwog's Cake Walk_ (from the 1908 Piano Suite _Children's Corner_). He later returned to the style with two preludes for piano: _Minstrels_, (1910) and _General Lavine-excentric_ (from his 1913 Preludes),[36] which was inspired by a Médrano circus clown.
+'s 1904 "On the Pike", which refers to the midway of the St. Louis World's Fair of 1904]] European Classical composers were influenced by the form. The first contact with ragtime was probably at the Paris Exposition in 1900, one of the stages of the European tour of John Philip Sousa. The first notable classical composer to take a serious interest in ragtime was Antonín Dvořák.[35] French composer Claude Debussy emulated ragtime in three pieces for piano. The best-known remains the _Golliwog's Cake Walk_ (from the 1908 Piano Suite _Children's Corner_). He later returned to the style with two preludes for piano: _Minstrels_, (1910) and _General Lavine-excentric_ (from his 1913 Preludes),[36] which was inspired by a Médrano circus clown.
 
 Erik Satie, Arthur Honegger, Darius Milhaud and the other members of The Group of Six in Paris never made any secret of their sympathy for ragtime, which is sometimes evident in their works. Consider, in particular, the ballet of Satie, _Parade (Ragtime du Paquebot),_ (1917) and _La Mort de Monsieur Mouche_, an overture for piano for a drama in three acts, composed in the early 1900s in memory of his friend J.P. Contamine de Latour. In 1902 the American cakewalk was very popular in Paris and Satie two years later wrote two rags, _La Diva de l'empire_ and _Piccadilly_. Despite the two Anglo-Saxon settings, the tracks appear American-inspired. _La Diva de l'empire_, a march for piano soloist, was written for Paulette Darty and initially bore the title _Stand-Walk Marche_; it was later subtitled _Intermezzo Americain_ when Rouarts-Lerolle reprinted it in 1919. _Piccadilly_, another march, was initially titled _The Transatlantique_; it presented a stereotypical wealthy American heir sailing on an ocean liner on the New York–Europe route, going to trade his fortune for an aristocratic title in Europe.[37] There is a similar influence in Milhaud's ballets _Le boeuf sur le toite_ and _Creation du Monde_, which he wrote after a trip to Harlem during his trip in 1922. Even the Swiss composer Honegger wrote works in which the influence of African American music is pretty obvious. Examples include _Pacific 231_, _Prélude et Blues_ and especially the _Concertino_ for piano and orchestra.
 

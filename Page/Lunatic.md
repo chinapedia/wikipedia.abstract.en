@@ -5,7 +5,7 @@ LUNATIC is an antiquated term referring to a person who is seen as mentally ill,
 
 History
 
-Horoscope_1792.jpg of a "Lunatic" according to an astrologer who describes how the positions of the planets Saturn and Mars with respect to the moon are the cause of "diseases of the mind".[2]]]
+of a "Lunatic" according to an astrologer who describes how the positions of the planets Saturn and Mars with respect to the moon are the cause of "diseases of the mind".[2]]]
 
 The term "lunatic" derives from the Latin word _lunaticus_, which originally referred mainly to epilepsy and madness, as diseases thought to be caused by the moon.[3][4]KJV records "lunatick" in Mt 17:15 and Mt 4:24. By the fourth and fifth centuries astrologers were commonly using the term to refer to neurological and psychiatric diseases.[5][6]Philosophers such as Aristotle and Pliny the Elder argued that the full moon induced insane individuals with bipolar disorder by providing light during nights which would otherwise have been dark, and affecting susceptible individuals through the well-known route of sleep deprivation.[7] Until at least 1700, it was also a common belief that the moon influenced fevers, rheumatism, episodes of epilepsy and other diseases.[8]
 

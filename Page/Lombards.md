@@ -1,4 +1,4 @@
-Italien_zur_Langobardenzeit.jpg, Austria and Tuscia)'' and the Lombard Duchies of Spoleto and Benevento]]
+, Austria and Tuscia)'' and the Lombard Duchies of Spoleto and Benevento]]
 
 The LOMBARDS ()[1] or LONGOBARDS () were a Germanic people who ruled most of the Italian Peninsula from 568 to 774.
 
@@ -37,7 +37,7 @@ Similarities between Langobardic and Gothic migration traditions have been noted
 
 Archaeology and migrations
 
-Long555.PNG Lands (according to W. Wegewitz)]]
+Lands (according to W. Wegewitz)]]
 
 The first mention of the Lombards occurred between AD 9 and 16, by the Roman court historian Velleius Paterculus, who accompanied a Roman expedition as prefect of the cavalry.[32] Paterculus says that under Tiberius the "power of the Langobardi was broken, a race surpassing even the Germans in savagery".[33]
 
@@ -53,7 +53,7 @@ Tacitus also counted the Lombards as a remote and aggressive Suebian tribe, one 
 
 In 47, a struggle ensued amongst the Cherusci and they expelled their new leader, the nephew of Arminius, from their country. The Lombards appeared on the scene with sufficient power to control the destiny of the tribe that had been the leader in the struggle for independence thirty-eight years earlier, for they restored the deposed leader to sovereignty.[43]
 
-Lombard_Migration.jpg]]
+]]
 
 To the south, Cassius Dio reported that just before the Marcomannic Wars, 6,000 Lombards and Obii (sometimes thought to be Ubii), crossed the Danube and invaded Pannonia.[44] The two tribes were defeated, whereupon they ceased their invasion and sent Ballomar, King of the Marcomanni, as ambassador to Aelius Bassus, who was then administering Pannonia. Peace was made and the two tribes returned to their homes, which in the case of the Lombards was the lands of the lower Elbe.[45] At about this time, in his _Germania_ Tacitus says that "their scanty numbers are a distinction" because "surrounded by a host of most powerful tribes, they are safe, not by submitting, but by daring the perils of war".[46]
 
@@ -75,7 +75,7 @@ Kingdom in Italy, 568–774
 
 Invasion and conquest of the Italian peninsula
 
-0815_-_Museo_archeologico_di_Milano_-_Corredo_longobardico_(sec._VI-VII)_-_Foto_Giovanni_Dall'Orto,_13-mar-2012.jpg, Lombardy]] In approximately 560, Audoin was succeeded by his son Alboin, a young and energetic leader who defeated the neighboring Gepidae and made them his subjects; in 566, he married Rosamund, daughter of the Gepid king Cunimund. In the spring of 568, Alboin led the Lombard migration into Italy.[69] According to the _History of the Lombards,_ "Then the Langobards, having left Pannonia, hastened to take possession of Italy with their wives and children and all their goods."[70]
+, Lombardy]] In approximately 560, Audoin was succeeded by his son Alboin, a young and energetic leader who defeated the neighboring Gepidae and made them his subjects; in 566, he married Rosamund, daughter of the Gepid king Cunimund. In the spring of 568, Alboin led the Lombard migration into Italy.[69] According to the _History of the Lombards,_ "Then the Langobards, having left Pannonia, hastened to take possession of Italy with their wives and children and all their goods."[70]
 
 Various other peoples who either voluntarily joined or were subjects of King Alboin were also part of the migration.[71] "Whence, even until today, we call the villages in which they dwell Gepidan, Bulgarian, Sarmatian, Pannonian, Suabian, Norican, or by other names of this kind."[72] At least 20,000 Saxon warriors, old allies of the Lombards, and their families joined them in their new migration.[73]
 
@@ -102,7 +102,7 @@ Langobardia minor
 
 Arian monarchy
 
-Chlothar_II.jpg King Chlothar II in combat with the Lombards]] In 572, Alboin was murdered in Verona in a plot led by his wife, Rosamund, who later fled to Ravenna. His successor, Cleph, was also assassinated, after a ruthless reign of 18 months. His death began an interregnum of years (the "Rule of the Dukes") during which the dukes did not elect any king, a period regarded as a time of violence and disorder. In 586, threatened by a Frankish invasion, the dukes elected Cleph's son, Authari, as king. In 589, he married Theodelinda, daughter of Garibald I of Bavaria, the Duke of Bavaria. The Catholic Theodelinda was a friend of Pope Gregory I and pushed for Christianization. In the meantime, Authari embarked on a policy of internal reconciliation and tried to reorganize royal administration. The dukes yielded half their estates for the maintenance of the king and his court in Pavia. On the foreign affairs side, Authari managed to thwart the dangerous alliance between the Byzantines and the Franks.
+King Chlothar II in combat with the Lombards]] In 572, Alboin was murdered in Verona in a plot led by his wife, Rosamund, who later fled to Ravenna. His successor, Cleph, was also assassinated, after a ruthless reign of 18 months. His death began an interregnum of years (the "Rule of the Dukes") during which the dukes did not elect any king, a period regarded as a time of violence and disorder. In 586, threatened by a Frankish invasion, the dukes elected Cleph's son, Authari, as king. In 589, he married Theodelinda, daughter of Garibald I of Bavaria, the Duke of Bavaria. The Catholic Theodelinda was a friend of Pope Gregory I and pushed for Christianization. In the meantime, Authari embarked on a policy of internal reconciliation and tried to reorganize royal administration. The dukes yielded half their estates for the maintenance of the king and his court in Pavia. On the foreign affairs side, Authari managed to thwart the dangerous alliance between the Byzantines and the Franks.
 
 Authari died in 591 and was succeeded by Agilulf, the duke of Turin, who also married Theodelinda in the same year. Agilulf successfully fought the rebel dukes of northern Italy, conquering Padua in 601, Cremona and Mantua in 603, and forcing the Exarch of Ravenna to pay tribute. Agilulf died in 616; Theodelinda reigned alone until 628 when she was succeeded by Adaloald. Arioald, the head of the Arian opposition who had married Theodelinda's daughter Gundeperga, later deposed Adaloald.
 
@@ -114,7 +114,7 @@ The Lombards engaged in fierce battles with Slavic peoples during these years: f
 
 Catholic monarchy
 
-Luitprand_tremissis_661673.jpg (712-744) "was a zealous Catholic, generous and a great founder of monasteries"[76]]] Religious strife and the Slavic raids remained a source of struggle in the following years. In 705, the Friuli Lombards were defeated and lost the land to the west of the Soča River, namely the Gorizia Hills and the Venetian Slovenia.[77] A new ethnic border was established that has lasted for over 1200 years up until the present time.[78][79]
+(712-744) "was a zealous Catholic, generous and a great founder of monasteries"[76]]] Religious strife and the Slavic raids remained a source of struggle in the following years. In 705, the Friuli Lombards were defeated and lost the land to the west of the Soča River, namely the Gorizia Hills and the Venetian Slovenia.[77] A new ethnic border was established that has lasted for over 1200 years up until the present time.[78][79]
 
 The Lombard reign began to recover only with Liutprand the Lombard (king from 712), son of Ansprand and successor of the brutal Aripert II. He managed to regain a certain control over Spoleto and Benevento, and, taking advantage of the disagreements between the Pope and Byzantium concerning the reverence of icons, he annexed the Exarchate of Ravenna and the duchy of Rome. He also helped the Frankish marshal Charles Martel drive back the Arabs. The Slavs were defeated in the Battle of Lavariano, when they tried to conquer the Friulian Plain in 720.[80] Liutprand's successor Aistulf conquered Ravenna for the Lombards for the first time but had to relinquish it when he was subsequently defeated by the king of the Franks, Pippin III, who was called by the Pope.
 
@@ -126,7 +126,7 @@ Later history
 
 Falling to the Franks & the Duchy of Benevento, 774–849
 
-Duchy_of_Benevento_It.svg in the 8th century]]
+in the 8th century]]
 
 Though the kingdom centred on Pavia in the north fell to Charlemagne and the Franks in 774, the Lombard-controlled territory to the south of the Papal States was never subjugated by Charlemagne or his descendants. In 774, Duke Arechis II of Benevento, whose duchy had only nominally been under royal authority, though certain kings had been effective at making their power known in the south, claimed that Benevento was the successor state of the kingdom. He tried to turn Benevento into a _secundum Ticinum_: a second Pavia. He tried to claim the kingship, but with no support and no chance of a coronation in Pavia.
 
@@ -146,8 +146,6 @@ After the death of Louis, Landulf II of Capua briefly flirted with a Saracen all
 
 Lombard principalities in the 10th century
 
-Italy_1000_AD.svg
-
 The independent state of Salerno inspired the gastalds of Capua to move towards independence, and by the end of the century they were styling themselves "princes" and as a third Lombard state. The Capuan and Beneventan states were united by Atenulf I of Capua in 900. He subsequently declared them to be in perpetual union, and they were separated only in 982, on the death of Pandulf Ironhead. With all of the Lombard south under his control, except Salerno, Atenulf felt safe to use the title _Princeps Gentis Langobardorum_ ("prince of the Lombard people"), which Arechis II had begun using in 774. Among Atenulf's successors the principality was ruled jointly by fathers, sons, brothers, cousins, and uncles for the greater part of the century. Meanwhile, the prince Gisulf I of Salerno began using the title _Langobardorum Gentis Princeps_ around mid-century, but the ideal of a united Lombard principality was realised only in December 977, when Gisulf died and his domains were inherited by Pandulf Ironhead, who temporarily held almost all Italy south of Rome and brought the Lombards into alliance with the Holy Roman Empire. His territories were divided upon his death.
 
 Landulf the Red of Benevento and Capua tried to conquer the principality of Salerno with the help of John III of Naples, but with the aid of Mastalus I of Amalfi, Gisulf repulsed him. The rulers of Benevento and Capua made several attempts on Byzantine Apulia at this time, but late in the century, the Byzantines, under the stiff rule of Basil II, gained ground on the Lombards.
@@ -165,7 +163,7 @@ Culture
 
 Language
 
-Pforzen_Inschrift.JPG may be the earliest written example of Lombardic language]]
+may be the earliest written example of Lombardic language]]
 
 The Lombardic language is extinct (unless Cimbrian and Mocheno represent surviving dialects).[81] The Germanic language declined, beginning in the 7th century, but may have been in scattered use until as late as about the year 1000. Only fragments of the language have survived, the main evidence being individual words quoted in Latin texts. In the absence of Lombardic texts, it is not possible to draw any conclusions about the language's morphology and syntax. The genetic classification of the language depends entirely on phonology. Since there is evidence that Lombardic participated in, and indeed shows some of the earliest evidence for, the High German consonant shift, it is usually classified as an Elbe Germanic or Upper German dialect.[82]
 
@@ -224,7 +222,7 @@ In Italy, the Lombards were intensively Christianised, and the pressure to conve
 
 Beneventan Christianity
 
-Beneventan.jpeg in Beneventan (i.e. Lombard) script]]
+in Beneventan (i.e. Lombard) script]]
 
 The Duchy and eventually Principality of Benevento in southern Italy developed a unique Christian rite in the 7th and 8th centuries. The Beneventan rite is more closely related to the liturgy of the Ambrosian rite than to the Roman rite. The Beneventan rite has not survived in its complete form, although most of the principal feasts and several feasts of local significance are extant. The Beneventan rite appears to have been less complete, less systematic, and more liturgically flexible than the Roman rite.
 
@@ -242,8 +240,6 @@ File:Langobard Shield Boss 7th Century.jpg|Lombard shield boss
 northern Italy, 7th century, Metropolitan Museum of Art File:Langobardic - Fibula - Walters 542440.jpg|Lombard S-shaped fibula File:Arte longobarda, da sutri, bicchiere a forma di corno, fine VI-inizio VII sec.JPG|A glass drinking horn from Castel Trosino File:Langobardic - Shroud Cross - Walters 571773.jpg|Lombard _Goldblattkreuz_ File:Cividale fibula1.jpg|Lombard fibulae File:Cividale Ratchis1.JPG|Altar of Ratchis File:Cividale Tempietto Longobardo - Westwand Märtyrerinnen 1.jpg|8th-century Lombard sculpture depicting female martyrs, based on a Byzantine model. _Tempietto Longobardo_, Cividale del Friuli
 
 Architecture
-
-Chiesa_di_santa_sofia,_benevento.jpg
 
 Few Lombard buildings have survived. Most have been lost, rebuilt, or renovated at some point, so they preserve little of their original Lombard structure. Lombard architecture was well-studied in the 20th century, and the four-volume _Lombard Architecture_ (1919) by Arthur Kingsley Porter is a "monument of illustrated history".
 

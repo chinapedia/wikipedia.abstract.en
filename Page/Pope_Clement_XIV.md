@@ -1,4 +1,4 @@
-Pope_Clement_XIV_by_Christopher_Hewetson_1772.jpg (1772).]]
+(1772).]]
 
 POPE CLEMENT XIV (; 31 October 1705 – 22 September 1774), born GIOVANNI VINCENZO ANTONIO GANGANELLI, was head of the Catholic Church and ruler of the Papal States from 19 May 1769 to his death in 1774. At the time of his election, he was the only Franciscan friar in the College of Cardinals. To date, he is the last pope to take the pontifical name of "Clement" upon his election.
 
@@ -19,7 +19,7 @@ He was ordained around this time after he received his doctorate and he taught p
 
 Ganganelli became a friend of Pope Benedict XIV, who in 1758 appointed him to investigate the issue of the traditional blood libel regarding the Jews, which Ganganelli found to be untrue.[5]
 
-Cardinale_Giovanni_Vincenzo_Ganganelli.jpg Pope Clement XIII elevated Ganganelli to the cardinalate on 24 September 1759 and appointed him as the Cardinal-Priest of San Lorenzo in Panisperna. His elevation came at the insistence of Lorenzo Ricci, who was the Superior-General of the Society of Jesus.
+Pope Clement XIII elevated Ganganelli to the cardinalate on 24 September 1759 and appointed him as the Cardinal-Priest of San Lorenzo in Panisperna. His elevation came at the insistence of Lorenzo Ricci, who was the Superior-General of the Society of Jesus.
 
 Ganganelli opted to become the Cardinal-Priest of Ss. XII Apostoli in 1762. In 1768 he was named the "ponens" of the cause of beatification of Juan de Palafox y Mendoza.[6]
 
@@ -55,7 +55,7 @@ The pressure kept building up to the point that Catholic countries were threaten
 
 Clement XIV and Mozart
 
-Tomb-Pope-ClementXIV.jpg Pope Clement XIV and the customs of the Catholic Church in Rome are described in letters of Wolfgang Amadeus Mozart and of his father Leopold Mozart, written from Rome in April and May 1770 during their tour of Italy. Leopold found the upper clergy offensively haughty, but was received, with his son, by the pope, where Wolfgang demonstrated an amazing feat of musical memory. The papal chapel was famous for performing a _Miserere mei, Deus_ by the 17th-century composer Gregorio Allegri, whose music was not to be copied outside of the chapel on pain of excommunication. The 14-year-old Wolfgang was able to transcribe the composition in its entirety after a single hearing. Clement made young Mozart a knight of the Order of the Golden Spur.[13]
+Pope Clement XIV and the customs of the Catholic Church in Rome are described in letters of Wolfgang Amadeus Mozart and of his father Leopold Mozart, written from Rome in April and May 1770 during their tour of Italy. Leopold found the upper clergy offensively haughty, but was received, with his son, by the pope, where Wolfgang demonstrated an amazing feat of musical memory. The papal chapel was famous for performing a _Miserere mei, Deus_ by the 17th-century composer Gregorio Allegri, whose music was not to be copied outside of the chapel on pain of excommunication. The 14-year-old Wolfgang was able to transcribe the composition in its entirety after a single hearing. Clement made young Mozart a knight of the Order of the Golden Spur.[13]
 
 Activities
 

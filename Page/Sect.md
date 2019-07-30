@@ -1,11 +1,11 @@
-Prevailing_world_religions_map.png A SECT is a subgroup of a religious, political, or philosophical belief system, usually an offshoot of a larger group. Although the term was originally a classification for religious separated groups, it can now refer to any organization that breaks away from a larger one to follow a different set of rules and principles.
+A SECT is a subgroup of a religious, political, or philosophical belief system, usually an offshoot of a larger group. Although the term was originally a classification for religious separated groups, it can now refer to any organization that breaks away from a larger one to follow a different set of rules and principles.
 
 In an Indian context, sect refers to an organized tradition.[1]
 
 
 Etymology
 
-Catalogue_of_Sects.GIF The word _sect_ comes from the Latin noun _secta_ (a feminine form of a variant past participle of the verb _sequi_, to follow[2]), meaning "a way, road", and figuratively a (prescribed) way, mode, or manner, and hence metonymously, a discipline or school of thought as defined by a set of methods and doctrines. The present gamut of meanings of _sect_ has been influenced by confusion with the homonymous (but etymologically unrelated) Latin word _secta_ (the feminine form of the past participle of the verb _secare_, to cut).[3]
+The word _sect_ comes from the Latin noun _secta_ (a feminine form of a variant past participle of the verb _sequi_, to follow[2]), meaning "a way, road", and figuratively a (prescribed) way, mode, or manner, and hence metonymously, a discipline or school of thought as defined by a set of methods and doctrines. The present gamut of meanings of _sect_ has been influenced by confusion with the homonymous (but etymologically unrelated) Latin word _secta_ (the feminine form of the past participle of the verb _secare_, to cut).[3]
 
 
 Sociological definitions and descriptions
@@ -24,7 +24,7 @@ The corresponding words for "sect" in European languages other than English – 
 
 In Buddhism
 
-Japanese_buddhist_monk_by_Arashiyama.JPG sect]] The _Macmillan Encyclopedia of Religion_ distinguishes three types of classification of Buddhism, separated into "Movements", "Nikāyas" and "Doctrinal schools":
+sect]] The _Macmillan Encyclopedia of Religion_ distinguishes three types of classification of Buddhism, separated into "Movements", "Nikāyas" and "Doctrinal schools":
 
 -   Schools:
     -   Theravada, primarily in South Asia and Southeast Asia;
@@ -50,7 +50,7 @@ Protestant sects
 
 In Hinduism
 
-Ganapati.1..JPG worshippers]] The Indologist Axel Michaels writes in his book about Hinduism that in an Indian context the word "sect does not denote a split or excluded community, but rather an organized tradition, usually established by founder with ascetic practices."[16] According to Michaels, "Indian sects do not focus on heresy, since the lack of a center or a compulsory center makes this impossible – instead, the focus is on adherents and followers."[17]
+worshippers]] The Indologist Axel Michaels writes in his book about Hinduism that in an Indian context the word "sect does not denote a split or excluded community, but rather an organized tradition, usually established by founder with ascetic practices."[16] According to Michaels, "Indian sects do not focus on heresy, since the lack of a center or a compulsory center makes this impossible – instead, the focus is on adherents and followers."[17]
 
 
 In Islam
@@ -61,7 +61,7 @@ For instance, Sunnis are separated into five sub-sects, namely, Hanafi, Maliki, 
 
 The Shia, on the other hand, first developed Kaysanism, which in turn divided into three major groupings known as Fivers, Seveners and Twelvers. The Zaydis separated first. The non-Zaydis are initially called as "Rafida Groups." These Rafidis were later divided into two sub-groups known as Imamiyyah and Batiniyyah.[18]
 
--   The "Imami-Shi'a" later brought into existence Ja'fari jurisprudence. Akhbarism, Usulism, and Shaykhism were all ensued as variations of "Ja'fari fiqh," while Alawites and Alevis who are not the strict followers of "Ja'farism" are developed separately from the teachings of _Ithna'ashari Imāms._Ghardaia02.jpg valley in Sahara is home of the Ibadi religious sect]]
+-   The "Imami-Shi'a" later brought into existence Ja'fari jurisprudence. Akhbarism, Usulism, and Shaykhism were all ensued as variations of "Ja'fari fiqh," while Alawites and Alevis who are not the strict followers of "Ja'farism" are developed separately from the teachings of _Ithna'ashari Imāms._ valley in Sahara is home of the Ibadi religious sect]]
 -   Batiniyya groups, on the other hand, were divided into two sub-groups known as Seveners and Ismā'īlīs. Qarmatians who did not follow the Fatimid Caliphate were branched from the Seveners. Those groups of Batiniyya who followed the Fatimids are the ancestors of today's Ismā'īlīs. Druze was emerged as an offshoot of Ismāʿīlism at the beginning of the 11th Century. Isma'ilism at the end of the 11th Century split into two major branches known as Nizārī Ismā'īlī _(Assassins of Alamut)_ and Musta’li Ismaili. As a result of the assassination of Fatimid Caliph Al-Amir bi-Ahkami'l-Lah, Mustaali was once more again divided into Hafizis and Taiyabi Ismailis _(Dawoodis, Sulaymanis and Alavis)_
 -   The Khawarij were initially divided into five major branches: Sufris, Azariqa, Najdat, Adjarites and Ibadis.
 

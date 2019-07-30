@@ -111,8 +111,6 @@ Clearly, Wittgenstein did not want to be a behaviorist, nor did he want to be a 
 
 _Seeing that_ vs. _seeing as_
 
-Duck-Rabbit_illusion.jpg
-
 In addition to ambiguous sentences, Wittgenstein discussed figures that can be seen and understood in two different ways. Often one can see something in a straightforward way — seeing _that_ it is a rabbit, perhaps. But, at other times, one notices a particular aspect — seeing it _as_ something.
 
 An example Wittgenstein uses is the "duckrabbit", an ambiguous image that can be _seen as_ either a duck or a rabbit.[64] When one looks at the duck-rabbit and sees a rabbit, one is not _interpreting_ the picture as a rabbit, but rather _reporting_ what one sees. One just sees the picture as a rabbit. But what occurs when one sees it first as a duck, then as a rabbit? As the gnomic remarks in the _Investigations_ indicate, Wittgenstein isn't sure. However, he is sure that it could not be the case that the external world stays the same while an 'internal' cognitive change takes place.

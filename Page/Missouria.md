@@ -12,7 +12,7 @@ The state of Missouri and the Missouri River are named for the tribe.
 
 History
 
-Bodmer_Missouria_Otoe_Ponca_Indians.jpg]] Van-meter-fort.jpg at Van Meter State Park]] The tribe's oral history tells that they once lived north of the Great Lakes. They began migrating south in the 16th century. By 1600, the Missouria lived near the confluence of the Grand and Missouri rivers, where they settled through the 18th century. Their tradition says that they split from the Otoe tribe, which belongs to the same Chiwere branch of the Siouan language, because of a love affair between the children of two tribal chiefs.[5]
+]] at Van Meter State Park]] The tribe's oral history tells that they once lived north of the Great Lakes. They began migrating south in the 16th century. By 1600, the Missouria lived near the confluence of the Grand and Missouri rivers, where they settled through the 18th century. Their tradition says that they split from the Otoe tribe, which belongs to the same Chiwere branch of the Siouan language, because of a love affair between the children of two tribal chiefs.[5]
 
 The 17th century brought hardships to the Missouria. The Sauk and Fox frequently attacked them. Their society was even more disrupted by the high fatalities from epidemics of smallpox and other Eurasian infectious diseases that accompanied contact with Europeans. The French explorer Jacques Marquette contacted the tribe in 1673 and paved the way for trade with the French.[6]
 

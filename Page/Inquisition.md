@@ -1,4 +1,4 @@
-Galileo_before_the_Holy_Office.jpg]]
+]]
 
 The INQUISITION was a group of institutions within the Catholic Church whose aim was to combat heresy. The Inquisition started in 12th-century France to combat religious dissent, in particular the Cathars and the Waldensians. Other groups investigated later included the Spiritual Franciscans, the Hussites (followers of Jan Hus) and the Beguines. Beginning in the 1250s, inquisitors were generally chosen from members of the Dominican Order, replacing the earlier practice of using local clergy as judges.[1] The term Medieval Inquisition covers these courts up to mid-15th century.
 
@@ -9,7 +9,7 @@ With the exception of the Papal States, the institution of the Inquisition was a
 
 Definition and purpose
 
-Inquisitor_Palace_Birgu_2012_n27.jpg in Birgu, Malta]]
+in Birgu, Malta]]
 
 The term _Inquisition_ comes from the Medieval Latin word "inquisitio", which referred to any court process that was based on Roman law, which had gradually come back into use during the late medieval period.[5] Today, the English term "Inquisition" can apply to any one of several institutions that worked against heretics (or other offenders against canon law) within the judicial system of the Roman Catholic Church. Although the term _Inquisition_ is usually applied to ecclesiastical courts of the Catholic Church, it has several different usages:[6]
 
@@ -45,8 +45,6 @@ With the sharpening of debate and of conflict between the Protestant Reformation
 
 Witch-trials
 
-Escudo_inquisicion.gif
-
 While belief in witchcraft, and persecutions directed at or excused by it, were widespread in pre-Christian Europe, and reflected in Germanic law, the influence of the Church in the early medieval era resulted in the revocation of these laws in many places, bringing an end to traditional pagan witch hunts.[25] Throughout the medieval era mainstream Christian teaching had denied the existence of witches and witchcraft, condemning it as pagan superstition.[26] However, Christian influence on popular beliefs in witches and _maleficium_ (harm committed by magic) failed to entirely eradicate folk belief in witches.
 
 The fierce denunciation and persecution of supposed sorceresses that characterized the cruel witchhunts of a later age were not generally found in the first thirteen hundred years of the Christian era.[27] The medieval Church distinguished between "white" and "black" magic. Local folk practice often mixed chants, incantations, and prayers to the appropriate patron saint to ward off storms, to protect cattle, or ensure a good harvest. Bonfires on Midsummer's Eve were intended to deflect natural catastrophes or the influence of fairies, ghosts, and witches. Plants, often harvested under particular conditions, were deemed effective in healing.[28]
@@ -61,7 +59,7 @@ The bull _Summis desiderantes affectibus_ sought to remedy this jurisdictional d
 
 Spanish Inquisition
 
-Pedro_Berruguete_Saint_Dominic_Presiding_over_an_Auto-da-fe_1495.jpg, _Saint Dominic Guzmán presiding over an Auto da fe_ (c. 1495).[38] Many artistic representations depict torture and burning at the stake during the _auto-da-fé_ (Portuguese for "Act of Faith").]]
+, _Saint Dominic Guzmán presiding over an Auto da fe_ (c. 1495).[38] Many artistic representations depict torture and burning at the stake during the _auto-da-fé_ (Portuguese for "Act of Faith").]]
 
 Portugal and Spain in the late Middle Ages consisted largely of multicultural territories of Muslim and Jewish influence, reconquered from Islamic control, and the new Christian authorities could not assume that all their subjects would suddenly become and remain orthodox Roman Catholics. So the Inquisition in Iberia, in the lands of the Reconquista counties and kingdoms like León, Castile and Aragon, had a special socio-political basis as well as more fundamental religious motives.
 
@@ -78,8 +76,6 @@ Inquisition in the Spanish overseas empire
 In the Americas, King Philip II set up three tribunals (each formally titled _Tribunal del Santo Oficio de la Inquisición_) in 1569, one in Mexico, Cartagena de Indias (in modern-day Colombia) and Peru. The Mexican office administered Mexico (central and southeastern Mexico), Nueva Galicia (northern and western Mexico), the Audiencias of Guatemala (Guatemala, Chiapas, El Salvador, Honduras, Nicaragua, Costa Rica), and the Spanish East Indies. The Peruvian Inquisition, based in Lima, administered all the Spanish territories in South America and Panama.
 
 Portuguese Inquisition
-
-1685_-_Inquisição_Portugal.jpg
 
 The Portuguese Inquisition formally started in Portugal in 1536 at the request of King João III. Manuel I had asked Pope Leo X for the installation of the Inquisition in 1515, but only after his death in 1521 did Pope Paul III acquiesce. At its head stood a _Grande Inquisidor_, or General Inquisitor, named by the Pope but selected by the Crown, and always from within the royal family. The Portuguese Inquisition principally focused upon the Sephardi Jews, whom the state forced to convert to Christianity. Spain had expelled its Sephardi population in 1492; many of these Spanish Jews left Spain for Portugal but eventually were subject to inquisition there as well.
 

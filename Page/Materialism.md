@@ -9,7 +9,7 @@ Philosophies contradictory to materialism or physicalism include idealism, plura
 
 Overview
 
-La_Mettrie,_L'homme_machine,_1748_Wellcome_L0015753.jpg exposes the first materialistic definition of the human soul in L'Homme Machine ]] Materialism belongs to the class of monist ontology. As such, it is different from ontological theories based on dualism or pluralism. For singular explanations of the phenomenal reality, materialism would be in contrast to idealism, neutral monism and spiritualism.
+exposes the first materialistic definition of the human soul in L'Homme Machine ]] Materialism belongs to the class of monist ontology. As such, it is different from ontological theories based on dualism or pluralism. For singular explanations of the phenomenal reality, materialism would be in contrast to idealism, neutral monism and spiritualism.
 
 Despite the large number of philosophical schools and subtle nuances between many,[1][2][3] all philosophies are said to fall into one of two primary categories, which are defined in contrast to each other: idealism and materialism. The basic proposition of these two categories pertains to the nature of reality—the primary distinction between them is the way they answer two fundamental questions: "what does reality consist of?" and "how does it originate?" To idealists, spirit or mind or the objects of mind (ideas) are primary, and matter secondary. To materialists, matter is primary, and mind or spirit or ideas are secondary—the product of matter acting upon matter.[4]
 

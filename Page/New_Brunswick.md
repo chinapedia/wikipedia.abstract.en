@@ -31,7 +31,7 @@ The British eventually prevailed, leading to the 1755 Expulsion of the Acadians.
 
 British colony
 
-Henry_Sandham_-_The_Coming_of_the_Loyalists.jpg, showing a romanticised view of the Loyalists' arrival in New Brunswick]] Present-day New Brunswick became part of the colony of Nova Scotia. Hostilities ended with the Treaty of Paris in 1763, and Acadians returning from exile discovered several thousand immigrants, mostly from New England, on their former lands. Some settled around Memramcook and along the Saint John River.[7]
+, showing a romanticised view of the Loyalists' arrival in New Brunswick]] Present-day New Brunswick became part of the colony of Nova Scotia. Hostilities ended with the Treaty of Paris in 1763, and Acadians returning from exile discovered several thousand immigrants, mostly from New England, on their former lands. Some settled around Memramcook and along the Saint John River.[7]
 
 Settlement was initially slow. Pennsylvanian immigrants founded Moncton in 1766, and English settlers from Yorkshire arrived in the Sackville area.
 
@@ -64,7 +64,7 @@ The flag of New Brunswick, based on the coat of arms, was adopted in 1965. The c
 
 Geography
 
-New_Brunswick_topographic_map-fr.svg Roughly square, New Brunswick is bordered on the north by Quebec, on the east by the Atlantic Ocean, on the south by the Bay of Fundy, and on the west by the US state of Maine. The southeast corner of the province is connected to Nova Scotia at the isthmus of Chignecto.
+Roughly square, New Brunswick is bordered on the north by Quebec, on the east by the Atlantic Ocean, on the south by the Bay of Fundy, and on the west by the US state of Maine. The southeast corner of the province is connected to Nova Scotia at the isthmus of Chignecto.
 
 Glaciation has left much of New Brunswick's uplands with only shallow, acidic soils which have discouraged settlement, but are home to enormous forests.[24]
 
@@ -78,7 +78,7 @@ New Brunswick and the rest of the Maritime Peninsula was covered by thick layers
 
 Flora and fauna
 
-Lynx_Canadensis.jpg Most of New Brunswick[27] is forested with secondary forest or tertiary forest. At the start of European settlement, the Maritimes were covered from coast to coast by a forest of mature trees, giants by today's standards. Today less than one per cent of old-growth Acadian forest remains,[28] and the World Wide Fund for Nature lists the Acadian Forest as endangered.[29] Following the frequent large scale disturbances caused by settlement and timber harvesting, the Acadian forest is not growing back as it was, but is subject to borealization. This means that exposure-resistant species that are well adapted to the frequent large scale disturbances common in the boreal forest are increasingly abundant. These include jack pine, balsam fir, black spruce, white birch, and poplar.[30]
+Most of New Brunswick[27] is forested with secondary forest or tertiary forest. At the start of European settlement, the Maritimes were covered from coast to coast by a forest of mature trees, giants by today's standards. Today less than one per cent of old-growth Acadian forest remains,[28] and the World Wide Fund for Nature lists the Acadian Forest as endangered.[29] Following the frequent large scale disturbances caused by settlement and timber harvesting, the Acadian forest is not growing back as it was, but is subject to borealization. This means that exposure-resistant species that are well adapted to the frequent large scale disturbances common in the boreal forest are increasingly abundant. These include jack pine, balsam fir, black spruce, white birch, and poplar.[30]
 
 Forest ecosystems support large carnivores such as the bobcat, Canada lynx, and black bear, and the large herbivores moose and white-tailed deer.
 
@@ -96,7 +96,7 @@ Today the sea level is about 30 cm higher than it was 100 years ago, and is exp
 
 Geology
 
-Bay_of_Fundy_rock_formations.jpg rock formations]] Bedrock types range from 1 billion to 200 million years old.[35] Much of the bedrock in the west and north derives from ocean deposits in the Ordovician, which were then subject to folding and igneous intrusion, and were eventually covered with lava during the Paleozoic, peaking during the Acadian orogeny.[36]
+rock formations]] Bedrock types range from 1 billion to 200 million years old.[35] Much of the bedrock in the west and north derives from ocean deposits in the Ordovician, which were then subject to folding and igneous intrusion, and were eventually covered with lava during the Paleozoic, peaking during the Acadian orogeny.[36]
 
 During the Carboniferous era, about 340 million years ago, New Brunswick was in the Maritimes Basin, a sedimentary basin near the equator. Sediments, brought by rivers from surrounding highlands, accumulated there and after being compressed, producing the Albert oil shales of southern New Brunswick. Eventually sea water from the Panthalassic Ocean invaded the basin, forming the Windsor Sea. Once this receded, conglomerates, sandstones, and shales accumulated. The rust colour of these was caused by the oxidation of iron in the beds between wet and dry periods.[37] Such late carboniferous rock formed the Hopewell Rocks, which have been shaped by the extreme tidal range of the Bay of Fundy.
 
@@ -105,13 +105,13 @@ In the early Triassic, as Pangea drifted north it was rent apart, forming the ri
 
 People
 
-Partridge_Island_Lighthouse,_Irish_immigration_to_Saint_John,_NB.jpg welcomed immigrants and refugees into Saint John Harbour from around the world and was North America's first quarantine station.]] The four Atlantic Provinces are Canada's least populated, with New Brunswick is the third least populous at 747,101 in 2016. The Atlantic provinces also have higher rural populations. New Brunswick was largely rural until 1951 since when the rural urban split has been roughly even.[39] Population density in the Maritimes is above average among Canadian provinces, which reflects their small size and the fact that they do not possess large unpopulated hinterlands, as do the other seven provinces and three territories.
+welcomed immigrants and refugees into Saint John Harbour from around the world and was North America's first quarantine station.]] The four Atlantic Provinces are Canada's least populated, with New Brunswick is the third least populous at 747,101 in 2016. The Atlantic provinces also have higher rural populations. New Brunswick was largely rural until 1951 since when the rural urban split has been roughly even.[39] Population density in the Maritimes is above average among Canadian provinces, which reflects their small size and the fact that they do not possess large unpopulated hinterlands, as do the other seven provinces and three territories.
 
 New Brunswick's 107 municipalities[40] cover of the province's land mass but are home to of its population. The three major urban areas are in the south of the province and are Greater Moncton, population 126,424, Greater Saint John, population 122,389, and Greater Fredericton, population 85,688.
 
 Ethnicity and language
 
-Bienvenue_au_Nouveau-Brunswick.jpg In the 2001 census, the most commonly reported ethnicities were British and Irish 60%, French Canadian or Acadian 31%, other European 7%, First Nations 3%, Asian Canadian 2%. Each person could choose more than one ethnicity.[41]
+In the 2001 census, the most commonly reported ethnicities were British and Irish 60%, French Canadian or Acadian 31%, other European 7%, First Nations 3%, Asian Canadian 2%. Each person could choose more than one ethnicity.[41]
 
 According to the Canadian Constitution, both English and French are the official languages of New Brunswick,[42] making it the only officially bilingual province. Anglophone New Brunswickers make up roughly two-thirds of the population, with about one-third being Francophone. Recently there has been growth in the numbers of people reporting themselves as bilingual, with 34% reporting that they speak both English and French. This reflects a trend across Canada.[43]
 
@@ -172,7 +172,7 @@ Publicly-owned NB Power operates 13 of New Brunswick's generating stations, deri
 
 Government
 
-New_Brunswick_Legislative_Assembly_January_2011.jpg, seat of New Brunswick Government since 1882]]Under Canadian federalism, power is divided between federal and provincial governments. Among areas under federal jurisdiction are citizenship, foreign affairs, national defence, fisheries, criminal law, Indian policies, and many others. Provincial jurisdiction covers public lands, health, education, and local government, among other things. Jurisdiction is shared for immigration, pensions, agriculture, and welfare.[54]
+, seat of New Brunswick Government since 1882]]Under Canadian federalism, power is divided between federal and provincial governments. Among areas under federal jurisdiction are citizenship, foreign affairs, national defence, fisheries, criminal law, Indian policies, and many others. Provincial jurisdiction covers public lands, health, education, and local government, among other things. Jurisdiction is shared for immigration, pensions, agriculture, and welfare.[54]
 
 The parliamentary system of government is modelled on the British Westminster system. Forty-nine representatives, nearly always members of political parties, are elected to the Legislative Assembly of New Brunswick. The head of government is the Premier of New Brunswick, normally the leader of the party or coalition with the most seats in the legislative assembly. Governance is handled by the executive council (cabinet), with about 32 ministries.[55]
 
@@ -191,8 +191,6 @@ The Court of Appeal of New Brunswick is the highest provincial court. It hears a
 The system consists of eight Judicial Districts, loosely based on the counties.[57] The Chief Justice of New Brunswick serves at the apex of this court structure.
 
 Administrative divisions
-
-Administrative areas of New Brunswick:
 
 Ninety-two per cent of the land in the province, inhabited by about 35% of the population, is under provincial administration and has no local, elected representation. The 51% of the province that is Crown land is administered by the Department of Energy and Resource Development.
 
@@ -221,7 +219,7 @@ Culture
 
 Education
 
-UNB_OldArtsBuilding.JPG on the University of New Brunswick Fredericton campus, currently the oldest university building still in use in Canada]] Public education in the province is administered by the NB Department of Education. New Brunswick has a parallel system of Anglophone and Francophone public schools. There are also secular and religious private schools in the province, such as the Moncton Flight College.
+on the University of New Brunswick Fredericton campus, currently the oldest university building still in use in Canada]] Public education in the province is administered by the NB Department of Education. New Brunswick has a parallel system of Anglophone and Francophone public schools. There are also secular and religious private schools in the province, such as the Moncton Flight College.
 
 The New Brunswick Community College system has campuses in all regions of the province.
 
@@ -243,7 +241,7 @@ Music of New Brunswick includes artists such as Henry Burr, Roch Voisine, Lenny 
 
 Performing arts, events, and festivals
 
-Imperial_Theatre,_Saint_John(IMG_9955).JPG Symphony New Brunswick based in Saint John and the Atlantic Ballet Theatre of Canada (based in Moncton), tours nationally and internationally. Theatre New Brunswick (based in Fredericton), tours plays around the province. Canadian playwright Norm Foster saw his early works premiere at TNB. Other live theatre troops include the Théatre populaire d'Acadie in Caraquet, and Live Bait Theatre in Sackville. The refurbished Imperial and Capitol Theatres are found in Saint John and Moncton, respectively; the more modern Playhouse is in Fredericton.
+Symphony New Brunswick based in Saint John and the Atlantic Ballet Theatre of Canada (based in Moncton), tours nationally and internationally. Theatre New Brunswick (based in Fredericton), tours plays around the province. Canadian playwright Norm Foster saw his early works premiere at TNB. Other live theatre troops include the Théatre populaire d'Acadie in Caraquet, and Live Bait Theatre in Sackville. The refurbished Imperial and Capitol Theatres are found in Saint John and Moncton, respectively; the more modern Playhouse is in Fredericton.
 
 Media
 

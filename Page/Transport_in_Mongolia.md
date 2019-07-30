@@ -1,9 +1,9 @@
-Mongol_cable_ferry.jpg across the Selenge river, in Khövsgöl aimag]] The TRANSPORTATION SYSTEM in Mongolia consists of a network of railways, roads, waterways, and airports.
+across the Selenge river, in Khövsgöl aimag]] The TRANSPORTATION SYSTEM in Mongolia consists of a network of railways, roads, waterways, and airports.
 
 
 Railways
 
-Zamyn_Uud_traders.jpg station, Dornogovi aimag]] The Trans-Mongolian Railway connects the Trans-Siberian Railway from Ulan Ude in Russia to Erenhot and Beijing in China through the capital Ulaanbaatar. The Mongolian section of this line runs for 1110 km.[1] A spur line connects Darkhan to the copper mines of Erdenet; another spur line connects Ulaanbaatar with the coal mines of Baganuur.
+station, Dornogovi aimag]] The Trans-Mongolian Railway connects the Trans-Siberian Railway from Ulan Ude in Russia to Erenhot and Beijing in China through the capital Ulaanbaatar. The Mongolian section of this line runs for 1110 km.[1] A spur line connects Darkhan to the copper mines of Erdenet; another spur line connects Ulaanbaatar with the coal mines of Baganuur.
 
 A separate railway line is in the east of the country between Choibalsan and the Trans-Siberian at Borzya; however, that line is closed to passengers beyond the Mongolian town of Chuluunkhoroot.[2] For domestic transport, daily trains run from Ulaanbaatar to Darkhan, Sukhbaatar, and Erdenet, as well as Zamyn-Üüd, Choir and Sainshand. Mongolia uses the (Russian gauge) track system. The total length of the system 1,810 km.[3] In 2007, rail transport carried 93% of Mongolian freight and 43% of passenger turnover (in tons*km and passenger*km, respectively).[4]
 
@@ -33,8 +33,6 @@ Mongolia has 580 km of waterways, but only Lake Khövsgöl has ever been heavil
 
 
 Air transportation
-
-MIAT_Mongolian_Airlines_Boeing_767-300ER_JU-1011_SVO_Jan_2012.png Aircrafts_of_two_Mongolian_domestic_airlines_in_ULN.JPG
 
 As of 2012, most airports of 21 aimag centers of Mongolia have paved runways. Those closest to Ulaanbaatar lack scheduled air service.
 

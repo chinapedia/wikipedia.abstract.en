@@ -76,7 +76,7 @@ Frequently used slang also have become conventionalised into memetic "unit[s] of
 
 Around the world
 
-Grass_Mud_Horse_Seal.svg. This is a satire of Chinese Internet censorship. See Grass Mud Horse.]]
+. This is a satire of Chinese Internet censorship. See Grass Mud Horse.]]
 
 The Internet has helped people from all over the world to become connected to one another, enabling "global" relationships to be formed.[66] As such, it is important for the various types of slang used online to be recognizable for everyone. It is also important to do so because of how other languages are quickly catching up with English on the Internet, following the increase in Internet usage in predominantly non-English speaking countries. In fact, as of May 31, 2011, only approximately 27% of the online population is made up of English speakers.[67]
 

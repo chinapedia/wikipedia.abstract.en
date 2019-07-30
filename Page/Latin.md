@@ -9,8 +9,6 @@ Latin is a highly inflected language, with three distinct genders, up to seven n
 
 History
 
-Linguistic_Landscape_of_Central_Italy.png
-
 A number of historical phases of the language have been recognized, each distinguished by subtle differences in vocabulary, usage, spelling, morphology, and syntax. There are no hard and fast rules of classification; different scholars emphasize different features. As a result, the list has variants, as well as alternative names.
 
 In addition to the historical phases, Ecclesiastical Latin refers to the styles used by the writers of the Roman Catholic Church from Late Antiquity onward, as well as by Protestant scholars.
@@ -19,7 +17,7 @@ After the Western Roman Empire fell in 476, and Germanic kingdoms took its place
 
 Old Latin
 
-Lapis-niger.jpg, probably the oldest extant Latin inscription, from Rome, c. 600 BC during the semi-legendary Roman Kingdom]]
+, probably the oldest extant Latin inscription, from Rome, c. 600 BC during the semi-legendary Roman Kingdom]]
 
 The earliest known form of Latin is Old Latin, which was spoken from the Roman Kingdom to the later part of the Roman Republic period. It is attested both in inscriptions and in some of the earliest extant Latin literary works, such as the comedies of Plautus and Terence. The Latin alphabet was devised from the Etruscan alphabet. The writing later changed from what was initially either a right-to-left or a boustrophedon[3][4] script to what ultimately became a strictly left-to-right script.[5]
 
@@ -39,13 +37,13 @@ Vulgar Latin began to diverge into distinct languages by the 9th century at the 
 
 Medieval Latin
 
-Calligraphy.malmesbury.bible.arp.jpg from 1407.]] Medieval Latin is the written Latin in use during that portion of the postclassical period when no corresponding Latin vernacular existed. The spoken language had developed into the various incipient Romance languages; however, in the educated and official world Latin continued without its natural spoken base. Moreover, this Latin spread into lands that had never spoken Latin, such as the Germanic and Slavic nations. It became useful for international communication between the member states of the Holy Roman Empire and its allies.
+from 1407.]] Medieval Latin is the written Latin in use during that portion of the postclassical period when no corresponding Latin vernacular existed. The spoken language had developed into the various incipient Romance languages; however, in the educated and official world Latin continued without its natural spoken base. Moreover, this Latin spread into lands that had never spoken Latin, such as the Germanic and Slavic nations. It became useful for international communication between the member states of the Holy Roman Empire and its allies.
 
 Without the institutions of the Roman empire that had supported its uniformity, medieval Latin lost its linguistic cohesion: for example, in classical Latin _sum_ and _eram_ are used as auxiliary verbs in the perfect and pluperfect passive, which are compound tenses. Medieval Latin might use _fui_ and _fueram_ instead.[12] Furthermore, the meanings of many words have been changed and new vocabularies have been introduced from the vernacular. Identifiable individual styles of classically incorrect Latin prevail.[13]
 
 Renaissance Latin
 
-Incunabula_distribution_by_language.png) were in Latin, with the vernacular languages playing only a secondary role.[14]]]
+) were in Latin, with the vernacular languages playing only a secondary role.[14]]]
 
 The Renaissance briefly reinforced the position of Latin as a spoken language by its adoption by the Renaissance Humanists. Often led by members of the clergy, they were shocked by the accelerated dismantling of the vestiges of the classical world and the rapid loss of its literature. They strove to preserve what they could and restore Latin to what it had been and introduced the practice of producing revised editions of the literary works that remained by comparing surviving manuscripts. By no later than the 15th century they had replaced Medieval Latin with versions supported by the scholars of the rising universities, who attempted, by scholarship, to discover what the classical language had been.
 
@@ -55,13 +53,13 @@ During the Early Modern Age, Latin still was the most important language of cult
 
 Contemporary Latin
 
-Wallsend_platfom_2_02.jpg are in English and Latin as a tribute to Wallsend's role as one of the outposts of the Roman Empire.]]
+are in English and Latin as a tribute to Wallsend's role as one of the outposts of the Roman Empire.]]
 
 The largest organisation that retains Latin in official and quasi-official contexts is the Catholic Church. Latin remains the language of the Roman Rite; the Tridentine Mass is celebrated in Latin. Although the Mass of Paul VI is usually celebrated in the local vernacular language, it can be and often is said in Latin, in part or in whole, especially at multilingual gatherings. It is the official language of the Holy See, the primary language of its public journal, the , and the working language of the Roman Rota. Vatican City is also home to the world's only automatic teller machine that gives instructions in Latin.[15] In the pontifical universities postgraduate courses of Canon law are taught in Latin, and papers are written in the same language.
 
 In the Anglican Church, after the publication of the _Book of Common Prayer_ of 1559, a Latin edition was published in 1560 for use in universities such as Oxford and the leading "public schools" (English private academies), where the liturgy was still permitted to be conducted in Latin.[16] There have been several Latin translations since, including a Latin edition of the 1979 USA Anglican Book of Common Prayer.[17]
 
-Former_logo_of_the_European_Council_and_Council_of_the_European_Union_(2009).svg has adopted Latin names in the logos of some of its institutions for the sake of linguistic compromise, an "ecumenical nationalism" common to most of the continent and as a sign of the continent's heritage (such as the EU Council: )]]
+has adopted Latin names in the logos of some of its institutions for the sake of linguistic compromise, an "ecumenical nationalism" common to most of the continent and as a sign of the continent's heritage (such as the EU Council: )]]
 
 Switzerland has adopted the country's Latin short name on coins and stamps, since there is no room to use all of the nation's four official languages. For a similar reason, it adopted the international vehicle and internet code _CH_, which stands for , the country's full Latin name.
 
@@ -90,7 +88,7 @@ Some inscriptions have been published in an internationally agreed, monumental, 
 
 Literature
 
-Commentarii_de_Bello_Gallico.jpg's is one of the most famous classical Latin texts of the Golden Age of Latin. The unvarnished, journalistic style of this patrician general has long been taught as a model of the urbane Latin officially spoken and written in the floruit of the Roman Republic.]] The works of several hundred ancient authors who wrote in Latin have survived in whole or in part, in substantial works or in fragments to be analyzed in philology. They are in part the subject matter of the field of classics. Their works were published in manuscript form before the invention of printing and are now published in carefully annotated printed editions, such as the Loeb Classical Library, published by Harvard University Press, or the Oxford Classical Texts, published by Oxford University Press.
+'s is one of the most famous classical Latin texts of the Golden Age of Latin. The unvarnished, journalistic style of this patrician general has long been taught as a model of the urbane Latin officially spoken and written in the floruit of the Roman Republic.]] The works of several hundred ancient authors who wrote in Latin have survived in whole or in part, in substantial works or in fragments to be analyzed in philology. They are in part the subject matter of the field of classics. Their works were published in manuscript form before the invention of printing and are now published in carefully annotated printed editions, such as the Loeb Classical Library, published by Harvard University Press, or the Oxford Classical Texts, published by Oxford University Press.
 
 Latin translations of modern literature such as _The Hobbit_, _Treasure Island_, _Robinson Crusoe_, _Paddington Bear_, _Winnie the Pooh_, _The Adventures of Tintin_, _Asterix_, _Harry Potter_, , _Max and Moritz_, _How the Grinch Stole Christmas!_, _The Cat in the Hat_, and a book of fairy tales, "", are intended to garner popular interest in the language. Additional resources include phrasebooks and resources for rendering everyday phrases and concepts into Latin, such as Meissner's Latin Phrasebook.
 
@@ -106,13 +104,13 @@ The Logudorese dialect of the Sardinian language is the closest contemporary lan
 
 Education
 
-Latin_dictionary.jpg.]]
+.]]
 
 Throughout European history, an education in the classics was considered crucial for those who wished to join literate circles. Instruction in Latin is an essential aspect. In today's world, a large number of Latin students in the US learn from _Wheelock's Latin: The Classic Introductory Latin Course, Based on Ancient Authors_. This book, first published in 1956,[26] was written by Frederic M. Wheelock, who received a PhD from Harvard University. _Wheelock's Latin_ has become the standard text for many American introductory Latin courses.
 
 The Living Latin movement attempts to teach Latin in the same way that living languages are taught, as a means of both spoken and written communication. It is available at the Vatican and at some institutions in the US, such as the University of Kentucky and Iowa State University. The British Cambridge University Press is a major supplier of Latin textbooks for all levels, such as the Cambridge Latin Course series. It has also published a subseries of children's texts in Latin by Bell & Forte, which recounts the adventures of a mouse called Minimus.
 
-Latin_and_Ancient_Greek_Language_-_Culture_-_Linguistics_at_Duke_University_in_2014.jpg, 2014.]]
+, 2014.]]
 
 In the United Kingdom, the Classical Association encourages the study of antiquity through various means, such as publications and grants. The University of Cambridge,[27] the Open University,[28] a number of prestigious independent schools, for example Eton, Harrow, Haberdashers' Aske's Boys' School, Merchant Taylor’s School, Via Facilis and Rugby,[29] a London-based charity, run Latin courses. In the United States and in Canada, the American Classical League supports every effort to further the study of classics. Its subsidiaries include the National Junior Classical League (with more than 50,000 members), which encourages high school students to pursue the study of Latin, and the National Senior Classical League, which encourages students to continue their study of the classics into college. The league also sponsors the National Latin Exam. Classicist Mary Beard wrote in _The Times Literary Supplement_ in 2006 that the reason for learning Latin is because of what was written in it.[30]
 
@@ -271,7 +269,7 @@ In Vulgar Latin and the Romance languages, merged with . During the Classical La
 
 Orthography
 
-Duenos_inscription.jpg, from the 6th century BC, is one of the earliest known Old Latin texts.]]
+, from the 6th century BC, is one of the earliest known Old Latin texts.]]
 
 Latin was written in the Latin alphabet, derived from the Old Italic script, which was in turn drawn from the Greek alphabet and ultimately the Phoenician alphabet.[46] This alphabet has continued to be used over the centuries as the script for the Romance, Celtic, Germanic, Baltic, Finnic, and many Slavic languages (Polish, Slovak, Slovene, Croatian, Bosnian and Czech); and it has been adopted by many languages around the world, including Vietnamese, the Austronesian languages, many Turkic languages, and most languages in sub-Saharan Africa, the Americas, and Oceania, making it by far the world's single most widely used writing system.
 
@@ -299,7 +297,7 @@ or with apices
 
     Lúgéte, ó Venerés Cupídinésque.
 
-Hocgracili.jpg, the oldest surviving handwritten documents in Britain.]]
+, the oldest surviving handwritten documents in Britain.]]
 
 The Roman cursive script is commonly found on the many wax tablets excavated at sites such as forts, an especially extensive set having been discovered at Vindolanda on Hadrian's Wall in Britain. Most notable is the fact that while most of the Vindolanda tablets show spaces between words, spaces were avoided in monumental inscriptions from that era.
 

@@ -1,4 +1,4 @@
-Class1_Oostende.jpg OFFSHORE POWERBOAT RACING is a type of racing by ocean-going powerboats, typically point-to-point racing.
+OFFSHORE POWERBOAT RACING is a type of racing by ocean-going powerboats, typically point-to-point racing.
 
 In most of the world, offshore powerboat racing is led by the Union Internationale Motonautique (UIM) regulated Class 1 and Powerboat GPS (formerly known as Powerboat P1).[1] In the USA, offshore powerboat racing is led by the APBA/UIM and consists of races hosted by Powerboat P1 and OPA.
 

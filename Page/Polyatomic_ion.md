@@ -1,4 +1,4 @@
-Nitrate-ion-elpot.png map of the nitrate ion (NO₃^(−)). Areas coloured translucent red, around the outside of the red oxygen atoms themselves, signify the regions of most negative electrostatic potential]]
+map of the nitrate ion (NO₃^(−)). Areas coloured translucent red, around the outside of the red oxygen atoms themselves, signify the regions of most negative electrostatic potential]]
 
 A POLYATOMIC ION, also known as a MOLECULAR ION, is a charged chemical species (ion) composed of two or more atoms covalently bonded or of a metal complex that can be considered to be acting as a single unit. The prefix _poly-_ means "many," in Greek, but even ions of two atoms are commonly referred to as polyatomic. In older literature, a polyatomic ion is also referred to as a RADICAL, and less commonly, as a RADICAL GROUP. In contemporary usage, the term radical refers to free radicals that are (not necessarily charged) species with an unpaired electron.
 
@@ -15,15 +15,15 @@ Note that many of the common polyatomic anions are conjugate bases of acids deri
 
 The second rule looks at the number of oxygens in an ion. Consider the chlorine oxoanion family:
 
-+-----------------+-------------------------+-----------------------------+-------------------------+-------------------------+----------------------------+
-| oxidation state | −1                      | +1                          | +3                      | +5                      | +7                         |
-+=================+=========================+=============================+=========================+=========================+============================+
-| anion name      | chloride                | hypochlorite                | chlorite                | chlorate                | perchlorate                |
-+-----------------+-------------------------+-----------------------------+-------------------------+-------------------------+----------------------------+
-| formula         |                         |                             |                         |                         |                            |
-+-----------------+-------------------------+-----------------------------+-------------------------+-------------------------+----------------------------+
-| structure       | Chloride-ion-3D-vdW.png | Hypochlorite-ion-3D-vdW.png | Chlorite-ion-3D-vdW.png | Chlorate-ion-3D-vdW.png | Perchlorate-ion-3D-vdW.png |
-+-----------------+-------------------------+-----------------------------+-------------------------+-------------------------+----------------------------+
++-----------------+----------+--------------+----------+----------+-------------+
+| oxidation state | −1       | +1           | +3       | +5       | +7          |
++=================+==========+==============+==========+==========+=============+
+| anion name      | chloride | hypochlorite | chlorite | chlorate | perchlorate |
++-----------------+----------+--------------+----------+----------+-------------+
+| formula         |          |              |          |          |             |
++-----------------+----------+--------------+----------+----------+-------------+
+| structure       |          |              |          |          |             |
++-----------------+----------+--------------+----------+----------+-------------+
 
 First, think of the _-ate_ ion as being the "base" name, in which case the addition of a _per-_ prefix adds an oxygen. Changing the _-ate_ suffix to _-ite_ will reduce the oxygens by one, and keeping the suffix _-ite_ and adding the prefix _hypo-_ reduces the number of oxygens by one more. In all situations, the charge is not affected. The naming pattern follows within many different oxyanion series based on a standard root for that particular series. The _-ite_ has one less oxygen than the _-ate_, but different _-ate_ anions might have different numbers of oxygen atoms.
 

@@ -1,4 +1,4 @@
-Steve_Reich2.jpg'' in 2006]]
+'' in 2006]]
 
 STEPHEN MICHAEL REICH ([1][2] born October 3, 1936) is an American composer who, along with La Monte Young, Terry Riley, and Philip Glass, pioneered minimal music in the mid to late 1960s.[3][4][5]
 

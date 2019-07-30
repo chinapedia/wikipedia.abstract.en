@@ -7,7 +7,7 @@ Old Prussians
 
 Before the 13th century, the territory was inhabited by the Old Prussians also called Baltic Prussians, a Baltic ethnic group that lived in Prussia (the area of the southeastern coastal region of the Baltic Sea neighbouring of the Baltic Sea around the Vistula Lagoon and the Curonian Lagoon). The territory later called Masuria was then known as Galindia and was probably a peripheral, deeply forested and lightly populated area. Its inhabitants spoke a language now known as Old Prussian and had their own mythology. Although a 19th-century German political entity bore their name, they were not Germans. They were converted to Roman Catholicism in the 13th century, after conquest by the Knights of the Teutonic Order.
 
-Prusy_historyczne.png]]
+]]
 
 Estimates range from about 170,000 to 220,000 Old Prussians living in the whole of Prussia around 1200.[2] The wilderness was their natural barrier against attack by would-be invaders. During the Northern Crusades of the early 13th century, the Old Prussians used this wide forest as a line of defence. They did so again against the Knights of the Teutonic Order, who had been invited to Poland by Konrad I of Masovia in 1226.[3] The order's goal was to convert the native population to Christianity and baptise it by force if necessary. In the subsequent conquest, which lasted over 50 years, the original population was nearly exterminated, particularly during the major Prussian rebellion of 1261–83.[4]
 
@@ -17,9 +17,9 @@ After the Order's acquisition of Prussia, Poles (or more specifically, Mazurs, t
 
 Ducal Prussia
 
-Święta_Lipka,_Bazylika_Nawiedzenia_NMP.jpg in Święta Lipka was consecrated by Jesuits in 1619. It was once the site of apparitions and miracles.]] The secularization of the Teutonic Order in Prussia and the conversion of Albert of Prussia to Lutheranism in 1525 brought Prussia including the later called Masuria area to Protestantism. The Polish language predominated due to the many immigrants from Mazovia, who additionally settled the eastern, till then virgin part of (later Masuria) in the 16th century. While the countryside was inhabited by Protestant Polish-speakers, who took refuge, the cities constituted German mixed with Polish-speaking population. The ancient Old Prussian language survived in parts of the countryside until the early 18th century.[8] Areas that had many Polish language speakers were known as the Polish Departments.[9]
+in Święta Lipka was consecrated by Jesuits in 1619. It was once the site of apparitions and miracles.]] The secularization of the Teutonic Order in Prussia and the conversion of Albert of Prussia to Lutheranism in 1525 brought Prussia including the later called Masuria area to Protestantism. The Polish language predominated due to the many immigrants from Mazovia, who additionally settled the eastern, till then virgin part of (later Masuria) in the 16th century. While the countryside was inhabited by Protestant Polish-speakers, who took refuge, the cities constituted German mixed with Polish-speaking population. The ancient Old Prussian language survived in parts of the countryside until the early 18th century.[8] Areas that had many Polish language speakers were known as the Polish Departments.[9]
 
-In 1656, during the Battle of Prostki, the forces of Polish-Lithuanian Commonwealth, including 2,000 Tatar raiders, beat the allied Swedish and Brandenburg army capturing Bogusław Radziwiłł. The war resulted in the destruction of most towns, 249 villages and settlements and 37 churches were destroyed. Over 50% of the population of southern Prussia (later Masuria) died within the years 1656–1657, 23,000 killed, another 80,000 died of diseases and famine, 3,400 people were enslaved.[10][11] From 1709–1711, in all of East Prussia between 200,000 and 245,000 out of 600,000 inhabitants died from the Black Death. in Masuria the death toll varied regionally, while 6,789 people died in the district of Rhein (Rhyn) only 677 died in Seehesten (Szestno). In Lötzen (Giżycko) 800 out of 919 people died.[12][13] Losses in population were compensated by migration of Protestant settlers or refugees from Scotland, Salzburg (expulsion of Protestants 1731), France (Huguenot refugees after the Edict of Fontainebleau in 1685), and especially from the Polish-Lithuanian Commonwealth, including Polish brethren expelled from Poland in 1657. The last group of refugees to emigrate to Masuria were the Russian Philipons in 1830, when King Frederick William III of Prussia granted them asylum.[14] Warmia_i_mazury.svg
+In 1656, during the Battle of Prostki, the forces of Polish-Lithuanian Commonwealth, including 2,000 Tatar raiders, beat the allied Swedish and Brandenburg army capturing Bogusław Radziwiłł. The war resulted in the destruction of most towns, 249 villages and settlements and 37 churches were destroyed. Over 50% of the population of southern Prussia (later Masuria) died within the years 1656–1657, 23,000 killed, another 80,000 died of diseases and famine, 3,400 people were enslaved.[10][11] From 1709–1711, in all of East Prussia between 200,000 and 245,000 out of 600,000 inhabitants died from the Black Death. in Masuria the death toll varied regionally, while 6,789 people died in the district of Rhein (Rhyn) only 677 died in Seehesten (Szestno). In Lötzen (Giżycko) 800 out of 919 people died.[12][13] Losses in population were compensated by migration of Protestant settlers or refugees from Scotland, Salzburg (expulsion of Protestants 1731), France (Huguenot refugees after the Edict of Fontainebleau in 1685), and especially from the Polish-Lithuanian Commonwealth, including Polish brethren expelled from Poland in 1657. The last group of refugees to emigrate to Masuria were the Russian Philipons in 1830, when King Frederick William III of Prussia granted them asylum.[14]
 
 Kingdom of Prussia
 
@@ -29,11 +29,11 @@ German Empire
 
 After the Unification of Germany into the German Empire in 1871, the Polish language was removed from schools in 1872, as part of Otto von Bismarck's Culture War. He also sought to eradicate the use of the Polish language and culture in the German Empire. After 1871 Masurians who expressed sympathy for Poland were deemed "national traitors" by German nationalists (this increased especially after 1918)[20] According to Stefan Berger after 1871 the Masurians in the German Empire were seen in a view that while acknowledging their "objective" Polishness (in terms of culture and language) they felt "subjectively" German and thus should be tightly integrated into German nation-state; Berger concludes that such the arguments of German nationalists were simply aimed at gaining as much territory as possible into German Reich.[21] During the period of German Empire the Germanisation policies in Masuria became more effective; children using Polish in playgrounds and classrooms were widely punished by corporal punishment, authorities tried to appoint Protestant pastors who would use German instead of Polish which resulted in protests of local population.[22] According to Jerzy Mazurek the native Polish-speaking population, like in other areas with Polish inhabitants, faced severe discrimination from Germanised local administration, in this climate first resistance defending the rights of rural population was formed; according to Jerzy Mazurek usually, teachers engaged in publishing Polish language newspapers.[23]
 
-Kętrzyn_Widok_ogólny_miasta_z_kościołem_Św._Katarzyny.JPG was named after Wojciech Kętrzyński in 1946 as part of the region's Polonisation. Its previous Polish name was "Rastembork"]]
+was named after Wojciech Kętrzyński in 1946 as part of the region's Polonisation. Its previous Polish name was "Rastembork"]]
 
 Despite anti-Polish policies, such Polish language newspapers as the _Pruski Przyjaciel Ludu_ (Prussian Friend of People) or the _Kalendarz Królewsko-Pruski Ewangelicki_ (Royal Prussian Evangelical Calendar) or bilingual journals like the _Oletzkoer Kreisblatt - Tygodnik Obwodu Oleckiego_ continued to be published in Masuria. In contrast to the Prussian-oriented periodicals, in the late 19th century such newspapers as _Przyjaciel Ludu Łecki_ and _Mazur_ were founded by members of the Warsaw-based _Komitet Centralny dla Śląska, Kaszub i Mazur_ (Central Committee for Silesia, Kashubia and Masuria), influenced by Polish politicians like Antoni Osuchowski or Juliusz Bursche, to strengthen the Polish identity in Masuria.[24] The _Gazeta Ludowa_ was published in Lyck in 1896–1902, with 2,500 copies in 1897 and the _Mazur_ in Ortelsburg after 1906 with 500 copies in 1908 and 2,000 prior to World War I.[25]
 
-Wojciech_Kętrzyński_1881.jpg was a historian who believed that ethnic Masurs are closely related to Poles and emphasized Polish claims on the Masuria region]]
+was a historian who believed that ethnic Masurs are closely related to Poles and emphasized Polish claims on the Masuria region]]
 
 Polish activists started to regard Masurians as "Polish brothers" after Wojciech Kętrzyński had published his pamphlet _O Mazurach_ in 1872[26] and Polish activists engaged in active self-help against repressions by German state[27] Kętrzyński fought against attempts to Germanise Masuria[28] The attempts to create a Masurian Polish national consciousness, largely originating from nationalist circles of Provinz Posen, however faced the resistance of the Masurians, who, despite having similar folk traditions and linguistics to Poles, regarded themselves Prussians and later Germans.[29][30] and were loyal to the Hohenzollern dynasty, the Prussian and German state.[31][32][33][34] After World War I the editor of the Polish language _Mazur_ described the Masurians as "not nationally conscious, on the contrary, the most loyal subjects of the Prussian king".[35] However, a minority of Masurians did exist which expressed Polish identity[36] After 1871 there appeared resistance among the Masurians towards Germanisation efforts, the so-called Gromadki movement was formed which supported use of Polish language and came into conflict with German authorities; while most of its members viewed themselves as loyal to Prussian state, a part of them joined the Pro-Polish faction of Masurians.[37] German actions like Kulturkampf, the programme of Germanisation started to unite and mobilise Polish people in Polish inhabited territories held by Germany including Masuria[38] A Polish-oriented party, the _Mazurska Partia Ludowa_ ("People's Party of Masuria"), was founded in 1897. The eastern area of German Empire was systematically Germanised with changing of names and public signs, and the German state fostered cultural imperialism, in addition to giving financial and other support to German farmers, officials and teachers to settle in the east.[39]
 
@@ -41,7 +41,7 @@ The German authorities in their efforts of Germanisation tried to claim the Masu
 
 Throughout industrialisation in the late 19th century about 10 percent of the Masurian populace emigrated to the Ruhr Area, where about 180,000 Masurians lived in 1914. Wattenscheid, Wanne and Gelsenkirchen were the centres of Masurian emigration and Gelsenkirchen-Schalke was even called Klein (little)-Ortelsburg before 1914. Masurian newspapers like the _Przyjaciel Ewangeliczny_ and the _Gazeta Polska dla Ludu staropruskiego w Westfalii i na Mazurach_ but also the German language _Altpreußische Zeitung_ were published.[43]
 
-Arys_Orzysz_011.jpg (Orzysz)]]
+(Orzysz)]]
 
 During World War I, the Battle of Tannenberg and the First and Second Battle of the Masurian Lakes between Imperial Germany and the Russian Empire took place within the borders of Masuria in 1914. After the war, the League of Nations held the East Prussian plebiscite on 11 July 1920 to determine if the people of the southern districts of East Prussia wanted to remain within East Prussia or to join the Second Polish Republic. The German side terrorised the local population before the plebiscite using violence, Polish organisations and activists were harassed by German militias, and those actions included attacks and murder of Polish activists;[44] Masurs who supported voting for Poland were singled out and subjected to terror and repressions.[45]
 
@@ -51,13 +51,13 @@ The results determined that 99.32% of the voters in Masuria proper chose to rema
 
 Polish Masuria — the Działdowo county
 
-Bundesarchiv_Bild_137-070980,_Soldau,_Umsiedlung_Litauendeutscher.jpg settlers from occupied Lithuania arriving in Działdowo (Soldau), 1941]]
+settlers from occupied Lithuania arriving in Działdowo (Soldau), 1941]]
 
 The region of Działdowo (Soldau), where according to the official German census of 1910 ethnic Germans formed a minority of 37.3%,[57] was excluded from the plebiscite and became part of Poland. This was reasoned with placing the railway connection between Warsaw and Danzig (Gdańsk), of vital importance to Poland as it connected central Poland with its seacoast, completely under Polish sovereignty. Działdowo itself counted about 24,000 people of which 18,000 were Masurians.[58]
 
 According to the municipal administration of Rybno, after World War I Poles in Działdowo believed that they will be quickly joined with Poland,[59] they organised secret gatherings during which the issue of rejoining Polish state with help of Polish military was discussed.[60] According to the Rybno administration most active Poles in that subregion included Jóżwiakowscy, Wojnowscy, Grzeszczowscy families working under the guidance of politician Leon Wojnowski who protested German attempts to remain Działdowo a part of Germany after the war; other local pro-Polish activists were Alfred Wellenger, Paczyński, Tadeusz Bogdański, Jóźwiakowski.[61][62][63]
 
-Działdowo_widok_z_lotu_ptaka.jpg]]
+]]
 
 The historian Andreas Kossert describes that the incorporation happened despite protests of the local populace, the municipal authorities and the German Government,[64] According to Kossert 6,000 inhabitants of the region soon left the area.[65]
 
@@ -69,7 +69,7 @@ With the start of the German war against Poland on 1 September 1939, the German 
 
 Weimar Republic and Nazi Germany
 
-Bundesarchiv_B_145_Bild-P017317,_Ostpreußen,_Masurisches_Bauernhaus.jpg, 1931: Ethnic Masurian children and Masurian farmhouse near a lake]] Masuria was the only region of Germany directly affected by the battles of World War I. Damaged towns and villages were reconstructed with the aid of several twin towns from western Germany like Cologne to Neidenburg, Frankfurt to Lötzen and even Vienna to Ortelsburg. However Masuria was still largely agrarian-oriented and suffered from the economic decline after World War I, additionally badly affected by the creation of the Polish Corridor, which raised freight costs to the traditional markets in Germany.[75] The later implemented Osthilfe had only a minor influence on Masuria as it privileged larger estates, while Masurian farms were generally small.[76]
+, 1931: Ethnic Masurian children and Masurian farmhouse near a lake]] Masuria was the only region of Germany directly affected by the battles of World War I. Damaged towns and villages were reconstructed with the aid of several twin towns from western Germany like Cologne to Neidenburg, Frankfurt to Lötzen and even Vienna to Ortelsburg. However Masuria was still largely agrarian-oriented and suffered from the economic decline after World War I, additionally badly affected by the creation of the Polish Corridor, which raised freight costs to the traditional markets in Germany.[75] The later implemented Osthilfe had only a minor influence on Masuria as it privileged larger estates, while Masurian farms were generally small.[76]
 
 The interwar period was characterised by ongoing Germanisation policies, intensified especially under the Nazis.[77]
 
@@ -77,13 +77,13 @@ In the 1920s Masuria remained a heartland of conservatism with the German Nation
 
 In 1938, the Nazi government (1933–1945) changed thousands of toponyms (especially names of cities and villages) of Old Prussian and Polish origin to newly created German names; about 50% of the existing names were changed in 1938 alone,[88] despite resistance by the Prussian people, who continued to use their traditional place names.
 
-Räuchermaränen.jpg), 1920s]]
+), 1920s]]
 
 According to German author Andreas Kossert, Polish parties were financed and aided by the Polish government in Warsaw, and remained splintergroups without any political influence,[89] e.g. in the 1932 elections the Polish Party received 147 votes in Masuria proper.[90] According to Wojciech Wrzesiński (1963), the Polish organisations in Masuria had decided to lower their activity in order to escape acts of terror performed against Polish minority activists and organisations by Nazi activists.[91] Jerzy Lanc, a teacher and Polish national who had moved to Masuria in 1931 to establish a Polish school in Piassutten (Piasutno), died in his home of carbon monoxide poisoning,[92] most likely murdered by local German nationalists.[93][94][95][96][97]
 
 Before the war the Nazi German state sent undercover operatives to spy on Polish organisations and created lists of people that were to be executed or sent to concentration camps.[98] Information was gathered on who sent children to Polish schools, bought Polish press or took part in Polish ceremonies and organised repressions against these people were executed by Nazi militias.[99] Polish schools, printing presses and headquarters of Polish institutions were attacked as well as homes of the most active Poles; shops owned by Poles were vandalised or demolished.[100] Polish masses were dispersed, and Polish teachers were intimidated as members of the SS gathered under their locals performing songs like "Wenn das Polenblut vom Messer spritzt, dann geht’s noch mal so gut" ("When Polish blood spurts from the knife, everything will be better").[101]
 
-Masovias_99._Stiftungsfest.jpg), 1929]]
+), 1929]]
 
 The anti-Polish activities intensified in 1939.[102] Those Poles were most active in politics were evicted from their own homes, while Polish newspapers and cultural houses were closed down in the region.[103] Polish masses were banned between June and July in Warmia and Mazury.[104]
 
@@ -93,7 +93,7 @@ Directors of Polish schools and teachers were imprisoned, as was the staff of Po
 
 World War II
 
-Gierloz_Wilczy_Szaniec_53.jpg (Wolfsschanze), Adolf Hitler's first Eastern Front military headquarters where the 20 July assassination attempt occurred in 1944]] The Nazis believed that in future, the Masurs, as a separate non-German entity, would disappear, while those who would cling to their "foreigness" as one Nazi report mentioned, would be deported.[109] Local Jews were considered by the Nazis to be subhuman and were to be exterminated. The Nazi authorities also executed Polish activists in Masuria and those who remained alive were sent to concentration camps.[110] In August 1943 the Uderzeniowe Bataliony Kadrowe attacked the village of Mittenheide (Turośl) in southern Masuria[111]
+(Wolfsschanze), Adolf Hitler's first Eastern Front military headquarters where the 20 July assassination attempt occurred in 1944]] The Nazis believed that in future, the Masurs, as a separate non-German entity, would disappear, while those who would cling to their "foreigness" as one Nazi report mentioned, would be deported.[109] Local Jews were considered by the Nazis to be subhuman and were to be exterminated. The Nazi authorities also executed Polish activists in Masuria and those who remained alive were sent to concentration camps.[110] In August 1943 the Uderzeniowe Bataliony Kadrowe attacked the village of Mittenheide (Turośl) in southern Masuria[111]
 
 In 1943 "Związek Mazurski" was reactivated secretly by Masurian activists of the Polish Underground State in Warsaw and led by Karol Małłek.[112] Związek Mazurski opposed Nazi Germany and asked Polish authorities during the war to liquidate German property after victory over Nazi Germany to help in agricultural reform and settlement of Masurian population, Masurian iconoclasts opposed to Nazi Germany requested to remove German heritage sites "regardless of their cultural value".[113] Additionally a Masurian Institute was founded by Masurian activists in Radość near Warsaw in 1943[114]
 
@@ -101,7 +101,7 @@ In the final stages of World War II, Masuria was partially devastated by the ret
 
 Masuria after World War II
 
-Budynek_w_Parku_etnograficznym_w_Węgorzewie.jpg]] According to the Masurian Institute the Masurian members of resistance against Nazi Germany who survived the war, became active in 1945 in the region, working in Olsztyn in cooperation with new state authorities in administration, education and cultural affairs.[116] Absent established names in Polish for most of the towns of Mazuria, new names were determined to replace the German names of the towns.
+]] According to the Masurian Institute the Masurian members of resistance against Nazi Germany who survived the war, became active in 1945 in the region, working in Olsztyn in cooperation with new state authorities in administration, education and cultural affairs.[116] Absent established names in Polish for most of the towns of Mazuria, new names were determined to replace the German names of the towns.
 
 German author Andreas Kossert describes the post-war process of "national verification" as based on an ethnic racism which categorised the local populace according to their alleged ethnic background.[117] A Polish-sounding last name or a Polish-speaking ancestor was sufficient to be regarded as "autochthonous" Polish.[118] In October 1946 37,736 persons were "verified" as Polish citizens while 30,804 remained "unverified". A centre of such "unverified" Masurians was the district of Mrągowo (Sensburg), where in early 1946 out of 28,280 persons, 20,580 were "unverified", while in October, 16,385 still refused to adopt Polish citizenship.[119] However even those who complied with the often used pressure by Polish authorities were in fact treated as Germans because of their Lutheran faith and their often rudimentary knowledge of Polish. Names were "Polonised" and the usage of the German language in public was forbidden. In the late 1940s the pressure to sign the "verification documents" grew and in February 1949 the former chief of the stalinist secret Police (UB) of Łódź, Mieczysław Moczar, started the "Great verification" campaign. Many unverified Masurians were imprisoned and accused of pro-Nazi or pro-American propaganda, even former pro-Polish activists and inmates of Nazi concentration camps were jailed and tortured. After the end of this campaign in the district of Mrągowo (Sensburg) only 166 Masurians were still "unverified".[120]
 
@@ -109,7 +109,7 @@ In 1950 1,600 Masurians left the country and in 1951, 35,000 people from Masur
 
   "The history of the people of Warmia and Masuria is full of tragedy and suffering. Injustice, hardship and pain often pressed on the shoulders of Warmians and Masurians... Dislike, injustice and violence surrounds us...They (Warmians and Masurians) demand respect for their differentness, grown in the course of seven centuries and for freedom to maintain their traditions".[122]
 
-Pasym_Kościół_ewangelicko-augsburski_03.jpg church in Pasym]]
+church in Pasym]]
 
 Soon after the political reforms of 1956, Masurians were given the opportunity to join their families in West Germany. The majority (over 100 thousand) gradually left and after the improvement of Germano-Polish relations by the German Ostpolitik of the 1970s, 55,227 persons from Warmia and Masuria moved to West Germany in between 1971 and 1988,[123] today approximately between 5,000 and 6,000 Masurians still live in the area, about 50 percent of them members of the German minority in Poland, the remaining half is ethnic Polish.[124] As the Polish journalist Andrzej K. Wróblewski stated, the Polish post-war policy succeeded in what the Prussian state never managed: the creation of a German national consciousness among the Masurians.[125]
 
@@ -124,14 +124,14 @@ The Masurian Szczytno-Szymany International Airport gained international attenti
 
 Landscape
 
-Krutynia_splyw.jpg river]]
+river]]
 
 Masuria and the Masurian Lake District are known in Polish as _Kraina Tysiąca Jezior_ and in German as _Land der Tausend Seen_, meaning "land of a thousand lakes." These lakes were ground out of the land by glaciers during the Pleistocene ice age around 14,000 - 15,000 years ago, when ice covered northeastern Europe. From that period originates the horn of a reindeer found in the vicinity of Giżycko.[131] By 10,000 BC this ice started to melt. Great geological changes took place and even in the last 500 years the maps showing the lagoons and peninsulas on the Baltic Sea have greatly altered in appearance. More than in other parts of northern Poland, such as from Pomerania (from the River Oder to the River Vistula), this continuous stretch of lakes is popular among tourists. The terrain is rather hilly, with connecting lakes, rivers and streams. Forests account for about 30% of the area.[132][133] The northern part of Masuria is covered mostly by the broadleaved forest, while the southern part is dominated by pine and mixed forests.[134][135]
 
 
 Main towns
 
-Ełk-ul.Wojska_Polskiego.jpg]]
+]]
 
 +---------------+-------------+--------------+
 | -   Działdowo | -   Mrągowo | -   Ostróda  |
@@ -140,7 +140,7 @@ Ełk-ul.Wojska_Polskiego.jpg]]
 |               |             | -   Kętrzyn  |
 +---------------+-------------+--------------+
 
-Zamek_w_Ostródzie_2.jpg]] Port_w_Giżycku_22.jpg]] Szczytno_-_kościół_WNMP.jpg]] 647026_Nidzica_Ratusz_02.JPG]]
+]] ]] ]] ]]
 
 
 Notable people from Masuria

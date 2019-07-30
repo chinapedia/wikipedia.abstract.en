@@ -104,12 +104,12 @@ Novel punctuation marks
 
 In 1966, the French author Hervé Bazin proposed a series of six innovative punctuation marks in his book ("Let's pluck the bird", 1966).[20] These were:[21]
 
--   the "irony point" or "irony mark" (: point_d'ironie_(Hervé_Bazin).svg)
--   the "love point" (: point_d’amour_(Hervé_Bazin).svg)
--   the "conviction point" (: point_de_conviction_(Hervé_Bazin).svg)
--   the "authority point" (: point_d'autorité_(Hervé_Bazin).svg)
--   the "acclamation point" (: point_d'acclamation_(Hervé_Bazin).svg)
--   the "doubt point" (: point_de_doute_(Hervé_Bazin).svg)
+-   the "irony point" or "irony mark" (: )
+-   the "love point" (: )
+-   the "conviction point" (: )
+-   the "authority point" (: )
+-   the "acclamation point" (: )
+-   the "doubt point" (: )
 
 "Question comma", "exclamation comma"
 

@@ -1,4 +1,4 @@
-Stkitts-view-lookingatsea.jpg, 2005]] Nevis_Aerial.jpgs. Long Haul Bay is seen in the foreground.]] Nevis_Charlestown.jpg]] Nevis_2008.jpg]] Vance_Amory_International_Airport,_Nevis.JPG
+, 2005]] s. Long Haul Bay is seen in the foreground.]] ]] ]]
 
 NEVIS is a small island in the Caribbean Sea that forms part of the inner arc of the Leeward Islands chain of the West Indies. Nevis and the neighbouring island of Saint Kitts constitute one country: the Federation of Saint Kitts and Nevis. Nevis is located near the northern end of the Lesser Antilles archipelago, about 350 km east-southeast of Puerto Rico and 80 km west of Antigua. Its area is and the capital is Charlestown.
 
@@ -34,7 +34,7 @@ In spite of the Spanish claim, Nevis continued to be a popular stop-over point f
 
 On 30 August 1620 James VI and I of Scotland and England asserted sovereignty over Nevis by giving a Royal Patent for colonisation to the Earl of Carlisle. However, actual European settlement did not happen until 1628, when Anthony Hilton moved from nearby Saint Kitts following a murder plot against him. He was accompanied by 80 other settlers, soon to be boosted by a further 100 settlers from London who had originally hoped to settle Barbuda. Hilton became the first Governor of Nevis. After the Treaty of Madrid (1670) between Spain and England, Nevis became the seat of the British colony and the Admiralty Court also sat in Nevis. Between 1675 and 1730, the island was the headquarters for the slave trade for the Leeward Islands, with approximately 6,000–7,000 enslaved West Africans passing through en route to other islands each year. The Royal African Company brought all its ships through Nevis.[10] A 1678 census shows a community of Irish people – 22% of the population – existing as either indentured servants or freemen.[11]
 
-Nevis_FrenchSlavetrade.jpg in the 1876 book _The 18th century: Its Institutions, Customs, and Costumes: France, 1700–1789_.]]
+in the 1876 book _The 18th century: Its Institutions, Customs, and Costumes: France, 1700–1789_.]]
 
 Due to the profitable Slave Trade and the high quality of Nevisian sugar cane, the island soon became a dominant source of wealth for Great Britain and the slave-owning British plantocracy. When the Leeward Islands were separated from Barbados in 1671, Nevis became the seat of the Leeward Islands colony and was given the nickname "Queen of the Caribees". It remained colonial capital for the Leeward Islands until the seat was transferred to Antigua for military reasons in 1698. During this period, Nevis was the richest of the British Leeward Islands.[12] The island outranked larger islands like Jamaica in sugar production in the late 17th century. The wealth of the planters on the island is evident in the tax records preserved at the Calendar State Papers in the British Colonial Office Public Records, where the amount of tax collected on the Leeward Islands was recorded. The sums recorded for 1676 as "head tax on slaves", a tax payable in sugar, amounted to 384,600 pounds in Nevis, as opposed to 67,000 each in Antigua and Saint Kitts, 62,500 in Montserrat, and 5,500 total in the other five islands.[13] The profits on sugar cultivation in Nevis was enhanced by the fact that the cane juice from Nevis yielded an unusually high amount of sugar. A gallon (3.79 litres) of cane juice from Nevis yielded 24 ounces (0.71 litres) of sugar, whereas a gallon from Saint Kitts yielded 16 ounces (0.47 litres).[14] Twenty percent of the British Empire's total sugar production in 1700 was derived from Nevisian plantations.[15] Exports from West Indian colonies like Nevis were worth more than all the exports from all the mainland Thirteen Colonies of North America combined at the time of the American Revolution.[16]
 
@@ -48,13 +48,9 @@ On Nevis, the English built Fort Charles and a series of smaller fortifications 
 
 Emancipation
 
-Nevis_Methodist.jpg
-
 In 1706, Pierre Le Moyne d'Iberville, the French Canadian founder of Louisiana in North America, decided to drive the English out of Nevis and thus also stop pirate attacks on French ships; he considered Nevis the region's headquarters for piracy against French trade. During d'Iberville's invasion of Nevis, French buccaneers were used in the front line, infamous for being ruthless killers after the pillaging during the wars with Spain where they gained a reputation for torturing and murdering non-combatants. In the face of the invading force, the English militiamen of Nevis fled. Some planters burned the plantations, rather than letting the French have them, and hid in the mountains. It was the enslaved Africans who held the French at bay by taking up arms to defend their families and the island. The slave quarters had been looted and burned as well, as the main reward promised the men fighting on the French side in the attack was the right to capture as many slaves as possible and resell them in Martinique.
 
 During the fighting, 3,400 enslaved Nevisians were captured and sent off to Martinique, but about 1,000 more, poorly armed and militarily untrained, held the French troops at bay, by "murderous fire" according to an eyewitness account by an English militiaman. He wrote that "the slaves' brave behaviour and defence there shamed what some of their masters did, and they do not shrink to tell us so."[22] After 18 days of fighting, the French were driven off the island. Among the Nevisian men, women and children carried away on d'Iberville's ships, six ended up in Louisiana, the first persons of African descent to arrive there.[23]
-
-JohnPinney.jpg
 
 One consequence of the French attack was a collapsed sugar industry and during the ensuing hardship on Nevis, small plots of land on the plantations were made available to the enslaved families in order to control the loss of life due to starvation. With less profitability for the absentee plantation owners, the import of food supplies for the plantation workers dwindled. Between 1776 and 1783, when the food supplies failed to arrive altogether due to the rebellion in North America, 300–400 enslaved Nevisians starved to death.[24] On 1 August 1834, slavery was abolished in the British Empire. In Nevis, 8,815 slaves were freed.[25] The first Monday in August is celebrated as Emancipation Day and is part of the annual Nevis Culturama festival.
 
@@ -63,8 +59,6 @@ A four-year apprenticeship programme followed the abolishment of slavery on the 
 Because of the early distribution of plots and because many of the planters departed from the island when sugar cultivation became unprofitable, a relatively large percentage of Nevisians already owned or controlled land at emancipation.[28] Others settled on crown land. This early development of a society with a majority of small, landowning farmers and entrepreneurs created a stronger middle class in Nevis than in Saint Kitts where the sugar industry continued until 2006. Even though the 15 families in the wealthy planter elite no longer control the arable land, Saint Kitts still has a large, landless working class population.[29]
 
 1800 to the present day
-
-Nevis_School1899.jpg
 
 Nevis was united with Saint Kitts and Anguilla in 1882, and they became an associated state with full internal autonomy in 1967, though Anguilla seceded in 1971. Together, Saint Kitts and Nevis became independent on 19 September 1983. On 10 August 1998, a referendum on Nevis to separate from Saint Kitts had 2,427 votes in favour and 1,498 against, falling short of the two-thirds majority needed.
 
@@ -93,7 +87,7 @@ Hurricanes
 
 Geography
 
-Saint_Kitts_and_Nevis_Regions_map.png island.]] Nevis_Satellite.jpg (centre). Top to bottom, left: St. Eustatius, Saint Kitts, Nevis; right: Barbuda, Antigua, Guadeloupe.]]
+island.]] (centre). Top to bottom, left: St. Eustatius, Saint Kitts, Nevis; right: Barbuda, Antigua, Guadeloupe.]]
 
 The formation of the island began in mid-Pliocene times, approximately 3.45 million years ago. Nine distinct eruptive centres from different geological ages, ranging from mid-Pliocene to Pleistocene, have contributed to the formation. No single model of the island's geological evolution can, therefore, be ascertained.[38]
 
@@ -111,8 +105,6 @@ Water has been piped since 1911 from a spring called the "Source", located 1800 
 
 Colonial deforestation
 
-Nevis-lookingtosea.jpg
-
 During the 17th and 18th centuries, massive deforestation was undertaken by the planters as the land was initially cleared for sugar cultivation. This intense land exploitation by the sugar and cotton industry lasted almost 300 years, and greatly changed the island's ecosystem.
 
 In some places along the windswept southeast or "Windward" coast of the island, the landscape is radically altered compared with how it used to be in pre-colonial times.[43] Due to extreme land erosion, the topsoil was swept away, and in some places at the coast, sheer cliffs as high as 25 metres (82 ft) have developed.[44]
@@ -122,8 +114,6 @@ Thick forest once covered the eastern coastal plain, where the Amerindians built
 During times of maximum cultivation, sugar cane fields stretched from the coastline of Nevis up to an altitude at which the mountain slopes were too steep and rocky to farm. Nonetheless, once the sugar industry was finally abandoned, vegetation on the leeward side of the island regrew reasonably well, as scrub and secondary forest.
 
 Water resources
-
-Nevis_Hot_Spring.jpg
 
 Nevis has several natural freshwater springs (including Nelson's Spring). The island also has numerous non-potable volcanic hot springs, including most notably the Bath Spring near Bath village, just south of the capital Charlestown.
 
@@ -142,7 +132,7 @@ Economy
 
 The official currency is the Eastern Caribbean dollar (EC$), which is shared by eight other territories in the region.
 
-Nevis_montravers2.jpg by a ruin at Montravers Estate, a former plantation that produced, on average, 110 "hogsheads" (30,000 kg) of sugar and around 7,250 gallons (33,000 litres) of rum each year.[48]]] Nevis_Montravers1.jpg
+by a ruin at Montravers Estate, a former plantation that produced, on average, 110 "hogsheads" (30,000 kg) of sugar and around 7,250 gallons (33,000 litres) of rum each year.[48]]]
 
 The European Commission's Delegation in Barbados and the Eastern Caribbean estimates the annual per capita Gross Domestic Product (GDP) on Nevis to be about 10 percent higher than on St. Kitts.[49]
 
@@ -159,7 +149,7 @@ In 2000, the Financial Action Task Force, part of the Organisation for Economic 
 
 Politics
 
-Nevis_Pier.jpg, in 2005. Saint Kitts is seen in the background, across the channel known as "The Narrows". The house where Alexander Hamilton was born is visible in the mid-distance.]]
+, in 2005. Saint Kitts is seen in the background, across the channel known as "The Narrows". The house where Alexander Hamilton was born is visible in the mid-distance.]]
 
 The political structure for the Federation of Saint Kitts and Nevis is based on the Westminster Parliamentary system, but it is a unique structure[57] in that Nevis has its own unicameral legislature, consisting of Her Majesty's representative (the Deputy Governor General) and members of the Nevis Island Assembly. Nevis has considerable autonomy in its legislative branch. The constitution actually empowers the Nevis Island Legislature to make laws that cannot be abrogated by the National Assembly. In addition, Nevis has a constitutionally protected right to secede from the federation, should a two-third majority of the island's population vote for independence in a local referendum. Section 113.(1) of the constitution states: "The Nevis Island Legislature may provide that the island of Nevis shall cease to be federated with the island of Saint Christopher and accordingly that this Constitution shall no longer have effect in the island of Nevis."[58]
 
@@ -192,8 +182,6 @@ A crisis developed in 1984 when the People's Action Movement (PAM) won a majorit
 There is also substantial support in Nevis for British Overseas Territory status similarly to Anguilla, which was formerly the third of the tri-state Saint Christopher-Nevis-Anguilla colony.[70]
 
 Legislative motivation for secession
-
-Nevis_Today.jpg
 
 In 1996, four new bills were introduced in the National Assembly in Saint Kitts, one of which made provisions to have revenue derived from activities in Nevis paid directly to the treasury in Saint Kitts instead of to the treasury in Nevis. Another bill, The Financial Services Committee Act, contained provisions that all investments in Saint Kitts and Nevis would require approval by an investment committee in Saint Kitts. This was controversial, because ever since 1983 the Nevis Island Administration had approved all investments for Nevis, on the basis that the constitution vests legislative authority for industries, trades and businesses and economic development in Nevis to the Nevis Island Administration.[71]
 
@@ -256,7 +244,7 @@ The island is also known for "Jamband music", which is the kind of music perform
 
 Architecture
 
-The_Museum_of_Nevis_History_-_Alexander_Hamilton_birthplace.jpg, Charlestown, housed in the restored Georgian building where Alexander Hamilton was born.]] A series of earthquakes during the 18th century severely damaged most of the colonial-era stone buildings of Charlestown. The Georgian stone buildings in Charlestown that are visible today had to be partially rebuilt after the earthquakes, and this led to the development of a new architectural style, consisting of a wooden upper floor over a stone ground floor; the new style resisted earthquake damage much more effectively.
+, Charlestown, housed in the restored Georgian building where Alexander Hamilton was born.]] A series of earthquakes during the 18th century severely damaged most of the colonial-era stone buildings of Charlestown. The Georgian stone buildings in Charlestown that are visible today had to be partially rebuilt after the earthquakes, and this led to the development of a new architectural style, consisting of a wooden upper floor over a stone ground floor; the new style resisted earthquake damage much more effectively.
 
 Two famous Nevisian buildings from the 18th century are Hermitage Plantation, built of lignum vitae wood in 1740, the oldest surviving wooden house still in use in the Caribbean today, and the Bath Hotel, the first hotel in the Caribbean, a luxury hotel and spa built by John Huggins in 1778. The soothing waters of the hotel's hot spring and the lively social life on Nevis attracted many famous Europeans including Antigua-based Admiral Nelson, and Prince William Henry, Duke of Clarence, (future William IV of the United Kingdom), who attended balls and private parties at the Bath Hotel. Today, the building serves as government offices, and there are two outdoor hot-spring bathing spots which were specially constructed in recent years for public use.
 

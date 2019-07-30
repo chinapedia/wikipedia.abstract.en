@@ -10,14 +10,14 @@ The taxonomy of the genus _Mimosa_ has had a tortuous history, having gone throu
 
 Description
 
-Mimosa_pudica_leaves_folding_when_touched_2.ogv'' leaves closing when touched]] Sun_rays_permeate_the_wild_flowers_in_Palestine.jpg Yellow_wild_flowers_with_mountain_view.jpg Members of this genus are among the few plants capable of rapid movement; examples outside of _Mimosa_ include the telegraph plant, Aldrovanda, some species of Drosera and the famous venus flytrap. The leaves of the Mimosa pudica close quickly when touched. Some mimosas raise their leaves in the day and lower them at night, and experiments done by Jacques d'Ortous de Mairan on mimosas in 1729 provided the first evidence of biological clocks.[3]
+'' leaves closing when touched]] Members of this genus are among the few plants capable of rapid movement; examples outside of _Mimosa_ include the telegraph plant, Aldrovanda, some species of Drosera and the famous venus flytrap. The leaves of the Mimosa pudica close quickly when touched. Some mimosas raise their leaves in the day and lower them at night, and experiments done by Jacques d'Ortous de Mairan on mimosas in 1729 provided the first evidence of biological clocks.[3]
 
 _Mimosa_ can be distinguished from the large related genera, _Acacia_ and _Albizia_, since its flowers have 10 or fewer stamens. Note that, botanically, what appears to be a single globular flower is actually a cluster of many individual ones. Mimosa contains some level of heptanoic acid.
 
 
 Species
 
-Mimosa_diplotricha,.jpg'' in Kerala, India]] Fabales_-_Mimosa_scabrella_1.jpg'' in London]] Mimo_pigra_080209-4579_ckoep.jpg'' in Bogor, West Java, Indonesia]] There are about 400 species including:
+'' in Kerala, India]] '' in London]] '' in Bogor, West Java, Indonesia]] There are about 400 species including:
 
 -   _Mimosa aculeaticarpa_ Ortega
 

@@ -1,5 +1,3 @@
-Lewes_Crescent_a.jpg
-
 KEMP TOWN is a 19th-century residential estate in the east of Brighton in East Sussex, England, UK. Conceived and financed by Thomas Read Kemp, it has given its name to the larger Kemptown region of Brighton. The majority of the original estate is now demarcated by the modern Kemp Town Conservation Area[1] as defined by the local authority, Brighton and Hove City Council.[2]
 
 Kemp Town Estate was designed by Charles Busby and Amon Henry Wilds and constructed by Thomas Cubitt. Building work started in 1823 on Arundel Terrace, Chichester Terrace, Lewes Crescent and Sussex Square. Chichester Terrace incorporated the earlier Chichester House. In 1837 Thomas Kemp fled the country to escape his creditors. The project continued under Cubitt with the support of the Fifth Earl of Bristol. It was completed in 1855, with Sussex Square larger than London's Grosvenor Square and at the time the biggest housing crescent in Britain. The original estate is a good example of Regency architecture. A history of the residential occupation of the Estate has been collected as part of a local project called "Who's been living in my house?".[3]

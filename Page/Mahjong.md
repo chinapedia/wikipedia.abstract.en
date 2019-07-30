@@ -10,8 +10,6 @@ In Chinese, the game was originally called ()meaning sparrowwhich is still used 
 
 Old Hong Kong Mahjong
 
-Mahjong_tiles_on_angle.jpg
-
 There are many highly varied versions of mahjong both in rules and tiles used. "Old Hong Kong Mahjong" uses the same basic features and rules as the majority of the different variations of the game. This form of Mahjong uses all of the tiles of the most commonly available sets, includes no exotic complex rules, and has a relatively small set of scoring sets/hands with a simple scoring system. For these reasons Hong Kong mahjong is a suitable variation for the introduction of game rules and play and is the focus of this article.
 
 Game pieces and accessories
@@ -39,11 +37,11 @@ Simples tiles
 There are 3 suits of simples and in each suit the tiles are numbered from 1 to 9. The suits are bamboos, dots, and characters. There are 4 identical copies of each simples tile totaling 108 simples tiles.
 
                Numbers
-  ------------ ---------------
+  ------------ ---------
   1            2
   Simples      Dots
-  Bamboo       File:MJs1.png
-  Characters   File:MJw1.png
+  Bamboo
+  Characters
 
 The bamboo suit is also known as "sticks" or "bams" suit; the first tile usually has a bird (traditionally, a peacock or sparrow) instead of a single bamboo. The dots suit is also known as the "wheels", "balls", or "coins" suit. The characters suit is also known as the "cracks" or "numbers" suit since the top character is the Chinese number, and the bottom character is the Chinese number "ten thousand".[6]
 
@@ -51,13 +49,13 @@ Honors tiles
 
 There are two different sets of Honors tiles: Winds and Dragons. The Winds are East, South, West, and North. In Mahjong, East (not North) is the beginning. The Dragons are Red, Green, and White. The white dragon has a blue or black frame on the face of the piece or in some sets is entirely blank. These tiles have no numerical sequence like the simples (for example the bamboo pieces number 1 to 9). Like the simples, there are four identical copies of each Honors tile, for a total of 28 Honors tiles.
 
-+-----------------------------------------------+------------------------------------+
-|   East       South      West       North      |   Red        Green      White      |
-|   ---------- ---------- ---------- ---------- |   ---------- ---------- ---------- |
-|   MJf1.png   MJf2.png   MJf3.png   MJf4.png   |   MJd1.png   MJd2.png   MJd3.png   |
-|                                               |                                    |
-|   : Winds                                     |   : Dragons                        |
-+-----------------------------------------------+------------------------------------+
++---------------------------------+-------------------------+
+|   East   South   West   North   |   Red   Green   White   |
+|   ------ ------- ------ ------- |   ----- ------- ------- |
+|                                 |                         |
+|                                 |                         |
+|   : Winds                       |   : Dragons             |
++---------------------------------+-------------------------+
 
 Bonus tiles
 
@@ -65,21 +63,21 @@ There are two sets of Bonus tiles: Flowers and Seasons. The flower and season ti
 
 In addition, unlike the Simple and Honors tiles, there is only a single tile of each Bonus tile, so there are a total of four flower and four season tiles in the set. The tiles have a different artistic rendering of a specific type of flower or season.
 
-+-----------------------------------------------------------+----------------------------------------------------+
-| +----+----------+---------------+-----------+-----------+ | +----+----------+--------+-----------+-----------+ |
-| | No | Image    | Name          | Character | Direction | | | No | Image    | Name   | Character | Direction | |
-| +====+==========+===============+===========+===========+ | +====+==========+========+===========+===========+ |
-| | 1  | MJh5.png | Plum blossom  |           | East      | | | 1  | MJh1.png | Spring |           | East      | |
-| +----+----------+---------------+-----------+-----------+ | +----+----------+--------+-----------+-----------+ |
-| | 2  | MJh6.png | Orchid        |           | South     | | | 2  | MJh2.png | Summer |           | South     | |
-| +----+----------+---------------+-----------+-----------+ | +----+----------+--------+-----------+-----------+ |
-| | 3  | MJh7.png | Chrysanthemum |           | West      | | | 3  | MJh3.png | Autumn |           | West      | |
-| +----+----------+---------------+-----------+-----------+ | +----+----------+--------+-----------+-----------+ |
-| | 4  | MJh8.png | Bamboo        |           | North     | | | 4  | MJh4.png | Winter |           | North     | |
-| +----+----------+---------------+-----------+-----------+ | +----+----------+--------+-----------+-----------+ |
-|                                                           |                                                    |
-| : Flowers                                                 | : Seasons                                          |
-+-----------------------------------------------------------+----------------------------------------------------+
++--------------------------------------------------------+-------------------------------------------------+
+| +----+-------+---------------+-----------+-----------+ | +----+-------+--------+-----------+-----------+ |
+| | No | Image | Name          | Character | Direction | | | No | Image | Name   | Character | Direction | |
+| +====+=======+===============+===========+===========+ | +====+=======+========+===========+===========+ |
+| | 1  |       | Plum blossom  |           | East      | | | 1  |       | Spring |           | East      | |
+| +----+-------+---------------+-----------+-----------+ | +----+-------+--------+-----------+-----------+ |
+| | 2  |       | Orchid        |           | South     | | | 2  |       | Summer |           | South     | |
+| +----+-------+---------------+-----------+-----------+ | +----+-------+--------+-----------+-----------+ |
+| | 3  |       | Chrysanthemum |           | West      | | | 3  |       | Autumn |           | West      | |
+| +----+-------+---------------+-----------+-----------+ | +----+-------+--------+-----------+-----------+ |
+| | 4  |       | Bamboo        |           | North     | | | 4  |       | Winter |           | North     | |
+| +----+-------+---------------+-----------+-----------+ | +----+-------+--------+-----------+-----------+ |
+|                                                        |                                                 |
+| : Flowers                                              | : Seasons                                       |
++--------------------------------------------------------+-------------------------------------------------+
 
 It is not necessary to know the names or the Chinese characters of each bonus tile, only the number, as this is associated with a specific direction, and the player receives bonus points when the Bonus tile matches the seat direction. There is no relation between the bonus tile "bamboo" flower and the bamboo suit of simple tiles (ex. 2 bamboo). In traditional Chinese culture, the Four Gentlemen are the plum (winter), orchid (spring), bamboo (summer), and chrysanthemum (autumn) which are regarded as the representative plants of those seasons.
 
@@ -131,7 +129,7 @@ Stacking tiles
 
 Each player then stacks a row of 18 tiles, two tiles high in front of them (for a total of 36 tiles). Players then push each side of their stack together to form a square wall.
 
-Mahjong_table.svg Regular players usually place their stacks in a slightly diagonal position (about 20 to 30 degrees anti-clockwise); the right end of their stack is pushed slightly further in to the centre of the table to meet almost the middle of the stack of the player on the right. This creates a smaller square wall the length of about half of each stack, with walls extended away from each corner of the square. The diagonally positioned stacks and a smaller square creates a bigger space for players' tiles and also makes an ergonomic position for drawing tiles from the stack.
+Regular players usually place their stacks in a slightly diagonal position (about 20 to 30 degrees anti-clockwise); the right end of their stack is pushed slightly further in to the centre of the table to meet almost the middle of the stack of the player on the right. This creates a smaller square wall the length of about half of each stack, with walls extended away from each corner of the square. The diagonally positioned stacks and a smaller square creates a bigger space for players' tiles and also makes an ergonomic position for drawing tiles from the stack.
 
 Drawing tiles
 
@@ -143,15 +141,13 @@ Dealing does not have to be strictly this way and may be done quite differently 
 
 Each player now sets aside any Flowers or Seasons they may have drawn and takes turns to draw replacement piece(s) from the wall in the anti-clockwise direction. If a player gets any Flowers or Seasons tiles in the replacement draw, the players must wait for the next turn to draw replacement tiles.
 
-Mahjong_13th_piece_draw.svg
-
 Game play starts
 
 The dealer draws a piece from the wall in clockwise direction, adding it to their hand. Typically, this draw is performed during the initial deal to speed up play. If this does not complete a legal hand, the dealer then discards a piece (throwing it into the middle of the wall with no particular order in mind).
 
 Rules
 
-Lanzhou-019.JPG ]]
+]]
 
 Each player in turn, in counterclockwise direction, draws a tile from the wall; as long as the tile drawn is not one of the Bonus tiles, the player proceeds to discard a tile (either the tile just drawn, or a tile in the hand) to maintain a hand of 13. The discarded tile is thrown into the centre and, if desired, the player announces out loud what the piece is. The other players have an opportunity to seize the discarded tile; if no one takes it, the turn continues to the next player. Play continues this way until one player has a legal winning hand and calls out "Mahjong" while revealing their hand.
 
@@ -176,21 +172,9 @@ MELDS are groups of tiles within the player's hand, consisting of either a _Pong
 
 -   PONGS are a set of three identical tiles. For example:
 
-MJt9.png MJt9.png MJt9.png
-
-MJs3.png MJs3.png MJs3.png
-
-MJf2.png MJf2.png MJf2.png
-
-MJd2.png MJd2.png MJd2.png
-
 You may form a Pong with any Simple or Honours tile. Bonus tiles (Flowers or Seasons) cannot be used to form a Pong because they are set aside and there are not three identical bonus tiles in the set. The tiles must be identical (you cannot mix suits). A Pong may either be concealed (formed by drawing tiles) or exposed (formed by seizing another player's discard).
 
 -   KONG is a complete set of four identical tiles. For example:
-
-MJd1.png MJd1.png MJd1.png MJd1.png
-
-MJs7.png MJs7.png MJs7.png MJs7.png
 
 Consider a Kong the same as a Pong with an additional tile to make a complete set of four. There are three ways to form a Kong.
 
@@ -204,14 +188,6 @@ Whenever a Kong is formed, that player must draw an extra tile from the end of t
 
 -   CHOW is a meld of three suited tiles in sequence. For example:
 
-MJs1.png MJs2.png MJs3.png
-
-MJs3.png MJs4.png MJs5.png
-
-MJs7.png MJs8.png MJs9.png
-
-MJt5.png MJt6.png MJt7.png
-
 The meld must be in absolute numerical sequence and all in the same suit. Players cannot skip numbers or meld from the 8 or 9 to 1 or 2. Honours tiles cannot be used to make Chows because they have no numerical value, and Bonus tiles (Flowers and Seasons) also cannot be used to make a Chow.
 
 A player can steal a discard to form a Chow only from the player whose turn was immediately before theirs; however, a player forming a Chow from a seized piece has the lowest priority for that tile. Any other player that needs that tile to make a Pong, make a Kong, or to win may seize that piece instead. Like the Pong, the Chow is either concealed (formed by drawing tiles) or exposed (formed by seizing the prior player's discard).
@@ -219,16 +195,6 @@ A player can steal a discard to form a Chow only from the player whose turn was 
 -   EYES (also known as a pair) are two identical tiles which are an essential part of a legal winning hand. A piece cannot be stolen (melded) to form a pair of eyes unless the player simultaneously completes a legal winning hand.[7]
 
 For example:
-
-MJf4.png MJf4.png
-
-MJt5.png MJt5.png
-
-MJs5.png MJs5.png
-
-MJf1.png MJf1.png
-
-MJd3.png MJd3.png
 
 Interruption of play
 
@@ -270,11 +236,11 @@ Examples of winning hands
 
 Below are two examples of winning hands. A winning hand must consist of four melds (Pongs, Kongs, or Chows) and a pair (eyes) and must also score the agreed table minimum.
 
-    MJs3.png MJs3.png MJs3.png – MJd3.png MJd3.png MJd3.png – MJd2.png MJd2.png MJd2.png – MJd1.png MJd1.png MJd1.png – MJf1.png MJf1.png
+    – – – –
 
 _Hand formed with four Pongs and the eyes (pair) of East wind. Only bamboo is used (no other simples), scoring extra points (clean hand). No chows are used (an all Pong/Kong hand scores extra points)._
 
-    MJt1.png MJt2.png MJt3.png – MJt4.png MJt5.png MJt6.png – MJt7.png MJt7.png MJt7.png – MJt9.png MJt9.png MJt9.png – MJt8.png MJt8.png
+    – – – –
 
 _A high scoring hand formed using only circles, known as a pure hand. Hand is made of Chows, Pongs and the eyes of circles._
 
@@ -317,25 +283,25 @@ Concealed vs. revealed meld and hand
 
 A concealed meld is one that contains no tiles stolen from another players discard. A concealed hand is one made up of only concealed melds. Many variations distinguish between a concealed hand (winning from the wall) and a semi concealed hand (the last tile is a stolen discard). In most mahjong variations having a concealed hand can be valuable in scoring. Hong Kong mahjong doesn't award concealed melds/hands as generously as others. Concealed hands only the case with a few limit hands or half-limit hands (thirteen orphans, heavenly gates, four concealed pongs) as well as a complete hand (seven pairs) and over several melds (three concealed pongs).
 
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
-| Meld Type                                  | Quantity                  | Eligible tiles    | When completed by ... |
-+============================================+===========================+===================+=======================+
-| Simples                                    | Honours                   | Bonus             | Drawing               |
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
-| Pong                                       | 3                         | Yes_check.svg Yes | Yes_check.svg Yes     |
-|                                            | (identical set)           |                   |                       |
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
-| Kong                                       | 4                         | Yes_check.svg Yes | Yes_check.svg Yes     |
-|                                            | (identical set)           |                   |                       |
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
-| Exposed from exposed (add to exposed Pong) |                           |                   |                       |
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
-| Chow                                       | 3                         | Yes_check.svg Yes | X_mark.svg No         |
-|                                            | (consecutive within suit) |                   |                       |
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
-| Eyes                                       | 2                         | Yes_check.svg Yes | Yes_check.svg Yes     |
-|                                            | (identical set)           |                   |                       |
-+--------------------------------------------+---------------------------+-------------------+-----------------------+
++--------------------------------------------+---------------------------+----------------+-----------------------+
+| Meld Type                                  | Quantity                  | Eligible tiles | When completed by ... |
++============================================+===========================+================+=======================+
+| Simples                                    | Honours                   | Bonus          | Drawing               |
++--------------------------------------------+---------------------------+----------------+-----------------------+
+| Pong                                       | 3                         |  Yes           |  Yes                  |
+|                                            | (identical set)           |                |                       |
++--------------------------------------------+---------------------------+----------------+-----------------------+
+| Kong                                       | 4                         |  Yes           |  Yes                  |
+|                                            | (identical set)           |                |                       |
++--------------------------------------------+---------------------------+----------------+-----------------------+
+| Exposed from exposed (add to exposed Pong) |                           |                |                       |
++--------------------------------------------+---------------------------+----------------+-----------------------+
+| Chow                                       | 3                         |  Yes           |  No                   |
+|                                            | (consecutive within suit) |                |                       |
++--------------------------------------------+---------------------------+----------------+-----------------------+
+| Eyes                                       | 2                         |  Yes           |  Yes                  |
+|                                            | (identical set)           |                |                       |
++--------------------------------------------+---------------------------+----------------+-----------------------+
 
 : Meld summary
 
@@ -443,81 +409,81 @@ Some groups also play with the "great Flowers" rule. If a player picks up all fo
 
 In all the hands that require pongs, each pong can be replaced by the corresponding kong.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Hand                                                                                                                                                                                                        | Explanation with example                                                                                                                                                                                                                                       |
-+=============================================================================================================================================================================================================+================================================================================================================================================================================================================================================================+
-| Heavenly hand                                                                                                                                                                                               | The dealer draws a winning hand at the beginning of the game.                                                                                                                                                                                                  |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Earthly hand                                                                                                                                                                                                | A player completes a winning hand with the dealer's first discard and in most variants, provided the dealer does not draw a kong.                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Thirteen Orphans                                                                                                                                                                                            | Player has 1 and 9 of each simple suit, one of each wind, one of each dragon and in addition one extra piece of any of those thirteen elements                                                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJf1.png File:MJf2.png File:MJf3.png File:MJf4.png – File:MJd1.png File:MJd2.png File:MJd3.png – File:MJs1.png File:MJs9.png – File:MJw1.png File:MJw9.png – File:MJt1.png File:MJt9.png File:MJt9.png |                                                                                                                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Orphans                                                                                                                                                                                                     | Player has only 1s and 9s in the winning hand.                                                                                                                                                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJw1.png File:MJw1.png File:MJw1.png – File:MJs9.png File:MJs9.png File:MJs9.png – File:MJs1.png File:MJs1.png File:MJs1.png – File:MJw9.png File:MJw9.png File:MJw9.png – File:MJt1.png File:MJt1.png |                                                                                                                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nine Gates Hand                                                                                                                                                                                             | Player has 1112345678999 of any simple suit; any one extra piece of the same suit suffices to win. This hand always has 4 melds and the eyes. In the example below, there are two Pongs (111 and 999), two Chows (234 and 678) and the extra 5 forms the Eyes. |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJw1.png File:MJw1.png File:MJw1.png – File:MJw2.png File:MJw3.png File:MJw4.png File:MJw5.png File:MJw6.png File:MJw7.png File:MJw8.png – File:MJw9.png File:MJw9.png File:MJw9.png – File:MJw5.png   |                                                                                                                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Self Triplets                                                                                                                                                                                               | 4 concealed Pongs                                                                                                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| All Kongs                                                                                                                                                                                                   | Player has 4 Kongs                                                                                                                                                                                                                                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJs1.png File:MJs1.png File:MJs1.png File:MJs1.png – File:MJt4.png File:MJt4.png File:MJt4.png File:MJt4.png – File:MJs6.png File:MJs6.png File:MJs6.png File:MJs6.png -                               |                                                                                                                                                                                                                                                                |
-| File:MJd3.png File:MJd3.png File:MJd3.png File:MJd3.png – File:MJt9.png File:MJt9.png                                                                                                                       |                                                                                                                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Great Winds                                                                                                                                                                                                 | 4 Pongs of all 4 winds                                                                                                                                                                                                                                         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJf1.png File:MJf1.png File:MJf1.png – File:MJf2.png File:MJf2.png File:MJf2.png – File:MJf3.png File:MJf3.png File:MJf3.png – File:MJf4.png File:MJf4.png File:MJf4.png – File:MJs1.png File:MJs1.png |                                                                                                                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hand             | Explanation with example                                                                                                                                                                                                                                       |
++==================+================================================================================================================================================================================================================================================================+
+| Heavenly hand    | The dealer draws a winning hand at the beginning of the game.                                                                                                                                                                                                  |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Earthly hand     | A player completes a winning hand with the dealer's first discard and in most variants, provided the dealer does not draw a kong.                                                                                                                              |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Thirteen Orphans | Player has 1 and 9 of each simple suit, one of each wind, one of each dragon and in addition one extra piece of any of those thirteen elements                                                                                                                 |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –          |                                                                                                                                                                                                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Orphans          | Player has only 1s and 9s in the winning hand.                                                                                                                                                                                                                 |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –          |                                                                                                                                                                                                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nine Gates Hand  | Player has 1112345678999 of any simple suit; any one extra piece of the same suit suffices to win. This hand always has 4 melds and the eyes. In the example below, there are two Pongs (111 and 999), two Chows (234 and 678) and the extra 5 forms the Eyes. |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – –            |                                                                                                                                                                                                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Self Triplets    | 4 concealed Pongs                                                                                                                                                                                                                                              |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| All Kongs        | Player has 4 Kongs                                                                                                                                                                                                                                             |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – -            |                                                                                                                                                                                                                                                                |
+| –                |                                                                                                                                                                                                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Great Winds      | 4 Pongs of all 4 winds                                                                                                                                                                                                                                         |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –          |                                                                                                                                                                                                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Limit Hands (Maximum number of fan agreed)
 
 Other examples of high-scoring hands
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Hand                                                                                                                                                                                                        | Explanation with example                                                                                                                          |
-+=============================================================================================================================================================================================================+===================================================================================================================================================+
-| All in Triplets                                                                                                                                                                                             | All melds are Pongs (or kongs). (3 Fans)                                                                                                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJs1.png File:MJs1.png File:MJs1.png – File:MJt4.png File:MJt4.png File:MJt4.png – File:MJs6.png File:MJs6.png File:MJs6.png – File:MJd3.png File:MJd3.png File:MJd3.png – File:MJt9.png File:MJt9.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Mixed one Suit                                                                                                                                                                                              | Hand consists of only a single suit and Honors tiles. The Pearl, Jade, and Ruby Dragon limit hands are special instances of clean hands. (3 Fans) |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJw1.png File:MJw2.png File:MJw3.png – File:MJf2.png File:MJf2.png File:MJf2.png – File:MJw4.png File:MJw5.png File:MJw6.png – File:MJw9.png File:MJw9.png File:MJw9.png – File:MJd1.png File:MJd1.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| All one Suit                                                                                                                                                                                                | All tiles are the same suit. (7 Fans)                                                                                                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJs1.png File:MJs1.png File:MJs1.png – File:MJs2.png File:MJs3.png File:MJs4.png – File:MJs5.png File:MJs6.png File:MJs7.png – File:MJs7.png File:MJs8.png File:MJs9.png – File:MJs6.png File:MJs6.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Small Dragons                                                                                                                                                                                               | 2 Pongs of dragons and a pair of the 3rd dragon. (5 Fans)                                                                                         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJd1.png File:MJd1.png File:MJd1.png – File:MJs6.png File:MJs7.png File:MJs8.png – File:MJd3.png File:MJd3.png File:MJd3.png – File:MJt8.png File:MJt8.png File:MJt8.png – File:MJd2.png File:MJd2.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Small Winds                                                                                                                                                                                                 | 3 Pongs of winds and a pair of the 4th wind. (10 Fans)                                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJf1.png File:MJf1.png File:MJf1.png – File:MJw5.png File:MJw6.png File:MJw7.png – File:MJf3.png File:MJf3.png File:MJf3.png – File:MJf4.png File:MJf4.png File:MJf4.png – File:MJf2.png File:MJf2.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| All Honour Tiles                                                                                                                                                                                            | Player has all Honors in the hand (only winds and dragons, no Simples) (10 Fans)                                                                  |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJd1.png File:MJd1.png File:MJd1.png – File:MJd2.png File:MJd2.png File:MJd2.png – File:MJf1.png File:MJf1.png File:MJf1.png – File:MJf3.png File:MJf3.png File:MJf3.png – File:MJd3.png File:MJd3.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Great Dragons                                                                                                                                                                                               | 3 Pongs of all 3 dragons. (8 Fans)                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| File:MJd1.png File:MJd1.png File:MJd1.png – File:MJd2.png File:MJd2.png File:MJd2.png – File:MJd3.png File:MJd3.png File:MJd3.png – File:MJs2.png File:MJs3.png File:MJs4.png – File:MJw7.png File:MJw7.png |                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Win by Double Kong                                                                                                                                                                                          | Self-pick the winning tile by obtaining it in a replacement after a second consecutive kong. (9 Fans)                                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hand               | Explanation with example                                                                                                                          |
++====================+===================================================================================================================================================+
+| All in Triplets    | All melds are Pongs (or kongs). (3 Fans)                                                                                                          |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mixed one Suit     | Hand consists of only a single suit and Honors tiles. The Pearl, Jade, and Ruby Dragon limit hands are special instances of clean hands. (3 Fans) |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| All one Suit       | All tiles are the same suit. (7 Fans)                                                                                                             |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Small Dragons      | 2 Pongs of dragons and a pair of the 3rd dragon. (5 Fans)                                                                                         |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Small Winds        | 3 Pongs of winds and a pair of the 4th wind. (10 Fans)                                                                                            |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| All Honour Tiles   | Player has all Honors in the hand (only winds and dragons, no Simples) (10 Fans)                                                                  |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Great Dragons      | 3 Pongs of all 3 dragons. (8 Fans)                                                                                                                |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| – – – –            |                                                                                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Win by Double Kong | Self-pick the winning tile by obtaining it in a replacement after a second consecutive kong. (9 Fans)                                             |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Other special high-scoring hands
 
 
 Variations
 
-Mahjong1.theora.ogv Variations may have far more complicated scoring systems, add or remove tiles, and include far more scoring elements and limit hands.
+Variations may have far more complicated scoring systems, add or remove tiles, and include far more scoring elements and limit hands.
 
 In many places, players often observe one version and are either unaware of other variations or claim that different versions are incorrect. Many variations today differ only by scoring:
 
@@ -552,22 +518,22 @@ Equipment
 
 Tables
 
-Open_the_mah-jong_table_(3599421021).jpg Mahjong tables are square and small enough to be within arms-length of all equipment. The edges are raised to prevent tiles from sliding off and the surface is covered in felt to limit wear on the tiles. Automatic dealing tables are available, often used for high stakes playing and tournaments, are able to shuffle tiles, build walls, and randomize dice. It is an elaborate device built into a table which uses two alternating sets of tiles. It prepares one wall while the players play one hand. After the hand is finished the tiles are dropped into the table and a new wall raises upwards. In theory the table should avoid cheating (by stacking the deck and or using loaded dice).
+Mahjong tables are square and small enough to be within arms-length of all equipment. The edges are raised to prevent tiles from sliding off and the surface is covered in felt to limit wear on the tiles. Automatic dealing tables are available, often used for high stakes playing and tournaments, are able to shuffle tiles, build walls, and randomize dice. It is an elaborate device built into a table which uses two alternating sets of tiles. It prepares one wall while the players play one hand. After the hand is finished the tiles are dropped into the table and a new wall raises upwards. In theory the table should avoid cheating (by stacking the deck and or using loaded dice).
 
 Tiles
 
 The following chart shows the most generic set of tiles
 
                  Numbers
-  -------------- ---------------
+  -------------- ---------
   1              2
   Suits          Dots
-  Bamboo         File:MJs1.png
-  Characters     File:MJw1.png
+  Bamboo
+  Characters
   Honors/Bonus   Winds
   East           South
-  MJf1.png       MJf2.png
-  MJh3.png       MJh4.png
+
+
 
 There are variations that feature specific use of tiles. Some three-player versions remove the North Wind and one Chinese provincial version has no honors. Korean Mahjong removes the bamboo suit or at least its numbers 2–8 so that terminals can be used. Japanese Mahjong rarely uses Flowers or Seasons. The Seasons are removed in Korean Mahjong, while many Southeast Asian sets have more flower series.
 
@@ -575,7 +541,7 @@ Wild cards and jokers
 
 Some players accept wild cards when playing Mahjong. The wild cards are decided at the beginning of the game. The wild card can be the next tile after spreading tiles to all players or separately decided by a dice toss. Wild cards are not allowed to be discarded and can replace any tiles in Chows. Wildcards cannot replace any tiles in Pongs and Kongs. For example, if a character 4 taken out, then character 4 and the next number 5 can be used as wild cards in this round (When the tile showed, the tiles of the same pattern left only 3, so the next tile in the suit will be used as wild cards as well, adding to 7 wild cards for 4 players). Also, if a tile numbered 9 is chosen, then the number 9 and 1 are wild cards.
 
-Also, if the chosen tile is not in the suited tiles, the wild cards are decided in rules: Joker-vietnammj.JPG
+Also, if the chosen tile is not in the suited tiles, the wild cards are decided in rules:
 
   Wild card tile chosen   Another wildcard
   ----------------------- ------------------
@@ -611,8 +577,6 @@ Four of the flower tiles represent the four noble plants of Confucian reckoning:
 
 -   andbamboo.
 
-Plum Orchid Chrysanthemum Bamboo
-
 The other 4 flower tiles (or season tiles) represent Seasons:
 
 -   spring,
@@ -623,15 +587,11 @@ The other 4 flower tiles (or season tiles) represent Seasons:
 
 -   andwinter.
 
-Spring Summer Autumn Winter
-
 These animal tiles are used in Thailand, Malaysia, Singapore and local variations. They represent the cat, mouse, rooster and centipede. Like flower tiles, they also function as bonus tiles. However, as they have no corresponding seat position, any player who draws one of these gets a bonus point.
-
-Cat Mouse Rooster Centipede
 
 Dice, markers, and counting pieces
 
-Tion-Mahjong.JPG Depending on the variation, two or three dice are usually used to decide what part of the wall to start dealing from. They are six-sided dice, traditionally but not necessarily Chinese dice with red one and four pips.
+Depending on the variation, two or three dice are usually used to decide what part of the wall to start dealing from. They are six-sided dice, traditionally but not necessarily Chinese dice with red one and four pips.
 
 The dealer marker is a round or square object that the dealer places to the side to remind players who the dealer is. The wind marker may be used which indicates the current prevailing wind. In some cases the dealer marker and the wind marker are represented by one large marker, usually a small wheel where one can swivel the outer circle to indicate the prevailing wind (which the dealer holds onto), a cube with the four winds placed onto four of the sides which can be placed in a hollow square (the dealer holds onto it), or a cylinder locked into frame which can be rolled to expose the wind on the top. Japanese mahjong, especially in a gambling environment, may optionally use four yakitori markers to indicate which players have not won a hand yet and has to pay a bonus.
 
@@ -661,7 +621,7 @@ Many variations have specific hands, some of which are common while some are opt
 
 Ready hands
 
-When a hand is one tile short of winning (for example: MJs1.png MJs2.png MJs3.png MJs1.png MJs2.png MJs3.png MJs2.png MJs3.png MJs7.png MJs8.png MJs9.png MJd2.png MJd2.png, waiting for: MJs1.png, MJs4.png, or MJd2.png, as MJs1.png can be the eyes), the hand is said to be a ready hand, or more figuratively, "on the pot". The player holding a ready hand is said to be _waiting_ for certain tiles. It is common to be waiting for two or three tiles, and some variations award points for a hand that is waiting for one tile. In 13-tile Mahjong, the largest number of tiles for which a player can wait is 13 (the _thirteen wonders_, or _13 orphans_, a nonstandard special hand). Ready hands must be declared in some variations of Mahjong, while other variations prohibit the same.
+When a hand is one tile short of winning (for example: , waiting for: , , or , as can be the eyes), the hand is said to be a ready hand, or more figuratively, "on the pot". The player holding a ready hand is said to be _waiting_ for certain tiles. It is common to be waiting for two or three tiles, and some variations award points for a hand that is waiting for one tile. In 13-tile Mahjong, the largest number of tiles for which a player can wait is 13 (the _thirteen wonders_, or _13 orphans_, a nonstandard special hand). Ready hands must be declared in some variations of Mahjong, while other variations prohibit the same.
 
 Some variations of Mahjong, most notably Japanese and Korean ones, allow a player to declare . A declaration of _rīchi_ is a promise that any tile drawn by the player is immediately discarded unless it constitutes a win. Standard requirements for _rīchi_ are that the hand be _closed_ or have no melds declared (other than a concealed Kong) and that players already have points for declaration of _rīchi_. A player who declares _rīchi_ and wins usually receives a point bonus for their hand directly, and a player who won with _rīchi_ also has the advantage to open the inner which leads to higher possibilities to match such a card, thus has more chance to grant additional bonus. However, a player who declares _rīchi_ and loses is usually penalised in some fashion. Declaring a nonexistent _rīchi_ is also penalised in some way.
 
@@ -677,7 +637,7 @@ Abortive draws
 
 In Japanese Mahjong, rules allow abortive draws to be declared while tiles are still available. They can be declared under the following conditions:
 
--   : On a player's first turn when no meld has been declared yet, if a player has nine different terminal (also known as major[13]) or honor tiles, the player may declare the hand to be drawn (for example, MJt1.png MJt4.png MJt5.png MJt9.png MJs1.png MJs4.png MJs6.png MJs9.png MJw1.png MJf1.png MJf3.png MJd1.png MJd1.png MJd3.png, but could also go for the nonstandard _thirteen wonders_ hand as well).
+-   : On a player's first turn when no meld has been declared yet, if a player has nine different terminal (also known as major[13]) or honor tiles, the player may declare the hand to be drawn (for example, , but could also go for the nonstandard _thirteen wonders_ hand as well).
 
 -   : On the first turn without any meld declarations, if all 4 players discard the same Wind tile, the hand is drawn.
 
@@ -735,7 +695,7 @@ A single player game employs the tiles of mahjong, usually played on computers o
 
 Competition
 
-wk-mahjong2002.jpg in Tokyo, October 2002. Left: John J. O'Connor (2nd place) In the middle: world champion Mai Hatsune, from Japan Right: Yuichi Ikeya (3rd place)]]
+in Tokyo, October 2002. Left: John J. O'Connor (2nd place) In the middle: world champion Mai Hatsune, from Japan Right: Yuichi Ikeya (3rd place)]]
 
 In 1998, in the interest of dissociating illegal gambling from Mahjong, the China State Sports Commission published a new set of rules, now generally referred to as Chinese Official rules or International Tournament rules (see Guobiao Majiang). The principles of the new, wholesome Mahjong are no gambling, no drinking, and no smoking. In international tournaments, players are often grouped in teams to emphasize that Mahjong from now on is considered a sport.
 
@@ -754,7 +714,7 @@ American mahjong tournaments are held in virtually every state—the largest is 
 
 History
 
-沭陽紙牌.png Mahjong is based on draw-and-discard card games that were popular in 18th and 19th century China, some of which are still popular today.[17] They were played with a stripped deck of money-suited cards. Each deck is divided into three suits of CASH or coins, STRINGS of cash, and MYRIADS of strings. There are nine ranks in each suit. In addition, there are three wild cards: RED FLOWER, WHITE FLOWER, and OLD THOUSAND. Depending on the game, there are multiple copies of each card.
+Mahjong is based on draw-and-discard card games that were popular in 18th and 19th century China, some of which are still popular today.[17] They were played with a stripped deck of money-suited cards. Each deck is divided into three suits of CASH or coins, STRINGS of cash, and MYRIADS of strings. There are nine ranks in each suit. In addition, there are three wild cards: RED FLOWER, WHITE FLOWER, and OLD THOUSAND. Depending on the game, there are multiple copies of each card.
 
 Games scholar David Parlett has written that the Western card games Conquian and Rummy share a common origin with Mahjong.[18] All these games involve players drawing and discarding tiles or cards to make melds. Khanhoo is an early example of such a game. The most likely ancestor to Mahjong was _pènghú_ (碰和) which was played with 120 or 150 cards.[19] During the late 19th century, _pènghú_ was used interchangeably with _máquè_ in both card and tile form.
 
@@ -764,7 +724,7 @@ The ban on gambling after the founding of the People's Republic in 1949 led to a
 
 Mahjong in the West
 
-Schoolkidsmahjong.jpg In 1895, British sinologist William Henry Wilkinson wrote a paper which mentioned a set of cards known in central China by the name of _ma chioh_, literally, hemp sparrow, which he maintained was the origin of the term Mahjong. He did not explain the dialect of the originator or region specific etymology of this information.[28] By 1910, there were written accounts in many languages, including French and Japanese.
+In 1895, British sinologist William Henry Wilkinson wrote a paper which mentioned a set of cards known in central China by the name of _ma chioh_, literally, hemp sparrow, which he maintained was the origin of the term Mahjong. He did not explain the dialect of the originator or region specific etymology of this information.[28] By 1910, there were written accounts in many languages, including French and Japanese.
 
 The game was imported to the United States in the 1920s.[29] The first Mahjong sets sold in the U.S. were sold by Abercrombie & Fitch starting in 1920. It became a success in Washington, D.C., and the co-owner of the company, Ezra Fitch, sent emissaries to Chinese villages to buy every Mahjong set they could find. Abercrombie & Fitch sold a total of 12,000 Mahjong sets.
 

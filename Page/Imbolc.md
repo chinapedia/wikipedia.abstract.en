@@ -23,7 +23,7 @@ In Gaelic Ireland, Imbolc was the _feis_ or festival marking the beginning of sp
 
 From the 18th century to the mid 20th century, many accounts of Imbolc or St Brigid's Day were recorded by folklorists and other writers. They tell us how it was celebrated then, and shed light on how it may have been celebrated in the past.[18][19]
 
-Making_crosses_at_St_Brigids_Well.JPG]] Imbolc has traditionally been celebrated on 1 February. However, because the day was deemed to begin and end at sunset, the celebrations would start on what is now 31 January. It has also been argued that the timing of the festival was originally more fluid and based on seasonal changes. It has been associated with the onset of the lambing season[20] (which could vary by as much as two weeks before or after 1 February),[21] the beginning of the spring sowing,[22] and the blooming of blackthorn.[23]
+]] Imbolc has traditionally been celebrated on 1 February. However, because the day was deemed to begin and end at sunset, the celebrations would start on what is now 31 January. It has also been argued that the timing of the festival was originally more fluid and based on seasonal changes. It has been associated with the onset of the lambing season[20] (which could vary by as much as two weeks before or after 1 February),[21] the beginning of the spring sowing,[22] and the blooming of blackthorn.[23]
 
 The holiday was a festival of the hearth and home, and a celebration of the lengthening days and the early signs of spring. Celebrations often involved hearthfires, special foods, divination or watching for omens, candles or a bonfire if the weather permitted.[24][25] Fire and purification were an important part of the festival. The lighting of candles and fires represented the return of warmth and the increasing power of the Sun over the coming months.[26] A spring cleaning was also customary.[27]
 
@@ -33,7 +33,7 @@ Donald Alexander Mackenzie also recorded that offerings were made "to earth and 
 
 Brigid
 
-Stbrigid.jpg Imbolc is strongly associated with Saint Brigid (, modern Irish: __, modern Scottish Gaelic: __ or __, anglicised _Bridget_). Saint Brigid is thought to have been based on Brigid, a Gaelic goddess.[31] The festival, which celebrates the onset of spring, is thought to be linked with Brigid in her role as a fertility goddess.[32]
+Imbolc is strongly associated with Saint Brigid (, modern Irish: __, modern Scottish Gaelic: __ or __, anglicised _Bridget_). Saint Brigid is thought to have been based on Brigid, a Gaelic goddess.[31] The festival, which celebrates the onset of spring, is thought to be linked with Brigid in her role as a fertility goddess.[32]
 
 On Imbolc Eve, Brigid was said to visit virtuous households and bless the inhabitants.[33] As Brigid represented the light half of the year, and the power that will bring people from the dark season of winter into spring, her presence was very important at this time of year.[34][35]
 
@@ -43,8 +43,6 @@ Brigid would be symbolically invited into the house and a bed would often be mad
 
 Before going to bed, people would leave items of clothing or strips of cloth outside for Brigid to bless.[43] Ashes from the fire would be raked smooth and, in the morning, they would look for some kind of mark on the ashes as a sign that Brigid had visited.[44][45] The clothes or strips of cloth would be brought inside, and believed to now have powers of healing and protection.[46][47]
 
-Saint_Brigid's_cross.jpg
-
 In Ireland and Scotland, a representation of Brigid would be paraded around the community by girls and young women. Usually it was a doll-like figure known as a __ (also called a 'Breedhoge' or 'Biddy'). It would be made from rushes or reeds and clad in bits of cloth, flowers and/or shells.[48][49] In the Hebrides of Scotland, a bright shell or crystal called the __ (guiding star of Brigid) was set on its chest. The girls would carry it in procession while singing a hymn to Brigid. All wore white with their hair unbound as a symbol of purity and youth. They visited every house in the area, where they received either food or more decoration for the . Afterwards, they feasted in a house with the set in a place of honour, and put it to bed with lullabies. In the late 17th century, Catholic families in the Hebrides would make a bed for the out of a basket.[50] When the meal was done, the local young men humbly asked for admission, made obeisance to the , and joined the girls in dancing and merrymaking.[51] In many places, only unwed girls could carry the , but in some both boys and girls carried it.[52] Sometimes, rather than carrying a , a girl impersonated Brigid. Escorted by other girls, she went house-to-house wearing 'Brigid's crown' and carrying 'Brigid's shield' and 'Brigid's cross', all of which were made from rushes.[53] The procession in some places included 'strawboys', who wore conical straw hats, masks and played folk music; much like the wrenboys.[54] Up until the mid-20th century, children in Ireland still went house-to-house asking for pennies for "poor Biddy", or money for the poor. In County Kerry, men in white robes went from house to house singing.[55]
 
 In Ireland, Brigid's crosses (_pictured on the right_) were made at Imbolc. A Brigid's cross usually consists of rushes woven into a four-armed equilateral cross, although three-armed crosses have also been recorded.[56][57] They were often hung over doors, windows and stables to welcome Brigid and for protection against fire, lightning, illness and evil spirits.[58] The crosses were generally left there until the next Imbolc.[59] In western , people would make a __ ('s girdle); a great ring of rushes with a cross woven in the middle. Young boys would carry it around the village, inviting people to step through it and so be blessed.[60]
@@ -53,14 +51,14 @@ Today, some people still make Brigid's crosses and s or visit holy wells dedicat
 
 Weather divination
 
-Snowdrop.JPG Imbolc was traditionally a time of weather divination, and the old tradition of watching to see if serpents or badgers came from their winter dens may be a forerunner of the North American Groundhog Day. A Scottish Gaelic proverb about the day is:
+Imbolc was traditionally a time of weather divination, and the old tradition of watching to see if serpents or badgers came from their winter dens may be a forerunner of the North American Groundhog Day. A Scottish Gaelic proverb about the day is:
 
 Imbolc was believed to be when the —the divine hag of Gaelic tradition—gathers her firewood for the rest of the winter. Legend has it that if she wishes to make the winter last a good while longer, she will make sure the weather on Imbolc is bright and sunny, so she can gather plenty of firewood. Therefore, people would be relieved if Imbolc is a day of foul weather, as it means the is asleep and winter is almost over.[63] At Imbolc on the Isle of Man, where she is known as __, the is said to take the form of a gigantic bird carrying sticks in her beak.[64]
 
 
 Neopaganism
 
-Imbolc_Festival_February_3rd_2007.jpg, February 2007]] Imbolc or Imbolc-based festivals are held by some Neopagans. As there are many kinds of Neopaganism, their Imbolc celebrations can be very different despite the shared name. Some try to emulate the historic festival as much as possible. Other Neopagans base their celebrations on many sources, with historic accounts of Imbolc being only one of them.[65][66]
+, February 2007]] Imbolc or Imbolc-based festivals are held by some Neopagans. As there are many kinds of Neopaganism, their Imbolc celebrations can be very different despite the shared name. Some try to emulate the historic festival as much as possible. Other Neopagans base their celebrations on many sources, with historic accounts of Imbolc being only one of them.[65][66]
 
 Neopagans usually celebrate Imbolc on 1 February in the Northern Hemisphere and 1 August in the Southern Hemisphere.[67][68][69][70] Some Neopagans celebrate it at the astronomical midpoint between the winter solstice and spring equinox (or the full moon nearest this point). In the Northern Hemisphere, this is usually on 3 or 4 February.[71] Other Neopagans celebrate Imbolc when the primroses, dandelions, and other spring flowers emerge.[72]
 

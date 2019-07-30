@@ -18,21 +18,19 @@ The city's full official name is ,[18] which can be translated as "Royal Capital
 
 History
 
-Krakow_nagrobek_Kazimierza_W.jpg at Wawel Cathedral. Kraków was the capital of Poland from 1038 to 1596]]
+at Wawel Cathedral. Kraków was the capital of Poland from 1038 to 1596]]
 
 Kraków's early history begins with evidence of a Stone Age settlement on the present site of the Wawel Hill.[20] A legend attributes Kraków's founding to the mythical ruler Krakus, who built it above a cave occupied by a dragon, Smok Wawelski. The first written record of the city's name dates back to 965, when Kraków was described as a notable commercial centre controlled first by Moravia (876–879), but captured by a Bohemian duke Boleslaus I in 955.[21] The first acclaimed ruler of Poland, Mieszko I, took Kraków from the Bohemians and incorporated it into the holdings of the Piast dynasty towards the end of his reign.[22]
 
 In 1038, Kraków became the seat of the Polish government.[23] By the end of the 10th century, the city was a leading centre of trade.[24] Brick buildings were constructed, including the Royal Wawel Castle with St. Felix and Adaukt Rotunda, Romanesque churches such as St. Adalbert's, a cathedral, and a basilica.[25] The city was sacked and burned during the Mongol invasion of 1241.[26] It was rebuilt practically identical,[27] based on new location act and incorporated in 1257 by the high duke Bolesław V the Chaste who following the example of Wrocław, introduced city rights modelled on the Magdeburg law allowing for tax benefits and new trade privileges for the citizens.[28] In 1259, the city was again ravaged by the Mongols. A third attack in 1287 was repelled thanks in part to the new built fortifications.[29] In 1335, King Casimir III of Poland (Kazimierz in Polish) declared the two western suburbs to be a new city named after him, Kazimierz (_Casimiria_ in Latin). The defensive walls were erected around the central section of Kazimierz in 1362, and a plot was set aside for the Augustinian order next to Skałka.[30]
 
-Kościół_św._Wojciecha.jpg is one of the oldest Christian temples in the city dating from the 11th century]]
+is one of the oldest Christian temples in the city dating from the 11th century]]
 
 The city rose to prominence in 1364, when Casimir III of Poland founded the University of Kraków,[31] the second oldest university in central Europe after the Charles University in Prague. King Casimir also began work on a campus for the Academy in Kazimierz, but he died in 1370 and the campus was never completed. The city continued to grow under the joint Lithuanian-Polish Jagiellon dynasty. As the capital of the Kingdom of Poland and a member of the Hanseatic League, the city attracted many craftsmen, businesses, and guilds as science and the arts began to flourish.[32] The royal chancery and the University ensured a first flourishing of Polish literary culture in the city.[33]
 
 Kraków's "Golden Age"
 
-Nuremberg_chronicles_-_CRACOVIA.png, 1493]] The 15th and 16th centuries were known as Poland's _Złoty Wiek_ or Golden Age.[34] Many works of Polish Renaissance art and architecture were created,[35][36] including ancient synagogues in Kraków's Jewish quarter located in the north-eastern part of Kazimierz, such as the Old Synagogue.[37] During the reign of Casimir IV, various artists came to work and live in Kraków, and Johann Haller established a printing press in the city[38] after Kasper Straube had printed the Calendarium Cracoviense, the first work printed in Poland, in 1473.[39][40]
-
-View_of_Kraków_near_the_end_of_the_16th_century.jpg
+, 1493]] The 15th and 16th centuries were known as Poland's _Złoty Wiek_ or Golden Age.[34] Many works of Polish Renaissance art and architecture were created,[35][36] including ancient synagogues in Kraków's Jewish quarter located in the north-eastern part of Kazimierz, such as the Old Synagogue.[37] During the reign of Casimir IV, various artists came to work and live in Kraków, and Johann Haller established a printing press in the city[38] after Kasper Straube had printed the Calendarium Cracoviense, the first work printed in Poland, in 1473.[39][40]
 
 During the 15th century extremist clergymen advocated violence towards the Jews, who in a gradual process lost their positions. In 1469 Jews were expelled from their old settlement to Spiglarska Street. In 1485 Jewish elders were forced into a renunciation of trade in Kraków, which led many Jews to leave for Kazimierz that did not fall under the restrictions due to its status as a royal town. Following the 1494 fire in Kraków, a wave of anti-Jewish attacks took place.[41] In 1495, King John I Albert expelled the Jews from the city walls of Kraków; they moved to Kazimierz (now a district of Kraków).[42][43] However, they were still allowed to trade on the Main Square.[44]
 
@@ -40,19 +38,19 @@ In 1520, the most famous church bell in Poland, named _Zygmunt_ after Sigismund 
 
 19th century
 
-Kościuszko_taking_an_oath_at_Kraków's_Market_Square.jpg takes the oath of loyalty to the Polish nation in Kraków's market square (_Rynek_), 1794]]
+takes the oath of loyalty to the Polish nation in Kraków's market square (_Rynek_), 1794]]
 
 Already weakened during the 18th century, by the mid-1790s the Polish–Lithuanian Commonwealth had twice been partitioned by its neighbors: Russia, the Habsburg empire, and Prussia.[50] In 1791, the Austrian Emperor Joseph II changed the status of Kazimierz as a separate city and made it into a district of Kraków. The richer Jewish families began to move out. However, because of the injunction against travel on the Sabbath, most Jewish families stayed relatively close to the historic synagogues. In 1794, Tadeusz Kościuszko initiated an unsuccessful insurrection in the town's Main Square which, in spite of his victorious Battle of Racławice against a numerically superior Russian army, resulted in the third and final partition of Poland.[51] In 1809, Napoleon Bonaparte captured former Polish territories from Austria and made the town part of the Duchy of Warsaw. Following Napoleon's defeat, the 1815 Congress of Vienna restored the pre-war boundaries but also created the partially independent Free City of Kraków. An insurrection in 1846 failed,[52] resulting in the city being annexed by Austria under the name the Grand Duchy of Cracow (, ).[53]
 
 In 1866, Austria granted a degree of autonomy to Galicia after its own defeat in the Austro-Prussian War.[54] Politically freer Kraków became a Polish national symbol and a centre of culture and art, known frequently as the "Polish Athens" (__) or "Polish Mecca".[55] Many leading Polish artists of the period resided in Kraków,[56] among them the seminal painter Jan Matejko,[57] laid to rest at Rakowicki Cemetery, and the founder of modern Polish drama, Stanisław Wyspiański.[58] Fin de siècle Kraków evolved into a modern metropolis; running water and electric streetcars were introduced in 1901, and between 1910 and 1915, Kraków and its surrounding suburban communities were gradually combined into a single administrative unit called Greater Kraków (__).[59][60]
 
-Józef_Brodowski_002-1(crop).JPG. After the Partitions of Poland, Kraków was independent city republic and the only piece of sovereign Polish territory between 1815 and 1846.]]
+. After the Partitions of Poland, Kraków was independent city republic and the only piece of sovereign Polish territory between 1815 and 1846.]]
 
 At the outbreak of World War I on 3 August 1914, Józef Piłsudski formed a small cadre military unit, the First Cadre Company—the predecessor of the Polish Legions—which set out from Kraków to fight for the liberation of Poland.[61] The city was briefly besieged by Russian troops in November 1914.[62] Austrian rule in Kraków ended in 1918 when the Polish Liquidation Committee assumed power.[63][64]
 
 20th century to the present
 
-Rząca_Tadeusz,_Rynek_Główny_w_Krakowie.jpg With the emergence of the Second Polish Republic, Kraków resumed its role as a major academic and cultural centre, with the establishment of new universities such as the AGH University of Science and Technology and the Jan Matejko Academy of Fine Arts, including a number of new and essential vocational schools. It became an important cultural centre for the Polish Jews, including both Zionist and Bundist groups.[65][66] Kraków was also an influential centre of Jewish spiritual life, with all its manifestations of religious observance from Orthodox, to Chasidic and Reform flourishing side by side.
+With the emergence of the Second Polish Republic, Kraków resumed its role as a major academic and cultural centre, with the establishment of new universities such as the AGH University of Science and Technology and the Jan Matejko Academy of Fine Arts, including a number of new and essential vocational schools. It became an important cultural centre for the Polish Jews, including both Zionist and Bundist groups.[65][66] Kraków was also an influential centre of Jewish spiritual life, with all its manifestations of religious observance from Orthodox, to Chasidic and Reform flourishing side by side.
 
 Following the invasion of Poland by Nazi Germany in September 1939, the city of Kraków became part of the General Government, a separate administrative region of the Third Reich. On 26 October 1939, the Nazi Regime constructed Distrikt Krakau, one of four total districts within the General Government. On the same day, the city of Kraków also became the capital of the administration. The General Government was ruled by Hans Frank who was based in the city's Wawel Castle. The Nazis envisioned turning Kraków into a completely Germanised city; after removal of all the Jews and Poles, renaming of locations and streets into the German language, and sponsorship of propaganda trying to portray it as a historically German city.[67] On 28 November 1939 Hans Frank created Judenräte (Jewish Councils) which were to be run by Jewish citizens for the purpose of carrying out orders for the Nazis. These orders included registration of all Jewish people living in the area, the collection of taxes, and forced labour groups.
 
@@ -60,13 +58,11 @@ On the eve of the war some 56,000 Jews resided in Krakow, almost one-quarter of 
 
 During an operation called "", more than 180 university professors and academics were arrested and sent to Sachsenhausen and Dachau concentration camps, though the survivors were later released on the request of prominent Italians.[71][72]
 
-Krakow-Ghetto-checkpoint.jpg, 1942—a German checkpoint during operation __]]
+, 1942—a German checkpoint during operation __]]
 
 The formation of ghettos began in the District in December 1939. Before the forced transport of the Jews to the ghettos, they were encouraged to flee the city. Shortly thereafter in March 1941, the Jewish population was confined to a ghetto within the city of Kraków in which many died of illness or starvation. Initially, a majority of the ghettos were open and Jews were allowed to enter and exit freely. However, as the Nazi Regime became more powerful, many of these ghettos were closed and security became tighter. Those in the ghetto were later murdered or sent to concentration camps, including Bełżec, Płaszów and Auschwitz.[73] The largest deportations within the District occurred from June to September 1942. More specifically, the Kraków ghetto deportation occurred from 1 to 8 June 1942.[74]
 
 Roman Polanski, the film director, is a survivor of the Kraków Ghetto, while Oskar Schindler selected employees from the ghetto to work in his enamelware factory, __ (__ for short) saving them from the camps.[75][76] Similarly, many men capable of physical labor were saved from the deportations to extermination camps and instead set to labor camps across the General Government.[77] By September 1943, the last of the Jews from the Kraków ghetto were deported. Although looted by occupational authorities, Kraków remained relatively undamaged at the end of World War II,[78] sparing most of the city's historical and architectural legacy. Soviet forces entered the city on 18 January 1945, and began arresting Poles loyal to the Polish government-in-exile or those who had served in the Home Army.[79]
-
-Rozwój_terytorialny_Krakowa_-_EN.svg
 
 After the war, under the Polish People's Republic, the intellectual and academic community of Kraków was put under complete political control. The universities were soon deprived of printing rights and autonomy.[80] The Stalinist government ordered the construction of the country's largest steel mill in the newly created suburb of Nowa Huta.[81] The creation of the giant Lenin Steelworks (now Sendzimir Steelworks owned by Mittal) sealed Kraków's transformation from a university city, into an industrial centre.[82] The new working-class, drawn by the industrialization of Kraków, contributed to rapid population growth.
 
@@ -75,7 +71,7 @@ In an effort that spanned two decades, Karol Wojtyła, cardinal archbishop of Kr
 
 Geography
 
-Camaldolese_Monastery_and_Church_in_Bielany,_Kraków.JPG in Bielany]]
+in Bielany]]
 
 Kraków lies in the southern part of Poland, on the Vistula River, in a valley at the foot of the Carpathian Mountains, above sea level; halfway between the Jurassic Rock Upland () to the north, and the Tatra Mountains to the south, constituting the natural border with Slovakia and the Czech Republic; west from the border with Ukraine.
 
@@ -83,7 +79,7 @@ There are five nature reserves in Kraków, with a combined area of ca. . Due to 
 
 Climate
 
-Krakow_Klasztor_Norbertanek.jpg during the Winter season]]
+during the Winter season]]
 
 Officially, Kraków has an oceanic climate, denoted by Köppen classification as _Cfb_,[87][88] best defined as a semicontinental climate.[89][90] Could also be classified as a hemiboreal humid continental climate (_Dfb_) using the isotherm.[91] By classification of the Wincenty Okołowicz has a warm-temperate climate in the center of continental Europe with the "fusion" of different features.[92]
 
@@ -98,7 +94,7 @@ The climate table below presents weather data from the years 2000–2012 althoug
 
 Cityscape
 
-A-10_Sukiennice_w_Krakowie_Kraków,_Rynek_Główny_MM.jpg Cloth Hall (_Sukiennice_) in Main Market Square]] Barbakan_Krakow_z_ulicy_Basztowej.jpg dating from around 1498 was once a fortified outpost of the inner medieval city]]
+Cloth Hall (_Sukiennice_) in Main Market Square]] dating from around 1498 was once a fortified outpost of the inner medieval city]]
 
 Developed over many centuries, Kraków provides a showcase setting for many historic styles of architecture. As the city expanded, so too did the architectural achievements of its builders. It is for this reason that the variations in style and urban planning are so easily recognisable.
 
@@ -106,23 +102,21 @@ Built from its earliest nucleus outward, and having escaped much of the destruct
 
 Kraków's historic centre, which includes the Old Town, Kazimierz and the Wawel Castle, was included as the first of its kind on the list of UNESCO World Heritage Sites in 1978.[98] The _Stare Miasto_ is the most prominent example of an old town in the country.[99] For many centuries Kraków was the royal capital of Poland, until Sigismund III Vasa relocated the court to Warsaw in 1596. The whole district is bisected by the Royal Road, the coronation route traversed by the Kings of Poland. The Route begins at St. Florian's Church outside the northern flank of the old city-walls in the medieval suburb of Kleparz; passes the Barbican of Kraków (_Barbakan_) built in 1499, and enters _Stare Miasto_ through the Florian Gate. It leads down Floriańska Street through the Main Square, and up Grodzka to Wawel, the former seat of Polish royalty, overlooking the Vistula river. Old Town attracts visitors from all over the World. Kraków historic centre is one of the 13 places in Poland that are included in the UNESCO World Heritage Sites. The architectural design of the district had survived all cataclysms of the past and retained its original form coming from the medieval times. The Old Town of Kraków is home to about six thousand historic sites and more than two million works of art.[100] Its rich variety of heritage architecture includes Gothic, Renaissance and Baroque buildings. Kraków's palaces, churches, theatres and mansions display great variety of color, architectural details, stained glass, paintings, sculptures, and furnishings.
 
-Krakow_Kanonicza_20070804_1000.jpg]]
+]]
 
 In addition to the old town, the city's district of Kazimierz is particularly notable for its many renaissance buildings and picturesque streets, as well as the historic Jewish quarter located in the north-eastern part of Kazimierz. Kazimierz was founded in the 14th century to the south-east of the city centre and soon became a wealthy, well-populated area where construction of imposing properties became commonplace. Perhaps the most important feature of medieval Kazimierz was the only major, permanent bridge (_Pons Regalis_) across the northern arm of the Vistula. This natural barrier used to separate Kazimierz from the Old Town for several centuries, while the bridge connected Kraków to the Wieliczka Salt Mine and the lucrative Hungarian trade route. The last structure at this location (at the end of modern Stradom Street) was dismantled in 1880 when the northern arm of the river was filled in with earth and rock, and subsequently built over.[101][102]
 
-Kraków_239a.jpg
-
 By the 1930s, Kraków had 120 officially registered synagogues and prayer houses that spanned across the old city. Much of Jewish intellectual life had moved to new centres like Podgórze.[103] This in turn, led to the redevelopment and renovation of much of Kazimierz and the development of new districts in Kraków. Most historic buildings in central Kazimierz today are preserved in their original form. Some old buildings, however, were not repaired after the devastation brought by the Second World War, and have remained empty. Most recent efforts at restoring the historic neighborhoods gained new impetus around 1993. Kazimierz is now a well-visited area, seeing a booming growth in Jewish-themed restaurants, bars, bookstores and souvenir shops.
 
-DZolopa_033_2013.jpg at Szczepański Square, is an example of Art Nouveau architecture in central Kraków[104]]]
+at Szczepański Square, is an example of Art Nouveau architecture in central Kraków[104]]]
 
 As the city of Kraków began to expand further under the rule of the Austro-Hungarian Empire, the new architectural styles also developed. Key buildings from the 19th and early 20th centuries in Kraków include the Jan Matejko Academy of Fine Arts, the directorate of the Polish State Railways as well as the original complex of Kraków Główny railway station and the city's Academy of Economics. It was also at around that time that Kraków's first radial boulevards began to appear, with the city undergoing a large-scale program aimed at transforming the ancient Polish capital into a sophisticated regional centre of the Austro-Hungarian Empire. New representative government buildings and multi-story tenement houses were built at around that time. Much of the urban-planning beyond the walls of the Old Town was done by Polish architects and engineers trained in Vienna. Some major projects of the era include the development of the Jagiellonian University's new premises and the building of the Collegium Novum just west of the Old Town. The imperial style planning of the city's further development continued until the return of Poland's independence, following the First World War. Early modernist style in Kraków is represented by such masterpieces as the Palace of Art by Franciszek Mączyński and the 'House under the Globe'. Secession style architecture, which had arrived in Kraków from Vienna, became popular towards the end of the Partitions.[105]
 
-Basztowa_Ur.Woj_i_NBP,_Krakow.jpg]] With Poland's regained independence came the major change in the fortunes of Kraków—now the second most important city of a sovereign nation. The state began to make new plans for the city development and commissioned a number of representative buildings. The predominant style for new projects was modernism with various interpretations of the art-deco style.[106] Important buildings constructed in the style of Polish modernism include the Feniks 'LOT' building on Basztowa Street, the Feniks department store on the Main Square and the Municipal Savings Bank on Szczepański Square. The Józef Piłsudski house is also of note as a particularly good example of interwar architecture in the city.[107]
+]] With Poland's regained independence came the major change in the fortunes of Kraków—now the second most important city of a sovereign nation. The state began to make new plans for the city development and commissioned a number of representative buildings. The predominant style for new projects was modernism with various interpretations of the art-deco style.[106] Important buildings constructed in the style of Polish modernism include the Feniks 'LOT' building on Basztowa Street, the Feniks department store on the Main Square and the Municipal Savings Bank on Szczepański Square. The Józef Piłsudski house is also of note as a particularly good example of interwar architecture in the city.[107]
 
 After the Second World War, new government turned toward Soviet influence and the Stalinist monumentalism. The doctrine of Socialist realism in Poland, as in other countries of the People's Republics, was enforced from 1949 to 1956. It involved all domains of art, but its most spectacular achievements were made in the field of urban design. The guidelines for this new trend were spelled-out in a 1949 resolution of the National Council of Party Architects. Architecture was to become a weapon in establishing the new social order by the communists.[108] The ideological impact of urban design was valued more than aesthetics. It aimed at expressing persistence and power. This form of architecture was implemented in the new industrial district of Nowa Huta with apartment blocks constructed according to a Stalinist blueprint, with repetitious courtyards and wide, tree-lined avenues.[109]
 
-Pawilon_Wyspiański_2000,_Kraków.JPG present in Kraków's _Old Town_[110]]]
+present in Kraków's _Old Town_[110]]]
 
 Since the style of the Renaissance was generally regarded as the most revered in old Polish architecture, it was also used for augmenting Poland's Socialist national format. However, in the course of incorporating the principles of Socialist realism, there were quite a few deviations introduced by the communists. One of these was to more closely reflect Soviet architecture, which resulted in the majority of works blending into one another. From 1953, critical opinions in the Party were increasingly frequent, and the doctrine was given up in 1956 marking the end of Stalinism.[111] The soc-realist centre of Nowa Huta is considered to be a meritorious monument of the times. This period in postwar architecture was followed by the mass-construction of large Panel System apartment blocks, most of which were built outside the city centre and thus do not encroach upon the beauty of the old or new towns. Some examples of the new style (e.g., Hotel Cracovia) recently listed as heritage monuments were built during the latter half of the 20th century in Kraków.[112]
 
@@ -130,7 +124,7 @@ After the Revolutions of 1989 and the birth of the Third Republic in the latter 
 
 Parks and gardens
 
-Planty_Park,_autumn,_Old_Town,_Krakow,_Poland.jpg, which surrounds Kraków's _Old Town_]] Planty_Garden,_pavilion,_Old_Town,_Krakow,_Poland.JPG
+, which surrounds Kraków's _Old Town_]]
 
 There are about 40 parks in Kraków including dozens of gardens and forests.[115] Several, like the Planty Park, Botanical Garden, Zoological Garden, Park Krakowski, Jordan Park and Błonia Park are located in the centre of the city; with Zakrzówek, Lasek Wolski forest, Strzelecki Park and Park Lotników (among others) in the surrounding districts.[116] Parks cover about 318.5 hectares (787 acres, 1.2 sq mi) of the city.
 
@@ -149,9 +143,9 @@ Kraków and its environ, surrounded by mountains, suffer from Europe's dirtiest 
 
 Governance
 
-Podgorze_City_Hall_(new),_Podgorze,Krakow,Poland.JPG, which used to be a self-governing independent town until its incorporation into Kraków in 1915]] The Kraków City Council has 43 elected members,[123] one of whom is the mayor, or President of Kraków, elected every four years. The election of the City Council and of the local head of government,[124] which takes place at the same time, is based on legislation introduced on 20 June 2002. The President of Kraków, re-elected for his fourth term in 2014, is Jacek Majchrowski.[125] Several members of the Polish national Parliament (Sejm) are elected from the Kraków constituency.[126] The city's official symbols include a coat of arms, a flag, a seal, and a banner.[127]
+, which used to be a self-governing independent town until its incorporation into Kraków in 1915]] The Kraków City Council has 43 elected members,[123] one of whom is the mayor, or President of Kraków, elected every four years. The election of the City Council and of the local head of government,[124] which takes place at the same time, is based on legislation introduced on 20 June 2002. The President of Kraków, re-elected for his fourth term in 2014, is Jacek Majchrowski.[125] Several members of the Polish national Parliament (Sejm) are elected from the Kraków constituency.[126] The city's official symbols include a coat of arms, a flag, a seal, and a banner.[127]
 
-Krakow_WielopolskiPalace_6876.JPG from 1560, the seat of Kraków's mayor, administration and city council]]
+from 1560, the seat of Kraków's mayor, administration and city council]]
 
 The responsibilities of Kraków's president include drafting and implementing resolutions, enacting city bylaws, managing the city budget, employing city administrators, and preparing against floods and natural disasters.[128] The president fulfills his duties with the help of the City Council, city managers and city inspectors. In the 1990s, the city government was reorganised to better differentiate between its political agenda and administrative functions. As a result, the Office of Public Information was created to handle inquiries and foster communication between city departments and citizens at large.[129]
 
@@ -161,13 +155,13 @@ Districts
 
 Kraków is divided into 18 administrative districts (_dzielnica_) or boroughs, each with a degree of autonomy within its own municipal government.[131] Prior to March 1991, the city had been divided into four quarters which still give a sense of identity to Kraków – the towns of Podgórze, Nowa Huta, and Krowodrza which were amalgamated into the city of Kraków as it expanded, and the ancient town centre of Kraków itself.[132]
 
-PomnikGrunwaldzki-PlacMatejki-POL,_Kraków.jpg is one of the city's most important public spaces]]
+is one of the city's most important public spaces]]
 
 The oldest neighborhoods of Kraków were incorporated into the city before the late-18th century. They include the Old Town (_Stare Miasto_), once contained within the city defensive walls and now encircled by the Planty park; the Wawel District, which is the site of the Royal Castle and the cathedral; Stradom and Kazimierz, the latter originally divided into Christian and Jewish quarters;[133] as well as the ancient town of Kleparz.
 
 Major districts added in the 19th and 20th centuries include Podgórze, which until 1915, was a separate town on the southern bank of the Vistula, and Nowa Huta, east of the city centre, built after World War II.
 
-Nowa_Huta_jako_idealne_socjalistyczne_miasto.jpg district of Nowa Huta]]
+district of Nowa Huta]]
 
 Among the most notable historic districts of the city are: Wawel Hill, home to Wawel Castle and Wawel Cathedral, where many historic Polish kings are buried; the medieval Old Town, with its Main Market Square ( square); dozens of old churches and museums; the 14th-century buildings of the Jagiellonian University; and Kazimierz, the historical centre of Kraków's Jewish social and religious life.[134]
 
@@ -222,11 +216,9 @@ The current divisions were introduced by the Kraków City Hall on 19 April 1995.
 
 Economy
 
-Biurowiec_Newton.JPG
-
 Kraków is one of Poland's most important economic centres and the economic hub of the Lesser Poland (Małopolska) region.[141][142] Since the fall of communism, the private sector has been growing steadily. There are about 50 large multinational companies in the city, including Google, IBM, Royal Dutch Shell, UBS, HSBC, Motorola, Aptiv, MAN SE, General Electric, ABB, Aon, Akamai, Cisco Systems, Hitachi, Philip Morris, Capgemini,[143] and Sabre Holdings,[144] along with other British, German and Scandinavian-based firms.[145][146] The city is also the global headquarters for Comarch, a Polish enterprise software house. In 2005, Foreign direct investment in Kraków has reached approximately US$3,500,000,000. Kraków has been trying to model itself as a European version of Silicon Valley,[147] based on the large number of local and foreign hi-tech companies.[148] The unemployment rate in Kraków was 4.8% in May 2007, well below the national average of 13%.[149][150] Kraków is the second most-visited city in Poland (after Warsaw).[151][152] According to the World Investment Report 2011 by the UN Conference for Trade and Development (UNCTAD), Kraków is also the most emergent city location for investment in global BPO projects (Business Process Outsourcing) in the world.[153]
 
-Lufthansa_Global_Business_Services_Kraków_Bonarka.jpg shared service centre]]
+shared service centre]]
 
 In 2011, the city budget, which is presented by the Mayor of Kraków on 15 November annually, has a projected revenue of 3,500,000,000 złoty.[154] The primary sources of revenue were as follows: 14% from the municipal taxation on real estate properties and the use of amenities, 30% in transfers from the national budget, and 34% in state subsidies. Projected expenditures, totaling 3,520,000,000 złoty, included 21% in city development costs and 79% in city maintenance costs. Of the maintenance costs, as much as 39% were spent on education and childcare. The City of Kraków's development costs included; 41% toward construction of roads, transport, and communication (combined), and 25% for the city's infrastructure and environment.[155] The city has a high bond credit rating, and some 60% of the population is under the age of 45.[156]
 
@@ -259,11 +251,11 @@ InnoEnergy is an integrated alliance of reputable organisations from the educati
 
 Transport
 
-Krakow,_tram_NGT6-2_n°2039.JPG on Piłsudski Bridge]]
+on Piłsudski Bridge]]
 
 Public transport is based on a fairly dense network of tram and bus routes operated by a municipal company, supplemented by a number of private minibus operators. Local trains connect some of the suburbs. The bulk of the city's historic area has been turned into a pedestrian zone with rickshaws and horse-drawn carriages; however, the trams run within a three-block radius.[160] The historic means of transportation in the city can be examined at the Museum of Municipal Engineering in the Kazimierz district, with many old trams, cars and buses.[161]
 
-Dworzec_PKP_w_Krakowie.jpg]]
+]]
 
 Railway connections are available to most Polish cities, e.g. Katowice, Częstochowa, Szczecin, Gdynia and Warsaw. International destinations include Bratislava, Budapest, Vienna, Prague, Berlin, Hamburg, Lviv, Kiev, and Odessa (June–September).[162] The main railway station is located just outside the Old Town District and is well-served by public transport.
 
@@ -372,24 +364,24 @@ bar:2017 at: 767348 text: 767.348 shift:(-4,6)
 
 Religion
 
-Wawel_katedra2.jpg, home to royal coronations and resting place of many national heroes; considered to be Poland's national sanctuary]]
+, home to royal coronations and resting place of many national heroes; considered to be Poland's national sanctuary]]
 
 The metropolitan city of Kraków is known as the city of churches. The abundance of landmark, historic temples along with the plenitude of monasteries and convents earned the city a countrywide reputation as the "Northern Rome" in the past. The churches of Kraków comprise over 120 places of worship (2007) of which over 65 were built in the 20th century. More are still being added.[175] In addition to Roman Catholicism, other denominations present include Jehovah's Witnesses,[176] Mariavite Church, Polish Catholic Church, Polish Orthodox Church, Protestantism and Latter-Day Saints.[177]
 
-Kraków_-_St._Mary_Church_01.JPG (_Kościół Mariacki_)]] Kraków contains also an outstanding collection of monuments of Jewish sacred architecture unmatched anywhere in Poland. Kraków was an influential centre of Jewish spiritual life before the outbreak of World War II, with all its manifestations of religious observance from Orthodox to Chasidic and Reform flourishing side by side. There were at least 90 synagogues in Kraków active before the Nazi German invasion of Poland, serving its burgeoning Jewish community of 60,000–80,000 (out of the city's total population of 237,000), established since the early 12th century.[178]
+(_Kościół Mariacki_)]] Kraków contains also an outstanding collection of monuments of Jewish sacred architecture unmatched anywhere in Poland. Kraków was an influential centre of Jewish spiritual life before the outbreak of World War II, with all its manifestations of religious observance from Orthodox to Chasidic and Reform flourishing side by side. There were at least 90 synagogues in Kraków active before the Nazi German invasion of Poland, serving its burgeoning Jewish community of 60,000–80,000 (out of the city's total population of 237,000), established since the early 12th century.[178]
 
 Most synagogues of Kraków were ruined during World War II by the Nazis who despoiled them of all ceremonial objects, and used them as storehouses for ammunition, firefighting equipment, as general storage facilities and stables. The post-Holocaust Jewish population of the city had dwindled to about 5,900 before the end of the 1940s. Poland was the only Eastern Bloc country to allow free Jewish aliyah without visas or exit permits upon the conclusion of World War II.[179] By contrast, Stalin forcibly kept Soviet Jews in the USSR, as agreed to in the Yalta Conference.[180] In recent time, thanks to efforts of the local Jewish and Polish organisations including foreign financial aid from the American Jewish Joint Distribution Committee, many synagogues underwent major restorations and serve religious and tourist purposes.[181]
 
 
 Education
 
-Krakow_univesity_of_economics_main_building_cropped.JPG]]
+]]
 
 Kraków is a major centre of education. Twenty-four institutions of higher education offer courses in the city, with more than 200,000 students.[182] Jagiellonian University, the oldest university in Poland and ranked by the _Times Higher Education Supplement_ as the second-best university in the country,[183][184] was founded in 1364 as _Studium Generale_[185] and renamed in 1817 to commemorate the Jagiellonian dynasty of Polish-Lithuanian kings.[186] Its principal academic asset is the Jagiellonian Library, with more than 4 million volumes, including a large collection of medieval manuscripts[187] like Copernicus' _De Revolutionibus_ and the Balthasar Behem Codex. With 42,325 students (2005) and 3,605 academic staff, the Jagiellonian University is also one of the leading research centres in Poland. Famous historical figures connected with the University include Saint John Cantius, Jan Długosz, Nicolaus Copernicus, Andrzej Frycz Modrzewski, Jan Kochanowski, King John III Sobieski, Pope John Paul II and Nobel laureates Ivo Andrić and Wisława Szymborska.[188]
 
 AGH University of Science and Technology, established in 1919, is the largest technical university in Poland, with more than 15 faculties and student enrollment exceeding 30,000.[189] It was ranked by the Polish edition of _Newsweek_ as the best technical university in the country in 2004.[190] During its 80-year history, more than 73,000 students graduated from AGH with master's or bachelor's degrees. Some 3,600 persons were granted the degree of Doctor of Science, and about 900 obtained the qualification of Habilitated Doctor.[191]
 
-Collegium_Maius_2017.jpg'', Jagiellonian University's oldest building]]
+'', Jagiellonian University's oldest building]]
 
 Other institutions of higher learning include Academy of Music in Kraków first conceived as conservatory in 1888, one of the oldest and most prestigious conservatories in Central Europe and a major concert venue;[192] Cracow University of Economics, established in 1925;[193] Pedagogical University, in operation since 1946;[194] Agricultural University of Krakow, offering courses since 1890 (initially as a part of Jagiellonian University);[195] Academy of Fine Arts, the oldest Fine Arts Academy in Poland, founded by the Polish painter Jan Matejko; Ludwik Solski Academy for the Dramatic Arts;[196] The Pontifical Academy of Theology;[197] and Krakow University of Technology, which has more than 37,000 graduates.
 
@@ -398,19 +390,17 @@ Scientific societies and their branches in Kraków conduct scientific and educat
 
 Culture
 
-The_Lady_with_an_Ermine.jpg's _Lady with an Ermine_ at National Museum]]
+'s _Lady with an Ermine_ at National Museum]]
 
 Kraków was named the official European Capital of Culture for the year 2000 by the European Union.[198] It is a major attraction for both local and international tourists, attracting nearly 13 million visitors a year.[199] Major landmarks include the Main Market Square with St. Mary's Basilica and the Sukiennice Cloth Hall, the Wawel Castle, the National Art Museum, the Zygmunt Bell at the Wawel Cathedral, and the medieval St. Florian's Gate with the Barbican along the Royal Coronation Route.[200] Kraków has 28 museums and public art galleries. Among them is the Czartoryski Museum featuring works by Leonardo da Vinci and Rembrandt as well as the EUROPEUM - European Culture Centre and the Archaeological Museum of Kraków whose collection highlights include the Zbruch Idol and the Bronocice Pot.
 
 Museums and national art galleries
 
-Kraków,_Gmach_Główny_Muzeum_Narodowego_-_fotopolska.eu_(255212).jpg in Kraków is one of Poland's finest galleries of art]]
+in Kraków is one of Poland's finest galleries of art]]
 
 Kraków's 28 museums are separated into the national and municipal museums; the city also has a number of art collections and public art galleries. The National Museum, established in 1879, as well as the National Art Collection on Wawel Hill, are all accessible to the general public and well patroned.
 
 The National Art Collection is located at the Wawel, the former residence of three dynasties of Polish monarchs. Royal Chambers feature art, period furniture, Polish and European paintings, collectibles, and an unsurpassed display of the 16th-century monumental Flemish tapestries. Wawel Treasury and Armoury features Polish royal memorabilia, jewels, applied art, and 15th- to 18th-century arms. The Wawel Eastern Collection features Turkish tents and military accessories. The National Museum is the richest museum in the country with collections consisting of several hundred thousand items kept in big part in the Main Building at Ul. 3 Maja, although there are as many as eleven separate divisions of the museum in the city, one of the most popular being The Gallery of the 19th Century Polish Art in Sukiennice with the collection of some of the best known paintings and sculptures of the Young Poland movement. The latest division called _Europeum_ with Brueghel among a hundred Western European paintings was inaugurated in 2013.[201]
-
-Centrum_kongresowe_-_Kraków.jpg
 
 Other major museums of special interest in Kraków include the Manggha Museum of Japanese Art and Technology (at M. Konopnickiej 26),[202] Stanisław Wyspiański Museum (at 11 Szczepanska St),[203] Jan Matejko Manor in Krzesławice,[204] – a museum devoted to the master painter and his life, Emeryk Hutten Czapski Museum,[205] and Józef Mehoffer Manor.[206]
 
@@ -426,7 +416,7 @@ Kraków hosts many annual and biannual artistic events,[212] some of internation
 
 Music
 
-Kraków_-_Filharmonia_01.jpg]] Opera Krakowska[214] one of the leading national opera companies, stages 200 performances each year including ballet, operettas and musicals. It has, in its main repertoire, the greatest world and Polish opera classics. The Opera moved into its first permanent House in the autumn of 2008. It is in charge also of the _Summer Festival of Opera and Operetta_.
+]] Opera Krakowska[214] one of the leading national opera companies, stages 200 performances each year including ballet, operettas and musicals. It has, in its main repertoire, the greatest world and Polish opera classics. The Opera moved into its first permanent House in the autumn of 2008. It is in charge also of the _Summer Festival of Opera and Operetta_.
 
 Kraków is home to two major Polish festivals of early music presenting forgotten Baroque oratorios and operas: _Opera Rara_,[215] and _Misteria Paschalia_.[216] Meanwhile, Capella Cracoviensis runs the _Music in Old Krakow International Festival_.
 
@@ -446,11 +436,11 @@ File:Zespol Wzgórza Wawelskiego 009.jpg|Wawel Castle File:Birkenau gate.JPG|Ger
 
 Sports
 
-Stadion_przed_meczem_z_APOELEM.jpg Stadium]] Kraków_Arena_z_lotu_ptaa.JPG]] Kraków was the host city of the 2014 FIVB Men's Volleyball World Championship and 2016 European Men's Handball Championship. It has also been selected as the European City of Sport for 2014.[226]
+Stadium]] ]] Kraków was the host city of the 2014 FIVB Men's Volleyball World Championship and 2016 European Men's Handball Championship. It has also been selected as the European City of Sport for 2014.[226]
 
 Football is one of the most popular sports in the city.[227] The two teams with the largest following are thirteen-time Polish champion Wisła Kraków,[228] and five-time champion Cracovia,[229] both founded in 1906 as the oldest still existing in Poland.[230] They have been involved in the most intense rivalry in the country and one of the most intense in all of Europe, known as the Holy War (__).[231] Other football clubs include Hutnik Kraków, Wawel Kraków, and one-time Polish champion Garbarnia Kraków. There is also the first-league rugby club Juvenia Kraków. Kraków has a number of additional, equally valued sports teams including twelve-time Polish ice hockey champions Cracovia and the twenty-time women's basketball champions Wisła Kraków.
 
-Stade_Józef_Piłsudski.jpg Stadium]] The Cracovia Marathon, with over a thousand participants from two dozen countries annually, has been held in the city since 2002.[232] Poland's first F1 racing driver Robert Kubica was born and brought up in Kraków, as was former WWE tag team champion Ivan Putski, and Top 10 ranked women's tennis player Agnieszka Radwańska.
+Stadium]] The Cracovia Marathon, with over a thousand participants from two dozen countries annually, has been held in the city since 2002.[232] Poland's first F1 racing driver Robert Kubica was born and brought up in Kraków, as was former WWE tag team champion Ivan Putski, and Top 10 ranked women's tennis player Agnieszka Radwańska.
 
 The construction of a new Kraków Arena began in May 2011; for concerts, indoor athletics, hockey, basketball, futsal, etc. The Arena will be ready in 2013; the total cost is estimated to be 363 million Polish złoty. It will accommodate up to 15 thousand viewers. In the case of a concert, when the stage is set on the lower arena, the facility will be able to seat up to 18 thousand people.
 

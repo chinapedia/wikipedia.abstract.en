@@ -24,7 +24,7 @@ Pope Benedict XIV died of gout in 1758 and the College of Cardinals gathered at 
 
 Rezzonico was crowned as pontiff on 16 July 1758 by the protodeacon, Cardinal Alessandro Albani.
 
-In the same year, the Rezzonico family celebrated Ludovico Rezzonico's marriage into the powerful Savorgnan family. CarloRezzonicoSenior.jpg
+In the same year, the Rezzonico family celebrated Ludovico Rezzonico's marriage into the powerful Savorgnan family.
 
 Actions
 
@@ -36,7 +36,7 @@ Clement XIII's pontificate was repeatedly disturbed by disputes respecting the p
 
 Clement XIII placed the _Encyclopédie_ of D'Alembert and Diderot on the _Index,_ but this index was not as effective as it had been in the previous century. More unexpected resistance came from the less progressive courts of Spain, the Two Sicilies, and Portugal. In 1758 the reforming minister of Joseph I of Portugal (1750–77), the Marquis of Pombal, expelled the Jesuits from Portugal, and transported them all to Civitavecchia, as a "gift for the Pope." In 1760, Pombal sent the papal nuncio home and recalled the Portuguese ambassador from the Vatican. The pamphlet titled the _Brief Relation,_ which claimed the Jesuits had created their own sovereign independent kingdom in South America and tyrannised the Native Americans, all in the interest of an insatiable ambition and avarice,[8] did damage to the Jesuit cause as well.
 
-Tomb_of_clement_xiii_st_peters_rome.jpg]] On 8 November 1760, Clement XIII issued a Papal bull _Quantum ornamenti_, which approved the request of King Charles III of Spain to invoke the Immaculate Conception as the Patroness of Spain, along with its eastern and western territories, while continuing to recognize Saint James the Greater as co-patron.
+]] On 8 November 1760, Clement XIII issued a Papal bull _Quantum ornamenti_, which approved the request of King Charles III of Spain to invoke the Immaculate Conception as the Patroness of Spain, along with its eastern and western territories, while continuing to recognize Saint James the Greater as co-patron.
 
 In France, the Parlement de Paris, with its strong upper bourgeois background and Jansenist sympathies, began its campaign to expel the Jesuits from France in the spring of 1761, and the published excerpts from Jesuit writings, the _Extrait des assertions_, provided anti-Jesuit ammunition (though, arguably, many of the statements the _Extrait_ contained were made to look worse than they were through judicious omission of context). Though a congregation of bishops assembled at Paris in December 1761 recommended no action, Louis XV of France (1715–74) promulgated a royal order permitting the Society to remain in France, with the proviso that certain essentially liberalising changes in their institution satisfy the Parlement with a French Jesuit vicar-general who would be independent of the general in Rome. When the Parlement by the _arrêt_ of 2 August 1762 suppressed the Jesuits in France and imposed untenable conditions on any who remained in the country, Clement XIII protested against this invasion of the Church's rights and annulled the _arrêts_.[9] Louis XV's ministers could not permit such an abrogation of French law, and the King finally expelled the Jesuits in November 1764.
 
@@ -48,7 +48,7 @@ Driven to extremes, Clement XIII consented to call a consistory to consider the 
 
 Ecumenism
 
-ClementXIII.jpeg Clement XIII backed plans to reunite the Catholic Church, with Old Catholic branches that split from Rome in 1724 over the issue of Papal authority, as well as with Protestants. This made little progress since Clement refused to compromise on doctrine with Protestants or on Papal authority with Old Catholics.
+Clement XIII backed plans to reunite the Catholic Church, with Old Catholic branches that split from Rome in 1724 over the issue of Papal authority, as well as with Protestants. This made little progress since Clement refused to compromise on doctrine with Protestants or on Papal authority with Old Catholics.
 
 In support of this policy, he recognised the Hanoverians as Kings of Great Britain despite the long-term residence in Rome of the Catholic House of Stuart. When James Francis Edward Stuart, aka James III died in 1766, Clement refused to recognise his son Charles Edward Stuart as Charles III, despite the objections of his brother Cardinal Henry Benedict Stuart.[13]
 

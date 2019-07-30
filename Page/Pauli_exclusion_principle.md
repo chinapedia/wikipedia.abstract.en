@@ -1,5 +1,3 @@
-Wolfgang_Pauli_young.jpg
-
 The PAULI EXCLUSION PRINCIPLE is the quantum mechanical principle which states that two or more identical fermions (particles with half-integer spin) cannot occupy the same quantum state within a quantum system simultaneously. This principle was formulated by Austrian physicist Wolfgang Pauli in 1925 for electrons, and later extended to all fermions with his spin–statistics theorem of 1940.
 
 In the case of electrons in atoms, it can be stated as follows: it is impossible for two electrons of a poly-electron atom to have the same values of the four quantum numbers: _n_, the principal quantum number, __, the Azimuthal quantum number, _m_, the magnetic quantum number, and _m_(s)_, the spin quantum number. For example, if two electrons reside in the same orbital, and if their _n_, __, and _m_ values are the same, then their _m_(s)_ must be different, and thus the electrons must have opposite half-integer spin projections of 1/2 and −1/2.

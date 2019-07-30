@@ -1,4 +1,4 @@
-Frog_diamagnetic_levitation.jpg, Radboud University Nijmegen, and Michael Berry, University of Bristol, UK, for the magnetic levitation of a live frog.[1]]]
+, Radboud University Nijmegen, and Michael Berry, University of Bristol, UK, for the magnetic levitation of a live frog.[1]]]
 
 The IG NOBEL PRIZE ( ) is a prize awarded annually since 1991 to celebrate ten unusual or trivial achievements in scientific research, its stated aim being to "honor achievements that first make people laugh, and then make them think." The name of the award is a pun on the Nobel Prize, which it parodies, and the word _ignoble_.
 

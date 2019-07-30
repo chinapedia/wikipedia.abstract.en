@@ -3,7 +3,7 @@ PYRIMIDINE is an aromatic heterocyclic organic compound similar to pyridine.[1] 
 
 Occurrence and history
 
-PinnerPyrimidin.png The pyrimidine ring system has wide occurrence in nature[3] as substituted and ring fused compounds and derivatives, including the nucleotides cytosine, thymine and uracil, thiamine (vitamin B1) and alloxan. It is also found in many synthetic compounds such as barbiturates and the HIV drug, zidovudine. Although pyrimidine derivatives such as uric acid and alloxan were known in the early 19th century, a laboratory synthesis of a pyrimidine was not carried out until 1879,[4] when Grimaux reported the preparation of barbituric acid from urea and malonic acid in the presence of phosphorus oxychloride.[5] The systematic study of pyrimidines began[6] in 1884 with Pinner,[7] who synthesized derivatives by condensing ethyl acetoacetate with amidines. Pinner first proposed the name “pyrimidin” in 1885.[8] The parent compound was first prepared by Gabriel and Colman in 1900,[9] [10] by conversion of barbituric acid to 2,4,6-trichloropyrimidine followed by reduction using zinc dust in hot water.
+The pyrimidine ring system has wide occurrence in nature[3] as substituted and ring fused compounds and derivatives, including the nucleotides cytosine, thymine and uracil, thiamine (vitamin B1) and alloxan. It is also found in many synthetic compounds such as barbiturates and the HIV drug, zidovudine. Although pyrimidine derivatives such as uric acid and alloxan were known in the early 19th century, a laboratory synthesis of a pyrimidine was not carried out until 1879,[4] when Grimaux reported the preparation of barbituric acid from urea and malonic acid in the presence of phosphorus oxychloride.[5] The systematic study of pyrimidines began[6] in 1884 with Pinner,[7] who synthesized derivatives by condensing ethyl acetoacetate with amidines. Pinner first proposed the name “pyrimidin” in 1885.[8] The parent compound was first prepared by Gabriel and Colman in 1900,[9] [10] by conversion of barbituric acid to 2,4,6-trichloropyrimidine followed by reduction using zinc dust in hot water.
 
 
 Nomenclature
@@ -39,7 +39,7 @@ Pyrimidines can be prepared via the Biginelli reaction. Many other methods rely 
 
 A novel method is by reaction of _N_-vinyl and _N_-aryl amides with carbonitriles under electrophilic activation of the amide with 2-chloro-pyridine and trifluoromethanesulfonic anhydride:[24]
 
-    PyrimidineSynthAmideCarbonitrile.png
+
 
 
 Reactions
@@ -55,11 +55,11 @@ Free radical attack has been observed for pyrimidine and photochemical reactions
 
 Nucleotides
 
-Blausen_0324_DNA_Pyrimidines.png and RNA.]] Three nucleobases found in nucleic acids, cytosine (C), thymine (T), and uracil (U), are pyrimidine derivatives:
+and RNA.]] Three nucleobases found in nucleic acids, cytosine (C), thymine (T), and uracil (U), are pyrimidine derivatives:
 
     {|
 
-|- | Cytosine_chemical_structure.png || Thymine_chemical_structure.png || Uracil_chemical_structure.png |- |
+|- | || || |- |
 
 Cytosine (C)
 

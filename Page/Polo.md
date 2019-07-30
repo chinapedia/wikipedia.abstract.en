@@ -11,7 +11,7 @@ Arena polo has similar rules, and is played with three players per team. The pla
 
 History
 
-Tang_court_playing_Polo.jpg Chinese courtiers on horseback playing a game of polo, 706 AD]]
+Chinese courtiers on horseback playing a game of polo, 706 AD]]
 
 Origins
 
@@ -19,13 +19,13 @@ Although the exact origins of the game are unknown it most likely began as a sim
 
 Middle Ages and Early Modern Era
 
-Naghshe_Jahan_Square_Isfahan_modified.jpg in Isfahan is the site of a medieval royal polo field.[9]]] Valuable for training cavalry, the game was played from Constantinople to Japan by the Middle Ages. The game also spread south to Arabia and to India and Tibet.
+in Isfahan is the site of a medieval royal polo field.[9]]] Valuable for training cavalry, the game was played from Constantinople to Japan by the Middle Ages. The game also spread south to Arabia and to India and Tibet.
 
 The game continued to be supported by Mongol rulers of Persia in the 11th century, as well as under the Safavid dynasty. In the 17th century, Naqsh-i Jahan Square in Isfahan was built as a polo field by King Abbas I. The game was also learnt by the neighbouring Byzantine Empire at an early date. A _tzykanisterion_ (stadium for playing _tzykanion_, the Byzantine name for polo) was built by emperor Theodosius II (r. 408–450) inside the Great Palace of Constantinople.[10] Emperor Basil I (r. 867–886) excelled at it; Emperor Alexander (r. 912–913) died from exhaustion while playing and John I of Trebizond (r. 1235–1238) died from a fatal injury during a game.[11]
 
 After the Muslim conquests to the Ayyubid and Mameluke dynasties of Egypt and the Levant, their elites favoured it above all other sports. Notable sultans such as Saladin and Baybars were known to play it and encourage it in their court.[12] Polo sticks were features on the Mameluke precursor to modern day playing cards.
 
-Polo_game_from_poem_Guy_u_Chawgan.jpg from the poem _Guy-o Chawgân_ ("the Ball and the Polo-mallet") during Safavid dynasty of Persia, which shows Persian courtiers on horseback playing a game of polo, 1546 AD]]
+from the poem _Guy-o Chawgân_ ("the Ball and the Polo-mallet") during Safavid dynasty of Persia, which shows Persian courtiers on horseback playing a game of polo, 1546 AD]]
 
 The game spread to South Asia where it has had a strong presence in the north western areas of present-day Pakistan (including Gilgit, Chitral, Hunza and Baltistan) since at least the 15th–16th century.[13] The name _polo_ is said to have been derived from the Balti word "pulu", meaning ball.[14] Qutubuddin Aibak, the Turkic slave from Central Asia who later became the Sultan of Delhi in Northern India, ruled as a Sultan for only four years, from 1206 to 1210, dying an accidental death during a game of polo when his horse fell and he was impaled on the pommel of his saddle. Polo likely travelled via the Silk Road to China where it was popular in the Chinese Tang dynasty capital of Chang'an, and also played by women, who wore male dress to do so; many Tang dynasty tomb figures of female players survive.[15] According to the _Oxford Dictionary of Late Antiquity_, the popularity of polo in Tang China was "bolstered, no doubt, by the presence of the Sasanian court in exile".[16]
 
@@ -39,7 +39,7 @@ The modern game of polo is derived from Manipur, India, where the game was known
 
 The origins of the game in Manipur are traced to early precursors of Sagol Kangjei.[20] This was one of three forms of hockey in Manipur, the other ones being field hockey (called Khong Kangjei) and wrestling-hockey (called Mukna Kangjei). Local rituals such as those connected to the Marjing, the Winged-Pony God of Polo and the creation-ritual episodes of the Lai Haraoba festival enacting the life of his son, Khori-Phaba, the polo-playing god of sports. These may indicate an origin earlier than the historical records of Manipur. Later, according to Chaitharol-Kumbaba, a Royal Chronicle of Manipur King Kangba who ruled Manipur much earlier than Nongda Lairen Pakhangba (33 AD) introduced Sagol Kangjei (Kangjei on horse back). Further regular playing of this game commenced in 1605 during the reign of King Khagemba under newly framed rules of the game. However it was the first Mughal emperor, Babur, who popularised the sport in India and ultimately made a significant influence on England.
 
-Polo-field_old_kangla_imphal.JPG, Manipur]] In Manipur, polo is traditionally played with seven players to a side. The players are mounted on the indigenous Manipuri pony, which stands less than . There are no goal posts, and a player scores simply by hitting the ball out of either end of the field. Players strike the ball with the long side of the mallet head, not the end.[21] Players are not permitted to carry the ball, although blocking the ball with any part of the body except the open hand is permitted.[22] The sticks are made of cane, and the balls are made from the roots of bamboo. Players protected their legs by attaching leather shields to their saddles and girths.[23]
+, Manipur]] In Manipur, polo is traditionally played with seven players to a side. The players are mounted on the indigenous Manipuri pony, which stands less than . There are no goal posts, and a player scores simply by hitting the ball out of either end of the field. Players strike the ball with the long side of the mallet head, not the end.[21] Players are not permitted to carry the ball, although blocking the ball with any part of the body except the open hand is permitted.[22] The sticks are made of cane, and the balls are made from the roots of bamboo. Players protected their legs by attaching leather shields to their saddles and girths.[23]
 
 In Manipur, the game was played even by commoners who owned a pony.[24] The kings of Manipur had a royal polo ground within the ramparts of their Kangla Fort. Here they played Manung Kangjei Bung (literally, "Inner Polo Ground"). Public games were held, as they are still today, at the Mapan Kangjei Bung (literally "Outer Polo Ground"), a polo ground just outside the Kangla. Weekly games called Hapta Kangjei (Weekly Polo) were also played in a polo ground outside the current Palace.
 
@@ -53,8 +53,6 @@ The Champions polo league was launched in Jaipur in 2016. It is a new version of
 
 Argentina
 
-Luis_lacey_1922.jpg Campeonato_Argentino_de_Polo_2010_-_5237109478_e7ed034169_o.jpg
-
 British settlers in the Argentine pampas started practicing polo during their free time. Among them, David Shennan is credited with having organised the first formal polo game of the country in 1875, at Estancia El Negrete, located in the province of Buenos Aires.
 
 The sport spread quickly between the skilful gauchos, and several clubs opened in the following years in the towns of Venado Tuerto, Cañada de Gómez, Quilmes, Flores and later (1888) Hurlingham. In 1892 The River Plate Polo Association was founded and constituted the basis for the current Asociación Argentina de Polo. In the Olympic Games held in Paris in 1924 a team composed by Juan Miles, Enrique Padilla, Juan Nelson, Arturo Kenny, G. Brooke Naylor and A. Peña obtained the first gold medal for the country's olympic history; this also occurred in Berlin 1936 with players Manuel Andrada, Andrés Gazzotti, Roberto Cavanagh, Luis Duggan, Juan Nelson, Diego Cavanagh, and Enrique Alberdi.
@@ -65,13 +63,11 @@ Five teams were able to gather four 10 handicap players each, to make 40 handica
 
 The three major polo tournaments in Argentina, known as "Triple Corona" ("Triple Crown"), are Hurlingham Polo Open, Tortugas Polo Open and Palermo Polo Open. Polo season usually lasts from October to December.[30]
 
-Jaeger-LeCoultre_Polo_Masters_2013_-_31082013_-_Match_Legacy_vs_Jaeger-LeCoultre_Veytay_for_the_third_place_44.jpg
-
 Polo has found popularity throughout the rest of the Americas, including Brazil, Chile, Mexico, and the United States of America.[31][32]
 
 United States
 
-Polo_At_the_Kentucky_HOrse_Park_(5995905109).jpg]] Polo_Stadium_in_The_Villages_Florida.jpg James Gordon Bennett Jr. on May 16, 1876 organized what was billed as the first polo match in the United States at Dickel's Riding Academy at 39th Street and Fifth Avenue in New York City. The historical record states that James Gordon Bennett established the Westchester Polo Club on May 6, 1876 and on May 13, 1876 the Jerome Park Racetrack in Westchester County (now Bronx County) was the site of the "first" American outdoor polo match.
+]] James Gordon Bennett Jr. on May 16, 1876 organized what was billed as the first polo match in the United States at Dickel's Riding Academy at 39th Street and Fifth Avenue in New York City. The historical record states that James Gordon Bennett established the Westchester Polo Club on May 6, 1876 and on May 13, 1876 the Jerome Park Racetrack in Westchester County (now Bronx County) was the site of the "first" American outdoor polo match.
 
 H.L. Herbert, James Gordon Bennett and August Belmont financed the original New York Polo Grounds. Herbert stated in a 1913 article[33] that they formed the Westchester Club _after_ the "first" outdoor game was played on 13 May 1876. This contradicts the historical record of the club being established before the Jerome Park game..
 
@@ -81,7 +77,7 @@ There is also an urban legend that the first game of polo in America was played 
 
 During the early part of the 20th century, under the leadership of Harry Payne Whitney, polo changed to become a high-speed sport in the United States, differing from the game in England, where it involved short passes to move the ball towards the opposition's goal. Whitney and his teammates used the fast break, sending long passes downfield to riders who had broken away from the pack at a full gallop.
 
-In the late 1950s, champion polo player and Director of the Long Island Polo Association, Walter Scanlon, introduced the "short form", or "European" style, four period match, to the game of polo.[38] Director_Walter_Scanlon._Bethpage,_LI_-_Newspaper_polo_article..jpg
+In the late 1950s, champion polo player and Director of the Long Island Polo Association, Walter Scanlon, introduced the "short form", or "European" style, four period match, to the game of polo.[38]
 
 
 Rules
@@ -120,14 +116,12 @@ Polo Clubs
 
 All tournaments and levels of play and players are organized within and between polo clubs, including membership, rules, safety, fields and arenas.
 
-UK_vs_Spain_Polo_match.png, 1922. The English side was represented by Frederick A. Gill and Teignmouth P. Melvill whilst the Spanish were represented by Alfonso XIII and the Duke of Peñaranda amongst others]]
+, 1922. The English side was represented by Frederick A. Gill and Teignmouth P. Melvill whilst the Spanish were represented by Alfonso XIII and the Duke of Peñaranda amongst others]]
 
 Club Polo (or County Polo in the UK) is usually overseen by qualified mounted instructors or umpires. In the UK the original County Polo Association was formed in 1898* to look after the interests of the country clubs and to run the County Cup Tournaments, the three London polo clubs—Hurlingham, Ranelagh and Roehampton—and from all associations within the Empire where polo was being played.[48]
 
 
 Polo ponies
-
-Polo_ponies_in_Switzerland.jpg
 
 The mounts used are called 'polo ponies', although the term pony is purely traditional and the mount is actually a full-sized horse. They range from high at the withers, and weigh . The polo pony is selected carefully for quick bursts of speed, stamina, agility and manoeuvrability. Temperament is critical; the horse must remain responsive under pressure and not become excited or difficult to control. Many are Thoroughbreds or Thoroughbred crosses. They are trained to be handled with one hand on the reins, and to respond to the rider's leg and weight cues for moving forward, turning and stopping. A well trained horse will carry its rider smoothly and swiftly to the ball and can account for 60 to 75 percent of the player's skill and net worth to his team.
 
@@ -139,8 +133,6 @@ Each player must have more than one horse, to allow for tired mounts to be repla
 
 
 Players
-
-PoloGirlsHorses.jpg
 
 Each team consists of four mounted players, which can be mixed teams of both men and women.
 
@@ -156,7 +148,7 @@ Polo must be played right-handed in order to prevent head-on collisions.[50]
 
 Equipment
 
-Polo_helmet.jpg Polo_equipment.jpg The_Orange_Polo_Wedstrijden.jpgs, "riding off" an opponent]]
+s, "riding off" an opponent]]
 
 The rules for equipment vary in details between the hosting authorities, but are always for the safety of the players and mounts.
 
@@ -186,19 +178,19 @@ The polo mallet comprises a cane shaft with a rubber-wrapped grip, a webbed thon
 
 Saddle
 
-Polo_saddle.JPG Polo saddles are English-style, close contact, similar to jumping saddles; although most polo saddles lack a flap under the billets. Some players will not use a saddle blanket. The saddle has a flat seat and no knee support; the rider adopting a forward-leaning seat and closed knees dissimilar to a classical dressage seat. A breastplate is added, usually attached to the front billet. A standing martingale must be used: so, a breastplate is a necessity for safety. The tie-down is usually supported by a neck strap. Many saddles also have an overgirth. The stirrup irons are heavier than most, and the stirrup leathers are wider and thicker, for added safety when the player stands in the stirrups. The legs of the pony are wrapped with polo wraps from below the knee to the fetlock to minimize pain. Jumping (open front) or gallop boots are sometimes used along with the polo wraps for added protection. Often, these wraps match the team colours. The pony's mane is most often roached (hogged), and its tail is docked or braided so that it will not snag the rider's mallet.
+Polo saddles are English-style, close contact, similar to jumping saddles; although most polo saddles lack a flap under the billets. Some players will not use a saddle blanket. The saddle has a flat seat and no knee support; the rider adopting a forward-leaning seat and closed knees dissimilar to a classical dressage seat. A breastplate is added, usually attached to the front billet. A standing martingale must be used: so, a breastplate is a necessity for safety. The tie-down is usually supported by a neck strap. Many saddles also have an overgirth. The stirrup irons are heavier than most, and the stirrup leathers are wider and thicker, for added safety when the player stands in the stirrups. The legs of the pony are wrapped with polo wraps from below the knee to the fetlock to minimize pain. Jumping (open front) or gallop boots are sometimes used along with the polo wraps for added protection. Often, these wraps match the team colours. The pony's mane is most often roached (hogged), and its tail is docked or braided so that it will not snag the rider's mallet.
 
 Polo is ridden with double reins for greater accuracy of signals. The bit is frequently a gag bit or Pelham bit. In both cases, the gag or shank rein will be the bottom rein in the rider's hands, while the snaffle rein will be the top rein. If a gag bit is used, there will be a drop noseband in addition to the cavesson, supporting the tie-down. One of the rein sets may alternately be draw reins.
 
 
 The Field
 
-Terrains_de_polo_et_de_football_(US_compliant).svg The playing field is , the area of approximately six soccer fields or 9 American football fields (10 acres)., while arena polo is 96 x 46 metres. The playing field is carefully maintained with closely mowed turf providing a safe, fast playing surface. Goals are posts which are set eight yards apart, centred at each end of the field. The surface of a polo field requires careful and constant grounds maintenance to keep the surface in good playing condition. During half-time of a match, spectators are invited to go onto the field to participate in a polo tradition called "divot stamping", which was developed not only to help replace the mounds of earth (divots) that are torn up by the horses' hooves, but also to afford spectators the opportunity to walk about and socialise.
+The playing field is , the area of approximately six soccer fields or 9 American football fields (10 acres)., while arena polo is 96 x 46 metres. The playing field is carefully maintained with closely mowed turf providing a safe, fast playing surface. Goals are posts which are set eight yards apart, centred at each end of the field. The surface of a polo field requires careful and constant grounds maintenance to keep the surface in good playing condition. During half-time of a match, spectators are invited to go onto the field to participate in a polo tradition called "divot stamping", which was developed not only to help replace the mounds of earth (divots) that are torn up by the horses' hooves, but also to afford spectators the opportunity to walk about and socialise.
 
 
 Contemporary sport
 
-Polo_1900.jpg]]
+]]
 
 Polo is played professionally in many countries, notably Argentina, Australia, Brazil, Canada, Chile, Dominican Republic, France, Germany, Iran, India, New Zealand, Mexico, Pakistan, Jamaica, Spain, South Africa, Switzerland, the United Kingdom, and the United States, and is now an active sport in 77 countries, and although its tenure as an Olympic sport was limited to 1900–1939, in 1998 the International Olympic Committee recognised it as a sport with a bona fide international governing body, the Federation of International Polo. The World Polo Championship is held every three years by the Federation of International Polo.
 
@@ -211,7 +203,7 @@ The United States Polo Association (USPA) is the governing body for polo in the 
 
 East and Southeast Asia
 
-seagamespolo.jpg plays against Thailand in SEA Games Polo 2007]] Polo has been played in Malaysia and Singapore, both of which are former British colonies, since being introduced to Malaya in during the late 19th century. Royal Johor Polo Club was formed in 1884 and Singapore Polo Club was formed in 1886. The oldest polo club in the modern country of Malaysia is Selangor Polo Club, founded in 1902.[56] It was largely played by royalty and the political and business elite.[57]
+plays against Thailand in SEA Games Polo 2007]] Polo has been played in Malaysia and Singapore, both of which are former British colonies, since being introduced to Malaya in during the late 19th century. Royal Johor Polo Club was formed in 1884 and Singapore Polo Club was formed in 1886. The oldest polo club in the modern country of Malaysia is Selangor Polo Club, founded in 1902.[56] It was largely played by royalty and the political and business elite.[57]
 
 Polo was played at the 2007 Southeast Asian Games and 2017 Southeast Asian Games. Nations that competed in the tournament were Indonesia, Singapore, Malaysia, Thailand and Philippines (2007) and Brunei, Malaysia, Singapore and Thailand (2017). The 2007 tournament's gold medal was won by the Malaysian team, followed by Singapore with silver and Thailand with bronze while the 2017 tournament's gold medal was won by Malaysia, followed by Thailand with silver and Brunei with bronze.
 
@@ -239,7 +231,7 @@ Notable players / 10 handicap players
 
 Variants
 
-Polo_Cart_at_City_Palace,_Jaipur.jpg. The museum also displays a "_night polo ball_" with a rotating platform on which a candle is placed.[67]]]
+. The museum also displays a "_night polo ball_" with a rotating platform on which a candle is placed.[67]]]
 
 Sagol Kangjei, discussed above, is arguably a version of polo though it can also be seen as the precursor of modern outdoor polo.
 

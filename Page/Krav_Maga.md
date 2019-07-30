@@ -14,7 +14,7 @@ The name in Hebrew can be translated as "contact combat". The root word _krav_ (
 
 Basic principles
 
-קרב_מגע.jpg Desert_Eagle_110310-F-VU439-369.jpg Like most martial arts, Krav Maga encourages students to avoid physical confrontation.[13] If this is impossible or unsafe, it promotes finishing a fight as quickly and aggressively as possible. Attacks are aimed at the most vulnerable parts of the body, and training is not limited to techniques that avoid severe injury; some even permanently injure or cause death to the opponent.
+Like most martial arts, Krav Maga encourages students to avoid physical confrontation.[13] If this is impossible or unsafe, it promotes finishing a fight as quickly and aggressively as possible. Attacks are aimed at the most vulnerable parts of the body, and training is not limited to techniques that avoid severe injury; some even permanently injure or cause death to the opponent.
 
 Students learn to defend against all variety of attacks and are taught to counter in the quickest and most efficient way.
 
@@ -35,7 +35,7 @@ Training can also cover the study and development of situational awareness to de
 
 Techniques
 
-Krav_Maga_demonstration.ogg Conan_kick.jpg Krav Maga is a continuously evolving system (reflecting real-world experience) and so it is not clear cut to specify a universal curriculum, as may be the case for example within some eastern martial arts. However, of the major Krav Maga organizations worldwide, techniques are largely similar.
+Krav Maga is a continuously evolving system (reflecting real-world experience) and so it is not clear cut to specify a universal curriculum, as may be the case for example within some eastern martial arts. However, of the major Krav Maga organizations worldwide, techniques are largely similar.
 
 ADOPTED TECHNIQUES
 Some of the key focuses of techniques in Krav Maga are—as described above—effectiveness and instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
@@ -67,7 +67,7 @@ Imre Lichtenfeld (also known as Imi Sde-Or) was born in 1910 in Budapest, Austro
 
 In the mid-1930's, anti-Semitic riots began to threaten the Jews of Bratislava, Czechoslovakia. Lichtenfeld became the leader of a group of Jewish boxers and wrestlers who took to the streets to defend Jewish neighborhoods against the growing numbers of anti-Semitic national socialists. Lichtenfeld quickly discovered, however, that actual fighting was very different from competition fighting, and although boxing and wrestling were good sports, they were not always practical for the aggressive and brutal nature of street combat. It was then that he started to re-evaluate his ideas about fighting and started developing the skills and techniques that would eventually become Krav Maga. Having become a thorn in the side of the equally anti-Semitic local authorities, in 1940 Lichtenfeld left his home with his family and friends on the last refugee ship to escape Europe.
 
-Team_Minot_'kicks'_up_their_techniques_121007-F-RB551-106.jpg After making his way to Mandatory Palestine, Lichtenfeld joined the Haganah paramilitary organization.[33] In 1944 Lichtenfeld began training fighters in his areas of expertise: physical fitness, swimming, wrestling, use of the knife, and defense against knife attacks. During this period, Lichtenfeld trained several elite units of the Haganah including Palmach (striking force of the Haganah and forerunner of the special units of the Israel Defense Forces) and the Pal-Yam, as well as groups of police officers.
+After making his way to Mandatory Palestine, Lichtenfeld joined the Haganah paramilitary organization.[33] In 1944 Lichtenfeld began training fighters in his areas of expertise: physical fitness, swimming, wrestling, use of the knife, and defense against knife attacks. During this period, Lichtenfeld trained several elite units of the Haganah including Palmach (striking force of the Haganah and forerunner of the special units of the Israel Defense Forces) and the Pal-Yam, as well as groups of police officers.
 
 In 1948, when the State of Israel was founded and the IDF was formed, Lichtenfeld became Chief Instructor for Physical Fitness and Krav Maga at the IDF School of Combat Fitness.[34] He served in the IDF for about 20 years, during which time he developed and refined his unique method for self-defense and hand-to-hand combat. Self-defense was not a new concept, since nearly all martial arts had developed some form of defensive techniques in their quest for tournament or sport dominance. However, self-defense was based strictly upon the scientific and dynamic principles of the human body. In 1965 judo training was added as part of the Krav Maga training, and until 1968 there were no grades in Krav Maga. Then a trainee's grades were determined largely by his knowledge in judo.[35]
 
@@ -78,7 +78,7 @@ Further pursuing excellence as a student of martial arts, Eli went to Germany in
 
 Krav Maga in the Israeli government
 
-Grand_masters_small_talk.jpg and Yaron Lichtenstein]] The IDF offers a five-week Krav Maga instructor course.[42] It has held an annual Krav Maga competition since May 2013.[43]
+and Yaron Lichtenstein]] The IDF offers a five-week Krav Maga instructor course.[42] It has held an annual Krav Maga competition since May 2013.[43]
 
 
 Krav Maga for civilians
@@ -93,24 +93,24 @@ Grading system
 
 Most of the Krav Maga organizations in Israel, such as the IKMA (Israeli Krav Maga Association, by Haim Gidon), KMF (Krav Maga Federation, by Haim Zut) and Bukan (By Yaron Lichtenstein), as well as international KMW (Krav Maga Worldwide, by Darren Levine), use Imi Lichtenfeld's colored belt grading system which is based upon the Judo ranking system. It starts with White belt, and then Yellow, Orange, Green, Blue, Brown and Black belts. Black belt students can move up the ranks from 1st to 9th Dan. The time and requirements for advancing have some differences between the organizations. In Europe the Fédération Européenne de Krav Maga (by Master Richard Douieb) and Krav Maga Academy Slovenia (by Grand Master Karli Zaniug) also uses the colored belt grading system which is based upon the Judo ranking system.
 
-  ------------------------ ---------------------- ------------------------
-  White                    Ceinture_blanche.png   Krav_Maga_P0_Patch.svg
-  Yellow                   Ceinture_jaune.png     Krav_Maga_P1_Patch.svg
-  Krav_Maga_P2_Patch.svg
-  Orange                   Ceinture_orange.png    Krav_Maga_P3_Patch.svg
-  Krav_Maga_P4_Patch.svg
-  Green                    Ceinture_verte.png     Krav_Maga_P5_Patch.svg
-  Krav_Maga_G1_Patch.svg
-  Blue                     Ceinture_bleue.png     Krav_Maga_G2_Patch.svg
-  Krav_Maga_G3_Patch.svg
-  Brown                    Ceinture_marron.png    Krav_Maga_G4_Patch.svg
-  Krav_Maga_G5_Patch.svg
-  Black                    Ceinture_noire.png     Krav_Maga_E1_Patch.svg
-  Krav_Maga_E2_Patch.svg
-  Krav_Maga_E3_Patch.svg
-  Krav_Maga_E4_Patch.svg
-  Krav_Maga_E5_Patch.svg
-  ------------------------ ---------------------- ------------------------
+  -------- -- --
+  White
+  Yellow
+
+  Orange
+
+  Green
+
+  Blue
+
+  Brown
+
+  Black
+
+
+
+
+  -------- -- --
 
   : International Krav Maga Federation belt colors/patches
 

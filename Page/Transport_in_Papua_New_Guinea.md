@@ -12,7 +12,7 @@ Major improvements were made to key highway links, notably between the coast and
 
 Air Travel
 
-Haia_airstrip.jpg]] P2CHE.jpg, Boeing Vertol 107-II used for heavy lift transportation in Papua New Guinea.]]
+]] , Boeing Vertol 107-II used for heavy lift transportation in Papua New Guinea.]]
 
 Air travel is a very important form of transport in Papua New Guinea, for the transport of humans and high density/value freight. Aeroplanes made it possible to open up the country during its early colonial period. Even today the two largest cities, Port Moresby and Lae, are only directly connected by planes. The biggest airport in the country is Jacksons International Airport in Port Moresby.
 
@@ -38,7 +38,7 @@ HELIPORTS: 2 (2007 est.)
 
 Roadways
 
-Bus_station_near_Walter_Bay,_from_hills_(cropped).jpg As of 1999, Papua New Guinea has a total of of all-weather highway, of which only is sealed/asphalted. Where there are roads there are many privately operated Public Motor Vehicles (PMVs), mostly minivans, which function as unscheduled buses.
+As of 1999, Papua New Guinea has a total of of all-weather highway, of which only is sealed/asphalted. Where there are roads there are many privately operated Public Motor Vehicles (PMVs), mostly minivans, which function as unscheduled buses.
 
 The longest road in the country is the Highlands Highway which links Lae and Madang to the Highlands region. The Boluminski Highway links Kavieng and Namatanai in New Ireland Province. A highway linking Wewak in East Sepik Province and Vanimo in West Sepik Province was completed in September 2007.[7] The Kiunga-Tabubil Highway is a privately maintained road that links highland communities in the Western Province.
 
@@ -51,8 +51,6 @@ In September 2007 a mining company proposed to build a new railway to link the c
 
 
 Waterways, Ports and Port Moresby
-
-POM_Downtown.jpg
 
 The country has of waterways, and commercial port facilities at Port Moresby, Alotau, Oro Bay, Lae, Kimbe, Kieta Madang, Buka, Rabaul/Kokopo, Kiunga, Wewak and Vanimo.[11]
 

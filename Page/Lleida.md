@@ -7,7 +7,7 @@ Lleida is one of the oldest towns in Catalonia, with recorded settlements dating
 
 History
 
-PM_106756_E_Lleida.jpg]]
+]]
 
 In ancient times the city, named ILTRIDA and ILERDA, was the chief city of the Ilergetes, an Iberian tribe. Indíbil, king of the Ilergetes, and Mandoni, king of the Ausetanes, defended it against the Carthaginian and Roman invasions.
 
@@ -37,7 +37,7 @@ Lleida has a temperate semi-arid climate (Köppen _BSk_).[10] Winters are mild a
 
 Districts and neighbourhoods
 
-Calle_Caballeros_de_Lleida.jpg.]] Lleida is divided in the following districts by the _Observatori Socioeconòmic de Lleida_:
+.]] Lleida is divided in the following districts by the _Observatori Socioeconòmic de Lleida_:
 
 -   Balàfia
 -   Les Basses d'Alpicat
@@ -65,7 +65,7 @@ Communications and transport
 
 Railway
 
-Lleida,_estació_de_tren,_d'Adolf_Florensa_(1927)_(14847092915).jpg]] Lleida is served by the RENFE, Spanish state railway's Madrid-Barcelona high-speed rail line, serving Barcelona, Zaragoza, Calatayud, Guadalajara, and Madrid. Lleida has a new airport opened in January 2010, and a minor airfield located in Alfès. Also, the town is the western terminus of the Eix Transversal Lleida-Girona, and a railway covering the same distance (_Eix Transversal Ferroviari_) is currently under planning.
+]] Lleida is served by the RENFE, Spanish state railway's Madrid-Barcelona high-speed rail line, serving Barcelona, Zaragoza, Calatayud, Guadalajara, and Madrid. Lleida has a new airport opened in January 2010, and a minor airfield located in Alfès. Also, the town is the western terminus of the Eix Transversal Lleida-Girona, and a railway covering the same distance (_Eix Transversal Ferroviari_) is currently under planning.
 
 Lleida's only passenger railway station is Lleida Pirineus. It is served by both Renfe and Ferrocarrils de la Generalitat de Catalunya train lines. In the future a Rodalies Lleida commuter network will connect the town with its adjacent area and the main towns of its province, improving the existing network with more train frequency and newly built infrastructure. A second railway station is Pla de la Vilanoveta in an industrial area, and only used by freight trains. A future railway museum will be located in its facilities.[11] Since 2008 the bulk of public transport of the Lleida's surrounding area, mainly buses operated by several companies, is managed by Autoritat Territorial de la Mobilitat de l'Àrea de Lleida.
 
@@ -101,7 +101,7 @@ In addition to these, there's a tourist bus and a regular night service to nearb
 
 Lleida-Pirineus airport
 
-Aeroport_de_Lleida-Alguaire.jpg Lleida has depended long time on nearby airports and had no local air transit. Lleida-Alguaire airport opened in 2010.
+Lleida has depended long time on nearby airports and had no local air transit. Lleida-Alguaire airport opened in 2010.
 
 Future and planned services
 
@@ -131,7 +131,7 @@ Lleida is a traditionally Catalan-speaking city and province, with a characteris
 
 Culture
 
-Auditori_Municipal_Enric_Granados.jpg]] Llotja._Lleida.jpg]] Lleida-26-1_museu_morera.jpg]] Lleida was the Capital of Catalan Culture in 2007.
+]] ]] ]] Lleida was the Capital of Catalan Culture in 2007.
 
 Theatre and music venues
 
@@ -157,7 +157,7 @@ The Escola Municipal de Belles Arts provides higher education in the arts.
 
 Traditional culture
 
-Els_Gegants_de_Lleida.JPG Traditional celebrations include the main annual town festivity: _Festa Major_; _Fira de Sant Miquel_ and _L’Aplec del Caragol_ (escargot-eating festival, the biggest in the world of this sort, held at the Camps Elisis since 1980).
+Traditional celebrations include the main annual town festivity: _Festa Major_; _Fira de Sant Miquel_ and _L’Aplec del Caragol_ (escargot-eating festival, the biggest in the world of this sort, held at the Camps Elisis since 1980).
 
 The latter is a gastronomical festivity focused on escargot cooking and is celebrated yearly at the end of May. "L'Aplec" gathers thousands of people around the table to taste the most traditional dishes from Lleida.
 
@@ -172,7 +172,7 @@ Lleida has a bar and clubbing area, informally known as _Els Vins_. The oldest p
 
 Main sights
 
-Lleida-12-1_seu_vella.jpg]] Castillo_de_Gardeny.jpg]] Lerida_-_Iglesia_de_San_Martin_1.JPG church of Sant Martí]] WLM14ES_-_Casa_Magí_Llorenç._Lleida_-_MARIA_ROSA_FERRE.jpg building]]
+]] ]] church of Sant Martí]] building]]
 
 -   Seu Vella, a cathedral built in a blend of Romanesque and Gothic styles over time, and made a military fortress in the 18th century. There is also an older, and mostly destroyed _Palau de la Suda_, built during Arab rule and later used as a royal residence by the counts of Barcelona and kings of Aragon. Both medieval buildings are situated over the so-called _Turó de la Seu_, a medium-sized hill that overlooks the town.
 -   Seu Nova, the baroque cathedral, in use since Bourbon rule. It was burnt during the Spanish Civil War by the anarchists commanded by Durruti.

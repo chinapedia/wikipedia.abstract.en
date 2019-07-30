@@ -1,4 +1,4 @@
-Port_Moresby_parliament_building_front,_by_Steve_Shattuck.jpg]] Port_Moresby_parliament_building_side,_by_Steve_Shattuck.jpg The POLITICS OF PAPUA NEW GUINEA takes place in a framework of a parliamentary representative democratic multi-party system, whereby the Prime Minister is the head of government. Papua New Guinea is an independent Commonwealth realm, with a governor-general, nominated by the National Parliament, acting as head of state. Executive power is exercised by the government. Legislative power is vested in both the government and parliament.
+]] The POLITICS OF PAPUA NEW GUINEA takes place in a framework of a parliamentary representative democratic multi-party system, whereby the Prime Minister is the head of government. Papua New Guinea is an independent Commonwealth realm, with a governor-general, nominated by the National Parliament, acting as head of state. Executive power is exercised by the government. Legislative power is vested in both the government and parliament.
 
 Constitutional safeguards include freedom of speech, press, worship, movement, and association. The judiciary is independent of the executive and the legislature.
 
@@ -71,23 +71,23 @@ Reforms in June 1995 changed the provincial government system. Regional (at-larg
 
 Papua New Guinea has 22 province-level divisions: twenty provinces, one autonomous province (Bougainville) and the National Capital District.
 
-+-----------------------+--------------------------------------+-----------------------------------------------+
-| 1.  Central           | 12. New Ireland                      | Papua_new_guinea_provinces_(numbers)_2012.png |
-| 2.  Chimbu (Simbu)    | 13. Northern (Oro Province)          |                                               |
-| 3.  Eastern Highlands | 14. Bougainville (autonomous region) |                                               |
-| 4.  East New Britain  | 15. Southern Highlands               |                                               |
-| 5.  East Sepik        | 16. Western Province (Fly)           |                                               |
-| 6.  Enga              | 17. Western Highlands                |                                               |
-| 7.  Gulf              | 18. West New Britain                 |                                               |
-| 8.  Madang            | 19. West Sepik (Sandaun)             |                                               |
-| 9.  Manus             | 20. National Capital District        |                                               |
-| 10. Milne Bay         | 21. Hela                             |                                               |
-| 11. Morobe            | 22. Jiwaka                           |                                               |
-+-----------------------+--------------------------------------+-----------------------------------------------+
++-----------------------+--------------------------------------+--+
+| 1.  Central           | 12. New Ireland                      |  |
+| 2.  Chimbu (Simbu)    | 13. Northern (Oro Province)          |  |
+| 3.  Eastern Highlands | 14. Bougainville (autonomous region) |  |
+| 4.  East New Britain  | 15. Southern Highlands               |  |
+| 5.  East Sepik        | 16. Western Province (Fly)           |  |
+| 6.  Enga              | 17. Western Highlands                |  |
+| 7.  Gulf              | 18. West New Britain                 |  |
+| 8.  Madang            | 19. West Sepik (Sandaun)             |  |
+| 9.  Manus             | 20. National Capital District        |  |
+| 10. Milne Bay         | 21. Hela                             |  |
+| 11. Morobe            | 22. Jiwaka                           |  |
++-----------------------+--------------------------------------+--+
 
 North Solomons (Bougainville)
 
-Bougainville_Panguna_mine_shovel.jpg On Bougainville Island, initially focused on traditional land rights, environmental and economic issues stemming from the operation of the Panguna mine, (a _Conzinc RioTinto Australia_ (now Rio Tinto Limited) and PNG government joint venture), a civil war quickly grew into a war for independence from PNG.
+On Bougainville Island, initially focused on traditional land rights, environmental and economic issues stemming from the operation of the Panguna mine, (a _Conzinc RioTinto Australia_ (now Rio Tinto Limited) and PNG government joint venture), a civil war quickly grew into a war for independence from PNG.
 
 From early 1989 until a truce came into effect in October 1997 and a permanent cease-fire was signed in April 1998 as many as 20,000 people were killed. Under the eyes of a regional peace-monitoring force and a United Nations observer mission, the government and provincial leaders have established an interim government and are working toward election of a provincial government and a referendum on independence.
 
@@ -96,7 +96,7 @@ The people of Bougainville are closely related to those of the nearby Solomon Is
 
 Instability
 
-Peter_O'Neill_May_2015.jpg Michael_Somare_2014.jpg The Morauta government brought in a series of electoral reforms in 2001, designed to address instability and corruption. Among the reforms was the introduction of the Limited Preferential Vote system (LPV), a modified version of Alternative vote, for future elections in PNG. (The introduction of LPV was partly in response to calls for changes in the voting system by Transparency International and the European Union.) The first general election to use LPV was held in 2007.
+The Morauta government brought in a series of electoral reforms in 2001, designed to address instability and corruption. Among the reforms was the introduction of the Limited Preferential Vote system (LPV), a modified version of Alternative vote, for future elections in PNG. (The introduction of LPV was partly in response to calls for changes in the voting system by Transparency International and the European Union.) The first general election to use LPV was held in 2007.
 
 There are many parties, but party allegiances are weak. Winning candidates are usually courted in efforts to forge the majority needed to form a government, and allegiances are fluid. No single party has yet won enough seats to form a government in its own right.
 

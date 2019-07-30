@@ -133,7 +133,7 @@ Statistical research looking at eleven disorders found widespread assortative ma
 
 Environmental
 
-The_prevalence_of_mental_illness_is_higher_in_more_unequal_rich_countries.jpg countries]] In schizophrenia and psychosis, risk factors include migration and discrimination, childhood trauma, bereavement or separation in families, abuse of drugs,[77] and urbanicity.[78]
+countries]] In schizophrenia and psychosis, risk factors include migration and discrimination, childhood trauma, bereavement or separation in families, abuse of drugs,[77] and urbanicity.[78]
 
 In anxiety, risk factors may include parenting factors including parental rejection, lack of parental warmth, high hostility, harsh discipline, high maternal negative affect, anxious childrearing, modelling of dysfunctional and drug-abusing behaviour, and child abuse (emotional, physical and sexual).[79]
 
@@ -182,7 +182,7 @@ Universal prevention (aimed at a population that has no increased risk for devel
 
 Management
 
-Tornow_Pritzhagen_10.jpg-training for people with mental disorders]]
+-training for people with mental disorders]]
 
 Treatment and support for mental disorders is provided in psychiatric hospitals, clinics or a range of community mental health services. In some countries services are increasingly based on a recovery approach, intended to support individual's personal journey to gain the kind of life they want.
 
@@ -217,7 +217,7 @@ Reasonable accommodations (adjustments and supports) might be put in place to he
 
 Epidemiology
 
-Mental_and_behavioral_disorders_world_map-Deaths_per_million_persons-WHO2012.svg Neuropsychiatric_conditions_world_map_-_DALY_-_WHO2004.svg for neuropsychiatric conditions per 100,000 inhabitants in 2004. ]] Mental disorders are common. Worldwide, more than one in three people in most countries report sufficient criteria for at least one at some point in their life.[120] In the United States, 46% qualify for a mental illness at some point.[121] An ongoing survey indicates that anxiety disorders are the most common in all but one country, followed by mood disorders in all but two countries, while substance disorders and impulse-control disorders were consistently less prevalent.[122] Rates varied by region.[123]
+for neuropsychiatric conditions per 100,000 inhabitants in 2004. ]] Mental disorders are common. Worldwide, more than one in three people in most countries report sufficient criteria for at least one at some point in their life.[120] In the United States, 46% qualify for a mental illness at some point.[121] An ongoing survey indicates that anxiety disorders are the most common in all but one country, followed by mood disorders in all but two countries, while substance disorders and impulse-control disorders were consistently less prevalent.[122] Rates varied by region.[123]
 
 A review of anxiety disorder surveys in different countries found average lifetime prevalence estimates of 16.6%, with women having higher rates on average.[124] A review of mood disorder surveys in different countries found lifetime rates of 6.7% for major depressive disorder (higher in some studies, and in women) and 0.8% for Bipolar I disorder.[125]
 
@@ -248,7 +248,7 @@ Conceptions of madness in the Middle Ages in Christian Europe were a mixture of 
 
 Eighteenth century
 
-Gautier_-_Salpetriere.JPG, Paris.]]
+, Paris.]]
 
 By the end of the 17th century and into the Enlightenment, madness was increasingly seen as an organic physical phenomenon with no connection to the soul or moral responsibility. Asylum care was often harsh and treated people like wild animals, but towards the end of the 18th century a moral treatment movement gradually developed. Clear descriptions of some syndromes may be rare prior to the 19th century.
 
@@ -258,11 +258,11 @@ Industrialization and population growth led to a massive expansion of the number
 
 Twentieth century
 
-A_mentally_ill_patient_in_a_strait-jacket_attached_to_the_wa_Wellcome_V0016643ER.jpg The turn of the 20th century saw the development of psychoanalysis, which would later come to the fore, along with Kraepelin's classification scheme. Asylum "inmates" were increasingly referred to as "patients", and asylums renamed as hospitals.
+The turn of the 20th century saw the development of psychoanalysis, which would later come to the fore, along with Kraepelin's classification scheme. Asylum "inmates" were increasingly referred to as "patients", and asylums renamed as hospitals.
 
 Europe and the United States
 
-Insulin_shock_therapy.jpg, 1950s]]
+, 1950s]]
 
 Early in the 20th century in the United States, a mental hygiene movement developed, aiming to prevent mental disorders. Clinical psychology and social work developed as professions. World War I saw a massive increase of conditions that came to be termed "shell shock".
 
@@ -277,7 +277,7 @@ Advances in neuroscience, genetics and psychology led to new research agendas. C
 
 Society and culture
 
-Self.svg Different societies or cultures, even different individuals in a subculture, can disagree as to what constitutes optimal versus pathological biological and psychological functioning. Research has demonstrated that cultures vary in the relative importance placed on, for example, happiness, autonomy, or social relationships for pleasure. Likewise, the fact that a behavior pattern is valued, accepted, encouraged, or even statistically normative in a culture does not necessarily mean that it is conducive to optimal psychological functioning.
+Different societies or cultures, even different individuals in a subculture, can disagree as to what constitutes optimal versus pathological biological and psychological functioning. Research has demonstrated that cultures vary in the relative importance placed on, for example, happiness, autonomy, or social relationships for pleasure. Likewise, the fact that a behavior pattern is valued, accepted, encouraged, or even statistically normative in a culture does not necessarily mean that it is conducive to optimal psychological functioning.
 
 People in all cultures find some behaviors bizarre or even incomprehensible. But just what they feel is bizarre or incomprehensible is ambiguous and subjective.[148] These differences in determination can become highly contentious. The process by which conditions and difficulties come to be defined and treated as medical conditions and problems, and thus come under the authority of doctors and other health professionals, is known as medicalization or pathologization.
 
@@ -287,7 +287,7 @@ Religious, spiritual, or transpersonal experiences and beliefs meet many criteri
 
 Movements
 
-Giorgio_Antonucci.jpg Dr_Thomas_S_Szasz.jpg Controversy has often surrounded psychiatry, and the term anti-psychiatry was coined by psychiatrist David Cooper in 1967. The anti-psychiatry message is that psychiatric treatments are ultimately more damaging than helpful to patients, and psychiatry's history involves what may now be seen as dangerous treatments.[157] Electroconvulsive therapy was one of these, which was used widely between the 1930s and 1960s. Lobotomy was another practice that was ultimately seen as too invasive and brutal. Diazepam and other sedatives were sometimes over-prescribed, which led to an epidemic of dependence. There was also concern about the large increase in prescribing psychiatric drugs for children. Some charismatic psychiatrists came to personify the movement against psychiatry. The most influential of these was R.D. Laing who wrote a series of best-selling books, including _The Divided Self_. Thomas Szasz wrote _The Myth of Mental Illness_. Some ex-patient groups have become militantly anti-psychiatric, often referring to themselves as "survivors".[158] Giorgio Antonucci has questioned the basis of psychiatry through his work on the dismantling of two psychiatric hospitals (in the city of Imola), carried out from 1973 to 1996.
+Controversy has often surrounded psychiatry, and the term anti-psychiatry was coined by psychiatrist David Cooper in 1967. The anti-psychiatry message is that psychiatric treatments are ultimately more damaging than helpful to patients, and psychiatry's history involves what may now be seen as dangerous treatments.[157] Electroconvulsive therapy was one of these, which was used widely between the 1930s and 1960s. Lobotomy was another practice that was ultimately seen as too invasive and brutal. Diazepam and other sedatives were sometimes over-prescribed, which led to an epidemic of dependence. There was also concern about the large increase in prescribing psychiatric drugs for children. Some charismatic psychiatrists came to personify the movement against psychiatry. The most influential of these was R.D. Laing who wrote a series of best-selling books, including _The Divided Self_. Thomas Szasz wrote _The Myth of Mental Illness_. Some ex-patient groups have become militantly anti-psychiatric, often referring to themselves as "survivors".[158] Giorgio Antonucci has questioned the basis of psychiatry through his work on the dismantling of two psychiatric hospitals (in the city of Imola), carried out from 1973 to 1996.
 
 The consumer/survivor movement (also known as user/survivor movement) is made up of individuals (and organizations representing them) who are clients of mental health services or who consider themselves survivors of psychiatric interventions. Activists campaign for improved mental health services and for more involvement and empowerment within mental health services, policies and wider society.[159][160][161] Patient advocacy organizations have expanded with increasing deinstitutionalization in developed countries, working to challenge the stereotypes, stigma and exclusion associated with psychiatric conditions. There is also a carers rights movement of people who help and support people with mental health conditions, who may be relatives, and who often work in difficult and time-consuming circumstances with little acknowledgement and without pay. An anti-psychiatry movement fundamentally challenges mainstream psychiatric theory and practice, including in some cases asserting that psychiatric concepts and diagnoses of 'mental illness' are neither real nor useful.[162][163][164]
 

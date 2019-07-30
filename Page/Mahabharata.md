@@ -1,4 +1,4 @@
-Krishna_and_Arjun_on_the_chariot,_Mahabharata,_18th-19th_century,_India.jpg and Arjuna at Kurukshetra, 18th–19th-century painting]] The _MAHĀBHĀRATA_ (,[1] ;[2] , __, ) is one of the two major Sanskrit epics of ancient India, the other being the _Rāmāyaṇa_.[3] It narrates the struggle between two groups of cousins in the Kurukshetra War and the fates of the Kaurava and the Pāṇḍava princes and their succession. Along with the epic _Rāmāyaṇa_, it forms the Hindu Itihasa.
+and Arjuna at Kurukshetra, 18th–19th-century painting]] The _MAHĀBHĀRATA_ (,[1] ;[2] , __, ) is one of the two major Sanskrit epics of ancient India, the other being the _Rāmāyaṇa_.[3] It narrates the struggle between two groups of cousins in the Kurukshetra War and the fates of the Kaurava and the Pāṇḍava princes and their succession. Along with the epic _Rāmāyaṇa_, it forms the Hindu Itihasa.
 
 It also contains philosophical and devotional material, such as a discussion of the four "goals of life" or _puruṣārtha_ (12.161). Among the principal works and stories in the _Mahābhārata_ are the _Bhagavad Gita_, the story of Damayanti, an abbreviated version of the _Rāmāyaṇa_, and the story of Ṛṣyasringa, often considered as works in their own right.
 
@@ -9,13 +9,13 @@ The _Mahābhārata_ is the longest epic poem known and has been described as "th
 
 Textual history and structure
 
-Karwar_Pictures_-_Yogesa_19.JPG at the Murudeshwara temple, Karnataka.]]
+at the Murudeshwara temple, Karnataka.]]
 
 The epic is traditionally ascribed to the sage Vyāsa, who is also a major character in the epic. Vyāsa described it as being _itihāsa_ (history). He also describes the Guru-shishya parampara, which traces all great teachers and their students of the Vedic times.
 
 The first section of the Mahābhārata states that it was Gaṇeśa who wrote down the text to Vyasa's dictation.
 
-The epic employs the story within a story structure, otherwise known as frametales, popular in many Indian religious and non-religious works. It is first recited at _Takshashila_ by the sage Vaiśampāyana,[13][14] a disciple of Vyāsa, to the King Janamejaya who is the great-grandson of the Pāṇḍava prince Arjuna. The story is then recited again by a professional storyteller named Ugraśrava Sauti, many years later, to an assemblage of sages performing the 12-year sacrifice for the king Saunaka Kulapati in the Naimiśa Forest. Sauti_recites_the_slokas_of_the_Mahabharata.jpg The text was described by some early 20th-century western Indologists as unstructured and chaotic. Hermann Oldenberg supposed that the original poem must once have carried an immense "tragic force" but dismissed the full text as a "horrible chaos."[15] Moritz Winternitz (_Geschichte der indischen Literatur_ 1909) considered that "only unpoetical theologists and clumsy scribes" could have lumped the parts of disparate origin into an unordered whole.[16]
+The epic employs the story within a story structure, otherwise known as frametales, popular in many Indian religious and non-religious works. It is first recited at _Takshashila_ by the sage Vaiśampāyana,[13][14] a disciple of Vyāsa, to the King Janamejaya who is the great-grandson of the Pāṇḍava prince Arjuna. The story is then recited again by a professional storyteller named Ugraśrava Sauti, many years later, to an assemblage of sages performing the 12-year sacrifice for the king Saunaka Kulapati in the Naimiśa Forest. The text was described by some early 20th-century western Indologists as unstructured and chaotic. Hermann Oldenberg supposed that the original poem must once have carried an immense "tragic force" but dismissed the full text as a "horrible chaos."[15] Moritz Winternitz (_Geschichte der indischen Literatur_ 1909) considered that "only unpoetical theologists and clumsy scribes" could have lumped the parts of disparate origin into an unordered whole.[16]
 
 Accretion and redaction
 
@@ -25,7 +25,7 @@ The Mahābhārata itself (1.1.61) distinguishes a core portion of 24,000 verses:
 
 According to what one character says at Mbh. 1.1.50, there were three versions of the epic, beginning with _Manu_ (1.1.27), _Astika_ (1.3, sub-parva 5) or _Vasu_ (1.57), respectively. These versions would correspond to the addition of one and then another 'frame' settings of dialogues. The _Vasu_ version would omit the frame settings and begin with the account of the birth of Vyasa. The _astika_ version would add the _sarpasattra_ and _aśvamedha_ material from Brahmanical literature, introduce the name _Mahābhārata_, and identify Vyāsa as the work's author. The redactors of these additions were probably Pāñcarātrin scholars who according to Oberlies (1998) likely retained control over the text until its final redaction. Mention of the Huna in the _Bhīṣma-parva_ however appears to imply that this parva may have been edited around the 4th century.
 
-Snakesacrifice.jpg The Ādi-parva includes the snake sacrifice (_sarpasattra_) of Janamejaya, explaining its motivation, detailing why all snakes in existence were intended to be destroyed, and why in spite of this, there are still snakes in existence. This _sarpasattra_ material was often considered an independent tale added to a version of the Mahābhārata by "thematic attraction" (Minkowski 1991), and considered to have a particularly close connection to Vedic (Brahmana) literature. The Pañcavimśa Brahmana (at 25.15.3) enumerates the officiant priests of a _sarpasattra_ among whom the names Dhṛtarāṣtra and Janamejaya, two main characters of the _Mahābhārata_'s _sarpasattra_, as well as Takṣaka, the name of a snake in the _Mahābhārata_, occur.[32]
+The Ādi-parva includes the snake sacrifice (_sarpasattra_) of Janamejaya, explaining its motivation, detailing why all snakes in existence were intended to be destroyed, and why in spite of this, there are still snakes in existence. This _sarpasattra_ material was often considered an independent tale added to a version of the Mahābhārata by "thematic attraction" (Minkowski 1991), and considered to have a particularly close connection to Vedic (Brahmana) literature. The Pañcavimśa Brahmana (at 25.15.3) enumerates the officiant priests of a _sarpasattra_ among whom the names Dhṛtarāṣtra and Janamejaya, two main characters of the _Mahābhārata_'s _sarpasattra_, as well as Takṣaka, the name of a snake in the _Mahābhārata_, occur.[32]
 
 The _Suparṇākhyāna_, a late Vedic period poem considered to be among the "earliest traces of epic poetry in India," is an older, shorter precursor to the expanded legend of Garuda that is included in the _Āstīka Parva_, within the _Ādi Parva_ of the _Mahābhārata_.[33][34]
 
@@ -70,14 +70,14 @@ The historicity of the Kurukshetra War is unclear. Many historians estimate the 
 
 Puranic literature presents genealogical lists associated with the Mahābhārata narrative. The evidence of the Puranas is of two kinds. Of the first kind, there is the direct statement that there were 1015 (or 1050) years between the birth of Parikshit (Arjuna's grandson) and the accession of Mahapadma Nanda (400-329 BCE), which would yield an estimate of about 1400 BCE for the Bharata battle.[42] However, this would imply improbably long reigns on average for the kings listed in the genealogies.[43] Of the second kind are analyses of parallel genealogies in the Puranas between the times of Adhisimakrishna (Parikshit's great-grandson) and Mahapadma Nanda. Pargiter accordingly estimated 26 generations by averaging 10 different dynastic lists and, assuming 18 years for the average duration of a reign, arrived at an estimate of 850 BCE for Adhisimakrishna, and thus approximately 950 BCE for the Bharata battle.[44]
 
-Painted_Grey_Ware_Culture_(1200-600_BCE).png (PGW) sites.]] B. B. Lal used the same approach with a more conservative assumption of the average reign to estimate a date of 836 BCE, and correlated this with archaeological evidence from Painted Grey Ware (PGW) sites, the association being strong between PGW artifacts and places mentioned in the epic.[45] John Keay confirms this and also gives 950 BCE for the Bharata battle.[46]
+(PGW) sites.]] B. B. Lal used the same approach with a more conservative assumption of the average reign to estimate a date of 836 BCE, and correlated this with archaeological evidence from Painted Grey Ware (PGW) sites, the association being strong between PGW artifacts and places mentioned in the epic.[45] John Keay confirms this and also gives 950 BCE for the Bharata battle.[46]
 
 Attempts to date the events using methods of archaeoastronomy have produced, depending on which passages are chosen and how they are interpreted, estimates ranging from the late 4th to the mid-2nd millennium BCE.[47] The late 4th-millennium date has a precedent in the calculation of the Kaliyuga epoch, based on planetary conjunctions, by Aryabhata (6th century). Aryabhata's date of 18 February 3102 BCE for Mahābhārata war has become widespread in Indian tradition. Some sources mark this as the disappearance of Krishna from earth.[48] The Aihole inscription of Pulikeshi II, dated to Saka 556 = 634 CE, claims that 3735 years have elapsed since the Bharata battle, putting the date of Mahābhārata war at 3137 BCE.[49][50] Another traditional school of astronomers and historians, represented by Vriddha-Garga, Varahamihira (author of the _Brhatsamhita_) and Kalhana (author of the _Rajatarangini_), place the Bharata war 653 years after the Kaliyuga epoch, corresponding to 2449 BCE.[51]
 
 
 Synopsis
 
-Ganesha_write_Mahabharata.jpg The core story of the work is that of a dynastic struggle for the throne of Hastinapura, the kingdom ruled by the Kuru clan. The two collateral branches of the family that participate in the struggle are the Kaurava and the Pandava. Although the Kaurava is the senior branch of the family, Duryodhana, the eldest Kaurava, is younger than Yudhishthira, the eldest Pandava. Both Duryodhana and Yudhishthira claim to be first in line to inherit the throne.
+The core story of the work is that of a dynastic struggle for the throne of Hastinapura, the kingdom ruled by the Kuru clan. The two collateral branches of the family that participate in the struggle are the Kaurava and the Pandava. Although the Kaurava is the senior branch of the family, Duryodhana, the eldest Kaurava, is younger than Yudhishthira, the eldest Pandava. Both Duryodhana and Yudhishthira claim to be first in line to inherit the throne.
 
 The struggle culminates in the great battle of Kurukshetra, in which the Pandavas are ultimately victorious. The battle produces complex conflicts of kinship and friendship, instances of family loyalty and duty taking precedence over what is right, as well as the converse.
 
@@ -85,7 +85,7 @@ The Mahābhārata itself ends with the death of Krishna, and the subsequent end 
 
 The older generations
 
-Ravi_Varma-Shantanu_and_Satyavati.jpg.]]
+.]]
 
 King Janamejaya's ancestor Shantanu, the king of Hastinapura, has a short-lived marriage with the goddess Ganga and has a son, Devavrata (later to be called Bhishma, a great warrior), who becomes the heir apparent. Many years later, when King Shantanu goes hunting, he sees Satyavati, the daughter of the chief of fisherman, and asks her father for her hand. Her father refuses to consent to the marriage unless Shantanu promises to make any future son of Satyavati the king upon his death. To resolve his father's dilemma, Devavrata agrees to relinquish his right to the throne. As the fisherman is not sure about the prince's children honouring the promise, Devavrata also takes a vow of lifelong celibacy to guarantee his father's promise.
 
@@ -95,7 +95,7 @@ The oldest princess Amba, however, informs Bhishma that she wishes to marry king
 
 The Pandava and Kaurava princes
 
-Draupadi_and_Pandavas.jpg with her five husbands - the Pandavas. The central figure is Yudhishthira; the two on the bottom are Bhima and Arjuna. Nakula and Sahadeva, the twins, are standing. Painting by Raja Ravi Varma, c. 1900.]]
+with her five husbands - the Pandavas. The central figure is Yudhishthira; the two on the bottom are Bhima and Arjuna. Nakula and Sahadeva, the twins, are standing. Painting by Raja Ravi Varma, c. 1900.]]
 
 When Vichitravirya dies young without any heirs, Satyavati asks her first son Vyasa to father children with the widows. The eldest, Ambika, shuts her eyes when she sees him, and so her son Dhritarashtra is born blind. Ambalika turns pale and bloodless upon seeing him, and thus her son Pandu is born pale and unhealthy (the term Pandu may also mean 'jaundiced'[52]). Due to the physical challenges of the first two children, Satyavati asks Vyasa to try once again. However, Ambika and Ambalika send their maid instead, to Vyasa's room. Vyasa fathers a third son, Vidura, by the maid. He is born healthy and grows up to be one of the wisest characters in the _Mahabharata_. He serves as Prime Minister (Mahamantri or Mahatma) to King Pandu and King Dhritarashtra.
 
@@ -113,7 +113,7 @@ Shakuni, Duryodhana and Dusasana plot to get rid of the Pandavas. Shakuni calls 
 
 Marriage to Draupadi
 
-Swayamvara_Draupadi_Arjuna_Archery.jpg piercing the eye of the fish as depicted in Chennakesava Temple built by Hoysala Empire]]
+piercing the eye of the fish as depicted in Chennakesava Temple built by Hoysala Empire]]
 
 Whilst they were in hiding the Pandavas learn of a swayamvara which is taking place for the hand of the Pāñcāla princess Draupadī. The Pandavas disguised as Brahmins come to witness the event. Meanwhile Krishna who has already befriended Draupadi, tells her to look out for Arjuna (though now believed to be dead). The task was to string a mighty steel bow and shoot a target on the ceiling, which was the eye of a moving artificial fish, while looking at its reflection in oil below, a feat only Karna, Arjuna and Krishna himself could perform. After all the princes fail, many being unable to lift the bow Karna proceeds to the attempt but is interrupted by Draupadi refusing to marry a sut putra. After this the swayamvara is opened to the brahmins leading Arjuna to win the contest and marry Draupadi. The Pandavas return home and inform their meditating mother that Arjuna has won a competition and to look at what they have brought back. Without looking, Kunti asks them to share whatever Arjuna has won amongst themselves. Thus, Draupadi ends up being the wife of all five brothers.
 
@@ -127,7 +127,7 @@ The Pandavas have a new palace built for them, by Maya the Danava.[54] They invi
 
 The dice game
 
-Disrobing_of_Draupadi.jpg Shakuni, Duryodhana's uncle, now arranges a dice game, playing against Yudhishthira with loaded dice. In the dice game, Yudhishthira loses all his wealth, then his kingdom. Yudhishthira then gambles his brothers, himself, and finally his wife into servitude. The jubilant Kauravas insult the Pandavas in their helpless state and even try to disrobe Draupadi in front of the entire court, but Draupadi's disrobe is prevented by Krishna, who miraculously make her dress endless, therefore it couldn't be removed.
+Shakuni, Duryodhana's uncle, now arranges a dice game, playing against Yudhishthira with loaded dice. In the dice game, Yudhishthira loses all his wealth, then his kingdom. Yudhishthira then gambles his brothers, himself, and finally his wife into servitude. The jubilant Kauravas insult the Pandavas in their helpless state and even try to disrobe Draupadi in front of the entire court, but Draupadi's disrobe is prevented by Krishna, who miraculously make her dress endless, therefore it couldn't be removed.
 
 Dhritarashtra, Bhishma, and the other elders are aghast at the situation, but Duryodhana is adamant that there is no place for two crown princes in Hastinapura. Against his wishes Dhritarashtra orders for another dice game. The Pandavas are required to go into exile for 12 years, and in the 13th year, they must remain hidden. If they are discovered by the Kauravas in the 13th year of their exile, then they will be forced into exile for another 12 years.
 
@@ -139,7 +139,7 @@ At the end of their exile, they try to negotiate a return to Indraprastha with K
 
 The battle at Kurukshetra
 
-The_center_of_battle_of_Kurukshetra.jpg: A black stone relief depicting a number of men wearing a crown and a dhoti, fighting with spears, swords and bows. A chariot with half the horse out of the frame is seen in the middle.|alt=A black stone relief depicting a number of men wearing a crown and a dhoti, fighting with spears, swords and bows. A chariot with half the horse out of the frame is seen in the middle.]]
+: A black stone relief depicting a number of men wearing a crown and a dhoti, fighting with spears, swords and bows. A chariot with half the horse out of the frame is seen in the middle.|alt=A black stone relief depicting a number of men wearing a crown and a dhoti, fighting with spears, swords and bows. A chariot with half the horse out of the frame is seen in the middle.]]
 
 The two sides summon vast armies to their help and line up at Kurukshetra for a war. The kingdoms of Panchala, Dwaraka, Kasi, Kekaya, Magadha, Matsya, Chedi, Pandyas, Telinga, and the Yadus of Mathura and some other clans like the Parama Kambojas were allied with the Pandavas. The allies of the Kauravas included the kings of Pragjyotisha, Anga, Kekaya, Sindhudesa (including Sindhus, Sauviras and Sivis), Mahishmati, Avanti in Madhyadesa, Madra, Gandhara, Bahlika people, Kambojas and many others. Before war being declared, Balarama had expressed his unhappiness at the developing conflict and leaves to go on pilgrimage; thus he does not take part in the battle itself. Krishna takes part in a non-combatant role, as charioteer for Arjuna.
 
@@ -149,7 +149,7 @@ Though initially sticking to chivalrous notions of warfare, both sides soon adop
 
 The end of the Pandavas
 
-Totheforest.jpg translation of the Mahabharata]]
+translation of the Mahabharata]]
 
 After "seeing" the carnage, Gandhari, who had lost all her sons, curses Krishna to be a witness to a similar annihilation of his family, for though divine and capable of stopping the war, he had not done so. Krishna accepts the curse, which bears fruit 36 years later.
 
@@ -179,7 +179,7 @@ Regional versions
 
 Many regional versions of the work developed over time, mostly differing only in minor details, or with verses or subsidiary stories being added. These include the Tamil street theatre, terukkuttu and kattaikkuttu, the plays of which use themes from the Tamil language versions of _Mahabharata_, focusing on Draupadi.[58]
 
-Wayang_Wong_Bharata_Pandawa.jpgs and Krishna in an act of the Javanese _wayang wong_ performance]]
+s and Krishna in an act of the Javanese _wayang wong_ performance]]
 
 Outside the Indian subcontinent, in Indonesia, a version was developed in ancient Java as Kakawin Bhāratayuddha in the 11th century under the patronage of King Dharmawangsa (990–1016)[59] and later it spread to the neighboring island of Bali, which remains a Hindu majority island today. It has become the fertile source for Javanese literature, dance drama (wayang wong), and wayang shadow puppet performances. This Javanese version of the Mahābhārata differs slightly from the original Indian version. For example, Draupadi is only wed to Yudhishthira, not to all the Pandava brothers; this might demonstrate ancient Javanese opposition to polyandry. The author later added some female characters to be wed to the Pandavas, for example, Arjuna is described as having many wives and consorts next to Subhadra. Another difference is that Shikhandini does not change her sex and remains a woman, to be wed to Arjuna, and takes the role of a warrior princess during the war. Another twist is that Gandhari is described as antagonistic character who hates the Pandavas: her hate is out of jealousy because during Gandhari's swayamvara, she was in love with Pandu but was later wed to his blind elder brother instead, whom she did not love, so she blindfolded herself as protest. Another notable difference is the inclusion of the Punakawans, the clown servants of the main characters in the storyline. These characters include Semar, Petruk, Gareng and Bagong, who are much-loved by Indonesian audiences. There are also some spin-off episodes developed in ancient Java, such as Arjunawiwaha composed in 11th century.
 
@@ -187,7 +187,7 @@ A Kawi version of the _Mahabharata_, of which eight of the eighteen _parvas_ sur
 
 Translations
 
-Razmnama_Bhishma.jpg and Krishna. Folio from the _Razmnama_ (1761–1763), Persian translation of the _Mahabharata_, commissioned by Mughal emperor Akbar. The Pandavas are dressed in Persian armour and robes.[61]]]
+and Krishna. Folio from the _Razmnama_ (1761–1763), Persian translation of the _Mahabharata_, commissioned by Mughal emperor Akbar. The Pandavas are dressed in Persian armour and robes.[61]]]
 
 A Persian translation of _Mahabharata_, titled _Razmnameh_, was produced at Akbar's orders, by Faizi and `Abd al-Qadir Bada'uni in the 18th century.[62]
 
@@ -211,7 +211,7 @@ Amar Chitra Katha published a 1,260 page comic book version of the _Mahabharata_
 
 In film and television
 
-FullPagadeYakshagana.jpg from Karnataka which is based largely on stories of _Mahabharata_]]
+from Karnataka which is based largely on stories of _Mahabharata_]]
 
 In Indian cinema, several film versions of the epic have been made, dating back to 1920.[71] In Telugu film Daana Veera Soora Karna (1977) directed by and starring N. T. Rama Rao depicts Karna as the lead character.[72] The Mahābhārata was also reinterpreted by Shyam Benegal in Kalyug.[73] Prakash Jha directed 2010 film Raajneeti was partially inspired by the _Mahabharata_.[74] A 2013 animated adaptation holds the record for India's most expensive animated film.[75]
 
@@ -221,8 +221,6 @@ Uncompleted projects on the Mahābhārata include a ones by Rajkumar Santoshi,[7
 
 
 Jain version
-
-Neminath_Wedding.JPG
 
 Jain versions of Mahābhārata can be found in the various Jain texts like _Harivamsapurana_ (the story of Harivamsa) _Trisastisalakapurusa Caritra_ (Hagiography of 63 Illustrious persons), _Pandavacaritra_ (lives of Pandavas) and _Pandavapurana_ (stories of Pandavas).[80] From the earlier canonical literature, _Antakrddaaśāh_ (8th cannon) and _Vrisnidasa_ (_upangagama_ or secondary canon) contain the stories of Neminatha (22nd Tirthankara), Krishna and Balarama.[81] Prof. Padmanabh Jaini notes that, unlike in the Hindu Puranas, the names Baladeva and Vasudeva are not restricted to Balarama and Krishna in Jain puranas. Instead they serve as names of two distinct class of mighty brothers, who appear nine times in each half of time cycles of the Jain cosmology and rule the half the earth as half-chakravartins. Jaini traces the origin of this list of brothers to the Jinacharitra by Bhadrabahu swami (4th–3rd century BCE).[82] According to Jain cosmology Balarama, Krishna and Jarasandha are the ninth and the last set of Baladeva, Vasudeva, and Partivasudeva.[83] The main battle is not the Mahabharata, but the fight between Krishna and Jarasandha (who is killed by Krishna). Ultimately, the Pandavas and Balarama take renunciation as Jain monks and are reborn in heavens, while on the other hand Krishna and Jarasandha are reborn in hell.[84] In keeping with the law of karma, Krishna is reborn in hell for his exploits (sexual and violent) while Jarasandha for his evil ways. Prof. Jaini admits a possibility that perhaps because of his popularity, the Jain authors were keen to rehabilitate Krishna. The Jain texts predict that after his karmic term in hell is over sometime during the next half time-cycle, Krishna will be reborn as a Jain Tirthankara and attain liberation.[85] Krishna and Balrama are shown as contemporaries and cousins of 22nd Tirthankara, Neminatha.[86] According to this story, Krishna arranged young Neminath's marriage with Rajamati, the daughter of Ugrasena, but Neminatha, empathizing with the animals which were to be slaughtered for the marriage feast, left the procession suddenly and renounced the world.[87][88]
 

@@ -1,4 +1,4 @@
-Circle_radians.gif with the same length as the radius of that circle subtends an _angle_ of 1 radian. The circumference subtends an angle of 2 radians.]] The RADIAN is the SI unit for measuring angles, and is the standard unit of angular measure used in many areas of mathematics. The length of an arc of a unit circle is numerically equal to the measurement in radians of the angle that it subtends; one radian is just under 57.3 degrees (expansion at ). The unit was formerly an SI supplementary unit, but this category was abolished in 1995 and the radian is now considered an SI derived unit.[1]
+with the same length as the radius of that circle subtends an _angle_ of 1 radian. The circumference subtends an angle of 2 radians.]] The RADIAN is the SI unit for measuring angles, and is the standard unit of angular measure used in many areas of mathematics. The length of an arc of a unit circle is numerically equal to the measurement in radians of the angle that it subtends; one radian is just under 57.3 degrees (expansion at ). The unit was formerly an SI supplementary unit, but this category was abolished in 1995 and the radian is now considered an SI derived unit.[1]
 
 Separately, the SI unit of solid angle measurement is the steradian.
 
@@ -11,7 +11,7 @@ Radian describes the plane angle subtended by a circular arc as the length of th
 
 As the ratio of two lengths, the radian is a "pure number" that needs no unit symbol, and in mathematical writing the symbol "rad" is almost always omitted. When quantifying an angle in the absence of any symbol, radians are assumed, and when degrees are meant the symbol ° is used.
 
-2pi-unrolled.gif 2).]] It follows that the magnitude in radians of one complete revolution (360 degrees) is the length of the entire circumference divided by the radius, or , or 2. Thus 2 radians is equal to 360 degrees, meaning that one radian is equal to 180/ degrees.
+2).]] It follows that the magnitude in radians of one complete revolution (360 degrees) is the length of the entire circumference divided by the radius, or , or 2. Thus 2 radians is equal to 360 degrees, meaning that one radian is equal to 180/ degrees.
 
 The relation 2π rad = 360^(∘) can be derived using the formula for arc length. Taking the formula for arc length, or $\ell_{arc}=2\pi r\left(\frac{\theta}{360^{\circ}}\right)$. Assuming a unit circle; the radius is therefore one. Knowing that the definition of radian is the measure of an angle that subtends an arc of a length equal to the radius of the circle, we know that $1=2\pi\left(\frac{1\text{ rad}}{360^{\circ}}\right)$. This can be further simplified to $1=\frac{2\pi\text{ rad}}{360^{\circ}}$. Multiplying both sides by 360^(∘) gives 360^(∘) = 2π rad.
 
@@ -26,8 +26,6 @@ The term _radian_ first appeared in print on 5 June 1873, in examination questio
 
 
 Conversions
-
-Degree-Radian_Conversion.svg
 
 Conversion between radians and degrees
 
@@ -87,7 +85,7 @@ $$50^\text{g} = 50 \cdot \frac {\pi} {200^\text{g}} \approx 0.7854 \text{ rad}$$
 
 Advantages of measuring in radians
 
-Radian-common.svgs.]]
+s.]]
 
 In calculus and most other branches of mathematics beyond practical geometry, angles are universally measured in radians. This is because radians have a mathematical "naturalness" that leads to a more elegant formulation of a number of important results.
 

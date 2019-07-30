@@ -3,7 +3,7 @@ The LABRADOR DUCK (_Camptorhynchus labradorius_) was a North American bird; it h
 
 Taxonomy
 
-Camptorhynchus_labradoriusSmithMiscCollecV135N7P0304AA.jpg The Labrador duck is considered a sea duck. A basic difference in the shape of the process of metacarpal I divides the sea ducks into two groups:
+The Labrador duck is considered a sea duck. A basic difference in the shape of the process of metacarpal I divides the sea ducks into two groups:
 
 1.  _Bucephala_ and the mergansers
 2.  The eiders, scoters, _Histrionicus_, _Clangula_, and _Camptorhynchus_
@@ -17,7 +17,7 @@ A mitogenomic study of the placement of the Labrador duck found the species to b
 
 Description
 
-Extinctbirds1907_P36_Camptolaemus_labradorius0363AA.jpg of a female and male]] The female plumage was grey. Although weakly patterned, the pattern was scoter-like. The male’s plumage was black and white in an eider-like pattern, but the wings were entirely white except for the primaries. The trachea of the male was scoter-like. An expansion of the tracheal tube occurred at the anterior end, and two enlargements (as opposed to one enlargement as seen in scoters) were near the middle of the tube. The bulla was bony and round, puffing out from the left side. This asymmetrical and osseus bulla was unlike that of scoters; this bulla was similar to eiders and harlequin duck's bullae. The Labrador duck has been considered the most enigmatic of all North American birds.[6]
+of a female and male]] The female plumage was grey. Although weakly patterned, the pattern was scoter-like. The male’s plumage was black and white in an eider-like pattern, but the wings were entirely white except for the primaries. The trachea of the male was scoter-like. An expansion of the tracheal tube occurred at the anterior end, and two enlargements (as opposed to one enlargement as seen in scoters) were near the middle of the tube. The bulla was bony and round, puffing out from the left side. This asymmetrical and osseus bulla was unlike that of scoters; this bulla was similar to eiders and harlequin duck's bullae. The Labrador duck has been considered the most enigmatic of all North American birds.[6]
 
 The Labrador duck had an oblong head with small, beady eyes. Its bill was almost as long as its head. The body was short and depressed with short, strong feet that were far behind the body. The feathers were small and the tail was short and rounded. The Labrador duck belongs to a monotypic genus.[7]
 
@@ -29,14 +29,14 @@ The Labrador duck migrated annually, wintering off the coasts of New Jersey and 
 
 Diet
 
-Camptorhynchus_labradoriusAWP332AA.jpg]] The Labrador duck fed on small molluscs, and some fishermen reported catching it on fishing lines baited with mussels.[10] The structure of the bill was highly modified from that of most ducks, having a wide, flattened tip with numerous lamellae inside. In this way, it is considered an ecological counterpart of the North Pacific/North Asian Steller's eider. The beak was also particularly soft and may have been used to probe through sediment for food.[11]
+]] The Labrador duck fed on small molluscs, and some fishermen reported catching it on fishing lines baited with mussels.[10] The structure of the bill was highly modified from that of most ducks, having a wide, flattened tip with numerous lamellae inside. In this way, it is considered an ecological counterpart of the North Pacific/North Asian Steller's eider. The beak was also particularly soft and may have been used to probe through sediment for food.[11]
 
 Another, completely unrelated, duck with similar (but even more specialized) bill morphology is the Australian pink-eared duck, which feeds largely on plankton, but also mollusks; the condition in the Labrador duck probably resembled that in the blue duck most in outward appearance. Its peculiar bill suggests it ate shellfish and crustaceans from silt and shallow water. The Labrador duck may have survived by eating snails.
 
 
 Extinction
 
-Naturalis_Biodiversity_Center_-_RMNH.AVES.110083_-_Camptorhynchus_labradorius_(Gmelin,_1789)_-_Labrador_Duck_-_specimen_-_video.webm]] The Labrador duck is thought to have been always rare, but between 1850 and 1870, populations waned further.[12] Its extinction (sometime after 1878)[13] is still not fully explained. Although hunted for food, this duck was considered to taste bad, rotted quickly, and fetched a low price. Consequently, it was not sought much by hunters. However, the eggs may have been overharvested, and it may have been subject to depredations by the feather trade in its breeding area, as well. Another possible factor in the bird's extinction was the decline in mussels and other shellfish on which they are believed to have fed in their winter quarters, due to growth of population and industry on the Eastern Seaboard. Although all sea ducks readily feed on shallow-water molluscs, no Western Atlantic bird species seems to have been as dependent on such food as the Labrador duck.[14] Female_Labrador_Duck.jpg Another theory that was said to lead to their extinction was a huge increase of human influence on the coastal ecosystems in North America, causing the birds to flee their niches and find another habitat.[15][16] These ducks were the only birds whose range was limited to the American coast of the North Atlantic, so changing niches was a difficult task.[17] The Labrador duck became extinct in the late 19th century. The duck disappeared soon after the first wave of European settlement.
+]] The Labrador duck is thought to have been always rare, but between 1850 and 1870, populations waned further.[12] Its extinction (sometime after 1878)[13] is still not fully explained. Although hunted for food, this duck was considered to taste bad, rotted quickly, and fetched a low price. Consequently, it was not sought much by hunters. However, the eggs may have been overharvested, and it may have been subject to depredations by the feather trade in its breeding area, as well. Another possible factor in the bird's extinction was the decline in mussels and other shellfish on which they are believed to have fed in their winter quarters, due to growth of population and industry on the Eastern Seaboard. Although all sea ducks readily feed on shallow-water molluscs, no Western Atlantic bird species seems to have been as dependent on such food as the Labrador duck.[14] Another theory that was said to lead to their extinction was a huge increase of human influence on the coastal ecosystems in North America, causing the birds to flee their niches and find another habitat.[15][16] These ducks were the only birds whose range was limited to the American coast of the North Atlantic, so changing niches was a difficult task.[17] The Labrador duck became extinct in the late 19th century. The duck disappeared soon after the first wave of European settlement.
 
 
 See also

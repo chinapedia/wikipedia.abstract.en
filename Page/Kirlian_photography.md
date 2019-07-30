@@ -1,4 +1,4 @@
-Kirl66_g.png KIRLIAN PHOTOGRAPHY is a collection of photographic techniques used to capture the phenomenon of electrical coronal discharges. It is named after Semyon Kirlian, who, in 1939, accidentally discovered that if an object on a photographic plate is connected to a high-voltage source, an image is produced on the photographic plate.[1] The technique has been variously known as "electrography",[2] "electrophotography",[3] "corona discharge photography" (CDP),[4] "bioelectrography",[5] "gas discharge visualization (GDV)",[6] "electrophotonic imaging (EPI)",[7] and, in Russian literature, "Kirlianography".
+KIRLIAN PHOTOGRAPHY is a collection of photographic techniques used to capture the phenomenon of electrical coronal discharges. It is named after Semyon Kirlian, who, in 1939, accidentally discovered that if an object on a photographic plate is connected to a high-voltage source, an image is produced on the photographic plate.[1] The technique has been variously known as "electrography",[2] "electrophotography",[3] "corona discharge photography" (CDP),[4] "bioelectrography",[5] "gas discharge visualization (GDV)",[6] "electrophotonic imaging (EPI)",[7] and, in Russian literature, "Kirlianography".
 
 Kirlian photography has been the subject of scientific research, parapsychology research and art. Paranormal claims have been made about Kirlian photography, but these claims are unsupported by the scientific community.[8][9] To a large extent, it has been used in alternative medicine research.[10]
 
@@ -7,7 +7,7 @@ History
 
 In 1889, Czech B. Navratil coined the word "electrography". Seven years later in 1896, a French experimenter, H. Baraduc, created electrographs of hands and leaves.
 
-In 1898, Polish-Belarusian engineer Jakub Jodko-Narkiewicz[11][12] demonstrated electrography at the fifth exhibition of the Russian Technical Society. A_Kirlian_Photography,_male_1989.jpg A_Kirlian_Photography,_female_1989.jpg
+In 1898, Polish-Belarusian engineer Jakub Jodko-Narkiewicz[11][12] demonstrated electrography at the fifth exhibition of the Russian Technical Society.
 
 In 1939, two Czechs, S. Pratt and J. Schlemmer published photographs showing a glow around leaves. The same year, Russian electrical engineer Semyon Kirlian and his wife Valentina developed Kirlian photography after observing a patient in Krasnodar hospital who was receiving medical treatment from a high-frequency electrical generator. They had noticed that when the electrodes were brought near the patient's skin, there was a glow similar to that of a neon discharge tube.[13]
 
@@ -22,7 +22,7 @@ Early in the 1970s, Thelma Moss and Kendall Johnson at the Center for Health Sci
 
 Overview
 
-Kirlian_Discharge_Tests.webm]] kirlian_color_finger.jpg kirlian_coins.jpg Kirlian_Photograph_of_a_Coleus_Leaf_1980.jpg leaf]]
+]] leaf]]
 
 Kirlian photography is a technique for creating contact print photographs using high voltage. The process entails placing sheet photographic film on top of a metal discharge plate. The object to be photographed is then placed directly on top of the film. High voltage is momentarily applied to the object, thus creating an exposure. The corona discharge between the object and the plate due to high-voltage is captured by the film. The developed film results in a Kirlian photograph of the object.
 
@@ -30,7 +30,7 @@ Color photographic film is calibrated to produce faithful colors when exposed to
 
 Photographs of inanimate objects such as a coins, keys and leaves can be made more effectively by grounding the object to the earth, a cold water pipe or to the opposite (polarity) side of the high-voltage source. Grounding the object creates a stronger corona discharge.[25]
 
-Kirlian photography does not require the use of a camera or a lens because it is a contact print process. It is possible to use a transparent electrode in place of the high-voltage discharge plate, allowing one to capture the resulting corona discharge with a standard photo or video camera.[26] Kirlian_Photo_of_Aster,_Mark_D_Roberts.jpg Visual artists such as Robert Buelteman,[27] Ted Hiebert,[28] and Dick Lane[29] have used Kirlian photography to produce artistic images of a variety of subjects. Photographer Mark D. Roberts, who has worked with Kirlian imagery for over 40 years, published a portfolio of plant images entitled "Vita Occulta Plantarum" or "The Secret Life of Plants," first exhibited in 2012 at the Bakken Museum in Minneapolis, and currently being marketed to botanical gardens and galleries across the United States. Additionally, he has experimented with techniques of coloring by hand as well as digitally.
+Kirlian photography does not require the use of a camera or a lens because it is a contact print process. It is possible to use a transparent electrode in place of the high-voltage discharge plate, allowing one to capture the resulting corona discharge with a standard photo or video camera.[26] Visual artists such as Robert Buelteman,[27] Ted Hiebert,[28] and Dick Lane[29] have used Kirlian photography to produce artistic images of a variety of subjects. Photographer Mark D. Roberts, who has worked with Kirlian imagery for over 40 years, published a portfolio of plant images entitled "Vita Occulta Plantarum" or "The Secret Life of Plants," first exhibited in 2012 at the Bakken Museum in Minneapolis, and currently being marketed to botanical gardens and galleries across the United States. Additionally, he has experimented with techniques of coloring by hand as well as digitally.
 
 
 Research
@@ -39,7 +39,7 @@ Kirlian photography has been a subject of scientific research, parapsychology re
 
 Scientific research
 
-Results of scientific experiments published in 1976 involving Kirlian photography of living tissue (human finger tips) showed that most of the variations in corona discharge streamer length, density, curvature and color can be accounted for by the moisture content on the surface of and within the living tissue.[32] MDR_Dusty_Miller.jpg Konstantin Korotkov developed a technique similar to Kirlian photography called "gas discharge visualization" (GDV).[33][34][35] Korotkov's GDV camera system consists of hardware and software to directly record, process and interpret GDV images with a computer. Korotkov's web site promotes his device and research in a medical context.[36] Izabela Ciesielska at the Institute of Architecture of Textiles in Poland used Korotkov's GDV camera to evaluate the effects of human contact with various textiles on biological factors such as heart rate and blood pressure, as well as corona discharge images. The experiments captured corona discharge images of subjects' fingertips while the subjects wore sleeves of various natural and synthetic materials on their forearms. The results failed to establish a relationship between human contact with the textiles and the corona discharge images and were considered inconclusive.[37]
+Results of scientific experiments published in 1976 involving Kirlian photography of living tissue (human finger tips) showed that most of the variations in corona discharge streamer length, density, curvature and color can be accounted for by the moisture content on the surface of and within the living tissue.[32] Konstantin Korotkov developed a technique similar to Kirlian photography called "gas discharge visualization" (GDV).[33][34][35] Korotkov's GDV camera system consists of hardware and software to directly record, process and interpret GDV images with a computer. Korotkov's web site promotes his device and research in a medical context.[36] Izabela Ciesielska at the Institute of Architecture of Textiles in Poland used Korotkov's GDV camera to evaluate the effects of human contact with various textiles on biological factors such as heart rate and blood pressure, as well as corona discharge images. The experiments captured corona discharge images of subjects' fingertips while the subjects wore sleeves of various natural and synthetic materials on their forearms. The results failed to establish a relationship between human contact with the textiles and the corona discharge images and were considered inconclusive.[37]
 
 Parapsychology research
 

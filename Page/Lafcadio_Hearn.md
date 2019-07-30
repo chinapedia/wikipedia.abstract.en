@@ -41,8 +41,6 @@ Newspaper and literary work
 
 By the strength of his talent as a writer, Hearn obtained a job as a reporter for the _Cincinnati Daily Enquirer_, working for the newspaper from 1872 to 1875. Writing with creative freedom in one of Cincinnati's largest circulating newspapers, he became known for his lurid accounts of local murders, developing a reputation as the paper's premier sensational journalist, as well as the author of sensitive accounts of some of the disadvantaged people of Cincinnati. _The Library of America_ selected one of these murder accounts, _Gibbeted,_ for inclusion in its two-century retrospective of _American True Crime_, published in 2008.[14] After one of his murder stories, the Tanyard Murder, had run for several months in 1874, Hearn established his reputation as Cincinnati's most audacious journalist, and the _Enquirer_ raised his salary from $10 to $25 per week.[15]
 
-Ye_Giglampz.jpg
-
 In 1874, Hearn and the young Henry Farny, later a renowned painter of the American West, wrote, illustrated, and published an 8-page weekly journal of art, literature and satire entitled _Ye Giglampz._ The Cincinnati Public Library reprinted a facsimile of all nine issues in 1983. The work was considered by a twentieth century critic to be "Perhaps the most fascinating sustained project he undertook as an editor."[16]
 
 Marriage, firing by the _Enquirer_
@@ -53,13 +51,9 @@ While working for the _Commercial_ Hearn agreed to be carried to the top of Cinc
 
 New Orleans
 
-Char_-_Coal_1880-08-25.jpg
-
 During the autumn of 1877, recently divorced from Mattie Foley and restless, Hearn had begun neglecting his newspaper work in favor of translating into English works of the French author Gautier. He had also grown increasingly disenchanted with Cincinnati, writing to Henry Watkin, "It is time for a fellow to get out of Cincinnati when they begin to call it the Paris of America." With the support of Watkin and _Cincinnati Commercial_ publisher Murat Halstead, Hearn left Cincinnati for New Orleans, where he initially wrote dispatches on the "Gateway to the Tropics" for the _Commercial_.
 
 Hearn lived in New Orleans for nearly a decade, writing first for the newspaper _Daily City Item_ beginning in June 1878, and later for the _Times Democrat_. Since the _Item_ was a 4-page publication, Hearn's editorial work changed the character of the newspaper dramatically. He began at the _Item_ as a news editor, expanding to include book reviews of Bret Harte and Émile Zola, summaries of pieces in national magazines such as _Harper's_, and editorial pieces introducing Buddhism and Sanskrit writings. As editor, Hearn created and published nearly two hundred woodcuts of daily life and people in New Orleans, making the _Item_ the first Southern newspaper to introduce cartoons and giving the paper an immediate boost in circulation. Hearn gave up carving the woodcuts after six months when he found the strain was too great for his eye.[20]
-
-Alligators_1880-09-13.jpg
 
 At the end of 1881, Hearn took an editorial position with the New Orleans _Times Democrat_ and was employed translating items from French and Spanish newspapers as well as writing editorials and cultural reviews on topics of his choice. He also continued his work translating French authors into English: Gérard de Nerval, Anatole France, and most notably Pierre Loti, an author who influenced Hearn's own writing style.[21] Milton Bronner, who edited Hearn's letters to Henry Watkin, wrote: "[T]he Hearn of New Orleans was the father of the Hearn of the West Indies and of Japan," and this view was endorsed by Norman Foerster.[22] During his tenure at the _Times Democrat_, Hearn also developed a friendship with editor Page Baker, who went on to champion Hearn's literary career; their correspondence is archived at the Loyola University New Orleans Special Collections & Archives.[23]
 
@@ -73,7 +67,7 @@ Hearn's writings for national publications, such as _Harper's Weekly_ and _Scrib
 
 Hearn also published in _Harper's Weekly_ the first known written article (1883) about Filipinos in the United States, the Manilamen or Tagalogs, one of whose villages he had visited at Saint Malo, southeast of Lake Borgne in St. Bernard Parish, Louisiana.
 
-Hearn_House_NOLA_Cleveland_Front.jpg is preserved as a registered historic place.]]
+is preserved as a registered historic place.]]
 
 At the time he lived there, Hearn was little known, and even now he is little known for his writing about New Orleans, except by local cultural devotees. However, more books have been written about him than any former resident of New Orleans except Louis Armstrong.[25]
 
@@ -85,11 +79,7 @@ _Harper's_ sent Hearn to the West Indies as a correspondent in 1887. He spent tw
 
 Later life in Japan
 
-Lafcadio_Hearn.jpg
-
 In 1890, Hearn went to Japan with a commission as a newspaper correspondent, which was quickly terminated. It was in Japan, however, that he found a home and his greatest inspiration. Through the goodwill of Basil Hall Chamberlain, Hearn gained a teaching position during the summer of 1890 at the Shimane Prefectural Common Middle School and Normal School in Matsue, a town in western Japan on the coast of the Sea of Japan. The Lafcadio Hearn Memorial Museum and his old residence are still two of Matsue's most popular tourist attractions. During his fifteen-month stay in Matsue, Hearn married Koizumi Setsu, the daughter of a local samurai family, with whom he had four children.[30] He became a naturalized Japanese, assuming the name Koizumi Yakumo, in 1896 after accepting a teaching position in Tokyo. After having been Greek Orthodox, Roman Catholic, and, later on, Spencerian, he became Buddhist.[31]
-
-Kazuo._Hearn's_Son.jpg
 
 During late 1891, Hearn obtained another teaching position in Kumamoto, Kyūshū, at the Fifth Higher Middle School, where he spent the next three years and completed his book _Glimpses of Unfamiliar Japan_ (1894). In October 1894, he secured a journalism job with the English-language newspaper _Kobe Chronicle_, and in 1896, with some assistance from Chamberlain, he began teaching English literature at Tokyo Imperial University, a job he had until 1903. In 1904, he was a professor at Waseda University.
 
@@ -102,7 +92,7 @@ In the late 19th century, Japan was still largely unknown and exotic to Westerne
 
 Legacy
 
-Patrick_Lafcadio_Hearn_aka_Koizumi_Yakumo_-_grave_2013.jpg]]
+]]
 
 Admirers of Hearn's work have included Ben Hecht,[37] John Erskine, and Malcolm Cowley.[38]
 
@@ -118,8 +108,6 @@ The first museum in Europe for Lafcadio Hearn was inaugurated in Lefkada, Greece
 
 
 Works
-
-HEARN(1895)_Glimpses_of_unfamiliar_Japan.jpg
 
 Books written by Hearn on Japanese subjects
 

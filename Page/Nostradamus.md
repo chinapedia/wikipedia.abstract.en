@@ -9,7 +9,7 @@ Life
 
 Childhood
 
-Nostradamus_birthplace.jpg]] Nostradamus-plaque.gif
+]]
 
 Nostradamus was born on either 14 or 21 December 1503 in Saint-Rémy-de-Provence, Provence, France, where his claimed birthplace still exists, and baptized Michel. He was one of at least nine children of notary Jaume (or Jacques) de Nostredame and Reynière, granddaughter of Pierre de Saint-Rémy who worked as a physician in Saint-Rémy. Jaume's family had originally been Jewish, but his father, Cresquas, a grain and money dealer based in Avignon, had converted to Catholicism around 1459–60, taking the Christian name "Pierre" and the surname "Nostredame" (Our Lady), the saint on whose day his conversion was solemnised. The earliest ancestor who can be identified on the paternal side is Astruge of Carcassonne, who died about 1420. Michel's known siblings included Delphine, Jean (c. 1507–77), Pierre, Hector, Louis, Bertrand, Jean II (born 1522) and Antoine (born 1523). Little else is known about his childhood, although there is a persistent tradition that he was educated by his maternal great-grandfather Jean de St. Rémy[1] — a tradition which is somewhat undermined by the fact that the latter disappears from the historical record after 1504, when the child was only one year old.
 
@@ -19,7 +19,7 @@ At the age of 14 Nostradamus entered the University of Avignon to study for his 
 
 Marriage and healing work
 
-Nostradamuss_house_at_Salon-de-Provence.jpg, as reconstructed after the 1909 Provence earthquake]]
+, as reconstructed after the 1909 Provence earthquake]]
 
 In 1531 Nostradamus was invited by Jules-César Scaliger, a leading Renaissance scholar, to come to Agen. There he married a woman of uncertain name (possibly Henriette d'Encausse), who bore him two children. In 1534 his wife and children died, presumably from the plague. After their deaths, he continued to travel, passing through France and possibly Italy.
 
@@ -31,22 +31,20 @@ After another visit to Italy, Nostradamus began to move away from medicine and t
 
 He then began his project of writing a book of one thousand mainly French quatrains, which constitute the largely undated prophecies for which he is most famous today. Feeling vulnerable to opposition on religious grounds, however, he devised a method of obscuring his meaning by using "Virgilianised" syntax, word games and a mixture of other languages such as Greek, Italian, Latin, and Provençal. For technical reasons connected with their publication in three installments (the publisher of the third and last installment seems to have been unwilling to start it in the middle of a "Century," or book of 100 verses), the last fifty-eight quatrains of the seventh "Century" have not survived in any extant edition.
 
-Nostradamus_CI_1.jpg
-
 The quatrains, published in a book titled _Les Prophéties_ (The Prophecies), received a mixed reaction when they were published. Some people thought Nostradamus was a servant of evil, a fake, or insane, while many of the elite evidently thought otherwise. Catherine de' Medici, wife of King Henry II of France, was one of Nostradamus's greatest admirers. After reading his almanacs for 1555, which hinted at unnamed threats to the royal family, she summoned him to Paris to explain them and to draw up horoscopes for her children. At the time, he feared that he would be beheaded, but by the time of his death in 1566, Queen Catherine had made him Counselor and Physician-in-Ordinary to her son, the young King Charles IX of France.
 
 Some accounts of Nostradamus's life state that he was afraid of being persecuted for heresy by the Inquisition, but neither prophecy nor astrology fell in this bracket, and he would have been in danger only if he had practised magic to support them. In 1538 he came into conflict with the Church in Agen after an Inquisitor visited the area looking for anti-Catholic views.[3] His brief imprisonment at Marignane in late 1561 was solely because he had violated a recent royal decree by publishing his 1562 almanac without the prior permission of a bishop.
 
 Final years and death
 
-Nostradamus_epitaph.jpg, Salon, into which his scattered remains were transferred after 1789.]]
+, Salon, into which his scattered remains were transferred after 1789.]]
 
-140609-Salon-Nostradamus.jpg By 1566, Nostradamus's gout, which had plagued him painfully for many years and made movement very difficult, turned into edema. In late June he summoned his lawyer to draw up an extensive will bequeathing his property plus 3,444 crowns (around $300,000 US today), minus a few debts, to his wife pending her remarriage, in trust for her sons pending their twenty-fifth birthdays and her daughters pending their marriages. This was followed by a much shorter codicil. On the evening of 1 July, he is alleged to have told his secretary Jean de Chavigny, "You will not find me alive at sunrise." The next morning he was reportedly found dead, lying on the floor next to his bed and a bench (Presage 141 [originally 152] _for November 1567_, as posthumously edited by Chavigny to fit what happened). He was buried in the local Franciscan chapel in Salon (part of it now incorporated into the restaurant _La Brocherie_) but re-interred during the French Revolution in the Collégiale Saint-Laurent, where his tomb remains to this day.
+By 1566, Nostradamus's gout, which had plagued him painfully for many years and made movement very difficult, turned into edema. In late June he summoned his lawyer to draw up an extensive will bequeathing his property plus 3,444 crowns (around $300,000 US today), minus a few debts, to his wife pending her remarriage, in trust for her sons pending their twenty-fifth birthdays and her daughters pending their marriages. This was followed by a much shorter codicil. On the evening of 1 July, he is alleged to have told his secretary Jean de Chavigny, "You will not find me alive at sunrise." The next morning he was reportedly found dead, lying on the floor next to his bed and a bench (Presage 141 [originally 152] _for November 1567_, as posthumously edited by Chavigny to fit what happened). He was buried in the local Franciscan chapel in Salon (part of it now incorporated into the restaurant _La Brocherie_) but re-interred during the French Revolution in the Collégiale Saint-Laurent, where his tomb remains to this day.
 
 
 Works
 
-Nostradamus_prophecies.jpg' 1672 English translation of the _Prophecies_, located in The P.I. Nixon Medical History Library of The University of Texas Health Science Center at San Antonio.]]
+' 1672 English translation of the _Prophecies_, located in The P.I. Nixon Medical History Library of The University of Texas Health Science Center at San Antonio.]]
 
 In _The Prophecies_ Nostradamus compiled his collection of major, long-term predictions. The first installment was published in 1555 and contained 353 quatrains. The third edition, with three hundred new quatrains, was reportedly printed in 1558, but now survives as only part of the omnibus edition that was published after his death in 1568. This version contains one unrhymed and 941 rhymed quatrains, grouped into nine sets of 100 and one of 42, called "Centuries".
 
@@ -63,7 +61,7 @@ Since his death, only the _Prophecies_ have continued to be popular, but in this
 
 Origins of _The Prophecies_
 
-Dr._Garencières,_the_Translator_of_Nostradamus_(Robert_Chambers,_p.12,_1832)_-_Copy.jpg, the first English translator of the _Prophecies_[4]]]
+, the first English translator of the _Prophecies_[4]]]
 
 Nostradamus claimed to base his published predictions on judicial astrology—the astrological 'judgment', or assessment, of the 'quality' (and thus potential) of events such as births, weddings, coronations etc.—but was heavily criticised by professional astrologers of the day such as Laurens Videl for incompetence and for assuming that "comparative horoscopy" (the comparison of future planetary configurations with those accompanying known past events) could actually predict what would happen in the future.
 
@@ -78,8 +76,6 @@ Further material was gleaned from the _De honesta disciplina_ of 1504 by Petrus 
 Only in the 17th century did people start to notice his reliance on earlier, mainly classical sources.
 
 Nostradamus's reliance on historical precedent is reflected in the fact that he explicitly rejected the label "prophet" (i.e. a person having prophetic powers of his own) on several occasions:
-
-npix4.jpg
 
 Given this reliance on literary sources, it is unlikely that Nostradamus used any particular methods for entering a trance state, other than contemplation, meditation and incubation. His sole description of this process is contained in _letter 41_ of his collected Latin correspondence. The popular legend that he attempted the ancient methods of flame gazing, water gazing or both simultaneously is based on a naive reading of his first two verses, which merely liken his efforts to those of the Delphic and Branchidic oracles. The first of these is reproduced at the bottom of this article and the second can be seen by visiting the relevant facsimile site (see External Links). In his dedication to King Henri II, Nostradamus describes "emptying my soul, mind and heart of all care, worry and unease through mental calm and tranquility", but his frequent references to the "bronze tripod" of the Delphic rite are usually preceded by the words "as though" (compare, once again, External References to the original texts).
 

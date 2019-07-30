@@ -5,7 +5,7 @@ The KPA faces its primary adversaries, the South Korean military and United Stat
 
 History
 
-Flag_of_the_Korean_People's_Army_(1948).png Flag_of_the_Korean_People's_Army_(1992-1993).png Victorious_Fatherland_Liberation_War_Museum_Monument4.jpg fighter.]] Kim Il-sung's anti-Japanese guerrilla army, the Korean People's Revolutionary Army, was established on 25 April 1932. This revolutionary army was transformed into the regular army on 8 February 1948. Both these are celebrated as army days, with decennial anniversaries treated as major celebrations, except from 1978 to 2014 when only the 1932 anniversary was celebrated.[3][4]
+fighter.]] Kim Il-sung's anti-Japanese guerrilla army, the Korean People's Revolutionary Army, was established on 25 April 1932. This revolutionary army was transformed into the regular army on 8 February 1948. Both these are celebrated as army days, with decennial anniversaries treated as major celebrations, except from 1978 to 2014 when only the 1932 anniversary was celebrated.[3][4]
 
 In 1939, the Korean Volunteer Army (KVA), was formed in Yan'an, China. The two individuals responsible for the army were Kim Tu-bong and Mu Chong. At the same time, a school was established near Yan'an for training military and political leaders for a future independent Korea. By 1945, the KVA had grown to approximately 1,000 men, mostly Korean deserters from the Imperial Japanese Army. During this period, the KVA fought alongside the Chinese communist forces from which it drew its arms and ammunition. After the defeat of the Japanese, the KVA accompanied the Chinese communist forces into eastern Jilin, intending to gain recruits from ethnic Koreans in China, particularly from Yanbian, and then enter Korea.[5] By September 1945, the KVA had a 2,500 strong force at its disposal.
 
@@ -21,7 +21,7 @@ The State Security Department, a forerunner to the Ministry of People's Defense,
 
 Conflicts and events
 
-Mansudae_Grand_Monument_26.JPG Before the outbreak of the Korean War, Joseph Stalin equipped the KPA with modern tanks, trucks, artillery, and small arms (at the time, the South Korean Army had nothing remotely comparable either in numbers of troops or equipment). During the opening phases of the Korean War in 1950, the KPA quickly drove South Korean forces south and captured Seoul, only to lose 70,000 of their 100,000-strong army in the autumn after U.S. amphibious landings at the Battle of Incheon and a subsequent drive to the Yalu River. On 4 November, China openly staged a military intervention. On 7 December, Kim Il-sung was deprived of the right of command of KPA by China.[11] The KPA subsequently played a secondary minor role to Chinese forces in the remainder of the conflict. By the time of the Armistice in 1953, the KPA had sustained 290,000 casualties and lost 90,000 men as POWs.
+Before the outbreak of the Korean War, Joseph Stalin equipped the KPA with modern tanks, trucks, artillery, and small arms (at the time, the South Korean Army had nothing remotely comparable either in numbers of troops or equipment). During the opening phases of the Korean War in 1950, the KPA quickly drove South Korean forces south and captured Seoul, only to lose 70,000 of their 100,000-strong army in the autumn after U.S. amphibious landings at the Battle of Incheon and a subsequent drive to the Yalu River. On 4 November, China openly staged a military intervention. On 7 December, Kim Il-sung was deprived of the right of command of KPA by China.[11] The KPA subsequently played a secondary minor role to Chinese forces in the remainder of the conflict. By the time of the Armistice in 1953, the KPA had sustained 290,000 casualties and lost 90,000 men as POWs.
 
 In 1953, the Military Armistice Commission (MAC) was able to oversee and enforce the terms of the armistice. The Neutral Nations Supervisory Commission (NNSC), made up of delegations from Czechoslovakia, Poland, Sweden and Switzerland, carried out inspections to ensure implementation of the terms of the Armistice that prevented reinforcements or new weapons being brought into Korea.
 
@@ -29,8 +29,6 @@ Soviet thinking on the strategic scale was replaced since December 1962 with a p
 
 
 Organization
-
-North_Korean_soldier_Demilitarized_Zone_of_Korea_2005.jpg
 
 Commission and leadership
 
@@ -48,7 +46,7 @@ Today the KPA exercises full control of both the Politburo and the Central Milit
 
 Conscription and terms of service
 
-Korean_People's_Army_Soldiers_prepare_to_repatriate_remains_during_a_repatriation_ceremony_at_the_Panmunjom_Joint_Security_Area_on_981106-F-AF179-013.jpg North Korea has universal conscription for males and selective conscription for females with many pre- and post-service requirements. Article 86 of the North Korean Constitution states: "National defense is the supreme duty and honor of citizens. Citizens shall defend the country and serve in the armed forces as required by law."[16]
+North Korea has universal conscription for males and selective conscription for females with many pre- and post-service requirements. Article 86 of the North Korean Constitution states: "National defense is the supreme duty and honor of citizens. Citizens shall defend the country and serve in the armed forces as required by law."[16]
 
 KPA soldiers serve three years of military service in the KPA, which also runs its own factories, farms and trading arms.[17]
 
@@ -62,11 +60,9 @@ Budget and commercial interests
 
 The KPA's annual budget is approximately US$6 billion. In 2009, the U.S. Institute for Science and International Security reported that North Korea may possess fissile material for around two to nine nuclear warheads.[18] The North Korean Songun ("Military First") policy elevates the KPA to the primary position in the government and society.
 
-Tank_in_the_DPRK_Victory_Day_Parade.jpg
-
 According to North Korea's state news agency, military expenditures for 2010 made up 15.8 percent of the state budget.[19] Most analyses of North Korea's defense sector, however, estimate that defense spending constitutes between one-quarter and one-third of all government spending. As of 2003, according to the International Institute of Strategic Studies, North Korea's defense budget consumed some 25 percent of central government spending.[20] In the mid-1970s and early 1980s, according to figures released by the Polish Arms Control and Disarmament Agency, between 32 and 38 percent of central government expenditures went towards defense.[21]
 
-Cho_Myong-nok_and_Bill_Clinton.jpg meets Bill Clinton at the White House, October 2000]] North Korea sells missiles and military equipment to many countries worldwide.[22] In April 2009, the United Nations named the Korea Mining and Development Trading Corporation (KOMID) as North Korea's primary arms dealer and main exporter of equipment related to ballistic missiles and conventional weapons. It also named Korea Ryonbong as a supporter of North Korea's military related sales.[23]
+meets Bill Clinton at the White House, October 2000]] North Korea sells missiles and military equipment to many countries worldwide.[22] In April 2009, the United Nations named the Korea Mining and Development Trading Corporation (KOMID) as North Korea's primary arms dealer and main exporter of equipment related to ballistic missiles and conventional weapons. It also named Korea Ryonbong as a supporter of North Korea's military related sales.[23]
 
 Historically, North Korea has assisted a vast number of revolutionary, insurgent and terrorist groups in more than 62 countries. A cumulative total of more than 5,000 foreign personnel have been trained in North Korea, and over 7,000 military advisers, primarily from the Reconnaissance General Bureau, have been dispatched to some forty-seven countries. Some of the organisations which received North Korean aid include the Polisario Front, Janatha Vimukthi Peramuna, the Communist Party of Thailand, the Palestine Liberation Organization and the Islamic Revolutionary Guard Corps. The Zimbabwean Fifth Brigade received its initial training from KPA instructors.[24] North Korean troops allegedly saw combat during the Libyan–Egyptian War and the Angolan Civil War.[25] Up to 200 KPAF pilots took part in the Vietnam War,[26] scoring several kills against US aircraft.[27][28][29] Two KPA anti-aircraft artillery regiments were sent to North Vietnam as well.[30]
 
@@ -77,7 +73,7 @@ Service branches
 
 People's Ground Force
 
-SPG_M-1978_KOKSAN.JPG, one of North Korea's principal heavy artillery pieces. This example was captured in Iraq.]] DMZ_seen_from_the_north,_2005.jpg between the blue buildings.]] The Korean People's Army Ground Force (KPAGF) is the main branch of the Korean People's Army responsible for land-based military operations. It is the _de facto_ army of North Korea.
+, one of North Korea's principal heavy artillery pieces. This example was captured in Iraq.]] between the blue buildings.]] The Korean People's Army Ground Force (KPAGF) is the main branch of the Korean People's Army responsible for land-based military operations. It is the _de facto_ army of North Korea.
 
 People's Navy
 
@@ -85,7 +81,7 @@ The Korean People's Navy is organized into two fleets which are not able to supp
 
 People's Army Air Force and Air Defence Forces
 
-Mig17-north_korea.jpg on display in the United States in North Korean markings]] The KPAF is also responsible for North Korea's air defense forces through the use of anti-aircraft artillery and surface-to-air (SAM) missiles. While much of the equipment is outdated, the high saturation of multilayered, overlapping, mutually supporting air defense sites provides a formidable challenge to enemy air attacks.[35]
+on display in the United States in North Korean markings]] The KPAF is also responsible for North Korea's air defense forces through the use of anti-aircraft artillery and surface-to-air (SAM) missiles. While much of the equipment is outdated, the high saturation of multilayered, overlapping, mutually supporting air defense sites provides a formidable challenge to enemy air attacks.[35]
 
 People's Strategic Rocket Forces
 
@@ -97,8 +93,6 @@ The special forces of the Korean People's Army are asymmetric forces with a tota
 
 
 Capabilities
-
-North_korean-semi-submersible.jpg
 
 After the Korean War, North Korea maintained a powerful, but smaller military force than that of South Korea. In 1967 the KPA forces of about 345,000 were much smaller than the South Korean ground forces of about 585,000.[37] North Korea's relative isolation and economic plight starting from the 1980s has now tipped the balance of military power into the hands of the better-equipped South Korean military.[38] In response to this predicament, North Korea relies on asymmetric warfare techniques and unconventional weaponry to achieve parity against high-tech enemy forces.[39] North Korea is reported to have developed a wide range of technologies towards this end, such as stealth paint to conceal ground targets,[40] midget submarines and human torpedoes,[41] blinding laser weapons,[42] and probably has a chemical weapons program and is likely to possess a stockpile of chemical weapons.[43] The Korean People's Army operates ZM-87 anti-personnel lasers, which are banned under the United Nations Protocol on Blinding Laser Weapons.[44]
 
@@ -127,7 +121,7 @@ The U.S. Department of Defense believes North Korea probably has a chemical weap
 
 Nuclear capabilities
 
-North_Korea's_ballistic_missile_-_North_Korea_Victory_Day-2013_02.jpg North Korea has tested a series of different missiles, including short-, medium-, intermediate-, and intercontinental- range, and submarine-launched ballistic missiles. Estimates of the country's nuclear stockpile vary: some experts believe Pyongyang has between fifteen and twenty nuclear weapons, while U.S. intelligence believes the number to be between thirty and sixty bombs. The regime conducted two tests of an intercontinental ballistic missile (ICBM) capable of carrying a large nuclear warhead in July 2017. The Pentagon confirmed North Korea's ICBM tests, and analysts estimate that the new missile has a potential range of 10,400 kilometers (6,500 miles) and, if fired on a flatter trajectory, could be capable of reaching mainland U.S. territory.[72]
+North Korea has tested a series of different missiles, including short-, medium-, intermediate-, and intercontinental- range, and submarine-launched ballistic missiles. Estimates of the country's nuclear stockpile vary: some experts believe Pyongyang has between fifteen and twenty nuclear weapons, while U.S. intelligence believes the number to be between thirty and sixty bombs. The regime conducted two tests of an intercontinental ballistic missile (ICBM) capable of carrying a large nuclear warhead in July 2017. The Pentagon confirmed North Korea's ICBM tests, and analysts estimate that the new missile has a potential range of 10,400 kilometers (6,500 miles) and, if fired on a flatter trajectory, could be capable of reaching mainland U.S. territory.[72]
 
 Nuclear tests
 

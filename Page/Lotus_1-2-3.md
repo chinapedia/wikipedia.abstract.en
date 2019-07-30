@@ -15,7 +15,7 @@ There were well known problems with VisiCalc, and several competitors appeared t
 
 Beginnings
 
-Lotus-123-3.0-dos.png The Lotus Development Corporation was founded by Mitchell Kapor, a friend of the developers of VisiCalc. 1-2-3 was originally written by Jonathan Sachs, who had written two spreadsheet programs previously while working at Concentric Data Systems, Inc.[4][5] To aid its growth, in the UK, and possibly elsewhere, Lotus 1-2-3 was the very first computer software to use television consumer advertising.[6]
+The Lotus Development Corporation was founded by Mitchell Kapor, a friend of the developers of VisiCalc. 1-2-3 was originally written by Jonathan Sachs, who had written two spreadsheet programs previously while working at Concentric Data Systems, Inc.[4][5] To aid its growth, in the UK, and possibly elsewhere, Lotus 1-2-3 was the very first computer software to use television consumer advertising.[6]
 
 Lotus 1-2-3 was released on 26 January 1983, and immediately overtook Visicalc in sales. Unlike Microsoft Multiplan, it stayed very close to the model of VisiCalc, including the "A1" letter and number cell notation, and slash-menu structure. It was cleanly programmed, relatively bug-free, gained speed from being written completely in x86 assembly language (this remained the case for all DOS versions until 3.0, when Lotus switched to C[7]) and wrote directly to video memory rather than use the slow DOS and/or BIOS text output functions.[8][9]
 

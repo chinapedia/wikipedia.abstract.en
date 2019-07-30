@@ -7,7 +7,7 @@ Macroeconomics and microeconomics, a pair of terms coined by Ragnar Frisch, are 
 
 Basic macroeconomic concepts
 
-Macroeconomics encompasses a variety of concepts and variables, but there are three central topics for macroeconomic research.[4] Macroeconomic theories usually relate the phenomena of output, unemployment, and inflation. Outside of macroeconomic theory, these topics are also important to all economic agents including workers, consumers, and producers. Circulation_in_macroeconomics.svg.]]
+Macroeconomics encompasses a variety of concepts and variables, but there are three central topics for macroeconomic research.[4] Macroeconomic theories usually relate the phenomena of output, unemployment, and inflation. Outside of macroeconomic theory, these topics are also important to all economic agents including workers, consumers, and producers. .]]
 
 Output and income
 
@@ -17,7 +17,7 @@ Macroeconomic output is usually measured by gross domestic product (GDP) or one 
 
 Unemployment
 
-Okuns_law_differences_1948_to_mid_2011.png. The relationship demonstrates cyclical unemployment. Economic growth leads to a lower unemployment rate.]]
+. The relationship demonstrates cyclical unemployment. Economic growth leads to a lower unemployment rate.]]
 
 The amount of unemployment in an economy is measured by the unemployment rate, i.e. the percentage of workers without jobs in the labor force. The unemployment rate in the labor force only includes workers actively looking for jobs. People who are retired, pursuing education, or discouraged from seeking work by a lack of job prospects are excluded.
 
@@ -30,7 +30,7 @@ Unemployment can be generally broken down into several types that are related to
 
 Inflation and deflation
 
-M2andInflation.png A general price increase across the entire economy is called inflation. When prices decrease, there is deflation. Economists measure these changes in prices with price indexes. Inflation can occur when an economy becomes overheated and grows too quickly. Similarly, a declining economy can lead to deflation.
+A general price increase across the entire economy is called inflation. When prices decrease, there is deflation. Economists measure these changes in prices with price indexes. Inflation can occur when an economy becomes overheated and grows too quickly. Similarly, a declining economy can lead to deflation.
 
 Central bankers, who manage a country's money supply, try to avoid changes in price level by using monetary policy. Raising interest rates or reducing the supply of money in an economy will reduce inflation. Inflation can lead to increased uncertainty and other negative consequences. Deflation can lower economic output. Central bankers try to stabilize prices to protect economies from the negative consequences of price changes.
 
@@ -41,8 +41,6 @@ Macroeconomic models
 
 Aggregate demand–aggregate supply
 
-AS_+_AD_graph.svg
-
 The AD-AS model has become the standard textbook model for explaining the macroeconomy. This model shows the price level and level of real output given the equilibrium in aggregate demand and aggregate supply. The aggregate demand curve's downward slope means that more output is demanded at lower price levels. The downward slope is the result of three effects: the Pigou or real balance effect, which states that as real prices fall, real wealth increases, resulting in higher consumer demand of goods; the Keynes or interest rate effect, which states that as prices fall, the demand for money decreases, causing interest rates to decline and borrowing for investment and consumption to increase; and the net export effect, which states that as prices rise, domestic goods become comparatively more expensive to foreign consumers, leading to a decline in exports.
 
 In the conventional Keynesian use of the AS-AD model, the aggregate supply curve is horizontal at low levels of output and becomes inelastic near the point of potential output, which corresponds with full employment. Since the economy cannot produce beyond the potential output, any AD expansion will lead to higher price levels instead of higher output.
@@ -50,8 +48,6 @@ In the conventional Keynesian use of the AS-AD model, the aggregate supply curve
 The AD–AS diagram can model a variety of macroeconomic phenomena, including inflation. Changes in the non-price level factors or determinants cause changes in aggregate demand and shifts of the entire aggregate demand (AD) curve. When demand for goods exceeds supply there is an inflationary gap where demand-pull inflation occurs and the AD curve shifts upward to a higher price level. When the economy faces higher costs, cost-push inflation occurs and the AS curve shifts upward to higher price levels. The AS–AD diagram is also widely used as a pedagogical tool to model the effects of various macroeconomic policies.
 
 IS-LM
-
-Islm.svg
 
 The IS–LM model gives the underpinnings of aggregate demand (itself discussed above). It answers the question “At any given price level, what is the quantity of goods demanded?” This model shows represents what combination of interest rates and output will ensure equilibrium in both the goods and money markets. The goods market is modeled as giving equality between investment and public and private saving (IS), and the money market is modeled as giving equilibrium between the money supply and liquidity preference.
 
@@ -80,7 +76,7 @@ Central banks implement monetary policy by controlling the money supply through 
 
 Central banks continuously shift the money supply to maintain a targeted fixed interest rate. Some of them allow the interest rate to fluctuate and focus on targeting inflation rates instead. Central banks generally try to achieve high output without letting loose monetary policy that create large amounts of inflation.
 
-Conventional monetary policy can be ineffective in situations such as a liquidity trap. When interest rates and inflation are near zero, the central bank cannot loosen monetary policy through conventional means. Economic_Policy_-_Intervention_Strategy_Matrix.png Central banks can use unconventional monetary policy such as quantitative easing to help increase output. Instead of buying government bonds, central banks can implement quantitative easing by buying not only government bonds, but also other assets such as corporate bonds, stocks, and other securities. This allows lower interest rates for a broader class of assets beyond government bonds. In another example of unconventional monetary policy, the United States Federal Reserve recently made an attempt at such a policy with Operation Twist. Unable to lower current interest rates, the Federal Reserve lowered long-term interest rates by buying long-term bonds and selling short-term bonds to create a flat yield curve.
+Conventional monetary policy can be ineffective in situations such as a liquidity trap. When interest rates and inflation are near zero, the central bank cannot loosen monetary policy through conventional means. Central banks can use unconventional monetary policy such as quantitative easing to help increase output. Instead of buying government bonds, central banks can implement quantitative easing by buying not only government bonds, but also other assets such as corporate bonds, stocks, and other securities. This allows lower interest rates for a broader class of assets beyond government bonds. In another example of unconventional monetary policy, the United States Federal Reserve recently made an attempt at such a policy with Operation Twist. Unable to lower current interest rates, the Federal Reserve lowered long-term interest rates by buying long-term bonds and selling short-term bonds to create a flat yield curve.
 
 Fiscal policy
 

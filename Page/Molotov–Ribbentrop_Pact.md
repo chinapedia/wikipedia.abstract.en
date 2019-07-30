@@ -38,7 +38,7 @@ By the end of May, drafts were formally presented. In mid-June, the main Tripart
 
 Negotiations
 
-Molotov_with_Ribbentrop.jpg Mucha_8_Wrzesien_1939_Warszawa.jpg in Moscow" in the Polish satirical newspaper _Mucha_ of September 8, 1939]]
+in Moscow" in the Polish satirical newspaper _Mucha_ of September 8, 1939]]
 
 Beginning of secret talks
 
@@ -60,14 +60,12 @@ On August 19, the 1939 German–Soviet Commercial Agreement was finally signed. 
 
 News leaks
 
-Alfred_Naujocks.jpg of August 31, 1939, led by Alfred Naujocks (pictured).]] On August 25, 1939, the _New York Times_ ran a page-one story by Otto D. Tolischus called "Nazi Talks Secret" whose subtitle included "Soviet and Reich Agree on East."[42] On August 26, 1939, the _Times_ report Japanese anger[43] and French Communist surprise[44] over the pact. The same day, however, Tolischus filed a story that noted Nazi troops on the move near Gleiwitz (now Gliwice)—which led to the false flag Gleiwitz incident on August 31, 1939.[45] On August 28, 1939, the _Times_ was still reporting on fears of a Gleiwitz raid.[46] On August 29, 1939, the _Times_ reported that the Supreme Soviet had failed on its first day of convening to act on the pact.[47] On the same day, the _Times_ also reported from Montreal, Canada, that American professor Samuel N. Harper of the University of Chicago had stated publicly his belief that "the Russo-German non-aggression pact conceals an agreement whereby Russia and Germany may have planned spheres of influence for Eastern Europe."[48] On August 30, 1939, the _Times_ reported a Soviet build-up on its Western frontiers by moving 200,000 troops from the Far East.[49]
+of August 31, 1939, led by Alfred Naujocks (pictured).]] On August 25, 1939, the _New York Times_ ran a page-one story by Otto D. Tolischus called "Nazi Talks Secret" whose subtitle included "Soviet and Reich Agree on East."[42] On August 26, 1939, the _Times_ report Japanese anger[43] and French Communist surprise[44] over the pact. The same day, however, Tolischus filed a story that noted Nazi troops on the move near Gleiwitz (now Gliwice)—which led to the false flag Gleiwitz incident on August 31, 1939.[45] On August 28, 1939, the _Times_ was still reporting on fears of a Gleiwitz raid.[46] On August 29, 1939, the _Times_ reported that the Supreme Soviet had failed on its first day of convening to act on the pact.[47] On the same day, the _Times_ also reported from Montreal, Canada, that American professor Samuel N. Harper of the University of Chicago had stated publicly his belief that "the Russo-German non-aggression pact conceals an agreement whereby Russia and Germany may have planned spheres of influence for Eastern Europe."[48] On August 30, 1939, the _Times_ reported a Soviet build-up on its Western frontiers by moving 200,000 troops from the Far East.[49]
 
 
 The secret protocol
 
 On August 22, one day after the talks broke down with France and Britain, Moscow revealed that Ribbentrop would visit Stalin the next day. This happened while the Soviets were still negotiating with the British and French missions in Moscow. With the Western nations unwilling to accede to Soviet demands, Stalin instead entered a secret Nazi–Soviet pact. On August 23 a 10-year non-aggression pact was signed with provisions that included: consultation, arbitration if either party disagreed, neutrality if either went to war against a third power, no membership of a group "which is directly or indirectly aimed at the other". The article "On Soviet–German Relations" in the Soviet newspaper _Izvestia_ of August 21, 1939, stated:
-
-Molotov–Ribbentrop_Pact_(German_copy).gif Molotov-Ribbentrop_Pact_2.gif
 
 There was also a secret protocol to the pact, revealed only after Germany's defeat in 1945,[50] although hints about its provisions were leaked much earlier, e.g., to influence Lithuania.[51] According to the protocol, Romania, Poland, Lithuania, Latvia, Estonia and Finland were divided into German and Soviet "spheres of influence".[52] In the north, Finland, Estonia and Latvia were assigned to the Soviet sphere.[53] Poland was to be partitioned in the event of its "political rearrangement": the areas east of the Pisa, Narev, Vistula and San rivers would go to the Soviet Union, while Germany would occupy the west.[54] Lithuania, adjacent to East Prussia, would be in the German sphere of influence, although a second secret protocol agreed to in September 1939 reassigned the majority of Lithuania to the USSR.[55] According to the protocol, Lithuania would be granted its historical capital Vilnius, which was under Polish control during the inter-war period. Another clause of the treaty stipulated that Germany would not interfere with the Soviet Union's actions towards Bessarabia, then part of Romania;[56] as a result, not only Bessarabia, but Northern Bukovina and Hertza regions too, were occupied by the Soviets, and integrated into the Soviet Union.
 
@@ -87,18 +85,16 @@ The day after the Pact was signed, the French and British military negotiation d
 
 On August 25, surprising Hitler, Britain entered into a defense pact with Poland. Consequently, Hitler postponed his planned August 26 invasion of Poland to September 1.[70] In accordance with the defense pact, Britain and France declared war on Germany on September 3.[71]
 
-Ribbentrop-Molotov.svg
-
 
 Consequences in Finland, Poland, the Baltic States and Romania
 
-Armia_Czerwona,Wehrmacht_22.09.1939_wspólna_parada.jpg at the end of the Invasion of Poland. At the center Major General Heinz Guderian and Brigadier Semyon Krivoshein]]
+at the end of the Invasion of Poland. At the center Major General Heinz Guderian and Brigadier Semyon Krivoshein]]
 
 Initial invasions
 
 On September 1, Germany invaded Poland from the west.[72] Within the first few days of the invasion, Germany began conducting massacres of Polish and Jewish civilians and POWs.[73] These executions took place in over 30 towns and villages in the first month of German occupation.[74][75] The _Luftwaffe_ also took part by strafing fleeing civilian refugees on roads and carrying out a bombing campaign.[76] The Soviet Union assisted German air forces by allowing them to use signals broadcast by the Soviet radio station at Minsk, allegedly "for urgent aeronautical experiments".[77] Hitler declared at Danzig:
 
-Davidlowrendezvous.png'' depicting Hitler greeting Stalin after the invasion of Poland, with the words: "The scum of the earth, I believe?". To which Stalin replies: "The bloody assassin of the workers, I presume?"; September 20, 1939.]]
+'' depicting Hitler greeting Stalin after the invasion of Poland, with the words: "The scum of the earth, I believe?". To which Stalin replies: "The bloody assassin of the workers, I presume?"; September 20, 1939.]]
 
 In the opinion of Robert Service, Stalin did not move instantly; he was waiting to see whether the Germans would halt within the agreed area, and also the Soviet Union needed to secure the frontier in the Soviet–Japanese Border Wars. On September 17 the Red Army invaded Poland, violating the 1932 Soviet–Polish Non-Aggression Pact, and occupied the Polish territory assigned to it by the Molotov–Ribbentrop Pact. This was followed by co-ordination with German forces in Poland.
 
@@ -108,7 +104,7 @@ On September 21, the Soviets and Germans signed a formal agreement coordinating 
 
 Modifying the secret protocols
 
-Bundesarchiv_Bild_101I-013-0068-18A,_Polen,_Treffen_deutscher_und_sowjetischer_Soldaten.jpg]] Mapa_2_paktu_Ribbentrop-Mołotow.gif" of September 28, 1939. Map of Poland signed by Stalin and Ribbentrop (focused on the _Kresy_) adjusting the German–Soviet border in the aftermath of German and Soviet invasion of Poland.]]
+]] " of September 28, 1939. Map of Poland signed by Stalin and Ribbentrop (focused on the _Kresy_) adjusting the German–Soviet border in the aftermath of German and Soviet invasion of Poland.]]
 
 Eleven days after the Soviet invasion of the Polish Kresy, the secret protocol of the Molotov–Ribbentrop Pact was modified by the German–Soviet Treaty of Friendship, Cooperation and Demarcation,[83] allotting Germany a larger part of Poland and transferring Lithuania's territory (with the exception of the left bank of river Scheschupe, the "Lithuanian Strip") from the envisioned German sphere to the Soviets.[84] On September 28, 1939, the Soviet Union and German Reich issued a joint declaration in which they declared:
 
@@ -117,8 +113,6 @@ On October 3, Friedrich Werner von der Schulenburg, German ambassador in Moscow,
 The Baltic States of Estonia, Latvia, and Lithuania were given no choice but to sign a so-called _Pact of defence and mutual assistance_ which permitted the Soviet Union to station troops in them.[86]
 
 The Soviet war with Finland and the Katyn Massacre
-
-Lithuania_territory_1939-1940.svg
 
 After the Baltic states were forced to accept treaties, Stalin turned his sights on Finland, confident that Finnish capitulation could be attained without great effort. The Soviets demanded territories on the Karelian Isthmus, the islands of the Gulf of Finland and a military base near the Finnish capital Helsinki, which Finland rejected. The Soviets staged the shelling of Mainila and used it as a pretext to withdraw from the non-aggression pact. The Red Army attacked in November 1939.[87] Simultaneously, Stalin set up a puppet government in the Finnish Democratic Republic. The leader of the Leningrad Military District Andrei Zhdanov commissioned a celebratory piece from Dmitri Shostakovich, entitled "_Suite on Finnish Themes_" to be performed as the marching bands of the Red Army would be parading through Helsinki. After Finnish defenses surprisingly held out for over three months while inflicting stiff losses on Soviet forces under the command of Semyon Timoshenko, the Soviets settled for an interim peace. Finland ceded southeastern areas of Karelia (10% of Finnish territory),[88] which resulted in approximately 422,000 Karelians (12% of Finland's population) losing their homes. Soviet official casualty counts in the war exceeded 200,000, although Soviet Premier Nikita Khrushchev later claimed the casualties may have been one million.[89]
 
@@ -142,7 +136,7 @@ Although Germany used forced labourers in most occupied countries, Poles and oth
 
 Romania and Soviet republics
 
-PérdidasTerritorialesRumanas1940-ro.svg In the summer of 1940, fear of the Soviet Union, in conjunction with German support for the territorial demands of Romania's neighbors and the Romanian government's own miscalculations, resulted in more territorial losses for Romania. Between June 28 and July 4, the Soviet Union occupied and annexed Bessarabia, Northern Bukovina and the Hertza region of Romania.[119]
+In the summer of 1940, fear of the Soviet Union, in conjunction with German support for the territorial demands of Romania's neighbors and the Romanian government's own miscalculations, resulted in more territorial losses for Romania. Between June 28 and July 4, the Soviet Union occupied and annexed Bessarabia, Northern Bukovina and the Hertza region of Romania.[119]
 
 On August 30, Ribbentrop and Italian Foreign Minister Galeazzo Ciano issued the Second Vienna Award giving Northern Transylvania to Hungary. On September 7, Romania ceded Southern Dobruja to Bulgaria (Axis-sponsored Treaty of Craiova).[120] After various events in Romania, over the next few months, it increasingly took on the aspect of a German-occupied country.[121]
 
@@ -155,7 +149,7 @@ On January 10, 1941, Germany and the Soviet Union signed an agreement settling s
 
 Soviet–German relations during the Pact's operation
 
-Bundesarchiv_Bild_101I-121-0011-20,_Polen,_deutsch-sowjetische_Siegesparade.jpg.]]
+.]]
 
 Early political issues
 
@@ -189,23 +183,23 @@ However, in late August, Germany arranged its own occupation of Romania, targeti
 
 German–Soviet Axis talks
 
-Bundesarchiv_Bild_183-1984-1206-523,_Berlin,_Verabschiedung_Molotows.jpg After Germany in September 1940 entered a Tripartite Pact with Japan and Italy, Ribbentrop wrote to Stalin, inviting Molotov to Berlin for negotiations aimed to create a 'continental bloc' of Germany, Italy, Japan and the USSR that would oppose Britain and the USA. Stalin sent Molotov to Berlin to negotiate the terms for the Soviet Union to join the Axis and potentially enjoy the spoils of the pact. After negotiations during November 1940 on where to extend the USSR's sphere of influence, Hitler broke off talks and continued planning for the eventual attempts to invade the Soviet Union.
+After Germany in September 1940 entered a Tripartite Pact with Japan and Italy, Ribbentrop wrote to Stalin, inviting Molotov to Berlin for negotiations aimed to create a 'continental bloc' of Germany, Italy, Japan and the USSR that would oppose Britain and the USA. Stalin sent Molotov to Berlin to negotiate the terms for the Soviet Union to join the Axis and potentially enjoy the spoils of the pact. After negotiations during November 1940 on where to extend the USSR's sphere of influence, Hitler broke off talks and continued planning for the eventual attempts to invade the Soviet Union.
 
 Late relations
 
-Europe_before_Operation_Barbarossa,_1941_(in_German).png In an effort to demonstrate peaceful intentions toward Germany, on April 13, 1941, the Soviets signed a neutrality pact with Axis power Japan. While Stalin had little faith in Japan's commitment to neutrality, he felt that the pact was important for its political symbolism, to reinforce a public affection for Germany. Stalin felt that there was a growing split in German circles about whether Germany should initiate a war with the Soviet Union. Stalin did not know that Hitler had been secretly discussing an invasion of the Soviet Union since summer 1940, and that Hitler had ordered his military in late 1940 to prepare for war in the east regardless of the parties' talks of a potential Soviet entry as a fourth Axis Power.[145]
+In an effort to demonstrate peaceful intentions toward Germany, on April 13, 1941, the Soviets signed a neutrality pact with Axis power Japan. While Stalin had little faith in Japan's commitment to neutrality, he felt that the pact was important for its political symbolism, to reinforce a public affection for Germany. Stalin felt that there was a growing split in German circles about whether Germany should initiate a war with the Soviet Union. Stalin did not know that Hitler had been secretly discussing an invasion of the Soviet Union since summer 1940, and that Hitler had ordered his military in late 1940 to prepare for war in the east regardless of the parties' talks of a potential Soviet entry as a fourth Axis Power.[145]
 
 
 Termination of the Pact
 
-EasternPoland_1939_border_Germany-USSR.jpg and Soviet Russia from September 1939 to June 1941, somewhere in the occupied territory of Poland]]
+and Soviet Russia from September 1939 to June 1941, somewhere in the occupied territory of Poland]]
 
 Nazi Germany unilaterally terminated the Molotov–Ribbentrop Pact at 03:15 on June 22, 1941 by launching a massive attack on the Soviet Union in Operation Barbarossa.[146] Stalin had ignored several warnings that Germany was likely to invade,[147][148][149] and ordered no "full-scale" mobilization of forces although the mobilization was ongoing.[150] After the launch of the invasion, the territories gained by the Soviet Union as a result of the Molotov–Ribbentrop Pact were lost in a matter of weeks. Within six months, the Soviet military had suffered 4.3 million casualties,[151] and three million more had been captured.[152] The lucrative export of Soviet raw materials to Nazi Germany over the course of the Nazi–Soviet economic relations (1934–41) continued uninterrupted until the outbreak of hostilities. The Soviet exports in several key areas enabled Germany to maintain its stocks of rubber and grain from the first day of the invasion until October 1941.[153]
 
 
 Aftermath
 
-EasternBloc_BorderChange38-48.svg after World War II]]
+after World War II]]
 
 Discovery of the Secret Protocol
 

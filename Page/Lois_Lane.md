@@ -11,7 +11,7 @@ Creation
 
 Jerry Siegel and Joe Shuster first conceived Lois Lane in 1934, when they were still developing Superman.[3] One of the major influence on Lois' characterization was actress Glenda Farrell and her portrayal of the fictional reporter Torchy Blane in a series of Warner Bros. films. The Torchy Blane movies were popular second features during the later 1930s. On the conception of Lois Lane, Jerry Siegel stated in the 1988 _Time_ magazine:
 
-Lois_Lane_Joanne_Siegel.jpg, modeled on Joanne Carter.]]
+, modeled on Joanne Carter.]]
 
 Joe Shuster based Lois' physical appearance on a model name Joanne Carter. Carter had placed an ad in the _Cleveland Plain Dealer_ newspaper in the Situation Wanted column, advertising herself as a model.[4] Shuster corresponded with her and hired her as the model for Lois Lane. Shuster's depiction of Lois was modeled on her hairstyle and facial features. "To me she was Lois Lane. She was a great inspiration for me, though. She encouraged me, she was very enthusiastic about the strip; it meant a lot to me." Shuster said about Joanne Carter.[5]
 
@@ -33,7 +33,7 @@ Fictional character biography
 
 Golden Age
 
-Superman27.PNG.]]
+.]]
 
 In the Golden Age comics, Lois was an aggressive, career-minded reporter for the _Daily Star_ (the newspaper's name was changed to the _Daily Planet_ in _Action Comics_ #23 in 1940). After Clark Kent joined the paper and Superman debuted around the same time, Lois found herself attracted to Superman but displeased with her new journalistic competition in the form of Kent.
 
@@ -51,7 +51,7 @@ Lois' main interests in various late 1950s and 1960s stories became vying with h
 
 Lois became more and more popular during the 1950s, and after appearing as the lead character in two issues of DC's title _Showcase_ in 1957,[22] DC Comics created an ongoing series for the character, titled _Superman's Girl Friend, Lois Lane_[23] beginning in April 1958 and running for 137 issues until October 1974. Most stories were about Lois' romance with Superman, and were drawn by artist Kurt Schaffenberger; indeed, Schaffenberger's rendition of Lois became cited by many[24][25] as the "definitive" version of Lois, and he was often asked by DC editor Mort Weisinger to redraw other artists' depictions of Lois Lane in other DC titles where she appeared.[26] So many stories depicted Lois and marriage that the cover of a 1968 80-Page Giant that reprinted several such stories, the "All-Wedding Issue", described the magazine as "featuring Lois' schemes and dreams to marry Superman!".[27]
 
-Supermans_girlfriend_Lois_Lane_53.jpg'' #53 (Nov. 1964), art by Kurt Schaffenberger.|left]]
+'' #53 (Nov. 1964), art by Kurt Schaffenberger.|left]]
 
 The series _Superman's Girl Friend, Lois Lane_ became one of DC's most popular titles, the third best-selling comic in 1962 and 1965.[28][29] The title featured the first appearance of the Silver Age Catwoman, after an absence from the comics for over a decade.[30]
 
@@ -73,7 +73,7 @@ After the 1985–1986 miniseries _Crisis on Infinite Earths_ writer John Byrne r
 
 Modern Age
 
-loislane.png'' #2 (Oct. 1986), art by John Byrne.]]
+'' #2 (Oct. 1986), art by John Byrne.]]
 
 Lois underwent a character alteration beginning with John Byrne's _The Man of Steel_ miniseries, which significantly rewrote Superman's origin and history. In this modern version of events, Lois was portrayed as a tough-as-nails reporter who rarely needed rescuing. She was depicted as strong, opinionated, yet sensitive.
 
@@ -111,8 +111,6 @@ Lois is the main character in the _Superman: Lois Lane_ #1 one-shot. In this sto
 
 In the _New 52: Futures End_, set five years in the possible future of the New 52-verse. Lois is considered the most successful freelance reporter on the planet and her blog "The Fast Lane" is one of the most read and well-respected sources of news in the world.[79]
 
-The birth of Lois and Clark's son in _Convergence: Superman_ #2 (July 2015), art by Dan Jurgens.|thumb
-
 In the miniseries _Convergence_, which featured many Post-_Crisis_ DC Universe characters, including a married Superman and his pregnant wife Lois Lane, deal with the impending birth of their child, as Superman is called to protect the city.[80] _Convergence_ shows the birth of their son, Jonathan Samuel Kent.[81]
 
 Following _Convergence_, DC announced the spin-off comic book series _Superman: Lois and Clark_, debuting in October 2015 by Dan Jurgens and Lee Weeks.[82] The eight-issue series is set several years after the _Convergence_ event, where Clark and Lois and their son Jonathan has been living and working in the New 52 universe. The couple now lives in California and has changed their last name to White (a tribute to Perry White). Lois has become an anonymous author, publishing several critically acclaimed books under the alias name "Author X." While Clark continues his superhero duty, protecting cities and civilians quietly behind the scenes.[83] Their son, Jonathan, eventually began to develop superpowers of his own (similar to those of his father Superman) and learned the truth about his parents' true origin.
@@ -130,7 +128,7 @@ Lois Lane has become a superhero and gained superpowers several times in the com
 
 Superwoman
 
-SuperwomanLoisLane.PNG.]]
+.]]
 
 Lois was the first person to assume the Superwoman persona and has become the superheroine on several occasions. Her first appearance as Superwoman (as well as Superwoman's first appearance in DC Comics) was in _Action Comics_ #60 (May 1943).[87] The story is set in a dream sequence, where, after Lois is hit by a truck, she dreams a transfusion of Superman's blood gives her superpowers and she becomes Superwoman. In _Superman_ #45, Lois believes Hocus and Pocus—a pair of fraudulent magicians—have given her superpowers, and with Superman's help and intervention, Lois once again becomes Superwoman.[88] In _The Superman Family_ #207, the Earth-Two Lois gained superpowers from her husband, after Superman brought an extraterrestrial plant into their home, with Lois losing the powers after the death of the plant.[89] Other stories have Lois transformed into Superwoman when Superman transfers some of his powers to Lois, or from one of Lex Luthor's inventions or due to Mr. Mxyzptlk's interference. On _Smallville_ in the episode "Prophecy," Jor-El gives Lois all of Clark's powers for one day.
 
@@ -142,7 +140,7 @@ In DC Rebirth, the _New 52_ Lois and Lana gained superpowers due to the solar en
 
 Red Tornado
 
-Red_Tornado_Lois.png.|left]]
+.|left]]
 
 Following the DC relaunch, the series _Earth 2_ debuted in 2012, set on the parallel world of that name. It depicts a modern take on the Golden Age world, starring the Justice Society of America and superheroes of that period.
 
@@ -185,7 +183,7 @@ Earth-Two version
 
 DC Comics instituted its multiverse system in the early 1960s for organizing its continuity and introduced the Earth-Two Superman in _Justice League of America_ #73 (August 1969).[118] This retcon declared the Golden Age Superman and Lois Lane stories (i.e. comics published from 1938 through the early 1950s) as having taken place on the parallel world of "Earth-Two" versus the then mainstream (Silver Age) universe of "Earth-One".
 
-Action_Comics_484.jpg and Dick Giordano.]]
+and Dick Giordano.]]
 
 In _Action Comics_ #484 (June 1978), a flashback story reveals Earth-Two's Lois became infatuated with Clark Kent after the latter lost his memory of his superheroic identity (thanks to a spell cast by the old Justice Society of America enemy, the Wizard), with the result of Clark acting more aggressive and extroverted. Clark and Lois began to date each other and were soon married. During the honeymoon, Lois discovered that Clark was indeed Superman, and after recruiting the aid of the Wizard, restored Clark's memory.[119]
 
@@ -294,8 +292,6 @@ Novels
 
 _Lois Lane_
 
-Lois_Lane_Fallout.jpg
-
 Lois is the protagonist in the young adult novel series, _Lois Lane_, written by Gwenda Bond and published by Switch Press. The series follows the adventures of Lois Lane as a savvy, whip-smart, and unafraid contemporary teenage high school girl. The first book in the series, _Fallout_, was revealed by the author in 2014 and was released on May 1, 2015. Bond revealed the second book, _Double Down_, in July 2015,[141] and the book was released on May 1, 2016.[142]
 
 On the series, Bond said: "Lois is an icon, of course, a superhero without any superpowers ... except her unmatched bravery and smarts. Not to mention her sense of humor and her commitment to truth and justice. She's also one of my all-time favorite characters—which is why I jumped at the chance to write a novel featuring a teen Lois, moving to Metropolis and becoming a reporter for the first time. And, most of all, to get to put Lois front and center in the starring role, obviously."[143]
@@ -330,7 +326,7 @@ Since her debut in the comic books in 1938, Lois has appeared in various media a
 
 In popular culture
 
-1950-nash-001.jpg c.1950, featured car of Lois Lane in the 1950s television series _The Adventures of Superman_[160]]]
+c.1950, featured car of Lois Lane in the 1950s television series _The Adventures of Superman_[160]]]
 
 -   There are streets named "Lois Lane" in Albemarle, North Carolina; Southfield, Michigan; Pontiac, Michigan; Mussey Township, Michigan; Kalamazoo, Michigan; Bloomington, Indiana; Newport News, Virginia; the Corporate Park of Staten Island, New York City; Nanaimo, British Columbia; Fullerton, California;Riverside, California; Sydney, New South Wales; Adelaide, South Australia; San Francisco, California; Old Bethpage, New York; Farmingdale, New York; Seaford, New York; Monroe, New York; Monsey, New York; Fenton, Missouri; Norfolk, Massachusetts; Lexington, Massachusetts; Billerica, Massachusetts; Lynn, Massachusetts; Needham, Massachusetts (also called Barbara Road); Huntley, Illinois; Metropolis, Illinois; Appleton, Wisconsin; Fort Wayne, Indiana and Worcester, Massachusetts.
 -   The American sitcom _Seinfeld_ made numerous references to Lois Lane over its nine-year run.

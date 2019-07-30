@@ -1,18 +1,12 @@
-Asphalt_works.jpg
-
 Decaying infrastructure is one of the deficiencies that Nigeria's National Economic Empowerment Development Strategy (NEEDS) seeks to address. The government has begun to repair the country's poorly maintained road network. Because Nigeria's railways are in a perilous condition, the government is trying to rectify the situation by privatizing the Nigerian Railway Corporation.[1][2] Similarly, the government is pursuing a strategy of partial port privatization by granting concessions to private port operators so that they can improve the quality of port facilities and operations.[3]
 
 
 Railways
 
-Rail_Map_NG.JPG
-
 Railways in Nigeria are operated by the Nigerian Railway Corporation. Nigeria's railway system has 3,984 kilometers of track, most of which is Cape gauge. The country has two major rail lines: a western line that connects Lagos to Nguru, and an eastern line that connects Port Harcourt to Maiduguri. The Lagos–Kano Standard Gauge Railway is being built in segments to replace the western Cape gauge line. Several metro systems are under construction.
 
 
 Highways
-
-Asphalt_paver_working.jpg
 
 Nigeria has the largest road network in West Africa and the second largest south of the Sahara, with roughly 108,000 km of surfaced roads in 1990.
 
@@ -64,7 +58,7 @@ Nigeria's strategic location and size results in four routes of the Trans-Africa
 
 Waterways
 
-Storm_water_pipe.jpg Nigeria has 8,600 km of inland waterways. The longest are the Niger River and its tributary, the Benue River[5] but the most used, especially by larger powered boats and for commerce, are in the Niger Delta and all along the coast from Lagos Lagoon to Cross River.
+Nigeria has 8,600 km of inland waterways. The longest are the Niger River and its tributary, the Benue River[5] but the most used, especially by larger powered boats and for commerce, are in the Niger Delta and all along the coast from Lagos Lagoon to Cross River.
 
 
 Pipelines

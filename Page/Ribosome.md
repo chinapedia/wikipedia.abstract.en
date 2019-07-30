@@ -1,4 +1,4 @@
-Peptide_syn.pngic protein molecules whose sequence is controlled by the sequence of messenger RNA molecules. This is required by all living cells and associated viruses.]]
+ic protein molecules whose sequence is controlled by the sequence of messenger RNA molecules. This is required by all living cells and associated viruses.]]
 
 RIBOSOMES ([1]) comprise a complex macromolecular machine, found within all living cells, that serves as the site of biological protein synthesis (translation). Ribosomes link amino acids together in the order specified by messenger RNA (mRNA) molecules. Ribosomes consist of two major components: the small ribosomal subunits, which read the mRNA, and the large subunits, which join amino acids to form a polypeptide chain. Each subunit consists of one or more ribosomal RNA (rRNA) molecules and a variety of ribosomal proteins (r-protein or rProtein[2][3][4]). The ribosomes and associated molecules are also known as the _translational apparatus_.
 
@@ -28,13 +28,13 @@ Albert Claude, Christian de Duve, and George Emil Palade were jointly awarded th
 
 Structure
 
-ribosome_shape.png The ribosome is a highly complex cellular machine. It is largely made up of specialized RNA known as ribosomal RNA (rRNA) as well as dozens of distinct proteins (the exact number varies slightly between species). The ribosomal proteins and rRNAs are arranged into two distinct ribosomal pieces of different size, known generally as the large and small subunit of the ribosome. Ribosomes consist of two subunits that fit together (Figure 2) and work as one to translate the mRNA into a polypeptide chain during protein synthesis (Figure 1). Because they are formed from two subunits of non-equal size, they are slightly longer in the axis than in diameter.
+The ribosome is a highly complex cellular machine. It is largely made up of specialized RNA known as ribosomal RNA (rRNA) as well as dozens of distinct proteins (the exact number varies slightly between species). The ribosomal proteins and rRNAs are arranged into two distinct ribosomal pieces of different size, known generally as the large and small subunit of the ribosome. Ribosomes consist of two subunits that fit together (Figure 2) and work as one to translate the mRNA into a polypeptide chain during protein synthesis (Figure 1). Because they are formed from two subunits of non-equal size, they are slightly longer in the axis than in diameter.
 
 Bacterial ribosomes
 
 Prokaryotic ribosomes are around 20 nm (200 Å) in diameter and are composed of 65% rRNA and 35% ribosomal proteins.[10] Eukaryotic ribosomes are between 25 and 30 nm (250–300 Å) in diameter with an rRNA-to-protein ratio that is close to 1.[11] Crystallographic work [12] has shown that there are no ribosomal proteins close to the reaction site for polypeptide synthesis. This suggests that the protein components of ribosomes do not directly participate in peptide bond formation catalysis, but rather that these proteins act as a scaffold that may enhance the ability of rRNA to synthesize protein (See: Ribozyme).
 
-010_small_subunit-1FKA.gif''.[13] Proteins are shown in blue and the single RNA chain in brown.]]
+''.[13] Proteins are shown in blue and the single RNA chain in brown.]]
 
 The ribosomal subunits of bacteria and eukaryotes are quite similar.[14]
 
@@ -70,7 +70,7 @@ The various ribosomes share a core structure, which is quite similar despite the
 
 High-resolution structure
 
-10_large_subunit.gif''. Proteins are shown in blue and the two RNA chains in brown and yellow.[37] The small patch of green in the center of the subunit is the active site.]] The general molecular structure of the ribosome has been known since the early 1970s. In the early 2000s, the structure has been achieved at high resolutions, of the order of a few ångströms.
+''. Proteins are shown in blue and the two RNA chains in brown and yellow.[37] The small patch of green in the center of the subunit is the active site.]] The general molecular structure of the ribosome has been known since the early 1970s. In the early 2000s, the structure has been achieved at high resolutions, of the order of a few ångströms.
 
 The first papers giving the structure of the ribosome at atomic resolution were published almost simultaneously in late 2000. The 50S (large prokaryotic) subunit was determined from the archaeon _Haloarcula marismortui_[38] and the bacterium _Deinococcus radiodurans_,[39] and the structure of the 30S subunit was determined from _Thermus thermophilus_.[40] These structural studies were awarded the Nobel Prize in Chemistry in 2009. In May 2001 these coordinates were used to reconstruct the entire _T. thermophilus_ 70S particle at 5.5 Å resolution.[41]
 
@@ -93,8 +93,6 @@ Ribosomes are the workplaces of protein biosynthesis, the process of translating
 
 Although catalysis of the peptide bond involves the C2 hydroxyl of RNA's P-site adenosine in a proton shuttle mechanism, other steps in protein synthesis (such as translocation) are caused by changes in protein conformations. Since their catalytic core is made of RNA, ribosomes are classified as "ribozymes,"[55] and it is thought that they might be remnants of the RNA world.[56]
 
-Ribosomer_i_arbete.png
-
 In Figure 5, both ribosomal subunits (small and large) assemble at the start codon (towards the 5' end of the mRNA). The ribosome uses tRNA that matches the current codon (triplet) on the mRNA to append an amino acid to the polypeptide chain. This is done for each triplet on the mRNA, while the ribosome moves towards the 3' end of the mRNA. Usually in bacterial cells, several ribosomes are working parallel on a single mRNA, forming what is called a _polyribosome_ or _polysome_.
 
 Cotranslational folding
@@ -110,7 +108,7 @@ Ribosome locations
 
 Ribosomes are classified as being either "free" or "membrane-bound".
 
-Protein_translation.gif.]] Free and membrane-bound ribosomes differ only in their spatial distribution; they are identical in structure. Whether the ribosome exists in a free or membrane-bound state depends on the presence of an ER-targeting signal sequence on the protein being synthesized, so an individual ribosome might be membrane-bound when it is making one protein, but free in the cytosol when it makes another protein.
+.]] Free and membrane-bound ribosomes differ only in their spatial distribution; they are identical in structure. Whether the ribosome exists in a free or membrane-bound state depends on the presence of an ER-targeting signal sequence on the protein being synthesized, so an individual ribosome might be membrane-bound when it is making one protein, but free in the cytosol when it makes another protein.
 
 Ribosomes are sometimes referred to as organelles, but the use of the term _organelle_ is often restricted to describing sub-cellular components that include a phospholipid membrane, which ribosomes, being entirely particulate, do not. For this reason, ribosomes may sometimes be described as "non-membranous organelles".
 
@@ -139,7 +137,7 @@ Specialized ribosome
 
 Many textbooks suggest that there are only two kinds of ribosomes, namely prokaryotic and eukaryotic ribosomes. However, ribosomes are surprisingly heterogeneous with different compositions in different species. Heterogeneous ribosomes have different structures and thus different activities compared to typical ribosomes in major model organisms.
 
-Journal.pone.0067609.g005.png (REN) gene and FF (Firefly) luciferase. Highlighted in green are the RPs on LSU that increase the expression of LAMB3 reporter with premature termination codons (PTC).[78]]]
+(REN) gene and FF (Firefly) luciferase. Highlighted in green are the RPs on LSU that increase the expression of LAMB3 reporter with premature termination codons (PTC).[78]]]
 
 Heterogeneity in ribosome composition has been proposed to be involved in translational control of protein synthesis.[79] Vincent Mauro and Gerald Edelman proposed the ribosome filter hypothesis to explain the regulatory functions of ribosomes. Emerging evidence has shown that specialized ribosomes specific to different cell populations can affect how genes are translated.[80] Some ribosomal proteins exchange from the assembled complex with cytosolic copies [81] suggesting that the structure of the _in vivo_ ribosome can be modified without synthesizing an entire new ribosome.
 
@@ -152,8 +150,6 @@ Certain ribosomal proteins are absolutely critical while others are not. For ins
 Other ways heterogeneity can arise from POST-TRANSLATIONAL MODIFICATIONS to RPs include acetylation and methylation in species like yeast,[87] _Arabidopsis_,[88] and human cells.[89][90][91] But there is no overall change in protein synthesis.
 
 Modifications to core ribosomal proteins (RPs) can also give rise to the formation of heterogeneous ribosomes. For instance, in yeast, Rpl28 ubiquitination levels vary with the cell cycle. Ribosomes with the polyubiquitinated Rpl28 carry out protein synthesis at a higher rate _in vitro_ compared with ribosomes with monoubiquitinated Rpl28.[92]
-
-1-s2.0-S0300908414003952-fx1_lrg.jpg
 
 Ribosome-associated factors
 

@@ -1,4 +1,4 @@
-Parmenides.jpg was among the first to propose an ontological characterization of the fundamental nature of reality.]]
+was among the first to propose an ontological characterization of the fundamental nature of reality.]]
 
 ONTOLOGY is the philosophical study of being. More broadly, it studies concepts that directly relate to being, in particular becoming, existence, reality, as well as the basic categories of being and their relations.[1] Traditionally listed as a part of the major branch of philosophy known as metaphysics, ontology often deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences.
 

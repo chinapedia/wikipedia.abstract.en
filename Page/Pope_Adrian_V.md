@@ -1,5 +1,3 @@
-Blason_AdrienV.svg
-
 POPE ADRIAN V (; c. 1210/122018 August 1276), born OTTOBUONO DE' FIESCHI,[1] was Pope from 11 July 1276 to his death on 18 August 1276.
 
 

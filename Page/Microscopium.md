@@ -10,8 +10,6 @@ Microscopium is a small constellation bordered by Capricornus to the north, Pisc
 
 Features
 
-Constellation_Microscopium.jpg
-
 Stars
 
 French astronomer Nicolas-Louis de Lacaille charted and designated ten stars with the Bayer designations Alpha through to Iota in 1756. A star in neighbouring Indus that Lacaille had labelled Nu Indi turned out to be in Microscopium, so Gould renamed it Nu Microscopii. Francis Baily considered Gamma and Epsilon Microscopii to belong to the neighbouring constellation Piscis Austrinus, but subsequent cartographers did not follow this. In his 1725 _Catalogus Britannicus_, John Flamsteed labelled the stars 1, 2, 3 and 4 Piscis Austrini, which became Gamma Microscopii, HR 8076, HR 8110 and Epsilon Microscopii respectively. Within the constellation's borders, there are 43 stars brighter than or equal to apparent magnitude 6.5.[5]
@@ -30,7 +28,7 @@ Describing Microscopium as "totally unremarkable", astronomer Patrick Moore conc
 
 Meteor showers
 
-Sidney_Hall_-_Urania's_Mirror_-_Sagittarius_and_Corona_Australis,_Microscopium,_and_Telescopium.jpg'' (in the lower left)]] The Microscopids are a minor meteor shower that appear from June to mid-July.[40]
+'' (in the lower left)]] The Microscopids are a minor meteor shower that appear from June to mid-July.[40]
 
 
 History

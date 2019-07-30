@@ -1,4 +1,4 @@
-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg, Norway; Algirdas Butkevičius, Lithuania; Laimdota Straujuma, Latvia; Sigmundur Davíð Gunnlaugsson, Iceland; Alexander Stubb, Finland; Anne Sulling, Estonia (trade minister); Helle Thorning-Schmidt, Denmark; Stefan Löfven, Sweden.]]
+, Norway; Algirdas Butkevičius, Lithuania; Laimdota Straujuma, Latvia; Sigmundur Davíð Gunnlaugsson, Iceland; Alexander Stubb, Finland; Anne Sulling, Estonia (trade minister); Helle Thorning-Schmidt, Denmark; Stefan Löfven, Sweden.]]
 
 A PRIME MINISTER is the head of a cabinet and the leader of the ministers in the executive branch of government, often in a parliamentary or semi-presidential system. A prime minister is not a head of state or chief executive officer of their respective nation, rather they are a head of government, serving typically under a monarch in a hybrid of aristocratic and democratic government forms.
 
@@ -30,7 +30,7 @@ When the monarch grew tired of a first minister, he or she could be dismissed, o
 
 Development
 
-CommonwealthPrimeMinisters1944.jpg at the 1944 Commonwealth Prime Ministers' Conference.]] In the mid 17th century, after the English Civil War (1642–1651), Parliament strengthened its position relative to the monarch then gained more power through the Glorious Revolution of 1688 and passage of the Bill of Rights in 1689.[5] The monarch could no longer establish any law or impose any tax without its permission and thus the House of Commons became a part of the government. It is at this point that a modern style of prime minister begins to emerge.[6][7]
+at the 1944 Commonwealth Prime Ministers' Conference.]] In the mid 17th century, after the English Civil War (1642–1651), Parliament strengthened its position relative to the monarch then gained more power through the Glorious Revolution of 1688 and passage of the Bill of Rights in 1689.[5] The monarch could no longer establish any law or impose any tax without its permission and thus the House of Commons became a part of the government. It is at this point that a modern style of prime minister begins to emerge.[6][7]
 
 A tipping point in the evolution of the prime ministership came with the death of Anne in 1714 and the accession of George I to the throne. George spoke no English, spent much of his time at his home in Hanover, and had neither knowledge of, nor interest in, the details of English government. In these circumstances it was inevitable that the king's first minister would become the de facto head of the government.
 
@@ -76,7 +76,7 @@ In parliamentary systems a prime minister may enter into office by several means
 
 Constitutional basis for the position in different countries
 
-Macdonald1872.jpg (1815–1891), first Canadian prime minister.]] The position, power and status of prime ministers differ depending on the age of the constitution.
+(1815–1891), first Canadian prime minister.]] The position, power and status of prime ministers differ depending on the age of the constitution.
 
 AUSTRALIA'S constitution makes no mention of a Prime Minister of Australia and the office only exists by convention, based on the British model.
 
@@ -253,7 +253,7 @@ Wilfried Martens, who served as Prime Minister of Belgium, described his role as
 
 Lists of prime ministers
 
-Prime_ministers.svg The following table groups the list of past and present prime ministers and details information available in those lists.
+The following table groups the list of past and present prime ministers and details information available in those lists.
 
 +-----------------------------------+---------------------------------+----------------+----------------------+-------------------------------------------------+
 | Government                        | List starts                     | nowrap|Parties | nowrap|Term given by | nowrap|Incumbent                                |

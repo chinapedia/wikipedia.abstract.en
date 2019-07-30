@@ -202,8 +202,6 @@ Tournament replacement selection sorts are used to gather the initial runs for e
 
 Analysis
 
-merge_sort_algorithm_diagram.svg
-
 In sorting _n_ objects, merge sort has an average and worst-case performance of O(_n_ log _n_). If the running time of merge sort for a list of length _n_ is _T_(_n_), then the recurrence _T_(_n_) = 2_T_(_n_/2) + _n_ follows from the definition of the algorithm (apply the algorithm to two lists of half the size of the original list, and add the _n_ steps taken to merge the resulting two lists). The closed form follows from the master theorem for divide-and-conquer recurrences.
 
 In the worst case, the number of comparisons merge sort makes is given by the sorting numbers. These numbers are equal to or slightly smaller than (_n_ ⌈lg _n_⌉ − 2^(⌈lg _n_⌉) + 1), which is between (_n_ lg _n_ − _n_ + 1) and (_n_ lg _n_ + _n_ + O(lg _n_)).[4]
@@ -234,7 +232,7 @@ An alternative to reduce the copying into multiple lists is to associate a new f
 
 Use with tape drives
 
-IBM_729_Tape_Drives.nasa.jpg and processed on banks of magnetic tape drives, such as these IBM 729s.]] An external merge sort is practical to run using disk or tape drives when the data to be sorted is too large to fit into memory. External sorting explains how merge sort is implemented with disk drives. A typical tape drive sort uses four tape drives. All I/O is sequential (except for rewinds at the end of each pass). A minimal implementation can get by with just two record buffers and a few program variables.
+and processed on banks of magnetic tape drives, such as these IBM 729s.]] An external merge sort is practical to run using disk or tape drives when the data to be sorted is too large to fit into memory. External sorting explains how merge sort is implemented with disk drives. A typical tape drive sort uses four tape drives. All I/O is sequential (except for rewinds at the end of each pass). A minimal implementation can get by with just two record buffers and a few program variables.
 
 Naming the four tape drives as A, B, C, D, with the original data on A, and using only 2 record buffers, the algorithm is similar to Bottom-up implementation, using pairs of tape drives instead of arrays in memory. The basic algorithm can be described as follows:
 
@@ -252,7 +250,7 @@ A more sophisticated merge sort that optimizes tape (and disk) drive usage is th
 
 Optimizing merge sort
 
-Merge_sort_animation2.gif On modern computers, locality of reference can be of paramount importance in software optimization, because multilevel memory hierarchies are used. Cache-aware versions of the merge sort algorithm, whose operations have been specifically chosen to minimize the movement of pages in and out of a machine's memory cache, have been proposed. For example, the algorithm stops partitioning subarrays when subarrays of size S are reached, where S is the number of data items fitting into a CPU's cache. Each of these subarrays is sorted with an in-place sorting algorithm such as insertion sort, to discourage memory swaps, and normal merge sort is then completed in the standard recursive fashion. This algorithm has demonstrated better performance on machines that benefit from cache optimization.
+On modern computers, locality of reference can be of paramount importance in software optimization, because multilevel memory hierarchies are used. Cache-aware versions of the merge sort algorithm, whose operations have been specifically chosen to minimize the movement of pages in and out of a machine's memory cache, have been proposed. For example, the algorithm stops partitioning subarrays when subarrays of size S are reached, where S is the number of data items fitting into a CPU's cache. Each of these subarrays is sorted with an in-place sorting algorithm such as insertion sort, to discourage memory swaps, and normal merge sort is then completed in the standard recursive fashion. This algorithm has demonstrated better performance on machines that benefit from cache optimization.
 
 suggested an alternative version of merge sort that uses constant additional space. This algorithm was later refined.
 

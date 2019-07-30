@@ -8,7 +8,7 @@ He was from a Florentine family, and followed his father as a canon lawyer, beco
 
 Cardinal
 
-Caullery_Pape_Clément_VIII_Rome.jpg, Petit Palais (Paris)]] He was made Cardinal-Priest of S. Pancrazio in 1585 by Pope Sixtus V, who named him major penitentiary in January 1586 and in 1588 sent him as legate in Poland. He placed himself under the direction of the reformer Philip Neri, who for thirty years was his confessor. Aldobrandini won the gratitude of the Habsburgs by his successful diplomatic efforts in Poland to obtain the release of the imprisoned Archduke Maximilian, the defeated claimant to the Polish throne.[3]
+, Petit Palais (Paris)]] He was made Cardinal-Priest of S. Pancrazio in 1585 by Pope Sixtus V, who named him major penitentiary in January 1586 and in 1588 sent him as legate in Poland. He placed himself under the direction of the reformer Philip Neri, who for thirty years was his confessor. Aldobrandini won the gratitude of the Habsburgs by his successful diplomatic efforts in Poland to obtain the release of the imprisoned Archduke Maximilian, the defeated claimant to the Polish throne.[3]
 
 After the death of Pope Innocent IX (1591), another stormy conclave ensued, in which a determined minority of Italian Cardinals were unwilling to be dictated to by Philip II of Spain. Cardinal Aldobrandini's election on 30 January 1592 was received as a portent of more balanced and liberal Papal policy in European affairs. He took the non-politicised name Clement VIII. He proved to be an able Pope, with an unlimited capacity for work, a lawyer's eye for detail, and a wise statesman, the general object of whose policy was to free the Papacy from its dependence upon Spain.[4]
 
@@ -36,7 +36,7 @@ Foreign relations
 
 Relations with France and Spain
 
-Clement_viii.jpg The most remarkable event of Clement VIII's reign was the reconciliation to the Church of Henry IV of France (1589–1610), after long negotiations, carried on with great dexterity through Cardinal Arnaud d'Ossat, that resolved the complicated situation in France. Henry embraced Catholicism on 25 July 1593. After a pause to assess Henry IV's sincerity, Clement VIII braved Spanish displeasure, and in the autumn of 1595 he solemnly absolved Henry IV, thus putting an end to the thirty years' religious war in France.[6]
+The most remarkable event of Clement VIII's reign was the reconciliation to the Church of Henry IV of France (1589–1610), after long negotiations, carried on with great dexterity through Cardinal Arnaud d'Ossat, that resolved the complicated situation in France. Henry embraced Catholicism on 25 July 1593. After a pause to assess Henry IV's sincerity, Clement VIII braved Spanish displeasure, and in the autumn of 1595 he solemnly absolved Henry IV, thus putting an end to the thirty years' religious war in France.[6]
 
 Henry IV's friendship was of essential importance to the Papacy two years later, when Alfonso II, Duke of Ferrara, died childless (27 October 1597), and the Pope resolved to attach the stronghold of the Este family to the states of the Church. Though Spain and the Emperor Rudolf II encouraged Alfonso II's illegitimate cousin, Cesare d'Este, to withstand the Pope, they were deterred from giving him any material aid by Henry IV's threats, and a papal army entered Ferrara almost unopposed.[7]
 
@@ -62,7 +62,7 @@ Clement VIII tightened measures against the Jewish inhabitants of his territorie
 
 Later life and death
 
-Clement_VIII_SM_Maggiore.jpg]] Clement VIII was afflicted by gout, and was forced to spend much of his later life immobilized in bed. He suddenly became ill on 10 February 1605 and his condition rapidly deteriorated over the next few weeks. He died on 3 March 1605 around midnight, leaving a reputation for prudence, munificence, ruthlessness and capacity for business. Clement was buried in St. Peter's Basilica, and later Pope Paul V (1605–21) had a mausoleum built for him in the Borghese Chapel of Santa Maria Maggiore, where the remains were transferred in 1646.
+]] Clement VIII was afflicted by gout, and was forced to spend much of his later life immobilized in bed. He suddenly became ill on 10 February 1605 and his condition rapidly deteriorated over the next few weeks. He died on 3 March 1605 around midnight, leaving a reputation for prudence, munificence, ruthlessness and capacity for business. Clement was buried in St. Peter's Basilica, and later Pope Paul V (1605–21) had a mausoleum built for him in the Borghese Chapel of Santa Maria Maggiore, where the remains were transferred in 1646.
 
 His reign is especially distinguished by the number and beauty of his medals. Clement VIII founded the Collegio Clementino for the education of the sons of the richer classes, and augmented the number of national colleges in Rome by opening the Collegio Scozzese for the training of missionaries to Scotland.[14]
 

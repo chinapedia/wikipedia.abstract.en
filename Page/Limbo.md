@@ -1,11 +1,11 @@
-Follower_of_Jheronimus_Bosch_Christ_in_Limbo.jpg[1]]]
+[1]]]
 
 In Catholic theology, LIMBO (Latin _limbus_, edge or boundary, referring to the edge of Hell) is a doctrine concerning the afterlife condition of those who die in original sin without being assigned to the Hell of the Damned. Medieval theologians of western Europe described the underworld ("hell", "hades", "infernum") as divided into four distinct parts: Hell of the Damned,[2] Purgatory, Limbo of the Fathers or Patriarchs, and Limbo of the Infants. However, Limbo of the Infants is not an official doctrine of the Catholic Church.
 
 
 Limbo of the Patriarchs
 
-Domenico_Beccafumi_018.jpg]]
+]]
 
 The "Limbo of the Patriarchs" or "Limbo of the Fathers" (Latin _limbus patrum_) is seen as the temporary state of those who, despite the sins they may have committed, died in the friendship of God but could not enter Heaven until redemption by Jesus Christ made it possible. The term "Limbo of the Fathers" was a medieval name for the part of the underworld (Hades) where the patriarchs of the Old Testament were believed to be kept until Christ's soul descended into it by his death[3] through crucifixion and freed them (see Harrowing of Hell). The Catechism of the Catholic Church describes Christ's descent into Hell as meaning primarily that "the crucified one sojourned in the realm of the dead prior to his resurrection. This was the first meaning given in the apostolic preaching to Christ's descent into Hell: that Jesus, like all men, experienced death and in his soul joined the others in the realm of the dead." It adds: "But he descended there as Saviour, proclaiming the Good News to the spirits imprisoned there." It does not use the word "Limbo".[4]
 
@@ -22,7 +22,7 @@ The doctrine expressed by the term "Limbo of the Fathers" was taught, for instan
 
 Limbo of Infants
 
-Chora_Anastasis1.jpg]] The Limbo of Infants (Latin _limbus infantium_ or _limbus puerorum_) is the hypothetical permanent status of the unbaptized who die in infancy, too young to have committed actual sins, but not having been freed from original sin. Recent Catholic theological speculation tends to stress the hope, although not the certainty, that these infants may attain heaven instead of the state of Limbo.[10]
+]] The Limbo of Infants (Latin _limbus infantium_ or _limbus puerorum_) is the hypothetical permanent status of the unbaptized who die in infancy, too young to have committed actual sins, but not having been freed from original sin. Recent Catholic theological speculation tends to stress the hope, although not the certainty, that these infants may attain heaven instead of the state of Limbo.[10]
 
 While the Catholic Church has a defined doctrine on original sin, it has none on the eternal fate of unbaptized infants, leaving theologians free to propose different theories, which magisterium is free to accept or reject. Limbo is one such theory.[11][12]
 
@@ -59,7 +59,7 @@ Pope Benedict XVI authorized publication of this document, indicating that he co
 
 In other denominations and religions
 
-5part-icon-Hell.jpg righteous follow Christ from Hades to Heaven (Russian icon)]]
+righteous follow Christ from Hades to Heaven (Russian icon)]]
 
 Neither the Eastern Orthodox Church nor Protestantism accepts the concept of a limbo of infants;[37] but, while not using the expression "Limbo of the Patriarchs", the Eastern Orthodox Church lays much stress on the resurrected Christ's action of liberating Adam and Eve and other righteous figures of the Old Testament, such as Abraham and David, from Hades (see Harrowing of Hell).
 

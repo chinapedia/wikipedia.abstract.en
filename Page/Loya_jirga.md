@@ -1,4 +1,4 @@
-Hamid_Karzai_became_winner_at_the_2002_Loya_Jirga.jpg appointed as President of the Afghan Transitional Administration at the 13 July 2002 _loya jirga_ held in Kabul, Afghanistan.]]
+appointed as President of the Afghan Transitional Administration at the 13 July 2002 _loya jirga_ held in Kabul, Afghanistan.]]
 
 _LOYA JIRGA_ (, "grand assembly") is a code of laws of the Pashtun peoples living in areas of Afghanistan, Pakistan, and neighboring countries in the Pashtunwali. It is a special type of _jirga_ (assembly) that is mainly organized for choosing a new head of state in case of sudden death, adopting a new constitution, or to settle national or regional issue such as war.[1] It predates modern-day written or fixed laws, and is mostly favored by the Pashtun people but to a lesser extent by other nearby groups that have been influenced by Pashtuns (historically known as Afghans).
 

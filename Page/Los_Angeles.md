@@ -95,9 +95,9 @@ File:Capitol Records sunset.jpg|Capitol Records Building File:USS Iowa Port of L
 
 Climate
 
-MacArthurParkLA.jpg in Westlake]] Los Angeles has a Mediterranean climate (Köppen _Csb_ on the coast and most of downtown, _Csa_ near the metropolitan region to the west), and receives just enough annual precipitation to avoid semi-arid climate (_BSh)_,[78] making the myth that the city has been built in a desert not be completely incorrect.[79][80] Los Angeles has plenty of sunshine throughout the year, with an average of only 35 days with measurable precipitation annually.[81] The coastal region around Los Angeles has a climate comparable to coastal areas of southeastern Spain such as Alicante or Elche, in temperature range and variation, in sunshine hours and as well as annual precipitation levels.
+in Westlake]] Los Angeles has a Mediterranean climate (Köppen _Csb_ on the coast and most of downtown, _Csa_ near the metropolitan region to the west), and receives just enough annual precipitation to avoid semi-arid climate (_BSh)_,[78] making the myth that the city has been built in a desert not be completely incorrect.[79][80] Los Angeles has plenty of sunshine throughout the year, with an average of only 35 days with measurable precipitation annually.[81] The coastal region around Los Angeles has a climate comparable to coastal areas of southeastern Spain such as Alicante or Elche, in temperature range and variation, in sunshine hours and as well as annual precipitation levels.
 
-Temperatures in the coastal basin exceed on a dozen or so days in the year, from one day a month in April, May, June and November to three days a month in July, August, October and to five days in September.[82] Temperatures in the San Fernando and San Gabriel Valleys are considerably warmer. Temperatures are subject to substantial daily swings; in inland areas the difference between the average daily low and the average daily high is over .[83] The average annual temperature of the sea is , from in January to in August.[84] Hours of sunshine total more than 3,000 per year, from an average of 7 hours of sunshine per day in December to an average of 12 in July.[85] Griffith_Observatory_entrance_lawn_with_Hollywood_sign.jpg and the Hollywood Sign from the Griffith Observatory lawn, one day after a rain.]] The Los Angeles area is also subject to phenomena typical of a microclimate, causing extreme variations in temperature in close physical proximity to each other. For example, the average July maximum temperature at the Santa Monica Pier is whereas it is in Canoga Park.[86] The city, like much of the southern California coast, is subject to a late spring/early summer weather phenomenon called "June Gloom". This involves overcast or foggy skies in the morning which yield to sun by early afternoon.[87]
+Temperatures in the coastal basin exceed on a dozen or so days in the year, from one day a month in April, May, June and November to three days a month in July, August, October and to five days in September.[82] Temperatures in the San Fernando and San Gabriel Valleys are considerably warmer. Temperatures are subject to substantial daily swings; in inland areas the difference between the average daily low and the average daily high is over .[83] The average annual temperature of the sea is , from in January to in August.[84] Hours of sunshine total more than 3,000 per year, from an average of 7 hours of sunshine per day in December to an average of 12 in July.[85] and the Hollywood Sign from the Griffith Observatory lawn, one day after a rain.]] The Los Angeles area is also subject to phenomena typical of a microclimate, causing extreme variations in temperature in close physical proximity to each other. For example, the average July maximum temperature at the Santa Monica Pier is whereas it is in Canoga Park.[86] The city, like much of the southern California coast, is subject to a late spring/early summer weather phenomenon called "June Gloom". This involves overcast or foggy skies in the morning which yield to sun by early afternoon.[87]
 
 Downtown Los Angeles averages of precipitation annually, mainly occurring between November and March,[88] generally in the form of moderate rain showers, but sometimes as heavy rainfall during winter storms. Rainfall is usually higher in the hills and coastal slopes of the mountains because of orographic uplift. Summer days are usually rainless. Rarely, an incursion of moist air from the south or east can bring brief thunderstorms in late summer, especially to the mountains. The coast gets slightly less rainfall, while the inland and mountain areas get considerably more. Years of average rainfall are rare. The usual pattern is year to year variability, with a short string of dry years of rainfall, followed by one or two wet years with more than .[89] Wet years are usually associated with warm water El Niño conditions in the Pacific, dry years with cooler water La Niña episodes. A series of rainy days can bring floods to the lowlands and mudslides to the hills, especially after wildfires have denuded the slopes.
 
@@ -114,8 +114,6 @@ Both freezing temperatures and snowfall are extremely rare in the city basin and
 
 Environmental issues
 
-Los_Angeles_Pollution.jpg
-
 A Gabrielino settlement in the area was called _iyáangẚ_ (written _Yang-na_ by the Spanish), which has been translated as "poison oak place".[100][101] _Yang-na_ has also been translated as "the valley of smoke".[102][103] Owing to geography, heavy reliance on automobiles, and the Los Angeles/Long Beach port complex, Los Angeles suffers from air pollution in the form of smog. The Los Angeles Basin and the San Fernando Valley are susceptible to atmospheric inversion, which holds in the exhausts from road vehicles, airplanes, locomotives, shipping, manufacturing, and other sources.[104] The percentage of small particle pollution (the kind that penetrates into the lungs) coming from vehicles in the city can get as high as 55 percent.[105]
 
 The smog season lasts from approximately May to October.[106] While other large cities rely on rain to clear smog, Los Angeles gets only of rain each year: pollution accumulates over many consecutive days. Issues of air quality in Los Angeles and other major cities led to the passage of early national environmental legislation, including the Clean Air Act. When the act was passed, California was unable to create a State Implementation Plan that would enable it to meet the new air quality standards, largely because of the level of pollution in Los Angeles generated by older vehicles.[107] More recently, the state of California has led the nation in working to limit pollution by mandating low-emission vehicles. Smog is expected to continue to drop in the coming years because of aggressive steps to reduce it, which include electric and hybrid cars, improvements in mass transit, and other measures.
@@ -129,7 +127,7 @@ Demographics
 
 The 2010 United States Census[114] reported Los Angeles had a population of 3,792,621.[115] The population density was 8,092.3 people per square mile (2,913.0/km²). The age distribution was 874,525 people (23.1%) under 18, 434,478 people (11.5%) from 18 to 24, 1,209,367 people (31.9%) from 25 to 44, 877,555 people (23.1%) from 45 to 64, and 396,696 people (10.5%) who were 65 or older.[116] The median age was 34.1 years. For every 100 females, there were 99.2 males. For every 100 females age 18 and over, there were 97.6 males.[117]
 
-There were 1,413,995 housing units—up from 1,298,350 during 2005–2009[118]—at an average density of 2,812.8 households per square mile (1,086.0/km²), of which 503,863 (38.2%) were owner-occupied, and 814,305 (61.8%) were occupied by renters. The homeowner vacancy rate was 2.1%; the rental vacancy rate was 6.1%. 1,535,444 people (40.5% of the population) lived in owner-occupied housing units and 2,172,576 people (57.3%) lived in rental housing units.[119] Distribution_of_high_income_households_across_LA_County.png According to the 2010 United States Census, Los Angeles had a median household income of $49,497, with 22.0% of the population living below the federal poverty line.[120]
+There were 1,413,995 housing units—up from 1,298,350 during 2005–2009[118]—at an average density of 2,812.8 households per square mile (1,086.0/km²), of which 503,863 (38.2%) were owner-occupied, and 814,305 (61.8%) were occupied by renters. The homeowner vacancy rate was 2.1%; the rental vacancy rate was 6.1%. 1,535,444 people (40.5% of the population) lived in owner-occupied housing units and 2,172,576 people (57.3%) lived in rental housing units.[119] According to the 2010 United States Census, Los Angeles had a median household income of $49,497, with 22.0% of the population living below the federal poverty line.[120]
 
 Race and ethnicity
 
@@ -139,8 +137,6 @@ Race and ethnicity
   Black or African American   9.6%    14.0%       17.9%        4.2%
   Hispanic or Latino          48.5%   39.9%       17.1%[125]   7.1%[126]
   Asian                       11.3%   9.8%        3.6%         2.2%
-
-Race_and_ethnicity_2010-_Los_Angeles_(5560490330).png
 
 According to the 2010 Census, the racial makeup of Los Angeles included: 1,888,158 Whites (49.8%), 365,118 African Americans (9.6%), 28,215 Native Americans (0.7%), 426,959 Asians (11.3%), 5,577 Pacific Islanders (0.1%), 902,959 from other races (23.8%), and 175,635 (4.6%) from two or more races.[127] Hispanics or Latinos of any race were 1,838,822 persons (48.5%). Los Angeles is home to people from more than 140 countries speaking 224 different identified languages.[128] Ethnic enclaves like Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Tehrangeles, Little Tokyo, Little Bangladesh, and Thai Town provide examples of the polyglot character of Los Angeles.
 
@@ -156,7 +152,7 @@ African Americans have been the predominant ethnic group in South Los Angeles, w
 
 Religion
 
-Los_Angeles_Cathedral-2.jpg is the mother cathedral for the Los Angeles archdiocese.]]According to a 2014 study by the Pew Research Center, Christianity is the most prevalently practiced religion in Los Angeles (65%).[133][134] Perhaps owing to the fact of its founding by Franciscan friars of Roman Catholicism, the Roman Catholic Archbishop of Los Angeles leads the largest archdiocese in the country.[135] Cardinal Roger Mahony oversaw construction of the Cathedral of Our Lady of the Angels, which opened in September 2002 in Downtown Los Angeles.[136] Construction of the cathedral marked a coming of age of the city's Catholic, heavily Latino community. There are numerous Catholic churches and parishes throughout Los Angeles.
+is the mother cathedral for the Los Angeles archdiocese.]]According to a 2014 study by the Pew Research Center, Christianity is the most prevalently practiced religion in Los Angeles (65%).[133][134] Perhaps owing to the fact of its founding by Franciscan friars of Roman Catholicism, the Roman Catholic Archbishop of Los Angeles leads the largest archdiocese in the country.[135] Cardinal Roger Mahony oversaw construction of the Cathedral of Our Lady of the Angels, which opened in September 2002 in Downtown Los Angeles.[136] Construction of the cathedral marked a coming of age of the city's Catholic, heavily Latino community. There are numerous Catholic churches and parishes throughout Los Angeles.
 
 In 2011, the once common, but ultimately lapsed, custom of conducting a procession and Mass in honor of Nuestra Señora de los Ángeles, in commemoration of the founding of the City of Los Angeles in 1781, was revived by the Queen of Angels Foundation and its founder Mark Albert, with the support and approbation of the Archdiocese of Los Angeles as well as several civic leaders.[137] The recently revived custom is a continuation of the original processions and Masses which commenced on the first anniversary of the founding of Los Angeles in 1782 and continued for nearly a century thereafter.
 
@@ -175,7 +171,7 @@ Because of Los Angeles's large multi-ethnic population, a wide variety of faiths
 
 Economy
 
-Tree_Map_of_Employment_by_Industries_in_Los_Angeles_County,_Ca_(2015).svg The economy of Los Angeles is driven by international trade, entertainment (television, motion pictures, video games, music recording, and production), aerospace, technology, petroleum, fashion, apparel, and tourism. Other significant industries include finance, telecommunications, law, healthcare, and transportation. In the 2017 Global Financial Centres Index, Los Angeles was ranked as having the 19th most competitive financial center in the world, and sixth most competitive in United States (after New York City, San Francisco, Chicago, Boston, and Washington, D.C.).[149]
+The economy of Los Angeles is driven by international trade, entertainment (television, motion pictures, video games, music recording, and production), aerospace, technology, petroleum, fashion, apparel, and tourism. Other significant industries include finance, telecommunications, law, healthcare, and transportation. In the 2017 Global Financial Centres Index, Los Angeles was ranked as having the 19th most competitive financial center in the world, and sixth most competitive in United States (after New York City, San Francisco, Chicago, Boston, and Washington, D.C.).[149]
 
 Two of the six major film studios, Paramount Pictures and 20th Century Fox, are within the city limits,[150] their locations being part of the so-called "Thirty-Mile Zone" of entertainment headquarters in Southern California.
 
@@ -190,13 +186,13 @@ The largest employers in the city were, in descending order, the City of Los Ang
 
 Culture
 
-Hollywood_bowl_and_sign.jpg]]
+]]
 
 Los Angeles is often billed as the "Creative Capital of the World", because one in every six of its residents works in a creative industry[159] and there are more artists, writers, filmmakers, actors, dancers and musicians living and working in Los Angeles than any other city at any time in history.[160]
 
 Movies and the performing arts
 
-The city's Hollywood neighborhood has become recognized as the center of the motion picture industry and the Los Angeles area is also associated as being the center of the television industry. The city is home to the major film studios as well as major record labels. Los Angeles plays host to the annual Academy Awards, the Primetime Emmy Awards, the Grammy Awards as well as many other entertainment industry awards shows. Los Angeles is the site of the USC School of Cinematic Arts, the oldest film school in the United States.[161]Dolby_Theatre.jpg, venue for the Academy Awards]]The performing arts play a major role in Los Angeles's cultural identity. According to the USC Stevens Institute for Innovation, "there are more than 1,100 annual theatrical productions and 21 openings every week."[162] The Los Angeles Music Center is "one of the three largest performing arts centers in the nation", with more than 1.3 million visitors per year.[163] The Walt Disney Concert Hall, centerpiece of the Music Center, is home to the prestigious Los Angeles Philharmonic. Notable organizations such as Center Theatre Group, the Los Angeles Master Chorale, and the Los Angeles Opera are also resident companies of the Music Center. Talent is locally cultivated at premier institutions such as the Colburn School and the USC Thornton School of Music.
+The city's Hollywood neighborhood has become recognized as the center of the motion picture industry and the Los Angeles area is also associated as being the center of the television industry. The city is home to the major film studios as well as major record labels. Los Angeles plays host to the annual Academy Awards, the Primetime Emmy Awards, the Grammy Awards as well as many other entertainment industry awards shows. Los Angeles is the site of the USC School of Cinematic Arts, the oldest film school in the United States.[161], venue for the Academy Awards]]The performing arts play a major role in Los Angeles's cultural identity. According to the USC Stevens Institute for Innovation, "there are more than 1,100 annual theatrical productions and 21 openings every week."[162] The Los Angeles Music Center is "one of the three largest performing arts centers in the nation", with more than 1.3 million visitors per year.[163] The Walt Disney Concert Hall, centerpiece of the Music Center, is home to the prestigious Los Angeles Philharmonic. Notable organizations such as Center Theatre Group, the Los Angeles Master Chorale, and the Los Angeles Opera are also resident companies of the Music Center. Talent is locally cultivated at premier institutions such as the Colburn School and the USC Thornton School of Music.
 
 Museums and galleries
 
@@ -205,9 +201,9 @@ There are 841 museums and art galleries in Los Angeles County.[164] In fact, Los
 
 Sports
 
-Los_Angeles_Memorial_Coliseum.JPG]] Dodger_Stadium_field_from_upper_deck_2015-10-04.jpg]] The city of Los Angeles and its metropolitan area are the home of eleven top level professional sports teams, several of which play in neighboring communities but use Los Angeles in their name. These teams include the Los Angeles Dodgers and Los Angeles Angels of Major League Baseball (MLB), the Los Angeles Rams and Los Angeles Chargers of the National Football League (NFL), the Los Angeles Lakers and Los Angeles Clippers of the National Basketball Association (NBA), the Los Angeles Kings and Anaheim Ducks of the National Hockey League (NHL), the Los Angeles Galaxy and Los Angeles Football Club of Major League Soccer (MLS), and the Los Angeles Sparks of the Women's National Basketball Association (WNBA).
+]] ]] The city of Los Angeles and its metropolitan area are the home of eleven top level professional sports teams, several of which play in neighboring communities but use Los Angeles in their name. These teams include the Los Angeles Dodgers and Los Angeles Angels of Major League Baseball (MLB), the Los Angeles Rams and Los Angeles Chargers of the National Football League (NFL), the Los Angeles Lakers and Los Angeles Clippers of the National Basketball Association (NBA), the Los Angeles Kings and Anaheim Ducks of the National Hockey League (NHL), the Los Angeles Galaxy and Los Angeles Football Club of Major League Soccer (MLS), and the Los Angeles Sparks of the Women's National Basketball Association (WNBA).
 
-Other notable sports teams include the UCLA Bruins and the USC Trojans in the National Collegiate Athletic Association (NCAA), both of which are Division I teams in the Pac-12 Conference. Staples_Center_2012.jpg is a sports arena, home to the Los Angeles Lakers, Los Angeles Sparks, Los Angeles Clippers, and Los Angeles Kings.]]
+Other notable sports teams include the UCLA Bruins and the USC Trojans in the National Collegiate Athletic Association (NCAA), both of which are Division I teams in the Pac-12 Conference. is a sports arena, home to the Los Angeles Lakers, Los Angeles Sparks, Los Angeles Clippers, and Los Angeles Kings.]]
 
 Los Angeles is the second-largest city in the United States but hosted no NFL team between 1995 and 2015. At one time, the Los Angeles area hosted two NFL teams: the Rams and the Raiders. Both left the city in 1995, with the Rams moving to St. Louis, and the Raiders moving back to their original home of Oakland. After 21 seasons in St. Louis, on January 12, 2016, the NFL announced the Rams would be moving back to Los Angeles for the 2016 NFL season. A new stadium will be built in Inglewood, California for the team by the 2020 season.[169][170][171] Prior to 1995, the Rams played their home games in the Los Angeles Memorial Coliseum from 1946 to 1979 and the Raiders played their home games at the Los Angeles Memorial Coliseum from 1982 to 1994. The San Diego Chargers announced on January 12, 2017 they would relocate to Los Angeles and become the Los Angeles Chargers beginning in the 2017 NFL season and play at Dignity Health Sports Park in Carson, California for the next three seasons until the Rams' Inglewood stadium is completed.
 
@@ -233,7 +229,7 @@ In the California State Assembly, Los Angeles is split between fourteen district
 
 Crime
 
-May_Day_Immigration_March_LA66.jpg on May Day 2006 in front of the new Caltrans District 7 Headquarters]] Los Angeles experienced a significant decline in crime in the 1990s and late 2000s and reached a 50-year low in 2009 with 314 homicides.[180][181] This is a rate of 7.85 per 100,000 population—a major decrease from 1980 when a homicide rate of 34.2 per 100,000 was reported.[182][183] This included 15 officer-involved shootings. One shooting led to the death of a SWAT team member, Randal Simmons, the first in LAPD's history.[184] Los Angeles in the year of 2013 totaled 251 murders, a decrease of 16 percent from the previous year. Police speculate the drop resulted from a number of factors, including young people spending more time online.[185]
+on May Day 2006 in front of the new Caltrans District 7 Headquarters]] Los Angeles experienced a significant decline in crime in the 1990s and late 2000s and reached a 50-year low in 2009 with 314 homicides.[180][181] This is a rate of 7.85 per 100,000 population—a major decrease from 1980 when a homicide rate of 34.2 per 100,000 was reported.[182][183] This included 15 officer-involved shootings. One shooting led to the death of a SWAT team member, Randal Simmons, the first in LAPD's history.[184] Los Angeles in the year of 2013 totaled 251 murders, a decrease of 16 percent from the previous year. Police speculate the drop resulted from a number of factors, including young people spending more time online.[185]
 
 The Dragna crime family and the Cohen crime family dominated organized crime in the city during the Prohibition era[186] and reached its peak during the 1940s and 1950s with the battle of Sunset Strip as part of the American Mafia, but has gradually declined since then with the rise of various black and Hispanic gangs in the late 1960s and early 1970s.[187]
 
@@ -244,9 +240,9 @@ Education
 
 Colleges and universities
 
-UCLA-old-statenormal-campus.jpg in downtown Los Angeles opened its doors in 1882.]]
+in downtown Los Angeles opened its doors in 1882.]]
 
-Cal_State_University,_Los_Angeles.jpg]]
+]]
 
 There are three public universities within the city limits: California State University, Los Angeles (CSULA), California State University, Northridge (CSUN) and University of California, Los Angeles (UCLA).
 
@@ -286,7 +282,7 @@ The community college system consists of nine campuses governed by the trustees 
 -   Los Angeles Trade-Technical College
 -   West Los Angeles College
 
-There are numerous additional colleges and universities outside the city limits in the Greater Los Angeles area, including the Claremont Colleges consortium, which includes the most selective liberal arts colleges in the U.S., and the California Institute of Technology (Caltech), one of the top STEM-focused research institutions in the world.Los-angeles-central-library.jpg is in Downtown Los Angeles.]]
+There are numerous additional colleges and universities outside the city limits in the Greater Los Angeles area, including the Claremont Colleges consortium, which includes the most selective liberal arts colleges in the U.S., and the California Institute of Technology (Caltech), one of the top STEM-focused research institutions in the world. is in Downtown Los Angeles.]]
 
 Schools and libraries
 
@@ -297,7 +293,7 @@ Several small sections of Los Angeles are in the Las Virgenes Unified School Dis
 
 Media
 
-LA_Times_building.jpg The Los Angeles metro area is the second-largest broadcast designated market area in the U.S. (after New York) with 5,431,140 homes (4.956% of the U.S.), which is served by a wide variety of local AM and FM radio and television stations. Los Angeles and New York City are the only two media markets to have seven VHF allocations assigned to them.[192]Foxplaza_la.jpg in Century City, headquarters for 20th Century Fox|189px]]As part of the region's aforementioned creative industry, the Big Four major broadcast television networks, ABC, CBS, Fox, and NBC, all have production facilities and offices throughout various areas of Los Angeles. All four major broadcast television networks, plus major Spanish-language networks Telemundo and Univision, also own and operate stations that both serve the Los Angeles market and serve as each network's West Coast flagship station: ABC's KABC-TV (Channel 7), CBS's KCBS-TV (Channel 2), Fox's KTTV-TV (Channel 11), NBC's KNBC-TV (Channel 4), MyNetworkTV's KCOP-TV (channel 13), Telemundo's KVEA-TV (Channel 52), and Univision's KMEX-TV (Channel 34). The region also has three PBS stations, as well as KCET, the nation's largest independent public television station. KTBN (Channel 40) is the flagship station of the religious Trinity Broadcasting Network, based out of Santa Ana. A variety of independent television stations, such as KCAL-TV (Channel 9) and KTLA-TV (Channel 5), also operate in the area.
+The Los Angeles metro area is the second-largest broadcast designated market area in the U.S. (after New York) with 5,431,140 homes (4.956% of the U.S.), which is served by a wide variety of local AM and FM radio and television stations. Los Angeles and New York City are the only two media markets to have seven VHF allocations assigned to them.[192] in Century City, headquarters for 20th Century Fox|189px]]As part of the region's aforementioned creative industry, the Big Four major broadcast television networks, ABC, CBS, Fox, and NBC, all have production facilities and offices throughout various areas of Los Angeles. All four major broadcast television networks, plus major Spanish-language networks Telemundo and Univision, also own and operate stations that both serve the Los Angeles market and serve as each network's West Coast flagship station: ABC's KABC-TV (Channel 7), CBS's KCBS-TV (Channel 2), Fox's KTTV-TV (Channel 11), NBC's KNBC-TV (Channel 4), MyNetworkTV's KCOP-TV (channel 13), Telemundo's KVEA-TV (Channel 52), and Univision's KMEX-TV (Channel 34). The region also has three PBS stations, as well as KCET, the nation's largest independent public television station. KTBN (Channel 40) is the flagship station of the religious Trinity Broadcasting Network, based out of Santa Ana. A variety of independent television stations, such as KCAL-TV (Channel 9) and KTLA-TV (Channel 5), also operate in the area.
 
 The major daily English-language newspaper in the area is the _Los Angeles Times_. _La Opinión_ is the city's major daily Spanish-language paper. _The Korea Times_ is the city's major daily Korean language paper while _The World Journal_ is the city and county's major Chinese newspaper. The _Los Angeles Sentinel_ is the city's major African-American weekly paper, boasting the largest African-American readership in the Western United States. _Investor's Business Daily_ is distributed from its LA corporate offices, which are headquartered in Playa del Rey.
 
@@ -310,13 +306,13 @@ Transportation
 
 Freeways
 
-Los_Angeles_-_Echangeur_autoroute_110_105.JPG, connecting the Century Freeway (I-105) and the Harbor Freeway (I-110)]] The city and the rest of the Los Angeles metropolitan area are served by an extensive network of freeways and highways. The Texas Transportation Institute, which publishes an annual Urban Mobility Report, ranked Los Angeles road traffic as the most congested in the United States in 2005 as measured by annual delay per traveler.[194] The average traveler in Los Angeles experienced 72 hours of traffic delay per year according to the study. Los Angeles was followed by San Francisco/Oakland, Washington, D.C. and Atlanta, (each with 60 hours of delay).[195] Despite the congestion in the city, the mean travel time for commuters in Los Angeles is shorter than other major cities, including New York City, Philadelphia and Chicago. Los Angeles's mean travel time for work commutes in 2006 was 29.2 minutes, similar to those of San Francisco and Washington, D.C.[196]
+, connecting the Century Freeway (I-105) and the Harbor Freeway (I-110)]] The city and the rest of the Los Angeles metropolitan area are served by an extensive network of freeways and highways. The Texas Transportation Institute, which publishes an annual Urban Mobility Report, ranked Los Angeles road traffic as the most congested in the United States in 2005 as measured by annual delay per traveler.[194] The average traveler in Los Angeles experienced 72 hours of traffic delay per year according to the study. Los Angeles was followed by San Francisco/Oakland, Washington, D.C. and Atlanta, (each with 60 hours of delay).[195] Despite the congestion in the city, the mean travel time for commuters in Los Angeles is shorter than other major cities, including New York City, Philadelphia and Chicago. Los Angeles's mean travel time for work commutes in 2006 was 29.2 minutes, similar to those of San Francisco and Washington, D.C.[196]
 
 Among the major highways that connect LA to the rest of the nation include Interstate 5, which runs south through San Diego to Tijuana in Mexico and north through Sacramento, Portland, and Seattle to the Canada–US border; Interstate 10, the southernmost east–west, coast-to-coast Interstate Highway in the United States, going to Jacksonville, Florida; and U.S. Route 101, which heads to the California Central Coast, San Francisco, the Redwood Empire, and the Oregon and Washington coasts.
 
 Transit systems
 
-Los_Angeles_County_Metro_Rail_and_Metro_Liner_map.svg and Metro Transitway map]]
+and Metro Transitway map]]
 
 The LA County Metropolitan Transportation Authority (LA County Metro) and other agencies operate an extensive system of bus lines, as well as subway and light rail lines across Los Angeles County, with a combined monthly ridership (measured in individual boardings) of 38.8 million . The majority of this (30.5 million) is taken up by the city's bus system,[197] the second busiest in the country. The subway and light rail combined average the remaining roughly 8.2 million boardings per month.[198] LA County Metro recorded over 397 million boardings for the 2017 calendar year, including about 285 million bus riders and about 113 million riding on rail transit.[199] For the first quarter of 2018, there were just under 95 million system-wide boardings, down from about 98 million in 2017, and about 105 million in 2016.[200] In 2005, 10.2% of Los Angeles commuters rode some form of public transportation.[201] According to the 2016 American Community Survey, 9.2% of working Los Angeles (city) residents made the journey to work via public transportation.[202]
 
@@ -328,7 +324,7 @@ In addition, the city directly contracts for local and commuter bus service thro
 
 Airports
 
-LAX_LA.jpg]] The main international and domestic airport serving Los Angeles is Los Angeles International Airport , commonly referred to by its airport code, LAX.
+]] The main international and domestic airport serving Los Angeles is Los Angeles International Airport , commonly referred to by its airport code, LAX.
 
 Other major nearby commercial airports include:
 
@@ -344,7 +340,7 @@ One of the world's busiest general-aviation airports is also in Los Angeles, Van
 
 Seaports
 
-Vincent_Thomas_bridge.San_Pedro.JPG is at Terminal Island.]] The Port of Los Angeles is in San Pedro Bay in the San Pedro neighborhood, approximately south of Downtown. Also called Los Angeles Harbor and WORLDPORT LA, the port complex occupies of land and water along of waterfront. It adjoins the separate Port of Long Beach.
+is at Terminal Island.]] The Port of Los Angeles is in San Pedro Bay in the San Pedro neighborhood, approximately south of Downtown. Also called Los Angeles Harbor and WORLDPORT LA, the port complex occupies of land and water along of waterfront. It adjoins the separate Port of Long Beach.
 
 The sea ports of the Port of Los Angeles and Port of Long Beach together make up the _Los Angeles/Long Beach Harbor_.[205][206] Together, both ports are the fifth busiest container port in the world, with a trade volume of over 14.2 million TEU's in 2008.[207] Singly, the Port of Los Angeles is the busiest container port in the United States and the largest cruise ship center on the West Coast of the United States – The Port of Los Angeles's World Cruise Center served about 590,000 passengers in 2014.[208]
 
@@ -365,7 +361,7 @@ As home to Hollywood and its entertainment industry, numerous singers, actors, c
 
 Twin towns and sister cities
 
-Sister_cities_of_Los_Angeles.jpg points to the sister cities of Los Angeles.]] Los Angeles has 25 sister cities,[214] listed chronologically by year joined:
+points to the sister cities of Los Angeles.]] Los Angeles has 25 sister cities,[214] listed chronologically by year joined:
 
 -   Eilat, Israel (1959)
 

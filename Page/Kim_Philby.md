@@ -159,7 +159,7 @@ In a 1981 lecture to the East German security service, Stasi, Philby attributed 
 
 Personal life
 
-Могила_разведчика_Кима_Филби.JPG, Moscow]] In February 1934, Philby married Litzi Friedmann, an Austrian communist whom he had met in Vienna. They subsequently moved to Britain; however, as Philby assumed the role of a fascist sympathiser, they separated. Litzi lived in Paris before returning to London for the duration of the war; she ultimately settled in East Germany.[101]
+, Moscow]] In February 1934, Philby married Litzi Friedmann, an Austrian communist whom he had met in Vienna. They subsequently moved to Britain; however, as Philby assumed the role of a fascist sympathiser, they separated. Litzi lived in Paris before returning to London for the duration of the war; she ultimately settled in East Germany.[101]
 
 While working as a correspondent in Spain, Philby began an affair with Frances Doble, Lady Lindsay-Hogg, an actress and aristocratic divorcée who was an admirer of Franco and Hitler. They travelled together in Spain through August 1939.[102]
 

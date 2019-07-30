@@ -8,7 +8,7 @@ Naiad was discovered sometime before mid-September 1989 from the images taken by
 
 Physical characteristics
 
-Simulated_view_of_Naiad.jpg view of Naiad orbiting Neptune.|alt=]] Naiad is irregularly shaped and probably has not been modified by any internal geological processes since its formation. It is likely that it is a rubble pile re-accreted from fragments of Neptune's original satellites, which were smashed up by perturbations from Triton soon after that moon's capture into a very eccentric initial orbit.[4]
+view of Naiad orbiting Neptune.|alt=]] Naiad is irregularly shaped and probably has not been modified by any internal geological processes since its formation. It is likely that it is a rubble pile re-accreted from fragments of Neptune's original satellites, which were smashed up by perturbations from Triton soon after that moon's capture into a very eccentric initial orbit.[4]
 
 
 Exploration

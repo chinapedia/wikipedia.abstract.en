@@ -221,7 +221,7 @@ Romania is home to cities of much cultural interest (Bucharest being the foremos
 
 Currency
 
-1_leu._Romania,_2005_a.jpg The LEU (pronounced ), plural: LEI (); (ISO 4217 code RON; numeric code 946), "leo" (lion) in English is the currency of Romania. It is subdivided into 100 _bani_ (singular: _ban_). On 1 July 2005, Romania underwent a currency reform, switching from the previous leu (ROL) to a new leu (RON). 1 RON is equal to 10,000 ROL. Romania joined the European Union on 1 January 2007 and initially hoped to adopt the euro in 2014,[45] but with the deepening of the Euro crisis and with its own problems, such as a low workforce productivity, postponed its adoption plans indefinitely.[46]
+The LEU (pronounced ), plural: LEI (); (ISO 4217 code RON; numeric code 946), "leo" (lion) in English is the currency of Romania. It is subdivided into 100 _bani_ (singular: _ban_). On 1 July 2005, Romania underwent a currency reform, switching from the previous leu (ROL) to a new leu (RON). 1 RON is equal to 10,000 ROL. Romania joined the European Union on 1 January 2007 and initially hoped to adopt the euro in 2014,[45] but with the deepening of the Euro crisis and with its own problems, such as a low workforce productivity, postponed its adoption plans indefinitely.[46]
 
 According to Bloomberg, the Romanian currency is the third-best performer against the euro in 2016 among currencies in CEE area, gaining 1.4 percent.[47]
 
@@ -240,7 +240,7 @@ Romania's mineral production is adequate to supply its manufacturing output. Ene
 
 Energy
 
-IJzeren_Poort_Stuwdam.JPG, a joint venture between Romania and Serbia]] The energy sector is dominated by state-owned companies such as Termoelectrica, Hidroelectrica and Nuclearelectrica. Fossil fuels are the country's primary source of energy, followed by hydroelectric power.
+, a joint venture between Romania and Serbia]] The energy sector is dominated by state-owned companies such as Termoelectrica, Hidroelectrica and Nuclearelectrica. Fossil fuels are the country's primary source of energy, followed by hydroelectric power.
 
 Nuclear energy in Romania
 
@@ -255,7 +255,7 @@ Of the electricity generated in 2007, 13.1 percent came from nuclear plants then
 
 Physical infrastructure
 
-A1_Orastie-Sibiu_05.jpg near Orăștie]]
+near Orăștie]]
 
 The volume of traffic in Romania, especially goods transportation, has increased in recent years due to its strategic location in South-East Europe. In the past few decades, much of the freight traffic shifted from rail to road. A further strong increase of traffic is expected in the future.
 
@@ -286,7 +286,7 @@ Industry
 
 Car industry
 
-2018_Dacia_Duster.jpg]]
+]]
 
 IT and other Industry
 
@@ -338,7 +338,7 @@ The highest GDP per capita is found in Bucharest and surrounding Ilfov County. V
 
 Foreign trade
 
-Romania_Export_Treemap.png In 2017, Romania's largest trading partner was Germany, followed by Italy. Romania's main imports and exports are electrical machinery, motor vehicles & parts and industrial machinery.[69] While Romania imports substantial quantities of grain, it is largely self-sufficient in other agricultural products and food stuffs, due to the fact that food must be regulated for sale in the Romania retail market, and hence imports almost no food products from other countries.[70]
+In 2017, Romania's largest trading partner was Germany, followed by Italy. Romania's main imports and exports are electrical machinery, motor vehicles & parts and industrial machinery.[69] While Romania imports substantial quantities of grain, it is largely self-sufficient in other agricultural products and food stuffs, due to the fact that food must be regulated for sale in the Romania retail market, and hence imports almost no food products from other countries.[70]
 
 Romania imported in 2006 food products of 2.4 billion euros, up almost 20% versus 2005, when the imports were worth slightly more than 2 billion euros. The EU is Romania's main partner in the trade with agri-food products. The exports to this destination represent 64%, and the imports from the EU countries represent 54%. Other important partners are the CEFTA countries, Turkey, Republic of Moldova and the USA.[71] Despite a decline of the arms industry in the post-communist era, Romania is a significant exporter of military equipment, accounting for 3–4% of the world total in 2007. EU members are represented by a single official at the World Trade Organization.
 

@@ -1,4 +1,4 @@
-Flags_of_the_Ivy_League.jpg]] The IVY LEAGUE is an American collegiate athletic conference comprising sports teams from eight private universities in the Northeastern United States. The term _Ivy League_ is typically used to refer to those eight schools as a group of elite colleges beyond the sports context.[1] The eight members are Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, and Yale University. _Ivy League_ has connotations of academic excellence, selectivity in admissions, and social elitism.
+]] The IVY LEAGUE is an American collegiate athletic conference comprising sports teams from eight private universities in the Northeastern United States. The term _Ivy League_ is typically used to refer to those eight schools as a group of elite colleges beyond the sports context.[1] The eight members are Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, and Yale University. _Ivy League_ has connotations of academic excellence, selectivity in admissions, and social elitism.
 
 While the term was in use as early as 1933, it became official only after the formation of the NCAA Division I athletic conference in 1954.[2] Seven of the eight schools were founded during the colonial period (Cornell was founded in 1865), and thus account for seven of the nine Colonial Colleges chartered before the American Revolution. The other two colonial colleges Rutgers University and the College of William & Mary became public institutions instead.
 
@@ -7,8 +7,6 @@ Ivy League schools are generally viewed as some of the most prestigious, and are
 Undergraduate enrollments range from about 4,000 to 14,000,[7] making them larger than those of a typical private liberal arts college and smaller than a typical public state university. Total enrollments, including graduate students, range from approximately 6,400 at Dartmouth to over 20,000 at Columbia, Cornell, Harvard, and Penn. Ivy League financial endowments range from Brown's $3.5 billion to Harvard's $34.5 billion,[8] the largest financial endowment of any academic institution in the world.[9]
 
 The Ivy League has drawn many comparisons to other elite grouping of universities in other nations such as Oxbridge[10][11] and the Golden Triangle in the United Kingdom, C9 League[12] in China, Group of Eight[13] in Australia, and Imperial Universities[14] in Japan. These counterparts are often referred to in the American media as the "Ivy League" of their respective nations. Additionally, groupings of schools use the "Ivy" nomenclature to denote a perceived comparability, such as American liberal arts colleges (Little Ivies), lesser known schools (Hidden Ivies), public universities (Public Ivies), and schools in the Southern United States (Southern Ivies).
-
-Ivy_League_locations.svg
 
 
 Members
@@ -55,7 +53,7 @@ Year founded
 
 Origin of the name
 
-Harvard_Yard,_Harvard_University.JPG, 2007: Hollis Hall, Stoughton Hall, and Holworthy Hall]] Brown_Campus_Manning_Hall.JPG, and Slater Hall]] Yale_University_Old_Campus_04.JPG, 2012: Durfee Hall, Battell Chapel, Farnham Hall, and Lawrence Hall]] Dartmouth_Hall,_Dartmouth_College_-_general_view.JPG
+, 2007: Hollis Hall, Stoughton Hall, and Holworthy Hall]] , and Slater Hall]] , 2012: Durfee Hall, Battell Chapel, Farnham Hall, and Lawrence Hall]]
 
 Students have long revered the ivied walls of older colleges. "Planting the ivy" was a customary class day ceremony at many colleges in the 1800s. In 1893, an alumnus told _The Harvard Crimson_, "In 1850, class day was placed upon the University Calendar. ... the custom of planting the ivy, while the ivy oration was delivered, arose about this time."[37] At Penn, graduating seniors started the custom of planting ivy at a university building each spring in 1873 and that practice was formally designated as "Ivy Day" in 1874.[38] Ivy planting ceremonies are reported for Yale,[39] Simmons,[40] Bryn Mawr[41] and many others. Princeton's "Ivy Club" was founded in 1879.[42]
 
@@ -66,8 +64,6 @@ The first known instance of the term _Ivy League_ being used appeared in _The Ch
 A common folk etymology attributes the name to the Roman numeral for four (IV), asserting that there was such a sports league originally with four members. The _Morris Dictionary of Word and Phrase Origins_ helped to perpetuate this belief. The supposed "IV League" was formed over a century ago and consisted of Harvard, Yale, Princeton, and a fourth school that varies depending on who is telling the story.[46][47][48] However, it is clear that Harvard, Princeton, Yale and Columbia met on November 23, 1876 at the so-called Massasoit Convention to decide on uniform rules for the emerging game of American football, which rapidly spread.[49]
 
 Pre–Ivy League
-
-Chancellor_Green_exterior_Princeton.JPG Brown_university_robinson_hall_2009a.JPG Cornell_Baseball2.jpg
 
 Seven out of the eight Ivy League schools were founded before the American Revolution; Cornell was founded just after the American Civil War. These seven were the primary colleges in the Northern and Middle Colonies, and their early faculties and founding boards were largely drawn from other Ivy League institutions. There were also some British graduates from the University of Cambridge, the University of Oxford, the University of St. Andrews, the University of Edinburgh, and elsewhere on their boards. Similarly, the founder of The College of William & Mary, in 1693, was a British graduate of the University of Edinburgh. Cornell provided Stanford University with its first president.
 
@@ -81,7 +77,7 @@ After the Second World War, the present Ivy League institutions slowly widened t
 
 History of the athletic league
 
-Yale's_four-oared_crew_team_with_1876_Centennial_Regatta_trophy.jpg trophy.]] The_1879_Brown_University_Baseball_Team.jpg seated second from right; White's appearance in an 1879 major league game, the first for an African American, came 68 years before Jackie Robinson permanently broke the baseball color line[55]]] Yale_Varsity.jpg team in the annual Harvard–Yale Regatta, 2007]] Track_(men's),_1907_ICAA_point_winners_UPenn.jpg
+trophy.]] seated second from right; White's appearance in an 1879 major league game, the first for an African American, came 68 years before Jackie Robinson permanently broke the baseball color line[55]]] team in the annual Harvard–Yale Regatta, 2007]]
 
 19th and early 20th centuries
 
@@ -105,7 +101,7 @@ The Ivies have been competing in sports as long as intercollegiate sports have e
 
 Post–World War II
 
-Dartmouth_College_campus_2007-11-06_Tuck_School_of_Business.JPG, 2007]] Scroll_and_Key_1866_delegation_Yale_College.jpg
+, 2007]]
 
 In 1945 the presidents of the eight schools signed the first _Ivy Group Agreement_, which set academic, financial, and athletic standards for the football teams. The principles established reiterated those put forward in the Harvard-Yale-Princeton Presidents' Agreement of 1916. The Ivy Group Agreement established the core tenet that an applicant's ability to play on a team would not influence admissions decisions:
 
@@ -177,7 +173,7 @@ Culture
 
 Fashion and lifestyle
 
-Architecture_on_University_of_Pennsylvania_Campus_-_Young_Ben_Franklin_Statue_-_Philadelphia_-_Pennsylvania_-_04.jpg on the campus of the University of Pennsylvania, 2011]]
+on the campus of the University of Pennsylvania, 2011]]
 
 Different fashion trends and styles have emerged from Ivy League campuses over time, and fashion trends such as Ivy League and Preppy are styles often associated with the Ivy League and its culture.
 
@@ -191,7 +187,7 @@ Today, these styles continue to be popular on Ivy League campuses, throughout th
 
 Social elitism
 
-ADWhiteReadingRoom,_CornellUniversity.jpg, 2008]] Columbiaman.jpg The Ivy League is often associated with the upper class White Anglo-Saxon Protestant community of the Northeast, Old Money, or more generally, the American upper middle and upper classes.[89][90][91][92] Although most Ivy League students come from upper middle- and upper-class families, the student body has become increasingly more economically and ethnically diverse. The universities provide significant financial aid to help increase the enrollment of lower income and middle class students.[93] Several reports suggest, however, that the proportion of students from less-affluent families remains low.[94][95]
+, 2008]] The Ivy League is often associated with the upper class White Anglo-Saxon Protestant community of the Northeast, Old Money, or more generally, the American upper middle and upper classes.[89][90][91][92] Although most Ivy League students come from upper middle- and upper-class families, the student body has become increasingly more economically and ethnically diverse. The universities provide significant financial aid to help increase the enrollment of lower income and middle class students.[93] Several reports suggest, however, that the proportion of students from less-affluent families remains low.[94][95]
 
 Phrases such as "Ivy League snobbery"[96] are ubiquitous in nonfiction and fiction writing of the early and mid-twentieth century. A Louis Auchincloss character dreads "the aridity of snobbery which he knew infected the Ivy League colleges".[97] A business writer, warning in 2001 against discriminatory hiring, presented a cautionary example of an attitude to avoid (the bracketed phrase is his):
 
@@ -201,7 +197,7 @@ Aspects of Ivy stereotyping were illustrated during the 1988 presidential electi
 
 U.S. presidents in the Ivy League
 
-Franklin_D._Roosevelt_with_Harvard_class_of_1904,_group_shot_in_Nantasket_Beach,_Massachusetts_-_NARA_-_195358.jpg, third from left, top row, with his Harvard class in 1904]]
+, third from left, top row, with his Harvard class in 1904]]
 
 Of the 44 men who have served as President of the United States, 16 have graduated from an Ivy League university. Of them, eight have degrees from Harvard, five from Yale, three from Columbia, two from Princeton and one from Penn. Twelve presidents have earned Ivy undergraduate degrees. Three of these were transfer students: Donald Trump transferred from Fordham University, Barack Obama transferred from Occidental College and John F. Kennedy transferred from another Ivy, Princeton, where he had been class of 1939. John Adams was the first president to graduate from college, graduating from Harvard in 1755.
 
@@ -280,7 +276,7 @@ Students of the Ivy League largely hail from the Northeast, largely from the New
 
 Socioeconomics and social class
 
-Learned_Hand_at_Harvarda.jpg students circa 1895]] Students of the Ivy League, both graduate and undergraduate, come primarily from upper middle and upper class families. In recent years, however, the universities have looked towards increasing socioeconomic and class diversity, by providing greater financial aid packages to applicants from lower, working, and middle class American families.[110][111]
+students circa 1895]] Students of the Ivy League, both graduate and undergraduate, come primarily from upper middle and upper class families. In recent years, however, the universities have looked towards increasing socioeconomic and class diversity, by providing greater financial aid packages to applicants from lower, working, and middle class American families.[110][111]
 
 In 2013, 46% of Harvard undergraduate students came from families in the top 3.8% of all American households (i.e., over $200,000 annual income).[112] In 2012, the bottom 25% of the American income distribution accounted for only 3–4% of students at Brown, a figure that had remained unchanged since 1992.[113] In 2014, 69% of incoming freshmen students at Yale College came from families with annual incomes of over $120,000, putting most Yale College students in the upper middle and/or upper class. (The median household income in the U.S. in 2013 was $52,700.)[114]
 
@@ -289,7 +285,7 @@ In the 2011–2012 academic year, students qualifying for Pell Grants (federally
 
 Competition and athletics
 
-Cornell_vs_Brown_University_football_game_2017.jpg Yale-Harvard-Game.jpg in 2001 during the annual football game played between Harvard and Yale]]
+in 2001 during the annual football game played between Harvard and Yale]]
 
 Ivy champions are recognized in sixteen men's and sixteen women's sports. In some sports, Ivy teams actually compete as members of another league, the Ivy championship being decided by isolating the members' records in play against each other; for example, the six league members who participate in ice hockey do so as members of ECAC Hockey, but an Ivy champion is extrapolated each year. In one sport, rowing, the Ivies recognize team champions for each sex in both heavyweight and lightweight divisions. While the Intercollegiate Rowing Association governs all four sex- and bodyweight-based divisions of rowing, the only one that is sanctioned by the NCAA is women's heavyweight. The Ivy League was the last Division I basketball conference to institute a conference postseason tournament; the first tournaments for men and women were held at the end of the 2016–17 season. The tournaments only award the Ivy League automatic bids for the NCAA Division I Men's and Women's Basketball Tournaments; the official conference championships continue to be awarded based solely on regular-season results.[116] Before the 2016–17 season, the automatic bids were based solely on regular-season record, with a one-game playoff (or series of one-game playoffs if more than two teams were tied) held to determine the automatic bid.[117] The Ivy League is one of only two Division I conferences which award their official basketball championships solely on regular-season results; the other is the Southeastern Conference.[118][119] Since its inception, an Ivy League school has yet to win either the men's or women's Division I NCAA Basketball Tournament.
 
@@ -360,7 +356,7 @@ In the 12 academic years beginning 2005–06 Princeton has won championships in 
 
 Rivalries
 
-Cornell_University_vs_Princeton_Lacrosse_1987.jpg]] Palestra.jpg is shown around 2006]] Harvard_Stadium_-_1903_Greek_Play.jpg in 1903]] Rivalries run deep in the Ivy League. For instance, Princeton and Penn are longstanding men's basketball rivals;[126] "Puck Frinceton" T-shirts are worn by Quaker fans at games.[127] In only 11 instances in the history of Ivy League basketball, and in only seven seasons since Yale's 1962 title, has neither Penn nor Princeton won at least a share of the Ivy League title in basketball,[128] with Princeton champion or co-champion 26 times and Penn 25 times. Penn has won 21 outright, Princeton 19 outright. Princeton has been a co-champion 7 times, sharing 4 of those titles with Penn (these 4 seasons represent the only times Penn has been co-champion). Harvard won its first title of either variety in 2011, losing a dramatic play-off game to Princeton for the NCAA tournament bid, then rebounded to win outright championships in 2012, 2013, and 2014. Harvard also won the 2013 Great Alaska Shootout, defeating TCU to become the only Ivy League school to win the now-defunct tournament.
+]] is shown around 2006]] in 1903]] Rivalries run deep in the Ivy League. For instance, Princeton and Penn are longstanding men's basketball rivals;[126] "Puck Frinceton" T-shirts are worn by Quaker fans at games.[127] In only 11 instances in the history of Ivy League basketball, and in only seven seasons since Yale's 1962 title, has neither Penn nor Princeton won at least a share of the Ivy League title in basketball,[128] with Princeton champion or co-champion 26 times and Penn 25 times. Penn has won 21 outright, Princeton 19 outright. Princeton has been a co-champion 7 times, sharing 4 of those titles with Penn (these 4 seasons represent the only times Penn has been co-champion). Harvard won its first title of either variety in 2011, losing a dramatic play-off game to Princeton for the NCAA tournament bid, then rebounded to win outright championships in 2012, 2013, and 2014. Harvard also won the 2013 Great Alaska Shootout, defeating TCU to become the only Ivy League school to win the now-defunct tournament.
 
 Rivalries exist between other Ivy league teams in other sports, including Cornell and Harvard in hockey, Harvard and Princeton in swimming, and Harvard and Penn in football (Penn and Harvard have won 28 Ivy League Football Championships since 1982, Penn-16; Harvard-12). During that time Penn has had 8 undefeated Ivy League Football Championships and Harvard has had 6 undefeated Ivy League Football Championships.[129] In men's lacrosse, Cornell and Princeton are perennial rivals, and they are two of three Ivy League teams to have won the NCAA tournament.[130] In 2009, the Big Red and Tigers met for their 70th game in the NCAA tournament.[131] No team other than Harvard or Princeton has won the men's swimming conference title outright since 1972, although Yale, Columbia, and Cornell have shared the title with Harvard and Princeton during this time. Similarly, no program other than Princeton and Harvard has won the women's swimming championship since Brown's 1999 title. Princeton or Cornell has won every indoor and outdoor track and field championship, both men's and women's, every year since 2002–03, with one exception (Columbia women won indoor championship in 2012). Harvard and Yale are football and crew rivals although the competition has become unbalanced; Harvard has won all but one of the last 15 football games and all but one of the last 13 crew races.
 

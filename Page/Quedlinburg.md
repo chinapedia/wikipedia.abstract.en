@@ -5,8 +5,6 @@ Quedlinburg has a population of more than 24,000. The town was the capital of th
 
 History
 
-Quedlinburg_asv2018-10_img41_Castle.jpg
-
 The town of Quedlinburg is known to have existed since at least the early 9th century, when there was a settlement known as _Gross Orden_ on the eastern bank of the River Bode. It was first mentioned as a town in 922 as part of a donation by King Henry the Fowler (_Heinrich der Vogler_). The records of this donation were held by the abbey of Corvey.
 
 According to legend, Henry had been offered the German crown at Quedlinburg in 919 by Franconian nobles, giving rise to the town being called the "cradle of the German Reich".[1]
@@ -29,7 +27,7 @@ During the last months of World War II, the United States military had occupied 
 
 Quedlinburg was administered within Bezirk Halle while part of the Communist East Germany from 1949 to 1990. It became part of the state of Saxony-Anhalt upon German reunification in 1990.
 
-During Quedlinburg's Communist era, restoration specialists from Poland were called in during the 1980s to carry out repairs on the old architecture. Today, Quedlinburg is a center of restoration of _Fachwerk_ houses. Quedlinburg_asv2018-10_img27_Roland.jpg]]
+During Quedlinburg's Communist era, restoration specialists from Poland were called in during the 1980s to carry out repairs on the old architecture. Today, Quedlinburg is a center of restoration of _Fachwerk_ houses. ]]
 
 
 Geography
@@ -69,7 +67,7 @@ Quedlinburg is twinned with:
 
 Attractions
 
-Quedlinburg_Hohe_Straße_8.jpg house]] Quedlinburg_asv2018-10_img11_Markt.jpg
+house]]
 
 In the centre of the town are a wide selection of half-timbered buildings from at least five different centuries (including a 14th-century structure, one of Germany's oldest), while around the outer fringes of the old town are examples of _Jugendstil_ buildings, dating from the late 19th and early 20th centuries.
 
@@ -92,7 +90,7 @@ The nearest airports to Quedlinburg are Hannover, northwest, and Leipzig/Halle A
 
 Railway
 
-Verkehrsknoten_Quedlinburg.jpg connects with a Transdev Harz-Berlin-Express train on the line from Magdeburg at Quedlinburg station.]]
+connects with a Transdev Harz-Berlin-Express train on the line from Magdeburg at Quedlinburg station.]]
 
 Regional trains operated by Deutsche Bahn and the private Transdev company run on the standard-gauge Magdeburg–Thale line connecting Quedlinburg station with Magdeburg, Thale, and Halberstadt.
 
@@ -108,16 +106,12 @@ Notable people
 -   Andreas Werckmeister (1645-1706), German theorist, organist, organ examiner and composer
 -   Dorothea Erxleben (1715-1762), was the first female medical doctor in Germany.[5]
 
-Carl_Ritter_Litho.jpg
-
 -   Friedrich Gottlieb Klopstock (1724-1803), German poet and contemporary of Johann Wolfgang von Goethe.
 -   Johann Gerhard (1582-1637), theologian, mean Denter representatives of Lutheran orthodoxy
 -   Wilhelm Homberg (1652-1715), naturalist, born apparently during a trip in Batavia / Jakarta, but parents living in Quedlinburg
 -   Johann Christoph Friedrich GutsMuths (1759-1839), father of German gymnastics
 -   Carl Ritter (1779-1859), founder of scientific Geography
 -   Julius Wolff (1834-1910), Freeman, poet and writer
-
-Julius_Wolff_Schriftsteller_-_von_Wilhelm_Rohr.jpg
 
 -   Gustav Albert Schwalbe (1844-1916), anatomist and anthropologist
 -   Carl Schroeder (1848-1935), cellist, composer, conductor and Hofkapellmeister

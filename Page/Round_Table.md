@@ -16,11 +16,11 @@ Legend
 
 The Round Table first appeared in Wace's _Roman de Brut_, a Norman language adaptation of Geoffrey's _Historia_ finished in 1155. Wace says Arthur created the Round Table to prevent quarrels among his barons, none of whom would accept a lower place than the others.[13] Layamon added to the story when he adapted Wace's work into the Middle English _Brut_ in the early 13th century, saying that the quarrel between Arthur's vassals led to violence at a Yuletide feast. In response, a Cornish carpenter built an enormous but easily transportable Round Table to prevent further dispute.[14] Wace claims he was not the source of the Round Table; both he and Layamon credited it instead to the Bretons. Some scholars have doubted this claim, while others believe it may be true.[15] There is some similarity between the chroniclers' description of the Round Table and a custom recorded in Celtic stories, in which warriors sit in a circle around the king or lead warrior, in some cases feuding over the order of precedence as in Layamon.[16] There is a possibility that Wace, contrary to his own claims, derived Arthur's round table not from any Breton source, but rather from medieval biographies of Charlemagne—notably Einhard's _Vita Caroli_ and Notker the Stammerer's _De Carolo Magno_—in which the king is said to have possessed a round table decorated with a map of Rome.[17]
 
-Apparition_saint_graal.jpg. From a manuscript of _Lancelot and the Holy Grail_ (c. 1406)]]
+. From a manuscript of _Lancelot and the Holy Grail_ (c. 1406)]]
 
 The Round Table takes on new dimensions in the romances of the late 12th and early 13th century, where it becomes a symbol of the famed order of chivalry which flourishes under Arthur. In Robert de Boron's _Merlin_, written around 1200, the magician Merlin creates the Round Table in imitation of the table of the Last Supper and of Joseph of Arimathea's Holy Grail table. This table, here made for Arthur's father Uther Pendragon rather than Arthur himself, has twelve seats and one empty place to mark the betrayal of Judas. This seat must remain empty until the coming of the knight who will achieve the Grail. The Didot _Perceval_, a prose continuation of Robert's work, takes up the story, and the knight Percival sits in the seat and initiates the Grail quest.[18]
 
-Sir_Galahad_is_Brought_to_the_Court_of_King_Arthur.png's illustration for _King Arthur's Knights_, abridged from _Le Morte d'Arthur_ by Henry Gilbert (1911)]]
+'s illustration for _King Arthur's Knights_, abridged from _Le Morte d'Arthur_ by Henry Gilbert (1911)]]
 
 The prose cycles of the 13th century, the Lancelot-Grail (Vulgate) Cycle and the Post-Vulgate Cycle, further adapt the chivalric attributes of the Round Table. Here it is the perfect knight Galahad, rather than Percival, who assumes the empty seat, now called the Siege Perilous. Galahad's arrival marks the start of the Grail quest as well as the end of the Arthurian era.[19] In these works the Round Table is kept by King Leodegrance of Cameliard after Uther's death; Arthur inherits it when he marries Leodegrance's daughter Guinevere. Other versions treat the Round Table differently, for instance Arthurian works from Italy like _La Tavola Ritonda_ (_The Round Table_) often distinguish between the knights of the "Old Table" of Uther's time and those of Arthur's "New Table".[20] In the Post-Vulgate, the Table is eventually destroyed by King Mark during his invasion of Logres after the deaths of Arthur and almost all of the Knights, many of whom in fact had killed each other, especially in internal conflicts at the end of the cycle.
 
@@ -31,8 +31,6 @@ During the Middle Ages, festivals called Round Tables were celebrated throughout
 
 
 Winchester Round Table
-
-Winchester_Round_Table.jpg
 
 The artefact known as the "Winchester Round Table", a large tabletop hanging in Winchester Castle bearing the names of various knights of Arthur's court, was probably created for a Round Table tournament.[22] The current paintwork is late; it was done by order of Henry VIII of England for Holy Roman Emperor Charles V's 1522 state visit, and depicts Henry himself sitting in Arthur's seat above a Tudor rose.
 

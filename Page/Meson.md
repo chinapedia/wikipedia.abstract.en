@@ -99,8 +99,6 @@ then the meson is "G odd" (G = −1).
 
 Isospin and charge
 
-Combinations of one u, d or s quarks and one u, d, or s antiquark in 0^(−)}} configuration form a nonet. Meson_nonet_-_spin_1.svg
-
 The concept of isospin was first proposed by Werner Heisenberg in 1932 to explain the similarities between protons and neutrons under the strong interaction.[15] Although they had different electric charges, their masses were so similar that physicists believed that they were actually the same particle. The different electric charges were explained as being the result of some unknown excitation similar to spin. This unknown excitation was later dubbed _isospin_ by Eugene Wigner in 1937.[16] When the first mesons were discovered, they too were seen through the eyes of isospin and so the three pions were believed to be the same particle, but in different isospin states.
 
 This belief lasted until Murray Gell-Mann proposed the quark model in 1964 (containing originally only the u, d, and s quarks).[17] The success of the isospin model is now understood to be the result of the similar masses of the u and d quarks. Because the u and d quarks have similar masses, particles made of the same number of them also have similar masses. The exact specific u and d quark composition determines the charge, because u quarks carry charge + whereas d quarks carry charge −. For example, the three pions all have different charges ( (), (a quantum superposition of and states), ()), but have similar masses (c. ) as they are each made of a same number of total of up and down quarks and antiquarks. Under the isospin model, they were considered to be a single particle in different charged states.

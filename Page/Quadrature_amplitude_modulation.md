@@ -7,8 +7,6 @@ QAM is used extensively as a modulation scheme for digital telecommunication sys
 
 Demodulation of QAM
 
-PAL_colour_bar_signal_measured_vector_edit.svg
-
 In a QAM signal, one carrier lags the other by 90°, and its amplitude modulation is customarily referred to as the in-phase component, denoted by The other modulating function is the quadrature component, So the composite waveform is mathematically modeled as:
 
 $$s_s(t) \triangleq \sin(2\pi f_c t)\cdot I(t)\ +\ \underbrace{\sin\left(2\pi f_c t + \tfrac{\pi}{2} \right)}_{\cos(2\pi f_c t)} \cdot Q(t),$$
@@ -46,15 +44,11 @@ where ℱ denotes the Fourier transform, and and are the transforms of and This 
 
 Digital QAM
 
-QAM16_Demonstration.gif
-
 As in many digital modulation schemes, the constellation diagram is useful for QAM. In QAM, the constellation points are usually arranged in a square grid with equal vertical and horizontal spacing, although other configurations are possible (e.g. Cross-QAM). Since in digital telecommunications the data is usually binary, the number of points in the grid is usually a power of 2 (2, 4, 8, …). Since QAM is usually square, some of these are rare—the most common forms are 16-QAM, 64-QAM and 256-QAM. By moving to a higher-order constellation, it is possible to transmit more bits per symbol. However, if the mean energy of the constellation is to remain the same (by way of making a fair comparison), the points must be closer together and are thus more susceptible to noise and other corruption; this results in a higher bit error rate and so higher-order QAM can deliver more data less reliably than lower-order QAM, for constant mean constellation energy. Using higher-order QAM without increasing the bit error rate requires a higher signal-to-noise ratio (SNR) by increasing signal energy, reducing noise, or both.
 
 If data-rates beyond those offered by 8-PSK are required, it is more usual to move to QAM since it achieves a greater distance between adjacent points in the I-Q plane by distributing the points more evenly. The complicating factor is that the points are no longer all the same amplitude and so the demodulator must now correctly detect both phase and amplitude, rather than just phase.
 
 64-QAM and 256-QAM are often used in digital cable television and cable modem applications. In the United States, 64-QAM and 256-QAM are the mandated modulation schemes for digital cable (see QAM tuner) as standardised by the SCTE in the standard ANSI/SCTE 07 2013. Note that many marketing people will refer to these as QAM-64 and QAM-256. In the UK, 64-QAM is used for digital terrestrial television (Freeview) whilst 256-QAM is used for Freeview-HD.
-
-ADSL_spectrum_Fritz_Box_Fon_WLAN.png
 
 Communication systems designed to achieve very high levels of spectral efficiency usually employ very dense QAM constellations. For example, current Homeplug AV2 500-Mbit powerline Ethernet devices use 1024-QAM and 4096-QAM,[4] as well as future devices using ITU-T G.hn standard for networking over existing home wiring (coaxial cable, phone lines and power lines); 4096-QAM provides 12 bits/symbol. Another example is ADSL technology for copper twisted pairs, whose constellation size goes up to 32768-QAM (in ADSL terminology this is referred to as bit-loading, or bit per tone, 32768-QAM being equivalent to 15 bits per tone).[5]
 

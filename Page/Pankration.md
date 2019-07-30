@@ -1,11 +1,11 @@
-07Delphi_Aghias.jpg. This statue occupies Position III of the Ex voto of Daochos. Height: 2 metres (6 feet 7 inches) ]] PANKRATION (; ) was a sporting event introduced into the Greek Olympic Games in 648 BC and was an empty-hand submission sport with scarcely any rules. The athletes used boxing and wrestling techniques, but also others, such as kicking and holds, locks and chokes on the ground. The only things not acceptable were biting and gouging out the opponent's eyes.[1]
+. This statue occupies Position III of the Ex voto of Daochos. Height: 2 metres (6 feet 7 inches) ]] PANKRATION (; ) was a sporting event introduced into the Greek Olympic Games in 648 BC and was an empty-hand submission sport with scarcely any rules. The athletes used boxing and wrestling techniques, but also others, such as kicking and holds, locks and chokes on the ground. The only things not acceptable were biting and gouging out the opponent's eyes.[1]
 
 The term comes from the Greek , literally meaning "all of power" from (_pan_) "all" and (_kratos_) "strength, might, power".[2]
 
 
 History
 
-Pankration_Met_06.1021.49.jpg black-figure skyphos, c. 500 BC.]] In Greek mythology, it was said that the heroes Heracles and Theseus invented pankration as a result of using both wrestling and boxing in their confrontations with opponents. Theseus was said to have utilized his extraordinary pankration skills to defeat the dreaded Minotaur in the Labyrinth. Heracles was said to have subdued the Nemean lion using pankration, and was often depicted in ancient artwork doing that.[3] In this context, pankration was also referred to as _pammachon_ or _pammachion_ (πάμμαχον or παμμάχιον), meaning "total combat", from πᾶν-, _pān-_, "all-" or "total", and μάχη, _machē_, "matter". The term pammachon was older,[4] and would later become used less than the term pankration.
+black-figure skyphos, c. 500 BC.]] In Greek mythology, it was said that the heroes Heracles and Theseus invented pankration as a result of using both wrestling and boxing in their confrontations with opponents. Theseus was said to have utilized his extraordinary pankration skills to defeat the dreaded Minotaur in the Labyrinth. Heracles was said to have subdued the Nemean lion using pankration, and was often depicted in ancient artwork doing that.[3] In this context, pankration was also referred to as _pammachon_ or _pammachion_ (πάμμαχον or παμμάχιον), meaning "total combat", from πᾶν-, _pān-_, "all-" or "total", and μάχη, _machē_, "matter". The term pammachon was older,[4] and would later become used less than the term pankration.
 
 The mainstream academic view has been that pankration developed in the archaic Greek society of the 7th century BC, whereby, as the need for expression in violent sport increased, pankration filled a niche of "total contest" that neither boxing nor wrestling could.[5] However, some evidence suggests that pankration, in both its sporting form and its combative form, may have been practiced in Greece already from the second millennium BC.[6]
 
@@ -39,7 +39,7 @@ There is evidence that the major Games in Greek antiquity easily had four tourna
 
 Techniques
 
-Pankratiast_in_fighting_stance.jpg Pankration_Met_16.71.jpg prize amphora, c. 500 BC.]] Foul_pankration_at_Kylix_by_the_Foundry_Painter_BM_VaseE78.jpg Attic red-figure kylix, 490–480 BC, from Vulci. British Museum, London.]] The athletes engaged in a pankration competition—i.e., the pankratiasts (παγκρατιαστές)—employed a variety of techniques in order to strike their opponent as well as take him to the ground in order to use a submission technique. When the pankratiasts fought standing, the combat was called _ANŌ PANKRATION_ (_ἌΝΩ ΠΑΓΚΡΆΤΙΟΝ_, "UPPER PANKRATION");[18] and when they took the fight to the ground, that stage of pankration competition was called _katō pankration_ (κάτω παγκράτιον "lower pankration"). Some of the techniques that would be applied in anō pankration and katō pankration, respectively, are known to us through depictions on ancient pottery and sculptures, as well as in descriptions in ancient literature. There were also strategies documented in ancient literature that were meant to be used to obtain an advantage over the competitor. For illustration purposes, below are examples of striking and grappling techniques (including examples of counters), as well as strategies and tactics, that have been identified from the ancient sources (visual arts or literature).
+prize amphora, c. 500 BC.]] Attic red-figure kylix, 490–480 BC, from Vulci. British Museum, London.]] The athletes engaged in a pankration competition—i.e., the pankratiasts (παγκρατιαστές)—employed a variety of techniques in order to strike their opponent as well as take him to the ground in order to use a submission technique. When the pankratiasts fought standing, the combat was called _ANŌ PANKRATION_ (_ἌΝΩ ΠΑΓΚΡΆΤΙΟΝ_, "UPPER PANKRATION");[18] and when they took the fight to the ground, that stage of pankration competition was called _katō pankration_ (κάτω παγκράτιον "lower pankration"). Some of the techniques that would be applied in anō pankration and katō pankration, respectively, are known to us through depictions on ancient pottery and sculptures, as well as in descriptions in ancient literature. There were also strategies documented in ancient literature that were meant to be used to obtain an advantage over the competitor. For illustration purposes, below are examples of striking and grappling techniques (including examples of counters), as well as strategies and tactics, that have been identified from the ancient sources (visual arts or literature).
 
 Fighting stance
 
@@ -65,7 +65,7 @@ _Counter_: The athlete sidesteps the oncoming kick to the inside of the opponent
 
 Locking techniques
 
-Arte_romana,_Lottatori,_1-100_circa_da_un_originale_del_III_secolo_a.C._02.JPG. A Roman statue portraying the pancratium, which was an event showcased at the Colosseum. Even as late as the Early Middle Ages, statues were put up in Rome and other cities to honour remarkable pankratiasts. This statue is a Roman copy of a lost Greek original, circa 3rd Century B.C.]]
+. A Roman statue portraying the pancratium, which was an event showcased at the Colosseum. Even as late as the Early Middle Ages, statues were put up in Rome and other cities to honour remarkable pankratiasts. This statue is a Roman copy of a lost Greek original, circa 3rd Century B.C.]]
 
 Arm locks
 
@@ -78,8 +78,6 @@ The athlete is behind the opponent and has him leaning down, with the right knee
 Single arm bar (elbow lock)
 
 In this technique, the position of the bodies is very similar to the one described just above. The athlete executing the technique is standing over his opponent's back, while the latter is down on his right knee. The left leg of the athlete is straddling the left thigh of the opponent—the left knee of the opponent is not on the floor—and is trapping the left foot of the opponent by stepping on it. The athlete uses his left hand to push down on the side/back of the head of the opponent while with his right hand he pulls the opponent's right arm back, against his midsection. This creates an arm bar on the right arm with the pressure now being mostly on the elbow. The fallen opponent cannot relieve it, because his head is being shoved the opposite way by the left hand of the athlete executing the technique.
-
-Pankratiasten_in_fight_greek_statue_2_century_bC.jpg
 
 Arm bar – shoulder lock combination
 
@@ -129,7 +127,7 @@ While this positioning was of paramount importance in boxing, which involved onl
 
 Remaining standing versus going to the ground
 
-Xfrese.jpg The decision to remain standing or go to the ground obviously depended on the relative strengths of the athlete, and differed between _anō_ and _katō_ pankration. However, there are indications that staying on one's feet was generally considered a positive thing, while touching the knee(s) to the ground or being put to the ground was overall considered disadvantageous. In fact, in antiquity as today, falling to one's knee(s) was a metaphor for coming to a disadvantage and putting oneself at risk of losing the fight, as argued persuasively by Michael B. Poliakoff.[25]
+The decision to remain standing or go to the ground obviously depended on the relative strengths of the athlete, and differed between _anō_ and _katō_ pankration. However, there are indications that staying on one's feet was generally considered a positive thing, while touching the knee(s) to the ground or being put to the ground was overall considered disadvantageous. In fact, in antiquity as today, falling to one's knee(s) was a metaphor for coming to a disadvantage and putting oneself at risk of losing the fight, as argued persuasively by Michael B. Poliakoff.[25]
 
 Offensive versus reactive fighting
 
@@ -148,8 +146,6 @@ The preparation of pankratiasts included a very wide variety of methods,[31] mos
 
 
 Some of the Ancient Olympic pankration champions
-
-Pankratist_Bronze_Head.png
 
 -   Theagenes of Thasos
 -   Arrichion

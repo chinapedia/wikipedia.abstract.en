@@ -22,7 +22,7 @@ Road classification is based primarily on administrative responsibilities (with 
 
 Highways
 
-EDSA_-_Reliance_(Mandaluyong)(2017-05-21).jpg]] Highways in the Philippines include national roads that can be classified into three types: the national primary, national secondary and national tertiary roads.
+]] Highways in the Philippines include national roads that can be classified into three types: the national primary, national secondary and national tertiary roads.
 
 The Pan-Philippine Highway is a 3,517 km (2,185 mi) network of roads, bridges, and ferry services that connect the islands of Luzon, Samar, Leyte, and Mindanao, serving as the Philippines' principal transport backbone. The northern terminus of the highway is in Laoag, and the southern terminus is at Zamboanga City.
 
@@ -34,7 +34,7 @@ The Strong Republic Nautical Highway links many of the islands' road networks th
 
 Expressways
 
-SCTEX_-_Floridablanca_westbound_(Floridablanca,_Pampanga)(2017-12-17).jpg]] The Philippines has numerous expressways and most of them are located in the main island of the country, Luzon. The first expressway systems in the country are the North Luzon Expressway formerly known as North Diversion Road and the South Luzon Expressway, formerly known as South Super Highway. Both were built in the 1970s, during the presidency of Ferdinand Marcos.
+]] The Philippines has numerous expressways and most of them are located in the main island of the country, Luzon. The first expressway systems in the country are the North Luzon Expressway formerly known as North Diversion Road and the South Luzon Expressway, formerly known as South Super Highway. Both were built in the 1970s, during the presidency of Ferdinand Marcos.
 
 The North Luzon Expressway (NLEX) is a 4 to 8-lane limited-access toll expressway that connects Metro Manila to the provinces of the Central Luzon region. The expressway begins in Quezon City at a cloverleaf interchange with EDSA. It then passes through various cities and municipalities in the provinces of Bulacan and Pampanga. The expressway ends at Mabalacat and merges with the MacArthur Highway, which continues northward into the rest of Central and Northern Luzon.
 
@@ -46,7 +46,7 @@ The Philippine government and other private sectors are building more plans and 
 
 Railways
 
-MRT-2_J._Ruiz_Station.jpg of the Manila Light Rail Transit System]] Rail transportation in the Philippines includes services provided by three rapid transit lines and one commuter rail line: the Manila Light Rail Transit System (Lines 1 and 2), Manila Metro Rail Transit System (Line 3) and the PNR Metro South Commuter Line. The government has plans to expand the country's railway footprint from 77 kilometers as of 2017 to more than 320 kilometers by 2022.[11]
+of the Manila Light Rail Transit System]] Rail transportation in the Philippines includes services provided by three rapid transit lines and one commuter rail line: the Manila Light Rail Transit System (Lines 1 and 2), Manila Metro Rail Transit System (Line 3) and the PNR Metro South Commuter Line. The government has plans to expand the country's railway footprint from 77 kilometers as of 2017 to more than 320 kilometers by 2022.[11]
 
 The Manila Light Rail Transit System or the LRTA system, is a rapid transit system serving the Metro Manila area, it is the first metro system in Southeast Asia.[12] The system served a total 928,000 passengers each day in 2012.[13][14] Its 31 stations along over 31 kilometers (19 mi) of mostly elevated track form two lines: the original Line 1, and the more modern Line 2 which passes through the cities of Caloocan, Manila, Marikina, Pasay, San Juan and Quezon City. Apart from the LRTA system, the Manila Metro Rail Transit System system also serves Metro Manila. The system is located along the Epifanio de los Santos Avenue (EDSA), one of Metro Manila's main thoroughfares. It has 13 stations along its 16.95 km track form a single line which is the Line 3 which passes through the cities of Makati, Mandaluyong, Pasay and Quezon City. Some of the stations of the system have been retrofitted with escalators and elevators for easier access, and ridership has increased. By 2004, Line 3 had the highest ridership of the three lines, with 400,000 passengers daily.[15]
 
@@ -55,7 +55,7 @@ Philippine National Railways (PNR) operates a commuter line that serves a region
 
 Water transportation
 
-Pump_Boat.jpg at sunset off of Guimaras.]]
+at sunset off of Guimaras.]]
 
 Waterways
 
@@ -67,7 +67,7 @@ The Pasig River Ferry Service is a river ferry service that serves Metro Manila,
 
 Ferry services
 
-MV_Trisha_Kerstin_2.jpg]] Because it is an island nation, ferry services are an important means of transportation. A range of ships are used, from large cargo ships to small pump boats. Some trips last for a day or two on large overnight ferris such as those operated by 2GO Travel while other trips can last for less than 15 minutes on small, open-air pump boats such as those that cross the Iloilo Strait.
+]] Because it is an island nation, ferry services are an important means of transportation. A range of ships are used, from large cargo ships to small pump boats. Some trips last for a day or two on large overnight ferris such as those operated by 2GO Travel while other trips can last for less than 15 minutes on small, open-air pump boats such as those that cross the Iloilo Strait.
 
 There are numerous shipping companies in the Philippines. Notable companies include 2GO Travel (the successor to Superferry and Negros Navigation) and Trans-Asia Shipping Lines.[16]
 
@@ -80,7 +80,7 @@ Air transportation
 
 Airports
 
-NAIA-Termina-1.jpg]]
+]]
 
 Manila, Iloilo, Cebu, Davao, Clark, Subic, Zamboanga and Laoag are the international gateways to the country, with the Ninoy Aquino International Airport (NAIA) in Manila as the main and premier gateway of the country.[17]
 
@@ -92,7 +92,7 @@ Other important airports in the Philippines are the Mactan-Cebu International Ai
 
 Airlines
 
-Philippine_Airlines_Airbus_A330-300_Bidini-3.jpg, the flag carrier of the country.]] Philippine Airlines (PAL) is the national flag carrier of the Philippines and is the first commercial airline in Asia.[20] Philippine Airlines remains as the country's biggest airline company, it has the largest number of international flights to the Philippines as well as domestic flights.[21] , Philippine Airlines flies to 8 domestic and 58 international destinations in 33 countries and territories across Asia, North America, South America, Africa, Oceania and Europe.[22][23][24] The airlines operates hubs in Clark, Manila, Cebu, and Davao.
+, the flag carrier of the country.]] Philippine Airlines (PAL) is the national flag carrier of the Philippines and is the first commercial airline in Asia.[20] Philippine Airlines remains as the country's biggest airline company, it has the largest number of international flights to the Philippines as well as domestic flights.[21] , Philippine Airlines flies to 8 domestic and 58 international destinations in 33 countries and territories across Asia, North America, South America, Africa, Oceania and Europe.[22][23][24] The airlines operates hubs in Clark, Manila, Cebu, and Davao.
 
 Cebu Pacific is the low fare leader in the country, and is the country's leading domestic airline, flying to 37 domestic destinations. Since the launching of its international operations in November 2001, flies to 27 destinations in 15 countries and territories across Asia and Oceania.[25] , the airline operates hubs in Manila, Cebu and Davao.[26]
 
@@ -148,7 +148,7 @@ Limousines are used by the President & Vice-President of the Philippines, as wel
 
 Jeepneys
 
-Jeepney_in_Legazpi_City.JPG]] JEEPNEYS are the most popular means of public transportation in the Philippines.[46] They were originally made from US military jeeps left over from World War II[47] and are known for their flamboyant decoration and crowded seating. They have become a ubiquitous symbol of Filipino culture.
+]] JEEPNEYS are the most popular means of public transportation in the Philippines.[46] They were originally made from US military jeeps left over from World War II[47] and are known for their flamboyant decoration and crowded seating. They have become a ubiquitous symbol of Filipino culture.
 
 Original jeepneys were simply refurbished military jeeps by Willys & Ford, modern jeepneys are now produced by independently owned workshops and factories in the Philippines with surplus engines and parts coming from Japan. In the central island of Cebu, the bulk of jeepneys are built from second-hand Japanese trucks, originally intended for cargo. These are euphemistically known as "surplus" trucks.
 
@@ -159,7 +159,7 @@ The jeepney builders in the past were mostly based in Cebu City and Las Piñas. 
 
 Issues
 
-EDSA-Orense_with_Line_3_train_(Guadalupe,_Makati;_2014-12-03)_(1).jpg.]]
+.]]
 
 Traffic congestion
 

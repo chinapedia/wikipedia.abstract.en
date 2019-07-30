@@ -11,8 +11,6 @@ Notation
 
 The chemical formula for kaolinite as used in mineralogy is ,[7] however, in ceramics applications the formula is typically written in terms of oxides, thus the formula for kaolinite is .[8]
 
-Beevers_crystal_structure_model_of_Kaolinite.jpg
-
 Structural transformations
 
 Kaolinite group clays undergo a series of phase transformations upon thermal treatment in air at atmospheric pressure.

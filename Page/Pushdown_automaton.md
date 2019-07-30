@@ -7,7 +7,7 @@ The term "pushdown" refers to the fact that the stack can be regarded as being "
 
 Informal description
 
-Pushdown-overview.svg A finite state machine just looks at the input signal and the current state: it has no stack to work with. It chooses a new state, the result of following the transition. A PUSHDOWN AUTOMATON (PDA) differs from a finite state machine in two ways:
+A finite state machine just looks at the input signal and the current state: it has no stack to work with. It chooses a new state, the result of following the transition. A PUSHDOWN AUTOMATON (PDA) differs from a finite state machine in two ways:
 
 1.  It can use the top of the stack to decide which transition to take.
 2.  It can manipulate the stack as part of performing a transition.
@@ -45,7 +45,7 @@ Here δ(p, a, A) contains all possible actions in state p with A on the stac
 
 ''' _Computations_ '''
 
-Pushdown-step.svg In order to formalize the semantics of the pushdown automaton a description of the current situation is introduced. Any 3-tuple (p, w, β) ∈ Q × Σ^(*) × Γ^(*) is called an instantaneous description (ID) of M, which includes the current state, the part of the input tape that has not been read, and the contents of the stack (topmost symbol written first). The transition relation δ defines the step-relation ⊢_(M) of M on instantaneous descriptions. For instruction (p, a, A, q, α) ∈ δ there exists a step (p, ax, Aγ)⊢_(M)(q, x, αγ), for every x ∈ Σ^(*) and every γ ∈ Γ^(*).
+In order to formalize the semantics of the pushdown automaton a description of the current situation is introduced. Any 3-tuple (p, w, β) ∈ Q × Σ^(*) × Γ^(*) is called an instantaneous description (ID) of M, which includes the current state, the part of the input tape that has not been read, and the contents of the stack (topmost symbol written first). The transition relation δ defines the step-relation ⊢_(M) of M on instantaneous descriptions. For instruction (p, a, A, q, α) ∈ δ there exists a step (p, ax, Aγ)⊢_(M)(q, x, αγ), for every x ∈ Σ^(*) and every γ ∈ Γ^(*).
 
 In general pushdown automata are nondeterministic meaning that in a given instantaneous description (p, w, β) there may be several possible steps. Any of these steps can be chosen in a computation. With the above definition in each step always a single symbol (top of the stack) is popped, replacing it with as many symbols as necessary. As a consequence no step is defined when the stack is empty.
 
@@ -67,7 +67,7 @@ Example
 
 The following is the formal description of the PDA which recognizes the language {0^(n)1^(n) ∣ n ≥ 0} by final state:
 
-Pda-example.svg M = (Q, Σ, Γ, δ, q₀, Z, F), where
+M = (Q, Σ, Γ, δ, q₀, Z, F), where
 
 -   STATES: Q = {p, q, r}
 -   INPUT ALPHABET: Σ = {0, 1}
@@ -109,7 +109,7 @@ There seems to be no generally used representation for PDA. Here we have depicte
 
 Understanding the computation process
 
-Pda-steps.svg The following illustrates how the above PDA computes on different input strings. The subscript from the step symbol ⊢ is here omitted.
+The following illustrates how the above PDA computes on different input strings. The subscript from the step symbol ⊢ is here omitted.
 
 
 PDA and context-free languages

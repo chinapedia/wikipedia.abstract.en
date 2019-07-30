@@ -1,5 +1,3 @@
-Primes-vs-composites.svg
-
 A PRIME NUMBER (or a PRIME) is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. A natural number greater than 1 that is not prime is called a composite number. For example, 5 is prime because the only ways of writing it as a product, or , involve 5 itself. However, 6 is composite because it is the product of two numbers () that are both smaller than 6. Primes are central in number theory because of the fundamental theorem of arithmetic: every natural number greater than 1 is either a prime itself or can be factorized as a product of primes that is unique up to their order.
 
 The property of being prime is called primality. A simple but slow method of checking the primality of a given number n, called trial division, tests whether n is a multiple of any integer between 2 and $\sqrt{n}$. Faster algorithms include the Miller–Rabin primality test, which is fast but has a small chance of error, and the AKS primality test, which always produces the correct answer in polynomial time but is too slow to be practical. Particularly fast methods are available for numbers of special forms, such as Mersenne numbers. the largest known prime number has 24,862,048 decimal digits.
@@ -13,7 +11,7 @@ Definition and examples
 
 A natural number (1, 2, 3, 4, 5, 6, etc.) is called a _prime number_ (or a _prime_) if it is greater than 1 and cannot be written as a product of two natural numbers that are both smaller than it. The numbers greater than 1 that are not prime are called composite numbers.[1] In other words, n is prime if n items cannot be divided up into smaller equal-size groups of more than one item,[2] or if it is not possible to arrange n dots into a rectangular grid that is more than one dot wide and more than one dot high.[3] For example, among the numbers 1 through 6, the numbers 2, 3, and 5 are the prime numbers,[4] as there are no other numbers that divide them evenly (without a remainder). 1 is not prime, as it is specifically excluded in the definition. and are both composite.
 
-Prime_number_Cuisenaire_rods_7.png, that 7 is prime, because none of 2, 3, 4, 5, or 6 divide it evenly|alt=Demonstration, with Cuisenaire rods, that 7 is prime, because none of 2, 3, 4, 5, or 6 divide it evenly]] The divisors of a natural number n are the natural numbers that divide n evenly. Every natural number has both 1 and itself as a divisor. If it has any other divisor, it cannot be prime. This idea leads to a different but equivalent definition of the primes: they are the numbers with exactly two positive divisors, 1 and the number itself.[5] Yet another way to express the same thing is that a number n is prime if it is greater than one and if none of the numbers 2, 3, …, n − 1 divides n evenly.[6]
+, that 7 is prime, because none of 2, 3, 4, 5, or 6 divide it evenly|alt=Demonstration, with Cuisenaire rods, that 7 is prime, because none of 2, 3, 4, 5, or 6 divide it evenly]] The divisors of a natural number n are the natural numbers that divide n evenly. Every natural number has both 1 and itself as a divisor. If it has any other divisor, it cannot be prime. This idea leads to a different but equivalent definition of the primes: they are the numbers with exactly two positive divisors, 1 and the number itself.[5] Yet another way to express the same thing is that a number n is prime if it is greater than one and if none of the numbers 2, 3, …, n − 1 divides n evenly.[6]
 
 The first 25 prime numbers (all the prime numbers less than 100) are: [7]
 
@@ -26,7 +24,7 @@ The set of all primes is sometimes denoted by P (a boldface capital _P_)[10] or 
 
 History
 
-Rhind_Mathematical_Papyrus.jpg|alt=The Rhind Mathematical Papyrus]]
+|alt=The Rhind Mathematical Papyrus]]
 
 The Rhind Mathematical Papyrus, from around 1550 BC, has Egyptian fraction expansions of different forms for prime and composite numbers.[12] However, the earliest surviving records of the explicit study of prime numbers come from ancient Greek mathematics. Euclid's _Elements_ (c. 300 BC) proves the infinitude of primes and the fundamental theorem of arithmetic, and shows how to construct a perfect number from a Mersenne prime.[13] Another Greek invention, the Sieve of Eratosthenes, is still used to construct lists of primes.[14][15]
 
@@ -130,7 +128,7 @@ is finite. Because of Brun's theorem, it is not possible to use Euler's method t
 
 Number of primes below a given bound
 
-Prime-counting_relative_error.svg of $\tfrac{n}{\log n}$ and the logarithmic integral Li (n) as approximations to the prime-counting function. Both relative errors decrease to zero as n grows, but the convergence to zero is much more rapid for the logarithmic integral.]] The prime counting function π(n) is defined as the number of primes not greater than n.[86] For example, π(11) = 5, since there are five primes less than or equal to 11. Methods such as the Meissel–Lehmer algorithm can compute exact values of π(n) faster than it would be possible to list each prime up to n.[87] The prime number theorem states that π(n) is asymptotic to n/log n, which is denoted as
+of $\tfrac{n}{\log n}$ and the logarithmic integral Li (n) as approximations to the prime-counting function. Both relative errors decrease to zero as n grows, but the convergence to zero is much more rapid for the logarithmic integral.]] The prime counting function π(n) is defined as the number of primes not greater than n.[86] For example, π(11) = 5, since there are five primes less than or equal to 11. Methods such as the Meissel–Lehmer algorithm can compute exact values of π(n) faster than it would be possible to list each prime up to n.[87] The prime number theorem states that π(n) is asymptotic to n/log n, which is denoted as
 
     $\pi(n) \sim \frac{n}{\log n},$
 
@@ -151,7 +149,7 @@ can have more than one prime only when its remainder a and modulus q are relativ
 
 Prime values of quadratic polynomials
 
-Ulam_2.png. Prime numbers (red) cluster on some diagonals and not others. Prime values of 4n² − 2n + 41 are shown in blue.|alt=The Ulam spiral]] Euler noted that the function
+. Prime numbers (red) cluster on some diagonals and not others. Prime values of 4n² − 2n + 41 are shown in blue.|alt=The Ulam spiral]] Euler noted that the function
 
 _n_² − _n_ + 41
 yields prime numbers for 1 ≤ n ≤ 40, although composite numbers appear among its later values.[98][99] The search for an explanation for this phenomenon led to the deep algebraic number theory of Heegner numbers and the class number problem.[100] The Hardy-Littlewood conjecture F predicts the density of primes among the values of quadratic polynomials with integer coefficients in terms of the logarithmic integral and the polynomial coefficients. No quadratic polynomial has been proven to take infinitely many prime values.[101]
@@ -160,7 +158,7 @@ The Ulam spiral arranges the natural numbers in a two-dimensional grid, spiralin
 
 Zeta function and the Riemann hypothesis
 
-Riemann_zeta_function_absolute_value.png One of the most famous unsolved questions in mathematics, dating from 1859, and one of the Millennium Prize Problems, is the Riemann hypothesis, which asks where the zeros of the Riemann zeta function ζ(s) are located. This function is an analytic function on the complex numbers. For complex numbers s with real part greater than one it equals both an infinite sum over all integers, and an infinite product over the prime numbers,
+One of the most famous unsolved questions in mathematics, dating from 1859, and one of the Millennium Prize Problems, is the Riemann hypothesis, which asks where the zeros of the Riemann zeta function ζ(s) are located. This function is an analytic function on the complex numbers. For complex numbers s with real part greater than one it equals both an infinite sum over all integers, and an infinite product over the prime numbers,
 
 $$\zeta(s)=\sum_{n=1}^\infty \frac{1}{n^s}=\prod_{p \text{ prime}} \frac 1 {1-p^{-s}}.$$
 This equality between a sum and a product, discovered by Euler, is called an Euler product.[103] The Euler product can be derived from the fundamental theorem of arithmetic, and shows the close connection between the zeta function and the prime numbers.[104] It leads to another proof that there are infinitely many primes: if there were only finitely many, then the sum-product equality would also be valid at s = 1, but the sum would diverge (it is the harmonic series $1+\tfrac{1}{2}+\tfrac{1}{3}+\dots$) while the product would be finite, a contradiction.[105]
@@ -187,7 +185,7 @@ This picture of an order, absolute value, and complete field derived from them c
 
 Prime elements in rings
 
-Gaussian_primes.pngs with norm less than 500]] A commutative ring is an algebraic structure where addition, subtraction and multiplication are defined. The integers are a ring, and the prime numbers in the integers have been generalized to rings in two different ways, _prime elements_ and _irreducible elements_. An element p of a ring R is called prime if it is nonzero, has no multiplicative inverse (that is, it is not a unit), and satisfies the following requirement: whenever p divides the product xy of two elements of R, it also divides at least one of x or y. An element is irreducible if it is neither a unit nor the product of two other non-unit elements. In the ring of integers, the prime and irreducible elements form the same set,
+s with norm less than 500]] A commutative ring is an algebraic structure where addition, subtraction and multiplication are defined. The integers are a ring, and the prime numbers in the integers have been generalized to rings in two different ways, _prime elements_ and _irreducible elements_. An element p of a ring R is called prime if it is nonzero, has no multiplicative inverse (that is, it is not a unit), and satisfies the following requirement: whenever p divides the product xy of two elements of R, it also divides at least one of x or y. An element is irreducible if it is neither a unit nor the product of two other non-unit elements. In the ring of integers, the prime and irreducible elements form the same set,
 
 {…,  − 11,  − 7,  − 5,  − 3,  − 2, 2, 3, 5, 7, 11, …} .
 In an arbitrary ring, all prime elements are irreducible. The converse does not hold in general, but does hold for unique factorization domains.[125]
@@ -207,7 +205,7 @@ In the theory of finite groups the Sylow theorems imply that, if a power of a pr
 
 Computational methods
 
-Gears_large.jpg For a long time, number theory in general, and the study of prime numbers in particular, was seen as the canonical example of pure mathematics, with no applications outside of mathematics other than the use of prime numbered gear teeth to distribute wear evenly.[134] In particular, number theorists such as British mathematician G. H. Hardy prided themselves on doing work that had absolutely no military significance.[135]
+For a long time, number theory in general, and the study of prime numbers in particular, was seen as the canonical example of pure mathematics, with no applications outside of mathematics other than the use of prime numbered gear teeth to distribute wear evenly.[134] In particular, number theorists such as British mathematician G. H. Hardy prided themselves on doing work that had absolutely no military significance.[135]
 
 This vision of the purity of number theory was shattered in the 1970s, when it was publicly announced that prime numbers could be used as the basis for the creation of public key cryptography algorithms.[136] These applications have led to significant study of algorithms for computing with prime numbers, and in particular of primality testing, methods for determining whether a given number is prime. The most basic primality testing routine, trial division, is too slow to be useful for large numbers. One group of modern primality tests is applicable to arbitrary numbers, while more efficient tests are available for numbers of special types. Most primality tests only tell whether their argument is prime or not. Routines that also provide a prime factor of composite arguments (or all of its prime factors) are called factorization algorithms. Prime numbers are also used in computing for checksums, hash tables, and pseudorandom number generators.
 
@@ -219,7 +217,7 @@ Although this method is simple to describe, it is impractical for testing the pr
 
 Sieves
 
-Sieve_of_Eratosthenes_animation.gif starts with all numbers unmarked (gray). It repeatedly finds the first unmarked number, marks it as prime (dark colors) and marks its square and all later multiples as composite (lighter colors). After marking the multiples of 2 (red), 3 (green), 5 (blue), and 7 (yellow), all primes up to the square root of the table size have been processed, and all remaining unmarked numbers (11, 13, etc.) are marked as primes (magenta).|alt=Animation of the sieve of Eratosthenes]]
+starts with all numbers unmarked (gray). It repeatedly finds the first unmarked number, marks it as prime (dark colors) and marks its square and all later multiples as composite (lighter colors). After marking the multiples of 2 (red), 3 (green), 5 (blue), and 7 (yellow), all primes up to the square root of the table size have been processed, and all remaining unmarked numbers (11, 13, etc.) are marked as primes (magenta).|alt=Animation of the sieve of Eratosthenes]]
 
 Before computers, mathematical tables listing all of the primes or prime factorizations up to a given limit were commonly printed.[140] The oldest method for generating a list of primes is called the sieve of Eratosthenes.[141] The animation shows an optimized variant of this method.[142] Another more efficient sieving method for the same problem is the sieve of Atkin.[143] In advanced mathematics, sieve theory applies similar methods to other problems.[144]
 
@@ -272,13 +270,13 @@ Other applications
 
 Prime numbers are of central importance to number theory but also have many applications to other areas within mathematics, including abstract algebra and elementary geometry. For example, it is possible to place prime numbers of points in a two-dimensional grid so that no three are in a line, or so that every triangle formed by three of the points has large area.[187] Another example is Eisenstein's criterion, a test for whether a polynomial is irreducible based on divisibility of its coefficients by a prime number and its square.[188]
 
-Sum_of_knots3.svg The concept of prime number is so important that it has been generalized in different ways in various branches of mathematics. Generally, "prime" indicates minimality or indecomposability, in an appropriate sense. For example, the prime field of a given field is its smallest subfield that contains both 0 and 1. It is either the field of rational numbers or a finite field with a prime number of elements, whence the name.[189] Often a second, additional meaning is intended by using the word prime, namely that any object can be, essentially uniquely, decomposed into its prime components. For example, in knot theory, a prime knot is a knot that is indecomposable in the sense that it cannot be written as the connected sum of two nontrivial knots. Any knot can be uniquely expressed as a connected sum of prime knots.[190] The prime decomposition of 3-manifolds is another example of this type.[191]
+The concept of prime number is so important that it has been generalized in different ways in various branches of mathematics. Generally, "prime" indicates minimality or indecomposability, in an appropriate sense. For example, the prime field of a given field is its smallest subfield that contains both 0 and 1. It is either the field of rational numbers or a finite field with a prime number of elements, whence the name.[189] Often a second, additional meaning is intended by using the word prime, namely that any object can be, essentially uniquely, decomposed into its prime components. For example, in knot theory, a prime knot is a knot that is indecomposable in the sense that it cannot be written as the connected sum of two nontrivial knots. Any knot can be uniquely expressed as a connected sum of prime knots.[190] The prime decomposition of 3-manifolds is another example of this type.[191]
 
 Beyond mathematics and computing, prime numbers have potential connections to quantum mechanics, and have been used metaphorically in the arts and literature. They have also been used in evolutionary biology to explain the life cycles of cicadas.
 
 Constructible polygons and polygon partitions
 
-Pentagon_construct.gif.|alt=Construction of a regular pentagon using straightedge and compass]] Fermat primes are primes of the form
+.|alt=Construction of a regular pentagon using straightedge and compass]] Fermat primes are primes of the form
 
 _F__(_k_) = 2^(2^(_k_)) + 1,
 with k a natural number.[192] They are named after Pierre de Fermat, who conjectured that all such numbers are prime. The first five of these numbers – 3, 5, 17, 257, and 65,537 – are prime,[193] but F₅ is composite and so are all other Fermat numbers that have been verified as of 2017.[194] A regular n-gon is constructible using straightedge and compass if and only if the odd prime factors of n (if any) are distinct Fermat primes.[195] Likewise, a regular n-gon may be constructed using straightedge, compass, and an angle trisector if and only if the prime factors of n are any number of copies of 2 or 3 together with a (possibly empty) set of distinct Pierpont primes, primes of the form 2^(a)3^(b) + 1.[196]

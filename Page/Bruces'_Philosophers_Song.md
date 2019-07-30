@@ -19,7 +19,7 @@ There is some debate over whether the sixth line is supposed to be "Schopenhauer
 
 The philosophers
 
-Heidegger_4_(1960)_cropped.jpg John_Stuart_Mill_by_London_Stereoscopic_Company,_c1870.jpg All the philosophers whom the song mentions were dead by the time it appeared, apart from Martin Heidegger.
+All the philosophers whom the song mentions were dead by the time it appeared, apart from Martin Heidegger.
 
 Philosophers mentioned in the song (in order):
 

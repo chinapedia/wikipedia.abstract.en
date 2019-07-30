@@ -1,4 +1,4 @@
-ISS_impact_risk.jpg model showing areas at high risk from impact for the International Space Station]]
+model showing areas at high risk from impact for the International Space Station]]
 
 RISK MANAGEMENT is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as _the effect of uncertainty on objectives_) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events[1] or to maximize the realization of opportunities.
 
@@ -218,8 +218,6 @@ Through a draft guidance, the FDA has introduced another method named "Safety As
 Project management
 
 Project risk management must be considered at the different phases of acquisition. In the beginning of a project, the advancement of technical developments, or threats presented by a competitor's projects, may cause a risk or threat assessment and subsequent evaluation of alternatives (see Analysis of Alternatives). Once a decision is made, and the project begun, more familiar project management applications can be used:[21][22][23]
-
-SimulTrain12RiskRegister.JPG
 
 -   Planning how risk will be managed in the particular project. Plans should include risk management tasks, responsibilities, activities and budget.
 -   Assigning a risk officer – a team member other than a project manager who is responsible for foreseeing potential project problems. Typical characteristic of risk officer is a healthy skepticism.

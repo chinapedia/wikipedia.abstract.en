@@ -10,7 +10,7 @@ The processors for the first Microvision cartridges were made with both Intel 80
 
 Problems
 
-Milton-Bradley-Microvision-Casing-Open-02.jpg Microvision units and cartridges are now somewhat rare. Those that are still in existence are susceptible to three main problems: "screen rot," ESD damage, and keypad destruction.
+Microvision units and cartridges are now somewhat rare. Those that are still in existence are susceptible to three main problems: "screen rot," ESD damage, and keypad destruction.
 
 Screen rot
 
@@ -26,8 +26,6 @@ The Microvision unit had a twelve-button keypad, with the switches buried under 
 
 
 Technical specifications
-
-Milton-Bradley-Microvision-Cartridge-Motherboard.jpg
 
 -   CPU: Intel 8021/TI TMS1100 (on cartridge)
 -   Screen type and resolution: 16 × 16 pixel LCD

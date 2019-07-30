@@ -15,8 +15,6 @@ On September 6, 2006, Sony announced that PAL region PlayStation 3 launch would
 
 Launch
 
-PS3s_and_controllers_at_E3_2006.jpg
-
 PlayStation 3 was first released in Japan on November 11, 2006, at 07:00.[39] According to Media Create, 81,639 PS3 systems were sold within 24 hours of its introduction in Japan.[40] Soon after its release in Japan, PS3 was released in North America on November 17, 2006.[41] Reports of violence surrounded the release of PS3. A customer was shot, campers were robbed at gunpoint,[42] customers were shot in a drive-by shooting with BB guns,[43] and 60 campers fought over 10 systems.[44]
 
 The console was originally planned for a global release through November, but at the start of September the release in Europe and the rest of the world was delayed until March.[45] With it being a somewhat last-minute delay, some companies had taken deposits for pre-orders, at which Sony informed customers that they were eligible for full refunds or could continue the pre-order.[46] On January 24, 2007, Sony announced that PlayStation 3 would go on sale on March 23, 2007, in Europe, Australia, the Middle East, Africa and New Zealand.[47] [48] The system sold about 600,000 units in its first two days.[49] On March 7, 2007, the 60 GB PlayStation 3 launched in Singapore with a price of S$799.[50] The console was launched in South Korea on June 16, 2007, as a single version equipped with an 80 GB hard drive and IPTV.[51]
@@ -49,8 +47,6 @@ In December 2008, the CTO of Blitz Games announced that it would bring stereosco
 
 Hardware
 
-Sony-PlayStation-3-CECHA01-Console-BR.jpg
-
 PlayStation 3 is convex on its left side, with the PlayStation logo upright, when vertical (the top side is convex when horizontal) and has a glossy black finish. PlayStation designer Teiyu Goto stated that the Spider-Man-font-inspired logo "was one of the first elements SCEI president Ken Kutaragi decided on and the logo may have been the motivating force behind the shape of PS3".[89]
 
 On March 22, 2007, SCE and Stanford University released the Folding@home software for PlayStation 3.[90] This program allows PS3 owners to lend the computing power of their consoles to help study the process of protein folding for disease research.
@@ -65,7 +61,7 @@ In November 2010 the Air Force Research Laboratory (AFRL) created a powerful sup
 
 Technical specifications
 
-RSX_'Reality_Synthesizer'.jpg PlayStation 3 features a slot-loading 2x speed Blu-ray Disc drive for games, Blu-ray movies, DVDs, CDs and other optical media.[101] It was originally available with hard drives of 20 and 60 GB (20 GB model was not available in PAL regions)[102][103] but various sizes up to 500 GB[104][105] have been made available since then (see: model comparison). All PS3 models have user-upgradeable 2.5" SATA hard drives.[106]
+PlayStation 3 features a slot-loading 2x speed Blu-ray Disc drive for games, Blu-ray movies, DVDs, CDs and other optical media.[101] It was originally available with hard drives of 20 and 60 GB (20 GB model was not available in PAL regions)[102][103] but various sizes up to 500 GB[104][105] have been made available since then (see: model comparison). All PS3 models have user-upgradeable 2.5" SATA hard drives.[106]
 
 PlayStation 3 uses the Cell microprocessor, designed by Sony, Toshiba and IBM, as its CPU, which is made up of one 3.2 GHz PowerPC-based "Power Processing Element" (PPE) and eight Synergistic Processing Elements (SPEs).[107] The eighth SPE is disabled to improve chip yields.[108][109] Only six of the seven SPEs are accessible to developers as the seventh SPE is reserved by the console's operating system.[110] Graphics processing is handled by the Nvidia RSX 'Reality Synthesizer', which can produce resolutions from 480i/576i SD up to 1080p HD.[111] PlayStation 3 has 256 MB of XDR DRAM main memory and 256 MB of GDDR3 video memory for the RSX.[112]
 
@@ -77,7 +73,7 @@ PlayStation 3 has been produced in various models: the original, the Slim, and t
 
 Controllers and accessories
 
-DualShock3-in-Hand.jpg controller in hand]] Numerous accessories for the console have been developed. These accessories include the wireless Sixaxis and DualShock 3 controllers, the Logitech Driving Force GT, the Logitech Cordless Precision Controller, the BD Remote, the PlayStation Eye camera, and the PlayTV DVB-T tuner/digital video recorder accessory.[116][117]
+controller in hand]] Numerous accessories for the console have been developed. These accessories include the wireless Sixaxis and DualShock 3 controllers, the Logitech Driving Force GT, the Logitech Cordless Precision Controller, the BD Remote, the PlayStation Eye camera, and the PlayTV DVB-T tuner/digital video recorder accessory.[116][117]
 
 At Sony's E3 press conference in 2006, the then standard wireless Sixaxis controller was announced. The controller was based on the same basic design as the PlayStation 2's DualShock 2 controller but was wireless, lacked vibration capabilities, had a built-in accelerometer (that could detect motion in three directional and three rotational axes; six in total, hence the name Sixaxis) and had a few cosmetic tweaks.
 
@@ -91,7 +87,7 @@ The PlayStation 3 can also use DualShock 4 controller initially via USB cable, b
 
 Statistics regarding reliability
 
-Yellow_Light_of_Death-_PlayStation_3.png According to Ars Technica, the number of PlayStation 3 consoles that have experienced failure is well within the normal failure rates in the consumer electronics industry;[126] a 2009 study by SquareTrade, a warranty provider, found a two-year failure rate of 10% for PlayStation 3s.[127]
+According to Ars Technica, the number of PlayStation 3 consoles that have experienced failure is well within the normal failure rates in the consumer electronics industry;[126] a 2009 study by SquareTrade, a warranty provider, found a two-year failure rate of 10% for PlayStation 3s.[127]
 
 In September 2009, BBC's _Watchdog_ television program aired a report investigating the issue, calling it the "yellow light of death" (YLOD). Among the consoles that experienced the failure, they found that it usually occurred 18–24 months after purchase, while the standard Sony warranty covers one year after purchase. After this time period, PlayStation 3 owners can pay Sony a fixed fee for a refurbished console.[128]
 
@@ -112,8 +108,6 @@ The original PlayStation 3 also included the ability to install other operating 
 
 Graphical user interface
 
-XMB_of_PS3.jpg
-
 The standard PlayStation 3 version of the XrossMediaBar (pronounced Cross Media Bar, or abbreviated XMB) includes nine categories of options. These are: _Users_, _Settings_, _Photo_, _Music_, _Video_, _TV/Video Services_, _Game_, _Network_, _PlayStation Network_ and _Friends_ (similar to the PlayStation Portable media bar). The_TV/Video Services_ category is for services like Netflix and/or if PlayTV or torne is installed; the first category in this section is "My Channels", which lets users download various streaming services, including Sony's own streaming services Crackle and PlayStation Vue. By default, the _What's New_ section of _PlayStation Network_ is displayed when the system starts up. PS3 includes the ability to store various master and secondary user profiles, manage and explore photos with or without a musical slide show, play music and copy audio CD tracks to an attached data storage device, play movies and video files from the hard disk drive, an optical disc (Blu-ray Disc or DVD-Video) or an optional USB mass storage or Flash card, compatibility for a USB keyboard and mouse and a web browser supporting compatible-file download function.[139] Additionally, UPnP media will appear in the respective audio/video/photo categories if a compatible media server or DLNA server is detected on the local network. The Friends menu allows mail with emoticon and attached picture features and video chat which requires an optional PlayStation Eye or EyeToy webcam.[140] The Network menu allows online shopping through the PlayStation Store and connectivity to PlayStation Portable via Remote Play.[141]
 
 Digital rights management
@@ -124,7 +118,7 @@ Photo management
 
 Photo Gallery
 
-PhotoGalleryPS3.png Photo Gallery is an optional application to view, create and group photos from PS3, which is installed separately from the system software at 105 MB. It was introduced in system software version 2.60 and provides a range of tools for sorting through and displaying the system's pictures. The key feature of this application is that it can organize photos into groups according to various criteria. Notable categorizations are colors, ages, or facial expressions of the people in the photos. Slideshows can be viewed with the application, along with music and playlists. The software was updated with the release of system software version 3.40 allowing users to upload and browse photos on Facebook and Picasa.[144]
+Photo Gallery is an optional application to view, create and group photos from PS3, which is installed separately from the system software at 105 MB. It was introduced in system software version 2.60 and provides a range of tools for sorting through and displaying the system's pictures. The key feature of this application is that it can organize photos into groups according to various criteria. Notable categorizations are colors, ages, or facial expressions of the people in the photos. Slideshows can be viewed with the application, along with music and playlists. The software was updated with the release of system software version 3.40 allowing users to upload and browse photos on Facebook and Picasa.[144]
 
 PlayMemories Studio
 
@@ -224,7 +218,7 @@ Home featured places to meet and interact, dedicated game spaces, developer spac
 
 Life with PlayStation
 
-LifeWithPlayStation_Weather.jpg. Screenshot taken at approximately 8pm PST.]] Life with PlayStation, released on September 18, 2008[205] to succeed Folding@home, was retired November 6, 2012. _Life with PlayStation_ used virtual globe data to display news and information by city. Along with Folding@home functionality, the application provided access to three other information "channels", the first being the _Live Channel_ offering news headlines and weather which were provided by Google News, The Weather Channel, the University of Wisconsin–Madison Space Science and Engineering Center, among other sources.[206] The second channel was the World Heritage channel which offered historical information about historical sites. The third channel was the United Village channel. United Village was designed to share information about communities and cultures worldwide.[207] An update allowed video and photo viewing in the application.[208] The fourth channel was the U.S. exclusive PlayStation Network Game Trailers Channel for direct streaming of game trailers.
+. Screenshot taken at approximately 8pm PST.]] Life with PlayStation, released on September 18, 2008[205] to succeed Folding@home, was retired November 6, 2012. _Life with PlayStation_ used virtual globe data to display news and information by city. Along with Folding@home functionality, the application provided access to three other information "channels", the first being the _Live Channel_ offering news headlines and weather which were provided by Google News, The Weather Channel, the University of Wisconsin–Madison Space Science and Engineering Center, among other sources.[206] The second channel was the World Heritage channel which offered historical information about historical sites. The third channel was the United Village channel. United Village was designed to share information about communities and cultures worldwide.[207] An update allowed video and photo viewing in the application.[208] The fourth channel was the U.S. exclusive PlayStation Network Game Trailers Channel for direct streaming of game trailers.
 
 Outage
 

@@ -1,5 +1,3 @@
-Keflavik.jpg Keflavik_Kirche.jpg
-
 KEFLAVÍK (pronounced , meaning _Driftwood Bay_) is a town in the Reykjanes region in southwest Iceland. As of 2016, its population when combined with the nearby town Njarðvík, is 15,129.[1]
 
 In 1995 it merged with Njarðvík and Hafnir to form a municipality called Reykjanesbær with a population of 15,233 (January 2016).

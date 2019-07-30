@@ -1,4 +1,4 @@
-Lactantius.jpg LUCIUS CAECILIUS FIRMIANUS LACTANTIUS (c. 250 – c. 325) was an early Christian author who became an advisor to the first Christian Roman emperor, Constantine I, guiding his religious policy as it developed,[1] and a tutor to his son Crispus. His most important work is the _Institutiones Divinae_ ("The Divine Institutes"), an apologetic treatise intended to establish the reasonableness and truth of Christianity to pagan critics.
+LUCIUS CAECILIUS FIRMIANUS LACTANTIUS (c. 250 – c. 325) was an early Christian author who became an advisor to the first Christian Roman emperor, Constantine I, guiding his religious policy as it developed,[1] and a tutor to his son Crispus. His most important work is the _Institutiones Divinae_ ("The Divine Institutes"), an apologetic treatise intended to establish the reasonableness and truth of Christianity to pagan critics.
 
 
 Biography
@@ -21,7 +21,7 @@ He was considered somewhat heretical after his death, but Renaissance humanists 
 
 Prophetic exegesis
 
-Lactantius,_Divinarum_institutionum_..._liber_primus,_manuscript,_Florence_1420-1430_ca.jpg ca. 1420–1430 by Guglielmino Tanaglia]]
+ca. 1420–1430 by Guglielmino Tanaglia]]
 
 Like many writers in the first few centuries of the early church, Lactantius took a premillennialist view, holding that the second coming of Christ will precede a millennium or a thousand-year reign of Christ on earth. According to Charles E. Hill, "With Lactantius in the early fourth century we see a determined attempt to revive a more “genuine” form of chiliasm."[16] Lactantius quoted the Sibyls extensively (although the Sibylline Oracles are now known to be pseudepigrapha). Book VII of _The Divine Institutes_ indicates a familiarity with Jewish, Christian, Egyptian and Iranian apocalyptic material.[17]
 
@@ -39,7 +39,7 @@ Works
 -   _De opificio Dei_ ("The Works of God"), an apologetic work, written in 303 or 304 during Diocletian's persecution and dedicated to a former pupil, a rich Christian named Demetrianius. The apologetic principles underlying all the works of Lactantius are well set forth in this treatise.[20]
 -   _Institutiones Divinae_ ("The Divine Institutes"), written between 303 and 311.[21] This is the most important of the writings of Lactantius. It was "one of the first books printed in Italy and the first dated Italian imprint."[22] As an apologetic treatise, it was intended to point out the futility of pagan beliefs and to establish the reasonableness and truth of Christianity as a response to pagan critics. It was also the first attempt at a systematic exposition of Christian theology in Latin and was planned on a scale sufficiently broad to silence all opponents.[23] Patrick Healy notes, "The strengths and the weakness of Lactantius are nowhere better shown than in his work. The beauty of the style, the choice and aptness of the terminology, cannot hide the author's lack of grasp on Christian principles and his almost utter ignorance of Scripture."[24] Included in this treatise is a quote from the nineteenth of the Odes of Solomon, one of only two known texts of the Odes until the early twentieth century.[25] However, his mockery of the idea of a round earth
 
-was criticised by Copernicus as "childish".[26] Auct._L_3.33_f3v.jpg
+was criticised by Copernicus as "childish".[26]
 
 -   An _Epitome_ of the _Divine institutes_ is a summary treatment of the subject.[27]
 -   _De ira Dei_ ("On the Wrath of God" or "On the Anger of God"), directed against the Stoics and Epicureans.[28]

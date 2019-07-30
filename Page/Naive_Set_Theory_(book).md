@@ -1,6 +1,6 @@
     _See also Naive set theory for the mathematical topic._
 
-NaiveSetTheory.jpg _NAIVE SET THEORY_ is a mathematics textbook by Paul Halmos providing an undergraduate introduction to set theory.[1] Originally published by _Van Nostrand_ in 1960,[2] it was reprinted in the Springer-Verlag Undergraduate Texts in Mathematics series in 1974.[3]
+_NAIVE SET THEORY_ is a mathematics textbook by Paul Halmos providing an undergraduate introduction to set theory.[1] Originally published by _Van Nostrand_ in 1960,[2] it was reprinted in the Springer-Verlag Undergraduate Texts in Mathematics series in 1974.[3]
 
 While the title states that it is naive, which is usually taken to mean without axioms, the book does introduce all the axioms of ZFC set theory (except the Axiom of Foundation), and gives correct and rigorous definitions for basic objects.[4][5] Where it differs from a "true" axiomatic set theory book is its character: there are no discussions of axiomatic minutiae, and there is next to nothing about advanced topics like large cardinals. Instead, it tries to be intelligible to someone who has never thought about set theory before.
 

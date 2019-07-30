@@ -5,15 +5,15 @@ The main island, Grande Terre, is in area and is surrounded by a further 300 sma
 
 History
 
-Yves_de_Kerguelen.jpg.|upright]] Kerguelen Islands appear as the "Ile de Nachtegal" on Philippe Buache's map from 1754 before the island was officially discovered in 1772. The Buache map has the title _Carte des Terres Australes comprises entre le Tropique du Capricorne et le Pôle Antarctique où se voyent les nouvelles découvertes faites en 1739 au Sud du Cap de Bonne Esperance_ ('Map of the Southern Lands contained between the Tropic of Capricorn and the Antarctic Pole, where the new discoveries made in 1739 to the south of the Cape of Good Hope may be seen'). It is possible this early name was after Abel Tasman's ship _De Zeeuwsche Nachtegaal_. On the Buache map, "Ile de Nachtegal" is located at 43°S, 72°E, about 6 degrees north and 2 degrees east of the accepted location of Grande Terre.
+.|upright]] Kerguelen Islands appear as the "Ile de Nachtegal" on Philippe Buache's map from 1754 before the island was officially discovered in 1772. The Buache map has the title _Carte des Terres Australes comprises entre le Tropique du Capricorne et le Pôle Antarctique où se voyent les nouvelles découvertes faites en 1739 au Sud du Cap de Bonne Esperance_ ('Map of the Southern Lands contained between the Tropic of Capricorn and the Antarctic Pole, where the new discoveries made in 1739 to the south of the Cape of Good Hope may be seen'). It is possible this early name was after Abel Tasman's ship _De Zeeuwsche Nachtegaal_. On the Buache map, "Ile de Nachtegal" is located at 43°S, 72°E, about 6 degrees north and 2 degrees east of the accepted location of Grande Terre.
 
-The islands were officially discovered by the French navigator Yves-Joseph de Kerguelen-Trémarec on 12 February 1772. The next day Charles de Boisguehenneuc landed and claimed the island for the French crown.[4] Yves de Kerguelen organised a second expedition in 1773 and arrived at the _"baie de l'Oiseau"_ by December of the same year. On 6 January 1774 he commanded his lieutenant, Henri Pascal de Rochegude, to leave a message notifying any passers-by of the two passages and of the French claim to the islands.[5] Thereafter, a number of expeditions briefly visited the islands, including that of Captain James Cook in December 1776 during his third voyage, who verified and confirmed the passage of de Kerguelen by discovering and annotating the message left by the French navigator.[6] Christmas_Harbour_Kerguelens_Land,_1811.jpg.]]
+The islands were officially discovered by the French navigator Yves-Joseph de Kerguelen-Trémarec on 12 February 1772. The next day Charles de Boisguehenneuc landed and claimed the island for the French crown.[4] Yves de Kerguelen organised a second expedition in 1773 and arrived at the _"baie de l'Oiseau"_ by December of the same year. On 6 January 1774 he commanded his lieutenant, Henri Pascal de Rochegude, to leave a message notifying any passers-by of the two passages and of the French claim to the islands.[5] Thereafter, a number of expeditions briefly visited the islands, including that of Captain James Cook in December 1776 during his third voyage, who verified and confirmed the passage of de Kerguelen by discovering and annotating the message left by the French navigator.[6] .]]
 
 Soon after their discovery, the archipelago was regularly visited by whalers and sealers (mostly British, American and Norwegian) who hunted the resident populations of whales and seals to the point of near extinction, including fur seals in the 18th century and elephant seals in the 19th century. The sealing era lasted from 1781 to 1922 during which time 284 sealing visits are recorded, nine of which ended when the vessel was wrecked.[7] Modern industrial sealing, associated with whaling stations, occurred intermittently between 1908 and 1956. Since the end of the whaling and sealing era, most of the islands' species have been able to increase their population again.[8] Relics of the sealing period include trypots, hut ruins, graves and inscriptions.[9]
 
 In 1800, spent eight months sealing and whaling around the islands. During this time Captain Robert Rhodes, her master, prepared a chart of the islands.[10] That vessel returned to London in April 1801 with 450 tuns of sea elephant oil.[11]
 
-In 1825, the British sealer John Nunn and three crew members from _Favourite_ were shipwrecked on Kerguelen until they were rescued in 1827 by Captain Alexander Distant during his hunting campaign.[12][13] NUNN(1850)_p182_THE_EGG-CART.jpg
+In 1825, the British sealer John Nunn and three crew members from _Favourite_ were shipwrecked on Kerguelen until they were rescued in 1827 by Captain Alexander Distant during his hunting campaign.[12][13]
 
 The islands were not completely surveyed until the Ross expedition of 1840.[14]
 
@@ -23,7 +23,7 @@ For the 1874 transit of Venus, George Biddell Airy at the Royal Observatory of t
 
 In 1874–1875, British, German and U.S. expeditions visited Kerguelen to observe the transit of Venus.[17]
 
-In 1877 the French started a coal mining operation; however, this was abandoned soon after.[18] Port-Gazelle_le_8_janvier_1893_retouched.jpg In response to German operations in the area, France reasserted its sovereignty on the Kerguelen Islands, along with the islands of Amsterdam and St Paul, and the Crozet archipelago in 1893, and decided to administer these territories from Madagascar in 1924 (in addition to that portion of Antarctica claimed by France and known as Adélie Land; as with all Antarctic territorial claims, France's possession on the continent is held in abeyance until a new international treaty is ratified that defines each claimant's rights and obligations).
+In 1877 the French started a coal mining operation; however, this was abandoned soon after.[18] In response to German operations in the area, France reasserted its sovereignty on the Kerguelen Islands, along with the islands of Amsterdam and St Paul, and the Crozet archipelago in 1893, and decided to administer these territories from Madagascar in 1924 (in addition to that portion of Antarctica claimed by France and known as Adélie Land; as with all Antarctic territorial claims, France's possession on the continent is held in abeyance until a new international treaty is ratified that defines each claimant's rights and obligations).
 
 The German auxiliary cruiser called at Kerguelen during December 1940. During their stay the crew performed maintenance and replenished their water supplies. This ship's first fatality of the war occurred when a sailor, Bernhard Herrmann, fell while painting the funnel. He is buried in what is sometimes referred to as "the most southerly German war grave" of World War II.
 
@@ -34,7 +34,7 @@ Until 1955, the Kerguelen Islands were administratively part of the French Colon
 
 Grande Terre
 
-Kerguelen_RallierDuBatty.JPG]] Port_aux_Français.JPG]] Kerguelen_-_Monts_des_Deux_Frères.jpg Kerguelen_CookGlacier.JPG]]
+]] ]] ]]
 
 The main island of the archipelago is called __. It measures east to west and north to south.
 
@@ -102,8 +102,6 @@ The following is a list of the most important adjacent islands:
 
 Economy
 
-800px-RV_Marion_Dufresne.jpg
-
 Principal activities on the Kerguelen Islands focus on scientific research – mostly earth sciences and biology.
 
 The former sounding rocket range to the east of Port-aux-Français is currently the site of a SuperDARN radar.
@@ -117,8 +115,6 @@ There are also five fishing boats and vessels, owned by fishermen on Réunion Is
 
 Geology
 
-Kerguelen-geo-en.png
-
 The Kerguelen islands form an emerged part of the submerged Kerguelen Plateau, which has a total area nearing .[23] The plateau was built by volcanic eruptions associated with the Kerguelen hotspot, and now lies on the Antarctic plate.[24]
 
 The major part of the volcanic formations visible on the islands is characteristic of an effusive volcanism, which caused a trap rock formation to start emerging above the level of the ocean 35 million years ago. The accumulation is of a considerable amount; basalt flows, each with a thickness of three to ten metres, stacked on top of each other, sometimes up to a depth of . This form of volcanism creates a monumental relief shaped as stairs of pyramids.
@@ -127,7 +123,7 @@ Other forms of volcanism are present locally, such as the strombolian volcano Mo
 
 No eruptive activity has been recorded in historic times, but some fumaroles are still active in the south-west of Grande-Terre island.
 
-Kerguelen_MontRoss.JPG]]
+]]
 
 A few lignite strata, trapped in basalt flows, reveal fossilised araucarian fragments, dated at about 14 million years of age.
 
@@ -155,7 +151,7 @@ Waves up to high are common, but there are many sheltered places where ships can
 
 Flora and fauna
 
-Pringlea_antiscorbutica_Mayes_fake.jpg The islands are part of the Southern Indian Ocean Islands tundra ecoregion that includes several subantarctic islands. Plant life is mainly limited to grasses, mosses and lichens, although the islands are also known for the indigenous, edible Kerguelen cabbage, a good source of vitamin C to mariners.[28] The main indigenous animals are insects along with large populations of ocean-going seabirds, seals and penguins.[29]
+The islands are part of the Southern Indian Ocean Islands tundra ecoregion that includes several subantarctic islands. Plant life is mainly limited to grasses, mosses and lichens, although the islands are also known for the indigenous, edible Kerguelen cabbage, a good source of vitamin C to mariners.[28] The main indigenous animals are insects along with large populations of ocean-going seabirds, seals and penguins.[29]
 
 The wildlife is particularly vulnerable to introduced species and one particular problem has been cats. The main island is the home of a well-established feral cat population, descended from ships' cats.[30] They survive on sea birds and the feral rabbits that were introduced to the islands. There are also populations of wild sheep (_Ovis orientalis orientalis_) and reindeer.
 

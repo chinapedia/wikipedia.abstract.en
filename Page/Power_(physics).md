@@ -53,7 +53,7 @@ In the context of energy conversion, it is more customary to use the symbol _E_ 
 
 Mechanical power
 
-Horsepower_plain.svg by 1 meter in 1 second.]] Power in mechanical systems is the combination of forces and movement. In particular, power is the product of a force on an object and the object's velocity, or the product of a torque on a shaft and the shaft's angular velocity.
+by 1 meter in 1 second.]] Power in mechanical systems is the combination of forces and movement. In particular, power is the product of a force on an object and the object's velocity, or the product of a torque on a shaft and the shaft's angular velocity.
 
 Mechanical power is also described as the time derivative of work. In mechanics, the work done by a force F on an object that travels along a curve _C_ is given by the line integral:
 
@@ -108,7 +108,7 @@ These relations are important because they define the maximum performance of a d
 
 Electrical power
 
-Ansel_Adams_-_National_Archives_79-AAB-02.jpg photograph of electrical wires of the Boulder Dam Power Units, 1941–1942]] The instantaneous electrical power _P_ delivered to a component is given by
+photograph of electrical wires of the Boulder Dam Power Units, 1941–1942]] The instantaneous electrical power _P_ delivered to a component is given by
 
 _P_(_t_) = _I_(_t_) ⋅ _V_(_t_) 
 
@@ -129,8 +129,6 @@ is the resistance, measured in ohms.
 
 
 Peak power and duty cycle
-
-peak-power-average-power-tau-T.png
 
 In the case of a periodic signal s(t) of period T, like a train of identical pulses, the instantaneous power p(t) = |s(t)|² is also a periodic function of period T. The _peak power_ is simply defined by:
 

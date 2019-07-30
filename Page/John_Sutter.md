@@ -5,7 +5,7 @@ Biography
 
 Early life
 
-Sutter_Birthplace.jpg, Baden, Germany.]] Johann August Sutter was born [3] on February 23, 1803, in Kandern,[4] Baden (present-day Germany); his father came from the nearby town of Rünenberg in the Canton of Basel in Switzerland.
+, Baden, Germany.]] Johann August Sutter was born [3] on February 23, 1803, in Kandern,[4] Baden (present-day Germany); his father came from the nearby town of Rünenberg in the Canton of Basel in Switzerland.
 
 Johann went to school in Neuchâtel, Switzerland. At age 21 he married [5] the daughter of a rich widow. He operated a store, but showed more interest in spending money than in earning it. Because of family circumstances and mounting debts, Johann faced charges that would have him placed in jail. So he decided to dodge trial and ventured to America; he styled his name as Captain John Augustus Sutter.
 
@@ -20,11 +20,9 @@ The Columbia departed Fort Vancouver on November 11 and sailed to the Kingdom of
 
 Beginnings of Sutter's Fort
 
-JohannAugustSutter.jpg At the time of Sutter's arrival, Alta California was a province of Mexico and had a population of only about 1,000 Europeans and an estimated 100,000-700,000 Native Americans. Sutter had to go to the capital at Monterey to obtain permission from the governor, Juan Bautista Alvarado, to settle in the territory. Alvarado saw Sutter's plan of establishing a colony in Central Valley as useful in "buttressing the frontier which he was trying to maintain against Indians, Russians, Americans and British."[12]
+At the time of Sutter's arrival, Alta California was a province of Mexico and had a population of only about 1,000 Europeans and an estimated 100,000-700,000 Native Americans. Sutter had to go to the capital at Monterey to obtain permission from the governor, Juan Bautista Alvarado, to settle in the territory. Alvarado saw Sutter's plan of establishing a colony in Central Valley as useful in "buttressing the frontier which he was trying to maintain against Indians, Russians, Americans and British."[12]
 
 The governor stipulated however that for Sutter to qualify for land ownership, he had to reside in the territory for a year and become a Mexican citizen, which he did on August 29, 1840.[13] Construction was begun in August 1839 on a fortified settlement which Sutter named New Helvetia, or "New Switzerland," after his homeland, "Helvetia" being the Latin name for Switzerland. Sutter often began to identify himself as 'Captain Sutter of the Swiss Guard'. When the settlement was completed in 1841, on June 18, he received title to on the Sacramento River. The site is now part of the California state capital of Sacramento.
-
-Sutter's_Fort_-_A_tour_of_duty_1849.jpg
 
 A Francophile, Sutter threatened to raise the French flag over California and place New Helvetia under French protection,[14] but in 1846 California was occupied by the United States in the Mexican–American War. Sutter at first supported the establishment of an independent California Republic but when United States troops under John C. Frémont briefly seized control of his fort, Sutter did not resist because he was outnumbered.
 
@@ -42,7 +40,7 @@ In 1846, the American James Clyman wrote that Sutter “keeps 600 to 800 Indians
 
 Beginning of the Gold Rush
 
-Sutters_Mill.jpg In 1848, gold was discovered in that area. Initially, one of Sutter's most trusted employees, James W. Marshall, found gold at Sutter's Mill. It started when Sutter hired Marshall, a New Jersey native who had served with John C. Frémont in the Bear Flag revolt, to build a water-driven sawmill in Coloma, along the American River. Sutter was intent on building a city on his property (not yet named ), including housing and a wharf on the Sacramento River, and needed lumber for the construction. One morning, as Marshall inspected the tailrace for silt and debris, he noticed some gold nuggets and brought them to Sutter's attention. Together, they read an encyclopedia entry on gold and performed primitive tests to confirm whether it was precious metal. Sutter concluded that it was, in fact, gold, but he was very anxious that the discovery not disrupt his plans for construction and farming. At the same time, he set about gaining legitimate title to as much land near the discovery as possible.
+In 1848, gold was discovered in that area. Initially, one of Sutter's most trusted employees, James W. Marshall, found gold at Sutter's Mill. It started when Sutter hired Marshall, a New Jersey native who had served with John C. Frémont in the Bear Flag revolt, to build a water-driven sawmill in Coloma, along the American River. Sutter was intent on building a city on his property (not yet named ), including housing and a wharf on the Sacramento River, and needed lumber for the construction. One morning, as Marshall inspected the tailrace for silt and debris, he noticed some gold nuggets and brought them to Sutter's attention. Together, they read an encyclopedia entry on gold and performed primitive tests to confirm whether it was precious metal. Sutter concluded that it was, in fact, gold, but he was very anxious that the discovery not disrupt his plans for construction and farming. At the same time, he set about gaining legitimate title to as much land near the discovery as possible.
 
 Sutter's attempt at keeping the gold discovery quiet failed when merchant and newspaper publisher Samuel Brannan returned from Sutter's Mill to San Francisco with gold he had acquired there and began publicizing the find. Large crowds of people overran the land and destroyed nearly everything Sutter had worked for. To avoid losing everything, Sutter deeded his remaining land to his son John Augustus Sutter Jr. The younger Sutter, who had come from Switzerland and joined his father in September 1848, saw the commercial possibilities of the land and promptly started plans for building a new town he named Sacramento, after the Sacramento River. The elder Sutter deeply resented this; he had wanted the town named Sutterville (for them) and for it to be built near New Helvetia.
 
@@ -50,7 +48,7 @@ Sutter gave up New Helvetia to pay the last of his debts. He rejoined his family
 
 Land grant challenge
 
-Camp_Sutterville_plaque_historical_marker_666_with_pillar_in_background.jpg Camp_Sutterville_plaque_historical_marker_666.jpg Sutter's El Sobrante (Spanish for leftover) land grant was challenged by the Squatter's Association, and in 1858 the U.S. Supreme Court denied its validity.
+Sutter's El Sobrante (Spanish for leftover) land grant was challenged by the Squatter's Association, and in 1858 the U.S. Supreme Court denied its validity.
 
 Sutter got a letter of introduction to the Congress of the United States from the governor of California. He moved to Washington D.C. at the end of 1865, after Hock Farm was destroyed by fire in June 1865.
 
@@ -60,7 +58,7 @@ Sutter built his home across from the Lititz Springs Hotel, the present-day Gene
 
 Legacy
 
-General_sutter_grave.jpg, PA Moravian Cemetery]] There are numerous California landmarks bearing the name of Sutter. Sutter Street in downtown San Francisco, California is named for John A. Sutter. Sutter's Landing, Sutterville Road, Sutter Middle School, Sutter's Mill School, and Sutterville Elementary School in Sacramento, California are all named after him. The Sutterville Bend of the Sacramento River is named for Sutter, as is Sutter Health, a non-profit health care system in Northern California. The City of Sutter Creek, California is also named after him. In Acapulco, Mexico, the property that used to belong to John Augustus Sutter Jr. became the Hotel Sutter, which is still in service. The Sutter Buttes a mountain range in Yuba City, California (Sutter County) is named after him as well
+, PA Moravian Cemetery]] There are numerous California landmarks bearing the name of Sutter. Sutter Street in downtown San Francisco, California is named for John A. Sutter. Sutter's Landing, Sutterville Road, Sutter Middle School, Sutter's Mill School, and Sutterville Elementary School in Sacramento, California are all named after him. The Sutterville Bend of the Sacramento River is named for Sutter, as is Sutter Health, a non-profit health care system in Northern California. The City of Sutter Creek, California is also named after him. In Acapulco, Mexico, the property that used to belong to John Augustus Sutter Jr. became the Hotel Sutter, which is still in service. The Sutter Buttes a mountain range in Yuba City, California (Sutter County) is named after him as well
 
 The Johann Agust Sutter House in Lititz, Pennsylvania was listed on the National Register of Historic Places in 1982.[19]
 

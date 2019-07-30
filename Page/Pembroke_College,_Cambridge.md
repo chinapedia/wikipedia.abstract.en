@@ -9,7 +9,7 @@ The college's current master is Chris Smith, Baron Smith of Finsbury.
 
 History
 
-Portrait_of_Mary_Countess_of_Pembroke_(4672101).jpg Marie de St Pol, Countess of Pembroke (1303-1377) founded Pembroke College, Cambridge. On Christmas Eve 1347, Edward III granted Marie de St Pol, widow of the Earl of Pembroke, the licence for the foundation of a new educational establishment in the young university at Cambridge. The _Hall of Valence Mary_ ("Custos & Scolares Aule Valence Marie in Cantebrigg'"), as it was originally known, was thus founded to house a body of students and fellows.[2] The statutes were notable in that they both gave preference to students born in France who had already studied elsewhere in England, and that they required students to report fellow students if they indulged in excessive drinking or visited disreputable houses.
+Marie de St Pol, Countess of Pembroke (1303-1377) founded Pembroke College, Cambridge. On Christmas Eve 1347, Edward III granted Marie de St Pol, widow of the Earl of Pembroke, the licence for the foundation of a new educational establishment in the young university at Cambridge. The _Hall of Valence Mary_ ("Custos & Scolares Aule Valence Marie in Cantebrigg'"), as it was originally known, was thus founded to house a body of students and fellows.[2] The statutes were notable in that they both gave preference to students born in France who had already studied elsewhere in England, and that they required students to report fellow students if they indulged in excessive drinking or visited disreputable houses.
 
 The college was later renamed Pembroke Hall, and finally became Pembroke College in 1856.
 
@@ -22,7 +22,7 @@ Buildings
 
 Old Court
 
-Pembroke_College,_Cambridge_by_Loggan_1690_-_gbooks_prG_KpObd3UC_PA80-IA1.png, published in 1690.]] The first buildings comprised a single court (now called Old Court) containing all the component parts of a college – chapel, hall, kitchen and buttery, master's lodgings, students' rooms – and the statutes provided for a manciple, a cook, a barber and a laundress. Both the founding of the college and the building of the city's first college Chapel (1355) required the grant of a papal bull.
+, published in 1690.]] The first buildings comprised a single court (now called Old Court) containing all the component parts of a college – chapel, hall, kitchen and buttery, master's lodgings, students' rooms – and the statutes provided for a manciple, a cook, a barber and a laundress. Both the founding of the college and the building of the city's first college Chapel (1355) required the grant of a papal bull.
 
 The original court was the university's smallest at only by , but was enlarged to its current size in the nineteenth century by demolishing the south range.
 
@@ -30,21 +30,19 @@ The college's gatehouse is the oldest in Cambridge.
 
 Chapel
 
-cmglee_Cambridge_Pembroke_College_chapel.jpg
-
 The original Chapel now forms the Old Library and has a striking seventeenth-century plaster ceiling, designed by Henry Doogood, showing birds flying overhead. Around the Civil War, one of Pembroke's fellows and Chaplain to the future Charles I, Matthew Wren, was imprisoned by Oliver Cromwell. On his release after eighteen years, he fulfilled a promise by hiring his nephew Christopher Wren to build a great Chapel in his former college. The resulting Chapel was consecrated on St Matthew's Day, 1665, and the eastern end was extended by George Gilbert Scott in 1880, when it was consecrated on the Feast of the Annunciation.
 
 Expansion
 
-Dining_Hall,_Pembroke_college.jpg An increase in membership over the last 150 years saw a corresponding increase in building activity. The Hall was rebuilt in 1875–6 to designs by Alfred Waterhouse after he had declared the medieval Hall unsafe. As well as the Hall, Waterhouse designed a new range of rooms, Red Buildings (1871–72), in French Renaissance style, designed a new Master's Lodge on the site of Paschal Yard (1873, later to become N staircase), pulled down the old Lodge and the south range of Old Court to open a vista to the Chapel, and finally designed a new Library (1877–78) in the continental Gothic style. The construction of the new library was undertaken by Rattee and Kett.[4]
+An increase in membership over the last 150 years saw a corresponding increase in building activity. The Hall was rebuilt in 1875–6 to designs by Alfred Waterhouse after he had declared the medieval Hall unsafe. As well as the Hall, Waterhouse designed a new range of rooms, Red Buildings (1871–72), in French Renaissance style, designed a new Master's Lodge on the site of Paschal Yard (1873, later to become N staircase), pulled down the old Lodge and the south range of Old Court to open a vista to the Chapel, and finally designed a new Library (1877–78) in the continental Gothic style. The construction of the new library was undertaken by Rattee and Kett.[4]
 
 Waterhouse was dismissed as architect in 1878 and succeeded by George Gilbert Scott, who, after extending the Chapel, provided additional accommodation with the construction of New Court in 1881, with letters on a series of shields along the string course above the first floor spelling out the text from Psalm 127:1, ("Except the Lord build the house, their labour is but vain that build it").
 
-Ivy_Court,_Pembroke_College_Cambridge.jpg Building work continued into the 20th century with W. D. Caröe as architect. He added Pitt Building (M staircase) between Ivy Court and Waterhouse's Lodge, and extended New Court with the construction of O staircase on the other side of the Lodge. He linked his two buildings with an arched stone screen, Caröe Bridge, along Pembroke Street in a late Baroque style, the principal function of which was to act as a bridge by which undergraduates might cross the Master's forecourt at first-floor level from Pitt Building to New Court without leaving the College or trespassing in what was then the Fellows' Garden.
+Building work continued into the 20th century with W. D. Caröe as architect. He added Pitt Building (M staircase) between Ivy Court and Waterhouse's Lodge, and extended New Court with the construction of O staircase on the other side of the Lodge. He linked his two buildings with an arched stone screen, Caröe Bridge, along Pembroke Street in a late Baroque style, the principal function of which was to act as a bridge by which undergraduates might cross the Master's forecourt at first-floor level from Pitt Building to New Court without leaving the College or trespassing in what was then the Fellows' Garden.
 
 In 1926, as the Fellows had become increasingly disenchanted with Waterhouse's Hall, Maurice Webb was brought in to remove the open roof, put in a flat ceiling and add two storeys of sets above. The wall between the Hall and the Fellows' Parlour was taken down, and the latter made into a High Table dais. A new Senior Parlour was then created on the ground floor of Hitcham Building. The remodelling work was completed in 1949 when Murray Easton replaced the Gothic tracery of the windows with a simpler design in the style of the medieval Hall.
 
-Pembroke_College_Gardens.jpg In 1933 Maurice Webb built a new Master's Lodge in the south-east corner of the College gardens, on land acquired from Peterhouse in 1861. Following the war, further accommodation was created with the construction in 1957 of Orchard Building, so called because it stands on part of the Foundress's orchard. Finally, in a move to accommodate the majority of junior members on the College site rather than in hostels in the town, in the 1990s Eric Parry designed a new range of buildings on the site of the Master's Lodge, with a new Lodge at the west end. "Foundress Court" was opened in 1997 in celebration of the College's 650th Anniversary. In 2001 the Library was extended to the east and modified internally.
+In 1933 Maurice Webb built a new Master's Lodge in the south-east corner of the College gardens, on land acquired from Peterhouse in 1861. Following the war, further accommodation was created with the construction in 1957 of Orchard Building, so called because it stands on part of the Foundress's orchard. Finally, in a move to accommodate the majority of junior members on the College site rather than in hostels in the town, in the 1990s Eric Parry designed a new range of buildings on the site of the Master's Lodge, with a new Lodge at the west end. "Foundress Court" was opened in 1997 in celebration of the College's 650th Anniversary. In 2001 the Library was extended to the east and modified internally.
 
 In 2017, Pembroke College launched a new campaign of extension called the "Time and the place" (or the Mill Lane project), on the other side of Trumpington Street. This project will enlarge the size of the College by a third, with new social spaces, rooms and offices.[5]
 
@@ -67,14 +65,14 @@ The arms of Pembroke College were officially recorded in 1684. The formal blazon
 
 Traditions
 
-Pembroke_May_Ball.png Pembroke holds Formal Hall on every evening. Students of the college must wear gowns and arrive on time for Latin Grace, which starts the dinner. Like many Cambridge colleges, Pembroke also has its annual May Ball.
+Pembroke holds Formal Hall on every evening. Students of the college must wear gowns and arrive on time for Latin Grace, which starts the dinner. Like many Cambridge colleges, Pembroke also has its annual May Ball.
 
 According to popular legends, Pembroke is inhabited by ghosts occupying the Ivy Court.[8]
 
 
 Student life
 
-Pembroke_College_boathouse_-_geograph.org.uk_-_991199.jpg Pembroke College has both graduate and undergraduate students, termed Valencians,[9][10] after the College's original name, and its recreational rooms named as "parlours" rather than the more standard "combination room". The undergraduate student body is represented by the Junior Parlour Committee (JPC). The graduate community is represented by the Graduate Parlour Committee (GPC). In March 2016, the Junior Parlour Committee was featured in national newspapers after it cancelled the theme of an "Around The World In 80 Days" dance party.[11][12][13][14]
+Pembroke College has both graduate and undergraduate students, termed Valencians,[9][10] after the College's original name, and its recreational rooms named as "parlours" rather than the more standard "combination room". The undergraduate student body is represented by the Junior Parlour Committee (JPC). The graduate community is represented by the Graduate Parlour Committee (GPC). In March 2016, the Junior Parlour Committee was featured in national newspapers after it cancelled the theme of an "Around The World In 80 Days" dance party.[11][12][13][14]
 
 There are many clubs and societies organised by the students of the college, such as the boat club Pembroke College Boat Club and the college's dramatic society the Pembroke Players, which has been made famous by alumni such as Peter Cook, Eric Idle, Tim Brooke-Taylor, Clive James and Bill Oddie and is now in its 60th year.
 
@@ -186,7 +184,7 @@ File:Pitt the Younger.jpg|William Pitt the Younger, the youngest ever British Pr
 
 Institutions named after the college
 
-Pembroke_College_Campus,_Providence,_R.I_(61959).jpg Pembroke College, the former women's college at Brown University in the United States, was named for the principal building on the women's campus, Pembroke Hall, which was itself named in honour of the Pembroke College (Cambridge) alumnus Roger Williams, a co-founder of Rhode Island.[19]
+Pembroke College, the former women's college at Brown University in the United States, was named for the principal building on the women's campus, Pembroke Hall, which was itself named in honour of the Pembroke College (Cambridge) alumnus Roger Williams, a co-founder of Rhode Island.[19]
 
 In 1865 Pembroke College donated land for the formation of the Suffolk memorial to Prince Albert. The land at Framlingham in the county of Suffolk was used to build a school, The Albert Memorial College. The school today is known as Framlingham College and one of its seven houses is named Pembroke House in recognition of the contribution Pembroke College has made to the School.
 
@@ -194,8 +192,6 @@ In 1981, a decade after the merger of Pembroke College into Brown University, th
 
 
 See also
-
-War_Memorial_at_Pembroke_College,_Cambridge.jpg
 
 -   :Category:Fellows of Pembroke College, Cambridge
 -   List of organ scholars

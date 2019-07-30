@@ -1,5 +1,3 @@
-Majeranek2.jpg Majoram_spice.jpg
-
 MARJORAM (;[1] _ORIGANUM MAJORANA_) is a somewhat cold-sensitive perennial herb or undershrub with sweet pine and citrus flavors. In some Middle Eastern countries, marjoram is synonymous with oregano, and there the names SWEET MARJORAM and KNOTTED MARJORAM are used to distinguish it from other plants of the genus _Origanum_. It is also called POT MARJORAM,[2] although this name is also used for other cultivated species of _Origanum_.
 
 
@@ -15,7 +13,7 @@ Leaves are smooth, simple, petiolated, ovate to oblong-ovate, long, wide, with o
 
 Cultivation
 
-MarjoramEssOil.png Considered a tender perennial (USDA Zones 7–9),[6] marjoram can sometimes prove hardy even in zone 5.
+Considered a tender perennial (USDA Zones 7–9),[6] marjoram can sometimes prove hardy even in zone 5.
 
 Marjoram is cultivated for its aromatic leaves, either green or dry, for culinary purposes; the tops are cut as the plants begin to flower and are dried slowly in the shade. It is often used in herb combinations such as _herbes de Provence_ and _za'atar_. The flowering leaves and tops of marjoram are steam-distilled to produce an essential oil that is yellowish in color (darkening to brown as it ages). It has many chemical components, some of which are borneol, camphor, and pinene.
 

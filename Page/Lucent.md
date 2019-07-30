@@ -5,7 +5,7 @@ Lucent was merged with Alcatel SA of France in a merger of equals on December 1,
 
 Name
 
-Lucent_1997_Ad.jpg in IEEE Internet Computing, Volume 1, Number 2, March–April 1997]] Lucent means "they shine" in Latin.[3] The name was applied in 1996 at the time of the split from AT&T.
+in IEEE Internet Computing, Volume 1, Number 2, March–April 1997]] Lucent means "they shine" in Latin.[3] The name was applied in 1996 at the time of the split from AT&T.
 
 The name was widely criticised, as the logo was to be, both internally and externally. Corporate communications and business cards included the strapline 'Bell Labs Innovations' in a bid to retain the prestige of the internationally famous research lab, within a new business under an as-yet unknown name.[4]
 
@@ -64,7 +64,7 @@ Lucent was divided into several core groups:
 
 Murray Hill facility
 
-Lucent_HQ.gif The Murray Hill anechoic chamber, built in 1940, is the world's oldest wedge-based anechoic chamber. The interior room measures approximately high by wide by deep. The exterior concrete and brick walls are about thick to keep outside noise from entering the chamber. The chamber absorbs over 99.995% of the incident acoustic energy above 200 Hz. At one time the Murray Hill chamber was cited in the Guinness Book of World Records as the world's quietest room. It is possible to hear the sounds of skeletal joints and heart beats very prominently.
+The Murray Hill anechoic chamber, built in 1940, is the world's oldest wedge-based anechoic chamber. The interior room measures approximately high by wide by deep. The exterior concrete and brick walls are about thick to keep outside noise from entering the chamber. The chamber absorbs over 99.995% of the incident acoustic energy above 200 Hz. At one time the Murray Hill chamber was cited in the Guinness Book of World Records as the world's quietest room. It is possible to hear the sounds of skeletal joints and heart beats very prominently.
 
 The Murray Hill facility was the global headquarters for Lucent Technologies. The Murray Hill facility also has the largest copper-roof in the world. When Lucent Technologies was experiencing financial troubles in 2000 and 2001, one out of every three fluorescent lights was turned off in the facility. The same was done in the Naperville, Illinois, and Allentown, Pennsylvania, facilities for a while. The facility had a cricket field and featured a nearby station from which enthusiasts could control RC airplanes and helicopters.
 

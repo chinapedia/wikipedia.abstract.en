@@ -385,7 +385,7 @@ On July 1, 1975, Freddie Glenn, Michael Corbett, and one other man abducted, rap
 
 Political views
 
-Kelsey_Grammer_fleet_week.jpg in New York City, in May 2006]]
+in New York City, in May 2006]]
 
 Grammer is a supporter of the Republican Party. In 2019 he called Washington politicians a "bunch of clowns."[63] He has expressed an interest in someday running for United States Congress.[64] He has also expressed an interest in running for Mayor of New York City,[65] and for the U.S. Presidency.[66] Grammer was a guest at President George W. Bush's first inauguration.[67] Grammer endorsed Rudy Giuliani in the 2008 presidential primary and later campaigned for John McCain in the general election.[68][69] Grammer promoted RightNetwork, a conservative start-up American television network.[70] He endorsed Michele Bachmann for the Republican nomination for president in 2012.[71] After Mitt Romney won the nomination, Grammer endorsed him.[72] He supported Ben Carson's candidacy for the Republican Presidential nomination in 2016, although he endorsed Donald Trump when the latter was selected.[73]
 

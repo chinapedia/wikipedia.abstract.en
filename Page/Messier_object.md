@@ -7,7 +7,7 @@ The catalogue consists of a diverse range of astronomical objects, ranging from 
 
 Lists and editions
 
-Charles_Messier.jpg|alt=The painting of Charles Messier]]
+|alt=The painting of Charles Messier]]
 
 The first edition of 1771 covered 45 objects numbered M1 to M45. The total list published by Messier in 1781 contained 103 objects, but the list was expanded through successive additions by other astronomers, motivated by notes in Messier's and Méchain's texts indicating that at least one of them knew of the additional objects. The first such addition came from Nicolas Camille Flammarion in 1921, who added Messier 104 after finding a note Messier made in a copy of the 1781 edition of the catalog. M105 to M107 were added by Helen Sawyer Hogg in 1947, M108 and M109 by Owen Gingerich in 1960, and M110 by Kenneth Glyn Jones in 1967.
 
@@ -31,8 +31,6 @@ Messier objects
 
 
 Star chart of Messier objects
-
-MessierStarChart.svg
 
 
 See also

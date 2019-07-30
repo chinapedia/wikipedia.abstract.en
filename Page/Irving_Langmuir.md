@@ -17,7 +17,7 @@ Langmuir attended several schools and institutes in America and Paris (1892–18
 
 Research
 
-Irving_Langmuir_and_Guglielmo_Marconi_in_lab.jpg _(right)_ a new 20 kW triode tube]] General_electric_pliotron_pp_schenectady_3.jpg
+_(right)_ a new 20 kW triode tube]]
 
 His initial contributions to science came from his study of light bulbs (a continuation of his Ph.D. work). His first major development was the improvement of the diffusion pump, which ultimately led to the invention of the high-vacuum rectifier and amplifier tubes. A year later, he and colleague Lewi Tonks discovered that the lifetime of a tungsten filament could be greatly lengthened by filling the bulb with an inert gas, such as argon, the critical factor (overlooked by other researchers) being the need for extreme cleanliness in all stages of the process. He also discovered that twisting the filament into a tight coil improved its efficiency. These were important developments in the history of the incandescent light bulb. His work in surface chemistry began at this point, when he discovered that molecular hydrogen introduced into a tungsten-filament bulb dissociated into atomic hydrogen and formed a layer one atom thick on the surface of the bulb.[8]
 
@@ -28,8 +28,6 @@ As he continued to study filaments in vacuum and different gas environments, he 
 He introduced the concept of electron temperature and in 1924 invented the diagnostic method for measuring both temperature and density with an electrostatic probe, now called a Langmuir probe and commonly used in plasma physics. The current of a biased probe tip is measured as a function of bias voltage to determine the local plasma temperature and density. He also discovered atomic hydrogen, which he put to use by inventing the atomic hydrogen welding process; the first plasma weld ever made. Plasma welding has since been developed into gas tungsten arc welding.
 
 In 1917, he published a paper on the chemistry of oil films[14] that later became the basis for the award of the 1932 Nobel Prize in chemistry. Langmuir theorized that oils consisting of an aliphatic chain with a hydrophilic end group (perhaps an alcohol or acid) were oriented as a film one molecule thick upon the surface of water, with the hydrophilic group down in the water and the hydrophobic chains clumped together on the surface. The thickness of the film could be easily determined from the known volume and area of the oil, which allowed investigation of the molecular configuration before spectroscopic techniques were available.[15]
-
-Langmuir.jpg
 
 Later years
 
@@ -42,8 +40,6 @@ Based on his work at General Electric, John B. Taylor developed a detector ioniz
 He joined Katharine B. Blodgett to study thin films and surface adsorption. They introduced the concept of a monolayer (a layer of material one molecule thick) and the two-dimensional physics which describe such a surface. In 1932 he received the Nobel Prize in Chemistry "for his discoveries and investigations in surface chemistry." In 1938, Langmuir's scientific interests began to turn to atmospheric science and meteorology. One of his first ventures, although tangentially related, was a refutation of the claim of entomologist Charles H. T. Townsend that the deer botfly flew at speeds of over 800 miles per hour. Langmuir estimated the fly's speed at 25 miles per hour.
 
 After observing windrows of drifting seaweed in the Sargasso Sea he discovered a wind-driven surface circulation in the sea. It is now called the Langmuir circulation.
-
-Irving_Langmuir_House_2008.jpg
 
 During World War II, Langmuir worked on improving naval sonar for submarine detection, and later to develop protective smoke screens and methods for deicing aircraft wings. This research led him to theorize that the introduction of dry ice and iodide into a sufficiently moist cloud of low temperature could induce precipitation (cloud seeding); though in frequent practice, particularly in Australia and the People's Republic of China, the efficiency of this technique remains controversial today.
 

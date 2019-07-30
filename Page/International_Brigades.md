@@ -7,8 +7,6 @@ The International Brigades represented Comintern and Joseph Stalin's commitment 
 
 Formation and recruitment
 
-Bulgarian_interbrigadiers_in_1937.jpg International_brigades_hungary_flag.svg
-
 Using foreign Communist Parties to recruit volunteers for Spain was first proposed in the Soviet Union in September 1936—apparently at the suggestion of Maurice Thorez[6]—by Willi Münzenberg, chief of Comintern propaganda for Western Europe. As a security measure, non-Communist volunteers would first be interviewed by an NKVD agent.
 
 By the end of September, the Italian and French Communist Parties had decided to set up a column. Luigi Longo, ex-leader of the Italian Communist Youth, was charged to make the necessary arrangements with the Spanish government. The Soviet Ministry of Defense also helped, since they had experience of dealing with corps of international volunteers during the Russian Civil War. The idea was initially opposed by Largo Caballero, but after the first setbacks of the war, he changed his mind, and finally agreed to the operation on 22 October. However, the Soviet Union did not withdraw from the Non-Intervention Committee, probably to avoid diplomatic conflict with France and the United Kingdom.
@@ -32,7 +30,7 @@ Service
 
 First engagements: Siege of Madrid
 
-Flag_of_the_International_Brigades.svg with the three-pointed star of the Popular Front in the center]] The Battle of Madrid was a major success for the Republic. It staved off the prospect of a rapid defeat at the hands of Francisco Franco's forces. The role of the International Brigades in this victory was generally recognised, but was exaggerated by Comintern propaganda, so that the outside world heard only of their victories, and not those of Spanish units. So successful was such propaganda that the British Ambassador, Sir Henry Chilton, declared that there were no Spaniards in the army which had defended Madrid. The International Brigade forces that fought in Madrid arrived after other successful Republican fighting. Of the 40,000 Republican troops in the city, the foreign troops numbered less than 3,000.[11] Even though the International Brigades did not win the battle by themselves, nor significantly change the situation, they certainly did provide an example by their determined fighting, and improved the morale of the population by demonstrating the concern of other nations in the fight. Many of the older members of the International Brigades provided valuable combat experience, having fought during the First World War (Spain remained neutral in 1914–18) and the Irish War of Independence (Some had fought in the British Army while others had fought in the IRA).
+with the three-pointed star of the Popular Front in the center]] The Battle of Madrid was a major success for the Republic. It staved off the prospect of a rapid defeat at the hands of Francisco Franco's forces. The role of the International Brigades in this victory was generally recognised, but was exaggerated by Comintern propaganda, so that the outside world heard only of their victories, and not those of Spanish units. So successful was such propaganda that the British Ambassador, Sir Henry Chilton, declared that there were no Spaniards in the army which had defended Madrid. The International Brigade forces that fought in Madrid arrived after other successful Republican fighting. Of the 40,000 Republican troops in the city, the foreign troops numbered less than 3,000.[11] Even though the International Brigades did not win the battle by themselves, nor significantly change the situation, they certainly did provide an example by their determined fighting, and improved the morale of the population by demonstrating the concern of other nations in the fight. Many of the older members of the International Brigades provided valuable combat experience, having fought during the First World War (Spain remained neutral in 1914–18) and the Irish War of Independence (Some had fought in the British Army while others had fought in the IRA).
 
 One of the strategic positions in Madrid was the Casa de Campo. There the Nationalist troops were Moroccans, commanded by General José Enrique Varela. They were stopped by III and IV Brigades of the Spanish Republican Army.
 
@@ -66,7 +64,7 @@ On 22 February 1937 the League of Nations Non-Intervention Committee ban on fore
 
 Battle of Guadalajara
 
-Flag_of_Giustizia_e_Liberta.svg'', an Italian anti-fascist resistance movement led by Carlo Rosselli. Rosselli took part in the war, uniting a mix of Italian anti-fascist political forces, including socialists, anarchists, communists, and liberals together to support the Republican cause and took part in the fighting. Rosselli was assassinated by a French fascist in 1937.]] After the failed assault on the Jarama, the Nationalists attempted another assault on Madrid, from the North-East this time. The objective was the town of Guadalajara, 50 km from Madrid. The whole Italian expeditionary corps — 35,000 men, with 80 battle tanks and 200 field artillery — was deployed, as Benito Mussolini wanted the victory to be credited to Italy. On 9 March 1937, the Italians made a breach in the Republican lines, but did not properly exploit the advance. However, the rest of the Nationalist army was advancing, and the situation appeared critical for the Republicans. A formation drawn from the best available units of the Republican army, including the XI and XII International Brigades, was quickly assembled.
+'', an Italian anti-fascist resistance movement led by Carlo Rosselli. Rosselli took part in the war, uniting a mix of Italian anti-fascist political forces, including socialists, anarchists, communists, and liberals together to support the Republican cause and took part in the fighting. Rosselli was assassinated by a French fascist in 1937.]] After the failed assault on the Jarama, the Nationalists attempted another assault on Madrid, from the North-East this time. The objective was the town of Guadalajara, 50 km from Madrid. The whole Italian expeditionary corps — 35,000 men, with 80 battle tanks and 200 field artillery — was deployed, as Benito Mussolini wanted the victory to be credited to Italy. On 9 March 1937, the Italians made a breach in the Republican lines, but did not properly exploit the advance. However, the rest of the Nationalist army was advancing, and the situation appeared critical for the Republicans. A formation drawn from the best available units of the Republican army, including the XI and XII International Brigades, was quickly assembled.
 
 At dawn on 10 March, the Nationalists closed in, and by noon, the Garibaldi Battalion counterattacked. Some confusion arose from the fact that the sides were not aware of each other's movements, and that both sides spoke Italian; this resulted in scouts from both sides exchanging information without realising they were enemies.[15] The Republican lines advanced and made contact with XI International Brigade. Nationalist tanks were shot at and infantry patrols came into action.
 
@@ -82,7 +80,7 @@ Although exact figures are not available, an estimated 5,857 to 25,229 brigadier
 
 Disbandment
 
-Britishv-cota705.JPG plaque honoring the British soldiers of the International Brigades who died defending the Spanish Republic at the monument on Hill 705, Serra de Pàndols.]] In October 1938, at the height of the Battle of the Ebro, the Non-Intervention Committee ordered the withdrawal of the International Brigades which were fighting on the Republican side.[17] The Republican government of Juan Negrín announced the decision in the League of Nations on 21 September 1938. The disbandment was part of an ill-advised effort to get the Nationalists' foreign backers to withdraw their troops and to persuade the Western democracies such as France and Britain to end their arms embargo on the Republic.
+plaque honoring the British soldiers of the International Brigades who died defending the Spanish Republic at the monument on Hill 705, Serra de Pàndols.]] In October 1938, at the height of the Battle of the Ebro, the Non-Intervention Committee ordered the withdrawal of the International Brigades which were fighting on the Republican side.[17] The Republican government of Juan Negrín announced the decision in the League of Nations on 21 September 1938. The disbandment was part of an ill-advised effort to get the Nationalists' foreign backers to withdraw their troops and to persuade the Western democracies such as France and Britain to end their arms embargo on the Republic.
 
 By this time there were about an estimated 10,000 foreign volunteers still serving in Spain for the Republican side, and about 50,000 foreign conscripts for the Nationalists (excluding another 30,000 Moroccans).[18] Perhaps half of the International Brigadists were exiles or refugees from Nazi Germany, Fascist Italy or other countries, such as Hungary, which had authoritarian right-wing governments at the time. These men could not safely return home and some were instead given honorary Spanish citizenship and integrated into Spanish units of the Popular Army. The remainder were repatriated to their own countries. The Belgian and Dutch volunteers lost their citizenship because they had served in a foreign army.[19]
 
@@ -104,8 +102,6 @@ Later in the war, military discipline tightened and learning Spanish became mand
 MKVD created in 1937 ‘Control and Security Service’.
 
 Non-Spanish battalions
-
-Medal_of_the_International_Brigades.jpg
 
 -   Abraham Lincoln Battalion: from the United States, Canada and Irish Free State, with some British, Cypriots and Chileans who lived in New York and were members of the Chilean worker club of New York.
     -   Connolly Column: This mostly Irish republican group fought as a section of the Lincoln Battalion
@@ -157,7 +153,7 @@ Incl. Austria, annexed in 1938 | 3,000[33]–5,000[34] Beevor quotes 2,217 Germa
 
 Status after the war
 
-Stamps_of_Germany_(DDR)_1966,_MiNr_1198.jpg with a fight scene of the International Brigades in the background]] Since the Civil War was eventually won by the Nationalists, the Brigadiers were initially on the "wrong side" of history, especially since most of their home countries had a right-wing government (in France, for instance, the Popular Front was not in power any more).
+with a fight scene of the International Brigades in the background]] Since the Civil War was eventually won by the Nationalists, the Brigadiers were initially on the "wrong side" of history, especially since most of their home countries had a right-wing government (in France, for instance, the Popular Front was not in power any more).
 
 However, since most of these countries found themselves at war with the very powers which had been supporting the Nationalists, the Brigadists gained some prestige as the first guard of the democracies, having fought a prophetical combat. Retrospectively, it was clear that the war in Spain was as much a precursor of the Second World War as a Spanish civil war.
 
@@ -292,7 +288,7 @@ Jarama Battlefield
 
 Symbolism and heraldry
 
-Internationalist_Star.svg The International Brigades were inheritors of a socialist aesthetic.
+The International Brigades were inheritors of a socialist aesthetic.
 
 The flags featured the colours of the Spanish Republic: red, yellow and purple, often along with socialist symbols (red flags, hammer and sickle, fist). The emblem of the brigades themselves was the three-pointed red star, which is often featured.
 

@@ -1,5 +1,3 @@
-Newport_News_Shipyard,_aerial_view,_Oct_1994.jpeg
-
 NEWPORT NEWS SHIPBUILDING (NNS), a division of Huntington Ingalls Industries, is the largest industrial employer in Virginia, and sole designer, builder and refueler of United States Navy aircraft carriers and one of two providers of U.S. Navy submarines. Founded as the Chesapeake Dry Dock and Construction Co. in 1886, Newport News Shipbuilding has built more than 800 ships, including both naval and commercial ships. Located in the city of Newport News, their facilities span more than , strategically positioned in one of the great harbors of the East Coast.
 
 The shipyard is a major employer, not only for the lower Virginia Peninsula, but also portions of Hampton Roads south of the James River and the harbor, portions of the Middle Peninsula region, and even some northeastern counties of North Carolina.
@@ -13,11 +11,11 @@ Newport News Shipbuilding also performs refueling and complex overhaul (RCOH) wo
 
 History
 
-1899_Newport_News_Shipbuilding_Co._advertisement.jpg Industrialist Collis P. Huntington (1821–1900) provided crucial funding to complete the Chesapeake and Ohio Railroad (C&O) from Richmond, Virginia to the Ohio River in the early 1870s. Although originally built for general commerce, this C&O rail link to the midwest was soon also being used to transport bituminous coal from the previously isolated coalfields, adjacent to the New River and the Kanawha River in West Virginia. In 1881, the Peninsula Extension of the C&O was built from Richmond down the Virginia Peninsula to reach a new coal pier on Hampton Roads in Warwick County near the small unincorporated community of Newport News Point. However, building the railroad and coal pier was only the first part of Huntington's dreams for Newport News.
+Industrialist Collis P. Huntington (1821–1900) provided crucial funding to complete the Chesapeake and Ohio Railroad (C&O) from Richmond, Virginia to the Ohio River in the early 1870s. Although originally built for general commerce, this C&O rail link to the midwest was soon also being used to transport bituminous coal from the previously isolated coalfields, adjacent to the New River and the Kanawha River in West Virginia. In 1881, the Peninsula Extension of the C&O was built from Richmond down the Virginia Peninsula to reach a new coal pier on Hampton Roads in Warwick County near the small unincorporated community of Newport News Point. However, building the railroad and coal pier was only the first part of Huntington's dreams for Newport News.
 
 The shipyard's early years
 
-SS_Monroe_launch_1902.png Northrop_Grumman_Newport_News_032007_001.png In 1886, Huntington built a shipyard to repair ships servicing this transportation hub. In 1891 Newport News Shipbuilding and Drydock Company delivered its first ship, the tugboat _Dorothy_. By 1897 NNS had built three warships for the US Navy: , and .
+In 1886, Huntington built a shipyard to repair ships servicing this transportation hub. In 1891 Newport News Shipbuilding and Drydock Company delivered its first ship, the tugboat _Dorothy_. By 1897 NNS had built three warships for the US Navy: , and .
 
 When Collis died in 1900, his nephew Henry E. Huntington inherited much of his uncle's fortune. He also married Collis' widow Arabella Huntington, and assumed Collis' leadership role with Newport News Shipbuilding and Drydock Company. Under Henry Huntington's leadership, growth continued.
 
@@ -27,9 +25,9 @@ In 1914 NNS built SS _Medina_ for the Mallory Steamship Company; as she was unti
 
 Newport News and the shipyard
 
-NNS_41809.JPG In the early years, leaders of the Newport News community and those of the shipyard were virtually interchangeable. Shipyard president Walter A. Post served from March 9, 1911 to February 12, 1912, when he died. Earlier, he had come to the area as one of the builders of the C&O Railway's terminals, and had served as the first mayor of Newport News after it became an independent city in 1896. It was on March 14, 1914 that Albert Lloyd Hopkins, a young New Yorker trained in engineering, succeeded Post as president of the company. In May 1915 while traveling to England on shipyard business aboard , Albert L. Hopkins tenure and life ended prematurely when that ship was torpedoed and sunk by a German U-boat[6] off Queenstown on the Irish coast. His assistant, Frederic Gauntlett, was also on board, but was able to swim to safety.[7] Homer Lenoir Ferguson was company vice president when Hopkins died, and assumed the presidency the following August.[8] He saw the company through both world wars, became a noted community leader, and was a co-founder of the Mariners' Museum with Archer Huntington. He served until July 31, 1946, after World War II had ended on both the European and Pacific fronts.
+In the early years, leaders of the Newport News community and those of the shipyard were virtually interchangeable. Shipyard president Walter A. Post served from March 9, 1911 to February 12, 1912, when he died. Earlier, he had come to the area as one of the builders of the C&O Railway's terminals, and had served as the first mayor of Newport News after it became an independent city in 1896. It was on March 14, 1914 that Albert Lloyd Hopkins, a young New Yorker trained in engineering, succeeded Post as president of the company. In May 1915 while traveling to England on shipyard business aboard , Albert L. Hopkins tenure and life ended prematurely when that ship was torpedoed and sunk by a German U-boat[6] off Queenstown on the Irish coast. His assistant, Frederic Gauntlett, was also on board, but was able to swim to safety.[7] Homer Lenoir Ferguson was company vice president when Hopkins died, and assumed the presidency the following August.[8] He saw the company through both world wars, became a noted community leader, and was a co-founder of the Mariners' Museum with Archer Huntington. He served until July 31, 1946, after World War II had ended on both the European and Pacific fronts.
 
-Hilton_Village.jpg Just northwest of the shipyard, Hilton Village, one of the first planned communities in the country, was built by the federal government to house shipyard workers in 1918. The planners met with the wives of shipyard workers. Based on their input 14 house plans were designed for the projected 500 English-village-style homes. After the war, in 1922, Henry Huntington acquired it from the government, and helped facilitate the sale of the homes to shipyard employees and other local residents. Three streets there were named after Post, Hopkins, and Ferguson.[9]
+Just northwest of the shipyard, Hilton Village, one of the first planned communities in the country, was built by the federal government to house shipyard workers in 1918. The planners met with the wives of shipyard workers. Based on their input 14 house plans were designed for the projected 500 English-village-style homes. After the war, in 1922, Henry Huntington acquired it from the government, and helped facilitate the sale of the homes to shipyard employees and other local residents. Three streets there were named after Post, Hopkins, and Ferguson.[9]
 
 Navy orders during and after World War I
 
@@ -43,7 +41,7 @@ In 1927 NNS launched the world's first significant turbo-electric ocean liner: P
 
 Navy orders before and during World War II
 
-The newly built {{USS By 1940 the Navy had ordered a battleship, seven more aircraft carriers and four cruisers. During World War II, NNS built ships as part of the U.S. Government's Emergency Shipbuilding Program, and swiftly filled requests for "Liberty ships" that were needed during the war. It founded the North Carolina Shipbuilding Company, an emergency yard on the banks of the Cape Fear River and launched its first Liberty ship before the end of 1941, building 243 ships in all, including 186 Libertys. For its contributions during the war, the Navy awarded the company its "E" pennant for excellence in shipbuilding. NNS ranked 23rd among United States corporations in the value of wartime production contracts.[12]
+By 1940 the Navy had ordered a battleship, seven more aircraft carriers and four cruisers. During World War II, NNS built ships as part of the U.S. Government's Emergency Shipbuilding Program, and swiftly filled requests for "Liberty ships" that were needed during the war. It founded the North Carolina Shipbuilding Company, an emergency yard on the banks of the Cape Fear River and launched its first Liberty ship before the end of 1941, building 243 ships in all, including 186 Libertys. For its contributions during the war, the Navy awarded the company its "E" pennant for excellence in shipbuilding. NNS ranked 23rd among United States corporations in the value of wartime production contracts.[12]
 
 Post-war ships
 
@@ -68,7 +66,7 @@ On March 15, 2011 Northrop Grumman announced the spin-off of this sector into a 
 
 Ships built
 
-Ships built at the Newport News yard include: Northrop_Grumman_Newport_News_032007_tugboat_dorothy.png
+Ships built at the Newport News yard include:
 
 -   Tugboat _Dorothy_, the shipyard's first vessel, delivered in 1891, on display in yard
 -   , lead battleship of its class,

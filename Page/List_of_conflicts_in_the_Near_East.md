@@ -1,4 +1,4 @@
-Middle_East_geographic.jpg The area known as the "Near East" is usually referred to as Middle East in modern contexts. For periods predating Classical Antiquity, the common term is Ancient Near East. The Near East is generally associated with Anatolia, the Levant, Mesopotamia, Persia, Egypt, the Arabian Peninsula, and the Caucasus.
+The area known as the "Near East" is usually referred to as Middle East in modern contexts. For periods predating Classical Antiquity, the common term is Ancient Near East. The Near East is generally associated with Anatolia, the Levant, Mesopotamia, Persia, Egypt, the Arabian Peninsula, and the Caucasus.
 
 
 Ancient Near East conflicts

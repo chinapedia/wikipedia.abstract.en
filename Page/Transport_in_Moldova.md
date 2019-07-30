@@ -9,8 +9,6 @@ For transportation in the Soviet Union, see Transport in the Soviet Union.
 
 Railways
 
-MD.ST.Strășeni_modern.train.leaving_2012-10-21.JPG
-
 _total:_
 _broad gauge:_ of gauge (2005) The entire length of the Moldovan railway network is single track and not electrified. Much of the railway infrastructure is still in a poor state, all of the rolling stock being inherited from the former Soviet Union. Average commercial speed for passenger trains is (including stops).
 
@@ -23,7 +21,7 @@ Between Moldova and Romania there is a break-of-gauge (Romania employing standar
 
 Highways
 
-MD_license_plate_ABC012_2015.svg in Moldova]]
+in Moldova]]
 _total:_
 _paved:_
 _unpaved:_ (2003)
@@ -55,7 +53,7 @@ foreign-owned: 3 (Ukraine 3) (2006)
 
 Airports
 
-Airport_Chisinau.jpg]]
+]]
 
 12 (2006 est.). One airport (Chișinău International Airport) has commercial flights (approximately 20 destinations and 688,000 passengers in 2007).
 

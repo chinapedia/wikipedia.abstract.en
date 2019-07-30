@@ -14,7 +14,7 @@ The term _Mawlawī_/_Mowlavi_ (Persian) and (Turkish), also of Arabic origin, me
 
 Life
 
-Jalal_al-Din_Rumi,_Showing_His_Love_for_His_Young_Disciple_Hussam_al-Din_Chelebi.jpg mystics.]] Ahmad_ibn_Hajji_Abi_Bakr_al-Katib_-_Double-page_Illuminated_Frontispiece_-_Walters_W6252B_-_Full_Page.jpg), 1461 manuscript]] Bowl_of_Reflections,_early_13th_century.jpg.]]
+mystics.]] ), 1461 manuscript]] .]]
 
 Overview
 
@@ -50,7 +50,7 @@ Rumi's love for, and his bereavement at the death of, Shams found their expressi
 
 Later life and death
 
-Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg Mewlana had been spontaneously composing _ghazals_ (Persian poems), and these had been collected in the _Divan-i Kabir_ or Diwan Shams Tabrizi. Rumi found another companion in Salaḥ ud-Din-e Zarkub, a goldsmith. After Salah ud-Din's death, Rumi's scribe and favourite student, Hussam-e Chalabi, assumed the role of Rumi's companion. One day, the two of them were wandering through the Meram vineyards outside Konya when Hussam described to Rumi an idea he had had: "If you were to write a book like the _Ilāhīnāma_ of Sanai or the _Mantiq ut-Tayr_ of 'Attar, it would become the companion of many troubadours. They would fill their hearts from your work and compose music to accompany it." Rumi smiled and took out a piece of paper on which were written the opening eighteen lines of his _Masnavi_, beginning with:
+Mewlana had been spontaneously composing _ghazals_ (Persian poems), and these had been collected in the _Divan-i Kabir_ or Diwan Shams Tabrizi. Rumi found another companion in Salaḥ ud-Din-e Zarkub, a goldsmith. After Salah ud-Din's death, Rumi's scribe and favourite student, Hussam-e Chalabi, assumed the role of Rumi's companion. One day, the two of them were wandering through the Meram vineyards outside Konya when Hussam described to Rumi an idea he had had: "If you were to write a book like the _Ilāhīnāma_ of Sanai or the _Mantiq ut-Tayr_ of 'Attar, it would become the companion of many troubadours. They would fill their hearts from your work and compose music to accompany it." Rumi smiled and took out a piece of paper on which were written the opening eighteen lines of his _Masnavi_, beginning with:
 
 Hussam implored Rumi to write more. Rumi spent the next twelve years of his life in Anatolia dictating the six volumes of this masterwork, the _Masnavi_, to Hussam.
 
@@ -63,7 +63,7 @@ Georgian Queen Gürcü Hatun was a close friend of Rumi. She was the one who spo
 
 Teachings
 
-Shams_ud-Din_Tabriz_1502-1504_BNF_Paris.jpg''.]] Like other mystic and Sufi poets of Persian literature, Rumi's poetry speaks of love which infuses the world. Rumi's teachings also express the tenets summarized in the Quranic verse which Shams-e Tabrizi cited as the essence of prophetic guidance: "Know that ‘There is no god but He,’ and ask forgiveness for your sin" (Q. 47:19) In the interpretation attributed to Shams, the first part of the verse commands the humanity to seek knowledge of _tawhid_ (oneness of God), while the second instructs them to negate their own existence. In Rumi's terms, _tawhid_ is lived most fully through love, with the connection being made explicit in his verse that describes love as "that flame which, when it blazes up, burns away everything except the Everlasting Beloved."[63] Rumi's longing and desire to attain this ideal is evident in the following poem from his book the Masnavi:[64]
+''.]] Like other mystic and Sufi poets of Persian literature, Rumi's poetry speaks of love which infuses the world. Rumi's teachings also express the tenets summarized in the Quranic verse which Shams-e Tabrizi cited as the essence of prophetic guidance: "Know that ‘There is no god but He,’ and ask forgiveness for your sin" (Q. 47:19) In the interpretation attributed to Shams, the first part of the verse commands the humanity to seek knowledge of _tawhid_ (oneness of God), while the second instructs them to negate their own existence. In Rumi's terms, _tawhid_ is lived most fully through love, with the connection being made explicit in his verse that describes love as "that flame which, when it blazes up, burns away everything except the Everlasting Beloved."[63] Rumi's longing and desire to attain this ideal is evident in the following poem from his book the Masnavi:[64]
 
 The _Masnavi_ weaves fables, scenes from everyday life, Qur'anic revelations and exegesis, and metaphysics into a vast and intricate tapestry.
 
@@ -76,13 +76,13 @@ Rumi's favourite musical instrument was the ney (reed flute).[65]
 
 Major works
 
-Meeting_of_Jalal_al-Din_Rumi_and_Molla_Shams_al-Din.jpg era manuscript depicting Rumi and Shams-e Tabrizi.]]
+era manuscript depicting Rumi and Shams-e Tabrizi.]]
 
 Rumi's poetry is often divided into various categories: the quatrains (_rubayāt_) and odes (_ghazal_) of the _Divan_, the six books of the _Masnavi_. The prose works are divided into The Discourses, The Letters, and the _Seven Sermons_.
 
 Poetic works
 
-Turkey.Konya021.jpg, Konya, Turkey
+, Konya, Turkey
 
 ]]
 
@@ -153,7 +153,7 @@ Recordings of Rumi poems have made it to the USA's Billboard's Top 20 list. A se
 
 There is a famous landmark in Northern India, known as Rumi Gate, situated in Lucknow (the capital of Uttar Pradesh) named for Rumi.
 
-5000_TL_A_reverse.jpg Rumi and his mausoleum were depicted on the reverse of the 5000 Turkish lira banknotes of 1981–1994.[97]
+Rumi and his mausoleum were depicted on the reverse of the 5000 Turkish lira banknotes of 1981–1994.[97]
 
 Iranian world
 
@@ -165,7 +165,7 @@ The Mewlewī Sufi order was founded in 1273 by Rumi's followers after his death.
 
 According to tradition, Rumi was himself a notable musician who played the _robāb_, although his favourite instrument was the _ney_ or reed flute.[104] The music accompanying the _samāʿ_ consists of settings of poems from the _Maṭnawī_ and _Dīwān-e Kabīr_, or of Sultan Walad's poems.[105] The Mawlawīyah was a well-established Sufi order in the Ottoman Empire, and many of the members of the order served in various official positions of the Caliphate. The centre for the Mevlevi was in Konya. There is also a Mewlewī monastery (, _dargāh_) in Istanbul near the Galata Tower in which the _samāʿ_ is performed and accessible to the public. The Mewlewī order issues an invitation to people of all backgrounds:
 
-Turkey.Konya008.jpg, Turkey.]] During Ottoman times, the Mevlevi produced a number of notable poets and musicians, including Sheikh Ghalib, Ismail Rusuhi Dede of Ankara, Esrar Dede, Halet Efendi, and Gavsi Dede, who are all buried at the Galata Mewlewī Khāna (Turkish: _Mevlevi-Hane_) in Istanbul.[106] Music, especially that of the ney, plays an important part in the Mevlevi.
+, Turkey.]] During Ottoman times, the Mevlevi produced a number of notable poets and musicians, including Sheikh Ghalib, Ismail Rusuhi Dede of Ankara, Esrar Dede, Halet Efendi, and Gavsi Dede, who are all buried at the Galata Mewlewī Khāna (Turkish: _Mevlevi-Hane_) in Istanbul.[106] Music, especially that of the ney, plays an important part in the Mevlevi.
 
 With the foundation of the modern, secular Republic of Turkey, Mustafa Kemal Atatürk removed religion from the sphere of public policy and restricted it exclusively to that of personal morals, behaviour and faith. On 13 December 1925, a law was passed closing all the _tekke_s (dervish lodges) and _zāwiyas_ (chief dervish lodges), and the centres of veneration to which visits (_ziyārat_) were made. Istanbul alone had more than 250 _tekke_s as well as small centres for gatherings of various fraternities; this law dissolved the Sufi Orders, prohibited the use of mystical names, titles and costumes pertaining to their titles, impounded the Orders' assets, and banned their ceremonies and meetings. The law also provided penalties for those who tried to re-establish the Orders. Two years later, in 1927, the Mausoleum of Mevlâna in Konya was allowed to reopen as a Museum.[107]
 

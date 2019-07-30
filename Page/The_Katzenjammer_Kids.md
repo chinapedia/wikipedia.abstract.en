@@ -7,7 +7,7 @@ History
 
 Creation and early years
 
-Katzenjammer_Kids_1922.jpg]] _The Katzenjammer Kids_ was inspired by _Max and Moritz_, a children's story of the 1860s by German author Wilhelm Busch.
+]] _The Katzenjammer Kids_ was inspired by _Max and Moritz_, a children's story of the 1860s by German author Wilhelm Busch.
 
 _Katzenjammer_ translates literally as _the wailing of cats_ (i.e. "caterwaul") but is used to mean _contrition after a failed endeavor_ or _hangover_ in German (and, in the latter sense, in English too). Whereas Max & Moritz were grotesquely but comically put to death after seven destructive pranks, the Katzenjammer Kids and the other characters still thrive.
 
@@ -41,7 +41,7 @@ In other media
 
 _The Katzenjammer Kids_
 
-Policy_and_Pie_part_1_of_2_(1918).webm Policy_and_Pie_part_2_of_2_(1918).webm The _Katzenjammer Kids_ characters initially appeared outside comics in a handful of live-action silent films, with the first released in 1898. This first film, titled _The Katzenjammer Kids In School_, was made for the Biograph Company by William George Bitzer. This film was followed in 1900 by another Bitzer-Biograph film, _The Katzenjammer Kids in Love._[9]
+The _Katzenjammer Kids_ characters initially appeared outside comics in a handful of live-action silent films, with the first released in 1898. This first film, titled _The Katzenjammer Kids In School_, was made for the Biograph Company by William George Bitzer. This film was followed in 1900 by another Bitzer-Biograph film, _The Katzenjammer Kids in Love._[9]
 
 Between December 1916 and August 1918, a total of 37 _Katzenjammer Kids_ silent cartoon shorts were produced by William Randolph Hearst's own cartoon studio International Film Service, which adapted Hearst's well-known comic strips. The series was retired in 1918 at the height of the characters' popularity – partly because of the growing tension against titles with German associations after World War I. The comic strip was briefly renamed to _The Shenanigan Kids_ around this time, and in 1920 another five cartoons were produced under this title. All _Katzenjammer Kids_/_Shenanigan Kids_ cartoons from International Film Services were directed (and most likely also animated) by Gregory La Cava.
 
@@ -49,7 +49,7 @@ The Katzenjammer Kids also appeared (along with other King Features comic-strip 
 
 _The Captain and the Kids_
 
-Captainandthekids.jpg In 1938, _The Captain and the Kids_ became the subject of Metro-Goldwyn-Mayer's first self-produced series of theatrical short subject cartoons, directed by William Hanna, Bob Allen and Friz Freleng: _The Captain and the Kids_. Unlike the strip, which focused most of all on the gruesomely amusing antics of Hans and Fritz, the MGM cartoons often centered on the Captain. The series was overall unsuccessful, ending after one year and a total of 15 cartoons. Following that cancellation, Freleng returned to Warner Bros., where he had earlier been an animation director. The Captain was voiced by Billy Bletcher, Mama was voiced by Martha Wentworth, and John Silver was voiced by Mel Blanc.
+In 1938, _The Captain and the Kids_ became the subject of Metro-Goldwyn-Mayer's first self-produced series of theatrical short subject cartoons, directed by William Hanna, Bob Allen and Friz Freleng: _The Captain and the Kids_. Unlike the strip, which focused most of all on the gruesomely amusing antics of Hans and Fritz, the MGM cartoons often centered on the Captain. The series was overall unsuccessful, ending after one year and a total of 15 cartoons. Following that cancellation, Freleng returned to Warner Bros., where he had earlier been an animation director. The Captain was voiced by Billy Bletcher, Mama was voiced by Martha Wentworth, and John Silver was voiced by Mel Blanc.
 
 _The Captain and the Kids_ version of the strip was also animated for television as a back-up segment on Filmation's _Archie's TV Funnies_ in 1971.
 

@@ -14,7 +14,7 @@ The format of the _OED_'s entries has influenced numerous other historical lexic
 
 Entries and relative size
 
-Murray_OED_vocabulary_types_diagram.svg, its first editor.]]
+, its first editor.]]
 
 According to the publishers, it would take a single person 120 years to "key in" the 59 million words of the _OED_ second edition, 60 years to proofread them, and 540 megabytes to store them electronically.[10] As of 30 November 2005, the _Oxford English Dictionary_ contained approximately 301,100 main entries. Supplementing the entry headwords, there are 157,000 bold-type combinations and derivatives;[11] 169,000 italicized-bold phrases and combinations;[12] 616,500 word-forms in total, including 137,000 pronunciations; 249,300 etymologies; 577,000 cross-references; and 2,412,400 usage quotations. The dictionary's latest, complete print edition (second edition, 1989) was printed in 20 volumes, comprising 291,500 entries in 21,730 pages. The longest entry in the _OED2_ was for the verb _set_, which required 60,000 words to describe some 430 senses. As entries began to be revised for the _OED3_ in sequence starting from M, the longest entry became _make_ in 2000, then _put_ in 2007, then _run_ in 2011.[13][14][15]
 
@@ -94,7 +94,7 @@ Early editors
 
 Richard Chenevix Trench (1807–1886) played the key role in the project's first months, but his appointment as Dean of Westminster meant that he could not give the dictionary project the time that it required. He withdrew and Herbert Coleridge became the first editor.[22]
 
-FrederickJamesFurnivall.jpg, 1825–1910]]
+, 1825–1910]]
 
 On 12 May 1860, Coleridge's dictionary plan was published and research was started. His house was the first editorial office. He arrayed 100,000 quotation slips in a 54 pigeon-hole grid.[23] In April 1861, the group published the first sample pages; later that month, Coleridge died of tuberculosis, aged 30.[24]
 
@@ -108,7 +108,7 @@ Late in his editorship, Murray learned that a prolific reader named W. C. Minor 
 
 Oxford editors
 
-James-Murray.jpg in the Scriptorium at Banbury Road]]
+in the Scriptorium at Banbury Road]]
 
 During the 1870s, the Philological Society was concerned with the process of publishing a dictionary with such an immense scope.[31] They had pages printed by publishers, but no publication agreement was reached; both the Cambridge University Press and the Oxford University Press were approached. The OUP finally agreed in 1879 (after two years of negotiating by Sweet, Furnivall, and Murray) to publish the dictionary and to pay Murray, who was both the editor and the Philological Society president. The dictionary was to be published as interval fascicles, with the final form in four volumes, totalling 6,400 pages. They hoped to finish the project in ten years.[32]
 
@@ -118,7 +118,7 @@ The first dictionary fascicle was published on 1 February 1884—twenty-three ye
 
 The OUP saw that it would take too long to complete the work with unrevised editorial arrangements. Accordingly, new assistants were hired and two new demands were made on Murray.[39] The first was that he move from Mill Hill to Oxford, which he did in 1885. Murray had his Scriptorium re-erected on his new property.[40]
 
-78_Banbury_Road_Oxford_20060715.jpg, house, erstwhile residence of James Murray, Editor of the _Oxford English Dictionary_]] Murray resisted the second demand: that if he could not meet schedule, he must hire a second, senior editor to work in parallel to him, outside his supervision, on words from elsewhere in the alphabet. Murray did not want to share the work, feeling that he would accelerate his work pace with experience. That turned out not to be so, and Philip Gell of the OUP forced the promotion of Murray's assistant Henry Bradley (hired by Murray in 1884), who worked independently in the British Museum in London beginning in 1888. In 1896, Bradley moved to Oxford University.[41]
+, house, erstwhile residence of James Murray, Editor of the _Oxford English Dictionary_]] Murray resisted the second demand: that if he could not meet schedule, he must hire a second, senior editor to work in parallel to him, outside his supervision, on words from elsewhere in the alphabet. Murray did not want to share the work, feeling that he would accelerate his work pace with experience. That turned out not to be so, and Philip Gell of the OUP forced the promotion of Murray's assistant Henry Bradley (hired by Murray in 1884), who worked independently in the British Museum in London beginning in 1888. In 1896, Bradley moved to Oxford University.[41]
 
 Gell continued harassing Murray and Bradley with his business concerns—containing costs and speeding production—to the point where the project's collapse seemed likely. Newspapers reported the harassment, particularly the _Saturday Review_, and public opinion backed the editors.[42] Gell was fired, and the university reversed his cost policies. If the editors felt that the dictionary would have to grow larger, it would; it was an important work, and worth the time and money to properly finish.
 
@@ -154,7 +154,7 @@ Second edition
 
 By the time the new supplement was completed, it was clear that the full text of the dictionary would need to be computerized. Achieving this would require retyping it once, but thereafter it would always be accessible for computer searching – as well as for whatever new editions of the dictionary might be desired, starting with an integration of the supplementary volumes and the main text. Preparation for this process began in 1983, and editorial work started the following year under the administrative direction of Timothy J. Benbow, with John A. Simpson and Edmund S. C. Weiner as co-editors.[64] In 2016, Simpson published his memoir chronicling his years at the OED. See _The Word Detective: Searching for the Meaning of It All at the Oxford English Dictionary – A Memoir._ Basic Books, New York.
 
-OED-LEXX-Bungler.jpg] Thus began the _New Oxford English Dictionary (NOED)_ project. In the United States, more than 120 typists of the International Computaprint Corporation (now Reed Tech) started keying in over 350,000,000 characters, their work checked by 55 proof-readers in England.[65] Retyping the text alone was not sufficient; all the information represented by the complex typography of the original dictionary had to be retained, which was done by marking up the content in SGML.[66] A specialized search engine and display software were also needed to access it. Under a 1985 agreement, some of this software work was done at the University of Waterloo, Canada, at the _Centre for the New Oxford English Dictionary_, led by Frank Tompa and Gaston Gonnet; this search technology went on to become the basis for the Open Text Corporation.[67] Computer hardware, database and other software, development managers, and programmers for the project were donated by the British subsidiary of IBM; the colour syntax-directed editor for the project, LEXX, was written by Mike Cowlishaw of IBM.[68] The University of Waterloo, in Canada, volunteered to design the database. A. Walton Litz, an English professor at Princeton University who served on the Oxford University Press advisory council, was quoted in _Time_ as saying "I've never been associated with a project, I've never even heard of a project, that was so incredibly complicated and that met every deadline."[69]
+] Thus began the _New Oxford English Dictionary (NOED)_ project. In the United States, more than 120 typists of the International Computaprint Corporation (now Reed Tech) started keying in over 350,000,000 characters, their work checked by 55 proof-readers in England.[65] Retyping the text alone was not sufficient; all the information represented by the complex typography of the original dictionary had to be retained, which was done by marking up the content in SGML.[66] A specialized search engine and display software were also needed to access it. Under a 1985 agreement, some of this software work was done at the University of Waterloo, Canada, at the _Centre for the New Oxford English Dictionary_, led by Frank Tompa and Gaston Gonnet; this search technology went on to become the basis for the Open Text Corporation.[67] Computer hardware, database and other software, development managers, and programmers for the project were donated by the British subsidiary of IBM; the colour syntax-directed editor for the project, LEXX, was written by Mike Cowlishaw of IBM.[68] The University of Waterloo, in Canada, volunteered to design the database. A. Walton Litz, an English professor at Princeton University who served on the Oxford University Press advisory council, was quoted in _Time_ as saying "I've never been associated with a project, I've never even heard of a project, that was so incredibly complicated and that met every deadline."[69]
 
 By 1989, the _NOED_ project had achieved its primary goals, and the editors, working online, had successfully combined the original text, Burchfield's supplement, and a small amount of newer material, into a single unified dictionary. The word "new" was again dropped from the name, and the second edition of the _OED,_ or the _OED2,_ was published. The first edition retronymically became the _OED1_.
 
@@ -213,8 +213,6 @@ Formats
 
 Compact editions
 
-Compact_OED.jpg Compact_OED_entry.jpg
-
 In 1971, the 13-volume _OED1_ (1933) was reprinted as a two-volume _Compact Edition_, by photographically reducing each page to one-half its linear dimensions; each compact edition page held four _OED1_ pages in a four-up ("4-up") format. The two volume letters were _A_ and _P_; the first supplement was at the second volume's end. The _Compact Edition_ included, in a small slip-case drawer, a magnifying glass to help in reading reduced type. Many copies were inexpensively distributed through book clubs. In 1987, the second supplement was published as a third volume to the _Compact Edition_.
 
 In 1991, for the 20-volume _OED2_ (1989), the compact edition format was re-sized to one-third of original linear dimensions, a nine-up ("9-up") format requiring greater magnification, but allowing publication of a single-volume dictionary. It was accompanied by a magnifying glass as before and _A User's Guide to the "Oxford English Dictionary"_, by Donna Lee Berg.[110] After these volumes were published, though, book club offers commonly continued to sell the two-volume 1971 _Compact Edition_.[111]
@@ -224,8 +222,6 @@ In 1991, for the 20-volume _OED2_ (1989), the compact edition format was re-size
 :*?th impression (1991-12-05)
 
 Electronic versions
-
-OED2-CD-1.png OED2_4ed_CD.png
 
 Once the text of the dictionary was digitized and online, it was also available to be published on CD-ROM. The text of the first edition was made available in 1987.[112] Afterward, three versions of the second edition were issued. Version 1 (1992) was identical in content to the printed second edition, and the CD itself was not copy-protected. Version 2 (1999) included the _Oxford English Dictionary_ _Additions_ of 1993 and 1997.
 

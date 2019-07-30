@@ -1,4 +1,4 @@
-Traffic_congestion_in_Al_Bayda,_Libya_..jpg, Libya in 2010.]]
+, Libya in 2010.]]
 
 
 Railways
@@ -8,7 +8,7 @@ Libya has had no railway in operation since 1965, all previous narrow gauge line
 
 Highways
 
-Tripoli_Libya_Flyover.jpg on an urban highway in the capital Tripoli.]]
+on an urban highway in the capital Tripoli.]]
 
 _Total:_ 83,200 km
 _Paved:_ 47,590 km

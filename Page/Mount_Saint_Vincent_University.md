@@ -5,8 +5,6 @@ The university attracts many students in part because of its small class sizes, 
 
 History
 
-Mount_Saint_Vincent_University.jpg
-
 Established by the Sisters of Charity of Saint Vincent de Paul as a women's college in 1873, the Mount was one of the few institutions of higher education for women in Canada at a time when women could not vote. The original purpose of the academy was to train novices and young sisters as teachers, but the Sisters also recognized a need to educate other young women.[3] Over the ensuing years, the order developed a convent, schools, an orphanage, and health care facilities throughout the Halifax area, as well as across North America.
 
 Architect Charles Welsford West designed the Romanesque chapel and annex (1903–05) at Mount St. Vincent Academy (now University). He served as the Architect, Nova Scotia Public Works & Mines 1932-1950.[4]
@@ -47,14 +45,14 @@ Mount Saint Vincent University is home to the Centre for Women in Business, a no
 
 Art Gallery
 
-MSVU_Art_Gallery_Display_2015.jpg The Mount Saint Vincent University Art Gallery is located on the first floor of Seton Academic Centre. The gallery opened in 1971 as a resource to Mount Saint Vincent, communities served by the university, artists, Metro Halifax residents and art publics everywhere. Admission is always free of charge.
+The Mount Saint Vincent University Art Gallery is located on the first floor of Seton Academic Centre. The gallery opened in 1971 as a resource to Mount Saint Vincent, communities served by the university, artists, Metro Halifax residents and art publics everywhere. Admission is always free of charge.
 
 MSVU Art Gallery reflects the University's educational aims by devoting a significant part of its activities to the representation of women as cultural subjects and producers. Its exhibitions explore various forms of cultural production, highlighting the achievements of Nova Scotian artists and themes relevant to academic programs offered by the university.[13][14]
 
 
 Wikuom
 
-MSVU_Wikuom_2018.jpg The Mount was the first Nova Scotia university to add a wikuom to its campus facilities. First raised on June 12, 2017, the wikuom is a welcoming traditional Mi'kmaq space where both Indigenous and non-Indigenous communities can gather and learn together.
+The Mount was the first Nova Scotia university to add a wikuom to its campus facilities. First raised on June 12, 2017, the wikuom is a welcoming traditional Mi'kmaq space where both Indigenous and non-Indigenous communities can gather and learn together.
 
 The Mount is also home to the Aboriginal Student Centre (ASC)[15], which is home to ASC staff who provide academic advising, counselling and other support services to students. The ASC hosts a number of events, including the Mount's Mid-Winter Feast, Blanket Exercises, Cultural Workshops, Mini-Mount Camps, and more.
 
@@ -65,7 +63,7 @@ The Mount is also home to the Aboriginal Student Centre (ASC)[15], which is home
 
 Notable Graduates and Honorary Doctorate Recipients
 
-Hillary_Clinton_Honorary_Doctorate.tif Notable graduates of the Mount include:
+Notable graduates of the Mount include:
 
 -   Ryan Cochrane
 -   Barrie Dunn

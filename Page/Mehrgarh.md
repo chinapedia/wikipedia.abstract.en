@@ -1,4 +1,4 @@
-Mehrgarh_pakistan_rel96.JPG MEHRGARH (Balochi: _Mehrgaŕh_; ;) is a Neolithic site (dated to 7000 BCE to c. 2500/2000 BCE) which lies on the Kacchi Plain of Balochistan, Pakistan.[1]
+MEHRGARH (Balochi: _Mehrgaŕh_; ;) is a Neolithic site (dated to 7000 BCE to c. 2500/2000 BCE) which lies on the Kacchi Plain of Balochistan, Pakistan.[1]
 
 Mehrgarh is located near the Bolan Pass, to the west of the Indus River valley and between the present-day Pakistani cities of Quetta, Kalat and Sibi. The site was discovered in 1974 by an archaeological team directed by French archaeologists Jean-François Jarrige and Catherine Jarrige, and was excavated continuously between 1974 and 1986, and again from 1997 to 2000. Archaeological material has been found in six mounds, and about 32,000 artifacts have been collected. The earliest settlement at Mehrgarh—in the northeast corner of the site—was a small farming village dated between 7000 BCE and 5500 BCE.
 
@@ -11,7 +11,7 @@ Mehrgarh is one of the earliest sites with evidence of farming and herding in So
 
 Jean-Francois Jarrige argues for an independent origin of Mehrgarh. Jarrige notes "the assumption that farming economy was introduced full-fledged from Near-East to South Asia,"[4] and the similarities between Neolithic sites from eastern Mesopotamia and the western Indus valley, which are evidence of a "cultural continuum" between those sites. But given the originality of Mehrgarh, Jarrige concludes that Mehrgarh has an earlier local background," and is not a "'backwater' of the Neolithic culture of the Near East."[5]
 
-Site_Location_of_Mehrgarh.jpg Lukacs and Hemphill suggest an initial local development of Mehrgarh, with a continuity in cultural development but a change in population. According to Lukacs and Hemphill, while there is a strong continuity between the neolithic and chalcolithic (Copper Age) cultures of Mehrgarh, dental evidence shows that the chalcolithic population did not descend from the neolithic population of Mehrgarh, which "suggests moderate levels of gene flow." They wrote that "the direct lineal descendents of the Neolithic inhabitants of Mehrgarh are to be found to the south and the east of Mehrgarh, in northwestern India and the western edge of the Deccan plateau," with neolithic Mehrgarh showing greater affinity with chalocolithic Inamgaon, south of Mehrgarh, than with chalcolithic Mehrgarh.
+Lukacs and Hemphill suggest an initial local development of Mehrgarh, with a continuity in cultural development but a change in population. According to Lukacs and Hemphill, while there is a strong continuity between the neolithic and chalcolithic (Copper Age) cultures of Mehrgarh, dental evidence shows that the chalcolithic population did not descend from the neolithic population of Mehrgarh, which "suggests moderate levels of gene flow." They wrote that "the direct lineal descendents of the Neolithic inhabitants of Mehrgarh are to be found to the south and the east of Mehrgarh, in northwestern India and the western edge of the Deccan plateau," with neolithic Mehrgarh showing greater affinity with chalocolithic Inamgaon, south of Mehrgarh, than with chalcolithic Mehrgarh.
 
 Gallego Romero et al. (2011) state that their research on lactose tolerance in India suggests that "the west Eurasian genetic contribution identified by Reich et al. (2009) principally reflects gene flow from Iran and the Middle East." Gallego Romero notes that Indians who are lactose-tolerant show a genetic pattern regarding this tolerance which is "characteristic of the common European mutation."[6] According to Romero, this suggests that "the most common lactose tolerance mutation made a two-way migration out of the Middle East less than 10,000 years ago. While the mutation spread across Europe, another explorer must have brought the mutation eastward to India – likely traveling along the coast of the Persian Gulf where other pockets of the same mutation have been found."[7] They further note that "[t]he earliest evidence of cattle herding in south Asia comes from the Indus River Valley site of Mehrgarh and is dated to 7,000 YBP."
 
@@ -34,7 +34,7 @@ The Mehrgarh Period II (5500 BCE–4800 BCE) and Merhgarh Period III (4800 BCE�
 
 Mehrgarh Periods IV, V and VI (3500 BCE-3000 BCE)
 
-Statuette_Mehrgarh.jpg; height: 9.5 cm (3 in). Part of the Neolithic ‘Venus figurines’ tradition, this figure's abundant breasts and hips suggest links to fertility and procreation. Her hair was probably painted black; brown ochre would have covered the body, and her necklace was probably yellow. Her seated posture, with arms crossed under the breasts, is common throughout the region, as is her extravagant hairstyle]] Period IV was 3500 to 3250 BCE. Period V from 3250 to 3000 BCE and period VI was around 3000 BCE.[12] The site containing Periods IV to VII is designated as MR1.[13]
+; height: 9.5 cm (3 in). Part of the Neolithic ‘Venus figurines’ tradition, this figure's abundant breasts and hips suggest links to fertility and procreation. Her hair was probably painted black; brown ochre would have covered the body, and her necklace was probably yellow. Her seated posture, with arms crossed under the breasts, is common throughout the region, as is her extravagant hairstyle]] Period IV was 3500 to 3250 BCE. Period V from 3250 to 3000 BCE and period VI was around 3000 BCE.[12] The site containing Periods IV to VII is designated as MR1.[13]
 
 Mehrgarh Period VII (2600 BCE-2000 BCE)
 
@@ -54,15 +54,13 @@ The oldest known example of the lost-wax technique comes from a 6,000-year-old w
 
 Artifacts
 
-Seated_Mother_Goddess_,3000–2500_B.C._Pakistan_(Baluchistan)_Mehrgarh_style.jpg
-
 Human figurines
 
 The oldest ceramic figurines in South Asia were found at Mehrgarh. They occur in all phases of the settlement and were prevalent even before pottery appears. The earliest figurines are quite simple and do not show intricate features. However, they grow in sophistication with time and by 4000 BC begin to show their characteristic hairstyles and typical prominent breasts. All the figurines up to this period were female. Male figurines appear only from period VII and gradually become more numerous. Many of the female figurines are holding babies, and were interpreted as depictions of the "mother goddess". However, due to some difficulties in conclusively identifying these figurines with the "mother goddess", some scholars prefer using the term "female figurines with likely cultic significance".[19][20][21]
 
 Pottery
 
-MET_2003_592_2_O.jpg Evidence of pottery begins from Period II. In period III, the finds become much more abundant as the potter's wheel is introduced, and they show more intricate designs and also animal motifs.[22] The characteristic female figurines appear beginning in Period IV and the finds show more intricate designs and sophistication. Pipal leaf designs are used in decoration from Period VI.[23] Some sophisticated firing techniques were used from Period VI and VII and an area reserved for the pottery industry has been found at mound MR1. However, by Period VIII, the quality and intricacy of designs seem to have suffered due to mass production, and due to a growing interest in bronze and copper vessels.[24]
+Evidence of pottery begins from Period II. In period III, the finds become much more abundant as the potter's wheel is introduced, and they show more intricate designs and also animal motifs.[22] The characteristic female figurines appear beginning in Period IV and the finds show more intricate designs and sophistication. Pipal leaf designs are used in decoration from Period VI.[23] Some sophisticated firing techniques were used from Period VI and VII and an area reserved for the pottery industry has been found at mound MR1. However, by Period VIII, the quality and intricacy of designs seem to have suffered due to mass production, and due to a growing interest in bronze and copper vessels.[24]
 
 Burials
 

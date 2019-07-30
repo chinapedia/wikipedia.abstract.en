@@ -10,11 +10,9 @@ The first French explorers approaching the great inland sea by way of the Ottawa
 
 Hydrography
 
-Lake_Superior_bathymetry_map.png.[7][8][9] The deepest point, roughly off its southeastern shore, is marked with "×".[10] The deep trenches in its eastern part may have originated from tunnel valleys.[11][12]]]
+.[7][8][9] The deepest point, roughly off its southeastern shore, is marked with "×".[10] The deep trenches in its eastern part may have originated from tunnel valleys.[11][12]]]
 
 Lake Superior empties into Lake Huron via the St. Marys River and the Soo Locks. Lake Superior is the largest freshwater lake in the world in area (if Lakes Michigan and Huron are taken separately; _see Lake Michigan–Huron_), and the third largest in volume, behind Lake Baikal in Siberia and Lake Tanganyika in East Africa. The Caspian Sea, while larger than Lake Superior in both surface area and volume, is brackish; though presently isolated, prehistorically the Caspian has been repeatedly connected to and then isolated from the Mediterranean via the Black Sea.
-
-Lake_Superior_bathymetry_map,_deepest_point.png
 
 Lake Superior has a surface area of ,[13] which is approximately the size of South Carolina or Austria. It has a maximum length of and maximum breadth of .[14] Its average depth is with a maximum depth of .[15][16][17] Lake Superior contains 2,900 cubic miles (12,100 km³) of water.[18] There is enough water in Lake Superior to cover the entire land mass of North and South America to a depth of .[19] The shoreline of the lake stretches (including islands).[20]
 
@@ -26,11 +24,11 @@ Annual storms on Lake Superior regularly feature wave heights of over .[23] Wave
 
 Tributaries and outlet
 
-Lake_Superior_Watershed.png The lake is fed by over 200 rivers. The largest include the Nipigon River, the St. Louis River, the Pigeon River, the Pic River, the White River, the Michipicoten River, the Bois Brule River and the Kaministiquia River. Lake Superior drains into Lake Huron via the St. Marys River. There are rapids at the river's upper (Lake Superior) end where the river bed has a relatively steep gradient. The Soo Locks were built to enable ships to bypass the rapids and to overcome the height difference between Lakes Superior and Huron.
+The lake is fed by over 200 rivers. The largest include the Nipigon River, the St. Louis River, the Pigeon River, the Pic River, the White River, the Michipicoten River, the Bois Brule River and the Kaministiquia River. Lake Superior drains into Lake Huron via the St. Marys River. There are rapids at the river's upper (Lake Superior) end where the river bed has a relatively steep gradient. The Soo Locks were built to enable ships to bypass the rapids and to overcome the height difference between Lakes Superior and Huron.
 
 Water levels
 
-LakeSuperior_from_Duluth_in_Winter.jpg in December 2004]] Duluth_Harbor_Entrance_in_February_(25632302346).jpg The lake's average surface elevation is [25][26] above sea level. Until approximately 1887, the natural hydraulic conveyance through the St. Marys River rapids determined the outflow from Lake Superior. By 1921, development in support of transportation and hydroelectric power resulted in gates, locks, power canals and other control structures completely spanning St. Marys rapids. The regulating structure is known as the Compensating Works and is operated according to a regulation plan known as Plan 1977-A. Water levels, including diversions of water from the Hudson Bay watershed, are regulated by the International Lake Superior Board of Control, which was established in 1914 by the International Joint Commission.
+in December 2004]] The lake's average surface elevation is [25][26] above sea level. Until approximately 1887, the natural hydraulic conveyance through the St. Marys River rapids determined the outflow from Lake Superior. By 1921, development in support of transportation and hydroelectric power resulted in gates, locks, power canals and other control structures completely spanning St. Marys rapids. The regulating structure is known as the Compensating Works and is operated according to a regulation plan known as Plan 1977-A. Water levels, including diversions of water from the Hudson Bay watershed, are regulated by the International Lake Superior Board of Control, which was established in 1914 by the International Joint Commission.
 
 Lake Superior's water level was at a new record low in September 2007, slightly less than the previous record low in 1926.[27] However, the water levels returned within a few days.[28]
 
@@ -45,7 +43,7 @@ According to a study by professors at the University of Minnesota Duluth, Lake S
 
 Geography
 
-Brooklyn_Museum_-_Lake_Superior_-_Walter_Shirlaw.jpg The largest island in Lake Superior is Isle Royale in the state of Michigan. Isle Royale contains several lakes, some of which also contain islands. Other well-known islands include Madeline Island in the state of Wisconsin, Michipicoten Island in the province of Ontario, and Grand Island (the location of the Grand Island National Recreation Area) in the state of Michigan.
+The largest island in Lake Superior is Isle Royale in the state of Michigan. Isle Royale contains several lakes, some of which also contain islands. Other well-known islands include Madeline Island in the state of Wisconsin, Michipicoten Island in the province of Ontario, and Grand Island (the location of the Grand Island National Recreation Area) in the state of Michigan.
 
 The larger cities on Lake Superior include the twin ports of Duluth, Minnesota and Superior, Wisconsin; Thunder Bay, Ontario; Marquette, Michigan; and the twin cities of Sault Ste. Marie, Michigan, and Sault Ste. Marie, Ontario. Duluth-Superior, at the western end of Lake Superior, is the most inland point on the St. Lawrence Seaway and the most inland port in the world.
 
@@ -62,7 +60,7 @@ Lake Superior's size reduces the severity of the seasons of its humid continenta
 
 The lake's surface temperature rose by 4.5 °F (2.5 °C) from 1979 to 2006.[41]
 
-Geologic_Map_Lake_Superior_MN_WI_MI.jpg of the U.S. area bordering Lake Superior: Minnesota, Wisconsin, and the Upper Peninsula of Michigan]] North_america_basement_rocks.pngs and basement rock, showing the formation of the Midcontinent Rift containing today's Lake Superior]]
+of the U.S. area bordering Lake Superior: Minnesota, Wisconsin, and the Upper Peninsula of Michigan]] s and basement rock, showing the formation of the Midcontinent Rift containing today's Lake Superior]]
 
 
 Geology
@@ -73,14 +71,14 @@ The mountains steadily eroded, depositing layers of sediments that compacted and
 
 The continent was later riven, creating one of the deepest rifts in the world.[43] The lake lies in this long-extinct Mesoproterozoic rift valley, the Midcontinent Rift. Magma was injected between layers of sedimentary rock, forming diabase sills. This hard diabase protects the layers of sedimentary rock below, forming the flat-topped mesas in the Thunder Bay area.
 
-Amethyst formed in some of the cavities created by the Midcontinent Rift and there are several amethyst mines in the Thunder Bay area.[44] Basaltic_columns_Lake_Superior.png along Lake Superior]] Lava erupted from the rift and formed the black basalt rock of Michipicoten Island, Black Bay Peninsula, and St. Ignace Island.
+Amethyst formed in some of the cavities created by the Midcontinent Rift and there are several amethyst mines in the Thunder Bay area.[44] along Lake Superior]] Lava erupted from the rift and formed the black basalt rock of Michipicoten Island, Black Bay Peninsula, and St. Ignace Island.
 
 During the Wisconsin glaciation 10,000 years ago, ice covered the region at a thickness of . The land contours familiar today were carved by the advance and retreat of the ice sheet. The retreat left gravel, sand, clay and boulder deposits. Glacial meltwaters gathered in the Superior basin creating Lake Minong, a precursor to Lake Superior.[45] Without the immense weight of the ice, the land rebounded, and a drainage outlet formed at Sault Ste. Marie, which would become known as St. Mary's River.
 
 
 History
 
-AgawaRock23.jpgs at Lake Superior Provincial Park, Ontario]]
+s at Lake Superior Provincial Park, Ontario]]
 
 The first people came to the Lake Superior region 10,000 years ago after the retreat of the glaciers in the last Ice Age. They are known as the Plano, and they used stone-tipped spears to hunt caribou on the northwestern side of Lake Minong.
 
@@ -92,13 +90,13 @@ Another culture known as the Terminal Woodland Indians (c. AD 900–1650) has be
 
 The Anishinaabe, which includes the Ojibwe or Chippewa, have inhabited the Lake Superior region for over five hundred years and were preceded by the Dakota, Fox, Menominee, Nipigon, Noquet and Gros Ventres. They called Lake Superior either _Ojibwe Gichigami_ ("the Ojibwe's Great Sea") or _Anishnaabe Gichgamiing_ ("the Anishinaabe's Great Sea"). After the arrival of Europeans, the Anishinaabe made themselves the middle-men between the French fur traders and other Native peoples. They soon became the dominant Native American nation in the region: they forced out the Sioux and Fox and won a victory against the Iroquois west of Sault Ste. Marie in 1662. By the mid-18th century, the Ojibwe occupied all of Lake Superior's shores.[48]
 
-050820_GrandPortageNationalMonument.jpg, Minnesota]] In the 18th century, the fur trade in the region was booming, with the Hudson's Bay Company having a virtual monopoly. In 1783, however, the North West Company was formed to rival the Hudson's Bay Company. The North West Company built forts on Lake Superior at Grand Portage, Fort William, Nipigon, the Pic River, the Michipicoten River, and Sault Ste. Marie. But by 1821, with competition taking too great a toll on both, the companies merged under the Hudson's Bay Company name.
+, Minnesota]] In the 18th century, the fur trade in the region was booming, with the Hudson's Bay Company having a virtual monopoly. In 1783, however, the North West Company was formed to rival the Hudson's Bay Company. The North West Company built forts on Lake Superior at Grand Portage, Fort William, Nipigon, the Pic River, the Michipicoten River, and Sault Ste. Marie. But by 1821, with competition taking too great a toll on both, the companies merged under the Hudson's Bay Company name.
 
 Many towns around the lake are either current or former mining areas, or engaged in processing or shipping. Today, tourism is another significant industry; the sparsely populated Lake Superior country, with its rugged shorelines and wilderness, attracts tourists and adventurers.
 
 Shipping
 
-Ice_blockade_in_Marquette_Harbor,_June_1873,_by_Childs,_B._F._2.jpg Lake Superior has been an important link in the Great Lakes Waterway, providing a route for the transportation of iron ore as well as grain and other mined and manufactured materials. Large cargo vessels called lake freighters, as well as smaller ocean-going freighters, transport these commodities across Lake Superior.
+Lake Superior has been an important link in the Great Lakes Waterway, providing a route for the transportation of iron ore as well as grain and other mined and manufactured materials. Large cargo vessels called lake freighters, as well as smaller ocean-going freighters, transport these commodities across Lake Superior.
 
 Because of ice, the Lake is closed to shipping from mid-January to late March. Exact dates for the shipping season vary each year,[49] depending on weather conditions that form and break the ice.
 
@@ -119,7 +117,7 @@ According to legend, "Lake Superior seldom gives up her dead".[52] This is becau
 
 Ecology
 
-Lake_Superior_at_Neys_Provincial_Park_Ontario.jpg, Ontario]] Miners_Castle,_Pictured_Rocks_National_Lakeshore.jpg, Michigan]]
+, Ontario]] , Michigan]]
 
 More than 80 species of fish have been found in Lake Superior. Species native to the lake include: banded killifish, bloater, brook trout, burbot, cisco, lake sturgeon, lake trout, lake whitefish, longnose sucker, muskellunge, northern pike, pumpkinseed, rock bass, round whitefish, smallmouth bass, walleye, white sucker and yellow perch. In addition, many fish species have been either intentionally or accidentally introduced to Lake Superior: Atlantic salmon, brown trout, carp, chinook salmon, coho salmon, freshwater drum, pink salmon, rainbow smelt, rainbow trout, round goby, ruffe, sea lamprey and white perch.[56][57]
 

@@ -1,4 +1,4 @@
-Pythagorean_theorem_-_Ani.gif A PYTHAGOREAN TRIPLE consists of three positive integers , , and , such that . Such a triple is commonly written , and a well-known example is . If is a Pythagorean triple, then so is for any positive integer . A PRIMITIVE PYTHAGOREAN TRIPLE is one in which , and are coprime (that is, they have no common divisor larger than 1).[1] A triangle whose sides form a Pythagorean triple is called a PYTHAGOREAN TRIANGLE, and is necessarily a right triangle.
+A PYTHAGOREAN TRIPLE consists of three positive integers , , and , such that . Such a triple is commonly written , and a well-known example is . If is a Pythagorean triple, then so is for any positive integer . A PRIMITIVE PYTHAGOREAN TRIPLE is one in which , and are coprime (that is, they have no common divisor larger than 1).[1] A triangle whose sides form a Pythagorean triple is called a PYTHAGOREAN TRIANGLE, and is necessarily a right triangle.
 
 The name is derived from the Pythagorean theorem, stating that every right triangle has side lengths satisfying the formula ; thus, Pythagorean triples describe the three integer side lengths of a right triangle. However, right triangles with non-integer sides do not form Pythagorean triples. For instance, the triangle with sides and is a right triangle, but is not a Pythagorean triple because is not an integer. Moreover, and do not have an integer common multiple because is irrational.
 
@@ -9,7 +9,7 @@ When searching for integer solutions, the equation is a Diophantine equation. Th
 
 Examples
 
-Pythagorean_Triples_Scatter_Plot.png of the legs (a,b) of the first Pythagorean triples with a and b less than 6000. Negative values are included to illustrate the parabolic patterns.]]
+of the legs (a,b) of the first Pythagorean triples with a and b less than 6000. Negative values are included to illustrate the parabolic patterns.]]
 
 There are 16 primitive Pythagorean triples with :
 
@@ -38,9 +38,7 @@ Additionally these are all the primitive Pythagorean triples with :
 
 Generating a triple
 
-PrimitivePythagoreanTriplesRev08.svg
-
-Pythagorean_Triples_from_Grapher.png on the cone.]]
+on the cone.]]
 
 EUCLID'S FORMULA[3] is a fundamental formula for generating Pythagorean triples given an arbitrary pair of integers _m_ and _n_ with . The formula states that the integers
 
@@ -125,7 +123,7 @@ Euclid's formula for Pythagorean triples means that, except for , a point on the
 
 Stereographic approach
 
-Stereoprojzero.svg There is a correspondence between points on the unit circle with rational coordinates and primitive Pythagorean triples. At this point, Euclid's formulae can be derived either by methods of trigonometry or equivalently by using the stereographic projection.
+There is a correspondence between points on the unit circle with rational coordinates and primitive Pythagorean triples. At this point, Euclid's formulae can be derived either by methods of trigonometry or equivalently by using the stereographic projection.
 
 For the stereographic approach, suppose that _P_′ is a point on the _x_-axis with rational coordinates
 
@@ -271,7 +269,7 @@ If the Gaussian integer is not prime then it is the product of two Gaussian inte
 
 Relation to ellipses with integral dimensions
 
-Pythagorean_triples_in_ellipses.svg With reference to the figure and the definition of the foci of an ellipse, F₁ and F₂, for any point P on the ellipse, F₁P + PF₂ is constant.
+With reference to the figure and the definition of the foci of an ellipse, F₁ and F₂, for any point P on the ellipse, F₁P + PF₂ is constant.
 
 As points A and B are both on the ellipse, F₁A + AF₂ = F₁B + BF₂. Due to symmetry, F₁A + AF₂ = F₂A' + AF₂ = AA' = 2 AC, and F₁B + BF₂ = 2 BF₂. Hence, AC = BF₂.
 
@@ -280,7 +278,7 @@ Thus, if BCF₂ is a right-angle triangle with integral sides, the separation of
 
 Distribution of triples
 
-Pythagorean_triple_scatterplot.svg of the legs (_a_,_b_) of the first Pythagorean triples with _a_ and _b_ less than 4500.]]
+of the legs (_a_,_b_) of the first Pythagorean triples with _a_ and _b_ less than 4500.]]
 
 There are a number of results on the distribution of Pythagorean triples. In the scatter plot, a number of obvious patterns are already apparent. Whenever the legs (_a_,_b_) of a primitive triple appear in the plot, all integer multiples of (_a_,_b_) must also appear in the plot, and this property produces the appearance of lines radiating from the origin in the diagram.
 

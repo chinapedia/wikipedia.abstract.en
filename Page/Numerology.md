@@ -1,4 +1,4 @@
-Bongo,_Pietro_–_Numerorum_mysteria,_1591_–_BEIC_58079.jpg and his most influential work in Europe.[1] ]]
+and his most influential work in Europe.[1] ]]
 
 NUMEROLOGY is any belief in the divine or mystical relationship between a number and one or more coinciding events.[2] It is also the study of the numerical value of the letters in words, names, and ideas. It is often associated with the paranormal, alongside astrology and similar divinatory arts.[3]
 

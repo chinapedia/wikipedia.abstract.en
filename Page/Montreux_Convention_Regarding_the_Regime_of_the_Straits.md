@@ -7,7 +7,7 @@ The proposed 21st-century Kanal Istanbul project may be a possible bypass to the
 
 Background
 
-Turkish_Strait_disambig.svg}} ]] The convention was one of a series of agreements in the 19th and 20th centuries that sought to address the long-running "Straits Question" of who should control the strategically vital link between the Black Sea and Mediterranean Sea. In 1923 the Treaty of Lausanne had demilitarised the Dardanelles and opened the Straits to unrestricted civilian and military traffic, under the supervision of the International Straits Commission of the League of Nations.
+}} ]] The convention was one of a series of agreements in the 19th and 20th centuries that sought to address the long-running "Straits Question" of who should control the strategically vital link between the Black Sea and Mediterranean Sea. In 1923 the Treaty of Lausanne had demilitarised the Dardanelles and opened the Straits to unrestricted civilian and military traffic, under the supervision of the International Straits Commission of the League of Nations.
 
 By the late 1930s, the strategic situation in the Mediterranean had altered with the rise of Fascist Italy, which controlled the Greek-inhabited Dodecanese islands off the west coast of Turkey and had constructed fortifications on Rhodes, Leros and Kos. The Turks feared that Italy would seek to exploit access to the Straits to expand its power into Anatolia and the Black Sea region. There were also fears of Bulgarian rearmament.[4] Although Turkey was not permitted to refortify the Straits, it nonetheless did so secretly.[5]
 

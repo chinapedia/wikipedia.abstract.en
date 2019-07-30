@@ -18,8 +18,6 @@ MySQL has received positive reviews, and reviewers noticed it "performs extremel
 
 History
 
-Monty-Widenius-David-Axmark-MySQL-2003-05-09.jpg
-
 MySQL was created by a Swedish company, MySQL AB, founded by David Axmark, Allan Larsson and Michael "Monty" Widenius. Original development of MySQL by Widenius and Axmark began in 1994.[18] The first version of MySQL appeared on 23 May 1995. It was initially created for personal usage from mSQL based on the low-level language ISAM, which the creators considered too slow and inflexible. They created a new SQL interface, while keeping the same API as mSQL. By keeping the API consistent with the mSQL system, many developers were able to use MySQL instead of the (proprietarily licensed) mSQL antecedent.
 
 Milestones
@@ -48,8 +46,6 @@ Additional milestones in MySQL development included:
 
 -   Oracle acquired Sun Microsystems on 27 January 2010.[25][26][27]
 -   The day Oracle announced the purchase of Sun, Michael "Monty" Widenius forked MySQL, launching MariaDB, and took a swath of MySQL developers with him.[28]
-
-Geir_Høydalsvik_at_Percona_Live_Europe_2018_3.jpg
 
 -   MySQL Server 5.5 was generally available (). Enhancements and features include:
     -   The default storage engine is InnoDB, which supports transactions and referential integrity constraints.
@@ -151,7 +147,7 @@ Deployment
 
 MySQL can be built and installed manually from source code, but it is more commonly installed from a binary package unless special customizations are required. On most Linux distributions, the package management system can download and install MySQL with minimal effort, though further configuration is often required to adjust security and optimization settings.
 
-LAMP_software_bundle.svg software bundle, displayed here together with Squid.]]
+software bundle, displayed here together with Squid.]]
 
 Though MySQL began as a low-end alternative to more powerful proprietary databases, it has gradually evolved to support higher-scale needs as well. It is still most commonly used in small to medium scale single-server deployments, either as a component in a LAMP-based web application or as a standalone database server. Much of MySQL's appeal originates in its relative simplicity and ease of use, which is enabled by an ecosystem of open source tools such as phpMyAdmin. In the medium range, MySQL can be scaled by deploying it on more powerful hardware, such as a multi-processor server with gigabytes of memory.
 
@@ -188,7 +184,7 @@ A graphical user interface (GUI) is a type of interface that allows users to int
 
 Third-party proprietary and free graphical administration applications (or "front ends") are available that integrate with MySQL and enable users to work with database structure and data visually. Some well-known front ends are:
 
-The_MySQL_Workbench_startup_screen.png running on macOS]]
+running on macOS]]
 
 MySQL Workbench
     MySQL Workbench is the official integrated environment for MySQL. It was developed by MySQL AB, and enables users to graphically administer MySQL databases and visually design database structures. MySQL Workbench replaces the previous package of software, MySQL GUI Tools. Similar to other third-party packages, but still considered the authoritative MySQL front end, MySQL Workbench lets users manage database design & modeling, SQL development (replacing MySQL Query Browser) and Database administration (replacing MySQL Administrator).

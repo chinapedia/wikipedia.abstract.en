@@ -9,7 +9,7 @@ The first major version of IP, Internet Protocol Version 4 (IPv4), is the domina
 
 Function
 
-UDP_encapsulation.svg to a Link protocol frame]] The Internet Protocol is responsible for addressing host interfaces, encapsulating data into datagrams (including fragmentation and reassembly) and routing datagrams from a source host interface to a destination host interface across one or more IP networks.[2] For these purposes, the Internet Protocol defines the format of packets and provides an addressing system.
+to a Link protocol frame]] The Internet Protocol is responsible for addressing host interfaces, encapsulating data into datagrams (including fragmentation and reassembly) and routing datagrams from a source host interface to a destination host interface across one or more IP networks.[2] For these purposes, the Internet Protocol defines the format of packets and provides an addressing system.
 
 Each datagram has two components: a header and a payload. The IP header includes source IP address, destination IP address, and other metadata needed to route and deliver the datagram. The payload is the data that is transported. This method of nesting the data payload in a packet with a header is called encapsulation.
 
@@ -18,7 +18,7 @@ IP addressing entails the assignment of IP addresses and associated parameters t
 
 Version history
 
-First_Internet_Demonstration,_1977.jpg, PRNET, and SATNET on November 22, 1977]] In May 1974, the Institute of Electrical and Electronics Engineers (IEEE) published a paper entitled "A Protocol for Packet Network Intercommunication".[3] The paper's authors, Vint Cerf and Bob Kahn, described an internetworking protocol for sharing resources using packet switching among network nodes. A central control component of this model was the "Transmission Control Program" that incorporated both connection-oriented links and datagram services between hosts. The monolithic Transmission Control Program was later divided into a modular architecture consisting of the Transmission Control Protocol and User Datagram Protocol at the transport layer and the Internet Protocol at the internet layer. The model became known as the _Department of Defense (DoD) Internet Model_ and _Internet protocol suite_, and informally as _TCP/IP_.
+, PRNET, and SATNET on November 22, 1977]] In May 1974, the Institute of Electrical and Electronics Engineers (IEEE) published a paper entitled "A Protocol for Packet Network Intercommunication".[3] The paper's authors, Vint Cerf and Bob Kahn, described an internetworking protocol for sharing resources using packet switching among network nodes. A central control component of this model was the "Transmission Control Program" that incorporated both connection-oriented links and datagram services between hosts. The monolithic Transmission Control Program was later divided into a modular architecture consisting of the Transmission Control Protocol and User Datagram Protocol at the transport layer and the Internet Protocol at the internet layer. The model became known as the _Department of Defense (DoD) Internet Model_ and _Internet protocol suite_, and informally as _TCP/IP_.
 
 IP versions 0 to 3 were experimental versions, used between 1977 and 1979. The following Internet Experiment Note (IEN) documents describe versions of the Internet Protocol prior to the modern version of IPv4:
 

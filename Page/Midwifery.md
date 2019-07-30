@@ -11,7 +11,7 @@ First trimester
 
 Trimester means "3 months." A normal pregnancy lasts about 9 months and has 3 trimesters.[10]
 
-First trimester screening varies by country. Women are typically offered a Pap smear and urine analysis (UA), and blood tests including a complete blood count (CBC), blood typing (including Rh screen), syphilis, hepatitis, HIV, and rubella testing.[11] Additionally, women may have chlamydia testing via a urine sample, and women considered at high risk are screened for Sickle Cell disease and Thalassemia.[12] Women must consent to all tests before they are carried out. The woman's blood pressure, height and weight are measured. Her past pregnancies and family, social, and medical history are discussed. Women may have an ultrasound scan during the first trimester which may be used to help find the estimated due date. Some women may have genetic testing, such as screening for Down syndrome. Diet, exercise, and discomforts such as morning sickness are discussed.[13] Pregnancy_trimesters.jpg
+First trimester screening varies by country. Women are typically offered a Pap smear and urine analysis (UA), and blood tests including a complete blood count (CBC), blood typing (including Rh screen), syphilis, hepatitis, HIV, and rubella testing.[11] Additionally, women may have chlamydia testing via a urine sample, and women considered at high risk are screened for Sickle Cell disease and Thalassemia.[12] Women must consent to all tests before they are carried out. The woman's blood pressure, height and weight are measured. Her past pregnancies and family, social, and medical history are discussed. Women may have an ultrasound scan during the first trimester which may be used to help find the estimated due date. Some women may have genetic testing, such as screening for Down syndrome. Diet, exercise, and discomforts such as morning sickness are discussed.[13]
 
 Second trimester
 
@@ -24,8 +24,6 @@ In the third trimester the midwife will see the mother every two weeks until wee
 Childbirth
 
 Labor and delivery
-
-Cephalicpre.JPG Geburt_01.jpg
 
 Midwives are qualified to assist with a normal vaginal delivery while more complicated deliveries are handled by a health care provider who has had further training. Childbirth is divided into four stages.
 
@@ -60,7 +58,7 @@ In some countries, such as Chile, the midwife is the professional who can direct
 
 Midwifery-led continuity of care
 
-Australian_Clinical_Midwifery_Facilitator_Florence_West_teaches_training_midwives_at_the_Pacific_Adventist_University_PAU,_outskirts_of_Port_Moresby,_PNG._(10674496146).jpg Cambodian_Midwife_Project_(10678944753).jpg Midwifery-led continuity of care is where one or more midwives have the primary responsibility for the continuity of care for childbearing women, with a multidisciplinary network of consultation and referral with other health care providers. This is different from "medical-led care" where an obstetrician or family physician is primarily responsible. In "shared-care" models, responsibility may be shared between a midwife, an obstetrician and/or a family physician.[31] The midwife is part of very intimate situations with the mother. For this reason, many say that the most important thing to look for in a midwife is comfortability with them, as one will go to them with every question or problem.[32]
+Midwifery-led continuity of care is where one or more midwives have the primary responsibility for the continuity of care for childbearing women, with a multidisciplinary network of consultation and referral with other health care providers. This is different from "medical-led care" where an obstetrician or family physician is primarily responsible. In "shared-care" models, responsibility may be shared between a midwife, an obstetrician and/or a family physician.[31] The midwife is part of very intimate situations with the mother. For this reason, many say that the most important thing to look for in a midwife is comfortability with them, as one will go to them with every question or problem.[32]
 
 According to a Cochrane review of public health systems in Australia, Canada, Ireland, New Zealand and the United Kingdom, "most women should be offered midwifery-led continuity models of care and women should be encouraged to ask for this option although caution should be exercised in applying this advice to women with substantial medical or obstetric complications." Midwifery-led care has effects including the following:[33]
 
@@ -78,7 +76,7 @@ History
 
 Ancient history
 
-Eucharius_Rößlin_Rosgarten_Childbirth.jpg]] Рождество-Богородицы-Ростов-XVII_crop.jpg
+]]
 
 In ancient Egypt, midwifery was a recognized female occupation, as attested by the Ebers Papyrus which dates from 1900 to 1550 BCE. Five columns of this papyrus deal with obstetrics and gynecology, especially concerning the acceleration of parturition (the action or process of giving birth to offspring) and the birth prognosis of the newborn. The Westcar papyrus, dated to 1700 BCE, includes instructions for calculating the expected date of confinement and describes different styles of birth chairs. Bas reliefs in the royal birth rooms at Luxor and other temples also attest to the heavy presence of midwifery in this culture.[35]
 
@@ -88,7 +86,7 @@ Agnodice or Agnodike (Gr. Ἀγνοδίκη) was the earliest historical, and li
 
 Midwives were known by many different titles in antiquity, ranging from _iatrinē_ (Gr. nurse), _maia_ (Gr., midwife), _obstetrix_ (Lat., obstetrician), and _medica_ (Lat., doctor).[42] It appears as though midwifery was treated differently in the Eastern end of the Mediterranean basin as opposed to the West. In the East, some women advanced beyond the profession of midwife (_maia_) to that of gynaecologist (_iatros gynaikeios_, translated as _women's doctor_), for which formal training was required. Also, there were some gynecological tracts circulating in the medical and educated circles of the East that were written by women with Greek names, although these women were few in number. Based on these facts, it would appear that midwifery in the East was a respectable profession in which respectable women could earn their livelihoods and enough esteem to publish works read and cited by male physicians. In fact, a number of Roman legal provisions strongly suggest that midwives enjoyed status and remuneration comparable to that of male doctors.[43] One example of such a midwife is Salpe of Lemnos, who wrote on women's diseases and was mentioned several times in the works of Pliny.[44]
 
-Ancient_Roman_relief_carving_of_a_midwife_Wellcome_M0003964.jpg]]
+]]
 
 However, in the Roman West, information about practicing midwives comes mainly from funerary epitaphs. Two hypotheses are suggested by looking at a small sample of these epitaphs. The first is the midwifery was not a profession to which freeborn women of families that had enjoyed free status of several generations were attracted; therefore it seems that most midwives were of servile origin. Second, since most of these funeral epitaphs describe the women as freed, it can be proposed that midwives were generally valued enough, and earned enough income, to be able to gain their freedom. It is not known from these epitaphs how certain slave women were selected for training as midwives. Slave girls may have been apprenticed, and it is most likely that mothers taught their daughters.[45]
 
@@ -102,7 +100,7 @@ The services of a midwife were not inexpensive; this fact that suggests poorer w
 
 Post-classical history
 
-"Dr._William_Hunter_at_a_confinement"_Wellcome_L0015724.jpg attending a pregnant woman. The caption notes that "not until a strenuous fight with the midwives was it customary for obstetricians to be present at confinements."]] [52][53]
+attending a pregnant woman. The caption notes that "not until a strenuous fight with the midwives was it customary for obstetricians to be present at confinements."]] [52][53]
 
 Modern history
 

@@ -25,7 +25,7 @@ Nationals normally have the right to enter or return to the country they belong 
 
 Nationality versus citizenship
 
-201812_Immigration_Inspection_directory_Sign_at_PVG.jpg, use the term "Chinese nationals" while the Chinese text refers to "Chinese citizens ()".]] Conceptually, citizenship is focused on the internal political life of the state and nationality is a matter of international dealings.[14]
+, use the term "Chinese nationals" while the Chinese text refers to "Chinese citizens ()".]] Conceptually, citizenship is focused on the internal political life of the state and nationality is a matter of international dealings.[14]
 
 In the modern era, the concept of full citizenship encompasses not only active political rights, but full civil rights and social rights.[15] Nationality is a necessary but not sufficient condition to exercise full political rights within a state or other polity.[16] Nationality is required for full citizenship, and some people have no nationality in international law. A person who is denied full citizenship or nationality is commonly called a stateless person.
 
@@ -38,7 +38,7 @@ Nationality versus ethnicity
 
 Nationality is sometimes used simply as an alternative word for ethnicity or national origin, just as some people assume that citizenship and nationality are identical.[19] In some countries, the cognate word for _nationality_ in local language may be understood as a synonym of ethnicity or as an identifier of cultural and family-based self-determination, rather than on relations with a state or current government. For example, some Kurds say that they have Kurdish nationality, even though there is no Kurdish sovereign state at this time in history.
 
-Russian_birth_certificate_of_Michael_Lucas.JPG) was recorded. These records were subsequently used to determine the ethnicity of the child, as specified in his internal passport.]] In the context of former Soviet Union and former Socialist Federal Republic of Yugoslavia, "nationality" is often used as translation of the Russian ''nacional'nost' '' and Serbo-Croatian _narodnost_, which were the terms used in those countries for ethnic groups and local affiliations within the member states of the federation. In the Soviet Union, more than 100 such groups were formally recognized. Membership in these groups was identified on Soviet internal passports, and recorded in censuses in both the USSR and Yugoslavia. In the early years of the Soviet Union's existence, ethnicity was usually determined by the person's native language, and sometimes through religion or cultural factors, such as clothing.[20] Children born after the revolution were categorized according to their parents' recorded ethnicities. Many of these ethnic groups are still recognized by modern Russia and other countries.
+) was recorded. These records were subsequently used to determine the ethnicity of the child, as specified in his internal passport.]] In the context of former Soviet Union and former Socialist Federal Republic of Yugoslavia, "nationality" is often used as translation of the Russian ''nacional'nost' '' and Serbo-Croatian _narodnost_, which were the terms used in those countries for ethnic groups and local affiliations within the member states of the federation. In the Soviet Union, more than 100 such groups were formally recognized. Membership in these groups was identified on Soviet internal passports, and recorded in censuses in both the USSR and Yugoslavia. In the early years of the Soviet Union's existence, ethnicity was usually determined by the person's native language, and sometimes through religion or cultural factors, such as clothing.[20] Children born after the revolution were categorized according to their parents' recorded ethnicities. Many of these ethnic groups are still recognized by modern Russia and other countries.
 
 Similarly, the term _nationalities of China_ refers to ethnic and cultural groups in China. Spain is one nation, made up of nationalities, which are not politically recognized as nations (state), but can be considered smaller nations within the Spanish nation. Spanish law recognises the autonomous communities of Andalusia, Aragon, Balearic Islands, Canary Islands, Catalonia, Valencia, Galicia and the Basque Country as "nationalities" (_nacionalidades_).
 
@@ -73,53 +73,53 @@ Africa
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 | Country:                 | Unmarried fathers able to confer nationality on children | Mothers able to confer nationality on children | Women able to confer nationality on spouses |
 +==========================+==========================================================+================================================+=============================================+
-| Benin                    | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Benin                    |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Burundi                  | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Burundi                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Cameroon                 | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Cameroon                 |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Central African Republic | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Central African Republic |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Comoros                  | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Comoros                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Congo                    | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Congo                    |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Egypt                    | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Egypt                    |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Eswatini                 | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Eswatini                 |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Guinea                   | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Guinea                   |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Lesotho                  | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Lesotho                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Liberia                  | Yes_check.svg                                            | X_mark.svg                                     | Yes_check.svg                               |
+| Liberia                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Libya                    | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Libya                    |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Madagascar               | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Madagascar               |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Malawi                   | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Malawi                   |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Mauritania               | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Mauritania               |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Mauritius                | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Mauritius                |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Morocco                  | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Morocco                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Nigeria                  | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Nigeria                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Sierra Leone             | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Sierra Leone             |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Somalia                  | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Somalia                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Sudan                    | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Sudan                    |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Tanzania                 | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Tanzania                 |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Togo                     | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Togo                     |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Tunisia                  | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Tunisia                  |                                                          |                                                |                                             |
 +--------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 
 Americas
@@ -127,15 +127,15 @@ Americas
 +----------------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 | Nation:                          | Unmarried fathers able to confer nationality on children | Mothers able to confer nationality on children | Women able to confer nationality on spouses |
 +==================================+==========================================================+================================================+=============================================+
-| Bahamas                          | X_mark.svg                                               | X_mark.svg                                     | X_mark.svg                                  |
+| Bahamas                          |                                                          |                                                |                                             |
 +----------------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Barbados                         | X_mark.svg                                               | X_mark.svg                                     | X_mark.svg                                  |
+| Barbados                         |                                                          |                                                |                                             |
 +----------------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Guatemala                        | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Guatemala                        |                                                          |                                                |                                             |
 +----------------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Saint Lucia                      | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Saint Lucia                      |                                                          |                                                |                                             |
 +----------------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Saint Vincent and the Grenadines | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Saint Vincent and the Grenadines |                                                          |                                                |                                             |
 +----------------------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 
 Asia
@@ -143,47 +143,47 @@ Asia
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 | Country:             | Unmarried fathers able to confer nationality on children | Mothers able to confer nationality on children | Women able to confer nationality on spouses |
 +======================+==========================================================+================================================+=============================================+
-| Bahrain              | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Bahrain              |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Bangladesh           | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Bangladesh           |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Brunei               | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Brunei               |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Iran                 | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Iran                 |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Iraq                 | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Iraq                 |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Jordan               | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Jordan               |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Kuwait               | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Kuwait               |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Lebanon              | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Lebanon              |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Malaysia             | X_mark.svg                                               | X_mark.svg                                     | X_mark.svg                                  |
+| Malaysia             |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Nepal                | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Nepal                |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Oman                 | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Oman                 |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| India                | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| India                |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 |                      |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Pakistan             | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Pakistan             |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Philippines          | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Philippines          |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Qatar                | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Qatar                |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Saudi Arabia         | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Saudi Arabia         |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Singapore            | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg |-INDIA                          |
+| Singapore            |                                                          |                                                | |-INDIA                                     |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Thailand             | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Thailand             |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| United Arab Emirates | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| United Arab Emirates |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Yemen                | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Yemen                |                                                          |                                                |                                             |
 +----------------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 
 Europe
@@ -191,7 +191,7 @@ Europe
 +----------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 | Country: | Unmarried fathers able to confer nationality on children | Mothers able to confer nationality on children | Women able to confer nationality on spouses |
 +==========+==========================================================+================================================+=============================================+
-| Monaco   | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Monaco   |                                                          |                                                |                                             |
 +----------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 
 Oceania
@@ -199,11 +199,11 @@ Oceania
 +-----------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 | Country:        | Unmarried fathers able to confer nationality on children | Mothers able to confer nationality on children | Women able to confer nationality on spouses |
 +=================+==========================================================+================================================+=============================================+
-| Kiribati        | Yes_check.svg                                            | X_mark.svg                                     | X_mark.svg                                  |
+| Kiribati        |                                                          |                                                |                                             |
 +-----------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Nauru           | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Nauru           |                                                          |                                                |                                             |
 +-----------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
-| Solomon Islands | Yes_check.svg                                            | Yes_check.svg                                  | X_mark.svg                                  |
+| Solomon Islands |                                                          |                                                |                                             |
 +-----------------+----------------------------------------------------------+------------------------------------------------+---------------------------------------------+
 
 

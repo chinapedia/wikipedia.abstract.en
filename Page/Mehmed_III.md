@@ -16,8 +16,6 @@ Mehmed III was an idle ruler, leaving government to his mother Safiye Sultan, th
 
 Austro-Hungarian War
 
-Surrender_of_Eger,_1596,_A.jpg
-
 The major event of his reign was the Austro-Ottoman War in Hungary (1593–1606). Ottoman defeats in the war caused Mehmed III to take personal command of the army, the first sultan to do so since Suleiman I in 1566. Accompanied by the Sultan, the Ottomans conquered Eger in 1596. Upon hearing of the Habsburg army's approach, Mehmed wanted to dismiss the army and return to Istanbul.[6] However, the Ottomans eventually decided to face the enemy and defeated the Habsburg and Transylvanian forces at the Battle of Keresztes[7] (known in Turkish as the Battle of Haçova), during which the Sultan had to be dissuaded from fleeing the field halfway through the battle. Upon returning to Istanbul in victory, Mehmed told his Vezirs that he would campaign again.[8] The next year the Venetian Bailo in Istanbul noted, "the doctors declared that the Sultan cannot leave for war on account of his bad health, produced by excesses of eating and drinking".[9]
 
 In reward for his services at the war, Cigalazade Yusuf Sinan Pasha was made Grand Vizier in 1596. However, with pressure from the court and his mother, Mehmed reinstated Damat Ibrahim Pasha to this position shortly afterwards.[10]

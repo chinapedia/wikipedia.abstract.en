@@ -11,11 +11,11 @@ The Drevlians were a neighboring tribe with which the growing Kievan Rus’ empi
 
 Regency
 
-Olga_and_her_dead_husband_Igor.jpg.]] After Igor's death in 945, Olga ruled Kievan Rus as regent on behalf of their son Svyatoslav. Little is known about Olga’s tenure as ruler of Kiev, but the _Primary Chronicle_ does give an account of her ascension to the throne and her bloody revenge on the Drevlians for the murder of her husband as well as some insight into her role as civil leader of the Kievan people.
+.]] After Igor's death in 945, Olga ruled Kievan Rus as regent on behalf of their son Svyatoslav. Little is known about Olga’s tenure as ruler of Kiev, but the _Primary Chronicle_ does give an account of her ascension to the throne and her bloody revenge on the Drevlians for the murder of her husband as well as some insight into her role as civil leader of the Kievan people.
 
 Drevlian Uprising
 
-St._Olga,_1895_(priv._coll).jpg Imperial icon created in 1895 of St. Olga. Silver, gold, color enamel, tempera. Collection V.Logvinenko]] After Igor’s death at the hands of the Drevlians, Olga assumed the throne because her three-year-old son Svyatoslav was too young to rule. The Drevlians, emboldened by their success in ambushing and killing the king, sent a messenger to Olga proposing that she marry his murderer, Prince Mal. Twenty Drevlian negotiators boated to Kiev to pass along their king’s message and to ensure Olga’s compliance. They arrived in her court and told the queen why they were in Kiev: “to report that they had slain her husband...and that Olga should come and marry their Prince Mal.”[11] Olga responded:
+Imperial icon created in 1895 of St. Olga. Silver, gold, color enamel, tempera. Collection V.Logvinenko]] After Igor’s death at the hands of the Drevlians, Olga assumed the throne because her three-year-old son Svyatoslav was too young to rule. The Drevlians, emboldened by their success in ambushing and killing the king, sent a messenger to Olga proposing that she marry his murderer, Prince Mal. Twenty Drevlian negotiators boated to Kiev to pass along their king’s message and to ensure Olga’s compliance. They arrived in her court and told the queen why they were in Kiev: “to report that they had slain her husband...and that Olga should come and marry their Prince Mal.”[11] Olga responded:
 
   Your proposal is pleasing to me’ indeed, my husband cannot rise again from the dead. But I desire to honor you tomorrow in the presence of my people. Return now to your boat, and remain there with an aspect of arrogance. I shall send for you on the morrow, and you shall say, ‘We will not ride on horses nor go on foot’ carry us in our boat.’ And you shall be carried in your boat.[12]
 
@@ -39,7 +39,7 @@ During her son's prolonged military campaigns, she remained in charge of Kiev, r
 
 Christianity
 
-The _Primary Chronicle_ does not go into additional detail about Olga's time as regent, but does tell the story of her conversion to Christianity and subsequent effect on the acceptance of Orthodox Christianity in Eastern Europe. Lemko_Church_of_Saints_Vladimir_and_Olga.jpg church of Saints Vladimir and Olga, now located at the Museum of National Folk Architecture and Rural Life in Lviv]]
+The _Primary Chronicle_ does not go into additional detail about Olga's time as regent, but does tell the story of her conversion to Christianity and subsequent effect on the acceptance of Orthodox Christianity in Eastern Europe. church of Saints Vladimir and Olga, now located at the Museum of National Folk Architecture and Rural Life in Lviv]]
 
 Conversion
 
@@ -89,7 +89,7 @@ In 1547, nearly 600 years after her 969 death, the Russian Orthodox Church named
 
 Churches and Monuments
 
-Vladimir_and_Olga_(Annunciation_Cathedral).jpg]] Due to the imperfect transliteration between the Ukrainian and the English, the name Olga is synonymous with Olha. Because of her Varangian origin, she also is known in Old Norse as Saint Helga.[44]
+]] Due to the imperfect transliteration between the Ukrainian and the English, the name Olga is synonymous with Olha. Because of her Varangian origin, she also is known in Old Norse as Saint Helga.[44]
 
 -   Cathedral of St. Olga, Kiev (inaugurated 2010)
 -   Church of Sts. Olha and Elizabeth, Lviv
@@ -107,7 +107,7 @@ Vladimir_and_Olga_(Annunciation_Cathedral).jpg]] Due to the imperfect transliter
 
 Modern Reception
 
-Coat_of_Arms_of_Lachčycy,_Belarus.png village in Belarus.]] As an important figure in the history of Christianity, Olga’s image as a saint lives on. But the question of Olga as a historical figure and character in the _Primary Chronicle_ has been taken up in recent years.
+village in Belarus.]] As an important figure in the history of Christianity, Olga’s image as a saint lives on. But the question of Olga as a historical figure and character in the _Primary Chronicle_ has been taken up in recent years.
 
 Olga’s historical characterization as a vengeful princess, juxtaposed with her estimation within the Orthodox tradition as a saint, has produced a variety of modern interpretations of her story. Scholars tend to be more conservative with their interpretations, focusing on what the _Primary Chronicle_ makes explicit: Olga’s role in the spread of Christianity to Eastern Europe and Russia. These texts, generally speaking, focus on Olga’s role as advisor to her son, whose decision not to persecute Christians in the Kievan Rus' was a pivotal moment in the religious history of Russia and its neighboring lands. Academic work on Olga tends not to dwell on the narrative twists and turns of her story, instead focusing on extracting historical facts from the story.
 

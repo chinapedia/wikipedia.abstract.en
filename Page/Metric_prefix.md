@@ -99,7 +99,7 @@ The LaTeX typesetting system features an _SIunitx_ package in which the units of
 
 Non-standard prefixes
 
-Myriameterstein36RüdesheimRhein.JPG: 36 (XXXVI) myriametres from Basel. The stated distance is 360 km; the decimal mark in Germany is a comma.]]
+: 36 (XXXVI) myriametres from Basel. The stated distance is 360 km; the decimal mark in Germany is a comma.]]
 
 Obsolete metric prefixes
 

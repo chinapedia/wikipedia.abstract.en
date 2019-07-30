@@ -1,4 +1,4 @@
-Blue_Eyes_Fuchsia.JPG''' flower and buds, from order Myrtales and family Onagraceae]] The MYRTALES are an order of flowering plants placed as a sister to the eurosids II clade as of the publishing of the _Eucalyptus grandis_ genome in June 2014.[1]
+''' flower and buds, from order Myrtales and family Onagraceae]] The MYRTALES are an order of flowering plants placed as a sister to the eurosids II clade as of the publishing of the _Eucalyptus grandis_ genome in June 2014.[1]
 
 The APG III system of classification for angiosperms still places it within the eurosids. The following families are included as of APGIII:[2]
 

@@ -9,7 +9,7 @@ Jackson is the anchor for the Jackson, Mississippi Metropolitan Statistical Area
 
 History
 
-Choctaw-Nation.png's location and size compared to the U.S. state of Mississippi]]
+'s location and size compared to the U.S. state of Mississippi]]
 
 Native Americans
 
@@ -19,7 +19,7 @@ Under pressure from the U.S. government, the Choctaw Native Americans agreed to 
 
 Founding and antebellum period (to 1860)
 
-Andrew_Jackson.jpg, the 7th President of the United States and the city's namesake]]
+, the 7th President of the United States and the city's namesake]]
 
 Located on the historic Natchez Trace trade route, created by Native Americans and used by European-American settlers, and on the Pearl River, the city's first European-American settler was Louis LeFleur, a French-Canadian trader. The village became known as LeFleur's Bluff.[9] During the late 18th century and early 19th century, this site had a trading post. It was connected to markets in Tennessee. Soldiers returning to Tennessee from the military campaigns near New Orleans in 1815 built a public road that connected Lake Pontchartrain in Louisiana to this district.[10] A United States treaty with the Choctaw, the Treaty of Doak's Stand in 1820, formally opened the area for non-Native American settlers.
 
@@ -35,7 +35,7 @@ Jackson was connected by public road to Vicksburg and Clinton in 1826.[16] Jacks
 
 American Civil War and late 19th century (1861–1900)
 
-Jackson-StarsAndStripesHarpers.jpg'', 20 June 1863, after the capture of Jackson by Union forces during the American Civil War]] Jacksonsiege1863.jpg Despite its small population, during the Civil War, Jackson became a strategic center of manufacturing for the Confederacy. In 1863, during the military campaign which ended in the capture of Vicksburg, Union forces captured Jackson during two battles—once before the fall of Vicksburg and once after the fall of Vicksburg.
+'', 20 June 1863, after the capture of Jackson by Union forces during the American Civil War]] Despite its small population, during the Civil War, Jackson became a strategic center of manufacturing for the Confederacy. In 1863, during the military campaign which ended in the capture of Vicksburg, Union forces captured Jackson during two battles—once before the fall of Vicksburg and once after the fall of Vicksburg.
 
 On May 13, 1863, Union forces won the first Battle of Jackson, forcing Confederate forces to flee northward towards Canton. On May 15, Union troops under the command of William Tecumseh Sherman burned and looted key facilities in Jackson, a strategic manufacturing and railroad center for the Confederacy. After driving the Confederate forces out of Jackson, Union forces turned west and engaged the Vicksburg defenders at the Battle of Champion Hill in nearby Edwards. The Union forces began their siege of Vicksburg soon after their victory at Champion Hill. Confederate forces began to reassemble in Jackson in preparation for an attempt to break through the Union lines surrounding Vicksburg and end the siege. The Confederate forces in Jackson built defensive fortifications encircling the city while preparing to march west to Vicksburg.
 
@@ -43,7 +43,7 @@ Confederate forces marched out of Jackson in early July 1863 to break the siege 
 
 Union forces completely burned the city after its capture this second time. The city was called "Chimneyville" because only the chimneys of houses were left standing. The northern line of Confederate defenses in Jackson during the siege was located along a road near downtown Jackson, now known as Fortification Street.
 
-Jackson_December_2018_37_(Old_Mississippi_State_Capitol).jpg, downtown Jackson|alt=]]
+, downtown Jackson|alt=]]
 
 Because of the siege and following destruction, few antebellum structures have survived in Jackson. The Governor's Mansion, built in 1842, served as Sherman's headquarters and has been preserved. Another is the Old Capitol building, which served as the home of the Mississippi state legislature from 1839 to 1903. The Mississippi legislature passed the ordinance of secession from the Union on January 9, 1861 there, becoming the second state to secede from the United States. The Jackson City Hall, built in 1846 for less than $8,000, also survived. It is said that Sherman, a Mason, spared it because it housed a Masonic Lodge, though a more likely reason is that it housed an army hospital.
 
@@ -57,7 +57,7 @@ The so-called New Capitol replaced the older structure upon its completion in 19
 
 Early 20th century (1901–1960)
 
-Jackson_Mississippi_Panorama_1910.jpg 1919_map_Jackson,_Mississippi_Automobile_Blue_Book.jpg TownCreekMississippi1921.jpg Standard_Life_Building_Jackson_MS.jpg, downtown Jackson]] Author Eudora Welty was born in Jackson in 1909, lived most of her life in the Belhaven section of the city, and died there in 2001. Her memoir of development as a writer, _One Writer's Beginnings_ (1984), presented a picture of the city in the early 20th century. She won the Pulitzer Prize in 1973 for her novel, _The Optimist's Daughter,_ and is best known for her novels and short stories. The main Jackson Public Library was named in her honor, and her home has been designated as a National Historic Landmark.
+, downtown Jackson]] Author Eudora Welty was born in Jackson in 1909, lived most of her life in the Belhaven section of the city, and died there in 2001. Her memoir of development as a writer, _One Writer's Beginnings_ (1984), presented a picture of the city in the early 20th century. She won the Pulitzer Prize in 1973 for her novel, _The Optimist's Daughter,_ and is best known for her novels and short stories. The main Jackson Public Library was named in her honor, and her home has been designated as a National Historic Landmark.
 
 Richard Wright, a highly acclaimed African-American author, lived in Jackson as an adolescent and young man in the 1910s and 1920s. He related his experience in his memoir _Black Boy_ (1945). He described the harsh and largely terror-filled life most African Americans experienced in the South and in Northern ghettos such as Chicago under segregation in the early 20th century. Jackson had significant growth in the early 20th century, which produced dramatic changes in the city's skyline. Jackson's new Union Station downtown reflected the city's service by multiple rail lines, including the Illinois Central. The railroads were among the new work opportunities for African Americans, who moved into the city from rural areas for such industrial-type jobs.
 
@@ -91,7 +91,7 @@ The civil rights movement had been active for decades, particularly mounting leg
 
 In 1960, the Census Bureau reported Jackson's population as 64.3% white and 35.7% black.[25] At the time, public facilities were segregated and Jim Crow was in effect. Efforts to desegregate Jackson facilities began when nine Tougaloo College students tried to read books in the "white only" public library and were arrested. Founded as a historically black college (HBCU) by the American Missionary Association after the Civil War, Tougaloo College helped organize both black and white students of the region to work together for civil rights. It created partnerships with the neighboring mostly white Millsaps College to work with student activists. It has been recognized as a site on the "Civil Rights Trail" by the National Park Service.[26]
 
-Jackson_December_2018_20_(Old_Greyhound_Bus_Station).jpg]]
+]]
 
 The mass demonstrations of the 1960s were initiated with the arrival of more than 300 Freedom Riders on May 24, 1961. They were arrested in Jackson for disturbing the peace after they disembarked from their interstate buses. The interracial teams rode the buses from Washington, D.C. and sat together to demonstrate against segregation on public transportation, as the Constitution provides for unrestricted public transportation.[27] Although the Freedom Riders had intended New Orleans as their final destination, Jackson was the farthest that any managed to travel. New participants kept joining the movement, as they intended to fill the jails in Jackson with their protest. The riders had encountered extreme violence along the way, including a bus burning and physical assaults. They attracted national media attention to the struggle for constitutional rights.
 
@@ -140,7 +140,7 @@ Lumumba's son, Chokwe Antar Lumumba, ran for the mayoral seat following his fath
 
 Geography
 
-Jackson_Mississippi.jpg]]
+]]
 
 Jackson is located primarily in northeastern Hinds County, with small portions in Madison and Rankin counties. The Pearl River forms most of the eastern border of the city. A small portion of the city containing Tougaloo College lies in Madison County, bounded on the west by Interstate 220 and on the east by U.S. Route 51 and Interstate 55. An unconnected section of the city surrounds Jackson–Evers International Airport in Rankin County. In the 2010 census, only 622 of the city's residents lived in Madison County,[52] and only 1 lived within the city limits in Rankin County.[53] The city is bordered to the north by Ridgeland in Madison County, to the northeast by Ross Barnett Reservoir on the Pearl River, to the east by Flowood and Richland in Rankin County, to the south by Byram in Hinds County, and to the west by Clinton in Hinds County.
 
@@ -148,12 +148,12 @@ According to the United States Census Bureau, the city has a total area of , of 
 
 Major highways
 
--   I-55.svg Interstate 55
--   I-20.svg Interstate 20
--   I-220.svg Interstate 220
--   US_51.svg US 51
--   US_49.svg US 49
--   US_80.svg US 80
+-   Interstate 55
+-   Interstate 20
+-   Interstate 220
+-   US 51
+-   US 49
+-   US 80
 
 Geology
 
@@ -170,7 +170,7 @@ Demographics
 
 Jackson remained a small town for much of the 19th century. Before the Civil War, Jackson's population remained small, particularly in contrast to the river towns along the commerce-laden Mississippi River. Despite the city's status as the state capital, the 1850 census counted only 1,881 residents, and by 1900 the population of Jackson was still less than 8,000. Although it expanded rapidly, during this period Meridian became Mississippi's largest city, based on trade, manufacturing, and access to transportation via railroad and highway.
 
-In the early 20th century, as can be seen by the table, Jackson had its largest rates of growth, but ranked second to Meridian in Mississippi. By 1944, Jackson's population had risen to some 70,000 inhabitants, and it became the largest city in the state. It has maintained its position, achieving a peak population in the 1980 census of more than 200,000 residents in the city. Since then, Jackson has steadily seen a decline in its population, while its suburbs have had a boom. This change has occurred in part due to white flight,[61] but it also demonstrates the national suburbanization trend, in which wealthier residents moved out to newer housing. This decline slowed in the first decade of the 21st century.[62] Race_and_ethnicity_2010-_Jackson_(5560427030).png
+In the early 20th century, as can be seen by the table, Jackson had its largest rates of growth, but ranked second to Meridian in Mississippi. By 1944, Jackson's population had risen to some 70,000 inhabitants, and it became the largest city in the state. It has maintained its position, achieving a peak population in the 1980 census of more than 200,000 residents in the city. Since then, Jackson has steadily seen a decline in its population, while its suburbs have had a boom. This change has occurred in part due to white flight,[61] but it also demonstrates the national suburbanization trend, in which wealthier residents moved out to newer housing. This decline slowed in the first decade of the 21st century.[62]
 
 As of the census[63] of 2010, there were 173,514 people, and 62,400 households. The population density was . There were 74,537 housing units. The racial makeup of the city was 79.4% Black or African American, 18.4% White or Euro American, 0.1% Native American, 0.4% Asian, and 0.9% from two or more races. 1.6% of the population were Hispanic or Latino of any race.[64] Non-Hispanic Whites were 18% of the population in 2010,[65] down from 60% in 1970.[66]
 
@@ -185,7 +185,7 @@ Transportation
 
 Air travel
 
-Jackson-Evers_International_Airport_in_July_2005.jpg, July 2005]] Jatran_bus.jpg bus in front of the Hotel King Edward and Standard Life Building, downtown Jackson]] Amtrak_Jackson,_MS_Station.jpg]] Jackson is served by Jackson–Evers International Airport, located at Allen C. Thompson Field, east of Jackson and north of Pearl in Rankin County. Its IATA code is JAN. The airport has non-stop service to eight cities (Atlanta, Chicago, Washington D.C., Dallas, Houston, Orlando, Denver, and Charlotte) throughout the United States and is served by five scheduled carriers (American, Delta, United, Frontier, and ViaAir). Jackson became one of the only cities to ever lose Southwest Airlines service when the carrier ceased service in the summer of 2014.
+, July 2005]] bus in front of the Hotel King Edward and Standard Life Building, downtown Jackson]] ]] Jackson is served by Jackson–Evers International Airport, located at Allen C. Thompson Field, east of Jackson and north of Pearl in Rankin County. Its IATA code is JAN. The airport has non-stop service to eight cities (Atlanta, Chicago, Washington D.C., Dallas, Houston, Orlando, Denver, and Charlotte) throughout the United States and is served by five scheduled carriers (American, Delta, United, Frontier, and ViaAir). Jackson became one of the only cities to ever lose Southwest Airlines service when the carrier ceased service in the summer of 2014.
 
 On December 22, 2004, the Jackson City Council voted 6–0 to rename Jackson International Airport in honor of slain civil rights leader and field secretary for the Mississippi chapter of the NAACP, Medgar Evers. This decision took effect on January 22, 2005.
 
@@ -197,32 +197,32 @@ Ground transportation
 
 Interstate highways
 
-20 px INTERSTATE 20
+INTERSTATE 20
 Runs east-west from near El Paso, Texas to Florence, South Carolina. Jackson is roughly halfway between Dallas and Atlanta. The highway is six lanes from Interstate 220 to MS 468 in Pearl.
 
-20 px INTERSTATE 55
+INTERSTATE 55
 Runs north-south from Chicago through Jackson towards Brookhaven, McComb, and the Louisiana state line to New Orleans. Jackson is roughly halfway between New Orleans and Memphis, Tennessee. The highway maintains eight to ten lanes in the northern part of the city, six lanes in the center, and four lanes south of I-20.
 
-25 px INTERSTATE 220
+INTERSTATE 220
 Connects Interstates 55 and 20 on the north and west sides of the city and is four lanes throughout its route.
 
 U.S. highways
 
-20 px U.S. HIGHWAY 49
+U.S. HIGHWAY 49
 Runs north-south from the Arkansas state line at Lula via Clarksdale and Yazoo City, towards Hattiesburg and Gulfport. It bypasses the city via I-20 and I-220
 
-20 px U.S. HIGHWAY 51
+U.S. HIGHWAY 51
 Known in Jackson as State Street, it roughly parallels Interstate 55 from the I-20/I-55 western split to downtown. It multiplexes with I-55 from Pearl/Pascagoula St northward to County Line Road, where the two highways split.
 
-20 px U.S. HIGHWAY 80
+U.S. HIGHWAY 80
 Roughly parallels Interstate 20.
 
 State highways
 
-20 px MISSISSIPPI HIGHWAY 18
+MISSISSIPPI HIGHWAY 18
 Runs southwest towards Raymond and Port Gibson; southeast towards Bay Springs and Quitman.
 
-20 px MISSISSIPPI HIGHWAY 25
+MISSISSIPPI HIGHWAY 25
 Some parts of this road are known as Lakeland Drive such as Jackson & Flowood, which runs northeast towards Carthage and Starkville.
 
 Other roads
@@ -268,8 +268,6 @@ In 1993 Jackson had the nation's 12th highest homicide rate among cities with mo
 
 Religion
 
-Jackson_December_2018_07_(First_Baptist_Church).jpg
-
 -   Jackson is the seat of the Episcopal Diocese of Mississippi.
 -   It is the episcopal see of the Roman Catholic Diocese of Jackson.
 -   The original campus of the Reformed Theological Seminary is located here.
@@ -310,7 +308,7 @@ Cultural organizations and institutions
 
 Government and infrastructure
 
-Scribner's1874JacksonCapitol.gif'' of the Old Capitol, the seat of Mississippi's legislature from 1839 to 1903.]]
+'' of the Old Capitol, the seat of Mississippi's legislature from 1839 to 1903.]]
 
 Municipal government
 
@@ -353,7 +351,7 @@ Calling for a state of emergency increases the likelihood that the U.S. Departme
 
 Education
 
-Jacksonstate.jpg" performing at Mississippi Veterans Memorial Stadium]] Millsaps_College.jpg
+" performing at Mississippi Veterans Memorial Stadium]]
 
 Jackson is home to the most collegiate institutions in Mississippi. Jackson State University is the largest collegiate institution in Jackson, fourth largest in Mississippi, and the only doctoral-granting research institution based in the region.[104][105]
 
@@ -445,8 +443,6 @@ Historic
 
 Publishing
 
-Corvette_Classic_Jackson_Convention_Center.jpg
-
 -   University Press of Mississippi, the state's only not-for-profit publishing house and collective publisher for Mississippi's eight state universities, producing works on local history, culture, and society
 
 Television
@@ -500,7 +496,7 @@ AM radio
 
 Points of interest
 
-Mississippi_State_Capitol.jpg]] Thalia_Mara_Hall_Jackson_Mississippi.jpg Hall in Jackson, Mississippi]]
+]] Hall in Jackson, Mississippi]]
 
 Museums and historic sites
 
@@ -522,8 +518,6 @@ Historic marker
 Jackson received its first Mississippi Blues Trail designation in honor of the former "Subway Lounge" on Pearl Street. A ceremony was held to place a historic marker at the former site of the Summers Hotel, where the Subway Lounge was located in the basement level.[126] When the Summers Hotel opened in 1943, long before desegregation, it was one of two hotels in the city available as lodging to blacks. In the 1960s, the hotel added a lounge that featured jazz. In the 1980s, when the lounge was revived, it catered to late night blues performers.
 
 Parks
-
-Lamar_Life_Building.jpg
 
 -   Battlefield Park
 -   Grove Park
@@ -562,8 +556,6 @@ In 2011, the United States Navy named the USS _Jackson_ (LCS-6) in honor of the 
 
 
 Sports
-
-Mississippi_Veterans_Memorial_Stadium.jpg
 
 Roller derby
 

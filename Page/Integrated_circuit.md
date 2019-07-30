@@ -1,4 +1,4 @@
-Microchips.jpg integrated circuits. These packages have a transparent window that shows the die inside. The window is used to erase the memory by exposing the chip to ultraviolet light.]] EPROM_Microchip_SuperMacro.jpg Siliconchip_by_shapeshifter.png, down to the polysilicon (pink), wells (greyish), and substrate (green)]]
+integrated circuits. These packages have a transparent window that shows the die inside. The window is used to erase the memory by exposing the chip to ultraviolet light.]] , down to the polysilicon (pink), wells (greyish), and substrate (green)]]
 
 An INTEGRATED CIRCUIT or MONOLITHIC INTEGRATED CIRCUIT (also referred to as an IC, a CHIP, or a MICROCHIP) is a set of electronic circuits on one small flat piece (or "chip") of semiconductor material that is normally silicon. The integration of large numbers of tiny transistors into a small chip results in circuits that are orders of magnitude smaller, faster, and less expensive than those constructed of discrete electronic components. The IC's mass production capability, reliability, and building-block approach to circuit design has ensured the rapid adoption of standardized ICs in place of designs using discrete transistors. ICs are now used in virtually all electronic equipment and have revolutionized the world of electronics. Computers, mobile phones, and other digital home appliances are now inextricable parts of the structure of modern societies, made possible by the small size and low cost of ICs.
 
@@ -24,7 +24,7 @@ The idea of the integrated circuit was conceived by Geoffrey Dummer (1909–2002
 
 A precursor idea to the IC was to create small ceramic squares (wafers), each containing a single miniaturized component. Components could then be integrated and wired into a bidimensional or tridimensional compact grid. This idea, which seemed very promising in 1957, was proposed to the US Army by Jack Kilby and led to the short-lived Micromodule Program (similar to 1951's Project Tinkertoy).[8][9][10] However, as the project was gaining momentum, Kilby came up with a new, revolutionary design: the IC.
 
-Kilby_solid_circuit.jpg's original integrated circuit]]
+'s original integrated circuit]]
 
 Newly employed by Texas Instruments, Kilby recorded his initial ideas concerning the integrated circuit in July 1958, successfully demonstrating the first working integrated example on 12 September 1958.[11] In his patent application of 6 February 1959,[12] Kilby described his new device as "a body of semiconductor material … wherein all the components of the electronic circuit are completely integrated."[13] The first customer for the new invention was the US Air Force.[14]
 
@@ -73,11 +73,11 @@ Modern semiconductor chips have billions of components, and are too complex to b
 
 Types
 
-cmosic.JPG IC in a DIP]] Integrated circuits can be classified into analog,[37] digital[38] and mixed signal,[39] consisting of both analog and digital signaling on the same IC.
+IC in a DIP]] Integrated circuits can be classified into analog,[37] digital[38] and mixed signal,[39] consisting of both analog and digital signaling on the same IC.
 
 Digital integrated circuits can contain anywhere from one[40] to billions[41] of logic gates, flip-flops, multiplexers, and other circuits in a few square millimeters. The small size of these circuits allows high speed, low power dissipation, and reduced manufacturing cost compared with board-level integration. These digital ICs, typically microprocessors, DSPs, and microcontrollers, work using boolean algebra to process "one" and "zero" signals.
 
-Intel_8742_153056995.jpg from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip]] Among the most advanced integrated circuits are the microprocessors or "CORES", which control everything from personal computers and cellular phones to digital microwave ovens. Digital memory chips and application-specific integrated circuits (ASICs) are examples of other families of integrated circuits that are important to the modern information society.
+from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip]] Among the most advanced integrated circuits are the microprocessors or "CORES", which control everything from personal computers and cellular phones to digital microwave ovens. Digital memory chips and application-specific integrated circuits (ASICs) are examples of other families of integrated circuits that are important to the modern information society.
 
 In the 1980s, programmable logic devices were developed. These devices contain circuits whose logical function and connectivity can be programmed by the user, rather than being fixed by the integrated circuit manufacturer. This allows a single chip to be programmed to implement different LSI-type functions such as logic gates, adders and registers. Programmability comes in at least four forms - devices that can be programmed only once, devices that can be erased and then re-programmed using UV light, devices that can be (re)programmed using flash memory, and field-programmable gate arrays (FPGAs) which can be programmed at any time, including during operation. Current FPGAs can (as of 2016) implement the equivalent of millions of gates and operate at frequencies up to 1 GHz.[42]
 
@@ -96,7 +96,7 @@ Manufacturing
 
 Fabrication
 
-Silicon_chip_3d.png with three metal layers (dielectric has been removed). The sand-colored structures are metal interconnect, with the vertical pillars being contacts, typically plugs of tungsten. The reddish structures are polysilicon gates, and the solid at the bottom is the crystalline silicon bulk.]] Cmos-chip_structure_in_2000s_(en).svg (front-end of line), BEOL (back-end of line) and first parts of back-end process.]]
+with three metal layers (dielectric has been removed). The sand-colored structures are metal interconnect, with the vertical pillars being contacts, typically plugs of tungsten. The reddish structures are polysilicon gates, and the solid at the bottom is the crystalline silicon bulk.]] (front-end of line), BEOL (back-end of line) and first parts of back-end process.]]
 
 The semiconductors of the periodic table of the chemical elements were identified as the most likely materials for a _solid-state vacuum tube_. Starting with copper oxide, proceeding to germanium, then silicon, the materials were systematically studied in the 1940s and 1950s. Today, monocrystalline silicon is the main substrate used for ICs although some III-V compounds of the periodic table such as gallium arsenide are used for specialized applications like LEDs, lasers, solar cells and the highest-speed integrated circuits. It took decades to perfect methods of creating crystals with minimal defects in semiconducting materials' crystal structure.
 
@@ -128,8 +128,6 @@ Each device is tested before packaging using automated test equipment (ATE), in 
 -   Multigate devices such as tri-gate transistors being manufactured by Intel from 2011 in their 22 nm process.
 
 Packaging
-
-RUS-IC.JPG
 
 The earliest integrated circuits were packaged in ceramic flat packs, which continued to be used by the military for their reliability and small size for many years. Commercial circuit packaging quickly moved to the dual in-line package (DIP), first in ceramic and later in plastic. In the 1980s pin counts of VLSI circuits exceeded the practical limit for DIP packaging, leading to pin grid array (PGA) and leadless chip carrier (LCC) packages. Surface mount packaging appeared in the early 1980s and became popular in the late 1980s, using finer lead pitch with leads formed as either gull-wing or J-lead, as exemplified by the small-outline integrated circuit (SOIC) package – a carrier which occupies an area about 30–50% less than an equivalent DIP and is typically 70% thinner. This package has "gull wing" leads protruding from the two long sides and a lead spacing of 0.050 inches.
 
@@ -206,7 +204,7 @@ Some SSI and MSI chips, like discrete transistors, are still mass-produced, both
 
 VLSI
 
-80486DX2_200x.pngDX2 microprocessor die]]
+DX2 microprocessor die]]
 
 The final step in the development process, starting in the 1980s and continuing through the present, was "very-large-scale integration" (VLSI). The development started with hundreds of thousands of transistors in the early 1980s, , transistor counts continue to grow beyond ten billion transistors per chip.
 

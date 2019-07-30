@@ -21,8 +21,6 @@ Lee's mother grew up at Shirley Plantation, one of the most elegant homes in Vir
 
 Little is known of Lee as a child; he rarely spoke of his boyhood as an adult.[18] Nothing is known of his relationship with his father who, after leaving his family, mentioned Robert only once in a letter. When given the opportunity to visit his father's Georgia grave, he remained there only briefly; yet, during his time as president of Washington College, he defended his father in a biographical sketch while editing Light Horse Harry's memoirs.[19]
 
-Coat_of_Arms_of_the_Lee_Family.svg
-
 In 1809, Harry Lee was put in debtors prison; soon after his release the following year, Harry and Anne Lee and their five children moved to a small house on Cameron Street in Alexandria, Virginia, both because there were then high quality local schools there, and because several members of her extended family lived nearby.[20] In 1811, the family, including the newly born sixth child, Mildred, moved to a house on Oronoco Street, still close to the center of town and with the houses of a number of Lee relatives close by.[21]
 
 In 1812, Harry Lee was badly injured in a political riot in Baltimore and traveled to the West Indies. He would never return, dying when his son Robert was eleven years old.[22] Left to raise six children alone in straitened circumstances, Anne Lee and her family often paid extended visits to relatives and family friends.[23] Robert Lee attended school at Eastern View, a school for young gentlemen, in Fauquier County, and then at the Alexandria Academy, free for local boys, where he showed an aptitude for mathematics. Although brought up to be a practicing Christian, he was not confirmed in the Episcopal Church until age 46.[24]
@@ -34,7 +32,7 @@ Lee entered West Point in the summer of 1825. At the time, the focus of the curr
 
 Military engineer career
 
-Robert_E_Lee_1838.jpg On August 11, 1829, Brigadier General Charles Gratiot ordered Lee to Cockspur Island, Georgia. The plan was to build a fort on the marshy island which would command the outlet of the Savannah River. Lee was involved in the early stages of construction as the island was being drained and built up.[30] In 1831, it became apparent that the existing plan to build what became known as Fort Pulaski would have to be revamped, and Lee was transferred to Fort Monroe at the tip of the Virginia Peninsula (today in Hampton, Virginia).[31]
+On August 11, 1829, Brigadier General Charles Gratiot ordered Lee to Cockspur Island, Georgia. The plan was to build a fort on the marshy island which would command the outlet of the Savannah River. Lee was involved in the early stages of construction as the island was being drained and built up.[30] In 1831, it became apparent that the existing plan to build what became known as Fort Pulaski would have to be revamped, and Lee was transferred to Fort Monroe at the tip of the Virginia Peninsula (today in Hampton, Virginia).[31]
 
 While home in the summer of 1829, Lee had apparently courted Mary Custis whom he had known as a child. Lee obtained permission to write to her before leaving for Georgia, though Mary Custis warned Lee to be "discreet" in his writing, as her mother read her letters, especially from men.[32] Custis refused Lee the first time he asked to marry her; her father did not believe the son of the disgraced Light Horse Harry Lee was a suitable man for his daughter.[33] She accepted him with her father's consent in September 1830, while he was on summer leave,[34] and the two were wed on June 30, 1831.[35]
 
@@ -49,7 +47,7 @@ Lee served as an assistant in the chief engineer's office in Washington, D.C. fr
 
 Marriage and family
 
-Robert_E_Lee_1845.jpg, around age 8, c.1845]] While Lee was stationed at Fort Monroe, he married Mary Anna Randolph Custis (1808–1873), great-granddaughter of Martha Washington by her first husband Daniel Parke Custis, and step-great-granddaughter of George Washington, the first president of the United States. Mary was the only surviving child of George Washington Parke Custis, George Washington's stepgrandson, and Mary Lee Fitzhugh Custis, daughter of William Fitzhugh[46] and Ann Bolling Randolph. Robert and Mary married on June 30, 1831, at Arlington House, her parents' house just across from Washington, D.C. The 3rd U.S. Artillery served as honor guard at the marriage. They eventually had seven children, three boys and four girls:
+, around age 8, c.1845]] While Lee was stationed at Fort Monroe, he married Mary Anna Randolph Custis (1808–1873), great-granddaughter of Martha Washington by her first husband Daniel Parke Custis, and step-great-granddaughter of George Washington, the first president of the United States. Mary was the only surviving child of George Washington Parke Custis, George Washington's stepgrandson, and Mary Lee Fitzhugh Custis, daughter of William Fitzhugh[46] and Ann Bolling Randolph. Robert and Mary married on June 30, 1831, at Arlington House, her parents' house just across from Washington, D.C. The 3rd U.S. Artillery served as honor guard at the marriage. They eventually had seven children, three boys and four girls:
 
 1.  George Washington Custis Lee (Custis, "Boo"); 1832–1913; served as major general in the Confederate Army and aide-de-camp to President Jefferson Davis, captured during the Battle of Sailor's Creek; unmarried
 2.  Mary Custis Lee (Mary, "Daughter"); 1835–1918; unmarried
@@ -67,8 +65,6 @@ On May 1, 1864, General Lee was at the baptism of General A.P. Hill's daughter, 
 
 
 Mexican–American War
-
-Robert_E_Lee_1851.jpg
 
 Lee distinguished himself in the Mexican–American War (1846–1848). He was one of Winfield Scott's chief aides in the march from Veracruz to Mexico City. He was instrumental in several American victories through his personal reconnaissance as a staff officer; he found routes of attack that the Mexicans had not defended because they thought the terrain was impassable.
 
@@ -166,8 +162,6 @@ Resignation from United States Army
 
 Unlike many Southerners who expected a glorious war, Lee correctly predicted it as protracted and devastating.[124] He privately opposed the new Confederate States of America in letters in early 1861, denouncing secession as "nothing but revolution" and an unconstitutional betrayal of the efforts of the Founding Fathers. Writing to George Washington Custis in January, Lee stated:
 
-Robert_E_Lee_in_1863.png
-
 Despite opposing secession, Lee said in January that "we can with a clear conscience separate" if all peaceful means failed. He agreed with secessionists in most areas, such as dislike of Northern anti-slavery criticisms and prevention of expanding slavery to new territories, and fear of its larger population. Lee supported the Crittenden Compromise, which would have constitutionally protected slavery.
 
 Lee's objection to secession was ultimately outweighed by a sense of personal honor, reservations about the legitimacy of a strife-ridden "Union that can only be maintained by swords and bayonets", and duty to defend his native Virginia if attacked.[125] He was asked while leaving Texas by a lieutenant if he intended to fight for the Confederacy or the Union, to which Lee replied, "I shall never bear arms against the Union, but it may be necessary for me to carry a musket in the defense of my native state, Virginia, in which case I shall not prove recreant to my duty".[126]
@@ -196,7 +190,7 @@ In the spring of 1862, in the Peninsula Campaign, the Union Army of the Potomac 
 
 Then Johnston was wounded at the Battle of Seven Pines, on June 1, 1862. Lee now got his first opportunity to lead an army in the field – the force he renamed the Army of _Northern_ Virginia, signalling his confidence that the Union army would be driven away from Richmond. Early in the war, Lee had been called "Granny Lee" for his allegedly timid style of command.[133] Confederate newspaper editorials objected to him replacing Johnston, opining that Lee would be passive, waiting for Union attack. And for the first three weeks of June, he did not attack, instead strengthening Richmond's defenses.
 
-General_R._E._Lee_and_Traveler.jpg (September 1866)]]
+(September 1866)]]
 
 But then he launched a series of bold attacks against McClellan's forces, the Seven Days Battles. Despite superior Union numbers, and some clumsy tactical performances by his subordinates, Lee's attacks derailed McClellan's plans and drove back part of his forces. Confederate casualties were heavy, but McClellan was unnerved, retreated to the lower James River, and abandoned the Peninsula Campaign. This success completely changed Confederate morale, and the public's regard for Lee. After the Seven Days Battles, and until the end of the war, his men called him simply "Marse Robert", a term of respect and affection.
 
@@ -214,7 +208,7 @@ Battle of Gettysburg
 
 The critical decisions came in May–June 1863, after Lee's smashing victory at the Battle of Chancellorsville. The western front was crumbling, as multiple uncoordinated Confederate armies were unable to handle General Ulysses S. Grant's campaign against Vicksburg. The top military advisers wanted to save Vicksburg, but Lee persuaded Davis to overrule them and authorize yet another invasion of the North. The immediate goal was to acquire urgently needed supplies from the rich farming districts of Pennsylvania; a long-term goal was to stimulate peace activity in the North by demonstrating the power of the South to invade. Lee's decision proved a significant strategic blunder and cost the Confederacy control of its western regions, and nearly cost Lee his own army as Union forces cut him off from the South.[143]
 
-Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg]]
+]]
 
 In the summer of 1863, Lee invaded the North again, marching through western Maryland and into south central Pennsylvania. He encountered Union forces under George G. Meade at the three-day Battle of Gettysburg in Pennsylvania in July; the battle would produce the largest number of casualties in the American Civil War. With some of his subordinates being new and inexperienced in their commands, J.E.B. Stuart's cavalry being out of the area, and Lee being slightly ill, he was less than comfortable with how events were unfolding. While the first day of battle was controlled by the Confederates, key terrain that should have been taken by General Ewell was not. The second day ended with the Confederates unable to break the Union position, and the Union being more solidified. Lee's decision on the third day, against the judgment of his best corps commander General Longstreet, to launch a massive frontal assault on the center of the Union line turned out to be disastrous. The assault known as Pickett's Charge was repulsed and resulted in heavy Confederate losses. The general rode out to meet his retreating army and proclaimed, "All this has been my fault."[144] Lee was compelled to retreat. Despite flooded rivers that blocked his retreat, he escaped Meade's ineffective pursuit. Following his defeat at Gettysburg, Lee sent a letter of resignation to President Davis on August 8, 1863, but Davis refused Lee's request. That fall, Lee and Meade met again in two minor campaigns that did little to change the strategic standoff. The Confederate Army never fully recovered from the substantial losses incurred during the three-day battle in southern Pennsylvania. The historian Shelby Foote stated, "Gettysburg was the price the South paid for having Robert E. Lee as commander."
 
@@ -226,7 +220,7 @@ Grant eventually was able to stealthily move his army across the James River. Af
 
 General in Chief
 
-Robt_E_Lee_&_Staff_by_Brady,_1865.jpg (right) by Brady, April 16, 1865]]
+(right) by Brady, April 16, 1865]]
 
 On February 6, 1865, Lee was appointed General in Chief of the Armies of the Confederate States.
 
@@ -284,13 +278,11 @@ The following are summaries of Civil War campaigns and major battles where Rober
 
 Postbellum life
 
-Levin_C._Handy_-_General_Robert_E._Lee_in_May_1869.jpg)]]
+)]]
 
 After the war, Lee was not arrested or punished (although he was indicted[154]), but he did lose the right to vote as well as some property. Lee's prewar family home, the Custis-Lee Mansion, was seized by Union forces during the war and turned into Arlington National Cemetery, and his family was not compensated until more than a decade after his death.[155]
 
 Lee somewhat supported President Johnson's plan of Reconstruction. In 1866 Lee counseled southerners not to resume fighting, of which Grant said Lee was "setting an example of forced acquiescence so grudging and pernicious in its effects as to be hardly realized".[156] Lee joined with Democrats in opposing the Radical Republicans who demanded punitive measures against the South, distrusted its commitment to the abolition of slavery and, indeed, distrusted the region's loyalty to the United States.[157][158] Lee supported a system of free public schools for blacks, but forthrightly opposed allowing blacks to vote. "My own opinion is that, at this time, they [black Southerners] cannot vote intelligently, and that giving them the [vote] would lead to a great deal of demagogism, and lead to embarrassments in various ways," Lee stated.[159] Emory Thomas says Lee had become a suffering Christ-like icon for ex-Confederates. President Grant invited him to the White House in 1869, and he went. Nationally he became an icon of reconciliation between the North and South, and the reintegration of former Confederates into the national fabric.[160]
-
-Robert_E_Lee_with_his_Generals,_1869.jpg
 
 Lee hoped to retire to a farm of his own, but he was too much a regional symbol to live in obscurity. From April to June 1865, he and his family resided in Richmond at the Stewart-Lee House.[161] He accepted an offer to serve as the president of Washington College (now Washington and Lee University) in Lexington, Virginia, and served from October 1865 until his death. The Trustees used his famous name in large-scale fund-raising appeals and Lee transformed Washington College into a leading Southern college, expanding its offerings significantly, adding programs in commerce and journalism, and incorporating the Lexington Law School. Lee was well liked by the students, which enabled him to announce an "honor system" like that of West Point, explaining that "we have but one rule here, and it is that every student be a gentleman." To speed up national reconciliation Lee recruited students from the North and made certain they were well treated on campus and in town.[162]
 
@@ -300,7 +292,7 @@ While at Washington College, Lee told a colleague that the greatest mistake of h
 
 President Johnson's amnesty pardons
 
-Robert_E_Lee's_Amnesty_Oath_1865.gif submitted by Robert E. Lee in 1865]]
+submitted by Robert E. Lee in 1865]]
 
 On May 29, 1865, President Andrew Johnson issued a Proclamation of Amnesty and Pardon to persons who had participated in the rebellion against the United States. There were fourteen excepted classes, though, and members of those classes had to make special application to the President. Lee sent an application to Grant and wrote to President Johnson on June 13, 1865:
 
@@ -312,7 +304,7 @@ Postwar politics
 
 Lee, who had opposed secession and remained mostly indifferent to politics before the Civil War, supported President Andrew Johnson's plan of Presidential Reconstruction that took effect in 1865–66. However, he opposed the Congressional Republican program that took effect in 1867. In February 1866, he was called to testify before the Joint Congressional Committee on Reconstruction in Washington, where he expressed support for Johnson's plans for quick restoration of the former Confederate states, and argued that restoration should return, as far as possible, to the _status quo ante_ in the Southern states' governments (with the exception of slavery).[167]
 
-Robert_E_Lee_Edward_Caledon_Bruce_1865.jpeg]]
+]]
 
 Lee told the Committee, "...every one with whom I associate expresses kind feelings towards the freedmen. They wish to see them get on in the world, and particularly to take up some occupation for a living, and to turn their hands to some work." Lee also expressed his "willingness that blacks should be educated, and ... that it would be better for the blacks and for the whites." Lee forthrightly opposed allowing blacks to vote: "My own opinion is that, at this time, they [black Southerners] cannot vote intelligently, and that giving them the [vote] would lead to a great deal of demagogism, and lead to embarrassments in various ways."[168][169]
 
@@ -354,7 +346,7 @@ In 1865, after the war, Lee was paroled and signed an oath of allegiance, asking
 
 Monuments, memorials and commemorations
 
-Arlington_House_front_view.JPG]] Stone_mountain_closeup_mosaic_crop.jpg, Lee, and Stonewall Jackson at Stone Mountain}}]]
+]] , Lee, and Stonewall Jackson at Stone Mountain}}]]
 
 Lee opposed the construction of public memorials to Confederate rebellion on the grounds that they would prevent the healing of wounds inflicted during the war.[189] Nevertheless, after his death, he became an icon used by promoters of "Lost Cause" mythology, who sought to romanticize the Confederate cause and strengthen white supremacy in the South.[190] Later in the 20th century, particularly following the civil rights movement, historians reassessed Lee; his reputation fell based on his failure to support rights for freedmen after the war, and even his strategic choices as a military leader fell under scrutiny.[191][192]
 
@@ -366,15 +358,13 @@ In a tribute to Lee Circle (which had formerly been known as Tivoli Circle), for
 
 Arlington House, The Robert E. Lee Memorial, also known as the Custis–Lee Mansion,[195][196] is a Greek revival mansion in Arlington, Virginia, that was once Lee's home. It overlooks the Potomac River and the National Mall in Washington, D.C. During the Civil War, the grounds of the mansion were selected as the site of Arlington National Cemetery, in part to ensure that Lee would never again be able to return to his home. The United States designated the mansion as a National Memorial to Lee in 1955, a mark of widespread respect for him in both the North and South.[197]
 
-1890_Lee_statue_unveiling.jpg
-
 In Richmond, Virginia, a large equestrian statue of Lee by French sculptor Jean Antonin Mercié is the centerpiece of the city's famous Monument Avenue, which boasts four other statues to famous Confederates. This monument to Lee was unveiled on May 29, 1890; over 100,000 people attended this dedication. That has been described as "the day white Virginia stopped admiring Gen. Robert E. Lee and started worshiping him".[198] Lee is also shown mounted on Traveller in Gettysburg National Military Park on top of the Virginia Monument; he is facing roughly in the direction of Pickett's Charge. Lee's portrayal on a mural on Richmond's Flood Wall on the James River, considered offensive by some, was removed in the late 1990s, but currently is back on the flood wall.
 
 Also in Virginia, the Robert Edward Lee (sculpture) at Charlottesville was listed on the National Register of Historic Places in 1997.[199] Since there is no historical link between Lee and the city of Charlottesville, the City Council of Charlottesville voted in February 2017 to remove it, along with a statue of Stonewall Jackson, but this was temporarily stayed by court action. They did rename Lee Park, Emancipation Park. The prospect of the statues being removed and the parks being renamed brought many out-of-towners, described as white supremacist and alt-right, to Charlottesville in the Unite the Right rally of August 2017, in which 3 people died. For several months the monuments were shrouded in black. As of October 2018, the fate of the statue of Lee is unresolved. The name of the park it is located in was changed again by the City Council, to Market Street Park, in July 2018.[200]
 
 In Baltimore's Wyman Park, a large double equestrian statue of Lee and Jackson is located directly across from the Baltimore Museum of Art. Designed by Laura Gardin Fraser and dedicated in 1948, Lee is depicted astride his horse Traveller next to Stonewall Jackson who is mounted on "Little Sorrel." Architect John Russell Pope created the base, which was dedicated on the anniversary of the eve of the Battle of Chancellorsville.[201] The Baltimore area of Maryland is also home to a large nature park called Robert E. Lee Memorial Park.
 
-Robert_E_Lee_Stain_Glass.JPG of Lee's life in the National Cathedral, depicting his time at West Point, service in the Corps of Engineers, the Battle of Chancellorsville, and his death]]
+of Lee's life in the National Cathedral, depicting his time at West Point, service in the Corps of Engineers, the Battle of Chancellorsville, and his death]]
 
 In 1953, two stained-glass windows – one honoring Lee, the other Stonewall Jackson – were installed in the Washington National Cathedral.[202] The stained glass of Lee shows him on horseback at Chancellorsville; it was sponsored by the United Daughters of the Confederacy.[203] In 2017, these windows were removed by a vote of the Cathedral's governing board. The cathedral plans to keep the windows and eventually display them in historical context.[204]
 
@@ -382,7 +372,7 @@ An equestrian statue of Lee was installed in Robert E. Lee Park, in Dallas, unti
 
 The birthday of Robert E. Lee is celebrated or commemorated in several states. In Virginia, Lee–Jackson Day is celebrated on the Friday preceding Martin Luther King, Jr. Day which is the third Monday in January.[206] In Texas, he is celebrated as part of Confederate Heroes Day on January 19, Lee's birthday.[207] In Alabama and Mississippi, his birthday is celebrated on the same day as Martin Luther King, Jr. Day,[208][209] while in Georgia, this occurred on the day after Thanksgiving before 2016, when the state stopped officially recognizing the holiday.[210][211]
 
-Lee_Chapel.jpg on the campus of Washington and Lee University]]
+on the campus of Washington and Lee University]]
 
 One United States college and one junior college are named for Lee: Washington and Lee University in Lexington, Virginia; and Lee College in Baytown, Texas, respectively. Lee Chapel at Washington and Lee University marks Lee's final resting place. Throughout the South, many primary and secondary schools were also named for him as well as private schools such as Robert E. Lee Academy in Bishopville, South Carolina.
 
@@ -392,7 +382,7 @@ Lee is featured on the 1925 Stone Mountain Memorial half dollar.
 
 File:Lee r.jpg|_Robert E. Lee_, National Statuary Hall, Washington, D.C. Edward Virginius Valentine, sculptor, 1909 File:Robert-E-Lee-by-Sievers.jpg%7CRobert E Lee, Virginia Monument, Gettysburg, Pennsylvania, Frederick William Sievers, sculptor, 1917 File:Monument Ave Robert E. Lee.jpg|Lee by Mercié, Monument Avenue, Richmond, Virginia, 1890 File:Lee4.JPG%7CStatue of Lee at the Confederate War Memorial, Dallas, 1896 File:Confederate Monument in Murray cropped.JPG|Statue of Lee in Murray, Kentucky
 
-CSSRobertELee.jpg In 1862, the newly formed Confederate Navy purchased a 642-ton iron-hulled side-wheel gunboat, built in at Glasgow, Scotland, and gave her the name of CSS _Robert E. Lee_ in honor of this Confederate General. During the next year, she became one of the South's most famous Confederate blockade runners, successfully making more than twenty runs through the Union blockade.[215]
+In 1862, the newly formed Confederate Navy purchased a 642-ton iron-hulled side-wheel gunboat, built in at Glasgow, Scotland, and gave her the name of CSS _Robert E. Lee_ in honor of this Confederate General. During the next year, she became one of the South's most famous Confederate blockade runners, successfully making more than twenty runs through the Union blockade.[215]
 
 The Mississippi River steamboat _Robert E. Lee_ was named for Lee after the Civil War. It was the participant in an 1870 St. Louis – New Orleans race with the _Natchez VI_, which was featured in a Currier and Ives lithograph. The _Robert E. Lee_ won the race.[216] The steamboat inspired the 1912 song _Waiting for the Robert E. Lee_ by Lewis F. Muir and L. Wolfe Gilbert.[217] In more modern times, the , a built in 1958, was named for Lee,[218] as was the M3 Lee tank, produced in 1941 and 1942.
 
@@ -403,19 +393,19 @@ A recent biographer, Jonathan Horn, outlines the unsuccessful efforts in Washing
 
 Dates of rank
 
-  Rank                                                                 Date                      Unit                   Component
-  -------------------------------------------------------------------- ------------------------- ---------------------- -------------------------
-  Union_army_2nd_lt_rank_insignia.jpg Second Lieutenant                July 1, 1829[223]         Corps of Engineers     United States Army
-  Union_army_1st_lt_rank_insignia.jpg First Lieutenant                 September 21, 1836[224]   Corps of Engineers     United States Army
-  Union_army_cpt_rank_insignia.jpg Captain                             August 7, 1838[225]       Corps of Engineers     United States Army
-  Union_army_maj_rank_insignia.jpg Brevet Major §                      April 18, 1847[226]       Corps of Engineers     United States Army
-  Union_Army_LTC_rank_insignia.png Brevet Lieutenant Colonel †         August 20, 1847[227]      Corps of Engineers     United States Army
-  Union_Army_colonel_rank_insignia.png Brevet Colonel ‡                September 13, 1847[228]   Corps of Engineers     United States Army
-  Union_Army_LTC_rank_insignia.png Lieutenant Colonel                  March 3, 1855[229]        2nd Cavalry Regiment   United States Army
-  Union_Army_colonel_rank_insignia.png Colonel                         March 16, 1861[230]       1st Cavalry Regiment   United States Army
-  Major General                                                        April 22, 1861[231]                              Virginia Militia
-  Confederate_States_of_America_General-collar.svg Brigadier General   May 14, 1861[232]                                Confederate States Army
-  Confederate_States_of_America_General-collar.svg General             June 14, 1861[233]                               Confederate States Army
+  Rank                          Date                      Unit                   Component
+  ----------------------------- ------------------------- ---------------------- -------------------------
+  Second Lieutenant             July 1, 1829[223]         Corps of Engineers     United States Army
+  First Lieutenant              September 21, 1836[224]   Corps of Engineers     United States Army
+  Captain                       August 7, 1838[225]       Corps of Engineers     United States Army
+  Brevet Major §                April 18, 1847[226]       Corps of Engineers     United States Army
+  Brevet Lieutenant Colonel †   August 20, 1847[227]      Corps of Engineers     United States Army
+  Brevet Colonel ‡              September 13, 1847[228]   Corps of Engineers     United States Army
+  Lieutenant Colonel            March 3, 1855[229]        2nd Cavalry Regiment   United States Army
+  Colonel                       March 16, 1861[230]       1st Cavalry Regiment   United States Army
+  Major General                 April 22, 1861[231]                              Virginia Militia
+  Brigadier General             May 14, 1861[232]                                Confederate States Army
+  General                       June 14, 1861[233]                               Confederate States Army
 
 
 -   § Breveted for conduct in the Battle of Cerro Gordo

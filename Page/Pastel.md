@@ -1,4 +1,4 @@
-Mpv3_(cropped).jpg A PASTEL (, ) is an art medium in the form of a stick, consisting of pure powdered pigment and a binder. The pigments used in pastels are the same as those used to produce all colored art media, including oil paints; the binder is of a neutral hue and low saturation. The color effect of pastels is closer to the natural dry pigments than that of any other process.[1]
+A PASTEL (, ) is an art medium in the form of a stick, consisting of pure powdered pigment and a binder. The pigments used in pastels are the same as those used to produce all colored art media, including oil paints; the binder is of a neutral hue and low saturation. The color effect of pastels is closer to the natural dry pigments than that of any other process.[1]
 
 Pastels have been used by artists since the Renaissance, and gained considerable popularity in the 18th century, when a number of notable artists made pastel their primary medium.
 
@@ -7,7 +7,7 @@ An artwork made using pastels is called a pastel (or a pastel drawing or pastel 
 
 Pastel media
 
-Frz_18_Jh_Portrait_einer_jungen_Malerin.jpg Urlaub_G_A_Würzburg_Mainfränkisches_Museum_Marienberg.jpg (1713–1759) holding a box of pastels. Selfportrait, 1735]] ANTS_LAIKMAA_1936_Taebla_maastik.jpg _Taebla landscape_ from 1936.]] Pastel sticks or crayons consist of pure powdered pigment combined with a binder. The exact composition and characteristics of an individual pastel stick depends on the type of pastel and the type and amount of binder used. It also varies by individual manufacturer.
+(1713–1759) holding a box of pastels. Selfportrait, 1735]] _Taebla landscape_ from 1936.]] Pastel sticks or crayons consist of pure powdered pigment combined with a binder. The exact composition and characteristics of an individual pastel stick depends on the type of pastel and the type and amount of binder used. It also varies by individual manufacturer.
 
 Dry pastels have historically used binders such as gum arabic and gum tragacanth. Methyl cellulose was introduced as a binder in the twentieth century. Often a chalk or gypsum component is present. They are available in varying degrees of hardness, the softer varieties being wrapped in paper. Some pastel brands use pumice in the binder to abrade the paper and create more tooth.
 
@@ -46,7 +46,7 @@ Pastel supports need to provide a "tooth" for the pastel to adhere and hold the 
 
 Protection of pastel artworks
 
-Scenery_painter_Schlosspark_Charlottenburg_berlin_20080423.jpg, Berlin]] Pastels can be used to produce a permanent work of art if the artist meets appropriate archival considerations. This means:
+, Berlin]] Pastels can be used to produce a permanent work of art if the artist meets appropriate archival considerations. This means:
 
 -   Only pastels with lightfast pigments are used. As it is not protected by a binder the pigment in pastels is especially vulnerable to light. Pastel paintings made with pigments that change color or tone when exposed to light suffer comparable problems to gouache paintings using the same pigments.
 -   Works are done on an acid free archival quality support. Historically some works have been executed on supports which are now extremely fragile and the support rather than the pigment needs to be protected under glass and away from light.
@@ -60,7 +60,7 @@ Glassine (paper) is used by artists to protect artwork which is being stored or 
 
 Techniques
 
-Frottage_02.jpg Brooklyn_Museum_-_On_the_Cliff_-_Theodore_Robinson.jpg, 1887. A warm beige paper is used as a colored ground to enhance the pink colors. The rough textured ground provided by the paper also enhances the impressionistic style of the pastel work.]]
+, 1887. A warm beige paper is used as a colored ground to enhance the pink colors. The rough textured ground provided by the paper also enhances the impressionistic style of the pastel work.]]
 
 Pastel techniques can be challenging since the medium is mixed and blended directly on the working surface, and unlike paint, colors cannot be tested on a palette before applying to the surface. Pastel errors cannot be covered the way a paint error can be painted out. Experimentation with the pastel medium on a small scale in order to learn various techniques gives the user a better command over a larger composition.[8]
 

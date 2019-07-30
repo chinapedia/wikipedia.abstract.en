@@ -12,8 +12,6 @@ Career
 
 Acting
 
-Shannon_Elizabeth.jpg
-
 Elizabeth appeared in several films and television shows before being cast in 1999's _American Pie_ in the role of Nadia. It was a major box office success. Elizabeth subsequently appeared in several Hollywood films, including _Scary Movie_, _Jay and Silent Bob Strike Back_, and _Tomcats_. Elizabeth starred in the UPN series _Cuts_ until the show was canceled in May 2006. _Cuts_ and its parent show, _One on One_, were two of the many shows not to be picked up by The CW. Elizabeth recurred in _That '70s Show_ for a number of episodes.
 
 In 2000 and 2003, she was featured in _Maxim_.[8] In June 2008 she was _Maxim_'s cover girl. She provided the likeness and voice for Serena St. Germaine in the 2004 video game, _James Bond 007: Everything or Nothing_.[9] Elizabeth was one of the celebrities on an episode of NBC's _Thank God You're Here_ along with Tom Green, Chelsea Handler, and George Takei. Elizabeth was among the cast of the sixth season of _Dancing with the Stars_, partnered with Derek Hough. Elizabeth was the seventh star eliminated from the competition. Elizabeth was the host of the comedy/burlesque series "Live Nude Comedy" in 2009. Shannon also featured in Chris Brown's "Next to You" music video as Brown's girlfriend in 2011.
@@ -22,14 +20,14 @@ In 2019, Kevin Smith confirmed she will reprise her role as Justice in _Jay and 
 
 Poker
 
-Shannon_Elizabeth_poker.jpg National Heads-Up Poker Championship]] In 2006, Elizabeth described poker as her second career and was called "one of the leading celebrity poker players."[11] At that time, she visited the Las Vegas Valley up to three times each month to participate in poker games with top players. Elizabeth does not appear to have been as active a poker player since scoring 12 tournament cashes from 2006 through 2010 – she has only one tournament cash (in 2013) thereafter.[12]
+National Heads-Up Poker Championship]] In 2006, Elizabeth described poker as her second career and was called "one of the leading celebrity poker players."[11] At that time, she visited the Las Vegas Valley up to three times each month to participate in poker games with top players. Elizabeth does not appear to have been as active a poker player since scoring 12 tournament cashes from 2006 through 2010 – she has only one tournament cash (in 2013) thereafter.[12]
 
 Elizabeth played in the Main Event of the 2005 World Series of Poker under the guidance of Daniel Negreanu, and won a special tournament celebrating the opening of a new poker room at Caesars Palace hotel in January 2006, beating out 83 celebrities and poker professionals to win $55,000.[13] She also cashed four times in the World Series of Poker in 2006 and 2007, but again busted out of the Main Event early. In 2007, she advanced to the semi-finals of the NBC National Heads-Up Poker Championship in a field consisting of the top poker professionals before losing to eventual champion Paul Wasicka.[14]
 
 
 Personal life
 
-ShannonElizabethMarch09.jpg After the September 11 attacks, Elizabeth recorded a public service announcement in which she said, "I'm half Arabic, but I am 100 percent American. What is going on affects me the same as everyone else."[15]
+After the September 11 attacks, Elizabeth recorded a public service announcement in which she said, "I'm half Arabic, but I am 100 percent American. What is going on affects me the same as everyone else."[15]
 
 Elizabeth was married to actor Joseph D. Reitman from 2002–2005.[16]
 

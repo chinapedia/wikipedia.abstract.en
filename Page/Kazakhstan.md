@@ -20,19 +20,19 @@ Though traditionally referring only to ethnic Kazakhs, including those living in
 
 History
 
-Cumania_(1200)_eng.png in Eurasia circa 1200. The Kazakhs are descendants of Kipchaks, Nogais and other Turkic and medieval Mongol tribes.]]
+in Eurasia circa 1200. The Kazakhs are descendants of Kipchaks, Nogais and other Turkic and medieval Mongol tribes.]]
 
 Kazakhstan has been inhabited since the Paleolithic.[19] Pastoralism developed during the Neolithic as the region's climate and terrain are best suited for a nomadic lifestyle. The Kazakh territory was a key constituent of the Eurasian Steppe route, the ancestor of the terrestrial Silk Roads. Archaeologists believe that humans first domesticated the horse (i.e. ponies) in the region's vast steppes. During recent prehistoric times Central Asia was inhabited by groups like the possibly Proto-Indo-European Afanasievo culture,[20] later early Indo-Iranians cultures such as Andronovo,[21] and later Indo-Iranians such as the Saka and Massagetae.[22][23] Other groups included the nomadic Scythians and the Persian Achaemenid Empire in the southern territory of the modern country. In 329 BC, Alexander the Great and his Macedonian army fought in the Battle of Jaxartes against the Scythians along the Jaxartes River, now known as the Syr Darya along the southern border of modern Kazakhstan.
 
 Kazakh Khanate
 
-Abylai_Khan.jpg, khan of the Middle jüz from 1771 to 1781]] SB_-_Kazakh_woman_on_horse.jpg wedding dress]] Karkaraly_National_Park_6.jpg.]] [[File:Жуз.svg|thumb|left|250px|Approximate areas occupied by the three Kazakh jüz in the early 20th century.
+, khan of the Middle jüz from 1771 to 1781]] wedding dress]] .]] [[File:Жуз.svg|thumb|left|250px|Approximate areas occupied by the three Kazakh jüz in the early 20th century.
 
 +--+--+--+
 |  |  |  |
 +--+--+--+
 
-]] SB_-_Inside_a_Kazakh_yurt.jpg, 1911/1914]]
+]] , 1911/1914]]
 
 The Cuman entered the steppes of modern-day Kazakhstan around the early 11th century, where they later joined with the Kipchak and established the vast Cuman-Kipchak confederation. While ancient cities Taraz (Aulie-Ata) and Hazrat-e Turkestan had long served as important way-stations along the Silk Road connecting Asia and Europe, true political consolidation began only with the Mongol rule of the early 13th century. Under the Mongol Empire, the largest in world history, administrative districts were established. These eventually came under the rule of the emergent Kazakh Khanate (Kazakhstan).
 
@@ -46,7 +46,7 @@ Ablai Khan participated in the most significant battles against the Dzungar from
 
 Russian Empire
 
-Battle_Cossacks_with_Kyrgyz_1826.JPG skirmish with Kazakhs (the Russians originally called the Kazakhs “Kirgiz”)]]
+skirmish with Kazakhs (the Russians originally called the Kazakhs “Kirgiz”)]]
 
 In the first half of the 18th century the Russian Empire constructed the Irtysh line, a series of forty-six forts and ninety-six redoubts, including Omsk (1716), Semipalatinsk (1718), Pavlodar (1720), Orenburg (1743) and Petropavlovsk (1752),[26] to prevent Kazakh and Oirat raids into Russian territory.[27] In the late 18th century the Kazakhs took advantage of Pugachev's rebellion, which was centred on the Volga area, to raid Russian and Volga German settlements.[28] In the 19th century, the Russian Empire began to expand its influence into Central Asia. The "Great Game" period is generally regarded as running from approximately 1813 to the Anglo-Russian Convention of 1907. The tsars effectively ruled over most of the territory belonging to what is now the Republic of Kazakhstan.
 
@@ -56,15 +56,15 @@ Russian efforts to impose its system aroused the resentment by the Kazakh people
 
 From the 1890s onward, ever-larger numbers of settlers from the Russian Empire began colonising the territory of present-day Kazakhstan, in particular, the province of Semirechye. The number of settlers rose still further once the Trans-Aral Railway from Orenburg to Tashkent was completed in 1906. A specially created Migration Department (Переселенческое Управление) in St. Petersburg oversaw and encouraged the migration to expand Russian influence in the area. During the 19th century about 400,000 Russians immigrated to Kazakhstan, and about one million Slavs, Germans, Jews, and others immigrated to the region during the first third of the 20th century.[29] Vasile Balabanov was the administrator responsible for the resettlement during much of this time.
 
-Alikhan_Bukeikhanov.jpg, a Kazakh statesman who served as the Prime Minister of the Alash Autonomy from 1917 to 1920.]]
+, a Kazakh statesman who served as the Prime Minister of the Alash Autonomy from 1917 to 1920.]]
 
 The competition for land and water that ensued between the Kazakh and the newcomers caused great resentment against colonial rule during the final years of the Russian Empire. The most serious uprising, the Central Asian Revolt, occurred in 1916. The Kazakh attacked Russian and Cossack settlers and military garrisons. The revolt resulted in a series of clashes and in brutal massacres committed by both sides.[30] Both sides resisted the communist government until late 1919.
 
 Soviet Union
 
-Stanitsa_Sofiiskaya.jpg. 1920s]]
+. 1920s]]
 
-Young_Pioneers_in_Kazakh_SSR.jpg at a Young Pioneer camp in Kazakh SSR]]
+at a Young Pioneer camp in Kazakh SSR]]
 
 Following the collapse of central government in Petrograd in November 1917, the Kazakhs (then in Russia officially referred to as "Kirghiz") experienced a brief period of autonomy (the Alash Autonomy) to eventually succumb to the Bolsheviks′ rule. On 26 August 1920, the Kirghiz Autonomous Socialist Soviet Republic within the Russian Soviet Federative Socialist Republic (RSFSR) was established. The Kirghiz ASSR included the territory of present-day Kazakhstan, but its administrative centre was a mainly Russian-populated town of Orenburg. In June 1925, the Kirghiz ASSR was renamed the Kazak ASSR and its administrative centre was transferred to the town of Kyzylorda, and in April 1927 to Alma-Ata.
 
@@ -74,8 +74,6 @@ On 5 December 1936, the Kazakh Autonomous Soviet Socialist Republic (whose terri
 
 The republic was one of the destinations for exiled and convicted persons, as well as for mass resettlements, or deportations affected by the central USSR authorities during the 1930s and 1940s, such as approximately 400,000 Volga Germans deported from the Volga German Autonomous Soviet Socialist Republic in September–October 1941, and then later the Greeks and Crimean Tatars. Deportees and prisoners were interned in some of the biggest Soviet labour camps (the Gulag), including ALZhIR camp outside Astana, which was reserved for the wives of men considered "enemies of the people".[33] Many moved due to the policy of population transfer in the Soviet Union and others were forced into involuntary settlements in the Soviet Union.
 
-The International Conference on Primary Health Care in 1978, known as the Alma-Ata Declaration.
-
 The Soviet-German War (1941–1945) led to an increase in industrialisation and mineral extraction in support of the war effort. At the time of the USSR's leader Joseph Stalin's death in 1953, however, Kazakhstan still had an overwhelmingly agricultural economy. In 1953, Soviet leader Nikita Khrushchev initiated the Virgin Lands Campaign designed to turn the traditional pasturelands of Kazakhstan into a major grain-producing region for the Soviet Union. The Virgin Lands policy brought mixed results. However, along with later modernisations under Soviet leader Leonid Brezhnev (in power 1964–1982), it accelerated the development of the agricultural sector, which remains the source of livelihood for a large percentage of Kazakhstan's population. Because of the decades of privation, war and resettlement, by 1959 the Kazakh had become a minority in the country, making up 30% of the population. Ethnic Russians accounted for 43%.[34]
 
 In 1947, the USSR government, as part of its atomic bomb project, founded an atomic bomb test site near the north-eastern town of Semipalatinsk, where the first Soviet nuclear bomb test was conducted in 1949. Hundreds of nuclear tests were conducted until 1989 and had negative ecological and biological consequences.[35] The Anti-nuclear movement in Kazakhstan became a major political force in the late 1980s.
@@ -83,8 +81,6 @@ In 1947, the USSR government, as part of its atomic bomb project, founded an ato
 In December 1986, mass demonstrations by young ethnic Kazakhs, later called the Jeltoqsan riot, took place in Almaty to protest the replacement of the First Secretary of the Communist Party of the Kazakh SSR Dinmukhamed Konayev with Gennady Kolbin from the Russian SFSR. Governmental troops suppressed the unrest, several people were killed, and many demonstrators were jailed. In the waning days of Soviet rule, discontent continued to grow and found expression under Soviet leader Mikhail Gorbachev's policy of _glasnost_.
 
 Independence
-
-Monument_of_Independence,_Republic_Square,_Almaty.jpg
 
 On 25 October 1990, Kazakhstan declared its sovereignty on its territory as a republic within the Soviet Union. Following the August 1991 aborted coup attempt in Moscow, Kazakhstan declared independence on 16 December 1991, thus becoming the last Soviet republic to declare independence. Ten days later, the Soviet Union itself ceased to exist.
 
@@ -95,15 +91,15 @@ In 1997, the government moved the capital to Astana, (Astana was renamed Nur-Sul
 
 Geography
 
-Kazakhstan_BMNG.jpg Reserve_Karkaraly.jpg]] Astana-steppe-7748.jpg in the Akmola Region]]
+]] in the Akmola Region]]
 
 As it extends across both sides of the Ural River, considered the dividing line with the European continent, Kazakhstan is one of only two landlocked countries in the world that has territory in two continents (the other is Azerbaijan).
 
 With an area of equivalent in size to Western EuropeKazakhstan is the ninth-largest country and largest landlocked country in the world. While it was part of the Soviet Union, Kazakhstan lost some of its territory to China's Xinjiang autonomous region[37] and some to Uzbekistan's Karakalpakstan autonomous republic.
 
-Недалеко_от_пика_-_panoramio.jpg in south-eastern Kazakhstan]]
+in south-eastern Kazakhstan]]
 
-Eurasian_steppe_belt.jpg of part of the Eurasian Steppe Belt (in on the map).]]
+of part of the Eurasian Steppe Belt (in on the map).]]
 
 It shares borders of with Russia, with Uzbekistan, with China, with Kyrgyzstan, and with Turkmenistan. Major cities include Nur-Sultan, Almaty, Karagandy, Shymkent, Atyrau, and Oskemen. It lies between latitudes 40° and 56° N, and longitudes 46° and 88° E. While located primarily in Asia, a small portion of Kazakhstan is also located west of the Urals in Eastern Europe.[38]
 
@@ -123,7 +119,7 @@ On 17 October 2013, the Extractive Industries Transparency Initiative (EITI) acc
 
 Climate
 
-Kazakhstan_map_of_Köppen_climate_classification.svg Kazakhstan has an "extreme" continental climate, with warm summers and very cold winters. Indeed, Nursultan is the second coldest capital city in the world after Ulaanbaatar. Precipitation varies between arid and semi-arid conditions, the winter being particularly dry.[46]
+Kazakhstan has an "extreme" continental climate, with warm summers and very cold winters. Indeed, Nursultan is the second coldest capital city in the world after Ulaanbaatar. Precipitation varies between arid and semi-arid conditions, the winter being particularly dry.[46]
 
   Location     July (°C)   July (°F)   January (°C)   January (°F)
   ------------ ----------- ----------- -------------- --------------
@@ -138,7 +134,7 @@ Kazakhstan_map_of_Köppen_climate_classification.svg Kazakhstan has an "extreme"
 
 Wildlife
 
-Vulpes_corsac.jpg]]
+]]
 
 There are ten nature reserves and ten national parks in Kazakhstan that provide safe haven for many rare and endangered plants and animals. Common plants are _Astragalus_, _Gagea_, _Allium_, _Carex_ and _Oxytropis_; endangered plant species include native wild apple (_Malus sieversii_), wild grape (_Vitis vinifera_) and several wild tulip species (e.g. _Tulipa greigii_) and rare onion species _Allium karataviense_, also _Iris willmottiana_ and _Tulipa kaufmanniana_.[48][49]
 
@@ -149,12 +145,12 @@ Politics
 
 Political system
 
-+-----------------------+----------------------------+
-| Tokaev.jpg            | Аскар_Узакпаевич_Мамин.jpg |
-+-----------------------+----------------------------+
-| Kassym-Jomart Tokayev | Askar Mamin                |
-| President             | Prime Minister             |
-+-----------------------+----------------------------+
++-----------------------+----------------+
+|                       |                |
++-----------------------+----------------+
+| Kassym-Jomart Tokayev | Askar Mamin    |
+| President             | Prime Minister |
++-----------------------+----------------+
 
 Kazakhstan is a unitary republic; Nursultan Nazarbayev led the country from 1991 to 2019.[51][52] He was succeeded by Kassym-Jomart Tokayev.[53][54] The President may veto legislation that has been passed by the Parliament and is also the commander in chief of the armed forces. The Prime Minister chairs the Cabinet of Ministers and serves as Kazakhstan's head of government. There are three deputy prime ministers and sixteen ministers in the Cabinet.
 
@@ -162,11 +158,11 @@ Kazakhstan has a bicameral Parliament composed of the _Majilis_ (the lower house
 
 Elections
 
-Резиденция_президента_-_panoramio.jpg.]]
+.]]
 
 Elections to the Majilis in September 2004, yielded a lower house dominated by the pro-government Otan Party, headed by President Nazarbayev. Two other parties considered sympathetic to the president, including the agrarian-industrial bloc AIST and the Asar Party, founded by President Nazarbayev's daughter, won most of the remaining seats. Opposition parties, which were officially registered and competed in the elections, won a single seat during elections. The Organization for Security and Cooperation in Europe was monitoring the election, which it said fell short of international standards.
 
-Kazakh_Parliament_Astana.jpg ]] Nur_Otan_Astana.JPG Headquarters in Nur-Sultan]]
+]] Headquarters in Nur-Sultan]]
 
 On 4 December 2005, Nursultan Nazarbayev was re-elected in an apparent landslide victory. The electoral commission announced that he had won over 90% of the vote. The Organization for Security and Cooperation in Europe (OSCE) concluded the election did not meet international standards despite some improvements in the administration of the election.[56]
 
@@ -194,13 +190,11 @@ Urban centres
 
 Foreign relations
 
-Participants_in_the_SCO_Council_of_Heads_of_State_meeting_in_expanded_format,_2017.jpg during the 2017 SCO Council of Heads of State meeting in Nur-Sultan.]]
+during the 2017 SCO Council of Heads of State meeting in Nur-Sultan.]]
 
-Kassym-Jomart_Tokayev_and_Vladimir_Putin_(2019-04-03)_03.jpg Kassym-Jomart Tokayev with president of Russia Vladimir Putin in 2019]]
+Kassym-Jomart Tokayev with president of Russia Vladimir Putin in 2019]]
 
-Meeting_of_CIS_Council_of_Heads_of_State_(2016-09-16)_03.jpg
-
-CIS_(orthographic_projection).svg.]] Conseilturcique.svg members}}
+.]] members}}
 
 ]]
 
@@ -224,7 +218,7 @@ Kazakhstan's Ministry of Foreign Affairs released a statement on 26 January 2015
 
 Military
 
-Kazakhstan_Republican_Guard.JPEG ]] A_Kazakh_Sukhoi_Su-27P(modified).jpg]]
+]] ]]
 
 Most of Kazakhstan's military was inherited from the Soviet Armed Forces' Turkestan Military District. These units became the core of Kazakhstan's new military. It acquired all the units of the 40th Army (the former 32nd Army) and part of the 17th Army Corps, including six land-force divisions, storage bases, the 14th and 35th air-landing brigades, two rocket brigades, two artillery regiments, and a large amount of equipment that had been withdrawn from over the Urals after the signing of the Treaty on Conventional Armed Forces in Europe. Since the late 20th century, the Kazakhstan Army has focused on expanding the number of its armoured units. Since 1990, armoured units have expanded from 500 to 1,613 in 2005.
 
@@ -261,11 +255,11 @@ Homosexuality has been legal in Kazakhstan since 1997; though it is still social
 
 Economy
 
-Central_Downtown_Astana_2.jpg]]
+]]
 
 Kazakhstan has the largest and strongest performing economy in Central Asia. Supported by rising oil output and prices, Kazakhstan's economy grew at an average of 8% per year until 2013, before suffering a slowdown in 2014 and 2015[101] Kazakhstan was the first former Soviet Republic to repay all of its debt to the International Monetary Fund, 7 years ahead of schedule.[102]
 
-Astana,_capital_of_Kazakhstan_08.jpg in Nur-Sultan.]]
+in Nur-Sultan.]]
 
 Buoyed by high world crude oil prices, GDP growth figures were between 8.9% and 13.5% from 2000 to 2007 before decreasing to 1–3% in 2008 and 2009, and then rising again from 2010.[103] Other major exports of Kazakhstan include wheat, textiles, and livestock. Kazakhstan is a leading exporter of uranium.[104][105]
 
@@ -279,17 +273,13 @@ In March 2002, the US Department of Commerce granted Kazakhstan market economy s
 
 Kazakhstan weathered the global financial crisis well, by combining fiscal relaxation with monetary stabilisation. In 2009, the government introduced large-scale support measures such as the recapitalisation of banks and support for the real estate and agricultural sectors, as well as for small and medium enterprises (SMEs). The total value of the stimulus programs amounted to $21 billion, or 20 per cent of the country's GDP, with $4 billion going to stabilise the financial sector.[111] During the global economic crisis, Kazakhstan's economy contracted by 1.2% in 2009, while the annual growth rate subsequently increased to 7.5% and 5% in 2011 and 2012, respectively.[112]
 
-35Aktau_główna_ulica.JPG is Kazakhstan's only seaport on the Caspian Sea]] In September 2002, Kazakhstan became the first country in the CIS to receive an investment grade credit rating from a major international credit rating agency. As of late December 2003, Kazakhstan's gross foreign debt was about $22.9 billion. Total governmental debt was $4.2 billion, 14% of GDP. There has been a reduction in the ratio of debt to GDP. The ratio of total governmental debt to GDP in 2000, was 21.7%; in 2001, it was 17.5%, and in 2002, it was 15.4%.
+is Kazakhstan's only seaport on the Caspian Sea]] In September 2002, Kazakhstan became the first country in the CIS to receive an investment grade credit rating from a major international credit rating agency. As of late December 2003, Kazakhstan's gross foreign debt was about $22.9 billion. Total governmental debt was $4.2 billion, 14% of GDP. There has been a reduction in the ratio of debt to GDP. The ratio of total governmental debt to GDP in 2000, was 21.7%; in 2001, it was 17.5%, and in 2002, it was 15.4%.
 
 Economic growth, combined with earlier tax and financial sector reforms, has dramatically improved government finance from the 1999 budget deficit level of 3.5% of GDP to a deficit of 1.2% of GDP in 2003. Government revenues grew from 19.8% of GDP in 1999 to 22.6% of GDP in 2001, but decreased to 16.2% of GDP in 2003. In 2000, Kazakhstan adopted a new tax code in an effort to consolidate these gains.
 
 On 29 November 2003, the Law on Changes to Tax Code which reduced tax rates was adopted. The value added tax fell from 16% to 15%, the social tax, from 21% to 20%, and the personal income tax, from 30% to 20%. On 7 July 2006, the personal income tax was reduced even further to a flat rate of 5% for personal income in the form of dividends and 10% for other personal income. Kazakhstan furthered its reforms by adopting a new land code on 20 June 2003, and a new customs code on 5 April 2003.
 
-2013Kazakhstani_imports.PNG
-
-Kazakhstan_Export_Treemap.jpg
-
-Kashagan_Oil_Field,_Kazakhstan_by_Planet_Labs.jpg structures]]
+structures]]
 
 Energy is the leading economic sector. Production of crude oil and natural gas condensate from the oil and gas basins of Kazakhstan amounted to in 2012 up from in 2003. Kazakhstan raised oil and gas condensate exports to 44.3 million tons in 2003, 13% higher than in 2002. Gas production in Kazakhstan in 2003, amounted to , up 22.7% compared to 2002, including natural gas production of . Kazakhstan holds about of proven recoverable oil reserves and of gas. According to industry analysts, expansion of oil production and the development of new fields will enable the country to produce as much as per day by 2015, and Kazakhstan would be among the top 10 oil-producing nations in the world. Kazakhstan's oil exports in 2003, were valued at more than $7 billion, representing 65% of overall exports and 24% of the GDP. Major oil and gas fields and recoverable oil reserves are Tengiz with ; Karachaganak with and of natural gas; and Kashagan with 7 to .
 
@@ -315,7 +305,7 @@ China is one of the main economic and trade partners of Kazakhstan. In 2013, Chi
 
 Agriculture
 
-Песня_жаворонка(3264-2448).jpg]]
+]]
 
 Agriculture accounts for approximately 5% of Kazakhstan's GDP.[127] Grain, potatoes, grapes, vegetables, melons and livestock are the most important agricultural commodities. Agricultural land occupies more than . The available agricultural land consists of of arable land and of pasture and hay land. Over 80% of the country's total area is classified as agricultural land, including almost 70% occupied by pasture. Its arable land has the second highest availability per inhabitant (1.5 hectares).[128]
 
@@ -327,10 +317,6 @@ Infrastructure
 
 Railways provide 68% of all cargo and passenger traffic to over 57% of the country. There are in common carrier service, excluding industrial lines.[131] of gauge, electrified, in 2012.[132] Most cities are connected by railroad; high-speed trains go from Almaty (the southernmost city) to Petropavl (the northernmost city) in about 18 hours.
 
-Railway_Map_of_Kazakhstan_(kk).png
-
-KTZ_2TE10U_Aynabulak.jpg
-
 Kazakhstan Temir Zholy (KTZ) is the national railway company. KTZ cooperates with French loco manufacturer Alstom in developing Kazakhstan's railway infrastructure. Alstom has more than 600 staff and two joint ventures with KTZ and its subsidiary in Kazakhstan.[133] In July 2017, Alstom opened its first locomotive repairing center in Kazakhstan. It is the only repairing center in Central Asia and the Caucasus.[134]
 
 As the Kazakhstani rail system was designed during the Soviet era, rail routes were designed ignoring intersoviet borders and to the needs of Soviet planning. This has caused anamolies such as the route from Oral to Aktobe now passes briefly through Russian territory. It also means that routes might not suit modern-day Kazakhstani needs.
@@ -338,10 +324,6 @@ As the Kazakhstani rail system was designed during the Soviet era, rail routes w
 Astana Nurly Zhol railway station, the most modern railway station in Kazakhstan, was opened in Nur-Sultan on May 31, 2017. The opening of the station coincided with the start of the Expo 2017 international exhibition. According to Kazakhstan Railways (KTZ), the 120,000m2 station is expected to be used by 54 trains a day and has capacity to handle 35,000 passengers a day.[135]
 
 The strategy of transport development in Kazakhstan until 2015 is to build of new electrified and of existing railway stations.
-
-Алматинское_метро_014.JPG
-
-Станция_Алатау.jpg
 
 There is a small metro system in Almaty. A second and third metro lines are planned in the future. The second line would intersect with the first line at Alatau and Zhibek Zholy stations.[136] In May 2011, the construction of the second phase of the Almaty Metro line 1 began. The general contractor is Almatymetrokurylys. Currently more than of tunnels on the extension project have been excavated. The extension includes five new stations, and will connect the downtown area of Almaty with Kalkaman in the suburbs. Its length will be .[137] The construction is divided into 3 phases. The first phase (the current phase) will be the addition of two stations: Sairan and Moscow, a length of .[138] For more details see: Almaty Metro.There was a tram system of 10 lines which operated from 1937 to 2015.[139]
 
@@ -353,7 +335,7 @@ In 2009 the European Commission blacklisted all Kazakh air carriers with a sole 
 
 Tourism
 
-Верхняя_точка_горнолыжной_трассы_курорта_Чимбулак..JPG Dzhasybay_beach.jpg beach, Pavlodar Region ]] Kazakhstan is the ninth-largest country by area and the largest landlocked country. Today, tourism is not a major component of the economy. As of 2014, tourism has accounted for 0.3% of Kazakhstan's GDP, but the government has plans to increase it to 3% by 2020.[148][149] According to the World Economic Forum's Travel and Tourism Competitiveness Report 2017, travel and tourism industry GDP in Kazakhstan is $3.08 billion or 1.6 percent of total GDP. The WEF ranks Kazakhstan 81st in its 2017 report, which is four positions higher compared to the previous period.[150] Kazakhstan received 6.5 million tourists in 2016.
+beach, Pavlodar Region ]] Kazakhstan is the ninth-largest country by area and the largest landlocked country. Today, tourism is not a major component of the economy. As of 2014, tourism has accounted for 0.3% of Kazakhstan's GDP, but the government has plans to increase it to 3% by 2020.[148][149] According to the World Economic Forum's Travel and Tourism Competitiveness Report 2017, travel and tourism industry GDP in Kazakhstan is $3.08 billion or 1.6 percent of total GDP. The WEF ranks Kazakhstan 81st in its 2017 report, which is four positions higher compared to the previous period.[150] Kazakhstan received 6.5 million tourists in 2016.
 
 In 2012, Kazakhstan ranked 51st in the world in terms of number of tourist arrivals. In 2000 total 1.47 million international tourists visited Kazakhstan, which was increased to 4.81 million in 2012.[151] The Guardian describes tourism in Kazakhstan as, "hugely underdeveloped", despite the attractions of the country's dramatic mountain, lake and desert landscapes.[152] Factors hampering an increase in tourist visits are said to include high prices, "shabby infrastructure", "poor service" and the logistical difficulties of travel in a geographically enormous, underdeveloped country.[153] Even for locals, going for holiday abroad may cost only half the price of taking a holiday in Kazakhstan.[154]
 
@@ -367,7 +349,7 @@ Green economy
 
 The government has set the goals that a transition to the Green Economy in Kazakhstan occur by 2050. The green economy is projected to increase GDP by 3% and create more than 500,000 new jobs.[160]
 
-Expo_2017_"Nur_Alem"_Pavilion_Glass_Pathway_2.jpg "Nur Alem" Pavilion]]
+"Nur Alem" Pavilion]]
 
 The government of Kazakhstan has set prices for energy produced from renewable sources. The price of 1 kilowatt-hour for energy produced by wind power plants was set at 22.68 tenge ($0.12). The price for 1 kilowatt-hour produced by small hydro-power plants is 16.71 tenge ($0.09), and from biogas plants 32.23 tenge ($0.18).[161]
 
@@ -395,7 +377,7 @@ In October 2014, Kazakhstan introduced its first overseas dollar bonds in 14 yea
 
 Housing market
 
-TV-Turm_Almaty_-_3.jpg]]
+]]
 
 The housing market of Kazakhstan has grown since 2010.[180] In 2013, the total housing area in Kazakhstan amounted to .[181] The housing stock rose over the year to 32.7 million squares, which is nearly an 11% increase.[182] Between 2012 and 2013, the living area per Kazakh citizen rose from .[183] The urban areas concentrate 62.5 percent of the country's housing stock.[184] The UN's recommended standard for housing stands at per person.[185] Kazakhstan will be able to reach the UN standards by 2019 or 2020, if in the medium term the housing growth rate remains within 7 percent.[186]
 
@@ -418,11 +400,9 @@ The Federal Bureau of Investigation and the Kazakh Anti-Corruption Agency signed
 
 Science and technology
 
-Trends_in_GERD_GDP_ratio_in_Central_Asia,_2001−2013.svg.svg|thumb|Trends in research expenditure in Central Asia, as a percentage of GDP, 2001–2013. Source: UNESCO Science Report: 2030 (2015), Figure 14.3]]
+.svg|thumb|Trends in research expenditure in Central Asia, as a percentage of GDP, 2001–2013. Source: UNESCO Science Report: 2030 (2015), Figure 14.3]]
 
 Research remains largely concentrated in Kazakhstan's largest city and former capital, Almaty, home to 52% of research personnel. Public research is largely confined to institutes, with universities making only a token contribution. Research institutes receive their funding from national research councils under the umbrella of the Ministry of Education and Science. Their output, however, tends to be disconnected from market needs. In the business sector, few industrial enterprises conduct research themselves.[201][202]
-
-The_irradiation_experiments_at_the_ion_accelerator_DC-60._Astana,_Kazakhstan.JPG
 
 One of the most ambitious targets of the State Programme for Accelerated Industrial and Innovative Development adopted in 2010 is to raise the country's level of expenditure on research and development to 1% of GDP by 2015. By 2013, this ratio stood at 0.18% of GDP. It will be difficult to reach the target as long as economic growth remains strong. Since 2005, the economy has grown faster (by 6% in 2013) than gross domestic expenditure on research and development, which only progressed from PPP$598 million to PPP$714 million between 2005 and 2013.[203]
 
@@ -430,7 +410,7 @@ Innovation expenditure more than doubled in Kazakhstan between 2010 and 2011, re
 
 In December 2012, President Nursultan Nazarbayev announced the _Kazakhstan 2050 Strategy_ with the slogan "Strong Business, Strong State." This pragmatic strategy proposes sweeping socio-economic and political reforms to hoist Kazakhstan among the top 30 economies by 2050. In this document, Kazakhstan gives itself 15 years to evolve into a knowledge economy. New sectors are to be created during each five-year plan. The first of these, covering the years 2010–2014, focused on developing industrial capacity in car manufacturing, aircraft engineering and the production of locomotives, passenger and cargo railroad cars. During the second five-year plan to 2019, the goal is to develop export markets for these products. To enable Kazakhstan to enter the world market of geological exploration, the country intends to increase the efficiency of traditional extractive sectors such as oil and gas. It also intends to develop rare earth metals, given their importance for electronics, laser technology, communication and medical equipment. The second five-year plan coincides with the development of the _Business 2020_ roadmap for small and medium-sized enterprises (SMEs), which makes provision for the allocation of grants to SMEs in the regions and for microcredit. The government and the National Chamber of Entrepreneurs also plan to develop an effective mechanism to help start-ups.[206]
 
-Soyuz_expedition_19_launch_pad.jpg is the world's oldest and largest operational space launch facility.]]
+is the world's oldest and largest operational space launch facility.]]
 
 During subsequent five-year plans to 2050, new industries will be established in fields such as mobile, multi-media, nano- and space technologies, robotics, genetic engineering and alternative energy. Food processing enterprises will be developed with an eye to turning the country into a major regional exporter of beef, dairy and other agricultural products. Low-return, water-intensive crop varieties will be replaced with vegetable, oil and fodder products. As part of the shift to a "green economy" by 2030, 15% of acreage will be cultivated with water-saving technologies. Experimental agrarian and innovational clusters will be established and drought-resistant genetically modified crops developed.[207]
 
@@ -439,7 +419,7 @@ The Kazakhstan 2050 Strategy fixes a target of devoting 3% of GDP to research an
 
 Demographics
 
-Population_pyramid_Kazakhstan_2014.gif, 2014]] Central_Asia_Ethnic_en.svgn ethnolinguistic patchwork, 1992]]
+, 2014]] n ethnolinguistic patchwork, 1992]]
 
 The US Census Bureau International Database lists the population of Kazakhstan as 18.9 million (May 2019),[209] while United Nations sources such as give an estimate of . Official estimates put the population of Kazakhstan at 18.459 million as of April 2019.[210] In 2013, Kazakhstan's population rose to 17,280,000 with a 1.7% growth rate over the past year according to the Kazakhstan Statistics Agency.[211]
 
@@ -486,19 +466,17 @@ According to the 2009 Census, 70% of the population is Muslim, 26% Christian, 0.
 
 Religious freedoms are guaranteed by Article 39 of Kazakhstan's Constitution. Article 39 states: "Human rights and freedoms shall not be restricted in any way." Article 14 prohibits "discrimination on religious basis" and Article 19 ensures that everyone has the "right to determine and indicate or not to indicate his/her ethnic, party and religious affiliation." The Constitutional Council recently affirmed these rights by ruling that a proposed law limiting the rights of certain individuals to practice their religion was declared unconstitutional.
 
-Zenkov_Cathedral_Winter.jpg in Almaty]]
+in Almaty]]
 
 Islam is the largest religion in Kazakhstan, followed by Orthodox Christianity. After decades of religious suppression by the Soviet Union, the coming of independence witnessed a surge in expression of ethnic identity, partly through religion. The free practice of religious beliefs and the establishment of full freedom of religion led to an increase of religious activity. Hundreds of mosques, churches, and other religious structures were built in the span of a few years, with the number of religious associations rising from 670 in 1990 to 4,170 today.[230]
 
 Some figures show that non-denominational Muslims[231] form the majority, while others indicate that most Muslims in the country are Sunnis following the Hanafi school.[232] These include ethnic Kazakhs, who constitute about 60% of the population, as well as ethnic Uzbeks, Uighurs, and Tatars.[233] Less than 1% are part of the Sunni Shafi`i school (primarily Chechens). There are also some Ahmadi Muslims.[234] There are a total of 2,300 mosques,[235] all of them are affiliated with the "Spiritual Association of Muslims of Kazakhstan", headed by a supreme mufti.[236] Unaffiliated mosques are forcefully closed.[237] Eid al-Adha is recognised as a national holiday.[238]
 
-Hazret_Sultan_Mosque_2015.jpg is the biggest mosque in Kazakhstan]] One quarter of the population is Russian Orthodox, including ethnic Russians, Ukrainians and Belarusians.[239] Other Christian groups include Roman Catholics, Greek Catholics, and Protestants.[240] There are a total of 258 Orthodox churches, 93 Catholic churches (9 Greek Catholic), and over 500 Protestant churches and prayer houses. The Russian Orthodox Christmas is recognized as a national holiday in Kazakhstan.[241] Other religious groups include Judaism, the Bahá'í Faith, Hinduism, Buddhism, and The Church of Jesus Christ of Latter-day Saints.[242]
+is the biggest mosque in Kazakhstan]] One quarter of the population is Russian Orthodox, including ethnic Russians, Ukrainians and Belarusians.[239] Other Christian groups include Roman Catholics, Greek Catholics, and Protestants.[240] There are a total of 258 Orthodox churches, 93 Catholic churches (9 Greek Catholic), and over 500 Protestant churches and prayer houses. The Russian Orthodox Christmas is recognized as a national holiday in Kazakhstan.[241] Other religious groups include Judaism, the Bahá'í Faith, Hinduism, Buddhism, and The Church of Jesus Christ of Latter-day Saints.[242]
 
 According to the 2009 Census data, there are very few Christians outside the Slavic and Germanic ethnic groups.[243]
 
 Education
-
-Palace_of_Arts_Shabyt.jpg
 
 Education is universal and mandatory through to the secondary level and the adult literacy rate is 99.5%.[244] On average, these statistics are equal to both women and men Kazakhstan.[245]
 
@@ -513,11 +491,9 @@ The training and skills development programs in Kazakhstan are also supported by
 
 Culture
 
-Equestrian_heritage,_Kazakhstan.JPEG
-
 Before the Russian colonisation, the Kazakhs had a highly developed culture based on their nomadic pastoral economy. Islam was introduced into the region with the arrival of the Arabs in the 8th century. It initially took hold in the southern parts of Turkestan and spread northward.[253] The Samanids helped the religion take root through zealous missionary work. The Golden Horde further propagated Islam amongst the tribes in the region during the 14th century.[254]
 
-GUWSatpayev.jpg, one of the founders of Soviet era metallogeny, principal advocate and the first president of Kazakhstan Academy of Sciences.]]
+, one of the founders of Soviet era metallogeny, principal advocate and the first president of Kazakhstan Academy of Sciences.]]
 
 Kazakhstan is home to a large number of prominent contributors to literature, science and philosophy: Abay Qunanbayuli, Mukhtar Auezov, Gabit Musirepov, Kanysh Satpayev, Mukhtar Shakhanov, Saken Seyfullin, Jambyl Jabayev, among many others.
 
@@ -527,7 +503,7 @@ Literature
 
 Kazakh literature is defined as "the body of literature, both oral and written, produced in the Kazakh language by the Kazakh people of Central Asia".[255] Kazakh literature expands from the current territory of Kazakhstan, also including the era of Kazakh Soviet Socialist Republic, Kazakh recognized territory under the Russian Empire and the Kazakh Khanate. There is some overlap with several complementary themes, including the literature of Turkic tribes that inhabited Kazakhstan over the course of the history and literature written by ethnic Kazakhs.
 
-USSR_stamp_A.Qunanbayuli_1965_4k.jpg honoring Kazakh essayist and poet Abai Qunanbaiuly.]] According to Chinese written sources of 6th–8th centuries CE, Turkic tribes of Kazakhstan had oral poetry tradition. These came from earlier periods, and were primarily transmitted by bards: professional storytellers and musical performers.[256] Traces of this tradition are shown on Orkhon script stone carvings dated 5th–7th centuries CE that describe rule of Kultegin and Bilge, two early Turkic rulers ("kagans"). Amongst the Kazakhs, the bard was a primarily, though not exclusively, male profession. Since at least the 17th century, Kazakh bards could be divided in two main categories: the zhıraws (zhiraus, žyraus), who passed on the works of others, usually not creating and adding their own original work; and the aqyns (akyns), who improvised or created their own poems, stories or songs.[257] There were several types of works, such as didactic _termes_, elegiac _tolgaws_, and epic _zhırs_.[258] Although the origins of such tales are often unknown, most of them were associated with bards of the recent or more distant past, who supposedly created them or passed them on, by the time most Kazakh poetry and prose was first written down in the second half of the 19th century.[259] There are clear stylistic differences between works first created in the 19th century, and works dating from earlier periods but not documented before the 19th century, such as those attributed to such 16th- and 17th-century bards as Er Shoban and Dosmombet Zhıraw (also known as Dospambet Žyrau; he appeared to have been literate, and reportedly visited Constantinople), and even to such 15th-century bards as Shalkiz and Asan Qayghı.[260]
+honoring Kazakh essayist and poet Abai Qunanbaiuly.]] According to Chinese written sources of 6th–8th centuries CE, Turkic tribes of Kazakhstan had oral poetry tradition. These came from earlier periods, and were primarily transmitted by bards: professional storytellers and musical performers.[256] Traces of this tradition are shown on Orkhon script stone carvings dated 5th–7th centuries CE that describe rule of Kultegin and Bilge, two early Turkic rulers ("kagans"). Amongst the Kazakhs, the bard was a primarily, though not exclusively, male profession. Since at least the 17th century, Kazakh bards could be divided in two main categories: the zhıraws (zhiraus, žyraus), who passed on the works of others, usually not creating and adding their own original work; and the aqyns (akyns), who improvised or created their own poems, stories or songs.[257] There were several types of works, such as didactic _termes_, elegiac _tolgaws_, and epic _zhırs_.[258] Although the origins of such tales are often unknown, most of them were associated with bards of the recent or more distant past, who supposedly created them or passed them on, by the time most Kazakh poetry and prose was first written down in the second half of the 19th century.[259] There are clear stylistic differences between works first created in the 19th century, and works dating from earlier periods but not documented before the 19th century, such as those attributed to such 16th- and 17th-century bards as Er Shoban and Dosmombet Zhıraw (also known as Dospambet Žyrau; he appeared to have been literate, and reportedly visited Constantinople), and even to such 15th-century bards as Shalkiz and Asan Qayghı.[260]
 
 Other notable bards include Kaztugan Žyrau, Žiembet Žyrau, Axtamberdy Žyrau, and Buxar Žyrau Kalkamanuly, who was an advisor to Ablai Khan, and whose works have been preserved by Mäšhür Žüsip Köpeev.[261] _Er Targhın_ and _Alpamıs_ are two of the most famous examples of Kazakh literature to be recorded in the 19th century.[262] The _Book of Dede Korkut_ and Oguz Name (a story of ancient Turkic king Oghuz Khan) are the most well-known Turkic heroic legends. Initially created around 9th century CE, they were passed on through generations in oral form. The legendary tales were recorded by Turkish authors in 14–16th centuries C.E.[263][264]
 
@@ -535,11 +511,11 @@ The preeminent role in the development of modern literary Kazakh belongs to Abai
 
 Music
 
-Stamp_of_Kazakhstan_659.jpg on stamp of Kazakhstan]] The modern state of Kazakhstan is home to the Kazakh State Kurmangazy Orchestra of Folk Instruments, the Kazakh State Philharmonic Orchestra, the Kazakh National Opera and the Kazakh State Chamber Orchestra. The folk instrument orchestra was named after Kurmangazy Sagyrbayuly, a famous composer and dombra player from the 19th century. The Musical-Dramatic Training College, founded in 1931, was the first institute of higher education for music. Two years later, the Orchestra of Kazakh Folk Musical Instruments was formed 1. The Foundation Asyl Mura is archivating and publishing historical recordings of great samples of Kazakh music both traditional and classical. The leading conservatoire is in Almaty, the Qurmanghazy Conservatoire. It currently competes with the national conservatoire in Nur-Sultan, Kazakhstan's capital.
+on stamp of Kazakhstan]] The modern state of Kazakhstan is home to the Kazakh State Kurmangazy Orchestra of Folk Instruments, the Kazakh State Philharmonic Orchestra, the Kazakh National Opera and the Kazakh State Chamber Orchestra. The folk instrument orchestra was named after Kurmangazy Sagyrbayuly, a famous composer and dombra player from the 19th century. The Musical-Dramatic Training College, founded in 1931, was the first institute of higher education for music. Two years later, the Orchestra of Kazakh Folk Musical Instruments was formed 1. The Foundation Asyl Mura is archivating and publishing historical recordings of great samples of Kazakh music both traditional and classical. The leading conservatoire is in Almaty, the Qurmanghazy Conservatoire. It currently competes with the national conservatoire in Nur-Sultan, Kazakhstan's capital.
 
 When referring to traditional Kazakh music, authentic folklore must be separated from "folklorism". The latter denotes music executed by academically trained performers who aim at preserving the traditional music for coming generations. As far as can be reconstructed, the music of Kazakhstan from the period before a strong Russian influence consists of instrumental music and vocal music. Instrumental music, with the pieces ("Küy") being performed by soloists. Text is often seen in the background (or "program") for the music, as a lot of Küy titles refer to stories. Vocal music, either as part of a ceremony such as a wedding (mainly performed by women), or as part of a feast. Here we might divide into subgenres: epic singing, containing not only historical facts, but as well the tribe's genealogy, love songs, didactic verses; and as a special form the composition of two or more singers in public (Aitys), of dialogue character and usually unexpectedly frankly in content.
 
-Данэлия_Тулешова_(день_1)_на_Детской_Новой_волне_2015.jpg.]] The Russian influence on the music life in Kazakhstan can be seen in two spheres: first, the introduction of musical academic institutions such as concert houses with opera stages, conservatories, where the European music was performed and taught, and second, by trying to incorporate Kazakh traditional music into these academic structures. Controlled first by the Russian Empire and then the Soviet Union, Kazakhstan's folk and classical traditions became connected with ethnic Russian music and Western European music. Prior to the 20th century, Kazakh folk music was collected and studied by ethnographic research teams including composers, music critics and musicologists. In the first part of the 19th century, Kazakh music was transcribed in linear notation. Some composers of this era set Kazakh folk songs to Russian-style European classical music.
+.]] The Russian influence on the music life in Kazakhstan can be seen in two spheres: first, the introduction of musical academic institutions such as concert houses with opera stages, conservatories, where the European music was performed and taught, and second, by trying to incorporate Kazakh traditional music into these academic structures. Controlled first by the Russian Empire and then the Soviet Union, Kazakhstan's folk and classical traditions became connected with ethnic Russian music and Western European music. Prior to the 20th century, Kazakh folk music was collected and studied by ethnographic research teams including composers, music critics and musicologists. In the first part of the 19th century, Kazakh music was transcribed in linear notation. Some composers of this era set Kazakh folk songs to Russian-style European classical music.
 
 The Kazakhs themselves, however, did not write their own music in notation until 1931. Later, as part of the Soviet Union, Kazakh folk culture was encouraged in a sanitized manner designed to avoid political and social unrest. The result was a bland derivative of real Kazakh folk music. In 1920, Aleksandr Zatayevich, a Russian official, created major works of art music with melodies and other elements of Kazakh folk music. Beginning in 1928 and accelerating in the 1930s, he also adapted traditional Kazakh instruments for use in Russian-style ensembles, such as by increasing the number of frets and strings. Soon, these styles of modern orchestral playing became the only way for musicians to officially play; Kazakh folk was turned into patriotic, professional and socialist endeavors 2.
 
@@ -553,25 +529,25 @@ In the national cuisine, livestock meat can be cooked in a variety of ways and i
 
 Sport
 
-2016_Brussels_Cycling_Classic_032.jpg is professional cycling team representing Kazakhstan and sponsored by the state-owned companies from Kazakhstan]] Kazakhstan consistently performs in Olympic competitions. It is especially successful in boxing. This has brought some attention to the Central Asian nation and increased world awareness of its athletes. Dmitry Karpov and Olga Rypakova are among the most notable Kazakhstani athletics. Dmitry Karpov is a distinguished decathlete, taking bronze in both the 2004 Summer Olympics, and the 2003 and 2007 World Athletics Championships. Olga Rypakova is an athlete, specialized in triple jump (women's), taking silver in the 2011 World Championships in Athletics and Gold in the 2012 Summer Olympics.
+is professional cycling team representing Kazakhstan and sponsored by the state-owned companies from Kazakhstan]] Kazakhstan consistently performs in Olympic competitions. It is especially successful in boxing. This has brought some attention to the Central Asian nation and increased world awareness of its athletes. Dmitry Karpov and Olga Rypakova are among the most notable Kazakhstani athletics. Dmitry Karpov is a distinguished decathlete, taking bronze in both the 2004 Summer Olympics, and the 2003 and 2007 World Athletics Championships. Olga Rypakova is an athlete, specialized in triple jump (women's), taking silver in the 2011 World Championships in Athletics and Gold in the 2012 Summer Olympics.
 
-FC_Astana_vs._Celtic_FC_UCL_2017.jpg opened in 2009]]
+opened in 2009]]
 
 Kazakhstan's city of Almaty submitted twice bid for the Winter Olympics: in 2014 and again for the 2022 Winter Olympics. Nur-Sultan and Almaty hosted the 2011 Asian Winter Games.[266]
 
 Popular sports in Kazakhstan include football, basketball, ice hockey, bandy, and boxing.
 
-Dusan_Petronijevic.jpg players]]
+players]]
 
 Football is the most popular sport in Kazakhstan. The Football Federation of Kazakhstan is the sport's national governing body. The FFK organises the men's, women's, and futsal national teams.
 
 Kazakhstan's most famous basketball player was Alzhan Zharmukhamedov, who played for CSKA Moscow and the Soviet Union's national basketball team in the 1960s and 1970s. Throughout his career, he won multiple titles and medals at some of the world's most prestigious basketball competitions, including the Summer Olympics, the Basketball World Cup, the EuroBasket (the European Basketball Championship), and the EuroLeague. In 1971 he earned the title Master of Sports of the USSR, International Class and a year later he was awarded the Order of the Badge of Honor.Kazakhstan's national basketball team was established in 1992, after the dissolution of the Soviet Union. Since its foundation, it has been competitive at the continental level. Its greatest accomplishment was at the 2002 Asian Games, where it defeated the Philippines in its last game to win the bronze medal. At the official Asian Basketball Championship, now called _FIBA Asia Cup_, the Kazakhs' best finish was 4th place in 2007.
 
-Barys_Arena.jpg in 2015]]
+in 2015]]
 
 The Kazakhstan national bandy team is among the best in the world, and has many times won the bronze medal at the Bandy World Championship, including the 2012 edition when Kazakhstan hosted the tournament on home ice.[267][268] In the 2011 tournament, they were an extra-time in the semi-final from reaching the final for the first time. In 2012, they were even closer when they took it to a penalty shootout. The team won the first bandy tournament at the Asian Winter Games. During the Soviet time, Dynamo Alma-Ata won the Soviet Union national championships in 1977 and 1990 and the European Cup in 1978. Bandy is developed in 10 of the country's 17 administrative divisions (8 of the 14 regions and 2 of the 3 cities which are situated inside of but are not part of regions).[269] Akzhaiyk from Oral, however, is the only professional club.
 
-Nik_Antropov_Jets_2012-02-11.JPG.]]
+.]]
 
 The Kazakh national ice hockey team have competed in ice hockey in the 1998 and 2006 Winter Olympics, as well as in the 2006 Men's World Ice Hockey Championships. The Kazakhstan Hockey Championship is held since 1992. Barys Astana is the main domestic Kazakhstani ice hockey professional team, and having played in the Kazakhstani national league until the 2008–09 season, when they were transferred to play in the Kontinental Hockey League. Meanwhile, the Kazzinc-Torpedo and play in the Supreme Hockey League since 1996 and the Saryarka Karagandy since 2012. Top Kazakhstani ice hockey players include Nik Antropov, Ivan Kulshov and Evgeni Nabokov.
 
@@ -579,7 +555,7 @@ Kazakh boxers are generally well known in the world. In the last three Olympic G
 
 Film
 
-Фотограф_Сергей_Новиченко_II_ББ_(498).JPG]] Red_Carpet_at_AIAFF.jpg, 2010.]]
+]] , 2010.]]
 
 Kazakhstan's film industry is run through the state-owned Kazakhfilm studios based in Almaty. The studio has produced award-winning movies such as _Myn Bala_, _Harmony Lessons_, and _Shal_. Kazakhstan is host of the International Astana Action Film Festival and the Eurasia International Film Festival held annually. Hollywood director Timur Bekmambetov is from Kazakhstan and has become active in bridging Hollywood to the Kazakhstan film industry.
 
@@ -589,7 +565,7 @@ Serik Aprymov's _Little Brother_ (_Bauyr_) won at the Central and Eastern Europe
 
 Media
 
-Timur_Bekmambetov_by_Gage_Skidmore.jpg, a notable Kazakh director.]]
+, a notable Kazakh director.]]
 
 Kazakhstan is ranked 161 out of 180 countries on the World Press Freedom Index, compiled by Reporters Without Borders.[273] A mid-March 2002 court order, with the government as a plaintiff, stated that _Respublika_ were to stop printing for three months.[274] The order was evaded by printing under other titles, such as _Not That Respublika_.[275] In early 2014, a court also issued a cease publication order to the small-circulation Assandi-Times newspaper, saying it was a part of the Respublika group. Human Rights Watch said: "this absurd case displays the lengths to which Kazakh authorities are willing to go to bully critical media into silence."[276]
 

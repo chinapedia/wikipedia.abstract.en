@@ -23,12 +23,10 @@ Benedict spent most of his time working on questions of theology. He rejected ma
 
 Though born a Frenchman, Benedict felt no patriotism towards France nor her king, Philip VI.[12] From the start of his papacy, relations between him and Philip were frigid.[13] After being informed of Philip's plan to invade Scotland, Benedict hinted that Edward III, King of England would most likely win, regardless.[14]
 
-Tomb_of_Benedict_XII,_Cathédrale_de_Notre-Dame-des-Doms,_Avignon.JPG, Cathédrale de Notre-Dame-des-Doms, Avignon]]
+, Cathédrale de Notre-Dame-des-Doms, Avignon]]
 
 
 Works
-
-Benedictus_–_Formulare_advocatorum_et_procuratorum_Romane_curie_et_regii_parlamenti,_1536_–_BEIC_13731734.jpg
 
 -
 

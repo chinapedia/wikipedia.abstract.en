@@ -16,7 +16,7 @@ Moore's paternal great-grandfather, Lieutenant Colonel Lewis Tilghman Moore, own
 
 Career
 
-Mary_Tyler_Moore_Johnny_Staccato_1960.jpg'', 1960]]
+'', 1960]]
 
 Television
 
@@ -26,13 +26,13 @@ Moore decided at the age of 17 that she wanted to be a dancer. Her television ca
 
 Moore's first regular television role was as a mysterious and glamorous telephone receptionist in _Richard Diamond, Private Detective_. In the show her voice was heard but only her legs appeared on camera, adding to the character's mystique.[25] About this time, she guest-starred in John Cassavetes' NBC detective series _Johnny Staccato_, and also in _Bachelor Father_ in the episode titled "Bentley and the Big Board". In 1961, Moore appeared in several big parts in movies and on television, including _Bourbon Street Beat_, _77 Sunset Strip_, _Surfside 6_, _Wanted: Dead or Alive_, _Steve Canyon_, _Hawaiian Eye_, _Thriller_ and _Lock-Up_.
 
-Mary_Tyler_Moore_Dick_Van_Dyke_1964.JPG, 1964]]
+, 1964]]
 
 _The Dick Van Dyke Show_ (1961–1966)
 
 In 1961, Carl Reiner cast Moore in _The Dick Van Dyke Show_, a weekly series based on Reiner's own life and career as a writer for Sid Caesar's television variety show _Your Show of Shows_, telling the cast from the outset that it would run for no more than five years. The show was produced by Danny Thomas' company, and Thomas himself recommended her. He remembered Moore as "the girl with three names" whom he had turned down earlier.[26] Moore's energetic comic performances as Van Dyke's character's wife, begun at age 24 (11 years Van Dyke's junior), made both the actress and her signature tight capri pants extremely popular, and she became internationally known. When she won her first Emmy Award for her portrayal of Laura Petrie,[27] she said, "I know this will never happen again."[28]
 
-Mary_Tyler_Moore_cast_1970.jpg (_Rhoda_), Ed Asner (_Lou Grant_), Cloris Leachman (_Phyllis_). Bottom: Gavin MacLeod (Murray), Moore, Ted Knight (Ted).]]
+(_Rhoda_), Ed Asner (_Lou Grant_), Cloris Leachman (_Phyllis_). Bottom: Gavin MacLeod (Murray), Moore, Ted Knight (Ted).]]
 
 _The Mary Tyler Moore Show_ (1970–1977)
 
@@ -41,8 +41,6 @@ In 1970, after having appeared earlier in a pivotal one-hour musical special cal
 After six years of ratings in the top 20,[31] the show slipped to number 39 during season seven.[32] Producers decided to cancel the series because of falling ratings, afraid that the show's legacy might be damaged if it were renewed for another season.[33] Despite the decline in ratings, the 1977 season would go on to win an Emmy Award for Outstanding Comedy Series,[34] to add to the awards it had won in 1975 and 1976. All in all, during its seven seasons, the program held the record for winning the most Emmys – 29.[35] That record remained unbroken until 2002 when the NBC sitcom _Frasier_ won its 30th Emmy.[36] _The Mary Tyler Moore Show_ became a touchpoint of the Women's Movement for its portrayal of an independent working woman, which challenged the traditional woman's role in marriage and family.[37][38]
 
 Later projects
-
-Mary_Tyler_Moore_-_1978.jpg
 
 During season six of _The Mary Tyler Moore Show_, Moore appeared in a musical/variety special for CBS titled _Mary's Incredible Dream_,[39] which featured Ben Vereen. In 1978, she starred in a second CBS special, _How to Survive the '70s and Maybe Even Bump Into Happiness_. This time, she received significant support from a strong lineup of guest stars: Bill Bixby, John Ritter, Harvey Korman and Dick Van Dyke. In the 1978–79 season, Moore attempted to try the musical-variety genre by starring in two unsuccessful CBS variety series in a row: _Mary_, which featured David Letterman, Michael Keaton, Swoosie Kurtz and Dick Shawn in the supporting cast. CBS canceled the series. In March 1979, the network brought Moore back in a new, retooled show, _The Mary Tyler Moore Hour_, which was described as a "sit-var" (part situation comedy/part variety series) with Moore portraying a TV star putting on a variety show.[40] The program lasted just 11 episodes.[41]
 
@@ -56,7 +54,7 @@ Theater
 
 Moore appeared in several Broadway plays. She starred in _Whose Life Is It Anyway_ with James Naughton, which opened on Broadway at the Royale Theatre on February 24, 1980, and ran for 96 performances, and in _Sweet Sue_, which opened at the Music Box Theatre on January 8, 1987, later transferred to the Royale Theatre, and ran for 164 performances. She was the star of a new musical version of _Breakfast at Tiffany's_ in December 1966, but the show, titled _Holly Golightly_, was a flop that closed in previews before opening on Broadway. In reviews of performances in Philadelphia and Boston, critics "murdered" the play in which Moore claimed to be singing with bronchial pneumonia.[51]
 
-Mary_Tyler_Moore_1988.jpg (1988)]]
+(1988)]]
 
 Moore appeared in previews of the Neil Simon play _Rose's Dilemma_ at the off-Broadway Manhattan Theatre Club in December 2003 but quit the production after receiving a critical letter from Simon instructing her to "learn your lines or get out of my play".[52] Moore had been using an earpiece on stage to feed her lines to the repeatedly rewritten play.[53]
 
@@ -87,7 +85,7 @@ On October 14, 1980, at the age of 24, Moore's son Richard died of an accidental
 
 Moore married Robert Levine[84] on November 23, 1983, at the Pierre Hotel in New York City.[85] They met when Moore's mother was treated by him in New York City on a weekend house call, after Moore and her mother returned from a visit to the Vatican where they had a personal audience with Pope John Paul II.[86]
 
-Moore_Hastert.jpg's Hero's Award to the US Speaker of the House, Dennis Hastert, for his role in securing federal funding for type 1 diabetes research. (2003)]]
+'s Hero's Award to the US Speaker of the House, Dennis Hastert, for his role in securing federal funding for type 1 diabetes research. (2003)]]
 
 
 Health issues and death
@@ -119,7 +117,7 @@ During the 1960s and 1970s, Moore had a reputation as a liberal or moderate, alt
 
 Awards and honors
 
-MplsMTMstatue_resize.jpg, at Nicollet Mall in Minneapolis replicates the hat-tossing image that opened _The Mary Tyler Moore Show_.[107]]]
+, at Nicollet Mall in Minneapolis replicates the hat-tossing image that opened _The Mary Tyler Moore Show_.[107]]]
 
 In February 1981, Moore was nominated for the Academy Award for Best Actress for her role in the drama film _Ordinary People_ but lost to Sissy Spacek for her role in _Coal Miner's Daughter_.[108] In 1981 she won the Golden Globe Award for Best Actress in a Drama for that role.[109]
 

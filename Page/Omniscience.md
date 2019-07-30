@@ -37,7 +37,7 @@ Jainism views infinite knowledge as an inherent capability of every soul. _Ariha
 
 Omniscience and free will
 
-Orozco_Mural_Omniciencia_1925_Azulejos.jpg]] Whether omniscience, particularly regarding the choices that a human will make, is compatible with free will has been debated by theologians and philosophers. The argument that divine foreknowledge is not compatible with free will is known as theological fatalism. It is argued that if humans are free to choose between alternatives, God could not know what this choice will be.[5]
+]] Whether omniscience, particularly regarding the choices that a human will make, is compatible with free will has been debated by theologians and philosophers. The argument that divine foreknowledge is not compatible with free will is known as theological fatalism. It is argued that if humans are free to choose between alternatives, God could not know what this choice will be.[5]
 
 A question arises: if an omniscient entity knows everything, even about its own decisions in the future, does it therefore forbid any free will to that entity? William Lane Craig states that the question subdivides into two:
 

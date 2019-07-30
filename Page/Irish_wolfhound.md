@@ -3,15 +3,13 @@ The IRISH WOLFHOUND is a historic sighthound dog breed from Ireland that has by 
 
 History
 
-Fergus_(2544727297).jpg Irish_Wolfhound_Attila.jpg
-
 Pre-19th century
 
 In 391 AD there is a reference to large dogs by Quintus Aurelius Symmachus, a Roman Consul who received seven "canes Scotici" as a gift to be used for fighting lions and bears, and who wrote "all Rome viewed (them) with wonder".[9] Scoti is a Latin name for the Gaels (ancient Irish).[10] Dansey, the early 19th century translator of the first complete version of Arrian's work in English, _On Coursing_, suggested the Irish and Scottish "greyhounds" were derived from the same ancestor, the _vertragus_, and had expanded with the Scoti from Ireland across the Western Isles and into what is today Scotland.[11]
 
 The dog-type is imagined by some to be very old. Wolfhounds were used as hunting dogs by the Gaels, who called them _Cú Faol_[12] (, "hound"[13] "wolf"[14] or wolfhound). Dogs are mentioned, as cú in Irish laws and in Irish literature which dates from the 6th century or, in the case of the Sagas, from the old Irish period - AD 600-900. The word "Cú" often became an added prefix of respect on the names of warriors as well as kings denoting that they were worthy of the respect and loyalty of a Cú. CúChulainn, the name of a legend, which translates literally as "hound of Culann", gained his name as a child, known then as Sétanta, he slew the ferocious guard dog of Culann, forcing him to offer himself as a replacement[15]. In discussing the systematic evidence of historic dog sizes in Ireland, the Irish zooarchaeologist Finbar McCormick stressed that no dogs of Irish Wolfhound size are known from sites of the Iron Age period of 1000 BC through to the early Christian period to 1200 AD, and on the basis of the historic dog bones available, dogs of current Irish Wolfhound size seem to be a relatively modern development – _It must be concluded that the dog of CúChulainn was no larger than an alsatian and not the calf-sized beast of the popular imagination …_[16]
 
-Wolfhound_mascot_wb.jpg' mascot in parade dress]] WWI_Irish_recruiting_poster_LOC_cph.3g10979.jpg
+' mascot in parade dress]]
 
 Hunting dogs were coveted and were frequently given as gifts to important personages and foreign nobles. King John of England, in about 1210 presented an Irish hound , Gelert, to Llewellyn, a prince of Wales. The poet The Hon William Robert Spencer immortalized this hound in a poem.[17]
 
@@ -25,7 +23,7 @@ Thomas Pennant (1726-1798) reported that he could find no more than three wolfdo
 
 Modern wolfhound
 
-Irish_Guards'_Mascot_-_Leitrim_Boy.jpg with the regiment's mascot, an Irish Wolfhound named _Leitrim Boy_.]] Irish_wolfhound.jpg
+with the regiment's mascot, an Irish Wolfhound named _Leitrim Boy_.]]
 
 Captain George Augustus Graham (1833-1909) of Rednock House, Dursley, Gloucestershire was responsible for creating the modern Irish wolfhound breed. He stated that he could not find the breed "in its original integrity" to work with:
 
@@ -46,7 +44,7 @@ George Augustus Graham created the modern Irish wolfhound breed that retained th
 
 Appearance
 
-Irish_Wolfhound_Sam.jpg Considered by the American Kennel Club to be the tallest of all dog breeds, describing the breed as, "Of great size and commanding appearance, the Irish Wolfhound is remarkable in combining power and swiftness with keen sight. The largest and tallest of the galloping hounds, in general type he is a rough-coated, Greyhound-like breed; very muscular, strong though gracefully built; movements easy and active; head and neck carried high, the tail carried with an upward sweep with a slight curve towards the extremity".[36] The average height of an Irish Wolfhound should be taller than that of a Great Dane. However, the wolfhound is not to be confused with being the heaviest, as its structure should be similar to that of a Greyhound, with a very broad and deep chest that tucks up.
+Considered by the American Kennel Club to be the tallest of all dog breeds, describing the breed as, "Of great size and commanding appearance, the Irish Wolfhound is remarkable in combining power and swiftness with keen sight. The largest and tallest of the galloping hounds, in general type he is a rough-coated, Greyhound-like breed; very muscular, strong though gracefully built; movements easy and active; head and neck carried high, the tail carried with an upward sweep with a slight curve towards the extremity".[36] The average height of an Irish Wolfhound should be taller than that of a Great Dane. However, the wolfhound is not to be confused with being the heaviest, as its structure should be similar to that of a Greyhound, with a very broad and deep chest that tucks up.
 
 Its colour may be grey, brindle, red, black, white, fawn, and wheaten.[37]
 
@@ -57,14 +55,14 @@ The AKC specifies the minimum height as for mature males, for females; the minim
 
 Temperament
 
-Irish_wolfhound_giaccomo.JPG Irish Wolfhounds have a varied range of personalities and are most often noted for their personal quirks and individualism.[45] An Irish Wolfhound, however, is rarely mindless, and despite its large size is rarely found to be destructive in the house or boisterous. This is because the breed is generally introverted, intelligent, and reserved in character. An easygoing animal, the Irish Wolfhound is quiet by nature. Wolfhounds often create a strong bond with their family and can become quite destructive or morose if left alone for long periods of time. An Irish Wolfhound is not a guard dog and will protect individuals rather than the house or the owner’s possessions. However independent the wolfhound is, the breed becomes attached to both owners and other dogs they are raised with and is therefore not the most adaptable of breeds. Bred for independence, an Irish Wolfhound is not necessarily keen on defending spaces. A wolfhound is most easily described by its historical motto, “gentle when stroked, fierce when provoked”.[46] They should not be territorially aggressive to other domestic dogs but are born with specialized skills and it is common for hounds at play to course another dog. This is a specific hunting behavior, not a fighting or territorial domination behavior. Most Wolfhounds are very gentle with children. The Irish Wolfhound is relatively easy to train. They respond well to firm, but gentle, consistent leadership. However, historically these dogs were required to work at great distances from their masters and think independently when hunting rather than waiting for detailed commands and this can still be seen in the breed.[47]
+Irish Wolfhounds have a varied range of personalities and are most often noted for their personal quirks and individualism.[45] An Irish Wolfhound, however, is rarely mindless, and despite its large size is rarely found to be destructive in the house or boisterous. This is because the breed is generally introverted, intelligent, and reserved in character. An easygoing animal, the Irish Wolfhound is quiet by nature. Wolfhounds often create a strong bond with their family and can become quite destructive or morose if left alone for long periods of time. An Irish Wolfhound is not a guard dog and will protect individuals rather than the house or the owner’s possessions. However independent the wolfhound is, the breed becomes attached to both owners and other dogs they are raised with and is therefore not the most adaptable of breeds. Bred for independence, an Irish Wolfhound is not necessarily keen on defending spaces. A wolfhound is most easily described by its historical motto, “gentle when stroked, fierce when provoked”.[46] They should not be territorially aggressive to other domestic dogs but are born with specialized skills and it is common for hounds at play to course another dog. This is a specific hunting behavior, not a fighting or territorial domination behavior. Most Wolfhounds are very gentle with children. The Irish Wolfhound is relatively easy to train. They respond well to firm, but gentle, consistent leadership. However, historically these dogs were required to work at great distances from their masters and think independently when hunting rather than waiting for detailed commands and this can still be seen in the breed.[47]
 
 Irish Wolfhounds are often favored for their loyalty, affection, patience and devotion. Although at some points in history they have been used as watchdogs, unlike some breeds, the Irish Wolfhound is usually unreliable in this role as they are often friendly toward strangers, although their size can be a natural deterrent. However, when protection is required this dog is never found wanting. When they or their family are in any perceived danger they display a fearless nature. Author and Irish Wolfhound breeder Linda Glover believes the dogs' close affinity with humans makes them acutely aware and sensitive to ill will or malicious intentions leading to their excelling as a guardian rather than guard dog.[48]
 
 
 Health
 
-Chiot_Irish_Wolfhound.jpg Like many large dog breeds, Irish Wolfhounds have a relatively short lifespan. Published lifespan estimations vary between 6 and 10 years with 7 years being the average. Dilated cardiomyopathy and bone cancer are the leading cause of death and like all deep-chested dogs, gastric torsion (bloat) is common; the breed is affected by hereditary intrahepatic portosystemic shunt.[49]
+Like many large dog breeds, Irish Wolfhounds have a relatively short lifespan. Published lifespan estimations vary between 6 and 10 years with 7 years being the average. Dilated cardiomyopathy and bone cancer are the leading cause of death and like all deep-chested dogs, gastric torsion (bloat) is common; the breed is affected by hereditary intrahepatic portosystemic shunt.[49]
 
 In a privately funded study conducted under the auspices of the Irish Wolfhound Club of America and based on an owner survey, Irish Wolfhounds in the United States from 1966 to 1986 lived to a mean age of 6.47 and died most frequently of bone cancer.[50] A more recent study by the UK Kennel Club puts the average age of death at 7 years.[51]
 

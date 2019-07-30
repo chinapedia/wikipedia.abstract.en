@@ -32,7 +32,7 @@ During the Trojan War
 
 The _Iliad_
 
-Patroclus_corpse_MAN_Firenze.jpg and Meriones lifting Patroclus' corpse on a cart while Odysseus looks on, Etruscan alabaster urn from Volterra, Italy, 2nd century BC]]
+and Meriones lifting Patroclus' corpse on a cart while Odysseus looks on, Etruscan alabaster urn from Volterra, Italy, 2nd century BC]]
 
 Odysseus is one of the most influential Greek champions during the Trojan War. Along with Nestor and Idomeneus he is one of the most trusted counsellors and advisors. He always champions the Achaean cause, especially when others question Agamemnon's command, as in one instance when Thersites speaks against him. When Agamemnon, to test the morale of the Achaeans, announces his intentions to depart Troy, Odysseus restores order to the Greek camp.[25] Later on, after many of the heroes leave the battlefield due to injuries (including Odysseus and Agamemnon), Odysseus once again persuades Agamemnon not to withdraw. Along with two other envoys, he is chosen in the failed embassy to try to persuade Achilles to return to combat.[26]
 
@@ -44,7 +44,7 @@ Odysseus has traditionally been viewed as Achilles' antithesis in the _Iliad_:[2
 
 Other stories from the Trojan War
 
-Villa_Romana_de_La_Olmeda_Mosaicos_romanos_001_Ulises.jpg depicting Odysseus at Skyros unveiling the disguised Achilles,[30] from La Olmeda, Pedrosa de la Vega, Spain, 5th century AD]]
+depicting Odysseus at Skyros unveiling the disguised Achilles,[30] from La Olmeda, Pedrosa de la Vega, Spain, 5th century AD]]
 
 Since a prophecy suggested that the Trojan War would not be won without Achilles, Odysseus and several other Achaean leaders went to Skyros to find him. Odysseus discovered Achilles by offering gifts, adornments and musical instruments as well as weapons, to the king's daughters, and then having his companions imitate the noises of an enemy's attack on the island (most notably, making a blast of a trumpet heard), which prompted Achilles to reveal himself by picking a weapon to fight back, and together they departed for the Trojan War.[31]
 
@@ -65,7 +65,7 @@ Homer's _Iliad_ and _Odyssey_ portray Odysseus as a culture hero, but the Romans
 
 Journey home to Ithaca
 
-Arnold_Böcklin_-_Odysseus_and_Polyphemus.jpg: Odysseus and his crew escape the cyclops Polyphemus.]]
+: Odysseus and his crew escape the cyclops Polyphemus.]]
 
 Odysseus is probably best known as the eponymous hero of the _Odyssey_. This epic describes his travails, which lasted for 10 years, as he tries to return home after the Trojan War and reassert his place as rightful king of Ithaca.
 
@@ -75,19 +75,17 @@ After pleading in vain with Aeolus to help them again, they re-embark and encoun
 
 Guided by Circe's instructions, Odysseus and his crew cross the ocean and reach a harbor at the western edge of the world, where Odysseus sacrifices to the dead and summons the spirit of the old prophet Tiresias for advice. Next Odysseus meets the spirit of his own mother, who had died of grief during his long absence. From her, he learns for the first time news of his own household, threatened by the greed of Penelope's suitors. Odysseus also talks to his fallen war comrades and the mortal shade of Heracles.
 
-Mosaïque_d'Ulysse_et_les_sirènes.jpg, Ulixes mosaic at the Bardo National Museum in Tunis, Tunisia, 2nd century AD]]
+, Ulixes mosaic at the Bardo National Museum in Tunis, Tunisia, 2nd century AD]]
 
-Caught_between_a_rock_and_a_hard_place.jpg and the whirlpool Charybdis, from a fresco by Alessandro Allori (1535–1607)]]
+and the whirlpool Charybdis, from a fresco by Alessandro Allori (1535–1607)]]
 
 Odysseus and his men return to Circe's island, and she advises them on the remaining stages of the journey. They skirt the land of the Sirens, pass between the six-headed monster Scylla and the whirlpool Charybdis, where they row directly between the two. However, Scylla drags the boat towards her by grabbing the oars and eats six men.
 
 They land on the island of Thrinacia. There, Odysseus' men ignore the warnings of Tiresias and Circe and hunt down the sacred cattle of the sun god Helios. Helios tells Zeus what happened and demands Odysseus' men be punished or else he will take the sun and shine it in the Underworld. Zeus fulfills Helios' demands by causing a shipwreck during a thunderstorm in which all but Odysseus drown. He washes ashore on the island of Ogygia, where Calypso compels him to remain as her lover for seven years. He finally escapes when Hermes tells Calypso to release Odysseus.
 
-Departure_of_Ulysses_from_the_Land_of_the_Pheacians.jpgs'', painting by Claude Lorrain (1646)]]
+s'', painting by Claude Lorrain (1646)]]
 
 Odysseus is shipwrecked and befriended by the Phaeacians. After he tells them his story, the Phaeacians, led by King Alcinous, agree to help Odysseus get home. They deliver him at night, while he is fast asleep, to a hidden harbor on Ithaca. He finds his way to the hut of one of his own former slaves, the swineherd Eumaeus, and also meets up with Telemachus returning from Sparta. Athena disguises Odysseus as a wandering beggar to learn how things stand in his household.
-
-The_return_of_Ulysses.gif
 
 When the disguised Odysseus returns after 20 years, he is recognized only by his faithful dog, Argos. Penelope announces in her long interview with the disguised hero that whoever can string Odysseus' rigid bow and shoot an arrow through twelve axe shafts may have her hand. According to Bernard Knox, "For the plot of the _Odyssey_, of course, her decision is the turning point, the move that makes possible the long-predicted triumph of the returning hero".[38] Odysseus' identity is discovered by the housekeeper, Eurycleia, as she is washing his feet and discovers an old scar Odysseus received during a boar hunt. Odysseus swears her to secrecy, threatening to kill her if she tells anyone.
 
@@ -137,7 +135,7 @@ He appears in Shakespeare's _Troilus and Cressida_ (1602), set during the Trojan
 
 Modern literature
 
-Bay_of_Palaiokastritsa_from_Bellavista.JPG in Corfu as seen from Bella vista of Lakones. Corfu is considered to be the mythical island of the Phaeacians. The bay of Palaiokastritsa is considered to be the place where Odysseus disembarked and met Nausicaa for the first time. The rock in the sea visible near the horizon at the top centre-left of the picture is considered by the locals to be the mythical petrified ship of Odysseus. The side of the rock toward the mainland is curved in such a way as to resemble the extended sail of a trireme.]]
+in Corfu as seen from Bella vista of Lakones. Corfu is considered to be the mythical island of the Phaeacians. The bay of Palaiokastritsa is considered to be the place where Odysseus disembarked and met Nausicaa for the first time. The rock in the sea visible near the horizon at the top centre-left of the picture is considered by the locals to be the mythical petrified ship of Odysseus. The side of the rock toward the mainland is curved in such a way as to resemble the extended sail of a trireme.]]
 
 Alfred, Lord Tennyson's poem "Ulysses" (published in 1842) presents an aging king who has seen too much of the world to be happy sitting on a throne idling his days away. Leaving the task of civilizing his people to his son, he gathers together a band of old comrades "to sail beyond the sunset".
 
@@ -192,7 +190,7 @@ The _Aeneid_ tells the story of Aeneas and his travels to what would become Rome
 
 Namesakes
 
-Odysseus_-01.jpg depicted on a 3rd-century BC coin from Ithaca]]
+depicted on a 3rd-century BC coin from Ithaca]]
 
 Prince Odysseas-Kimon of Greece and Denmark (born 2004), is the grandson of the deposed Greek king, Constantine II.
 

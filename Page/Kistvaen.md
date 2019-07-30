@@ -1,8 +1,8 @@
-Drizzlecombe_kist_5.JPG and cist structure (Dartmoor in Drizzlecombe)]] Drizzlecombe_kist_1.JPG
+and cist structure (Dartmoor in Drizzlecombe)]]
 
 A KISTVAEN or CISTVAEN is a tomb or burial chamber formed from flat stone slabs in a box-like shape. If set completely underground, it may be covered by a _tumulus_.[1] The word is derived from the Welsh _cist_ (chest) and _maen_ (stone). The term originated in relation to Celtic structures, typically pre-Christian, but in antiquarian scholarship of the 19th and early 20th centuries it was sometimes applied to similar structures outside the Celtic world.
 
-Kist_off_merrivale_row-4.jpg on Dartmoor]]
+on Dartmoor]]
 
 One of the most numerous kinds of kistvaen are the Dartmoor kistvaens. These often take the form of small rectangular pits about 3 ft. (0.9 m) long by 2 feet (0.6 m) wide. The kistvaens were usually covered with a mound of earth and surrounded by a circle of small stones. When a body was placed in the kistvaen, it was usually lain in a contracted position. Sometimes however the body was cremated with the ashes placed in a cinerary urn.
 

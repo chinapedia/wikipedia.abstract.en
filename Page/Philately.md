@@ -1,4 +1,4 @@
-Stamp_UK_Penny_Red_pl148.jpg was used in the UK for many years, and comes in hundreds of variations which are subject to detailed study by philatelists.]] Zeppelin_mail-1934_Xmas_flight_Gibraltar-Brazil.jpg''' from Gibraltar to Rio de Janeiro, Brazil via Berlin on the Christmas flight (12th South American flight) of 1934.]] Spring_Stampex_2011.jpg (philatelic exhibition) at which collectors and dealers meet.]]
+was used in the UK for many years, and comes in hundreds of variations which are subject to detailed study by philatelists.]] ''' from Gibraltar to Rio de Janeiro, Brazil via Berlin on the Christmas flight (12th South American flight) of 1934.]] (philatelic exhibition) at which collectors and dealers meet.]]
 
 PHILATELY (; ) is the study of stamps and postal history and other related items. It also refers to the collection, appreciation and research activities on stamps and other philatelic products. Philately involves more than just stamp collecting, which does not necessarily involve the study of stamps. It is possible to be a philatelist without owning any stamps.[1] For instance, the stamps being studied may be very rare or reside only in museums.
 

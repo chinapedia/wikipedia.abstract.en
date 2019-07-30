@@ -94,7 +94,7 @@ Other related structures:
 -   microtubule
 -   cell membrane
 
-image'' cells, arrows highlight carboxysomes. (B) Image of intact carboxysomes isolated from _H. neapolitanus_. Scale bars are 100 nm.[21]]]
+'' cells, arrows highlight carboxysomes. (B) Image of intact carboxysomes isolated from _H. neapolitanus_. Scale bars are 100 nm.[21]]]
 
 Prokaryotic organelles
 

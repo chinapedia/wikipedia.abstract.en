@@ -1,4 +1,4 @@
-Un-north-korea.png]] North Korea is located in East Asia on the Northern half of the Korean Peninsula.
+]] North Korea is located in East Asia on the Northern half of the Korean Peninsula.
 
 North Korea shares a border with three countries; China along the Amnok River, Russia along the Tumen River, and South Korea along the Korean Demilitarized Zone (DMZ). The Yellow Sea and the Korea Bay are off the west coast and the Sea of Japan (East Sea of Korea) is off the east coast.
 
@@ -6,8 +6,6 @@ Most of North Korea is a series of medium-sized to large-sized Mountain Ranges a
 
 
 Topography and drainage
-
-North_Korea_Topography.png
 
 The terrain consists mostly of hills and mountains separated by deep, narrow valleys. The coastal plains are wide in the west and discontinuous in the east.
 
@@ -26,7 +24,7 @@ The third longest river, the Taedong River, flows through Pyongyang and is navig
 
 Climate
 
-North_Korea_map_of_Köppen_climate_classification.svg North Korea has a combination of a continental climate and an oceanic climate, with four distinct seasons.[2][3] Most of North Korea is classified as being of a humid continental climate within the Köppen climate classification scheme, with warm summers and cold, dry winters. In summer, there is a short rainy season called _changma_.[4]
+North Korea has a combination of a continental climate and an oceanic climate, with four distinct seasons.[2][3] Most of North Korea is classified as being of a humid continental climate within the Köppen climate classification scheme, with warm summers and cold, dry winters. In summer, there is a short rainy season called _changma_.[4]
 
 Long winters bring bitter cold and clear weather interspersed with snow storms as a result of northern and northwestern winds that blow from Siberia. The daily average high and low temperatures for Pyongyang in January are . On average, it snows thirty-seven days during the winter. Winter can be particularly harsh in the northern, mountainous regions.[5]
 
@@ -37,7 +35,7 @@ On average, approximately 60% of all precipitation occurs from June to September
 
 Environment
 
-DPRK_rice.jpg The environment of North Korea is diverse, encompassing alpine, forest, farmland, freshwater, and marine ecosystems.[9]
+The environment of North Korea is diverse, encompassing alpine, forest, farmland, freshwater, and marine ecosystems.[9]
 
 In recent years, the environment has been reported to be in a state of "crisis", "catastrophe", or "collapse".[10][11][12]
 
@@ -45,8 +43,6 @@ Cultivation, logging, and natural disasters have all put pressure on North Korea
 
 
 Boundaries, coastline, and islands
-
-N_Korea_sat_image.jpg
 
 North Korea has an area of 120,538 km², of which 120,408 km² is land and 130 km² is water. It has of land boundaries; of these, are with China, are with South Korea, and are with Russia.
 

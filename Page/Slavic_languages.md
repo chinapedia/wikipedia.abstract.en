@@ -7,7 +7,7 @@ The current geographic distribution of natively spoken Slavic languages covers E
 
 Branches
 
-Slavic_languages_tree.svg Scholars traditionally divide Slavic languages on the basis of geographical and genealogical principle into three main branches, some of which feature subbranches:
+Scholars traditionally divide Slavic languages on the basis of geographical and genealogical principle into three main branches, some of which feature subbranches:
 
 East Slavic'''
 
@@ -80,13 +80,11 @@ History
 
 Common roots and ancestry
 
-Balto-Slavic_lng.png
-
 Slavic languages descend from Proto-Slavic, their immediate parent language, ultimately deriving from Proto-Indo-European, the ancestor language of all Indo-European languages, via a Proto-Balto-Slavic stage. During the Proto-Balto-Slavic period a number of exclusive isoglosses in phonology, morphology, lexis, and syntax developed, which makes Slavic and Baltic the closest related of all the Indo-European branches. The secession of the Balto-Slavic dialect ancestral to Proto-Slavic is estimated on archaeological and glottochronological criteria to have occurred sometime in the period 1500–1000 BCE.[4]
 
 A minority of Baltists maintain the view that the Slavic group of languages differs so radically from the neighboring Baltic group (Lithuanian, Latvian, and the now-extinct Old Prussian), that they could not have shared a parent language after the breakup of the Proto-Indo-European continuum about five millennia ago. Substantial advances in Balto-Slavic accentology that occurred in the last three decades, however, make this view very hard to maintain nowadays, especially when one considers that there was most likely no "Proto-Baltic" language and that West Baltic and East Baltic differ from each other as much as each of them does from Proto-Slavic.[5]
 
-Bascanska_ploca.jpg, 11th century, Krk, Croatia.]]
+, 11th century, Krk, Croatia.]]
 
 Evolution
 
@@ -94,11 +92,11 @@ The imposition of Old Church Slavonic on Orthodox Slavs was often at the expense
 
 Lockwood also notes that these languages have "enriched" themselves by drawing on Church Slavonic for the vocabulary of abstract concepts. The situation in the Catholic countries, where Latin was more important, was different. The Polish Renaissance poet Jan Kochanowski and the Croatian Baroque writers of the 16th century all wrote in their respective vernaculars (though Polish itself had drawn amply on Latin in the same way Russian would eventually draw on Church Slavonic).
 
-beresta.jpgian children were literate enough to send each other letters written on birch bark.]] Although Church Slavonic hampered vernacular literatures, it fostered Slavonic literary activity and abetted linguistic independence from external influences. Only the Croatian vernacular literary tradition nearly matches Church Slavonic in age. It began with the Vinodol Codex and continued through the Renaissance until the codifications of Croatian in 1830, though much of the literature between 1300 and 1500 was written in much the same mixture of the vernacular and Church Slavonic as prevailed in Russia and elsewhere.
+ian children were literate enough to send each other letters written on birch bark.]] Although Church Slavonic hampered vernacular literatures, it fostered Slavonic literary activity and abetted linguistic independence from external influences. Only the Croatian vernacular literary tradition nearly matches Church Slavonic in age. It began with the Vinodol Codex and continued through the Renaissance until the codifications of Croatian in 1830, though much of the literature between 1300 and 1500 was written in much the same mixture of the vernacular and Church Slavonic as prevailed in Russia and elsewhere.
 
 The most important early monument of Croatian literacy is the Baška tablet from the late 11th century. It is a large stone tablet found in the small Church of St. Lucy, Jurandvor on the Croatian island of Krk, containing text written mostly in Čakavian dialect in angular Croatian Glagolitic script. The independence of Dubrovnik facilitated the continuity of the tradition.
 
-ZographensisColour.jpg_, canonical monument of Old Church Slavonic/Old Bulgarian.]] More recent foreign influences follow the same general pattern in Slavic languages as elsewhere and are governed by the political relationships of the Slavs. In the 17th century, bourgeois Russian (_delovoi jazyk'') absorbed German words through direct contacts between Russians and communities of German settlers in Russia. In the era of Peter the Great, close contacts with France invited countless loan words and calques from French, a significant fraction of which not only survived but also replaced older Slavonic loans. In the 19th century, Russian influenced most literary Slavic languages by one means or another.
+_, canonical monument of Old Church Slavonic/Old Bulgarian.]] More recent foreign influences follow the same general pattern in Slavic languages as elsewhere and are governed by the political relationships of the Slavs. In the 17th century, bourgeois Russian (_delovoi jazyk'') absorbed German words through direct contacts between Russians and communities of German settlers in Russia. In the era of Peter the Great, close contacts with France invited countless loan words and calques from French, a significant fraction of which not only survived but also replaced older Slavonic loans. In the 19th century, Russian influenced most literary Slavic languages by one means or another.
 
 Differentiation
 
@@ -110,7 +108,7 @@ Linguistic differentiation was accelerated by the dispersion of the Slavic peopl
 
 The migration of Slavic speakers into the Balkans in the declining centuries of the Byzantine Empire expanded the area of Slavic speech, but the pre-existing writing (notably Greek) survived in this area. The arrival of the Hungarians in Pannonia in the 9th century interposed non-Slavic speakers between South and West Slavs. Frankish conquests completed the geographical separation between these two groups, also severing the connection between Slavs in Moravia and Lower Austria (Moravians) and those in present-day Styria, Carinthia, East Tyrol in Austria, and in the provinces of modern Slovenia, where the ancestors of the Slovenes settled during first colonisation.
 
-Slavic_languages_tree_and_map_from_Kushniarevich_article.png In September 2015, Alexei Kassian and Anna Dybo published,[6] as a part of interdisciplinary study of Slavic ethnogenesis, a lexicostatistical classification of Slavic languages. It was built using qualitative 110-word Swadesh lists that were compiled according to the standards of the Global Lexicostatistical Database project[7] and processed using modern phylogenetic algorithms.
+In September 2015, Alexei Kassian and Anna Dybo published,[6] as a part of interdisciplinary study of Slavic ethnogenesis, a lexicostatistical classification of Slavic languages. It was built using qualitative 110-word Swadesh lists that were compiled according to the standards of the Global Lexicostatistical Database project[7] and processed using modern phylogenetic algorithms.
 
 The resulting dated tree complies with the traditional expert views on the Slavic group structure. Kassian-Dybo’s tree suggests that Proto-Slavic first diverged into three branches: Eastern, Western and Southern. The Proto-Slavic break-up is dated to around 100 A.D., which correlates with the archaeological assessment of Slavic population in the early 1st millennium A.D. being spread on a large territory[8] and already not being monolithic.[9] Then, in the 5th and 6th centuries A.D., these three Slavic branches almost simultaneously divided into sub-branches, which corresponds to the fast spread of the Slavs through Eastern Europe and the Balkans during the second half of the 1st millennium A.D. (the so-called Slavicization of Europe).[10][11][12][13]
 

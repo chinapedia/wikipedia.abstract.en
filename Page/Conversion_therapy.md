@@ -17,8 +17,6 @@ Europe
 
 Sigmund Freud
 
-Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg
-
 Sigmund Freud was a physician and the founder of psychoanalysis. Freud stated that homosexuality could sometimes be removed through hypnotic suggestion,[35] and was influenced by Eugen Steinach, a Viennese endocrinologist who transplanted testicles from straight men into gay men in attempts to change their sexual orientation,[36] stating that his research had "thrown a strong light on the organic determinants of homo-eroticism".[37] Freud cautioned that Steinach's operations would not necessarily make possible a therapy that could be generally applied, arguing that such transplant procedures would be effective in changing homosexuality in men only in cases in which it was strongly associated with physical characteristics typical of women, and that probably no similar therapy could be applied to lesbianism.[38][39] Steinach's method was doomed to failure because the immune system rejects transplanted glands, and was eventually exposed as ineffective and often harmful.[40]
 
 Freud's main discussion of female homosexuality was the 1920 paper "The Psychogenesis of a Case of Homosexuality in a Woman", which described his analysis of a young woman who had entered therapy because her parents were concerned that she was a lesbian. Her father wanted this condition changed. In Freud's view, the prognosis was unfavourable because of the circumstances under which she entered therapy, and because homosexuality was not an illness or neurotic conflict. Freud wrote that changing homosexuality was difficult and possible only under unusually favourable conditions, observing that "in general to undertake to convert a fully developed homosexual into a heterosexual does not offer much more prospect of success than the reverse".[41] Success meant making heterosexual feeling possible, not eliminating homosexual feelings.[42]
@@ -100,7 +98,7 @@ Haldeman concludes that such methods can be called torture, besides being ineffe
 
 Ex-gay ministry
 
-One_by_One_booth.jpg booth at a Love Won Out conference]]
+booth at a Love Won Out conference]]
 
 Some sources describe ex-gay ministries as a form of conversion therapy, while others state that ex-gay organizations and conversion therapy are distinct methods of attempting to convert gay people to heterosexuality.[102][103][104][105] Ex-gay ministries have also been called transformational ministries.[106] Some state that they do not conduct clinical treatment of any kind.[107] Exodus International once believed reparative therapy could be a beneficial tool.[108] The umbrella organization in the United States ceased activities in June 2013, and the three member board issued a statement which repudiated its aims and apologized for the harm their pursuit has caused to LGBT people.[109] The ministries that had been members formed a new organization, Restored Hope Network, and continue to operate as before with a renewed emphasis on spiritual conversion and therapy.
 
@@ -153,8 +151,6 @@ Ariel Shidlo and Michael Schroeder found in "Changing Sexual Orientation: A Cons
 Medical, scientific and legal views
 
 Legal status
-
-Map of countries that have bans on sexual orientation and gender identity change efforts with minors.
 
 +---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Country | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -242,7 +238,7 @@ Map of countries that have bans on sexual orientation and gender identity change
 
 Legal status by US state
 
-Although no national ban exists, several US states and individual counties ban therapy attempting to change sexual orientation as shown in the map below. Map of U.S. states and counties that have bans on sexual orientation and gender identity change efforts with minors.
+Although no national ban exists, several US states and individual counties ban therapy attempting to change sexual orientation as shown in the map below.
 
 Status by health organizations
 

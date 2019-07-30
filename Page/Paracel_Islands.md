@@ -15,8 +15,6 @@ In February 2017, the Asia Maritime Transparency Initiative reported 20 outposts
 
 Geography
 
-Paracel_88.png
-
 -   Geographic coordinates: [7]
 -   Coastline:
 -   Climate: tropical
@@ -39,8 +37,6 @@ The northern section of the group comprises West Sand, Tree Island and the Qilia
 The largest island of the Paracels, Woody Island (which has an area of ), has over 1,000 residents[12] including fishermen and their families, military personnel and civilian administrators.[13]
 
 Crescent group
-
-CrescentGroup-annotated.jpg
 
 Lying about southwest of the Amphitrite group, at , the Crescent group consists of islands and reefs that form a crescent-like structure from west to east, enclosing a deep central lagoon. The group measures east-west and north-south. All of the islands in the group support vegetation except on their small cays.
 
@@ -209,8 +205,6 @@ Etymology
 
 Xisha and other Chinese names
 
-MAO_KUN_MAP-19.jpg
-
 The Chinese name Xisha (), literally "western sands" or "shoals", is a name adopted in the 20th century to distinguish it from the "eastern sands" (the Dongsha or Pratas), the "southern sands" (the Nansha or Spratlys), and the "central sands" (the Zhongsha or Macclesfield Bank). Prior to that, there had been no consistent designation of these islands in early Chinese sources, with names such as _Changsha_, _Shitang_, _Shichuang_ and others being used for Paracel and Spratly inconsistently.[42] In the 14th century Song Dynasty work _Zhu fan zhi_ by Zhao Rugua, the names _Qianli Changsha_ (,   "Thousand mile-Long Sands") and _Wanli Shichuang_ (  "Ten-thousand mile-Rock Bed") were given, interpreted by some to refer to Paracel and Spratly respectively, but opinions differed.[43] The Yuan dynasty work _Daoyi Zhilüe_ by Wang Dayuan considers that _Shitang_ (石塘) to be the same as _Wanli Shitang_ (,  "Ten-thousand mile-Rock Embankment"), which starts from Chaozhou and extends to Borneo, west to Côn Sơn Island off Vietnam and down as far as Java.[44] The _History of Yuan_ uses the terms _Qizhouyang_ (七洲洋, "The Ocean of Seven Islands") and _Wanli Shitang_, which are taken to mean Paracel and Spratly respectively.[45][46] In the Mao Kun map from the Zheng He's voyage of the early 15th century, groups of islands were named as _Shitang_ (石塘), _Wansheng Shitangyu_ (萬生石塘嶼), and _Shixing Shitang_ (石星石塘), with _Shitang_ (sometimes including _Wansheng Shitangyu_) being taken by some to mean Paracel.[47][48] Another Ming text, _Haiyu_ (On the Sea), uses _Wanli Shitang_ to refer to Paracel and _Wanli Changsha_ for Spratly.[49]
 
 During the Qing dynasty, a set of maps refer to Paracel as _Qizhouyang_ (_Shitang_ became Spratly, and _Changsha_ became Zhongsha), while a book _Hai Lu_ (Illustrations of the Sea) refers to Paracel as _Changsha_ and Spratly as _Shitang_. A sea chart prepared in the Daoguang era, _Yiban Lu_ (Particular Illustrations) by Zheng Guangzu, uses Xisha to refer to Paracel.[50] Xisha became the standard name used in China in the 20th century, and was used in 20th century maps published by the Republic of China, for example in 1935,[51] and the 1947 11-dash line map which claimed Paracel and Spratly as its territories.[52]
@@ -220,8 +214,6 @@ Hoàng Sa
 The Vietnamese call the islands Hoang Sa, (黃沙 or Yellow Sands), and this name is found in historic Vietnamese documents dating back to the 15th century.[53] In the modern language system it is written as Hoàng Sa or Cát Vàng. They all have the same meaning — the Yellow Sands or the Yellow Sandbank. Before the early 19th century, the present-day Spratly Islands were treated as features of Hoàng Sa.[54][55] It was not until the reign of Emperor Minh Mạng (1820–1841) that the Spratlys were distinctly delineated and officially named Vạn Lý Trường Sa (萬里長沙), the Ten-thousand League-long Sandbank.[56][57]
 
 Pracel and Paracel
-
-1771_Bonne_Map_of_Tonkin_(Vietnam)_China,_Formosa_(Taiwan)_and_Luzon_(Philippines)_-_Geographicus_-_Formosa-bonne-1771.jpg
 
 The name 'Paracel' is found in the first Portuguese maps of the region. The Portuguese, whose vessels frequented the South China Sea as early as at the beginning of the 16th century, were the first to refer to these islands as 'Ilhas do Pracel' in the 16th century.
 Regarding the likely origin of the term _Paracel_, the word is a variant of the more common form _pracel_ or _parcel_, from the ,[58] which was used by the Portuguese and Spanish navigators to designate shallow sandy seas or submerged banks, such as _Placer de los Roques_.[59]
@@ -257,7 +249,7 @@ There is a post office, hospital, bank and hostel on Woody Island. The Chinese p
 
 Transport
 
-There is an airport on Woody Island with a long runway, which can handle take-offs and landings of Boeing-737s or planes of similar size. Flight services operate on the Haikou – Xisha route. There are three main roads on Woody Island as well as an long cement causeway that connects Woody Island and Rocky Island. Extensive port facilities have been constructed on Duncan Island. Duncan_Island_-_December_2012.jpg
+There is an airport on Woody Island with a long runway, which can handle take-offs and landings of Boeing-737s or planes of similar size. Flight services operate on the Haikou – Xisha route. There are three main roads on Woody Island as well as an long cement causeway that connects Woody Island and Rocky Island. Extensive port facilities have been constructed on Duncan Island.
 
 Ecology and tourism
 
@@ -280,7 +272,7 @@ The Paracel islands are claimed by both China and Vietnam and the majority of th
 
 Military engagement
 
-HoangSa-thu-dedoc-tranvanchon.jpg In 1974, the political and diplomatic dispute over the islands became an armed conflict between China and South Vietnam. On January 16, South Vietnamese naval officers and an American observer reported to Saigon some suspected military activities of the Chinese navy on the Drummond and Duncan islands. After receiving the report, the government of South Vietnam decided to counter the Chinese forces, to defend the South Vietnamese-controlled section (the western half of the Paracels) from Chinese occupation,[79] and sent a unit of frigates to the area. On January 19, there were sea and land battles between the Chinese and Vietnamese forces with casualties on both sides. At the end, the Chinese fleet defeated the naval force of South Vietnam. With the ongoing civil war with the Viet Cong embroiling South Vietnam's attention and the absence of the USA's support, no military attempt was made to re-engage the PRC over the islands. After the military engagement and the subsequent victory, the PRC gained the entire archipelago and has taken control of Paracel Islands ever since. It was a significant turning point for the PRC but the sovereignty dispute on the islands remains unresolved with Vietnam.
+In 1974, the political and diplomatic dispute over the islands became an armed conflict between China and South Vietnam. On January 16, South Vietnamese naval officers and an American observer reported to Saigon some suspected military activities of the Chinese navy on the Drummond and Duncan islands. After receiving the report, the government of South Vietnam decided to counter the Chinese forces, to defend the South Vietnamese-controlled section (the western half of the Paracels) from Chinese occupation,[79] and sent a unit of frigates to the area. On January 19, there were sea and land battles between the Chinese and Vietnamese forces with casualties on both sides. At the end, the Chinese fleet defeated the naval force of South Vietnam. With the ongoing civil war with the Viet Cong embroiling South Vietnam's attention and the absence of the USA's support, no military attempt was made to re-engage the PRC over the islands. After the military engagement and the subsequent victory, the PRC gained the entire archipelago and has taken control of Paracel Islands ever since. It was a significant turning point for the PRC but the sovereignty dispute on the islands remains unresolved with Vietnam.
 
 
 Historical perspectives
@@ -315,7 +307,7 @@ Vietnam
 
 15th–17th centuries
 
-ThienNamTuChiLoDo_BaiCatVang_1741_reproduced_Dumoutier.jpg, 1634]] Partie_de_la_Cochichine_atlas.jpg
+, 1634]]
 
 -   1460–1497, under the reign of Emperor Lê Thánh Tông, the Vietnamese began conducting commercial activities on and around Hoàng Sa, including harvesting abundant sea-products and conducting salvage operations on shipwrecks.[100]
 -   In 1634, under the Lê dynasty (1527–1786), the ship Grootebroek of the Dutch East India Company sank in the vicinity of the Paracel archipelago. Using a small boat, captain Huijch Jansen and 12 sailors managed to reach Annam, territory of Lord Nguyễn Phước Nguyên (1613–1635), to seek rescue for other castaways remained on the islands.[101]
@@ -329,7 +321,7 @@ ThienNamTuChiLoDo_BaiCatVang_1741_reproduced_Dumoutier.jpg, 1634]] Partie_de_la_
 
 1800–1899
 
-MinhMang_royal_ordinance_1.jpg HoangSa.jpg Paracels.JPG SacLuat-HoangSa.jpg, Republic of Vietnam, redistricting the Paracels as part of Quảng Nam Province effective 07-13-1961. Paracels were previously part of Thừa Thiên–Huế Province since 03-30-1938, when redistricted by the government of French Indochina.]]
+, Republic of Vietnam, redistricting the Paracels as part of Quảng Nam Province effective 07-13-1961. Paracels were previously part of Thừa Thiên–Huế Province since 03-30-1938, when redistricted by the government of French Indochina.]]
 
 -   1802–1820, under the reign of Emperor Gia Long, the territory of his kingdom included Tonkin, Cochin China, part of Cambodia, and "certain islands off the coast including the well known Paracels which bear such an evil reputation as a source of danger to navigation in the China Seas."[112]
 -   In 1807, the East India Company sent Captain Daniel Ross to Cochin China to survey the Paracel Islands. Upon arriving to the kingdom, he presented a letter of introduction entrusted by the English company to the reigning king, who was believed to be Emperor Gia Long at that time.[113] Subsequently, Captain Ross completed chartering the south coast of China in 1807, the Paracel Islands in 1808, part of the coast of Cochin China in 1809, and the coast of Palawan in 1810. Most notably, in his surveys published in 1821 under the title "(South) China Sea, Sheet I & II", the Spratly Islands was referred to as The Dangerous Ground, and was later renamed as Storm Island on the 1859 edition of the chart.[114] Separately, in another document, the "Correct Chart of the China Sea", published by Herbert in 1758, the Paracel archipelago was described as a long group of islands and reefs extending from 13 to 17 degrees North, which approximately correspond to the geographic latitudes of the present-day Spratly and Paracel Islands, respectively.[115] It is quite clearly that the captain himself, and probably most navigators of his time, did not differentiate the two archipelagos, but instead had delineated the present-day Spratly Islands as part of the Paracels. Captain Daniel Ross was a well known hydrographer of the Navy of Government of English Bengal and founder of the Bombay Geographical Society.[116]

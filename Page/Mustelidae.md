@@ -3,14 +3,14 @@ The MUSTELIDAE (;[1] from Latin _mustela_, weasel) are a family of carnivorous m
 
 Variety
 
-Sthenictis1.JPG)]] Mustelids vary greatly in size and behaviour. The least weasel can be under a foot in length, while the giant otter of Amazonian South America can measure up to and sea otters can exceed in weight. The wolverine can crush bones as thick as the femur of a moose to get at the marrow, and has been seen attempting to drive bears away from their kills. The sea otter uses rocks to break open shellfish to eat. The marten is largely arboreal, while the European badger digs extensive networks of tunnels, called setts. Some mustelids have been domesticated: the ferret and the tayra are kept as pets (although the tayra requires a Dangerous Wild Animals licence in the UK), or as working animals for hunting or vermin control. Others have been important in the fur trade—the mink is often raised for its fur.
+)]] Mustelids vary greatly in size and behaviour. The least weasel can be under a foot in length, while the giant otter of Amazonian South America can measure up to and sea otters can exceed in weight. The wolverine can crush bones as thick as the femur of a moose to get at the marrow, and has been seen attempting to drive bears away from their kills. The sea otter uses rocks to break open shellfish to eat. The marten is largely arboreal, while the European badger digs extensive networks of tunnels, called setts. Some mustelids have been domesticated: the ferret and the tayra are kept as pets (although the tayra requires a Dangerous Wild Animals licence in the UK), or as working animals for hunting or vermin control. Others have been important in the fur trade—the mink is often raised for its fur.
 
 As well as being one of the most species-rich families in the order Carnivora, the family Mustelidae is one of the oldest. Mustelid-like forms first appeared about 40 million years ago, roughly coinciding with the appearance of rodents. The direct ancestors of the modern mustelids first appeared about 15 million years ago.
 
 
 Characteristics
 
-Black-footed_ferret_skeleton.jpg) on display at the Museum of Osteology.]] Within a large range of variation, the mustelids exhibit some common characteristics. They are typically small animals with elongated bodies, short legs, short, round ears, and thick fur[4]. Most mustelids are solitary, nocturnal animals, and are active year-round.[5]
+) on display at the Museum of Osteology.]] Within a large range of variation, the mustelids exhibit some common characteristics. They are typically small animals with elongated bodies, short legs, short, round ears, and thick fur[4]. Most mustelids are solitary, nocturnal animals, and are active year-round.[5]
 
 With the exception of the sea otter,[6] they have anal scent glands that produce a strong-smelling secretion the animals use for sexual signaling and for marking territory.
 
@@ -21,7 +21,7 @@ Mustelids are predominantly carnivorous, although some eat vegetable matter at t
 
 Ecology
 
-Stoat_killing_a_rabbit.jpg killing a rabbit]] The martens, fisher and tayra are partially arboreal, while badgers are fossorial. A number of mustelids have aquatic lifestyles, ranging from semiaquatic minks and the several species of river otters to the fully aquatic sea otter. The sea otter is one of the few nonprimate mammals known to use a tool while foraging. It uses "anvil" stones to crack open the shellfish that form a significant part of its diet. It is a "keystone species", keeping its prey populations in balance so some do not outcompete the others and destroy the kelp in which they live.
+killing a rabbit]] The martens, fisher and tayra are partially arboreal, while badgers are fossorial. A number of mustelids have aquatic lifestyles, ranging from semiaquatic minks and the several species of river otters to the fully aquatic sea otter. The sea otter is one of the few nonprimate mammals known to use a tool while foraging. It uses "anvil" stones to crack open the shellfish that form a significant part of its diet. It is a "keystone species", keeping its prey populations in balance so some do not outcompete the others and destroy the kelp in which they live.
 
 The black-footed ferret is entirely dependent on another keystone species, the prairie dog. A family of four ferrets eats 250 prairie dogs in a year; this requires a stable population of prairie dogs from an area of some .
 
@@ -35,7 +35,7 @@ The oldest fossil of the mustelids were dated at the end of the Oligocene to the
 
 Human uses
 
-Léonard_de_Vinci_-_Dame_à_l'.jpg's _Lady with an Ermine_, 1489–1490]]
+'s _Lady with an Ermine_, 1489–1490]]
 
 Several mustelids, including the mink, the sable (a type of marten) and the stoat (ermine), boast exquisite and valuable furs, and have been accordingly hunted since prehistoric times. Since the early Middle Ages, the trade in furs was of great economic importance for northern and eastern European nations with large native populations of fur-bearing mustelids, and was a major economic impetus behind Russian expansion into Siberia and French and English expansion in North America. In recent centuries, fur farming, notably of mink, has also become widespread and provides the majority of the fur brought to market.
 

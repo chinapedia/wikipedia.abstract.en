@@ -14,7 +14,7 @@ During the early years of Kwanzaa, Karenga said it was meant to be an alternativ
 
 Principles and symbols
 
-KwanzaaDisplay(cropped).jpg Kwanzaa celebrates what its founder called the seven principles of Kwanzaa, or _Nguzo Saba_ (originally _Nguzu Saba_ – the seven principles of African Heritage), which Karenga said "is a communitarian African philosophy," consisting of what Karenga called "the best of African thought and practice in constant exchange with the world." They were developed in 1965, a year before Kwanzaa itself. These seven principles comprise _Kawaida_, a Swahili word meaning "common". Each of the seven days of Kwanzaa is dedicated to one of the following principles, as follows:[12]
+Kwanzaa celebrates what its founder called the seven principles of Kwanzaa, or _Nguzo Saba_ (originally _Nguzu Saba_ – the seven principles of African Heritage), which Karenga said "is a communitarian African philosophy," consisting of what Karenga called "the best of African thought and practice in constant exchange with the world." They were developed in 1965, a year before Kwanzaa itself. These seven principles comprise _Kawaida_, a Swahili word meaning "common". Each of the seven days of Kwanzaa is dedicated to one of the following principles, as follows:[12]
 
 -   _Umoja_ (Unity): To strive for and to maintain unity in the family, community, nation, and race.
 -   _Kujichagulia_ (Self-Determination): To define and name ourselves, as well as to create and speak for ourselves.
@@ -29,7 +29,7 @@ Kwanzaa celebratory symbols include a mat (Mkeka) on which other symbols are pla
 
 Observances
 
-Kwanzaa-Myers.jpg candles for Kwanzaa.]] Families celebrating Kwanzaa decorate their households with objects of art, colorful African cloth such as kente, especially the wearing of kaftans by women, and fresh fruits that represent African idealism. It is customary to include children in Kwanzaa ceremonies and to give respect and gratitude to ancestors. Libations are shared, generally with a common chalice, _Kikombe cha Umoja_, passed around to all celebrants. Non-African Americans also celebrate Kwanzaa.[16] The holiday greeting is "Joyous Kwanzaa".[17][18][19]
+candles for Kwanzaa.]] Families celebrating Kwanzaa decorate their households with objects of art, colorful African cloth such as kente, especially the wearing of kaftans by women, and fresh fruits that represent African idealism. It is customary to include children in Kwanzaa ceremonies and to give respect and gratitude to ancestors. Libations are shared, generally with a common chalice, _Kikombe cha Umoja_, passed around to all celebrants. Non-African Americans also celebrate Kwanzaa.[16] The holiday greeting is "Joyous Kwanzaa".[17][18][19]
 
 A Kwanzaa ceremony may include drumming and musical selections, libations, a reading of the African Pledge and the Principles of Blackness, reflection on the Pan-African colors, a discussion of the African principle of the day or a chapter in African history, a candle-lighting ritual, artistic performance, and, finally, a feast (karamu). The greeting for each day of Kwanzaa is _Habari Gani?_[20] which is Swahili for "How are you?"[21]
 
@@ -40,7 +40,7 @@ Cultural exhibitions include the Spirit of Kwanzaa, an annual celebration held a
 
 Adherence
 
-Kwanza-RonKarenga.jpg at center, and others.]] The National Retail Federation has sponsored a marketing survey on winter holidays since 2004, and in 2015 found that 1.9% of those polled planned to celebrate Kwanzaa – about six million people.[26] In a 2006 speech, Maulana Karenga asserted that 28 million people celebrate Kwanzaa. He has always claimed it is celebrated all over the world.[27] Lee D. Baker puts the number at 12 million.[28] The African American Cultural Center claimed 30 million in 2009.[29][30]
+at center, and others.]] The National Retail Federation has sponsored a marketing survey on winter holidays since 2004, and in 2015 found that 1.9% of those polled planned to celebrate Kwanzaa – about six million people.[26] In a 2006 speech, Maulana Karenga asserted that 28 million people celebrate Kwanzaa. He has always claimed it is celebrated all over the world.[27] Lee D. Baker puts the number at 12 million.[28] The African American Cultural Center claimed 30 million in 2009.[29][30]
 
 According to University of Minnesota Professor Keith Mayes, the author of _Kwanzaa: Black Power and the Making of the African-American Holiday Tradition,_ the popularity within the U.S. has "leveled off" as the black power movement there has declined, and as of 2009 between 500 thousand and two million Americans celebrated Kwanzaa, or between one and five percent of African Americans. Mayes added that white institutions now celebrate it.[31]
 

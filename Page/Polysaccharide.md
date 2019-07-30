@@ -1,4 +1,4 @@
-Cellulose-Ibeta-from-xtal-2002-3D-balls.png, a beta-glucan polysaccharide.]] amylose_3Dprojection.corrected.png is a linear polymer of glucose mainly linked with α(1→4) bonds. It can be made of several thousands of glucose units. It is one of the two components of starch, the other being amylopectin.]]
+, a beta-glucan polysaccharide.]] is a linear polymer of glucose mainly linked with α(1→4) bonds. It can be made of several thousands of glucose units. It is one of the two components of starch, the other being amylopectin.]]
 
 POLYSACCHARIDES () are polymeric carbohydrate molecules composed of long chains of monosaccharide units bound together by glycosidic linkages, and on hydrolysis give the constituent monosaccharides or oligosaccharides. They range in structure from linear to highly branched. Examples include storage polysaccharides such as starch and glycogen, and structural polysaccharides such as cellulose and chitin.
 

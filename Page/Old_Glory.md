@@ -1,11 +1,9 @@
-Williamdriverflag.png
-
 OLD GLORY is a nickname for the flag of the United States. The original "Old Glory" was a flag owned by the 19th-century American sea captain William Driver (March 17, 1803 – March 3, 1886), who flew the flag during his career at sea and later brought it to Nashville, Tennessee, where he settled. Driver greatly prized the flag and ensured its safety from the Confederates, who attempted to seize the flag during the American Civil War. After the war, Driver's daughter and niece feuded over which of them owned the original Old Glory. In 1922, both flags claimed to be the original "Old Glory" became part of the collection of the Smithsonian Institution, where they remain at the National Museum of American History.
 
 
 History of the original "Old Glory"
 
-Grave_maker_for_William_Driver.jpg, who coined the "Old Glory" nickname in reference to his own oceangoing flag.]]
+, who coined the "Old Glory" nickname in reference to his own oceangoing flag.]]
 
 The term originally referred to a U.S. flag owned by Driver, who was born on March 17, 1803, in Salem, Massachusetts.[1] At age thirteen, Driver ran away from home to become a cabin boy on a ship.[2]
 

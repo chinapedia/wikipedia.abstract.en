@@ -17,7 +17,7 @@ Feynman, and earlier Stueckelberg, proposed an interpretation of the positron as
 
 Experimental clues and discovery
 
-Cloud_chambers_played_an_important_role_of_particle_detectors.jpgs used to be very important particle detectors in the early days of particle physics. They were used in the discovery of the positron, muon, and kaon.]] Dmitri Skobeltsyn first observed the positron in 1929.[9] While using a Wilson cloud chamber[10] to try to detect gamma radiation in cosmic rays, Skobeltsyn detected particles that acted like electrons but curved in the opposite direction in an applied magnetic field.
+s used to be very important particle detectors in the early days of particle physics. They were used in the discovery of the positron, muon, and kaon.]] Dmitri Skobeltsyn first observed the positron in 1929.[9] While using a Wilson cloud chamber[10] to try to detect gamma radiation in cosmic rays, Skobeltsyn detected particles that acted like electrons but curved in the opposite direction in an applied magnetic field.
 
 Likewise, in 1929 Chung-Yao Chao, a graduate student at Caltech, noticed some anomalous results that indicated particles behaving like electrons, but with a positive charge, though the results were inconclusive and the phenomenon was not pursued.[11]
 

@@ -5,7 +5,7 @@ _Penny Arcade_ is among the most popular and longest running webcomics currently
 
 Overview
 
-Krahulik_Holkins,_Comicon_2009.jpg (left) and Jerry Holkins (right) at Comic-Con 2009.]] The strip features Krahulik and Holkins' cartoon alter egos, John "Gabe" Gabriel and Tycho Brahe, respectively. While often borrowing from the authors' experiences, Holkins and Krahulik do not treat them as literal avatars or caricatures of themselves.[7] The two characters spend much of their time playing and commenting on computer and video games, which forms the basis of the humor in the strip. Most of the time Gabe serves the purpose of the comic and Tycho the comic foil. The strip can feature in-jokes that are explained in the news posts accompanying each comic, written by the authors.
+(left) and Jerry Holkins (right) at Comic-Con 2009.]] The strip features Krahulik and Holkins' cartoon alter egos, John "Gabe" Gabriel and Tycho Brahe, respectively. While often borrowing from the authors' experiences, Holkins and Krahulik do not treat them as literal avatars or caricatures of themselves.[7] The two characters spend much of their time playing and commenting on computer and video games, which forms the basis of the humor in the strip. Most of the time Gabe serves the purpose of the comic and Tycho the comic foil. The strip can feature in-jokes that are explained in the news posts accompanying each comic, written by the authors.
 
 Both Krahulik and Holkins make a living from _Penny Arcade_, placing them in a small group of professional webcomic artists devoted to their creations full-time. Originally, like many webcomics, _Penny Arcade_ was supported solely by donations. A graph on the main page indicated how much people had donated that month. After hiring Robert Khoo as their business manager, Holkins and Krahulik switched to a different income stream based on advertising and merchandise revenue alone.[8] According to Holkins, the website in 2006 handled more than two million pageviews daily (excluding forum traffic).[9] On November 13, 2005, the website was given a facelift[10] in celebration of their seventh year running and to match the designs of the Child's Play Charity and Penny Arcade Expo websites. Afterwards, the site has been redesigned multiple times.
 
@@ -65,7 +65,7 @@ Other works
 
 Penny Arcade Presents
 
-Pa_presents.pngUnder the banner of "Penny Arcade Presents", Krahulik and Holkins are sometimes commissioned to create promotional artwork/comic strips for new video games, with their signature artistic style and humor. They are usually credited simply as "Penny Arcade" rather than by their actual names. Some of these works have been included with the distribution of the game, and others have appeared on pre-launch official websites. An official list can be found on the Penny Arcade website.[55]
+Under the banner of "Penny Arcade Presents", Krahulik and Holkins are sometimes commissioned to create promotional artwork/comic strips for new video games, with their signature artistic style and humor. They are usually credited simply as "Penny Arcade" rather than by their actual names. Some of these works have been included with the distribution of the game, and others have appeared on pre-launch official websites. An official list can be found on the Penny Arcade website.[55]
 
 Collectible Card Game
 
@@ -111,7 +111,7 @@ Legal issues and controversy
 
 American Greetings
 
-Tart_as_a_double_entendre.pngKrahulik and Holkins received a cease-and-desist letter from American Greetings Corporation over the use of American Greetings' Strawberry Shortcake and Plum Puddin' characters in the April 14, 2003 _Penny Arcade_ strip entitled "Tart as a Double Entendre". The strip was intended as a parody of the works of both American McGee (especially the computer game _Alice_) and McFarlane Toys. At the time, McFarlane toys and American McGee made separate toy lines, each portraying a dark, frightening interpretation of the characters and situations from _The Wonderful Wizard of Oz_. Krahulik and Holkins' portrayal of Strawberry Shortcake parodied McFarlane Toys' depiction of Dorothy as bound and blindfolded by a pair of munchkins.[75]
+Krahulik and Holkins received a cease-and-desist letter from American Greetings Corporation over the use of American Greetings' Strawberry Shortcake and Plum Puddin' characters in the April 14, 2003 _Penny Arcade_ strip entitled "Tart as a Double Entendre". The strip was intended as a parody of the works of both American McGee (especially the computer game _Alice_) and McFarlane Toys. At the time, McFarlane toys and American McGee made separate toy lines, each portraying a dark, frightening interpretation of the characters and situations from _The Wonderful Wizard of Oz_. Krahulik and Holkins' portrayal of Strawberry Shortcake parodied McFarlane Toys' depiction of Dorothy as bound and blindfolded by a pair of munchkins.[75]
 
 Krahulik and Holkins chose not to enter into a legal battle over whether or not the strip was a protected form of parody, and they complied with the cease-and-desist by replacing it with an image directing their audience to send a letter to a lawyer for American Greetings.[76] They later lampooned the incident by portraying an American Greetings employee as a Nazi.[77]
 
@@ -146,7 +146,7 @@ Both critics of the comic strip and Krahulik and Holkins, made claims of receivi
 
 "Greater Internet Fuckwad Theory"
 
-Greater_Internet_Fuckwad_Theory.png "John Gabriel's Greater Internet Fuckwad Theory" was posted in the _Penny Arcade_ strip published March 19, 2004. It regards the online disinhibition effect, in which Internet users exhibit unsociable tendencies while interacting with other Internet users. Krahulik and Holkins suggest that, given both anonymity and an audience, an otherwise regular person becomes aggressively antisocial.[104] In 2013, Holkins gave the corollary that "Normal Person - _Consequences_ + Audience = Total Fuckwad".[105]
+"John Gabriel's Greater Internet Fuckwad Theory" was posted in the _Penny Arcade_ strip published March 19, 2004. It regards the online disinhibition effect, in which Internet users exhibit unsociable tendencies while interacting with other Internet users. Krahulik and Holkins suggest that, given both anonymity and an audience, an otherwise regular person becomes aggressively antisocial.[104] In 2013, Holkins gave the corollary that "Normal Person - _Consequences_ + Audience = Total Fuckwad".[105]
 
 Clay Shirky, an adjunct professor at New York University who studies social and economic effects of Internet technologies, explains: "There’s a large crowd and you can act out in front of it without paying any personal price to your reputation,” which "creates conditions most likely to draw out the typical Internet user’s worst impulses."[106] In an _Advocate_ article about online homophobia, this theory was used to account for behavior on online forums where one can remain anonymous in front of an audience: for instance, posting comments on popular YouTube videos.[107]
 

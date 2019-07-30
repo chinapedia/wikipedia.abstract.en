@@ -1,8 +1,8 @@
 +------------------------------------------------------------------------------------------------+
 | +--------------------------------------------------------------------------------------------+ |
-| | Asteroid2006DP14.jpg The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg           | |
+| |                                                                                            | |
 | +--------------------------------------------------------------------------------------------+ |
-| | Comet_Hartley_2.jpg                                                                        | |
+| |                                                                                            | |
 | +--------------------------------------------------------------------------------------------+ |
 | | -   _Top left_: near-Earth asteroid imaged by a DSN radar antenna                          | |
 | | -   _Top right_: faint near-Earth asteroid (marked by circle) as seen by the VLT telescope | |
@@ -26,7 +26,7 @@ NEOs have low surface gravity, and many have Earth-like orbits making them easy 
 
 Definitions
 
-Potentially_Hazardous_Asteroids_2013.png)]]
+)]]
 
 The major technical astronomical definition for Near-Earth objects (NEOs) are small Solar System bodies with orbits around the Sun that by definition lie partly between 0.983 (perihelion) and 1.3 (aphelion) astronomical units (AU; Sun–Earth distance) away from the Sun.[26][27] Thus, NEOs are not necessarily currently near the Earth, but they can potentially approach the Earth relatively closely. However, the term is also used more flexibly sometimes, for example for objects in orbit around the Earth or for quasi-satellites,[28] which have a more complex orbital relationship with the Earth.
 
@@ -36,8 +36,6 @@ PHAs are currently defined based on parameters relating to their potential to ap
 
 
 History of human awareness of NEOs
-
-PSM_V76_D020_Path_of_halley_comet.png
 
 The first near-Earth objects to be observed by humans were comets. Their extraterrestrial nature was recognised and confirmed only after Tycho Brahe tried to measure the distance of a comet through its parallax in 1577; and the periodicity of some comets was recognised in 1705, when Edmond Halley first published his orbit calculations for the returning object now known as Halley's Comet.[38] The 1758–1759 return of Halley's Comet was the first comet appearance predicted in advance.[39] It has been said that Lexell's comet of 1770 was the first discovered Near-Earth object.[40]
 
@@ -51,11 +49,9 @@ On March 23, 1989, the diameter Apollo asteroid 4581 Asclepius (1989 FC) missed 
 
 In March 1998, early orbit calculations for recently discovered asteroid showed a potential 2028 close approach from the Earth, well within the orbit of the Moon, but with a large error margin allowing for a direct hit. Further data allowed a revision of the 2028 approach distance to , with no chance of collision. By that time, inaccurate reports of a potential impact had caused a media storm.[53]
 
-Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif
-
 Risk
 
-Toutatis.jpg is a potentially hazardous object that has passed within 2.3 lunar distances]]
+is a potentially hazardous object that has passed within 2.3 lunar distances]]
 
 From the late 1990s, a typical frame of reference in searches for NEOs has been the scientific concept of risk. The risk that any near-Earth object poses is viewed having regard to both the culture and the technology of human society. Through history, humans have associated NEOs with changing risks, based on religious, philosophical or scientific views, as well as humanity's technological or economical capability to deal with such risks.[54] Thus, NEOs have been seen as omens of natural disasters or wars; harmless spectacles in an unchanging universe; the source of era-changing cataclysms[55] or potentially poisonous fumes (during Earth's passage through the tail of Halley's Comet in 1910);[56] and finally as a possible cause of a crater-forming impact that could even cause extinction of humans and other life on Earth.[57]
 
@@ -92,7 +88,7 @@ NASA maintains an automated system to evaluate the threat from known NEOs over t
 
 In March 2002, became the first asteroid with a positive rating on the Torino Scale, with about a 1 in 9,300 chance of an impact in 2049.[76] Additional observations reduced the estimated risk to zero, and the asteroid was removed from the Sentry Risk Table in April 2002.[77] It is now known that in the next two centuries, will pass the Earth at a safe closest distance (perigee) of on August 31, 2080.[78]
 
-1950_DA_(color).png Asteroid was lost after its 1950 discovery, since its observations over just 17 days were insufficient to determine its orbit; it was rediscovered on December 31, 2000. It has a diameter of about a kilometer (0.6 miles). It was also observed by radar during its close approach in 2001, allowing much more precise orbit calculations. Although this asteroid will not strike for at least 800 years and thus has no Torino scale rating, it was added to the Sentry list in April 2002 because it was the first object with a Palermo scale value greater than zero.[79][80] The then-calculated 1 in 300 maximum chance of impact and +0.17 Palermo scale value was roughly 50% greater than the background risk of impact by all similarly large objects until 2880.[81] Uncertainties in the orbit calculations were further reduced using radar observations in 2012, and this decreased the odds of an impact.[82] Taking all radar and optical observations until 2015 into account, the probability of impact is, , assessed at 1 in 8,300.[83] The corresponding Palermo scale value of −1.42 is still the highest for all objects on the Sentry List Table.[84] , only one other object () has a Palermo scale value above −2 for a single impact date.[85]
+Asteroid was lost after its 1950 discovery, since its observations over just 17 days were insufficient to determine its orbit; it was rediscovered on December 31, 2000. It has a diameter of about a kilometer (0.6 miles). It was also observed by radar during its close approach in 2001, allowing much more precise orbit calculations. Although this asteroid will not strike for at least 800 years and thus has no Torino scale rating, it was added to the Sentry list in April 2002 because it was the first object with a Palermo scale value greater than zero.[79][80] The then-calculated 1 in 300 maximum chance of impact and +0.17 Palermo scale value was roughly 50% greater than the background risk of impact by all similarly large objects until 2880.[81] Uncertainties in the orbit calculations were further reduced using radar observations in 2012, and this decreased the odds of an impact.[82] Taking all radar and optical observations until 2015 into account, the probability of impact is, , assessed at 1 in 8,300.[83] The corresponding Palermo scale value of −1.42 is still the highest for all objects on the Sentry List Table.[84] , only one other object () has a Palermo scale value above −2 for a single impact date.[85]
 
 On December 24, 2004, asteroid 99942 Apophis (at the time known by its provisional designation ) was assigned a 4 on the Torino scale, the highest rating ever given, as there was a 2.7% chance of Earth impact on April 13, 2029. By December 28, 2004, additional observations had produced a smaller uncertainty zone which no longer included the Earth during the 2029 approach. The 2029 risk of impact consequently dropped to zero, but later potential impact dates were still rated 1 on the Torino scale. The 2036 risk was lowered to a Torino rating of 0 in August 2006. , calculations show Apophis has no chance of impacting Earth before 2060.[86]
 
@@ -102,7 +98,7 @@ In February 2006, has been assigned a Torino Scale rating of 2 due to a close en
 
 Projects to minimize the threat
 
-PIA22419-Neowise-1stFourYearsDataFromDec2013-20180420.gif The first astronomical program dedicated to the discovery of near-Earth asteroids was the Palomar Planet-Crossing Asteroid Survey, started in 1973 by astronomers Eugene Shoemaker and Eleanor Helin.[91] The link to impact hazard, the need for dedicated survey telescopes and options to head off an eventual impact were first discussed at a 1981 interdisciplinary conference in Snowmass, Colorado.[92] Plans for a more comprehensive survey, named the Spaceguard Survey, were developed by NASA from 1992, under a mandate from the United States Congress.[93][94] To promote the survey on an international level, the International Astronomical Union (IAU) organised a workshop at Vulcano, Italy in 1995,[95] and set up the Spaceguard Foundation also in Italy a year later.[96] In 1998, the United States Congress gave NASA a mandate to detect 90% of near-earth asteroids over diameter (that threaten global devastation) by 2008.[97][98]
+The first astronomical program dedicated to the discovery of near-Earth asteroids was the Palomar Planet-Crossing Asteroid Survey, started in 1973 by astronomers Eugene Shoemaker and Eleanor Helin.[91] The link to impact hazard, the need for dedicated survey telescopes and options to head off an eventual impact were first discussed at a 1981 interdisciplinary conference in Snowmass, Colorado.[92] Plans for a more comprehensive survey, named the Spaceguard Survey, were developed by NASA from 1992, under a mandate from the United States Congress.[93][94] To promote the survey on an international level, the International Astronomical Union (IAU) organised a workshop at Vulcano, Italy in 1995,[95] and set up the Spaceguard Foundation also in Italy a year later.[96] In 1998, the United States Congress gave NASA a mandate to detect 90% of near-earth asteroids over diameter (that threaten global devastation) by 2008.[97][98]
 
 Several surveys have undertaken "Spaceguard" activities (an umbrella term), including Lincoln Near-Earth Asteroid Research (LINEAR), Spacewatch, Near-Earth Asteroid Tracking (NEAT), Lowell Observatory Near-Earth-Object Search (LONEOS), Catalina Sky Survey (CSS), Campo Imperatore Near-Earth Object Survey (CINEOS), Japanese Spaceguard Association, Asiago-DLR Asteroid Survey (ADAS) and Near-Earth Object WISE (NEOWISE). As a result, the ratio of the known and the estimated total number of near-Earth asteroids larger than 1 km in diameter rose from about 20% in 1998 to 65% in 2004,[99] 80% in 2006,[100] and 93% in 2011. The original Spaceguard goal has thus been met, only three years late.[101][102] , 893 NEAs larger than 1 km have been discovered,[103] or 97% of an estimated total of about 920.[104]
 
@@ -117,7 +113,7 @@ Scientists involved in NEO research have also considered options for actively av
 
 Number and classification
 
-Known_NEAs.png Near-Earth objects are classified as meteoroids, asteroids, or comets depending on size and composition. Asteroids can also be members of an asteroid family, and comets create meteoroid streams that can generate meteor showers.
+Near-Earth objects are classified as meteoroids, asteroids, or comets depending on size and composition. Asteroids can also be members of an asteroid family, and comets create meteoroid streams that can generate meteor showers.
 
 , according to statistics maintained by CNEOS, 19,470 NEOs have been discovered. Only 107 (0.55%) of them are comets, whilst 19,363 (99.45%) are asteroids. There are 1,955 NEOs that are classified as potentially hazardous asteroids (PHAs).[114]
 
@@ -137,7 +133,7 @@ Evidencing this bias, over half (53%) of the discoveries of Near Earth objects w
 
 Near-Earth asteroids
 
-ESO-Asteroid_Toutatis-phot-28c-04-normal.jpg]]
+]]
 
 These are objects in a near-Earth orbit without the tail or coma of a comet. , 19,363 NEAR-EARTH ASTEROIDS are known, only 1,955 of which are PHAs.[130]
 
@@ -149,8 +145,6 @@ Many asteroids have natural satellites (minor-planet moons). , 66 NEAs were know
 
 Size distribution
 
-NEO_by_size.png
-
 While a small fraction of these asteroids has accurate direct diameter measurements, from radar observations, from images of the asteroid surface, or from stellar occultations, the size of the vast majority of near Earth asteroids can only be estimated on the basis of their brightness and a representative asteroid albedo or surface reflectivity, which is commonly assumed to be 14%.[142] Such indirect size estimates are uncertain by a factor of 2 for individual asteroids, since asteroid albedos can range at least as low as 0.05 and as high as 0.3. This makes their volume uncertain by a factor of 8, and their mass by even more since their density also has a significant uncertainty. Using this method, an absolute magnitude of 17.75 roughly corresponds to a diameter of [143] and an absolute magnitude of 22.0 corresponds to a diameter of .[144] Diameters of intermediate precision, better than from an assumed albedo but not nearly as precise as direct measurements, can be obtained from the combination of reflected light and thermal infrared emission, using a thermal model of the asteroid. In May 2016, the precision of such asteroid diameter estimates arising from the Wide-field Infrared Survey Explorer and NEOWISE missions was questioned by technologist Nathan Myhrvold,[145][146][147] Although the early original criticism did not pass peer review[148][149] and faced criticism for its methodology itself,[150] a more recent peer-reviewed study was subsequently published.[151][152]
 
 As of January 4, 2019 and mostly using the crude estimate from an absolute magnitude, 897 NEAs listed by CNEOS, including 156 PHAs, measure at least 1 km in diameter, and 8,452 known NEAs are larger than 140 m in diameter.[153] The smallest known near-Earth asteroid is with an absolute magnitude of 33.2,[154] corresponding to a diameter of about .[155] The largest such object is 1036 Ganymed,[156] with an absolute magnitude of 9.45 and a diameter of about .[157]
@@ -161,7 +155,7 @@ The number of asteroids brighter than 25}}, which corresponds to about in diamet
 
 Orbital classification
 
-Neas.svg Near-Earth asteroids are divided into groups based on their semi-major axis (a), perihelion distance (q), and aphelion distance (Q):[168][169]
+Near-Earth asteroids are divided into groups based on their semi-major axis (a), perihelion distance (q), and aphelion distance (Q):[168][169]
 
 -   The _Atiras_ or _Apoheles_ have orbits strictly inside Earth's orbit: an Atira asteroid's aphelion distance (Q) is smaller than Earth's perihelion distance (0.983 AU). That is, , which implies that the asteroid's semi-major axis is also less than 0.983 AU.[170]
 -   The _Atens_ have a semi-major axis of less than 1 AU and cross Earth's orbit. Mathematically, and .
@@ -176,8 +170,6 @@ Atiras and Amors do not cross the Earth's orbit and are not immediate impact thr
 
 Co-orbital asteroids
 
-Lagrange_Horseshoe_Orbit.jpg
-
 NEAs on a co-orbital configuration have the same orbital period as the Earth. All co-orbital asteroids have special orbits that are relatively stable and, paradoxically, can prevent them from getting close to Earth:
 
 -   _Trojans_: Near the orbit of a planet, there are five gravitational equilibrium points, the Lagrangian points, in which an asteroid would orbit the Sun in fixed formation with the planet. Two of these, 60 degrees ahead and behind the planet along its orbit (designated L4 and L5 respectively) are stable; that is, an asteroid near these points would stay there for millions of years even if perturbed by other planets and non-gravitational forces. , Earth's only confirmed Trojan is , circling Earth's L4 point.[176]
@@ -191,8 +183,6 @@ In 1961, the IAU defined meteoroids as a class of solid interplanetary objects d
 
 Near-Earth comets
 
-Halley's_Comet_-_May_29_1910.jpg
-
 NEAR-EARTH COMETS (NECs) are objects in a near-Earth orbit with a tail or coma. Comet nuclei are typically less dense than asteroids but they pass Earth at higher relative speeds, thus the impact energy of comet nucleus is slightly larger than that of a similar-sized asteroid.[193] NECs may pose an additional hazard due to fragmentation: the meteoroid streams which produce meteor showers may include large inactive fragments, effectively NEAs.[194] Although no impact of a comet in Earth's history has been conclusively confirmed, the Tunguska event may have been caused by a fragment of Comet Encke.[195]
 
 Comets are commonly divided between short-period and long-period comets. Short-period comets, with an orbital period of less than 200 years, originated in the Kuiper belt, beyond the orbit of Neptune; while long-period comets originate in the Oort Cloud, in the outer reaches of the Solar System.[196] The orbital period distinction is of importance in the evaluation of the risk from near-Earth comets because short-period NECs are likely to have been observed during multiple apparitions and thus their orbits can be determined with some precision, while long-period NECs can be assumed to have been seen for the first and last time when they appeared during the Age of Science, thus their approaches cannot be predicted well in advance.[197] Since the threat from long-period NECs is estimated to be at most 1% of the threat from NEAs, and long-period comets are very faint and thus difficult to detect at large distances from the Sun, Spaceguard efforts consistently focused on asteroids and short-period comets.[198][199] CNEOS even restricts its definition of NECs to short-period comets[200]—, 107 such objects have been discovered.[201]
@@ -203,7 +193,7 @@ Comet 109P/Swift–Tuttle, which is also the source of the Perseid meteor shower
 
 Artificial near-Earth objects
 
-J002e3_animated.gif Defunct space probes and final stages of rockets can end up in near-Earth orbits around the Sun, and be re-discovered by NEO surveys when they return to Earth's vicinity.
+Defunct space probes and final stages of rockets can end up in near-Earth orbits around the Sun, and be re-discovered by NEO surveys when they return to Earth's vicinity.
 
 In September 2002, astronomers found an object designated J002E3. The object was on a temporary satellite orbit around Earth, leaving for a solar orbit in June 2003. Calculations showed that it was also on a solar orbit before 2002, but was close to Earth in 1971. J002E3 was identified as the third stage of the Saturn V rocket that carried Apollo 12 to the Moon.[210][211] In 2006, two more apparent temporary satellites were discovered which were suspected of being artificial.[212] One of them was eventually confirmed as an asteroid and classified as the temporary satellite .[213] The other, 6Q0B44E, was confirmed as an artificial object, but its identity is unknown.[214] Another temporary satellite was discovered in 2013, and was designated as a suspected asteroid. It was later found to be an artificial object of unknown origin. is no longer listed as an asteroid by the Minor Planet Center.[215][216]
 
@@ -252,7 +242,7 @@ Some NEOs are of special interest because they can be physically explored with l
 
 Missions to NEAs
 
-PIA02475_Eros'_Bland_Butterscotch_Colors.jpg BennuAsteroid.jpg, target of NASA's _OSIRIS-REx_ probe]]
+, target of NASA's _OSIRIS-REx_ probe]]
 
 The IAU held a minor planets workshop in Tucson, Arizona, in March 1971. At that point, launching a spacecraft to asteroids was considered premature; the workshop only inspired the first astronomical survey specifically aiming for NEAs.[253] Missions to asteroids were considered again during a workshop at the University of Chicago held by NASA's Office of Space Science in January 1978. Of all of the near-Earth asteroids (NEA) that had been discovered by mid-1977, it was estimated that spacecraft could rendezvous with and return from only about 1 in 10 using less propulsive energy than is necessary to reach Mars. It was recognised that due to the low surface gravity of all NEAs, moving around on the surface of a NEA would cost very little energy, and thus space probes could gather multiple samples.[254] Overall, it was estimated that about one percent of all NEAs might provide opportunities for human-crewed missions, or no more than about ten NEAs known at the time. A five-fold increase in the NEA discovery rate was deemed necessary to make a manned mission within ten years worthwhile.[255]
 
@@ -263,8 +253,6 @@ The Apollo asteroid 162173 Ryugu is the target of JAXA's _Hayabusa 2_ mission. T
 In April 2012, the company Planetary Resources announced its plans to mine asteroids commercially. In a first phase, the company reviewed data and selected potential targets among NEAs. In a second phase, space probes would be sent to the selected NEAs; mining spacecraft would be sent in a third phase.[265] Planetary Resources launched two testbed satellites in April 2015[266] and January 2018,[267] and the first prospecting satellite for the second phase is planned for a 2020 launch.[268]
 
 Missions to NECs
-
-Comet_67P_on_19_September_2014_NavCam_mosaic.jpg
 
 The first near-Earth comet visited by a space probe was 21P/Giacobini–Zinner in 1985, when the NASA/ESA probe _International Cometary Explorer_ (_ICE_) passed through its coma. In March 1986, ICE, along with Soviet probes _Vega 1_ and _Vega 2_, ISAS probes _Sakigake_ and _Suisei_ and ESA probe _Giotto_ flew by the nucleus of Halley's Comet. In 1992, _Giotto_ also visited another NEC, 26P/Grigg–Skjellerup.[269]
 

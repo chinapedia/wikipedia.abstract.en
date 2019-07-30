@@ -23,11 +23,11 @@ Discovery
 
 Knowledge of some Atlantic islands, such as Madeira, existed before their formal discovery and settlement, as the islands were shown on maps as early as 1339.[12]
 
-Funchal_(_Portugal_)13.jpg]] In 1418, two captains under service to Prince Henry the Navigator, João Gonçalves Zarco and Tristão Vaz Teixeira, were driven off course by a storm to an island they named Porto Santo (English: _holy harbour_) in gratitude for divine deliverance from a shipwreck. The following year, an organised expedition, under the captaincy of Zarco, Vaz Teixeira, and Bartolomeu Perestrello, traveled to the island to claim it on behalf of the Portuguese Crown. Subsequently, the new settlers observed "a heavy black cloud suspended to the southwest."[13] Their investigation revealed it to be the larger island they called Madeira.[14]
+]] In 1418, two captains under service to Prince Henry the Navigator, João Gonçalves Zarco and Tristão Vaz Teixeira, were driven off course by a storm to an island they named Porto Santo (English: _holy harbour_) in gratitude for divine deliverance from a shipwreck. The following year, an organised expedition, under the captaincy of Zarco, Vaz Teixeira, and Bartolomeu Perestrello, traveled to the island to claim it on behalf of the Portuguese Crown. Subsequently, the new settlers observed "a heavy black cloud suspended to the southwest."[13] Their investigation revealed it to be the larger island they called Madeira.[14]
 
 Settlement
 
-Sé_do_Funchal.jpg with its tower of 15th-century Gothic style in the background]] The first Portuguese settlers began colonizing the islands around 1420 or 1425.[15]
+with its tower of 15th-century Gothic style in the background]] The first Portuguese settlers began colonizing the islands around 1420 or 1425.[15]
 
 Grain production began to fall and the ensuing crisis forced Henry the Navigator to order other commercial crops to be planted so that the islands could be profitable. These specialised plants, and their associated industrial technology, created one of the major revolutions on the islands and fuelled Portuguese industry. Following the introduction of the first water-driven sugar mill on Madeira, sugar production increased to over 6,000 _arrobas_ (an _arroba_ was equal to 11 to 12 kilograms) by 1455,[16] using advisers from Sicily and financed by Genoese capital. (Genoa acted as an integral part of the island economy until the 17th century.) The accessibility of Madeira attracted Genoese and Flemish traders, who were keen to bypass Venetian monopolies. Sugarcane production was the primary engine of the island's economy, increasing the demand for labour. African slaves were used during portions of the island's history to cultivate sugar cane, and the proportion of imported slaves reached 10% of the total population of Madeira by the 16th century.[17]
 
@@ -55,7 +55,7 @@ On 1 July 1976, following the democratic revolution of 1974, Portugal granted po
 
 On 20 February 2010 at least 42 people died[31] and 100 were injured[32] by the 2010 Madeira floods and mudslides that affected the Island.
 
-Madeira_amo_2012201_lrg.jpg Drought conditions, coupled with hot and windy weather in summer, have caused numerous wildfires in recent years. The largest of the fires in August 2010 burned through 95 percent of the Funchal Ecological Park, a 1,000-hectare preserve set aside to restore native vegetation to the island.[33][34]
+Drought conditions, coupled with hot and windy weather in summer, have caused numerous wildfires in recent years. The largest of the fires in August 2010 burned through 95 percent of the Funchal Ecological Park, a 1,000-hectare preserve set aside to restore native vegetation to the island.[33][34]
 
 In July 2012 Madeira was suffering again from severe drought. Wildfires broke out on 18 July, in the midst of temperatures up to 40 °C (more than 100 °F) and high winds. By 20 July, fires had spread to the nearby island of Porto Santo, and firefighters were sent from mainland Portugal to contain the multiple blazes.[35][36][37][38]
 
@@ -78,7 +78,7 @@ As of 2019, Madeira has been awarded 'Europe's Leading Island Destination' five 
 
 Geography
 
-Madeira_topographic_map-fr.svg)]] BicaDaCana2.jpg]] The archipelago of Madeira is located from the African coast and from the European continent (approximately a one-and-a-half hour flight from the Portuguese capital of Lisbon).[54] Madeira is on the same parallel as Bermuda a few time zones further west in the Atlantic. The two archipelagos are the only land in the Atlantic on the 32nd parallel north. Madeira is found in the extreme south of the Tore-Madeira Ridge, a bathymetric structure of great dimensions oriented along a north-northeast to south-southwest axis that extends for . This submarine structure consists of long geomorphological relief that extends from the abyssal plain to 3500 metres; its highest submersed point is at a depth of about 150 metres (around latitude 36ºN). The origins of the Tore-Madeira Ridge are not clearly established, but may have resulted from a morphological _buckling_ of the lithosphere.[55][56]
+)]] ]] The archipelago of Madeira is located from the African coast and from the European continent (approximately a one-and-a-half hour flight from the Portuguese capital of Lisbon).[54] Madeira is on the same parallel as Bermuda a few time zones further west in the Atlantic. The two archipelagos are the only land in the Atlantic on the 32nd parallel north. Madeira is found in the extreme south of the Tore-Madeira Ridge, a bathymetric structure of great dimensions oriented along a north-northeast to south-southwest axis that extends for . This submarine structure consists of long geomorphological relief that extends from the abyssal plain to 3500 metres; its highest submersed point is at a depth of about 150 metres (around latitude 36ºN). The origins of the Tore-Madeira Ridge are not clearly established, but may have resulted from a morphological _buckling_ of the lithosphere.[55][56]
 
 Islands and islets
 
@@ -89,7 +89,7 @@ Islands and islets
 
 Madeira Island
 
-Madeira's_Laurissilva_Forest.jpg (_laurissilva_) survives intact on the steep northern slopes of the island, but in the south, where terrain is gentler, the terracotta colour of towns and the light green colour of agriculture are more dominant]] The island of Madeira is at the top of a massive shield volcano that rises about from the floor of the Atlantic Ocean, on the Tore underwater mountain range. The volcano formed atop an east-west rift[57][58] in the oceanic crust along the African Plate, beginning during the Miocene epoch over 5 million years ago, continuing into the Pleistocene until about 700,000 years ago.[59] This was followed by extensive erosion, producing two large amphitheatres open to south in the central part of the island. Volcanic activity later resumed, producing scoria cones and lava flows atop the older eroded shield. The most recent volcanic eruptions were on the west-central part of the island only 6,500 years ago, creating more cinder cones and lava flows.[60]
+(_laurissilva_) survives intact on the steep northern slopes of the island, but in the south, where terrain is gentler, the terracotta colour of towns and the light green colour of agriculture are more dominant]] The island of Madeira is at the top of a massive shield volcano that rises about from the floor of the Atlantic Ocean, on the Tore underwater mountain range. The volcano formed atop an east-west rift[57][58] in the oceanic crust along the African Plate, beginning during the Miocene epoch over 5 million years ago, continuing into the Pleistocene until about 700,000 years ago.[59] This was followed by extensive erosion, producing two large amphitheatres open to south in the central part of the island. Volcanic activity later resumed, producing scoria cones and lava flows atop the older eroded shield. The most recent volcanic eruptions were on the west-central part of the island only 6,500 years ago, creating more cinder cones and lava flows.[60]
 
 It is the largest island of the group with an area of , a length of (from Ponte de São Lourenço to Ponte do Pargo), while approximately at its widest point (from Ponte da Cruz to Ponte São Jorge), with a coastline of . It has a mountain ridge that extends along the centre of the island, reaching at its highest point (Pico Ruivo), while much lower (below 200 metres) along its eastern extent. The primitive volcanic foci responsible for the central mountainous area, consisted of the peaks: Ruivo (1,862 m), Torres (1,851 m), Arieiro (1,818 m), Cidrão (1,802 m), Cedro (1,759 m), Casado (1,725 m), Grande (1,657 m), Ferreiro (1,582 m). At the end of this eruptive phase, an island circled by reefs was formed, its marine vestiges are evident in a calcareous layer in the area of Lameiros, in São Vicente (which was later explored for calcium oxide production). Sea cliffs, such as Cabo Girão, valleys and ravines extend from this central spine, making the interior generally inaccessible.[61] Daily life is concentrated in the many villages at the mouths of the ravines, through which the heavy rains of autumn and winter usually travel to the sea.[62]
 
@@ -107,12 +107,12 @@ Madeira island is home to several endemic plant and animal species. In the south
 
 Madeiran wall lizard
 
-Teira_dugesii_k7.jpg, Madeira]] The Madeiran wall lizard (_Lacerta dugesii_) is a species of lizard in the Lacertidae family. The species is endemic to the Island where it is very common, and is the only small lizard, ranging from sea coasts to altitudes of . It is usually found in rocky places or among scrub and may climb into trees. It is also found in gardens and on the walls of buildings. It feeds on small invertebrates such as ants and also eats some vegetable matter. The tail is easily shed and the stump regenerates slowly. The colouring is variable and tends to match the colour of the animal's surroundings, being some shade of brown or grey with occasionally a greenish tinge. Most animals are finely flecked with darker markings. The underparts are white or cream, sometimes with dark spots, with some males having orange or red underparts and blue throats, but these bright colours may fade if the animal is disturbed.[67] The Madeiran wall lizard grows to a snout-to-vent length of about with a tail about 1.7 times the length of its body. Females lay two to three clutches of eggs in a year with the juveniles being about when they hatch.[68]
+, Madeira]] The Madeiran wall lizard (_Lacerta dugesii_) is a species of lizard in the Lacertidae family. The species is endemic to the Island where it is very common, and is the only small lizard, ranging from sea coasts to altitudes of . It is usually found in rocky places or among scrub and may climb into trees. It is also found in gardens and on the walls of buildings. It feeds on small invertebrates such as ants and also eats some vegetable matter. The tail is easily shed and the stump regenerates slowly. The colouring is variable and tends to match the colour of the animal's surroundings, being some shade of brown or grey with occasionally a greenish tinge. Most animals are finely flecked with darker markings. The underparts are white or cream, sometimes with dark spots, with some males having orange or red underparts and blue throats, but these bright colours may fade if the animal is disturbed.[67] The Madeiran wall lizard grows to a snout-to-vent length of about with a tail about 1.7 times the length of its body. Females lay two to three clutches of eggs in a year with the juveniles being about when they hatch.[68]
 
 
 Levadas
 
-Levada.jpg]] The island of Madeira is wet in the northwest, but dry in the southeast. In the 16th century the Portuguese started building levadas or aqueducts to carry water to the agricultural regions in the south. Madeira is very mountainous, and building the levadas was difficult and often convicts or slaves were used.[69] Many are cut into the sides of mountains, and it was also necessary to dig of tunnels, some of which are still accessible.
+]] The island of Madeira is wet in the northwest, but dry in the southeast. In the 16th century the Portuguese started building levadas or aqueducts to carry water to the agricultural regions in the south. Madeira is very mountainous, and building the levadas was difficult and often convicts or slaves were used.[69] Many are cut into the sides of mountains, and it was also necessary to dig of tunnels, some of which are still accessible.
 
 Today the levadas not only supply water to the southern parts of the island, but provide hydro-electric power.[70] There are over of levadas and they provide a network of walking paths. Some provide easy and relaxing walks through the countryside, but others are narrow, crumbling ledges where a slip could result in serious injury or death. Since 2011, some improvements have been made to these pathways, after the 2010 Madeira floods and mudslides[71] on the Island, to clean and reconstruct some critical parts of the island, including the levadas. Such improvements involved the continuous maintenance of the water streams, cementing the trails, and positioning safety fences on dangerous paths.[72]
 
@@ -121,7 +121,7 @@ Two of the most popular levadas to hike are the _Levada do Caldeirão Verde_ and
 
 Governance
 
-EU_OCT_and_OMR_map_en.png for which Madeira is included]] Administratively, Madeira (with a population of 267,302 inhabitants in 2011[73]) and covering an area of is organised into eleven municipalities:[74]
+for which Madeira is included]] Administratively, Madeira (with a population of 267,302 inhabitants in 2011[73]) and covering an area of is organised into eleven municipalities:[74]
 
 +-----------------+------------+------+-----------------+----------+
 | Municipality    | Population | Area | Main settlement | Parishes |
@@ -152,8 +152,6 @@ EU_OCT_and_OMR_map_en.png for which Madeira is included]] Administratively, Made
 
 Funchal
 
-Madeira_27_2014.jpg
-
 Funchal is the capital and principal city of the Autonomous Region of Madeira, located along the southern coast of the island of Madeira. It is a modern city, located within a natural geological "amphitheatre" composed of vulcanological structure and fluvial hydrological forces. Beginning at the harbour (Porto de Funchal), the neighbourhoods and streets rise almost , along gentle slopes that helped to provide a natural shelter to the early settlers.
 
 
@@ -169,7 +167,7 @@ About 247,000 (96%) of the population are Catholic and Funchal is the location o
 
 Diaspora
 
-Madeirans migrated to the United States, Venezuela, Brazil, British Guiana, St. Vincent and Trinidad.[81][82] Madeiran immigrants in North America mostly clustered in the New England and mid-Atlantic states, Toronto, Northern California, and Hawaii. The city of New Bedford is especially rich in Madeirans, hosting the Museum of Madeira Heritage, as well as the annual Madeiran and Luso-American celebration, the Feast of the Blessed Sacrament, the world's largest celebration of Madeiran heritage, regularly drawing crowds of tens of thousands to the city's Madeira Field. Portuguese_immigrant_family_in_Hawaii_during_the_19th_century.jpg immigrants in Hawaii were Madeiran]] In 1846, when a famine struck Madeira over 6,000 of the inhabitants migrated to British Guiana. In 1891 they numbered 4.3% of the population.[83] In 1902 in Honolulu, Hawaii there were 5,000 Portuguese people, mostly Madeirans. In 1910 this grew to 21,000.[84]
+Madeirans migrated to the United States, Venezuela, Brazil, British Guiana, St. Vincent and Trinidad.[81][82] Madeiran immigrants in North America mostly clustered in the New England and mid-Atlantic states, Toronto, Northern California, and Hawaii. The city of New Bedford is especially rich in Madeirans, hosting the Museum of Madeira Heritage, as well as the annual Madeiran and Luso-American celebration, the Feast of the Blessed Sacrament, the world's largest celebration of Madeiran heritage, regularly drawing crowds of tens of thousands to the city's Madeira Field. immigrants in Hawaii were Madeiran]] In 1846, when a famine struck Madeira over 6,000 of the inhabitants migrated to British Guiana. In 1891 they numbered 4.3% of the population.[83] In 1902 in Honolulu, Hawaii there were 5,000 Portuguese people, mostly Madeirans. In 1910 this grew to 21,000.[84]
 
 1849 saw an emigration of Protestant religious exiles from Madeira to the United States, by way of Trinidad and other locations in the West Indies. Most of them settled in Illinois[85] with financial and physical aid of the American Protestant Society, headquartered in New York City. In the late 1830s the Reverend Robert Reid Kalley, from Scotland, a Presbyterian minister as well as a physician, made a stop at Funchal, Madeira on his way to a mission in China, with his wife, so that she could recover from an illness. The Rev. Kalley and his wife stayed on Madeira where he began preaching the Protestant gospel and converting islanders from Catholicism.[86] Eventually, the Rev. Kalley was arrested for his religious conversion activities and imprisoned. Another missionary from Scotland, William Hepburn Hewitson, took on Protestant ministerial activities in Madeira. By 1846, about 1,000 Protestant Madeirenses, who were discriminated against and the subjects of mob violence because of their religious conversions, chose to immigrate to Trinidad and other locations in the West Indies in answer for a call for sugar plantation workers.[87] The Madeirenses exiles did not fare well in the West Indies. The tropical climate was unfamiliar and they found themselves in serious economic difficulties. By 1848, the American Protestant Society raised money and sent the Rev. Manuel J. Gonsalves, a Baptist minister and a naturalized U.S. citizen from Madeira, to work with the Rev. Arsenio da Silva, who had emigrated with the exiles from Madeira, to arrange to resettle those who wanted to come to the United States. The Rev. da Silva died in early 1849. Later in 1849, the Rev. Gonsalves was then charged with escorting the exiles from Trinidad to be settled in Sangamon and Morgan counties in Illinois on land purchased with funds raised by the American Protestant Society. Accounts state that anywhere from 700 to 1,000 exiles came to the United States at this time.[88][89]
 
@@ -186,7 +184,7 @@ Economy
 
 Madeira International Business Center
 
-Canical.jpg on the left and Madeira Free Trade Zone on the right]]
+on the left and Madeira Free Trade Zone on the right]]
 
 The setting-up of a free trade zone, also known as the Madeira International Business Center (MIBC) has led to the installation, under more favorable conditions, of infrastructure, production shops and essential services for small and medium-sized industrial enterprises. The International Business Centre of Madeira comprises presently three sectors of investment: the Industrial Free Trade Zone, the International Shipping Register – MAR and the International Services. Madeira's tax regime has been approved by the European Commission as legal State Aid and its deadline has recently been extended by the E.C. until the end of 2027. The International Business Center of Madeira, also known as Madeira Free Trade Zone, was created formally in the 1980s as a tool of regional economic policy. It consists of a set of incentives, mainly of a tax nature, granted with the objective of attracting inward investment into Madeira, recognized as the most efficient mechanism to modernize, diversify and internationalize the regional economy. The decision to create the International Business Center of Madeira was the result of a thorough process of analysis and study. Other small island economies, with similar geographical and economic restraints, had successfully implemented projects of attraction of foreign direct investment based on international services activities, becoming therefore examples of successful economic policies.
 
@@ -198,7 +196,7 @@ Madeira has been a significant recipient of European Union funding, totaling up 
 
 Tourism
 
-Madeira_Beach_(163610932).jpg of Calheta: replacing the dark rock/sand of the volcanic island with beach sand.]]
+of Calheta: replacing the dark rock/sand of the volcanic island with beach sand.]]
 
 Tourism is an important sector in the region's economy, contributing 20%[95] to the region's GDP, providing support throughout the year for commercial, transport and other activities and constituting a significant market for local products. The share in Gross Value Added of hotels and restaurants (9%) also highlights this phenomenon. The island of Porto Santo, with its long beach and its climate, is entirely devoted to tourism.
 
@@ -216,7 +214,7 @@ Electricity on Madeira is provided solely through EEM (Empresa de Electricidade 
 
 Transport
 
-Večerní_Funchal_z_přístavního_mola.JPG makes daily trips between Madeira and Porto Santo.]] The Islands have two airports, Cristiano Ronaldo International Airport and Porto Santo Airport, on the islands of Madeira and Porto Santo respectively. From Cristiano Ronaldo International Airport the most frequent flights are to Lisbon. There are also direct flights to over 30 other airports in Europe and nearby islands.[99]
+makes daily trips between Madeira and Porto Santo.]] The Islands have two airports, Cristiano Ronaldo International Airport and Porto Santo Airport, on the islands of Madeira and Porto Santo respectively. From Cristiano Ronaldo International Airport the most frequent flights are to Lisbon. There are also direct flights to over 30 other airports in Europe and nearby islands.[99]
 
 Transport between the two main islands is by plane, or ferries from the Porto Santo Line,[100] the latter also carrying vehicles. Visiting the interior of the islands is now easy thanks to construction of the _Vias Rápidas_, major roads that cross the island. Modern roads reach all points of interest on the islands.
 
@@ -227,13 +225,13 @@ Culture
 
 Music
 
-Madeirenses.jpg Folklore music in Madeira is widespread and mainly uses local musical instruments such as the machete, rajao, brinquinho and cavaquinho, which are used in traditional folkloric dances like the _bailinho da Madeira_.
+Folklore music in Madeira is widespread and mainly uses local musical instruments such as the machete, rajao, brinquinho and cavaquinho, which are used in traditional folkloric dances like the _bailinho da Madeira_.
 
 Emigrants from Madeira also influenced the creation of new musical instruments. In the 1880s, the ukulele was created, based on two small guitar-like instruments of Madeiran origin, the cavaquinho and the rajao. The ukulele was introduced to the Hawaiian Islands by Portuguese immigrants from Madeira and Cape Verde.[101] Three immigrants in particular, Madeiran cabinet makers Manuel Nunes, José do Espírito Santo, and Augusto Dias, are generally credited as the first ukulele makers.[102] Two weeks after they disembarked from the _SS Ravenscrag_ in late August 1879, the _Hawaiian Gazette_ reported that "Madeira Islanders recently arrived here, have been delighting the people with nightly street concerts."[103]
 
 Cuisine
 
-Patella_vulgata_Madeira_1.jpg'']] Because of the geographic situation of Madeira in the Atlantic Ocean, the island has an abundance of fish of various kinds. The species that are consumed the most are espada (black scabbardfish), blue fin tuna, white marlin, blue marlin, albacore, bigeye tuna, wahoo, spearfish, skipjack tuna and many others are found in the local dishes as they are found up and down the coast of Madeira.[104] Espada is often served with banana. Bacalhau is also popular, as it is in Portugal.
+'']] Because of the geographic situation of Madeira in the Atlantic Ocean, the island has an abundance of fish of various kinds. The species that are consumed the most are espada (black scabbardfish), blue fin tuna, white marlin, blue marlin, albacore, bigeye tuna, wahoo, spearfish, skipjack tuna and many others are found in the local dishes as they are found up and down the coast of Madeira.[104] Espada is often served with banana. Bacalhau is also popular, as it is in Portugal.
 
 There are many meat dishes on Madeira, one of the most popular being espetada.[105] Espetada is traditionally made of large chunks of beef rubbed in garlic, salt and bay leaf and marinated for 4 to 6 hours in Madeira wine, red wine vinegar and olive oil then skewered onto a bay laurel stick and left to grill over smouldering wood chips. These are so integral a part of traditional eating habits that a special iron stand is available with a T-shaped end, each branch of the "T" having a slot in the middle to hold a brochette (espeto in Portuguese); a small plate is then placed underneath to collect the juices. The brochettes are very long and have a V-shaped blade in order to pierce the meat more easily. It is usually accompanied with the local bread called bolo do caco.
 
@@ -249,7 +247,7 @@ The island of Madeira is famous for the quality of its cherimoya fruits.[106][10
 
 Beverages
 
-Vino_D_Oliveiras.JPG CORAL.jpg medals]] Madeira is a fortified wine, produced in the Madeira Islands; varieties may be sweet or dry. It has a history dating back to the Age of Exploration when Madeira was a standard port of call for ships heading to the New World or East Indies. To prevent the wine from spoiling, neutral grape spirits were added. However, wine producers of Madeira discovered, when an unsold shipment of wine returned to the islands after a round trip, that the flavour of the wine had been transformed by exposure to heat and movement. Today, Madeira is noted for its unique winemaking process that involves heating the wine and deliberately exposing the wine to some levels of oxidation.[109] Most countries limit the use of the term _Madeira_ to those wines that come from the Madeira Islands, to which the European Union grants Protected Designation of Origin (PDO) status.[110]
+medals]] Madeira is a fortified wine, produced in the Madeira Islands; varieties may be sweet or dry. It has a history dating back to the Age of Exploration when Madeira was a standard port of call for ships heading to the New World or East Indies. To prevent the wine from spoiling, neutral grape spirits were added. However, wine producers of Madeira discovered, when an unsold shipment of wine returned to the islands after a round trip, that the flavour of the wine had been transformed by exposure to heat and movement. Today, Madeira is noted for its unique winemaking process that involves heating the wine and deliberately exposing the wine to some levels of oxidation.[109] Most countries limit the use of the term _Madeira_ to those wines that come from the Madeira Islands, to which the European Union grants Protected Designation of Origin (PDO) status.[110]
 
 A local beer called Coral is produced by the Madeira Brewery, which dates from 1872. It has achieved 2 Monde Selection Grand Gold Medals, 24 Monde Selection Gold Medals and 2 Monde Selection Silver Medals.[111] Other alcoholic drinks are also popular in Madeira, such as the locally created Poncha, Niquita, Pé de Cabra, Aniz, as well as Portuguese drinks such as Macieira Brandy, Licor Beirão.
 
@@ -283,7 +281,7 @@ Portugal has issued postage stamps for Madeira during several periods, beginning
 
 Notable people
 
-Cristiano_Ronaldo_-_Croatia_vs._Portugal,_10th_June_2013.jpg, born in Madeira, was the 2008, 2013, 2014, 2016 and 2017 FIFA World Player of the Year]] Joe_berardo.jpg is a businessman, stock investor, speculator and art collector. He is also one of the wealthiest people in Portugal.]] The following people were either born or have lived part of their lives in Madeira:
+, born in Madeira, was the 2008, 2013, 2014, 2016 and 2017 FIFA World Player of the Year]] is a businessman, stock investor, speculator and art collector. He is also one of the wealthiest people in Portugal.]] The following people were either born or have lived part of their lives in Madeira:
 
 -   Charles I of Austria, last Emperor of Austria and last King of Hungary, deposed monarch, died in exile on Madeira in 1922
 -   António de Abreu, naval officer and navigator

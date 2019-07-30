@@ -7,7 +7,7 @@ There are fifteen possible rhyme schemes, but the most traditional and common ar
 
 Forms
 
-Henric_Piccardt_(Landry).jpg. Engraving by Pierre Landry from 1672 after a lost painting by Nicolaes Maes.
+. Engraving by Pierre Landry from 1672 after a lost painting by Nicolaes Maes.
 Under the portrait, a quatrain by Guy Patin.]]
 
 -   The _heroic stanza_ or _elegiac stanza_ (iambic pentameter, rhyming ABAB or AABB; from Thomas Gray's "Elegy Written in a Country Churchyard")

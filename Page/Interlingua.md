@@ -117,8 +117,6 @@ The book "Grammar of Interlingua" defines in §15 a "collateral orthography".[63
 
 Phonology
 
-Vocabulario_scientific_international.ogg
-
 Interlingua is primarily a written language, and the pronunciation is not entirely settled. The sounds in parentheses are not used by all speakers.
 
 +---------------------+----------+--------+----------+----------+---------+---------+-------+---------+
@@ -250,7 +248,7 @@ From an essay by Alexander Gode:
 
 Flags and symbols
 
-Flag_of_Interlingua.svg]] Interlingua2.png
+]]
 
 As with Esperanto, there have been proposals for a flag of Interlingua;[98] the proposal by Czech translator Karel Podrazil is recognized by multilingual sites.[99] It consists of a white four-pointed star extending to the edges of the flag and dividing it into an upper blue and lower red half. The star is symbolic of the four cardinal directions, and the two halves symbolize Romance and non-Romance speakers of Interlingua who understand each other.
 

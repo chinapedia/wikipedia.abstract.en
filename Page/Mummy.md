@@ -1,5 +1,3 @@
-Ramesses_II_mummy_in_profile_(colored_picture).jpg
-
 A MUMMY is a deceased human or an animal whose skin and organs have been preserved by either intentional or accidental exposure to chemicals, extreme cold, very low humidity, or lack of air, so that the recovered body does not decay further if kept in cool and dry conditions. Some authorities restrict the use of the term to bodies deliberately embalmed with chemicals, but the use of the word to cover accidentally desiccated bodies goes back to at least 1615 AD (See the section Etymology and meaning).
 
 Mummies of humans and animals have been found on every continent,[1] both as a result of natural preservation through unusual conditions, and as cultural artifacts. Over one million animal mummies have been found in Egypt, many of which are cats.[2] Many of the Egyptian animal mummies are sacred ibis, and radiocarbon dating suggests the Egyptian Ibis mummies that have been analyzed were from time frame that falls between approximately 450 and 250 BC.[3]
@@ -18,9 +16,7 @@ Wasps of the genus _Aleiodes_ are known as "mummy wasps" because they wrap their
 
 History of mummy studies
 
-Tuts_Tomb_Opened.JPG opens the innermost shrine of Tutankhamun's tomb]]
-
-US_Navy_110427-N-2531L-135_Tori_Randall,_Ph.D._prepares_a_550-year_old_Peruvian_child_mummy_for_a_CT_scan.jpg
+opens the innermost shrine of Tutankhamun's tomb]]
 
 While interest in the study of mummies dates as far back as Ptolemaic Greece, most structured scientific study began at the beginning of the 20th century. Prior to this, many rediscovered mummies were sold as curiosities or for use in pseudoscientific novelties such as mummia. The first modern scientific examinations of mummies began in 1901, conducted by professors at the English-language Government School of Medicine in Cairo, Egypt. The first X-ray of a mummy came in 1903, when professors Grafton Elliot Smith and Howard Carter used the only X-ray machine in Cairo at the time to examine the mummified body of Thutmose IV. British chemist Alfred Lucas applied chemical analyses to Egyptian mummies during this same period, which returned many results about the types of substances used in embalming. Lucas also made significant contributions to the analysis of Tutankhamun in 1922.
 
@@ -36,7 +32,7 @@ Mummies are typically divided into one of two distinct categories: anthropogenic
 
 Egyptian mummies
 
-Mummy_at_British_Museum.jpg Bemalte_Mumienbinde.JPG The earliest ancient Egyptian mummies were created naturally due to the environment in which they were buried. In the era prior to 3500 BC,[15][16] Egyptians buried the dead in pit graves, without regard to social status. Pit graves were often shallow. This characteristic allowed for the hot, dry sand of the desert to dehydrate the bodies, leading to natural mummification.[17]
+The earliest ancient Egyptian mummies were created naturally due to the environment in which they were buried. In the era prior to 3500 BC,[15][16] Egyptians buried the dead in pit graves, without regard to social status. Pit graves were often shallow. This characteristic allowed for the hot, dry sand of the desert to dehydrate the bodies, leading to natural mummification.[17]
 
 The natural preservation of the dead had a profound effect on ancient Egyptian religion. Deliberate mummification became an integral part of the rituals for the dead beginning as early as the 2nd dynasty (about 2800 BC).[18] New research of an 11-year study by University of York, Macquarie University and University of Oxford suggests mummification occurred 1,500 years earlier than first thought.[19] Egyptians saw the preservation of the body after death as an important step to living well in the afterlife. As Egypt gained more prosperity, burial practices became a status symbol for the wealthy as well. This cultural hierarchy lead to the creation of elaborate tombs, and more sophisticated methods of embalming.[20][21]
 
@@ -50,7 +46,7 @@ By utilizing current advancements in technology, scientists have been able to un
 
 Through various methods of study over many decades, modern Egyptologists now have an accurate understanding of how mummification was achieved in ancient Egypt. The first and most important step was to halt the process of decomposition, by removing the internal organs and washing out the body with a mix of spices and palm wine.[31] The only organ left behind was the heart, as tradition held the heart was the seat of thought and feeling and would therefore still be needed in the afterlife.[32] After cleansing, the body was then dried out with natron inside the empty body cavity as well as outside on the skin. The internal organs were also dried and either sealed in individual jars, or wrapped to be replaced within the body. This process typically took forty days.[33]
 
-Egyptian_Human_Mummy_-_Egyptian_Gallery_-_Indian_Museum_-_Kolkata_2014-02-14_3293.JPG This_wooden_mummy_label_was_inscribed_in_black_ink._The_original_cord_is_still_in_situ._Roman_Period._From_Hawara,_Fayum,_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg After dehydration, the mummy was wrapped in many layers of linen cloth. Within the layers, Egyptian priests placed small amulets to guard the decedent from evil.[34] Once the mummy was completely wrapped, it was coated in a resin in order to keep the threat of moist air away. Resin was also applied to the coffin in order to seal it. The mummy was then sealed within its tomb, alongside the worldly goods that were believed to help aid it in the afterlife.[35]
+After dehydration, the mummy was wrapped in many layers of linen cloth. Within the layers, Egyptian priests placed small amulets to guard the decedent from evil.[34] Once the mummy was completely wrapped, it was coated in a resin in order to keep the threat of moist air away. Resin was also applied to the coffin in order to seal it. The mummy was then sealed within its tomb, alongside the worldly goods that were believed to help aid it in the afterlife.[35]
 
 Aspergillus niger has been found in the mummies of ancient Egyptian tombs and can be inhaled when they are disturbed.[36]
 
@@ -60,7 +56,7 @@ Mummification is one of the defining customs in ancient Egyptian society for peo
 
 "Most perfect" method
 
-The most expensive process was to preserve the body by dehydration and protect against pests, such as insects. Almost all of the actions Herodotus described serve one of these two functions. Mòmia_Nesi_BMVB_2964.jpg. Vilanova i la Geltrú. Spain]] First, the brain was removed from the cranium through the nose; the gray matter was discarded. Modern mummy excavations have shown that instead of an iron hook inserted through the nose as Herodotus claims, a rod was used to liquefy the brain via the cranium, which then drained out the nose by gravity. The embalmers then rinsed the skull with certain drugs that mostly cleared any residue of brain tissue and also had the effect of killing bacteria. Next, the embalmers made an incision along the flank with a sharp blade fashioned from an Ethiopian stone and removed the contents of the abdomen. Herodotus does not discuss the separate preservation of these organs and their placement either in special jars or back in the cavity, a process that was part of the most expensive embalming, according to archaeological evidence.
+The most expensive process was to preserve the body by dehydration and protect against pests, such as insects. Almost all of the actions Herodotus described serve one of these two functions. . Vilanova i la Geltrú. Spain]] First, the brain was removed from the cranium through the nose; the gray matter was discarded. Modern mummy excavations have shown that instead of an iron hook inserted through the nose as Herodotus claims, a rod was used to liquefy the brain via the cranium, which then drained out the nose by gravity. The embalmers then rinsed the skull with certain drugs that mostly cleared any residue of brain tissue and also had the effect of killing bacteria. Next, the embalmers made an incision along the flank with a sharp blade fashioned from an Ethiopian stone and removed the contents of the abdomen. Herodotus does not discuss the separate preservation of these organs and their placement either in special jars or back in the cavity, a process that was part of the most expensive embalming, according to archaeological evidence.
 
 The abdominal cavity was then rinsed with palm wine and an infusion of crushed, fragrant herbs and spices; the cavity was then filled with spices including myrrh, cassia, and, Herodotus notes, "every other sort of spice except frankincense", also to preserve the person.
 
@@ -98,13 +94,13 @@ The first mummy to be discovered in South Africa[45] was found in the Baviaanskl
 
 Asia
 
-Momie_de_Jingzhou.jpg]]
+]]
 
 The mummies of Asia are usually considered to be accidental. The decedents were buried in just the right place where the environment could act as an agent for preservation. This is particularly common in the desert areas of the Tarim Basin and Iran. Mummies have been discovered in more humid Asian climates, however these are subject to rapid decay after being removed from the grave.[51]
 
 China
 
-Xin_Zhui_3.JPG.]] Mummies from various dynasties throughout China's history have been discovered in several locations across the country. They are almost exclusively considered to be unintentional mummifications. Many areas in which mummies have been uncovered are difficult for preservation, due to their warm, moist climates. This makes the recovery of mummies a challenge, as exposure to the outside world can cause the bodies to decay in a matter of hours.[52]
+.]] Mummies from various dynasties throughout China's history have been discovered in several locations across the country. They are almost exclusively considered to be unintentional mummifications. Many areas in which mummies have been uncovered are difficult for preservation, due to their warm, moist climates. This makes the recovery of mummies a challenge, as exposure to the outside world can cause the bodies to decay in a matter of hours.[52]
 
 An example of a Chinese mummy that was preserved despite being buried in an environment not conducive to mummification is Xin Zhui. Also known as Lady Dai, she was discovered in the early 1970s at the Mawangdui archaeological site in Changsha.[53] She was the wife of the marquis of Dai during the Han dynasty, who was also buried with her alongside another young man often considered to be a very close relative.[54] However, Xin Zhui's body was the only one of the three to be mummified. Her corpse was so well-preserved that surgeons from the Hunan Provincial Medical Institute were able to perform an autopsy.[55] The exact reason why her body was so completely preserved has yet to be determined.[56]
 
@@ -136,11 +132,11 @@ The United Kingdom, the Republic of Ireland, Germany, the Netherlands, Sweden, a
 
 Canary Islands
 
-MNH_-_Mumie_Mann_1.jpg (Tenerife, Spain).]] The mummies of the Canary Islands belong to the indigenous Guanche people and date to the time before 14th Century Spanish explorers settled in the area. All deceased people within the Guanche culture were mummified during this time, though the level of care taken with embalming and burial varied depending on individual social status. Embalming was carried out by specialized groups, organized according to gender, who were considered unclean by the rest of the community. The techniques for embalming were similar to those of the ancient Egyptians; involving evisceration, preservation, and stuffing of the evacuated bodily cavities, then wrapping of the body in animal skins. Despite the successful techniques utilized by the Guanche, very few mummies remain due to looting and desecration.[77][78]
+(Tenerife, Spain).]] The mummies of the Canary Islands belong to the indigenous Guanche people and date to the time before 14th Century Spanish explorers settled in the area. All deceased people within the Guanche culture were mummified during this time, though the level of care taken with embalming and burial varied depending on individual social status. Embalming was carried out by specialized groups, organized according to gender, who were considered unclean by the rest of the community. The techniques for embalming were similar to those of the ancient Egyptians; involving evisceration, preservation, and stuffing of the evacuated bodily cavities, then wrapping of the body in animal skins. Despite the successful techniques utilized by the Guanche, very few mummies remain due to looting and desecration.[77][78]
 
 Czech Republic
 
-Brno_CZ_Crypt_at_the_Capuchin_Monastery_02.jpg]] The majority of mummies recovered in the Czech Republic come from underground crypts. While there is some evidence of deliberate mummification, most sources state that desiccation occurred naturally due to unique conditions within the crypts.[79][80]
+]] The majority of mummies recovered in the Czech Republic come from underground crypts. While there is some evidence of deliberate mummification, most sources state that desiccation occurred naturally due to unique conditions within the crypts.[79][80]
 
 The Capuchin Crypt in Brno contains three hundred years of mummified remains directly below the main altar.[81] Beginning in the 18th Century when the crypt was opened, and continuing until the practice was discontinued in 1787, the Capuchin monks of the monastery would lay the deceased on a pillow of bricks on the ground. The unique air quality and topsoil within the crypt naturally preserved the bodies over time.[82][83]
 
@@ -150,7 +146,7 @@ The Klatovy catacombs currently house an exhibition of Jesuit mummies, alongside
 
 Denmark
 
-Skrudstrupspigen.jpg Apart from several bog bodies, Denmark has also yielded several other mummies, such as the three Borum Eshøj mummies, the Skrydstrup Woman and the Egtved Girl, who were all found inside burial mounds, or tumuli.
+Apart from several bog bodies, Denmark has also yielded several other mummies, such as the three Borum Eshøj mummies, the Skrydstrup Woman and the Egtved Girl, who were all found inside burial mounds, or tumuli.
 
 In 1875, the Borum Eshøj grave mound was uncovered, which had been built around three coffins, which belonged to a middle aged man and woman as well as a man in his early twenties.[91] Through examination, the woman was discovered to be around 50–60 years old. She was found with several artifacts made of bronze, consisting of buttons, a belt plate, and rings, showing she was of higher class. All of the hair had been removed from the skull later when farmers had dug through the casket. Her original hairstyle is unknown.[92] The two men wore kilts, and the younger man wore a sheath which contained a bronze dagger. All three mummies were dated to 1351–1345 BC.[93]
 
@@ -164,7 +160,7 @@ In 1994, 265 mummified bodies were found in the crypt of a Dominican church in V
 
 Italy
 
-Monks'_Corridor.jpg.]] The varied geography and climatology of Italy has led to many cases of spontaneous mummification. Italian mummies display the same diversity, with a conglomeration of natural and intentional mummification spread across many centuries and cultures.
+.]] The varied geography and climatology of Italy has led to many cases of spontaneous mummification. Italian mummies display the same diversity, with a conglomeration of natural and intentional mummification spread across many centuries and cultures.
 
 The oldest natural mummy in Europe was discovered in 1991 in the Ötztal Alps on the Austrian-Italian border. Nicknamed Ötzi, the mummy is a 5,300-year-old male believed to be a member of the Tamins-Carasso-Isera cultural group of South Tyrol.[99][100] Despite his age, a recent DNA study conducted by Walther Parson of Innsbruck Medical University revealed Ötzi has 19 living genetic relatives.[101]
 
@@ -182,11 +178,11 @@ Kwäday Dän Ts'ìnchi ("Long ago person found" in the Southern Tutchone languag
 
 Greenland
 
-Qilakitsoq_I-1.jpg In 1972, eight remarkably preserved mummies were discovered at an abandoned Inuit settlement called Qilakitsoq, in Greenland. The "Greenland Mummies" consisted of a six-month-old baby, a four-year-old boy, and six women of various ages, who died around 500 years ago. Their bodies were naturally mummified by the sub-zero temperatures and dry winds in the cave in which they were found.[107][108]
+In 1972, eight remarkably preserved mummies were discovered at an abandoned Inuit settlement called Qilakitsoq, in Greenland. The "Greenland Mummies" consisted of a six-month-old baby, a four-year-old boy, and six women of various ages, who died around 500 years ago. Their bodies were naturally mummified by the sub-zero temperatures and dry winds in the cave in which they were found.[107][108]
 
 Mexico
 
-Placid_death.JPG Intentional mummification in pre-Columbian Mexico was practiced by the Aztec culture. These bodies are collectively known as Aztec mummies. Genuine Aztec mummies were "bundled" in a woven wrap and often had their faces covered by a ceremonial mask.[109] Public knowledge of Aztec mummies increased due to traveling exhibits and museums in the 19th and 20th centuries, though these bodies were typically naturally desiccated remains and not actually the mummies associated with Aztec culture. (See: Aztec mummy)
+Intentional mummification in pre-Columbian Mexico was practiced by the Aztec culture. These bodies are collectively known as Aztec mummies. Genuine Aztec mummies were "bundled" in a woven wrap and often had their faces covered by a ceremonial mask.[109] Public knowledge of Aztec mummies increased due to traveling exhibits and museums in the 19th and 20th centuries, though these bodies were typically naturally desiccated remains and not actually the mummies associated with Aztec culture. (See: Aztec mummy)
 
 Natural mummification has been known to occur in several places in Mexico, though the most famous are the mummies of Guanajuato.[110] A collection of these mummies, most of which date to the late 19th century, have been on display at _El Museo de las Momias_ in the city of Guanajuato since 1970. The museum claims to have the smallest mummy in the world on display (a mummified fetus).[111] It was thought that minerals in the soil had the preserving effect, however it may rather be due to the warm, arid climate.[112][113] Mexican mummies are also on display in the small town of Encarnación de Díaz, Jalisco.
 
@@ -195,8 +191,6 @@ United States
 Spirit Cave Man was discovered in 1940 during salvage work prior to guano mining activity that was scheduled to begin in the area. The mummy is a middle-aged male, found completely dressed and lying on a blanket made of animal skin. Radiocarbon tests in the 1990s dated the mummy to being nearly 9,000 years old. The remains are currently held at the Nevada State Museum. There has been some controversy within the local Native American community, who began petitioning to have the remains returned and reburied in 1995.[114][115][116]
 
 Oceania
-
-Robley_with_mokomokai_collection_2.jpg
 
 Mummies from the Oceania are not limited only to Australia. Discoveries of mummified remains have also been located in New Zealand, and the Torres Strait, though these mummies have been historically harder to examine and classify. Prior to the 20th Century, most literature on mummification in the region was either silent or anecdotal.[117] However, the boom of interest generated by the scientific study of Egyptian mummification lead to more concentrated study of mummies in other cultures, including those of Oceania.
 
@@ -220,11 +214,11 @@ The South American continent contains some of the oldest mummies in the world, b
 
 Chinchorro mummies
 
-Momia_cultura_chinchorro_año_3000_AC.jpg The Chinchorro mummies are the oldest intentionally prepared mummified bodies ever found. Beginning in 5th millennium BC and continuing for an estimated 3,500 years,[135] all human burials within the Chinchorro culture were prepared for mummification. The bodies were carefully prepared, beginning with removal of the internal organs and skin, before being left in the hot, dry climate of the Atacama Desert, which aided in desiccation.[136] A large number of Chinchorro mummies were also prepared by skilled artisans to be preserved in a more artistic fashion, though the purpose of this practice is widely debated.[137]
+The Chinchorro mummies are the oldest intentionally prepared mummified bodies ever found. Beginning in 5th millennium BC and continuing for an estimated 3,500 years,[135] all human burials within the Chinchorro culture were prepared for mummification. The bodies were carefully prepared, beginning with removal of the internal organs and skin, before being left in the hot, dry climate of the Atacama Desert, which aided in desiccation.[136] A large number of Chinchorro mummies were also prepared by skilled artisans to be preserved in a more artistic fashion, though the purpose of this practice is widely debated.[137]
 
 Inca mummies
 
-Llullaillaco_mummies_in_Salta_city,_Argentina.jpg mummy in Salta Province (Argentina).]] Several naturally-preserved, unintentional mummies dating from the Incan period (1438–1532 AD) have been found in the colder regions of Argentina, Chile, and Peru. These are collectively known as "ice mummies".[138] The first Incan ice mummy was discovered in 1954 atop El Plomo Peak in Chile, after an eruption of the nearby volcano Sabancaya melted away ice that covered the body.[139] The Mummy of El Plomo was a male child who was presumed to be wealthy due to his well-fed bodily characteristics. He was considered to be the most well-preserved ice mummy in the world until the discovery of Mummy Juanita in 1995.[140]
+mummy in Salta Province (Argentina).]] Several naturally-preserved, unintentional mummies dating from the Incan period (1438–1532 AD) have been found in the colder regions of Argentina, Chile, and Peru. These are collectively known as "ice mummies".[138] The first Incan ice mummy was discovered in 1954 atop El Plomo Peak in Chile, after an eruption of the nearby volcano Sabancaya melted away ice that covered the body.[139] The Mummy of El Plomo was a male child who was presumed to be wealthy due to his well-fed bodily characteristics. He was considered to be the most well-preserved ice mummy in the world until the discovery of Mummy Juanita in 1995.[140]
 
 Mummy Juanita was discovered near the summit of Ampato in the Peruvian section of the Andes mountains by archaeologist Johan Reinhard.[141] Her body had been so thoroughly frozen that it had not been desiccated; much of her skin, muscle tissue, and internal organs retained their original structure.[142] She is believed to be a ritual sacrifice, due to the close proximity of her body to the Incan capital of Cusco, as well as the fact she was wearing highly intricate clothing to indicate her special social status. Several Incan ceremonial artifacts and temporary shelters uncovered in the surrounding area seem to support this theory.[143]
 
@@ -248,7 +242,7 @@ Bodies purported to be those of self-mummified monks are exhibited in several Ja
 
 Modern mummies
 
-Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg wished to be mummified after he died.]]
+wished to be mummified after he died.]]
 
 Jeremy Bentham
 

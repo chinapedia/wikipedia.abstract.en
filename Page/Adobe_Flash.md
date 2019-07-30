@@ -386,8 +386,6 @@ Usability consultant Jakob Nielsen published an Alertbox in 2000 entitled, _Flas
 
 Flash blocking in web browsers
 
-Noflash.png
-
 Flash content is usually embedded using the object or embed HTML element.[182] A web browser that does not fully implement one of these elements displays the replacement text, if supplied by the web page. Often, a plugin is required for the browser to fully implement these elements, though some users cannot or will not install it.
 
 Since Flash can be used to produce content (such as advertisements) that some users find obnoxious or take a large amount of bandwidth to download, some web browsers, by default, do not play Flash content until the user clicks on it, e.g. Konqueror, K-Meleon.

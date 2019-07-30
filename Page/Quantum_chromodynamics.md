@@ -98,8 +98,6 @@ An important theoretical concept is the _Wilson loop_ (named after Kenneth G. Wi
 
 Fields
 
-QCD.svg
-
 Quarks are massive spin- fermions which carry a color charge whose gauging is the content of QCD. Quarks are represented by Dirac fields in the fundamental representation 3 of the gauge group SU(3). They also carry electric charge (either − or +) and participate in weak interactions as part of weak isospin doublets. They carry global quantum numbers including the baryon number, which is for each quark, hypercharge and one of the flavor quantum numbers.
 
 Gluons are spin-1 bosons which also carry color charges, since they lie in the adjoint representation 8 of SU(3). They have no electric charge, do not participate in the weak interactions, and have no flavor. They lie in the singlet representation 1 of all these symmetry groups.
@@ -125,7 +123,7 @@ This approach is based on asymptotic freedom, which allows perturbation theory t
 
 Lattice QCD
 
-Fluxtube_meson.png Among non-perturbative approaches to QCD, the most well established one is lattice QCD. This approach uses a discrete set of spacetime points (called the lattice) to reduce the analytically intractable path integrals of the continuum theory to a very difficult numerical computation which is then carried out on supercomputers like the QCDOC which was constructed for precisely this purpose. While it is a slow and resource-intensive approach, it has wide applicability, giving insight into parts of the theory inaccessible by other means, in particular into the explicit forces acting between quarks and antiquarks in a meson. However, the numerical sign problem makes it difficult to use lattice methods to study QCD at high density and low temperature (e.g. nuclear matter or the interior of neutron stars).
+Among non-perturbative approaches to QCD, the most well established one is lattice QCD. This approach uses a discrete set of spacetime points (called the lattice) to reduce the analytically intractable path integrals of the continuum theory to a very difficult numerical computation which is then carried out on supercomputers like the QCDOC which was constructed for precisely this purpose. While it is a slow and resource-intensive approach, it has wide applicability, giving insight into parts of the theory inaccessible by other means, in particular into the explicit forces acting between quarks and antiquarks in a meson. However, the numerical sign problem makes it difficult to use lattice methods to study QCD at high density and low temperature (e.g. nuclear matter or the interior of neutron stars).
 
  expansion
 

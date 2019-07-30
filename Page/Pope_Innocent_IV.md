@@ -53,7 +53,7 @@ While in Perugia, on 15 May 1252, Innocent IV issued the papal bull _Ad extirpan
 
 Ruler of princes and kings
 
-Blason_AdrienV.svg.[26]]]
+.[26]]]
 
 As Innocent III had before him, Innocent IV saw himself as the Vicar of Christ, whose power was above earthly kings. Innocent, therefore, had no objection to intervening in purely secular matters. He appointed Afonso III administrator of Portugal, and lent his protection to Ottokar, the son of the King of Bohemia. The Pope even sided with King Henry III against both nobles and bishops of England, despite the king's harassment of Edmund Rich, the Archbishop of Canterbury and Primate of All England, and the royal policy of having the income of a vacant bishopric or benefice delivered to the royal coffers, rather than handed over to a papal Administrator (usually a member of the Curia) or a Papal collector of revenue, or delivered directly to the Pope.
 
@@ -62,7 +62,7 @@ The warlike tendencies of the Mongols also concerned the Pope, and he sent a pap
 
 Vicar of Christ
 
-Medieval_,_Papal_bulla_(FindID_610950).jpg of Innocent IV ]]
+of Innocent IV ]]
 
 The papal preoccupation with imperial matters and secular princes caused the spirituality of the Church to suffer. Taxation increased in the Papal States and the complaints of the inhabitants grew considerably.
 
@@ -83,9 +83,9 @@ Innocent IV was responsible for the eventual deposition of King Sancho II of Por
 
 Contacts with the Mongols
 
-LetterGuyugToInnocence.jpg to Pope Innocent IV]] Pope_Innocent_IV_sends_Dominicans_and_Franciscans_out_to_the_Tartars.jpg In 1245, Innocent IV issued bulls and sent an envoy in the person of Giovanni da Pian del Carpine (accompanied by Benedict the Pole) to the "Emperor of the Tartars".[29] The message asked the Mongol ruler to become a Christian and stop his aggression against Europe. The Khan Güyük replied in 1246 in a letter written in Persian that is still preserved in the Vatican Library, demanding the submission of the Pope and the other rulers of Europe.[30]
+to Pope Innocent IV]] In 1245, Innocent IV issued bulls and sent an envoy in the person of Giovanni da Pian del Carpine (accompanied by Benedict the Pole) to the "Emperor of the Tartars".[29] The message asked the Mongol ruler to become a Christian and stop his aggression against Europe. The Khan Güyük replied in 1246 in a letter written in Persian that is still preserved in the Vatican Library, demanding the submission of the Pope and the other rulers of Europe.[30]
 
-AscelinOfCremone.jpg receiving a letter from Pope Innocent IV, and remitting it to the Mongol general Baiju]] In 1245 Innocent had sent another mission, through another route, led by Ascelin of Lombardia, also bearing letters. The mission met with the Mongol ruler Baichu near the Caspian Sea in 1247. The reply of Baichu was in accordance with that of Güyük, but it was accompanied by two Mongolian envoys to the Papal seat in Lyon, Aïbeg and Serkis. In the letter Guyuk demanded that the Pope appear in person at the Mongol imperial headquarters, Karakorum in order that “we might cause him to hear every command that there is of the jasaq”.[31] The envoys met with Innocent IV in 1248, who again appealed to the Mongols to stop their killing of Christians.[32]
+receiving a letter from Pope Innocent IV, and remitting it to the Mongol general Baiju]] In 1245 Innocent had sent another mission, through another route, led by Ascelin of Lombardia, also bearing letters. The mission met with the Mongol ruler Baichu near the Caspian Sea in 1247. The reply of Baichu was in accordance with that of Güyük, but it was accompanied by two Mongolian envoys to the Papal seat in Lyon, Aïbeg and Serkis. In the letter Guyuk demanded that the Pope appear in person at the Mongol imperial headquarters, Karakorum in order that “we might cause him to hear every command that there is of the jasaq”.[31] The envoys met with Innocent IV in 1248, who again appealed to the Mongols to stop their killing of Christians.[32]
 
 Innocent IV would also send other missions to the Mongols in 1245: the mission of André de Longjumeau and the possibly aborted mission of Laurent de Portugal.
 

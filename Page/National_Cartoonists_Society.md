@@ -32,7 +32,7 @@ When Al Posen originated the idea of National Cartoonists Society tours to enter
 
 Hy Eisman described the atmosphere at the NCS when he joined in 1955:
 
-Lbjcartoonists.jpg, Don Sherwood, Mort Walker, Lyndon B. Johnson, Milton Caniff and George Wunder.]] During the 1960s, cartoonists of military comic strips went to the White House and met with Lyndon B. Johnson in the Oval Office. The group included Caniff, Bill Mauldin and Mort Walker.
+, Don Sherwood, Mort Walker, Lyndon B. Johnson, Milton Caniff and George Wunder.]] During the 1960s, cartoonists of military comic strips went to the White House and met with Lyndon B. Johnson in the Oval Office. The group included Caniff, Bill Mauldin and Mort Walker.
 
 In 1977-78, the National Cartoonists Society released _The National Cartoonists Society Portfolio of Fine Comic Art_, published by Collector's Press. The portfolio featured a total of 34 art prints. Each 12" x 16" print was printed on archival fine art paper.
 

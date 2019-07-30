@@ -9,7 +9,7 @@ In many past societies, certain forms of infanticide were considered permissible
 
 History
 
-InfanticidioGarciaVega.jpg.]] The practice of infanticide has taken many forms over time. Child sacrifice to supernatural figures or forces, such as that believed to have been practiced in ancient Carthage, may be only the most notorious example in the ancient world.
+.]] The practice of infanticide has taken many forms over time. Child sacrifice to supernatural figures or forces, such as that believed to have been practiced in ancient Carthage, may be only the most notorious example in the ancient world.
 
 A frequent method of infanticide in ancient Europe and Asia was simply to abandon the infant, leaving it to die by exposure (i.e., hypothermia, hunger, thirst, or animal attack).[4][5]
 
@@ -41,7 +41,7 @@ Plutarch (c. 46–120 AD) mentions the practice, as do Tertullian, Orosius, Diod
 
 Greece and Rome
 
-Eugène_Ferdinand_Victor_Delacroix_031.jpg killing her sons, by Eugène Ferdinand Victor Delacroix (1862).]]
+killing her sons, by Eugène Ferdinand Victor Delacroix (1862).]]
 
 The historical Greeks considered the practice of adult and child sacrifice barbarous,[30] however, the exposure of newborns was widely practiced in ancient Greece, it was even advocated by Aristotle in the case of congenital deformity — "As to the exposure of children, let there be a law that no deformed child shall live.”[31] In Greece, the decision to expose a child was typically the father's, although in Sparta the decision was made by a group of elders.[32] Exposure was the preferred method of disposal, as that act in itself was not considered to be murder; moreover, the exposed child technically had a chance of being rescued by the gods or any passersby.[33] This very situation was a recurring motif in Greek mythology.[34] To notify the neighbors of a birth of a child, a woolen strip was hung over the front door to indicate a female baby and an olive branch to indicate a boy had been born. Families did not always keep their new child. After a woman had a baby, she would show it to her husband. If the husband accepted it, it would live, but if he refused it, it would die. Babies would often be rejected if they were illegitimate, unhealthy or deformed, the wrong sex, or too great a burden on the family. These babies would not be directly killed, but put in a clay pot or jar and deserted outside the front door or on the roadway. In ancient Greek religion, this practice took the responsibility away from the parents because the child would die of natural causes, for example hunger, asphyxiation or exposure to the elements.
 
@@ -49,7 +49,7 @@ The practice was prevalent in ancient Rome, as well. Philo was the first philoso
 
     "I am still in Alexandria. ... I beg and plead with you to take care of our little child, and as soon as we receive wages, I will send them to you. In the meantime, if (good fortune to you!) you give birth, if it is a boy, let it live; if it is a girl, expose it.",[37][38] _"If you give birth to a boy, keep it. If it is a girl, expose it. Try not to worry. I'll send the money as soon as we get paid."_[39]
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_172.png by Julius Schnorr von Karolsfeld, 1860]] In some periods of Roman history it was traditional for a newborn to be brought to the _pater familias_, the family patriarch, who would then decide whether the child was to be kept and raised, or left to die by exposure.[40] The Twelve Tables of Roman law obliged him to put to death a child that was visibly deformed. The concurrent practices of slavery and infanticide contributed to the "background noise" of the crises during the Republic.[41]
+by Julius Schnorr von Karolsfeld, 1860]] In some periods of Roman history it was traditional for a newborn to be brought to the _pater familias_, the family patriarch, who would then decide whether the child was to be kept and raised, or left to die by exposure.[40] The Twelve Tables of Roman law obliged him to put to death a child that was visibly deformed. The concurrent practices of slavery and infanticide contributed to the "background noise" of the crises during the Republic.[41]
 
 Infanticide became a capital offense in Roman law in 374 AD, but offenders were rarely if ever prosecuted.[42]
 
@@ -67,7 +67,7 @@ However, very high sex ratios were common in even late medieval Europe, which ma
 
 Judaism
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_028.png by Julius Schnorr von Karolsfeld, 1860, Abraham is shown not sacrificing Isaac.]] Judaism prohibits infanticide, and has for some time, dating back to at least early Common Era. Roman historians wrote about the ideas and customs of other peoples, which often diverged from their own. Tacitus recorded that the Jews "regard it as a crime to kill any late-born children".[49] Josephus, whose works give an important insight into 1st-century Judaism, wrote that God "forbids women to cause abortion of what is begotten, or to destroy it afterward".[50]
+by Julius Schnorr von Karolsfeld, 1860, Abraham is shown not sacrificing Isaac.]] Judaism prohibits infanticide, and has for some time, dating back to at least early Common Era. Roman historians wrote about the ideas and customs of other peoples, which often diverged from their own. Tacitus recorded that the Jews "regard it as a crime to kill any late-born children".[49] Josephus, whose works give an important insight into 1st-century Judaism, wrote that God "forbids women to cause abortion of what is begotten, or to destroy it afterward".[50]
 
 Pagan European tribes
 
@@ -95,7 +95,7 @@ Infanticide is explicitly prohibited by the Qur'an.[65] _"And do not kill your c
 
 Ukraine and Russia
 
-Russian_woman_throwing_her_baby_to_wolves_(Geoffroy,_1845).JPG ses enfants à des loups''. Charles-Michel Geoffroy (fr), 1845]]
+ses enfants à des loups''. Charles-Michel Geoffroy (fr), 1845]]
 
 Infanticide may have been practiced as human sacrifice, as part of the pagan cult of Perun. Ibn Fadlan describes sacrificial practices at the time of his trip to Kiev Rus (present day Ukraine) in 921–922, and describes an incident of a woman voluntarily sacrificing her life as part of a funeral rite for a prominent leader, but makes no mention of infanticide. The Primary Chronicle, one of the most important literary sources before the 12th century, indicates that human sacrifice to idols may have been introduced by Vladimir the Great in 980. The same Vladimir the Great formally converted Kiev Rus into Christianity just 8 years later, but pagan cults continued to be practiced clandestinely in remote areas as late as the 13th century.
 
@@ -123,8 +123,6 @@ Asia
 
 China
 
-Burying_Babies_in_China_(p.40,_March_1865,_XXII).jpg
-
 Short of execution, the harshest penalties were imposed on practitioners of infanticide by the legal codes of the Qin dynasty and Han dynasty of ancient China.[76]
 
 Marco Polo, the explorer, saw newborns exposed in Manzi.[77] China's society practiced sex selective infanticide. Philosopher Han Fei Tzu, a member of the ruling aristocracy of the 3rd century BC, who developed a school of law, wrote: "As to children, a father and mother when they produce a boy congratulate one another, but when they produce a girl they put it to death."[78] Among the Hakka people, and in Yunnan, Anhui, Sichuan, Jiangxi and Fujian a method of killing the baby was to put her into a bucket of cold water, which was called "baby water".[79]
@@ -135,7 +133,7 @@ Contemporary writers from the Song dynasty note that, in Hubei and Fujian provin
 
 Scottish Physician John Dudgeon, who worked in Beijing, China, during the Qing Dynasty said that in China, "Infanticide does not prevail to the extent so generally believed among us, and in the north it does not exist at all."[84]
 
-Sex_ratio_at_birth_in_mainland_China.png Gender-selected abortion or sex identification (without medical uses[85][86]), abandonment, and infanticide are illegal in present-day Mainland China. Nevertheless, the US State Department,[87] and the human rights organization Amnesty International[88] have all declared that Mainland China's family planning programs, called the one child policy(has changed to two child policy nowaday[89]), contribute to infanticide.[90][91][92] The sex gap between males and females aged 0–19 years old was estimated to be 25 million in 2010 by the United Nations Population Fund.[93]But in some cases, in order to avoid Mainland China's family planning programs, parents will not report to government when a child is born (in most cases a girl), so she or he will not have an identity in the government and they can keep on giving birth until they're satisfied, without fines or punishment. In 2017, the government announces that all child without an identity can now have an identity legally, known as family register.[94]
+Gender-selected abortion or sex identification (without medical uses[85][86]), abandonment, and infanticide are illegal in present-day Mainland China. Nevertheless, the US State Department,[87] and the human rights organization Amnesty International[88] have all declared that Mainland China's family planning programs, called the one child policy(has changed to two child policy nowaday[89]), contribute to infanticide.[90][91][92] The sex gap between males and females aged 0–19 years old was estimated to be 25 million in 2010 by the United Nations Population Fund.[93]But in some cases, in order to avoid Mainland China's family planning programs, parents will not report to government when a child is born (in most cases a girl), so she or he will not have an identity in the government and they can keep on giving birth until they're satisfied, without fines or punishment. In 2017, the government announces that all child without an identity can now have an identity legally, known as family register.[94]
 
 Japan
 
@@ -143,7 +141,7 @@ Since feudal Japan the common slang for infanticide was _"mabiki"_ (間引き) w
 
 India
 
-Hindoo_Woman_and_Child_(March_1852,_p.24,_IX)_-_Copy.jpg at Bengal (1852)[99]]] Hindoo_Mother_Sacrificing_her_infant_(November_1853,_X,_p.120).jpg
+at Bengal (1852)[99]]]
 
 Female infanticide of newborn girls was systematic in feudatory Rajputs in South Asia for illegitimate female children during the Middle Ages. According to Firishta, as soon as the illegitimate female child was born she was held "in one hand, and a knife in the other, that any person who wanted a wife might take her now, otherwise she was immediately put to death".[100] The practice of female infanticide was also common among the Kutch, Kehtri, Nagar, Bengal, Miazed, Kalowries in India inhabitants, and also among the Sindh in British India.[101]
 
@@ -392,7 +390,7 @@ Granting women employment raises their status and autonomy. Having a gainful emp
 
 In animals
 
-Mones.jpgs.]]
+s.]]
 
 Although human infanticide has been widely studied, the practice has been observed in many other species of the animal kingdom since it was first seriously studied by Yukimaru Sugiyama.[228] These include from microscopic rotifers and insects, to fish, amphibians, birds and mammals, including primates such as chacma baboons.[229] Infanticide can be practiced by both males and females.
 

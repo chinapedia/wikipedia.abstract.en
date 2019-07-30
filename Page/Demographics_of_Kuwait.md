@@ -1,4 +1,4 @@
-Kuwaityouth5020.jpg This article is about the demographic features of the population of Kuwait.
+This article is about the demographic features of the population of Kuwait.
 
 Expatriates account for around 70% of Kuwait's total population, with Kuwaitis constituting 28%–32% of the total population. The government and Kuwaiti citizens consider the proportion of expatriates (which has been relatively stable since the mid-1970s) to be a problem, and in 2016 the number of deportations increased.[1] Kuwait consists of six governorates: Hawalli, Asimah (Capital), Farwaniyah, Jahra, Ahmadi and Mubarak Al-Kabeer. Some Kuwaiti people are foreigners that were given Kuwaiti citizenship. [2]
 
@@ -167,7 +167,7 @@ Source: _UN World Population Prospects_[12]
 
 CIA World Factbook demographic statistics
 
-Kuwait-population-pyramid-2017.svg The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
+The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 
 Age structure
 

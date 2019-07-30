@@ -3,7 +3,7 @@ The SAXHORN is a family of valved brass instruments that have conical bores and 
 
 The saxhorn family
 
-Adolphe_Sax_instrument_catalogue.jpg The saxhorns form a family of seven brass instruments (although at one point ten different sizes seem to have existed). Designed for band use, they are pitched alternately in E and B, like the saxophone group.
+The saxhorns form a family of seven brass instruments (although at one point ten different sizes seem to have existed). Designed for band use, they are pitched alternately in E and B, like the saxophone group.
 
 Modern saxhorns still manufactured and in use:
 

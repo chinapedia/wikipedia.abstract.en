@@ -7,7 +7,7 @@ History
 
 The earliest traces of human presence in New Caledonia date back to the Lapita period c. 1600 BC to c. 500 AD.[7] The Lapita were highly skilled navigators and agriculturists with influence over a large area of the Pacific.[8]
 
-Two_Kanak_(Canaque)_warriors_posing_with_penis_gourds_and_spears,_New_Caledonia.jpgs and spears, around 1880]] British explorer Captain James Cook was the first European to sight New Caledonia, on 4 September 1774, during his second voyage.[9] He named it "New Caledonia", as the northeast of the island reminded him of Scotland.[10] The west coast of Grande Terre was approached by the Comte de Lapérouse in 1788, shortly before his disappearance, and the Loyalty Islands were first visited between 1793 and 1796 when Mare, Lifou, Tiga, and Ouvea were mapped by William Raven.[11] The English whaler encountered the island named then Britania, and today known as Maré (Loyalty Is.), in November 1793.[12] From 1796 until 1840, only a few sporadic contacts with the archipelago were recorded. About fifty American whalers (identified by Robert Langsom from their log books) have been recorded in the region (Grande Terre, Loyalty Is., Walpole and Hunter) between 1793 and 1887.[13] Contacts became more frequent after 1840, because of the interest in sandalwood.[14]
+s and spears, around 1880]] British explorer Captain James Cook was the first European to sight New Caledonia, on 4 September 1774, during his second voyage.[9] He named it "New Caledonia", as the northeast of the island reminded him of Scotland.[10] The west coast of Grande Terre was approached by the Comte de Lapérouse in 1788, shortly before his disappearance, and the Loyalty Islands were first visited between 1793 and 1796 when Mare, Lifou, Tiga, and Ouvea were mapped by William Raven.[11] The English whaler encountered the island named then Britania, and today known as Maré (Loyalty Is.), in November 1793.[12] From 1796 until 1840, only a few sporadic contacts with the archipelago were recorded. About fifty American whalers (identified by Robert Langsom from their log books) have been recorded in the region (Grande Terre, Loyalty Is., Walpole and Hunter) between 1793 and 1887.[13] Contacts became more frequent after 1840, because of the interest in sandalwood.[14]
 
 As trade in sandalwood declined, it was replaced by a new business enterprise, "blackbirding", a euphemism for taking Melanesian or Western Pacific Islanders from New Caledonia, the Loyalty Islands, New Hebrides, New Guinea, and the Solomon Islands into indentured or forced labour in the sugar cane plantations in Fiji and Queensland by various methods of trickery and deception.[15] Blackbirding was practiced by both French and British-Australian traders, but in New Caledonia's case, the trade in the early decades of the twentieth century involved relocating children from the Loyalty Islands to the Grand Terre for labour in plantation agriculture. New Caledonia's primary experience with blackbirding revolved around a trade from the New Hebrides (now Vanuatu) to the Grand Terre for labour in plantation agriculture, mines, as well as guards over convicts and in some public works. The historian Dorothy Shineberg's milestone study, The People Trade, discusses this 'migration'. In the early years of the trade, coercion was used to lure Melanesian islanders onto ships. In later years indenture systems were developed; however, when it came to the French slave trade, which took place between its Melanesian colonies of the New Hebrides and New Caledonia, very few regulations were implemented. This represented a departure from the British experience, since increased regulations were developed to mitigate the abuses of blackbirding and 'recruitment' strategies on the coastlines.
 
@@ -17,7 +17,7 @@ French dependency
 
 On 24 September 1853, under orders from Emperor Napoleon III, Admiral Febvrier Despointes took formal possession of New Caledonia. Captain Louis-Marie-François Tardy de Montravel founded Port-de-France (Nouméa) on 25 June 1854.[19] A few dozen free settlers settled on the west coast in the following years.[20] New Caledonia became a penal colony in 1864, and from the 1860s until the end of the transportations in 1897, France sent about 22,000 criminals and political prisoners to New Caledonia. The _Bulletin de la Société générale des prisons_ for 1888 indicates that 10,428 convicts, including 2,329 freed ones, were on the island as of 1 May 1888, by far the largest number of convicts detained in French overseas penitentiaries.[21] The convicts included many Communards, arrested after the failed Paris Commune of 1871, including Henri de Rochefort and Louise Michel.[22] Between 1873 and 1876, 4,200 political prisoners were "relegated" to New Caledonia.[23] Only 40 of them settled in the colony; the rest returned to France after being granted amnesty in 1879 and 1880.[24]
 
-King_Jacques_and_his_Queen.jpg In 1864 nickel was discovered on the banks of the Diahot River; with the establishment of the Société Le Nickel in 1876, mining began in earnest.[25] To work the mines the French imported labourers from neighbouring islands and from the New Hebrides, and later from Japan, the Dutch East Indies, and French Indochina.[26] The French government also attempted to encourage European immigration, without much success.[27]
+In 1864 nickel was discovered on the banks of the Diahot River; with the establishment of the Société Le Nickel in 1876, mining began in earnest.[25] To work the mines the French imported labourers from neighbouring islands and from the New Hebrides, and later from Japan, the Dutch East Indies, and French Indochina.[26] The French government also attempted to encourage European immigration, without much success.[27]
 
 The indigenous population or Kanak people were excluded from the French economy and from mining work, and ultimately confined to reservations.[28] This sparked a violent reaction in 1878, when High Chief Atal of La Foa managed to unite many of the central tribes and launched a guerrilla war that killed 200 Frenchmen and 1,000 Kanaks.[29] A second guerrilla war took place in 1917, with Catholic missionaries like Maurice Leenhardt functioning as witnesses to the events of this war. Leenhardt would pen a number of ethnographic works on the Kanak of New Caledonia. Noel of Tiamou led the 1917 rebellion, which resulted in a number of orphaned children, one of whom was taken into the care of Protestant missionary Alphonse Rouel. This child, Wenceslas Thi, would become the father of Jean-Marie Tjibaou[30] (1936–1989).
 
@@ -40,15 +40,13 @@ Following the timeline set by the Nouméa Accord that stated a vote must take pl
 
 Politics
 
-Flag_of_New_Caledonia_Congress.gif
-
 New Caledonia is a territory _sui generis_ to which France has gradually transferred certain powers.[48] As such its citizens have French nationality and vote for the president of France. They have the right to vote in elections to the European Parliament. It is governed by a 54-member Territorial Congress, a legislative body composed of members of three provincial assemblies.[49] The French State is represented in the territory by a High Commissioner.[50] At a national level, New Caledonia is represented in the French Parliament by two deputies and two senators.[51] At the 2012 French presidential election, the voter turnout in New Caledonia was 61.19%.[52]
 
 For 25 years, the party system in New Caledonia was dominated by the anti-independence The Rally–UMP.[53] This dominance ended with the emergence of a new party, Avenir Ensemble, also opposed to independence, but considered more open to dialogue with the Kanak movement,[54] which is part of the Kanak and Socialist National Liberation Front, a coalition of several pro-independence groups.[55]
 
 Customary authority
 
-Kanak society has several layers of customary authority, from the 4,000–5,000 family-based clans to the eight customary areas (_aires coutumières_) that make up the territory.[56] Clans are led by clan chiefs and constitute 341 tribes, each headed by a tribal chief. The tribes are further grouped into 57 customary chiefdoms (_chefferies_), each headed by a head chief, and forming the administrative subdivisions of the customary areas.[57] US_Navy_090925-N-8721D-037_Capt._Thom_Burke,_commanding_officer_of_the_amphibious_command_ship_USS_Blue_Ridge_(LCC_19)_receives_a_wreath_to_lay_at_the_U.S._war_memorial_during_a_ceremony.jpg during a ceremony honoring U.S. service members who helped ensure the freedom of New Caledonia during World War II ]] The Customary Senate is the assembly of the various traditional councils of the Kanaks, and has jurisdiction over the law proposals concerning the Kanak identity.[58] The Customary Senate is composed of 16 members appointed by each traditional council, with two representatives per each customary area.[59] In its advisory role, the Customary Senate must be consulted on law proposals "concerning the Kanak identity" as defined in the Nouméa Accord.[60] It also has a deliberative role on law proposals that would affect identity, the civil customary statute, and the land system.[61] A new president is appointed each year in August or September, and the presidency rotates between the eight customary areas.[62]
+Kanak society has several layers of customary authority, from the 4,000–5,000 family-based clans to the eight customary areas (_aires coutumières_) that make up the territory.[56] Clans are led by clan chiefs and constitute 341 tribes, each headed by a tribal chief. The tribes are further grouped into 57 customary chiefdoms (_chefferies_), each headed by a head chief, and forming the administrative subdivisions of the customary areas.[57] during a ceremony honoring U.S. service members who helped ensure the freedom of New Caledonia during World War II ]] The Customary Senate is the assembly of the various traditional councils of the Kanaks, and has jurisdiction over the law proposals concerning the Kanak identity.[58] The Customary Senate is composed of 16 members appointed by each traditional council, with two representatives per each customary area.[59] In its advisory role, the Customary Senate must be consulted on law proposals "concerning the Kanak identity" as defined in the Nouméa Accord.[60] It also has a deliberative role on law proposals that would affect identity, the civil customary statute, and the land system.[61] A new president is appointed each year in August or September, and the presidency rotates between the eight customary areas.[62]
 
 Kanak people have recourse to customary authorities regarding civil matters such as marriage, adoption, inheritance, and some land issues.[63] The French administration typically respects decisions made in the customary system.[64] However, their jurisdiction is sharply limited in penal matters, as some matters relating to the customary justice system, including the use of corporal punishment, are seen as clashing with the human rights obligations of France.[65]
 
@@ -58,7 +56,7 @@ The Armed Forces of New Caledonia () FANC, include about 2,000 soldiers, mainly 
 
 Status
 
-EU_OCT_and_OMR_map_en.png]] New Caledonia has been a member of the Pacific Community since 1983 with Noumea the home of the organizations regional headquarters. Since 1986, the United Nations Committee on Decolonization has included New Caledonia on the United Nations list of Non-Self-Governing Territories.[70] An independence referendum was held the following year, but independence was rejected by a large majority.
+]] New Caledonia has been a member of the Pacific Community since 1983 with Noumea the home of the organizations regional headquarters. Since 1986, the United Nations Committee on Decolonization has included New Caledonia on the United Nations list of Non-Self-Governing Territories.[70] An independence referendum was held the following year, but independence was rejected by a large majority.
 
 Under the Nouméa Accord, signed in 1998 following a period of secessionist unrest in the 1980s and approved in a referendum, New Caledonia held a second referendum on independence on 4 November 2018,[71][72] where 56.9% of voters chose to remain with France.[73]
 
@@ -67,7 +65,7 @@ The official name of the territory, _Nouvelle-Calédonie_, could be changed in t
 
 Administrative divisions
 
-Administrative_divisions_of_New_Caledonia.svg The institutional organization is the result of the organic law and ordinary law passed by the Parliament on 16 February 1999.[80]
+The institutional organization is the result of the organic law and ordinary law passed by the Parliament on 16 February 1999.[80]
 
 The archipelago is divided into three provinces:
 
@@ -76,8 +74,6 @@ The archipelago is divided into three provinces:
 -   Loyalty Islands Province (_province des îles Loyauté_). Provincial capital: Lifou. Area: 1,981 km². Population: 17,436 inhabitants (2009).
 
 New Caledonia is further divided into 33 municipalities:[81] One commune, Poya, is divided between two provinces. The northern half of Poya, with the main settlement and most of the population, is part of the North Province, while the southern half of the commune, with only 127 inhabitants in 2009, is part of the South Province. The communes, with 2015 populations in brackets, and administrative centres, are as follows:
-
-New_Caledonia_administrative1.png
 
 South Province
 
@@ -105,7 +101,7 @@ Notes: * provincial capital. ** The population of the southern part of Poya comm
 
 Geography
 
-New_Caledonia_-_S199828000484.jpg New Caledonia is part of Zealandia, a fragment of the ancient Gondwana super-continent. It is speculated that New Caledonia separated from Australia roughly 66 million years ago, subsequently drifting in a north-easterly direction, reaching its present position about 50 million years ago.[82]
+New Caledonia is part of Zealandia, a fragment of the ancient Gondwana super-continent. It is speculated that New Caledonia separated from Australia roughly 66 million years ago, subsequently drifting in a north-easterly direction, reaching its present position about 50 million years ago.[82]
 
 The mainland is divided in length by a central mountain range whose highest peaks are Mont Panié () in the north and Mont Humboldt () in the southeast.[83] The east coast is covered by a lush vegetation.[84] The west coast, with its large savannahs and plains suitable for farming, is a drier area. Many ore-rich massifs are found along this coast.[85]
 
@@ -120,13 +116,13 @@ The rainfall records show that precipitation differs greatly within the island. 
 
 Environment
 
-Landscape,_south_of_New_Caledonia.jpg New Caledonia has many unique taxa, especially birds and plants.[98] It has the richest diversity in the world per square kilometre.[99] In its botany not only species but entire genera, families, and even orders are unique to the island, and survive nowhere else. The biodiversity is caused by Grande Terre's central mountain range, which has created a variety of niches, landforms and micro-climates where endemic species thrive.[100]
+New Caledonia has many unique taxa, especially birds and plants.[98] It has the richest diversity in the world per square kilometre.[99] In its botany not only species but entire genera, families, and even orders are unique to the island, and survive nowhere else. The biodiversity is caused by Grande Terre's central mountain range, which has created a variety of niches, landforms and micro-climates where endemic species thrive.[100]
 
 Bruno Van Peteghem was in 2001 awarded the Goldman Environmental Prize for his efforts on behalf of the Caledonian ecological protection movement in the face of "serious challenges" from Jacques Lafleur's RPCR party.[101] Progress has been made in a few areas in addressing the protection of New Caledonia's ecological diversity from fire, industrial and residential development, unrestricted agricultural activity and mining (such as the judicial revocation of INCO's mining license in June 2006 owing to claimed abuses).[102]
 
 Flora
 
-Amborella_trichopoda_(3065968016)_fragment.jpg_, the world's oldest living lineage of flowering plant]] 0_Araucaria_columnaris_New_Caledonia.jpg_, New Caledonia]] New Caledonia's fauna and flora derive from ancestral species isolated in the region when it broke away from Gondwana many tens of millions of years ago.[103] Not only endemic species have evolved here, but entire genera, families, and even orders are unique to the islands.
+_, the world's oldest living lineage of flowering plant]] _, New Caledonia]] New Caledonia's fauna and flora derive from ancestral species isolated in the region when it broke away from Gondwana many tens of millions of years ago.[103] Not only endemic species have evolved here, but entire genera, families, and even orders are unique to the islands.
 
 More of tropical gymnosperm species are endemic to New Caledonia than to any similar region on Earth. Of the 44 indigenous species of gymnosperms, 43 are endemic, including the only known parasitic gymnosperm (_Parasitaxus usta_).[104] Also, of the 35 known species of _Araucaria_, 13 are endemic to New Caledonia.[105] New Caledonia also has the world's most divergent lineage of flowering plant, _Amborella trichopoda_, which is at, or near, the base of the clade of all flowering plants.
 
@@ -138,7 +134,7 @@ New Caledonia has its own version of maquis (_maquis minier_) occurring on metal
 
 Fauna
 
-Cagou.jpg, an endemic flightless bird]] New Caledonia is home to the New Caledonian crow, a bird noted for its tool-making abilities, which rival those of primates.[110] These crows are renowned for their extraordinary intelligence and ability to fashion tools to solve problems, and make the most complex tools of any animal yet studied apart from humans.[111]
+, an endemic flightless bird]] New Caledonia is home to the New Caledonian crow, a bird noted for its tool-making abilities, which rival those of primates.[110] These crows are renowned for their extraordinary intelligence and ability to fashion tools to solve problems, and make the most complex tools of any animal yet studied apart from humans.[111]
 
 The endemic kagu,[112] agile and able to run quickly, is a flightless bird, but it is able to use its wings to climb branches or glide. It is the surviving member of monotypic family Rhynochetidae, order Gruiformes.[113]
 
@@ -163,11 +159,11 @@ The other self-reported communities were Wallisians and Futunians (8.2% of the t
 
 Finally 8.6% of the population reported belonging to multiple communities (mixed race) (up from 8.3% at the 2009 census), and 2.5% refused to report any community (up from 1.2% at the 2009 census). The question on community belonging, which had been left out of the 2004 census, was reintroduced in 2009 under a new formulation, different from the 1996 census, allowing multiple choices (mixed race) and the possibility to clarify the choice "other".[130]
 
-Femmes_kanak2.jpg women]] The Kanak people, part of the Melanesian group, are indigenous to New Caledonia.[131] Their social organization is traditionally based around clans, which identify as either "land" or "sea" clans, depending on their original location and the occupation of their ancestors.[132] According to the 2009 census, the Kanak constitute 94% of the population in the Loyalty Islands Province, 74% in the North Province and 27% in the South Province.[133] The Kanak tend to be of lower socio-economic status than the Europeans and other settlers.[134]
+women]] The Kanak people, part of the Melanesian group, are indigenous to New Caledonia.[131] Their social organization is traditionally based around clans, which identify as either "land" or "sea" clans, depending on their original location and the occupation of their ancestors.[132] According to the 2009 census, the Kanak constitute 94% of the population in the Loyalty Islands Province, 74% in the North Province and 27% in the South Province.[133] The Kanak tend to be of lower socio-economic status than the Europeans and other settlers.[134]
 
 Europeans first settled in New Caledonia when France established a penal colony on the archipelago.[135] Once the prisoners had completed their sentences, they were given land to settle.[136] According to the 2009 census, of the 71,721 Europeans in New Caledonia 32,354 were native-born, 33,551 were born in other parts of France, and 5,816 were born abroad.[137] The Europeans are divided into several groups: the Caldoches are usually defined as those born in New Caledonia who have ancestral ties that span back to the early French settlers.[138] They often settled in the rural areas of the western coast of Grande Terre, where many continue to run large cattle properties.[139]
 
-Rodéo_cheval.JPGs (here at the annual fair of Bourail) are part of Caldoche culture.]]
+s (here at the annual fair of Bourail) are part of Caldoche culture.]]
 
 Distinct from the Caldoches are those were born in New Caledonia from families that had settled more recently, and are called simply Caledonians.[140] The Metropolitan French-born migrants who come to New Caledonia are called _Métros_ or _Zoreilles_, indicating their origins in metropolitan France.[141] There is also a community of about 2,000[142] pieds noirs, descended from European settlers in France's former North African colonies;[143] some of them are prominent in anti-independence politics, including Pierre Maresca, a leader of the RPCR.[144]
 
@@ -232,7 +228,7 @@ Financial support from France is substantial, representing more than 15% of the 
 
 Nickel sector
 
-Creek_South_New_Caledonia.JPGs and nickel.]]
+s and nickel.]]
 
 New Caledonian soils contain about 25% of the world's nickel resources.[183] The late-2000s recession has gravely affected the nickel industry, as the sector faced a significant drop in nickel prices (−31.0% year-on-year in 2009) for the second consecutive year.[184] The fall in prices has led a number of producers to reduce or stop altogether their activity, resulting in a reduction of the global supply of nickel by 6% compared to 2008.[185]
 
@@ -243,7 +239,7 @@ Historically, nickel was transported by wire ropeway to ships waiting offshore.
 
 Culture
 
-Foire_chevaux.JPGs, European people born in New Caledonia]]
+s, European people born in New Caledonia]]
 
 Wood carving, especially of the houp (_Montrouziera cauliflora_), is a contemporary reflection of the beliefs of the traditional tribal society, and includes totems, masks, chambranles, or flèche faîtière,[190] a kind of arrow that adorns the roofs of Kanak houses. Basketry is a craft widely practiced by tribal women, creating objects of daily use.[191]
 
@@ -265,7 +261,7 @@ The media are considered to be able to operate freely, but Reporters Without Bor
 
 Sports
 
-Christian_Karembeu_-_2014.jpg, 1998 FIFA World Cup winner with France[206]]] The largest sporting event to be held in New Caledonia is a round of the FIA Asia Pacific Rally Championship (APRC).
+, 1998 FIFA World Cup winner with France[206]]] The largest sporting event to be held in New Caledonia is a round of the FIA Asia Pacific Rally Championship (APRC).
 
 The New Caledonia football team began playing in 1950, and was admitted into FIFA, the international association of football leagues, in 2004.[207] Prior to joining FIFA, New Caledonia held observer status with the Oceania Football Confederation, and became an official member of the OFC with its FIFA membership. They have won the South Pacific Games five times, most recently in 2007, and have placed third on two occasions in the OFC Nations Cup. Christian Karembeu is a prominent New Caledonian former footballer. The under-17 team qualified for the FIFA under 17 World Cup in 2017.
 

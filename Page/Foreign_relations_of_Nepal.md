@@ -32,8 +32,6 @@ Illicit production of cannabis for domestic and international drug markets conti
 
 Bilateral relations
 
-Diplomatic relations of Nepal
-
 Albania
 
 Both countries established diplomatic relations on 23 May 1972.[10]
@@ -192,7 +190,7 @@ Around 1,500,000 Indians are living/domiciled in Nepal.[34]
 
 Israel
 
-King_of_Nepal_1958.jpg.]]
+.]]
 
 Nepal was the first and until recently the only nation in South and Central Asia to establish diplomatic ties with Israel. The bilateral relation between the two countries has been good. Traditionally, Nepal votes in favor of Israel at the UN and abstains from resolution opposed by the Israeli government barring few exceptions. Israel-Nepal relations are based on mutual security concerns.[35]
 
@@ -295,7 +293,7 @@ The UK remains one of the top development partners of Nepal with the annual Brit
 
 United States
 
-Nepal and the United States of America (USA) established the diplomatic relations between them on 25 April 1947.[67] Nepal established its embassy in Washington D.C. on 3 February 1958. On 6 August 1959, American Embassy in Kathmandu was opened. According to the 2012 U.S. Global Leadership Report, 41% of Nepalese people approve of U.S. leadership. Since 1951, the United States has provided more than $7 billion in bilateral economic assistance to Nepal. In recent years, annual bilateral U.S. economic assistance through the U.S. Agency for International Development (USAID) has averaged $40 million per year. Embassy_of_Nepal.JPG]]
+Nepal and the United States of America (USA) established the diplomatic relations between them on 25 April 1947.[67] Nepal established its embassy in Washington D.C. on 3 February 1958. On 6 August 1959, American Embassy in Kathmandu was opened. According to the 2012 U.S. Global Leadership Report, 41% of Nepalese people approve of U.S. leadership. Since 1951, the United States has provided more than $7 billion in bilateral economic assistance to Nepal. In recent years, annual bilateral U.S. economic assistance through the U.S. Agency for International Development (USAID) has averaged $40 million per year. ]]
 
 Development Cooperation:
 

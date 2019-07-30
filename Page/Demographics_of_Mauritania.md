@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Mauritania, 
 
 Population
 
-Mauritania-demography.png, year 2005; Number of inhabitants in thousands.]] According to , the total population was in , compared to only 657 000 in 1950. The proportion of children below the age of 15 in 2010 was 39.9%, 57.4% was between 15 and 65 years of age, while 2.7% was 65 years or older.[1]
+, year 2005; Number of inhabitants in thousands.]] According to , the total population was in , compared to only 657 000 in 1950. The proportion of children below the age of 15 in 2010 was 39.9%, 57.4% was between 15 and 65 years of age, while 2.7% was 65 years or older.[1]
 
          Total population (x 1000)   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ --------------------------- -------------------------- --------------------------- -------------------------
@@ -147,8 +147,6 @@ Population
     3,381,634 (June 2011 est.)
 
 Age structure
-
-Mauritaniapop.svg
 
     _0-14 years:_ 38.24% (male 737,570 /female 730,969)
     _15-24 years:_ 19.78% (male 372,070 /female 387,375)

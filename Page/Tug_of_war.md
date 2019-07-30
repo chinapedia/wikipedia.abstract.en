@@ -8,13 +8,13 @@ The _Oxford English Dictionary_ says that the phrase "tug of war" originally mea
 
 Origin
 
-Awatoceanofmilk01.JPGs and devas[2] (Angkor Wat, Cambodia)]] The origins of tug of war are uncertain, but this sport was practised in Cambodia, ancient Egypt, Greece, India and China. According to a Tang dynasty book, _The Notes of Feng_, tug of war, under the name "hook pulling" (牽鉤), was used by the military commander of the State of Chu during the Spring and Autumn period (8th century BC to 5th century BC) to train warriors. During the Tang dynasty, Emperor Xuanzong of Tang promoted large-scale tug of war games, using ropes of up to with shorter ropes attached, and more than 500 people on each end of the rope. Each side also had its own team of drummers to encourage the participants.[3]
+s and devas[2] (Angkor Wat, Cambodia)]] The origins of tug of war are uncertain, but this sport was practised in Cambodia, ancient Egypt, Greece, India and China. According to a Tang dynasty book, _The Notes of Feng_, tug of war, under the name "hook pulling" (牽鉤), was used by the military commander of the State of Chu during the Spring and Autumn period (8th century BC to 5th century BC) to train warriors. During the Tang dynasty, Emperor Xuanzong of Tang promoted large-scale tug of war games, using ropes of up to with shorter ropes attached, and more than 500 people on each end of the rope. Each side also had its own team of drummers to encourage the participants.[3]
 
 In ancient Greece the sport was called _helkustinda_ (Greek: ἑλκυστίνδα), _efelkustinda_ (ἐφελκυστίνδα) and _dielkustinda_ (διελκυστίνδα),[4] which derives from _dielkō_ (διέλκω), meaning amongst others "I pull through",[5] all deriving from the verb _helkō_ (ἕλκω), "I draw, I pull".[6] _Helkustinda_ and _efelkustinda_ seem to have been ordinary versions of tug of war, while _dielkustinda_ had no rope, according to Julius Pollux.[7] It is possible that the teams held hands when pulling, which would have increased difficulty, since handgrips are more difficult to sustain than a grip of a rope. Tug of war games in ancient Greece were among the most popular games used for strength and would help build strength needed for battle in full armor.[8]
 
 Archeological evidence shows that tug of war was also popular in India in the 12th century:
 
-Tug_of_war,_at_Pushkar_Fair,_Rajasthan.jpg, Rajasthan, India]] Tug of war stories about heroic champions from Scandinavia and Germany circulate Western Europe where Viking warriors pull on animal skins over open pits of fire in tests of strength and endurance, in preparation for battle and plunder.
+, Rajasthan, India]] Tug of war stories about heroic champions from Scandinavia and Germany circulate Western Europe where Viking warriors pull on animal skins over open pits of fire in tests of strength and endurance, in preparation for battle and plunder.
 
 1500 and 1600 – tug of war is popularised during tournaments in French châteaux gardens and later in Great Britain
 
@@ -25,7 +25,7 @@ The Mohave people occasionally used tug-of-war matches as means of settling disp
 
 As a sport
 
-1904_tug_of_war.jpg]] There are tug of war clubs in many countries, and both men and women participate.
+]] There are tug of war clubs in many countries, and both men and women participate.
 
 The sport was part of the Olympic Games from 1900 until 1920, but has not been included since. The sport is part of the World Games. The Tug of War International Federation (TWIF), organises World Championships for nation teams biannually, for both indoor and outdoor contests, and a similar competition for club teams.
 
@@ -36,9 +36,9 @@ Between 1976 and 1988 Tug of War was a regular event during the television serie
 
 National organizations
 
-Harvard_tug_of_war_team_1888.jpg Tug of War team, 1888]] The sport is played almost in every country in the world. However, a small selection of countries have set up a national body to govern the sport. Most of these national bodies are associated then with the International governing body call TWIF which stands for The Tug of War International Federation. As of 2008 there are 53 countries associated with TWIF, among which are Scotland, Ireland, England, India, Switzerland, Belgium, Italy,[11] South Africa and the United States.
+Tug of War team, 1888]] The sport is played almost in every country in the world. However, a small selection of countries have set up a national body to govern the sport. Most of these national bodies are associated then with the International governing body call TWIF which stands for The Tug of War International Federation. As of 2008 there are 53 countries associated with TWIF, among which are Scotland, Ireland, England, India, Switzerland, Belgium, Italy,[11] South Africa and the United States.
 
-Gozutenno_tsunahiki.jpg every January.]]
+every January.]]
 
 
 Regional variations
@@ -53,7 +53,7 @@ In Indonesia, _Tarik Tambang_ is a popular sport held in many events, such as th
 
 Japan
 
-Naha_Tug_of_War.jpg In Japan, the tug of war (綱引き/Tsunahiki in Japanese) is a staple of school sports festivals. The tug-of-war is also a traditional way to pray for a plentiful harvest throughout Japan and is a popular ritual around the country. The Kariwano Tug-of-war in Daisen, Akita, is said to be more than 500 years old, and is also a national folklore cultural asset.[15] The Underwater Tug-of-War Festival in Mihama, Fukui is 380 years old, and takes place every January.[16] The Sendai Great Tug of War in Satsumasendai, Kagoshima is known as _Kenka-zuna_ or "brawl tug".[17] Around 3,000 men pull a huge rope which is long. The event is said to have been started by feudal warlord Yoshihiro Shimadzu, with the aim of boosting the morale of his soldiers before the decisive Battle of Sekigahara in 1600. Nanba Hachiman Jinja's tug-of-war, which started in the Edo period, is Osaka's folklore cultural asset.[18] The Naha Tug-of-war in Okinawa is also famous.
+In Japan, the tug of war (綱引き/Tsunahiki in Japanese) is a staple of school sports festivals. The tug-of-war is also a traditional way to pray for a plentiful harvest throughout Japan and is a popular ritual around the country. The Kariwano Tug-of-war in Daisen, Akita, is said to be more than 500 years old, and is also a national folklore cultural asset.[15] The Underwater Tug-of-War Festival in Mihama, Fukui is 380 years old, and takes place every January.[16] The Sendai Great Tug of War in Satsumasendai, Kagoshima is known as _Kenka-zuna_ or "brawl tug".[17] Around 3,000 men pull a huge rope which is long. The event is said to have been started by feudal warlord Yoshihiro Shimadzu, with the aim of boosting the morale of his soldiers before the decisive Battle of Sekigahara in 1600. Nanba Hachiman Jinja's tug-of-war, which started in the Edo period, is Osaka's folklore cultural asset.[18] The Naha Tug-of-war in Okinawa is also famous.
 
 Korea
 
@@ -85,7 +85,7 @@ In the USA - A form of Tug of War using 8 handles is used in competition at camp
 
 Miami University
 
-GW_Puddle_Pull_031.jpg]] Puddle Pull is a biannual tug of war contest held at Miami University. The current event is a timed, seated variation of tug of war in which Fraternities & Sororities compete. In addition to the seated participants, each team has a caller who coordinates the movements of the team.
+]] Puddle Pull is a biannual tug of war contest held at Miami University. The current event is a timed, seated variation of tug of war in which Fraternities & Sororities compete. In addition to the seated participants, each team has a caller who coordinates the movements of the team.
 
 Although the university did host an unrelated freshman vs. sophomores tug of war event in the 1910s and 1920s, the first record of modern Puddle Pull is its appearance as a tug of war event in the school's newspaper, The Miami Student, in May 1949.[24] This fraternity event was created by Frank Dodd of the Miami Chapter of Delta Upsilon. Originally, the event was held as a standing tug of war over the Tallawanda stream near the Oxford waterworks bridge in which the losers were pulled into the water.[25] This first event was later seen as a driving force for creating interfraternity competitive activities (Greek Week) at Miami University.[26] As a part of moving to a seated event, a new rule was created in 1966 to prohibit locks and created the event that is seen today with the exception of a large pit that was still being dug in between the two teams.[27][28] The event is held in a level grass field and uses a 2-inch diameter rope that is at least 50 feet long is used for the event. Footholes or "pits" are dug for each participant at 20-inch intervals. The pits are dug with a flat front and an angled back. Women began to compete sporadically starting in the 1960s and would become regular participants as sorority teams in the mid-1980s.
 
@@ -96,7 +96,7 @@ The Hope College Pull is an annual tug-of-war contest held across the Black Rive
 
 Formal rules
 
-Touwtrekken.jpg Two teams of eight, whose total mass must not exceed a maximum weight as determined for the class, align themselves at the end of a rope approximately in circumference. The rope is marked with a "centre line" and two markings to either side of the centre line. The teams start with the rope's centre line directly above a line marked on the ground, and once the contest (the "pull") has commenced, attempt to pull the other team such that the marking on the rope closest to their opponent crosses the centre line, or the opponents commit a foul.[30]
+Two teams of eight, whose total mass must not exceed a maximum weight as determined for the class, align themselves at the end of a rope approximately in circumference. The rope is marked with a "centre line" and two markings to either side of the centre line. The teams start with the rope's centre line directly above a line marked on the ground, and once the contest (the "pull") has commenced, attempt to pull the other team such that the marking on the rope closest to their opponent crosses the centre line, or the opponents commit a foul.[30]
 
 Lowering one's elbow below the knee during a pull, known as "locking", is a foul, as is touching the ground for extended periods of time. The rope must go under the arms; actions such as pulling the rope over the shoulders may be considered a foul. These rules apply in highly organized competitions such as the World Championships. However, in small or informal entertainment competitions, the rules are often arbitrarily interpreted and followed.[31]
 
@@ -105,7 +105,7 @@ A contest may feature a moat in a neutral zone, usually of mud or softened groun
 
 Tactics
 
-Highland_games_tug_of_war_2.JPG in Stirling]] Aside from the raw muscle power needed for tug of war, it is also a technical sport. The cooperation or "rhythm" of team members play an equally important role in victory, if not more, than their physical strength. To achieve this, a person called a "driver" is used to harmonize the team's joint traction power. He moves up and down next to his team pulling on the rope, giving orders to them when to pull and when to rest (called "hanging"). If he spots the opponents trying to pull his team away, he gives a "hang" command, each member will dig into the grass with his/her boots and movement of the rope is limited. When the opponents are played out, he shouts "pull" and rhythmically waves his hat or handkerchief for his team to pull together. Slowly but surely, the other team is forced into surrender by a runaway pull. Another factor that affects the game that is little known are the players' weights. The heavier someone is, the more static friction their feet have to the ground, and if there isn't enough friction and they weigh too little, even if he/she is pulling extremely hard, the force won't go into the rope. Their feet will simply slide along the ground if their opponent(s) have better static friction with the ground. In general, as long as one team has enough static friction and can pull hard enough to overcome the static friction of their opponent(s), that team can easily win the match.
+in Stirling]] Aside from the raw muscle power needed for tug of war, it is also a technical sport. The cooperation or "rhythm" of team members play an equally important role in victory, if not more, than their physical strength. To achieve this, a person called a "driver" is used to harmonize the team's joint traction power. He moves up and down next to his team pulling on the rope, giving orders to them when to pull and when to rest (called "hanging"). If he spots the opponents trying to pull his team away, he gives a "hang" command, each member will dig into the grass with his/her boots and movement of the rope is limited. When the opponents are played out, he shouts "pull" and rhythmically waves his hat or handkerchief for his team to pull together. Slowly but surely, the other team is forced into surrender by a runaway pull. Another factor that affects the game that is little known are the players' weights. The heavier someone is, the more static friction their feet have to the ground, and if there isn't enough friction and they weigh too little, even if he/she is pulling extremely hard, the force won't go into the rope. Their feet will simply slide along the ground if their opponent(s) have better static friction with the ground. In general, as long as one team has enough static friction and can pull hard enough to overcome the static friction of their opponent(s), that team can easily win the match.
 
 
 Injury risks

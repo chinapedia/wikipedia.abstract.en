@@ -136,7 +136,7 @@ References
 
 -   Mason B., 1962: _Meteorites_. J. Wiley & Sons, New York
 
-Iron-240222.jpg, Guangxi Zhuang Autonomous Region, China. Size: 4.8×3.0×2.8 cm. The Nantan irons, a witnessed fall in 1516, have a composition of 92.35% iron and 6.96% nickel.]]
+, Guangxi Zhuang Autonomous Region, China. Size: 4.8×3.0×2.8 cm. The Nantan irons, a witnessed fall in 1516, have a composition of 92.35% iron and 6.96% nickel.]]
 
 Category:Native element minerals Category:Nickel minerals Category:Iron minerals Category:Meteorite minerals Category:Magnetic minerals Category:Cubic minerals
 

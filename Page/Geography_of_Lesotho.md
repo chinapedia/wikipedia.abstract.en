@@ -10,7 +10,7 @@ Lesotho is a country in Southern Africa, located at around 29°30' south latitud
 
 Physical geography
 
-Lesotho_Malealea.jpg Lesotho can be roughly divided into three geographic regions: the lowlands, following the southern banks of the Caledon River, and in the Senqu river valley; the highlands formed by the Drakensberg and Maloti mountain ranges in the east and central parts of the country; and the foothills that form a divide between the lowlands and the highlands.[7] The lowest elevation in the country is at the junction of the Makhaleng and Orange (Senqu) rivers (at the South African border), which at is the highest lowest point of any country.[8] Lesotho is the only independent state in the world that lies entirely above in elevation.[9] The highest point is the peak of the Thabana Ntlenyana mountain, which reaches an elevation of .[10] Over 80% of Lesotho lies above .[11]
+Lesotho can be roughly divided into three geographic regions: the lowlands, following the southern banks of the Caledon River, and in the Senqu river valley; the highlands formed by the Drakensberg and Maloti mountain ranges in the east and central parts of the country; and the foothills that form a divide between the lowlands and the highlands.[7] The lowest elevation in the country is at the junction of the Makhaleng and Orange (Senqu) rivers (at the South African border), which at is the highest lowest point of any country.[8] Lesotho is the only independent state in the world that lies entirely above in elevation.[9] The highest point is the peak of the Thabana Ntlenyana mountain, which reaches an elevation of .[10] Over 80% of Lesotho lies above .[11]
 
 Even though very little of Lesotho is covered in water, the rivers that run across the country are an important part of Lesotho's economy. Much of the country's export income comes from water, and much of its power comes from hydroelectricity.[12] The Orange River rises in the Drakensberg mountains in northeastern Lesotho and flows across the entire length of the country before exiting to South Africa at the Mohale's Hoek District in the southwest. The Caledon River marks the northwestern part of the border with South Africa. Other rivers include the Malibamatso, Matsoku and Senqunyane.
 
@@ -21,7 +21,7 @@ Solifluction deposits, blockfields, blockstreams and stone garlands can be found
 
 Political geography
 
-Map_of_lesotho.png Lesotho is divided into 10 administrative districts, each with its own capital, called a camptown.[17] The districts are further subdivided into 80 constituencies, which consist of 129 local community councils.[18]
+Lesotho is divided into 10 administrative districts, each with its own capital, called a camptown.[17] The districts are further subdivided into 80 constituencies, which consist of 129 local community councils.[18]
 
 Districts (in alphabetical order):
 
@@ -39,14 +39,14 @@ Districts (in alphabetical order):
 
 Climate
 
-Snowfall_Lesotho_2.jpg]] Because of its altitude, the country remains cooler throughout the year than most other regions at the same latitude. Lesotho has a temperate climate[19], with hot summers and cold winters. Maseru and its surrounding lowlands often reach in the summer.[20] Winters can be cold with the lowlands getting down to and the highlands to at times.[21]
+]] Because of its altitude, the country remains cooler throughout the year than most other regions at the same latitude. Lesotho has a temperate climate[19], with hot summers and cold winters. Maseru and its surrounding lowlands often reach in the summer.[20] Winters can be cold with the lowlands getting down to and the highlands to at times.[21]
 
 The yearly precipitation varies from around in the lowland valleys to around in areas of the northern and eastern escarpment bordering South Africa.[22][23] Most of the rain falls as summer thunderstorms: 85% of the annual precipitation falls between the months of October and April.[24] The winters—between May and September are usually very dry.[25] Snow is common in the deserts and low valleys between May and September; the higher peaks can experience occasional significant snowfall year-round.[26] Annual variance in rainfall is quite erratic, which leads to periodic droughts in the dry season (May to September) and flooding, which can be severe in the rainy season (October–April).
 
 
 Natural resources
 
-LesothoOMC.png Lesotho is poor in natural resources.[27] Economically the most important resource is water. The Lesotho Highlands Water Project allows exporting water from the Malibamatso, Matsoku, Senqu and Senqunyane rivers to South Africa, while also generating hydroelectric power for Lesotho's needs. As of April 2008, the first phase of the project has been completed.[28] The project already accounts for an estimated five percent of Lesotho's GDP, and when fully completed, it could account for as much as 20 percent.[29]
+Lesotho is poor in natural resources.[27] Economically the most important resource is water. The Lesotho Highlands Water Project allows exporting water from the Malibamatso, Matsoku, Senqu and Senqunyane rivers to South Africa, while also generating hydroelectric power for Lesotho's needs. As of April 2008, the first phase of the project has been completed.[28] The project already accounts for an estimated five percent of Lesotho's GDP, and when fully completed, it could account for as much as 20 percent.[29]
 
 The main mineral resource is diamonds from the Letseng diamond mine in the Maluti mountain range. The mine produces very few stones, but has the highest dollar ratio per carat of any diamond mine in the world.[30] Other mineral resources include coal, galena, quartz, agate and uranium deposits, but their exploitation is not considered commercially viable.[31] Clay deposits can be found in the country, and are used for producing tiles, bricks and other ceramics.[32]
 

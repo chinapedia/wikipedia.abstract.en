@@ -26,7 +26,7 @@ An early change that separated Runic Danish from the other dialects of Old East 
 
 Old Swedish
 
-Västgötalagen_blad_21.jpg'', the law code of Västergötland, from . It is one of the earliest texts in Swedish written in the Latin script.]] Old Swedish (Swedish: _fornsvenska_) is the term used for the medieval Swedish language. The start date is usually set to 1225 since this is the year that _Västgötalagen_ ("the Västgöta Law") is believed to have been compiled for the first time.[7] It is among the most important documents of the period written in Latin script and the oldest Swedish law codes. Old Swedish is divided into _äldre fornsvenska_ (1225–1375) and _yngre fornsvenska_ (1375–1526), "older" and "younger" Old Swedish[8]. Important outside influences during this time came with the firm establishment of the Christian church and various monastic orders, introducing many Greek and Latin loanwords. With the rise of Hanseatic power in the late 13th and early 14th century, Middle Low German became very influential. The Hanseatic league provided Swedish commerce and administration with a large number of Low German-speaking immigrants. Many became quite influential members of Swedish medieval society, and brought terms from their native languages into the vocabulary. Besides a great number of loanwords for such areas as warfare, trade and administration, general grammatical suffixes and even conjunctions were imported. The League also brought a certain measure of influence from Danish (at the time much more similar than today's language).[9]
+'', the law code of Västergötland, from . It is one of the earliest texts in Swedish written in the Latin script.]] Old Swedish (Swedish: _fornsvenska_) is the term used for the medieval Swedish language. The start date is usually set to 1225 since this is the year that _Västgötalagen_ ("the Västgöta Law") is believed to have been compiled for the first time.[7] It is among the most important documents of the period written in Latin script and the oldest Swedish law codes. Old Swedish is divided into _äldre fornsvenska_ (1225–1375) and _yngre fornsvenska_ (1375–1526), "older" and "younger" Old Swedish[8]. Important outside influences during this time came with the firm establishment of the Christian church and various monastic orders, introducing many Greek and Latin loanwords. With the rise of Hanseatic power in the late 13th and early 14th century, Middle Low German became very influential. The Hanseatic league provided Swedish commerce and administration with a large number of Low German-speaking immigrants. Many became quite influential members of Swedish medieval society, and brought terms from their native languages into the vocabulary. Besides a great number of loanwords for such areas as warfare, trade and administration, general grammatical suffixes and even conjunctions were imported. The League also brought a certain measure of influence from Danish (at the time much more similar than today's language).[9]
 
 Early Old Swedish was markedly different from the modern language in that it had a more complex case structure and also retained the original Germanic three-gender system. Nouns, adjectives, pronouns and certain numerals were inflected in four cases; besides the extant nominative, there were also the genitive (later possessive), dative and accusative. The gender system resembled that of modern German, having masculine, feminine and neuter genders. The masculine and feminine genders were later merged into a _common gender_ with the definite suffix _-en_ and the definite article _den_, in contrast with the neuter gender equivalents _-et_ and _det_. The verb system was also more complex: it included subjunctive and imperative moods and verbs were conjugated according to person as well as number. By the 16th century, the case and gender systems of the colloquial spoken language and the profane literature had been largely reduced to the two cases and two genders of modern Swedish.[10]
 
@@ -34,7 +34,7 @@ A transitional change of the Latin script in the Nordic countries was to spell t
 
 Modern Swedish
 
-Gustav_Vasa_Bible_1541.jpg's Bible from 1541, using Fraktur. The title translated to English reads: "The Bible / That is / The Holy Scripture / in Swedish. Printed in Uppsala. 1541".]]
+'s Bible from 1541, using Fraktur. The title translated to English reads: "The Bible / That is / The Holy Scripture / in Swedish. Printed in Uppsala. 1541".]]
 
 Modern Swedish (Swedish: _nysvenska_) begins with the advent of the printing press and the European Reformation. After assuming power, the new monarch Gustav Vasa ordered a Swedish translation of the Bible. The New Testament was published in 1526, followed by a full Bible translation in 1541, usually referred to as the _Gustav Vasa Bible_, a translation deemed so successful and influential that, with revisions incorporated in successive editions, it remained the most common Bible translation until 1917. The main translators were Laurentius Andreæ and the brothers Laurentius and Olaus Petri.[13]
 
@@ -65,7 +65,7 @@ There is considerable migration between the Nordic countries, but owing to the s
 
 Official status
 
-Oikokatu.JPG/Swedish street sign in Helsinki, Finland ]] Swedish is the official main language of Sweden.[36][37] Swedish is also one of two official languages of Finland. In Sweden, it has long been used in local and state government, and most of the educational system, but remained only a _de facto_ primary language with no official status in law until 2009. A bill was proposed in 2005 that would have made Swedish an official language, but failed to pass by the narrowest possible margin (145–147) due to a pairing-off failure.[38] A proposal for a broader language law, designating Swedish as the main language of the country and bolstering the status of the minority languages, was submitted by an expert committee to the Swedish Ministry of Culture in March 2008. It was subsequently enacted by the Riksdag, and entered into effect on 1 July 2009.[39]
+/Swedish street sign in Helsinki, Finland ]] Swedish is the official main language of Sweden.[36][37] Swedish is also one of two official languages of Finland. In Sweden, it has long been used in local and state government, and most of the educational system, but remained only a _de facto_ primary language with no official status in law until 2009. A bill was proposed in 2005 that would have made Swedish an official language, but failed to pass by the narrowest possible margin (145–147) due to a pairing-off failure.[38] A proposal for a broader language law, designating Swedish as the main language of the country and bolstering the status of the minority languages, was submitted by an expert committee to the Swedish Ministry of Culture in March 2008. It was subsequently enacted by the Riksdag, and entered into effect on 1 July 2009.[39]
 
 Swedish is the sole official language of Åland (an autonomous province under the sovereignty of Finland), where the vast majority of the 26,000 inhabitants speak Swedish as a first language. In Finland as a whole, Swedish is one of the two "national" languages, with the same official status as Finnish (spoken by the majority) at the state level and an official language in some municipalities.
 
@@ -73,7 +73,7 @@ Swedish is one of the official languages of the European Union, and one of the w
 
 Regulatory bodies
 
-Estonian_archipelago_(Saaremaa_and_Hiiumaa).jpg which formerly housed "_Coastal Swede_" populations]]
+which formerly housed "_Coastal Swede_" populations]]
 
 The Swedish Language Council (_Språkrådet_) is the regulator of Swedish in Sweden but does not attempt to enforce control of the language, as for instance the _Académie française_ does for French. However, many organizations and agencies require the use of the council's publication _Svenska skrivregler_ in official contexts, with it otherwise being regarded as a _de facto_ orthographic standard. Among the many organizations that make up the Swedish Language Council, the Swedish Academy (established 1786) is arguably the most influential. Its primary instruments are the glossary _Svenska Akademiens ordlista_ (_SAOL_, currently in its 14th edition) and the dictionary _Svenska Akademiens Ordbok_, in addition to various books on grammar, spelling and manuals of style. Although the dictionaries have a prescriptive element, they mainly describe current usage.[42]
 
@@ -87,8 +87,6 @@ From 1918–1940, when Estonia was independent, the small Swedish community was 
 
 
 Phonology
-
-Swedish_monophthongs_chart.svg
 
 Swedish dialects have either 17 or 18 vowel phonemes, 9 long and 9 short. As in the other Germanic languages, including English, most long vowels are phonetically paired with one of the short vowels, and the pairs are such that the two vowels are of similar quality, but with the short vowel being slightly lower and slightly centralized. In contrast to e.g. Danish, which has only tense vowels, the short vowels are slightly more lax, but the tense vs. lax contrast is not nearly as pronounced as in English, German or Dutch. In most dialects, the short vowel sound pronounced or has merged with the short (transcribed in the chart below).[46]
 
@@ -199,7 +197,7 @@ In Swedish orthography, the colon is used in a similar manner as in English, wit
 
 Dialects
 
-R-pronounciation_in_Swedish_language.JPG for the pronunciation of "R" (c. 1960), being alveolar north of the boundary and uvular ("French R") south of it. It follows that the R+S combination is pronounced as spelled south of the boundary, while pronounced (similar to "sh" in "shark") north of it. This isogloss is the most imperative of all Swedish pronunciation differences.]] According to a traditional division of Swedish dialects, there are six main groups of dialects:[71][72]
+for the pronunciation of "R" (c. 1960), being alveolar north of the boundary and uvular ("French R") south of it. It follows that the R+S combination is pronounced as spelled south of the boundary, while pronounced (similar to "sh" in "shark") north of it. This isogloss is the most imperative of all Swedish pronunciation differences.]] According to a traditional division of Swedish dialects, there are six main groups of dialects:[71][72]
 
 -   Norrland dialects
 -   Finland Swedish
@@ -213,8 +211,6 @@ The traditional definition of a Swedish dialect has been a local variant that ha
 This type of classification, however, is based on a somewhat romanticized nationalist view of ethnicity and language. The idea that only rural variants of Swedish should be considered "genuine" is not generally accepted by modern scholars. No dialects, no matter how remote or obscure, remained unchanged or undisturbed by a minimum of influences from surrounding dialects or the standard language, especially not from the late 19th century onwards with the advent of mass media and advanced forms of transport. The differences are today more accurately described by a scale that runs from "standard language" to "rural dialect" where the speech even of the same person may vary from one extreme to the other depending on the situation. All Swedish dialects with the exception of the highly diverging forms of speech in Dalarna, Norrbotten and, to some extent, Gotland can be considered to be part of a common, mutually intelligible dialect continuum. This continuum may also include Norwegian and some Danish dialects.[74]
 
 The samples linked below have been taken from SweDia, a research project on Swedish modern dialects available for download (though with information in Swedish only), with many more samples from 100 different dialects with recordings from four different speakers: older female, older male, younger female and younger male. The dialect groups are those traditionally used by dialectologists.[75]
-
-Map_of_Swedish_dialects.png
 
 1.  Överkalix, Norrbotten; younger female
 2.  Burträsk, Västerbotten; older female

@@ -17,11 +17,11 @@ However, the dispute between Alexander III, Antipope Victor IV and his successor
 
 Alexander's politics
 
-B_alexander_III2.jpg submits to the authority of Pope Alexander III (fresco in the Palazzo Pubblico in Siena, by Spinello Aretino).]]
+submits to the authority of Pope Alexander III (fresco in the Palazzo Pubblico in Siena, by Spinello Aretino).]]
 
 Alexander III was the first pope known to have paid direct attention to missionary activities east of the Baltic Sea. He had created the Archbishopric of Uppsala in Sweden in 1164,[14] probably at the suggestion of his close friend Eskil, Archbishop of Lund – exiled in Clairvaux, France, due to a conflict with the Danish king. The latter appointed a Benedictine monk Fulco as a bishop in Estonia. In 1171, Alexander became the first pope to address the situation of the Church in Finland, with Finns allegedly harassing priests and only relying on God in time of war.[15] In the bull _Non parum animus noster_, in 1171 or 1172, he gave papal sanction to ongoing crusades against pagans in northern Europe, promising remission of sin for those who fought there. In doing so, he legitimized the widespread use of forced conversion as a tactic by those fighting in the Baltic.[16]
 
-Sala_de_Reis_-_Mosteiro_de_Alcobaça.JPG crowning Afonso I King of Portugal, in the Alcobaça Monastery]] Besides checkmating Barbarossa, Alexander humbled King Henry II of England for the murder of Thomas Becket in 1170, to whom he was unusually close, later canonizing Becket in 1173.[17] This was the second English saint canonized by Alexander, the first being Edward the Confessor in 1161.[18] Nonetheless, he confirmed the position of Henry as Lord of Ireland in 1172.
+crowning Afonso I King of Portugal, in the Alcobaça Monastery]] Besides checkmating Barbarossa, Alexander humbled King Henry II of England for the murder of Thomas Becket in 1170, to whom he was unusually close, later canonizing Becket in 1173.[17] This was the second English saint canonized by Alexander, the first being Edward the Confessor in 1161.[18] Nonetheless, he confirmed the position of Henry as Lord of Ireland in 1172.
 
 In March 1177, on his way to Venice to meet the Emperor, Alexander spent four days in the city of Zadar on the Dalmatian coast. Zadar was at that time a vassal of the Republic of Venice.[19]
 

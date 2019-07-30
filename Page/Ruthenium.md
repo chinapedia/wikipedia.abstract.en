@@ -5,8 +5,6 @@ Characteristics
 
 Physical properties
 
-Ruthenium_crystals.jpg
-
 Ruthenium, a polyvalent hard white metal, is a member of the platinum group and is in group 8 of the periodic table:
 
   Z     Element     No. of electrons/shell
@@ -80,7 +78,7 @@ Ruthenium trichloride is a well-known compound, existing in a black α-form and 
 
 Coordination and organometallic complexes
 
-Tris(bipyridine)ruthenium(II)-chloride-powder.jpg Grubbs_catalyst_Gen2.svg reactions.]] Ruthenium forms a variety of coordination complexes. Examples are the many pentammine derivatives [Ru(NH₃)₅L]^(n+) that often exist for both Ru(II) and Ru(III). Derivatives of bipyridine and terpyridine are numerous, best known being the luminescent tris(bipyridine)ruthenium(II) chloride.
+reactions.]] Ruthenium forms a variety of coordination complexes. Examples are the many pentammine derivatives [Ru(NH₃)₅L]^(n+) that often exist for both Ru(II) and Ru(III). Derivatives of bipyridine and terpyridine are numerous, best known being the luminescent tris(bipyridine)ruthenium(II) chloride.
 
 Ruthenium forms a wide range compounds with carbon-ruthenium bonds. Grubbs' catalyst is used for alkene metathesis.[45] Ruthenocene is analogous to ferrocene structurally, but exhibits distinctive redox properties. The colorless liquid ruthenium pentacarbonyl converts in the absence of CO pressure to the dark red solid triruthenium dodecacarbonyl. Ruthenium trichloride reacts with carbon monoxide to give many derivatives including RuHCl(CO)(PPh₃)₃ and Ru(CO)₂(PPh₃)₃ (Roper's complex). Heating solutions of ruthenium trichloride in alcohols with triphenylphosphine gives tris(triphenylphosphine)ruthenium dichloride (RuCl₂(PPh₃)₃), which converts to the hydride complex chlorohydridotris(triphenylphosphine)ruthenium(II) (RuHCl(PPh₃)₃).[46]
 
@@ -110,7 +108,7 @@ Ruthenium tetroxide exposes latent fingerprints by reacting on contact with fatt
 
 Catalysis
 
-Ru-intercalated_halloysite_nanotubes_3.jpg nanotubes intercalated with ruthenium catalytic nanoparticles.[83]]] Many ruthenium-containing compounds exhibit useful catalytic properties. The catalysts are conveniently divided into those that are soluble in the reaction medium, homogeneous catalysts, and those that are not, which are called heterogeneous catalysts.
+nanotubes intercalated with ruthenium catalytic nanoparticles.[83]]] Many ruthenium-containing compounds exhibit useful catalytic properties. The catalysts are conveniently divided into those that are soluble in the reaction medium, homogeneous catalysts, and those that are not, which are called heterogeneous catalysts.
 
 Ruthenium nanoparticles can be formed inside halloysite. This abundant mineral naturally has a structure of rolled nanosheets (nanotubes), which can support both the Ru nanocluster synthesis and its products for subsequent use in industrial catalysis.[84]
 
@@ -118,11 +116,11 @@ Homogeneous catalysis
 
 Solutions containing ruthenium trichloride are highly active for olefin metathesis. Such catalysts are used commercially for the production of polynorbornene for example.[85] Well defined ruthenium carbene and alkylidene complexes show comparable reactivity and provide mechanistic insights into the industrial processes.[86] The Grubbs' catalysts for example have been employed in the preparation of drugs and advanced materials.
 
-    Polynbornene.png reaction giving polynorbornene..]]
+    reaction giving polynorbornene..]]
 
 Ruthenium complexes are highly active catalysts for transfer hydrogenations (sometimes referred to as "borrowing hydrogen" reactions). This process is employed for the enantioselective hydrogenation of ketones, aldehydes, and imines. This reaction exploits using chiral ruthenium complexes introduced by Ryoji Noyori.[87] For example, (cymene)Ru(S,S-TsDPEN) catalyzes the hydrogenation of benzil into (_R,R_)-hydrobenzoin. In this reaction, formate and water/alcohol serve as the source of H₂:[88][89]
 
-    RuCl(S,S-TsDPEN)(cymene)-catalysed_R,R-hydrobenzoin_synthesis.svg >99%)]]
+     >99%)]]
 
 A Nobel Prize in Chemistry was awarded in 2001 to Ryōji Noyori for contributions to the field of asymmetric hydrogenation.
 

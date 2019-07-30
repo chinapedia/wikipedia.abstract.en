@@ -1,4 +1,4 @@
-Apple_Power_Macintosh_G5_Late_2005_02.jpg, the last model of the series.]] The POWER MACINTOSH, later POWER MAC, is a family of personal computers designed, manufactured, and sold by Apple Computer, Inc. as part of its Macintosh brand from March 1994 until August 2006.
+, the last model of the series.]] The POWER MACINTOSH, later POWER MAC, is a family of personal computers designed, manufactured, and sold by Apple Computer, Inc. as part of its Macintosh brand from March 1994 until August 2006.
 
 Described by MacWorld Magazine as "The most important technical evolution of the Macintosh since the Mac II debuted in 1987,"[1] the Power Macintosh was Apple's first computer to use a PowerPC processor. Software written for the Motorola 68030 and 68040 processors that were used in Macintoshes up to that point would not run on the PowerPC natively, so a Mac 68k emulator was included with System 7.1.2. While the emulator provided good compatibility with existing Macintosh software, performance was about one-third slower than comparable Macintosh Quadra machines.[2]
 
@@ -17,7 +17,7 @@ By early 1990, Apple was in contact with a number of RISC vendors to find a suit
 
 Apple had initially looked at processors such as those from MIPS Technologies, Sun, and Acorn Computers (whose ARM architecture RISC processors would end up being used in the 1993 Apple Newton, 2001 iPod, and 2007 iPhone), as well as the Intel i860. Negotiations with Sun included the condition that Sun would use the Macintosh interface for its SPARC workstation computers in exchange for Apple using Sun's SPARC processors in Macintosh workstations; the deal fell through due to Apple's concern that Sun could not produce enough processors. Negotiations with MIPS to use the R4000 processor also included the condition that the Macintosh interface would be available as an alternative to Advanced Computing Environment. This deal also fell through due to Microsoft being a major partner in the ACE Consortium, as well as concerns about manufacturing capability. The Intel i860 was eliminated from consideration due to its high complexity. Apple did not consider IBM's POWER1 processor as an option, believing that IBM would not be willing to license it to third parties.
 
-Motorola_XC88110RS50G_CPU_overhead_view.jpg In mid-1990, Apple chose the Motorola 88110, an as yet unfinished chip that combined the 88100 CPU and 88200 FPU into a single package. For the rest of the year, Apple's engineers developed a 68k emulator that would work with this future chip. This project became known as "RLC", short form "RISC LC", a play on the name of Apple's upcoming Macintosh LC computer. By January 1991, the engineering team had produced a prototype of a Macintosh LC with its 68020 CPU being swapped out for an 88100 and a 68020 emulator. This prototype was able to use an unmodified Macintosh Toolbox ROM and could boot into System 7. A few months later, a second prototype was created, utilizing a Macintosh IIsi case with the now-completed Motorola 88100 chip.
+In mid-1990, Apple chose the Motorola 88110, an as yet unfinished chip that combined the 88100 CPU and 88200 FPU into a single package. For the rest of the year, Apple's engineers developed a 68k emulator that would work with this future chip. This project became known as "RLC", short form "RISC LC", a play on the name of Apple's upcoming Macintosh LC computer. By January 1991, the engineering team had produced a prototype of a Macintosh LC with its 68020 CPU being swapped out for an 88100 and a 68020 emulator. This prototype was able to use an unmodified Macintosh Toolbox ROM and could boot into System 7. A few months later, a second prototype was created, utilizing a Macintosh IIsi case with the now-completed Motorola 88100 chip.
 
 Jaguar wasn't initially intended to be a high-volume mainstream system. Instead, mass-market RISC systems would follow sometime later. After Gassée left Apple in early 1990, the goal of the Jaguar project was refocused to be a mainstream Macintosh system instead of a new platform. The Jaguar project was folded into the Macintosh team in early 1991. While the Jaguar project itself never came to fruition, and Taligent never resulted in a functional operating system, many of the elements originally developed by the Jaguar hardware and software teams were brought to market in mid-1993 with the Centris 660AV and Quadra 840AV, including the Apple Adjustable Keyboard, Apple AudioVision 14 Display, GeoPort, and PlainTalk.[8] The new case designs introduced with the Centris 610 and Quadra 800 had also originated in the Jaguar team.
 
@@ -35,7 +35,7 @@ The first public demonstration of the new Power Macintosh — specifically, a pr
 
 Release and reception (1994-1995)
 
-Power_Macintosh_8100-80AV_-_front.jpg The original plan was to release the first Power Macintosh machine on January 24, 1994, exactly ten years after the release of the first Macintosh. Ian Diery, who was EVP and general manager of the Personal Computer Division at the time, moved the release date back to March 14 in order to give manufacturing enough time to build enough machines to fill the sales channels, and to ensure that the Macintosh Processor Upgrade Card would be available at the same time. This was a departure from prior practice at Apple; they had typically released upgrade packages months after the introduction of new Macintoshes.
+The original plan was to release the first Power Macintosh machine on January 24, 1994, exactly ten years after the release of the first Macintosh. Ian Diery, who was EVP and general manager of the Personal Computer Division at the time, moved the release date back to March 14 in order to give manufacturing enough time to build enough machines to fill the sales channels, and to ensure that the Macintosh Processor Upgrade Card would be available at the same time. This was a departure from prior practice at Apple; they had typically released upgrade packages months after the introduction of new Macintoshes.
 
 The Power Macintosh was formally introduced at the Lincoln Center for the Performing Arts in Manhattan on March 14. Pre-orders for the new Power Macintosh models were brisk, with an announced 150,000 machines already having been sold by that date.[13] MacWorld's review of the 6100/60 noted that "Not only has Apple finally regained the performance lead it lost about eight years ago when PCs appeared using Intel's 80386 CPU, but it has pushed far ahead."[14] Performance of 680x0 software is slower due to the emulation layer, but MacWorld's benchmarks showed noticeably faster CPU, disk, video and floating point performance than the Quadra 610 it replaced. By January 1995, Apple had sold 1 million Power Macintosh systems.
 
@@ -45,7 +45,7 @@ By mid-1995, the burgeoning Power Macintosh line had all but completely supplant
 
 Transition to standardized hardware (1995-1999)
 
-Apple_Power_PC_7500_100_MHz_6886.jpg When the Power Macintosh was introduced, it included the same internal and external expansion connections as other Macintosh models, all of which (save for audio input and output) were either wholly proprietary to, or largely exclusive to Apple computers. Over the next five years, Apple replaced all these ports with industry-standard connectors.
+When the Power Macintosh was introduced, it included the same internal and external expansion connections as other Macintosh models, all of which (save for audio input and output) were either wholly proprietary to, or largely exclusive to Apple computers. Over the next five years, Apple replaced all these ports with industry-standard connectors.
 
 The first generation of Power Macintoshes had shipped with NuBus, but by the end of 1993 it was becoming clear that Intel's PCI bus was going to be the widely adopted future of internal expansion.[17] Apple's position as a relatively small player in the larger personal computer market meant that few device manufacturers invested in creating both NuBus- and PCI-compatible versions of their cards. The first PCI-based system was the range-topping Power Macintosh 9500, introduced in May 1995. This was followed shortly afterwards by the introduction of the "Power Surge" line of second-generation Power Macintosh systems – the Power Macintosh 7200, 7500 and 8500. The 8500 and 9500 were built around the new PowerPC 604, offering speeds starting at 120 MHz.[18] InfoWorld's review of the 8500 showed a speed improvement in their "business applications suite" benchmark from 10 minutes with the 8100/100, to 7:37 for the 8500/120. They also noted that the 8500 runs an average of 24 to 44 percent faster than a similarly-clocked Intel Pentium chip, increasing to double on graphics and publishing tasks.
 
@@ -59,7 +59,7 @@ The Power Mac G4 (AGP Graphics) was released in the second half of 1999; it was 
 
 Industrial design and the Megahertz Myth (1999-2002)
 
-PowerMac_Cube.jpg, Harman Kardon speakers, keyboard, and mouse.]] Shortly after Steve Jobs' return to Apple in 1997, Jony Ive was appointed senior vice president of industrial design. Building on the critical and commercial success of the iMac, Ive and his team created an entirely new case design for the Power Macintosh G3, combining many of the aesthetic principles of the iMac (curves, translucent plastics, use of color) with the ease-of-access characteristics of the company's popular "Outrigger" Macintosh models from previous years. The result was the Power Macintosh G3 (Blue and White), a machine that received considerable plaudits from reviewers, including PC Magazine's Technical Excellence Award for 1999.[22] "The Power Mac provides the fastest access to the insides of a computer we've ever seen," they wrote. "Just lift a handle and a hinged door reveals everything inside." This case design, code-named "El Capitan",[23] was retained through the entire lifetime of the Power Mac G4. The introduction of the Blue and White G3 mini-tower also marked the end of the desktop and all-in-one Power Macintosh case designs, the latter being replaced by the iMac.
+, Harman Kardon speakers, keyboard, and mouse.]] Shortly after Steve Jobs' return to Apple in 1997, Jony Ive was appointed senior vice president of industrial design. Building on the critical and commercial success of the iMac, Ive and his team created an entirely new case design for the Power Macintosh G3, combining many of the aesthetic principles of the iMac (curves, translucent plastics, use of color) with the ease-of-access characteristics of the company's popular "Outrigger" Macintosh models from previous years. The result was the Power Macintosh G3 (Blue and White), a machine that received considerable plaudits from reviewers, including PC Magazine's Technical Excellence Award for 1999.[22] "The Power Mac provides the fastest access to the insides of a computer we've ever seen," they wrote. "Just lift a handle and a hinged door reveals everything inside." This case design, code-named "El Capitan",[23] was retained through the entire lifetime of the Power Mac G4. The introduction of the Blue and White G3 mini-tower also marked the end of the desktop and all-in-one Power Macintosh case designs, the latter being replaced by the iMac.
 
 A second model called the Power Mac G4 Cube was introduced in 2000, which fitted the specifications of a mid-range Power Mac G4 into a cube less than 9" in each axis. This model was on sale for about a year before being discontinued, and was not considered a sales success (150,000 units were sold, about one-third of Apple's projections),[24] but the distinctive design of both the computer and its accompanying Harman Kardon speakers prompted the Museum of Modern Art in New York City to retain them in their collection.[25]
 
@@ -96,7 +96,7 @@ These early models had two distinct generations. The first generation uses the P
 
 PM 4400
 
-Power_Macintosh_7220.jpg The PM 4400 is a desktop case with a height of , suitable for horizontal placement with a monitor on top.
+The PM 4400 is a desktop case with a height of , suitable for horizontal placement with a monitor on top.
 
 -   Power Macintosh 4400/160, 200, 200 (PC Compatible) (Marketed as the Power Macintosh 7220 in some regions)
 
@@ -112,7 +112,7 @@ The PM 5200 is an all-in-one form factor with specifications and internal design
 
 Centris 610
 
-Power_Macintosh_6100-66.jpg, a version of the first Macintosh to use a PowerPC processor.]] The Centris 610 form factor is a low-profile "pizza-box" design with a height of , intended to be placed on a desktop with a monitor on top.
+, a version of the first Macintosh to use a PowerPC processor.]] The Centris 610 form factor is a low-profile "pizza-box" design with a height of , intended to be placed on a desktop with a monitor on top.
 
 -   Power Macintosh 6100/60, 60AV, 66, 66AV, 66 (DOS Compatible)
 
@@ -132,7 +132,7 @@ The Performa 6400 form factor is a mini-tower design, suitable for being placed 
 
 IIvx
 
-Power_Macintosh_7100_66.jpg The IIvx form factor is a horizontally-oriented desktop form factor with a height of , suitable for placing a monitor on top.
+The IIvx form factor is a horizontally-oriented desktop form factor with a height of , suitable for placing a monitor on top.
 
 -   Power Macintosh 7100/66, 66AV, 80, 80AV
 
@@ -147,7 +147,7 @@ The PM 7500 form factor is a horizontally-oriented desktop design with a height 
 
 Quadra 800
 
-The Quadra 800 form factor is a mini-tower design, with a width of . Power-Macintosh-8100-80av.jpg, the first Power Macintosh based on the Quadra 800 form factor.]]
+The Quadra 800 form factor is a mini-tower design, with a width of . , the first Power Macintosh based on the Quadra 800 form factor.]]
 
 -   Power Macintosh 8100/80, 80AV, 100, 100AV, 110, 110AV
 -   Power Macintosh 8115/110

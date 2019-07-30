@@ -1,5 +1,3 @@
-Ketone-group-2D-skeletal.svg
-
 In chemistry, a KETONE is a functional group with the structure RC(=O)R', where R and R' can be a variety of carbon-containing substituents. Ketones and aldehydes are simple compounds that contain a carbonyl group (a carbon-oxygen double bond). They are considered "simple" because they do not have reactive groups like −OH or −Cl attached directly to the carbon atom in the carbonyl group, as in carboxylic acids containing −COOH.[1] Many ketones are known and many are of great importance in industry and in biology. Examples include many sugars (ketoses) and the industrial solvent acetone, which is the smallest ketone.
 
 
@@ -16,7 +14,7 @@ Although used infrequently, _oxo_ is the IUPAC nomenclature for a ketone functio
 
 Structure and properties
 
-KetoneVarietyPack.png, a common solvent; oxaloacetate, an intermediate in the metabolism of sugars; acetylacetone in its (mono) enol form (the enol highlighted in blue); cyclohexanone, precursor to nylon; muscone, an animal scent; and tetracycline, an antibiotic.]]
+, a common solvent; oxaloacetate, an intermediate in the metabolism of sugars; acetylacetone in its (mono) enol form (the enol highlighted in blue); cyclohexanone, precursor to nylon; muscone, an animal scent; and tetracycline, an antibiotic.]]
 
 The ketone carbon is often described as "sp² hybridized", a description that includes both their electronic and molecular structure. Ketones are trigonal planar around the ketonic carbon, with C−C−O and C−C−C bond angles of approximately 120°. Ketones differ from aldehydes in that the carbonyl group (CO) is bonded to two carbons within a carbon skeleton. In aldehydes, the carbonyl is bonded to one carbon and one hydrogen and are located at the ends of carbon chains. Ketones are also distinct from other carbonyl-containing functional groups, such as carboxylic acids, esters and amides.[5]
 
@@ -40,7 +38,7 @@ Many ketones are cyclic. The simplest class have the formula (CH₂)_(_n_)CO, wh
 
 Keto-enol tautomerization
 
-Keto_enol_tautomerism.svg Ketones that have at least one alpha-hydrogen, undergo keto-enol tautomerization; the tautomer is an enol. Tautomerization is catalyzed by both acids and bases. Usually, the keto form is more stable than the enol. This equilibrium allows ketones to be prepared via the hydration of alkynes.
+Ketones that have at least one alpha-hydrogen, undergo keto-enol tautomerization; the tautomer is an enol. Tautomerization is catalyzed by both acids and bases. Usually, the keto form is more stable than the enol. This equilibrium allows ketones to be prepared via the hydration of alkynes.
 
 Acid/base properties of ketones
 
@@ -100,7 +98,7 @@ Many other methods have been developed, examples include:[9]
 
 Reactions
 
-Haller-Bauer_reaction.png Ketones engage in many organic reactions. The most important reactions follow from the susceptibility of the carbonyl carbon toward nucleophilic addition and the tendency for the enolates to add to electrophiles. Nucleophilic additions include in approximate order of their generality:[25]
+Ketones engage in many organic reactions. The most important reactions follow from the susceptibility of the carbonyl carbon toward nucleophilic addition and the tendency for the enolates to add to electrophiles. Nucleophilic additions include in approximate order of their generality:[25]
 
 -   With water (hydration) gives geminal diols, which are usually not formed in appreciable (or observable) amounts
 -   With an acetylide to give the α-hydroxyalkyne

@@ -5,7 +5,7 @@ At the start of June, the sun rises in the constellation of Taurus; at the end o
 
 Etymology and history
 
-Flaming_June,_by_Frederic_Lord_Leighton_(1830-1896).jpg'' (1895) by Lord Leighton]] The Latin name for June is _Junius_. Ovid offers multiple etymologies for the name in the _Fasti_, a poem about the Roman calendar. The first is that the month is named after the Roman goddess Juno, the goddess of marriage and the wife of the supreme deity Jupiter; the second is that the name comes from the Latin word _iuniores_, meaning "younger ones", as opposed to _maiores_ ("elders") for which the preceding month May _(Maius)_ may be named.[4] Another source claims June is named after Lucius Junius Brutus, founder of the roman Republic and ancestor of the Roman gens Junia [5].
+'' (1895) by Lord Leighton]] The Latin name for June is _Junius_. Ovid offers multiple etymologies for the name in the _Fasti_, a poem about the Roman calendar. The first is that the month is named after the Roman goddess Juno, the goddess of marriage and the wife of the supreme deity Jupiter; the second is that the name comes from the Latin word _iuniores_, meaning "younger ones", as opposed to _maiores_ ("elders") for which the preceding month May _(Maius)_ may be named.[4] Another source claims June is named after Lucius Junius Brutus, founder of the roman Republic and ancestor of the Roman gens Junia [5].
 
 In ancient Rome, the period from mid-May through mid-June was considered inauspicious for marriage. Ovid says that he consulted the Flaminica Dialis, the high priestess of Jupiter, about setting a date for his daughter's wedding, and was advised to wait till after June 15.[6] Plutarch, however, implies that the entire month of June was more favorable for weddings than May.[7]
 
@@ -18,7 +18,7 @@ Under the calendar of ancient Rome, the festival of Ludi Fabarici took place on 
 
 Events in June
 
-Les_Très_Riches_Heures_du_duc_de_Berry_juin.jpg Juni_Leandro_Bassono.jpg]] Band_Trooping_the_Colour,_16th_June_2007.jpg is celebrated in June in London]]
+]] is celebrated in June in London]]
 
 Month-long observances
 
@@ -462,8 +462,8 @@ Fixed Gregorian observances
 
 June symbols
 
--   Strand-of-akoya-pearls.jpg]]Alexandrite_26.75ctsCropped.jpg]]Moonstone-sample2.jpg]]June's birthstones are pearl, alexandrite and moonstone.
--   Rose_Gaujard_in_NHRG.jpg Gaujard]]Honeysuckle_w_y.jpg]]The birth flowers are rose and honeysuckle.
+-   ]]]]]]June's birthstones are pearl, alexandrite and moonstone.
+-   Gaujard]]]]The birth flowers are rose and honeysuckle.
 -   The zodiac signs for the month of June are Gemini (until June 20) and Cancer (from June 21 onwards).
 
 

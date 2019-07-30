@@ -14,7 +14,7 @@ The internationally award-winning main campus in Nydalen (Oslo)[6] was designed 
 
 Norsk Kundebarometer
 
-Norsk Kundebarometer (NKB) () is a research program run by BI, with a focus on relations between customers and businesses. Based on an annual survey of Norwegian households, it collects data that may be used for comparison between businesses, comparisons between various industries, and comparisons over time.[8] BI Lecture
+Norsk Kundebarometer (NKB) () is a research program run by BI, with a focus on relations between customers and businesses. Based on an annual survey of Norwegian households, it collects data that may be used for comparison between businesses, comparisons between various industries, and comparisons over time.[8]
 
 Campuses in Norway
 
@@ -25,7 +25,7 @@ Campuses in Norway
 
 Activities abroad
 
-BI has educated roughly 1700 students in China[13] through its close relationship with Fudan University in Shanghai, and is also the majority shareholder of the ISM University of Management and Economics (previously known as International School of Management) with around 1800 students located in Vilnius and Kaunas in Lithuania.[14] 7DM29184.jpg
+BI has educated roughly 1700 students in China[13] through its close relationship with Fudan University in Shanghai, and is also the majority shareholder of the ISM University of Management and Economics (previously known as International School of Management) with around 1800 students located in Vilnius and Kaunas in Lithuania.[14]
 
 Degree programs
 
@@ -62,7 +62,7 @@ GRADUATE (All taught in English, except MSc in Accounting & Auditing and MSc in 
 -   MSc in Accounting & Auditing (taught in Norwegian)
 -   MSc in Law & Business (taught in Norwegian)
 
-EXECUTIVE MBA (EMBA general management in cooperation with Nanyang Business School (Nanyang Technological University), Singapore and Instituto de Empresa in Madrid, Spain and Haas School of Business (University of California at Berkeley), USA) Indorr.jpg
+EXECUTIVE MBA (EMBA general management in cooperation with Nanyang Business School (Nanyang Technological University), Singapore and Instituto de Empresa in Madrid, Spain and Haas School of Business (University of California at Berkeley), USA)
 
 -   EMBA in Energy Management (in cooperation with Nanyang Business School (Nanyang Technological University), Singapore and IFP, Paris)
 -   EMBA in Shipping, Offshore, and Finance (in cooperation with Nanyang Business School (Nanyang Technological University), Singapore[16]
@@ -71,8 +71,6 @@ EXECUTIVE MBA (EMBA general management in cooperation with Nanyang Business Scho
 -   Master of Management programs in International Management, Project Commercial Management and Project Leadership
 -   Several Executive Master of Management programs, including a relatively new specialization in security and cultural understanding created in cooperation with the Norwegian Armed Forces.[17]
 -   Doctoral Programs (PhD)
-
-KJ1A6328.jpg
 
 Student organizations
 
@@ -96,7 +94,7 @@ BI is accredited as a specialised university institution by the Norwegian Agency
 
 BI has also received the following recognitions from private institutions:
 
--   EQUIS accreditation[25] KJ1A5036_blackandwhite.jpg
+-   EQUIS accreditation[25]
     -   BI was the first Norwegian institution to receive the distinction EQUIS (European Quality Improvement System)[26]
 -   AMBA accreditation[27]
     -   BI was the first Norwegian institution to receive the distinction AMBA[28]

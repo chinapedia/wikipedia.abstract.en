@@ -40,8 +40,6 @@ endfor
 
 Pseudo-random generation algorithm (PRGA)
 
-RC4.svg
-
 For as many iterations as are needed, the PRGA modifies the state and outputs a byte of the keystream. In each iteration, the PRGA:
 
 -   increments

@@ -7,8 +7,6 @@ In 2005, Moldova and EU established an action plan that sought to improve the co
 
 Overview
 
-Diplomatic_relations_of_Moldova.svg
-
 Moldova has established diplomatic relations with 97 states,[1] the Holy See,[2] the Sovereign Military Order of Malta,[3] and the European Union.[4]
 
 Moldova has not yet established diplomatic relations with:
@@ -30,7 +28,7 @@ As regards energy policy, Moldova was an observer to the treaty establishing Ene
 
 Relations with NATO
 
-Stamp_of_Moldova_302.gif and Snegur signing PfP on 16 March 1994]]
+and Snegur signing PfP on 16 March 1994]]
 
 NATO relations with Moldova date back to 1992, when the country joined the North Atlantic Cooperation Council. Moldova works alongside NATO allies and partner countries in a wide range of areas through the Partnership for Peace and the Euro-Atlantic Partnership Council.
 

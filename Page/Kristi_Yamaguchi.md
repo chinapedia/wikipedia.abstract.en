@@ -12,8 +12,6 @@ Yamaguchi began skating and taking ballet lessons, as a child, as physical thera
 
 Skating career
 
-Kristi_Yamaguchi_at_The_Heart_Truth_2009_(cropped).jpg
-
 Pairs career
 
 With Rudy Galindo she won the junior title at the U.S. championships in 1986.[10] Two years later, Yamaguchi won the singles and, with Galindo, the pairs titles at the 1988 World Junior Championships; Galindo had won the 1987 World Junior Championship in singles. In 1989 Yamaguchi and Galindo won the senior pairs title at the U.S. Championships. They won the title again in 1990.
@@ -58,8 +56,6 @@ On July 8, 2000, she married Bret Hedican, a professional hockey player she met 
 
 
 Competitive highlights
-
-Kristi_Yamaguchi’s_Figure_Skates,_1990’s.jpg
 
 Singles
 

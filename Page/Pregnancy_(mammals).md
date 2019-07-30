@@ -1,4 +1,4 @@
-PregnantLioness.jpgess.]] In mammals, PREGNANCY is the period of reproduction during which a female carries one or more live offspring from implantation in the uterus through gestation. It begins when a fertilized zygote implants in the female's uterus, and ends once it leaves the uterus.
+ess.]] In mammals, PREGNANCY is the period of reproduction during which a female carries one or more live offspring from implantation in the uterus through gestation. It begins when a fertilized zygote implants in the female's uterus, and ends once it leaves the uterus.
 
 
 Fertilization and implantation
@@ -7,8 +7,6 @@ During copulation, the male inseminates the female. The spermatozoon fertilizes 
 
 
 Development
-
-Elefetusus.jpg
 
 After implantation
 
@@ -36,8 +34,6 @@ At about 24 days past fertilization, there is a primitive S-shaped tubule heart 
 
 
 Gestation periods
-
-Animal_gestation_calendar_for_horses_-_cows_-_sheep_-_pigs_-1917.tiff
 
 For mammals the GESTATION PERIOD is the time in which a fetus develops, beginning with fertilization and ending at birth.[1] The duration of this period varies between species.
 

@@ -115,7 +115,7 @@ In May 1998 India and Pakistan each exploded several nuclear devices underground
 
 Relations between the two countries are tense and hostile, and the risks of nuclear conflict between them have long been considered quite high. Kashmir is a prime cause of bilateral tension, its sovereignty being in dispute since 1948. There is persistent low level bilateral military conflict due to alleged backing of insurgency by Pakistan in India and infiltration of Pakistani state backed militants in the Indian state of Jammu and Kashmir, along with the disputed status of Kashmir.
 
-Both engaged in a conventional arms race in the 1980s, including sophisticated technology and equipment capable of delivering nuclear weapons. In the 1990s the arms race quickened. In 1994 India reversed a four-year trend of reduced allocations for defence, and despite its much smaller economy, Pakistan was expected to push its own expenditures yet higher. Both have lost their patrons: India, the former USSR, and Pakistan, the United States. Venn_diagram_nuclear_knowledge_sharing.gif But it is the growth and modernization of China's nuclear arsenal and its assistance with Pakistan's nuclear power programme and, reportedly, with missile technology, which exacerbate Indian concerns. In particular, as viewed by Indian strategists, Pakistan is aided by China's People's Liberation Army.
+Both engaged in a conventional arms race in the 1980s, including sophisticated technology and equipment capable of delivering nuclear weapons. In the 1990s the arms race quickened. In 1994 India reversed a four-year trend of reduced allocations for defence, and despite its much smaller economy, Pakistan was expected to push its own expenditures yet higher. Both have lost their patrons: India, the former USSR, and Pakistan, the United States. But it is the growth and modernization of China's nuclear arsenal and its assistance with Pakistan's nuclear power programme and, reportedly, with missile technology, which exacerbate Indian concerns. In particular, as viewed by Indian strategists, Pakistan is aided by China's People's Liberation Army.
 
 India
 
@@ -152,7 +152,7 @@ American President George W. Bush met with India Prime Minister Manmohan Singh t
 
 Pakistan
 
-Libya_centrifuges_2003_(at_Y12).jpg admitted that the nuclear weapons-related material including these centrifuges, known as _Pak-1_, were acquired from Pakistan]]
+admitted that the nuclear weapons-related material including these centrifuges, known as _Pak-1_, were acquired from Pakistan]]
 
 Over the several years, the Nuclear power infrastructure has been well established by Pakistan which is dedicated for the industrial and economic development of the country.[25] Its current nuclear policy is directed and aimed to promote the socio-economic development of the people as a "foremost priority";[26] and to fulfill the energy, economic, and industrial needs from the nuclear sources.[27] Currently, there are three operational mega-commercial nuclear power plants while three larger ones are under construction.[28] The nuclear power supplies 787 MW (roughly ≈3.6%) of electricity as of 2012, and the country has projected to produce 8800 MW electricity by 2030.[29] Infrastructure established by the IAEA and the U.S. in the 1950s–1960s were based on peaceful research and development and economic prosperity of the country.[30]
 

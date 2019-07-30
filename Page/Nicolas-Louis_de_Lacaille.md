@@ -10,7 +10,7 @@ After he graduated, he did not accept ordination as a priest but took deacon's o
 
 Voyage to the Cape of Good Hope
 
-A_memorial_to_the_Abbe_de_la_Caille,_at_Aurora_in_the_Western_Cape_of_South_Africa.JPG, at Aurora in the Western Cape of South Africa. The English portion of the inscription reads: "This is the site of the Maclear Beacon positioned in 1838 near the original North Terminal of the Arc of Meridian positioned by Abbé de Lacaille, the first surveyor to introduce Geodetic Surveying into South Africa." Open the image to see the Afrikaans portion.]]
+, at Aurora in the Western Cape of South Africa. The English portion of the inscription reads: "This is the site of the Maclear Beacon positioned in 1838 near the original North Terminal of the Arc of Meridian positioned by Abbé de Lacaille, the first surveyor to introduce Geodetic Surveying into South Africa." Open the image to see the Afrikaans portion.]]
 
 His desire to determine the distances of the planets trigonometrically, using the longest possible baseline, led him to propose, in 1750, an expedition to the Cape of Good Hope. This was officially sanctioned by Roland-Michel Barrin de La Galissonière. There, he constructed an observatory on the shore of Table Bay with the support of the Dutch Governor Ryk Tulbagh. The primary result of his two-year stay was observed nearly 10,000 southern stars, the production of which required observing every night for over a year. In the course of his survey he took note of 42 nebulous objects. He also achieved his aim of determining the lunar and solar parallaxes (Mars serving as an intermediary). This work required near-simultaneous observations from Europe which were carried out by Jérôme Lalande.
 
@@ -61,7 +61,7 @@ In honor of his contribution to the study of the southern hemisphere sky, a 60-c
 
 Main works
 
-Messier_55_VISTA.jpg is a globular cluster discovered in 16 June 1752.[9]]]
+is a globular cluster discovered in 16 June 1752.[9]]]
 
 -   _Leçons élémentaires de Mathématiques_ (1741), frequently reprinted
 -   ditto _de Mécanique_ (1743), &c.

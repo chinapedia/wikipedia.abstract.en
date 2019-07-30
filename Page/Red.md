@@ -16,7 +16,7 @@ In science and nature
 
 Seeing red
 
-Madrid_Bullfight.JPG, which means they cannot distinguish the color red. They charge the matador's cape because of its motion, not its color.]] The human eye sees red when it looks at light with a wavelength between approximately 625 and 740 nanometers.[8] It is a primary color in the RGB color model and the light just past this range is called infrared, or below red, and cannot be seen by human eyes, although it can be sensed as heat.[9] In the language of optics, red is the color evoked by light that stimulates neither the S or the M (short and medium wavelength) cone cells of the retina, combined with a fading stimulation of the L (long-wavelength) cone cells.[10]
+, which means they cannot distinguish the color red. They charge the matador's cape because of its motion, not its color.]] The human eye sees red when it looks at light with a wavelength between approximately 625 and 740 nanometers.[8] It is a primary color in the RGB color model and the light just past this range is called infrared, or below red, and cannot be seen by human eyes, although it can be sensed as heat.[9] In the language of optics, red is the color evoked by light that stimulates neither the S or the M (short and medium wavelength) cone cells of the retina, combined with a fading stimulation of the L (long-wavelength) cone cells.[10]
 
 Primates can distinguish the full range of the colors of the spectrum visible to humans, but many kinds of mammals, such as dogs and cattle, have dichromacy, which means they can see blues and yellows, but cannot distinguish red and green (both are seen as gray). Bulls, for instance, cannot see the red color of the cape of a bullfighter, but they are agitated by its movement.[11] (See color vision).
 
@@ -38,7 +38,7 @@ Boutet 1708 color circles.jpg|In a traditional color wheel from 1708, red, yello
 
 Color of sunset
 
-Sunsets and sunrises are often red because of an optical effect called Rayleigh scattering.|thumb|right As a ray of white sunlight travels through the atmosphere to the eye, some of the colors are scattered out of the beam by air molecules and airborne particles due to Rayleigh scattering, changing the final color of the beam that is seen. Colors with a shorter wavelength, such as blue and green, scatter more strongly, and are removed from the light that finally reaches the eye.[19] At sunrise and sunset, when the path of the sunlight through the atmosphere to the eye is longest, the blue and green components are removed almost completely, leaving the longer wavelength orange and red light. The remaining reddened sunlight can also be scattered by cloud droplets and other relatively large particles, which give the sky above the horizon its red glow.[20]
+As a ray of white sunlight travels through the atmosphere to the eye, some of the colors are scattered out of the beam by air molecules and airborne particles due to Rayleigh scattering, changing the final color of the beam that is seen. Colors with a shorter wavelength, such as blue and green, scatter more strongly, and are removed from the light that finally reaches the eye.[19] At sunrise and sunset, when the path of the sunlight through the atmosphere to the eye is longest, the blue and green components are removed almost completely, leaving the longer wavelength orange and red light. The remaining reddened sunlight can also be scattered by cloud droplets and other relatively large particles, which give the sky above the horizon its red glow.[20]
 
 Lasers
 
@@ -69,7 +69,7 @@ Hematite.jpg|Hematite, or iron ore, is the source of the red color of red ochre.
 
 Red lac, red lake and crimson lake
 
-Titian_-_The_Vendramin_Family_Venerating_a_Relic_of_the_True_Cross_(detail)_-_WGA22811.jpg used glazes of red lake to create the vivid crimson of the robes in _The Vendramin Family Venerating a Relic of the True Cross_, completed 1550–60 (detail).]] RED LAC, also called RED LAKE, CRIMSON LAKE or CARMINE LAKE, was an important red pigment in Renaissance and Baroque art. Since it was translucent, thin layers of red lac were built up or glazed over a more opaque dark color to create a particularly deep and vivid color.
+used glazes of red lake to create the vivid crimson of the robes in _The Vendramin Family Venerating a Relic of the True Cross_, completed 1550–60 (detail).]] RED LAC, also called RED LAKE, CRIMSON LAKE or CARMINE LAKE, was an important red pigment in Renaissance and Baroque art. Since it was translucent, thin layers of red lac were built up or glazed over a more opaque dark color to create a particularly deep and vivid color.
 
 Unlike vermilion or red ochre, made from minerals, red lake pigments are made by mixing organic dyes, made from insects or plants, with white chalk or alum. Red lac was made from the gum lac, the dark red resinous substance secreted by various scale insects, particularly the Laccifer lacca from India.[29] Carmine lake was made from the cochineal insect from Central and South America, Kermes lake came from a different scale insect, _kermes vermilio_, which thrived on oak trees around the Mediterranean. Other red lakes were made from the rose madder plant and from the brazilwood tree.
 
@@ -109,7 +109,7 @@ Agarplate redbloodcells edit.jpg|Red blood cell agar. Blood appears red due to t
 
 Hair color
 
-Woman_redhead_natural_portrait_1.jpg RED HAIR occurs naturally on approximately 1–2% of the human population.[43] It occurs more frequently (2–6%) in people of northern or western European ancestry, and less frequently in other populations. Red hair appears in people with two copies of a recessive gene on chromosome 16 which causes a mutation in the MC1R protein.
+RED HAIR occurs naturally on approximately 1–2% of the human population.[43] It occurs more frequently (2–6%) in people of northern or western European ancestry, and less frequently in other populations. Red hair appears in people with two copies of a recessive gene on chromosome 16 which causes a mutation in the MC1R protein.
 
 Red hair varies from a deep burgundy through burnt orange to bright copper. It is characterized by high levels of the reddish pigment pheomelanin (which also accounts for the red color of the lips) and relatively low levels of the dark pigment eumelanin. The term REDHEAD (originally _redd hede_) has been in use since at least 1510. Cultural reactions have varied from ridicule to admiration; many common stereotypes exist regarding redheads and they are often portrayed as fiery-tempered. (See red hair).
 
@@ -285,7 +285,7 @@ Vienna Convention road sign B2a.svg|The standard international stop sign, follow
 
 The color that attracts attention
 
-Magdalena_Frackowiak.jpg at Paris Fashion Week (Fall 2011)]] Red is the color that most attracts attention. Surveys show it is the color most frequently associated with visibility, proximity, and extroverts. It is also the color most associated with dynamism and activity.[117]
+at Paris Fashion Week (Fall 2011)]] Red is the color that most attracts attention. Surveys show it is the color most frequently associated with visibility, proximity, and extroverts. It is also the color most associated with dynamism and activity.[117]
 
 Red is used in modern fashion much as it was used in Medieval painting; to attract the eyes of the viewer to the person who is supposed to be the center of attention. People wearing red seem to be closer than those dressed in other colors, even if they are actually the same distance away.[118] Monarchs, wives of presidential candidates and other celebrities often wear red to be visible from a distance in a crowd. It is also commonly worn by lifeguards and others whose job requires them to be easily found.
 
@@ -293,7 +293,7 @@ Because red attracts attention, it is frequently used in advertising, though stu
 
 Seduction, sexuality and sin
 
-De_Wallen.JPG, Amsterdam's red-light district; red is the sex industry's preferred color in many cultures, due to being strongly associated with passion, love and sexuality.[120]]] Red by a large margin is the color most commonly associated with seduction, sexuality, eroticism and immorality, possibly because of its close connection with passion and with danger.[121]
+, Amsterdam's red-light district; red is the sex industry's preferred color in many cultures, due to being strongly associated with passion, love and sexuality.[120]]] Red by a large margin is the color most commonly associated with seduction, sexuality, eroticism and immorality, possibly because of its close connection with passion and with danger.[121]
 
 Red was long seen as having a dark side, particularly in Christian theology. It was associated with sexual passion, anger, sin, and the devil.[122] In the Old Testament of the Bible, the Book of Isaiah said: "Though your sins be as scarlet, they shall be white as snow."[123] In the New Testament, in the Book of Revelation, the Antichrist appears as a red monster, ridden by a woman dressed in scarlet, known as the Whore of Babylon:
 
@@ -425,8 +425,6 @@ Garde nationale mobile pendant les Journées de Juin.JPG|A French soldier takes 
 
 
 Use by political movements
-
-Chinese_honor_guard_in_column_070322-F-0193C-014.JPEG
 
 In 18th-century Europe, red was usually associated with the monarchy and with those in power. The Pope wore red, as did the Swiss Guards of the Kings of France, the soldiers of the British Army and the Danish Army.
 

@@ -1,4 +1,4 @@
-Canthigaster_valentini_1.jpg]]
+]]
 
 The TETRAODONTIDAE are a family of primarily marine and estuarine fish of the order Tetraodontiformes. The family includes many familiar species which are variously called PUFFERFISH, PUFFERS, BALLOONFISH, BLOWFISH, BLOWIES, BUBBLEFISH, GLOBEFISH, SWELLFISH, TOADFISH, TOADIES, HONEY TOADS, SUGAR TOADS, and SEA SQUAB.[1] They are morphologically similar to the closely related porcupinefish, which have large external spines (unlike the thinner, hidden spines of the Tetraodontidae, which are only visible when the fish has puffed up). The scientific name refers to the four large teeth, fused into an upper and lower plate, which are used for crushing the hard shells of crustaceans and mollusks, their natural prey.
 
@@ -100,7 +100,7 @@ The tetraodontids have been estimated to diverge from diodontids between 89 and 
 
 Poisoning
 
-Puffer_Fish_DSC01257.JPG'' at Big Island of Hawaii]] Puffer_fish_-Costa_Rica-8.jpg''' in Costa Rica]]
+'' at Big Island of Hawaii]] ''' in Costa Rica]]
 
 Pufferfish can be lethal if not served properly. Puffer poisoning usually results from consumption of incorrectly prepared puffer soup, _fugu chiri_, or occasionally from raw puffer meat, _sashimi fugu_. While _chiri_ is much more likely to cause death, _sashimi fugu_ often causes intoxication, light-headedness, and numbness of the lips. Pufferfish tetrodotoxin deadens the tongue and lips, and induces dizziness and vomiting, followed by numbness and prickling over the body, rapid heart rate, decreased blood pressure, and muscle paralysis. The toxin paralyzes the diaphragm muscle and stops the person who has ingested it from breathing. People who live longer than 24 hours typically survive, although possibly after a coma lasting several days.
 

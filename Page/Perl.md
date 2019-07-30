@@ -113,17 +113,17 @@ The name is occasionally expanded as _Practical Extraction and Report Language_,
 
 Camel symbol
 
-Perl-camel-small.png _Programming Perl_, published by O'Reilly Media, features a picture of a dromedary camel on the cover and is commonly called the "Camel Book".[69] This image of a camel has become an unofficial symbol of Perl as well as a general hacker emblem, appearing on T-shirts and other clothing items.
+_Programming Perl_, published by O'Reilly Media, features a picture of a dromedary camel on the cover and is commonly called the "Camel Book".[69] This image of a camel has become an unofficial symbol of Perl as well as a general hacker emblem, appearing on T-shirts and other clothing items.
 
 O'Reilly owns the image as a trademark but licenses it for non-commercial use, requiring only an acknowledgement and a link to www.perl.com. Licensing for commercial use is decided on a case by case basis.[70] O'Reilly also provides "Programming Republic of Perl" logos for non-commercial sites and "Powered by Perl" buttons for any site that uses Perl.[71]
 
 Onion symbol
 
-Onion_64x64.png The Perl Foundation owns an alternative symbol, an onion, which it licenses to its subsidiaries, Perl Mongers, PerlMonks, Perl.org, and others.[72] The symbol is a visual pun on pearl onion.[73]
+The Perl Foundation owns an alternative symbol, an onion, which it licenses to its subsidiaries, Perl Mongers, PerlMonks, Perl.org, and others.[72] The symbol is a visual pun on pearl onion.[73]
 
 Raptor symbol
 
-Perl5Raptor.png Sebastian Riedel, the creator of Mojolicious, has created a logo depicting a raptor dinosaur, which is available under a CC-SA License, Version 4.0.[74] The logo is being remixed and used in different places and is symbolising Perl 5. The analogue of the raptor comes from a series of talks given by Matt S Trout beginning in 2010.[75] The talks were aimed at being more Perl 5 community-centric, in a period where Perl 6 was a hot topic.
+Sebastian Riedel, the creator of Mojolicious, has created a logo depicting a raptor dinosaur, which is available under a CC-SA License, Version 4.0.[74] The logo is being remixed and used in different places and is symbolising Perl 5. The analogue of the raptor comes from a series of talks given by Matt S Trout beginning in 2010.[75] The talks were aimed at being more Perl 5 community-centric, in a period where Perl 6 was a hot topic.
 
 
 Overview
@@ -247,8 +247,6 @@ The relative proportion of Internet searches for "Perl programming", as compared
 
 
 Perl 6
-
-Camelia.svg
 
 At the 2000 Perl Conference, Jon Orwant made a case for a major new language-initiative.[115] This led to a decision to begin work on a redesign of the language, to be called Perl 6. Proposals for new language features were solicited from the Perl community at large, which submitted more than 300 RFCs.
 

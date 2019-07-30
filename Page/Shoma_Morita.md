@@ -1,4 +1,4 @@
-Dc_morita.jpg MORITA MASATAKE (1874-1938), also read as MORITA SHOMA (森田 正馬), was a contemporary of Sigmund Freud and the founder of Morita therapy, a branch of clinical psychology strongly influenced by Zen Buddhism.[1] In his capacity as the head of psychiatry for a large Tokyo hospital, Morita began developing his methods while working with sufferers of _shinkeishitsu_, or anxiety disorders with a hypochondriac base.
+MORITA MASATAKE (1874-1938), also read as MORITA SHOMA (森田 正馬), was a contemporary of Sigmund Freud and the founder of Morita therapy, a branch of clinical psychology strongly influenced by Zen Buddhism.[1] In his capacity as the head of psychiatry for a large Tokyo hospital, Morita began developing his methods while working with sufferers of _shinkeishitsu_, or anxiety disorders with a hypochondriac base.
 
 
 Theory and methods

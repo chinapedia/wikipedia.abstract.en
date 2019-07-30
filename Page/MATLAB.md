@@ -174,8 +174,6 @@ MATLAB supports developing applications with graphical user interface (GUI) feat
 
 produces the following figure of the sine function:
 
-Matlab_plot_sin.svg
-
 A MATLAB program can produce three-dimensional graphics using the functions _surf_, _plot3_ or _mesh_.
 
 +-------------------------------------------------------------------------------------------+-----+-----------------------------------------------------------------------------------------+
@@ -190,7 +188,7 @@ A MATLAB program can produce three-dimensional graphics using the functions _sur
 +-------------------------------------------------------------------------------------------+-----+-----------------------------------------------------------------------------------------+
 | This code produces a WIREFRAME 3D plot of the two-dimensional unnormalized sinc function: |     | This code produces a SURFACE 3D plot of the two-dimensional unnormalized sinc function: |
 +-------------------------------------------------------------------------------------------+-----+-----------------------------------------------------------------------------------------+
-| File:MATLAB mesh sinc3D.svg                                                               |     | File:MATLAB surf sinc3D.svg                                                             |
+|                                                                                           |     |                                                                                         |
 +-------------------------------------------------------------------------------------------+-----+-----------------------------------------------------------------------------------------+
 
 In MATLAB, graphical user interfaces can be programmed with the GUI design environment (GUIDE) tool.[20]

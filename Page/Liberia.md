@@ -1,7 +1,5 @@
 {{Infobox country | conventional_long_name = Republic of Liberia | common_name = Liberia | image_flag = Flag of Liberia.svg | image_coat = Coat of arms of Liberia.svg | symbol_type = Coat of arms | image_map = Location Liberia AU Africa.svg | map_caption = | image_map2 = Liberia - Location Map (2013) - LBR - UNOCHA.svg | national_motto = "The Love of Liberty Brought Us Here" | national_anthem = _All Hail, Liberia, Hail!_
 
-File:Liberia National Anthem.ogg
-
 | official_languages = English | languages_type = Spoken and national languages[1] | languages = | ethnic_groups = | ethnic_groups_year = 2008[2] | religion = | demonym = Liberian | capital = Monrovia | coordinates = | largest_city = Monrovia | government_type = Unitary presidential constitutional republic | leader_title1 = President | leader_name1 = George Weah | leader_title2 = Vice President | leader_name2 = Jewel Taylor | leader_title3 = Speaker of the House | leader_name3 = Bhofal Chambers | leader_title4 = Chief Justice | leader_name4 = Francis Korkpor, Sr. | legislature = Legislature of Liberia | upper_house = Senate | lower_house = House of Representatives | area_rank = 102nd | area_km2 = 111,369 | area_sq_mi = 43,000 | percent_water = 13.514 | population_estimate = 4,503,000[3] | population_estimate_year = 2015 | population_estimate_rank = 125th | population_census = 3,476,608 | population_census_year = 2008 | population_census_rank = 130th | population_density_km2 = 40.43 | population_density_sq_mi = 92.0 | population_density_rank = 180th | GDP_PPP_year = 2019 | GDP_PPP = $6.468 billion | GDP_PPP_per_capita = $1,413[4] | GDP_nominal_year = 2019 | GDP_nominal = $3.221 billion | GDP_nominal_per_capita = $704[5] | sovereignty_type = Formation and Independence | established_event1 = Settlement by the [[American_Colonization_Society|
 
 LIBERIA (), officially the REPUBLIC OF LIBERIA, is a country on the West African coast. It is bordered by Sierra Leone to its northwest, Guinea to its north, Ivory Coast to its east, and the Atlantic Ocean to its south-southwest. It covers an area of and has a population of around 4,900,000.[6] English is the official language, but over 20 indigenous languages are spoken, representing the numerous ethnic groups who make up more than 95% of the population. The country's capital and largest city is Monrovia.
@@ -17,7 +15,7 @@ In 1980 political tensions from the rule of William R. Tolbert resulted in a mil
 
 History
 
-Negroland_and_Guinea_with_the_European_Settlements,_1736.jpg, 1736. It has the archaic mapping designation of Negroland.]]
+, 1736. It has the archaic mapping designation of Negroland.]]
 
 The Pepper Coast, also known as the Grain Coast, has been inhabited by indigenous peoples of Africa at least as far back as the 12th century. Mende-speaking people expanded westward from the Sudan, forcing many smaller ethnic groups southward toward the Atlantic Ocean. The Dei, Bassa, Kru, Gola, and Kissi were some of the earliest documented peoples in the area.[13]
 
@@ -32,8 +30,6 @@ Between 1461 and the late 17th century, Portuguese, Dutch and British traders ha
 In the United States there was a movement to resettle free-born blacks and freed slaves who faced racial discrimination in the form of political disenfranchisement and the denial of civil, religious, and social privileges.[16] Most whites and later a small cadre of black nationalists believed that blacks would face better chances for freedom in Africa than in the U.S.[17] In 1816 the American Colonization Society was founded for this purpose in Washington, DC by a group of prominent politicians and slaveholders, but its membership grew to include mostly people who supported the abolition of slavery. Slaveholders wanted to get free people of color out of the South, where they were thought to threaten the stability of the slave societies. Some abolitionists collaborated on the relocation of free blacks, as they were discouraged by racial discrimination against them in the North and believed they would never be accepted in the larger society.[18]
 
 In 1822 the American Colonization Society began sending black volunteers to the Pepper Coast to establish a colony for freed blacks. By 1867 the ACS (and state-related chapters) had assisted in the migration of more than 13,000 blacks to Liberia.[19] These free African-Americans and their descendants married within their community and came to identify as Americo-Liberians. Many were of mixed race and educated in American culture; they did not identify with the indigenous natives of the tribes they encountered. They intermarried largely within the colonial community, developing an ethnic group that had a cultural tradition infused with American notions of political republicanism and Protestant Christianity.[20]
-
-Mitchell_Map_Liberia_colony_1839.jpg
 
 The ACS, supported by prominent American politicians such as Abraham Lincoln, Henry Clay, and James Monroe, believed repatriation of free African Americans was preferable to widespread emancipation of slaves.[21] Similar state-based organizations established colonies in Mississippi-in-Africa and the Republic of Maryland, which Liberia later annexed.
 
@@ -53,7 +49,7 @@ There was a decline in production of Liberian goods in the late 19th century, an
 
 Early 20th century
 
-LiberiaKing.jpg, 17th President of Liberia (1920–1930), with his entourage on the steps of the Peace Palace, The Hague (the Netherlands), 1927.]] American and other international interests emphasized resource extraction, with rubber production a major industry in the early 20th century.[32] In 1914 Imperial Germany accounted for three quarters of the trade of Liberia. This was a cause for concern among the British colonial authorities of Sierra Leone and the French colonial authorities of French Guinea and the Ivory Coast as tensions with Germany increased.[33]
+, 17th President of Liberia (1920–1930), with his entourage on the steps of the Peace Palace, The Hague (the Netherlands), 1927.]] American and other international interests emphasized resource extraction, with rubber production a major industry in the early 20th century.[32] In 1914 Imperial Germany accounted for three quarters of the trade of Liberia. This was a cause for concern among the British colonial authorities of Sierra Leone and the French colonial authorities of French Guinea and the Ivory Coast as tensions with Germany increased.[33]
 
 First World War
 
@@ -67,7 +63,7 @@ In the mid-20th century Liberia gradually began to modernize with American assis
 
 After the war President William Tubman encouraged foreign investment in the country. Liberia had the second-highest rate of economic growth in the world during the 1950s.[38]
 
-Liberia also began to take a more active role in international affairs. It was a founding member of the United Nations in 1945 and became a vocal critic of the South African apartheid regime.[39] Liberia also served as a proponent both of African independence from European colonial powers and of Pan-Africanism, and helped to fund the Organisation of African Unity.[40]Technical_Liberia.jpg in Monrovia during the Second Liberian Civil War.]]
+Liberia also began to take a more active role in international affairs. It was a founding member of the United Nations in 1945 and became a vocal critic of the South African apartheid regime.[39] Liberia also served as a proponent both of African independence from European colonial powers and of Pan-Africanism, and helped to fund the Organisation of African Unity.[40] in Monrovia during the Second Liberian Civil War.]]
 
 Late 20th-century political instability
 
@@ -83,7 +79,7 @@ Under Taylor's leadership, Liberia became internationally known as a pariah stat
 
 2000s
 
-Ebola_Monrovia_05.jpg in February 2015]] In March 2003, a second rebel group, Movement for Democracy in Liberia, began launching attacks against Taylor from the southeast.[53] Peace talks between the factions began in Accra in June of that year, and Taylor was indicted by the Special Court for Sierra Leone for crimes against humanity the same month.[54] By July 2003, the rebels had launched an assault on Monrovia.[55] Under heavy pressure from the international community and the domestic Women of Liberia Mass Action for Peace movement,[56] Taylor resigned in August 2003 and went into exile in Nigeria.[57]
+in February 2015]] In March 2003, a second rebel group, Movement for Democracy in Liberia, began launching attacks against Taylor from the southeast.[53] Peace talks between the factions began in Accra in June of that year, and Taylor was indicted by the Special Court for Sierra Leone for crimes against humanity the same month.[54] By July 2003, the rebels had launched an assault on Monrovia.[55] Under heavy pressure from the international community and the domestic Women of Liberia Mass Action for Peace movement,[56] Taylor resigned in August 2003 and went into exile in Nigeria.[57]
 
 A peace deal was signed later that month.[58] The United Nations Mission in Liberia began arriving in September 2003 to provide security and monitor the peace accord,[59] and an interim government took power the following October.[60]
 
@@ -94,7 +90,7 @@ In 2006, the government established a Truth and Reconciliation Commission to add
 
 Geography
 
-Topographic_map_of_Liberia-en.svg Koppen-Geiger_Map_LBR_present.svg Liberia is situated in West Africa, bordering the North Atlantic Ocean to the country's southwest. It lies between latitudes 4° and 9°N, and longitudes 7° and 12°W.
+Liberia is situated in West Africa, bordering the North Atlantic Ocean to the country's southwest. It lies between latitudes 4° and 9°N, and longitudes 7° and 12°W.
 
 The landscape is characterized by mostly flat to rolling coastal plains that contain mangroves and swamps, which rise to a rolling plateau and low mountains in the northeast.[66]
 
@@ -112,7 +108,7 @@ Forests on the coastline are composed mostly of salt-tolerant mangrove trees, wh
 
 Administrative divisions
 
-Bomi_lake.jpg]] Liberia is divided into fifteen counties, which, in turn, are subdivided into a total of 90 districts and further subdivided into _clans_. The oldest counties are Grand Bassa and Montserrado, both founded in 1839 prior to Liberian independence. Gbarpolu is the newest county, created in 2001. Nimba is the largest of the counties in size at , while Montserrado is the smallest at .[75] Montserrado is also the most populous county with 1,144,806 residents as of the 2008 census.[76]
+]] Liberia is divided into fifteen counties, which, in turn, are subdivided into a total of 90 districts and further subdivided into _clans_. The oldest counties are Grand Bassa and Montserrado, both founded in 1839 prior to Liberian independence. Gbarpolu is the newest county, created in 2001. Nimba is the largest of the counties in size at , while Montserrado is the smallest at .[75] Montserrado is also the most populous county with 1,144,806 residents as of the 2008 census.[76]
 
 The fifteen counties are administered by superintendents appointed by the president. The Constitution calls for the election of various chiefs at the county and local level, but these elections have not taken place since 1985 due to war and financial constraints.[77]
 
@@ -155,13 +151,13 @@ Parallel to the administrative divisions of the country are the local and munici
 
 Environmental issues
 
-Choeropsis.jpgs are among the species illegally hunted for food in Liberia.[82] The World Conservation Union estimates that there are fewer than 3,000 pygmy hippos remaining in the wild.[83]]]
+s are among the species illegally hunted for food in Liberia.[82] The World Conservation Union estimates that there are fewer than 3,000 pygmy hippos remaining in the wild.[83]]]
 
 Endangered species are hunted for human consumption as bushmeat in Liberia.[84] Species hunted for food in Liberia include elephants, pygmy hippopotamus, chimpanzees, leopards, duikers, and other monkeys.[85] Bushmeat is often exported to neighboring Sierra Leone and Ivory Coast, despite a ban on the cross-border sale of wild animals.[86]
 
 Bushmeat is widely eaten in Liberia, and is considered a delicacy.[87] A 2004 public opinion survey found that bushmeat ranked second behind fish amongst residents of the capital Monrovia as a preferred source of protein.[88] Of households where bushmeat was served, 80% of residents said they cooked it "once in a while," while 13% cooked it once a week and 7% cooked bushmeat daily.[89] The survey was conducted during the last civil war, and bushmeat consumption is now believed to be far higher.[90]
 
-U.S.DOC(1965)_Liberia._Money_Trees.jpg Liberia is a global biodiversity hotspot—a significant reservoir of biodiversity that is under threat from humans.[91]
+Liberia is a global biodiversity hotspot—a significant reservoir of biodiversity that is under threat from humans.[91]
 
 Slash-and-burn agriculture is one of the human activities eroding Liberia's natural forests.[92] A 2004 UN report estimated that 99% of Liberians burned charcoal and fuel wood for cooking and heating, resulting in deforestation.[93]
 
@@ -172,7 +168,7 @@ Pollution is a significant issue in Monrovia.[98] Since 2006 the international c
 
 Politics
 
-Ellen_Johnson-Sirleaf3.jpg]] The government of Liberia, modeled on the government of the United States, is a unitary constitutional republic and representative democracy as established by the Constitution. The government has three co-equal branches of government: the executive, headed by the president; the legislative, consisting of the bicameral Legislature of Liberia; and the judicial, consisting of the Supreme Court and several lower courts.
+]] The government of Liberia, modeled on the government of the United States, is a unitary constitutional republic and representative democracy as established by the Constitution. The government has three co-equal branches of government: the executive, headed by the president; the legislative, consisting of the bicameral Legislature of Liberia; and the judicial, consisting of the Supreme Court and several lower courts.
 
 The president serves as head of government, head of state, and the commander-in-chief of the Armed Forces of Liberia.[100] Among the president's other duties are to sign or veto legislative bills, grant pardons, and appoint Cabinet members, judges, and other public officials. Together with the vice president, the president is elected to a six-year term by majority vote in a two-round system and can serve up to two terms in office.[101]
 
@@ -194,7 +190,7 @@ The Armed Forces of Liberia (AFL) are the country's armed forces. Founded as the
 
 Foreign relations
 
-Secretary_Kerry_Listens_as_Liberian_President_Sirleaf_Addresses_the_Post-2015_Development_Panel_Discussion_in_New_York_City_(21582539498).jpg, Colombian President Juan Manuel Santos, and British PM David Cameron in September 2015]] After the turmoil following the First and Second Liberian Civil Wars, Liberia's internal stabilization in the 21st century brought a return to cordial relations with neighboring countries and much of the Western world. As in other African countries, China is an important part of the post-conflict reconstruction.[119]
+, Colombian President Juan Manuel Santos, and British PM David Cameron in September 2015]] After the turmoil following the First and Second Liberian Civil Wars, Liberia's internal stabilization in the 21st century brought a return to cordial relations with neighboring countries and much of the Western world. As in other African countries, China is an important part of the post-conflict reconstruction.[119]
 
 In the past, both of Liberia's neighbors, Guinea and Sierra Leone, have accused Liberia of backing rebels in their countries.[120]
 
@@ -205,7 +201,7 @@ The Liberian National Police is the country's national police force. As of Octob
 
 Economy and infrastructure
 
-Liberia_Export_Treemap.jpg – there are 3,500 vessels registered under Liberia's flag accounting for 11% of ships worldwide.[124][125]]] Liberia,_Trends_in_the_Human_Development_Index_1970-2010.png 1970–2010.]]
+– there are 3,500 vessels registered under Liberia's flag accounting for 11% of ships worldwide.[124][125]]] 1970–2010.]]
 
 The Central Bank of Liberia is responsible for printing and maintaining the Liberian dollar, Liberia's primary currency. Liberia is one of the world's poorest countries, with a formal employment rate of 15%.[126] GDP per capita peaked in 1980 at US$496, when it was comparable to Egypt's (at the time).[127] In 2011 the country's nominal GDP was US$1.154 billion, while nominal GDP per capita stood at US$297, the third-lowest in the world.[128] Historically the Liberian economy has depended heavily on foreign aid, foreign direct investment and exports of natural resources such as iron ore, rubber, and timber.[129]
 
@@ -213,7 +209,7 @@ Following a peak in growth in 1979, the Liberian economy began a steady decline 
 
 Current impediments to growth include a small domestic market, lack of adequate infrastructure, high transportation costs, poor trade links with neighboring countries and the high dollarization of the economy.[136] Liberia used the United States dollar as its currency from 1943 until 1982 and continues to use the U.S. dollar alongside the Liberian dollar.[137]
 
-Young_boy_grinding_sugar_cane_in_Liberia.jpg.]] Following a decrease in inflation beginning in 2003, inflation spiked in 2008 as a result of worldwide food and energy crises,[138] reaching 17.5% before declining to 7.4% in 2009.[139] Liberia's external debt was estimated in 2006 at approximately $4.5 billion, 800% of GDP.[140] As a result of bilateral, multilateral and commercial debt relief from 2007 to 2010, the country's external debt fell to $222.9 million by 2011.[141]
+.]] Following a decrease in inflation beginning in 2003, inflation spiked in 2008 as a result of worldwide food and energy crises,[138] reaching 17.5% before declining to 7.4% in 2009.[139] Liberia's external debt was estimated in 2006 at approximately $4.5 billion, 800% of GDP.[140] As a result of bilateral, multilateral and commercial debt relief from 2007 to 2010, the country's external debt fell to $222.9 million by 2011.[141]
 
 While official commodity exports declined during the 1990s as many investors fled the civil war, Liberia's wartime economy featured the exploitation of the region's diamond wealth.[142] The country acted as a major trader in Sierra Leonian blood diamonds, exporting over US$300 million in diamonds in 1999.[143] This led to a United Nations ban on Liberian diamond exports in 2001, which was lifted in 2007 following Liberia's accession to the Kimberley Process Certification Scheme.[144]
 
@@ -231,7 +227,7 @@ There are six major newspapers in Liberia, and 45% of the population has a mobil
 
 Transportation
 
-Downtown_Monrovia_3348917715_67a2002529.jpg, March 2009]] Liberia's economic main links to the outside world come through Monrovia, via the port and airport in the capital.
+, March 2009]] Liberia's economic main links to the outside world come through Monrovia, via the port and airport in the capital.
 
 Energy
 
@@ -244,7 +240,7 @@ Liberia has begun exploration for offshore oil; unproven oil reserves may be in 
 
 Demographics
 
-Liberia-demography.png, year 2005 Liberia's population tripled in 40 years.[170]]] Pyramide_Liberia.PNG, 2005. 43.5% of Liberians were below the age of 15 in 2010.[171]]]
+, year 2005 Liberia's population tripled in 40 years.[170]]] , 2005. 43.5% of Liberians were below the age of 15 in 2010.[171]]]
 
 As of the 2017 national census, Liberia was home to 4,694,608 people.[172] Of those, 1,118,241 lived in Montserrado County, the most populous county in the country and home to the capital of Monrovia. The Greater Monrovia District has 970,824 residents.[173] Nimba County is the next most populous county, with 462,026 residents.[174] As revealed in the 2008 census, Monrovia is more than four times more populous than all the county capitals combined.[175]
 
@@ -277,7 +273,7 @@ The Constitution provides for freedom of religion, and the government generally 
 
 Education
 
-Liberian_students.jpg]] In 2010, the literacy rate of Liberia was estimated at 60.8% (64.8% for males and 56.8% for females).[194] In some areas primary and secondary education is free and compulsory from the ages of 6 to 16, though enforcement of attendance is lax.[195] In other areas children are required to pay a tuition fee to attend school. On average, children attain 10 years of education (11 for boys and 8 for girls).[196] The country's education sector is hampered by inadequate schools and supplies, as well as a lack of qualified teachers.[197]
+]] In 2010, the literacy rate of Liberia was estimated at 60.8% (64.8% for males and 56.8% for females).[194] In some areas primary and secondary education is free and compulsory from the ages of 6 to 16, though enforcement of attendance is lax.[195] In other areas children are required to pay a tuition fee to attend school. On average, children attain 10 years of education (11 for boys and 8 for girls).[196] The country's education sector is hampered by inadequate schools and supplies, as well as a lack of qualified teachers.[197]
 
 Higher education is provided by a number of public and private universities. The University of Liberia is the country's largest and oldest university. Located in Monrovia, the university opened in 1862. Today it has six colleges, including a medical school and the nation's only law school, Louis Arthur Grimes School of Law.[198]
 
@@ -320,7 +316,7 @@ Both male and female homosexuality are illegal in Liberia.[226] On July 20, 2012
 
 Culture
 
-Brooklyn_Museum_1998.80.2_Helmet_Mask_for_Sande_Society.jpg (Ndoli Jowei)'', Liberia. 20th century. Brooklyn Museum.]] The religious practices, social customs and cultural standards of the Americo-Liberians had their roots in the antebellum American South. The settlers wore top hat and tails and modeled their homes on those of Southern slaveowners.[228] Most Americo-Liberian men were members of the Masonic Order of Liberia, which became heavily involved in the nation's politics.[229]
+(Ndoli Jowei)'', Liberia. 20th century. Brooklyn Museum.]] The religious practices, social customs and cultural standards of the Americo-Liberians had their roots in the antebellum American South. The settlers wore top hat and tails and modeled their homes on those of Southern slaveowners.[228] Most Americo-Liberian men were members of the Masonic Order of Liberia, which became heavily involved in the nation's politics.[229]
 
 Liberia has a rich history in textile arts and quilting, as the settlers brought with them their sewing and quilting skills. Liberia hosted National Fairs in 1857 and 1858 in which prizes were awarded for various needle arts. One of the most well-known Liberian quilters was Martha Ann Ricks,[230] who presented a quilt featuring the famed Liberian coffee tree to Queen Victoria in 1892. When President Ellen Johnson Sirleaf moved into the Executive Mansion, she reportedly had a Liberian-made quilt installed in her presidential office.[231]
 
@@ -332,7 +328,7 @@ One-third of married Liberian women between the ages of 15–49 are in polygamou
 
 Cuisine
 
-Beachside_Barbeque_(6831739276).jpg, Monrovia, Liberia]] Liberian cuisine heavily incorporates rice, the country's staple food. Other ingredients include cassava, fish, bananas, citrus fruit, plantains, coconut, okra and sweet potatoes.[236] Heavy stews spiced with habanero and scotch bonnet chillies are popular and eaten with fufu.[237] Liberia also has a tradition of baking imported from the United States that is unique in West Africa.[238]
+, Monrovia, Liberia]] Liberian cuisine heavily incorporates rice, the country's staple food. Other ingredients include cassava, fish, bananas, citrus fruit, plantains, coconut, okra and sweet potatoes.[236] Heavy stews spiced with habanero and scotch bonnet chillies are popular and eaten with fufu.[237] Liberia also has a tradition of baking imported from the United States that is unique in West Africa.[238]
 
 Sport
 

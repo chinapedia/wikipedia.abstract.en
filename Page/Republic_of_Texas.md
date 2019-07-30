@@ -17,7 +17,7 @@ Native languages (Caddo, Comanche) and Portuguese regionally |currency = Republi
 
 }}
 
-Flag_of_Republic_of_Texas_(1836-1839).svg used from December 1836 to January 1839 as the national flag until it was replaced by the Lone Star Flag, and as the war flag from January 25, 1839 to December 29, 1845[1]]] Flag_of_the_Republic_of_Texas_(1835-1839).svg of the Texas Navy from 1836–1839 until it was replaced by the Lone Star Flag[2]]] Flag_of_Texas.svg became the national flag on January 25, 1839 (identical to modern state flag)[3]]]
+used from December 1836 to January 1839 as the national flag until it was replaced by the Lone Star Flag, and as the war flag from January 25, 1839 to December 29, 1845[1]]] of the Texas Navy from 1836–1839 until it was replaced by the Lone Star Flag[2]]] became the national flag on January 25, 1839 (identical to modern state flag)[3]]]
 
 The REPUBLIC OF TEXAS () was a sovereign state in North America that existed from March 2, 1836, to February 19, 1846. It was bordered by Mexico to the west and southwest, the Gulf of Mexico to the southeast, the two U.S. states of Louisiana and Arkansas to the east and northeast, and United States territories encompassing parts of the current U.S. states of Oklahoma, Kansas, Colorado, Wyoming, and New Mexico to the north and west. The citizens of the republic were known as Texians.
 
@@ -44,7 +44,7 @@ Independent republic
 
 Politics
 
-Lizars_Mexico_&_Guatimala_1836_UTA_(detail_of_Texas).jpg, 1836]] Map_of_the_Republic_of_Texas_and_the_Adjacent_Territories,_1841.jpg, 1841]]
+, 1836]] , 1841]]
 
 The second Congress of the Republic of Texas convened in October 1836 at Columbia (now West Columbia). Stephen F. Austin, known as the _Father of Texas_, died December 27, 1836, after serving two months as Secretary of State for the new Republic.
 
@@ -67,7 +67,7 @@ There were also domestic disturbances. The Regulator–Moderator War involved a 
 
 Government
 
-Alamo_1936_Issue-3c.jpg and Stephen F. Austin depicted on a 1936 US postage stamp commemorating 100th anniversary of the Texas Republic]] After gaining their independence, the Texas voters had elected a Congress of 14 senators and 29 representatives in September 1836. The Constitution allowed the first president to serve for two years and subsequent presidents for three years. To hold an office or vote, a person had to be a citizen of the Republic.[24]
+and Stephen F. Austin depicted on a 1936 US postage stamp commemorating 100th anniversary of the Texas Republic]] After gaining their independence, the Texas voters had elected a Congress of 14 senators and 29 representatives in September 1836. The Constitution allowed the first president to serve for two years and subsequent presidents for three years. To hold an office or vote, a person had to be a citizen of the Republic.[24]
 
 However, it is important to note that citizenship was not granted to all previous inhabitants of Texas, and not all of them could even live legally within the limits of the Republic without the consent of Congress. In this regard, the Constitution of the Republic of Texas (1836) established major differences according to the ethnicity of each individual. Section 10 of the General Provisions of the constitution stated that all persons who resided in Texas on the day of the Declaration of Independence were considered citizens of the Republic, excepting "Africans, the descendants of Africans, and Indians."[25] For new white immigrants, section 6 established that, to become citizens, they needed to live in the Republic for at least six months and take an oath. While regarding the black population, section 9 established that black persons who were brought to Texas as slaves were to remain slaves and that not even their owner could emancipate them without the consent of Congress—and the Congress was not allowed to make laws that affected the slave trade or declare emancipation. Section 9 also established that: "No free person of African descent, either in whole or in part, shall be permitted to reside permanently in the Republic, without the consent of Congress."[26]
 
@@ -80,7 +80,7 @@ The court system inaugurated by Congress included a Supreme Court consisting of 
 
 Education
 
-Baylor_University_1892_front.png, 1892 lithograph]]
+, 1892 lithograph]]
 
 President Anson Jones signed the charter for Baylor University in the fall of 1845.[27] Henry Lee Graves was elected Baylor's first president. It is believed to be the oldest university in Texas, however, Rutersville College was chartered in 1840 with land and the town of Rutersville.[28] Chauncey Richardson[29] was elected Rutersville's first president. The college later became Southwestern University in Georgetown, Fayette county.[30] University of Mary Hardin-Baylor was also chartered by the Republic of Texas in 1845, and received lands in Belton, Texas.[31] Wesleyan College, chartered in 1844 and signed by president Sam Houston, another predecessor to Southwestern did not survive long due to competition from other colleges.[32] Mirabeau Lamar signed a charter in 1844 for the Herman University for medicine but classes never started due to lack of funds.[33] The University of San Augustine was chartered June 5, 1837, but did not open until 1842 when Marcus A. Montrose became president. There were as many as 150 students enrolled, however, attendance declined to 50 in 1845, and further situations including animosity and embittered factions in the community closed the university in 1847.[34] Later it became the University of East Texas, and soon after that became the Masonic Institute of San Augustine in 1851. Guadalupe College at Gonzales was approved January 30th, 1841, however, there were no construction efforts ensued for the next eleven years.[35]
 
@@ -91,8 +91,6 @@ thumb|right|upright=1.35|Mexico between 1835-1935 faced many independence moveme
 
 
 Diplomatic relations
-
-Hôtel_Bataille_de_Francès.jpg
 
 On March 3, 1837, US President Andrew Jackson appointed Alcée La Branche American _chargé d'affaires_ to the Republic of Texas, thus officially recognizing Texas as an independent republic.[38] France granted official recognition of Texas on September 25, 1839, appointing Alphonse Dubois de Saligny to serve as _chargé d'affaires_. The French Legation was built in 1841, and still stands in Austin as the oldest frame structure in the city.[39] Conversely, the Republic of Texas embassy in Paris was located in what is now the _Hôtel de Vendôme_, adjacent to the Place Vendôme in Paris's 2e arrondissement.[40]
 
@@ -114,8 +112,6 @@ Presidents and vice presidents
 Statehood
 
 On February 28, 1845, the US Congress passed a bill that authorized the United States to annex the Republic of Texas. On March 1, US President John Tyler signed the bill. The legislation set the date for annexation for December 29 of the same year. Faced with imminent American annexation of Texas, Charles Elliot and Alphonse de Saligny, the British and French ministers to Texas, were dispatched to Mexico City by their governments. Meeting with Mexico's foreign secretary, they signed a "Diplomatic Act" in which Mexico offered to recognize an independent Texas with boundaries determined with French and British mediation. Texas President Anson Jones forwarded both offers to a specially elected convention meeting at Austin, and the American proposal was accepted with only one dissenting vote. The Mexican proposal was never put to a vote. Following the previous decree of President Jones, the proposal was then put to a vote throughout the republic.
-
-Texas_Statehood_1945_Issue-3c.jpg Texas_proposed_boundaries.svg
 
 On October 13, 1845, a large majority of voters in the republic approved both the American offer and the proposed constitution that specifically endorsed slavery and emigrants bringing slaves to Texas.[42] This constitution was later accepted by the US Congress, making Texas a US state on the same day annexation took effect, December 29, 1845 (therefore bypassing a territorial phase).[43] One of the motivations for annexation was the huge debts which the Republic of Texas government had incurred. As part of the Compromise of 1850, in return for $10,000,000 in Federal bonds, Texas dropped claims to territory that included parts of present-day Colorado, Kansas, Oklahoma, New Mexico, and Wyoming.
 

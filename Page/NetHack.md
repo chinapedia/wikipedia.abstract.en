@@ -30,7 +30,7 @@ _NetHack_'s dungeon spans about 50 primary levels, of which most are randomly ge
 
 Items and tools
 
-Nethack-inventory.png _NetHack_ features a variety of items: weapons (either ranged or melee), armor to protect the player; scrolls and spellbooks to read, potions to quaff, wands, rings, amulets, and an assortment of tools such as keys and lamps.[19]
+_NetHack_ features a variety of items: weapons (either ranged or melee), armor to protect the player; scrolls and spellbooks to read, potions to quaff, wands, rings, amulets, and an assortment of tools such as keys and lamps.[19]
 
 _NetHack_'s identification of items is almost identical to _Rogue_'s. For example, a newly discovered potion may be referred to as a 'pink potion' with no other clues as to its identity. Players can perform a variety of actions and tricks to deduce, or at least narrow down, the identity of the potion.[20] The most obvious is the somewhat risky tactic of simply drinking it. All items of a certain type will have the same description; for instance, all scrolls of enchant weapon may be labeled 'TEMOV', and once one has been identified, all scrolls of enchant weapon found will be labeled unambiguously as such. Starting a new game will scramble the items' descriptions again, so the 'silver ring' that is a ring of levitation in one game might be a ring of hunger in another.
 

@@ -50,7 +50,7 @@ Kangchenjunga and its satellite peaks form a huge mountain massif.[20] The massi
 | Kangbachen[25]                       | 7,903      | 25,928      |          | 103            | 337             | Kangchenjunga West           | Taplejung, Province No. 1, Nepal                               |
 +--------------------------------------+------------+-------------+----------+----------------+-----------------+------------------------------+----------------------------------------------------------------+
 
-KANGCHENJUNGA_MAP_by_GARWOOD,_1903.jpg Kangchenjunga_South_Face.jpg]]
+]]
 
 The main ridge of the massif runs from north-northeast to south-southwest and forms a watershed to several rivers.[26] Together with ridges running roughly from east to west they form a giant cross.[27] These ridges contain a host of peaks between . The northern section includes Yalung Kang, Kangchenjunga Central and South, Kangbachen, Kirat Chuli, and Gimmigela Chuli, and runs up to the Jongsang La. The eastern ridge in Sikkim includes Siniolchu. The southern section runs along the Nepal-Sikkim border and includes Kabru I to III.[28] This ridge extends southwards to the Singalila Ridge.[29] The western ridge culminates in the Kumbhakarna, also known as Jannu.[30]
 
@@ -63,12 +63,12 @@ Although it is the third highest peak in the world, Kangchenjunga is only ranked
 
 Climbing routes
 
-Kanchenjunga-north.jpg There are four climbing routes to reach the summit of Kangchenjunga, three of which are in Nepal from the southwest, northwest, and northeast, and one from northeastern Sikkim in India. To date, the northeastern route from Sikkim has been successfully used only three times. The Indian government has banned expeditions to Kanchenjunga; therefore, this route has been closed since 2000.[39]
+There are four climbing routes to reach the summit of Kangchenjunga, three of which are in Nepal from the southwest, northwest, and northeast, and one from northeastern Sikkim in India. To date, the northeastern route from Sikkim has been successfully used only three times. The Indian government has banned expeditions to Kanchenjunga; therefore, this route has been closed since 2000.[39]
 
 
 Climbing history
 
-Kanchenjunga_summit_ca._1857.jpeg by Hermann Schlagintweit, 1855[40]]] Sunset_on_Kinchenjunga.jpg Kangch-Goechala.jpg, Sikkim at ]] Kangchenjunga_From_Darjeeling_War_Memorial.jpg
+by Hermann Schlagintweit, 1855[40]]] , Sikkim at ]]
 
 Early reconnaissances and attempts
 
@@ -88,11 +88,9 @@ Early reconnaissances and attempts
 
 First ascent
 
-Kangchenjunga_Sign_Board.jpg 1990_reunion_of_the_Kangchenjunga_climbers.jpg, Charles Evans and Joe Brown and rear (left to right): Tony Streather, Norman Hardie, George Band, and Professor John Clegg.]] In 1955, Joe Brown and George Band made the first ascent on 25 May, followed by Norman Hardie and Tony Streather on 26 May. The full team also included John Clegg (team doctor), Charles Evans (team leader), John Angelo Jackson, Neil Mather, and Tom Mackinnon. Sunrise_over_Kangchenjunga.jpg The ascent proved that Aleister Crowley's 1905 route (also investigated by the 1954 reconnaissance) was viable. The route starts on the Yalung Glacier to the southwest of the peak, and climbs the Yalung Face, which is high. The main feature of this face is the "Great Shelf", a large sloping plateau at around , covered by a hanging glacier. The route is almost entirely on snow, glacier, and one icefall; the summit ridge itself can involve a small amount of travel on rock. The first ascent expedition made six camps above their base camp, two below the Shelf, two on it, and two above it. They started on 18 April, and everyone was back to base camp by 28 May.[55]
+, Charles Evans and Joe Brown and rear (left to right): Tony Streather, Norman Hardie, George Band, and Professor John Clegg.]] In 1955, Joe Brown and George Band made the first ascent on 25 May, followed by Norman Hardie and Tony Streather on 26 May. The full team also included John Clegg (team doctor), Charles Evans (team leader), John Angelo Jackson, Neil Mather, and Tom Mackinnon. The ascent proved that Aleister Crowley's 1905 route (also investigated by the 1954 reconnaissance) was viable. The route starts on the Yalung Glacier to the southwest of the peak, and climbs the Yalung Face, which is high. The main feature of this face is the "Great Shelf", a large sloping plateau at around , covered by a hanging glacier. The route is almost entirely on snow, glacier, and one icefall; the summit ridge itself can involve a small amount of travel on rock. The first ascent expedition made six camps above their base camp, two below the Shelf, two on it, and two above it. They started on 18 April, and everyone was back to base camp by 28 May.[55]
 
 Other notable ascents
-
-Kangchenjunga_3D.gif
 
 -   1973 Yutaka Ageta and Takeo Matsuda of the Japanese expedition summitted Kangchenjunga West (Yalung Kang) by climbing the SW Ridge.
 -   1977 The second ascent of Kangchenjunga, by an Indian Army team led by Colonel Narendra Kumar. They completed the northeast spur, the difficult ridge that defeated German expeditions in 1929 and 1931.
@@ -126,21 +124,21 @@ Despite improved climbing gear the fatality rate of climbers attempting to summi
 
 Tourism
 
-Mount_Kangchenjunga_seen_from_Tiger_Hill.jpg]] Kangchenjunga-from-Gangtok.jpg, Sikkim]]
+]] , Sikkim]]
 
 Because of its remote location in Nepal and the difficulty involved in accessing it from India, the Kangchenjunga region is not much explored by trekkers. It has, therefore, retained much of its pristine beauty. In Sikkim too, trekking into the Kangchenjunga region has just recently been permitted. The Goecha La trek is gaining popularity amongst tourists. It goes to the Goecha La Pass, located right in front of the huge southeast face of Kangchenjunga. Another trek to Green Lake Basin has recently been opened for trekking. This trek goes to the Northeast side of Kangchenjunga along the famous Zemu Glacier. The film Singalila in the Himalaya is journey around Kangchenjunga.
 
 
 In myth
 
-Five_Treasures_of_Snow.jpg The area around Kangchenjunga is said to be home to a mountain deity, called _Dzö-nga_[70] or "Kangchenjunga Demon", a type of yeti or rakshasa. A British geological expedition in 1925 spotted a bipedal creature which they asked the locals about, who referred to it as the "Kangchenjunga Demon".[71]
+The area around Kangchenjunga is said to be home to a mountain deity, called _Dzö-nga_[70] or "Kangchenjunga Demon", a type of yeti or rakshasa. A British geological expedition in 1925 spotted a bipedal creature which they asked the locals about, who referred to it as the "Kangchenjunga Demon".[71]
 
 For generations, there have been legends recounted by the inhabitants of the areas surrounding Mount Kanchenjunga, both in Sikkim and in Nepal, that there is a valley of immortality hidden on its slopes. These stories are well known to both the original inhabitants of the area, the Lepcha people, and those of the Tibetan Buddhist cultural tradition. In Tibetan, this valley is known as Beyul Demoshong. In 1962 a Tibetan Lama by the name of Tulshuk Lingpa led over 300 followers into the high snow slopes of Kanchenjunga to ‘open the way’ to Beyul Demoshong. The story of this expedition is recounted in the 2011 book _A Step Away from Paradise_.[72]
 
 
 In literature
 
-Kangchenjunga_East_Face_from_Zemu_Glacier.jpg, Sikkim]]
+, Sikkim]]
 
 -   In the _Swallows and Amazons_ series of books by Arthur Ransome, a high mountain (unnamed in the books, but clearly based on the Old Man of Coniston in the English Lake District) is given the name "Kanchenjunga" by the children when they climb it in 1931.
 -   In _The Epic of Mount Everest_, first published in 1926, Sir Francis Younghusband: " For natural beauty Darjiling (Darjeeling) is surely unsurpassed in the world. From all countries travellers come there to see the famous view of Kangchenjunga, in height, and only distant. Darjiling (Darjeeling) itself is above sea-level and is set in a forest of oaks, magnolia, rhododendrons, laurels and sycamores. And through these forests, the observer looks down the steep mountain-sides to the Rangeet River only above sea-level, and then up and up through tier after tier of forest-clad ranges, each bathed in a haze of deeper and deeper purple, till the line of snow is reached; and then still up to the summit of Kangchenjunga, now so pure and ethereal we can scarcely believe it is part of the solid earth on which we stand; and so high it seems part of the very sky itself."
@@ -152,8 +150,6 @@ Kangchenjunga_East_Face_from_Zemu_Glacier.jpg, Sikkim]]
 
 
 Further reading
-
-Mt._Kanchenjunga.jpg
 
 -   Joseph Dalton Hooker 1855. _Himalayan Journals_. Assistant-director of the Royal Botanic Gardens, Kew.
 -   Laurence Waddell 1899. _Among The Himalayas_. Travels in Sikkim. Book includes the exploration of the south of Kangchenjunga.

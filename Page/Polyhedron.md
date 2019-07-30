@@ -1,11 +1,8 @@
 +---------------------------------------+---------------------------------------------------+
-| Tetrahedron.png                       | Small_stellated_dodecahedron.png                  |
 | Regular tetrahedron Platonic solid    | Small stellated dodecahedron Kepler-Poinsot solid |
 +---------------------------------------+---------------------------------------------------+
-| Icosidodecahedron.png                 | Great_cubicuboctahedron.png                       |
 | Icosidodecahedron Archimedean solid   | Great cubicuboctahedron Uniform star-polyhedron   |
 +---------------------------------------+---------------------------------------------------+
-| Rhombic_triacontahedron.png           | Hexagonal_torus.png                               |
 | Rhombic triacontahedron Catalan solid | A toroidal polyhedron                             |
 +---------------------------------------+---------------------------------------------------+
 
@@ -20,7 +17,7 @@ A polyhedron is a 3-dimensional example of the more general polytope in any numb
 
 Definition
 
-Leonardo_polyhedra.png) drawn by Leonardo da Vinci to illustrate a book by Luca Pacioli]] Convex polyhedra are well-defined, with several equivalent standard definitions. However, the formal mathematical definition of polyhedra that are not required to be convex has been problematic. Many definitions of "polyhedron" have been given within particular contexts,[1] some more rigorous than others, and there is not universal agreement over which of these to choose. Some of these definitions exclude shapes that have often been counted as polyhedra (such as the self-crossing polyhedra) or include shapes that are often not considered as valid polyhedra (such as solids whose boundaries are not manifolds). As Branko Grünbaum observed, Nevertheless, there is general agreement that a polyhedron is a solid or surface that can be described by its vertices (corner points), edges (line segments connecting certain pairs of vertices), faces (two-dimensional polygons), and sometimes by its three-dimensional interior volume. One can distinguish among these different definitions according to whether they describe the polyhedron as a solid, whether they describe it as a surface, or whether they describe it more abstractly based on its incidence geometry.
+) drawn by Leonardo da Vinci to illustrate a book by Luca Pacioli]] Convex polyhedra are well-defined, with several equivalent standard definitions. However, the formal mathematical definition of polyhedra that are not required to be convex has been problematic. Many definitions of "polyhedron" have been given within particular contexts,[1] some more rigorous than others, and there is not universal agreement over which of these to choose. Some of these definitions exclude shapes that have often been counted as polyhedra (such as the self-crossing polyhedra) or include shapes that are often not considered as valid polyhedra (such as solids whose boundaries are not manifolds). As Branko Grünbaum observed, Nevertheless, there is general agreement that a polyhedron is a solid or surface that can be described by its vertices (corner points), edges (line segments connecting certain pairs of vertices), faces (two-dimensional polygons), and sometimes by its three-dimensional interior volume. One can distinguish among these different definitions according to whether they describe the polyhedron as a solid, whether they describe it as a surface, or whether they describe it more abstractly based on its incidence geometry.
 
 -   A common and somewhat naive definition of a polyhedron is that it is a solid whose boundary can be covered by finitely many planes[2][3] or that it is a solid formed as the union of finitely many convex polyhedra.[4] Natural refinements of this definition require the solid to be bounded, to have a connected interior, and possibly also to have a connected boundary. The faces of such a polyhedron can be defined as the connected components of the parts of the boundary within each of the planes that cover it, and the edges and vertices as the line segments and points where the faces meet. However, the polyhedra defined in this way do not include the self-crossing star polyhedra, their faces may not form simple polygons, and some edges may belong to more than two faces.[5]
 -   Definitions based on the idea of a bounding surface rather than a solid are also common.[6] For instance, defines a polyhedron as a union of convex polygons (its faces), arranged in space so that the intersection of any two polygons is a shared vertex or edge or the empty set and so that their union is a manifold.[7] If a planar part of such a surface is not itself a convex polygon, O'Rourke requires it to be subdivided into smaller convex polygons, with flat dihedral angles between them. Somewhat more generally, Grünbaum defines an _acoptic polyhedron_ to be a collection of simple polygons that form an embedded manifold, with each vertex incident to at least three edges and each two faces intersecting only in shared vertices and edges of each.[8] Cromwell gives a similar definition but without the restriction of three edges per vertex. Again, this type of definition does not encompass the self-crossing polyhedra.[9] Similar notions form the basis of topological definitions of polyhedra, as subdivisions of a topological manifold into topological disks (the faces) whose pairwise intersections are required to be points (vertices), topological arcs (edges), or the empty set. However, there exist topological polyhedra (even with all faces triangles) that cannot be realized as acoptic polyhedra.[10]
@@ -53,15 +50,13 @@ This is equal to the topological Euler characteristic of its surface. For a conv
 
 Orientability
 
-Klein_bottle2.svg with quadrilateral faces]] Some polyhedra have two distinct sides to their surface. For example, the inside and outside of a convex polyhedron paper model can each be given a different colour (although the inside colour will be hidden from view). These polyhedra are orientable. The same is true for non-convex polyhedra without self-crossings. Some non-convex self-crossing polyhedra can be coloured in the same way but have regions turned "inside out" so that both colours appear on the outside in different places; these are still considered to be orientable.
+with quadrilateral faces]] Some polyhedra have two distinct sides to their surface. For example, the inside and outside of a convex polyhedron paper model can each be given a different colour (although the inside colour will be hidden from view). These polyhedra are orientable. The same is true for non-convex polyhedra without self-crossings. Some non-convex self-crossing polyhedra can be coloured in the same way but have regions turned "inside out" so that both colours appear on the outside in different places; these are still considered to be orientable.
 
 But for some other self-crossing polyhedra with simple-polygon faces, such as the tetrahemihexahedron, it is not possible to colour the two sides of each face with two different colours so that adjacent faces have consistent colours. In this case the polyhedron is said to be one-sided or non-orientable. For polyhedra with self-crossing faces, it may not be clear what it means for adjacent faces to be consistently coloured, but for these polyhedra it is still possible to determine whether it is orientable or non-orientable by considering a topological cell complex with the same incidences between its vertices, edges, and faces.
 
 All polyhedra with odd-numbered Euler characteristic χ are non-orientable. A given figure with even χ < 2 may or may not be orientable. For example, the one-holed toroid and the Klein bottle both have χ = 0, with the first being orientable and the other not.
 
 Duality
-
-Dual_Cube-Octahedron.svg
 
 For every convex polyhedron, there exists a dual polyhedron having
 
@@ -93,14 +88,14 @@ Another of Hilbert's problems, Hilbert's 18th problem, concerns (among other thi
 
 Convex polyhedra
 
-UniversumUNAM19.JPG in Mexico City]] A three-dimensional solid is a convex set if it contains every line segment connecting two of its points. A convex polyhedron is a polyhedron that, as a solid, forms a convex set. A convex polyhedron can also be defined as a bounded intersection of finitely many half-spaces, or as the convex hull of finitely many points.
+in Mexico City]] A three-dimensional solid is a convex set if it contains every line segment connecting two of its points. A convex polyhedron is a polyhedron that, as a solid, forms a convex set. A convex polyhedron can also be defined as a bounded intersection of finitely many half-spaces, or as the convex hull of finitely many points.
 
 Important classes of convex polyhedra include the highly symmetrical Platonic solids, the Archimedean solids and their duals the Catalan solids, and the regular-faced Johnson solids.
 
 
 Symmetries
 
-Revolução_de_poliedros_03.webm)]] Many of the most studied polyhedra are highly symmetrical, that is, their appearance is unchanged by some reflection or rotation of space. Each such symmetry may change the location of a given vertex, face, or edge, but the set of all vertices (likewise faces, edges) is unchanged. The collection of symmetries of a polyhedron is called its symmetry group.
+)]] Many of the most studied polyhedra are highly symmetrical, that is, their appearance is unchanged by some reflection or rotation of space. Each such symmetry may change the location of a given vertex, face, or edge, but the set of all vertices (likewise faces, edges) is unchanged. The collection of symmetries of a polyhedron is called its symmetry group.
 
 All the elements that can be superimposed on each other by symmetries are said to form a symmetry orbit. For example, all the faces of a cube lie in one orbit, while all the edges lie in another. If all the elements of a given dimension, say all the faces, lie in the same orbit, the figure is said to be transitive on that orbit. For example, a cube is face-transitive, while a truncated cube has two symmetry orbits of faces.
 
@@ -125,9 +120,9 @@ Regular polyhedra are the most highly symmetrical. Altogether there are nine reg
 
 The five convex examples have been known since antiquity and are called the Platonic solids. These are the triangular pyramid or tetrahedron, cube, octahedron, dodecahedron and icosahedron:
 
-  ----------------- ---------------- ---------------- ------------------ -----------------
-  Tetrahedron.jpg   Hexahedron.jpg   Octahedron.jpg   Dodecahedron.jpg   Icosahedron.jpg
-  ----------------- ---------------- ---------------- ------------------ -----------------
+  -- -- -- -- --
+
+  -- -- -- -- --
 
 There are also four regular star polyhedra, known as the Kepler–Poinsot polyhedra after their discoverers.
 
@@ -155,7 +150,7 @@ An ISOHEDRON is a polyhedron with symmetries acting transitively on its faces. T
 
 Symmetry groups
 
-Icosahedral_reflection_domains.png divides the sphere into 120 triangular domains.]] Many of the symmetries or point groups in three dimensions are named after polyhedra having the associated symmetry. These include:
+divides the sphere into 120 triangular domains.]] Many of the symmetries or point groups in three dimensions are named after polyhedra having the associated symmetry. These include:
 
 -   T – CHIRAL TETRAHEDRAL SYMMETRY; the rotation group for a regular tetrahedron; order 12.
 -   T_(D) – FULL TETRAHEDRAL SYMMETRY; the symmetry group for a regular tetrahedron; order 24.
@@ -205,9 +200,9 @@ It is the exact reciprocal to the process of facetting, which is the process of 
 
 The figures below show some stellations of the regular octahedron, dodecahedron, and icosahedron.
 
-  ------------------------------------ -------------------------------------- --------------------------------------- -------------------------------------- ----------------------------------------- ------------------------------------- -------------------------------------------
-  First_stellation_of_octahedron.png   First_stellation_of_dodecahedron.png   Second_stellation_of_dodecahedron.png   Third_stellation_of_dodecahedron.png   Sixteenth_stellation_of_icosahedron.png   First_stellation_of_icosahedron.png   Seventeenth_stellation_of_icosahedron.png
-  ------------------------------------ -------------------------------------- --------------------------------------- -------------------------------------- ----------------------------------------- ------------------------------------- -------------------------------------------
+  -- -- -- -- -- -- --
+
+  -- -- -- -- -- -- --
 
 Zonohedra
 

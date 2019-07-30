@@ -7,11 +7,7 @@ Concept
 
 A weekly fantasy adventure, _Little Nemo in Slumberland_ featured the young Nemo ("No one" in Latin) who dreamed himself into wondrous predicaments from which he awoke in bed in the last panel. The first episode begins with a command from King Morpheus of Slumberland to a minion to collect Nemo. Nemo was to be the playmate of Slumberland's Princess, but it took months of adventures before Nemo finally arrived; a green, cigar-chewing clown named Flip was determined to disturb Nemo's sleep with a top hat emblazoned with the words "Wake Up." Nemo and Flip eventually become companions, and are joined by an African Imp whom Flip finds in the Candy Islands. The group travels far and wide, from shanty towns to Mars, to Jack Frost's palace, to the bizarre architecture and distorted funhouse-mirror illusions of Befuddle Hall.
 
-Little_Nemo_1907-12-01_panels_3_and_4.jpg
-
 The strip shows McCay's understanding of dream psychology, particularly of dream fears—falling, drowning, impalement. This dream world has its own moral code, perhaps difficult to understand. Breaking it has terrible consequences, as when Nemo ignores instructions not to touch Queen Crystalette, who inhabits a cave of glass. Overcome with his infatuation, he causes her and her followers to shatter, and awakens with "the groans of the dying guardsmen still ringing in his ears".
-
-Little_Nemo_1907-09-29.jpg
 
 Although the strip began October 15, 1905 with Morpheus, ruler of Slumberland, making his first attempt to bring Little Nemo to his realm, Nemo did not get into Slumberland until March 4, 1906 and, due to Flip's interfering, did not get to see the Princess until July 8. His dream quest is always interrupted by either him falling out of bed, or his parents forcibly waking him up.
 
@@ -23,8 +19,6 @@ Story-arcs included Befuddle Hall, a voyage to Mars (with a well-realized Martia
 Style
 
 McCay experimented with the form of the comics page, its timing and pacing, the size and shape of its panels, perspective, and architectural and other detail. From the second installment, McCay had the panel sizes and layouts conform to the action in the strip: as a forest of mushrooms grew, so did the panels, and the panels shrank as the mushrooms collapsed on Nemo. In an early Thanksgiving episode, the focal action of a giant turkey gobbling Nemo's house receives an enormous circular panel in the center of the page. McCay also accommodated a sense of proportion with panel size and shape, showing elephants and dragons at a scale the reader could feel in proportion to the regular characters. Narrative pacing McCay controlled through variation or repetition, as with equally-sized panels whose repeated layouts and minute differences in movement conveyed a feeling of buildup to some climactic action.
-
-Little_Nemo_1905-11-26_middle_five_panels.jpg
 
 In his familiar Art Nouveau-influenced style McCay outlined his characters in heavy blacks. Slumberland's ornate architecture was reminiscent of the architecture designed by McKim, Mead & White for the 1893 World's Columbian Exposition in Chicago, as well as Luna Park and Dreamland in Coney Island, and the Parisian Luxembourg Palace.
 
@@ -45,7 +39,7 @@ Background
 
 Winsor McCay ( – 1934) had worked prolifically as a commercial artist and cartoonist in carnivals and dime museums before he began working for newspapers and magazines in 1898. In 1903, he joined the staff of the _New York Herald_ family of newspapers, where he had success with comic strips such as _Little Sammy Sneeze_ (1904–06). and _Dream of the Rarebit Fiend_ (1904–11)
 
-Bobbie_McCay_Little_Nemo.jpg served as the model for Nemo.]]
+served as the model for Nemo.]]
 
 In 1905, McCay got "an idea from the _Rarebit Fiend_ to please the little folk". In That October, the full-page Sunday strip _Little Nemo in Slumberland_ debuted in the _Herald_. Considered McCay's masterpiece, its child protagonist, whose appearance was based on McCay's son Robert, had fabulous dreams that would be interrupted with his awakening in the last panel. McCay experimented with the form of the comics page, its timing and pacing, the size and shape of its panels, perspective, architectural and other detail. The _Herald_ was considered to have the highest quality color printing of any newspaper at the time. Its printing staff used the Ben Day process for color.
 
@@ -67,8 +61,6 @@ Adaptations
 
 Theatre
 
-Master_Gabriel_Little_Nemo.jpg
-
 As early as 1905, several abortive attempts were made to put _Little Nemo_ on stage. In summer 1907, Marcus Klaw and A. L. Erlanger announced they would put on an extravagant _Little Nemo_ show for an unprecedented $100,000, with a score by Victor Herbert and lyrics by Harry B. Smith. It starred dwarf Gabriel Weigel as Nemo, Joseph Cawthorn as Dr. Pill, and Billy B. Van as Flip. Reviews were positive, and it played to sold-out houses in New York. It went on the road for two seasons. McCay brought his vaudeville act to each city where _Little Nemo_ played. When a Keith circuit refused to let McCay perform in Boston without a new act, McCay switched to the William Morris circuit, with a $100-a-week raise. In several cities, McCay brought his son, who sat on a small throne dressed as Nemo as publicity.
 
 As part of an improvised story, Cawthorn introduced a mythical creature he called a "Whiffenpoof". The word stuck with the public, and became the name of a hit song and a singing group. One reviewer of the 1908 operetta gave a paragraph of praise to the comic hunting tales presented in a scene in which three hunters are trying to outdo each other with hunting stories about the "montimanjack", the "peninsula", and the "whiffenpoof". He calls it "one of the funniest yarns ever spun" and compares it favorably to Lewis Carroll's The Hunting of the Snark.[3] One source indicates that the dialogue in fact began as an ad lib by actor Joseph Cawthorn, covering for some kind of backstage problem during a performance.[4] The Word is also referred in one of the Little Nemo comic strips published in 1909 (April 11). After being held down by nine policemen during a hysteria crisis, Nemo’s father tells the doctor: “Just keep those whiffenpoofs away. Will you?”.
@@ -78,8 +70,6 @@ Despite the show's success, it failed to make back its investment due to its eno
 In March 2017, a short, one-act adaptation of the "Little Nemo" adventures was staged at Fordham University in New York City. The play, simply entitled _Little Nemo in Slumberland_, was written by Aladdin Lee Grant Rutledge Collar, and directed by student Peter McNally. The six person cast, as well as creative team, consisted of students and alums at the university.[5]
 
 Film
-
-Winsor_McCay,_the_Famous_Cartoonist_of_the_N.Y._Herald_and_His_Moving_Comics_-_Little_Nemo_(1911).webm
 
 McCay played an important role in the early history of animation. In 1911 he completed his first film, _Winsor McCay, the Famous Cartoonist of the N.Y. Herald and His Moving Comics_ (also known as _Little Nemo_), first in theatres and then as part of his vaudeville act. McCay made the 4,000 rice-paper drawings for the animated portion of the film. The animated portion took up about four minutes of the film's total length. Photography was done at the Vitagraph Studios under the supervision of animation pioneer James Stuart Blackton. During the live-action portion of the film, McCay bets his colleagues he can make his drawings move. He wins the bet by animating his _Little Nemo_ characters, who shapeshift and transform.
 
@@ -135,7 +125,7 @@ Eric Shanower and Gabriel Rodriguez revived the characters in 2014 in an IDW com
 
 Legacy
 
-Little_Nemo_in_Slumberland_mural_downtown_Cincinnati,_OH_Oct_2016.jpg Comics historian R. C. Harvey has called McCay "the first original genius of the comic strip medium". Harvey claims that McCay's contemporaries lacked the skill to continue with his innovations, so that they were left for future generations to rediscover and build upon. Cartoonist Robert Crumb called McCay a "genius" and one of his favorite cartoonists. Art Spiegelman's _In the Shadow of No Towers_ (2004) appropriated some of McCay's imagery, and included a page of _Little Nemo_ in its appendix. Federico Fellini read _Little Nemo_ in the children's magazine _Il corriere dei piccoli_, and the strip was a "powerful influence" on the filmmaker, according to Fellini biographer Peter Bondanella.
+Comics historian R. C. Harvey has called McCay "the first original genius of the comic strip medium". Harvey claims that McCay's contemporaries lacked the skill to continue with his innovations, so that they were left for future generations to rediscover and build upon. Cartoonist Robert Crumb called McCay a "genius" and one of his favorite cartoonists. Art Spiegelman's _In the Shadow of No Towers_ (2004) appropriated some of McCay's imagery, and included a page of _Little Nemo_ in its appendix. Federico Fellini read _Little Nemo_ in the children's magazine _Il corriere dei piccoli_, and the strip was a "powerful influence" on the filmmaker, according to Fellini biographer Peter Bondanella.
 
 McCay's original artwork has been poorly preserved. McCay insisted on having his originals returned to him, and a large collection survived him, but much of it was destroyed in a fire in the late 1930s. His wife was unsure how to handle the surviving pieces, so his son took on the responsibility and moved the collection into his own house. The family sold off some of the artwork when they were in need of cash. Responsibility for it passed to Mendelsohn, then later to daughter Marion. By the early twenty-first century, most of McCay's surviving artwork remained in family hands.
 

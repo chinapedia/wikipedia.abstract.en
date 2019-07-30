@@ -7,19 +7,17 @@ The Rhine, Meuse and Scheldt give waterway access into the heart of Western Euro
 
 History
 
-Blaeu_1652_-_Rotterdam.jpg and Joan Blaeu (1652)]]
+and Joan Blaeu (1652)]]
 
 The settlement at the lower end of the fen stream _Rotte_ (or _Rotta_, as it was then known, from _rot_, "muddy" and _a_, "water", thus "muddy water") dates from at least 900 CE. Around 1150, large floods in the area ended development, leading to the construction of protective dikes and dams, including _Schielands Hoge Zeedijk_ ("Schieland’s High Sea Dike") along the northern banks of the present-day Nieuwe Maas. A dam on the Rotte was built in the 1260s and was located at the present-day _Hoogstraat_ ("High Street").
 
 On 7 July 1340, Count Willem IV of Holland granted city rights to Rotterdam, whose population then was only a few thousand.[10] Around the year 1350, a shipping canal, the _Rotterdamse Schie_ was completed, which provided Rotterdam access to the larger towns in the north, allowing it to become a local trans-shipment centre between the Netherlands, England and Germany, and to urbanize.[11]
 
-Detroit_Publishing_Company_-_Rotterdam_-_Delftsevaart,_c._1895.jpg
-
 The port of Rotterdam grew slowly but steadily into a port of importance, becoming the seat of one of the six "chambers" of the _Vereenigde Oostindische Compagnie_ (VOC), the Dutch East India Company.
 
 The greatest spurt of growth, both in port activity and population, followed the completion of the Nieuwe Waterweg in 1872. The city and harbor started to expand on the south bank of the river. The _Witte Huis_ or _White House_ skyscraper,[12] inspired by American office buildings and built in 1898 in the French Château-style, is evidence of Rotterdam's rapid growth and success. When completed, it was the tallest office building in Europe, with a height of .
 
-Rotterdam,_Laurenskerk,_na_bombardement_van_mei_1940.jpg. The ruined St. Lawrence' Church has been restored]] Rotterdam-Kop_van_Zuid,_World_Portcenter,_Montevideo_en_hotel_New_York_foto12_2011-01-09_14.12.JPGs in the Kop van Zuid neighbourhood]]
+. The ruined St. Lawrence' Church has been restored]] s in the Kop van Zuid neighbourhood]]
 
 During World War I the city was the world's largest spy centre because of Dutch neutrality and its strategic location in between Great-Britain, Germany and German-occupied Belgium. Many spies who were arrested and executed in Britain were led by German secret agents operating from Rotterdam. MI6 had its main European office on de Boompjes. From there the British coordinated espionage in Germany and occupied Belgium. During World War I, an average of 25,000 Belgian refugees lived in the city, as well as hundreds of German deserters and escaped Allied prisoners of war.[13]
 
@@ -30,15 +28,13 @@ Rotterdam was gradually rebuilt from the 1950s through to the 1970s. It remained
 
 Geography
 
-Rotterdam-plaats-OpenTopo.jpg
-
 'Rotterdam' is divided into a northern and a southern part by the river Nieuwe Maas, connected by (from west to east): the Beneluxtunnel; the Maastunnel; the _Erasmusbrug_ ('Erasmus Bridge'); a subway tunnel; the _Willemsspoortunnel_ ('Willems railway tunnel'); the _Willemsbrug_ ('Willems Bridge'); the _Koninginnebrug_ ('Queen's Bridge'); and the _Van Brienenoordbrug_ ('Van Brienenoord Bridge'). The former railway lift bridge _De Hef_ ('the Lift') is preserved as a monument in lifted position between the _Noordereiland_ ('North Island') and the south of Rotterdam.
 
 The city centre is located on the northern bank of the Nieuwe Maas, although recent urban development has extended the centre to parts of southern Rotterdam known as _De Kop van Zuid_ ('the Head of South', i.e. the northern part of southern Rotterdam). From its inland core, Rotterdam reaches the North Sea by a swathe of predominantly harbour area.
 
-Built mostly behind dikes, large parts of the Rotterdam are below sea level. For instance, the Prins Alexander Polder in the northeast of Rotterdam extends below sea level, or rather below Normaal Amsterdams Peil (NAP) or 'Amsterdam Ordnance Datum'. The lowest point in the Netherlands ( below NAP) is situated just to the east of Rotterdam, in the municipality of Nieuwerkerk aan den IJssel. Rotterdam_by_Sentinel-2.jpg
+Built mostly behind dikes, large parts of the Rotterdam are below sea level. For instance, the Prins Alexander Polder in the northeast of Rotterdam extends below sea level, or rather below Normaal Amsterdams Peil (NAP) or 'Amsterdam Ordnance Datum'. The lowest point in the Netherlands ( below NAP) is situated just to the east of Rotterdam, in the municipality of Nieuwerkerk aan den IJssel.
 
-The Rotte river no longer joins the Nieuwe Maas directly. Since the early 1980s, when the construction of Rotterdam’s second subway line interfered with the Rotte’s course, its waters have been pumped through a pipe into the Nieuwe Maas via the Boerengat. Metropoolregio_Rotterdam_Den_Haag_(Rotterdam_The_Hague_Metropolitan_Area).svg
+The Rotte river no longer joins the Nieuwe Maas directly. Since the early 1980s, when the construction of Rotterdam’s second subway line interfered with the Rotte’s course, its waters have been pumped through a pipe into the Nieuwe Maas via the Boerengat.
 
 Between the summers of 2003 and 2008, an artificial beach was created at the Boompjeskade along the Nieuwe Maas, between the Erasmus Bridge and the Willems Bridge. Swimming was not possible, digging pits was limited to the height of the layer of sand, about . Alternatively people go the beach of Hoek van Holland (which is a Rotterdam district) or one of the beaches in Zeeland: Renesse or the Zuid Hollandse Eilanden: Ouddorp, Oostvoorne.
 
@@ -117,7 +113,7 @@ Since 1795 Rotterdam has hosted the chief congregation of the liberal Protestant
 
 Economy
 
-Rotterdam_NationaleNederlanden.jpg, one of the tallest office buildings in the Netherlands]]
+, one of the tallest office buildings in the Netherlands]]
 
 Rotterdam has always been one of the main centres of the shipping industry in the Netherlands. From the Rotterdam Chamber of the VOC, the world's first multinational, established in 1602, to the merchant shipping leader Royal Nedlloyd established in 1970, with its corporate headquarters located in the landmark building the 'Willemswerf' in 1988.[27] In 1997, Nedlloyd merged with the British shipping industry leader P&O forming the third largest merchant shipping company in the world. The Anglo-Dutch P&O Nedlloyd was bought by the Danish giant corporation 'AP Moller Maersk' in 2005 and its Dutch operations are still headquartered in the 'Willemswerf'.
 
@@ -128,8 +124,6 @@ The City of Rotterdam makes use of the services of semi-government companiesRote
 Being the largest port and one of the largest cities of the country, Rotterdam attracts many people seeking jobs, especially in the cheap labour segment. The city's unemployment rate is 12%, almost twice the national average.[28]
 
 Ports
-
-ECT_waalhaven_bij_nacht.jpg 9-028_Rotterdam_ECT.jpg
 
 Rotterdam is the largest port in Europe, with the rivers Meuse and Rhine providing excellent access to the hinterland upstream reaching to Basel, Switzerland and into France. In 2004 Shanghai took over as the world's busiest port. In 2006, Rotterdam was the world's seventh largest container port in terms of twenty-foot equivalent units (TEU) handled.[29]
 
@@ -144,7 +138,7 @@ The main shopping venue in the south of Rotterdam is Zuidplein, which lies close
 
 Education
 
-Rotterdam_standbeeld_Erasmus.jpg created by Hendrick de Keyser in 1622]] Rotterdam has one major university, the Erasmus University Rotterdam (EUR), named after one of the city's famous former inhabitants, Desiderius Erasmus. The Woudestein campus houses (among others) Rotterdam School of Management, Erasmus University. In Financial Times' 2005 rankings it placed 29th globally and 7th in Europe. In the 2009 rankings of Masters of Management, the school reached first place with the CEMS Master in Management and a tenth place with its RSM Master in Management.[30] The university is also home to Europe's largest student association, STAR Study Association Rotterdam School of Management, Erasmus University and the world's largest student association, AIESEC, has its international office in the city.
+created by Hendrick de Keyser in 1622]] Rotterdam has one major university, the Erasmus University Rotterdam (EUR), named after one of the city's famous former inhabitants, Desiderius Erasmus. The Woudestein campus houses (among others) Rotterdam School of Management, Erasmus University. In Financial Times' 2005 rankings it placed 29th globally and 7th in Europe. In the 2009 rankings of Masters of Management, the school reached first place with the CEMS Master in Management and a tenth place with its RSM Master in Management.[30] The university is also home to Europe's largest student association, STAR Study Association Rotterdam School of Management, Erasmus University and the world's largest student association, AIESEC, has its international office in the city.
 
 The Willem de Kooning Academy Rotterdam's main art school, which is part of the Hogeschool Rotterdam. It is regarded as one of the most prestigious art schools in the Netherlands and the number 1 in Advertising and Copywriting. Part of the Willem de Kooning Academy is the Piet Zwart Institute for postgraduate studies and research in Fine Art, Media Design and Retail Design. The Piet Zwart Institute boasts a selective roster of emerging international artists.
 
@@ -159,7 +153,7 @@ Unique to the city is the Shipping & Transport College which offers masters, bac
 
 Culture
 
-HerdenkingVuurgrensRotterdam1940_2007_edit1.jpg]] Alongside Porto, Rotterdam was European Capital of Culture in 2001. The city has its own orchestra, the Rotterdam Philharmonic, with its well-regarded young music director Yannick Nézet-Séguin; a large congress and concert building called _De Doelen_; several theaters (including the new _Luxor_) and movie theatres; and the Rotterdam Ahoy complex in the south of the city, which is used for pop concerts, exhibitions, tennis tournaments, and other activities. A major zoo called Diergaarde Blijdorp is situated at the northwest side of Rotterdam, complete with a walkthrough sea aquarium called the Oceanium.
+]] Alongside Porto, Rotterdam was European Capital of Culture in 2001. The city has its own orchestra, the Rotterdam Philharmonic, with its well-regarded young music director Yannick Nézet-Séguin; a large congress and concert building called _De Doelen_; several theaters (including the new _Luxor_) and movie theatres; and the Rotterdam Ahoy complex in the south of the city, which is used for pop concerts, exhibitions, tennis tournaments, and other activities. A major zoo called Diergaarde Blijdorp is situated at the northwest side of Rotterdam, complete with a walkthrough sea aquarium called the Oceanium.
 
 Rotterdam features some urban architecture projects, nightlife, and many summer festivals celebrating the city's multicultural population and identity, such as the Caribbean-inspired "Summer Carnival", the Dance Parade, Rotterdam 666, the Metropolis pop festival and the World Port days. In the years 2005–2011 the city struggled with venues for popmusic. Many of the venues suffered severe financial problems. This resulted in the disappearance of the major music venues Nighttown and WATT and smaller stages such as Waterfront, Exit, and Heidegger. Currently the city has a few venues for pop music like Rotown, Poortgebouw and Annabel. The venue WORM focuses on experimental music and related cutting edge subcultural music. There are also the International Film Festival in January, the Poetry International Festival in June, the North Sea Jazz Festival in July, the Valery Gergiev Festival in September, September in Rotterdam and the World of the Witte de With. In June 1970, The Holland Pop Festival (which featured Jefferson Airplane, The Byrds, Canned Heat, It's a Beautiful Day, and Santana) was held and filmed at the Stamping Grounds in Rotterdam.
 
@@ -180,7 +174,7 @@ Other museums include the tax museum and the natural history museum. At the hist
 
 Architecture
 
-Montevideo_2010.JPG next to modern residential architecture in 2010]] Erasmusbrug_across_the_Nieuwe_Maas_river.jpg in 2011]] In 1898, the high-rise office building the White House (in Dutch Witte Huis) was completed, at that time the tallest office building in Europe. In the first decades of the 20th century, some influential architecture in the modern style was built in Rotterdam. Notable are the Van Nelle fabriek (1929) a monument of modern factory design by Brinkman en Van der Vlugt, the Jugendstil clubhouse of the Royal Maas Yacht Club designed by Hooijkaas jr. en Brinkman (1909), and Feyenoord's football stadium De Kuip (1936) also by Brinkman en Van der Vlugt. The architect J. J. P. Oud was a famous Rotterdammer in those days. The Van Nelle Factory obtained the status of UNESCO World Heritage Site in 2014. During the early stages of World War II the center of Rotterdam was bombed by the German Luftwaffe, destroying many of the older buildings in the center of the city. After initial crisis re-construction the center of Rotterdam has become the site of ambitious new architecture. Kubuswoningen_in_rotterdam.jpg in 2011]] Markthal_Rotterdam_2015.jpg as seen from the Binnenrotte, Rotterdam center.]] Euromast2.jpg in 2005.]]
+next to modern residential architecture in 2010]] in 2011]] In 1898, the high-rise office building the White House (in Dutch Witte Huis) was completed, at that time the tallest office building in Europe. In the first decades of the 20th century, some influential architecture in the modern style was built in Rotterdam. Notable are the Van Nelle fabriek (1929) a monument of modern factory design by Brinkman en Van der Vlugt, the Jugendstil clubhouse of the Royal Maas Yacht Club designed by Hooijkaas jr. en Brinkman (1909), and Feyenoord's football stadium De Kuip (1936) also by Brinkman en Van der Vlugt. The architect J. J. P. Oud was a famous Rotterdammer in those days. The Van Nelle Factory obtained the status of UNESCO World Heritage Site in 2014. During the early stages of World War II the center of Rotterdam was bombed by the German Luftwaffe, destroying many of the older buildings in the center of the city. After initial crisis re-construction the center of Rotterdam has become the site of ambitious new architecture. in 2011]] as seen from the Binnenrotte, Rotterdam center.]] in 2005.]]
 
 Rotterdam is also famous for its Lijnbaan 1952 by architects Broek en Bakema, Peperklip by architect Carel Weeber, Kubuswoningen or cube houses designed by architect Piet Blom 1984.
 
@@ -210,7 +204,7 @@ The city is also the home of many sports clubs and some historic and iconic athl
 
 Football
 
-Robin_Van_Persie_August_2007.jpg began his career with SBV Excelsior and broke through in Feyenoord.]] Rotterdam_feyenoord_stadion_1.jpg, Feyenoord home stadium.]]
+began his career with SBV Excelsior and broke through in Feyenoord.]] , Feyenoord home stadium.]]
 
 Rotterdam is the home of three professional football clubs, being first tier clubs Feyenoord and Excelsior and second tier club Sparta.
 
@@ -224,7 +218,7 @@ Rotterdam also has three fourth tier clubs, SC Feijenoord (Feyenoord Amateurs), 
 
 Marathon
 
-Hardlopers_marathon_in_Rotterdam.JPG Rotterdam has its own annual international marathon, which offers one of the fastest courses in the world. From 1985 until 1998, the world record was set in Rotterdam, first by Carlos Lopes and later in 1988 by Belayneh Densamo.
+Rotterdam has its own annual international marathon, which offers one of the fastest courses in the world. From 1985 until 1998, the world record was set in Rotterdam, first by Carlos Lopes and later in 1988 by Belayneh Densamo.
 
 In 1998, the world record for women was set by Tegla Loroupe, in a time of 2:20.47. Loroupe won the Rotterdam Marathon three consecutive times, from 1997 to 1999.
 
@@ -234,7 +228,7 @@ The marathon starts and ends on the _Coolsingel_ in the heart of Rotterdam. It a
 
 Tennis
 
-Arthur_Ashe.jpg at the 1975 ABN World Tennis Tournament]]
+at the 1975 ABN World Tennis Tournament]]
 
 Since 1972, Rotterdam hosts the indoor hard court ABN AMRO World Tennis Tournament, part of the ATP Tour. The event was first organised in 1972, when it was won by Arthur Ashe. Ashe went on to win the tournament two more times, making him the singles title record holder.
 
@@ -262,7 +256,7 @@ Rotterdam is home to the most successful European baseball team, Neptunus Rotter
 
 Boxing
 
-Bep_van_Klaveren,_Olympische_Spelen_1928_Amsterdam.jpg]] Rotterdam has a long boxing tradition starting with Bep van Klaveren (1907–1992), aka 'The Dutch Windmill', Gold medal winner of the 1928 Amsterdam Olympics, followed by professional boxers like Regilio Tuur and Don Diego Poeder.
+]] Rotterdam has a long boxing tradition starting with Bep van Klaveren (1907–1992), aka 'The Dutch Windmill', Gold medal winner of the 1928 Amsterdam Olympics, followed by professional boxers like Regilio Tuur and Don Diego Poeder.
 
 Swimming
 
@@ -278,7 +272,7 @@ Since 1986, the city has selected its best sportsman, woman and team at the Rott
 
 Other famous Rotterdam athletes
 
-Francisco_Elson.jpg]]
+]]
 
 -   Mia Audina, a retired Indonesia born badminton player, living in Rotterdam.
 -   Nelli Cooman, a Surinamese born retired athlete who held the 60 m dash world record, and was the world and European champion in that event.
@@ -338,7 +332,7 @@ AIRPORT
 Much smaller than the international hub Schiphol Airport, Rotterdam The Hague Airport (formerly known as _Zestienhoven_) is the third largest airport in the country, behind Schiphol Airport and Eindhoven Airport. Located north of the city, it has shown a very strong growth over the past five years, mostly caused by the growth of the low-cost carrier market. For business travelers, Rotterdam The Hague Airport offers advantages in terms of rapid handling of passengers and baggage. Environmental regulations make further growth uncertain.
 
 TRAIN
-Rtd_CS-III.JPG reopened in March 2014, designed to handle up to 320,000 passengers daily.]]
+reopened in March 2014, designed to handle up to 320,000 passengers daily.]]
 
 Rotterdam is well connected to the Dutch railway network, and has several international connections:
 
@@ -385,8 +379,6 @@ METRO
 
 In 1968, Rotterdam was the first Dutch city to open a metro system. Currently the metro system consists of three main lines, each of which has its own variants. The metro network has of railtracks and there are 62 stations, which makes it the biggest of the Benelux. The system is operated by 5 lines; 3 lines (A, B and C) on the east-west line, and two (D and E) on the north-south line. Line E (Randstadrail) connects Rotterdam with The Hague as of December 2011.
 
-Metrokaart_Rotterdam_per_2011.svg
-
   Line     Southern / western terminus   Northern / eastern terminus
   -------- ----------------------------- -----------------------------
   LINE A   Schiedam Centrum              Binnenhof
@@ -394,8 +386,6 @@ Metrokaart_Rotterdam_per_2011.svg
   LINE C   De Akkers                     De Terp
   LINE D   De Akkers                     Rotterdam Centraal
   LINE E   Slinge                        Den Haag Centraal
-
-15-05-2007_Metro_Maashaven.jpg
 
 TRAM
 The Rotterdam tramway network offers 9 regular tram lines and 4 special tram lines with a total length of . Service Tramlines in Rotterdam :
@@ -410,7 +400,7 @@ The Rotterdam tramway network offers 9 regular tram lines and 4 special tram lin
 -   24: (Vlaardingen) Holy – Station Schiedam Centrum – Rotterdam Centraal – (Rotterdam) De Esch
 -   25: (Rotterdam) Schiebroek – Rotterdam Centraal – (Barendrecht) Carnisselande
 
-RET_2022_Rotterdam_Centraal_15-05-2007.JPG tram outside the former Rotterdam Centraal, 2008]] Special tram lines:
+tram outside the former Rotterdam Centraal, 2008]] Special tram lines:
 
 -   10: Historical tram line, only runs in summer and throughout the whole city for tourist information. Using historical Rotterdam Trams from the year 1931.
 -   18: Tramline from Rotterdam Central Station towards Park, runs only at the Dunya Festival and during the Rotterdam World Port Days.
@@ -418,7 +408,7 @@ RET_2022_Rotterdam_Centraal_15-05-2007.JPG tram outside the former Rotterdam Cen
 -   Snert-tram: Historical tram, only in winter as a tourist tram through Rotterdam. Passengers are provided with a cup of "snert"; Rotterdam dialect for erwtensoep (pea soup). Rolling stock is a historical Rotterdam tram from 1968.
 -   IJsjes-tram: Summer version of the snert tram, providing tourists with ijsjes (ice cream) rather than snert.
 
-Rotterdam_Watertaxi_(4).JPG BUS
+BUS
 Rotterdam offers 55 city bus lines with a total length of .
 
 RET runs buses in the city of Rotterdam and surrounding places like Spijkenisse, Barendrecht, Ridderkerk, Rhoon, Poortugaal, Schiedam, Vlaardingen, Delft and Capelle aan den IJssel. .

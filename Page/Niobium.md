@@ -9,7 +9,7 @@ Niobium is used in various superconducting materials. These superconducting allo
 
 History
 
-Charles_Hatchett.jpg identified the element _columbium_ within a mineral discovered in Connecticut, US.|alt=Oval black and white painting of a man with a prominent shirt collar and necktie]] Sommer,_Giorgio_(1834-1914)_-_n._2990_-_Niobe_madre_-_Firenze.jpg|alt=Black and white image of a marmor sculpture of a bowing woman with a child nestling in her lap]]
+identified the element _columbium_ within a mineral discovered in Connecticut, US.|alt=Oval black and white painting of a man with a prominent shirt collar and necktie]] |alt=Black and white image of a marmor sculpture of a bowing woman with a child nestling in her lap]]
 
 Niobium was identified by English chemist Charles Hatchett in 1801.[3][4][5] He found a new element in a mineral sample that had been sent to England from Connecticut, United States in 1734 by John Winthrop F.R.S. (grandson of John Winthrop the Younger) and named the mineral _columbite_ and the new element _columbium_ after _Columbia_, the poetical name for the United States.[6][7][8] The _columbium_ discovered by Hatchett was probably a mixture of the new element with tantalum.[9]
 
@@ -112,7 +112,7 @@ Materials can be coated with a thin film of niobium(V) oxide chemical vapor depo
 
 Halides
 
-Niobium_pentachloride_solid.jpg Niobium-pentachloride-from-xtal-3D-balls.png, which exists as a dimer]]
+, which exists as a dimer]]
 
 Niobium forms halides in the oxidation states of +5 and +4 as well as diverse substoichiometric compounds.[108][109] The pentahalides () feature octahedral Nb centres. Niobium pentafluoride (NbF₅) is a white solid with a melting point of 79.0 °C and niobium pentachloride (NbCl₅) is yellow (see image at left) with a melting point of 203.4 °C. Both are hydrolyzed to give oxides and oxyhalides, such as NbOCl₃. The pentachloride is a versatile reagent used to generate the organometallic compounds, such as niobocene dichloride ().[110] The tetrahalides () are dark-coloured polymers with Nb-Nb bonds; for example, the black hygroscopic niobium tetrafluoride (NbF₄) and brown niobium tetrachloride (NbCl₄).
 
@@ -129,7 +129,7 @@ Other binary compounds of niobium include niobium nitride (NbN), which becomes a
 
 Applications
 
-Niobium_metal.jpg Out of 44,500 tonnes of niobium mined in 2006, an estimated 90% was used in high-grade structural steel. The second largest application is superalloys.[114] Niobium alloy superconductors and electronic components account for a very small share of the world production.[115]
+Out of 44,500 tonnes of niobium mined in 2006, an estimated 90% was used in high-grade structural steel. The second largest application is superalloys.[114] Niobium alloy superconductors and electronic components account for a very small share of the world production.[115]
 
 Steel production
 
@@ -139,7 +139,7 @@ These same niobium alloys are often used in pipeline construction.[121][122]
 
 Superalloys
 
-Apollo_CSM_lunar_orbit.jpg made from niobium-titanium alloy |alt=Image of the Apollo Service Module with the moon in the background]] Quantities of niobium are used in nickel-, cobalt-, and iron-based superalloys in proportions as great as 6.5%[123] for such applications as jet engine components, gas turbines, rocket subassemblies, turbo charger systems, heat resisting, and combustion equipment. Niobium precipitates a hardening γ''-phase within the grain structure of the superalloy.[124]
+made from niobium-titanium alloy |alt=Image of the Apollo Service Module with the moon in the background]] Quantities of niobium are used in nickel-, cobalt-, and iron-based superalloys in proportions as great as 6.5%[123] for such applications as jet engine components, gas turbines, rocket subassemblies, turbo charger systems, heat resisting, and combustion equipment. Niobium precipitates a hardening γ''-phase within the grain structure of the superalloy.[124]
 
 One example superalloy is Inconel 718, consisting of roughly 50% nickel, 18.6% chromium, 18.5% iron, 5% niobium, 3.1% molybdenum, 0.9% titanium, and 0.4% aluminium.[125][126] These superalloys were used, for example, in advanced air frame systems for the Gemini program. Another niobium alloy was used for the nozzle of the Apollo Service Module. Because niobium is oxidized at temperatures above 400 °C, a protective coating is necessary for these applications to prevent the alloy from becoming brittle.[127]
 
@@ -153,11 +153,11 @@ The reactivity of niobium with oxygen requires it to be worked in a vacuum or in
 
 Superconducting magnets
 
-Modern_3T_MRI.JPG clinical magnetic resonance imaging scanner using niobium superconducting alloy|alt=Room-high yellow-grey medical machine with a man-size hole in the middle and a stretcher directly in front of it]] Niobium-germanium (), niobium-tin (), as well as the niobium-titanium alloys are used as a type II superconductor wire for superconducting magnets.[131][132] These superconducting magnets are used in magnetic resonance imaging and nuclear magnetic resonance instruments as well as in particle accelerators.[133] For example, the Large Hadron Collider uses 600 tons of superconducting strands, while the International Thermonuclear Experimental Reactor uses an estimated 600 tonnes of Nb₃Sn strands and 250 tonnes of NbTi strands.[134] In 1992 alone, more than US$1 billion worth of clinical magnetic resonance imaging systems were constructed with niobium-titanium wire.[135]
+clinical magnetic resonance imaging scanner using niobium superconducting alloy|alt=Room-high yellow-grey medical machine with a man-size hole in the middle and a stretcher directly in front of it]] Niobium-germanium (), niobium-tin (), as well as the niobium-titanium alloys are used as a type II superconductor wire for superconducting magnets.[131][132] These superconducting magnets are used in magnetic resonance imaging and nuclear magnetic resonance instruments as well as in particle accelerators.[133] For example, the Large Hadron Collider uses 600 tons of superconducting strands, while the International Thermonuclear Experimental Reactor uses an estimated 600 tonnes of Nb₃Sn strands and 250 tonnes of NbTi strands.[134] In 1992 alone, more than US$1 billion worth of clinical magnetic resonance imaging systems were constructed with niobium-titanium wire.[135]
 
 Other superconductors
 
-A_1.3_GHz_nine-cell_superconducting_radio_frequency.JPG]]
+]]
 
 The superconducting radio frequency (SRF) cavities used in the free-electron lasers FLASH (result of the cancelled TESLA linear accelerator project) and XFEL are made from pure niobium.[136] A cryomodule team at Fermilab used the same SRF technology from the FLASH project to develop 1.3 GHz nine-cell SRF cavities made from pure niobium. The cavities will be used in the linear particle accelerator of the International Linear Collider.[137] The same technology will be used in LCLS-II at SLAC National Accelerator Laboratory and PIP-II at Fermilab.[138]
 
@@ -177,7 +177,7 @@ Like titanium, tantalum, and aluminium, niobium can be heated and anodized ("rea
 
 Numismatics
 
-2004_Austria_25_Euro_150_Years_Semmering_Alpine_Railway_front.jpg Coin made of niobium and silver |alt=Coin with a dark green cener and a silvery outer rim. The rim reads: Republik Österreich 25 Euro. The centere shows electric and a steam driven locomotive]] Niobium is used as a precious metal in commemorative coins, often with silver or gold. For example, Austria produced a series of silver niobium euro coins starting in 2003; the colour in these coins is created by the diffraction of light by a thin anodized oxide layer.[147] In 2012, ten coins are available showing a broad variety of colours in the centre of the coin: blue, green, brown, purple, violet, or yellow. Two more examples are the 2004 Austrian €25 150 Years Semmering Alpine Railway commemorative coin,[148] and the 2006 Austrian €25 European Satellite Navigation commemorative coin.[149] The Austrian mint produced for Latvia a similar series of coins starting in 2004,[150] with one following in 2007.[151] In 2011, the Royal Canadian Mint started production of a $5 sterling silver and niobium coin named _Hunter's Moon_[152] in which the niobium was selectively oxidized, thus creating unique finishes where no two coins are exactly alike.
+Coin made of niobium and silver |alt=Coin with a dark green cener and a silvery outer rim. The rim reads: Republik Österreich 25 Euro. The centere shows electric and a steam driven locomotive]] Niobium is used as a precious metal in commemorative coins, often with silver or gold. For example, Austria produced a series of silver niobium euro coins starting in 2003; the colour in these coins is created by the diffraction of light by a thin anodized oxide layer.[147] In 2012, ten coins are available showing a broad variety of colours in the centre of the coin: blue, green, brown, purple, violet, or yellow. Two more examples are the 2004 Austrian €25 150 Years Semmering Alpine Railway commemorative coin,[148] and the 2006 Austrian €25 European Satellite Navigation commemorative coin.[149] The Austrian mint produced for Latvia a similar series of coins starting in 2004,[150] with one following in 2007.[151] In 2011, the Royal Canadian Mint started production of a $5 sterling silver and niobium coin named _Hunter's Moon_[152] in which the niobium was selectively oxidized, thus creating unique finishes where no two coins are exactly alike.
 
 Other
 

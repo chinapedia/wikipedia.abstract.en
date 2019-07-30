@@ -1,4 +1,4 @@
-House_of_Commons_2010.jpg are said to contribute to an adversarial style of debate.[1]]] Australian_house_of_representatives04.jpg.]] Bundesratswahl_2009_-_Applaus.jpg of Switzerland.]] Eduskunta_istuntosali.jpg.]]
+are said to contribute to an adversarial style of debate.[1]]] .]] of Switzerland.]] .]]
 
 In modern politics and history, a PARLIAMENT is a legislative body of government. Generally, a modern parliament has three functions: representing the electorate, making laws, and overseeing the government via hearings and inquiries.
 
@@ -24,7 +24,7 @@ Some Muslim scholars argue that the Islamic shura (a method of taking decisions 
 
 Iran
 
-Assembly_of_Mahestan.jpg The first recorded signs of a council to decide on different issues in ancient Iran dates back to 247 BC while the Parthian empire was in power. Parthians established the first Iranian empire since the conquer of Persia by Alexander and by their early years of reigning an assembly of the nobles called “Mehestan” was formed that made the final decision on very serious issues.[19]
+The first recorded signs of a council to decide on different issues in ancient Iran dates back to 247 BC while the Parthian empire was in power. Parthians established the first Iranian empire since the conquer of Persia by Alexander and by their early years of reigning an assembly of the nobles called “Mehestan” was formed that made the final decision on very serious issues.[19]
 
 The word "Mehestan" is consisted of two parts. "Meh", a word of the old Persian origin, which literally means "The Great" and "-Stan", a suffix in the Persian language, which describes an especial place. Altogether Mehestan means a place where the greats come together.[20]
 
@@ -34,7 +34,7 @@ One of the most important decisions of the council took place in 208 AD, when a 
 
 Spain
 
-Daoiz_o_Velarde.jpg, lower house of the Spanish Parliament.]] Although there are documented councils held in 873, 1020, 1050 and 1063, there was no representation of commoners. What is considered to be the first parliament (with the presence of commoners), the Cortes of León, was held in the Kingdom of León in 1188.[23][24][25] According to the UNESCO, the Decreta of Leon of 1188 is the oldest documentary manifestation of the European parliamentary system. In addition, UNESCO granted the 1188 Cortes of Alfonso IX the title of "Memory of the World" and the city of Leon has been recognized as the "Cradle of Parliamentarism".[26][27]
+, lower house of the Spanish Parliament.]] Although there are documented councils held in 873, 1020, 1050 and 1063, there was no representation of commoners. What is considered to be the first parliament (with the presence of commoners), the Cortes of León, was held in the Kingdom of León in 1188.[23][24][25] According to the UNESCO, the Decreta of Leon of 1188 is the oldest documentary manifestation of the European parliamentary system. In addition, UNESCO granted the 1188 Cortes of Alfonso IX the title of "Memory of the World" and the city of Leon has been recognized as the "Cradle of Parliamentarism".[26][27]
 
 After coming to power, King Alfonso IX, facing an attack by his two neighbors, Castile and Portugal, decided to summon the "Royal Curia". This was a medieval organisation composed of aristocrats and bishops but because of the seriousness of the situation and the need to maximise political support, Alfonso IX took the decision to also call the representatives of the urban middle class from the most important cities of the kingdom to the assembly.[28] León's Cortes dealt with matters like the right to private property, the inviolability of domicile, the right to appeal to justice opposite the King and the obligation of the King to consult the Cortes before entering a war.[29] Prelates, nobles and commoners met separately in the three estates of the Cortes. In this meeting new laws were approved to protect commoners against the arbitrarities of nobles, prelates and the king. This important set of laws is known as the _Carta Magna Leonesa_.
 
@@ -58,7 +58,7 @@ Most historians date the emergence of a parliament with some degree of power to 
 
 Magna Carta and the Model Parliament
 
-Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg The tenants-in-chief often struggled with their spiritual counterparts and with the king for power. In 1215, they secured from King John of England the Magna Carta, which established that the king may not levy or collect any taxes (except the feudal taxes to which they were hitherto accustomed), save with the consent of a council. It was also established that the most important tenants-in-chief and ecclesiastics be summoned to the council by personal writs from the sovereign, and that all others be summoned to the council by general writs from the sheriffs of their counties. Modern government has its origins in the Curia Regis; parliament descends from the Great Council later known as the _parliamentum_ established by Magna Carta.
+The tenants-in-chief often struggled with their spiritual counterparts and with the king for power. In 1215, they secured from King John of England the Magna Carta, which established that the king may not levy or collect any taxes (except the feudal taxes to which they were hitherto accustomed), save with the consent of a council. It was also established that the most important tenants-in-chief and ecclesiastics be summoned to the council by personal writs from the sovereign, and that all others be summoned to the council by general writs from the sheriffs of their counties. Modern government has its origins in the Curia Regis; parliament descends from the Great Council later known as the _parliamentum_ established by Magna Carta.
 
 During the reign of King Henry III, 13th-Century English Parliaments incorporated elected representatives from shires and towns. These parliaments are, as such, considered forerunners of the modern parliament.[34]
 
@@ -78,7 +78,7 @@ Much of this compliance stemmed from how the English viewed and traditionally un
 
 Importance of the Commonwealth years
 
-Statue_of_Oliver_Cromwell_280_tcm4-569959.jpg, as it stands outside the House of Commons at the Palace of Westminster.]]
+, as it stands outside the House of Commons at the Palace of Westminster.]]
 
 Although its role in government expanded significantly during the reigns of Henry VIII and Edward VI, the Parliament of England saw some of its most important gains in the 17th century. A series of conflicts between the Crown and Parliament culminated in the execution of King Charles I in 1649. Afterward, England became a commonwealth, with Oliver Cromwell, its lord protector, the de facto ruler. Frustrated with its decisions, Cromwell purged and suspended Parliament on several occasions.
 
@@ -90,7 +90,7 @@ The Parliament of England met until it merged with the Parliament of Scotland un
 
 Scotland
 
-Scottish_Parliament,_Main_Debating_Chamber_-_geograph.org.uk_-_1650829.jpg from the public gallery.]] From the 10th century the Kingdom of Alba was ruled by chiefs (_toisechs_) and subkings (_mormaers_) under the suzerainty, real or nominal, of a High King. Popular assemblies, as in Ireland, were involved in law-making, and sometimes in king-making, although the introduction of tanistry—naming a successor in the lifetime of a king—made the second less than common. These early assemblies cannot be considered "parliaments" in the later sense of the word, and were entirely separate from the later, Norman-influenced, institution.
+from the public gallery.]] From the 10th century the Kingdom of Alba was ruled by chiefs (_toisechs_) and subkings (_mormaers_) under the suzerainty, real or nominal, of a High King. Popular assemblies, as in Ireland, were involved in law-making, and sometimes in king-making, although the introduction of tanistry—naming a successor in the lifetime of a king—made the second less than common. These early assemblies cannot be considered "parliaments" in the later sense of the word, and were entirely separate from the later, Norman-influenced, institution.
 
 The Parliament of Scotland evolved during the Middle Ages from the King's Council of Bishops and Earls. The unicameral parliament is first found on record, referred to as a _colloquium_, in 1235 at Kirkliston (a village now in Edinburgh).
 
@@ -102,7 +102,7 @@ Following the 1997 Scottish devolution referendum, and the passing of the Scotla
 
 Nordic and Germanic countries
 
-Reykjavik_althing.jpg, built in 1880–1881. Home of one of the oldest still-acting parliaments in the world.]] A _thing_ or _ting_ (Old Norse and ; other modern Scandinavian: _ting_, _ding_ in Dutch) was the governing assembly in Germanic societies, made up of the free men of the community and presided by lawspeakers.
+, built in 1880–1881. Home of one of the oldest still-acting parliaments in the world.]] A _thing_ or _ting_ (Old Norse and ; other modern Scandinavian: _ting_, _ding_ in Dutch) was the governing assembly in Germanic societies, made up of the free men of the community and presided by lawspeakers.
 
 The thing was the assembly of the free men of a country, province or a hundred _(hundare/härad/herred)_. There were consequently, hierarchies of things, so that the local things were represented at the thing for a larger area, for a province or land. At the thing, disputes were solved and political decisions were made. The place for the thing was often also the place for public religious rites and for commerce.
 
@@ -124,7 +124,7 @@ The Sicilian Parliament, dating to 1097, evolved as the legislature of the Kingd
 
 Switzerland
 
-Tagsatzung1531.jpg]] The Federal Diet of Switzerland was one of the longest-lived representative bodies in history, continuing from the 13th century to 1848.
+]] The Federal Diet of Switzerland was one of the longest-lived representative bodies in history, continuing from the 13th century to 1848.
 
 France
 
@@ -134,7 +134,7 @@ All the _parliaments_ could issue regulatory decrees for the application of roya
 
 Poland
 
-The_First_Sejm_1182.jpg According to the _Chronicles_ of Gallus Anonymus, the first legendary Polish ruler, Siemowit, who began the Piast Dynasty, was chosen by a _wiec_. The _veche_ (, ) was a popular assembly in medieval Slavic countries, and in late medieval period, a parliament. The idea of the _wiec_ led in 1182 to the development of the Polish parliament, the _Sejm_.
+According to the _Chronicles_ of Gallus Anonymus, the first legendary Polish ruler, Siemowit, who began the Piast Dynasty, was chosen by a _wiec_. The _veche_ (, ) was a popular assembly in medieval Slavic countries, and in late medieval period, a parliament. The idea of the _wiec_ led in 1182 to the development of the Polish parliament, the _Sejm_.
 
 The term "sejm" comes from an old Polish expression denoting a meeting of the populace. The power of early sejms grew between 1146–1295, when the power of individual rulers waned and various councils and wiece grew stronger. The history of the national Sejm dates back to 1182. Since the 14th century irregular sejms (described in various Latin sources as _contentio generalis, conventio magna, conventio solemna, parlamentum, parlamentum generale, dieta_ or Polish _sejm walny_) have been called by Polish kings. From 1374, the king had to receive sejm permission to raise taxes. The General Sejm (Polish _Sejm Generalny_ or _Sejm Walny_), first convoked by the king John I Olbracht in 1493 near Piotrków, evolved from earlier regional and provincial meetings (_sejmiks_). It followed most closely the _sejmik generally_, which arose from the 1454 Nieszawa Statutes, granted to the szlachta (nobles) by King Casimir IV the Jagiellonian. From 1493 forward, indirect elections were repeated every two years. With the development of the unique Polish Golden Liberty the Sejm's powers increased.
 
@@ -142,13 +142,13 @@ The Commonwealth's general parliament consisted of three estates: the King of Po
 
 Ukraine
 
-Zaporozhian_Sich_rada.jpg Cossack Rada was the legislative body of a military republic of the Ukrainian Cossacks that grew rapidly in the 15th century from serfs fleeing the more controlled parts of the Polish Lithuanian Commonwealth. The republic did not regard social origin/nobility and accepted all people who declared to be Orthodox Christians.
+Cossack Rada was the legislative body of a military republic of the Ukrainian Cossacks that grew rapidly in the 15th century from serfs fleeing the more controlled parts of the Polish Lithuanian Commonwealth. The republic did not regard social origin/nobility and accepted all people who declared to be Orthodox Christians.
 
 Originally established at the Zaporizhian Sich, the rada (council) was an institution of Cossack administration in Ukraine from the 16th to the 18th century. With the establishment of the Hetman state in 1648, it was officially known as the General Military Council until 1750.
 
 Russia
 
-Фракция_ЕР_В_Зале_Пленарных_Заседаний_ГД.JPG of the Federal Assembly of Russia]] The zemsky sobor (Russian: зе́мский собо́р) was the first Russian parliament of the feudal Estates type, in the 16th and 17th centuries. The term roughly means assembly of the land.
+of the Federal Assembly of Russia]] The zemsky sobor (Russian: зе́мский собо́р) was the first Russian parliament of the feudal Estates type, in the 16th and 17th centuries. The term roughly means assembly of the land.
 
 It could be summoned either by tsar, or patriarch, or the Boyar Duma. Three categories of population, comparable to the Estates-General of France but with the numbering of the first two Estates reversed, participated in the assembly:
 
@@ -177,7 +177,7 @@ The development of the modern concept of parliamentary government dates back to 
 
 Parliaments of the United Kingdom
 
-1_westminster_palace_panorama_2012_dusk.jpg, London]] The British Parliament is often referred to as the _Mother of Parliaments_ (in fact a misquotation of John Bright, who remarked in 1865 that "England is the Mother of Parliaments") because the British Parliament has been the model for most other parliamentary systems, and its Acts have created many other parliaments.[43] Many nations with parliaments have to some degree emulated the British "three-tier" model. Most countries in Europe and the Commonwealth have similarly organised parliaments with a largely ceremonial head of state who formally opens and closes parliament, a large elected lower house and a smaller, upper house.[44][45]
+, London]] The British Parliament is often referred to as the _Mother of Parliaments_ (in fact a misquotation of John Bright, who remarked in 1865 that "England is the Mother of Parliaments") because the British Parliament has been the model for most other parliamentary systems, and its Acts have created many other parliaments.[43] Many nations with parliaments have to some degree emulated the British "three-tier" model. Most countries in Europe and the Commonwealth have similarly organised parliaments with a largely ceremonial head of state who formally opens and closes parliament, a large elected lower house and a smaller, upper house.[44][45]
 
 The Parliament of Great Britain was formed in 1707 by the Acts of Union that replaced the former parliaments of England and Scotland. A further union in 1801 united the Parliament of Great Britain and the Parliament of Ireland into a Parliament of the United Kingdom.
 
@@ -213,7 +213,7 @@ The parliamentary system can be contrasted with a presidential system, such as t
 
 List of national parliaments
 
-Centre_Block_-_Parliament_Hill.jpg Building in Ottawa]] Országház_(509._számú_műemlék)_35.jpg in Budapest]] Parlament_Wien_abends.jpg in Vienna]] Jatiyo_Sangshad_Bhaban_(Roehl).jpg in Dhaka]] Diet_of_Japan_Kokkai_2009.jpg in Tokyo]] Pakistani_parliament_house.jpg BeirutParliament.jpg, The Parliament Building of Lebanon]] New_Delhi_government_block_03-2016_img3.jpg, seen from Rajpath in New Delhi, India]] Parliament_House_at_dusk,_Canberra_ACT.jpg, Canberra, Australia]]
+Building in Ottawa]] in Budapest]] in Vienna]] in Dhaka]] in Tokyo]] , The Parliament Building of Lebanon]] , seen from Rajpath in New Delhi, India]] , Canberra, Australia]]
 
 Parliaments of the European Union
 
@@ -319,7 +319,7 @@ In the federal (bicameral) kingdom of Belgium, there is a curious asymmetrical c
 
 Canada
 
-Canada_Provinces.png Canada's provinces and territories:
+Canada's provinces and territories:
 
 -   Legislative Assembly of Ontario
 -   Quebec Legislature

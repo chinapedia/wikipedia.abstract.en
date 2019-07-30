@@ -19,7 +19,7 @@ In 1913, Mies married Adele Auguste (Ada) Bruhn (1885-1951), the daughter of a w
 
 Traditionalism to Modernism
 
-Villa_Tugendhat_front.JPG built in 1930 in Brno, in today's Czech Republic, for Fritz Tugendhat]] Barcelona_mies_v_d_rohe_pavillon_weltausstellung1999_03.jpg, 1929. (reconstruction)]]
+built in 1930 in Brno, in today's Czech Republic, for Fritz Tugendhat]] , 1929. (reconstruction)]]
 
 After World War I, Mies began, while still designing traditional neoclassical homes, a parallel experimental effort. He joined his avant-garde peers in the long-running search for a new style that would be suitable for the modern industrial age. The weak points of traditional styles had been under attack by progressive theorists since the mid-nineteenth century, primarily for the contradictions of hiding modern construction technology with a facade of ornamented traditional styles.
 
@@ -47,7 +47,7 @@ Frustrated and unhappy, he left his homeland reluctantly in 1937 as he saw his o
 
 Career in the United States
 
-2004-09-02_1580x2800_chicago_IBM_building.jpg, Chicago, Illinois]] Mies settled in Chicago, Illinois, where he was appointed head of the architecture school at Chicago's Armour Institute of Technology (later renamed Illinois Institute of Technology). One of the benefits of taking this position was that he would be commissioned to design the new buildings and master plan for the campus.[20] All his buildings still stand there, including Alumni Hall, the Chapel, and his masterpiece the S.R. Crown Hall, built as the home of IIT's School of Architecture. Crown Hall is widely regarded as Mies' finest work, the definition of Miesian architecture.
+, Chicago, Illinois]] Mies settled in Chicago, Illinois, where he was appointed head of the architecture school at Chicago's Armour Institute of Technology (later renamed Illinois Institute of Technology). One of the benefits of taking this position was that he would be commissioned to design the new buildings and master plan for the campus.[20] All his buildings still stand there, including Alumni Hall, the Chapel, and his masterpiece the S.R. Crown Hall, built as the home of IIT's School of Architecture. Crown Hall is widely regarded as Mies' finest work, the definition of Miesian architecture.
 
 In 1944, he became an American citizen, completing his severance from his native Germany.[21] His thirty years as an American architect reflect a more structural, pure approach toward achieving his goal of a new architecture for the twentieth century. He focused his efforts on enclosing open and adaptable "universal" spaces with clearly arranged structural frameworks, featuring prefabricated steel shapes filled in with large sheets of glass.
 
@@ -60,11 +60,11 @@ Mies worked from his studio in downtown Chicago for his entire 31-year period in
 
 Chicago Federal Complex
 
-Chicago_Federal_Center.jpg Chicago Federal Center Plaza, also known as Chicago Federal Plaza, unified three buildings of varying scales: the mid-rise Everett McKinley Dirksen Building, the high-rise John C. Kluczynski Building, and the single-story Post Office building. The complex's plot area extends over two blocks; a one-block site, bounded by Jackson, Clark, Adams, and Dearborn streets, contains the Kluczynski Federal Building and U.S. Post Office Loop Station, while a parcel on an adjacent block to the east contains the Dirksen U.S. Courthouse. The structural framing of the buildings is formed of high-tensile bolted steel and concrete. The exterior curtain walls are defined by projecting steel I-beam mullions covered with flat black graphite paint, characteristic of Mies's designs. The balance of the curtain walls are of bronze-tinted glass panes, framed in shiny aluminum, and separated by steel spandrels, also covered with flat black graphite paint.[22][23] The entire complex is organized on a 28-foot grid pattern subdivided into six 4-foot, 8-inch modules. This pattern extends from the granite-paved plaza into the ground-floor lobbies of the two tower buildings with the grid lines continuing vertically up the buildings and integrating each component of the complex. Associated architects that have played a role in the complex's long history from 1959 to 1974 include Schmidt, Garden & Erickson; C.F. Murphy Associates; and A. Epstein & Sons.[24]
+Chicago Federal Center Plaza, also known as Chicago Federal Plaza, unified three buildings of varying scales: the mid-rise Everett McKinley Dirksen Building, the high-rise John C. Kluczynski Building, and the single-story Post Office building. The complex's plot area extends over two blocks; a one-block site, bounded by Jackson, Clark, Adams, and Dearborn streets, contains the Kluczynski Federal Building and U.S. Post Office Loop Station, while a parcel on an adjacent block to the east contains the Dirksen U.S. Courthouse. The structural framing of the buildings is formed of high-tensile bolted steel and concrete. The exterior curtain walls are defined by projecting steel I-beam mullions covered with flat black graphite paint, characteristic of Mies's designs. The balance of the curtain walls are of bronze-tinted glass panes, framed in shiny aluminum, and separated by steel spandrels, also covered with flat black graphite paint.[22][23] The entire complex is organized on a 28-foot grid pattern subdivided into six 4-foot, 8-inch modules. This pattern extends from the granite-paved plaza into the ground-floor lobbies of the two tower buildings with the grid lines continuing vertically up the buildings and integrating each component of the complex. Associated architects that have played a role in the complex's long history from 1959 to 1974 include Schmidt, Garden & Erickson; C.F. Murphy Associates; and A. Epstein & Sons.[24]
 
 Farnsworth House
 
-Mies_van_der_Rohe_photo_Farnsworth_House_Plano_USA_9.jpg]]
+]]
 
 Between 1946 and 1951, Mies van der Rohe designed and built the Farnsworth House, a weekend retreat outside Chicago for an independent professional woman, Dr. Edith Farnsworth. Here, Mies explored the relationship between people, shelter, and nature. The glass pavilion is raised six feet above a floodplain next to the Fox River, surrounded by forest and rural prairies.
 
@@ -76,7 +76,7 @@ The house is an embodiment of Mies' mature vision of modern architecture for the
 
 860–880 Lake Shore Drive
 
-860-880_Lake_Shore_Drive.jpg Mies designed a series of four middle-income high-rise apartment buildings for developer Herbert Greenwald: the 860–880 (which was built between 1949 and 1951) and 900–910 Lake Shore Drive towers on Chicago's Lakefront. These towers, with façades of steel and glass, were radical departures from the typical residential brick apartment buildings of the time. Mies found their unit sizes too small for him, choosing instead to continue living in a spacious traditional luxury apartment a few blocks away. The towers were simple rectangular boxes with a non-hierarchical wall enclosure, raised on stilts above a glass-enclosed lobby.
+Mies designed a series of four middle-income high-rise apartment buildings for developer Herbert Greenwald: the 860–880 (which was built between 1949 and 1951) and 900–910 Lake Shore Drive towers on Chicago's Lakefront. These towers, with façades of steel and glass, were radical departures from the typical residential brick apartment buildings of the time. Mies found their unit sizes too small for him, choosing instead to continue living in a spacious traditional luxury apartment a few blocks away. The towers were simple rectangular boxes with a non-hierarchical wall enclosure, raised on stilts above a glass-enclosed lobby.
 
 The lobby is set back from the perimeter columns, which were exposed around the perimeter of the building above, creating a modern arcade not unlike those of the Greek temples. This configuration created a feeling of light, openness, and freedom of movement at the ground level that became the prototype for countless new towers designed both by Mies's office and his followers. Some historians argue that this new approach is an expression of the American spirit and the boundless open space of the frontier, which German culture so admired.
 
@@ -86,21 +86,19 @@ Just as with his interiors, he created free flowing spaces and flat surfaces tha
 
 Seagram Building
 
-NewYorkSeagram_04.30.2008.JPG Although now acclaimed and widely influential as an urban design feature, Mies had to convince Bronfman's bankers that a taller tower with significant "unused" open space at ground level would enhance the presence and prestige of the building. Mies' design included a bronze curtain wall with external H-shaped mullions that were exaggerated in depth beyond what was structurally necessary. Detractors criticized it as having committed Adolf Loos's "crime of ornamentation". Philip Johnson had a role in interior materials selections, and he designed the sumptuous Four Seasons Restaurant, which has endured un-remodeled to today. The Seagram Building is said to be an early example of the innovative "fast-track" construction process, where design documentation and construction are done concurrently.
+Although now acclaimed and widely influential as an urban design feature, Mies had to convince Bronfman's bankers that a taller tower with significant "unused" open space at ground level would enhance the presence and prestige of the building. Mies' design included a bronze curtain wall with external H-shaped mullions that were exaggerated in depth beyond what was structurally necessary. Detractors criticized it as having committed Adolf Loos's "crime of ornamentation". Philip Johnson had a role in interior materials selections, and he designed the sumptuous Four Seasons Restaurant, which has endured un-remodeled to today. The Seagram Building is said to be an early example of the innovative "fast-track" construction process, where design documentation and construction are done concurrently.
 
 During 1951–1952, Mies' designed the steel, glass, and brick McCormick House, located in Elmhurst, Illinois (15 miles west of the Chicago Loop), for real-estate developer Robert Hall McCormick, Jr. A one-story adaptation of the exterior curtain wall of his famous 860–880 Lake Shore Drive towers, it served as a prototype for an unbuilt series of speculative houses to be constructed in Melrose Park, Illinois. The house has been moved and reconfigured as a part of the public Elmhurst Art Museum. He also built a residence for John M. van Beuren on a family estate near Morristown, New Jersey.
 
 Museum of Fine Arts, Houston
 
-Museum_of_Fine_Arts_Houston.jpg Mies designed two buildings for the Museum of Fine Arts, Houston (MFAH) as additions to the Caroline Wiess Law Building. In 1953, the MFAH commissioned Mies van der Rohe to create a master plan for the institution. He designed two additions to the building—Cullinan Hall, completed in 1958, and the Brown Pavilion, completed in 1974. A renowned example of the International Style, these portions of the Caroline Wiess Law Building comprise one of only two Mies-designed museums in the world.[25]
+Mies designed two buildings for the Museum of Fine Arts, Houston (MFAH) as additions to the Caroline Wiess Law Building. In 1953, the MFAH commissioned Mies van der Rohe to create a master plan for the institution. He designed two additions to the building—Cullinan Hall, completed in 1958, and the Brown Pavilion, completed in 1974. A renowned example of the International Style, these portions of the Caroline Wiess Law Building comprise one of only two Mies-designed museums in the world.[25]
 
 Two buildings in Baltimore, MD
 
 The One Charles Center, built in 1962, is a 23-story aluminum and glass building that heralded the beginning of Baltimore’s downtown modern buildings.[26] The Highfield House, just to the northeast of the Johns Hopkins Homewood campus, was built in 1964 as a rental apartment building.[27][28] The 15-story concrete tower became a residential condominium building in 1979. Both buildings are now on the National Register of Historic Places.
 
 National Gallery, Berlin
-
-Neue_Nationalgalerie_Berlin.jpg
 
 Mies's last work was the Neue Nationalgalerie art museum, the New National Gallery for the Berlin National Gallery. Considered one of the most perfect statements of his architectural approach, the upper pavilion is a precise composition of monumental steel columns and a cantilevered (overhanging) roof plane with a glass enclosure. The simple square glass pavilion is a powerful expression of his ideas about flexible interior space, defined by transparent walls and supported by an external structural frame. Art installations by Ulrich Rückriem (1998) or Jenny Holzer, as much as exhibitions on the work of Renzo Piano or Rem Koolhaas have demonstrated the exceptional possibilities of this space.
 
@@ -124,7 +122,7 @@ Mies's grandson Dirk Lohan and two partners led the firm after he died in 1969. 
 
 But while Mies' work had enormous influence and critical recognition, his approach failed to sustain a creative force as a style after his death and was eclipsed by the new wave of Post Modernism by the 1980s. Proponents of the Post Modern style attacked the Modernism with clever statements such as "less is a bore" and with captivating images such as Crown Hall sinking in Lake Michigan. Mies had hoped his architecture would serve as a universal model that could be easily imitated, but the aesthetic power of his best buildings proved impossible to match, instead resulting mostly in drab and uninspired structures rejected by the general public. The failure of his followers to meet his high standard may have contributed to demise of Modernism and the rise of new competing design theories following his death.
 
-Mies_van_der_Rohe_headstone.JPG Stamps_of_Germany_(Berlin)_1986,_MiNr_753.jpg marking 100 years since Mies's birth]]
+marking 100 years since Mies's birth]]
 
 
 Later years and death
@@ -150,7 +148,7 @@ File:Martin Luther King Jr. Memorial Library.jpg|Martin Luther King Jr. Memorial
 
 List of works
 
-Bundesarchiv_Bild_183-H29710,_Berlin-Friedrichsfelde,_Revolutionsdenkmal.jpg to the Spartacist leaders Karl Liebknecht and Rosa Luxemburg, commissioned by Eduard Fuchs, president of the German Communist Party in Germany designed by Ludwig Mies van der Rohe, built by Wilhelm Pieck, and inaugurated on 13 June 1926, later destroyed by the Nazis]]
+to the Spartacist leaders Karl Liebknecht and Rosa Luxemburg, commissioned by Eduard Fuchs, president of the German Communist Party in Germany designed by Ludwig Mies van der Rohe, built by Wilhelm Pieck, and inaugurated on 13 June 1926, later destroyed by the Nazis]]
 
 Early career in Berlin (1907–1938)
 

@@ -13,7 +13,7 @@ Both the Moon's natural prominence in the earthly sky and its regular cycle of p
 
 Name and etymology
 
-Lunar_eclipse_October_8_2014_California_Alfredo_Garcia_Jr_mideclipse.JPG]]
+]]
 
 The usual English proper name for Earth's natural satellite is "the Moon", which in nonscientific texts is usually not capitalized.[3][4][5][6][7] The noun _moon_ is derived from Old English _mōna_, which (like all Germanic language cognates) stems from Proto-Germanic _*mēnô_, which comes from Proto-Indo-European _*mḗh₁n̥s_ "moon", "month", which comes from the Proto-Indo-European root _*meh₁-_ "to measure", the month being the ancient unit of time measured by the Moon.[8][9] Occasionally, the name "Luna" is used. In literature, especially science fiction, "Luna" is used to distinguish it from other moons, while in poetry, the name has been used to denote personification of Earth's moon.[10]
 
@@ -22,7 +22,7 @@ The modern English adjective pertaining to the Moon is _lunar_, derived from the
 
 Formation
 
-The Moon formed 4.51 billion years ago, some 60 million years after the origin of the Solar System. Several forming mechanisms have been proposed,[17] including the fission of the Moon from Earth's crust through centrifugal force[18] (which would require too great an initial spin of Earth),[19] the gravitational capture of a pre-formed Moon[20] (which would require an unfeasibly extended atmosphere of Earth to dissipate the energy of the passing Moon),[21] and the co-formation of Earth and the Moon together in the primordial accretion disk (which does not explain the depletion of metals in the Moon).[22] These hypotheses also cannot account for the high angular momentum of the Earth–Moon system.[23] Evolution_of_the_Moon.ogv The prevailing hypothesis is that the Earth–Moon system formed after an impact of a Mars-sized body (named _Theia_) with the proto-Earth (giant impact). The impact blasted material into Earth's orbit and then the material accreted and formed the Moon.[24][25]
+The Moon formed 4.51 billion years ago, some 60 million years after the origin of the Solar System. Several forming mechanisms have been proposed,[17] including the fission of the Moon from Earth's crust through centrifugal force[18] (which would require too great an initial spin of Earth),[19] the gravitational capture of a pre-formed Moon[20] (which would require an unfeasibly extended atmosphere of Earth to dissipate the energy of the passing Moon),[21] and the co-formation of Earth and the Moon together in the primordial accretion disk (which does not explain the depletion of metals in the Moon).[22] These hypotheses also cannot account for the high angular momentum of the Earth–Moon system.[23] The prevailing hypothesis is that the Earth–Moon system formed after an impact of a Mars-sized body (named _Theia_) with the proto-Earth (giant impact). The impact blasted material into Earth's orbit and then the material accreted and formed the Moon.[24][25]
 
 The Moon's far side has a crust that is thicker than that of the near side. This is thought to be because the Moon fused from two different bodies.
 
@@ -65,7 +65,7 @@ The Moon is the second-densest satellite in the Solar System, after Io.[50] Howe
 
 Surface geology
 
-MoonTopoLOLA.png, referenced to a sphere of radius 1737.4 km|Topography of the Moon]] Moon_elevation.stl of the Moon with 10× elevation exaggeration rendered with data from the Lunar Orbiter Laser Altimeter of the Lunar Reconnaissance Orbiter ]]
+, referenced to a sphere of radius 1737.4 km|Topography of the Moon]] of the Moon with 10× elevation exaggeration rendered with data from the Lunar Orbiter Laser Altimeter of the Lunar Reconnaissance Orbiter ]]
 
 The topography of the Moon has been measured with laser altimetry and stereo image analysis.[53] Its most visible topographic feature is the giant far-side South Pole–Aitken basin, some in diameter, the largest crater on the Moon and the second-largest confirmed impact crater in the Solar System.[54][55] At deep, its floor is the lowest point on the surface of the Moon.[56][57] The highest elevations of the surface are located directly to the northeast, and it has been suggested might have been thickened by the oblique formation impact of the South Pole–Aitken basin.[58] Other large impact basins such as Imbrium, Serenitatis, Crisium, Smythii, and Orientale also possess regionally low elevations and elevated rims.[59] The far side of the lunar surface is on average about higher than that of the near side.[60]
 
@@ -73,11 +73,11 @@ The discovery of fault scarp cliffs by the Lunar Reconnaissance Orbiter suggest 
 
 Volcanic features
 
-Moon_names.svg with major maria and craters labeled |alt=Lunar nearside with major maria and craters labeled]]
+with major maria and craters labeled |alt=Lunar nearside with major maria and craters labeled]]
 
 The dark and relatively featureless lunar plains, clearly seen with the naked eye, are called _maria_ (Latin for "seas"; singular _mare_), as they were once believed to be filled with water;[63] they are now known to be vast solidified pools of ancient basaltic lava. Although similar to terrestrial basalts, lunar basalts have more iron and no minerals altered by water.[64] The majority of these lavas erupted or flowed into the depressions associated with impact basins. Several geologic provinces containing shield volcanoes and volcanic domes are found within the near side "maria".[65]
 
-14284-Moon-Maskelyne-LRO-20141012.jpg]]
+]]
 
 Almost all maria are on the near side of the Moon, and cover 31% of the surface of the near side,[66] compared with 2% of the far side.[67] This is thought to be due to a concentration of heat-producing elements under the crust on the near side, seen on geochemical maps obtained by _Lunar Prospector_'s gamma-ray spectrometer, which would have caused the underlying mantle to heat up, partially melt, rise to the surface and erupt.[68][69][70] Most of the Moon's mare basalts erupted during the Imbrian period, 3.0–3.5 billion years ago, although some radiometrically dated samples are as old as 4.2 billion years.[71] Until recently, the youngest eruptions, dated by crater counting, appeared to have been only 1.2 billion years ago.[72] In 2006, a study of Ina, a tiny depression in Lacus Felicitatis, found jagged, relatively dust-free features that, because of the lack of erosion by infalling debris, appeared to be only 2 million years old.[73] Moonquakes and releases of gas also indicate some continued lunar activity.[74] In 2014 NASA announced "widespread evidence of young lunar volcanism" at 70 irregular mare patches identified by the Lunar Reconnaissance Orbiter, some less than 50 million years old. This raises the possibility of a much warmer lunar mantle than previously believed, at least on the near side where the deep crust is substantially warmer because of the greater concentration of radioactive elements.[75][76][77][78] Just prior to this, evidence has been presented for 2–10 million years younger basaltic volcanism inside Lowell crater,[79][80] Orientale basin, located in the transition zone between the near and far sides of the Moon. An initially hotter mantle and/or local enrichment of heat-producing elements in the mantle could be responsible for prolonged activities also on the far side in the Orientale basin.[81][82]
 
@@ -87,7 +87,7 @@ The concentration of maria on the Near Side likely reflects the substantially th
 
 Impact craters
 
-Moon-craters.jpg on the Moon's far side]]
+on the Moon's far side]]
 
 The other major geologic process that has affected the Moon's surface is impact cratering,[88] with craters formed when asteroids and comets collide with the lunar surface. There are estimated to be roughly 300,000 craters wider than on the Moon's near side alone.[89] The lunar geologic timescale is based on the most prominent impact events, including Nectaris, Imbrium, and Orientale, structures characterized by multiple rings of uplifted material, between hundreds and thousands of kilometres in diameter and associated with a broad apron of ejecta deposits that form a regional stratigraphic horizon.[90] The lack of an atmosphere, weather and recent geological processes mean that many of these craters are well-preserved. Although only a few multi-ring basins have been definitively dated, they are useful for assigning relative ages. Because impact craters accumulate at a nearly constant rate, counting the number of craters per unit area can be used to estimate the age of the surface.[91] The radiometric ages of impact-melted rocks collected during the Apollo missions cluster between 3.8 and 4.1 billion years old: this has been used to propose a Late Heavy Bombardment of impacts.[92]
 
@@ -95,7 +95,7 @@ Blanketed on top of the Moon's crust is a highly comminuted (broken into ever sm
 
 Comparison of high-resolution images obtained by the Lunar Reconnaissance Orbiter has shown a contemporary crater-production rate significantly higher than previously estimated. A secondary cratering process caused by distal ejecta is thought to churn the top two centimetres of regolith a hundred times more quickly than previous models suggested – on a timescale of 81,000 years.[96][97]
 
-Reiner-gamma-clem1.jpg]]
+]]
 
 Lunar swirls
 
@@ -117,7 +117,7 @@ Analysis of the findings of the Moon Mineralogy Mapper (M3) revealed in August 2
 
 Gravitational field
 
-GRAIL's_gravity_map_of_the_moon.jpg's gravity map of the Moon]]
+'s gravity map of the Moon]]
 
 The gravitational field of the Moon has been measured through tracking the Doppler shift of radio signals emitted by orbiting spacecraft. The main lunar gravity features are mascons, large positive gravitational anomalies associated with some of the giant impact basins, partly caused by the dense mare basaltic lava flows that fill those basins.[116][117] The anomalies greatly influence the orbit of spacecraft about the Moon. There are some puzzles: lava flows by themselves cannot explain all of the gravitational signature, and some mascons exist that are not linked to mare volcanism.[118]
 
@@ -127,7 +127,7 @@ The Moon has an external magnetic field of about 1–100 nanoteslas, less than o
 
 Atmosphere
 
-Apollo_17_twilight_ray_sketch.jpg.[122][123]]]
+.[122][123]]]
 
 The Moon has an atmosphere so tenuous as to be nearly vacuum, with a total mass of less than .[124] The surface pressure of this small mass is around 3 × 10^(−15) atm (0.3 nPa); it varies with the lunar day. Its sources include outgassing and sputtering, a product of the bombardment of lunar soil by solar wind ions.[125][126] Elements that have been detected include sodium and potassium, produced by sputtering (also found in the atmospheres of Mercury and Io); helium-4 and neon[127] from the solar wind; and argon-40, radon-222, and polonium-210, outgassed after their creation by radioactive decay within the crust and mantle.[128][129] The absence of such neutral species (atoms or molecules) as oxygen, nitrogen, carbon, hydrogen and magnesium, which are present in the regolith, is not understood.[130] Water vapour has been detected by _Chandrayaan-1_ and found to vary with latitude, with a maximum at ~60–70 degrees; it is possibly generated from the sublimation of water ice in the regolith.[131] These gases either return into the regolith because of the Moon's gravity or are lost to space, either through solar radiation pressure or, if they are ionized, by being swept away by the solar wind's magnetic field.[132]
 
@@ -150,7 +150,7 @@ File:Earth-moon-to-scale.svg|Scale model of the Earth–Moon system: Sizes and d
 
 Orbit
 
-Animation_of_Moon_orbit_around_Earth.gif}}]] Earth-Moon.svg Dscovrepicmoontransitfull.gif sees the Moon passing in front of Earth]]
+}}]] sees the Moon passing in front of Earth]]
 
 The Moon makes a complete orbit around Earth with respect to the fixed stars about once every 27.3 days (its sidereal period). However, because Earth is moving in its orbit around the Sun at the same time, it takes slightly longer for the Moon to show the same phase to Earth, which is about 29.5 days (its synodic period).[142] Unlike most satellites of other planets, the Moon orbits closer to the ecliptic plane than to the planet's equatorial plane. The Moon's orbit is subtly perturbed by the Sun and Earth in many small, complex and interacting ways. For example, the plane of the Moon's orbit gradually rotates once every 18.61[143] years, which affects other aspects of lunar motion. These follow-on effects are mathematically described by Cassini's laws.[144]
 
@@ -164,13 +164,13 @@ The surface area of the Moon is slightly less than the areas of North and South 
 
  Appearance from Earth
 
-Trifecta_Morning_Mountain_Moonset_01-31-2018.jpg in California, on the morning of the Trifecta: Full moon, Supermoon, Eclipse, 01-31-2018]]
+in California, on the morning of the Trifecta: Full moon, Supermoon, Eclipse, 01-31-2018]]
 
 The Moon is in synchronous rotation as it orbits Earth; it rotates about its axis in about the same time it takes to orbit Earth. This results in it always keeping nearly the same face turned towards Earth. However, because of the effect of libration, about 59% of the Moon's surface can actually be seen from Earth. The side of the Moon that faces Earth is called the near side, and the opposite the far side. The far side is often inaccurately called the "dark side", but it is in fact illuminated as often as the near side: once every 29.5 Earth days. During new moon, the near side is dark.[147]
 
-The Moon had once rotated at a faster rate, but early in its history, its rotation slowed and became tidally locked in this orientation as a result of frictional effects associated with tidal deformations caused by Earth.[148] With time, the energy of rotation of the Moon on its axis was dissipated as heat, until there was no rotation of the Moon relative to Earth. In 2016, planetary scientists, using data collected on the much earlier NASA Lunar Prospector mission, found two hydrogen-rich areas on opposite sides of the Moon, probably in the form of water ice. It is speculated that these patches were the poles of the Moon billions of years ago, before it was tidally locked to Earth.[149] Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg's 1889 painting, _The Starry Night_]] The Moon has an exceptionally low albedo, giving it a reflectance that is slightly brighter than that of worn asphalt. Despite this, it is the brightest object in the sky after the Sun.[150] This is due partly to the brightness enhancement of the opposition surge; the Moon at quarter phase is only one-tenth as bright, rather than half as bright, as at full moon.[151] Additionally, color constancy in the visual system recalibrates the relations between the colors of an object and its surroundings, and because the surrounding sky is comparatively dark, the sunlit Moon is perceived as a bright object. The edges of the full moon seem as bright as the centre, without limb darkening, because of the reflective properties of lunar soil, which retroreflects light more towards the Sun than in other directions. The Moon does appear larger when close to the horizon, but this is a purely psychological effect, known as the moon illusion, first described in the 7th century BC.[152] The full Moon's angular diameter is about 0.52° (on average) in the sky, roughly the same apparent size as the Sun (see ).
+The Moon had once rotated at a faster rate, but early in its history, its rotation slowed and became tidally locked in this orientation as a result of frictional effects associated with tidal deformations caused by Earth.[148] With time, the energy of rotation of the Moon on its axis was dissipated as heat, until there was no rotation of the Moon relative to Earth. In 2016, planetary scientists, using data collected on the much earlier NASA Lunar Prospector mission, found two hydrogen-rich areas on opposite sides of the Moon, probably in the form of water ice. It is speculated that these patches were the poles of the Moon billions of years ago, before it was tidally locked to Earth.[149] 's 1889 painting, _The Starry Night_]] The Moon has an exceptionally low albedo, giving it a reflectance that is slightly brighter than that of worn asphalt. Despite this, it is the brightest object in the sky after the Sun.[150] This is due partly to the brightness enhancement of the opposition surge; the Moon at quarter phase is only one-tenth as bright, rather than half as bright, as at full moon.[151] Additionally, color constancy in the visual system recalibrates the relations between the colors of an object and its surroundings, and because the surrounding sky is comparatively dark, the sunlit Moon is perceived as a bright object. The edges of the full moon seem as bright as the centre, without limb darkening, because of the reflective properties of lunar soil, which retroreflects light more towards the Sun than in other directions. The Moon does appear larger when close to the horizon, but this is a purely psychological effect, known as the moon illusion, first described in the 7th century BC.[152] The full Moon's angular diameter is about 0.52° (on average) in the sky, roughly the same apparent size as the Sun (see ).
 
-The Moon's highest altitude at culmination varies by its phase and time of year. The full moon is highest in the sky during winter (for each hemisphere). The 18.61-year nodal cycle has an influence on lunar standstill. When the ascending node of the lunar orbit is in the vernal equinox, the lunar declination can reach up to plus or minus 28° each month. This means the Moon can pass overhead if viewed from latitudes up to 28° north or south (of the Equator), instead of only 18°. The orientation of the Moon's crescent also depends on the latitude of the viewing location; an observer in the tropics can see a smile-shaped crescent Moon.[153] The Moon is visible for two weeks every 27.3 days at the North and South Poles. Zooplankton in the Arctic use moonlight when the Sun is below the horizon for months on end.[154] Supermoon_Nov-14-2016-minneapolis.jpg was away[155] from the center of Earth, the closest occurrence since 26 January 1948. It will not be closer until 25 November 2034.[156]]]
+The Moon's highest altitude at culmination varies by its phase and time of year. The full moon is highest in the sky during winter (for each hemisphere). The 18.61-year nodal cycle has an influence on lunar standstill. When the ascending node of the lunar orbit is in the vernal equinox, the lunar declination can reach up to plus or minus 28° each month. This means the Moon can pass overhead if viewed from latitudes up to 28° north or south (of the Equator), instead of only 18°. The orientation of the Moon's crescent also depends on the latitude of the viewing location; an observer in the tropics can see a smile-shaped crescent Moon.[153] The Moon is visible for two weeks every 27.3 days at the North and South Poles. Zooplankton in the Arctic use moonlight when the Sun is below the horizon for months on end.[154] was away[155] from the center of Earth, the closest occurrence since 26 January 1948. It will not be closer until 25 November 2034.[156]]]
 
 The distance between the Moon and Earth varies from around to at perigee (closest) and apogee (farthest), respectively. On 14 November 2016, it was closer to Earth when at full phase than it has been since 1948, 14% closer than its farthest position in apogee.[157] Reported as a "supermoon", this closest point coincided within an hour of a full moon, and it was 30% more luminous than when at its greatest distance because its angular diameter is 14% greater and $\scriptstyle1.14^2\approx1.30$.[158][159][160] At lower levels, the human perception of reduced brightness as a percentage is provided by the following formula:
 
@@ -186,7 +186,7 @@ The illuminated area of the visible sphere (degree of illumination) is given by 
 
 Tidal effects
 
-Lunar_libration_with_phase_Oct_2007_450px.gif of the Moon over a single lunar month. Also visible is the slight variation in the Moon's visual size from Earth.]]
+of the Moon over a single lunar month. Also visible is the slight variation in the Moon's visual size from Earth.]]
 
 The gravitational attraction that masses have for one another decreases inversely with the square of the distance of those masses from each other. As a result, the slightly greater attraction that the Moon has for the side of Earth closest to the Moon, as compared to the part of the Earth opposite the Moon, results in tidal forces. Tidal forces affect both the Earth's crust and oceans.
 
@@ -209,11 +209,11 @@ Because the Moon is continuously blocking our view of a half-degree-wide circula
 
 Ancient and medieval studies
 
-Moon_by_Johannes_hevelius_1645.PNG from his _Selenographia_ (1647), the first map to include the libration zones]] Micrographia_Schem_38.jpg _Micrographia_, 1665]]
+from his _Selenographia_ (1647), the first map to include the libration zones]] _Micrographia_, 1665]]
 
 Understanding of the Moon's cycles was an early development of astronomy: by the , Babylonian astronomers had recorded the 18-year Saros cycle of lunar eclipses,[187] and Indian astronomers had described the Moon's monthly elongation.[188] The Chinese astronomer Shi Shen gave instructions for predicting solar and lunar eclipses. Later, the physical form of the Moon and the cause of moonlight became understood. The ancient Greek philosopher Anaxagoras reasoned that the Sun and Moon were both giant spherical rocks, and that the latter reflected the light of the former.[189] Although the Chinese of the Han Dynasty believed the Moon to be energy equated to _qi_, their 'radiating influence' theory also recognized that the light of the Moon was merely a reflection of the Sun, and Jing Fang (78–37 BC) noted the sphericity of the Moon. In the 2nd century AD, Lucian wrote the novel _A True Story_, in which the heroes travel to the Moon and meet its inhabitants. In 499 AD, the Indian astronomer Aryabhata mentioned in his _Aryabhatiya_ that reflected sunlight is the cause of the shining of the Moon.[190] The astronomer and physicist Alhazen (965–1039) found that sunlight was not reflected from the Moon like a mirror, but that light was emitted from every part of the Moon's sunlit surface in all directions.[191] Shen Kuo (1031–1095) of the Song dynasty created an allegory equating the waxing and waning of the Moon to a round ball of reflective silver that, when doused with white powder and viewed from the side, would appear to be a crescent.
 
-Galileo's_sketches_of_the_moon.png's sketches of the Moon from _Sidereus Nuncius_]]
+'s sketches of the Moon from _Sidereus Nuncius_]]
 
 In Aristotle's (384–322 BC) description of the universe, the Moon marked the boundary between the spheres of the mutable elements (earth, water, air and fire), and the imperishable stars of aether, an influential philosophy that would dominate for centuries.[192] However, in the , Seleucus of Seleucia correctly theorized that tides were due to the attraction of the Moon, and that their height depends on the Moon's position relative to the Sun.[193] In the same century, Aristarchus computed the size and distance of the Moon from Earth, obtaining a value of about twenty times the radius of Earth for the distance. These figures were greatly improved by Ptolemy (90–168 AD): his values of a mean distance of 59 times Earth's radius and a diameter of 0.292 Earth diameters were close to the correct values of about 60 and 0.273 respectively.[194] Archimedes (287–212 BC) designed a planetarium that could calculate the motions of the Moon and other objects in the Solar System.[195]
 
@@ -227,7 +227,7 @@ By spacecraft
 
 Soviet missions
 
-Soviet_moonrover.JPG]]
+]]
 
 The Cold War-inspired Space Race between the Soviet Union and the U.S. led to an acceleration of interest in exploration of the Moon. Once launchers had the necessary capabilities, these nations sent unmanned probes on both flyby and impact/lander missions. Spacecraft from the Soviet Union's _Luna_ program were the first to accomplish a number of goals: following three unnamed, failed missions in 1958,[201] the first human-made object to escape Earth's gravity and pass near the Moon was _Luna 1_; the first human-made object to impact the lunar surface was _Luna 2_, and the first photographs of the normally occluded far side of the Moon were made by _Luna 3_, all in 1959.
 
@@ -241,7 +241,7 @@ During the late 1950s at the height of the Cold War, the United States Army cond
 
 Following President John F. Kennedy's 1961 commitment to a manned moon landing before the end of the decade, the United States, under NASA leadership, launched a series of unmanned probes to develop an understanding of the lunar surface in preparation for manned missions: the Jet Propulsion Laboratory's Ranger program produced the first close-up pictures; the Lunar Orbiter program produced maps of the entire Moon; the Surveyor program landed its first spacecraft four months after _Luna 9_. The manned Apollo program was developed in parallel; after a series of unmanned and manned tests of the Apollo spacecraft in Earth orbit, and spurred on by a potential Soviet lunar flight, in 1968 Apollo 8 made the first manned mission to lunar orbit. The subsequent landing of the first humans on the Moon in 1969 is seen by many as the culmination of the Space Race.[210]
 
-As11-40-5886,_uncropped.jpg working at the Lunar Module _Eagle_ during Apollo 11 (1969)]]
+working at the Lunar Module _Eagle_ during Apollo 11 (1969)]]
 
 Neil Armstrong became the first person to walk on the Moon as the commander of the American mission Apollo 11 by first setting foot on the Moon at 02:56 UTC on 21 July 1969.[211] An estimated 500 million people worldwide watched the transmission by the Apollo TV camera, the largest television audience for a live broadcast at that time.[212][213] The Apollo missions 11 to 17 (except Apollo 13, which aborted its planned lunar landing) removed of lunar rock and soil in 2,196 separate samples.[214] The American Moon landing and return was enabled by considerable technological advances in the early 1960s, in domains such as ablation chemistry, software engineering, and atmospheric re-entry technology, and by highly competent management of the enormous technical undertaking.[215][216]
 
@@ -249,7 +249,7 @@ Scientific instrument packages were installed on the lunar surface during all th
 
 1980s–2000
 
-Moon_Crescent_-_False_Color_Mosaic.jpg coloured mosaic constructed from a series of 53 images taken through three spectral filters by _Galileo' _s imaging system as the spacecraft flew over the northern regions of the Moon on 7 December 1992.]]
+coloured mosaic constructed from a series of 53 images taken through three spectral filters by _Galileo' _s imaging system as the spacecraft flew over the northern regions of the Moon on 7 December 1992.]]
 
 After the first Moon race there were years of near quietude but starting in the 1990s, many more countries have become involved in direct exploration of the Moon. In 1990, Japan became the third country to place a spacecraft into lunar orbit with its _Hiten_ spacecraft. The spacecraft released a smaller probe, _Hagoromo_, in lunar orbit, but the transmitter failed, preventing further scientific use of the mission.[220] In 1994, the U.S. sent the joint Defense Department/NASA spacecraft _Clementine_ to lunar orbit. This mission obtained the first near-global topographic map of the Moon, and the first global multispectral images of the lunar surface.[221] This was followed in 1998 by the _Lunar Prospector_ mission, whose instruments indicated the presence of excess hydrogen at the lunar poles, which is likely to have been caused by the presence of water ice in the upper few meters of the regolith within permanently shadowed craters.[222]
 
@@ -257,7 +257,7 @@ India, Japan, China, the United States, and the European Space Agency each sent 
 
 21st century
 
-Mooncolony.jpg The European spacecraft _SMART-1_, the second ion-propelled spacecraft, was in lunar orbit from 15 November 2004 until its lunar impact on 3 September 2006, and made the first detailed survey of chemical elements on the lunar surface.[223]
+The European spacecraft _SMART-1_, the second ion-propelled spacecraft, was in lunar orbit from 15 November 2004 until its lunar impact on 3 September 2006, and made the first detailed survey of chemical elements on the lunar surface.[223]
 
 The ambitious Chinese Lunar Exploration Program began with _Chang'e 1_, which successfully orbited the Moon from 5 November 2007 until its controlled lunar impact on 1 March 2009.[224] It obtained a full image map of the Moon. _Chang'e 2_, beginning in October 2010, reached the Moon more quickly, mapped the Moon at a higher resolution over an eight-month period, then left lunar orbit for an extended stay at the Earth–Sun L2 Lagrangian point, before finally performing a flyby of asteroid 4179 Toutatis on 13 December 2012, and then heading off into deep space. On 14 December 2013, _Chang'e 3_ landed a lunar lander onto the Moon's surface, which in turn deployed a lunar rover, named _Yutu_ (Chinese: 玉兔; literally "Jade Rabbit"). This was the first lunar soft landing since _Luna 24_ in 1976, and the first lunar rover mission since _Lunokhod 2_ in 1973. China intends to launch another rover mission (_Chang'e 4_) before 2020, followed by a sample return mission (_Chang'e 5_) soon after.[225]
 
@@ -286,7 +286,7 @@ On November 29, 2018 NASA announced that nine commercial companies would compete
 
 Astronomy from the Moon
 
-Earth_in_ultraviolet_from_the_Moon_(S72-40821).jpg in ultraviolet light taken from the surface of the Moon on the Apollo 16 mission. The day-side reflects a large amount of UV light from the Sun, but the night-side shows faint bands of UV emission from the aurora caused by charged particles.[253]]] For many years, the Moon has been recognized as an excellent site for telescopes.[254] It is relatively nearby; astronomical seeing is not a concern; certain craters near the poles are permanently dark and cold, and thus especially useful for infrared telescopes; and radio telescopes on the far side would be shielded from the radio chatter of Earth.[255] The lunar soil, although it poses a problem for any moving parts of telescopes, can be mixed with carbon nanotubes and epoxies and employed in the construction of mirrors up to 50 meters in diameter.[256] A lunar zenith telescope can be made cheaply with an ionic liquid.[257]
+in ultraviolet light taken from the surface of the Moon on the Apollo 16 mission. The day-side reflects a large amount of UV light from the Sun, but the night-side shows faint bands of UV emission from the aurora caused by charged particles.[253]]] For many years, the Moon has been recognized as an excellent site for telescopes.[254] It is relatively nearby; astronomical seeing is not a concern; certain craters near the poles are permanently dark and cold, and thus especially useful for infrared telescopes; and radio telescopes on the far side would be shielded from the radio chatter of Earth.[255] The lunar soil, although it poses a problem for any moving parts of telescopes, can be mixed with carbon nanotubes and epoxies and employed in the construction of mirrors up to 50 meters in diameter.[256] A lunar zenith telescope can be made cheaply with an ionic liquid.[257]
 
 In April 1972, the Apollo 16 mission recorded various astronomical photos and spectra in ultraviolet with the Far Ultraviolet Camera/Spectrograph.[258]
 
@@ -298,11 +298,11 @@ Although _Luna_ landers scattered pennants of the Soviet Union on the Moon, and 
 
 In culture
 
-Moon-bonatti.png's _Liber astronomiae_]]
+'s _Liber astronomiae_]]
 
 Mythology
 
-Chandaragiri_Vatika.jpg (meaning "as charming as the moon"), the eighth _Tirthankara_ in Jainism, with the symbol of a crescent moon below it.]] Nuremberg_chronicles_f_76r_3.png
+(meaning "as charming as the moon"), the eighth _Tirthankara_ in Jainism, with the symbol of a crescent moon below it.]]
 
 A 5,000-year-old rock carving at Knowth, Ireland, may represent the Moon, which would be the earliest depiction discovered.[267] The contrast between the brighter highlands and the darker maria creates the patterns seen by different cultures as the Man in the Moon, the rabbit and the buffalo, among others. In many prehistoric and ancient cultures, the Moon was personified as a deity or other supernatural phenomenon, and astrological views of the Moon continue to be propagated today.
 
@@ -316,7 +316,7 @@ The splitting of the moon () is a miracle attributed to Muhammad.[284]
 
 Calendar
 
-The Moon's regular phases make it a very convenient timepiece, and the periods of its waxing and waning form the basis of many of the oldest calendars. Tally sticks, notched bones dating as far back as 20–30,000 years ago, are believed by some to mark the phases of the Moon.[285][286][287] The ~30-day month is an approximation of the lunar cycle. The English noun _month_ and its cognates in other Germanic languages stem from Proto-Germanic _*mǣnṓth-_, which is connected to the above-mentioned Proto-Germanic _*mǣnōn_, indicating the usage of a lunar calendar among the Germanic peoples (Germanic calendar) prior to the adoption of a solar calendar.[288] The PIE root of _moon_, *_méh₁nōt_, derives from the PIE verbal root *_meh₁_-, "to measure", "indicat[ing] a functional conception of the Moon, i.e. marker of the month" (cf. the English words _measure_ and _menstrual_),[289][290][291] and echoing the Moon's importance to many ancient cultures in measuring time (see Latin and Ancient Greek (_meis_) or (mēn), meaning "month").[292][293][294][295] Most historical calendars are lunisolar. The 7th-century Islamic calendar is an exceptional example of a purely lunar calendar. Months are traditionally determined by the visual sighting of the hilal, or earliest crescent moon, over the horizon.[296] MaslowskiStanislaw.WschodKsiezyca.1884.ws.jpg (National Museum, Kraków, Gallery of Sukiennice Museum)]]
+The Moon's regular phases make it a very convenient timepiece, and the periods of its waxing and waning form the basis of many of the oldest calendars. Tally sticks, notched bones dating as far back as 20–30,000 years ago, are believed by some to mark the phases of the Moon.[285][286][287] The ~30-day month is an approximation of the lunar cycle. The English noun _month_ and its cognates in other Germanic languages stem from Proto-Germanic _*mǣnṓth-_, which is connected to the above-mentioned Proto-Germanic _*mǣnōn_, indicating the usage of a lunar calendar among the Germanic peoples (Germanic calendar) prior to the adoption of a solar calendar.[288] The PIE root of _moon_, *_méh₁nōt_, derives from the PIE verbal root *_meh₁_-, "to measure", "indicat[ing] a functional conception of the Moon, i.e. marker of the month" (cf. the English words _measure_ and _menstrual_),[289][290][291] and echoing the Moon's importance to many ancient cultures in measuring time (see Latin and Ancient Greek (_meis_) or (mēn), meaning "month").[292][293][294][295] Most historical calendars are lunisolar. The 7th-century Islamic calendar is an exceptional example of a purely lunar calendar. Months are traditionally determined by the visual sighting of the hilal, or earliest crescent moon, over the horizon.[296] (National Museum, Kraków, Gallery of Sukiennice Museum)]]
 
 Lunacy
 

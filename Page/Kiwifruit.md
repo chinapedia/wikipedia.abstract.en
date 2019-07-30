@@ -1,5 +1,3 @@
-Actinidia_fruits.jpg Kiwi1.1.jpg
-
 KIWIFRUIT (often abbreviated as KIWI outside New Zealand), or CHINESE GOOSEBERRY, is the edible berry of several species of woody vines in the genus _Actinidia_.[1][2] The most common cultivar group of kiwifruit (_Actinidia deliciosa_ 'Hayward')[3] is oval, about the size of a large hen's egg ( in length and in diameter). It has a thin, hair-like, fibrous, sour-but-edible light brown skin and light green or golden flesh with rows of tiny, black, edible seeds. The fruit has a soft texture with a sweet and unique flavour. China produced 50% of the world total of kiwifruit in 2017.[4]
 
 
@@ -17,15 +15,13 @@ In New Zealand during the 1940s and 1950s, the fruit became an agricultural comm
 
 Species and cultivars
 
-Red_kiwi_fruit_slices.jpg
-
 The genus _Actinidia_ comprises around 60 species. Their fruits are quite variable, although most are easily recognised as kiwifruit because of their appearance and shape. The skin of the fruit varies in size, hairiness and colour. The flesh varies in colour, juiciness, texture and taste. Some fruits are unpalatable, while others taste considerably better than the majority of commercial cultivars.[22][23]
 
 The most commonly sold kiwifruit is derived from _A. deliciosa_ (fuzzy kiwifruit). Other species that are commonly eaten include _A. chinensis_ (golden kiwifruit), _A. coriacea_ (Chinese egg gooseberry), _A. arguta_ (hardy kiwifruit), _A. kolomikta_ (Arctic kiwifruit), _A. melanandra_ (purple kiwifruit), _A. polygama_ (silver vine) and _A. purpurea_ (hearty red kiwifruit).[24]
 
 _Actinidia deliciosa_
 
-Hardy-Kiwi-Comparison-3.jpg Most kiwifruit sold belongs to a few cultivars of _A. deliciosa_ (fuzzy kiwifruit): 'Hayward', 'Blake' and 'Saanichton 12'.[25] They have a fuzzy, dull brown skin and bright green flesh. The familiar cultivar 'Hayward' was developed by Hayward Wright in Avondale, New Zealand, around 1924.[26] It was initially grown in domestic gardens, but commercial planting began in the 1940s.
+Most kiwifruit sold belongs to a few cultivars of _A. deliciosa_ (fuzzy kiwifruit): 'Hayward', 'Blake' and 'Saanichton 12'.[25] They have a fuzzy, dull brown skin and bright green flesh. The familiar cultivar 'Hayward' was developed by Hayward Wright in Avondale, New Zealand, around 1924.[26] It was initially grown in domestic gardens, but commercial planting began in the 1940s.
 
 'Hayward' is the most commonly available cultivar in stores. It is a large, egg-shaped fruit with a sweet flavour. 'Saanichton 12', from British Columbia, is somewhat more rectangular than 'Hayward' and comparably sweet, but the inner core of the fruit can be tough. 'Blake' can self-pollinate, but it has a smaller, more oval fruit and the flavour is considered inferior.[27][28]
 
@@ -37,7 +33,7 @@ The cultivar 'Issai' is a hybrid of hardy kiwi and silver vine which can self-po
 
 _Actinidia chinensis_
 
-Golden_kiwifruit.jpg _Actinidia chinensis_ (golden kiwifruit) has a smooth, bronze skin, with a beak shape at the stem attachment. Flesh colour varies from bright green to a clear, intense yellow. This species is sweeter and more aromatic in flavour compared to _A. deliciosa_, similar to some subtropical fruits.[32] One of the most attractive varieties has a red 'iris' around the centre of the fruit and yellow flesh outside. The yellow fruit obtains a higher market price and, being less hairy than the fuzzy kiwifruit, is more palatable for consumption without peeling.[33]
+_Actinidia chinensis_ (golden kiwifruit) has a smooth, bronze skin, with a beak shape at the stem attachment. Flesh colour varies from bright green to a clear, intense yellow. This species is sweeter and more aromatic in flavour compared to _A. deliciosa_, similar to some subtropical fruits.[32] One of the most attractive varieties has a red 'iris' around the centre of the fruit and yellow flesh outside. The yellow fruit obtains a higher market price and, being less hairy than the fuzzy kiwifruit, is more palatable for consumption without peeling.[33]
 
 A commercially viable[34] variety of this red-ringed kiwifruit, patented as EnzaRed, is a cultivar of the Chinese _hong yang_ variety.[35][36]
 
@@ -50,11 +46,11 @@ Kiwifruit can be grown in most temperate climates with adequate summer heat. Whe
 
 Breeding
 
-Kiwifruit-Actinidia_deliciosa-plantation.jpg Often in commercial farming, different breeds are used for rootstock, fruit bearing plants and pollinators.[40] Therefore, the seeds produced are crossbreeds of their parents. Even if the same breeds are used for pollinators and fruit bearing plants, there is no guarantee that the fruit will have the same quality as the parent. Additionally, seedlings take seven years before they flower, so determining whether the kiwi is fruit bearing or a pollinator is time consuming.[41] Therefore, most kiwifruits, with the exception of rootstock and new cultivars, are propagated asexually.[42] This is done by grafting the fruit producing plant onto rootstock grown from seedlings or, if the plant is desired to be a true cultivar, rootstock grown from cuttings of a mature plant.[43]
+Often in commercial farming, different breeds are used for rootstock, fruit bearing plants and pollinators.[40] Therefore, the seeds produced are crossbreeds of their parents. Even if the same breeds are used for pollinators and fruit bearing plants, there is no guarantee that the fruit will have the same quality as the parent. Additionally, seedlings take seven years before they flower, so determining whether the kiwi is fruit bearing or a pollinator is time consuming.[41] Therefore, most kiwifruits, with the exception of rootstock and new cultivars, are propagated asexually.[42] This is done by grafting the fruit producing plant onto rootstock grown from seedlings or, if the plant is desired to be a true cultivar, rootstock grown from cuttings of a mature plant.[43]
 
 Pollination
 
-Kiwifruit_Female_Flowers.JPG Kiwifruit plants generally are dioecious, meaning a plant is either male or female. The male plants have flowers that produce pollen, the females receive the pollen to fertilise their ovules and grow fruit; most kiwifruit requires a male plant to pollinate the female plant. For a good yield of fruit, one male vine for every three to eight female vines is considered adequate.[44] Some varieties can self pollinate, but even they produce a greater and more reliable yield when pollinated by male kiwifruit.[45] Cross-species pollination is often (but not always) successful as long as bloom times are synchronised.
+Kiwifruit plants generally are dioecious, meaning a plant is either male or female. The male plants have flowers that produce pollen, the females receive the pollen to fertilise their ovules and grow fruit; most kiwifruit requires a male plant to pollinate the female plant. For a good yield of fruit, one male vine for every three to eight female vines is considered adequate.[44] Some varieties can self pollinate, but even they produce a greater and more reliable yield when pollinated by male kiwifruit.[45] Cross-species pollination is often (but not always) successful as long as bloom times are synchronised.
 
 In nature, the species are pollinated by birds and native bumblebees, which visit the flowers for pollen, not nectar. The female flowers produce fake anthers with what appears to be pollen on the tips in order to attract the pollinators, although these fake anthers lack the DNA and food value of the male anthers.[46]
 
@@ -117,8 +113,6 @@ In 2017, New Zealand growers were acquiring additional land to grow Zespri gold 
 
 
 Human consumption
-
-Pavlova_dessert.JPG
 
 Kiwifruit may be eaten raw, made into juices, used in baked goods, prepared with meat or used as a garnish.[68] The whole fruit, including the skin, is suitable for human consumption; however, the skin is often discarded due to its texture.[69] Sliced kiwifruit has long been used as a garnish atop whipped cream on pavlova, a meringue-based dessert. Traditionally in China, kiwifruit was not eaten for pleasure, but was given as medicine to children to help them grow and to women who have given birth to help them recover.[70]
 

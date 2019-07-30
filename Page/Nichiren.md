@@ -47,7 +47,7 @@ Nichiren then developed a base of operation in Kamakura and he converted several
 
 First remonstration to the Kamakura government
 
-Nichiren_exiled.jpg wished to follow but was forbidden to do so. Tourist postcard artwork, circa 1920s.]]
+wished to follow but was forbidden to do so. Tourist postcard artwork, circa 1920s.]]
 
 Nichiren arrived in Kamakura in 1254. Between 1254 and 1260 half of the population had perished due to a tragic succession of calamities that included drought, earthquakes, epidemics, famine, fires, and storms.[74] Nichiren sought scriptual references to explain the unfolding of natural disasters and then wrote a series of works which, based on the Buddhist theory of the non-duality of the human mind and the environment, attributed the sufferings to the weakened spiritual condition of people which caused the _Kami_ (protective forces or traces of the Buddha) to abandon the nation. The root cause of this, he argued, was the widespread decline of the Dharma due to the mass adoption of the Pure Land teachings.[75][76]
 
@@ -79,7 +79,7 @@ Regardless of the account, Nichiren's life was spared and he was exiled to Sado 
 
 Second banishment and exile
 
-Konponji-Tempel.jpg where Nichiren lived during his exile.]]
+where Nichiren lived during his exile.]]
 
 After the failed execution authorities carried out Nichiren's original sentence of exile to Sado Island in the Sea of Japan. Upon arriving, he was dispatched to a small dilapidated temple located in a graveyard. Nichiren was accompanied by a few disciples and in the first winter they endured terrible cold, food deprivation, and threats from local inhabitants.[106]
 
@@ -260,7 +260,7 @@ After Nichiren's death, his teachings were interpreted in different ways. As a r
 
 Writings
 
-Risshou_Ankokuron.jpg Many of Nichiren's writings still exist in his original handwriting, some as complete works and some as fragments. Other documents survive as copies made by his immediate disciples. Nichiren's existing works number over 700 manuscripts in total, including transcriptions of orally delivered lectures, letters of remonstration and illustrations.[233][234][235][236][237]
+Many of Nichiren's writings still exist in his original handwriting, some as complete works and some as fragments. Other documents survive as copies made by his immediate disciples. Nichiren's existing works number over 700 manuscripts in total, including transcriptions of orally delivered lectures, letters of remonstration and illustrations.[233][234][235][236][237]
 
 Scholars have divided the writings attributed to Nichiren into three categories: those whose authenticity are universally accepted, those generally designated as written by someone else after his death, and a third category in which the veracity of works is still being debated.[238][239]
 

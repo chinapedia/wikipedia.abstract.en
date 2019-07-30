@@ -44,7 +44,7 @@ The opposition coalition did not accept the National Election Commission's resul
 
 The second local elections, involving 33 municipalities with some 2.4 million registered voters, took place in November 2003. This was the first time that FRELIMO, RENAMO-UE, and independent parties competed without significant boycotts. The 24% turnout was well above the 15% turnout in the first municipal elections. FRELIMO won 28 mayoral positions and the majority in 29 municipal assemblies, while RENAMO won 5 mayoral positions and the majority in 4 municipal assemblies. The voting was conducted in an orderly fashion without violent incidents. However, the period immediately after the elections was marked by objections about voter and candidate registration and vote tabulation, as well as calls for greater transparency.
 
-Armando_Guebuza_2005.jpg In May 2004, the government approved a new general elections law that contained innovations based on the experience of the 2003 municipal elections.
+In May 2004, the government approved a new general elections law that contained innovations based on the experience of the 2003 municipal elections.
 
 Presidential and National Assembly elections took place on December 1–2, 2004. FRELIMO candidate Armando Guebuza won with 64% of the popular vote. His opponent, Afonso Dhlakama of RENAMO, received 32% of the popular vote. FRELIMO won 160 seats in Parliament. A coalition of RENAMO and several small parties won the 90 remaining seats. Armando Guebuza was inaugurated as the President of Mozambique on February 2, 2005.
 

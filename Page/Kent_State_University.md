@@ -9,8 +9,6 @@ History
 
 Early history
 
-Kenthallbw.jpg
-
 Kent State University was established in 1910 as an institution for training public school teachers. It was part of the Lowry Bill, which also created a sister school in Bowling Green, Ohio – now known as Bowling Green State University. It was initially known under the working name of the Ohio State Normal College At Kent,[6] but was named KENT STATE NORMAL SCHOOL in 1911 in honor of William S. Kent (son of Kent, Ohio, namesake Marvin Kent), who donated the used for the original campus. As such, it is the only public university in Ohio named for an individual.[7] The first president was John Edward McGilvrey, who served from 1912 to 1926.[8] McGilvrey had an ambitious vision for the school as a large university, instructing architect George F. Hammond, who designed the original campus buildings, to produce a master plan.[9] Classes began in 1912 before any buildings had been completed at the campus in Kent. These classes were held at extension centers in 25 cities around the region. By May 1913, classes were being held on the campus in Kent with the opening of Merrill Hall.[10] The school graduated 34 students in its first commencement on July 29, 1914. In 1915, the school was renamed KENT STATE NORMAL COLLEGE[11] due to the addition of four-year degrees. By then additional buildings had been added or were under construction. Kent State's enrollment growth was particularly notable during its summer terms. In 1924, the school's registration for summer classes was the largest of any teacher-training school in the United States.[12] In 1929, the state of Ohio changed the name to KENT STATE COLLEGE as it allowed the school to establish a college of arts and sciences.[13]
 
 McGilvrey's vision for Kent was not shared by many others outside the school, particularly at the state level and at other state schools. His efforts to have the state funding formula changed created opposition, particularly from Ohio State University and its president William Oxley Thompson. This resulted in a 1923 "credit war" where Ohio State refused Kent transfer credits and spread to several other schools taking similar action. It was this development – along with several other factors – which led to the firing of McGilvrey in January 1926.[14] McGilvrey was succeeded first by David Allen Anderson (1926–1928) and James Ozro Engleman from 1928 to 1938, though he continued to be involved with the school for several years as president emeritus and as head of alumni relations from 1934 to 1945.[15] He was present in Columbus on May 17, 1935, when Kent native Governor Martin L. Davey signed a bill that allowed Kent State and Bowling Green to add schools of business administration and graduate programs, giving them each university status.[16]
@@ -26,8 +24,6 @@ In 1965, chemistry professor Glenn H. Brown established the Liquid Crystal Insti
 In 1967, Kent State became the first university to run an independent, student-operated Campus Bus Service. It was unique in that it provided jobs for students, receiving funding from student fees rather than bus fares. Campus Bus Service was the largest such operation in the country until it merged with the Portage Area Regional Transportation Authority in 2004.[27] 1969 saw the opening of a new Memorial Stadium on the far eastern edge of campus and the closure and dismantling of the old Memorial Stadium.
 
 Kent State shootings
-
-May4thMemorial.JPG May4thmem.jpg
 
 Kent State gained international attention on May 4, 1970, when an Ohio Army National Guard unit fired at students during an anti-war protest on campus, killing four and wounding nine. The Guard had been called into Kent after several protests in and around campus had become violent, including a riot in downtown Kent and the burning of the ROTC building. The main cause of the protests was the United States' invasion of Cambodia during the Vietnam War.[28] The shootings caused an immediate closure of the campus with students and faculty given just 60 minutes to pack belongings. Around the country, many college campuses canceled classes or closed for fear of similar violent protests.[29] In Kent, schools were closed and the National Guard restricted entry into the city limits, patrolling the area until May 8. With the campus closed, faculty members came up with a variety of solutions—including holding classes in their homes, at public buildings and places, via telephone, or through the mail—to allow their students to complete the term, which was only a few weeks away at the time.[30]
 
@@ -48,11 +44,11 @@ In March 1991, Kent State once again made history by appointing Carol Cartwright
 
 Campuses
 
-KSUGatewayArchNew.JPG Kent State University is an eight-campus system in northeastern Ohio, with the main administrative center in Kent. Within the Kent State University system, the main campus is officially referred to as the "Kent Campus".[43] The Kent Campus is a landscaped suburban environment, covering approximately which house over 100 buildings, gardens, bike trails, and open greenery. There are also thousands of additional acres of bogs, marshes, and wildlife refuges adjacent to or near the campus.[44] While the university's official mascot is Flash the golden eagle, the campus also has an unofficial mascot in the black squirrel, which were brought to Kent in 1961 and can be found on and around the campus. The campus is divided into North, South, and East sections but many areas have come to be referred to as Front Campus, Residential Campus, and Science Row. The main hub of activity and central point is the Student Center and Risman Plaza, which is adjacent to the twelve-story main library. The university also operated the 18-hole Kent State Golf Course until 2017, and currently operates Centennial Research Park just east of campus in Franklin Township and the Kent State University Airport in Stow.
+Kent State University is an eight-campus system in northeastern Ohio, with the main administrative center in Kent. Within the Kent State University system, the main campus is officially referred to as the "Kent Campus".[43] The Kent Campus is a landscaped suburban environment, covering approximately which house over 100 buildings, gardens, bike trails, and open greenery. There are also thousands of additional acres of bogs, marshes, and wildlife refuges adjacent to or near the campus.[44] While the university's official mascot is Flash the golden eagle, the campus also has an unofficial mascot in the black squirrel, which were brought to Kent in 1961 and can be found on and around the campus. The campus is divided into North, South, and East sections but many areas have come to be referred to as Front Campus, Residential Campus, and Science Row. The main hub of activity and central point is the Student Center and Risman Plaza, which is adjacent to the twelve-story main library. The university also operated the 18-hole Kent State Golf Course until 2017, and currently operates Centennial Research Park just east of campus in Franklin Township and the Kent State University Airport in Stow.
 
 Regional campuses
 
-Regionalksu.png]] In addition to the Kent Campus, there are seven regional campuses. The system is one of the largest and oldest regional campus systems in the United States. The regional campuses provide open enrollment and are generally treated as in-house community colleges as opposed to the large university feel of the Kent Campus. Students at the regional campuses can begin any of Kent State's majors at their respective campus and each campus offers its own unique programs and opportunities that may or may not be available in Kent. Regional campuses include:
+]] In addition to the Kent Campus, there are seven regional campuses. The system is one of the largest and oldest regional campus systems in the United States. The regional campuses provide open enrollment and are generally treated as in-house community colleges as opposed to the large university feel of the Kent Campus. Students at the regional campuses can begin any of Kent State's majors at their respective campus and each campus offers its own unique programs and opportunities that may or may not be available in Kent. Regional campuses include:
 
 Ashtabula
 
@@ -88,7 +84,7 @@ In addition to the eight campuses in northeast Ohio, Kent State operates facilit
 
 Florence Center
 
-KSUFlorence2.JPG KSU-Florence opened its doors to International Studies Abroad in a collaboration that grants students the opportunity to study in historic Florence at its newly renovated Palazzo dei Cerchi. Palazzo dei Cerchi is a prestigious and ancient building located in the heart of Florence, at the corner of Via della Condotta and Vicolo dei Cerchi, next to the famous Piazza della Signoria and the birthplace of literary genius Dante Alighieri. Kent State acquired this facility in 2003 and undertook its complete renovation. The original exterior was maintained and reflects Florence as it was in the 13th century. The restoration carefully preserved the original structure while creating an efficient space for academic purposes, with an interior that houses state-of-the-art classrooms.[51] After using the recently restorated Palazzo Vettori since January 2016, on april 17th 2016 the Kent State University Florence campus was officially moved from Palazzo dei Cerchi and Palazzo Bartolini Baldelli to Palazzo Vettori.[52][53]
+KSU-Florence opened its doors to International Studies Abroad in a collaboration that grants students the opportunity to study in historic Florence at its newly renovated Palazzo dei Cerchi. Palazzo dei Cerchi is a prestigious and ancient building located in the heart of Florence, at the corner of Via della Condotta and Vicolo dei Cerchi, next to the famous Piazza della Signoria and the birthplace of literary genius Dante Alighieri. Kent State acquired this facility in 2003 and undertook its complete renovation. The original exterior was maintained and reflects Florence as it was in the 13th century. The restoration carefully preserved the original structure while creating an efficient space for academic purposes, with an interior that houses state-of-the-art classrooms.[51] After using the recently restorated Palazzo Vettori since January 2016, on april 17th 2016 the Kent State University Florence campus was officially moved from Palazzo dei Cerchi and Palazzo Bartolini Baldelli to Palazzo Vettori.[52][53]
 
 New York City Studio
 
@@ -100,8 +96,6 @@ Kent State's Cleveland Urban Design Center is located at 1309 Euclid Ave in the 
 
 
 Academics
-
-KentStateHonorsCollege.JPG
 
 Kent State has colleges of:
 
@@ -119,8 +113,6 @@ Kent State has colleges of:
 The university has an Honors College and interdisciplinary programs in Biomedical Sciences, Financial Engineering, and Information Architecture and Knowledge Management.
 
 Notable programs
-
-Rockwellhall.jpg
 
 -   The College of Aeroautics and Engineering offers four aeronautics degrees; Flight Technology, Aviation Management, Air Traffic Control and Aeronautical Engineering. In 2008, the university began offering a flight training certificate program through an affiliation with Premier Flight Academy in Akron.[56][57]
 
@@ -143,7 +135,7 @@ Rockwellhall.jpg
 
 Student life
 
-KSC2.jpg The university offers a large number of opportunities for student involvement at all its campuses, including student and professional associations, service organizations, performing ensembles, student publications, student government, and intramural and club athletics.
+The university offers a large number of opportunities for student involvement at all its campuses, including student and professional associations, service organizations, performing ensembles, student publications, student government, and intramural and club athletics.
 
 Greek life
 
@@ -159,8 +151,6 @@ Kent State offers several student government options, the largest of which is th
 
 Student media
 
-Tritowersksu.jpg
-
 -   The _Kent Stater_, colloquially known as the "Stater", is a student newspaper publishing student and guests editorials Monday, Wednesday and Thursday during the fall and spring semesters and weekly as the Summer Kent Stater during the summer. Stater staff is entirely students, primarily in the journalism school. Most editors hold their positions for one semester.
 -   Black Squirrel Radio is Kent State's student-run radio station, which has nearly 120 students on its staff. The station streams constantly online and is also available through iTunes and on campus TV. The station plays urban, rock, and local music, and also broadcasts KSU basketball and football home games live.
 -   _Fusion magazine_ is published twice a year by KSU students in print and on the Internet. The magazine strives to unify people of different backgrounds through education and awareness. _Fusion_ addresses sexual minority issues within the general population using illustrative photo essays and in-depth feature articles.
@@ -170,7 +160,7 @@ Tritowersksu.jpg
 
 Campus living
 
-KSU_Eastway_Dining_Hall.jpg Kent State operates twenty-five on-campus residence halls, all of which are located on the main campus in Kent. Each hall is a part of a larger group, usually bound by a common name or a common central area. They are:
+Kent State operates twenty-five on-campus residence halls, all of which are located on the main campus in Kent. Each hall is a part of a larger group, usually bound by a common name or a common central area. They are:
 
 -   TWIN TOWERS: Beall and McDowell
 -   TRI-TOWERS: Koonce, Leebrick, Wright and Korb
@@ -184,7 +174,7 @@ Dining halls are in Eastway, Tri-Towers, and Prentice, as well as multiple locat
 
 Learning communities
 
-Centatnight.jpg Within the halls are 12 Living-Learning Communities based on area of study:
+Within the halls are 12 Living-Learning Communities based on area of study:
 
 -   Air Force ROTC, housed in Dunbar Hall
 -   Army ROTC, housed in Dunbar Hall
@@ -202,12 +192,12 @@ Centatnight.jpg Within the halls are 12 Living-Learning Communities based on are
 
 4 Paws for Ability
 
-Blitz_Portrait.jpg 4 Paws for Ability University Program provides university students with an opportunity to foster and socialize service dogs-in-training before they begin their professional training at the 4 Paws for Ability facility in Xenia, Ohio. A chapter was founded at Kent State in August 2016 with three service dogs-in-training; it became an official organization a year later. , 4 Paws for Ability Kent State has 25 dogs on campus at a time. However, the amount of sitters, co-handlers, and volunteers is not capped. The chapter has approximately 325 volunteers on their e-mail list, about 30 sitters, and over 50 co-handlers. The organization shares custody of the small fenced-in discus area at the outdoor track along Johnston Drive. Discussion and plans began in late 2017 to create a separate field for the organization.[69]
+4 Paws for Ability University Program provides university students with an opportunity to foster and socialize service dogs-in-training before they begin their professional training at the 4 Paws for Ability facility in Xenia, Ohio. A chapter was founded at Kent State in August 2016 with three service dogs-in-training; it became an official organization a year later. , 4 Paws for Ability Kent State has 25 dogs on campus at a time. However, the amount of sitters, co-handlers, and volunteers is not capped. The chapter has approximately 325 volunteers on their e-mail list, about 30 sitters, and over 50 co-handlers. The organization shares custody of the small fenced-in discus area at the outdoor track along Johnston Drive. Discussion and plans began in late 2017 to create a separate field for the organization.[69]
 
 
 Athletics
 
-KentAkron.jpg on September 30, 2006]]
+on September 30, 2006]]
 
 Kent State's athletic teams are called the Golden Flashes and the school colors are shades of navy blue and gold, officially "Kent State blue" and "Kent State gold".[70] The university sponsors 16 varsity athletic teams who compete in the National Collegiate Athletic Association (NCAA) at the Division I level with football in the Football Bowl Subdivision (FBS). Kent State is a member of the Mid-American Conference (MAC) East division and has been a member of the conference since 1951. The university athletic facilities are mainly on campus, featuring the 25,319-seat Dix Stadium and the 6,327-seat Memorial Athletic and Convocation Center, one of the oldest arenas in Division I college basketball.
 
@@ -223,11 +213,9 @@ The university operates the _Kent State University Press_, located in the main l
 
 Notable alumni
 
-KSULibrary09NEW.JPG
-
 Kent State counts 227,000 living alumni .[74] It has produced a number of individuals in the entertainment industry including comedian and current _Price is Right_ host Drew Carey, comedian and talk show host Arsenio Hall, Steve Harvey, actors John de Lancie, Michael Keaton, and Ray Wise, actresses Alaina Reed Hall and Alice Ripley, _Phenomenon_ star Angela Funovits, boxing promoter Don King, _30 Rock_ producer Jeff Richmond, and _That 70s Show_ creator Bonnie Turner. Musicians from Kent State include several members of the band Devo, which was formed at Kent State in 1973, including Mark Mothersbaugh, Bob Lewis, and Gerald Casale. Additional musicians include singers Chrissie Hynde, Jeff Timmons of 98 Degrees, Debra Byrd of _American Idol_, guitarist Joe Walsh, and drummer Chris Vrenna.
 
-Steve_Stone_interviews_Mike_Mullen_CROP.jpg, Cy Young Award winner.]]
+, Cy Young Award winner.]]
 
 In politics and government, several politicians in Ohio attended Kent State including former judge and United States Representative Robert E. Cook, former minority leader C.J. Prentiss, current United States House of Representatives member Betty Sutton, former representative, Lieutenant Governor, and Governor Nancy Hollister, and Supreme Court of Ohio justice Terrence O'Donnell. Other politicians include Allen Buckley of Georgia, Ohio politician Jeffrey Dean, Pennsylvania state representative Allen Kukovich, and George Petak of Wisconsin. Politician activists from Kent State include anti-war activist Alan Canfora and former Students for a Democratic Society leaders Ken Hammond and Carl Oglesby.
 

@@ -3,8 +3,6 @@ The FOREIGN RELATIONS OF ROMANIA are conducted by the Ministry of Foreign Affair
 
 Relations by region and country
 
-Diplomatic_missions_of_Romania.PNG
-
 Europe: European Union
 
 Romania joined the European Union (EU) on January 1, 2007. Romania also declared its public support for Turkey and Croatia joining the European Union. Romania shares a privileged economic relation with Turkey. Romania has developed strong relations with Hungary, with the latter playing a key role in supporting Romania's bid to join the EU.[1]

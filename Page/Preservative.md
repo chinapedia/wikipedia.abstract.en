@@ -22,7 +22,7 @@ Antimicrobial preservatives prevent degradation by bacteria. This method is the 
 
 Antioxidants
 
-Lipid_peroxidation.svg pathway for the first phase of the oxidative rancidification of fats. This process is slowed by antioxidants.]]
+pathway for the first phase of the oxidative rancidification of fats. This process is slowed by antioxidants.]]
 
 The oxidation process spoils most food, especially those with a high fat content. Fats quickly turn rancid when exposed to oxygen. Antioxidants prevent or inhibit the oxidation process. The most common antioxidant additives are ascorbic acid (vitamin C) and ascorbates.[9] Thus, antioxidants are commonly added to oils, cheese, and chips.[10] Other antioxidants include the phenol derivatives BHA, BHT, TBHQ and propyl gallate. These agents suppress the formation of hydroperoxides.[11] Other preservatives include ethanol and methylchloroisothiazolinone.
 

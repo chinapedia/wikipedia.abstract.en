@@ -7,7 +7,7 @@ In 1963, Joseph Greenberg added them to the Niger–Congo family, creating his N
 
 Roger Blench notes that the Talodi and Heiban families have the noun class systems characteristic of the Atlantic–Congo core of Niger–Congo but that the two Katla languages have no trace of ever having had such a system. However, the Kadu languages and some of the Rashad languages appear to have acquired noun classes as part of a Sprachbund rather than having inherited them. Blench concludes that Talodi and Heiban are core Niger–Congo whereas Katla and Rashad form a peripheral branch along the lines of Mande.
 
-Map_of_the_languages_of_the_Nuba_Mountains.svg]]
+]]
 
 
 Talodi–Heiban languages

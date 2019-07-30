@@ -27,7 +27,7 @@ Campbell continued his independent reading while teaching for a year in 1933 at 
 
 Sarah Lawrence College
 
-JosephCampbellandJeanErdmancirca1939.jpg ]] In 1934, Campbell accepted a position as Professor of Literature at Sarah Lawrence College. In 1938, he married one of his former students, the dancer-choreographer Jean Erdman. For most of their 49 years of marriage they shared a two-room apartment in Greenwich Village in New York City. In the 1980s they also purchased an apartment in Honolulu and divided their time between the two cities. They did not have any children.
+]] In 1934, Campbell accepted a position as Professor of Literature at Sarah Lawrence College. In 1938, he married one of his former students, the dancer-choreographer Jean Erdman. For most of their 49 years of marriage they shared a two-room apartment in Greenwich Village in New York City. In the 1980s they also purchased an apartment in Honolulu and divided their time between the two cities. They did not have any children.
 
 Early in World War II, Campbell attended a lecture by the Indologist Heinrich Zimmer; the two men became good friends. After Zimmer's death, Campbell was given the task of editing and posthumously publishing Zimmer's papers, which he would do over the following decade.
 

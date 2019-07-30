@@ -7,18 +7,16 @@ The family encompasses about 6–11% of all seed plants.[3] The largest genera a
 
 Description
 
-Orchid_high_resolution.jpg
-
 Orchids are easily distinguished from other plants, as they share some very evident, shared derived characteristics, or synapomorphies. Among these are: bilateral symmetry of the flower (zygomorphism), many resupinate flowers, a nearly always highly modified petal (labellum), fused stamens and carpels, and extremely small seeds.
 
 Stem and roots
 
-Anacamptis_fragrans.JPG All orchids are perennial herbs that lack any permanent woody structure. They can grow according to two patterns:
+All orchids are perennial herbs that lack any permanent woody structure. They can grow according to two patterns:
 
 -   MONOPODIAL: The stem grows from a single bud, leaves are added from the apex each year and the stem grows longer accordingly. The stem of orchids with a monopodial growth can reach several metres in length, as in _Vanda_ and _Vanilla_.
 -   SYMPODIAL: Sympodial orchids have a front (the newest growth) and a back (the oldest growth).[4] The plant produces a series of adjacent shoots, which grow to a certain size, bloom and then stop growing and are replaced. Sympodial orchids grow laterally rather than vertically, following the surface of their support. The growth continues by development of new leads, with their own leaves and roots, sprouting from or next to those of the previous year, as in _Cattleya_. While a new lead is developing, the rhizome may start its growth again from a so-called 'eye', an undeveloped bud, thereby branching. Sympodial orchids may have visible pseudobulbs joined by a _rhizome_, which creeps along the top or just beneath the soil.
 
-Orchis_lactea_rhizotubers.jpg'' showing the two tubers]] Terrestrial orchids may be rhizomatous or form corms or tubers. The root caps of terrestrial orchids are smooth and white.
+'' showing the two tubers]] Terrestrial orchids may be rhizomatous or form corms or tubers. The root caps of terrestrial orchids are smooth and white.
 
 Some sympodial terrestrial orchids, such as _Orchis_ and _Ophrys_, have two subterranean tuberous roots. One is used as a food reserve for wintry periods, and provides for the development of the other one, from which visible growth develops.
 
@@ -28,7 +26,7 @@ Epiphytic orchids, those that grow upon a support, have modified aerial roots th
 
 The cells of the root epidermis grow at a right angle to the axis of the root to allow them to get a firm grasp on their support. Nutrients for epiphytic orchids mainly come from mineral dust, organic detritus, animal droppings and other substances collecting among on their supporting surfaces.
 
-Pseudobulbe.jpg The base of the stem of sympodial epiphytes, or in some species essentially the entire stem, may be thickened to form a pseudobulb that contains nutrients and water for drier periods.
+The base of the stem of sympodial epiphytes, or in some species essentially the entire stem, may be thickened to form a pseudobulb that contains nutrients and water for drier periods.
 
 The pseudobulb has a smooth surface with lengthwise grooves, and can have different shapes, often conical or oblong. Its size is very variable; in some small species of _Bulbophyllum_, it is no longer than two millimeters, while in the largest orchid in the world, _Grammatophyllum speciosum_ (giant orchid), it can reach three meters. Some _Dendrobium_ species have long, canelike pseudobulbs with short, rounded leaves over the whole length; some other orchids have hidden or extremely small pseudobulbs, completely included inside the leaves.
 
@@ -48,7 +46,7 @@ Some orchids, such as _Dendrophylax lindenii_ (ghost orchid), _Aphyllorchis_ and
 
 Orchids of the genus _Corallorhiza_ (coralroot orchids) lack leaves altogether and instead wrap their roots around the roots of mature trees and use specialized fungi to harvest sugars.[5]
 
-Flor_de_Orquídea_-_Orchid_Flower.JPG'' cultivar]]
+'' cultivar]]
 
 Flowers
 
@@ -58,11 +56,11 @@ Some orchids have single flowers, but most have a racemose inflorescence, someti
 
 As an apomorphy of the clade, orchid flowers are primitively zygomorphic (bilaterally symmetrical), although in some genera, such as _Mormodes_, _Ludisia_, and _Macodes_, this kind of symmetry may be difficult to notice.
 
-Orchis_sambicina_anatomia.jpg for reference]]The orchid flower, like most flowers of monocots, has two whorls of sterile elements. The outer whorl has three sepals and the inner whorl has three petals. The sepals are usually very similar to the petals (thus called tepals, 1), but may be completely distinct.
+for reference]]The orchid flower, like most flowers of monocots, has two whorls of sterile elements. The outer whorl has three sepals and the inner whorl has three petals. The sepals are usually very similar to the petals (thus called tepals, 1), but may be completely distinct.
 
-The medial petal, called the labellum or lip (6), which is always modified and enlarged, is actually the upper medial petal; however, as the flower develops, the inferior ovary (7) or the pedicel usually rotates 180°, so that the labellum arrives at the lower part of the flower, thus becoming suitable to form a platform for pollinators. This characteristic, called resupination, occurs primitively in the family and is considered apomorphic, a derived characteristic all Orchidaceae share. The torsion of the ovary is very evident from the longitudinal section shown (_below right_). Some orchids have secondarily lost this resupination, e.g. _Epidendrum secundum_. VanillaFlowerLongitudinalSection-en.png'']] The normal form of the sepals can be found in _Cattleya_, where they form a triangle. In _Paphiopedilum_ (Venus slippers), the lower two sepals are fused into a synsepal, while the lip has taken the form of a slipper. In _Masdevallia_, all the sepals are fused.
+The medial petal, called the labellum or lip (6), which is always modified and enlarged, is actually the upper medial petal; however, as the flower develops, the inferior ovary (7) or the pedicel usually rotates 180°, so that the labellum arrives at the lower part of the flower, thus becoming suitable to form a platform for pollinators. This characteristic, called resupination, occurs primitively in the family and is considered apomorphic, a derived characteristic all Orchidaceae share. The torsion of the ovary is very evident from the longitudinal section shown (_below right_). Some orchids have secondarily lost this resupination, e.g. _Epidendrum secundum_. '']] The normal form of the sepals can be found in _Cattleya_, where they form a triangle. In _Paphiopedilum_ (Venus slippers), the lower two sepals are fused into a synsepal, while the lip has taken the form of a slipper. In _Masdevallia_, all the sepals are fused.
 
-Orchid flowers with abnormal numbers of petals or lips are called peloric. Peloria is a genetic trait, but its expression is environmentally influenced and may appear random. Cattleya_photo_D_Ramey_Logan.jpg'' cultivar shows the normal form of petals.]] Orchid flowers primitively had three stamens, but this situation is now limited to the genus _Neuwiedia_. _Apostasia_ and the Cypripedioideae have two stamens, the central one being sterile and reduced to a staminode. All of the other orchids, the clade called _Monandria_, retain only the central stamen, the others being reduced to staminodes (4). The filaments of the stamens are always adnate (fused) to the style to form cylindrical structure called the gynostemium or column (2). In the primitive Apostasioideae, this fusion is only partial; in the Vanilloideae, it is more deep; in Orchidoideae and Epidendroideae, it is total. The stigma (9) is very asymmetrical, as all of its lobes are bent towards the centre of the flower and lie on the bottom of the column.
+Orchid flowers with abnormal numbers of petals or lips are called peloric. Peloria is a genetic trait, but its expression is environmentally influenced and may appear random. '' cultivar shows the normal form of petals.]] Orchid flowers primitively had three stamens, but this situation is now limited to the genus _Neuwiedia_. _Apostasia_ and the Cypripedioideae have two stamens, the central one being sterile and reduced to a staminode. All of the other orchids, the clade called _Monandria_, retain only the central stamen, the others being reduced to staminodes (4). The filaments of the stamens are always adnate (fused) to the style to form cylindrical structure called the gynostemium or column (2). In the primitive Apostasioideae, this fusion is only partial; in the Vanilloideae, it is more deep; in Orchidoideae and Epidendroideae, it is total. The stigma (9) is very asymmetrical, as all of its lobes are bent towards the centre of the flower and lie on the bottom of the column.
 
 Pollen is released as single grains, like in most other plants, in the Apostasioideae, Cypripedioideae, and Vanilloideae. In the other subfamilies, which comprise the great majority of orchids, the anther (3) carries two pollinia.
 
@@ -82,7 +80,7 @@ Pollinators are often visually attracted by the shape and colours of the labellu
 
 In orchids that produce pollinia, pollination happens as some variant of the following sequence: when the pollinator enters into the flower, it touches a viscidium, which promptly sticks to its body, generally on the head or abdomen. While leaving the flower, it pulls the pollinium out of the anther, as it is connected to the viscidium by the caudicle or stipe. The caudicle then bends and the pollinium is moved forwards and downwards. When the pollinator enters another flower of the same species, the pollinium has taken such position that it will stick to the stigma of the second flower, just below the rostellum, pollinating it. The possessors of orchids may be able to reproduce the process with a pencil, small paintbrush, or other similar device.
 
-Ophrys_apifera_flower2.jpg'' is about to self-pollinate]] Some orchids mainly or totally rely on self-pollination, especially in colder regions where pollinators are particularly rare. The caudicles may dry up if the flower has not been visited by any pollinator, and the pollinia then fall directly on the stigma. Otherwise, the anther may rotate and then enter the stigma cavity of the flower (as in _Holcoglossum amesianum_).
+'' is about to self-pollinate]] Some orchids mainly or totally rely on self-pollination, especially in colder regions where pollinators are particularly rare. The caudicles may dry up if the flower has not been visited by any pollinator, and the pollinia then fall directly on the stigma. Otherwise, the anther may rotate and then enter the stigma cavity of the flower (as in _Holcoglossum amesianum_).
 
 The slipper orchid _Paphiopedilum parishii_ reproduces by self-fertilization. This occurs when the anther changes from a solid to a liquid state and directly contacts the stigma surface without the aid of any pollinating agent or floral assembly.[8]
 
@@ -104,11 +102,11 @@ Some species, such as _Phalaenopsis_, _Dendrobium_, and _Vanda_, produce offshoo
 
 Fruits and seeds
 
-Kapselquerschnitte_Orchideen.png The ovary typically develops into a capsule that is dehiscent by three or six longitudinal slits, while remaining closed at both ends.
+The ovary typically develops into a capsule that is dehiscent by three or six longitudinal slits, while remaining closed at both ends.
 
 The seeds are generally almost microscopic and very numerous, in some species over a million per capsule. After ripening, they blow off like dust particles or spores. They lack endosperm and must enter symbiotic relationships with various mycorrhizal basidiomyceteous fungi that provide them the necessary nutrients to germinate, so all orchid species are mycoheterotrophic during germination and reliant upon fungi to complete their lifecycles.
 
-Orchid_mycorrhizal_fungus_from_Zambia_on_agar_plate,_Kew_Gardens.jpgl fungus on agar plate, Jodrell Laboratory, Kew Gardens]]
+l fungus on agar plate, Jodrell Laboratory, Kew Gardens]]
 
 As the chance for a seed to meet a suitable fungus is very small, only a minute fraction of all the seeds released grow into adult plants. In cultivation, germination typically takes weeks.
 
@@ -296,7 +294,7 @@ Some orchids, such as _Neottia_ and _Corallorhiza_, lack chlorophyll, so are una
 
 Uses
 
-2007-12-17AdventFlowerShop02.jpg Blc._Paradise_Jewel_'Flame'_Orchid_bloom.JPG'' ("BLC") Paradise Jewel 'Flame' hybrid orchid. Blooms of the _Cattleya_ alliance are often used in ladies' corsages.]]
+'' ("BLC") Paradise Jewel 'Flame' hybrid orchid. Blooms of the _Cattleya_ alliance are often used in ladies' corsages.]]
 
 Perfumery
 
@@ -314,7 +312,7 @@ New orchids are registered with the International Orchid Register, maintained by
 
 Use as food
 
-Vanilla_fragrans_4.jpg The dried seed pods of one orchid genus, _Vanilla_ (especially _Vanilla planifolia_), are commercially important as a flavouring in baking, for perfume manufacture and aromatherapy.
+The dried seed pods of one orchid genus, _Vanilla_ (especially _Vanilla planifolia_), are commercially important as a flavouring in baking, for perfume manufacture and aromatherapy.
 
 The underground tubers of terrestrial orchids [mainly _Orchis mascula_ (early purple orchid)] are ground to a powder and used for cooking, such as in the hot beverage _salep_ or in the Turkish frozen treat _dondurma_. The name _salep_ has been claimed to come from the Arabic expression __, "fox testicles", but it appears more likely the name comes directly from the Arabic name __. The similarity in appearance to testes naturally accounts for _salep_ being considered an aphrodisiac.
 

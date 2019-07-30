@@ -1,7 +1,5 @@
 In astronomy, KEPLER'S LAWS OF PLANETARY MOTION are three scientific laws describing the motion of planets around the Sun.
 
-Figure 1: Illustration of Kepler's three laws with two planetary orbits.
-
 1.  The orbit of a planet is an ellipse with the Sun at one of the two foci.
 2.  A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.[1]
 3.  The square of the orbital period of a planet is directly proportional to the cube of the semi-major axis of its orbit.
@@ -72,10 +70,6 @@ The mathematical model of the kinematics of a planet subject to the laws allows 
 
 First law of Kepler (law of orbits)
 
-kepler-first-law.svg
-
-Ellipse_latus_rectum.svg
-
 Mathematically, an ellipse can be represented by the formula:
 
 $$r = \frac{p}{1 + \varepsilon\, \cos\theta},$$
@@ -126,8 +120,6 @@ _A_ = _π__a__b_ .
 The special case of a circle is _ε_ = 0, resulting in _r_ = _p_ = _r__(min) = _r__(max) = _a_ = _b_ and _A_ = _πr_².
 
 Second law of Kepler
-
-kepler-second-law.gif
 
 The orbital radius and angular velocity of the planet in the elliptical orbit will vary. This is shown in the animation: the planet travels faster when closer to the Sun, then slower when farther from the Sun. Kepler's second law states that the blue sector has constant area.
 
@@ -188,7 +180,7 @@ The following table shows the data used by Kepler to empirically derive his law:
 
 Upon finding this pattern Kepler wrote:[21]
 
-Solar_system_planets_a(AU)_vs_period(terrestrial_years).png For comparison, here are modern estimates:
+For comparison, here are modern estimates:
 
   Planet    Semi-major axis (AU)   Period (days)   $\frac{R^3}{T^2}$(10AU/day)
   --------- ---------------------- --------------- -----------------------------
@@ -411,7 +403,7 @@ The proof of this procedure is shown below.
 
 Mean anomaly, _M_
 
-Mean_Anomaly.svg The Keplerian problem assumes an elliptical orbit and the four points:
+The Keplerian problem assumes an elliptical orbit and the four points:
 
     _s_ the Sun (at one focus of ellipse);
     _z_ the perihelion

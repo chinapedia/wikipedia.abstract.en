@@ -1,4 +1,4 @@
-PDP-1.jpg Dec_pdp-6.lg.jpg Pdp7-oslo-2005.jpeg DEC_PDP_8e.jpg Pdp-11-40.jpg PDP-12-Update-Uppsala.jpeg PDP-15_at_Varesezaal.jpg PDP-15_graphics_terminal.agr.jpg and digitizing tablet ]]
+and digitizing tablet ]]
 
 PROGRAMMED DATA PROCESSOR (PDP), referred to by some customers, media and authors as "PROGRAMMABLE Data Processor,[1][2][3] is a term used by the Digital Equipment Corporation from 1957 to 1990 for several lines of minicomputers.[4] The name "PDP" intentionally avoids the use of the term "computer" because, at the time of the first PDPs, computers had a reputation of being large, complicated, and expensive machines, and the venture capitalists behind Digital (especially Georges Doriot) would not support Digital's attempting to build a "computer"; the word "minicomputer" had not yet been coined.[5][6] So instead, Digital used their existing line of logic modules to build a _Programmed Data Processor_ and aimed it at a market that could not afford the larger computers.
 

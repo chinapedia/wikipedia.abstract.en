@@ -8,7 +8,7 @@ In 1991, a hominid jawbone was discovered near Uraha village that was between 2.
 
 Maravi Empire
 
-Maravi_Kingdom_map_c._1650s.svg The name Malawi is thought to derive from the word _Maravi_. The people of the Maravi Empire were iron workers. Maravi is thought to mean "Flames" and may have come from the sight of many kilns lighting up the night sky. A dynasty known as the Maravi Empire was founded by the Amaravi people in the late 15th century. The Amaravi, who eventually became known as the Chewa (a word possibly derived from a term meaning "foreigner"), migrated to Malawi from the region of the modern-day Republic of Congo to escape unrest and disease. The Chewa attacked the Akafula, who settled in small family clans without a unified system of protection. Using a system of destruction they would later employ in hunting predatory animals, the Chewa hunted down and butchered the Akafula.
+The name Malawi is thought to derive from the word _Maravi_. The people of the Maravi Empire were iron workers. Maravi is thought to mean "Flames" and may have come from the sight of many kilns lighting up the night sky. A dynasty known as the Maravi Empire was founded by the Amaravi people in the late 15th century. The Amaravi, who eventually became known as the Chewa (a word possibly derived from a term meaning "foreigner"), migrated to Malawi from the region of the modern-day Republic of Congo to escape unrest and disease. The Chewa attacked the Akafula, who settled in small family clans without a unified system of protection. Using a system of destruction they would later employ in hunting predatory animals, the Chewa hunted down and butchered the Akafula.
 
 Eventually encompassing most of modern Malawi, as well as parts of modern-day Mozambique and Zambia, the Maravi Empire began on the southwestern shores of Lake Malawi. The head of the empire during its expansion was the Kalonga (also spelt Karonga). The Kalonga ruled from his headquarters in Mankhamba. Under the leadership of the Kalonga, sub-chiefs were appointed to occupy and subdue new areas. The empire began to decline during the early 18th century when fighting among the sub-chiefs and the burgeoning slave trade weakened the Maravi Empire's authority.
 
@@ -74,7 +74,7 @@ In 1889 the Catholic White Fathers also aimed to convert the Yao of Mponda in Ma
 
 British rule
 
-Flag_of_Nyasaland_(1919–1925).svg In 1883, a consul of the British Government was accredited to the "Kings and Chiefs of Central Africa" and in 1891, the British established the British Central Africa Protectorate.
+In 1883, a consul of the British Government was accredited to the "Kings and Chiefs of Central Africa" and in 1891, the British established the British Central Africa Protectorate.
 
 In 1907 the name was changed to _Nyasaland_ or the _Nyasaland Protectorate_ (Nyasa is the Chiyao word for "lake"). In the 1950s, Nyasaland was joined with Northern and Southern Rhodesia in 1953 to form the Federation of Rhodesia and Nyasaland. The Federation was dissolved on 31 December 1963.
 
@@ -93,7 +93,7 @@ Hastings Banda became Prime Minister on 1 February 1963, although the British st
 
 Independence
 
-Un-malawi.png Malawi became a fully independent member of the Commonwealth (formerly the British Commonwealth) on 6 July 1965.
+Malawi became a fully independent member of the Commonwealth (formerly the British Commonwealth) on 6 July 1965.
 
 Shortly after, in August and September 1964, Banda faced dissent from most of his cabinet ministers in the Cabinet Crisis of 1964. The Cabinet Crisis began with a confrontation between Banda, the Prime Minister, and all the cabinet ministers present on 26 August 1964. Their grievances were not dealt with, but three cabinet ministers were dismissed on 7 September. These dismissals were followed, on the same day and on 9 September, by the resignations of three more cabinet ministers in sympathy with those dismissed, although one of those who had resigned rescinded his resignation within a few hours. The reasons that the ex-ministers put forward for the confrontation and their subsequent resignations were the autocratic attitude of Banda, who failed to consult other ministers and kept power in his own hands, his insistence on maintaining diplomatic relations with South Africa and Portugal and a number of domestic austerity measures. After continuing unrest and some clashes between their supporters and those of Banda, most of the ex-ministers left Malawi in October. One ex-minister, Henry Chipembere led a small, unsuccessful armed uprising in February 1965. After its failure, he arranged for his transfer to the USA. Another ex-minister, Yatuta Chisiza, organised an even smaller incursion from Mozambique in 1967, in which he was killed. Several of the former ministers died in exile or, in the case of Orton Chirwa in a Malawian jail, but some survived to return to Malawi after Banda was deposed in 1993, and resumed public life.
 

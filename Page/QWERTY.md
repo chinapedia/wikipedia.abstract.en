@@ -1,9 +1,9 @@
-KB_United_States.svg QWERTY_keyboard.jpg QWERTY () is a keyboard design for Latin-script alphabets. The name comes from the order of the first six keys on the top left letter row of the keyboard ( ). The QWERTY design is based on a layout created for the Sholes and Glidden typewriter and sold to E. Remington and Sons in 1873. It became popular with the success of the Remington No. 2 of 1878, and remains in widespread use.
+QWERTY () is a keyboard design for Latin-script alphabets. The name comes from the order of the first six keys on the top left letter row of the keyboard ( ). The QWERTY design is based on a layout created for the Sholes and Glidden typewriter and sold to E. Remington and Sons in 1873. It became popular with the success of the Remington No. 2 of 1878, and remains in widespread use.
 
 
 History
 
-Continental_Standard_typewriter_keyboard_-_key_detail.jpg The QWERTY layout was devised and created in the early 1870s by Christopher Latham Sholes, a newspaper editor and printer who lived in Kenosha, Wisconsin. In October 1867, Sholes filed a patent application for his early writing machine he developed with the assistance of his friends Carlos Glidden and Samuel W. Soulé.[1]
+The QWERTY layout was devised and created in the early 1870s by Christopher Latham Sholes, a newspaper editor and printer who lived in Kenosha, Wisconsin. In October 1867, Sholes filed a patent application for his early writing machine he developed with the assistance of his friends Carlos Glidden and Samuel W. Soulé.[1]
 
 The first model constructed by Sholes used a piano-like keyboard with two rows of characters arranged alphabetically as shown below:[2]
 
@@ -41,8 +41,6 @@ Differences from modern layout
 
 Substituting characters
 
-QWERTY_1878.png
-
 The QWERTY layout depicted in Sholes's 1878 patent is slightly different from the modern layout, most notably in the absence of the numerals 0 and 1, with each of the remaining numerals shifted one position to the left of their modern counterparts. The letter M is located at the end of the third row to the right of the letter L rather than on the fourth row to the right of the N, the letters X and C are reversed, and most punctuation marks are in different positions or are missing entirely.[11] 0 and 1 were omitted to simplify the design and reduce the manufacturing and maintenance costs; they were chosen specifically because they were "redundant" and could be recreated using other keys. Typists who learned on these machines learned the habit of using the uppercase letter I (or lowercase letter L) for the digit one, and the uppercase O for the zero.[12]
 
 Combined characters
@@ -71,7 +69,7 @@ The words 'typewriter', 'proprietor', 'perpetuity', and 'repertoire' (from Frenc
 
 Computer keyboards
 
-Qwerty.svg]]
+]]
 
 The first computer terminals such as the Teletype were typewriters that could produce and be controlled by various computer codes. These used the QWERTY layouts and added keys such as escape (ESC) which had special meanings to computers. Later keyboards added function keys and arrow keys. Since the standardization of PC-compatible computers and Windows after the 1980s, most full-sized computer keyboards have followed this standard (see drawing at right). This layout has a separate numeric keypad for data entry at the right, 12 function keys across the top, and a cursor section to the right and center with keys for Insert, Delete, Home, End, Page Up, and Page Down with cursor arrows in an inverted-T shape.[24]
 
@@ -92,19 +90,19 @@ Minor changes to the arrangement are made for other languages. There are a large
 
 Canadian
 
-ACNOR_keyboard.jpg]]
+]]
 
 English-speaking Canadians have traditionally most often used the same keyboard layout as in the United States, unless they are in a position where they have to write French on a regular basis. French-speaking Canadians respectively have favoured the Canadian French keyboard layout (see below).
 
 Canadian Multilingual Standard
 
-KB_Canadian_Multilingual_Standard_comment-en.svg keyboard layout]]
+keyboard layout]]
 
 The Canadian Multilingual Standard keyboard layout is used by some Canadians. Though this keyboard lacks the caret (^) character, this is easily accomplished by typing the circumflex accent followed by a space. Note that while the diagram on the right depicts the Q key as if having upper-case and lower-case Greek Omega, that is not in conformance to the Canadian Multilingual Standard, which calls for a single extra character, an Omega-like Ohm symbol, not Omega. The lower-case Omega symbol does not belong in the diagram.
 
 Canadian French
 
-KB_Canadian_French_text.svg keyboard layout|444x444px]]
+keyboard layout|444x444px]]
 
 This keyboard layout is commonly used in Canada by French-speaking Canadians. It is the most common layout for laptops and stand-alone keyboards targeting French speakers. Unlike the French layout used in France and Belgium, the Canadian French layout is a true QWERTY and as such is also relatively commonly used by English speakers in the US and Canada (using standard QWERTY keyboards) for easy access to accented letters found in some of the French words commonly used in English. It can be used to type all accented French characters, as well as some from other languages. It also serves all English functions as well. It is popular mainly because of its close similarity to the basic US keyboard commonly used by English-speaking Canadians and Americans, historical use of US-made typewriters by French-Canadians, and is the standard for keyboards in Quebec. It can also easily map to a standard English QWERTY keyboard with the sole loss the guillemet/degree sign key. Use of the European French layout in Quebec is practically unheard of.
 
@@ -118,29 +116,29 @@ In some variants of this keyboard the key names are translated to French:
 
 Czech
 
-Qwerty_cz.svg The typewriter came to the Czech-speaking area in the late 19th century, when it was part of Austria-Hungary where German was the dominant language of administration. Therefore, Czech typewriters have the QWERTZ layout. However, with the introduction of imported computers, especially since the 1990s, the QWERTY keyboard layout is frequently used for computer keyboards. The Czech QWERTY layout differs from QWERTZ in that the characters (e.g. @$& and others) missing from the Czech keyboard are accessible with AltGr on the same keys where they are located on an American keyboard. In Czech QWERTZ keyboards the positions of these characters accessed through AltGr differs.
+The typewriter came to the Czech-speaking area in the late 19th century, when it was part of Austria-Hungary where German was the dominant language of administration. Therefore, Czech typewriters have the QWERTZ layout. However, with the introduction of imported computers, especially since the 1990s, the QWERTY keyboard layout is frequently used for computer keyboards. The Czech QWERTY layout differs from QWERTZ in that the characters (e.g. @$& and others) missing from the Czech keyboard are accessible with AltGr on the same keys where they are located on an American keyboard. In Czech QWERTZ keyboards the positions of these characters accessed through AltGr differs.
 
 Danish
 
-KB_Danish.svg keyboard layout]]
+keyboard layout]]
 
 Both the Danish and Norwegian keyboards include dedicated keys for the letters Å/å, Æ/æ and Ø/ø, but the placement is a little different, as the and keys are swapped on the Norwegian layout. (The Finnish–Swedish keyboard is also largely similar to the Norwegian layout, but the and are replaced with and . On some systems, the Danish keyboard may allow typing Ö/ö and Ä/ä by holding the or key while striking and , respectively.)
 
 Dutch (Netherlands)
 
-Nederlandse_toetsenbordindeling_-_tekst_als_paden.svg (Netherlands) keyboard layout]] Though it is seldom used (most Dutch keyboards use US International layout),[26] the Dutch layout uses QWERTY but has additions for the € sign, the diaresis (¨), and the braces ({ }) as well as different locations for other symbols. An older version contained a single-stroke key for the Dutch character IJ/ij, which is usually typed by the combination of and . In the 1990s, there was a version with the now-obsolete florin sign (Dutch: guldenteken) for IBM PCs. In Flanders (the Dutch-speaking part of Belgium), "AZERTY" keyboards are used instead, due to influence from the French-speaking part of Belgium.
+(Netherlands) keyboard layout]] Though it is seldom used (most Dutch keyboards use US International layout),[26] the Dutch layout uses QWERTY but has additions for the € sign, the diaresis (¨), and the braces ({ }) as well as different locations for other symbols. An older version contained a single-stroke key for the Dutch character IJ/ij, which is usually typed by the combination of and . In the 1990s, there was a version with the now-obsolete florin sign (Dutch: guldenteken) for IBM PCs. In Flanders (the Dutch-speaking part of Belgium), "AZERTY" keyboards are used instead, due to influence from the French-speaking part of Belgium.
 
 Estonian
 
-KB_Estonian.svg keyboard layout]] The keyboard layout used in Estonia is virtually the same as the Swedish layout. The main difference is that the and keys (to the right of ) are replaced with and respectively (the latter letter being the most distinguishing feature of the Estonian alphabet). Some special symbols and dead keys are also moved around.
+keyboard layout]] The keyboard layout used in Estonia is virtually the same as the Swedish layout. The main difference is that the and keys (to the right of ) are replaced with and respectively (the latter letter being the most distinguishing feature of the Estonian alphabet). Some special symbols and dead keys are also moved around.
 
 Faroese
 
-KB_Faroese.svg keyboard layout]] The same as the Danish layout with added (Eth), since the Faroe Islands are a self-governed part of the Kingdom of Denmark.
+keyboard layout]] The same as the Danish layout with added (Eth), since the Faroe Islands are a self-governed part of the Kingdom of Denmark.
 
 Finnish multilingual
 
-KB_Finnish_Multilingual.svg keyboard layout]] The visual layout used in Finland is basically the same as the Swedish layout. This is practical, as Finnish and Swedish share the special characters Ä/ä and Ö/ö, and while the Swedish Å/å is unnecessary for writing Finnish, it is needed by Swedish-speaking Finns and to write Swedish family names which are common.
+keyboard layout]] The visual layout used in Finland is basically the same as the Swedish layout. This is practical, as Finnish and Swedish share the special characters Ä/ä and Ö/ö, and while the Swedish Å/å is unnecessary for writing Finnish, it is needed by Swedish-speaking Finns and to write Swedish family names which are common.
 
 As of 2008, there is a new standard for the Finnish multilingual keyboard layout, developed as part of a localization project by CSC. All the engravings of the traditional Finnish–Swedish visual layout have been retained, so there is no need to change the hardware, but the functionality has been extended considerably, as additional characters (e.g., Æ/æ, Ə/ə, Ʒ/ʒ) are available through the key, as well as dead keys, which allow typing a wide variety of letters with diacritics (e.g., Ç/ç, Ǥ/ǥ, Ǯ/ǯ).[27][28]
 
@@ -152,7 +150,7 @@ As a third objective, it allows for relatively easy entering of particularly nam
 
 Greek
 
-Greek_keyboard_mono_3b.png keyboard layout]]
+keyboard layout]]
 
 -   The stress accents, indicated in red, are produced by pressing that key (or shifted key) followed by an appropriate vowel.
 -   Use of the "AltGr" key may produce the characters shown in blue.
@@ -163,7 +161,7 @@ Germany, Austria, Switzerland, Liechtenstein, and Luxembourg use QWERTZ layouts,
 
 Icelandic
 
-KB_Iceland.svg keyboard layout]]
+keyboard layout]]
 
 The Icelandic keyboard layout is different from the standard QWERTY keyboard because the Icelandic alphabet has some special letters, most of which it shares with the other Nordic countries: Þ/þ, Ð/ð, Æ/æ, and Ö/ö. (Æ/æ also occurs in Norwegian, Danish and Faroese, Ð/ð in Faroese, and Ö/ö in Swedish, Finnish and Estonian. In Norwegian Ö/ö could be substituted for Ø/Ø which is the same sound/letter and is widely understood).
 
@@ -171,13 +169,13 @@ The letters Á/á, Ý/ý, Ú/ú, Í/í, and É/é are produced by first pressing
 
 Irish
 
-KB_Windows_Ireland.svg layout]]
+layout]]
 
 Microsoft Windows includes an Irish layout which supports acute accents with for the Irish language and grave accents with the dead key for Scottish Gaelic. The other Insular Celtic languages have their own layout. The UK or UK-Extended layout is also frequently used.
 
 Italian
 
-Italian_Keyboard_layout.svg keyboard layout]]
+keyboard layout]]
 
 -   Braces (right above square brackets and shown in purple) are given with both AltGr and Shift pressed.
 -   The tilde (~) and backquote (`) characters are not present on the Italian keyboard layout (with Linux, they are available by pressing ++, and ++; Windows might not recognise these keybindings).
@@ -203,7 +201,7 @@ The Maltese language uses Unicode (UTF-8) to display the Maltese diacritics: ċ 
 
 Norwegian
 
-KB_Norway.svg keyboard layout]] KB_NorwaySami.svg]]
+keyboard layout]] ]]
 
 The Norwegian languages use the same letters as Danish, but the Norwegian keyboard differs from the Danish layout regarding the placement of the , and (backslash) keys. On the Danish keyboard, the and are swapped. The Swedish keyboard is also similar to the Norwegian layout, but and are replaced with and . On some systems, the Norwegian keyboard may allow typing Ö/ö and Ä/ä by holding the or key while striking and , respectively.
 
@@ -213,7 +211,7 @@ On Macintosh computers, the _Norwegian_ and _Norwegian extended_ keyboard layout
 
 Polish
 
-KB_Polish_QWERTZ_PN87_Mac.svg Polish_programmer's_layout.PNG Most typewriters use a QWERTZ keyboard with Polish letters (with diacritical marks) accessed directly (officially approved as "Typist's keyboard", , Polish Standard PN-87), which is mainly ignored in Poland as impractical (except custom-made, e.g., in public sector and some Apple computers); the "Polish programmer's" () layout has become the _de facto_ standard, used on virtually all computers sold on the Polish market.
+Most typewriters use a QWERTZ keyboard with Polish letters (with diacritical marks) accessed directly (officially approved as "Typist's keyboard", , Polish Standard PN-87), which is mainly ignored in Poland as impractical (except custom-made, e.g., in public sector and some Apple computers); the "Polish programmer's" () layout has become the _de facto_ standard, used on virtually all computers sold on the Polish market.
 
 Most computer keyboards in Poland are laid out according to the standard US visual and functional layout. Polish diacritics are accessed by using the _AltGr_ key with a corresponding similar letter from the base Latin alphabet. Normal capitalization rules apply with respect to _Shift_ and _Caps Lock_ keys. For example, to enter "Ź", one can type _Shift+AltGr+X_ with _Caps Lock_ off, or turn on _Caps Lock_ and type _AltGr+X_.
 
@@ -240,7 +238,7 @@ Portuguese
 
 Brazil
 
-KB_Portuguese_Brazil.svg (Brazil) keyboard layout]] The Brazilian computer keyboard layout is specified in the ABNT NBR 10346 variant 2 (alphanumeric portion) and 10347 (numeric portion) standards.
+(Brazil) keyboard layout]] The Brazilian computer keyboard layout is specified in the ABNT NBR 10346 variant 2 (alphanumeric portion) and 10347 (numeric portion) standards.
 
 Essentially, the Brazilian keyboard contains dead keys for five variants of diacritics in use in the language; the letter Ç, the only application of the cedilla in Portuguese, has its own key. In some keyboard layouts the + combination produces the ₢ character (Unicode 0x20A2), symbol for the old currency cruzeiro, a symbol that is not used in practice (the common abbreviation in the eighties and nineties used to be Cr$). The cent sign ¢, is accessible via +, but is not commonly used for the centavo, subunit of previous currencies as well as the current real, which itself is represented by R$. The Euro sign € is not standardized in this layout. The masculine and feminine ordinals ª and º are accessible via combinations. The section sign § (Unicode U+00A7), in Portuguese called _parágrafo_, is nowadays practically only used to denote sections of laws.
 
@@ -248,7 +246,7 @@ Variant 2 of the Brazilian keyboard, the only which gained general acceptance (M
 
 Portugal
 
-KB_Portuguese.svg (Portugal) keyboard layout]]
+(Portugal) keyboard layout]]
 
 Essentially, the Portuguese keyboard contains dead keys for five variants of diacritics; the letter Ç, the only application of the cedilla in Portuguese, has its own key, but there are also a dedicated key for the ordinal indicators and a dedicated key for quotation marks. The + combination for producing the euro sign € (Unicode 0x20AC) has become standard. On some QWERTY keyboards the key labels are translated, but the majority are labelled in English.
 
@@ -256,7 +254,7 @@ During the 20th century, a different keyboard layout, HCESAR, was in widespread 
 
 Romanian (in Romania and Moldova)
 
-Romanian-keyboard-layout.png keyboard layout]] The current Romanian National Standard SR 13392:2004 establishes two layouts for Romanian keyboards: a "primary"[38] one and a "secondary"[39] one.
+keyboard layout]] The current Romanian National Standard SR 13392:2004 establishes two layouts for Romanian keyboards: a "primary"[38] one and a "secondary"[39] one.
 
 The "primary" layout is intended for traditional users who have learned how to type with older, Microsoft-style implementations of the Romanian keyboard. The "secondary" layout is mainly used by programmers as it does not contradict the physical arrangement of keys on a US-style keyboard. The "secondary" arrangement is used as the default Romanian layout by Linux distributions, as defined in the "X Keyboard Configuration Database".[40]
 
@@ -275,7 +273,7 @@ MS Windows 7 now includes the correct diacritical signs in the default Romanian 
 
 Slovak
 
-KB_Slovak.svg QWERTY/Z keyboard layout]]
+QWERTY/Z keyboard layout]]
 
 In Slovakia, similarly to the Czech Republic, both QWERTZ and QWERTY keyboard layouts are used. QWERTZ is the default keyboard layout for Slovak in Microsoft Windows.
 
@@ -283,7 +281,7 @@ Spanish
 
 Spain
 
-KB_Spanish.svg keyboard layout]] The Spanish keyboard layout is used to write in Spanish and in other languages of Spain such as Catalan, Basque, Galician, Aragonese, Asturian and Occitan. It includes Ñ for Spanish, Asturian and Galician, the acute accent, the diaeresis, the inverted question and exclamation marks (¿, ¡), the superscripted o and a (º, ª) for writing abbreviated ordinal numbers in masculine and feminine in Spanish and Galician, and finally, some characters required only for typing Catalan and Occitan, namely Ç, the grave accent and the interpunct (__ / __, used in _l·l, n·h, s·h_; located at Shift-3). It can also be used to write other international characters, such as those using a circumflex accent (used in French and Portuguese among others) or a tilde (used in both Spanish and Portuguese), which are available as dead keys. However, it lacks two characters used in Asturian: Ḥ and Ḷ (historically, general support for these two has been poor – they aren't present in the ISO 8859-1 character encoding standard, or any other ISO/IEC 8859 standard); several alternative distributions, based on this one or created from scratch, have been created to address this issue (see the Other original layouts and layout design software section for more information)).
+keyboard layout]] The Spanish keyboard layout is used to write in Spanish and in other languages of Spain such as Catalan, Basque, Galician, Aragonese, Asturian and Occitan. It includes Ñ for Spanish, Asturian and Galician, the acute accent, the diaeresis, the inverted question and exclamation marks (¿, ¡), the superscripted o and a (º, ª) for writing abbreviated ordinal numbers in masculine and feminine in Spanish and Galician, and finally, some characters required only for typing Catalan and Occitan, namely Ç, the grave accent and the interpunct (__ / __, used in _l·l, n·h, s·h_; located at Shift-3). It can also be used to write other international characters, such as those using a circumflex accent (used in French and Portuguese among others) or a tilde (used in both Spanish and Portuguese), which are available as dead keys. However, it lacks two characters used in Asturian: Ḥ and Ḷ (historically, general support for these two has been poor – they aren't present in the ISO 8859-1 character encoding standard, or any other ISO/IEC 8859 standard); several alternative distributions, based on this one or created from scratch, have been created to address this issue (see the Other original layouts and layout design software section for more information)).
 
 On most keyboards, € is marked as Alt Gr + E and not Alt Gr + 5 as shown in the image. However, in some keyboards, € is found marked twice. An alternative version exists, supporting all of ISO 8859-1.[44]
 
@@ -308,7 +306,7 @@ On some keyboards, the c-cedilla key (Ç) is located one or two lines above, rat
 
 Latin America, officially known as Spanish Latinamerican sort
 
-KB_Latin_American.svg keyboard layout]]
+keyboard layout]]
 
 The Latin American Spanish keyboard layout is used throughout Mexico, Central and South America. Before its design, Latin American vendors had been selling the Spanish (Spain) layout as default.
 
@@ -318,7 +316,7 @@ Normally "Bloq Mayús" is used instead of "Caps Lock", and "Intro" instead of "E
 
 Swedish
 
-KB_Sweden.svg Windows keyboard layout]]
+Windows keyboard layout]]
 
 The central characteristics of the Swedish keyboard are the three additional letters Å/å, Ä/ä, and Ö/ö. The same visual layout is also in use in Finland, as the letters Ä/ä and Ö/ö are shared with the Swedish language, and even Å/å is needed by Swedish-speaking Finns. However, the Finnish multilingual keyboard adds new letters and punctuation to the functional layout.
 
@@ -339,13 +337,13 @@ Several of these characters function as dead keys.
 
 Turkish
 
-KB_Turkey.svg Q-keyboard layout]]
+Q-keyboard layout]]
 
 Today the majority of Turkish keyboards are based on QWERTY (the so-called Q-keyboard layout), although there is also the older F-keyboard layout specifically designed for the language.
 
 United Kingdom
 
-KB_United_Kingdom.svg and Ireland (except Mac) keyboard layout]] UKUbuntu.png The United Kingdom and Ireland[49] use a keyboard layout based on the 48-key version defined in the (now withdrawn) British Standard BS 4822.[50] It is very similar to that of the United States, but has an extra key and a larger Enter key, includes £ and € signs and some rarely used EBCDIC symbols (¬, ¦), and uses different positions for the characters @, ", #, ~, \, and |. See the article British and American keyboards for details.
+and Ireland (except Mac) keyboard layout]] The United Kingdom and Ireland[49] use a keyboard layout based on the 48-key version defined in the (now withdrawn) British Standard BS 4822.[50] It is very similar to that of the United States, but has an extra key and a larger Enter key, includes £ and € signs and some rarely used EBCDIC symbols (¬, ¦), and uses different positions for the characters @, ", #, ~, \, and |. See the article British and American keyboards for details.
 
 The BS 4822:1994 standard did not make any use of the AltGr key and lacked support for any non-ASCII characters other than ¬ and £. It also assigned a key for the non-ASCII character broken bar (¦), but lacks one for the far more commonly used ASCII character vertical bar (|). It also lacked support for various diacritics used in the Welsh alphabet, and the Scottish Gaelic alphabet; and also is missing the letter yogh, ȝ, used very rarely in the Scots language. Therefore, various manufacturers have modified or extended the BS 4822 standard:
 
@@ -356,13 +354,13 @@ In many Commonwealth countries and other English-speaking jurisdictions (e.g., C
 
 UK Apple keyboard
 
-KB_United_Kingdom_Mac_-_Apple_Keyboard_(MC184B).svg The British version of the Apple Keyboard does not use the standard UK layout. Instead, some older versions have the US layout (see below) with a few differences: the sign is reached by and the sign by , the opposite to the US layout. The is also present and is typed with . Umlauts are reached by typing and then the vowel, and ß is reached by typing .
+The British version of the Apple Keyboard does not use the standard UK layout. Instead, some older versions have the US layout (see below) with a few differences: the sign is reached by and the sign by , the opposite to the US layout. The is also present and is typed with . Umlauts are reached by typing and then the vowel, and ß is reached by typing .
 
 Newer Apple "British" keyboards use a layout that is relatively unlike either the US or traditional UK keyboard. It uses an elongated return key, a shortened left with and in the newly created position, and in the upper left of the keyboard are and instead of the traditional EBCDIC codes. The middle-row key that fits inside the key has and .
 
 United Kingdom (Extended) Layout
 
-KB_United_Kingdom_Ext.png Extended Keyboard Layout for Windows]] UKExtUbuntu.png UKIntlUbuntu.png
+Extended Keyboard Layout for Windows]]
 
 From Windows XP SP2 onwards, Microsoft has included a variant of the British QWERTY keyboard (the "United Kingdom Extended" keyboard layout) that can additionally generate several diacritical marks. This supports input on a standard physical UK keyboard for many languages without changing positions of frequently used keys, which is useful when working with text in Welsh and Scottish Gaelic — languages native to parts of the UK (Wales and parts of Scotland respectively).
 
@@ -389,7 +387,7 @@ Despite being created for multilingual users, UK-Extended does have some gaps �
 
 United States
 
-KB_United_States-NoAltGr.svg keyboard layout]] The arrangement of the character input keys and the Shift keys contained in this layout is specified in the U.S. American national standard ANSI-INCITS 154-1988 (R1999) (formerly ANSI X3.154-1988 (R1999)),[51] where this layout is called "ASCII keyboard". The complete US keyboard layout, as it is usually found, also contains the usual function keys in accordance with the international standard ISO/IEC 9995-2, although this is not explicitly required by the US American national standard.
+keyboard layout]] The arrangement of the character input keys and the Shift keys contained in this layout is specified in the U.S. American national standard ANSI-INCITS 154-1988 (R1999) (formerly ANSI X3.154-1988 (R1999)),[51] where this layout is called "ASCII keyboard". The complete US keyboard layout, as it is usually found, also contains the usual function keys in accordance with the international standard ISO/IEC 9995-2, although this is not explicitly required by the US American national standard.
 
 US keyboards are used not only in the United States, but also in many other English-speaking places, including India, Australia, English Canada, Hong Kong, New Zealand, South Africa, Malaysia, Singapore and Philippines, including Indonesia that uses the same 26 alphabets as English. However, the United Kingdom and Ireland use a slightly different layout because of the Irish language.
 
@@ -398,8 +396,6 @@ The US keyboard layout has a second Alt key instead of the AltGr key and does no
 On some keyboards the enter key is bigger than traditionally and takes up also a part of the line above, more or less the area of the traditional location of the backslash key (\). In these cases the backslash is located in alternative places.[53] It can be situated one line above the default location, on the right of the equals sign key (=).[54][55] Sometimes it's placed one line below its traditional situation, on the right of the apostrophe key (') (in these cases the enter key is narrower than usual on the line of its default location).[56] It may also be two lines below its default situation on the right of a narrower than traditionally right shift key.[57] A variant of this layout is used in Arabic-speaking countries. This variant has the | \ key to the left of Z, ~ ` key where the | \ key is in the usual layout, and the > < key where the ~ ` key is in the usual layout.[58]
 
 US-International
-
-KB_US-International.svg
 
 An alternative layout uses the physical US keyboard to type diacritics in some operating systems (including Windows). This is the US-International layout, which uses the right key as an key to support many additional characters directly as an additional shift key. (Since many smaller keyboards don't have a right key, Windows also allows + to be used as a substitute for .) This layout also uses keys , , , and as dead keys to generate characters with diacritics by pressing the appropriate key, then the letter on the keyboard. The international keyboard is a software setting installed from the Windows control panel[59] or similar; the additional functions (shown in blue) may or may not be engraved on the keyboard, but are always functional. It can be used to type most major languages from Western Europe: Afrikaans, Danish, Dutch, English, Faroese, Finnish, French, German, Icelandic, Irish, Italian, Norwegian, Portuguese, Scottish Gaelic, Spanish, and Swedish. Some less common western European languages, such as Welsh and Maltese (the Welsh language using circumflexes and Maltese using the stroked H, among other accents), are not fully supported by the US-International keyboard layout.
 
@@ -429,8 +425,6 @@ The standard keyboard layout in the Netherlands is US-International, as it provi
 
 Apple International English Keyboard
 
-KB_Intl_English_Mac_-_Apple_Keyboard_(MC184Z).svg
-
 There are three kinds of Apple Keyboards for English: the United States, the United Kingdom and International English. The International English version is almost identical to the United States version, but some features are identical to the United Kingdom version:
 
 1.  The key is located on the left of the key, and the }} key is located on the right of the key.
@@ -439,7 +433,7 @@ There are three kinds of Apple Keyboards for English: the United States, the Uni
 
 Vietnamese
 
-Vietnamese_keyboard.svg The Vietnamese keyboard layout is an extended Latin QWERTY layout. The letters Ă, Â, Ê, and Ô are found on what would be the number keys – on the US English keyboard, with – producing the tonal marks (grave accent, hook, tilde, acute accent and dot below, in that order), producing Đ, }} producing the đồng sign (₫) when not shifted, and brackets () producing Ư and Ơ.[60]
+The Vietnamese keyboard layout is an extended Latin QWERTY layout. The letters Ă, Â, Ê, and Ô are found on what would be the number keys – on the US English keyboard, with – producing the tonal marks (grave accent, hook, tilde, acute accent and dot below, in that order), producing Đ, }} producing the đồng sign (₫) when not shifted, and brackets () producing Ư and Ơ.[60]
 
 
 Alternatives
@@ -458,7 +452,7 @@ The first typed shorthand machines appeared around 1830, with english versions g
 
 Half QWERTY
 
-Nokia_E55_01.jpg A half QWERTY keyboard is a combination of an alpha-numeric keypad and a QWERTY keypad, designed for mobile phones.[65] In a half QWERTY keyboard, two characters share the same key, which reduces the number of keys and increases the surface area of each key, useful for mobile phones that have little space for keys.[66] It means that 'Q' and 'W' share the same key and the user must press the key once to type 'Q' and twice to type 'W'.
+A half QWERTY keyboard is a combination of an alpha-numeric keypad and a QWERTY keypad, designed for mobile phones.[65] In a half QWERTY keyboard, two characters share the same key, which reduces the number of keys and increases the surface area of each key, useful for mobile phones that have little space for keys.[66] It means that 'Q' and 'W' share the same key and the user must press the key once to type 'Q' and twice to type 'W'.
 
 
 See also

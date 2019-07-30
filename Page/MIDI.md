@@ -1,4 +1,4 @@
-MIDI_LOGO.jpg]] Ented,_Nokturn_a-moll_-_Jesienny.ogg Synth_rack_@_Choking_Sun_Studio.jpgs.]]
+]] s.]]
 
 MIDI (; short for MUSICAL INSTRUMENT DIGITAL INTERFACE) is a technical standard that describes a communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related audio devices for playing, editing and recording music.[1] A single MIDI link through a MIDI cable can carry up to sixteen channels of information, each of which can be routed to a separate device or instrument. This could be sixteen different digital instruments, for example.
 
@@ -15,7 +15,7 @@ History
 
 Development
 
-Dave_Smith_at_Sequential_booth_-_2_-_2015_NAMM_Show.jpg In the early 1980s, there was no standardized means of synchronizing electronic musical instruments manufactured by different companies.[5] Manufacturers had their own proprietary standards to synchronize instruments, such as CV/gate and Digital Control Bus (DCB).[6]
+In the early 1980s, there was no standardized means of synchronizing electronic musical instruments manufactured by different companies.[5] Manufacturers had their own proprietary standards to synchronize instruments, such as CV/gate and Digital Control Bus (DCB).[6]
 
 Roland founder Ikutaro Kakehashi felt the lack of standardization was limiting the growth of the electronic music industry.[7] In June 1981, he proposed developing a standard to Oberheim Electronics founder Tom Oberheim,[8] who had developed his own proprietary interface, the Oberheim System.[9] Kakehashi felt the system was too cumbersome, and spoke to Sequential Circuits president Dave Smith about creating a simpler, cheaper alternative.[10] While Smith discussed the concept with American companies, Kakehashi discussed it with Japanese companies Yamaha, Korg and Kawai.[11] Representatives from all companies met to discuss the idea in October.[12]
 
@@ -125,13 +125,9 @@ Devices
 
 Connectors
 
-Midi_ports_and_cable.jpg
-
 The cables terminate in a 180° five-pin DIN connector. Standard applications use only three of the five conductors: a ground wire, and a balanced pair of conductors that carry a +5 volt signal.[115] This connector configuration can only carry messages in one direction, so a second cable is necessary for two-way communication.[116] Some proprietary applications, such as phantom-powered footswitch controllers, use the spare pins for direct current (DC) power transmission.[117]
 
 Opto-isolators keep MIDI devices electrically separated from their connectors, which prevents the occurrence of ground loops[118] and protects equipment from voltage spikes.[119] There is no error detection capability in MIDI, so the maximum cable length is set at 15 meters (50 feet) to limit interference.[120]
-
-MIDI_connector2.svg
 
 Most devices do not copy messages from their input to their output port. A third type of port, the "thru" port, emits a copy of everything received at the input port, allowing data to be forwarded to another instrument[121] in a "daisy chain" arrangement.[122] Not all devices contain thru ports, and devices that lack the ability to generate MIDI data, such as effects units and sound modules, may not include out ports.[123]
 
@@ -149,7 +145,7 @@ MIDI's serial transmission leads to timing problems. A three-byte MIDI message r
 
 Controllers
 
-Remote_25.jpg There are two types of MIDI controllers: performance controllers that generate notes and are used to perform music,[131] and controllers that may not send notes, but transmit other types of real-time events. Many devices are some combination of the two types.
+There are two types of MIDI controllers: performance controllers that generate notes and are used to perform music,[131] and controllers that may not send notes, but transmit other types of real-time events. Many devices are some combination of the two types.
 
 Keyboards are by far the most common type of MIDI controller.[132] MIDI was designed with keyboards in mind, and any controller that is not a keyboard is considered an "alternative" controller.[133] This was seen as a limitation by composers who were not interested in keyboard-based music, but the standard proved flexible, and MIDI compatibility was introduced to other types of controllers, including guitars, stringed and wind instruments, drums and specialized and experimental controllers.[134] Other controllers include drum controllers and wind controllers, which can emulate the playing of drum kit and wind instruments, respectively.
 
@@ -157,7 +153,7 @@ Software synthesizers offer great power and versatility, but some players feel t
 
 Instruments
 
-Korg_05RW_front.jpg A MIDI instrument contains ports to send and receive MIDI signals, a CPU to process those signals, an interface that allows user programming, audio circuitry to generate sound, and controllers. The operating system and factory sounds are often stored in a Read-only memory (ROM) unit.[137]
+A MIDI instrument contains ports to send and receive MIDI signals, a CPU to process those signals, an interface that allows user programming, audio circuitry to generate sound, and controllers. The operating system and factory sounds are often stored in a Read-only memory (ROM) unit.[137]
 
 A MIDI instrument can also be a stand-alone module (without a piano style keyboard) consisting of a General MIDI soundboard (GM, GS and XG), onboard editing, including transposing/pitch changes, MIDI instrument changes and adjusting volume, pan, reverb levels and other MIDI controllers. Typically, the MIDI Module includes a large screen, so the user can view information for the currently selected function. Features can include scrolling lyrics, usually embedded in a MIDI file or karaoke MIDI, playlists, song library and editing screens. Some MIDI Modules include a Harmonizer and the ability to playback and transpose MP3 audio files.
 
@@ -177,7 +173,7 @@ Drum machines typically are sample playback devices that specialize in drum and 
 
 Workstations and hardware sequencers
 
-Tenori-on.jpg controller allows arrangements to be built by "drawing" on its array of lighted buttons. The resulting arrangements can be played back using its internal sounds or external sound sources, or recorded in a computer-based sequencer.]]
+controller allows arrangements to be built by "drawing" on its array of lighted buttons. The resulting arrangements can be played back using its internal sounds or external sound sources, or recorded in a computer-based sequencer.]]
 
 Sequencer technology predates MIDI. Analog sequencers use CV/Gate signals to control pre-MIDI analog synthesizers. MIDI sequencers typically are operated by transport features modeled after those of tape decks. They are capable of recording MIDI performances, and arranging them into individual tracks along a multitrack recording concept. Music workstations combine controller keyboards with an internal sound generator and a sequencer. These can be used to build complete arrangements and play them back using their own internal sounds, and function as self-contained music production studios. They commonly include file storage and transfer capabilities.[144]
 
@@ -212,8 +208,6 @@ Devices typically do not respond to every type of message defined by the MIDI sp
 
 Electrical specifications
 
-MIDI_IN_OUT_schematic.svg
-
 The MIDI specification for the electrical interface is based on a fully isolated current loop. The MIDI out port nominally sources a +5 volt source through a 220 ohm resistor out through pin 4 on the MIDI out DIN connector, in on pin 4 of the receiving device's MIDI in DIN connector, through a 220 ohm protection resistor and the LED of an opto-isolator. The current then returns via pin 5 on the MIDI in port to the originating device's MIDI out port pin 5, again with a 220 ohm resistor in the path, giving a nominal current of about 5 milliamperes. Despite the cable's appearance, there is no conductive path between the two MIDI devices, only an optically isolated one. Properly designed MIDI devices are relatively immune to ground loops and similar interference. The data rate on this system is 31,250 bits per second, logic 0 being current on.[157]
 
 The MIDI specification provides for a ground "wire" and a braid or foil shield, connected on pin 2, protecting the two signal-carrying conductors on pins 4 and 5. Although the MIDI cable is supposed to connect pin 2 and the braid or foil shield to chassis ground, it should do so only at the MIDI out port; the MIDI in port should leave pin 2 unconnected and isolated.[158] Some large manufacturers of MIDI devices use modified MIDI in-only DIN 5-pin sockets with the metallic conductors intentionally omitted at pin positions 1, 2, and 3 so that the maximum voltage isolation is obtained.
@@ -221,7 +215,7 @@ The MIDI specification provides for a ground "wire" and a braid or foil shield, 
 
 Extensions
 
-GM_Standard_Drum_Map_on_the_keyboard.svg MIDI's flexibility and widespread adoption have led to many refinements of the standard, and have enabled its application to purposes beyond those for which it was originally intended.
+MIDI's flexibility and widespread adoption have led to many refinements of the standard, and have enabled its application to purposes beyond those for which it was originally intended.
 
 General MIDI
 
@@ -251,7 +245,7 @@ MIDI Machine Control (MMC) consists of a set of SysEx commands[176] that operate
 
 Show control
 
-Waterworld_Plane.jpg attraction at Universal Studios Hollywood.[178]]] MIDI Show Control (MSC) is a set of SysEx commands for sequencing and remotely cueing show control devices such as lighting, music and sound playback, and motion control systems.[179] Applications include stage productions, museum exhibits, recording studio control systems, and amusement park attractions.[180]
+attraction at Universal Studios Hollywood.[178]]] MIDI Show Control (MSC) is a set of SysEx commands for sequencing and remotely cueing show control devices such as lighting, music and sound playback, and motion control systems.[179] Applications include stage productions, museum exhibits, recording studio control systems, and amusement park attractions.[180]
 
 Timestamping
 

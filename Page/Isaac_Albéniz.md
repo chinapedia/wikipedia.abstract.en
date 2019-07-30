@@ -5,8 +5,6 @@ Transcriptions of many of his pieces, such as _Asturias (Leyenda)_, _Granada_, _
 
 Life
 
-Albéniz_with_his_daughter_Laura.jpg
-
 Born in Camprodon, province of Girona, to Ángel Albéniz (a customs official) and his wife, Dolors Pascual, Albéniz was a child prodigy who first performed at the age of four. At age seven, after apparently taking lessons from Antoine François Marmontel, he passed the entrance examination for piano at the Conservatoire de Paris, but he was refused admission because he was believed to be too young. By the time he had reached 12, he had made many attempts to run away from home.
 
 His concert career began at the age of nine when his father toured both Isaac and his sister, Clementina, throughout northern Spain. A popular myth is that at the age of twelve Albéniz stowed away in a ship bound for Buenos Aires. He then found himself in Cuba, then to the United States, giving concerts in New York and San Francisco and then travelled to Liverpool, London and Leipzig.[1] By age 15, he had already given concerts worldwide.This story is not entirely false, Albéniz did travel the world as a performer; however, he was accompanied by his _father_, who as a customs agent was required to travel frequently. This can be attested by comparing Isaac's concert dates with his father's travel itinerary.
@@ -15,7 +13,7 @@ In 1876, after a short stay at the Leipzig Conservatory, he went to study at the
 
 In 1880 Albéniz went to Budapest, Hungary, to study with Franz Liszt, only to find out that Liszt was in Weimar, Germany.
 
-In 1883 he met the teacher and composer Felip Pedrell, who inspired him to write Spanish music such as the _Chants d'Espagne_. The first movement (Prelude) of that suite, later retitled after the composer's death as _Asturias (Leyenda)_, is probably most famous today as part of the classical guitar repertoire, even though it was originally composed for piano. (Many of Albéniz's other compositions were also transcribed for guitar, notably by Francisco Tárrega.) At the 1888 Barcelona Universal Exposition, the piano manufacturer Érard sponsored a series of 20 concerts featuring Albéniz's music. Isaac_Albéniz.jpg'' Isaac Albéniz by Ismael Smith, around 1921]]
+In 1883 he met the teacher and composer Felip Pedrell, who inspired him to write Spanish music such as the _Chants d'Espagne_. The first movement (Prelude) of that suite, later retitled after the composer's death as _Asturias (Leyenda)_, is probably most famous today as part of the classical guitar repertoire, even though it was originally composed for piano. (Many of Albéniz's other compositions were also transcribed for guitar, notably by Francisco Tárrega.) At the 1888 Barcelona Universal Exposition, the piano manufacturer Érard sponsored a series of 20 concerts featuring Albéniz's music. '' Isaac Albéniz by Ismael Smith, around 1921]]
 
 The apex of Albéniz's concert career is considered to be 1889 to 1892 when he had concert tours throughout Europe. During the 1890s Albéniz lived in London and Paris. For London he wrote some musical comedies which brought him to the attention of the wealthy Francis Money-Coutts, 5th Baron Latymer. Money-Coutts commissioned and provided him with librettos for the opera _Henry Clifford_ and for a projected trilogy of Arthurian operas. The first of these, _Merlin_ (1898–1902), was thought to have been lost but has recently been reconstructed and performed.[2] Albéniz never completed _Lancelot_ (only the first act is finished, as a vocal and piano score), and he never began _Guinevere_, the final part.[3]
 
@@ -38,7 +36,7 @@ Perhaps the best source on the works is Albéniz himself. He is quoted as commen
 
 Middle period
 
-Ramon_Casas_-_MNAC-_Isaac_Albéniz-_027630-D_006622.jpg (MNAC)]]
+(MNAC)]]
 
 During the late 1880s, the strong influence of Spanish style is evident in Albéniz's music. In 1883 Albéniz met the teacher and composer Felipe Pedrell. Pedrell was a leading figure in the development of nationalist Spanish music. In his book _The Music of Spain_, Gilbert Chase describes Pedrell's influence on Albéniz: "What Albéniz derived from Pedrell was above all a spiritual orientation, the realization of the wonderful values inherent in Spanish music." Felipe Pedrell inspired Albéniz to write Spanish music such as the _Suite española_, Op. 47, noted for its delicate, intricate melody and abrupt dynamic changes.
 

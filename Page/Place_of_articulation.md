@@ -1,4 +1,4 @@
-Places_of_articulation.svg Real-time_MRI_-_Speaking_(English).ogv.]]
+.]]
 
 In articulatory phonetics, the PLACE OF ARTICULATION (also POINT OF ARTICULATION) of a consonant is the point of contact where an obstruction occurs in the vocal tract between an ARTICULATORY GESTURE, an active articulator (typically some part of the tongue), and a passive location (typically some part of the roof of the mouth). Along with the manner of articulation and the phonation, it gives the consonant its distinctive sound.
 

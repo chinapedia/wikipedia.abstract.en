@@ -9,19 +9,17 @@ History
 
 The first recorded person of European descent to travel through the area that is now Lansing was British fur trader Hugh Heward and his French-Canadian team on April 24, 1790 while canoeing the Grand River.[5][6] The land that was to become Lansing was surveyed as "Township 4 North Range 2 West" in February 1827 in what was then dense forest. It was the last of the county's townships to be surveyed, and the land was not offered for sale until October 1830.[7] There would be no roads to this area for decades to come.
 
-Grand_River_overlooking_Lansing_River_Trail_Bridge.jpg
-
 In the winter of 1835 and early 1836, two brothers from New York plotted the area now known as REO Town just south of downtown Lansing and named it "Biddle City". This land lay in a floodplain and was underwater during the majority of the year. Nevertheless, the brothers went back to Lansing, New York, to sell plots for the town that did not exist. They told the New Yorkers this new "city" had an area of 65 blocks, a church and a public and academic square. 16 men bought plots in the nonexistent city, and upon reaching the area later that year found they had been scammed. Many in the group too disappointed to stay ended up settling around what is now metropolitan Lansing. Those who stayed quickly renamed the area "Lansing Township" in honor of their home village in New York.[8]
 
 The settlement of fewer than 20 people would remain dormant until the winter of 1847 when the state constitution required the capital be moved from Detroit to a more central and safer location in the state's interior; many were concerned about Detroit's proximity to British-controlled Canada, which had captured Detroit in the War of 1812. The United States had recaptured the city in 1813, but these events led to the dire need to have the center of government relocate from hostile British territory. There was also concern with Detroit's strong influence over Michigan politics, being the state's largest city as well as the capital city.[9]
 
 During the multi-day session to determine a new location for the state capital, many cities, including Ann Arbor, Marshall, and Jackson, lobbied hard to win this designation.[10] Unable to publicly reach a consensus because of constant political wrangling, the Michigan House of Representatives privately chose the Township of Lansing out of frustration. When announced, many present openly laughed that such an insignificant settlement was now Michigan's capital. Two months later, Governor William L. Greenly signed into law the act of the legislature making Lansing Township the state capital.[11]
 
-Map_of_the_town_of_Michigan_1847.jpg map of "the town of Michigan," prior to the selection of "Lansing" as the capital's name the following year. (The map is oriented with north to the right.)]] With the announcement that Lansing Township had been made the capital, the small village quickly transformed into the seat of state government. The legislature gave the settlement the temporary name of the "Town of Michigan". In April 1848, the legislature then gave the settlement the name of "Lansing".[12] Within months after it became the capital city, individual settlements began to develop along three key points along the Grand River in the township:[13]
+map of "the town of Michigan," prior to the selection of "Lansing" as the capital's name the following year. (The map is oriented with north to the right.)]] With the announcement that Lansing Township had been made the capital, the small village quickly transformed into the seat of state government. The legislature gave the settlement the temporary name of the "Town of Michigan". In April 1848, the legislature then gave the settlement the name of "Lansing".[12] Within months after it became the capital city, individual settlements began to develop along three key points along the Grand River in the township:[13]
 
 -   "Lower Village/Town", where present-day Old Town stands, was the oldest of the three villages. It was home to the first house built in Lansing in 1843 by pioneer James Seymour and his family. Lower Town began to develop in 1847 with the completion of the Franklin Avenue (now Grand River Avenue) covered bridge over the Grand River.[14]
 -   "Upper Village/Town", where present-day REO Town stands at the confluence of the Grand River and the Red Cedar River. It began to take off in 1847 when the Main Street Bridge was constructed over the Grand River. This village's focal point was the Benton House, a 4-story hotel which opened in 1848. It was the first brick building in Lansing and was later razed in 1900.[15]
--   LesCapitolSomethingMI.jpg]]"Middle Village/Town", where downtown Lansing now stands, was the last of the three villages to develop in 1848 with the completion of the Michigan Avenue bridge across the Grand River and the completion of the temporary capitol building which sat where Cooley Law School stands today on Capitol Avenue between Allegan and Washtenaw Streets, and finally the relocation of the post office to the village in 1851. This area would grow to become larger than the other two villages up and down river. For a brief time the combined villages were referred to as "Michigan" but was officially named Lansing in 1848.[16]
+-   ]]"Middle Village/Town", where downtown Lansing now stands, was the last of the three villages to develop in 1848 with the completion of the Michigan Avenue bridge across the Grand River and the completion of the temporary capitol building which sat where Cooley Law School stands today on Capitol Avenue between Allegan and Washtenaw Streets, and finally the relocation of the post office to the village in 1851. This area would grow to become larger than the other two villages up and down river. For a brief time the combined villages were referred to as "Michigan" but was officially named Lansing in 1848.[16]
 
 In 1859, the settlement having grown to nearly 3,000 and encompassing about in area was incorporated as a city. The boundaries of the original city were Douglas Avenue to the north, Wood and Regent streets to the east, Mount Hope Avenue to the south, and Jenison Avenue to the west. These boundaries would remain until 1916. Lansing began to grow steadily over the next two decades with the completion of the railroads through the city, a plank road, and the completion of the current capitol building in 1878.
 
@@ -43,9 +41,7 @@ Author Nelson Algren cites the injustice and sad end of the pursuit of "Raji, th
 
 Timeline
 
-1890_Postcard_of_Lansing,_Michigan.jpg
-
-712_michigan_hofj.jpg at the Hall of Justice, opened in 2002]]
+at the Hall of Justice, opened in 2002]]
 
 -   1825 – Lansing Township is surveyed.
 -   1836 – A pair of New York speculators plot and market a non-existent city known as "Biddle City". The New Yorkers that bought into the idea arrive in Lansing to discover that the plots they had bought are located in a marsh, and are underwater. Some of the pioneers stay, but develop a village in what is now Old Town Lansing a mile north of the non-existent "Biddle City".
@@ -109,15 +105,13 @@ Geography
 
 Lansing is the centerpiece of a region of Michigan known as Mid-Michigan or Central Michigan.
 
-North_Lansing_dam.jpg and Ottawa Street Power Station are visible behind.]] According to the United States Census Bureau, the city has a total area of , of which is land and is water.[42] This figure includes two 425 Agreements with Alaiedon Township and Meridian Township, and the four 425 Agreements with Delta Township since 2000.
+and Ottawa Street Power Station are visible behind.]] According to the United States Census Bureau, the city has a total area of , of which is land and is water.[42] This figure includes two 425 Agreements with Alaiedon Township and Meridian Township, and the four 425 Agreements with Delta Township since 2000.
 
 Since the 2010 Census, the city has entered into two additional 425 Agreements. The first agreement consisted of the temporary transfer of 1,888.2 acres of Lansing Capital Region International Airport to the city from DeWitt Township in 2011.[43] The second agreement consisted of the temporary transfer of in Alaiedon Township for the expansion of the headquarters of Jackson National Life Insurance Company in 2013 bringing the area either fully or conditionally under control of the city to .[44]
 
 Under Michigan law, 425 Agreements are only temporary land sharing agreements, and do not count as official annexations. The Census Bureau, however, for statistical purposes does count these as annexations. Not counting the temporary 425 Agreements, Lansing administers total.
 
 Lansing is located in the south-central part of the Lower Peninsula of Michigan, where the Grand River meets the Red Cedar River. The city occupies most of what had formerly been part of Lansing Charter Township. It has also annexed adjacent tracts of land in Delta Charter Township and Windsor Township in Eaton County to the west, Delhi Charter Township in Ingham County to the south, and in DeWitt Charter Township in Clinton County to the north. The city also controls three non-contiguous tracts of land through 425 Agreements (conditional land transfer agreements) with Meridian Charter Township, Delta Charter Township, and Alaiedon Township in Ingham County to the southeast.
-
-7135_oss.jpg
 
 Lansing elevations range between above sea level on the far south side of Lansing along Northrup Street near the Cedar Street intersection, to to above sea level along the Grand River.
 
@@ -132,7 +126,7 @@ Lansing has a Midwestern humid continental climate (Köppen _Dfb/Dfa_) that is i
 
 Neighborhoods
 
-BojiTower.jpg, Lansing's tallest building, located downtown]] The city's downtown is dominated by state government buildings, especially the State Capitol; but downtown has also experienced recent growth in new restaurants, retail stores and residential developments. Downtown Lansing has a historic city market that is one of the oldest continuously operating farmers' markets in the United States.[53] Upriver and north of downtown is historic Old Town Lansing with many architecturally significant buildings dating to the mid-19th century.[54] Directly south of downtown on the other side of I-496 along Washington Avenue lies "REO Town", the birthplace of the automobile in the United States, is where Ransom Eli Olds built factories along Washington Avenue. Ransom Eli Olds' home, which once overlooked the factories along Washington Avenue, was displaced by I-496.
+, Lansing's tallest building, located downtown]] The city's downtown is dominated by state government buildings, especially the State Capitol; but downtown has also experienced recent growth in new restaurants, retail stores and residential developments. Downtown Lansing has a historic city market that is one of the oldest continuously operating farmers' markets in the United States.[53] Upriver and north of downtown is historic Old Town Lansing with many architecturally significant buildings dating to the mid-19th century.[54] Directly south of downtown on the other side of I-496 along Washington Avenue lies "REO Town", the birthplace of the automobile in the United States, is where Ransom Eli Olds built factories along Washington Avenue. Ransom Eli Olds' home, which once overlooked the factories along Washington Avenue, was displaced by I-496.
 
 Lansing is generally divided into four sections: Eastside, Westside, Northwestside, and the Southside. Each section contains a diverse array of neighborhoods. The Eastside, located east of the Grand River and north of the Red Cedar River, is the most ethnically diverse side of Lansing, with foreign-born citizens making up more of its population than any other side in the city.[55] The Eastside's commercial districts are located mainly along Michigan Avenue, and to a lesser extent along Kalamazoo Street. It is anchored by Frandor Shopping Center on the very eastern edge of the eastside.
 
@@ -144,7 +138,7 @@ The Southside, usually described as the neighborhoods located south of the Grand
 
 The middle of the Southside—South-Central Lansing—contains the Old Everett Area. This location once contained the Everett School District and was annexed into the city in 1948.[56]
 
-Lansing,_Michigan_Colonial_Village_sign_1.jpg]] Lansing,_Michigan_Genesee_Neighborhood_sign_1.jpg
+]]
 
 Districts
 
@@ -199,7 +193,7 @@ The city is also home to a large number of temporary foreign residents enrolled 
 
 Government
 
-Lansing_City_Hall.JPG Lansing is administered under a mayor-council government, more specifically a "strong mayor" setup in which the mayor holds most of the city's administrative powers, such as appointment of department heads and drafting and administering a city budget, though the council must approve his/her actions. The mayor is elected at-large every four years. The city clerk is also elected every four years. The city council consists of eight members, and includes four members elected from the city's four wards, as well as four "at-large" members elected citywide. The city levies an income tax of 1 percent on residents and 0.5 percent on nonresidents.[72]
+Lansing is administered under a mayor-council government, more specifically a "strong mayor" setup in which the mayor holds most of the city's administrative powers, such as appointment of department heads and drafting and administering a city budget, though the council must approve his/her actions. The mayor is elected at-large every four years. The city clerk is also elected every four years. The city council consists of eight members, and includes four members elected from the city's four wards, as well as four "at-large" members elected citywide. The city levies an income tax of 1 percent on residents and 0.5 percent on nonresidents.[72]
 
 The city largely supports the Democratic Party. It has not had a Republican mayor in office for more than a decade, and the last two mayoral elections have hosted only Democratic candidates.
 
@@ -214,7 +208,7 @@ Though Lansing is not the designated county seat, some Ingham County offices are
 
 Economy
 
-Otto_E._Eckert_Station.jpg The Lansing metropolitan area's major industries are government, education, insurance, healthcare, and automobile manufacturing. Being the state capital, many state government workers reside in the area.
+The Lansing metropolitan area's major industries are government, education, insurance, healthcare, and automobile manufacturing. Being the state capital, many state government workers reside in the area.
 
 Michigan State University, Thomas M. Cooley Law School, and Lansing Community College are significant employers in the region.
 
@@ -257,8 +251,8 @@ The Lansing area has two major malls: Lansing Mall and Meridian Mall. Other majo
 
 Education
 
-37._Sexton_High_Tower.JPG,
-Westside Lansing]] Everett_High_School_Lansing,_Michigan_2.jpg,
+,
+Westside Lansing]] ,
 Southside Lansing]] Michigan State University, a member of the Big Ten Conference, is known as "the pioneer land grant college", located in neighboring East Lansing. MSU has the largest land campus in the United States and is home to several nationally and internationally recognized academic and research oriented programs. Michigan State offers over 200 programs of study and is home to fourteen different degree-granting schools and colleges including three medical schools, a law school, and numerous PhD programs. It is the only university in the nation with three medical schools. MSU is consistently one of the top three programs in the United States for study abroad programs. The MSU College of Education is also consistently rated as the top education program in the nation. Michigan State University is the oldest agricultural college in the United States. The MSU School of Criminal Justice is the oldest continuous degree granting criminal justice program in the nation.[93] In 2008, the Department of Energy announced MSU won the contest for a $550 million Facility for Rare Isotope Beams that will attract top researchers from around the world to conduct experiments in nuclear science, astrophysics and applications of isotopes to other fields.[94]
 
 The Thomas M. Cooley Law School is the largest law school in the nation and is located in downtown Lansing. Cooley is fully accredited by the American Bar Association. A majority of Cooley students are from out-of-state.
@@ -267,7 +261,7 @@ Lansing Community College offers more than 500 areas of study to over 18,000 stu
 
 Other institutions of higher education include Western Michigan University (branch campus in Delta Township), Davenport University in Downtown Lansing, Central Michigan University (branch campus), and Great Lakes Christian College (campus in Delta Township).
 
-39._Eastern_High.JPG,
+,
 Eastside Lansing]]
 
 Schools
@@ -328,11 +322,11 @@ Other notable Lansing musicians include Tell Yo Mama, Root Doctor, Jen Sygit, Ja
 
 Points of interest
 
-71msc_1.jpg ]]
+]]
 
 Farmers' markets
 
-Farmers_Market_in_Lansing_Michigan.jpg Lansing has several farmers' markets throughout the city in the summer months. These markets include the Allen Street Farmer's Market[110] on the city's eastside, the Westside Farmers' Market, the Old Town Farmer's Market, the South Lansing Farmer's Market,[111] and the year-round historic Lansing City Market[112] located near downtown. The Lansing City Market has built a brand new $1.6 million facility on the riverfront in downtown Lansing where it will continue its year round operations providing specialty items in addition to regular groceries from over 30 vendors.
+Lansing has several farmers' markets throughout the city in the summer months. These markets include the Allen Street Farmer's Market[110] on the city's eastside, the Westside Farmers' Market, the Old Town Farmer's Market, the South Lansing Farmer's Market,[111] and the year-round historic Lansing City Market[112] located near downtown. The Lansing City Market has built a brand new $1.6 million facility on the riverfront in downtown Lansing where it will continue its year round operations providing specialty items in addition to regular groceries from over 30 vendors.
 
 Libraries
 

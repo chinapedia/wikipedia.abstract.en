@@ -8,7 +8,7 @@ Jehoshaphat ascended the throne at the age of thirty-five and reigned for twenty
 
 Alliances
 
-Asa_-_Jehoshaphat_-_Joram.jpg's _Asa-Jehoshaphat-Joram_. The man on the left is generally considered to be Jehoshaphat.]]
+'s _Asa-Jehoshaphat-Joram_. The man on the left is generally considered to be Jehoshaphat.]]
 
 Jehoshaphat also pursued alliances with the northern kingdom. Jehoshaphat's son Jehoram married Ahab's daughter Athaliah.[3] In the eighteenth year of his reign Jehosaphat visited Ahab in Samaria, and nearly lost his life accompanying his ally to the siege of Ramoth-Gilead. While Jehoshaphat safely returned from this battle, he was reproached by the prophet Jehu, son of Hanani, about this alliance.[4] We are told that Jehoshaphat repented, and returned to his former course of opposition to all idolatry, and promoting the worship of God and in the government of his people ().
 
@@ -19,7 +19,7 @@ He subsequently joined Jehoram of Israel, in a war against the Moabites, who wer
 
 Victory over Moabite alliance
 
-Triomphe_de_Josaphat.jpg of Syria as illustrated by Jean Fouquet (1470s) for Josephus' _Antiquities of the Jews_.]] According to _Chronicles_, the Moabites formed a great and powerful confederacy with the surrounding nations, and marched against Jehoshaphat (). The allied forces were encamped at Ein Gedi. The king and his people were filled with alarm. The king prayed in the court of the Temple, "O our God, will you not judge them? For we have no power to face this vast army that is attacking us. We do not know what to do; but our eyes are upon you." (). The voice of Jahaziel the Levite was heard announcing that the next day all this great host would be overthrown. So it was, for they quarreled among themselves, and slew one another, leaving to the people of Judah only to gather the rich spoils of the slain. Soon after this victory Jehoshaphat died after a reign of twenty-five years at the age of sixty (). According to some sources (such as the eleventh-century Jewish commentator Rashi), he actually died two years later, but gave up his throne earlier for unknown reasons.
+of Syria as illustrated by Jean Fouquet (1470s) for Josephus' _Antiquities of the Jews_.]] According to _Chronicles_, the Moabites formed a great and powerful confederacy with the surrounding nations, and marched against Jehoshaphat (). The allied forces were encamped at Ein Gedi. The king and his people were filled with alarm. The king prayed in the court of the Temple, "O our God, will you not judge them? For we have no power to face this vast army that is attacking us. We do not know what to do; but our eyes are upon you." (). The voice of Jahaziel the Levite was heard announcing that the next day all this great host would be overthrown. So it was, for they quarreled among themselves, and slew one another, leaving to the people of Judah only to gather the rich spoils of the slain. Soon after this victory Jehoshaphat died after a reign of twenty-five years at the age of sixty (). According to some sources (such as the eleventh-century Jewish commentator Rashi), he actually died two years later, but gave up his throne earlier for unknown reasons.
 
 He also had the ambition to emulate Solomon's maritime ventures to Ophir, and built a large vessel for Tarshish. But when this boat was wrecked at Ezion-geber he relinquished the project (I Kings xxii. 48 et seq.; II Chron. xx. 35 et seq.).
 

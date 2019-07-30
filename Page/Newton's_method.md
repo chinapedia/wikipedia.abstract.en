@@ -11,8 +11,6 @@ until a sufficiently precise value is reached. This algorithm is first in the cl
 
 Description
 
-alt Illustration of Newton's method
-
 The idea is to start with an initial guess which is reasonably close to the true root, then to approximate the function by its tangent line using calculus, and finally to compute the -intercept of this tangent line by elementary algebra. This -intercept will typically be a better approximation to the original function's root than the first guess, and the method can be iterated.
 
 More formally, suppose is a differentiable function defined on the interval with values in the real numbers , and we have some current approximation . Then we can derive the formula for a better approximation, by referring to the diagram on the right. The equation of the tangent line to the curve _f_ (_x_)}} at _x__(_n_)}} is
@@ -180,7 +178,7 @@ The same issue occurs if, instead of the starting point, any iteration point is 
 
 Starting point enters a cycle
 
-NewtonsMethodConvergenceFailure.svg For some functions, some starting points may enter an infinite cycle, preventing convergence. Let
+For some functions, some starting points may enter an infinite cycle, preventing convergence. Let
 
 _f_(_x_) = _x_³ − 2_x_ + 2​
 
@@ -292,7 +290,7 @@ Generalizations
 
 Complex functions
 
-newtroot_1_0_0_0_0_m1.png When dealing with complex functions, Newton's method can be directly applied to find their zeroes.[8] Each zero has a basin of attraction in the complex plane, the set of all starting values that cause the method to converge to that particular zero. These sets can be mapped as in the image shown. For many complex functions, the boundaries of the basins of attraction are fractals.
+When dealing with complex functions, Newton's method can be directly applied to find their zeroes.[8] Each zero has a basin of attraction in the complex plane, the set of all starting values that cause the method to converge to that particular zero. These sets can be mapped as in the image shown. For many complex functions, the boundaries of the basins of attraction are fractals.
 
 In some cases there are regions in the complex plane which are not in any of these basins of attraction, meaning the iterates do not converge. For example,[9] if one uses a real initial condition to seek a root of , all subsequent iterates will be real numbers and so the iterations cannot converge to either root, since both roots are non-real. In this case almost all real initial conditions lead to chaotic behavior, while some initial conditions iterate either to infinity or to repeating cycles of any finite length.
 

@@ -1,4 +1,4 @@
-Royal_Flush_hand_with_a_Joker_as_Queen_in_poker_game.jpg with a bug as the queen of hearts]] A BUG in poker is a limited form of wild card. One or both jokers are often added to the deck and played as bugs.
+with a bug as the queen of hearts]] A BUG in poker is a limited form of wild card. One or both jokers are often added to the deck and played as bugs.
 
 In draw poker played for high and pai gow poker, the bug is considered to be an ace, unless it can be used as a missing card to complete a straight or a flush, in which case it becomes the highest card which can complete the hand.
 

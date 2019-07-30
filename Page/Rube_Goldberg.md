@@ -1,4 +1,4 @@
-Something_for_nothing_(1940).ogv REUBEN GARRETT LUCIUS GOLDBERG (July 4, 1883 – December 7, 1970), known best as RUBE GOLDBERG, was an American cartoonist, sculptor, author, engineer, and inventor.
+REUBEN GARRETT LUCIUS GOLDBERG (July 4, 1883 – December 7, 1970), known best as RUBE GOLDBERG, was an American cartoonist, sculptor, author, engineer, and inventor.
 
 Goldberg is best known for his popular cartoons depicting complicated gadgets performing simple tasks in indirect, convoluted ways. The cartoons led to the expression "Rube Goldberg machines" to describe similar gadgets and processes. Goldberg received many honors in his lifetime, including a Pulitzer Prize for political cartooning in 1948 and the Banshees' Silver Lady Award in 1959.[1]
 
@@ -18,7 +18,7 @@ During World War II Goldberg's sons changed their surname, at Goldberg's insiste
 
 Career
 
-Rube_Goldberg_&_family_1929.jpg Goldberg's father was a San Francisco police and fire commissioner, who encouraged the young Reuben to pursue a career in engineering. Rube graduated from the University of California, Berkeley in 1904 with a degree in Engineering[11] and was hired by the city of San Francisco as an engineer for the Water and Sewers Department. After six months he resigned his position with the city to join the _San Francisco Chronicle_ where he became a sports cartoonist.[12] The following year, he took a job with the _San Francisco Bulletin_, where he remained until he moved to New York City in 1907, finding employment as a cartoonist with the _New York Evening Mail_.[13]
+Goldberg's father was a San Francisco police and fire commissioner, who encouraged the young Reuben to pursue a career in engineering. Rube graduated from the University of California, Berkeley in 1904 with a degree in Engineering[11] and was hired by the city of San Francisco as an engineer for the Water and Sewers Department. After six months he resigned his position with the city to join the _San Francisco Chronicle_ where he became a sports cartoonist.[12] The following year, he took a job with the _San Francisco Bulletin_, where he remained until he moved to New York City in 1907, finding employment as a cartoonist with the _New York Evening Mail_.[13]
 
 The _New York Evening Mail_ was syndicated to the first newspaper syndicate, the McClure Newspaper Syndicate, giving Goldberg's cartoons a wider distribution, and by 1915 he was earning $25,000 per year and being billed by the paper as America's most popular cartoonist.[14] Arthur Brisbane had offered Goldberg $2,600 per year in 1911 in an unsuccessful attempt to get him to move to William Randolph Hearst's newspaper chain, and in 1915 raised the offer to $50,000 per year. Rather than lose Goldberg to Hearst, the _New York Evening Mail_ matched the salary offer and formed the Evening Mail Syndicate to syndicate Goldberg's cartoons nationally.[15]
 
@@ -35,11 +35,11 @@ Cultural legacy
 
 The popularity of Goldberg's cartoons was such that the term "Goldbergian" was in use in print by 1915,[27] and "Rube Goldberg" by 1928.[28] "Rube Goldberg" appeared in the _Random House Dictionary of the English Language_ in 1966 meaning "having a fantastically complicated improvised appearance", or "deviously complex and impractical."[29] The 1915 usage of "Goldbergian" was in reference to Goldberg's early comic strip _Foolish Questions_ which he drew from 1909 to 1934, while later use of the terms "Goldbergian", "Rube Goldberg" and "Rube Goldberg machine" refer to the crazy inventions for which he is now best known from his strip _The Inventions of Professor Lucifer Gorgonzola Butts_, drawn from 1914 to 1964.[30]
 
-The corresponding term in the UK was, and still is, "Heath Robinson", after the English illustrator with an equal devotion to odd machinery, also portraying sequential or chain reaction elements. Rube_Goldberg's_"Self-Operating_Napkin"_(cropped).gif Goldberg's work was commemorated posthumously in 1995 with the inclusion of _Rube Goldberg's Inventions_, depicting his 1931 "Self-Operating Napkin" in the Comic Strip Classics series of U.S. postage stamps.[31]
+The corresponding term in the UK was, and still is, "Heath Robinson", after the English illustrator with an equal devotion to odd machinery, also portraying sequential or chain reaction elements. Goldberg's work was commemorated posthumously in 1995 with the inclusion of _Rube Goldberg's Inventions_, depicting his 1931 "Self-Operating Napkin" in the Comic Strip Classics series of U.S. postage stamps.[31]
 
 Film and television
 
-Goldberg_Cartoons.jpg Goldberg_1916.jpg Rube Goldberg wrote a feature film featuring his machines and sculptures called _Soup to Nuts_, which was released in 1930 and starred Ted Healy and the pre-Curly Howard version of The Three Stooges.
+Rube Goldberg wrote a feature film featuring his machines and sculptures called _Soup to Nuts_, which was released in 1930 and starred Ted Healy and the pre-Curly Howard version of The Three Stooges.
 
 In the 1962 John Wayne movie _Hatari!,_ an invention to catch monkeys by character Pockets, played by Red Buttons, is described as a "Rube Goldberg."
 

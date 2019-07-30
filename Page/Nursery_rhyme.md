@@ -1,4 +1,4 @@
-Hey.diddle.diddle.jpeg", a well-known nursery rhyme]]
+", a well-known nursery rhyme]]
 
 A NURSERY RHYME is a traditional poem or song for children in Britain and many other countries, but usage of the term only dates from the late 18th/early 19th century. The term MOTHER GOOSE RHYMES is interchangeable with nursery rhymes.[1]
 
@@ -15,13 +15,11 @@ Many medieval English verses associated with the birth of Jesus take the form of
 
 Early nursery rhymes
 
-Three_Blinde_Mice_three_voice_round_Deuteromelia_13_(1609).png" (1609), published by Thomas Ravenscroft.[8]]] A French poem, similar to "Thirty days hath September", numbering the days of the month, was recorded in the 13th century.[9] From the later Middle Ages there are records of short children's rhyming songs, often as marginalia.[10] From the mid-16th century they begin to be recorded in English plays.[11] "Pat-a-cake, pat-a-cake, baker's man" is one of the oldest surviving English nursery rhymes. The earliest recorded version of the rhyme appears in Thomas d'Urfey's play _The Campaigners_ from 1698. Most nursery rhymes were not written down until the 18th century, when the publishing of children's books began to move from polemic and education towards entertainment, but there is evidence for many rhymes existing before this, including "To market, to market" and "Cock a doodle doo", which date from at least the late 16th century.[12]
+" (1609), published by Thomas Ravenscroft.[8]]] A French poem, similar to "Thirty days hath September", numbering the days of the month, was recorded in the 13th century.[9] From the later Middle Ages there are records of short children's rhyming songs, often as marginalia.[10] From the mid-16th century they begin to be recorded in English plays.[11] "Pat-a-cake, pat-a-cake, baker's man" is one of the oldest surviving English nursery rhymes. The earliest recorded version of the rhyme appears in Thomas d'Urfey's play _The Campaigners_ from 1698. Most nursery rhymes were not written down until the 18th century, when the publishing of children's books began to move from polemic and education towards entertainment, but there is evidence for many rhymes existing before this, including "To market, to market" and "Cock a doodle doo", which date from at least the late 16th century.[12]
 
 The first English collections, _Tommy Thumb's Song Book_ and a sequel, _Tommy Thumb's Pretty Song Book_, are both thought to have been published by Mary Cooper in London before 1744, with such songs becoming known as 'Tommy Thumb's songs'.[13] John Newbery's stepson, Thomas Carnan, was the first to use the term Mother Goose for nursery rhymes when he published a compilation of English rhymes, _Mother Goose's Melody, or, Sonnets for the Cradle_ (London, 1780).[14][15] These rhymes seem to have come from a variety of sources, including traditional riddles, proverbs, ballads, lines of Mummers' plays, drinking songs, historical events, and, it has been suggested, ancient pagan rituals.[16] About half of the currently recognised "traditional" English rhymes were known by the mid-18th century.[17]
 
 19th century
-
-Aa.vv.,_popular_nursery_tales_and_rhymes,_warner_&_routledge,_londra_1859_ca._(gabinetto_vieusseux).JPG
 
 In the early 19th century printed collections of rhymes began to spread to other countries, including Robert Chambers's _Popular Rhymes of Scotland_ (1826) and in the United States, _Mother Goose's Melodies_ (1833).[18] From this period we sometimes know the origins and authors of rhymes—for instance, in "Twinkle Twinkle Little Star" which combines the melody of an 18th-century French tune "Ah vous dirai-je, Maman" with a 19th-century English poem by Jane Taylor entitled "The Star" used as lyrics.[19]
 
@@ -59,7 +57,7 @@ Many nursery rhymes have been argued to have hidden meanings and origins. John B
 
 Nursery rhyme revisionism
 
-The_Black_sheep_illustrated_by_William_Wallace_Denslow.jpg", from a 1901 illustration by William Wallace Denslow]]
+", from a 1901 illustration by William Wallace Denslow]]
 
 There have been several attempts, across the world, to revise nursery rhymes (along with fairy tales and popular songs). Even in the late 18th century we can sometimes see how rhymes like "Little Robin Redbreast" were cleaned up for a young audience.[46] In the late 19th century the major concern seems to have been violence and crime, which led leading children's publishers in the United States like Jacob Abbot and Samuel Goodrich to 'improve' Mother Goose rhymes.[47]
 

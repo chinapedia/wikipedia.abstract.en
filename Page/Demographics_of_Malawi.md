@@ -11,7 +11,7 @@ The Chewas constitute 90% of the population of the central region; the Nyanja tr
 
 Population
 
-Malawi-demography.png, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 2 881 000 in 1950. The proportion of children below the age of 15 in 2010 was 45.8%, 51.1% was between 15 and 65 years of age, while 3.1% was 65 years or older.[1]
+, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 2 881 000 in 1950. The proportion of children below the age of 15 in 2010 was 45.8%, 51.1% was between 15 and 65 years of age, while 3.1% was 65 years or older.[1]
 
          Total population (x 1000)   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ --------------------------- -------------------------- --------------------------- -------------------------
@@ -344,8 +344,6 @@ Population
     19,196,246 (July 2017 est.)
 
 Age structure
-
-Malawipop.svg
 
     _0-14 years:_ 46.17% (male 4,560,940 /female 4,600,184)
     _15-24 years:_ 20.58% (male 2,023,182 /female 2,059,765)

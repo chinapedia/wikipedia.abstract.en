@@ -23,7 +23,7 @@ Members of the Okinawan upper classes were sent to China regularly to study vari
 
 Sakukawa Kanga (1782–1838) had studied pugilism and staff (_bo_) fighting in China (according to one legend, under the guidance of Kosokun, originator of _kusanku kata_). In 1806 he started teaching a fighting art in the city of Shuri that he called "Tudi Sakukawa," which meant "Sakukawa of China Hand." This was the first known recorded reference to the art of "Tudi," written as 唐手. Around the 1820s Sakukawa's most significant student Matsumura Sōkon (1809–1899) taught a synthesis of _te_ (Shuri-te and Tomari-te) and Shaolin (Chinese 少林) styles. Matsumura's style would later become the Shōrin-ryū style.
 
-Itosu_Anko.jpg, grandfather of modern karate]]
+, grandfather of modern karate]]
 
 Matsumura taught his art to Itosu Ankō (1831–1915) among others. Itosu adapted two forms he had learned from Matsumura. These are _kusanku_ and _chiang nan_.[20] He created the _ping'an_ forms ("_heian_" or "_pinan_" in Japanese) which are simplified kata for beginning students. In 1901 Itosu helped to get karate introduced into Okinawa's public schools. These forms were taught to children at the elementary school level. Itosu's influence in karate is broad. The forms he created are common across nearly all styles of karate. His students became some of the most well-known karate masters, including Gichin Funakoshi, Kenwa Mabuni, and Motobu Chōki. Itosu is sometimes referred to as "the Grandfather of Modern Karate."[21]
 
@@ -33,13 +33,13 @@ In addition to the three early _te_ styles of karate a fourth Okinawan influence
 
 Japan
 
-Masters_of_Karate.jpg, Hironori Otsuka, Takeshi Shimoda, Gichin Funakoshi, Motobu Chōki, Kenwa Mabuni, Genwa Nakasone, and Shinken Taira ]]
+, Hironori Otsuka, Takeshi Shimoda, Gichin Funakoshi, Motobu Chōki, Kenwa Mabuni, Genwa Nakasone, and Shinken Taira ]]
 
 Gichin Funakoshi, founder of Shotokan karate, is generally credited with having introduced and popularized karate on the main islands of Japan. In addition many Okinawans were actively teaching, and are thus also responsible for the development of karate on the main islands. Funakoshi was a student of both Asato Ankō and Itosu Ankō (who had worked to introduce karate to the Okinawa Prefectural School System in 1902). During this time period, prominent teachers who also influenced the spread of karate in Japan included Kenwa Mabuni, Chōjun Miyagi, Motobu Chōki, Kanken Tōyama, and Kanbun Uechi. This was a turbulent period in the history of the region. It includes Japan's annexation of the Okinawan island group in 1872, the First Sino-Japanese War (1894–1895), the Russo-Japanese War (1904–1905), the annexation of Korea, and the rise of Japanese militarism (1905–1945).
 
 Japan was invading China at the time, and Funakoshi knew that the art of Tang/China hand would not be accepted; thus the change of the art's name to "way of the empty hand." The _dō_ suffix implies that _karatedō_ is a path to self-knowledge, not just a study of the technical aspects of fighting. Like most martial arts practiced in Japan, karate made its transition from -_jutsu_ to -_dō_ around the beginning of the 20th century. The "_dō_" in "karate-dō" sets it apart from karate-_jutsu_, as aikido is distinguished from aikijutsu, judo from jujutsu, kendo from kenjutsu and iaido from iaijutsu.
 
-Funakoshi_Gichin.jpg, founder of Shotokan Karate]]
+, founder of Shotokan Karate]]
 
 Funakoshi changed the names of many kata and the name of the art itself (at least on mainland Japan), doing so to get karate accepted by the Japanese budō organization Dai Nippon Butoku Kai. Funakoshi also gave Japanese names to many of the kata. The five _pinan_ forms became known as _heian_, the three _naihanchi_ forms became known as _tekki_, _seisan_ as _hangetsu_, _Chintō_ as _gankaku_, _wanshu_ as _enpi_, and so on. These were mostly political changes, rather than changes to the content of the forms, although Funakoshi did introduce some such changes. Funakoshi had trained in two of the popular branches of Okinawan karate of the time, Shorin-ryū and Shōrei-ryū. In Japan he was influenced by kendo, incorporating some ideas about distancing and timing into his style. He always referred to what he taught as simply karate, but in 1936 he built a dojo in Tokyo and the style he left behind is usually called Shotokan after this dojo. _Shoto_, meaning "pine wave", was Funakoshi's pen name and _kan_ meaning "hall".
 
@@ -60,7 +60,7 @@ Kihon means basics and these form the base for everything else in the style incl
 
 Kata
 
-Motobu_Choki2.jpg in Naihanchi-dachi, one of the basic karate stances]] Kata (型:かた) means literally "shape" or "model." Kata is a formalized sequence of movements which represent various offensive and defensive postures. These postures are based on idealized combat applications. The applications when applied in a demonstration with real opponents is referred to as a Bunkai. The Bunkai shows how every stance and movement is used. Bunkai is a useful tool to understand a kata.
+in Naihanchi-dachi, one of the basic karate stances]] Kata (型:かた) means literally "shape" or "model." Kata is a formalized sequence of movements which represent various offensive and defensive postures. These postures are based on idealized combat applications. The applications when applied in a demonstration with real opponents is referred to as a Bunkai. The Bunkai shows how every stance and movement is used. Bunkai is a useful tool to understand a kata.
 
 To attain a formal rank the karateka must demonstrate competent performance of specific required kata for that level. The Japanese terminology for grades or ranks is commonly used. Requirements for examinations vary among schools.
 
@@ -104,7 +104,7 @@ Karate, although not widely used in mixed martial arts, has been effective for s
 
 Rank
 
-JJS_Dojo.jpgs wearing different colored belts]] In 1924 Gichin Funakoshi, founder of Shotokan Karate, adopted the Dan system from the judo founder Jigoro Kano[52] using a rank scheme with a limited set of belt colors. Other Okinawan teachers also adopted this practice. In the Kyū/Dan system the beginner grades start with a higher numbered kyū (_e.g._, 10th Kyū or Jukyū) and progress toward a lower numbered kyū. The Dan progression continues from 1st Dan (Shodan, or 'beginning dan') to the higher dan grades. Kyū-grade karateka are referred to as "color belt" or mudansha ("ones without dan/rank"). Dan-grade karateka are referred to as _yudansha_ (holders of dan/rank). Yudansha typically wear a black belt. Normally, the first five to six dans are given by examination by superior dan holders, while the subsequent (7 and up) are honorary, given for special merits and/or age reached. Requirements of rank differ among styles, organizations, and schools. Kyū ranks stress stance, balance, and coordination. Speed and power are added at higher grades.
+s wearing different colored belts]] In 1924 Gichin Funakoshi, founder of Shotokan Karate, adopted the Dan system from the judo founder Jigoro Kano[52] using a rank scheme with a limited set of belt colors. Other Okinawan teachers also adopted this practice. In the Kyū/Dan system the beginner grades start with a higher numbered kyū (_e.g._, 10th Kyū or Jukyū) and progress toward a lower numbered kyū. The Dan progression continues from 1st Dan (Shodan, or 'beginning dan') to the higher dan grades. Kyū-grade karateka are referred to as "color belt" or mudansha ("ones without dan/rank"). Dan-grade karateka are referred to as _yudansha_ (holders of dan/rank). Yudansha typically wear a black belt. Normally, the first five to six dans are given by examination by superior dan holders, while the subsequent (7 and up) are honorary, given for special merits and/or age reached. Requirements of rank differ among styles, organizations, and schools. Kyū ranks stress stance, balance, and coordination. Speed and power are added at higher grades.
 
 Minimum age and time in rank are factors affecting promotion. Testing consists of demonstration of techniques before a panel of examiners. This will vary by school, but testing may include everything learned at that point, or just new information. The demonstration is an application for new rank (shinsa) and may include kata, bunkai, self-defense, routines, tameshiwari (breaking), and kumite (sparring).
 

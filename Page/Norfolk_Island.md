@@ -27,7 +27,7 @@ As early as 1794, Lieutenant-Governor of New South Wales Francis Grose suggested
 
 Second penal settlement (18241856)
 
-_Norfolk_Island_jail.jpg]] In 1824 the British government instructed the Governor of New South Wales, Thomas Brisbane, to occupy Norfolk Island as a place to send "the worst description of convicts". Its remoteness, previously seen as a disadvantage, was now viewed as an asset for the detention of recalcitrant male prisoners. The convicts detained have long been assumed to be a hardcore of recidivists, or 'doubly-convicted capital respites' – that is, men transported to Australia who committed fresh colonial crimes for which they were sentenced to death, but were spared the gallows on condition of life at Norfolk Island. However, a 2011 study, using a database of Norfolk Island convicts, has demonstrated that the reality was somewhat different: more than half were detained at Norfolk Island without ever receiving a colonial conviction, and only 15% had been reprieved from a death sentence. Furthermore, the overwhelming majority of convicts sent to Norfolk Island had committed non-violent property offences, and the average length of detention there was three years.[14]
+]] In 1824 the British government instructed the Governor of New South Wales, Thomas Brisbane, to occupy Norfolk Island as a place to send "the worst description of convicts". Its remoteness, previously seen as a disadvantage, was now viewed as an asset for the detention of recalcitrant male prisoners. The convicts detained have long been assumed to be a hardcore of recidivists, or 'doubly-convicted capital respites' – that is, men transported to Australia who committed fresh colonial crimes for which they were sentenced to death, but were spared the gallows on condition of life at Norfolk Island. However, a 2011 study, using a database of Norfolk Island convicts, has demonstrated that the reality was somewhat different: more than half were detained at Norfolk Island without ever receiving a colonial conviction, and only 15% had been reprieved from a death sentence. Furthermore, the overwhelming majority of convicts sent to Norfolk Island had committed non-violent property offences, and the average length of detention there was three years.[14]
 
 The British government began to wind down the second penal settlement after 1847, and the last convicts were removed to Tasmania in May 1855. The island was abandoned because transportation from the United Kingdom to Van Diemen's Land (Tasmania) had ceased in 1853, to be replaced by penal servitude in the UK.
 
@@ -41,7 +41,7 @@ Norfolk Island was the subject of several experiments in administration during t
 
 20th century
 
-Norfolk_Island_Act_1913_Proclamation.jpg The Parliament of the Commonwealth of Australia accepted the territory by the Norfolk Island Act 1913 (Cth),[22][23] subject to British agreement; the Act received the assent on 19 December 1913. In preparation for the handover, a proclamation by the Governor of New South Wales on 23 December 1913 (in force when gazetted on 24 December) repealed "all laws heretofore in force in Norfolk Island" and replaced them by re-enacting a list of such laws.[24] Among those laws was the Administration Law 1913 (NSW), which provided for appointment of an Administrator of Norfolk Island and of magistrates, and contained a code of criminal law.[25]
+The Parliament of the Commonwealth of Australia accepted the territory by the Norfolk Island Act 1913 (Cth),[22][23] subject to British agreement; the Act received the assent on 19 December 1913. In preparation for the handover, a proclamation by the Governor of New South Wales on 23 December 1913 (in force when gazetted on 24 December) repealed "all laws heretofore in force in Norfolk Island" and replaced them by re-enacting a list of such laws.[24] Among those laws was the Administration Law 1913 (NSW), which provided for appointment of an Administrator of Norfolk Island and of magistrates, and contained a code of criminal law.[25]
 
 British agreement was expressed on 30 March 1914, in a UK Order in Council[26] made pursuant to the _Australian Waste Lands Act_ 1855 (Imp).[27][28] A proclamation by the Governor-General of Australia on 17 June 1914 gave effect to the Act and the Order as from 1 July 1914.[29]
 
@@ -68,15 +68,15 @@ There is opposition to the reforms, led by Norfolk Island People for Democracy I
 
 Geography
 
-Norfolk_Island_Philip_Island.jpg (foreground) and Phillip Island]]
+(foreground) and Phillip Island]]
 
-The Territory of Norfolk Island is located in the South Pacific Ocean, east of the Australian mainland. Norfolk Island itself is the main island of the island group that the territory encompasses and is located at . It has an area of , with no large-scale internal bodies of water and of coastline. _Norfolk_Island-CIA_WFB_Map.png The island's highest point is Mount Bates reaching above sea level, located in the northwest quadrant of the island. The majority of the terrain is suitable for farming and other agricultural uses. Phillip Island, the second largest island of the territory, is located at , south of the main island.
+The Territory of Norfolk Island is located in the South Pacific Ocean, east of the Australian mainland. Norfolk Island itself is the main island of the island group that the territory encompasses and is located at . It has an area of , with no large-scale internal bodies of water and of coastline. The island's highest point is Mount Bates reaching above sea level, located in the northwest quadrant of the island. The majority of the terrain is suitable for farming and other agricultural uses. Phillip Island, the second largest island of the territory, is located at , south of the main island.
 
 The coastline of Norfolk Island consists, to varying degrees, of cliff faces. A downward slope exists towards Slaughter Bay and Emily Bay, the site of the original colonial settlement of Kingston. There are no safe harbour facilities on Norfolk Island, with loading jetties existing at Kingston and Cascade Bay. All goods not domestically produced are brought in by ship, usually to Cascade Bay. Emily Bay, protected from the Pacific Ocean by a small coral reef, is the only safe area for recreational swimming, although surfing waves can be found at Anson and Ball Bays.
 
 The climate is subtropical and mild, with little seasonal differentiation. The island is the eroded remnant of a basaltic volcano active around 2.3 to 3  million years ago,[49] with inland areas now consisting mainly of rolling plains. It forms the highest point on the Norfolk Ridge, part of the submerged continent Zealandia.
 
-The area surrounding Mount Bates is preserved as the Norfolk Island National Park. The park, covering around 10% of the land of the island, contains remnants of the forests which originally covered the island, including stands of subtropical rainforest. _Government_House,_Norfolk_Island.jpg The park also includes the two smaller islands to the south of Norfolk Island, Nepean Island and Phillip Island. The vegetation of Phillip Island was devastated due to the introduction during the penal era of pest animals such as pigs and rabbits, giving it a red-brown colour as viewed from Norfolk; however, pest control and remediation work by park staff has recently brought some improvement to the Phillip Island environment.
+The area surrounding Mount Bates is preserved as the Norfolk Island National Park. The park, covering around 10% of the land of the island, contains remnants of the forests which originally covered the island, including stands of subtropical rainforest. The park also includes the two smaller islands to the south of Norfolk Island, Nepean Island and Phillip Island. The vegetation of Phillip Island was devastated due to the introduction during the penal era of pest animals such as pigs and rabbits, giving it a red-brown colour as viewed from Norfolk; however, pest control and remediation work by park staff has recently brought some improvement to the Phillip Island environment.
 
 The major settlement on Norfolk Island is Burnt Pine, located predominantly along Taylors Road, where the shopping centre, post office, bottle shop, telephone exchange and community hall are located. The settlement also exists over much of the island, consisting largely of widely separated homesteads.
 
@@ -94,7 +94,7 @@ Norfolk Island is part of the Interim Biogeographic Regionalisation for Australi
 
 Flora
 
-KermadecNikau.jpg'', a native palm]]
+'', a native palm]]
 
 Norfolk Island has 174 native plants; 51 of them are endemic. At least 18 of the endemic species are rare or threatened.[53] The Norfolk Island palm (_Rhopalostylis baueri_) and the smooth tree-fern (_Cyathea brownii_), the tallest tree-fern in the world,[54] are common in the Norfolk Island National Park but rare elsewhere on the island. Before European colonisation, most of Norfolk Island was covered with subtropical rain forest, the canopy of which was made of _Araucaria heterophylla_ (Norfolk Island pine) in exposed areas, and the palm _Rhopalostylis baueri_ and tree ferns _Cyathea brownii_ and _C. australis_ in moister protected areas. The understory was thick with lianas and ferns covering the forest floor. Only one small tract, , of rainforest remains, which was declared as the Norfolk Island National Park in 1986.[55]
 
@@ -206,7 +206,7 @@ LANGUAGES[78]
 
 Education
 
-NorfolkIslandCentral_School1.jpg The sole school on the island, Norfolk Island Central School, provides education from kindergarten through to Year 12. The school has a contractual arrangement referred to as a Memorandum of Understanding with the New South Wales Department of Education and Communities regarding the teaching staff of the school, the latest of which took effect in January 2015.[79] In 2015 enrolment at the Norfolk Island Central School was students.[80]
+The sole school on the island, Norfolk Island Central School, provides education from kindergarten through to Year 12. The school has a contractual arrangement referred to as a Memorandum of Understanding with the New South Wales Department of Education and Communities regarding the teaching staff of the school, the latest of which took effect in January 2015.[79] In 2015 enrolment at the Norfolk Island Central School was students.[80]
 
 No public tertiary education infrastructure exists on the Island. The Norfolk Island Central School works in partnership with Registered Training Organisations (RTOs) and local employers to support students accessing Vocational Education and Training (VET) courses.[81]
 
@@ -218,8 +218,6 @@ Culture
 While there was no "indigenous" culture on the island at the time of settlement, the Tahitian influence of the Pitcairn settlers has resulted in some aspects of Polynesian culture being adapted to that of Norfolk, including the hula dance. Local cuisine also shows influences from the same region.
 
 Islanders traditionally spend a lot of time outdoors, with fishing and other aquatic pursuits being common pastimes, an aspect which has become more noticeable as the island becomes more accessible to tourism. Most island families have at least one member involved in primary production in some form.
-
-Norfolk_Island_Philip_Island3.jpg
 
 Drivers on the island sometimes give the "Norfolk Wave", a wave to each other as they pass as a form of greeting.[82]
 
@@ -354,7 +352,7 @@ Communications
 
 Transport
 
-Norfolk_Island_jetty2.jpg There are no railways, waterways, ports or harbours on the island.[166] Loading jetties are located at Kingston and Cascade, but ships cannot get close to either of them. When a supply ship arrives, it is emptied by whaleboats towed by launches, five tonnes at a time. A mobile crane picks up the freight using nets and straps and lifts the freight onto the pier. Which jetty is used depends on the prevailing weather of the day; the jetty on the leeward side of the island is often used. If the wind changes significantly during unloading/loading, the ship will move around to the other side. Visitors often gather to watch the activity when a supply ship arrives. Norfolk Forwarding Services is the primary Freight Forwarding service for Norfolk Island handling both sea and airfreight. In 2017 Norfolk Forwarding Services shipped most of the freight for the Cascade Pier Project over a period of 18 months.
+There are no railways, waterways, ports or harbours on the island.[166] Loading jetties are located at Kingston and Cascade, but ships cannot get close to either of them. When a supply ship arrives, it is emptied by whaleboats towed by launches, five tonnes at a time. A mobile crane picks up the freight using nets and straps and lifts the freight onto the pier. Which jetty is used depends on the prevailing weather of the day; the jetty on the leeward side of the island is often used. If the wind changes significantly during unloading/loading, the ship will move around to the other side. Visitors often gather to watch the activity when a supply ship arrives. Norfolk Forwarding Services is the primary Freight Forwarding service for Norfolk Island handling both sea and airfreight. In 2017 Norfolk Forwarding Services shipped most of the freight for the Cascade Pier Project over a period of 18 months.
 
 There is one airport, Norfolk Island Airport.[167] There are of roads on the island, paved and unpaved. Local law gives cows the right of way.[168] Speed limits are low: maximum in the territory, in town and near schools.[169] There was formerly an airline, Norfolk Island Airlines, which connected Norfolk Island with Brisbane. As of March 2018, there are no direct flights from New Zealand to Norfolk Island, leaving only services via Sydney and Brisbane.[170] In mid 2018, Air Chathams announced that it was looking to re-establish flights between Auckland and Norfolk Island.[171]
 

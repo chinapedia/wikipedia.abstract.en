@@ -9,7 +9,7 @@ Neon, argon, krypton, and xenon are obtained from air in an air separation unit 
 
 History
 
-_Noble gas_ is translated from the German noun , first used in 1898 by Hugo Erdmann[2] to indicate their extremely low level of reactivity. The name makes an analogy to the term "noble metals", which also have low reactivity. The noble gases have also been referred to as _inert gases_, but this label is deprecated as many noble gas compounds are now known.[3] _Rare gases_ is another term that was used,[4] but this is also inaccurate because argon forms a fairly considerable part (0.94% by volume, 1.3% by mass) of the Earth's atmosphere due to decay of radioactive potassium-40.[5] Helium_spectrum.jpgs.|alt=A line spectrum chart of the visible spectrum showing sharp lines on top.]]
+_Noble gas_ is translated from the German noun , first used in 1898 by Hugo Erdmann[2] to indicate their extremely low level of reactivity. The name makes an analogy to the term "noble metals", which also have low reactivity. The noble gases have also been referred to as _inert gases_, but this label is deprecated as many noble gas compounds are now known.[3] _Rare gases_ is another term that was used,[4] but this is also inaccurate because argon forms a fairly considerable part (0.94% by volume, 1.3% by mass) of the Earth's atmosphere due to decay of radioactive potassium-40.[5] s.|alt=A line spectrum chart of the visible spectrum showing sharp lines on top.]]
 
 Pierre Janssen and Joseph Norman Lockyer discovered a new element on August 18, 1868 while looking at the chromosphere of the Sun, and named it helium after the Greek word for the Sun, ().[6] No chemical analysis was possible at the time, but helium was later found to be a noble gas. Before them, in 1784, the English chemist and physicist Henry Cavendish had discovered that air contains a small proportion of a substance less reactive than nitrogen.[7] A century later, in 1895, Lord Rayleigh discovered that samples of nitrogen from the air were of a different density than nitrogen resulting from chemical reactions. Along with Scottish scientist William Ramsay at University College, London, Lord Rayleigh theorized that the nitrogen extracted from air was mixed with another gas, leading to an experiment that successfully isolated a new element, argon, from the Greek word (, "idle" or "lazy").[8] With this discovery, they realized an entire class of gases was missing from the periodic table. During his search for argon, Ramsay also managed to isolate helium for the first time while heating cleveite, a mineral. In 1902, having accepted the evidence for the elements helium and argon, Dmitri Mendeleev included these noble gases as group 0 in his arrangement of the elements, which would later become the periodic table.[9]
 
@@ -53,7 +53,7 @@ For more data, see Noble gas (data page).
 
 The noble gases have weak interatomic force, and consequently have very low melting and boiling points. They are all monatomic gases under standard conditions, including the elements with larger atomic masses than many normally solid elements.[29] Helium has several unique qualities when compared with other elements: its boiling and melting points are lower than those of any other known substance; it is the only element known to exhibit superfluidity; it is the only element that cannot be solidified by cooling under standard conditions—a pressure of must be applied at a temperature of to convert it to a solid.[30] The noble gases up to xenon have multiple stable isotopes. Radon has no stable isotopes; its longest-lived isotope, ²²²Rn, has a half-life of 3.8 days and decays to form helium and polonium, which ultimately decays to lead.[31] Melting and boiling points generally increase going down the group.
 
-Ionization_energies.png versus atomic number. The noble gases, which are labeled, have the largest ionization potential for each period.|alt=A graph of ionization energy vs. atomic number showing sharp peaks for the noble gas atoms.]]
+versus atomic number. The noble gases, which are labeled, have the largest ionization potential for each period.|alt=A graph of ionization energy vs. atomic number showing sharp peaks for the noble gas atoms.]]
 
 The noble gas atoms, like atoms in most groups, increase steadily in atomic radius from one period to the next due to the increasing number of electrons. The size of the atom is related to several properties. For example, the ionization potential decreases with an increasing radius because the valence electrons in the larger noble gases are farther away from the nucleus and are therefore not held as tightly together by the atom. Noble gases have the largest ionization potential among the elements of each period, which reflects the stability of their electron configuration and is related to their relative lack of chemical reactivity.[32] Some of the heavier noble gases, however, have ionization potentials small enough to be comparable to those of other elements and molecules. It was the insight that xenon has an ionization potential similar to that of the oxygen molecule that led Bartlett to attempt oxidizing xenon using platinum hexafluoride, an oxidizing agent known to be strong enough to react with oxygen.[33] Noble gases cannot accept an electron to form stable anions; that is, they have a negative electron affinity.[34]
 
@@ -64,7 +64,7 @@ The noble gases are nearly ideal gases under standard conditions, but their devi
 
 Chemical properties
 
-Electron_shell_010_Neon_-_no_label.svg. Noble gases have eight electrons in their outermost shell, except in the case of helium, which has two.|alt=An atomic shell diagram with neon core, 2 electrons in the inner shell and 8 in the outer shell.]]
+. Noble gases have eight electrons in their outermost shell, except in the case of helium, which has two.|alt=An atomic shell diagram with neon core, 2 electrons in the inner shell and 8 in the outer shell.]]
 
 The noble gases are colorless, odorless, tasteless, and nonflammable under standard conditions.[37] They were once labeled _group 0_ in the periodic table because it was believed they had a valence of zero, meaning their atoms cannot combine with those of other elements to form compounds. However, it was later discovered some do indeed form compounds, causing this label to fall into disuse.[38]
 
@@ -86,8 +86,6 @@ The noble gases have full valence electron shells. Valence electrons are the out
 As a result of a full shell, the noble gases can be used in conjunction with the electron configuration notation to form the _noble gas notation_. To do this, the nearest noble gas that precedes the element in question is written first, and then the electron configuration is continued from that point forward. For example, the electron notation of phosphorus is 1s² 2s² 2p⁶ 3s² 3p³, while the noble gas notation is [Ne] 3s² 3p³. This more compact notation makes it easier to identify elements, and is shorter than writing out the full notation of atomic orbitals.[40]
 
 Compounds
-
-Xenon-tetrafluoride-3D-vdW.png
 
 The noble gases show extremely low chemical reactivity; consequently, only a few hundred noble gas compounds have been formed. Neutral compounds in which helium and neon are involved in chemical bonds have not been formed (although some helium-containing ions exist and there is some theoretical evidence for a few neutral helium-containing ones), while xenon, krypton, and argon have shown only minor reactivity.[41] The reactivity follows the order Ne < He < Ar < Kr < Xe < Rn.
 
@@ -119,11 +117,9 @@ The noble gases—including helium—can form stable molecular ions in the gas p
 
 In addition to the compounds where a noble gas atom is involved in a covalent bond, noble gases also form non-covalent compounds. The clathrates, first described in 1949,[59] consist of a noble gas atom trapped within cavities of crystal lattices of certain organic and inorganic substances. The essential condition for their formation is that the guest (noble gas) atoms must be of appropriate size to fit in the cavities of the host crystal lattice. For instance, argon, krypton, and xenon form clathrates with hydroquinone, but helium and neon do not because they are too small or insufficiently polarizable to be retained.[60] Neon, argon, krypton, and xenon also form clathrate hydrates, where the noble gas is trapped in ice.[61]
 
-Endohedral_fullerene.png
-
 Noble gases can form endohedral fullerene compounds, in which the noble gas atom is trapped inside a fullerene molecule. In 1993, it was discovered that when , a spherical molecule consisting of 60 carbon atoms, is exposed to noble gases at high pressure, complexes such as can be formed (the _@_ notation indicates He is contained inside but not covalently bound to it).[62] As of 2008, endohedral complexes with helium, neon, argon, krypton, and xenon have been created.[63] These compounds have found use in the study of the structure and reactivity of fullerenes by means of the nuclear magnetic resonance of the noble gas atom.[64]
 
-XeF2.png Noble gas compounds such as xenon difluoride () are considered to be hypervalent because they violate the octet rule. Bonding in such compounds can be explained using a three-center four-electron bond model.[65][66] This model, first proposed in 1951, considers bonding of three collinear atoms. For example, bonding in is described by a set of three molecular orbitals (MOs) derived from p-orbitals on each atom. Bonding results from the combination of a filled p-orbital from Xe with one half-filled p-orbital from each F atom, resulting in a filled bonding orbital, a filled non-bonding orbital, and an empty antibonding orbital. The highest occupied molecular orbital is localized on the two terminal atoms. This represents a localization of charge that is facilitated by the high electronegativity of fluorine.[67]
+Noble gas compounds such as xenon difluoride () are considered to be hypervalent because they violate the octet rule. Bonding in such compounds can be explained using a three-center four-electron bond model.[65][66] This model, first proposed in 1951, considers bonding of three collinear atoms. For example, bonding in is described by a set of three molecular orbitals (MOs) derived from p-orbitals on each atom. Bonding results from the combination of a filled p-orbital from Xe with one half-filled p-orbital from each F atom, resulting in a filled bonding orbital, a filled non-bonding orbital, and an empty antibonding orbital. The highest occupied molecular orbital is localized on the two terminal atoms. This represents a localization of charge that is facilitated by the high electronegativity of fluorine.[67]
 
 The chemistries of the heavier noble gases, krypton and xenon, are well established. The chemistry of the lighter ones, argon and helium, is still at an early stage, while a neon compound is yet to be identified.
 
@@ -154,17 +150,15 @@ Neon, argon, krypton, and xenon are obtained from air using the methods of lique
 
 Applications
 
-Modern_3T_MRI.JPG
-
 Noble gases have very low boiling and melting points, which makes them useful as cryogenic refrigerants.[83] In particular, liquid helium, which boils at , is used for superconducting magnets, such as those needed in nuclear magnetic resonance imaging and nuclear magnetic resonance.[84] Liquid neon, although it does not reach temperatures as low as liquid helium, also finds use in cryogenics because it has over 40 times more refrigerating capacity than liquid helium and over three times more than liquid hydrogen.[85]
 
 Helium is used as a component of breathing gases to replace nitrogen, due its low solubility in fluids, especially in lipids. Gases are absorbed by the blood and body tissues when under pressure like in scuba diving, which causes an anesthetic effect known as nitrogen narcosis.[86] Due to its reduced solubility, little helium is taken into cell membranes, and when helium is used to replace part of the breathing mixtures, such as in trimix or heliox, a decrease in the narcotic effect of the gas at depth is obtained.[87] Helium's reduced solubility offers further advantages for the condition known as decompression sickness, or _the bends_.[88][89] The reduced amount of dissolved gas in the body means that fewer gas bubbles form during the decrease in pressure of the ascent. Another noble gas, argon, is considered the best option for use as a drysuit inflation gas for scuba diving.[90] Helium is also used as filling gas in nuclear fuel rods for nuclear reactors.[91]
 
-Goodyear-blimp.jpg Since the _Hindenburg_ disaster in 1937,[92] helium has replaced hydrogen as a lifting gas in blimps and balloons due to its lightness and incombustibility, despite an 8.6%[93] decrease in buoyancy.[94]
+Since the _Hindenburg_ disaster in 1937,[92] helium has replaced hydrogen as a lifting gas in blimps and balloons due to its lightness and incombustibility, despite an 8.6%[93] decrease in buoyancy.[94]
 
 In many applications, the noble gases are used to provide an inert atmosphere. Argon is used in the synthesis of air-sensitive compounds that are sensitive to nitrogen. Solid argon is also used for the study of very unstable compounds, such as reactive intermediates, by trapping them in an inert matrix at very low temperatures.[95] Helium is used as the carrier medium in gas chromatography, as a filler gas for thermometers, and in devices for measuring radiation, such as the Geiger counter and the bubble chamber.[96] Helium and argon are both commonly used to shield welding arcs and the surrounding base metal from the atmosphere during welding and cutting, as well as in other metallurgical processes and in the production of silicon for the semiconductor industry.[97]
 
-Xenon_short_arc_1.jpg used in IMAX projectors|alt=Elongated glass sphere with two metal rod electrodes inside, facing each other. One electrode is blunt and another is sharpened.]] Noble gases are commonly used in lighting because of their lack of chemical reactivity. Argon, mixed with nitrogen, is used as a filler gas for incandescent light bulbs.[98] Krypton is used in high-performance light bulbs, which have higher color temperatures and greater efficiency, because it reduces the rate of evaporation of the filament more than argon; halogen lamps, in particular, use krypton mixed with small amounts of compounds of iodine or bromine.[99] The noble gases glow in distinctive colors when used inside gas-discharge lamps, such as "neon lights". These lights are called after neon but often contain other gases and phosphors, which add various hues to the orange-red color of neon. Xenon is commonly used in xenon arc lamps, which, due to their nearly continuous spectrum that resembles daylight, find application in film projectors and as automobile headlamps.[100]
+used in IMAX projectors|alt=Elongated glass sphere with two metal rod electrodes inside, facing each other. One electrode is blunt and another is sharpened.]] Noble gases are commonly used in lighting because of their lack of chemical reactivity. Argon, mixed with nitrogen, is used as a filler gas for incandescent light bulbs.[98] Krypton is used in high-performance light bulbs, which have higher color temperatures and greater efficiency, because it reduces the rate of evaporation of the filament more than argon; halogen lamps, in particular, use krypton mixed with small amounts of compounds of iodine or bromine.[99] The noble gases glow in distinctive colors when used inside gas-discharge lamps, such as "neon lights". These lights are called after neon but often contain other gases and phosphors, which add various hues to the orange-red color of neon. Xenon is commonly used in xenon arc lamps, which, due to their nearly continuous spectrum that resembles daylight, find application in film projectors and as automobile headlamps.[100]
 
 The noble gases are used in excimer lasers, which are based on short-lived electronically excited molecules known as excimers. The excimers used for lasers may be noble gas dimers such as Ar₂, Kr₂ or Xe₂, or more commonly, the noble gas is combined with a halogen in excimers such as ArF, KrF, XeF, or XeCl. These lasers produce ultraviolet light, which, due to its short wavelength (193 nm for ArF and 248 nm for KrF), allows for high-precision imaging. Excimer lasers have many industrial, medical, and scientific applications. They are used for microlithography and microfabrication, which are essential for integrated circuit manufacture, and for laser surgery, including laser angioplasty and eye surgery.[101]
 
@@ -175,17 +169,17 @@ Noble gases, particularly xenon, are predominantly used in ion engines due to th
 
 Discharge color
 
-+---------------------------+-------------------------+--------------------------+----------------------------+--------------------------+
-| Helium-glow.jpg           | Neon-glow.jpg           | Argon-glow.jpg           | Krypton-glow.jpg           | Xenon-glow.jpg           |
-+---------------------------+-------------------------+--------------------------+----------------------------+--------------------------+
-| Helium_discharge_tube.jpg | Neon_discharge_tube.jpg | Argon_discharge_tube.jpg | Krypton_discharge_tube.jpg | Xenon_discharge_tube.jpg |
-+---------------------------+-------------------------+--------------------------+----------------------------+--------------------------+
-| HeTube.jpg                | NeTube.jpg              | ArTube.jpg               | KrTube.jpg                 | XeTube.jpg               |
-+---------------------------+-------------------------+--------------------------+----------------------------+--------------------------+
-| Helium_spectra.jpg        | Neon_spectra.jpg        | Argon_Spectrum.png       | Krypton_Spectrum.jpg       | Xenon_Spectrum.jpg       |
-+---------------------------+-------------------------+--------------------------+----------------------------+--------------------------+
-| Helium                    | Neon                    | Argon                    | Krypton                    | Xenon                    |
-+---------------------------+-------------------------+--------------------------+----------------------------+--------------------------+
++--------+------+-------+---------+-------+
+|        |      |       |         |       |
++--------+------+-------+---------+-------+
+|        |      |       |         |       |
++--------+------+-------+---------+-------+
+|        |      |       |         |       |
++--------+------+-------+---------+-------+
+|        |      |       |         |       |
++--------+------+-------+---------+-------+
+| Helium | Neon | Argon | Krypton | Xenon |
++--------+------+-------+---------+-------+
 
 : Colors and spectra (bottom row) of electric discharge in noble gases; only the second row represents pure gases.
 

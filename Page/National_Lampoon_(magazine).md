@@ -13,7 +13,7 @@ After a shaky start for a few issues, the magazine rapidly grew in popularity. L
 
 Thomas Carney, writing in New Times, traced the history and style of the National Lampoon and the impact it had on comedy's new wave. "The National Lampoon," Carney wrote, "was the first full-blown appearance of non-Jewish humor in years--not anti-Semitic, just non-Jewish. Its roots were W.A.S.P. and Irish Catholic, with a weird strain of Canadian detachment. . . . This was not Jewish street-smart humor as a defense mechanism; this was slash-and-burn stuff that alternated in pitch but moved very much on the offensive. It was always disrespect everything, mostly yourself, a sort of reverse deism."
 
-TeddyVWad.jpg print advertisement mocking Ted Kennedy's Chappaquiddick incident.]]
+print advertisement mocking Ted Kennedy's Chappaquiddick incident.]]
 
 _National Lampoon_ was a monthly magazine for most of its publication history. Numerous "special editions" were also published and sold simultaneously on newsstands. Some of the special editions were anthologies of reprinted material; others were entirely original. Additional projects included a calendar, a songbook, a collection of transfer designs for T-shirts, and a number of books. The magazine sold yellow binders with the Lampoon logo, designed to store a year's worth of issues.
 

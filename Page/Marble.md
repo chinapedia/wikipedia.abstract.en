@@ -1,11 +1,11 @@
-Marmo_z17.JPG quarry in Italy]] Taj_Mahal_in_March_2004.jpg is entirely clad in marble.]] MARBLE is a metamorphic rock composed of recrystallized carbonate minerals, most commonly calcite or dolomite. Marble is typically not foliated, although there are exceptions. In geology, the term "marble" refers to metamorphosed limestone, but its use in stonemasonry more broadly encompasses unmetamorphosed limestone.[1] Marble is commonly used for sculpture and as a building material.
+quarry in Italy]] is entirely clad in marble.]] MARBLE is a metamorphic rock composed of recrystallized carbonate minerals, most commonly calcite or dolomite. Marble is typically not foliated, although there are exceptions. In geology, the term "marble" refers to metamorphosed limestone, but its use in stonemasonry more broadly encompasses unmetamorphosed limestone.[1] Marble is commonly used for sculpture and as a building material.
 
 
 Etymology
 
-Car_of_history.jpg, the _Car of History_, depicting Clio, the Greek muse of history.]] Marble_wall_of_Ruskeala.jpg. Republic of Karelia, Russia]] The word "marble" derives from the Ancient Greek (),[2] from (), "crystalline rock, shining stone",[3][4] perhaps from the verb (), "to flash, sparkle, gleam";[5] R. S. P. Beekes has suggested that a "Pre-Greek origin is probable".[6]
+, the _Car of History_, depicting Clio, the Greek muse of history.]] . Republic of Karelia, Russia]] The word "marble" derives from the Ancient Greek (),[2] from (), "crystalline rock, shining stone",[3][4] perhaps from the verb (), "to flash, sparkle, gleam";[5] R. S. P. Beekes has suggested that a "Pre-Greek origin is probable".[6]
 
-Catedraldemarmol.JPG, Chile]] This stem is also the ancestor of the English word "marmoreal", meaning "marble-like." While the English term "marble" resembles the French , most other European languages (with words like "marmoreal") more closely resemble the original Ancient Greek.
+, Chile]] This stem is also the ancestor of the English word "marmoreal", meaning "marble-like." While the English term "marble" resembles the French , most other European languages (with words like "marmoreal") more closely resemble the original Ancient Greek.
 
 
 Physical origins
@@ -41,7 +41,7 @@ Examples of historically notable marble varieties and locations:
 
 Uses
 
-AMI_-_Marmoramphora.jpg of veined marble from Zakros. New palace period (1500–1450 BC), Heraklion Archaeological Museum, Crete.]] Farcot_and_Carrier-Belleuse_Conical_Mystery_Clock.jpg with a red griotte marble pedestal]] Romblon_island_089col.jpg, Philippines.]]
+of veined marble from Zakros. New palace period (1500–1450 BC), Heraklion Archaeological Museum, Crete.]] with a red griotte marble pedestal]] , Philippines.]]
 
 Sculpture
 
@@ -85,7 +85,7 @@ The haloalkaliphilic methylotrophic bacterium _Methylophaga murata_ was isolated
 
 Cultural associations
 
-Jadwiga_CP.jpg's sarcophagus by Antoni Madeyski, Wawel Cathedral, Cracow]] Detail_of_Sculptural_Relief_on_the_Marble_Door_of_the_Hagia_Sophia_in_Istanbul,_Turkey.jpg on the Marble Door of the Hagia Sophia in Istanbul]] As the favorite medium for Greek and Roman sculptors and architects (see classical sculpture), marble has become a cultural symbol of tradition and refined taste. Its extremely varied and colorful patterns make it a favorite decorative material, and it is often imitated in background patterns for computer displays, etc.
+'s sarcophagus by Antoni Madeyski, Wawel Cathedral, Cracow]] on the Marble Door of the Hagia Sophia in Istanbul]] As the favorite medium for Greek and Roman sculptors and architects (see classical sculpture), marble has become a cultural symbol of tradition and refined taste. Its extremely varied and colorful patterns make it a favorite decorative material, and it is often imitated in background patterns for computer displays, etc.
 
 Places named after the stone include Marblehead, Massachusetts; Marblehead, Ohio; Marble Arch, London; the Sea of Marmara; India's Marble Rocks; and the towns of Marble, Minnesota; Marble, Colorado; Marble Falls, Texas, and Marble Hill, Manhattan, New York. The Elgin Marbles are marble sculptures from the Parthenon in Athens that are on display in the British Museum. They were brought to Britain by the Earl of Elgin.
 

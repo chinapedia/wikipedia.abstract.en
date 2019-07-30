@@ -12,7 +12,7 @@ Polar treks
 
 Belgian Antarctic Expedition
 
-Belgica_schiff.jpg Amundsen joined the Belgian Antarctic Expedition as first mate. This expedition, led by Adrien de Gerlache using the ship the RV _Belgica_, became the first expedition to overwinter in Antarctica.[7] The _Belgica_, whether by mistake or design, became locked in the sea ice at 70°30′S off Alexander Island, west of the Antarctic Peninsula. The crew endured a winter for which they were poorly prepared.
+Amundsen joined the Belgian Antarctic Expedition as first mate. This expedition, led by Adrien de Gerlache using the ship the RV _Belgica_, became the first expedition to overwinter in Antarctica.[7] The _Belgica_, whether by mistake or design, became locked in the sea ice at 70°30′S off Alexander Island, west of the Antarctic Peninsula. The crew endured a winter for which they were poorly prepared.
 
 By Amundsen's own estimation, the doctor for the expedition, the American Frederick Cook, probably saved the crew from scurvy by hunting for animals and feeding the crew fresh meat. In cases where citrus fruits are lacking, fresh meat from animals that make their own vitamin C contains enough of the vitamin to prevent scurvy, and even partly treat it. This was an important lesson for Amundsen's future expeditions.
 
@@ -28,7 +28,7 @@ At this time, Amundsen learned of the dissolution of the union between Norway an
 
 South Pole Expedition
 
-Aan_de_Zuidpool_-_p1913-160.jpg Amundsen next planned to take an expedition to the North Pole and explore the Arctic Basin. Finding it difficult to raise funds, when he heard in 1909 that the Americans Frederick Cook and Robert Peary had claimed to reach the North Pole as a result of two different expeditions, he decided to reroute to Antarctica.[15] He was not clear about his intentions, and Robert F. Scott and the Norwegian supporters felt misled.[16] Scott was planning his own expedition to the South Pole that year. Using the ship , earlier used by Fridtjof Nansen, Amundsen left Oslo for the south on 3 June 1910.[17][18] At Madeira, Amundsen alerted his men that they would be heading to Antarctica, and sent a telegram to Scott: "Beg to inform you _Fram_ proceeding Antarctic—Amundsen."[19]
+Amundsen next planned to take an expedition to the North Pole and explore the Arctic Basin. Finding it difficult to raise funds, when he heard in 1909 that the Americans Frederick Cook and Robert Peary had claimed to reach the North Pole as a result of two different expeditions, he decided to reroute to Antarctica.[15] He was not clear about his intentions, and Robert F. Scott and the Norwegian supporters felt misled.[16] Scott was planning his own expedition to the South Pole that year. Using the ship , earlier used by Fridtjof Nansen, Amundsen left Oslo for the south on 3 June 1910.[17][18] At Madeira, Amundsen alerted his men that they would be heading to Antarctica, and sent a telegram to Scott: "Beg to inform you _Fram_ proceeding Antarctic—Amundsen."[19]
 
 Nearly six months later, the expedition arrived at the eastern edge of the Ross Ice Shelf (then known as "the Great Ice Barrier"), at a large inlet called the Bay of Whales, on 14 January 1911. Amundsen established his base camp there, calling it . Amundsen eschewed the heavy wool clothing worn on earlier Antarctic attempts in favour of adopting Inuit-style furred skins.[20]
 
@@ -43,7 +43,7 @@ Amundsen's expedition benefited from his careful preparation, good equipment, ap
 
 Northeast Passage
 
-Polarskipet_Maud.jpg In 1918, an expedition Amundsen began with a new ship, , lasted until 1925. _Maud_ was carefully navigated through the ice west to east through the Northeast Passage. With him on this expedition were Oscar Wisting and Helmer Hanssen, both of whom had been part of the team to reach the South Pole. In addition, Henrik Lindstrøm was included as a cook. He suffered a stroke and was so physically reduced that he could not participate.
+In 1918, an expedition Amundsen began with a new ship, , lasted until 1925. _Maud_ was carefully navigated through the ice west to east through the Northeast Passage. With him on this expedition were Oscar Wisting and Helmer Hanssen, both of whom had been part of the team to reach the South Pole. In addition, Henrik Lindstrøm was included as a cook. He suffered a stroke and was so physically reduced that he could not participate.
 
 The goal of the expedition was to explore the unknown areas of the Arctic Ocean, strongly inspired by Fridtjof Nansen's earlier expedition with _Fram_. The plan was to sail along the coast of Siberia and go into the ice farther to the north and east than Nansen had. In contrast to Amundsen's earlier expeditions, this was expected to yield more material for academic research, and he carried the geophysicist Harald Sverdrup on board.
 
@@ -64,14 +64,14 @@ Although he was unable to reach the North Pole, the scientific results of the ex
 
 Reaching the North Pole
 
-Roald_Amundsen_Svalbard_1925.jpg In 1925, accompanied by Lincoln Ellsworth, pilot Hjalmar Riiser-Larsen, and three other team members, Amundsen took two Dornier Do J flying boats, the N-24 and N-25, to 87° 44′ north. It was the northernmost latitude reached by plane up to that time. The aircraft landed a few miles apart without radio contact, yet the crews managed to reunite. The N-24 was damaged. Amundsen and his crew worked for more than three weeks to clean up an airstrip to take off from ice. They shovelled 600 tons of ice while consuming only one pound (400 g) of daily food rations. In the end, the six crew members were packed into the N-25. In a remarkable feat, Riiser-Larsen took off, and they barely became airborne over the cracking ice. They returned triumphant when everyone thought they had been lost forever.
+In 1925, accompanied by Lincoln Ellsworth, pilot Hjalmar Riiser-Larsen, and three other team members, Amundsen took two Dornier Do J flying boats, the N-24 and N-25, to 87° 44′ north. It was the northernmost latitude reached by plane up to that time. The aircraft landed a few miles apart without radio contact, yet the crews managed to reunite. The N-24 was damaged. Amundsen and his crew worked for more than three weeks to clean up an airstrip to take off from ice. They shovelled 600 tons of ice while consuming only one pound (400 g) of daily food rations. In the end, the six crew members were packed into the N-25. In a remarkable feat, Riiser-Larsen took off, and they barely became airborne over the cracking ice. They returned triumphant when everyone thought they had been lost forever.
 
 In 1926, Amundsen and 15 other men (including Ellsworth, Riiser-Larsen, Oscar Wisting, and the Italian air crew led by aeronautical engineer Umberto Nobile) made the first crossing of the Arctic in the airship _Norge,_ designed by Nobile.[26][27] They left Spitsbergen on 11 May 1926, and they landed in Alaska two days later. The three previous claims to have arrived at the North Pole: Frederick Cook in 1908; Robert Peary in 1909; and Richard E. Byrd in 1926 (just a few days before the _Norge_) are all disputed, as being either of dubious accuracy or outright fraud.[28][29] If these other claims are false, the crew of the _Norge_ would be the first explorers verified to have reached the North Pole.[30] If the _Norge_ expedition was the first to the North Pole, Amundsen and Oscar Wisting were the first men to have reached both geographical poles, by ground or by air.
 
 
 Disappearance and supposed death
 
-Latham_47_Roald_Amundsen_1928.jpg flying boat]] Amundsen disappeared on 18 June 1928 while flying on a rescue mission in the Arctic. His team included Norwegian pilot Leif Dietrichson, French pilot René Guilbaud, and three more Frenchmen. They were seeking missing members of Nobile's crew, whose new airship had crashed while returning from the North Pole. Amundsen's French Latham 47 flying boat never returned.
+flying boat]] Amundsen disappeared on 18 June 1928 while flying on a rescue mission in the Arctic. His team included Norwegian pilot Leif Dietrichson, French pilot René Guilbaud, and three more Frenchmen. They were seeking missing members of Nobile's crew, whose new airship had crashed while returning from the North Pole. Amundsen's French Latham 47 flying boat never returned.
 
 Later, a wing-float and bottom gasoline tank from the plane, which had been adapted as a replacement wing-float, were found near the Tromsø coast. It is believed that the plane crashed in fog in the Barents Sea, and that Amundsen and his crew were killed in the wreck, or died shortly afterward. The search for Amundsen and team was called off in September 1928 by the Norwegian government, and the bodies were never found.
 
@@ -85,7 +85,7 @@ In 1925, Amundsen was awarded the Hans Egede Medal by the Royal Danish Geographi
 
 Legacy
 
-Amundsen-scott-south_pole_station_2007.jpg]]
+]]
 
 Owing to Amundsen's numerous significant accomplishments in polar exploration, many places in both the Arctic and Antarctic are named after him. The Amundsen–Scott South Pole Station, operated by the United States Antarctic Program, was jointly named in honour of Amundsen and his rival. British novelist Roald Dahl was named after Amundsen, as was Nobel Prize laureate Roald Hoffmann.
 

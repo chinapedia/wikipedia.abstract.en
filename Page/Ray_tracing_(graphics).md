@@ -1,11 +1,11 @@
-Recursive_raytrace_of_a_sphere.png, area light sources and diffuse interreflection.]]
+, area light sources and diffuse interreflection.]]
 
 In computer graphics, RAY TRACING is a rendering technique for generating an image by tracing the path of light as pixels in an image plane and simulating the effects of its encounters with virtual objects. The technique is capable of producing a very high degree of visual realism, usually higher than that of typical scanline rendering methods, but at a greater computational cost. This makes ray tracing best suited for applications where taking a relatively long time to render a frame can be tolerated, such as in still images and film and television visual effects, and more poorly suited for real-time applications such as video games where speed is critical. Ray tracing is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering, and dispersion phenomena (such as chromatic aberration).
 
 
 Algorithm overview
 
-Ray_trace_diagram.svg Ray_Tracing_Illustration_First_Bounce.png Optical ray tracing describes a method for producing visual images constructed in 3D computer graphics environments, with more photorealism than either ray casting or scanline rendering techniques. It works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the color of the object visible through it.
+Optical ray tracing describes a method for producing visual images constructed in 3D computer graphics environments, with more photorealism than either ray casting or scanline rendering techniques. It works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the color of the object visible through it.
 
 Scenes in ray tracing are described mathematically by a programmer or by a visual artist (typically using intermediary tools). Scenes may also incorporate data from images and models captured by means such as digital photography.
 
@@ -25,8 +25,6 @@ On input we have (in calculation we use vector normalization and cross product):
 -   m, k ∈ ℕ numbers of square pixels on viewport vertical and horizontal direction
 -   i, j ∈ ℕ, 1 ≤ i ≤ k ∧ 1 ≤ j ≤ m numbers of actual pixel
 -   w⃗ ∈ ℝ^(𝟛) vertical vector which indicates where is up and down, usually w⃗ = [0, 1, 0] (not visible on picture) - roll component which determine viewport rotation around point C (where the axis of rotation is the ET section)
-
-RaysViewportSchema.png
 
 The idea is to find the position of each viewport pixel center P_(ij) which allows us to find the line going from eye E through that pixel and finally get the ray described by point E and vector R⃗_(ij) = P_(ij) − E (or its normalisation r⃗_(ij)). First we need to find the coordinates of the bottom left viewport pixel P_(1m) and find the next pixel by making a shift along directions parallel to viewport (vectors b⃗_(n) i v⃗_(n)) multiplied by the size of the pixel. Below we introduce formulas which include distance d between the eye and the viewport. However, this value will be reduced during ray normalization r⃗_(ij) (so you might as well accept that d = 1 and remove it from calculations).
 
@@ -69,7 +67,7 @@ The first ray tracing algorithm used for rendering was presented by Arthur Appel
 
 Recursive ray tracing algorithm
 
-Glasses_800_edit.png BallsRender.png and aperture shape (in this case a hexagon).]] Ray-traced_steel_balls.jpg'']] Glass_ochem.pngs a “ray” can take and how it is affected each time it encounters a surface is all controlled via software settings during ray tracing. Here, each ray was allowed to refract and reflect up to 9 times. Fresnel reflections were used. Also note the caustics. _Created with Vray_]]
+and aperture shape (in this case a hexagon).]] '']] s a “ray” can take and how it is affected each time it encounters a surface is all controlled via software settings during ray tracing. Here, each ray was allowed to refract and reflect up to 9 times. Fresnel reflections were used. Also note the caustics. _Created with Vray_]]
 
 The next important research breakthrough came from Turner Whitted in 1979.[2] Previous algorithms traced rays from the eye into the scene until they hit an object, but determined the ray color without recursively tracing more rays. Whitted continued the process. When a ray hits a surface, it can generate up to three new types of rays: reflection, refraction, and shadow.[3] A reflection ray is traced in the mirror-reflection direction. The closest object it intersects is what will be seen in the reflection. Refraction rays traveling through transparent material work similarly, with the addition that a refractive ray could be entering or exiting a material. A shadow ray is traced toward each light. If any opaque object is found between the surface and the light, the surface is in shadow and the light does not illuminate it. This recursive ray tracing added more realism to ray traced images.
 
@@ -95,7 +93,7 @@ Photon mapping is another method that uses both light-based and eye-based ray tr
 
 An additional problem occurs when light must pass through a very narrow aperture to illuminate the scene (consider a darkened room, with a door slightly ajar leading to a brightly lit room), or a scene in which most points do not have direct line-of-sight to any light source (such as with ceiling-directed light fixtures or torchieres). In such cases, only a very small subset of paths will transport energy; Metropolis light transport is a method which begins with a random search of the path space, and when energetic paths are found, reuses this information by exploring the nearby space of rays.[10]
 
-PathOfRays.svg To the right is an image showing a simple example of a path of rays recursively generated from the camera (or eye) to the light source using the above algorithm. A diffuse surface reflects light in all directions.
+To the right is an image showing a simple example of a path of rays recursively generated from the camera (or eye) to the light source using the above algorithm. A diffuse surface reflects light in all directions.
 
 First, a ray is created at an eyepoint and traced through a pixel and into the scene, where it hits a diffuse surface. From that surface the algorithm recursively generates a reflection ray, which is traced through the scene, where it hits another diffuse surface. Finally, another reflection ray is generated and traced through the scene, where it hits the light source and is absorbed. The color of the pixel now depends on the colors of the first and second diffuse surface and the color of the light emitted from the light source. For example, if the light source emitted white light and the two diffuse surfaces were blue, then the resulting color of the pixel is blue.
 

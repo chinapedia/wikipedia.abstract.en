@@ -7,7 +7,7 @@ New Caledonia is one of the northernmost parts of an almost entirely (93%) subme
 
 Composition
 
-New_Caledonia_and_Vanuatu_bathymetric_and_topographic_map-fr.jpg, formerly the New Hebrides. Click to enlarge.]]
+, formerly the New Hebrides. Click to enlarge.]]
 
 New Caledonia is made up of a main island, the Grande Terre, and several smaller islands, the Belep archipelago to the north of the Grande Terre, the Loyalty Islands to the east of the Grande Terre, the (Isle of Pines) to the south of the Grande Terre, the Chesterfield Islands and Bellona Reefs further to the west. Each of these four island groups has a different geological origin:
 
@@ -23,7 +23,7 @@ A territorial dispute exists with regard to the uninhabited Matthew and Hunter I
 
 Zealandian origin
 
-Zealandia_topography.jpg.[8]]]
+.[8]]]
 
 The New Caledonian archipelago is a microcontinental island chain which originated as a fragment of Zealandia, a nearly submerged continent or microcontinent which was part of the southern supercontinent of Gondwana during the time of the dinosaurs. The Grande Terre group of New Caledonia, with Mont Panié at as its highest point, is the most elevated part of the Norfolk Ridge, a long and mostly underwater arm of the continent.[9] While they were still one landmass, Zealandia and Australia combined broke away from Antarctica between 85 and 130 million years ago. Australia and Zealandia split apart 60–85 million years ago.[10] Although biologists consider it contrary to the evidence of surviving Gondwanan lineages, geologists consider the logical possibility that Zealandia may have been completely submerged about 23 million years ago.[11][12] While a continent like Australia consists of a large body of land surrounded by a fringe of continental shelf, Zealandia consists almost entirely of continental shelf, with the vast majority, some 93%, submerged beneath the Pacific Ocean.[13] This viewpoint is not universal. Bernard Pelletier argues that Grande Terre was completely submerged for millions of years, and hence the origin of the flora may not be local in nature, but due to long distance-dispersal.[14]
 
@@ -36,7 +36,7 @@ Since the age of the dinosaurs, as the island moved north due to the effects of 
 
 Climate
 
-Nouméa_Ile_des_Pins_Upi.JPG]] The climate of New Caledonia is tropical, modified by southeasterly trade winds. It is hot and humid. Natural hazards are posed in New Caledonia by cyclones, which occur most frequently between November and March. While rainfall in the neighboring Vanuatu islands averages two meters annually, from the north of New Caledonia to the south the rain decreases to a little over . The mean annual temperature drops over the same interval from , and seasonality becomes more pronounced. The capital, Nouméa, located on a peninsula on the southwestern coast of the island normally has a dry season which increases in intensity from August until mid-December, ending suddenly with the coming of rain in January. The northeastern coast of the island receives the most rain, with having been recorded near sea level in Pouébo.[17]
+]] The climate of New Caledonia is tropical, modified by southeasterly trade winds. It is hot and humid. Natural hazards are posed in New Caledonia by cyclones, which occur most frequently between November and March. While rainfall in the neighboring Vanuatu islands averages two meters annually, from the north of New Caledonia to the south the rain decreases to a little over . The mean annual temperature drops over the same interval from , and seasonality becomes more pronounced. The capital, Nouméa, located on a peninsula on the southwestern coast of the island normally has a dry season which increases in intensity from August until mid-December, ending suddenly with the coming of rain in January. The northeastern coast of the island receives the most rain, with having been recorded near sea level in Pouébo.[17]
 
 
 Terrain
@@ -50,7 +50,7 @@ In 1993, 12% of New Caledonian land was used for permanent pasture, with 39% occ
 
 Biological isolation
 
-Rhynochetos_jubatus_qtl1.jpg, an endemic New Caledonian bird with no close relatives. See pictures of the erected crest and of wing patterns exposed during defensive posturing at the San Diego Zoo website.]] Amborella_trichopoda_(3065968016).jpg_, the world's most primitive flowering plant]] Gekkoninae_Rhacodactylus_ciliatus_tete.png_, the not-yet-extinct crested gecko of southern Grande Terre isle]] Meiolania_platyceps.jpg'' fossil]] Given its geographical isolation since the end of the Cretaceous, New Caledonia is a refugium, in effect a biological "Noah's Ark", an island home to both unique living plants and animals and also to its own special fossil endowment. Birds such as the crested and almost flightless kagu (French, _cagou_) _Rhynochetos jubatus_, whose closest relative may be the distantly related sunbittern of South America, and plants such as _Amborella trichopoda_, the only known member of the most basal living branch of flowering plants, make this island a treasure trove and a critical concern for biologists and conservationists. The island was home to horned fossil turtles (_Meiolania mackayi_) and terrestrial fossil crocodiles (_Mekosuchus inexpectatus_) which became extinct shortly after human arrival. There are no native amphibians, with geckos holding many of their niches. The crested gecko (_Correlophus ciliatus_), thought to have gone extinct, was rediscovered in 1994.[21] At 14 inches, Leach's giant gecko (_Rhacodactylus leachianus_), the world's largest[22] and a predator of smaller lizards is another native. The only native mammals are four species of bat including the endemic New Caledonia flying fox.[23]
+, an endemic New Caledonian bird with no close relatives. See pictures of the erected crest and of wing patterns exposed during defensive posturing at the San Diego Zoo website.]] _, the world's most primitive flowering plant]] _, the not-yet-extinct crested gecko of southern Grande Terre isle]] '' fossil]] Given its geographical isolation since the end of the Cretaceous, New Caledonia is a refugium, in effect a biological "Noah's Ark", an island home to both unique living plants and animals and also to its own special fossil endowment. Birds such as the crested and almost flightless kagu (French, _cagou_) _Rhynochetos jubatus_, whose closest relative may be the distantly related sunbittern of South America, and plants such as _Amborella trichopoda_, the only known member of the most basal living branch of flowering plants, make this island a treasure trove and a critical concern for biologists and conservationists. The island was home to horned fossil turtles (_Meiolania mackayi_) and terrestrial fossil crocodiles (_Mekosuchus inexpectatus_) which became extinct shortly after human arrival. There are no native amphibians, with geckos holding many of their niches. The crested gecko (_Correlophus ciliatus_), thought to have gone extinct, was rediscovered in 1994.[21] At 14 inches, Leach's giant gecko (_Rhacodactylus leachianus_), the world's largest[22] and a predator of smaller lizards is another native. The only native mammals are four species of bat including the endemic New Caledonia flying fox.[23]
 
 New Caledonia is home to 13 of the 19 extant species of evergreens in the genus _Araucaria_. The island has been called "a kind of 'Jurassic Park'"[24] because of the archaic characteristics of its highly endemic vegetation. In addition to the basal angiosperm plant genus _Amborella_, for example, the island is home to more gymnosperm species than any other tropic landmass, with 43 of its 44 conifer species being unique to the island, which is also home to the world's only known parasitic gymnosperm, the rootless conifer _Parasitaxus usta_.[25]
 
@@ -63,8 +63,6 @@ After a formation discovered in Oman in the 1970s, New Caledonia has the planet'
 
 
 Human geography
-
-Map_OC-Melanesia.PNG
 
 Before Western contact
 

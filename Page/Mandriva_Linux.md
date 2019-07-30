@@ -15,7 +15,7 @@ Duval became the co-founder of Mandrakesoft, but was laid off from the company i
 
 Name changes
 
-Mandrake_8.0_install_screenshot.png From its inception until the release of version 8.0, Mandrake named its flagship distribution Linux-Mandrake. From version 8.1 to 9.2 the distribution name was reversed and called Mandrake Linux.
+From its inception until the release of version 8.0, Mandrake named its flagship distribution Linux-Mandrake. From version 8.1 to 9.2 the distribution name was reversed and called Mandrake Linux.
 
 In February 2004, MandrakeSoft lost a court case against Hearst Corporation, owners of King Features Syndicate. Hearst contended that MandrakeSoft infringed upon King Features' trademarked character Mandrake the Magician. As a precaution, MandrakeSoft renamed its products by removing the space between the brand name and the product name and changing the first letter of the product name to lower case, thus creating one word. Starting from version 10.0, Mandrake Linux became known as mandrakelinux, and its logo changed accordingly. Similarly, MandrakeMove (a Live CD version) became Mandrakemove.
 
@@ -34,7 +34,7 @@ Mandriva Linux 2011 was released only with KDE Plasma Desktop, whereas other des
 
 Package manager
 
-Mandriva_RPMDrake.png, Mandriva's graphical package manager]] Mandriva Linux used a package manager called urpmi, which functions as a wrapper to the .rpm binaries. It is similar to apt from Debian & Ubuntu, pacman from Arch Linux, yum or dnf from Fedora in that it allows seamless installation of a given software package by automatically installing the other packages needed. It is also media-transparent due to its ability to retrieve packages from various media, including network/Internet, CD/DVD and local disk. Urpmi also has an easy-to-use graphical front-end called rpmdrake, which is integrated into the Mandriva Control Center.
+, Mandriva's graphical package manager]] Mandriva Linux used a package manager called urpmi, which functions as a wrapper to the .rpm binaries. It is similar to apt from Debian & Ubuntu, pacman from Arch Linux, yum or dnf from Fedora in that it allows seamless installation of a given software package by automatically installing the other packages needed. It is also media-transparent due to its ability to retrieve packages from various media, including network/Internet, CD/DVD and local disk. Urpmi also has an easy-to-use graphical front-end called rpmdrake, which is integrated into the Mandriva Control Center.
 
 Live USB
 
@@ -126,7 +126,7 @@ Mandriva Linux Free was a 'traditional' distribution (i.e. one that comes with a
 
 Mandriva Linux One
 
-MandrivaOne_2008.1.jpg Mandriva Linux One was a free to download hybrid distribution, being both a Live CD and an installer (with an installation wizard that includes disk partitioning tools).
+Mandriva Linux One was a free to download hybrid distribution, being both a Live CD and an installer (with an installation wizard that includes disk partitioning tools).
 
 Several Mandriva Linux One versions were provided for each Mandriva Linux release preceding Mandriva 2008. Users could choose between different languages, select either the KDE or GNOME desktops and include or exclude non-free software. The default version included the KDE desktop with non-free software included. The One images consist of a subset of packages from the 'main', 'contrib' and 'non-free' sections of the master tree, with the documentation files stripped from the packages to save space.
 

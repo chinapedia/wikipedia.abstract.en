@@ -9,7 +9,7 @@ Life
 
 Early life
 
-Maison_de_René_DESCARTES_-_Jean-Charles_GUILLO.JPG]] DescartesGraduationRegistry.JPG, 1616]]
+]] , 1616]]
 
 René Descartes was born in La Haye en Touraine (now Descartes, Indre-et-Loire ), France, on 31 March 1596.[11] His mother, Jeanne Brochard, died soon after giving birth to him, and so he was not expected to survive.[12] Descartes's father, Joachim, was a member of the Parlement of Brittany at Rennes.[13] René lived with his grandmother and with his great-uncle. Although the Descartes family was Roman Catholic, the Poitou region was controlled by the Protestant Huguenots.[14] In 1607, late because of his fragile health, he entered the Jesuit Collège Royal Henry-Le-Grand at La Flèche,[15][16] where he was introduced to mathematics and physics, including Galileo's work.[17][18] After graduation in 1614, he studied for two years (1615–16) at the University of Poitiers, earning a _Baccalauréat_ and _Licence_ in canon and civil law in 1616,[19] in accordance with his father's wishes that he should become a lawyer.[20] From there he moved to Paris.
 
@@ -31,7 +31,7 @@ In 1620 Descartes left the army. He visited Basilica della Santa Casa in Loreto,
 
 Netherlands
 
-Westermarkt_6,_Descarteshuis_(links).JPG, Descartes lived at Westermarkt 6 (Descarteshuis, on the left).]]
+, Descartes lived at Westermarkt 6 (Descarteshuis, on the left).]]
 
 Descartes returned to the Dutch Republic in 1628.[38] In April 1629 he joined the University of Franeker, studying under Adriaan Metius, either living with a Catholic family or renting the Sjaerdemaslot. The next year, under the name "Poitevin", he enrolled at the Leiden University to study mathematics with Jacobus Golius, who confronted him with Pappus's hexagon theorem, and astronomy with Martin Hortensius.[39] In October 1630 he had a falling-out with Beeckman, whom he accused of plagiarizing some of his ideas. In Amsterdam, he had a relationship with a servant girl, Helena Jans van der Strom, with whom he had a daughter, Francine, who was born in 1635 in Deventer. She died of scarlet fever at the age of 5.
 
@@ -47,7 +47,7 @@ Descartes began (through Alfonso Polloti, an Italian general in Dutch service) a
 
 Sweden
 
-René_Descartes_i_samtal_med_Sveriges_drottning,_Kristina.jpg (left)]]
+(left)]]
 
 By 1649, Descartes had become one of Europe's most famous philosophers and scientists.[51] That year, Queen Christina of Sweden invited Descartes to her court to organize a new scientific academy and tutor her in his ideas about love. She was interested in and stimulated Descartes to publish the "Passions of the Soul", a work based on his correspondence with Princess Elisabeth.[52] Descartes accepted, and moved to Sweden in the middle of winter.[53]
 
@@ -55,7 +55,7 @@ He was a guest at the house of Pierre Chanut, living on Västerlånggatan, less 
 
 Death
 
-DescartesAshes.jpg, Paris]] Rene_Descartes_monument_in_the_Adolf_Fredriks_Kyrka_Stockholm_2.jpg
+, Paris]]
 
 Descartes apparently arranged to give lessons to Queen Christina after her birthday, three times a week at 5am, in her cold and draughty castle. It soon became clear they did not like each other; she did not care for his mechanical philosophy, nor did he share her interest in Ancient Greek. By 15 January 1650, Descartes had seen Christina only four or five times. On 1 February he contracted pneumonia and died on 11 February.[56] The cause of death was pneumonia according to Chanut, but peripneumonia according to Christina's physician Johann van Wullen who was not allowed to bleed him.[57] (The winter seems to have been mild,[58] except for the second half of January which was harsh as described by Descartes himself; however, "this remark was probably intended to be as much Descartes' take on the intellectual climate as it was about the weather.")[59]
 
@@ -73,8 +73,6 @@ Descartes concludes that he can be certain that he exists because he thinks. But
 In this manner, Descartes proceeds to construct a system of knowledge, discarding perception as unreliable and, instead, admitting only deduction as a method.[73]
 
 Dualism
-
-L'homme_V00083_00000004.tif
 
 Descartes, influenced by the automatons on display throughout the city of Paris, began to investigate the connection between the mind and body, and how the two interact.[74] His main influences for dualism were theology and physics.[75] The theory on the dualism of mind and body is Descartes's signature doctrine and permeates other theories he advanced. Known as Cartesian dualism (or Mind-Body Dualism), his theory on the separation between the mind and the body went on to influence subsequent Western philosophies. In _Meditations on First Philosophy_, Descartes attempted to demonstrate the existence of God and the distinction between the human soul and the body. Humans are a union of mind and body;[76] thus Descartes's dualism embraced the idea that mind and body are distinct but closely joined. While many contemporary readers of Descartes found the distinction between mind and body difficult to grasp, he thought it was entirely straightforward. Descartes employed the concept of _modes_, which are the ways in which substances exist. In _Principles of Philosophy_, Descartes explained, "we can clearly perceive a substance apart from the mode which we say differs from it, whereas we cannot, conversely, understand the mode apart from the substance". To perceive a mode apart from its substance requires an intellectual abstraction,[77] which Descartes explained as follows:
 
@@ -108,7 +106,7 @@ Humans should seek the sovereign good that Descartes, following Zeno, identifies
 
 Religion
 
-Descartes3.jpg In the third and fifth _Meditation_, he offers an ontological proof of a benevolent God (through both the ontological argument and trademark argument). Because God is benevolent, he can have some faith in the account of reality his senses provide him, for God has provided him with a working mind and sensory system and does not desire to deceive him. From this supposition, however, he finally establishes the possibility of acquiring knowledge about the world based on deduction _and_ perception. Regarding epistemology, therefore, he can be said to have contributed such ideas as a rigorous conception of foundationalism and the possibility that reason is the only reliable method of attaining knowledge. He, nevertheless, was very much aware that experimentation was necessary to verify and validate theories.[101]
+In the third and fifth _Meditation_, he offers an ontological proof of a benevolent God (through both the ontological argument and trademark argument). Because God is benevolent, he can have some faith in the account of reality his senses provide him, for God has provided him with a working mind and sensory system and does not desire to deceive him. From this supposition, however, he finally establishes the possibility of acquiring knowledge about the world based on deduction _and_ perception. Regarding epistemology, therefore, he can be said to have contributed such ideas as a rigorous conception of foundationalism and the possibility that reason is the only reliable method of attaining knowledge. He, nevertheless, was very much aware that experimentation was necessary to verify and validate theories.[101]
 
 In his _Meditations on First Philosophy_ Descartes sets forth two proofs for God's existence. One of these is founded upon the possibility of thinking the "idea of a being that is supremely perfect and infinite," and suggests that "of all the ideas that are in me, the idea that I have of God is the most true, the most clear and distinct."[102] Descartes considered himself to be a devout Catholic,[103][104][105] and one of the purposes of the _Meditations_ was to defend the Catholic faith. His attempt to ground theological beliefs on reason encountered intense opposition in his time, however: Pascal regarded Descartes's views as rationalist and mechanist, and accused him of deism: "I cannot forgive Descartes; in all his philosophy, Descartes did his best to dispense with God. But Descartes could not avoid prodding God to set the world in motion with a snap of his lordly fingers; after that, he had no more use for God," while a powerful contemporary, Martin Schoock, accused him of atheist beliefs, though Descartes had provided an explicit critique of atheism in his _Meditations_. The Catholic Church prohibited his books in 1663.[106][107] Descartes also wrote a response to external world skepticism. Through this method of scepticism, he does not doubt for the sake of doubting but to achieve concrete and reliable information. In other words, certainty. He argues that sensory perceptions come to him involuntarily, and are not willed by him. They are external to his senses, and according to Descartes, this is evidence of the existence of something outside of his mind, and thus, an external world. Descartes goes on to show that the things in the external world are material by arguing that God would not deceive him as to the ideas that are being transmitted, and that God has given him the "propensity" to believe that such ideas are caused by material things. Descartes also believes a substance is something that does not need any assistance to function or exist. Descartes further explains how only God can be a true “substance”. But minds are substances, meaning they need only God for it to function. The mind is a thinking substance. The means for a thinking substance stem from ideas.[108]
 
@@ -127,8 +125,6 @@ Historical impact
 
 Emancipation from Church doctrine
 
-DescartesMeditations.png
-
 Descartes has often been dubbed the father of modern Western philosophy, the thinker whose approach has profoundly changed the course of Western philosophy and set the basis for modernity.[118][119] The first two of his _Meditations on First Philosophy_, those that formulate the famous methodic doubt, represent the portion of Descartes's writings that most influenced modern thinking.[120] It has been argued that Descartes himself didn't realize the extent of this revolutionary move.[121] In shifting the debate from "what is true" to "of what can I be certain?," Descartes arguably shifted the authoritative guarantor of truth from God to humanity (even though Descartes himself claimed he received his visions from God)—while the traditional concept of "truth" implies an external authority, "certainty" instead relies on the judgment of the individual.
 
 In an anthropocentric revolution, the human being is now raised to the level of a subject, an agent, an emancipated being equipped with autonomous reason. This was a revolutionary step that established the basis of modernity, the repercussions of which are still being felt: the emancipation of humanity from Christian revelational truth and Church doctrine; humanity making its own law and taking its own stand.[122][123][124] In modernity, the guarantor of truth is not God anymore but human beings, each of whom is a "self-conscious shaper and guarantor" of their own reality.[125][126] In that way, each person is turned into a reasoning adult, a subject and agent,[127] as opposed to a child obedient to God. This change in perspective was characteristic of the shift from the Christian medieval period to the modern period, a shift that had been anticipated in other fields, and which was now being formulated in the field of philosophy by Descartes.[128][129]
@@ -136,8 +132,6 @@ In an anthropocentric revolution, the human being is now raised to the level of 
 This anthropocentric perspective of Descartes's work, establishing human reason as autonomous, provided the basis for the Enlightenment's emancipation from God and the Church. According to Martin Heidegger, the perspective of Descartes's work also provided the basis for all subsequent anthropology.[130] Descartes's philosophical revolution is sometimes said to have sparked modern anthropocentrism and subjectivism.[131][132][133][134]
 
 Mathematical legacy
-
-Cartesian_coordinates_2D.svg
 
 One of Descartes's most enduring legacies was his development of Cartesian or analytic geometry, which uses algebra to describe geometry. Descartes "invented the convention of representing unknowns in equations by _x_, _y_, and _z_, and knowns by _a_, _b_, and _c_". He also "pioneered the standard notation" that uses superscripts to show the powers or exponents; for example, the 2 used in x² to indicate x squared.[135][136] He was first to assign a fundamental place for algebra in our system of knowledge, using it as a method to automate or mechanize reasoning, particularly about abstract, unknown quantities. European mathematicians had previously viewed geometry as a more fundamental form of mathematics, serving as the foundation of algebra. Algebraic rules were given geometric proofs by mathematicians such as Pacioli, Cardan, Tartaglia and Ferrari. Equations of degree higher than the third were regarded as unreal, because a three-dimensional form, such as a cube, occupied the largest dimension of reality. Descartes professed that the abstract quantity _a²_ could represent length as well as an area. This was in opposition to the teachings of mathematicians, such as Vieta, who argued that it could represent only area. Although Descartes did not pursue the subject, he preceded Gottfried Wilhelm Leibniz in envisioning a more general science of algebra or "universal mathematics," as a precursor to symbolic logic, that could encompass logical principles and methods symbolically, and mechanize general reasoning.[137]
 
@@ -184,8 +178,6 @@ Other
 
 
 Writings
-
-Handwritten_letter_by_Descartes_December_1638.jpg René_Descartes_1644_Principia_philosophiae.jpg
 
 -   1618. _Musicae Compendium_. A treatise on music theory and the aesthetics of music written for Descartes's early collaborator, Isaac Beeckman (first posthumous edition 1650).
 -   1626–1628. _Regulae ad directionem ingenii_ (_Rules for the Direction of the Mind_). Incomplete. First published posthumously in Dutch translation in 1684 and in the original Latin at Amsterdam in 1701 (_R. Des-Cartes Opuscula Posthuma Physica et Mathematica_). The best critical edition, which includes the Dutch translation of 1684, is edited by Giovanni Crapulli (The Hague: Martinus Nijhoff, 1966).

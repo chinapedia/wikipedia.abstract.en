@@ -1,4 +1,4 @@
-Trevqrp.png tin.]]
+tin.]]
 
 In amateur radio, QRP OPERATION refers to transmitting at reduced power while attempting to maximize one's effective range. The term QRP derives from the standard Q code used in radio communications, where "QRP" and "QRP?" are used to request, "Reduce power", and ask "Should I reduce power?" respectively. The opposite of QRP is QRO, or high-power operation.
 
@@ -12,7 +12,7 @@ The current record for a QRP connection is 1 µW for 2640 kilometers (1650 mile
 
 Practice
 
-QRP_HF_Coverage_1W_vs_99W.png simulation of propagation against distance with 1W (top) and 99W (bottom) showing the reduced range.]] There is not complete agreement on what constitutes QRP power. Most amateur organizations agree that for CW, AM, FM, and data modes, the transmitter output power should be 5 watts (or less). The maximum output power for SSB (single sideband) is not always agreed upon. Some believe that the power should be no more than 10 watts peak envelope power (PEP), while others strongly hold that the power limit should be 5 watts. QRPers are known to use even less than five watts, sometimes operating with as little as 100 milliwatts or even less. Extremely low power—1 watt and below—is often referred to by hobbyists as QRPp.[3]
+simulation of propagation against distance with 1W (top) and 99W (bottom) showing the reduced range.]] There is not complete agreement on what constitutes QRP power. Most amateur organizations agree that for CW, AM, FM, and data modes, the transmitter output power should be 5 watts (or less). The maximum output power for SSB (single sideband) is not always agreed upon. Some believe that the power should be no more than 10 watts peak envelope power (PEP), while others strongly hold that the power limit should be 5 watts. QRPers are known to use even less than five watts, sometimes operating with as little as 100 milliwatts or even less. Extremely low power—1 watt and below—is often referred to by hobbyists as QRPp.[3]
 
 Communicating using QRP can be difficult since the QRPer must face the same challenges of radio propagation faced by amateurs using higher power levels, but with the inherent disadvantages associated with having a weaker signal on the receiving end, all other things being equal. QRP aficionados try to make up for this through more efficient antenna systems and enhanced operating skills.
 
@@ -35,7 +35,7 @@ A few people apply QRSS techniques to other narrow-band communication codes or p
 
 Equipment
 
-Elecraft_K2.jpg Many of the larger, more powerful commercial transceivers permit the operator to lower their output level to QRP levels. Commercial transceivers specially designed to operate at or near QRP power levels have been commercially available since the late 1960s. In 1969 the American manufacturer Ten-Tec produced the Powermite-1. This radio was one of Ten-Tec's first assembled transceivers. (The MR-1 was available, and it was essentially the same radio, albeit in kit form.) This radio featured modular construction (all stages of the transceiver were on individual circuit boards): the transmitter was capable of about one or two watts of RF, and the receiver was a direct-conversion unit, similar to that found in the Heathkit HW-7 and HW-8 lines. Many amateurs became quite adept at QRP'ing through their use of these early, trend-setting radios . As QRP has become more popular in recent years , radio manufacturers have introduced radios specifically intended for the QRP enthusiast. Popular US models include Elecraft KX3, K2 and K1, the Yaesu FT-817, the Icom IC-703, and the 516 Argonaut V and the new 539 Argonaut VI from TenTec.[8] Another popular source is Hendricks QRP Kits, which offers a variety of popular kits. Enthusiasts operate QRP radios on the HF bands in portable modes, usually carrying the radios in backpacks, with whip antennas. Some QRPers prefer to construct their equipment from kits or homebrew it from scratch. Many popular designs are based on the NE612 mixer IC, i.e. the K1, K2, ATS series and the Softrock SDR.
+Many of the larger, more powerful commercial transceivers permit the operator to lower their output level to QRP levels. Commercial transceivers specially designed to operate at or near QRP power levels have been commercially available since the late 1960s. In 1969 the American manufacturer Ten-Tec produced the Powermite-1. This radio was one of Ten-Tec's first assembled transceivers. (The MR-1 was available, and it was essentially the same radio, albeit in kit form.) This radio featured modular construction (all stages of the transceiver were on individual circuit boards): the transmitter was capable of about one or two watts of RF, and the receiver was a direct-conversion unit, similar to that found in the Heathkit HW-7 and HW-8 lines. Many amateurs became quite adept at QRP'ing through their use of these early, trend-setting radios . As QRP has become more popular in recent years , radio manufacturers have introduced radios specifically intended for the QRP enthusiast. Popular US models include Elecraft KX3, K2 and K1, the Yaesu FT-817, the Icom IC-703, and the 516 Argonaut V and the new 539 Argonaut VI from TenTec.[8] Another popular source is Hendricks QRP Kits, which offers a variety of popular kits. Enthusiasts operate QRP radios on the HF bands in portable modes, usually carrying the radios in backpacks, with whip antennas. Some QRPers prefer to construct their equipment from kits or homebrew it from scratch. Many popular designs are based on the NE612 mixer IC, i.e. the K1, K2, ATS series and the Softrock SDR.
 
 
 Contests and awards
@@ -62,8 +62,6 @@ Notes
 External links
 
 -   QRP and CW from a new operator perspective
-
-"40-9'er"_QRP_CW_Transceiver.jpg
 
 -   Forum dedicated to QRP operation
 -   QRP WebRing Home

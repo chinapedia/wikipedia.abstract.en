@@ -1,4 +1,4 @@
-WessexBankStatement.png header (from a fictitious bank ), showing the location of the account's IBAN]]
+header (from a fictitious bank ), showing the location of the account's IBAN]]
 
 The INTERNATIONAL BANK ACCOUNT NUMBER (IBAN) is an internationally agreed system of identifying bank accounts across national borders to facilitate the communication and processing of cross border transactions with a reduced risk of transcription errors. It was originally adopted by the European Committee for Banking Standards (ECBS), and later as an international standard under ISO 13616:1997. The current standard is ISO 13616:2007, which indicates SWIFT as the formal registrar. Initially developed to facilitate payments within the European Union, it has been implemented by most European countries and numerous countries in the other parts of the world, mainly in the Middle East and in the Caribbean. As of February 2016, 69 countries were using the IBAN numbering system.[1]
 
@@ -150,8 +150,6 @@ From step 8, the final result is _D_ mod 97 = 1 and the IBAN has passed this che
 
 Adoption
 
-Adoption of the IBAN (as of January 1, 2014)
-
 International bank transactions use either an IBAN or the ISO 9362 Business Identifier Code system (BIC or SWIFT code) in conjunction with the BBAN (Basic Bank Account Number).
 
 EEA and territories
@@ -160,7 +158,7 @@ The banks of most countries in Europe publish account numbers using both the IBA
 
 Day-to-day administration of banking in British Overseas Territories varies from territory to territory; some, such as South Georgia and the South Sandwich Islands, have too small a population to warrant a banking system while others, such as Bermuda, have a thriving financial sector.[28] The use of the IBAN is up to the local government—Gibraltar, being part of the European Union is required to use the IBAN,[29], as are the Crown dependencies, which use the British clearing system,[30] and the British Virgin Islands have chosen to do so. , no other British Overseas Territories have chosen to use the IBAN.[31] Banks in the Caribbean Netherlands also do not use the IBAN.
 
-Euro_banknotes_2002.png.]]
+.]]
 
 Single Euro Payments Area
 

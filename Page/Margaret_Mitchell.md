@@ -5,8 +5,6 @@ Family history
 
 Margaret Mitchell was a Southerner and a lifelong resident and native of Atlanta, Georgia. She was born in 1900 into a wealthy and politically prominent family. Her father, Eugene Muse Mitchell, was an attorney, and her mother, Mary Isabel "May Belle" (or "Maybelle") Stephens, was a suffragist. She had two brothers, Russell Stephens Mitchell, who died in infancy in 1894, and Alexander Stephens Mitchell, born in 1896.[3][4]
 
-Eugene_Muse_Mitchell.jpg
-
 Mitchell's family on her father's side were descendants of Thomas Mitchell, originally of Aberdeenshire, Scotland, who settled in Wilkes County, Georgia in 1777, and served in the American Revolutionary War. Her grandfather, Russell Crawford Mitchell, of Atlanta, enlisted in the Confederate States Army on June 24, 1861, and served in Hood's Texas Brigade. He was severely wounded at the Battle of Sharpsburg, demoted for "inefficiency," and detailed as a nurse in Atlanta.[5] After the Civil War, he made a large fortune supplying lumber for the rapid rebuilding of Atlanta. Russell Mitchell had thirteen children from two wives; the eldest was Eugene, who graduated from the University of Georgia Law School.[6][7][8]
 
 Mitchell's maternal great-grandfather, Philip Fitzgerald, emigrated from Ireland and eventually settled on a slaveholding plantation near Jonesboro, Georgia, where he had one son and seven daughters with his wife, Elenor. Mitchell's grandparents, married in 1863, were Annie Fitzgerald and John Stephens; he had also emigrated from Ireland and became a Captain in the Confederate States Army. John Stephens was a prosperous real estate developer after the Civil War and one of the founders of the Gate City Street Railroad (1881), a mule-drawn Atlanta trolley system. John and Annie Stephens had twelve children together; the seventh child was May Belle Stephens, who married Eugene Mitchell.[9][10][11] May Belle Stephens had studied at the Bellevue Convent in Quebec and completed her education at the Atlanta Female Institute.[12]
@@ -24,7 +22,7 @@ Grandmother Annie Stephens was quite a character, both vulgar and a tyrant. Afte
 
 Girlhood on Jackson Hill
 
-Little_Jimmy-He_Keeps_Clean_1905.jpg]] In an accident that was traumatic for her mother although she was unharmed, when little Margaret was about three years old, her dress caught fire on an iron grate. Fearing it would happen again, her mother began dressing her in boys' pants, and she was nicknamed "Jimmy", the name of a character in the comic strip, _Little Jimmy_.[19] Her brother insisted she would have to be a boy named Jimmy to play with him. Having no sisters to play with, Margaret said she was a boy named Jimmy until she was fourteen.[20]
+]] In an accident that was traumatic for her mother although she was unharmed, when little Margaret was about three years old, her dress caught fire on an iron grate. Fearing it would happen again, her mother began dressing her in boys' pants, and she was nicknamed "Jimmy", the name of a character in the comic strip, _Little Jimmy_.[19] Her brother insisted she would have to be a boy named Jimmy to play with him. Having no sisters to play with, Margaret said she was a boy named Jimmy until she was fourteen.[20]
 
 Stephens Mitchell said his sister was a tomboy who would happily play with dolls occasionally, and she liked to ride her Texas plains pony.[21] As a little girl, Margaret went riding every afternoon with a Confederate veteran and a young lady of "beau-age".[22]
 
@@ -38,7 +36,7 @@ Margaret's father was not in favor of corporal punishment in school. During his 
 
 Jackson Hill was an old, affluent part of the city.[33] At the bottom of Jackson Hill was an area of African American homes and businesses called "Darktown". The mayhem of the Atlanta Race Riot occurred over four days in September 1906 when Mitchell was five years old.[34] Local newspapers alleged that several white women had been assaulted by black men,[35] prompting an angry mob of 10,000 to assemble in the streets.
 
-Eugene Mitchell went to bed early the night the rioting began, but was awakened by the sounds of gunshots. The following morning he learned 16 Negroes had been killed. He wrote to his wife that rioters attempted to kill every Negro in sight. As the rioting continued, rumors ran wild that Negroes would burn Jackson Hill.[36] At Margaret's suggestion, her father, who did not own a gun, stood guard with a sword.[37] Though she and her family were unharmed, twenty years later Margaret was able to recall the terror she felt during the riot.[38] Mitchell grew up in a Southern culture where the threat of black on white rape incited mob violence, and in this world, white Georgians lived in fear of the "black beast rapist".[39] Peach_Tree_Street_Atlanta_1907.jpg card showing the business district on Peachtree Street ca. 1907. The Mitchells' new home was about 3 miles from here.[40]]] Soon after the riot, Margaret's family decided to move away from Jackson Hill.[41] In 1912, they moved to the east side of Peachtree Street just north of Seventeenth Street in Atlanta. Past the nearest neighbor's house was forest and beyond it the Chattahoochee River.[42] Mitchell's former Jackson Hill home was destroyed in the Great Atlanta Fire of 1917.[43]
+Eugene Mitchell went to bed early the night the rioting began, but was awakened by the sounds of gunshots. The following morning he learned 16 Negroes had been killed. He wrote to his wife that rioters attempted to kill every Negro in sight. As the rioting continued, rumors ran wild that Negroes would burn Jackson Hill.[36] At Margaret's suggestion, her father, who did not own a gun, stood guard with a sword.[37] Though she and her family were unharmed, twenty years later Margaret was able to recall the terror she felt during the riot.[38] Mitchell grew up in a Southern culture where the threat of black on white rape incited mob violence, and in this world, white Georgians lived in fear of the "black beast rapist".[39] card showing the business district on Peachtree Street ca. 1907. The Mitchells' new home was about 3 miles from here.[40]]] Soon after the riot, Margaret's family decided to move away from Jackson Hill.[41] In 1912, they moved to the east side of Peachtree Street just north of Seventeenth Street in Atlanta. Past the nearest neighbor's house was forest and beyond it the Chattahoochee River.[42] Mitchell's former Jackson Hill home was destroyed in the Great Atlanta Fire of 1917.[43]
 
 The South of _Gone with the Wind_
 
@@ -121,7 +119,7 @@ In April 1922, Mitchell was seeing two men almost daily: one was Berrien ("Red")
 
 Although her family disapproved, Peggy and Red married on September 2, 1922; the best man at their wedding was John Marsh, who would become her second husband. The couple resided at the Mitchell home with her father. By December the marriage to Upshaw had dissolved and he left. Mitchell suffered physical and emotional abuse, the result of Upshaw's alcoholism and violent temper. Upshaw agreed to an uncontested divorce after John Marsh gave him a loan and Mitchell agreed not to press assault charges against him.[122][123][124] Upshaw and Mitchell were divorced on October 16, 1924.[125]
 
-On July 4, 1925, 24-year-old Margaret Mitchell and 29-year-old John Marsh were married in the Unitarian-Universalist Church.[126] The Marshes made their home at the Crescent Apartments in Atlanta, taking occupancy of Apt. 1, which they affectionately named "The Dump" (now the Margaret Mitchell House and Museum).[127] Crescent_Apartments,_Atlanta,_Georgia.jpg]]
+On July 4, 1925, 24-year-old Margaret Mitchell and 29-year-old John Marsh were married in the Unitarian-Universalist Church.[126] The Marshes made their home at the Crescent Apartments in Atlanta, taking occupancy of Apt. 1, which they affectionately named "The Dump" (now the Margaret Mitchell House and Museum).[127] ]]
 
 
 Reporter for _The Atlanta Journal_
@@ -193,7 +191,7 @@ To aid her in her literary endeavors, John Marsh brought home a Remington Portab
 
 World War II
 
-Margaret_Mitchell_Christens_USS_Atlanta_(CL-104)_1944.jpg Margaret_Mitchell_1941_on_USS_Atlanta_(CL-51).jpg During World War II, Margaret Mitchell was a volunteer for the American Red Cross and she raised money for the war effort by selling war bonds.[169] She was active in Home Defense, sewed hospital gowns and put patches on trousers.[170] Her personal attention, however, was devoted to writing letters to men in uniform—soldiers, sailors and marines, sending them humor, encouragement, and her sympathy.[171]
+During World War II, Margaret Mitchell was a volunteer for the American Red Cross and she raised money for the war effort by selling war bonds.[169] She was active in Home Defense, sewed hospital gowns and put patches on trousers.[170] Her personal attention, however, was devoted to writing letters to men in uniform—soldiers, sailors and marines, sending them humor, encouragement, and her sympathy.[171]
 
 The USS _Atlanta_ (CL-51) was light cruiser used as an anti-aircraft ship of the United States Navy sponsored by Margaret Mitchell and used in the naval Battle of Midway and the Eastern Solomons. The ship was heavily damaged during night surface action on November 13, 1942, during the Naval Battle of Guadalcanal and subsequently scuttled on orders of her captain having earned five battle stars and a Presidential Unit Citation as an "heroic example of invincible fighting spirit".[172]
 
@@ -202,7 +200,7 @@ Mitchell sponsored a second light cruiser named after the city of Atlanta, the U
 
 Death and Legacy
 
-MargaretMitchell-grave.jpg, Atlanta]] Margaret Mitchell was struck by a speeding automobile as she crossed Peachtree Street at 13th Street in Atlanta with her husband, John Marsh, while on her way to see the movie _A Canterbury Tale_ on the evening of August 11, 1949. She died at age 48 at Grady Hospital five days later on August 16 without fully regaining consciousness.
+, Atlanta]] Margaret Mitchell was struck by a speeding automobile as she crossed Peachtree Street at 13th Street in Atlanta with her husband, John Marsh, while on her way to see the movie _A Canterbury Tale_ on the evening of August 11, 1949. She died at age 48 at Grady Hospital five days later on August 16 without fully regaining consciousness.
 
 The driver, Hugh Gravitt, was an off-duty taxi driver who was driving his personal vehicle when he struck Mitchell. After the accident, Gravitt was arrested for drunken driving and released on a $5,450 bond until Mitchell's death.[174]
 

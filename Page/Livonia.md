@@ -1,5 +1,3 @@
-Sw_BalticProv_en.png Governorate_of_Livonia_1820.jpg
-
 LIVONIA (, , German and Scandinavian languages: __, Latvian and , , archaic English _Livland_,[1] _Liwlandia_; ) is a historical region on the eastern shores of the Baltic Sea. It is named after the Livonians, who lived on the shores of present-day Latvia.
 
 By the end of the 13th century, the name was extended to most of present-day Estonia and Latvia that had been conquered during the Livonian Crusade (1193–1290) by the Livonian Brothers of the Sword. Medieval Livonia, or Terra Mariana, reached its greatest extent after Saint George's Night Uprising that in 1346 forced Denmark to sell the Duchy of Estonia (northern Estonia conquered by Denmark in the 13th century) to the State of the Teutonic Order. Livonia, as understood after the retreat of Denmark in 1346, bordered on the Gulf of Finland in the north, Lake Peipus and Russia to the east, and Lithuania to the south.
@@ -11,7 +9,7 @@ The indigenous inhabitants of Livonia were various Finnic tribes in the north an
 
 History
 
-Europe_mediterranean_1190.jpg, 1190 AD]] Beginning in the 12th century, Livonia was an area of economic and political expansion by Danes and Germans, particularly by the Hanseatic League and the Cistercian Order. Around 1160, Hanseatic traders from Lübeck established a trading post on the site of the future city of Riga, which Albrecht von Buxthoeven founded in 1201.[2] He ordered the construction of a cathedral and became the first Prince-Bishop of Livonia.
+, 1190 AD]] Beginning in the 12th century, Livonia was an area of economic and political expansion by Danes and Germans, particularly by the Hanseatic League and the Cistercian Order. Around 1160, Hanseatic traders from Lübeck established a trading post on the site of the future city of Riga, which Albrecht von Buxthoeven founded in 1201.[2] He ordered the construction of a cathedral and became the first Prince-Bishop of Livonia.
 
 Livonian Brothers of the Sword 1204–1237
 
@@ -29,7 +27,7 @@ The Chronicle of Henry of Livonia from the 1220s gives a firsthand account of th
 
 Monastic state of the Teutonic Knights 1237-1561
 
-Teutonic_state_1250.png.]]
+.]]
 
 Livonia consisted of the following subdivisions:
 
@@ -39,7 +37,7 @@ Livonia consisted of the following subdivisions:
 
 Livonian Order 1237–1561
 
-Medieval_Livonia_1260.svg ca. 1260.]]
+ca. 1260.]]
 
 The Livonian Order was a largely autonomous branch of the Teutonic Knights (or Teutonic Order) and a member of the Livonian Confederation from 1418–1561. After being defeated by Lithuania in the 1236 Battle of Saule, the remnants of the Livonian Brothers of the Sword were incorporated into the Teutonic Knights as the Livonian Order in 1237. Between 1237 and 1290, the Livonian Order conquered all of Courland, Livonia, and Semigallia, but their attack on northern Russia was repelled in the Battle of Rakvere (1268). In 1346, after St. George's Night Uprising the Order bought the rest of Estonia from King Valdemar IV of Denmark. Life within the Order's territory is described in the Chronicle of Henry of Livonia and the Livonian Rhymed Chronicle. The Teutonic Order fell into decline following its defeat in the Battle of Grunwald in 1410 and the secularization of its Prussian territories by Albert of Brandenburg in 1525, but the Livonian Order managed to maintain an independent existence. During many years of Livonian War (1558–1582), however, they suffered a decisive defeat by troops of Muscovite Russia in the Battle of Ergeme in 1560 and continued living under great threat. Letters to the Emperor arrived from many European countries, warning, _that Moscow has its eyes on much more than only a few harbors or the province of Liefland_ ... the East Sea (Ostsee-Baltic Sea and the West Sea (Atlantic) are equally in danger. Duke Barnim the Elder, 50 years duke of Pomerania, warned, _that never before did he experience the fear than now, where even in his land, where people send by Moscow are everywhere_. At stake was the Narva-Trade-Route and practically all trade in the North, and with that all of Europe. Due to religious upheavals of the Reformation the empire could not send troops, which it could not afford and which were too far away anyway. Prussia was not able to help for much of the same reason, and Duke Albrecht was under continuous ban by the emperor. The Hanseatic League was greatly weakened by this and the city state of Luebeck fought its last great war. The emperor Maximilian II diffused the greatest threat by remaining on friendly terms with the czar, but not sending him troops as requested, in his struggles with the Polish–Lithuanian Commonwealth.
 
@@ -55,7 +53,7 @@ The five Ecclesiastical states of the Holy Roman Empire in Medieval Livonia were
 
 Livonian War 1558–1583
 
-Europe_1550.jpg, 1550.]]
+, 1550.]]
 
 Ferdinand I, Holy Roman Emperor once again asked for help of Gustav I of Sweden, and The Kingdom of Poland (1385–1569) also began direct negotiations with Gustav, but nothing resulted because on September 29, 1560, Gustav I Vasa died. The chances for success of Magnus and his supporters looked particularly good in 1560 (and 1570). In the former case, he had been recognised as their sovereign by The Bishopric of Ösel-Wiek and The Bishopric of Courland, and as their prospective ruler by the authorities of The Bishopric of Dorpat; The Bishopric of Reval with the Harrien-Wierland gentry were on his side; Livonian Order conditionally recognised his right of ownership of Estonia (Principality of Estonia). Then along with Archbishop Wilhelm von Brandenburg of The Archbishopric of Riga and his Coadjutor Christoph von Mecklenburg, Kettler gave to Magnus the portions of The Kingdom of Livonia, which he had taken possession of, but they refused to give him any more land.
 
@@ -83,7 +81,7 @@ File:Litvania map 1570.png|Livonia on the 1570 map
 
 Kingdom of Livonia 1570–1578
 
-LIVONIAE_NOVA_DESCRIPTIO_1573-1578.jpg.]]
+.]]
 
 The armies of Ivan the Terrible were initially successful, taking Polock (1563) and Parnawa (1575) and overrunning much of Grand Duchy of Lithuania up to Vilnius. Eventually, the Grand Duchy of Lithuania and Kingdom of Poland formed the Polish–Lithuanian Commonwealth in 1569 under the Union of Lublin. Eric XIV of Sweden did not like this and the Northern Seven Years' War between the Free City of Lübeck, Denmark, Poland, and Sweden broke out. While only losing land and trade, Frederick II of Denmark and Magnus von Lyffland of the Œsel-Wiek did not fare well. But in 1569, Erik XIV became insane and his brother John III of Sweden took his place. After all parties had been financially drained, Frederick II let his ally, King Zygmunt II August, know that he was ready for peace. On December 15, 1570, the Treaty of Stettin was concluded.
 
@@ -91,43 +89,39 @@ In the next phase of the conflict, in 1577 Ivan IV took advantage of the Commonw
 
 Swedish Livonia 1629–1721
 
-Sw_BalticProv_en.png
-
 Sweden was given roughly the same area as the former Duchy of Livonia after the 1626–1629 Polish–Swedish War. The area, usually known as Swedish Livonia, became a very important Swedish dominion, with Riga being the second largest Swedish city and Livonia paying for one third of the Swedish war costs. Sweden lost Swedish Livonia, Swedish Estonia and Ingria to the Russian Empire almost 100 years later, by the Capitulation of Estonia and Livonia in 1710 and the Treaty of Nystad in 1721.
 
 Livonian Voivodeship 1620s–1772
 
-IRP_Livland_voivodship.PNG, 1620s–1772.]]
+, 1620s–1772.]]
 
 The Livonian Voivodeship (; ) was a unit of administrative division and local government in the Duchy of Livonia, part of the Polish–Lithuanian Commonwealth, since it was formed in the 1620s out of the Wenden Voivodeship till the First Partition of Poland in 1772.
 
 Riga Governorate 1721–1796
 
-Europe_1740.jpg, 1740.]]
+, 1740.]]
 
 The Russian Empire conquered Swedish Livonia during the course of the Great Northern War and acquired the province in the Capitulation of Estonia and Livonia in 1710, confirmed by the Treaty of Nystad in 1721. Peter the Great confirmed German as the exclusive official language.[17] Russia then added Polish Livonia in 1772 during the Partitions of Poland.
 
 Governorate of Livonia 1796–1918
 
-Europe1815_1905.jpg, 1815.]]
+, 1815.]]
 
 In 1796 the Riga Governorate was renamed as the Governorate of Livonia ( / , , ). Livonia remained within the Russian Empire until the end of World War I, when it was split between the newly independent states of Latvia and Estonia. In 1918–1920, both Soviet troops and German Freikorps fought against Latvian and Estonian troops for control over Livonia, but their attempts were defeated.
 
 Governors-General of Estonia, Livonia, and Courland 1845–1876
 
-Meyerbaltikum.jpg
-
 From 1845 to 1876, the Baltic governorates of Estonia, Livonia, and Courland—an area roughly corresponding to the historical medieval Livonia—were administratively subordinated to a common Governor-General. Amongst the holders of this post were Count Alexander Arkadyevich Suvorov[18] and Count Pyotr Andreyevich Shuvalov.
 
 Vidzeme in Independent Latvia 1918–1940
 
-Rzeczpospolita_1938.svg around Riga, Estonia around Tallinn in 1920.]]
+around Riga, Estonia around Tallinn in 1920.]]
 
 In independent Latvia between the World Wars, southern Livonia became an administrative region under the traditional Latvian name Vidzeme, encompassing the then much larger counties of Riga, Cēsis, Valmiera, and Valka.
 
 Ostland 1941–1944
 
-Invasion1941.jpg advances from 22 June to 25 August 1941.]]
+advances from 22 June to 25 August 1941.]]
 
 Ostland was one of the Reichskommissariats established, by a Decree of the Führer dated 17 July 1941, as administrative units of the "Großdeutsches Reich" (Greater Germany). The structure of the Reichskommissariats was defined by the same decree. Local administration in the Reichskommissariats was to be organized under a "National Director" (_Reichskomissar_) in Estonia, a "General Director" in Latvia and a "General Adviser" in Lithuania. The local administration of the Reichskommissariat Ostland was under _Reichskomissar_ Hinrich Lohse. Below him there was an administrative hierarchy: a _Generalkomissar_ led each _Generalbezirke_, _Gebietskomissars_ and _Hauptkommissars_ administered _Kreigsbietes_ and _Hauptgenbietes_, respectively. Alfred Rosenberg's (Minister für die besetzten Ostgebiete (Reich Ministry for the Occupied Eastern Territories) ministerial authority was, in practice, severely limited. The first reason was that many of the practicalities were commanded elsewhere: the Wehrmacht and the SS managed the military and security aspects, Fritz Saukel (Reich Director of Labour) had control over manpower and working areas, Hermann Göring and Albert Speer had total management of economic aspects in the territories and the Reich postal service administered the East territories' postal services. These German central government interventions in the affairs of Ostland, overriding the appropriate ministries was known as "Sonderverwaltungen" (special administration). Later, from September, the civil administration that had been decreed in the previous July was actually set up. Lohse and, for that matter, Koch would not bow to his authority seeking to administer their territories with the independence and authority of gauleiters. on 1 April 1942 an _arbeitsbereich_ (lit. "working sphere", a name for the party cadre organisation outside the reich proper) was established in the civil administration part of the occupied Soviet territories, whereupon Koch and Lohse gradually ceased communication with him, preferring to deal directly with Hitler through Martin Bormann and the party chancellery. In the process they also displaced all other actors including notably the SS, except in central Belarus where HSSPF Erich von dem Bach-Zelewsky had a special command encompassing both military and civil administration territories and engaged in "anti-partisan" atrocities.
 

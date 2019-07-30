@@ -1,6 +1,6 @@
 PET|and|PETS (disambiguation){{!}}PETS}}
 
-Trillium_Poncho_cat_dog.jpg cat and a mixed Molosser dog]] A PET or COMPANION ANIMAL is an animal kept primarily for a person's company, entertainment, or as an act of compassion such as taking in and protecting a hungry stray cat, rather than as a working animal, livestock, or laboratory animal. Popular pets are often noted for their attractive appearances, intelligence, and relatable personalities, or may just be accepted as they are because they need a home.
+cat and a mixed Molosser dog]] A PET or COMPANION ANIMAL is an animal kept primarily for a person's company, entertainment, or as an act of compassion such as taking in and protecting a hungry stray cat, rather than as a working animal, livestock, or laboratory animal. Popular pets are often noted for their attractive appearances, intelligence, and relatable personalities, or may just be accepted as they are because they need a home.
 
 Two of the most popular pets are dogs and cats. The technical term for a cat lover is an ailurophile, and for a dog lover, a cynophile. Other animals commonly kept include rabbits; ferrets; pigs; rodents, such as gerbils, hamsters, chinchillas, rats, and guinea pigs; avian pets, such as parrots, passerines, and fowl; reptile pets, such as turtles, alligators, crocodiles, lizards, and snakes; aquatic pets, such as fish, freshwater and saltwater snails, and frogs; and arthropod pets, such as tarantulas and hermit crabs. Small pets may be grouped together as pocket pets, while the equine and bovine group include the largest companion animals.
 
@@ -11,7 +11,7 @@ Some scholars, ethicists and animal rights organizations have raised concerns ov
 
 Pet popularity
 
-Cat-MaineCoon-Cookie.png kitten aged ten weeks]] There are approximately 86.4 million pet cats and approximately 78.2 million pet dogs in the United States,[3][4] and a United States 2007–2008 survey showed that dog-owning households outnumbered those owning cats, but that the total number of pet cats was higher than that of dogs. The same was true for 2011.[5] In 2013, pets outnumbered children four to one in the United States.[6] Labradour-jaji-happydog.jpg being petted]] Dennis_the_pet_pig_sings,_cropped_version.jpg]]
+kitten aged ten weeks]] There are approximately 86.4 million pet cats and approximately 78.2 million pet dogs in the United States,[3][4] and a United States 2007–2008 survey showed that dog-owning households outnumbered those owning cats, but that the total number of pet cats was higher than that of dogs. The same was true for 2011.[5] In 2013, pets outnumbered children four to one in the United States.[6] being petted]] ]]
 
     {| class="wikitable sortable" style="font-size:97%;"
 
@@ -117,15 +117,13 @@ Pets have a considerable environmental impact, especially in countries where the
 
 Types
 
-Jenmedia_baby_bovine_1.jpg Renardrouxgris.jpg While many people have kept many different species of animals in captivity over the course of human history, only a relative few have been kept long enough to be considered domesticated. Other types of animals, notably monkeys, have never been domesticated but are still sold and kept as pets. There are also inanimate objects that have been kept as "pets", either as a form of a game or humorously (e.g. the Pet Rock or Chia Pet).Some wild animals are kept as pets, such as tigers, even though this is illegal. There is a market for illegal pets.
+While many people have kept many different species of animals in captivity over the course of human history, only a relative few have been kept long enough to be considered domesticated. Other types of animals, notably monkeys, have never been domesticated but are still sold and kept as pets. There are also inanimate objects that have been kept as "pets", either as a form of a game or humorously (e.g. the Pet Rock or Chia Pet).Some wild animals are kept as pets, such as tigers, even though this is illegal. There is a market for illegal pets.
 
 Domesticated
 
 Domesticated pets are the most common types of pet. A _domesticated animal_ is any animal that has been tamed and made fit for a human environment[72] by being consistently kept in captivity and selectively bred over a long enough period of time that it exhibits marked differences in behavior and appearance from its wild relatives.
 
 Mammals
-
-Holland_lop.JPG Hedgehog_with_Albinism.jpg
 
 -   Alpacas
 -   Camels
@@ -146,8 +144,6 @@ Holland_lop.JPG Hedgehog_with_Albinism.jpg
 -   Water Buffalo
 
 Birds
-
-Gallus_gallus_domesticus_LC0259.jpg Tiger_Oscar_Fish.jpg
 
 -   Companion parrots, like the budgie and cockatiel.
 -   Fowl, such as chickens, turkeys, ducks, geese, or quail
@@ -172,7 +168,7 @@ Arthropods
 
 Wild animals
 
-Hiran_Minar-_monument_to_Mansraj.jpg near Lahore, Pakistan was built in the 17th century by the Mughal Emperor Jahangir as a funerary monument in honor of his pet deer.]] The_Pashas_Favourite_Tiger.jpg Wild animals are kept as pets. The term “wild” in this context specifically applies to any species of animal which has not undergone a fundamental change in behavior to facilitate a close co-existence with humans. Some species listed here may have been bred in captivity for a considerable length of time, but are still not recognized as domesticated.
+near Lahore, Pakistan was built in the 17th century by the Mughal Emperor Jahangir as a funerary monument in honor of his pet deer.]] Wild animals are kept as pets. The term “wild” in this context specifically applies to any species of animal which has not undergone a fundamental change in behavior to facilitate a close co-existence with humans. Some species listed here may have been bred in captivity for a considerable length of time, but are still not recognized as domesticated.
 
 Generally, wild animals are recognized as not suitable to keep as pets, and this practice is completely banned in many places. In other areas, certain species are allowed to be kept, and it is usually required for the owner to obtain a permit. It is considered animal cruelty by some, as most often, wild animals require precise and constant care that is very difficult to meet in captive conditions. Many large and instinctively aggressive animals are extremely dangerous, and numerous times have they killed their handlers.
 
@@ -274,7 +270,7 @@ Fish
 
 Arthropods
 
-Caribbean_hermit_crab.JPG is one example of a pet arthropod.]]
+is one example of a pet arthropod.]]
 
 -   Ants
 -   Bivalves

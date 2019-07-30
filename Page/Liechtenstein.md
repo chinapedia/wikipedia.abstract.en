@@ -11,7 +11,7 @@ History
 
 Early history
 
-Balzers_Schloss.jpg, Balzers, Liechtenstein]] Schlossvaduz.jpg, overlooking the capital, is home to the Prince of Liechtenstein.]] Johann_Josef_I_von_Liechtenstein.jpg from 1805 to 1806 and 1814 to 1836, by Johann Baptist von Lampi the Elder. Liechtenstein Museum, Vienna.]] The oldest traces of human existence in what is now Liechtenstein date back to the Middle Paleolithic era.[6] Neolithic farming settlements were initially founded in the valleys around 5300 BCE.
+, Balzers, Liechtenstein]] , overlooking the capital, is home to the Prince of Liechtenstein.]] from 1805 to 1806 and 1814 to 1836, by Johann Baptist von Lampi the Elder. Liechtenstein Museum, Vienna.]] The oldest traces of human existence in what is now Liechtenstein date back to the Middle Paleolithic era.[6] Neolithic farming settlements were initially founded in the valleys around 5300 BCE.
 
 The Hallstatt and La Tène cultures flourished during the late Iron Age, from around 450 BCE—possibly under some influence of both the Greek and Etruscan civilisations. One of the most important tribal groups in the Alpine region were the Helvetii. In 58 BCE, at the Battle of Bibracte, Julius Caesar defeated the Alpine tribes, therefore bringing the region under close control of the Roman Republic. By 15 BCE, Tiberius—destined to be the second Roman emperor—with his brother, Drusus, conquered the entirety of the Alpine area. Liechtenstein was then integrated into the Roman province of Raetia. The area was maintained by the Roman military, who also maintained large legionary camps at Brigantium (Austria), near Lake Constance, and at Magia (Swiss). A Roman road which ran through the territory was also created and maintained by these groups. In 259/60 Brigantium was destroyed by the Alemanni, a Germanic people who settled in the area in around 450 CE.
 
@@ -55,7 +55,7 @@ Until the end of World War I, Liechtenstein was closely tied first to the Austri
 
 At the time of the dissolution of the Austro-Hungarian Empire, it was argued that Liechtenstein, as a fief of the Holy Roman Empire, was no longer bound to the emerging independent state of Austria, since the latter did not consider itself the legal successor to the empire. This is partly contradicted by the Liechtenstein perception that the dethroned Austro-Hungarian Emperor still maintained an abstract heritage of the Holy Roman Empire.
 
-Franz_I_von_Liechtenstein.jpg from 1929 to 1938]]
+from 1929 to 1938]]
 
 In 1929, 75-year-old Prince Franz I succeeded to the throne. He had just married Elisabeth von Gutmann, a wealthy woman from Vienna whose father was a Jewish businessman from Moravia. Although Liechtenstein had no official Nazi party, a Nazi sympathy movement arose within its National Union party. Local Liechtenstein Nazis identified Elisabeth as their Jewish "problem".[16]
 
@@ -78,7 +78,7 @@ the Prince of Liechtenstein is the world's eighth wealthiest monarch, with an es
 
 Government
 
-Liechtenstein_-_Gemeinden_mit_Exklaven.png Landtagsgebäude_und_Regierungsgebäude.jpg.]] Hans-Adam_Prince_of_Liechtenstein_(1974)_by_Erling_Mandelmann.jpg, as pictured by Erling Mandelmann in 1974.]]
+.]] , as pictured by Erling Mandelmann in 1974.]]
 
 Liechtenstein has a monarch as Head of State, and an elected parliament that enacts the law. It is also a direct democracy, where voters can propose and enact constitutional amendments and legislation independently of the legislature. The Constitution of Liechtenstein was adopted in March 2003, replacing the 1921 constitution. The 1921 constitution had established Liechtenstein as a constitutional monarchy headed by the reigning prince of the Princely House of Liechtenstein; a parliamentary system had been established, although the reigning Prince retained substantial political authority.
 
@@ -107,7 +107,7 @@ In 2013, Liechtenstein won for the first time a SolarSuperState Prize in the cat
 
 Geography
 
-Rhein_bei_Balzers_-_Blick_auf_Gonzen.JPG: border between Liechtenstein and Switzerland (view towards the Swiss Alps)]]
+: border between Liechtenstein and Switzerland (view towards the Swiss Alps)]]
 
 Liechtenstein is situated in the Upper Rhine valley of the European Alps and is bordered to the east by Austria, and to the south and west by Switzerland. The entire western border of Liechtenstein is formed by the Rhine. Measured south to north the country is about long. Its highest point, the Grauspitz, is . Despite its Alpine location, prevailing southerly winds make the climate comparatively mild. In winter, the mountain slopes are well suited to winter sports.
 
@@ -120,7 +120,7 @@ The principality of Liechtenstein is divided into 11 communes called _Gemeinden_
 
 Economy
 
-Vaduz_Zentrum.jpg Hilti_Schaan.jpg Corporation in Schaan, Liechtenstein.]]
+Corporation in Schaan, Liechtenstein.]]
 
 Despite its limited natural resources, Liechtenstein is one of the few countries in the world with more registered companies than citizens; it has developed a prosperous, highly industrialized free-enterprise economy and boasts a financial service sector as well as a living standard that compares favourably with those of the urban areas of Liechtenstein's much larger European neighbours.
 
@@ -132,7 +132,7 @@ Industries include electronics, textiles, precision instruments, metal manufactu
 
 Taxation
 
-Grenze_Liechtenstein,_Balzers.jpg between Liechtenstein and Switzerland.]]
+between Liechtenstein and Switzerland.]]
 
 The government of Liechtenstein taxes personal income, business income, and principal (wealth). The basic rate of personal income tax is 1.2%. When combined with the additional income tax imposed by the communes, the combined income tax rate is 17.82%.[41] An additional income tax of 4.3% is levied on all employees under the country's social security programme. This rate is higher for the self-employed, up to a maximum of 11%, making the maximum income tax rate about 29% in total. The basic tax rate on wealth is 0.06% per annum, and the combined total rate is 0.89%. The tax rate on corporate profits is 12.5%.[42]
 
@@ -159,8 +159,6 @@ The official language is German; most speak an Alemannic dialect of German that 
 
 Religion
 
-Church_vaduz.png
-
 According to the Constitution of Liechtenstein, Catholicism is its official state religion:
 
 Liechtenstein offers protection to adherents of all religions, and considers the "religious interests of the people" a priority of the government.[53] In Liechtenstein schools, although exceptions are allowed, religious education in Roman Catholicism or Protestantism (either Reformed or Lutheran, or both) is legally required.[54] Tax exemption is granted by the government to religious organizations.[55] According to the Pew Research Center, social conflict caused by religious hostilities is low in Liechtenstein, and so is government restriction on the practice of religion.[56]
@@ -181,7 +179,7 @@ According to the 2010 census, 85.8% of the total population is Christian, of who
 
 Education
 
-University_of_Liechtenstein.JPG]] The literacy rate of Liechtenstein is 100%.[60] In 2006 Programme for International Student Assessment report, coordinated by the Organisation for Economic Co-operation and Development, ranked Liechtenstein's education as the 10th best in the world.[61] In 2012, Liechtenstein had the highest PISA-scores of any European country.[62]
+]] The literacy rate of Liechtenstein is 100%.[60] In 2006 Programme for International Student Assessment report, coordinated by the Organisation for Economic Co-operation and Development, ranked Liechtenstein's education as the 10th best in the world.[61] In 2012, Liechtenstein had the highest PISA-scores of any European country.[62]
 
 Within Liechtenstein, there are four main centres for higher education:
 
@@ -199,7 +197,7 @@ There are nine public high schools in the country. These include:
 
 Transport
 
-There are about of paved roadway within Liechtenstein, with of marked bicycle paths. Hubschrauberlandeplatz_Balzers_Liechtenstein.jpg]]
+There are about of paved roadway within Liechtenstein, with of marked bicycle paths. ]]
 
 A railway connects Austria and Switzerland through Liechtenstein. The country's railways are administered by the Austrian Federal Railways as part of the route between Feldkirch, Austria, and Buchs, Switzerland. Liechtenstein is nominally within the Austrian Verkehrsverbund Vorarlberg[65] tariff region.
 
@@ -212,7 +210,7 @@ Liechtenstein has no airport. The nearest large airport is Zurich Airport near Z
 
 Culture
 
-Kunstmuseum_Liechtenstein_(Walti).jpg)]] Liechtensteinisches_Landes_Museum_1.jpg]]
+)]] ]]
 
 As a result of its small size, Liechtenstein has been strongly affected by external cultural influences, most notably those originating in the southern regions of German-speaking Europe, including Austria, Baden-Wurttemberg, Bavaria, Switzerland, and specifically Tirol and Vorarlberg. The "Historical Society of the Principality of Liechtenstein" plays a role in preserving the culture and history of the country.
 
@@ -240,7 +238,7 @@ Amateur radio is a hobby of some nationals and visitors. However, unlike virtual
 
 Sports
 
-Marco_Büchel.jpg, the first Liechtensteiner alpine skier to compete at six Winter Olympics]] Liechtenstein football teams play in the Swiss football leagues. The Liechtenstein Football Cup allows access for one Liechtenstein team each year to the UEFA Europa League; FC Vaduz, a team playing in the Swiss Challenge League, the second division in Swiss football, is the most successful team in the Cup, and scored their greatest success in the European Cup Winners' Cup in 1996 when they drew with and defeated the Latvian team FC Universitate Riga by 1–1 and 4–2, to go on to a lucrative fixture against Paris Saint-Germain F.C., which they lost 0–3 and 0–4.
+, the first Liechtensteiner alpine skier to compete at six Winter Olympics]] Liechtenstein football teams play in the Swiss football leagues. The Liechtenstein Football Cup allows access for one Liechtenstein team each year to the UEFA Europa League; FC Vaduz, a team playing in the Swiss Challenge League, the second division in Swiss football, is the most successful team in the Cup, and scored their greatest success in the European Cup Winners' Cup in 1996 when they drew with and defeated the Latvian team FC Universitate Riga by 1–1 and 4–2, to go on to a lucrative fixture against Paris Saint-Germain F.C., which they lost 0–3 and 0–4.
 
 The Liechtenstein national football team is regarded as an easy target for any team drawn against them; this was the basis for a book about Liechtenstein's unsuccessful qualifying campaign for the 2002 World Cup by British author, Charlie Connelly. In one surprising week during autumn 2004, however, the team managed a 2–2 draw with Portugal, who only a few months earlier had been the losing finalists in the European Championships. Four days later, the Liechtenstein team traveled to Luxembourg, where they defeated the home team 4–0 in a 2006 World Cup qualifying match. In the qualification stage of the European Championship 2008, Liechtenstein beat Latvia 1–0, a result which prompted the resignation of the Latvian coach. They went on to beat Iceland 3–0 on 17 October 2007, which is considered one of the most dramatic losses of the Icelandic national football team. On 7 September 2010, they came within seconds of a 1–1 draw against Scotland in Glasgow, having led 1–0 earlier in the second half, but Liechtenstein lost 2–1 thanks to a goal by Stephen McManus in the 97th minute. On 3 June 2011, Liechtenstein defeated Lithuania 2–0. On 15 November 2014, Liechtenstein defeated Moldova 0–1 with Franz Burgmeier's late free kick goal in Chișinău.
 

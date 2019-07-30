@@ -1,4 +1,4 @@
-Klein_bottle.svg in three-dimensional space]] Surface_of_Klein_bottle_with_traced_line.svg
+in three-dimensional space]]
 
 In topology, a branch of mathematics, the KLEIN BOTTLE is an example of a non-orientable surface; it is a two-dimensional manifold against which a system for determining a normal vector cannot be consistently defined. Informally, it is a one-sided surface which, if traveled upon, could be followed back to the point of origin while flipping the traveler upside down. Other related non-orientable objects include the Möbius strip and the real projective plane. Whereas a Möbius strip is a surface with boundary, a Klein bottle has no boundary (for comparison, a sphere is an orientable surface with no boundary).
 
@@ -9,15 +9,15 @@ Construction
 
 The following square is a fundamental polygon of the Klein bottle. The idea is to 'glue' together the corresponding coloured edges with the arrows matching, as in the diagrams below. Note that this is an "abstract" gluing in the sense that trying to realize this in three dimensions results in a self-intersecting Klein bottle.
 
-    Image:Klein Bottle Folding 1.svg
+
 
 To construct the Klein bottle, glue the red arrows of the square together (left and right sides), resulting in a cylinder. To glue the ends of the cylinder together so that the arrows on the circles match, one would pass one end through the side of the cylinder. This creates a circle of self-intersection – this is an immersion of the Klein bottle in three dimensions.
 
 <gallery | align = center> Image:Klein Bottle Folding 1.svg Image:Klein Bottle Folding 2.svg Image:Klein Bottle Folding 3.svg Image:Klein Bottle Folding 4.svg Image:Klein Bottle Folding 5.svg Image:Klein Bottle Folding 6.svg
 
-This immersion is useful for visualizing many properties of the Klein bottle. For example, the Klein bottle has no _boundary_, where the surface stops abruptly, and it is non-orientable, as reflected in the one-sidedness of the immersion. Science_Museum_London_1110529_nevit.jpg]] Acme_klein_bottle.jpg The common physical model of a Klein bottle is a similar construction. The Science Museum in London has a collection of hand-blown glass Klein bottles on display, exhibiting many variations on this topological theme. The bottles date from 1995 and were made for the museum by Alan Bennett.[2]
+This immersion is useful for visualizing many properties of the Klein bottle. For example, the Klein bottle has no _boundary_, where the surface stops abruptly, and it is non-orientable, as reflected in the one-sidedness of the immersion. ]] The common physical model of a Klein bottle is a similar construction. The Science Museum in London has a collection of hand-blown glass Klein bottles on display, exhibiting many variations on this topological theme. The bottles date from 1995 and were made for the museum by Alan Bennett.[2]
 
-The Klein bottle, proper, does not self-intersect. Nonetheless, there is a way to visualize the Klein bottle as being contained in four dimensions. By adding a fourth dimension to the three-dimensional space, the self-intersection can be eliminated. Gently push a piece of the tube containing the intersection along the fourth dimension, out of the original three-dimensional space. A useful analogy is to consider a self-intersecting curve on the plane; self-intersections can be eliminated by lifting one strand off the plane. Klein_bottle_time_evolution_in_xyzt-space.gif Suppose for clarification that we adopt time as that fourth dimension. Consider how the figure could be constructed in _xyzt_-space. The accompanying illustration ("Time evolution...") shows one useful evolution of the figure. At the wall sprouts from a bud somewhere near the "intersection" point. After the figure has grown for a while, the earliest section of the wall begins to recede, disappearing like the Cheshire Cat but leaving its ever-expanding smile behind. By the time the growth front gets to where the bud had been, there’s nothing there to intersect and the growth completes without piercing existing structure. The 4-figure as defined cannot exist in 3-space but is easily understood in 4-space.
+The Klein bottle, proper, does not self-intersect. Nonetheless, there is a way to visualize the Klein bottle as being contained in four dimensions. By adding a fourth dimension to the three-dimensional space, the self-intersection can be eliminated. Gently push a piece of the tube containing the intersection along the fourth dimension, out of the original three-dimensional space. A useful analogy is to consider a self-intersecting curve on the plane; self-intersections can be eliminated by lifting one strand off the plane. Suppose for clarification that we adopt time as that fourth dimension. Consider how the figure could be constructed in _xyzt_-space. The accompanying illustration ("Time evolution...") shows one useful evolution of the figure. At the wall sprouts from a bud somewhere near the "intersection" point. After the figure has grown for a while, the earliest section of the wall begins to recede, disappearing like the Cheshire Cat but leaving its ever-expanding smile behind. By the time the growth front gets to where the bud had been, there’s nothing there to intersect and the growth completes without piercing existing structure. The 4-figure as defined cannot exist in 3-space but is easily understood in 4-space.
 
 More formally, the Klein bottle is the quotient space described as the square [0,1] × [0,1] with sides identified by the relations for and for .
 
@@ -45,8 +45,6 @@ When embedded in Euclidean space, the Klein bottle is one-sided. However, there 
 
 Dissection
 
-KleinBottle-cut.svg
-
 Dissecting a Klein bottle into halves along its plane of symmetry results in two mirror image Möbius strips, i.e. one with a left-handed half-twist and the other with a right-handed half-twist (one of these is pictured on the right). Remember that the intersection pictured is not really there.
 
 
@@ -57,7 +55,7 @@ One description of the types of simple-closed curves that may appear on the surf
 
 Parametrization
 
-KleinBottle-Figure8-01.svg Kleinbagel_cross_section.png).]]
+).]]
 
 The figure 8 immersion
 
@@ -87,7 +85,7 @@ where _R_ and _P_ are constants that determine aspect ratio, _θ_ and _v_ are si
 
 3D pinched torus / 4D Möbius tube
 
-Pinched_Torus_Klein_bottle.jpg The pinched torus is perhaps the simplest parametrization of the klein bottle in both three and four dimensions. It's a torus that, in three dimensions, flattens and passes through itself on one side. Unfortunately, in three dimensions this parametrization has two pinch points, which makes it undesirable for some applications. In four dimensions the _z_ amplitude rotates into the _w_ amplitude and there are no self intersections or pinch points.
+The pinched torus is perhaps the simplest parametrization of the klein bottle in both three and four dimensions. It's a torus that, in three dimensions, flattens and passes through itself on one side. Unfortunately, in three dimensions this parametrization has two pinch points, which makes it undesirable for some applications. In four dimensions the _z_ amplitude rotates into the _w_ amplitude and there are no self intersections or pinch points.
 
 _x_(_θ_, _φ_) = (_R_ + _r_cos _θ_)cos _φ_
 
@@ -101,7 +99,7 @@ One can view this as a tube or cylinder that wraps around, as in a torus, but it
 
 Bottle shape
 
-The parametrization of the 3-dimensional immersion of the bottle itself is much more complicated. Here is a version found by Robert Israel: Klein_bottle_translucent.png
+The parametrization of the 3-dimensional immersion of the bottle itself is much more complicated. Here is a version found by Robert Israel:
 
 $$\begin{align}
     x(u,v) &= -\frac{2}{15} \cos u (3 \cos{v}-30 \sin{u}+90 \cos^4{u} \sin{u} \\

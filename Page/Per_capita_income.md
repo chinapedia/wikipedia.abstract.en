@@ -1,4 +1,4 @@
-align in 2016]] PER CAPITA INCOME (PCI) or AVERAGE INCOME measures the average income earned per person in a given area (city, region, country, etc.) in a specified year. It is calculated by dividing the area's total income by its total population.[1][2]
+in 2016]] PER CAPITA INCOME (PCI) or AVERAGE INCOME measures the average income earned per person in a given area (city, region, country, etc.) in a specified year. It is calculated by dividing the area's total income by its total population.[1][2]
 
 
 Per capita income-a nation's growth

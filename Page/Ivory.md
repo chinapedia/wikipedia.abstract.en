@@ -1,4 +1,4 @@
-Our_Lady_of_Manaoag_1.JPG in her imperial regalia. Genuine ivory is held more valuable than gold among Santero artisans. Pangasinan, Philippines.]] Horn_Louvre_OA4069.jpg tusk, Louvre]]
+in her imperial regalia. Genuine ivory is held more valuable than gold among Santero artisans. Pangasinan, Philippines.]] tusk, Louvre]]
 
 IVORY is a hard, white material from the tusks (traditionally elephants') and teeth of animals, that consists mainly of dentine, one of the physical structures of teeth and tusks. The chemical structure of the teeth and tusks of mammals is the same, regardless of the species of origin. The trade in certain teeth and tusks other than elephant is well established and widespread; therefore, "ivory" can correctly be used to describe any mammalian teeth or tusks of commercial interest which are large enough to be carved or scrimshawed.[1] It has been valued since ancient times in art or manufacturing for making a range of items from ivory carvings to false teeth, piano keys, fans, dominoes[2] and joint tubes.[3] Elephant ivory is the most important source, but ivory from mammoth, walrus, hippopotamus, sperm whale, killer whale, narwhal and wart hog are used as well.[4][5] Elk also have two ivory teeth, which are believed to be the remnants of tusks from their ancestors.[6]
 
@@ -7,7 +7,7 @@ The national and international trade in ivory of threatened species such as Afri
 
 History and uses
 
-Vierge_a_l'Enfant_debout.jpg and the Child Jesus crafted in elephant ivory]] Ivory_tabernacle_Louvre_OA2587.jpg featuring the Madonna of Caress, France]] Both the Greek and Roman civilizations practiced ivory carving to make large quantities of high value works of art, precious religious objects, and decorative boxes for costly objects. Ivory was often used to form the white of the eyes of statues.
+and the Child Jesus crafted in elephant ivory]] featuring the Madonna of Caress, France]] Both the Greek and Roman civilizations practiced ivory carving to make large quantities of high value works of art, precious religious objects, and decorative boxes for costly objects. Ivory was often used to form the white of the eyes of statues.
 
 There is some evidence of either whale or walrus ivory used by the ancient Irish. Solinus, a Roman writer in the 3rd century claimed that the Celtic peoples in Ireland would decorate their sword-hilts with the 'teeth of beasts that swim in the sea'. Adomnan of Iona wrote a story about St Columba giving a sword decorated with carved ivory as a gift that a penitent would bring to his master so he could redeem himself from slavery.[9]
 
@@ -26,7 +26,7 @@ Ivory usage in the last thirty years has moved towards mass production of souven
 
 Consumption before plastics
 
-Decorated_ivory.JPG, Iran]] Prior to the introduction of plastics, ivory had many ornamental and practical uses, mainly because of the white color it presents when processed. It was formerly used to make cutlery handles, billiard balls, piano keys, Scottish bagpipes, buttons and a wide range of ornamental items.
+, Iran]] Prior to the introduction of plastics, ivory had many ornamental and practical uses, mainly because of the white color it presents when processed. It was formerly used to make cutlery handles, billiard balls, piano keys, Scottish bagpipes, buttons and a wide range of ornamental items.
 
 Synthetic substitutes for ivory in the use of most of these items have been developed since 1800: the billiard industry challenged inventors to come up with an alternative material that could be manufactured;[16] the piano industry abandoned ivory as a key covering material in the 1970s.
 
@@ -37,7 +37,7 @@ During the Art Deco era from 1912 to 1940, dozens (if not hundreds) of European 
 
 Availability
 
-Ivory_trade.jpg, ]]
+, ]]
 
 Owing to the rapid decline in the populations of the animals that produce it, the importation and sale of ivory in many countries is banned or severely restricted. In the ten years preceding a decision in 1989 by CITES to ban international trade in African elephant ivory, the population of African elephants declined from 1.3 million to around 600,000. It was found by investigators from the Environmental Investigation Agency (EIA) that CITES sales of stockpiles from Singapore and Burundi (270 tonnes and 89.5 tonnes respectively) had created a system that increased the value of ivory on the international market, thus rewarding international smugglers and giving them the ability to control the trade and continue smuggling new ivory.[21][22]
 

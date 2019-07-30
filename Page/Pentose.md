@@ -5,13 +5,11 @@ Aldopentoses
 
 The aldopentoses have three chiral centers; therefore, eight (2³) different stereoisomers are possible.
 
-+-----------------+--------------+--------------+-------------------+
-| D-arabinose.png | D-lyxose.png | D-Ribose.png | Xylose_linear.png |
-| D-Arabinose     | D-Lyxose     | D-Ribose     | D-Xylose          |
-+-----------------+--------------+--------------+-------------------+
-| arabinose.png   | lyxose.png   | L-ribose.png | L-xylose.png      |
-| L-Arabinose     | L-Lyxose     | L-Ribose     | L-Xylose          |
-+-----------------+--------------+--------------+-------------------+
++-------------+----------+----------+----------+
+| D-Arabinose | D-Lyxose | D-Ribose | D-Xylose |
++-------------+----------+----------+----------+
+| L-Arabinose | L-Lyxose | L-Ribose | L-Xylose |
++-------------+----------+----------+----------+
 
 Ribose is a constituent of RNA, and the related molecule, deoxyribose, is a constituent of DNA. Phosphorylated pentoses are important products of the pentose phosphate pathway, most importantly ribose 5-phosphate (R5P), which is used in the synthesis of nucleotides and nucleic acids, and erythrose 4-phosphate (E4P), which is used in the synthesis of aromatic amino acids.
 
@@ -20,26 +18,22 @@ Ketopentoses
 
 The 2-ketopentoses have two chiral centers; therefore, four (2²) different stereoisomers are possible. The 3-ketopentoses are rare.
 
-+----------------+----------------+
-| Ribulose.png   | D-xylulose.png |
-| D-Ribulose     | D-Xylulose     |
-+----------------+----------------+
-| L-ribulose.png | Xylulose.png   |
-| L-Ribulose     | L-Xylulose     |
-+----------------+----------------+
++------------+------------+
+| D-Ribulose | D-Xylulose |
++------------+------------+
+| L-Ribulose | L-Xylulose |
++------------+------------+
 
 
 Deoxy Sugars
 
 The one deoxypentose has two steroisomers, for two total steroisomers.
 
-+-------------------------+
-| D-dexoyribose_chain.png |
-| D-Deoxyribose           |
-+-------------------------+
-| L-Deoxyribose_chain.png |
-| L-Deoxyribose           |
-+-------------------------+
++---------------+
+| D-Deoxyribose |
++---------------+
+| L-Deoxyribose |
++---------------+
 
 
 Properties

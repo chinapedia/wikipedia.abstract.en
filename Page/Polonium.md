@@ -11,7 +11,7 @@ About one in 100,000 alpha emissions causes an excitation in the nucleus which 
 
 Solid state form
 
-alpha_po_lattice.jpg Polonium is a radioactive element that exists in two metallic allotropes. The alpha form is the only known example of a simple cubic crystal structure in a single atom basis at STP, with an edge length of 335.2 picometers; the beta form is rhombohedral.[4][5][6] The structure of polonium has been characterized by X-ray diffraction[7][8] and electron diffraction.[9]
+Polonium is a radioactive element that exists in two metallic allotropes. The alpha form is the only known example of a simple cubic crystal structure in a single atom basis at STP, with an edge length of 335.2 picometers; the beta form is rhombohedral.[4][5][6] The structure of polonium has been characterized by X-ray diffraction[7][8] and electron diffraction.[9]
 
 ²¹⁰Po (in common with ²³⁸Pu) has the ability to become airborne with ease: if a sample is heated in air to , 50% of it is vaporized in 45 hours to form diatomic Po₂ molecules, even though the melting point of polonium is and its boiling point is .[10][11][12] More than one hypothesis exists for how polonium does this; one suggestion is that small clusters of polonium atoms are spalled off by the alpha decay.
 

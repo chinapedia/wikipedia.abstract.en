@@ -1,4 +1,4 @@
-nagasakibomb.jpg of the atomic bombing of the Japanese city of Nagasaki on August 9, 1945, rose some above the bomb's hypocenter.]]
+of the atomic bombing of the Japanese city of Nagasaki on August 9, 1945, rose some above the bomb's hypocenter.]]
 
 A NUCLEAR WEAPON (also called an ATOM BOMB, NUKE, ATOMIC BOMB, NUCLEAR WARHEAD, A-BOMB, or NUCLEAR BOMB) is an explosive device that derives its destructive force from nuclear reactions, either fission (fission bomb) or from a combination of fission and fusion reactions (thermonuclear bomb). Both bomb types release large quantities of energy from relatively small amounts of matter. The first test of a fission ("atomic") bomb released an amount of energy approximately equal to .[1] The first thermonuclear ("hydrogen") bomb test released energy approximately equal to . A thermonuclear weapon weighing little more than can release energy equal to more than .[2] A nuclear device no larger than traditional bombs can devastate an entire city by blast, fire, and radiation. Since they are weapons of mass destruction, the proliferation of nuclear weapons is a focus of international relations policy.
 
@@ -11,7 +11,7 @@ The Treaty on the Non-Proliferation of Nuclear Weapons aims to reduce the spread
 
 Types
 
-Trinity_Detonation_T&B.jpg of the Manhattan Project was the first detonation of a nuclear weapon, which led J. Robert Oppenheimer to recall verses from the Hindu scripture Bhagavad Gita: "If the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the mighty one "... "I am become Death, the destroyer of worlds".]] There are two basic types of nuclear weapons: those that derive the majority of their energy from nuclear fission reactions alone, and those that use fission reactions to begin nuclear fusion reactions that produce a large amount of the total energy output.[9]
+of the Manhattan Project was the first detonation of a nuclear weapon, which led J. Robert Oppenheimer to recall verses from the Hindu scripture Bhagavad Gita: "If the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the mighty one "... "I am become Death, the destroyer of worlds".]] There are two basic types of nuclear weapons: those that derive the majority of their energy from nuclear fission reactions alone, and those that use fission reactions to begin nuclear fusion reactions that produce a large amount of the total energy output.[9]
 
 Fission weapons
 
@@ -27,7 +27,7 @@ The most commonly used fissile materials for nuclear weapons applications have b
 
 Fusion weapons
 
-Teller-Ulam_device_3D.svg for a hydrogen bomb: a fission bomb uses radiation to compress and heat a separate section of fusion fuel.]]
+for a hydrogen bomb: a fission bomb uses radiation to compress and heat a separate section of fusion fuel.]]
 
 The other basic type of nuclear weapon produces a large proportion of its energy in nuclear fusion reactions. Such fusion weapons are generally referred to as THERMONUCLEAR WEAPONS or more colloquially as HYDROGEN BOMBS (abbreviated as H-BOMBS), as they rely on fusion reactions between isotopes of hydrogen (deuterium and tritium). All such weapons derive a significant portion of their energy from fission reactions used to "trigger" fusion reactions, and fusion reactions can themselves trigger additional fission reactions.[12]
 
@@ -35,7 +35,7 @@ Only six countries—United States, Russia, United Kingdom, China, France, and I
 
 Thermonuclear bombs work by using the energy of a fission bomb to compress and heat fusion fuel. In the Teller-Ulam design, which accounts for all multi-megaton yield hydrogen bombs, this is accomplished by placing a fission bomb and fusion fuel (tritium, deuterium, or lithium deuteride) in proximity within a special, radiation-reflecting container. When the fission bomb is detonated, gamma rays and X-rays emitted first compress the fusion fuel, then heat it to thermonuclear temperatures. The ensuing fusion reaction creates enormous numbers of high-speed neutrons, which can then induce fission in materials not normally prone to it, such as depleted uranium. Each of these components is known as a "stage", with the fission bomb as the "primary" and the fusion capsule as the "secondary". In large, megaton-range hydrogen bombs, about half of the yield comes from the final fissioning of depleted uranium.[15]
 
-Virtually all thermonuclear weapons deployed today use the "two-stage" design described above, but it is possible to add additional fusion stages—each stage igniting a larger amount of fusion fuel in the next stage. This technique can be used to construct thermonuclear weapons of arbitrarily large yield, in contrast to fission bombs, which are limited in their explosive force. The largest nuclear weapon ever detonated, the Tsar Bomba of the USSR, which released an energy equivalent of over , was a three-stage weapon. Most thermonuclear weapons are considerably smaller than this, due to practical constraints from missile warhead space and weight requirements.[16] Edward_Teller_(1958)-LLNL.jpg, often referred to as the "father of the hydrogen bomb"]]
+Virtually all thermonuclear weapons deployed today use the "two-stage" design described above, but it is possible to add additional fusion stages—each stage igniting a larger amount of fusion fuel in the next stage. This technique can be used to construct thermonuclear weapons of arbitrarily large yield, in contrast to fission bombs, which are limited in their explosive force. The largest nuclear weapon ever detonated, the Tsar Bomba of the USSR, which released an energy equivalent of over , was a three-stage weapon. Most thermonuclear weapons are considerably smaller than this, due to practical constraints from missile warhead space and weight requirements.[16] , often referred to as the "father of the hydrogen bomb"]]
 
 Fusion reactions do not create fission products, and thus contribute far less to the creation of nuclear fallout than fission reactions, but because all thermonuclear weapons contain at least one fission stage, and many high-yield thermonuclear devices have a final fission stage, thermonuclear weapons can generate at least as much nuclear fallout as fission-only weapons.
 
@@ -58,13 +58,13 @@ Most variation in nuclear weapon design is for the purpose of achieving differen
 
 Weapons delivery
 
-Fat_man.jpgs, such as this "Fat Man" weapon dropped on Nagasaki, Japan. They were large and could only be delivered by heavy bomber aircraft]] Dnepr_rocket_lift-off_1.jpg of the Russian Strategic Rocket Forces R-36 ICBM; also known by the NATO reporting name: SS-18 Satan. Upon its first fielding in the late 1960s, the SS-18 remains the single highest throw weight missile delivery system ever built.]]
+s, such as this "Fat Man" weapon dropped on Nagasaki, Japan. They were large and could only be delivered by heavy bomber aircraft]] of the Russian Strategic Rocket Forces R-36 ICBM; also known by the NATO reporting name: SS-18 Satan. Upon its first fielding in the late 1960s, the SS-18 remains the single highest throw weight missile delivery system ever built.]]
 
 The system used to deliver a nuclear weapon to its target is an important factor affecting both nuclear weapon design and nuclear strategy. The design, development, and maintenance of delivery systems are among the most expensive parts of a nuclear weapons program; they account, for example, for 57% of the financial resources spent by the United States on nuclear weapons projects since 1940.[26]
 
 The simplest method for delivering a nuclear weapon is a gravity bomb dropped from aircraft; this was the method used by the United States against Japan. This method places few restrictions on the size of the weapon. It does, however, limit attack range, response time to an impending attack, and the number of weapons that a country can field at the same time. With miniaturization, nuclear bombs can be delivered by both strategic bombers and tactical fighter-bombers. This method is the primary means of nuclear weapons delivery; the majority of U.S. nuclear warheads, for example, are free-fall gravity bombs, namely the B61.[27]
 
-Trident_C-4_montage.jpg SLBM (submarine launched ballistic missile), from submerged to the terminal, or re-entry phase, of the multiple independently targetable reentry vehicles]]
+SLBM (submarine launched ballistic missile), from submerged to the terminal, or re-entry phase, of the multiple independently targetable reentry vehicles]]
 
 Preferable from a strategic point of view is a nuclear weapon mounted on a missile, which can use a ballistic trajectory to deliver the warhead over the horizon. Although even short-range missiles allow for a faster and less vulnerable attack, the development of long-range intercontinental ballistic missiles (ICBMs) and submarine-launched ballistic missiles (SLBMs) has given some nations the ability to plausibly deliver missiles anywhere on the globe with a high likelihood of success.
 
@@ -77,7 +77,7 @@ Nuclear strategy
 
 Nuclear warfare strategy is a set of policies that deal with preventing or fighting a nuclear war. The policy of trying to prevent an attack by a nuclear weapon from another country by threatening nuclear retaliation is known as the strategy of nuclear deterrence. The goal in deterrence is to always maintain a second strike capability (the ability of a country to respond to a nuclear attack with one of its own) and potentially to strive for first strike status (the ability to destroy an enemy's nuclear forces before they could retaliate). During the Cold War, policy and military theorists considered the sorts of policies that might prevent a nuclear attack, and they developed game theory models that could lead to stable deterrence conditions.[30]
 
-W87_MX_Missile_schematic.jpg was an ICBM developed to replace the Minuteman missile in the late 1980s. Each missile, like the heavier lift Russian SS-18 Satan, could contain up to ten nuclear warheads (shown in red), each of which could be aimed at a different target. A factor in the development of MIRVs was to make complete missile defense difficult for an enemy country.]]
+was an ICBM developed to replace the Minuteman missile in the late 1980s. Each missile, like the heavier lift Russian SS-18 Satan, could contain up to ten nuclear warheads (shown in red), each of which could be aimed at a different target. A factor in the development of MIRVs was to make complete missile defense difficult for an enemy country.]]
 
 Different forms of nuclear weapons delivery (see above) allow for different types of nuclear strategies. The goals of any strategy are generally to make it difficult for an enemy to launch a pre-emptive strike against the weapon system and difficult to defend against the delivery of the weapon during a potential conflict. This can mean keeping weapon locations hidden, such as deploying them on submarines or land mobile transporter erector launchers whose locations are difficult to track, or it can mean protecting weapons by burying them in hardened missile silo bunkers. Other components of nuclear strategies included using missile defenses to destroy the missiles before they land, or implementing civil defense measures using early-warning systems to evacuate citizens to safe areas before an attack.
 
@@ -98,7 +98,7 @@ Graham Allison makes a similar case, arguing that the key to expanded deterrence
 
 Governance, control, and law
 
-Flag_of_IAEA.svg was created in 1957 to encourage peaceful development of nuclear technology while providing international safeguards against nuclear proliferation.]]
+was created in 1957 to encourage peaceful development of nuclear technology while providing international safeguards against nuclear proliferation.]]
 
 Because they are weapons of mass destruction, the proliferation and possible use of nuclear weapons are important issues in international relations and diplomacy. In most countries, the use of nuclear force can only be authorized by the head of government or head of state.[41] Despite controls and regulations governing nuclear weapons, there is an inherent danger of "accidents, mistakes, false alarms, blackmail, theft, and sabotage".[42]
 
@@ -120,7 +120,7 @@ In 2013, Mark Diesendorf said that governments of France, India, North Korea, Pa
 
 Disarmament
 
-US_and_USSR_nuclear_stockpiles.svg and United States nuclear weapon stockpiles throughout the Cold War until 2015, with a precipitous drop in total numbers following the end of the Cold War in 1991.]]
+and United States nuclear weapon stockpiles throughout the Cold War until 2015, with a precipitous drop in total numbers following the end of the Cold War in 1991.]]
 
 Nuclear disarmament refers to both the act of reducing or eliminating nuclear weapons and to the end state of a nuclear-free world, in which nuclear weapons are eliminated.
 
@@ -130,7 +130,7 @@ Only one country—South Africa—has ever fully renounced nuclear weapons they 
 
 Proponents of nuclear disarmament say that it would lessen the probability of nuclear war, especially accidentally. Critics of nuclear disarmament say that it would undermine the present nuclear peace and deterrence and would lead to increased global instability. Various American elder statesmen,[50] who were in office during the Cold War period, have been advocating the elimination of nuclear weapons. These officials include Henry Kissinger, George Shultz, Sam Nunn, and William Perry. In January 2010, Lawrence M. Krauss stated that "no issue carries more importance to the long-term health and security of humanity than the effort to reduce, and perhaps one day, rid the world of nuclear weapons".[51]
 
-SS-24_silo_destruction.jpg workers use equipment provided by the U.S. Defense Threat Reduction Agency to dismantle a Soviet-era missile silo. After the end of the Cold War, Ukraine and the other non-Russian, post-Soviet republics relinquished Soviet nuclear stockpiles to Russia.]]
+workers use equipment provided by the U.S. Defense Threat Reduction Agency to dismantle a Soviet-era missile silo. After the end of the Cold War, Ukraine and the other non-Russian, post-Soviet republics relinquished Soviet nuclear stockpiles to Russia.]]
 
 In the years after the end of the Cold War, there have been numerous campaigns to urge the abolition of nuclear weapons, such as that organized by the Global Zero movement, and the goal of a "world without nuclear weapons" was advocated by United States President Barack Obama in an April 2009 speech in Prague.[52] A CNN poll from April 2010 indicated that the American public was nearly evenly split on the issue.[53]
 
@@ -164,7 +164,7 @@ Notable nuclear weapons accidents
 
 Nuclear testing and fallout
 
-Rael_Nuclear_use_locations_world_map.png.]] NNSA-NSO-787.jpg shows a mushroom cloud in the background. Scenes such as this were typical during the 1950s. From 1951 to 1962 the government conducted 100 atmospheric tests at the nearby Nevada Test Site.]]
+.]] shows a mushroom cloud in the background. Scenes such as this were typical during the 1950s. From 1951 to 1962 the government conducted 100 atmospheric tests at the nearby Nevada Test Site.]]
 
 Over 500 atmospheric nuclear weapons tests were conducted at various sites around the world from 1945 to 1980. Radioactive fallout from nuclear weapons testing was first drawn to public attention in 1954 when the Castle Bravo hydrogen bomb test at the Pacific Proving Grounds contaminated the crew and catch of the Japanese fishing boat _Lucky Dragon_.[73] One of the fishermen died in Japan seven months later, and the fear of contaminated tuna led to a temporary boycotting of the popular staple in Japan. The incident caused widespread concern around the world, especially regarding the effects of nuclear fallout and atmospheric nuclear testing, and "provided a decisive impetus for the emergence of the anti-nuclear weapons movement in many countries".[74]
 
@@ -192,7 +192,7 @@ Staying indoors until after the most hazardous fallout isotope, I-131 decays awa
 
 Public opposition
 
-Women_Strike_for_Peace_NYWTS.jpg during the Cuban Missile Crisis]] Essais_nucleaires_manif.jpg, France, in the 1980s.]]
+during the Cuban Missile Crisis]] , France, in the 1980s.]]
 
 Peace movements emerged in Japan and in 1954 they converged to form a unified "Japanese Council Against Atomic and Hydrogen Bombs". Japanese opposition to nuclear weapons tests in the Pacific Ocean was widespread, and "an estimated 35 million signatures were collected on petitions calling for bans on nuclear weapons".[86]
 

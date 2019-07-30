@@ -1,4 +1,4 @@
-Gok_turk_Epigraph_Copy_in_Gazi_University_Ankara.jpg in Ankara, Turkey.]] Bilge_Khagan_inscription_lines_36-40_in_original_Old_Turkic_script.svg Location_of_Orkhon_valley.JPG
+in Ankara, Turkey.]]
 
 The OLD TURKIC SCRIPT (also known as variously GÖKTÜRK SCRIPT, ORKHON SCRIPT, ORKHON-YENISEY SCRIPT) is the alphabet used by the Göktürks and other early Turkic khanates during the 8th to 10th centuries to record the Old Turkic language.[1]
 
@@ -31,107 +31,105 @@ The Old Turkic manuscripts, of which there are none earlier than the 9th century
 
 Table of characters
 
-Thomsen_Orkhon_table_1893.png
-
 Old Turkic being a synharmonic language, a number of consonant signs are divided into two "synharmonic sets", one for front vowels and the other for back vowels. Such vowels can be taken as intrinsic to the consonant sign, giving the Old Turkic alphabet an aspect of an abugida script. In these cases, it is customary to use superscript numerals ¹ and ² to mark consonant signs used with back and front vowels, respectively. This convention was introduced by Thomsen (1893), and followed by Gabain (1941), Malov (1951) and Tekin (1968).
 
 Vowels
 
-+-------------------------+----------+------------+------+
-| Orkhon                  | Yenisei  | Trans-     | IPA  |
-|                         | variants | literation |      |
-+:=======================:+==========+============+======+
-| Image                   | Text     |            |      |
-+-------------------------+----------+------------+------+
-| Old_Turkic_letter_A.svg |          |            | a, e |
-+-------------------------+----------+------------+------+
-| Old_Turkic_letter_I.svg |          |            | ı, i |
-+-------------------------+----------+------------+------+
-| Old_Turkic_letter_O.svg |          |            | o, u |
-+-------------------------+----------+------------+------+
-| Old_Turkic_letter_U.svg |          |            | ö, ü |
-+-------------------------+----------+------------+------+
++--------+----------+------------+------+
+| Orkhon | Yenisei  | Trans-     | IPA  |
+|        | variants | literation |      |
++:======:+==========+============+======+
+| Image  | Text     |            |      |
++--------+----------+------------+------+
+|        |          |            | a, e |
++--------+----------+------------+------+
+|        |          |            | ı, i |
++--------+----------+------------+------+
+|        |          |            | o, u |
++--------+----------+------------+------+
+|        |          |            | ö, ü |
++--------+----------+------------+------+
 
 Consonants
 
 Synharmonic sets
 
-+--------------------------+-------------+
-| Back vowel               | Front vowel |
-+==========================+=============+
-| Orkhon                   | Yenisei     |
-|                          | variant     |
-+--------------------------+-------------+
-| Image                    | Text        |
-+--------------------------+-------------+
-| Old_Turkic_letter_B1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_D1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_G1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_L1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_N1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_R1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_S1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_T1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_Y1.svg |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_Q.svg  |             |
-+--------------------------+-------------+
-| Old_Turkic_letter_OQ.svg |             |
-+--------------------------+-------------+
++------------+-------------+
+| Back vowel | Front vowel |
++============+=============+
+| Orkhon     | Yenisei     |
+|            | variant     |
++------------+-------------+
+| Image      | Text        |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
+|            |             |
++------------+-------------+
 
 Other consonantal signs
 
-+---------------------------+----------+------------+------------+
-| Orkhon                    | Yenisei  | Trans-     | IPA        |
-|                           | variants | literation |            |
-+===========================+==========+============+============+
-| Image                     | Text     |            |            |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_CH.svg  |          |            | č          |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_M.svg   |          |            | m          |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_P.svg   |          |            | p          |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_SH.svg  |          | [14]       | š          |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_Z.svg   |          |            | z          |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_NG.svg  |          |            | ṅ          |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_ICH.svg |          |            | ič, či, č  |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_IQ.svg  |          |            | yq, qy, q  |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_NCH.svg |          |            | -nč        |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_NY.svg  |          |            | -ɲ         |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_LT.svg  |          |            | -lt        |
-+---------------------------+----------+------------+------------+
-| Old_Turkic_letter_NT.svg  |          |            | -nt        |
-+---------------------------+----------+------------+------------+
-|                           |          |            | ot, ut[15] |
-+---------------------------+----------+------------+------------+
-|                           |          |            | baš[16]    |
-+---------------------------+----------+------------+------------+
++--------+----------+------------+------------+
+| Orkhon | Yenisei  | Trans-     | IPA        |
+|        | variants | literation |            |
++========+==========+============+============+
+| Image  | Text     |            |            |
++--------+----------+------------+------------+
+|        |          |            | č          |
++--------+----------+------------+------------+
+|        |          |            | m          |
++--------+----------+------------+------------+
+|        |          |            | p          |
++--------+----------+------------+------------+
+|        |          | [14]       | š          |
++--------+----------+------------+------------+
+|        |          |            | z          |
++--------+----------+------------+------------+
+|        |          |            | ṅ          |
++--------+----------+------------+------------+
+|        |          |            | ič, či, č  |
++--------+----------+------------+------------+
+|        |          |            | yq, qy, q  |
++--------+----------+------------+------------+
+|        |          |            | -nč        |
++--------+----------+------------+------------+
+|        |          |            | -ɲ         |
++--------+----------+------------+------------+
+|        |          |            | -lt        |
++--------+----------+------------+------------+
+|        |          |            | -nt        |
++--------+----------+------------+------------+
+|        |          |            | ot, ut[15] |
++--------+----------+------------+------------+
+|        |          |            | baš[16]    |
++--------+----------+------------+------------+
 
 A colon-like symbol (⁚) is sometimes used as a word separator.[17] In some cases a ring (⸰) is used instead.[18]
 
-A reading example (right to left): Orkhon.svg transliterated T²ṄR²I, this spells the name of the Turkic sky god, Tengri ().
+A reading example (right to left): transliterated T²ṄR²I, this spells the name of the Turkic sky god, Tengri ().
 
 
 Variants
 
-5_manat_rev.jpg of the Azerbaijani 5 manat banknote issued since 2006.[19] ]] ToyokAndRjukokuAlphabets.gif. Per ]]
+of the Azerbaijani 5 manat banknote issued since 2006.[19] ]] . Per ]]
 
 Variants of the script were found from Mongolia and Xinjiang in the east to the Balkans in the west. The preserved inscriptions were dated to between the 8th and 10th centuries.
 

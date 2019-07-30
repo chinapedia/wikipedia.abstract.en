@@ -1,4 +1,4 @@
-13-09-23-Fotoflug-Nordsee-RalfR-N3S_0008.jpg estuary, and thence to the North Sea]]
+estuary, and thence to the North Sea]]
 
 The KIEL CANAL (, literally "North-[to]-Baltic Sea canal", formerly known as the KAISER-WILHELM-KANAL) is a long freshwater canal in the German state of Schleswig-Holstein. The canal was finished in 1895, but later widened, and links the North Sea at Brunsbüttel to the Baltic Sea at Kiel-Holtenau. An average of is saved by using the Kiel Canal instead of going around the Jutland Peninsula. This not only saves time but also avoids storm-prone seas and having to pass through the Sound or Belts.
 
@@ -28,7 +28,7 @@ Operation
 
 There are detailed traffic rules for the canal. Each vessel in passage is classified in one of six traffic groups according to its dimensions. Larger ships are obliged to accept pilots and specialised canal helmsmen, in some cases even the assistance of a tugboat. Furthermore, there are regulations regarding the passing of oncoming ships. Larger ships may also be required to moor at the bollards provided at intervals along the canal to allow the passage of oncoming vessels. Special rules apply to pleasure craft.
 
-KielCanalView.jpg'']]
+'']]
 
 All permanent, fixed bridges crossing the canal since its construction have a clearance of .
 
@@ -37,7 +37,7 @@ Maximum length for ships passing the Kiel Canal is ; with the maximum width (bea
 
 Crossings
 
-Eisenbahnbrücke_Rendsburg.jpg]] Levensauer_Hochbrücke_(um_1900).jpg]] Several railway lines and federal roads (Autobahnen and Bundesstraßen) cross the canal on eleven fixed links. The bridges have a clearance of allowing for ship heights up to . The oldest bridge still in use is the _Levensau High Bridge_ from 1893; however, the bridge will have to be replaced in the course of a canal expansion already underway. In sequence and in the direction of the official kilometre count from west (Brunsbüttel) to east (Holtenau) these crossings are:
+]] ]] Several railway lines and federal roads (Autobahnen and Bundesstraßen) cross the canal on eleven fixed links. The bridges have a clearance of allowing for ship heights up to . The oldest bridge still in use is the _Levensau High Bridge_ from 1893; however, the bridge will have to be replaced in the course of a canal expansion already underway. In sequence and in the direction of the official kilometre count from west (Brunsbüttel) to east (Holtenau) these crossings are:
 
 -   _Brunsbüttel High Bridge_, four lane crossing of Bundesstraße 5
 -   _Hochdonn High Bridge_ of the Marsh Railway

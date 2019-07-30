@@ -1,4 +1,4 @@
-InfantBaptism.jpg INFANT BAPTISM[1][2] is the practice of baptising infants or young children. In theological discussions, the practice is sometimes referred to as PAEDOBAPTISM, or PEDOBAPTISM, from the Greek _pais_ meaning "child". This can be contrasted with what is called "believer's baptism", or CREDOBAPTISM, from the Latin word _credo_ meaning "I believe", which is the religious practice of baptising only individuals who personally confess faith in Jesus, therefore excluding underage children. Opposition to infant baptism is termed CATABAPTISM. Infant baptism is also called "christening" by some faith traditions.
+INFANT BAPTISM[1][2] is the practice of baptising infants or young children. In theological discussions, the practice is sometimes referred to as PAEDOBAPTISM, or PEDOBAPTISM, from the Greek _pais_ meaning "child". This can be contrasted with what is called "believer's baptism", or CREDOBAPTISM, from the Latin word _credo_ meaning "I believe", which is the religious practice of baptising only individuals who personally confess faith in Jesus, therefore excluding underage children. Opposition to infant baptism is termed CATABAPTISM. Infant baptism is also called "christening" by some faith traditions.
 
 Most Christians belong to denominations that practice infant baptism.[3] Branches of Christianity that practice infant baptism include Catholics, Eastern and Oriental Orthodox, and among Protestants, several denominations: Anglicans, Lutherans, Presbyterians, Congregationalists and other Reformed denominations, Methodists and some Nazarenes,[4] and the Moravian Church.
 
@@ -41,7 +41,6 @@ During the medieval and Reformation eras, infant baptism was seen as a way to in
 
 Differences among paedobaptists
 
-Russian-baptism.JPG
 (Sophia Cathedral, 2005).
 
 ]] Different Christian denominations who practice infant baptism attach different meanings to the sacrament and explain its efficacy in different ways.
@@ -64,11 +63,11 @@ The Catechism of the Catholic Church states: "Since Baptism signifies liberation
 
 Other ancient Christian Churches
 
-The_moment_of_Christening.jpg in Greek Orthodox Church.]] The Eastern Orthodox Church, Oriental Orthodoxy and the Assyrian Church of the East also insist on the need to have infants baptised as soon as is practicable after birth. Similar to the Roman Catholic Church, they teach that baptism is not merely a symbol but actually conveys grace. Baptism is a sacrament because it is an "instrument" instituted by Jesus Christ to impart grace to its recipients. Infants are traditionally baptised on the eighth day,[45] recalling the biblical injunction to circumcise on the eighth day. However, this is not mandatory. In many of these churches, the Sacred Mystery of Chrismation (Confirmation) is administered by the priest immediately after baptism. Holy Communion, in the form of consecrated wine and bread, is also given to infants after they are baptised.[46]
+in Greek Orthodox Church.]] The Eastern Orthodox Church, Oriental Orthodoxy and the Assyrian Church of the East also insist on the need to have infants baptised as soon as is practicable after birth. Similar to the Roman Catholic Church, they teach that baptism is not merely a symbol but actually conveys grace. Baptism is a sacrament because it is an "instrument" instituted by Jesus Christ to impart grace to its recipients. Infants are traditionally baptised on the eighth day,[45] recalling the biblical injunction to circumcise on the eighth day. However, this is not mandatory. In many of these churches, the Sacred Mystery of Chrismation (Confirmation) is administered by the priest immediately after baptism. Holy Communion, in the form of consecrated wine and bread, is also given to infants after they are baptised.[46]
 
 Lutherans
 
-Melanchthon-tauft.jpg baptizing an infant]] Lutherans practice infant baptism because they believe that God mandates it through the instruction of Jesus Christ, "Go and _make disciples of all nations_, baptising them in the name of the Father and of the Son and of the Holy Spirit ()", in which Jesus does not set any age limit:
+baptizing an infant]] Lutherans practice infant baptism because they believe that God mandates it through the instruction of Jesus Christ, "Go and _make disciples of all nations_, baptising them in the name of the Father and of the Son and of the Holy Spirit ()", in which Jesus does not set any age limit:
 
 They also cite other biblical passages such as , , and in support of their position. For example, in the _Acts of the Apostles_ Saint Peter's teachings on Pentecost included children in the promise of Baptism, "Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit. The promise is for _you and your children_".[47]
 
@@ -76,7 +75,7 @@ For them baptism is a "means of grace" through which God creates and strengthens
 
 Methodist churches
 
-Baptistry_(United_Methodist_Church_of_the_Saviour).jpg church]] Methodists contend that infant baptism has spiritual value for the infant. John Wesley, the founder of Methodism, held that baptism is a means of grace, but it was symbolic.[53] Methodists view baptism in water as symbolic and believe that it does not regenerate the baptised nor cleanse them from sin.
+church]] Methodists contend that infant baptism has spiritual value for the infant. John Wesley, the founder of Methodism, held that baptism is a means of grace, but it was symbolic.[53] Methodists view baptism in water as symbolic and believe that it does not regenerate the baptised nor cleanse them from sin.
 
 Wesley's own views of infant baptism shifted over time as he put more emphasis on salvation by faith and new birth by faith alone. This has fueled much debate within Methodism over the purpose of infant baptism, though most agree it should be continued. Wesley and the Methodists would agree with the Reformed or Presbyterian denominations that infant baptism is symbolic.
 

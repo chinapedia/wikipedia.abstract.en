@@ -12,7 +12,7 @@ In 2004, he was made a Fellow of the Computer History Museum "for seminal work i
 
 Programming languages
 
-Niklaus_Wirth_large.jpg Wirth was the chief designer of the programming languages Euler, Algol W, Pascal,[5] Modula, Modula-2, Oberon, Oberon-2, and Oberon-07. He was also a major part of the design and implementation team for the Lilith and Oberon operating systems, and for the Lola digital hardware design and simulation system. He received the Association for Computing Machinery (ACM) Turing Award for the development of these languages in 1984 and in 1994 he was inducted as a Fellow of the ACM.
+Wirth was the chief designer of the programming languages Euler, Algol W, Pascal,[5] Modula, Modula-2, Oberon, Oberon-2, and Oberon-07. He was also a major part of the design and implementation team for the Lilith and Oberon operating systems, and for the Lola digital hardware design and simulation system. He received the Association for Computing Machinery (ACM) Turing Award for the development of these languages in 1984 and in 1994 he was inducted as a Fellow of the ACM.
 
 
 Publications
@@ -22,8 +22,6 @@ His book, written jointly with Kathleen Jensen, _The Pascal User Manual and Repo
 His article _Program Development by Stepwise Refinement_, about the teaching of programming, is considered to be a classic text in software engineering.[6] In 1975 he wrote the book _Algorithms + Data Structures = Programs_, which gained wide recognition.[7] Major revisions of this book with the new title _Algorithms + Data Structures_ were published in 1985 and 2004. The examples in the first edition were written in Pascal. These were replaced in the later editions with examples written in Modula-2 and Oberon respectively.
 
 His textbook, _Systematic Programming: An Introduction_, was considered a good source for students who wanted to do more than just coding. Regarded as a challenging text to work through, it was sought as imperative reading for those interested in numerical mathematics.[8]
-
-Wirth.jpg
 
 In 1992 he published (together with Jürg Gutknecht) the full documentation of the Oberon OS.[9]. A second book (together with Martin Reiser) was intended as a programmer's guide.[10]
 

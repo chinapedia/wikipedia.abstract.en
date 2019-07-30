@@ -11,7 +11,7 @@ Python interpreters are available for many operating systems. A global community
 
 History
 
-Guido_van_Rossum_OSCON_2006_cropped.png at OSCON 2006.]]
+at OSCON 2006.]]
 
 Python was conceived in the late 1980s[7] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language (itself inspired by SETL),[8] capable of exception handling and interfacing with the Amoeba operating system.[9] Its implementation began in December 1989.[10] Van Rossum continued as Python's lead developer until July 12, 2018, when he announced his "permanent vacation" from his responsibilities as Python's _Benevolent Dictator For Life_, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker.[11] In January, 2019, active Python core developers elected Brett Cannon, Nick Coghlan, Barry Warsaw, Carol Willing and Van Rossum to a five-member "Steering Council" to lead the project.[12]
 
@@ -114,7 +114,7 @@ Methods on objects are functions attached to the object's class; the syntax inst
 
 Typing
 
-Python_3._The_standard_type_hierarchy.png Python uses duck typing and has typed objects but untyped variable names. Type constraints are not checked at compile time; rather, operations on an object may fail, signifying that the given object is not of a suitable type. Despite being dynamically typed, Python is strongly typed, forbidding operations that are not well-defined (for example, adding a number to a string) rather than silently attempting to make sense of them.
+Python uses duck typing and has typed objects but untyped variable names. Type constraints are not checked at compile time; rather, operations on an object may fail, signifying that the given object is not of a suitable type. Despite being dynamically typed, Python is strongly typed, forbidding operations that are not well-defined (for example, adding a number to a string) rather than silently attempting to make sense of them.
 
 Python allows programmers to define their own types using classes, which are most often used for object-oriented programming. New instances of classes are constructed by calling the class (for example, SpamClass() or EggsClass()), and the classes are instances of the metaclass type (itself an instance of itself), allowing metaprogramming and reflection.
 

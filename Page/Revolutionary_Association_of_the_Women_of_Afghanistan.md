@@ -12,14 +12,14 @@ The RAWA was first initiated in Kabul in 1977 as an independent social and polit
 
 Founder
 
-Meena_founder_of_RAWA_speaking_in_1982.jpg (1956–1987), founder of RAWA]]
+(1956–1987), founder of RAWA]]
 
 RAWA was founded by a group of Afghan women led by Meena Keshwar Kamal.[4] At age 21, she laid the foundations of RAWA through her work educating women. In 1979, Kamal began a campaign against Soviet forces and the Soviet-supported government of Afghanistan. In 1981, she launched a bilingual magazine called Payam-e-Zan (Women’s Message). In the same year, she visited France for the French Socialist Party Congress. She also established schools for Afghan refugee children, hospitals and handicraft centers for refugee women in Pakistan. Her activities and views, as well as her work against the government and religious fundamentalists led to her assassination on February 4, 1987.[5]
 
 
 Early activities
 
-RAWA_protest_rally_against_Taliban_in_Peshawar_April28-1998.jpg, Pakistan on April 28, 1998]]
+, Pakistan on April 28, 1998]]
 
 Much of RAWA's efforts in the 1990s involved holding seminars and press conferences and other fund-raising activities in Pakistan. RAWA also created secret schools, orphanages, nursing courses, and handicraft centers for women and girls in Pakistan and Afghanistan. They secretly filmed women being beaten in the street in Afghanistan by the religious police, and being executed. RAWA activities were forbidden by both the Taliban and the Northern Alliance, but they persisted, and even publicised their work in publications like Payam-e-Zan.[6]
 

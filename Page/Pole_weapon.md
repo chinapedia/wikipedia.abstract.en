@@ -1,5 +1,3 @@
-Hallebardes-p1000544.jpg Polearms.jpg
-
 A POLE WEAPON or POLE ARM is a close combat weapon in which the main fighting part of the weapon is fitted to the end of a long shaft, typically of wood, thereby extending the user's effective range and striking power. Because many pole weapons were adapted from farm implements or other tools, and contain relatively little metal, they were cheap to make and readily available. This made them the favored weapon of peasant levies and peasant rebellions the world over.
 
 Pole arms can be divided into three broad categories: those designed for extended reach and thrusting tactics used in pike square or phalanx combat; those designed to increase leverage (thanks to hands moving freely on a pole) to maximize centrifugal force against cavalry; and those designed for throwing tactics used in skirmish line combat. Spears, glaives, guandaos, pudaos, poleaxes, halberds, harpoons, sovnyas, tridents, naginatas, war scythes and javelins are all varieties of pole arms.
@@ -18,7 +16,7 @@ While men-at-arms may have been armed with custom designed military weapons, mil
 
 List of pole weapons
 
-Muzej_Međimurja,_Čakovec_(Croatia)_-_zbirka_hladnog_oružja.jpg, Croatia.]]
+, Croatia.]]
 
 Ancient pole weapons
 
@@ -48,8 +46,6 @@ The blade is very deep and curved on its face, resembling a Chinese saber, or da
 Podao
 
 A _podao_, 'long-handled sabre', is a Chinese pole arm, also known as the zhan ma dao ('horsecutter sabre'), which has a lighter blade and a ring at the end. A podao is an infantryman's weapon, mainly used for cutting the legs off oncoming charging horses to bring down the riders.
-
-Chinese_dagger-axe_and_related_polearms.svg
 
 Ngao
 

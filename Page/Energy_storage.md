@@ -1,4 +1,4 @@
-Stwlan.dam.jpg Pumped Storage Scheme in Wales. The lower power station has four water turbines which can generate a total of 360 MW of electricity for several hours, an example of artificial energy storage and conversion.]]
+Pumped Storage Scheme in Wales. The lower power station has four water turbines which can generate a total of 360 MW of electricity for several hours, an example of artificial energy storage and conversion.]]
 
 ENERGY STORAGE is the capture of energy produced at one time for use at a later time. A device that stores energy is generally called an accumulator or battery. Energy comes in multiple forms including radiation, chemical, gravitational potential, electrical potential, electricity, elevated temperature, latent heat and kinetic. Energy storage involves converting energy from forms that are difficult to store to more conveniently or economically storable forms.
 
@@ -76,7 +76,7 @@ While a hydroelectric dam does not directly store energy from other generating u
 
 Pumped-storage
 
-Adam_Beck_Complex.jpg at Niagara Falls, Canada, which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand.]]
+at Niagara Falls, Canada, which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand.]]
 
 Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW.[2] PSH energy efficiency varies in practice between 70% and 80%,[3][4][5][6] with claims of up to 87%.[7]
 
@@ -84,7 +84,7 @@ At times of low electrical demand, excess generation capacity is used to pump wa
 
 Compressed air
 
-Compressed_Air_Loco.jpg used inside a mine between 1928 and 1961.]]
+used inside a mine between 1928 and 1961.]]
 
 Compressed air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation.[8] Small scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir, as a salt dome.
 
@@ -94,7 +94,7 @@ Compression of air creates heat; the air is warmer after compression. Expansion 
 
 Flywheel energy storage
 
-Example_of_cylindrical_flywheel_rotor_assembly.png Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg flywheel. Built for use on Formula 1 racing cars, it is employed to recover and reuse kinetic energy captured during braking.]]
+flywheel. Built for use on Formula 1 racing cars, it is employed to recover and reuse kinetic energy captured during braking.]]
 
 Flywheel energy storage (FES) works by accelerating a rotor (flywheel) to a very high speed, holding energy as rotational energy. When energy is extracted, the flywheel's rotational speed declines as a consequence of conservation of energy; adding energy correspondingly results in an increase in the speed of the flywheel.
 
@@ -112,7 +112,7 @@ Methods include using rails[23][24] and cranes[25] to move concrete weights up a
 
 Thermal storage
 
-Fernwärmespricher_Theiss.JPG in Lower Austria with a thermal capacity of 2 GWh]]
+in Lower Austria with a thermal capacity of 2 GWh]]
 
 Thermal energy storage (TES) is the temporary storage or removal of heat.
 
@@ -134,7 +134,7 @@ Electrochemical
 
 Rechargeable battery
 
-Datacenter_Backup_Batteries.jpg in a data center]]
+in a data center]]
 
 A rechargeable battery, comprises one or more electrochemical cells. It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many different shapes and sizes, ranging from button cells to megawatt grid systems.
 
@@ -159,7 +159,7 @@ A flow battery is technically akin both to a fuel cell and an electrochemical ac
 
 Supercapacitor
 
-Expo_2010_Electric_Bus.jpg powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China. Charging rails can be seen suspended over the bus.]]
+powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China. Charging rails can be seen suspended over the bus.]]
 
 Supercapacitors, also called electric double-layer capacitors (EDLC) or ultracapacitors, are generic terms for a family of electrochemical capacitors[38] that do not have conventional solid dielectrics. Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance.[39][40][41]
 
@@ -228,7 +228,7 @@ Electrical methods
 
 Capacitor
 
-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_@_5000_VDC.jpg.]]
+.]]
 
 A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically. Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery, or like other types of rechargeable energy storage system.[65] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg.
 
@@ -271,31 +271,29 @@ Grid electricity and power stations
 
 Renewable energy storage
 
-Construction of the Salt Tanks which provide efficient thermal energy storage[86] so that output can be provided after the sun goes down, and output can be scheduled to meet demand requirements.[87] The 280 MW Solana Generating Station is designed to provide six hours of energy storage. This allows the plant to generate about 38 percent of its rated capacity over the course of a year.[88]
-
-12-05-08_AS1.JPG is a commercial parabolic trough solar thermal power plant, located in Spain. The Andasol plant uses tanks of molten salt to store solar energy so that it can continue generating electricity even when the sun isn't shining.[89]]]
+is a commercial parabolic trough solar thermal power plant, located in Spain. The Andasol plant uses tanks of molten salt to store solar energy so that it can continue generating electricity even when the sun isn't shining.[86]]]
 
 The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons. A very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the regions hydroelectric capacity, then some additional source of energy will be needed.
 
-Many renewable energy sources (notably solar and wind) produce variable power.[90] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms.[91]
+Many renewable energy sources (notably solar and wind) produce variable power.[87] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms.[88]
 
-The main method of electrical grid storage is pumped-storage hydroelectricity. Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs, using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity.[92] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly.[93]
+The main method of electrical grid storage is pumped-storage hydroelectricity. Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs, using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity.[89] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly.[90]
 
-Some forms of storage that produce electricity include pumped-storage hydroelectric dams, rechargeable batteries, thermal storage including molten salts which can efficiently store and release very large quantities of heat energy,[94] and compressed air energy storage, flywheels, cryogenic systems and superconducting magnetic coils.
+Some forms of storage that produce electricity include pumped-storage hydroelectric dams, rechargeable batteries, thermal storage including molten salts which can efficiently store and release very large quantities of heat energy,[91] and compressed air energy storage, flywheels, cryogenic systems and superconducting magnetic coils.
 
-Surplus power can also be converted into methane (sabatier process) with stockage in the natural gas network.[95][96]
+Surplus power can also be converted into methane (sabatier process) with stockage in the natural gas network.[92][93]
 
-In 2011, the Bonneville Power Administration in Northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks. After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy.[97][98]
+In 2011, the Bonneville Power Administration in Northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks. After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy.[94][95]
 
 Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines.
 
-Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities.[99]
+Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities.[96]
 
 In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.
 
 Air conditioning
 
-Thermal energy storage (TES) can be used for air conditioning.[100] It is most widely used for cooling single large buildings and/or groups of smaller buildings. Commercial air conditioning systems are the biggest contributors to peak electrical loads. In 2009, thermal storage was used in over 3,300 buildings in over 35 countries. It works by creating ice at night and using the ice for cooling during the hotter daytime periods.[101]
+Thermal energy storage (TES) can be used for air conditioning.[97] It is most widely used for cooling single large buildings and/or groups of smaller buildings. Commercial air conditioning systems are the biggest contributors to peak electrical loads. In 2009, thermal storage was used in over 3,300 buildings in over 35 countries. It works by creating ice at night and using the ice for cooling during the hotter daytime periods.[98]
 
 The most popular technique is ice storage, which requires less space than water and is less costly than fuel cells or flywheels. In this application, a standard chiller runs at night to produce an ice pile. Water then circulates through the pile during the day to chill water that would normally be the chiller's daytime output.
 
@@ -303,7 +301,7 @@ A partial storage system minimizes capital investment by running the chillers ne
 
 A full storage system shuts off the chillers during peak load hours. Capital costs are higher, as such a system requires larger chillers and a larger ice storage system.
 
-This ice is produced when electrical utility rates are lower.[102] Off-peak cooling systems can lower energy costs. The U.S. Green Building Council has developed the Leadership in Energy and Environmental Design (LEED) program to encourage the design of reduced-environmental impact buildings. Off-peak cooling may help toward LEED Certification.[103]
+This ice is produced when electrical utility rates are lower.[99] Off-peak cooling systems can lower energy costs. The U.S. Green Building Council has developed the Leadership in Energy and Environmental Design (LEED) program to encourage the design of reduced-environmental impact buildings. Off-peak cooling may help toward LEED Certification.[100]
 
 Thermal storage for heating is less common than for cooling. An example of thermal storage is storing solar heat to be used for heating at night.
 
@@ -313,28 +311,28 @@ Transport
 
 Liquid hydrocarbon fuels are the most commonly used forms of energy storage for use in transportation, followed by a growing use of Battery Electric Vehicles and Hybrid Electric Vehicles. Other energy carriers such as hydrogen can be used to avoid producing greenhouse gases.
 
-Public transport systems like trams and trolleybuses require electricity, but due to their variability in movement, a steady supply of electricity via renewable energy is challenging. Photovoltaic systems installed on the roofs of buildings can be used to power public transportation systems during periods in which there is increased demand for electricity and access to other forms of energy are not readily available.[104]
+Public transport systems like trams and trolleybuses require electricity, but due to their variability in movement, a steady supply of electricity via renewable energy is challenging. Photovoltaic systems installed on the roofs of buildings can be used to power public transportation systems during periods in which there is increased demand for electricity and access to other forms of energy are not readily available.[101]
 
 Electronics
 
-Capacitors are widely used in electronic circuits for blocking direct current while allowing alternating current to pass. In analog filter networks, they smooth the output of power supplies. In resonant circuits they tune radios to particular frequencies. In electric power transmission systems they stabilize voltage and power flow.[105]
+Capacitors are widely used in electronic circuits for blocking direct current while allowing alternating current to pass. In analog filter networks, they smooth the output of power supplies. In resonant circuits they tune radios to particular frequencies. In electric power transmission systems they stabilize voltage and power flow.[102]
 
 
 Use cases
 
-The United States Department of Energy International Energy Storage Database (IESDB), is a free-access database of energy storage projects and policies funded by the United States Department of Energy Office of Electricity and Sandia National Labs.[106]
+The United States Department of Energy International Energy Storage Database (IESDB), is a free-access database of energy storage projects and policies funded by the United States Department of Energy Office of Electricity and Sandia National Labs.[103]
 
 
 Storage capacity
 
-STORAGE CAPACITY is the amount of energy extracted from a power plant energy storage system; usually measured in joules or kilowatt-hours and their multiples, it may be given in number of hours of electricity production at power plant nameplate capacity; when storage is of primary type (i.e., thermal or pumped-water), output is sourced only with the power plant embedded storage system.[107][108]
+STORAGE CAPACITY is the amount of energy extracted from a power plant energy storage system; usually measured in joules or kilowatt-hours and their multiples, it may be given in number of hours of electricity production at power plant nameplate capacity; when storage is of primary type (i.e., thermal or pumped-water), output is sourced only with the power plant embedded storage system.[104][105]
 
 
 Economics
 
-The economics of Energy Storage strictly depends on the reserve service requested, and several uncertainty factors affect the profitability of Energy Storage. Therefore, not every Energy Storage is technically and economically suitable for the storage of several MWh, and the optimal size of the Energy Storage is market and location dependent.[109]
+The economics of Energy Storage strictly depends on the reserve service requested, and several uncertainty factors affect the profitability of Energy Storage. Therefore, not every Energy Storage is technically and economically suitable for the storage of several MWh, and the optimal size of the Energy Storage is market and location dependent.[106]
 
-Moreover, ESS are affected by several risks, e.g.:[110]
+Moreover, ESS are affected by several risks, e.g.:[107]
 
 1) techno-economic risks, which are related to the specific technology;
 
@@ -342,32 +340,32 @@ Moreover, ESS are affected by several risks, e.g.:[110]
 
 3) Regulation and policy risks.
 
-Therefore, traditional techniques based on deterministic Discounted Cash Flow (DCF) for the investment appraisal are not fully adequate to evaluate these risks and uncertainties and the investor’s flexibility to deal with them. Hence, the literature recommends to assess the value of risks and uncertainties through the Real Option Analysis (ROA), which is a valuable method in uncertain contexts.[111]
+Therefore, traditional techniques based on deterministic Discounted Cash Flow (DCF) for the investment appraisal are not fully adequate to evaluate these risks and uncertainties and the investor’s flexibility to deal with them. Hence, the literature recommends to assess the value of risks and uncertainties through the Real Option Analysis (ROA), which is a valuable method in uncertain contexts.[108]
 
-The economic valuation of large-scale applications (including pumped hydro storage and compressed air) considers benefits including: wind curtailment avoidance, grid congestion avoidance, price arbitrage and carbon free energy delivery.[112][113][114] In one technical assessment by the Carnegie Mellon Electricity Industry Centre, economic goals could be met with batteries if energy storage were achievable at a capital cost of $30 to $50 per kilowatt-hour of storage capacity.[115]
+The economic valuation of large-scale applications (including pumped hydro storage and compressed air) considers benefits including: wind curtailment avoidance, grid congestion avoidance, price arbitrage and carbon free energy delivery.[109][110][111] In one technical assessment by the Carnegie Mellon Electricity Industry Centre, economic goals could be met with batteries if energy storage were achievable at a capital cost of $30 to $50 per kilowatt-hour of storage capacity.[112]
 
-A metric for calculating the energy efficiency of storage systems is Energy Storage On Energy Invested (ESOI) which is the useful energy used to make the storage system divided into the lifetime energy storage. For lithium ion batteries this is around 10, and for lead acid batteries it is about 2. Other forms of storage such as pumped hydroelectric storage generally have higher ESOI, such as 210.[116]
+A metric for calculating the energy efficiency of storage systems is Energy Storage On Energy Invested (ESOI) which is the useful energy used to make the storage system divided into the lifetime energy storage. For lithium ion batteries this is around 10, and for lead acid batteries it is about 2. Other forms of storage such as pumped hydroelectric storage generally have higher ESOI, such as 210.[113]
 
 
 Research
 
 Germany
 
-In 2013, the German Federal government has allocated €200M (approximately US$270M) for advanced research, as well as providing a further €50M to subsidize battery storage for use with residential rooftop solar panels, according to a representative of the German Energy Storage Association.[117]
+In 2013, the German Federal government has allocated €200M (approximately US$270M) for advanced research, as well as providing a further €50M to subsidize battery storage for use with residential rooftop solar panels, according to a representative of the German Energy Storage Association.[114]
 
-Siemens AG commissioned a production-research plant to open in 2015 at the _Zentrum für Sonnenenergie und Wasserstoff (ZSW,_ the German Center for Solar Energy and Hydrogen Research in the State of Baden-Württemberg), a university/industry collaboration in Stuttgart, Ulm and Widderstall, staffed by approximately 350 scientists, researchers, engineers, and technicians. The plant develops new near-production manufacturing materials and processes (NPMM&P) using a computerized Supervisory Control and Data Acquisition (SCADA) system. Its goals will enable the expansion of rechargeable battery production with both increased quality and reduced manufacturing costs.[118][119]
+Siemens AG commissioned a production-research plant to open in 2015 at the _Zentrum für Sonnenenergie und Wasserstoff (ZSW,_ the German Center for Solar Energy and Hydrogen Research in the State of Baden-Württemberg), a university/industry collaboration in Stuttgart, Ulm and Widderstall, staffed by approximately 350 scientists, researchers, engineers, and technicians. The plant develops new near-production manufacturing materials and processes (NPMM&P) using a computerized Supervisory Control and Data Acquisition (SCADA) system. Its goals will enable the expansion of rechargeable battery production with both increased quality and reduced manufacturing costs.[115][116]
 
 United States
 
-In 2014, research and test centers opened to evaluate energy storage technologies. Among them was the Advanced Systems Test Laboratory at the University of Wisconsin at Madison in Wisconsin State, which partnered with battery manufacturer Johnson Controls.[120] The laboratory was created as part of the university's newly opened Wisconsin Energy Institute. Their goals include the evaluation of state-of-the-art and next generation electric vehicle batteries, including their use as grid supplements.[121]
+In 2014, research and test centers opened to evaluate energy storage technologies. Among them was the Advanced Systems Test Laboratory at the University of Wisconsin at Madison in Wisconsin State, which partnered with battery manufacturer Johnson Controls.[117] The laboratory was created as part of the university's newly opened Wisconsin Energy Institute. Their goals include the evaluation of state-of-the-art and next generation electric vehicle batteries, including their use as grid supplements.[118]
 
-The State of New York unveiled its New York Battery and Energy Storage Technology (NY-BEST) Test and Commercialization Center at Eastman Business Park in Rochester, New York, at a cost of $23 million for its almost 1,700 m² laboratory. The center includes the Center for Future Energy Systems, a collaboration between Cornell University of Ithaca, New York and the Rensselaer Polytechnic Institute in Troy, New York. NY-BEST tests, validates and independently certifies diverse forms of energy storage intended for commercial use.[122]
+The State of New York unveiled its New York Battery and Energy Storage Technology (NY-BEST) Test and Commercialization Center at Eastman Business Park in Rochester, New York, at a cost of $23 million for its almost 1,700 m² laboratory. The center includes the Center for Future Energy Systems, a collaboration between Cornell University of Ithaca, New York and the Rensselaer Polytechnic Institute in Troy, New York. NY-BEST tests, validates and independently certifies diverse forms of energy storage intended for commercial use.[119]
 
-On September 27, 2017, Senators Al Franken of Minnesota and Martin Heinrich of New Mexico introduced Advancing Grid Storage Act (AGSA), which would devote more than $1 billion in research, technical assistance and grants to encourage energy storage in the United States.[123]
+On September 27, 2017, Senators Al Franken of Minnesota and Martin Heinrich of New Mexico introduced Advancing Grid Storage Act (AGSA), which would devote more than $1 billion in research, technical assistance and grants to encourage energy storage in the United States.[120]
 
 United Kingdom
 
-In the United Kingdom, some fourteen industry and government agencies allied with seven British universities in May 2014 to create the SUPERGEN Energy Storage Hub in order to assist in the coordination of energy storage technology research and development.[124][125]
+In the United Kingdom, some fourteen industry and government agencies allied with seven British universities in May 2014 to create the SUPERGEN Energy Storage Hub in order to assist in the coordination of energy storage technology research and development.[121][122]
 
 
 See also
@@ -386,7 +384,7 @@ See also
 
 References
 
-[126]
+[123]
 
 }}
 
@@ -623,21 +621,21 @@ Energy_storage Category:Renewable energy *
 
 [85]
 
-[86] Wright, matthew; Hearps, Patrick; et al. Australian Sustainable Energy: Zero Carbon Australia Stationary Energy Plan, Energy Research Institute, University of Melbourne, October 2010, p. 33. Retrieved from BeyondZeroEmissions.org website.
+[86]
 
-[87] Innovation in Concentrating Thermal Solar Power (CSP), RenewableEnergyFocus.com website.
+[87]
 
 [88]
 
 [89]
 
-[90]
+[90] "Norway statistics - International Hydropower Association". Retrieved on September 13, 2018.
 
 [91]
 
 [92]
 
-[93] "Norway statistics - International Hydropower Association". Retrieved on September 13, 2018.
+[93]
 
 [94]
 
@@ -651,13 +649,13 @@ Energy_storage Category:Renewable energy *
 
 [99]
 
-[100]
+[100] Air-Conditioning, Heating and Refrigeration Institute, Fundamentals of HVAC/R, Page 1263
 
 [101]
 
 [102]
 
-[103] Air-Conditioning, Heating and Refrigeration Institute, Fundamentals of HVAC/R, Page 1263
+[103]
 
 [104]
 
@@ -698,9 +696,3 @@ Energy_storage Category:Renewable energy *
 [122]
 
 [123]
-
-[124]
-
-[125]
-
-[126]

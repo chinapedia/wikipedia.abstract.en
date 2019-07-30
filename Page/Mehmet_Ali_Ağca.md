@@ -17,7 +17,7 @@ On 1 February 1979, in Istanbul, under orders from the Grey Wolves, he murdered 
 
 Assassination attempt on the Pope
 
-Popemobile_assassination_attempt_John_Paul_II_13_may_1981_Vatican_13.jpg'' in which Pope John Paul II was the subject of an assassination attempt. This vehicle is now in the "Carriage museum" in Vatican City.]] Beginning in August 1980, Ağca began criss-crossing the Mediterranean region.
+'' in which Pope John Paul II was the subject of an assassination attempt. This vehicle is now in the "Carriage museum" in Vatican City.]] Beginning in August 1980, Ağca began criss-crossing the Mediterranean region.
 
 According to Ağca's later testimony, he met with three accomplices in Rome, one a fellow Turk and the other two Bulgarians. The operation was commanded by Zilo Vassilev, the Bulgarian military attaché in Italy. He said that he was assigned this mission by Turkish mafioso Bekir Çelenk in Bulgaria. _Le Monde diplomatique_, however, has alleged that the assassination attempt was organized by Abdullah Çatlı "in exchange for the sum of 3 million marks", paid by Bekir Çelenk to the Grey Wolves.[13]
 

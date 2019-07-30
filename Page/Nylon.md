@@ -1,5 +1,5 @@
-  Nylon6_and_Nylon_66.png Nylon 6,6 Nylon_3D.png
-  ------------------------------------------------
+  Nylon 6,6
+  -----------------------------
   Density
   Electrical conductivity (σ)
   Thermal conductivity
@@ -14,7 +14,7 @@ Nylon was first used commercially in a nylon-bristled toothbrush in 1938,[11][12
 
 History
 
-Wallace_Carothers,_in_the_lab.jpg]]
+]]
 
 DuPont and the invention of Nylon
 
@@ -44,11 +44,9 @@ DuPont changed its campaign strategy, emphasizing that nylon was made from "coal
 
 Production of nylon fabric
 
-NMA.0028271,_Fashion_Photo_by_Erik_Liljeroth_1954.jpg, Sweden, in 1954]] After nylon's nationwide release in 1940, production was increased. 1300 tons of the fabric were produced during 1940.[49] During their first year on the market, 64 million pairs of nylon stockings were sold.[50] In 1941, a second plant was opened in Martinsville, Virginia due to the success of the fabric.[51]
+, Sweden, in 1954]] After nylon's nationwide release in 1940, production was increased. 1300 tons of the fabric were produced during 1940.[49] During their first year on the market, 64 million pairs of nylon stockings were sold.[50] In 1941, a second plant was opened in Martinsville, Virginia due to the success of the fabric.[51]
 
-Particolare_di_calza_di_nylon.jpg
-
-Nylon_fibre_SEM.tif]]
+]]
 
 While nylon was marketed as the durable and indestructible material of the people, it was sold at almost twice the price of silk stockings ($4.27 per pound of nylon versus $2.79 per pound of silk).[52] Sales of nylon stockings were strong in part due to changes in women's fashion. As Lauren Olds explains: "by 1939 [hemlines] had inched back up to the knee, closing the decade just as it started off". The shorter skirts were accompanied by a demand for stockings that offered fuller coverage without the use of garters to hold them up.[53]
 
@@ -116,7 +114,7 @@ Nylon 510
 
 Nylon 510, made from pentamethylene diamine and sebacic acid, was studied by Carothers even before nylon 66 and has superior properties, but is more expensive to make. In keeping with this naming convention, "nylon 6,12" or "PA 612" is a copolymer of a 6C diamine and a 12C diacid. Similarly for PA 510 PA 611; PA 1012, etc. Other nylons include copolymerized dicarboxylic acid/diamine products that are _not_ based upon the monomers listed above. For example, some fully aromatic nylons (known as "aramids") are polymerized with the addition of diacids like terephthalic acid (→ Kevlar, Twaron) or isophthalic acid (→ Nomex), more commonly associated with polyesters. There are copolymers of PA 66/6; copolymers of PA 66/6/12; and others. In general linear polymers are the most useful, but it is possible to introduce branches in nylon by the condensation of dicarboxylic acids with polyamines having three or more amino groups.
 
-The general reaction is: centre
+The general reaction is:
 
 Two molecules of water are given off and the nylon is formed. Its properties are determined by the R and R' groups in the monomers. In nylon 6,6, R = 4C and R' = 6C alkanes, but one also has to include the two carboxyl carbons in the diacid to get the number it donates to the chain. In Kevlar, both R and R' are benzene rings.
 
@@ -226,7 +224,7 @@ All nylons are susceptible to hydrolysis, especially by strong acids, a reaction
 
 When being molded, nylon must be dried to prevent hydrolysis in the molding machine barrel since water at high temperatures can also degrade the polymer.[118] The reaction is of the type:
 
-    Image:amide hydrolysis.svg
+
 
 Environmental impact, incineration and recycling
 
@@ -240,8 +238,6 @@ Various nylons break down in fire and form hazardous smoke, and toxic fumes or a
 Bulk properties
 
 Above their melting temperatures, _T__(m), thermoplastics like nylon are amorphous solids or viscous fluids in which the chains approximate random coils. Below _T__(m), amorphous regions alternate with regions which are lamellar crystals.[125] The amorphous regions contribute elasticity and the crystalline regions contribute strength and rigidity. The planar amide (-CO-NH-) groups are very polar, so nylon forms multiple hydrogen bonds among adjacent strands. Because the nylon backbone is so regular and symmetrical, especially if all the amide bonds are in the _trans_ configuration, nylons often have high crystallinity and make excellent fibers. The amount of crystallinity depends on the details of formation, as well as on the kind of nylon.
-
-Nylon-3D-h_bond.png
 
 Nylon 66 can have multiple parallel strands aligned with their neighboring peptide bonds at coordinated separations of exactly 6 and 4 carbons for considerable lengths, so the carbonyl oxygens and amide hydrogens can line up to form interchain hydrogen bonds repeatedly, without interruption (see the figure opposite). Nylon 510 can have coordinated runs of 5 and 8 carbons. Thus parallel (but not antiparallel) strands can participate in extended, unbroken, multi-chain β-pleated sheets, a strong and tough supermolecular structure similar to that found in natural silk fibroin and the β-keratins in feathers. (Proteins have only an amino acid α-carbon separating sequential -CO-NH- groups.) Nylon 6 will form uninterrupted H-bonded sheets with mixed directionalities, but the β-sheet wrinkling is somewhat different. The three-dimensional disposition of each alkane hydrocarbon chain depends on rotations about the 109.47° tetrahedral bonds of singly bonded carbon atoms.
 
@@ -289,7 +285,7 @@ Uses
 
 Nylon fibers
 
-The_worn_out_nylon_stockings_in_this_barrel_full_of_salvaged_stockings_will_be_reprocessed_and_made_into_parachutes..._-_NARA_-_196427.jpg Blue_nylon_ball_gown_2007.154.jpg ]]
+]]
 
 Bill Pittendreigh, DuPont, and other individuals and corporations worked diligently during the first few months of World War II to find a way to replace Asian silk and hemp with nylon in parachutes. It was also used to make tires, tents, ropes, ponchos, and other military supplies. It was even used in the production of a high-grade paper for U.S. currency. At the outset of the war, cotton accounted for more than 80% of all fibers used and manufactured, and wool fibers accounted for nearly all of the rest. By August 1945, manufactured fibers had taken a market share of 25%, at the expense of cotton. After the war, because of shortages of both silk and nylon, nylon parachute material was sometimes repurposed to make dresses.[131]
 

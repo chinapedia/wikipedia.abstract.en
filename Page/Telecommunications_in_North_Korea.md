@@ -3,13 +3,13 @@ TELECOMMUNICATIONS IN NORTH KOREA refers to the communication services available
 
 Telephone
 
-Hamhung_cyclist.jpg]]
+]]
 
 North Korea has an adequate telephone system, with 1.18 million fixed lines available in 2008.[2] However, most phones are only installed for senior government officials. Someone wanting a phone installed must fill out a form indicating their rank, why he/she wants a phone, and how he/she will pay for it.[3] Most of these are installed in government offices, collective farms, and state-owned enterprises (SOEs), with only perhaps 10 percent controlled by individuals or households. By 1970 automatic switching facilities were in use in Pyongyang, Sinŭiju, Hamhŭng, and Hyesan. A few public telephone booths were beginning to appear in Pyongyang around 1990.[4] In the mid-1990s, an automated exchange system based on an E-10A system produced by Alcatel joint-venture factories in China was installed in Pyongyang. North Koreans announced in 1997 that automated switching had replaced manual switching in Pyongyang and 70 other locales.[5] North Korean press reported in 2000 that fiber-optic cable had been extended to the port of Nampho and that North Pyong'an Province had been connected with fiber-optic cable.
 
 Mobile phones
 
-North_Korea_Cell_Phone_Revolution.jpg In November 2002, mobile phones were introduced to North Korea and by November 2003, 20,000 North Koreans had bought mobile phones.[6]
+In November 2002, mobile phones were introduced to North Korea and by November 2003, 20,000 North Koreans had bought mobile phones.[6]
 
 In December 2008, a new mobile phone service was launched in Pyongyang, operated by Egyptian company Orascom, with current plans to expand coverage to all parts of the country.[7] The official name of the 3G mobile phone service in North Korea is called Koryolink, and is a joint venture between Orascom and the state-owned Korea Post and Telecommunications Corporation (KPTC).[8] There has been a large demand for the service since it was launched.[9]
 

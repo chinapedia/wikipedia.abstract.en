@@ -5,7 +5,7 @@ Processed pizza cheese is manufactured to produce optimal qualities in browning,
 
 Varieties and types
 
-Tk_pizza.jpg]] The _International Dictionary of Food and Cooking_ defines pizza cheese as "a soft spun-curd cheese similar to Mozzarella made from cow's milk..." that is "...used particularly for pizzas and contains somewhat less water than real Mozzarella..."[8] Most are at least 95 percent Mozzarella,[9] with different moisture and fat densities.[10][11] Cheese for frozen pizzas may be _comminuted_, in which the cheese is processed into minute granules or fragments.[12] Low-moisture Mozzarella can be formulated specifically for pizza.[13][14] Cheese may be processed into blocks, from which the product can be grated, made into granules or sliced for use on pizza[15][16] or other foods. Pizza cheese frequently consists of a blend of two or more cheeses, such as low-moisture Mozzarella or Provolone.[17] Low-moisture Mozzarella was first manufactured in dairy factories in the Midwestern United States, and was originally called "pizza cheese".[18] Compared to standard Mozzarella, low-moisture Mozzarella has a firmer texture, is easier to grate, has better browning and melting characteristics, and is less perishable.[19]
+]] The _International Dictionary of Food and Cooking_ defines pizza cheese as "a soft spun-curd cheese similar to Mozzarella made from cow's milk..." that is "...used particularly for pizzas and contains somewhat less water than real Mozzarella..."[8] Most are at least 95 percent Mozzarella,[9] with different moisture and fat densities.[10][11] Cheese for frozen pizzas may be _comminuted_, in which the cheese is processed into minute granules or fragments.[12] Low-moisture Mozzarella can be formulated specifically for pizza.[13][14] Cheese may be processed into blocks, from which the product can be grated, made into granules or sliced for use on pizza[15][16] or other foods. Pizza cheese frequently consists of a blend of two or more cheeses, such as low-moisture Mozzarella or Provolone.[17] Low-moisture Mozzarella was first manufactured in dairy factories in the Midwestern United States, and was originally called "pizza cheese".[18] Compared to standard Mozzarella, low-moisture Mozzarella has a firmer texture, is easier to grate, has better browning and melting characteristics, and is less perishable.[19]
 
 Globally, Mozzarella is the most popular pizza cheese.[20] However, it has been estimated that in the United States only 30% of all pizza cheese used is actual Mozzarella.[21] Provolone is the second most popular one.[22] Cheddar may be mixed with Mozzarella to preserve chewiness.[23] Grated Parmesan may be added to the top of a pizza, and typically does not melt well when cooked.[24] A diverse variety of processed pizza cheeses are produced, including analogue cheese. Provel is one example. Other pizza cheeses include Emmental, Romano[25] and Ricotta for calzones or as a topping.[26][27]
 
@@ -13,7 +13,7 @@ Several cheeses may be mixed together in its formulation, and each has individua
 
 Processed pizza cheeses
 
-Provel.jpg pizza cheese in a five-pound block. This product is commonly used in the preparation of St. Louis-style pizza.]] Pizza_cheese.jpg
+pizza cheese in a five-pound block. This product is commonly used in the preparation of St. Louis-style pizza.]]
 
 Pasteurized and processed cheese-like products for pizza that are quicker and cheaper to produce than real cheese[30] and designed to melt well and remain chewy are used on many mass-produced pizzas in North America and the United Kingdom.[31][32] These products are referred to as _analogue_ (or _analog_) _pizza cheese_;[33] in the UK the term "cheese analogue" is used, making clear that it is not actually cheese. In the book _Technology of Cheesemaking_, editors Law and Tamimethat state that analogue pizza cheese appears to be the leading type of cheese analogue produced globally.[34] Each year in the United States, 700 million frozen pizzas are sold, three-quarters of which contain cheese substitutes.[35]
 
@@ -25,8 +25,6 @@ In some instances, the production of analogue pizza cheese can be similar to the
 
 
 Research and development
-
-Cheese-pizza-20150207-012.jpg
 
 Manufacturers and academics have conducted studies and experiments in an effort to improve the stretchiness, melting characteristics, browning, fat content and water retention of pizza cheese.[47] Several patents exist for specialized varieties of pizza cheese and for its processing.[48][49][50] A study by Rudan and Barbano found that the addition of a thin layer of vegetable oil atop low- and reduced-fat pizza cheese increased meltability and reduced browning and dehydration when the product was cooked, but the texture remained overly chewy and tough.[51] A study by Perry et al. found various methods to heighten the melt of low-fat pizza cheese by increasing its moisture, including the use of pre-acidification, fat-replacers, and exopolysaccharide starter cultures as well as higher pasteurization temperatures.[52]
 

@@ -7,21 +7,21 @@ Born the son of John Henry Jellicoe, a captain in the Royal Mail Steam Packet Co
 
 Jellicoe qualified as a gunnery officer in 1883 and was appointed to the staff of the gunnery school in May 1884.[7] He joined the turret ship as gunnery officer in September 1885 and was awarded the Board of Trade Silver Medal for rescuing the crew of a capsized steamer near Gibraltar in May 1886.[8] He joined the battleship in April 1886 and was put in charge of the experimental department at HMS _Excellent_ in December 1886 before being appointed assistant to the Director of Naval Ordnance in September 1889.[9]
 
-HMSVictoriasinking1893.jpg Promoted to commander on 30 June 1891, Jellicoe joined the battleship in the Mediterranean Fleet in March 1892.[10] He transferred to the battleship in 1893 (the flagship of the Commander-in-Chief of the Mediterranean Fleet, Vice Admiral Sir George Tryon) and was aboard when it collided with and was wrecked off Tripoli in Lebanon on 22 June 1893.[11] He was then appointed to the new flagship, , in October 1893.[12]
+Promoted to commander on 30 June 1891, Jellicoe joined the battleship in the Mediterranean Fleet in March 1892.[10] He transferred to the battleship in 1893 (the flagship of the Commander-in-Chief of the Mediterranean Fleet, Vice Admiral Sir George Tryon) and was aboard when it collided with and was wrecked off Tripoli in Lebanon on 22 June 1893.[11] He was then appointed to the new flagship, , in October 1893.[12]
 
 Promoted to captain on 1 January 1897,[13] Jellicoe became a member of the Admiralty's Ordnance Committee.[14] He served as Captain of the battleship and chief of staff to Vice Admiral Sir Edward Seymour during the Seymour Expedition to relieve the legations at Peking during the Boxer Rebellion in June 1900.[15] He was badly wounded during the Battle of Beicang[16] and told he would die but confounded the attending doctor and chaplain by living.[17] He was appointed a Companion of the Order of the Bath and given the German Order of the Red Eagle, 2nd class, with Crossed Swords for services rendered in China.[18] _Centurion_ returned to the United Kingdom in August 1901, and was paid off the following month, when Captain Jellicoe and the crew went on leave.[19] He became Naval Assistant to Third Naval Lord and Controller of the Navy in February 1902[20] and was given command of the armoured cruiser on the North America and West Indies Station in August 1903.[21]
 
 
 High command
 
-CaptainJ.R.Jellicoe.jpg shows he was in the public eye long before becoming an admiral).]] AdmiralissimeJellicoe.jpg As a protege of Admiral John Fisher, Jellicoe became Director of Naval Ordnance in 1905 and, having been appointed a Commander of the Royal Victorian Order on the occasion of launching of on 10 February 1906,[22] he was also made an Aide-de-Camp to the King on 8 March 1906.[23] Promoted to rear admiral on 8 February 1907,[24] he pushed hard for funds to modernise the navy, supporting the construction of new -type battleships and s.[25] He supported F. C. Dreyer's improvements in gunnery fire-control systems, and favoured the adoption of Dreyer's "Fire Control Table", a form of mechanical computer for calculating firing solutions for warships.[26] Jellicoe arranged for the output of naval ordnance to be transferred from the War Office to the Admiralty.[27]
+shows he was in the public eye long before becoming an admiral).]] As a protege of Admiral John Fisher, Jellicoe became Director of Naval Ordnance in 1905 and, having been appointed a Commander of the Royal Victorian Order on the occasion of launching of on 10 February 1906,[22] he was also made an Aide-de-Camp to the King on 8 March 1906.[23] Promoted to rear admiral on 8 February 1907,[24] he pushed hard for funds to modernise the navy, supporting the construction of new -type battleships and s.[25] He supported F. C. Dreyer's improvements in gunnery fire-control systems, and favoured the adoption of Dreyer's "Fire Control Table", a form of mechanical computer for calculating firing solutions for warships.[26] Jellicoe arranged for the output of naval ordnance to be transferred from the War Office to the Admiralty.[27]
 
 Jellicoe was appointed second-in-command of the Atlantic Fleet in August 1907, hoisting his flag in the battleship .[28] He was appointed Knight Commander of the Royal Victorian Order on the occasion of the King's Review of the Home Fleet in the Solent on 3 August 1907.[29] He went on to be Third Sea Lord and Controller of the Navy in October 1908 and, having taken part in the funeral of King Edward VII in May 1910,[30] he became Commander-in-Chief, Atlantic Fleet in December 1910, hoisting his flag in the battleship .[31] He advanced to Knight Commander of the Order of the Bath on the Coronation of King George V on 19 June 1911 and confirmed in the rank of vice admiral on 18 September 1911.[32] He went on to be Second-in-Command of the Home Fleet, hoisting his flag in the battleship , in December 1911 and, having also been appointed commander of the 2nd Battle Squadron in May 1912, joined the Royal Commission on Fuel and Engines on 1 August 1912.[33] He became Second Sea Lord in December 1912.[34]
 
 
 First World War
 
-This_is_a_study_for_IWM_ART_1322._Art.IWMART5729.jpg]]
+]]
 
 Grand Fleet
 
@@ -33,7 +33,7 @@ Jellicoe commanded the British Grand Fleet at the Battle of Jutland in May 1916,
 
 First Sea Lord
 
-John_Rushworth_Jellicoe.jpg.]] Jellicoe was appointed First Sea Lord in November 1916.[48] His term of office saw Britain brought within danger of starvation by German unrestricted U-Boat warfare.[49]
+.]] Jellicoe was appointed First Sea Lord in November 1916.[48] His term of office saw Britain brought within danger of starvation by German unrestricted U-Boat warfare.[49]
 
 At the War Committee (a Cabinet Committee which discussed strategy in 1915–16) in November 1916, the admirals present, including Jellicoe, told Lloyd George that convoys presented too large a target for enemy ships, and that merchant ship masters lacked the discipline to "keep station" in a convoy. In February 1917, Maurice Hankey wrote a memorandum for Lloyd George calling for the introduction of "scientifically organised convoys", almost certainly after being persuaded by Commander Henderson and the Shipping Ministry officials with whom he was in contact. After a breakfast meeting (13 February 1917) with Lloyd George, Carson (First Lord of the Admiralty) and Admirals Jellicoe and Duff agreed to "conduct experiments". However, convoys were not in general use until August 1917, by which time shipping losses to U-boats were already falling from their April peak.[50]
 
@@ -56,7 +56,7 @@ In June 1918, amidst concerns that—following the Treaty of Brest-Litovsk—the
 
 Retirement
 
-Admiral_Jellicoe_and_wife_1924.jpg Jellicoe was promoted to Admiral of the Fleet on 3 April 1919.[62] He became Governor-General of New Zealand in September 1920[63] and while there also served as Grand Master of New Zealand's Masonic Grand Lodge.[64] Following his return to England, he was created EARL JELLICOE and VISCOUNT BROCAS of Southampton in the County of Southampton on 1 July 1925.[65] He was made a Deputy Lieutenant of Hampshire in 1932.[66] He died of pneumonia at his home in Kensington in London on 20 November 1935 and was buried in St Paul's Cathedral.[67]
+Jellicoe was promoted to Admiral of the Fleet on 3 April 1919.[62] He became Governor-General of New Zealand in September 1920[63] and while there also served as Grand Master of New Zealand's Masonic Grand Lodge.[64] Following his return to England, he was created EARL JELLICOE and VISCOUNT BROCAS of Southampton in the County of Southampton on 1 July 1925.[65] He was made a Deputy Lieutenant of Hampshire in 1932.[66] He died of pneumonia at his home in Kensington in London on 20 November 1935 and was buried in St Paul's Cathedral.[67]
 
 
 Legacy
@@ -68,20 +68,12 @@ The attempt of his official biographer, Admiral Reginald Bacon, to portray him a
 
 Family
 
-Bust_of_Jellicoe_in_Trafalgar_Square.jpg.]] Jellicoe married, at Holy Trinity church, Sloane Street on 1 July 1902, Florence Gwendoline Cayzer, daughter of the shipping magnate Sir Charles Cayzer. His brother Rev. Frederick Jellicoe (1858–1927) conducted the service.[70] Lord and Lady Jellicoe had a son and five daughters.[71] The son George Jellicoe, 2nd Earl Jellicoe had an illustrious military career during the Second World War, followed by prominent careers as parliamentarian and businessman.[72]
+.]] Jellicoe married, at Holy Trinity church, Sloane Street on 1 July 1902, Florence Gwendoline Cayzer, daughter of the shipping magnate Sir Charles Cayzer. His brother Rev. Frederick Jellicoe (1858–1927) conducted the service.[70] Lord and Lady Jellicoe had a son and five daughters.[71] The son George Jellicoe, 2nd Earl Jellicoe had an illustrious military career during the Second World War, followed by prominent careers as parliamentarian and businessman.[72]
 
 
 Honours
 
 Ribbon bar (incomplete)
-
-Order_of_the_Bath_UK_ribbon.png Order_of_Merit_(Commonwealth_realms)_ribbon.png Royal_Victorian_Order_ribbon_sm.jpg SGM(UK)ribbon.jpg Egypt_Medal_BAR.svg
-
-Third_China_War_Medal_BAR.svg 1914_1915_Star_ribbon_bar.svg British_War_Medal_BAR.svg Victory_Medal_ribbon_bar.svg King_George_V_Coronation_Medal_ribbon.png
-
-GeorgeVSilverJubileum-ribbon.png Ord.Aquilarossa-COM.png Legion_Honneur_GC_ribbon.svg Grand_Crest_Ordre_de_Leopold.png BEL_Croix_de_Guerre_WW1_ribbon.svg
-
-OrderStGeorge3cl_rib.png Cavaliere_di_gran_croce_OMS_BAR.svg JPN_Kyokujitsu-sho_Paulownia_BAR.svg Croix_de_Guerre_1914-1918_ribbon.svg Navy_Distinguished_Service_ribbon.svg
 
 Peerages
 
@@ -136,8 +128,6 @@ Ancestors
   : SOME OF ADMIRAL JELLICOE'S ANCESTORS
 
 Arms
-
-Blue_plaque_Earl_Jellicoe.jpg
 
 
 References

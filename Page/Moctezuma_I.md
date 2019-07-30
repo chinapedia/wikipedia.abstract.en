@@ -14,8 +14,6 @@ Moctezuma then was elected to power in 1440 by this group of nobles, at the age 
 
 His coronation[5] was a large ceremony, involving many human sacrifices of prisoners. Moctezuma was seated on a basketwork throne and was crowned by the ruler of Texoco. His crown was a turquoise diadem known as the fire crown.[6]
 
-Moctezuma_I,_the_Fifth_Aztec_King.png
-
 
 Reign
 
@@ -31,13 +29,11 @@ As a ruler, Moctezuma faced and overcame many natural disasters. In 1446, a swar
 
 Flowery War
 
-War_between_Tenochtitlan_and_Chalco.jpgAfter the famine ravaged through Aztec agricultural resources, a series of conflicts, known as the Flower War, involved the Triple Alliance, and the city-states of Huejotzingo, Tlaxcala, Cholula, in the Tlaxcala-Pueblan Valley of Central Mexico. Believing the famine to have occurred due to their gods' anger, Moctezuma supported the order for an increase of human sacrifices to please them.[18] Thus, began the war to accumulate as many victims as possible for sacrifice. The war lasted until Spanish Conquest in Mexico, where Spaniards recruited enemy tribes of the Triple Alliance to conquer all of Mexico. In preparation for the war, Moctezuma would issue three declarations of war and provide weapons to the enemy region. If the last declaration was not accepted by the enemy region, then within 20 days the Aztecs would attack.
+After the famine ravaged through Aztec agricultural resources, a series of conflicts, known as the Flower War, involved the Triple Alliance, and the city-states of Huejotzingo, Tlaxcala, Cholula, in the Tlaxcala-Pueblan Valley of Central Mexico. Believing the famine to have occurred due to their gods' anger, Moctezuma supported the order for an increase of human sacrifices to please them.[18] Thus, began the war to accumulate as many victims as possible for sacrifice. The war lasted until Spanish Conquest in Mexico, where Spaniards recruited enemy tribes of the Triple Alliance to conquer all of Mexico. In preparation for the war, Moctezuma would issue three declarations of war and provide weapons to the enemy region. If the last declaration was not accepted by the enemy region, then within 20 days the Aztecs would attack.
 
 Expeditions as ruler
 
 In about 1458, Moctezuma led an expedition into Mixtec territory against the city-state of Coixtlahuaca, the pretext being the mistreatment of Aztec merchants. Despite the support of contingents of Tlaxcala and Huexotzinco warriors, traditional enemies of the Aztecs, the Mixtecs were defeated. While most of the defeated chieftains were allowed to retain their positions, the Mixtec ruler Atonal was ritually strangled and his family was taken as slaves. The Codex Mendoza records that the tribute owed by Coixtlahuaca consisted of 2000 blankets (of 5 types), 2 military outfits with headdresses and shields, green gemstone beads, 800 bunches of green feathers, 40 bags of cochineal dye, and 20 bowls of gold dust. He took many girls from Coixtlahuaca and had ten harems all to himself. He stole three of them from his dead brother Zaca.[19] Similar campaigns were conducted against Cosamaloapan, Ahuilizapan (Orizaba), and Cuetlachtlan (Cotaxtla).
-
-Aztecexpansion.png
 
 Opposition to his reign
 

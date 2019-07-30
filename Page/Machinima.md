@@ -1,4 +1,4 @@
-Machinima_sample_reindeer_full_size.ogg'']]
+'']]
 
 MACHINIMA () is the use of real-time computer graphics engines to create a cinematic production. Most often, video games are used to generate the computer animation.
 
@@ -25,7 +25,7 @@ _Doom_{{'}}s 1996 successor, _Quake_, offered new opportunities for both gamepla
 
 _Quake_ movies
 
-Diary_of_a_Camper.jpg'', an early machinima production]] On October 26, 1996, a well-known gaming clan, the Rangers, surprised the _Quake_ community with _Diary of a Camper_, the first widely known machinima film.[19] This short, 100-second demo file contained the action and gore of many others, but in the context of a brief story,[20] rather than the usual deathmatch.[21] An example of transformative or emergent gameplay, this shift from competition to theater required both expertise in and subversion of the game's mechanics.[22] The Ranger demo emphasized this transformation by retaining specific gameplay references in its story.[23]
+'', an early machinima production]] On October 26, 1996, a well-known gaming clan, the Rangers, surprised the _Quake_ community with _Diary of a Camper_, the first widely known machinima film.[19] This short, 100-second demo file contained the action and gore of many others, but in the context of a brief story,[20] rather than the usual deathmatch.[21] An example of transformative or emergent gameplay, this shift from competition to theater required both expertise in and subversion of the game's mechanics.[22] The Ranger demo emphasized this transformation by retaining specific gameplay references in its story.[23]
 
 _Diary of a Camper_ inspired many other "_Quake_ movies," as these films were then called.[24] A community of game modifiers (modders), artists, expert players, and film fans began to form around them.[25] The works were distributed and reviewed on websites such as The Cineplex, Psyk's Popcorn Jungle, and the Quake Movie Library (QML).[26] Production was supported by dedicated demo-processing software, such as Uwe Girlich's Little Movie Processing Center (LMPC) and David "crt" Wright's non-linear editor Keygrip,[27] which later became known as "Adobe Premiere for Quake demo files".[28] Among the notable films were Clan Phantasm's _Devil's Covenant_,[29] the first feature-length _Quake_ movie; Avatar and Wendigo's _Blahbalicious_, which the QML awarded seven Quake Movie Oscars;[30] and Clan Undead's _Operation Bayshield_, which introduced simulated lip synchronization[31] and featured customized digital assets.[32]
 
@@ -39,7 +39,7 @@ Generalization
 
 In January 2000, Hugh Hancock, the founder of Strange Company, launched a new website, machinima.com.[45] A misspelled contraction of _machine cinema_ (_machinema_), the term _machinima_ was intended to dissociate in-game filming from a specific engine.[46] The misspelling stuck because it also referenced anime.[47] The new site featured tutorials, interviews, articles, and the exclusive release of Tritin Films' _Quad God_.[48] The first film made with _Quake III Arena_, _Quad God_ was also the first to be distributed as recorded video frames, not game-specific instructions.[49] This change was initially controversial among machinima producers who preferred the smaller size of demo files.[50] However, demo files required a copy of the game to view.[51] The more accessible traditional video format broadened _Quad God_{{'}}s viewership, and the work was distributed on CDs bundled with magazines.[52] Thus, id's decision to protect _Quake III_{{'}}s code inadvertently caused machinima creators to use more general solutions and thus widen their audience.[53] Within a few years, machinima films were almost exclusively distributed in common video file formats.[54]
 
-Hugh_Hancock.jpg founded Strange Company and coined the term _machinima_.]]
+founded Strange Company and coined the term _machinima_.]]
 
 Machinima began to receive mainstream notice.[55] Roger Ebert discussed it in a June 2000 article and praised Strange Company's machinima setting of Percy Bysshe Shelley's sonnet "Ozymandias".[56] At Showtime Network's 2001 Alternative Media Festival, the ILL Clan's 2000 machinima film _Hardly Workin'_ won the Best Experimental and Best in SHO awards. Steven Spielberg used _Unreal Tournament_ to test special effects while working on his 2001 film _Artificial Intelligence: A.I._[57] Eventually, interest spread to game developers. In July 2001, Epic Games announced that its upcoming game _Unreal Tournament 2003_ would include Matinee, a machinima production software utility.[58] As involvement increased, filmmakers released fewer new productions to focus on quality.[59]
 
@@ -47,7 +47,7 @@ At the March 2002 Game Developers Conference, five machinima makers—Anthony Ba
 
 Mainstream appearances
 
-South_Park_machinima.jpg"]]
+"]]
 
 Machinima has appeared on television, starting with G4's series _Portal_.[66] In the BBC series _Time Commanders_, players re-enacted historic battles using Creative Assembly's real-time game _Rome: Total War_.[67] MTV2's _Video Mods_ re-creates music videos using characters from video games such as _The Sims 2_, _BloodRayne_, and _Tribes_.[68] Blizzard Entertainment helped to set part of "Make Love, Not Warcraft", an Emmy Award–winning 2006 episode of the comedy series _South Park_, in its massively multiplayer online role-playing game (MMORPG) _World of Warcraft_.[69] By purchasing broadcast rights to Douglas Gayeton's machinima documentary _Molotov Alva and His Search for the Creator_ in September 2007, HBO became the first television network to buy a work created completely in a virtual world.[70] In December 2008, machinima.com signed fifteen experienced television comedy writers—including Patric Verrone, Bill Oakley, and Mike Rowe—to produce episodes for the site.[71]
 
@@ -70,7 +70,7 @@ Another difference is that machinima is created in real time, but other animatio
 
 Like live action, machinima is recorded in real-time, and real people can act and control the camera.[95] Filmmakers are often encouraged to follow traditional cinematic conventions,[96] such as avoiding wide fields of view, the overuse of slow motion,[97] and errors in visual continuity.[98] Unlike live action, machinima involves less expensive, digital special effects and sets, possibly with a science-fiction or historical theme.[99] Explosions and stunts can be tried and repeated without monetary cost and risk of injury, and the host environment may allow unrealistic physical constraints.[100] University of Cambridge experiments in 2002 and 2003 attempted to use machinima to re-create a scene from the 1942 live-action film _Casablanca_.[101] Machinima filming differed from traditional cinematography in that character expression was limited, but camera movements were more flexible and improvised. Nitsche compared this experiment to an unpredictable Dogme 95 production.[102]
 
-ILL_Clan_presents_Tra5hTa1k_at_Stanford.jpg performs its machinima comedy talk show _Tra5hTa1k with ILL Will_ in front of a live audience at Stanford University in 2005.]]
+performs its machinima comedy talk show _Tra5hTa1k with ILL Will_ in front of a live audience at Stanford University in 2005.]]
 
 Berkeley sees machinima as "a strangely hybrid form, looking forwards and backwards, cutting edge and conservative at the same time".[103] Machinima is a digital medium based on 3-D computer games, but most works have a linear narrative structure. Some, such as _Red vs. Blue_ and _The Strangerhood_, follow narrative conventions of television situational comedy.[104] Nitsche agrees that pre-recorded ("reel") machinima tends to be linear and offers limited interactive storytelling while machinima has more opportunities performed live and with audience interaction.[105] In creating their improvisational comedy series _On the Campaign Trail with Larry & Lenny Lumberjack_ and talk show _Tra5hTa1k with ILL Will_, the ILL Clan blended real and virtual performance by creating the works on-stage and interacting with a live audience.[106] In another combination of real and virtual worlds, Chris Burke's talk show _This Spartan Life_ takes place in _Halo 2_{{'}}s open multiplayer environment.[107] There, others playing in earnest may attack the host or his interviewee.[108] Although other virtual theatrical performances have taken place in chat rooms and multi-user dungeons, machinima adds "cinematic camera work".[109] Previously, such virtual cinematic performances with live audience interaction were confined to research labs equipped with powerful computers.[110]
 
@@ -142,7 +142,7 @@ Some have used machinima to make political statements, often from left-wing pers
 
 Competitions
 
-Matt_Kelland_and_Keith_Halper_at_the_2008_Machinima_Film_Festival.jpg at the 2008 Machinima Film Festival with the Mackie award for Best Technical Achievement]]
+at the 2008 Machinima Film Festival with the Mackie award for Best Technical Achievement]]
 
 After the QML's Quake Movie Oscars, dedicated machinima awards did not reappear until the AMAS created the Mackies for its first Machinima Film Festival in 2002.[243] The annual festival has become an important one for machinima creators.[244] Ho Chee Yue, a founder of the marketing company AKQA, helped to organize the first festival for the Asia chapter of the AMAS in 2006.[245] In 2007, the AMAS supported the first machinima festival held in Europe.[246] In addition to these smaller ceremonies, Hugh Hancock of Strange Company worked to add an award for machinima to the more general Bitfilm Festival in 2003.[247] Other general festivals that allow machinima include the Sundance Film Festival, the Florida Film Festival, and the New Media Film Festival.[248] The Ottawa International Animation Festival opened a machinima category in 2004, but, citing the need for "a certain level of excellence", declined to award anything to the category's four entries that year.[249]
 

@@ -1,4 +1,4 @@
-Literate_Programming_book_cover.jpg is the seminal book on literate programming]]
+is the seminal book on literate programming]]
 
 LITERATE PROGRAMMING is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.[1]
 

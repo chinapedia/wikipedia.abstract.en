@@ -1,4 +1,4 @@
-Oncogenes_illustration.jpg An ONCOGENE is a gene that has the potential to cause cancer.[1] In tumor cells, they are often mutated or expressed at high levels.[2]
+An ONCOGENE is a gene that has the potential to cause cancer.[1] In tumor cells, they are often mutated or expressed at high levels.[2]
 
 Most normal cells will undergo a programmed form of rapid cell death (apoptosis) when critical functions are altered and malfunctioning. Activated oncogenes can cause those cells designated for apoptosis to survive and proliferate instead.[3] Most oncogenes began as proto-oncogenes, normal genes involved in cell growth and proliferation or inhibition of apoptosis. If normal genes promoting cellular growth, through mutation, are up-regulated (gain-of-function mutation), they will predispose the cell to cancer and are thus termed oncogenes. Usually multiple oncogenes, along with mutated apoptotic or tumor suppressor genes will all act in concert to cause cancer. Since the 1970s, dozens of oncogenes have been identified in human cancer. Many cancer drugs target the proteins encoded by oncogenes.[4][5][6][7]
 
@@ -22,7 +22,7 @@ A PROTO-ONCOGENE is a normal gene that could become an oncogene due to mutations
 
 Activation
 
-Ch1-oncogene.svg The proto-oncogene can become an oncogene by a relatively small modification of its original function. There are three basic methods of activation:
+The proto-oncogene can become an oncogene by a relatively small modification of its original function. There are three basic methods of activation:
 
 1.  A mutation within a proto-oncogene, or within a regulatory region (for example the promoter region), can cause a change in the protein structure, causing
     -   an increase in protein (enzyme) activity

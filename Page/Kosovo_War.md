@@ -1,14 +1,14 @@
 -   KLA veterans join the UÇPMB, starting the Preševo insurgency
 -   Bulldozer Revolution in 2000
 
-| combatant1 = UCK_KLA.png KLA
----- | combatant2 = | commander1 = UCK_KLA.png Adem Jashari
-UCK_KLA.png Hashim Thaçi
-UCK_KLA.png Bilall Syla
-UCK_KLA.png Hamëz Jashari
-UCK_KLA.png Sylejman Selimi
-UCK_KLA.png Ramush Haradinaj
-UCK_KLA.png Agim Çeku
+| combatant1 = KLA
+---- | combatant2 = | commander1 = Adem Jashari
+Hashim Thaçi
+Bilall Syla
+Hamëz Jashari
+Sylejman Selimi
+Ramush Haradinaj
+Agim Çeku
 ---- Wesley Clark
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Dragoljub Ojdanić
 Nebojša Pavković
 Vlastimir Đorđević[2]
 Vladimir Lazarević[3]
-Sreten Lukić | strength1 = UCK_KLA.png 17,000–20,000 KLA insurgents[4]
+Sreten Lukić | strength1 = 17,000–20,000 KLA insurgents[4]
 
 ------------------------------------------------------------------------
 
@@ -33,8 +33,8 @@ _cca._ 80 aircraft
 [11]
 240 aircraft [12]
 2,032 armoured vehicles & tanks[13]
-Serbian paramilitary units (Šakali, Škorpioni), unknown number Russian volunteers, unknown number [14][15] | casualties1 = UCK_KLA.png 1,500 insurgents killed (per the KLA)[16]
-UCK_KLA.png 2,131 insurgents killed (per the HLC)[17]
+Serbian paramilitary units (Šakali, Škorpioni), unknown number Russian volunteers, unknown number [14][15] | casualties1 = 1,500 insurgents killed (per the KLA)[16]
+2,131 insurgents killed (per the HLC)[17]
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ KLA goals also included the establishment of a Greater Albania, a state stretchi
 
 While Rugova promised to uphold the minority rights of Serbs in Kosovo, the KLA was much less tolerant. Selimi stated that "Serbs who have blood on their hands would have to leave the Kosovo".[106]
 
-Kosovo-metohija-koreni-duse002.jpg]]
+]]
 
 It is widely believed that the KLA received financial and material support from the Kosovo Albanian diaspora.[107][108] In early 1997, Albania collapsed into chaos following the fall of President Sali Berisha. Military stockpiles were looted with impunity by criminal gangs, with much of the hardware ending up in western Kosovo and boosting the growing KLA arsenal. Bujar Bukoshi, shadow Prime Minister in exile (in Zürich, Switzerland), created a group called FARK (Armed Forces of the Republic of Kosova), which was reported to have been disbanded and absorbed by the KLA in 1998. The Yugoslav government considered the KLA to be "terrorists" and "insurgents" who indiscriminately attacked police and civilians, while most Albanians saw the KLA as "freedom fighters".
 
@@ -173,8 +173,6 @@ When retreating from Kosovo after NATO intervention, Yugoslav units appeared com
 
 UN, NATO, and OSCE (1998–1999)
 
-Eksodi_99_Kukes.JPG
-
 On 9 June 1998, US President Bill Clinton declared a "national emergency" (state of emergency) due to the "unusual and extraordinary threat to the national security and foreign policy of the United States" imposed by Yugoslavia and Serbia over the Kosovo War.[130]
 
 On 23 September 1998, acting under Chapter VII of the United Nations Charter, the UN Security Council adopted Resolution 1199. This expressed 'grave concern' at reports reaching the Secretary General that over 230,000 people had been displaced from their homes by 'the excessive and indiscriminate use of force by Serbian security forces and the Yugoslav Army',[131] demanding that all parties in Kosovo and the Federal Republic of Yugoslavia cease hostilities and maintain a ceasefire. On 24 September the North Atlantic Council (NAC) of NATO issued an "activation warning" taking NATO to an increased level of military preparedness for both a limited air option and a phased air campaign in Kosovo.[132] The other major issue for those who saw no option but to resort to the use of force was the estimated 250,000 displaced Albanians, 30,000 of whom were out in the woods, without warm clothing or shelter, with winter fast approaching.
@@ -197,7 +195,7 @@ Also on 30 January 1999 the Contact Group issued a set of "non-negotiable princi
 
 The Rambouillet talks began on 6 February 1999, with NATO Secretary General Javier Solana negotiating with both sides. They were intended to conclude by 19 February. The FR Yugoslavian delegation was led by then president of Serbia Milan Milutinović, while Milošević himself remained in Belgrade. This was in contrast to the 1995 Dayton conference that ended the war in Bosnia, where Milošević negotiated in person. The absence of Milošević was interpreted as a sign that the real decisions were being made back in Belgrade, a move that aroused criticism in Yugoslavia as well as abroad; Kosovo's Serbian Orthodox bishop Artemije traveled all the way to Rambouillet to protest that the delegation was wholly unrepresentative. At this time speculation about an indictment of Milošević for war crimes was rife, so his absence may have been motivated by fear of arrest.
 
-72nd_Special_Brigade_equipment_1999,_Belgrade_Military_Museum_.jpg in the 1999 Kosovo War]]
+in the 1999 Kosovo War]]
 
 The first phase of negotiations was successful. In particular, a statement was issued by the Contact Group co-chairmen on 23 February 1999 that the negotiations "have led to a _consensus_ on substantial autonomy for Kosovo, including on mechanisms for free and fair elections to democratic institutions, for the governance of Kosovo, for the protection of human rights and the rights of members of national communities; and for the establishment of a fair judicial system". They went on to say that "a political framework is now in place", leaving the further work of finalising "the implementation Chapters of the Agreement, including the modalities of the _invited international_ civilian and military presence in Kosovo".
 
@@ -212,13 +210,13 @@ After the failure at Rambouillet and the alternative Yugoslav proposal, internat
 
 NATO bombing timeline
 
-F-117_Allied_Force.jpg taxis to the runway before taking off from Aviano Air Base, Italy, on March 24, 1999]]
+taxis to the runway before taking off from Aviano Air Base, Italy, on March 24, 1999]]
 
 On 23 March 1999 at 21:30 UTC, Richard Holbrooke returned to Brussels and announced that peace talks had failed and formally handed the matter to NATO for military action.[154][155] Hours before the announcement, Yugoslavia announced on national television it had declared a state of emergency, citing an imminent threat of war and began a huge mobilisation of troops and resources.[156][157]
 
 On 23 March 1999 at 22:17 UTC, the Secretary General of NATO, Javier Solana, announced he had directed the Supreme Allied Commander Europe (SACEUR), US Army General Wesley Clark, to "initiate air operations in the Federal Republic of Yugoslavia."[158][159] On 24 March at 19:00 UTC, NATO started its bombing campaign against Yugoslavia.[160][161]
 
-Tomahawk-launch.jpg launches from the aft missile deck of USS _Gonzalez_ on March 31, 1999]]
+launches from the aft missile deck of USS _Gonzalez_ on March 31, 1999]]
 
 The NATO bombing campaign lasted from 24 March to 11 June 1999, involving up to 1,000 aircraft operating mainly from bases in Italy and aircraft carriers stationed in the Adriatic. Tomahawk cruise missiles were also extensively used, fired from aircraft, ships, and submarines. With the exception of Greece, all NATO members were involved to some degree. Over the ten weeks of the conflict, NATO aircraft flew over 38,000 combat missions. For the German Air Force (_Luftwaffe_), it was the second time it had participated in a conflict since World War II, after the Bosnian War.
 
@@ -226,11 +224,11 @@ The proclaimed goal of the NATO operation was summed up by its spokesman as "Ser
 
 NATO military operations switched increasingly to attacking Yugoslav units on the ground, hitting targets as small as individual tanks and artillery pieces, as well as continuing with the strategic bombardment. This activity was heavily constrained by politics, as each target needed to be approved by all nineteen member states. Montenegro was bombed on several occasions, but NATO eventually desisted to prop up the precarious position of its anti-Milošević leader, Milo Đukanović.
 
-Sremska_mitrovica_all_force.jpg ordnance storage depot, Serbia]]
+ordnance storage depot, Serbia]]
 
 At the start of May, a NATO aircraft attacked an Albanian refugee convoy, believing it was a Yugoslav military convoy, killing around fifty people. NATO admitted its mistake five days later, and the Yugoslavs accused NATO of deliberately attacking the refugees. A later report conducted by the International Criminal Tribunal for the former Yugoslavia (ICTY) opined that "civilians were not deliberately attacked in this incident", and that "neither the aircrew nor their commanders displayed the degree of recklessness in failing to take precautionary measures which would sustain criminal charges."[162] On May 7, NATO bombs hit the Chinese Embassy in Belgrade, killing three Chinese journalists and outraging Chinese public opinion. The United States and NATO later apologised for the bombing, saying that it occurred because of an outdated map provided by the CIA, although this was challenged by a joint report from _The Observer_ (UK) and _Politiken_ (Denmark) newspapers,[163] which claimed that NATO intentionally bombed the embassy because it was being used as a relay station for Yugoslav army radio signals. The report by the newspaper contradicts findings in the same report by the ICTY which stated that the root of the failures in target location "appears to stem from the land navigation techniques employed by an intelligence officer."[164] In another incident at the Dubrava prison in Kosovo in May 1999, the Yugoslav government attributed as many as 95 civilian deaths to NATO bombing of the facility after NATO cited Serbian and Yugoslav military activity in the area;[165] a Human Rights Watch report later concluded that at least nineteen ethnic Albanian prisoners had been killed by the bombing, but that an uncertain number – probably more than 70 – were killed by Serbian Government forces in the days immediately following the bombing.[166]
 
-Нато_бомбе_изазивале_еколошку_катастрофу_у_Новом_Саду.jpeg after NATO bombardment]]
+after NATO bombardment]]
 
 By the start of April, the conflict appeared little closer to a resolution, and NATO countries began to seriously consider conducting ground operations in Kosovo. British Prime Minister Tony Blair was a strong advocate of ground forces and pressured the United States to agree; his strong stance caused some alarm in Washington as US forces would be making the largest contribution to any offensive.[167] US President Bill Clinton was extremely reluctant to commit US forces for a ground offensive. Instead, Clinton authorised a CIA operation to look into methods to destabilise the Yugoslav government without training KLA troops.[168] At the same time, Finnish and Russian diplomatic negotiators continued to try to persuade Milošević to back down. Tony Blair would order 50,000 British soldiers to be made ready for a ground offensive: most of the available British Army.[169]
 
@@ -243,15 +241,11 @@ Yugoslav army withdrawal and the entry of KFOR
 
 On 3 June 1999, Milošević accepted the terms of an international peace plan to end the fighting, with the national parliament adopting the proposal amid contentious debate with delegates coming close to fistfights at some points.[173][174] On 10 June, the North Atlantic Council ratified the agreement and suspended air operations.[175]
 
-990628-M-5696S-025_-_U.S._Marines_march_with_local_children_down_street_of_Zegra,_Kosovo.jpg
-
 On 12 June, after Milošević accepted the conditions, the NATO-led peacekeeping Kosovo Force (KFOR) began entering Kosovo. KFOR had been preparing to conduct combat operations, but in the end, its mission was only peacekeeping. It was based upon the Allied Rapid Reaction Corps headquarters commanded by then Lieutenant General Mike Jackson of the British Army. It consisted of British forces (a brigade built from 4th Armored and 5th Airborne Brigades), a French Army Brigade, a German Army brigade, which entered from the west, while all the other forces advanced from the south, and an Italian Army and United States Army brigades.
 
 The first NATO troops to enter Pristina on the 12th of June 1999 were Norwegian special forces from Forsvarets Spesialkommando (FSK) and soldiers from the British Special Air Service 22 S.A.S., although to NATO's diplomatic embarrassment Russian troops arrived first at the airport. The Norwegian soldiers were the first to come in contact with the Russian troops at the airport. FSK's mission was to level the negotiating field between the belligerent parties, and to fine-tune the detailed, local deals needed to implement the peace deal between the Serbians and the Kosovo Albanians.[176][177][178][179]
 
 The US contribution, known as the Initial Entry Force, was led by the 1st Armored Division, commanded by Brigadier General Peterson, and was spearheaded by a platoon from the 2nd Battalion, 505th Parachute Infantry Regiment attached to the British Forces. Other units included 1st and 2nd Battalions of the 10th Special Forces Group(Airborne) from Stuttgart Germany and Fort Carson, Colorado, TF 1–6 Infantry (1-6 infantry with C Co 1-35AR) from Baumholder, Germany, the 2nd Battalion, 505th Parachute Infantry Regiment from Fort Bragg, North Carolina, the 26th Marine Expeditionary Unit from Camp Lejeune, North Carolina, the 1st Battalion, 26th Infantry Regiment from Schweinfurt, Germany, and Echo Troop, 4th Cavalry Regiment, also from Schweinfurt, Germany. Also attached to the US force was the Greek Army's 501st Mechanised Infantry Battalion. The initial US forces established their area of operation around the towns of Uroševac, the future Camp Bondsteel, and Gnjilane, at Camp Monteith, and spent four months—the start of a stay which continues to date—establishing order in the southeast sector of Kosovo.
-
-Defense.gov_News_Photo_990726-A-9985E-012.jpg
 
 During the initial incursion, the US soldiers were greeted by Albanians cheering and throwing flowers as US soldiers and KFOR rolled through their villages. Although no resistance was met, three US soldiers from the Initial Entry Force were killed in accidents.[180]
 
@@ -259,7 +253,7 @@ On 1 October 1999, approximately 150 paratroopers from Alpha Company, 1/508th Ai
 
 On 15 December 1999, Staff Sergeant Joseph Suponcic of 3rd Battalion/10th Special Forces Group (Airborne) was killed, when the HMMWV in which he was a passenger struck an anti-tank mine planted by Albanians and meant for the Russian contingent with which SSG Suponcic's team was patrolling in Kosovska Kamenica.
 
-Defense.gov_News_Photo_000109-A-4385T-009.jpg protest in the streets on January 9, 2000]]
+protest in the streets on January 9, 2000]]
 
 Following the military campaign, the involvement of Russian peacekeepers proved to be tense and challenging to the NATO Kosovo force. The Russians expected to have an independent sector of Kosovo, only to be unhappily surprised with the prospect of operating under NATO command. Without prior communication or coordination with NATO, Russian peacekeeping forces entered Kosovo from Bosnia and Herzegovina and occupied Pristina International Airport ahead of the arrival of NATO forces. This resulted in an incident during which NATO Supreme Commander Wesley Clark's wish to forcibly block the runways with NATO vehicles, to prevent any Russian reinforcement, was refused by KFOR commander General Mike Jackson.[181]
 
@@ -320,13 +314,11 @@ In the 2008 joint study by the Humanitarian Law Centre (an NGO from Serbia and K
 
 Civilians killed by NATO airstrikes
 
-Грделичка_клисура_мост.JPG
-
 Yugoslavia claimed that NATO attacks caused between 1,200 and 5,700 civilian casualties. NATO's Secretary General, Lord Robertson, wrote after the war that "the actual toll in human lives will never be precisely known" but he then offered the figures found in a report by Human Rights Watch as a reasonable estimate. This report counted between 488 and 527 civilian deaths (90 to 150 of them killed from cluster bomb use) in 90 separate incidents, the worst of which were the 87 Albanian refugees who perished at the hands of NATO bombs, near Koriša.[246] Attacks in Kosovo overall were more deadly due to the confused situation with many refugee movements—the one-third of the incidents there account for more than half of the deaths.[247]
 
 Civilians killed by Yugoslav forces
 
-RCMP_in_Kosovo.jpg (RCMP) officers investigate an alleged mass grave, alongside US Marines]]
+(RCMP) officers investigate an alleged mass grave, alongside US Marines]]
 
 Various estimates of the number of killings attributed to Yugoslav forces have been announced through the years. An estimated 800,000 Kosovo Albanians fled and an estimated 7,000 to 9,000 were killed, according to _The New York Times_.[248] The estimate of 10,000 deaths is used by the US Department of State, which cited human rights abuses as its main justification for attacking Yugoslavia.[249]
 
@@ -343,7 +335,7 @@ KNOWN MASS GRAVES:
 
 NATO losses
 
-F16_equipment_and_F117_fragments.jpg pilot's flight equipment belonging to Lt. Colonel David L. Goldfein and part of the F-117A shot down over Serbia in 1999 on show at a Belgrade museum.]]
+pilot's flight equipment belonging to Lt. Colonel David L. Goldfein and part of the F-117A shot down over Serbia in 1999 on show at a Belgrade museum.]]
 
 Military casualties on the NATO side were light. According to official reports, the alliance suffered no fatalities as a direct result of combat operations. In the early hours of May 5, a US military AH-64 Apache helicopter crashed not far from the border between Serbia and Albania.[255]
 
@@ -353,11 +345,9 @@ There were other casualties after the war, mostly due to land mines. During the 
 
 Yugoslav military losses
 
-Destroyed-t-55-tank-Kosovo.jpg
-
 At first, NATO claimed to have killed 10,000 Yugoslav troops, while Yugoslavia claimed only 500; the NATO investigative teams later corrected it to a few hundred Yugoslav troops killed by air strikes.[266] In 2001, the Yugoslav authorities claimed 462 soldiers were killed and 299 wounded by NATO airstrikes.[267] Later, in 2013, Serbia claimed that 1,008 Yugoslav soldiers and policemen had been killed by NATO bombing.[268] NATO initially claimed that 5,000 Yugoslav servicemen had been killed and 10,000 had been wounded during the NATO air campaign.[269][270] NATO has since revised this estimate to 1,200 Yugoslav soldiers and policemen killed.[271]
 
-Bosnia_mig29.jpg jet fighter shot down on March 27, 1999, outside the town of Ugljevik, Bosnia and Herzegovina]]
+jet fighter shot down on March 27, 1999, outside the town of Ugljevik, Bosnia and Herzegovina]]
 
 Of military equipment, NATO destroyed around 50 Yugoslav aircraft including 6 MiG-29s destroyed in air-to-air combat. A number of G-4 Super Galebs were destroyed in their hardened aircraft shelter by bunker-busting bombs which started a fire which spread quickly because the shelter doors were not closed. At the end of war, NATO officially claimed that they had destroyed 93 Yugoslav tanks. Yugoslavia admitted a total of 3 destroyed tanks. The latter figure was verified by European inspectors when Yugoslavia rejoined the Dayton accords, by noting the difference between the number of tanks then and at the last inspection in 1995. NATO claimed that the Yugoslav army lost 93 tanks (M-84's and T-55's), 132 APCs, and 52 artillery pieces.[272] _Newsweek_, the second-largest news weekly magazine in the U.S, gained access to a suppressed US Air Force report that claimed the real numbers were "3 tanks, not 120; 18 armored personnel carriers, not 220; 20 artillery pieces, not 450".[273][274] Another US Air Force report gives a figure of 14 tanks destroyed.[275] Most of the targets hit in Kosovo were decoys, such as tanks made out of plastic sheets with telegraph poles for gun barrels, or old World War II–era tanks which were not functional. Anti-aircraft defences were preserved by the simple expedient of not turning them on, preventing NATO aircraft from detecting them, but forcing them to keep above a ceiling of , making accurate bombing much more difficult. Towards the end of the war, it was claimed that carpet bombing by B-52 aircraft had caused huge casualties among Yugoslav troops stationed along the Kosovo–Albania border. Careful searching by NATO investigators found no evidence of any such large-scale casualties.
 
@@ -369,7 +359,7 @@ Around 1,500 Kosovo Liberation Army soldiers were killed, according to KLA's own
 
 Aftermath
 
-Defense.gov_News_Photo_990521-F-5920L-006.jpg, Albania]] The Yugoslav and Serb forces caused the displacement of between 1.2 million[279] to 1.45 million Kosovo Albanians.[280] After the end of the war in June 1999, numerous Albanian refugees started returning home from neighboring countries. By November 1999, according to the UN High Commissioner for Refugees, 848,100 out of 1,108,913 had returned.[281]
+, Albania]] The Yugoslav and Serb forces caused the displacement of between 1.2 million[279] to 1.45 million Kosovo Albanians.[280] After the end of the war in June 1999, numerous Albanian refugees started returning home from neighboring countries. By November 1999, according to the UN High Commissioner for Refugees, 848,100 out of 1,108,913 had returned.[281]
 
 According to the 1991 Yugoslavia Census, of the nearly 2 million population of Kosovo in 1991, 194,190 were Serbs, 45,745 were Romani and 20,356 were Montenegrins.[282] According to the Human Rights Watch, 200,000 Serbs and thousands of Roma fled from Kosovo during and after the war.[283] A 2001 Human Rights Watch's report suggested that the removal of ethnic minorities in Kosovo was done in order to better justify an independent state, and there were over 1000 reports of beatings and torturing of minorities in Kosovo by ethnic Albanians in 2000 after the war finished.[284] Homes of minorities were burned and Orthodox churches and monasteries were destroyed in the immediate aftermath of KFOR's arrival in Kosovo.[285] Attackers combined this destruction with killings, harassment and intimidation designed to force people from their homes and communities.[286] The Yugoslav Red Cross had also registered 247,391 mostly Serbian refugees by November. More than 164,000 Serbs left Kosovo during the seven weeks which followed Yugoslav and Serb forces' withdrawal from, and the NATO-led Kosovo Force (KFOR) entering Kosovo.[287]
 
@@ -380,7 +370,7 @@ War crimes
 
 By the Federal Yugoslav government
 
-Vlastimir_Đorđević.jpg, former Serb colonel general, at the ICTY]] For the government of Serbia, cooperation with the International Criminal Tribunal for the Former Yugoslavia is "still regarded as a distressing obligation, the necessary price for joining the European Union".[288] Religious objects were damaged or destroyed. Of the 498 mosques in Kosovo that were in active use, the International Criminal Tribunal for the former Yugoslavia (ICTY) documented that 225 mosques sustained damage or destruction by the Yugoslav Serb army.[289] In all, eighteen months of the Yugoslav Serb counterinsurgency campaign between 1998-1999 within Kosovo resulted in 225 or a third out of a total of 600 mosques being damaged, vandalised, or destroyed.[290][291] During the war, Islamic architectural heritage posed for Yugoslav Serb paramilitary and military forces as Albanian patrimony with destruction of non-Serbian architectural heritage being a methodical and planned component of ethnic cleansing in Kosovo.[292][293]
+, former Serb colonel general, at the ICTY]] For the government of Serbia, cooperation with the International Criminal Tribunal for the Former Yugoslavia is "still regarded as a distressing obligation, the necessary price for joining the European Union".[288] Religious objects were damaged or destroyed. Of the 498 mosques in Kosovo that were in active use, the International Criminal Tribunal for the former Yugoslavia (ICTY) documented that 225 mosques sustained damage or destruction by the Yugoslav Serb army.[289] In all, eighteen months of the Yugoslav Serb counterinsurgency campaign between 1998-1999 within Kosovo resulted in 225 or a third out of a total of 600 mosques being damaged, vandalised, or destroyed.[290][291] During the war, Islamic architectural heritage posed for Yugoslav Serb paramilitary and military forces as Albanian patrimony with destruction of non-Serbian architectural heritage being a methodical and planned component of ethnic cleansing in Kosovo.[292][293]
 
 Yugoslav President Slobodan Milošević was charged by the UN's International Criminal Tribunal for the Former Yugoslavia (ICTY) with crimes against humanity and war crimes. In 2001, then-President Vojislav Koštunica "fought tooth and nail" against attempts to put Milošević before an international court but was unable to prevent this happening after further atrocities were revealed.[294]
 
@@ -478,11 +468,7 @@ United Nations
 
 Military and political consequences
 
-Kla_members.jpg
-
 The Kosovo War had a number of important consequences in terms of the military and political outcome. The status of Kosovo remains unresolved; international negotiations began in 2006 to determine Kosovo's level of autonomy as envisaged under UN Security Council Resolution 1244, but efforts failed. The province is administered by the United Nations despite its unilateral declaration of independence on February 17, 2008.
-
-Seized_uniform.JPG
 
 The UN-backed talks, led by UN Special Envoy Martti Ahtisaari, had begun in February 2006. Whilst progress was made on technical matters, both parties remained diametrically opposed on the question of status itself.[351] In February 2007, Ahtisaari delivered a draft status settlement proposal to leaders in Belgrade and Pristina, the basis for a draft UN Security Council Resolution which proposes "supervised independence" for the province, which is in contrary to UN Security Council Resolution 1244. By July 2007, the draft resolution, which was backed by the United States, United Kingdom, and other European members of the Security Council, had been rewritten four times to try to accommodate Russian concerns that such a resolution would undermine the principle of state sovereignty.[352] Russia, which holds a veto in the Security Council as one of five permanent members, stated that it would not support any resolution which is not acceptable to both Belgrade and Priština.[353]
 

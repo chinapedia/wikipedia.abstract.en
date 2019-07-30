@@ -12,7 +12,7 @@ In the 10th and early 9th centuries BCE, the territory of Judah appears to have 
 
 Archaeological record
 
-mesha_stele.jpg c. 850 BCE – earliest mention of a kingdom of Jerusalem.[7]]]
+c. 850 BCE – earliest mention of a kingdom of Jerusalem.[7]]]
 
 The legendary history of David and Solomon in the 10th century BCE tells little about the origins of Judah. There is no archaeological evidence of an extensive, powerful Kingdom of Judah before the late 8th century BCE; Nimrud Tablet K.3751, dated c. 733 BCE, is the earliest known record of the name Judah (written in Assyrian cuneiform as Yaudaya or KUR.ia-ú-da-a-a).[8] Prior to this the kingdom was no more than a small tribal entity which was limited to Jerusalem and its immediate surroundings.[9][10]
 
@@ -47,7 +47,7 @@ Jehoshaphat's successor, Jehoram of Judah formed an alliance with Israel by marr
 
 Clash of empires
 
-Stamped-bulla_seal-side.jpg After Hezekiah became sole ruler in c. 715 BCE, he formed alliances with Ashkelon and Egypt, and made a stand against Assyria by refusing to pay tribute.[29] (; ) In response, Sennacherib of Assyria attacked the fortified cities of Judah. () Hezekiah paid three hundred talents of silver and thirty talents of gold to Assyria – requiring him to empty the temple and royal treasury of silver and strip the gold from the doorposts of Solomon's Temple. ()[30] However, Sennacherib besieged Jerusalem[31] () in 701 BCE, though the city was never taken.
+After Hezekiah became sole ruler in c. 715 BCE, he formed alliances with Ashkelon and Egypt, and made a stand against Assyria by refusing to pay tribute.[29] (; ) In response, Sennacherib of Assyria attacked the fortified cities of Judah. () Hezekiah paid three hundred talents of silver and thirty talents of gold to Assyria – requiring him to empty the temple and royal treasury of silver and strip the gold from the doorposts of Solomon's Temple. ()[30] However, Sennacherib besieged Jerusalem[31] () in 701 BCE, though the city was never taken.
 
 During the long reign of Manasseh (c. 687/686 – 643/642 BCE),[32] Judah was a vassal of Assyrian rulers – Sennacherib and his successors, Esarhaddon[33] and Ashurbanipal after 669 BCE. Manasseh is listed as being required to provide materials for Esarhaddon's building projects, and as one of a number of vassals who assisted Ashurbanipal's campaign against Egypt.[34]
 
@@ -84,8 +84,6 @@ In 539 BCE the Achaemenid Empire conquered Babylonia and allowed the exiles to r
 Governance and economy
 
 LMLK seals are ancient Hebrew seals stamped on the handles of large storage jars dating from reign of King Hezekiah (circa 700 BCE) discovered mostly in and around Jerusalem. Several complete jars were found _in situ_ buried under a destruction layer caused by Sennacherib at Lachish.[61] While none of the original seals have been found, some 2,000 impressions made by at least 21 seal types have been published.[62]
-
-Lmlk-seal_impression-h2d-gg22_2003-02-21.jpg
 
 LMLK stands for the Hebrew letters _lamedh mem lamedh kaph_ (vocalized, _lamelekh_; Phoenician _lāmed mēm lāmed kāp_ – 𐤋𐤌𐤋𐤊), which can be translated as:
 

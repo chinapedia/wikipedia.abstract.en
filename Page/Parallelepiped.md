@@ -1,6 +1,5 @@
   Parallelepiped
-  -------------------------------
-  Parallelepiped_2013-11-29.svg
+  ----------------
   Type
   Faces
   Edges
@@ -34,7 +33,7 @@ A space-filling tessellation is possible with congruent copies of any parallelep
 
 Volume
 
-Parallelepiped-v.svg A parallelepiped can be considered as an oblique prism with a parallelogram as base. Hence the volume V of a parallelepiped is the product of the base area B and the height h (see diagram). With
+A parallelepiped can be considered as an oblique prism with a parallelogram as base. Hence the volume V of a parallelepiped is the product of the base area B and the height h (see diagram). With
 
 _B_ = |_a⃗_| ⋅ |_b⃗_| ⋅ sin _γ_ = |_a⃗_ × _b⃗_|
 (where γ is the angle between the vectors a⃗ and b⃗) and the height h = |c⃗| ⋅ |cos θ| (θ is the angle between vector c⃗ and the normal of the base) one gets
@@ -90,25 +89,24 @@ $$= 2(ab\sin\gamma+ bc\sin\alpha+ca\sin\beta)\$$
 
 Special cases by symmetry
 
-+---------------------------------------------------------------+-------------------------------------+
-| Full_octahedral_group;_subgroups_Hasse_diagram;_inversion.svg | Special_cases_of_parallelepiped.svg |
-| Octahedral symmetry subgroup relations with inversion center  | Special cases of the parallelepiped |
-+---------------------------------------------------------------+-------------------------------------+
++--------------------------------------------------------------+-------------------------------------+
+| Octahedral symmetry subgroup relations with inversion center | Special cases of the parallelepiped |
++--------------------------------------------------------------+-------------------------------------+
 
-+-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+------------------------+
-| Form        | Cube               | Square cuboid      | Trigonal trapezohedron | Rectangular cuboid | Right rhombic prism | Right parallelogrammic prism | Oblique rhombic prism  |
-+=============+====================+====================+========================+====================+=====================+==============================+========================+
-| Constraints | a = b = c          | a = b              | a = b = c              |                    | a = b               |                              | a = b                  |
-|             | α = β = γ = 90^(∘) | α = β = γ = 90^(∘) | α = β = γ              | α = β = γ = 90^(∘) | α = β = 90^(∘)      | α = β = 90^(∘)               | α = β                  |
-+-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+------------------------+
-| Symmetry    | O_(h)              | D_(4h)             | D_(3d)                 | D_(2h)             | C_(2h)              |                              |                        |
-|             | order 48           | order 16           | order 12               | order 8            | order 4             |                              |                        |
-+-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+------------------------+
-| Image       | Cubic.svg          | Tetragonal.svg     | Rhombohedral.svg       | Orthorhombic.svg   | Rhombic_prism.svg   | Monoclinic2.svg              | Clinorhombic_prism.svg |
-+-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+------------------------+
-| Faces       | 6 square           | 2 square           | 6 rhom.                | 6 rect.            | 4 rect.             | 4 rect.                      | 2 rhom.                |
-|             |                    | 4 rect.            |                        |                    | 2 rhom.             | 2 para.                      | 4 para.                |
-+-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+------------------------+
++-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+-----------------------+
+| Form        | Cube               | Square cuboid      | Trigonal trapezohedron | Rectangular cuboid | Right rhombic prism | Right parallelogrammic prism | Oblique rhombic prism |
++=============+====================+====================+========================+====================+=====================+==============================+=======================+
+| Constraints | a = b = c          | a = b              | a = b = c              |                    | a = b               |                              | a = b                 |
+|             | α = β = γ = 90^(∘) | α = β = γ = 90^(∘) | α = β = γ              | α = β = γ = 90^(∘) | α = β = 90^(∘)      | α = β = 90^(∘)               | α = β                 |
++-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+-----------------------+
+| Symmetry    | O_(h)              | D_(4h)             | D_(3d)                 | D_(2h)             | C_(2h)              |                              |                       |
+|             | order 48           | order 16           | order 12               | order 8            | order 4             |                              |                       |
++-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+-----------------------+
+| Image       |                    |                    |                        |                    |                     |                              |                       |
++-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+-----------------------+
+| Faces       | 6 square           | 2 square           | 6 rhom.                | 6 rect.            | 4 rect.             | 4 rect.                      | 2 rhom.               |
+|             |                    | 4 rect.            |                        |                    | 2 rhom.             | 2 para.                      | 4 para.               |
++-------------+--------------------+--------------------+------------------------+--------------------+---------------------+------------------------------+-----------------------+
 
 -   The parallelepiped with O_(h) symmetry is known as a CUBE, which has six congruent square faces.
 -   The parallelepiped with D_(4h) symmetry is known as a SQUARE CUBOID, which has two square faces and four congruent rectangular faces.

@@ -56,8 +56,6 @@ There are Klingon language meetings[28][29] and linguists or students are intere
 
 Other media
 
-Wikipedia_Logo_1.0.png
-
 In 2010, a Chicago Theatre company presented a version of Charles Dickens' _A Christmas Carol_ in Klingon language and a Klingon setting.[30] On September 25, 2010, the Washington Shakespeare Company (now known as WSC Avant Bard) performed selections from _Hamlet_ and _Much Ado About Nothing_ in the Klingon language in Arlington, Virginia. The performance was proposed by Okrand in his capacity as chairman of the group's board.[31] This performance was reprised on February 27, 2011 featuring Stephen Fry as the Klingon Osric and was filmed by the BBC as part of a 5-part documentary on language entitled _Fry's Planet Word_.[32]
 
 Google Search[33] and _Minecraft_[34] each have a Klingon language setting.
@@ -119,34 +117,34 @@ The letters in parentheses following each item (if any) indicate the acronym of 
 
 Phonology
 
-  Latin transcription   Klingon script        IPA
-  --------------------- --------------------- ------
-  a                     KlingonLang_a.svg     /ɑ/
-  b                     KlingonLang_b.svg     /b/
-  ch                    KlingonLang_ch.svg    /t͡ʃ/
-  D                     KlingonLang_D.svg     /ɖ/
-  e                     KlingonLang_e.svg     /ɛ/
-  gh                    KlingonLang_gh.svg    /ɣ/
-  H                     KlingonLang_H.svg     /x/
-  I                     KlingonLang_I.svg     /ɪ/
-  j                     KlingonLang_j.svg     /d͡ʒ/
-  l                     KlingonLang_l.svg     /l/
-  m                     KlingonLang_m.svg     /m/
-  n                     KlingonLang_n.svg     /n/
-  ng                    KlingonLang_ng.svg    /ŋ/
-  o                     KlingonLang_o.svg     /o/
-  p                     KlingonLang_p.svg     /pʰ/
-  q                     KlingonLang_q.svg     /qʰ/
-  Q                     KlingonLang_Q.svg     /q͡χ/
-  r                     KlingonLang_r.svg     /r/
-  S                     KlingonLang_S.svg     /ʂ/
-  t                     KlingonLang_t.svg     /tʰ/
-  tlh                   KlingonLang_tlh.svg   /t͡ɬ/
-  u                     KlingonLang_u.svg     /u/
-  v                     KlingonLang_v.svg     /v/
-  w                     KlingonLang_w.svg     /w/
-  y                     KlingonLang_y.svg     /j/
-  ʼ                     KlingonLang_'.svg     /ʔ/
+  Latin transcription   Klingon script   IPA
+  --------------------- ---------------- ------
+  a                                      /ɑ/
+  b                                      /b/
+  ch                                     /t͡ʃ/
+  D                                      /ɖ/
+  e                                      /ɛ/
+  gh                                     /ɣ/
+  H                                      /x/
+  I                                      /ɪ/
+  j                                      /d͡ʒ/
+  l                                      /l/
+  m                                      /m/
+  n                                      /n/
+  ng                                     /ŋ/
+  o                                      /o/
+  p                                      /pʰ/
+  q                                      /qʰ/
+  Q                                      /q͡χ/
+  r                                      /r/
+  S                                      /ʂ/
+  t                                      /tʰ/
+  tlh                                    /t͡ɬ/
+  u                                      /u/
+  v                                      /v/
+  w                                      /w/
+  y                                      /j/
+  ʼ                                      /ʔ/
 
 Klingon has been developed with a phonology that, while based on human natural languages, is intended to sound alien to human ears. When initially developed, Paramount Pictures (owners of the _Star Trek_ franchise) wanted the Klingon language to be guttural and harsh and Okrand wanted it to be unusual, so he selected sounds that combined in ways not generally found in other languages. The effect is mainly achieved by the use of a number of retroflex and uvular consonants in the language's inventory.[51] Klingon has twenty-one consonants and five vowels. Klingon is normally written in a variant of the Latin alphabet. The orthography of this transliteration is case-sensitive, that is, upper and lower case letters are not interchangeable (uppercase letters mostly represent sounds different from those expected by English speakers), although with the exception of Q/q there are no Minimal pairs between case. In other words, while "tlhingan hol", meaning Klingon language, is incorrect, it cannot be misread as anything but a(n erroneous) form of "tlhIngan Hol", but "Qat" (be popular) is not the same as "qat" (accompany) . In the discussion below, standard Klingon orthography appears in __, and the phonemic transcription in the International Phonetic Alphabet is written between _/slashes/_.
 
@@ -248,8 +246,6 @@ An important aspect of Klingon grammar is its "ungrammaticality". As with for ex
 
 
 Writing systems
-
-Qapla'.svg
 
 When written in the Latin alphabet, Klingon is unusual in being case-sensitive, with some letters written in capitals and others in lowercase. In one contrast, _q_ and _Q_, there is an actual case-sensitive pair representing two different consonants. Capitals are generally reserved for uvular or retroflex consonants pronounced further back in the mouth or throat than is normal for the corresponding English sounds, as with _D_, _Q_, and _S_. However, _H_, pronounced like the in German "ach" or Scottish "loch", is further forward in the throat than English /h/. One phoneme, the vowel _I_, is written capital to look more like the IPA symbol for the sound /ɪ/, and can pose problems when writing Klingon in sans-serif fonts such as Arial, as it looks almost the same as the consonant _l_.
 

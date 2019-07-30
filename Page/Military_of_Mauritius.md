@@ -12,8 +12,6 @@ Equipment
 
 Small arms
 
-Heckler_&_Koch_MP5-1.jpg
-
   Name                    Origin          Type                      Variant   Notes
   ----------------------- --------------- ------------------------- --------- -------
   Walther PP[4]           Germany         Semi-automatic pistol
@@ -28,7 +26,7 @@ Heckler_&_Koch_MP5-1.jpg
 Aircraft
 
 In March 1990 one radar equipped HAL Do 228-101 was ordered from India to form a maritime surveillance element by July 1991. This aircraft
-was reinforced in 1992 by a single twin turbo prop BN-2T Maritime Defender for coastal patrol work. A HAL Do 228 -202 was added to the fleet in 2004[13][14][15] Mauritius_National_Coast_Guard_helicopter.jpg]]
+was reinforced in 1992 by a single twin turbo prop BN-2T Maritime Defender for coastal patrol work. A HAL Do 228 -202 was added to the fleet in 2004[13][14][15] ]]
 
   Aircraft          Origin           Type              Variant    In service   Notes
   ----------------- ---------------- ----------------- ---------- ------------ ------------------------------------------
@@ -44,7 +42,7 @@ Vessels
 
 Ship inventory
 
-CGS-Valiant_(cropped).jpg]]
+]]
 
   Ship               Origin           Type          In service   Class
   ------------------ ---------------- ------------- ------------ ------------------------------------

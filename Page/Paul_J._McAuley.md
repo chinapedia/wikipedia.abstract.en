@@ -1,4 +1,4 @@
-Paul_McAuley_2005.JPG 2005 in Glasgow]]
+2005 in Glasgow]]
 
 PAUL J. MCAULEY (born 23 April 1955) is a British botanist and science fiction author.
 

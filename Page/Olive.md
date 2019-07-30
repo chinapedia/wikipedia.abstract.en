@@ -14,8 +14,6 @@ The oldest attested forms of the Greek words are the Mycenaean , __, and , __ or
 
 Description
 
-Olea_europaea_-_Köhler–s_Medizinal-Pflanzen-229.jpg
-
 The olive tree, _Olea europaea_, is an evergreen tree or shrub native to the Mediterranean, Asia, and Africa. It is short and squat, and rarely exceeds in height. 'Pisciottana', a unique variety comprising 40,000 trees found only in the area around Pisciotta in the Campania region of southern Italy often exceeds this, with correspondingly large trunk diameters. The silvery green leaves are oblong, measuring long and wide. The trunk is typically gnarled and twisted.[11]
 
 The small, white, feathery flowers, with ten-cleft calyx and corolla, two stamens, and bifid stigma, are borne generally on the previous year's wood, in racemes springing from the axils of the leaves.
@@ -89,11 +87,11 @@ Theophrastus, in _On the Causes of Plants_, does not give as systematic and deta
 
 Ancient Rome
 
-Roman_fresco_of_a_woman_wearing_a_garland_of_olives,_from_Herculaneum.jpg of a woman with red hair wearing a garland of olives, from Herculaneum, made sometime before the city's destruction in 79 AD by Mount Vesuvius (which also destroyed Pompeii).]]
+of a woman with red hair wearing a garland of olives, from Herculaneum, made sometime before the city's destruction in 79 AD by Mount Vesuvius (which also destroyed Pompeii).]]
 
 According to Pliny the Elder, a vine, a fig tree, and an olive tree grew in the middle of the Roman Forum; the latter was planted to provide shade (the garden plot was recreated in the 20th century).[48] The Roman poet Horace mentions it in reference to his own diet, which he describes as very simple: "As for me, olives, endives, and smooth mallows provide sustenance."[49] Lord Monboddo comments on the olive in 1779 as one of the foods preferred by the ancients and as one of the most perfect foods.[50]
 
-21-alimenti,_olio,Taccuino_Sanitatis,_Casanatense_4182..jpg; _Tacuinum Sanitatis_, 14th century, ]]
+; _Tacuinum Sanitatis_, 14th century, ]]
 
 Vitruvius describes of the use of charred olive wood in tying together walls and foundations in his _De Architectura_:
 
@@ -131,9 +129,7 @@ File:Old olive tree in Maslina Kaštela, Croatia.jpg| Kaštela, Croatia File:Uli
 
 Uses
 
-The olive tree, _Olea europaea_, has been cultivated for olive oil , fine wood, olive leaf, and the olive fruit. About 90% of all harvested olives are turned into oil, while about 10% are used as table olives.[78] The olive is one of the "trinity" or "triad" of basic ingredients in Mediterranean cuisine, the other two being wheat for bread, pasta, and couscous, and the grape for wine.[79][80] Olives_in_cup.jpg
-
-Grüne_Oliven.jpg Schwarze_Oliven.jpg
+The olive tree, _Olea europaea_, has been cultivated for olive oil , fine wood, olive leaf, and the olive fruit. About 90% of all harvested olives are turned into oil, while about 10% are used as table olives.[78] The olive is one of the "trinity" or "triad" of basic ingredients in Mediterranean cuisine, the other two being wheat for bread, pasta, and couscous, and the grape for wine.[79][80]
 
 Table olives
 
@@ -145,7 +141,7 @@ Table olives are classified by the IOC into three groups according to the degree
 
 Traditional fermentation and curing
 
-GraberOliveHouseVatRoom.JPG.]]
+.]]
 
 Raw or fresh olives are naturally very bitter; to make them palatable, olives must be cured and fermented, thereby removing oleuropein, a bitter phenolic compound that can reach levels of 14% of dry matter in young olives.[84] In addition to oleuropein, other phenolic compounds render freshly picked olives unpalatable and must also be removed or lowered in quantity through curing and fermentation. Generally speaking, phenolics reach their peak in young fruit and are converted as the fruit matures.[85] Once ripening occurs, the levels of phenolics sharply decline through their conversion to other organic products which render some cultivars edible immediately.[86] One example of an edible olive native to the island of Thasos is the _throubes_ black olive, which when allowed to ripen in the sun, shrivel, and fall from the tree, is edible.[87][88]
 
@@ -178,25 +174,21 @@ In modern landscape design olive trees are frequently used as ornamental feature
 
 Cultivation
 
-Olive_niche.jpg]]
+]]
 
 The earliest evidence for the domestication of olives comes from the Chalcolithic period archaeological site of Teleilat el Ghassul in what is today modern Jordan. Farmers in ancient times believed that olive trees would not grow well if planted more than a certain distance from the sea; Theophrastus gives 300 stadia () as the limit. Modern experience does not always confirm this, and, though showing a preference for the coast, they have long been grown further inland in some areas with suitable climates, particularly in the southwestern Mediterranean (Iberia, northwest Africa) where winters are mild.
 
-Olivares_de_la_campiña_estepeña.jpg
-
 Olives are now cultivated in many regions of the world with Mediterranean climates, such as South Africa, Chile, Peru, Australia, and California and in areas with temperate climates such as New Zealand, under irrigation in the Cuyo region in Argentina which has a desert climate. They are also grown in the Córdoba Province, Argentina, which has a temperate climate with rainy summers and dry winters (Cwa).[106] The climate in Argentina changes the external characteristics of the plant but the fruit keeps its original features.[107] The northernmost olive grove is placed in Anglesey, an island off the north west coast of Wales, in the United Kingdom:[108] but it is too early to say if the growing will be successful, having been planted in 2006.
 
-Olives_au_marche_de_Toulon_p1040238.jpg, France]]
+, France]]
 
 Growth and propagation
 
-Olive_Grove_prunings_in_neat_rows._Ostuni,_Puglia.jpg, Apulia]]
+, Apulia]]
 
 Olive trees show a marked preference for calcareous soils, flourishing best on limestone slopes and crags, and coastal climate conditions. They grow in any light soil, even on clay if well drained, but in rich soils, they are predisposed to disease and produce poorer oil than in poorer soil. (This was noted by Pliny the Elder.) Olives like hot weather and sunny positions without any shade, while temperatures below may injure even a mature tree. They tolerate drought well, due to their sturdy and extensive root systems. Olive trees can live for several centuries and can remain productive for as long if they are pruned correctly and regularly.
 
 Only a handful of olive varieties can be used to cross-pollinate. 'Pendolino' olive trees are partially self-fertile, but pollenizers are needed for a large fruit crop. Other compatible olive tree pollenizers include 'Leccino' and 'Maurino'. 'Pendolino' olive trees are used extensively as pollenizers in large olive tree groves.
-
-Olive_Phenology.png
 
 Olives are propagated by various methods. The preferred ways are cuttings and layers; the tree roots easily in favourable soil and throws up suckers from the stump when cut down. However, yields from trees grown from suckers or seeds are poor; they must be budded or grafted onto other specimens to do well.[109] Branches of various thickness cut into lengths around planted deeply in manured ground soon vegetate. Shorter pieces are sometimes laid horizontally in shallow trenches and, when covered with a few centimetres of soil, rapidly throw up sucker-like shoots. In Greece, grafting the cultivated tree on the wild tree is a common practice. In Italy, embryonic buds, which form small swellings on the stems, are carefully excised and planted under the soil surface, where they soon form a vigorous shoot.
 
@@ -230,15 +222,13 @@ At the northern edge of their cultivation zone, for instance in Southern France 
 
 As an invasive species
 
-Invasive_weeds_in_the_adelaide_hills.jpg, Australia]]
+, Australia]]
 
 Since its first domestication, _O. europaea_ has been spreading back to the wild from planted groves. Its original wild populations in southern Europe have been largely swamped by feral plants.[116]
 
 In some other parts of the world where it has been introduced, most notably South Australia, the olive has become a major woody weed that displaces native vegetation. In South Australia, its seeds are spread by the introduced red fox and by many bird species, including the European starling and the native emu, into woodlands, where they germinate and eventually form a dense canopy that prevents regeneration of native trees.[117] As the climate of South Australia is very dry and bushfire prone, the oil-rich feral olive tree substantially increases the fire hazard of native sclerophyll woodlands.[118]
 
 Harvest and processing
-
-Crop-forecast.png
 
 Olives are harvested in the autumn and winter. More specifically in the Northern Hemisphere, green olives are picked from the end of September to about the middle of November. Blond olives are picked from the middle of October to the end of November, and black olives are collected from the middle of November to the end of January or early February. In southern Europe, harvesting is done for several weeks in winter, but the time varies in each country, and with the season and the cultivar.
 
@@ -285,8 +275,6 @@ Olives are one of the most extensively cultivated fruit crops in the world.[122]
 +----------------+------------+-----------------+-------------+
 
 : Main countries of production (Year 2016 per FAOSTAT)[124]
-
-Chess_tile.png
 
 
 Nutrition

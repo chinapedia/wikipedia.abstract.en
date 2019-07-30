@@ -13,7 +13,7 @@ National club or provincial competitions include the Premiership in England, the
 
 History
 
-box in Rugby, Warwickshire, with a rugby football pitch in the foreground|alt=A wide shot of an old English school with a central tower, a sports pitch is seen in the foreground.]]
+in Rugby, Warwickshire, with a rugby football pitch in the foreground|alt=A wide shot of an old English school with a central tower, a sports pitch is seen in the foreground.]]
 
 The origin of rugby football is reputed to be an incident during a game of English school football at Rugby School in 1823, when William Webb Ellis is said to have picked up the ball and run with it.[3] Although the evidence for the story is doubtful, it was immortalised at the school with a plaque unveiled in 1895.[4][5] Despite the doubtful evidence, the Rugby World Cup trophy is named after Webb Ellis. Rugby football stems from the form of game played at Rugby School, which former pupils then introduced to their university.
 
@@ -25,7 +25,7 @@ First internationals
 
 The first rugby football international was played on 27 March 1871 between Scotland and England in Edinburgh. Scotland won the game 1-0.[16][17] By 1881 both Ireland and Wales had representative teams, and in 1883 the first international competition, the Home Nations Championship had begun. 1883 is also the year of the first rugby sevens tournament, the Melrose Sevens,[18] which is still held annually.
 
-Two important overseas tours took place in 1888: a British Isles team visited Australia and New Zealand—although a private venture, it laid the foundations for future British and Irish Lions tours;[19] and the 1888–89 New Zealand Native football team brought the first overseas team to British spectators.[20] King_George_V_presents_a_cup_to_the_captain_of_the_winning_New_Zealand_Services_Rugby_Team,_London.jpeg, captain of the New Zealand Army team, receiving the Kings Cup from George V.|alt=A black and white photo of a rugby field in which three men in military uniform, one of whom is King George, present a silver trophy to a rugby player dressed in black kit. Behind in a line are the rest of the team.]]
+Two important overseas tours took place in 1888: a British Isles team visited Australia and New Zealand—although a private venture, it laid the foundations for future British and Irish Lions tours;[19] and the 1888–89 New Zealand Native football team brought the first overseas team to British spectators.[20] , captain of the New Zealand Army team, receiving the Kings Cup from George V.|alt=A black and white photo of a rugby field in which three men in military uniform, one of whom is King George, present a silver trophy to a rugby player dressed in black kit. Behind in a line are the rest of the team.]]
 
 During the early history of rugby union, a time before commercial air travel, teams from different continents rarely met. The first two notable tours both took place in 1888the British Isles team touring New Zealand and Australia,[21] followed by the New Zealand team touring Europe.[22] Traditionally the most prestigious tours were the Southern Hemisphere countries of Australia, New Zealand and South Africa making a tour of a Northern Hemisphere, and the return tours made by a joint British and Irish team.[23] Tours would last for months, due to long traveling times and the number of games undertaken; the 1888 New Zealand team began their tour in Hawkes Bay in June and did not complete their schedule until August 1889, having played 107 rugby matches.[24] Touring international sides would play Test matches against international opponents, including national, club and county sides in the case of Northern Hemisphere rugby, or provincial/state sides in the case of Southern Hemisphere rugby.[25][26]
 
@@ -48,7 +48,7 @@ The Tri Nations, an annual international tournament involving Australia, New Zea
 
 Teams and positions
 
-Rugby_Union_Formation.svg Each team starts the match with 15 players on the field and seven or eight substitutes.[48] Players in a team are divided into eight forwards (two more than in rugby league) and seven backs.[49]
+Each team starts the match with 15 players on the field and seven or eight substitutes.[48] Players in a team are divided into eight forwards (two more than in rugby league) and seven backs.[49]
 
 Forwards
 
@@ -58,7 +58,7 @@ FRONT ROW
 The front row consists of three players: two props (the loosehead prop and the tighthead prop) and the hooker. The role of the two props is to support the hooker during scrums, to provide support for the jumpers during line-outs and to provide strength and power in rucks and mauls. The third position in the front row is the hooker. The hooker is a key position in attacking and defensive play and is responsible for winning the ball in the scrum. Hookers normally throw the ball in at line-outs.[53][54]
 
 SECOND ROW
-The second row consists of two locks or lock forwards. Locks are usually the tallest players in the team, and specialize as line-out jumpers.[55] The main role of the lock in line-outs is to make a standing jump, often supported by the other forwards, to either collect the thrown ball or ensure the ball comes down on their side. Locks also have an important role in the scrum, binding directly behind the three front row players and providing forward drive.[56] Chabal_Rugby_Racing_vs_Stade_Toulousain_311009.jpg (far left) in number eight position before entering the scrum.|alt=Facing right a group of seven men, in blue and white hooped jersey, bind together and crouch to form a scrum, the eighth player stands behind them observing the off-picture opposition.]] BACK ROW
+The second row consists of two locks or lock forwards. Locks are usually the tallest players in the team, and specialize as line-out jumpers.[55] The main role of the lock in line-outs is to make a standing jump, often supported by the other forwards, to either collect the thrown ball or ensure the ball comes down on their side. Locks also have an important role in the scrum, binding directly behind the three front row players and providing forward drive.[56] (far left) in number eight position before entering the scrum.|alt=Facing right a group of seven men, in blue and white hooped jersey, bind together and crouch to form a scrum, the eighth player stands behind them observing the off-picture opposition.]] BACK ROW
 The back row, not to be confused with ‘Backs’, is the third and final row of the forward positions, who are often referred to as the loose forwards.[57] The three positions in the back row are the two flankers and the number 8. The two flanker positions called the blindside flanker and openside flanker, are the final row in the scrum. They are usually the most mobile forwards in the game. Their main role is to win possession through 'turn overs'.[58] The number 8 packs down between the two locks at the back of the scrum. The role of the number 8 in the scrum is to control the ball after it has been heeled back from the front of the pack, and the position provides a link between the forwards and backs during attacking phases.[59]
 
 Backs
@@ -76,8 +76,6 @@ The fullback normally positions themself several metres behind the back line. Th
 
 
 Laws
-
-RugbyPitchMetricDetailed.svg
 
 Scoring
 
@@ -105,7 +103,7 @@ Any player may kick the ball forward in an attempt to gain territory. When a pla
 
 Breakdowns
 
-Schoolkids_doing_a_rugby_tackle.jpg The aim of the defending side is to stop the player with the ball, either by bringing them to ground (a tackle, which is frequently followed by a ruck) or by contesting for possession with the ball-carrier on their feet (a maul). Such a circumstance is called a breakdown and each is governed by a specific law.
+The aim of the defending side is to stop the player with the ball, either by bringing them to ground (a tackle, which is frequently followed by a ruck) or by contesting for possession with the ball-carrier on their feet (a maul). Such a circumstance is called a breakdown and each is governed by a specific law.
 
 TACKLING
 
@@ -117,7 +115,7 @@ Mauls occur after a player with the ball has come into contact with an opponent 
 
 Set pieces
 
-Ireland_vs_Georgia,_Rugby_World_Cup_2007_line_up.jpg and Georgia contesting a line-out in the 2007 Rugby World Cup|alt=Two rows of opposing players, green to the fore, white behind, each aid a jumping player from their team by lifting him towards an off-picture ball travelling overhead]]
+and Georgia contesting a line-out in the 2007 Rugby World Cup|alt=Two rows of opposing players, green to the fore, white behind, each aid a jumping player from their team by lifting him towards an off-picture ball travelling overhead]]
 
 Lineout
 
@@ -129,13 +127,13 @@ Both sides compete for the ball and players may lift their teammates.[99] A jump
 
 Scrum
 
-Scrum-1.JPG|alt=Two opposing formations of eight men, in white and black to the left, red and black to the right, push against each other in a crouched position; behind them stands another player and the referee]] A scrum is a way of restarting the game safely and fairly after a minor infringement.[101] It is awarded when the ball has been knocked or passed forward, if a player takes the ball over his own try line and puts the ball down, when a player is accidentally offside or when the ball is trapped in a ruck or maul with no realistic chance of being retrieved. A team may also opt for a scrum if awarded a penalty.[102]
+|alt=Two opposing formations of eight men, in white and black to the left, red and black to the right, push against each other in a crouched position; behind them stands another player and the referee]] A scrum is a way of restarting the game safely and fairly after a minor infringement.[101] It is awarded when the ball has been knocked or passed forward, if a player takes the ball over his own try line and puts the ball down, when a player is accidentally offside or when the ball is trapped in a ruck or maul with no realistic chance of being retrieved. A team may also opt for a scrum if awarded a penalty.[102]
 
 A scrum is formed by the eight forwards from each team binding together in three rows.[103] The front row consists of the two props (loosehead and tighthead) either side of the hooker.[104] The second row consists of two locks and the two flankers. Behind the second row is the number 8. This formation is known as the 3–4–1 formation.[105] Once a scrum is formed the scrum-half from the team awarded the _feed_ rolls the ball into the gap between the two front-rows known as the _tunnel_.[106] The two hookers then compete for possession by hooking the ball backwards with their feet, while each pack tries to push the opposing pack backwards to help gain possession.[107] The side that wins possession transfers the ball to the back of the scrum, where it is picked up either by the number 8 or by the scrum-half.[108]
 
 Officials and offences
 
-Touch_judge.jpg There are three match officials: a referee, and two assistant referees.[109] The latter, formerly known as touch judges, had the primary function of indicating when the ball had gone into "touch"; their role has been expanded and they are now expected to assist the referee in a number of areas, such as watching for foul play and checking offside lines.[110] In addition, for matches in high level competitions, there is often a television match official (TMO; popularly called the "video referee"), to assist with certain decisions, linked up to the referee by radio.[111] The referees have a system of hand signals to indicate their decisions.[112]
+There are three match officials: a referee, and two assistant referees.[109] The latter, formerly known as touch judges, had the primary function of indicating when the ball had gone into "touch"; their role has been expanded and they are now expected to assist the referee in a number of areas, such as watching for foul play and checking offside lines.[110] In addition, for matches in high level competitions, there is often a television match official (TMO; popularly called the "video referee"), to assist with certain decisions, linked up to the referee by radio.[111] The referees have a system of hand signals to indicate their decisions.[112]
 
 Common offences include tackling above the shoulders, collapsing a scrum, ruck or maul, not releasing the ball when on the ground, or being offside.[113] The non-offending team has a number of options when awarded a penalty: a "tap" kick, when the ball is kicked a very short distance from hand, allowing the kicker to regather the ball and run with it; a punt, when the ball is kicked a long distance from hand, for field position; a place-kick, when the kicker will attempt to score a goal; or a scrum.[114] Players may be sent off (signalled by a red card) or temporarily suspended ("sin-binned") for ten minutes (yellow card) for foul play or repeated infringements, and may not be replaced.[115]
 
@@ -150,7 +148,7 @@ Prior to 2016, all substitutions, no matter the cause, counted against the limit
 
 Equipment
 
-Rugbyball2.jpg]] The most basic items of equipment for a game of rugby union are the ball itself, a rugby shirt (also known as a "jersey"), rugby shorts, socks, and boots. The rugby ball is oval in shape (technically a prolate spheroid), and is made up of four panels.[122] The ball was historically made of leather, but in the modern era most games use a ball made from a synthetic material. The WR lays out specific dimensions for the ball, 280-300mm in length, 740-770mm in circumference of length and 580-620mm in circumference of width.[123] Rugby boots have soles with studs to allow grip on the turf of the pitch. The studs may be either metal or plastic but must not have any sharp edges or ridges.[124]
+]] The most basic items of equipment for a game of rugby union are the ball itself, a rugby shirt (also known as a "jersey"), rugby shorts, socks, and boots. The rugby ball is oval in shape (technically a prolate spheroid), and is made up of four panels.[122] The ball was historically made of leather, but in the modern era most games use a ball made from a synthetic material. The WR lays out specific dimensions for the ball, 280-300mm in length, 740-770mm in circumference of length and 580-620mm in circumference of width.[123] Rugby boots have soles with studs to allow grip on the turf of the pitch. The studs may be either metal or plastic but must not have any sharp edges or ridges.[124]
 
 Protective equipment is optional and strictly regulated. The most common items are mouthguards, which are worn by almost all players, and are compulsory in some rugby-playing nations.[125] Other protective items that are permitted include head gear; thin (not more than 10 mm thick), non-rigid shoulder pads and shin guards; which are worn underneath socks.[126] Bandages or tape can be worn to support or protect injuries; some players wear tape around the head to protect the ears in scrums and rucks. Female players may also wear chest pads.[127] Although not worn for protection, some types of fingerless mitts are allowed to aid grip.[128]
 
@@ -177,7 +175,7 @@ National unions oversee rugby union within individual countries and are affiliat
 
 Global reach
 
-Walers_Japan_Rugby_World_Cup_2007_09_20_supporters1.jpg, Wales|alt=A group of thirteen supporters pose together, some wearing rugby jerseys while others sport traditional Japanese costumes and Japanese flags.]]
+, Wales|alt=A group of thirteen supporters pose together, some wearing rugby jerseys while others sport traditional Japanese costumes and Japanese flags.]]
 
 The earliest countries to adopt rugby union were England, the country of inception, and the other three Home Nations, Scotland, Ireland and Wales. The spread of rugby union as a global sport has its roots in the exporting of the game by British expatriates, military personnel, and overseas university students. The first rugby club in France was formed by British residents in Le Havre in 1872, while the next year Argentina recorded its first game: 'Banks' v 'City' in Buenos Aires.[154]
 
@@ -197,7 +195,7 @@ Although the exact date of arrival of rugby union in Trinidad and Tobago is unkn
 
 Europe
 
-Germany_vs_Belgium_rugby_match.jpg]] The growth of rugby union in Europe outside the 6 Nations countries in terms of playing numbers has been sporadic. Historically, British and Irish home teams played the Southern Hemisphere teams of Australia, New Zealand, and South Africa, as well as France. The rest of Europe were left to play amongst themselves. During a period when it had been isolated by the British and Irish Unions, France, lacking international competition, became the only European team from the top tier to regularly play the other European countries; mainly Belgium, the Netherlands, Germany, Spain, Romania, Poland, Italy and Czechoslovakia.[174][175] In 1934, instigated by the French Rugby Federation, FIRA (Fédération Internationale de Rugby Amateur) was formed to organise rugby union outside the authority of the IRFB.[176] The founding members were , , , , , and .
+]] The growth of rugby union in Europe outside the 6 Nations countries in terms of playing numbers has been sporadic. Historically, British and Irish home teams played the Southern Hemisphere teams of Australia, New Zealand, and South Africa, as well as France. The rest of Europe were left to play amongst themselves. During a period when it had been isolated by the British and Irish Unions, France, lacking international competition, became the only European team from the top tier to regularly play the other European countries; mainly Belgium, the Netherlands, Germany, Spain, Romania, Poland, Italy and Czechoslovakia.[174][175] In 1934, instigated by the French Rugby Federation, FIRA (Fédération Internationale de Rugby Amateur) was formed to organise rugby union outside the authority of the IRFB.[176] The founding members were , , , , , and .
 
 Other European rugby playing nations of note include Russia, whose first officially recorded match is marked by an encounter between Dynamo Moscow and the Moscow Institute of Physical Education in 1933.[177] Rugby union in Portugal also took hold between the First and Second World Wars, with a Portuguese National XV set up in 1922 and an official championship started in 1927.[178]
 
@@ -205,7 +203,7 @@ In 1999, FIRA agreed to place itself under the auspices of the IRB, transforming
 
 South America
 
-URBA_Finals.jpg and Hindú playing the Torneo de la URBA final match in 2007.]]
+and Hindú playing the Torneo de la URBA final match in 2007.]]
 
 Although Argentina is the best-known rugby playing nation in South America, founding the Argentine Rugby Union in 1899,[179] several other countries on the continent have a long history. Rugby had been played in Brazil since the end of the 19th century, but the game was played regularly only from 1926, when São Paulo beat Santos in an inter-city match.[180] It took Uruguay several aborted attempts to adapt to rugby, led mainly by the efforts of the Montevideo Cricket Club; these efforts succeeded in 1951 with the formation of a national league and four clubs.[181] Other South American countries that formed a rugby union include Chile (1948),[182] and Paraguay (1968).[183]
 
@@ -217,7 +215,7 @@ Rugby union was introduced to Japan in 1899 by two Cambridge students: Ginnosuke
 
 Rugby in the Middle East and the Gulf States has its history in the 1950s, with clubs formed by British and French Services stationed in the region after the Second World War.[193] When these servicemen left, the clubs and teams were kept alive by young professionals, mostly Europeans, working in these countries. The official union of Oman was formed in 1971.[194] Bahrain founded its union a year later, while in 1975 the Dubai Sevens, the Gulf's leading rugby tournament, was created. Rugby remains a minority sport in the region with Israel, as of 2011, being the only member union from the Middle East to be included in the IRB World Rankings.[195]
 
-f5f4f1d0734f015b98b66d455884a9e0.jpg before their 2011 World Cup qualifier vs. Zambia on 21 July 2008.|alt=A close up shot of the Ivory Coast players, in their country's orange jerseys, entering the field from the dressing room tunnel.]]
+before their 2011 World Cup qualifier vs. Zambia on 21 July 2008.|alt=A close up shot of the Ivory Coast players, in their country's orange jerseys, entering the field from the dressing room tunnel.]]
 
 Africa
 
@@ -228,7 +226,7 @@ In more recent times the sport has been embraced by several African nations. In 
 
 Women's rugby union
 
-Women's_Rugby_Mark.jpg Records of women's rugby football date from the late 19th century, with the first documented source being Emily Valentine's writings, stating that she set up a rugby team in Portora Royal School in Enniskillen, Ireland in 1887.[203] Although there are reports of early women's matches in New Zealand and France, one of the first notable games to prove primary evidence was the 1917 war-time encounter between Cardiff Ladies and Newport Ladies; a photo of which shows the Cardiff team before the match at the Cardiff Arms Park.[204] In the past 30 years the game has grown in popularity among female athletes, and, according to WR, is now played in over 100 countries.[205]
+Records of women's rugby football date from the late 19th century, with the first documented source being Emily Valentine's writings, stating that she set up a rugby team in Portora Royal School in Enniskillen, Ireland in 1887.[203] Although there are reports of early women's matches in New Zealand and France, one of the first notable games to prove primary evidence was the 1917 war-time encounter between Cardiff Ladies and Newport Ladies; a photo of which shows the Cardiff team before the match at the Cardiff Arms Park.[204] In the past 30 years the game has grown in popularity among female athletes, and, according to WR, is now played in over 100 countries.[205]
 
 The English-based Women's Rugby Football Union (WRFU), responsible for women's rugby in England, Scotland, Ireland, and Wales, was founded in 1983, and is the oldest formally organised national governing body for women's rugby.[206] This was replaced in 1994 by the Rugby Football Union for Women (RFUW) in England with each of the other Home Nations governing their own countries.[207] The premier international competition in rugby union for women is the Women's Rugby World Cup, first held in 1991.[208] From 1994 through 2014, it was held every four years.[209] Following the 2014 event, a new four-year cycle was instituted, with the Women's World Cup held in the middle year of the men's World Cup cycle. The new Women's World Cup cycle began in 2017, with future competitions every four years thereafter.
 
@@ -237,7 +235,7 @@ Major international competitions
 
 Rugby World Cup
 
-Coupe_du_monde_rugby_-_tour_Eiffel.JPG commemorates France's hosting of the 2007 World Cup.|alt=An avenue of trees leads to a large iron lattice tower, in which an oversized rugby ball hangs within the lower sections.]]
+commemorates France's hosting of the 2007 World Cup.|alt=An avenue of trees leads to a large iron lattice tower, in which an oversized rugby ball hangs within the lower sections.]]
 
 The most important tournament in rugby union is the Rugby World Cup, a men's tournament that has taken place every four years since 1987 among national rugby union teams. New Zealand has won the Rugby World Cup the most (3 times) and is the current cup holder, winning the 2015 Rugby World Cup held at Twickenham, beating Australia in the final.[210][211] England (2003) were the first team from the Northern Hemisphere to win, the other champions being New Zealand (1987, 2011 and 2015), Australia (1991 and 1999), and South Africa (1995 and 2007).[212]
 
@@ -314,7 +312,7 @@ Rugby union has been professionalized since 1995. The following table shows full
 
 Variants
 
-Spielszene_BK.jpg match|alt=On a sunlit beach two teams of players, one in yellow the other in blue, play a form of rugby; the central yellow player runs forward clutching the ball with one hand, close to his chest.]]
+match|alt=On a sunlit beach two teams of players, one in yellow the other in blue, play a form of rugby; the central yellow player runs forward clutching the ball with one hand, close to his chest.]]
 
 Rugby union has spawned several variants of the full-contact, 15-a-side game. The two most common differences in adapted versions are fewer players and reduced player contact.
 
@@ -333,7 +331,7 @@ Other less formal variants include beach rugby and snow rugby.[257][258]
 
 Influence on other sports
 
-Tom_Wills_1857.jpg in 1859, Tom Wills drew inspiration from an early version of rugby he learnt at Rugby School.]] Rugby league was formed after the Northern Union broke from the Rugby Football Union in a disagreement over payment to players. It went on to change its laws and became a code in its own right. The two sports continue to influence each other to this day.
+in 1859, Tom Wills drew inspiration from an early version of rugby he learnt at Rugby School.]] Rugby league was formed after the Northern Union broke from the Rugby Football Union in a disagreement over payment to players. It went on to change its laws and became a code in its own right. The two sports continue to influence each other to this day.
 
 American football[259][260] and Canadian football[261] are derived from early forms of rugby.[262]
 
@@ -357,7 +355,7 @@ The record attendance for a rugby union game was set on 15 July 2000 in which Ne
 
 In culture
 
-Henri_Rousseau_-_The_Football_Players.jpg Thomas Hughes 1857 novel _Tom Brown's Schooldays_, set at Rugby School, includes a rugby football match, also portrayed in the 1940s film of the same name. James Joyce mentions Irish team Bective Rangers in several of his works, including Ulysses (1922) and Finnegans Wake (1939), while his 1916 semi-autobiographical work _A Portrait of the Artist as a Young Man_ has an account of Ireland international James Magee.[285] Sir Arthur Conan Doyle, in his 1924 Sherlock Holmes tale _The Adventure of the Sussex Vampire_, mentions that Dr Watson played rugby for Blackheath.[286]
+Thomas Hughes 1857 novel _Tom Brown's Schooldays_, set at Rugby School, includes a rugby football match, also portrayed in the 1940s film of the same name. James Joyce mentions Irish team Bective Rangers in several of his works, including Ulysses (1922) and Finnegans Wake (1939), while his 1916 semi-autobiographical work _A Portrait of the Artist as a Young Man_ has an account of Ireland international James Magee.[285] Sir Arthur Conan Doyle, in his 1924 Sherlock Holmes tale _The Adventure of the Sussex Vampire_, mentions that Dr Watson played rugby for Blackheath.[286]
 
 Henri Rousseau's 1908 work _Joueurs de football_ shows two pairs of rugby players competing.[287] Other French artists to have represented the sport in their works include Albert Gleizes' _Les Joueurs de football_ (1912), Robert Delaunay's _Football. L'Équipe de Cardiff_ (1916) and André Lhote's _Partie de Rugby_ (1917).[288] The 1928 Gold Medal for Art at the Antwerp Olympics was won by Luxembourg's Jean Jacoby for his work _Rugby_.[289]
 

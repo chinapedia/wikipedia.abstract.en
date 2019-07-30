@@ -12,7 +12,7 @@ Learning music by ear is done by repeatedly listening to other musicians, either
 
 Existence in classical music traditions
 
-In most instances, those traditions where learning music from playing by ear is paramount do not use musical notation in any form. Some examples of this such as by early Blues guitarists and pianists, Romani fiddlers and folk music guitarists. A_group_of_musicians,_North_India,_c.1870's.jpg musicians
+In most instances, those traditions where learning music from playing by ear is paramount do not use musical notation in any form. Some examples of this such as by early Blues guitarists and pianists, Romani fiddlers and folk music guitarists. musicians
 (c. 1870)]] One particularly prominent example is of Indian classical music, where the teaching methods of its two major strands (_Hindustani_ and _Carnatic_) are almost exclusively oral.[3]
 
 Western classical music

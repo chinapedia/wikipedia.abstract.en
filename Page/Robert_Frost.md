@@ -7,7 +7,7 @@ Biography
 
 Early years
 
-Jb_modern_frost_2_e.jpg Robert Frost was born in San Francisco, California, to journalist William Prescott Frost, Jr., and Isabelle Moodie.[3] His mother was a Scottish immigrant, and his father descended from Nicholas Frost of Tiverton, Devon, England, who had sailed to New Hampshire in 1634 on the _Wolfrana_.
+Robert Frost was born in San Francisco, California, to journalist William Prescott Frost, Jr., and Isabelle Moodie.[3] His mother was a Scottish immigrant, and his father descended from Nicholas Frost of Tiverton, Devon, England, who had sailed to New Hampshire in 1634 on the _Wolfrana_.
 
 Frost was a descendant of Samuel Appleton, one of the early settlers of Ipswich, Massachusetts, and Rev. George Phillips, one of the early settlers of Watertown, Massachusetts.[4]
 
@@ -17,15 +17,13 @@ Although known for his later association with rural life, Frost grew up in the c
 
 Adult years
 
-Robert_Frost_NYWTS_5.jpg
-
 In 1894, he sold his first poem, "My Butterfly. An Elegy" (published in the November 8, 1894, edition of the _New York Independent_) for $15 ($ today). Proud of his accomplishment, he proposed marriage to Elinor Miriam White, but she demurred, wanting to finish college (at St. Lawrence University) before they married. Frost then went on an excursion to the Great Dismal Swamp in Virginia and asked Elinor again upon his return. Having graduated, she agreed, and they were married at Lawrence, Massachusetts on December 19, 1895.
 
 Frost attended Harvard University from 1897 to 1899, but he left voluntarily due to illness.[6][7][8] Shortly before his death, Frost's grandfather purchased a farm for Robert and Elinor in Derry, New Hampshire; Frost worked the farm for nine years while writing early in the mornings and producing many of the poems that would later become famous. Ultimately his farming proved unsuccessful and he returned to the field of education as an English teacher at New Hampshire's Pinkerton Academy from 1906 to 1911, then at the New Hampshire Normal School (now Plymouth State University) in Plymouth, New Hampshire.
 
 In 1912, Frost sailed with his family to Great Britain, settling first in Beaconsfield, a small town outside London. His first book of poetry, _A Boy's Will_, was published the next year. In England he made some important acquaintances, including Edward Thomas (a member of the group known as the Dymock poets and Frost's inspiration for "The Road Not Taken"[9]), T. E. Hulme, and Ezra Pound. Although Pound would become the first American to write a favorable review of Frost's work, Frost later resented Pound's attempts to manipulate his American prosody.[10] Frost met or befriended many contemporary poets in England, especially after his first two poetry volumes were published in London in 1913 (_A Boy's Will_) and 1914 (_North of Boston_).
 
-Robertfrostfarm.JPG in Derry, New Hampshire, where he wrote many of his poems, including "Tree at My Window" and "Mending Wall."]]
+in Derry, New Hampshire, where he wrote many of his poems, including "Tree at My Window" and "Mending Wall."]]
 
 In 1915, during World War I, Frost returned to America, where Holt's American edition of _A Boy's Will_ had recently been published, and bought a farm in Franconia, New Hampshire, where he launched a career of writing, teaching, and lecturing. This family homestead served as the Frosts' summer home until 1938. It is maintained today as The Frost Place, a museum and poetry conference site. He was made an honorary member of Phi Beta Kappa at Harvard[11] in 1916. During the years 1917–20, 1923–25, and, on a more informal basis, 1926–1938, Frost taught English at Amherst College in Massachusetts, notably encouraging his students to account for the myriad sounds and intonations of the spoken English language in their writing. He called his colloquial approach to language "the sound of sense."[12]
 
@@ -35,7 +33,7 @@ For forty-two years – from 1921 to 1962 – Frost spent almost every summer 
 
 In 1934, Frost began to spend winter months in Florida.[21] In March 1935, he gave a talk at the University of Miami.[22] In 1940, he bought a plot in South Miami, Florida, naming it _Pencil Pines_; he spent his winters there for the rest of his life.[23] In her memoir about Frost's time in Florida, Helen Muir writes, "Frost had called his five acres _Pencil Pines_ because he said he had never made a penny from anything that did not involve the use of a pencil."[24] His properties also included a house on Brewster Street in Cambridge, Massachusetts.
 
-Harvard's 1965 alumni directory indicates Frost received an honorary degree there. Although he never graduated from college, Frost received over 40 honorary degrees, including ones from Princeton, Oxford and Cambridge universities, and was the only person to receive two honorary degrees from Dartmouth College. During his lifetime, the Robert Frost Middle School in Fairfax, Virginia, the Robert L. Frost School in Lawrence, Massachusetts, and the main library of Amherst College were named after him. Robert_Frost's_epitaph.jpg
+Harvard's 1965 alumni directory indicates Frost received an honorary degree there. Although he never graduated from college, Frost received over 40 honorary degrees, including ones from Princeton, Oxford and Cambridge universities, and was the only person to receive two honorary degrees from Dartmouth College. During his lifetime, the Robert Frost Middle School in Fairfax, Virginia, the Robert L. Frost School in Lawrence, Massachusetts, and the main library of Amherst College were named after him.
 
 In 1960, Frost was awarded a United States Congressional Gold Medal, _"In recognition of his poetry, which has enriched the culture of the United States and the philosophy of the world,"_[25] which was finally bestowed by President Kennedy in March 1962.[26] Also in 1962, he was awarded the Edward MacDowell Medal for outstanding contribution to the arts by the MacDowell Colony.[27]
 
@@ -49,7 +47,7 @@ One of the original collections of Frost materials, to which he himself contribu
 
 Personal life
 
-Robert_Frost's_Grave.JPGRobert Frost's personal life was plagued by grief and loss. In 1885 when he was 11, his father died of tuberculosis, leaving the family with just eight dollars. Frost's mother died of cancer in 1900. In 1920, he had to commit his younger sister Jeanie to a mental hospital, where she died nine years later. Mental illness apparently ran in Frost's family, as both he and his mother suffered from depression, and his daughter Irma was committed to a mental hospital in 1947. Frost's wife, Elinor, also experienced bouts of depression.[34]
+Robert Frost's personal life was plagued by grief and loss. In 1885 when he was 11, his father died of tuberculosis, leaving the family with just eight dollars. Frost's mother died of cancer in 1900. In 1920, he had to commit his younger sister Jeanie to a mental hospital, where she died nine years later. Mental illness apparently ran in Frost's family, as both he and his mother suffered from depression, and his daughter Irma was committed to a mental hospital in 1947. Frost's wife, Elinor, also experienced bouts of depression.[34]
 
 Elinor and Robert Frost had six children: son Elliot (1896–1900, died of cholera); daughter Lesley Frost Ballantine (1899–1983); son Carol (1902–1940, committed suicide); daughter Irma (1903–1967); daughter Marjorie (1905–1934, died as a result of puerperal fever after childbirth); and daughter Elinor Bettina (died just three days after her birth in 1907). Only Lesley and Irma outlived their father. Frost's wife, who had heart problems throughout her life, developed breast cancer in 1937, and died of heart failure in 1938.[35]
 
@@ -60,7 +58,7 @@ Style and critical response
 
 The poet/critic Randall Jarrell often praised Frost's poetry and wrote, "Robert Frost, along with Stevens and Eliot, seems to me the greatest of the American poets of this century. Frost's virtues are extraordinary. No other living poet has written so well about the actions of ordinary men; his wonderful dramatic monologues or dramatic scenes come out of a knowledge of people that few poets have had, and they are written in a verse that uses, sometimes with absolute mastery, the rhythms of actual speech." He also praised "Frost's seriousness and honesty," stating that Frost was particularly skilled at representing a wide range of human experience in his poems.[36]
 
-Jarrell's notable and influential essays on Frost include the essays "Robert Frost's 'Home Burial' " (1962), which consisted of an extended close reading of that particular poem,[37] and "To The Laodiceans" (1952) in which Jarrell defended Frost against critics who had accused Frost of being too "traditional" and out of touch with Modern or Modernist poetry.RobertFrost.jpg In Frost's defense, Jarrell wrote "the regular ways of looking at Frost's poetry are grotesque simplifications, distortions, falsifications—coming to know his poetry well ought to be enough, in itself, to dispel any of them, and to make plain the necessity of finding some other way of talking about his work." And Jarrell's close readings of poems like "Neither Out Too Far Nor In Too Deep" led readers and critics to perceive more of the complexities in Frost's poetry.[38][39]
+Jarrell's notable and influential essays on Frost include the essays "Robert Frost's 'Home Burial' " (1962), which consisted of an extended close reading of that particular poem,[37] and "To The Laodiceans" (1952) in which Jarrell defended Frost against critics who had accused Frost of being too "traditional" and out of touch with Modern or Modernist poetry. In Frost's defense, Jarrell wrote "the regular ways of looking at Frost's poetry are grotesque simplifications, distortions, falsifications—coming to know his poetry well ought to be enough, in itself, to dispel any of them, and to make plain the necessity of finding some other way of talking about his work." And Jarrell's close readings of poems like "Neither Out Too Far Nor In Too Deep" led readers and critics to perceive more of the complexities in Frost's poetry.[38][39]
 
 In an introduction to Jarrell's book of essays, Brad Leithauser notes that, "the 'other' Frost that Jarrell discerned behind the genial, homespun New England rustic—the 'dark' Frost who was desperate, frightened, and brave—has become the Frost we've all learned to recognize, and the little-known poems Jarrell singled out as central to the Frost canon are now to be found in most anthologies." [40][41]
 
@@ -121,7 +119,7 @@ Frost was nominated for the Nobel Prize in Literature 31 times.[63]
 
 Legacy
 
-RF_Hall.JPG]]
+]]
 
 -   His poem "Fire and Ice" influenced the title and other aspects of George R. R. Martin's fantasy series _A Song of Ice and Fire_.[64][65]
 -   Robert Frost Hall is an academic building at Southern New Hampshire University in Manchester, New Hampshire.[66]

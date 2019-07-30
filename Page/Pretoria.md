@@ -5,7 +5,7 @@ Pretoria is named after the Voortrekker leader Andries Pretorius,[3] and within 
 
 History
 
-Pretorius.jpg (27 November 1798 – 23 July 1853), Pretoria's eponym]] Pretoria was founded in 1855 by Marthinus Pretorius, a leader of the Voortrekkers, who named it after his father Andries Pretorius and chose a spot on the banks of the _Apies rivier_ (Afrikaans for "Monkeys river") to be the new capital of the South African Republic (; ZAR). The elder Pretorius had become a national hero of the Voortrekkers after his victory over Dingane and the Zulus in the Battle of Blood River in 1838. The elder Pretorius also negotiated the Sand River Convention (1852), in which the United Kingdom acknowledged the independence of the Transvaal. It became the capital of the South African Republic on 1 May 1860.
+(27 November 1798 – 23 July 1853), Pretoria's eponym]] Pretoria was founded in 1855 by Marthinus Pretorius, a leader of the Voortrekkers, who named it after his father Andries Pretorius and chose a spot on the banks of the _Apies rivier_ (Afrikaans for "Monkeys river") to be the new capital of the South African Republic (; ZAR). The elder Pretorius had become a national hero of the Voortrekkers after his victory over Dingane and the Zulus in the Battle of Blood River in 1838. The elder Pretorius also negotiated the Sand River Convention (1852), in which the United Kingdom acknowledged the independence of the Transvaal. It became the capital of the South African Republic on 1 May 1860.
 
 The founding of Pretoria as the capital of the South African Republic can be seen as marking the end of the Boers' settlement movements of the Great Trek.
 
@@ -17,7 +17,7 @@ The Second Boer War resulted in the end of the Transvaal Republic and start of B
 
 The Pretoria Forts were built for the defence of the city just prior to the Second Boer War. Though some of these forts are today in ruins, a number of them have been preserved as national monuments.
 
-Union-buildings-pretoria.JPG, seat of South Africa's government]]
+, seat of South Africa's government]]
 
 Union of South Africa
 
@@ -30,7 +30,7 @@ Pretoria is situated approximately north-northeast of Johannesburg in the northe
 
 Climate
 
-Magaliesberg08.jpg range]] Pretoria has a humid subtropical climate (Köppen: Cwa) with long hot rainy summers and short cool to cold, dry winters. The city experiences the typical winters of South Africa with cold, clear nights and mild to moderately warm days. Although the average lows during winter are mild, it can get cold due to the clear skies, with nighttime low temperatures in recent years in the range of .
+range]] Pretoria has a humid subtropical climate (Köppen: Cwa) with long hot rainy summers and short cool to cold, dry winters. The city experiences the typical winters of South Africa with cold, clear nights and mild to moderately warm days. Although the average lows during winter are mild, it can get cold due to the clear skies, with nighttime low temperatures in recent years in the range of .
 
 The average annual temperature is .[8] This is rather high, considering the city's relatively high altitude of about , and is due mainly to its sheltered valley position, which acts as a heat trap and cuts it off from cool southerly and south-easterly air masses for much of the year.
 
@@ -41,7 +41,7 @@ During a nationwide heatwave in November 2011, Pretoria experienced temperatures
 
 Demographics
 
-Population density in and around Pretoria Geographical distribution of home languages in Pretoria Depending on the extent of the area understood to constitute "Pretoria", the population ranges from 700,000[9] to 2.95 million.[10] The main languages spoken in Pretoria are Sepedi, Sesotho, Setswana, Xitsonga, Afrikaans and English. The city of Pretoria has the largest white population in Sub-Saharan Africa. Since its founding, it has been a major Afrikaner population centre, and currently there are roughly 1 million Afrikaners living in or around the city.
+Depending on the extent of the area understood to constitute "Pretoria", the population ranges from 700,000[9] to 2.95 million.[10] The main languages spoken in Pretoria are Sepedi, Sesotho, Setswana, Xitsonga, Afrikaans and English. The city of Pretoria has the largest white population in Sub-Saharan Africa. Since its founding, it has been a major Afrikaner population centre, and currently there are roughly 1 million Afrikaners living in or around the city.
 
 Ethnic groups
 
@@ -77,8 +77,6 @@ File:Union_Buildings_Eastern_Wing.jpg%7CThe Eastern Wing of the Union Buildings 
 
 Central business district
 
-Prétoria-skyline.jpg
-
 Despite the many corporate offices, small businesses, shops, and government departments that are situated in Pretoria's sprawling suburbs, its Central Business District still retains its status as the traditional centre of government and commerce. Many banks, businesses, large corporations, shops, shopping centres, and other businesses are situated in the city centre which is towered by several large skyscrapers, the tallest of which is the Poyntons Building ( tall), the ABSA Building ( tall) and the Reserve Bank of South Africa building ( tall).[12]
 
 The area contains a large amount of historical buildings, monuments, and museums that include the Pretoria City Hall, Pretorius Square, Church Square (along with its many historical buildings and statues), and the Ou Raadsaal. There is also the Transvaal Museum (the country's leading natural history museum, which although it has changed venues a number of times, has been around since 1892), the National Zoological Gardens of South Africa (or more colloquially known as the Pretoria Zoo), Melrose House Museum in Jacob Maré Street, the Pretoria Art Museum and the African Window Cultural History Museum.
@@ -95,7 +93,7 @@ Suburbs
 
 Transport
 
-Pretoria_streetsign.jpg Gautrain-in-depot-retouched.JPG]] Blue_Train_passes_through_the_Karoo.jpg
+]]
 
 Railway
 
@@ -170,7 +168,7 @@ PRETORIA SOTHO (called Sepitori by its speakers)[18] is the urban lingua franca 
 
 Museums
 
-Voortrekker_Monument.jpg]] Transvaal_Museum_Night.JPG]]
+]] ]]
 
 -   Ditsong National Museum of Cultural History a.k.a. African Window
 -   Freedom Park
@@ -211,7 +209,7 @@ A 9 metre tall statue of former president Nelson Mandela was unveiled in front o
 
 Sport
 
-Loftus_Versfeld_Stadium.jpg One of the most popular sports in Pretoria is rugby union. Loftus Versfeld is home to the Blue Bulls, who compete in the domestic Currie Cup, and also to the Bulls in the international Super Rugby competition. The Bulls Super Rugby team, which is operated by the Blue Bulls, won the competition in 2007, 2009 and 2010. Loftus Versfeld also hosts the soccer side Mamelodi Sundowns.
+One of the most popular sports in Pretoria is rugby union. Loftus Versfeld is home to the Blue Bulls, who compete in the domestic Currie Cup, and also to the Bulls in the international Super Rugby competition. The Bulls Super Rugby team, which is operated by the Blue Bulls, won the competition in 2007, 2009 and 2010. Loftus Versfeld also hosts the soccer side Mamelodi Sundowns.
 
 Pretoria also hosted matches during the 1995 Rugby World Cup. Loftus Versfeld was used for matches of soccer in the 2010 FIFA World Cup.
 
@@ -224,7 +222,7 @@ The Pretoria Transnet Blind Cricket Club is situated in Pretoria and is currentl
 
 Places of worship
 
-9_2_258_0115-Paul_Kruger_Reformed_Church-Pretoria-s.jpg Ooskerk-kloktoring,_Pretoria.jpg Among the places of worship, they are predominantly Christian churches and temples (Evangelical Christian: Zion Christian Church, Apostolic Faith Mission of South Africa, Assemblies of God, Baptist Union of Southern Africa, Protestant: Methodist Church of Southern Africa, Anglican Church of Southern Africa, Presbyterian Church of Africa, Catholic: Roman Catholic Archdiocese of Pretoria). [33] There are also Muslim mosques and Hindu temples.
+Among the places of worship, they are predominantly Christian churches and temples (Evangelical Christian: Zion Christian Church, Apostolic Faith Mission of South Africa, Assemblies of God, Baptist Union of Southern Africa, Protestant: Methodist Church of Southern Africa, Anglican Church of Southern Africa, Presbyterian Church of Africa, Catholic: Roman Catholic Archdiocese of Pretoria). [33] There are also Muslim mosques and Hindu temples.
 
 
 Commerce and industry
@@ -236,7 +234,7 @@ Pretoria has a number of industrial areas, business districts and small home bus
 
 Coat of arms
 
-Pretoria_coa.jpg The Pretoria civic arms, designed by Dr. Frans Engelenburg,[34] were granted by the College of Arms on 7 February 1907. They were registered with the Transvaal Provincial Administration in March 1953[35] and at the Bureau of Heraldry in May 1968.[36] The Bureau provided new artwork, in a more modern style, in 1989.[37]
+The Pretoria civic arms, designed by Dr. Frans Engelenburg,[34] were granted by the College of Arms on 7 February 1907. They were registered with the Transvaal Provincial Administration in March 1953[35] and at the Bureau of Heraldry in May 1968.[36] The Bureau provided new artwork, in a more modern style, in 1989.[37]
 
 The arms were: _Gules, on an mimosa tree eradicated proper within an orle of eight bees volant, Or, an inescutcheon Or and thereon a Roman praetor seated proper_. In layman's terms : a red shield displaying an uprooted mimosa tree surrounded by a border of eight golden bees, superimposed on the tree is a golden shield depicting a Roman praetor. The tree represented growth, the bees industry, and the praetor (judge) was an heraldic pun on the name.
 
@@ -309,15 +307,15 @@ Pretoria is one of South Africa's leading academic cities and is home to both th
 
 University of South Africa
 
-UNISA_Main_Campus.jpg.]] The University of South Africa (commonly referred to as Unisa), founded in 1873 as the University of the Cape of Good Hope, is the largest university on the African continent and attracts a third of all higher education students in South Africa. It spent most of its early history as an examining agency for Oxford and Cambridge universities and as an incubator from which most other universities in South Africa are descended. In 1946 it was given a new role as a distance education university and in 2012 it had a student headcount of over 300,000 students, including African and international students in 130 countries worldwide, making it one of the world's mega universities. Unisa is a dedicated open distance education institution and offers both vocational and academic programmes.
+.]] The University of South Africa (commonly referred to as Unisa), founded in 1873 as the University of the Cape of Good Hope, is the largest university on the African continent and attracts a third of all higher education students in South Africa. It spent most of its early history as an examining agency for Oxford and Cambridge universities and as an incubator from which most other universities in South Africa are descended. In 1946 it was given a new role as a distance education university and in 2012 it had a student headcount of over 300,000 students, including African and international students in 130 countries worldwide, making it one of the world's mega universities. Unisa is a dedicated open distance education institution and offers both vocational and academic programmes.
 
 University of Pretoria
 
-Ou_Lettere,_e,_Tuks.jpg.]] The University of Pretoria (commonly referred to as UP, Tuks, or Tukkies) is a multi campus public research university.[38] The university was established in 1908 as the Pretoria campus of the Johannesburg based Transvaal University College and is the fourth South African institution in continuous operation to be awarded university status. Established in 1920, the University of Pretoria Faculty of Veterinary Science is the second oldest veterinary school in Africa and the only veterinary school in South Africa.[39] In 1949 the university launched the first MBA programme outside of North America.[40][41] Since 1997, the university has produced more research outputs every year than any other institution of higher learning in South Africa, as measured by the Department of Education's accreditation benchmark.[42]
+.]] The University of Pretoria (commonly referred to as UP, Tuks, or Tukkies) is a multi campus public research university.[38] The university was established in 1908 as the Pretoria campus of the Johannesburg based Transvaal University College and is the fourth South African institution in continuous operation to be awarded university status. Established in 1920, the University of Pretoria Faculty of Veterinary Science is the second oldest veterinary school in Africa and the only veterinary school in South Africa.[39] In 1949 the university launched the first MBA programme outside of North America.[40][41] Since 1997, the university has produced more research outputs every year than any other institution of higher learning in South Africa, as measured by the Department of Education's accreditation benchmark.[42]
 
 Tshwane University of Technology
 
-Tshwane_University_of_Technology.jpg.]] The Tshwane University of Technology (commonly referred to as TUT) is a higher education institution, offering vocational oriented diplomas and degrees, and came into being through a merger of Technikon Northern Gauteng, Technikon North-West and Technikon Pretoria. TUT caters for approximately 60,000 students and it has become the largest residential higher education institution in South Africa.
+.]] The Tshwane University of Technology (commonly referred to as TUT) is a higher education institution, offering vocational oriented diplomas and degrees, and came into being through a merger of Technikon Northern Gauteng, Technikon North-West and Technikon Pretoria. TUT caters for approximately 60,000 students and it has become the largest residential higher education institution in South Africa.
 
 CSIR
 
@@ -326,7 +324,7 @@ The Council for Scientific and Industrial Research (CSIR) is South Africa's cent
 
 Military
 
-SADF_Commemorate.jpg personnel who had lost their lives in service of the Republic of South Africa in Fort Klapperkop, Pretoria]] Pretoria has earned a reputation as being the centre of South Africa's Military and is home to several military facilities of the South African National Defence Force:
+personnel who had lost their lives in service of the Republic of South Africa in Fort Klapperkop, Pretoria]] Pretoria has earned a reputation as being the centre of South Africa's Military and is home to several military facilities of the South African National Defence Force:
 
 Military headquarters
 
@@ -388,7 +386,7 @@ The Wonderboom Military Base is located adjacent to the Wonderboom Airport and i
 
 Military colleges
 
-U.S._Army_Africa_commander_visits_South_Africa_March_2010.jpg in Pretoria]] The South African Air Force College, the South African Military Health Service School for Military Health Training and the South African Army College are situated in the Thaba Tshwane Military Base and are used to train Commissioned and Non-commissioned Officers to perform effectively in combat/command roles in the various branches of the South African National Defence Force. The South African Defence Intelligence College is also located in the Sterrewag Suburb north of Air Force Base Waterkloof.[54][55]
+in Pretoria]] The South African Air Force College, the South African Military Health Service School for Military Health Training and the South African Army College are situated in the Thaba Tshwane Military Base and are used to train Commissioned and Non-commissioned Officers to perform effectively in combat/command roles in the various branches of the South African National Defence Force. The South African Defence Intelligence College is also located in the Sterrewag Suburb north of Air Force Base Waterkloof.[54][55]
 
 Air force bases
 
@@ -426,8 +424,6 @@ Pretoria is twinned with:
 
 
 Shopping malls
-
-Sammy_Marks_Square,_Pretoria.JPG
 
 -   Atterbury Boulevard
 -   Atterbury Value Mart
@@ -510,8 +506,6 @@ Notable people
 
 
 Places of interest
-
-Chuch_Square,_PTA.jpg
 
 -   Pretoria National Botanical Garden, a botanical garden containing a massive collection of native flora.
 -   The National Zoological Gardens of South Africa, the premier zoological gardens of South Africa.

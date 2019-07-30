@@ -14,8 +14,6 @@ Behavior dependent on
 
 The image below shows the amplitude and frequency content of some logistic map iterates for parameter values ranging from 2 to 4.
 
-Image:Logistic map animation.gif
-
 By varying the parameter , the following behavior is observed:
 
 -   With between 0 and 1, the population will eventually die, independent of the initial population.
@@ -33,11 +31,11 @@ For any value of there is at most one stable cycle. If a stable cycle exists, it
 
 The bifurcation diagram at right summarizes this. The horizontal axis shows the possible values of the parameter while the vertical axis shows the set of values of visited asymptotically from almost all initial conditions by the iterates of the logistic equation with that value.
 
-Logistic_Bifurcation_map_High_Resolution.png for the logistic map. The attractor for any value of the parameter is shown on the vertical line at that .]] The bifurcation diagram is a self-similar: if we zoom in on the above-mentioned value and focus on one arm of the three, the situation nearby looks like a shrunk and slightly distorted version of the whole diagram. The same is true for all other non-chaotic points. This is an example of the deep and ubiquitous connection between chaos and fractals. Subsection_Bifurcation_Diagram_Logistic_Map.png Logistic_map_bifurcation_diagram_magnifications.png
+for the logistic map. The attractor for any value of the parameter is shown on the vertical line at that .]] The bifurcation diagram is a self-similar: if we zoom in on the above-mentioned value and focus on one arm of the three, the situation nearby looks like a shrunk and slightly distorted version of the whole diagram. The same is true for all other non-chaotic points. This is an example of the deep and ubiquitous connection between chaos and fractals.
 
 Chaos and the logistic map
 
-Logistic_map_scatterplots_large.pngs show the stretching-and-folding structure of the logistic map]] LogisticCobwebChaos.gif of the logistic map, showing chaotic behaviour for most values of ]] Iterated_logistic_functions.svg
+s show the stretching-and-folding structure of the logistic map]] of the logistic map, showing chaotic behaviour for most values of ]]
 
 The relative simplicity of the logistic map makes it a widely used point of entry into a consideration of the concept of chaos.[10] A rough description of chaos is that chaotic systems exhibit a great sensitivity to initial conditions—a property of the logistic map for most values of between about 3.57 and 4 (as noted above).[11] A common source of such sensitivity to initial conditions is that the map represents a repeated folding and stretching of the space on which it is defined. In the case of the logistic map, the quadratic difference equation describing it may be thought of as a stretching-and-folding operation on the interval .[12]
 
@@ -111,7 +109,7 @@ Related concepts
 
 Feigenbaum universality of 1-D maps.
 
-Universality of one-dimensional maps with parabolic maxima and Feigenbaum constants δ = 4.664201...,α = 2.502907... [22] [23] is well visible with map proposed as a toy model for discrete laser dynamics: x → Gx(1 − tanh (x)), where x stands for electric field amplitude, G[24] is laser gain as bifurcation parameter. Bifurcation_diagr_Tanh_Map_jpg_wiki.jpg for the hyperbolic tangent map. It is a self-similar in a wider range of bifurcation parameter G. This is the else ubiquitous connection between chaos and fractals.]] The gradual increase of G at interval [0, ∞) changes dynamics from regular to chaotic one [25] with qualitatively the same bifurcation diagram as those for logistic map.
+Universality of one-dimensional maps with parabolic maxima and Feigenbaum constants δ = 4.664201...,α = 2.502907... [22] [23] is well visible with map proposed as a toy model for discrete laser dynamics: x → Gx(1 − tanh (x)), where x stands for electric field amplitude, G[24] is laser gain as bifurcation parameter. for the hyperbolic tangent map. It is a self-similar in a wider range of bifurcation parameter G. This is the else ubiquitous connection between chaos and fractals.]] The gradual increase of G at interval [0, ∞) changes dynamics from regular to chaotic one [25] with qualitatively the same bifurcation diagram as those for logistic map.
 
 
 

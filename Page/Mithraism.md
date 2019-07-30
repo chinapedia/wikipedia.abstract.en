@@ -1,4 +1,4 @@
-MithraReliefvert.jpg).]] Mithra_sacrifiant_le_Taureau-005.JPG)]] MithrasIMG_5339.JPG, Rome)]]
+).]] )]] , Rome)]]
 
 MITHRAISM, also known as the MITHRAIC MYSTERIES, was a mystery religion centered on the god MITHRAS that was practiced in ancient Persia and gave rise to dance as a distinctive art form. This cult centrally revolves around the ancient Persia’s sun and light God, Mithra, who is the main figure in this mystery religion that during the late antique era spread over the entire Roman Empire from about the 1st to the 4th century CE.[1] The religion was inspired by Iranian worship of the god Mithra, though the Greek _Mithras_ was linked to a new and distinctive imagery, and the level of continuity between Persian and Greco-Roman practice is debated.[2] The mysteries were popular among the Roman military.[3]
 
@@ -15,7 +15,7 @@ The term "Mithraism" is a modern convention. Writers of the Roman era referred t
 
 Etymology of Mithras
 
-Mithra_Musées_de_la_Cour_d'Or_100109.jpg of the tauroctony of the Mithraic mysteries, Metz, France.]] The name _Mithras_ (Latin, equivalent to Greek "_Μίθρας_"[19]) is a form of Mithra, the name of an Old Persian god[20][21] – a relationship understood by Mithraic scholars since the days of Franz Cumont.[22] An early example of the Greek form of the name is in a 4th-century BCE work by Xenophon, the Cyropaedia, which is a biography of the Persian king Cyrus the Great.[23]
+of the tauroctony of the Mithraic mysteries, Metz, France.]] The name _Mithras_ (Latin, equivalent to Greek "_Μίθρας_"[19]) is a form of Mithra, the name of an Old Persian god[20][21] – a relationship understood by Mithraic scholars since the days of Franz Cumont.[22] An early example of the Greek form of the name is in a 4th-century BCE work by Xenophon, the Cyropaedia, which is a biography of the Persian king Cyrus the Great.[23]
 
 The exact form of a Latin or classical Greek word varies due to the grammatical process of declension. There is archaeological evidence that in Latin worshippers wrote the nominative form of the god's name as "Mithras". However, in Porphyry's Greek text _DeAbstinentia_ (_Περὶ ἀποχῆς ἐμψύχων_), there is a reference to the now-lost histories of the Mithraic mysteries by Euboulus and Pallas, the wording of which suggests that these authors treated the name "Mithra" as an indeclinable foreign word.[24]
 
@@ -33,7 +33,7 @@ Mary Boyce, a researcher of ancient Iranian religions, writes that even though R
 
 Iconography
 
-Neuenheimer_Mithraeum.jpg, framed by scenes from Mithras' life.]]
+, framed by scenes from Mithras' life.]]
 
 Much about the cult of Mithras is only known from reliefs and sculptures. There have been many attempts to interpret this material.
 
@@ -45,7 +45,7 @@ Bull-slaying scene
 
 In every mithraeum the centrepiece was a representation of Mithras killing a sacred bull, an act called the tauroctony.[38] The image may be a relief, or free-standing, and side details may be present or omitted. The centre-piece is Mithras clothed in Anatolian costume and wearing a Phrygian cap; who is kneeling on the exhausted[39] bull, holding it by the nostrils[40] with his left hand, and stabbing it with his right. As he does so, he looks over his shoulder towards the figure of Sol. A dog and a snake reach up towards the blood. A scorpion seizes the bull's genitals. A raven is flying around or is sitting on the bull. Three ears of wheat are seen coming out from the bull's tail, sometimes from the wound. The bull was often white. The god is sitting on the bull in an unnatural way with his right leg constraining the bull's hoof and the left leg is bent and resting on the bull's back or flank.[41] The two torch-bearers are on either side, dressed like Mithras, Cautes with his torch pointing up and Cautopates with his torch pointing down.[42][43] Sometimes Cautes and Cautopates carry shepherds' crooks instead of torches.[44]
 
-KunsthistorischesMuseumMithrabulSacrifice.jpg from Aquileia ( CE; Kunsthistorisches Museum, Vienna)]]
+from Aquileia ( CE; Kunsthistorisches Museum, Vienna)]]
 
 The event takes place in a cavern, into which Mithras has carried the bull, after having hunted it, ridden it and overwhelmed its strength.[45] Sometimes the cavern is surrounded by a circle, on which the twelve signs of the zodiac appear. Outside the cavern, top left, is Sol the sun, with his flaming crown, often driving a quadriga. A ray of light often reaches down to touch Mithras. At the top right is Luna, with her crescent moon, who may be depicted driving a biga.[46]
 
@@ -65,11 +65,11 @@ In some depictions, Cautes and Cautopates are also present; sometimes they are d
 
 On some occasions, an amphora is seen, and a few instances show variations like an egg birth or a tree birth. Some interpretations show that the birth of Mithras was celebrated by lighting torches or candles.[58][59]
 
-Siria,_sculture_del_mitreo_di_sidon,_389_dc,_krono_mitriaco_con_testa_leonina_e_spire_del_tempo_(serpente).JPG Mithraeum (500 CE; CIMRM 78 & 79; Louvre)]]
+Mithraeum (500 CE; CIMRM 78 & 79; Louvre)]]
 
 Lion-headed figure
 
-Leontocephaline-Ostia.jpg, Italy (190 CE; CIMRM 312)]]
+, Italy (190 CE; CIMRM 312)]]
 
 One of the most characteristic and poorly-understood features of the Mysteries is the naked lion-headed figure often found in Mithraic temples, named by the modern scholars with descriptive terms such as _leontocephaline_ (lion-headed) or _leontocephalus_ (lion-head).
 
@@ -102,7 +102,7 @@ Mithraic initiates were required to swear an oath of secrecy and dedication,[72]
 |     […] this [has?] four tassels.                                             |     […] in the seven-[…]                                                           |
 +-------------------------------------------------------------------------------+------------------------------------------------------------------------------------+
 
-Strasbourg-Koenigshoffen,_Second-Century_Mithraic_Relief,_Reconstruction_ca._140_CE–ca._160_CE.jpg. Strasbourg Archaeological Museum.]] Almost no Mithraic scripture or first-hand account of its highly secret rituals survives;[75] with the exception of the aforementioned oath and catechism, and the document known as the Mithras Liturgy, from 4th century Egypt, whose status as a Mithraist text has been questioned by scholars including Franz Cumont.[76][77] The walls of mithraea were commonly whitewashed, and where this survives it tends to carry extensive repositories of graffiti; and these, together with inscriptions on Mithraic monuments, form the main source for Mithraic texts.[78]
+. Strasbourg Archaeological Museum.]] Almost no Mithraic scripture or first-hand account of its highly secret rituals survives;[75] with the exception of the aforementioned oath and catechism, and the document known as the Mithras Liturgy, from 4th century Egypt, whose status as a Mithraist text has been questioned by scholars including Franz Cumont.[76][77] The walls of mithraea were commonly whitewashed, and where this survives it tends to carry extensive repositories of graffiti; and these, together with inscriptions on Mithraic monuments, form the main source for Mithraic texts.[78]
 
 Nevertheless, it is clear from the archaeology of numerous mithraea that most rituals were associated with feasting – as eating utensils and food residues are almost invariably found. These tend to include both animal bones and also very large quantities of fruit residues.[79] The presence of large amounts of cherry-stones in particular would tend to confirm mid-summer (late June, early July) as a season especially associated with Mithraic festivities. The Virunum _album_, in the form of an inscribed bronze plaque, records a Mithraic festival of commemoration as taking place on 26 June 184. Beck argues that religious celebrations on this date are indicative of special significance being given to the summer solstice; but this time of the year coincides with ancient recognition of the solar maximum at midsummer, whilst iconographically identical holidays such as Litha, St John's Eve, and Jāņi are observed also.
 
@@ -114,7 +114,7 @@ It is doubtful whether Mithraism had a monolithic and internally consistent doct
 
 Mithraeum
 
-Ostia_Antica_Mithraeum.jpg found in the ruins of Ostia Antica, Italy.]]
+found in the ruins of Ostia Antica, Italy.]]
 
 Temples of Mithras are sunk below ground, windowless, and very distinctive. In cities, the basement of an apartment block might be converted; elsewhere they might be excavated and vaulted over, or converted from a natural cave. Mithraic temples are common in the empire; although unevenly distributed, with considerable numbers found in Rome, Ostia, Numidia, Dalmatia, Britain and along the Rhine/Danube frontier, while being somewhat less common in Greece, Egypt, and Syria.[91] According to Walter Burkert, the secret character of Mithraic rituals meant that Mithraism could only be practiced within a Mithraeum.[92] Some new finds at Tienen show evidence of large-scale feasting and suggest that the mystery religion may not have been as secretive as was generally believed.[93]
 
@@ -152,7 +152,7 @@ Admission into the community was completed with a handshake with the _pater_, ju
 
 Ritual re-enactments
 
-Bible_museum_-_Mithrasheiligtum.jpg Activities of the most prominent deities in Mithraic scenes, Sol and Mithras, were imitated in rituals by the two most senior officers in the cult's hierarchy, the _Pater_ and the _Heliodromus_.[110] The initiates held a sacramental banquet, replicating the feast of Mithras and Sol.[111]
+Activities of the most prominent deities in Mithraic scenes, Sol and Mithras, were imitated in rituals by the two most senior officers in the cult's hierarchy, the _Pater_ and the _Heliodromus_.[110] The initiates held a sacramental banquet, replicating the feast of Mithras and Sol.[111]
 
 Contrary to some modern fantasy depictions of Mithraic rituals, these did not contain any bathing of the initiates in the blood of a bull slaughtered above their head, over a hole in the ceiling of the mithraeum. This is the description of a Christian writer, Prudentius, who was attacking the pagan ritual of the Taurobolium, associated with the cult of Magna Mater, not of Mithras. Even in that context, modern scholars tend to dismiss Prudentius' text as hearsay and Christian propaganda.
 
@@ -179,7 +179,7 @@ History and development
 
 Mithras before the Mysteries
 
-Mithra&Antiochus.jpg. (Mt. Nemrut, 1st Century BCE)]]
+. (Mt. Nemrut, 1st Century BCE)]]
 
 According to the archaeologist Maarten Vermaseren, 1stcentury BCE evidence from Commagene demonstrates the "reverence paid to Mithras" but does not refer to "the mysteries".[127] In the colossal statuary erected by King Antiochus I (69–34 BCE) at Mount Nemrut, Mithras is shown beardless, wearing a Phrygian cap[128][129] (or the similar headdress, Persian tiara), in Iranian (Parthian) clothing,[130] and was originally seated on a throne alongside other deities and the king himself.[131] On the back of the thrones there is an inscription in Greek, which includes the name Apollo Mithras Helios in the genitive case (Ἀπόλλωνος Μίθρου Ἡλίου).[132] Vermaseren also reports about a Mithras cult in 3rd century BCE. Fayum.[133] R. D. Barnett has argued that the royal seal of King Saussatar of Mitanni from _c_. 1450 BCE. depicts a tauroctonous Mithras.[134]
 
@@ -191,7 +191,7 @@ Earliest archaeology
 
 Inscriptions and monuments related to the Mithraic Mysteries are catalogued in a two volume work by Maarten J. Vermaseren, the _Corpus Inscriptionum et Monumentorum Religionis Mithriacae_ (or CIMRM).[140] The earliest monument showing Mithras slaying the bull is thought to be CIMRM 593, found in Rome. There is no date, but the inscription tells us that it was dedicated by a certain Alcimus, steward of T. Claudius Livianus. Vermaseren and Gordon believe that this Livianus is a certain Livianus who was commander of the Praetorian guard in 101 CE, which would give an earliest date of 98–99 CE.[141]
 
-Stela_funerara_MItra_MNIR.JPG in present-day Romania, dedicated to _Invicto Mythrae_ in fulfillment of a vow _(votum)_]]Five small terracotta plaques of a figure holding a knife over a bull have been excavated near Kerch in the Crimea, dated by Beskow and Clauss to the second half of the 1st Century BCE,[142] and by Beck to 50 BCE–50 CE. These may be the earliest tauroctonies, if they are accepted to be a depiction of Mithras.[143] The bull-slaying figure wears a Phrygian cap, but is described by Beck and Beskow as otherwise unlike standard depictions of the tauroctony. Another reason for not connecting these artifacts with the Mithraic Mysteries is that the first of these plaques was found in a woman's tomb.[144]
+in present-day Romania, dedicated to _Invicto Mythrae_ in fulfillment of a vow _(votum)_]]Five small terracotta plaques of a figure holding a knife over a bull have been excavated near Kerch in the Crimea, dated by Beskow and Clauss to the second half of the 1st Century BCE,[142] and by Beck to 50 BCE–50 CE. These may be the earliest tauroctonies, if they are accepted to be a depiction of Mithras.[143] The bull-slaying figure wears a Phrygian cap, but is described by Beck and Beskow as otherwise unlike standard depictions of the tauroctony. Another reason for not connecting these artifacts with the Mithraic Mysteries is that the first of these plaques was found in a woman's tomb.[144]
 
 An altar or block from near SS. Pietro e Marcellino on the Esquiline in Rome was inscribed with a bilingual inscription by an Imperial freedman named T. Flavius Hyginus, probably between 80–100 CE. It is dedicated to _Sol Invictus Mithras_.[145]
 
@@ -222,7 +222,7 @@ Datable dedications
 
 Classical literature about Mithras and the Mysteries
 
-Fresque_Mithraeum_Marino.jpg at Marino, Italy (third century) shows the _tauroctony_ and the celestial lining of Mithras' cape.]] According to Boyce, the earliest literary references to the mysteries are by the Latin poet Statius, about 80 CE, and Plutarch (c. 100 CE).[151]
+at Marino, Italy (third century) shows the _tauroctony_ and the celestial lining of Mithras' cape.]] According to Boyce, the earliest literary references to the mysteries are by the Latin poet Statius, about 80 CE, and Plutarch (c. 100 CE).[151]
 
 Statius
 
@@ -242,7 +242,7 @@ The historian Dio Cassius (2nd to 3rd century CE) tells how the name of Mithra
 
 Porphyry
 
-Roman_-_Fragment_of_a_Mosaic_with_Mithras_-_Walters_437.jpg)]] The philosopher Porphyry (3rd–4th century CE) gives an account of the origins of the Mysteries in his work _De antro nympharum_ (The Cave of the Nymphs).[163] Citing Eubulus as his source, Porphyry writes that the original temple of Mithras was a natural cave, containing fountains, which Zoroaster found in the mountains of Persia. To Zoroaster, this cave was an image of the whole world, so he consecrated it to Mithras, the creator of the world. Later in the same work, Porphyry links Mithras and the bull with planets and star-signs: Mithras himself is associated with the sign of Aries and the planet Mars, while the bull is associated with Venus.[164]
+)]] The philosopher Porphyry (3rd–4th century CE) gives an account of the origins of the Mysteries in his work _De antro nympharum_ (The Cave of the Nymphs).[163] Citing Eubulus as his source, Porphyry writes that the original temple of Mithras was a natural cave, containing fountains, which Zoroaster found in the mountains of Persia. To Zoroaster, this cave was an image of the whole world, so he consecrated it to Mithras, the creator of the world. Later in the same work, Porphyry links Mithras and the bull with planets and star-signs: Mithras himself is associated with the sign of Aries and the planet Mars, while the bull is associated with Venus.[164]
 
 Porphyry is writing close to the demise of the cult, and Robert Turcan has challenged the idea that Porphyry's statements about Mithraism are accurate. His case is that far from representing what Mithraists believed, they are merely representations by the Neoplatonists of what it suited them in the late 4th century to read into the mysteries.[165] However, Merkelbach and Beck believe that Porphyry’s work "is in fact thoroughly coloured with the doctrines of the Mysteries".[166] Beck holds that classical scholars have neglected Porphyry’s evidence and have taken an unnecessarily skeptical view of Porphyry.[167] According to Beck, Porphyry's _De antro_ is the only clear text from antiquity which tells us about the intent of the Mithraic Mysteries and how that intent was realized.[168] David Ulansey finds it important that Porphyry "confirms ... that astral conceptions played an important role in Mithraism."[169]
 
@@ -254,7 +254,7 @@ Modern debate about origins
 
 Cumont's hypothesis: from Persian state religion
 
-Greek_-_Intaglio_of_a_Mithraic_Sacrifice_-_Walters_421342.jpg-era intaglio depicting a tauroctony (Walters Art Museum)]] Taq-e_Bostan_-_High-relief_of_Ardeshir_II_investiture.jpg king Ardashir II. Mithra stands on a lotus flower on the left holding a barsom.[176]]] Scholarship on Mithras begins with Franz Cumont, who published a two volume collection of source texts and images of monuments in French in 1894-1900, _Textes et monuments figurés relatifs aux mystères de Mithra_ [French: _Texts and Illustrated Monuments Relating to the Mysteries of Mithra_].[177] An English translation of part of this work was published in 1903, with the title _The Mysteries of Mithra_.[178] Cumont’s hypothesis, as the author summarizes it in the first 32 pages of his book, was that the Roman religion was "the Roman form of Mazdaism",[179] the Persian state religion, disseminated from the East. He identified the ancient Aryan deity who appears in Persian literature as Mithras with the Hindu god Mitra of the Vedic hymns.[180] According to Cumont, the god Mithra came to Rome "accompanied by a large representation of the Mazdean Pantheon".[181] Cumont considers that while the tradition "underwent some modification in the Occident ... the alterations that it suffered were largely superficial".[182]
+-era intaglio depicting a tauroctony (Walters Art Museum)]] king Ardashir II. Mithra stands on a lotus flower on the left holding a barsom.[176]]] Scholarship on Mithras begins with Franz Cumont, who published a two volume collection of source texts and images of monuments in French in 1894-1900, _Textes et monuments figurés relatifs aux mystères de Mithra_ [French: _Texts and Illustrated Monuments Relating to the Mysteries of Mithra_].[177] An English translation of part of this work was published in 1903, with the title _The Mysteries of Mithra_.[178] Cumont’s hypothesis, as the author summarizes it in the first 32 pages of his book, was that the Roman religion was "the Roman form of Mazdaism",[179] the Persian state religion, disseminated from the East. He identified the ancient Aryan deity who appears in Persian literature as Mithras with the Hindu god Mitra of the Vedic hymns.[180] According to Cumont, the god Mithra came to Rome "accompanied by a large representation of the Mazdean Pantheon".[181] Cumont considers that while the tradition "underwent some modification in the Occident ... the alterations that it suffered were largely superficial".[182]
 
 Criticisms and reassessments of Cumont
 
@@ -274,8 +274,6 @@ He also says that "the old Cumontian model of formation in, and diffusion from, 
 
 Modern theories
 
-Musei_Vaticani_-_Mithra_-_Sol_invictus_01136.JPG
-
 Beck theorizes that the cult was created in Rome, by a single founder who had some knowledge of both Greek and Oriental religion, but suggests that some of the ideas used may have passed through the Hellenistic kingdoms. He observes that "Mithras – moreover, a Mithras who was identified with the Greek Sun god Helios" was among the gods of the syncretic Greco-Armenian-Iranian royal cult at Nemrut, founded by Antiochus I of Commagene in the mid 1st century BCE.[198] While proposing the theory, Beck says that his scenario may be regarded as Cumontian in two ways. Firstly, because it looks again at Anatolia and Anatolians, and more importantly, because it hews back to the methodology first used by Cumont.[199]
 
 Merkelbach suggests that its mysteries were essentially created by a particular person or persons[200] and created in a specific place, the city of Rome, by someone from an eastern province or border state who knew the Iranian myths in detail, which he wove into his new grades of initiation; but that he must have been Greek and Greek-speaking because he incorporated elements of Greek Platonism into it. The myths, he suggests, were probably created in the milieu of the imperial bureaucracy, and for its members.[201] Clauss tends to agree. Beck calls this "the most likely scenario" and states "Until now, Mithraism has generally been treated as if it somehow evolved Topsy-like from its Iranian precursor – a most implausible scenario once it is stated explicitly."[202]
@@ -294,7 +292,7 @@ Michael Speidel, who specializes in military history, associates Mithras with th
 
 Later history
 
-Sol_Invictus_staue_in_Milan_Archeology_Museum_IMG_4874_1.JPG (Museo archeologico)]]
+(Museo archeologico)]]
 
 The first important expansion of the mysteries in the Empire seems to have happened quite quickly, late in the reign of Antoninus Pius (b. 121 CE, d. 161 CE) and under Marcus Aurelius. By this time all the key elements of the mysteries were in place.[207]
 
@@ -315,7 +313,7 @@ At some of the mithraeums that have been found below churches, such as the Santa
 
 Interpretations of the bull-slaying scene
 
-Museul_de_istorie_IMG_1703Siboiumithra_02.jpg]]
+]]
 
 According to Cumont, the imagery of the tauroctony was a Graeco-Roman representation of an event in Zoroastrian cosmogony described in a 9th-century Zoroastrian text, the Bundahishn. In this text the evil spirit Ahriman (not Mithra) slays the primordial creature Gavaevodata, which is represented as a bovine.[222] Cumont held that a version of the myth must have existed in which Mithras, not Ahriman, killed the bovine. But according to Hinnells, no such variant of the myth is known, and that this is merely speculation: "In no known Iranian text [either Zoroastrian or otherwise] does Mithra slay a bull."[223]
 
@@ -353,7 +351,7 @@ Several celestial identities for the Tauroctonous Mithras (TM) himself have been
   Ulansey, D. (1989)       TM = Perseus
   Weiss, M. (1994, 1998)   TM = the Night Sky
 
-Mithras_banquet_Louvre_Ma3441.jpg Ulansey has proposed that Mithras seems to have been derived from the constellation of Perseus, which is positioned just above Taurus in the night sky. He sees iconographic and mythological parallels between the two figures: both are young heroes, carry a dagger, and wear a Phrygian cap. He also mentions the similarity of the image of Perseus killing the Gorgon and the tauroctony, both figures being associated with underground caverns and both having connections to Persia as further evidence.[230]
+ Ulansey has proposed that Mithras seems to have been derived from the constellation of Perseus, which is positioned just above Taurus in the night sky. He sees iconographic and mythological parallels between the two figures: both are young heroes, carry a dagger, and wear a Phrygian cap. He also mentions the similarity of the image of Perseus killing the Gorgon and the tauroctony, both figures being associated with underground caverns and both having connections to Persia as further evidence.[230]
 
 Michael Speidel associates Mithras with the constellation of Orion because of the proximity to Taurus, and the consistent nature of the depiction of the figure as having wide shoulders, a garment flared at the hem, and narrowed at the waist with a belt, thus taking on the form of the constellation.[231]
 
@@ -362,7 +360,7 @@ Beck has criticized Speidel and Ulansey of adherence to a literal cartographic l
 
 Mithras and other gods
 
-Cautes_riding_bull,_Hermannstadt.jpg riding a bull (Sibiu/Hermannstadt, Romania)]]
+riding a bull (Sibiu/Hermannstadt, Romania)]]
 
 The cult of Mithras was part of the syncretic nature of ancient Roman religion. Almost all Mithraea contain statues dedicated to gods of other cults, and it is common to find inscriptions dedicated to Mithras in other sanctuaries, especially those of Jupiter Dolichenus.[235] Mithraism was not an alternative to Rome's other traditional religions, but was one of many forms of religious practice, and many Mithraic initiates can also be found participating in the civic religion, and as initiates of other mystery cults.[236]
 

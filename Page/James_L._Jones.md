@@ -10,7 +10,7 @@ Jones was born in Kansas City, Missouri, on December 19, 1943. He is the son of 
 
 Military career
 
-James_L._Jones_visits_MCRD_San_Diego_January_24.png in January 2002, wearing an early version of the Marine Corps Combat Utility Uniform in woodland MARPAT]] In January 1967, Jones was commissioned a second lieutenant in the United States Marine Corps. Upon completion of The Basic School at Marine Corps Base Quantico, Virginia, in October 1967, he was ordered to South Vietnam, where he served as a platoon and company commander with Golf Company, 2nd Battalion, 3rd Marines. While overseas, he was promoted to first lieutenant in June 1968.[6]
+in January 2002, wearing an early version of the Marine Corps Combat Utility Uniform in woodland MARPAT]] In January 1967, Jones was commissioned a second lieutenant in the United States Marine Corps. Upon completion of The Basic School at Marine Corps Base Quantico, Virginia, in October 1967, he was ordered to South Vietnam, where he served as a platoon and company commander with Golf Company, 2nd Battalion, 3rd Marines. While overseas, he was promoted to first lieutenant in June 1968.[6]
 
 Returning to the United States in December 1968, Jones was assigned to Marine Corps Base Camp Pendleton, California, where he served as a company commander until May 1970. He then received orders to Marine Barracks, Washington, D.C., for duties as a company commander, serving in this assignment until July 1973. While at this post, he was promoted to captain in December 1970. From July 1973 until June 1974, he was a student at the Amphibious Warfare School, Marine Corps University, Marine Corps Base Quantico, Virginia.
 
@@ -20,7 +20,7 @@ From January 1976 to August 1979, Jones served in the Officer Assignments Sectio
 
 Senior staff and command
 
-CMC_change_of_command_200301133b_hr.jpg (left) salutes as General Jones (center) relinquishes command to General Michael Hagee (right)]] Jones was selected to attend the National War College in Washington, D.C. Following graduation in June 1985, he was assigned to command the 3rd Battalion, 9th Marines, 1st Marine Division, at Camp Pendleton, California, from July 1985 to July 1987.
+(left) salutes as General Jones (center) relinquishes command to General Michael Hagee (right)]] Jones was selected to attend the National War College in Washington, D.C. Following graduation in June 1985, he was assigned to command the 3rd Battalion, 9th Marines, 1st Marine Division, at Camp Pendleton, California, from July 1985 to July 1987.
 
 In August 1987, Jones returned to Headquarters Marine Corps, where he served as senior aide to the Commandant of the Marine Corps. He was promoted to colonel in April 1988, and became the Military Secretary to the Commandant of the Marine Corps in February 1989. During August 1990, Jones was assigned as the commanding officer of the 24th Marine Expeditionary Unit (24th MEU) at Marine Corps Base Camp Lejeune, North Carolina.
 
@@ -30,7 +30,7 @@ Returning to the United States, Jones was advanced to the rank of major general 
 
 Commandant
 
-General_James_L._Jones_MARPAT_MCCUU_Prototype.png JamesLJones_announced_EUCOM_200301169a.jpg and Jones at press conference announcing Jones as EUCOM Commander]] On April 21, 1999, Jones was nominated for appointment to the grade of general and assignment as the 32nd Commandant of the Marine Corps. He was promoted to general on June 30, 1999, and assumed the post on July 1, 1999. He served as commandant until January 2003, turning over the reins to General Michael Hagee.[12]
+and Jones at press conference announcing Jones as EUCOM Commander]] On April 21, 1999, Jones was nominated for appointment to the grade of general and assignment as the 32nd Commandant of the Marine Corps. He was promoted to general on June 30, 1999, and assumed the post on July 1, 1999. He served as commandant until January 2003, turning over the reins to General Michael Hagee.[12]
 
 Among other innovations during his tenure as Marine Corps commandant, Jones oversaw the Marine Corps' development of MARPAT camouflage uniforms, and the adoption of the Marine Corps Martial Arts Program. These replaced M81 Woodland uniforms and the LINE combat system, respectively.
 
@@ -46,29 +46,29 @@ Awards and decorations
 
 Jones' personal decorations include (Foreign and non-U.S. personal and unit decorations are in order of precedence based on military guidelines and award date):
 
-+:-----------:+
-|             |
-+-------------+
-|             |
-+-------------+
-|             |
-+-------------+
-| NIDRib.gif  |
-+-------------+
-|             |
-+-------------+
-|             |
-+-------------+
-|             |
-+-------------+
-|             |
-+-------------+
-|             |
-+-------------+
-| USEUCOM.svg |
-+-------------+
-|             |
-+-------------+
++::+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
 
 +--------------------------------------+-----------------------------------------------------+
 | Row 1                                | Defense Distinguished Service Medal                 |
@@ -123,11 +123,11 @@ Jones is an Advisory Board Member of Spirit of America, a 501(c)(3) organization
 
 National Security Advisor
 
-Msc_2009-Sunday,_8.30_-_11.00_Uhr-Zwez_005_Ischinger_Jones_Karzei.jpg Hamid Karzai.]]
+Hamid Karzai.]]
 
 On December 1, 2008, President-elect Obama announced Jones as his selection for National Security Advisor.[42][43] The National Security Advisor is appointed by the president without confirmation by the United States Senate.
 
-The selection surprised people because, as Michael Crowley reported, "The two men didn't meet until Obama's foreign policy aide, Mark Lippert, arranged a 2005 sit-down, and, as of this October, Jones had only spoken to Obama twice".[44] Crowley speculated that Jones' record suggests he is "someone who, unencumbered by strong ideological leanings, can evaluate ideas dispassionately whether they come from left or right", and, "This is probably why Obama picked him". Jones was also picked because he is well respected and likely to possess the skills to navigate the other prestigious and powerful cabinet members. Obama,_Clinton,_Gates,_Jones_and_Mullen_in_Marine_One.jpg transporting President Obama and Gen Jones]] Though he didn't know Gates especially well, both men shared long experience in the national security establishment (Gates was in the Air Force and previously headed the CIA). Jones and Clinton had a more direct connection from her tenure on the Senate Armed Services Committee. The two were said to have particularly clicked at a 2005 conference on security policy in Munich. Jones hosted a small private dinner that included Clinton and South Carolina Republican Senator Lindsey Graham, among others; at the end of the convivial evening, according to one person present, Jones followed Clinton out to her car to visit in private.[45]
+The selection surprised people because, as Michael Crowley reported, "The two men didn't meet until Obama's foreign policy aide, Mark Lippert, arranged a 2005 sit-down, and, as of this October, Jones had only spoken to Obama twice".[44] Crowley speculated that Jones' record suggests he is "someone who, unencumbered by strong ideological leanings, can evaluate ideas dispassionately whether they come from left or right", and, "This is probably why Obama picked him". Jones was also picked because he is well respected and likely to possess the skills to navigate the other prestigious and powerful cabinet members. transporting President Obama and Gen Jones]] Though he didn't know Gates especially well, both men shared long experience in the national security establishment (Gates was in the Air Force and previously headed the CIA). Jones and Clinton had a more direct connection from her tenure on the Senate Armed Services Committee. The two were said to have particularly clicked at a 2005 conference on security policy in Munich. Jones hosted a small private dinner that included Clinton and South Carolina Republican Senator Lindsey Graham, among others; at the end of the convivial evening, according to one person present, Jones followed Clinton out to her car to visit in private.[45]
 
 Jones assumed the post when Obama was sworn into office on January 20, 2009. He announced his resignation as National Security Advisor on October 8, 2010, and was succeeded by Thomas E. Donilon.[46]
 

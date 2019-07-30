@@ -1,4 +1,4 @@
-MEMsfounding.jpg in 1986 first introducing the term "microelectromechanical systems"]] MEMS_Microcantilever_in_Resonance.png]] MICROELECTROMECHANICAL SYSTEMS (MEMS, also written as MICRO-ELECTRO-MECHANICAL, MICROELECTROMECHANICAL or MICROELECTRONIC AND MICROELECTROMECHANICAL SYSTEMS and the related MICROMECHATRONICS and MICROSYSTEMS) is the technology of microscopic devices, particularly those with moving parts. It merges at the nano-scale into nanoelectromechanical systems (NEMS) and nanotechnology. MEMS are also referred to as micromachines in Japan, or _micro systems technology_ (_MST_) in Europe.
+in 1986 first introducing the term "microelectromechanical systems"]] ]] MICROELECTROMECHANICAL SYSTEMS (MEMS, also written as MICRO-ELECTRO-MECHANICAL, MICROELECTROMECHANICAL or MICROELECTRONIC AND MICROELECTROMECHANICAL SYSTEMS and the related MICROMECHATRONICS and MICROSYSTEMS) is the technology of microscopic devices, particularly those with moving parts. It merges at the nano-scale into nanoelectromechanical systems (NEMS) and nanotechnology. MEMS are also referred to as micromachines in Japan, or _micro systems technology_ (_MST_) in Europe.
 
 MEMS are made up of components between 1 and 100 micrometers in size (i.e., 0.001 to 0.1 mm), and MEMS devices generally range in size from 20 micrometres to a millimetre (i.e., 0.02 to 1.0 mm), although components arranged in arrays (e.g., digital micromirror devices) can be more than 1000 mm².[1] They usually consist of a central unit that processes data (the microprocessor) and several components that interact with the surroundings such as microsensors.[2] Because of the large surface area to volume ratio of MEMS, forces produced by ambient electromagnetism (e.g., electrostatic charges and magnetic moments), and fluid dynamics (e.g., surface tension and viscosity) are more important design considerations than with larger scale mechanical devices. MEMS technology is distinguished from molecular nanotechnology or molecular electronics in that the latter must also consider surface chemistry.
 
@@ -163,12 +163,12 @@ High aspect ratio (HAR) silicon micromachining
 
 Both bulk and surface silicon micromachining are used in the industrial production of sensors, ink-jet nozzles, and other devices. But in many cases the distinction between these two has diminished. A new etching technology, deep reactive-ion etching, has made it possible to combine good performance typical of bulk micromachining with comb structures and in-plane operation typical of surface micromachining. While it is common in surface micromachining to have structural layer thickness in the range of 2 µm, in HAR silicon micromachining the thickness can be from 10 to 100 µm. The materials commonly used in HAR silicon micromachining are thick polycrystalline silicon, known as epi-poly, and bonded silicon-on-insulator (SOI) wafers although processes for bulk silicon wafer also have been created (SCREAM). Bonding a second wafer by glass frit bonding, anodic bonding or alloy bonding is used to protect the MEMS structures. Integrated circuits are typically not combined with HAR silicon micromachining.
 
-Labonachip20017-300.jpg"]]
+"]]
 
 
 Applications
 
-DLP_CINEMA._A_Texas_Instruments_Technology_-_Photo_Philippe_Binant.jpg DMD chip for cinema projection]] Gold_stripe_testing_with_MEMS.webm.[22]]] Some common commercial applications of MEMS include:
+DMD chip for cinema projection]] .[22]]] Some common commercial applications of MEMS include:
 
 -   Inkjet printers, which use piezoelectrics or thermal bubble ejection to deposit ink on paper.
 -   Accelerometers in modern cars for a large number of purposes including airbag deployment and electronic stability control.

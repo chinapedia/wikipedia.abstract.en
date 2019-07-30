@@ -1,6 +1,6 @@
 ROBERT JOSEPH FLAHERTY, (;[1] February 16, 1884 – July 23, 1951) was an American filmmaker who directed and produced the first commercially successful feature-length documentary film, _Nanook of the North_ (1922). The film made his reputation and nothing in his later life fully equaled its success, although he continued the development of this new genre of narrative documentary with _Moana_ (1926), set in the South Seas, and _Man of Aran_ (1934), filmed in Ireland's Aran Islands. Flaherty is considered the "father" of both the documentary and the ethnographic film.
 
-Flaherty was married to writer Frances H. Flaherty from 1914 until his death in 1951. Frances worked on several of her husband's films, and received an Academy Award nomination for Best Original Story for _Louisiana Story_ (1948). Flaherty_Port_Harrison_1920.jpg, QC, 1920-21]]
+Flaherty was married to writer Frances H. Flaherty from 1914 until his death in 1951. Frances worked on several of her husband's films, and received an Academy Award nomination for Best Original Story for _Louisiana Story_ (1948). , QC, 1920-21]]
 
 
 Early life
@@ -81,7 +81,7 @@ Awards
 
 Filmography
 
-Robert_Flaherty_Nyla_1920.jpg, and her child]]
+, and her child]]
 
 -   _Nanook of the North_ (1922)
 -   _The Pottery Maker_ (1925)

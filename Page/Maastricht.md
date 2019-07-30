@@ -13,7 +13,7 @@ The place name _Maastricht_ is an Old Dutch compound _Masa-_ (> _Maas_ "the Meus
 
 Early history
 
-Maastricht_-_rijksmonument_527161_-_Museumkelder_Derlon_20100821.jpg Neanderthal remains have been found to the west of Maastricht (Belvédère excavations). Of a later date are Palaeolithic remains, between 8,000 and 25,000 years old. Celts lived here around 500 BC, at a spot where the river Meuse was shallow and therefore easy to cross.
+Neanderthal remains have been found to the west of Maastricht (Belvédère excavations). Of a later date are Palaeolithic remains, between 8,000 and 25,000 years old. Celts lived here around 500 BC, at a spot where the river Meuse was shallow and therefore easy to cross.
 
 It is not known when the Romans arrived in Maastricht, or whether the settlement was founded by them. The Romans built a bridge across the Meuse in the 1st century AD, during the reign of Augustus Caesar. The bridge was an important link in the main road between Bavay and Cologne. Roman Maastricht was probably relatively small. Remains of the Roman road, the bridge, a religious shrine, a Roman bath, a granary, some houses and the 4th-century castrum walls and gates, have been excavated. Fragments of provincial Roman sculptures, as well as coins, jewellery, glass, pottery and other objects from Roman Maastricht are on display in the exhibition space of the city's public library (_Centre Céramique_).
 
@@ -21,7 +21,7 @@ According to legend, the Armenian-born Saint Servatius, Bishop of Tongeren, died
 
 Middle Ages
 
-Maastricht,_St-Servaasbasiliek,_Keizerzaal,_middenbeuk_03.jpg]] In the early Middle Ages Maastricht was part of the heartland of the Carolingian Empire along with Aachen and the area around Liège. The town was an important centre for trade and manufacturing. Merovingian coins minted in Maastricht have been found in places throughout Europe. In 881 the town was plundered by the Vikings. In the 10th century it briefly became the capital of the duchy of Lower Lorraine.
+]] In the early Middle Ages Maastricht was part of the heartland of the Carolingian Empire along with Aachen and the area around Liège. The town was an important centre for trade and manufacturing. Merovingian coins minted in Maastricht have been found in places throughout Europe. In 881 the town was plundered by the Vikings. In the 10th century it briefly became the capital of the duchy of Lower Lorraine.
 
 During the 12th century the town flourished culturally. The provosts of the church of Saint Servatius held important positions in the Holy Roman Empire during this era. The two collegiate churches were largely rebuilt and redecorated. Maastricht Romanesque stone sculpture and silversmithing are regarded as highlights of Mosan art. Maastricht painters were praised by Wolfram von Eschenbach in his Parzival. Around the same time, the poet Henric van Veldeke wrote a legend of Saint Servatius, one of the earliest works in Dutch literature. The two main churches acquired a wealth of relics and the septennial Maastricht Pilgrimage became a major event.
 
@@ -31,7 +31,7 @@ Throughout the Middle Ages, the city remained a centre for trade and manufacturi
 
 16th to 18th centuries
 
-1579_Siege_of_Maastricht_-_Aranjuez_Palace.jpg as depicted in the Palace of Aranjuez]] The important strategic location of Maastricht resulted in the construction of an impressive array of fortifications around the city during this period. The Spanish and Dutch garrisons became an important factor in the city's economy. In 1579 the city was sacked by the Spanish army led by the Duke of Parma (Siege of Maastricht, 1579). For over fifty years the Spanish crown took over the role previously held by the dukes of Brabant in the joint sovereignty over Maastricht. In 1632 the city was conquered by Prince Frederick Henry of Orange and the Dutch States General replaced the Spanish crown in the joint government of Maastricht.
+as depicted in the Palace of Aranjuez]] The important strategic location of Maastricht resulted in the construction of an impressive array of fortifications around the city during this period. The Spanish and Dutch garrisons became an important factor in the city's economy. In 1579 the city was sacked by the Spanish army led by the Duke of Parma (Siege of Maastricht, 1579). For over fifty years the Spanish crown took over the role previously held by the dukes of Brabant in the joint sovereignty over Maastricht. In 1632 the city was conquered by Prince Frederick Henry of Orange and the Dutch States General replaced the Spanish crown in the joint government of Maastricht.
 
 Another Siege of Maastricht (1673) took place during the Franco-Dutch War. In June 1673, Louis XIV laid siege to the city because French battle supply lines were being threatened. During this siege, Vauban, the famous French military engineer, developed a new strategy in order to break down the strong fortifications surrounding Maastricht. His systematic approach remained the standard method of attacking fortresses until the 20th century. On 25 June 1673, while preparing to storm the city, captain-lieutenant Charles de Batz de Castelmore, also known as the _comte d'Artagnan_, was killed by a musket shot outside Tongerse Poort. This event was embellished in Alexandre Dumas' novel _The Vicomte de Bragelonne_, part of the D'Artagnan Romances. French troops occupied Maastricht from 1673 to 1678.
 
@@ -39,15 +39,15 @@ In 1748 the French again conquered the city at what is known as the Second Frenc
 
 19th and early 20th century
 
-Boschstraat_Sphinx,_1865.jpg After the Napoleonic era, Maastricht became part of the United Kingdom of the Netherlands in 1815. It was made the capital of the newly formed Province of Limburg (1815–1839). When the southern provinces of the newly formed kingdom seceded in 1830, the Dutch garrison in Maastricht remained loyal to the Dutch king, William I, even when most of the inhabitants of the town and the surrounding area sided with the Belgian revolutionaries. In 1831, arbitration by the Great Powers allocated the city to the Netherlands. However, neither the Dutch nor the Belgians agreed to this and the arrangement was not implemented until the 1839 Treaty of London. During this period of isolation Maastricht developed into an early industrial town.
+After the Napoleonic era, Maastricht became part of the United Kingdom of the Netherlands in 1815. It was made the capital of the newly formed Province of Limburg (1815–1839). When the southern provinces of the newly formed kingdom seceded in 1830, the Dutch garrison in Maastricht remained loyal to the Dutch king, William I, even when most of the inhabitants of the town and the surrounding area sided with the Belgian revolutionaries. In 1831, arbitration by the Great Powers allocated the city to the Netherlands. However, neither the Dutch nor the Belgians agreed to this and the arrangement was not implemented until the 1839 Treaty of London. During this period of isolation Maastricht developed into an early industrial town.
 
-Maastricht_Liberation_Plate,_14_Sept._1944.jpg Because of its eccentric location in the southeastern Netherlands, and its geographical and cultural proximity to Belgium and Germany, integration of Maastricht and Limburg into the Netherlands did not come about easily. Maastricht retained a distinctly non-Dutch appearance during much of the 19th century and it was not until the First World War that the city was forced to look northwards.
+Because of its eccentric location in the southeastern Netherlands, and its geographical and cultural proximity to Belgium and Germany, integration of Maastricht and Limburg into the Netherlands did not come about easily. Maastricht retained a distinctly non-Dutch appearance during much of the 19th century and it was not until the First World War that the city was forced to look northwards.
 
 Like the rest of the Netherlands, Maastricht remained neutral during World War I. However, being wedged between Germany and Belgium, it received large numbers of refugees, putting a strain on the city's resources. Early in World War II, the city was taken by the Germans by surprise during the Battle of Maastricht of May 1940. On 13 and 14 September 1944 it was the first Dutch city to be liberated by Allied forces of the US Old Hickory Division. The three Meuse bridges were destroyed or severely damaged during the war. As elsewhere in the Netherlands, the majority of Maastricht Jews died in Nazi concentration camps.[11]
 
 After World War II
 
-Europese_Raad_in_Maastricht,_27a_Van_Agt_e.a._tijdens_conferentie,_28a_en_29a_overzicht_tijdens_conferentie_met_links_Thatcher,_Bestanddeelnr_931-3910.jpg presiding over the 1981 European Council in the town hall]] During the latter half of the century, traditional industries (such as Maastricht's potteries) declined and the city's economy shifted to a service economy. Maastricht University was founded in 1976. Several European institutions found their base in Maastricht. In 1981 and 1991 European Councils were held in Maastricht, the latter one resulting a year later in the signing of the Maastricht Treaty, leading to the creation of the European Union and the euro.[12] Since 1988, The European Fine Art Fair, regarded as the world's leading art fair, annually draws in some of the wealthiest art collectors.
+presiding over the 1981 European Council in the town hall]] During the latter half of the century, traditional industries (such as Maastricht's potteries) declined and the city's economy shifted to a service economy. Maastricht University was founded in 1976. Several European institutions found their base in Maastricht. In 1981 and 1991 European Councils were held in Maastricht, the latter one resulting a year later in the signing of the Maastricht Treaty, leading to the creation of the European Union and the euro.[12] Since 1988, The European Fine Art Fair, regarded as the world's leading art fair, annually draws in some of the wealthiest art collectors.
 
 In recent years, Maastricht launched several campaigns against drug-dealing in an attempt to stop foreign buyers taking advantage of the liberal Dutch legislation and causing trouble in the downtown area.[13]
 
@@ -58,7 +58,7 @@ Geography
 
 Neighbourhoods
 
-Jekerkwartier07.jpg, part of the city centre]] Maastricht-plaats-OpenTopo.jpg
+, part of the city centre]]
 
 Maastricht consists of five districts (_stadsdelen_) and 44 neighbourhoods (_wijken_). Each neighbourhood has a number which corresponds to its postal code.
 
@@ -184,7 +184,7 @@ The largest religion in Maastricht is Christianity with 65.1% of the population 
 
 Economy
 
-SintPietersbergWegLangsGroeve008.jpg quarry]] RandwyckNoordKantoren07.jpg
+quarry]]
 
 Private companies based in Maastricht
 
@@ -207,8 +207,6 @@ Private companies based in Maastricht
 -   BioPartner Centre Maastricht – life sciences spin-off companies
 
 Public institutions
-
-Provincial_Government_Buildings_on_the_Meuse.jpg 2017_Maastricht,_EIPA_09.jpg
 
 Since the 1980s a number of European and international institutions have made Maastricht their base. They provide an increasing number of employment opportunities for expats living in the Maastricht area.
 
@@ -233,7 +231,7 @@ Since the 1980s a number of European and international institutions have made Ma
 
 Culture and tourism
 
-Maastricht_2008_OLV_Wall.jpg FortStPieter57.jpg]] Vrijthof_in_Maastricht.jpg with Saint John's (left) and Saint Servatius Basilica]] OLV-01_(cropped).jpg from the church tower of Saint John's]] Maastricht,_kerstverlichting_2014,_Onze-Lieve-Vrouweplein04.JPG]] 20130504_Maastricht_06_Stadhuis.JPG 13th_century_Dominican_church_converted_into_a_bookstore_in_Maastricht,_the_Netherlands.JPG 2016_Maastricht,_St-Pietersberg,_Slavante_08.jpg]] 20130504_Maastricht_Céramique_seen_from_West_bank_of_the_Meuse_01_Bonnefantenmuseum.JPG on the east bank of the Meuse in Wyck-Céramique]] 2018_Bonnefantenmuseum,_collectie_Neutelings,_zaaloverzicht_1.jpg]] Arca_di_san_servazio,_legno,_rame_dorato,_pietre_preziose,_gemme_e_smalti,_1160_ca._01.jpg]] Maastricht-39e_Diesviering_in_de_St._Janskerk_(Universiteit_Maastricht)_(5a).JPG faculty on their way to the annual _dies natalis_]] Maastricht,_TEFAF2014-13.jpg, Maastricht's prestigious art fair]] 10e_internationale_Reuzenstoet_-_Maastricht_-_2_June_2019_-_34.jpg
+]] with Saint John's (left) and Saint Servatius Basilica]] from the church tower of Saint John's]] ]] ]] on the east bank of the Meuse in Wyck-Céramique]] ]] ]] faculty on their way to the annual _dies natalis_]] , Maastricht's prestigious art fair]]
 
 Sights of Maastricht
 
@@ -326,7 +324,7 @@ Furthermore, the Maastricht Exposition and Congress Centre (MECC) hosts many eve
 
 Nature
 
-Maastricht.jpg 20130504_Maastricht_Céramique_09_Charles_Eyckpark.JPG SintPietersbergSchaapskudde007.jpg]] Jekerdal_met_Wijngaarden.jpg
+]]
 
 Parks
 
@@ -352,7 +350,7 @@ Natural areas
 
 Sports
 
-2018_Maastricht,_Zuid-Willemsvaart_13.jpg]]
+]]
 
 -   In football, Maastricht is represented by MVV Maastricht (Dutch: _Maatschappelijke Voetbal Vereniging Maastricht_), who (as of the 2016–2017 season) play in the Dutch first division of the national competition (which is the second league after the Eredivisie league). MVV's home is the Geusselt stadium near the A2 highway.
 -   Maastricht is also home to the Maastricht Wildcats, an American Football League team and member of the AFBN (American Football Bond Nederland).
@@ -391,14 +389,14 @@ Cannabis
 
 One controversial issue which has dominated Maastricht politics for many years and which has also affected national and international politics, is the city's approach to soft drugs. Under the pragmatic Dutch soft drug policy, a policy of non-enforcement, individuals may buy and use cannabis from 'coffeeshops' (cannabis bars) under certain conditions. Maastricht, like many other border towns, has seen a growing influx of 'drug tourists', mainly young people from Belgium, France and Germany, who provide a large amount of revenue for the coffeeshops (around 13) in the city centre. The city government, most notably ex-mayor Leers, have been actively promoting drug policy reform in order to deal with its negative side effects.
 
-2018_Maastricht,_Maaspromenade,_coffeeshop_boten_2.jpg boats at Maasboulevard]] One of the proposals, known as the 'Coffee Corner Plan', proposed by then-mayor Leers and supported unanimously by the city council in 2008, was to relocate the coffeeshops from the city centre to the outskirts of the town (in some cases near the national Dutch-Belgian border).[31] The purpose of this plan was to reduce the impact of drug tourism on the city centre, such as parking problems and the illegal sale of hard drugs in the vicinity of the coffeeshops, and to monitor the sale and use of cannabis more closely in areas away from the crowded city centre. The Coffee Corner Plan, however, has met with fierce opposition from neighbouring municipalities (some in Belgium) and from members of the Dutch and Belgian parliament. The plan has been the subject of various legal challenges and has not been carried out up to this date (2014).
+boats at Maasboulevard]] One of the proposals, known as the 'Coffee Corner Plan', proposed by then-mayor Leers and supported unanimously by the city council in 2008, was to relocate the coffeeshops from the city centre to the outskirts of the town (in some cases near the national Dutch-Belgian border).[31] The purpose of this plan was to reduce the impact of drug tourism on the city centre, such as parking problems and the illegal sale of hard drugs in the vicinity of the coffeeshops, and to monitor the sale and use of cannabis more closely in areas away from the crowded city centre. The Coffee Corner Plan, however, has met with fierce opposition from neighbouring municipalities (some in Belgium) and from members of the Dutch and Belgian parliament. The plan has been the subject of various legal challenges and has not been carried out up to this date (2014).
 
 On 16 December 2010, the Court of Justice of the European Union upheld a local Maastricht ban on the sale of cannabis to foreign tourists, restricting entrance to coffeeshops to residents of Maastricht.[32] The ban did not affect scientific or medical usage. In 2011, the Dutch government introduced a similar national system, the _wietpas_ ("cannabis pass"), restricting access to Dutch coffeeshops to residents of the Netherlands. After protests from local mayors about the difficulty of implementing the issuing of wietpasses, Dutch parliament in 2012 agreed to replace the pass by any proof of residency.[33] The new system has led to a slight reduction in drug tourism to cannabis shops in Maastricht but at the same time to an increase of drug dealing on the street.
 
 
 Transport
 
-N2_Maastricht.jpg in Maastricht]]
+in Maastricht]]
 
 By car
 
@@ -408,7 +406,7 @@ The A2 motorway runs through Maastricht in a double-decked tunnel. Before 2016, 
 
 In spite of several large underground car parks, parking in the city centre forms a major problem during weekends and bank holidays because of the large numbers of visitors. Parking fees are deliberately high to make visitors to use public transport or park and ride facilities away from the centre.
 
-Panoramio_-_henkiedenkie_-_Station_Maastricht_-_2009.jpg]]
+]]
 
 By train
 
@@ -422,7 +420,7 @@ By bus
 
 Regular bus lines connect the city centre, outer areas, business districts and railway stations. The regional Arriva bus network extends to most parts of South Limburg and Aachen in Germany. Regional buses by De Lijn connect Maastricht with Hasselt, Tongeren and Maasmechelen, and one bus connects Maastricht with Liège, operated by TEC.
 
-Maastricht_Aachen_Airport.jpg]]
+]]
 
 By air
 
@@ -487,7 +485,7 @@ These distances are as the crow flies and so do not represent actual overland di
 
 Education
 
-Maastricht_University_-_Campus_Randwyck.jpg, Campus Randwyck]] Maastricht,_Oud_Gouvernement02.jpg Kasteel_Bethlehem.jpg]]
+, Campus Randwyck]] ]]
 
 Secondary education
 
@@ -540,7 +538,7 @@ Other relations
 
 Notable people
 
-Debije-boerhaave.jpg]] Giro_d'Italia_2017,_dumoulin_(34343448193).jpg]] 20071012Minckelers.jpg]] Henriette-d'Oultremont.jpg]] Maastricht_-_Victor_de_Stuers_-_Kruisherengang_12_-_20100717.jpg]] Andre_Rieu_2010.jpg]]
+]] ]] ]] ]] ]] ]]
 
 Born in Maastricht
 
@@ -599,7 +597,7 @@ Born in Maastricht
 
 Residing in Maastricht
 
-Busto-reliquiario_di_san_servazio,_in_rame_dorato_con_gemme,_1580_ca._02.jpg]]
+]]
 
 -   Jo Bonfrere (born 1946) – football player
 -   Willy Brokamp (born 1946) – football player

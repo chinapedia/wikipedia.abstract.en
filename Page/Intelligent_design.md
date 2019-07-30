@@ -65,7 +65,7 @@ Variations on the phrase appeared in Young Earth creationist publications: a 196
 
 _Of Pandas and People_
 
-Pandas_text_analysis.png The most common modern use of the words "intelligent design" as a term intended to describe a field of inquiry began after the United States Supreme Court ruled in June 1987 in the case of _Edwards v. Aguillard_ that it is unconstitutional for a state to require the teaching of creationism in public school science curricula.[41]
+The most common modern use of the words "intelligent design" as a term intended to describe a field of inquiry began after the United States Supreme Court ruled in June 1987 in the case of _Edwards v. Aguillard_ that it is unconstitutional for a state to require the teaching of creationism in public school science curricula.[41]
 
 A Discovery Institute report says that Charles B. Thaxton, editor of _Pandas_, had picked the phrase up from a NASA scientist, and thought, "That's just what I need, it's a good engineering term."[42] In two successive 1987 drafts of the book, over one hundred uses of the root word "creation", such as "creationism" and "Creation Science", were changed, almost without exception, to "intelligent design",[43] while "creationists" was changed to "design proponents" or, in one instance, "cdesign proponentsists".
 
@@ -80,7 +80,7 @@ Concepts
 
 Irreducible complexity
 
-MichaelBehe.jpg was popularised by Michael Behe in his 1996 book, _Darwin's Black Box_.]] The term "irreducible complexity" was introduced by biochemist Michael Behe in his 1996 book _Darwin's Black Box_, though he had already described the concept in his contributions to the 1993 revised edition of _Of Pandas and People_.[57] Behe defines it as "a single system which is composed of several well-matched interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning".[58]
+was popularised by Michael Behe in his 1996 book, _Darwin's Black Box_.]] The term "irreducible complexity" was introduced by biochemist Michael Behe in his 1996 book _Darwin's Black Box_, though he had already described the concept in his contributions to the 1993 revised edition of _Of Pandas and People_.[57] Behe defines it as "a single system which is composed of several well-matched interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning".[58]
 
 Behe uses the analogy of a mousetrap to illustrate this concept. A mousetrap consists of several interacting pieces—the base, the catch, the spring and the hammer—all of which must be in place for the mousetrap to work. Removal of any one piece destroys the function of the mousetrap. Intelligent design advocates assert that natural selection could not create irreducibly complex systems, because the selectable function is present only when all parts are assembled. Behe argued that irreducibly complex biological mechanisms include the bacterial flagellum of _E. coli_, the blood clotting cascade, cilia, and the adaptive immune system.[59][60]
 
@@ -92,7 +92,7 @@ Specified complexity
 
 In 1986, Charles B. Thaxton, a physical chemist and creationist, used the term "specified complexity" from information theory when claiming that messages transmitted by DNA in the cell were specified by intelligence, and must have originated with an intelligent agent.[64] The intelligent design concept of "specified complexity" was developed in the 1990s by mathematician, philosopher, and theologian William A. Dembski.[65] Dembski states that when something exhibits specified complexity (i.e., is both complex and "specified", simultaneously), one can infer that it was produced by an intelligent cause (i.e., that it was designed) rather than being the result of natural processes. He provides the following examples: "A single letter of the alphabet is specified without being complex. A long sentence of random letters is complex without being specified. A Shakespearean sonnet is both complex and specified."[66] He states that details of living things can be similarly characterized, especially the "patterns" of molecular sequences in functional biological molecules such as DNA.
 
-Dembski_head_shot.jpg proposed the concept of specified complexity.[67]|alt=]] Dembski defines complex specified information (CSI) as anything with a less than 1 in 10¹⁵⁰ chance of occurring by (natural) chance. Critics say that this renders the argument a tautology: complex specified information cannot occur naturally because Dembski has defined it thus, so the real question becomes whether or not CSI actually exists in nature.[68][69][70]
+proposed the concept of specified complexity.[67]|alt=]] Dembski defines complex specified information (CSI) as anything with a less than 1 in 10¹⁵⁰ chance of occurring by (natural) chance. Critics say that this renders the argument a tautology: complex specified information cannot occur naturally because Dembski has defined it thus, so the real question becomes whether or not CSI actually exists in nature.[68][69][70]
 
 The conceptual soundness of Dembski's specified complexity/CSI argument has been discredited in the scientific and mathematical communities.
 
@@ -119,7 +119,7 @@ Asserting the need for a designer of complexity also raises the question "What d
 
 Movement
 
-Creación_de_Adám.jpg'' from the Sistine Chapel. Later it used a less religious image, then was renamed the Center for Science and Culture.[97]]]
+'' from the Sistine Chapel. Later it used a less religious image, then was renamed the Center for Science and Culture.[97]]]
 
 The intelligent design movement is a direct outgrowth of the creationism of the 1980s.[98] The scientific and academic communities, along with a U.S. federal court, view intelligent design as either a form of creationism or as a direct descendant that is closely intertwined with traditional creationism;[99][100][101][102][103][104] and several authors explicitly refer to it as "intelligent design creationism".[105][106][107][108]
 

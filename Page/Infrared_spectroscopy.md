@@ -1,13 +1,13 @@
-Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg INFRARED SPECTROSCOPY (IR SPECTROSCOPY or VIBRATIONAL SPECTROSCOPY) involves the interaction of infrared radiation with matter. It covers a range of techniques, mostly based on absorption spectroscopy. As with all spectroscopic techniques, it can be used to identify and study chemical substances. Samples may be solid, liquid, or gas. The method or technique of infrared spectroscopy is conducted with an instrument called an INFRARED SPECTROMETER (or spectrophotometer) to produce an INFRARED SPECTRUM. An IR spectrum can be visualized in a graph of infrared light absorbance (or transmittance) on the vertical axis vs. frequency or wavelength on the horizontal axis. Typical units of frequency used in IR spectra are reciprocal centimeters (sometimes called wave numbers), with the symbol cm^(−1). Units of IR wavelength are commonly given in micrometers (formerly called "microns"), symbol μm, which are related to wave numbers in a reciprocal way. A common laboratory instrument that uses this technique is a Fourier transform infrared (FTIR) spectrometer. Two-dimensional IR is also possible as discussed below.
+INFRARED SPECTROSCOPY (IR SPECTROSCOPY or VIBRATIONAL SPECTROSCOPY) involves the interaction of infrared radiation with matter. It covers a range of techniques, mostly based on absorption spectroscopy. As with all spectroscopic techniques, it can be used to identify and study chemical substances. Samples may be solid, liquid, or gas. The method or technique of infrared spectroscopy is conducted with an instrument called an INFRARED SPECTROMETER (or spectrophotometer) to produce an INFRARED SPECTRUM. An IR spectrum can be visualized in a graph of infrared light absorbance (or transmittance) on the vertical axis vs. frequency or wavelength on the horizontal axis. Typical units of frequency used in IR spectra are reciprocal centimeters (sometimes called wave numbers), with the symbol cm^(−1). Units of IR wavelength are commonly given in micrometers (formerly called "microns"), symbol μm, which are related to wave numbers in a reciprocal way. A common laboratory instrument that uses this technique is a Fourier transform infrared (FTIR) spectrometer. Two-dimensional IR is also possible as discussed below.
 
 The infrared portion of the electromagnetic spectrum is usually divided into three regions; the near-, mid- and far- infrared, named for their relation to the visible spectrum. The higher-energy near-IR, approximately 14000–4000 cm^(−1) (0.7–2.5 μm wavelength) can excite overtone or harmonic molecular vibrations. The mid-infrared, approximately 4000–400 cm^(−1) (2.5–25 μm) may be used to study the fundamental vibrations and associated rotational-vibrational structure. The far-infrared, approximately 400–10 cm^(−1) (25–1000 μm), lying adjacent to the microwave region, has low energy and may be used for rotational spectroscopy. The names and classifications of these subregions are conventions, and are only loosely based on the relative molecular or electromagnetic properties.
 
 
 Theory
 
-Bromomethane_IR_spectroscopy.svg (CH₃Br), showing peaks around 3000, 1300, and 1000 cm^(−1) (on the horizontal axis).]] Infrared spectroscopy exploits the fact that molecules absorb frequencies that are characteristic of their structure. These absorptions occur at resonant frequencies, i.e. the frequency of the absorbed radiation matches the vibrational frequency. The energies are affected by the shape of the molecular potential energy surfaces, the masses of the atoms, and the associated vibronic coupling.
+(CH₃Br), showing peaks around 3000, 1300, and 1000 cm^(−1) (on the horizontal axis).]] Infrared spectroscopy exploits the fact that molecules absorb frequencies that are characteristic of their structure. These absorptions occur at resonant frequencies, i.e. the frequency of the absorbed radiation matches the vibrational frequency. The energies are affected by the shape of the molecular potential energy surfaces, the masses of the atoms, and the associated vibronic coupling.
 
-Bromomethane.gif]] In particular, in the Born–Oppenheimer and harmonic approximations, i.e. when the molecular Hamiltonian corresponding to the electronic ground state can be approximated by a harmonic oscillator in the neighborhood of the equilibrium molecular geometry, the resonant frequencies are associated with the normal modes corresponding to the molecular electronic ground state potential energy surface. The resonant frequencies are also related to the strength of the bond and the mass of the atoms at either end of it. Thus, the frequency of the vibrations are associated with a particular normal mode of motion and a particular bond type.
+]] In particular, in the Born–Oppenheimer and harmonic approximations, i.e. when the molecular Hamiltonian corresponding to the electronic ground state can be approximated by a harmonic oscillator in the neighborhood of the equilibrium molecular geometry, the resonant frequencies are associated with the normal modes corresponding to the molecular electronic ground state potential energy surface. The resonant frequencies are also related to the strength of the bond and the mass of the atoms at either end of it. Thus, the frequency of the vibrations are associated with a particular normal mode of motion and a particular bond type.
 
 Number of vibrational modes
 
@@ -19,18 +19,15 @@ Simple diatomic molecules have only one bond and only one vibrational band. If t
 
 The atoms in a CH₂X₂ group, commonly found in organic compounds and where X can represent any other atom, can vibrate in nine different ways. Six of these vibrations involve only the CH₂ portion: SYMMETRIC AND ANTISYMMETRIC STRETCHING, SCISSORING, ROCKING, WAGGING and TWISTING, as shown below. Structures that do not have the two additional X groups attached have fewer modes because some modes are defined by specific relationships to those other attached groups. For example, in water, the rocking, wagging, and twisting modes do not exist because these types of motions of the H atoms represent simple rotation of the whole molecule rather than vibrations within it.
 
-+-------------+----------------------------------+-----------------------------------+
-|             | Symmetric                        | Antisymmetric                     |
-+=============+==================================+===================================+
-| Radial      | Image:Symmetrical stretching.gif | Image:Asymmetrical stretching.gif |
-|             | Symmetric stretching             | Antisymmetric stretching          |
-+-------------+----------------------------------+-----------------------------------+
-| Latitudinal | Image:Scissoring.gif             | Image:Modo rotacao.gif            |
-|             | Scissoring                       | Rocking                           |
-+-------------+----------------------------------+-----------------------------------+
-| Longitudal  | Image:Wagging.gif                | Image:Twisting.gif                |
-|             | Wagging                          | Twisting                          |
-+-------------+----------------------------------+-----------------------------------+
++-------------+----------------------+--------------------------+
+|             | Symmetric            | Antisymmetric            |
++=============+======================+==========================+
+| Radial      | Symmetric stretching | Antisymmetric stretching |
++-------------+----------------------+--------------------------+
+| Latitudinal | Scissoring           | Rocking                  |
++-------------+----------------------+--------------------------+
+| Longitudal  | Wagging              | Twisting                 |
++-------------+----------------------+--------------------------+
 
 These figures do not represent the "recoil" of the C atoms, which, though necessarily present to balance the overall movements of the molecule, are much smaller than the movements of the lighter H atoms.
 
@@ -41,7 +38,7 @@ Practical IR spectroscopy
 
 The infrared spectrum of a sample is recorded by passing a beam of infrared light through the sample. When the frequency of the IR is the same as the vibrational frequency of a bond or collection of bonds, absorption occurs. Examination of the transmitted light reveals how much energy was absorbed at each frequency (or wavelength). This measurement can be achieved by scanning the wavelength range using a monochromator. Alternatively, the entire wavelength range is measured using a Fourier transform instrument and then a transmittance or absorbance spectrum is generated using a dedicated procedure.
 
-This technique is commonly used for analyzing samples with covalent bonds. Simple spectra are obtained from samples with few IR active bonds and high levels of purity. More complex molecular structures lead to more absorption bands and more complex spectra. SolnIRcell.jpg
+This technique is commonly used for analyzing samples with covalent bonds. Simple spectra are obtained from samples with few IR active bonds and high levels of purity. More complex molecular structures lead to more absorption bands and more complex spectra.
 
 Sample preparation
 
@@ -55,7 +52,7 @@ In photoacoustic spectroscopy the need for sample treatment is minimal. The samp
 
 Comparing to a reference
 
-IR_spectroscopy_apparatus.svg (not shown), and then split into two separate beams. One is passed through the sample, the other passed through a reference. The beams are both reflected back towards a detector, however first they pass through a splitter, which quickly alternates which of the two beams enters the detector. The two signals are then compared and a printout is obtained. This "two-beam" setup gives accurate spectra even if the intensity of the light source drifts over time.]] It is typical to record spectrum of both the sample and a "reference". This step controls for a number of variables, e.g. infrared detector, which may affect the spectrum. The reference measurement makes it possible to eliminate the instrument influence.
+(not shown), and then split into two separate beams. One is passed through the sample, the other passed through a reference. The beams are both reflected back towards a detector, however first they pass through a splitter, which quickly alternates which of the two beams enters the detector. The two signals are then compared and a printout is obtained. This "two-beam" setup gives accurate spectra even if the intensity of the light source drifts over time.]] It is typical to record spectrum of both the sample and a "reference". This step controls for a number of variables, e.g. infrared detector, which may affect the spectrum. The reference measurement makes it possible to eliminate the instrument influence.
 
 The appropriate "reference" depends on the measurement and its goal. The simplest reference measurement is to simply remove the sample (replacing it by air). However, sometimes a different reference is more useful. For example, if the sample is a dilute solute dissolved in water in a beaker, then a good reference measurement might be to measure pure water in the same beaker. Then the reference measurement would cancel out not only all the instrumental properties (like what light source is used), but also the light-absorbing and light-reflecting properties of the water and beaker, and the final result would just show the properties of the solute (at least approximately).
 
@@ -65,14 +62,14 @@ Nevertheless, among different absorption based techniques which are used for gas
 
 FTIR
 
-FTIR-interferogram.svg measurement. The horizontal axis is the position of the mirror, and the vertical axis is the amount of light detected. This is the "raw data" which can be Fourier transformed to get the actual spectrum.]] FOURIER TRANSFORM INFRARED (FTIR) SPECTROSCOPY is a measurement technique that allows one to record infrared spectra. Infrared light is guided through an interferometer and then through the sample (or vice versa). A moving mirror inside the apparatus alters the distribution of infrared light that passes through the interferometer. The signal directly recorded, called an "interferogram", represents light output as a function of mirror position. A data-processing technique called Fourier transform turns this raw data into the desired result (the sample's spectrum): Light output as a function of infrared wavelength (or equivalently, wavenumber). As described above, the sample's spectrum is always compared to a reference.
+measurement. The horizontal axis is the position of the mirror, and the vertical axis is the amount of light detected. This is the "raw data" which can be Fourier transformed to get the actual spectrum.]] FOURIER TRANSFORM INFRARED (FTIR) SPECTROSCOPY is a measurement technique that allows one to record infrared spectra. Infrared light is guided through an interferometer and then through the sample (or vice versa). A moving mirror inside the apparatus alters the distribution of infrared light that passes through the interferometer. The signal directly recorded, called an "interferogram", represents light output as a function of mirror position. A data-processing technique called Fourier transform turns this raw data into the desired result (the sample's spectrum): Light output as a function of infrared wavelength (or equivalently, wavenumber). As described above, the sample's spectrum is always compared to a reference.
 
 An alternate method for acquiring spectra is the "dispersive" or "scanning monochromator" method. In this approach, the sample is irradiated sequentially with various single wavelengths. The dispersive method is more common in UV-Vis spectroscopy, but is less practical in the infrared than the FTIR method. One reason that FTIR is favored is called "Fellgett's advantage" or the "multiplex advantage": The information at all frequencies is collected simultaneously, improving both speed and signal-to-noise ratio. Another is called "Jacquinot's Throughput Advantage": A dispersive measurement requires detecting much lower light levels than an FTIR measurement.[6] There are other advantages, as well as some disadvantages,[7] but virtually all modern infrared spectrometers are FTIR instruments.
 
 
 Absorption bands
 
-IR spectroscopy is often used to identify structures because functional groups give rise to characteristic bands both in terms of intensity and position (frequency). The positions of these bands are summarized in correlation tables as shown below. IR-spectroscopy-sample.svg.]]
+IR spectroscopy is often used to identify structures because functional groups give rise to characteristic bands both in terms of intensity and position (frequency). The positions of these bands are summarized in correlation tables as shown below. .]]
 
 Regions
 
@@ -93,7 +90,7 @@ For many kinds of samples, the assignments are known, i.e. which bond deformatio
 
 Uses and applications
 
-Portable_Screening_Devices_(1435)_(8225044148).jpg scientist uses portable near infrared spectroscopy device to detect potentially illegal substances]] Infrared spectroscopy is a simple and reliable technique widely used in both organic and inorganic chemistry, in research and industry. It is used in quality control, dynamic measurement, and monitoring applications such as the long-term unattended measurement of CO₂ concentrations in greenhouses and growth chambers by infrared gas analyzers.
+scientist uses portable near infrared spectroscopy device to detect potentially illegal substances]] Infrared spectroscopy is a simple and reliable technique widely used in both organic and inorganic chemistry, in research and industry. It is used in quality control, dynamic measurement, and monitoring applications such as the long-term unattended measurement of CO₂ concentrations in greenhouses and growth chambers by infrared gas analyzers.
 
 It is also used in forensic analysis in both criminal and civil cases, for example in identifying polymer degradation. It can be used in determining the blood alcohol content of a suspected drunk driver.
 
@@ -146,8 +143,6 @@ The effect of isotopes, both on the vibration and the decay dynamics, has been f
 Two-dimensional IR
 
 TWO-DIMENSIONAL INFRARED CORRELATION SPECTROSCOPY ANALYSIS combines multiple samples of infrared spectra to reveal more complex properties. By extending the spectral information of a perturbed sample, spectral analysis is simplified and resolution is enhanced. The 2D synchronous and 2D asynchronous spectra represent a graphical overview of the spectral changes due to a perturbation (such as a changing concentration or changing temperature) as well as the relationship between the spectral changes at two different wavenumbers.
-
-2dir_pulse_sequence_newversion.png
 
 NONLINEAR TWO-DIMENSIONAL INFRARED SPECTROSCOPY[23][24] is the infrared version of correlation spectroscopy. Nonlinear two-dimensional infrared spectroscopy is a technique that has become available with the development of femtosecond infrared laser pulses. In this experiment, first a set of pump pulses is applied to the sample. This is followed by a waiting time during which the system is allowed to relax. The typical waiting time lasts from zero to several picoseconds, and the duration can be controlled with a resolution of tens of femtoseconds. A probe pulse is then applied, resulting in the emission of a signal from the sample. The nonlinear two-dimensional infrared spectrum is a two-dimensional correlation plot of the frequency ω₁ that was excited by the initial pump pulses and the frequency ω₃ excited by the probe pulse after the waiting time. This allows the observation of coupling between different vibrational modes; because of its extremely fine time resolution, it can be used to monitor molecular dynamics on a picosecond timescale. It is still a largely unexplored technique and is becoming increasingly popular for fundamental research.
 

@@ -9,16 +9,16 @@ Origin of the term
 
 The popularization of the name is credited to Don Hoefler, who first used it in the article "Silicon Valley USA", appearing in the January 11, 1971 issue of the weekly trade newspaper _Electronic News_.[4] The term gained widespread use in the early 1980s, at the time of the introduction of the IBM PC and numerous related hardware and software products to the consumer market.
 
-AlumRockViewSiliconValley_w.jpg (downtown is at far left) and other parts of Silicon Valley]]
+(downtown is at far left) and other parts of Silicon Valley]]
 
 
 History (pre-1970s)
 
-Birthplace-of-Silicon-Valley-Garage-on-5-September-2016.jpg" garage in Palo Alto, where William Hewlett and David Packard started developing their audio oscillator in 1938 (photographed 2016)]]Silicon-Valley-Garage-Sign-05Sep2016.jpg Silicon Valley was born through several contributing factors intersecting, including a skilled STEM research base housed in area universities, plentiful venture capital, and steady U.S. Department of Defense spending. Stanford University leadership was especially important in the valley's early development. Together these elements formed the basis of its growth and success.[5]
+" garage in Palo Alto, where William Hewlett and David Packard started developing their audio oscillator in 1938 (photographed 2016)]] Silicon Valley was born through several contributing factors intersecting, including a skilled STEM research base housed in area universities, plentiful venture capital, and steady U.S. Department of Defense spending. Stanford University leadership was especially important in the valley's early development. Together these elements formed the basis of its growth and success.[5]
 
 Military technology roots
 
-SAN_JOSE_CALIFORNIA_PALM_TREE_2010.jpg as seen with lit palm trees]] On August 23, 1899, the first ship-to-shore wireless telegraph message to be received in the US was from the San Francisco lightship outside the Golden Gate, signaling the return of the American fleet from the Philippines after their victory in the Spanish–American War.[6] The ship had been outfitted with a wireless telegraph transmitter by a local newspaper, so that they could prepare a celebration on the return of the American sailors.[7] Local historian Clyde Arbuckle states in _Clyde Arbuckle's History of San Jose_[8] that "California first heard the click of a telegraph key on September 11, 1853. It marked completion of an enterprise begun by a couple of San Francisco Merchants' Exchange members named George Sweeney and Theodore E. Baugh…" He says, "In 1849, the gentleman established a wigwag telegraph station a top a high hill overlooking Portsmouth Squares for signaling arriving ships… The operator at the first station caught these signals by telescope and relayed them to the Merchant's Exchange for the waiting business community." Arbuckle points to the historic significance the Merchants Exchange Building (San Francisco) and Telegraph Hill, San Francisco when he goes on to say "The first station gave the name _Telegraph_ to the hill on which it was located. It was known as the Inner Station; the second, as the Outer Station. Both used their primitive mode of communication until Messrs. Sweeney and Baugh connected the Outer Station directly with the Merchants's Exchange by electric telegraph Wire."
+as seen with lit palm trees]] On August 23, 1899, the first ship-to-shore wireless telegraph message to be received in the US was from the San Francisco lightship outside the Golden Gate, signaling the return of the American fleet from the Philippines after their victory in the Spanish–American War.[6] The ship had been outfitted with a wireless telegraph transmitter by a local newspaper, so that they could prepare a celebration on the return of the American sailors.[7] Local historian Clyde Arbuckle states in _Clyde Arbuckle's History of San Jose_[8] that "California first heard the click of a telegraph key on September 11, 1853. It marked completion of an enterprise begun by a couple of San Francisco Merchants' Exchange members named George Sweeney and Theodore E. Baugh…" He says, "In 1849, the gentleman established a wigwag telegraph station a top a high hill overlooking Portsmouth Squares for signaling arriving ships… The operator at the first station caught these signals by telescope and relayed them to the Merchant's Exchange for the waiting business community." Arbuckle points to the historic significance the Merchants Exchange Building (San Francisco) and Telegraph Hill, San Francisco when he goes on to say "The first station gave the name _Telegraph_ to the hill on which it was located. It was known as the Inner Station; the second, as the Outer Station. Both used their primitive mode of communication until Messrs. Sweeney and Baugh connected the Outer Station directly with the Merchants's Exchange by electric telegraph Wire."
 
 According to Arbuckle (p. 380–381) Sweeney and Baugh's line was strictly an intra-city, San Francisco-based service; that is until California State Telegraph Company enfranchised on May 3, 1852; whereas, O.E. Allen and C. Burnham led the way to "build a line from San Francisco to Marysville via San Jose, Stockton, and Sacramento". Delays to construction occurred until September 1853; but, "…San Jose became the first station on the line when the wire arrived here on October 15. The line was completed when [James] Gamble's northbound crew met a similar crew working southward from Marysville on October 24."
 
@@ -77,7 +77,7 @@ In April 1974, Intel released the Intel 8080,[36] a "computer on a chip", "the f
 
 Homebrew Computer Club
 
-Invitation_to_First_Homebrew_Computer_Club_meeting.jpg The Homebrew Computer Club was an informal group of electronic enthusiasts and technically minded hobbyists who gathered to trade parts, circuits, and information pertaining to DIY construction of computing devices.[38] It was started by Gordon French and Fred Moore who met at the Community Computer Center in Menlo Park. They both were interested in maintaining a regular, open forum for people to get together to work on making computers more accessible to everyone.[39]
+The Homebrew Computer Club was an informal group of electronic enthusiasts and technically minded hobbyists who gathered to trade parts, circuits, and information pertaining to DIY construction of computing devices.[38] It was started by Gordon French and Fred Moore who met at the Community Computer Center in Menlo Park. They both were interested in maintaining a regular, open forum for people to get together to work on making computers more accessible to everyone.[39]
 
 The first meeting was held as of March 1975 at French's garage in Menlo Park, San Mateo County, California; which was on occasion of the arrival of the MITS Altair microcomputer, the first unit sent to the area for review by People's Computer Company. Steve Wozniak and Steve Jobs credit that first meeting with inspiring them to design the original Apple I and (successor) Apple II computers. As a result, the first preview of the Apple I was given at the Homebrew Computer Club.[40] Subsequent meetings were held at an auditorium at the Stanford Linear Accelerator Center.[41]
 
@@ -112,13 +112,13 @@ After the dot-com crash, Silicon Valley continues to maintain its status as one 
 
 Economy
 
-Aerial_view_of_Apple_Park_dllu.jpg in Cupertino]] Google_Mountain_View_California_-_panoramio.jpg in Mountain View]] Cisco_San_Jose_(36000457264).jpg in San Jose]] Intel_HQ.jpg in Santa Clara]]
+in Cupertino]] in Mountain View]] in San Jose]] in Santa Clara]]
 
 Silicon Valley has a social and business ethos that supports innovation and entrepreneurship. Attempts to create "Silicon Valleys" in environments where disruptive innovation does not go over well have a poor track record.[51]
 
 The San Francisco Bay Area has the largest concentration of high-tech companies in the United States, at 387,000 high-tech jobs, of which Silicon Valley accounts for 225,300 high-tech jobs. Silicon Valley has the highest concentration of high-tech workers of any metropolitan area, with 285.9 out of every 1,000 private-sector workers. Silicon Valley has the highest average high-tech salary in the United States at $144,800.[52] Largely a result of the high technology sector, the San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area has the most millionaires and the most billionaires in the United States per capita.[53]
 
-The region is the biggest high-tech manufacturing center in the United States.[54][55] The unemployment rate of the region was 9.4% in January 2009, up from 7.8% in the previous month.[56] Silicon Valley received 41% of all U.S. venture investment in 2011, and 46% in 2012.[57] More traditional industries also recognize the potential of high-tech development, and several car manufacturers have opened offices in Silicon Valley to capitalize on its entrepreneurial ecosystem.[58]Oracle_Corporation_HQ.png in Redwood City]] Adobe_World_Headquarters.jpg in Downtown San Jose|alt=]] 100_Winchester_Circle.jpg in Los Gatos]]
+The region is the biggest high-tech manufacturing center in the United States.[54][55] The unemployment rate of the region was 9.4% in January 2009, up from 7.8% in the previous month.[56] Silicon Valley received 41% of all U.S. venture investment in 2011, and 46% in 2012.[57] More traditional industries also recognize the potential of high-tech development, and several car manufacturers have opened offices in Silicon Valley to capitalize on its entrepreneurial ecosystem.[58] in Redwood City]] in Downtown San Jose|alt=]] in Los Gatos]]
 
 Manufacture of transistors is, or was, the core industry in Silicon Valley. The production workforce[59] was for the most part composed of Asian and Latino immigrants who were paid low wages and worked in hazardous conditions due to the chemicals used in the manufacture of integrated circuits. Technical, engineering, design, and administrative staffs were in large part[60] well compensated.[61]
 
@@ -128,7 +128,7 @@ _The Economist_ also attributes the high cost of living to the success of the in
 
 Notable companies
 
-Facebook_Campus,_Menlo_Park,_CA.jpg in Menlo Park]] TeslaMotors_HQ_PaloAlto.jpg in Palo Alto]] HP_HQ_campus_4.JPG in Palo Alto]] PayPal_San_Jose_Headquarters.jpg in San Jose]] Yahoo_Headquarters.jpg in Sunnyvale]]
+in Menlo Park]] in Palo Alto]] in Palo Alto]] in San Jose]] in Sunnyvale]]
 
 Thousands of high technology companies are headquartered in Silicon Valley. Among those, the following are in the Fortune 1000:
 
@@ -151,7 +151,7 @@ Depending on what geographic regions are included in the meaning of the term, th
 
 Diversity
 
-Valencia_Hotel,_Santana_Row,_SJ_02.jpgs outside the Hotel Valencia, in Santana Row, San Jose.]] In November 2006, the University of California, Davis released a report analyzing business leadership by women within the state.[71] The report showed that although 103 of the 400 largest public companies headquartered in California were located in Santa Clara County (the most of all counties), only 8.8% of Silicon Valley companies had women CEOs.[72] This was the lowest percentage in the state.[73] (San Francisco County had 19.2% and Marin County had 18.5%.)[74]
+s outside the Hotel Valencia, in Santana Row, San Jose.]] In November 2006, the University of California, Davis released a report analyzing business leadership by women within the state.[71] The report showed that although 103 of the 400 largest public companies headquartered in California were located in Santa Clara County (the most of all counties), only 8.8% of Silicon Valley companies had women CEOs.[72] This was the lowest percentage in the state.[73] (San Francisco County had 19.2% and Marin County had 18.5%.)[74]
 
 Silicon Valley tech leadership positions are occupied almost exclusively by men.[75] This is also represented in the number of new companies founded by women as well as the number of women-lead startups that receive venture capital funding. Wadhwa said he believes that a contributing factor is a lack of parental encouragement to study science and engineering.[76] He also cited a lack of women role models and noted that most famous tech leaders—like Bill Gates, Steve Jobs, and Mark Zuckerberg—are men.[77]
 
@@ -172,8 +172,6 @@ Funding for public schools in upscale Silicon Valley communities such as Woodsid
 
 Municipalities
 
-Map_of_Norcal_highlighting_Silicon_Valley_tech_clusters.png
-
 The following Santa Clara County cities are traditionally considered to be in Silicon Valley (in alphabetical order):
 
 The geographical boundaries of Silicon Valley have changed over the years, traditionally Silicon Valley is known as Santa Clara County, southern San Mateo County and southern Alameda county.[97] However, over the years this geographical area has been expanded to include San Francisco County, Contra Costa County, and the northern parts of Alameda County and San Mateo County, this shift has occurred due to the expansion in the local economy and the development of new technologies.[98][99]
@@ -185,7 +183,7 @@ In 2015, MIT researchers developed a novel method for measuring which towns are 
 
 Higher education
 
-USA-Santa_Clara-Mission-3.jpg is ranked as one of the best universities in the Western United States by U.S. News & World Report.]]
+is ranked as one of the best universities in the Western United States by U.S. News & World Report.]]
 
 
 Culture

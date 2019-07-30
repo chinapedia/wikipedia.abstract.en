@@ -1,4 +1,4 @@
-A_Farewell_to_Arms_(1932_film)_4.jpg and Adolphe Menjou from the 1932 drama film _A Farewell to Arms_]]
+and Adolphe Menjou from the 1932 drama film _A Farewell to Arms_]]
 
 In a movie a MEDIUM SHOT, MID SHOT (MS),[1] or WAIST SHOT[2] is a camera angle shot from a medium distance.[3]
 
@@ -12,7 +12,7 @@ A normal lens that sees what the human eye see,[11] is usually used for medium s
 
 Definition
 
-Robin_Roberts_interviewing_Barack_Obama.jpg interviewing Barack Obama]] The medium shot shows equality between subjects and background. The dividing line between what constitutes a long shot and medium shot is not definite, nor is the line between medium shot and close-up.[13] In some standard texts and professional references, a full-length view of a human subject is called a medium shot;[14] in this terminology, a shot of the person from the knees up or the waist up is a close-up shot. In other texts, these partial views are called medium shots.[15] In principal, the medium shot is what can be seen with the human eye in a single quick glance and convey all the action taking place in that field of view.[16][17]
+interviewing Barack Obama]] The medium shot shows equality between subjects and background. The dividing line between what constitutes a long shot and medium shot is not definite, nor is the line between medium shot and close-up.[13] In some standard texts and professional references, a full-length view of a human subject is called a medium shot;[14] in this terminology, a shot of the person from the knees up or the waist up is a close-up shot. In other texts, these partial views are called medium shots.[15] In principal, the medium shot is what can be seen with the human eye in a single quick glance and convey all the action taking place in that field of view.[16][17]
 
 
 Types

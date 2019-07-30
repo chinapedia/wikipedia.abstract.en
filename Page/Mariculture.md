@@ -1,9 +1,7 @@
-Aquakultur-Vestmanna.jpg in the Faroe Islands]] MH_Lochailort.jpg in Loch Ailort, Scotland.]] MARICULTURE is a specialized branch of aquaculture involving the cultivation of marine organisms for food and other products in the open ocean, an enclosed section of the ocean, or in tanks, ponds or raceways which are filled with seawater. An example of the latter is the farming of marine fish, including finfish and shellfish like prawns, or oysters and seaweed in saltwater ponds. Non-food products produced by mariculture include: fish meal, nutrient agar, jewellery (e.g. cultured pearls), and cosmetics.
+in the Faroe Islands]] in Loch Ailort, Scotland.]] MARICULTURE is a specialized branch of aquaculture involving the cultivation of marine organisms for food and other products in the open ocean, an enclosed section of the ocean, or in tanks, ponds or raceways which are filled with seawater. An example of the latter is the farming of marine fish, including finfish and shellfish like prawns, or oysters and seaweed in saltwater ponds. Non-food products produced by mariculture include: fish meal, nutrient agar, jewellery (e.g. cultured pearls), and cosmetics.
 
 
 Methods
-
-Fish_farm_Amarynthos_Euboea_Greece.jpg
 
 Algae
 
@@ -50,7 +48,7 @@ In seawater pond mariculture, fish are raised in ponds which receive water from 
 
 Environmental effects
 
-Risks_aquaculture_550.jpg Mariculture has rapidly expanded over the last two decades due to new technology, improvements in formulated feeds, greater biological understanding of farmed species, increased water quality within closed farm systems, greater demand for seafood products, site expansion and government interest.[10][11][12] As a consequence, mariculture has been subject to some controversy regarding its social and environmental impacts.[13][14] Commonly identified environmental impacts from marine farms are:
+Mariculture has rapidly expanded over the last two decades due to new technology, improvements in formulated feeds, greater biological understanding of farmed species, increased water quality within closed farm systems, greater demand for seafood products, site expansion and government interest.[10][11][12] As a consequence, mariculture has been subject to some controversy regarding its social and environmental impacts.[13][14] Commonly identified environmental impacts from marine farms are:
 
 1.  Wastes from cage cultures;
 2.  Farm escapees and invasives;

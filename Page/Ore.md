@@ -1,4 +1,4 @@
-Banded_iron_formation.png ore (banded iron formation)]] Psilomelane-167850.jpg ore – psilomelane (size: 6.7 × 5.8 × 5.1 cm)]] Anglesite-Galena-249200.jpg ore – galena and anglesite (size: 4.8 × 4.0 × 3.0 cm)]] Gold-Quartz-273364.jpg ore (size: 7.5 × 6.1 × 4.1 cm)]] OreCartPachuca.JPG, Mexico]]
+ore (banded iron formation)]] ore – psilomelane (size: 6.7 × 5.8 × 5.1 cm)]] ore – galena and anglesite (size: 4.8 × 4.0 × 3.0 cm)]] ore (size: 7.5 × 6.1 × 4.1 cm)]] , Mexico]]
 
 An ORE is a natural occurrence of rock or sediment that contains sufficient minerals with economically important elements, typically metals, that can be economically extracted from the deposit.[1] The ores are extracted at a profit from the earth through mining; they are then refined (often via smelting) to extract the valuable element, or elements.
 
@@ -40,7 +40,7 @@ Magmatic deposits
 
 Volcanic-related deposits
 
-Classic_VMS_Deposit2.png (VMS) ore deposit]]
+(VMS) ore deposit]]
 
 -   Volcanic hosted massive sulfide (VHMS) Cu-Pb-Zn including;
     -   Examples include Teutonic Bore and Golden Grove, Western Australia
@@ -59,8 +59,6 @@ Carbonatite-alkaline igneous related
 -   Diatreme hosted diamond in kimberlite, lamproite or lamprophyre
 
 Sedimentary deposits
-
-MichiganBIF.jpg
 
 -   Banded iron formation iron ore deposits, including
     -   Channel-iron deposits or pisolite type iron ore
@@ -84,8 +82,6 @@ Astrobleme-related ores
 
 
 Extraction
-
-Simplified_world_mining_map_1.png Simplified_world_mining_map_2.png
 
 The basic extraction of ore deposits follows these steps:
 

@@ -1,5 +1,3 @@
-Utsikt4.JPG
-
 LEARNING THEORY describe how students absorb, process, and retain knowledge during learning. Cognitive, emotional, and environmental influences, as well as prior experience, all play a part in how understanding, or a world view, is acquired or changed and knowledge and skills retained.[1][2]
 
 Behaviorists look at learning as an aspect of conditioning and advocate a system of rewards and targets in education. Educators who embrace cognitive theory believe that the definition of learning as a change in behaviour is too narrow, and study the learner rather than their environment—and in particular the complexities of human memory. Those who advocate constructivism believe that a learner's ability to learn relies largely on what they already know and understand, and the acquisition of knowledge should be an individually tailored process of construction. Transformative learning theory focuses on the often-necessary change required in a learner's preconceptions and world view. Geographical learning theory focuses on the ways that contexts and environments shape the learning process.
@@ -113,7 +111,7 @@ The existence of multiple intelligences is proposed by psychologist Howard Gardn
 
 Multimedia learning
 
-Islington_College_Multimedia_Lab.jpg Multimedia learning refers to the use of visual and auditory teaching materials that may include video, computer and other information technology.[68] Multimedia learning theory focuses on the principles that determine the effective use of multimedia in learning, with emphasis on using both the visual and auditory channels for information processing.
+Multimedia learning refers to the use of visual and auditory teaching materials that may include video, computer and other information technology.[68] Multimedia learning theory focuses on the principles that determine the effective use of multimedia in learning, with emphasis on using both the visual and auditory channels for information processing.
 
 The auditory channel deals with information that is heard, and the visual channel processes information that is seen. The visual channel holds less information than the auditory channel. If both the visual and auditory channels are presented with information, more knowledge is retained. However, if too much information is delivered it is inadequately processed, and long term memory is not acquired. Multimedia learning seeks to give instructors the ability to stimulate both the visual and auditory channels of the learner, resulting in better progress.[69]
 

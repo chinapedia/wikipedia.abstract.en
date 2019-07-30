@@ -82,7 +82,7 @@ Bosnia
 
 Major's premiership saw the ongoing war in Bosnia. Government policy was to maintain the United Nations arms embargo which restricted the flow of weapons into the region and to oppose air strikes against Bosnian Serbs. The Government's reasoning was that an arms embargo would only create a "level killing field" and that air strikes would endanger UN peacekeepers and the humanitarian aid effort. This policy was criticised by Thatcher and others who saw the Bosnian Muslims as the main victims of Serb aggression and compared the situation to events in the Second World War. The Clinton administration, by contrast, was committed to a policy of "lift and strike" (lifting the arms embargo and inflicting air strikes on the Serbs) causing tensions in the "special relationship" (Douglas Hurd and others strongly opposed this policy).
 
-Sea_King_HC4_with_PM_John_Major_Sarajevo_1996.JPEG helicopter carrying Major above the Ilidza Compound in Sarajevo, Bosnia, during Operation Joint Endeavor in 1996.]] Some commentators compared the Major Government's policy to "amoral equivalency" because it appeared to judge the Bosnian Government and the Bosnian Serbs equally culpable.[31] To some extent, these critics of Major's policy were later vindicated when, in an article published in 2011, the then-Defence Secretary Malcolm Rifkind accepted that the arms embargo was a "serious mistake" by the UN.[32]
+helicopter carrying Major above the Ilidza Compound in Sarajevo, Bosnia, during Operation Joint Endeavor in 1996.]] Some commentators compared the Major Government's policy to "amoral equivalency" because it appeared to judge the Bosnian Government and the Bosnian Serbs equally culpable.[31] To some extent, these critics of Major's policy were later vindicated when, in an article published in 2011, the then-Defence Secretary Malcolm Rifkind accepted that the arms embargo was a "serious mistake" by the UN.[32]
 
 Northern Ireland
 
@@ -140,14 +140,14 @@ Legacy
 
 Major's mild-mannered style and moderate political stance contrasted with that of Thatcher, and made him theoretically well-placed to act as a conciliatory and relatively uncontroversial leader of his party. In spite of this, conflict raged within the parliamentary Conservative Party, particularly over the extent of Britain's integration with the European Union. Major never succeeded in reconciling the "Euro-rebels" among his MPs to his European policy, who although relatively few in number, wielded great influence because of his small majority and their wider following among Conservative activists and voters. Episodes such as the Maastricht Rebellion led by Bill Cash and Margaret Thatcher inflicted serious political damage on him and his government. The additional bitterness on the right wing of the Conservative Party at the manner in which Margaret Thatcher had been defenestrated did not make Major's task any easier. A series of scandals among leading Conservative MPs also did Major and his government no favours. His task became even more difficult after the well-received election of Tony Blair as Labour leader in July 1994.[44]
 
-Sir_John_Major_-_geograph.org.uk_-_1367859.jpg in Huntingdon Library]] Major defended his government in his memoirs, focusing particularly on how under him the British economy had recovered from the recession of 1990–1992. He wrote that, "During my premiership interest rates fell from 14% to 6%; unemployment was at 1.75 million when I took office, and at 1.6 million and falling upon my departure; and the government's annual borrowing rose from £0.5 billion to nearly £46 billion at its peak before falling to £1 billion". Ken Clarke stated in 2016 that Major's reputation looked better as time went by, in the same way that Tony Blair's legacy appeared to be in decline.[45]
+in Huntingdon Library]] Major defended his government in his memoirs, focusing particularly on how under him the British economy had recovered from the recession of 1990–1992. He wrote that, "During my premiership interest rates fell from 14% to 6%; unemployment was at 1.75 million when I took office, and at 1.6 million and falling upon my departure; and the government's annual borrowing rose from £0.5 billion to nearly £46 billion at its peak before falling to £1 billion". Ken Clarke stated in 2016 that Major's reputation looked better as time went by, in the same way that Tony Blair's legacy appeared to be in decline.[45]
 
 The former Labour MP Tony Banks said of Major in 1994 that, "He was a fairly competent Chairman of Housing on Lambeth Council. Every time he gets up now I keep thinking, 'What on earth is Councillor Major doing?' I can't believe he's here and sometimes I think he can't either."[46] Paddy Ashdown, the Leader of the Liberal Democrats during Major's term of office, once described him in the House of Commons as a "decent and honourable man". Few observers doubted that he was an honest man, or that he made sincere and sometimes successful attempts to improve life in Britain and to unite his deeply divided party. He was also perceived as a weak and ineffectual figure, and his approval ratings for most of his time in office were low, particularly after "Black Wednesday" in September 1992.[47] Conversely on occasions he attracted criticism for pursuing schemes favoured by the right of his party, notably the privatisation of British Rail.[48]
 
 
 Later life
 
-HM_The_Queen_formally_launched_the_Queen_Elizabeth_II_Academy_for_Leadership_in_International_Affairs_at_Chatham_House_(15207911973).jpg in 2012]]
+in 2012]]
 
 Since leaving office, Major has maintained a low profile, indulging his love of cricket as President of Surrey County Cricket Club until 2002 (and Honorary Life Vice-President since 2002)[49] and commentating on political developments in the manner of an elder statesman.[50] He has been a member of the Carlyle Group's European Advisory Board since 1998 and was appointed Chairman of Carlyle Europe in May 2001.[51] He stood down in August 2004.
 
@@ -184,8 +184,6 @@ In 2010, Major became a key loyalist to the Cameron–Clegg coalition, and state
 In February 2012, Major became chairman of the Queen Elizabeth Diamond Jubilee Trust.[71] The trust was formed as part of the Diamond Jubilee of Elizabeth II, and is intended to support charitable organisations and projects across the Commonwealth of Nations, focusing on areas such as cures for diseases and the promotion of culture and education.[72] Later on in 2012, John Major became President of influential centre-right think tank the Bow Group.[73]
 
 He is currently a president of the Chatham House think tank[74] and advises Credit Suisse.[75]
-
-John_Major_(6357734833).jpg
 
 John Major supports a second referendum over Brexit. He said that the leave campaign put out a “fantasy case” during the 2016 referendum, to describe a second vote as undemocratic was “a rather curious proposition” and he could see no “intellectual argument” against redoing the ballot.[76] Major fears Brexit will make the UK poorer and border problems in Ireland could endanger peace there.[77]
 
@@ -226,7 +224,7 @@ Honours
 
 In the 1999 New Year Honours List, Major was made a Companion of Honour for his work on the Northern Ireland peace process.[83] In a 2003 interview, he spoke about his hopes for peace in the region.[84]
 
-John_Major_in_Garter_procession.jpg]] On 23 April 2005, Major was bestowed with a knighthood as a Companion of the Order of the Garter by Queen Elizabeth II. He was installed at St George's Chapel, Windsor on 13 June. Membership of the Order of the Garter is limited in number to 24, and as a personal gift of the Queen is an honour traditionally bestowed on former Prime Ministers.[85] Major had previously declined a life peerage on standing down from Parliament.[86]
+]] On 23 April 2005, Major was bestowed with a knighthood as a Companion of the Order of the Garter by Queen Elizabeth II. He was installed at St George's Chapel, Windsor on 13 June. Membership of the Order of the Garter is limited in number to 24, and as a personal gift of the Queen is an honour traditionally bestowed on former Prime Ministers.[85] Major had previously declined a life peerage on standing down from Parliament.[86]
 
 On 20 June 2008, Major was granted the Freedom of the City of Cork.[87]
 
@@ -243,7 +241,7 @@ Personal life
 
 Major married Norma Johnson (now Dame Norma Major) on 3 October 1970 at St Matthew's Church, Brixton.[91] She was a teacher and a member of the Young Conservatives. They met on polling day for the Greater London Council elections in London, and became engaged after only ten days.[92] They had two children; a son, James, and a daughter, Elizabeth. They have a holiday home on the coast of north Norfolk, near Weybourne, which has round-the-clock police surveillance.[93]
 
-Major00.jpg Major's elder brother, Terry, who died in 2007, became a minor media personality during Major's period in Downing Street, with a 1994 autobiography, _Major Major_. He also wrote newspaper columns, and appeared on TV shows such as _Have I Got News for You_. He faced criticism about his brother but always remained loyal.
+Major's elder brother, Terry, who died in 2007, became a minor media personality during Major's period in Downing Street, with a 1994 autobiography, _Major Major_. He also wrote newspaper columns, and appeared on TV shows such as _Have I Got News for You_. He faced criticism about his brother but always remained loyal.
 
 Sir John's daughter Elizabeth married Luke Salter on 26 March 2000,[94] having been in a relationship since 1988.[95] Salter died on 22 November 2002 from cancer.[96]
 

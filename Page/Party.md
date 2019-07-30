@@ -1,4 +1,4 @@
-Hipp_hipp_hurra!_Konstnärsfest_på_Skagen_-_Peder_Severin_Krøyer.jpg'' (1888) by Peder Severin Krøyer, a painting portraying an artists' party in 19th century Denmark]] Selborne_Road_-_Victory_Street_Party_Sep_1,_1945_-_geograph.org.uk_-_447551.jpg in Selborne Road, Kent, celebrating victory in the Second World War]] A PARTY is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration of a special occasion. A party will typically feature food and beverages, and often music and dancing or other forms of entertainment. In many Western countries, parties for teens and adults are associated with drinking alcohol such as beer, wine, or distilled spirits.
+'' (1888) by Peder Severin Krøyer, a painting portraying an artists' party in 19th century Denmark]] in Selborne Road, Kent, celebrating victory in the Second World War]] A PARTY is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration of a special occasion. A party will typically feature food and beverages, and often music and dancing or other forms of entertainment. In many Western countries, parties for teens and adults are associated with drinking alcohol such as beer, wine, or distilled spirits.
 
 
 Description
@@ -10,7 +10,7 @@ Types of parties
 
 Birthday party
 
-Birthday_candles.jpg with lit novelty candles]] Birthday_party.jpg A birthday party is a celebration of the anniversary of the birth of the person who is being honored. The tradition started in the mid-nineteenth century but did not become popular until the mid-twentieth century.[1] Birthday parties are now a feature of many cultures.
+with lit novelty candles]] A birthday party is a celebration of the anniversary of the birth of the person who is being honored. The tradition started in the mid-nineteenth century but did not become popular until the mid-twentieth century.[1] Birthday parties are now a feature of many cultures.
 
 In Western cultures, birthday parties include a number of common rituals. The guests may be asked to bring a gift for the honored person. Party locations are often decorated with colorful decorations, such as balloons and streamers. A birthday cake is usually served with lit candles that are to be blown out after a "birthday wish" has been made. The person being honored will be given the first piece of cake. While the birthday cake is being brought to the table, the song "Happy Birthday to You" or some other birthday song is sung by the guests.
 
@@ -28,7 +28,7 @@ The guests might even conceal themselves from view, and when the honored person 
 
 Dinner party
 
-Imaginative_formal_dinner_party_sketched_by_Marguerite_Martyn_in_1920.jpg]] A dinner party is a social gathering at which people eat dinner together, usually in the host's home. At the most formal dinner parties, the dinner is served on a dining table with place settings. Dinner parties are often preceded by a cocktail hour in a living room or bar, where guests drink cocktails while mingling and conversing.[2] Wine is usually served throughout the meal, often with a different wine accompanying each course.
+]] A dinner party is a social gathering at which people eat dinner together, usually in the host's home. At the most formal dinner parties, the dinner is served on a dining table with place settings. Dinner parties are often preceded by a cocktail hour in a living room or bar, where guests drink cocktails while mingling and conversing.[2] Wine is usually served throughout the meal, often with a different wine accompanying each course.
 
 At less formal dinner parties, a buffet is provided. Guests choose food from the buffet and eat while standing up and conversing. Women guests may wear cocktail dresses; men may wear blazers.
 
@@ -44,13 +44,13 @@ A cocktail party is a party at which cocktails are served. It is sometimes calle
 
 Tea party
 
-StateLibQld_1_137422_Tea_party_in_the_garden,_possibly_at_Nanango,_1900-1910.jpg In Anglo-American culture, a tea party is a formal gathering for afternoon tea. These parties were traditionally attended only by women, but men may also be invited. Tea parties are often characterized by the use of prestigious tableware, such as bone china and silver. The table, whatever its size or cost, is made to look its prettiest, with cloth napkins and matching cups and plates.
+In Anglo-American culture, a tea party is a formal gathering for afternoon tea. These parties were traditionally attended only by women, but men may also be invited. Tea parties are often characterized by the use of prestigious tableware, such as bone china and silver. The table, whatever its size or cost, is made to look its prettiest, with cloth napkins and matching cups and plates.
 
 In addition to tea, larger parties may serve punch or, in cold weather, hot chocolate. The tea is accompanied by a variety of easily managed foods. Thin sandwiches such as cucumber or tomato, bananas, cake slices, buns, and cookies are all common choices.
 
 Reception
 
-Rochester_Contemporary_Art_Center_Opening_Reception.jpg Formal receptions are parties that are designed to receive a large number of guests, often at prestigious venues such as Buckingham Palace, the White House or Government Houses of the British Empire and Commonwealth. The hosts and any guests of honor form a receiving line in order of precedence near the entrance. Each guest is announced to the host who greets each one in turn as he or she arrives. Each guest properly speaks little more than his name (if necessary) and a conventional greeting or congratulation to each person in the receiving line. In this way, the line of guests progresses steadily without unnecessary delay. After formally receiving each guest in this fashion, the hosts may mingle with the guests.
+Formal receptions are parties that are designed to receive a large number of guests, often at prestigious venues such as Buckingham Palace, the White House or Government Houses of the British Empire and Commonwealth. The hosts and any guests of honor form a receiving line in order of precedence near the entrance. Each guest is announced to the host who greets each one in turn as he or she arrives. Each guest properly speaks little more than his name (if necessary) and a conventional greeting or congratulation to each person in the receiving line. In this way, the line of guests progresses steadily without unnecessary delay. After formally receiving each guest in this fashion, the hosts may mingle with the guests.
 
 Somewhat less formal receptions are common in academic settings, sometimes to honor a guest lecturer, or to celebrate a special occasion such as retirement of a respected member of staff. Receptions are also common in symposium or academic conference settings, as an environment for attendees to mingle and interact informally. These gatherings may be accompanied by a sit-down dinner, or more commonly, a stand-up informal buffet meal.
 
@@ -68,7 +68,7 @@ Famous soirée hostesses include Hester Thrale.
 
 Dances and balls
 
-Assyrianfolkdance.jpg in an Assyrian party, Chicago, USA.]] A dance is a social gathering at which the guests dance. It may be a casual, informal affair or a structured event, such as a school dance or a charity ball. Dances usually take place during the evening. An afternoon dance is formally known as a tea dance. Some dances feature specific kinds of dancing, such as square dancing.
+in an Assyrian party, Chicago, USA.]] A dance is a social gathering at which the guests dance. It may be a casual, informal affair or a structured event, such as a school dance or a charity ball. Dances usually take place during the evening. An afternoon dance is formally known as a tea dance. Some dances feature specific kinds of dancing, such as square dancing.
 
 A ball is a large formal party that features ballroom dancing. Women guests wear ball gowns; men wear evening dress.
 
@@ -88,7 +88,7 @@ In Spain, this type of party is called _El Aguinaldo_. It is the same as in Engl
 
 Parties for teenagers and young adults
 
-The_Adicts_2011_SO36_03.jpg supported by a live band (SO36, Berlin)]] Dance parties are gatherings in bars or community centers where the guests dance to house music, techno music, or disco. The music for dance parties is usually selected and played by a disc jockey.
+supported by a live band (SO36, Berlin)]] Dance parties are gatherings in bars or community centers where the guests dance to house music, techno music, or disco. The music for dance parties is usually selected and played by a disc jockey.
 
 A spin-off of dance parties, the rave involves dancing to loud house music, techno music, or industrial music. Rave parties may be attended by as few as a score of people in a basement or, more likely, by a few hundred people in a club, to as many as thousands in a large warehouse, field, or even tens of thousands in a sporting arena, amusement park, or other large space. Raves are associated with illegal drugs such as Ecstasy and psychedelic drugs.
 
@@ -116,15 +116,13 @@ A fundraising party, or fundraiser, is a party that is held for the purpose of c
 
 It is very common to charge an admission fee for parties of this kind. This fee may be as high as several thousand dollars, especially if money is being raised for a political campaign.
 
-Graduation_party.jpg
-
 Graduation party
 
 In some places, parties to celebrate graduation from school, college or university are popular.
 
 Marriage-related parties
 
-Pieter_Brueghel_de_Jonge_-_Bruiloftsmaal_voor_een_boerenhuis.jpg c. 1620]]
+c. 1620]]
 
 -   Bridal shower
 -   Bachelor party (a.k.a. UK: stag night; Australia: Bucks Night)
@@ -165,7 +163,7 @@ An after-party is a party that is held after a musical or theatrical performance
 
 Parties on special days
 
-Isaac_Oliver_I_-_A_Party_in_the_Open_Air._Allegory_on_Conjugal_Love_-_Google_Art_Project.jpg, c. 1590]] INTERNATIONAL
+, c. 1590]] INTERNATIONAL
 
 -   Christmas
 -   Halloween
@@ -286,7 +284,7 @@ JEWISH
 
 Notable parties
 
-Airpusher_Art_Car_at_Burning_Man.jpg built by the Airpusher Collective at Burning Man 2014]]
+built by the Airpusher Collective at Burning Man 2014]]
 
 -   Exotic Erotic Ball
 -   Burning Man
@@ -299,7 +297,7 @@ Airpusher_Art_Car_at_Burning_Man.jpg built by the Airpusher Collective at Burnin
 
 Miscellaneous parties
 
-BackyardParty.jpg]]
+]]
 
 Game party
     A social gathering during which the guests play party games or board games.

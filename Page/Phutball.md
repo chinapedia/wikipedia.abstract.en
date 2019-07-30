@@ -1,5 +1,3 @@
-phutball_opening.svg
-
 PHUTBALL (short for PHILOSOPHER'S FOOTBALL) is a two-player abstract strategy board game described in Elwyn Berlekamp, John Horton Conway, and Richard K. Guy's _Winning Ways for your Mathematical Plays_.
 
 
@@ -12,8 +10,6 @@ As specialized phutball boards are hard to come by, the game is usually played o
 The objective is to score goals by using the men (the black stones) to move the football (the white stone) onto or over the opponent's goal line. Ohs tries to move the football to rows 19 or 20 and Eks to rows 1 or 0. At the start of the game the football is placed on the central point, unless one player gives the other a handicap, in which case the ball starts nearer one player's goal.
 
 Players alternate making moves. A move is either to add a man to any vacant point on the board or to move the ball. There is no difference between men played by Ohs and those played by Eks.
-
-phutball_jump.svg
 
 The football is moved by a series of jumps over adjacent men. Each jump is to the first vacant point in a straight line horizontally, vertically, or diagonally over one or more men. The jumped men are then removed from the board (before any subsequent jump occurs). This process repeats for as long as there remain men available to be jumped and the player desires. Jumping is optional: there is no requirement to jump. In contrast to checkers, multiple men in a row are jumped and removed as a group.
 

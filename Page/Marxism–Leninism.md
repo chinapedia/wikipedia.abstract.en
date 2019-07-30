@@ -9,7 +9,7 @@ Critical of Stalin's political economy and single-party government in the USSR, 
 
 Background
 
-Stalin-Lenin-Kalinin-1919.jpg Stalin, Lenin and Mikhail Kalinin in 1919]]
+Stalin, Lenin and Mikhail Kalinin in 1919]]
 
 Leninism
 
@@ -38,7 +38,7 @@ Economy
 
 The goal of Marxist–Leninist political economy is the emancipation of men and women from the dehumanisation caused by mechanistic work that is psychologically alienating (without work–life balance), which is performed in exchange for wages that give limited financial-access to the material necessities of life (i.e. food and shelter). That personal and societal emancipation from poverty (material necessity) would maximise individual liberty, by enabling men and women to pursue their interests and innate talents (artistic, intellectual, industrial, etc.) whilst working by choice, without the economic coercion of poverty. In the communist society of upper-stage economic development, the elimination of alienating labour (mechanistic work) depends upon the developments of high technology that improve the means of production and the means of distribution.
 
-“Strengthen_working_discipline_in_collective_farms”_–_Uzbek,_Tashkent,_1933_(Mardjani).jpg encouraged peasants and farmers to strengthen working discipline in collective farms in the Azeri Soviet Socialist Republic (Azerbaijan)]] To meet the material needs of a socialist society, the Marxist–Leninist state uses a planned economy to co-ordinate the means of production and of distribution to supply and deliver the goods and services required throughout society and the national economy.[29] The wages of the worker are determined according to the type of skills and the type of work he or she can perform within the national economy.[30] Moreover, the economic value of the goods and services produced is based upon their use value (as material objects) and not upon the cost of production ("value") or the exchange value (marginal utility).[31]
+encouraged peasants and farmers to strengthen working discipline in collective farms in the Azeri Soviet Socialist Republic (Azerbaijan)]] To meet the material needs of a socialist society, the Marxist–Leninist state uses a planned economy to co-ordinate the means of production and of distribution to supply and deliver the goods and services required throughout society and the national economy.[29] The wages of the worker are determined according to the type of skills and the type of work he or she can perform within the national economy.[30] Moreover, the economic value of the goods and services produced is based upon their use value (as material objects) and not upon the cost of production ("value") or the exchange value (marginal utility).[31]
 
 In the 1920s, the Bolshevik government's economic development realised the rapid industrialisation of the Soviet Union with pragmatic programs of social engineering that transplanted peasant populations to the cities, where they were educated and trained as industrial workers, and then became the workforce of the new factories and industries. Likewise, the farmer populations worked the system of collective farms to grow food to feed the industrial workers in the industrialised cities. Hence, in the 1930s, the Marxist–Leninist society of Russia featured austere social-equality, based upon asceticism, egalitarianism, and self-sacrifice — yet the Bolshevik Party recognised human nature, and semi-officially allowed some limited, small-scale capitalism to stimulate the economy of the Soviet Union.[32]
 
@@ -46,7 +46,7 @@ In Orthodox Marxism, the socialist society originally was equivalent to the comm
 
 Society
 
-Чтобы_больше_иметь_—_надо_больше_производить._Чтобы_больше_производить_—_надо_больше_знать.jpg which reads the following: "In order to have more, it is necessary to produce more. In order to produce more, it is necessary to know more."]]
+which reads the following: "In order to have more, it is necessary to produce more. In order to produce more, it is necessary to know more."]]
 
 To develop a communist society, the Marxist–Leninist state provides for the national welfare with universal healthcare, free public education (academic, technical, professional), and the social benefits (childcare, continuing education, etc.) necessary to increase the productivity of the workers, and thus the socialist economy.[35] As part of the planned economy, the welfare state is meant to develop the proletariat's education (academic and technical) and their class consciousness (political education) to facilitate their contextual understanding of the historical development of communism, as presented in Marx's theory of history.[36]
 
@@ -56,7 +56,7 @@ Marxist–Leninist cultural policy modernises social relations among citizens by
 
 Church–State relations
 
-Christ_saviour_explosion.jpg in the Soviet Union, Joseph Stalin ordered in 1931 the razing of the Cathedral of Christ the Saviour in Moscow]] The Marxist–Leninist world view is atheist, wherein all human activity results from human volition, and not the will of supernatural beings (gods, goddesses, and demons) who have direct agency in the public and private affairs of human society.[41][42] The tenets of the Soviet Union's national policy of Marxist–Leninist atheism originated from the philosophies of Georg Wilhelm Friedrich Hegel (1770–1831) and Ludwig Feuerbach (1804–1872), and of Karl Marx (1818–1883) and Lenin (1870–1924).[43]
+in the Soviet Union, Joseph Stalin ordered in 1931 the razing of the Cathedral of Christ the Saviour in Moscow]] The Marxist–Leninist world view is atheist, wherein all human activity results from human volition, and not the will of supernatural beings (gods, goddesses, and demons) who have direct agency in the public and private affairs of human society.[41][42] The tenets of the Soviet Union's national policy of Marxist–Leninist atheism originated from the philosophies of Georg Wilhelm Friedrich Hegel (1770–1831) and Ludwig Feuerbach (1804–1872), and of Karl Marx (1818–1883) and Lenin (1870–1924).[43]
 
 As a basis of Marxism–Leninism, the philosophy of materialism (the physical universe exists independently of human consciousness) is applied as dialectical materialism (a philosophy of science and Nature) to examine the socio-economic relations among people and things, as parts of a dynamic, material world that is unlike the immaterial world of Metaphysics.[44][45][46] The Soviet astrophysicist Vitaly Ginzburg said that, ideologically, the "Bolshevik communists were not merely atheists, but, according to Lenin's terminology, _militant atheists_" in excluding religion from the social mainstream, from education, and from government.[47]
 
@@ -77,7 +77,7 @@ The philosophy of Marxism–Leninism originated as the pro-active, political pra
 
 February Revolution (1905–1907)
 
-Bundesarchiv_Bild_183-H28740,_St._Petersburg,_Eröffnung_der_Parlamente.jpg, Tsar Nicholas II addressed the two chambers of the Duma, at the Winter Palace]] LeninEnSuizaMarzo1916--barbaroussovietr00mcbr.png to Switzerland in March 1905]]
+, Tsar Nicholas II addressed the two chambers of the Duma, at the Winter Palace]] to Switzerland in March 1905]]
 
 Twelve years before the October Revolution in 1917, the Bolsheviks had failed to assume control of the February Revolution of 1905 (22 January 1905– 16 June 1907) because the centres of revolutionary action were too far apart for proper political co-ordination.[55] To generate revolutionary momentum — from the Tsarist army's killings on Bloody Sunday (22 January 1905) — the Bolsheviks advocated that workers use political violence to compel the bourgeois social classes (the nobility, the gentry, the bourgeoisie) to join the proletarian revolution to overthrow the absolute monarchy of the Tsar of Russia.[56]
 
@@ -93,7 +93,7 @@ Late in 1917 — to relieve strategic pressures from the Western Front (4 August
 
 October Revolution (1917) & Civil War (1918–1925)
 
-Alfred_Grohs_zur_Revolution_1918_1919_in_Berlin_Große_Frankfurter_Straße_Ecke_Lebuser_Straße_Barrikade_Kampf_während_der_Novemberrevolution_in_Berlin_02_Bildseite_Schaulustige.jpg in the Weimar Republic featured urban warfare between the Communist Party of Germany (KPD) and anti-communists, secretly aided by the Imperial German government led by the Social Democratic Party of Germany (SPD)]]
+in the Weimar Republic featured urban warfare between the Communist Party of Germany (KPD) and anti-communists, secretly aided by the Imperial German government led by the Social Democratic Party of Germany (SPD)]]
 
 In March 1917, the abdication of Tsar Nicholas II led to the Russian Provisional Government (March–July 1917), who then proclaimed the Russian Republic (September–November 1917). Later, in the October Revolution, the Bolshevik's _coup d'état_ against the Provisional Government resulted in their establishment of the Russian Soviet Federative Socialist Republic (1917–1991); yet parts of Russia remained occupied by the counter-revolutionary White Movement of anti-communists who had united to form the White Army to fight the Russian Civil War (1917–1922) against the Bolshevik government.
 
@@ -109,7 +109,7 @@ New Economic Policy
 
 In 1921, the New Economic Policy restored some private enterprise to animate the Russian economy. As part of Lenin's pragmatic compromise with external financial interests in 1918, Bolshevik state capitalism temporarily returned 91 per cent of industry to private ownership—until the Soviet Russians learned to operate and administrate said industries.[73][74] In that vein, Lenin explained that developing socialism in Russia would proceed according to the material and socio-economic conditions of Russia and not as described by Marx in the 19th century. Lenin's pragmatic explanation was the following: "Our poverty is so great that we cannot, at one stroke, restore full-scale factory, state, socialist production".[75] To overcome the lack of educated Russians who could operate and administrate industry, Lenin advocated the development of a technical intelligentsia who would propel the industrial development of Russia to self-sufficiency.[76]
 
-Bela.Kun.Revolution.1919.jpg, leader of the Hungarian Soviet Republic, speaks to supporters during the Hungarian Revolution of 1919]] The principal obstacles to Russian economic development and modernisation were great material poverty and the lack of modern technology, which conditions orthodox Marxism considered unfavourable to communist revolution; and that agricultural Russia was right for developing capitalism, but wrong for the development of socialism.[77][78] The 1921–1924 period was tumultuous in Russia, with the simultaneous occurrence of economic recovery, famine (1921–1922) and a financial crisis (1924).[79] By 1924, the Bolshevik government had achieved much economic progress and by 1926 the production levels of the Soviet Union's economy had risen to the production levels registered in 1913.[80]
+, leader of the Hungarian Soviet Republic, speaks to supporters during the Hungarian Revolution of 1919]] The principal obstacles to Russian economic development and modernisation were great material poverty and the lack of modern technology, which conditions orthodox Marxism considered unfavourable to communist revolution; and that agricultural Russia was right for developing capitalism, but wrong for the development of socialism.[77][78] The 1921–1924 period was tumultuous in Russia, with the simultaneous occurrence of economic recovery, famine (1921–1922) and a financial crisis (1924).[79] By 1924, the Bolshevik government had achieved much economic progress and by 1926 the production levels of the Soviet Union's economy had risen to the production levels registered in 1913.[80]
 
 Revolutionary consequences
 
@@ -118,9 +118,9 @@ Elsewhere, the successful October Revolution in Russia facilitated the German Re
 
 Stalin assumes power
 
-Vladimir_Lenin_on_the_front_page_of_Projector_(Spotlight)_issue_15_dated_15_Sep_1923.jpg ordered the removal of Stalin as General Secretary of the Communist Party of the Soviet Union because of his abusive personality]]
+ordered the removal of Stalin as General Secretary of the Communist Party of the Soviet Union because of his abusive personality]]
 
-Stalin-Bukharin_(cropped).jpg from the Communist Party, Stalin and Nikolai Bukharin expediently joined forces to achieve Stalin's control of the Communist Party]]
+from the Communist Party, Stalin and Nikolai Bukharin expediently joined forces to achieve Stalin's control of the Communist Party]]
 
 Lenin's warning
 
@@ -156,7 +156,7 @@ In the 1937–1938 period, the NKVD arrested 1.5 million people, purged from eve
 
 Socialism in one country (1929–1941)
 
-Bundesarchiv_Bild_183-R85625,_Sowjetunion,_Hüttenkombinat_in_Magnitogorsk.jpg in 1929 demonstrates the Soviet Union's rapid industrialisation in the 1920s and 1930s]]
+in 1929 demonstrates the Soviet Union's rapid industrialisation in the 1920s and 1930s]]
 
 Rapid industrialisation
 
@@ -176,7 +176,7 @@ To challenge Nazi Germany's bid for European empire and hegemony, Stalin promote
 
 Great Patriotic War (1941–1945)
 
-Long-march.jpg cadre-leader addresses survivors of the 1934–1935 Long March]] Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B&W).jpg (4–11 February 1945), Winston Churchill, Franklin D. Roosevelt and Stalin established the post-war order of the world with geopolitical spheres of influence under their hegemony]]
+cadre-leader addresses survivors of the 1934–1935 Long March]] (4–11 February 1945), Winston Churchill, Franklin D. Roosevelt and Stalin established the post-war order of the world with geopolitical spheres of influence under their hegemony]]
 
 In the 1941–1942 period of the Great Patriotic War, the German invasion of the Soviet Union (Operation Barbarossa, 22 June 1941) was ineffectively opposed by the Red Army, who were poorly led, ill-trained, and under-equipped; hence fought poorly and suffered great losses of soldiers (killed, wounded, and captured). The weakness of the Red Army was consequence of the Great Purge (1936–1938) of senior officers and career soldiers whom Stalin considered politically unreliable.[119] Strategically, the _Wehrmacht_'s extensive and effective attack threatened the territorial integrity of the Soviet Union, and the political integrity of Stalin's model of a Marxist–Leninist state, when the Nazis were initially welcomed as liberators by the anti-communist and nationalist populations in the Byelorussian Soviet Socialist Republic, the Georgian Soviet Socialist Republic, and the Ukrainian Soviet Socialist Republic.
 
@@ -190,7 +190,7 @@ In 1943, the Red Army began to repel the Nazi invasion of the Soviet Union, espe
 
 Cold War (1945–1991)
 
-Mao_proclaiming_the_establishment_of_the_PRC_in_1949.jpg (1946–1949) concluded when Mao Zedong declared the establishment of the People's Republic of China on 1 October 1949.]] John_Kennedy,_Nikita_Khrushchev_1961.jpg facilitated Russian and Chinese rapprochement with the U.S., and expanded East–West geopolitics into a tri-polar Cold War that allowed Premier Nikita Khrushchev to meet with President John F. Kennedy, in June 1961.]]
+(1946–1949) concluded when Mao Zedong declared the establishment of the People's Republic of China on 1 October 1949.]] facilitated Russian and Chinese rapprochement with the U.S., and expanded East–West geopolitics into a tri-polar Cold War that allowed Premier Nikita Khrushchev to meet with President John F. Kennedy, in June 1961.]]
 
 Upon Allied victory concluding the Second World War (1939–1945), the members of the Grand Alliance resumed their expediently suppressed, pre-war geopolitical rivalries and ideological tensions, which disunity broke their anti-fascist wartime alliance into the anti–Communist Western Bloc and the Communist Eastern Bloc. The renewed competition for geopolitical hegemony resulted in the bi-polar Cold War (1945–1991), a protracted state of tension (military and diplomatic) between the US and the USSR, which often threatened a Russo–American nuclear war, but usually featured proxy wars in the Third World.[122]
 
@@ -201,7 +201,7 @@ In Eastern Asia, the Cold War produced the Korean War (1950–1953), the first p
 
 De-Stalinization
 
-Josip_Broz_Tito_uniform_portrait.jpg's rejection of Soviet hegemony upon the Socialist Federal Republic of Yugoslavia provoked Stalin to expel the Yugoslav leader and Yugoslavia from the Eastern Bloc.]]
+'s rejection of Soviet hegemony upon the Socialist Federal Republic of Yugoslavia provoked Stalin to expel the Yugoslav leader and Yugoslavia from the Eastern Bloc.]]
 
 Yugoslavia
 
@@ -222,7 +222,7 @@ Consequent to the Sino-Soviet split, the pragmatic PRC established politics of _
 
 Marxist–Leninist revolution
 
-CheyFidel.jpg and Fidel Castro, leader of the Republic of Cuba from 1959 to 2008, successfully led to victory the Cuban Revolution in 1959.]]
+and Fidel Castro, leader of the Republic of Cuba from 1959 to 2008, successfully led to victory the Cuban Revolution in 1959.]]
 
 Latin America
 
@@ -246,7 +246,7 @@ In 1970, the October Crisis (5 October – 28 December 1970) occurred in Canada,
 
 Eastern Asia
 
-Nlfmainforce.jpg guerillas during the Vietnam War]]
+guerillas during the Vietnam War]]
 
 Vietnam
 

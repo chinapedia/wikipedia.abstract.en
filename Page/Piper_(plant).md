@@ -26,7 +26,7 @@ As spice and vegetable
 
 Culinary use of pepper plants is attested perhaps as early as 9,000 years ago. Peppercorn remains were found among the food refuse left by Hoabinhian artisans at Spirit Cave, Thailand. It is not very likely that these plants were deliberately grown rather than collected from the wild.[2][3]
 
-Pfeffer-Gewürz.jpg (_Piper nigrum_) corns, from left to right:
+(_Piper nigrum_) corns, from left to right:
 Green (pickled ripe fruits)
 White (dried ripe seeds)
 Black (dried unripe fruits)]] Use of peppercorns as pungent spice is significant on an international scale. In classical antiquity, there was a vigorous trade of spices including black pepper (_P. nigrum_) from South Asia to Europe already. The _Apicius_, a recipe collection complied about 400 AD, mentions "pepper" as a spice for most main dishes.[4] Judging from the _Apicius_, in the late Roman Empire, black pepper was probably still expensive, but nevertheless seems to have been available readily enough to be used more frequently than salt or sugar. As Europe moved into the Early Middle Ages, trade routes deteriorated and the use of pepper declined somewhat.
@@ -41,7 +41,7 @@ Not only the seeds of _Piper_ are used in cooking. West African Pepper leaves, k
 
 As medicine
 
-Faikava.jpg]] Cubeb (_P. cubeba_) has been used in folk medicine, herbalism and related fields (e.g. alchemy, folk magic or exorcism), as well as, particularly in the early 20th century, as a cigarette flavoring. _P. darienense_ is used medically by the Kuna people of the Panama-Colombia border region, and elsewhere it is used to intoxicate fish which then can be easily caught. Spiked pepper, often called _"matico"_ (Except in Ecuador, where that name is used for _Aristeguietia glutinosa_), appears to have strong disinfectant and antibiotic properties. Black pepper (_P. nigrum_) essential oil is sometimes used in herbalism, and long pepper (_P. longum_) is similarly employed in Ayurveda, where it was an ingredient of _Triphala Guggulu_ and (together with black pepper) of _Trikatu_ pills, used for _rasayana_ (rejuvenating and detoxifying) purposes.
+]] Cubeb (_P. cubeba_) has been used in folk medicine, herbalism and related fields (e.g. alchemy, folk magic or exorcism), as well as, particularly in the early 20th century, as a cigarette flavoring. _P. darienense_ is used medically by the Kuna people of the Panama-Colombia border region, and elsewhere it is used to intoxicate fish which then can be easily caught. Spiked pepper, often called _"matico"_ (Except in Ecuador, where that name is used for _Aristeguietia glutinosa_), appears to have strong disinfectant and antibiotic properties. Black pepper (_P. nigrum_) essential oil is sometimes used in herbalism, and long pepper (_P. longum_) is similarly employed in Ayurveda, where it was an ingredient of _Triphala Guggulu_ and (together with black pepper) of _Trikatu_ pills, used for _rasayana_ (rejuvenating and detoxifying) purposes.
 
 One _Piper_ species has gained large-scale use as a stimulant. Betel (_P. betle_) leaves are used to wrap betel palm nut slices; its sap helps release the stimulating effect of these "cookies" which are widely known as _pan_ in India.
 
@@ -53,7 +53,7 @@ In science
 
 The genus contains species suitable for studying natural history, molecular biology, natural products chemistry, community ecology, and evolutionary biology.[10]
 
-Piperine_crystals.jpglized piperine, extracted from black pepper (_Piper nigrum_)]] _Piper_ is a model genus for research in ecology and evolutionary biology. The diversity and ecological importance of the genus makes it an obvious candidate for ecological and evolutionary studies, though not surprisingly, most research has focused on the economically important species _P. nigrum_ (black pepper), _P. methysticum_ (kava), and _P. betle_ (betel).
+lized piperine, extracted from black pepper (_Piper nigrum_)]] _Piper_ is a model genus for research in ecology and evolutionary biology. The diversity and ecological importance of the genus makes it an obvious candidate for ecological and evolutionary studies, though not surprisingly, most research has focused on the economically important species _P. nigrum_ (black pepper), _P. methysticum_ (kava), and _P. betle_ (betel).
 
 The obligate and facultative ant mutualists found in some _Piper_ species have a strong influence on their biology, making them ideal systems for research on the evolution of symbioses and the effect of mutualisms on biotic communities.
 

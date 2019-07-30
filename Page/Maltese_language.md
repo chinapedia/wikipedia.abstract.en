@@ -9,7 +9,7 @@ Maltese has always been written in the Latin script, the earliest surviving exam
 
 History
 
-Il-Kantilena.png'' by Pietru Caxaro, the oldest text in Maltese language, 15th century]] Lexicon_-_Vassalli_-_1796.jpg, 1796]] Teaching_in_Mosta.jpg, 1935]] Ghaqda_tal-Kittieba_tal-Malti_-_1924.jpg
+'' by Pietru Caxaro, the oldest text in Maltese language, 15th century]] , 1796]] , 1935]]
 
 The origins of the Maltese language are attributed to the arrival, early in the eleventh century, of settlers from neighbouring Sicily, where Siculo-Arabic was spoken, following the Fatimid Caliphate's conquest of the island at the end of the ninth century.[16] This claim has been corroborated by genetic studies, which show that contemporary Maltese people share common ancestry with Sicilians and Calabrians, with little genetic input from North Africa and the Levant.[17][18]
 

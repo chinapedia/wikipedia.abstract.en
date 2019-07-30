@@ -9,7 +9,7 @@ Josephus recorded Jewish history, with special emphasis on the first century CE 
 
 Biography
 
-Ancient_Galilee.jpg, site of Josephus's governorship, before the First Jewish–Roman War]] Born into one of Jerusalem's elite families,[8] Josephus introduces himself in Greek as'' Iōsēpos'' (Ιώσηπος), son of Matthias, an ethnic Jewish priest. He was the second-born son of Matthias. His older full-blooded brother was also called Matthias. Their mother was an aristocratic woman who descended from the royal and formerly ruling Hasmonean dynasty. Josephus's paternal grandparents were Josephus and his wife—an unnamed Hebrew noblewoman, distant relatives of each other and direct descendants of Simon Psellus.[9] Josephus's family was wealthy. He descended through his father from the priestly order of the Jehoiarib, which was the first of the 24 orders of priests in the Temple in Jerusalem. Josephus was a descendant of the high priest Jonathon. He was raised in Jerusalem and educated alongside his brother.
+, site of Josephus's governorship, before the First Jewish–Roman War]] Born into one of Jerusalem's elite families,[8] Josephus introduces himself in Greek as'' Iōsēpos'' (Ιώσηπος), son of Matthias, an ethnic Jewish priest. He was the second-born son of Matthias. His older full-blooded brother was also called Matthias. Their mother was an aristocratic woman who descended from the royal and formerly ruling Hasmonean dynasty. Josephus's paternal grandparents were Josephus and his wife—an unnamed Hebrew noblewoman, distant relatives of each other and direct descendants of Simon Psellus.[9] Josephus's family was wealthy. He descended through his father from the priestly order of the Jehoiarib, which was the first of the 24 orders of priests in the Temple in Jerusalem. Josephus was a descendant of the high priest Jonathon. He was raised in Jerusalem and educated alongside his brother.
 
 In his early twenties, he traveled to negotiate with Emperor Nero for the release of 12 Jewish priests. Upon his return to Jerusalem, at the outbreak of the First Jewish–Roman War, Josephus was appointed the military governor of Galilee,[10] but eventually he strove with John of Gischala over the control of Galilee, who like Josephus, had amassed to himself a large band of supporters from Gischala (Gush Halab) and Gabara, including the support of the Sanhedrin in Jerusalem.[11] Josephus fortified several towns and villages in Galilee, among which were Tiberias, Bersabe, Selamin and Tarichaea, in anticipation of a Roman onslaught, and resisted the Roman army in its siege of Yodfat (Jotapata) until it fell to the Roman army in the lunar month of Tammuz, in the thirteenth year of Nero's reign.
 
@@ -32,7 +32,7 @@ Author Joseph Raymond calls Josephus "the Jewish Benedict Arnold" for betraying 
 
 Scholarship
 
-Josephusbust.jpg, Copenhagen, Denmark]]
+, Copenhagen, Denmark]]
 
 The works of Josephus provide crucial information about the First Jewish-Roman War and also represent important literary source material for understanding the context of the Dead Sea Scrolls and late Temple Judaism.
 
@@ -57,7 +57,7 @@ Scholars debate about Josephus's intended audience. For example, _Antiquities of
 
 Historiography and Josephus
 
-Nuremberg_chronicles_f_110r_3.png'' ]] In the Preface to _Jewish Wars_, Josephus criticizes historians who misrepresent the events of the Jewish–Roman War, writing that "they have a mind to demonstrate the greatness of the Romans, while they still diminish and lessen the actions of the Jews."[31] Josephus states that his intention is to correct this method but that he "will not go to the other extreme … [and] will prosecute the actions of both parties with accuracy."[32] Josephus suggests his method will not be wholly objective by saying he will be unable to contain his lamentations in transcribing these events; to illustrate this will have little effect on his historiography, Josephus suggests, "But if any one be inflexible in his censures of me, let him attribute the facts themselves to the historical part, and the lamentations to the writer himself only."[33]
+'' ]] In the Preface to _Jewish Wars_, Josephus criticizes historians who misrepresent the events of the Jewish–Roman War, writing that "they have a mind to demonstrate the greatness of the Romans, while they still diminish and lessen the actions of the Jews."[31] Josephus states that his intention is to correct this method but that he "will not go to the other extreme … [and] will prosecute the actions of both parties with accuracy."[32] Josephus suggests his method will not be wholly objective by saying he will be unable to contain his lamentations in transcribing these events; to illustrate this will have little effect on his historiography, Josephus suggests, "But if any one be inflexible in his censures of me, let him attribute the facts themselves to the historical part, and the lamentations to the writer himself only."[33]
 
 His preface to _Antiquities_ offers his opinion early on, saying, "Upon the whole, a man that will peruse this history, may principally learn from it, that all events succeed well, even to an incredible degree, and the reward of felicity is proposed by God."[34] After inserting this attitude, Josephus contradicts himself: "I shall accurately describe what is contained in our records, in the order of time that belongs to them … without adding any thing to what is therein contained, or taking away any thing therefrom."[35] He notes the difference between history and philosophy by saying, "[T]hose that read my book may wonder how it comes to pass, that my discourse, which promises an account of laws and historical facts, contains so much of philosophy."[36]
 
@@ -70,7 +70,7 @@ Works
 
 The works of Josephus are major sources of our understanding of Jewish life and history during the first century.
 
-Josephus_flavius,_english_1602.jpg (1602).]]
+(1602).]]
 
 -   ( 75) _War of the Jews_, or _The Jewish War_, or _Jewish Wars_, or _History of the Jewish War_ (commonly abbreviated _JW_, _BJ_ or _War_)
 -   ( 94) _Antiquities of the Jews_, or _Jewish Antiquities_, or _Antiquities of the Jews/Jewish Archeology_ (frequently abbreviated _AJ_, _AotJ_ or _Ant._ or _Antiq._)

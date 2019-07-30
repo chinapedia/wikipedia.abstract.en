@@ -11,13 +11,13 @@ Submarine
 
 The use of the term "submarine" or "sub" (after the resemblance of the roll to the shape of a submarine) is widespread.[10] While some accounts source the name as originating in New London, Connecticut (site of the United States Navy's primary submarine base) during World War II, written advertisements from 1940 in Wilmington, Delaware, indicate the term originated prior to the United States' entry into World War II.[11]
 
-Fenianram.jpg'' submarine]]
+'' submarine]]
 
 One theory says the submarine was brought to the U.S. by Dominic Conti (1874–1954), an Italian immigrant who came to New York in the early 1900s.[12] He is said to have named it after seeing the recovered 1901 submarine called _Fenian Ram_ in the Paterson Museum of New Jersey in 1928. His granddaughter has stated the following:
 
 Hoagie
 
-Reading_the_Hog_Island_News.png Mmm..._salami,_ham,_and_cheeses_on_a_hoagie_roll_(6879014927).jpg]]
+]]
 
 The term _hoagie_ originated in the Philadelphia area. _The Philadelphia Bulletin_ reported, in 1953, that Italians working at the World War I–era shipyard in Philadelphia known as Hog Island, where emergency shipping was produced for the war effort, introduced the sandwich by putting various meats, cheeses, and lettuce between two slices of bread. This became known as the "Hog Island" sandwich; shortened to "Hoggies", then the "hoagie".
 
@@ -35,13 +35,13 @@ Bánh mì sandwiches are sometimes referred to as "Vietnamese hoagies" in Philad
 
 Hero
 
-Mmm...meatball_sub_(5183008075).jpg The New York term _hero_ is first attested in 1937.[23] The name is sometimes credited to the _New York Herald Tribune_ food writer Clementine Paddleford in the 1930s, but there is no good evidence for this. It is also sometimes claimed that it is related to the _gyro_, but this is unlikely as the _gyro_ was unknown in the United States until the 1960s, according to sources.[24]
+The New York term _hero_ is first attested in 1937.[23] The name is sometimes credited to the _New York Herald Tribune_ food writer Clementine Paddleford in the 1930s, but there is no good evidence for this. It is also sometimes claimed that it is related to the _gyro_, but this is unlikely as the _gyro_ was unknown in the United States until the 1960s, according to sources.[24]
 
 _Hero_ (plural usually __, not _heroes_[25]) remains the prevailing New York City term for most sandwiches on an oblong roll with a generally Italian flavor, in addition to the original described above. Pizzeria menus often include eggplant parmigiana, chicken parmigiana, and meatball , each served with sauce.
 
 Grinder
 
-Pastrami_grinder_(2012).jpg grinder]] A common term in New England is _grinder_, but its origin has several possibilities.[26] One theory has the name coming from Italian-American slang for a dock worker, among whom the sandwich was popular.[27] Others say that it was called a grinder because it took a lot of chewing to eat the hard crust of the bread used.[28]
+grinder]] A common term in New England is _grinder_, but its origin has several possibilities.[26] One theory has the name coming from Italian-American slang for a dock worker, among whom the sandwich was popular.[27] Others say that it was called a grinder because it took a lot of chewing to eat the hard crust of the bread used.[28]
 
 In Pennsylvania, New York, Delaware, and parts of New England, the term _grinder_ usually refers to a _hot_ submarine sandwich (meatball, sausage, etc.), whereas a cold sandwich (e.g., cold cuts) is usually called a "sub".[29] In the Philadelphia area, the term _grinder_ is also applied to any hoagie that is toasted in the oven after assembly, whether or not it is made with traditionally hot ingredients.
 
@@ -57,7 +57,7 @@ The term _spukie_ ("spukkie" or "spuckie") is unique to the city of Boston and d
 
 Other types
 
-Root44_3_cropped.jpg sandwich]]
+sandwich]]
 
 -   Blimpie (shaped like a blimp)—From the Hoboken, New Jersey–founded chain, Blimpie
 -   Gatsby—Cape Town, South Africa

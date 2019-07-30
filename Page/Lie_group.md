@@ -5,7 +5,7 @@ In rough terms, a Lie group is a continuous group, that is, one whose elements a
 
 Overview
 
-Circle_as_Lie_group.svgs with absolute value 1 (corresponding to points on the circle of center 0 and radius 1 in the complex plane) is a Lie group under complex multiplication: the circle group.]] Lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups. One of the key ideas in the theory of Lie groups is to replace the _global_ object, the group, with its _local_ or linearized version, which Lie himself called its "infinitesimal group" and which has since become known as its Lie algebra.
+s with absolute value 1 (corresponding to points on the circle of center 0 and radius 1 in the complex plane) is a Lie group under complex multiplication: the circle group.]] Lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups. One of the key ideas in the theory of Lie groups is to replace the _global_ object, the group, with its _local_ or linearized version, which Lie himself called its "infinitesimal group" and which has since become known as its Lie algebra.
 
 Lie groups play an enormous role in modern geometry, on several different levels. Felix Klein argued in his Erlangen program that one can consider various "geometries" by specifying an appropriate transformation group that leaves certain geometric properties invariant. Thus Euclidean geometry corresponds to the choice of the group E(3) of distance-preserving transformations of the Euclidean space R³, conformal geometry corresponds to enlarging the group to the conformal group, whereas in projective geometry one is interested in the properties invariant under the projective group. This idea later led to the notion of a G-structure, where _G_ is a Lie group of "local" symmetries of a manifold.
 
@@ -56,8 +56,6 @@ We now present an example of a group with an uncountable number of elements that
 $$H = \left\{\left .\left(\begin{matrix}e^{2\pi i\theta} & 0\\0 & e^{2\pi ia\theta}\end{matrix}\right) \right| \theta \in \mathbb{R}\right\} \subset \mathbb{T}^2 = \left\{\left .\left(\begin{matrix}e^{2\pi i\theta} & 0\\0 & e^{2\pi i\phi}\end{matrix}\right)\right| \theta, \phi \in \mathbb{R}\right\},$$
 
 with a ∈ ℝ \ ℚ a _fixed_ irrational number, is a subgroup of the torus 𝕋² that is not a Lie group when given the subspace topology.[1] If we take any small neighborhood U of a point h in H, for example, the portion of H in U is disconnected. The group H winds repeatedly around the torus and forms a dense subgroup of 𝕋².
-
-Irrational_line_on_a_torus.png
 
 The group H can, however, be given a different topology, in which the distance between two points h₁, h₂ ∈ H is defined as the length of the shortest path ''in the group '' H joining h₁ to h₂. In this topology, H is identified homeomorphically with the real line by identifying each element with the number θ in the definition of H. With this topology, H is just the group of real numbers under addition and is therefore a Lie group.
 
@@ -230,7 +228,7 @@ where the omitted terms are known and involve Lie brackets of four or more eleme
 The exponential map relates Lie group homomorphisms. That is, if ϕ : G → H is a Lie group homomorphism and ϕ_(*) : 𝔤 → 𝔥 the induced map on the corresponding Lie algebras, then for all x ∈ 𝔤 we have
 
 _ϕ_(exp (_x_)) = exp (_ϕ__(*)(_x_)). 
-In other words, the following diagram commutes,[19] ExponentialMap-01.png
+In other words, the following diagram commutes,[19]
 
 (In short, exp is a natural transformation from the functor Lie to the identity functor on the category of Lie groups.)
 

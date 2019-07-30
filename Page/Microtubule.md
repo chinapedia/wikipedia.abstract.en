@@ -1,7 +1,3 @@
-Microtubule_structure.png
-
-Microtubules_in_the_leading_edge_of_a_cell.tif
-
 MICROTUBULES are polymers of tubulin that form part of the cytoskeleton and provide structure and shape to the cytoplasm of eukaryotic cells, some bacteria and some archaea (like Asgard). A microtubule can grow as long as 50 micrometres and are highly dynamic. The outer diameter of a microtubule is about 24 nm while the inner diameter is about 12 nm.[1] They are formed by the polymerization of a dimer of two globular proteins, alpha and beta tubulin into protofilaments that can then associate laterally to form a hollow tube, the microtubule.[2] The most common form of a microtubule consists of 13 protofilaments in the tubular arrangement.
 
 Microtubules are very important in a number of cellular processes. They are involved in maintaining the structure of the cell and, together with microfilaments and intermediate filaments, they form the cytoskeleton. They also make up the internal structure of cilia and flagella. They provide platforms for intracellular transport and are involved in a variety of cellular processes, including the movement of secretory vesicles, organelles, and intracellular macromolecular assemblies (see entries for dynein and kinesin).[3] They are also involved in cell division (by mitosis and meiosis) and are the major constituents of mitotic spindles, which are used to pull eukaryotic chromosomes apart.
@@ -20,7 +16,7 @@ Microtubule in vitro assays for motor proteins such as dynein and kinesin are re
 
 Structure
 
-Tubulin_dimer_1JFF.png In eukaryotes, microtubules are long, hollow cylinders made up of polymerised α- and β-tubulin dimers.[8] The inner space of the hollow microtubule cylinders is referred to as the lumen. The α and β-tubulin subunits are approximately 50% identical at the amino acid level, and each have a molecular weight of approximately 50 kDa.[9]
+In eukaryotes, microtubules are long, hollow cylinders made up of polymerised α- and β-tubulin dimers.[8] The inner space of the hollow microtubule cylinders is referred to as the lumen. The α and β-tubulin subunits are approximately 50% identical at the amino acid level, and each have a molecular weight of approximately 50 kDa.[9]
 
 These α/β-tubulin dimers polymerize end-to-end into linear protofilaments that associate laterally to form a single microtubule, which can then be extended by the addition of more α/β-tubulin dimers. Typically, microtubules are formed by the parallel association of thirteen protofilaments, although microtubules composed of fewer or more protofilaments have been observed _in vitro_.[10]
 
@@ -37,7 +33,7 @@ Microtubules are part of the cytoskeleton, a structural network within the cell'
 
 The organization of microtubules in the cell is cell-type specific. In epithelia, the minus-ends of the microtubule polymer are anchored near the site of cell-cell contact and organized along the apical-basal axis. After nucleation, the minus-ends are released and then re-anchored in the periphery by factors such as ninein and PLEKHA7.[19] In this manner, they can facilitate the transport of proteins, vesicles and organelles along the apical-basal axis of the cell. In fibroblasts and other mesenchymal cell-types, microtubules are anchored at the centrosome and radiate with their plus-ends outwards towards the cell periphery (as shown in the first figure). In these cells, the microtubules play important roles in cell migration. Moreover, the polarity of microtubules is acted upon by motor proteins, which organize many components of the cell, including the endoplasmic reticulum and the Golgi apparatus.
 
-FluorescentCells.jpg cytoskeleton. Actin filaments are shown in red, microtubules are in green, and the nuclei are in blue. The cystoskeleton provides the cell with an inner framework and enables it to move and change shape.]]
+cytoskeleton. Actin filaments are shown in red, microtubules are in green, and the nuclei are in blue. The cystoskeleton provides the cell with an inner framework and enables it to move and change shape.]]
 
 
 Microtubule polymerization
@@ -59,8 +55,6 @@ Microtubule dynamics
 
 Dynamic instability
 
-MicrotubuleDynamicInstability.ogv
-
 Dynamic instability refers to the coexistence of assembly and disassembly at the ends of a microtubule. The microtubule can dynamically switch between growing and shrinking phases in this region.[24] Tubulin dimers can bind two molecules of GTP, one of which can be hydrolyzed subsequent to assembly. During polymerization, the tubulin dimers are in the GTP-bound state.[25] The GTP bound to α-tubulin is stable and it plays a structural function in this bound state. However, the GTP bound to β-tubulin may be hydrolyzed to GDP shortly after assembly. The assembly properties of GDP-tubulin are different from those of GTP-tubulin, as GDP-tubulin is more prone to depolymerization.[26] A GDP-bound tubulin subunit at the tip of a microtubule will tend to fall off, although a GDP-bound tubulin in the middle of a microtubule cannot spontaneously pop out of the polymer. Since tubulin adds onto the end of the microtubule in the GTP-bound state, a cap of GTP-bound tubulin is proposed to exist at the tip of the microtubule, protecting it from disassembly. When hydrolysis catches up to the tip of the microtubule, it begins a rapid depolymerization and shrinkage. This switch from growth to shrinking is called a catastrophe. GTP-bound tubulin can begin adding to the tip of the microtubule again, providing a new cap and protecting the microtubule from shrinking. This is referred to as "rescue".[27]
 
 "Search and capture" model
@@ -71,8 +65,6 @@ In 1986, Marc Kirschner and Tim Mitchison proposed that microtubules use their d
 Regulation of microtubule dynamics
 
 Post-translational modifications
-
-Fluorescent_image_fibroblast.jpg
 
 Although most microtubules have a half-life of 5–10 minutes, certain microtubules can remain stable for hours.[33] These stabilized microtubules accumulate post-translational modifications on their tubulin subunits by the action of microtubule-bound enzymes.[34][35] However, once the microtubule depolymerizes, most of these modifications are rapidly reversed by soluble enzymes. Since most modification reactions are slow while their reverse reactions are rapid, modified tubulin is only detected on long-lived stable microtubules. Most of these modifications occur on the C-terminal region of alpha-tubulin. This region, which is rich in negatively charged glutamate, forms relatively unstructured tails that project out from the microtubule and form contacts with motors. Thus, it is believed that tubulin modifications regulate the interaction of motors with the microtubule. Since these stable modified microtubules are typically oriented towards the site of cell polarity in interphase cells, this subset of modified microtubules provide a specialized route that helps deliver vesicles to these polarized zones. These modifications include:
 
@@ -115,7 +107,7 @@ Plus end tracking proteins are MAP proteins which bind to the tips of growing mi
 
 Motor proteins
 
-CytoplasmicDyneinOnMT_noLabels.png Kinesin_cartoon.png Microtubules can act as substrates for motor proteins that are involved in important cellular functions such as vesicle trafficking and cell division. Unlike other microtubule-associated proteins, motor proteins utilize the energy from ATP hydrolysis to generate mechanical work that moves the protein along the substrate. The major motor proteins that interact with microtubules are kinesin, which usually moves toward the (+) end of the microtubule, and dynein, which moves toward the (−) end.
+Microtubules can act as substrates for motor proteins that are involved in important cellular functions such as vesicle trafficking and cell division. Unlike other microtubule-associated proteins, motor proteins utilize the energy from ATP hydrolysis to generate mechanical work that moves the protein along the substrate. The major motor proteins that interact with microtubules are kinesin, which usually moves toward the (+) end of the microtubule, and dynein, which moves toward the (−) end.
 
 -   Dynein is composed of two identical heavy chains, which make up two large globular head domains, and a variable number of intermediate and light chains. Dynein-mediated transport takes place from the (+) end towards the (-) end of the microtubule. ATP hydrolysis occurs in the globular head domains, which share similarities with the AAA+ (ATPase associated with various cellular activities) protein family. ATP hydrolysis in these domains is coupled to movement along the microtubule via the microtubule-binding domains. Dynein transports vesicles and organelles throughout the cytoplasm. In order to do this, dynein molecules bind organelle membranes via a protein complex that contains a number of elements including dynactin.
 -   Kinesin has a similar structure to dynein. Kinesin is involved in the transport of a variety of intracellular cargoes, including vesicles, organelles, protein complexes, and mRNAs toward the microtubule's (+) end.[52]
@@ -127,7 +119,7 @@ Mitosis
 
 Centrosomes
 
-Centriole3D.png The centrosome is the main MTOC (microtubule organizing center) of the cell during mitosis. Each centrosome is made up of two cylinders called centrioles, oriented at right angles to each other. The centriole is formed from 9 main microtubules, each having two partial microtubules attached to it. Each centriole is approximately 400 nm long and around 200 nm in circumference.[53]
+The centrosome is the main MTOC (microtubule organizing center) of the cell during mitosis. Each centrosome is made up of two cylinders called centrioles, oriented at right angles to each other. The centriole is formed from 9 main microtubules, each having two partial microtubules attached to it. Each centriole is approximately 400 nm long and around 200 nm in circumference.[53]
 
 The centrosome is critical to mitosis as most microtubules involved in the process originate from the centrosome. The minus ends of each microtubule begin at the centrosome, while the plus ends radiate out in all directions. Thus the centrosome is also important in maintaining the polarity of microtubules during mitosis.[54]
 
@@ -137,7 +129,7 @@ A final important note about the centrosomes and microtubules during mitosis is 
 
 Microtubule subclasses
 
-Spindle_apparatus.svgASTRAL MICROTUBULES are a subclass of microtubules which only exist during and around mitosis. They originate from the centrosome, but do not interact with the chromosomes, kinetochores, or with the microtubules originating from the other centrosome.[58] Instead their microtubules radiate towards the cell membrane. Once there they interact with specific motor proteins which create force that pull the microtubules, and thus the entire centrosome towards the cell membrane. As stated above, this helps the centrosomes orient themselves away from each other in the cell. However these astral microtubules do not interact with the mitotic spindle itself. Experiments have shown that without these astral microtubules, the mitotic spindle can form, however its orientation in the cell is not always correct and thus mitosis does not occur as effectively.[59] Another key function of the astral microtubules is to aid in cytokinesis. Astral microtubules interact with motor proteins at the cell membrane to pull the spindle and the entire cell apart once the chromosomes have been replicated.
+ASTRAL MICROTUBULES are a subclass of microtubules which only exist during and around mitosis. They originate from the centrosome, but do not interact with the chromosomes, kinetochores, or with the microtubules originating from the other centrosome.[58] Instead their microtubules radiate towards the cell membrane. Once there they interact with specific motor proteins which create force that pull the microtubules, and thus the entire centrosome towards the cell membrane. As stated above, this helps the centrosomes orient themselves away from each other in the cell. However these astral microtubules do not interact with the mitotic spindle itself. Experiments have shown that without these astral microtubules, the mitotic spindle can form, however its orientation in the cell is not always correct and thus mitosis does not occur as effectively.[59] Another key function of the astral microtubules is to aid in cytokinesis. Astral microtubules interact with motor proteins at the cell membrane to pull the spindle and the entire cell apart once the chromosomes have been replicated.
 
 INTERPOLAR/POLAR MICROTUBULES are a class of microtubules which also radiate out from the centrosome during mitosis. These microtubules radiate towards the mitotic spindle, unlike astral microtubules. Interpolar microtubules are both the most abundant and dynamic subclass of microtubules during mitosis. Around 95 percent of microtubules in the mitotic spindle can be characterized as interpolar. Furthermore, the half life of these microtubules is extremely short as it is less than one minute.[60] Interpolar microtubules that do not attach to the kinetochores can aid in chromosome congregation through lateral interaction with the kinetochores.[61]
 

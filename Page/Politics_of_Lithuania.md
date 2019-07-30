@@ -26,7 +26,7 @@ The executive branch of the Lithuanian government consists of a President, a Pri
 
 President
 
-Presidential_Palace_in_Vilnius_2019.jpg in Daukanto Square]] The President of Lithuania is the head of state of the country, elected directly for a five-year term and can serve maximum of two terms consecutively. Presidential elections take place in a modified version of the two-round system. If half of voters participate, a candidate must win a majority of the total valid vote in order to win election in the first round. If fewer than half participate, a candidate can win outright with a plurality, provided that he or she wins at least one third of the total vote. If the first round does not produce a president, a runoff is held between the top two finishers in the first round, with a plurality sufficient to win.
+in Daukanto Square]] The President of Lithuania is the head of state of the country, elected directly for a five-year term and can serve maximum of two terms consecutively. Presidential elections take place in a modified version of the two-round system. If half of voters participate, a candidate must win a majority of the total valid vote in order to win election in the first round. If fewer than half participate, a candidate can win outright with a plurality, provided that he or she wins at least one third of the total vote. If the first round does not produce a president, a runoff is held between the top two finishers in the first round, with a plurality sufficient to win.
 
 The President, with the approval of the Seimas, is first responsible of appointing the Prime Minister. Upon the Prime Minister's nomination, the President also appoints, under the recommendation of the Prime Minister, the Council of Ministers (13 ministries), as well as a number of other top civil servants and the judges for all courts. The President also serves as the commander-in-chief, oversees foreign and security policy, addresses political problems of foreign and domestic affairs, proclaims states of emergency, considers the laws adopted by the Seimas, and performs other duties specified in the Constitution.[9] Lithuanian presidents have somewhat greater power than their counterparts in Estonia and Latvia, but have more influence in foreign policy than domestic policy.
 
@@ -34,7 +34,7 @@ Dalia Grybauskaitė has served as the president of Lithuania since July 2009, wi
 
 Prime Minister
 
-Government_of_Lithuania_building_2019.jpg building]] The Prime Minister of Lithuania is the head of government of the country, appointed by the President and approved by the Seimas. The Prime Minister, within 15 days of being appointed, is responsible for choosing Ministers for the President to approve to each of the 13 Ministries. In general, the Prime Minister is in charge of the affairs of the country, maintains homeland security, carries out laws and resolutions of the Seimas and decrees of the President, maintains diplomatic relations with foreign countries and international organizations, and performs other duties specified in the Constitution.[10]
+building]] The Prime Minister of Lithuania is the head of government of the country, appointed by the President and approved by the Seimas. The Prime Minister, within 15 days of being appointed, is responsible for choosing Ministers for the President to approve to each of the 13 Ministries. In general, the Prime Minister is in charge of the affairs of the country, maintains homeland security, carries out laws and resolutions of the Seimas and decrees of the President, maintains diplomatic relations with foreign countries and international organizations, and performs other duties specified in the Constitution.[10]
 
 Council of Ministers
 
@@ -46,7 +46,7 @@ Current office holders
 
 Legislative branch
 
-Vilnius_Seimas.jpg in Vilnius]] The parliament (Seimas) has 141 members that are elected for a 4-year term. About half of the members are elected in single-member districts (71), and the other half (70) are elected in the nationwide vote using proportional representation by party lists. A party must receive at least 5% of the national vote to be represented in the Seimas.
+in Vilnius]] The parliament (Seimas) has 141 members that are elected for a 4-year term. About half of the members are elected in single-member districts (71), and the other half (70) are elected in the nationwide vote using proportional representation by party lists. A party must receive at least 5% of the national vote to be represented in the Seimas.
 
 Political parties and elections
 

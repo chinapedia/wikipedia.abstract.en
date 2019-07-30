@@ -1,8 +1,4 @@
-Wave_group.gif in groups of gravity waves on the surface of deep water. The red square moves with the phase velocity, and the       green circles propagate with the group velocity. In this deep-water case, _the phase velocity is twice the group velocity_. The red square overtakes two green circles when moving from the left to the right of the figure. New waves seem to emerge at the back of a wave group, grow in amplitude until they are at the center of the group, and vanish at the wave group front. For surface gravity waves, the water particle velocities are much smaller than the phase velocity, in most cases.]]
-
-Wave_packet_propagation_(phase_faster_than_group,_nondispersive).gif
-
-Wave_opposite-group-phase-velocity.gif
+in groups of gravity waves on the surface of deep water. The red square moves with the phase velocity, and the       green circles propagate with the group velocity. In this deep-water case, _the phase velocity is twice the group velocity_. The red square overtakes two green circles when moving from the left to the right of the figure. New waves seem to emerge at the back of a wave group, grow in amplitude until they are at the center of the group, and vanish at the wave group front. For surface gravity waves, the water particle velocities are much smaller than the phase velocity, in most cases.]]
 
 The PHASE VELOCITY of a wave is the rate at which the phase of the wave propagates in space. This is the velocity at which the phase of any one frequency component of the wave travels. For such a component, any given phase of the wave (for example, the crest) will appear to travel at the phase velocity. The phase velocity is given in terms of the wavelength (lambda) and time period as
 
@@ -18,8 +14,6 @@ Thus the propagation velocity _v_ is  _x_/_t_ {{=}} _ω_/_k_}}. The wave prop
 
 
 Relation to group velocity, refractive index and transmission speed
-
-Wavepacket1.gif
 
 Since a pure sine wave cannot convey any information, some change in amplitude or frequency, known as modulation, is required. By combining two sines with slightly different frequencies and wavelengths,
 

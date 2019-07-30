@@ -14,7 +14,7 @@ Lorenzo was described as rather plain of appearance and of average height, havin
 
 Politics
 
-Verrocchio_Lorenzo_de_Medici.jpg, 15th- or 16th-century terracotta bust, National Gallery of Art, Washington]] Lorenzo, groomed for power, assumed a leading role in the state upon the death of his father in 1469; when he was twenty. Already drained by his grandfather's building projects and constantly stressed by mismanagement, wars, and political expenses, the assets of the Medici Bank contracted seriously during the course of Lorenzo's lifetime.[18]
+, 15th- or 16th-century terracotta bust, National Gallery of Art, Washington]] Lorenzo, groomed for power, assumed a leading role in the state upon the death of his father in 1469; when he was twenty. Already drained by his grandfather's building projects and constantly stressed by mismanagement, wars, and political expenses, the assets of the Medici Bank contracted seriously during the course of Lorenzo's lifetime.[18]
 
 Lorenzo, like his grandfather, father, and son, ruled Florence indirectly through surrogates in the city councils by means of threats, payoffs and strategic marriages.[19] He effectively reigned as a despot, and ordinary citizens had little political freedom.[20] Rival Florentine families inevitably harboured resentments over the Medicis' dominance, and enemies of the Medici remained a factor in Florentine life long after Lorenzo's passing.[21] The most notable of the rival families was the Pazzi, who nearly brought Lorenzo's reign to an end.[22]
 
@@ -31,7 +31,7 @@ Efforts to acquire revenue from the mining of alum in Tuscany unfortunately marr
 
 Patronage
 
-Angel_Appearing_to_Zacharias_(detail)_-_1486-90.JPG in Florence contains portraits of members of the Medici Academy: Marsilio Ficino, Cristoforo Landino, Agnolo Poliziano and either Demetrios Chalkokondyles or Gentile de' Becchi.]] Lorenzo's court included artists such as Piero and Antonio del Pollaiuolo, Andrea del Verrocchio, Leonardo da Vinci, Sandro Botticelli, Domenico Ghirlandaio and Michelangelo Buonarroti, who were instrumental in achieving the 15th-century Renaissance. Although Lorenzo did not commission many works himself, he helped these artists to secure commissions from other patrons. Michelangelo lived with Lorenzo and his family for three years, dining at the family table and participating in discussions led by Marsilio Ficino.
+in Florence contains portraits of members of the Medici Academy: Marsilio Ficino, Cristoforo Landino, Agnolo Poliziano and either Demetrios Chalkokondyles or Gentile de' Becchi.]] Lorenzo's court included artists such as Piero and Antonio del Pollaiuolo, Andrea del Verrocchio, Leonardo da Vinci, Sandro Botticelli, Domenico Ghirlandaio and Michelangelo Buonarroti, who were instrumental in achieving the 15th-century Renaissance. Although Lorenzo did not commission many works himself, he helped these artists to secure commissions from other patrons. Michelangelo lived with Lorenzo and his family for three years, dining at the family table and participating in discussions led by Marsilio Ficino.
 
 Lorenzo himself was an artist and wrote poetry in his native Tuscan. In his poetry, he celebrates life while acknowledging with melancholy the fragility and instability of the human condition, particularly in his later works. Love, feasts and light dominate his verse.[34]
 
@@ -46,7 +46,7 @@ In 1471, Lorenzo calculated that his family had spent some 663,000 florins (abou
 
 Marriage and children
 
-Lorenzo_de'_Medici_Rubens.jpg (1612–1616), Museum Plantin-Moretus, Antwerp]] Lorenzo married Clarice Orsini by proxy on 7 February 1469. The marriage in person took place in Florence on 4 June 1469. She was a daughter of Giacomo Orsini, Lord of Monterotondo and Bracciano by his wife and cousin Maddalena Orsini. Clarice and Lorenzo had 10 children, all except Contessina Antonia born in Florence:
+(1612–1616), Museum Plantin-Moretus, Antwerp]] Lorenzo married Clarice Orsini by proxy on 7 February 1469. The marriage in person took place in Florence on 4 June 1469. She was a daughter of Giacomo Orsini, Lord of Monterotondo and Bracciano by his wife and cousin Maddalena Orsini. Clarice and Lorenzo had 10 children, all except Contessina Antonia born in Florence:
 
 -   Lucrezia Maria Romola de' Medici (1470–1553),[38] who married Jacopo Salviati on 10 September 1486 and had 10 children of her own, including Cardinal Giovanni Salviati, Cardinal Bernardo Salviati, Maria Salviati (mother of Cosimo I de' Medici, Grand Duke of Tuscany), and Francesca Salviati (mother of Pope Leo XI)
 -   Twins who died after birth (March 1471)
@@ -60,16 +60,14 @@ Lorenzo_de'_Medici_Rubens.jpg (1612–1616), Museum Plantin-Moretus, Antwerp]] L
 
 Lorenzo adopted his nephew Giulio di Giuliano de' Medici (1478–1534), the illegitimate son of his slain brother Giuliano. In 1523, after serving four years as ruler of Florence, Giulio ascended to the papacy as Pope Clement VII.[45]
 
-Domenico_Ghirlandaio_-_Confirmation_of_the_Rule_(detail)_-_WGA08812.jpg's _Confirmation of the Franciscan Rule_ from the Sassetti Chapel frescos. Mounting the stairs in the forefront are the tutor of Lorenzo's sons, Angelo Poliziano, and Lorenzo's sons Giuliano, Piero and Giovanni, followed by two members of the Humanist Academy.]]
+'s _Confirmation of the Franciscan Rule_ from the Sassetti Chapel frescos. Mounting the stairs in the forefront are the tutor of Lorenzo's sons, Angelo Poliziano, and Lorenzo's sons Giuliano, Piero and Giovanni, followed by two members of the Humanist Academy.]]
 
 
 Later years, death, and legacy
 
-Medici_-_Rappresentazione_dei_santi_Giovanni_e_Paolo,_circa_1485_-_2411117_Scan00017.tif
-
 During Lorenzo's tenure, several branches of the family bank collapsed because of bad loans, and in later years he got into financial difficulties and resorted to misappropriating trust and state funds.
 
-Toward the end of Lorenzo's life, Florence came under the spell of Savonarola, who believed Christians had strayed too far into Greco-Roman culture. Lorenzo played a role in bringing Savonarola to Florence.[46] Vasari-Lorenzo.jpg (16th century)]] Lorenzo died during the late night of 8 April 1492, at the longtime family villa of Careggi. Savonarola visited Lorenzo on his death bed. The rumour that Savonarola damned Lorenzo on his deathbed has been refuted in Roberto Ridolfi's book, _Vita di Girolamo Savonarola_. Letters written by witnesses to Lorenzo's death report that he died peacefully after listening to the Gospel of the day. Many signs and portents were claimed to have taken place at the moment of his death, including the dome of Florence Cathedral being struck by lightning, ghosts appearing, and the lions kept at Via Leone fighting one another.[47]
+Toward the end of Lorenzo's life, Florence came under the spell of Savonarola, who believed Christians had strayed too far into Greco-Roman culture. Lorenzo played a role in bringing Savonarola to Florence.[46] (16th century)]] Lorenzo died during the late night of 8 April 1492, at the longtime family villa of Careggi. Savonarola visited Lorenzo on his death bed. The rumour that Savonarola damned Lorenzo on his deathbed has been refuted in Roberto Ridolfi's book, _Vita di Girolamo Savonarola_. Letters written by witnesses to Lorenzo's death report that he died peacefully after listening to the Gospel of the day. Many signs and portents were claimed to have taken place at the moment of his death, including the dome of Florence Cathedral being struck by lightning, ghosts appearing, and the lions kept at Via Leone fighting one another.[47]
 
 The Signoria and councils of Florence issued a decree:
 

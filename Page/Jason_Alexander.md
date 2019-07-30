@@ -10,8 +10,6 @@ Alexander was born in Newark, New Jersey, the son of Jewish parents Ruth Minnie 
 
 Acting career
 
-Jason_Alexander_Fourth_of_July_(cropped).jpg
-
 Stage career
 
 Alexander began his acting career on the New York stage and is an accomplished singer and dancer. On Broadway he appeared in Stephen Sondheim's _Merrily We Roll Along,_ Kander & Ebb's _The Rink_, Neil Simon's _Broadway Bound_, _Accomplice_, and _Jerome Robbins' Broadway_, for which he garnered the 1989 Tony Award for Best Leading Actor in a Musical. Returning to the stage in 2003, Alexander was cast in a successful run, opposite Martin Short, in the Los Angeles production of Mel Brooks' _The Producers_.[10] Alexander also appeared with Kelsey Grammer in the 2004 musical adaptation of Charles Dickens' _A Christmas Carol_, playing Jacob Marley to Grammer's Ebenezer Scrooge. He continues to appear in live stage shows, including Barbra Streisand's memorable birthday party for Stephen Sondheim at the Hollywood Bowl, in which he appeared with Angela Lansbury, performing selections from _Sweeney Todd: The Demon Barber of Fleet Street_. Alexander was recently named the Artistic Director of Reprise Theatre Company in Los Angeles, where he previously directed _Sunday in the Park with George_. He is scheduled to direct the upcoming revival of _Damn Yankees_ at Reprise. In 2015, he replaced Larry David as the lead in David's Broadway play _Fish in the Dark._ Alexander co-starred opposite Sherie Rene Scott in the September 2017 world premiere of John Patrick Shanley's _The Portuguese Kid_ at the Manhattan Theatre Club.[11]
@@ -45,7 +43,7 @@ In 2009, Alexander lent his voice talents in the Thomas Nelson audio Bible produ
 
 Poker career
 
-AlanHornJasonAlexanderMay10.jpg in May 2010]] In later years, Alexander has also competed on televised poker shows and in various tournaments. He has appeared twice on Bravo's _Celebrity Poker Showdown_, winning the final table of the 8th season. Alexander won the $500,000 prize for the charity of his choice, The United Way of America, to help benefit the New Orleans Area. Alexander played in the 2007 World Series of Poker main event, but he was eliminated on the second day. He returned to play in 2009. He made it to Day 3 of the event, finishing in the top 30% of the field. Alexander has appeared on NBC's _Poker After Dark_ in the "Celebrities and Mentors" episode, finishing in 6th place after being eliminated by professional poker player Gavin Smith. Alexander signed with PokerStars where he plays under the screen name "J. Alexander".
+in May 2010]] In later years, Alexander has also competed on televised poker shows and in various tournaments. He has appeared twice on Bravo's _Celebrity Poker Showdown_, winning the final table of the 8th season. Alexander won the $500,000 prize for the charity of his choice, The United Way of America, to help benefit the New Orleans Area. Alexander played in the 2007 World Series of Poker main event, but he was eliminated on the second day. He returned to play in 2009. He made it to Day 3 of the event, finishing in the top 30% of the field. Alexander has appeared on NBC's _Poker After Dark_ in the "Celebrities and Mentors" episode, finishing in 6th place after being eliminated by professional poker player Gavin Smith. Alexander signed with PokerStars where he plays under the screen name "J. Alexander".
 
 Miscellaneous appearances
 

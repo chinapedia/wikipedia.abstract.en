@@ -14,7 +14,7 @@ The Principality of Liechtenstein has gone through economic and cultural develop
 
 Foreign trade
 
-HK_Yaumatei_咸美頓街_Hamilton_Street_喜利得門市部_HILTI_shop_evening.jpg in Hong Kong pictured in March 2010, an example of Liechtenstein's export economy.]]
+in Hong Kong pictured in March 2010, an example of Liechtenstein's export economy.]]
 
 Besides its efficient industry, there also is a strong services sector. Four out of ten employees work in the services sector, a relatively high proportion of whom are foreigners, including those who commute across the border from neighboring Switzerland, Austria and Germany. Industrial exports more than doubled in 20 years from $1.21 billion (SFr. 2.2 billion) in 1988 to $2.9 billion (SFr. 4.6 billion) in 2008. Some 15.7% of Liechtenstein goods are exported to Switzerland, 62.6% to the EU and 21.1% to the rest of the world.
 
@@ -25,7 +25,7 @@ About 32% of the country's revenues are invested in research and development, on
 
 Banking and finance
 
-National_Bank_of_Liechtenstein.JPG.]]
+.]]
 
 The Principality of Liechtenstein also is known as an important financial centre, primarily because it specializes in financial services for foreign entities. The country's low tax rate, loose incorporation and corporate governance rules, and traditions of strict bank secrecy have contributed significantly to the ability of financial intermediaries in Liechtenstein to attract funds from outside the country's borders. The same factors made the country attractive and vulnerable to money launderers, although late 2009 legislation has strengthened regulatory oversight of illicit funds transfers.
 

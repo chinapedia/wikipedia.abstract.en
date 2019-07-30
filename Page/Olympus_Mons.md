@@ -39,7 +39,7 @@ It has been speculated that the detachment along the weak layers was aided by th
 
 Early observations and naming
 
-Olympus_Mons_aureole_MOLA_zoom_64.jpg instrument of _Mars Global Surveyor_.]]
+instrument of _Mars Global Surveyor_.]]
 
 Olympus Mons and a few other volcanoes in the Tharsis region stand high enough to reach above the frequent Martian dust-storms recorded by telescopic observers as early as the 19th century. The astronomer Patrick Moore pointed out that Schiaparelli (1835–1910) "had found that his _Nodus Gordis_ and _Olympic Snow_ [Nix Olympica] were almost the only features to be seen" during dust storms, and "guessed correctly that they must be high".[39]
 
@@ -48,7 +48,7 @@ The Mariner 9 spacecraft arrived in orbit around Mars in 1971 during a global du
 
 Regional setting and surrounding features
 
-Olympus_Rupes_based_on_THEMIS_Day_IR.png, the northern part of Olympus Mons.]]
+, the northern part of Olympus Mons.]]
 
 Olympus Mons is located between the northwestern edge of the Tharsis region and the eastern edge of Amazonis Planitia. It stands about from the other three large Martian shield volcanoes, collectively called the Tharsis Montes (Arsia Mons, Pavonis Mons, and Ascraeus Mons). The Tharsis Montes are slightly smaller than Olympus Mons.
 

@@ -1,4 +1,4 @@
-LED,_5mm,_green_(en).svg Surface_mount_LED_close_up_image.png Br20_1.jpg with E27 screw in base|A bulb-shaped modern retrofit LED lamp with aluminium heat sink, a light diffusing dome and E27 screw base, using a built-in power supply working on mains voltage]]
+with E27 screw in base|A bulb-shaped modern retrofit LED lamp with aluminium heat sink, a light diffusing dome and E27 screw base, using a built-in power supply working on mains voltage]]
 
 A LIGHT-EMITTING DIODE (LED) is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons. This effect is called electroluminescence.[1] The color of the light (corresponding to the energy of the photons) is determined by the energy required for electrons to cross the band gap of the semiconductor.[2] White light is obtained by using multiple semiconductors or a layer of light-emitting phosphor on the semiconductor device.[3]
 
@@ -15,7 +15,7 @@ History
 
 Discoveries and early devices
 
-SiC_LED_historic.jpg recreates Round's original experiment from 1907.]]
+recreates Round's original experiment from 1907.]]
 
 Electroluminescence as a phenomenon was discovered in 1907 by the British experimenter H. J. Round of Marconi Labs, using a crystal of silicon carbide and a cat's-whisker detector.[8][9] Russian inventor Oleg Losev reported creation of the first LED in 1927.[10] His research was distributed in Soviet, German and British scientific journals, but no practical use was made of the discovery for several decades.[11][12]
 
@@ -29,8 +29,6 @@ Rubin Braunstein[18] of the Radio Corporation of America reported on infrared em
 
 In 1957, Braunstein further demonstrated that the rudimentary devices could be used for non-radio communication across a short distance. As noted by Kroemer[20] Braunstein "…had set up a simple optical communications link: Music emerging from a record player was used via suitable electronics to modulate the forward current of a GaAs diode. The emitted light was detected by a PbS diode some distance away. This signal was fed into an audio amplifier and played back by a loudspeaker. Intercepting the beam stopped the music. We had a great deal of fun playing with this setup." This setup presaged the use of LEDs for optical communication applications.
 
-SNX100.jpg
-
 In September 1961, while working at Texas Instruments in Dallas, Texas, James R. Biard and Gary Pittman discovered near-infrared (900 nm) light emission from a tunnel diode they had constructed on a GaAs substrate.[21] By October 1961, they had demonstrated efficient light emission and signal coupling between a GaAs p-n junction light emitter and an electrically isolated semiconductor photodetector.[22] On August 8, 1962, Biard and Pittman filed a patent titled "Semiconductor Radiant Diode" based on their findings, which described a zinc-diffused p–n junction LED with a spaced cathode contact to allow for efficient emission of infrared light under forward bias. After establishing the priority of their work based on engineering notebooks predating submissions from G.E. Labs, RCA Research Labs, IBM Research Labs, Bell Labs, and Lincoln Lab at MIT, the U.S. patent office issued the two inventors the patent for the GaAs infrared (IR) light-emitting diode (U.S. Patent US3293513), the first practical LED.[23] Immediately after filing the patent, Texas Instruments (TI) began a project to manufacture infrared diodes. In October 1962, TI announced the first commercial LED product (the SNX-100), which employed a pure GaAs crystal to emit an 890 nm light output.[24] In October 1963, TI announced the first commercial hemispherical LED, the SNX-110.[25]
 
 The first visible-spectrum (red) LED was developed in 1962 by Nick Holonyak, Jr. while working at General Electric. Holonyak first reported his LED in the journal _Applied Physics Letters_ on December 1, 1962.[26][27] M. George Craford,[28] a former graduate student of Holonyak, invented the first yellow LED and improved the brightness of red and red-orange LEDs by a factor of ten in 1972.[29] In 1976, T. P. Pearsall created the first high-brightness, high-efficiency LEDs for optical fiber telecommunications by inventing new semiconductor materials specifically adapted to optical fiber transmission wavelengths.[30]
@@ -39,7 +37,7 @@ Initial commercial development
 
 The first commercial LEDs were commonly used as replacements for incandescent and neon indicator lamps, and in seven-segment displays,[31] first in expensive equipment such as laboratory and electronics test equipment, then later in such appliances as calculators, TVs, radios, telephones, as well as watches (see list of signal uses). Until 1968, visible and infrared LEDs were extremely costly, in the order of US$200 per unit, and so had little practical use.[32] The Monsanto Company was the first organization to mass-produce visible LEDs, using gallium arsenide phosphide (GaAsP) in 1968 to produce red LEDs suitable for indicators.[33] Hewlett-Packard (HP) introduced LEDs in 1968, initially using GaAsP supplied by Monsanto. These red LEDs were bright enough only for use as indicators, as the light output was not enough to illuminate an area. Readouts in calculators were so small that plastic lenses were built over each digit to make them legible. Later, other colors became widely available and appeared in appliances and equipment. In the 1970s commercially successful LED devices at less than five cents each were produced by Fairchild Optoelectronics. These devices employed compound semiconductor chips fabricated with the planar process invented by Dr. Jean Hoerni at Fairchild Semiconductor.[34][35] The combination of planar processing for chip fabrication and innovative packaging methods enabled the team at Fairchild led by optoelectronics pioneer Thomas Brandt to achieve the needed cost reductions.[36] LED producers continue to use these methods.[37]
 
-TI-30-LED-Display-3682e1.jpg scientific calculator (ca. 1978), which uses plastic lenses to increase the visible digit size]]
+scientific calculator (ca. 1978), which uses plastic lenses to increase the visible digit size]]
 
 Early LEDs were packaged in metal cases similar to those of transistors, with a glass window or lens to let the light out. Modern indicator LEDs are packed in transparent molded plastic cases, tubular or rectangular in shape, and often tinted to match the device color. Infrared devices may be dyed, to block visible light. More complex packages have been adapted for efficient heat dissipation in high-power LEDs. Surface-mounted LEDs further reduce the package size. LEDs intended for use with fiber optics cables may be provided with an optical connector.
 
@@ -63,7 +61,7 @@ White LEDs and the illumination breakthrough
 
 Even though white light can be created using individual red, green and blue LEDs, this results in poor color rendering, since only three narrow bands of wavelengths of light are being emitted. The attainment of high efficiency blue LEDs was quickly followed by the development of the first white LED. In this device a :Ce (known as "YAG") cerium doped phosphor coating produces yellow light through fluorescence. The combination of that yellow with remaining blue light appears white to the eye. Using different phosphors produces green and red light through fluorescence. The resulting mixture of red, green and blue is perceived as white light, with improved color rendering compared to wavelengths from the blue LED/YAG phosphor combination.
 
-Haitz-law.svg, showing improvement in light output per LED over time, with a logarithmic scale on the vertical axis]] The first white LEDs were expensive and inefficient. However, the light output of LEDs has increased exponentially. The latest research and development has been propagated by Japanese manufacturers such as Panasonic, and Nichia, and by Korean and Chinese manufacturers such as Samsung, Kingsun, and others. This trend in increased output has been called Haitz's law after Dr. Roland Haitz.[69]
+, showing improvement in light output per LED over time, with a logarithmic scale on the vertical axis]] The first white LEDs were expensive and inefficient. However, the light output of LEDs has increased exponentially. The latest research and development has been propagated by Japanese manufacturers such as Panasonic, and Nichia, and by Korean and Chinese manufacturers such as Samsung, Kingsun, and others. This trend in increased output has been called Haitz's law after Dr. Roland Haitz.[69]
 
 Light output and efficiency of blue and near-ultraviolet LEDs rose and the cost of reliable devices fell. This led to relatively high-power white-light LEDs for illumination, which are replacing incandescent and fluorescent lighting.[70][71]
 
@@ -83,7 +81,7 @@ By selection of different semiconductor materials, single-color LEDs can be made
 
 Blue and ultraviolet
 
-Blue_light_emitting_diodes_over_a_proto-board.jpg LEDs]]
+LEDs]]
 
 Blue LEDs have an active region consisting of one or more InGaN quantum wells sandwiched between thicker layers of GaN, called cladding layers. By varying the relative In/Ga fraction in the InGaN quantum wells, the light emission can in theory be varied from violet to amber.
 
@@ -99,9 +97,7 @@ The 'whiteness' of the light produced is engineered to suit the human eye. Becau
 
 RGB systems
 
-RGB_LED_Spectrum.svg spectral bandwidth is approximately 24–27 nm for all three colors.]]
-
-RGB_LED.jpg
+spectral bandwidth is approximately 24–27 nm for all three colors.]]
 
 Mixing red, green, and blue sources to produce white light needs electronic circuits to control the blending of the colors. Since LEDs have slightly different emission patterns, the color balance may change depending on the angle of view, even if the RGB sources are in a single package, so RGB diodes are seldom used to produce white lighting. Nonetheless, this method has many applications because of the flexibility of mixing different colors,[84] and in principle, this mechanism also has higher quantum efficiency in producing white light.[85]
 
@@ -115,7 +111,7 @@ Dimming a multicolor LED source to match the characteristics of incandescent lam
 
 Phosphor-based LEDs
 
-White_LED.png light emitted by the Ce³⁺:YAG phosphor, which emits at roughly 500–700 nm]]
+light emitted by the Ce³⁺:YAG phosphor, which emits at roughly 500–700 nm]]
 
 This method involves coating LEDs of one color (mostly blue LEDs made of InGaN) with phosphors of different colors to form white light; the resultant LEDs are called phosphor-based or phosphor-converted white LEDs (pcLEDs).[88] A fraction of the blue light undergoes the Stokes shift, which transforms it from shorter wavelengths to longer. Depending on the original LED's color, various color phosphors are used. Using several phosphor layers of distinct colors broadens the emitted spectrum, effectively raising the color rendering index (CRI).[89]
 
@@ -143,13 +139,13 @@ The potential advantages of OLEDs include thin, low-cost displays with a low dri
 
 Types
 
-Verschiedene_LEDs.jpg LEDs, and most blue devices have colorless housings. Modern high-power LEDs such as those used for lighting and backlighting are generally found in surface-mount technology (SMT) packages (not shown).]]
+LEDs, and most blue devices have colorless housings. Modern high-power LEDs such as those used for lighting and backlighting are generally found in surface-mount technology (SMT) packages (not shown).]]
 
 LEDs are made in different packages for different applications. A single or a few LED junctions may be packed in one miniature device for use as an indicator or pilot lamp. An LED array may include controlling circuits within the same package, which may range from a simple resistor, blinking or color changing control, or an addressable controller for RGB devices. Higher-powered white-emitting devices will be mounted on heat sinks and will be used for illumination. Alphanumeric displays in dot matrix or bar formats are widely available. Special packages permit connection of LEDs to optical fibers for high-speed data communication links.
 
 Miniature
 
-Single_and_multicolor_surface_mount_miniature_LEDs_in_most_common_sizes.jpg LEDs in most common sizes. They can be much smaller than a traditional 5 mm lamp type LED, shown on the upper left corner.]] Very_small_1.6x1.6x0.35_mm_RGB_Surface_Mount_LED_EAST1616RGBA2.jpg miniature LED package with gold wire bonding details.]]
+LEDs in most common sizes. They can be much smaller than a traditional 5 mm lamp type LED, shown on the upper left corner.]] miniature LED package with gold wire bonding details.]]
 
 These are mostly single-die LEDs used as indicators, and they come in various sizes from 2 mm to 8 mm, through-hole and surface mount packages.[101] Typical current ratings range from around 1 mA to above 20 mA. Multiple LED dies attached to a flexible backing tape form an LED strip light.
 
@@ -161,7 +157,7 @@ Ultra-high-output LEDs are designed for viewing in direct sunlight
 
 High-power
 
-2007-07-24_High-power_light_emitting_diodes_(Luxeon,_Lumiled).jpg, Lumileds)]]
+, Lumileds)]]
 
 High-power LEDs (HP-LEDs) or high-output LEDs (HO-LEDs) can be driven at currents from hundreds of mA to more than an ampere, compared with the tens of mA for other LEDs. Some can emit over a thousand lumens.[102][103] LED power densities up to 300 W/cm² have been achieved. Since overheating is destructive, the HP-LEDs must be mounted on a heat sink to allow for heat dissipation. If the heat from an HP-LED is not removed, the device fails in seconds. One HP-LED can often replace an incandescent bulb in a flashlight, or be set in an array to form a powerful LED lamp.
 
@@ -185,7 +181,7 @@ Bi-color LEDs contain two different LED emitters in one case. There are two type
 
 RGB Tri-color
 
-Tri-color LEDs contain three different LED emitters in one case. Each emitter is connected to a separate lead so they can be controlled independently. A four-lead arrangement is typical with one common lead (anode or cathode) and an additional lead for each color. Others, however, have only two leads (positive and negative) and have a built-in electronic controller. RGB-SMD-LED.jpg
+Tri-color LEDs contain three different LED emitters in one case. Each emitter is connected to a separate lead so they can be controlled independently. A four-lead arrangement is typical with one common lead (anode or cathode) and an additional lead for each color. Others, however, have only two leads (positive and negative) and have a built-in electronic controller.
 
 RGB LEDs consist of one red, one green, and one blue LED.[109] By independently adjusting each of the three, RGB LEDs are capable of producing a wide color gamut. Unlike dedicated-color LEDs, however, these do not produce pure wavelengths. Modules may not be optimized for smooth color mixing.
 
@@ -195,7 +191,7 @@ Decorative-multicolor LEDs incorporate several emitters of different colors supp
 
 Alphanumeric
 
-Macro_photo_of_LED_matrix.jpg display using 1608/0603-type SMD LEDs. Top: A little over half of the 21x86 mm display. Center: Close-up of LEDs in ambient light. Bottom: LEDs in their own red light.]] Alphanumeric LEDs are available in seven-segment, starburst, and dot-matrix format. Seven-segment displays handle all numbers and a limited set of letters. Starburst displays can display all letters. Dot-matrix displays typically use 5x7 pixels per character. Seven-segment LED displays were in widespread use in the 1970s and 1980s, but rising use of liquid crystal displays, with their lower power needs and greater display flexibility, has reduced the popularity of numeric and alphanumeric LED displays.
+display using 1608/0603-type SMD LEDs. Top: A little over half of the 21x86 mm display. Center: Close-up of LEDs in ambient light. Bottom: LEDs in their own red light.]] Alphanumeric LEDs are available in seven-segment, starburst, and dot-matrix format. Seven-segment displays handle all numbers and a limited set of letters. Starburst displays can display all letters. Dot-matrix displays typically use 5x7 pixels per character. Seven-segment LED displays were in widespread use in the 1970s and 1980s, but rising use of liquid crystal displays, with their lower power needs and greater display flexibility, has reduced the popularity of numeric and alphanumeric LED displays.
 
 Digital RGB
 
@@ -214,7 +210,7 @@ Considerations for use
 
 Power sources
 
-LED_circuit.svg The current in an LED or other diodes rises exponentially with the applied voltage (see Shockley diode equation), so a small change in voltage can cause a large change in current. Current through the LED must be regulated by an external circuit such as a constant current source to prevent damage. Since most common power supplies are (nearly) constant-voltage sources, LED fixtures must include a power converter, or at least a current-limiting resistor. In some applications, the internal resistance of small batteries is sufficient to keep current within the LED rating.
+The current in an LED or other diodes rises exponentially with the applied voltage (see Shockley diode equation), so a small change in voltage can cause a large change in current. Current through the LED must be regulated by an external circuit such as a constant current source to prevent damage. Since most common power supplies are (nearly) constant-voltage sources, LED fixtures must include a power converter, or at least a current-limiting resistor. In some applications, the internal resistance of small batteries is sufficient to keep current within the LED rating.
 
 Electrical polarity
 
@@ -260,7 +256,7 @@ Disadvantages
 
 Applications
 
-LED_DaytimeRunningLights.jpg LEDs of an automobile]]LED uses fall into four major categories:
+LEDs of an automobile]]LED uses fall into four major categories:
 
 -   Visual signals where light goes more or less directly from the source to the human eye, to convey a message or meaning
 -   Illumination where light is reflected from objects to give visual response of these objects
@@ -272,8 +268,6 @@ Mims, Forrest M. III. "An Inexpensive and Accurate Student Sun Photometer with L
 Indicators and signs
 
 The low energy consumption, low maintenance and small size of LEDs has led to uses as status indicators and displays on a variety of equipment and installations. Large-area LED displays are used as stadium displays, dynamic decorative displays, and dynamic message signs on freeways. Thin, lightweight message displays are used at airports and railway stations, and as destination displays for trains, buses, trams, and ferries.
-
-Red_and_green_traffic_signals,_Stamford_Road,_Singapore_-_20111210.jpg
 
 One-color light is well suited for traffic lights and signals, exit signs, emergency vehicle lighting, ships' navigation lights, and LED-based Christmas lights
 
@@ -299,10 +293,6 @@ LEDs are small, durable and need little power, so they are used in handheld devi
 
 LEDs are used for infrared illumination in night vision uses including security cameras. A ring of LEDs around a video camera, aimed forward into a retroreflective background, allows chroma keying in video productions.
 
-LED_for_mines.jpg
-
-Los_Angeles_Bridge.jpg
-
 LEDs are used in mining operations, as cap lamps to provide light for miners. Research has been done to improve LEDs for mining, to reduce glare and to increase illumination, reducing risk of injury to the miners.[145]
 
 LEDs are increasingly finding uses in medical and educational applications, for example as mood enhancement,[146] and new technologies such as AmBX, exploiting LED versatility. NASA has even sponsored research for the use of LEDs to promote health for astronauts.[147]
@@ -327,7 +317,7 @@ File:LED screen behind Tsach Zimroni in Tel Aviv Israel.jpg | A large LED displa
 
 Other applications
 
-LED_Costume_by_Beo_Beyond.jpg Digitally_printed_LED_wallpaper_Dolomites.jpg The light from LEDs can be modulated very quickly so they are used extensively in optical fiber and free space optics communications. This includes remote controls, such as for television sets, where infrared LEDs are often used. Opto-isolators use an LED combined with a photodiode or phototransistor to provide a signal path with electrical isolation between two circuits. This is especially useful in medical equipment where the signals from a low-voltage sensor circuit (usually battery-powered) in contact with a living organism must be electrically isolated from any possible electrical failure in a recording or monitoring device operating at potentially dangerous voltages. An optoisolator also lets information be transferred between circuits that don't share a common ground potential.
+The light from LEDs can be modulated very quickly so they are used extensively in optical fiber and free space optics communications. This includes remote controls, such as for television sets, where infrared LEDs are often used. Opto-isolators use an LED combined with a photodiode or phototransistor to provide a signal path with electrical isolation between two circuits. This is especially useful in medical equipment where the signals from a low-voltage sensor circuit (usually battery-powered) in contact with a living organism must be electrically isolated from any possible electrical failure in a recording or monitoring device operating at potentially dangerous voltages. An optoisolator also lets information be transferred between circuits that don't share a common ground potential.
 
 Many sensor systems rely on light as the signal source. LEDs are often ideal as a light source due to the requirements of the sensors. The Nintendo Wii's sensor bar uses infrared LEDs. Pulse oximeters use them for measuring oxygen saturation. Some flatbed scanners use arrays of RGB LEDs rather than the typical cold-cathode fluorescent lamp as the light source. Having independent control of three illuminated colors allows the scanner to calibrate itself for more accurate color balance, and there is no need for warm-up. Further, its sensors only need be monochromatic, since at any one time the page being scanned is only lit by one color of light.
 

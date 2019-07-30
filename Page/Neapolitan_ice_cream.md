@@ -21,7 +21,7 @@ A cultural reference from _The New York Times_ in 1887: "...in a dress of pink a
 
 19th-century descriptions
 
-Neapolitan_ice_cream_UK.JPG 1885 – "NEAPOLITAN BOX" (A. B. Marshall, _The Book of Ices_)
+1885 – "NEAPOLITAN BOX" (A. B. Marshall, _The Book of Ices_)
 
 "You must have a Neapolitan box for this ice and fill it up in three or four layers with different coloured and flavoured ice creams (a water ice may be used with the custards); for instance, lemon, vanilla, chocolate and pistachio. Mould in the patent ice cave for about 1½ to 2 hours, turn it out, cut it in slices, and arrange neatly on the dish, on a napkin or dish-paper."[8]
 

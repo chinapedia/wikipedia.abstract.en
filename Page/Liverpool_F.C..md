@@ -11,19 +11,19 @@ The team changed from red shirts and white shorts to an all-red home strip in 19
 
 History
 
-1892–1959|History of Liverpool F.C. (1959–85){{!}}1959–85|History of Liverpool F.C. (1985–present){{!}}1985–present}} John_Houlding.jpg, the founder of Liverpool F.C.|alt=Black and white photograph of elder and bald John Houlding, wearing beard and bow tie.]]
+1892–1959|History of Liverpool F.C. (1959–85){{!}}1959–85|History of Liverpool F.C. (1985–present){{!}}1985–present}} , the founder of Liverpool F.C.|alt=Black and white photograph of elder and bald John Houlding, wearing beard and bow tie.]]
 
 Liverpool F.C. was founded following a dispute between the Everton committee and John Houlding, club president and owner of the land at Anfield. After eight years at the stadium, Everton relocated to Goodison Park in 1892 and Houlding founded Liverpool F.C. to play at Anfield.[5] Originally named "Everton F.C. and Athletic Grounds Ltd" (Everton Athletic for short), the club became Liverpool F.C. in March 1892 and gained official recognition three months later, after The Football Association refused to recognise the club as Everton. The team won the Lancashire League in its début season, and joined the Football League Second Division at the start of the 1893–94 season. After finishing in first place the club was promoted to the First Division, which it won in 1901 and again in 1906.
 
 Liverpool reached its first FA Cup Final in 1914, losing 1–0 to Burnley. It won consecutive League championships in 1922 and 1923, but did not win another trophy until the 1946–47 season, when the club won the First Division for a fifth time under the control of ex-West Ham Utd centre half George Kay. Liverpool suffered its second Cup Final defeat in 1950, playing against Arsenal. The club was relegated to the Second Division in the 1953–54 season. Soon after Liverpool lost 2–1 to non-league Worcester City in the 1958–59 FA Cup, Bill Shankly was appointed manager. Upon his arrival he released 24 players and converted a boot storage room at Anfield into a room where the coaches could discuss strategy; here, Shankly and other "Boot Room" members Joe Fagan, Reuben Bennett, and Bob Paisley began reshaping the team.
 
-Shankly_statue_out_front.jpg outside Anfield. Shankly won promotion to the First Division and the club's first league title since 1947.]]
+outside Anfield. Shankly won promotion to the First Division and the club's first league title since 1947.]]
 
 The club was promoted back into the First Division in 1962 and won it in 1964, for the first time in 17 years. In 1965, the club won its first FA Cup. In 1966, the club won the First Division but lost to Borussia Dortmund in the European Cup Winners' Cup final.[6] Liverpool won both the League and the UEFA Cup during the 1972–73 season, and the FA Cup again a year later. Shankly retired soon afterwards and was replaced by his assistant, Bob Paisley. In 1976, Paisley's second season as manager, the club won another League and UEFA Cup double. The following season, the club retained the League title and won the European Cup for the first time, but it lost in the 1977 FA Cup Final. Liverpool retained the European Cup in 1978 and regained the First Division title in 1979. During Paisley's nine seasons as manager Liverpool won 20 trophies, including three European Cups, a UEFA Cup, six League titles and three consecutive League Cups; the only domestic trophy he did not win was the FA Cup.
 
 Paisley retired in 1983 and was replaced by his assistant, Joe Fagan. Liverpool won the League, League Cup and European Cup in Fagan's first season, becoming the first English side to win three trophies in a season. Liverpool reached the European Cup final again in 1985, against Juventus at the Heysel Stadium. Before kick-off, Liverpool fans breached a fence which separated the two groups of supporters, and charged the Juventus fans. The resulting weight of people caused a retaining wall to collapse, killing 39 fans, mostly Italians. The incident became known as the Heysel Stadium disaster. The match was played in spite of protests by both managers, and Liverpool lost 1–0 to Juventus. As a result of the tragedy, English clubs were banned from participating in European competition for five years; Liverpool received a ten-year ban, which was later reduced to six years. Fourteen Liverpool fans received convictions for involuntary manslaughter.[7]
 
-Hillsborough_Memorial,_Anfield.jpg.]]
+.]]
 
 Fagan had announced his retirement just before the disaster and Kenny Dalglish was appointed as player-manager. During his tenure, the club won another three league titles and two FA Cups, including a League and Cup "Double" in the 1985–86 season. Liverpool's success was overshadowed by the Hillsborough disaster: in an FA Cup semi-final against Nottingham Forest on 15 April 1989, hundreds of Liverpool fans were crushed against perimeter fencing.[8] Ninety-four fans died that day; the 95th victim died in hospital from his injuries four days later and the 96th died nearly four years later, without regaining consciousness.[9] After the Hillsborough disaster there was a government review of stadium safety. The resulting Taylor Report paved the way for legislation that required top-division teams to have all-seater stadiums. The report ruled that the main reason for the disaster was overcrowding due to a failure of police control.[10]
 
@@ -31,7 +31,7 @@ Liverpool was involved in the closest finish to a league season during the 1988�
 
 Dalglish cited the Hillsborough disaster and its repercussions as the reason for his resignation in 1991; he was replaced by former player Graeme Souness. Under his leadership Liverpool won the 1992 FA Cup Final, but their league performances slumped, with two consecutive sixth-place finishes, eventually resulting in his dismissal in January 1994. Souness was replaced by Roy Evans, and Liverpool went on to win the 1995 Football League Cup Final. While they made some title challenges under Evans, third-place finishes in 1996 and 1998 were the best they could manage, and so Gérard Houllier was appointed co-manager in the 1998–99 season, and became the sole manager in November 1998 after Evans resigned.[12] In 2001, Houllier's second full season in charge, Liverpool won a "Treble": the FA Cup, League Cup and UEFA Cup.[13] Houllier underwent major heart surgery during the 2001–02 season and Liverpool finished second in the League, behind Arsenal.[14] They won a further League Cup in 2003, but failed to mount a title challenge in the two seasons that followed.
 
-2005_trophy_cropped.jpg trophy won by Liverpool for a fifth time in 2005|alt=A silver trophy with red ribbons on it, set against a green background]]
+trophy won by Liverpool for a fifth time in 2005|alt=A silver trophy with red ribbons on it, set against a green background]]
 
 Houllier was replaced by Rafael Benítez at the end of the 2003–04 season. Despite finishing fifth in Benítez's first season, Liverpool won the 2004–05 UEFA Champions League, beating A.C. Milan 3–2 in a penalty shootout after the match ended with a score of 3–3.[15] The following season, Liverpool finished third in the Premier League and won the 2006 FA Cup Final, beating West Ham United in a penalty shootout after the match finished 3–3.[16] American businessmen George Gillett and Tom Hicks became the owners of the club during the 2006–07 season, in a deal which valued the club and its outstanding debts at £218.9 million.[17] The club reached the 2007 UEFA Champions League Final against Milan, as it had in 2005, but lost 2–1.[18] During the 2008–09 season Liverpool achieved 86 points, its highest Premier League points total, and finished as runners up to Manchester United.[19]
 
@@ -42,15 +42,11 @@ Rodgers was replaced by Jürgen Klopp,[30] who in his first season at Liverpool,
 
 Colours and badge
 
-Liverpool_FC_1892-1896_kit.jpg
-
 For much of Liverpool's history its home colours have been all red, but when the club was founded its kit was more like the contemporary Everton kit. The blue and white quartered shirts were used until 1894, when the club adopted the city's colour of red.[35] The city's symbol of the liver bird was adopted as the club's badge in 1901, although it was not incorporated into the kit until 1955. Liverpool continued to wear red shirts and white shorts until 1964, when manager Bill Shankly decided to change to an all red strip.[36] Liverpool played in all red for the first time against Anderlecht, as Ian St. John recalled in his autobiography:
 
 
 
 The Liverpool away strip has more often than not been all yellow or white shirts and black shorts, but there have been several exceptions. An all grey kit was introduced in 1987, which was used until the 1991–92 centenary season, when it was replaced by a combination of green shirts and white shorts. After various colour combinations in the 1990s, including gold and navy, bright yellow, black and grey, and ecru, the club alternated between yellow and white away kits until the 2008–09 season, when it re-introduced the grey kit. A third kit is designed for European away matches, though it is also worn in domestic away matches on occasions when the current away kit clashes with a team's home kit. Between 2012 and 2015, the kits were designed by Warrior Sports, who became the club's kit providers at the start of the 2012–13 season.[37] In February 2015, Warrior's parent company New Balance announced it would be entering the global football market, with teams sponsored by Warrior now being outfitted by New Balance.[38] The only other branded shirts worn by the club were made by Umbro until 1985, when they were replaced by Adidas, who produced the kits until 1996 when Reebok took over. They produced the kits for 10 years before Adidas made the kits from 2006 to 2012.
-
-Liverpool_Crest.jpg
 
 Liverpool was the first English professional club to have a sponsor's logo on its shirts, after agreeing a deal with Hitachi in 1979.[39] Since then the club has been sponsored by Crown Paints, Candy, Carlsberg and Standard Chartered. The contract with Carlsberg, which was signed in 1992, was the longest-lasting agreement in English top-flight football.[40] The association with Carlsberg ended at the start of the 2010–11 season, when Standard Chartered Bank became the club's sponsor.[41]
 
@@ -88,7 +84,7 @@ Kit deals
 
 Stadium
 
-Panorama_of_Anfield_with_new_main_stand_(29676137824).jpg, home of Liverpool F.C.]]
+, home of Liverpool F.C.]]
 
 Anfield was built in 1884 on land adjacent to Stanley Park. Situated 2 miles (3 km) from Liverpool city centre, it was originally used by Everton before the club moved to Goodison Park after a dispute over rent with Anfield owner John Houlding. Left with an empty ground, Houlding founded Liverpool in 1892 and the club has played at Anfield ever since. The capacity of the stadium at the time was 20,000, although only 100 spectators attended Liverpool's first match at Anfield.
 
@@ -101,13 +97,13 @@ Because of restrictions on expanding the capacity at Anfield, Liverpool announce
 
 Support
 
-Liverpool_v_Chelsea,_2005.jpg Stand]]
+Stand]]
 
 Liverpool is one of the best supported clubs in the world.[57][58] The club states that its worldwide fan base includes more than 200 officially recognised Club of the LFC Official Supporters Clubs in at least 50 countries. Notable groups include Spirit of Shankly.[59] The club takes advantage of this support through its worldwide summer tours,[60] which has included playing in front of 101,000 in Michigan, U.S., and 95,000 in Melbourne, Australia.[61][62] Liverpool fans often refer to themselves as KOPITES, a reference to the fans who once stood, and now sit, on the Kop at Anfield.[63] In 2008 a group of fans decided to form a splinter club, A.F.C. Liverpool, to play matches for fans who had been priced out of watching Premier League football.[64]
 
 The song "You'll Never Walk Alone", originally from the Rodgers and Hammerstein musical _Carousel_ and later recorded by Liverpool musicians Gerry and the Pacemakers, is the club's anthem and has been sung by the Anfield crowd since the early 1960s.[65] It has since gained popularity among fans of other clubs around the world.[66] The song's title adorns the top of the Shankly Gates, which were unveiled on 2 August 1982 in memory of former manager Bill Shankly. The "You'll Never Walk Alone" portion of the Shankly Gates is also reproduced on the club's crest.[67]
 
-Shankly_Gates.jpg|alt=Design of the top of a set of gates, with the sky visible. The inscription on the gates reads "You'll Never Walk Alone".]]
+|alt=Design of the top of a set of gates, with the sky visible. The inscription on the gates reads "You'll Never Walk Alone".]]
 
 The club's supporters have been involved in two stadium disasters. The first was the 1985 Heysel Stadium disaster, in which 39 Juventus supporters were killed. They were confined to a corner by Liverpool fans who had charged in their direction; the weight of the cornered fans caused a wall to collapse. UEFA laid the blame for the incident solely on the Liverpool supporters,[68] and banned all English clubs from European competition for five years. Liverpool was banned for an additional year, preventing it from participating in the 1990–91 European Cup, even though it won the League in 1990.[69] Twenty-seven fans were arrested on suspicion of manslaughter and were extradited to Belgium in 1987 to face trial.[70] In 1989, after a five-month trial in Belgium, 14 Liverpool fans were given three-year sentences for involuntary manslaughter;[71] half of the terms were suspended.[72]
 
@@ -115,7 +111,7 @@ The second disaster took place during an FA Cup semi-final between Liverpool and
 
 Rivalries
 
-Merseyside_derby.jpg at Anfield in 2006]]
+at Anfield in 2006]]
 
 Liverpool's longest-established rivalry is with fellow Liverpool team Everton, against whom they contest the Merseyside derby. The rivalry stems from Liverpool's formation and the dispute with Everton officials and the then owners of Anfield.[76] The Merseyside derby is one of the few local derbies which do not enforce fan segregation, and hence has been known as the "friendly derby".[77] Since the mid-1980s, the rivalry has intensified both on and off the field and, since the inception of the Premier League in 1992, the Merseyside derby has had more players sent off than any other Premier League game. It has been referred to as "the most ill-disciplined and explosive fixture in the Premier League".[78]
 
@@ -124,7 +120,7 @@ Liverpool's rivalry with Manchester United stems from the cities' competition in
 
 Ownership and finances
 
-John_W_Henry-Fenway_(cropped).jpg of Fenway Sports Group, the parent company of Liverpool]]
+of Fenway Sports Group, the parent company of Liverpool]]
 
 As the owner of Anfield and founder of Liverpool, John Houlding was the club's first chairman, a position he held from its founding in 1892 until 1904. John McKenna took over as chairman after Houlding's departure. McKenna subsequently became President of the Football League. The chairmanship changed hands many times before John Smith, whose father was a shareholder of the club, took up the role in 1973. He oversaw the most successful period in Liverpool's history before stepping down in 1990. His successor was Noel White who became chairman in 1990. In August 1991 David Moores, whose family had owned the club for more than 50 years became chairman. His uncle John Moores was also a shareholder at Liverpool and was chairman of Everton from 1961 to 1973. Moores owned 51 percent of the club, and in 2004 expressed his willingness to consider a bid for his shares in Liverpool.[87]
 
@@ -200,7 +196,7 @@ Since the establishment of the club in 1892, 45 players have been club captain o
 
 Player of the season
 
-Steven_Gerrard,_2014.jpg, four-time winner of the award|alt=The head and torso of a man with short, brown hair. He is wearing a red shirt and a black armband.]] Luis_Suárez_Díaz_(cropped).jpg, two-time winner of the award|alt=The head and torso of a man with short, dark hair. He is wearing a red shirt.]]
+, four-time winner of the award|alt=The head and torso of a man with short, brown hair. He is wearing a red shirt and a black armband.]] , two-time winner of the award|alt=The head and torso of a man with short, dark hair. He is wearing a red shirt.]]
 
 +---------+------+-------------+----------+--------------------------------------------------------------------------------------------------------------------------------------------+-------+
 | Season  | Name | Nationality | Position | Notes                                                                                                                                      |       |
@@ -270,7 +266,7 @@ Liverpool Football Club[137]
 
 Coaching and medical staff[142]
 
-Jurgen_Klopp_leaves_the_pitch_at_full-time_a_happy_man_(34018926193)_cropped.jpg, _The Normal One_]]
+, _The Normal One_]]
 
 -   Manager: Jürgen Klopp
 -   Assistant coach: Pepijn Lijnders
@@ -284,7 +280,7 @@ Jurgen_Klopp_leaves_the_pitch_at_full-time_a_happy_man_(34018926193)_cropped.jpg
 
 Honours
 
-Liverpool_4_European_Cups.jpg Liverpool won from 1977 to 1984 on display in the club's museum]]
+Liverpool won from 1977 to 1984 on display in the club's museum]]
 
 Liverpool's first trophy was the Lancashire League, which it won in the club's first season. In 1901, the club won its first League title, while its first success in the FA Cup was in 1965. In terms of the number of trophies won, Liverpool's most successful decade was the 1980s, when the club won six League titles, two FA Cups, four League Cups, five Charity Shields (one shared) and two European Cups.
 

@@ -14,19 +14,17 @@ After his father's death he began working in the fields. His mother Maria was a 
 
 Founding of the Celestines
 
-Eremo_di_Sant'Onofrio_al_Morrone1.JPG, Sulmona (Abruzzo)]] While living like this he founded, in 1244, the order subsequently named after him, the Celestines. A new religious community was formed, and Pietro gave them a rule formulated in accordance with his own practices. In 1264 the new institution was approved by Urban IV. Having heard that it was probable that Pope Gregory X, then holding a council at Lyon, would suppress all such new orders as had been founded since the Lateran Council had commanded that such institutions should not be further multiplied, Pietro went to Lyon. There he succeeded in persuading Gregory to approve his new order, making it a branch of the Benedictines and following the rule of Saint Benedict, but adding to it additional severities and privations. Gregory took it under the Papal protection, assured to it the possession of all property it might acquire, and endowed it with exemption from the authority of the ordinary. Nothing more was needed to ensure the rapid spread of the new association and Pietro lived to see himself "Superior-General" to thirty-six monasteries and more than six hundred monks. Pietro, however, cannot be accused of ambition or the lust of power when a monastic superior, any more than when he insisted on divesting himself of the Papacy, to which he was subsequently raised.
+, Sulmona (Abruzzo)]] While living like this he founded, in 1244, the order subsequently named after him, the Celestines. A new religious community was formed, and Pietro gave them a rule formulated in accordance with his own practices. In 1264 the new institution was approved by Urban IV. Having heard that it was probable that Pope Gregory X, then holding a council at Lyon, would suppress all such new orders as had been founded since the Lateran Council had commanded that such institutions should not be further multiplied, Pietro went to Lyon. There he succeeded in persuading Gregory to approve his new order, making it a branch of the Benedictines and following the rule of Saint Benedict, but adding to it additional severities and privations. Gregory took it under the Papal protection, assured to it the possession of all property it might acquire, and endowed it with exemption from the authority of the ordinary. Nothing more was needed to ensure the rapid spread of the new association and Pietro lived to see himself "Superior-General" to thirty-six monasteries and more than six hundred monks. Pietro, however, cannot be accused of ambition or the lust of power when a monastic superior, any more than when he insisted on divesting himself of the Papacy, to which he was subsequently raised.
 
 As soon as he had seen his new order thus consolidated he gave up the government of it to a certain Robert, and retired once again to a still more remote solitude to give himself up more entirely to solitary penance and prayer. Shortly afterwards, in a chapter of the order held in 1293, the original monastery of Majella being judged to be too desolate and exposed to too rigorous a climate, it was decided that Abbazia Morronese in the plains of Sulmona should be the headquarters of the order and the residence of the General-Superior, as it has continued to be to the present day.
 
 
 Election as pope
 
-SMariaCollemaggio.jpg, L'Aquila (Abruzzi)]] The cardinals assembled at Perugia after the death of Pope Nicholas IV in April 1292. After more than two years, a consensus had still not been reached. Pietro, well known to the cardinals as a Benedictine hermit, sent the cardinals a letter warning them that divine vengeance would fall upon them if they did not quickly elect a pope. Latino Malabranca, the aged and ill dean of the College of Cardinals cried out, "In the name of the Father, the Son, and the Holy Ghost, I elect brother Pietro di Morrone." The cardinals promptly ratified Malabranca's desperate decision. When sent for, Pietro obstinately refused to accept the papacy, and even, as Petrarch says, tried to flee, until he was finally persuaded by a deputation of cardinals accompanied by the king of Naples and the pretender to the throne of Hungary. Elected on 5 July 1294,[3] at age 79, he was crowned at Santa Maria di Collemaggio in the city of Aquila in the Abruzzo on 29 August, taking the name Celestine V.[4]
+, L'Aquila (Abruzzi)]] The cardinals assembled at Perugia after the death of Pope Nicholas IV in April 1292. After more than two years, a consensus had still not been reached. Pietro, well known to the cardinals as a Benedictine hermit, sent the cardinals a letter warning them that divine vengeance would fall upon them if they did not quickly elect a pope. Latino Malabranca, the aged and ill dean of the College of Cardinals cried out, "In the name of the Father, the Son, and the Holy Ghost, I elect brother Pietro di Morrone." The cardinals promptly ratified Malabranca's desperate decision. When sent for, Pietro obstinately refused to accept the papacy, and even, as Petrarch says, tried to flee, until he was finally persuaded by a deputation of cardinals accompanied by the king of Naples and the pretender to the throne of Hungary. Elected on 5 July 1294,[3] at age 79, he was crowned at Santa Maria di Collemaggio in the city of Aquila in the Abruzzo on 29 August, taking the name Celestine V.[4]
 
 
 Papacy
-
-Papa_Celestino_V_01.jpg
 
 Shortly after assuming office, Celestine issued a papal bull granting a rare plenary indulgence to all pilgrims visiting Santa Maria di Collemaggio through its holy door on the anniversary of his papal coronation.[5] The _Perdonanza Celestiniana_ festival is celebrated in L'Aquila every 28–29 August in commemoration of this event.[6]
 
@@ -39,7 +37,7 @@ The next pope to resign of his own accord was Pope Benedict XVI in 2013, 719 yea
 
 Retirement, death, and canonization
 
-Celestine_V_Castel_Nuovo_Napoli_n02.jpg, Castel Nuovo]]
+, Castel Nuovo]]
 
 The former Celestine, now reverted to Pietro Angelerio, was not allowed to become a hermit once again. Various parties had opposed his resignation and the new Pope Boniface VIII had reason to worry that one of them might install him as an antipope. To prevent this he ordered Pietro to accompany him to Rome. Pietro escaped and hid in the woods before attempting to return to Sulmona to resume monastic life. This proved impossible, and Pietro was captured after an attempt to flee to Dalmatia was thwarted when a tempest forced his ship to return to port. Boniface imprisoned him in the castle of Fumone near Ferentino in Campagna, attended by two monks of his order, where Pietro died after 10 months at about the age of 81. His supporters spread the allegation that Boniface had treated him harshly and ultimately executed Pietro, but there is no clear historical evidence of this.[14] Pietro was buried at Ferentino, but his body was subsequently removed to the Basilica Santa Maria di Collemaggio in Aquila.
 
@@ -64,8 +62,6 @@ His entry in the _Martyrologium Romanum_ for 19 May reads as follows:
 
 
 In literature
-
-Opuscula_omnia.tif
 
 A persistent tradition identifies Celestine V as the nameless figure Dante Alighieri sees among those in the antechamber of Hell, in the enigmatic verses:
 

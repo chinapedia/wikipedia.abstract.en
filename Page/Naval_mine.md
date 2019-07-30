@@ -1,4 +1,4 @@
-Mina_morska_typu_M_1908-39.jpg, and these trigger the mine's detonation when a ship bumps into them.]]
+, and these trigger the mine's detonation when a ship bumps into them.]]
 
 A NAVAL MINE is a self-contained explosive device placed in water to damage or destroy surface ships or submarines. Unlike depth charges, mines are deposited and left to wait until they are triggered by the approach of, or contact with, any vessel. Naval mines can be used offensively, to hamper enemy shipping movements or lock vessels into a harbour; or defensively, to protect friendly vessels and create "safe" zones.
 
@@ -6,8 +6,6 @@ A NAVAL MINE is a self-contained explosive device placed in water to damage or d
 Description
 
 Mines can be laid in many ways: by purpose-built minelayers, refitted ships, submarines, or aircraft—and even by dropping them into a harbour by hand. They can be inexpensive: some variants can cost as little as US$2000, though more sophisticated mines can cost millions of dollars, be equipped with several kinds of sensors, and deliver a warhead by rocket or torpedo.
-
-British_Mk_14_Sea_Mine.jpg
 
 Their flexibility and cost-effectiveness make mines attractive to the less powerful belligerent in asymmetric warfare. The cost of producing and laying a mine is usually between 0.5% and 10% of the cost of removing it, and it can take up to 200 times as long to clear a minefield as to lay it. Parts of some World War II naval minefields still exist because they are too extensive and expensive to clear.[1] It is possible for some of these 1940s-era mines to remain dangerous for many years to come.
 
@@ -22,17 +20,17 @@ History
 
 Early use
 
-Chinese_Naval_Mine.JPG'']]
+'']]
 
 Precursors to naval mines were first invented by Chinese innovators of Imperial China and were described in thorough detail by the early Ming dynasty artillery officer Jiao Yu, in his 14th century military treatise known as the _Huolongjing_.[2] Chinese records tell of naval explosives in the 16th century, used to fight against Japanese pirates (_wokou_). This kind of naval mine was loaded in a wooden box, sealed with putty. General Qi Jiguang made several timed, drifting explosives, to harass Japanese pirate ships.[3] The _Tiangong Kaiwu_ (_The Exploitation of the Works of Nature_) treatise, written by Song Yingxing in 1637 AD, describes naval mines with a rip cord pulled by hidden ambushers located on the nearby shore who rotated a steel wheellock flint mechanism to produce sparks and ignite the fuse of the naval mine.[4] Although this is the rotating steel wheellock's first use in naval mines, Jiao Yu had described their use for land mines back in the 14th century.[5]
 
 The first plan for a sea mine in the West was by Ralph Rabbards, who presented his design to Queen Elizabeth I of England in 1574.[6] The Dutch inventor Cornelius Drebbel was employed in the Office of Ordnance by King Charles I of England to make weapons, including a "floating petard" which proved a failure.[7] Weapons of this type were apparently tried by the English at the Siege of La Rochelle in 1627.[8]
 
-Bushnell_mines.jpg's mines destroying a British ship in 1777]] American David Bushnell developed the first American naval mine for use against the British in the American War of Independence.[9] It was a watertight keg filled with gunpowder that was floated toward the enemy, detonated by a sparking mechanism if it struck a ship. It was used on the Delaware River as a drift mine.[10]
+'s mines destroying a British ship in 1777]] American David Bushnell developed the first American naval mine for use against the British in the American War of Independence.[9] It was a watertight keg filled with gunpowder that was floated toward the enemy, detonated by a sparking mechanism if it struck a ship. It was used on the Delaware River as a drift mine.[10]
 
 19th century
 
-Waud_-_infernal_machines.jpg in 1861 during the American Civil War, sketch by Alfred Waud]]
+in 1861 during the American Civil War, sketch by Alfred Waud]]
 
 In 1812 Russian engineer Pavel Shilling exploded an underwater mine using an electrical circuit. In 1842 Samuel Colt used an electric detonator to destroy a moving vessel to demonstrate an underwater mine of his own design to the United States Navy and President John Tyler. However, opposition from former President John Quincy Adams scuttled the project as "not fair and honest warfare."[11] In 1854, during the unsuccessful attempt of the Anglo-French fleet to seize the Kronstadt fortress, British steamships HMS _Merlin_ (9 June 1855, the first successful mining in history), HMS _Vulture_ and HMS _Firefly_ suffered damage due to the underwater explosions of Russian naval mines. Russian naval specialists set more than 1500 naval mines, or _infernal machines_, designed by Moritz von Jacobi and by Immanuel Nobel,[12] in the Gulf of Finland during the Crimean War of 1853–1856. The mining of _Vulcan_ led to the world's first minesweeping operation.[13][14] During the next 72 hours, 33 mines were swept.[15]
 
@@ -64,7 +62,7 @@ During World War I, mines were used extensively to defend coasts, coastal shippi
 
 World War II
 
-L_L_sweeping_gear.jpg During World War II, the U-boat fleet, which dominated much of the battle of the Atlantic, was small at the beginning of the war and much of the early action by German forces involved mining convoy routes and ports around Britain. German submarines also operated in the Mediterranean Sea, in the Caribbean Sea, and along the U.S. coast.
+During World War II, the U-boat fleet, which dominated much of the battle of the Atlantic, was small at the beginning of the war and much of the early action by German forces involved mining convoy routes and ports around Britain. German submarines also operated in the Mediterranean Sea, in the Caribbean Sea, and along the U.S. coast.
 
 Initially, contact mines (requiring a ship to physically strike a mine to detonate it) were employed, usually tethered at the end of a cable just below the surface of the water. Contact mines usually blew a hole in ships' hulls. By the beginning of World War II, most nations had developed mines that could be dropped from aircraft, some of which floated on the surface, making it possible to lay them in enemy harbours. The use of dredging and nets was effective against this type of mine, but this consumed valuable time and resources, and required harbours to be closed.
 
@@ -72,7 +70,7 @@ Later, some ships survived mine blasts, limping into port with buckled plates an
 
 The British experienced a stroke of luck in November 1939, when a German mine was dropped from an aircraft onto the mud flats off Shoeburyness during low tide. Additionally, the land belonged to the army and a base with men and workshops was at hand. Experts were dispatched from HMS Vernon to investigate the mine. The Royal Navy knew that mines could use magnetic sensors, Britain having developed magnetic mines in World war I, so everyone removed all metal, including their buttons, and made tools of non-magnetic brass.[25] They disarmed the mine and rushed it to the labs at HMS Vernon, where scientists discovered that the mine had a magnetic arming mechanism. A large ferrous object passing through the Earth's magnetic field will concentrate the field through it; the mine's detector was designed to trigger as a ship passed over, when its magnetic field was concentrated as measured by the mine. The mechanism had an adjustable sensitivity, calibrated in milligauss. (As it turned out, the German firing mechanism was overly sensitive, making sweeping easier.)[26] The U.S. began adding delay counters to their magnetic mines in June 1945.[27]
 
-Dwi_wellington_front.jpg fitted with a _DWI_, magnetic mine exploder, Ismailia, Egypt]] From this data, known methods were used to clear these mines. Early methods included the use of large electromagnets dragged behind ships or below low-flying aircraft (a number of older bombers like the Vickers Wellington were used for this). Both of these methods had the disadvantage of "sweeping" only a small strip. A better solution was found in the "Double-L Sweep"[28] using electrical cables dragged behind ships that passed large pulses of current through the seawater. This created a large magnetic field and swept the entire area between the two ships. The older methods continued to be used in smaller areas. The Suez Canal continued to be swept by aircraft, for instance. Wartime Japanese sweep methods, by contrast, never advanced much past 1930s standards, and failed entirely to keep up with new American mines,[29] clearing no more than 15% of all the mines laid in Japan's coastal waters.[30] Moreover, IJN's minesweeping force was far too small with 350 ships, and 20,000 men.[31]
+fitted with a _DWI_, magnetic mine exploder, Ismailia, Egypt]] From this data, known methods were used to clear these mines. Early methods included the use of large electromagnets dragged behind ships or below low-flying aircraft (a number of older bombers like the Vickers Wellington were used for this). Both of these methods had the disadvantage of "sweeping" only a small strip. A better solution was found in the "Double-L Sweep"[28] using electrical cables dragged behind ships that passed large pulses of current through the seawater. This created a large magnetic field and swept the entire area between the two ships. The older methods continued to be used in smaller areas. The Suez Canal continued to be swept by aircraft, for instance. Wartime Japanese sweep methods, by contrast, never advanced much past 1930s standards, and failed entirely to keep up with new American mines,[29] clearing no more than 15% of all the mines laid in Japan's coastal waters.[30] Moreover, IJN's minesweeping force was far too small with 350 ships, and 20,000 men.[31]
 
 While these methods were useful for clearing mines from local ports, they were of little or no use for enemy-controlled areas. These were typically visited by warships, and the majority of the fleet then underwent a massive degaussing process, where their hulls had a slight "south" bias induced into them which offset the concentration effect almost to zero.
 
@@ -90,7 +88,7 @@ When the war ended, more than 25,000 U.S.-laid mines were still in place, and th
 
 Cold War era
 
-Ffg58minedamage2.jpg in Dubai, UAE.]] Since World War II, mines have damaged 14 United States Navy ships, whereas air and missile attacks have damaged four. During the Korean War, mines laid by North Korean forces caused 70% of the casualties suffered by U.S. naval vessels and caused 4 sinkings.[45]
+in Dubai, UAE.]] Since World War II, mines have damaged 14 United States Navy ships, whereas air and missile attacks have damaged four. During the Korean War, mines laid by North Korean forces caused 70% of the casualties suffered by U.S. naval vessels and caused 4 sinkings.[45]
 
 During the Iran–Iraq War from 1980 to 1988, the belligerents mined several areas of the Persian Gulf and nearby waters. On 24 July 1987, the supertanker _SS_ Bridgeton was mined by Iran near Farsi Island. On 14 April 1988, struck an Iranian M-08/39 mine in the central Persian Gulf shipping lane, wounding 10 sailors.
 
@@ -103,7 +101,7 @@ During the Gulf War, Iraqi naval mines severely damaged and .[51] When the war c
 
 Types
 
-Types_of_Naval_mine_001.svg Naval mines may be classified into three major groups; contact, remote and influence mines.
+Naval mines may be classified into three major groups; contact, remote and influence mines.
 
 Contact mines
 
@@ -121,7 +119,7 @@ Limpet mines are a special form of contact mine that are manually attached to th
 
 Moored contact mines
 
-Mine_(AWM_304925).jpg during World War II]]
+during World War II]]
 
 Generally, this mine type is set to float just below the surface of the water or as deep as five meters. A steel cable connecting the mine to an anchor on the seabed prevents it from drifting away. The explosive and detonating mechanism is contained in a buoyant metal or plastic shell. The depth below the surface at which the mine floats can be set so that only deep draft vessels such as aircraft carriers, battleships or large cargo ships are at risk, saving the mine from being used on a less valuable target. In littoral waters it is important to ensure that the mine does not become visible when the sea level falls at low tide, so the cable length is adjusted to take account of tides. During WWII there were mines that could be moored in 300m-deep water.
 
@@ -143,7 +141,7 @@ Modern examples usually weigh , including of explosives (TNT or hexatonal).
 
 Influence mines
 
-Luftmine_(LM).jpg bomber during WWII and landed on the ground. Fuze mechanisms are visible]] These mines are triggered by the influence of a ship or submarine, rather than direct contact. Such mines incorporate electronic sensors designed to detect the presence of a vessel and detonate when it comes within the blast range of the warhead. The fuzes on such mines may incorporate one or more of the following sensors: magnetic, passive acoustic or water pressure displacement caused by the proximity of a vessel.[59]
+bomber during WWII and landed on the ground. Fuze mechanisms are visible]] These mines are triggered by the influence of a ship or submarine, rather than direct contact. Such mines incorporate electronic sensors designed to detect the presence of a vessel and detonate when it comes within the blast range of the warhead. The fuzes on such mines may incorporate one or more of the following sensors: magnetic, passive acoustic or water pressure displacement caused by the proximity of a vessel.[59]
 
 First used during WWI, their use became more general in WWII. The sophistication of influence mine fuzes has increased considerably over the years as first transistors and then microprocessors have been incorporated into designs. Simple magnetic sensors have been superseded by total-field magnetometers. Whereas early magnetic mine fuzes would respond only to changes in a single component of a target vessel's magnetic field, a total field magnetometer responds to changes in the magnitude of the total background field (thus enabling it to better detect even degaussed ships). Similarly, the original broadband hydrophones of 1940s acoustic mines (which operate on the integrated volume of all frequencies) have been replaced by narrow-band sensors which are much more sensitive and selective. Mines can now be programmed to listen for highly specific acoustic signatures (e.g. a gas turbine powerplant or cavitation sounds from a particular design of propeller) and ignore all others. The sophistication of modern electronic mine fuzes incorporating these digital signal processing capabilities makes it much more difficult to detonate the mine with electronic countermeasures because several sensors working together (e.g. magnetic, passive acoustic and water pressure) allow it to ignore signals which are not recognised as being the unique signature of an intended target vessel.[60]
 
@@ -183,7 +181,7 @@ The ascending mine is a floating distance mine that may cut its mooring or in so
 
 Homing mines
 
-Mark_60_CAPTOR-DF-ST-90-11649.JPEG at Loring Air Force Base]]These are mines containing a moving weapon as a warhead, either a torpedo or a rocket.
+at Loring Air Force Base]]These are mines containing a moving weapon as a warhead, either a torpedo or a rocket.
 
 Rocket mine: a Russian invention, the rocket mine is a bottom distance mine that fires a homing high-speed rocket (not torpedo) upwards towards the target. It is intended to allow a bottom mine to attack surface ships as well as submarines from a greater depth. One type is the Te-1 rocket propelled mine.
 
@@ -210,9 +208,9 @@ Plastic drums filled with sand or concrete are periodically rolled off the side 
 
 Mine laying
 
-Mine_laying_ship_Iran_Ajr.jpg'' (left), a converted Japanese-built landing craft, 1987.]]
+'' (left), a converted Japanese-built landing craft, 1987.]]
 
-US_Navy_030321-N-4655M-029_Coalition_Navy_Explosive_Ordnance_Disposal_(EOD)_team_members_inspect_camouflaged_mines_hidden_inside_oil_barrels_on_the_deck_of_an_Iraqi_shipping_barge.jpgd Iraqi mines hidden inside oil barrels on a shipping barge in the Persian Gulf, 2003.]]
+d Iraqi mines hidden inside oil barrels on a shipping barge in the Persian Gulf, 2003.]]
 
 Historically several methods were used to lay mines. During WWI and WWII, the Germans used U-boats to lay mines around the UK. In WWII, aircraft came into favour for mine laying with one of the largest examples being the mining of the Japanese sea routes in Operation Starvation.
 
@@ -303,7 +301,7 @@ Active countermeasures
 
 Active countermeasures are ways to clear a path through a minefield or remove it completely. This is one of the most important tasks of any mine warfare flotilla.
 
-MH-53E_Sea_Dragon_towing_sled.jpg from HM-15 tows a minesweeping sled while conducting simulated mine clearing operations]] USS_Tide_sinking.jpg, 7 June 1944. Note her broken back, with smoke pouring from amidships.]]
+from HM-15 tows a minesweeping sled while conducting simulated mine clearing operations]] , 7 June 1944. Note her broken back, with smoke pouring from amidships.]]
 
 Mine sweeping
 
@@ -325,7 +323,7 @@ When influence mines are laid in an ocean minefield, they may have various combi
 
 Mines with ship-counters, arming delays and highly specific target signatures in mine fuzes can falsely convince a belligerent that a particular area is clear of mines or has been swept effectively because a succession of vessels have already passed through safely.
 
-Minenjagddrohne_Pinguin.jpg]]
+]]
 
 Mine hunting
 
@@ -337,7 +335,7 @@ French naval officer Jacques Yves Cousteau's Undersea Research Group was once in
 
 Mine running
 
-SeehundeTroika.jpg ROVs of the German Navy used for minesweeping]]
+ROVs of the German Navy used for minesweeping]]
 
 A more drastic method is simply to run a ship through the minefield, letting other ships safely follow the same path. An early example of this was Farragut's actions at Mobile Bay during the American Civil War. However, as mine warfare became more developed this method became uneconomical. This method was revived by the German _Kriegsmarine_ during WWII. Left with a surfeit of idle ships due to the Allied blockade, the _Kriegsmarine_ introduced a ship known as _Sperrbrecher_ ("block breaker"). Typically an old cargo ship, loaded with cargo that made her less vulnerable to sinking (wood for example), the _Sperrbrecher_ was run ahead of the ship to be protected, detonating any mines that might be in their path. The use of _Sperrbrecher_ obviated the need to continuous and painstaking sweeping, but the cost was high. Over half the 100 or so ships used as _Sperrbrecher_ were sunk during the war. Alternatively, a shallow draught vessel can be steamed through the minefield at high speed to generate a pressure wave sufficient to trigger mines, with the minesweeper moving fast enough to be sufficiently clear of the pressure wave so that triggered mines do not destroy the ship itself. These techniques are the only publicly known to be employed way to sweep pressure mines. The technique can be simply countered by use of a ship-counter, set to allow a certain number of passes before the mine is actually triggered. Modern doctrine calls for ground mines to be hunted rather than swept. A new system is being introduced for sweeping pressure mines, however counters are going to remain a problem.[114][115]
 
@@ -363,7 +361,7 @@ GENERAL CHARACTERISTICS
 -   Explosives: high explosive
 -   Date Deployed: 1987
 
-US_Navy_040705-N-1050K-004_A_MK_62_Quick_Strike_mine_is_deployed_from_the_starboard_wing_of_a_P-3C_Orion_aircraft_form_the_Grey_Knights_of_Patrol_Squadron_Four_Six_(VP-46).jpg]] MK65 QUICKSTRIKE
+]] MK65 QUICKSTRIKE
 The Quickstrike[116] is a family of shallow-water aircraft-laid mines used by the United States, primarily against surface craft. The MK65 is a 2,000-lb (900 kg) dedicated, purpose-built mine. However, other Quickstrike versions (MK62, MK63, and MK64) are converted general-purpose bombs. These latter three mines are actually a single type of electronic fuze fitted to Mk82, Mk83 and Mk84 air-dropped bombs. Because this latter type of Quickstrike fuze only takes up a small amount of storage space compared to a dedicated sea mine, the air-dropped bomb casings have dual purpose i.e. can be fitted with conventional contact fuzes and dropped on land targets, or have a Quickstrike fuze fitted which converts them into sea mines.
 
 GENERAL CHARACTERISTICS

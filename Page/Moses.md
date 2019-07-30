@@ -11,7 +11,7 @@ Jerome gives 1592 BCE,[12] and James Ussher 1571 BCE as Moses' birth year.[13] I
 
 Name
 
-Moses_-_Alta-Tadema.jpg, painting by Sir Lawrence Alma-Tadema, 1904]]
+, painting by Sir Lawrence Alma-Tadema, 1904]]
 
 Several etymologies have been proposed. An Egyptian root _msy_, "child of", has been considered as a possible etymology, arguably an abbreviation of a theophoric name, as for example in Egyptian names like Thutmoses (Thoth created him) and Ramesses (Ra created him),[15] with the god's name omitted. Abraham Yahuda, based on the spelling given in the Tanakh, argues that it combines "water" or "seed" and "pond, expanse of water", thus yielding the sense of "child of the Nile" (_mw-še_).[16]
 
@@ -22,11 +22,11 @@ The Hebrew etymology in the Biblical story may reflect an attempt to cancel out 
 
 Biblical narrative
 
-SyriacBibleParisFolio8rrMosesBeforePharaoh.jpg, a 6th-century miniature from the Syriac Bible of Paris]]
+, a 6th-century miniature from the Syriac Bible of Paris]]
 
 Prophet and deliverer of Israel
 
-The Israelites had settled in the Land of Goshen in the time of Joseph and Jacob, but a new Pharaoh arose who oppressed the children of Israel. At this time Moses was born to his father Amram, son of Kehath the Levite, who entered Egypt with Jacob's household; his mother was Jochebed (also Yocheved), who was kin to Kehath. Moses had one older (by seven years) sister, Miriam, and one older (by three years) brother, Aaron. The Pharaoh had commanded that all male Hebrew children born would be drowned in the river Nile, but Moses' mother placed him in an ark and concealed the ark in the bulrushes by the riverbank, where the baby was discovered and adopted by Pharaoh's daughter, and raised as an Egyptian. One day after Moses had reached adulthood he killed an Egyptian who was beating a Hebrew. Moses, in order to escape the Pharaoh's death penalty, fled to Midian (a desert country south of Judah), where he married Zipporah.[28] VictoryOLord.JPG, assisted by Aaron and Hur; 19th-century painting by John Everett Millais]] There, on Mount Horeb, God appeared to Moses as a burning bush, revealed to Moses his name YHWH (probably pronounced Yahweh)[29] and commanded him to return to Egypt and bring his chosen people (Israel) out of bondage and into the Promised Land (Canaan).[30] During the journey, God tried to kill Moses, but Zipporah saved his life. Moses returned to carry out God's command, but God caused the Pharaoh to refuse, and only after God had subjected Egypt to ten plagues did the Pharaoh relent. Moses led the Israelites to the border of Egypt, but there God hardened the Pharaoh's heart once more, so that he could destroy the Pharaoh and his army at the Red Sea Crossing as a sign of his power to Israel and the nations.[31]
+The Israelites had settled in the Land of Goshen in the time of Joseph and Jacob, but a new Pharaoh arose who oppressed the children of Israel. At this time Moses was born to his father Amram, son of Kehath the Levite, who entered Egypt with Jacob's household; his mother was Jochebed (also Yocheved), who was kin to Kehath. Moses had one older (by seven years) sister, Miriam, and one older (by three years) brother, Aaron. The Pharaoh had commanded that all male Hebrew children born would be drowned in the river Nile, but Moses' mother placed him in an ark and concealed the ark in the bulrushes by the riverbank, where the baby was discovered and adopted by Pharaoh's daughter, and raised as an Egyptian. One day after Moses had reached adulthood he killed an Egyptian who was beating a Hebrew. Moses, in order to escape the Pharaoh's death penalty, fled to Midian (a desert country south of Judah), where he married Zipporah.[28] , assisted by Aaron and Hur; 19th-century painting by John Everett Millais]] There, on Mount Horeb, God appeared to Moses as a burning bush, revealed to Moses his name YHWH (probably pronounced Yahweh)[29] and commanded him to return to Egypt and bring his chosen people (Israel) out of bondage and into the Promised Land (Canaan).[30] During the journey, God tried to kill Moses, but Zipporah saved his life. Moses returned to carry out God's command, but God caused the Pharaoh to refuse, and only after God had subjected Egypt to ten plagues did the Pharaoh relent. Moses led the Israelites to the border of Egypt, but there God hardened the Pharaoh's heart once more, so that he could destroy the Pharaoh and his army at the Red Sea Crossing as a sign of his power to Israel and the nations.[31]
 
 After defeating the Amalekites in Rephidim, Moses led the Israelites to biblical Mount Sinai, where he was given the Ten Commandments from God, written on stone tablets. However, since Moses remained a long time on the mountain, some of the people feared that he might be dead, so they made a statue of a golden calf and worshipped it, thus disobeying and angering God and Moses. Moses, out of anger, broke the tablets, and later ordered the elimination of those who had worshiped the golden statue, which was melted down and fed to the idolaters.[32] He also wrote the ten commandments on a new set of tablets. Later at Mount Sinai, Moses and the elders entered into a covenant, by which Israel would become the people of YHWH, obeying his laws, and YHWH would be their god. Moses delivered the laws of God to Israel, instituted the priesthood under the sons of Moses' brother Aaron, and destroyed those Israelites who fell away from his worship. In his final act at Sinai, God gave Moses instructions for the Tabernacle, the mobile shrine by which he would travel with Israel to the Promised Land.[33]
 
@@ -38,7 +38,7 @@ On the banks of the Jordan River, in sight of the land, Moses assembled the trib
 
 Lawgiver of Israel
 
-Rembrandt_-_Moses_Smashing_the_Tablets_of_the_Law_-_WGA19132.jpg'' by Rembrandt]]
+'' by Rembrandt]]
 
 Moses is honoured among Jews today as the "lawgiver of Israel", and he delivers several sets of laws in the course of the four books. The first is the Covenant Code (Exodus –), the terms of the covenant which God offers to the Israelites at biblical Mount Sinai. Embedded in the covenant are the Decalogue (the Ten Commandments, Exodus 20:1–17) and the Book of the Covenant (Exodus 20:22–23:19). The entire Book of Leviticus constitutes a second body of law, the Book of Numbers begins with yet another set, and the Book of Deuteronomy another.
 
@@ -60,7 +60,7 @@ An Egyptian version of the tale that crosses over with the Moses story is found 
 
 Moses in Hellenistic literature
 
-Memorial_of_Moses,_Mt._Nebo.jpg, Jordan]] Non-biblical writings about Jews, with references to the role of Moses, first appear at the beginning of the Hellenistic period, from 323 BCE to about 146 BCE. Shmuel notes that "a characteristic of this literature is the high honour in which it holds the peoples of the East in general and some specific groups among these peoples."
+, Jordan]] Non-biblical writings about Jews, with references to the role of Moses, first appear at the beginning of the Hellenistic period, from 323 BCE to about 146 BCE. Shmuel notes that "a characteristic of this literature is the high honour in which it holds the peoples of the East in general and some specific groups among these peoples."
 
 In addition to the Judeo-Roman or Judeo-Hellenic historians Artapanus, Eupolemus, Josephus, and Philo, a few non-Jewish historians including Hecataeus of Abdera (quoted by Diodorus Siculus), Alexander Polyhistor, Manetho, Apion, Chaeremon of Alexandria, Tacitus and Porphyry also make reference to him. The extent to which any of these accounts rely on earlier sources is unknown. Moses also appears in other religious texts such as the Mishnah (c. 200 CE), Midrash (200–1200 CE),[51] and the Quran (c. 610–653).
 
@@ -74,7 +74,7 @@ Droge also points out that this statement by Hecataeus was similar to statements
 
 In Artapanus
 
-The_Knesset_Menorah_P5200010_Moses.JPG raising his arms during the battle against the Amalekites]] The Jewish historian Artapanus of Alexandria (2nd century BCE), portrayed Moses as a cultural hero, alien to the Pharaonic court. According to theologian John Barclay, the Moses of Artapanus "clearly bears the destiny of the Jews, and in his personal, cultural and military splendor, brings credit to the whole Jewish people."[52]
+raising his arms during the battle against the Amalekites]] The Jewish historian Artapanus of Alexandria (2nd century BCE), portrayed Moses as a cultural hero, alien to the Pharaonic court. According to theologian John Barclay, the Moses of Artapanus "clearly bears the destiny of the Jews, and in his personal, cultural and military splendor, brings credit to the whole Jewish people."[52]
 
 Artapanus goes on to relate how Moses returns to Egypt with Aaron, and is imprisoned, but miraculously escapes through the name of YHWH in order to lead the Exodus. This account further testifies that all Egyptian temples of Isis thereafter contained a rod, in remembrance of that used for Moses' miracles. He describes Moses as 80 years old, "tall and ruddy, with long white hair, and dignified."
 
@@ -96,7 +96,7 @@ In this version, Moses and the Jews wander through the desert for only six days,
 
 In Longinus
 
-The_Brazen_Serpent.jpg, curing the Israelites from poisonous snake bites in a painting by Benjamin West]] The Septuagint, the Greek version of the Hebrew Bible, influenced Longinus, who may have been the author of the great book of literary criticism, _On the Sublime_. The date of composition is unknown, but it is commonly assigned to the late 1st century C.E.[55]
+, curing the Israelites from poisonous snake bites in a painting by Benjamin West]] The Septuagint, the Greek version of the Hebrew Bible, influenced Longinus, who may have been the author of the great book of literary criticism, _On the Sublime_. The date of composition is unknown, but it is commonly assigned to the late 1st century C.E.[55]
 
 The writer quotes Genesis in a "style which presents the nature of the deity in a manner suitable to his pure and great being," however he does not mention Moses by name, calling him 'no chance person' () but "the Lawgiver" (, thesmothete) of the Jews," a term that puts him on a par with Lycurgus and Minos.[56] Aside from a reference to Cicero, Moses is the only non-Greek writer quoted in the work, contextually he is put on a par with Homer,[57] and he is described "with far more admiration than even Greek writers who treated Moses with respect, such as Hecataeus and Strabo.
 
@@ -131,7 +131,7 @@ Arising in part from his age of death (120 according to Deut. 34:7) and that "hi
 
 Christianity
 
-Transfigurationbloch.jpg]] Moses is mentioned more often in the New Testament than any other Old Testament figure. For Christians, Moses is often a symbol of God's law, as reinforced and expounded on in the teachings of Jesus. New Testament writers often compared Jesus' words and deeds with Moses' to explain Jesus' mission. In Acts 7:39–43, 51–53, for example, the rejection of Moses by the Jews who worshipped the golden calf is likened to the rejection of Jesus by the Jews that continued in traditional Judaism.[72][73]
+]] Moses is mentioned more often in the New Testament than any other Old Testament figure. For Christians, Moses is often a symbol of God's law, as reinforced and expounded on in the teachings of Jesus. New Testament writers often compared Jesus' words and deeds with Moses' to explain Jesus' mission. In Acts 7:39–43, 51–53, for example, the rejection of Moses by the Jews who worshipped the golden calf is likened to the rejection of Jesus by the Jews that continued in traditional Judaism.[72][73]
 
 Moses also figures in several of Jesus' messages. When he met the Pharisee Nicodemus at night in the third chapter of the Gospel of John, he compared Moses' lifting up of the bronze serpent in the wilderness, which any Israelite could look at and be healed, to his own lifting up (by his death and resurrection) for the people to look at and be healed. In the sixth chapter, Jesus responded to the people's claim that Moses provided them _manna_ in the wilderness by saying that it was not Moses, but God, who provided. Calling himself the "bread of life", Jesus stated that He was provided to feed God's people.
 
@@ -151,7 +151,7 @@ Islam
 
 Moses is mentioned more in the Quran than any other individual and his life is narrated and recounted more than that of any other Islamic prophet. In general, Moses is described in ways which parallel the Islamic prophet Muhammad. Like Muhammad, Moses is defined in the Quran as both prophet (_nabi_) and messenger (_rasul_), the latter term indicating that he was one of those prophets who brought a scripture and law to his people.[82][83]
 
-Huston Smith describes an account in the Quran of meetings in heaven between Moses and Muhammad, which Huston states were "one of the crucial events in Muhammad's life," and resulted in Muslims observing 5 daily prayers.[84] Nabi_Musa_jerico-Jerusalam.jpg, Jericho.]] Moses is mentioned 502 times in the Quran; passages mentioning Moses include 2.49–61, 7.103–60, 10.75–93, 17.101–04, 20.9–97, 26.10–66, 27.7–14, 28.3–46, 40.23–30, 43.46–55, 44.17–31, and 79.15–25. and many others. Most of the key events in Moses' life which are narrated in the Bible are to be found dispersed through the different Surahs of the Quran, with a story about meeting Khidr which is not found in the Bible.
+Huston Smith describes an account in the Quran of meetings in heaven between Moses and Muhammad, which Huston states were "one of the crucial events in Muhammad's life," and resulted in Muslims observing 5 daily prayers.[84] , Jericho.]] Moses is mentioned 502 times in the Quran; passages mentioning Moses include 2.49–61, 7.103–60, 10.75–93, 17.101–04, 20.9–97, 26.10–66, 27.7–14, 28.3–46, 40.23–30, 43.46–55, 44.17–31, and 79.15–25. and many others. Most of the key events in Moses' life which are narrated in the Bible are to be found dispersed through the different Surahs of the Quran, with a story about meeting Khidr which is not found in the Bible.
 
 In the Moses story related by the Quran, Jochebed is commanded by God to place Moses in an ark and cast him on the waters of the Nile, thus abandoning him completely to God's protection.[85] The Pharaoh's wife Asiya, not his daughter, found Moses floating in the waters of the Nile. She convinced the Pharaoh to keep him as their son because they were not blessed with any children.[86][87][88] The Quran's account has emphasized Moses' mission to invite the Pharaoh to accept God's divine message[89] as well as give salvation to the Israelites.[90] According to the Quran, Moses encourages the Israelites to enter Canaan, but they are unwilling to fight the Canaanites, fearing certain defeat. Moses responds by pleading to Allah that he and his brother Aaron be separated from the rebellious Israelites. After which the Israelites are made to wander for 40 years.[91]
 
@@ -173,12 +173,12 @@ Moses is further described as paving the way for Bahá'u'lláh and his ultimate 
 
 Rastafarianism
 
-Jacob_Jordaens_-_Moses_and_his_Ethiopian_wife_Sephora.jpg (Mozes en zijn Ethiopische vrouw Sippora)''. Jacob Jordaens, c. 1650]] There is a current among the followers of Zera Yacob Amha Selassie who considers that Moses went up Nile until arriving at Ethiopia as "Land of provision". And that, after founding a monotheistic community there, he continued by boat his journey to the land of Abraham; Canaan, setting sail from Eritrea. After that, he would continue his journey through India to the north and then west towards the Mediterranean. But dying before reaching its destination and creating with it a route that would later be called "silk route". These are based on the customs, legends and local traditions of both Ethiopians and India.
+(Mozes en zijn Ethiopische vrouw Sippora)''. Jacob Jordaens, c. 1650]] There is a current among the followers of Zera Yacob Amha Selassie who considers that Moses went up Nile until arriving at Ethiopia as "Land of provision". And that, after founding a monotheistic community there, he continued by boat his journey to the land of Abraham; Canaan, setting sail from Eritrea. After that, he would continue his journey through India to the north and then west towards the Mediterranean. But dying before reaching its destination and creating with it a route that would later be called "silk route". These are based on the customs, legends and local traditions of both Ethiopians and India.
 
 
 Legacy in politics and law
 
-Moses_LOC.jpg]] In a metaphorical sense in the Christian tradition, a "Moses" has been referred to as the leader who delivers the people from a terrible situation. Among the Presidents of the United States known to have used the symbolism of Moses were Harry S. Truman, Jimmy Carter, Ronald Reagan, Bill Clinton, George W. Bush and Barack Obama, who referred to his supporters as "the Moses generation."[100]
+]] In a metaphorical sense in the Christian tradition, a "Moses" has been referred to as the leader who delivers the people from a terrible situation. Among the Presidents of the United States known to have used the symbolism of Moses were Harry S. Truman, Jimmy Carter, Ronald Reagan, Bill Clinton, George W. Bush and Barack Obama, who referred to his supporters as "the Moses generation."[100]
 
 In subsequent years, theologians linked the Ten Commandments with the formation of early democracy. Scottish theologian William Barclay described them as "the universal foundation of all things… the law without which nationhood is impossible. …Our society is founded upon it.[101] Pope Francis addressed the United States Congress in 2015 stating that all people need to "keep alive their sense of unity by means of just legislation... [and] the figure of Moses leads us directly to God and thus to the transcendent dignity of the human being.[102]
 
@@ -186,13 +186,11 @@ American history
 
 Pilgrims
 
-Embarkation_of_the_Pilgrims.jpg, William Bradford, and Miles Standish, at prayer during their voyage to America. Painting by Robert Walter Weir.]] References to Moses were used by the Puritans, who relied on the story of Moses to give meaning and hope to the lives of Pilgrims seeking religious and personal freedom in America. John Carver was the first governor of Plymouth colony and first signer of the Mayflower Compact, which he wrote in 1620 during the ship _Mayflower_'s three-month voyage. He inspired the Pilgrims with a "sense of earthly grandeur and divine purpose," notes historian Jon Meacham, and was called the "Moses of the Pilgrims."[103] Early American writer James Russell Lowell noted the similarity of the founding of America by the Pilgrims to that of ancient Israel by Moses:
+, William Bradford, and Miles Standish, at prayer during their voyage to America. Painting by Robert Walter Weir.]] References to Moses were used by the Puritans, who relied on the story of Moses to give meaning and hope to the lives of Pilgrims seeking religious and personal freedom in America. John Carver was the first governor of Plymouth colony and first signer of the Mayflower Compact, which he wrote in 1620 during the ship _Mayflower_'s three-month voyage. He inspired the Pilgrims with a "sense of earthly grandeur and divine purpose," notes historian Jon Meacham, and was called the "Moses of the Pilgrims."[103] Early American writer James Russell Lowell noted the similarity of the founding of America by the Pilgrims to that of ancient Israel by Moses:
 
 Following Carver's death the following year, William Bradford was made governor. He feared that the remaining Pilgrims would not survive the hardships of the new land, with half their people having already died within months of arriving. Bradford evoked the symbol of Moses to the weakened and desperate Pilgrims to help calm them and give them hope: "Violence will break all. Where is the meek and humble spirit of Moses?"[104] William G. Dever explains the attitude of the Pilgrims: "We considered ourselves the 'New Israel,' particularly we in America. And for that reason we knew who we were, what we believed in and valued, and what our 'manifest destiny' was."[105]
 
 Founding Fathers of the United States
-
-FirstCommitteeGreatSealReverseLossingDrawing.jpg
 
 On July 4, 1776, immediately after the Declaration of Independence was officially passed, the Continental Congress asked John Adams, Thomas Jefferson, and Benjamin Franklin to design a seal that would clearly represent a symbol for the new United States. They chose the symbol of Moses leading the Israelites to freedom. The Founding Fathers of the United States inscribed the words of Moses on the Liberty Bell: "Proclaim Liberty thro' all the Land to all the Inhabitants thereof." (Leviticus 25)
 
@@ -211,12 +209,12 @@ In the 1960s, a leading figure in the civil rights movement was Martin Luther Ki
 
 Cultural portrayals and references
 
-La_salle_dAkhenaton_(1356-1340_av_J.C.)_(Musée_du_Caire)_(2076972086).jpg instituted by the pharaoh Akhenaten (shown above), a notion now discredited by modern scholars.]] LITERATURE
+instituted by the pharaoh Akhenaten (shown above), a notion now discredited by modern scholars.]] LITERATURE
 
 -   Sigmund Freud, in his last book, _Moses and Monotheism_ in 1939, postulated that Moses was an Egyptian nobleman who adhered to the monotheism of Akhenaten. Following a theory proposed by a contemporary biblical critic, Freud believed that Moses was murdered in the wilderness, producing a collective sense of patricidal guilt that has been at the heart of Judaism ever since. "Judaism had been a religion of the father, Christianity became a religion of the son", he wrote. The possible Egyptian origin of Moses and of his message has received significant scholarly attention.[113] Opponents of this view observe that the religion of the Torah seems different from Atenism in everything except the central feature of devotion to a single god,[114] although this has been countered by a variety of arguments, e.g. pointing out the similarities between the Hymn to Aten and Psalm 104.[115] Freud's interpretation of the historical Moses is not well accepted among historians, and is considered pseudohistory by many.[116]
 -   Thomas Mann's novella _The Tables of the Law_ (1944) is a retelling of the story of the Exodus from Egypt, with Moses as its main character.[117]
 
-ART 'Moses'_by_Michelangelo_JBU160.jpg – in Basilica San Pietro in Vincoli, Rome]]
+ART – in Basilica San Pietro in Vincoli, Rome]]
 
     MICHELANGELO'S STATUE
 
@@ -226,7 +224,7 @@ Another author explains, "When Saint Jerome translated the Old Testament into La
 
     DEPICTION ON U.S. GOVERNMENT BUILDINGS
 
-Moses_bas-relief_in_the_U.S._House_of_Representatives_chamber.jpg.]] Moses is depicted in several U.S. government buildings because of his legacy as a lawgiver. In the Library of Congress stands a large statue of Moses alongside a statue of the Paul the Apostle. Moses is one of the 23 lawgivers depicted in marble bas-reliefs in the chamber of the U.S. House of Representatives in the United States Capitol. The plaque's overview states: "Moses (c. 1350–1250 B.C.) Hebrew prophet and lawgiver; transformed a wandering people into a nation; received the Ten Commandments."[124]
+.]] Moses is depicted in several U.S. government buildings because of his legacy as a lawgiver. In the Library of Congress stands a large statue of Moses alongside a statue of the Paul the Apostle. Moses is one of the 23 lawgivers depicted in marble bas-reliefs in the chamber of the U.S. House of Representatives in the United States Capitol. The plaque's overview states: "Moses (c. 1350–1250 B.C.) Hebrew prophet and lawgiver; transformed a wandering people into a nation; received the Ten Commandments."[124]
 
 The other twenty-two figures have their profiles turned to Moses, which is the only forward-facing bas-relief.[125][126]
 
@@ -246,7 +244,7 @@ FILM AND TELEVISION
 
 Criticism of Moses
 
-Tissot_The_Women_of_Midian_Led_Captive_by_the_Hebrews.jpg c.1900]] THOMAS PAINE AND NUMBERS 31:13–18
+c.1900]] THOMAS PAINE AND NUMBERS 31:13–18
 In the late eighteenth century, the deist Thomas Paine commented at length on Moses' Laws in _The Age of Reason_ (1794, 1795, and 1807). Paine considered Moses to be a "detestable villain", and cited as an example of his "unexampled atrocities".[136] In the passage, the Jewish army had returned from conquering the Midianites, and Moses has gone down to meet it:
 
 The prominent atheist Richard Dawkins also made reference to these verses in his 2006 book, _The God Delusion_, concluding that Moses was "not a great role model for modern moralists".[137]

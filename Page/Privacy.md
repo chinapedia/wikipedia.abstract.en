@@ -1,4 +1,4 @@
-Surveillance_cameras.jpg – in this case through CCTV.]] PRIVACY is the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively. The boundaries and content of what is considered private differ among cultures and individuals.
+– in this case through CCTV.]] PRIVACY is the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively. The boundaries and content of what is considered private differ among cultures and individuals.
 
 When something is private to a _person_, it usually means that something is inherently special or sensitive to them. The domain of privacy partially overlaps with security, which can include the concepts of appropriate use, as well as protection of information. Privacy may also take the form of bodily integrity. The right not to be subjected to unsanctioned invasions of privacy by the government, corporations or individuals is part of many countries' privacy laws, and in some cases, constitutions.
 
@@ -74,7 +74,7 @@ Privacy has historical roots in philosophical discussions, the most well-known b
 
 Technology
 
-IllinoisTelephoneAndTelegraphAd.png convention in Chicago. A major selling point of dial telephone service was that it was "secret", in that no operator was required to connect the call.]]
+convention in Chicago. A major selling point of dial telephone service was that it was "secret", in that no operator was required to connect the call.]]
 
 As technology has advanced, the way in which privacy is protected and violated has changed with it. In the case of some technologies, such as the printing press or the Internet, the increased ability to share information can lead to new ways in which privacy can be breached. It is generally agreed that the first publication advocating privacy in the United States was the article by Samuel Warren and Louis Brandeis, "The Right to Privacy", [41], that was written largely in response to the increase in newspapers and photographs made possible by printing technologies.[42]
 
@@ -160,7 +160,7 @@ Leslie Regan Shade argues that the human right to privacy is necessary for meani
 
 Protection
 
-Privacy_International_2007_privacy_ranking_map.png 2007 privacy ranking
+2007 privacy ranking
 green: Protections and safeguards
 red: Endemic surveillance societies]]
 

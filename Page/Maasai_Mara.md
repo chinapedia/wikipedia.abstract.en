@@ -14,7 +14,7 @@ In 1994, the TransMara County Council (TMCC) was formed in the western part of t
 
 Geography
 
-Mara_River_Massai_Mara.jpg]] Maasai_Mara_Game_reserve.jpg
+]]
 
 The Maasai Mara National Reserve (MMNR) covers some in south-western Kenya.[3] It is the northernmost section of the Mara-Serengeti ecosystem, which covers some in Tanzania and Kenya. It is bounded by the Serengeti Park to the south, the Siria escarpment to the west, and Masai pastoral ranches to the north, east and west. Rainfall in the ecosystem increases markedly along a southeast–northwest gradient, varies in space and time, and is markedly bimodal. The Sand, Talek River and Mara River are the major rivers draining the reserve. Shrubs and trees fringe most drainage lines and cover hillslopes and hilltops.
 
@@ -57,8 +57,6 @@ Since October 2012, the Mara-Meru Cheetah Project[14] is working in the Mara mon
 
 
 Visiting
-
-Sekenani_Gate.tif Hot_Air_Balloon_Safari_in_Maasai_Mara.jpg
 
 Game parks are a major source of hard currency for Kenya. Entry fees are currently US$80 for adult non-East African Residents and $30 for children.[16] There are a number of lodges and tented camps for tourists inside the Reserve and the Conservation area borders. The tourists/visitors cater for their own expenses, unless previously arranged by their agencies.
 

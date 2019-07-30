@@ -7,7 +7,7 @@ Kyrgyzstan hosted the Second CIS Military Sports Games in 2017 in Balykchy town.
 
 Army
 
-Bishkek_03-2016_img11_Chuy_Prospekt.jpg near a monument in Bishkek's main square]] For much of the Soviet period, since 1967, the 8th Guards 'Panfilov' Motor Rifle Division was the main military force in the country. In 1967 the division had been moved to Bishkek from the Baltic Military District, where it had previously been based. It was only disbanded in January 2003.[3] However, in 2011 reports said the division had been reformed with its headquarters in Tokmak.
+near a monument in Bishkek's main square]] For much of the Soviet period, since 1967, the 8th Guards 'Panfilov' Motor Rifle Division was the main military force in the country. In 1967 the division had been moved to Bishkek from the Baltic Military District, where it had previously been based. It was only disbanded in January 2003.[3] However, in 2011 reports said the division had been reformed with its headquarters in Tokmak.
 
 The Army of Kyrgyzstan includes the 1st Motor Rifle Brigade (Mountain) at Osh, a brigade at Koy-Tash, in the Bishkek area, the 25th Special Forces Brigade, independent battalions at Karakol and Naryn, a brigade at Balykchi, and other units.
 
@@ -20,8 +20,6 @@ Kyrgyz Armed Forces have inherited conscription from the Armed Forces of USSR. T
 Alternative service exists, however, it is only offered to conscripts who belong to certain religious groups. [6]
 
 Equipment
-
-Multinational_forces_participate_in_Regional_Cooperation_12_Exercise_-07.JPG
 
 Armor
 
@@ -51,8 +49,6 @@ Special Forces
 
 Subordinated to the Ministry of Defence
 
-Kyrgyz_military_people_in_Nov._2013.jpg
-
 -   25th Special Force Brigade SCORPION. This brigade was formed in 1994. It began as the 525th Special Company, and now Scorpion is the best brigade in the country. Soldiers of this brigade use modern weapons and equipment.
 -   "ILBIRS" brigade. Ilbirs means snow leopard in the Kyrgyz language. It was formed in April 1999. At that period it was the 24th Special Forces Battalion.
 
@@ -74,11 +70,7 @@ In August 2010, the Kyrgyz MOD received 45 Ford Ranger pickups and 44 Polaris qu
 
 Air Force
 
-E7909-Bishkek-military-plane.jpg
-
 Kyrgyzstan's air arm was inherited from the central Soviet air force training school. This presented the nation a fleet of nearly 70 L-39s, dismantled MiG-21's and several Mi-8's and Mi-24's. However, only a few L-39s and the helicopters are capable of flight. All Kyrgyz military aircraft are reportedly based at Kant, alongside the Russian 999th Air Base.[22] Because of expense and military doctrine, Kyrgyzstan has not developed its air capability; a large number of the MiG-21 interceptors that it borrowed from Russia were returned in 1993, although a number of former Soviet air bases remain available. In 1996 about 100 decommissioned MiG-21s remained in Kyrgyzstan, as of 2017 only 29 MiG-21s are in working order, in service along with ninety-six L-39 trainers and sixty-five helicopters. The air defence forces have received aid from Russia, which has sent military advisory units to establish a defence system. The Russians also help patrol Kyrgyz airspace as part of the Joint CIS Air Defence System Presently Kyrgyzstan has twenty-six SA-2 and SA-3 surface-to-air missiles in its air defence arsenal. In 2002 the Kyrgyzstan government allowed the United States to use Manas air base for support operations in the War on terror. This agreement lasted till June 2014.[23][24]
-
-Roundel_of_Kyrgyzstan.svg
 
 Aircraft
 

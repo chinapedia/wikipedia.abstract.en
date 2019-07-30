@@ -1,4 +1,4 @@
-Animated-mass-spring.gif is an oscillatory system]]
+is an oscillatory system]]
 
 OSCILLATION is the repetitive variation, typically in time, of some measure about a central value (often a point of equilibrium) or between two or more different states. The term _vibration_ is precisely used to describe mechanical oscillation. Familiar examples of oscillation include a swinging pendulum and alternating current.
 
@@ -23,7 +23,7 @@ Some systems can be excited by energy transfer from the environment. This transf
 
 Coupled oscillations
 
-Coupled_oscillators.gif Huygens_synchronization_of_two_clocks_(Experiment).jpg The harmonic oscillator and the systems it models have a single degree of freedom. More complicated systems have more degrees of freedom, for example two masses and three springs (each mass being attached to fixed points and to each other). In such cases, the behavior of each variable influences that of the others. This leads to a _coupling_ of the oscillations of the individual degrees of freedom. For example, two pendulum clocks (of identical frequency) mounted on a common wall will tend to synchronise. This phenomenon was first observed by Christiaan Huygens in 1665.[1] The apparent motions of the compound oscillations typically appears very complicated but a more economic, computationally simpler and conceptually deeper description is given by resolving the motion into normal modes.
+The harmonic oscillator and the systems it models have a single degree of freedom. More complicated systems have more degrees of freedom, for example two masses and three springs (each mass being attached to fixed points and to each other). In such cases, the behavior of each variable influences that of the others. This leads to a _coupling_ of the oscillations of the individual degrees of freedom. For example, two pendulum clocks (of identical frequency) mounted on a common wall will tend to synchronise. This phenomenon was first observed by Christiaan Huygens in 1665.[1] The apparent motions of the compound oscillations typically appears very complicated but a more economic, computationally simpler and conceptually deeper description is given by resolving the motion into normal modes.
 
 More special cases are the coupled oscillators where energy alternates between two forms of oscillation. Well-known is the Wilberforce pendulum, where the oscillation alternates between an elongation of a vertical spring and the rotation of an object at the end of that spring.
 
@@ -37,7 +37,7 @@ As the number of degrees of freedom becomes arbitrarily large, a system approach
 
 Mathematics
 
-LimSup.svg of the sequence.]] The mathematics of oscillation deals with the quantification of the amount that a sequence or function tends to move between extremes. There are several related notions: oscillation of a sequence of real numbers, oscillation of a real valued function at a point, and oscillation of a function on an interval (or open set).
+of the sequence.]] The mathematics of oscillation deals with the quantification of the amount that a sequence or function tends to move between extremes. There are several related notions: oscillation of a sequence of real numbers, oscillation of a real valued function at a point, and oscillation of a function on an interval (or open set).
 
 {{-}}
 

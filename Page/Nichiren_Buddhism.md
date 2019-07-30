@@ -1,4 +1,4 @@
-Nichiren_statue_Japan.jpg in the Honnoji Temple of Nichiren Shu in Teramachi Street, Kyoto, Japan]] Sugawara_Mitsushige_Lotus_Sutra,_01.jpg, which is highly revered in Nichiren Buddhism. From the Kamakura period, circa 1257. Ink, color, and gold leaf on paper.]]
+in the Honnoji Temple of Nichiren Shu in Teramachi Street, Kyoto, Japan]] , which is highly revered in Nichiren Buddhism. From the Kamakura period, circa 1257. Ink, color, and gold leaf on paper.]]
 
 NICHIREN BUDDHISM () is a branch of Mahayana Buddhism based on the teachings of the 13th-century Japanese Buddhist priest Nichiren (1222–1282) and is one of the Kamakura Buddhism schools.[1][2] Its teachings derive from some 300–400 extant letters and treatises attributed to Nichiren.[3][4][5]
 

@@ -1,4 +1,4 @@
-Candle_black.jpg PARAFFIN WAX (or PETROLEUM WAX) is a soft colorless solid, derived from petroleum, coal or shale oil, that consists of a mixture of hydrocarbon molecules containing between twenty and forty carbon atoms. It is solid at room temperature and begins to melt above approximately ,[1] its boiling point is >.[2] Common applications for paraffin wax include lubrication, electrical insulation, and candles; [3] dyed paraffin wax can be made into crayons. It is distinct from kerosene and other petroleum products that are sometimes called paraffin.[4]
+PARAFFIN WAX (or PETROLEUM WAX) is a soft colorless solid, derived from petroleum, coal or shale oil, that consists of a mixture of hydrocarbon molecules containing between twenty and forty carbon atoms. It is solid at room temperature and begins to melt above approximately ,[1] its boiling point is >.[2] Common applications for paraffin wax include lubrication, electrical insulation, and candles; [3] dyed paraffin wax can be made into crayons. It is distinct from kerosene and other petroleum products that are sometimes called paraffin.[4]
 
 Un-dyed, unscented paraffin candles are odorless and bluish-white. Paraffin wax was first created by Carl Reichenbach in Germany in 1830, and marked a major advancement in candlemaking technology, as it burned more cleanly and reliably than tallow candles and was cheaper to produce.[5]
 
@@ -9,7 +9,7 @@ Properties
 
 Paraffin wax is mostly found as a white, odorless, tasteless, waxy solid, with a typical melting point between about ,[7] and a density of around 900 kg/m³.[8] It is insoluble in water, but soluble in ether, benzene, and certain esters. Paraffin is unaffected by most common chemical reagents but burns readily.[9] Its heat of combustion is 42 MJ/kg.
 
-    Hentriacontane.svg is a typical component of paraffin wax.]]
+    is a typical component of paraffin wax.]]
 
 Paraffin wax is an excellent electrical insulator, with a resistivity of between 10¹³ and 10¹⁷ ohm metre.[10] This is better than nearly all other materials except some plastics (notably Teflon). It is an effective neutron moderator and was used in James Chadwick's 1932 experiments to identify the neutron.[11][12]
 

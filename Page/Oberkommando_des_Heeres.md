@@ -14,7 +14,7 @@ The Commander-in-Chief of the Army () was the head of the OKH and the German Arm
 
 Chief of the OKH General Staff
 
-Chef_Generalstab_Heer.svg The Chiefs of the OKH General Staff () were:
+The Chiefs of the OKH General Staff () were:
 
 Although both OKW and OKH were headquartered in Zossen during the Third Reich, the functional and operational independence of both establishments were not lost on the respective staff during their tenure. Personnel at the sprawling Zossen compound remarked that even if Maybach 2 (the OKW complex) was completely destroyed, the OKH staff in Maybach 1 would scarcely notice. These camouflaged facilities, separated physically by a fence, also maintained structurally different mindsets towards their objectives.
 

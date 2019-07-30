@@ -28,7 +28,7 @@ One of the first popular descents of the Marañon River occurred In 1743 the Fre
 
 The Grand Canyon of the Amazon
 
-Precipicio_Rio_Marañon_alargado.jpg The upper Marañon River has seen a number of descents. An attempt to paddle the river was made by Herbert Rittlinger in 1936. Sebastian Snow was an adventurer who journeyed down most of the river by trekking to Chiriaco River starting at the source near Lake Niñacocha.[6]
+The upper Marañon River has seen a number of descents. An attempt to paddle the river was made by Herbert Rittlinger in 1936. Sebastian Snow was an adventurer who journeyed down most of the river by trekking to Chiriaco River starting at the source near Lake Niñacocha.[6]
 
 In 1976 and/or 1977 Laszlo Berty descended the section from Chagual to the jungle in raft.[7] In 1977, a group composed of Tom Fisher, Steve Gaskill, Ellen Toll, and John Wasson spent over a month descending the river from Rondos to Nazareth with kayaks and a raft.[8] In 2004, Tim Biggs and companions kayaked the entire river from the Nupe River to Iquitos.[9] In 2012, Rocky Contos descended the entire river with various companions along the way.[10]
 

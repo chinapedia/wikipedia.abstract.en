@@ -1,5 +1,3 @@
-Korea_Institute_for_Advanced_Study1.jpg
-
 The KOREA INSTITUTE FOR ADVANCED STUDY (KIAS) is an advanced research institute in Korea. It is located on a campus in Dongdaemun-gu, Seoul.[1]
 
 KIAS was founded in 1996, aiming to become a world's leading research institute where international elite scholars gather and dedicate to fundamental research in basic sciences.[2] Currently, there are three schools in the institute: mathematics, physics, and computational sciences. As of 2016, the institute has 3 distinguished professors, 26 professors, and 133 research fellows.[3]

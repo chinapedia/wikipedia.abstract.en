@@ -1,13 +1,9 @@
-LocationLibya.svg
-
 Libya is fourth in size among the countries of Africa and seventeenth among the countries of the world. It is on the Mediterranean between Egypt and Tunisia, with Niger and Chad to the south and Sudan to the southeast. Although the oil discoveries of the 1960s have brought immense wealth, at the time of its independence it was an extremely poor desert state whose only important physical asset appeared to be its strategic location at the midpoint of Africa's northern rim.
 
 Libya lay within easy reach of the major European nations and linked the Arab countries of North Africa with those of the Middle East, facts that throughout history had made its urban centres bustling crossroads rather than isolated backwaters without external social influences. Consequently, an immense social gap developed between the cities, cosmopolitan and peopled largely by foreigners, and the desert hinterland, where tribal chieftains ruled in isolation and where social change was minimal.
 
 
 Geographical summary
-
-Libya_Topography.png
 
 The Mediterranean coast and the Sahara Desert are the country's most prominent natural features. There are several highlands but no true mountain ranges except in the largely empty southern desert near the Chadian border, where the Tibesti Massif rises to over 2,200 metres. A relatively narrow coastal strip and highland steppes immediately south of it are the most productive agricultural regions. Still farther south a pastoral zone of sparse grassland gives way to the vast Sahara Desert, a barren wasteland of rocky plateaus and sand. It supports minimal human habitation, and agriculture is possible only in a few scattered oases.
 
@@ -30,7 +26,7 @@ Other factors, too, such as the traditional forms of land tenure, have varied in
 
 Area and boundaries
 
-Dust_storm_over_Libya.jpg region of Libya. Over 90% of Libya is desert.]] AREA:
+region of Libya. Over 90% of Libya is desert.]] AREA:
 _total:_ 1 759 540 km²
 _land:_ 1 759 540 km²
 _water:_ 0 km²
@@ -51,7 +47,7 @@ _exclusive fishing zone:_
 
 Climate and hydrology
 
-Libya_map_of_Köppen_climate_classification.svg Libya_5210_Wan_Caza_Luca_Galuzzi_2007.jpg.]] Jabal_Al_Akdhar.jpg area. Annual rainfall averages at between .[2]]] Bayda-Snow.jpg, Libya's third largest city]] Benghazi_coast.jpg in the Cyrenaica, Libya's east. Libya has the longest Mediterranean coastline among African nations.]] Within Libya as many as five different climatic zones have been recognized, but the dominant climates are the hot-summer Mediterranean climate and the hot desert climate (Köppen climate classification _Csa_ and _BWh_). In most of the coastal lowland, the climate is Mediterranean, with hot or very hot summers and extremely mild winters. Rainfall is scant.
+.]] area. Annual rainfall averages at between .[2]]] , Libya's third largest city]] in the Cyrenaica, Libya's east. Libya has the longest Mediterranean coastline among African nations.]] Within Libya as many as five different climatic zones have been recognized, but the dominant climates are the hot-summer Mediterranean climate and the hot desert climate (Köppen climate classification _Csa_ and _BWh_). In most of the coastal lowland, the climate is Mediterranean, with hot or very hot summers and extremely mild winters. Rainfall is scant.
 
 The weather is cooler in the highlands, and frosts occur at maximum elevations. In the desert interior, despite the relatively high elevation, the climate has long, extremely hot summers and high diurnal temperature ranges due to the permanence of cloudless skies and excessively dry atmosphere. The highest official temperature ever recorded was on 13 September 1922 at 'Aziziya, Libya,[3] but that reading is queried.
 

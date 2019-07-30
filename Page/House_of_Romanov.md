@@ -14,7 +14,7 @@ After the February Revolution of March 1917, a special decree of the Provisional
 
 House of Romanov
 
-Romanov_boyar_residence.jpg, near the Kremlin]]
+, near the Kremlin]]
 
 The Romanovs share their origin with two dozen other Russian noble families. Their earliest common ancestor is one Andrei Kobyla, attested around 1347 as a boyar in the service of Semyon I of Moscow.[11] Later generations assigned to Kobyla an illustrious pedigree. An 18th-century genealogy claimed that he was the son of the Old Prussians prince Glanda Kambila, who came to Russia in the second half of the 13th century, fleeing the invading Germans. Indeed, one of the leaders of the Old Prussians rebellion of 1260–1274 against the Teutonic order was named Glande. This legendary version of the Romanov's origin is contested by a more plausible version of their descent from a boyar family from Novgorod.[12]
 
@@ -26,7 +26,7 @@ Rise to power
 
 The family fortunes soared when Roman's daughter, Anastasia Zakharyina, married Ivan IV (the Terrible), the Rurikid Grand Prince of Moscow, on 3 (13) February 1547.[15] Since her husband had assumed the title of tsar, which literally means "Caesar", on 16 January 1547, she was crowned the very first tsaritsa of Russia. Her mysterious death in 1560 changed Ivan's character for the worse. Suspecting the boyars of having poisoned his beloved, Tsar Ivan started a reign of terror against them. Among his children by Anastasia, the elder (Ivan) was murdered by the tsar in a quarrel; the younger Feodor, a pious but lethargic prince, inherited the throne upon his father's death in 1584.
 
-Kostromatsar.jpg imploring Mikhail Romanov's mother to let him go to Moscow and become their tsar (Illumination from a book dated 1673).]]
+imploring Mikhail Romanov's mother to let him go to Moscow and become their tsar (Illumination from a book dated 1673).]]
 
 Throughout Feodor's reign (1584–1598), the Tsar's brother-in-law, Boris Godunov, and his Romanov cousins contested the _de facto_ rule of Russia. Upon the death of childless Feodor, the 700-year-old line of Rurikids came to an end. After a long struggle, the party of Boris Godunov prevailed over the Romanovs, and the _Zemsky sobor_ elected Godunov as tsar in 1599. Godunov's revenge on the Romanovs was terrible: all the family and its relations were deported to remote corners of the Russian North and Urals, where most of them died of hunger or in chains. The family's leader, Feodor Nikitich Romanov, was exiled to the Antoniev Siysky Monastery and forced to take monastic vows with the name Filaret.
 
@@ -36,7 +36,7 @@ On being offered the Russian crown, Filaret's 16-year-old son Mikhail Romanov, t
 
 Dynastic crisis
 
-Peter_der-Grosse_1838.jpg (1672–1725)]]
+(1672–1725)]]
 
 Mikhail was succeeded by his only son Alexei, who steered the country quietly through numerous troubles. Upon Alexei's death, there was a period of dynastic struggle between his children by his first wife Maria Ilyinichna Miloslavskaya (Feodor III, Sofia Alexeyevna, Ivan V) and his son by his second wife Nataliya Kyrillovna Naryshkina, the future Peter the Great. Peter ruled from 1682 until his death in 1725.[18] In numerous successful wars he expanded the Tsardom into a huge empire that became a major European power. He led a cultural revolution that replaced some of the traditionalist and medieval social and political system with a modern, scientific, Europe-oriented, and rationalist system.[19]
 
@@ -55,7 +55,7 @@ Alexander II, son of Nicholas I, became the next Russian emperor in 1855, in the
 
 Despite his popularity, however, his family life began to unravel by the mid 1860s. In 1864, his eldest son, and heir, Tsarevich Nicholas, died suddenly. His wife, Empress Maria Alexandrovna, who suffered from tuberculosis, spent much of her time abroad. Alexander eventually turned to a mistress, Princess Catherine Dolgoruki. Immediately following the death of his wife in 1880 he contracted a morganatic marriage with Dolgoruki.[28] His legitimization of their children, and rumors that he was contemplating crowning his new wife as empress, caused tension within the dynasty. In particular, the grand duchesses were scandalized at the prospect of deferring to a woman who had borne Alexander several children during his wife's lifetime. Before Princess Catherine could be elevated in rank, however, on 13 March 1881 Alexander was assassinated by a hand-made bomb hurled by Ignacy Hryniewiecki. Slavic patriotism, cultural revival, and Panslavist ideas grew in importance in the latter half of this century, evoking expectations of a more Russian than cosmopolitan dynasty. Several marriages were contracted with members of other reigning Slavic or Orthodox dynasties (Greece, Montenegro, Serbia).[29] In the early 20th century two Romanov princesses were allowed to marry Russian high noblemen – whereas until the 1850s, practically all marriages had been with German princelings.[30]
 
-The_Romanovs_1892.jpg.]]
+.]]
 
 Alexander II was succeeded by his son Alexander III. This tsar, the second-to-last Romanov emperor, was responsible for conservative reforms in Russia. Not expected to inherit the throne, he was educated in matters of state only after the death of his older brother, Nicholas. Lack of diplomatic training may have influenced his politics as well as those of his son, Nicholas II. Alexander III was physically impressive, being not only tall (1.93 m or 6'4", according to some sources), but of large physique and considerable strength. His beard hearkened back to the likeness of tsars of old, contributing to an aura of brusque authority, awe-inspiring to some, alienating to others. Alexander, fearful of the fate which had befallen his father, strengthened autocratic rule in Russia. Some of the reforms the more liberal Alexander II had pushed through were reversed.
 
@@ -73,7 +73,7 @@ File:Kremlin 27.06.2008 01.jpg|Grand Kremlin Palace, Moscow File:Grand Kremlin P
 
 Downfall
 
-Nicholas_II_and_children_with_Cossacks_of_the_Guard,_cropped.jpg, Tsarevich Alexei, Grand Duchess Tatiana, and Grand Duchess Maria, and Kuban Cossacks
+, Tsarevich Alexei, Grand Duchess Tatiana, and Grand Duchess Maria, and Kuban Cossacks
 
 ]]
 
@@ -83,7 +83,7 @@ After the February Revolution, Nicholas II and his family were placed under hous
 
 Contemporary Romanovs
 
-Romanov Empire}} Vladimir_Cyrillovich,_Grand_Duke_of_Russia.JPG (Kirill) with his wife Grand Duchess Victoria and children Kira and Vladimir Kirillovich]]
+Romanov Empire}} (Kirill) with his wife Grand Duchess Victoria and children Kira and Vladimir Kirillovich]]
 
 There have been numerous post-Revolution reports of Romanov survivors and unsubstantiated claims by individuals to be members of the deposed Tsar Nicholas II's family, the best known of whom was Anna Anderson. Proven research has, however, confirmed that all of the Romanovs held prisoners inside the Ipatiev House in Ekaterinburg were killed.[38][39] Descendants of Nicholas II's two sisters, Grand Duchess Xenia Alexandrovna of Russia and Grand Duchess Olga Alexandrovna of Russia, do survive, as do descendants of previous tsars.
 
@@ -92,9 +92,7 @@ Grand Duke Kirill Vladimirovich, a male-line grandson of Tsar Alexander II, clai
 
 Execution of Tsar and family
 
-Ipatjew-Haus2.jpg
-
-ChurchOn_Blood.jpg's "Church on the Blood", built on the spot where the last Tsar and his family were killed]]
+'s "Church on the Blood", built on the spot where the last Tsar and his family were killed]]
 
 On the night of 17 July 1918, Bolshevik authorities acting on Yakov Sverdlov's orders in Moscow and led locally by Filip Goloschekin and Yakov Yurovsky, shot Nicholas II, his immediate family and four servants in the Ipatiev House's cellar.
 
@@ -108,7 +106,7 @@ Nicholas II and his family were proclaimed passion-bearers by the Russian Orthod
 
 Remains of the Tsar
 
-Tsar_Nicholas_II_Family_Remains.jpg]] In July 1991, the crushed bodies of Nicholas II and his wife, along with three of their five children and four of their servants, were exhumed (although some questioned the authenticity of these bones despite DNA testing). Because two bodies were not present, many people believed that two Romanov children escaped the killings. There was much debate as to which two children's bodies were missing. A Russian scientist made photographic superimpositions and determined that Maria and Alexei were not accounted for. Later, an American scientist concluded from dental, vertebral, and other remnants that it was Anastasia and Alexei who were missing. Much mystery has always surrounded Anastasia's fate. Several films have been produced suggesting that she lived on. This has since been disproved with the discovery of the final Romanov children's remains and extensive DNA testing, which connected those remains to the DNA of Nicholas II, his wife, and the other three children.
+]] In July 1991, the crushed bodies of Nicholas II and his wife, along with three of their five children and four of their servants, were exhumed (although some questioned the authenticity of these bones despite DNA testing). Because two bodies were not present, many people believed that two Romanov children escaped the killings. There was much debate as to which two children's bodies were missing. A Russian scientist made photographic superimpositions and determined that Maria and Alexei were not accounted for. Later, an American scientist concluded from dental, vertebral, and other remnants that it was Anastasia and Alexei who were missing. Much mystery has always surrounded Anastasia's fate. Several films have been produced suggesting that she lived on. This has since been disproved with the discovery of the final Romanov children's remains and extensive DNA testing, which connected those remains to the DNA of Nicholas II, his wife, and the other three children.
 
 After the bodies were exhumed in June 1991, they remained in laboratories until 1998, while there was a debate as to whether they should be reburied in Yekaterinburg or St. Petersburg. A commission eventually chose St. Petersburg. The remains were transferred with full military honor guard and accompanied by members of the Romanov family from Yekaterinburg to St. Petersburg. In St. Petersburg the remains of the imperial family were moved by a formal military honor guard cortege from the airport to the Sts. Peter and Paul Fortress where they (along with several loyal servants who were killed with them) were interred in a special chapel in the Peter and Paul Cathedral near the tombs of their ancestors. President Boris Yeltsin attended the interment service on behalf of the Russian people.
 
@@ -132,7 +130,7 @@ Research on mitochondrial DNA (mtDNA) was conducted in the American AFDIL and in
 
 Killing of other Romanovs
 
-On 18 July 1918, the day after the killing at Yekaterinburg of the tsar and his family, members of the extended Russian imperial family met a brutal death by being killed near Alapayevsk by Bolsheviks. They included: Grand Duke Sergei Mikhailovich of Russia, Prince Ioann Konstantinovich of Russia, Prince Konstantin Konstantinovich of Russia, Prince Igor Konstantinovich of Russia and Prince Vladimir Pavlovich Paley, Grand Duke Sergei's secretary Varvara Yakovleva, and Grand Duchess Elisabeth Fyodorovna, a granddaughter of Queen Victoria and elder sister of Tsarina Alexandra. Following the 1905 assassination of her husband, Grand Duke Sergei Alexandrovich, Elisabeth Fyodorovna had ceased living as a member of the Imperial family and took up life as a serving nun, but would nonetheless be arrested and slated for death with other Romanovs.[46] They were thrown down a mine shaft into which explosives were then dropped, all being left to die there slowly.[47] Алапаевская_шахта.jpg
+On 18 July 1918, the day after the killing at Yekaterinburg of the tsar and his family, members of the extended Russian imperial family met a brutal death by being killed near Alapayevsk by Bolsheviks. They included: Grand Duke Sergei Mikhailovich of Russia, Prince Ioann Konstantinovich of Russia, Prince Konstantin Konstantinovich of Russia, Prince Igor Konstantinovich of Russia and Prince Vladimir Pavlovich Paley, Grand Duke Sergei's secretary Varvara Yakovleva, and Grand Duchess Elisabeth Fyodorovna, a granddaughter of Queen Victoria and elder sister of Tsarina Alexandra. Following the 1905 assassination of her husband, Grand Duke Sergei Alexandrovich, Elisabeth Fyodorovna had ceased living as a member of the Imperial family and took up life as a serving nun, but would nonetheless be arrested and slated for death with other Romanovs.[46] They were thrown down a mine shaft into which explosives were then dropped, all being left to die there slowly.[47]
 
 The bodies were recovered from the mine by the White Army in 1918, who arrived too late to rescue them. Their remains were placed in coffins and moved around Russia during struggles between the White and the opposing Red Army. By 1920 the coffins were interred in a former Russian mission in Beijing, now beneath a parking area. In 1981 Grand Duchess Elisabeth was canonized by the Russian Orthodox Church Outside of Russia, and in 1992 by the Moscow Patriarchate. In 2006 representatives of the Romanov family were making plans to re-inter the remains elsewhere.[48] The town became a place of pilgrimage to the memory of Elisabeth Fyodorovna, whose remains were eventually re-interred in Jerusalem.
 
@@ -178,31 +176,28 @@ On 28 August 2009, a Swedish public news outlet reported that a collection of ov
 Heraldry
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Lesser_Coat_of_Arms_of_Russian_Empire.svg Coat_of_Arms_of_Russian_Empire.svg
   The Imperial Arms of the House of Romanov, with and without background shield, which were restricted in use to the Emperor and certain members of the Imperial Family.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Smaller coat of arms (elements)
 
-Coat_of_arms_of_Moscow_Oblast_(large).svg The centerpiece is the coat of arms of Moscow that contains the iconic Saint George the Dragon-slayer with a blue cape (cloak) attacking golden serpent on red field.
+The centerpiece is the coat of arms of Moscow that contains the iconic Saint George the Dragon-slayer with a blue cape (cloak) attacking golden serpent on red field.
 
 The wings of double-headed eagle contain coat of arms of following lands:
 
 Right wing
 
-Герб_царства_Казанского.gif
-
 -   Tsardom of Kazan, the coat of arms of Kazan that contains black crowned Zilant with red tongue, wings and tail on white field.
 
-{{-}} Герб_царства_Польского.gif
+{{-}}
 
 -   Tsardom of Poland, the coat of arms of Poland that contains a crowned white eagle on a red field.
 
-{{-}} Герб_царства_Херсонеса_Таврического.gif
+{{-}}
 
 -   Tsardom of Tauric Chersoneses, the coat of arms of Byzantine Crimea that contains black crowned double-headed eagle on golden field, which has a smaller coat of arms with triple crossbeam cross on blue field.
 
-{{-}} Герб_Соединённые_гербы_великих_княжеств.gif
+{{-}}
 
 -   Grand Duchies of Kiev, Vladimir, and Novgorod, the combined coat of arms of three grand duchies:
     -   Grand Duchy of Kiev, the coat of arms of Kiev that contains armed archangel (archistrategos) Michael in white on blue field.
@@ -213,11 +208,9 @@ Right wing
 
 Left wing
 
-Герб_царства_Астраханского.gif
-
 -   Tsardom of Astrakhan, the coat of arms of Astrakhan that contains five arches golden crown over silver scimitar on blue field.
 
-{{-}} Coat_of_Arms_of_Siberian_Tsarstvo.png
+{{-}}
 
 -   Tsardom of Siberia, the coat of arms of Siberia that contains two black sables who hold a crown and a red bow with two crossed arrows pointed down on ermine field.
 
@@ -225,16 +218,12 @@ Left wing
 
 -   Tsardom of Georgia, the Coat of arms of Georgia that also contains the Saint George the Dragon-slayer with a red cape (cloak) attacking green serpent on golden field.
 
-Grand_Duchy_of_Finland_Arms.svg
-
 -   Grand Duchy of Finland, the coat of arms of Finland that contains golden crowned lion holding straight sword and curved sabre on red field with roses.
 
 {{-}}
 
 
 Family tree
-
-Romanov-monarques-dynastie-fr.jpg
 
 
 See also

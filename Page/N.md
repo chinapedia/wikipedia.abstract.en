@@ -3,12 +3,12 @@ N (named _en_ [1]) is the fourteenth letter in the modern English alphabet and t
 
 History
 
-+---------------------+--------------------+------------------+--------------+
-| Egyptian hieroglyph | Phoenician         | Etruscan         | Greek        |
-|                     | _Nun_              | N                | Nu           |
-+=====================+====================+==================+==============+
-| D                   | PhoenicianN-01.svg | EtruscanN-01.svg | Nu_uc_lc.svg |
-+---------------------+--------------------+------------------+--------------+
++---------------------+------------+----------+-------+
+| Egyptian hieroglyph | Phoenician | Etruscan | Greek |
+|                     | _Nun_      | N        | Nu    |
++=====================+============+==========+=======+
+| D                   |            |          |       |
++---------------------+------------+----------+-------+
 
 One of the most common hieroglyphs, snake, was used in Egyptian writing to stand for a sound like the English , because the Egyptian word for "snake" was _djet_. It is speculated by many that Semitic people working in Egypt adapted hieroglyphics to create the first alphabet, and that they used the same snake symbol to represent N, because their word for "snake" may have begun with that sound. However, the name for the letter in the Phoenician, Hebrew, Aramaic and Arabic alphabets is _nun_, which means "fish" in some of these languages. The sound value of the letter was —as in Greek, Etruscan, Latin and modern languages.
 

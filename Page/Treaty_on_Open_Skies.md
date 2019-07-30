@@ -23,11 +23,11 @@ The Open Skies regulations covers the territory over which the parties exercise 
 
 Aircraft
 
-Oc-135_xxl.jpg Boeing OC-135B Open Skies.]] Observation aircraft may be provided by either the observing party or by the observed party (the "taxi option"), at the latter's choice. All Open Skies aircraft and sensors must pass specific certification and pre-flight inspection procedures to ensure that they are compliant with treaty standards.[6] The official certified U.S. Open Skies aircraft is the OC-135B Open Skies.
+Boeing OC-135B Open Skies.]] Observation aircraft may be provided by either the observing party or by the observed party (the "taxi option"), at the latter's choice. All Open Skies aircraft and sensors must pass specific certification and pre-flight inspection procedures to ensure that they are compliant with treaty standards.[6] The official certified U.S. Open Skies aircraft is the OC-135B Open Skies.
 
 Canada uses a C-130 Hercules aircraft equipped with a "SAMSON" sensor pod to conduct flights over other treaty nations. The pod is a converted CC-130 fuel tank modified to carry the permitted sensors, along with associated on-board mission systems. A consortium of nations consisting of Belgium, Netherlands, Luxemburg, Canada, France, Greece, Italy, Portugal and Spain own and operate this system. The costs of maintaining the SAMSON Pod are shared, based on each nation's flight quota and actual use.
 
-An-30ukrainearmy.JPG monitoring aircraft]] Russian_Air_Force_Tu-214ON_RA-64519_UUBW_2011-8-12.pngON of the Russian Air Force.]] Bulgaria, Romania, Russia and Ukraine use the Antonov An-30 for their flights. The Czech Republic also used to use the An-30 for this purpose but they apparently retired all of theirs from service in 2003.
+monitoring aircraft]] ON of the Russian Air Force.]] Bulgaria, Romania, Russia and Ukraine use the Antonov An-30 for their flights. The Czech Republic also used to use the An-30 for this purpose but they apparently retired all of theirs from service in 2003.
 
 Russia also uses a Tu-154M-ON monitoring aircraft. Germany formerly used this type as well until the aircraft was lost in a 1997 accident. Russia is phasing out both An-30 and Tu-154M-ON and replacing them with two Tu-214ON with the registrations RA-64519 and RA-64525; though this aircraft's new sensor suite is currently being challenged by the USA.
 

@@ -1,4 +1,4 @@
-LocationNigeria.svg Koppen-Geiger_Map_NGA_present.svg NIGERIA is a country in West Africa. Nigeria shares land borders with the Republic of Benin in the west, Chad and Cameroon in the east, and Niger in the north. Its coast lies on the Gulf of Guinea in the south and it borders Lake Chad to the northeast. Noted geographical features in Nigeria include the Adamawa highlands, Mambilla Plateau, Jos Plateau, Obudu Plateau, the Niger River, River Benue and Niger Delta.
+NIGERIA is a country in West Africa. Nigeria shares land borders with the Republic of Benin in the west, Chad and Cameroon in the east, and Niger in the north. Its coast lies on the Gulf of Guinea in the south and it borders Lake Chad to the northeast. Noted geographical features in Nigeria include the Adamawa highlands, Mambilla Plateau, Jos Plateau, Obudu Plateau, the Niger River, River Benue and Niger Delta.
 
 Nigeria is found in the Tropics, where the climate is seasonally damp and very humid. Nigeria is affected by four climate types; these climate types are distinguishable, as one moves from the southern part of Nigeria to the northern part of Nigeria through Nigeria's middle belt.
 
@@ -77,7 +77,7 @@ Temperate weather conditions occur on the highlands along the Nigeria Cameroon b
 
 Topography
 
-Nigeria_Topography.png Nigeria's most expansive topographical region is that of the valleys of the Niger and Benue River valleys (which merge into each other and form a "y" shaped confluence at Lokoja).[11] Plains rise to the north of the valleys. To the southwest of the Niger there is "rugged" highland, and to the southeast of the Benue hills and mountains are found all the way to the border with Cameroon. Coastal plains are found in both the southwest and the southeast.[12]
+Nigeria's most expansive topographical region is that of the valleys of the Niger and Benue River valleys (which merge into each other and form a "y" shaped confluence at Lokoja).[11] Plains rise to the north of the valleys. To the southwest of the Niger there is "rugged" highland, and to the southeast of the Benue hills and mountains are found all the way to the border with Cameroon. Coastal plains are found in both the southwest and the southeast.[12]
 
 
 Niger Delta
@@ -109,7 +109,7 @@ Niger Delta cities and their annually rainfall totals in millimeters:
 
 Vegetation
 
-Nigeria_veg_1979.jpg Nigeria is covered by three types of vegetation: forests (where there is significant tree cover), savannahs (insignificant tree cover, with grasses and flowers located between trees), and montane land. (The latter is the least common, and is mainly found in the mountains near the Cameroon border.) Both the forest zone and the savannah zone are divided into three parts.[13]
+Nigeria is covered by three types of vegetation: forests (where there is significant tree cover), savannahs (insignificant tree cover, with grasses and flowers located between trees), and montane land. (The latter is the least common, and is mainly found in the mountains near the Cameroon border.) Both the forest zone and the savannah zone are divided into three parts.[13]
 
 Some of the forest zone's most southerly portion, especially around the Niger River and Cross River deltas, is mangrove swamp (see Central African mangroves). North of this is fresh water swamp, containing different vegetation from the salt water mangrove swamps, and north of that is rain forest.[14]
 

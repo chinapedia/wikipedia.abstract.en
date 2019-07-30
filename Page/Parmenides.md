@@ -97,7 +97,7 @@ The fragments read:[21]
 
 Interpretations
 
-Being_Parmenides.png The traditional interpretation of Parmenides' work is that he argued that the every-day perception of reality of the physical world (as described in _doxa_) is mistaken, and that the reality of the world is 'One Being' (as described in _aletheia_): an unchanging, ungenerated, indestructible whole. Under the _Way of Opinion_, Parmenides set out a contrasting but more conventional view of the world, thereby becoming an early exponent of the duality of appearance and reality. For him and his pupils, the phenomena of movement and change are simply appearances of a changeless, eternal reality.
+The traditional interpretation of Parmenides' work is that he argued that the every-day perception of reality of the physical world (as described in _doxa_) is mistaken, and that the reality of the world is 'One Being' (as described in _aletheia_): an unchanging, ungenerated, indestructible whole. Under the _Way of Opinion_, Parmenides set out a contrasting but more conventional view of the world, thereby becoming an early exponent of the duality of appearance and reality. For him and his pupils, the phenomena of movement and change are simply appearances of a changeless, eternal reality.
 
 Parmenides was not struggling to formulate the laws of conservation of mass and conservation of energy; he was struggling with the metaphysics of change, which is still a relevant philosophical topic today. Moreover, he argued that movement was impossible because it requires moving into "the void", and Parmenides identified "the void" with nothing, and therefore (by definition) it does not exist. That which does exist is _The Parmenidean One._
 
@@ -118,7 +118,7 @@ There is the possibility for various wrong translations of the fragments. For ex
 
 Legacy
 
-Sanzio_01_Parmenides.jpg'' by Raphael.]] John Palmer notes "Parmenides’ distinction among the principal modes of being and his derivation of the attributes that must belong to what must be, simply as such, qualify him to be seen as the founder of metaphysics or ontology as a domain of inquiry distinct from theology."[24]
+'' by Raphael.]] John Palmer notes "Parmenides’ distinction among the principal modes of being and his derivation of the attributes that must belong to what must be, simply as such, qualify him to be seen as the founder of metaphysics or ontology as a domain of inquiry distinct from theology."[24]
 
 Parmenides' considerable influence on the thinking of Plato is undeniable, and in this respect Parmenides has influenced the whole history of Western philosophy, and is often seen as its grandfather. Even Plato himself, in the _Sophist_, refers to the work of "our Father Parmenides" as something to be taken very seriously and treated with respect.[25] In the _Parmenides_, the Eleatic philosopher, which may well be Parmenides himself, and Socrates argue about dialectic. In the _Theaetetus_, Socrates says that Parmenides alone among the wise (Protagoras, Heraclitus, Empedocles, Epicharmus, and Homer) denied that everything is change and motion.[26] "Even the censorious Timon allows Parmenides to have been a high-minded man; while Plato speaks of him with veneration, and Aristotle and others give him an unqualified preference over the rest of the Eleatics."[27]
 

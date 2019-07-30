@@ -83,7 +83,7 @@ Social influence is an overarching term given to describe the persuasive effects
 
 The first major area of social influence is conformity. Conformity is defined as the tendency to act or think like other members of a group. The identity of members within a group, i.e. status, similarity, expertise, as well as cohesion, prior commitment, and accountability to the group help to determine the level of conformity of an individual. Individual variation among group members plays a key role in the dynamic of how willing people will be to conform.[36] Conformity is usually viewed as a negative tendency in American culture, but a certain amount of conformity is adaptive in some situations, as is nonconformity in other situations.[37]
 
-Asch_experiment.png, people frequently followed the majority judgment, even when the majority was (objectively) wrong.]]
+, people frequently followed the majority judgment, even when the majority was (objectively) wrong.]]
 
 The second major area of social influence research is compliance. Compliance refers to any change in behavior that is due to a request or suggestion from another person. The foot-in-the-door technique is a compliance method in which the persuader requests a small favor and then follows up with requesting a larger favor, e.g., asking for the time and then asking for ten dollars. A related trick is the bait and switch.[38]
 
@@ -111,7 +111,7 @@ Groups also affect performance and productivity. Social facilitation, for exampl
 
 Social psychologists study group-related (collective) phenomena such as the behavior of crowds. An important concept in this area is deindividuation, a reduced state of self-awareness that can be caused by feelings of anonymity. Deindividuation is associated with uninhibited and sometimes dangerous behavior. It is common in crowds and mobs, but it can also be caused by a disguise, a uniform, alcohol, dark environments, or online anonymity.[47][48]
 
-Soc-psy_diagram.jpg, and between both groups and individuals.]]
+, and between both groups and individuals.]]
 
 Interpersonal attraction
 
@@ -142,7 +142,7 @@ Regardless of which method has been chosen to be used, the results are of high i
 
 Famous experiments
 
-Milgram_experiment_v2.svg: The experimenter (E) persuades the participant (T) to give what the participant believes are painful electric shocks to another participant (L), who is actually an actor. Many participants continued to give shocks despite pleas for mercy from the actor.]]
+: The experimenter (E) persuades the participant (T) to give what the participant believes are painful electric shocks to another participant (L), who is actually an actor. Many participants continued to give shocks despite pleas for mercy from the actor.]]
 
 The Asch conformity experiments demonstrated the power of conformity in small groups with a line length estimation task that was designed to be extremely easy.[55] In well over a third of the trials, participants conformed to the majority, who had been instructed to provide incorrect answers, even though the majority judgment was clearly wrong. Seventy-five percent of the participants conformed at least once during the experiment. Additional manipulations to the experiment showed participant conformity decreased when at least one other individual failed to conform, but increased when the individual began conforming or withdrew from the experiment.[56] Also, participant conformity increased substantially as the number of incorrect individuals increased from one to three, and remained high as the incorrect majority grew. Participants with three incorrect opponents made mistakes 31.8% of the time, while those with one or two incorrect opponents made mistakes only 3.6% and 13.6% of the time, respectively.[57]
 

@@ -1,13 +1,13 @@
-IDF-machineguns-67.jpg (light machine gun). Bottom: FN MAG (general purpose machine gun).]] Kulomet_UK-L_vzor_59.jpg.]]
+(light machine gun). Bottom: FN MAG (general purpose machine gun).]] .]]
 
 A MACHINE GUN is a fully automatic mounted or portable firearm designed to fire rifle cartridges in rapid succession from an ammunition belt or magazine for the purpose of suppressive fire. Not all fully automatic firearms are machine guns. Submachine guns, rifles, assault rifles, battle rifles, shotguns, pistols or cannons may be capable of fully automatic fire, but are not designed for sustained fire. As a class of military rapid-fire guns, machine guns are fully automatic weapons designed to be used as support weapons and generally used when attached to a mount or fired from the ground on a bipod or tripod. Many machine guns also use belt feeding and open bolt operation, features not normally found on rifles.
 
-M2_Browning,_Musée_de_l'Armée.jpg M2 machine gun: John Browning's design has been one of the longest serving and most successful machine gun designs]]In the U.S., a "machine gun" is a legal term for any weapon able to fire more than one shot per function of the trigger regardless of caliber, the receiver of any such weapon, any weapon convertible to such a state using normal tools, or any component or part that will modify an existing firearm such that it functions as a "machine gun" such as a drop-in auto sear.[1] Civilian possession of such weapons manufactured prior to 1986 is not prohibited by any federal law and not illegal in many states, but they must be registered as Title II weapons under the National Firearms Act and have a tax stamp paid. Machine guns manufactured after 1986 are prohibited by the Hughes Amendment to the Gun Owners Protection Act.
+M2 machine gun: John Browning's design has been one of the longest serving and most successful machine gun designs]]In the U.S., a "machine gun" is a legal term for any weapon able to fire more than one shot per function of the trigger regardless of caliber, the receiver of any such weapon, any weapon convertible to such a state using normal tools, or any component or part that will modify an existing firearm such that it functions as a "machine gun" such as a drop-in auto sear.[1] Civilian possession of such weapons manufactured prior to 1986 is not prohibited by any federal law and not illegal in many states, but they must be registered as Title II weapons under the National Firearms Act and have a tax stamp paid. Machine guns manufactured after 1986 are prohibited by the Hughes Amendment to the Gun Owners Protection Act.
 
 
 Overview of modern machine guns
 
-JGSDF_Type73_Light_Truck_20081025-2.JPG mounted at the rear]]
+mounted at the rear]]
 
 Unlike semi-automatic firearms, which require one trigger pull per round fired, a machine gun is designed to fire for as long as the trigger is held down. Nowadays the term is restricted to relatively heavy weapons, able to provide continuous or frequent bursts of automatic fire for as long as ammunition lasts. Machine guns are normally used against personnel, aircraft and light vehicles, or to provide suppressive fire, either directly or indirectly. They are commonly mounted on fast attack vehicles such as technicals to provide heavy mobile firepower, armored vehicles such as tanks for engaging targets too small to justify use of the primary weaponry or too fast to effectively engage with it, and on aircraft as defensive armament or for strafing ground targets, though on fighter aircraft true machine guns have mostly been supplanted by large-caliber rotary guns.
 
@@ -17,7 +17,7 @@ Although subdivided into "light", "medium", "heavy" or "general-purpose", even t
 
 Light machine guns are designed to provide mobile fire support to a squad and are typically air-cooled weapons fitted with a box magazine or drum and a bipod; they may use full-size rifle rounds, but modern examples often use intermediate rounds. Medium machine guns use full-sized rifle rounds and are designed to be used from fixed positions mounted on a tripod. Heavy machine gun is a term originating in World War I to describe heavyweight medium machine guns and persisted into World War II with Japanese Hotchkiss M1914 clones; today, however, it is used to refer to automatic weapons with a caliber of at least .50 in (12.7 mm)[2] but less than 20 mm. A general-purpose machine gun is usually a lightweight medium machine gun which can either be used with a bipod and drum in the light machine gun role or a tripod and belt feed in the medium machine gun role.
 
-A_soldier_with_the_Ukrainian_Land_Forces_fires_a_Degtyaryov-Shpagin_Large-Caliber_heavy_machine_gun.jpg in heavy role]]
+in heavy role]]
 
 Machine guns usually have simple iron sights, though the use of optics is becoming more common. A common aiming system for direct fire is to alternate solid ("ball") rounds and tracer ammunition rounds (usually one tracer round for every four ball rounds), so shooters can see the trajectory and "walk" the fire into the target, and direct the fire of other soldiers.
 
@@ -33,8 +33,6 @@ In May 2019, Fabrique Nationale Herstal introduced a new machine gun to U.S. Spe
 
 
 Operation
-
-DIRECTM16.gif PISTONM16.gif
 
 Many machine guns are of the locked breech type, and follow this cycle:
 
@@ -63,19 +61,19 @@ In weapons where the round seats and fires at the same time, mechanical timing i
 
 History
 
-Muzej_Međimurja,_Čakovec_(Croatia)_-_mitraljezi.jpg (Čakovec, Croatia). From rear to front: Austro-Hungarian Schwarzlose M7/12, British Lewis, German MG 08.]] The first successful machine-gun designs were developed in the mid-19th century. The key characteristic of modern machine guns, their relatively high rate of fire and more importantly mechanical loading,[5] first appeared in the Model 1862 Gatling gun, which was adopted by the United States Navy. These weapons were still powered by hand; however, this changed with Hiram Maxim's idea of harnessing recoil energy to power reloading in his Maxim machine gun. Dr. Gatling also experimented with electric-motor-powered models; this externally powered machine reloading has seen use in modern weapons as well.
+(Čakovec, Croatia). From rear to front: Austro-Hungarian Schwarzlose M7/12, British Lewis, German MG 08.]] The first successful machine-gun designs were developed in the mid-19th century. The key characteristic of modern machine guns, their relatively high rate of fire and more importantly mechanical loading,[5] first appeared in the Model 1862 Gatling gun, which was adopted by the United States Navy. These weapons were still powered by hand; however, this changed with Hiram Maxim's idea of harnessing recoil energy to power reloading in his Maxim machine gun. Dr. Gatling also experimented with electric-motor-powered models; this externally powered machine reloading has seen use in modern weapons as well.
 
 While technical use of the term "machine gun" has varied, the modern definition used by the Sporting Arms and Ammunition Manufacturers' Institute of America is "a fully automatic firearm that loads, fires and ejects continuously when the trigger is held to the rear until the ammunition is exhausted or pressure on the trigger is released."[6] This definition excludes most early manually operated repeating arms such as volley guns and the Gatling gun.
 
 Early rapid-firing weapons
 
-Drehling_GNM_W1984_ca_1580.jpg revolver (Germany c. 1580)]] The first known ancestors of multi-shot weapons were medieval organ guns, while the first to have the ability to fire multiple shots from a single barrel without a full manual reload were revolvers made in Europe in the late 1500s. One is a shoulder-gun-length weapon made in Nuremberg, Germany, circa 1580. Another is a revolving arquebus, produced by Hans Stopler of Nuremberg in 1597.[7]
+revolver (Germany c. 1580)]] The first known ancestors of multi-shot weapons were medieval organ guns, while the first to have the ability to fire multiple shots from a single barrel without a full manual reload were revolvers made in Europe in the late 1500s. One is a shoulder-gun-length weapon made in Nuremberg, Germany, circa 1580. Another is a revolving arquebus, produced by Hans Stopler of Nuremberg in 1597.[7]
 
 True repeating long arms were difficult to manufacture prior to the development of the unitary firearm cartridge; nevertheless, lever-action repeating rifles such as the Kalthoff repeater and Cookson repeater were made in small quantities in the 17th century.
 
 Perhaps the earliest examples of predecessors to the modern machine gun are to be found in East Asia. According to the Wu-Pei-Chih, a booklet examining Chinese military equipment produced during the first quarter of the 17th century, the Chinese army had in its arsenal the 'Po-Tzu Lien-Chu-P'ao' or 'string-of-100-bullets cannon'. This was a repeating cannon fed by a hopper which fired its charges sequentially.[8] Another repeating gun was produced by a Chinese commmoner in the late 17th century. This weapon was also hopper-fed and never went into mass production.[9]
 
-Puckle_gun_Photo.jpg from Bucklers Hard Maritime Museum.]]
+from Bucklers Hard Maritime Museum.]]
 
 Another early revolving gun was created by James Puckle, a London lawyer, who patented what he called "The Puckle Gun" on May 15, 1718. It was a design for a manually operated 1.25 in. (32 mm) caliber, flintlock cannon with a revolver cylinder able to fire 6–11 rounds before reloading by swapping out the cylinder, intended for use on ships.[10] It was one of the earliest weapons to be referred to as a machine gun, being called such in 1722,[11] though its operation does not match the modern usage of the term. According to Puckle, it was able to fire round bullets at Christians and square bullets at Turks.[12] However, it was a commercial failure and was not adopted or produced in any meaningful quantity.
 
@@ -84,8 +82,6 @@ In 1777, Philadelphia gunsmith Joseph Belton offered the Continental Congress a 
 In the early and mid-19th century, a number of rapid-firing weapons appeared which offered multi-shot fire, mostly volley guns. Volley guns (such as the Mitrailleuse) and double barreled pistols relied on duplicating all parts of the gun, though the Nock gun used the otherwise-undesirable "chain fire" phenomenon (where multiple chambers are ignited at once) to propagate a spark from a single flintlock mechanism to multiple barrels. Pepperbox pistols also did away with needing multiple hammers but used multiple manually operated barrels. Revolvers further reduced this to only needing a pre-prepared cylinder and linked advancing the cylinder to cocking the hammer. However, these were still manually operated.
 
 In the 1830s a machine gun was designed by a Swiss man called Jacob Steuble, who tried to sell it to the Russian, English and French governments. The English and Russian governments showed interest but the former refused to pay Steuble, who later sued them for this transgression, and the latter tried to imprison him. The French government showed interest at first and while they noted that mechanically there was nothing wrong with Steuble's invention they turned him down, stating that the machine both lacked novelty and could not be usefully employed by the army.[15][16]
-
-French_Infantry_Machine_Guns.jpg
 
 In 1847 a short description of a prototype electrically-ignited mechanical machine gun was published in Scientific American by a J.R. Nichols. The model described is small in scale and works by rotating a series of barrels vertically so that it is feeding at the top from a 'tube' or hopper and could be discharged immediately at any elevation after having received a charge, according to the author.[17]
 
@@ -105,11 +101,11 @@ Also in 1870, the Bavarian regiment of the Prussian army used a unique mitraille
 
 Maxim and World War I
 
-Armouredgermanmachinegunnerworldwari.JPG machine gunner in World War I. He is operating an MG 08, wearing a Stahlhelm and cuirass to protect him from shell fragments, and protected by rows of barbed wire and sandbags.]]
+machine gunner in World War I. He is operating an MG 08, wearing a Stahlhelm and cuirass to protect him from shell fragments, and protected by rows of barbed wire and sandbags.]]
 
 The first practical self-powered machine gun was invented in 1884 by Sir Hiram Maxim. The Maxim machine gun used the recoil power of the previously fired bullet to reload rather than being hand-powered, enabling a much higher rate of fire than was possible using earlier designs such as the Nordenfelt and Gatling weapons. Maxim also introduced the use of water cooling, via a water jacket around the barrel, to reduce overheating. Maxim's gun was widely adopted, and derivative designs were used on all sides during the First World War. The design required fewer crew and was lighter and more usable than the Nordenfelt and Gatling guns. First World War combat experience demonstrated the military importance of the machine gun. The United States Army issued four machine guns per regiment in 1912, but that allowance increased to 336 machine guns per regiment by 1919.[30]
 
-Vickers_machine_gun_crew_with_gas_masks.jpg Vickers machine gun in action near Ovillers during the Battle of the Somme in 1916. The crew are wearing gas masks.]] Heavy guns based on the Maxim such as the Vickers machine gun were joined by many other machine weapons, which mostly had their start in the early 20th century such as the Hotchkiss machine gun. Submachine guns (e.g., the German MP 18) as well as lighter machine guns (the first light machine gun deployed in any significant number being the Madsen machine gun, with the Chauchat and Lewis gun soon following) saw their first major use in World War I, along with heavy use of large-caliber machine guns. The biggest single cause of casualties in World War I was actually artillery, but combined with wire entanglements, machine guns earned a fearsome reputation.
+Vickers machine gun in action near Ovillers during the Battle of the Somme in 1916. The crew are wearing gas masks.]] Heavy guns based on the Maxim such as the Vickers machine gun were joined by many other machine weapons, which mostly had their start in the early 20th century such as the Hotchkiss machine gun. Submachine guns (e.g., the German MP 18) as well as lighter machine guns (the first light machine gun deployed in any significant number being the Madsen machine gun, with the Chauchat and Lewis gun soon following) saw their first major use in World War I, along with heavy use of large-caliber machine guns. The biggest single cause of casualties in World War I was actually artillery, but combined with wire entanglements, machine guns earned a fearsome reputation.
 
 Another fundamental development occurring before and during the war was the incorporation by gun designers of machine gun auto-loading mechanisms into handguns, giving rise to semi-automatic pistols such as the Borchardt (1890s), automatic machine pistols and later submachine guns (such as the Beretta 1918).
 
@@ -119,22 +115,18 @@ Interwar era and World War II
 
 As better materials became available following the First World War, light machine guns became more readily portable; designs such as the Bren light machine gun replaced bulky predecessors like the Lewis gun in the squad support weapon role, while the modern division between medium machine guns like the M1919 Browning machine gun and heavy machine guns like the Browning M2 became clearer. New designs largely abandoned water jacket cooling systems as both undesirable, due to a greater emphasis on mobile tactics and unnecessary, thanks to the alternative and superior technique of preventing overheating by swapping barrels.
 
-MG42_Sideview.jpg
-
 The interwar years also produced the first widely used and successful general-purpose machine gun, the German MG 34. While this machine gun was equally able in the light and medium roles, it proved difficult to manufacture in quantity, and experts on industrial metalworking were called in to redesign the weapon for modern tooling, creating the MG 42. This weapon was simpler, cheaper to produce, fired faster, and replaced the MG 34 in every application except vehicle mounts, since the MG 42's barrel changing system could not be operated when it was mounted.
 
 Submachine guns evolved during the war, going from complex and finely made weapons like the Thompson submachine gun to weapons designed for mass-production and easy replacement like the Sten gun. On the Eastern Front, entire Soviet divisions were equipped with nothing but the PPSh-41 submachine gun. Experience in close-range city combat led to the German military desiring a weapon representing a compromise between the high fire volume of the SMG and the accuracy of a full-size rifle; after a false start with the FG 42, this led to the development of the MP 44 select-fire assault rifle, the first weapon to be called such.
 
 Cold War
 
-Gau_17_7.62mm_minigun.jpg Minigun, an externally powered weapon.]] Experience with the MG42 led to the US issuing a requirement to replace the aging Browning Automatic Rifle with a similar weapon, which would also replace the M1919; simply using the MG42 itself was not possible, as the design brief required a weapon which could be fired from the hip or shoulder like the BAR. The resulting design, the M60 machine gun, was issued to troops during the Vietnam War.
+Minigun, an externally powered weapon.]] Experience with the MG42 led to the US issuing a requirement to replace the aging Browning Automatic Rifle with a similar weapon, which would also replace the M1919; simply using the MG42 itself was not possible, as the design brief required a weapon which could be fired from the hip or shoulder like the BAR. The resulting design, the M60 machine gun, was issued to troops during the Vietnam War.
 
 As it became clear that a high-volume-of-fire weapon would be needed for fast-moving jet aircraft to reliably hit their opponents, Gatling's work with electrically powered weapons was recalled and the 20 mm M61 Vulcan designed; a miniaturized 7.62 mm version initially known as the "mini-Vulcan" and quickly shortened to "minigun" was soon in production for use on helicopters, where the volume of fire could compensate for the instability of the helicopter as a firing platform.
 
 
 Human interface
-
-M2m60c2.jpg
 
 The most common interface on machine guns is a pistol grip and trigger. On earlier manual machine guns, the most common type was a hand crank. On externally powered machine guns, such as miniguns, an electronic button or trigger on a joystick is commonly used. Light machine guns often have a butt stock attached, while vehicle and tripod mounted machine guns usually have spade grips. In the late 20th century, scopes and other complex optics became more common as opposed to the more basic iron sights.
 

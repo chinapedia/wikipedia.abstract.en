@@ -7,8 +7,6 @@ On November 29, 2016, the game was made available for the PlayStation 4 through 
 
 Gameplay
 
-geomod.jpg
-
 The game features GeoMod technology, which allows players to significantly alter and otherwise affect the surrounding terrain and buildings, either with explosives or otherwise. Past games had allowed limited alteration of the environment through scripted means, or special triggered areas which would add or remove certain predefined level elements. _Red Faction_ was the first video game that allowed players unscripted level-altering possibilities.[3]
 
 The PC version of _Red Faction_ includes an extra level called "Glass House" which allows the player to experiment with GeoMod as a mechanic in a sandbox environment.

@@ -17,7 +17,7 @@ Savory may be grown purely for ornamental purposes; members of the genus need su
 
 Uses
 
-Bonenkruid-spice.jpg leaves]] Both summer savory (_Satureja hortensis_) and winter savory (_Satureja montana_) are used to flavor food. The former is preferred by cooks but as an annual is only available in summer; winter savory is an evergreen perennial.
+leaves]] Both summer savory (_Satureja hortensis_) and winter savory (_Satureja montana_) are used to flavor food. The former is preferred by cooks but as an annual is only available in summer; winter savory is an evergreen perennial.
 
 Savory plays an important part in Armenian, Georgian, Bulgarian and Italian cuisine, particularly when cooking beans. It is also used to season the traditional Acadian stew known as __. Savory is also a key ingredient in _sarmale_, a stuffed cabbage dish in traditional Romanian cuisine. The modern spice mixture Herbes de Provence has savory as one of the principal ingredients.
 
@@ -26,7 +26,7 @@ In Azerbaijan, savory is often incorporated as a flavoring in black tea.
 
 Species[3]
 
-Satureja_subspicata,_Royal_Botanic_Garden_Edinburgh,_Scotland,_GB,_IMG_3779_edit.jpg'']]
+'']]
 
 -   _Satureja adamovicii_ Šilic - Balkans
 -   _Satureja aintabensis_ P.H.Davis - Turkey

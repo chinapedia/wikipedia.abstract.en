@@ -11,7 +11,7 @@ Equation
 
 Charged particle
 
-Lorentz_force_particle.svg (of charge _q_) in motion (instantaneous velocity V). The E field and B field vary in space and time.]]
+(of charge _q_) in motion (instantaneous velocity V). The E field and B field vary in space and time.]]
 
 The force F acting on a particle of electric charge _q_ with instantaneous velocity V, due to an external electric field E and magnetic field B, is given by (in SI units[6]):[7]
 
@@ -42,7 +42,7 @@ V ⋅ F = _q_ V ⋅ E
 
 Continuous charge distribution
 
-Lorentz_force_continuum.svg (charge density ρ) in motion. The 3-current density J corresponds to the motion of the charge element _dq_ in volume element _dV_ and varies throughout the continuum.]]
+(charge density ρ) in motion. The 3-current density J corresponds to the motion of the charge element _dq_ in volume element _dV_ and varies throughout the continuum.]]
 
 For a continuous charge distribution in motion, the Lorentz force equation becomes:
 
@@ -110,7 +110,7 @@ Thomson derived the correct basic form of the formula, but, because of some misc
 
 Trajectories of particles due to the Lorentz force
 
-charged-particle-drifts.svg In many cases of practical interest, the motion in a magnetic field of an electrically charged particle (such as an electron or ion in a plasma) can be treated as the superposition of a relatively fast circular motion around a point called the GUIDING CENTER and a relatively slow DRIFT of this point. The drift speeds may differ for various species depending on their charge states, masses, or temperatures, possibly resulting in electric currents or chemical separation.
+In many cases of practical interest, the motion in a magnetic field of an electrically charged particle (such as an electron or ion in a plasma) can be treated as the superposition of a relatively fast circular motion around a point called the GUIDING CENTER and a relatively slow DRIFT of this point. The drift speeds may differ for various species depending on their charge states, masses, or temperatures, possibly resulting in electric currents or chemical separation.
 
 
 Significance of the Lorentz force
@@ -135,7 +135,7 @@ As a definition of E and B, the Lorentz force is only a definition in principle 
 
 Force on a current-carrying wire
 
-Regla_mano_derecha_Laplace.svg When a wire carrying an electric current is placed in a magnetic field, each of the moving charges, which comprise the current, experiences the Lorentz force, and together they can create a macroscopic force on the wire (sometimes called the LAPLACE FORCE). By combining the Lorentz force law above with the definition of electric current, the following equation results, in the case of a straight, stationary wire:[36]
+When a wire carrying an electric current is placed in a magnetic field, each of the moving charges, which comprise the current, experiences the Lorentz force, and together they can create a macroscopic force on the wire (sometimes called the LAPLACE FORCE). By combining the Lorentz force law above with the definition of electric current, the following equation results, in the case of a straight, stationary wire:[36]
 
 F = _I_ℓ × B
 

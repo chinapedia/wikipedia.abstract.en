@@ -10,7 +10,7 @@ He was on the MIT faculty from 1958 to his death. He joined the staff at MIT Lin
 
 Contributions in computer science
 
-Confocal_measurement_of_1-euro-star_3d_and_euro.png]] Minsky's inventions include the first head-mounted graphical display (1963)[11] and the confocal microscope[12][13] (1957, a predecessor to today's widely used confocal laser scanning microscope). He developed, with Seymour Papert, the first Logo "turtle". Minsky also built, in 1951, the first randomly wired neural network learning machine, SNARC.
+]] Minsky's inventions include the first head-mounted graphical display (1963)[11] and the confocal microscope[12][13] (1957, a predecessor to today's widely used confocal laser scanning microscope). He developed, with Seymour Papert, the first Logo "turtle". Minsky also built, in 1951, the first randomly wired neural network learning machine, SNARC.
 
 In 1962, Minsky came up with a 7,4 Turing machine that he was able to prove to be universal. At that point in time, it was known to be the simplest universal Turing machine–a record that stood for approximately 40 years until Stephen Wolfram published a 2,5 universal Turing machine in his 2002 book, _A New Kind of Science_.[14]
 
@@ -28,7 +28,7 @@ Minsky was an adviser[19] on Stanley Kubrick's movie _2001: A Space Odyssey_; on
 
 Personal life
 
-Minskytron-PDP-1-20070512.jpg's PDP-1, 2007]]
+'s PDP-1, 2007]]
 
 In 1952, Minsky married pediatrician Gloria Rudisch; together they had three children.[21] Minsky was a talented improvisational pianist[22] who published musings on the relations between music and psychology.
 

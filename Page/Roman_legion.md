@@ -18,7 +18,7 @@ Many of the legions founded before 40 BC were still active until at least the fi
 
 Overview of typical organization and strength
 
-Roman_Legionaries-MGR_Lyon-IMG_1050.JPG, a Roman town in what is now southern France that was inhabited from 27 BC to 260 AD (when it was sacked by invading Alemanni)]] Because legions were not permanent units until the Marian reforms (c. 107 BC), and were instead created, used, and disbanded again, several hundred legions were named and numbered throughout Roman history. To date, about 50 have been identified. The republican legions were composed of levied men that paid for their own equipment and thus the structure of the Roman army at this time reflected the society, and at any time there would be four consular legions (with command divided between the two ruling consuls) and in time of war extra legions could be levied. Toward the end of the 2nd century BC, Rome started to experience manpower shortages brought about by property and financial qualifications to join the army. This prompted consul Gaius Marius to remove property qualifications and decree that all citizens, regardless of their wealth or social class, were made eligible for service in the Roman army with equipment and rewards for fulfilling years of service provided by the state. The Roman army became a volunteer, professional and standing army which extended service beyond Roman citizens but also to non-citizens that could sign on as _auxillia_ (auxiliaries) and were rewarded Roman citizenship upon completion of service and all the rights and privileges that entailed. In the time of Augustus, there were nearly 50 upon his succession but this was reduced to about 25–35 permanent standing legions and this remained the figure for most of the empire's history.
+, a Roman town in what is now southern France that was inhabited from 27 BC to 260 AD (when it was sacked by invading Alemanni)]] Because legions were not permanent units until the Marian reforms (c. 107 BC), and were instead created, used, and disbanded again, several hundred legions were named and numbered throughout Roman history. To date, about 50 have been identified. The republican legions were composed of levied men that paid for their own equipment and thus the structure of the Roman army at this time reflected the society, and at any time there would be four consular legions (with command divided between the two ruling consuls) and in time of war extra legions could be levied. Toward the end of the 2nd century BC, Rome started to experience manpower shortages brought about by property and financial qualifications to join the army. This prompted consul Gaius Marius to remove property qualifications and decree that all citizens, regardless of their wealth or social class, were made eligible for service in the Roman army with equipment and rewards for fulfilling years of service provided by the state. The Roman army became a volunteer, professional and standing army which extended service beyond Roman citizens but also to non-citizens that could sign on as _auxillia_ (auxiliaries) and were rewarded Roman citizenship upon completion of service and all the rights and privileges that entailed. In the time of Augustus, there were nearly 50 upon his succession but this was reduced to about 25–35 permanent standing legions and this remained the figure for most of the empire's history.
 
 
 Evolution
@@ -60,7 +60,7 @@ Each of these three lines was subdivided into (usually 10) chief tactical units 
 
 Late Republic (107–30 BC)
 
-Legion_Task_ORG.png _See also List of Roman legions for details of notable late Republican legions_
+_See also List of Roman legions for details of notable late Republican legions_
 _See also Sub-Units of the Roman legion_
 
 The Marian reforms (of Gaius Marius) enlarged the centuries to 80 men, and grouped them into six-century "cohorts" (rather than two-century maniples). Each century had its own standard and was made up of ten units (_contubernia_) of eight men who shared a tent, a millstone, a mule and cooking pot.
@@ -81,18 +81,16 @@ A typical legion of this period had 5,120 legionaries as well as a large number 
 
 Tactics were not very different from the past, but their effectiveness was largely improved because of the professional training of the soldiers.
 
-Centurio_70_aC_-_cropped.jpg Roman_legionaire_in_lorica_segmentata.jpg, (2nd century).]]
+, (2nd century).]]
 
 After the Marian reforms and throughout the history of Rome's Late Republic, the legions played an important political role. By the 1st century BC, the threat of the legions under a demagogue was recognized. Governors were not allowed to leave their provinces with their legions. When Julius Caesar broke this rule, leaving his province of Gaul and crossing the Rubicon into Italy, he precipitated a constitutional crisis. This crisis and the civil wars which followed brought an end to the Republic and led to the foundation of the Empire under Augustus in 27 BC.
 
-Roman_Empire_125.png (ruled 117–38), showing the LEGIONS deployed in 125]]
+(ruled 117–38), showing the LEGIONS deployed in 125]]
 
 Early Empire (27 BC–AD 284)
 
 _See List of Roman legions of the early Empire_
 _See also Sub-Units of the Roman legion_
-
-Roman-legions-14-AD-Centrici-site-Keilo-Jack.jpg
 
 Generals, during the recent Republican civil wars, had formed their own legions and numbered them as they wished. During this time, there was a high incidence of _Gemina_ (twin) legions, where two legions were consolidated into a single organization (and was later made official and put under a legatus and six duces). At the end of the civil war against Mark Antony, Augustus was left with around fifty legions, with several double counts (multiple Legio Xs for instance). For political and economic reasons, Augustus reduced the number of legions to 28 (which diminished to 25 after the Battle of Teutoburg Forest, in which 3 legions were completely destroyed by the Germanics).
 
@@ -105,8 +103,6 @@ Throughout the imperial era, the legions played an important political role. The
 In the empire, the legion was standardized, with symbols and an individual history where men were proud to serve. The legion was commanded by a _legatus_ or _legate_. Aged around thirty, he would usually be a senator on a three-year appointment. Immediately subordinate to the legate would be six elected _military tribunes_ – five would be staff officers and the remaining one would be a noble heading for the Senate (originally this tribune commanded the legion). There would also be a group of officers for the medical staff, the engineers, record-keepers, the _praefectus castrorum_ (commander of the camp) and other specialists such as priests and musicians.
 
 Later Empire (from 284 AD)
-
-Roman_soldier_end_of_third_century_northern_province_-_cropped.jpg Roman-legions-212-AD-Centrici-site-Keilo-Jack.jpg
 
 In the Later Roman Empire, the number of legions was increased and the Roman Army expanded. There is no evidence to suggest that legions changed in form before the Tetrarchy, although there is evidence that they were smaller than the paper strengths usually quoted. The final form of the legion originated with the elite _legiones palatinae_ created by Diocletian and the Tetrarchs. These were infantry units of around 1,000 men rather than the 5,000, including cavalry, of the old Legions. The earliest _legiones palatinae_ were the _Lanciarii_, _Joviani_, _Herculiani_ and _Divitenses_.
 
@@ -132,8 +128,6 @@ Senior officers
 Centurions
 
 The rank of centurion was an officer grade that included many ranks, meaning centurions had very good prospects for promotion. The most senior centurion in a legion was known as the _primus pilus_ (first file or spear), who directly commanded the first century of the first cohort and commanded the whole first cohort when in battle. Within the second to tenth cohorts, the commander of each cohort's first century was known as a _pilus prior_ and was in command of his entire cohort when in battle. The seniority of the pilus prior centurions was followed by the five other century commanders of the first cohort, who were known as _primi ordines_.
-
-Centurion_2_Boulogne_Luc_Viatour.jpg
 
 The six centuries of a normal cohort, were, in order of precedence:
 
@@ -178,7 +172,7 @@ All legionary soldiers would also receive a _praemia_ (veterans' benefits) on co
 
 Symbols
 
-From 104 BC onwards, each legion used an aquila (eagle) as its standard symbol. The symbol was carried by an officer known as aquilifer, and its loss was considered to be a very serious embarrassment, and often led to the disbanding of the legion itself. Normally, this was because any legion incapable of regaining its eagle in battle was so severely mauled that it was no longer effective in combat.[13] Roman_soldiers_with_aquilifer_signifer_centurio_70_aC.jpg.]] In _Gallic War_ (Bk IV, Para. 25), Julius Caesar describes an incident at the start of his first invasion of Britain in 55 BC that illustrated how fear for the safety of the eagle could drive Roman soldiers. When Caesar's troops hesitated to leave their ships for fear of the Britons, the aquilifer of the tenth legion threw himself overboard and, carrying the eagle, advanced alone against the enemy. His comrades, fearing disgrace, 'with one accord, leapt down from the ship' and were followed by troops from the other ships.
+From 104 BC onwards, each legion used an aquila (eagle) as its standard symbol. The symbol was carried by an officer known as aquilifer, and its loss was considered to be a very serious embarrassment, and often led to the disbanding of the legion itself. Normally, this was because any legion incapable of regaining its eagle in battle was so severely mauled that it was no longer effective in combat.[13] .]] In _Gallic War_ (Bk IV, Para. 25), Julius Caesar describes an incident at the start of his first invasion of Britain in 55 BC that illustrated how fear for the safety of the eagle could drive Roman soldiers. When Caesar's troops hesitated to leave their ships for fear of the Britons, the aquilifer of the tenth legion threw himself overboard and, carrying the eagle, advanced alone against the enemy. His comrades, fearing disgrace, 'with one accord, leapt down from the ship' and were followed by troops from the other ships.
 
 With the birth of the Roman Empire, the legions created a bond with their leader, the emperor himself. Each legion had another officer, called imaginifer, whose role was to carry a pike with the _imago_ (image, sculpture) of the emperor as _pontifex maximus_.
 

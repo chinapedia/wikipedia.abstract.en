@@ -1,4 +1,4 @@
-Battle_of_crecy_froissart.jpg (1346) between the English and French in the Hundred Years' War.]] MEDIEVAL WARFARE is the European warfare of the Middle Ages. Technological, cultural, and social developments had forced a dramatic transformation in the character of warfare from antiquity, changing military tactics and the role of cavalry and artillery (see military history). In terms of fortification, the Middle Ages saw the emergence of the castle in Europe, which then spread to Western Asia.
+(1346) between the English and French in the Hundred Years' War.]] MEDIEVAL WARFARE is the European warfare of the Middle Ages. Technological, cultural, and social developments had forced a dramatic transformation in the character of warfare from antiquity, changing military tactics and the role of cavalry and artillery (see military history). In terms of fortification, the Middle Ages saw the emergence of the castle in Europe, which then spread to Western Asia.
 
 
 Strategy and tactics
@@ -16,9 +16,7 @@ Some soldiers regarded the experience of warfare as more valuable than reading a
 
 Fortifications
 
-Falaise_chateau_guillaume_conquerant_2.jpg in France.]]
-
-Celje_Celjski_grad_003.jpg
+in France.]]
 
 In Europe, breakdowns in centralized power led to the rise of a number of groups that turned to large-scale pillage as a source of income. Most notably the Vikings (but also Arabs, Mongols, Huns, and Magyars) raided significantly[12]. As these groups were generally small and needed to move quickly, building fortifications was a good way to provide refuge and protection for the people and the wealth in the region.
 
@@ -30,7 +28,7 @@ Siege warfare
 
 In the Medieval period besieging armies used a wide variety of siege engines including: scaling ladders; battering rams; siege towers and various types of catapults such as the mangonel, onager, ballista, and trebuchet. Siege techniques also included mining in which tunnels were dug under a section of the wall and then rapidly collapsed to destabilize the wall's foundation. Another technique was to bore into the enemy walls, however this was not nearly as effective as other methods due to the thickness of castle walls.
 
-Forteresse_de_Dubrovnik.jpg are a series of defensive stone walls, never breached by a hostile army, that have surrounded and protected the maritime city-state of Dubrovnik (Ragusa), situated in southern Croatia.]]
+are a series of defensive stone walls, never breached by a hostile army, that have surrounded and protected the maritime city-state of Dubrovnik (Ragusa), situated in southern Croatia.]]
 
 Advances in the prosecution of sieges encouraged the development of a variety of defensive counter-measures. In particular, Medieval fortifications became progressively stronger – for example, the advent of the concentric castle from the period of the Crusades – and more dangerous to attackers – witness the increasing use of machicolations, as well the preparation of hot or incendiary substances. Arrow slits, concealed doors for sallies, and deep water wells were also integral to resisting siege at this time. Designers of castles paid particular attention to defending entrances, protecting gates with drawbridges, portcullises and barbicans. Wet animal skins were often draped over gates to repel fire. Moats and other water defences, whether natural or augmented, were also vital to defenders.
 
@@ -49,8 +47,6 @@ Infantry were recruited and trained in a wide variety of manners in different re
 
 Recruiting
 
-Kalandozasok.jpg
-
 In the earliest Middle Ages it was the obligation of every noble to respond to the call to battle with his own equipment, archers, and infantry. This decentralized system was necessary due to the social order of the time, but could lead to motley forces with variable training, equipment and abilities. The more resources the noble had access to, the better his troops would typically be.
 
 Typically the feudal armies consisted of a core of highly skilled knights and their household troops, mercenaries hired for the time of the campaign and feudal levies fulfilling their feudal obligations, who usually were little more than rabble. They could, however, be efficient in disadvantageous terrain. Towns and cities could also field militias.
@@ -65,10 +61,6 @@ Mercenary-on-mercenary warfare in Italy led to relatively bloodless campaigns wh
 
 
 Equipment
-
-Marksburg03.jpg
-
-Varlet_or_Squire_carrying_a_Halberd_with_a_thick_Blade_and_Archer_in_Fighting_Dress_drawing_the_String_of_his_Crossbow_with_a_double_handled_Winch.png
 
 WEAPONS Medieval weapons consisted of many different types of ranged and hand-held objects:
 
@@ -149,13 +141,13 @@ As Edward III went to war with France in the Hundred Years' War (starting in 133
 
 Naval warfare
 
-Byzantines_repel_the_Russian_attack_of_941.jpgs are rolling over the Rus' vessels and smashing their oars with their spurs.]] The waters surrounding Europe can be grouped into two types which affected the design of craft that travelled and therefore the warfare. The Mediterranean and Black Seas were free of large tides, generally calm, and weather predictable. The seas around the north and west of Europe experienced stronger and less predictable weather. The weather gauge, the advantage of having a following wind, was an important factor in naval battles, particularly to the attackers. Typically westerlies (winds blowing from west to east) dominated Europe, giving naval powers to the west an advantage.[27] Medieval sources on the conduct of medieval naval warfare are less common than those about land-based war. Most medieval chroniclers had no experience of life on the sea, and generally were not well-informed. Maritime archaeology has helped provide information.[28]
+s are rolling over the Rus' vessels and smashing their oars with their spurs.]] The waters surrounding Europe can be grouped into two types which affected the design of craft that travelled and therefore the warfare. The Mediterranean and Black Seas were free of large tides, generally calm, and weather predictable. The seas around the north and west of Europe experienced stronger and less predictable weather. The weather gauge, the advantage of having a following wind, was an important factor in naval battles, particularly to the attackers. Typically westerlies (winds blowing from west to east) dominated Europe, giving naval powers to the west an advantage.[27] Medieval sources on the conduct of medieval naval warfare are less common than those about land-based war. Most medieval chroniclers had no experience of life on the sea, and generally were not well-informed. Maritime archaeology has helped provide information.[28]
 
 Early in the medieval period, ships in the context of warfare were used primarily for transporting troops.[29] In the Mediterranean, naval warfare in the Middle Ages was similar to that under late Roman Empire: fleets of galleys would exchange missile fire and then try to board bow first to allow marines to fight on deck. This mode of naval warfare remained basically the same into the early modern period, as, for example, at the Battle of Lepanto. Famous admirals included Roger of Lauria, Andrea Doria and Hayreddin Barbarossa.
 
 Galleys were not suitable for the colder and more turbulent North Sea and Atlantic Ocean, although they saw occasional use. Bulkier ships were developed which were primarily sail-driven, although the long lowboard Viking-style rowed longship saw use well into the 15th century. Their main purpose in the north remained the transportation of soldiers to fight on the decks of the opposing ship (as, for example, at the Battle of Svolder or the Battle of Sluys).
 
-Spinello-Battle_of_Punta_San_Salvatore-detail1.jpg 1407-1408.]] Late medieval sailing warships resembled floating fortresses, with towers in the bows and at the stern (respectively, the forecastle and aftcastle). The large superstructure made these warships quite unstable, but the decisive defeats that the more mobile but considerably lower boarded longships suffered at the hands of high-boarded cogs in the 15th century ended the issue of which ship type would dominate northern European warfare.
+1407-1408.]] Late medieval sailing warships resembled floating fortresses, with towers in the bows and at the stern (respectively, the forecastle and aftcastle). The large superstructure made these warships quite unstable, but the decisive defeats that the more mobile but considerably lower boarded longships suffered at the hands of high-boarded cogs in the 15th century ended the issue of which ship type would dominate northern European warfare.
 
 Introduction of guns
 
@@ -163,7 +155,7 @@ The introduction of guns was the first steps towards major changes in naval warf
 
 As guns were made more durable to withstand stronger gunpowder charges, they increased their potential to inflict critical damage to the vessel rather than just their crews. Since these guns were much heavier than the earlier anti-personnel weapons, they had to be placed lower in the ships, and fire from gunports, to avoid ships becoming unstable. In Northern Europe the technique of building ships with clinker planking made it difficult to cut ports in the hull; clinker-built (or clench-built) ships had much of their structural strength in the outer hull. The solution was the gradual adoption of carvel-built ships that relied on an internal skeleton structure to bear the weight of the ship.[31]
 
-HandCulverinWithSmallCannonsEurope15thCentury.jpg The first ships to actually mount heavy cannon capable of sinking ships were galleys, with large wrought-iron pieces mounted directly on the timbers in the bow. The first example is known from a woodcut of a Venetian galley from 1486.[32] Heavy artillery on galleys was mounted in the bow which fit conveniently with the long-standing tactical tradition of attacking head-on and bow-first. The ordnance on galleys was quite heavy from its introduction in the 1480s, and capable of quickly demolishing medieval-style stone walls that still prevailed until the 16th century.[33]
+The first ships to actually mount heavy cannon capable of sinking ships were galleys, with large wrought-iron pieces mounted directly on the timbers in the bow. The first example is known from a woodcut of a Venetian galley from 1486.[32] Heavy artillery on galleys was mounted in the bow which fit conveniently with the long-standing tactical tradition of attacking head-on and bow-first. The ordnance on galleys was quite heavy from its introduction in the 1480s, and capable of quickly demolishing medieval-style stone walls that still prevailed until the 16th century.[33]
 
 This temporarily upended the strength of older seaside fortresses, which had to be rebuilt to cope with gunpowder weapons. The addition of guns also improved the amphibious abilities of galleys as they could assault supported with heavy firepower, and could be even more effectively defended when beached stern-first.[34] Galleys and similar oared vessels remained uncontested as the most effective gun-armed warships in theory until the 1560s, and in practice for a few decades more, and were actually considered a grave risk to sailing warships.[35]
 
@@ -178,14 +170,14 @@ The use of long pikes and densely packed foot troops was not uncommon in the Mid
 
 Welsh and English longbowmen
 
-Arc_long_anglais.jpg The Welsh & English longbowman used a single-piece longbow (but some bows later developed a composite design) to deliver arrows that could penetrate contemporary mail and damage/dent plate armour. The longbow was a difficult weapon to master, requiring long years of use and constant practice. A skilled longbowman could shoot about 12 shots per minute. This rate of fire was far superior to competing weapons like the crossbow or early gunpowder weapons. The nearest competitor to the longbow was the much more expensive crossbow, used often by urban militias and mercenary forces. The crossbow had greater penetrating power, and did not require the extended years of training. However, it lacked the rate of fire of the longbow.
+The Welsh & English longbowman used a single-piece longbow (but some bows later developed a composite design) to deliver arrows that could penetrate contemporary mail and damage/dent plate armour. The longbow was a difficult weapon to master, requiring long years of use and constant practice. A skilled longbowman could shoot about 12 shots per minute. This rate of fire was far superior to competing weapons like the crossbow or early gunpowder weapons. The nearest competitor to the longbow was the much more expensive crossbow, used often by urban militias and mercenary forces. The crossbow had greater penetrating power, and did not require the extended years of training. However, it lacked the rate of fire of the longbow.
 
 At Crécy and Agincourt bowmen unleashed clouds of arrows into the ranks of knights. At Crécy, even 5,000 Genoese crossbowmen could not dislodge them from their hill. At Agincourt, thousands of French knights were brought down by armour-piercing bodkin point arrows and horse-maiming broadheads. Longbowmen decimated an entire generation of the French nobility.
 
 
 Transition to gunpowder warfare
 
-Siege_orleans.jpg of 1429.]] In 1326 the earliest known European picture of a gun appeared in a manuscript by Walter de Milemete.[36] In 1350, Petrarch wrote that the presence of cannons on the battlefield was 'as common and familiar as other kinds of arms'.[37]
+of 1429.]] In 1326 the earliest known European picture of a gun appeared in a manuscript by Walter de Milemete.[36] In 1350, Petrarch wrote that the presence of cannons on the battlefield was 'as common and familiar as other kinds of arms'.[37]
 
 Early artillery played a limited role in the Hundred Years' War, and it became indispensable in the Italian Wars of 1494–1559, marking the beginning of early modern warfare. Charles VIII, during his invasion of Italy, brought with him the first truly mobile siege train: culverins and bombards mounted on wheeled carriages, which could be deployed against an enemy stronghold immediately after arrival.
 
@@ -218,7 +210,7 @@ The Scandinavian armies of the High Middle Ages followed the usual pattern of th
 
 Mongols
 
-Clissa.jpg, Tatars, under the leadership of Kadan, experienced a major failure in March 1242 at Klis Fortress in southern Croatia.[42][43]]]
+, Tatars, under the leadership of Kadan, experienced a major failure in March 1242 at Klis Fortress in southern Croatia.[42][43]]]
 
 By 1241, having conquered large parts of Russia, the Mongols continued the invasion of Europe with a massive three-pronged advance, following the fleeing Cumans, who had established an uncertain alliance with King Bela IV of Hungary. They first invaded Poland, and finally Hungary, culminating in the crushing defeat of the Hungarians in the Battle of Mohi. The Mongol aim seems to have consistently been to defeat the Hungarian-Cuman alliance. The Mongols raided across the borders to Austria and Bohemia in the summer when the Great Khan died, and the Mongol princes returned home to elect a new Great Khan.
 
@@ -228,7 +220,7 @@ The Hungarians and Poles had responded to the mobile threat by extensive fortifi
 
 Turks
 
-Battle_of_Kosovo,_Adam_Stefanović,_1870.jpg (1870)]]
+(1870)]]
 
 An early Turkic group, the Seljuks, were known for their cavalry archers. These fierce nomads were often raiding empires, such as the Byzantine Empire, and they scored several victories using mobility and timing to defeat the heavy cataphracts of the Byzantines.
 

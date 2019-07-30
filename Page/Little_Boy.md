@@ -12,9 +12,9 @@ Physicist Robert Serber named the first two atomic bomb designs during World War
 
 Development
 
-Because uranium-235 was known to be fissionable, it was the first material pursued in the approach to bomb development. As the first design developed (as well as the first deployed for combat), it is sometimes known as the Mark I. The vast majority of the work came in the form of the isotope enrichment of the uranium necessary for the weapon, since uranium-235 makes up only 1 part in 140 of natural uranium. Enrichment was performed at Oak Ridge, Tennessee, where the electromagnetic separation plant, known as Y-12, became fully operational in March 1944. The first shipments of highly enriched uranium were sent to the Los Alamos Laboratory in June 1944. Shinkolobwe_mine.jpg in Katanga, Congo]] Most of the uranium necessary for the production of the bomb came from the Shinkolobwe mine and was made available thanks to the foresight of the CEO of the High Katanga Mining Union, Edgar Sengier, who had of uranium ore transported to a New York warehouse in 1940. At least part of the of uranium ore and uranium oxide captured by the Alsos Mission in 1944 and 1945 went to Oak Ridge for enrichment, as did of uranium oxide captured on the Japan-bound after Germany's surrender in May 1945.[1]
+Because uranium-235 was known to be fissionable, it was the first material pursued in the approach to bomb development. As the first design developed (as well as the first deployed for combat), it is sometimes known as the Mark I. The vast majority of the work came in the form of the isotope enrichment of the uranium necessary for the weapon, since uranium-235 makes up only 1 part in 140 of natural uranium. Enrichment was performed at Oak Ridge, Tennessee, where the electromagnetic separation plant, known as Y-12, became fully operational in March 1944. The first shipments of highly enriched uranium were sent to the Los Alamos Laboratory in June 1944. in Katanga, Congo]] Most of the uranium necessary for the production of the bomb came from the Shinkolobwe mine and was made available thanks to the foresight of the CEO of the High Katanga Mining Union, Edgar Sengier, who had of uranium ore transported to a New York warehouse in 1940. At least part of the of uranium ore and uranium oxide captured by the Alsos Mission in 1944 and 1945 went to Oak Ridge for enrichment, as did of uranium oxide captured on the Japan-bound after Germany's surrender in May 1945.[1]
 
-_Atombombe_Little_Boy.jpg, Commander A. Francis Birch (left) assembles the bomb while physicist Norman Ramsey watches. This is one of the rare photos where the inside of the bomb can be seen.]] Little Boy was a simplification of Thin Man, the previous gun-type fission weapon design. Thin Man, long, was designed to use plutonium, so it was also more than capable of using enriched uranium. The Thin Man design was abandoned after experiments by Emilio G. Segrè and his P-5 Group at Los Alamos on the newly reactor-produced plutonium from Oak Ridge and the Hanford site showed that it contained impurities in the form of the isotope plutonium-240. This has a far higher spontaneous fission rate and radioactivity than the cyclotron-produced plutonium on which the original measurements had been made, and its inclusion in reactor-bred plutonium (needed for bomb-making due to the quantities required) appeared unavoidable. This meant that the background fission rate of the plutonium was so high that it would be highly likely the plutonium would predetonate and blow itself apart in the initial forming of a critical mass.
+, Commander A. Francis Birch (left) assembles the bomb while physicist Norman Ramsey watches. This is one of the rare photos where the inside of the bomb can be seen.]] Little Boy was a simplification of Thin Man, the previous gun-type fission weapon design. Thin Man, long, was designed to use plutonium, so it was also more than capable of using enriched uranium. The Thin Man design was abandoned after experiments by Emilio G. Segrè and his P-5 Group at Los Alamos on the newly reactor-produced plutonium from Oak Ridge and the Hanford site showed that it contained impurities in the form of the isotope plutonium-240. This has a far higher spontaneous fission rate and radioactivity than the cyclotron-produced plutonium on which the original measurements had been made, and its inclusion in reactor-bred plutonium (needed for bomb-making due to the quantities required) appeared unavoidable. This meant that the background fission rate of the plutonium was so high that it would be highly likely the plutonium would predetonate and blow itself apart in the initial forming of a critical mass.
 
 In July 1944, almost all research at Los Alamos was redirected to the implosion-type plutonium weapon. Overall responsibility for the uranium gun-type weapon was assigned to Captain William S. Parsons's Ordnance (O) Division. All the design, development, and technical work at Los Alamos was consolidated under Lieutenant Commander Francis Birch's group. In contrast to the plutonium implosion-type nuclear weapon and the plutonium gun-type fission weapon, the uranium gun-type weapon was straightforward if not trivial to design. The concept was pursued so that in case of a failure to develop a plutonium bomb, it would still be possible to use the gun principle. The gun-type design henceforth had to work with enriched uranium only, and this allowed the Thin Man design to be greatly simplified. A high-velocity gun was no longer required, and a simpler weapon could be substituted. The simplified weapon was short enough to fit into a B-29 bomb bay.
 
@@ -27,15 +27,13 @@ Though Little Boy incorporated various safety mechanisms, an accidental detonati
 
 Design
 
-Gun-type_fission_weapon_en-labels_thin_lines.svg projectile was driven onto the target cylinder, a nuclear explosion resulted.]] The Little Boy was in length, in diameter and weighed approximately . The design used the gun method to explosively force a hollow sub-critical mass of uranium-235 and a solid target cylinder together into a super-critical mass, initiating a nuclear chain reaction. This was accomplished by shooting one piece of the uranium onto the other by means of four cylindrical silk bags of cordite. The bomb contained of enriched uranium. Most was enriched to 89% but some was only 50% uranium-235, for an average enrichment of 80%. Less than a kilogram of uranium underwent nuclear fission, and of this mass only was transformed into several forms of energy, mostly kinetic energy, but also heat and radiation.
+projectile was driven onto the target cylinder, a nuclear explosion resulted.]] The Little Boy was in length, in diameter and weighed approximately . The design used the gun method to explosively force a hollow sub-critical mass of uranium-235 and a solid target cylinder together into a super-critical mass, initiating a nuclear chain reaction. This was accomplished by shooting one piece of the uranium onto the other by means of four cylindrical silk bags of cordite. The bomb contained of enriched uranium. Most was enriched to 89% but some was only 50% uranium-235, for an average enrichment of 80%. Less than a kilogram of uranium underwent nuclear fission, and of this mass only was transformed into several forms of energy, mostly kinetic energy, but also heat and radiation.
 
 Assembly details
 
 Inside the weapon, the uranium-235 material was divided into two parts, following the gun principle: the "projectile" and the "target". The projectile was a hollow cylinder with 60% of the total mass (). It consisted of a stack of nine uranium rings, each in diameter with a bore in the center, and a total length of , pressed together into the front end of a thin-walled projectile long. Filling in the remainder of the space behind these rings in the projectile was a tungsten carbide disc with a steel back. At ignition, the projectile slug was pushed along the long, smooth-bore gun barrel. The slug "insert" was a cylinder, in length with a axial hole. The slug comprised 40% of the total fissile mass (). The insert was a stack of six washer-like uranium discs somewhat thicker than the projectile rings that were slid over a rod. This rod then extended forward through the tungsten carbide tamper plug, impact-absorbing anvil, and nose plug backstop, eventually protruding out of the front of the bomb casing. This entire target assembly was secured at both ends with locknuts.[2]
 
 When the hollow-front projectile reached the target and slid over the target insert, the assembled super-critical mass of uranium would be completely surrounded by a tamper and neutron reflector of tungsten carbide and steel, both materials having a combined mass of . Neutron initiators at the base of the projectile were activated by the impact.
-
-Little_Boy_Internal_Components.png
 
 Counter-intuitive design
 
@@ -45,7 +43,7 @@ A hole in the center of the larger piece dispersed the mass and increased the su
 
 Fuze system
 
-Little_Boy_arming_plugs_in_October_2009.JPG's Steven F. Udvar-Hazy Center.]]
+'s Steven F. Udvar-Hazy Center.]]
 
 The fuzing system was designed to trigger at the most destructive altitude, which calculations suggested was . It employed a three-stage interlock system:
 
@@ -56,14 +54,14 @@ The fuzing system was designed to trigger at the most destructive altitude, whic
 
 Rehearsals
 
-Atombombe_Little_Boy_2.jpg island, before being loaded into _Enola Gay_{{'}}s bomb bay. A section of the bomb bay door is visible on the top right.]]
+island, before being loaded into _Enola Gay_{{'}}s bomb bay. A section of the bomb bay door is visible on the top right.]]
 
 The Little Boy pre-assemblies were designated L-1, L-2, L-3, L-4, L-5, L-6, L-7, and L-11. L-1, L-2, L-5, and L-6 were expended in test drops. The first drop test was conducted with L-1 on 23 July 1945. It was dropped over the sea near Tinian in order to test the radar altimeter by the B-29 later known as _Big Stink_, piloted by Colonel Paul W. Tibbets, the commander of the 509th Composite Group. Two more drop tests over the sea were made on 24 and 25 July, using the L-2 and L-5 units in order to test all components. Tibbets was the pilot for both missions, but this time the bomber used was the one subsequently known as _Jabit_. L-6 was used as a dress rehearsal on 29 July. The B-29 _Next Objective_, piloted by Major Charles W. Sweeney, flew to Iwo Jima, where emergency procedures for loading the bomb onto a standby aircraft were practiced. This rehearsal was repeated on 31 July, but this time L-6 was reloaded onto a different B-29, _Enola Gay_, piloted by Tibbets, and the bomb was test dropped near Tinian. L-11 was the assembly used for the Hiroshima bomb.
 
 
 Bombing of Hiroshima
 
-Parsons, the _Enola Gay_{{'}}s weaponeer, was concerned about the possibility of an accidental detonation if the plane crashed on takeoff, so he decided not to load the four cordite powder bags into the gun breech until the aircraft was in flight. Parsons and his assistant, Second Lieutenant Morris R. Jeppson, made their way into the bomb bay along the narrow catwalk on the port side. Jeppson held a flashlight while Parsons disconnected the primer wires, removed the breech plug, inserted the powder bags, replaced the breech plug, and reconnected the wires. Before climbing to altitude on approach to the target, Jeppson switched the three safety plugs between the electrical connectors of the internal battery and the firing mechanism from green to red. The bomb was then fully armed. Jeppson monitored the bomb's circuits. _Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg over Hiroshima after the dropping of Little Boy]]
+Parsons, the _Enola Gay_{{'}}s weaponeer, was concerned about the possibility of an accidental detonation if the plane crashed on takeoff, so he decided not to load the four cordite powder bags into the gun breech until the aircraft was in flight. Parsons and his assistant, Second Lieutenant Morris R. Jeppson, made their way into the bomb bay along the narrow catwalk on the port side. Jeppson held a flashlight while Parsons disconnected the primer wires, removed the breech plug, inserted the powder bags, replaced the breech plug, and reconnected the wires. Before climbing to altitude on approach to the target, Jeppson switched the three safety plugs between the electrical connectors of the internal battery and the firing mechanism from green to red. The bomb was then fully armed. Jeppson monitored the bomb's circuits. over Hiroshima after the dropping of Little Boy]]
 
 The bomb was dropped at approximately 08:15 (JST) 6 August 1945. After falling for 44.4 seconds, the time and barometric triggers started the firing mechanism. The detonation happened at an altitude of . It was less powerful than the Fat Man, which was dropped on Nagasaki, but the damage and the number of victims at Hiroshima were much higher, as Hiroshima was on flat terrain, while the hypocenter of Nagasaki lay in a small valley. According to figures published in 1945, 66,000 people were killed as a direct result of the Hiroshima blast, and 69,000 were injured to varying degrees.[3] Of those deaths, 20,000 were members of the Imperial Japanese Army.[4]
 
@@ -78,8 +76,6 @@ In 1962, scientists at Los Alamos created a mockup of Little Boy known as "Proje
 
 Physical effects
 
-_General_Effects_of_Atomic_Bomb_on_Hiroshima_and_Nagasaki.ogv
-
 After being selected in April 1945, Hiroshima was spared conventional bombing to serve as a pristine target, where the effects of a nuclear bomb on an undamaged city could be observed. While damage could be studied later, the energy yield of the untested Little Boy design could be determined only at the moment of detonation, using instruments dropped by parachute from a plane flying in formation with the one that dropped the bomb. Radio-transmitted data from these instruments indicated a yield of about 15 kilotons.
 
 Comparing this yield to the observed damage produced a rule of thumb called the 5 psi lethal area rule. Approximately 100% of people inside the area where the shock wave carries an overpressure of 5 psi or greater would be killed. At Hiroshima, that area was in diameter.
@@ -90,7 +86,7 @@ Blast
 
 The blast from a nuclear bomb is the result of X-ray-heated air (the fireball) sending a shock wave or pressure wave in all directions, initially at a velocity greater than the speed of sound, analogous to thunder generated by lightning. Knowledge about urban blast destruction is based largely on studies of Little Boy at Hiroshima. Nagasaki buildings suffered similar damage at similar distances, but the Nagasaki bomb detonated from the city center over hilly terrain that was partially bare of buildings.
 
-House_1953_Nevada_Nuclear_Test_5_psi.jpg overpressure]]
+overpressure]]
 
 In Hiroshima almost everything within of the point directly under the explosion was completely destroyed, except for about 50 heavily reinforced, earthquake-resistant concrete buildings, only the shells of which remained standing. Most were completely gutted, with their windows, doors, sashes, and frames ripped out. The perimeter of severe blast damage approximately followed the contour at .
 
@@ -101,8 +97,6 @@ A major effect of this kind of structural damage was that it created fuel for fi
 Fire
 
 The first effect of the explosion was blinding light, accompanied by radiant heat from the fireball. The Hiroshima fireball was in diameter, with a surface temperature of . Near ground zero, everything flammable burst into flame. One famous, anonymous Hiroshima victim, sitting on stone steps from the hypocenter, left only a shadow, having absorbed the fireball heat that permanently bleached the surrounding stone. Simultaneous fires were started throughout the blast-damaged area by fireball heat and by overturned stoves and furnaces, electrical shorts, etc. Twenty minutes after the detonation, these fires had merged into a firestorm, pulling in surface air from all directions to feed an inferno which consumed everything flammable.
-
-_Hiroshima_Damage_Map.png
 
 The Hiroshima firestorm was roughly in diameter, corresponding closely to the severe blast damage zone. (See the USSBS map, right.) Blast-damaged buildings provided fuel for the fire. Structural lumber and furniture were splintered and scattered about. Debris-choked roads obstructed fire fighters. Broken gas pipes fueled the fire, and broken water pipes rendered hydrants useless. At Nagasaki, the fires failed to merge into a single firestorm, and the fire-damaged area was only one fourth as great as at Hiroshima, due in part to a southwest wind that pushed the fires away from the city.
 
@@ -123,7 +117,7 @@ Although Little Boy exploded with the energy equivalent of 16,000 tons of TNT, t
 
 Post-war
 
-_Spare_Little_Boy_atomic_bomb_casing_at_the_Imperial_War_Museum_in_London_in_November_2015.jpg in London during 2015]]
+in London during 2015]]
 
 When the war ended, it was not expected that the inefficient Little Boy design would ever again be required, and many plans and diagrams were destroyed. However, by mid-1946 the Hanford Site reactors were suffering badly from the Wigner effect. Faced with the prospect of no more plutonium for new cores and no more polonium for the initiators for the cores that had already been produced, the Director of the Manhattan Project, Major General Leslie R. Groves, ordered that some Little Boys be prepared as an interim measure until a cure could be found. No Little Boy assemblies were available, and no comprehensive set of diagrams of the Little Boy could be found, although there were drawings of the various components, and stocks of spare parts.
 

@@ -5,7 +5,7 @@ The Republic of the Congo's sparse population is concentrated in the southwester
 
 Population
 
-Congo-Rep-demography.png, year 2005]] According to the total population was in , compared to only 808 000 in 1950. The proportion of children below the age of 15 in 2010 was 40.6%, 55.7% was between 15 and 65 years of age, while 3.7% was 65 years or older .[2]
+, year 2005]] According to the total population was in , compared to only 808 000 in 1950. The proportion of children below the age of 15 in 2010 was 40.6%, 55.7% was between 15 and 65 years of age, while 3.7% was 65 years or older .[2]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------ -------------------------- --------------------------- -------------------------
@@ -146,8 +146,6 @@ Population
 5,062,021 (July 2018 est.)
 
 Age structure
-
-Republic_of_the_Congopop.svg
 
     _0-14 years:_ 41.75% (male 1,066,474 /female 1,046,924)
     _15-24 years:_ 16.99% (male 431,279 /female 428,999)

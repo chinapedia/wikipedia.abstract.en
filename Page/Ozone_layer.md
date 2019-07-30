@@ -1,4 +1,4 @@
-Ozone_cycle.svg in the ozone layer.]]
+in the ozone layer.]]
 
 The OZONE LAYER or OZONE SHIELD is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation. It contains high concentration of ozone (O₃) in relation to other parts of the atmosphere, although still small in relation to other gases in the stratosphere. The ozone layer contains less than 10 parts per million of ozone, while the average ozone concentration in Earth's atmosphere as a whole is about 0.3 parts per million. The ozone layer is mainly found in the lower portion of the stratosphere, from approximately above Earth, although its thickness varies seasonally and geographically.[1]
 
@@ -23,7 +23,7 @@ About 90 percent of the ozone in the atmosphere is contained in the stratosphere
 
 Ultraviolet light
 
-Ozone_solar_UV_absorb_DNA_action.jpg Ozone_altitude_UV_graph.svg of dioxygen (below 240 nm) react with more dioxygen. The ozone layer also blocks most, but not quite all, of the sunburn-producing UV-B (280–315 nm) band, which lies in the wavelengths longer than UV-C. The band of UV closest to visible light, UV-A (315–400 nm), is hardly affected by ozone, and most of it reaches the ground. UV-A does not primarily cause skin reddening, but there is evidence that it causes long-term skin damage.]]
+of dioxygen (below 240 nm) react with more dioxygen. The ozone layer also blocks most, but not quite all, of the sunburn-producing UV-B (280–315 nm) band, which lies in the wavelengths longer than UV-C. The band of UV closest to visible light, UV-A (315–400 nm), is hardly affected by ozone, and most of it reaches the ground. UV-A does not primarily cause skin reddening, but there is evidence that it causes long-term skin damage.]]
 
 Although the concentration of the ozone in the ozone layer is very small, it is vitally important to life because it absorbs biologically harmful ultraviolet (UV) radiation coming from the sun. Extremely short or vacuum UV (10–100 nm) is screened out by nitrogen. UV radiation capable of penetrating nitrogen is divided into three categories, based on its wavelength; these are referred to as UV-A (400–315 nm), UV-B (315–280 nm), and UV-C (280–100 nm).
 
@@ -40,16 +40,14 @@ The majority of ozone is produced over the tropics and is transported towards th
 
 Research has found that the ozone levels in the United States are highest in the spring months of April and May and lowest in October. While the total amount of ozone increases moving from the tropics to higher latitudes, the concentrations are greater in high northern latitudes than in high southern latitudes, due to the ozone hole phenomenon.[12] The highest amounts of ozone are found over the Arctic during the spring months of March and April, but the Antarctic has their lowest amounts of ozone during their summer months of September and October,
 
-Nimbus_ozone_Brewer-Dobson_circulation.jpg
-
 
 Depletion
 
-Future_ozone_layer_concentrations.gifs had not been banned.]]
+s had not been banned.]]
 
 The ozone layer can be depleted by free radical catalysts, including nitric oxide (NO), nitrous oxide (N₂O), hydroxyl (OH), atomic chlorine (Cl), and atomic bromine (Br). While there are natural sources for all of these species, the concentrations of chlorine and bromine increased markedly in recent decades because of the release of large quantities of man-made organohalogen compounds, especially chlorofluorocarbons (CFCs) and bromofluorocarbons.[13] These highly stable compounds are capable of surviving the rise to the stratosphere, where Cl and Br radicals are liberated by the action of ultraviolet light. Each radical is then free to initiate and catalyze a chain reaction capable of breaking down over 100,000 ozone molecules. By 2009, nitrous oxide was the largest ozone-depleting substance (ODS) emitted through human activities.[14]
 
-TOMS_Global_Ozone_65N-65S.pngThe breakdown of ozone in the stratosphere results in reduced absorption of ultraviolet radiation. Consequently, unabsorbed and dangerous ultraviolet radiation is able to reach the Earth's surface at a higher intensity. Ozone levels have dropped by a worldwide average of about 4 percent since the late 1970s. For approximately 5 percent of the Earth's surface, around the north and south poles, much larger seasonal declines have been seen, and are described as "ozone holes".[15] The discovery of the annual depletion of ozone above the Antarctic was first announced by Joe Farman, Brian Gardiner and Jonathan Shanklin, in a paper which appeared in _Nature_ on May 16, 1985.[16]
+The breakdown of ozone in the stratosphere results in reduced absorption of ultraviolet radiation. Consequently, unabsorbed and dangerous ultraviolet radiation is able to reach the Earth's surface at a higher intensity. Ozone levels have dropped by a worldwide average of about 4 percent since the late 1970s. For approximately 5 percent of the Earth's surface, around the north and south poles, much larger seasonal declines have been seen, and are described as "ozone holes".[15] The discovery of the annual depletion of ozone above the Antarctic was first announced by Joe Farman, Brian Gardiner and Jonathan Shanklin, in a paper which appeared in _Nature_ on May 16, 1985.[16]
 
 Regulation
 

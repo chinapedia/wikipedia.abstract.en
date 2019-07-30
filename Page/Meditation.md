@@ -38,7 +38,7 @@ The transcendental meditation technique recommends practice of 20 minutes twice 
 
 Posture
 
-1590-MT-au-Peru-2011-Consciousness-Based-Education.JPGvian school]]
+vian school]]
 
 Asanas and positions such as the full-lotus, half-lotus, Burmese, Seiza, and kneeling positions are popular in Buddhism, Jainism and Hinduism,[46] although other postures such as sitting, supine (lying), and standing are also used. Meditation is also sometimes done while walking, known as kinhin, or while doing a simple task mindfully, known as samu.[47]
 
@@ -61,7 +61,7 @@ Indian religions
 
 Hinduism
 
-Patanjali_Statue.jpg practicing dhyana in the Padma-asana at Patanjali Yogpeeth.]]
+practicing dhyana in the Padma-asana at Patanjali Yogpeeth.]]
 
 There are many schools and styles of meditation within Hinduism.[57] In pre-modern and traditional Hinduism, _Yoga_ and _Dhyana_ are practised to realize union of one's eternal self or soul, one's ātman. In Advaita Vedanta this is equated with the omnipresent and non-dual Brahman. In the dualistic Yoga school and Samkhya, the Self is called Purusha, a pure consciousness separate from matter. Depending on the tradition, the liberative event is named moksha, vimukti or kaivalya.
 
@@ -73,8 +73,6 @@ Later developments in Hindu meditation include the compilation of Hatha Yoga (fo
 
 Jainism
 
-Kevalajnana.jpg
-
 Jain meditation and spiritual practices system were referred to as salvation-path. It has three parts called the _Ratnatraya_ "Three Jewels": right perception and faith, right knowledge and right conduct.[61] Meditation in Jainism aims at realizing the self, attaining salvation, and taking the soul to complete freedom.[62] It aims to reach and to remain in the pure state of soul which is believed to be pure consciousness, beyond any attachment or aversion. The practitioner strives to be just a knower-seer (Gyata-Drashta). Jain meditation can be broadly categorized to _Dharmya Dhyana_ and _Shukla Dhyana_.
 
 Jainism uses meditation techniques such as _pindāstha-dhyāna, padāstha-dhyāna, rūpāstha-dhyāna, rūpātita-dhyāna, and savīrya-dhyāna_. In _padāstha dhyāna_ one focuses on a mantra.[63] A mantra could be either a combination of core letters or words on deity or themes. There is a rich tradition of Mantra in Jainism. All Jain followers irrespective of their sect, whether Digambara or Svetambara, practice mantra. Mantra chanting is an important part of daily lives of Jain monks and followers. Mantra chanting can be done either loudly or silently in mind.[64]
@@ -83,7 +81,7 @@ Contemplation is a very old and important meditation technique. The practitioner
 
 Buddhism
 
-BodhidharmaYoshitoshi1887.jpg practicing zazen]]
+practicing zazen]]
 
 Buddhist meditation refers to the meditative practices associated with the religion and philosophy of Buddhism. Core meditation techniques have been preserved in ancient Buddhist texts and have proliferated and diversified through teacher-student transmissions. Buddhists pursue meditation as part of the path toward awakening and nirvana.[66] The closest words for meditation in the classical languages of Buddhism are _bhāvanā_,[67] _jhāna_/_dhyāna_,See, for example, Rhys Davids & Stede (1921-25), entry for "jhāna¹"; Thanissaro (1997); as well as, Kapleau (1989), p. 385, for the derivation of the word "zen" from Sanskrit "dhyāna". Pāli Text Society Secretary Rupert Gethin, in describing the activities of wandering ascetics contemporaneous with the Buddha, wrote:
 
@@ -102,7 +100,7 @@ In the modern era, Buddhist meditation saw increasing popularity due to the infl
 
 Sikhism
 
-Shabad_Kirtan_Sample.webms gather in Gurdwara's and recite Shabad Kirtan, a vocal meditation]]
+s gather in Gurdwara's and recite Shabad Kirtan, a vocal meditation]]
 
 In Sikhism, simran (meditation) and good deeds are both necessary to achieve the devotee's Spiritual goals;[75] without good deeds meditation is futile. When Sikhs meditate, they aim to feel God's presence and immerge in the divine light.[76] It is only God's divine will or order that allows a devotee to desire to begin to meditate.[77]
 
@@ -112,7 +110,7 @@ East Asian religions
 
 Taoism
 
-Stage1.gif'']] Taoist meditation has developed techniques including concentration, visualization, _qi_ cultivation, contemplation, and mindfulness meditations in its long history. Traditional Daoist meditative practices were influenced by Chinese Buddhism from around the 5th century, and influenced Traditional Chinese medicine and the Chinese martial arts.
+'']] Taoist meditation has developed techniques including concentration, visualization, _qi_ cultivation, contemplation, and mindfulness meditations in its long history. Traditional Daoist meditative practices were influenced by Chinese Buddhism from around the 5th century, and influenced Traditional Chinese medicine and the Chinese martial arts.
 
 Livia Kohn distinguishes three basic types of Taoist meditation: "concentrative", "insight", and "visualization".[79] _Ding_ 定 (literally means "decide; settle; stabilize") refers to "deep concentration", "intent contemplation", or "perfect absorption". _Guan_ 觀 (lit. "watch; observe; view") meditation seeks to merge and attain unity with the Dao. It was developed by Tang Dynasty (618–907) Taoist masters based upon the _Tiantai_ Buddhist practice of _Vipassanā_ "insight" or "wisdom" meditation. _Cun_ 存 (lit. "exist; be present; survive") has a sense of "to cause to exist; to make present" in the meditation techniques popularized by the Taoist Shangqing and Lingbao Schools. A meditator visualizes or actualizes solar and lunar essences, lights, and deities within their body, which supposedly results in health and longevity, even _xian_ 仙/仚/僊, "immortality".
 
@@ -136,7 +134,7 @@ Meditation has been of interest to a wide variety of modern Jews. In modern Jewi
 
 Christianity
 
-Padre_Pio.jpg stated: "Through the study of books one seeks God; by meditation one finds him."[99]]]
+stated: "Through the study of books one seeks God; by meditation one finds him."[99]]]
 
 Christian meditation is a term for a form of prayer in which a structured attempt is made to get in touch with and deliberately reflect upon the revelations of God.[100] The word meditation comes from the Latin word _meditari_, which means to concentrate. Christian meditation is the process of deliberately focusing on specific thoughts (e.g. a biblical scene involving Jesus and the Virgin Mary) and reflecting on their meaning in the context of the love of God.[101] Christian meditation is sometimes taken to mean the middle level in a broad three stage characterization of prayer: it then involves more reflection than first level vocal prayer, but is more structured than the multiple layers of contemplation in Christianity.[102]
 
@@ -168,7 +166,7 @@ Movements which use magic, such as Wicca, Thelema, Neopaganism, and occultism, o
 
 Modern spirituality
 
-Jawlensky_Meditation_1290065.jpg, oil on cardboard, 1918]]
+, oil on cardboard, 1918]]
 
 Mantra meditation, with the use of a japa mala and especially with focus on the Hare Krishna maha-mantra, is a central practice of the Gaudiya Vaishnava faith tradition and the International Society for Krishna Consciousness (ISKCON), also known as the Hare Krishna movement. Other popular New Religious Movements include the Ramakrishna Mission, Vedanta Society, Divine Light Mission, Chinmaya Mission, Osho, Sahaja Yoga, Transcendental Meditation, Oneness University, Brahma Kumaris and Vihangam Yoga.
 
@@ -204,8 +202,6 @@ Biofeedback has been used by many researchers since the 1950s in an effort to en
 
 History
 
-Brooklyn_Museum_-_Man_Meditating_in_a_Garden_Setting.jpg
-
 From ancient times
 
 The history of meditation is intimately bound up with the religious context within which it was practiced.[149] Some authors have even suggested the hypothesis that the emergence of the capacity for focused attention, an element of many methods of meditation,[150] may have contributed to the latest phases of human biological evolution.[151] Some of the earliest references to meditation are found in the Hindu Vedas of India.[152] Wilson translates the most famous Vedic mantra "Gayatri" as: "We meditate on that desirable light of the divine Savitri, who influences our pious rites" (Rigveda : Mandala-3, Sukta-62, Rcha-10). Around the 6th to 5th centuries BCE, other forms of meditation developed via Confucianism and Taoism in China as well as Hinduism, Jainism, and early Buddhism in Nepal and India.[153]
@@ -226,7 +222,7 @@ Meditation has spread in the West since the late 19th century, accompanying incr
 
 Ideas about Eastern meditation had begun "seeping into American popular culture even before the American Revolution through the various sects of European occult Christianity",[172] and such ideas "came pouring in [to America] during the era of the transcendentalists, especially between the 1840s and the 1880s."[173] The following decades saw further spread of these ideas to America:
 
-Meditating_in_Madison_Square_Park.jpg, New York City]]
+, New York City]]
 
 More recently, in the 1960s, another surge in Western interest in meditative practices began. The rise of communist political power in Asia led to many Asian spiritual teachers taking refuge in Western countries, oftentimes as refugees.[174] In addition to spiritual forms of meditation, secular forms of meditation have taken root. Rather than focusing on spiritual growth, secular meditation emphasizes stress reduction, relaxation and self-improvement.[175][176]
 

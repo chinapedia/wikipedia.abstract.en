@@ -1,4 +1,4 @@
-Loxxzoo.jpg's Bahnhof Zoo at the LOXX Berlin model railway.]] H0e_layout2.png model railroad.]] Miwula02.jpg in Hamburg, Germany is the largest model railway in the world by the amount of track. Second largest is Northlandz In Flemington, New Jersey]] LSZcomparison.jpg, 1:220) placed on the buffer bar of one of the larger (live steam, 1:8) model locomotives.]] HO_Scale_Bachmann_44-tonner.JPG VECRR-VEEturntable
+'s Bahnhof Zoo at the LOXX Berlin model railway.]] model railroad.]] in Hamburg, Germany is the largest model railway in the world by the amount of track. Second largest is Northlandz In Flemington, New Jersey]] , 1:220) placed on the buffer bar of one of the larger (live steam, 1:8) model locomotives.]]
 
 RAILWAY MODELLING (UK, Australia and Ireland) or MODEL RAILROADING (US and Canada) is a hobby in which rail transport systems are modelled at a reduced scale.
 
@@ -69,7 +69,7 @@ Other scales have similar ranges of non-compatible couplers available. In all sc
 
 Landscaping
 
-H0e_layout.png layout, in size.]] Virginia_Farmlands_Rwy_2_SW8_@_Doorstown_6-17-2007.JPG town includes weathered buildings and tall uncut grass.]]
+layout, in size.]] town includes weathered buildings and tall uncut grass.]]
 
 Some modellers pay attention to landscaping their layout, creating a fantasy world or modelling an actual location, often historic. Landscaping is termed "scenery building" or "scenicking".
 
@@ -91,7 +91,7 @@ Weathering purchased models is common. At the least, weathering aims to reduce t
 
 Methods of power
 
-Tiny_electric_motor_in_a_Z_scale_model_locomotive.jpg in a Z scale model locomotive. The entire engine is only 50 mm (2") long.]] Guntur_west_terminal_and_a_model_train.jpg, India.]]
+in a Z scale model locomotive. The entire engine is only 50 mm (2") long.]] , India.]]
 
 Static diorama models or 'push along' scale models are a branch of model railways for unpowered locomotives, examples are Lone Star and Airfix models. Powered model railways are now generally operated by low voltage direct current (DC) electricity supplied via the tracks, but there are exceptions, such as Märklin and Lionel Corporation, which use alternating current (AC). Modern Digital Command Control (DCC) systems use alternating current. Other locomotives, particularly large models can use steam. Steam and clockwork driven engines are still sought by collectors.
 
@@ -132,14 +132,14 @@ Occasionally gasoline-electric models, patterned after real diesel-electric loco
 
 Scratch building
 
-Model_of_Russian_Class_FD_locomotive_FD20-2865.JPG number FD20-2865 at the Museum of the Moscow Railway]] Modern manufacturing techniques mean mass-produced models achieve a high degree of precision and realism. In the past this was not the case and scratch building was very common. Simple models are made using cardboard engineering techniques. More sophisticated models can be made using a combination of etched sheets of brass and low temperature castings. Parts that need machining, such as wheels and couplings are purchased.
+number FD20-2865 at the Museum of the Moscow Railway]] Modern manufacturing techniques mean mass-produced models achieve a high degree of precision and realism. In the past this was not the case and scratch building was very common. Simple models are made using cardboard engineering techniques. More sophisticated models can be made using a combination of etched sheets of brass and low temperature castings. Parts that need machining, such as wheels and couplings are purchased.
 
 Etched kits are still popular, still accompanied by low temperature castings. These kits produce models that are not covered by the major manufacturers or in scales that are not in mass production. Laser machining techniques have extended this ability to thicker materials for scale steam and other locomotive types. Scratch builders may also make silicone rubber moulds of the parts they create, and cast them in various plastic resins (see Resin casting), or plasters. This may be done to save duplication of effort, or to sell to others. Resin "craftsman kits" are also available for a wide range of prototypes.
 
 
 Control
 
-Coinop_trains.jpg The first clockwork (spring-drive) and live steam locomotives ran until out of power, with no way for the operator to stop and restart the locomotive or vary its speed. The advent of electric trains, which appeared commercially in the 1890s, allowed control of the speed by varying the current or voltage. As trains began to be powered by transformers and rectifiers more sophisticated throttles appeared, and soon trains powered by AC contained mechanisms to change direction or go into neutral gear when the operator cycled the power. Trains powered by DC can change direction by reversing polarity.
+The first clockwork (spring-drive) and live steam locomotives ran until out of power, with no way for the operator to stop and restart the locomotive or vary its speed. The advent of electric trains, which appeared commercially in the 1890s, allowed control of the speed by varying the current or voltage. As trains began to be powered by transformers and rectifiers more sophisticated throttles appeared, and soon trains powered by AC contained mechanisms to change direction or go into neutral gear when the operator cycled the power. Trains powered by DC can change direction by reversing polarity.
 
 Electricity permits control by dividing the layout into isolated blocks, where trains can be slowed or stopped by lowering or cutting power to a block. Dividing a layout into blocks permits operators to run more than one train with less risk of a fast train catching and hitting a slow train. Blocks can also trigger signals or other accessories, adding realism or whimsy. Three-rail systems often insulate one of the common rails on a section of track, and use a passing train to complete the circuit and activate an accessory.
 
@@ -150,7 +150,7 @@ In large scales, particularly for garden railways, radio control and DCC in the 
 
 Model railway manufacturers
 
-ExeterBank_modelrailway.JPG Modelrailway1.JPG Livesteamtrain.jpg train running on the Finnish Railway Museum's miniature track.]] Wagga-modeltrain.jpg, Australia.]]
+train running on the Finnish Railway Museum's miniature track.]] , Australia.]]
 
 +--------------------------------------------------+----------------------------------------------------+
 | -   Accurail                                     | -   Lego train                                     |
@@ -223,7 +223,7 @@ Magazines
 
 Famous model railroaders
 
-Model_train_display_at_Chicago's_Museum_of_Science_and_Industry.jpg]] US_model_railroad_02.jpg in the United States.]]
+]] in the United States.]]
 
 
 Layout standards organizations
@@ -246,15 +246,13 @@ Several organizations exist to set standardizations for connectability between i
 
 In popular culture
 
-Model_Railway_disease.jpg
-
 -   In _Hinterland_ Season 1, Episode 4 ("The Girl in the Water"), a semi-recluse who lives and works at Borth railway station maintains a model train set with custom made components; the set and certain components contribute to a death as well as provide important clues to a murder investigation. During the investigation, DCI Tom Mathias reveals that his late brother was a model train aficionado.
 -   In _The Sopranos_, Bobby Baccalieri is a model train aficionado. He is shown wearing an engineer's cap while playing with model trains in his garage. In the series' penultimate episode, "The Blue Comet", named after the train, Bobby is whacked while shopping at Traintown.
 
 
 See also
 
-Sapsan_Museum_of_Moscow_Railway.JPG Model Railway featuring the Sapsan train on the Moscow – Saint Petersburg Railway and Moscow to Nizhny Novgorod Railway in the Museum of the Moscow Railway, Moscow]]
+Model Railway featuring the Sapsan train on the Moscow – Saint Petersburg Railway and Moscow to Nizhny Novgorod Railway in the Museum of the Moscow Railway, Moscow]]
 
 
 References

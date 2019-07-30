@@ -20,7 +20,7 @@ Keith Murdoch the elder asked to meet with his future wife after seeing her debu
 
 Activities in Australia and New Zealand
 
-KeithMurdoch.jpg (1885–1952), Rupert Murdoch's father]]
+(1885–1952), Rupert Murdoch's father]]
 
 Following his father's death, when he was 21, Murdoch returned from Oxford to take charge of what was left of the family business. After liquidation of his father's _Herald_ stake to pay taxes, what was left was News Limited, which had been established in 1923.[30] Rupert Murdoch turned its Adelaide newspaper, _The News_, its main asset, into a major success.[31] He began to direct his attention to acquisition and expansion, buying the troubled _Sunday Times_ in Perth, Western Australia (1956) and over the next few years acquiring suburban and provincial newspapers in New South Wales, Queensland, Victoria and the Northern Territory, including the Sydney afternoon tabloid, _The Daily Mirror_ (1960). _The Economist_ describes Murdoch as "inventing the modern tabloid",[32] as he developed a pattern for his newspapers, increasing sports and scandal coverage and adopting eye-catching headlines.[33]
 
@@ -43,7 +43,7 @@ Activities in the United Kingdom
 
 Business activities in the United Kingdom
 
-Rupert_Murdoch_-_WEF_Davos_2007.jpg Annual Meeting in Davos, in 2007]]
+Annual Meeting in Davos, in 2007]]
 
 In 1968, Murdoch entered the British newspaper market with his acquisition of the populist _News of the World_, followed in 1969 with the purchase of the struggling daily _The Sun_ from IPC.[48] Murdoch turned _The Sun_ into a tabloid format and reduced costs by using the same printing press for both newspapers. On acquiring it, he appointed Albert 'Larry' Lamb as editor and – Lamb recalled later – told him: "I want a tearaway paper with lots of tits in it". In 1997 _The Sun_ attracted 10 million daily readers.[49] In 1981, Murdoch acquired the struggling _Times_ and _Sunday Times_ from Canadian newspaper publisher Lord Thomson of Fleet.[50] Ownership of _The Times_ came to him through his relationship with Lord Thomson, who had grown tired of losing money on it as a result of an extended period of industrial action that stopped publication.[51] In the light of success and expansion at _The Sun_ the owners believed that Murdoch could turn the papers around. Harold Evans, editor of the _Sunday Times_ from 1967, was switched to the daily _Times_, though he stayed only a year amid editorial conflict with Murdoch.[52][53]
 
@@ -105,7 +105,7 @@ In 1993, Murdoch's Fox Network took exclusive coverage of the National Football 
 
 In 2004, Murdoch announced that he was moving News Corporation headquarters from Adelaide, Australia to the United States. Choosing a US domicile was designed to ensure that American fund managers could purchase shares in the company, since many were deciding not to buy shares in non-US companies.
 
-News_Corp._logo.svg On 20 July 2005, News Corporation bought Intermix Media Inc., which held Myspace, Imagine Games Network and other social networking-themed websites, for US$580 million, making Murdoch a major player in online media concerns.[119] In June 2011, it sold off Myspace for US$35 million.[120] On 11 September 2005, News Corporation announced that it would buy IGN Entertainment for $650 million (USD).[121]
+On 20 July 2005, News Corporation bought Intermix Media Inc., which held Myspace, Imagine Games Network and other social networking-themed websites, for US$580 million, making Murdoch a major player in online media concerns.[119] In June 2011, it sold off Myspace for US$35 million.[120] On 11 September 2005, News Corporation announced that it would buy IGN Entertainment for $650 million (USD).[121]
 
 In May 2007, Murdoch made a $5 billion offer to purchase Dow Jones & Company. At the time, the Bancroft family, who had owned Dow Jones & Company for 105 years and controlled 64% of the shares at the time, declined the offer. Later, the Bancroft family confirmed a willingness to consider a sale. Besides Murdoch, the Associated Press reported that supermarket magnate Ron Burkle and Internet entrepreneur Brad Greenspan were among the other interested parties.[122] In 2007, Murdoch acquired Dow Jones & Company,[123][124] which gave him such publications as _The Wall Street Journal_, _Barron's Magazine_, the _Far Eastern Economic Review_ (based in Hong Kong) and _SmartMoney_.[125]
 
@@ -113,7 +113,7 @@ In June 2014, Murdoch's 21st Century Fox made a bid for Time Warner at $85 per s
 
 Political activities in the United States
 
-Ronald_Reagan_with_Rupert_Murdoch_and_Charles_Wick_C12463-4.jpg during a meeting with Murdoch in 1983]] McNight (2010) identifies four characteristics of his media operations: free market ideology; unified positions on matters of public policy; global editorial meetings; and opposition to liberal bias in other public media.[128]
+during a meeting with Murdoch in 1983]] McNight (2010) identifies four characteristics of his media operations: free market ideology; unified positions on matters of public policy; global editorial meetings; and opposition to liberal bias in other public media.[128]
 
 On 8 May 2006, the _Financial Times_ reported that Murdoch would be hosting a fund-raiser for Senator Hillary Clinton's (D-New York) Senate re-election campaign.[129] In a 2008 interview with Walt Mossberg, Murdoch was asked whether he had "anything to do with the _New York Post_'s endorsement of Barack Obama in the democratic primaries." Without hesitating, Murdoch replied, "Yeah. He is a rock star. It's fantastic. I love what he is saying about education. I don't think he will win Florida [...] but he will win in Ohio and the election. I am anxious to meet him. I want to see if he will walk the walk."[130][131] Murdoch is a strong supporter of Israel and its domestic policies.[132]
 
@@ -152,13 +152,13 @@ Personal life
 
 Marriages
 
-Rupert_Murdoch_Wendi_Murdoch_2011_Shankbone.JPG, in 2011]] In 1956 Murdoch married Patricia Booker, a former shop assistant and flight attendant from Melbourne; the couple had their only child, Prudence, in 1958.[166][167] They divorced in 1967.[168]
+, in 2011]] In 1956 Murdoch married Patricia Booker, a former shop assistant and flight attendant from Melbourne; the couple had their only child, Prudence, in 1958.[166][167] They divorced in 1967.[168]
 
 In 1967 Murdoch married Anna Maria Torv (Tõrv),[169] a Scottish-born cadet journalist working for his Sydney newspaper _The Daily Telegraph_.[170] In January 1998, 3 months before the announcement of his separation from Anna, a Roman Catholic, Murdoch was made a Knight Commander of the Order of Saint Gregory the Great (KSG), a papal honour awarded by Pope John Paul II.[171] While Murdoch would often attend Mass with Torv, he never converted to Catholicism.[172][173] Torv and Murdoch had three children: Elisabeth Murdoch (born in Sydney, Australia on 22 August 1968), Lachlan Murdoch (born in London, UK on 8 September 1971), and James Murdoch, (born in London on 13 December 1972).[174][175] Murdoch's companies published two novels by his then wife: _Family Business_ (1988) and _Coming to Terms_ (1991), both considered to be vanity publications. They divorced in June 1999. Anna Murdoch received a settlement of US$1.2 billion in assets.[176]
 
 On 25 June 1999, 17 days after divorcing his second wife, Murdoch, then aged 68, married Chinese-born Wendi Deng.[177] She was 30, a recent Yale School of Management graduate, and a newly appointed vice-president of his STAR TV. Murdoch had two daughters with her: Grace (born 2001) and Chloe (born 2003). Murdoch has six children in all, and is grandfather to thirteen grandchildren.[178] Near the end of his marriage to Wendi, hearsay concerning a possible link with Chinese intelligence became problematic to their relationship.[179][180] On 13 June 2013, a News Corporation spokesperson confirmed that Murdoch filed for divorce from Deng in New York City, U.S.[181][182] According to the spokesman, the marriage had been irretrievably broken for more than six months.[183] Murdoch also ended his long-standing friendship with Tony Blair after suspecting him of having an affair with Deng while they were still married.[184]
 
-Jerry_Hall_headshot.jpg, Murdoch's fourth wife, whom he married in March 2016, photographed in 2009]] On 11 January 2016, Murdoch announced his engagement to former model Jerry Hall in a notice in _The Times_ newspaper.[185] On 4 March 2016, Murdoch, a week short of his 85th birthday, and 59-year-old Hall were married in London, at Spencer House; this is Murdoch's fourth marriage.[186]
+, Murdoch's fourth wife, whom he married in March 2016, photographed in 2009]] On 11 January 2016, Murdoch announced his engagement to former model Jerry Hall in a notice in _The Times_ newspaper.[185] On 4 March 2016, Murdoch, a week short of his 85th birthday, and 59-year-old Hall were married in London, at Spencer House; this is Murdoch's fourth marriage.[186]
 
 Children
 
@@ -200,7 +200,7 @@ In 2012, the satirical show _Hacks_, broadcast on the UK's Channel 4, made obvio
 
 Influence, wealth and reputation
 
-Rupert_Murdoch_2015.png's 2015 Global Leadership Award in November]] According to _Forbes'_ real time list of world's billionaires, Murdoch is the 34th richest person in the US and the 96th richest person in the world, with a net worth of US$13.1 billion as of February 2017.[207] In 2016, _Forbes_ ranked "Rupert Murdoch & Family" as the 35th most powerful person in the world.[208] Later, in 2019, Rupert Murdoch & family were ranked 52nd in the Forbes' annual list of the world's billionaires.[209]
+'s 2015 Global Leadership Award in November]] According to _Forbes'_ real time list of world's billionaires, Murdoch is the 34th richest person in the US and the 96th richest person in the world, with a net worth of US$13.1 billion as of February 2017.[207] In 2016, _Forbes_ ranked "Rupert Murdoch & Family" as the 35th most powerful person in the world.[208] Later, in 2019, Rupert Murdoch & family were ranked 52nd in the Forbes' annual list of the world's billionaires.[209]
 
 In 2003 Murdoch bought "Rosehearty", an 11 bedroom home on a 5-acre waterfront estate in Centre Island, New York.[210]
 

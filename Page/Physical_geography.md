@@ -1,13 +1,13 @@
-Land_ocean_ice_cloud_1024.jpg image.]] PHYSICAL GEOGRAPHY (also known as GEOSYSTEMS or PHYSIOGRAPHY) is one of the two major sub-fields of geography.[1][2][3] Physical geography is the branch of natural science which deals with the study of processes and patterns in the natural environment like the atmosphere, hydrosphere, biosphere, and geosphere, as opposed to the cultural or built environment, the domain of human geography.
+image.]] PHYSICAL GEOGRAPHY (also known as GEOSYSTEMS or PHYSIOGRAPHY) is one of the two major sub-fields of geography.[1][2][3] Physical geography is the branch of natural science which deals with the study of processes and patterns in the natural environment like the atmosphere, hydrosphere, biosphere, and geosphere, as opposed to the cultural or built environment, the domain of human geography.
 
 
 Sub-branches
 
-Delicate_Arch_LaSalle.jpg.]] Physical Geography can be divided into several sub-fields, as follows:
+.]] Physical Geography can be divided into several sub-fields, as follows:
 
 -   GEOMORPHOLOGY is the field concerned with understanding the surface of the Earth and the processes by which it is shaped, both at the present as well as in the past. Geomorphology as a field has several sub-fields that deal with the specific landforms of various environments e.g. desert geomorphology and fluvial geomorphology; however, these sub-fields are united by the core processes which cause them, mainly tectonic or climatic processes. Geomorphology seeks to understand landform history and dynamics, and predict future changes through a combination of field observation, physical experiment, and numerical modeling (Geomorphometry). Early studies in geomorphology are the foundation for pedology, one of two main branches of soil science
 
-Meander-en.svg formation.]]
+formation.]]
 
 -   HYDROLOGY is predominantly concerned with the amounts and quality of water moving and accumulating on the land surface and in the soils and rocks near the surface and is typified by the hydrological cycle. Thus the field encompasses water in rivers, lakes, aquifers and to an extent glaciers, in which the field examines the process and dynamics involved in these bodies of water. Hydrology has historically had an important connection with engineering and has thus developed a largely quantitative method in its research; however, it does have an earth science side that embraces the systems approach. Similar to most fields of physical geography it has sub-fields that examine the specific bodies of water or their interaction with other spheres e.g. limnology and ecohydrology.
 -   GLACIOLOGY is the study of glaciers and ice sheets, or more commonly the cryosphere or ice and phenomena that involve ice. Glaciology groups the latter (ice sheets) as continental glaciers and the former (glaciers) as alpine glaciers. Although research in the areas are similar with research undertaken into both the dynamics of ice sheets and glaciers, the former tends to be concerned with the interaction of ice sheets with the present climate and the latter with the impact of glaciers on the landscape. Glaciology also has a vast array of sub-fields examining the factors and processes involved in ice sheets and glaciers e.g. snow hydrology and glacial geology.
@@ -46,7 +46,7 @@ Another major event in the late nineteenth and early twentieth centuries took pl
 
 Notable physical geographers
 
-Alexander_von_Humboldt-selfportrait.jpg, considered to be the founding father of physical geography.]]
+, considered to be the founding father of physical geography.]]
 
 -   Eratosthenes (276194 BC) who invented the discipline of geography.[4] He made the first known reliable estimation of the Earth's size.[5] He is considered the father of mathematical geography and geodesy.Avraham Ariel, Nora Ariel Berger (2006)."_Plotting the globe: stories of meridians, parallels, and the international_". Greenwood Publishing Group. p.12.
 

@@ -45,15 +45,15 @@ Louis went on two crusades, in his mid-30s in 1248 (Seventh Crusade), and then a
 
 Seventh Crusade
 
-Gustave_Doré,_le_départ_de_Louis_IX_pour_la_croisade.jpg representing the departure from Aigues-Mortes of King Louis IX for the Seventh Crusade (by Gustave Doré)]]
+representing the departure from Aigues-Mortes of King Louis IX for the Seventh Crusade (by Gustave Doré)]]
 
-Statue_of_Louis_IX,_Basilique_du_Sacré-Cœur_de_Montmartre,_Paris_2009.jpg]]
+]]
 
 In 1248 Louis decided that his obligations as a son of the Church outweighed those of his throne, and he left his kingdom for a disastrous six-year adventure. Since the base of Muslim power had shifted to Egypt, Louis did not even march on the Holy Land; any war against Islam now fit the definition of a Crusade.[10]
 
 Louis and his followers landed in Egypt on 5 June 1249 and began his first crusade with the rapid capture of the port of Damietta.[11][12] This attack caused some disruption in the Muslim Ayyubid empire, especially as the current sultan, Al-Malik as-Salih Najm al-Din Ayyub, was on his deathbed. However, the march from Damietta toward Cairo through the Nile River Delta went slowly. The rising of the Nile and the summer heat made it impossible for them to advance and follow up on their success.[13] During this time, the Ayyubid sultan died, and the sultan's wife Shajar al-Durr set in motion a sudden power shift that would make her Queen and eventually place the Egyptian army of the Mamluks in power. On 8 February 1250 Louis lost his army at the Battle of Al Mansurah and was captured by the Egyptians. His release was eventually negotiated in return for a ransom of 400,000 _livres tournois_ (at the time France's annual revenue was only about 1,250,000 _livres tournois_) and the surrender of the city of Damietta.[14]
 
-C_croisade7_prisonnier1.jpg, during the Seventh Crusade (Gustave Doré).]]
+, during the Seventh Crusade (Gustave Doré).]]
 
 Four years in Latin Kingdoms
 
@@ -65,7 +65,7 @@ Louis dispatched another envoy to the Mongol court, the Franciscan William of Ru
 
 Eighth Crusade
 
-Mort_de_Louis_IX_le_Saint.jpg, Grandes Chroniques de France (1455–1460)]]
+, Grandes Chroniques de France (1455–1460)]]
 
 In a parliament held at Paris, 24 March 1267, Louis and his three sons took the cross. On hearing the reports of the missionaries, Louis resolved to land at Tunis, and he ordered his younger brother, Charles of Anjou, to join him there. The crusaders, among whom was the English prince Edward Longshanks, landed at Carthage 17 July 1270, but disease broke out in the camp. Many died of dysentery, and on 25 August, Louis himself died.[20][21]
 
@@ -74,7 +74,7 @@ Patron of arts and arbiter of Europe
 
 Louis' patronage of the arts drove much innovation in Gothic art and architecture, and the style of his court radiated throughout Europe by both the purchase of art objects from Parisian masters for export, and by the marriage of the king's daughters and female relatives to foreign husbands and their subsequent introduction of Parisian models elsewhere. Louis' personal chapel, the _Sainte-Chapelle_ in Paris, was copied more than once by his descendants elsewhere. Louis most likely ordered the production of the Morgan Bible, a masterpiece of medieval painting.
 
-Louis-innocentiv.jpg with Louis IX at Cluny]]
+with Louis IX at Cluny]]
 
 During the so-called "golden century of Saint Louis", the kingdom of France was at its height in Europe, both politically and economically. Saint Louis was regarded as "primus inter pares", first among equals, among the kings and rulers of the continent. He commanded the largest army and ruled the largest and wealthiest kingdom, the European centre of arts and intellectual thought at the time. The foundations for the famous college of theology later known as the Sorbonne were laid in Paris about the year 1257.[22] The prestige and respect felt in Europe for King Louis IX were due more to the attraction that his personality created rather than to military domination. For his contemporaries, he was the quintessential example of the Christian prince and embodied the whole of Christendom in his person. His reputation for saintliness and fairness was already well established while he was alive, and on many occasions he was chosen as an arbiter in quarrels among the rulers of Europe.[23]
 
@@ -85,13 +85,13 @@ In 1258, Louis and James I of Aragon signed the Treaty of Corbeil, under which L
 
 Religious nature
 
-Louis_IX_Receives_Discipline.jpg]]
+]]
 
 The perception of Louis IX as the exemplary Christian prince was reinforced by his religious zeal. Louis was an extremely devout Catholic, and he built the _Sainte-Chapelle_ ("Holy Chapel"),[25] located within the royal palace complex (now the Paris Hall of Justice), on the _Île de la Cité_ in the centre of Paris. The _Sainte Chapelle_, a prime example of the Rayonnant style of Gothic architecture, was erected as a shrine for what Louis believed to be the Crown of Thorns and a fragment of the True Cross, supposed precious relics of the Passion of Christ. He acquired these in 1239–41 from Emperor Baldwin II of the Latin Empire of Constantinople by agreeing to pay off the imperial debt Baldwin owed to Niccolo Quirino, a wealthy Venetian merchant, a debt to which Baldwin had pledged the crown of thorns as collateral.[26] Louis IX paid the exorbitant sum of 135,000 livres (the construction of the chapel, for comparison, cost only 60,000 livres).
 
 Louis IX took very seriously his mission as "lieutenant of God on Earth", with which he had been invested when he was crowned in Reims. To fulfill this duty, he conducted two crusades. They contributed to his prestige, even though both ended disastrously. Everything he did was for what he saw as the glory of God and the good of his people. He protected the poor and was never heard to speak ill of anyone. He excelled in penance, leaving to us both a hair shirt and a scourge, and had a great love for the Church. He was merciful even to rebels. When he was urged to put to death a prince who had followed his father in rebellion, he refused, saying: "A son cannot refuse to obey his father."[27]
 
-SaintLouisTuniqueAndDiscipline.jpg and scourge of Louis IX. Treasury of Notre-Dame de Paris.]]
+and scourge of Louis IX. Treasury of Notre-Dame de Paris.]]
 
 In 1230 the King forbade all forms of usury, defined at the time as any taking of interest and therefore covering most banking activities. Where the original borrowers from Jewish and Lombard lenders could not be found, Louis exacted from those lenders a contribution towards the crusade which Pope Gregory was then trying to launch.[28] Louis also ordered, at the urging of Pope Gregory IX, the burning in Paris in 1243 of some 12,000 manuscript copies of the Talmud and other Jewish books. Eventually, the edict against the Talmud was overturned by Gregory IX's successor, Innocent IV.[29]
 
@@ -124,7 +124,7 @@ Louis had his two children that died in infancy buried at the Cistercian abbey o
 
 Death and legacy
 
-San_Domenico47.jpg of Saint Louis (end of the 13th century) Basilica of Saint Dominic, Bologna, Italy ]]
+of Saint Louis (end of the 13th century) Basilica of Saint Dominic, Bologna, Italy ]]
 
 During his second crusade, Louis died at Tunis on 25 August 1270, in an epidemic of dysentery that swept through his army.[41][42][43] Uncommon in Muslim burial practice, the territory where he died, his body was subject to the process known as _mos Teutonicus_ (a postmortem funerary custom used in medieval Europe whereby the flesh was boiled from the body, so that the bones of the deceased could be transported hygienically from distant lands back home) for its transportation back to France. He was succeeded by his son, Philip III.
 

@@ -1,4 +1,4 @@
-Midgard_(Sö_56,_Fyrby).jpg _á Miðgarði_, meaning "in Midgard" – "in Middle Earth", on the Fyrby Runestone (Sö 56) in Södermanland, Sweden.]]
+_á Miðgarði_, meaning "in Midgard" – "in Middle Earth", on the Fyrby Runestone (Sö 56) in Södermanland, Sweden.]]
 
 MIDGARD (an anglicised form of Old Norse ; Old English , Swedish and Danish _Midgård_, Old Saxon , Old High German , Gothic _Midjun-gards_; "middle yard") is the name for Earth (equivalent in meaning to the Greek term , "inhabited") inhabited by and known to humans in early Germanic cosmology, and specifically one of the Nine Worlds in Norse mythology.
 
@@ -16,7 +16,7 @@ Midgard is a realm in Norse mythology. It is one of the Nine Worlds and the only
 
 In Norse mythology, _Miðgarðr_ became applied to the wall around the world that the gods constructed from the eyebrows of the giant Ymir as a defense against the Jotuns who lived in Jotunheim, east of _Manheimr_, the "home of men", a word used to refer to the entire world. The gods slew the giant Ymir, the first created being, and put his body into the central void of the universe, creating the world out of his body: his flesh constituting the land, his blood the oceans, his bones the mountains, his teeth the cliffs, his hairs the trees, and his brains the clouds. Aurgelmir's skull was held by four dwarfs, Nordri, Sudri, Austri, and Vestri, who represent the four points on the compass and became the dome of heaven. The sun, moon, and stars were said to be scattered sparks in the skull.
 
-Sö_56,_Fyrby.jpg According to the Eddas, Midgard will be destroyed at Ragnarök, the battle at the end of the world. Jörmungandr will arise from the ocean, poisoning the land and sea with his venom and causing the sea to rear up and lash against the land. The final battle will take place on the plane of Vígríðr, following which Midgard and almost all life on it will be destroyed, with the earth sinking into the sea only to rise again, fertile and green when the cycle repeats and the creation begins again.
+According to the Eddas, Midgard will be destroyed at Ragnarök, the battle at the end of the world. Jörmungandr will arise from the ocean, poisoning the land and sea with his venom and causing the sea to rear up and lash against the land. The final battle will take place on the plane of Vígríðr, following which Midgard and almost all life on it will be destroyed, with the earth sinking into the sea only to rise again, fertile and green when the cycle repeats and the creation begins again.
 
 Although most surviving instances of the word Midgard refer to spiritual matters, it was also used in more mundane situations, as in the Viking Age runestone poem from the inscription Sö 56 from Fyrby:
 

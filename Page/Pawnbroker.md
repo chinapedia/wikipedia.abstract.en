@@ -1,6 +1,6 @@
-Leihhaus_20140220.jpg A PAWNBROKER is an individual or business (PAWNSHOP or PAWN SHOP) that offers secured loans to people, with items of personal property used as collateral. The items having been _pawned_ to the broker are themselves called _pledges_ or _pawns_, or simply the collateral. While many items can be pawned, pawnshops typically accept jewelry, musical instruments, home audio equipment, computers, video game systems, coins, gold, silver, televisions, cameras, power tools, firearms, and other relatively valuable items as collateral.
+A PAWNBROKER is an individual or business (PAWNSHOP or PAWN SHOP) that offers secured loans to people, with items of personal property used as collateral. The items having been _pawned_ to the broker are themselves called _pledges_ or _pawns_, or simply the collateral. While many items can be pawned, pawnshops typically accept jewelry, musical instruments, home audio equipment, computers, video game systems, coins, gold, silver, televisions, cameras, power tools, firearms, and other relatively valuable items as collateral.
 
-Pawnbroker's_sign,_Camden_High_Street,_London.JPG shop displays the traditional pawnbroker's sign.]]
+shop displays the traditional pawnbroker's sign.]]
 
 If an item is pawned for a loan (colloquially "hocked" or "popped"[1]), within a certain contractual period of time the pawner may redeem it for the amount of the loan plus some agreed-upon amount for interest. The amount of time, and rate of interest, is governed by law and by the pawnbroker's policies. If the loan is not paid (or extended, if applicable) within the time period, the pawned item will be offered for sale to other customers by the pawnbroker. Unlike other lenders, the pawnbroker does not report the defaulted loan on the customer's credit report, since the pawnbroker has physical possession of the item and may recoup the loan value through outright sale of the item. The pawnbroker also sells items that have been sold outright to them by customers. Some pawnshops are willing to trade items in their shop for items brought to them by customers.
 
@@ -9,9 +9,7 @@ History
 
 In the west, pawnbroking existed in the Ancient Greek and Roman Empires. Most contemporary Western law on the subject is derived from the Roman jurisprudence. As the empire spread its culture, pawnbroking went with it. Likewise, in the East, the business model existed in China 1500 years ago in Buddhist monasteries no different from today, through the ages strictly regulated by Imperial or other authorities.
 
-Pawnshop_with_sign_in_usa.jpg
-
-In spite of early Roman Catholic Church prohibitions against charging interest on loans, there is some evidence that the Franciscans were permitted to begin the practice as an aid to the poor. [2] Pawn brokerage arrived in England with William the Conqueror. In 1338, Edward III pawned his jewels to raise money for his war with France. King Henry V did much the same in 1415. The Lombards were not a popular class, and Henry VII harried them a good deal. In 1603 an _Act against Brokers_ was passed and remained on the statute-book until 1872. It was aimed at the many counterfeit brokers in London. This type of broker was evidently regarded as a fence. Provident_Loan_Society_Essex_Houston_jeh.jpg of New York, a charitable pawnbroker]]
+In spite of early Roman Catholic Church prohibitions against charging interest on loans, there is some evidence that the Franciscans were permitted to begin the practice as an aid to the poor. [2] Pawn brokerage arrived in England with William the Conqueror. In 1338, Edward III pawned his jewels to raise money for his war with France. King Henry V did much the same in 1415. The Lombards were not a popular class, and Henry VII harried them a good deal. In 1603 an _Act against Brokers_ was passed and remained on the statute-book until 1872. It was aimed at the many counterfeit brokers in London. This type of broker was evidently regarded as a fence. of New York, a charitable pawnbroker]]
 
 Crusaders, predominantly in France, brokered their land holdings to monasteries and diocese for funds to supply, outfit, and transport their armies to the Holy Land. Instead of outright repayment the Church reaped a certain amount of crop returns for a certain amount of seasons, which could additionally be re-exchanged in a type of equity.
 
@@ -42,7 +40,7 @@ The saleability of the item and the amount that the customer wants for it are al
 
 In some countries e.g. Sweden there is legislation to prevent the pawn broker from making unfair profits (usury due to financial distress or ignorance of the customer) at the expense of the customer by low evaluation on their collaterals. It is stated that the pawn broker may not keep the collateral but must sell them at public auction. Any excess after paying the loan, the interest and auction costs must be paid to the customer. If the item does not fetch a price that will cover these expenses the pawn broker may keep the item and sell it through other channels. Despite this protection, the cost for the customer to borrow money this way will be high, and if he cannot redeem the collateral it would in many cases be better to sell the goods directly.
 
-Pawn_Shop_at_Sherman_Way_&_Reseda_Blvd.,_Reseda,_CA.JPG]]
+]]
 
 Inventory management
 
@@ -75,7 +73,7 @@ In the US, there are over 11,000 pawnbrokers and an industry revenue of $14.5 bi
 
 Symbol
 
-Pawnbroker-traditional-symbol.svg Pawnbroker's_sign,_Queen_Street_Edinburgh.jpg Scotland]]
+Scotland]]
 
 The pawnbrokers' symbol is three spheres suspended from a bar. The three sphere symbol is attributed to the Medici family of Florence, Italy, owing to its symbolic meaning of Lombard. This refers to the Italian region of Lombardy, where pawn shop banking originated under the name of Lombard banking. The three golden spheres were originally a symbol medieval Lombard merchants hung in front of their houses, and not the arms of the Medici family. It has been conjectured that the golden spheres were originally three flat yellow effigies of bezants, or gold coins, laid heraldically upon a sable field, but that they were converted into spheres to better attract attention.
 
@@ -86,7 +84,7 @@ Saint Nicholas is the patron saint of pawnbrokers. The symbol has also been attr
 
 In Asia
 
-Bonuspawnshop.JPG, Malaysia]] Hk_wan_chai_tram_ways_1.jpg Hong_Kong_Pawn_Shop_Logo.jpg holding a coin.]]
+, Malaysia]] holding a coin.]]
 
 In Hong Kong the practice follows the Chinese tradition, and the counter of the shop is typically higher than the average person for security. A customer can only hold up his hand to offer belongings and there is a wooden screen between the door and the counter for customers' privacy. The symbol of a pawn shop in Hong Kong is a bat holding a coin (, Cantonese: _fūk syú diu gām chín_). The bat signifies fortune and the coin signifies benefits. In Japan, the usual symbol for a pawn shop is a circled number seven (7) because "shichi", the Japanese word for seven, sounds similar to the word for "pawn" ().
 

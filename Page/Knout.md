@@ -1,15 +1,11 @@
-Jean-Baptiste_Le_Prince,_Supplice_du_knout_ordinaire_(1766).png
-
 A KNOUT is a heavy scourge-like multiple whip, usually made of a bunch of rawhide thongs attached to a long handle, sometimes with metal wire or hooks incorporated. The English word stems from a spelling-pronunciation of a French transliteration of the Russian word кнут (_knut_), which simply means "whip".
 
 
 The original
 
-Наказание_кнутом.jpg Some claim it was a Tatar invention and was introduced into Russia in the 15th century, perhaps by Grand Duke Ivan III the Great (1462–1505). Others trace the word to Varangians and derive it from the Swedish _knutpiska_, a kind of whip with _knots_. Still others maintain it is of generic Germanic origin, not necessarily Scandinavian, comparing it with the German _Knute_, Dutch _knoet_ (both meaning knout) and with Old Norse _knutr_, Anglo-Saxon _cnotta_ and English _knot_.
+Some claim it was a Tatar invention and was introduced into Russia in the 15th century, perhaps by Grand Duke Ivan III the Great (1462–1505). Others trace the word to Varangians and derive it from the Swedish _knutpiska_, a kind of whip with _knots_. Still others maintain it is of generic Germanic origin, not necessarily Scandinavian, comparing it with the German _Knute_, Dutch _knoet_ (both meaning knout) and with Old Norse _knutr_, Anglo-Saxon _cnotta_ and English _knot_.
 
 The Russian knout had different forms. One was a lash of rawhide, long, attached to a wooden handle, long. The lash ended in a metal ring, to which was attached a second lash as long, ending also in a ring, to which in turn was attached a few inches of hard leather ending in a beak-like hook. Another kind consisted of many thongs of skin plaited and interwoven with wire, ending in loose wired ends, like the cat-o-nine tails.
-
-Jean-Baptiste_Le_Prince,_Supplice_du_grand_knout_(c._1765).png
 
 A variation, known as the _great knout_, consisted of a handle about long, to which was fastened a flat leather thong about twice the length of the handle, terminating with a large copper or brass ring to which was affixed a strip of hide about broad at the ring, and terminating at the end of in a point. This was soaked in milk and dried in the sun to make it harder.
 

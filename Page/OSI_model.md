@@ -4,8 +4,6 @@ A layer serves the layer above it and is served by the layer below it. For examp
 
 The model is a product of the Open Systems Interconnection project at the International Organization for Standardization (ISO).
 
-OSI-model-Communication.svg
-
 
 History
 

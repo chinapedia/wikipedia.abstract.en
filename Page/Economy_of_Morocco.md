@@ -57,8 +57,6 @@ The ambitious five-year plan for 1981–85, estimated to cost more than $18 bill
 
 1990–2000s
 
-MoroccoGDPgrowth1990-2005.jpg
-
 Moroccan economic policies brought macroeconomic stability to the country in the early 1990s but did not spur growth sufficient to reduce unemployment despite Moroccan Government's ongoing efforts to diversify the economy.[11] Drought conditions depressed activity in the key agricultural sector, and contributed to an economic slowdown in 1999. Favourable rainfalls have led Morocco to a growth of 6% for 2000. Formidable long-term challenges included: servicing the external debt; preparing the economy for freer trade with the EU; and improving education and attracting foreign investment to improve living standards and job prospects for Morocco's youthful population.
 
 Macroeconomic stability coupled with relatively slow economic growth characterized the Moroccan economy over the period 2000–2005. The government introduced a number of important economic reforms in that period. The economy, however, remained overly dependent on the agricultural sector. Morocco's primary economic challenge was to accelerate growth in order to reduce high levels of unemployment. The government continued liberalizing the telecommunications sector in 2002, as well as the rules for oil and gas exploration. This process started with the sale of a second GSM license in 1999. The government in 2003 was using revenue from privatizations to finance increased spending. Although Morocco's economy grew in the early 2000s, it was not enough to significantly reduce poverty.[12]
@@ -72,21 +70,20 @@ The government introduced a series of structural reforms in recent years. The mo
 
 Recent developments
 
-    Macroeconomic indicators
-  -----------------------------
-   Coat_of_arms_of_Morocco.svg
-            GDP (PPP)
-           GDP growth
-       GDP per capita PPP
-       GNI(PPP) per capita
-         Inflation (CPI)
-           Gini index
-          Unemployment
-               HDI
-           Labor force
-         Pop. in poverty
+   Macroeconomic indicators
+  --------------------------
+          GDP (PPP)
+          GDP growth
+      GDP per capita PPP
+     GNI(PPP) per capita
+       Inflation (CPI)
+          Gini index
+         Unemployment
+             HDI
+         Labor force
+       Pop. in poverty
 
-Morocco_50_dirhams.jpg Morocco's sound economic management in recent years has yielded strong growth and investment grade status and it is weathering the negative impacts of the global crisis impressively well. Morocco is now addressing persistent social problems by reducing absolute poverty rates, investing in human capital through quality education, expanding access to drinking water, and linking rural areas to markets through investment in roads.
+ Morocco's sound economic management in recent years has yielded strong growth and investment grade status and it is weathering the negative impacts of the global crisis impressively well. Morocco is now addressing persistent social problems by reducing absolute poverty rates, investing in human capital through quality education, expanding access to drinking water, and linking rural areas to markets through investment in roads.
 
 Morocco faces challenges on human development outcomes despite progress over the past decade, in particular. Overall illiteracy rates and gender disparity in access to secondary education remain high and the country continues to suffer poor outcomes on infant and maternal mortality. It also needs to diversify its economy, become more competitive, and integrate further into the global economy if it is to reach higher growth levels.
 
@@ -180,7 +177,7 @@ The fishing industry in Morocco is a leading foreign exchange earner, accounting
 
 Industry
 
-Morocco_GDP_Sector.jpg The Moroccan industrial sector looks set to continue the strong growth it has enjoyed in recent years. Industrial activity recorded a 5.5% increase in 2007, a slight rise over 2006, when the sector grew by 4.7%. Added value in the sector increased by 5.6% in 2007. Overall the contribution of industrial activity to GDP fluctuates between about 25% and 35% every year, depending on the performance of the agriculture sector. The industrial sector accounted for about 21.1% of employment in 2007 and the sector is a key component of the government's effort to curb unemployment. The sector also attracts high levels of FDI and authorities have announced initiatives to improve the investment climate, with particular attention to off-shoring activities, automotive, aeronautics, electronics, food processing activities, products from the sea and textiles. Other important industrial sectors include mining, chemicals, construction materials and pharmaceuticals. The future of Morocco's industrial segment looks bright, particularly as new initiatives make it more globally competitive in a variety of sectors.[35]
+The Moroccan industrial sector looks set to continue the strong growth it has enjoyed in recent years. Industrial activity recorded a 5.5% increase in 2007, a slight rise over 2006, when the sector grew by 4.7%. Added value in the sector increased by 5.6% in 2007. Overall the contribution of industrial activity to GDP fluctuates between about 25% and 35% every year, depending on the performance of the agriculture sector. The industrial sector accounted for about 21.1% of employment in 2007 and the sector is a key component of the government's effort to curb unemployment. The sector also attracts high levels of FDI and authorities have announced initiatives to improve the investment climate, with particular attention to off-shoring activities, automotive, aeronautics, electronics, food processing activities, products from the sea and textiles. Other important industrial sectors include mining, chemicals, construction materials and pharmaceuticals. The future of Morocco's industrial segment looks bright, particularly as new initiatives make it more globally competitive in a variety of sectors.[35]
 
 Manufacturing
 
@@ -217,7 +214,7 @@ During that time the Moroccan government committed significant resources — by 
 
 Tourism
 
-Tangier_5184a.jpg suburb.]] Morocco is a major touristic destination. Tourism is thus a major contributor to both the economic output and the current account balance, as well as a main job provider. In 2008 8 million tourists have visited the kingdom. Tourist receipts in 2007 totalled US$7,55 billion. Morocco has developed an ambitious strategy, dubbed "Vision 2010", aimed at attracting 10 million tourists by 2010. This strategy provides for creating 160,000 beds, thus bringing the national capacity to 230,000 beds. It also aims to create some 600,000 new jobs.
+suburb.]] Morocco is a major touristic destination. Tourism is thus a major contributor to both the economic output and the current account balance, as well as a main job provider. In 2008 8 million tourists have visited the kingdom. Tourist receipts in 2007 totalled US$7,55 billion. Morocco has developed an ambitious strategy, dubbed "Vision 2010", aimed at attracting 10 million tourists by 2010. This strategy provides for creating 160,000 beds, thus bringing the national capacity to 230,000 beds. It also aims to create some 600,000 new jobs.
 
 Marrakech continues to be the market leader, but the case of Fez, showing a 20% increase of visitors in 2004, gives hope that better organisation can bring results in diversifying the sector as a whole. Like other regions, Fez has its Centre Regional du Tourisme (CRT), a local tourism body which coordinates the local industry and the authorities. Fez's plan involves a substantial restructuring of the old city and an upgrading of hotel capacity. Improved transport has brought the city into more direct contact with potential visitors. There are now direct flights from France, where previously it was necessary to change plane in Casablanca.[37]
 
@@ -241,7 +238,7 @@ In 2009 Morocco was ranked among the top thirty countries[40][41][42][43] in the
 
 Finance
 
-Bank_in_marocco.jpg]] In 2007 the economic environment remained conducive to further growth of banking activity in Morocco following a very good year for the sector in 2006. In 2007 macroeconomic growth, excluding the agricultural sector, remained quite robust, providing the background for dynamic growth in banking credits. Total assets of the banking sector increased by 21.6% to MAD 654.7 billion ($85.1 billion), which is above the previous year's high annual growth rate of 18.1%. The structure of the domestic sector has remained steady in the past two years, with the landscape dominated by three major local banks. The state has started to remove itself from the domestic sector by surrendering part of its share capital in public banks. At end-2007 public capital still held controlling stakes in five banks and four financing companies. Meanwhile, foreign ownership in the local financial sector continues to grow, with foreign institutions controlling five banks and eight financing companies as well as holding significant stakes in four banks and three financing companies.
+]] In 2007 the economic environment remained conducive to further growth of banking activity in Morocco following a very good year for the sector in 2006. In 2007 macroeconomic growth, excluding the agricultural sector, remained quite robust, providing the background for dynamic growth in banking credits. Total assets of the banking sector increased by 21.6% to MAD 654.7 billion ($85.1 billion), which is above the previous year's high annual growth rate of 18.1%. The structure of the domestic sector has remained steady in the past two years, with the landscape dominated by three major local banks. The state has started to remove itself from the domestic sector by surrendering part of its share capital in public banks. At end-2007 public capital still held controlling stakes in five banks and four financing companies. Meanwhile, foreign ownership in the local financial sector continues to grow, with foreign institutions controlling five banks and eight financing companies as well as holding significant stakes in four banks and three financing companies.
 
 The financial system, though robust, has to take on excessive quantities of low risk-low return government debt at the expense of riskier, but more productive private sector lending. This crowding–out of private sector investment reduces the profitability and growth incentives of the financial sector.
 
@@ -310,7 +307,7 @@ Tax revenues provide the largest part of the general budget. Taxes are levied on
 
 External trade
 
-Morocco_treemap.png Exports_of_Morocco_2006.png In recent years, Morocco has reduced its dependence on phosphate exports, emerging as an exporter of manufactured and agricultural products, and as a growing tourism destination. However, its competitiveness in basic manufactured goods, such as textiles, is hampered by low labour productivity and high wages. Morocco is dependent on imported fuel and its food import requirement can rise substantially in drought years, as in 2007. Although Morocco runs a structural trade deficit, this is typically offset by substantial services earnings from tourism and large remittance inflows from the diaspora, and the country normally runs a small current-account surplus.[61]
+In recent years, Morocco has reduced its dependence on phosphate exports, emerging as an exporter of manufactured and agricultural products, and as a growing tourism destination. However, its competitiveness in basic manufactured goods, such as textiles, is hampered by low labour productivity and high wages. Morocco is dependent on imported fuel and its food import requirement can rise substantially in drought years, as in 2007. Although Morocco runs a structural trade deficit, this is typically offset by substantial services earnings from tourism and large remittance inflows from the diaspora, and the country normally runs a small current-account surplus.[61]
 
 Morocco signed in 1996 an agreement of association with the European Union which came into effect in 2000. This agreement, which lies within the scope of the Barcelona Process (euro-Mediterranean partnership) started in 1995 and envisages the progressive implementation of a free trade area planned for 2012.
 
@@ -327,7 +324,7 @@ Morocco was granted an "advanced status" from the EU in 2008,[63] shoring up bil
 
 Investment
 
-MoroccoRemittances.jpg showing an increase in remittances sent by overseas Moroccans.]] Morocco has become an attractive destination for European investors thanks to its relocation sites "Casashore" and "Rabatshore", and to the very rapid cost escalation in Eastern Europe.[64] The offshoring sector in Morocco is of great importance as it creates high-level jobs that are generally accompanied by an influx of Moroccan immigrants. Noting however that human resources remain the major concern for companies seeking to gain a foothold in Morocco. In this regard, it has been deemed an important decision of the Moroccan government to accelerate training in the required disciplines.
+showing an increase in remittances sent by overseas Moroccans.]] Morocco has become an attractive destination for European investors thanks to its relocation sites "Casashore" and "Rabatshore", and to the very rapid cost escalation in Eastern Europe.[64] The offshoring sector in Morocco is of great importance as it creates high-level jobs that are generally accompanied by an influx of Moroccan immigrants. Noting however that human resources remain the major concern for companies seeking to gain a foothold in Morocco. In this regard, it has been deemed an important decision of the Moroccan government to accelerate training in the required disciplines.
 
 In a bid to promote foreign investments, Morocco in 2007 adopted a series of measures and legal provisions to simplify procedures and secure appropriate conditions for projects launching and completing. Foreign trade minister, Abdellatif Maazouz cited that these measures include financial incentives and tax exemptions provided for in the investment code and the regional investment centres established to accompany projects.[65] These measures combined with actions carried out by the Hassan II Fund for Development increased foreign investments in Morocco by $544.7 million in 2007. 20% of these investments came from Islamic countries.
 

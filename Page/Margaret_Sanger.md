@@ -13,8 +13,6 @@ Life
 
 Early life
 
-SangerAndSons.tiff
-
 Sanger was born Margaret Louise Higgins in 1879 in Corning, New York,[11] to a "free-thinking" Irish born stonemason father, Michael Hennessey Higgins, and a Catholic Irish-American mother, Anne Purcell Higgins. Michael had immigrated to the United States aged 14, joining the Army in the Civil War as a drummer aged 15. Upon leaving the army, he studied medicine and phrenology but ultimately became a stonecutter, chiseling-out angels, saints, and tombstones.[12] Michael, also Catholic, became an atheist and an activist for women's suffrage and free public education.[13]
 
 Anne, born in Ireland, accompanied her family to Canada during the Potato Famine. She married Michael in 1869.[14] In 22 years, Anne Higgins conceived 18 times, birthing 11 alive before dying aged 49. Sanger was the sixth of 11 surviving children,[15] spending her tender years submitted to the sharing of household chores and care of family members.
@@ -45,7 +43,7 @@ Early in 1915, Margaret Sanger's estranged husband, William Sanger, gave a copy 
 
 Birth control movement
 
-1917_Edition_of_Family_Limitations.jpg]]
+]]
 
 Some countries in northwestern Europe had more liberal policies towards contraception than the United States at the time, and when Sanger visited a Dutch birth control clinic in 1915, she learned about diaphragms and became convinced that they were a more effective means of contraception than the suppositories and douches that she had been distributing back in the United States. Diaphragms were generally unavailable in the United States, so Sanger and others began importing them from Europe, in defiance of United States law.[54]
 
@@ -54,8 +52,6 @@ On October 16, 1916, Sanger opened a family planning and birth control clinic at
 In February 1917, Sanger began publishing the monthly periodical _Birth Control Review_.[65]
 
 American Birth Control League
-
-Birth_Control_Review_1919.jpg
 
 After World War I, Sanger shifted away from radical politics, and she founded the American Birth Control League (ABCL) in 1921 to enlarge her base of supporters to include the middle class.[66] The founding principles of the ABCL were as follows:[67]
 
@@ -73,7 +69,7 @@ During the 1920s, Sanger received hundreds of thousands of letters, many of them
 
 Work with the African-American community
 
-WEB_DuBois_1918.jpg served on the board of Sanger's Harlem clinic[85]]]
+served on the board of Sanger's Harlem clinic[85]]]
 
 Sanger worked with African American leaders and professionals who saw a need for birth control in their communities. In 1929, James H. Hubert, a black social worker and the leader of New York's Urban League, asked Sanger to open a clinic in Harlem.[86] Sanger secured funding from the Julius Rosenwald Fund and opened the clinic, staffed with black doctors, in 1930. The clinic was directed by a 15-member advisory board consisting of black doctors, nurses, clergy, journalists, and social workers. The clinic was publicized in the African-American press as well as in black churches, and it received the approval of W. E. B. Du Bois, the co-founder of the NAACP and the editor of its magazine, '' The Crisis.''[87][88][89]Hajo, p. 85.
 From Planned Parenthood: :
@@ -90,7 +86,7 @@ New York University's _Margaret Sanger Papers Project_ says that though the lett
 
 Planned Parenthood era
 
-17-23_West_16th_St.jpg from 1930 to 1973]]
+from 1930 to 1973]]
 
 In 1929, Sanger formed the National Committee on Federal Legislation for Birth Control in order to lobby for legislation to overturn restrictions on contraception.[97] That effort failed to achieve success, so Sanger ordered a diaphragm from Japan in 1932, in order to provoke a decisive battle in the courts. The diaphragm was confiscated by the United States government, and Sanger's subsequent legal challenge led to a 1936 court decision which overturned an important provision of the Comstock laws which prohibited physicians from obtaining contraceptives.[98] This court victory motivated the American Medical Association in 1937 to adopt contraception as a normal medical service and a key component of medical school curriculums.[99]
 
@@ -121,8 +117,6 @@ Over the course of her career, Sanger was arrested at least eight times for expr
 
 Eugenics
 
-Woman_And_The_New_Race.png
-
 After World War I, Sanger increasingly appealed to the societal need to limit births by those least able to afford children. The affluent and educated already limited their child-bearing, while the poor and uneducated lacked access to contraception and information about birth control.[130] Here she found an area of overlap with eugenicists.[131] She believed that they both sought to "assist the race toward the elimination of the unfit." They differed in that "eugenists imply or insist that a woman's first duty is to the state; we contend that her duty to herself is her duty to the state."[132] Sanger was a proponent of negative eugenics, which aimed to improve human hereditary traits through social intervention by reducing the reproduction of those who were considered unfit.[133]
 
 Sanger's view of eugenics was influenced by Havelock Ellis and other British eugenicists, who held that environmentally acquired traits were inherited by one's progeny.[134] She did not speak specifically to the idea of race or ethnicity being determining factors and "although Sanger articulated birth control in terms of racial betterment and, like most old-stock Americans, supported restricted immigration, she always defined fitness in individual rather than racial terms."[135][136] Instead, she stressed limiting the number of births to live within one's economic ability to raise and support healthy children. This would lead to a betterment of society and the human race.[137] Sanger's view put her at odds with leading American eugenicists, such as Charles Davenport, who took a racist view of inherited traits. In _A History of the Birth Control Movement in America_, Engelman also noted that "Sanger quite effortlessly looked the other way when others spouted racist speech. She had no reservations about relying on flawed and overtly racist work to serve her own propaganda needs."[138]
@@ -142,7 +136,7 @@ While Margaret Sanger condemned abortion as a method of family limitation, she w
 
 Legacy
 
-Margaret-Sanger-Square_NYC.jpg and Bleecker Street in Manhattan]]
+and Bleecker Street in Manhattan]]
 
 Sanger's writings are curated by two universities: New York University's history department maintains the _Margaret Sanger Papers Project_,[158] and Smith College's Sophia Smith Collection maintains the _Margaret Sanger Papers_ collection.[159]
 

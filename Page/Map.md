@@ -1,4 +1,4 @@
-World_Map_1689.JPG, Amsterdam, 1689]] Map_of_the_world_by_the_US_Gov_as_of_2016.svg'']]
+, Amsterdam, 1689]] '']]
 
 A MAP is a symbolic depiction emphasizing relationships between elements of some space, such as objects, regions, or themes.
 
@@ -12,7 +12,7 @@ History
 
 Geographic maps
 
-Planisphæri_cœleste.jpg]]
+]]
 
 Cartography or _map-making_ is the study and practice of crafting representations of the Earth upon a flat surface (see History of cartography), and one who makes maps is called a cartographer.
 
@@ -23,7 +23,7 @@ In addition to location information, maps may also be used to portray contour li
 
 Orientation of maps
 
-Hereford_Mappa_Mundi_1300.jpg'' from about 1300, Hereford Cathedral, England, is a classic "T-O" map with Jerusalem at centre, east toward the top, Europe the bottom left and Africa on the right.]] The orientation of a map is the relationship between the directions on the map and the corresponding compass directions in reality. The word "orient" is derived from Latin , meaning east. In the Middle Ages many maps, including the T and O maps, were drawn with east at the top (meaning that the direction "up" on the map corresponds to East on the compass). The most common cartographic convention is that north is at the top of a map.
+'' from about 1300, Hereford Cathedral, England, is a classic "T-O" map with Jerusalem at centre, east toward the top, Europe the bottom left and Africa on the right.]] The orientation of a map is the relationship between the directions on the map and the corresponding compass directions in reality. The word "orient" is derived from Latin , meaning east. In the Middle Ages many maps, including the T and O maps, were drawn with east at the top (meaning that the direction "up" on the map corresponds to East on the compass). The most common cartographic convention is that north is at the top of a map.
 
 Maps not oriented with north at the top:
 
@@ -40,7 +40,7 @@ Scale and accuracy
 
 Many maps are drawn to a scale expressed as a ratio, such as 1:10,000, which means that 1 unit of measurement on the map corresponds to 10,000 of that same unit on the ground. The scale statement can be accurate when the region mapped is small enough for the curvature of the Earth to be neglected, such as a city map. Mapping larger regions, where curvature cannot be ignored, requires projections to map from the curved surface of the Earth to the plane. The impossibility of flattening the sphere to the plane without distortion means that the map cannot have constant scale. Rather, on most projections the best that can be attained is accurate scale along one or two paths on the projection. Because scale differs everywhere, it can only be measured meaningfully as point scale per location. Most maps strive to keep point scale variation within narrow bounds. Although the scale statement is nominal it is usually accurate enough for most purposes unless the map covers a large fraction of the earth. At the scope of a world map, scale as a single number is practically meaningless throughout most of the map. Instead, it usually refers to the scale along the equator.
 
-EU_Pop2008_1024.PNG distorted to show population distributions as of 2008.]] Some maps, called cartograms, have the scale deliberately distorted to reflect information other than land area or distance. For example, this map (at the right) of Europe has been distorted to show population distribution, while the rough shape of the continent is still discernible.
+distorted to show population distributions as of 2008.]] Some maps, called cartograms, have the scale deliberately distorted to reflect information other than land area or distance. For example, this map (at the right) of Europe has been distorted to show population distribution, while the rough shape of the continent is still discernible.
 
 Another example of distorted scale is the famous London Underground map. The basic geographical structure is respected but the tube lines (and the River Thames) are smoothed to clarify the relationships between stations. Near the center of the map stations are spaced out more than near the edges of map.
 
@@ -65,13 +65,11 @@ To communicate spatial information effectively, features such as rivers, lakes, 
 
 Map types
 
-Ocean_gravity_map.gif)]] Maps of the world or large areas are often either 'political' or 'physical'. The most important purpose of the political map is to show territorial borders; the purpose of the physical is to show features of geography such as mountains, soil type or land use including infrastructure such as roads, railroads and buildings. Topographic maps show elevations and relief with contour lines or shading. Geological maps show not only the physical surface, but characteristics of the underlying rock, fault lines, and subsurface structures.
+)]] Maps of the world or large areas are often either 'political' or 'physical'. The most important purpose of the political map is to show territorial borders; the purpose of the physical is to show features of geography such as mountains, soil type or land use including infrastructure such as roads, railroads and buildings. Topographic maps show elevations and relief with contour lines or shading. Geological maps show not only the physical surface, but characteristics of the underlying rock, fault lines, and subsurface structures.
 
 Electronic maps
 
-Topographic_map_example.png digital raster graphic.]] From the last quarter of the 20th century, the indispensable tool of the cartographer has been the computer. Much of cartography, especially at the data-gathering survey level, has been subsumed by Geographic Information Systems (GIS). The functionality of maps has been greatly advanced by technology simplifying the superimposition of spatially located variables onto existing geographical maps. Having local information such as rainfall level, distribution of wildlife, or demographic data integrated within the map allows more efficient analysis and better decision making. In the pre-electronic age such superimposition of data led Dr. John Snow to identify the location of an outbreak of cholera. Today, it is used by agencies of the human kind, as diverse as wildlife conservationists and militaries around the world.
-
-Maps-for-free_Sierra_Nevada.png
+digital raster graphic.]] From the last quarter of the 20th century, the indispensable tool of the cartographer has been the computer. Much of cartography, especially at the data-gathering survey level, has been subsumed by Geographic Information Systems (GIS). The functionality of maps has been greatly advanced by technology simplifying the superimposition of spatially located variables onto existing geographical maps. Having local information such as rainfall level, distribution of wildlife, or demographic data integrated within the map allows more efficient analysis and better decision making. In the pre-electronic age such superimposition of data led Dr. John Snow to identify the location of an outbreak of cholera. Today, it is used by agencies of the human kind, as diverse as wildlife conservationists and militaries around the world.
 
 Even when GIS is not involved, most cartographers now use a variety of computer graphics programs to generate new maps.
 
@@ -80,8 +78,6 @@ Interactive, computerised maps are commercially available, allowing users to _zo
 1.  replacing the map by a more detailed one
 2.  enlarging the same map without enlarging the pixels, hence showing more detail by removing less information compared to the less detailed version
 3.  enlarging the same map with the pixels enlarged (replaced by rectangles of pixels); no additional detail is shown, but, depending on the quality of one's vision, possibly more detail can be seen; if a computer display does not show adjacent pixels really separate, but overlapping instead (this does not apply for an LCD, but may apply for a cathode ray tube), then replacing a pixel by a rectangle of pixels does show more detail. A variation of this method is interpolation.
-
-World.pdf
 
 For example:
 
@@ -110,7 +106,7 @@ Maps exist of the Solar System, and other cosmological features such as star map
 
 Topological maps
 
-Inventory_Locations_Represented_as_a_Map.png, like this one showing inventory locations, the distances between locations is not important. Only the layout and connectivity between them matters.]] Diagrams such as schematic diagrams and Gantt charts and treemaps display logical relationships between items, rather than geographical relationships. Topological in nature, only the connectivity is significant. The London Underground map and similar subway maps around the world are a common example of these maps.
+, like this one showing inventory locations, the distances between locations is not important. Only the layout and connectivity between them matters.]] Diagrams such as schematic diagrams and Gantt charts and treemaps display logical relationships between items, rather than geographical relationships. Topological in nature, only the connectivity is significant. The London Underground map and similar subway maps around the world are a common example of these maps.
 
 General-purpose maps
 

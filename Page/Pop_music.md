@@ -9,7 +9,7 @@ David Hatch and Stephen Millward define pop music as "a body of music which is d
 
 Pop music continuously evolves along with the term's definition. According to music writer Bill Lamb, popular music is defined as "the music since industrialization in the 1800s that is most in line with the tastes and interests of the urban middle class."[6] The term "pop song" was first used in 1926, in the sense of a piece of music "having popular appeal".[7] Hatch and Millward indicate that many events in the history of recording in the 1920s can be seen as the birth of the modern pop music industry, including in country, blues, and hillbilly music.[8]
 
-_Rolling_stones_-_11_luglio_2006_-_san_siro.jpg (pictured here in a 2006 performance)]]
+(pictured here in a 2006 performance)]]
 
 According to the website of _The New Grove Dictionary of Music and Musicians_, the term "pop music" "originated in Britain in the mid-1950s as a description for rock and roll and the new youth music styles that it influenced".[9] _The Oxford Dictionary of Music_ states that while pop's "earlier meaning meant concerts appealing to a wide audience [...] since the late 1950s, however, pop has had the special meaning of non-classical mus[ic], usually in the form of songs, performed by such artists as the Beatles, the Rolling Stones, ABBA, etc."[10] _Grove Music Online_ also states that "[...] in the early 1960s, [the term] 'pop music' competed terminologically with beat music [in England], while in the US its coverage overlapped (as it still does) with that of 'rock and roll'".[11]
 
@@ -31,7 +31,7 @@ Technology and media
 
 In the 1940s improved microphone design allowed a more intimate singing style and ten or twenty years later, inexpensive and more durable 45 rpm records for singles "revolutionized the manner in which pop has been disseminated", which helped to move pop music to "a record/radio/film star system".[25] Another technological change was the widespread availability of television in the 1950s; with televised performances, "pop stars had to have a visual presence".[26] In the 1960s, the introduction of inexpensive, portable transistor radios meant that teenagers in the developed world could listen to music outside of the home.[27] By the early 1980s, the promotion of pop music had been greatly affected by the rise of music television channels like MTV, which "favoured those artists such as Michael Jackson and Madonna who had a strong visual appeal".[28]
 
-The_Beatles_in_America.JPG marked a period when the US charts were inundated with British acts such as the Beatles (pictured 1964).]]
+marked a period when the US charts were inundated with British acts such as the Beatles (pictured 1964).]]
 
 Multi-track recording (from the 1960s); and digital sampling (from the 1980s) have also been utilized as methods for the creation and elaboration of pop music.[29] During the mid-1960s, pop music made repeated forays into new sounds, styles, and techniques that inspired public discourse among its listeners. The word "progressive" was frequently used, and it was thought that every song and single was to be a "progression" from the last.[30] Music critic Simon Reynolds writes that beginning with 1967, a divide would exist between "progressive" pop and "mass/chart" pop, a separation which was "also, broadly, one between boys and girls, middle-class and working-class."[31]
 

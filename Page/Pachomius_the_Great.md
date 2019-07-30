@@ -12,7 +12,7 @@ Pachomius established his first monastery between 318 and 323 at Tabennisi, Egyp
 
 Death and legacy
 
-Bucharest_-_Biserica_Sf._Anton_06.jpg, Bucharest.]]
+, Bucharest.]]
 
 Pachomius continued as abbot to the cenobites for some forty years. During an epidemic (probably plague), Pachomius called the monks, strengthened their faith, and appointed his successor. Pachomius then died on 14 Pashons, 64 A.M. (9 May 348 A.D.).
 

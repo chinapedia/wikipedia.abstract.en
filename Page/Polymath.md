@@ -1,4 +1,4 @@
-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg, a polymath of the Renaissance era]]
+, a polymath of the Renaissance era]]
 
 A POLYMATH (, __, "having learned much"; Latin: _homo universalis_, "universal man")[1] is an individual whose knowledge spans a significant number of subjects, known to draw on complex bodies of knowledge to solve specific problems. The term entered the lexicon in the 20th century and has now been applied to great thinkers living before and after the Renaissance.
 
@@ -72,8 +72,6 @@ Bharath Sriraman, of the University of Montana, also investigated the role of po
 In 2009, Sriraman published a paper reporting a 3-year study with 120 pre-service mathematics teachers and derived several implications for mathematics pre-service education as well as interdisciplinary education.[35] He utilized a hermeneutic-phenomenological approach to recreate the emotions, voices and struggles of students as they tried to unravel Russell’s paradox presented in its linguistic form. They found that those more engaged in solving the paradox also displayed more polymathic thinking traits. He concludes by suggesting that fostering polymathy in the classroom may help students change beliefs, discover structures and open new avenues for interdisciplinary pedagogy.[36]
 
 Michael Araki
-
-Developmental_Model_of_Polymathy.jpg
 
 Michael Araki is a professor at Universidade Federal Fluminense in Brazil. He sought to formalize in a general model how the development of polymathy takes place. His Developmental Model of Polymathy (DMP) is presented in a 2018 article with two main objectives: (i) organize the elements involved in the process of polymathy development into a structure of relationships that is wed to the approach of polymathy as a life project, and (ii) provide an articulation with other well-developed constructs, theories and models, especially from the fields of giftedness and education[37]. The model, which was designed to reflect a structural model, has five major components: (1) polymathic antecedents, (2) polymathic mediators, (3) polymathic achievements, (4) intrapersonal moderators, and (5) environmental moderators.[38]
 

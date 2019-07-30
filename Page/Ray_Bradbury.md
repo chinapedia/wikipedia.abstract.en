@@ -9,7 +9,7 @@ Upon his death in 2012, _The New York Times_ called Bradbury "the writer most re
 
 Early life
 
-Ray_Bradbury_HS_Yearbook.jpeg Bradbury was born on August 22, 1920,[3] in Waukegan, Illinois,[4] to Esther (née Moberg) Bradbury (1888–1966), a Swedish immigrant, and Leonard Spaulding Bradbury (1890–1957),[5] a power and telephone lineman of English ancestry.[6] He was given the middle name "Douglas" after the actor Douglas Fairbanks. Bradbury was related to the American Shakespeare scholar Douglas Spaulding[7] and descended from Mary Bradbury, who was tried at one of the Salem witch trials in 1692.[8]
+Bradbury was born on August 22, 1920,[3] in Waukegan, Illinois,[4] to Esther (née Moberg) Bradbury (1888–1966), a Swedish immigrant, and Leonard Spaulding Bradbury (1890–1957),[5] a power and telephone lineman of English ancestry.[6] He was given the middle name "Douglas" after the actor Douglas Fairbanks. Bradbury was related to the American Shakespeare scholar Douglas Spaulding[7] and descended from Mary Bradbury, who was tried at one of the Salem witch trials in 1692.[8]
 
 Bradbury was surrounded by an extended family during his early childhood and formative years in Waukegan. An aunt read him short stories when he was a child.[9] This period provided foundations for both the author and his stories. In Bradbury's works of fiction, 1920s Waukegan becomes "Green Town", Illinois.
 
@@ -41,7 +41,7 @@ Bradbury relates the following meeting with Sergei Bondarchuk, director of Sovie
 
 Career
 
-Amazing_stories_194412.jpg'']] Bradbury's first published story was "Hollerbochen's Dilemma", which appeared in the January 1938 number of Forrest J. Ackerman's fanzine _Imagination!_.[24] In July 1939, Ackerman and his then-girlfriend Morojo gave 19-year-old Bradbury the money to head to New York for the First World Science Fiction Convention in New York City, and funded Bradbury's fanzine, titled _Futuria Fantasia_.[25] Bradbury wrote most of its four issues, each limited to under 100 copies. Between 1940 and 1947, he was a contributor to Rob Wagner's film magazine, _Script_.[26]
+'']] Bradbury's first published story was "Hollerbochen's Dilemma", which appeared in the January 1938 number of Forrest J. Ackerman's fanzine _Imagination!_.[24] In July 1939, Ackerman and his then-girlfriend Morojo gave 19-year-old Bradbury the money to head to New York for the First World Science Fiction Convention in New York City, and funded Bradbury's fanzine, titled _Futuria Fantasia_.[25] Bradbury wrote most of its four issues, each limited to under 100 copies. Between 1940 and 1947, he was a contributor to Rob Wagner's film magazine, _Script_.[26]
 
 Bradbury was free to start a career in writing, when owing to his bad eyesight, he was rejected admission into the military during World War II. Having been inspired by science-fiction heroes such as Flash Gordon and Buck Rogers, Bradbury began to publish science-fiction stories in fanzines in 1938. Bradbury was invited by Forrest J. Ackerman to attend the Los Angeles Science Fiction Society, which at the time met at Clifton's Cafeteria in downtown Los Angeles. This was where he met the writers Robert A. Heinlein, Emil Petaja, Fredric Brown, Henry Kuttner, Leigh Brackett, and Jack Williamson.
 
@@ -106,7 +106,7 @@ In the 1980s and 90s, Bradbury served on the advisory board of the Los Angeles S
 
 Personal life
 
-Ray_Bradbury_2009.jpg Bradbury was married to Marguerite McClure (January 16, 1922 – November 24, 2003) from 1947 until her death; they had four daughters:[64] Susan, Ramona, Bettina, and Alexandra.[65] Bradbury never obtained a driver's license, but relied on public transportation or his bicycle.[66] He lived at home until he was 27 and married. His wife of 56 years, Maggie, as she was affectionately called, was the only woman Bradbury ever dated.[67]
+Bradbury was married to Marguerite McClure (January 16, 1922 – November 24, 2003) from 1947 until her death; they had four daughters:[64] Susan, Ramona, Bettina, and Alexandra.[65] Bradbury never obtained a driver's license, but relied on public transportation or his bicycle.[66] He lived at home until he was 27 and married. His wife of 56 years, Maggie, as she was affectionately called, was the only woman Bradbury ever dated.[67]
 
 He was raised Baptist by his parents, who were themselves infrequent churchgoers. As an adult, Bradbury considered himself a "delicatessen religionist" who resisted categorization of his beliefs and took guidance from both Eastern and Western faiths. He felt that his career was "a God-given thing, and I'm so grateful, so, so grateful. The best description of my career as a writer is 'At play in the fields of the Lord.'"[68]
 
@@ -118,7 +118,7 @@ Late in life, Bradbury retained his dedication and passion despite what he descr
 
 Bradbury suffered a stroke in 1999[74] that left him partially dependent on a wheelchair for mobility.[75] Despite this, he continued to write, and had even written an essay for _The New Yorker_, about his inspiration for writing, published only a week prior to his death.[76] Bradbury made regular appearances at science-fiction conventions until 2009, when he retired from the circuit.
 
-Headstone_of_Ray_Bradbury,_May_2012.jpg Bradbury chose a burial place at Westwood Village Memorial Park Cemetery in Los Angeles, with a headstone that reads "Author of Fahrenheit 451".[77][78] On February 6, 2015, _The New York Times_ reported that the house that Bradbury lived and wrote in for 50 years of his life, at 10265 Cheviot Drive in Cheviot Hills, Los Angeles, California, had been demolished by the buyer, architect Thom Mayne.[79]
+Bradbury chose a burial place at Westwood Village Memorial Park Cemetery in Los Angeles, with a headstone that reads "Author of Fahrenheit 451".[77][78] On February 6, 2015, _The New York Times_ reported that the house that Bradbury lived and wrote in for 50 years of his life, at 10265 Cheviot Drive in Cheviot Hills, Los Angeles, California, had been demolished by the buyer, architect Thom Mayne.[79]
 
 
 Death
@@ -134,7 +134,7 @@ Numerous Bradbury fans paid tribute to the author, noting the influence of his w
 
 Bibliography
 
-PlanetStoriesNov1953.png''.]] Bradbury is credited with writing 27 novels and over 600 short stories.[91] More than eight million copies of his works, published in over 36 languages, have been sold around the world.[92]
+''.]] Bradbury is credited with writing 27 novels and over 600 short stories.[91] More than eight million copies of his works, published in over 36 languages, have been sold around the world.[92]
 
 First novel
 
@@ -151,9 +151,9 @@ The most significant of the remaining unpublished stories, scenes, and fragments
 
 Adaptations to other media
 
-Ray_Bradbury_1959.JPG'']] From 1950 to 1954, 31 of Bradbury's stories were adapted by Al Feldstein for EC Comics (seven of them uncredited in six stories, including "Kaleidoscope" and "Rocket Man" being combined as "Home To Stay" - for which Bradbury was retroactively paid - and EC's first version of "The Handler" under the title "A Strange Undertaking") and 16 of these were collected in the paperbacks, _The Autumn People_ (1965) and _Tomorrow Midnight_ (1966), both published by Ballantine Books with cover illustrations by Frank Frazetta. Also in the early 1950s, adaptations of Bradbury's stories were televised in several anthology shows, including _Tales of Tomorrow_, _Lights Out_, _Out There_, _Suspense_, _CBS Television Workshop_, _Jane Wyman's Fireside Theatre_, _Star Tonight_, _Windows_ and _Alfred Hitchcock Presents_. "The Merry-Go-Round", a half-hour film adaptation of Bradbury's "The Black Ferris", praised by _Variety_, was shown on _Starlight Summer Theater_ in 1954 and NBC's _Sneak Preview_ in 1956. During that same period, several stories were adapted for radio drama, notably on the science fiction anthologies _Dimension X_ and its successor _X Minus One_.
+'']] From 1950 to 1954, 31 of Bradbury's stories were adapted by Al Feldstein for EC Comics (seven of them uncredited in six stories, including "Kaleidoscope" and "Rocket Man" being combined as "Home To Stay" - for which Bradbury was retroactively paid - and EC's first version of "The Handler" under the title "A Strange Undertaking") and 16 of these were collected in the paperbacks, _The Autumn People_ (1965) and _Tomorrow Midnight_ (1966), both published by Ballantine Books with cover illustrations by Frank Frazetta. Also in the early 1950s, adaptations of Bradbury's stories were televised in several anthology shows, including _Tales of Tomorrow_, _Lights Out_, _Out There_, _Suspense_, _CBS Television Workshop_, _Jane Wyman's Fireside Theatre_, _Star Tonight_, _Windows_ and _Alfred Hitchcock Presents_. "The Merry-Go-Round", a half-hour film adaptation of Bradbury's "The Black Ferris", praised by _Variety_, was shown on _Starlight Summer Theater_ in 1954 and NBC's _Sneak Preview_ in 1956. During that same period, several stories were adapted for radio drama, notably on the science fiction anthologies _Dimension X_ and its successor _X Minus One_.
 
-Rhedosaurus_&_the_lighthouse.png'', based on Bradbury's 1951 short story "The Fog Horn"]]
+'', based on Bradbury's 1951 short story "The Fog Horn"]]
 
 Producer William Alland first brought Bradbury to movie theaters in 1953 with _It Came from Outer Space_, a Harry Essex screenplay developed from Bradbury's screen treatment "Atomic Monster". Three weeks later came the release of Eugène Lourié's _The Beast from 20,000 Fathoms_ (1953), which featured one scene based on Bradbury's "The Fog Horn", about a sea monster mistaking the sound of a fog horn for the mating cry of a female. Bradbury's close friend Ray Harryhausen produced the stop-motion animation of the creature. Bradbury later returned the favor by writing a short story, "Tyrannosaurus Rex", about a stop-motion animator who strongly resembled Harryhausen. Over the next 50 years, more than 35 features, shorts, and TV movies were based on Bradbury's stories or screenplays. Bradbury was hired in 1953 by director John Huston to work on the screenplay for his film version of Melville's _Moby Dick_ (1956), which stars Gregory Peck as Captain Ahab, Richard Basehart as Ishmael, and Orson Welles as Father Mapple. A significant result of the film was Bradbury's book _Green Shadows, White Whale_, a semifictionalized account of the making of the film, including Bradbury's dealings with Huston and his time in Ireland, where exterior scenes that were set in New Bedford, Massachusetts, were filmed.
 
@@ -167,7 +167,7 @@ In 1966, Bradbury helped Lynn Garrison create _AVIAN_, a specialist aviation mag
 
 In 1969, _The Illustrated Man_ was brought to the big screen, starring Rod Steiger, Claire Bloom, and Robert Drivas. Containing the prologue and three short stories from the book, the film received mediocre reviews. The same year, Bradbury approached composer Jerry Goldsmith, who had worked with Bradbury in dramatic radio of the 1950s and later scored the film version, to compose a cantata _Christus Apollo_ based on Bradbury's text.[95] The work premiered in late 1969, with the California Chamber Symphony performing with narrator Charlton Heston at UCLA.
 
-Ray_Bradbury_at_Caltech_12_November_1971.ogv, journalist Walter Sullivan, and scientists Carl Sagan and Bruce Murray. In this excerpt, Bradbury reads his poem 'If Only We Had Taller Been' (poem begins at 2:20, full text[96]). Video released by NASA in honor of the naming of Bradbury Landing in 2012.[97]]] In 1972, _The Screaming Woman_ was adapted as an ABC Movie-of-the-Week starring Olivia de Havilland.
+, journalist Walter Sullivan, and scientists Carl Sagan and Bruce Murray. In this excerpt, Bradbury reads his poem 'If Only We Had Taller Been' (poem begins at 2:20, full text[96]). Video released by NASA in honor of the naming of Bradbury Landing in 2012.[97]]] In 1972, _The Screaming Woman_ was adapted as an ABC Movie-of-the-Week starring Olivia de Havilland.
 
 _The Martian Chronicles_ became a three-part TV miniseries starring Rock Hudson, which was first broadcast by NBC in 1980. Bradbury found the miniseries "just boring".[98]
 
@@ -202,7 +202,7 @@ Bradbury's poem "Groon" was voiced as a tribute in 2012.[106]
 
 Awards and honors
 
-GeorgeRayLaura.jpg in 2004 with President George W. Bush and his wife Laura Bush]]
+in 2004 with President George W. Bush and his wife Laura Bush]]
 
 The Ray Bradbury Award for excellency in screenwriting was occasionally presented by the Science Fiction and Fantasy Writers of America – presented to six people on four occasions from 1992 to 2009.[107] Beginning 2010, the Ray Bradbury Award for Outstanding Dramatic Presentation is presented annually according to Nebula Awards rules and procedures, although it is not a Nebula Award.[108] The revamped Bradbury Award replaced the Nebula Award for Best Script.
 

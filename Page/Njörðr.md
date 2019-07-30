@@ -1,4 +1,4 @@
-Njörd's_desire_of_the_Sea.jpg]] In Norse mythology, NJÖRÐR is a god among the Vanir. Njörðr, father of the deities Freyr and Freyja by his unnamed sister, was in an ill-fated marriage with the goddess Skaði, lives in Nóatún and is associated with the sea, seafaring, wind, fishing, wealth, and crop fertility.
+]] In Norse mythology, NJÖRÐR is a god among the Vanir. Njörðr, father of the deities Freyr and Freyja by his unnamed sister, was in an ill-fated marriage with the goddess Skaði, lives in Nóatún and is associated with the sea, seafaring, wind, fishing, wealth, and crop fertility.
 
 Njörðr is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, the _Prose Edda_, written in the 13th century by Snorri Sturluson, in euhemerized form as a beloved mythological early king of Sweden in _Heimskringla_, also written by Snorri Sturluson in the 13th century, as one of three gods invoked in the 14th century _Hauksbók_ ring oath, and in numerous Scandinavian place names. Veneration of Njörðr survived into 18th or 19th century Norwegian folk practice, where the god is recorded as NJOR and thanked for a bountiful catch of fish.
 
@@ -16,8 +16,6 @@ Attestations
 
 _Poetic Edda_
 
-The_Lovesickness_of_Frey.jpg
-
 Njörðr is described as a future survivor of Ragnarök in stanza 39 of the poem _Vafþrúðnismál_. In the poem, the god Odin, disguised as "Gagnráðr" faces off with the wise jötunn Vafþrúðnir in a battle of wits. While Odin states that Vafþrúðnir knows all the fates of the gods, Odin asks Vafþrúðnir "from where Njörðr came to the sons of the Æsir," that Njörðr rules over quite a lot of temples and hörgrs (a type of Germanic altar), and further adds that Njörðr was not raised among the Æsir. In response, Vafþrúðnir says:
 
       "In Vanaheim the wise Powers made him
@@ -27,7 +25,7 @@ Njörðr is described as a future survivor of Ragnarök in stanza 39 of the poem
 
 In stanza 16 of the poem _Grímnismál_, Njörðr is described as having a hall in Nóatún made for himself. The stanza describes Njörðr as a "prince of men," that he is "lacking in malice," and that he "rules over the "high-timbered temple."[7] In stanza 43, the creation of the god Freyr's ship Skíðblaðnir is recounted, and Freyr is cited as the son of Njörðr.[8] In the prose introduction to the poem _Skírnismál_, Freyr is mentioned as the son of Njörðr, and stanza 2 cites the goddess Skaði as the mother of Freyr.[9] Further in the poem, Njörðr is again mentioned as the father of Freyr in stanzas 38, 39, and 41.[10]
 
-Lokasenna_by_Lorenz_Frølich.jpg.]]
+.]]
 
 In the late flyting poem _Lokasenna_, an exchange between Njörðr and Loki occurs in stanzas 33, 34, 35, and 36. After Loki has an exchange with the goddess Freyja, in stanza 33 Njörðr states:
 
@@ -53,7 +51,7 @@ Njörðr is also mentioned in the _Prose Edda_ books _Gylfaginning_ and _Skálds
 
 _Gylfaginning_
 
-Niorder_und_Skadi_auf_dem_Wege_nach_Noatun_after_an_original_by_W_Engelhard_by_F_W_Heine.jpg]] Skadi's_longing_for_the_Mountains.jpg In the _Prose Edda_, Njörðr is introduced in chapter 23 of the book _Gylfaginning_. In this chapter, Njörðr is described by the enthroned figure of High as living in the heavens at Nóatún, but also as ruling over the movement of the winds, having the ability to calm both sea and fire, and that he is to be invoked in seafaring and fishing. High continues that Njörðr is very wealthy and prosperous, and that he can also grant wealth in land and valuables to those who request his aid. Njörðr originates from Vanaheimr and is devoid of Æsir stock, and he is described as having been traded with Hœnir in hostage exchange with between the Æsir and Vanir.[17]
+]] In the _Prose Edda_, Njörðr is introduced in chapter 23 of the book _Gylfaginning_. In this chapter, Njörðr is described by the enthroned figure of High as living in the heavens at Nóatún, but also as ruling over the movement of the winds, having the ability to calm both sea and fire, and that he is to be invoked in seafaring and fishing. High continues that Njörðr is very wealthy and prosperous, and that he can also grant wealth in land and valuables to those who request his aid. Njörðr originates from Vanaheimr and is devoid of Æsir stock, and he is described as having been traded with Hœnir in hostage exchange with between the Æsir and Vanir.[17]
 
 High further states that Njörðr's wife is Skaði, that she is the daughter of the jötunn Þjazi, and recounts a tale involving the two. High recalls that Skaði wanted to live in the home once owned by her father called Þrymheimr ("Thunder Home"). However, Njörðr wanted to live nearer to the sea. Subsequently, the two made an agreement that they would spend nine nights in Þrymheimr and then next three nights in Nóatún (or nine winters in Þrymheimr and another nine in Nóatún according to the _Codex Regius_ manuscript[18]). However, when Njörðr returned from the mountains to Nóatún, he says:
 
@@ -77,8 +75,6 @@ High states that afterward Skaði went back up to the mountains to Þrymheimr an
 
 _Skáldskaparmál_
 
-Njörðr_(1832)_from_Die_Helden_und_Götter_des_Nordens,_oder_Das_Buch_der_sagen.jpg
-
 Njörðr is introduced in _Skáldskaparmál_ within a list of 12 Æsir attending a banquet held for Ægir.[24] Further in _Skáldskaparmál_, the skaldic god Bragi recounds the death of Skaði's father Þjazi by the Æsir. As one of the three acts of reparation performed by the Æsir for Þjazi's death, Skaði was allowed by the Æsir to choose a husband from amongst them, but given the stipulation that she may not see any part of them but their feet when making the selection. Expecting to choose the god Baldr by the beauty of the feet she selects, Skaði instead finds that she has picked Njörðr.[25]
 
 In chapter 6, a list of kennings is provided for Njörðr: "God of chariots," "Descendant of Vanir," "a Van," father of Freyr and Freyja, and "the giving god." This is followed by an excerpt from a composition by the 11th century skald Þórðr Sjáreksson, explained as containing a reference to Skaði leaving Njörðr:
@@ -92,8 +88,6 @@ Chapter 7 follows and provides various kennings for Freyr, including referring t
 In chapter 20, "daughter of Njörðr" is given as a kenning for Freyja.[28] In chapter 33, Njörðr is cited among the gods attending a banquet held by Ægir.[29] In chapter 37, Freyja is again referred to as Njörðr's daughter in a verse by the 12th century skald Einarr Skúlason.[30] In chapter 75, Njörðr is included in a list of the Æsir.[31] Additionally, _Njörðr_ is used in kennings for "warrior" or "warriors" various times in _Skáldskaparmál_.[32]
 
 _Heimskringla_
-
-AM_738_4to,_36r,_BW_Njörðr.jpeg
 
 Njörðr appears in or is mentioned in three Kings' sagas collected in _Heimskringla_; _Ynglinga saga_, the _Saga of Hákon the Good_ and the _Saga of Harald Graycloak_. In chapter 4 of _Ynglinga saga_, Njörðr is introduced in connection with the Æsir-Vanir War. When the two sides became tired of war, they came to a peace agreement and exchanged hostages. For their part, the Vanir send to the Æsir their most "outstanding men"; Njörðr, described as wealthy, and Freyr, described as his son, in exchange for the Æsir's Hœnir. Additionally, the Æsir send Mímir in exchange for the wise Kvasir.[33]
 
@@ -112,7 +106,7 @@ In chapter 80 of the 13th century Icelandic saga _Egils saga_, Egill Skallagrím
 
 Modern folk practice
 
-Odda_i_februar_2004.jpg, Norway, in the winter of 2004]] Veneration of Njörðr survived into 18th or 19th century Norwegian folk practice, as recorded in a tale collected by Halldar O. Opedal from an informant in Odda, Hordaland, Norway. The informant comments on a family tradition in which the god is thanked for a bountiful catch of fish:
+, Norway, in the winter of 2004]] Veneration of Njörðr survived into 18th or 19th century Norwegian folk practice, as recorded in a tale collected by Halldar O. Opedal from an informant in Odda, Hordaland, Norway. The informant comments on a family tradition in which the god is thanked for a bountiful catch of fish:
 
       The old folk [folk in the olden days?] were always rather lucky when they went fishing. One night old Gunnhild Reinsnos (born in 1746) and Johannes Reinsnos were fishing in the Sjosavatn. They had taken a torch and were fishing with live bait. The fish bit well, and it wasn't long before Gunnhild had a week's supply of fish for her pot. So she wound her line around her rod with the words: "Thanks be to him, to Njor, for this time."[42]
 
@@ -123,7 +117,7 @@ Theories
 
 Nerthus
 
-Nerthus_by_Emil_Doepler.jpg Njörðr is often identified with the goddess Nerthus, whose reverence by various Germanic tribes is described by Roman historian Tacitus in his 1st CE century work _Germania_. The connection between the two is due to the linguistic relationship between _Njörðr_ and the reconstructed _*Nerþuz_,[44] "Nerthus" being the feminine, Latinized form of what _Njörðr_ would have looked like around 1 CE.[45] This has led to theories about the relation of the two, including that Njörðr may have once been a hermaphroditic god or, generally considered more likely, that the name may indicate an otherwise unattested divine brother and sister pair such as Freyr and Freyja.[46] Consequently, Nerthus has been identified with Njörðr's unnamed sister with whom he had Freyja and Freyr, which is mentioned in _Lokasenna_.[47]
+Njörðr is often identified with the goddess Nerthus, whose reverence by various Germanic tribes is described by Roman historian Tacitus in his 1st CE century work _Germania_. The connection between the two is due to the linguistic relationship between _Njörðr_ and the reconstructed _*Nerþuz_,[44] "Nerthus" being the feminine, Latinized form of what _Njörðr_ would have looked like around 1 CE.[45] This has led to theories about the relation of the two, including that Njörðr may have once been a hermaphroditic god or, generally considered more likely, that the name may indicate an otherwise unattested divine brother and sister pair such as Freyr and Freyja.[46] Consequently, Nerthus has been identified with Njörðr's unnamed sister with whom he had Freyja and Freyr, which is mentioned in _Lokasenna_.[47]
 
 Bieka-Galles
 
@@ -131,7 +125,7 @@ In Saami mythology, Bieka-Galles (or Biega-, Biegga-Galles, depending on dialect
 
 Hadingus
 
-Hading_og_den_enøjede_Gamle.jpg]] Parallels have been pointed out between Njörðr and the figure of Hadingus, attested in book I of Saxo Grammaticus' 13th century work _Gesta Danorum_.[49] Some of these similarities include that, in parallel to Skaði and Njörðr in _Skáldskaparmál_, Hadingus is chosen by his wife Regnhild after selecting him from other men at a banquet by his lower legs, and, in parallel to Skaði and Njörðr in _Gylfaginning_, Hadingus complains in verse of his displeasure at his life away from the sea and how he is disturbed by the howls of wolves, while his wife Regnhild complains of life at the shore and states her annoyance at the screeching sea birds.[50] Georges Dumézil theorized that in the tale Hadingus passes through all three functions of his trifunctional hypothesis, before ending as an Odinic hero, paralleling Njörðr's passing from the Vanir to the Æsir in the Æsir-Vanir War.[51]
+]] Parallels have been pointed out between Njörðr and the figure of Hadingus, attested in book I of Saxo Grammaticus' 13th century work _Gesta Danorum_.[49] Some of these similarities include that, in parallel to Skaði and Njörðr in _Skáldskaparmál_, Hadingus is chosen by his wife Regnhild after selecting him from other men at a banquet by his lower legs, and, in parallel to Skaði and Njörðr in _Gylfaginning_, Hadingus complains in verse of his displeasure at his life away from the sea and how he is disturbed by the howls of wolves, while his wife Regnhild complains of life at the shore and states her annoyance at the screeching sea birds.[50] Georges Dumézil theorized that in the tale Hadingus passes through all three functions of his trifunctional hypothesis, before ending as an Odinic hero, paralleling Njörðr's passing from the Vanir to the Æsir in the Æsir-Vanir War.[51]
 
 Svafrþorinn
 

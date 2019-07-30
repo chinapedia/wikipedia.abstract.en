@@ -1,4 +1,4 @@
-Alumni_Hall_1889_Sun.jpg, a traditional New England liberal arts college.]]
+, a traditional New England liberal arts college.]]
 
 A LIBERAL ARTS COLLEGE or LIBERAL ARTS INSTITUTION OF HIGHER EDUCATION is a college with an emphasis on undergraduate study in the liberal arts and sciences. Such colleges aim to impart a broad general knowledge and develop general intellectual capacities, in contrast to a professional, vocational, or technical curriculum.[1] Students in a liberal arts college generally major in a particular discipline while receiving exposure to a wide range of academic subjects, including sciences as well as the traditional humanities subjects taught as liberal arts. Although it draws on European antecedents, the liberal arts college is strongly associated with American higher education, and most liberal arts colleges around the world draw explicitly on the American model.
 
@@ -11,7 +11,7 @@ Although many liberal arts colleges are exclusively undergraduate, some also off
 
 Distinguishing characteristics
 
-Shimer_College_class_1995_octagonal_table.jpg in Chicago]]
+in Chicago]]
 
 Liberal arts colleges are distinguished from other types of higher education chiefly by their generalist curricula and small size. These attributes have various secondary effects in terms of administration as well as student experience. For example, class size is usually much lower at liberal arts colleges than at universities, and faculty at liberal arts colleges typically focus on teaching more than research.
 
@@ -33,7 +33,7 @@ In academia, liberal arts generally refer to subjects or skills that aim to prov
 
 Globally
 
-Blanchard_Hall_(5978664560).jpg, a Christian liberal arts college in Illinois]]
+, a Christian liberal arts college in Illinois]]
 
 Liberal arts colleges are found in all parts of the world. Notwithstanding the European origins of the concept of liberal arts education, today the term is largely associated with the United States, and most self-identified liberal arts colleges worldwide are built on the American model.[5] The Global Liberal Arts Alliance, which incorporates institutions on five continents, refers to itself as "an international, multilateral partnership of American style liberal arts institutions."[6]
 
@@ -49,7 +49,7 @@ Liberal arts colleges are also found in Canada, including Bishop's University, C
 
 In Europe
 
-Seminar_Bard_College_Berlin,_2013.jpg, in Europe]]
+, in Europe]]
 
 With the exception of pioneering institutions such as Franklin University Switzerland, established as a Europe-based, US-style liberal arts college in 1969, Saint Louis University Madrid Campus, established in 1967, and Richmond, The American International University in London, established in 1972[8] only recently have efforts been made to import the American liberal arts college model to continental Europe.
 
@@ -63,7 +63,7 @@ From September 2016 Chavagnes Studium, a Liberal Arts centre in France will be o
 
 In Asia
 
-International_Christian_University,_Mitaka,_Tokyo,_Japan.jpg in Japan]] Lingnan University in Hong Kong was established as a liberal arts college in the early 20th century, although it subsequently became a full-fledged university. Ginling College in Nanjing similarly followed the model of an American liberal arts college from its founding in 1915 until forced to conform with the Nationalist educational system in the 1930s.[19] In Zhuhai City, Hong Kong Baptist University and Beijing Normal University opened United International College, which adopted the liberal arts college education system.
+in Japan]] Lingnan University in Hong Kong was established as a liberal arts college in the early 20th century, although it subsequently became a full-fledged university. Ginling College in Nanjing similarly followed the model of an American liberal arts college from its founding in 1915 until forced to conform with the Nationalist educational system in the 1930s.[19] In Zhuhai City, Hong Kong Baptist University and Beijing Normal University opened United International College, which adopted the liberal arts college education system.
 
 International Christian University in Tokyo, which opened in 1953, defines itself as "Japan's first liberal arts college."[20]
 
@@ -79,13 +79,13 @@ Also, Ahmedabad University, a private,[29] non-profit university offers its stud
 
 In the Middle East
 
-Shalem_College_building.jpg in Israel.]]
+in Israel.]]
 
 The liberal arts model has traditionally not been part of the educational landscape in the Middle East or North Africa. Baghdad College has offered a liberal arts curriculum since the early 20th century, but despite its name it has never offered more than a high school education. Effat University in Saudi Arabia, a women's institution, is a member of the Global Liberal Arts Alliance and The first liberal arts college in the Middle East is however generally considered to be Shalem College in Israel, established in 2013.
 
 In Africa
 
-Al_Akhawayn_Campus.jpg in Morocco.]] Three institutions in Africa are members of the Global Liberal Arts Alliance: Al Akhawayn University in Morocco, American University of Cairo in Egypt, and American University of Nigeria. The Egyptian and Nigerian schools are universities with a liberal arts component, but Al Akhawayn was founded on the model of an American liberal arts college.
+in Morocco.]] Three institutions in Africa are members of the Global Liberal Arts Alliance: Al Akhawayn University in Morocco, American University of Cairo in Egypt, and American University of Nigeria. The Egyptian and Nigerian schools are universities with a liberal arts component, but Al Akhawayn was founded on the model of an American liberal arts college.
 
 Ashesi University is a liberal arts college located in Berekuso, Ghana, established in 2002. The school's president, Patrick Awuah, described the school's mission as "educating a new generation of leaders in Africa who think ethically and who are problem solvers and have the ability and the desire to confront problems on the continent."[31]
 

@@ -27,7 +27,7 @@ Japheth (in Hebrew, Yafet) is a transliteration of the Greek Iapetos, the ancest
 
 Place in Noah's family
 
-Noahsworld_map_Version2.png (based on 1854 map).]] For those who take the genealogies of Genesis to be historically accurate, Japheth is commonly believed to be the father of Europeans. The link between Japheth and the Europeans stems from Genesis 10:5, which states:
+(based on 1854 map).]] For those who take the genealogies of Genesis to be historically accurate, Japheth is commonly believed to be the father of Europeans. The link between Japheth and the Europeans stems from Genesis 10:5, which states:
 
 According to that book, Japheth and his two brothers formed the three major races:
 
@@ -40,7 +40,7 @@ William Shakespeare's play _Henry IV, Part II_ contains a wry comment about peop
 
 Descendants
 
-Josephustable_3.svg, c. 100 AD); Japheth's sons shown in red]]
+, c. 100 AD); Japheth's sons shown in red]]
 
 In the Bible, Japheth is ascribed seven sons: Gomer, Magog, Tiras, Javan, Meshech, Tubal, and Madai. According to Josephus (_Antiquities of the Jews_ I.6):
 

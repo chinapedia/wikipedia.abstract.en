@@ -16,13 +16,9 @@ In New York City, Sennett became an actor, singer, dancer, clown, set designer, 
 
 Keystone Studios
 
-Mack_Sennett_Studios_1917.jpg
-
 With financial backing from Adam Kessel and Charles O. Bauman of the New York Motion Picture Company, Michael "Mack" Sennett founded Keystone Studios in Edendale, California in 1912 (which is now a part of Echo Park). The original main building which was the first totally enclosed film stage and studio ever constructed, is still there today. Many important actors cemented their film careers with Sennett, including Marie Dressler, Mabel Normand, Charles Chaplin, Harry Langdon, Roscoe Arbuckle, Harold Lloyd, Raymond Griffith, Gloria Swanson, Ford Sterling, Andy Clyde, Chester Conklin, Polly Moran, Louise Fazenda, The Keystone Cops, Bing Crosby, and W. C. Fields.
 
 Mack Sennett's slapstick comedies were noted for their wild car chases and custard pie warfare, especially in the ''Keystone Cops ''series. Sennett's first female comedian was Mabel Normand, who became a major star under his direction and with whom he embarked on a tumultuous romantic relationship. Sennett also developed the _Kid Comedies_, a forerunner of the _Our Gang_ films, and in a short time, his name became synonymous with screen comedy which were called "flickers" at the time. In 1915, Keystone Studios became an autonomous production unit of the ambitious Triangle Film Corporation, as Sennett joined forces with D. W. Griffith and Thomas Ince, both powerful figures in the film industry.
-
-MackSennetBathingBeauties.JPG
 
 
 Sennett Bathing Beauties
@@ -44,7 +40,7 @@ In the mid-1920s, Sennett moved to Pathé Exchange distribution. Pathé had a hu
 
 Experiments, awards, and bankruptcy
 
-Mabel's_Dramatic_Career_1913.jpeg onscreen in _Mabel's Dramatic Career_ (1913)]] The_Fatal_Mallet.jpg'' (1914)]] Love,_Speed_and_Thrills_-_Walter_Wright_-_1915,_Keystone_Film_-_EYE_FLM39508_-_OB_685625.webm and produced by Mack Sennett, running time: 14:12, is a chase film in which a man (named Walrus) kidnaps the wife of his benefactor, but the so-called "Keystone Cops" are also chasing down Walrus.]] Sennett made a reasonably smooth transition to sound films, releasing them through Earle Hammons's Educational Pictures. Sennett occasionally experimented with color. Plus, he was the first to get a talkie short subject on the market in 1928. In 1932, he was nominated for the Academy Award for Live Action Short Film in the comedy division for producing _The Loud Mouth_ (with Matt McHugh, in the sports-heckler role later taken in Columbia Pictures remakes by Charley Chase and Shemp Howard). Sennett also won an Academy Award in the novelty division for his film _Wrestling Swordfish_ also in 1932.[5] On March 25, 1932, he became a United States citizen.[6]
+onscreen in _Mabel's Dramatic Career_ (1913)]] '' (1914)]] and produced by Mack Sennett, running time: 14:12, is a chase film in which a man (named Walrus) kidnaps the wife of his benefactor, but the so-called "Keystone Cops" are also chasing down Walrus.]] Sennett made a reasonably smooth transition to sound films, releasing them through Earle Hammons's Educational Pictures. Sennett occasionally experimented with color. Plus, he was the first to get a talkie short subject on the market in 1928. In 1932, he was nominated for the Academy Award for Live Action Short Film in the comedy division for producing _The Loud Mouth_ (with Matt McHugh, in the sports-heckler role later taken in Columbia Pictures remakes by Charley Chase and Shemp Howard). Sennett also won an Academy Award in the novelty division for his film _Wrestling Swordfish_ also in 1932.[5] On March 25, 1932, he became a United States citizen.[6]
 
 Sennett often clung to outmoded techniques, making his early-1930s films seem dated and quaint. This doomed his attempt to re-enter the feature-film market with _Hypnotized_ (starring blackface comedians Moran and Mack, "The Two Black Crows"). However, Sennett enjoyed great success with short comedies starring Bing Crosby, which were more than likely instrumental in Sennett's product being picked up by a major studio, Paramount Pictures. W. C. Fields conceived and starred in four famous Sennett-Paramount comedies. Fields himself recalled that he "made seven comedies for the Irishman", his original deal called for one film and an option for six more, but ultimately only four were made.
 

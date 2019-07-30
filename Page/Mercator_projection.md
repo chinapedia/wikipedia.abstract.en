@@ -1,4 +1,4 @@
-Mercator_projection_Square.JPG Mercator_with_Tissot's_Indicatrices_of_Distortion.svg of deformation.]] Mercator_1569.png () showing latitudes 66°S to 80°N.]]
+of deformation.]] () showing latitudes 66°S to 80°N.]]
 
 The MERCATOR PROJECTION is a cylindrical map projection presented by the Flemish geographer and cartographer Gerardus Mercator in 1569. It became the standard map projection for navigation because of its unique property of representing any course of constant bearing as a straight segment. Such a course, known as a rhumb or, mathematically, a loxodrome, is preferred by navigators because the ship can sail in a constant compass direction to reach its destination, eliminating difficult and error-prone course corrections. Linear scale is constant on the Mercator in every direction around any point, thus preserving the angles and the shapes of small objects and fulfilling the conditions of a conformal map projection. As a side effect, the Mercator projection inflates the size of objects away from the equator. This inflation starts infinitesimally but accelerates with latitude to reach infinite at the poles. So, for example, landmasses such as Greenland and Antarctica appear far larger than they actually are relative to landmasses near the equator, such as Central Africa.
 
@@ -34,7 +34,7 @@ All lines of constant bearing (rhumbs or loxodromes—those making constant angl
 
 Distortion of sizes
 
-Africa-Australia-Greenland_Comparison.png is shown in blue, Australia in red and Greenland in green.]] True_Size_of_Africa.png, China, India, Pakistan, Syria, Iran, Bangladesh, Oman, Laos, Tajikistan and a lot of Europe.]]
+is shown in blue, Australia in red and Greenland in green.]] , China, India, Pakistan, Syria, Iran, Bangladesh, Oman, Laos, Tajikistan and a lot of Europe.]]
 
 As on all map projections, shapes or sizes are distortions of the true layout of the Earth's surface. The Mercator projection exaggerates areas far from the equator.
 
@@ -49,8 +49,6 @@ Examples:
 -   Alaska takes as much area on the map as Brazil, when Brazil's area is nearly 5 times that of Alaska.
 -   Ellesmere Island on the north of Canada's Arctic archipelago looks about the same size as Australia, although Australia is over 39 times bigger. All islands in Canada's Arctic archipelago look at least 2 times too large, and the more northern islands look even larger.
 -   Antarctica appears to be extremely large (and would be infinitely large on a complete map), although it is actually the third smallest continent by area. Antarctica is just smaller than Russia, or the size of the United States and India combined.
-
-Worlds_animate.gif
 
 
 Uses
@@ -78,13 +76,13 @@ Although the surface of Earth is best modelled by an oblate ellipsoid of revolut
 
 Cylindrical projections
 
-The spherical approximation of Earth with radius _a_ can be modelled by a smaller sphere of radius _R_, called the _globe_ in this section. The globe determines the scale of the map. The various cylindrical projections specify how the geographic detail is transferred from the globe to a cylinder tangential to it at the equator. The cylinder is then unrolled to give the planar map.[15][16] The fraction is called the representative fraction (RF) or the principal scale of the projection. For example, a Mercator map printed in a book might have an equatorial width of 13.4 cm corresponding to a globe radius of 2.13 cm and an RF of approximately (M is used as an abbreviation for 1,000,000 in writing an RF) whereas Mercator's original 1569 map has a width of 198 cm corresponding to a globe radius of 31.5 cm and an RF of about . Cylindrical_Projection_basics2.svg A cylindrical map projection is specified by formulae linking the geographic coordinates of latitude _φ_ and longitude _λ_ to Cartesian coordinates on the map with origin on the equator and _x_-axis along the equator. By construction, all points on the same meridian lie on the same _generator_[17] of the cylinder at a constant value of _x_, but the distance _y_ along the generator (measured from the equator) is an arbitrary[18] function of latitude, _y_(_φ_). In general this function does not describe the geometrical projection (as of light rays onto a screen) from the centre of the globe to the cylinder, which is only one of an unlimited number of ways to conceptually project a cylindrical map.
+The spherical approximation of Earth with radius _a_ can be modelled by a smaller sphere of radius _R_, called the _globe_ in this section. The globe determines the scale of the map. The various cylindrical projections specify how the geographic detail is transferred from the globe to a cylinder tangential to it at the equator. The cylinder is then unrolled to give the planar map.[15][16] The fraction is called the representative fraction (RF) or the principal scale of the projection. For example, a Mercator map printed in a book might have an equatorial width of 13.4 cm corresponding to a globe radius of 2.13 cm and an RF of approximately (M is used as an abbreviation for 1,000,000 in writing an RF) whereas Mercator's original 1569 map has a width of 198 cm corresponding to a globe radius of 31.5 cm and an RF of about . A cylindrical map projection is specified by formulae linking the geographic coordinates of latitude _φ_ and longitude _λ_ to Cartesian coordinates on the map with origin on the equator and _x_-axis along the equator. By construction, all points on the same meridian lie on the same _generator_[17] of the cylinder at a constant value of _x_, but the distance _y_ along the generator (measured from the equator) is an arbitrary[18] function of latitude, _y_(_φ_). In general this function does not describe the geometrical projection (as of light rays onto a screen) from the centre of the globe to the cylinder, which is only one of an unlimited number of ways to conceptually project a cylindrical map.
 
 Since the cylinder is tangential to the globe at the equator, the scale factor between globe and cylinder is unity on the equator but nowhere else. In particular since the radius of a parallel, or circle of latitude, is _R_ cos _φ_, the corresponding parallel on the map must have been stretched by a factor of sec _φ_}}. This scale factor on the parallel is conventionally denoted by _k_ and the corresponding scale factor on the meridian is denoted by _h_.[19]
 
 Small element geometry
 
-The relations between _y_(_φ_) and properties of the projection, such as the transformation of angles and the variation in scale, follow from the geometry of corresponding _small_ elements on the globe and map. The figure below shows a point P at latitude _φ_ and longitude _λ_ on the globe and a nearby point Q at latitude _φ_ + _δφ_ and longitude _λ_ + _δλ_. The vertical lines PK and MQ are arcs of meridians of length _Rδφ_.[20] The horizontal lines PM and KQ are arcs of parallels of length _R_(cos _φ_)_δλ_.[21] The corresponding points on the projection define a rectangle of width _δx_ and height _δy_. CylProj_infinitesimals2.svg For small elements, the angle PKQ is approximately a right angle and therefore
+The relations between _y_(_φ_) and properties of the projection, such as the transformation of angles and the variation in scale, follow from the geometry of corresponding _small_ elements on the globe and map. The figure below shows a point P at latitude _φ_ and longitude _λ_ on the globe and a nearby point Q at latitude _φ_ + _δφ_ and longitude _λ_ + _δλ_. The vertical lines PK and MQ are arcs of meridians of length _Rδφ_.[20] The horizontal lines PM and KQ are arcs of parallels of length _R_(cos _φ_)_δλ_.[21] The corresponding points on the projection define a rectangle of width _δx_ and height _δy_. For small elements, the angle PKQ is approximately a right angle and therefore
 
 $$\tan\alpha \approx \frac{R\cos\varphi\,\delta\lambda}{R\,\delta\varphi}, \qquad\qquad
 \tan\beta=\frac{\delta x}{\delta y},$$
@@ -108,7 +106,7 @@ The choice of the function _y_(_φ_) for the Mercator projection is determined b
 
 :*ISOTROPY OF SCALE FACTORS. This is the statement that the point scale factor is independent of direction so that small shapes are preserved by the projection. Setting _h_ = _k_ in the above equations again gives _y ′_(_φ_) = _R_ sec _φ_.
 
-Mercator_y_plot.svg Integrating the equation
+Integrating the equation
 
 _y_′(_φ_) = _R_sec _φ_,
 
@@ -171,7 +169,7 @@ $$\varphi = \tan^{-1}\left[\sinh\left(\frac{y}{R}\right)\right]
 
 Scale factor
 
-Mercator_scale_plot.svg The figure comparing the infinitesimal elements on globe and projection shows that when α=β the triangles PQM and P′Q′M′ are similar so that the scale factor in an arbitrary direction is the same as the parallel and meridian scale factors:
+The figure comparing the infinitesimal elements on globe and projection shows that when α=β the triangles PQM and P′Q′M′ are similar so that the scale factor in an arbitrary direction is the same as the parallel and meridian scale factors:
 
 $$\frac{\delta s'}{\delta s}
 = \frac{P'Q'}{PQ}
@@ -190,7 +188,7 @@ Working from the projected map requires the scale factor in terms of the Mercato
 
 $$k=\sec\varphi=\cosh\left(\frac{y}{R}\right)=\cosh\left(\frac{2\pi y}{W}\right).$$
 
-The variation with latitude is sometimes indicated by multiple bar scales as shown below and, for example, on a Finnish school atlas. The interpretation of such bar scales is non-trivial. See the discussion on distance formulae below. World_Scale_from_DMA_Series_1150_map.png
+The variation with latitude is sometimes indicated by multiple bar scales as shown below and, for example, on a Finnish school atlas. The interpretation of such bar scales is non-trivial. See the discussion on distance formulae below.
 
 Area scale
 
@@ -198,7 +196,7 @@ The area scale factor is the product of the parallel and meridian scales sec²_�
 
 Distortion
 
-Tissot_mercator.png on the Mercator projection]] The classic way of showing the distortion inherent in a projection is to use Tissot's indicatrix. Nicolas Tissot noted that the scale factors at a point on a map projection, specified by the numbers _h_ and _k_, define an ellipse at that point. For cylindrical projections, the axes of the ellipse are aligned to the meridians and parallels.[26][27][28] For the Mercator projection, _h_ = _k_, so the ellipses degenerate into circles with radius proportional to the value of the scale factor for that latitude. These circles are rendered on the projected map with extreme variation in size, indicative of Mercator's scale variations.
+on the Mercator projection]] The classic way of showing the distortion inherent in a projection is to use Tissot's indicatrix. Nicolas Tissot noted that the scale factors at a point on a map projection, specified by the numbers _h_ and _k_, define an ellipse at that point. For cylindrical projections, the axes of the ellipse are aligned to the meridians and parallels.[26][27][28] For the Mercator projection, _h_ = _k_, so the ellipses degenerate into circles with radius proportional to the value of the scale factor for that latitude. These circles are rendered on the projected map with extreme variation in size, indicative of Mercator's scale variations.
 
 Accuracy
 
@@ -208,7 +206,7 @@ Secant projection
 
 In a secant (in the sense of cutting) Mercator projection the globe is projected to a cylinder which cuts the sphere at two parallels with latitudes ±_φ_₁. The scale is now true at these latitudes whereas parallels between these latitudes are contracted by the projection and their scale factor must be less than one. The result is that _deviation_ of the scale from unity is reduced over a wider range of latitudes.
 
-Cylindrical_Projection_secant.svg An example of such a projection is
+An example of such a projection is
 
 $$x = 0.99R\lambda \qquad y = 0.99R\ln \tan\! \left(\frac{\pi}{4} + \frac{\varphi}{2} \right)\qquad k\; = 0.99\sec\varphi.$$
 

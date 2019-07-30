@@ -45,7 +45,7 @@ Glaciation took place repeatedly during the Quaternary Ice Age – a term coine
 
 Last glacial period
 
-IceAgeEarth.jpg]] In 1821, a Swiss engineer, Ignaz Venetz, presented an article in which he suggested the presence of traces of the passage of a glacier at a considerable distance from the Alps. This idea was initially disputed by another Swiss scientist, Louis Agassiz, but when he undertook to disprove it, he ended up affirming his colleague's hypothesis. A year later, Agassiz raised the hypothesis of a great glacial period that would have had long-reaching general effects. This idea gained him international fame and led to the establishment of the Glacial Theory.
+]] In 1821, a Swiss engineer, Ignaz Venetz, presented an article in which he suggested the presence of traces of the passage of a glacier at a considerable distance from the Alps. This idea was initially disputed by another Swiss scientist, Louis Agassiz, but when he undertook to disprove it, he ended up affirming his colleague's hypothesis. A year later, Agassiz raised the hypothesis of a great glacial period that would have had long-reaching general effects. This idea gained him international fame and led to the establishment of the Glacial Theory.
 
 In time, thanks to the refinement of geology, it has been demonstrated that there were several periods of glacial advance and retreat and that past temperatures on Earth were very different from today. In particular, the Milankovitch cycles of Milutin Milankovitch are based on the premise that variations in incoming solar radiation are a fundamental factor controlling Earth's climate.
 

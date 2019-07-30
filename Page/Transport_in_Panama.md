@@ -3,7 +3,7 @@ TRANSPORT IN PANAMA is fairly well developed. The majority of the trips are done
 
 Railways
 
-08-130_ESCLUSAS_DE_MIRAFLORES_-_Flickr_-_Anelita_PunkRock_(1).jpg for the ship handling tracks along the Panama Canal locks]]
+for the ship handling tracks along the Panama Canal locks]]
 
 There are 355 km of railway track in Panama:
 
@@ -36,7 +36,7 @@ Flooding during the April to December rainy season occasionally makes city stree
 
 Waterways
 
-Exclusa_Miraflores_Canal_de_Panama_Panorama.jpg in the Panama Canal.]]
+in the Panama Canal.]]
 
 800 km navigable by shallow draft vessels; 82 km Panama Canal
 

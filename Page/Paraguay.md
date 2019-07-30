@@ -1,8 +1,6 @@
 }} | image_coat = Coat of arms of Paraguay.svg | symbol_type = |group="nb"}} }} | image_map = PRY orthographic.svg | map_caption = | image_map2 = Paraguay - Location Map (2012) - PRY - UNOCHA.svg | national_motto =
 | national_anthem =
 
-Paraguayan_National_Anthem.oga
-
 | languages_type = Official languages[1][2] | official_languages = | demonym = Paraguayan
 Guaraní (colloquial)[3] | ethnic_groups = | ethnic_groups_year = 2016[4] | capital = Asunción | coordinates = | largest_city = Asunción | religion_year = 2017 | religion_ref = [5] | religion = | government_type = Unitary dominant-party presidential republic | leader_title1 = President | leader_name1 = Mario Abdo Benítez | leader_title2 = Vice President | leader_name2 = Hugo Velázquez | leader_title3 = Senate President | leader_name3 = Silvio Ovelar | legislature = Congress | upper_house = Senate | lower_house = Chamber of Deputies | area_rank = 59th | area_km2 = 406752 | percent_water = 2.3 | population_estimate = 7,152,703[6] | population_estimate_rank = 104th | population_estimate_year = 2019 | population_census = | population_census_year = | population_density_km2 = 17.58 | population_density_sq_mi = 39 | population_density_rank = 210th | GDP_PPP = $101.075 billion[7] | GDP_PPP_rank = 88th | GDP_PPP_year = 2019 | GDP_PPP_per_capita = $14,131[8] | GDP_PPP_per_capita_rank = 96th | GDP_nominal_year = 2019 | GDP_nominal = $44.557 billion[9] | GDP_nominal_rank = 94th | GDP_nominal_per_capita = $6,229[10] | GDP_nominal_per_capita_rank = 94th | sovereignty_type = Independence | established_event1 = Declared | established_date1 = 14 May 1811 | established_event2 = Recognized | established_date2 = 25 November 1842 | established_event3 = Admitted to the United Nations | established_date3 = 24 October 1945 | Gini_year = 2017 | Gini_change = increase | Gini = 48.8 | Gini_ref = [11] | Gini_rank = | HDI_year = 2017 | HDI_change = steady | HDI = 0.702 | HDI_ref = [12] | HDI_rank = 110th | currency = Guaraní | currency_code = PYG | time_zone = PYT | utc_offset = –4 | time_zone_DST = PYST | utc_offset_DST = –3 | drives_on = right | calling_code = +595 | cctld = .py | footnote_a = Mixed European and Amerindian. }}
 
@@ -34,7 +32,7 @@ In western Paraguay, Spanish settlement and Christianity were strongly resisted 
 
 Independence and rule of Francia
 
-José_Gaspar_Rodríguez_de_Francia.jpg, Paraguay's first dictator.]] Paraguay overthrew the local Spanish administration on 14 May 1811. Paraguay's first dictator was José Gaspar Rodríguez de Francia who ruled Paraguay from 1814 until his death in 1840, with very little outside contact or influence. He intended to create a utopian society based on the French theorist Jean-Jacques Rousseau's _Social Contract_.[24]
+, Paraguay's first dictator.]] Paraguay overthrew the local Spanish administration on 14 May 1811. Paraguay's first dictator was José Gaspar Rodríguez de Francia who ruled Paraguay from 1814 until his death in 1840, with very little outside contact or influence. He intended to create a utopian society based on the French theorist Jean-Jacques Rousseau's _Social Contract_.[24]
 
 Rodríguez de Francia established new laws that greatly reduced the powers of the Catholic church (Catholicism was then an established state religion) and the cabinet, forbade colonial citizens from marrying one another and allowed them to marry only blacks, mulattoes or natives, in order to break the power of colonial-era elites and to create a mixed-race or mestizo society.[25] He cut off relations between Paraguay and the rest of South America. Because of Francia's restrictions of freedom, Fulgencio Yegros and several other Independence-era leaders in 1820 planned a _coup d’état_ against Francia, who discovered the plot and had its leaders either executed or imprisoned for life.
 
@@ -48,11 +46,11 @@ The government exerted control on all exports. The export of yerba mate and valu
 
 Francisco Solano López, the son of Carlos Antonio López, replaced his father as the President-Dictator in 1862, and generally continued the political policies of his father. Both wanted to give an international image of Paraguay as "democratic and republican", but in fact, the ruling family had almost total control of all public life in the country, including Church and colleges.
 
-Militarily, Carlos Antonio López modernized and expanded industry and the Paraguayan Army and greatly strengthened the strategic defences of Paraguay by developing the Fortress of Humaitá.[28] The government hired more than 200 foreign technicians, who installed telegraph lines and railroads to aid the expanding steel, textile, paper and ink, naval construction, weapons and gunpowder industries. The Ybycuí foundry, completed in 1850, manufactured cannons, mortars and bullets of all calibers. River warships were built in the shipyards of Asunción. Fortifications were built, especially along the Apa River and in Gran Chaco.[29] The work was continued by his son Francisco Solano and in terms of socio-economic development, the country was dubbed as "the most advanced Republic in South America", notably by the British judge and politician Sir Robert Phillimore.[30] 1864_Mitchell_Map_of_Brazil,_Bolivia_and_Chili_-_Geographicus_-_SouthAmericaSouth-mitchell-1864.jpg According to George Thompson, C.E., Lieutenant Colonel of Engineers in the Paraguayan Army prior to and during the war, López's government was comparatively a good one for Paraguay:
+Militarily, Carlos Antonio López modernized and expanded industry and the Paraguayan Army and greatly strengthened the strategic defences of Paraguay by developing the Fortress of Humaitá.[28] The government hired more than 200 foreign technicians, who installed telegraph lines and railroads to aid the expanding steel, textile, paper and ink, naval construction, weapons and gunpowder industries. The Ybycuí foundry, completed in 1850, manufactured cannons, mortars and bullets of all calibers. River warships were built in the shipyards of Asunción. Fortifications were built, especially along the Apa River and in Gran Chaco.[29] The work was continued by his son Francisco Solano and in terms of socio-economic development, the country was dubbed as "the most advanced Republic in South America", notably by the British judge and politician Sir Robert Phillimore.[30] According to George Thompson, C.E., Lieutenant Colonel of Engineers in the Paraguayan Army prior to and during the war, López's government was comparatively a good one for Paraguay:
 
 Paraguayan War (1864–1870)
 
-FRANCISCO_SOLANO_LOPEZ_(From_a_Photograph_taken_in_1859).jpg]] On 12 October 1864, despite Paraguayan ultimatums, the Brazilian Empire (sided with the Argentine Government under Gen. Bartolomé Mitre and the rebellious Uruguayan colorados led by Gen. Venancio Flores) invaded the Republic of Uruguay in order to overthrow the Government of that time (which was under the rule of the Blanco Party, an ally of López)[31], thus starting the Paraguayan War.[32]
+]] On 12 October 1864, despite Paraguayan ultimatums, the Brazilian Empire (sided with the Argentine Government under Gen. Bartolomé Mitre and the rebellious Uruguayan colorados led by Gen. Venancio Flores) invaded the Republic of Uruguay in order to overthrow the Government of that time (which was under the rule of the Blanco Party, an ally of López)[31], thus starting the Paraguayan War.[32]
 
 The Paraguayans, led by the Marshal of the Republic Francisco Solano López, retalliated by attacking the Matto Grosso on 15 December 1864 and later declared war against Argentina on 23 March 1865. The "Blanco Government" was toppled and replaced by a "Colorado Government" under Gen. Venancio Flores on 22 February 1865 and afterwards, the Argentine Republic, the Empire of Brazil and the Republic of Uruguay signed the infamous Secret Treaty of the Triple Alliance against the Paraguayan Government, on 1 May 1865.[33]
 
@@ -62,17 +60,17 @@ Paraguay lost 25-33% of its territory to Argentina and Brazil, was forced to pay
 
 "The normal estimate is that of a Paraguayan population of somewhere between 450,000 and 900,000, only 220,000 survived the war, of whom only 28,000 were adult males."[36]
 
-During the pillaging of Asunción in 1869, the Imperial Brazilian Army packed up and transported the Paraguayan National Archives to Rio de Janeiro.[37][38] Brazil's records from the war have remained classified.[39] This has made Paraguayan history in the Colonial and early National periods difficult to research and study. TuyutiDetail.jpg, May 1866]]
+During the pillaging of Asunción in 1869, the Imperial Brazilian Army packed up and transported the Paraguayan National Archives to Rio de Janeiro.[37][38] Brazil's records from the war have remained classified.[39] This has made Paraguayan history in the Colonial and early National periods difficult to research and study. , May 1866]]
 
 20th century
 
-Chacokrieg.jpg was the site of the Chaco War (1932–35), in which Bolivia lost most of the disputed territory to Paraguay.]] Recrutas_paraguaios..jpg In 1904 the Liberal revolution against the rule of Colorados broke out. The Liberal rule started a period of great political instability. Between 1904 and 1954 Paraguay had thirty-one presidents, most of whom were removed from office by force.[40] Conflicts between the factions of the ruling Liberal party led to the Paraguayan Civil War of 1922.
+was the site of the Chaco War (1932–35), in which Bolivia lost most of the disputed territory to Paraguay.]] In 1904 the Liberal revolution against the rule of Colorados broke out. The Liberal rule started a period of great political instability. Between 1904 and 1954 Paraguay had thirty-one presidents, most of whom were removed from office by force.[40] Conflicts between the factions of the ruling Liberal party led to the Paraguayan Civil War of 1922.
 
 The unresolved border conflict with Bolivia over the Chaco region finally erupted in the early 1930s in the Chaco War. After great losses Paraguay defeated Bolivia and established its sovereignty over most of the disputed Chaco region. After the war, military officers used popular dissatisfaction with the Liberal politicians to seize the power for themselves. On 17 February 1936, the February Revolution brought colonel Rafael Franco to power. Between 1940 and 1948, the country was ruled by general Higinio Morínigo. Dissatisfaction with his rule resulted in the Paraguayan civil war of 1947.[41] In its aftermath Alfredo Stroessner began involvement in a string of plots, which resulted in his military coup d'état of 4 May 1954.
 
 Stroessner era, 1954–1989
 
-Alfredo_Stroessner_Paraguay_stamp.jpg, Paraguayan dictator from 1954 to 1989]] A series of unstable governments ensued until the establishment in 1954 of the regime of dictator Alfredo Stroessner, who remained in office for more than three decades until 1989. Paraguay was modernized to some extent under Stroessner's regime, although his rule was marked by extensive human rights abuses.[42]
+, Paraguayan dictator from 1954 to 1989]] A series of unstable governments ensued until the establishment in 1954 of the regime of dictator Alfredo Stroessner, who remained in office for more than three decades until 1989. Paraguay was modernized to some extent under Stroessner's regime, although his rule was marked by extensive human rights abuses.[42]
 
 Stroessner and the _Colorado_ party ruled the country from 1954 to 1989. The dictator oversaw an era of economic expansion, but also had a poor human rights and environmental record (see "Political History"). Paraguay actively participated in Operation Condor.[43] Torture and death for political opponents was routine. After his overthrow, the _Colorado_ continued to dominate national politics until 2008.
 
@@ -104,7 +102,7 @@ For the 2008 general elections, the Colorado Party was favored in polls. Their c
 
 Lugo was sworn in on 15 August 2008. The Lugo administration set its two major priorities as the reduction of corruption and economic inequality.[47]
 
-Saludo_de_Piñera_a_Cartes.jpg, 15 August 2013]] Political instability following Lugo's election and disputes within his cabinet encouraged some renewal of popular support for the Colorado Party. Reports suggested that the businessman Horacio Cartes became the new political figure amid disputes. Despite the US Drug Enforcement Administration's strong accusations against Cartes related to drug trafficking, he continued to amass followers in the political arena.
+, 15 August 2013]] Political instability following Lugo's election and disputes within his cabinet encouraged some renewal of popular support for the Colorado Party. Reports suggested that the businessman Horacio Cartes became the new political figure amid disputes. Despite the US Drug Enforcement Administration's strong accusations against Cartes related to drug trafficking, he continued to amass followers in the political arena.
 
 On 14 January 2011, the Colorado Party convention nominated Horacio Cartes as the presidential candidate for the party. However, the party's constitution didn't allow it. On 21 June 2012, impeachment proceedings against President Lugo began in the country's lower house, which was controlled by his opponents. Lugo was given less than twenty-four hours to prepare for the proceedings and only two hours in which to mount a defense.[48] Impeachment was quickly approved and the resulting trial in Paraguay's Senate, also controlled by the opposition, ended with the removal of Lugo from office and Vice President Federico Franco assuming the duties of president.[49] Lugo's rivals blamed him for the deaths of 17 people – eight police officers and nine farmers – in armed clashes after police were ambushed by armed peasants when enforcing an eviction order against rural trespassers.[50]
 
@@ -119,7 +117,7 @@ Geography and climate
 
 Geography
 
-Koppen-Geiger_Map_PRY_present.svg Chaco_Boreal_Paraguay.jpg, Paraguay]] Paraguay is divided by the Río Paraguay into two well differentiated geographic regions. The eastern region (Región Oriental); and the western region, officially called Western Paraguay (Región Occidental) and also known as the Chaco, which is part of the Gran Chaco. The country lies between latitudes 19° and 28°S, and longitudes 54° and 63°W. The terrain consists mostly of grassy plains and wooded hills in the eastern region. To the west are mostly low, marshy plains.
+, Paraguay]] Paraguay is divided by the Río Paraguay into two well differentiated geographic regions. The eastern region (Región Oriental); and the western region, officially called Western Paraguay (Región Occidental) and also known as the Chaco, which is part of the Gran Chaco. The country lies between latitudes 19° and 28°S, and longitudes 54° and 63°W. The terrain consists mostly of grassy plains and wooded hills in the eastern region. To the west are mostly low, marshy plains.
 
 Climate
 
@@ -136,7 +134,7 @@ Paraguay is a representative democratic republic, with a multi-party system and 
 
 Military
 
-Paraguayan_marines_at_Ancon_Marine_Base_2010-07-19.JPG The military of Paraguay consist of the Paraguayan army, navy (including naval aviation and marine corps) and air force.
+The military of Paraguay consist of the Paraguayan army, navy (including naval aviation and marine corps) and air force.
 
 The constitution of Paraguay (article 238) establishes the president of Paraguay as the commander-in-chief.[54]
 
@@ -183,7 +181,7 @@ Between 1970 and 2013, the country had the highest economic growth of South Amer
 
 100% of Paraguay's electricity is produced using hydroelectricity, making it one of the cleanest in the world. Paraguay has an installed electrical production capacity of 8,110 MW, producing 63 billion kWh/year in 2016; with domestic consumption of just 15 billion kWh, the excess production is sold to Brazil, Argentina, and Uruguay, making Paraguay the world's largest exporter of electric power.[58] This production is from two large hydroelectric power projects along its borders, including the Itaipu Dam, the world's second largest generating station.
 
-Paraguay_Export_Treemap.png Paraguay is the sixth-largest soybean producer in the world,[59] second-largest producer of stevia, second-largest producer of tung oil, sixth-largest exporter of corn, tenth-largest exporter of wheat and 8th largest exporter of beef.
+Paraguay is the sixth-largest soybean producer in the world,[59] second-largest producer of stevia, second-largest producer of tung oil, sixth-largest exporter of corn, tenth-largest exporter of wheat and 8th largest exporter of beef.
 
 The market economy is distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. Nonetheless, over the last 10 years the Paraguayan economy diversified dramatically, with the energy, auto parts and clothing industries leading the way.[60]
 
@@ -193,7 +191,7 @@ In 2012, Paraguay's government introduced the MERCOSUR(FOCEM) system in order to
 
 Industry and manufacturing
 
-BBVA_Paraguay.jpg Paraguay]] The mineral industry of Paraguay produces about 25% of the country's gross domestic product (GDP) and employs about 31% of the labor force. Production of cement, iron ore, and steel occurs commonly throughout Paraguay's industrial sector. The growth of the industry was further fueled by the maquila industry, with large industrial complexes located in the eastern part of the country. Paraguay put in place many incentives aimed to attract industries to the country. One of them is the so-called "Maquila law" by which companies can relocate to Paraguay, enjoying minimal tax rates.[63]
+Paraguay]] The mineral industry of Paraguay produces about 25% of the country's gross domestic product (GDP) and employs about 31% of the labor force. Production of cement, iron ore, and steel occurs commonly throughout Paraguay's industrial sector. The growth of the industry was further fueled by the maquila industry, with large industrial complexes located in the eastern part of the country. Paraguay put in place many incentives aimed to attract industries to the country. One of them is the so-called "Maquila law" by which companies can relocate to Paraguay, enjoying minimal tax rates.[63]
 
 In the pharmaceutical industry, Paraguayan companies now meet 70% of domestic consumption and have begun to export drugs. Paraguay is quickly supplanting foreign suppliers in meeting the country's drug needs.[64] Strong growth also is evident in the production of edible oils, garments, organic sugar, meat processing, and steel.
 
@@ -216,8 +214,6 @@ Only 2.5% of Paraguay's indigenous population has access to clean drinking water
 
 Demographics
 
-Paraguay_population_density.png
-
 +------------+
 | Population |
 +============+
@@ -230,17 +226,17 @@ Paraguay_population_density.png
 |            |
 +------------+
 
-Bevölkerungspyramide_Paraguay_2016.png Paraguay's population is distributed unevenly through the country, with the vast majority of people living in the eastern region near the capital and largest city, Asunción, which accounts for 10% of the country's population. The Gran Chaco region, which includes the Alto Paraguay, Boquerón and Presidente Hayes Department, and accounts for about 60% of the territory, is home to less than 2% of the population. About 56% of Paraguayans live in urban areas, making Paraguay one of the least urbanized nations in South America.
+Paraguay's population is distributed unevenly through the country, with the vast majority of people living in the eastern region near the capital and largest city, Asunción, which accounts for 10% of the country's population. The Gran Chaco region, which includes the Alto Paraguay, Boquerón and Presidente Hayes Department, and accounts for about 60% of the territory, is home to less than 2% of the population. About 56% of Paraguayans live in urban areas, making Paraguay one of the least urbanized nations in South America.
 
 For most of its history, Paraguay has been a recipient of immigrants, owing to its low population density, especially after the demographic collapse that resulted from the Paraguayan War. Small groups of ethnic Italians, Germans, Russians, Japanese, Koreans, Chinese, Arabs, Ukrainians, Poles, Jews, Brazilians, and Argentines have also settled in Paraguay. Around 40% of the total Paraguayan population has some Italian descent.[72] Paraguay has also been a haven for communities persecuted for the religious faith, like the Bruderhof who were forced to leave England in 1941 because of their pacifist beliefs.[73][74] Many of these communities have retained their languages and culture, particularly the Brazilians, who represent the largest and most prominent immigrant group, at around 400,000.[75] Many Brazilian Paraguayans are of German, Italian and Polish descent.[76] There are an estimated 63,000 Afro-Paraguayans, comprising 1% of the population.[77]
 
-Caacupe5.jpg]] There is no official data on the ethnic composition of the Paraguayan population, as the Department of Statistics, Surveys and Censuses[78] of Paraguay does not ask about _race_ and _ethnicity_ in census surveys, although it does inquire about the indigenous population. According to the census of 2002, the indigenous people made up 1.7% of Paraguay's total population.[79]
+]] There is no official data on the ethnic composition of the Paraguayan population, as the Department of Statistics, Surveys and Censuses[78] of Paraguay does not ask about _race_ and _ethnicity_ in census surveys, although it does inquire about the indigenous population. According to the census of 2002, the indigenous people made up 1.7% of Paraguay's total population.[79]
 
 Traditionally, the majority of the Paraguayan population is considered mixed (_mestizo_ in Spanish). HLA-DRB1 polymorphism studies have shown genetic distances between Paraguayans and Spanish populations were closer than between Paraguayans and Guaranis. Altogether these results suggest the predominance of the Spanish genetics in the Paraguayan populations.[80] According to , Paraguay has a population of , 95% of which are Mestizo or white and 5% are labelled as "other", which includes members of indigenous tribal groups. They are divided into 17 distinct ethnolinguistic groupings, many of which are poorly documented. Paraguay has one of the most prominent German communities in South America, with some 25,000 German-speaking Mennonites living in the Paraguayan Chaco.[81] German settlers founded several towns as Hohenau, Filadelfia, Neuland, Obligado and Nueva Germania. Several websites that promote German immigration to Paraguay claim that 5–7% of the population is of German ancestry, including 150,000 people of German-Brazilian descent.[82][83][84][85][86]
 
 Religion
 
-Concepción_Catholic_chapel.jpeg]] Christianity, particularly Roman Catholicism, is the dominant religion in Paraguay.[87] According to the 2002 census, 89.9% of the population is Catholic, 6.2% is Evangelical Protestant, 1.1% identify with other Christian sects, and 0.6% practice indigenous religions. A U.S. State Department report on Religious Freedom names Roman Catholicism, evangelical Protestantism, mainline Protestantism, Judaism (Orthodox, Conservative, and Reform), Mormonism, and the Bahá'í Faith as prominent religious groups. It also mentions a large Muslim community in Alto Paraná (as a result of Middle-Eastern immigration, especially from Lebanon) and a prominent Mennonite community in Boquerón.[88]
+]] Christianity, particularly Roman Catholicism, is the dominant religion in Paraguay.[87] According to the 2002 census, 89.9% of the population is Catholic, 6.2% is Evangelical Protestant, 1.1% identify with other Christian sects, and 0.6% practice indigenous religions. A U.S. State Department report on Religious Freedom names Roman Catholicism, evangelical Protestantism, mainline Protestantism, Judaism (Orthodox, Conservative, and Reform), Mormonism, and the Bahá'í Faith as prominent religious groups. It also mentions a large Muslim community in Alto Paraná (as a result of Middle-Eastern immigration, especially from Lebanon) and a prominent Mennonite community in Boquerón.[88]
 
 Languages
 
@@ -255,7 +251,7 @@ Culture
 
 Paraguay's cultural heritage can be traced to the extensive intermarriage between the original male Spanish settlers and indigenous Guaraní women. Their culture is highly influenced by various European countries, including Spain. Therefore, Paraguayan culture is a fusion of two cultures and traditions; one European, the other, Southern Guaraní. More than 93% of Paraguayans are _mestizos_, making Paraguay one of the most homogeneous countries in Latin America. A characteristic of this cultural fusion is the extensive bilingualism present to this day: more than 80% of Paraguayans speak both Spanish and the indigenous language, Guaraní. Jopara, a mixture of Guaraní and Spanish, is also widely spoken.
 
-Ovecha_Ragué_Festival_Paraguay.jpg This cultural fusion is expressed in arts such as embroidery (_ao po'í_) and lace making (_ñandutí_). The music of Paraguay, which consists of lilting polkas, bouncy _galopas,_ and languid _guaranias_ is played on the native harp. Paraguay's culinary heritage is also deeply influenced by this cultural fusion. Several popular dishes contain manioc, a local staple crop similar to the yuca also known as Cassava root found in the Southwestern United States and Mexico, as well as other indigenous ingredients. A popular dish is _sopa paraguaya_, similar to a thick corn bread. Another notable food is _chipa_, a bagel-like bread made from cornmeal, manioc, and cheese. Many other dishes consist of different kinds of cheeses, onions, bell peppers, cottage cheese, cornmeal, milk, seasonings, butter, eggs and fresh corn kernels.
+This cultural fusion is expressed in arts such as embroidery (_ao po'í_) and lace making (_ñandutí_). The music of Paraguay, which consists of lilting polkas, bouncy _galopas,_ and languid _guaranias_ is played on the native harp. Paraguay's culinary heritage is also deeply influenced by this cultural fusion. Several popular dishes contain manioc, a local staple crop similar to the yuca also known as Cassava root found in the Southwestern United States and Mexico, as well as other indigenous ingredients. A popular dish is _sopa paraguaya_, similar to a thick corn bread. Another notable food is _chipa_, a bagel-like bread made from cornmeal, manioc, and cheese. Many other dishes consist of different kinds of cheeses, onions, bell peppers, cottage cheese, cornmeal, milk, seasonings, butter, eggs and fresh corn kernels.
 
 The 1950s and 1960s were the time of the flowering of a new generation of Paraguayan novelists and poets such as José Ricardo Mazó, Roque Vallejos, and Nobel Prize nominee Augusto Roa Bastos. Several Paraguayan films have been made.
 

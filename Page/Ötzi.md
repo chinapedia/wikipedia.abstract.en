@@ -14,8 +14,6 @@ The corpse has been extensively examined, measured, X-rayed, and dated. Tissues 
 
 Body
 
-OetzitheIceman-glacier-199109a.jpg
-
 By current estimates (2016), at the time of his death Ötzi was tall, weighed about , and was about 45 years of age.[8] When his body was found, it weighed .[9][10] Because the body was covered in ice shortly after his death, it had only partially deteriorated. Initial reports claimed that his penis and most of his scrotum were missing, but this was later shown to be unfounded.[11] Analysis of pollen, dust grains and the isotopic composition of his tooth enamel indicates that he spent his childhood near the present village of Feldthurns, north of Bolzano, but later went to live in valleys about 50 kilometres farther north.[12]
 
 In 2009, a CAT scan revealed that the stomach had shifted upward to where his lower lung area would normally be. Analysis of the contents revealed the partly digested remains of ibex meat, confirmed by DNA analysis, suggesting he had a meal less than two hours before his death. Wheat grains were also found.[13] It is believed that Ötzi most likely had a few slices of a dried, fatty meat, probably bacon which came from a wild goat in South Tyrol, Italy.[14] Analysis of Ötzi's intestinal contents showed two meals (the last one consumed about eight hours before his death), one of chamois meat, the other of red deer and herb bread; both were eaten with roots and fruits. The grain also eaten with both meals was a highly processed einkorn wheat bran,[15] quite possibly eaten in the form of bread. In the proximity of the body, and thus possibly originating from the Iceman's provisions, chaff and grains of einkorn and barley, and seeds of flax and poppy were discovered, as well as kernels of sloes (small plumlike fruits of the blackthorn tree) and various seeds of berries growing in the wild.[16] Hair analysis was used to examine his diet from several months before.
@@ -40,8 +38,6 @@ Radiological examination of Ötzi's bones showed "age-conditioned or strain-indu
 
 Clothes and shoes
 
-Archeoparc_-_Museum_Ötzi_Kleidung.jpg Ötzischuh_2.jpg
-
 Ötzi wore a cloak made of woven grass[32] and a coat, a belt, a pair of leggings, a loincloth and shoes, all made of leather of different skins. He also wore a bearskin cap with a leather chin strap. The shoes were waterproof and wide, seemingly designed for walking across the snow; they were constructed using bearskin for the soles, deer hide for the top panels, and a netting made of tree bark. Soft grass went around the foot and in the shoe and functioned like modern socks. The coat, belt, leggings and loincloth were constructed of vertical strips of leather sewn together with sinew. His belt had a pouch sewn to it that contained a cache of useful items: a scraper, drill, flint flake, bone awl and a dried fungus.[33]
 
 The shoes have since been reproduced by a Czech academic, who said that "because the shoes are actually quite complex, I'm convinced that even 5,300 years ago, people had the equivalent of a cobbler who made shoes for other people". The reproductions were found to constitute such excellent footwear that it was reported that a Czech company offered to purchase the rights to sell them.[34] However, a more recent hypothesis by British archaeologist Jacqui Wood says that Ötzi's shoes were actually the upper part of snowshoes. According to this theory, the item currently interpreted as part of a backpack is actually the wood frame and netting of one snowshoe and animal hide to cover the face.[35]
@@ -52,7 +48,7 @@ Shoelaces were made from the European genetic population of cattle. The quiver w
 
 Tools and equipment
 
-ReconstructedOetziAxe.jpg Other items found with the Iceman were a copper axe with a yew handle, a chert-bladed knife with an ash handle and a quiver of 14 arrows with viburnum and dogwood shafts.[39][40] Two of the arrows, which were broken, were tipped with flint and had fletching (stabilizing fins), while the other 12 were unfinished and untipped. The arrows were found in a quiver with what is presumed to be a bow string, an unidentified tool, and an antler tool which might have been used for sharpening arrow points.[41] There was also an unfinished yew longbow that was long.[42]
+Other items found with the Iceman were a copper axe with a yew handle, a chert-bladed knife with an ash handle and a quiver of 14 arrows with viburnum and dogwood shafts.[39][40] Two of the arrows, which were broken, were tipped with flint and had fletching (stabilizing fins), while the other 12 were unfinished and untipped. The arrows were found in a quiver with what is presumed to be a bow string, an unidentified tool, and an antler tool which might have been used for sharpening arrow points.[41] There was also an unfinished yew longbow that was long.[42]
 
 In addition, among Ötzi's possessions were berries, two birch bark baskets, and two species of polypore mushrooms with leather strings through them. One of these, the birch fungus, is known to have anthelmintic properties, and was probably used for medicinal purposes.[43] The other was a type of tinder fungus, included with part of what appeared to be a complex firelighting kit. The kit featured pieces of over a dozen different plants, in addition to flint and pyrite for creating sparks.
 
@@ -83,7 +79,7 @@ In 2016, researchers reported on a study from the extraction of twelve samples f
 
 Cause of death
 
-Oetzi_Memorial.jpg.]] Oetzi_the_Iceman_Rekonstruktion_1.jpg reconstruction of Ötzi – South Tyrol Museum of Archaeology]]
+.]] reconstruction of Ötzi – South Tyrol Museum of Archaeology]]
 
 The cause of death remained uncertain until 10 years after the discovery of the body.[64] It was initially believed that Ötzi died from exposure during a winter storm. Later it was speculated that Ötzi might have been a victim of a ritual sacrifice, perhaps for being a chieftain.[65][66] This explanation was inspired by theories previously advanced for the first millennium BCE bodies recovered from peat bogs such as the Tollund Man and the Lindow Man.[67]
 

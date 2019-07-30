@@ -15,7 +15,7 @@ His mother was a cousin of Sir Richard Burton, and he inherited from her conside
 
 Plunkett's only grown sibling, a younger brother, from whom he was estranged from around 1916, for reasons not fully clear but connected to his mother's will, was the noted British naval officer Sir Reginald Drax. Another, younger, brother died in infancy.
 
-Beatrice_Child_Villiers.jpg Edward Plunkett grew up at the family properties, most notably Dunstall Priory in Shoreham, Kent, and Dunsany Castle in County Meath, but also family homes such as in London. His schooling was at Cheam, Eton College and finally the Royal Military College, Sandhurst, which he entered in 1896.
+Edward Plunkett grew up at the family properties, most notably Dunstall Priory in Shoreham, Kent, and Dunsany Castle in County Meath, but also family homes such as in London. His schooling was at Cheam, Eton College and finally the Royal Military College, Sandhurst, which he entered in 1896.
 
 Title and marriage
 
@@ -29,7 +29,7 @@ In 1910 Dunsany commissioned a two-storey extension to Dunsany Castle, with a bi
 
 Military experience
 
-Edward_Plunkett_Lord_Dunsany.jpg, in the First World War]] Dunsany served as a Second Lieutenant in the Coldstream Guards during the Second Boer War.
+, in the First World War]] Dunsany served as a Second Lieutenant in the Coldstream Guards during the Second Boer War.
 
 He volunteered in the First World War, and was appointed Captain in the Royal Inniskilling Fusiliers. He was stationed for some time at Ebrington Barracks in Derry. Having heard of disturbances in Dublin in 1916, during the Easter Rising, while on leave, he drove in to offer assistance and was wounded, with a bullet lodged in his skull.[3][4] After recovery at Jervis Street Hospital, and later what was then the King George V Hospital (now St. Bricin's Military Hospital), he returned to duty. His military belt was lost in this episode and was later used at the burial of Michael Collins. Having been refused forward positioning in 1916, being listed as valuable as a trainer, in the latter stages of the war he spent time in the trenches, and in the very last period wrote propaganda material for the War Office with MI7b(1). At Dunsany Castle there is a book of wartime photos with lost members of his command marked.
 
@@ -37,7 +37,7 @@ During the Second World War, Dunsany signed up for the Irish Army Reserve and th
 
 Literary life
 
-LordDinNY_1919_41yo_B.jpg Dunsany's fame arose chiefly from his prolific writings, and he was involved with the Irish Literary Revival. Supporting the Revival, Dunsany was a major donor to the Abbey Theatre, and he moved in Irish literary circles. He was well-acquainted with W. B. Yeats (who rarely acted as editor, but gathered and published a Dunsany selection), Lady Gregory, Percy French, "AE" Russell, Oliver St John Gogarty, Padraic Colum (with whom he jointly wrote a play) and others. He befriended and supported Francis Ledwidge to whom he gave the use of his library[5] and Mary Lavin.
+Dunsany's fame arose chiefly from his prolific writings, and he was involved with the Irish Literary Revival. Supporting the Revival, Dunsany was a major donor to the Abbey Theatre, and he moved in Irish literary circles. He was well-acquainted with W. B. Yeats (who rarely acted as editor, but gathered and published a Dunsany selection), Lady Gregory, Percy French, "AE" Russell, Oliver St John Gogarty, Padraic Colum (with whom he jointly wrote a play) and others. He befriended and supported Francis Ledwidge to whom he gave the use of his library[5] and Mary Lavin.
 
 Dunsany made his first literary tour to the United States in 1919, and made further such visits right up to the 1950s, in the early years mostly to the eastern seaboard, later notably to California.
 
@@ -264,7 +264,7 @@ Dunsany's literary rights passed from the author to a Trust, which still owns th
 
 All of Dunsany's work is in copyright in parts of the world , including the UK and European Union, with the early work (published before 1 January 1923) being in the public domain in the United States, and all of his work out of copyright in parts of the world with copyright durations of life + 60 or less.
 
-Dunsany_Castle_in_Meath_mist.jpg Dunsany's primary home, over 820 years old, can be visited at certain times of year, and tours usually include the Library, but not the tower room he often liked to work in. His other home, Dunstall Priory, was sold to a fan, Grey Gowrie, later head of the Arts Council of the UK, and thence passed on to other owners; the family still own farm- and down-land in the area, and a Tudor cottage in Shoreham village. The grave of Lord Dunsany and his wife can be seen in the Church of England graveyard in the village (most of the previous barons are buried in the grounds of Dunsany Castle).
+Dunsany's primary home, over 820 years old, can be visited at certain times of year, and tours usually include the Library, but not the tower room he often liked to work in. His other home, Dunstall Priory, was sold to a fan, Grey Gowrie, later head of the Arts Council of the UK, and thence passed on to other owners; the family still own farm- and down-land in the area, and a Tudor cottage in Shoreham village. The grave of Lord Dunsany and his wife can be seen in the Church of England graveyard in the village (most of the previous barons are buried in the grounds of Dunsany Castle).
 
 Dunsany's original manuscripts are collected in the family archive, including some specially bound volumes of some of his works. As noted, there has been a curator since the late 1990s and scholarly access is possible by application.
 

@@ -9,13 +9,11 @@ History
 
 The PNGDF originated from the Australian Army land forces of the Territory of Papua New Guinea before independence, coming into being in January 1973 and having its antecedents in the Pacific Islands Regiment. At independence it numbered 3,750 all ranks, while another 465 Australian personnel augmented the force to assist in training and technical support.[5] In the mid 1990s, the PNG economy was in crisis with financial support provided by the World Bank and the International Monetary Fund (IMF) on the proviso of economic reform with the first phase in 1996 to include defence. Successive attempts to reduce the size of the PNGDF in response to the country's economic problems provoked fierce resistance. In 2000, the World Bank and the IMF provided loans with economic reform conditions and a Commonwealth Eminent Persons Group (CEPG) report recommended to government that the PNGDF strength be reduced by more than half. In March 2001, soldiers mutinied after learning the government had approved the CEPG report.[6] The government capitulated after 10 days to the mutineers' demands, agreeing not to cut the army's strength. However, in 2002 it was announced that the PNGDF would be reduced from 4,000 to around 2,100 personnel. In early 2004 the government reaffirmed its commitment to implement cuts within the armed forces, with a definitive restructuring expected to take place. Chief of Staff Captain Aloysius Tom Ur told troops in January 2004 that the 2004 strength of 3,000 would be reduced by one-third, and that during 2004, the force's personnel branch would merge with the support branch into a new organisation.[7] Ultimately the reduction-in-size target was reached in 2009.[8]
 
-2688346_Papua_New_Guinea_Defence_Force_(Army)_and_U.S._Marines_exercise_opening.jpg
-
 PNGDF capability is considered modest, with the army facing significant problems including a chronic budget crisis, a lack of experience in conventional operations, limited ability to be deployed independently overseas as well as internal tensions. The air force and navy also suffer major equipment and funding shortfalls—to the point of sometimes almost being grounded—and are both too small and poorly equipped to take part in operations overseas. Indeed, the entire PNGDF is badly in need of new equipment.[9] Australia, New Zealand, France and several other nations are assisting in the training and the professionalisation of the PNGDF, while others—including Germany and China—provide budgetary assistance. Australia's aid for the PNGDF is currently worth AUD9.2 million with an additional AUD40 million committed the reform programme. AUD20 million was committed initially, mainly for paying off redundant personnel. A second tranche of AUD20 million is for the refurbishment of barracks over five years (AUD5 million). As of January 2006 29 Australian defence personnel were engaged in training and advising in areas including policy, management, maritime, infantry, engineering, personnel, logistic and finance areas of assistance. Two more Australian personnel were seconded as advisers on logistics and personnel matters in August 2006, while an Australian bureaucrat from the Department of Defence is posted to the PNG defence department. "Australia is particularly interested in supporting Port Moresby in the areas of counter-terrorism, maritime patrols and defence organisation structures and procedures."[10]
 
 During its history the PNGDF has sent 400 troops to assist the Vanuatu government put down a secessionist revolt in 1980 and was called out in aid to the civil power in Port Moresby in 1983. It has also conducted operations against the OPM (Organisasi Papua Merdeka or Free Papua Movement), based in Irian Barat, and which had been involved fighting the Indonesian armed forces. From 1989 to 1997 the PNGDF was involved in fighting the secessionist Bougainville Revolutionary Army (BRA) on Bougainville and Buka. During these operations the PNGDF was criticised for its treatment of civilians, human rights violations and the use of mercenaries.[11] More recently, following the passage of a constitutional amendment allowing the stationing of the PNGDF on foreign soil, 80 personnel joined the Australia-led Regional Assistance Mission to the Solomon Islands (RAMSI) in July 2003. As of 2008 PNGDF personnel remain in the Solomon Islands as part of the scaled down, rotational Pacific contingent.[12]
 
-Adm._Walsh_reviews_the_Papua_New_Guinea_Defence_Force_(PNGDF)_Honor_Guard_(5888997591).jpg, commander of the U.S. Pacific Fleet, reviews a Papua New Guinea Defence Force Honor guard]]
+, commander of the U.S. Pacific Fleet, reviews a Papua New Guinea Defence Force Honor guard]]
 
 Today, the PNGDF is a small force numbering around 2,100 personnel, and consisting of a Land Element, an Air Element and a Maritime Element. It is a joint force tasked with defending Papua New Guinea and its territories against external attack, as well as having secondary functions including national-building and internal security tasks. Defence accounts for up to 4% of government expenditure, while also receiving significant assistance and training support from Australia, New Zealand, the United States and other nations.[13] The army is under the direct command of Headquarters PNGDF, while the air force and navy have their own commanding officers. The PNGDF is under the political oversight of the Minister for Defence.[14]
 
@@ -25,8 +23,6 @@ The size of the PNGDF is to be increased under the Defence White Paper 2013 to 5
 
 
 Land Element
-
-2688381_Papua_New_Guinea_Defence_Force_(Army)_training_with_U.S._Marines_(edited).jpg
 
 The Land Element is the PNGDFs army land force, being primarily a light infantry force capable of conducting low-tempo operations only; it is the senior of the three services. The army has its origins in the Pacific Islands Regiment, which was formed in 1951 as a component of the Australian Army. Since independence, the army has become an indigenous organisation with its own traditions and culture. Nonetheless, the force has adopted foreign ideas on the roles and needs of an armed force, leading to proposals for armour, artillery and attack helicopters. However, the army faces severe budgetary problems and has therefore had virtually no money for operations, training, and maintenance or capital equipment upgrades. In this context, proposals to develop the army into a well equipped, mobile conventional land force, are unlikely in the near to medium term.[21] The army's role is to protect against external aggression, provide for internal security in support of the police, and to carry out civic action and relief operations when required. The engineer battalion is used for civic action with construction and reticulation capabilities, while the two infantry battalions also constructs roads, bridges and other infrastructure in regions where commercial companies are unwilling to work for security reasons.[22]
 
@@ -40,7 +36,7 @@ As of 2015, women are permitted to serve in non-combat roles in the PNGDF's Land
 
 Current organisation
 
-PNGDF_soldier_during_a_training_exercise_in_April_2017.jpg The Land Element is directly commanded by the Commander PNGDF, Brigadier General Gilbert Toropo, and has been significantly reduced in size due to restructuring (from 3,500 to 1,800 as of late 2007) and currently comprises the following:[28]
+The Land Element is directly commanded by the Commander PNGDF, Brigadier General Gilbert Toropo, and has been significantly reduced in size due to restructuring (from 3,500 to 1,800 as of late 2007) and currently comprises the following:[28]
 
 -   Command HQ (Port Moresby);
 -   two light Infantry battalions of the Royal Pacific Islands Regiment (1 RPIR at Port Moresby and 2 RPIR at Wewak);
@@ -108,7 +104,7 @@ Small arms
 
 Air Operations Element
 
-Papua_New_Guinea_roundel.svg The Air Operations Element is the air force branch of the PNGDF, operating a small number of light aircraft and rotary wing assets in support of army operations. Like the PNGDF in general the air force suffers from chronic equipment shortages and underfunding, but probably even more so than the other two branches.[77] The role of the air force is to support army operations with transport, air re-supply and medical evacuation capabilities. In future it may also be used to bolster border security and conduct maritime surveillance missions.[78]
+The Air Operations Element is the air force branch of the PNGDF, operating a small number of light aircraft and rotary wing assets in support of army operations. Like the PNGDF in general the air force suffers from chronic equipment shortages and underfunding, but probably even more so than the other two branches.[77] The role of the air force is to support army operations with transport, air re-supply and medical evacuation capabilities. In future it may also be used to bolster border security and conduct maritime surveillance missions.[78]
 
 Current organisation
 
@@ -118,7 +114,7 @@ A 2003 review recommended the air force’s strength be reduced to 65 personnel,
 
 Since 2012, the Australian government has facilitated the lease of two helicopters from Hevilift PNG to provide a rotary wing capability which in 2016 was extended until 2019.[82][83] In February 2016, a contract was signed with New Zealand company Pacific Aerospace for four PAC P-750 XSTOL aircraft for search and rescue and surveillance and two PAC CT/4 Airtrainer aircraft.[84][85][86] The UH-1H Iroquois helicopters and IAI Arava fixed-wing aircraft were to be retired in 2016.[87]
 
-PNG_Defence_Force_CN-235_at_RAAF_Fairbairn.jpg at RAAF Fairbairn in Australia]]
+at RAAF Fairbairn in Australia]]
 
 Current inventory
 
@@ -144,7 +140,7 @@ The Maritime Element is the naval branch of the PNGDF, being mainly a light patr
 
 Current organisation
 
-Naval_Ensign_of_Papua_New_Guinea.svg The navy is commanded by Captain Max Aleale and consists of approximately 200 personnel and is based in Port Moresby, Manus Island and Milne Bay—and currently comprises the following:[96]
+The navy is commanded by Captain Max Aleale and consists of approximately 200 personnel and is based in Port Moresby, Manus Island and Milne Bay—and currently comprises the following:[96]
 
 -   Four s (supplied by Australia under the Pacific Patrol Boat Program); and
 -   Three landing craft (transferred from Royal Australian Navy)[97]
@@ -157,8 +153,6 @@ Australia continues to assist the navy patrol its waters and in the training of 
 Australia is replacing the four Pacific-class boats through the Pacific Patrol Boat Program with the first Austal built Guardian-class boat to be completed in October 2018 and gifted to Papua New Guinea.[100][101]
 
 Vessels
-
-HMPNGS_Seedler.jpg
 
 +-------------------+-----------+-----------------+----------------------------------+
 | Vessel            | Origin    | Type            | Notes                            |

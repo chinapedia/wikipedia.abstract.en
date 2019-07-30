@@ -1,4 +1,4 @@
-Phosphodiesterase-5.png A PHOSPHODIESTERASE INHIBITOR is a drug that blocks one or more of the five subtypes of the enzyme phosphodiesterase (PDE), thereby preventing the inactivation of the intracellular second messengers cyclic adenosine monophosphate (cAMP) and cyclic guanosine monophosphate (cGMP) by the respective PDE subtype(s). The ubiquitous presence of this enzyme means that non-specific inhibitors have a wide range of actions, the actions in the heart, and lungs being some of the first to find a therapeutic use.
+A PHOSPHODIESTERASE INHIBITOR is a drug that blocks one or more of the five subtypes of the enzyme phosphodiesterase (PDE), thereby preventing the inactivation of the intracellular second messengers cyclic adenosine monophosphate (cAMP) and cyclic guanosine monophosphate (cGMP) by the respective PDE subtype(s). The ubiquitous presence of this enzyme means that non-specific inhibitors have a wide range of actions, the actions in the heart, and lungs being some of the first to find a therapeutic use.
 
 
 History
@@ -48,8 +48,6 @@ PDE3 selective inhibitors
 PDE3 is sometimes referred to as cGMP-inhibited phosphodiesterase.
 
 PDE4 selective inhibitors
-
-PDE4-inhibiting_thalidomide_analogs.svg
 
 -   Mesembrenone, an alkaloid from the herb _Sceletium tortuosum_
 -   Rolipram, used as investigative tool in pharmacological research

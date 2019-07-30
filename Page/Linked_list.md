@@ -1,6 +1,5 @@
 In computer science, a LINKED LIST is a linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a _link_) to the next node in the sequence. This structure allows for efficient insertion or removal of elements from any position in the sequence during iteration. More complex variants add additional links, allowing more efficient insertion or removal of nodes at arbitrary positions. A drawback of linked lists is that access time is linear (and difficult to pipeline). Faster access, such as random access, is not feasible. Arrays have better cache locality compared to linked lists.
 
-File:Singly-linked-list.svg
 _A linked list whose nodes contain two fields: an integer value and a link to the next node. The last node is linked to a terminator used to signify the end of the list._
 
 Linked lists are among the simplest and most common data structures. They can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions, though it is not uncommon to implement those data structures directly without using a linked list as the basis.
@@ -43,7 +42,6 @@ Singly linked list
 
 Singly linked lists contain nodes which have a data field as well as 'next' field, which points to the next node in line of nodes. Operations that can be performed on singly linked lists include insertion, deletion and traversal.
 
-Image:Singly-linked-list.svg
 _A singly linked list whose nodes contain two fields: an integer value and a link to the next node_
 
 The following code demonstrates how to add a new node with data "value" to the end of a singly linked list:
@@ -70,7 +68,6 @@ Doubly linked list
 
 In a 'doubly linked list', each node contains, besides the next-node link, a second link field pointing to the 'previous' node in the sequence. The two links may be called 'forward('s') and 'backwards', or 'next' and 'prev'('previous').
 
-Image:Doubly-linked-list.svg
 _A doubly linked list whose nodes contain three fields: an integer value, the link forward to the next node, and the link backward to the previous node_
 
 A technique known as XOR-linking allows a doubly linked list to be implemented using a single link field in each node. However, this technique requires the ability to do bit operations on addresses, and therefore may not be available in some high-level languages.
@@ -85,7 +82,6 @@ Circular linked list
 
 In the last node of a list, the link field often contains a null reference, a special value is used to indicate the lack of further nodes. A less common convention is to make it point to the first node of the list; in that case, the list is said to be 'circular' or 'circularly linked'; otherwise, it is said to be 'open' or 'linear'. It is a list where the last pointer points to the first node.
 
-Image:Circularly-linked-list.svg
 _A circular linked list_
 
 In the case of a circular doubly linked list, the first node also points to the last node of the list.
@@ -202,7 +198,7 @@ Traversal of a singly linked list is simple, beginning at the first node and fol
 
 The following code inserts a node after an existing node in a singly linked list. The diagram shows how it works. Inserting a node before an existing one cannot be done directly; instead, one must keep track of the previous node and insert a node after it.
 
- CPT-LinkedLists-addingnode.svg
+ 
 
  function insertAfter(_Node_ node, _Node_ newNode) _// insert newNode after node_
      newNode.next := node.next
@@ -215,8 +211,6 @@ Inserting at the beginning of the list requires a separate function. This requir
      list.firstNode := newNode
 
 Similarly, we have functions for removing the node _after_ a given node, and for removing a node from the beginning of the list. The diagram demonstrates the former. To find and remove a particular node, one must again keep track of the previous element.
-
-CPT-LinkedLists-deletingnode.svg
 
  function removeAfter(_Node_ node) _// remove node past this one_
      obsoleteNode := node.next

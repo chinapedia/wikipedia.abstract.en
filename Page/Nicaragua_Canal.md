@@ -11,8 +11,6 @@ By May 2017, no concrete action had been reportedly taken constructing the canal
 
 History
 
-Nicaragua_canal_proposals_-_de.svg
-
 The idea of constructing a man-made waterway through Central America has been thought about throughout history. The colonial administration of New Spain conducted preliminary surveys. The routes suggested usually ran across Nicaragua, Panama, or the Isthmus of Tehuantepec in Mexico.
 
 The history of attempts to build a Nicaragua canal connecting the Caribbean Sea and thus the Atlantic Ocean and the Pacific Ocean goes back at least to 1825 when the Federal Republic of Central America hired surveyors to study a route via Lake Nicaragua, above sea level. Many other proposals have followed. Despite the operation of the Panama Canal, which opened in 1914, interest in a Nicaragua canal has continued. With emergence of globalization, an increase in commerce and the cost of fuel, and the limitations of the Panama Canal, the concept of a second canal across the American land bridge became more attractive, and in 2006 the president of Nicaragua, Enrique Bolaños, announced an intention to proceed with such a project.[24] Even with the Panama Canal expansion project, which began commercial operation to modern New Panamax vessels on 26 June 2016,[25] some ships would be too big for the Panama Canal.[26]
@@ -60,7 +58,7 @@ Absent a 60% vote to revoke the legislation,[86] HKND maintains the legal conces
 
 Description
 
-Lake_Nicaragua.jpg would have been the center segment of the Nicaragua Canal]]
+would have been the center segment of the Nicaragua Canal]]
 
 The construction company provided a project description for review on open source, dated December 2014.[88] The canal as planned would have been and would have three sections. The West Canal runs from Brito on the Pacific Ocean up the Rio Brito valley, crosses the continental divide, and after passing through the Rio Las Lajas valley enters Lake Nicaragua; its length would be . The Nicaragua Lake section measures and runs from south of San Jorge to south of San Miguelito. The Eastern Canal would be the longest section at and would be built along the Rio Tule valley through the Caribbean highland to the Rio Punta Gorda valley to meet the Caribbean Sea. A channel would have to be dug in the lake bottom, as it is not deep enough for large vessels to transit the canal.[89]
 

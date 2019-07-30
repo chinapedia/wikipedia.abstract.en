@@ -17,7 +17,7 @@ The academic discipline began between the 16th and 19th centuries with the work 
 
 Training
 
-Edward_Flatau.jpg neurologist Edward Flatau greatly influenced the developing field of neurology. He published a human brain atlas in 1894 and wrote a fundamental book on migraines in 1912.]]Charcot1893.jpg is considered one of the fathers of neurology.[4]]] Many neurologists also have additional training or interest in one area of neurology, such as stroke, epilepsy, neuromuscular, sleep medicine, pain management, or movement disorders.
+neurologist Edward Flatau greatly influenced the developing field of neurology. He published a human brain atlas in 1894 and wrote a fundamental book on migraines in 1912.]] is considered one of the fathers of neurology.[4]]] Many neurologists also have additional training or interest in one area of neurology, such as stroke, epilepsy, neuromuscular, sleep medicine, pain management, or movement disorders.
 
 In the United States and Canada, neurologists are physicians having completed postgraduate training in neurology after graduation from medical school. Neurologists complete, on average, about 8 years of medical college education and clinical training, which includes obtaining a four-year undergraduate degree, a medical degree (DO or MD), which comprises an additional four years of study, then completing one year of basic clinical training and four years of residency.[5] The four-year residency consists of one year of internal medicine internship training followed by three years of training in neurology.
 

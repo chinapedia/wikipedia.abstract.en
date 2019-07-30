@@ -9,8 +9,6 @@ The largest Pomeranian islands are Rügen, Usedom/Uznam and Wolin. The largest P
 
 Geography
 
-Pomeraniae_Ducatus_Tabula.jpg
-
 Borders
 
 Pomerania is the area along the Bay of Pomerania of the Baltic Sea between the rivers Recknitz and Trebel in the west and Vistula in the east.[4][5] It formerly reached perhaps as far south as the Noteć river, but since the 13th century its southern boundary has been placed further north.
@@ -100,7 +98,7 @@ File:Nikolaikirche Rathaus HST.jpg|Stralsund, one of several Hanseatic cities bu
 
 Modern Age
 
-German_Empire_-_Prussia_-_Pomerania_(1871).svg Prussia gained the southern parts of Swedish Pomerania in 1720,[44] invaded and annexed Pomerelia from Poland in 1772, and gained the remainder of Swedish Pomerania in 1815, after the Napoleonic Wars.[45] The former Brandenburg-Prussian Pomerania and the former Swedish parts were reorganized into the Prussian Province of Pomerania,[46] while Pomerelia was made part of the Province of West Prussia. With Prussia, both provinces joined the newly constituted German Empire in 1871. Under the German rule the Polish minority suffered discrimination and oppressive measures aimed at eradicating its culture. Following the empire's defeat in World War I, however, Pomorze Gdańskie/Pomerelia was returned to the rebuilt Polish state as part of the so-called Polish Corridor), while German-majority Gdansk/Danzig was transformed into the independent Free City of Danzig. Germany's Province of Pomerania was expanded in 1938 to include northern parts of the former Province of Posen–West Prussia, and in late 1939 the annexed Pomorze Gdańskie/Polish Corridor became part of the wartime Reichsgau Danzig-West Prussia. The Nazis deported the Pomeranian Jews to a reservation near Lublin[47] in Pomerelia. The Polish population suffered heavily during the Nazi oppression; more than 40,000 died in executions, death camps, prisons and forced labour, primarily those who were teachers, businessmen, priests, politicians, former army officers, and civil servants.[48] Thousands of Poles and Kashubians suffered deportation, their homes taken over by the German military and civil servants, as well as some Baltic Germans resettled there between 1940-1943.
+Prussia gained the southern parts of Swedish Pomerania in 1720,[44] invaded and annexed Pomerelia from Poland in 1772, and gained the remainder of Swedish Pomerania in 1815, after the Napoleonic Wars.[45] The former Brandenburg-Prussian Pomerania and the former Swedish parts were reorganized into the Prussian Province of Pomerania,[46] while Pomerelia was made part of the Province of West Prussia. With Prussia, both provinces joined the newly constituted German Empire in 1871. Under the German rule the Polish minority suffered discrimination and oppressive measures aimed at eradicating its culture. Following the empire's defeat in World War I, however, Pomorze Gdańskie/Pomerelia was returned to the rebuilt Polish state as part of the so-called Polish Corridor), while German-majority Gdansk/Danzig was transformed into the independent Free City of Danzig. Germany's Province of Pomerania was expanded in 1938 to include northern parts of the former Province of Posen–West Prussia, and in late 1939 the annexed Pomorze Gdańskie/Polish Corridor became part of the wartime Reichsgau Danzig-West Prussia. The Nazis deported the Pomeranian Jews to a reservation near Lublin[47] in Pomerelia. The Polish population suffered heavily during the Nazi oppression; more than 40,000 died in executions, death camps, prisons and forced labour, primarily those who were teachers, businessmen, priests, politicians, former army officers, and civil servants.[48] Thousands of Poles and Kashubians suffered deportation, their homes taken over by the German military and civil servants, as well as some Baltic Germans resettled there between 1940-1943.
 
 After Nazi Germany's defeat in World War II, the German–Polish border was shifted west to the Oder–Neisse line, and all of Pomerania was under Soviet military control.[49][50] The German citizens of the former eastern territories of Germany and Poles of German ethnicity from Pomerelia were expelled, and the area was resettled primarily with Poles of Polish ethnicity, (some themselves expellees from former eastern Poland) and some Poles of Ukrainian ethnicity (resettled under Operation Vistula) and few Polish Jews.[51][52][53] Most of Hither or Western Pomerania (_Vorpommern_) remained in Germany, and at first about 500,000 fled and expelled Farther Pomeranians found refuge there, later many moved on to other German regions and abroad. Today German Hither Pomerania forms the eastern part of the state of Mecklenburg-Vorpommern, while the Polish part is divided between the West Pomeranian and Pomeranian voivodeships, with their capitals in Szczecin and Gdańsk. During the 1980s, the Solidarity and _Die Wende_ ("the change") movements overthrew the Communist regimes implemented during the post-war era; since then, Pomerania is democratically governed.
 
@@ -109,7 +107,7 @@ Pomerania still lives in the country of Brazil in a colony where the language is
 
 Demographics
 
-Dzewus_w_kaszebsczich_ruchnach.jpg in regional dress]] Western Pomerania is inhabited by German Pomeranians. In the eastern parts, Poles are the dominating ethnic group since the territorial changes of Poland after World War II, and the resulting Polonization. Kashubians, descendants of the medieval Slavic Pomeranians, are numerous in rural Pomerelia.
+in regional dress]] Western Pomerania is inhabited by German Pomeranians. In the eastern parts, Poles are the dominating ethnic group since the territorial changes of Poland after World War II, and the resulting Polonization. Kashubians, descendants of the medieval Slavic Pomeranians, are numerous in rural Pomerelia.
 
 +--------------------------------------+---------------------------+----------------------------------------------------------+-----------+-------------------------+-------------+
 | Polish VOIVODESHIP/                  | CAPITAL                   | REGISTRATION                                             | AREA      | POPULATION              | TERRITORIAL |
@@ -167,8 +165,6 @@ Culture
 
 Languages and dialects
 
-Pommern_1892.jpg
-
 In the German part of Pomerania, Standard German and the East Low German Mecklenburgisch-Vorpommersch and Central Pomeranian dialects are spoken, though Standard German dominates. Polish is the dominating language in the Polish part; Kashubian dialects are also spoken by the Kashubians in Pomerelia.
 
 East Pomeranian, the East Low German dialect of Farther Pomerania and western Pomerelia, Low Prussian, the East Low German dialect of eastern Pomerelia, and Standard German were dominating in Pomerania east of the Oder-Neisse line before most of its speakers were expelled after World War II. Slovincian was spoken at the Farther Pomeranian–Pomerelian frontier, but is now extinct.
@@ -181,7 +177,7 @@ _For typical food and beverages of the region, see Pomeranian cuisine._
 
 Museums
 
-Wik_22_Szczecin_Pałac_Sejmu_Stanów_Pomorskich.jpg in Szczecin (_Pałac Sejmu Stanów Pomorskich_, _Landeshaus_)]]
+in Szczecin (_Pałac Sejmu Stanów Pomorskich_, _Landeshaus_)]]
 
 The Pomeranian State Museum in Greifswald, dedicated to the history of Pomerania, has a variety of archeological findings and artefacts from the different periods covered in this article. At least 50 museums in Poland cover history of Pomerania, the most important of them The National Museum in Gdańsk, Central Pomerania Museum in Słupsk,[56] Darłowo Museum,[57] Koszalin Museum,[58] National Museum in Szczecin.[59]
 

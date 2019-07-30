@@ -40,7 +40,7 @@ In 1958 Kuwaiti officers were sent to the Military Academies in Egypt and Iraq t
 
 Operation Vantage 1961
 
-HMS_Victorious_(R38)_aerial_c1959.jpeg taking part in Operation Vantage in support of Kuwait in July 1961.]] After 62 years as a British protectorate, Kuwait declared independence in 1961. Iraq immediately claimed that Kuwait was actually an Iraqi province, and threatened to invade to implement the claim. Britain flew troops into the newly-independent country to forestall Iraq, an operation called Operation Vantage.[14]
+taking part in Operation Vantage in support of Kuwait in July 1961.]] After 62 years as a British protectorate, Kuwait declared independence in 1961. Iraq immediately claimed that Kuwait was actually an Iraqi province, and threatened to invade to implement the claim. Britain flew troops into the newly-independent country to forestall Iraq, an operation called Operation Vantage.[14]
 
 In 1961, Field Marshal Abdullah Mubarak Al-Sabah, the Commander General of the Army was followed by the leadership of Brigadier General Mubarak Abdullah Al-Jaber Al-Sabah and his deputy Colonel Saleh Mohammed Al-Sabah who stepped in to take part in Operation Vantage along with the already active Kuwait 25th Commando Brigade as the Army was put on their second alert phase. Also during the same year, the Kuwait Flying Club was separated from the Civilian Aviation Directorate and the Kuwait Air Force was officially enacted. Also in 1961, the Universal Carrier was retired from the Kuwait Army. Over the following years and through combat experiences; Kuwait built a small effective military force including a land force, navy, air force, national guard, existing police force and fire service directorate.[15]
 
@@ -70,7 +70,7 @@ Double-fronted wars: 1973 Samita border skirmish and October War
 
 In 1973, the Kuwait Armed Forces entered into their third alert phase with the beginning of the 1973 Samita border skirmish which led to a significant change in the operational capabilities of the Armed Forces.
 
-Also in 1973, the leadership of the Armed Forces found itself battle readying on two fronts. While components of the Armed Forces were readying to fight following the skirmish on the Kuwaiti border, Kuwait sent a token force to participate on the West Bank of the Jordan River[19] alongside the Iraqi Armed Forces on the Egyptian and Syrian fronts during the 1973 October War against the State of Israel (also known as the Yom Kippur war), being especially heavily combat engaged on the Syrian front. As in 1967, Kuwaiti participation was too small to have any significant impact;[20] nevertheless as in 1967, the various combat operational unit assets forming, exercised their Arab principle of solidarity and completed their mission. During 1973 the Kuwait Armed Forces officially enacted the Kuwait Naval Armed Service; mainly the Kuwait Navy. Kuwaiti_Army_1973.JPG in the Golan Heights]]
+Also in 1973, the leadership of the Armed Forces found itself battle readying on two fronts. While components of the Armed Forces were readying to fight following the skirmish on the Kuwaiti border, Kuwait sent a token force to participate on the West Bank of the Jordan River[19] alongside the Iraqi Armed Forces on the Egyptian and Syrian fronts during the 1973 October War against the State of Israel (also known as the Yom Kippur war), being especially heavily combat engaged on the Syrian front. As in 1967, Kuwaiti participation was too small to have any significant impact;[20] nevertheless as in 1967, the various combat operational unit assets forming, exercised their Arab principle of solidarity and completed their mission. During 1973 the Kuwait Armed Forces officially enacted the Kuwait Naval Armed Service; mainly the Kuwait Navy. in the Golan Heights]]
 
 In 1973 the leadership of the Armed Forces led a double fronted war with and against the same forming Arab belligerent for the State of Kuwait. The leadership led the Kuwait Armed Forces brigades through their combat commanders engaged on both Syrian and Egyptian fronts during the war against Israel with and alongside the Iraqi Armed Forces while simultaneously part leading and engaging the remainder of the Kuwaiti forces on the Kuwaiti border due to the effects of the 1973 Sanita combat engagement.
 
@@ -110,7 +110,7 @@ In 1988, the Kuwait Land Force was officially designated as the land component o
 
 In 1989, the Kuwait Armed Forces signed on the delivery of F/A-18 Hornets and launched the opening of the new Kuwaiti Military Hospital.
 
-A-4KUs_13Feb1991.jpg aircraft of the Kuwaiti Air Force are serviced on a flight line in preparation for a mission during Operation Desert Storm on 13 Feb 1991]]
+aircraft of the Kuwaiti Air Force are serviced on a flight line in preparation for a mission during Operation Desert Storm on 13 Feb 1991]]
 
 Iraqi invasion and aftermath (1990)
 
@@ -120,7 +120,7 @@ Iraqi forces seized all the heavy military equipment of the Kuwaiti military and
 
 Gulf War and Operation Desert Storm (1990–1991)
 
-Kuwaiti_M-84,_Operation_Desert_Storm.jpg MBTs.]] DesertStormMap_v2.svg]] In the same year Kuwait was part of a U.S.-led military coalition formed in response to the invasion which expelled Iraq from Kuwait in what became known as the Gulf War or First Persian Gulf War. Operation Desert Storm was launched by the coalition. Douglas A-4 Skyhawks of the Kuwait Air Force destroyed several Iraqi Naval ships trying to infiltrate into Bubiyan Island. The Kuwait Armed Forces commissioned and entered into service the M-84 battle tank during the attack on Iraqi forces in Saudi Arabia.
+MBTs.]] ]] In the same year Kuwait was part of a U.S.-led military coalition formed in response to the invasion which expelled Iraq from Kuwait in what became known as the Gulf War or First Persian Gulf War. Operation Desert Storm was launched by the coalition. Douglas A-4 Skyhawks of the Kuwait Air Force destroyed several Iraqi Naval ships trying to infiltrate into Bubiyan Island. The Kuwait Armed Forces commissioned and entered into service the M-84 battle tank during the attack on Iraqi forces in Saudi Arabia.
 
 After the four-week air campaign, coalition forces launched the ground offensive. They quickly penetrated deep into Iraq, with the Legion taking the Al Salman Airport, meeting little resistance. The war ended after a hundred hours of fighting on the ground, which resulted in very light casualties for the Legion.
 

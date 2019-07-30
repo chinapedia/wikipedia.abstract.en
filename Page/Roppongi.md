@@ -1,13 +1,13 @@
-Roppongi_Hills_and_Tokyo_Midtown_2011_January.jpg' buildings (center and right) and Tokyo Midtown Tower (left)]] is a district of Minato, Tokyo, Japan, famous for the affluent Roppongi Hills development area and popular night club scene. A few foreign embassies are located near Roppongi, and the night life is popular with locals and foreigners alike. It is in the central part of Tokyo, south of Akasaka and north of Azabu.
+' buildings (center and right) and Tokyo Midtown Tower (left)]] is a district of Minato, Tokyo, Japan, famous for the affluent Roppongi Hills development area and popular night club scene. A few foreign embassies are located near Roppongi, and the night life is popular with locals and foreigners alike. It is in the central part of Tokyo, south of Akasaka and north of Azabu.
 
 
 History
 
-Roppongi_Area_from_Tokyo_Tower.jpg The name "Roppongi", which appears to have been coined around 1660, literally means "six trees". Six very old and large zelkova trees used to mark the area; the first three were cleared, and the last were destroyed during World War II.[1] Another legend has it that the name comes from the fact that six _daimyōs_ lived nearby during the Edo period, each with the kanji character for "tree" or a kind of tree in their names. Roppongi was not extensively populated until after the Meiji Restoration, although the area was trafficked for centuries and served as the site of the cremation of Shōgun Tokugawa Hidetada's wife in 1626.[2]
+The name "Roppongi", which appears to have been coined around 1660, literally means "six trees". Six very old and large zelkova trees used to mark the area; the first three were cleared, and the last were destroyed during World War II.[1] Another legend has it that the name comes from the fact that six _daimyōs_ lived nearby during the Edo period, each with the kanji character for "tree" or a kind of tree in their names. Roppongi was not extensively populated until after the Meiji Restoration, although the area was trafficked for centuries and served as the site of the cremation of Shōgun Tokugawa Hidetada's wife in 1626.[2]
 
 In 1890, the Third Imperial Guard of the Imperial Japanese Army was moved to a site near Roppongi (now home to the Pacific bureau of _Stars and Stripes_). The influx of soldiers led to the area's rise as a nightlife district, briefly interrupted by the Great Kanto earthquake which flattened the area in 1923.[3] Roppongi was administratively part of Azabu Ward from 1878 to 1947.
 
-Akasaka_Press_Center_overview.JPG'' office in Roppongi-Nanachōme]] Apartment_complex_for_US_embassy_employees_Roppongi_Tokyo.jpg Housing Compound in Roppongi-Nichōme]] After World War II, during which the area was again destroyed, this time by aerial bombing raids, the United States Army and Allied government officials occupied several facilities in the area, beginning Roppongi's reputation as a neighborhood with large numbers of non-Japanese. Several large US military installations were located in the nearby area, with Hardy Barracks probably the most significant (the US Embassy Housing Compound and Akasaka Press Center including Hardy Barracks Recreational Lodging, _Stars and Stripes_ office and heliport are still there). Surrounding the military installations were many Japanese-owned restaurants, pool halls, bars, and brothels which catered to US military personnel but were also often frequented by Japanese customers.
+'' office in Roppongi-Nanachōme]] Housing Compound in Roppongi-Nichōme]] After World War II, during which the area was again destroyed, this time by aerial bombing raids, the United States Army and Allied government officials occupied several facilities in the area, beginning Roppongi's reputation as a neighborhood with large numbers of non-Japanese. Several large US military installations were located in the nearby area, with Hardy Barracks probably the most significant (the US Embassy Housing Compound and Akasaka Press Center including Hardy Barracks Recreational Lodging, _Stars and Stripes_ office and heliport are still there). Surrounding the military installations were many Japanese-owned restaurants, pool halls, bars, and brothels which catered to US military personnel but were also often frequented by Japanese customers.
 
 Starting in the late 1960s, Roppongi became popular among Japanese people and foreigners alike for its disco scene, which attracted many of Tokyo's entertainment elites. Contributing to the international scene was the location of several foreign embassies and foreign corporate offices in the Roppongi area. However, many dance clubs shut down in the recession following the market crash of 1989.
 
@@ -18,7 +18,7 @@ Nightlife
 
 The area features numerous bars, nightclubs, strip clubs, restaurants, hostess clubs, cabarets, and other forms of entertainment. Among the expatriate community, the area tends to be favored by business people, students, and off-duty US military personnel. Overall, the neighborhood caters to a younger crowd.
 
-Roppongi_kosaten_0105.jpg Clubs can range from large, multi-level establishments, to smaller one-room clubs located in upper levels of buildings. In more recent times some of the larger venues with known Yakuza connections have closed. 1 Around Roppongi crossing are a number of clubs which feature foreign performers. There are also a number of both foreign- and Japanese-operated bars catering to different crowds. Recently, Roppongi has enjoyed a growing reputation for its organized events such as art festivals, dart and billiard tournaments, pub crawls 2, robot exhibitions, beauty pageants, and so on.
+Clubs can range from large, multi-level establishments, to smaller one-room clubs located in upper levels of buildings. In more recent times some of the larger venues with known Yakuza connections have closed. 1 Around Roppongi crossing are a number of clubs which feature foreign performers. There are also a number of both foreign- and Japanese-operated bars catering to different crowds. Recently, Roppongi has enjoyed a growing reputation for its organized events such as art festivals, dart and billiard tournaments, pub crawls 2, robot exhibitions, beauty pageants, and so on.
 
 Restaurants in Roppongi vary from upscale Japanese fare to popular international restaurants.
 
@@ -32,7 +32,7 @@ In 2006, Nigerian immigrants to Japan began opening a number of bars and nightcl
 
 Economy
 
-Mori_Tower_Under_View.jpg Roppongi_tv_asahi.jpg, which moved its headquarters to Roppongi Hills from Ark Hills in 2003]] Mori Building Company and The Pokémon Company have their headquarters in the Roppongi Hills Mori Tower.[9][10][11]
+, which moved its headquarters to Roppongi Hills from Ark Hills in 2003]] Mori Building Company and The Pokémon Company have their headquarters in the Roppongi Hills Mori Tower.[9][10][11]
 
 Companies based in Roppongi include:
 
@@ -57,7 +57,7 @@ Rail and subway stations
 
 Education
 
-Roppongi_highschool.jpg]] Public elementary and middle schools are operated by the Minato City (the Minato Ward) Board of Education.[16] Roppongi Junior High School is located at Imoarai-Zaka, in Roppongi.
+]] Public elementary and middle schools are operated by the Minato City (the Minato Ward) Board of Education.[16] Roppongi Junior High School is located at Imoarai-Zaka, in Roppongi.
 
 Public high schools are operated by the Tokyo Metropolitan Government Board of Education. Roppongi High School is located in Roppongi.[17]
 

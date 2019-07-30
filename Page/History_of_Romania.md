@@ -3,7 +3,7 @@ This article provides an overview of the HISTORY OF ROMANIA; further details are
 
 Prehistory
 
-Hamangia_Muzeul_din_Constanta.JPG'', Neolithic Hamangia culture (c. 5250 – 4550 BC)]]
+'', Neolithic Hamangia culture (c. 5250 – 4550 BC)]]
 
 34,950 year old modern human remains with a possible Neaderthalian trait were discovered in present-day Romania when the _Peștera cu Oase_ ("Cave with Bones") was uncovered in 2002.[1] In 2011 older modern human remains were identified in the UK (Kents Cavern 41,500 to 44,200 years old) and Italy (Grotta del Cavallo 43,000 to 45,000 years old),[2] nonetheless the Romanian fossils are still among the oldest remains of _Homo sapiens_ in Europe, so they may be representative of the first such people to have entered the continent.[3] The remains are especially interesting because they present a mixture of archaic, early modern human and Neanderthal morphological features.[4][5][6] [7]
 
@@ -12,7 +12,7 @@ The Neolithic-Age Cucuteni area in northeastern Romania was the western region o
 
 Dacia
 
-Sarmizegetusa_Regia_-_Sanctuarul_mare_circular._(Zona_sacra).jpg of the ancient Dacian Kingdom capital, Sarmizegetusa Regia]] The earliest written evidence of people living in the territory of the present-day Romania comes from Herodotus in book IV of his _Histories_ written c. 440 BCE. Herein he writes that the tribal confederation of the Getae were defeated by the Persian Emperor Darius the Great during his campaign against the Scythians.[10] The Dacians, widely accepted as part of the Getae described earlier by the Greeks, were a branch of Thracians that inhabited Dacia (corresponding to modern Romania, Moldova, northern Bulgaria and surroundings).
+of the ancient Dacian Kingdom capital, Sarmizegetusa Regia]] The earliest written evidence of people living in the territory of the present-day Romania comes from Herodotus in book IV of his _Histories_ written c. 440 BCE. Herein he writes that the tribal confederation of the Getae were defeated by the Persian Emperor Darius the Great during his campaign against the Scythians.[10] The Dacians, widely accepted as part of the Getae described earlier by the Greeks, were a branch of Thracians that inhabited Dacia (corresponding to modern Romania, Moldova, northern Bulgaria and surroundings).
 
 The Dacian Kingdom reached its maximum expansion during King Burebista, between 82 BCE - 44 BCE. Under his leadership Dacia became a powerful state which threatened the regional interests of the Romans. Julius Caesar intended to start a campaign against the Dacians, due to the support that Burebista gave to Pompey, but was assassinated in 44 BC. A few months later, Burebista shared the same fate, assassinated by his own noblemen. Another theory suggests that he was killed by Caesar's friends. His powerful state was divided in four and did not become unified again until 95 AD, under the reign of the Dacian king Decebalus.
 
@@ -20,14 +20,14 @@ The Roman Empire conquered Moesia by 29 BC, reaching the Danube. In 87 AD Empe
 
 Roman Dacia (106–275 AD)
 
-Roman_province_of_Dacia_(106_-_271_AD).svg, between 106 and 271 AD.]] The Romans exploited the rich ore deposits of Dacia. Gold and silver were especially plentiful,[12] and were found in great quantities in the Western Carpathians. After Trajan's conquest, he brought back to Rome over 165 tons of gold and 330 tons of silver. The Romans heavily colonized the province,[13] and thus started a period of intense romanization, the Vulgar Latin giving birth to the Proto-Romanian language.[14][15]
+, between 106 and 271 AD.]] The Romans exploited the rich ore deposits of Dacia. Gold and silver were especially plentiful,[12] and were found in great quantities in the Western Carpathians. After Trajan's conquest, he brought back to Rome over 165 tons of gold and 330 tons of silver. The Romans heavily colonized the province,[13] and thus started a period of intense romanization, the Vulgar Latin giving birth to the Proto-Romanian language.[14][15]
 
 The geographical position of Dacia made it difficult to defend against the barbarians, and during 240–256 AD, under the attacks of the Carpi and the Goths, Dacia was lost. The Roman Empire withdrew from _Dacia Romana_ around 271 AD, thus making it the first province to be abandoned.[16][17]
 
 
 Early Middle Ages
 
-Balkans_about_680_A.D.,_foundation_of_the_First_Bulgarian_Empire.pngAfter the disintegration of Great Bulgaria following Khan Kubrat's death in 668 a large group of Bulgars followed the third son of the great Khan, Asparukh, who headed westwards. In the 670's they settled in the area known as the Ongal to the north of the Danube delta. From there Asparukh's cavalry in alliance with local Slavs annually attacked the Byzantine territories in the south. In 680 the Byzantine Emperor Constantine IV lead a large army to face the Bulgars but was defeated in the battle of Ongal and as a result the Byzantines were forced to acknowledge the formation of a new country, the First Bulgarian Empire. The northern border of the country followed the southern slopes of the Carpathian mountains from the Iron Gates and reached the Dneper river (or possibly just the Dniester river) to the east. Between 271 and 275, the Roman army and administration left Dacia, which was invaded afterwards by the Goths.[18] The Goths mixed with the local people until the 4th century, when a nomadic people, the Huns, arrived.[19] The Gepids,[20][21] the Avars, the Bulgars and their Slavic subjects[22] ruled Transylvania until the 8th century. The territories of Wallachia and Moldavia were under the control of the First Bulgarian Empire from its establishment in 681, until approximately the Hungarians' conquest of Transylvania at the end of the 10th century.[23]
+After the disintegration of Great Bulgaria following Khan Kubrat's death in 668 a large group of Bulgars followed the third son of the great Khan, Asparukh, who headed westwards. In the 670's they settled in the area known as the Ongal to the north of the Danube delta. From there Asparukh's cavalry in alliance with local Slavs annually attacked the Byzantine territories in the south. In 680 the Byzantine Emperor Constantine IV lead a large army to face the Bulgars but was defeated in the battle of Ongal and as a result the Byzantines were forced to acknowledge the formation of a new country, the First Bulgarian Empire. The northern border of the country followed the southern slopes of the Carpathian mountains from the Iron Gates and reached the Dneper river (or possibly just the Dniester river) to the east. Between 271 and 275, the Roman army and administration left Dacia, which was invaded afterwards by the Goths.[18] The Goths mixed with the local people until the 4th century, when a nomadic people, the Huns, arrived.[19] The Gepids,[20][21] the Avars, the Bulgars and their Slavic subjects[22] ruled Transylvania until the 8th century. The territories of Wallachia and Moldavia were under the control of the First Bulgarian Empire from its establishment in 681, until approximately the Hungarians' conquest of Transylvania at the end of the 10th century.[23]
 
 The Bulgarian's main rivals in the area were the Avars to the west and the Khazars to the east. The latter were a serious threat: after they crushed the resistance of Kubrat's eldest son, Bayan they marched westwards. They waged a war against Asparukh who perished in battle fighting the invaders in 700.
 
@@ -42,7 +42,7 @@ The Pechenegs,[24] the Cumans[25] and Uzes were also mentioned by historic chron
 
 High Middle Ages
 
-Castelul_Bran2.jpg (, ) built in 1212, is commonly known as _Dracula's Castle_ and is situated in the centre of present-day Romania. In addition to its unique architecture, the castle is famous because of persistent myths that it was once the home of Vlad III Dracula.]]
+(, ) built in 1212, is commonly known as _Dracula's Castle_ and is situated in the centre of present-day Romania. In addition to its unique architecture, the castle is famous because of persistent myths that it was once the home of Vlad III Dracula.]]
 
 The Pechenegs (a semi-nomadic Turkic people of the Central Asian steppes) occupied the steppes north of the Black Sea (8th–12th century) and by the 10th century they were in control of all the lands between the Don and lower Danube rivers.[28] During the 11th and 12th century, the nomadic confederacy of the Cumans and (Eastern) Kipchaks (who are considered to be either the eastern branch of the Cumans or a distinct but related tribe with whom the Cumans have created a confederacy) were the dominant force over the vast territories stretching from as far as present-day Kazakhstan, southern Russia, Ukraine, down to southern Moldavia and western Wallachia.[29][30][31][32]
 
@@ -61,13 +61,13 @@ Although the core religious vocabulary of the Romanian language originated from 
 
 Early modern period
 
-Stema_Mihai_Viteazul.jpg By 1541, the entire Balkan peninsula and most of Hungary became Ottoman provinces. In contrast, Moldavia, Wallachia, and Transylvania, came under Ottoman suzerainty, but conserved fully internal autonomy and, until the 18th century, some external independence. During this period, the Romanian lands were characterized by the slow disappearance of the feudal system and the distinguishment of some rulers like Vasile Lupu and Dimitrie Cantemir in Moldavia, Matei Basarab and Constantin Brâncoveanu in Wallachia, and Gabriel Bethlen in Transylvania. At that time the Russian Empire appeared to become the political and military power which threatened the Romanian principalities.
+By 1541, the entire Balkan peninsula and most of Hungary became Ottoman provinces. In contrast, Moldavia, Wallachia, and Transylvania, came under Ottoman suzerainty, but conserved fully internal autonomy and, until the 18th century, some external independence. During this period, the Romanian lands were characterized by the slow disappearance of the feudal system and the distinguishment of some rulers like Vasile Lupu and Dimitrie Cantemir in Moldavia, Matei Basarab and Constantin Brâncoveanu in Wallachia, and Gabriel Bethlen in Transylvania. At that time the Russian Empire appeared to become the political and military power which threatened the Romanian principalities.
 
 John II, the non-Habsburg king of Hungary, moved his royal court to Alba Iulia in Transylvania, and after his abdication from the Hungarian throne, he became the first "Prince of Transylvania". His Edict of Turda was the first decree of religious freedom in the modern European history (1568). In the aftermath Transylvania was ruled by mostly Calvinist Hungarian princes (until the end of the 17th century), and Protestantism flourished in the region.
 
 Michael the Brave (Romanian: Mihai Viteazul) was the Prince of Wallachia (1593–1601), of Transylvania (1599–1600), and of Moldavia (1600). For a short time during his reign Transylvania was ruled together with Moldavia and Wallachia in a personal union.[57] After his death the union dissolved and as vassal tributary states Moldavia and Wallachia still had an internal autonomy and some external independence, which was finally lost in the 18th century.
 
-Europe_map_1648.PNG Principati1786.jpg and Wallachia in 1786, Italian map by G. Pittori, since the geographer Giovanni Antonio Rizzi Zannoni.]] The Principality of Transylvania reached its golden age under the absolutist rule of Gábor Bethlen (1613–1629). In 1699, Transylvania became a part of the Habsburg Monarchy, following the Austrian victory over the Turks. The Habsburgs, in their turn, rapidly expanded their empire: in 1718 a major part of Wallachia, Oltenia, was annexed to the Habsburg monarchy and was only returned in 1739. In 1775, though the Habsburgs later occupied the north-western part of Moldavia, later on called Bukovina, and was incorporated to the Austrian Empire in 1804. The eastern half of the principality (by the name of Bessarabia) was occupied in 1812 by Russia.
+and Wallachia in 1786, Italian map by G. Pittori, since the geographer Giovanni Antonio Rizzi Zannoni.]] The Principality of Transylvania reached its golden age under the absolutist rule of Gábor Bethlen (1613–1629). In 1699, Transylvania became a part of the Habsburg Monarchy, following the Austrian victory over the Turks. The Habsburgs, in their turn, rapidly expanded their empire: in 1718 a major part of Wallachia, Oltenia, was annexed to the Habsburg monarchy and was only returned in 1739. In 1775, though the Habsburgs later occupied the north-western part of Moldavia, later on called Bukovina, and was incorporated to the Austrian Empire in 1804. The eastern half of the principality (by the name of Bessarabia) was occupied in 1812 by Russia.
 
 During the Austro-Hungarian rule in Transylvania, Romanians formed the majority of the population,[58][59] nationality issues occurred between Hungarians and Romanians due to the Magyarization policy.[60]
 
@@ -75,7 +75,7 @@ After the defeat to the Russians, the Ottoman Empire restored the Danube ports o
 
 Revolutions of 1848
 
-Peles-Castle-Sinaia-Romania.jpg, retreat of Romanian monarchs]] As in other European countries, 1848 brought up the revolution upon Moldavia, Wallachia and Transylvania, through Tudor Vladimirescu and his Pandurs in the Wallachian uprising of 1821. The goals of the revolutionaries - full independence for Moldavia and Wallachia, and national emancipation in Transylvania - remained unfulfilled, but were the basis of the subsequent revolutions. The uprising helped the population of all three principalities recognize their unity of language and interests; all three Romanian principalities were very close, not only in language, but also geographically.
+, retreat of Romanian monarchs]] As in other European countries, 1848 brought up the revolution upon Moldavia, Wallachia and Transylvania, through Tudor Vladimirescu and his Pandurs in the Wallachian uprising of 1821. The goals of the revolutionaries - full independence for Moldavia and Wallachia, and national emancipation in Transylvania - remained unfulfilled, but were the basis of the subsequent revolutions. The uprising helped the population of all three principalities recognize their unity of language and interests; all three Romanian principalities were very close, not only in language, but also geographically.
 
 After the unsuccessful 1848 Revolution, the Great Powers rejected the Romanians' expressed desire to officially unite in a single state, forcing the Romanians to proceed alone their struggle against the Turks. Heavily taxed and badly administered under the Ottoman Empire, in 1859, people's representatives in both Moldavia and Wallachia elected the same "Domnitor" (ruling Prince of the Romanians) : Alexandru Ioan Cuza.[61]
 
@@ -88,7 +88,7 @@ In Romania in the late 18th and early 19th centuries (1750—1830s) the exclusio
 
 Independence and Kingdom of Romania
 
-RomaniaBorderHistoryAnnimation_1859-2010.gif In an 1866 _coup d'état_, Cuza was exiled and replaced by Prince Karl of Hohenzollern-Sigmaringen, who became known as Prince Carol of Romania. He was appointed Domnitor - Ruling Prince of the United Principality of Romania, as Prince Carol of Romania.
+In an 1866 _coup d'état_, Cuza was exiled and replaced by Prince Karl of Hohenzollern-Sigmaringen, who became known as Prince Carol of Romania. He was appointed Domnitor - Ruling Prince of the United Principality of Romania, as Prince Carol of Romania.
 
 Romania declared its independence from the Ottoman Empire after the Russo-Turkish War, 1877-78 in which it fought on the Russian side.[63]
 
@@ -105,7 +105,7 @@ The governments of Britain and the United States repeatedly protested the brutal
 
 World War I
 
-Romanians_before_WW1.jpg The new state, squeezed between the great powers of the Ottoman, Austro-Hungarian, and Russian empires, looked to the West, particularly France, for its cultural, educational, military and administrative models.
+The new state, squeezed between the great powers of the Ottoman, Austro-Hungarian, and Russian empires, looked to the West, particularly France, for its cultural, educational, military and administrative models.
 
 In August 1914, when World War I broke out, Romania declared neutrality. Two years later, under the pressure of the Allies (especially France desperate to open a new front), on 14/27 August 1916 it joined the Allies, for which Romania was promised support for the accomplishment of national unity, including recognition of Romanian rights over Transylvania (which was at that time part of Austria-Hungary); Romania declared war on Austria-Hungary.[69]
 
@@ -118,7 +118,7 @@ By the 1920 Treaty of Trianon, Hungary renounced in favour of Romania all the cl
 
 Greater Romania (1918–1940)
 
-Romania_MASSR_1920.png The Romanian expression România Mare (literal translation "Great Romania", but more commonly rendered "Greater Romania") generally refers to the Romanian state in the interwar period, and by extension, to the territory Romania covered at the time (see map). Romania achieved at that time its greatest territorial extent (almost [73]), managing to unite all the historic Romanian lands.
+The Romanian expression România Mare (literal translation "Great Romania", but more commonly rendered "Greater Romania") generally refers to the Romanian state in the interwar period, and by extension, to the territory Romania covered at the time (see map). Romania achieved at that time its greatest territorial extent (almost [73]), managing to unite all the historic Romanian lands.
 
 Historically, Greater Romania—_România Mare_—represented one of the ideals of Romanian nationalism. Greater Romania is still seen by many as a "paradise lost", often by comparison with the "stunted" Communist Romania. To exploit the nationalistic connotation of the term, a nationalist political party uses it as its name.
 
@@ -126,22 +126,20 @@ In 1918, at the end of World War I, Bessarabia united with the Romanian Old King
 
 Most of the claimed territories were granted to the Old Kingdom of Romania, ratified in 1920 by the Treaty of Trianon, which settled the new border between the independent Kingdom of Hungary and the Kingdom of Romania. The union of Bucovina and Bessarabia with Romania was ratified in 1920 by the Treaty of Versailles. Romania had also recently acquired the Southern Dobruja territory called "The Quadrilateral" from Bulgaria as a result of its participation in the Second Balkan War in 1913.
 
-Alba_Iulia_Resolution.jpg
-
 As a result of the peace treaties, most regions with clear Romanian majorities into the boundaries of a single state. However, it also led to the inclusion of various sizable minorities, including Magyars (ethnic Hungarians), Germans, Jews, Ukrainians, Bulgarians, etc., for a total of about 28% of the population (Magyars mostly in Transylvania; Germans in Transylvania, Bukovina, and Banat; Ukrainians in part of Bessarabia and Bukovina, Bulgarians in Dobrudja).
 
 Recognized by the Romanian Constitution of 1923 and supported by various laws (education, electoral, etc.), national minorities were represented in Parliament, and several of them created national parties (the Magyars in 1922, the Germans in 1929, the Jews in 1931), although a unique standing of minorities with autonomy on a wide basis, provided for at the assembly of Transylvanian Romanians on 1 December 1918 were not fulfilled.
 
 Transition to authoritarian rule
 
-Two periods can be identified in Romania between the two World Wars. From 1918 to 1938, Romania was a liberal constitutional monarchy, but one facing the rise of the nationalist, anti-semitic parties, particularly Iron Guard, which won about 15% of the votes in the general elections of 1937. From 1938 to 1944, Romania was a dictatorship. The first dictator was King Carol II, who abolished the parliamentary regime and ruled with his _camarilla_. Romania_territory_during_20th_century.gif and WWI but were lost after WWII, and pink indicates areas that joined Romania after WWI and remained so after WWII.]]
+Two periods can be identified in Romania between the two World Wars. From 1918 to 1938, Romania was a liberal constitutional monarchy, but one facing the rise of the nationalist, anti-semitic parties, particularly Iron Guard, which won about 15% of the votes in the general elections of 1937. From 1938 to 1944, Romania was a dictatorship. The first dictator was King Carol II, who abolished the parliamentary regime and ruled with his _camarilla_. and WWI but were lost after WWII, and pink indicates areas that joined Romania after WWI and remained so after WWII.]]
 
 In 1939, Germany and the Soviet Union signed the Molotov–Ribbentrop Pact, which stipulated, among other things, the Soviet "interest" in Bessarabia. Following the severe territorial losses of 1940 (_see next section_), Carol was forced to abdicate, replaced as king by his son Mihai, but the power was taken by the military dictator Ion Antonescu (initially in conjunction with the Iron Guard). In August 1944, Antonescu was arrested by Mihai.
 
 
 World War II and aftermath (1940–1947)
 
-During the Second World War, Romania tried again to remain neutral, but on 28 June 1940, it received a Soviet ultimatum with an implied threat of invasion in the event of non-compliance.[74] Under pressure from Moscow and Berlin, the Romanian administration and the army were forced to retreat from Bessarabia as well from Northern Bukovina to avoid war.[75] This, in combination with other factors, prompted the government to join the Axis. Thereafter, southern Dobruja was awarded to Bulgaria, while Hungary received Northern Transylvania as result of an Axis arbitration.[76] Romania1941.png
+During the Second World War, Romania tried again to remain neutral, but on 28 June 1940, it received a Soviet ultimatum with an implied threat of invasion in the event of non-compliance.[74] Under pressure from Moscow and Berlin, the Romanian administration and the army were forced to retreat from Bessarabia as well from Northern Bukovina to avoid war.[75] This, in combination with other factors, prompted the government to join the Axis. Thereafter, southern Dobruja was awarded to Bulgaria, while Hungary received Northern Transylvania as result of an Axis arbitration.[76]
 
 In 1940, Romania lost territory in both east and west: In June 1940, after receiving an ultimatum from the Soviet Union, Romania ceded Bessarabia and northern Bukovina[77][78][79][80] (_see Soviet occupation of Bessarabia_). Two thirds of Bessarabia were combined with a small part of the USSR to form the Moldavian SSR. Northern Bukovina and Budjak were apportioned to the Ukrainian SSR. In August 1940, Northern Transylvania was awarded to Hungary by Germany and Italy through the Second Vienna Award. Southern Dobruja was also lost to Bulgaria shortly after Carol's abdication.
 
@@ -149,9 +147,7 @@ Because Carol II lost so much territory through failed diplomacy, the army suppo
 
 During the war, Romania was the most important source of oil for Nazi Germany,[81] prompting multiple bombing raids by the Allies. By means of the Axis invasion of the Soviet Union, Romania recovered Bessarabia and northern Bukovina from the Soviet Russia, under the leadership of general Ion Antonescu.
 
-Red_Army_greeted_in_Bucharest.jpg is greeted in Bucharest, August 1944]] The Antonescu regime played a major role in the Holocaust,[82] following to a lesser extent the Nazi policy of oppression and massacre of the Jews and Romas, primarily in the Eastern territories Romania recovered or occupied from the Soviet Union (Transnistria) and in Moldavia.[83] According to an international commission report released by the Romanian government in 2004, Antonescu's dictatorial government of Romania was responsible for the murder in various forms including deportations to concentration camps and executions by the Romanian Army and Gendarmerie and the German Einsatzgruppen of some 280,000 to 380,000 Jews on Romanian territories and in the war zones of Bessarabia, Bukovina and Transnistria.[84][85]
-
-Romania-CIA_WFB_Map_(2004).png
+is greeted in Bucharest, August 1944]] The Antonescu regime played a major role in the Holocaust,[82] following to a lesser extent the Nazi policy of oppression and massacre of the Jews and Romas, primarily in the Eastern territories Romania recovered or occupied from the Soviet Union (Transnistria) and in Moldavia.[83] According to an international commission report released by the Romanian government in 2004, Antonescu's dictatorial government of Romania was responsible for the murder in various forms including deportations to concentration camps and executions by the Romanian Army and Gendarmerie and the German Einsatzgruppen of some 280,000 to 380,000 Jews on Romanian territories and in the war zones of Bessarabia, Bukovina and Transnistria.[84][85]
 
 On 20 August 1944 the Soviet Red Army crossed the border into Romania. On 23 August 1944 Antonescu was toppled and arrested by King Michael I of Romania, who joined the Allies and declared war on Germany. On 31 August 1944 the Soviet Red Army entered Bucharest. Despite Romania's change of sides its role in the defeat of Nazi Germany was not recognized by the Paris Peace Conference of 1947.[86]
 
@@ -162,7 +158,7 @@ The Paris Peace Treaty at the end of World War II rendered the Vienna Awards voi
 
 Communist period (1947–1989)
 
-Adunare_Piaţa_Palatului_August_1968.jpg condemning the Warsaw Pact invasion of Czechoslovakia in 1968.]] Personality_Cult_Romania_1986.jpg, 1986]]
+condemning the Warsaw Pact invasion of Czechoslovakia in 1968.]] , 1986]]
 
 Soviet occupation following World War II strengthened the position of Communists, who became dominant in the left-wing coalition government appointed in Match 1945. King Michael I was forced to abdicate and went into exile. Romania was proclaimed a people's republic[89][90] and remained under military and economic control of the USSR until the late 1950s. During this period, Romania's resources were drained by the "SovRom" agreements: mixed Soviet-Romanian companies were established to mask the looting of Romania by the Soviet Union.[91][92][93] The leader of Romania from 1948 to his death in 1965 was Gheorghe Gheorghiu-Dej, the First Secretary of the Romanian Workers' Party. During the 1947–1962 period, people were detained in prisons or camps, deported, put under house arrest, and administrative detention. According to writer Cicerone Ioniţoiu, there were hundreds of thousands of cases of abuse, death and incidents of torture against a large range of people, from political opponents to ordinary citizens.[94] Between 60,000[95] and 80,000 political prisoners were detained.[96] Ioniţoiu estimated that, in total, two million people were direct victims of Communist repression in Romania.[97][98] Author Benjamin Valentino claims tens to hundreds of thousands of "possible" death cases as part of political repression and agricultural collectivization in Communist Romania, though he notes that documentation is insufficient for an adequate estiamte.[99][100]
 
@@ -211,7 +207,7 @@ Post–Cold War Romania developed closer ties with Western Europe, eventually jo
 
 Presidential and parliamentary elections took place again on 28 November 2004. No political party was able to secure a viable parliamentary majority and opposition parties alleged that the PSD had committed large-scale electoral fraud.[115] There was no winner in the first round of the presidential elections. The joint PNL-PD candidate, Traian Băsescu, won the second round on 12 December 2004 with 51% of the vote and thus became the third post-revolutionary president of Romania.
 
-The PNL leader, Călin Popescu Tăriceanu was assigned the difficult task of building a coalition government without including the PSD. In December 2004, the new coalition government (PD, PNL, PUR Romanian Humanist Party - which eventually changed its name to Romanian Conservative Party and UDMR), was sworn in under Prime Minister Tăriceanu. Protest_against_corruption_-_Bucharest_2017_-_Piata_Universitatii_-_5.jpg.]]
+The PNL leader, Călin Popescu Tăriceanu was assigned the difficult task of building a coalition government without including the PSD. In December 2004, the new coalition government (PD, PNL, PUR Romanian Humanist Party - which eventually changed its name to Romanian Conservative Party and UDMR), was sworn in under Prime Minister Tăriceanu. .]]
 
 The country applied in June 1993 for membership in the European Union (EU). It became an Associated State of the EU in 1995, an Acceding Country in 2004, and a member on 1 January 2007.[116]
 

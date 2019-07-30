@@ -134,8 +134,6 @@ MPEG-1 Video exploits perceptual compression methods to significantly reduce the
 
 Color space
 
-Yuvformats420sampling.svg
-
 Before encoding video to MPEG-1, the color-space is transformed to Y'CbCr (Y'=Luma, Cb=Chroma Blue, Cr=Chroma Red). Luma (brightness, resolution) is stored separately from chroma (color, hue, phase) and even further separated into red and blue components. The chroma is also subsampled to 4:2:0, meaning it is reduced by one half vertically and one half horizontally, to just one quarter the resolution of the video.[57] This software algorithm also has analogies in hardware, such as the output from a Bayer pattern filter, common in digital colour cameras.
 
 Because the human eye is much more sensitive to small changes in brightness (the Y component) than in color (the Cr and Cb components), chroma subsampling is a very effective way to reduce the amount of video data that needs to be compressed. On videos with fine detail (high spatial complexity) this can manifest as chroma aliasing artifacts. Compared to other digital compression artifacts, this issue seems to be very rarely a source of annoyance.
@@ -354,7 +352,7 @@ Time domain refers to how analysis and quantization is performed on short, discr
 
 The 32 sub-band filter bank returns 32 amplitude coefficients, one for each equal-sized frequency band/segment of the audio, which is about 700 Hz wide (depending on the audio's sampling frequency). The encoder then utilizes the psychoacoustic model to determine which sub-bands contain audio information that is less important, and so, where quantization will be inaudible, or at least much less noticeable.[90]
 
-Fft-2.png The psychoacoustic model is applied using a 1024-point Fast Fourier Transform (FFT). Of the 1152 samples per frame, 64 samples at the top and bottom of the frequency range are ignored for this analysis. They are presumably not significant enough to change the result. The psychoacoustic model uses an empirically determined masking model to determine which sub-bands contribute more to the masking threshold, and how much quantization noise each can contain without being perceived. Any sounds below the absolute threshold of hearing (ATH) are completely discarded. The available bits are then assigned to each sub-band accordingly.[91][92]
+The psychoacoustic model is applied using a 1024-point Fast Fourier Transform (FFT). Of the 1152 samples per frame, 64 samples at the top and bottom of the frequency range are ignored for this analysis. They are presumably not significant enough to change the result. The psychoacoustic model uses an empirically determined masking model to determine which sub-bands contribute more to the masking threshold, and how much quantization noise each can contain without being perceived. Any sounds below the absolute threshold of hearing (ATH) are completely discarded. The available bits are then assigned to each sub-band accordingly.[91][92]
 
 Typically, sub-bands are less important if they contain quieter sounds (smaller coefficient) than a neighboring (i.e. similar frequency) sub-band with louder sounds (larger coefficient). Also, "noise" components typically have a more significant masking effect than "tonal" components.[93]
 
@@ -376,7 +374,7 @@ MPEG-1 LAYER III (MP3) is a lossy audio format designed to provide acceptable qu
 
 History/ASPEC
 
-2016-07_ASPEC_91_Bonn.jpg, with encoder (below) and decoder]] Layer III/MP3 was derived from the _Adaptive Spectral Perceptual Entropy Coding_ (ASPEC) codec developed by Fraunhofer as part of the EUREKA 147 pan-European inter-governmental research and development initiative for the development of digital audio broadcasting. ASPEC was adapted to fit in with the Layer II/MUSICAM model (frame size, filter bank, FFT, etc.), to become Layer III.[114]
+, with encoder (below) and decoder]] Layer III/MP3 was derived from the _Adaptive Spectral Perceptual Entropy Coding_ (ASPEC) codec developed by Fraunhofer as part of the EUREKA 147 pan-European inter-governmental research and development initiative for the development of digital audio broadcasting. ASPEC was adapted to fit in with the Layer II/MUSICAM model (frame size, filter bank, FFT, etc.), to become Layer III.[114]
 
 ASPEC was itself based on _Multiple adaptive Spectral audio Coding_ (MSC) by E. F. Schroeder, _Optimum Coding in the Frequency domain_ (OCF) the doctoral thesis by Karlheinz Brandenburg at the University of Erlangen-Nuremberg, _Perceptual Transform Coding_ (PXFM) by J. D. Johnston at AT&T Bell Labs, and _Transform coding of audio signals_ by Y. Mahieux and J. Petit at Institut für Rundfunktechnik (IRT/CNET).[115]
 

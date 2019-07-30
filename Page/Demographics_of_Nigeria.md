@@ -11,7 +11,7 @@ Persons of different ethnic backgrounds most commonly communicate in English, al
 
 Population
 
-Nigeria_lato.svg Nigeria-demography.png, year 2005; number of permanent inhabitants in thousands.]]
+, year 2005; number of permanent inhabitants in thousands.]]
 
 Nigeria's population has been increasing rapidly for at least the last 5 decades due to very high birth rates, quadrupling its population during this time. Growth was fastest in the 1980s, after child mortality had dropped rapidly, and has slowed slightly since then as the birth rate has declined slightly. According to the 2017 revision of the World Population Prospects the total population was 185,989,640 in 2016, compared to only 37,860,000 in 1950. The proportion of children under the age of 15 in 2010 was 44.0%, 53.2% was between 15 and 65 years of age, while 2.7% was 65 years or older. There is a large population momentum, with 3.2 percent growth rate leading to the projected population.[11][12][13]
 
@@ -437,8 +437,6 @@ Population distribution
 Nigeria is the Africa's most populous country. Significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest.
 
 Age structure
-
-Nigeriapop.svg
 
     _0-14 years:_ 42.45% (male 44,087,799 /female 42,278,742)
     _15-24 years:_ 19.81% (male 20,452,045 /female 19,861,371)

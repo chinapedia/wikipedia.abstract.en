@@ -1,4 +1,4 @@
-Norfolk_Island_jail1.jpg The history of Norfolk Island dates back to the fourteenth or fifteenth century when it was settled by Polynesian seafarers.
+The history of Norfolk Island dates back to the fourteenth or fifteenth century when it was settled by Polynesian seafarers.
 
 
 Early history
@@ -11,7 +11,7 @@ Cook went ashore on Tuesday 11 October 1774, and is said to have been impressed 
 
 Andrew Kippis as the biographer of this voyage puts it as follows:
 
-At the time, Britain was heavily dependent on flax (_Linum usitatissimum_) (for sails) and hemp (_Cannabis_ sp.) (for ropes) from the shores of the Baltic Sea ports. Any threat to their supply endangered Britain's sea power.[3] The UK also relied on timbers from New England for mainmasts, and these were not supplied after the American War of Independence. The alternative source of Norfolk Island for these, (or in the case of flax and hemp, similar) supplies is argued by some historians, notably Geoffrey Blainey in _Tyranny of Distance_, as being a major reason for the founding of the convict settlement of New South Wales by the First Fleet in 1788. Captainjamescookportrait.jpg]] James Cook said that, “except for New Zealand, in no other island in the South Sea was wood and mast-timber so ready to hand”.[4]
+At the time, Britain was heavily dependent on flax (_Linum usitatissimum_) (for sails) and hemp (_Cannabis_ sp.) (for ropes) from the shores of the Baltic Sea ports. Any threat to their supply endangered Britain's sea power.[3] The UK also relied on timbers from New England for mainmasts, and these were not supplied after the American War of Independence. The alternative source of Norfolk Island for these, (or in the case of flax and hemp, similar) supplies is argued by some historians, notably Geoffrey Blainey in _Tyranny of Distance_, as being a major reason for the founding of the convict settlement of New South Wales by the First Fleet in 1788. ]] James Cook said that, “except for New Zealand, in no other island in the South Sea was wood and mast-timber so ready to hand”.[4]
 
 Sir John Call, member of Parliament and the Royal Society, and former chief engineer of the East India Company, stated the advantages of Norfolk Island in a proposal for colonization he put to the Home Office in August 1784: “This Island has an Advantage not common to New Caledonia, New Holland and New Zealand by not being inhabited, so that no Injury can be done by possessing it to the rest of Mankind…there seems to be nothing wanting but Inhabitants and Cultivation to make it a delicious Residence. The Climate, Soil, and Sea provide everything that can be expected from them. The Timber, Shrubs, Vegetables and Fish already found there need no Embellishment to pronounce them excellent samples; but the most invaluable of all is the Flax-plant, which grows more luxuriant than in New Zealand.”[5]
 
@@ -34,7 +34,7 @@ The advantage of Britain's new colony in providing a non-Russian source of flax 
 
 First penal settlement
 
-Norfolk_Island_convict_buildings.jpg Norfolk_Island_convict_grave.jpg Norfolk_Island_jail8.jpg Before the First Fleet sailed to found a convict settlement in New South Wales, Governor Arthur Phillip's final instructions, received less than three weeks before sailing, included the requirement to colonise Norfolk Island to prevent it falling into the hands of France, whose naval leaders were also showing interest in the Pacific.
+Before the First Fleet sailed to found a convict settlement in New South Wales, Governor Arthur Phillip's final instructions, received less than three weeks before sailing, included the requirement to colonise Norfolk Island to prevent it falling into the hands of France, whose naval leaders were also showing interest in the Pacific.
 
 Phillip's instructions given to him in April 1787 included an injunction to send a party to secure Norfolk Island “as soon as Circumstances may admit of it…. to prevent its being occupied by the Subjects of any other European Power”. This could only have been a reference to the expedition then in the Pacific commanded by Jean-François de Galaup, comte de La Pérouse. _The Daily Universal Register_ of 11 November 1786 had stated: "the Botany Bay scheme is laid aside, as there is a strong presumption that a squadron from Brest are now, or soon will be, in possession of the very spot we meant to occupy in New Holland". This may have been a reference to a report from the British Ambassador in Paris, who had believed that when La Pérouse's expedition set out from Brest in August 1785 it had as one of its objectives the establishment of a settlement in New Zealand to forestall the British.
 
@@ -108,7 +108,7 @@ His successor, Governor Ralph Darling, was even more severe than Brisbane, wishi
 
 The evidence that has passed down through the years points to the creation of a "Hell in Paradise". A widespread and popular notion of the harshness of penal settlements, including Norfolk Island, has come from the novel _For the Term of His Natural Life_ by Marcus Clarke, which appears to be based on the writings and recollections of witnesses. However, though Clarke did carry out primary research, he selected the most sensational examples possible.
 
-Following a convict mutiny in 1834, Father William Ullathorne, Vicar general of Sydney, visited Norfolk Island to comfort the mutineers due for execution. He found it “the most heartrending scene that I ever witnessed”. Having the duty of informing the prisoners as to who was reprieved and who was to die, he was shocked to record as “a literal fact that each man who heard his reprieve wept bitterly, and that each man who heard of his condemnation to death went down on his knees with dry eyes, and thanked God.” Norfolk_Island_jail2.jpg Norfolk_Island_jail4.jpg
+Following a convict mutiny in 1834, Father William Ullathorne, Vicar general of Sydney, visited Norfolk Island to comfort the mutineers due for execution. He found it “the most heartrending scene that I ever witnessed”. Having the duty of informing the prisoners as to who was reprieved and who was to die, he was shocked to record as “a literal fact that each man who heard his reprieve wept bitterly, and that each man who heard of his condemnation to death went down on his knees with dry eyes, and thanked God.”
 
 The 1846 report of magistrate Robert Pringle Stuart exposed the scarcity and poor quality of food, inadequacy of housing, horrors of torture and incessant flogging, insubordination of convicts, and corruption of overseers.
 
@@ -130,8 +130,6 @@ On 8 June 1856, the next settlement began on Norfolk Island. These were the desc
 The Pitcairners occupied many of the buildings remaining from the penal settlements, and gradually established their traditional farming and whaling industries on the island. Although some families decided to return to Pitcairn in 1858 and 1863, the island's population continued to slowly grow as the island accepted settlers, often arriving with whaling fleets.
 
 In 1867, the headquarters of the Melanesian Mission of the Church of England were established on the island, and in 1882 the church of St. Barnabas was erected to the memory of the Mission's head Bishop John Coleridge Patteson, with windows designed by Edward Burne-Jones and executed by William Morris. In 1920 the Mission was relocated from the island to the Solomon Islands to be closer to its target population.
-
-Norfolk_Island_St_Barnabas_Chapel.jpg
 
 
 Twentieth century

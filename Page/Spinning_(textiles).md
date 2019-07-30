@@ -34,7 +34,7 @@ File:Textile-Spinning room.jpg|Mule spinning File:Catalonia Terrassa mNATEC Self
 
 History and economics
 
-Isaac_Claesz._van_Swanenburg_-_Het_spinnen,_het_scheren_van_de_ketting,_en_het_weven.JPG textile workers]]
+textile workers]]
 
 Hand spinning was an important cottage industry in medieval Europe, where the wool spinners (most often women and children) would provide enough yarn to service the needs of the men who operated the looms, or to sell on in the putting-out system. After the invention of the spinning jenny water frame the demand was greatly reduced by mechanisation. Its technology was specialised and costly, and employed water as motive power. Spinning and weaving as cottage industries were displaced by dedicated manufactories, developed by industrialists and their investors; the spinning and weaving industries, once widespread, were concentrated where the sources of water, raw materials and manpower were most readily available, particularly West Yorkshire. The British government was very protective of the technology and restricted its export. After World War I the colonies where the cotton was grown started to purchase and manufacture significant quantities of cotton spinning machinery. The next breakthrough was with the move over to break or open-end spinning, and then the adoption of artificial fibres. By then most production had moved to Asia.
 

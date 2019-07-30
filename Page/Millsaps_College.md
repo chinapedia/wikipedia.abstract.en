@@ -15,8 +15,6 @@ Traces of the Navy V-12 unit appear in the _Bobashela_ (school yearbook) in 1944
 
 Important dates in Millsaps history
 
-Major_Reuben_Webster_Millsaps_grave.jpg
-
 -   1890: Major Reuben Webster Millsaps founds the college with a personal gift of $50,000.
 -   1901: Millsaps builds the first golf course in Mississippi.
 -   1902: Mary Letitia Holloman becomes the first female graduate of Millsaps.
@@ -61,7 +59,7 @@ The current undergraduate population is 910 students on a 103 acre (417,000 m²)
 
 Campus
 
-Millsaps_College.jpg The Millsaps campus is close to downtown Jackson. It is bordered by Woodrow Wilson Avenue to the north, North State Street to the east, West Street to the west, and Marshall Street to the south.
+The Millsaps campus is close to downtown Jackson. It is bordered by Woodrow Wilson Avenue to the north, North State Street to the east, West Street to the west, and Marshall Street to the south.
 
 The center of campus is dominated by "The Bowl," where many events occur, including Homecoming activities, concerts, the Multicultural Festival, and Commencement. Adjacent to the Bowl is the Campbell College Center, renovated in 2000, which contains the campus bookstore, post office, cafeteria, and Student Life offices. This central section of campus also holds the Gertrude C. Ford Academic Complex, Olin Science Hall, Sullivan-Harrell Hall, and the Millsaps-Wilson Library.
 

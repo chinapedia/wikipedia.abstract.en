@@ -7,7 +7,7 @@ The Neo Geo was a very powerful system when released, more powerful than any vid
 
 History
 
-Neo-Geo-AES-Controller-FL.jpg The Neo Geo hardware was an evolution of an older SNK/Alpha Denshi M68000 arcade platform that was used in _Time Soldiers_ in 1987, further developed in the SNK M68000 hardware platform as used for _P.O.W.: Prisoners of War_ in 1988. Contrary to other popular arcade hardware of the time, the SNK/Alpha Denshi hardware used sprite strips instead of the more common tilemap based backgrounds.[12] The Neo Geo hardware was essentially developed by Alpha Denshi's Eiji Fukatsu, adding sprite scaling through the use of scaling tables stored in ROM as well as support for a much higher amount of data on cartridges and better sound hardware.[13][14][15]
+The Neo Geo hardware was an evolution of an older SNK/Alpha Denshi M68000 arcade platform that was used in _Time Soldiers_ in 1987, further developed in the SNK M68000 hardware platform as used for _P.O.W.: Prisoners of War_ in 1988. Contrary to other popular arcade hardware of the time, the SNK/Alpha Denshi hardware used sprite strips instead of the more common tilemap based backgrounds.[12] The Neo Geo hardware was essentially developed by Alpha Denshi's Eiji Fukatsu, adding sprite scaling through the use of scaling tables stored in ROM as well as support for a much higher amount of data on cartridges and better sound hardware.[13][14][15]
 
 The Neo Geo was announced on January 31, 1990 in Osaka, Japan[16] and released on April 26, 1990. [17] Initially, the AES home system was only available for rent to commercial establishments, such as hotel chains, bars and restaurants, and other venues. When customer response indicated that some gamers were willing to buy a console, SNK expanded sales and marketing into the home console market in 1991.
 
@@ -30,7 +30,7 @@ In a 1993 review, _GamePro_ gave the Neo Geo a "thumbs up". Though they voiced s
 
 Technical details
 
-Neogeoguts.JPG Neo-Geo-AES-Opened-FL.jpg.]] Each joystick controller is 280mm (width) × 190mm (depth) × 95mm (height) ( 11 × 8 × 2.5 in.) and contains the same four-button layout as the arcade MVS cabinet.
+.]] Each joystick controller is 280mm (width) × 190mm (depth) × 95mm (height) ( 11 × 8 × 2.5 in.) and contains the same four-button layout as the arcade MVS cabinet.
 
 The arcade machines have a memory card system by which a player could save a game to return to at a later time and could also be used to continue play on the SNK home console of the same name.
 
@@ -46,8 +46,6 @@ File:neogeo_100megashock.png%7CThe 100Mega Shock! File:GigaPower.png%7CGiga Powe
 
 
 Specifications
-
-Neo-Geo-AES-Cartridge-Bottom.jpg
 
 The system uses seven different specialist processors, which divide the workload for the visuals, audio and gameplay.[23]
 
@@ -124,7 +122,7 @@ Dimensions
 -   Console: 325 mm (width) × 237 mm (depth) × 60 mm (height).
 -   Controller: 280 mm (width) × 190 mm (depth) × 95 mm (height).
 
-Neo-Geo-Memory-Card.jpg]]
+]]
 
 Console storage
 

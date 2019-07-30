@@ -7,7 +7,7 @@ There are a considerable number of different accents within the regions of both 
 
 Major dialects
 
-North_American_English_dialect_regions.jpg''.[10] Undesignated regions (in white, orange, and green) represent areas with characteristics that are inconsistent from speaker to speaker, or poorly studied due to being in a state of transition. Some undesignated areas fall under the classification of "General American," an umbrella variety widely spoken throughout the United States, regardless of location.]]
+''.[10] Undesignated regions (in white, orange, and green) represent areas with characteristics that are inconsistent from speaker to speaker, or poorly studied due to being in a state of transition. Some undesignated areas fall under the classification of "General American," an umbrella variety widely spoken throughout the United States, regardless of location.]]
 
 The following numerical list, corresponding to the map, accounts only for major dialect areas of modern North America that can be identified by geographic location; therefore, it does not represent speakers of non-geographically based (ethnic, social, etc.) varieties, such as General American, African-American English, Chicano English, etc.
 

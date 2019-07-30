@@ -13,13 +13,11 @@ Milton's views developed from his very extensive reading, as well as travel and 
 
 Early life
 
-John_Milton_plaque_Bread_Street_London.jpg
-
 John Milton was born in Bread Street, London on 9 December 1608, the son of composer John Milton and his wife Sarah Jeffrey. The senior John Milton (1562–1647) moved to London around 1583 after being disinherited by his devout Catholic father Richard "the Ranger" Milton for embracing Protestantism.[5] In London, the senior John Milton married Sarah Jeffrey (1572–1637) and found lasting financial success as a scrivener.[6] He lived in and worked from a house on Bread Street, where the Mermaid Tavern was located in Cheapside. The elder Milton was noted for his skill as a musical composer, and this talent left his son with a lifelong appreciation for music and friendships with musicians such as Henry Lawes.[7]
 
 Milton's father's prosperity provided his eldest son with a private tutor, Thomas Young, a Scottish Presbyterian with an M.A. from the University of St. Andrews. Research suggests that Young's influence served as the poet's introduction to religious radicalism.[8] After Young's tutorship, Milton attended St Paul's School in London. There he began the study of Latin and Greek, and the classical languages left an imprint on both his poetry and prose in English (he also wrote in Italian and Latin).
 
-John_Milton_portrait.jpg. In Milton's Cottage, Chalfont St Giles.]]
+. In Milton's Cottage, Chalfont St Giles.]]
 
 Milton's first datable compositions are two psalms done at age 15 at Long Bennington. One contemporary source is the _Brief Lives_ of John Aubrey, an uneven compilation including first-hand reports. In the work, Aubrey quotes Christopher, Milton's younger brother: "When he was young, he studied very hard and sat up very late, commonly till twelve or one o'clock at night". Aubrey adds, ""His complexion exceeding faire—he was so faire that they called him the Lady of Christ's College."[9]
 
@@ -35,7 +33,7 @@ Study, poetry, and travel
 
 Upon receiving his M.A. in 1632, Milton retired to Hammersmith, his father's new home since the previous year. He also lived at Horton, Berkshire, from 1635 and undertook six years of self-directed private study. Hill argues that this was not retreat into a rural idyll; Hammersmith was then a "suburban village" falling into the orbit of London, and even Horton was becoming deforested and suffered from the plague.[17] He read both ancient and modern works of theology, philosophy, history, politics, literature, and science in preparation for a prospective poetical career. Milton's intellectual development can be charted via entries in his commonplace book (like a scrapbook), now in the British Library. As a result of such intensive study, Milton is considered to be among the most learned of all English poets. In addition to his years of private study, Milton had command of Latin, Greek, Hebrew, French, Spanish, and Italian from his school and undergraduate days; he also added Old English to his linguistic repertoire in the 1650s while researching his _History of Britain_, and probably acquired proficiency in Dutch soon after.[18]
 
-John_Milton_plaque_Berkyn_Manor_Farm_Horton.JPG]]
+]]
 
 Milton continued to write poetry during this period of study; his _Arcades_ and _Comus_ were both commissioned for masques composed for noble patrons, connections of the Egerton family, and performed in 1632 and 1634 respectively. _Comus_ argues for the virtuousness of temperance and chastity. He contributed his pastoral elegy _Lycidas_ to a memorial collection for one of his fellow-students at Cambridge. Drafts of these poems are preserved in Milton's poetry notebook, known as the Trinity Manuscript because it is now kept at Trinity College, Cambridge.
 
@@ -49,7 +47,7 @@ Originally, Milton wanted to leave Naples in order to travel to Sicily and then 
 
 Civil war, prose tracts, and marriage
 
-Areopagitica_bridwell.jpg'']]
+'']]
 
 On returning to England where the Bishops' Wars presaged further armed conflict, Milton began to write prose tracts against episcopacy, in the service of the Puritan and Parliamentary cause. Milton's first foray into polemics was _Of Reformation touching Church Discipline in England_ (1641), followed by _Of Prelatical Episcopacy_, the two defences of Smectymnuus (a group of Presbyterian divines named from their initials; the "TY" belonged to Milton's old tutor Thomas Young), and _The Reason of Church-Government Urged against Prelaty_. He vigorously attacked the High-church party of the Church of England and their leader William Laud, Archbishop of Canterbury, with frequent passages of real eloquence lighting up the rough controversial style of the period, and deploying a wide knowledge of church history.
 
@@ -63,7 +61,7 @@ Secretary for Foreign Tongues
 
 With the parliamentary victory in the Civil War, Milton used his pen in defence of the republican principles represented by the Commonwealth. _The Tenure of Kings and Magistrates_ (1649) defended the right of the people to hold their rulers to account, and implicitly sanctioned the regicide; Milton's political reputation got him appointed Secretary for Foreign Tongues by the Council of State in March 1649. His main job description was to compose the English Republic's foreign correspondence in Latin, but he also was called upon to produce propaganda for the regime and to serve as a censor.[34]
 
-19_York_Street,_Westminster_(1848).jpg. He lived there until the Restoration. Later it became No. 19 York Street, belonged to Jeremy Bentham, was occupied successively by James Mill and William Hazlitt, and finally was demolished in 1877.[35]]]
+. He lived there until the Restoration. Later it became No. 19 York Street, belonged to Jeremy Bentham, was occupied successively by James Mill and William Hazlitt, and finally was demolished in 1877.[35]]]
 
 In October 1649, he published _Eikonoklastes_, an explicit defence of the regicide, in response to the _Eikon Basilike_, a phenomenal best-seller popularly attributed to Charles I that portrayed the King as an innocent Christian martyr. Milton tried to break this powerful image of Charles I (the literal translation of Eikonoklastes is 'the image breaker'). A month later, however, the exiled Charles II and his party published the defence of monarchy _Defensio Regia pro Carolo Primo_, written by leading humanist Claudius Salmasius. By January of the following year, Milton was ordered to write a defence of the English people by the Council of State. Milton worked more slowly than usual, given the European audience and the English Republic's desire to establish diplomatic and cultural legitimacy, as he drew on the learning marshalled by his years of study to compose a riposte.
 
@@ -111,7 +109,7 @@ Milton's poetry was slow to see the light of day, at least under his name. His f
 
 _Paradise Lost_
 
-Eugène_Ferdinand_Victor_Delacroix_032.jpg ]]
+]]
 
 Milton's _magnum opus_, the blank-verse epic poem _Paradise Lost_, was composed by the blind and impoverished Milton from 1658 to 1664 (first edition), with small but significant revisions published in 1674 (second edition). As a blind poet, Milton dictated his verse to a series of aides in his employ. It has been argued that the poem reflects his personal despair at the failure of the Revolution yet affirms an ultimate optimism in human potential. Some literary critics have argued that Milton encoded many references to his unyielding support for the "Good Old Cause".[50]
 
@@ -134,7 +132,7 @@ Milton was a "passionately individual Christian Humanist poet."[57] He appears o
 
   Milton’s apparently contradictory stance on the vital problems of his age, arose from religious contestations, to the questions of the divine rights of kings. In both the cases, he seems in control, taking stock of the situation arising from the polarization of the English society on religious and political lines. He fought with the Puritans against the Cavaliers i.e. the King’s party, and helped win the day. But the very same constitutional and republican polity, when tried to curtail freedom of speech, Milton, given his humanistic zeal, wrote Areopagitica . . .[59]
 
-Areopagitica_1644bw_gobeirne.png'']]
+'']]
 
 Milton's political thought may be best categorized according to respective periods in his life and times. The years 1641–42 were dedicated to church politics and the struggle against episcopacy. After his divorce writings, _Areopagitica_, and a gap, he wrote in 1649–54 in the aftermath of the execution of Charles I, and in polemic justification of the regicide and the existing Parliamentarian regime. Then in 1659–60 he foresaw the Restoration, and wrote to head it off.[60]
 
@@ -201,8 +199,6 @@ Once _Paradise Lost_ was published, Milton's stature as epic poet was immediatel
 
 Early reception of the poetry
 
-MiltonPoeticalWorksNewton1752-61.jpg
-
 John Dryden, an early enthusiast, in 1677 began the trend of describing Milton as the poet of the sublime.[99] Dryden's _The State of Innocence and the Fall of Man: an Opera_ (1677) is evidence of an immediate cultural influence. In 1695, Patrick Hume became the first editor of _Paradise Lost_, providing an extensive apparatus of annotation and commentary, particularly chasing down allusions.[100]
 
 In 1732, the classical scholar Richard Bentley offered a corrected version of _Paradise Lost_.[101] Bentley was considered presumptuous, and was attacked in the following year by Zachary Pearce. Christopher Ricks judges that, as critic, Bentley was both acute and wrong-headed, and "incorrigibly eccentric"; William Empson also finds Pearce to be more sympathetic to Bentley's underlying line of thought than is warranted.[102][103]
@@ -213,7 +209,7 @@ Many enlightenment thinkers of the 18th century revered and commented on Milton'
 
 Blake
 
-Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg to _Milton: A Poem in Two Books_]]
+to _Milton: A Poem in Two Books_]]
 
 William Blake considered Milton the major English poet. Blake placed Edmund Spenser as Milton's precursor, and saw himself as Milton's poetical son.[107] In his _Milton: A Poem in Two Books_, Blake uses Milton as a character.
 
@@ -237,7 +233,7 @@ T. S. Eliot believed that "of no other poet is it so difficult to consider the p
 
 Literary legacy
 
-Temple_of_British_Worthies_John_Milton.jpg, Stowe]]
+, Stowe]]
 
 Milton's use of blank verse, in addition to his stylistic innovations (such as grandiloquence of voice and vision, peculiar diction and phraseology) influenced later poets. At the time, poetic blank verse was considered distinct from its use in verse drama, and _Paradise Lost_ was taken as a unique examplar.[124] Said Isaac Watts in 1734, "Mr. Milton is esteemed the parent and author of blank verse among us".[125] "Miltonic verse" might be synonymous for a century with blank verse as poetry, a new poetic terrain independent from both the drama and the heroic couplet.
 
@@ -249,7 +245,7 @@ A second aspect of Milton's blank verse was the use of unconventional rhythm:
 
 Before Milton, "the sense of regular rhythm ... had been knocked into the English head so securely that it was part of their nature".[128] The "Heroick measure", according to Samuel Johnson, "is pure ... when the accent rests upon every second syllable through the whole line  The repetition of this sound or percussion at equal times, is the most complete harmony of which a single verse is capable",[129] Caesural pauses, most agreed, were best placed at the middle and the end of the line. In order to support this symmetry, lines were most often octo- or deca-syllabic, with no enjambed endings. To this schema Milton introduced modifications, which included hypermetrical syllables (trisyllabic feet), inversion or slighting of stresses, and the shifting of pauses to all parts of the line.[130] Milton deemed these features to be reflective of "the transcendental union of order and freedom".[131] Admirers remained hesitant to adopt such departures from traditional metrical schemes: "The English ... had been writing separate lines for so long that they could not rid themselves of the habit".[132] Isaac Watts preferred his lines distinct from each other, as did Oliver Goldsmith, Henry Pemberton, and Scott of Amwell, whose general opinion it was that Milton's frequent omission of the initial unaccented foot was "displeasing to a nice ear".[133] It was not until the late 18th century that poets (beginning with Gray) began to appreciate "the composition of Milton's harmony ... how he loved to vary his pauses, his measures, and his feet, which gives that enchanting air of freedom and wilderness to his versification".[134]
 
-St_Giles-without-Cripplegate,_London_01.JPG, London]]
+, London]]
 
 While neo-classical diction was as restrictive as its prosody, and narrow imagery paired with uniformity of sentence structure resulted in a small set of 800 nouns circumscribing the vocabulary of 90% of heroic couplets ever written up to the eighteenth century,[135] and tradition required that the same adjectives attach to the same nouns, followed by the same verbs, Milton's pursuit of liberty extended into his vocabulary as well. It included many Latinate neologisms, as well as obsolete words already dropped from popular usage so completely that their meanings were no longer understood. In 1740, Francis Peck identified some examples of Milton's "old" words (now popular).[136] The "Miltonian dialect" as it was called, was emulated by later poets; Pope used the diction of _Paradise Lost_ in his Homer translation, while the lyric poetry of Gray and Collins was frequently criticised for their use of "obsolete words out of Spenser and Milton".[137] The language of Thomson's finest poems (e.g. _The Seasons_, _Castle of Indolence_) was self-consciously modelled after the Miltonian dialect, with the same tone and sensibilities as _Paradise Lost_. Following to Milton, English poetry from Pope to John Keats exhibited a steadily increasing attention to the connotative, the imaginative and poetic, value of words.[138]
 

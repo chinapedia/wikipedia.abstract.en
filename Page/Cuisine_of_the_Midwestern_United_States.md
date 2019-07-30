@@ -7,7 +7,7 @@ The Midwest's restaurants also offer a diverse mix of ethnic cuisines as well as
 
 Characteristics
 
-Map_of_USA_Midwest.svg, as currently defined by the U.S. Census Bureau]] Sometimes called "the breadbasket of America," the Midwest serves as a center for grain production, particularly wheat, corn and soybeans. Midwestern states also produce most of the country's wild rice.[4]
+, as currently defined by the U.S. Census Bureau]] Sometimes called "the breadbasket of America," the Midwest serves as a center for grain production, particularly wheat, corn and soybeans. Midwestern states also produce most of the country's wild rice.[4]
 
 Beef and pork processing have always been important Midwestern industries, with a strong role in regional diets. Chicago and Kansas City were historically stockyard and processing centers of the beef trade and Cincinnati, nicknamed 'Porkopolis', was once the largest pork-producing city in the world.[5] Iowa is the center of pork production in the U.S.
 
@@ -25,7 +25,7 @@ This section of the region is also headquarters for several seminal hamburger ch
 
 Besides Pizza Hut, the Midwest is home to the other largest pizza chains in the U.S.: Little Caesars and Domino's Pizza, both based in Michigan (respectively in Detroit and Ann Arbor), and Papa John's Pizza, founded in Indiana (though its current headquarters are just outside the federally defined Midwest in Louisville, Kentucky, across the Ohio River from the chain's original home of Jeffersonville).
 
-Bratwurst.jpg and potatoes]] A Wurst mart, sometimes spelled Wurstmart or Wurst Markt, is a variation on a fish fry found predominantly in German-American communities. Wurst marts are usually held by churches as fundraising events, where people will pay for a buffet of sausages and other side dishes. Common side dishes include mashed potatoes, gravy and sauerkraut. Wurst Mart comes from the German word "Wurstmarkt", meaning sausage market. Wurst marts are found mostly in small rural German-American communities in the Midwest, particularly around St. Louis.
+and potatoes]] A Wurst mart, sometimes spelled Wurstmart or Wurst Markt, is a variation on a fish fry found predominantly in German-American communities. Wurst marts are usually held by churches as fundraising events, where people will pay for a buffet of sausages and other side dishes. Common side dishes include mashed potatoes, gravy and sauerkraut. Wurst Mart comes from the German word "Wurstmarkt", meaning sausage market. Wurst marts are found mostly in small rural German-American communities in the Midwest, particularly around St. Louis.
 
 
 Urban centers
@@ -38,7 +38,7 @@ Part of the greater Akron area, this small industrial city with a strong Central
 
 Chicago
 
-Giordano's_Deep_Dish_Pizza.jpg]] The ethnic mix of the people of Chicago has led to a distinctive cuisine of restaurant foods exclusive to the area, such as Italian beef, the Maxwell Street Polish, the Chicago-style hot dog, Chicago-style pizza, chicken Vesuvio and the jibarito, as well as a large number of steakhouses.
+]] The ethnic mix of the people of Chicago has led to a distinctive cuisine of restaurant foods exclusive to the area, such as Italian beef, the Maxwell Street Polish, the Chicago-style hot dog, Chicago-style pizza, chicken Vesuvio and the jibarito, as well as a large number of steakhouses.
 
 Chicago also boasts many gourmet restaurants, as well as a wide variety of ethnic food stores and eateries, most notably Mexican, German, Polish, Italian, Greek, Indian/Pakistani and Asian, often clustered in ethnic neighborhoods. Many of these cuisines have evolved significantly in Chicago. For example, the Greek cheese dish saganaki was first flambéed at the table in Greektown.[9]
 
@@ -66,13 +66,11 @@ Sweets specific to the Cleveland area include the coconut bar (similar in many r
 
 Columbus
 
-Schmidt's_Sausage_Haus.jpg, Columbus, Ohio]] The Columbus, Ohio area is the home and birthplace of many well-known fast food chains, especially those known for hamburgers. Wendy's opened its first store in Columbus in 1969, and is now headquartered in nearby Dublin. America's oldest hamburger chain, White Castle, is based there. Besides burgers, Columbus is noted for the German Village, a neighborhood south of downtown where German cuisine such as sausages and kuchen are served. In recent years, local restaurants focused on organic, seasonal, and locally or regionally sourced food have become more prevalent, especially in the Short North area, between downtown and the OSU campus. Numerous Somali restaurants are also found in the city, particularly around Cleveland Avenue.
+, Columbus, Ohio]] The Columbus, Ohio area is the home and birthplace of many well-known fast food chains, especially those known for hamburgers. Wendy's opened its first store in Columbus in 1969, and is now headquartered in nearby Dublin. America's oldest hamburger chain, White Castle, is based there. Besides burgers, Columbus is noted for the German Village, a neighborhood south of downtown where German cuisine such as sausages and kuchen are served. In recent years, local restaurants focused on organic, seasonal, and locally or regionally sourced food have become more prevalent, especially in the Short North area, between downtown and the OSU campus. Numerous Somali restaurants are also found in the city, particularly around Cleveland Avenue.
 
 Columbus is also the birthplace of the famed Marzetti Italian Restaurant, opened in 1896. Owner Teresa Marzetti is credited with creation of the beef-and-pasta casserole named after her brother-in-law, Johnny Marzetti. The restaurant's popular salad dressings became the foundation for the T. Marzetti Company, an international specialty foods manufacturer and distributor, headquartered in Columbus.
 
 Detroit
-
-Lafayette_And_American_Coney_Islands.JPG
 
 Detroit specialties include Coney Island hot dogs, found at hundreds of unaffiliated "Coney Island" restaurants. Not to be confused with a chili dog, a coney is served with a ground beef sauce, chopped onions and mustard. The Coney Special has an additional ground beef topping. It is often served with French fries. Food writers Jane and Michael Stern call out Detroit as the only "place to start" in pinpointing "the top Coney Islands in the land."[26]
 
@@ -80,7 +78,7 @@ Detroit also has its own style of pizza, a thick-crusted, Sicilian cuisine-influ
 
 The Detroit area has many large groups of immigrants. A large Arabic-speaking population reside in and around the suburb of Dearborn, home to many Lebanese storefronts. Detroit also has a substantial number of Greek restaurateurs. Thus, numerous Mediterranean restaurants dot the region and typical foods such as gyros, hummus and falafel can be found in many run-of-the-mill grocery stores and restaurants.
 
-Flint_coney_island.jpg]]
+]]
 
 Polish food is also prominent in the region, including popular dishes such as pierogi, borscht, and pączki. Bakeries concentrated in the Polish enclave of Hamtramck, Michigan, within the city, are celebrated for their _pączki,_ especially on Fat Tuesday. Hungarian food is featured in nearby eastern Toledo, Ohio with Tony Packo's Hungarian hot dog, a form of kolbász.
 
@@ -144,7 +142,7 @@ The University of Minnesota has been a center for food research with inventions 
 
 Omaha
 
-Katz's_Deli_-_Lunch.jpg is a hot sandwich of corned beef or pastrami, sauerkraut and Swiss cheese, with Russian or Thousand Island dressing on rye bread]] Omaha has some unusual steakhouses such as the famous Gorat's, several of which are Sicilian in origin or adjacent to the Omaha Stockyards. Central European and Southern influences can be seen in the local popularity of carp and South 24th Street contains a multitude of Mexican restaurants. North Omaha also has its own barbecue style.
+is a hot sandwich of corned beef or pastrami, sauerkraut and Swiss cheese, with Russian or Thousand Island dressing on rye bread]] Omaha has some unusual steakhouses such as the famous Gorat's, several of which are Sicilian in origin or adjacent to the Omaha Stockyards. Central European and Southern influences can be seen in the local popularity of carp and South 24th Street contains a multitude of Mexican restaurants. North Omaha also has its own barbecue style.
 
 Omaha is one of the places claiming to have invented the reuben sandwich, supposedly named for Reuben Kulakofsky, a grocer from the Dundee neighborhood.
 
@@ -156,7 +154,7 @@ The cheese frenchee is also a local favorite and staple, originating from the or
 
 St. Louis
 
-Pork_steaks_cooking-1.jpg The large number of Irish and German immigrants who came to St. Louis beginning in the early nineteenth century contributed significantly to the shaping of local cuisine as confirmed by a variety of uses of beef, pork and chicken, often roasted or grilled, as well as a variety of desserts including rich cakes, stollens, fruit pies, doughnuts and cookies. Even a local form of fresh stick pretzel, called Gus's Pretzels, has been sold singly or by the bagful by street corner vendors.
+The large number of Irish and German immigrants who came to St. Louis beginning in the early nineteenth century contributed significantly to the shaping of local cuisine as confirmed by a variety of uses of beef, pork and chicken, often roasted or grilled, as well as a variety of desserts including rich cakes, stollens, fruit pies, doughnuts and cookies. Even a local form of fresh stick pretzel, called Gus's Pretzels, has been sold singly or by the bagful by street corner vendors.
 
 Mayfair salad dressing was invented at a St. Louis hotel of the same name, and is richer than Caesar salad dressing. St. Louis is also known for popularizing the ice cream cone and for inventing gooey butter cake (a rich, soft-centered coffee cake) and frozen custard. Iced tea is also rumored to have been invented at the World's Fair, as well as the hot dog bun.
 
@@ -171,7 +169,7 @@ Regional specialties
 
 Illinois
 
-RealHorseshoesandwich.jpg originates from Springfield, Illinois]] Illinois is a top producer of corn and soybeans,[47] but corn, particularly sweet corn, figures most substantially in its cuisine. Chicago-style cuisine is dominant in Northeastern Illinois, while other parts of the state mirror adjoining regions.
+originates from Springfield, Illinois]] Illinois is a top producer of corn and soybeans,[47] but corn, particularly sweet corn, figures most substantially in its cuisine. Chicago-style cuisine is dominant in Northeastern Illinois, while other parts of the state mirror adjoining regions.
 
 Springfield, Illinois, and the surrounding area are known for the horseshoe sandwich.
 
@@ -185,7 +183,7 @@ Frog legs are traditional in old-fashioned Indiana restaurants,[50] and brain sa
 
 Iowa
 
-Pork_tenderloin_sandwich.JPG#file as served in Cedar Rapids, Iowa]] Iowa is the leading pork producer in the United States.[54] This is reflected in Iowan cuisine, which includes the pork tenderloin sandwich (or simply 'pork tenderloin'), consisting of a lean section of boneless pork loin that is pounded flat, breaded, and deep fried before being served on a seeded hamburger bun with any or all of ketchup, mustard, mayonnaise, and dill pickle slices. In Iowa, the meat of a pork tenderloin sandwich is often far larger than the area of the bun.
+as served in Cedar Rapids, Iowa]] Iowa is the leading pork producer in the United States.[54] This is reflected in Iowan cuisine, which includes the pork tenderloin sandwich (or simply 'pork tenderloin'), consisting of a lean section of boneless pork loin that is pounded flat, breaded, and deep fried before being served on a seeded hamburger bun with any or all of ketchup, mustard, mayonnaise, and dill pickle slices. In Iowa, the meat of a pork tenderloin sandwich is often far larger than the area of the bun.
 
 Recipes compiled and published by the _Des Moines Register_ include salmon mousse, fresh gazpacho, apple coleslaw, cabbage n' macaroni slaw, other slaws, soups, and dips, and various salads like turkey-melon, shrimp-yogurt and pasta-blackbean, including one gelatin-based salad made with 7Up, lemon-lime gelatin, crushed pineapple, marshmallow and bananas. Other gelatin based salads included blueberry salad and a "Good Salad" which included a mix of puddings, orange gelatin and citrus fruits.[55]
 
@@ -221,7 +219,7 @@ Fudge is commonly sold in tourist areas, with Mackinac Island being most famous 
 
 Minnesota
 
-Tater_Tot_Hot_Dish_2008_Winter_Carnival.JPG at the Saint Paul, Minnesota, Winter Carnival]] Potluck06.jpg]] Perhaps the most iconic Minnesota dishes are lefse and lutefisk, brought to the state by Scandinavian immigrants. Lefse and lutefisk dinners are held near Christmas and have become associated with that holiday. Lutefisk is a traditional dish of the Nordic countries made from stockfish (air-dried whitefish) and soda lye (_lut_). Walleye is the state fish of Minnesota and it is common to find it on restaurant menus. Its popularity with Minnesotans is such that the residents of the state consume more of the fish than does any other jurisdiction. Battered and deep-fried is a popular preparation for walleye, as is grilling. Many restaurants will feature walleye on their Friday night fish fry, which is popular at locales throughout the state.
+at the Saint Paul, Minnesota, Winter Carnival]] ]] Perhaps the most iconic Minnesota dishes are lefse and lutefisk, brought to the state by Scandinavian immigrants. Lefse and lutefisk dinners are held near Christmas and have become associated with that holiday. Lutefisk is a traditional dish of the Nordic countries made from stockfish (air-dried whitefish) and soda lye (_lut_). Walleye is the state fish of Minnesota and it is common to find it on restaurant menus. Its popularity with Minnesotans is such that the residents of the state consume more of the fish than does any other jurisdiction. Battered and deep-fried is a popular preparation for walleye, as is grilling. Many restaurants will feature walleye on their Friday night fish fry, which is popular at locales throughout the state.
 
 In northern Minnesota, along the North Shore of Lake Superior, commercial fishing has been practiced for generations.[67] Settlers were used to the cold, rugged work as many of these immigrants came directly from the coastal fishing villages of Norway.[68][69] Ciscoes (also known as lake herring), lake trout, lake whitefish, and rainbow smelt are still commercially fished today.[70] Shops along the North Shore that sell smoked local fish caught from the waters of the big lake are very popular with tourists and locals alike.[71][72]
 
@@ -259,7 +257,7 @@ German-Russian cuisine is primarily influenced by that of the Schwarzmeerdeutsch
 
 Ohio
 
-Buckeyes_Peanut_Butter_Balls(cropped).jpg]] A confection popular in the state of Ohio is the local variation of a peanut butter cup known as a 'Buckeye'. Coated in chocolate, with a partially exposed center of peanut butter fudge, in appearance the candy resembles the chestnut that grows on the state tree, commonly known as the Buckeye.
+]] A confection popular in the state of Ohio is the local variation of a peanut butter cup known as a 'Buckeye'. Coated in chocolate, with a partially exposed center of peanut butter fudge, in appearance the candy resembles the chestnut that grows on the state tree, commonly known as the Buckeye.
 
 Cincinnati-style chili is a Greek-inspired meat sauce, (ground beef seasoned with cinnamon, nutmeg, allspice, cloves, bay leaf, cumin, chili powder, unsweetened dark chocolate, salt and pepper), used as a topping for spaghetti or hot dogs. Additionally, red beans, chopped onions, and shredded cheese are offered as extra toppings referred to as "ways."
 

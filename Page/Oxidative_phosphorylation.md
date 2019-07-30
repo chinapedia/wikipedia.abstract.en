@@ -1,4 +1,4 @@
-Mitochondrial_electron_transport_chain—Etc4.svg in the cell is the site of oxidative phosphorylation in prokaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, releasing energy to power the ATP synthase.]]
+in the cell is the site of oxidative phosphorylation in prokaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, releasing energy to power the ATP synthase.]]
 
 OXIDATIVE PHOSPHORYLATION (UK , US [1] or ELECTRON TRANSPORT-LINKED PHOSPHORYLATION) is the metabolic pathway in which cells use enzymes to oxidize nutrients, thereby releasing energy which is used to produce adenosine triphosphate (ATP). In most eukaryotes, this takes place inside mitochondria. Almost all aerobic organisms carry out oxidative phosphorylation. This pathway is probably so pervasive because it is a highly efficient way of releasing energy, compared to alternative fermentation processes such as anaerobic glycolysis.
 
@@ -24,7 +24,7 @@ The amount of energy released by oxidative phosphorylation is high, compared wit
 
 Electron and proton transfer molecules
 
-Ubiquinone–ubiquinol_conversion.svg from its ubiquinone form (Q) to the reduced ubiquinol form (QH₂).]] The electron transport chain carries both protons and electrons, passing electrons from donors to acceptors, and transporting protons across a membrane. These processes use both soluble and protein-bound transfer molecules. In mitochondria, electrons are transferred within the intermembrane space by the water-soluble electron transfer protein cytochrome c.[8] This carries only electrons, and these are transferred by the reduction and oxidation of an iron atom that the protein holds within a heme group in its structure. Cytochrome c is also found in some bacteria, where it is located within the periplasmic space.[9]
+from its ubiquinone form (Q) to the reduced ubiquinol form (QH₂).]] The electron transport chain carries both protons and electrons, passing electrons from donors to acceptors, and transporting protons across a membrane. These processes use both soluble and protein-bound transfer molecules. In mitochondria, electrons are transferred within the intermembrane space by the water-soluble electron transfer protein cytochrome c.[8] This carries only electrons, and these are transferred by the reduction and oxidation of an iron atom that the protein holds within a heme group in its structure. Cytochrome c is also found in some bacteria, where it is located within the periplasmic space.[9]
 
 Within the inner mitochondrial membrane, the lipid-soluble electron carrier coenzyme Q10 (Q) carries both electrons and protons by a redox cycle.[10] This small benzoquinone molecule is very hydrophobic, so it diffuses freely within the membrane. When Q accepts two electrons and two protons, it becomes reduced to the _ubiquinol_ form (QH₂); when QH₂ releases two electrons and two protons, it becomes oxidized back to the _ubiquinone_ (Q) form. As a result, if two enzymes are arranged so that Q is reduced on one side of the membrane and QH₂ oxidized on the other, ubiquinone will couple these reactions and shuttle protons across the membrane.[11] Some bacterial electron transport chains use different quinones, such as menaquinone, in addition to ubiquinone.[12]
 
@@ -52,7 +52,7 @@ In eukaryotes, the enzymes in this electron transport system use the energy rele
 
 NADH-coenzyme Q oxidoreductase (complex I)
 
-Complex_I.svg. The abbreviations are discussed in the text. In all diagrams of respiratory complexes in this article, the matrix is at the bottom, with the intermembrane space above.]]
+. The abbreviations are discussed in the text. In all diagrams of respiratory complexes in this article, the matrix is at the bottom, with the intermembrane space above.]]
 
 NADH-coenzyme Q oxidoreductase, also known as _NADH dehydrogenase_ or _complex I_, is the first protein in the electron transport chain.[26] Complex I is a giant enzyme with the mammalian complex I having 46 subunits and a molecular mass of about 1,000 kilodaltons (kDa).[27] The structure is known in detail only from a bacterium;[28][29] in most organisms the complex resembles a boot with a large "ball" poking out from the membrane into the mitochondrion.[30][31] The genes that encode the individual proteins are contained in both the cell nucleus and the mitochondrial genome, as is the case for many enzymes present in the mitochondrion.
 
@@ -64,7 +64,7 @@ As the electrons pass through this complex, four protons are pumped from the mat
 
 Succinate-Q oxidoreductase (complex II)
 
-Complex_II.svg.]]
+.]]
 
 Succinate-Q oxidoreductase, also known as _complex II_ or _succinate dehydrogenase_, is a second entry point to the electron transport chain.[35] It is unusual because it is the only enzyme that is part of both the citric acid cycle and the electron transport chain. Complex II consists of four protein subunits and contains a bound flavin adenine dinucleotide (FAD) cofactor, iron–sulfur clusters, and a heme group that does not participate in electron transfer to coenzyme Q, but is believed to be important in decreasing production of reactive oxygen species.[36][37] It oxidizes succinate to fumarate and reduces ubiquinone. As this reaction releases less energy than the oxidation of NADH, complex II does not transport protons across the membrane and does not contribute to the proton gradient.
 
@@ -78,7 +78,7 @@ In mammals, this metabolic pathway is important in beta oxidation of fatty acids
 
 Q-cytochrome c oxidoreductase (complex III)
 
-Complex_III_reaction.svg. After each step, Q (in the upper part of the figure) leaves the enzyme.]]
+. After each step, Q (in the upper part of the figure) leaves the enzyme.]]
 
 Q-cytochrome c oxidoreductase is also known as _cytochrome c reductase_, _cytochrome bc₁ complex_, or simply _complex III_.[45][46] In mammals, this enzyme is a dimer, with each subunit complex containing 11 protein subunits, an [2Fe-2S] iron–sulfur cluster and three cytochromes: one cytochrome c₁ and two b cytochromes.[47] A cytochrome is a kind of electron-transferring protein that contains at least one heme group. The iron atoms inside complex III’s heme groups alternate between a reduced ferrous (+2) and oxidized ferric (+3) state as the electrons are transferred through the protein.
 
@@ -90,7 +90,7 @@ As coenzyme Q is reduced to ubiquinol on the inner side of the membrane and oxid
 
 Cytochrome c oxidase (complex IV)
 
-Complex_IV.svg.]]
+.]]
 
 Cytochrome c oxidase, also known as _complex IV_, is the final protein complex in the electron transport chain.[52] The mammalian enzyme has an extremely complicated structure and contains 13 subunits, two heme groups, as well as multiple metal ion cofactors – in all, three atoms of copper, one of magnesium and one of zinc.[53]
 
@@ -152,7 +152,7 @@ This phosphorylation reaction is an equilibrium, which can be shifted by alterin
 
 ATP synthase is a massive protein complex with a mushroom-like shape. The mammalian enzyme complex contains 16 subunits and has a mass of approximately 600 kilodaltons.[88] The portion embedded within the membrane is called F_(O) and contains a ring of c subunits and the proton channel. The stalk and the ball-shaped headpiece is called F₁ and is the site of ATP synthesis. The ball-shaped complex at the end of the F₁ portion contains six proteins of two different kinds (three α subunits and three β subunits), whereas the "stalk" consists of one protein: the γ subunit, with the tip of the stalk extending into the ball of α and β subunits.[89] Both the α and β subunits bind nucleotides, but only the β subunits catalyze the ATP synthesis reaction. Reaching along the side of the F₁ portion and back into the membrane is a long rod-like subunit that anchors the α and β subunits into the base of the enzyme.
 
-As protons cross the membrane through the channel in the base of ATP synthase, the F_(O) proton-driven motor rotates.[90] Rotation might be caused by changes in the ionization of amino acids in the ring of c subunits causing electrostatic interactions that propel the ring of c subunits past the proton channel.[91] This rotating ring in turn drives the rotation of the central axle (the γ subunit stalk) within the α and β subunits. The α and β subunits are prevented from rotating themselves by the side-arm, which acts as a stator. This movement of the tip of the γ subunit within the ball of α and β subunits provides the energy for the active sites in the β subunits to undergo a cycle of movements that produces and then releases ATP.[92] ATPsyn.gif. ATP is shown in red, ADP and phosphate in pink and the rotating γ subunit in black.]] This ATP synthesis reaction is called the _binding change mechanism_ and involves the active site of a β subunit cycling between three states.[93] In the "open" state, ADP and phosphate enter the active site (shown in brown in the diagram). The protein then closes up around the molecules and binds them loosely – the "loose" state (shown in red). The enzyme then changes shape again and forces these molecules together, with the active site in the resulting "tight" state (shown in pink) binding the newly produced ATP molecule with very high affinity. Finally, the active site cycles back to the open state, releasing ATP and binding more ADP and phosphate, ready for the next cycle.
+As protons cross the membrane through the channel in the base of ATP synthase, the F_(O) proton-driven motor rotates.[90] Rotation might be caused by changes in the ionization of amino acids in the ring of c subunits causing electrostatic interactions that propel the ring of c subunits past the proton channel.[91] This rotating ring in turn drives the rotation of the central axle (the γ subunit stalk) within the α and β subunits. The α and β subunits are prevented from rotating themselves by the side-arm, which acts as a stator. This movement of the tip of the γ subunit within the ball of α and β subunits provides the energy for the active sites in the β subunits to undergo a cycle of movements that produces and then releases ATP.[92] . ATP is shown in red, ADP and phosphate in pink and the rotating γ subunit in black.]] This ATP synthesis reaction is called the _binding change mechanism_ and involves the active site of a β subunit cycling between three states.[93] In the "open" state, ADP and phosphate enter the active site (shown in brown in the diagram). The protein then closes up around the molecules and binds them loosely – the "loose" state (shown in red). The enzyme then changes shape again and forces these molecules together, with the active site in the resulting "tight" state (shown in pink) binding the newly produced ATP molecule with very high affinity. Finally, the active site cycles back to the open state, releasing ATP and binding more ADP and phosphate, ready for the next cycle.
 
 In some bacteria and archaea, ATP synthesis is driven by the movement of sodium ions through the cell membrane, rather than the movement of protons.[94][95] Archaea such as _Methanococcus_ also contain the A₁A_(o) synthase, a form of the enzyme that contains additional proteins with little similarity in sequence to other bacterial and eukaryotic ATP synthase subunits. It is possible that, in some species, the A₁A_(o) form of the enzyme is a specialized sodium-driven ATP synthase,[96] but this might not be true in all cases.[97]
 

@@ -18,7 +18,7 @@ Matilda's mother and stepfather became heavily involved in the series of dispute
 
 First marriage
 
-Italy_1050.jpg in the second half of the 11th century]] In 1069, Godfrey the Bearded lay dying in Verdun. Beatrice and Matilda hastened to reach Lorraine, anxious to ensure a smooth transition of power. Matilda was present at her stepfather's deathbed, and on that occasion she is for the first time clearly mentioned as the wife of her stepbrother, Godfrey the Hunchback, to whom she had been betrothed since childhood. The marriage proved a failure; the death of their only child (a daughter called Beatrice) shortly after birth in August 1071 and Godfrey's physical deformity may have helped fuel deep animosity between the spouses.
+in the second half of the 11th century]] In 1069, Godfrey the Bearded lay dying in Verdun. Beatrice and Matilda hastened to reach Lorraine, anxious to ensure a smooth transition of power. Matilda was present at her stepfather's deathbed, and on that occasion she is for the first time clearly mentioned as the wife of her stepbrother, Godfrey the Hunchback, to whom she had been betrothed since childhood. The marriage proved a failure; the death of their only child (a daughter called Beatrice) shortly after birth in August 1071 and Godfrey's physical deformity may have helped fuel deep animosity between the spouses.
 
 By the end of 1071, Matilda had left her husband and returned to Tuscany. Matilda's bold decision to repudiate her husband came at a cost, but ensured her independence. Beatrice started preparing Matilda for rule by holding court jointly with her and, eventually, encouraging her to issue charters on her own as countess (_comitissa_) and duchess (_ducatrix_).
 
@@ -34,7 +34,7 @@ Between 1076 and 1080, Matilda travelled to Lorraine to lay claim to her husband
 
 Investiture Controversy
 
-Vatican_Codex_4922_Matilda.jpg’s _Vita Mathildis_ (Codex Vat. Lat. 4922, fol. 7v.). Matilda is depicted seated. On her right, Donizo is presenting her with a copy of the _Vita Mathildis_, on her left is a man with a sword (possibly her man-at-arms). The script underneath reads: _Mathildis lucens, precor hoc cape cara volumen_ (Resplendent Matilda, please accept this book, oh you dear one.)]]
+’s _Vita Mathildis_ (Codex Vat. Lat. 4922, fol. 7v.). Matilda is depicted seated. On her right, Donizo is presenting her with a copy of the _Vita Mathildis_, on her left is a man with a sword (possibly her man-at-arms). The script underneath reads: _Mathildis lucens, precor hoc cape cara volumen_ (Resplendent Matilda, please accept this book, oh you dear one.)]]
 
 The disagreement between Pope Gregory VII and King Henry IV culminated in the aftermath of the Synod of Worms in February 1076. Gregory declared Henry excommunicated, releasing all his subjects from allegiance to him and providing the perfect reason for rebellion against his rule. Insubordinate southern German princes gathered in Trebur, awaiting the Pope. Matilda's first military endeavor, as well as the first major task altogether as ruler, turned out to be protecting the Pope during his perilous journey north. Gregory could rely on nobody else; as the sole heir to the Attonid patrimony, Matilda controlled all the Apennine passes and nearly all the rest that connected central Italy to the north. The Lombard bishops, who were also excommunicated for taking part in the synod and whose sees bordered Matilda's domain, were keen to capture Gregory. Gregory was aware of the danger, and recorded that all his advisors except Matilda counselled him against travelling to Trebur.
 
@@ -69,8 +69,6 @@ Later Matilda allied with the two sons of Henry IV, Conrad and Henry, who rebell
 
 
 The final victory against Henry IV
-
-Matilde_di_Canossa_-_signature.jpg
 
 After several victories, including one against the Saxons, Henry IV prepared in 1090 his third descent to Italy, in order to inflict the final defeat on the Church. His route was the usual one, Brenner and Verona, along the border of Matilda's possessions, which began outside the cities' gates. The opposing armies would meet near Mantua. Matilda secured the loyalty of the townspeople by exempting them from some taxes, such as _teloneo_ and _ripatico_, and with the promise of Lombard franchise, entailing the rights to hunt, fish and cut wood on both banks of the Tartaro river.
 
@@ -108,7 +106,7 @@ It seems that even the foundation of the Church of San Salvaro in Legnago (Veron
 
 Death
 
-Tomb_of_Countess_Matilda_of_Tuscany_by_Gian_Lorenzo_Bernini.JPG Matilda's death from gout in 1115 at Bondeno di Roncore marked the end of an era in Italian politics. It is widely reported that she bequeathed her allodial property to the Pope. Unaccountably, however, this donation was never officially recognized in Rome and no record exists of it. Henry V had promised some of the cities in her territory that he would appoint no successor after he deposed her. In her place the leading citizens of these cities took control, and the era of the city-states in northern Italy began.
+Matilda's death from gout in 1115 at Bondeno di Roncore marked the end of an era in Italian politics. It is widely reported that she bequeathed her allodial property to the Pope. Unaccountably, however, this donation was never officially recognized in Rome and no record exists of it. Henry V had promised some of the cities in her territory that he would appoint no successor after he deposed her. In her place the leading citizens of these cities took control, and the era of the city-states in northern Italy began.
 
 Matilda was at first buried in the Abbey of San Benedetto in Polirone, located in the town of San Benedetto Po; then, in 1633, at the behest of Pope Urban VIII, her body was moved to Rome and placed in Castel Sant'Angelo. Finally, in 1645 her remains were definitely deposited in the Vatican, where they now lie in St. Peter's Basilica. She is one of only six women who have the honor of being buried in the Basilica, the others being Queen Christina of Sweden, Maria Clementina Sobieska (wife of James Francis Edward Stuart), St. Petronilla, Queen Charlotte of Cyprus and Agnesina Colonna Caetani.
 

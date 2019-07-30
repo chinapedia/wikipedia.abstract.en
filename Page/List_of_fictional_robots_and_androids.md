@@ -1,4 +1,4 @@
-Maria_from_metropolis.JPG" from the 1927 movie "Metropolis". Statue in Babelsberg, Germany.]] Robots and androids have frequently been depicted or described in works of fiction. The word "robot" itself comes from a work of fiction, Karel Čapek's play, _R.U.R. (Rossum's Universal Robots)_, written in 1920 and first performed in 1921.
+" from the 1927 movie "Metropolis". Statue in Babelsberg, Germany.]] Robots and androids have frequently been depicted or described in works of fiction. The word "robot" itself comes from a work of fiction, Karel Čapek's play, _R.U.R. (Rossum's Universal Robots)_, written in 1920 and first performed in 1921.
 
 This LIST OF FICTIONAL ROBOTS AND ANDROIDS is chronological, and categorised by medium. It includes all depictions of robots, androids and gynoids in literature, television, and cinema; however, robots that have appeared in more than one form of media are not necessarily listed in each of those media. This list is intended for all fictional computers which are described as existing in a humanlike or mobile form. It shows how the concept has developed in the human imagination through history.
 
@@ -12,8 +12,6 @@ Theatre
 
 
 Literature
-
-Celia-killer-bots-attacking-thom_mango_concept-art_02.png
 
 19th century and earlier
 
@@ -157,7 +155,7 @@ Film
 
 1940s and earlier
 
-L'uomo_meccanico_1.png'' (1921), a movie which shows a battle between robots.]]
+'' (1921), a movie which shows a battle between robots.]]
 
 -   THE DUMMY, played by Ben Turpin in _A Clever Dummy_, a Sennett silent short dating from 1917 when the term "robot" did not yet exist
 -   _THE MASTER MYSTERY_, a 1919 theatrical serial starring Harry Houdini, featuring a fully realized mechanical man (implemented as a costumed actor)

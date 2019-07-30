@@ -30,7 +30,7 @@ The phrase is also used in academic philosophy. Among its most notable uses is i
 
 Other uses and references
 
-Example_photo_1_of_a_prima_facie_speed_limit_-_Rapid_River,_Michigan_(United_States).jpg (United States)]] The phrase _prima facie_ is sometimes misspelled __ in the mistaken belief that __ is the actual Latin word; however, _faciē_ is in fact the ablative case of _faciēs_, a fifth declension Latin noun.
+(United States)]] The phrase _prima facie_ is sometimes misspelled __ in the mistaken belief that __ is the actual Latin word; however, _faciē_ is in fact the ablative case of _faciēs_, a fifth declension Latin noun.
 
 In policy debate theory, _prima facie_ is used to describe the mandates or planks of an affirmative case, or, in some rare cases, a negative counterplan. When the negative team appeals to _prima facie_, it appeals to the fact that the affirmative team cannot add or amend anything in its plan after being stated in the first affirmative constructive.
 

@@ -42,8 +42,6 @@ Poems
 
 Novellas
 
-Houghton_EC8.P7598.819va_(A)_-_Vampyre,_1819.jpg
-
 -   _The Vampyre: A Tale_ (1819) - a text that is "often even cited as almost folkloric sources on vampirism".[12]
 -   _Ernestus Berchtold; or, The Modern Oedipus: A Tale_ (1819)
 

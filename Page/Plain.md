@@ -1,4 +1,4 @@
-Mount_Ararat_and_the_Araratian_plain_(cropped).jpg in the Caucasus, with the Ararat plain in foreground.]] In geography, a PLAIN is a flat, sweeping landmass that generally does not change much in elevation. Plains occur as lowlands along the bottoms of valleys or on the doorsteps of mountains, as coastal plains, and as plateaus or uplands.[1]
+in the Caucasus, with the Ararat plain in foreground.]] In geography, a PLAIN is a flat, sweeping landmass that generally does not change much in elevation. Plains occur as lowlands along the bottoms of valleys or on the doorsteps of mountains, as coastal plains, and as plateaus or uplands.[1]
 
 In a valley, a plain is enclosed on two sides, but in other cases a plain may be delineated by a complete or partial ring of hills, by mountains, or by cliffs. Where a geological region contains more than one plain, they may be connected by a pass (sometimes termed a gap). Coastal plains would mostly rise from sea level until they run into elevated features such as mountains or plateaus.[2]
 
@@ -9,7 +9,7 @@ Plains in many areas are important for agriculture because where the soils were 
 
 Types of plain
 
-AlluvialPlain.JPG alluvial plain from Red Rock Canyon State Park (California).]] floodislewight.jpg.]]
+alluvial plain from Red Rock Canyon State Park (California).]] .]]
 
 Depositional plains
 
@@ -36,14 +36,14 @@ Structural plains
 
 STRUCTURAL PLAINS are relatively undisturbed horizontal surfaces of the Earth. They are structurally depressed areas of the world that make up some of the most extensive natural lowlands on the Earth's surface.[14]
 
-Maniototoevening.jpg dominates the eastern horizon of the Maniototo Plain]] Curry_County_Eastern_New_Mexico_2010.jpg, eastern New Mexico, on the North American Great Plains]]
+dominates the eastern horizon of the Maniototo Plain]] , eastern New Mexico, on the North American Great Plains]]
 
 
 Notable examples
 
 Americas
 
-Atardecer_en_los_Llanos_de_Guárico.jpg with relatively high relief in Venezuela]] Bozan_village.jpg)]] View_of_Fields_at_Biccavolu.jpg, Eastern coastal plains, Andhra Pradesh, India]] Yilan_Plain_2011-05-11.jpg thumb in Sweden.]] Nsomersetlevels.JPG, England, UK]] Fulda_countryside.jpg.]] Argeş_County_Romania_bgiu.jpg.]] Festos_-_Valley_of_Messara_2.jpg, Greece.]] Western_Sydney_(Badgerys_Creek)_Airport_site_-_Anton_Rd.JPG in Western Sydney, Australia.]] TaieriPlain.jpg.]]
+with relatively high relief in Venezuela]] )]] , Eastern coastal plains, Andhra Pradesh, India]] thumb in Sweden.]] , England, UK]] .]] .]] , Greece.]] in Western Sydney, Australia.]] .]]
 
 Caribbean and South America
 

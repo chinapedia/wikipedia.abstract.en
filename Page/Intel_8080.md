@@ -11,8 +11,6 @@ Description
 
 Programming model
 
-Intel_8080_arch.svg
-
 [TABLE]
 
 : Intel 8080 registers

@@ -1,4 +1,4 @@
-SF-Marin-Pt_Reyes_aerial_panorama.jpg, and Marin Headlands on a clear morning. November 2014 photo by Doc Searls.]] SAN FRANCISCO BAY is a shallow estuary in the US state of California. It is surrounded by a contiguous region known as the San Francisco Bay Area (often simply "the Bay Area"), and is dominated by the large cities of San Jose, San Francisco and Oakland.
+, and Marin Headlands on a clear morning. November 2014 photo by Doc Searls.]] SAN FRANCISCO BAY is a shallow estuary in the US state of California. It is surrounded by a contiguous region known as the San Francisco Bay Area (often simply "the Bay Area"), and is dominated by the large cities of San Jose, San Francisco and Oakland.
 
 San Francisco Bay drains water from approximately 40 percent of California. Water from the Sacramento and San Joaquin rivers, and from the Sierra Nevada mountains, flow into Suisun Bay, which then travels through the Carquinez Strait to meet with the Napa River at the entrance to San Pablo Bay, which connects at its south end to San Francisco Bay. The Guadalupe River enters the bay at its southernmost point in San Jose. The Guadalupe drains water from the Santa Cruz mountains and Hamilton Mountain ranges in southernmost San Jose. It enters the bay at the town of Alviso. It then connects to the Pacific Ocean via the Golden Gate strait. However, this entire group of interconnected bays is often called the _San Francisco Bay_. The bay was designated a Ramsar Wetland of International Importance on February 2, 2012.
 
@@ -11,7 +11,7 @@ The bay was navigable as far south as San Jose until the 1850s, when hydraulic m
 
 From the mid-19th century through the late 20th century, more than a third of the original bay was filled and often built on. The deep, damp soil in these areas is subject to soil liquefaction during earthquakes, and most of the major damage close to the Bay in the Loma Prieta earthquake of 1989 occurred to structures on these areas.
 
-The Marina District of San Francisco, hard hit by the 1989 earthquake, was built on fill that had been placed there for the Panama-Pacific International Exposition, although liquefaction did not occur on a large scale. In the 1990s, San Francisco International Airport proposed filling in hundreds more acres to extend its overcrowded international runways in exchange for purchasing other parts of the bay and converting them back to wetlands. The idea was, and remains, controversial. (For further details, see the "Bay Fill and Depth Profile" section.) SF,_Bay_Bridge_and_Oakland_2014.jpg, 2014]]
+The Marina District of San Francisco, hard hit by the 1989 earthquake, was built on fill that had been placed there for the Panama-Pacific International Exposition, although liquefaction did not occur on a large scale. In the 1990s, San Francisco International Airport proposed filling in hundreds more acres to extend its overcrowded international runways in exchange for purchasing other parts of the bay and converting them back to wetlands. The idea was, and remains, controversial. (For further details, see the "Bay Fill and Depth Profile" section.) , 2014]]
 
 There are five large islands in San Francisco Bay. Alameda, the largest island, was created when a shipping lane was cut to form the Port of Oakland in 1901. It is now a suburban community. Angel Island was known as "Ellis Island West" because it served as the entry point for immigrants from East Asia. It is now a state park accessible by ferry. Mountainous Yerba Buena Island is pierced by a tunnel linking the east and west spans of the San Francisco–Oakland Bay Bridge. Attached to the north is the artificial and flat Treasure Island, site of the 1939 Golden Gate International Exposition. From the Second World War until the 1990s, both islands served as military bases and are now being redeveloped. Isolated in the center of the Bay is Alcatraz, the site of the famous federal penitentiary. The federal prison on Alcatraz Island no longer functions, but the complex is a popular tourist site. Despite its name, Mare Island in the northern part of the bay is a peninsula rather than an island.
 
@@ -25,8 +25,6 @@ Until the last ice age, the basin which is now filled by the San Francisco Bay w
 
 History
 
-1781_Cañizares_Map_of_San_Francisco_Bay.pdf
-
 From 15,000 – 10,000 years ago, the Ohlone tribe inhabited the area that is now the San Francisco Bay. The natives were displaced 5,000 years ago as the bay filled with water due to the rising sea level at the end of the ice age.[5]
 
 The first European to see San Francisco Bay is likely N. de Morena who was left at New Albion at Drakes Bay in Marin County, California by Sir Francis Drake in 1579 and then walked to Mexico.[6][7]
@@ -39,16 +37,12 @@ The United States seized the region from Mexico during the Mexican–American Wa
 
 The bay became the center of American settlement and commerce in the Far West through most of the remainder of the 19th century. During the California Gold Rush (1848–1855), San Francisco Bay suddenly became one of the world's great seaports, dominating shipping in the American West until the last years of the 19th century. The bay's regional importance increased further when the First Transcontinental Railroad was connected to its western terminus at Alameda on September 6, 1869.[9] The terminus was switched to the Oakland Long Wharf two months later on November 8, 1869.[10]
 
-Duck_Hunt_Marshy_Shoreline_San_Francisco_Bay_Alameda_County_california.jpg
-
 During the 20th century, the bay was subject to the Reber Plan, which would have filled in parts of the bay in order to increase industrial activity along the waterfront. In 1959, the United States Army Corps of Engineers released a report stating that if current infill trends continued, the bay would be as big as a shipping channel by 2020. This news created the Save the Bay movement in 1960, which mobilized to stop the infill of wetlands and the bay in general, which had shrunk to two-thirds of its size in the century before 1961.[11]
 
 San Francisco Bay continues to support some of the densest industrial production and urban settlement in the United States. The San Francisco Bay Area is the American West's second-largest urban area with approximately seven million residents.[12]
 
 
 Ecology
-
-Sfestuaryhistorical.gif South_San_Francisco_Bay_salt_ponds_and_wildlife_refuges.jpg
 
 Despite its urban and industrial character, San Francisco Bay and the Sacramento-San Joaquin Delta remain perhaps California's most important ecological habitats. California's Dungeness crab, California halibut, and Pacific salmon fisheries rely on the bay as a nursery. The few remaining salt marshes now represent most of California's remaining salt marsh, supporting a number of endangered species and providing key ecosystem services such as filtering pollutants and sediments from the rivers. San Francisco Bay is recognized for protection by the California Bays and Estuaries Policy, with oversight provided by the San Francisco Estuary Partnership.[13]
 
@@ -72,13 +66,13 @@ The Bay was once considered a hotspot for polybrominated diphenyl ether (PBDE) f
 
 Bay fill and depth profile
 
-Boats_in_San_Francisco_bay.jpg San Francisco Bay's profile changed dramatically in the late 19th century and again with the initiation of dredging by the US Army Corps of Engineers in the 20th century. Before about 1860, most bay shores (with the exception of rocky shores, such as those in Carquinez Strait; along Marin shoreline; Point Richmond; Golden Gate area) contained extensive wetlands that graded nearly invisibly from freshwater wetlands to salt marsh and then tidal mudflat. A deep channel ran through the center of the bay, following the ancient drowned river valley.
+San Francisco Bay's profile changed dramatically in the late 19th century and again with the initiation of dredging by the US Army Corps of Engineers in the 20th century. Before about 1860, most bay shores (with the exception of rocky shores, such as those in Carquinez Strait; along Marin shoreline; Point Richmond; Golden Gate area) contained extensive wetlands that graded nearly invisibly from freshwater wetlands to salt marsh and then tidal mudflat. A deep channel ran through the center of the bay, following the ancient drowned river valley.
 
 In the 1860s and continuing into the early 20th century, miners dumped staggering quantities of mud and gravel from hydraulic mining operations into the upper Sacramento and San Joaquin Rivers. GK Gilbert's estimates of debris total more than eight times the amount of rock and dirt moved during construction of the Panama Canal. This material flowed down the rivers, progressively eroding into finer and finer sediment, until it reached the bay system. Here some of it settled, eventually filling in Suisun Bay, San Pablo Bay, and San Francisco Bay, in decreasing order of severity.
 
 By the end of the 19th century, these "slickens" had filled in much of the shallow bay flats, raising the entire bay profile. New marshes were created in some areas.
 
-San_Francisco_Bay_bridges.svg, (2) Golden Gate Bridge, (3) San Francisco-Oakland Bay Bridge, (4) San Mateo-Hayward Bridge, (5) Dumbarton Bridge, (6) Carquinez Bridge, (7) Benicia-Martinez Bridge, (8) Antioch Bridge]]
+, (2) Golden Gate Bridge, (3) San Francisco-Oakland Bay Bridge, (4) San Mateo-Hayward Bridge, (5) Dumbarton Bridge, (6) Carquinez Bridge, (7) Benicia-Martinez Bridge, (8) Antioch Bridge]]
 
 In the decades surrounding 1900, at the behest of local political officials and following Congressional orders, the US Army Corps began dredging the Sacramento and San Joaquin Rivers and the deep channels of San Francisco Bay. This work has continued without interruption ever since an enormous federal subsidy to San Francisco Bay shipping. Some of the dredge spoils were initially dumped in the bay shallows (including helping to create Treasure Island on the former shoals to the north of Yerba Buena Island) and used to raise an island in the Sacramento-San Joaquin Delta. The net effect of dredging has been to maintain a narrow deep channel—deeper perhaps than the original bay channel—through a much shallower bay. At the same time, most of the marsh areas have been filled or blocked off from the bay by dikes.
 
@@ -89,7 +83,7 @@ In the late 1990s, a 12-year harbor-deepening project for the Port of Oakland be
 
 Transportation
 
-San_Francisco_Bay_aerial_view.jpg San Francisco Bay was traversed by watercraft since long before the coming of Europeans. Indigenous peoples used canoes to fish and clam along the shoreline. The era of sail brought ships that connected the area to the rest of the world—and served as early ferries and freighters within the Bay and between the Bay and inland ports, such as Sacramento and Stockton. These were gradually replaced by steam-powered vessels starting in the late 19th century. Several shipyards were early established around the Bay, augmented during wartime. (e.g., the Kaiser Shipyards (Richmond Shipyards) near Richmond in 1940 for World War II for construction of revolutionary mass-produced, assembly line Liberty and Victory cargo ships)
+San Francisco Bay was traversed by watercraft since long before the coming of Europeans. Indigenous peoples used canoes to fish and clam along the shoreline. The era of sail brought ships that connected the area to the rest of the world—and served as early ferries and freighters within the Bay and between the Bay and inland ports, such as Sacramento and Stockton. These were gradually replaced by steam-powered vessels starting in the late 19th century. Several shipyards were early established around the Bay, augmented during wartime. (e.g., the Kaiser Shipyards (Richmond Shipyards) near Richmond in 1940 for World War II for construction of revolutionary mass-produced, assembly line Liberty and Victory cargo ships)
 
 San Francisco Bay is spanned by nine bridges, eight of which carry cars.
 
@@ -105,7 +99,7 @@ San Francisco Bay is spanned by nine bridges, eight of which carry cars.
 
 The Transbay Tube, an underwater rail tunnel, carries BART services between Oakland and San Francisco.
 
-Prior to the bridges and, later, the Transbay Tube, transbay transportation was dominated by fleets of ferryboats operated by the Southern Pacific Railroad and the Key System transit company. However, in recent decades, ferries have returned, primarily serving commuters from Marin County, relieving the traffic bottleneck of the Golden Gate Bridge. (See article Ferries of San Francisco Bay). Port_Of_Oakland_California.png
+Prior to the bridges and, later, the Transbay Tube, transbay transportation was dominated by fleets of ferryboats operated by the Southern Pacific Railroad and the Key System transit company. However, in recent decades, ferries have returned, primarily serving commuters from Marin County, relieving the traffic bottleneck of the Golden Gate Bridge. (See article Ferries of San Francisco Bay).
 
 The bay also continues to serve as a major seaport. The Port of Oakland is one of the largest cargo ports in the United States, while the Port of Richmond and the Port of San Francisco provide smaller services.
 

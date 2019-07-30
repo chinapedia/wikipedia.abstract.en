@@ -35,7 +35,7 @@ Urban VII died on 27 September 1590, shortly before midnight, of malaria in Rome
 
 His estate was valued at 30,000 scudi and it was bequeathed to the Archconfraternity of the Annunciation to use as dowries for poor young girls.
 
-Menorah_(Temple)_מנורת_בית_המקדש_Temple_vessels_Vatican_מדלייה_שיצא_עי_הוותיקן_בשנת_1590_בעת_מינוי_האפיפיור_אורבנוס_השביעיאורבנוס.JPG and the legend
+and the legend
 SIC•LUCEAT•LUX•VESTRA
 (Let your light so shine - Matt. 5:16)]]
 

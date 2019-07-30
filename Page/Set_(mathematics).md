@@ -1,4 +1,4 @@
-Example_of_a_set.svg]]
+]]
 
 In mathematics, a SET is a collection of distinct objects, considered as an object in its own right. For example, the numbers 2, 4, and 6 are distinct objects when considered separately, but when they are considered collectively they form a single set of size three, written . The concept of a set is one of the most fundamental in mathematics. Developed at the end of the 19th century, set theory is now a ubiquitous part of mathematics, and can be used as a foundation from which nearly all of mathematics can be derived. In mathematics education, elementary topics from set theory such as Venn diagrams are taught at a young age, while more advanced concepts are taught as part of a university degree.
 
@@ -7,7 +7,7 @@ The German word _Menge_, rendered as "set" in English, was coined by Bernard Bol
 
 Definition
 
-Passage_with_the_set_definition_of_Georg_Cantor.png A set is a well-defined collection of distinct objects. The objects that make up a set (also known as the set's _elements_ or _members_) can be anything: numbers, people, letters of the alphabet, other sets, and so on. Georg Cantor, one of the founders of set theory, gave the following definition of a set at the beginning of his _Beiträge zur Begründung der transfiniten Mengenlehre_:[1]
+A set is a well-defined collection of distinct objects. The objects that make up a set (also known as the set's _elements_ or _members_) can be anything: numbers, people, letters of the alphabet, other sets, and so on. Georg Cantor, one of the founders of set theory, gave the following definition of a set at the beginning of his _Beiträge zur Begründung der transfiniten Mengenlehre_:[1]
 
 Sets are conventionally denoted with capital letters. Sets _A_ and _B_ are equal if and only if they have precisely the same elements.[2]
 
@@ -60,8 +60,6 @@ If _A_ is a subset of _B_, but not equal to _B_, then _A_ is called a _proper su
 
 The expressions _A_ ⊂ _B_ and _B_ ⊃ _A_ are used differently by different authors; some authors use them to mean the same as _A_ ⊆ _B_ (respectively _B_ ⊇ _A_), whereas others use them to mean the same as _A_ ⊊ _B_ (respectively _B_ ⊋ _A_).
 
-Venn_A_subset_B.svg
-
 Examples:
 
 -   The set of all men is a proper subset of the set of all people.
@@ -102,7 +100,7 @@ Some sets have infinite cardinality. The set N of natural numbers, for instance,
 
 Special sets
 
-NumberSetinC.svg ℕ are contained in the integers ℤ, which are contained in the rational numbers ℚ, which are contained in the real numbers ℝ, which are contained in the complex numbers ℂ]]
+ℕ are contained in the integers ℤ, which are contained in the rational numbers ℚ, which are contained in the real numbers ℝ, which are contained in the complex numbers ℂ]]
 
 There are some sets or kinds of sets that hold great mathematical importance and are referred to with such regularity that they have acquired special names and notational conventions to identify them. One of these is the empty set, denoted or ∅. A set with exactly one element, _x_, is a unit set, or singleton, .[3]
 
@@ -127,7 +125,7 @@ There are several fundamental operations for constructing new sets from given se
 
 Unions
 
-Venn0111.svg Two sets can be "added" together. The _union_ of _A_ and _B_, denoted by _A_ ∪ _B_, is the set of all things that are members of either _A_ or _B_.
+Two sets can be "added" together. The _union_ of _A_ and _B_, denoted by _A_ ∪ _B_, is the set of all things that are members of either _A_ or _B_.
 
 Examples:
 
@@ -139,7 +137,7 @@ SOME BASIC PROPERTIES OF UNIONS:
 
 Intersections
 
-A new set can also be constructed by determining which members two sets have "in common". The _intersection_ of _A_ and _B_, denoted by is the set of all things that are members of both _A_ and _B_. If then _A_ and _B_ are said to be _disjoint_. Venn0001.svg
+A new set can also be constructed by determining which members two sets have "in common". The _intersection_ of _A_ and _B_, denoted by is the set of all things that are members of both _A_ and _B_. If then _A_ and _B_ are said to be _disjoint_.
 
 Examples:
 
@@ -151,7 +149,7 @@ SOME BASIC PROPERTIES OF INTERSECTIONS:
 
 Complements
 
-Venn0100.svg Venn1010.svg Venn0110.svg Two sets can also be "subtracted". The _relative complement_ of _B_ in _A_ (also called the _set-theoretic difference_ of _A_ and _B_), denoted by (or ), is the set of all elements that are members of _A_ but not members of _B_. Note that it is valid to "subtract" members of a set that are not in the set, such as removing the element _green_ from the set ; doing so has no effect.
+Two sets can also be "subtracted". The _relative complement_ of _B_ in _A_ (also called the _set-theoretic difference_ of _A_ and _B_), denoted by (or ), is the set of all elements that are members of _A_ but not members of _B_. Note that it is valid to "subtract" members of a set that are not in the set, such as removing the element _green_ from the set ; doing so has no effect.
 
 In certain settings all sets under discussion are considered to be subsets of a given universal set _U_. In such cases, is called the _absolute complement_ or simply _complement_ of _A_, and is denoted by _A_′.
 
@@ -215,8 +213,6 @@ For most purposes, however, naive set theory is still useful.
 
 
 Principle of inclusion and exclusion
-
-A_union_B.svg
 
 The inclusion–exclusion principle is a counting technique that can be used to count the number of elements in a union of two sets, if the size of each set and the size of their intersection are known. It can be expressed symbolically as
 

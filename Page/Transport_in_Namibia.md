@@ -12,7 +12,7 @@ The first permanent road, established for ox wagons, was built at the initiative
 
 Road
 
-Sandstorm_while_driving_from_Swakopmund_to_Walfish_Bay,_2005.jpg between Walvis Bay and Swakopmund. Windy conditions and the proximity of sand dunes lead to reduced visibility, and sand covering the tarmac]] Road_near_Luderitz_in_Namibia.jpg highway near Luderitz]] Namibia's road network is regarded as one of the best on the continent; road construction and maintenance adheres to international standards.[1] The country's more than roads are administered by the _Roads Authority_, a state-owned enterprise established by Act #17 of 1999. Due to low traffic volumes the majority of roads are not tarred. The distribution of road surfaces is:[2]
+between Walvis Bay and Swakopmund. Windy conditions and the proximity of sand dunes lead to reduced visibility, and sand covering the tarmac]] highway near Luderitz]] Namibia's road network is regarded as one of the best on the continent; road construction and maintenance adheres to international standards.[1] The country's more than roads are administered by the _Roads Authority_, a state-owned enterprise established by Act #17 of 1999. Due to low traffic volumes the majority of roads are not tarred. The distribution of road surfaces is:[2]
 
 -   standard bitumen road
 

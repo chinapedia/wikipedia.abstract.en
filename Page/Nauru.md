@@ -7,7 +7,7 @@ Nauru is a phosphate-rock island with rich deposits near the surface, which allo
 
 History
 
-Nauruan-warrior-1880ers.jpg Nauru was first inhabited by Micronesians and Polynesians at least 3,000 years ago.[8] There were traditionally 12 clans or tribes on Nauru, which are represented in the twelve-pointed star on the country's flag.[9] Traditionally, Nauruans traced their descent matrilineally. Inhabitants practised aquaculture: they caught juvenile _ibija_ fish, acclimatised them to fresh water, and raised them in the Buada Lagoon, providing a reliable source of food. The other locally grown components of their diet included coconuts and pandanus fruit.[10][11] The name "Nauru" may derive from the Nauruan word __, which means 'I go to the beach'.[12]
+Nauru was first inhabited by Micronesians and Polynesians at least 3,000 years ago.[8] There were traditionally 12 clans or tribes on Nauru, which are represented in the twelve-pointed star on the country's flag.[9] Traditionally, Nauruans traced their descent matrilineally. Inhabitants practised aquaculture: they caught juvenile _ibija_ fish, acclimatised them to fresh water, and raised them in the Buada Lagoon, providing a reliable source of food. The other locally grown components of their diet included coconuts and pandanus fruit.[10][11] The name "Nauru" may derive from the Nauruan word __, which means 'I go to the beach'.[12]
 
 The British sea captain John Fearn, a whale hunter, became the first Westerner to visit Nauru, in 1798, calling it "Pleasant Island".[13][14] From around 1830, Nauruans had contact with Europeans from whaling ships and traders who replenished their supplies, particularly fresh water, at Nauru.[15]
 
@@ -21,7 +21,7 @@ The island experienced an influenza epidemic in 1920, with a mortality rate of 1
 
 In 1923, the League of Nations gave Australia a trustee mandate over Nauru, with the United Kingdom and New Zealand as co-trustees.[33] On 6 and 7 December 1940, the German auxiliary cruisers _Komet_ and _Orion_ sank five supply ships in the vicinity of Nauru. _Komet_ then shelled Nauru's phosphate mining areas, oil storage depots, and the shiploading cantilever.[34][35]
 
-_Nauru_Island_under_attack_by_Liberator_bombers_of_the_Seventh_Air_Force..jpg bombing the Japanese airstrip on Nauru, 1943.[36]]]
+bombing the Japanese airstrip on Nauru, 1943.[36]]]
 
 Japanese troops occupied Nauru on 25 August 1942.[37] The Japanese built an airfield which was bombed for the first time on 25 March 1943, preventing food supplies from being flown to Nauru. The Japanese deported 1,200 Nauruans to work as labourers in the Chuuk islands,[38] which was also occupied by Japan. Nauru, which had been bypassed and left to "wither on the vine" by US forces, was finally liberated on 13 September 1945, when commander Hisayaki Soeda surrendered the island to the Australian Army and the Royal Australian Navy.[39] The surrender was accepted by Brigadier J. R. Stevenson, who represented Lieutenant General Vernon Sturdee, the commander of the First Australian Army, aboard the warship HMAS _Diamantina_.[40][41] Arrangements were made to repatriate from Chuuk the 737 Nauruans who survived Japanese captivity there. They were returned to Nauru by the BPC ship _Trienza_ in January 1946.[42]
 
@@ -33,8 +33,6 @@ Nauru became self-governing in January 1966, and following a two-year constituti
 
 
 Geography
-
-Nauru-map.gif
 
 Nauru is a ,[60] oval-shaped island in the southwestern Pacific Ocean, south of the equator.[61] The island is surrounded by a coral reef, which is exposed at low tide and dotted with pinnacles.[62] The presence of the reef has prevented the establishment of a seaport, although channels in the reef allow small boats access to the island.[63] A fertile coastal strip wide lies inland from the beach.[64]
 
@@ -50,8 +48,6 @@ Climate
 
 Nauru's climate is hot and very humid year-round because of its proximity to the equator and the ocean. Nauru is hit by monsoon rains between November and February, but almost always has no cyclones. Annual rainfall is highly variable and is influenced by the El Niño–Southern Oscillation, with several significant recorded droughts.[70][71] The temperature on Nauru ranges between during the day and is remarkably stable at around at night.[72]
 
-Aerial_view_of_Nauru.jpg
-
 Ecology
 
 Fauna is sparse on the island because of a lack of vegetation and the consequences of phosphates mining. Many indigenous birds have disappeared or become rare owing to destruction of their habitat.[73] There are about 60 recorded vascular plant species native to the island, none of which are endemic. Coconut farming, mining, and introduced species have seriously disturbed the native vegetation.[74]
@@ -61,7 +57,7 @@ There are no native land mammals, but there are native insects, land crabs, and 
 
 Politics
 
-Baron_Waqa.jpg]] Nauru-parliament.jpg
+]]
 
 The president of Nauru is Baron Waqa, who heads a 19-member unicameral parliament. The country is a member of the United Nations, the Commonwealth of Nations, the Asian Development Bank and the Pacific Islands Forum. Nauru also participates in the Commonwealth and Olympic Games. Recently Nauru became a member country of the International Renewable Energy Agency (IRENA). The Republic of Nauru became the 189th member of the International Monetary Fund in April 2016.
 
@@ -79,7 +75,7 @@ Foreign relations
 
 Following independence in 1968, Nauru joined the Commonwealth of Nations as a Special Member; it became a full member in 2000.[92] The country was admitted to the Asian Development Bank in 1991 and to the United Nations in 1999.[93] Nauru is a member of the Pacific Islands Forum, the South Pacific Regional Environment Programme, the South Pacific Commission, and the South Pacific Applied Geoscience Commission.[94] The US Atmospheric Radiation Measurement program operates a climate-monitoring facility on the island.[95]
 
-Nauru_cadet_police_on_training_exercise_(2).jpg, though there is a small police force under civilian control.]]
+, though there is a small police force under civilian control.]]
 
 Nauru has no armed forces, though there is a small police force under civilian control.[96] Australia is responsible for Nauru's defence under an informal agreement between the two countries.[97] The September 2005 memorandum of understanding between Australia and Nauru provides the latter with financial aid and technical assistance, including a Secretary of Finance to prepare the budget, and advisers on health and education. This aid is in return for Nauru's housing of asylum seekers while their applications for entry into Australia are processed.[98] Nauru uses the Australian dollar as its official currency.[99]
 
@@ -92,8 +88,6 @@ A significant portion of Nauru's income has been in the form of aid from Austral
 Amnesty International has since described the conditions of the refugees of war living in Nauru, as a "horror",[111][112] with reports of children as young as eight attempting suicide and engaging in acts of self-harm.[113] In 2018, the situation gained attention as a "mental health crisis", with an estimated thirty children suffering from traumatic withdrawal syndrome, also known as resignation syndrome. The condition is a deteriorating psychiatric condition wherein the sufferer can eventually become unresponsive and their body can begin to shut down. This condition has also been observed in other groups of asylum seekers.[114][115]
 
 Administrative divisions
-
-Nauru-districts-fr.svg
 
 Nauru is divided into fourteen administrative districts which are grouped into eight electoral constituencies and are further divided into villages.[116][117] The most populous district is Denigomodu with 1,804 residents, of which 1,497 reside in an NPC settlement called "Location". The following table shows population by district according to the 2011 census.[118]
 
@@ -135,8 +129,6 @@ Nauru is divided into fourteen administrative districts which are grouped into e
 
 Economy
 
-Nauru_satellite.jpg
-
 The Nauruan economy peaked in the mid-1970s to early-1980s,[119][120] when the phosphate deposits began to be depleted. At its peak, Nauru's GDP per capita was estimated to be US$50,000, second only to Saudi Arabia.[121] There are few other resources, and most necessities are imported.[122][123] Small-scale mining is still conducted by RONPhos, formerly known as the Nauru Phosphate Corporation.[124] The government places a percentage of RONPhos's earnings into the Nauru Phosphate Royalties Trust. The trust manages long-term investments, which were intended to support the citizens once the phosphate reserves were exhausted.[125]
 
 Because of mismanagement, the trust's fixed and current assets were reduced considerably and may never fully recover. The failed investments included financing _Leonardo the Musical_ in 1993.[126] The Mercure Hotel in Sydney[127] and Nauru House in Melbourne were sold in 2004 to finance debts and Air Nauru's only Boeing 737 was repossessed in December 2005. Normal air service resumed after the aircraft was replaced with a Boeing 737–300 airliner in June 2006.[128] In 2005, the corporation sold its remaining real estate in Melbourne, the vacant Savoy Tavern site, for $7.5 million.[129]
@@ -145,7 +137,7 @@ The value of the trust is estimated to have shrunk from A$1.3 billion in 1991 t
 
 There are no personal taxes in Nauru. The unemployment rate is estimated to be 23 percent, and of those who have jobs, the government employs 95 per cent.[133][134] The Asian Development Bank notes that, although the administration has a strong public mandate to implement economic reforms, in the absence of an alternative to phosphate mining, the medium-term outlook is for continued dependence on external assistance.[135] Tourism is not a major contributor to the economy.[136]
 
-The_site_of_secondary_mining_of_Phosphate_rock_in_Nauru,_2007._Photo-_Lorrie_Graham_(10729889683).jpg pinnacles remain after phosphate mining at the site of one of Nauru's secondary mines]]
+pinnacles remain after phosphate mining at the site of one of Nauru's secondary mines]]
 
 In the 1990s, Nauru became a tax haven and offered passports to foreign nationals for a fee.[137] The inter-governmental Financial Action Task Force on Money Laundering (FATF) identified Nauru as one of 15 "non-cooperative" countries in its fight against money laundering. During the 1990s, it was possible to establish a licensed bank in Nauru for only US$25,000 with no other requirements. Under pressure from FATF, Nauru introduced anti-avoidance legislation in 2003, after which foreign hot money left the country. In October 2005, after satisfactory results from the legislation and its enforcement, FATF lifted the non-cooperative designation.[138]
 
@@ -172,8 +164,6 @@ The official language of Nauru is Nauruan, a distinct Pacific island language, w
 
 Religion
 
-Nauru(09).jpg
-
 The main religion practised on the island is Christianity (the main denominations are Nauru Congregational Church 35.71%, Roman Catholic 32.96% Assemblies of God 12.98% and Baptist 1.48%).[150] The Constitution provides for freedom of religion. The government has restricted the religious practices of The Church of Jesus Christ of Latter-day Saints and the Jehovah's Witnesses, most of whom are foreign workers employed by the government-owned Nauru Phosphate Corporation.[151] The Catholics are pastorally served by the Roman Catholic Diocese of Tarawa and Nauru, with see at Tarawa in Kiribati.
 
 
@@ -187,7 +177,7 @@ There are no daily news publications on Nauru, although there is one fortnightly
 
 Sport
 
-Linkbelt1999-Finalspiel.jpg, played at Linkbelt Oval]]
+, played at Linkbelt Oval]]
 
 Australian rules football is the most popular sport in Nauru—it and weightlifting are considered the country's national sports. There is an Australian rules football league with eight teams.[156] Other sports popular in Nauru include volleyball, netball, fishing and tennis. Nauru participates in the Commonwealth Games and has participated in the Summer Olympic Games in weightlifting and judo.[157]
 
@@ -212,7 +202,7 @@ The previous community public library was destroyed in a fire. a new one had not
 
 Health
 
-Participants_of_a_walk_against_Diabetes_and_for_general_fitness_around_Nauru_airport.jpg. Nauruans are amongst the most obese people in the world.[164]]]
+. Nauruans are amongst the most obese people in the world.[164]]]
 
 Life expectancy on Nauru in 2009 was 60.6 years for males and 68.0 years for females.[165]
 
@@ -225,7 +215,7 @@ Transportation
 
 Air
 
-View_of_Nauru_airport.jpg The island is solely served by Nauru International Airport. Passenger service is provided by Nauru Airlines with Pacific Air Express also providing cargo service. Flights operate five days a week to well connected airports such as Brisbane and Nadi.[171]
+The island is solely served by Nauru International Airport. Passenger service is provided by Nauru Airlines with Pacific Air Express also providing cargo service. Flights operate five days a week to well connected airports such as Brisbane and Nadi.[171]
 
 
 See also

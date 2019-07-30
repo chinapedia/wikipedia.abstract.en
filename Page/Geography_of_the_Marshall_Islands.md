@@ -26,7 +26,7 @@ _other:_ 44.44% (2011)
 ENVIRONMENT - INTERNATIONAL AGREEMENTS:
 _party to:_ Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
 
-Bikini and Enewetak are former US nuclear test sites; Kwajalein, the famous World War II battleground, is now used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific.[2] Majuro_and_Arno_Atolls.jpg]]
+Bikini and Enewetak are former US nuclear test sites; Kwajalein, the famous World War II battleground, is now used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific.[2] ]]
 
 
 Climate
@@ -38,7 +38,7 @@ Due to their low elevation, the Marshall Islands are threatened by the potential
 
 Extreme points
 
-Bikrin_Islet_16.JPGThis is a list of the extreme points of the Marshall Islands, the points that are farther north, south, east or west than any other location.
+This is a list of the extreme points of the Marshall Islands, the points that are farther north, south, east or west than any other location.
 
 -   Northernmost point – Bokak Atoll (Taongi), Ratak Chain*
 -   Easternmost point – Knox Atoll, Ratak Chain

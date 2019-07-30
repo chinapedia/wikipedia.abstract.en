@@ -19,7 +19,7 @@ Ralph Snr and Mary settled at Aller, where their children (listed below) were ch
 
 Children
 
-St_Andrews_Church,_Aller_(geograph_5188498).jpg, Aller, Somerset: where John Stoughton succeeded Ralph Cudworth Snr (1624)]]THE CHILDREN OF RALPH CUDWORTH SNR AND MARY (NÉE MACHELL) CUDWORTH (_C_.1582–1634) WERE:
+, Aller, Somerset: where John Stoughton succeeded Ralph Cudworth Snr (1624)]]THE CHILDREN OF RALPH CUDWORTH SNR AND MARY (NÉE MACHELL) CUDWORTH (_C_.1582–1634) WERE:
 
 -   General James Cudworth (1612–82) was Assistant Governor (1756–8, 1674–80) and Deputy Governor (1681–2) of Plymouth Colony, Massachusetts, and four-times Commissioner of the United Colonies (1657–81),[23] whose descendants form an extensive family of American Cudworths.
 -   Elizabeth Cudworth (1615–54) married (1636) Josias Beacham of Broughton, Northamptonshire (Rector of Seaton, Rutland (1627–76)), by whom she had several children. Beacham was ejected from his living by the Puritans (1653), but reinstated (by 1662).[24]
@@ -55,13 +55,13 @@ Commonwealth and Restoration
 
 Cudworth emerged as a central figure among that circle of theologians and philosophers known as the Cambridge Platonists, who were (more or less) in sympathy with the Commonwealth: during the later 1650s, Cudworth was consulted by John Thurloe, Oliver Cromwell's Secretary to the Council of State, with regard to certain university and government appointments and various other matters.[58][59] During 1657, Cudworth advised Bulstrode Whitelocke's sub-committee of the Parliamentary "Grand Committee for Religion" on the accuracy of editions of the English Bible.[60] Cudworth was appointed Vicar of Great Wilbraham, and Rector of Toft, Cambridgeshire Ely diocese (1656), but surrendered these livings (1661 and 1662, respectively) when he was presented, by Dr Gilbert Sheldon, Bishop of London, to the Hertfordshire Rectory of Ashwell (1 December 1662).[61]
 
-Former_swimming_pool_-_geograph.org.uk_-_1580169.jpg Given Cudworth's close cooperation with prominent figures in Oliver Cromwell's regime (such as John Thurloe), Cudworth's continuance as Master of Christ's was challenged at the Restoration but, ultimately, he retained this post until his death.[62] He and his family are believed to have resided in private lodgings at the "Old Lodge" (which stood between Hobson Street and the College Chapel), and various improvements were made to the College rooms in his time.[63]
+Given Cudworth's close cooperation with prominent figures in Oliver Cromwell's regime (such as John Thurloe), Cudworth's continuance as Master of Christ's was challenged at the Restoration but, ultimately, he retained this post until his death.[62] He and his family are believed to have resided in private lodgings at the "Old Lodge" (which stood between Hobson Street and the College Chapel), and various improvements were made to the College rooms in his time.[63]
 
 Later life
 
 In 1665, Cudworth almost quarrelled with his fellow-Platonist, Henry More, because of the latter's composition of an ethical work which Cudworth feared would interfere with his own long-contemplated treatise on the same subject.[64] To avoid any difficulties, More published his _Enchiridion ethicum_ (1666–69), in Latin;[65] However, Cudworth's planned treatise was never published. His own majestic work, _The True Intellectual System of the Universe_ (1678),[66] was conceived in three parts of which only the first was completed; he wrote: "there is no reason why this volume should therefore be thought imperfect and incomplete, because it hath not all the Three Things at first Designed by us: it containing all that belongeth to its own particular Title and Subject, and being in that respect no Piece, but a Whole."[67]
 
-All_Saints_Church_Damaris_Cudworth_tablet_plaque_High_Laver_Essex_England.jpg Cudworth was installed as Prebendary of Gloucester (1678).[68] His colleague, Benjamin Whichcote, died at Cudworth's house in Cambridge (1683),[69] and Cudworth himself died (26 June 1688), and was buried in the Chapel of Christ's College.[70] An oil portrait of Cudworth (from life) hangs in the Hall of Christ's College.[71] During Cudworth's time an outdoor Swimming Pool was created at Christ's College (which still exists), and a carved bust of Cudworth there accompanies those of John Milton and Nicholas Saunderson.[72]
+Cudworth was installed as Prebendary of Gloucester (1678).[68] His colleague, Benjamin Whichcote, died at Cudworth's house in Cambridge (1683),[69] and Cudworth himself died (26 June 1688), and was buried in the Chapel of Christ's College.[70] An oil portrait of Cudworth (from life) hangs in the Hall of Christ's College.[71] During Cudworth's time an outdoor Swimming Pool was created at Christ's College (which still exists), and a carved bust of Cudworth there accompanies those of John Milton and Nicholas Saunderson.[72]
 
 Cudworth's widow, Damaris (née Cradock) Andrewes Cudworth (d.1695), maintained close connections with her daughter, Damaris Cudworth Masham, at High Laver, Essex, which was where she died, and was commemorated in the church with a carved epitaph reputedly composed by the philosopher John Locke.[73]
 
@@ -101,7 +101,7 @@ _The True Intellectual System of the Universe_ (1678)
 
 In 1678, Cudworth published _The True Intellectual System of the Universe: the first part, wherein all the reason and philosophy of atheism is confuted and its impossibility demonstrated_, which had been given an Imprimatur for publication (29 May 1671).
 
-The_True_Intellectual_System_of_the_Universe_-bound_with_another_text_by_Cudworth-_2_vols_-_Upper_cover_(Davis187).jpg The _Intellectual System_ arose, so Cudworth informs us, from a discourse refuting "fatal necessity", or determinism.[91] Enlarging his plan, he proposed to prove three matters:
+The _Intellectual System_ arose, so Cudworth informs us, from a discourse refuting "fatal necessity", or determinism.[91] Enlarging his plan, he proposed to prove three matters:
 
     (a) the existence of God;
     (b) the naturalness of moral distinctions; and

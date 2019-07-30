@@ -1,4 +1,4 @@
-Wolfgang_Pauli.jpg (1900–1958), ca. 1924. Pauli received the Nobel Prize in physics in 1945, nominated by Albert Einstein, for the Pauli exclusion principle.]] In mathematical physics and mathematics, the PAULI MATRICES are a set of three complex matrices which are Hermitian and unitary.[1] Usually indicated by the Greek letter sigma (), they are occasionally denoted by tau () when used in connection with isospin symmetries. They are
+(1900–1958), ca. 1924. Pauli received the Nobel Prize in physics in 1945, nominated by Albert Einstein, for the Pauli exclusion principle.]] In mathematical physics and mathematics, the PAULI MATRICES are a set of three complex matrices which are Hermitian and unitary.[1] Usually indicated by the Greek letter sigma (), they are occasionally denoted by tau () when used in connection with isospin symmetries. They are
 
 $$\begin{align}
   \sigma_1 = \sigma_x &=

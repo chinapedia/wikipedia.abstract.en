@@ -1,4 +1,4 @@
-Galilean_moon_Laplace_resonance_animation_2.gif. Conjunctions are highlighted by brief color changes. There are two Io-Europa conjunctions (green) and three Io-Ganymede conjunctions (grey) for each Europa-Ganymede conjunction (magenta).]]
+. Conjunctions are highlighted by brief color changes. There are two Io-Europa conjunctions (green) and three Io-Ganymede conjunctions (grey) for each Europa-Ganymede conjunction (magenta).]]
 
 In celestial mechanics, ORBITAL RESONANCE occurs when orbiting bodies exert regular, periodic gravitational influence on each other, usually because their orbital periods are related by a ratio of small integers. Most commonly this relationship is found for a pair of objects. The physical principle behind orbital resonance is similar in concept to pushing a child on a swing, where the orbit and the swing both have a natural frequency, and the other body doing the "pushing" will act in periodic repetition to have a cumulative effect on the motion. Orbital resonances greatly enhance the mutual gravitational influence of the bodies, i.e., their ability to alter or constrain each other's orbits. In most cases, this results in an _unstable_ interaction, in which the bodies exchange momentum and shift orbits until the resonance no longer exists. Under some circumstances, a resonant system can be stable and self-correcting, so that the bodies remain in resonance. Examples are the 1:2:4 resonance of Jupiter's moons Ganymede, Europa and Io, and the 2:3 resonance between Pluto and Neptune. Unstable resonances with Saturn's inner moons give rise to gaps in the rings of Saturn. The special case of 1:1 resonance between bodies with similar orbital radii causes large Solar System bodies to eject most other bodies sharing their orbits; this is part of the much more extensive process of clearing the neighbourhood, an effect that is used in the current definition of a planet.
 
@@ -14,7 +14,7 @@ It was Laplace who found the first answers explaining the linked orbits of the G
 
 Types of resonance
 
-TheKuiperBelt_75AU_All.svg of resonant trans-Neptunian objects (red) are clumped at locations of low-integer resonances with Neptune (vertical red bars near top), in contrast to those of cubewanos (blue) and nonresonant (or not known to be resonant) scattered objects (grey).]] Kirkwood_Gaps.svg semimajor axes, showing the Kirkwood gaps where orbits are destabilized by resonances with Jupiter]] PIA10452_-_Saturn_A_ring_spiral_density_waves.jpgs in Saturn's A Ring excited by resonances with inner moons. Such waves propagate away from the planet (towards upper left). The large set of waves just below center is due to the 6:5 resonance with Janus.]] PIA17173_Titan_resonances_in_Saturn's_C_ring.jpg[1] in the Columbo Gap of Saturn's C Ring (center) and the inclined orbits of resonant particles in the bending wave[2][3] just inside it have apsidal and nodal precessions, respectively, commensurate with Titan's mean motion.]]
+of resonant trans-Neptunian objects (red) are clumped at locations of low-integer resonances with Neptune (vertical red bars near top), in contrast to those of cubewanos (blue) and nonresonant (or not known to be resonant) scattered objects (grey).]] semimajor axes, showing the Kirkwood gaps where orbits are destabilized by resonances with Jupiter]] s in Saturn's A Ring excited by resonances with inner moons. Such waves propagate away from the planet (towards upper left). The large set of waves just below center is due to the 6:5 resonance with Janus.]] [1] in the Columbo Gap of Saturn's C Ring (center) and the inclined orbits of resonant particles in the bending wave[2][3] just inside it have apsidal and nodal precessions, respectively, commensurate with Titan's mean motion.]]
 
 In general, an orbital resonance may
 
@@ -56,7 +56,7 @@ In an example of another type of resonance involving orbital eccentricity, the e
 
 Mean-motion resonances in the Solar System
 
-Haumea.GIF's presumed 7:12 resonance with Neptune in a rotating frame, with Neptune (blue dot at lower right) held stationary. Haumea's shifting orbital alignment relative to Neptune periodically reverses (librates), preserving the resonance.]]
+'s presumed 7:12 resonance with Neptune in a rotating frame, with Neptune (blue dot at lower right) held stationary. Haumea's shifting orbital alignment relative to Neptune periodically reverses (librates), preserving the resonance.]]
 
 There are only a few known mean-motion resonances in the Solar System involving planets, dwarf planets or larger satellites (a much greater number involve asteroids, planetary rings, moonlets and smaller Kuiper belt objects, including many possible dwarf planets).
 
@@ -91,7 +91,7 @@ The point of conjunctions librates around the midpoint between the nodes of the 
 
 Laplace resonance
 
-TheLaplaceResonance2.png The Laplace resonance involving Io–Europa–Ganymede includes the following relation locking the _orbital phase_ of the moons:
+The Laplace resonance involving Io–Europa–Ganymede includes the following relation locking the _orbital phase_ of the moons:
 
 $$\Phi_L=\lambda_{\rm Io} - 3\cdot\lambda_{\rm Eu} + 2\cdot\lambda_{\rm Ga}=180^\circ$$
 
@@ -149,7 +149,7 @@ Cases of extrasolar planets close to a 1:2 mean-motion resonance are fairly comm
 
 Coincidental 'near' ratios of mean motion
 
-PallasJupiter.GIF 18:7 near resonance with Jupiter in a rotating frame (_click for animation_). Jupiter (pink loop at upper left) is held nearly stationary. The shift in Pallas' orbital alignment relative to Jupiter increases steadily over time; it never reverses course (i.e., there is no libration).]] Venus_pentagram.png:Venus 8:13 near resonance. With Earth held stationary at the center of a nonrotating frame, the successive inferior conjunctions of Venus over eight Earth years trace a pentagrammic pattern (reflecting the difference between the numbers in the ratio).]] Moons_of_Pluto.png's small outer four moons, which follow a 3:4:5:6 sequence of near resonances relative to the period of its large inner satellite Charon. The moons Styx, Nix and Hydra are also involved in a true 3-body resonance.]]
+18:7 near resonance with Jupiter in a rotating frame (_click for animation_). Jupiter (pink loop at upper left) is held nearly stationary. The shift in Pallas' orbital alignment relative to Jupiter increases steadily over time; it never reverses course (i.e., there is no libration).]] :Venus 8:13 near resonance. With Earth held stationary at the center of a nonrotating frame, the successive inferior conjunctions of Venus over eight Earth years trace a pentagrammic pattern (reflecting the difference between the numbers in the ratio).]] 's small outer four moons, which follow a 3:4:5:6 sequence of near resonances relative to the period of its large inner satellite Charon. The moons Styx, Nix and Hydra are also involved in a true 3-body resonance.]]
 
 A number of near-integer-ratio relationships between the orbital frequencies of the planets or major moons are sometimes pointed out (see list below). However, these have no dynamical significance because there is no appropriate precession of perihelion or other libration to make the resonance perfect (see the detailed discussion in the section above). Such near resonances are dynamically insignificant even if the mismatch is quite small because (unlike a true resonance), after each cycle the relative position of the bodies shifts. When averaged over astronomically short timescales, their relative position is random, just like bodies that are nowhere near resonance. For example, consider the orbits of Earth and Venus, which arrive at almost the same configuration after 8 Earth orbits and 13 Venus orbits. The actual ratio is 0.61518624, which is only 0.032% away from exactly 8:13. The mismatch after 8 years is only 1.5° of Venus' orbital movement. Still, this is enough that Venus and Earth find themselves in the opposite relative orientation to the original every 120 such cycles, which is 960 years. Therefore, on timescales of thousands of years or more (still tiny by astronomical standards), their relative position is effectively random.
 

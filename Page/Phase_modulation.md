@@ -9,7 +9,7 @@ PM is used for signal and waveform generation in digital synthesizers, such as t
 
 Theory
 
-Phase-modulation.gif PM changes the phase angle of the complex envelope in direct proportion to the message signal.
+PM changes the phase angle of the complex envelope in direct proportion to the message signal.
 
 If _m(t)_ is the message signal to be transmitted and the carrier onto which the signal is modulated is
 

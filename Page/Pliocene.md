@@ -56,14 +56,12 @@ In Britain the Pliocene is divided into the following stages (old to young): Ged
 
 Climate
 
-Pliocene_sst_anomaly.png Landscape_of_the_Pliocene_epoch_-_showing_environment_at_the_time_of_men's_appearance_-_drawn_by_Riou.jpg
-
 The global average temperature in the mid-Pliocene (3.3–3 mya) was 2–3 °C higher than today,[5] carbon dioxide levels were the same as today,[6] and global sea level was 25 m higher.[7] The northern hemisphere ice sheet was ephemeral before the onset of extensive glaciation over Greenland that occurred in the late Pliocene around 3 Ma.[8] The formation of an Arctic ice cap is signaled by an abrupt shift in oxygen isotope ratios and ice-rafted cobbles in the North Atlantic and North Pacific ocean beds.[9] Mid-latitude glaciation was probably underway before the end of the epoch. The global cooling that occurred during the Pliocene may have spurred on the disappearance of forests and the spread of grasslands and savannas.[10]
 
 
 Paleogeography
 
-Great_American_Biotic_Interchange_examples.svg Continents continued to drift, moving from positions possibly as far as 250 km from their present locations to positions only 70 km from their current locations. South America became linked to North America through the Isthmus of Panama during the Pliocene, making possible the Great American Interchange and bringing a nearly complete end to South America's distinctive large marsupial predator and native ungulate faunas. The formation of the Isthmus had major consequences on global temperatures, since warm equatorial ocean currents were cut off and an Atlantic cooling cycle began, with cold Arctic and Antarctic waters dropping temperatures in the now-isolated Atlantic Ocean.
+Continents continued to drift, moving from positions possibly as far as 250 km from their present locations to positions only 70 km from their current locations. South America became linked to North America through the Isthmus of Panama during the Pliocene, making possible the Great American Interchange and bringing a nearly complete end to South America's distinctive large marsupial predator and native ungulate faunas. The formation of the Isthmus had major consequences on global temperatures, since warm equatorial ocean currents were cut off and an Atlantic cooling cycle began, with cold Arctic and Antarctic waters dropping temperatures in the now-isolated Atlantic Ocean.
 
 Africa's collision with Europe formed the Mediterranean Sea, cutting off the remnants of the Tethys Ocean. The border between the Miocene and the Pliocene is also the time of the Messinian salinity crisis.
 
@@ -93,7 +91,7 @@ In North America, rodents, large mastodons and gomphotheres, and opossums contin
 
 In Eurasia rodents did well, while primate distribution declined. Elephants, gomphotheres and stegodonts were successful in Asia, and hyraxes migrated north from Africa. Horse diversity declined, while tapirs and rhinos did fairly well. Cows and antelopes were successful, and some camel species crossed into Asia from North America. Hyenas and early saber-toothed cats appeared, joining other predators including dogs, bears and weasels.
 
-Pliocene.jpg Africa was dominated by hoofed animals, and primates continued their evolution, with australopithecines (some of the first hominins) appearing in the late Pliocene. Rodents were successful, and elephant populations increased. Cows and antelopes continued diversification and overtaking pigs in numbers of species. Early giraffes appeared. Horses and modern rhinos came onto the scene. Bears, dogs and weasels (originally from North America) joined cats, hyenas and civets as the African predators, forcing hyenas to adapt as specialized scavengers.
+Africa was dominated by hoofed animals, and primates continued their evolution, with australopithecines (some of the first hominins) appearing in the late Pliocene. Rodents were successful, and elephant populations increased. Cows and antelopes continued diversification and overtaking pigs in numbers of species. Early giraffes appeared. Horses and modern rhinos came onto the scene. Bears, dogs and weasels (originally from North America) joined cats, hyenas and civets as the African predators, forcing hyenas to adapt as specialized scavengers.
 
 South America was invaded by North American species for the first time since the Cretaceous, with North American rodents and primates mixing with southern forms. Litopterns and the notoungulates, South American natives, were mostly wiped out, except for the macrauchenids and toxodonts, which managed to survive. Small weasel-like carnivorous mustelids, coatis and short-faced bears migrated from the north. Grazing glyptodonts, browsing giant ground sloths and smaller caviomorph rodents, pampatheres, and armadillos did the opposite, migrating to the north and thriving there.
 
@@ -101,7 +99,7 @@ The marsupials remained the dominant Australian mammals, with herbivore forms in
 
 Birds
 
-Titanis07DB.jpg The predatory South American phorusrhacids were rare in this time; among the last was _Titanis_, a large phorusrhacid that migrated to North America and rivaled mammals as top predator. Other birds probably evolved at this time, some modern (such as the genera _Cygnus_, _Bubo_, _Struthio_ and _Corvus_), some now extinct.
+The predatory South American phorusrhacids were rare in this time; among the last was _Titanis_, a large phorusrhacid that migrated to North America and rivaled mammals as top predator. Other birds probably evolved at this time, some modern (such as the genera _Cygnus_, _Bubo_, _Struthio_ and _Corvus_), some now extinct.
 
 Reptiles and amphibians
 

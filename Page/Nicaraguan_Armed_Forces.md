@@ -75,8 +75,6 @@ Army equipment
 
 Light equipment
 
-US_Navy_110324-N-WX845-656_U.S._Marine_Sgt._Michael_Roth,_assigned_to_Marine_Corps_Training_and_Advisory_Group,_observes_Nicaraguan_sailors_and_sol.jpg
-
 -   Degtyaryov machine gun
 -   Makarov PM
 -   M1911 pistol

@@ -22,8 +22,6 @@ While in St. Augustine, Emerson had his first encounter with slavery. At one poi
 
 Early career
 
-Emerson3_cropped.jpg
-
 After Harvard, Emerson assisted his brother William[27] in a school for young women[28] established in their mother's house, after he had established his own school in Chelmsford, Massachusetts; when his brother William[29] went to Göttingen to study law in mid-1824, Ralph Waldo closed the school but continued to teach in Cambridge, Massachusetts until early 1825.[30] Emerson was accepted into the Harvard Divinity School in late 1824,[31] and was inducted into Phi Beta Kappa in 1828.[32] Emerson's brother Edward,[33] two years younger than he, entered the office of the lawyer Daniel Webster, after graduating from Harvard first in his class. Edward's physical health began to deteriorate, and he soon suffered a mental collapse as well; he was taken to McLean Asylum in June 1828 at age 23. Although he recovered his mental equilibrium, he died in 1834, apparently from long-standing tuberculosis.[34] Another of Emerson's bright and promising younger brothers, Charles, born in 1808, died in 1836, also of tuberculosis,[35] making him the third young person in Emerson's innermost circle to die in a period of a few years.
 
 Emerson met his first wife, Ellen Louisa Tucker, in Concord, New Hampshire, on Christmas Day, 1827, and married her when she was 18.[36] The couple moved to Boston, with Emerson's mother, Ruth, moving with them to help take care of Ellen, who was already ill with tuberculosis.[37] Less than two years later, on February 8, 1831, Ellen died, at the age of 20, after uttering her last words: "I have not forgotten the peace and joy".[38] Emerson was heavily affected by her death and visited her grave in Roxbury daily.[39] In a journal entry dated March 29, 1832, he wrote, "I visited Ellen's tomb & opened the coffin".[40]
@@ -32,7 +30,7 @@ Boston's Second Church invited Emerson to serve as its junior pastor, and he was
 
 After his wife's death, he began to disagree with the church's methods, writing in his journal in June 1832, "I have sometimes thought that, in order to be a good minister, it was necessary to leave the ministry. The profession is antiquated. In an altered age, we worship in the dead forms of our forefathers".[43] His disagreements with church officials over the administration of the Communion service and misgivings about public prayer eventually led to his resignation in 1832. As he wrote, "This mode of commemorating Christ is not suitable to me. That is reason enough why I should abandon it".[44][45] As one Emerson scholar has pointed out, "Doffing the decent black of the pastor, he was free to choose the gown of the lecturer and teacher, of the thinker not confined within the limits of an institution or a tradition".[46] Emerson toured Europe in 1833 and later wrote of his travels in _English Traits_ (1856).[47] He left aboard the brig _Jasper_ on Christmas Day, 1832, sailing first to Malta.[48] During his European trip, he spent several months in Italy, visiting Rome, Florence and Venice, among other cities. When in Rome, he met with John Stuart Mill, who gave him a letter of recommendation to meet Thomas Carlyle. He went to Switzerland, and had to be dragged by fellow passengers to visit Voltaire's home in Ferney, "protesting all the way upon the unworthiness of his memory".[49] He then went on to Paris, a "loud modern New York of a place",[50] where he visited the Jardin des Plantes. He was greatly moved by the organization of plants according to Jussieu's system of classification, and the way all such objects were related and connected. As Robert D. Richardson says, "Emerson's moment of insight into the interconnectedness of things in the Jardin des Plantes was a moment of almost visionary intensity that pointed him away from theology and toward science".[51]
 
-Moving north to England, Emerson met William Wordsworth, Samuel Taylor Coleridge, and Thomas Carlyle. Carlyle in particular was a strong influence on him; Emerson would later serve as an unofficial literary agent in the United States for Carlyle, and in March 1835, he tried to persuade Carlyle to come to America to lecture.[52] The two maintained a correspondence until Carlyle's death in 1881.[53] Daguerreotype_Lydia_Jackson_Emerson_and_Edward_Waldo_Emerson_1840.jpeg of Lidian Jackson Emerson and her son Edward Waldo Emerson, circa 1850]]
+Moving north to England, Emerson met William Wordsworth, Samuel Taylor Coleridge, and Thomas Carlyle. Carlyle in particular was a strong influence on him; Emerson would later serve as an unofficial literary agent in the United States for Carlyle, and in March 1835, he tried to persuade Carlyle to come to America to lecture.[52] The two maintained a correspondence until Carlyle's death in 1881.[53] of Lidian Jackson Emerson and her son Edward Waldo Emerson, circa 1850]]
 
 Emerson returned to the United States on October 9, 1833, and lived with his mother in Newton, Massachusetts. In October 1834, he moved to Concord, Massachusetts to live with his step-grandfather, Dr. Ezra Ripley, at what was later named The Old Manse.[54] Seeing the budding Lyceum movement, which provided lectures on all sorts of topics, Emerson saw a possible career as a lecturer. On November 5, 1833, he made the first of what would eventually be some 1,500 lectures, "The Uses of Natural History", in Boston. This was an expanded account of his experience in Paris.[55] In this lecture, he set out some of his important beliefs and the ideas he would later develop in his first published essay, "Nature":
 
@@ -45,7 +43,7 @@ Emerson was poor when he was at Harvard,[65] but was later able to support his f
 
 Literary career and transcendentalism
 
-RWEmerson1859.jpg On September 8, 1836, the day before the publication of _Nature_, Emerson met with Frederic Henry Hedge, George Putnam and George Ripley to plan periodic gatherings of other like-minded intellectuals.[72] This was the beginning of the Transcendental Club, which served as a center for the movement. Its first official meeting was held on September 19, 1836.[73] On September 1, 1837, women attended a meeting of the Transcendental Club for the first time. Emerson invited Margaret Fuller, Elizabeth Hoar and Sarah Ripley for dinner at his home before the meeting to ensure that they would be present for the evening get-together.[74] Fuller would prove to be an important figure in transcendentalism.
+On September 8, 1836, the day before the publication of _Nature_, Emerson met with Frederic Henry Hedge, George Putnam and George Ripley to plan periodic gatherings of other like-minded intellectuals.[72] This was the beginning of the Transcendental Club, which served as a center for the movement. Its first official meeting was held on September 19, 1836.[73] On September 1, 1837, women attended a meeting of the Transcendental Club for the first time. Emerson invited Margaret Fuller, Elizabeth Hoar and Sarah Ripley for dinner at his home before the meeting to ensure that they would be present for the evening get-together.[74] Fuller would prove to be an important figure in transcendentalism.
 
 Emerson anonymously published his first essay, "Nature", on September 9, 1836. A year later, on August 31, 1837, he delivered his now-famous Phi Beta Kappa address, "The American Scholar",[75] then entitled "An Oration, Delivered before the Phi Beta Kappa Society at Cambridge"; it was renamed for a collection of essays (which included the first general publication of "Nature") in 1849.[76] Friends urged him to publish the talk, and he did so, at his own expense, in an edition of 500 copies, which sold out in a month.[77] In the speech, Emerson declared literary independence in the United States and urged Americans to create a writing style all their own and free from Europe.[78] James Russell Lowell, who was a student at Harvard at the time, called it "an event without former parallel on our literary annals".[79] Another member of the audience, Reverend John Pierce, called it "an apparently incoherent and unintelligible address".[80]
 
@@ -116,7 +114,7 @@ He was elected a Fellow of the American Academy of Arts and Sciences in 1864.[14
 
 Final years and death
 
-RWEmerson.jpg Emersons_grave.jpg]] Close_up_of_Ralph_Waldo_Emerson's_grave.jpeg
+]]
 
 Starting in 1867, Emerson's health began declining; he wrote much less in his journals.[149] Beginning as early as the summer of 1871 or in the spring of 1872, he started experiencing memory problems[150] and suffered from aphasia.[151] By the end of the decade, he forgot his own name at times and, when anyone asked how he felt, he responded, "Quite well; I have lost my mental faculties, but am perfectly well".[152]
 
@@ -154,8 +152,6 @@ Emerson may have had erotic thoughts about at least one man.[197] During his ear
 
 Legacy
 
-Ralph_Waldo_Emerson_1940_Issue-3c.jpg
-
 ]]
 
 As a lecturer and orator, Emerson—nicknamed the Sage of Concord—became the leading voice of intellectual culture in the United States.[203] James Russell Lowell, editor of the _Atlantic Monthly_ and the _North American Review_, commented in his book _My Study Windows_ (1871), that Emerson was not only the "most steadily attractive lecturer in America," but also "one of the pioneers of the lecturing system."[204] Herman Melville, who had met Emerson in 1849, originally thought he had "a defect in the region of the heart" and a "self-conceit so intensely intellectual that at first one hesitates to call it by its right name", though he later admitted Emerson was "a great man".[205] Theodore Parker, a minister and transcendentalist, noted Emerson's ability to influence and inspire others: "the brilliant genius of Emerson rose in the winter nights, and hung over Boston, drawing the eyes of ingenuous young people to look up to that great new star, a beauty and a mystery, which charmed for the moment, while it gave also perennial inspiration, as it led them forward along new paths, and towards new hopes".[206]
@@ -175,7 +171,7 @@ Namesakes
 
 Selected works
 
-Representative_Men_1850.jpg COLLECTIONS
+COLLECTIONS
 
 -   _Essays: First Series_ (1841)
 -   _Essays: Second Series_ (1844)

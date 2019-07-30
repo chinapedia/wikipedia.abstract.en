@@ -1,4 +1,4 @@
-WorldWideLetterBox016.png, with a rubber stamp poem: "There is a fork in every path".]]
+, with a rubber stamp poem: "There is a fork in every path".]]
 
 LETTERBOXING is an outdoor hobby that combines elements of orienteering, art, and puzzle solving. Letterboxers hide small, weatherproof boxes in publicly accessible places (like parks) and distribute clues to finding the box in printed catalogs, on one of several web sites, or by word of mouth. Individual letterboxes contain a notebook and a rubber stamp, preferably hand carved or custom made.[1] Finders make an imprint of the letterbox's stamp in their personal notebook, and leave an impression of their personal signature stamp on the letterbox's "visitors' book" or "logbook" — as proof of having found the box and letting other letterboxers know who has visited. Many letterboxers keep careful track of their "find count".
 

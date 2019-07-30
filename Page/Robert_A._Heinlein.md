@@ -11,7 +11,7 @@ Heinlein was named the first Science Fiction Writers Grand Master in 1974. [14] 
 
 Life
 
-RAH_1929_Yearbook.png Heinlein, from the 1929 U.S. Naval Academy yearbook]]
+Heinlein, from the 1929 U.S. Naval Academy yearbook]]
 
 Birth, childhood, and early education
 
@@ -29,15 +29,13 @@ Marriages
 
 In 1929, Heinlein married Elinor Curry of Kansas City.[24] However, their marriage only lasted about a year.[25] His second marriage in 1932 to Leslyn MacDonald (1904–1981) lasted for 15 years. MacDonald was, according to the testimony of Heinlein's Navy friend, Rear Admiral Cal Laning, "astonishingly intelligent, widely read, and extremely liberal, though a registered Republican,"[26] while Isaac Asimov later recalled that Heinlein was, at the time, "a flaming liberal".[27] _(See section: Politics of Robert Heinlein.)_
 
-heinleins-house.jpg
-
 At the Philadelphia Naval Shipyard Heinlein met and befriended a chemical engineer named Virginia "Ginny" Gerstenfeld. After the war, her engagement having fallen through, she moved to UCLA for doctoral studies in chemistry and made contact again.
 
 As his second wife's alcoholism gradually spun out of control,[28] Heinlein moved out and the couple filed for divorce. Heinlein's friendship with Virginia turned into a relationship and on October 21, 1948 — shortly after the decree nisi came through — they married in the town of Raton, New Mexico, shortly after setting up housekeeping in Colorado. They remained married until Heinlein's death.
 
 As Heinlein's increasing success as a writer resolved their initial financial woes, they had a house custom built with various innovative features, later described in an article in _Popular Mechanics_. In 1965, after various chronic health problems of Virginia's were traced back to altitude sickness, they moved to Santa Cruz, California, which is at sea level. They built a new residence in the adjacent village of Bonny Doon, California.[29] Robert and Virginia designed and built their California house themselves, which is in a circular shape.
 
-Heinlein_Tahiti_2.jpg, 1980.]]
+, 1980.]]
 
 Ginny undoubtedly served as a model for many of his intelligent, fiercely independent female characters.[30][31] She was a chemist and rocket test engineer, and held a higher rank in the Navy than Heinlein himself. She was also an accomplished college athlete, earning four letters.[32] In 1953–1954, the Heinleins voyaged around the world (mostly via ocean liners and cargo liners, as Ginny detested flying), which Heinlein described in _Tramp Royale_, and which also provided background material for science fiction novels set aboard spaceships on long voyages, such as _Podkayne of Mars_, _Friday_ and Job: A Comedy of Justice, the latter initially being set on a cruise much as detailed in _Tramp Royale_. Ginny acted as the first reader of his manuscripts. Isaac Asimov believed that Heinlein made a swing to the right politically at the same time he married Ginny.
 
@@ -51,7 +49,7 @@ Heinlein supported himself at several occupations, including real estate sales a
 
 Author
 
-Heinlein-decamp-and-asimov.jpg, and Isaac Asimov, Philadelphia Navy Yard, 1944.]]
+, and Isaac Asimov, Philadelphia Navy Yard, 1944.]]
 
 While not destitute after the campaign — he had a small disability pension from the Navy — Heinlein turned to writing to pay off his mortgage. His first published story, "Life-Line", was printed in the August 1939 issue of _Astounding Science Fiction_.[36] Originally written for a contest, he sold it to _Astounding_ for significantly more than the contest's first-prize payoff. Another Future History story, "Misfit", followed in November.[37] Some saw Heinlein's talent and stardom from his first story,[38] and he was quickly acknowledged as a leader of the new movement toward "social" science fiction. In California he hosted the Mañana Literary Society, a 1940–41 series of informal gatherings of new authors.[39] He was the guest of honor at Denvention, the 1941 Worldcon, held in Denver. During World War II, he did aeronautical engineering for the U.S. Navy, also recruiting Isaac Asimov and L. Sprague de Camp to work at the Philadelphia Naval Shipyard in Pennsylvania.[40]
 
@@ -94,13 +92,13 @@ Early work, 1939–1958
 
 Heinlein began his career as a writer of stories for _Astounding Science Fiction_ magazine, which was edited by John Campbell. The science fiction writer Frederik Pohl has described Heinlein as "that greatest of Campbell-era sf writers".[52] Isaac Asimov said that, from the time of his first story, the science fiction world accepted that Heinlein was the best science fiction writer in existence, adding that he would hold this title through his lifetime.[53]
 
-Alexei and Cory Panshin noted that Heinlein's impact was immediately felt. In 1940, the year after selling 'Life-Line' to Campbell, he wrote three short novels, four novelettes, and seven short stories. They went on to say that "No one ever dominated the science fiction field as Bob did in the first few years of his career."[54] Alexei expresses awe in Heinlein's ability to show readers a world so drastically different from the one we live in now, yet have so many similarities. He says that "We find ourselves not only in a world other than our own, but identifying with a living, breathing individual who is operating within its context, and thinking and acting according to its terms."[55] Two_complete_science_adventure_books_1952win_n7.jpg'' was reprinted in _Two Complete Science-Adventure Books_ in 1952, appearing under the "Anson McDonald" byline even though the book edition had been published under Heinlein's own name four years earlier.]] Galaxy_195109.jpg''.]]
+Alexei and Cory Panshin noted that Heinlein's impact was immediately felt. In 1940, the year after selling 'Life-Line' to Campbell, he wrote three short novels, four novelettes, and seven short stories. They went on to say that "No one ever dominated the science fiction field as Bob did in the first few years of his career."[54] Alexei expresses awe in Heinlein's ability to show readers a world so drastically different from the one we live in now, yet have so many similarities. He says that "We find ourselves not only in a world other than our own, but identifying with a living, breathing individual who is operating within its context, and thinking and acting according to its terms."[55] '' was reprinted in _Two Complete Science-Adventure Books_ in 1952, appearing under the "Anson McDonald" byline even though the book edition had been published under Heinlein's own name four years earlier.]] ''.]]
 
 The first novel that Heinlein wrote, _For Us, The Living: A Comedy of Customs_ (1939), did not see print during his lifetime, but Robert James tracked down the manuscript and it was published in 2003. Though some regard it as a failure as a novel,[56] considering it little more than a disguised lecture on Heinlein's social theories, some readers took a very different view. In a review of it, John Clute wrote:
 
   I'm not about to suggest that if Heinlein had been able to publish [such works] openly in the pages of _Astounding_ in 1939, SF would have gotten the future right; I would suggest, however, that if Heinlein, and his colleagues, had been able to publish adult SF in _Astounding_ and its fellow journals, then SF might not have done such a grotesquely poor job of prefiguring something of the flavor of actually living here at the onset of 2004.[57]
 
-_For Us, the Living_ was intriguing as a window into the development of Heinlein's radical ideas about man as a social animal, including his interest in free love. The root of many themes found in his later stories can be found in this book. It also contained a large amount of material that could be considered background for his other novels. This included a detailed description of the protagonist's treatment to avoid being banned to Coventry (a lawless land in the Heinlein mythos where unrepentant law-breakers are exiled).[58] Robert_Heinlein_Amazing_5304.jpg
+_For Us, the Living_ was intriguing as a window into the development of Heinlein's radical ideas about man as a social animal, including his interest in free love. The root of many themes found in his later stories can be found in this book. It also contained a large amount of material that could be considered background for his other novels. This included a detailed description of the protagonist's treatment to avoid being banned to Coventry (a lawless land in the Heinlein mythos where unrepentant law-breakers are exiled).[58]
 
 It appears that Heinlein at least attempted to live in a manner consistent with these ideals, even in the 1930s, and had an open relationship in his marriage to his second wife, Leslyn. He was also a nudist;[59] nudism and body taboos are frequently discussed in his work. At the height of the Cold War, he built a bomb shelter under his house, like the one featured in _Farnham's Freehold_.[60]
 
@@ -124,7 +122,7 @@ Likewise, the powered armor technology that is not only central to the book, but
 
 Middle period work, 1961–1973
 
-If_196211.jpg_, with a cover by Virgil Finlay.]] From about 1961 (_Stranger in a Strange Land_) to 1973 (_Time Enough for Love''), Heinlein explored some of his most important themes, such as individualism, libertarianism, and free expression of physical and emotional love. Three novels from this period, _Stranger in a Strange Land_, _The Moon Is a Harsh Mistress_, and _Time Enough for Love_, won the Libertarian Futurist Society's Prometheus Hall of Fame Award, designed to honor classic libertarian fiction.[71] Jeff Riggenbach described _The Moon Is a Harsh Mistress_ as "unquestionably one of the three or four most influential libertarian novels of the last century".[72]
+_, with a cover by Virgil Finlay.]] From about 1961 (_Stranger in a Strange Land_) to 1973 (_Time Enough for Love''), Heinlein explored some of his most important themes, such as individualism, libertarianism, and free expression of physical and emotional love. Three novels from this period, _Stranger in a Strange Land_, _The Moon Is a Harsh Mistress_, and _Time Enough for Love_, won the Libertarian Futurist Society's Prometheus Hall of Fame Award, designed to honor classic libertarian fiction.[71] Jeff Riggenbach described _The Moon Is a Harsh Mistress_ as "unquestionably one of the three or four most influential libertarian novels of the last century".[72]
 
 Heinlein did not publish _Stranger in a Strange Land_ until some time after it was written, and the themes of free love and radical individualism are prominently featured in his long-unpublished first novel, _For Us, The Living: A Comedy of Customs_.
 
@@ -169,7 +167,7 @@ Heinlein described himself as also being influenced by George Bernard Shaw, havi
 
 Views
 
-RAH_5311.jpg Heinlein's books probe a range of ideas about a range of topics such as sex, race, politics, and the military. Many were seen as radical or as ahead of their time in their social criticism. His books have inspired considerable debate about the specifics, and the evolution, of Heinlein's own opinions, and have earned him both lavish praise and a degree of criticism. He has also been accused of contradicting himself on various philosophical questions.[89]
+Heinlein's books probe a range of ideas about a range of topics such as sex, race, politics, and the military. Many were seen as radical or as ahead of their time in their social criticism. His books have inspired considerable debate about the specifics, and the evolution, of Heinlein's own opinions, and have earned him both lavish praise and a degree of criticism. He has also been accused of contradicting himself on various philosophical questions.[89]
 
 Brian Doherty cites William Patterson, saying that the best way to gain an understanding of Heinlein is as a "full-service iconoclast, the unique individual who decides that things do not have to be, and won't continue, as they are." He says this vision is "at the heart of Heinlein, science fiction, libertarianism, and America. Heinlein imagined how everything about the human world, from our sexual mores to our religion to our automobiles to our government to our plans for cultural survival, might be flawed, even fatally so."[90]
 
@@ -250,7 +248,7 @@ The Dean of Science Fiction Writers
 
 Heinlein is usually identified, along with Isaac Asimov and Arthur C. Clarke, as one of the three masters of science fiction to arise in the so-called Golden Age of science fiction, associated with John W. Campbell and his magazine _Astounding_.[124] In the 1950s he was a leader in bringing science fiction out of the low-paying and less prestigious "pulp ghetto". Most of his works, including short stories, have been continuously in print in many languages since their initial appearance and are still available as new paperbacks decades after his death.
 
-heinlein-crater.jpg on Mars]]
+on Mars]]
 
 He was at the top of his form during, and himself helped to initiate, the trend toward social science fiction, which went along with a general maturing of the genre away from space opera to a more literary approach touching on such adult issues as politics and human sexuality. In reaction to this trend, hard science fiction began to be distinguished as a separate subgenre, but paradoxically Heinlein is also considered a seminal figure in hard science fiction, due to his extensive knowledge of engineering and the careful scientific research demonstrated in his stories. Heinlein himself stated—with obvious pride—that in the days before pocket calculators, he and his wife Virginia once worked for several days on a mathematical equation describing an Earth-Mars rocket orbit, which was then subsumed in a single sentence of the novel _Space Cadet_.
 
@@ -339,7 +337,7 @@ In popular culture
 
 Honors
 
-Robheinlein-6312.jpgous asteroid]] In his lifetime, Heinlein received four Hugo Awards, for _Double Star_, _Starship Troopers_, _Stranger in a Strange Land_, and _The Moon Is a Harsh Mistress_, and was nominated for four Nebula Awards, for _Stranger in a Strange Land_, _Friday_, _Time Enough for Love_, and _Job: A Comedy of Justice_.[152] He was also given seven Retro-Hugos: two for best novel: "Beyond This Horizon" and "Farmer in the Sky"; Three for best novella: :"If This Goes On ...", "Waldo", and "The Man Who Sold the Moon"; one for best novelette: "The Roads Must Roll"; and one for best dramatic presentation: "Destination Moon".[153][154][155]
+ous asteroid]] In his lifetime, Heinlein received four Hugo Awards, for _Double Star_, _Starship Troopers_, _Stranger in a Strange Land_, and _The Moon Is a Harsh Mistress_, and was nominated for four Nebula Awards, for _Stranger in a Strange Land_, _Friday_, _Time Enough for Love_, and _Job: A Comedy of Justice_.[152] He was also given seven Retro-Hugos: two for best novel: "Beyond This Horizon" and "Farmer in the Sky"; Three for best novella: :"If This Goes On ...", "Waldo", and "The Man Who Sold the Moon"; one for best novelette: "The Roads Must Roll"; and one for best dramatic presentation: "Destination Moon".[153][154][155]
 
 The Science Fiction Writers of America named Heinlein its first Grand Master in 1974, presented 1975. Officers and past presidents of the Association select a living writer for lifetime achievement (now annually and including fantasy literature).[156][157]
 

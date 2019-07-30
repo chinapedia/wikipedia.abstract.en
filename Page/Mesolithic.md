@@ -5,7 +5,7 @@ The type of culture associated with the Mesolithic varies between areas, but it 
 
 Terminology
 
-Evolution_of_temperature_in_the_Post-Glacial_period_according_to_Greenland_ice_cores.jpg characterized by a progressive rise of temperatures, between the end of the Last Glacial Maximum (LGM) and the Neolithic Revolution at the start of the Holocene. Evolution of temperature in the Post-Glacial period according to Greenland ice cores.[1]]] OpgravingStevoort.jpg
+characterized by a progressive rise of temperatures, between the end of the Last Glacial Maximum (LGM) and the Neolithic Revolution at the start of the Holocene. Evolution of temperature in the Post-Glacial period according to Greenland ice cores.[1]]]
 
 The terms "Paleolithic" and "Neolithic" were introduced by John Lubbock in his work _Pre-historic Times_ in 1865. The additional "Mesolithic" category was added as an intermediate category by Hodder Westropp in 1866. Westropp's suggestion was immediately controversial. A British school led by John Evans denied any need for an intermediate: the ages blended together like the colors of a rainbow, he said. A European school led by Louis Laurent Gabriel de Mortillet asserted that there was a gap between the earlier and later.
 
@@ -18,7 +18,7 @@ By the time of Vere Gordon Childe's work, _The Dawn of Europe_ (1947), which aff
 
 Europe
 
-Большой_шигирский_идол.jpg]] Sépulture_de_Teviec_Global.jpg, France in 1938.]]
+]] , France in 1938.]]
 
 The Balkan Mesolithic begins around 15,000 years ago. In Western Europe, the Early Mesolithic, or Azilian, begins about 14,000 years ago, in the Franco-Cantabrian region of northern Spain and southern France. In other parts of Europe, the Mesolithic begins by 11,500 years ago (the beginning Holocene), and it ends with the introduction of farming, depending on the region between c. 8,500 and 5,500 years ago. Regions that experienced greater environmental effects as the last glacial period ended have a much more apparent Mesolithic era, lasting millennia.[4] In northern Europe, for example, societies were able to live well on rich food supplies from the marshlands created by the warmer climate. Such conditions produced distinctive human behaviors that are preserved in the material record, such as the Maglemosian and Azilian cultures. Such conditions also delayed the coming of the Neolithic until some 5,500 BP in northern Europe.
 
@@ -40,7 +40,7 @@ Ceramic Mesolithic
 
 In North-Eastern Europe, Siberia, and certain southern European and North African sites, a "ceramic Mesolithic" can be distinguished between c. 9,000 to 5,850 BP. Russian archaeologists prefer to describe such pottery-making cultures as Neolithic, even though farming is absent. This pottery-making Mesolithic culture can be found peripheral to the sedentary Neolithic cultures. It created a distinctive type of pottery, with point or knob base and flared rims, manufactured by methods not used by the Neolithic farmers. Though each area of Mesolithic ceramic developed an individual style, common features suggest a single point of origin.[14] The earliest manifestation of this type of pottery may be in the region around Lake Baikal in Siberia. It appears in the Elshan or Yelshanka or Samara culture on the Volga in Russia 9 ka,[15][16] and from there spread via the Dnieper-Donets culture to the Narva culture of the Eastern Baltic. Spreading westward along the coastline it is found in the Ertebølle culture of Denmark and Ellerbek of Northern Germany, and the related Swifterbant culture of the Low Countries.[17][18]
 
-National_Museum_of_China_2014.02.01_14-43-38.jpg cave, dating to 20,000–10,000 years ago.[19]]]
+cave, dating to 20,000–10,000 years ago.[19]]]
 
 A 2012 publication in the _Science_ journal, announced that the earliest pottery yet known anywhere in the world was found in Xianrendong cave in China, dating by radiocarbon to between 20,000 and 19,000 years before present, at the end of the Last Glacial Period.[20][21] The carbon 14 datation was established by carefully dating surrounding sediments.[22][23] Many of the pottery fragments had scorch marks, suggesting that the pottery was used for cooking.[24] These early pottery containers were made well before the invention of agriculture (dated to 10,000 to 8,000 BC), by mobile foragers who hunted and gathered their food during the Late Glacial Maximum.[25]
 
@@ -89,7 +89,7 @@ Cultures
 
 "Mesolithic" outside of Western Eurasia
 
-Stone_Age_Stone_Mortar_&_Pestle,_Kebaran_culture,_22000-18000_BP.jpg, Epipaleolithic Near East. 22,000–18,000 BP]]
+, Epipaleolithic Near East. 22,000–18,000 BP]]
 
 While Paleolithic and Neolithic have been found useful terms and concepts in the archaeology of China, and can be mostly regarded as happily naturalized, Mesolithic was introduced later, mostly after 1945, and does not appear to be a necessary or useful term in the context of China. Chinese sites that have been regarded as Mesolithic are better considered as "Early Neolithic".[29]
 

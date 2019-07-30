@@ -1,4 +1,4 @@
-RCM_Piano_2015_Grade_5_List_B_No7_Hummel_Romance_in_G_Op52_No4_by_Alan_-_YouTube.webm]] Temporal-Control-and-Hand-Movement-Efficiency-in-Skilled-Music-Performance-pone.0050901.s001.ogv of two pianists' fingers playing the same piece (slow motion, no sound).[1]]]A PIANIST ( , ) is an individual musician who plays the piano. Since most forms of Western music can make use of the piano, pianists have a wide repertoire and a wide variety of styles to choose from, among them traditional classical music, jazz, blues, and all sorts of popular music, including rock and roll. Most pianists can, to an extent, easily play other keyboard-related instruments such as the synthesizer, harpsichord, celesta, and the organ.
+]] of two pianists' fingers playing the same piece (slow motion, no sound).[1]]]A PIANIST ( , ) is an individual musician who plays the piano. Since most forms of Western music can make use of the piano, pianists have a wide repertoire and a wide variety of styles to choose from, among them traditional classical music, jazz, blues, and all sorts of popular music, including rock and roll. Most pianists can, to an extent, easily play other keyboard-related instruments such as the synthesizer, harpsichord, celesta, and the organ.
 
 
 Pianists past and present
@@ -8,12 +8,12 @@ Modern classical pianists dedicate their careers to performing, recording, teach
 
 Classical
 
-Ian_Parker.jpg performing Tchaikovsky's Piano Concerto No. 1 with the Maui Pops Orchestra in 2016|alt=A man plays a piano with enthusiasm, his left hand raised in preparation for striking keys; behind him, the string section of an orchestra plays accompaniment.]] Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era, Liszt, Brahms, Chopin, Mendelssohn, and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, as we do not have modern audio recordings of most of these pianists, we rely mainly on written commentary to give us an account of their technique and style.
+performing Tchaikovsky's Piano Concerto No. 1 with the Maui Pops Orchestra in 2016|alt=A man plays a piano with enthusiasm, his left hand raised in preparation for striking keys; behind him, the string section of an orchestra plays accompaniment.]] Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era, Liszt, Brahms, Chopin, Mendelssohn, and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, as we do not have modern audio recordings of most of these pianists, we rely mainly on written commentary to give us an account of their technique and style.
 
 
 Jazz
 
-Tord_Gustavsen_(221258).jpg playing piano during a concert at the 2016 Oslo Jazz Festival in Norway |alt=A black-and-white photo of a man playing a piano; he is hunched over it and is concentrating deeply.]]Jazz pianists almost always perform with other musicians. Their playing is more free than that of classical pianists and they create an air of spontaneity in their performances. They generally do not write down their compositions; improvisation is a significant part of their work. Well known jazz pianists include Art Tatum, Duke Ellington, Thelonious Monk, Oscar Peterson and Bud Powell.
+playing piano during a concert at the 2016 Oslo Jazz Festival in Norway |alt=A black-and-white photo of a man playing a piano; he is hunched over it and is concentrating deeply.]]Jazz pianists almost always perform with other musicians. Their playing is more free than that of classical pianists and they create an air of spontaneity in their performances. They generally do not write down their compositions; improvisation is a significant part of their work. Well known jazz pianists include Art Tatum, Duke Ellington, Thelonious Monk, Oscar Peterson and Bud Powell.
 
 
 Pop and rock
@@ -92,7 +92,7 @@ Modern period
 
 Amateur pianism
 
-Johnny_Hahn_January_2012.JPG market in Seattle.]] Some people, having received a solid piano training in their youth, decide not to continue their musical careers but choose nonmusical ones. As a result, there are prominent communities of _amateur pianists_ all over the world that play at quite a high level and give concerts not to earn money but just for the love of music.[2] The International Piano Competition for Outstanding Amateurs, held annually in Paris, attracts about one thousand listeners each year and is broadcast on French radio.
+market in Seattle.]] Some people, having received a solid piano training in their youth, decide not to continue their musical careers but choose nonmusical ones. As a result, there are prominent communities of _amateur pianists_ all over the world that play at quite a high level and give concerts not to earn money but just for the love of music.[2] The International Piano Competition for Outstanding Amateurs, held annually in Paris, attracts about one thousand listeners each year and is broadcast on French radio.
 
 It is notable that Jon Nakamatsu, the Gold Medal winner of the Van Cliburn International Piano Competition for professional pianists in Fort Worth, Texas (1997) was at the moment of his victory technically an amateur: he never attended a music conservatory or majored in music, and worked as a high school German teacher at the time; it was only after the competition that he started pursuing a career as a classical pianist.
 

@@ -14,7 +14,7 @@ History
 
 Early hand-worked lines
 
-DeReMetallicaShaft.jpg'', showing a narrow-gauge railway in a mine]] Waldenburgerbahn.jpg between Liestal and Waldenburg, Switzerland]]
+'', showing a narrow-gauge railway in a mine]] between Liestal and Waldenburg, Switzerland]]
 
 The earliest recorded railway appears in Georgius Agricola's 1556 _De re metallica_, which shows a mine in Bohemia with a railway of about gauge. During the 16th century, railways were primarily restricted to hand-pushed, narrow-gauge lines in mines throughout Europe. In the 17th century, mine railways were extended to provide transportation above ground. These lines were industrial, connecting mines with nearby transportation points (usually canals or other waterways). These railways were usually built to the same narrow gauge as the mine railways from which they developed.[2]
 
@@ -63,7 +63,7 @@ If narrow-gauge rails are designed with potential growth in mind (or at the same
 
 Successful railways
 
-City_of_Rockhampton_train_(Sunshine_railway_station,_Brisbane).jpg in Queensland. Unlike other states in Australia which use different gauges, Queensland's network is made up of -gauge track.]] The heavy-duty narrow-gauge railways in Queensland, South Africa, and New Zealand demonstrate that if track is built to a heavy-duty standard, performance almost as good as a standard-gauge line is possible. Two-hundred-car trains operate on the Sishen–Saldanha railway line in South Africa, and high-speed Tilt Trains run in Queensland. Another example of a heavy-duty narrow-gauge line is Brazil's EFVM. gauge, it has over-100-pound rail () and a loading gauge almost as large as US non-excess-height lines. The line has a number of locomotives and 200-plus-car trains. In South Africa and New Zealand, the loading gauge is similar to the restricted British loading gauge; in New Zealand, some British Rail Mark 2 carriages have been rebuilt with new bogies for use by Tranz Scenic (Wellington-Palmerston North service), Tranz Metro (Wellington-Masterton service), and Transdev Auckland (Auckland suburban services).
+in Queensland. Unlike other states in Australia which use different gauges, Queensland's network is made up of -gauge track.]] The heavy-duty narrow-gauge railways in Queensland, South Africa, and New Zealand demonstrate that if track is built to a heavy-duty standard, performance almost as good as a standard-gauge line is possible. Two-hundred-car trains operate on the Sishen–Saldanha railway line in South Africa, and high-speed Tilt Trains run in Queensland. Another example of a heavy-duty narrow-gauge line is Brazil's EFVM. gauge, it has over-100-pound rail () and a loading gauge almost as large as US non-excess-height lines. The line has a number of locomotives and 200-plus-car trains. In South Africa and New Zealand, the loading gauge is similar to the restricted British loading gauge; in New Zealand, some British Rail Mark 2 carriages have been rebuilt with new bogies for use by Tranz Scenic (Wellington-Palmerston North service), Tranz Metro (Wellington-Masterton service), and Transdev Auckland (Auckland suburban services).
 
 Fastest trains
 
@@ -106,7 +106,7 @@ track gauge (also known as Scotch gauge) was adopted by early 19th-century railw
 
 3 ft 6 in gauge
 
-CombinedTrack.svg between the inside of the rail heads, its name and classification vary worldwide and it has about of track.
+between the inside of the rail heads, its name and classification vary worldwide and it has about of track.
 
 Similar gauges
 
@@ -122,7 +122,7 @@ According to Italian law, track gauges in Italy were defined from the centre of 
 
 3 ft, 900 mm, and Swedish three foot gauge
 
-DisneylandTrainLocomotive.jpg in California]]
+in California]]
 
 There were a number of large railroad systems in North America; notable examples include the Denver & Rio Grande and Rio Grande Southern in Colorado and the South Pacific Coast and West Side Lumber Co of California. was also a common track gauge in South America, Ireland and on the Isle of Man. was a common gauge in Europe. Swedish three-foot-gauge railways () are unique to that country.
 
@@ -140,7 +140,7 @@ Gauges such as 2ft 3in (686mm), 2ft 4in (711mm) and 2ft 4.5in (724mm) were used 
 
 2 ft and 600 mm gauges
 
-Ffestiniog_DLG_BF.JPG in Wales]]
+in Wales]]
 
 gauge railways were generally constructed in the former British colonies. , and were used in Europe.
 

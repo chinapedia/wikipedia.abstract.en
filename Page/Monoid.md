@@ -121,7 +121,7 @@ This is the analogue in monoid theory of a (left) group action. Right _M_-acts a
 
 Monoid homomorphisms
 
-Exponentiation_as_monoid_homomorphism_svg.svg A homomorphism between two monoids and is a function such that
+A homomorphism between two monoids and is a function such that
 
 -   for all _x_, _y_ in _M_
 

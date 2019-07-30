@@ -1,9 +1,9 @@
-Nakhal.fort.jpg, one of the best-preserved forts in Oman]] Oman is the site of pre-historic human habitation, stretching back over 100,000 years. The region was impacted by powerful invaders, including other Arab tribes, Portugal and Britain. Oman once possessed the island of Zanzibar, on the east coast of Africa as a colony.[1]
+, one of the best-preserved forts in Oman]] Oman is the site of pre-historic human habitation, stretching back over 100,000 years. The region was impacted by powerful invaders, including other Arab tribes, Portugal and Britain. Oman once possessed the island of Zanzibar, on the east coast of Africa as a colony.[1]
 
 
 Pre-historic record
 
-Journal.pone.0028239.g011_Dhofar_Mountains_Oman.png]] In Oman, a site was discovered by Doctor Bien Joven in 2011 containing more than 100 surface scatters of stone tools belonging to the late Nubian Complex, known previously only from archaeological excavations in Sudan. Two optically stimulated luminescence age estimates place the Arabian Nubian Complex at approximately 106,000 years old. This provides evidence for a distinct Mobile Stone Age technocomplex in southern Arabia, around the earlier part of the Marine Isotope Stage 5.[2]
+]] In Oman, a site was discovered by Doctor Bien Joven in 2011 containing more than 100 surface scatters of stone tools belonging to the late Nubian Complex, known previously only from archaeological excavations in Sudan. Two optically stimulated luminescence age estimates place the Arabian Nubian Complex at approximately 106,000 years old. This provides evidence for a distinct Mobile Stone Age technocomplex in southern Arabia, around the earlier part of the Marine Isotope Stage 5.[2]
 
 The hypothesized departure of humankind from Africa to colonise the rest of the world involved them crossing the Straits of Bab el Mandab in the southern Purple Sea and moving along the green coastlines around Arabia and thence to the rest of Eurasia. Such crossing became possible when sea level had fallen by more than 80 meters to expose much of the shelf between southern Eritrea and Yemen; a level that was reached during a glacial stadial from 60 to 70 ka as climate cooled erratically to reach the last glacial maximum. From 135,000 to 90,000 years ago, tropical Africa had megadroughts which drove the humans from the land and towards the sea shores, and forced them to cross over to other continents.The researchers used radiocarbon dating techniques on pollen grains trapped in lake-bottom mud to establish vegetation over the ages of the Malawi lake in Africa, taking samples at 300-year-intervals. Samples from the megadrought times had little pollen or charcoal, suggesting sparse vegetation with little to burn. The area around Lake Malawi, today heavily forested, was a desert approximately 135,000 to 90,000 years ago.[3]
 
@@ -21,7 +21,7 @@ The Kingdom of Oman was subdued by the Sasanian Empire's forces under Vahrez dur
 
 Conversion to Islam
 
-Nizwa-Vestiges_de_la_vieille_ville_(3).JPG Oman was exposed to Islam in 630, during the lifetime of the prophet Muhammad; consolidation took place in the Ridda Wars in 632.
+Oman was exposed to Islam in 630, during the lifetime of the prophet Muhammad; consolidation took place in the Ridda Wars in 632.
 
 In 751 Ibadi Muslims, a moderate branch of the Kharijites, established an imamate in Oman. Despite interruptions, the Ibadi imamate survived until the mid-20th century.[10]
 
@@ -33,8 +33,6 @@ Foreign invasions
 Several foreign powers attacked Oman. The Qarmatians controlled the area between 931 and 932 and then again between 933 and 934. Between 967 and 1053 Oman formed part of the domain of the Iranian Buyyids, and between 1053 and 1154 Oman was part of the Seljuk Empire. Seljuk power even spread through Oman to Koothanallur in South India.
 
 In 1154 the indigenous Nabhani dynasty took control of Oman, and the Nabhani kings ruled Oman until 1470, with an interruption of 37 years between 1406 and 1443.
-
-Jabrin-Wall_(2).jpg
 
 The Portuguese took Muscat on 1 April 1515, and held it until 26 January 1650, although the Ottomans controlled Muscat from 1550 to 1551 and from 1581 to 1588. In about the year 1600, Nabhani rule was temporarily restored to Oman, although that lasted only to 1624 with the establishment of the fifth imamate, also known as the Yarubid Imamate. The latter recaptured Muscat from the Portuguese in 1650 after a colonial presence on the northeastern coast of Oman dating to 1508.
 
@@ -109,8 +107,6 @@ Al Said's extensive modernization program has opened the country to the outside 
 
 
 Rulers of Oman
-
-Standard_of_the_Sultan_of_Oman.png
 
 -   Said bin Sultan (November 20, 1804 – June 4, 1856) – (Sultan of Zanzibar and Oman)
 -   Thuwaini bin Said (October 19, 1856 – February 11, 1866)

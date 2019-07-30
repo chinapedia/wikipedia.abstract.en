@@ -1,4 +1,4 @@
-Catacomb_no._14,_The_Cave_of_Rabbi_Yehuda_HaNasi.jpg]] JUDAH HA-NASI (, YEHUDAH HANASI or JUDAH THE PRINCE) or JUDAH I, was a second-century rabbi (a tanna of the fifth generation) and chief redactor and editor of the _Mishnah_. He lived from approximately 135 to 217 CE. He was a key leader of the Jewish community during the Roman occupation of Judea.
+]] JUDAH HA-NASI (, YEHUDAH HANASI or JUDAH THE PRINCE) or JUDAH I, was a second-century rabbi (a tanna of the fifth generation) and chief redactor and editor of the _Mishnah_. He lived from approximately 135 to 217 CE. He was a key leader of the Jewish community during the Roman occupation of Judea.
 
 
 Name and titles
@@ -10,7 +10,7 @@ Biography
 
 Youth
 
-Ancient_Galilee.jpg in Late Antiquity]] Judah the Prince was born in 135 CE to Simeon ben Gamliel II. According to the Talmud he was of the Davidic line.[6][7][8] He is said to have been born on the same day that Rabbi Akiva died as a martyr.[9] The Talmud suggests that this was a result of Divine Providence: God had granted the Jewish people another leader of great stature to succeed Rabbi Akiva. His place of birth is unknown.
+in Late Antiquity]] Judah the Prince was born in 135 CE to Simeon ben Gamliel II. According to the Talmud he was of the Davidic line.[6][7][8] He is said to have been born on the same day that Rabbi Akiva died as a martyr.[9] The Talmud suggests that this was a result of Divine Providence: God had granted the Jewish people another leader of great stature to succeed Rabbi Akiva. His place of birth is unknown.
 
 Judah spent his youth in the city of Usha. His father presumably gave him the same education that he himself had received, including the Greek language.[10] This knowledge of Greek enabled him to become the Jews' intermediary with the Roman authorities. He favored Greek as the language of the country over Jewish Palestinian Aramaic.[11] In Judah's house, only the Hebrew language was spoken, and the maids of the house became known for their use of obscure Hebrew terminology.[12]
 

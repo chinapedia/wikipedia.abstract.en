@@ -1,4 +1,4 @@
-Maury_Geography_101A_Europe_relief.jpg.]] Baja_peninsula_(mexico)_250m.jpg, Mexico]]
+.]] , Mexico]]
 
 A peninsula ( from _paene_ "almost" and _insula_ "island") is a piece of land that is bordered by water on three sides but connected to mainland.[1][2][3][4] The surrounding water is usually understood to be continuous, though not necessarily named as such. A peninsula can also be a headland, cape, island promontory, bill, point, or spit.[5] A point is generally considered a tapering piece of land projecting into a body of water that is less prominent than a cape.[6] In English, the plural of peninsula is _peninsulas_ or, less commonly, _peninsulae_. A river which courses through a very tight meander is also sometimes said to form a "peninsula" within the (almost closed) loop of water.
 
@@ -7,7 +7,7 @@ Presented below is a LIST OF PENINSULAS.
 
 Africa
 
-Horn_of_Africa.png also known as the Somali peninsula]]
+also known as the Somali peninsula]]
 
 Somali peninsula
 
@@ -62,7 +62,7 @@ Hong Kong
 
 Russia
 
-Relief_Map_of_Kamchatka_Krai.png in the Russian Far East]]
+in the Russian Far East]]
 
 -   Chukchi Peninsula
 -   Faddeyevsky Peninsula
@@ -80,7 +80,7 @@ Taiwan
 
 Turkey
 
-Anatolia_composite_NASA.png, the Asian part of Turkey]]
+, the Asian part of Turkey]]
 
 -   Anatolian Peninsula
 -   Armutlu Peninsula
@@ -102,7 +102,7 @@ Eastern Mediterranean
 
 Indian subcontinent and South Asia
 
-South_India_satellite.jpg)]] The Indian subcontinent is a peninsula, the only land feature in the world widely recognized as a subcontinent in the English language.
+)]] The Indian subcontinent is a peninsula, the only land feature in the world widely recognized as a subcontinent in the English language.
 
 -   Colaba peninsula, Mumbai
 -   Deccan peninsula
@@ -141,7 +141,7 @@ Kazakhstan
 
 Korea
 
-Korea_satelliet.jpg The whole land mass encompassing North and South Korea is a peninsula, surrounded by the Sea of Japan on the east, the East China Sea to the south, and the Yellow Sea to the west, with the Korea Strait connecting the first two bodies of water.
+The whole land mass encompassing North and South Korea is a peninsula, surrounded by the Sea of Japan on the east, the East China Sea to the south, and the Yellow Sea to the west, with the Korea Strait connecting the first two bodies of water.
 
 Persian Gulf
 
@@ -218,7 +218,7 @@ France
 
 Iberian Peninsula
 
-España_y_Portugal.jpg]]
+]]
 
 Encompassing continental Spain and Portugal, Andorra, British overseas territory of Gibraltar and a small amount of southern France.
 
@@ -226,7 +226,7 @@ Ireland
 
 Italy
 
-Satellite_image_of_Italy_in_March_2003.jpg]]
+]]
 
 -   Italian Peninsula
 -   Calabria
@@ -272,8 +272,6 @@ United Kingdom
 
 England
 
-Satellite_picture_of_the_Celtic_Sea.jpg
-
 Scotland
 
 Wales
@@ -300,7 +298,7 @@ Channel Islands
 
 Other peninsulas in Europe
 
-Peninsula_croatia.jpg Zürichsee_-_Halbinsel_Au_IMG_0856.JPG, Lake Zürich, Switzerland]]
+, Lake Zürich, Switzerland]]
 
 
 North America
@@ -430,7 +428,7 @@ Greenland
 
 Mexico
 
-Yucatan_peninsula_250m.jpg]]
+]]
 
 -   Baja California Peninsula, Mexico, containing the states of Baja California and Baja California Sur
 -   Yucatán Peninsula, partly separating the Gulf of Mexico from the Caribbean
@@ -461,7 +459,7 @@ California
 
 Florida
 
-STS-95_Florida_From_Space.jpg, shown by a NASA satellite image]] Florida is a well-known example of a large peninsula, with its land area divided between the larger Florida peninsula and the smaller Florida panhandle on the north and west. It has several smaller peninsulas within it:
+, shown by a NASA satellite image]] Florida is a well-known example of a large peninsula, with its land area divided between the larger Florida peninsula and the smaller Florida panhandle on the north and west. It has several smaller peninsulas within it:
 
 -   The St. Johns River creates a large peninsula over 75 miles in length that stretches from eastern Jacksonville down to the border of Flagler and Volusia counties, where the river emanates from Lake George.
 -   Fairpoint Peninsula
@@ -471,7 +469,7 @@ STS-95_Florida_From_Space.jpg, shown by a NASA satellite image]] Florida is a we
 
 Maryland
 
-Chesapeakelandsat.jpeg of New Jersey, Delaware Bay, the Delmarva Peninsula, and Chesapeake Bay. Also visible are the peninsulas of Maryland and Virginia along the Chesapeake's shores.]]
+of New Jersey, Delaware Bay, the Delmarva Peninsula, and Chesapeake Bay. Also visible are the peninsulas of Maryland and Virginia along the Chesapeake's shores.]]
 
 -   Maryland shares the Delmarva Peninsula east of Chesapeake Bay with Delaware and Virginia.
 -   St. Mary's Peninsula is defined by the Patuxent River, the Potomac River, and Chesapeake Bay.
@@ -480,7 +478,7 @@ Chesapeakelandsat.jpeg of New Jersey, Delaware Bay, the Delmarva Peninsula, and 
 
 Massachusetts
 
-Cape_Cod_-_Landsat_7.jpg, a peninsula of Massachusetts]]
+, a peninsula of Massachusetts]]
 
 -   Cape Cod, Massachusetts, a cape that can be viewed as a peninsula
 -   Nahant, a town in Essex County, is on a small peninsula.
@@ -489,7 +487,7 @@ Cape_Cod_-_Landsat_7.jpg, a peninsula of Massachusetts]]
 
 Michigan
 
-Great_Lakes_from_space.jpg and Lower Peninsula]] Michigan – the only bi-peninsular state – is very distinguishable for its mitten-shaped Lower Peninsula of Michigan which includes:
+and Lower Peninsula]] Michigan – the only bi-peninsular state – is very distinguishable for its mitten-shaped Lower Peninsula of Michigan which includes:
 
 -   Leelanau Peninsula
 -   Lost Peninsula
@@ -521,8 +519,6 @@ New Jersey
 -   MOTBY and Port Jersey are man-made peninsulas extending in Upper New York Bay
 
 New York
-
-Long_Island_Landsat_Mosaic.jpg
 
 -   The Bronx, New York, and Yonkers, New York
 -   Long Island was once a peninsula connected to North America during the great Ice Ages, and includes two large peninsulas at its east end: the South Fork and the North Fork.
@@ -597,8 +593,6 @@ Oceania
 
 Australia
 
-Mornington_peninsula02.jpg
-
 -   Beecroft Peninsula, New South Wales
 -   Bellarine Peninsula, Victoria
 -   Cape York Peninsula, Queensland
@@ -629,7 +623,7 @@ Papua New Guinea
 
 New Zealand
 
-Otago_harbour_landsat.jpg and Otago Harbour. The city of Dunedin is located at the isthmus at lower left.]]
+and Otago Harbour. The city of Dunedin is located at the isthmus at lower left.]]
 
 In the North Island:
 

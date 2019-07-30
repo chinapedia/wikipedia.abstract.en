@@ -16,7 +16,7 @@ Within five years, Reeves attended four high schools, including the Etobicoke Sc
 
 Career
 
-Keanu_Reves_in_Mexico_2.jpg'' in Mexico in 2008]]
+'' in Mexico in 2008]]
 
 Early career: 1980–1986
 
@@ -40,7 +40,7 @@ Reeves' choices after _A Walk in the Clouds_ failed with critics and audiences. 
 
 Hollywood stardom and _The Matrix_ trilogy: 1999–2009
 
-The 1999 science fiction-action hit _The Matrix_, a film in which Reeves had a starring role, was a box office success and attracted positive reviews.[38] Keanu_Reeves_Star.jpg
+The 1999 science fiction-action hit _The Matrix_, a film in which Reeves had a starring role, was a box office success and attracted positive reviews.[38]
 
 In between the first _Matrix_ film and its sequels, Reeves received positive reviews for his portrayal of an abusive husband in _The Gift_. Aside from _The Gift_, Reeves appeared in several films that received mostly negative reviews and unimpressive box office grosses, including _The Watcher_, _Sweet November_, and _The Replacements_. However, the two _Matrix_ sequels, _The Matrix Reloaded_ and _The Matrix Revolutions_, along with _Something's Gotta Give_ and the 2005 horror-action film, _Constantine_, were box office successes and brought Reeves back into the public spotlight. Reeves performed with the band Becky for a year, but he quit in 2005, citing his lack of interest in a serious music career.[39]
 
@@ -77,7 +77,7 @@ Personal life
 
 Family and views
 
-Keanu_Reeves_(Berlin_Film_Festival_2009)_2.jpg Reeves is entitled to British citizenship through his English mother. He holds Canadian citizenship by naturalization and identifies as such.[64]
+Reeves is entitled to British citizenship through his English mother. He holds Canadian citizenship by naturalization and identifies as such.[64]
 
 On December 24, 1999, Reeves' girlfriend, Jennifer Syme, gave birth eight months into her pregnancy to Ava Archer Syme-Reeves, who was stillborn. The strain put on their relationship by their grief resulted in their breakup several weeks later. On April 2, 2001, Syme was driving alone on Los Angeles' Cahuenga Boulevard when she sideswiped three parked cars, rolled over several times, and was thrown from the car. Authorities believed she died instantly. She was reportedly being treated for depression and taking two prescription drugs, which police found in her car.[65][66] Reeves, who was scheduled to begin shooting back-to-back _Matrix_ sequels during the subsequent spring, sought "peace and time" to deal with the incident, according to his friend Bret Domrose, a guitarist in Reeves' alternative rock band Dogstar.[67]
 
@@ -86,8 +86,6 @@ While often described as a Buddhist or atheist, including being mentioned on a "
 In 2010, an image of Reeves became an internet meme after photos of him, seemingly depressed while sitting on a park bench eating alone, were posted to a 4chan board. The images were soon distributed via several blogs and news sites, leading to the "Sad Keanu" meme being spread on internet forums. An unofficial holiday was created when a Facebook fan page declared June 15 as "Cheer-up Keanu Day".[73][74] On the first anniversary of "Cheer-up Keanu Day", Reeves was interviewed by _The Guardian_.[75]
 
 Reeves has stated that he is an Oxfordian and believes the works of William Shakespeare were written by Edward de Vere, 17th Earl of Oxford.[76]
-
-Keanu_Reeves_is_left-handed_--_April_2019_(cropped_image).jpg
 
 Legal incidents
 

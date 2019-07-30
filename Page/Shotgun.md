@@ -1,4 +1,4 @@
-Shotguns.jpg)
+)
 2. Lever-action (Winchester M1887)
 3. Pump-action (Winchester M1897)
 4. Revolver-action (M1216)
@@ -20,7 +20,7 @@ The shot is usually fired from a smoothbore barrel; another configuration is the
 
 Uses
 
-Shotgun-shot-sequence-1g.jpg separation]]
+separation]]
 
 The typical use of a shotgun is against small and fast moving targets, often while in the air. The spreading of the shot allows the user to point the shotgun close to the target, rather than having to aim precisely as in the case of a single projectile. The disadvantages of shot are limited range and limited penetration of the shot, which is why shotguns are used at short ranges, and typically against smaller targets. Larger shot sizes, up to the extreme case of the single projectile slug load, result in increased penetration, but at the expense of fewer projectiles and lower probability of hitting the target.
 
@@ -30,7 +30,7 @@ On the other hand, the hit potential of a defensive shotgun is often overstated.
 
 Sporting
 
-Vincent_Hancock_at_2008_Summer_Olympics_men's_skeet_finals_2008-08-16.JPG in the men's skeet finals at the 2008 Summer Olympics]] Some of the most common uses of shotguns are the sports of skeet shooting, trap shooting, and sporting clays. These involve shooting clay discs, also known as clay pigeons, thrown in by hand and by machine. Both skeet and trap competitions are featured at the Olympic Games.
+in the men's skeet finals at the 2008 Summer Olympics]] Some of the most common uses of shotguns are the sports of skeet shooting, trap shooting, and sporting clays. These involve shooting clay discs, also known as clay pigeons, thrown in by hand and by machine. Both skeet and trap competitions are featured at the Olympic Games.
 
 Hunting
 
@@ -46,7 +46,7 @@ Sabot slugs are essentially very large hollow point bullets, and are streamlined
 
 People often use semiautomatic or pump action shotguns for hunting waterfowl to small game.
 
-Gurkha_IOC_1.jpg trooper in Singapore armed with a folding stock pump shotgun]]
+trooper in Singapore armed with a folding stock pump shotgun]]
 
 Law enforcement
 
@@ -74,7 +74,7 @@ Compared to handguns, shotguns are heavier, larger, and not as maneuverable in c
 
 Types
 
-Shotgun_in_training_US_military.jpg fires a Benelli M4 shotgun during training in Arta, Djibouti, 23 December 2006.]] The wide range of forms the shotgun can take leads to some significant differences between what is technically a shotgun and what is legally considered a shotgun. A fairly broad attempt to define a shotgun is made in the United States Code (18 USC 921), which defines the shotgun as "a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger." It is even more broadly defined in English law: "a smooth bore gun not being an air gun" (s.1(3)(a) Firearms Act 1968).
+fires a Benelli M4 shotgun during training in Arta, Djibouti, 23 December 2006.]] The wide range of forms the shotgun can take leads to some significant differences between what is technically a shotgun and what is legally considered a shotgun. A fairly broad attempt to define a shotgun is made in the United States Code (18 USC 921), which defines the shotgun as "a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger." It is even more broadly defined in English law: "a smooth bore gun not being an air gun" (s.1(3)(a) Firearms Act 1968).
 
 A rifled slug, with finned rifling designed to enable the projectile to be safely fired through a choked barrel, is an example of a single projectile. Some shotguns have rifled barrels and are designed to be used with a "saboted" bullet, one which is typically encased in a two-piece plastic ring (_sabot_) designed to peel away after it exits the barrel, leaving the bullet, now spinning after passing through the rifled barrel, to continue toward the target. These shotguns, although they have rifled barrels, still use a shotgun-style shell instead of a rifle cartridge and may in fact still fire regular multipellet shotgun shells, but the rifling in the barrel will affect the shot pattern. The use of a rifled barrel blurs the distinction between rifle and shotgun, and in fact the early rifled shotgun barrels went by the name _Paradox_ for just that reason. Hunting laws may differentiate between smooth barreled and rifled barreled guns.
 
@@ -93,7 +93,7 @@ Other examples include a variety of .410 / rifle "survival" guns manufactured in
 
 History
 
-confederateshotgun.jpg cavalryman]] Most early firearms, such as the blunderbuss, arquebus, and musket had large diameter, smoothbore barrels, and could fire shot as well as solid balls. A firearm intended for use in wing shooting of birds was known as a FOWLING PIECE. The 1728 '' Cyclopaedia'' defines a _fowling piece_ as:
+cavalryman]] Most early firearms, such as the blunderbuss, arquebus, and musket had large diameter, smoothbore barrels, and could fire shot as well as solid balls. A firearm intended for use in wing shooting of birds was known as a FOWLING PIECE. The 1728 '' Cyclopaedia'' defines a _fowling piece_ as:
 
     _Fowling Piece, a portable Fire Arm for the shooting of Birds. See Fire Arm._
     _Of Fowling Pieces, those are reputed the best, which have the longest Barrel, vis. from 5 foot to 6; with an indifferent Bore, under Harquebus: Tho' for different Occasions they shou'd be of different Sorts, and Sizes. But in all, 'tis essential the Barrel be well polish'd and smooth within; and the Bore all of a Bigness, from one End to another..._[6]
@@ -132,7 +132,7 @@ The decline in military use of shotguns reversed in World War I. American forces
 
 Due to the cramped conditions of trench warfare, the American shotguns were extremely effective. Germany even filed an official diplomatic protest against their use, alleging they violated the laws of warfare. The judge advocate general reviewed the protest, and it was rejected because the Germans protested use of lead shot (which would have been illegal) but military shot was plated. This is the only occasion the legality of the shotgun's use in warfare has been questioned.[9]
 
-ww2marineshotgun.jpg carrying a Winchester M97 shotgun during World War II]]
+carrying a Winchester M97 shotgun during World War II]]
 
 During World War II, the shotgun was not heavily used in the war in Europe by official military forces. However, the shotgun was a favorite weapon of Allied-supported partisans, such as the French Resistance. By contrast, in the Pacific theater, thick jungles and heavily fortified positions made the shotgun a favorite weapon of the United States Marines. Marines tended to use pump shotguns, since the pump action was less likely to jam in the humid and dirty conditions of the Pacific campaign. Similarly, the United States Navy used pump shotguns to guard ships when in port in Chinese harbors (e.g., Shanghai). The United States Army Air Forces also used pump shotguns to guard bombers and other aircraft against saboteurs when parked on airbases across the Pacific and on the West Coast of the United States. Pump and semi-automatic shotguns were used in marksmanship training, particularly for bomber gunners. The most common pump shotguns used for these duties were the 12 gauge Winchester Model 97 and Model 12. The break-open action, single barrel shotgun was used by the British Home Guard and U.S. home security forces. Notably, industrial centers (such as the Gopher State Steel Works) were guarded by National Guard soldiers with Winchester Model 37 12 gauge shotguns.
 
@@ -151,7 +151,7 @@ Action
 
 Action is the term for the operating mechanism of a gun. There are many types of shotguns, typically categorized by the number of barrels or the way the gun is reloaded.
 
-ShotgunAction.JPG of a typical double-barrelled shotgun, shown with the action open]]
+of a typical double-barrelled shotgun, shown with the action open]]
 
 Break-action
 
@@ -161,7 +161,7 @@ Another, less commonly encountered type of break-action shotgun is the combinati
 
 Pump-action
 
-Winchester_1897.jpg, one of the first successful pump-action shotgun designs]] In pump-action shotguns, a sliding forearm handle (the _pump_) works the action, extracting the spent shell and inserting a new one while cocking the hammer or striker as the pump is worked. A pump gun is typically fed from a tubular magazine underneath the barrel, which also serves as a guide for the pump. The rounds are fed in one by one through a port in the receiver, where they are lifted by a lever called the _elevator_ and pushed forward into the chamber by the bolt. A pair of latches at the rear of the magazine hold the rounds in place and facilitate feeding of one shell at a time. If it is desired to load the gun fully, a round may be loaded through the ejection port directly into the chamber, or cycled from the magazine, which is then topped off with another round. Well-known examples include the Winchester Model 1897, Remington 870 and Mossberg 500/590.
+, one of the first successful pump-action shotgun designs]] In pump-action shotguns, a sliding forearm handle (the _pump_) works the action, extracting the spent shell and inserting a new one while cocking the hammer or striker as the pump is worked. A pump gun is typically fed from a tubular magazine underneath the barrel, which also serves as a guide for the pump. The rounds are fed in one by one through a port in the receiver, where they are lifted by a lever called the _elevator_ and pushed forward into the chamber by the bolt. A pair of latches at the rear of the magazine hold the rounds in place and facilitate feeding of one shell at a time. If it is desired to load the gun fully, a round may be loaded through the ejection port directly into the chamber, or cycled from the magazine, which is then topped off with another round. Well-known examples include the Winchester Model 1897, Remington 870 and Mossberg 500/590.
 
 Pump-action shotguns are common hunting, fowling and sporting shotguns. Hunting models generally have a barrel between 600 and 700 mm (24"-28"). Tube-fed models designed for hunting often come with a dowel rod or other stop that is inserted into the magazine and reduces the capacity of the gun to three shells (two in the magazine and one chambered) as is mandated by U.S. federal law when hunting migratory birds. They can also easily be used with an empty magazine as a single-shot weapon, by simply dropping the next round to be fired into the open ejection port after the spent round is ejected. For this reason, pump-actions are commonly used to teach novice shooters under supervision, as the trainer can load each round more quickly than with a break-action, while unlike a break-action the student can maintain his grip on the gun and concentrate on proper handling and firing of the weapon.
 
@@ -171,7 +171,7 @@ A riot shotgun has many advantages over a handgun or rifle. Compared to "defense
 
 Lever-action
 
-_See article: Mare's Leg_ M1887_LH.JPG lever-action shotgun]] Early attempts at repeating shotguns invariably centred around either bolt-or lever-action designs, drawing inspiration from contemporary repeating rifles, with the earliest successful repeating shotgun being the lever-action Winchester M1887, designed by John Browning at the behest of the Winchester Repeating Arms Company.
+_See article: Mare's Leg_ lever-action shotgun]] Early attempts at repeating shotguns invariably centred around either bolt-or lever-action designs, drawing inspiration from contemporary repeating rifles, with the earliest successful repeating shotgun being the lever-action Winchester M1887, designed by John Browning at the behest of the Winchester Repeating Arms Company.
 
 Lever shotguns, while less common, were popular in the late 19th century with the Winchester Model 1887 and Model 1901 being prime examples. Initially very popular, demand waned after the introduction of pump-action shotguns around the start of the 20th century, and production was eventually discontinued in 1920.
 
@@ -191,11 +191,11 @@ Colt briefly manufactured several revolving shotguns that were met with mixed su
 
 The Armsel Striker was a modern take on the revolving shotgun that held 10 rounds of 12 Gauge ammunition in its cylinder. It was copied by Cobray as the Streetsweeper.[15][16]
 
-Taurus manufactures a carbine variant of the Taurus Judge revolver along with its Australian partner company, Rossi known as the _Taurus/Rossi Circuit Judge_. It comes in the original combination chambering of .410 bore and .45 Long Colt, as well as the .44 Remington Magnum chambering. The rifle has small blast shields attached to the cylinder to protect the shooter from hot gases escaping between the cylinder and barrel.[17] MC255-1.jpg The MTs255 () is a shotgun fed by a 5-round internal revolving cylinder. It is produced by the TsKIB SOO, Central Design and Research Bureau of Sporting and Hunting Arms. They are available in 12, 20, 28 and 32 gauges, and .410 bore.
+Taurus manufactures a carbine variant of the Taurus Judge revolver along with its Australian partner company, Rossi known as the _Taurus/Rossi Circuit Judge_. It comes in the original combination chambering of .410 bore and .45 Long Colt, as well as the .44 Remington Magnum chambering. The rifle has small blast shields attached to the cylinder to protect the shooter from hot gases escaping between the cylinder and barrel.[17] The MTs255 () is a shotgun fed by a 5-round internal revolving cylinder. It is produced by the TsKIB SOO, Central Design and Research Bureau of Sporting and Hunting Arms. They are available in 12, 20, 28 and 32 gauges, and .410 bore.
 
 Semi-automatic
 
-Browning_Auto-5_20g_Mag.jpg semi-automatic shotgun]] Gas, inertia, or recoil operated actions are other popular methods of increasing the rate of fire of a shotgun; these are generally referred to as autoloaders or semi-automatics. Instead of having the action manually operated by a pump or lever, the action automatically cycles each time the shotgun is fired, ejecting the spent shell and reloading a fresh one into the chamber. The first successful semi-automatic shotgun was John Browning's Auto-5, first produced by Fabrique Nationale beginning in 1902. Other well-known examples include the Remington 1100, Benelli M1, and Saiga-12.
+semi-automatic shotgun]] Gas, inertia, or recoil operated actions are other popular methods of increasing the rate of fire of a shotgun; these are generally referred to as autoloaders or semi-automatics. Instead of having the action manually operated by a pump or lever, the action automatically cycles each time the shotgun is fired, ejecting the spent shell and reloading a fresh one into the chamber. The first successful semi-automatic shotgun was John Browning's Auto-5, first produced by Fabrique Nationale beginning in 1902. Other well-known examples include the Remington 1100, Benelli M1, and Saiga-12.
 
 Some, such as the Franchi SPAS-12 and Benelli M3, are capable of switching between semi-automatic and pump action. These are popular for two reasons; first, some jurisdictions forbid the use of semi-automatic actions for hunting, and second, lower-powered rounds, like "reduced-recoil" buckshot shells and many less-lethal cartridges, have insufficient power to reliably cycle a semi-automatic shotgun.
 
@@ -213,13 +213,13 @@ In 1925, Rodolfo Cosmi produced the first working hybrid prototype semi-automati
 
 The French firearm manufacturer Verney-Carron produces the Véloce shotgun, a lever-release blowback firearm like the similarly designed SpeedLine rifle. The Véloce is in essence an inertia-driven semi-automatic shotgun, but after blowback the bolt is trapped by a bolt stop and will not return to battery unless the bolt stop is manually released by depressing a thumb lever near the tang of the gunstock. This design makes the gun technically not really a self-loading weapon, and Verney-Carron described it as a "manual repeating shotgun".
 
-Shotgun.jpg soldier armed with a Mossberg 500 shotgun]] The gauge number is determined by the weight, in fractions of a pound, of a solid sphere of lead with a diameter equal to the inside diameter of the barrel. So, a 10 gauge shotgun nominally should have an inside diameter equal to that of a sphere made from one-tenth of a pound of lead. Each gauge has a set caliber. By far the most common gauges are 12 (0.729 in, 18.5 mm diameter) and 20 (0.614 in, 15.6 mm), although 67 (.410 in diameter), 32, 28, 24, 16, and 10 (19.7 mm) gauge also exist.
+soldier armed with a Mossberg 500 shotgun]] The gauge number is determined by the weight, in fractions of a pound, of a solid sphere of lead with a diameter equal to the inside diameter of the barrel. So, a 10 gauge shotgun nominally should have an inside diameter equal to that of a sphere made from one-tenth of a pound of lead. Each gauge has a set caliber. By far the most common gauges are 12 (0.729 in, 18.5 mm diameter) and 20 (0.614 in, 15.6 mm), although 67 (.410 in diameter), 32, 28, 24, 16, and 10 (19.7 mm) gauge also exist.
 
 Different gauges have different typical applications. Twelve gauge shotguns are common for hunting geese, large ducks, or other big larger gamebirds; professional skeet and trap shooting; military applications; and home-defense applications. Sixteen gauge shotguns were once common for hunters who wanted to use only a single shotgun for gamebirds normally pursued with twelve or twenty gauge shotguns, but have become rarer in recent years. Twenty gauge shotguns are often used for gamebirds such as doves, smaller ducks, and quail. Twenty-eight gauge shotguns are not common, but are classic quail-hunting guns. .410 shotguns are typically used for squirrel hunting or for sportsmen seeking the challenge of killing game with a smaller load.
 
 Other, less common shotgun cartridges have their own unique uses. Ammunition manufacturer CCI produces 9 mm (.355 in.) and several other popular pistol calibers up to .45 ACP as well as .22 (5.5 mm) for firing from handguns. These are commonly called snake shot cartridges.[18] Larger gauges, up to 4 bore, too powerful to shoulder, have been built, but were generally affixed to small boats and referred to as punt guns. These were used for commercial waterfowl hunting, to kill large numbers of birds resting on the water.
 
-Bond_Arms_Texas_Defender_Cowboy_.45_.410.JPG Handguns have also been produced that are capable of firing either .45 (Long) Colt or .410 shotgun shells from the same chamber; they are commonly known as "snake guns". Derringers such as the "Snake Slayer and Cowboy Defender" are popular among some outdoors-men in the South and Southwest regions of the United States. There are also some revolvers, such as the Taurus Judge and Smith & Wesson Governor, that are capable of shooting the .45LC/.410 rounds; but as with derringers they are not considered shotguns.
+Handguns have also been produced that are capable of firing either .45 (Long) Colt or .410 shotgun shells from the same chamber; they are commonly known as "snake guns". Derringers such as the "Snake Slayer and Cowboy Defender" are popular among some outdoors-men in the South and Southwest regions of the United States. There are also some revolvers, such as the Taurus Judge and Smith & Wesson Governor, that are capable of shooting the .45LC/.410 rounds; but as with derringers they are not considered shotguns.
 
 The .410 bore (10.4 mm) is unusual, being measured in inches, and would be approximately 67 "real" gauge, though its short hull versions are nominally called 36 gauge in Europe. It uses a relatively small charge of shot. It is used for hunting and for skeet. Because of its very light recoil (approx 10 N), it is often used as a beginner's gun. However, the small charge and typically tight choke make it more difficult to hit targets. It is also frequently used by expert shooters because of the difficulty, especially in expensive side by side and over/under models for hunting small bird game such as quail and doves.[19] Inexpensive bolt-action .410 shotguns are a very common first hunting shotgun among young pre-teen hunters, as they are used mostly for hunting squirrels, while additionally teaching bolt-action manipulation skills that will transfer easily later to adult-sized hunting rifles. Most of these young hunters move up to a 20-gauge within a few years, and to 12 gauge shotguns and full-size hunting rifles by their late teens. Still, many who are particularly recoil-averse choose to stay with 20-gauge shotguns all their adult life, as it is a suitable gauge for many popular hunting uses.
 
@@ -227,7 +227,7 @@ A recent innovation is the back-boring of barrels, in which the barrels are bore
 
 Shot
 
-USMC-05459.jpg Most shotguns are used to fire "a number of ball shot", in addition to slugs and sabots. The ball shot or pellets is for the most part made of lead but this has been partially replaced by bismuth, steel, tungsten-iron, tungsten-nickel-iron and even tungsten polymer loads. Non-toxic loads are required by Federal law for waterfowl hunting in the US, as the shot may be ingested by the waterfowl, which some authorities believe can lead to health problems due to the lead exposure. Shot is termed either birdshot or buckshot depending on the shot size. Informally, birdshot pellets have a diameter smaller than and buckshot are larger than that. Pellet size is indicated by a number; for bird shot this ranges from the smallest 12 (1.2 mm, 0.05 in) to 2 (3.8 mm, 0.15 in) and then BB (4.6 mm, 0.18 in).[20]
+Most shotguns are used to fire "a number of ball shot", in addition to slugs and sabots. The ball shot or pellets is for the most part made of lead but this has been partially replaced by bismuth, steel, tungsten-iron, tungsten-nickel-iron and even tungsten polymer loads. Non-toxic loads are required by Federal law for waterfowl hunting in the US, as the shot may be ingested by the waterfowl, which some authorities believe can lead to health problems due to the lead exposure. Shot is termed either birdshot or buckshot depending on the shot size. Informally, birdshot pellets have a diameter smaller than and buckshot are larger than that. Pellet size is indicated by a number; for bird shot this ranges from the smallest 12 (1.2 mm, 0.05 in) to 2 (3.8 mm, 0.15 in) and then BB (4.6 mm, 0.18 in).[20]
 
 For buckshot, the numbers usually start at 4 (6.1 mm, 0.24 in) and go down to 1, 0, 00 ("double aught"), 000, and finally 0000 (9.7 mm, .38 in). A different informal distinction is that "bird shot" pellets are small enough that they can be measured into the cartridge by weight, and simply poured in, whereas "buckshot" pellets are so large they must be stacked inside the cartridge in a fixed geometric arrangement in order to fit. The diameter in hundredths of an inch of bird shot sizes from #9 to #1 can be obtained by subtracting the shot size from 17. Thus, #4 bird shot is 17 – 4 = 13 = in diameter. Different terminology is used outside the United States. In England and Australia, for example, 00 buckshot cartridges are commonly referred to as "S.G." (small game) cartridges.
 
@@ -326,7 +326,7 @@ Shotguns are well suited for the use caliber conversion sleeves, allowing most s
 
 Ammunition
 
-Shotgunammo.jpg shells]] The extremely large caliber of shotgun shells has led to a wide variety of different ammunition.
+shells]] The extremely large caliber of shotgun shells has led to a wide variety of different ammunition.
 
 '''Shotshells ''' are the most commonly used round, filled with lead or lead substitute pellets.
 
@@ -352,7 +352,7 @@ GRENADE rounds use exploding projectiles to increase long range lethality. These
 
 Less-lethal rounds, for riot and animal control
 
-Fiocchi_rubber_buckshot.jpg FLEXIBLE BATON ROUNDS, commonly called _bean bags_, fire a fabric bag filled with birdshot or a similar loose, dense substance. The "punch" effect of the bag is useful for knocking down targets; the rounds are used by police to subdue violent suspects. The bean bag round is by far the most common less-lethal round used. Due to the large surface area of these rounds, they lose velocity rapidly, and must be used at fairly short ranges to be effective, though use at extremely short ranges, under , can result in broken bones or other serious or lethal injuries. The rounds can also fly in a frisbee-like fashion and cut the person or animal being fired at. For this reason, these types of rounds are referred to as less-lethal, as opposed to less-than-lethal.[29]
+FLEXIBLE BATON ROUNDS, commonly called _bean bags_, fire a fabric bag filled with birdshot or a similar loose, dense substance. The "punch" effect of the bag is useful for knocking down targets; the rounds are used by police to subdue violent suspects. The bean bag round is by far the most common less-lethal round used. Due to the large surface area of these rounds, they lose velocity rapidly, and must be used at fairly short ranges to be effective, though use at extremely short ranges, under , can result in broken bones or other serious or lethal injuries. The rounds can also fly in a frisbee-like fashion and cut the person or animal being fired at. For this reason, these types of rounds are referred to as less-lethal, as opposed to less-than-lethal.[29]
 
 GAS shells spray a cone of gas for several meters. These are primarily used by riot police. They normally contain pepper gas or tear gas. Other variations launch a gas-grenade-like projectile.
 
@@ -383,7 +383,7 @@ FLARE rounds are sometimes carried by hunters for safety and rescue purposes. Th
 
 Legal issues
 
-Lupara.jpg]] Globally, shotguns are generally not as heavily regulated as rifles or handguns, likely because they lack the range of rifles and are not easily concealable as handguns are; thus, they are perceived as a lesser threat by legislative authorities. The one exception is a sawed-off shotgun, especially a lupara, as it is more easily concealed than a normal shotgun.
+]] Globally, shotguns are generally not as heavily regulated as rifles or handguns, likely because they lack the range of rifles and are not easily concealable as handguns are; thus, they are perceived as a lesser threat by legislative authorities. The one exception is a sawed-off shotgun, especially a lupara, as it is more easily concealed than a normal shotgun.
 
 Australia
 
@@ -391,7 +391,7 @@ Within Australia, all shotguns manufactured after 1 January 1901 are considered 
 
 Canada
 
-Beanbag_shotgun.jpg Canada has three classifications of firearms: non-restricted, restricted, and prohibited. Shotguns are found in all three classes.
+Canada has three classifications of firearms: non-restricted, restricted, and prohibited. Shotguns are found in all three classes.
 
 All non-restricted shotguns must have an overall length of at least . Semi-automatic shotguns must also have a barrel length of more than and have a capacity of 5 shells or less in the magazine to remain non-restricted. All other shotgun action types (pump/slide, break open, lever, bolt) do not have a magazine limit restriction or a minimum barrel length provided the overall length of the firearm remains more than and the barrel was produced by an approved manufacturer. Shotgun barrels may only be reduced in length to a minimum of . Non-restricted shotguns may be possessed with any Possession and Acquisition Licence (PAL) or Possession-Only License (POL) and may be transported throughout the country without special authorization and may be used for hunting certain species at certain times of the year.
 
@@ -421,7 +421,7 @@ Any pump-action or semi-automatic smooth-bore gun (such as a shotgun) with a bar
 
 US
 
-United_States_President_Barack_Obama_shoots_clay_targets_on_the_range_at_Camp_David,_Maryland.jpg skeet shooting with a Browning Citori 525 on the range at Camp David.]] In the US, federal law prohibits shotguns from being capable of holding more than three shells including the round in the chamber when used for hunting migratory gamebirds such as doves, ducks, and geese. For other uses, a capacity of any number of shells is generally permitted. Most magazine-fed shotguns come with a removable magazine plug to limit capacity to 2, plus one in the chamber, for hunting migratory gamebirds. Certain states have restrictions on magazine capacity or design features under hunting or assault weapon laws.
+skeet shooting with a Browning Citori 525 on the range at Camp David.]] In the US, federal law prohibits shotguns from being capable of holding more than three shells including the round in the chamber when used for hunting migratory gamebirds such as doves, ducks, and geese. For other uses, a capacity of any number of shells is generally permitted. Most magazine-fed shotguns come with a removable magazine plug to limit capacity to 2, plus one in the chamber, for hunting migratory gamebirds. Certain states have restrictions on magazine capacity or design features under hunting or assault weapon laws.
 
 Shotguns intended for defensive use have barrels as short as for private use (the minimum shotgun barrel length allowed by law in the United States without federal registration. Barrel lengths of less than as measured from the breechface to the muzzle when the weapon is in battery, or have an overall length of less than are classified as short barreled shotguns (SBS) under the 1934 National Firearms Act and are regulated. A similar short barreled weapon having a pistol grip may be classified as an AOW or "Any Other Weapon". A shotgun is defined as a weapon (with a buttstock) designed to be fired from the shoulder. The classification varies depending on how the weapon was originally manufactured.
 

@@ -1,5 +1,3 @@
-Netherlands_Antilles_before_1986.png Saint-Martin_Island_topographic_map-en.svg
-
 The Netherlands Antilles was a constituent country in the Caribbean Sea. It consisted of two island groups, the ABC islands Curaçao, Bonaire and (until 1986) Aruba just north of Venezuela, and the SSS islands east of the Virgin Islands.
 
 The Netherlands Antilles had 960 km² (1153 km² before 1986) of land, which included no major lakes or other bodies of water.

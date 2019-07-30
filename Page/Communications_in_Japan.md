@@ -1,4 +1,4 @@
-Government_Office_Complex_2_of_Japan_2009.jpg complex houses the Ministry of Internal Affairs and Communications, which administers Japanese cellphone networks while also providing many other services.]]
+complex houses the Ministry of Internal Affairs and Communications, which administers Japanese cellphone networks while also providing many other services.]]
 
 The nation of Japan currently possesses one of the most advanced communication networks in the world. For example, by 2008 the Japanese government's Internal Affairs and Communications Ministry stated that about 75 million people used cellphones to access the internet, said total accounting for about 82% of individual internet users.[1]
 
@@ -61,7 +61,7 @@ COUNTRY CODE (TOP-LEVEL DOMAIN): JP
 
 Postal services
 
-Japan_Mailbox_Red.jpg in Japan as pictured in 2005. Note the double-bar symbol, the country's postal mark, on the front.]]
+in Japan as pictured in 2005. Note the double-bar symbol, the country's postal mark, on the front.]]
 
 Japan's first modern postal service got started in 1871, with mail professionally traveling between Kyoto and Tokyo as well as the latter city and Osaka. This took place in the midst of the rapid industrialization and social reorganization that the Meiji period symbolized in Japanese history. Given how the nation's railroad technology was in its infancy, Japan's growing postal system relied heavily on human-powered transport, including rickshaws, as well as horse-drawn methods of delivery. For example, while commemorating the 50th anniversary of Japan's postal service, the country's 1921 government released decorative postcards depicting intrepid horseback riders carrying the mail.[6][7]
 
@@ -72,7 +72,7 @@ Since 2007, the nation's post offices have been managed by the firm Japan Post N
 
 General background and history
 
-Meiji_Emperor.jpg, photographed in military dress by Uchida Kuichi, presided over a time of massive industrialization, with the Meiji period establishing the roots of modern Japanese communications.]]
+, photographed in military dress by Uchida Kuichi, presided over a time of massive industrialization, with the Meiji period establishing the roots of modern Japanese communications.]]
 
 An example of the dawn of modern Japanese communications is the shift in newspaper publication. News vendors of the Tokugawa period, taking place from 1603 to 1867, typically promoted publications by reading the contents aloud and handed out papers that were printed from hand-graven blocks. Widespread adoption of movable type took place as Japanese society modernized. In particular, _Yomiuri Shimbun_, a national daily newspaper that became the country's largest by circulation, was founded in 1874 and designed to be read in detail using standard Japanese vernacular. Five such dailies got started early in the Meiji period, taking place from 1868 to 1912. _Yomiuri_ specifically took direct influence from American publications controlled by William Randolph Hearst.[10]
 

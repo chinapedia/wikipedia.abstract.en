@@ -7,12 +7,12 @@ Parsley is widely used in European, Middle Eastern, and American cuisine. CURLY 
 
 Etymology
 
-Petersilie_ies.jpg parsley showing name in German and other languages on the label]] The word "parsley" is a merger of Old English'' petersilie'' (which is identical to the contemporary German word for _parsley_: _Petersilie_) and the Old French _peresil_, both derived from Medieval Latin _petrosilium_, from Latin _petroselinum_,[1] which is the latinization of the Greek πετροσέλινον (_petroselinon_), "rock-celery",[2] from πέτρα (_petra_), "rock, stone",[3] + σέλινον (_selinon_), "celery".[4][5][6] Mycenaean Greek se-ri-no, in Linear B, is the earliest attested form of the word _selinon_.[7]
+parsley showing name in German and other languages on the label]] The word "parsley" is a merger of Old English'' petersilie'' (which is identical to the contemporary German word for _parsley_: _Petersilie_) and the Old French _peresil_, both derived from Medieval Latin _petrosilium_, from Latin _petroselinum_,[1] which is the latinization of the Greek πετροσέλινον (_petroselinon_), "rock-celery",[2] from πέτρα (_petra_), "rock, stone",[3] + σέλινον (_selinon_), "celery".[4][5][6] Mycenaean Greek se-ri-no, in Linear B, is the earliest attested form of the word _selinon_.[7]
 
 
 Description
 
-Parsley100.jpg Garden parsley is a bright green, biennial plant in temperate climates, or an annual herb in subtropical and tropical areas.
+Garden parsley is a bright green, biennial plant in temperate climates, or an annual herb in subtropical and tropical areas.
 
 Where it grows as a biennial, in the first year, it forms a rosette of tripinnate leaves 10–25 cm long with numerous 1–3 cm leaflets, and a taproot used as a food store over the winter. In the second year, it grows a flowering stem to tall with sparser leaves and flat-topped 3–10 cm diameter umbels with numerous 2 mm diameter yellow to yellowish-green flowers. The seeds are ovoid, 2–3 mm long, with prominent style remnants at the apex. One of the compounds of the essential oil is apiol. The plant normally dies after seed maturation.[8][9][10]
 
@@ -34,7 +34,7 @@ Parsley attracts several species of wildlife. Some swallowtail butterflies use p
 
 Cultivars
 
-Curled parsley In cultivation, parsley is subdivided into several cultivar groups,[18] depending on the form of the plant, which is related to its end use. Often these are treated as botanical varieties,[19] but they are cultivated selections, not of natural botanical origin.[20]
+In cultivation, parsley is subdivided into several cultivar groups,[18] depending on the form of the plant, which is related to its end use. Often these are treated as botanical varieties,[19] but they are cultivated selections, not of natural botanical origin.[20]
 
 Leaf parsley
 
@@ -42,16 +42,16 @@ The two main groups of parsley used as herbs are FRENCH, or CURLY LEAF (_P. cris
 
 Root parsley
 
-Wurzelpetersilie_Wurzel.jpg Another type of parsley is grown as a root vegetable, the HAMBURG ROOT PARSLEY (_P. crispum radicosum_ group, syn. _P. crispum_ var. _tuberosum_). This type of parsley produces much thicker roots than types cultivated for their leaves. Although seldom used in Britain and the United States, root parsley is common in central and eastern European cuisine, where it is used in soups and stews, or simply eaten raw, as a snack (similar to carrots).[27]
+Another type of parsley is grown as a root vegetable, the HAMBURG ROOT PARSLEY (_P. crispum radicosum_ group, syn. _P. crispum_ var. _tuberosum_). This type of parsley produces much thicker roots than types cultivated for their leaves. Although seldom used in Britain and the United States, root parsley is common in central and eastern European cuisine, where it is used in soups and stews, or simply eaten raw, as a snack (similar to carrots).[27]
 
 Although root parsley looks similar to the parsnip, which is among its closest relatives in the family Apiaceae, its taste is quite different.
 
 
 Culinary use
 
-صحن_تبولة.JPG salad]] Parsley is widely used in Middle Eastern, European, Brazilian, and American cooking. Curly leaf parsley is used often as a garnish. Green parsley is used frequently as a garnish on potato dishes (boiled or mashed potatoes), on rice dishes (risotto or pilaf), on fish, fried chicken, lamb, goose, and steaks, as well in meat or vegetable stews (including shrimp creole, beef bourguignon, goulash, or chicken paprikash).[28]
+salad]] Parsley is widely used in Middle Eastern, European, Brazilian, and American cooking. Curly leaf parsley is used often as a garnish. Green parsley is used frequently as a garnish on potato dishes (boiled or mashed potatoes), on rice dishes (risotto or pilaf), on fish, fried chicken, lamb, goose, and steaks, as well in meat or vegetable stews (including shrimp creole, beef bourguignon, goulash, or chicken paprikash).[28]
 
-In central Europe, eastern Europe, and southern Europe, as well as in western Asia, many dishes are served with fresh green, chopped parsley sprinkled on top. In southern and central Europe, parsley is part of _bouquet garni_, a bundle of fresh herbs used as an ingredient in stocks, soups, and sauces. Freshly chopped green parsley is used as a topping for soups such as chicken soup, green salads, or salads such as _salade Olivier_, and on open sandwiches with cold cuts or _pâtés_. Parsley_seeds(রাধুনি).JPG _Persillade_ is a mixture of chopped garlic and chopped parsley in French cuisine.
+In central Europe, eastern Europe, and southern Europe, as well as in western Asia, many dishes are served with fresh green, chopped parsley sprinkled on top. In southern and central Europe, parsley is part of _bouquet garni_, a bundle of fresh herbs used as an ingredient in stocks, soups, and sauces. Freshly chopped green parsley is used as a topping for soups such as chicken soup, green salads, or salads such as _salade Olivier_, and on open sandwiches with cold cuts or _pâtés_. _Persillade_ is a mixture of chopped garlic and chopped parsley in French cuisine.
 
 Parsley is the main ingredient in Italian salsa verde, which is a mixed condiment of parsley, capers, anchovies, garlic, and sometimes bread, soaked in vinegar. It is an Italian custom to serve it with bollito misto or fish. _Gremolata_, a mixture of parsley, garlic, and lemon zest, is a traditional accompaniment to the Italian veal stew, _ossobuco alla milanese_.
 

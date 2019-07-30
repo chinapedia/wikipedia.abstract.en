@@ -7,7 +7,7 @@ Stockholm is the seat of the Swedish government and most of its agencies,[17] in
 
 History
 
-upright=0.8}} by Erik Dahlbergh and Willem Swidde, printed in 1693.]] upright=0.8.]] Hamngatan_and_Strandvägen,_Stockholm_(5246272896).jpg upright=0.8}})]] After the Ice Age, around 8,000 BC, there were already many people living in what is today the Stockholm area, but as temperatures dropped, inhabitants moved south. Thousands of years later, as the ground thawed, the climate became tolerable and the lands became fertile, people began to migrate back to the North. At the intersection of the Baltic Sea and lake Mälaren is an archipelago site where the Old Town of Stockholm was first built from about 1000 CE by Vikings. They had a positive trade impact on the area because of the trade routes they created.
+upright=0.8}} by Erik Dahlbergh and Willem Swidde, printed in 1693.]] upright=0.8.]] upright=0.8}})]] After the Ice Age, around 8,000 BC, there were already many people living in what is today the Stockholm area, but as temperatures dropped, inhabitants moved south. Thousands of years later, as the ground thawed, the climate became tolerable and the lands became fertile, people began to migrate back to the North. At the intersection of the Baltic Sea and lake Mälaren is an archipelago site where the Old Town of Stockholm was first built from about 1000 CE by Vikings. They had a positive trade impact on the area because of the trade routes they created.
 
 Stockholm's location appears in Norse sagas as Agnafit, and in Heimskringla in connection with the legendary king Agne. The earliest written mention of the name Stockholm dates from 1252, by which time the mines in Bergslagen made it an important site in the iron trade. The first part of the name () means log in Swedish, although it may also be connected to an old German word () meaning fortification. The second part of the name () means islet, and is thought to refer to the islet Helgeandsholmen in central Stockholm. According to Eric Chronicles the city is said to have been founded by Birger Jarl to protect Sweden from sea invasions made by Karelians after the pillage of Sigtuna on Lake Mälaren in the summer of 1187.[25]
 
@@ -21,7 +21,7 @@ In 1710, a plague killed about 20,000 (36 percent) of the population.[27] After 
 
 By the second half of the 19th century, Stockholm had regained its leading economic role. New industries emerged and Stockholm was transformed into an important trade and service centre as well as a key gateway point within Sweden. The population also grew dramatically during this time, mainly through immigration. At the end of the 19th century, less than 40% of the residents were Stockholm-born. Settlement began to expand outside the city limits. The 19th century saw the establishment of a number of scientific institutes, including the Karolinska Institutet. The General Art and Industrial Exposition was held in 1897. From 1887 to 1953 the Old Stockholm telephone tower was a landmark; originally built to link phone lines, it became redundant after these were buried, and it was latterly used for advertising.
 
-Hoghus_1-5_2007a.jpg Stockholm became a modern, technologically advanced, and ethnically diverse city in the latter half of the 20th century. Many historical buildings were torn down during the modernist era, including substantial parts of the historical district of Klara, and replaced with modern architecture. However, in many other parts of Stockholm (such as in Gamla stan, Södermalm, Östermalm, Kungsholmen and Vasastan), many "old" buildings, blocks and streets built before the modernism and functionalism movements took off in Sweden (around 1930–35) survived this era of demolition. Throughout the century, many industries shifted away from industrial activities into more high-tech and service industry areas.
+Stockholm became a modern, technologically advanced, and ethnically diverse city in the latter half of the 20th century. Many historical buildings were torn down during the modernist era, including substantial parts of the historical district of Klara, and replaced with modern architecture. However, in many other parts of Stockholm (such as in Gamla stan, Södermalm, Östermalm, Kungsholmen and Vasastan), many "old" buildings, blocks and streets built before the modernism and functionalism movements took off in Sweden (around 1930–35) survived this era of demolition. Throughout the century, many industries shifted away from industrial activities into more high-tech and service industry areas.
 
 Currently, Stockholm's metropolitan area is one of the fastest growing regions in Europe, and its population is expected to number 2.5 million by 2024. As a result of this massive population growth, there has been a proposal to build densely packed high-rise buildings in the city centre connected by elevated walkways.[28]
 
@@ -36,7 +36,7 @@ Positioned at the eastern end of the Central Swedish lowland, the city's locatio
 
 Stockholm belongs to the Temperate deciduous forest biome, which means the climate is very similar to that of the far northeastern area of the United States and coastal Nova Scotia in Canada. The average annual temperature is . The average rainfall is a year. The deciduous forest has four distinct seasons, spring, summer, autumn, and winter. In the autumn the leaves change colour. During the winter months the trees lose their leaves.
 
-For details about the other municipalities in the Stockholm area, see the pertinent articles. North of Stockholm Municipality: Järfälla, Solna, Täby, Sollentuna, Lidingö, Upplands Väsby, Österåker, Sigtuna, Sundbyberg, Danderyd, Vallentuna, Ekerö, Upplands-Bro, Vaxholm, and Norrtälje. South of Stockholm: Huddinge, Nacka, Botkyrka, Haninge, Tyresö, Värmdö, Södertälje, Salem, Nykvarn and Nynäshamn. Royalpalace_Stockholm.jpg]]
+For details about the other municipalities in the Stockholm area, see the pertinent articles. North of Stockholm Municipality: Järfälla, Solna, Täby, Sollentuna, Lidingö, Upplands Väsby, Österåker, Sigtuna, Sundbyberg, Danderyd, Vallentuna, Ekerö, Upplands-Bro, Vaxholm, and Norrtälje. South of Stockholm: Huddinge, Nacka, Botkyrka, Haninge, Tyresö, Värmdö, Södertälje, Salem, Nykvarn and Nynäshamn. ]]
 
 Stockholm Municipality
 
@@ -92,7 +92,7 @@ Stockholm's location just south of the 60th parallel north means that the number
 
 City governance
 
-Rådsalen_2009a.jpg.]] The Stockholm Municipal Council () is the name of the local assembly. Its 101 councillors are elected concurrently with general elections, held at the same time as the elections to the Riksdag and county councils. The Council convenes twice every month at Stockholm City Hall, and the meetings are open to the public. The matters on which the councillors decide have generally already been drafted and discussed by various boards and committees. Once decisions are referred for practical implementation, the employees of the City administrations and companies take over.[45]
+.]] The Stockholm Municipal Council () is the name of the local assembly. Its 101 councillors are elected concurrently with general elections, held at the same time as the elections to the Riksdag and county councils. The Council convenes twice every month at Stockholm City Hall, and the meetings are open to the public. The matters on which the councillors decide have generally already been drafted and discussed by various boards and committees. Once decisions are referred for practical implementation, the employees of the City administrations and companies take over.[45]
 
 The elected majority has a Mayor and eight Vice Mayors. The Mayor and each majority Vice Mayor is a head of a department, with responsibility for a particular area of operation, such as City Planning. The opposition also has four Vice Mayors, but they hold no executive power. Together the Mayor and the 12 Vice Mayors form the Council of Mayors, and they prepare matters for the City Executive Board. The Mayor holds a special position among the Vice Mayors, chairing both the Council of Mayors and the City Executive Board.[46]
 
@@ -100,7 +100,7 @@ The City Executive Board () is elected by the City Council and can be thought of
 
 Following the 2018 Stockholm municipal election a majority of seats in the municipal council is at present held by a center/right-wing majority and the Mayor of Stockholm () is Anna Konig Jerlmyr from the Moderate Party.
 
-Kistacentralparts_Publish.jpg Ericsson_huvudkontor_Kista_2010.jpg]] The vast majority of Stockholm residents work in the service industry, which accounts for roughly 85% of jobs in Stockholm. The almost total absence of heavy industry (and fossil fuel power plants) makes Stockholm one of the world's cleanest metropolises. The last decade has seen a significant number of jobs created in high technology companies. Large employers include IBM, Ericsson, and Electrolux. A major IT centre is located in Kista, in northern Stockholm.
+]] The vast majority of Stockholm residents work in the service industry, which accounts for roughly 85% of jobs in Stockholm. The almost total absence of heavy industry (and fossil fuel power plants) makes Stockholm one of the world's cleanest metropolises. The last decade has seen a significant number of jobs created in high technology companies. Large employers include IBM, Ericsson, and Electrolux. A major IT centre is located in Kista, in northern Stockholm.
 
 Stockholm is Sweden's financial centre. Major Swedish banks, such as Swedbank, Handelsbanken, and SEB, are headquartered in Stockholm, as are the major insurance companies Skandia, Folksam and Trygg-Hansa. Stockholm is also home to Sweden's foremost stock exchange, the Stockholm Stock Exchange (_Stockholmsbörsen_). Additionally, about 45% of Swedish companies with more than 200 employees are headquartered in Stockholm.[48] Noted clothes retailer H&M is also headquartered in the city. In recent years, tourism has played an important part in the city's economy. Stockholm County is ranked as the 10th largest visitor destination in Europe, with over 10 million commercial overnight stays per year. Among 44 European cities Stockholm had the 6th highest growth in number of nights spent in the period 2004–2008.[49]
 
@@ -127,7 +127,7 @@ The city-owned company Stokab started in 1994 to build a fiber-optic network thr
 
 Education
 
-Sse_north_side.jpg]] Research and higher education in the sciences started in Stockholm in the 18th century, with education in medicine and various research institutions such as the Stockholm Observatory. The medical education was eventually formalized in 1811 as Karolinska Institutet. The Royal Institute of Technology (_Kungliga Tekniska högskolan_, or _KTH_) was founded in 1827 and is currently Scandinavia's largest higher education institute of technology with 13,000 students. Stockholm University, founded in 1878 with university status granted in 1960, has 52,000 students . It also incorporates many historical institutions, such as the Observatory, the Swedish Museum of Natural History, and the botanical garden _Bergianska trädgården_. The Stockholm School of Economics, founded in 1909, is one of the few private institutions of higher education in Sweden.
+]] Research and higher education in the sciences started in Stockholm in the 18th century, with education in medicine and various research institutions such as the Stockholm Observatory. The medical education was eventually formalized in 1811 as Karolinska Institutet. The Royal Institute of Technology (_Kungliga Tekniska högskolan_, or _KTH_) was founded in 1827 and is currently Scandinavia's largest higher education institute of technology with 13,000 students. Stockholm University, founded in 1878 with university status granted in 1960, has 52,000 students . It also incorporates many historical institutions, such as the Observatory, the Swedish Museum of Natural History, and the botanical garden _Bergianska trädgården_. The Stockholm School of Economics, founded in 1909, is one of the few private institutions of higher education in Sweden.
 
 In the fine arts, educational institutions include the Royal College of Music, which has a history going back to the conservatory founded as part of the Royal Swedish Academy of Music in 1771, the Royal University College of Fine Arts, which has a similar historical association with the Royal Swedish Academy of Arts and a foundation date of 1735, and the Swedish National Academy of Mime and Acting, which is the continuation of the school of the Royal Dramatic Theatre, once attended by Greta Garbo. Other schools include the design school Konstfack, founded in 1844, the University College of Opera (founded in 1968, but with older roots), the University College of Dance, and the _Stockholms Musikpedagogiska Institut_ (the University College of Music Education).
 
@@ -194,23 +194,23 @@ Residents of Stockholm are known as Stockholmers ("_stockholmare_"). Languages s
 
 The entire Stockholm metropolitan area, consisting of 26 municipalities, has a population of over 2.2 million,[57] making it the most populous city in the Nordic region.[58] The Stockholm urban area, defined only for statistical purposes, had a total population of 1,630,738 in 2015. In the following municipalities some of the districts are contained within the Stockholm urban area, though not all:[59][60]
 
-+------------------------------------------------+------------------------------------------------------------------------------------+
-|   Municipality   Population (2016-12-31)[61]   | Population_Development_Stockholm.svg population development years 1570–2012[62] ]] |
-|   -------------- ----------------------------- |                                                                                    |
-|   Stockholm      935,619                       |                                                                                    |
-|   Botkyrka       90,675                        |                                                                                    |
-|   Danderyd       32,653                        |                                                                                    |
-|   Haninge        85,693                        |                                                                                    |
-|   Huddinge       107,538                       |                                                                                    |
-|   Järfälla       74,412                        |                                                                                    |
-|   Nacka          99,359                        |                                                                                    |
-|   Sollentuna     71,023                        |                                                                                    |
-|   Solna          78,129                        |                                                                                    |
-|   Sundbyberg     47,750                        |                                                                                    |
-|   Tyresö         47,103                        |                                                                                    |
-|                                                |                                                                                    |
-|   : Stockholm urban area municipalities        |                                                                                    |
-+------------------------------------------------+------------------------------------------------------------------------------------+
++------------------------------------------------+-----------------------------------------------+
+|   Municipality   Population (2016-12-31)[61]   | population development years 1570–2012[62] ]] |
+|   -------------- ----------------------------- |                                               |
+|   Stockholm      935,619                       |                                               |
+|   Botkyrka       90,675                        |                                               |
+|   Danderyd       32,653                        |                                               |
+|   Haninge        85,693                        |                                               |
+|   Huddinge       107,538                       |                                               |
+|   Järfälla       74,412                        |                                               |
+|   Nacka          99,359                        |                                               |
+|   Sollentuna     71,023                        |                                               |
+|   Solna          78,129                        |                                               |
+|   Sundbyberg     47,750                        |                                               |
+|   Tyresö         47,103                        |                                               |
+|                                                |                                               |
+|   : Stockholm urban area municipalities        |                                               |
++------------------------------------------------+-----------------------------------------------+
 
 
 Culture
@@ -227,7 +227,7 @@ Other authors with notable heritage in Stockholm were the Nobel Prize laureate E
 
 Architecture
 
-Stockholm_Port.jpg.]] Djurgardsbron_2008.jpg]] upright=0.8, designed by architect Gunnar Asplund]]
+.]] ]] upright=0.8, designed by architect Gunnar Asplund]]
 
 The city's oldest section is Gamla stan (Old Town), located on the original small islands of the city's earliest settlements and still featuring the medieval street layout. Some notable buildings of Gamla Stan are the large German Church (_Tyska kyrkan_) and several mansions and palaces: the _Riddarhuset_ (the House of Nobility), the Bonde Palace, the Tessin Palace and the Oxenstierna Palace.
 
@@ -237,7 +237,7 @@ As early as the 15th century, the city had expanded outside of its original bord
 
 In the 20th century, a nationalistic push spurred a new architectural style inspired by medieval and renaissance ancestry as well as influences of the Jugend/Art Nouveau style. A key landmark of Stockholm, the Stockholm City Hall, was erected 1911–1923 by architect Ragnar Östberg. Other notable works of these times are the Stockholm Public Library and the World Heritage Site Skogskyrkogården.[66]
 
-Sodertornet_at_night.jpg, an building in Södermalm.]] In the 1930s modernism characterized the development of the city as it grew. New residential areas sprang up such as the development on Gärdet while industrial development added to the growth, such as the KF manufacturing industries on Kvarnholmen located in the Nacka Municipality. In the 1950s, suburban development entered a new phase with the introduction of the Stockholm metro. The modernist developments of Vällingby and Farsta were internationally praised. In the 1960s this suburban development continued but with the aesthetic of the times, the industrialized and mass-produced blocks of flats received a large amount of criticism.
+, an building in Södermalm.]] In the 1930s modernism characterized the development of the city as it grew. New residential areas sprang up such as the development on Gärdet while industrial development added to the growth, such as the KF manufacturing industries on Kvarnholmen located in the Nacka Municipality. In the 1950s, suburban development entered a new phase with the introduction of the Stockholm metro. The modernist developments of Vällingby and Farsta were internationally praised. In the 1960s this suburban development continued but with the aesthetic of the times, the industrialized and mass-produced blocks of flats received a large amount of criticism.
 
 At the same time that this suburban development was taking place, the most central areas of the inner city were being redesigned, known as _Norrmalmsregleringen_. Sergels Torg, with its five high-rise office towers was created in the 1960s, followed by the total clearance of large areas to make room for new development projects. The most notable buildings from this period include the ensemble of the House of Culture, City Theatre and the Riksbank at Sergels Torg, designed by architect Peter Celsing.
 
@@ -249,7 +249,7 @@ Stockholm's architecture (along with Visby, Gotland[68]) provided the inspiratio
 
 Museums
 
-Vasa_Museum_interior1.jpg with a scale model of Vasa as it might have looked on its maiden voyage to the left and the preserved ship itself to the right]] Moragården.jpg at the Skansen open-air museum.]] Stockholm is one of the most crowded museum-cities in the world with around 100 museums, visited by millions of people every year.[70]
+with a scale model of Vasa as it might have looked on its maiden voyage to the left and the preserved ship itself to the right]] at the Skansen open-air museum.]] Stockholm is one of the most crowded museum-cities in the world with around 100 museums, visited by millions of people every year.[70]
 
 The Vasa Museum () is a maritime museum on Djurgården which displays the only almost fully intact 17th century ship that has ever been salvaged, the 64-gun warship _Vasa_ that sank on her maiden voyage in 1628.
 
@@ -280,7 +280,7 @@ The Stockholm suburbs are places with diverse cultural background. Some areas in
 
 Theatres
 
-Dramaten_050701.JPG, one of Stockholm's many theatres.]] Distinguished among Stockholm's many theatres are the Royal Dramatic Theatre (_Kungliga Dramatiska Teatern_), one of Europe's most renowned theatres, and the Royal Swedish Opera, inaugurated in 1773.
+, one of Stockholm's many theatres.]] Distinguished among Stockholm's many theatres are the Royal Dramatic Theatre (_Kungliga Dramatiska Teatern_), one of Europe's most renowned theatres, and the Royal Swedish Opera, inaugurated in 1773.
 
 Other notable theatres are the Stockholm City Theatre (Stockholms stadsteater), the Peoples Opera (_Folkoperan_), the Modern Theatre of Dance (_Moderna dansteatern_), the China Theatre, the Göta Lejon Theatre, the Mosebacke Theatre, and the Oscar Theatre.
 
@@ -290,11 +290,11 @@ Gröna Lund is an amusement park located on the island of Djurgården. This amus
 
 Media
 
-Vasabron_Riddarholmen_Norstedts.jpg, seen from Vasabron, in Riddarholmen.]] Stockholm is the media centre of Sweden. It has four nationwide daily newspapers and is also the central location of the publicly funded radio (SR) and television (SVT). In addition, all other major television channels have their base in Stockholm, such as: TV3, TV4 and TV6. All major magazines are also located to Stockholm, as are the largest literature publisher, the Bonnier group. The worlds best selling video game _Minecraft_ was created in Stockholm by Markus 'Notch' Persson in 2009, and its company Mojang is currently headquartered there.
+, seen from Vasabron, in Riddarholmen.]] Stockholm is the media centre of Sweden. It has four nationwide daily newspapers and is also the central location of the publicly funded radio (SR) and television (SVT). In addition, all other major television channels have their base in Stockholm, such as: TV3, TV4 and TV6. All major magazines are also located to Stockholm, as are the largest literature publisher, the Bonnier group. The worlds best selling video game _Minecraft_ was created in Stockholm by Markus 'Notch' Persson in 2009, and its company Mojang is currently headquartered there.
 
 Sports
 
-Friends_Arena_from_inside.jpg]] Bandyfinal2010_hammarby_celebratin.JPG won their first national bandy title in 2010]]
+]] won their first national bandy title in 2010]]
 
 The most popular spectator sports are football and ice hockey. The three most popular football clubs in Stockholm are AIK, Djurgårdens IF and Hammarby IF, who all play in the first tier, Allsvenskan. AIK play at Sweden's national stadium for football, Friends Arena in Solna, with a capacity of 54,329. Djurgårdens IF and Hammarby play at Tele2 Arena in Johanneshov, with a capacity of 30,000 spectators.
 
@@ -318,7 +318,7 @@ There are over 1000 restaurants in Stockholm.[76] Stockholm boasts a total of te
 
 Yearly events
 
-Stockholm_Marathon.jpg, near Kungsträdgården in 2008]]
+, near Kungsträdgården in 2008]]
 
 -   Stockholm Jazz Festival is one of Sweden's oldest festivals. The festival takes place at Skeppsholmen in July.[77]
 -   Stockholm Pride is the largest Pride event in the Nordic countries and takes place in the last week of July every year. The Stockholm Pride festival always ends with a parade and in 2007, 50,000 people marched with the parade and about 500,000 watched.[78]
@@ -332,7 +332,7 @@ Stockholm_Marathon.jpg, near Kungsträdgården in 2008]]
 
 Environment
 
-Parkudden_djurgarden.jpg in central Stockholm.]]
+in central Stockholm.]]
 
 Green city with a national urban park
 
@@ -353,11 +353,11 @@ Transport
 
 Public transport
 
-SL_C20_Gamla_Stan,_Stockholm.jpg departing from the Gamla stan station.]]
+departing from the Gamla stan station.]]
 
 Stockholm has an extensive public transport system. It consists of the Stockholm Metro (), which consist of three color-coded main lines (green, red and blue) with seven actual lines (10, 11, 13, 14, 17, 18, 19); the Stockholm commuter rail () which runs on the State-owned railroads on four lines (35, 36, 37, 38); four light rail/tramway lines (7, 12, 21, and 22); the 891 mm narrow-gauge railway Roslagsbanan, on three lines (27, 28, 29) in the northeastern part; the local railway Saltsjöbanan, on two lines (25, 26) in the southeastern part; a large number of bus lines, and the inner-city Djurgården ferry. The overwhelming majority of the land-based public transport in Stockholm County (save for the airport buses/airport express trains and other few commercially viable bus lines) is organized under the common umbrella of Storstockholms Lokaltrafik (SL), an aktiebolag wholly owned by Stockholm County Council. Since the 1990s, the operation and maintenance of the SL public transport services are contracted out to independent companies bidding for contracts, such as MTR, which currently operate the Metro. The archipelago boat traffic is handled by Waxholmsbolaget, which is also wholly owned by the County Council.
 
-Number_7_tram_bound_for_Sergels_Torg_in_Stockholm_Sweden.png on line 7 at Djurgårdsbron.]] SL has a common ticket system in the entire Stockholm County, which allows for easy travel between different modes of transport. The tickets are of two main types, single ticket and travel cards, both allowing for unlimited travel with SL in the entire Stockholm County for the duration of the ticket validity. On 1 April 2007, a zone system (A, B, C) and price system was introduced. Single tickets were available in forms of cash ticket, individual unit pre-paid tickets, pre-paid ticket slips of 8, sms-ticket and machine ticket. Cash tickets bought at the point of travel were the most expensive and pre-paid tickets slips of 8 are the cheapest. A single ticket costs 32 SEK with the card and 45 SEK without and is valid for 75 minutes. The duration of the travel card validity depended on the exact type; they were available from 24 hours up to a year. As of 2018, a 30-day card costs 860 SEK. Tickets of all these types were available with reduced prices for students and persons under 20 and over 65 years of age. On 9 January 2017, the zone system was removed, and the cost of the tickets was increased.[94]
+on line 7 at Djurgårdsbron.]] SL has a common ticket system in the entire Stockholm County, which allows for easy travel between different modes of transport. The tickets are of two main types, single ticket and travel cards, both allowing for unlimited travel with SL in the entire Stockholm County for the duration of the ticket validity. On 1 April 2007, a zone system (A, B, C) and price system was introduced. Single tickets were available in forms of cash ticket, individual unit pre-paid tickets, pre-paid ticket slips of 8, sms-ticket and machine ticket. Cash tickets bought at the point of travel were the most expensive and pre-paid tickets slips of 8 are the cheapest. A single ticket costs 32 SEK with the card and 45 SEK without and is valid for 75 minutes. The duration of the travel card validity depended on the exact type; they were available from 24 hours up to a year. As of 2018, a 30-day card costs 860 SEK. Tickets of all these types were available with reduced prices for students and persons under 20 and over 65 years of age. On 9 January 2017, the zone system was removed, and the cost of the tickets was increased.[94]
 
 The City Line Project
 
@@ -367,17 +367,17 @@ Between Riddarholmen and Söder Mälarstrand, the City Line runs through a subme
 
 Roads
 
-Norra_Länken_nov_2016.jpg (North link) motorway in Stockholm.]] Stockholm is at the junction of the European routes E4, E18 and E20. A half-completed motorway ring road exists on the south, west and north sides of the City Centre. The northern section of the ring road opened for traffic in 2015 while the final subsea eastern section is being discussed as a future project. A bypass motorway for traffic between Northern and Southern Sweden, Förbifart Stockholm, is currently being built. The many islands and waterways make extensions of the road system both complicated and expensive, and new motorways are often built as systems of tunnels and bridges.
+(North link) motorway in Stockholm.]] Stockholm is at the junction of the European routes E4, E18 and E20. A half-completed motorway ring road exists on the south, west and north sides of the City Centre. The northern section of the ring road opened for traffic in 2015 while the final subsea eastern section is being discussed as a future project. A bypass motorway for traffic between Northern and Southern Sweden, Förbifart Stockholm, is currently being built. The many islands and waterways make extensions of the road system both complicated and expensive, and new motorways are often built as systems of tunnels and bridges.
 
 Congestion charges
 
-Betalstation_2010.jpg.]] Stockholm has a congestion pricing system, Stockholm congestion tax,[99] in use on a permanent basis since 1 August 2007,[100][101] after having had a seven-month trial period in the first half of 2006.[102] The City Centre is within the congestion tax zone. All the entrances and exits of this area have unmanned control points operating with automatic number plate recognition. All vehicles entering or exiting the congestion tax affected area, with a few exceptions, have to pay 10–20 SEK (1.09–2.18 EUR, 1.49–2.98 USD) depending on the time of day between 06:30 and 18:29. The maximum tax amount per vehicle per day is 60 SEK (6.53 EUR, ).[103] Payment is done by various means within 14 days after one has passed one of the control points; one cannot pay at the control points.[104]
+.]] Stockholm has a congestion pricing system, Stockholm congestion tax,[99] in use on a permanent basis since 1 August 2007,[100][101] after having had a seven-month trial period in the first half of 2006.[102] The City Centre is within the congestion tax zone. All the entrances and exits of this area have unmanned control points operating with automatic number plate recognition. All vehicles entering or exiting the congestion tax affected area, with a few exceptions, have to pay 10–20 SEK (1.09–2.18 EUR, 1.49–2.98 USD) depending on the time of day between 06:30 and 18:29. The maximum tax amount per vehicle per day is 60 SEK (6.53 EUR, ).[103] Payment is done by various means within 14 days after one has passed one of the control points; one cannot pay at the control points.[104]
 
 After the trial period was over, consultative referendums were held in Stockholm Municipality and several other municipalities in Stockholm County. The then-reigning government (Persson Cabinet) stated that they would only take into consideration the results of the referendum in Stockholm Municipality. The opposition parties (Alliance for Sweden) stated that if they were to form a cabinet after the general election—which was held the same day as the congestion tax referendums—they would take into consideration the referendums held in several of the other municipalities in Stockholm County as well. The results of the referendums were that the Stockholm Municipality voted for the congestion tax, while the other municipalities voted against it. The opposition parties won the general election and a few days before they formed government (Reinfeldt Cabinet) they announced that the congestion tax would be reintroduced in Stockholm, but that the revenue would go entirely to road construction in and around Stockholm. During the trial period and according to the agenda of the previous government the revenue went entirely to public transport.
 
 Ferries
 
-Viking_Grace_in_Stockholm.jpg, one of many cruiseferries on the routes to Finland and the Åland Islands.]] Stockholm has regular ferry lines to Helsinki and Turku in Finland (commonly called "Finlandsfärjan"); Tallinn, Estonia; Riga, Latvia, Åland islands and to Saint Petersburg. The large Stockholm archipelago is served by the archipelago boats of Waxholmsbolaget (owned and subsidized by Stockholm County Council).
+, one of many cruiseferries on the routes to Finland and the Åland Islands.]] Stockholm has regular ferry lines to Helsinki and Turku in Finland (commonly called "Finlandsfärjan"); Tallinn, Estonia; Riga, Latvia, Åland islands and to Saint Petersburg. The large Stockholm archipelago is served by the archipelago boats of Waxholmsbolaget (owned and subsidized by Stockholm County Council).
 
 City bikes
 
@@ -400,7 +400,7 @@ there are no airports specifically for general aviation in the Stockholm area.
 
 Inter-city trains
 
-Stockholm_centralstation_2017_-1_(cropped).jpg]] Stockholm Central Station has train connections to many Swedish cities as well as to Oslo, Norway and Copenhagen, Denmark. The popular X 2000 service to Gothenburg takes three hours. Most of the trains are run by SJ AB.
+]] Stockholm Central Station has train connections to many Swedish cities as well as to Oslo, Norway and Copenhagen, Denmark. The popular X 2000 service to Gothenburg takes three hours. Most of the trains are run by SJ AB.
 
 
 International rankings

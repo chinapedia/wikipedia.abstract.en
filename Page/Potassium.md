@@ -20,7 +20,7 @@ Properties
 
 Physical
 
-FlammenfärbungK.png of potassium.]] Potassium is the second least dense metal after lithium. It is a soft solid with a low melting point, and can be easily cut with a knife. Freshly cut potassium is silvery in appearance, but it begins to tarnish toward gray immediately on exposure to air.[12] In a flame test, potassium and its compounds emit a lilac color with a peak emission wavelength of 766.5 nanometers.[13]
+of potassium.]] Potassium is the second least dense metal after lithium. It is a soft solid with a low melting point, and can be easily cut with a knife. Freshly cut potassium is silvery in appearance, but it begins to tarnish toward gray immediately on exposure to air.[12] In a flame test, potassium and its compounds emit a lilac color with a peak emission wavelength of 766.5 nanometers.[13]
 
 Chemical
 
@@ -33,8 +33,6 @@ Because of the sensitivity of potassium to water and air, reactions with other e
     + 2 K → Mg + 2 KCl
 
 Compounds
-
-potassium-superoxide-unit-cell-3D-ionic.png
 
 The only common oxidation state for potassium is +1. Potassium metal is a powerful reducing agent that is easily oxidized to the monopositive cation, . Once oxidized, it is very stable and difficult to reduce back to the metal.[22]
 
@@ -53,7 +51,7 @@ occurs in natural potassium (and thus in some commercial salt substitutes) in su
 
 Cosmic formation and distribution
 
-PotassiumFeldsparUSGOV.jpg]]
+]]
 
 Potassium is formed in supernovae by nucleosynthesis from lighter atoms. Potassium is principally created in Type II supernovae via an explosive oxygen-burning process.[35] is also formed in s-process nucleosynthesis and the neon burning process.[36]
 
@@ -67,7 +65,7 @@ Potash is primarily a mixture of potassium salts because plants have little or n
 
 Metal
 
-Sir_Humphry_Davy,_Bt_by_Thomas_Phillips.jpg ]] Potassium.JPG
+]]
 
 Potassium _metal_ was first isolated in 1807 by Sir Humphry Davy, who derived it from caustic potash (KOH, potassium hydroxide) by electrolysis of molten KOH with the newly discovered voltaic pile. Potassium was the first metal that was isolated by electrolysis.[53] Later in the same year, Davy reported extraction of the metal sodium from a mineral derivative (caustic soda, NaOH, or lye) rather than a plant salt, by a similar technique, demonstrating that the elements, and thus the salts, are different.[54][55][56][57] Although the production of potassium and sodium metal should have shown that both are elements, it took some time before this view was universally accepted.[58]
 
@@ -114,7 +112,7 @@ Potassium content in the plasma is tightly controlled by four basic mechanisms, 
 
 -   The reactive negative-feedback system refers to the system that induces renal secretion of potassium in response to a rise in the plasma potassium (potassium ingestion, shift out of cells, or intravenous infusion.)
 -   The reactive feed-forward system refers to an incompletely understood system that induces renal potassium secretion in response to potassium ingestion prior to any rise in the plasma potassium. This is probably initiated by gut cell potassium receptors that detect ingested potassium and trigger vagal afferent signals to the pituitary gland.
--   The predictive or circadian system increases renal secretion of potassium during mealtime hours (e.g. daytime for humans, nighttime for rodents) independent of the presence, amount, or absence of potassium ingestion. It is mediated by a circadian oscillator in the suprachiasmatic nucleus of the brain (central clock), which causes the kidney (peripheral clock) to secrete potassium in this rhythmic circadian fashion.Scheme_sodium-potassium_pump-en.svg is an example of primary active transport. The two carrier proteins embedded in the cell membrane on the left are using ATP to move sodium out of the cell against the concentration gradient; The two proteins on the right are using secondary active transport to move potassium into the cell. This process results in reconstitution of ATP.]]
+-   The predictive or circadian system increases renal secretion of potassium during mealtime hours (e.g. daytime for humans, nighttime for rodents) independent of the presence, amount, or absence of potassium ingestion. It is mediated by a circadian oscillator in the suprachiasmatic nucleus of the brain (central clock), which causes the kidney (peripheral clock) to secrete potassium in this rhythmic circadian fashion. is an example of primary active transport. The two carrier proteins embedded in the cell membrane on the left are using ATP to move sodium out of the cell against the concentration gradient; The two proteins on the right are using secondary active transport to move potassium into the cell. This process results in reconstitution of ATP.]]
 -   The ion transport system moves potassium across the cell membrane using two mechanisms. One is active and pumps sodium out of, and potassium into, the cell. The other is passive and allows potassium to leak out of the cell. Potassium and sodium cations influence fluid distribution between intracellular and extracellular compartments by osmotic forces. The movement of potassium and sodium through the cell membrane is mediated by the Na+/K+-ATPase pump.[75] This ion pump uses ATP to pump three sodium ions out of the cell and two potassium ions into the cell, creating an electrochemical gradient and electromotive force across the cell membrane. The highly selective potassium ion channels (which are tetramers) are crucial for hyperpolarization inside neurons after an action potential is triggered, to cite one example. The most recently discovered potassium ion channel is KirBac3.1, which makes a total of five potassium ion channels (KcsA, KirBac1.1, KirBac3.1, KvAP, and MthK) with a determined structure. All five are from prokaryotic species.[76]
 
 Renal filtration, reabsorption, and excretion
@@ -173,7 +171,7 @@ Commercial production
 
 Mining
 
-Museo_de_La_Plata_-_Silvita.jpg from New Mexico]] Wintershall_Monte_Kali_12.jpg, a potash mining and beneficiation waste heap in Hesse, Germany, consisting mostly of sodium chloride.]]
+from New Mexico]] , a potash mining and beneficiation waste heap in Hesse, Germany, consisting mostly of sodium chloride.]]
 
 Potassium salts such as carnallite, langbeinite, polyhalite, and sylvite form extensive evaporite deposits in ancient lake bottoms and seabeds,[104] making extraction of potassium salts in these environments commercially viable. The principal source of potassium – potash – is mined in Canada, Russia, Belarus, Kazakhstan, Germany, Israel, United States, Jordan, and other places around the world.[105][106][107] The first mined deposits were located near Staßfurt, Germany, but the deposits span from Great Britain over Germany into Poland. They are located in the Zechstein and were deposited in the Middle to Late Permian. The largest deposits ever found lie below the surface of the Canadian province of Saskatchewan. The deposits are located in the Elk Point Group produced in the Middle Devonian. Saskatchewan, where several large mines have operated since the 1960s pioneered the technique of freezing of wet sands (the Blairmore formation) to drive mine shafts through them. The main potash mining company in Saskatchewan until its merge was the Potash Corporation of Saskatchewan, now Nutrien.[108] The water of the Dead Sea is used by Israel and Jordan as a source of potash, while the concentration in normal oceans is too low for commercial production at current prices.[109][110]
 
@@ -206,7 +204,7 @@ Commercial uses
 
 Fertilizer
 
-Patentkali_(Potassium_sulfate_with_magnesium).jpg Potassium ions are an essential component of plant nutrition and are found in most soil types.[116] They are used as a fertilizer in agriculture, horticulture, and hydroponic culture in the form of chloride (KCl), sulfate (), or nitrate (), representing the 'K' in 'NPK'. Agricultural fertilizers consume 95% of global potassium chemical production, and about 90% of this potassium is supplied as KCl.[117] The potassium content of most plants ranges from 0.5% to 2% of the harvested weight of crops, conventionally expressed as amount of . Modern high-yield agriculture depends upon fertilizers to replace the potassium lost at harvest. Most agricultural fertilizers contain potassium chloride, while potassium sulfate is used for chloride-sensitive crops or crops needing higher sulfur content. The sulfate is produced mostly by decomposition of the complex minerals kainite () and langbeinite (). Only a very few fertilizers contain potassium nitrate.[118] In 2005, about 93% of world potassium production was consumed by the fertilizer industry.[119] Furthermore, potassium can play a key role in nutrient cycling by controlling litter composition.[120]
+Potassium ions are an essential component of plant nutrition and are found in most soil types.[116] They are used as a fertilizer in agriculture, horticulture, and hydroponic culture in the form of chloride (KCl), sulfate (), or nitrate (), representing the 'K' in 'NPK'. Agricultural fertilizers consume 95% of global potassium chemical production, and about 90% of this potassium is supplied as KCl.[117] The potassium content of most plants ranges from 0.5% to 2% of the harvested weight of crops, conventionally expressed as amount of . Modern high-yield agriculture depends upon fertilizers to replace the potassium lost at harvest. Most agricultural fertilizers contain potassium chloride, while potassium sulfate is used for chloride-sensitive crops or crops needing higher sulfur content. The sulfate is produced mostly by decomposition of the complex minerals kainite () and langbeinite (). Only a very few fertilizers contain potassium nitrate.[118] In 2005, about 93% of world potassium production was consumed by the fertilizer industry.[119] Furthermore, potassium can play a key role in nutrient cycling by controlling litter composition.[120]
 
 Medical use
 
@@ -248,8 +246,6 @@ Precautions
 Potassium metal reacts violently with water producing potassium hydroxide (KOH) and hydrogen gas.
 
     2 K (s) + 2  (l) → 2 KOH (aq) + ↑ (g)
-
-Potassium_water_20.theora.ogv
 
 This reaction is exothermic and releases enough heat to ignite the resulting hydrogen in the presence of oxygen. Potassium tends to explode in contact with water and without the oxygen presence. It is called coulombic explosion, possibly splashing onlookers with potassium hydroxide, which is a strong alkali that destroys living tissue and causes skin burns. Finely grated potassium ignites in air at room temperature. The bulk metal ignites in air if heated. Because its density is 0.89g/cm³, burning potassium floats in water that exposes it to atmospheric oxygen. Many common fire extinguishing agents, including water, either are ineffective or make a potassium fire worse. Nitrogen, argon, sodium chloride (table salt), sodium carbonate (soda ash), and silicon dioxide (sand) are effective if they are dry. Some Class D dry powder extinguishers designed for metal fires are also effective. These agents deprive the fire of oxygen and cool the potassium metal.[140]
 

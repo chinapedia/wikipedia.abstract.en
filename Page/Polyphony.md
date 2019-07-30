@@ -1,4 +1,4 @@
-BachFugueBar.png's "Fugue No.17 in A flat", BWV 862, from _Das Wohltemperierte Clavier_ (Part I), a famous example of CONTRAPUNTAL POLYPHONY. ]]
+'s "Fugue No.17 in A flat", BWV 862, from _Das Wohltemperierte Clavier_ (Part I), a famous example of CONTRAPUNTAL POLYPHONY. ]]
 
 In music, POLYPHONY is one type of musical texture, where a texture is, generally speaking, the way that melodic, rhythmic, and harmonic aspects of a musical composition are combined to shape the overall sound and quality of the work. In particular, POLYPHONY consists of two or more simultaneous lines of independent melody, as opposed to a musical texture with just one voice, monophony, or a texture with one dominant melodic voice accompanied by chords, which is called homophony.
 
@@ -50,7 +50,7 @@ English Protestant west gallery music included polyphonic multi-melodic harmony,
 
 Balkan region
 
-A_traditional_male_folk_group_from_Skrapar.JPG and fustanella in Skrapar.]]
+and fustanella in Skrapar.]]
 
 POLYPHONIC SINGING IN THE BALKANS is traditional folk singing of this part of southern Europe. It is also called _ancient_, _archaic_ or _old-style_ singing.[12][13]
 

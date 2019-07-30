@@ -15,7 +15,7 @@ Cut off from most of their horticultural sites throughout the Camas Prairie[11] 
 
 Name and history
 
-Edward_S._Curtis_Collection_People_007.jpg Their name for themselves is _Nimíipuu_ (pronounced ), meaning, "The People", in their language, part of the Sahaptin family.[21]
+Their name for themselves is _Nimíipuu_ (pronounced ), meaning, "The People", in their language, part of the Sahaptin family.[21]
 
 _Nez Percé_ is an exonym given by French Canadian fur traders who visited the area regularly in the late 18th century, meaning literally "pierced nose". English-speaking traders and settlers adopted the name in turn. Since the late 20th century, the Nez Perce identify most often as NIIMÍIPUU in Sahaptin.[22] The Lakota/ Dakota named them the _Watopala_, or _Canoe_ people, from _Watopa_. However, after Nez Perce became a more common name, they changed it to _Watopahlute_. This comes from _pahlute_, nasal passage and is simply a play on words. If translated literally, it would come out as either _"Nasal Passage of the Canoe"_ (Watopa-pahlute) or _"Nasal Passage of the Grass"_ (Wato-pahlute).[23] The tribe also uses the term "Nez Perce", as does the United States Government in its official dealings with them, and contemporary historians. Older historical ethnological works and documents use the French spelling of _Nez Percé_, with the diacritic. The original French pronunciation is , with three syllables.
 
@@ -33,7 +33,7 @@ The Nez Perce language, or Niimiipuutímt, is a Sahaptian language related to th
 
 Aboriginal territory
 
-Nezperce01.png The Nez Perce territory at the time of Lewis and Clark (1804–1806) was approximately and covered parts of present-day Washington, Oregon, Montana, and Idaho, in an area surrounding the Snake (Weyikespe), Grande Ronde River, Salmon (Naco’x kuus) ("Chinook salmon Water") and the Clearwater (Koos-Kai-Kai) ("Clear Water") rivers. The tribal area extended from the Bitterroots in the east (the door to the Northwestern Plains of Montana) to the Blue Mountains in the west between latitudes 45°N and 47°N.[29]
+The Nez Perce territory at the time of Lewis and Clark (1804–1806) was approximately and covered parts of present-day Washington, Oregon, Montana, and Idaho, in an area surrounding the Snake (Weyikespe), Grande Ronde River, Salmon (Naco’x kuus) ("Chinook salmon Water") and the Clearwater (Koos-Kai-Kai) ("Clear Water") rivers. The tribal area extended from the Bitterroots in the east (the door to the Northwestern Plains of Montana) to the Blue Mountains in the west between latitudes 45°N and 47°N.[29]
 
 In 1800, the Nez Perce had more than 100 permanent villages, ranging from 50 to 600 individuals, depending on the season and social grouping. Archeologists have identified a total of about 300 related sites including camps and villages, mostly in the Salmon River Canyon. In 1805, the Nez Perce were the largest tribe on the Columbia River Plateau, with a population of about 6,000. By the beginning of the 20th century, the Nez Perce had declined to about 1,800 due to epidemics, conflicts with non-Indians, and other factors.[30] A total of 3,499 Nez Perce were counted in the 2010 Census.[31]
 
@@ -80,8 +80,6 @@ Weyiiletpuu (Wailetpu) Band  Yeletpo Band
 
 Culture
 
-Nez_Perce_beaded_shirt.jpg
-
 The semi-sedentary Nez Percés were Hunter-gatherer without agriculture living in a society in which most or all food is obtained by foraging (collecting wild plants and roots and pursuing wild animals). They depended on hunting, fishing, and the gathering of wild roots and berries.
 
 Nez Perce people historically depended on various Pacific salmon and Pacific trout for their food: Chinook salmon or "_nacoox_" (Oncorhynchus tschawytscha) were eaten the most, but other species such as Pacific lamprey (Entosphenus tridentatus or Lampetra tridentata), and chiselmouth.[38] Other important fishes included the Sockeye salmon (Oncorhynchus nerka), Silver salmon or _ka'llay_ (Oncorhynchus kisutch), Chum salmon or dog salmon or _ka'llay_ (Oncorhynchus keta), Mountain whitefish or "_ci'mey_" (Prosopium williamsoni), White sturgeon (Acipenser transmontanus), White sucker or "_mu'quc_" (Catostomus commersonii), and varieties of trout - West Coast steelhead or "_heyey_" (Oncorhynchus mykiss), brook trout or "_pi'ckatyo_" (Salvelinus fontinalis), bull trout or "_i'slam_" (Salvelinus confluentus), and Cutthroat trout or "_wawa'lam_" (Oncorhynchus clarkii).[39]
@@ -90,7 +88,7 @@ Prior to contact with Europeans, the Nez Perce's traditional hunting and fishing
 
 Historically, in late May and early June, Nez Perce villagers crowded to communal fishing sites to trap eels, steelhead, and chinook salmon, or haul in fish with large dip nets. Fishing took place throughout the summer and fall, first on the lower streams and then on the higher tributaries, and catches also included salmon, sturgeon, whitefish, suckers, and varieties of trout. Most of the supplies for winter use came from a second run in the fall, when large numbers of Sockeye salmon, silver, and dog salmon appeared in the rivers.
 
-Fishing is traditionally an important ceremonial and commercial activity for the Nez Perce tribe. Today Nez Perce fishers participate in tribal fisheries in the mainstream Columbia River between Bonneville and McNary dams. The Nez Perce also fish for spring and summer Chinook salmon and Rainbow trout/steelhead in the Snake River and its tributaries. The Nez Perce tribe runs the Nez Perce Tribal Hatchery on the Clearwater River, as well as several satellite hatchery programs. Nez.Perce.Camp.Lapwai.1899.jpg
+Fishing is traditionally an important ceremonial and commercial activity for the Nez Perce tribe. Today Nez Perce fishers participate in tribal fisheries in the mainstream Columbia River between Bonneville and McNary dams. The Nez Perce also fish for spring and summer Chinook salmon and Rainbow trout/steelhead in the Snake River and its tributaries. The Nez Perce tribe runs the Nez Perce Tribal Hatchery on the Clearwater River, as well as several satellite hatchery programs.
 
 The first fishing of the season was accompanied by prescribed rituals and a ceremonial feast known as "_kooyit_". Thanksgiving was offered to the Creator and to the fish for having returned and given themselves to the people as food. In this way, it was hoped that the fish would return the next year.
 
@@ -100,7 +98,7 @@ Aside from fish and game, Plant foods provided over half of the dietary calories
 
 Favorite fruits dried for winter were serviceberries or "_kel_" (Amelanchier alnifolia or Saskatoon berry), black huckleberries or "_cemi'tk_" (Vaccinium membranaceum), red elderberries or "_mi'ttip_" (Sambucus racemosa var. melanocarpa), and chokecherries or "_ti'ms_" (Prunus virginiana var. melanocarpa). Nez Perce textiles were made primarily from dogbane or "_qeemu_" (Apocynum cannabinum or Indian hemp), tules or "_to'ko_" (Schoenoplectus acutus var. acutus), and western redcedar or "_tala'tat_" (Thuja plicata). The most important industrial woods were redcedar, ponderosa pine or "_la'qa_" (Pinus ponderosa), Douglas fir or "_pa'ps_" (Pseudotsuga menziesii), sandbar willow or "_tax's_" (Salix exigua), and hard woods such as Pacific yew or "_ta'mqay_" (Taxus brevifolia) and syringa or "_sise'qiy_" (Philadelphus lewisii or Indian arrowwood).[45]
 
-Many fishes and plants important to Nez Perce culture are today state symbols: the black huckleberry or "_cemi'tk_" is the official state fruit and the Indian arrowwood or "_sise'qiy_", the Douglas fir or "_pa'ps_" is the state tree of Oregon and the ponderosa pine or "_la'qa_" of Montana, the Chinook salmon is the state fish of Oregon, the cutthroat trout or "_wawa'lam_" of Idaho, Montana and Wyoming, and the West Coast steelhead or "heyey" of Washington. HeartOfTheMonsterByPhilKonstantin.jpg
+Many fishes and plants important to Nez Perce culture are today state symbols: the black huckleberry or "_cemi'tk_" is the official state fruit and the Indian arrowwood or "_sise'qiy_", the Douglas fir or "_pa'ps_" is the state tree of Oregon and the ponderosa pine or "_la'qa_" of Montana, the Chinook salmon is the state fish of Oregon, the cutthroat trout or "_wawa'lam_" of Idaho, Montana and Wyoming, and the West Coast steelhead or "heyey" of Washington.
 
 The Nez Perce believed in spirits called _weyekins_ (Wie-a-kins) which would, they thought, offer a link to the invisible world of spiritual power".[46] The weyekin would protect one from harm and become a personal guardian spirit. To receive a weyekin, a seeker would go to the mountains alone on a vision quest. This included fasting and meditation over several days. While on the quest, the individual may receive a vision of a spirit, which would take the form of a mammal or bird. This vision could appear physically or in a dream or trance. The weyekin was to bestow the animal's powers on its bearer—for example; a deer might give its bearer swiftness. A person's weyekin was very personal. It was rarely shared with anyone and was contemplated in private. The weyekin stayed with the person until death.
 
@@ -119,9 +117,9 @@ Recollecting the Nez Perce encounter with the Lewis and Clark party, in 1889 ant
 
 Fight of the Nez Perce
 
-Flight_of_the_Nez_Perce-1877-map.jpg The Nez Perce were one of the tribal nations at the Walla Walla Council (1855) (along with the Cayuse, Umatilla, Walla Walla, and Yakama), which signed the Treaty of Walla Walla.[52]
+The Nez Perce were one of the tribal nations at the Walla Walla Council (1855) (along with the Cayuse, Umatilla, Walla Walla, and Yakama), which signed the Treaty of Walla Walla.[52]
 
-Under pressure from the European Americans, in the late 19th century the Nez Perce split into two groups: one side accepted the coerced relocation to a reservation and the other refused to give up their fertile land in Idaho and Oregon. Those willing to go to a reservation made a treaty in 1877. The flight of the non-treaty Nez Perce began on June 15, 1877, with Chief Joseph, Looking Glass, White Bird, Ollokot, Lean Elk (Poker Joe) and Toohoolhoolzote leading 2,900 men, women and children in an attempt to reach a peaceful sanctuary. They intended to seek shelter with their allies the Crow but, upon the Crow's refusal to offer help, the Nez Perce tried to reach the camp in Canada of Lakota Chief Sitting Bull. He had migrated there instead of surrendering after the decisive Indian victory at the Battle of the Little Bighorn. Chief_Joseph-1877.jpg, 1877]]
+Under pressure from the European Americans, in the late 19th century the Nez Perce split into two groups: one side accepted the coerced relocation to a reservation and the other refused to give up their fertile land in Idaho and Oregon. Those willing to go to a reservation made a treaty in 1877. The flight of the non-treaty Nez Perce began on June 15, 1877, with Chief Joseph, Looking Glass, White Bird, Ollokot, Lean Elk (Poker Joe) and Toohoolhoolzote leading 2,900 men, women and children in an attempt to reach a peaceful sanctuary. They intended to seek shelter with their allies the Crow but, upon the Crow's refusal to offer help, the Nez Perce tried to reach the camp in Canada of Lakota Chief Sitting Bull. He had migrated there instead of surrendering after the decisive Indian victory at the Battle of the Little Bighorn. , 1877]]
 
 The Nez Perce were pursued by over 2,000 soldiers of the U.S. Army on an epic flight to freedom of more than across four states and multiple mountain ranges. The 800 Nez Perce warriors defeated or held off the pursuing troops in 18 battles, skirmishes, and engagements. More than 300 US soldiers and 1,000 Nez Perce (including women and children) were killed in these conflicts.[53]
 
@@ -132,14 +130,10 @@ The route of the Nez Perce flight is preserved by the Nez Perce National Histori
 
 Nez Perce horse breeding program
 
-Nez_Perce_warrior_on_horse.jpg
-
 In 1994 the Nez Perce tribe began a breeding program, based on crossbreeding the Appaloosa and a Central Asian breed called Akhal-Teke, to produce what they called the Nez Perce Horse.[58] They wanted to restore part of their traditional horse culture, where they had conducted selective breeding of their horses, long considered a marker of wealth and status, and trained their members in a high quality of horsemanship. Social disruption due to reservation life and assimilationist pressures by Americans and the government resulted in the destruction of their horse culture in the 19th century. The 20th-century breeding program was financed by the United States Department of Health and Human Services, the Nez Perce tribe, and the nonprofit called the First Nations Development Institute. It has promoted businesses in Native American country that reflect values and traditions of the peoples. The Nez Perce Horse breed is noted for its speed.
 
 
 Nez Perce Indian Reservation
-
-Nezperceindians1895ish.jpg
 
 The current tribal lands consist of a reservation in north central Idaho at , primarily in the Camas Prairie region south of the Clearwater River, in parts of four counties.[59] In descending order of surface area, the counties are Nez Perce, Lewis, Idaho, and Clearwater. The total land area is about , and the reservation's population at the 2000 census was 17,959.[60]
 

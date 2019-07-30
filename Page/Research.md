@@ -1,11 +1,11 @@
-Research-Warner-Highsmith.jpeg sculpture "Research holding the torch of knowledge" (1896) by Olin Levi Warner. Library of Congress, Thomas Jefferson Building, in Washington, D.C.]]
+sculpture "Research holding the torch of knowledge" (1896) by Olin Levi Warner. Library of Congress, Thomas Jefferson Building, in Washington, D.C.]]
 
 RESEARCH is "creative and systematic work undertaken to increase the stock of knowledge, including knowledge of humans, culture and society, and the use of this stock of knowledge to devise new applications."[1] It is used to establish or confirm facts, reaffirm the results of previous work, solve new or existing problems, support theorems, or develop new theories. A research project may also be an expansion on past work in the field. Research projects can be used to develop further knowledge on a topic, or in the example of a school research project, they can be used to further a student's research prowess to prepare them for future jobs or reports. To test the validity of instruments, procedures, or experiments, research may replicate elements of prior projects or the project as a whole. The primary purposes of basic research (as opposed to applied research) are documentation, discovery, interpretation, or the research and development (R&D) of methods and systems for the advancement of human knowledge. Approaches to research depend on epistemologies, which vary considerably both within and between humanities and sciences. There are several forms of research: scientific, humanities, artistic, economic, social, business, marketing, practitioner research, life, technological, etc. The scientific study of research practices is known as meta-research.
 
 
 Etymology
 
-Aristotle_Altemps_Inv8575.jpg, (384–322 BC), one of the early figures in the development of the scientific method.[2]]] The word _research_ is derived from the Middle French "_recherche_", which means "to go about seeking", the term itself being derived from the Old French term "_recerchier_" a compound word from "re-" + "cerchier", or "sercher", meaning 'search'.[3] The earliest recorded use of the term was in 1577.[4]
+, (384–322 BC), one of the early figures in the development of the scientific method.[2]]] The word _research_ is derived from the Middle French "_recherche_", which means "to go about seeking", the term itself being derived from the Old French term "_recerchier_" a compound word from "re-" + "cerchier", or "sercher", meaning 'search'.[3] The earliest recorded use of the term was in 1577.[4]
 
 
 Definitions
@@ -35,7 +35,7 @@ ARTISTIC RESEARCH, also seen as 'practice-based research', can take form when cr
 
 Scientific research
 
-Microscopy_lab.jpg Laboratory of the Idaho National Laboratory]] Alcator_C-Mod.jpg]] RV_Sonne_2014_1.jpg maritime research vessel _Sonne_]]
+Laboratory of the Idaho National Laboratory]] ]] maritime research vessel _Sonne_]]
 
 Generally, research is understood to follow a certain structural process. Though step order may vary depending on the subject matter and researcher, the following steps are usually part of most formal research, both basic and applied:
 
@@ -55,7 +55,7 @@ A useful hypothesis allows prediction and within the accuracy of observation of 
 
 Historical research
 
-Leopold_von_Ranke_1868.jpg (1795–1886), considered to be one of the founders of modern source-based history]]
+(1795–1886), considered to be one of the founders of modern source-based history]]
 
 The historical method comprises the techniques and guidelines by which historians use historical sources and other evidence to research and then to write history. There are various history guidelines that are commonly used by historians in their work, under the headings of external criticism, internal criticism, and synthesis. This includes lower criticism and sensual criticism. Though items may vary depending on the subject matter and researcher, the following concepts are part of most formal historical research:[15]
 
@@ -108,7 +108,7 @@ Plato in Meno talks about an inherent difficulty, if not a paradox, of doing res
 
 Research methods
 
-NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg in progress]] Hilleman-Walter-Reed.jpeg, the preeminent vaccinologist of the 20th century, is credited with saving more lives than any other scientist in that time[38]]]
+in progress]] , the preeminent vaccinologist of the 20th century, is credited with saving more lives than any other scientist in that time[38]]]
 
 The goal of the research process is to produce new knowledge or deepen understanding of a topic or issue. This process takes three main forms (although, as previously discussed, the boundaries between them may be obscure):
 
@@ -204,7 +204,7 @@ The following ranks are known:
 
 Publishing
 
-Nature_cover,_November_4,_1869.jpg'', 4 November 1869]] Academic publishing is a system that is necessary for academic scholars to peer review the work and make it available for a wider audience. The system varies widely by field and is also always changing, if often slowly. Most academic work is published in journal article or book form. There is also a large body of research that exists in either a thesis or dissertation form. These forms of research can be found in databases explicitly for theses and dissertations. In publishing, STM publishing is an abbreviation for academic publications in science, technology, and medicine. Most established academic fields have their own scientific journals and other outlets for publication, though many academic journals are somewhat interdisciplinary, and publish work from several distinct fields or subfields. The kinds of publications that are accepted as contributions of knowledge or research vary greatly between fields, from the print to the electronic format. A study suggests that researchers should not give great consideration to findings that are not replicated frequently.[64] It has also been suggested that all published studies should be subjected to some measure for assessing the validity or reliability of its procedures to prevent the publication of unproven findings.[65] Business models are different in the electronic environment. Since about the early 1990s, licensing of electronic resources, particularly journals, has been very common. Presently, a major trend, particularly with respect to scholarly journals, is open access.[66] There are two main forms of open access: open access publishing, in which the articles or the whole journal is freely available from the time of publication, and self-archiving, where the author makes a copy of their own work freely available on the web.
+'', 4 November 1869]] Academic publishing is a system that is necessary for academic scholars to peer review the work and make it available for a wider audience. The system varies widely by field and is also always changing, if often slowly. Most academic work is published in journal article or book form. There is also a large body of research that exists in either a thesis or dissertation form. These forms of research can be found in databases explicitly for theses and dissertations. In publishing, STM publishing is an abbreviation for academic publications in science, technology, and medicine. Most established academic fields have their own scientific journals and other outlets for publication, though many academic journals are somewhat interdisciplinary, and publish work from several distinct fields or subfields. The kinds of publications that are accepted as contributions of knowledge or research vary greatly between fields, from the print to the electronic format. A study suggests that researchers should not give great consideration to findings that are not replicated frequently.[64] It has also been suggested that all published studies should be subjected to some measure for assessing the validity or reliability of its procedures to prevent the publication of unproven findings.[65] Business models are different in the electronic environment. Since about the early 1990s, licensing of electronic resources, particularly journals, has been very common. Presently, a major trend, particularly with respect to scholarly journals, is open access.[66] There are two main forms of open access: open access publishing, in which the articles or the whole journal is freely available from the time of publication, and self-archiving, where the author makes a copy of their own work freely available on the web.
 
 
 Research funding

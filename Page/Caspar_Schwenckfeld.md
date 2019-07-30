@@ -1,4 +1,4 @@
-Kaspar-Schwenkfeld.jpg CASPAR (or KASPAR) SCHWEN(C)KFELD VON OSSIG () (1489 or 1490 – 10 December 1561) was a German theologian, writer, and preacher who became a Protestant Reformer and spiritualist. He was one of the earliest promoters of the Protestant Reformation in Silesia.
+CASPAR (or KASPAR) SCHWEN(C)KFELD VON OSSIG () (1489 or 1490 – 10 December 1561) was a German theologian, writer, and preacher who became a Protestant Reformer and spiritualist. He was one of the earliest promoters of the Protestant Reformation in Silesia.
 
 Schwenckfeld came to Reformation principles through Thomas Müntzer and Andreas Karlstadt. However, he developed his own principles and fell out with Martin Luther over the eucharistic controversy (1524). He had his own views on the sacraments - the Heavenly Flesh doctrine - developed in close association with his humanist colleague, Valentin Crautwald (1465–1545). His followers became a new sect (_see Schwenckfelders_), which was outlawed in Germany, but his ideas influenced Anabaptism, Pietism on mainland Europe, and Puritanism in England.
 
@@ -30,7 +30,7 @@ In 1561, Schwenckfeld became sick with dysentery, and gradually grew weaker unti
 
 Schwenkfelder Church
 
-Palm_Schwenkfelder_Church,_Palm_PA_02.JPG]] Schwenckfeld did not organize a separate church during his lifetime, but followers seemed to gather around his writings and sermons. In 1700 there were about 1,500 of them in Lower Silesia. Many fled Silesia under persecution of the Austrian emperor, and some found refuge on the lands of Count Nicolaus Ludwig Zinzendorf and his Herrnhuter Brüdergemeinde. These followers became known as Schwenkfelders. A group arrived in Philadelphia in 1731, followed by five more migrations up to 1737. In 1782, the Society of Schwenkfelders was formed, and in 1909 the Schwenkfelder Church was organized.
+]] Schwenckfeld did not organize a separate church during his lifetime, but followers seemed to gather around his writings and sermons. In 1700 there were about 1,500 of them in Lower Silesia. Many fled Silesia under persecution of the Austrian emperor, and some found refuge on the lands of Count Nicolaus Ludwig Zinzendorf and his Herrnhuter Brüdergemeinde. These followers became known as Schwenkfelders. A group arrived in Philadelphia in 1731, followed by five more migrations up to 1737. In 1782, the Society of Schwenkfelders was formed, and in 1909 the Schwenkfelder Church was organized.
 
 The Schwenkfelder Church has remained small, and currently there are five[3] churches with about 3,000 members in southeastern Pennsylvania. All of these bodies are within a fifty-mile radius of Philadelphia.
 

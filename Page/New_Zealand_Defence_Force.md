@@ -104,7 +104,7 @@ From 1863 to 1867 Forest Ranger volunteer units were formed, tasked with searchi
 
 Alongside the militia and the British Imperial forces were the Armed Constabulary. The Armed Constabulary were formed in 1846 with the passage of the Armed Constabulary Ordinance.[57] The Constabulary's role was both regular law enforcement and during the New Zealand Wars militia support. From 1867 to 1886 the Armed Constabulary were the only permanent force in New Zealand. In 1886 the militia functions of the Armed Constabulary were transferred to the New Zealand Permanent Militia by the Defence Act 1886. Lieutenant Colonel John Roberts was the Permanent Militia's first commander from January 1887 to his retirement in 1888.[58]
 
-Henderson_and_the_donkey.jpg.]]
+.]]
 
 Defence Act 1909
 
@@ -114,7 +114,7 @@ Separate services (from 1909)
 
     ''See Royal New Zealand Navy, New Zealand Army, Royal New Zealand Air Force
 
-14_NZ_Brigade_Group_landing,_Point_Cruz,_Guadalcanal_World_War_II_(13971875862).jpg in the Solomons]] Independent New Zealand armed forces developed in the early twentieth century; the Royal New Zealand Navy was the last to emerge as an independent service in 1941.[60] Prior to that time it had been the New Zealand Division of the Royal Navy. New Zealand forces served alongside the British and other Empire and Commonwealth nations in World War I and World War II.
+in the Solomons]] Independent New Zealand armed forces developed in the early twentieth century; the Royal New Zealand Navy was the last to emerge as an independent service in 1941.[60] Prior to that time it had been the New Zealand Division of the Royal Navy. New Zealand forces served alongside the British and other Empire and Commonwealth nations in World War I and World War II.
 
 The fall of Singapore in 1942 showed that Britain could no longer protect its far-flung Dominions. Closer military ties were therefore necessary for New Zealand's defence. With United States entering the war, they were an obvious choice. Links with Australia had also been developed earlier; both nations sent troops to the Anglo-Boer War and New Zealand officer candidates had trained at Australia's Royal Military College, Duntroon since 1911, a practice that continues to this day. A combined Australian and New Zealand Army Corps (ANZAC) was formed for the Gallipoli Campaign during World War I, and its exploits are key events in the military history of both countries.
 
@@ -156,13 +156,11 @@ Branches
 
 Navy
 
-HMNZS_Te_Kaha_-_Flickr_-_NZ_Defence_Force.jpg
-
 The Royal New Zealand Navy (RNZN) has 2,132 full-time and 435[70] part-time sailors. The RNZN possess two _Anzac_ class frigates, developed in conjunction with Australia, based on the German MEKO 200 design. Nine other vessels are in use, consisting of patrol vessels and logistics vessels. In 2010, the RNZN completed the acquisition of seven new vessels: one large Multi-Role Vessel named the HMNZS Canterbury, two Offshore Patrol Vessels, and four Inshore Patrol Vessels. All of these vessels were acquired under Project Protector, and were built to commercial, not naval, standards.
 
 Army
 
-QAMR_soldiers_during_an_exercise.jpg during an exercise in 2010]] NZLAV_at_Tekapo_Military_Camp_July_2010.jpg New Zealand's Army has 4,584 full-time and 1,671 part-time troops.[71] They are organised as light infantry and motorised infantry equipped with 102 Canadian-manufactured LAV III Light Armoured Vehicles (NZLAV). There are also armoured reconnaissance, artillery, logistic, communications, medical and intelligence elements. The New Zealand Special Air Service is the NZDF's special forces capability, which operates in both conventional warfare and counter-terrorist roles. The Corps and Regiments of the New Zealand Army include:
+during an exercise in 2010]] New Zealand's Army has 4,584 full-time and 1,671 part-time troops.[71] They are organised as light infantry and motorised infantry equipped with 102 Canadian-manufactured LAV III Light Armoured Vehicles (NZLAV). There are also armoured reconnaissance, artillery, logistic, communications, medical and intelligence elements. The New Zealand Special Air Service is the NZDF's special forces capability, which operates in both conventional warfare and counter-terrorist roles. The Corps and Regiments of the New Zealand Army include:
 
 -   Royal New Zealand Infantry Regiment
 -   Royal New Zealand Armoured Corps
@@ -179,7 +177,7 @@ QAMR_soldiers_during_an_exercise.jpg during an exercise in 2010]] NZLAV_at_Tekap
 
 Air Force
 
-Air_Force_"Formation_Thunder"_-_Flickr_-_NZ_Defence_Force.jpg, Two Lockheed P3K Orions and a Lockheed C130H Hercules in formation]]
+, Two Lockheed P3K Orions and a Lockheed C130H Hercules in formation]]
 
 The Royal New Zealand Air Force (RNZAF) has 2,403 full-time and 212 part-time airmen and airwomen.[72] The RNZAF consists of 51 aircraft, consisting of P-3 Orion maritime patrol aircraft and Lockheed C-130 Hercules and other transport aircraft. The NHIndustries NH90 operates in a medium-utility role, and the AgustaWestland A109 operates the light utility helicopter role, in addition to the main training platform. RNZAF primary flight training occurs in Beechcraft T-6 Texan IIs, before moving onto the Beechcraft King Air.
 
@@ -188,7 +186,7 @@ The RNZAF does not have air combat capabilities following the retirement without
 
 Foreign defence relations
 
-SH_60F_Sea_Hawk_helicopter_in_the_Solomon_Islands.jpg helicopter during a humanitarian aid mission to the Solomon Islands in 2007]]
+helicopter during a humanitarian aid mission to the Solomon Islands in 2007]]
 
 New Zealand states it maintains a "credible minimum force", although critics (including the New Zealand National Party while in opposition) maintain that the country's defence forces have fallen below this standard.[75] With a claimed area of direct strategic concern that extends from Australia to Southeast Asia to the South Pacific, and with defence expenditures that total around 1% of GDP, New Zealand necessarily places substantial reliance on co-operating with other countries, particularly Australia.
 
@@ -200,9 +198,7 @@ As of December 2015, New Zealand has 167 personnel deployed across the globe. Th
 
 New Zealand shares training facilities, personnel exchanges, and joint exercises with the Philippines, Thailand, Indonesia, Papua New Guinea, Brunei, Tonga, and South Pacific states. It exercises with its Five Power Defence Arrangements partners, Australia, the United Kingdom, Malaysia, and Singapore. New Zealand military personnel participate in training exercises, conferences and visits as part of military diplomacy.
 
-New Zealand is a signatory of the ANZUS treaty, a defence pact between New Zealand, Australia and the United States dating from 1951. After the 1986 anti-nuclear legislation that refused access of nuclear-powered or armed vessels to ports, the USA withdrew its obligations to New Zealand under ANZUS, and ANZUS exercises are now bilateral between Australia and the United States. Under anti-nuclear legislation, any ship must declare whether it is nuclear-propelled or carrying nuclear weapons before entering New Zealand waters. Due to the US policy at that time of "neither confirm nor deny", ship visits ceased although NZ and the USA remained "good friends".[76] Despite the Presidential Directive of 27 September 1991 that removed tactical nuclear weapons from U.S. surface ships, attack submarines, and naval aircraft,[77] ship visits have not resumed. Despite signs of rapprochement in recent years, military relationships with the US remain limited. NZ_Soldiers_Afghanistan_2009.jpg The NZDF served alongside NATO-led forces in Afghanistan in the first decade of the twenty-first century, and in 2004 the NZSAS was awarded a Presidential Unit Citation by US President George W Bush for "extraordinary heroism" in action. In 2008 US Secretary of State Condoleezza Rice during a visit to New Zealand said "New Zealand is now a friend and an ally".[78]
-
-Flickr_-_Official_U.S._Navy_Imagery_-_HMNZS_Endeavour_refuels_HMNZS_Te_Kaha_and_ROKS_Choi_Young..jpg
+New Zealand is a signatory of the ANZUS treaty, a defence pact between New Zealand, Australia and the United States dating from 1951. After the 1986 anti-nuclear legislation that refused access of nuclear-powered or armed vessels to ports, the USA withdrew its obligations to New Zealand under ANZUS, and ANZUS exercises are now bilateral between Australia and the United States. Under anti-nuclear legislation, any ship must declare whether it is nuclear-propelled or carrying nuclear weapons before entering New Zealand waters. Due to the US policy at that time of "neither confirm nor deny", ship visits ceased although NZ and the USA remained "good friends".[76] Despite the Presidential Directive of 27 September 1991 that removed tactical nuclear weapons from U.S. surface ships, attack submarines, and naval aircraft,[77] ship visits have not resumed. Despite signs of rapprochement in recent years, military relationships with the US remain limited. The NZDF served alongside NATO-led forces in Afghanistan in the first decade of the twenty-first century, and in 2004 the NZSAS was awarded a Presidential Unit Citation by US President George W Bush for "extraordinary heroism" in action. In 2008 US Secretary of State Condoleezza Rice during a visit to New Zealand said "New Zealand is now a friend and an ally".[78]
 
 New Zealand is a member of the ABCA Armies standardisation programme, the naval AUSCANNZUKUS forum, the Air and Space Interoperability Council (ASIC, the former ASCC, which, among other tasks, allocates NATO reporting names) and other Western 'Five Eyes' fora for sharing signals intelligence information and achieving interoperability with like-minded armed forces, such as The Technical Cooperation Program (TTCP).
 

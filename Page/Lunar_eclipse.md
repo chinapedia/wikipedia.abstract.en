@@ -1,4 +1,4 @@
-Total_lunar_eclipse_on_January_21,_2019_(45910439045)_(cropped).jpg. Direct sunlight is being blocked by the Earth, and the only light reaching it is sunlight refracted by Earth's atmosphere, producing a reddish color.]] Eclipse_lunar_2019.gif taken from Gloucestershire, United Kingdom]] A LUNAR ECLIPSE occurs when the Moon passes directly behind Earth and into its shadow.[1] This can occur only when the Sun, Earth, and Moon are exactly or very closely aligned (in syzygy), with Earth between the other two. A lunar eclipse can occur only on the night of a full moon. The type and length of a lunar eclipse depend on the Moon's proximity to either node of its orbit.
+. Direct sunlight is being blocked by the Earth, and the only light reaching it is sunlight refracted by Earth's atmosphere, producing a reddish color.]] taken from Gloucestershire, United Kingdom]] A LUNAR ECLIPSE occurs when the Moon passes directly behind Earth and into its shadow.[1] This can occur only when the Sun, Earth, and Moon are exactly or very closely aligned (in syzygy), with Earth between the other two. A lunar eclipse can occur only on the night of a full moon. The type and length of a lunar eclipse depend on the Moon's proximity to either node of its orbit.
 
 During a total lunar eclipse, Earth completely blocks direct sunlight from reaching the Moon. The only light reflected from the lunar surface has been refracted by Earth's atmosphere. This light appears reddish for the same reason that a sunset or sunrise does: the Rayleigh scattering of bluer light. Due to this reddish color, a totally eclipsed Moon is sometimes called a BLOOD MOON.
 
@@ -9,7 +9,7 @@ For the date of the next eclipse, see the section _Recent and forthcoming lunar 
 
 Types of lunar eclipse
 
-Geometry_of_a_Lunar_Eclipse.svg cast by Earth. Within the umbra, the central region, the planet totally shields direct sunlight. In contrast, within the penumbra, the outer portion, the sunlight is only partially blocked. (Neither the Sun, Moon, and Earth sizes nor the distances between the bodies are to scale.)]] Penumbral_lunar_eclipse_1999_jan_31.png dims the Moon in direct proportion to the area of the Sun's disk covered by Earth. This comparison of the Moon (within the southern part of Earth's shadow) during the penumbral lunar eclipse of January 1999 (left) and the Moon outside the shadow (right) shows this slight darkening.]]
+cast by Earth. Within the umbra, the central region, the planet totally shields direct sunlight. In contrast, within the penumbra, the outer portion, the sunlight is only partially blocked. (Neither the Sun, Moon, and Earth sizes nor the distances between the bodies are to scale.)]] dims the Moon in direct proportion to the area of the Sun's disk covered by Earth. This comparison of the Moon (within the southern part of Earth's shadow) during the penumbral lunar eclipse of January 1999 (left) and the Moon outside the shadow (right) shows this slight darkening.]]
 
 Earth's shadow can be divided into two distinctive parts: the umbra and penumbra. Earth totally occludes direct solar radiation within the umbra, the central region of the shadow. However, since the Sun's diameter appears about one-quarter of Earth's in the lunar sky, the planet only partially blocks direct sunlight within the penumbra, the outer portion of the shadow.
 
@@ -23,7 +23,7 @@ A CENTRAL LUNAR ECLIPSE is a total lunar eclipse during which the Moon passes th
 
 Selenelion
 
-Lunar_eclipse_at_sunrise_Minneapolis_October_2014.png from Minneapolis, with the setting and partially eclipsed Moon appearing squashed just above the horizon just after sunrise (seen as sunlight shining on the tree in the right image)]]
+from Minneapolis, with the setting and partially eclipsed Moon appearing squashed just above the horizon just after sunrise (seen as sunlight shining on the tree in the right image)]]
 
 A SELENELION or SELENEHELION occurs when both the Sun and an eclipsed Moon can be observed at the same time. This can occur only just before sunset or just after sunrise, when both bodies will appear just above the horizon at nearly opposite points in the sky. This arrangement has led to the phenomenon being also called a HORIZONTAL ECLIPSE.
 
@@ -31,8 +31,6 @@ Typically, a number of high ridges undergoing sunrise or sunset can view it. Alt
 
 
 Timing
-
-Lunareclipsediagram.svg Lunar_eclipse_contact_diagram.svg
 
 
 Danjon scale
@@ -48,21 +46,19 @@ The following scale (the Danjon scale) was devised by André Danjon for rating t
 
 Lunar versus solar eclipse
 
-Solar_lunar_eclipse_diagram.png, when the Moon is between Earth and the Sun, while a lunar eclipse occurs at night at full moon, when Earth passes between the Sun and the Moon.]] Blood_Moon_Corrected_Labels.png refracts sunlight into the shadow cone.]]
+, when the Moon is between Earth and the Sun, while a lunar eclipse occurs at night at full moon, when Earth passes between the Sun and the Moon.]] refracts sunlight into the shadow cone.]]
 
 There is often confusion between a solar eclipse and a lunar eclipse. While both involve interactions between the Sun, Earth, and the Moon, they are very different in their interactions.
 
 Lunar eclipse appearance
 
-Lunar_eclipse_oct_8_2014_Minneapolis_4_46am.png: an outer penumbra, where direct sunlight is dimmed, and an inner umbra, where indirect and much dimmer sunlight refracted by Earth's atmosphere shines on the Moon, leaving a reddish color. This can be seen in different exposures of a partial lunar eclipse, for example here with exposures of 1/80, 2/5, and 2 seconds.]]
+: an outer penumbra, where direct sunlight is dimmed, and an inner umbra, where indirect and much dimmer sunlight refracted by Earth's atmosphere shines on the Moon, leaving a reddish color. This can be seen in different exposures of a partial lunar eclipse, for example here with exposures of 1/80, 2/5, and 2 seconds.]]
 
 The Moon does not completely darken as it passes through the umbra because of the refraction of sunlight by Earth's atmosphere into the shadow cone; if Earth had no atmosphere, the Moon would be completely dark during the eclipse.[5] The reddish coloration arises because sunlight reaching the Moon must pass through a long and dense layer of Earth's atmosphere, where it is scattered. Shorter wavelengths are more likely to be scattered by the air molecules and small particles; thus, the longer wavelengths predominate by the time the light rays have penetrated the atmosphere. Human vision perceives this resulting light as red. This is the same effect that causes sunsets and sunrises to turn the sky a reddish color. An alternative way of conceiving this scenario is to realize that, as viewed from the Moon, the Sun would appear to be setting (or rising) behind Earth.
 
-Lunar_eclipse_from_moon_simulation-sep_28_2015.png
-
 The amount of refracted light depends on the amount of dust or clouds in the atmosphere; this also controls how much light is scattered. In general, the dustier the atmosphere, the more that other wavelengths of light will be removed (compared to red light), leaving the resulting light a deeper red color. This causes the resulting coppery-red hue of the Moon to vary from one eclipse to the next. Volcanoes are notable for expelling large quantities of dust into the atmosphere, and a large eruption shortly before an eclipse can have a large effect on the resulting color.
 
-Eclipse_Christophe_Colomb.jpg predicting a lunar eclipse.]]
+predicting a lunar eclipse.]]
 
 
 Lunar eclipse in culture
@@ -84,8 +80,6 @@ In some Chinese cultures, people would ring bells to prevent a dragon or other w
 
 Blood moon
 
-2007-03-03_-_Lunar_Eclipse_small-43img.gif
-
 Certain lunar eclipses have been referred to as "blood moons" in popular articles but this is not a scientifically-recognized term.[14] This term has been given two separate, but overlapping, meanings.
 
 The first, and simpler, meaning relates to the reddish color a totally eclipsed Moon takes on to observers on Earth.[15] As sunlight penetrates the atmosphere of Earth, the gaseous layer filters and refracts the rays in such a way that the green to violet wavelengths on the visible spectrum scatter more strongly than the red, thus giving the Moon a reddish cast.[16]
@@ -95,7 +89,7 @@ The second meaning of "blood moon" has been derived from this apparent coloratio
 
 Occurrence
 
-Lunar_Eclipse_at_ESO_2017.jpg sequence shows the August 2017 lunar eclipse visible from the ESO headquarters.[21]]] Blood_Moon.tif
+sequence shows the August 2017 lunar eclipse visible from the ESO headquarters.[21]]]
 
 At least two lunar eclipses and as many as five occur every year, although total lunar eclipses are significantly less common. If the date and time of an eclipse is known, the occurrences of upcoming eclipses are predictable using an eclipse cycle, like the saros.
 

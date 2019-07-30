@@ -11,7 +11,7 @@ His father strongly supported the Indonesian cause for autonomy from the colonia
 
 In 1969, Koolhaas co-wrote _The White Slave_, a Dutch film noir, and later wrote an unproduced script for American soft-porn king Russ Meyer.[10]
 
-Rem_Koolhaas_SCL.jpg model. 2005]]
+model. 2005]]
 
 He was a journalist for the _Haagse Post_ before starting studies, in 1968, in architecture at the Architectural Association School of Architecture in London, followed, in 1972, by further studies with Oswald Mathias Ungers at Cornell University in Ithaca, New York, followed by studies at the Institute for Architecture and Urban Studies in New York City.
 
@@ -28,7 +28,7 @@ Works
 
 _Delirious New York_
 
-Koolhaas's book _Delirious New York_ set the pace for his career. Koolhaas celebrates the "chance-like" nature of city life: "The City is an addictive machine from which there is no escape" "Rem Koolhaas...defined the city as a collection of “red hot spots.”[15] (Anna Klingmann). As Koolhaas himself has acknowledged, this approach had already been evident in the Japanese Metabolist Movement in the 1960s and early 1970s. Seattle_Central_Library_by_architect_Rem_Koolhaas,_view_from_5th_Ave.jpg Seattle, USA, designed by OMA]] A key aspect of architecture that Koolhaas interrogates is the "Program": with the rise of modernism in the 20th century the "Program" became the key theme of architectural design. The notion of the Program involves "an act to edit function and human activities" as the pretext of architectural design: epitomised in the maxim form follows function, first popularised by architect Louis Sullivan at the beginning of the 20th century. The notion was first questioned in _Delirious New York_, in his analysis of high-rise architecture in Manhattan. An early design method derived from such thinking was "cross-programming", introducing unexpected functions in room programmes, such as running tracks in skyscrapers. More recently, Koolhaas unsuccessfully proposed the inclusion of hospital units for the homeless into the Seattle Public Library project (2003).[16]
+Koolhaas's book _Delirious New York_ set the pace for his career. Koolhaas celebrates the "chance-like" nature of city life: "The City is an addictive machine from which there is no escape" "Rem Koolhaas...defined the city as a collection of “red hot spots.”[15] (Anna Klingmann). As Koolhaas himself has acknowledged, this approach had already been evident in the Japanese Metabolist Movement in the 1960s and early 1970s. Seattle, USA, designed by OMA]] A key aspect of architecture that Koolhaas interrogates is the "Program": with the rise of modernism in the 20th century the "Program" became the key theme of architectural design. The notion of the Program involves "an act to edit function and human activities" as the pretext of architectural design: epitomised in the maxim form follows function, first popularised by architect Louis Sullivan at the beginning of the 20th century. The notion was first questioned in _Delirious New York_, in his analysis of high-rise architecture in Manhattan. An early design method derived from such thinking was "cross-programming", introducing unexpected functions in room programmes, such as running tracks in skyscrapers. More recently, Koolhaas unsuccessfully proposed the inclusion of hospital units for the homeless into the Seattle Public Library project (2003).[16]
 
 S,M,L,XL
 
@@ -36,7 +36,7 @@ The next landmark publication by Koolhaas was _S,M,L,XL_, together with Bruce Ma
 
 Project on the city
 
-Be_Dutch_Embassy_01.JPG, Germany, opened in 2004. Koolhaas's design won the Architekturpreis Berlin in 2003 and the Mies van der Rohe Award for European Architecture in 2005.]]
+, Germany, opened in 2004. Koolhaas's design won the Architekturpreis Berlin in 2003 and the Mies van der Rohe Award for European Architecture in 2005.]]
 
 Koolhaas's next landmark publications were a product of his position as professor at Harvard University, in the Design school's "Project on the City"; firstly the 720-page _Mutations_,[18] followed by _The Harvard Design School Guide to Shopping_ (2002)[19] and _The Great Leap Forward_ (2002).[20] All three books involved Koolhaas's students analysing what others would regard as "non-cities", sprawling conglomerates such as Lagos in Nigeria, west Africa, which the authors argue are highly functional despite a lack of infrastructure. The authors also examine the influence of shopping habits and the recent rapid growth of cities in China. Critics of the books have criticised Koolhaas for being cynical – as if Western capitalism and globalization demolish all cultural identity – highlighted in the notion expounded in the books that "In the end, there will be little else for us to do but shop". However, such cynicism can alternatively be read as a "realism" about the transformation of cultural life, where airports and even museums (due to finance problems) rely just as much on operating gift shops.
 
@@ -54,7 +54,7 @@ In 2005, Rem Koolhaas co-founded _Volume Magazine_ together with Mark Wigley and
 
 European Flag proposal
 
-Union-europea_segun_rem-koolhaas.svg proposal]]
+proposal]]
 
 Following the signing of Treaties of Nice in May 2001, which made Brussels the de facto capital of the European Union, the then President of the European Commission, Romano Prodi and the Belgian Prime Minister Guy Verhofstadt invited Koolhaas to discuss the necessities and requirements of a European capital.
 
@@ -64,7 +64,7 @@ Since the time of the first drafts of the barcode it has very rarely been offici
 
 Architecture, fashion, and theatre
 
-PDRM0102.JPG, Beverly Hills, USA]] Second_Stage_Theatre_seating.jpg, New York, USA]]
+, Beverly Hills, USA]] , New York, USA]]
 
 With his Prada projects, Koolhaas ventured into providing architecture for the fleeting world of fashion and with celebrity-studded cachet: not unlike Garnier's Opera, the central space of Koolhaas' Beverly Hills Prada store is occupied by a massive central staircase, ostensibly displaying select wares, but mainly the shoppers themselves. The notion of selling a brand rather than marketing clothes was further emphasised in the Prada store on Broadway in Manhattan, New York,[23] which had previously been owned by the Guggenheim: the museum signs were not removed during the outfitting of the new store, as if emphasizing the premises as a cultural institution.[24] The Broadway Prada store opened in December 2001, cost €32 million to build, and has 2,300 square meters of retail space.[25]
 
@@ -111,7 +111,7 @@ Honours and awards
 
 Selected projects
 
-McCormick_Tribune_060304.jpg, Illinois Institute of Technology, Chicago, USA]] CasadaMusica.jpg, Porto, Portugal]] Milstein_Hall,_Cornell_University.jpg (2011)]]
+, Illinois Institute of Technology, Chicago, USA]] , Porto, Portugal]] (2011)]]
 
 -   Parc des expositions de Toulouse, (Toulouse)
 -   Euralille, Lille Grand Palais (with Cecil Balmond) and Zénith de Lille masterplan (Lille, 1994)

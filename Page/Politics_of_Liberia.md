@@ -9,7 +9,7 @@ The Economist Intelligence Unit rated Liberia as "hybrid regime" in 2018.[1]
 
 Political developments since 1980
 
-Executive_Mansion_Apr_09.JPG has been the home of Liberian Presidents since its construction in 1964. It has not been used since a fire in 2006.]]
+has been the home of Liberian Presidents since its construction in 1964. It has not been used since a fire in 2006.]]
 
 Between 1980 and 2006, Liberia was governed by a series of military and transitional governments. The president of the last of these, Charles Taylor, was forced to step down in 2003, and the United Nations installed a transitional government. Elections to select a government to replace the transitional government took place in October and November 2005. (_see 2005 Liberian general election_).
 
@@ -45,7 +45,7 @@ Executive branch
 
 Legislative branch
 
-Liberian_Capitol_Building.jpg.]] Liberia has a bicameral Legislature that consists of the Senate (30 seats; members elected by popular vote to serve nine-year terms) and the House of Representatives (73 seats; members elected by popular vote to serve six-year terms)
+.]] Liberia has a bicameral Legislature that consists of the Senate (30 seats; members elected by popular vote to serve nine-year terms) and the House of Representatives (73 seats; members elected by popular vote to serve six-year terms)
 
 
 Political parties and elections

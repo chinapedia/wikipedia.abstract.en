@@ -1,4 +1,4 @@
-AGAD_Stany_pruskie_oddaja_swe_ziemie_krolowi_polskiemu_Kazimierzowi_Jagiellonczykowi_i_koronie_polskiej.jpg]]
+]]
 
 The PRUSSIAN CONFEDERATION (, ) was an organization formed on 21 February 1440 at Marienwerder by a group of 53 nobles and clergy and 19 cities in Prussia, to oppose the arbitrariness of the Teutonic Knights. It was based on the basis of an earlier similar organization, the Lizard Union established in 1397 by Chełmno Land nobles.
 

@@ -1,4 +1,4 @@
-ShabbatcandlesC.jpg ("Shabbat") and on Jewish holidays.]] JEWISH HOLIDAYS, also known as JEWISH FESTIVALS or _YAMIM TOVIM_ (, "Good Days", or singular _YOM TOV_, in transliterated Hebrew []),[1] are holidays observed in Judaism and by Jews[2] throughout the Hebrew calendar. They include religious, cultural and national elements, derived from three sources: biblical _mitzvot_ ("commandments"); rabbinic mandates; Jewish history and the history of the State of Israel.
+("Shabbat") and on Jewish holidays.]] JEWISH HOLIDAYS, also known as JEWISH FESTIVALS or _YAMIM TOVIM_ (, "Good Days", or singular _YOM TOV_, in transliterated Hebrew []),[1] are holidays observed in Judaism and by Jews[2] throughout the Hebrew calendar. They include religious, cultural and national elements, derived from three sources: biblical _mitzvot_ ("commandments"); rabbinic mandates; Jewish history and the history of the State of Israel.
 
 Jewish holidays occur on the same dates every year in the Hebrew calendar, but the dates vary in the Gregorian. This is because the Hebrew calendar is a lunisolar calendar (based on the cycles of both the sun and moon), whereas the Gregorian is a solar calendar.
 
@@ -64,7 +64,7 @@ Holidays of biblical and rabbinic (Talmudic) origin
 
 Shabbat—The Sabbath
 
-Shabbat_Candles.jpg and kiddush cup]] Jewish law _(halacha)_ accords _Shabbat_ (שבת) the status of a holiday, a day of rest celebrated on the seventh day of each week. Jewish law defines a day as ending at either sundown or nightfall, when the next day then begins. Thus,
+and kiddush cup]] Jewish law _(halacha)_ accords _Shabbat_ (שבת) the status of a holiday, a day of rest celebrated on the seventh day of each week. Jewish law defines a day as ending at either sundown or nightfall, when the next day then begins. Thus,
 
 -   Shabbat begins just before sundown Friday night. Its start is marked by the lighting of Shabbat candles and the recitation of Kiddush over a cup of wine; and
 -   Shabbat ends at nightfall Saturday night. Its conclusion is marked by the prayer known as Havdalah.
@@ -109,7 +109,7 @@ The month of Elul that precedes Rosh Hashanah is considered to be a propitious t
 
 Rosh Hashanah
 
-Symbols_of_Rosh_Hashana.jpg, apples and honey, pomegranates, kiddush wine]]
+, apples and honey, pomegranates, kiddush wine]]
 
 -   Erev Rosh Hashanah (eve of the first day): 29 Elul
 -   Rosh Hashanah: 1–2 Tishrei
@@ -150,7 +150,7 @@ As on all minor fast days, fasting from dawn to dusk is required, but other laws
 
 Yom Kippur—Day of Atonement
 
-Shofar-Sabbath-Horn-Yemenite-Jew.jpg blows the shofar]]
+blows the shofar]]
 
 -   Erev Yom Kippur: 9 Tishrei
 -   Yom Kippur: 10 Tishrei (begins at sunset)
@@ -169,7 +169,7 @@ Yom Kippur is considered, along with 15th of Av, as the happiest days of the yea
 
 Sukkot—Feast of Booths (or Tabernacles)
 
-Sukkots_with_wall_from_wood.JPG booth]]
+booth]]
 
 -   Erev Sukkot: 14 Tishrei
 -   Sukkot: 15–21 Tishrei (22 outside Israel)
@@ -183,7 +183,7 @@ The seventh day of the Sukkot is called Hoshanah Rabbah, the "Great _Hoshanah"_ 
 
 Shemini Atzeret and Simchat Torah
 
-PikiWiki_Israel_4466_Religion_in_Israel.JPG]]
+]]
 
 -   Shemini Atzeret: 22 Tishrei (combined with Simchat Torah in Israel)
 -   Simchat Torah outside Israel: 23 Tishrei
@@ -196,7 +196,7 @@ This ceremony so dominates the holiday that in Israel, where the holiday is one 
 
 Hanukkah—Festival of Lights
 
-The_8th_Night.jpg]]
+]]
 
 -   Erev Hanukkah: 24 Kislev
 -   Hanukkah: 25 Kislev–2 or 3 Tevet
@@ -225,7 +225,7 @@ This fast is observed like other minor fasts (see Tzom Gedalia, above). This is 
 
 Tu Bishvat—New Year of the Trees
 
-DriedfruitS.jpg]]
+]]
 
 -   Tu Bishvat: 15 Shevat
 
@@ -248,7 +248,7 @@ _Purim Katan_ (פורים קטן) (lit., "small Purim") is observed on the 14th 
 
 Ta'anit Esther–Fast of Esther
 
-Megillat_Esther_(1).jpg 2_Mishloach_Manot.jpg]]
+]]
 
 _Ta'anit Esther_ (תענית אסתר), or "Fast of Esther", is named in honor of the fast of Esther and her court as Esther prepared to approach the king unbidden to invite him and Haman to a banquet.[48] It commemorates that fast, as well as one alluded to later in the Book of Esther,[49] undertaken as the Jews prepared to battle their enemies.
 
@@ -282,7 +282,7 @@ As a rule, the month of Nisan is considered to be one of extra joy. Traditionall
 
 Eve of Passover and Fast of the Firstborn
 
-Seder_Plate.jpg]] Sedertable.jpg seder]] The day before Passover (_Erev Pesach,_ lit., "Passover eve") is significant for three reasons:
+]] seder]] The day before Passover (_Erev Pesach,_ lit., "Passover eve") is significant for three reasons:
 
 -   It is the day that all of the involved preparations for Passover, especially elimination of leavened food, or _chametz_, must be completed. In particular, a formal search for remaining _chametz_ is done during the evening of Erev Pesach, and all remaining _chametz_ is finally destroyed, disposed of or nullified during the morning of Erev Pesach.[62]
 -   It is the day observed as the Fast of the Firstborn (תענית בכורות). Jews who are firstborn[63] fast, in remembrance of the tenth plague, when God killed the Egyptian firstborn, while sparing the Jewish firstborn.[64] This fast is overridden by a _seudat mitzvah_, a meal celebrating the fulfillment of a commandment; accordingly, it is almost universal for firstborn Jews to attend such a meal on this day[65] so as to obviate their need to fast.
@@ -310,7 +310,7 @@ _Sefirah_ (lit. "Counting"; more fully, _Sefirat HaOmer,_ "Counting of the Omer"
 
 Symbolically, this period has come to represent the spiritual development of the Israelites from slaves in the polytheistic society of Ancient Egypt to free, monotheistic people worthy of the revelation of the Torah, traditionally said to have occurred on Shavuot. Spiritual development remains a key rabbinic teaching of this period.[78]
 
-Sefirah has long been observed as a period of semi-mourning. The customary explanation[79] cites a plague that killed 24,000 students of Rabbi Akiva (BT _Yevamot_ 62b).[80] In broad terms, the mourning practices observed include limiting actual celebrations (such as weddings), not listening to music, not wearing new clothing, and not shaving or taking a haircut.[81] There is a wide variety of practice as to the specifics of this observance. See Counting of the Omer (Semi-mourning). Lag_BaOmer_bonfire.jpg bonfire]]
+Sefirah has long been observed as a period of semi-mourning. The customary explanation[79] cites a plague that killed 24,000 students of Rabbi Akiva (BT _Yevamot_ 62b).[80] In broad terms, the mourning practices observed include limiting actual celebrations (such as weddings), not listening to music, not wearing new clothing, and not shaving or taking a haircut.[81] There is a wide variety of practice as to the specifics of this observance. See Counting of the Omer (Semi-mourning). bonfire]]
 
 Lag Ba'Omer
 
@@ -324,7 +324,7 @@ In Israel, Lag Ba'Omer is associated with the Bar Kokhba revolt against the Roma
 
 Shavuot—Feast of Weeks—Yom HaBikurim
 
-Cheese_blintzes_with_blackberries.jpges, a traditional food on Shavuot]]
+es, a traditional food on Shavuot]]
 
 -   Erev Shavuot: 5 Sivan
 -   Shavuot: 6 (and outside Israel: 7) Sivan
@@ -359,7 +359,7 @@ Subject to the variations described above, Orthodox Judaism continues to maintai
 
 Tisha B'Av—Ninth of Av
 
-Eicha268.jpg before the reading of Lamentations on Tisha B'Av]]
+before the reading of Lamentations on Tisha B'Av]]
 
 -   Tisha B'Av : 9 Av
 
@@ -414,8 +414,6 @@ Finally, the Israeli government also recognizes several ethnic Jewish observance
 
 Yom HaShoah—Holocaust Remembrance Day
 
-Yom_Hashoah_candle.jpg
-
 -   Yom HaShoah: (nominally) 27 Nisan
 
 _Yom HaShoah_ (lit. "Holocaust Day") is a day of remembrance for victims of the Holocaust. Its full name is _Yom Hazikaron LaShoah v'LiGevurah_ (lit. "Holocaust and Heroism Remembrance Day") (), and reflects a desire to recognize martyrs who died in active resistance to the Nazis alongside those who died as passive victims. Its date, 27 Nisan, was chosen because it commemorates the Warsaw Ghetto uprising, the best known of the armed Jewish uprisings.[112][113]
@@ -431,7 +429,7 @@ In order to ensure that public Yom HaShoah ceremonies in Israel do not violate S
 
 Yom Hazikaron—Memorial Day
 
-HPIM0313.jpg as the siren is sounded in Tel Aviv, Yom Hazikaron 2007]]
+as the siren is sounded in Tel Aviv, Yom Hazikaron 2007]]
 
 -   Yom Hazikaron: (nominally) 4 Iyar
 
@@ -443,7 +441,7 @@ Outside Israel, Yom HaZikaron observances are often folded into Yom Ha'atzmaut c
 
 Yom Ha'atzmaut—Israel Independence Day
 
-Peresohad1985hidon.jpg (here in 1985) is held on Yom Ha'atzmaut]] Jerusalem_Day.jpg celebrations]]
+(here in 1985) is held on Yom Ha'atzmaut]] celebrations]]
 
 -   Yom Ha'atzmaut: (nominally) 5 Iyar
 
@@ -476,7 +474,7 @@ Yom HaAliyah—Aliyah Day
 
 -   Yom HaAliyah: 10 Nisan
 
-Benjamin_West_-_Joshua_passing_the_River_Jordan_with_the_Ark_of_the_Covenant_-_Google_Art_Project.jpg]] Aliyah Day () is an Israeli national holiday celebrated annually on the tenth of Nisan.[134] The day was established to acknowledge Aliyah, immigration to the Jewish state, as a core value of the State of Israel, and honor the ongoing contributions of Olim (immigrants) to Israeli society.[135]
+]] Aliyah Day () is an Israeli national holiday celebrated annually on the tenth of Nisan.[134] The day was established to acknowledge Aliyah, immigration to the Jewish state, as a core value of the State of Israel, and honor the ongoing contributions of Olim (immigrants) to Israeli society.[135]
 
 Immigration to Israel is a recognized religious value of Judaism, sometimes referred to as the Gathering of Israel.[136] The date chosen for Yom HaAliyah, 10 Nisan, has religious significance: it is the day on which Joshua and the Israelites crossed the Jordan River at Gilgal into the Promised Land. It was thus the first documented "mass Aliyah".[137] The alternative date observed in the school system, 7 Heshvan, falls during the week of the Torah portion in which God instructs Abraham to leave his home and his family and go up to the Land of Israel.[138]
 

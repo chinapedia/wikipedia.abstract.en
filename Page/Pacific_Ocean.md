@@ -9,7 +9,7 @@ History
 
 Early migrations
 
-Waldseemuller_map_2.jpg dated 1507, from a time when the nature of the Americas was ambiguous, particularly North America, as a possible part of Asia, was the first map to show the Americas separating two distinct oceans. South America was generally considered a "new world" and shows the name "America" for the first time, after Amerigo Vespucci]] Carta_universal_en_que_se_contiene_todo_lo_que_del_mundo_se_ha_descubierto_fasta_agora_hizola_Diego_Ribero_cosmographo_de_su_magestad,_ano_de_1529,_en_Sevilla.jpg map was the first to show the Pacific at about its proper size]] Ortelius_-_Maris_Pacifici_1589.jpg by Ortelius (1589). One of the first printed maps to show the Pacific Ocean[6]]]
+dated 1507, from a time when the nature of the Americas was ambiguous, particularly North America, as a possible part of Asia, was the first map to show the Americas separating two distinct oceans. South America was generally considered a "new world" and shows the name "America" for the first time, after Amerigo Vespucci]] map was the first to show the Pacific at about its proper size]] by Ortelius (1589). One of the first printed maps to show the Pacific Ocean[6]]]
 
 Important human migrations occurred in the Pacific in prehistoric times. About 3000 BC, the Austronesian peoples on the island of Taiwan mastered the art of long-distance canoe travel and spread themselves and their languages south to the Philippines, Indonesia, and maritime Southeast Asia; west towards Madagascar; southeast towards New Guinea and Melanesia (intermarrying with native Papuans); and east to the islands of Micronesia, Oceania and Polynesia.[7]
 
@@ -17,13 +17,9 @@ Long-distance trade developed all along the coast from Mozambique to Japan. Trad
 
 European exploration
 
-A_generall_chart_of_the_South_Sea_..._NYPL481132.tiff A_compleat_chart_of_the_coast_of_Asia_and_America_with_the_great_South_Sea_-_R.W._Seale_del._et_sculp._NYPL465242.tiff
-
 The first contact of European navigators with the western edge of the Pacific Ocean was made by the Portuguese expeditions of António de Abreu and Francisco Serrão, via the Lesser Sunda Islands, to the Maluku Islands, in 1512,[8][9] and with Jorge Álvares's expedition to southern China in 1513,[10] both ordered by Afonso de Albuquerque from Malacca.
 
 The east side of the ocean was discovered by Spanish explorer Vasco Núñez de Balboa in 1513 after his expedition crossed the Isthmus of Panama and reached a new ocean.[11] He named it _Mar del Sur_ (literally, "Sea of the South" or "South Sea") because the ocean was to the south of the coast of the isthmus where he first observed the Pacific.
-
-SpanishPacific.svg
 
 In 1519, Portuguese explorer Ferdinand Magellan sailed the Pacific East to West on a Spanish expedition to the Spice Islands that would eventually result in the first world circumnavigation. Magellan called the ocean _Pacífico_ (or "Pacific" meaning, "peaceful") because, after sailing through the stormy seas off Cape Horn, the expedition found calm waters. The ocean was often called the _Sea of Magellan_ in his honor until the eighteenth century.[12] Magellan stopped at one uninhabited Pacific island before stopping at Guam in March 1521.[13]Although Magellan himself died in the Philippines in 1521, Spanish Basque navigator Juan Sebastián Elcano led the remains of the expedition back to Spain across the Indian Ocean and round the Cape of Good Hope, completing the first world circumnavigation in a single expedition in 1522.[14] Sailing around and east of the Moluccas, between 1525 and 1527, Portuguese expeditions discovered the Caroline Islands,[15] the Aru Islands,[16] and Papua New Guinea.[17] In 1542–43 the Portuguese also reached Japan.[18]
 
@@ -37,9 +33,9 @@ The 18th century marked the beginning of major exploration by the Russians in Al
 
 New Imperialism
 
-Trieste_(23_Jan_1960).jpeg, before her record dive to the bottom of the Mariana Trench, 23 January 1960]] Growing imperialism during the 19th century resulted in the occupation of much of Oceania by European powers, and later Japan and the United States. Significant contributions to oceanographic knowledge were made by the voyages of HMS _Beagle_ in the 1830s, with Charles Darwin aboard;[26] HMS _Challenger_ during the 1870s;[27] the USS _Tuscarora_ (1873–76);[28] and the German _Gazelle_ (1874–76).[29]
+, before her record dive to the bottom of the Mariana Trench, 23 January 1960]] Growing imperialism during the 19th century resulted in the occupation of much of Oceania by European powers, and later Japan and the United States. Significant contributions to oceanographic knowledge were made by the voyages of HMS _Beagle_ in the 1830s, with Charles Darwin aboard;[26] HMS _Challenger_ during the 1870s;[27] the USS _Tuscarora_ (1873–76);[28] and the German _Gazelle_ (1874–76).[29]
 
-TahitiDupetitThouars.jpg taking over Tahiti on 9 September 1842]]
+taking over Tahiti on 9 September 1842]]
 
 In Oceania, France obtained a leading position as imperial power after making Tahiti and New Caledonia protectorates in 1842 and 1853 respectively.[30] After navy visits to Easter Island in 1875 and 1887, Chilean navy officer Policarpo Toro negotiated the incorporation of the island into Chile with native Rapanui in 1888. By occupying Easter Island, Chile joined the imperial nations.[31] By 1900 nearly all Pacific islands were in control of Britain, France, United States, Germany, Japan, and Chile.[32]
 
@@ -48,7 +44,7 @@ Although the United States gained control of Guam and the Philippines from Spain
 
 Geography
 
-Iss007e10807.jpg. Anvil tops of thunderclouds are also visible.]] The Pacific separates Asia and Australia from the Americas. It may be further subdivided by the equator into northern (North Pacific) and southern (South Pacific) portions. It extends from the Antarctic region in the South to the Arctic in the north.[34] The Pacific Ocean encompasses approximately one-third of the Earth's surface, having an area of —significantly larger than Earth's entire landmass of some .[35]
+. Anvil tops of thunderclouds are also visible.]] The Pacific separates Asia and Australia from the Americas. It may be further subdivided by the equator into northern (North Pacific) and southern (South Pacific) portions. It extends from the Antarctic region in the South to the Arctic in the north.[34] The Pacific Ocean encompasses approximately one-third of the Earth's surface, having an area of —significantly larger than Earth's entire landmass of some .[35]
 
 Extending approximately from the Bering Sea in the Arctic to the northern extent of the circumpolar Southern Ocean at 60°S (older definitions extend it to Antarctica's Ross Sea), the Pacific reaches its greatest east-west width at about 5°N latitude, where it stretches approximately from Indonesia to the coast of Colombia—halfway around the world, and more than five times the diameter of the Moon.[36] The lowest known point on Earth—the Mariana Trench—lies below sea level. Its average depth is , putting the total water volume at roughly .[37]
 
@@ -66,7 +62,7 @@ The Martin Waldseemüller map of 1507 was the first to show the Americas separat
 
 Bordering countries and territories
 
-Pacific_Basin_Island_Geography.jpg Pacific_Culture_Areas.png]]
+]]
 
 Sovereign nations
 
@@ -143,7 +139,7 @@ File:Ladrilleros Beach Colombia.jpg|Ladrilleros Beach in Colombia on the coast o
 
 Water characteristics
 
-Sunset_Marina.JPG, U.S.]]
+, U.S.]]
 
 The volume of the Pacific Ocean, representing about 50.1 percent of the world's oceanic water, has been estimated at some .[57] Surface water temperatures in the Pacific can vary from , the freezing point of sea water, in the poleward areas to about near the equator.[58] Salinity also varies latitudinally, reaching a maximum of 37 parts per thousand in the southeastern area. The water near the equator, which can have a salinity as low as 34 parts per thousand, is less salty than that found in the mid-latitudes because of abundant equatorial precipitation throughout the year. The lowest counts of less than 32 parts per thousand are found in the far north as less evaporation of seawater takes place in these frigid areas.[59] The motion of Pacific waters is generally clockwise in the Northern Hemisphere (the North Pacific gyre) and counter-clockwise in the Southern Hemisphere. The North Equatorial Current, driven westward along latitude 15°N by the trade winds, turns north near the Philippines to become the warm Japan or Kuroshio Current.[60]
 
@@ -152,7 +148,7 @@ Turning eastward at about 45°N, the Kuroshio forks and some water moves northwa
 
 Climate
 
-El_nino_north_american_weather.png Typhoon_tip_peak.jpg at global peak intensity on 12 October 1979]] The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.[64]
+at global peak intensity on 12 October 1979]] The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.[64]
 
 In the tropical and subtropical Pacific, the El Niño Southern Oscillation (ENSO) affects weather conditions. To determine the phase of ENSO, the most recent three-month sea surface temperature average for the area approximately to the southeast of Hawaii is computed, and if the region is more than above or below normal for that period, then an El Niño or La Niña is considered in progress.[65]
 
@@ -163,7 +159,7 @@ In the arctic, icing from October to May can present a hazard for shipping while
 
 Geology
 
-Pacific_Ring_of_Fire.svg. The Pacific is ringed by many volcanoes and oceanic trenches.]] Ulawun.jpg stratovolcano situated on the island of New Britain, Papua New Guinea]]
+. The Pacific is ringed by many volcanoes and oceanic trenches.]] stratovolcano situated on the island of New Britain, Papua New Guinea]]
 
 The ocean was first mapped by Abraham Ortelius; he called it Maris Pacifici following Ferdinand Magellan's description of it as "a pacific sea" during his circumnavigation from 1519 to 1522. To Magellan, it seemed much more calm (pacific) than the Atlantic.[71]
 
@@ -195,7 +191,7 @@ Fish are an important economic asset in the Pacific. The shallower shoreline wat
 
 Environmental issues
 
-Marine_debris_on_Hawaiian_coast.jpg on a Hawaiian coast]] The quantity of small plastic fragments floating in the north-east Pacific Ocean increased a hundredfold between 1972 and 2012.[81]
+on a Hawaiian coast]] The quantity of small plastic fragments floating in the north-east Pacific Ocean increased a hundredfold between 1972 and 2012.[81]
 
 Marine pollution is a generic term for the harmful entry into the ocean of chemicals or particles. The main culprits are those using the rivers for disposing of their waste.[82] The rivers then empty into the ocean, often also bringing chemicals used as fertilizers in agriculture. The excess of oxygen-depleting chemicals in the water leads to hypoxia and the creation of a dead zone.[83]
 

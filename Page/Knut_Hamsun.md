@@ -9,7 +9,7 @@ On August 4, 2009, the Knut Hamsun Centre was opened in Hamarøy.[7] Since 1916,
 
 Biography
 
-Knut_Hamsun.jpeg''.]]
+''.]]
 
 Early life
 
@@ -66,7 +66,7 @@ Along with August Strindberg, Henrik Ibsen, and Sigrid Undset, Hamsun formed a q
 
 Personal life
 
-Portrett_av_Knut_Hamsun_med_familie,_Larvik,_1917.jpg, Marie Hamsun, Arild Hamsun, Knut Hamsun and Ellinor Hamsun.]]
+, Marie Hamsun, Arild Hamsun, Knut Hamsun and Ellinor Hamsun.]]
 
 In 1898, Hamsun married Bergljot Göpfert (née Bech), who bore daughter Victoria, but the marriage ended in 1906. Hamsun then married Marie Andersen (1881-1969) in 1909 and she was his companion until the end of his life. They had four children: sons Tore and Arild and daughters Ellinor and Cecilia.
 

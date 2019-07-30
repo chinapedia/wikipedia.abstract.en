@@ -34,7 +34,7 @@ The earliest written history of the Maldives was marked by the arrival of Sinhal
 
 Buddhist period
 
-Loamaafaanu.jpg Lōmāfānu is the oldest copper-plate book to have been discovered in the Maldives to date. The book was written in AD 1194 (590 AH) in the Evēla form of the Divehi akuru, during the reign of Siri Fennaadheettha Mahaa Radun (Dhinei Kalaminja).]]
+Lōmāfānu is the oldest copper-plate book to have been discovered in the Maldives to date. The book was written in AD 1194 (590 AH) in the Evēla form of the Divehi akuru, during the reign of Siri Fennaadheettha Mahaa Radun (Dhinei Kalaminja).]]
 
 Despite being just mentioned briefly in most history books, the 1,400-year-long Buddhist period has foundational importance in the history of the Maldives. It was during this period that the culture of the Maldives both developed and flourished, a culture which survives today. The Maldivian language, the first Maldive scripts, the architecture, the ruling institutions, the customs and manners of the Maldivians originated at the time when the Maldives were a Buddhist kingdom.[23]
 
@@ -62,7 +62,7 @@ Middle Eastern seafarers had just begun to take over the Indian Ocean trade rout
 
 Colonial period
 
-18th-century_Maldives_map_by_Pierre_Mortier.jpg from the Netherlands, depicting with detail the islands of the Maldives]]
+from the Netherlands, depicting with detail the islands of the Maldives]]
 
 In 1558 the Portuguese established a small garrison with a _Viador_ (_Viyazoru_), or overseer of a factory (trading post) in the Maldives, which they administered from their main colony in Goa. Their attempts to impose Christianity provoked a local revolt led by Muhammad Thakurufaanu Al-Azam and his two brothers, that fifteen years later drove the Portuguese out of Maldives. This event is now commemorated as National Day. In the mid-17th century, the Dutch, who had replaced the Portuguese as the dominant power in Ceylon, established hegemony over Maldivian affairs without involving themselves directly in local matters, which were governed according to centuries-old Islamic customs.
 
@@ -72,13 +72,13 @@ In the British period,the Sultan's powers were taken over by the Chief Minister,
 
 Maldives remained a British crown protectorate until 1953 when the sultanate was suspended and the First Republic was declared under the short-lived presidency of Muhammad Amin Didi. While serving as prime minister during the 1940s, Didi nationalized the fish export industry. As president, he is remembered as a reformer of the education system and a promoter of women's rights. Conservatives in Malé eventually ousted his government, and during a riot over food shortages, Didi was beaten by a mob and died on a nearby island.
 
-Royal_Air_Force_Operations_in_the_Far_East,_1941-1945_CF620.jpg Short Sunderland moored in the lagoon at Addu Atoll, during WWII]]
+Short Sunderland moored in the lagoon at Addu Atoll, during WWII]]
 
 Beginning in the 1950s, the political history in Maldives was largely influenced by the British military presence in the islands. In 1954 the restoration of the sultanate perpetuated the rule of the past. Two years later, the United Kingdom obtained permission to reestablish its wartime RAF Gan airfield in the southernmost Addu Atoll, employing hundreds of locals. In 1957, however, the new prime minister, Ibrahim Nasir, called for a review of the agreement. Nasir was challenged in 1959 by a local secessionist movement in the three southernmost atolls that benefited economically from the British presence on Gan. This group cut ties with the Maldives government and formed an independent state, the United Suvadive Republic with Abdullah Afif as president and Hithadhoo as capital. One year later the Suvadive republic was scrapped after Nasir sent gunboats from Malé with government police, and Abdulla Afif went into exile. Meanwhile, in 1960 the Maldives had allowed the United Kingdom to continue to use both the Gan and the Hitaddu facilities for a thirty-year period, with the payment of £750,000 over the period of 1960 to 1965 for the purpose of Maldives' economic development. The base was closed in 1976 as part of the larger British withdrawal of permanently-stationed forces 'East of Suez'.[40]
 
 Independence and republic
 
-Flag_of_the_Sultan_of_the_Maldives.png]] In line with the broader British policy of decolonisation, on 26 July 1965 an agreement was signed on behalf of His Highness The Sultan by Ibrahim Nasir Rannabandeyri Kilegefan, Prime Minister, and on behalf of Her Majesty The Queen by Sir Michael Walker, British Ambassador designate to the Maldive Islands, which ended the British responsibility for the defence and external affairs of the Maldives. The islands thus achieved full political independence, with the ceremony taking place at the British High Commissioner's Residence in Colombo. After this, the sultanate continued for another three years under Sir Muhammad Fareed Didi, who declared himself King rather than Sultan upon independence.
+]] In line with the broader British policy of decolonisation, on 26 July 1965 an agreement was signed on behalf of His Highness The Sultan by Ibrahim Nasir Rannabandeyri Kilegefan, Prime Minister, and on behalf of Her Majesty The Queen by Sir Michael Walker, British Ambassador designate to the Maldive Islands, which ended the British responsibility for the defence and external affairs of the Maldives. The islands thus achieved full political independence, with the ceremony taking place at the British High Commissioner's Residence in Colombo. After this, the sultanate continued for another three years under Sir Muhammad Fareed Didi, who declared himself King rather than Sultan upon independence.
 
 On 15 November 1967, a vote was taken in parliament to decide whether the Maldives should continue as a constitutional monarchy or become a republic. Of the 44 members of parliament, forty voted in favour of a republic. On 15 March 1968, a national referendum was held on the question, and 93.34% of those taking part voted in favour of establishing a republic. The republic was declared on 11 November 1968, thus ending the 853-year-old monarchy, which was replaced by a republic under the presidency of Ibrahim Nasir. As the King had held little real power, this was seen as a cosmetic change and required few alterations in the structures of government.
 
@@ -92,7 +92,7 @@ A November 1988 coup was headed by Muhammadu Ibrahim Lutfee, a small-businessman
 
 21st century
 
-The_Prime_Minister,_Dr._Manmohan_Singh_along_with_other_Head_of_State_and_Government_of_SAARC_Countries,_at_the_inaugural_session_of_the_17th_SAARC_Summit,_at_Adu_Atoll_in_Maldives_on_November_10,_2011.jpg in Addu City, Maldives]]
+in Addu City, Maldives]]
 
 On 26 December 2004, following the 2004 Indian Ocean earthquake, the Maldives were devastated by a tsunami. Only nine islands were reported to have escaped any flooding,[43][44] while fifty-seven islands faced serious damage to critical infrastructure, fourteen islands had to be totally evacuated, and six islands were destroyed. A further twenty-one resort islands were forced to close because of tsunami damage. The total damage was estimated at more than US$400 million, or some 62% of the GDP.[45][46] 102 Maldivians and 6 foreigners reportedly died in the tsunami.[47] The destructive impact of the waves on the low-lying islands was mitigated by the fact there was no continental shelf or land mass upon which the waves could gain height. The tallest waves were reported to be high.[48]
 
@@ -107,7 +107,7 @@ In 2018 elections Ibrahim Mohamed Solih won most votes, and became President.
 
 Geography
 
-Malosmadulu_Atolls,_Maldives.jpg can be seen in this picture.]]
+can be seen in this picture.]]
 
 The Maldives consists of 1,192 coral islands grouped in a double chain of 26 atolls, along the north-south direction, spread over roughly , making this one of the world's most dispersed countries. It lies between latitudes 1°S and 8°N, and longitudes 72° and 74°E. The atolls are composed of live coral reefs and sand bars, situated atop a submarine ridge long that rises abruptly from the depths of the Indian Ocean and runs north to south.
 
@@ -117,7 +117,7 @@ Maldives is the lowest country in the world, with maximum and average natural gr
 
 Climate
 
-Bathala_(Maldives)_8.JPG island]]
+island]]
 
 The Maldives has a tropical monsoon climate (Am) under the Köppen climate classification, which is affected by the large landmass of South Asia to the north. Because the Maldives has the lowest elevation of any country in the world, the temperature is constantly hot and often humid. The presence of this landmass causes differential heating of land and water. These factors set off a rush of moisture-rich air from the Indian Ocean over South Asia, resulting in the southwest monsoon. Two seasons dominate Maldives' weather: the dry season associated with the winter northeastern monsoon and the rainy season which brings strong winds and storms.
 
@@ -145,7 +145,7 @@ Environmental issues other than sea level rise include bad waste disposal and be
 
 Marine ecosystem
 
-Maldives_soft_coral.jpg Maldives_Oriental_sweetlips,_Plectorhinchus_vittatus.jpg (_Plectorhinchus vittatus_) at Meeru Island, North Male Atoll]]
+(_Plectorhinchus vittatus_) at Meeru Island, North Male Atoll]]
 
 The Maldives have a range of different habitats including deep sea, shallow coast, and reef ecosystems, fringing mangroves, wetlands and dry land. There are 187 species of coral forming the coral reefs. This area of the Indian Ocean, alone, houses 1100 species of fish, 5 species of sea turtle, 21 species of whale and dolphin, 400 species of mollusc, and 83 species of echinoderms. The area is also populated by a number of crustacean species: 120 copepod, 15 amphipod, as well as more than 145 crab and 48 shrimp species.[77]
 
@@ -166,13 +166,11 @@ Recent scientific studies suggest that the faunistic composition can vary greatl
 
 Government
 
-JumhooreeMaidan.JPG
-
 Maldives is a presidential republic, with extensive influence of the president as head of government and head of state. The president heads the executive branch, acts at the same time as minister of defence and appoints the cabinet which is approved by the People's Majlis (Parliament). He leads police, army, coast guards, fire brigade and judiciary. There is no separation of powers. The current president as of 17 November 2018 is Ibrahim Mohamed Solih. Members of the unicameral Majlis serve five-year terms, with the total number of members determined by atoll populations. At the 2014 election, 77 members were elected. The People's Majlis, located in Male, houses members from all over the country.[86]
 
 The republican constitution came into force in 1968, and was amended in 1970, 1972, and 1975. On 27 November 1997 it was replaced by another Constitution assented to by the President Gayoom. This Constitution came into force on 1 January 1998. All stated that the president was the head of state, head of government and the Commander-in-Chief of the Armed Forces and the Police of the Maldives.
 
-In 2018, the ruling PPM-Y's tensions with opposition parties and subsequent crackdown was termed as an "assault on democracy" by the UN Human Rights chief.[87] The_Prime_Minister,_Dr._Manmohan_Singh_addressing_at_the_People’s_Majlis,_at_Male,_in_Maldives_on_November_12,_2011.jpg in 2011]]
+In 2018, the ruling PPM-Y's tensions with opposition parties and subsequent crackdown was termed as an "assault on democracy" by the UN Human Rights chief.[87] in 2011]]
 
 Law
 
@@ -190,7 +188,7 @@ In February 2013, the court sentenced a 15-year-old rape victim to 100 lashes an
 
 Foreign relations
 
-Secretary_Pompeo_Meets_With_Maldives_Foreign_Minister_Shahid_in_Washington_(32217203777).jpg hosts Maldivian foreign minister Abdulla Shahid]]
+hosts Maldivian foreign minister Abdulla Shahid]]
 
 Since 1996, the Maldives has been the official progress monitor of the Indian Ocean Commission. In 2002, the Maldives began to express interest in the commission but had not applied for membership. Maldives' interest relates to its identity as a small island state, especially economic development and environmental preservation, and its desire for closer relations with France, a main actor in the IOC region.
 
@@ -200,8 +198,6 @@ Ibrahim Mohamed Solih and his Cabinet has decided that the Maldives will be retu
 
 Military
 
-Maldives-vaixells_de_bombers.jpg
-
 The Maldives National Defence Force is the combined security organisation responsible for defending the security and sovereignty of the Maldives, having the primary task of being responsible for attending to all internal and external security needs of the Maldives, including the protection of the Exclusive Economic Zone (EEZ) and the maintenance of peace and security. The MNDF component branches are the Coast Guard, Marine Corps, Special Forces, Service Corps and the Corps of Engineers.
 
 As a water-bound nation much of the security concerns lie at sea. Almost 99% of the country is covered by sea and the remaining 1% land is scattered over an area of × , with the largest island being not more than . Therefore, the duties assigned to the MNDF of maintaining surveillance over Maldives' waters and providing protection against foreign intruders poaching in the EEZ and territorial waters, are immense tasks from both logistical and economic viewpoints.
@@ -210,7 +206,7 @@ The Coast Guard plays a vital role in carrying out these functions. To provide t
 
 Administrative divisions
 
-Atolls_of_the_maldives.png letter used to identify the atoll. Natural atolls are labelled in light blue. [//upload.wikimedia.org/wikipedia/commons/c/cf/Atolls_of_the_maldives.png Full view of the map].]] The Maldives has twenty-six natural atolls and few island groups on isolated reefs, all of which have been divided into twenty-one administrative divisions (19 administrative atolls and cities of Malé and Addu).[101]
+letter used to identify the atoll. Natural atolls are labelled in light blue. [//upload.wikimedia.org/wikipedia/commons/c/cf/Atolls_of_the_maldives.png Full view of the map].]] The Maldives has twenty-six natural atolls and few island groups on isolated reefs, all of which have been divided into twenty-one administrative divisions (19 administrative atolls and cities of Malé and Addu).[101]
 
 Each atoll is administered by an elected Atoll Council. The islands are administered by an elected Island Council.
 
@@ -231,8 +227,6 @@ The introduction of code-letter names has been a source of much puzzlement and m
 
 Economy
 
-The_western_side_(382669110).jpg Maldives_treemap.png
-
 Historically, Maldives provided enormous quantities of cowry shells, an international currency of the early ages. From the 2nd century AD the islands were known as the 'Money Isles' by the Arabs.[104] _Monetaria moneta_ were used for centuries as a currency in Africa, and huge amounts of Maldivian cowries were introduced into Africa by western nations during the period of slave trade.[105] The cowry is now the symbol of the Maldives Monetary Authority.
 
 In the early 1970s, Maldives was one of the world's 20 poorest countries, with a population of 100,000. The economy at the time was largely dependent on fisheries and trading local goods such as coir rope, ambergris (Maavaharu), and coco de mer (Tavakkaashi) with neighboring countries and East Asian countries.
@@ -243,13 +237,11 @@ Agriculture and manufacturing continue to play lesser roles in the economy, cons
 
 Tourism
 
-Filitheyo_bar.jpg
-
 The Maldives remained largely unknown to tourists until the early 1970s. Only 185 islands are home to its 447,137 inhabitants. The other islands are used entirely for economic purposes, of which tourism and agriculture are the most dominant. Tourism accounts for 28% of the GDP and more than 60% of the Maldives' foreign exchange receipts. Over 90% of government tax revenue comes from import duties and tourism-related taxes.
 
 The development of tourism fostered the overall growth of the country's economy. It created direct and indirect employment and income generation opportunities in other related industries. The first tourist resorts were opened in 1972 with Bandos Island Resort and Kurumba Village (the current name is Kurumba Maldives),[106] which transformed the Maldives economy.
 
-Landaa_Giraavaru_vue_du_ciel.JPG of Landaa Giraavaru (Baa atoll)]]
+of Landaa Giraavaru (Baa atoll)]]
 
 According to the Ministry of Tourism, the emergence of tourism in 1972 transformed the economy, moving rapidly from dependence on fisheries to tourism. In just three and a half decades, the industry became the main source of income. Tourism was also the country's biggest foreign currency earner and the single largest contributor to the GDP. , 89 resorts in the Maldives offered over 17,000 beds and hosted over 600,000 tourists annually.[107] In 2017 over 1.4 million visitors came to the islands [108]
 
@@ -262,8 +254,6 @@ The country currently has six heritage Maldivian coral mosques, all of which are
 
 Fishing industry
 
-Doni_aux_Maldives_cropped.jpg
-
 For many centuries the Maldivian economy was entirely dependent on fishing and other marine products. Fishing remains the main occupation of the people and the government gives priority to the fisheries sector.
 
 The mechanisation of the traditional fishing boat called _dhoni_ in 1974 was a major milestone in the development of the fisheries industry. A fish canning plant was installed on Felivaru in 1977, as a joint venture with a Japanese firm. In 1979, a Fisheries Advisory Board was set up with the mandate of advising the government on policy guidelines for the overall development of the fisheries sector. Manpower development programmes began in the early 1980s, and fisheries education was incorporated into the school curriculum. Fish aggregating devices and navigational aids were located at various strategic points. Moreover, the opening up of the exclusive economic zone (EEZ) of the Maldives for fisheries has further enhanced the growth of the fisheries sector.
@@ -273,7 +263,7 @@ The mechanisation of the traditional fishing boat called _dhoni_ in 1974 was a m
 
 Demographics
 
-Male-total.jpg, the capital of the Maldives]] Population_estimates_of_Maldives.png
+, the capital of the Maldives]]
 
 +------------+
 | Population |
@@ -301,7 +291,7 @@ The 2014 Population and Housing Census listed the total population in Maldives a
 
 Religion
 
-Mosque_of_Hulhumalé.jpg]]
+]]
 
 After the long Buddhist[116] period of Maldivian history, Muslim traders introduced Islam. Maldivians converted to Islam by the mid-12th century. The islands have had a long history of Sufic orders, as can be seen in the history of the country such as the building of tombs. They were used until as recently as the 1980s for seeking the help of buried saints. They can be seen next to some old mosques and are considered a part of Maldives's cultural heritage.
 
@@ -311,7 +301,7 @@ According to Moroccan traveller Ibn Battuta, the person responsible for this con
 
 Languages
 
-Dhivehiscript.svg The official and common language is Dhivehi, an Indo-Aryan language closely related to the Sinhala language of Sri Lanka. The first known script used to write Dhivehi is the _eveyla akuru_ script, which is found in historical recording of kings (_raadhavalhi_). Later a script called _dhives akuru_ was used for a long period. The present-day script is called Thaana and is written from right to left. Thaana is said to have been introduced by the reign of Mohamed Thakurufaanu.
+The official and common language is Dhivehi, an Indo-Aryan language closely related to the Sinhala language of Sri Lanka. The first known script used to write Dhivehi is the _eveyla akuru_ script, which is found in historical recording of kings (_raadhavalhi_). Later a script called _dhives akuru_ was used for a long period. The present-day script is called Thaana and is written from right to left. Thaana is said to have been introduced by the reign of Mohamed Thakurufaanu.
 
 English is widely spoken by the locals of the Maldives.[117] Following the nation's opening to the outside world, the introduction of English as a medium of instruction at secondary and tertiary level of education, and its government's recognition of the opportunities offered through tourism, English has now firmly established itself in the country. As such, the Maldives are quite similar to the countries in the Gulf region (cf. Randall & Samimi, 2010; Boyle, 2012). The nation is undergoing vast societal change, and English is part of this.[118] It has since become the official language.
 
@@ -320,14 +310,14 @@ Population by locality
 
 Culture
 
-Maahefun_Fuvahmulah.JPG]] Since the 12th century AD there were also influences from Arabia in the language and culture of the Maldives because of the conversion to Islam and its location as a crossroads in the central Indian Ocean. This was due to the long trading history between the far east and the middle east. However, unlike the Sinhalese of Sri Lanka and most of the Arabs, Africans and Europeans whose influence can be seen in loanwords, material culture, and the diversity of Maldivian phenotype, Maldivians do not have the highly embedded patriarchal codes of honour, purity, corporate marriage, and sedentary private property that are typical of places where agriculture is the key form of subsistence and social relations have been built, historically, around tribute taking.
+]] Since the 12th century AD there were also influences from Arabia in the language and culture of the Maldives because of the conversion to Islam and its location as a crossroads in the central Indian Ocean. This was due to the long trading history between the far east and the middle east. However, unlike the Sinhalese of Sri Lanka and most of the Arabs, Africans and Europeans whose influence can be seen in loanwords, material culture, and the diversity of Maldivian phenotype, Maldivians do not have the highly embedded patriarchal codes of honour, purity, corporate marriage, and sedentary private property that are typical of places where agriculture is the key form of subsistence and social relations have been built, historically, around tribute taking.
 
 Reflective of this is the fact that the Maldives has had the highest national divorce rate in the world for many decades. This, it is hypothesised, is due to a combination of liberal Islamic rules about divorce and the relatively loose marital bonds that have been identified as common in non- and semi-sedentary peoples without a history of fully developed agrarian property and kinship relations.[119]
 
 
 Transportation
 
-TMA_Terminal.JPG Velana International Airport is the principal gateway to the Maldives. International travel is available on a number of major airlines. Two Maldives based airlines also operate international flights. Privately owned MEGA Maldives Airlines has Boeing 737 and 767 aircraft and operates frequent services to Beijing, Shanghai, and Hong Kong. Government owned Island Aviation Services (branded as Maldivian) operates to nearly all Maldives domestic airports with several Bombardier Dash 8 aircraft and one A320 with international service to Chennai and Thiruvananthapuram, India, and Dhaka, Bangladesh.
+Velana International Airport is the principal gateway to the Maldives. International travel is available on a number of major airlines. Two Maldives based airlines also operate international flights. Privately owned MEGA Maldives Airlines has Boeing 737 and 767 aircraft and operates frequent services to Beijing, Shanghai, and Hong Kong. Government owned Island Aviation Services (branded as Maldivian) operates to nearly all Maldives domestic airports with several Bombardier Dash 8 aircraft and one A320 with international service to Chennai and Thiruvananthapuram, India, and Dhaka, Bangladesh.
 
 In Maldives there are three main ways to travel between islands: by domestic flight, by seaplane or by boat.[120] For several years there were two seaplane companies operating: TMA (Trans Maldivian Airways) and Maldivian Air Taxi, but these merged in 2013 under the name TMA. The seaplane fleet is entirely made up of DHC-6 Twin Otters. There is also another airline, Flyme, which operates using ATR planes to domestic airports, principally Maamagili and some others. The typical Maldivian boat is called a dhoni. Depending on the distance of the destination island from the airport, resorts organise domestic flight plus boat transfers, seaplane flights directly to the resort island jetty, or speedboat trips for their guests. There are also locally run ferries using large dhoni boats. Speedboats and seaplanes tend to be more expensive, while travel by dhoni, although slower, is relatively cheaper and convenient.
 

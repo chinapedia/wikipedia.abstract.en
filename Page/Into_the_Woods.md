@@ -74,8 +74,6 @@ A United States tour began on November 22, 1988 with Cleo Laine playing the Witc
 
 Original London production
 
-Into_the_Woods_cast_recording_(London,_1990).jpg
-
 The original West End production opened on September 25, 1990 at the Phoenix Theatre and closed on February 23, 1991 after 197 performances. It was directed by Richard Jones, and produced by David Mirvish, with choreography by Anthony Van Laast, costumes by Sue Blane and orchestrations by Jonathan Tunick. The cast featured Julia McKenzie as the Witch, Ian Bartholomew as the Baker, Imelda Staunton as the Baker's Wife and Clive Carter as the Wolf/Cinderella's Prince. The show received seven Olivier Award nominations in 1991, winning for Best Actress in a Musical (Staunton) and Best Director of a Musical (Jones).
 
 The song "Our Little World" was added.[18] This song was a duet sung between the Witch and Rapunzel giving further insight into the care the Witch has for her self-proclaimed daughter and the desire Rapunzel has to see the world outside of her tower. The overall feel of the show was a lot darker than that of the original Broadway production. Critic Michael Billington wrote, "But the evening's triumph belongs also to director Richard Jones, set designer Richard Hudson and costume designer Sue Blane who evoke exactly the right mood of haunted theatricality. Old-fashioned footlights give the faces a sinister glow. The woods themselves are a semi-circular, black-and-silver screen punctuated with nine doors and a crazy clock: they achieve exactly the 'agreeable terror' of Gustave Dore's children's illustrations. And the effects are terrific: doors open to reveal the rotating magnified eyeball or the admonitory finger of the predatory giant."[19]
@@ -85,8 +83,6 @@ The song "Our Little World" was added.[18] This song was a duet sung between the
 A new intimate production of the show opened (billed as the first London revival) at the Donmar Warehouse on 16 November 1998, closing on 13 February 1999. This revival was directed by John Crowley and designed by his brother, Bob Crowley. The cast included Clare Burt as the Witch, Nick Holder as the Baker, Sophie Thompson as the Baker's Wife, Jenna Russell as Cinderella, Sheridan Smith as Little Red Ridinghood and Frank Middlemass as the Narrator/Mysterious Man.[20] Russell later appeared as the Baker's Wife in the 2010 Regent's Park production. Thompson won the 1999 Olivier Award for Best Actress in a Musical for her performance, while the production itself was nominated for Outstanding Musical Production.
 
 2002 Broadway revival production
-
-Into_the_Woods_poster_(Broadway_revival).jpg
 
 A revival opened at the Ahmanson Theatre in Los Angeles, running from February 1, 2002 to March 24, 2002. This production was directed and choreographed with the same principal cast that later ran on Broadway.[21]
 
@@ -105,8 +101,6 @@ The production completely sold out three weeks before opening. As this was an 'o
 Regent's Park Open Air Theatre production, 2010
 
 The Olivier Award winning Regent's Park Open Air Theatre production, directed by Timothy Sheader and choreographed by Liam Steel, ran for a six-week limited season from 6 August to 11 September 2010. The cast included Hannah Waddingham as the Witch, Mark Hadfield as the Baker, Jenna Russell as the Baker's wife, Helen Dallimore as Cinderella, and Judi Dench as the recorded voice of the Giant. Gareth Valentine was the Musical Director.[30][31] The musical was performed outdoors in a wooded area. Whilst the book remained mostly unchanged, the subtext of the plot was dramatically altered by casting the role of the Narrator as a young school boy lost in the woods following a family argument – a device used to further illustrate the musical's themes of parenting and adolescence.
-
-Into_the_Woods,_Regent's_Park_Open_Air_Theatre.jpg
 
 The production opened to wide critical acclaim, much of the press commenting on the effectiveness of the open air setting. The _Telegraph_ reviewer, for example, wrote: "It is an inspired idea to stage this show in the magical, sylvan surroundings of Regent's Park, and designer Soutra Gilmour has come up with a marvellously rickety, adventure playground of a set, all ladders, stairs and elevated walkways, with Rapunzel discovered high up in a tree."[32] _The New York Times_ reviewer commented: "The natural environment makes for something genuinely haunting and mysterious as night falls on the audience..."[33] Stephen Sondheim attended twice, reportedly extremely pleased with the production. The production also won the Laurence Olivier Award for Best Musical Revival and Michael Xavier, who played Cinderella's Prince and the Wolf, was nominated for the Laurence Olivier Award for Best Performance in a Supporting Role in a Musical.
 

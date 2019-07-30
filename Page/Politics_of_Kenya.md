@@ -17,7 +17,7 @@ Between 2008 and 2013 Kenya was governed by a Grand coalition, established by a 
 
 Legislative branch
 
-Parliament_Buildings,_Nairobi,_Kenya-21April2010.jpg.]] The Bicameral Parliament consists of a National Assembly and Senate. The National Assembly, or _Bunge_, has 349 members, 290 members elected for a five-year term in single-seat constituencies, 47 women elected from each county, 12 members nominated by political parties in proportion to their share of seats won in the single-member constituencies, and an ex officio member: the speaker.[4]
+.]] The Bicameral Parliament consists of a National Assembly and Senate. The National Assembly, or _Bunge_, has 349 members, 290 members elected for a five-year term in single-seat constituencies, 47 women elected from each county, 12 members nominated by political parties in proportion to their share of seats won in the single-member constituencies, and an ex officio member: the speaker.[4]
 
 There is also a senate with 67 members. 47 elected from counties acting as single member constituencies, 16 women nominated by political parties, a man and a woman representing youths and a man and woman representing people with disabilities. The speaker is an ex-officio member.[5] Kenyan Parliament Building 1
 
@@ -39,7 +39,7 @@ There are provisions for additional Assembly members to be appointed to improve 
 
 Political conditions
 
-LamuPoliticalParade_(July_2001).jpg, held in July 2001]]
+, held in July 2001]]
 
 Since independence in 1963, Kenya has maintained remarkable stability, despite changes in its political system and crises in neighbouring countries. Particularly since the re-emergence of multiparty democracy, Kenyans have enjoyed an increased degree of freedom. A cross-party parliamentary reform initiative in the fall of 1997 revised some oppressive laws inherited from the colonial era that had been used to limit freedom of speech and assembly. This improved public freedoms and contributed to generally credible national elections in December 1997.
 
@@ -47,7 +47,7 @@ In December 2002, Kenya held democratic and open elections and elected Mwai Kiba
 
 There have been major scandals (including Anglo-Leasing), which the government has failed to investigate. John Githongo, then Permanent Secretary to the President on Ethics and Governance, resigned in protest, and donor nations, in particular the British, have made public criticisms of the lack of progress. Following disagreements between the partners in the then government coalition, constitutional reform had proceeded slower than anticipated. The NAK faction (allied to president Kibaki) favoured a centralised presidential system, while the LDP faction – which had fewer parliamentary seats in that coalition than NAK – demanded a federal, parliamentary system, referred to in some circles as Majimbo.
 
-Kenyan_security_officer.jpg Prior to the 2002 election, a Memorandum of Understanding (MoU) was agreed between NAK and LDP, which laid the basis for the two groups to contest the election under the NARC (Rainbow Alliance) banner. The MoU agreed that a new constitution would be established shortly after the election, which provided for the new role of a strong Prime Minister, while weakening the role of President. Raila Odinga, then leader of LDP, maintained aspirations to become Prime Minister. However, that draft constitution was modified by the government from what was written by Professor Ghai and amended by the Bomas committee.
+Prior to the 2002 election, a Memorandum of Understanding (MoU) was agreed between NAK and LDP, which laid the basis for the two groups to contest the election under the NARC (Rainbow Alliance) banner. The MoU agreed that a new constitution would be established shortly after the election, which provided for the new role of a strong Prime Minister, while weakening the role of President. Raila Odinga, then leader of LDP, maintained aspirations to become Prime Minister. However, that draft constitution was modified by the government from what was written by Professor Ghai and amended by the Bomas committee.
 
 This maintained a strong President, who controls a weaker Prime Minister. This led to a split between NAK and LDP, with the former campaigning for a 'Yes' vote in a 2005 referendum on the constitution and the latter a 'No'. Also supporting a 'No' vote was the majority of Uhuru Kenyatta's KANU party, the sole party of government from independence to 2002. The outcome of that referendum, in which the draft constitution was rejected, signalled a wider re-alignment before the 2007 elections, in which the No team reorganised itself as the Orange Democratic Movement with Raila Odinga as their presidential flag bearer whilst those in the Yes team ended up in several political parties including the Party of National Unity.
 

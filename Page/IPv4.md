@@ -10,7 +10,7 @@ IPv4 is a connectionless protocol, and operates on a best effort delivery model,
 
 Addressing
 
-Ipv4_address.svg value]] IPv4 uses 32-bit addresses which limits the address space to (2³²) addresses.
+value]] IPv4 uses 32-bit addresses which limits the address space to (2³²) addresses.
 
 IPv4 reserves special address blocks for private networks (~18 million addresses) and multicast addresses (~270 million addresses).
 

@@ -1,4 +1,4 @@
-Catholics_in_England_1715-20.svg showing the percentage of registered Catholics in the population in 1715–1720.[1]]]
+showing the percentage of registered Catholics in the population in 1715–1720.[1]]]
 
 RECUSANCY was the state of those who refused to attend Anglican services during the history of England and Wales and of Ireland; these individuals were known as _recusants_.[2] The term, which derives ultimately from the Latin _recusare_ (to refuse or make an objection)[3] was first used to refer to those who remained loyal to the pope and the Roman Catholic Church and who did not attend Church of England services, with a 1593 statute determining the penalties against "Popish recusants".[4]
 
@@ -53,7 +53,7 @@ Katharine, Duchess of Kent; her son and grandson, Lord Nicholas Windsor and Edwa
 
 Individuals
 
-Cobbe_portrait_of_Shakespeare.jpg came from a family background of English Catholic recusants.]] Although William Shakespeare (1564-1616) and his immediate family were conforming members of the established Church of England, Shakespeare's mother, Mary Arden, was a member of a particularly conspicuous and determinedly Catholic family in Warwickshire.[14]
+came from a family background of English Catholic recusants.]] Although William Shakespeare (1564-1616) and his immediate family were conforming members of the established Church of England, Shakespeare's mother, Mary Arden, was a member of a particularly conspicuous and determinedly Catholic family in Warwickshire.[14]
 
 Some scholars also believe there is evidence that several members of Shakespeare's family were secretly recusant Catholics. The strongest evidence is a tract professing secret Catholicism signed by John Shakespeare, father of the poet. The tract was found in the 18th century in the rafters of a house which had once been John Shakespeare's, and was seen and described by the reputable scholar Edmond Malone. Malone later changed his mind and declared that he thought the tract was a forgery.[15] Although the document has since been lost, Anthony Holden writes that Malone's reported wording of the tract is linked to a testament written by Charles Borromeo and circulated in England by Edmund Campion, copies of which still exist in Italian and English.[16] Other research, however, suggests that the Borromeo testament is a 17th-century artefact (at the earliest dated from 1638), was not printed for missionary work, and could never have been in the possession of John Shakespeare.[17] John Shakespeare was listed as one who did not attend church services, but this was "for feare of processe for Debtte", according to the commissioners, not because he was a recusant.[18]
 

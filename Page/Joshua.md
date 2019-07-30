@@ -16,7 +16,7 @@ Biblical narrative
 
 The Exodus
 
-Tissot_Moses_Blesses_Joshua_Before_the_High_Priest.jpg)]] Joshua was a major figure in the events of the Exodus. He was charged by Moses with selecting and commanding a militia group for their first battle after exiting Egypt, against the Amalekites in Rephidim (), in which they were victorious.
+)]] Joshua was a major figure in the events of the Exodus. He was charged by Moses with selecting and commanding a militia group for their first battle after exiting Egypt, against the Amalekites in Rephidim (), in which they were victorious.
 
 He later accompanied Moses when he ascended biblical Mount Sinai to commune with God,[9] visualize God's plan for the Israelite tabernacle and receive the Ten Commandments. Joshua was with Moses when he descended from the mountain, heard the Israelites' celebrations around the Golden Calf,[10] and broke the tablets bearing the words of the commandments. Similarly, in the narrative which refers to Moses being able to speak with God in his tent of meeting outside the camp, Joshua is seen as custodian of the tent ('tabernacle of meeting') when Moses returned to the Israelite encampment.[11] However, when Moses returned to the mountain to re-create the tablets recording the Ten Commandments, Joshua was not present, as the biblical text states 'no man shall come up with you'.[12]
 
@@ -26,13 +26,13 @@ According to , God appointed Joshua to succeed Moses as leader of the Israelites
 
 Conquest of Canaan
 
-JoshuaSun_Martin.jpg]] At the Jordan River, the waters parted, as they had for Moses at the Red Sea. The first battle after the crossing of the Jordan was the Battle of Jericho. Joshua led the destruction of Jericho, then moved on to Ai, a small neighboring city to the west. However, they were defeated with thirty-six Israelite deaths. The defeat was attributed to Achan taking an "accursed thing" from Jericho; and was followed by Achan and his family and animals being stoned to death to restore God's favor. Joshua then went to defeat Ai.
+]] At the Jordan River, the waters parted, as they had for Moses at the Red Sea. The first battle after the crossing of the Jordan was the Battle of Jericho. Joshua led the destruction of Jericho, then moved on to Ai, a small neighboring city to the west. However, they were defeated with thirty-six Israelite deaths. The defeat was attributed to Achan taking an "accursed thing" from Jericho; and was followed by Achan and his family and animals being stoned to death to restore God's favor. Joshua then went to defeat Ai.
 
 The Israelites faced an alliance of five Amorite kings from Jerusalem, Hebron, Jarmuth, Lachish, and Eglon. At Gibeon, Joshua asked Yahweh to cause the sun and moon to stand still, so that he could finish the battle in daylight. This event is most notable because "There has been no day like it before or since, when the Lord heeded the voice of a man, for the Lord fought for Israel" (). God also fought for the Israelites in this battle, for he hurled huge hailstones from the sky which killed more Canaanites than those which the Israelites slaughtered. From there on, Joshua was able to lead the Israelites to several victories, securing much of the land of Canaan. He presided over the Israelite gatherings at Gilgal and Shiloh which allocated land to the tribes of Israel (Joshua 14:1–5 and 18:1–10), and the Israelites rewarded him with the Ephraimite city of Timnath-heres or Timnath-serah, where he settled (Joshua 19:50).
 
 Death
 
-Joshua's_Tomb_at_Kifl_Hares.jpg near Nablus, West Bank, on Joshua's _yartzeit_ 2007]] Joshua's_Tomb_in_Jordan_01.jpg]] When he was "old and well advanced in years",[15] Joshua convened the elders and chiefs of the Israelites and exhorted them to have no fellowship with the native population, because it could lead them to be unfaithful to God.[16] At a general assembly of the clans at Shechem, he took leave of the people, admonishing them to be loyal to their God, who had been so mightily manifested in the midst of them. As a witness of their promise to serve God, Joshua set up a great stone under an oak by the sanctuary of God. Soon afterward he died, at the age of 110, and was buried at Timnath-heres, in the hill country of Ephraim, north of Mount Gaash.[17]
+near Nablus, West Bank, on Joshua's _yartzeit_ 2007]] ]] When he was "old and well advanced in years",[15] Joshua convened the elders and chiefs of the Israelites and exhorted them to have no fellowship with the native population, because it could lead them to be unfaithful to God.[16] At a general assembly of the clans at Shechem, he took leave of the people, admonishing them to be loyal to their God, who had been so mightily manifested in the midst of them. As a witness of their promise to serve God, Joshua set up a great stone under an oak by the sanctuary of God. Soon afterward he died, at the age of 110, and was buried at Timnath-heres, in the hill country of Ephraim, north of Mount Gaash.[17]
 
 
 Historicity
@@ -58,7 +58,7 @@ The question of the date and degrees of conquest and/or assimilation of the indi
 
 Views
 
-Karolingischer_Buchmaler_um_840_001.jpg miniature, c. 840]]
+miniature, c. 840]]
 
 In rabbinical literature
 

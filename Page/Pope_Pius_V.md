@@ -60,7 +60,7 @@ His response to the Queen Elizabeth I of England assuming governance of the Chur
 
 Character and policy
 
-Scipione_Pulzone_-_Pius_V.jpg As a young man, Michele Ghislieri was eager to join the inquisition. Under Paul IV, whom popular historian John Julius Norwich calls the most hated pope of the 16th century,[21] he rose to inquisitor general, and from there ascended to the papacy. As Pius V, he personally attended all sessions of the Roman inquisition. According to Norwich, Ghislieri often stayed to watch as supposed lawbreakers and heretics were tortured.[22]
+As a young man, Michele Ghislieri was eager to join the inquisition. Under Paul IV, whom popular historian John Julius Norwich calls the most hated pope of the 16th century,[21] he rose to inquisitor general, and from there ascended to the papacy. As Pius V, he personally attended all sessions of the Roman inquisition. According to Norwich, Ghislieri often stayed to watch as supposed lawbreakers and heretics were tortured.[22]
 
 Upon assuming the papacy, Ghislieri immediately started to get rid of many of the extravagant luxuries then prevalent in the court. One of his first acts was to dismiss the papal court jester, and no pope after had one. He forbade horse racing in St. Peter's Square. Severe sanctions were imposed against blasphemy, adultery, and sodomy. These laws quickly made Pius V the subject of Roman hatred; he was accused of trying to turn the city into a vast monastery. He was not a hypocrite: in day-to-day life Pius V was highly ascetic. He wore a hair shirt beneath the simple habit of a Dominican friar and was often seen in bare feet.
 
@@ -91,7 +91,7 @@ Pius V created 21 cardinals in three consistories including Felice Piergentile w
 
 Death and canonization
 
-Roma-Santa_Maria_Maggiore01.jpg in Santa Maria Maggiore]] Pius V died on 1 May 1572 of what is believed to be cancer. He was buried in the chapel of S. Andrea which was close to the tomb of Pope Pius III, in the Vatican. Although his will requested he be buried in Bosco, Pope Sixtus V built a monument in the chapel of SS. Sacramento in the Liberian basilica. His remains were transferred there on 9 January 1588.
+in Santa Maria Maggiore]] Pius V died on 1 May 1572 of what is believed to be cancer. He was buried in the chapel of S. Andrea which was close to the tomb of Pope Pius III, in the Vatican. Although his will requested he be buried in Bosco, Pope Sixtus V built a monument in the chapel of SS. Sacramento in the Liberian basilica. His remains were transferred there on 9 January 1588.
 
 In 1696, the process of Pius V's canonisation was started through the efforts of the Master of the Order of Preachers, Antonin Cloche. He also immediately commissioned a representative tomb from the sculptor Pierre Le Gros the Younger to be erected in the Sistine Chapel of the Basilica di Santa Maria Maggiore. The pope's body was placed in it in 1698. Pope Pius V was beatified by Pope Clement X in the year 1672,[29] and was later canonized by Pope Clement XI (1700–21) on 22 May 1712.[30][31]
 
@@ -99,7 +99,7 @@ In the following year, 1713, his feast day was inserted in the General Roman Cal
 
 Blessed Cardinal John Henry Newman declared that "St. Pius V was stern and severe, as far as a heart burning and melted with divine love could be so ... Yet such energy and vigour as his were necessary for the times. He was a soldier of Christ in a time of insurrection and rebellion, when in a spiritual sense, martial law was proclaimed."[33]
 
-Pius_V_head_Wiki.jpg The front of his tomb has a lid of gilded bronze which shows a likeness of the dead pope. Most of the time this is left open to allow the veneration of the saint's remains.
+The front of his tomb has a lid of gilded bronze which shows a likeness of the dead pope. Most of the time this is left open to allow the veneration of the saint's remains.
 
 
 See also

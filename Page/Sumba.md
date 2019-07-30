@@ -18,7 +18,7 @@ On August 19, 1977, an earthquake measuring 7.0 on the Richter scale occurred an
 
 Geography, climate and ecology
 
-SundaIslands.A2003242.0225.500m.jpg The largest town on the island is the main port of Waingapu, with a population of about 52,755.
+The largest town on the island is the main port of Waingapu, with a population of about 52,755.
 
 The landscape is low, limestone hills, rather than the steep volcanoes of many Indonesian islands. There is a dry season from May to November and a rainy season from December to April. The western side of the island is more fertile and more heavily populated than the east.
 
@@ -26,7 +26,7 @@ Due to its distinctive flora and fauna Sumba has been categorised by the World W
 
 Fauna
 
-Village-Sumba.jpg There are a number of mammals, but the island is particularly rich in bird-life with nearly 200 birds, of which seven endemic species and a number of others are found only here and on some nearby islands. The endemic birds include four vulnerable species — the secretive Sumba boobook owl, Sumba buttonquail, red-naped fruit-dove, and Sumba hornbill — as well as three more common species: the Sumba green pigeon, Sumba flycatcher, and apricot-breasted sunbird.[8] Saltwater crocodiles can still be found in some areas.
+There are a number of mammals, but the island is particularly rich in bird-life with nearly 200 birds, of which seven endemic species and a number of others are found only here and on some nearby islands. The endemic birds include four vulnerable species — the secretive Sumba boobook owl, Sumba buttonquail, red-naped fruit-dove, and Sumba hornbill — as well as three more common species: the Sumba green pigeon, Sumba flycatcher, and apricot-breasted sunbird.[8] Saltwater crocodiles can still be found in some areas.
 
 The Sumba hornbill or _Julang Sumba_ (_Rhyticeros everetti_) is under increasing threat of extinction. Indiscriminate deforestation is threatening their survival. The population is estimated at less than 4,000 with an average density of six individuals per square kilometer. A hornbill can fly to and from over an area of up to 100 square kilometers.[9]
 
@@ -63,7 +63,7 @@ Sumba is part of the East Nusa Tenggara province. The island and the very small 
 
 Culture
 
-Houses_bondokodi_sumba.JPG near Bondokodi, West Sumba]] KatholiekeKerkWaungapu.JPG church in Waingapu, East Sumba Regency]] Sumba has a highly stratified society based on castes.[12] This is especially true of East Sumba, whereas West Sumba is more ethnically and linguistically diverse.[13]
+near Bondokodi, West Sumba]] church in Waingapu, East Sumba Regency]] Sumba has a highly stratified society based on castes.[12] This is especially true of East Sumba, whereas West Sumba is more ethnically and linguistically diverse.[13]
 
 The Sumbanese people speak a variety of closely related Austronesian languages and have a mixture of Austronesian and Melanesian ancestry. The largest language group is the Kambera language, spoken by a quarter of a million people in the eastern half of Sumba.
 
@@ -82,8 +82,6 @@ Access to water is one of the major challenges in Sumba. During the dry season, 
 
 
 Tourism
-
-Air_Terjun_Tanggedu,_Sumba_Timur.jpg
 
 Some places to visit
 

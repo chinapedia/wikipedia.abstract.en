@@ -1,6 +1,4 @@
-AcetoFive.JPG A PLAYING CARD is a piece of specially prepared heavy paper, thin cardboard, plastic-coated paper, cotton-paper blend, or thin plastic that is marked with distinguishing motifs and usually used as one of a set for playing card games, performing magic tricks and flourishes, for cardistry, and in card throwing. Playing cards are typically palm-sized for convenient handling, and usually are sold together as a DECK OF CARDS or PACK OF CARDS.
-
-A_face-up_deck_of_cards.jpg
+A PLAYING CARD is a piece of specially prepared heavy paper, thin cardboard, plastic-coated paper, cotton-paper blend, or thin plastic that is marked with distinguishing motifs and usually used as one of a set for playing card games, performing magic tricks and flourishes, for cardistry, and in card throwing. Playing cards are typically palm-sized for convenient handling, and usually are sold together as a DECK OF CARDS or PACK OF CARDS.
 
 Playing cards were first invented in China during the Tang dynasty.[1]
 
@@ -9,7 +7,7 @@ History
 
 China
 
-Ming_Dynasty_playing_card,_c._1400.jpg playing card dated c. 1400 AD, Ming Dynasty, found near Turpan, measuring 9.5 by 3.5 cm.]]
+playing card dated c. 1400 AD, Ming Dynasty, found near Turpan, measuring 9.5 by 3.5 cm.]]
 
 Playing cards may have been invented during the Tang dynasty around the 9th century AD as a result of the usage of woodblock printing technology.[2][3][4][5][6] The first possible reference to card games comes from a 9th-century text known as the _Collection of Miscellanea at Duyang_, written by Tang dynasty writer Su E. It describes Princess Tongchang, daughter of Emperor Yizong of Tang, playing the "leaf game" in 868 with members of the Wei clan, the family of the princess' husband.[7][8][9] The first known book on the "leaf" game was called the _Yezi Gexi_ and allegedly written by a Tang woman. It received commentary by writers of subsequent dynasties.[10] The Song dynasty (960–1279) scholar Ouyang Xiu (1007–1072) asserts that the "leaf" game existed at least since the mid-Tang dynasty and associated its invention with the development of printed sheets as a writing medium.[11][12] However, Ouyang also claims that the "leaves" were pages of a book used in a board game played with dice, and that the rules of the game were lost by 1067.[13]
 
@@ -25,7 +23,7 @@ Despite the wide variety of patterns, the suits show a uniformity of structure. 
 
 Egypt
 
-Mamluk_kanjifah_cards.png By the 11th century, playing cards were spreading throughout the Asian continent and later came into Egypt.[20] The oldest surviving cards in the world are four fragments found in the Keir Collection and one in the Benaki Museum. They are dated to the 12th and 13th centuries (late Fatimid, Ayyubid, and early Mamluk periods).[21]
+By the 11th century, playing cards were spreading throughout the Asian continent and later came into Egypt.[20] The oldest surviving cards in the world are four fragments found in the Keir Collection and one in the Benaki Museum. They are dated to the 12th and 13th centuries (late Fatimid, Ayyubid, and early Mamluk periods).[21]
 
 A near complete pack of Mamluk playing cards dating to the 15th century and of similar appearance to the fragments above was discovered by Leo Aryeh Mayer in the Topkapı Palace, Istanbul, in 1939.[22] It is not a complete set and is actually composed of three different packs, probably to replace missing cards.[23] The Topkapı pack originally contained 52 cards comprising four suits: polo-sticks, coins, swords, and cups. Each suit contained ten pip cards and three court cards, called _malik_ (king), _nā'ib malik_ (viceroy or deputy king), and _thānī nā'ib_ (second or under-deputy). The _thānī nā'ib_ is a non-existent title so it may not have been in the earliest versions; without this rank, the Mamluk suits would structurally be the same as a Ganjifa suit. In fact, the word "Kanjifah" appears in Arabic on the king of swords and is still used in parts of the Middle East to describe modern playing cards. Influence from further east can explain why the Mamluks, most of whom were Central Asian Turkic Kipchaks, called their cups _tuman_ which means myriad in Turkic, Mongolian and Jurchen languages.[24] Wilkinson postulated that the cups may have been derived from inverting the Chinese and Jurchen ideogram for myriad ().
 
@@ -36,8 +34,6 @@ A fragment of two uncut sheets of Moorish-styled cards of a similar but plainer 
 Export of these cards (from Cairo, Alexandria, and Damascus), ceased after the fall of the Mamluks in the 16th century.[27] The rules to play these games are lost but they are believed to be plain trick games without trumps.[28]
 
 Spread across Europe and early design changes
-
-Knave_of_coins_-_Italy_2_deck.png
 
 Four-suited playing cards are first attested in Southern Europe in 1365,[29] and are likely derived from the Mamluk suits of cups, coins, swords, and polo-sticks, which are still used in traditional Latin decks.[30] As polo was an obscure sport to Europeans then, the polo-sticks became batons or cudgels.[31] Their presence is attested in Catalonia in 1371, 1377 in Switzerland, and 1380 in many locations including Florence and Paris.[32][33][34] Wide use of playing cards in Europe can, with some certainty, be traced from 1377 onward.[35]
 

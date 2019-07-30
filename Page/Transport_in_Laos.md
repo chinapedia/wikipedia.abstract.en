@@ -3,7 +3,7 @@ This article concerns the systems of TRANSPORTATION IN LAOS. Laos is a country i
 
 Geography and transport limits
 
-Laos_Topography.png Because of its mountainous topography and lack of development, Laos has few reliable transportation routes. This inaccessibility has historically limited the ability of any government to maintain a presence in areas distant from the national or provincial capitals and has limited interchange and communication among villages and ethnic groups.
+Because of its mountainous topography and lack of development, Laos has few reliable transportation routes. This inaccessibility has historically limited the ability of any government to maintain a presence in areas distant from the national or provincial capitals and has limited interchange and communication among villages and ethnic groups.
 
 The Mekong and Nam Ou are the only natural channels suitable for large-draft boat transportation, and from December through May low water limits the size of the draft that may be used over many routes. Laotians in lowland villages located on the banks of smaller rivers have traditionally traveled in pirogues for fishing, trading, and visiting up and down the river for limited distances.
 
@@ -68,7 +68,7 @@ Laos has of pipelines for the transport of petroleum products.
 
 Airports
 
-VientianeAirportTerminal2.jpg in Vientiane.]] Laos possesses 52 airports, of which 9 have paved runways, and 43 do not. Of the airports with paved runways, Wattay International Airport in Vientiane has a runway length of . Of the remainder, four have runways to length, and a further four of lengths between and .
+in Vientiane.]] Laos possesses 52 airports, of which 9 have paved runways, and 43 do not. Of the airports with paved runways, Wattay International Airport in Vientiane has a runway length of . Of the remainder, four have runways to length, and a further four of lengths between and .
 
 Of the airports without paved runways, 1 has runway length above , 17 have runway lengths between and , leaving 25 with a length below .
 

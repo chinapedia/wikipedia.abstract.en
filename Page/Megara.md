@@ -3,7 +3,7 @@ MEGARA (; , ) is a historic town and a municipality in West Attica, Greece. It l
 
 Early history
 
-Megara4.jpg According to Pausanias, the Megarians said that their town owed its origin to Car, the son of Phoroneus, who built the citadel called 'Caria' and the temples of Demeter called Megara, from which the place derived its name.[1]
+According to Pausanias, the Megarians said that their town owed its origin to Car, the son of Phoroneus, who built the citadel called 'Caria' and the temples of Demeter called Megara, from which the place derived its name.[1]
 
 In historical times, Megara was an early dependency of Corinth, in which capacity colonists from Megara founded Megara Hyblaea, a small _polis_ north of Syracuse in Sicily. Megara then fought a war of independence with Corinth, and afterwards founded Chalcedon in 685 BC, as well as Byzantium (c. 667 BC).
 
@@ -23,7 +23,7 @@ During the Celtic invasion in 279 BC, Megara sent a force of 400 peltasts to The
 
 In 243 BC, exhorted by Aratus of Sicyon, Megara expelled its Macedonian garrison and joined the Achaean League, but when the Achaeans lost control of the Isthmus in 223 BC the Megarians left them and joined the Boeotian League. Not more than thirty years later, however, the Megarians grew tired of the Boeotian decline and returned their allegiance to Achaea. The Achaean strategos Philopoemen fought off the Boeotian intervention force and secured Megara's return, either in 203 or in 193 BC.
 
-Megara_-_Coronelli_Vincenzo_-_1687.jpg, 1687]] The Megarians were proverbial for their generosity in building and endowing temples. Saint Jerome reports "There is a common saying about the Megarians [...:] 'They build as if they are to live forever; they live as if they are to die tomorrow.'"[6]
+, 1687]] The Megarians were proverbial for their generosity in building and endowing temples. Saint Jerome reports "There is a common saying about the Megarians [...:] 'They build as if they are to live forever; they live as if they are to die tomorrow.'"[6]
 
 
 Democracy in Megara
@@ -42,7 +42,7 @@ The main town Megara had 23,456 inhabitants at the 2011 census. The largest othe
 
 Municipality
 
-2010_Dimos_Megareon.svg Megara7.jpg The municipality of Megara was formed at the 2011 local government reform by the merger of two former municipalities, Megara and Nea Peramos, which became municipal units.[9]
+The municipality of Megara was formed at the 2011 local government reform by the merger of two former municipalities, Megara and Nea Peramos, which became municipal units.[9]
 
 The municipality has an area of 330.11 km², the municipal unit 322.21 km².[10]
 
@@ -80,7 +80,7 @@ Sports
 
 Notable people
 
-Coinage_with_Byzas_2nd_3rd_century_CE.jpg. Struck in Byzantium, Thrace, around the time of Marcus Aurelius (161–180 CE).]]
+. Struck in Byzantium, Thrace, around the time of Marcus Aurelius (161–180 CE).]]
 
 -   Orsippus (8th century BC), runner
 -   Byzas (7th century BC), founder of Byzantium

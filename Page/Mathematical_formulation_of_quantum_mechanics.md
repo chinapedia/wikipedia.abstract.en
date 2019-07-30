@@ -11,7 +11,7 @@ The "old quantum theory" and the need for new mathematics
 
 In the 1890s, Planck was able to derive the blackbody spectrum which was later used to avoid the classical ultraviolet catastrophe by making the unorthodox assumption that, in the interaction of electromagnetic radiation with matter, energy could only be exchanged in discrete units which he called quanta. Planck postulated a direct proportionality between the frequency of radiation and the quantum of energy at that frequency. The proportionality constant, , is now called Planck's constant in his honor.
 
-In 1905, Einstein explained certain features of the photoelectric effect by assuming that Planck's energy quanta were actual particles, which were later dubbed photons. Bohr_atom_model_English.svg
+In 1905, Einstein explained certain features of the photoelectric effect by assuming that Planck's energy quanta were actual particles, which were later dubbed photons.
 
 All of these developments were phenomenological and challenged the theoretical physics of the time. Bohr and Sommerfeld went on to modify classical mechanics in an attempt to deduce the Bohr model from first principles. They proposed that, of all closed classical orbits traced by a mechanical system in its phase space, only the ones that enclosed an area which was a multiple of Planck's constant were actually allowed. The most sophisticated version of this formalism was the so-called Sommerfeld–Wilson–Ishiwara quantization. Although the Bohr model of the hydrogen atom could be explained in this way, the spectrum of the helium atom (classically an unsolvable 3-body problem) could not be predicted. The mathematical status of quantum theory remained uncertain for some time.
 

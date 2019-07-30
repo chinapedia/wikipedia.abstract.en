@@ -17,42 +17,42 @@ Mecklenburg has productive farming, but the land is most suitable for grazing fo
 
 List of urban centers in Mecklenburg
 
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Town/           | District                    | Population              | Image                                                                        |
-| municipality    |                             | as of December 31, 2012 |                                                                              |
-+=================+=============================+=========================+==============================================================================+
-| Rostock         | district-free city          | 206,011 (12-31-2015)    | Warnemünder_Mole.jpg                                                         |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Schwerin        | district-free city          | 91,264                  | Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Neubrandenburg  | Mecklenburgische Seenplatte | 63,509                  | Caspar_David_Friedrich_036.jpg                                               |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Wismar          | Nordwestmecklenburg         | 42,433                  | Wismarer_Wasserkunst.jpg                                                     |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Güstrow         | Rostock                     | 28,586                  | GüstrowSchloss&Park.JPG                                                      |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Neustrelitz     | Mecklenburgische Seenplatte | 20,322                  | Schlosskirche_(Neustrelitz)_Front.jpg                                        |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Waren (Müritz)  | Mecklenburgische Seenplatte | 21,074                  | Mueritzeum_in_Waren_Mueritz.JPG                                              |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Parchim         | Ludwigslust-Parchim         | 17,174                  | Parchim_Kaiserl_Postamt.jpg                                                  |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Ludwigslust     | Ludwigslust-Parchim         | 11,998                  | SchlossLudwigslust.jpg                                                       |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Bad Doberan     | Rostock                     | 11,427                  | Bad_Doberan_Münster_02_2012-05-08.jpg                                        |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Hagenow         | Ludwigslust-Parchim         | 11,324                  | Hagenow_Stadtkirche_2007-05-28_019.jpg                                       |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Grevesmühlen    | Nordwestmecklenburg         | 10,621                  | Galerieholländer_Grevesmühlen.jpg                                            |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Boizenburg/Elbe | Ludwigslust-Parchim         | 10,169                  | Boizenburg_Graben_um_die_Innenstadt.jpg                                      |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Teterow         | Rostock                     | 8,733                   | Teterow_Bergring_Wegweiser.jpg                                               |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-| Malchin         | Mecklenburgische Seenplatte | 7,657                   | Kalensches_Tor_2_Malchin.JPG                                                 |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
-|                 |                             |                         |                                                                              |
-+-----------------+-----------------------------+-------------------------+------------------------------------------------------------------------------+
++-----------------+-----------------------------+-------------------------+-------+
+| Town/           | District                    | Population              | Image |
+| municipality    |                             | as of December 31, 2012 |       |
++=================+=============================+=========================+=======+
+| Rostock         | district-free city          | 206,011 (12-31-2015)    |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Schwerin        | district-free city          | 91,264                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Neubrandenburg  | Mecklenburgische Seenplatte | 63,509                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Wismar          | Nordwestmecklenburg         | 42,433                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Güstrow         | Rostock                     | 28,586                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Neustrelitz     | Mecklenburgische Seenplatte | 20,322                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Waren (Müritz)  | Mecklenburgische Seenplatte | 21,074                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Parchim         | Ludwigslust-Parchim         | 17,174                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Ludwigslust     | Ludwigslust-Parchim         | 11,998                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Bad Doberan     | Rostock                     | 11,427                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Hagenow         | Ludwigslust-Parchim         | 11,324                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Grevesmühlen    | Nordwestmecklenburg         | 10,621                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Boizenburg/Elbe | Ludwigslust-Parchim         | 10,169                  |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Teterow         | Rostock                     | 8,733                   |       |
++-----------------+-----------------------------+-------------------------+-------+
+| Malchin         | Mecklenburgische Seenplatte | 7,657                   |       |
++-----------------+-----------------------------+-------------------------+-------+
+|                 |                             |                         |       |
++-----------------+-----------------------------+-------------------------+-------+
 
 
 History
@@ -69,7 +69,7 @@ In the late 12th century, Henry the Lion, Duke of the Saxons, conquered the regi
 
 Since the 12th century, the territory remained stable and relatively independent of its neighbours; one of the few German territories for which this is true. During the reformation the Duke in Schwerin would convert to Protestantism and so would follow the Duchy of Mecklenburg.
 
-Mecklescudo.jpg and Ratzeburg, the county of Schwerin and the _Herrschafts_ (lordships) of Rostock, Werle and Stargard.]]
+and Ratzeburg, the county of Schwerin and the _Herrschafts_ (lordships) of Rostock, Werle and Stargard.]]
 
 History, 1621–1933
 
@@ -91,8 +91,6 @@ During German reunification in 1990, the state of Mecklenburg-Vorpommern was rev
 
 
 Coat of arms of the duchies of Mecklenburg
-
-MecklbgSchw.jpg
 
 The House of Mecklenburg was founded by Niklot, prince of the Obotrites, Chizzini and Circipani on the Baltic Sea, who died in 1160. His Christian progeny was recognized as prince of the Holy Roman Empire 1170 and Duke of Mecklenburg 8 July 1348. On 27 February 1658 the ducal house divided in two branches: Mecklenburg-Schwerin and Mecklenburg-Strelitz.
 

@@ -1,9 +1,9 @@
-A_man_whose_face_exemplifies_the_melancholy_temperament._Dra_Wellcome_V0009108ER.jpg MELANCHOLIA (from __[1] "gall bladders"[2] also Latin _lugere_ LUGUBRIOUSNESS to mourn, Latin _morosus_ MOROSENESS of self-will or fastidious habit, and old English _wist WISTFULNESS_ of intent or SATURNINE) is a concept from ancient or pre-modern medicine. Melancholy was one of the four temperaments matching the four humours.[3] In the 19th century, "melancholia" could be physical as well as mental, and melancholic conditions were classified as such by their common cause rather than by their properties.[4]
+MELANCHOLIA (from __[1] "gall bladders"[2] also Latin _lugere_ LUGUBRIOUSNESS to mourn, Latin _morosus_ MOROSENESS of self-will or fastidious habit, and old English _wist WISTFULNESS_ of intent or SATURNINE) is a concept from ancient or pre-modern medicine. Melancholy was one of the four temperaments matching the four humours.[3] In the 19th century, "melancholia" could be physical as well as mental, and melancholic conditions were classified as such by their common cause rather than by their properties.[4]
 
 
 History
 
-Albrecht_Dürer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg'' by Albrecht Dürer, 1514]] The_Anatomy_of_Melancholy_by_Robert_Burton_frontispiece_1638_edition.jpg for the 1638 edition of _The Anatomy of Melancholy_]]
+'' by Albrecht Dürer, 1514]] for the 1638 edition of _The Anatomy of Melancholy_]]
 
 The name "melancholia" comes from the old medical belief of the four humours: disease or ailment being caused by an imbalance in one or more of the four basic bodily liquids, or humours. Personality types were similarly determined by the dominant humor in a particular person. According to Hippocrates and subsequent tradition, melancholia was caused by an excess of black bile,[5] hence the name, which means "black bile", from Ancient Greek μέλας (_melas_), "dark, black",[6] and χολή (_kholé_), "bile";[7] a person whose constitution tended to have a preponderance of black bile had a _melancholic_ disposition. In the complex elaboration of humorist theory, it was associated with the earth from the Four Elements, the season of autumn, the spleen as the originating organ and cold and dry as related qualities. In astrology it showed the influence of Saturn, hence the related adjective _saturnine_.
 
@@ -22,7 +22,7 @@ In the Encyclopédie of Diderot and d'Alembert, the causes of melancholia are st
 
 Art movement
 
-Ch._Boirau,_"The_Spleen"_("Melancholy").jpg John_Donne_BBC_News.jpg, the very picture of fashionable melancholy in the Jacobean era.]] Melancholy-Castiglione.jpg by Giovanni Benedetto Castiglione, 1640s]] During the later 16th and early 17th centuries, a curious cultural and literary cult of melancholia arose in England. In an influential[20][21] 1964 essay in Apollo, art historian Roy Strong traced the origins of this fashionable melancholy to the thought of the popular Neoplatonist and humanist Marsilio Ficino (1433–1499), who replaced the medieval notion of melancholia with something new:
+, the very picture of fashionable melancholy in the Jacobean era.]] by Giovanni Benedetto Castiglione, 1640s]] During the later 16th and early 17th centuries, a curious cultural and literary cult of melancholia arose in England. In an influential[20][21] 1964 essay in Apollo, art historian Roy Strong traced the origins of this fashionable melancholy to the thought of the popular Neoplatonist and humanist Marsilio Ficino (1433–1499), who replaced the medieval notion of melancholia with something new:
 
 _The Anatomy of Melancholy_ (_The Anatomy of Melancholy, What it is: With all the Kinds, Causes, Symptomes, Prognostickes, and Several Cures of it... Philosophically, Medicinally, Historically, Opened and Cut Up_) by Burton, was first published in 1621 and remains a defining literary monument to the fashion. Another major English author who made extensive expression upon being of an melancholic disposition is Sir Thomas Browne in his Religio Medici (1643).
 

@@ -1,4 +1,4 @@
-Mozilla_plugins_screenshot_without_subpixel_rendering.png displaying a list of installed plug-ins]] In computing, a PLUG-IN (or PLUGIN, ADD-IN, ADDIN, ADD-ON, or ADDON) is a software component that adds a specific feature to an existing computer program. When a program supports plug-ins, it enables customization.
+displaying a list of installed plug-ins]] In computing, a PLUG-IN (or PLUGIN, ADD-IN, ADDIN, ADD-ON, or ADDON) is a software component that adds a specific feature to an existing computer program. When a program supports plug-ins, it enables customization.
 
 Web browsers have historically allowed executables as plug-ins, though they are now mostly deprecated. (These are a different type of software module than browser extensions.) Two plug-in examples are the Adobe Flash Player for playing videos and a Java virtual machine for running applets.
 
@@ -29,8 +29,6 @@ Types of applications and why they use plug-ins:
 
 
 Mechanism
-
-Plug-InExample.svg
 
 The host application provides services which the plug-in can use, including a way for plug-ins to register themselves with the host application and a protocol for the exchange of data with plug-ins. Plug-ins depend on the services provided by the host application and do not usually work by themselves. Conversely, the host application operates independently of the plug-ins, making it possible for end-users to add and update plug-ins dynamically without needing to make changes to the host application.[11][12]
 

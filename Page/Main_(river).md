@@ -16,7 +16,7 @@ The Main is navigable for shipping from its mouth at the Rhine close to Mainz fo
 
 Dams and locks
 
-Verlaufskarte_Main.gif There are 34 dams and locks along the 380 km navigable portion of the Main, from the confluence with the Regnitz near Bamberg, to the Rhine.[1]
+There are 34 dams and locks along the 380 km navigable portion of the Main, from the confluence with the Regnitz near Bamberg, to the Rhine.[1]
 
 -   NO.: Number of the lock (from upstream to downstream).
 -   NAME: Name of the lock.

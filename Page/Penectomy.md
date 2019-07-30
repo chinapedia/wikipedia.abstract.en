@@ -25,7 +25,7 @@ Genital surgical procedures for trans women undergoing genital reconstruction su
 
 Personal reasons
 
-Skopze.jpg-sect ("greater seal").]] Issues related to the removal of the penis appear in psychology, for example in the condition known as castration anxiety, which happens as a result of a man having anxiety as to whether he may at some point become castrated.
+-sect ("greater seal").]] Issues related to the removal of the penis appear in psychology, for example in the condition known as castration anxiety, which happens as a result of a man having anxiety as to whether he may at some point become castrated.
 
 People who are third gender will sometimes want an emasculation by choosing to have their penis, testicles, or both removed.
 

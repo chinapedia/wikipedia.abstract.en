@@ -11,7 +11,7 @@ Chernenko joined the Komsomol (Communist Youth League) in 1929, and became a ful
 
 Rise to the Soviet leadership
 
-Черненко_Константин_Устинович,_партийный_билет.jpg]]
+]]
 
 The turning point in Chernenko’s career was his assignment in 1948 to head the Communist Party’s propaganda department in the Moldavian Soviet Socialist Republic. There, he met and won the confidence of Leonid Brezhnev, the first secretary of the Moldavian SSR from 1950 to 1952 and future leader of the Soviet Union. Chernenko followed Brezhnev in 1956 to fill a similar propaganda post in the CPSU Central Committee in Moscow. In 1960, after Brezhnev was named chairman of the Presidium of the Supreme Soviet (titular head of state of the Soviet Union), Chernenko became his chief of staff.
 
@@ -26,7 +26,7 @@ After Brezhnev's death in November 1982, there was speculation that the position
 
 Leader of the Soviet Union
 
-Espionage_den04_39.png Yuri Andropov died in February 1984, after just 15 months in office. Chernenko was then elected to replace Andropov even though Andropov himself stated he wanted Gorbachev to succeed him. Additionally, Chernenko was terminally ill himself.
+Yuri Andropov died in February 1984, after just 15 months in office. Chernenko was then elected to replace Andropov even though Andropov himself stated he wanted Gorbachev to succeed him. Additionally, Chernenko was terminally ill himself.
 
 Despite these factors, Yegor Ligachev writes in his memoirs that Chernenko was elected general secretary without a hitch. At the Central Committee plenary session on 13 February 1984, four days after Andropov's death, the Chairman of the Council of Ministers, Premier, and Politburo member Nikolai Tikhonov moved that Chernenko be elected general secretary, and the Committee duly voted him in.
 

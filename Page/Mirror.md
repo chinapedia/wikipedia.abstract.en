@@ -1,4 +1,4 @@
-Mirror.jpg]] Mirror_MET_DP105758.jpg (New York City)]] Enhanced_aluminum_coated_first_surface_mirror_on_an_optical_flat.JPG coated with aluminum and enhanced with dielectric coatings. The angle of the incident light (represented by both the light in the mirror and the shadow behind it) matches the exact angle of reflection (the reflected light shining on the table).]]
+]] (New York City)]] coated with aluminum and enhanced with dielectric coatings. The angle of the incident light (represented by both the light in the mirror and the shadow behind it) matches the exact angle of reflection (the reflected light shining on the table).]]
 
 A MIRROR is an object that reflects light in such a way that, for incident light in some range of wavelengths, the reflected light preserves many or most of the detailed physical characteristics of the original light, called specular reflection. This is different from other light-reflecting objects that do not preserve much of the original wave signal other than color and diffuse reflected light, such as flat-white paint.
 
@@ -9,7 +9,7 @@ Mirrors are commonly used for personal grooming or admiring oneself (where they 
 
 Types of glass mirrors
 
-Johann_Jacob_Kirstein_001.JPG mirror in the Musée des Arts décoratifs, Strasbourg]]
+mirror in the Musée des Arts décoratifs, Strasbourg]]
 
 There are many types of glass mirrors, each representing a different manufacturing process and reflection type.
 
@@ -28,7 +28,7 @@ Decorative glass mirrors are usually handcrafted. A variety of shades, shapes an
 
 Effects
 
-UniversumUNAM27.JPG in Mexico City]]
+in Mexico City]]
 
 Shape of a mirror's surface
 
@@ -41,7 +41,7 @@ A beam of light reflects off a mirror at an angle of reflection equal to its ang
 
 Mirror image
 
-Mirror_statue_-_Győr,_2015.10.31.JPG Objects viewed in a (plane) mirror will appear laterally inverted (e.g., if one raises one's right hand, the image's left hand will appear to go up in the mirror), but not vertically inverted (in the image a person's head still appears above their body).[3] However, a mirror does not usually "swap" left and right any more than it swaps top and bottom. A mirror typically reverses the forward/backward axis. To be precise, it reverses the object in the direction perpendicular to the mirror surface (the normal). Because left and right are defined relative to front-back and top-bottom, the "flipping" of front and back results in the perception of a left-right reversal in the image. (If you stand side-on to a mirror, the mirror really does reverse your left and right, because that's the direction perpendicular to the mirror.)
+Objects viewed in a (plane) mirror will appear laterally inverted (e.g., if one raises one's right hand, the image's left hand will appear to go up in the mirror), but not vertically inverted (in the image a person's head still appears above their body).[3] However, a mirror does not usually "swap" left and right any more than it swaps top and bottom. A mirror typically reverses the forward/backward axis. To be precise, it reverses the object in the direction perpendicular to the mirror surface (the normal). Because left and right are defined relative to front-back and top-bottom, the "flipping" of front and back results in the perception of a left-right reversal in the image. (If you stand side-on to a mirror, the mirror really does reverse your left and right, because that's the direction perpendicular to the mirror.)
 
 Looking at an image of oneself with the front-back axis flipped results in the perception of an image with its left-right axis flipped. When reflected in the mirror, your right hand remains directly opposite your real right hand, but it is perceived as the left hand of your image. When a person looks into a mirror, the image is actually front-back reversed, which is an effect similar to the hollow-mask illusion. Notice that a mirror image is fundamentally different from the object and cannot be reproduced by simply rotating the object.
 
@@ -50,7 +50,7 @@ For things that may be considered as two-dimensional objects (like text), front-
 
 History
 
-Naples_National_Archaeological_Museum_(14842094122).jpg of a woman fixing her hair using a mirror, from Stabiae, Italy, 1st century AD]] Histoire_de_femme_Gu_Kai_Zhi.jpg copy of an original by Chinese painter Gu Kaizhi, c. 344–405 AD]] Lady_looking_into_mirror_Belur_Halebidu.jpg, India, 12th century]] The first mirrors used by humans were most likely pools of dark, still water, or water collected in a primitive vessel of some sort. The requirements for making a good mirror are a surface with a very high degree of flatness (preferably but not necessarily with high reflectivity), and a surface roughness smaller than the wavelength of the light. The earliest manufactured mirrors were pieces of polished stone such as obsidian, a naturally occurring volcanic glass. Examples of obsidian mirrors found in Anatolia (modern-day Turkey) have been dated to around 6000 BC.[4] Mirrors of polished copper were crafted in Mesopotamia from 4000 BC,[5] and in ancient Egypt from around 3000 BC.[6] Polished stone mirrors from Central and South America date from around 2000 BC onwards.[7] In China, bronze mirrors were manufactured from around 2000 BC,[8] some of the earliest bronze and copper examples being produced by the Qijia culture. Mirrors made of other metal mixtures (alloys) such as copper and tin speculum metal may have also been produced in China and India.[9] Mirrors of speculum metal or any precious metal were hard to produce and were only owned by the wealthy.[10] These stone and metal mirrors could be made in very large sizes, but were difficult to polish and get perfectly flat; a process that became more difficult with increased size; so they often produced warped or blurred images. Stone mirrors often had poor reflectivity compared to metals, yet metals scratch or tarnish easily, so they frequently needed polishing. Depending upon the color, both often yielded reflections with poor color rendering.[11] The poor image quality of ancient mirrors explains 1 Corinthians 13's reference to seeing "as in a mirror, darkly."
+of a woman fixing her hair using a mirror, from Stabiae, Italy, 1st century AD]] copy of an original by Chinese painter Gu Kaizhi, c. 344–405 AD]] , India, 12th century]] The first mirrors used by humans were most likely pools of dark, still water, or water collected in a primitive vessel of some sort. The requirements for making a good mirror are a surface with a very high degree of flatness (preferably but not necessarily with high reflectivity), and a surface roughness smaller than the wavelength of the light. The earliest manufactured mirrors were pieces of polished stone such as obsidian, a naturally occurring volcanic glass. Examples of obsidian mirrors found in Anatolia (modern-day Turkey) have been dated to around 6000 BC.[4] Mirrors of polished copper were crafted in Mesopotamia from 4000 BC,[5] and in ancient Egypt from around 3000 BC.[6] Polished stone mirrors from Central and South America date from around 2000 BC onwards.[7] In China, bronze mirrors were manufactured from around 2000 BC,[8] some of the earliest bronze and copper examples being produced by the Qijia culture. Mirrors made of other metal mixtures (alloys) such as copper and tin speculum metal may have also been produced in China and India.[9] Mirrors of speculum metal or any precious metal were hard to produce and were only owned by the wealthy.[10] These stone and metal mirrors could be made in very large sizes, but were difficult to polish and get perfectly flat; a process that became more difficult with increased size; so they often produced warped or blurred images. Stone mirrors often had poor reflectivity compared to metals, yet metals scratch or tarnish easily, so they frequently needed polishing. Depending upon the color, both often yielded reflections with poor color rendering.[11] The poor image quality of ancient mirrors explains 1 Corinthians 13's reference to seeing "as in a mirror, darkly."
 
 In her history of the mirror, Sabine Melchior-Bonnet draws significant attention to the relation of the mirror to Greek philosophy, specifically Socrates:
 
@@ -73,7 +73,7 @@ Vacuum deposition began with the study of the sputtering phenomenon during the 1
 
 Manufacturing
 
-Four_mirrors_-_dielectric_aluminum_silver_and_chrome.jpg to purple light, thus produced a ghost reflection of the lightbulb from the second-surface.]] Dielectric_mirror_diagram.svg. Each layer has a different refractive index, allowing each interface to produce a small amount of reflection. When the thickness of the layers is proportional to the chosen wavelength, the multiple reflections constructively interfere. Stacks may consist of a few to hundreds of individual coats.]]
+to purple light, thus produced a ghost reflection of the lightbulb from the second-surface.]] . Each layer has a different refractive index, allowing each interface to produce a small amount of reflection. When the thickness of the layers is proportional to the chosen wavelength, the multiple reflections constructively interfere. Stacks may consist of a few to hundreds of individual coats.]]
 
 Mirrors are manufactured by applying a reflective coating to a suitable substrate.[36] The most common substrate is glass, due to its transparency, ease of fabrication, rigidity, hardness, and ability to take a smooth finish. The reflective coating is typically applied to the back surface of the glass, so that the reflecting side of the coating is protected from corrosion and accidental damage by the glass on one side and the coating itself and optional paint for further protection on the other.
 
@@ -97,7 +97,7 @@ For technical applications such as laser mirrors, the reflective coating is typi
 
 Tolerances
 
-Hubble_mirror_polishing.jpg. A deviation in the surface quality of approximately 4λ resulted in poor images initially, which was eventually compensated for using corrective optics.]] Laser_dielectric_output_coupler_centered_@_550nm.png more light than they reflect, the beam appears much brighter when reflecting back toward the observer.]] Mirror_distortion_and_artifacts_due_to_flatness_errors.png reflection of a household mirror.]]
+. A deviation in the surface quality of approximately 4λ resulted in poor images initially, which was eventually compensated for using corrective optics.]] more light than they reflect, the beam appears much brighter when reflecting back toward the observer.]] reflection of a household mirror.]]
 
 Mirrors can be manufactured to a wide range of engineering tolerances, including reflectivity, surface quality, surface roughness, or transmissivity, depending on the desired application. These tolerances can range from low, such as found in a normal household-mirror, to extremely high, like those used in lasers or telescopes. Increasing the tolerances allows better and more precise imaging or beam transmission over longer distances. In imaging systems this can help reduce anomalies (artifacts), distortion or blur, but at a much higher cost. Where viewing distances are relatively close or high precision is not a concern, lower tolerances can be used to make effective mirrors at affordable costs.
 
@@ -132,7 +132,7 @@ Surface defects are small-scale, discontinuous imperfections in the surface smoo
 
 Applications
 
-Jekyll.and.Hyde.Ch10.Drawing2.jpg mirror.globe.arp.500pix.jpg In_Car_Micheal_Fitzgerald_Cork_Racing.jpg]] Memphis_in_Front_of_Me,_Arkansas_in_Back_of_Me.jpg
+]]
 
 Personal grooming
 
@@ -175,19 +175,17 @@ Large mirrors are used in rear projection televisions. Light (for example from a
 
 Solar power
 
-Parabolic_trough_near_Harper_Lake_in_California_front_and_back.jpg in California]] Mirrors are integral parts of a solar power plant. The one shown in the adjacent picture uses concentrated solar power from an array of parabolic troughs.[69]
+in California]] Mirrors are integral parts of a solar power plant. The one shown in the adjacent picture uses concentrated solar power from an array of parabolic troughs.[69]
 
 Instruments
 
-E-ELT_mirror_segments_under_test.jpg mirror segments under test]] Telescopes and other precision instruments use _front silvered_ or first surface mirrors, where the reflecting surface is placed on the front (or first) surface of the glass (this eliminates reflection from glass surface ordinary back mirrors have). Some of them use silver, but most are aluminium, which is more reflective at short wavelengths than silver. All of these coatings are easily damaged and require special handling. They reflect 90% to 95% of the incident light when new. The coatings are typically applied by vacuum deposition. A protective overcoat is usually applied before the mirror is removed from the vacuum, because the coating otherwise begins to corrode as soon as it is exposed to oxygen and humidity in the air. _Front silvered_ mirrors have to be resurfaced occasionally to keep their quality. There are optical mirrors such as mangin mirrors that are _second surface mirrors_ (reflective coating on the rear surface) as part of their optical designs, usually to correct optical aberrations.[70]
-
-Super-thin_Mirror_Under_Test_at_ESO.jpg
+mirror segments under test]] Telescopes and other precision instruments use _front silvered_ or first surface mirrors, where the reflecting surface is placed on the front (or first) surface of the glass (this eliminates reflection from glass surface ordinary back mirrors have). Some of them use silver, but most are aluminium, which is more reflective at short wavelengths than silver. All of these coatings are easily damaged and require special handling. They reflect 90% to 95% of the incident light when new. The coatings are typically applied by vacuum deposition. A protective overcoat is usually applied before the mirror is removed from the vacuum, because the coating otherwise begins to corrode as soon as it is exposed to oxygen and humidity in the air. _Front silvered_ mirrors have to be resurfaced occasionally to keep their quality. There are optical mirrors such as mangin mirrors that are _second surface mirrors_ (reflective coating on the rear surface) as part of their optical designs, usually to correct optical aberrations.[70]
 
 The reflectivity of the mirror coating can be measured using a reflectometer and for a particular metal it will be different for different wavelengths of light. This is exploited in some optical work to make cold mirrors and hot mirrors. A cold mirror is made by using a transparent substrate and choosing a coating material that is more reflective to visible light and more transmissive to infrared light.
 
 A hot mirror is the opposite, the coating preferentially reflects infrared. Mirror surfaces are sometimes given thin film overcoatings both to retard degradation of the surface and to increase their reflectivity in parts of the spectrum where they will be used. For instance, aluminum mirrors are commonly coated with silicon dioxide or magnesium fluoride. The reflectivity as a function of wavelength depends on both the thickness of the coating and on how it is applied.
 
-Dielectric_laser_mirror_from_a_dye_laser.JPG. The mirror is over 99% reflective at 550 nanometers, (yellow), but will allow most other colors to pass through.]] Laserr_mirror_from_a_dye_laser_for_use_with_rhodamine.JPGs. With a center wavelength of 600 nm and bandwidth of 100 nm, the coating is totally reflective to the orange construction paper, but only reflects the reddish hues from the blue paper.]] For scientific optical work, dielectric mirrors are often used. These are glass (or sometimes other material) substrates on which one or more layers of dielectric material are deposited, to form an optical coating. By careful choice of the type and thickness of the dielectric layers, the range of wavelengths and amount of light reflected from the mirror can be specified. The best mirrors of this type can reflect >99.999% of the light (in a narrow range of wavelengths) which is incident on the mirror. Such mirrors are often used in lasers.
+. The mirror is over 99% reflective at 550 nanometers, (yellow), but will allow most other colors to pass through.]] s. With a center wavelength of 600 nm and bandwidth of 100 nm, the coating is totally reflective to the orange construction paper, but only reflects the reddish hues from the blue paper.]] For scientific optical work, dielectric mirrors are often used. These are glass (or sometimes other material) substrates on which one or more layers of dielectric material are deposited, to form an optical coating. By careful choice of the type and thickness of the dielectric layers, the range of wavelengths and amount of light reflected from the mirror can be specified. The best mirrors of this type can reflect >99.999% of the light (in a narrow range of wavelengths) which is incident on the mirror. Such mirrors are often used in lasers.
 
 In astronomy, adaptive optics is a technique to measure variable image distortions and adapt a deformable mirror accordingly on a timescale of milliseconds, to compensate for the distortions.
 
@@ -208,13 +206,13 @@ It has been said that Archimedes used a large array of mirrors to burn Roman shi
 
 Seasonal lighting
 
-Kibble_Palace_Mirror.JPG conservatory, Glasgow, Scotland]]
+conservatory, Glasgow, Scotland]]
 
 Due to its location in a steep-sided valley, the Italian town of Viganella gets no direct sunlight for seven weeks each winter. In 2006 a €100,000 computer-controlled mirror, 8×5 m, was installed to reflect sunlight into the town's piazza. In early 2007 the similarly situated village of Bondo, Switzerland, was considering applying this solution as well.[73][74] In 2013, mirrors were installed to reflect sunlight into the town square in the Norwegian town of Rjukan.[75] Mirrors can be used to produce enhanced lighting effects in greenhouses or conservatories.
 
 Architecture
 
-Trump_International_Hotel_and_Tower,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_05.jpg reflects the skyline along the Chicago River in downtown Chicago]] Mirrors are a popular design theme in architecture, particularly with late modern and post-modernist high-rise buildings in major cities. Early examples include the Campbell Center in Dallas, which opened in 1972,[76] and the John Hancock Tower in Boston.
+reflects the skyline along the Chicago River in downtown Chicago]] Mirrors are a popular design theme in architecture, particularly with late modern and post-modernist high-rise buildings in major cities. Early examples include the Campbell Center in Dallas, which opened in 1972,[76] and the John Hancock Tower in Boston.
 
 More recently, two skyscrapers designed by architect Rafael Viñoly, the Vdara in Las Vegas and 20 Fenchurch Street in London, have experienced unusual problems due to their concave curved glass exteriors acting as respectively cylindrical and spherical reflectors for sunlight. In 2010, the Las Vegas Review Journal reported that sunlight reflected off the Vdara's south-facing tower could singe swimmers in the hotel pool, as well as melting plastic cups and shopping bags; employees of the hotel referred to the phenomenon as the "Vdara death ray",[77] aka the "fryscraper." In 2013, sunlight reflecting off 20 Fenchurch Street melted parts of a Jaguar car parked nearby and scorching or igniting the carpet of a nearby barber shop.[78] This building had been nicknamed the "walkie-talkie" because its shape was supposedly similar to a certain model of two-way radio; but after its tendency to overheat surrounding objects became known, the nickname changed to the "walkie-scorchie."
 
@@ -222,7 +220,7 @@ Fine art
 
 Paintings
 
-Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg's _Venus with a Mirror_]] Painters depicting someone gazing into a mirror often also show the person's reflection. This is a kind of abstraction—in most cases the angle of view is such that the person's reflection should not be visible. Similarly, in movies and still photography an actor or actress is often shown ostensibly looking at him- or herself in the mirror, and yet the reflection faces the camera. In reality, the actor or actress sees only the camera and its operator in this case, not their own reflection.
+'s _Venus with a Mirror_]] Painters depicting someone gazing into a mirror often also show the person's reflection. This is a kind of abstraction—in most cases the angle of view is such that the person's reflection should not be visible. Similarly, in movies and still photography an actor or actress is often shown ostensibly looking at him- or herself in the mirror, and yet the reflection faces the camera. In reality, the actor or actress sees only the camera and its operator in this case, not their own reflection.
 
 The mirror is the central device in some of the greatest of European paintings:
 
@@ -245,8 +243,6 @@ Mirrors are sometimes necessary to fully appreciate art work:
 
 Sculpture
 
-Mirrors in interior design: "Waiting room in the house of M.me B.", Art Deco project by Italian architect Arnaldo dell'Ira, Rome, 1939.
-
 -   Anamorphosis projecting sculpture into mirrors
 
 Contemporary anamorphic artist Jonty Hurwitz uses cylindrical mirrors to project distorted sculptures.[82]
@@ -257,7 +253,7 @@ Contemporary anamorphic artist Jonty Hurwitz uses cylindrical mirrors to project
 
 Other artistic mediums
 
-130_-_Grove_Of_Mirrors,_Hilary_Arnold_Baker_(4655892606).jpg, Romsey]]
+, Romsey]]
 
 Some other contemporary artists use mirrors as the material of art:
 
@@ -274,7 +270,7 @@ In the Middle Ages mirrors existed in various shapes for multiple uses. Mostly t
 
 Decoration
 
-Overmantel.jpg and overmantel mirror, c. 1750 V&A Museum no. 738:1 to 3–1897]] Demo_Day_2016_-_Design_Center_(19).jpg Mirrors are frequently used in interior decoration and as ornaments:
+and overmantel mirror, c. 1750 V&A Museum no. 738:1 to 3–1897]] Mirrors are frequently used in interior decoration and as ornaments:
 
 -   Mirrors, typically large and unframed, are frequently used in interior decoration to create an illusion of space and amplify the apparent size of a room.[89] They come also framed in a variety of forms, such as the pier glass and the overmantel mirror.
 -   Mirrors are used also in some schools of feng shui, an ancient Chinese practice of placement and arrangement of space to achieve harmony with the environment.
@@ -299,7 +295,7 @@ Film and television
 
 Literature
 
-Snow_White_Mirror_4.png'' (Snow White) an 1852 Icelandic translation of the Grimm-version fairytale]] Taijitu_and_demon_warding_mirror.jpg within a frame of trigrams and a demon warding mirror. These charms are believed to frighten away evil spirits and to protect the dwelling from bad luck]]
+'' (Snow White) an 1852 Icelandic translation of the Grimm-version fairytale]] within a frame of trigrams and a demon warding mirror. These charms are believed to frighten away evil spirits and to protect the dwelling from bad luck]]
 
 Mirrors play a powerful role in cultural literature.
 
@@ -337,7 +333,7 @@ Only a few animal species have been shown to have the ability to recognize thems
 
 Unusual kinds of mirrors
 
-WW1AcousticMirrorKilnsea(PaulGlazzard)Jan2007.jpg Grange, East Yorkshire, UK]] Hot_mirror_for_a_camera.jpg
+Grange, East Yorkshire, UK]]
 
 Other types of reflecting device are also called "mirrors".
 

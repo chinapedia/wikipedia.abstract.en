@@ -15,7 +15,7 @@ The origins of the National Security Agency can be traced back to April 28, 1917
 
 The Black Chamber
 
-Black_Chamber_cryptanalytic_work_sheet_for_solving_Japanese_diplomatic_cipher,_1919_-_National_Cryptologic_Museum_-_DSC07698.JPG After the disbandment of the U.S. Army cryptographic section of military intelligence, known as MI-8, in 1919, the U.S. government created the Cipher Bureau, also known as Black Chamber. The Black Chamber was the United States' first peacetime cryptanalytic organization.[16] Jointly funded by the Army and the State Department, the Cipher Bureau was disguised as a New York City commercial code company; it actually produced and sold such codes for business use. Its true mission, however, was to break the communications (chiefly diplomatic) of other nations. Its most notable known success was at the Washington Naval Conference, during which it aided American negotiators considerably by providing them with the decrypted traffic of many of the conference delegations, most notably the Japanese. The Black Chamber successfully persuaded Western Union, the largest U.S. telegram company at the time, as well as several other communications companies to illegally give the Black Chamber access to cable traffic of foreign embassies and consulates.[17] Soon, these companies publicly discontinued their collaboration.
+After the disbandment of the U.S. Army cryptographic section of military intelligence, known as MI-8, in 1919, the U.S. government created the Cipher Bureau, also known as Black Chamber. The Black Chamber was the United States' first peacetime cryptanalytic organization.[16] Jointly funded by the Army and the State Department, the Cipher Bureau was disguised as a New York City commercial code company; it actually produced and sold such codes for business use. Its true mission, however, was to break the communications (chiefly diplomatic) of other nations. Its most notable known success was at the Washington Naval Conference, during which it aided American negotiators considerably by providing them with the decrypted traffic of many of the conference delegations, most notably the Japanese. The Black Chamber successfully persuaded Western Union, the largest U.S. telegram company at the time, as well as several other communications companies to illegally give the Black Chamber access to cable traffic of foreign embassies and consulates.[17] Soon, these companies publicly discontinued their collaboration.
 
 Despite the Chamber's initial successes, it was shut down in 1929 by U.S. Secretary of State Henry L. Stimson, who defended his decision by stating, "Gentlemen do not read each other's mail".[18]
 
@@ -99,7 +99,7 @@ During the early 1970s, the first of what became more than eight large satellite
 
 NSA's United States Signals Intelligence Directive 18 (USSID 18) strictly prohibited the interception or collection of information about "... U.S. persons, entities, corporations or organizations...." without explicit written legal permission from the United States Attorney General when the subject is located abroad, or the Foreign Intelligence Surveillance Court when within U.S. borders. Alleged Echelon-related activities, including its use for motives other than national security, including political and industrial espionage, received criticism from countries outside the UKUSA alliance.[66][67]
 
-Berlin_2013_PRISM_Demo.jpg wearing Chelsea Manning and Edward Snowden masks]]
+wearing Chelsea Manning and Edward Snowden masks]]
 
 Other SIGINT operations overseas
 
@@ -153,7 +153,7 @@ George W. Bush, president during the 9/11 terrorist attacks, approved the Patrio
 
 The PRISM program
 
-Prism-slide-8.jpg surveillance program under which the NSA collects user data from companies like Microsoft and Facebook.]] Under the PRISM program, which started in 2007,[103][104] NSA gathers Internet communications from foreign targets from nine major U.S. Internet-based communication service providers: Microsoft,[105] Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube and Apple. Data gathered include email, video and voice chat, videos, photos, VoIP chats such as Skype, and file transfers.
+surveillance program under which the NSA collects user data from companies like Microsoft and Facebook.]] Under the PRISM program, which started in 2007,[103][104] NSA gathers Internet communications from foreign targets from nine major U.S. Internet-based communication service providers: Microsoft,[105] Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube and Apple. Data gathered include email, video and voice chat, videos, photos, VoIP chats such as Skype, and file transfers.
 
 Former NSA director General Keith Alexander claimed that in September 2009 the NSA prevented Najibullah Zazi and his friends from carrying out a terrorist attack.[106] However, this claim has been debunked and no evidence has been presented demonstrating that the NSA has ever been instrumental in preventing a terrorist attack.[107][108][109][110]
 
@@ -168,7 +168,7 @@ In an interview with _Wired_ magazine, Edward Snowden said the Tailored Access O
 
 Organizational structure
 
-General_Paul_M._Nakasone_(NSA).jpg, the director of the NSA.]]
+, the director of the NSA.]]
 
 The NSA is led by the Director of the National Security Agency (DIRNSA), who also serves as Chief of the Central Security Service (CHCSS) and Commander of the United States Cyber Command (USCYBERCOM) and is the highest-ranking military official of these organizations. He is assisted by a Deputy Director, who is the highest-ranking civilian within the NSA/CSS.
 
@@ -282,7 +282,7 @@ A 2016 proposal would combine the Signals Intelligence Directorate with Informat
 
 NSANet
 
-Intel_GreenDoor.jpg, GWAN, NSANET, and JWICS]] NSANet stands for National Security Agency Network and is the official NSA intranet.[133] It is a classified network,[134] for information up to the level of TS/SCI[135] to support the use and sharing of intelligence data between NSA and the signals intelligence agencies of the four other nations of the Five Eyes partnership. The management of NSANet has been delegated to the Central Security Service Texas (CSSTEXAS).[136]
+, GWAN, NSANET, and JWICS]] NSANet stands for National Security Agency Network and is the official NSA intranet.[133] It is a classified network,[134] for information up to the level of TS/SCI[135] to support the use and sharing of intelligence data between NSA and the signals intelligence agencies of the four other nations of the Five Eyes partnership. The management of NSANet has been delegated to the Central Security Service Texas (CSSTEXAS).[136]
 
 NSANet is a highly secured computer network consisting of fiber-optic and satellite communication channels which are almost completely separated from the public Internet. The network allows NSA personnel and civilian and military intelligence analysts anywhere in the world to have access to the agency's systems and databases. This access is tightly controlled and monitored. For example, every keystroke is logged, activities are audited at random and downloading and printing of documents from NSANet are recorded.[137]
 
@@ -315,9 +315,9 @@ Edward Snowden's leaking of the existence of PRISM in 2013 caused the NSA to ins
 
 Polygraphing
 
-DOD_polygraph_brochure.pdf (DSS) polygraph brochure given to NSA applicants]] The NSA conducts polygraph tests of employees. For new employees, the tests are meant to discover enemy spies who are applying to the NSA and to uncover any information that could make an applicant pliant to coercion.[156] As part of the latter, historically _EPQs_ or "embarrassing personal questions" about sexual behavior had been included in the NSA polygraph.[157] The NSA also conducts five-year periodic reinvestigation polygraphs of employees, focusing on counterintelligence programs. In addition the NSA conducts periodic polygraph investigations in order to find spies and leakers; those who refuse to take them may receive "termination of employment", according to a 1982 memorandum from the director of NSA.[158]
+(DSS) polygraph brochure given to NSA applicants]] The NSA conducts polygraph tests of employees. For new employees, the tests are meant to discover enemy spies who are applying to the NSA and to uncover any information that could make an applicant pliant to coercion.[156] As part of the latter, historically _EPQs_ or "embarrassing personal questions" about sexual behavior had been included in the NSA polygraph.[157] The NSA also conducts five-year periodic reinvestigation polygraphs of employees, focusing on counterintelligence programs. In addition the NSA conducts periodic polygraph investigations in order to find spies and leakers; those who refuse to take them may receive "termination of employment", according to a 1982 memorandum from the director of NSA.[158]
 
-NSApolygraphvideo.webm There are also "special access examination" polygraphs for employees who wish to work in highly sensitive areas, and those polygraphs cover counterintelligence questions and some questions about behavior.[159] NSA's brochure states that the average test length is between two and four hours.[160] A 1983 report of the Office of Technology Assessment stated that "It appears that the NSA [National Security Agency] (and possibly CIA) use the polygraph not to determine deception or truthfulness per se, but as a technique of interrogation to encourage admissions."[161] Sometimes applicants in the polygraph process confess to committing felonies such as murder, rape, and selling of illegal drugs. Between 1974 and 1979, of the 20,511 job applicants who took polygraph tests, 695 (3.4%) confessed to previous felony crimes; almost all of those crimes had been undetected.[162]
+There are also "special access examination" polygraphs for employees who wish to work in highly sensitive areas, and those polygraphs cover counterintelligence questions and some questions about behavior.[159] NSA's brochure states that the average test length is between two and four hours.[160] A 1983 report of the Office of Technology Assessment stated that "It appears that the NSA [National Security Agency] (and possibly CIA) use the polygraph not to determine deception or truthfulness per se, but as a technique of interrogation to encourage admissions."[161] Sometimes applicants in the polygraph process confess to committing felonies such as murder, rape, and selling of illegal drugs. Between 1974 and 1979, of the 20,511 job applicants who took polygraph tests, 695 (3.4%) confessed to previous felony crimes; almost all of those crimes had been undetected.[162]
 
 In 2010 the NSA produced a video explaining its polygraph process.[163] The video, ten minutes long, is titled "The Truth About the Polygraph" and was posted to the Web site of the Defense Security Service. Jeff Stein of _The Washington Post_ said that the video portrays "various applicants, or actors playing them — it's not clear — describing everything bad they had heard about the test, the implication being that none of it is true."[164] AntiPolygraph.org argues that the NSA-produced video omits some information about the polygraph process; it produced a video responding to the NSA video.[165] George Maschke, the founder of the Web site, accused the NSA polygraph video of being "Orwellian".[166]
 
@@ -334,9 +334,9 @@ Headquarters
 
 History of headquarters
 
-NSA-Fort_Meade-1950.png circa 1950s]] When the agency was first established, its headquarters and cryptographic center were in the Naval Security Station in Washington, D.C. The COMINT functions were located in Arlington Hall in Northern Virginia, which served as the headquarters of the U.S. Army's cryptographic operations.[169] Because the Soviet Union had detonated a nuclear bomb and because the facilities were crowded, the federal government wanted to move several agencies, including the AFSA/NSA. A planning committee considered Fort Knox, but Fort Meade, Maryland, was ultimately chosen as NSA headquarters because it was far enough away from Washington, D.C. in case of a nuclear strike and was close enough so its employees would not have to move their families.[170]
+circa 1950s]] When the agency was first established, its headquarters and cryptographic center were in the Naval Security Station in Washington, D.C. The COMINT functions were located in Arlington Hall in Northern Virginia, which served as the headquarters of the U.S. Army's cryptographic operations.[169] Because the Soviet Union had detonated a nuclear bomb and because the facilities were crowded, the federal government wanted to move several agencies, including the AFSA/NSA. A planning committee considered Fort Knox, but Fort Meade, Maryland, was ultimately chosen as NSA headquarters because it was far enough away from Washington, D.C. in case of a nuclear strike and was close enough so its employees would not have to move their families.[170]
 
-Construction of additional buildings began after the agency occupied buildings at Fort Meade in the late 1950s, which they soon outgrew.[171] In 1963 the new headquarters building, nine stories tall, opened. NSA workers referred to the building as the "Headquarters Building" and since the NSA management occupied the top floor, workers used "Ninth Floor" to refer to their leaders.[172] COMSEC remained in Washington, D.C., until its new building was completed in 1968.[173] In September 1986, the Operations 2A and 2B buildings, both copper-shielded to prevent eavesdropping, opened with a dedication by President Ronald Reagan.[174] The four NSA buildings became known as the "Big Four."[175] The NSA director moved to 2B when it opened.[176] National_Security_Agency,_2013.jpg Headquarters for the National Security Agency is located at in Fort George G. Meade, Maryland, although it is separate from other compounds and agencies that are based within this same military installation. Fort Meade is about southwest of Baltimore,[177] and northeast of Washington, D.C.[178] The NSA has two dedicated exits off Baltimore–Washington Parkway. The Eastbound exit from the Parkway (heading toward Baltimore) is open to the public and provides employee access to its main campus and public access to the National Cryptology Museum. The Westbound side exit, (heading toward Washington) is labeled "NSA Employees Only".[179][180] The exit may only be used by people with the proper clearances, and security vehicles parked along the road guard the entrance.[181]
+Construction of additional buildings began after the agency occupied buildings at Fort Meade in the late 1950s, which they soon outgrew.[171] In 1963 the new headquarters building, nine stories tall, opened. NSA workers referred to the building as the "Headquarters Building" and since the NSA management occupied the top floor, workers used "Ninth Floor" to refer to their leaders.[172] COMSEC remained in Washington, D.C., until its new building was completed in 1968.[173] In September 1986, the Operations 2A and 2B buildings, both copper-shielded to prevent eavesdropping, opened with a dedication by President Ronald Reagan.[174] The four NSA buildings became known as the "Big Four."[175] The NSA director moved to 2B when it opened.[176] Headquarters for the National Security Agency is located at in Fort George G. Meade, Maryland, although it is separate from other compounds and agencies that are based within this same military installation. Fort Meade is about southwest of Baltimore,[177] and northeast of Washington, D.C.[178] The NSA has two dedicated exits off Baltimore–Washington Parkway. The Eastbound exit from the Parkway (heading toward Baltimore) is open to the public and provides employee access to its main campus and public access to the National Cryptology Museum. The Westbound side exit, (heading toward Washington) is labeled "NSA Employees Only".[179][180] The exit may only be used by people with the proper clearances, and security vehicles parked along the road guard the entrance.[181]
 
 NSA is the largest employer in the state of Maryland, and two-thirds of its personnel work at Fort Meade.[182] Built on [183] of Fort Meade's ,[184] the site has 1,300 buildings and an estimated 18,000 parking spaces.[185][186]
 
@@ -350,7 +350,7 @@ The employees at the NSA headquarters reside in various places in the Baltimore-
 
 Power consumption
 
-NeverSleeps_071310.jpg, NSA is the largest electricity consumer in Maryland.[202]]]
+, NSA is the largest electricity consumer in Maryland.[202]]]
 
 Following a major power outage in 2000, in 2003 and in follow-ups through 2007, _The Baltimore Sun_ reported that the NSA was at risk of electrical overload because of insufficient internal electrical infrastructure at Fort Meade to support the amount of equipment being installed. This problem was apparently recognized in the 1990s but not made a priority, and "now the agency's ability to keep its operations going is threatened."[203]
 
@@ -374,7 +374,7 @@ The DoD Computer Security Center was founded in 1981 and renamed the National Co
 
 Other U.S. facilities
 
-Buckley_AFB.png Utah_Data_Center_Panorama_(cropped).jpg As of 2012, NSA collected intelligence from four geostationary satellites.[221] Satellite receivers were at Roaring Creek Station in Catawissa, Pennsylvania and Salt Creek Station in Arbuckle, California.[222] It operated ten to twenty taps on U.S. telecom switches. NSA had installations in several U.S. states and from them observed intercepts from Europe, the Middle East, North Africa, Latin America, and Asia.[223]
+As of 2012, NSA collected intelligence from four geostationary satellites.[221] Satellite receivers were at Roaring Creek Station in Catawissa, Pennsylvania and Salt Creek Station in Arbuckle, California.[222] It operated ten to twenty taps on U.S. telecom switches. NSA had installations in several U.S. states and from them observed intercepts from Europe, the Middle East, North Africa, Latin America, and Asia.[223]
 
 NSA had facilities at Friendship Annex (FANX) in Linthicum, Maryland, which is a 20 to 25-minute drive from Fort Meade;[224] the Aerospace Data Facility at Buckley Air Force Base in Aurora outside Denver, Colorado; NSA Texas in the Texas Cryptology Center at Lackland Air Force Base in San Antonio, Texas; NSA Georgia at Fort Gordon in Augusta, Georgia; NSA Hawaii in Honolulu; the Multiprogram Research Facility in Oak Ridge, Tennessee, and elsewhere.[225][226]
 
@@ -386,7 +386,7 @@ The _Yakima Herald-Republic_ cited Bamford, saying that many of NSA's bases for 
 
 International stations
 
-Menwith-hill-radomes.jpg has the largest NSA presence in the United Kingdom.[235]]]
+has the largest NSA presence in the United Kingdom.[235]]]
 
 Following the signing in 1946–1956[236] of the UKUSA Agreement between the United States, United Kingdom, Canada, Australia and New Zealand, who then cooperated on signals intelligence and ECHELON,[237] NSA stations were built at GCHQ Bude in Morwenstow, United Kingdom; Geraldton, Pine Gap and Shoal Bay, Australia; Leitrim and Ottawa, Ontario, Canada; Misawa, Japan; and Waihopai and Tangimoana,[238] New Zealand.[239]
 
@@ -419,7 +419,7 @@ Its secure government communications work has involved the NSA in numerous techn
 
 Data Encryption Standard
 
-Frostburg.jpg was the NSA's first supercomputer, used from 1991 to 1997]]
+was the NSA's first supercomputer, used from 1991 to 1997]]
 
 NSA was embroiled in some minor controversy concerning its involvement in the creation of the Data Encryption Standard (DES), a standard and public block cipher algorithm used by the U.S. government and banking community. During the development of DES by IBM in the 1970s, NSA recommended changes to some details of the design. There was suspicion that these changes had weakened the algorithm sufficiently to enable the agency to eavesdrop if required, including speculation that a critical component—the so-called S-boxes—had been altered to insert a "backdoor" and that the reduction in key length might have made it feasible for NSA to discover DES keys using massive computing power. It has since been observed that the S-boxes in DES are particularly resilient against differential cryptanalysis, a technique which was not publicly discovered until the late 1980s but known to the IBM DES team.
 
@@ -429,7 +429,7 @@ The involvement of NSA in selecting a successor to Data Encryption Standard (DES
 
 NSA encryption systems
 
-STU-IIIphones.nsa.jpg secure telephones on display at the National Cryptologic Museum]]
+secure telephones on display at the National Cryptologic Museum]]
 
 The NSA is responsible for the encryption-related components in these legacy systems:
 
@@ -484,13 +484,13 @@ One of NSA's published patents describes a method of geographically locating an 
 
 Insignia and memorials
 
-National_Security_Agency.svg The heraldic insignia of NSA consists of an eagle inside a circle, grasping a key in its talons.[294] The eagle represents the agency's national mission.[295] Its breast features a shield with bands of red and white, taken from the Great Seal of the United States and representing Congress.[296] The key is taken from the emblem of Saint Peter and represents security.[297]
+The heraldic insignia of NSA consists of an eagle inside a circle, grasping a key in its talons.[294] The eagle represents the agency's national mission.[295] Its breast features a shield with bands of red and white, taken from the Great Seal of the United States and representing Congress.[296] The key is taken from the emblem of Saint Peter and represents security.[297]
 
 When the NSA was created, the agency had no emblem and used that of the Department of Defense.[298] The agency adopted its first of two emblems in 1963.[299] The current NSA insignia has been in use since 1965, when then-Director, LTG Marshall S. Carter (USA) ordered the creation of a device to represent the agency.[300]
 
 The NSA's flag consists of the agency's seal on a light blue background.
 
-nsa_memorial_1.png Crews associated with NSA missions have been involved in a number of dangerous and deadly situations.[301] The USS _Liberty_ incident in 1967 and USS _Pueblo_ incident in 1968 are examples of the losses endured during the Cold War.[302]
+Crews associated with NSA missions have been involved in a number of dangerous and deadly situations.[301] The USS _Liberty_ incident in 1967 and USS _Pueblo_ incident in 1968 are examples of the losses endured during the Cold War.[302]
 
 The National Security Agency/Central Security Service Cryptologic Memorial honors and remembers the fallen personnel, both military and civilian, of these intelligence missions.[303] It is made of black granite, and has 171 names carved into it, [304] It is located at NSA headquarters. A tradition of declassifying the stories of the fallen was begun in 2001.[305]
 
@@ -561,7 +561,7 @@ According to a report in _The Washington Post_ in July 2014, relying on informat
 
 Congressional oversight
 
-Ron_Wyden_and_James_Clapper_-_6_June_2013.webm Despite White House claims that these programs have congressional oversight, many members of Congress were unaware of the existence of these NSA programs or the secret interpretation of the Patriot Act, and have consistently been denied access to basic information about them.[364] The United States Foreign Intelligence Surveillance Court, the secret court charged with regulating the NSA's activities is, according to its chief judge, incapable of investigating or verifying how often the NSA breaks even its own secret rules.[365] It has since been reported that the NSA violated its own rules on data access thousands of times a year, many of these violations involving large-scale data interceptions.[366] NSA officers have even used data intercepts to spy on love interests;[367] "most of the NSA violations were self-reported, and each instance resulted in administrative action of termination."Andrea Peterson,
+Despite White House claims that these programs have congressional oversight, many members of Congress were unaware of the existence of these NSA programs or the secret interpretation of the Patriot Act, and have consistently been denied access to basic information about them.[364] The United States Foreign Intelligence Surveillance Court, the secret court charged with regulating the NSA's activities is, according to its chief judge, incapable of investigating or verifying how often the NSA breaks even its own secret rules.[365] It has since been reported that the NSA violated its own rules on data access thousands of times a year, many of these violations involving large-scale data interceptions.[366] NSA officers have even used data intercepts to spy on love interests;[367] "most of the NSA violations were self-reported, and each instance resulted in administrative action of termination."Andrea Peterson,
 
 LOVEINT: When NSA officers use their spying power on love interests, _The Washington Post_ (August 24, 2013).
 

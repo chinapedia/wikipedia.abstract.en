@@ -4,7 +4,7 @@ Council of Europe, CERCO, International Council for the Exploration of the Sea, 
 
 On September 20, 2003, in a nationwide referendum, the Latvians voted to join the European Union and Latvia's EU membership took effect on May 1, 2004. Latvia became a member state of NATO on March 29, 2004.
 
-Through its Ministry of Foreign Affairs, Latvia maintains embassies in Argentina, Austria, Belarus, Belgium, Canada, the People's Republic of China, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Israel, Italy, Lithuania, Netherlands, Nicaragua, Norway, Poland, Portugal, Russia, South Africa, South Korea, Sweden, Ukraine, the United Kingdom, the United States, and Uzbekistan. Ministry_of_Foreign_Affairs_Latvia.jpg
+Through its Ministry of Foreign Affairs, Latvia maintains embassies in Argentina, Austria, Belarus, Belgium, Canada, the People's Republic of China, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Israel, Italy, Lithuania, Netherlands, Nicaragua, Norway, Poland, Portugal, Russia, South Africa, South Korea, Sweden, Ukraine, the United Kingdom, the United States, and Uzbekistan.
 
 It also operates missions to the United Nations in New York City and Geneva, to the European Union, the Chemical Weapons Nonproliferation Organization, the OSCE, NATO, World Trade Organization, and the Food and Agriculture Organization of the United Nations.
 

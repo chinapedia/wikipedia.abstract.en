@@ -1,5 +1,3 @@
-Pilsner_urquell_mug.jpg
-
 PILSNER (also PILSENER or simply PILS) is a type of pale lager. It takes its name from the Czech city of Pilsen, where it was first produced in 1842 by Bavarian brewer Josef Groll.[1] The world’s first blond lager, the original Pilsner Urquell,[2] is still produced there today.
 
 
@@ -7,7 +5,7 @@ History
 
 Origin
 
-The city of Pilsen began brewing in 1295, but until the mid-1840s, most Bohemian beers were top-fermented. The taste and standards of quality often varied widely, and in 1838, consumers dumped whole barrels to show their dissatisfaction.[3] The officials of Pilsen founded a city-owned brewery in 1839, called _Měšťanský pivovar Plzeň_ (, – now Pilsner Urquell), which was to brew beer in the pioneering Bavarian style.[4] Brewers had begun aging beer made with cool fermenting yeasts in caves (lager, i.e., [stored]), which improved the beer's clarity and shelf-life. Part of this research benefited from the knowledge already expounded on in a book (printed in German in 1794, in Czech in 1799), written by Czech brewer František Ondřej Poupě (_Ger_: Franz Andreas Paupie) (1753–1805) from Brno.[5]Feldschloesschen_Brauerei.jpg]]
+The city of Pilsen began brewing in 1295, but until the mid-1840s, most Bohemian beers were top-fermented. The taste and standards of quality often varied widely, and in 1838, consumers dumped whole barrels to show their dissatisfaction.[3] The officials of Pilsen founded a city-owned brewery in 1839, called _Měšťanský pivovar Plzeň_ (, – now Pilsner Urquell), which was to brew beer in the pioneering Bavarian style.[4] Brewers had begun aging beer made with cool fermenting yeasts in caves (lager, i.e., [stored]), which improved the beer's clarity and shelf-life. Part of this research benefited from the knowledge already expounded on in a book (printed in German in 1794, in Czech in 1799), written by Czech brewer František Ondřej Poupě (_Ger_: Franz Andreas Paupie) (1753–1805) from Brno.[5]]]
 
 The Pilsen brewery recruited the Bavarian brewer Josef Groll (1813–1887) who, using new techniques and paler malts, presented his first batch of pale lager on 5 October 1842. The combination of brighter malt prepared by British technology, Pilsen's remarkably soft water, local Saaz noble hops from nearby Žatec and Bavarian-style lagering produced a clear, golden beer that was regarded as a sensation. Groll returned to Vilshofen three years later in 1845, and there later inherited his father's brewery.
 
@@ -26,7 +24,7 @@ A modern pale lager termed a _Pilsner_ may have a very light, clear colour from 
 
 Styles
 
-Bitburger_Glass.JPG, a German-style Pilsner]] A study utilizing blind taste-testing has found that several common mass-produced lagers have indistinguishable tastes to the average consumer.[9]
+, a German-style Pilsner]] A study utilizing blind taste-testing has found that several common mass-produced lagers have indistinguishable tastes to the average consumer.[9]
 
 German-style Pilsner:Light straw to golden colour with more bitter or earthy taste – Beck's, Bitburger, Flensburger, Fürstenberg, Holsten, Jever, König, Krombacher, Radeberger, St. Pauli Girl, Veltins, Warsteiner, Wernesgrüner
 

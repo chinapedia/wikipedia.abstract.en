@@ -7,7 +7,7 @@ In the United States, Labatt brand beers are sold under license by Labatt USA, w
 
 History
 
-Labatt_s_London_Ale.jpg In 1901, Prohibition in Canada began through a provincial legislation in Prince Edward Island. In 1916, prohibition was instituted in Ontario as well, affecting all 64 breweries in the province. Although some provinces totally banned alcohol manufacture, some permitted production for export to the United States. Labatt survived by producing full strength beer for export south of the border and by introducing two "temperance ales" with less than two per cent alcohol for sale in Ontario. However, the Canadian beer industry suffered a second blow when Prohibition in the United States began in 1919. When Prohibition was repealed in Ontario in 1926, just 15 breweries remained, and only Labatt retained its original management. This resulted in a strengthened industry position. In 1945, Labatt became a publicly traded company with the issuance of 900,000 shares.
+In 1901, Prohibition in Canada began through a provincial legislation in Prince Edward Island. In 1916, prohibition was instituted in Ontario as well, affecting all 64 breweries in the province. Although some provinces totally banned alcohol manufacture, some permitted production for export to the United States. Labatt survived by producing full strength beer for export south of the border and by introducing two "temperance ales" with less than two per cent alcohol for sale in Ontario. However, the Canadian beer industry suffered a second blow when Prohibition in the United States began in 1919. When Prohibition was repealed in Ontario in 1926, just 15 breweries remained, and only Labatt retained its original management. This resulted in a strengthened industry position. In 1945, Labatt became a publicly traded company with the issuance of 900,000 shares.
 
 John and Hugh Labatt, grandsons of founder John K. Labatt, launched Labatt 50 in 1950 to commemorate 50 years of partnership. The first light ale introduced in Canada, Labatt 50 was Canada's best-selling beer until 1979.
 
@@ -47,7 +47,7 @@ Labatt's Toronto (Rexdale) brewery was built in 1970 and ceased operations in 20
 
 Brands
 
-Labatt_Blue_Bleue_Indians.jpg _Labatt 50_ is a 5% abv ale launched in 1950 to commemorate 50 years of partnership between the grandsons of the brewer's founder. The first light-tasting ale introduced in Canada, Labatt 50 was Canada's best-selling beer until 1979 when, with the increasing popularity of lagers, it was surpassed by _Labatt Blue_. Labatt 50 is fermented using a special ale yeast, in use at Labatt since 1933.
+_Labatt 50_ is a 5% abv ale launched in 1950 to commemorate 50 years of partnership between the grandsons of the brewer's founder. The first light-tasting ale introduced in Canada, Labatt 50 was Canada's best-selling beer until 1979 when, with the increasing popularity of lagers, it was surpassed by _Labatt Blue_. Labatt 50 is fermented using a special ale yeast, in use at Labatt since 1933.
 
 _Labatt Blue_ is a 5% abv pale lager.[10] There are of beer in a bottle of _Labatt Blue_. There are 355 mL of beer in a standard can of Labatt Blue/Bleue in Canada with other volumes available in specific regions of the country.
 
@@ -58,7 +58,7 @@ Labatt had patented a specific method for making ice beer in 1997, 1998 and 2000
 
 Corporate activities
 
-Labatt_Pond_Hockey_Buffalo.jpg Labatt has sponsored the construction of many buildings in London, including Labatt Park, the John Labatt Centre, and the John Labatt Visual Arts Centre at the University of Western Ontario (UWO). Bessie Labatt's son Arthur Labatt was the 19th chancellor of UWO (2004–2008).[14] In 1998 Labatt announced a 20-year sponsorship agreement with the now defunct Montreal Expos (now the Washington Nationals), which included naming rights for a downtown Montreal ballpark that was never built. From 1992 to 1997 they sponsored the English football team Nottingham Forest F.C.. They also are the official beer and corporate sponsor of the OHL hockey franchise Plymouth Whalers. In the 1950s, the company sponsored a PGA Tour golf tournament, the Labatt Open. Labatt was a sponsor of the Williams F1 racing team in the early 1990s.
+Labatt has sponsored the construction of many buildings in London, including Labatt Park, the John Labatt Centre, and the John Labatt Visual Arts Centre at the University of Western Ontario (UWO). Bessie Labatt's son Arthur Labatt was the 19th chancellor of UWO (2004–2008).[14] In 1998 Labatt announced a 20-year sponsorship agreement with the now defunct Montreal Expos (now the Washington Nationals), which included naming rights for a downtown Montreal ballpark that was never built. From 1992 to 1997 they sponsored the English football team Nottingham Forest F.C.. They also are the official beer and corporate sponsor of the OHL hockey franchise Plymouth Whalers. In the 1950s, the company sponsored a PGA Tour golf tournament, the Labatt Open. Labatt was a sponsor of the Williams F1 racing team in the early 1990s.
 
 In 1983–86, Labatt sponsored Ken Westerfield, Canadian Frisbee champion and world record holder, to perform Frisbee shows throughout Ontario, as well as sponsor the World Guts (Frisbee) Championships on Toronto Islands in 1986.[15]
 

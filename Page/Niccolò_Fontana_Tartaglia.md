@@ -1,5 +1,3 @@
-Niccolò_Tartaglia.jpg
-
 NICCOLÒ FONTANA TARTAGLIA (; 1499/1500, Brescia – 13 December 1557, Venice) was an Italian mathematician, engineer (designing fortifications), a surveyor (of topography, seeking the best means of defense or offense) and a bookkeeper from the then-Republic of Venice (now part of Italy). He published many books, including the first Italian translations of Archimedes and Euclid, and an acclaimed compilation of mathematics. Tartaglia was the first to apply mathematics to the investigation of the paths of cannonballs, known as ballistics, in his _Nova Scientia_ (_A New Science_); his work was later partially validated and partially superseded by Galileo's studies on falling bodies. He also published a treatise on retrieving sunken ships.
 
 
@@ -12,7 +10,7 @@ There is a story that Tartaglia learned only half the alphabet from a private tu
 
 Major works
 
-Tartaglia_-_General_trattato_de'_numeri_et_misure,_1556_-_146704.jpg His edition of Euclid in 1543, the first translation of the _Elements_ into any modern European language, was especially significant. For two centuries Euclid had been taught from two Latin translations taken from an Arabic source; these contained errors in Book V, the Eudoxian theory of proportion, which rendered it unusable. Tartaglia's edition was based on Zamberti's Latin translation of an uncorrupted Greek text, and rendered Book V correctly. He also wrote the first modern and useful commentary on the theory. Later, the theory was an essential tool for Galileo, just as it had been for Archimedes.
+His edition of Euclid in 1543, the first translation of the _Elements_ into any modern European language, was especially significant. For two centuries Euclid had been taught from two Latin translations taken from an Arabic source; these contained errors in Book V, the Eudoxian theory of proportion, which rendered it unusable. Tartaglia's edition was based on Zamberti's Latin translation of an uncorrupted Greek text, and rendered Book V correctly. He also wrote the first modern and useful commentary on the theory. Later, the theory was an essential tool for Galileo, just as it had been for Archimedes.
 
 However, his best known work is his treatise '' General Trattato di Numeri et Misure'' published in Venice 1556–1560. This has been called the _best_ treatise on arithmetic that appeared in the sixteenth century.[2] Not only does Tartaglia have complete discussions of numerical operations and the commercial rules used by Italian arithmeticians in this work, but he also discusses the life of the people, the customs of merchants and the efforts made to improve arithmetic in the 16th century.
 

@@ -28,7 +28,7 @@ Macau also owns its very own television station called TDM. And it has 6 channel
 
 Telephone
 
-CTM_Telephone_Booth.JPG telephone booth]]
+telephone booth]]
 
 The number of telephone lines has been increasing since the mid-1990s. In 1997 there were 222,456 telephones; by 1999, 300,066 lines were in use. In 1999 there were 686 telephone lines per 1,000 people. Cellular-telephone-use statistics were not available. International access is via Hong Kong and Mainland China and via Intelsat (Indian Ocean). Alcatel-Lucent was granted a contract in February 2007 to collocate a CDMA2000 1xEV-DO (Revision A) high-speed wireless network in Macau for China Unicom. Following the completion of the upgrades in related software and hardware, China Unicom will be equipped with the facilities needed to provide high-speed mobile data services for users in Macau, including broadcasting and video telephony.[2]
 

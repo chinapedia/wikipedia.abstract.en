@@ -1,4 +1,4 @@
-Northwest_passage.jpg The NORTHWEST PASSAGE (NWP) is, from the European and northern Atlantic point of view, the sea route to the Pacific Ocean through the Arctic Ocean, along the northern coast of North America via waterways through the Canadian Arctic Archipelago.[1][2][3][4] The eastern route along the Arctic coasts of Norway and Siberia is accordingly called the Northeast Passage (NEP).
+The NORTHWEST PASSAGE (NWP) is, from the European and northern Atlantic point of view, the sea route to the Pacific Ocean through the Arctic Ocean, along the northern coast of North America via waterways through the Canadian Arctic Archipelago.[1][2][3][4] The eastern route along the Arctic coasts of Norway and Siberia is accordingly called the Northeast Passage (NEP).
 
 The various islands of the archipelago are separated from one another and from the Canadian mainland by a series of Arctic waterways collectively known as the NORTHWEST PASSAGES or NORTHWESTERN PASSAGES.[5]
 
@@ -9,7 +9,7 @@ The contested sovereignty claims over the waters may complicate future shipping 
 
 Overview
 
-Strait_of_Anian_from_Novissima_totius_tarrarum_orbis_tabula_by_Hugo_Allard.png, shown in the upper left corner of the map. (Hugo Allard, 1685)]]
+, shown in the upper left corner of the map. (Hugo Allard, 1685)]]
 
 Early expeditions
 
@@ -29,7 +29,7 @@ On the other hand, some thick sections of ice will remain hard to melt in the sh
 
 The Beluga group of Bremen, Germany, sent the first Western commercial vessels through the Northern Sea Route (Northeast Passage) in 2009.[30] Canada's Prime Minister Stephen Harper announced that "ships entering the North-West passage should first report to his government."[31]
 
-Map_of_the_route_followed_by_by_the_SS_Manhattan_to_traverse_the_Northwest_Passage.png in 1969.]]
+in 1969.]]
 
 The first commercial cargo ship to have sailed through the Northwest Passage was in August 1969.[32][33] SS _Manhattan_, of 115,000 deadweight tonnage, was the largest commercial vessel ever to navigate the Northwest Passage.
 
@@ -40,7 +40,7 @@ In 2018, two of the freighters leaving Baffinland's port in the Milne Inlet, on 
 
 Routes
 
-Map_indicating_Lancaster_Sound,_Nunavut,_Canada.png at the north end of Baffin Island. Parry Channel runs directly west.]] Map_indicating_Prince_of_Wales_Strait,_Northwest_Territories,_Canada.png northwest of Victoria Island.]] The Northwest Passage includes three sections:
+at the north end of Baffin Island. Parry Channel runs directly west.]] northwest of Victoria Island.]] The Northwest Passage includes three sections:
 
 -   East
     -   East of Baffin Island: Baffin Bay between Greenland and Baffin Island to Lancaster Sound at the north end of Baffin Island, or
@@ -80,7 +80,7 @@ The International Hydrographic Organization defines the limits of the Northweste
 
 Historical expeditions
 
-Straße_von_Anian.png As a result of their westward explorations and their settlement of Greenland, the Vikings sailed as far north and west as Ellesmere Island, Skraeling Island for hunting expeditions and trading with Inuit groups. The subsequent arrival of the Little Ice Age is thought to have been one of the reasons that European seafaring into the Northwest Passage ceased until the late 15th century.[37]
+As a result of their westward explorations and their settlement of Greenland, the Vikings sailed as far north and west as Ellesmere Island, Skraeling Island for hunting expeditions and trading with Inuit groups. The subsequent arrival of the Little Ice Age is thought to have been one of the reasons that European seafaring into the Northwest Passage ceased until the late 15th century.[37]
 
 Strait of Anián
 
@@ -112,13 +112,13 @@ On May 9, 1619, under the auspices of King Christian IV of Denmark–Norway, Jen
 
 René-Robert Cavelier, Sieur de La Salle built the sailing ship, , in his quest to find the Northwest Passage via the upper Great Lakes. _Le Griffon_ disappeared in 1679 on the return trip of her maiden voyage.[45] In the spring of 1682, La Salle made his famous voyage down the Mississippi River to the Gulf of Mexico. La Salle led an expedition from France in 1684 to establish a French colony on the Gulf of Mexico. He was murdered by his followers in 1687.[46]
 
-Voyage_à_la_baye_de_Hudson,_fait_en_1746_et_1747.jpg Henry Ellis, born in Ireland, was part of a company aiming to discover the Northwest Passage in May 1746. After the difficult extinction of a fire on board the ship, he sailed to Greenland, where he traded goods with the Inuit peoples on July 8, 1746. He crossed to the town of Fort Nelson and spent the summer on the Hayes River. He renewed his efforts in June 1747, without success, before returning to England.
+Henry Ellis, born in Ireland, was part of a company aiming to discover the Northwest Passage in May 1746. After the difficult extinction of a fire on board the ship, he sailed to Greenland, where he traded goods with the Inuit peoples on July 8, 1746. He crossed to the town of Fort Nelson and spent the summer on the Hayes River. He renewed his efforts in June 1747, without success, before returning to England.
 
 In 1772, Samuel Hearne travelled overland northwest from Hudson Bay to the Arctic Ocean, thereby proving that there was no strait connecting Hudson Bay to the Pacific Ocean.
 
 Northern Pacific
 
-1765 globe by Guillaume Delisle, showing a fictional Northwest Passage.|left|thumbnail Most Northwest Passage expeditions originated in Europe or on the east coast of North America, seeking to traverse the Passage in the westbound direction. Some progress was made in exploring the western reaches of the imagined passage.
+Most Northwest Passage expeditions originated in Europe or on the east coast of North America, seeking to traverse the Passage in the westbound direction. Some progress was made in exploring the western reaches of the imagined passage.
 
 In 1728 Vitus Bering, a Danish Navy officer in Russian service, used the strait first discovered by Semyon Dezhnyov in 1648 but later accredited to and named after Bering (the Bering Strait). He concluded that North America and Russia were separate land masses by sailing between them. In 1741 with Lieutenant Aleksei Chirikov, he explored seeking further lands beyond Siberia. While they were separated, Chirikov discovered several of the Aleutian Islands while Bering charted the Alaskan region. His ship was wrecked off the Kamchatka Peninsula, as many of his crew were disabled by scurvy.
 
@@ -138,7 +138,7 @@ From 1792 to 1794, the Vancouver Expedition (led by George Vancouver who had pre
 
 19th century
 
-Caspar_David_Friedrich_-_Das_Eismeer_-_Hamburger_Kunsthalle_-_02.jpg''), 1823–1824, a painting by Caspar David Friedrich, inspired by William Edward Parry's account from the 1819–1820 expedition. Kunsthalle Hamburg, Germany.]] In the first half of the 19th century, some parts of the Northwest Passage (north of the Bering Strait) were explored separately by many expeditions, including those by John Ross, Elisha Kent Kane, William Edward Parry, and James Clark Ross; overland expeditions were also led by John Franklin, George Back, Peter Warren Dease, Thomas Simpson, and John Rae. In 1826 Frederick William Beechey explored the north coast of Alaska, discovering Point Barrow.[49]
+''), 1823–1824, a painting by Caspar David Friedrich, inspired by William Edward Parry's account from the 1819–1820 expedition. Kunsthalle Hamburg, Germany.]] In the first half of the 19th century, some parts of the Northwest Passage (north of the Bering Strait) were explored separately by many expeditions, including those by John Ross, Elisha Kent Kane, William Edward Parry, and James Clark Ross; overland expeditions were also led by John Franklin, George Back, Peter Warren Dease, Thomas Simpson, and John Rae. In 1826 Frederick William Beechey explored the north coast of Alaska, discovering Point Barrow.[49]
 
 Sir Robert McClure was credited with the discovery of the Northwest Passage in 1851 when he looked across McClure Strait from Banks Island and viewed Melville Island. However, this strait was not navigable to ships at that time. The only usable route linking the entrances of Lancaster Sound and Dolphin and Union Strait was discovered by John Rae in 1854.
 
@@ -150,7 +150,7 @@ Starvation, exposure and scurvy all contributed to the men's deaths. In 1981 Owe
 
 McClure expedition
 
-The_North-West_Passage,_by_John_Everett_Millais.jpg'' (1874), a painting by John Everett Millais representing British frustration at the failure to conquer the passage.
+'' (1874), a painting by John Everett Millais representing British frustration at the failure to conquer the passage.
 Tate Britain, London.]] During the search for Franklin, Commander Robert McClure and his crew in traversed the Northwest Passage from west to east in the years 1850 to 1854, partly by ship and partly by sledge. McClure started out from England in December 1849, sailed the Atlantic Ocean south to Cape Horn and entered the Pacific Ocean. He sailed the Pacific north and passed through the Bering Strait, turning east at that point and reaching Banks Island.
 
 McClure's ship was trapped in the ice for three winters near Banks Island, at the western end of Viscount Melville Sound. Finally McClure and his crew—who were by that time dying of starvation—were found by searchers who had travelled by sledge over the ice from a ship of Sir Edward Belcher's expedition. They rescued McClure and his crew, returning with them to Belcher's ships, which had entered the Sound from the east. McClure and his crew returned to England in 1854 on one of Belcher's ships. They were the first people known to circumnavigate the Americas and to discover and transit the Northwest Passage, albeit by ship and by sledge over the ice. (Both McClure and his ship were found by a party from HMS _Resolute_, one of Belcher's ships, so his sledge journey was relatively short.[54])
@@ -163,7 +163,7 @@ The expeditions by Franklin and McClure were in the tradition of British explora
 
 Amundsen expedition
 
-Nlc_amundsen.jpg was the first to sail through the Northwest Passage in 1903–1906.]] Gjøa.jpg The first explorer to conquer the Northwest Passage solely by ship was the Norwegian explorer Roald Amundsen. In a three-year journey between 1903 and 1906, Amundsen explored the passage with a crew of six. Amundsen, who had sailed to escape creditors seeking to stop the expedition, completed the voyage in the converted 45 net register tonnage () herring boat _Gjøa_. _Gjøa_ was much smaller than vessels used by other Arctic expeditions and had a shallow draft. Amundsen intended to hug the shore, live off the limited resources of the land and sea through which he was to travel, and had determined that he needed to have a tiny crew to make this work. (Trying to support much larger crews had contributed to the catastrophic failure of John Franklin's expedition fifty years previously). The ship's shallow draft was intended to help her traverse the shoals of the Arctic straits.
+was the first to sail through the Northwest Passage in 1903–1906.]] The first explorer to conquer the Northwest Passage solely by ship was the Norwegian explorer Roald Amundsen. In a three-year journey between 1903 and 1906, Amundsen explored the passage with a crew of six. Amundsen, who had sailed to escape creditors seeking to stop the expedition, completed the voyage in the converted 45 net register tonnage () herring boat _Gjøa_. _Gjøa_ was much smaller than vessels used by other Arctic expeditions and had a shallow draft. Amundsen intended to hug the shore, live off the limited resources of the land and sea through which he was to travel, and had determined that he needed to have a tiny crew to make this work. (Trying to support much larger crews had contributed to the catastrophic failure of John Franklin's expedition fifty years previously). The ship's shallow draft was intended to help her traverse the shoals of the Arctic straits.
 
 Amundsen set out from Kristiania (Oslo) in June 1903 and was west of the Boothia Peninsula by late September. _Gjøa_ was put into a natural harbour on the south shore of King William Island; by October 3 she was iced in. There the expedition remained for nearly two years, with the expedition members learning from the local Inuit people and undertaking measurements to determine the location of the North Magnetic Pole. The harbour, now known as Gjoa Haven, later developed as the only permanent settlement on the island.
 
@@ -209,7 +209,7 @@ In 2006, a scheduled cruise liner () successfully ran the Northwest Passage,[75]
 
 On May 19, 2007, a French sailor, Sébastien Roubinet, and one other crew member left Anchorage, Alaska, in _Babouche_, a ice catamaran designed to sail on water and slide over ice. The goal was to navigate west to east through the Northwest Passage by sail only. Following a journey of more than , Roubinet reached Greenland on September 9, 2007, thereby completing the first Northwest Passage voyage made in one season without engine.[76]
 
-NWPDX.tif In April 2009, planetary scientist Pascal Lee and a team of four on the Northwest Passage Drive Expedition drove the HMP _Okarian_ Humvee rover a record-setting on sea-ice from Kugluktuk to Cambridge Bay, Nunavut, the longest distance driven on sea-ice in a road vehicle. The HMP _Okarian_ was being ferried from the North American mainland to the Haughton–Mars Project (HMP) Research Station on Devon Island, where it would be used as a simulator of future pressurized rovers for astronauts on the Moon and Mars. The HMP _Okarian_ was eventually flown from Cambridge Bay to Resolute Bay in May 2009, and then driven again on sea-ice by Lee and a team of five from Resolute to the West coast of Devon Island in May 2010.[77][78] The HMP _Okarian_ reached the HMP Research Station in July 2011. The Northwest Passage Drive Expedition is captured in the motion picture documentary film _Passage To Mars_ (2016).[79]
+In April 2009, planetary scientist Pascal Lee and a team of four on the Northwest Passage Drive Expedition drove the HMP _Okarian_ Humvee rover a record-setting on sea-ice from Kugluktuk to Cambridge Bay, Nunavut, the longest distance driven on sea-ice in a road vehicle. The HMP _Okarian_ was being ferried from the North American mainland to the Haughton–Mars Project (HMP) Research Station on Devon Island, where it would be used as a simulator of future pressurized rovers for astronauts on the Moon and Mars. The HMP _Okarian_ was eventually flown from Cambridge Bay to Resolute Bay in May 2009, and then driven again on sea-ice by Lee and a team of five from Resolute to the West coast of Devon Island in May 2010.[77][78] The HMP _Okarian_ reached the HMP Research Station in July 2011. The Northwest Passage Drive Expedition is captured in the motion picture documentary film _Passage To Mars_ (2016).[79]
 
 In 2009, sea ice conditions were such that at least nine small vessels and two cruise ships completed the transit of the Northwest Passage. These trips included one by Eric Forsyth[80] on board the Westsail sailboat _Fiona_, a boat he built in the 1980s. Self-financed, Forsyth, a retired engineer from the Brookhaven National Laboratory, and winner of the Cruising Club of America's Blue Water Medal, sailed the Canadian Archipelago with sailor Joey Waits, airline captain Russ Roberts and carpenter David Wilson.[81] After successfully sailing the Passage, the 77-year-old Forsyth completed the circumnavigation of North America, returning to his home port on Long Island, New York.
 
@@ -253,7 +253,7 @@ On July 10, 2007, Rear Admiral Timothy McGee of the United States Navy and Rear 
 
 Thinning ice cover and the Northwest Passage
 
-2007_Arctic_Sea_Ice.jpg as of 2007 compared to previous years]] In the summer of 2000, two Canadian ships took advantage of thinning summer ice cover on the Arctic Ocean to make the crossing.[122] It is thought that climate change is likely to open the passage for increasing periods, making it potentially attractive as a major shipping route. However, the passage through the Arctic Ocean would require significant investment in escort vessels and staging ports, and it would remain seasonal. Therefore, the Canadian commercial marine transport industry does not anticipate the route as a viable alternative to the Panama Canal within the next 10 to 20 years (as of 2004).[123] On September 14, 2007, the European Space Agency stated that ice loss that year had opened up the historically impassable passage, setting a new low of ice cover as seen in satellite measurements which went back to 1978. According to the Arctic Climate Impact Assessment, the latter part of the 20th century and the start of the 21st had seen marked shrinkage of ice cover. The extreme loss in 2007 rendered the passage "fully navigable".[124][125] However, the ESA study was based only on analysis of satellite images and could in practice not confirm anything about the actual navigation of the waters of the passage. ESA suggested the passage would be navigable "during reduced ice cover by multi-year ice pack" (namely sea ice surviving one or more summers) where previously any traverse of the route had to be undertaken during favourable seasonable climatic conditions or by specialist vessels or expeditions. The agency's report speculated that the conditions prevalent in 2007 had shown the passage may "open" sooner than expected.[126] An expedition in May 2008 reported that the passage was not yet continuously navigable even by an icebreaker and not yet ice-free.[127]
+as of 2007 compared to previous years]] In the summer of 2000, two Canadian ships took advantage of thinning summer ice cover on the Arctic Ocean to make the crossing.[122] It is thought that climate change is likely to open the passage for increasing periods, making it potentially attractive as a major shipping route. However, the passage through the Arctic Ocean would require significant investment in escort vessels and staging ports, and it would remain seasonal. Therefore, the Canadian commercial marine transport industry does not anticipate the route as a viable alternative to the Panama Canal within the next 10 to 20 years (as of 2004).[123] On September 14, 2007, the European Space Agency stated that ice loss that year had opened up the historically impassable passage, setting a new low of ice cover as seen in satellite measurements which went back to 1978. According to the Arctic Climate Impact Assessment, the latter part of the 20th century and the start of the 21st had seen marked shrinkage of ice cover. The extreme loss in 2007 rendered the passage "fully navigable".[124][125] However, the ESA study was based only on analysis of satellite images and could in practice not confirm anything about the actual navigation of the waters of the passage. ESA suggested the passage would be navigable "during reduced ice cover by multi-year ice pack" (namely sea ice surviving one or more summers) where previously any traverse of the route had to be undertaken during favourable seasonable climatic conditions or by specialist vessels or expeditions. The agency's report speculated that the conditions prevalent in 2007 had shown the passage may "open" sooner than expected.[126] An expedition in May 2008 reported that the passage was not yet continuously navigable even by an icebreaker and not yet ice-free.[127]
 
 Scientists at a meeting of the American Geophysical Union on December 13, 2007, revealed that NASA satellites observing the western Arctic showed a 16% decrease in cloud coverage during the summer of 2007 compared to 2006. This would have the effect of allowing more sunlight to penetrate Earth's atmosphere and warm the Arctic Ocean waters, thus melting sea ice and contributing to the opening the Northwest Passage.[128]
 

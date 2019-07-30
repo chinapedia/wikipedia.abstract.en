@@ -1,4 +1,4 @@
-La-map.png Laos_2003_CIA_map.jpg LAOS is an independent republic, and a landlocked nation in Southeast Asia, northeast of Thailand, west of Vietnam. It covers 236,800 square kilometers in the center of the Southeast Asian peninsula and it is surrounded by Myanmar (Burma), Cambodia, the People's Republic of China, Thailand, and Vietnam. About seventy percent of its geographic area is made up of mountain ranges, highlands, plateaux, and rivers cut through.
+LAOS is an independent republic, and a landlocked nation in Southeast Asia, northeast of Thailand, west of Vietnam. It covers 236,800 square kilometers in the center of the Southeast Asian peninsula and it is surrounded by Myanmar (Burma), Cambodia, the People's Republic of China, Thailand, and Vietnam. About seventy percent of its geographic area is made up of mountain ranges, highlands, plateaux, and rivers cut through.
 
 Its location has often made it a buffer state between more powerful neighboring states, as well as a crossroads for trade and communication. Migration and international conflict have contributed to the present ethnic composition of the country and to the geographic distribution of its ethnic groups.
 
@@ -34,7 +34,7 @@ List of mountains in Laos
 
 Climate
 
-Koppen-Geiger_Map_LAO_present.svg Climate_Vientiane.svg.]]
+.]]
 
 Laos has a tropical monsoon climate, with a pronounced rainy season from May through October, a cool dry season from November through February, and a hot dry season in March and April. Generally, monsoons occur at the same time across the country, although that time may vary significantly from one year to the next.
 
@@ -80,7 +80,7 @@ Residents in the lower lands and villages of smaller river banks have traditiona
 
 Natural resources
 
-Fires_in_Burma,_Thailand,_Laos,_and_Vietnam.jpg Thailand, Laos, and Vietnam (labelled with red dots).]]
+Thailand, Laos, and Vietnam (labelled with red dots).]]
 
 Expanding commercial exploitation of forests, plans for additional hydroelectric facilities, foreign demands for wild animals and nonwood forest products for food and traditional medicines, and a growing population have brought new and increasing attention to the forests. Traditionally, forests have been important sources of wild foods, herbal medicines, and timber for house construction.
 
@@ -127,7 +127,7 @@ Funded by the German government through the KfW development bank, the GIZ CliPAD
 
 Area and boundaries
 
-Luang_Prabang_Phou_Si_2.jpg, Laos]]
+, Laos]]
 
 AREA:
 _total:_ 236,800 km²

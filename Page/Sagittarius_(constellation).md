@@ -1,11 +1,11 @@
-'''Sagittarius '''is one of the constellations of the zodiac. It is one of the 48 constellations listed by the 2nd-century astronomer Ptolemy and remains one of the 88 modern constellations. Its name is Latin for the archer, and its symbol is Sagittarius.svg (Unicode ♐), a stylized arrow. Sagittarius is commonly represented as a centaur pulling back a bow. It lies between Scorpius and Ophiuchus to the west and Capricornus and Microscopium to the east.
+'''Sagittarius '''is one of the constellations of the zodiac. It is one of the 48 constellations listed by the 2nd-century astronomer Ptolemy and remains one of the 88 modern constellations. Its name is Latin for the archer, and its symbol is (Unicode ♐), a stylized arrow. Sagittarius is commonly represented as a centaur pulling back a bow. It lies between Scorpius and Ophiuchus to the west and Capricornus and Microscopium to the east.
 
 The center of the Milky Way lies in the westernmost part of Sagittarius (see Sagittarius A).
 
 
 Visualizations
 
-Sagittarius-teapot-asterism.jpg As seen from the northern hemisphere, the constellation's brighter stars form an easily recognizable asterism known as "the Teapot". The stars δ Sgr (Kaus Media), ε Sgr (Kaus Australis), ζ Sgr (Ascella), and φ Sgr form the body of the pot; λ Sgr (Kaus Borealis) is the point of the lid; γ² Sgr (Alnasl) is the tip of the spout; and σ Sgr (Nunki) and τ Sgr the handle. These same stars originally formed the bow and arrow of Sagittarius.[1]
+As seen from the northern hemisphere, the constellation's brighter stars form an easily recognizable asterism known as "the Teapot". The stars δ Sgr (Kaus Media), ε Sgr (Kaus Australis), ζ Sgr (Ascella), and φ Sgr form the body of the pot; λ Sgr (Kaus Borealis) is the point of the lid; γ² Sgr (Alnasl) is the tip of the spout; and σ Sgr (Nunki) and τ Sgr the handle. These same stars originally formed the bow and arrow of Sagittarius.[1]
 
 Marking the bottom of the teapot's "handle" (or the shoulder area of the archer), is the bright star (2.59 magnitude) Zeta Sagittarii (ζ Sgr), named Ascella, and the fainter Tau Sagittarii (τ Sgr).
 
@@ -15,14 +15,12 @@ The constellation as a whole is often depicted as having the rough appearance of
 
 Sagittarius is one of the prominent features of the summer skies in the northern hemisphere although in Europe north of the Pyrenees it drags very low along the horizon and can be difficult to see clearly. In Scotland and Scandinavia it cannot be seen at all. In southern Brazil, South Africa, and central Australia (30° south), Sagittarius passes directly overhead. It is hidden behind the Sun's glare from mid-November to mid-January and is the location of the Sun at the winter solstice (December 21). By March, Sagittarius is rising at midnight. In June, it achieves opposition and can be seen all night. The June full moon appears in Sagittarius.
 
-Sagittarius_region_.jpg
-
 
 Notable features
 
 Stars
 
-SagittariusCC.jpg.]] α Sgr (Rukbat, meaning "the archer's knee"[4]) despite having the "alpha" designation, is not the brightest star of the constellation, having a magnitude of only 3.96. It is towards the bottom center of the map as shown. Instead, the brightest star is Epsilon Sagittarii (ε Sgr) ("Kaus Australis," or "southern part of the bow"), at magnitude 1.85.[5]
+.]] α Sgr (Rukbat, meaning "the archer's knee"[4]) despite having the "alpha" designation, is not the brightest star of the constellation, having a magnitude of only 3.96. It is towards the bottom center of the map as shown. Instead, the brightest star is Epsilon Sagittarii (ε Sgr) ("Kaus Australis," or "southern part of the bow"), at magnitude 1.85.[5]
 
 Sigma Sagittarii (σ Sgr) ("Nunki") is the constellation's second-brightest star at magnitude 2.08. Nunki is a B2V star approximately 260 light years away.[6] "Nunki" is a Babylonian name of uncertain origin, but thought to represent the sacred Babylonian city of Eridu on the Euphrates, which would make Nunki the oldest star name currently in use.[7]
 
@@ -38,7 +36,7 @@ Nova Sagittarii 2015 No. 2 was discovered on 15 March 2015,[12] by of Chatsworth
 
 Deep-sky objects
 
-Omega_Nebula.jpg The Milky Way is at its densest near Sagittarius, as this is where the galactic center lies. As a result, Sagittarius contains many star clusters and nebulae.
+The Milky Way is at its densest near Sagittarius, as this is where the galactic center lies. As a result, Sagittarius contains many star clusters and nebulae.
 
 Nebulae
 
@@ -58,7 +56,7 @@ In addition, several other nebulae have been located within Sagittarius and are 
 
 Other deep sky objects
 
-Messier_54_HST.jpg was the first globular cluster found that is outside the Milky Way.[17] ]]
+was the first globular cluster found that is outside the Milky Way.[17] ]]
 
 In 1999 a violent outburst at V4641 Sgr was thought to have revealed the location of the closest known black hole to Earth,[18] but later investigation increased its estimated distance by a factor of 15.[19] The complex radio source Sagittarius A is also in Sagittarius, near its western boundary with Ophiuchus. Astronomers believe that one of its components, known as Sagittarius A*, is associated with a supermassive black hole at the center of the galaxy, with a mass of 2.6 million solar masses. The Sagittarius Dwarf Elliptical Galaxy is located just outside the Milky Way.
 
@@ -76,7 +74,7 @@ The Wow! signal was a strong narrowband radio signal that appeared to have come 
 
 Mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Sagittarius_and_Corona_Australis,_Microscopium,_and_Telescopium.jpg'', a set of constellation cards published in London c.1825]] The Babylonians identified Sagittarius as the god Nergal, a strange centaur-like creature firing an arrow from a bow.[22] It is generally depicted with wings, with two heads, one panther head and one human head, as well as a scorpion's stinger raised above its more conventional horse's tail. The Sumerian name Pabilsag is composed of two elements – Pabil, meaning 'elder paternal kinsman' and Sag, meaning 'chief, head'. The name may thus be translated as the 'Forefather' or 'Chief Ancestor'.[23] The figure is reminiscent of modern depictions of Sagittarius.
+'', a set of constellation cards published in London c.1825]] The Babylonians identified Sagittarius as the god Nergal, a strange centaur-like creature firing an arrow from a bow.[22] It is generally depicted with wings, with two heads, one panther head and one human head, as well as a scorpion's stinger raised above its more conventional horse's tail. The Sumerian name Pabilsag is composed of two elements – Pabil, meaning 'elder paternal kinsman' and Sag, meaning 'chief, head'. The name may thus be translated as the 'Forefather' or 'Chief Ancestor'.[23] The figure is reminiscent of modern depictions of Sagittarius.
 
 Greek mythology
 

@@ -5,7 +5,7 @@ He first gained worldwide fame in three Orson Welles films: _Citizen Kane_ (1941
 
 Early life
 
-Jo-Cotten-American-FC-1931.jpg'' (September 1931)]] Joseph Cotten was born in 1905 in Petersburg, Virginia, the first of three sons born to Joseph Cheshire Cotten, Sr., an assistant postmaster, and Sally Willson Cotten.[1] He grew up in the Tidewater region and showed an aptitude for drama and a gift for storytelling.
+'' (September 1931)]] Joseph Cotten was born in 1905 in Petersburg, Virginia, the first of three sons born to Joseph Cheshire Cotten, Sr., an assistant postmaster, and Sally Willson Cotten.[1] He grew up in the Tidewater region and showed an aptitude for drama and a gift for storytelling.
 
 In 1923, when Cotten was 18, his family arranged for him to receive private lessons at the Hickman School of Expression in Washington, D.C., and underwrote his expenses.[2]
 
@@ -108,7 +108,7 @@ Cotten had another success on Broadway when he appeared in _Once More, With Feel
 
 1960s
 
-Joseph_Cotten_&_Patricia_Medina.jpg In 1960, Cotten married British actress Patricia Medina after his first wife, Lenore Kipp, died of leukemia earlier in the year.[40] [41]
+In 1960, Cotten married British actress Patricia Medina after his first wife, Lenore Kipp, died of leukemia earlier in the year.[40] [41]
 
 Cotten had a supporting role in the films _The Angel Wore Red_ (1960) and _The Last Sunset_ (1961), the latter directed by Robert Aldrich, and guest starred on _The DuPont Show with June Allyson_, _Checkmate_, _The Barbara Stanwyck Show_, _Bus Stop_, _Theatre '62_ (an adaptation of _Notorious_), _Dr. Kildare_, _Wagon Train_, and _Saints and Sinners_.
 

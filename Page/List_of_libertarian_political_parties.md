@@ -1,4 +1,4 @@
-Interlibertarians_world_membership_map.svg Many countries and subnational political entities have libertarian parties. Although these parties may describe themselves as libertarian, their ideologies differ considerably and not all of them support all elements of libertarianism. For instance, most of these political parties are right-libertarians as left-libertarianism takes a different approach, generally opposing electoral politics and political parties themselves.
+Many countries and subnational political entities have libertarian parties. Although these parties may describe themselves as libertarian, their ideologies differ considerably and not all of them support all elements of libertarianism. For instance, most of these political parties are right-libertarians as left-libertarianism takes a different approach, generally opposing electoral politics and political parties themselves.
 
 
 By country

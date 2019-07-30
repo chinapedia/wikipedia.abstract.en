@@ -99,7 +99,7 @@ The recurring character "Rambam", a New York private investigator and friend of 
 
 Politics
 
-Kinky_friedman_2006.jpg during the 2006 Texas gubernatorial campaign.]] In 1986, Friedman ran for Justice of the Peace in Kerrville, Texas, as a Republican but lost the election.[25]
+during the 2006 Texas gubernatorial campaign.]] In 1986, Friedman ran for Justice of the Peace in Kerrville, Texas, as a Republican but lost the election.[25]
 
 In 2004, Friedman began an ostensibly serious, though colorful, campaign to become the Governor of Texas in 2006. One of his stated goals is the "dewussification" of Texas.[26] Among his campaign slogans were "How Hard Could It Be?", "Why The Hell Not?", "My Governor is a Jewish Cowboy", and "He ain't Kinky, he's my Governor"[27] (cf. "He Ain't Heavy, He's My Brother").
 
@@ -125,7 +125,7 @@ According to _Cigar Aficionado_ magazine, Friedman plans to roll back "any and a
 
 Further political activities
 
-Kinky_Friedman.jpg On August 9, 2007, the _Austin American-Statesman_ reported that Friedman was considering another run for governor of Texas in 2010. "I'm open to running", Friedman said, adding that he wouldn't make a final decision until after the 2008 elections.[44] On February 10, 2009, Friedman confirmed to the Associated Press that he was still interested in running.[45]
+On August 9, 2007, the _Austin American-Statesman_ reported that Friedman was considering another run for governor of Texas in 2010. "I'm open to running", Friedman said, adding that he wouldn't make a final decision until after the 2008 elections.[44] On February 10, 2009, Friedman confirmed to the Associated Press that he was still interested in running.[45]
 
 In an August 23, 2007 interview with the _Fort Worth Star-Telegram_ and a February 10, 2009 interview with the Associated Press, Friedman stated that if he did run in 2010, he would run as a Democrat, citing that "God probably couldn't have won as an Independent" and that he was a Democrat all his life.[46]
 

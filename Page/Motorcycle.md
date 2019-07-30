@@ -1,4 +1,4 @@
-Norton_Motorcycle.jpg motorcycle]] Lambretta_125_D_1952_a.jpg]] A MOTORCYCLE, often called a BIKE, MOTORBIKE, or CYCLE, is a two- or three-wheeled motor vehicle.[1] Motorcycle design varies greatly to suit a range of different purposes: long distance travel, commuting, cruising, sport including racing, and off-road riding. Motorcycling is riding a motorcycle and related social activity such as joining a motorcycle club and attending motorcycle rallies.
+motorcycle]] ]] A MOTORCYCLE, often called a BIKE, MOTORBIKE, or CYCLE, is a two- or three-wheeled motor vehicle.[1] Motorcycle design varies greatly to suit a range of different purposes: long distance travel, commuting, cruising, sport including racing, and off-road riding. Motorcycling is riding a motorcycle and related social activity such as joining a motorcycle club and attending motorcycle rallies.
 
 In 1894, Hildebrand & Wolfmüller became the first series production motorcycle, and the first to be called a motorcycle. In 2014, the three top motorcycle producers globally by volume were Honda, Yamaha (both from Japan), and Hero MotoCorp (India).[2]
 
@@ -9,7 +9,7 @@ According to the US Department of Transportation the number of fatalities per ve
 
 Types
 
-2009-02-14_Kawasaki_Vulcan_900_Custom_and_Yamaha_FZ6.jpg (front) and a sportbike (background)]] URAL650-SPORTSMAN.jpg motorcycle with a sidecar ]] Gendarmerie_motor_officer_raising_arm_in_traffic.jpg motorcyclist]]
+(front) and a sportbike (background)]] motorcycle with a sidecar ]] motorcyclist]]
 
 The term motorcycle has different legal definitions depending on jurisdiction (see #Legal definitions and restrictions).
 
@@ -26,11 +26,11 @@ History
 
 Experimentation and invention
 
-Daimler-1-motorcycle-1.jpg The first internal combustion, petroleum fueled motorcycle was the Daimler _Reitwagen_. It was designed and built by the German inventors Gottlieb Daimler and Wilhelm Maybach in Bad Cannstatt, Germany in 1885.[4] This vehicle was unlike either the safety bicycles or the boneshaker bicycles of the era in that it had zero degrees of steering axis angle and no fork offset, and thus did not use the principles of bicycle and motorcycle dynamics developed nearly 70 years earlier. Instead, it relied on two outrigger wheels to remain upright while turning.
+The first internal combustion, petroleum fueled motorcycle was the Daimler _Reitwagen_. It was designed and built by the German inventors Gottlieb Daimler and Wilhelm Maybach in Bad Cannstatt, Germany in 1885.[4] This vehicle was unlike either the safety bicycles or the boneshaker bicycles of the era in that it had zero degrees of steering axis angle and no fork offset, and thus did not use the principles of bicycle and motorcycle dynamics developed nearly 70 years earlier. Instead, it relied on two outrigger wheels to remain upright while turning.
 
 The inventors called their invention the _Reitwagen_ ("riding car"). It was designed as an expedient testbed for their new engine, rather than a true prototype vehicle.
 
-Butler's_Patent_Velocycle.jpg The first commercial design for a self-propelled cycle was a three-wheel design called the Butler Petrol Cycle, conceived of Edward Butler in England in 1884.[5] He exhibited his plans for the vehicle at the Stanley Cycle Show in London in 1884. The vehicle was built by the Merryweather Fire Engine company in Greenwich, in 1888.
+The first commercial design for a self-propelled cycle was a three-wheel design called the Butler Petrol Cycle, conceived of Edward Butler in England in 1884.[5] He exhibited his plans for the vehicle at the Stanley Cycle Show in London in 1884. The vehicle was built by the Merryweather Fire Engine company in Greenwich, in 1888.
 
 The Butler Petrol Cycle was a three-wheeled vehicle, with the rear wheel directly driven by a , displacement, bore × stroke, flat twin four-stroke engine (with magneto ignition replaced by coil and battery) equipped with rotary valves and a float-fed carburettor (five years before Maybach) and Ackermann steering, all of which were state of the art at the time. Starting was by compressed air. The engine was liquid-cooled, with a radiator over the rear driving wheel. Speed was controlled by means of a throttle valve lever. No braking system was fitted; the vehicle was stopped by raising and lowering the rear driving wheel using a foot-operated lever; the weight of the machine was then borne by two small castor wheels. The driver was seated between the front wheels. It wasn't, however, a success, as Butler failed to find sufficient financial backing.
 
@@ -60,7 +60,7 @@ Summary of early inventions
 
 First motorcycle companies
 
-1894_Hildebrand_&_Wolfmüller_diagram.png In 1894, Hildebrand & Wolfmüller became the first series production motorcycle, and the first to be called a motorcycle ().[10] Excelsior Motor Company, originally a bicycle manufacturing company based in Coventry, England, began production of their first motorcycle model in 1896. The first production motorcycle in the US was the Orient-Aster, built by Charles Metz in 1898 at his factory in Waltham, Massachusetts.
+In 1894, Hildebrand & Wolfmüller became the first series production motorcycle, and the first to be called a motorcycle ().[10] Excelsior Motor Company, originally a bicycle manufacturing company based in Coventry, England, began production of their first motorcycle model in 1896. The first production motorcycle in the US was the Orient-Aster, built by Charles Metz in 1898 at his factory in Waltham, Massachusetts.
 
 In the early period of motorcycle history, many producers of bicycles adapted their designs to accommodate the new internal combustion engine. As the engines became more powerful and designs outgrew the bicycle origins, the number of motorcycle producers increased. Many of the nineteenth century inventors who worked on early motorcycles often moved on to other inventions. Daimler and Roper, for example, both went on to develop automobiles.
 
@@ -68,7 +68,7 @@ At the end of the 19th century the first major mass-production firms were set up
 
 First World War
 
-Triumph_1922_H_1.jpg Model H, mass-produced for the war effort and notable for its reliability]] During the First World War, motorbike production was greatly ramped up for the war effort to supply effective communications with front line troops. Messengers on horses were replaced with despatch riders on motorcycles carrying messages, performing reconnaissance and acting as a military police. American company Harley-Davidson was devoting over 50% of its factory output toward military contract by the end of the war. The British company Triumph Motorcycles sold more than 30,000 of its Triumph Type H model to allied forces during the war. With the rear wheel driven by a belt, the Model H was fitted with a air-cooled four-stroke single-cylinder engine. It was also the first Triumph without pedals.[14]
+Model H, mass-produced for the war effort and notable for its reliability]] During the First World War, motorbike production was greatly ramped up for the war effort to supply effective communications with front line troops. Messengers on horses were replaced with despatch riders on motorcycles carrying messages, performing reconnaissance and acting as a military police. American company Harley-Davidson was devoting over 50% of its factory output toward military contract by the end of the war. The British company Triumph Motorcycles sold more than 30,000 of its Triumph Type H model to allied forces during the war. With the rear wheel driven by a belt, the Model H was fitted with a air-cooled four-stroke single-cylinder engine. It was also the first Triumph without pedals.[14]
 
 The Model H in particular, is regarded by many as having been the first "modern motorcycle".[15] Introduced in 1915 it had a 550 cc side-valve four-stroke engine with a three-speed gearbox and belt transmission. It was so popular with its users that it was nicknamed the "Trusty Triumph".[16]
 
@@ -76,7 +76,7 @@ Postwar
 
 By 1920, Harley-Davidson was the largest manufacturer,[17] with their motorcycles being sold by dealers in 67 countries.[18][19] By the late 1920s or early 1930s, DKW in Germany took over as the largest manufacturer.[20]
 
-ZweiRadMuseumNSU_NSU-SportMax_1955.JPG]]
+]]
 
 In the 1950s, streamlining began to play an increasing part in the development of racing motorcycles and the "dustbin fairing" held out the possibility of radical changes to motorcycle design. NSU and Moto Guzzi were in the vanguard of this development, both producing very radical designs well ahead of their time. NSU produced the most advanced design, but after the deaths of four NSU riders in the 1954–1956 seasons, they abandoned further development and quit Grand Prix motorcycle racing.[21]
 
@@ -86,12 +86,12 @@ From the 1960s through the 1990s, small two-stroke motorcycles were popular worl
 
 Today
 
-Royal_Enfield_Bullet,_Rewalsar_2010.jpg]] In the 21st century, the motorcycle industry is mainly dominated by the Indian motorcycle industry and by Japanese motorcycle companies. In addition to the large capacity motorcycles, there is a large market in smaller capacity (less than 300 cc) motorcycles, mostly concentrated in Asian and African countries and produced in China and India. A Japanese example is the 1958 Honda Super Cub, which went on to become the biggest selling vehicle of all time, with its 60 millionth unit produced in April 2008.[24] Today, this area is dominated by mostly Indian companies with Hero MotoCorp emerging as the world's largest manufacturer of two wheelers. Its Splendor model has sold more than 8.5 million to date.[25] Other major producers are Bajaj and TVS Motors.[26]
+]] In the 21st century, the motorcycle industry is mainly dominated by the Indian motorcycle industry and by Japanese motorcycle companies. In addition to the large capacity motorcycles, there is a large market in smaller capacity (less than 300 cc) motorcycles, mostly concentrated in Asian and African countries and produced in China and India. A Japanese example is the 1958 Honda Super Cub, which went on to become the biggest selling vehicle of all time, with its 60 millionth unit produced in April 2008.[24] Today, this area is dominated by mostly Indian companies with Hero MotoCorp emerging as the world's largest manufacturer of two wheelers. Its Splendor model has sold more than 8.5 million to date.[25] Other major producers are Bajaj and TVS Motors.[26]
 
 
 Technical aspects
 
-1997SuzukiGS500E-001.jpg with a clearly visible frame, painted silver ]]
+with a clearly visible frame, painted silver ]]
 
 Construction
 
@@ -111,8 +111,6 @@ A 2013 survey of 4,424 readers of the US _Consumer Reports_ magazine collected r
 
 Dynamics
 
-Motorcycle_racing.jpg
-
 Different types of motorcycles have different dynamics and these play a role in how a motorcycle performs in given conditions. For example, one with a longer wheelbase provides the feeling of more stability by responding less to disturbances. Motorcycle tyres have a large influence over handling.
 
 Motorcycles must be leaned in order to make turns. This lean is induced by the method known as countersteering, in which the rider momentarily steers the handlebars in the direction opposite of the desired turn. This practice is counterintuitive and therefore often confusing to novices and even many experienced motorcyclists.[40][41][42]
@@ -126,15 +124,15 @@ Various features and accessories may be attached to a motorcycle either as OEM (
 
 Safety
 
-Modular-helmet.jpg Motorcycles have a higher rate of fatal accidents than automobiles or trucks and buses. United States Department of Transportation data for 2005 from the Fatality Analysis Reporting System show that for passenger cars, 18.62 fatal crashes occur per 100,000 registered vehicles. For motorcycles this figure is higher at 75.19 per 100,000 registered vehicles four times higher than for cars.[43] The same data shows that 1.56 fatalities occur per 100 million vehicle miles travelled for passenger cars, whereas for motorcycles the figure is 43.47 which is 28 times higher than for cars (37 times more deaths per mile travelled in 2007).[44] Furthermore, for motorcycles the accident rates have increased significantly since the end of the 1990s, while the rates have dropped for passenger cars.
+Motorcycles have a higher rate of fatal accidents than automobiles or trucks and buses. United States Department of Transportation data for 2005 from the Fatality Analysis Reporting System show that for passenger cars, 18.62 fatal crashes occur per 100,000 registered vehicles. For motorcycles this figure is higher at 75.19 per 100,000 registered vehicles four times higher than for cars.[43] The same data shows that 1.56 fatalities occur per 100 million vehicle miles travelled for passenger cars, whereas for motorcycles the figure is 43.47 which is 28 times higher than for cars (37 times more deaths per mile travelled in 2007).[44] Furthermore, for motorcycles the accident rates have increased significantly since the end of the 1990s, while the rates have dropped for passenger cars.
 
 The most common configuration of motorcycle accidents in the United States is when a motorist pulls out or turns in front of a motorcyclist, violating their right-of-way.[45] This is sometimes called a , an acronym formed from the motorists' common response of "Sorry mate, I didn't see you".[46] Motorcyclists can anticipate and avoid some of these crashes with proper training, increasing their visibility to other traffic, keeping to the speed limits, and not consuming alcohol or other drugs before riding.[47]
 
-Five_children_on_a_motorcycle.jpg The United Kingdom has several organisations dedicated to improving motorcycle safety by providing advanced rider training beyond what is necessary to pass the basic motorcycle licence test. These include the Institute of Advanced Motorists (IAM) and the Royal Society for the Prevention of Accidents (RoSPA). Along with increased personal safety, riders with these advanced qualifications may benefit from reduced insurance costs [48]
+The United Kingdom has several organisations dedicated to improving motorcycle safety by providing advanced rider training beyond what is necessary to pass the basic motorcycle licence test. These include the Institute of Advanced Motorists (IAM) and the Royal Society for the Prevention of Accidents (RoSPA). Along with increased personal safety, riders with these advanced qualifications may benefit from reduced insurance costs [48]
 
 In South Africa, the Think Bike campaign is dedicated to increasing both motorcycle safety and the awareness of motorcycles on the country's roads. The campaign, while strongest in the Gauteng province, has representation in Western Cape, KwaZulu Natal and the Free State. It has dozens of trained marshals available for various events such as cycle races and is deeply involved in numerous other projects such as the annual Motorcycle Toy Run.[49]
 
-Action-w.jpg Motorcycle safety education is offered throughout the United States by organisations ranging from state agencies to non-profit organisations to corporations. Most states use the courses designed by the Motorcycle Safety Foundation (MSF), while Oregon and Idaho developed their own. All of the training programs include a Basic Rider Course, an Intermediate Rider Course and an Advanced Rider Course.
+Motorcycle safety education is offered throughout the United States by organisations ranging from state agencies to non-profit organisations to corporations. Most states use the courses designed by the Motorcycle Safety Foundation (MSF), while Oregon and Idaho developed their own. All of the training programs include a Basic Rider Course, an Intermediate Rider Course and an Advanced Rider Course.
 
 In Ireland, since 2010,[50] in the UK and some Australian jurisdictions, such as Victoria, New South Wales,[51] the Australian Capital Territory,[52] Tasmania[53] and the Northern Territory,[54] it is compulsory to complete a basic rider training course before being issued a Learners Licence, after which they can ride on public roads.
 
@@ -143,7 +141,7 @@ In Canada, motorcycle rider training is compulsory in Quebec and Manitoba only, 
 
 Motorcycle rider postures
 
-BMWC1-050918_P1030877.jpg JSH314.JPG The motorcyclist's riding position depends on rider body-geometry (anthropometry) combined with the geometry of the motorcycle itself. These factors create a set of three basic postures.[56]
+The motorcyclist's riding position depends on rider body-geometry (anthropometry) combined with the geometry of the motorcycle itself. These factors create a set of three basic postures.[56]
 
 -   Sport the rider leans forward into the wind and the weight of the upper torso is supported by the rider's core at low speed and air pressure at high speed. The footpegs are below the rider or to the rear. The reduced frontal area cuts wind resistance and allows higher speeds. At low-speed in this position the rider's arms may bear some of the weight of the rider's torso, which can be problematic.
 

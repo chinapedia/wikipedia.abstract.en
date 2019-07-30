@@ -1,10 +1,10 @@
-MontySpam.jpg (behind counter), Eric Idle, Graham Chapman and the Vikings in the Monty Python sketch "Spam"]]
+(behind counter), Eric Idle, Graham Chapman and the Vikings in the Monty Python sketch "Spam"]]
 
 "SPAM" is a Monty Python sketch, first televised in 1970 and written by Terry Jones and Michael Palin. In the sketch, two customers are lowered by wires into a greasy spoon café and try to order a breakfast from a menu that includes Spam in almost every dish, much to the consternation of one of the customers.
 
 The televised sketch and several subsequent performances feature Terry Jones as the Waitress, Eric Idle as Mr. Bun and Graham Chapman as Mrs. Bun, who does not like Spam. The original sketch also featured John Cleese as The Hungarian and Michael Palin as a historian, but this part was left out of the audio version of the sketch recorded for the team's second album _Another Monty Python Record_ in 1971. A year later this track was released as the Pythons' first 7" single.
 
-Monty_Python_Live_02-07-14_13_05_04_(14415402659).jpg in 2014]] The term _spam_ in the context of electronic communications is derived from this sketch.[1]
+in 2014]] The term _spam_ in the context of electronic communications is derived from this sketch.[1]
 
 
 Plot
@@ -32,8 +32,6 @@ Spam was a popular food during World War II in the UK. Although rationed, it was
 
 
 Menu
-
-Monty_Python_Live_02-07-14_13_04_42_(14598710791).jpg
 
 -   Egg and bacon
 -   Egg, sausage and bacon

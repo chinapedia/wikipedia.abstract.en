@@ -7,7 +7,7 @@ There is almost no information about John's life. There is in existence an ancie
 
 Of John's literary output we know only the _Κλῖμαξ_ () or _Ladder of Divine Ascent_, composed in the early seventh century at the request of John,[3] Abbot of Raithu, a monastery situated on the shores of the Red Sea, and a shorter work _To the Pastor_ (Latin: _Liber ad Pastorem_), most likely a sort of appendix to the _Ladder._ It is in the _Ladder_' that we hear of the ascetic practice of carrying a small notebook to record the thoughts of the monk during contemplation.[4]
 
-The_Ladder_of_Divine_Ascent_Monastery_of_St_Catherine_Sinai_12th_century.jpg'', with other monks following him, 12th century icon (Saint Catherine's Monastery, Mount Sinai, Egypt).]]
+'', with other monks following him, 12th century icon (Saint Catherine's Monastery, Mount Sinai, Egypt).]]
 
 The _Ladder_ describes how to raise one's soul and body to God through the acquisition of ascetic virtues. Climacus uses the analogy of Jacob's Ladder as the framework for his spiritual teaching. Each chapter is referred to as a "step", and deals with a separate spiritual subject. There are thirty Steps of the ladder, which correspond to the age of Jesus at his baptism and the beginning of his earthly ministry. Within the general framework of a 'ladder', Climacus' book falls into three sections. The first seven Steps concern general virtues necessary for the ascetic life, while the next nineteen (Steps 8–26) give instruction on overcoming vices and building their corresponding virtues. The final four Steps concern the higher virtues toward which the ascetic life aims. The final rung of the ladder—beyond prayer (προσευχή), stillness (ἡσυχία), and even dispassion (ἀπάθεια)—is love (ἀγάπη).
 

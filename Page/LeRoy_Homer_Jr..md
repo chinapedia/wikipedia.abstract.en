@@ -15,14 +15,14 @@ Homer continued his military career as a member of the U.S. Air Force Reserve, i
 
 He continued his flying career by joining United Airlines in May 1995. His first assignment was Second Officer on the Boeing 727. He then upgraded to First Officer on the Boeing 757/Boeing 767 in 1996, where he remained until September 11, 2001.
 
-He married his wife, Melodie, on May 24, 1998, and his first child, Laurel, was born in late November 2000. They resided together in Marlton, New Jersey.[3] 4.28.12LeRoyWHomerPanelS-67ByLuigiNovi1.jpg's South Pool, along with those of other passengers and crew of Flight 93.]]
+He married his wife, Melodie, on May 24, 1998, and his first child, Laurel, was born in late November 2000. They resided together in Marlton, New Jersey.[3] 's South Pool, along with those of other passengers and crew of Flight 93.]]
 
 
 September 11 attacks
 
 On September 11, 2001, Homer was flying with Captain Jason M. Dahl on United Airlines Flight 93 from Newark, New Jersey, to San Francisco. The plane was hijacked by four al-Qaeda terrorists as part of the September 11 attacks. Homer and Dahl struggled with the hijackers, which was transmitted to Air Traffic Control.
 
-After learning of the earlier crashes at the World Trade Center and the Pentagon, the crew and passengers attempted to foil the hijacking and reclaim the aircraft. Given the uprising of crew and passengers, and knowing they would not make it to their intended target, which was the US Capitol, they instead chose to crash the plane into a field near Shanksville, Pennsylvania. Melodie_and_Laurel_Homer.jpg Memorial_Monument_Names_of_Passengers_Heroes_7.JPG]] Homer received many awards and citations posthumously, including honorary membership in the historic Tuskegee Airmen;[4] the Congress of Racial Equality's Dr. Martin Luther King Jr. Award; the Southern Christian Leadership Conference Drum Major for Justice Award; and the Westchester County Trailblazer Award.
+After learning of the earlier crashes at the World Trade Center and the Pentagon, the crew and passengers attempted to foil the hijacking and reclaim the aircraft. Given the uprising of crew and passengers, and knowing they would not make it to their intended target, which was the US Capitol, they instead chose to crash the plane into a field near Shanksville, Pennsylvania. ]] Homer received many awards and citations posthumously, including honorary membership in the historic Tuskegee Airmen;[4] the Congress of Racial Equality's Dr. Martin Luther King Jr. Award; the Southern Christian Leadership Conference Drum Major for Justice Award; and the Westchester County Trailblazer Award.
 
   2011-2012 {{!}} Regular Session {{!}} Introduced
  | date = October 17, 2012

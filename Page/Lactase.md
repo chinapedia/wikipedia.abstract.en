@@ -30,16 +30,12 @@ The catalytic mechanism of _D_-lactose hydrolysis retains the substrate anomeric
 
 Substrate modification studies have demonstrated that the 3′-OH and 2′-OH moieties on the galactopyranose ring are essential for enzymatic recognition and hydrolysis.[20] The 3′-hydroxy group is involved in initial binding to the substrate while the 2′- group is not necessary for recognition but needed in subsequent steps. This is demonstrated by the fact that a 2-deoxy analog is an effective competitive inhibitor (K_(i) = 10mM).[21] Elimination of specific hydroxyl groups on the glucopyranose moiety does not completely eliminate catalysis.[22]
 
-LactaseMechanism2.png
-
 Lactase also catalyzes the conversion of phlorizin to phloretin and glucose.
 
 
 Structure and biosynthesis
 
 Preprolactase, the primary translation product, has a single polypeptide primary structure consisting of 1927 amino acids.[23] It can be divided into five domains: (i) a 19-amino-acid cleaved signal sequence; (ii) a large prosequence domain that is not present in mature lactase; (iii) the mature lactase segment; (iv) a membrane-spanning hydrophobic anchor; and (v) a short hydrophilic carboxyl terminus.[24] The signal sequence is cleaved in the endoplasmic reticulum, and the resulting 215-kDa pro-LPH is sent to the Golgi apparatus, where it is heavily glycosylated and proteolytically processed to its mature form.[25] The prodomain has been shown to act as an intramolecular chaperone in the ER, preventing trypsin cleavage and allowing LPH to adopt the necessary 3-D structure to be transported to the Golgi apparatus.[26]
-
-Lactase_Processing.png
 
 Mature human lactase consists of a single 160-kDa polypeptide chain that localizes to the brush border membrane of intestinal epithelial cells. It is oriented with the N-terminus outside the cell and the C-terminus in the cytosol.[27] LPH contains two catalytic glutamic acid sites. In the human enzyme, the lactase activity has been connected to Glu-1749, while Glu-1273 is the site of phlorizin hydrolase function.[28]
 

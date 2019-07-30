@@ -7,7 +7,7 @@ A similar fiber called Twaron with the same chemical structure was developed by 
 
 History
 
-Stephanie_Kwolek_Women_in_Chemistry_from_video.png, an American chemist of Polish origin, inventor of kevlar]] Poly-paraphenylene terephthalamide – branded Kevlar – was invented by Polish-American chemist Stephanie Kwolek while working for DuPont, in anticipation of a gasoline shortage. In 1964, her group began searching for a new lightweight strong fiber to use for light but strong tires.[7] The polymers she had been working with at the time, poly-p-phenylene-terephthalate and polybenzamide,[8] formed liquid crystal while in solution, something unique to those polymers at the time.[9]
+, an American chemist of Polish origin, inventor of kevlar]] Poly-paraphenylene terephthalamide – branded Kevlar – was invented by Polish-American chemist Stephanie Kwolek while working for DuPont, in anticipation of a gasoline shortage. In 1964, her group began searching for a new lightweight strong fiber to use for light but strong tires.[7] The polymers she had been working with at the time, poly-p-phenylene-terephthalate and polybenzamide,[8] formed liquid crystal while in solution, something unique to those polymers at the time.[9]
 
 The solution was "cloudy, opalescent upon being stirred, and of low viscosity" and usually was thrown away. However, Kwolek persuaded the technician, Charles Smullen, who ran the spinneret, to test her solution, and was amazed to find that the fiber did not break, unlike nylon. Her supervisor and her laboratory director understood the significance of her accidental discovery and a new field of polymer chemistry quickly arose. By 1971, modern Kevlar was introduced.[10] However, Kwolek was not very involved in developing the applications of Kevlar.[11]
 
@@ -15,8 +15,6 @@ The solution was "cloudy, opalescent upon being stirred, and of low viscosity" a
 Production
 
 Kevlar is synthesized in solution from the monomers 1,4-phenylene-diamine (_para_-phenylenediamine) and terephthaloyl chloride in a condensation reaction yielding hydrochloric acid as a byproduct. The result has liquid-crystalline behavior, and mechanical drawing orients the polymer chains in the fiber's direction. Hexamethylphosphoramide (HMPA) was the solvent initially used for the polymerization, but for safety reasons, DuPont replaced it by a solution of _N_-methyl-pyrrolidone and calcium chloride. As this process had been patented by Akzo (see above) in the production of Twaron, a patent war ensued.[12]
-
-Poly(p-phenylenterephthalamid)-Synthese.svg
 
 Kevlar (poly paraphenylene terephthalamide) production is expensive because of the difficulties arising from using concentrated sulfuric acid, needed to keep the water-insoluble polymer in solution during its synthesis and spinning.
 
@@ -36,7 +34,7 @@ The ultraviolet component of sunlight degrades and decomposes Kevlar, a problem 
 
 Structure and properties
 
-Kevlar_chemical_structure_H-bonds.svg unit, DASHED lines indicate hydrogen bonds.]] When Kevlar is spun, the resulting fiber has a tensile strength of about 3,620 MPa,[17] and a relative density of 1.44. The polymer owes its high strength to the many inter-chain bonds. These inter-molecular hydrogen bonds form between the carbonyl groups and N_H_ centers. Additional strength is derived from aromatic stacking interactions between adjacent strands. These interactions have a greater influence on Kevlar than the van der Waals interactions and chain length that typically influence the properties of other synthetic polymers and fibers such as Dyneema. The presence of salts and certain other impurities, especially calcium, could interfere with the strand interactions and care is taken to avoid inclusion in its production. Kevlar's structure consists of relatively rigid molecules which tend to form mostly planar sheet-like structures rather like silk protein.[18]
+unit, DASHED lines indicate hydrogen bonds.]] When Kevlar is spun, the resulting fiber has a tensile strength of about 3,620 MPa,[17] and a relative density of 1.44. The polymer owes its high strength to the many inter-chain bonds. These inter-molecular hydrogen bonds form between the carbonyl groups and N_H_ centers. Additional strength is derived from aromatic stacking interactions between adjacent strands. These interactions have a greater influence on Kevlar than the van der Waals interactions and chain length that typically influence the properties of other synthetic polymers and fibers such as Dyneema. The presence of salts and certain other impurities, especially calcium, could interfere with the strand interactions and care is taken to avoid inclusion in its production. Kevlar's structure consists of relatively rigid molecules which tend to form mostly planar sheet-like structures rather like silk protein.[18]
 
 
 Thermal properties
@@ -54,15 +52,13 @@ Kevlar is often used in the field of cryogenics for its low thermal conductivity
 
 Armor
 
-Dunham_helmet.jpg Kevlar is a well-known component of personal armor such as combat helmets, ballistic face masks, and ballistic vests. The PASGT helmet and vest used by United States military forces, use Kevlar as a key component in their construction. Other military uses include bulletproof face masks and spall liners used to protect the crews of armoured fighting vehicles. _Nimitz_-class aircraft carriers use Kevlar reinforcement in vital areas. Civilian applications include: high heat resistance uniforms worn by firefighters, body armour worn by police officers, security, and police tactical teams such as SWAT.[20]
+Kevlar is a well-known component of personal armor such as combat helmets, ballistic face masks, and ballistic vests. The PASGT helmet and vest used by United States military forces, use Kevlar as a key component in their construction. Other military uses include bulletproof face masks and spall liners used to protect the crews of armoured fighting vehicles. _Nimitz_-class aircraft carriers use Kevlar reinforcement in vital areas. Civilian applications include: high heat resistance uniforms worn by firefighters, body armour worn by police officers, security, and police tactical teams such as SWAT.[20]
 
 Personal protection
 
 Kevlar is used to manufacture gloves, sleeves, jackets, chaps and other articles of clothing[21] designed to protect users from cuts, abrasions and heat. Kevlar-based protective gear is often considerably lighter and thinner than equivalent gear made of more traditional materials.[22]
 
 Sports
-
-Kevlar_canoe_algonquin.JPG
 
 Personal protection
 
@@ -116,7 +112,7 @@ Other uses
 
 Fire dancing
 
-Fire_Dancing_Golden_Gate_Bridge.jpg]] Wicks for fire dancing props are made of composite materials with Kevlar in them. Kevlar by itself does not absorb fuel very well, so it is blended with other materials such as fiberglass or cotton. Kevlar's high heat resistance allows the wicks to be reused many times.
+]] Wicks for fire dancing props are made of composite materials with Kevlar in them. Kevlar by itself does not absorb fuel very well, so it is blended with other materials such as fiberglass or cotton. Kevlar's high heat resistance allows the wicks to be reused many times.
 
 Frying pans
 
@@ -124,7 +120,7 @@ Kevlar is sometimes used as a substitute for Teflon in some non-stick frying pan
 
 Rope, cable, sheath
 
-US_Navy_111203-N-WJ771-066_Seaman_Apprentice_Luis_Silva_repairs_a_Kevlar_mooring_line_on_the_forecastle_of_the_forward-deployed_amphibious_dock_lan.jpg]] The fiber is used in woven rope and in cable, where the fibers are kept parallel within a polyethylene sleeve. The cables have been used in suspension bridges such as the bridge at Aberfeldy in Scotland. They have also been used to stabilize cracking concrete cooling towers by circumferential application followed by tensioning to close the cracks. Kevlar is widely used as a protective outer sheath for optical fiber cable, as its strength protects the cable from damage and kinking. When used in this application it is commonly known by the trademarked name Parafil.
+]] The fiber is used in woven rope and in cable, where the fibers are kept parallel within a polyethylene sleeve. The cables have been used in suspension bridges such as the bridge at Aberfeldy in Scotland. They have also been used to stabilize cracking concrete cooling towers by circumferential application followed by tensioning to close the cracks. Kevlar is widely used as a protective outer sheath for optical fiber cable, as its strength protects the cable from damage and kinking. When used in this application it is commonly known by the trademarked name Parafil.
 
 Electricity generation
 

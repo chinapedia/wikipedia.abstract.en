@@ -37,25 +37,25 @@ First markka
 
 When the markka was introduced, coins were minted in copper (1, 5 and 10 penniä), silver (25 and 50 penniä, 1 and 2 markkaa) and gold (10 and 20 markkaa). After the First World War, silver and gold issues were ceased and cupro-nickel 25 and 50 penniä and 1 markka coins were introduced in 1921, followed by aluminium-bronze 5, 10 and 20 markkaa between 1928 and 1931. During the Second World War, copper replaced cupro-nickel in the 25 and 50 penniä and 1 markka, followed by an issue of iron 10, 25 and 50 penniä and 1 markka. This period also saw the issue of holed 5 and 10 penniä coins.
 
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| Denomination | Years   | Image              | Material           | Size            | Obverse | Reverse                 | Designer                             |
-+==============+=========+====================+====================+=================+=========+=========================+======================================+
-| 1 MARKKA     |         | Markka1921.JPG     | Markka1921r.JPG    | Cupro-nickel    | 24 mm   | Rampant lion and date   | Denomination flanked by branches     |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 1928–40      |         |                    | Cupro-nickel       | 21 mm           |         |                         |                                      |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 1940–51      |         |                    | Copper             | 21 mm           |         |                         |                                      |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 1943–44      |         |                    | Iron               | 21 mm           |         |                         |                                      |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 5 MARKKAA    | 1928–46 | 5_Markkaa_1936.JPG | 5markkaa1936o.JPG  | Aluminum-bronze | 23 mm   | Wreath and denomination | Shielded arms within wreath and date |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 1946–52      |         |                    | Brass              | 23 mm           |         |                         |                                      |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 10 MARKKAA   | 1928–39 | 10markkaa1930.JPG  | 10markkaa1930o.JPG | Aluminum-bronze | 27 mm   | Wreath and denomination | Shielded arms within wreath and date |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
-| 20 MARKKAA   | 1928–39 | 20markkaa1935.JPG  | 20markkaa1935o.JPG | Aluminum-bronze | 31 mm   | Wreath and denomination | Shielded arms within wreath and date |
-+--------------+---------+--------------------+--------------------+-----------------+---------+-------------------------+--------------------------------------+
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| Denomination | Years   | Image | Material     | Size            | Obverse | Reverse                 | Designer                             |
++==============+=========+=======+==============+=================+=========+=========================+======================================+
+| 1 MARKKA     |         |       |              | Cupro-nickel    | 24 mm   | Rampant lion and date   | Denomination flanked by branches     |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 1928–40      |         |       | Cupro-nickel | 21 mm           |         |                         |                                      |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 1940–51      |         |       | Copper       | 21 mm           |         |                         |                                      |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 1943–44      |         |       | Iron         | 21 mm           |         |                         |                                      |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 5 MARKKAA    | 1928–46 |       |              | Aluminum-bronze | 23 mm   | Wreath and denomination | Shielded arms within wreath and date |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 1946–52      |         |       | Brass        | 23 mm           |         |                         |                                      |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 10 MARKKAA   | 1928–39 |       |              | Aluminum-bronze | 27 mm   | Wreath and denomination | Shielded arms within wreath and date |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
+| 20 MARKKAA   | 1928–39 |       |              | Aluminum-bronze | 31 mm   | Wreath and denomination | Shielded arms within wreath and date |
++--------------+---------+-------+--------------+-----------------+---------+-------------------------+--------------------------------------+
 
 : Markka coins 1918–52
 
@@ -68,8 +68,6 @@ Second markka
 The new markka coinage consisted initially of six denominations: 1 (bronze, later aluminium), 5 (bronze, later aluminium), 10 (aluminium-bronze, later aluminium), 20 and 50 penniä (aluminium-bronze) and 1 markka (silver, later cupro-nickel). From 1972, aluminium-bronze 5 markka were also issued.
 
 2nd series
-
-FinnischeMuenzen.jpg
 
 The last series of Finnish markka coins included five coins (listed with final euro values, rounded to the nearest cent):
 
@@ -84,22 +82,22 @@ Banknotes
 
 This section covers the last design series of the Finnish markka, designed in the 1980s by Finnish designer Erik Bruun and issued in 1986.
 
-  Denomination    Value in Euro (€)   Image               Main colour         Obverse   Reverse                                               Remark
-  --------------- ------------------- ------------------- ------------------- --------- ----------------------------------------------------- -------------------------------------
-  10 markkaa      €1.68               FIN-10m-anv.jpg     FIN-10m-rev.jpg     Blue      Paavo Nurmi (1897–1973), athlete and Olympic winner   Helsinki Olympic Stadium
-  20 markkaa      €3.36               FIN-20m-anv.jpg     FIN-20m-rev.jpg     Blue      Väinö Linna (1920–1992), author and novelist          Tammerkoski
-  50 markkaa      €8.41               FIN-50m-anv.jpg     FIN-50m-rev.jpg     Brown     Alvar Aalto (1898–1976), architect                    Finlandia Hall
-  100 markkaa     €16.82              FIN-100m-anv.jpg    FIN-100m-rev.jpg    Green     Jean Sibelius (1865–1957), composer                   Swans
-  500 markkaa     €84.09              FIN-500m-anv.jpg    FIN-500m-rev.jpg    Red       Elias Lönnrot (1802–1884), compiler of Kalevala       Forest hiking trail
-  1,000 markkaa   €168.19             FIN-1000m-anv.jpg   FIN-1000m-rev.jpg   Purple    Anders Chydenius (1729–1803), priest and statesman    Kuninkaanportti gate in Suomenlinna
-  5,000 markkaa   €840.94             FIN-5000m-anv.jpg                       Pink      Mikael Agricola (1510–1557), priest and linguist      Turku Cathedral
+  Denomination    Value in Euro (€)   Image   Main colour   Obverse   Reverse                                               Remark
+  --------------- ------------------- ------- ------------- --------- ----------------------------------------------------- -------------------------------------
+  10 markkaa      €1.68                                     Blue      Paavo Nurmi (1897–1973), athlete and Olympic winner   Helsinki Olympic Stadium
+  20 markkaa      €3.36                                     Blue      Väinö Linna (1920–1992), author and novelist          Tammerkoski
+  50 markkaa      €8.41                                     Brown     Alvar Aalto (1898–1976), architect                    Finlandia Hall
+  100 markkaa     €16.82                                    Green     Jean Sibelius (1865–1957), composer                   Swans
+  500 markkaa     €84.09                                    Red       Elias Lönnrot (1802–1884), compiler of Kalevala       Forest hiking trail
+  1,000 markkaa   €168.19                                   Purple    Anders Chydenius (1729–1803), priest and statesman    Kuninkaanportti gate in Suomenlinna
+  5,000 markkaa   €840.94                                   Pink      Mikael Agricola (1510–1557), priest and linguist      Turku Cathedral
 
 
 In this final banknote series, Bank of Finland used a photograph of Väinö Linna on the 20-markkaa note without permission from copyright holders. This was only revealed after several million notes were in use. The Bank paid 100,000 mk (€17,000) compensation to the rights holders.[15]
 
 The second-to-last banknote design series, designed by Tapio Wirkkala, was introduced in 1955 and revised in the reform of 1963. It was the first series to depict actual specific persons. These included Juho Kusti Paasikivi on the 10 markkaa, K. J. Ståhlberg on the 50 markkaa, J. V. Snellman on the 100 markkaa and Urho Kekkonen on the 500 markkaa (introduced later). Unlike Erik Bruun's series, this series did not depict any other real-life subjects, but only abstract ornaments in addition to the depictions of people. A popular joke at the time was to cover Paasikivi's face except for his ear and back of the head on the 10-markka note, ending up with something resembling a mouse, said to be the only animal illustration in the entire series.
 
-5000_markan_setelit_1940.jpg The still-older notes, designed by Eliel Saarinen, were introduced in 1922. They also depicted people, but these were generic men and women, and did not represent any specific individuals. The fact that these men and women were depicted nude caused a minor controversy at the time.
+The still-older notes, designed by Eliel Saarinen, were introduced in 1922. They also depicted people, but these were generic men and women, and did not represent any specific individuals. The fact that these men and women were depicted nude caused a minor controversy at the time.
 
 Coins and banknotes that were legal tender at the time of the markka's retirement could be exchanged for euros until February 29, 2012.
 

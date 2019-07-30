@@ -11,21 +11,15 @@ Early life and pre-judicial career (1866–1905)
 
 Boyhood and early career (1866–93)
 
-Landis_boys.png
-
 Kenesaw Mountain Landis was born in Millville, Ohio, the sixth child and fourth son of Abraham Hoch Landis, a physician, and Mary Kumler Landis, on November 20, 1866. The Landises descended from Swiss Mennonites who had emigrated to Alsace before coming to the United States. Abraham Landis had been wounded fighting on the Union side at the Battle of Kennesaw Mountain in Georgia, and when his parents proved unable to agree on a name for the new baby, Mary Landis proposed that they call him Kenesaw Mountain. At the time, both spellings of "Kenesaw" were used, but in the course of time, "Kennesaw Mountain" became the accepted spelling of the battle site.
 
 Abraham Landis worked in Millville as a country physician. When Kenesaw was eight, the elder Landis moved his family to Delphi, Indiana and subsequently to Logansport, Indiana where the doctor purchased and ran several local farms—his war injury had caused him to scale back his medical practice. Two of Kenesaw's four brothers, Charles Beary Landis and Frederick Landis, became members of Congress.
-
-Landis_brothers.jpeg
 
 As "Kenny", as he was sometimes known, grew, he did an increasing share of the farm work, later stating, "I did my share—and it was a substantial share—in taking care of the 13 acres ... I do not remember that I particularly liked to get up at 3:30 in the morning." Kenesaw began his off-farm career at age ten as a news delivery boy. He left school at 15 after an unsuccessful attempt to master algebra; he then worked at the local general store. He left that job for a position as errand boy with the Vandalia Railroad. Landis applied for a job as a brakeman, but was laughingly dismissed as too small. He then worked for the Logansport _Journal_, and taught himself shorthand reporting, becoming in 1883 official court reporter for the Cass County Circuit Court. Landis later wrote, "I may not have been much of a judge, nor baseball official, but I do pride myself on having been a real shorthand reporter." He served in that capacity until 1886. In his spare time, he became a prize-winning bicycle racer and played on and managed a baseball team. Offered a professional contract as a ballplayer, he turned it down, stating that he preferred to play for the love of the game.
 
 In 1886, Landis first ventured into Republican Party politics, supporting a friend, Charles F. Griffin, for Indiana Secretary of State. Griffin won, and Landis was rewarded with a civil service job in the Indiana Department of State. While employed there, he applied to be an attorney. At that time, in Indiana, an applicant needed only to prove that he was 21 and of good moral character, and Landis was admitted. Landis opened a practice in Marion, Indiana but attracted few clients in his year of work there. Realizing that an uneducated lawyer was unlikely to build a lucrative practice, Landis enrolled at Cincinnati's YMCA Law School (now part of Northern Kentucky University) in 1889. Landis transferred to Union Law School (now part of Northwestern University) the following year, and in 1891, he took his law degree from Union and was admitted to the Illinois Bar. He began a practice in Chicago, served as an assistant instructor at Union and with fellow attorney Clarence Darrow helped found the nonpartisan Chicago Civic Centre Club, devoted to municipal reform. Landis practiced with college friend Frank O. Lowden; the future commissioner and his law partner went into debt to impress potential clients, buying a law library secondhand.
 
 Washington years and aftermath (1893–1905)
-
-Landis_in_State_Department.png
 
 In March 1893, President Grover Cleveland appointed federal judge Walter Q. Gresham as his Secretary of State, and Gresham hired Landis as his personal secretary. Gresham had a long career as a political appointee in the latter part of the 19th century; though he lost his only two bids for elective office, he served in three Cabinet positions and was twice a dark horse candidate for the Republican presidential nomination. Although Gresham was a Republican, he had supported Cleveland (a Democrat) in the 1892 election because of his intense dislike for the Republican nominee, President Benjamin Harrison. Kenesaw Landis had appeared before Judge Gresham in court. According to Landis biographer J.G. Taylor Spink, Gresham thought Landis "had something on the ball" and believed that Landis's shorthand skills would be of use.
 
@@ -36,7 +30,7 @@ Landis built a corporate law practice in Chicago; with the practice doing well, 
 
 Judge (1905–22)
 
-The_Divine_Law.png's mural, _The Divine Law_, which was on display in Landis's courtroom while he was a federal judge.]]
+'s mural, _The Divine Law_, which was on display in Landis's courtroom while he was a federal judge.]]
 
 Landis's courtroom, room 627 in the Chicago Federal Building, was ornate and featured two murals; one of King John conceding Magna Carta, the other of Moses about to smash the tablets of the Ten Commandments. The mahogany and marble chamber was, according to Landis biographer David Pietrusza, "just the spot for Landis's sense of the theatrical. In it he would hold court for nearly the next decade and a half." According to Spink, "It wasn't long before Chicago writers discovered they had a 'character' on the bench." A. L. Sloan of the Chicago _Herald-American_, a friend of Landis, recalled:
 
@@ -48,23 +42,19 @@ Landis had been a lawyer with a corporate practice; upon his elevation to the be
 
 Standard Oil (1905–09)
 
-Landis_Rockefeller_1.png
-
 By the first decade of the 20th century, a number of business entities had formed themselves into trusts, which dominated their industries. Trusts often sought to purchase or otherwise neutralize their competitors, allowing the conglomerates to raise prices to high levels. In 1890, Congress had passed the Sherman Anti-Trust Act, but it was not until the Theodore Roosevelt administration (1901–09) that serious efforts were made to break up or control the trusts. The dominant force in the oil industry was Standard Oil, controlled by John D. Rockefeller. Modern-day ExxonMobil, Atlantic Richfield, Chevron, Sohio, Amoco and Continental Oil all trace their ancestry to various parts of Standard Oil.
 
 In March 1906, Commissioner of Corporations James Rudolph Garfield submitted a report to President Roosevelt, alleging large-scale rebating in Standard Oil shipments. Federal prosecutors in several states and territories sought indictments against components of the Standard Oil Trust. On June 28, 1906, Standard Oil of Indiana was indicted on 6,428 counts of violation of the Elkins Act for accepting rebates on shipments on the Chicago & Alton Railroad. The case was assigned to Landis.
 
 Trial on the 1,903 counts that survived pretrial motions began on March 4, 1907. The fact that rebates had been given was not contested; what was at issue was whether Standard Oil knew the railroad's posted rates, and if it had a duty to enquire if it did not. Landis charged the jury that it "was the duty of the defendant diligently in good faith to get from the Chicago & Alton ... the lawful rate". The jury found Standard Oil guilty on all 1,903 counts.
 
-Kenesaw_Mountain_Landis_(sketch_by_John_T._McCutcheon).png, who was actually in Cleveland at the time]]
+, who was actually in Cleveland at the time]]
 
 The maximum fine that Landis could impose was $29,240,000. To aid the judge in determining the sentence, Landis issued a subpoena for Rockefeller to testify as to Standard Oil's assets. The tycoon had often evaded subpoenas, not having testified in court since 1888. Deputy United States marshals visited Rockefeller's several homes, as well as the estates of his friends, in the hope of finding him. After several days, Rockefeller was found at his lawyer's estate, Taconic Farm in northwestern Massachusetts, and was served with the subpoena. The tycoon duly came to Landis's Chicago courtroom, making his way through a mob anxious to see the proceedings. Rockefeller's actual testimony, proffered after the judge made him wait through several cases and witnesses, proved to be anticlimactic, as he professed almost no knowledge of Standard Oil's corporate structure or assets.
 
 On August 3, 1907, Landis pronounced sentence. He fined Standard Oil the maximum penalty, $29,240,000, the largest fine imposed on a corporation to that date. The corporation quickly appealed; in the meantime, Landis was lionized as a hero. According to Pietrusza, "much of the nation could hardly believe a federal judge had finally cracked down on a trust—and cracked down _hard_ ". President Roosevelt, when he heard the sentence, reportedly stated, "That's bully." Rockefeller was playing golf in Cleveland when he was brought a telegram containing the news. Rockefeller calmly informed his golfing partners of the amount of the fine, and proceeded to shoot a personal record score, later stating, "Judge Landis will be dead a long time before this fine is paid." He proved correct; the verdict and sentence were reversed by the United States Court of Appeals for the Seventh Circuit on July 22, 1908. In January 1909, the Supreme Court refused to hear the case, and in a new trial before another judge (Landis recused himself), Standard Oil was acquitted.
 
 Federal League and Baby Iraene cases (1909–17)
-
-Judge_Landis_as_fan.png
 
 A lifelong baseball fan, Landis often slipped away from the courthouse for a White Sox or Cubs game. In 1914, the two existing major leagues were challenged by a new league, the Federal League. In 1915, the upstart league brought suit against the existing leagues and owners under the Sherman Act and the case was assigned to Landis. Baseball owners feared that the reserve clause, which forced players to sign new contracts only with their former team, and the 10-day clause, which allowed teams (but not players) to terminate player contracts on ten days notice, would be struck down by Landis.
 
@@ -78,7 +68,7 @@ Although Landis was an autocrat in the courtroom, he was less so at home. In a 1
 
 Wartime cases (1917–19)
 
-Judge_Landis_and_Warren_Cook_in_The_Immigrant.png "appears" before him.]]
+"appears" before him.]]
 
 In early 1917, Landis considered leaving the bench and returning to private practice—though he greatly enjoyed being a judge, the salary of $7,500 was considerably lower than what he could make as an attorney. The entry of the United States into World War I in April ended Landis's determination to resign; a firm supporter of the war effort, he felt he could best serve the country by remaining on the bench. Despite this decision and his age, fifty, Landis wrote to Secretary of War Newton D. Baker, asking him to take him into the service and send him to France, where the war was raging. Baker urged Landis to make speeches in support of the war instead, which he did. The judge's son, Reed, had already served briefly in the Illinois National Guard; during the war he became a pilot, and eventually an ace.
 
@@ -92,7 +82,7 @@ The trial began on April 1, 1918. Landis quickly dismissed charges against a doz
 
 Haywood biographer Melvyn Dubofsky wrote that Landis "exercised judicial objectivity and restraint for five long months". Baseball historian Harold Seymour stated that "[o]n the whole, Landis conducted the trial with restraint, despite his reputation as a foe of all radical groups." Landis dismissed charges against an elderly defendant who was in obvious pain as he testified, and allowed the release of a number of prisoners on bail or on their own recognizances.
 
-Landis_family.jpeg and his wife Winifred photographed in 1919.]]
+and his wife Winifred photographed in 1919.]]
 
 On August 17, 1918, following the closing argument for the prosecution (the defendants waived argument), Landis instructed the jury. The lead defense counsel objected to the wording of the jury charge several times, but Haywood believed it to have been fair. After 65 minutes, the jury returned with guilty verdicts for all of the remaining accused, much to their shock; they had believed that Landis's charge pointed towards their acquittal. When the defendants returned to court on August 29, Landis listened with patience to the defendants' final pleas. For the sentencing, according to Richard Cahan in his history of Chicago's district court, "mild-mannered Landis returned a changed man". Although two defendants received only ten days in jail, all others received at least a year and a day, and Haywood and fourteen others received twenty years. A number of defendants, including Haywood, obtained bail during the appeal; even before Haywood's appeals were exhausted, he jumped bail and took ship for the Soviet Union. The labor leader hung a portrait of Landis in his Moscow apartment, and when Haywood died in 1928, he was interred near John Reed (who had died of illness in Moscow after the Bolshevik Revolution) in the Kremlin Wall—they remain the only Americans so honored. President Calvin Coolidge commuted the sentences of the remaining incarcerated defendants in 1923, much to the disgust of Landis, who issued an angry statement. After leaving his judgeship, Landis referred to the defendants in the Haywood case as "scum", "filth", and "slimy rats".
 
@@ -102,13 +92,13 @@ Even with the armistice in November 1918, the war-related trials continued. The 
 
 Building trades award, controversy, and resignation (1920–22)
 
-Curse_of_the_Cubs.png and Chicago Cubs, and opposing the Landis building trades award]]
+and Chicago Cubs, and opposing the Landis building trades award]]
 
 The postwar period saw considerable deflation; the shortage of labor and materials during the war had led to much higher wages and prices, and in the postwar economic readjustment, wages were cut heavily. In Chicago, employers in the building trades attempted a 20% wage cut; when this was rejected by the unions, a lockout followed. Both sides agreed to submit the matter to a neutral arbitrator, and settled on Landis, who agreed to take the case in June 1921. By this time, Landis was Commissioner of Baseball, and still a federal judge. In September, Landis issued his report, cutting wages by an average of 12.5%. To improve productivity, he also struck restrictions on machinery which saved labor, established a standardized overtime rate, and resolved jurisdictional conflicts between unions. The labor organizations were not completely satisfied, but Landis's reforms were adopted in many places across the country and were credited with reviving the building industry.
 
 Criticism of Landis having both the judicial and baseball positions began almost as soon as his baseball appointment was announced in November 1920. On February 2, 1921, lame duck Congressman Benjamin F. Welty (Democrat-Ohio) offered a resolution calling for Landis's impeachment. On February 11, Attorney General A. Mitchell Palmer opined that there was no legal impediment to Landis holding both jobs. On February 14, the House Judiciary Committee voted 24–1 to investigate Landis. Reed Landis later stated, "[n]one of the other congressmen wanted Father impeached but they did want him to come down and defend himself because they knew what a show it would be."
 
-Landis_cartoon_1920.jpeg]]
+]]
 
 Although Welty's departure from office on March 4, 1921, began a lull in criticism of Landis, in April, the judge made a controversial decision in the case of Francis J. Carey, a 19-year-old bank teller, who had pleaded guilty to embezzling $96,500. Carey, the sole support of his widowed mother and unmarried sisters, gained Landis's sympathy. He accused the bank of underpaying Carey, and sent the youth home with his mother. Two members of the Senate objected to Landis's actions, and the _New York Post_ compared Carey with _Les Misérables's_ Jean Valjean, noting "[b]etween a loaf of bread [Valjean was incarcerated for stealing one] and $96,500 there is a difference." A bill barring outside employment by federal judges had been introduced by Landis's foes, but had expired with the end of the congressional session in March; his opponents tried again in July, and the bill failed in the Senate on a tie vote. On September 1, 1921, the American Bar Association, a trade group of lawyers, passed a resolution of censure against Landis.
 
@@ -125,8 +115,6 @@ By 1919, the influence of gamblers on baseball had been a problem for several ye
 
   Baseball had for some time been living uneasily in the knowledge that bribes were being offered by gamblers, and that some players were accepting them. The players knew it was going on, and the owners knew it was going on. But more important, the players knew that the owners knew—and they knew the owners were doing nothing about it for fear of a scandal that might damage organized baseball. Under such conditions it quite obviously did not pay to be honest.
 
-Eight_men_banned.png
-
 The 1919 World Series between the Chicago White Sox and Cincinnati Reds was much anticipated, as the nation attempted to return to normalcy in the postwar period. Baseball had seen a surge of popularity during the 1919 season, which set several attendance records. The powerful White Sox, with their superstar batter "Shoeless Joe" Jackson and star pitchers Eddie Cicotte and Claude "Lefty" Williams, were believed likely to defeat the less-well-regarded Reds. To the surprise of many, the Reds defeated the White Sox, five games to three (during 1919–21, the World Series was a best-of-nine affair).
 
 Rumors that the series was fixed began to circulate after gambling odds against the Reds winning dropped sharply before the series began, and gained more credibility after the White Sox lost four of the first five games. Cincinnati lost the next two games, and speculation began that the Reds were losing on purpose to extend the series and increase gate revenues. However, Cincinnati won Game Eight, 10–5, to end the series, as Williams lost his third game (Cicotte lost the other two). After the series, according to Gene Carney, who wrote a book about the scandal, "there was more than the usual complaining from those who had bet big on the Sox and lost".
@@ -134,8 +122,6 @@ Rumors that the series was fixed began to circulate after gambling odds against 
 The issue of the 1919 Series came to the public eye again in September 1920, when, after allegations that a game between the Chicago Cubs and Philadelphia Phillies on August 31 had been fixed, a grand jury was empaneled in state court in Chicago to investigate baseball gambling. Additional news came from Philadelphia, where gambler Billy Maharg stated that he had worked with former boxer Abe Attell and New York gambler Arnold Rothstein to get the White Sox to throw the 1919 Series. Cicotte and Jackson were called before the grand jury, where they gave statements incriminating themselves and six teammates: Williams, first baseman Chick Gandil, shortstop Swede Risberg, third baseman Buck Weaver, center fielder Happy Felsch and reserve infielder Fred McMullin. Williams and Felsch were also called before the grand jury and incriminated themselves and their teammates. Through late September, the 1920 American League season had been one of the most exciting on record, with the White Sox, Cleveland Indians, and New York Yankees dueling for the league lead. By September 28, the Yankees were close to elimination, but the White Sox and Indians were within percentage points of each other. On that day, however, the eight players, seven of whom were still on the White Sox, were indicted. They were immediately suspended by White Sox owner Charles Comiskey. The Indians were able to pull ahead and win the pennant, taking the American League championship by two games over Chicago.
 
 Search for a commissioner
-
-Landis_is_hired.jpg
 
 Baseball had been governed by a three-man National Commission, consisting of American League President Ban Johnson, National League President John Heydler and Cincinnati Reds owner Garry Herrmann. In January 1920, Herrmann left office at the request of other club owners, leaving the Commission effectively deadlocked between Johnson and Heydler. A number of club owners, disliking one or both league presidents, preferred a single commissioner to rule over the game, but were willing to see the National Commission continue if Herrmann was replaced by someone who would provide strong leadership. Landis's name was mentioned in the press for this role, and the influential baseball newspaper _The Sporting News_ sought his appointment.
 
@@ -153,8 +139,6 @@ Establishing control
 
 Banning the Black Sox
 
-Still_Black_Sox.png
-
 On January 30, 1921, Landis, speaking at an Illinois church, warned:
 
   Now that I am in baseball, just watch the game I play. If I catch any crook in baseball, the rest of his life is going to be a pretty hot one. I'll go to any means and to anything possible to see that he gets a real penalty for his offense.
@@ -171,8 +155,6 @@ According to ESPN columnist Rob Neyer, "with that single decision, Landis might 
 
 Cracking down on gambling
 
-Landis_opens_1921_season.png
-
 Landis felt that the Black Sox scandal had been initiated by people involved in horse racing, and stated that "by God, as long as I have anything to do with this game, they'll never get another hold on it." In 1921, his first season as commissioner, New York Giants owner Charles Stoneham and manager John McGraw purchased Oriental Park Racetrack in Havana, Cuba. Landis gave Stoneham and McGraw an ultimatum—they could not be involved in both baseball and horse racing. They quickly put the track back on the market.
 
 Even before the Black Sox scandal had been resolved, Landis acted to clean up other gambling cases. Eugene Paulette, a first baseman for the Philadelphia Phillies, had been with the St. Louis Cardinals in 1919, and had met with gamblers. It is uncertain if any games were fixed, but Paulette had written a letter naming two other Cardinals who might be open to throwing games. The letter had fallen into the hands of Phillies President William F. Baker, who had taken no action until Landis's appointment, then turned the letter over to him. Paulette met with Landis once, denying any wrongdoing, then refused further meetings. Landis placed him on the ineligible list in March 1921. In November 1921, Landis banned former St. Louis Browns player Joe Gedeon, who had been released by the Browns after admitting to sitting in on meetings with gamblers who were trying to raise the money to bribe the Black Sox. When a minor league official asked if he was eligible, Landis settled the matter by placing Gedeon on the ineligible list.
@@ -185,7 +167,7 @@ In total, Landis banned eighteen players from the game. Landis biographer Pietru
 
 Ruth-Meusel barnstorming incident
 
-Landis_Ruth_Meusel.png (left) and Bob Meusel after turning down their requests for early reinstatement, Yankees spring training camp, New Orleans, March 1922]]
+(left) and Bob Meusel after turning down their requests for early reinstatement, Yankees spring training camp, New Orleans, March 1922]]
 
 At the time of Landis's appointment as commissioner, it was common for professional baseball players to supplement their pay by participating in postseason "barnstorming" tours, playing on teams which would visit smaller cities and towns to play games for which admission would be charged. Since 1911, however, players on the two World Series teams had been barred from barnstorming. The rule had been leniently enforced—in 1916, several members of the champion Red Sox, including pitcher George Herman "Babe" Ruth had barnstormed and had been fined a token $100 each by the National Commission.
 
@@ -202,8 +184,6 @@ When Ruth returned on May 20, he batted 0-for-4, and was booed by the crowd at t
 Policies as commissioner
 
 Major-minor league relations; development of the farm system
-
-Landis_first_ball.jpg
 
 At the start of Landis's commissionership, the minor league teams were for the most part autonomous of the major leagues; in fact the minor leagues independently chose to accept Landis's rule. To ensure players did not become mired in the minor leagues without a chance to earn their way out, major league teams were able to draft players who played two consecutive years with the same minor league team. Several minor leagues were not subject to the draft; Landis fought for the inclusion of these leagues, feeling that the non-draft leagues could prevent players from advancing as they became more skilled. By 1924, he had succeeded, as the International League, the final holdout, accepted the draft.
 
@@ -237,11 +217,11 @@ Neyer noted that "Landis has been blamed for delaying the integration of the maj
 
 World Series and All-Star Game; other innovations
 
-Landis_and_Ruppert.jpg (standing), 1923]]
+(standing), 1923]]
 
 Landis took full jurisdiction over the World Series, as a contest between representatives of the two major leagues. Landis was blamed when the umpires called a game on account of darkness with the score tied during the 1922 World Series, even though there was still light. Landis decided that such decisions in future would be made by himself, moved forward the starting time of World Series games in future years, and announced that proceeds from the tied game would be donated to charity. In the 1932 World Series, Landis ordered that tickets for Game One at Yankee Stadium only be sold as part of strips, forcing fans to purchase tickets for all Yankee home games during that Series. Bad weather and the poor economy resulted in a half-filled stadium, and Landis allowed individual game sales for Game Two. During the 1933 World Series, he instituted a rule that only he could throw a player out of a World Series game, a rule which followed the ejection of Washington Senator Heinie Manush by umpire Charley Moran. The following year, with the visiting Cardinals ahead of the Detroit Tigers, 9–0 in Game Seven, he removed Cardinal Joe Medwick from the game for his own safety when Medwick, the left fielder, was pelted with fruit by Tiger fans after Medwick had been involved in a fight with one of the Tigers. Spink notes that Landis would most likely not have done so were the game within reach of the Tigers. In the 1938 World Series, umpire Moran was hit by a wild throw and suffered facial injuries. He was able to continue, but the incident caused Landis to order that World Series games and All-Star Games be played with six umpires.
 
-Landis_at_1937_All-Star_Game.jpg, Washington, D.C.]]
+, Washington, D.C.]]
 
 The All-Star Game began in 1933; Landis had been a strong supporter of the proposal for such a contest, and after the first game remarked, "That's a grand show, and it should be continued." He never missed an All-Star Game in his lifetime; his final public appearance was at the 1944 All-Star Game in Pittsburgh.
 
@@ -250,8 +230,6 @@ In 1928, National League ball clubs proposed an innovation whereby each team's p
 Landis disliked the innovation of "night baseball", played in the evening with the aid of artificial light, and sought to discourage teams from it. Despite this, he attended the first successful minor league night game, in Des Moines, Iowa, in 1930. When major league night baseball began in the late 1930s, Landis got the owners to restrict the number of such games. During World War II, many restrictions on night baseball were reduced, with the Washington Senators permitted to play all their home games (except those on Sundays and holidays) at night.
 
 World War II, death, and legacy
-
-Roosevelt_letter_to_Landis.jpg
 
 With the entry of the United States into World War II in late 1941, Landis wrote to President Franklin D. Roosevelt, inquiring as to the wartime status of baseball. The President responded, urging Landis to keep baseball open, foreseeing that even those fully engaged in war work would benefit from inexpensive diversions such as attending baseball games. Many major leaguers enlisted or were drafted; even so Landis repeatedly stated, "We'll play as long as we can put nine men on the field." Although many of the teams practiced at their normal spring training sites in 1942, beginning the following year they were required to train near their home cities or in the Northeast. Landis was as virulently opposed to the Axis Powers as he had been towards the Kaiser, writing that peace would not be possible until "about fifteen thousand little Hitler , Himmlers and Hirohitos" were killed.
 

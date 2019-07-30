@@ -13,7 +13,7 @@ Origin
 
 Biafra
 
-Starved_girl.jpg during the Nigerian Civil War]]
+during the Nigerian Civil War]]
 
 During the Nigerian Civil War of 1967 to 1970, the Nigerian military formed a blockade around the nation's newly independent south-eastern region, Biafra. At this time, France was the only major country supportive of the Biafrans (the United Kingdom, the Soviet Union and the United States sided with the Nigerian government), and the conditions within the blockade were unknown to the world. A number of French doctors volunteered with the French Red Cross to work in hospitals and feeding centres in besieged Biafra.[8] One of the co-founders of the organisation was Bernard Kouchner, who later became a high-ranking French politician.
 
@@ -64,7 +64,7 @@ Rwanda
 
 When the genocide in Rwanda began in April 1994, some delegates of MSF working in the country were incorporated into the International Committee of the Red Cross (ICRC) medical team for protection. Both groups succeeded in keeping all main hospitals in Rwanda's capital Kigali operational throughout the main period of the genocide. MSF, together with several other aid organisations, had to leave the country in 1995, although many MSF and ICRC volunteers worked together under the ICRC's rules of engagement, which held that neutrality was of the utmost importance. These events led to a debate within the organisation about the concept of balancing neutrality of humanitarian aid workers against their witnessing role. As a result of its Rwanda mission, the position of MSF with respect to neutrality moved closer to that of the ICRC, a remarkable development in the light of the origin of the organisation.[46]
 
-Mihanda_camp.jpg refugee camp in 1996. Pictured are 500+ tents set up in the Mitumba Mountains.]] The ICRC lost 56 and MSF lost almost one hundred of their respective local staff in Rwanda, and MSF-France, which had chosen to evacuate its team from the country (the local staff were forced to stay), denounced the murders and demanded that a French military intervention stop the genocide. MSF-France introduced the slogan _"One cannot stop a genocide with doctors"_ to the media, and the controversial Opération Turquoise followed less than one month later.[47] This intervention directly or indirectly resulted in movements of hundreds of thousands of Rwandan refugees to Zaire and Tanzania in what became known as the Great Lakes refugee crisis, and subsequent cholera epidemics, starvation and more mass killings in the large groups of civilians. MSF-France returned to the area and provided medical aid to refugees in Goma.[48]
+refugee camp in 1996. Pictured are 500+ tents set up in the Mitumba Mountains.]] The ICRC lost 56 and MSF lost almost one hundred of their respective local staff in Rwanda, and MSF-France, which had chosen to evacuate its team from the country (the local staff were forced to stay), denounced the murders and demanded that a French military intervention stop the genocide. MSF-France introduced the slogan _"One cannot stop a genocide with doctors"_ to the media, and the controversial Opération Turquoise followed less than one month later.[47] This intervention directly or indirectly resulted in movements of hundreds of thousands of Rwandan refugees to Zaire and Tanzania in what became known as the Great Lakes refugee crisis, and subsequent cholera epidemics, starvation and more mass killings in the large groups of civilians. MSF-France returned to the area and provided medical aid to refugees in Goma.[48]
 
 At the time of the genocide, competition between the medical efforts of MSF, the ICRC, and other aid groups had reached an all-time high,[49] but the conditions in Rwanda prompted a drastic change in the way humanitarian organisations approached aid missions. The _Code of Conduct for the International Red Cross and Red Crescent Movement and NGOs in Disaster Relief Programmes_ was created by the ICRC in 1994 to provide a framework for humanitarian missions and MSF is a signatory of this code.[50] The code advocates the provision of humanitarian aid only, and groups are urged not to serve any political or religious interest, or be used as a tool for foreign governments.[51] MSF has since still found it necessary to condemn the actions of governments, such as in Chechnya in 1999,[52] but has not demanded another military intervention since then.[53]
 
@@ -74,8 +74,6 @@ In the late 1990s, MSF missions were set up to treat tuberculosis and anaemia in
 
 
 Ongoing missions
-
-Médecins_Sans_Frontières_-_Missions_-_2015.svg
 
 The Campaign for Access to Essential Medicines was created in late 1999, providing MSF with a new voice with which to bring awareness to the lack of effective treatments and vaccines available in developing countries. In 1999, the organisation also spoke out about the lack of humanitarian support in Kosovo and Chechnya, having set up field missions to help civilians affected by the respective political situations. Although MSF had worked in the Kosovo region since 1993, the onset of the Kosovo War prompted the movement of tens of thousands of refugees, and a decline in suitable living conditions. MSF provided shelter, water and health care to civilians affected by NATO's strategic bombing campaigns.[59]
 
@@ -91,7 +89,7 @@ MSF went through a long process of self-examination and discussion in 2005–200
 
 Africa
 
-MSF_front_door_in_Chad.jpg (2005)]]
+(2005)]]
 
 MSF has been active in a large number of African countries for decades, sometimes serving as the sole provider of health care, food, and water. Although MSF has consistently attempted to increase media coverage of the situation in Africa to increase international support, long-term field missions are still necessary. Treating and educating the public about HIV/AIDS in sub-Saharan Africa, which sees the most deaths and cases of the disease in the world,[69] is a major task for volunteers. Of the 14.6 million people in need of anti-retroviral treatment the WHO estimated that only 5.25 million people were receiving it in developing countries, and MSF continues to urge governments and companies to increase research and development into HIV/AIDS treatments to decrease cost and increase availability.[70] _(See AIDS in Africa for more information)_
 
@@ -150,7 +148,7 @@ Medical aid is the main objective of most missions, although some missions help 
 
 Field mission team
 
-MSF_logistician_showing_plans.jpg showing plans]]
+showing plans]]
 
 A field mission team usually consists of a small number of coordinators to head each component of a field mission, and a "head of mission." The head of mission usually has the most experience in humanitarian situations of the members of the team, and it is his/her job to deal with the media, national governments and other humanitarian organizations. The head of mission does not necessarily have a medical background.
 
@@ -160,7 +158,7 @@ Although the medical volunteers almost always receive the most media attention w
 
 Medical component
 
-Preparing_to_enter_Ebola_treatment_unit_(2).jpg put on protective gear before entering an Ebola treatment ward in Liberia, August 2014]]
+put on protective gear before entering an Ebola treatment ward in Liberia, August 2014]]
 
 Vaccination campaigns are a major part of the medical care provided during MSF missions. Diseases such as diphtheria, measles, meningitis, tetanus, pertussis, yellow fever, polio, and cholera, all of which are uncommon in developed countries, may be prevented with vaccination. Some of these diseases, such as cholera and measles, spread rapidly in large populations living in close proximity, such as in a refugee camp, and people must be immunised by the hundreds or thousands in a short period of time.[106] For example, in Beira, Mozambique in 2004, an experimental cholera vaccine was received twice by approximately 50,000 residents in about one month.[107]
 
@@ -174,7 +172,7 @@ Nutrition
 
 Often in situations where an MSF mission is set up, there is moderate or severe malnutrition as a result of war, drought, or government economic mismanagement. Intentional starvation is also sometimes used during a war as a weapon, and MSF, in addition to providing food, brings awareness to the situation and insists on foreign government intervention. Infectious diseases and diarrhoea, both of which cause weight loss and weakening of a person's body (especially in children), must be treated with medication and proper nutrition to prevent further infections and weight loss. A combination of the above situations, as when a civil war is fought during times of drought and infectious disease outbreaks, can create famine.[114]
 
-An_MSF_health_worker_examines_a_malnourished_child.jpg, July 2011]] In emergency situations where there is a lack of nutritious food, but not to the level of a true famine, protein-energy malnutrition is most common among young children. Marasmus, a form of calorie deficiency, is the most common form of childhood malnutrition and is characterised by severe wasting and often fatal weakening of the immune system. Kwashiorkor, a form of calorie and protein deficiency, is a more serious type of malnutrition in young children, and can negatively affect physical and mental development. Both types of malnutrition can make opportunistic infections fatal.[115] In these situations, MSF sets up _Therapeutic Feeding Centres_ for monitoring the children and any other malnourished individuals.
+, July 2011]] In emergency situations where there is a lack of nutritious food, but not to the level of a true famine, protein-energy malnutrition is most common among young children. Marasmus, a form of calorie deficiency, is the most common form of childhood malnutrition and is characterised by severe wasting and often fatal weakening of the immune system. Kwashiorkor, a form of calorie and protein deficiency, is a more serious type of malnutrition in young children, and can negatively affect physical and mental development. Both types of malnutrition can make opportunistic infections fatal.[115] In these situations, MSF sets up _Therapeutic Feeding Centres_ for monitoring the children and any other malnourished individuals.
 
 A Therapeutic Feeding Centre (or Therapeutic Feeding Programme) is designed to treat severe malnutrition through the gradual introduction of a special diet intended to promote weight gain after the individual has been treated for other health problems. The treatment programme is split between two phases:[116]
 
@@ -235,7 +233,7 @@ _Living in Emergency_ is an award-winning documentary film by Mark N. Hopkins th
 
 1999 Nobel Peace Prize
 
-2015JamesOrbinski.jpg speaking about MSF in 2015.]] The then president of MSF, James Orbinski, gave the Nobel Peace Prize speech on behalf of the organization. In the opening, he discusses the conditions of the victims of the Rwandan genocide and focuses on one of his woman patients:[154]
+speaking about MSF in 2015.]] The then president of MSF, James Orbinski, gave the Nobel Peace Prize speech on behalf of the organization. In the opening, he discusses the conditions of the victims of the Rwandan genocide and focuses on one of his woman patients:[154]
 
 Orbinski affirmed the organization's commitment to publicizing the issues MSF encountered, stating[155]
 

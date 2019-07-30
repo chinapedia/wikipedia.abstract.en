@@ -44,8 +44,6 @@ In August 1955, black teenager Emmett Till was brutally murdered after reportedl
 
 Parks arrest and bus boycott
 
-Rosaparks_busdiagram.jpg
-
 Montgomery buses: law and prevailing customs
 
 In 1900, Montgomery had passed a city ordinance to segregate bus passengers by race. Conductors were empowered to assign seats to achieve that goal. According to the law, no passenger would be required to move or give up their seat and stand if the bus was crowded and no other seats were available. Over time and by custom, however, Montgomery bus drivers adopted the practice of requiring black riders to move when there were no white-only seats left.[28]
@@ -103,7 +101,7 @@ Detroit years
 
 1960s
 
-Rosaparks_bus.jpg reporter covering the event.]]
+reporter covering the event.]]
 
 After her arrest, Parks became an icon of the Civil Rights Movement but suffered hardships as a result. Due to economic sanctions used against activists, she lost her job at the department store. Her husband quit his job after his boss forbade him to talk about his wife or the legal case. Parks traveled and spoke extensively about the issues.
 
@@ -121,7 +119,7 @@ In the aftermath Parks collaborated with members of the League of Revolutionary 
 
 1970s
 
-Rosa_Parks_(13270402093)_(cropped).jpg In the 1970s, Parks organized for the freedom of political prisoners in the United States, particularly cases involving issues of self-defense. She helped found the Detroit chapter of the Joann Little Defense Committee, and also worked in support of the Wilmington 10, the RNA 11, and Gary Tyler.[75] Following national outcry around her case, Little succeeded in her defense that she used deadly force to resist sexual assault and was acquitted.[76] Gary Tyler was finally released in April 2016 after 41 years in prison.[77]
+In the 1970s, Parks organized for the freedom of political prisoners in the United States, particularly cases involving issues of self-defense. She helped found the Detroit chapter of the Joann Little Defense Committee, and also worked in support of the Wilmington 10, the RNA 11, and Gary Tyler.[75] Following national outcry around her case, Little succeeded in her defense that she used deadly force to resist sexual assault and was acquitted.[76] Gary Tyler was finally released in April 2016 after 41 years in prison.[77]
 
 The 1970s were a decade of loss for Parks in her personal life. Her family was plagued with illness; she and her husband had suffered stomach ulcers for years and both required hospitalization. In spite of her fame and constant speaking engagements, Parks was not a wealthy woman. She donated most of the money from speaking to civil rights causes, and lived on her staff salary and her husband's pension. Medical bills and time missed from work caused financial strain that required her to accept assistance from church groups and admirers.
 
@@ -133,7 +131,7 @@ In 1980, Parks—widowed and without immediate family—rededicated herself to c
 
 1990s
 
-Rosa_Parks_MLK_30th_anniversary.jpg In 1992, Parks published _Rosa Parks: My Story_, an autobiography aimed at younger readers, which recounts her life leading to her decision to keep her seat on the bus. A few years later, she published _Quiet Strength_ (1995), her memoir, which focuses on her faith.
+In 1992, Parks published _Rosa Parks: My Story_, an autobiography aimed at younger readers, which recounts her life leading to her decision to keep her seat on the bus. A few years later, she published _Quiet Strength_ (1995), her memoir, which focuses on her faith.
 
 At age 81 Parks was robbed and assaulted in her home in central Detroit on August 30, 1994. The assailant, Joseph Skipper, broke down the door but claimed he had chased away an intruder. He requested a reward and when Parks paid him, he demanded more. Parks refused and he attacked her. Hurt and badly shaken, Parks called a friend, who called the police. A neighborhood manhunt led to Skipper's capture and reported beating. Parks was treated at Detroit Receiving Hospital for facial injuries and swelling on the right side of her face. Parks said about the attack on her by the African-American man, "Many gains have been made ... But as you can see, at this time we still have a long way to go." Skipper was sentenced to 8 to 15 years and was transferred to prison in another state for his own safety.[83][84][85][86]
 
@@ -154,16 +152,16 @@ Death and funeral
 
 Parks died of natural causes on October 24, 2005, at the age of 92, in her apartment on the east side of Detroit. She and her husband never had children and she outlived her only sibling. She was survived by her sister-in-law (Raymond's sister), 13 nieces and nephews and their families, and several cousins, most of them residents of Michigan or Alabama.
 
-City officials in Montgomery and Detroit announced on October 27, 2005, that the front seats of their city buses would be reserved with black ribbons in honor of Parks until her funeral. Parks' coffin was flown to Montgomery and taken in a horse-drawn hearse to the St. Paul African Methodist Episcopal (AME) church, where she lay in repose at the altar on October 29, 2005, dressed in the uniform of a church deaconess. A memorial service was held there the following morning. One of the speakers, United States Secretary of State Condoleezza Rice, said that if it had not been for Parks, she would probably have never become the Secretary of State. In the evening the casket was transported to Washington, D.C. and transported by a bus similar to the one in which she made her protest, to lie in honor in the rotunda of the U.S. Capitol. Rosa_Parks_lying_in_state.jpg Since the founding of the practice in 1852, Parks was the 31st person, the first American who had not been a U.S. government official, and the second private person (after the French planner Pierre L'Enfant) to be honored in this way. She was the first woman and the second black person to lie in honor in the Capitol.[93][94] An estimated 50,000 people viewed the casket there, and the event was broadcast on television on October 31, 2005. A memorial service was held that afternoon at Metropolitan AME Church in Washington, DC.[95]
+City officials in Montgomery and Detroit announced on October 27, 2005, that the front seats of their city buses would be reserved with black ribbons in honor of Parks until her funeral. Parks' coffin was flown to Montgomery and taken in a horse-drawn hearse to the St. Paul African Methodist Episcopal (AME) church, where she lay in repose at the altar on October 29, 2005, dressed in the uniform of a church deaconess. A memorial service was held there the following morning. One of the speakers, United States Secretary of State Condoleezza Rice, said that if it had not been for Parks, she would probably have never become the Secretary of State. In the evening the casket was transported to Washington, D.C. and transported by a bus similar to the one in which she made her protest, to lie in honor in the rotunda of the U.S. Capitol. Since the founding of the practice in 1852, Parks was the 31st person, the first American who had not been a U.S. government official, and the second private person (after the French planner Pierre L'Enfant) to be honored in this way. She was the first woman and the second black person to lie in honor in the Capitol.[93][94] An estimated 50,000 people viewed the casket there, and the event was broadcast on television on October 31, 2005. A memorial service was held that afternoon at Metropolitan AME Church in Washington, DC.[95]
 
 With her body and casket returned to Detroit, for two days, Parks lay in repose at the Charles H. Wright Museum of African American History. Her funeral service was seven hours long and was held on November 2, 2005, at the Greater Grace Temple Church in Detroit. After the service, an honor guard from the Michigan National Guard laid the U.S. flag over the casket and carried it to a horse-drawn hearse, which was intended to carry it, in daylight, to the cemetery. As the hearse passed the thousands of people who were viewing the procession, many clapped, cheered loudly and released white balloons. Parks was interred between her husband and mother at Detroit's Woodlawn Cemetery in the chapel's mausoleum. The chapel was renamed the Rosa L. Parks Freedom Chapel in her honor.[96] Parks had previously prepared and placed a headstone on the selected location with the inscription "Rosa L. Parks, wife, 1913–."
 
 
 Legacy and honors
 
-Rosa_Parks_medal.gif]] RosaParks-BillClinton.jpg]] Rosa_Parks_Transit_Center_Detroit_Michigan.JPG Barack_Obama_in_the_Rosa_Parks_bus.jpg sitting on the bus. Parks was arrested sitting in the same row Obama is in, but on the opposite side.]]
+]] ]] sitting on the bus. Parks was arrested sitting in the same row Obama is in, but on the opposite side.]]
 
-Rosa_Parks'_Bus_Stop.jpg Rosa_parks_bus.jpg, serial number 1132), is now a museum exhibit at the Henry Ford Museum.]]
+, serial number 1132), is now a museum exhibit at the Henry Ford Museum.]]
 
 -   1963, Paul Stephenson established that a bus company was operating a color bar and inspired by the example of Rosa Parks' refusal to move off a "whites only" bus seat in Montgomery, Alabama, leading to the Montgomery bus boycott, a Bristol bus boycott was organized.[97][98]
 -   1976, Detroit renamed 12th Street "Rosa Parks Boulevard."[99]

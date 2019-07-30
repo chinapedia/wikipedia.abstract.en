@@ -3,7 +3,7 @@ LAURENCE STERNE (24 November 1713 – 18 March 1768) was an Irish novelist and a
 
 Early life and education
 
-Laurence_Sterne_by_Joseph_Nollekens,_1766,_National_Portrait_Gallery,_London.JPG, 1766, National Portrait Gallery, London]] Sterne was born in Clonmel, County Tipperary. His father, Roger Sterne, was an ensign in a British regiment recently returned from Dunkirk, which was disbanded on the day of Sterne's birth. Within six months the family had returned to Yorkshire, and in July 1715 they moved back to Ireland, having "decamped with Bag & Baggage for Dublin", in Sterne's words.[1]
+, 1766, National Portrait Gallery, London]] Sterne was born in Clonmel, County Tipperary. His father, Roger Sterne, was an ensign in a British regiment recently returned from Dunkirk, which was disbanded on the day of Sterne's birth. Within six months the family had returned to Yorkshire, and in July 1715 they moved back to Ireland, having "decamped with Bag & Baggage for Dublin", in Sterne's words.[1]
 
 The first decade of Sterne's life was spent moving from place to place as his father was reassigned throughout Ireland. During this period Sterne never lived in one place for more than a year. In addition to Clonmel and Dublin, his family also lived in, among other places, Wicklow Town, Annamoe (County Wicklow), Drogheda (County Louth), Castlepollard (County Westmeath), and Carrickfergus (County Antrim).[2] In 1724, his father took Sterne to Roger's wealthy brother, Richard, so that Sterne could attend Hipperholme Grammar School near Halifax; Sterne never saw his father again as Roger was ordered to Jamaica where he died of a fever in 1731. Sterne was admitted to a sizarship at Jesus College, Cambridge, in July 1733 at the age of 20.[3] His great-grandfather Richard Sterne had been the Master of the college as well as the Archbishop of York. Sterne graduated with a degree of Bachelor of Arts in January 1737; and returned in the summer of 1740 to be awarded his Master of Arts degree.[4]
 
@@ -19,7 +19,7 @@ Sterne lived in Sutton for twenty years, during which time he kept up an intimac
 
 Writing
 
-The_south_entrance_to_Shandy_Hall_showing_the_gates.jpg, Sterne's home in Coxwold, North Yorkshire]]
+, Sterne's home in Coxwold, North Yorkshire]]
 
 In 1759, to support his dean in a church squabble, Sterne wrote _A Political Romance_ (later called _The History of a Good Warm Watch-Coat_), a Swiftian satire of dignitaries of the spiritual courts. At the demands of embarrassed churchmen, the book was burnt. Thus, Sterne lost his chances for clerical advancement but discovered his real talents; until the completion of this first work, "he hardly knew that he could write at all, much less with humour so as to make his reader laugh".[7]
 
@@ -32,7 +32,7 @@ The publication of _Tristram Shandy_ made Sterne famous in London and on the con
 
 Foreign travel
 
-Laurence_Sterne_by_Louis_Carrogis_Carmontelle.jpg by French artist Louis Carrogis Carmontelle, ca. 1762]] Sterne continued to struggle with his illness, and departed England for France in 1762 in an effort to find a climate that would alleviate his suffering. Sterne was lucky to attach himself to a diplomatic party bound for Turin, as England and France were still adversaries in the Seven Years' War. Sterne was gratified by his reception in France, where reports of the genius of _Tristram Shandy_ had made him a celebrity. Aspects of this trip to France were incorporated into Sterne's second novel, _A Sentimental Journey Through France and Italy_.
+by French artist Louis Carrogis Carmontelle, ca. 1762]] Sterne continued to struggle with his illness, and departed England for France in 1762 in an effort to find a climate that would alleviate his suffering. Sterne was lucky to attach himself to a diplomatic party bound for Turin, as England and France were still adversaries in the Seven Years' War. Sterne was gratified by his reception in France, where reports of the genius of _Tristram Shandy_ had made him a celebrity. Aspects of this trip to France were incorporated into Sterne's second novel, _A Sentimental Journey Through France and Italy_.
 
 
 Eliza
@@ -53,7 +53,7 @@ The story of the reinterment of Sterne's skull in Coxwold is alluded to in Malco
 
 Works
 
-Tristram_Shandy_First_edition_spines.jpg]] Sterne's early works were letters; he had two ordinary sermons published (in 1747 and 1750), and tried his hand at satire. He was involved in, and wrote about, local politics in 1742. His major publication prior to _Tristram Shandy_ was the satire _A Political Romance_ (1759), aimed at conflicts of interest within York Minster. A posthumously published piece on the art of preaching, _A Fragment in the Manner of Rabelais_, appears to have been written in 1759. Rabelais was by far Sterne's favourite author, and in his correspondence he made clear that he considered himself as Rabelais' successor in humour writing, distancing himself from Jonathan Swift:[16][17]
+]] Sterne's early works were letters; he had two ordinary sermons published (in 1747 and 1750), and tried his hand at satire. He was involved in, and wrote about, local politics in 1742. His major publication prior to _Tristram Shandy_ was the satire _A Political Romance_ (1759), aimed at conflicts of interest within York Minster. A posthumously published piece on the art of preaching, _A Fragment in the Manner of Rabelais_, appears to have been written in 1759. Rabelais was by far Sterne's favourite author, and in his correspondence he made clear that he considered himself as Rabelais' successor in humour writing, distancing himself from Jonathan Swift:[16][17]
 
   I ... deny I have gone as far as Swift: he keeps a due distance from Rabelais; I keep a due distance from him.
 

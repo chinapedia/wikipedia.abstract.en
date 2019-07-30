@@ -55,7 +55,7 @@ This complex series of events, however, diverts attention from the primary resul
 
 The Barmah Choke and The Narrows mean the amount of water that can travel down this part of the Murray River is restricted. In times of flood and high irrigation flows the majority of the water, in addition to flooding the Red Gum forests, actually travels through the Edward River channel. The Murray River has not had enough flow power to naturally enlarge The Barmah Choke and The Narrows to increase the amount of water they can carry.
 
-The Cadell Fault is quite noticeable as a continuous, low, earthen embankment as one drives into Barmah from the west, although to the untrained eye it may appear man-made. Confluence_of_Murray_&_Darling_Rivers,_Wentworth,_NSW,_9.7.2007.jpg of the Darling and Murray Rivers at Wentworth, New South Wales]]
+The Cadell Fault is quite noticeable as a continuous, low, earthen embankment as one drives into Barmah from the west, although to the untrained eye it may appear man-made. of the Darling and Murray Rivers at Wentworth, New South Wales]]
 
 
 Murray mouth
@@ -64,7 +64,7 @@ The Murray Mouth is the point at which the Murray River empties into the sea,[12
 
 Since the early 2000s, dredging machines have operated at the Murray Mouth, moving sand from the channel to maintain a minimal flow from the sea and into the Coorong's lagoon system. Without the 24-hour dredging, the mouth would silt up and close, cutting the supply of fresh sea-water into the Coorong, which would then warm up, stagnate and die.
 
-Murray_River_mouth.JPG viewed from Hindmarsh Island]]
+viewed from Hindmarsh Island]]
 
 
 Mythology
@@ -97,15 +97,13 @@ George "Chinese" Morrison, then aged 18, navigated the river by canoe from Wodon
 
 River transport
 
-PS_Murray_Princess_2.JPG PSMelbourneLock11.jpg
-
 The lack of an estuary means that shipping cannot enter the Murray from the sea. However, in the 19th century the river supported a substantial commercial trade using shallow-draft paddle steamers, the first trips being made by two boats from South Australia on the spring flood of 1853. The _Lady Augusta_, captained by Francis Cadell, reached Swan Hill while another, _Mary Ann_, captained by William Randell, made it as far as Moama (near Echuca).[16] In 1855 a steamer carrying gold-mining supplies reached Albury but Echuca was the usual turn-around point, though small boats continued to link with up-river ports such as Tocumwal, Wahgunya and Albury.[17]
 
 The arrival of steamboat transport was welcomed by pastoralists who had been suffering from a shortage of transport due to the demands of the gold fields. By 1860 a dozen steamers were operating in the high water season along the Murray and its tributaries. Once the railway reached Echuca in 1864, the bulk of the woolclip from the Riverina was transported via river to Echuca and then south to Melbourne.
 
 The Murray was plagued by "snags", fallen trees submerged in the water, and considerable efforts were made to clear the river of these threats to shipping by using barges equipped with steam-driven winches. In recent times, efforts have been made to restore many of these snags by placing dead gum trees back into the river. The primary purpose of this is to provide habitat for fish species whose breeding grounds and shelter were eradicated by the removal of the snags.
 
-Night_travel_on_the_Murray_c1880.jpg travelling the Murray at night, c. 1880]] The volume and value of river trade made Echuca Victoria's second port and in the decade from 1874 it underwent considerable expansion. By this time up to thirty steamers and a similar number of barges were working the river in season. River transport began to decline once the railways touched the Murray at numerous points. The unreliable levels made it impossible for boats to compete with the rail and later road transport. However, the river still carries pleasure boats along its entire length.
+travelling the Murray at night, c. 1880]] The volume and value of river trade made Echuca Victoria's second port and in the decade from 1874 it underwent considerable expansion. By this time up to thirty steamers and a similar number of barges were working the river in season. River transport began to decline once the railways touched the Murray at numerous points. The unreliable levels made it impossible for boats to compete with the rail and later road transport. However, the river still carries pleasure boats along its entire length.
 
 Today, most traffic on the river is recreational. Small private boats are used for water skiing and fishing. Houseboats are common, both commercial for hire and privately owned. There are a number of both historic paddle steamers and newer boats offering cruises ranging from half an hour to 5 days.
 
@@ -116,7 +114,7 @@ The Murray River has been a significant barrier to land-based travel and trade. 
 
 Water storage and irrigation
 
-Murray_howlong.jpg]] Small-scale pumping plants began drawing water from the Murray in the 1850s and the first high-volume plant was constructed at Mildura in 1887. The introduction of pumping stations along the river promoted an expansion of farming and led ultimately to the development of irrigation areas (including the Murrumbidgee Irrigation Area).[18]
+]] Small-scale pumping plants began drawing water from the Murray in the 1850s and the first high-volume plant was constructed at Mildura in 1887. The introduction of pumping stations along the river promoted an expansion of farming and led ultimately to the development of irrigation areas (including the Murrumbidgee Irrigation Area).[18]
 
 In 1915, the three Murray states – New South Wales, Victoria, and South Australia – signed the River Murray Agreement which proposed the construction of storage reservoirs in the river's headwaters as well as at Lake Victoria near the South Australian border. Along the intervening stretch of the river a series of locks and weirs were built. These were originally proposed to support navigation even in times of low water, but riverborne transport was already declining due to improved highway and railway systems.
 
@@ -124,17 +122,17 @@ Four large reservoirs were built along the Murray. In addition to Lake Victoria 
 
 From 1935 to 1940 a series of barrages was built near the Murray Mouth to stop seawater egress into the lower part of the river during low flow periods. They are the Goolwa Barrage, located at , Mundoo Channel Barrage at , Boundary Creek Barrage at , Ewe Island Barrage at , and Tauwitchere Barrage at .
 
-Murray_berri.jpgs on the lower Murray near Berri, South Australia.]] These dams inverted the patterns of the river's natural flow from the original winter-spring flood and summer-autumn dry to the present low level through winter and higher during summer. These changes ensured the availability of water for irrigation and made the Murray Valley Australia's most productive agricultural region, but have seriously disrupted the life cycles of many ecosystems both inside and outside the river, and the irrigation has led to dryland salinity that now threatens the agricultural industries.
+s on the lower Murray near Berri, South Australia.]] These dams inverted the patterns of the river's natural flow from the original winter-spring flood and summer-autumn dry to the present low level through winter and higher during summer. These changes ensured the availability of water for irrigation and made the Murray Valley Australia's most productive agricultural region, but have seriously disrupted the life cycles of many ecosystems both inside and outside the river, and the irrigation has led to dryland salinity that now threatens the agricultural industries.
 
 The disruption of the river's natural flow, runoff from agriculture, and the introduction of pest species like the European carp has led to serious environmental damage along the river's length and to concerns that the river will be unusably salty in the medium to long term – a serious problem given that the Murray supplies 40 percent of the water supply for Adelaide. Efforts to alleviate the problems proceed but disagreement between various groups stalls progress.
 
-Goolwa_Barrage.JPG viewed from the freshwater side]]
+viewed from the freshwater side]]
 
 In 2006, the state government of South Australia revealed its plan to investigate the construction of the controversial Wellington Weir.
 
 Locks
 
-Lock_1_and_weir_at_Blanchetown.JPG]] Lock11Mildura.jpg Lock 1 was completed near Blanchetown in 1922. Torrumbarry weir downstream of Echuca began operating in December 1923. Of the numerous locks that were proposed, only thirteen were completed; Locks 1 to 11 on the stretch downstream of Mildura, Lock 15 at Euston and Lock 26 at Torrumbarry. Construction of the remaining weirs purely for navigation purposes was abandoned in 1934. The last lock to be completed was Lock 15, in 1937.[19] Lock 11, just downstream of Mildura, creates a long lock pool which aided irrigation pumping from Mildura and Red Cliffs.
+]] Lock 1 was completed near Blanchetown in 1922. Torrumbarry weir downstream of Echuca began operating in December 1923. Of the numerous locks that were proposed, only thirteen were completed; Locks 1 to 11 on the stretch downstream of Mildura, Lock 15 at Euston and Lock 26 at Torrumbarry. Construction of the remaining weirs purely for navigation purposes was abandoned in 1934. The last lock to be completed was Lock 15, in 1937.[19] Lock 11, just downstream of Mildura, creates a long lock pool which aided irrigation pumping from Mildura and Red Cliffs.
 
 Each lock has a navigable passage next to it through the weir, which is opened during periods of high river flow, when there is too much water for the lock. The weirs can be completely removed, and the locks completely covered by water during flood conditions. Lock 11 is unique in that the lock was built inside a bend of the river, with the weir in the bend itself. A channel was dug to the lock, creating an island between it and the weir. The weir is also of a different design, being dragged out of the river during high flow, rather than lifted out.
 

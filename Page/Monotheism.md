@@ -37,7 +37,7 @@ While all adherents of the Abrahamic religions consider themselves to be monothe
 
 Judaism
 
-Tetragrammaton_scripts.svg (10th century BCE to 135 CE), old Aramaic (10th century BCE to 4th century CE), and square Hebrew (3rd century BCE to present) scripts.]] Judaism is one of the oldest monotheistic religions in the world,[41] although some scholars have argued that the earliest Israelites (pre-7th century BCE) were monolatristic rather than monotheistic.[42] God in later Judaism was strictly monotheistic,[43] an absolute one, indivisible, and incomparable being who is the ultimate cause of all existence. The Babylonian Talmud references other, "foreign gods" as non-existent entities to whom humans mistakenly ascribe reality and power.[44] One of the best-known statements of Rabbinical Judaism on monotheism is the Second of Maimonides' 13 Principles of faith:
+(10th century BCE to 135 CE), old Aramaic (10th century BCE to 4th century CE), and square Hebrew (3rd century BCE to present) scripts.]] Judaism is one of the oldest monotheistic religions in the world,[41] although some scholars have argued that the earliest Israelites (pre-7th century BCE) were monolatristic rather than monotheistic.[42] God in later Judaism was strictly monotheistic,[43] an absolute one, indivisible, and incomparable being who is the ultimate cause of all existence. The Babylonian Talmud references other, "foreign gods" as non-existent entities to whom humans mistakenly ascribe reality and power.[44] One of the best-known statements of Rabbinical Judaism on monotheism is the Second of Maimonides' 13 Principles of faith:
 
 Some in Judaism[45] and Islam reject the Christian idea of monotheism. Judaism uses the term _shituf_ to refer to the worship of God in a manner which Judaism deems to be neither purely monotheistic (though still permissible for non-Jews) nor polytheistic (which would be prohibited).[46]
 
@@ -53,7 +53,7 @@ _Shema Yisrael_ ("Hear, [O] Israel") are the first two words of a section of the
 
 Christianity
 
-Shield-Trinity-Scutum-Fidei-English.svg is the belief in Christianity that God is one God in essence but three persons: God the Father, God the Son (Jesus), and God the Holy Spirit.[54]]]
+is the belief in Christianity that God is one God in essence but three persons: God the Father, God the Son (Jesus), and God the Holy Spirit.[54]]]
 
 Among early Christians there was considerable debate over the nature of the Godhead, with some denying the incarnation but not the deity of Jesus (Docetism) and others later calling for an Arian conception of God. Despite at least one earlier local synod rejecting the claim of Arius, this Christological issue was to be one of the items addressed at the First Council of Nicaea.
 
@@ -75,8 +75,6 @@ Unitarianism is a theological movement, named for its understanding of God as on
 
 Islam
 
-Allah1.png
-
 In Islam, God (Allāh) is all-powerful and all-knowing, the creator, sustainer, ordainer and judge of the universe.[61][62] God in Islam is strictly singular (_tawhid_)[63] unique (_wahid_) and inherently One (_ahad_), all-merciful and omnipotent.[64] Allāh exists without place[65] and the Qur'an states that "No vision can grasp Him, but His grasp is over all vision. God is above all comprehension, yet is acquainted with all things" (Qur'an 6:103)[66] Allāh is the only God and the same God worshiped in Christianity and Judaism. ().[67]
 
 Islam emerged in the 7th century CE in the context of both Christianity and Judaism, with some thematic elements similar to Gnosticism.[68][69][70][71][72][73][74][75] Islamic belief states that Muhammad did not bring a new religion from God, but is rather the same religion as practiced by Abraham, Moses, David, Jesus and all the other prophets of God.[76] The assertion of Islam is that the message of God had been corrupted, distorted or lost over time and the Quran was sent to Muhammad in order to correct the lost message of the Torah, New Testament and prior scriptures from God.[77]
@@ -97,7 +95,7 @@ Sabians are often identified with Mandaeism, a small monotheistic community whic
 
 Bahá'í Faith
 
-House_of_Worship_Germany_2007.jpg, Germany]]
+, Germany]]
 
 God in the Bahá'í Faith is taught to be a personal god, too great for humans to fully comprehend. Human primitive understanding of God is achieved through his revelations via his divine intermediary Manifestations.[89][90] In the Bahá'í faith, such Christian doctrines as the Trinity are seen as compromising the Bahá'í view that God is single and has no equal.[91] And the very existence of the Bahá'í Faith is a challenge to the Islamic doctrine of the finality of Muhammad's revelation.[92] God in the Bahá'í Faith communicates to humanity through divine intermediaries, known as Manifestations of God.[93] These Manifestations establish religion in the world.[94] It is through these divine intermediaries that humans can approach God, and through them God brings divine revelation and law.[95]
 
@@ -129,7 +127,7 @@ Under Akhenaten's successors, Egypt reverted to its traditional religion, and Ak
 
 Chinese view
 
-天-bronze-shang.svg bronze script character for _tian_ (天), which translates to Heaven and sky.]] The orthodox faith system held by most dynasties of China since at least the Shang Dynasty (1766 BCE) until the modern period centered on the worship of _Shangdi_ (literally "Above Sovereign", generally translated as "God") or Heaven as an omnipotent force.[106] This faith system pre-dated the development of Confucianism and Taoism and the introduction of Buddhism and Christianity. It has features of monotheism in that Heaven is seen as an omnipotent entity, a noncorporeal force with a personality transcending the world. From the writings of Confucius in the _Analects_, it is known Confucius believed that Heaven cannot be deceived, Heaven guides people's lives and maintains a personal relationship with them, and that Heaven gives tasks for people to fulfill in order to teach them of virtues and morality.[107] However, this faith system was not truly monotheistic since other lesser gods and spirits, which varied with locality, were also worshiped along with _Shangdi_. Still, later variants such as Mohism (470 BCE–c.391 BCE) approached true monotheism, teaching that the function of lesser gods and ancestral spirits is merely to carry out the will of _Shangdi_, akin to the angels in Abrahamic religions which in turn counts as only one god. In Mozi's _Will of Heaven_ (天志), he writes:
+bronze script character for _tian_ (天), which translates to Heaven and sky.]] The orthodox faith system held by most dynasties of China since at least the Shang Dynasty (1766 BCE) until the modern period centered on the worship of _Shangdi_ (literally "Above Sovereign", generally translated as "God") or Heaven as an omnipotent force.[106] This faith system pre-dated the development of Confucianism and Taoism and the introduction of Buddhism and Christianity. It has features of monotheism in that Heaven is seen as an omnipotent entity, a noncorporeal force with a personality transcending the world. From the writings of Confucius in the _Analects_, it is known Confucius believed that Heaven cannot be deceived, Heaven guides people's lives and maintains a personal relationship with them, and that Heaven gives tasks for people to fulfill in order to teach them of virtues and morality.[107] However, this faith system was not truly monotheistic since other lesser gods and spirits, which varied with locality, were also worshiped along with _Shangdi_. Still, later variants such as Mohism (470 BCE–c.391 BCE) approached true monotheism, teaching that the function of lesser gods and ancestral spirits is merely to carry out the will of _Shangdi_, akin to the angels in Abrahamic religions which in turn counts as only one god. In Mozi's _Will of Heaven_ (天志), he writes:
 
 Worship of _Shangdi_ and Heaven in ancient China includes the erection of shrines, the last and greatest being the Temple of Heaven in Beijing, and the offering of prayers. The ruler of China in every Chinese dynasty would perform annual sacrificial rituals to _Shangdi_, usually by slaughtering a completely healthy bull as sacrifice. Although its popularity gradually diminished after the advent of Taoism and Buddhism, among other religions, its concepts remained in use throughout the pre-modern period and have been incorporated in later religions in China, including terminology used by early Christians in China. Despite the rising of non-theistic and pantheistic spirituality contributed by Taoism and Buddhism, Shangdi was still praised up until the end of the Qing Dynasty as the last ruler of the Qing declared himself son of heaven.
 
@@ -155,7 +153,7 @@ Indo-Iranian religions
 
 Hinduism
 
-Vishnuvishvarupa.jpg displays his _Vishvarupa_ (universal form) to Arjuna on the battlefield of Kurukshetra.]] As an old religion, Hinduism inherits religious concepts spanning monotheism, polytheism, panentheism, pantheism, monism, and atheism among others;[113][114][115][116] and its concept of God is complex and depends upon each individual and the tradition and philosophy followed.
+displays his _Vishvarupa_ (universal form) to Arjuna on the battlefield of Kurukshetra.]] As an old religion, Hinduism inherits religious concepts spanning monotheism, polytheism, panentheism, pantheism, monism, and atheism among others;[113][114][115][116] and its concept of God is complex and depends upon each individual and the tradition and philosophy followed.
 
 Hindu views are broad and range from monism, through pantheism and panentheism (alternatively called monistic theism by some scholars) to monotheism and even atheism. Hinduism cannot be said to be purely polytheistic. Hindu religious leaders have repeatedly stressed that while God's forms are many and the ways to communicate with him are many, God is one. The _puja_ of the _murti_ is a way to communicate with the abstract one god (_Brahman_) which creates, sustains and dissolves creation.[117]
 
@@ -197,7 +195,7 @@ In other words, Nyaya says that the polytheist would have to give elaborate proo
 
 Sikhism
 
-Sikh_Temple_Manning_Drive_Edmonton_Alberta_Canada_01A.jpg'', in Alberta, Canada.]] Ek_onkar.png, a Sikh symbol representing "the One Supreme Reality"]] Sikhi is a monotheistic[135][136] and a revealed religion.[137] God in Sikhi is called _Vāhigurū_, and is shapeless, timeless, and sightless: _niraṅkār_, _akaal_, and _alakh_. God is present (_sarav viāpak_) in all of creation. God must be seen from "the inward eye", or the "heart". Sikhi devotees must meditate to progress towards enlightenment, as its rigorous application permits the existence of communication between God and human beings.[138]
+'', in Alberta, Canada.]] , a Sikh symbol representing "the One Supreme Reality"]] Sikhi is a monotheistic[135][136] and a revealed religion.[137] God in Sikhi is called _Vāhigurū_, and is shapeless, timeless, and sightless: _niraṅkār_, _akaal_, and _alakh_. God is present (_sarav viāpak_) in all of creation. God must be seen from "the inward eye", or the "heart". Sikhi devotees must meditate to progress towards enlightenment, as its rigorous application permits the existence of communication between God and human beings.[138]
 
 Sikhism is a monotheistic faith[139][140] that arose in northern India during the 16th and 17th centuries. Sikhs believe in one, timeless, omnipresent, supreme creator. The opening verse of the Guru Granth Sahib, known as the Mul Mantra, signifies this:
 
@@ -217,7 +215,7 @@ Sikhs believe that God has been given many names, but they all refer to the One 
 
 Zoroastrianism
 
-Faravahar-Gold.svg (or Ferohar), one of the primary symbols of Zoroastrianism, believed to be the depiction of a Fravashi (guardian spirit)]] Zoroastrianism combines cosmogonic dualism and eschatological monotheism which makes it unique among the religions of the world. Zoroastrianism proclaims an evolution through time from dualism to monotheism.[141]
+(or Ferohar), one of the primary symbols of Zoroastrianism, believed to be the depiction of a Fravashi (guardian spirit)]] Zoroastrianism combines cosmogonic dualism and eschatological monotheism which makes it unique among the religions of the world. Zoroastrianism proclaims an evolution through time from dualism to monotheism.[141]
 
 Zoroastrianism is a monotheistic religion,[142] although Zoroastrianism is often regarded[143] as dualistic, duotheistic or bitheistic, for its belief in the hypostatis of the ultimately good Ahura Mazda _(creative spirit)_ and the ultimately evil Angra Mainyu _(destructive spirit)_. Zoroastrianism was once one of the largest religions on Earth, as the official religion of the Persian Empire. By some scholars, the Zoroastrians ("Parsis" or "Zartoshtis") are credited with being some of the first monotheists and having had influence on other world religions. Gathered statistics shows the number of adherents at as many as 3.5 million,[144] with adherents living in many regions, including South Asia.
 
@@ -225,7 +223,7 @@ Ancient Greek religion
 
 Classical Greece
 
-Xenophanes_in_Thomas_Stanley_History_of_Philosophy.jpg from a 17th-century engraving]]
+from a 17th-century engraving]]
 
 The surviving fragments of the poems of the classical Greek philosopher Xenophanes of Colophon suggest that he held views very similar to those of modern monotheists.[145] His poems harshly criticize the traditional notion of anthropomorphic gods, commenting that "...if cattle and horses and lions had hands or could paint with their hands and create works such as men do,... [they] also would depict the gods' shapes and make their bodies of such a sort as the form they themselves have."[146] Instead, Xenophanes declares that there is "...one god, greatest among gods and humans, like mortals neither in form nor in thought."[147] Xenophanes's theology appears to have been monist, but not truly monotheistic in the strictest sense.[148] Although some later philosophers, such as Antisthenes, believed in doctrines similar to those expounded by Xenophanes, his ideas do not appear to have become widely popular.[149]
 
@@ -235,7 +233,7 @@ Hellenistic Religion
 
 The development of pure (philosophical) monotheism is a product of the Late Antiquity. During the 2nd to 3rd centuries, early Christianity was just one of several competing religious movements advocating monotheism.
 
-"The One" (Τὸ Ἕν) is a concept that is prominent in the writings of the Neoplatonists, especially those of the philosopher Plotinus.[151] In the writings of Plotinus, "The One" is described as an inconceivable, transcendent, all-embodying, permanent, eternal, causative entity that permeates throughout all of existence.[152] Columns_of_the_Temple_of_Apollo_at_Delphi,_Greece.jpeg at Delphi, Greece.]]
+"The One" (Τὸ Ἕν) is a concept that is prominent in the writings of the Neoplatonists, especially those of the philosopher Plotinus.[151] In the writings of Plotinus, "The One" is described as an inconceivable, transcendent, all-embodying, permanent, eternal, causative entity that permeates throughout all of existence.[152] at Delphi, Greece.]]
 
 A number of oracles of Apollo from Didyma and Clarus, the so-called "theological oracles", dated to the 2nd and 3rd century CE, proclaim that there is only one highest god, of whom the gods of polytheistic religions are mere manifestations or servants.[153] 4th century CE Cyprus had, besides Christianity, an apparently monotheistic cult of Dionysus.[154]
 

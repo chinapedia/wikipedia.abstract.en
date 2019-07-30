@@ -5,7 +5,7 @@ The DEMOGRAPHICS OF LESOTHO describe the condition and overview of Lesotho's peo
 
 Population
 
-Lesotho-demography.png data), year 2005; Number of inhabitants in thousands.]] According to the 2016 census, Lesotho has a total population of 2,007,201.[1] Of the population, 34.17 percent lived in urban and 65.83 percent in rural areas.[2] The country's capital, Maseru, accounts for around half of the total urban population. The sex distribution is 982,133 male and 1,025,068 female, or around 96 males for each 100 females.[3]
+data), year 2005; Number of inhabitants in thousands.]] According to the 2016 census, Lesotho has a total population of 2,007,201.[1] Of the population, 34.17 percent lived in urban and 65.83 percent in rural areas.[2] The country's capital, Maseru, accounts for around half of the total urban population. The sex distribution is 982,133 male and 1,025,068 female, or around 96 males for each 100 females.[3]
 
 The average population density in the country is around 66,1 people per square kilometer. The density is lower in the Lesotho Highlands than in the western lowlands. Although the majority of the population—56.1 percent—is between 15 and 64 years of age, Lesotho has a substantial youth population numbering around 37.8 percent.[4] The annual population growth rate is estimated at 0.13%[5]
 
@@ -126,8 +126,6 @@ Population
     1,962,461 (July 2018 est.)
 
 Age structure
-
-Lesothopop.svg
 
     _0-14 years:_ 31.84% (male 314,155 /female 310,772)
     _15-24 years:_ 19.34% (male 181,332 /female 198,236)

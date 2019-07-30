@@ -52,8 +52,6 @@ If an atom is already in the excited state, it may be agitated by the passage of
 
 Specifically, an excited atom will act like a small electric dipole which will oscillate with the external field provided. One of the consequences of this oscillation is that it encourages electrons to decay to the lowest energy state. When this happens due to the presence of the electromagnetic field from a photon, a photon is released in the same phase and direction as the "stimulating" photon, and is called stimulated emission.
 
-Stimulated_Emission.svg
-
 The rate at which stimulated emission occurs is proportional to the number of atoms _N_₂ in the excited state, and the radiation density of the light. The base probability of a photon causing stimulated emission in a single excited atom was shown by Albert Einstein to be exactly equal to the probability of a photon being absorbed by an atom in the ground state. Therefore, when the numbers of atoms in the ground and excited states are equal, the rate of stimulated emission is equal to the rate of absorption for a given radiation density.
 
 The critical detail of stimulated emission is that the induced photon has the same frequency and phase as the incident photon. In other words, the two photons are coherent. It is this property that allows optical amplification, and the production of a laser system. During the operation of a laser, all three light-matter interactions described above are taking place. Initially, atoms are energized from the ground state to the excited state by a process called _pumping_, described below. Some of these atoms decay via spontaneous emission, releasing incoherent light as photons of frequency, ν. These photons are fed back into the laser medium, usually by an optical resonator. Some of these photons are absorbed by the atoms in the ground state, and the photons are lost to the laser process. However, some photons cause stimulated emission in excited-state atoms, releasing another coherent photon. In effect, this results in _optical amplification_.
@@ -80,7 +78,7 @@ As described above, a population inversion is required for laser operation, but 
 
 Three-level lasers
 
-Population-inversion-3level.png To achieve non-equilibrium conditions, an indirect method of populating the excited state must be used. To understand how this is done, we may use a slightly more realistic model, that of a _three-level laser_. Again consider a group of _N_ atoms, this time with each atom able to exist in any of three energy states, levels 1, 2 and 3, with energies _E_₁, _E_₂, and _E_₃, and populations _N_₁, _N_₂, and _N_₃, respectively.
+To achieve non-equilibrium conditions, an indirect method of populating the excited state must be used. To understand how this is done, we may use a slightly more realistic model, that of a _three-level laser_. Again consider a group of _N_ atoms, this time with each atom able to exist in any of three energy states, levels 1, 2 and 3, with energies _E_₁, _E_₂, and _E_₃, and populations _N_₁, _N_₂, and _N_₃, respectively.
 
 We assume that _E_₁ < _E_₂ < _E_₃; that is, the energy of level 2 lies between that of the ground state and level 3.
 
@@ -94,7 +92,7 @@ Because at least half the population of atoms must be excited from the ground st
 
 Four-level laser
 
-Population-inversion-4level.png Here, there are four energy levels, energies _E_₁, _E_₂, _E_₃, _E_₄, and populations _N_₁, _N_₂, _N_₃, _N_₄, respectively. The energies of each level are such that _E_₁ < _E_₂ < _E_₃ < _E_₄.
+Here, there are four energy levels, energies _E_₁, _E_₂, _E_₃, _E_₄, and populations _N_₁, _N_₂, _N_₃, _N_₄, respectively. The energies of each level are such that _E_₁ < _E_₂ < _E_₃ < _E_₄.
 
 In this system, the pumping transition P excites the atoms in the ground state (level 1) into the pump band (level 4). From level 4, the atoms again decay by a fast, non-radiative transition RA into the level 3. Since the lifetime of the laser transition L is long compared to that of RA (τ₃₂ ≫ τ₄₃), a population accumulates in level 3 (the _upper laser level_), which may relax by spontaneous or stimulated emission into level 2 (the _lower laser level_). This level likewise has a fast, non-radiative decay RB into the ground state.
 

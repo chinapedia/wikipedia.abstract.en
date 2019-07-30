@@ -1,5 +1,3 @@
-Harp,_Metropolitan_Museum_of_Art.jpg
-
 LYON & HEALY HARPS, INC. is an American musical instrument manufacturer based in Chicago, Illinois and is a subsidiary of Salvi Harps. Today best known for concert harps, the company's Chicago headquarters and manufacturing facility contains a showroom and concert hall. George W. Lyon and Patrick J. Healy began the company in 1864 as a sheet music shop. By the end of the 19th century, they manufactured a wide range of musical instruments—including not only harps, but guitars, mandolins, banjos, ukuleles and various brass and percussion instruments.
 
 Today, Lyon & Healy harps are widely played by professional musicians, since they are one of the few makers of harps for orchestral use—which are known as _concert harps_ or _pedal harps_. Lyon & Healy also makes smaller _folk harps_ or lever harps (based on traditional Irish and Scottish instruments) that use levers to change string pitch instead of pedals. In the 1980s, Lyon & Healy also began to manufacture electroacoustic harps and, later, solid body electric harps.
@@ -25,13 +23,13 @@ In 1890, Lyon & Healy introduced the Style 23 Harp, still a popular and recogniz
 
 Lyon would later form a new company with E.A. Potter called Lyon & Potter, and remained there until his death on January 12, 1894. Healy died of pneumonia on April 3, 1905.[2]
 
-Lyonhealyprospectus.jpg Orchestrion]]
+Orchestrion]]
 
 In the 1890s the company—which used the slogan,"Everything in music"—began building pipe organs. In 1894 Robert J. Bennett came to Lyon & Healy from the Hutchens company of Boston to head their organ department. The largest surviving Lyon & Healy pipe organ is at the Our Lady of Sorrows Basilica in Chicago. It is a large organ of four manuals and 57 ranks of pipes.
 
 They also made small pipe organs. An example survives at St. Mary's Catholic Church in Aspen Colorado. It is a two manual tracker with a 30 note straight pedalboard and 7 ranks. It is believed to have been built around 1900, and can still be pumped by hand.
 
-Couturier3939web.jpg was bought in 1920s]]
+was bought in 1920s]]
 
 By the 1900s, Lyon & Healy was one of the largest music publishers in the world, and was a major producer of musical instruments. However, In late 1920s, Lyon & Healy sold its brass musical instrument manufacturing branch (see "New Langwill Index"). In the 1970s, the firm concentrated solely upon making and selling harps.
 
@@ -41,7 +39,7 @@ In the 1960s, Lyon & Healy introduced a smaller lever harp, the _Troubadour_, a 
 
 In the late 1970s, Steinway & Sons (then owned by CBS) purchased Lyon & Healy and soon after closed all retail stores—that sold sheet music and musical instruments, and their education departments—to focus on harp production.
 
-By 1985, Lyon & Healy also made folk harps, also known as _Irish harps_, which are even smaller than the Troubadour. The "_Shamrock model folk harp_" has 34 strings. It stands tall with its legs. The legs can be removed so the player can hold the instrument lap—style on the knees. It weighs about . It features Celtic designs on the soundboard. An Irish or folk harp player is sometimes called a _harper_ rather than _harpist_. Lyon_Healy_Harp.jpg, Illinois, as seen in a 2006 photograph.]]
+By 1985, Lyon & Healy also made folk harps, also known as _Irish harps_, which are even smaller than the Troubadour. The "_Shamrock model folk harp_" has 34 strings. It stands tall with its legs. The legs can be removed so the player can hold the instrument lap—style on the knees. It weighs about . It features Celtic designs on the soundboard. An Irish or folk harp player is sometimes called a _harper_ rather than _harpist_. , Illinois, as seen in a 2006 photograph.]]
 
 DePaul University now owns the Wabash building. Lyon & Healy harps are still in Chicago, Illinois, at 168 North Ogden Avenue. The building was once home to the recording studios of Orlando R. Marsh.
 

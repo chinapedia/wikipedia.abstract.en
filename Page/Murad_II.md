@@ -12,11 +12,7 @@ Murad was born in June 1404 (or 1403[4][5]) to Sultan Mehmed I and his wife Emin
 
 Sultan
 
-Hunername_138a.jpg
-
 Murad's reign was troubled by insurrection early on. The Byzantine Emperor, Manuel II, released the 'pretender'[6] Mustafa Çelebi (known as Düzmece Mustafa) from confinement and acknowledged him as the legitimate heir to the throne of Bayezid I (1389–1402). The Byzantine Emperor had first secured a stipulation that Mustafa should, if successful, repay him for his liberation by giving up a large number of important cities. The pretender was landed by the Byzantine galleys in the European dominion of the sultan and for a time made rapid progress. Many Turkish soldiers joined him, and he defeated and killed the veteran general Beyazid Pasha, whom Murad had sent to fight him. Mustafa defeated Murad's army and declared himself Sultan of Adrianople (modern Edirne). He then crossed the Dardanelles to Asia with a large army but Murad out-manoeuvered Mustafa. Mustafa's force passed over in large numbers to Murad II. Mustafa took refuge in the city of Gallipoli, but the sultan, who was greatly aided by a Genoese commander named Adorno, besieged him there and stormed the place. Mustafa was taken and put to death by the sultan, who then turned his arms against the Roman emperor and declared his resolution to punish the Palaiologos for their unprovoked enmity by the capture of Constantinople.
-
-Murad_II_and_John_Hunyadi.jpg
 
 Murad II then formed a new army called Azap in 1421 and marched through the Byzantine Empire and laid siege to Constantinople. While Murad was besieging the city, the Byzantines, in league with some independent Turkish Anatolian states, sent the sultan's younger brother Küçük Mustafa (who was only 13 years old) to rebel against the sultan and besiege Bursa. Murad had to abandon the siege of Constantinople in order to deal with his rebellious brother. He caught Prince Mustafa and executed him. The Anatolian states that had been constantly plotting against him — Aydinids, Germiyanids, Menteshe and Teke — were annexed and henceforth became part of the Ottoman Sultanate.
 

@@ -27,7 +27,7 @@ Propane can also be produced as a biofuel.[13] Biopropane is commercially sold i
 
 Properties and reactions
 
-Propane_flame_contours-en.svg of a propane flame using thin-filament velocimetry. The hottest parts of the flame are in a hollow cone-shaped area near its base and pointing upward. ]]
+of a propane flame using thin-filament velocimetry. The hottest parts of the flame are in a hollow cone-shaped area near its base and pointing upward. ]]
 
 Propane is a color- and odorless gas. At normal pressure it liquifies below it's boiling point at −42 °C and solidifies below it's melting point at −187.7 °C. Propane crystallizes in the space group P2₁/n [15][16]. The low spacefilling of 58.5 % (at 90 K), due to the bad stacking properties of the molecule, is the reason for the particularly low melting point.
 
@@ -52,13 +52,13 @@ Since it can be transported easily, it is a popular fuel for home heat and backu
 
 International ships can reuse propane from ocean-going ships that transport LPG because as the sun evaporates the propane during the voyage, the international ship catches the evaporating propane gas and feeds it into the air intake system of the ship's diesel engines. This reduces bunker fuel consumption and the pollution created by the ships. There is an international agreement to use either propane or CNG as a mandatory additive to the bunker fuel for all ocean traveling ships beginning in 2020.
 
-Propane_tank_20lb.jpg Propane is generally stored and transported in steel cylinders as a liquid with a vapor space above the liquid. The vapor pressure in the cylinder is a function of temperature. When gaseous propane is drawn at a high rate, the latent heat of vaporization required to create the gas will cause the bottle to cool. (This is why water often condenses on the sides of the bottle and then freezes). Since lightweight, high-octane propane vaporize before the heavier, low-octane propane, the ignition properties change as the cylinder empties. For these reasons, the liquid is often withdrawn using a dip tube.
+Propane is generally stored and transported in steel cylinders as a liquid with a vapor space above the liquid. The vapor pressure in the cylinder is a function of temperature. When gaseous propane is drawn at a high rate, the latent heat of vaporization required to create the gas will cause the bottle to cool. (This is why water often condenses on the sides of the bottle and then freezes). Since lightweight, high-octane propane vaporize before the heavier, low-octane propane, the ignition properties change as the cylinder empties. For these reasons, the liquid is often withdrawn using a dip tube.
 
 Commercially available "propane" fuel, or LPG, is not pure. Typically in the United States and Canada, LPG is primarily propane (at least 90%), while the rest is mostly ethane, propylene, butane, and odorants including ethyl mercaptan.[21][22] This is the HD-5 standard, (Heavy Duty-5% maximum allowable propylene content, and no more than 5% butanes and ethane) defined by the American Society for Testing and Materials by its Standard 1835 for internal combustion engines. Not all products labeled "LPG" conform to this standard, however. In Mexico, for example, gas labeled "LPG" may consist of 60% propane and 40% butane. "The exact proportion of this combination varies by country, depending on international prices, on the availability of components and, especially, on the climatic conditions that favor LPG with higher butane content in warmer regions and propane in cold areas".[23]
 
 Domestic and industrial fuel
 
-150_gallon_Propane_Tank.jpg for propane storage in the United States. This example was installed on this property in 1974.]] PropaneTruck2.jpg Propane_retail_06758.JPG]] Propane use is growing rapidly in non-industrialized areas of the world. Propane has replaced many older traditional fuel sources.
+for propane storage in the United States. This example was installed on this property in 1974.]] ]] Propane use is growing rapidly in non-industrialized areas of the world. Propane has replaced many older traditional fuel sources.
 
 North American industries using propane include glass makers, brick kilns, poultry farms and other industries that need portable heat.
 

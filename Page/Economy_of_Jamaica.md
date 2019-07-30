@@ -30,8 +30,6 @@ The unemployment rate in Jamaica is about 13.2% (April 2015, Statistical Institu
 
 Primary industries
 
-Jamaica_Export_Treemap.jpg
-
 Agriculture
 
 Agricultural production is an important contributor to Jamaica's economy. However, it is vulnerable to extreme weather, such as hurricanes and to competition from neighbouring countries such as the USA. Other difficulties faced by farmers include thefts from the farm, known as praedial larceny.[13] Agricultural production accounted for 7.4% of GDP in 1997, providing employment for nearly a quarter of the country.[14] Jamaica's agriculture, together with forestry and fishing, accounted for about 6.6% of GDP in 1999. Sugar has been produced in Jamaica for centuries, it is the nation's dominant agricultural export.[15] Sugar is produced in nearly every parish. The production of raw sugar in the year 2000 was estimated at 175,000 tons, a decrease from 290,000 tons in 1978.[16]
@@ -68,7 +66,7 @@ By the late 1890, only of Jamaica's original of forest remained. Roundwood produ
 
 Mining
 
-Windalco,_Alumina_plant.jpgJamaica was the third-leading producer of bauxite and alumina in 1998, producing 12.6 million tons of bauxite, accounting for 10.4% of world production, and 3.46 million tons of alumina, accounting for 7.4% of world production. 8,540 million tons of bauxite was mined in 2012 and 10,200 million tons of bauxite in 2011.[22]
+Jamaica was the third-leading producer of bauxite and alumina in 1998, producing 12.6 million tons of bauxite, accounting for 10.4% of world production, and 3.46 million tons of alumina, accounting for 7.4% of world production. 8,540 million tons of bauxite was mined in 2012 and 10,200 million tons of bauxite in 2011.[22]
 
 Mining and quarrying made up 4.1% of the nation's gross domestic product in 1999. Bauxite and alumina formed 55.2% of exports in 1999 and are the second-leading money earner after tourism. Jamaica has reserves of over 2 billion tonnes, which are expected to last 100 years. Bauxite is found in the central parishes of St. Elizabeth, Manchester, Clarendon, St. Catherine, St. Ann, and Trelawny. There are four alumina plants and six mines.
 

@@ -64,7 +64,7 @@ History
 
 Vulgar Latin
 
-Map_Length_of_Roman_Rule_Neo_Latin_Languages.jpg Latin_Europe.png Documentary evidence is limited about Vulgar Latin for the purposes of comprehensive research, and the literature is often hard to interpret or generalize. Many of its speakers were soldiers, slaves, displaced peoples, and forced resettlers, more likely to be natives of conquered lands than natives of Rome. In Western Europe, Latin gradually replaced Celtic and other Italic languages, which were related to it by a shared Indo-European origin. Commonalities in syntax and vocabulary facilitated the adoption of Latin.[10][11][12]
+Documentary evidence is limited about Vulgar Latin for the purposes of comprehensive research, and the literature is often hard to interpret or generalize. Many of its speakers were soldiers, slaves, displaced peoples, and forced resettlers, more likely to be natives of conquered lands than natives of Rome. In Western Europe, Latin gradually replaced Celtic and other Italic languages, which were related to it by a shared Indo-European origin. Commonalities in syntax and vocabulary facilitated the adoption of Latin.[10][11][12]
 
 Vulgar Latin is believed to have already had most of the features shared by all Romance languages, which distinguish them from Classical Latin, such as the almost complete loss of the Latin grammatical case system and its replacement by prepositions; the loss of the neuter grammatical gender and comparative inflections; replacement of some verb paradigms by innovations (e.g. the synthetic future gave way to an originally analytic strategy now typically formed by infinitive + evolved present indicative forms of 'have'); the use of articles; and the initial stages of the palatalization of the plosives /k/, /g/, and /t/.
 
@@ -107,7 +107,7 @@ The invention of the printing press brought a tendency towards greater uniformit
 
 Modern status
 
-Romance_20c_en.png Romance-procents.png The Romance language most widely spoken natively today is Spanish (Castilian), followed by Portuguese, French, Italian and Romanian, which together cover a vast territory in Europe and beyond, and work as official and national languages in dozens of countries.
+The Romance language most widely spoken natively today is Spanish (Castilian), followed by Portuguese, French, Italian and Romanian, which together cover a vast territory in Europe and beyond, and work as official and national languages in dozens of countries.
 
 upright=1.59
 

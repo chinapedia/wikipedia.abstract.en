@@ -33,8 +33,6 @@ Epithelial cell proliferation and fluid secretion that lead to cystogenesis are 
 
 Clinically, the insidious increase in the number and size of renal cysts translates as a progressive increment in kidney volume.[40][41] Studies led by Mayo Clinic professionals established that the total kidney volume (TKV) in a large cohort of ADPKD patients was 1060 ± 642ml with a mean increase of 204ml over three years, or 5.27% per year in the natural course of the disease, among other important, novel findings that were extensively studied for the first time.[42]
 
-PKD1PKD2_en.png
-
 
 Diagnosis
 

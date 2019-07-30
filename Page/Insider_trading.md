@@ -186,7 +186,7 @@ The longest prison sentence in a Norwegian trial where the main charge was insid
 
 United Kingdom
 
-Regulatory_fines_imposed_for_market_abuses_in_UK_1996-2009.png Although insider trading in the UK has been illegal since 1980, it proved difficult to successfully prosecute individuals accused of insider trading. There were a number of notorious cases where individuals were able to escape prosecution. Instead the UK regulators relied on a series of fines to punish market abuses.
+Although insider trading in the UK has been illegal since 1980, it proved difficult to successfully prosecute individuals accused of insider trading. There were a number of notorious cases where individuals were able to escape prosecution. Instead the UK regulators relied on a series of fines to punish market abuses.
 
 These fines were widely perceived as an ineffective deterrent (Cole, 2007),[72] and there was a statement of intent by the UK regulator (the Financial Services Authority) to use its powers to enforce the legislation (specifically the Financial Services and Markets Act 2000). Between 2009–2012 the FSA secured 14 convictions in relation to insider dealing.
 

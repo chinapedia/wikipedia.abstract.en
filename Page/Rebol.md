@@ -37,8 +37,6 @@ This is how a similar example looks in R3-GUI:
 
     view [text "Hello world!" button "Quit" on-action [quit]]
 
-R3-GUI Hello world example
-
 Dialects
 
 Rebol domain-specific languages, called _dialects_, are micro-languages optimized for a specific purpose. Dialects can be used to define business rules, graphical user interfaces or sequences of screens during the installation of a program. Users can define their own dialects, reusing any existing Rebol word and giving it a specific meaning in that dialect.[14] Dialects are interpreted by functions processing Rebol blocks (or parsing strings) in a specific way.

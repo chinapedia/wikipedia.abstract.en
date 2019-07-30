@@ -9,7 +9,7 @@ There is a replica of the Z3, as well as the original Z4, in the Deutsches Museu
 
 Pre-World War II work and the Z1
 
-Zuse_Z1-2.jpg in Berlin]] Born in Berlin on 22 June 1910, he moved with his family in 1912 to East Prussian Braunsberg (now Braniewo in Poland), where his father was a postal clerk. Zuse attended the Collegium Hosianum in Braunsberg. In 1923, the family moved to Hoyerswerda, where he passed his Abitur in 1928, qualifying him to enter university.
+in Berlin]] Born in Berlin on 22 June 1910, he moved with his family in 1912 to East Prussian Braunsberg (now Braniewo in Poland), where his father was a postal clerk. Zuse attended the Collegium Hosianum in Braunsberg. In 1923, the family moved to Hoyerswerda, where he passed his Abitur in 1928, qualifying him to enter university.
 
 He enrolled in the _Technische Hochschule Berlin_ (now Technical University of Berlin) and explored both engineering and architecture, but found them boring. Zuse then pursued civil engineering, graduating in 1935. For a time, he worked for the Ford Motor Company, using his considerable artistic skills in the design of advertisements.[11] He started work as a design engineer at the Henschel aircraft factory in Schönefeld near Berlin. This required the performance of many routine calculations by hand, which he found mind-numbingly boring, leading him to dream of doing them by machine.
 
@@ -20,7 +20,7 @@ Between 1987 and 1989, Zuse recreated the Z1, suffering a heart attack midway th
 
 Z2, Z3, and Z4
 
-2007-01-20_Gedenktafel_Zuse_Z3.jpg Zuse completed his work entirely independently of other leading computer scientists and mathematicians of his day. Between 1936 and 1945, he was in near-total intellectual isolation.[15] In 1939, Zuse was called to military service, where he was given the resources to ultimately build the Z2.[16] In September 1940 Zuse presented the Z2, covering several rooms in the parental flat, to experts of the Deutsche Versuchsanstalt für Luftfahrt (DVL; i.e. German Research Institute for Aviation).[17] The Z2 was a revised version of the Z1 using telephone relays.
+Zuse completed his work entirely independently of other leading computer scientists and mathematicians of his day. Between 1936 and 1945, he was in near-total intellectual isolation.[15] In 1939, Zuse was called to military service, where he was given the resources to ultimately build the Z2.[16] In September 1940 Zuse presented the Z2, covering several rooms in the parental flat, to experts of the Deutsche Versuchsanstalt für Luftfahrt (DVL; i.e. German Research Institute for Aviation).[17] The Z2 was a revised version of the Z1 using telephone relays.
 
 The DVL granted research subsidies so that in 1941 Zuse started a company, _Zuse Apparatebau_ (Zuse Apparatus Construction), to manufacture his machines,[18] renting a workshop on the opposite side in Methfesselstraße 7 and stretching through the block to Belle-Alliance Straße 29 (renamed and renumbered as Mehringdamm 84 in 1947).[19][20]
 
@@ -28,7 +28,7 @@ Improving on the basic Z2 machine, he built the Z3 in 1941. On 12 May 1941 Zuse 
 
 The Z3, the first fully operational electromechanical computer, was partially financed by German government-supported DVL, which wanted their extensive calculations automated. A request by his co-worker Helmut Schreyer—who had helped Zuse build the Z3 prototype in 1938[23]—for government funding for an electronic successor to the Z3 was denied as "strategically unimportant".
 
-KZuse_denkmal.jpg]] In 1937, Schreyer had advised Zuse to use vacuum tubes as switching elements; Zuse at this time considered it a crazy idea ("Schnapsidee" in his own words). Zuse's workshop on Methfesselstraße 7 (with the Z3) was destroyed in an Allied Air raid in late 1943 and the parental flat with Z1 and Z2 on 30 January the following year, whereas the successor Z4, which Zuse had begun constructing in 1942[24] in new premises in the _Industriehof_ on Oranienstraße 6, remained intact.[25] On 3 February 1945, aerial bombing caused devastating destruction in the Luisenstadt, the area around Oranienstraße, including neighbouring houses.[26] This event effectively brought Zuse's research and development to a complete halt. The partially finished, relay-based Z4 was packed and moved from Berlin on 14 February, only arriving in Göttingen two weeks later.[27]
+]] In 1937, Schreyer had advised Zuse to use vacuum tubes as switching elements; Zuse at this time considered it a crazy idea ("Schnapsidee" in his own words). Zuse's workshop on Methfesselstraße 7 (with the Z3) was destroyed in an Allied Air raid in late 1943 and the parental flat with Z1 and Z2 on 30 January the following year, whereas the successor Z4, which Zuse had begun constructing in 1942[24] in new premises in the _Industriehof_ on Oranienstraße 6, remained intact.[25] On 3 February 1945, aerial bombing caused devastating destruction in the Luisenstadt, the area around Oranienstraße, including neighbouring houses.[26] This event effectively brought Zuse's research and development to a complete halt. The partially finished, relay-based Z4 was packed and moved from Berlin on 14 February, only arriving in Göttingen two weeks later.[27]
 
 Work on the Z4 could not be resumed immediately in the extreme privation of post-war Germany, and it was not until 1949 that he was able to resume work on it. He showed it to the mathematician Eduard Stiefel of the Swiss Federal Institute of Technology Zurich (_Eidgenössische Technische Hochschule (ETH) Zürich_) who ordered one in 1950. On 8 November 1949, Zuse KG was founded. The Z4 was delivered to ETH Zurich on 12 July 1950, and proved very reliable.[28]
 
@@ -47,7 +47,7 @@ While working on his Z4 computer, Zuse realised that programming in machine code
 
 Graphomat Z64 plotter
 
-Zuse_Z64_Graphomat.jpg In addition to his computing-related work, described above, Zuse began to work in 1956 on a high precision, large format plotter. It was demonstrated at the 1961 Hanover Fair,[43] and became well known also outside of the technical world thanks to Frieder Nake's pioneering computer art work.[44]
+In addition to his computing-related work, described above, Zuse began to work in 1956 on a high precision, large format plotter. It was demonstrated at the 1961 Hanover Fair,[43] and became well known also outside of the technical world thanks to Frieder Nake's pioneering computer art work.[44]
 
 Other plotters designed by Zuse include the ZUSE Z90 and ZUSE Z9004.[45]
 
@@ -59,7 +59,7 @@ In the last years of his life, Zuse conceptualized and created a purely mechanic
 
 Personal life
 
-Konrad_Zuse_Denkmal_im_Huenfelder_Stadtpark.JPG, Hessen]] Konrad Zuse married Gisela Brandes in January 1945, employing a carriage, himself dressed in tailcoat and top hat and with Gisela in a wedding veil, for Zuse attached importance to a "noble ceremony". Their son Horst, the first of five children, was born in November 1945.
+, Hessen]] Konrad Zuse married Gisela Brandes in January 1945, employing a carriage, himself dressed in tailcoat and top hat and with Gisela in a wedding veil, for Zuse attached importance to a "noble ceremony". Their son Horst, the first of five children, was born in November 1945.
 
 While Zuse never became a member of the Nazi Party, he is not known to have expressed any doubts or qualms about working for the Nazi war effort. Much later, he suggested that in modern times, the best scientists and engineers usually have to choose between either doing their work for more or less questionable business and military interests in a Faustian bargain, or not pursuing their line of work at all.[48]
 
@@ -77,7 +77,7 @@ Zuse died on 18 December 1995 in Hünfeld, Hesse (near Fulda) from heart failure
 
 Zuse the entrepreneur
 
-Zuse-Werkstatt-Neukirchen-Jan-2010.jpg Zuse_Z31.jpg storage inside a Z31 (which was first displayed in 1963).]]
+storage inside a Z31 (which was first displayed in 1963).]]
 
 During World War 2, Zuse founded one of the earliest computer companies: the _Zuse-Ingenieurbüro Hopferau_. Capital was raised in 1946 through ETH Zurich and an IBM option on Zuse's patents.
 
@@ -88,7 +88,7 @@ By 1967, the _Zuse KG_ had built a total of 251 computers. Owing to financial pr
 
 _Calculating Space_
 
-Digitalteilchen.svg In 1967, Zuse also suggested that the universe itself is running on a cellular automaton or similar computational structure (digital physics); in 1969, he published the book _Rechnender Raum_ (translated into English as _Calculating Space_). This idea has attracted a lot of attention, since there is no physical evidence against Zuse's thesis. Edward Fredkin (1980s), Jürgen Schmidhuber (1990s), and others have expanded on it.
+In 1967, Zuse also suggested that the universe itself is running on a cellular automaton or similar computational structure (digital physics); in 1969, he published the book _Rechnender Raum_ (translated into English as _Calculating Space_). This idea has attracted a lot of attention, since there is no physical evidence against Zuse's thesis. Edward Fredkin (1980s), Jürgen Schmidhuber (1990s), and others have expanded on it.
 
 
 Awards and honours

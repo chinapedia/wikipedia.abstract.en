@@ -1,11 +1,11 @@
-Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg: The she-wolf is of unknown origin, the suckling twins were added circa 1500]] The LUPERCAL (from Latin _lupa_ "female wolf") was a cave at the southwest foot of the Palatine Hill in Rome, located somewhere between the temple of Magna Mater and the Sant'Anastasia al Palatino.[1] In the legend of the founding of Rome, Romulus and Remus were found there by the she-wolf who suckled them until they were rescued by the shepherd Faustulus. Luperci, the priests of Faunus, celebrated certain ceremonies of the Lupercalia at the cave, from the earliest days of the City until at least 494 AD.
+: The she-wolf is of unknown origin, the suckling twins were added circa 1500]] The LUPERCAL (from Latin _lupa_ "female wolf") was a cave at the southwest foot of the Palatine Hill in Rome, located somewhere between the temple of Magna Mater and the Sant'Anastasia al Palatino.[1] In the legend of the founding of Rome, Romulus and Remus were found there by the she-wolf who suckled them until they were rescued by the shepherd Faustulus. Luperci, the priests of Faunus, celebrated certain ceremonies of the Lupercalia at the cave, from the earliest days of the City until at least 494 AD.
 
 
 Modern discovery
 
 In January 2007, Italian archaeologist Irene Iacopi announced that she had probably found the legendary cave beneath the remains of Emperor Augustus's house, the _Domus Livia_, on the Palatine. Archaeologists came across the 15-meter-deep cavity while working to restore the decaying palace.[2][3]
 
-On 20 November 2007, the first set of photos were released showing the vault of the grotto which is encrusted with colourful mosaics, pumice stones and seashells. The center of the ceiling features a depiction of a white eagle, the symbol of the Roman Empire. Archaeologists are still searching for the entrance of the grotto.[4] Lupercal_grotto.jpg. The photo was taken with a probe.]] Its location below Augustus' residence was thought to be significant; Octavian, before he became Augustus, had considered taking the name Romulus to indicate that he intended to found Rome anew.[5][6]
+On 20 November 2007, the first set of photos were released showing the vault of the grotto which is encrusted with colourful mosaics, pumice stones and seashells. The center of the ceiling features a depiction of a white eagle, the symbol of the Roman Empire. Archaeologists are still searching for the entrance of the grotto.[4] . The photo was taken with a probe.]] Its location below Augustus' residence was thought to be significant; Octavian, before he became Augustus, had considered taking the name Romulus to indicate that he intended to found Rome anew.[5][6]
 
 Opposing opinions
 

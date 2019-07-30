@@ -11,7 +11,7 @@ Kent's economy is greatly diversified; haulage, logistics, and tourism are major
 
 Etymology
 
-Anglo-Saxon_Chronicle_-_kentland_(British_Library_Cotton_MS_Tiberius_A_VI,_folio_4r).jpg The name _Kent_ is believed to be of British Celtic origin and was known in Old English as _Cent_, _Cent lond_, _Centrice_ (all pronounced with a "hard C" as “Kent-”). In Latin sources Kent is mentioned as _Cantia_, _Canticum_. The meaning is explained by some researchers as "coastal district," or "corner-land, land on the edge" (compare Welsh _cant_ "bordering of a circle, tire, edge," Breton _cant_ "circle").[2][3] If so, the name could be etymologically related to the placename Cantabria, historically a Celtiberian-speaking coastal region in pre-Roman Iberia, today a province of Spain.
+The name _Kent_ is believed to be of British Celtic origin and was known in Old English as _Cent_, _Cent lond_, _Centrice_ (all pronounced with a "hard C" as “Kent-”). In Latin sources Kent is mentioned as _Cantia_, _Canticum_. The meaning is explained by some researchers as "coastal district," or "corner-land, land on the edge" (compare Welsh _cant_ "bordering of a circle, tire, edge," Breton _cant_ "circle").[2][3] If so, the name could be etymologically related to the placename Cantabria, historically a Celtiberian-speaking coastal region in pre-Roman Iberia, today a province of Spain.
 
 
 History
@@ -28,11 +28,11 @@ In the 11th century, the people of Kent adopted the motto _Invicta_, meaning "un
 
 Kent was traditionally partitioned into East and West Kent, and into lathes and hundreds. The traditional border of East and West Kent was the county's main river, the Medway. Men and women from east of the Medway are Men (or Maids) of Kent, those from the west are Kentishmen or Kentish Maids.[12]
 
-Flag_of_Kent.svg]]
+]]
 
 During the medieval and early modern period, Kent played a major role in several of England's most notable rebellions, including the Peasants' Revolt of 1381, led by Wat Tyler,[13] Jack Cade's Kent rebellion of 1450, and Wyatt's Rebellion of 1554 against Queen Mary I.[14]
 
-HistorieKent1576.jpg's _Perambulation of Kent_ (completed in 1570 and published in 1576), a historical description of Kent and the first published county history]]
+'s _Perambulation of Kent_ (completed in 1570 and published in 1576), a historical description of Kent and the first published county history]]
 
 The Royal Navy first used the River Medway in 1547. By the reign of Elizabeth I (1558–1603) a small dockyard had been established at Chatham. By 1618, storehouses, a ropewalk, a drydock, and houses for officials had been built downstream from Chatham.[15]
 
@@ -60,7 +60,7 @@ Kent is one of the warmest parts of Britain. On 10 August 2003, in the hamlet of
 
 Physical geography
 
-White_cliffs_of_dover_09_2004.jpg]] France_manche_vue_dover.JPG
+]]
 
 Kent is in the southeastern corner of England. It borders the River Thames and the North Sea to the north, and the Straits of Dover and the English Channel to the south. France is across the Strait.[22]
 
@@ -72,7 +72,7 @@ The Wealden dome is a Mesozoic structure lying on a Palaeozoic foundation, which
 
 Seismic activity has occasionally been recorded in Kent, though the epicentres were offshore. In 1382 and 1580 there were two earthquakes exceeding 6.0 on the Richter Scale. In 1776, 1950, and on 28 April 2007 there were earthquakes of around 4.3. The 2007 earthquake caused physical damage in Folkestone.[29] A further quake on 22 May 2015 measured 4.2 on the Richter Scale.[30] The epicentre was in the Sandwich area of east Kent at a depth of some ten miles from the surface. There was little if any damage reported.
 
-KentGeologyWealdenDome.svg The coastline of Kent is continuously changing, due to tectonic uplift and coastal erosion. Until about 960, the Isle of Thanet was an island, separated by the Wantsum channel, formed around a deposit of chalk; over time, the channels silted up with alluvium. Similarly Romney Marsh and Dungeness have been formed by accumulation of alluvium.[31]
+The coastline of Kent is continuously changing, due to tectonic uplift and coastal erosion. Until about 960, the Isle of Thanet was an island, separated by the Wantsum channel, formed around a deposit of chalk; over time, the channels silted up with alluvium. Similarly Romney Marsh and Dungeness have been formed by accumulation of alluvium.[31]
 
 Kent's principal river, the River Medway, rises near East Grinstead in Sussex and flows eastwards to Maidstone. Here it turns north and breaks through the North Downs at Rochester, then joins the estuary of the River Thames as its final tributary near Sheerness. The Medway is some long.[32][33] The river is tidal as far as Allington lock, but in earlier times, cargo-carrying vessels reached as far upstream as Tonbridge.[34] The Medway has captured the head waters of other rivers such as the River Darent. Other rivers of Kent include the River Stour in the east.
 
@@ -130,7 +130,7 @@ At the national level, Kent is represented in Parliament by 17 MPs, all of whom 
 
 Economy
 
-StreetFarmOastFrittendenKent(ValVannet)Apr2006.jpgs at Frittenden]] At the 2001 UK census,[44] employment statistics for the residents in Kent, including Medway, were as follows: 41.1% in full-time employment, 12.4% in part-time employment, 9.1% self-employed, 2.9% unemployed, 2.3% students with jobs, 3.7% students without jobs, 12.3% retired, 7.3% looking after home or family, 4.3% permanently sick or disabled, and 2.7% economically inactive for other reasons. Of residents aged 16–74, 16% had a higher education qualification or the equivalent, compared to 20% nationwide.[45]
+s at Frittenden]] At the 2001 UK census,[44] employment statistics for the residents in Kent, including Medway, were as follows: 41.1% in full-time employment, 12.4% in part-time employment, 9.1% self-employed, 2.9% unemployed, 2.3% students with jobs, 3.7% students without jobs, 12.3% retired, 7.3% looking after home or family, 4.3% permanently sick or disabled, and 2.7% economically inactive for other reasons. Of residents aged 16–74, 16% had a higher education qualification or the equivalent, compared to 20% nationwide.[45]
 
 The average hours worked per week by residents of Kent were 43.1 for males and 30.9 for females. Their industry of employment was 17.3% retail, 12.4% manufacturing, 11.8% real estate, 10.3% health and social work, 8.9% construction, 8.2% transport and communications, 7.9% education, 6.0% public administration and defence, 5.6% finance, 4.8% other community and personal service activities, 4.1% hotels and restaurants, 1.6% agriculture, 0.8% energy and water supply, 0.2% mining, and 0.1% private households. This is higher than the whole of England for construction and transport/communications, and lower for manufacturing.
 
@@ -172,7 +172,7 @@ Culture
 
 Architecture
 
-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg]] Kent's geographical location between the Straits of Dover and London has influenced its architecture, as has its Cretaceous geology and its good farming land and fine building clays. Kent's countryside pattern was determined by a gavelkind inheritance system that generated a proliferation of small settlements. There was no open-field system, and the large tracts were owned by the two great abbeys, Christ Church, Canterbury and St Augustine's Abbey, that did not pass into the hands of the king during the Reformation. Canterbury Cathedral is the United Kingdom's metropolitan cathedral; it was founded in AD 598 and displays architecture from all periods. There are nine Anglo-Saxon churches in Kent. Rochester Cathedral is England's second-oldest cathedral, the present building built in the Early English Style.[53] These two dioceses ensured that every village had a parish church.
+]] Kent's geographical location between the Straits of Dover and London has influenced its architecture, as has its Cretaceous geology and its good farming land and fine building clays. Kent's countryside pattern was determined by a gavelkind inheritance system that generated a proliferation of small settlements. There was no open-field system, and the large tracts were owned by the two great abbeys, Christ Church, Canterbury and St Augustine's Abbey, that did not pass into the hands of the king during the Reformation. Canterbury Cathedral is the United Kingdom's metropolitan cathedral; it was founded in AD 598 and displays architecture from all periods. There are nine Anglo-Saxon churches in Kent. Rochester Cathedral is England's second-oldest cathedral, the present building built in the Early English Style.[53] These two dioceses ensured that every village had a parish church.
 
 The sites of Richborough Castle and Dover Castle, along with two strategic sites along Watling Street, were fortified by the Romans and Normans. Other important sites include Canterbury city walls and Rochester Castle.[54] There remained a need to defend London and thus Kent. Deal Castle, Walmer Castle, Sandown Castle (whose remains were eroded by the sea in the 1990s) were constructed in late mediaeval times, and HM Dockyard, at Chatham and its surrounding castles and forts—Upnor Castle, Great Lines, and Fort Amherst—more recently.
 
@@ -203,7 +203,7 @@ Transport
 
 Roads
 
-MedwayM2BridgeCloud0169.JPG crossing the Medway Valley, south of Rochester]] With the Roman invasion, a road network was constructed to connect London to the Channel ports of Dover, Lympne and Richborough. The London–Dover road was Watling Street. These roads are now approximately the A2, B2068, A257, and the A28. The A2 runs through Dartford (A207), Gravesend, Rochester, Canterbury and Dover; the A20 through Eltham, Wrotham, Maidstone, Charing, Ashford. Hythe, Folkestone and Dover; the A21 around Sevenoaks, Tonbridge, Tunbridge Wells and on to Hastings in East Sussex.[62] In the 1960s, two motorways were built; the M2 from Medway to Faversham, and the M20 from Swanley to Folkestone. Part of the M25 runs through Kent, from Westerham to the Dartford Crossing. The M26 motorway, built in 1980, provides a short link between the M25 at Sevenoaks and the M20 near Wrotham. Kent currently has more motorways by distance than any other county in the UK, with sections of the M2, M20, M25 and M26 totalling within the extents of the ceremonial county.
+crossing the Medway Valley, south of Rochester]] With the Roman invasion, a road network was constructed to connect London to the Channel ports of Dover, Lympne and Richborough. The London–Dover road was Watling Street. These roads are now approximately the A2, B2068, A257, and the A28. The A2 runs through Dartford (A207), Gravesend, Rochester, Canterbury and Dover; the A20 through Eltham, Wrotham, Maidstone, Charing, Ashford. Hythe, Folkestone and Dover; the A21 around Sevenoaks, Tonbridge, Tunbridge Wells and on to Hastings in East Sussex.[62] In the 1960s, two motorways were built; the M2 from Medway to Faversham, and the M20 from Swanley to Folkestone. Part of the M25 runs through Kent, from Westerham to the Dartford Crossing. The M26 motorway, built in 1980, provides a short link between the M25 at Sevenoaks and the M20 near Wrotham. Kent currently has more motorways by distance than any other county in the UK, with sections of the M2, M20, M25 and M26 totalling within the extents of the ceremonial county.
 
 Water
 
@@ -211,13 +211,13 @@ The medieval Cinque Ports, except for the Port of Dover, have all now silted up.
 
 Railways
 
-StroodCTRL2.JPG train at km 48 (mile 30) on High Speed 1, near Strood]] The earliest locomotive-driven passenger-carrying railway in Britain was the Canterbury and Whitstable Railway which opened in 1830.[64] This and the London and Greenwich Railway later merged into South Eastern Railway (SER).[65] By the 1850s, SER's networks had expanded to Ashford, Ramsgate, Canterbury, Tunbridge Wells, and the Medway towns. SER's major London termini were London Bridge, Charing Cross, and Cannon Street. Kent also had a second major railway, the London, Chatham and Dover Railway (LCDR). Originally the East Kent Railway in 1858, it linked the northeast Kent coast with London terminals at Victoria and Blackfriars.
+train at km 48 (mile 30) on High Speed 1, near Strood]] The earliest locomotive-driven passenger-carrying railway in Britain was the Canterbury and Whitstable Railway which opened in 1830.[64] This and the London and Greenwich Railway later merged into South Eastern Railway (SER).[65] By the 1850s, SER's networks had expanded to Ashford, Ramsgate, Canterbury, Tunbridge Wells, and the Medway towns. SER's major London termini were London Bridge, Charing Cross, and Cannon Street. Kent also had a second major railway, the London, Chatham and Dover Railway (LCDR). Originally the East Kent Railway in 1858, it linked the northeast Kent coast with London terminals at Victoria and Blackfriars.
 
 The two companies merged in 1899, forming the South Eastern and Chatham Railway (SECR), further amalgamated with other railways by the Railways Act 1921 to form the Southern Railway.[66] Britain's railways were nationalised in 1948, forming British Railways (shortened to British Rail in the mid-1960s). The railways were privatised in 1996 and most Kent passenger services were franchised to Connex South Eastern.[67] Following financial difficulties, Connex lost the franchise and was replaced by South Eastern Trains and after Southeastern.[68]
 
 The Channel Tunnel was completed in 1994 and High Speed 1 in November 2007 with a London terminus at St Pancras. A new station, Ebbsfleet International, opened between Dartford and Gravesend, serving northern Kent.[69] The high speed lines will be utilised to provide a faster train service to coastal towns like Ramsgate and Folkestone. This station is in addition to the existing station at Ashford International, which has suffered a massive cut in service as a result.
 
-P9300406.JPG In addition to the "main line" railways, there are several light, heritage, and industrial railways in Kent. There are three heritage, standard gauge railways; Spa Valley Railway near Tunbridge Wells on the old Tunbridge Wells West branch, East Kent Railway on the old East Kent coalfield area and the Kent and East Sussex Railway on the Weald around Tenterden. In addition there is the gauge, Romney, Hythe and Dymchurch Railway on the southeast Kent coast along the Dungeness peninsula. Finally, there is the , industrial Sittingbourne & Kemsley Light Railway, previously the Bowaters Paper Railway.
+In addition to the "main line" railways, there are several light, heritage, and industrial railways in Kent. There are three heritage, standard gauge railways; Spa Valley Railway near Tunbridge Wells on the old Tunbridge Wells West branch, East Kent Railway on the old East Kent coalfield area and the Kent and East Sussex Railway on the Weald around Tenterden. In addition there is the gauge, Romney, Hythe and Dymchurch Railway on the southeast Kent coast along the Dungeness peninsula. Finally, there is the , industrial Sittingbourne & Kemsley Light Railway, previously the Bowaters Paper Railway.
 
 Air
 
@@ -255,7 +255,7 @@ Kent has the highest number of National Challenge schools in England: schools wh
 
 Sport
 
-Priestfield_Stadium_Medway_Stand.jpg is the home of Gillingham FC, Kent's only Football League team.]] In association football, Kent's highest ranked football team is Gillingham FC, who play in Football League One. Maidstone United were a Football League side from 1989 until going bankrupt in 1992. Kent clubs in the higher levels of non-league football include the current incarnation of Maidstone United and Dover Athletic playing in the National League along with Ebbsfleet United, who were promoted in 2017. Dartford currently play in National League South, the sixth tier of the English football pyramid.
+is the home of Gillingham FC, Kent's only Football League team.]] In association football, Kent's highest ranked football team is Gillingham FC, who play in Football League One. Maidstone United were a Football League side from 1989 until going bankrupt in 1992. Kent clubs in the higher levels of non-league football include the current incarnation of Maidstone United and Dover Athletic playing in the National League along with Ebbsfleet United, who were promoted in 2017. Dartford currently play in National League South, the sixth tier of the English football pyramid.
 
 Kent is represented in cricket by Kent County Cricket Club. The club was a founder member of the County Championship in 1890 and has won the competition, the major domestic first-class cricket competition, seven times. The club is based at the St Lawrence Ground in Canterbury and also plays matches at the Nevill Ground in Royal Tunbridge Wells and the County Cricket Ground, Beckenham.[85] The Kent Women cricket team has won the Women's County Championship seven times since it was established in 1997. Cricket has traditionally been a popular sport in the county and Kent is considered one of the locations in which the game first developed. Teams have represented the county since the early 18th century. The Kent Cricket League is the top level of club competition within Kent and features teams from throughout the county, including areas such as Beckenham and Bexley which were formerly part of the county.
 

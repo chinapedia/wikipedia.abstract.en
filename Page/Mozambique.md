@@ -16,7 +16,7 @@ The country was named Moçambique by the Portuguese after the Island of Mozambiq
 
 History
 
-Mozambique_(3912235854).jpg.]]
+.]]
 
 Bantu migrations
 
@@ -24,23 +24,23 @@ Between the 1st and 5th centuries AD, waves of Bantu-speaking people migrated fr
 
 Swahili Coast
 
-Slaves_ruvuma.jpg and their captives on the Ruvuma River]] From the late first millennium AD, vast Indian Ocean trade networks extended as far south into Mozambique as evidenced by the ancient port town of Chibuene.[7] Beginning in the 9th century, a growing involvement in Indian Ocean trade led to the development of numerous port towns along the entire East African coast, including modern day Mozambique. Largely autonomous, these towns broadly participated in the incipient Swahili culture. Islam was often adopted by urban elites, facilitating trade. In Mozambique, Sofala, Angoche, and Mozambique Island were regional powers by the 15th century.
+and their captives on the Ruvuma River]] From the late first millennium AD, vast Indian Ocean trade networks extended as far south into Mozambique as evidenced by the ancient port town of Chibuene.[7] Beginning in the 9th century, a growing involvement in Indian Ocean trade led to the development of numerous port towns along the entire East African coast, including modern day Mozambique. Largely autonomous, these towns broadly participated in the incipient Swahili culture. Islam was often adopted by urban elites, facilitating trade. In Mozambique, Sofala, Angoche, and Mozambique Island were regional powers by the 15th century.
 
 The towns traded with merchants from both the African interior and the broader Indian Ocean world. Particularly important were the gold and ivory caravan routes. Inland states like the Kingdom of Zimbabwe and Kingdom of Mutapa provided the coveted gold and ivory, which were then exchanged up the coast to larger port cities like Kilwa and Mombasa.[8]
 
 Portuguese Mozambique (1498–1975)
 
-Mozambique_n2.jpg is a small coral island at the mouth of Mossuril Bay on the Nacala coast of northern Mozambique, first explored by Europeans in the late 15th century.]]
+is a small coral island at the mouth of Mossuril Bay on the Nacala coast of northern Mozambique, first explored by Europeans in the late 15th century.]]
 
 From about 1500, Portuguese trading posts and forts displaced the Arabic commercial and military hegemony, becoming regular ports of call on the new European sea route to the east.[9]
 
 The voyage of Vasco da Gama around the Cape of Good Hope in 1498 marked the Portuguese entry into trade, politics, and society of the region. The Portuguese gained control of the Island of Mozambique and the port city of Sofala in the early 16th century, and by the 1530s, small groups of Portuguese traders and prospectors seeking gold penetrated the interior regions, where they set up garrisons and trading posts at Sena and Tete on the River Zambezi and tried to gain exclusive control over the gold trade.[10]
 
-In the central part of the Mozambique territory, the Portuguese attempted to legitimise and consolidate their trade and settlement positions through the creation of _prazos_ (land grants) tied to their settlement and administration. While _prazos_ were originally developed to be held by Portuguese, through intermarriage they became African Portuguese or African Indian centres defended by large African slave armies known as _Chikunda_. Historically within Mozambique there was slavery. Human beings were bought and sold by African tribal chiefs, first to Arab Muslim traders and sent to Middle East Asia cities and plantations, and later to Portuguese and other European traders as well. Many Mozambican slaves were supplied by tribal chiefs who raided warring tribes and sold their captives to the _prazeiros_.[11] Lourenco-Marques-pc-c1905.jpg
+In the central part of the Mozambique territory, the Portuguese attempted to legitimise and consolidate their trade and settlement positions through the creation of _prazos_ (land grants) tied to their settlement and administration. While _prazos_ were originally developed to be held by Portuguese, through intermarriage they became African Portuguese or African Indian centres defended by large African slave armies known as _Chikunda_. Historically within Mozambique there was slavery. Human beings were bought and sold by African tribal chiefs, first to Arab Muslim traders and sent to Middle East Asia cities and plantations, and later to Portuguese and other European traders as well. Many Mozambican slaves were supplied by tribal chiefs who raided warring tribes and sold their captives to the _prazeiros_.[11]
 
 Although Portuguese influence gradually expanded, its power was limited and exercised through individual settlers and officials who were granted extensive autonomy. The Portuguese were able to wrest much of the coastal trade from Arab Muslims between 1500 and 1700, but, with the Arab Muslim seizure of Portugal's key foothold at Fort Jesus on Mombasa Island (now in Kenya) in 1698, the pendulum began to swing in the other direction. As a result, investment lagged while Lisbon devoted itself to the more lucrative trade with India and the Far East and to the colonisation of Brazil.[12]
 
-During these wars, the Mazrui and Omani Arabs reclaimed much of the Indian Ocean trade, forcing the Portuguese to retreat south. Many _prazos_ had declined by the mid-19th century, but several of them survived. During the 19th century other European powers, particularly the British (British South Africa Company) and the French (Madagascar), became increasingly involved in the trade and politics of the region around the Portuguese East African territories. TT_CMZ-AF-GT_E_2-1_10_81_-_Oficina_de_Tipografia_da_Escola_de_Artes_e_Ofícios.jpg
+During these wars, the Mazrui and Omani Arabs reclaimed much of the Indian Ocean trade, forcing the Portuguese to retreat south. Many _prazos_ had declined by the mid-19th century, but several of them survived. During the 19th century other European powers, particularly the British (British South Africa Company) and the French (Madagascar), became increasingly involved in the trade and politics of the region around the Portuguese East African territories.
 
 By the early 20th century the Portuguese had shifted the administration of much of Mozambique to large private companies, like the Mozambique Company, the Zambezia Company and the Niassa Company, controlled and financed mostly by "British" financiers such as Solomon Joel, which established railroad lines to their neighbouring colonies (South Africa and Rhodesia). Although slavery had been legally abolished in Mozambique, at the end of the 19th century the Chartered companies enacted a forced labour policy and supplied cheap—often forced—African labour to the mines and plantations of the nearby British colonies and South Africa.[13] The Zambezia Company, the most profitable chartered company, took over a number of smaller _prazeiro_ holdings, and established military outposts to protect its property. The chartered companies built roads and ports to bring their goods to market including a railroad linking present day Zimbabwe with the Mozambican port of Beira.[14][15]
 
@@ -48,7 +48,7 @@ Due to their unsatisfactory performance and the shift, under the corporatist Est
 
 Mozambican War of Independence (1964–1974)
 
-Sempreatentos...aoperigo!.jpg, some loading FN FAL and G3. ]]
+, some loading FN FAL and G3. ]]
 
 As communist and anti-colonial ideologies spread out across Africa, many clandestine political movements were established in support of Mozambican independence. These movements claimed that since policies and development plans were primarily designed by the ruling authorities for the benefit of Mozambique's Portuguese population, little attention was paid to Mozambique's tribal integration and the development of its native communities.[19]
 
@@ -62,11 +62,11 @@ FRELIMO took control of the territory after ten years of sporadic warfare, as we
 
 Mozambican Civil War (1977–1992)
 
-Land_mine_victim_2_(4364914733).jpg The new government under president Samora Machel established a one-party state based on Marxist principles. It received diplomatic and some military support from Cuba and the Soviet Union and proceeded to crack down on opposition.[22] Starting shortly after the independence, the country was plagued from 1977 to 1992 by a long and violent civil war between the opposition forces of anti-communist Mozambican National Resistance (RENAMO) rebel militias and the FRELIMO regime. This conflict characterised the first decades of Mozambican independence, combined with sabotage from the neighbouring states of Rhodesia and South Africa, ineffective policies, failed central planning, and the resulting economic collapse. This period was also marked by the exodus of Portuguese nationals and Mozambicans of Portuguese heritage,[23] a collapsed infrastructure, lack of investment in productive assets, and government nationalisation of privately owned industries, as well as widespread famine.
+The new government under president Samora Machel established a one-party state based on Marxist principles. It received diplomatic and some military support from Cuba and the Soviet Union and proceeded to crack down on opposition.[22] Starting shortly after the independence, the country was plagued from 1977 to 1992 by a long and violent civil war between the opposition forces of anti-communist Mozambican National Resistance (RENAMO) rebel militias and the FRELIMO regime. This conflict characterised the first decades of Mozambican independence, combined with sabotage from the neighbouring states of Rhodesia and South Africa, ineffective policies, failed central planning, and the resulting economic collapse. This period was also marked by the exodus of Portuguese nationals and Mozambicans of Portuguese heritage,[23] a collapsed infrastructure, lack of investment in productive assets, and government nationalisation of privately owned industries, as well as widespread famine.
 
 During most of the civil war, the FRELIMO-formed central government was unable to exercise effective control outside of urban areas, many of which were cut off from the capital.[24] RENAMO-controlled areas included up to 50% of the rural areas in several provinces, and it is reported that health services of any kind were isolated from assistance for years in those areas. The problem worsened when the government cut back spending on health care.[25] The war was marked by mass human rights violations from both sides of the conflict, with RENAMO contributing to the chaos through the use of terror and indiscriminate targeting of civilians.[26][27] The central government executed tens of thousands of people while trying to extend its control throughout the country and sent many people to "re-education camps" where thousands died.[28]
 
-RhodesiaAllies1975.png During the war, RENAMO proposed a peace agreement based on the secession of RENAMO-controlled northern and western territories as the independent _Republic of Rombesia_, but FRELIMO refused, insisting on the undivided sovereignty of the entire country. An estimated one million Mozambicans perished during the civil war, 1.7 million took refuge in neighbouring states, and several million more were internally displaced.[29] The FRELIMO regime also gave shelter and support to South African (African National Congress) and Zimbabwean (Zimbabwe African National Union) rebel movements, while the governments of Rhodesia and later South Africa (at that time still apartheid) backed RENAMO in the civil war.[30]
+During the war, RENAMO proposed a peace agreement based on the secession of RENAMO-controlled northern and western territories as the independent _Republic of Rombesia_, but FRELIMO refused, insisting on the undivided sovereignty of the entire country. An estimated one million Mozambicans perished during the civil war, 1.7 million took refuge in neighbouring states, and several million more were internally displaced.[29] The FRELIMO regime also gave shelter and support to South African (African National Congress) and Zimbabwean (Zimbabwe African National Union) rebel movements, while the governments of Rhodesia and later South Africa (at that time still apartheid) backed RENAMO in the civil war.[30]
 
 On 19 October 1986, Samora Machel was on his way back from an international meeting in Zambia in the presidential Tupolev Tu-134 aircraft when the plane crashed in the Lebombo Mountains near Mbuzini. There were ten survivors, but President Machel and thirty-three others died, including ministers and officials of the Mozambique government. The United Nations' Soviet delegation issued a minority report contending that their expertise and experience had been undermined by the South Africans. Representatives of the Soviet Union advanced the theory that the plane had been intentionally diverted by a false navigational beacon signal, using a technology provided by military intelligence operatives of the South African government.[31]
 
@@ -74,7 +74,7 @@ Machel's successor Joaquim Chissano implemented sweeping changes in the country,
 
 Democratic era (1993–present)
 
-Helicopter_over_flooded_Central_Mozambique.jpg flying over the flooded Limpopo River during the 2000 Mozambique flood.]] Mozambique held elections in 1994, which were accepted by most political parties as free and fair although still contested by many nationals and observers alike. FRELIMO won, under Joaquim Chissano, while RENAMO, led by Afonso Dhlakama, ran as the official opposition.
+flying over the flooded Limpopo River during the 2000 Mozambique flood.]] Mozambique held elections in 1994, which were accepted by most political parties as free and fair although still contested by many nationals and observers alike. FRELIMO won, under Joaquim Chissano, while RENAMO, led by Afonso Dhlakama, ran as the official opposition.
 
 In 1995, Mozambique joined the Commonwealth of Nations, becoming, at the time, the only member nation that had never been part of the British Empire.
 
@@ -91,7 +91,7 @@ Since 2013, a low-intensity insurgency by RENAMO has been occurring, mainly in t
 
 Geography and climate
 
-Mozambique_sat.png At , Mozambique is the world's 36th-largest country. It is comparable in size to Turkey. Mozambique is located on the southeast coast of Africa. It is bound by Swaziland to the south, South Africa to the southwest, Zimbabwe to the west, Zambia and Malawi to the northwest, Tanzania to the north and the Indian Ocean to the east. Mozambique lies between latitudes 10° and 27°S, and longitudes 30° and 41°E.
+At , Mozambique is the world's 36th-largest country. It is comparable in size to Turkey. Mozambique is located on the southeast coast of Africa. It is bound by Swaziland to the south, South Africa to the southwest, Zimbabwe to the west, Zambia and Malawi to the northwest, Tanzania to the north and the Indian Ocean to the east. Mozambique lies between latitudes 10° and 27°S, and longitudes 30° and 41°E.
 
 The country is divided into two topographical regions by the Zambezi River. To the north of the Zambezi River, the narrow coastal strip gives way to inland hills and low plateaus. Rugged highlands are further west; they include the Niassa highlands, Namuli or Shire highlands, Angonia highlands, Tete highlands and the Makonde plateau, covered with miombo woodlands. To the south of the Zambezi River, the lowlands are broader with the Mashonaland plateau and Lebombo Mountains located in the deep south.
 
@@ -101,7 +101,7 @@ File:Ghost mountain mkuze sunset.jpg|Lebombo Mountains File:Gorongosa - Gogogo p
 
 Climate
 
-Koppen-Geiger_Map_MOZ_present.svg Mozambique has a tropical climate with two seasons, a wet season from October to March and a dry season from April to September. Climatic conditions, however, vary depending on altitude. Rainfall is heavy along the coast and decreases in the north and south. Annual precipitation varies from depending on the region, with an average of . Cyclones are common during the wet season. Average temperature ranges in Maputo are from in July and from in February.
+Mozambique has a tropical climate with two seasons, a wet season from October to March and a dry season from April to September. Climatic conditions, however, vary depending on altitude. Rainfall is heavy along the coast and decreases in the north and south. Annual precipitation varies from depending on the region, with an average of . Cyclones are common during the wet season. Average temperature ranges in Maputo are from in July and from in February.
 
 In 2019 Mozambique suffered floods and destruction from the devastating cyclones Idai and Kenneth. This is the first time two cyclones have struck the southern African nation in a single season.[38]
 
@@ -114,7 +114,7 @@ Protected areas of Mozambique include thirteen forest reserves, seven national p
 
 Politics
 
-Filipe_Nyusi.jpg.]] Conselho_Municipal_de_Maputo_frente.jpg Mozambique is a multi-party democracy under the 1990 constitution. The executive branch comprises a President, Prime Minister, and Council of Ministers. There is a National Assembly and municipal assemblies. The judiciary comprises a Supreme Court and provincial, district, and municipal courts. Suffrage is universal at eighteen. In the 1994 elections, Joaquim Chissano was elected President with 53% of the vote, and a 250-member National Assembly was voted in with 129 Liberation Front of Mozambique (FRELIMO) deputies, 112 Mozambican National Resistance (RENAMO) deputies, and nine representatives of three smaller parties that formed the Democratic Union (UD). Since its formation in 1994, the National Assembly has made progress in becoming a body increasingly more independent of the executive. By 1999, more than one-half (53%) of the legislation passed originated in the Assembly.[39]
+.]] Mozambique is a multi-party democracy under the 1990 constitution. The executive branch comprises a President, Prime Minister, and Council of Ministers. There is a National Assembly and municipal assemblies. The judiciary comprises a Supreme Court and provincial, district, and municipal courts. Suffrage is universal at eighteen. In the 1994 elections, Joaquim Chissano was elected President with 53% of the vote, and a 250-member National Assembly was voted in with 129 Liberation Front of Mozambique (FRELIMO) deputies, 112 Mozambican National Resistance (RENAMO) deputies, and nine representatives of three smaller parties that formed the Democratic Union (UD). Since its formation in 1994, the National Assembly has made progress in becoming a body increasingly more independent of the executive. By 1999, more than one-half (53%) of the legislation passed originated in the Assembly.[39]
 
 After some delays, in 1998 the country held its first local elections to provide for local representation and some budgetary authority at the municipal level. The principal opposition party, RENAMO, boycotted the local elections, citing flaws in the registration process. Independent slates contested the elections and won seats in municipal assemblies. Turnout was very low.[40]
 
@@ -122,7 +122,7 @@ In the aftermath of the 1998 local elections, the government resolved to make mo
 
 The second general elections were held 3–5 December 1999, with high voter turnout. International and domestic observers agreed that the voting process was well organised and went smoothly. Both the opposition and observers subsequently cited flaws in the tabulation process that, had they not occurred, might have changed the outcome. In the end, however, international and domestic observers concluded that the close result of the vote reflected the will of the people.[42]
 
-FRELIMO_final_campaign_rally_in_Maputo.jpg.]] President Chissano won the presidency with a margin of 4% over the RENAMO-Electoral Union coalition candidate, Afonso Dhlakama, and began his five-year term in January 2000. FRELIMO increased its majority in the National Assembly with 133 out of 250 seats. RENAMO-UE coalition won 116 seats, one went independent, and no third parties are represented.[43]
+.]] President Chissano won the presidency with a margin of 4% over the RENAMO-Electoral Union coalition candidate, Afonso Dhlakama, and began his five-year term in January 2000. FRELIMO increased its majority in the National Assembly with 133 out of 250 seats. RENAMO-UE coalition won 116 seats, one went independent, and no third parties are represented.[43]
 
 The opposition coalition did not accept the National Election Commission's results of the presidential vote and filed a formal complaint to the Supreme Court. One month after the voting, the court dismissed the opposition's challenge and validated the election results. The opposition did not file a complaint about the results of the legislative vote.[44]
 
@@ -138,7 +138,7 @@ After clashes between RENAMO guards and the police in Muxungue and Gondola in Ap
 
 Foreign relations
 
-Embassy_of_Mozambique,_Washington,_D.C..jpg While allegiances dating back to the liberation struggle remain relevant, Mozambique's foreign policy has become increasingly pragmatic. The twin pillars of Mozambique's foreign policy are maintenance of good relations with its neighbours[46] and maintenance and expansion of ties to development partners.[47]
+While allegiances dating back to the liberation struggle remain relevant, Mozambique's foreign policy has become increasingly pragmatic. The twin pillars of Mozambique's foreign policy are maintenance of good relations with its neighbours[46] and maintenance and expansion of ties to development partners.[47]
 
 During the 1970s and the early 1980s, Mozambique's foreign policy was inextricably linked to the struggles for majority rule in Rhodesia and South Africa as well as superpower competition and the Cold War.[48] Mozambique's decision to enforce UN sanctions against Rhodesia and deny that country access to the sea led Ian Smith's government to undertake overt and covert actions to oppose the country. Although the change of government in Zimbabwe in 1980 removed this threat, the government of South Africa continued to destabilise Mozambique.[49] Mozambique also belonged to the Front Line States[50].
 
@@ -146,25 +146,25 @@ The 1984 Nkomati Accord, while failing in its goal of ending South African suppo
 
 In the years immediately following its independence, Mozambique benefited from considerable assistance from some Western countries, notably the Scandinavians. The Soviet Union and its allies became Mozambique's primary economic, military and political supporters, and its foreign policy reflected this linkage. This began to change in 1983; in 1984 Mozambique joined the World Bank and International Monetary Fund. Western aid by the Scandinavian countries of Sweden, Norway, Denmark and Iceland quickly replaced Soviet support.[52] Finland[53] and the Netherlands are becoming increasingly important sources of development assistance. Italy also maintains a profile in Mozambique as a result of its key role during the peace process. Relations with Portugal, the former colonial power, continue to be important because Portuguese investors play a visible role in Mozambique's economy.[54]
 
-Prime_Minister_Narendra_Modi_meets_members_of_Indian_Community_in_Mozambique.jpg meets members of Indian community in Mozambique, 7 July 2016]] Mozambique is a member of the Non-Aligned Movement and ranks among the moderate members of the African bloc in the United Nations and other international organisations. Mozambique also belongs to the African Union (formerly the Organisation of African Unity) and the Southern African Development Community. In 1994, the government became a full member of the Organisation of the Islamic Conference, in part to broaden its base of international support but also to please the country's sizeable Muslim population. Similarly, in 1995 Mozambique joined its Anglophone neighbours in the Commonwealth of Nations. At the time it was the only nation to have joined the Commonwealth that was never part of the British Empire. In the same year, Mozambique became a founding member and the first President of the Community of Portuguese Language Countries (CPLP), and maintains close ties with other Portuguese-speaking countries.[55]
+meets members of Indian community in Mozambique, 7 July 2016]] Mozambique is a member of the Non-Aligned Movement and ranks among the moderate members of the African bloc in the United Nations and other international organisations. Mozambique also belongs to the African Union (formerly the Organisation of African Unity) and the Southern African Development Community. In 1994, the government became a full member of the Organisation of the Islamic Conference, in part to broaden its base of international support but also to please the country's sizeable Muslim population. Similarly, in 1995 Mozambique joined its Anglophone neighbours in the Commonwealth of Nations. At the time it was the only nation to have joined the Commonwealth that was never part of the British Empire. In the same year, Mozambique became a founding member and the first President of the Community of Portuguese Language Countries (CPLP), and maintains close ties with other Portuguese-speaking countries.[55]
 
 Administrative divisions
 
 Mozambique is divided into ten provinces (_provincias_) and one capital city (_cidade capital_) with provincial status. The provinces are subdivided into 129 districts (_distritos_). The districts are further divided in 405 "Postos Administrativos" (Administrative Posts) and then into Localidades (Localities), the lowest geographical level of the central state administration. Since 1998, 53 "Municípios" (Municipalities) have been created in Mozambique.
 
-+-------------------+-----------------------------------------------------------------+
-| 1.  Niassa        | Mozambique,_administrative_divisions_-_Nmbrs_-_colored_2018.svg |
-| 2.  Cabo Delgado  |                                                                 |
-| 3.  Nampula       |                                                                 |
-| 4.  Tete          |                                                                 |
-| 5.  Zambezia      |                                                                 |
-| 6.  Manica        |                                                                 |
-| 7.  Sofala        |                                                                 |
-| 8.  Gaza          |                                                                 |
-| 9.  Inhambane     |                                                                 |
-| 10. Maputo (city) |                                                                 |
-| 11. Maputo        |                                                                 |
-+-------------------+-----------------------------------------------------------------+
++-------------------+--+
+| 1.  Niassa        |  |
+| 2.  Cabo Delgado  |  |
+| 3.  Nampula       |  |
+| 4.  Tete          |  |
+| 5.  Zambezia      |  |
+| 6.  Manica        |  |
+| 7.  Sofala        |  |
+| 8.  Gaza          |  |
+| 9.  Inhambane     |  |
+| 10. Maputo (city) |  |
+| 11. Maputo        |  |
++-------------------+--+
 
 The districts of Mozambique are divided into 405 _postos_.
 
@@ -181,7 +181,7 @@ Mozambique operates a small, functioning military that handles all aspects of do
 
 Economy
 
-Mozambique_treemap.png The official currency is the New Metical (as of March 2018, US$1 is roughly equivalent to 62 New Meticals), which replaced old Meticals at the rate of a thousand to one. The old currency was redeemable at the Bank of Mozambique until the end of 2012. The US$, South African rand, and recently the euro are also widely accepted and used in business transactions. The minimum legal salary is around US$60 per month. Mozambique is a member of the Southern African Development Community (SADC).[58] The SADC free trade protocol is aimed at making the Southern African region more competitive by eliminating tariffs and other trade barriers. The World Bank in 2007 talked of Mozambique's 'blistering pace of economic growth'. A joint donor-government study in early 2007 said 'Mozambique is generally considered an aid success story.' The IMF in early 2007 said 'Mozambique is a success story in Sub-Saharan Africa.' Yet, despite this apparent success, both the World Bank and UNICEF used the word 'paradox' to describe rising chronic child malnutrition in the face of GDP growth. Between 1994 and 2006, average annual GDP growth was approximately 8%, however, the country remains one of the poorest and most underdeveloped in the world. In a 2006 survey, three-quarters of Mozambicans said that in the past five years their economic position had remained the same or become worse.[59]
+The official currency is the New Metical (as of March 2018, US$1 is roughly equivalent to 62 New Meticals), which replaced old Meticals at the rate of a thousand to one. The old currency was redeemable at the Bank of Mozambique until the end of 2012. The US$, South African rand, and recently the euro are also widely accepted and used in business transactions. The minimum legal salary is around US$60 per month. Mozambique is a member of the Southern African Development Community (SADC).[58] The SADC free trade protocol is aimed at making the Southern African region more competitive by eliminating tariffs and other trade barriers. The World Bank in 2007 talked of Mozambique's 'blistering pace of economic growth'. A joint donor-government study in early 2007 said 'Mozambique is generally considered an aid success story.' The IMF in early 2007 said 'Mozambique is a success story in Sub-Saharan Africa.' Yet, despite this apparent success, both the World Bank and UNICEF used the word 'paradox' to describe rising chronic child malnutrition in the face of GDP growth. Between 1994 and 2006, average annual GDP growth was approximately 8%, however, the country remains one of the poorest and most underdeveloped in the world. In a 2006 survey, three-quarters of Mozambicans said that in the past five years their economic position had remained the same or become worse.[59]
 
 Rebounding growth
 
@@ -195,7 +195,7 @@ More than 1,200 mostly small state-owned enterprises have been privatised. Prepa
 
 Corruption
 
-Mozambique_-_traditional_sailboat.jpg]] Mozambique's economy has been shaken by a number of corruption scandals. In July 2011, the government proposed new anti-corruption laws to criminalise embezzlement, influence peddling and graft, following numerous instances of the theft of public money. This has been endorsed by the country's Council of Ministers. Mozambique has convicted two former ministers for graft in the past two years.[69]
+]] Mozambique's economy has been shaken by a number of corruption scandals. In July 2011, the government proposed new anti-corruption laws to criminalise embezzlement, influence peddling and graft, following numerous instances of the theft of public money. This has been endorsed by the country's Council of Ministers. Mozambique has convicted two former ministers for graft in the past two years.[69]
 
 Mozambique was ranked 116 of 178 countries in anti-graft watchdog Transparency International's latest index of global corruption. According to a USAID report written in 2005, "the scale and scope of corruption in Mozambique are cause for alarm."[70]
 
@@ -209,7 +209,7 @@ In 2010-2011 the American company Anadarko Petroleum Corporation and the Italian
 
 Tourism
 
-European tourists on the beach, in Inhambane, Mozambique The country's natural environment, wildlife, and historic heritage provide opportunities for beach, cultural, and eco-tourism. Mozambique has a great potential for growth in its gross domestic product (GDP), although its current contribution is only 5.6%.
+The country's natural environment, wildlife, and historic heritage provide opportunities for beach, cultural, and eco-tourism. Mozambique has a great potential for growth in its gross domestic product (GDP), although its current contribution is only 5.6%.
 
 The north beaches with clean water are suitable for tourism, especially those that are very far from urban centers, such as those in the province of Cabo Delgado, especially the Quirimbas Islands, and the province of Inhambane, especially the Archipelago of Bazaruto.. The Inhambane Province attracts international divers because of the marine biodiversity and the presence of whale sharks and manta rays [76]
 
@@ -217,7 +217,7 @@ The country also has several national parks, including Gorongosa National Park, 
 
 Transport
 
-Steam_locomotive_Inhambane.jpg LAM_Boeing_737-200Adv_C9-BAK_JNB_2005-12-2.png]] Modes of transport in Mozambique include rail, road, water, and air.
+]] Modes of transport in Mozambique include rail, road, water, and air.
 
 There are over of roads, but much of the network is unpaved. Like its Commonwealth neighbours, traffic circulates on the left.
 
@@ -231,7 +231,7 @@ Newer rolling stock has been supplied by the Indian Golden Rock workshop[80] usi
 
 Water supply and sanitation
 
-Daily_struggle_for_water_(5400691444).jpg Water supply and sanitation in Mozambique is characterised by low levels of access to an improved water source (estimated to be 51% in 2011), low levels of access to adequate sanitation (estimated to be 25% in 2011) and mostly poor service quality. In 2007 the government has defined a strategy for water supply and sanitation in rural areas, where 62% of the population lives. In urban areas, water is supplied by informal small-scale providers and by formal providers.
+Water supply and sanitation in Mozambique is characterised by low levels of access to an improved water source (estimated to be 51% in 2011), low levels of access to adequate sanitation (estimated to be 25% in 2011) and mostly poor service quality. In 2007 the government has defined a strategy for water supply and sanitation in rural areas, where 62% of the population lives. In urban areas, water is supplied by informal small-scale providers and by formal providers.
 
 Beginning in 1998, Mozambique has reformed the formal part of the urban water supply sector through the creation of an independent regulatory agency called CRA, an asset-holding company called FIPAG and a Public-private partnership (PPP) with a company called Aguas de Moçambique. The PPP covered those areas of the capital and of four other cities that had access to formal water supply systems. However, the PPP ended when the management contracts for four cities expired in 2008 and when the foreign partner of the company that serves the capital under a lease contract withdrew in 2010, claiming heavy losses.
 
@@ -276,7 +276,7 @@ Languages
   Unknown
   _' Total_'
 
-Mz_etnies.PNG Portuguese is the official and most widely spoken language of the nation, spoken by 50.3% of the population.[92] Most Mozambicans living in the cities speak Portuguese as their first language.
+ Portuguese is the official and most widely spoken language of the nation, spoken by 50.3% of the population.[92] Most Mozambicans living in the cities speak Portuguese as their first language.
 
 The Bantu-group languages of Mozambique that are indigenous to the country vary greatly in their groupings and in some cases are rather poorly appreciated and documented.[93] Apart from its lingua franca uses in the north of the country, Swahili is spoken in a small area of the coast next to the Tanzanian border; south of this, towards Moçambique Island, Kimwani, regarded as a dialect of Swahili, is used. Immediately inland of the Swahili area, Makonde is used, separated farther inland by a small strip of Makhuwa-speaking territory from an area where Yao or ChiYao is used. Makonde and Yao belong to a different group, Yao[94] being very close to the Mwera language of the Rondo Plateau area in Tanzania.[95]
 
@@ -314,9 +314,7 @@ There is a very small but thriving Jewish community in Maputo.[107]
 
 Health
 
-Bevölkerungspyramide_Mosambik_2016.png
-
-Number_of_patients_on_Anti_Retroviral_Treatment_in_Mozambique_2003-2011.jpg, 2003–14]]
+, 2003–14]]
 
 The fertility rate is at about 5.5 births per woman. Public expenditure on health was at 2.7% of the GDP in 2004, whereas private expenditure on health was at 1.3% in the same year. Health expenditure per capita was 42 US$ (PPP) in 2004. In the early 21st century there were 3 physicians per 100,000 people in the country. Infant mortality was at 100 per 1,000 births in 2005.[108]
 
@@ -325,8 +323,6 @@ The 2010 maternal mortality rate per 100,000 births for Mozambique is 550. This 
 The official HIV prevalence in Mozambique in 2011 was 11.5% of the population aged between 15 and 49 years. In the southern parts of Mozambique—Maputo and Gaza provinces as well as the city of Maputo—the official figures are more than twice as high as the national average. In 2011 the health authorities estimated about 1.7 million Mozambicans were HIV-positive, of whom 600,000 were in need of anti-retroviral treatment. As of December 2011, 240,000 were receiving such treatment, increasing to 416,000 in March 2014 according to the health authorities. According to the 2011 UNAIDS Report, the HIV/AIDS epidemic in Mozambique seems to be levelling off.[110]
 
 Education
-
-Pupils in front of their school in Nampula, Mozambique|thumb Mozambique_classroom.jpg
 
 Portuguese is the primary language of instruction in all of the Mozambican schools. All Mozambicans are required by law to attend school through the primary level; however, a lot of children in Mozambique do not go to primary school because they have to work for their families' subsistence farms for a living. In 2007, one million children still did not go to school, most of them from poor rural families, and almost half of all teachers in Mozambique were still unqualified. Girls’ enrolment increased from 3 million in 2002 to 4.1 million in 2006 while the completion rate increased from 31,000 to 90,000, which testified a very poor completion rate.[111]
 
@@ -339,7 +335,7 @@ According to 2010 estimates, the literacy rate of Mozambique was 56.1% (70.8% ma
 
 Culture
 
-Mozambique_-_mask.jpg Museu_Da_Ilha_De_Mocambique_(33387901932).jpg, 2016]]
+, 2016]]
 
 Cultural identity
 
@@ -359,7 +355,7 @@ With a nearly 500-year presence in the country, the Portuguese have greatly infl
 
 Media
 
-Radio_Moçambique_(4106248049).jpg district of Maputo (photo 2009)]] Mozambican media is heavily influenced by the government.[115]
+district of Maputo (photo 2009)]] Mozambican media is heavily influenced by the government.[115]
 
 NEWSPAPERS have relatively low circulation rates, due to high newspaper prices and low literacy rates.[116] Among the most highly circulated newspapers are state-controlled dailies, such as _Noticias_ and _Diário de Moçambique_, and the weekly _Domingo_.[117] Their circulation is mostly confined to Maputo.[118] Most funding and advertising revenue is given to pro-government newspapers.[119] However, the number of private newspapers with critical views of the government have increased significantly in recent years.[120]
 

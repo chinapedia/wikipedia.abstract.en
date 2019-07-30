@@ -7,19 +7,19 @@ Sun products included computer servers and workstations built on its own RISC-ba
 
 History
 
-+---------------------------------+
-| SUN MICROSYSTEMS LOGO HISTORY   |
-+=================================+
-| LOGO                            |
-+---------------------------------+
-|                                 |
-+---------------------------------+
-| Sun-1_Badge.jpg                 |
-+---------------------------------+
-| Sun_Microsystems_1980s_logo.gif |
-+---------------------------------+
-| Sun_Microsystems_logo.svg       |
-+---------------------------------+
++-------------------------------+
+| SUN MICROSYSTEMS LOGO HISTORY |
++===============================+
+| LOGO                          |
++-------------------------------+
+|                               |
++-------------------------------+
+|                               |
++-------------------------------+
+|                               |
++-------------------------------+
+|                               |
++-------------------------------+
 
 The initial design for what became Sun's first Unix workstation, the Sun-1, was conceived by Andy Bechtolsheim when he was a graduate student at Stanford University in Palo Alto, California. Bechtolsheim originally designed the SUN workstation for the Stanford University Network communications project as a personal CAD workstation. It was designed around the Motorola 68000 processor with an advanced memory management unit (MMU) to support the Unix operating system with virtual memory support.[5] He built the first ones from spare parts obtained from Stanford's Department of Computer Science and Silicon Valley supply houses.[6]
 
@@ -37,7 +37,7 @@ Several quarters of steep losses led to executive departures, rounds of layoffs,
 
 Post-crash focus
 
-Wfm_sun_agnews.jpg Sun_Agnews_Campus_Bldgs_21_22.jpg SunCanada.jpg, Canada]] In 2004, Sun canceled two major processor projects which emphasized high instruction-level parallelism and operating frequency. Instead, the company chose to concentrate on processors optimized for multi-threading and multiprocessing, such as the UltraSPARC T1 processor (codenamed "Niagara"). The company also announced a collaboration with Fujitsu to use the Japanese company's processor chips in mid-range and high-end Sun servers. These servers were announced on April 17, 2007, as the M-Series, part of the SPARC Enterprise series.
+, Canada]] In 2004, Sun canceled two major processor projects which emphasized high instruction-level parallelism and operating frequency. Instead, the company chose to concentrate on processors optimized for multi-threading and multiprocessing, such as the UltraSPARC T1 processor (codenamed "Niagara"). The company also announced a collaboration with Fujitsu to use the Japanese company's processor chips in mid-range and high-end Sun servers. These servers were announced on April 17, 2007, as the M-Series, part of the SPARC Enterprise series.
 
 In February 2005, Sun announced the Sun Grid, a grid computing deployment on which it offered utility computing services priced at US$1 per CPU/hour for processing and per GB/month for storage. This offering built upon an existing 3,000-CPU server farm used for internal R&D for over 10 years, which Sun marketed as being able to achieve 97% utilization. In August 2005, the first commercial use of this grid was announced for financial risk simulations which was later launched as its first software as a service product.[20]
 
@@ -49,7 +49,7 @@ In 2007–2008, Sun posted revenue of $13.8 billion and had $2 billion in cash
 
 Sun acquisitions
 
-SunRackMountServers.jpgs at Seneca College (York Campus)]]
+s at Seneca College (York Campus)]]
 
 -   1987: Trancept Systems, a high-performance graphics hardware company[24]
 -   1987: Sitka Corp, networking systems linking the Macintosh with IBM PCs
@@ -236,7 +236,7 @@ Sun originally used Motorola 68000 family central processing units for the Sun-1
 
 SPARC-based systems
 
-SPARCstation_1.jpg In 1987, the company began using _SPARC_, a RISC processor architecture of its own design, in its computer systems, starting with the Sun-4 line. SPARC was initially a 32-bit architecture (SPARC V7) until the introduction of the SPARC V9 architecture in 1995, which added 64-bit extensions.
+In 1987, the company began using _SPARC_, a RISC processor architecture of its own design, in its computer systems, starting with the Sun-4 line. SPARC was initially a 32-bit architecture (SPARC V7) until the introduction of the SPARC V9 architecture in 1995, which added 64-bit extensions.
 
 Sun has developed several generations of SPARC-based computer systems, including the SPARCstation, Ultra and Sun Blade series of workstations, and the SPARCserver, Netra, Enterprise and Sun Fire line of servers.
 
@@ -333,7 +333,7 @@ The principal differences between StarOffice and OpenOffice.org were that StarOf
 
 Virtualization and datacenter automation software
 
-VirtualBox2.png, purchased by Sun]] In 2007, Sun announced the Sun xVM virtualization and datacenter automation product suite for commodity hardware. Sun also acquired VirtualBox in 2008. Earlier virtualization technologies from Sun like _Dynamic System Domains_ and _Dynamic Reconfiguration_ were specifically designed for high-end SPARC servers, and Logical Domains only supports the UltraSPARC T1/T2/T2 Plus server platforms. Sun marketed _Sun Ops Center_ provisioning software for datacenter automation.
+, purchased by Sun]] In 2007, Sun announced the Sun xVM virtualization and datacenter automation product suite for commodity hardware. Sun also acquired VirtualBox in 2008. Earlier virtualization technologies from Sun like _Dynamic System Domains_ and _Dynamic Reconfiguration_ were specifically designed for high-end SPARC servers, and Logical Domains only supports the UltraSPARC T1/T2/T2 Plus server platforms. Sun marketed _Sun Ops Center_ provisioning software for datacenter automation.
 
 On the client side, Sun offered virtual desktop solutions. Desktop environments and applications could be hosted in a datacenter, with users accessing these environments from a wide range of client devices, including Microsoft Windows PCs, Sun Ray virtual display clients, Apple Macintoshes, PDAs or any combination of supported devices. A variety of networks were supported, from LAN to WAN or the public Internet. Virtual desktop products included Sun Ray Server Software, Sun Secure Global Desktop and Sun Virtual Desktop Infrastructure.
 
@@ -388,8 +388,6 @@ Sun staff published articles on the company's blog site.[87] Staff were encourag
 
 
 Acquisition by Oracle
-
-Oracle_Sun_logo.svg
 
 Sun was sold to Oracle Corporation in 2009 for $5.6B.[90] Sun's staff were asked to share anecdotes about their experiences at Sun. A web site containing videos, stories, and photographs from 27 years at Sun was made available on September 2, 2009.[91] In October, Sun announced a second round of thousands of employees to be laid off, blamed partially on delays in approval of the merger.[92] The transaction was completed in early 2010.[93] In January 2011, Oracle agreed to pay $46 million to settle charges that it submitted false claims to US federal government agencies and paid "kickbacks" to systems integrators.[94] In February 2011, Sun's former Menlo Park, California, campus of about was sold, and it was announced that it would become headquarters for Facebook.[95][96] The sprawling facility built around an enclosed courtyard had been nicknamed "Sun Quentin".[97] On September 1, 2011, Sun India legally became part of Oracle. It had been delayed due to legal issues in Indian court.
 

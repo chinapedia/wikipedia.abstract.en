@@ -37,7 +37,7 @@ As the Seljuk Sultanate of Rum declined in the 13th century, Anatolia was divide
 
 -
 
-Battle_of_Nicopolis.jpg in 1396. Painting from 1523.]]
+in 1396. Painting from 1523.]]
 
 In the century after the death of Osman I, Ottoman rule began to extend over Anatolia and the Balkans. Osman's son, Orhan, captured the northwestern Anatolian city of Bursa in 1326, making it the new capital of the Ottoman state and supplanting Byzantine control in the region. The important port city of Thessaloniki was captured from the Venetians in 1387 and sacked. The Ottoman victory at Kosovo in 1389 effectively marked the end of Serbian power in the region, paving the way for Ottoman expansion into Europe.[24] The Battle of Nicopolis in 1396, widely regarded as the last large-scale crusade of the Middle Ages, failed to stop the advance of the victorious Ottoman Turks.[25]
 
@@ -47,7 +47,7 @@ The Balkan territories lost by the Ottomans after 1402, including Thessaloniki, 
 
 Expansion and peak (1453–1566)
 
-Zonaro_GatesofConst.jpg's entry into Constantinople; painting by Fausto Zonaro (1854–1929)]] Suleiman_I_after_the_victory_at_Mohács.jpg in 1526[28]]] Battle_of_Preveza_(1538).jpg defeats the Holy League of Charles V under the command of Andrea Doria at the Battle of Preveza in 1538]]
+'s entry into Constantinople; painting by Fausto Zonaro (1854–1929)]] in 1526[28]]] defeats the Holy League of Charles V under the command of Andrea Doria at the Battle of Preveza in 1538]]
 
 The son of Murad II, Mehmed the Conqueror, reorganized both state and military and on 29 May 1453 conquered Constantinople. Mehmed allowed the Orthodox Church to maintain its autonomy and land in exchange for accepting Ottoman authority.[29] Due to tension between the states of western Europe and the later Byzantine Empire, the majority of the Orthodox population accepted Ottoman rule as preferable to Venetian rule.[30] Albanian resistance was a major obstacle to Ottoman expansion on the Italian peninsula.[31]
 
@@ -65,7 +65,7 @@ Stagnation and reform (1566–1827)
 
 Revolts, reversals, and revivals (1566–1683)
 
-OttomanEmpire1566.png]] Szigetvar_1566.jpg showing Ottoman troops and Tatars as avant-garde]]
+]] showing Ottoman troops and Tatars as avant-garde]]
 
 In the second half of the sixteenth century the Ottoman Empire came under increasing strain from inflation and the rapidly rising costs of warfare that were impacting both Europe and the Middle East. These pressures led to a series of crises around the year 1600, placing great strain upon the Ottoman system of government.[52] The empire underwent a series of transformations of its political and military institutions in response to these challenges, enabling it to successfully adapt to the new conditions of the seventeenth century and remain powerful, militarily and economically.[53][54] Historians of the mid-twentieth century once characterized this period as one of stagnation and decline, but this view is now rejected by the majority of academics.[55]
 
@@ -77,7 +77,7 @@ In southern Europe, a Catholic coalition led by Philip II of Spain won a victory
 
 By contrast, the Habsburg frontier had settled somewhat, a stalemate caused by a stiffening of the Habsburg defences. The Long Turkish War against Habsburg Austria (1593–1606) created the need for greater numbers of Ottoman infantry equipped with firearms, resulting in a relaxation of recruitment policy. This contributed to problems of indiscipline and outright rebelliousness within the corps, which were never fully solved. Irregular sharpshooters (Sekban) were also recruited, and on demobilization turned to brigandage in the Jelali revolts (1590–1610), which engendered widespread anarchy in Anatolia in the late 16th and early 17th centuries.[63] With the Empire's population reaching 30 million people by 1600, the shortage of land placed further pressure on the government. In spite of these problems, the Ottoman state remained strong, and its army did not collapse or suffer crushing defeats. The only exceptions were campaigns against the Safavid dynasty of Persia, where many of the Ottoman eastern provinces were lost, some permanently. This 1603–1618 war eventually resulted in the Treaty of Nasuh Pasha, which ceded the entire Caucasus, except westernmost Georgia, back into Iranian Safavid possession.[64]
 
-Boksida,_karta_ur_Wr.110:5_(Turc._Imper._Asia_Geographie_(I.34.17)_-_Skoklosters_slott_-_82210.tif Vienna_Battle_1683.jpg in 1683]]
+in 1683]]
 
 During his brief majority reign, Murad IV (1623–1640) reasserted central authority and recaptured Iraq (1639) from the Safavids. The resulting Treaty of Zuhab of that same year decisively parted the Caucasus and adjacent regions between the two neighbouring empires as it had already been defined in the 1555 Peace of Amasya.[65][66] The Sultanate of women (1623–1656) was a period in which the mothers of young sultans exercised power on behalf of their sons. The most prominent women of this period were Kösem Sultan and her daughter-in-law Turhan Hatice, whose political rivalry culminated in Kösem's murder in 1651. During the Köprülü Era (1656–1703), effective control of the Empire was exercised by a sequence of Grand Viziers from the Köprülü family. The Köprülü Vizierate saw renewed military success with authority restored in Transylvania, the conquest of Crete completed in 1669, and expansion into Polish southern Ukraine, with the strongholds of Khotyn and Kamianets-Podilskyi and the territory of Podolia ceding to Ottoman control in 1676.
 
@@ -87,21 +87,21 @@ Russian threat grows
 
 Aside from the loss of the Banat and the temporary loss of Belgrade (1717–39), the Ottoman border on the Danube and Sava remained stable during the eighteenth century. Russian expansion, however, presented a large and growing threat. Accordingly, King Charles XII of Sweden was welcomed as an ally in the Ottoman Empire following his defeat by the Russians at the Battle of Poltava of 1709 in central Ukraine (part of the Great Northern War of 1700–1721). Charles XII persuaded the Ottoman Sultan Ahmed III to declare war on Russia, which resulted in an Ottoman victory in the Pruth River Campaign of 1710–1711, in Moldavia.
 
-1720_Huchtenburg_Eroberungs_Belgrads_1717_anagoria.JPG capture Belgrade in 1717.]]
+capture Belgrade in 1717.]]
 
 After the Austro-Turkish War of 1716–1718 the Treaty of Passarowitz confirmed the loss of the Banat, Serbia and "Little Walachia" (Oltenia) to Austria. The Treaty also revealed that the Ottoman Empire was on the defensive and unlikely to present any further aggression in Europe. The Austro-Russian–Turkish War (1735–1739), which was ended by the Treaty of Belgrade in 1739, resulted in the recovery of Serbia and Oltenia, but the Empire lost the port of Azov, north of the Crimean Peninsula, to the Russians. After this treaty the Ottoman Empire was able to enjoy a generation of peace, as Austria and Russia were forced to deal with the rise of Prussia.
 
 Educational and technological reforms came about, including the establishment of higher education institutions such as the Istanbul Technical University.[67] In 1734 an artillery school was established to impart Western-style artillery methods, but the Islamic clergy successfully objected under the grounds of theodicy.[68] In 1754 the artillery school was reopened on a semi-secret basis.[69] In 1726, Ibrahim Muteferrika convinced the Grand Vizier Nevşehirli Damat İbrahim Pasha, the Grand Mufti, and the clergy on the efficiency of the printing press, and Muteferrika was later granted by Sultan Ahmed III permission to publish non-religious books (despite opposition from some calligraphers and religious leaders).[70] Muteferrika's press published its first book in 1729 and, by 1743, issued 17 works in 23 volumes, each having between 500 and 1,000 copies.[71][72]
 
-January_Suchodolski_-_Ochakiv_siege.jpg in 1788.]]
+in 1788.]]
 
 In 1768 Russian-backed Ukrainian Haidamakas, pursuing Polish confederates, entered Balta, an Ottoman-controlled town on the border of Bessarabia in Ukraine, massacred its citizens, and burned the town to the ground. This action provoked the Ottoman Empire into the Russo-Turkish War of 1768–1774. The Treaty of Küçük Kaynarca of 1774 ended the war and provided freedom to worship for the Christian citizens of the Ottoman-controlled provinces of Wallachia and Moldavia. By the late 18th century, after a number of defeats in the wars with Russia, some people in the Ottoman Empire began to conclude that the reforms of Peter the Great had given the Russians an edge, and the Ottomans would have to keep up with Western technology in order to avoid further defeats.[73]
 
 Selim III (1789–1807) made the first major attempts to modernize the army, but his reforms were hampered by the religious leadership and the Janissary corps. Jealous of their privileges and firmly opposed to change, the Janissary revolted. Selim's efforts cost him his throne and his life, but were resolved in spectacular and bloody fashion by his successor, the dynamic Mahmud II, who eliminated the Janissary corps in 1826.
 
-Ottoman_Sultan_Selim_III_(1789).jpg receiving dignitaries during an audience at the Gate of Felicity, Topkapı Palace]]
+receiving dignitaries during an audience at the Gate of Felicity, Topkapı Palace]]
 
-The Serbian revolution (1804–1815) marked the beginning of an era of national awakening in the Balkans during the Eastern Question. In 1811, the fundamentalist Wahhabis of Arabia, led by the al-Saud family revolted against the Ottomans. Unable to defeat the Wahhabi rebels, the Sublime Porte had Mohammad Ali the Great, the _vali_ (governor) of Egypt tasked with retaking Arabia which ended with the destruction of the Emirate of Diriyah in 1818. The Suzerainty of Serbia as a hereditary monarchy under its own dynasty was acknowledged _de jure_ in 1830.[74][75] In 1821, the Greeks declared war on the Sultan. A rebellion that originated in Moldavia as a diversion was followed by the main revolution in the Peloponnese, which, along with the northern part of the Gulf of Corinth, became the first parts of the Ottoman Empire to achieve independence (in 1829). In 1830, the French invaded Algeria, which was lost to the empire. In 1831, Mohammad Ali revolted with the aim of making himself sultan and founding a new dynasty, and his French-trained army under his son Ibrahim Pasha defeated the Ottoman Army as it marched on Constantinople, coming within 200 miles of the capital.[76] In desperation, the Sultan Mahmud II appealed to the empire's traditional archenemy Russia for help, asking the Emperor Nicholas I to send an expeditionary force to save him.[77] In return for signing the Treaty of Hünkâr İskelesi, the Russians sent the expeditionary force, which deterred Ibrahim from taking Constantinople.[78] Under the terms of Peace of Kutahia, signed on 5 May 1833 Mohammad Ali agreed to abandon his claim to the throne, in exchange for which he was made the _vali_ of the _vilayets_ (provinces) of Crete, Aleppo, Tripoli, Damascus and Sidon (the latter four comprising modern Syria and Lebanon), and given the right to collect taxes in Adana.[79] Had it not been for the Russian intervention, it is almost certain Mahmud II would have been overthrown and Mohammad Ali would have become the new sultan, marking the beginning of a recurring pattern where the Sublime Porte needed the help of outsiders to save itself.[80] Η_μάχη_της_Αλαμάνας.jpg (1821–1829) against the Ottomans]] In 1839, the Sublime Porte attempted to take back what it lost to the de facto independent _vilayet_ of Egypt, and suffered a crushing defeat, leading to the Oriental Crisis as Mohammad Ali was very close to France, and the prospect of him as Sultan was widely viewed as putting the entire empire into the French sphere of influence.[81] As the Sublime Porte had proved itself incapable of defeating the Egyptians, Britain and Austria intervened to defeat Egypt.[82] By the mid-19th century, the Ottoman Empire was called the "sick man" by Europeans. The suzerain states – the Principality of Serbia, Wallachia and Moldavia – moved towards _de jure_ independence during the 1860s and 1870s.
+The Serbian revolution (1804–1815) marked the beginning of an era of national awakening in the Balkans during the Eastern Question. In 1811, the fundamentalist Wahhabis of Arabia, led by the al-Saud family revolted against the Ottomans. Unable to defeat the Wahhabi rebels, the Sublime Porte had Mohammad Ali the Great, the _vali_ (governor) of Egypt tasked with retaking Arabia which ended with the destruction of the Emirate of Diriyah in 1818. The Suzerainty of Serbia as a hereditary monarchy under its own dynasty was acknowledged _de jure_ in 1830.[74][75] In 1821, the Greeks declared war on the Sultan. A rebellion that originated in Moldavia as a diversion was followed by the main revolution in the Peloponnese, which, along with the northern part of the Gulf of Corinth, became the first parts of the Ottoman Empire to achieve independence (in 1829). In 1830, the French invaded Algeria, which was lost to the empire. In 1831, Mohammad Ali revolted with the aim of making himself sultan and founding a new dynasty, and his French-trained army under his son Ibrahim Pasha defeated the Ottoman Army as it marched on Constantinople, coming within 200 miles of the capital.[76] In desperation, the Sultan Mahmud II appealed to the empire's traditional archenemy Russia for help, asking the Emperor Nicholas I to send an expeditionary force to save him.[77] In return for signing the Treaty of Hünkâr İskelesi, the Russians sent the expeditionary force, which deterred Ibrahim from taking Constantinople.[78] Under the terms of Peace of Kutahia, signed on 5 May 1833 Mohammad Ali agreed to abandon his claim to the throne, in exchange for which he was made the _vali_ of the _vilayets_ (provinces) of Crete, Aleppo, Tripoli, Damascus and Sidon (the latter four comprising modern Syria and Lebanon), and given the right to collect taxes in Adana.[79] Had it not been for the Russian intervention, it is almost certain Mahmud II would have been overthrown and Mohammad Ali would have become the new sultan, marking the beginning of a recurring pattern where the Sublime Porte needed the help of outsiders to save itself.[80] (1821–1829) against the Ottomans]] In 1839, the Sublime Porte attempted to take back what it lost to the de facto independent _vilayet_ of Egypt, and suffered a crushing defeat, leading to the Oriental Crisis as Mohammad Ali was very close to France, and the prospect of him as Sultan was widely viewed as putting the entire empire into the French sphere of influence.[81] As the Sublime Porte had proved itself incapable of defeating the Egyptians, Britain and Austria intervened to defeat Egypt.[82] By the mid-19th century, the Ottoman Empire was called the "sick man" by Europeans. The suzerain states – the Principality of Serbia, Wallachia and Moldavia – moved towards _de jure_ independence during the 1860s and 1870s.
 
 Decline and modernization (1828–1908)
 
@@ -109,11 +109,11 @@ During the Tanzimat period (1839–1876), the government's series of constitutio
 
 Samuel Morse received a Turkish patent for the telegraph in 1847, which was issued by Sultan Abdülmecid who personally tested the new invention.[86] Following this successful test, work on the first Turkish telegraph line (Istanbul-Edirne-Şumnu)[87] began on 9 August 1847.[88] The reformist period peaked with the Constitution, called the _Kanûn-u Esâsî_. The empire's First Constitutional era was short-lived. The parliament survived for only two years before the sultan suspended it.
 
-Battle_at_river_Skit_1877.jpg, fighting on the Russian side, gained independence from the Ottoman Empire in 1878 after the end of Russo-Turkish War.]]
+, fighting on the Russian side, gained independence from the Ottoman Empire in 1878 after the end of Russo-Turkish War.]]
 
 The Christian population of the empire, owing to their higher educational levels, started to pull ahead of the Muslim majority, leading to much resentment on the part of the latter.[89] In 1861, there were 571 primary and 94 secondary schools for Ottoman Christians with 140,000 pupils in total, a figure that vastly exceeded the number of Muslim children in school at the same time, who were further hindered by the amount of time spent learning Arabic and Islamic theology.[90] Stone further suggested that the Arabic alphabet, which Turkish was written in until 1928, was very ill-suited to reflect the sounds of the Turkish language (which is a Turkic as opposed to Semitic language), which imposed a further difficulty on Turkish children.[91] In turn, the higher educational levels of the Christians allowed them to play a larger role in the economy, with the rise in prominence of groups such as the Sursock family indicative of this shift in influence.[92][93] In 1911, of the 654 wholesale companies in Istanbul, 528 were owned by ethnic Greeks.[94] In many cases, Christians and also Jews were able to gain protection from European consuls and citizenship, meaning they were protected from Ottoman law and not subject to the same economic regulations as their Muslim comrades.[95]
 
-Konstantin_Makovsky_-_The_Bulgarian_martyresses.jpg, a Russian propaganda painting which depicts the rape of Bulgarian women by the bashi-bazouks during the April Uprising, with the purpose of mobilizing public support for the Russo-Turkish War (1877–78).[96][97] Unrestrained by the laws that governed regular soldiers in the Ottoman Army, the bashi-bazouks became notorious for preying on civilians.[98]]]
+, a Russian propaganda painting which depicts the rape of Bulgarian women by the bashi-bazouks during the April Uprising, with the purpose of mobilizing public support for the Russo-Turkish War (1877–78).[96][97] Unrestrained by the laws that governed regular soldiers in the Ottoman Army, the bashi-bazouks became notorious for preying on civilians.[98]]]
 
 The Crimean War (1853–1856) was part of a long-running contest between the major European powers for influence over territories of the declining Ottoman Empire. The financial burden of the war led the Ottoman state to issue foreign loans amounting to 5 million pounds sterling on 4 August 1854.[99][100] The war caused an exodus of the Crimean Tatars, about 200,000 of whom moved to the Ottoman Empire in continuing waves of emigration.[101] Toward the end of the Caucasian Wars, 90% of the Circassians were ethnically cleansed[102] and exiled from their homelands in the Caucasus and fled to the Ottoman Empire,[103] resulting in the settlement of 500,000 to 700,000 Circassians in Turkey.[104][105][106] Some Circassian organisations give much higher numbers, totaling 1–1.5 million deported or killed. Crimean Tartar refugees in the late 19th century played an especially notable role in seeking to modernize Ottoman education and in first promoting both Pan-Turkicism and a sense of Turkish nationalism.[107]
 
@@ -131,17 +131,17 @@ File:Friday Procession.jpg|Sultan Abdul Hamid II going to the Friday Prayer (Fri
 
 Defeat and dissolution (1908–1922)
 
-Le_Petir_Journal,_Proclamation_of_Mehmed_V.jpg was proclaimed Sultan of the Ottoman Empire after the Young Turk Revolution.]]
+was proclaimed Sultan of the Ottoman Empire after the Young Turk Revolution.]]
 
 The defeat and dissolution of the Ottoman Empire (1908–1922) began with the Second Constitutional Era, a moment of hope and promise established with the Young Turk Revolution. It restored the Ottoman constitution of 1876 and brought in multi-party politics with a two-stage electoral system (electoral law) under the Ottoman parliament. The constitution offered hope by freeing the empire's citizens to modernize the state's institutions, rejuvenate its strength, and enable it to hold its own against outside powers. Its guarantee of liberties promised to dissolve inter-communal tensions and transform the empire into a more harmonious place.[121] Instead, this period became the story of the twilight struggle of the Empire.
 
-Declaration_of_the_1908_Revolution_in_Ottoman_Empire.png by the leaders of the Ottoman millets in 1908]] Sultanvahideddin.jpg, the last Sultan of the Ottoman Empire, leaving the country after the abolition of the Ottoman sultanate, 17 November 1922]]
+by the leaders of the Ottoman millets in 1908]] , the last Sultan of the Ottoman Empire, leaving the country after the abolition of the Ottoman sultanate, 17 November 1922]]
 
 Members of Young Turks movement who had once gone underground now established their parties.[122] Among them "Committee of Union and Progress", and "Freedom and Accord Party" were major parties. On the other end of the spectrum were ethnic parties which included Poale Zion, Al-Fatat, and Armenian national movement organized under Armenian Revolutionary Federation. Profiting from the civil strife, Austria-Hungary officially annexed Bosnia and Herzegovina in 1908. The last of the Ottoman censuses was performed in 1914. Despite military reforms which reconstituted the Ottoman Modern Army, the Empire lost its North African territories and the Dodecanese in the Italo-Turkish War (1911) and almost all of its European territories in the Balkan Wars (1912–1913). The Empire faced continuous unrest in the years leading up to World War I, including the Ottoman countercoup of 1909, the 31 March Incident and two further coups in 1912 and 1913.
 
 The history of the Ottoman Empire during World War I began with the Ottoman surprise attack on the Russian Black Sea coast on 29 October 1914. Following the attack, Russia and its allies, France and Britain, declared war on the Ottomans. There were several important Ottoman victories in the early years of the war, such as the Battle of Gallipoli and the Siege of Kut.
 
-Morgenthau336.jpg was the Ottoman government's systematic extermination of its Armenian subjects. An estimated 1.5 million people were killed.]]
+was the Ottoman government's systematic extermination of its Armenian subjects. An estimated 1.5 million people were killed.]]
 
 In 1915 the Ottoman government started the extermination of its ethnic Armenian population, resulting in the death of approximately 1.5 million Armenians in the Armenian Genocide.[123] The genocide was carried out during and after World War I and implemented in two phases: the wholesale killing of the able-bodied male population through massacre and subjection of army conscripts to forced labor, followed by the deportation of women, children, the elderly and infirm on death marches leading to the Syrian desert. Driven forward by military escorts, the deportees were deprived of food and water and subjected to periodic robbery, rape, and systematic massacre.[124][125][126] Large-scale massacres were also committed against the Empire's Greek and Assyrian minorities as part of the same campaign of ethnic cleansing.[127]
 
@@ -157,19 +157,19 @@ The British historian Norman Stone suggested many continuities between the Easte
 
 Government
 
-Jean_Baptiste_Vanmour_-_Dinner_at_the_Palace_in_Honour_of_an_Ambassador_-_Google_Art_Project.jpg]]
+]]
 
 Before the reforms of the 19th and 20th centuries, the state organisation of the Ottoman Empire was a system with two main dimensions, the military administration and the civil administration. The Sultan was the highest position in the system. The civil system was based on local administrative units based on the region's characteristics. The state had control over the clergy. Certain pre-Islamic Turkish traditions that had survived the adoption of administrative and legal practices from Islamic Iran remained important in Ottoman administrative circles. According to Ottoman understanding, the state's primary responsibility was to defend and extend the land of the Muslims and to ensure security and harmony within its borders in the overarching context of orthodox Islamic practice and dynastic sovereignty.[136]
 
 The Ottoman Empire, or as a dynastic institution, the House of Osman, was unprecedented and unequaled in the Islamic world for its size and duration.[137] In Europe, only the House of Habsburg had a similarly unbroken line of sovereigns (kings/emperors) from the same family who ruled for so long, and during the same period, between the late 13th and early 20th centuries. The Ottoman dynasty was Turkish in origin. On eleven occasions, the sultan was deposed (replaced by another sultan of the Ottoman dynasty, who were either the former sultan's brother, son or nephew) because he was perceived by his enemies as a threat to the state. There were only two attempts in Ottoman history to unseat the ruling Ottoman dynasty, both failures, which suggests a political system that for an extended period was able to manage its revolutions without unnecessary instability.[138] As such, the last Ottoman sultan Mehmed VI (r. 1918–1922) was a direct patrilineal (male-line) descendant of the first Ottoman sultan Osman I (d. 1323/4), which was unparallelled in both Europe (e.g. the male line of the House of Habsburg became extinct in 1740) and in the Islamic world. The primary purpose of the Imperial Harem was to ensure the birth of male heirs to the Ottoman throne and secure the continuation of the direct patrilineal (male-line) descendance of the Ottoman sultans.
 
-Thomas_allom,_c1840,_The_Enterance_to_Divan.png]]
+]]
 
 The highest position in Islam, _caliphate_, was claimed by the sultans starting with Murad I,[139] which was established as the Ottoman Caliphate. The Ottoman sultan, _pâdişâh_ or "lord of kings", served as the Empire's sole regent and was considered to be the embodiment of its government, though he did not always exercise complete control. The Imperial Harem was one of the most important powers of the Ottoman court. It was ruled by the Valide Sultan. On occasion, the Valide Sultan would become involved in state politics. For a time, the women of the Harem effectively controlled the state in what was termed the "Sultanate of Women". New sultans were always chosen from the sons of the previous sultan. The strong educational system of the palace school was geared towards eliminating the unfit potential heirs, and establishing support among the ruling elite for a successor. The palace schools, which would also educate the future administrators of the state, were not a single track. First, the Madrasa (__) was designated for the Muslims, and educated scholars and state officials according to Islamic tradition. The financial burden of the Medrese was supported by vakifs, allowing children of poor families to move to higher social levels and income.[140] The second track was a free boarding school for the Christians, the _Enderûn_,[141] which recruited 3,000 students annually from Christian boys between eight and twenty years old from one in forty families among the communities settled in Rumelia or the Balkans, a process known as Devshirme (__).[142]
 
 Though the sultan was the supreme monarch, the sultan's political and executive authority was delegated. The politics of the state had a number of advisors and ministers gathered around a council known as Divan. The Divan, in the years when the Ottoman state was still a _Beylik_, was composed of the elders of the tribe. Its composition was later modified to include military officers and local elites (such as religious and political advisors). Later still, beginning in 1320, a Grand Vizier was appointed to assume certain of the sultan's responsibilities. The Grand Vizier had considerable independence from the sultan with almost unlimited powers of appointment, dismissal and supervision. Beginning with the late 16th century, sultans withdrew from politics and the Grand Vizier became the _de facto_ head of state.[143]
 
-Yusuf_Ziya_Paşa.jpg, Ottoman ambassador to the United States, in Washington, 1913]]
+, Ottoman ambassador to the United States, in Washington, 1913]]
 
 Throughout Ottoman history, there were many instances in which local governors acted independently, and even in opposition to the ruler. After the Young Turk Revolution of 1908, the Ottoman state became a constitutional monarchy. The sultan no longer had executive powers. A parliament was formed, with representatives chosen from the provinces. The representatives formed the Imperial Government of the Ottoman Empire.
 
@@ -181,11 +181,9 @@ Law
 
 The Ottoman legal system accepted the religious law over its subjects. At the same time the _Qanun_ (or _Kanun_), a secular legal system, co-existed with religious law or Sharia.[145] The Ottoman Empire was always organized around a system of local jurisprudence. Legal administration in the Ottoman Empire was part of a larger scheme of balancing central and local authority.[146] Ottoman power revolved crucially around the administration of the rights to land, which gave a space for the local authority to develop the needs of the local millet.[147] The jurisdictional complexity of the Ottoman Empire was aimed to permit the integration of culturally and religiously different groups.[148] The Ottoman system had three court systems: one for Muslims, one for non-Muslims, involving appointed Jews and Christians ruling over their respective religious communities, and the "trade court". The entire system was regulated from above by means of the administrative _Qanun_, i.e. laws, a system based upon the Turkic _Yassa_ and _Töre_, which were developed in the pre-Islamic era.
 
-1879-Ottoman_Court-from-NYL.png
-
 These court categories were not, however, wholly exclusive: for instance, the Islamic courts, which were the Empire's primary courts, could also be used to settle a trade conflict or disputes between litigants of differing religions, and Jews and Christians often went to them to obtain a more forceful ruling on an issue. The Ottoman state tended not to interfere with non-Muslim religious law systems, despite legally having a voice to do so through local governors. The Islamic _Sharia_ law system had been developed from a combination of the Qur'an; the Hadīth, or words of the prophet Muhammad; _ijmā'_, or consensus of the members of the Muslim community; qiyas, a system of analogical reasoning from earlier precedents; and local customs. Both systems were taught at the Empire's law schools, which were in Istanbul and Bursa.
 
-Zibik.jpg about her husband's impotence, Ottoman miniature.]]
+about her husband's impotence, Ottoman miniature.]]
 
 The Ottoman Islamic legal system was set up differently from traditional European courts. Presiding over Islamic courts would be a _Qadi_, or judge. Since the closing of the _ijtihad_, or ''Gate of Interpretation, Qadis ''throughout the Ottoman Empire focused less on legal precedent, and more with local customs and traditions in the areas that they administered.[149] However, the Ottoman court system lacked an appellate structure, leading to jurisdictional case strategies where plaintiffs could take their disputes from one court system to another until they achieved a ruling that was in their favor.
 
@@ -195,7 +193,7 @@ These reforms were based heavily on French models, as indicated by the adoption 
 
 Military
 
-Walka_o_sztandar_turecki.jpgs in battle, holding the crescent banner (by Józef Brandt)]] Zapotocny.jpg Nizami-cedid-ordusu.jpg watching the parade of his new army, the _Nizam-ı Cedid_ (New Order) troops, in 1793]] Turkish_pilots_in_1912.jpg in early 1912]] Ahmet_Ali_Celikten_in_flight_suit.jpg is amongst the first black military pilots in history, clearly showing military diversification in the Ottoman Empire.]] Soldiers_1900.png in 1900]]
+s in battle, holding the crescent banner (by Józef Brandt)]] watching the parade of his new army, the _Nizam-ı Cedid_ (New Order) troops, in 1793]] in early 1912]] is amongst the first black military pilots in history, clearly showing military diversification in the Ottoman Empire.]] in 1900]]
 
 The first military unit of the Ottoman State was an army that was organized by Osman I from the tribesmen inhabiting the hills of western Anatolia in the late 13th century. The military system became an intricate organization with the advance of the Empire. The Ottoman military was a complex system of recruiting and fief-holding. The main corps of the Ottoman Army included Janissary, Sipahi, Akıncı and Mehterân. The Ottoman army was once among the most advanced fighting forces in the world, being one of the first to use muskets and cannons. The Ottoman Turks began using _falconets_, which were short but wide cannons, during the Siege of Constantinople. The Ottoman cavalry depended on high speed and mobility rather than heavy armour, using bows and short swords on fast Turkoman and Arabian horses (progenitors of the Thoroughbred racing horse),[155][156] and often applied tactics similar to those of the Mongol Empire, such as pretending to retreat while surrounding the enemy forces inside a crescent-shaped formation and then making the real attack. The Ottoman army continued to be an effective fighting force throughout the seventeenth and early eighteenth centuries,
 
@@ -205,7 +203,7 @@ The modernization of the Ottoman Empire in the 19th century started with the mil
 
 The Ottoman Navy vastly contributed to the expansion of the Empire's territories on the European continent. It initiated the conquest of North Africa, with the addition of Algeria and Egypt to the Ottoman Empire in 1517. Starting with the loss of Greece in 1821 and Algeria in 1830, Ottoman naval power and control over the Empire's distant overseas territories began to decline. Sultan Abdülaziz (reigned 1861–1876) attempted to reestablish a strong Ottoman navy, building the largest fleet after those of Britain and France. The shipyard at Barrow, England, built its first submarine in 1886 for the Ottoman Empire.[158]
 
-Ottoman_Navy_at_the_Golden_Horn.jpg at the Golden Horn in the early stages of World War I. At top left is a portrait of Sultan Mehmed V.]]
+at the Golden Horn in the early stages of World War I. At top left is a portrait of Sultan Mehmed V.]]
 
 However, the collapsing Ottoman economy could not sustain the fleet's strength for too long. Sultan Abdülhamid II distrusted the admirals who sided with the reformist Midhat Pasha, and claimed that the large and expensive fleet was of no use against the Russians during the Russo-Turkish War. He locked most of the fleet inside the Golden Horn, where the ships decayed for the next 30 years. Following the Young Turk Revolution in 1908, the Committee of Union and Progress sought to develop a strong Ottoman naval force. The _Ottoman Navy Foundation_ was established in 1910 to buy new ships through public donations.
 
@@ -214,7 +212,7 @@ The establishment of Ottoman military aviation dates back to between June 1909 a
 
 Administrative divisions
 
-Ottoman_Empire_(1795).pngs in 1795]]
+s in 1795]]
 
 The Ottoman Empire was first subdivided into provinces, in the sense of fixed territorial units with governors appointed by the sultan, in the late 14th century.[161]
 
@@ -227,13 +225,13 @@ Economy
 
 Ottoman government deliberately pursued a policy for the development of Bursa, Edirne, and Istanbul, successive Ottoman capitals, into major commercial and industrial centres, considering that merchants and artisans were indispensable in creating a new metropolis.[166] To this end, Mehmed and his successor Bayezid, also encouraged and welcomed migration of the Jews from different parts of Europe, who were settled in Istanbul and other port cities like Salonica. In many places in Europe, Jews were suffering persecution at the hands of their Christian counterparts, such as in Spain after the conclusion of Reconquista. The tolerance displayed by the Turks was welcomed by the immigrants.
 
-Mehmed_the_Conqueror_(1432_–1481).jpg, 1481]]
+, 1481]]
 
 The Ottoman economic mind was closely related to the basic concepts of state and society in the Middle East in which the ultimate goal of a state was consolidation and extension of the ruler's power, and the way to reach it was to get rich resources of revenues by making the productive classes prosperous.[167] The ultimate aim was to increase the state revenues without damaging the prosperity of subjects to prevent the emergence of social disorder and to keep the traditional organization of the society intact. The Ottoman economy greatly expanded during the early modern period, with particularly high growth rates during first half of the eighteenth century. The empire's annual income quadrupled between 1523 and 1748, adjusted for inflation.[168]
 
 The organization of the treasury and chancery were developed under the Ottoman Empire more than any other Islamic government and, until the 17th century, they were the leading organization among all their contemporaries.[169] This organization developed a scribal bureaucracy (known as "men of the pen") as a distinct group, partly highly trained ulama, which developed into a professional body.[170] The effectiveness of this professional financial body stands behind the success of many great Ottoman statesmen.[171]
 
-Ottoman_Bank.jpg was founded in 1856 in Istanbul; in August 1896, the bank was captured by members of the Armenian Revolutionary Federation.]]
+was founded in 1856 in Istanbul; in August 1896, the bank was captured by members of the Armenian Revolutionary Federation.]]
 
 Modern Ottoman studies indicate that the change in relations between the Ottoman Turks and central Europe was caused by the opening of the new sea routes. It is possible to see the decline in the significance of the land routes to the East as Western Europe opened the ocean routes that bypassed the Middle East and Mediterranean as parallel to the decline of the Ottoman Empire itself.[172] The Anglo-Ottoman Treaty, also known as the Treaty of Balta Liman that opened the Ottoman markets directly to English and French competitors, would be seen as one of the staging posts along this development.
 
@@ -248,13 +246,13 @@ Demographics
 
 A population estimate for the empire of 11,692,480 for the 1520–1535 period was obtained by counting the households in Ottoman tithe registers, and multiplying this number by 5.[178] For unclear reasons, the population in the 18th century was lower than that in the 16th century.[179] An estimate of 7,230,660 for the first census held in 1831 is considered a serious undercount, as this census was meant only to register possible conscripts.[180]
 
-Ottoman_Smyrna.jpg under Ottoman rule in 1900]]
+under Ottoman rule in 1900]]
 
 Censuses of Ottoman territories only began in the early 19th century. Figures from 1831 onwards are available as official census results, but the censuses did not cover the whole population. For example, the 1831 census only counted men and did not cover the whole empire.[181] For earlier periods estimates of size and distribution of the population are based on observed demographic patterns.[182]
 
 However, it began to rise to reach 25–32 million by 1800, with around 10 million in the European provinces (primarily in the Balkans), 11 million in the Asiatic provinces and around 3 million in the African provinces. Population densities were higher in the European provinces, double those in Anatolia, which in turn were triple the population densities of Iraq and Syria and five times the population density of Arabia.
 
-Bridge_and_Galata_Area,_Istanbul,_Turkey_by_Abdullah_Frères,_ca._1880-1893_(LOC).jpg (Karaköy) and the Galata Bridge on the Golden Horn, ]]
+(Karaköy) and the Galata Bridge on the Golden Horn, ]]
 
 Towards the end of the empire's existence life expectancy was 49 years, compared to the mid-twenties in Serbia at the beginning of the 19th century. Epidemic diseases and famine caused major disruption and demographic changes. In 1785 around one sixth of the Egyptian population died from plague and Aleppo saw its population reduced by twenty percent in the 18th century. Six famines hit Egypt alone between 1687 and 1731 and the last famine to hit Anatolia was four decades later.
 
@@ -264,13 +262,13 @@ Economic and political migrations made an impact across the empire. For example,
 
 Language
 
-1911_Ottoman_Calendar.jpg Ottoman Turkish was the official language of the Empire. It was an Oghuz Turkic language highly influenced by Persian and Arabic. The Ottomans had several influential languages: Turkish, spoken by the majority of the people in Anatolia and by the majority of Muslims of the Balkans except in Albania and Bosnia; Persian, only spoken by the educated;[186] Arabic, spoken mainly in Arabia, Iraq, Kuwait, the Levant and parts of the Horn of Africa and Berber in North Africa. In the last two centuries, usage of these became limited, though, and specific: Persian served mainly as a literary language for the educated,[187] while Arabic was used for Islamic prayers. Turkish, in its Ottoman variation, was a language of military and administration since the nascent days of the Ottomans. The Ottoman constitution of 1876 did officially cement the official imperial status of Turkish.[188]
+Ottoman Turkish was the official language of the Empire. It was an Oghuz Turkic language highly influenced by Persian and Arabic. The Ottomans had several influential languages: Turkish, spoken by the majority of the people in Anatolia and by the majority of Muslims of the Balkans except in Albania and Bosnia; Persian, only spoken by the educated;[186] Arabic, spoken mainly in Arabia, Iraq, Kuwait, the Levant and parts of the Horn of Africa and Berber in North Africa. In the last two centuries, usage of these became limited, though, and specific: Persian served mainly as a literary language for the educated,[187] while Arabic was used for Islamic prayers. Turkish, in its Ottoman variation, was a language of military and administration since the nascent days of the Ottomans. The Ottoman constitution of 1876 did officially cement the official imperial status of Turkish.[188]
 
 Because of a low literacy rate among the public (about 2–3% until the early 19th century and just about 15% at the end of the 19th century), ordinary people had to hire scribes as "special request-writers" (_arzuhâlci_s) to be able to communicate with the government.[189][190] The ethnic groups continued to speak within their families and neighborhoods (mahalles) with their own languages (e.g., Jews, Greeks, Armenians, etc.). In villages where two or more populations lived together, the inhabitants would often speak each other's language. In cosmopolitan cities, people often spoke their family languages; many of those who were not ethnic Turks spoke Turkish as a second language.
 
 Religion
 
-Portrait_Caliph_Abdulmecid_II.jpg was the last caliph of Islam and a member of the Ottoman dynasty.]]
+was the last caliph of Islam and a member of the Ottoman dynasty.]]
 
 In the Ottoman imperial system, even though there existed a hegemonic power of Muslim control over the non-Muslim populations, non-Muslim communities had been granted state recognition and protection in the Islamic tradition.[191] The officially accepted state Dīn _(Madh'hab)_ of the Ottomans was Sunni _(Hanafi jurisprudence)._[192]
 
@@ -278,7 +276,7 @@ Until the second half of the 15th century the empire had a Christian majority, u
 
 Islam
 
-Tile_with_Calligraphy.JPG writing on a fritware tile, depicting the names of God, Muhammad and the first caliphs, [197]]]
+writing on a fritware tile, depicting the names of God, Muhammad and the first caliphs, [197]]]
 
 Turkic peoples practiced a variety of shamanism before adopting Islam. Abbasid influence in Central Asia was ensured through a process that was greatly facilitated by the Muslim conquest of Transoxiana. Many of the various Turkic tribes—including the Oghuz Turks, who were the ancestors of both the Seljuks and the Ottomans—gradually converted to Islam, and brought the religion with them to Anatolia beginning in the 11th century.
 
@@ -286,7 +284,7 @@ Muslim sects regarded as heretical, such as the Druze, Ismailis, Alevis, and Ala
 
 Christianity and Judaism
 
-Gennadios_II_and_Mehmed_II.jpg and Patriarch Gennadius II]]
+and Patriarch Gennadius II]]
 
 In the Ottoman Empire, in accordance with the Muslim _dhimmi_ system, Christians were guaranteed limited freedoms (such as the right to worship). They were forbidden to carry weapons or ride on horseback, their houses could not overlook those of Muslims, in addition to various other legal limitations.[200] Many Christians and Jews converted in order to secure full status in the society. Most, however, continued to practice their old religions without restriction.[201]
 
@@ -296,7 +294,7 @@ Similar millets were established for the Ottoman Jewish community, who were unde
 
 Social-political-religious structure
 
-Society, government and religion was inter-related in complex ways after about 1800, in a complex overlapping, inefficient system that Atatürk systematically dismantled after 1922.[206][207] In Constantinople, the Sultan ruled two distinct domains: the secular government and the religious hierarchy. Religious officials formed the Ulama, who had control of religious teachings and theology, and also the Empire's judicial system, giving them a major voice in day-to-day affairs in communities across the Empire (but not including the non-Muslim millets). They were powerful enough to reject the military reforms proposed by Sultan Selim III. His successor Sultan Mahmud II (r. 1808–1839) first won ulama approval before proposing similar reforms.[208] The secularization program of Atatürk brought ended the ulema and their institutions. The caliphate was abolished, madrasas were closed down and the sharia courts abolished. He replaced the Arabic alphabet with Latin letters, ended the religious school system, and gave women some political rights. Many rural traditionalists never accepted this secularization, and by the 1990s they were reasserting a demand for a larger role for Islam.[209] AsiaMinor1910.jpg
+Society, government and religion was inter-related in complex ways after about 1800, in a complex overlapping, inefficient system that Atatürk systematically dismantled after 1922.[206][207] In Constantinople, the Sultan ruled two distinct domains: the secular government and the religious hierarchy. Religious officials formed the Ulama, who had control of religious teachings and theology, and also the Empire's judicial system, giving them a major voice in day-to-day affairs in communities across the Empire (but not including the non-Muslim millets). They were powerful enough to reject the military reforms proposed by Sultan Selim III. His successor Sultan Mahmud II (r. 1808–1839) first won ulama approval before proposing similar reforms.[208] The secularization program of Atatürk brought ended the ulema and their institutions. The caliphate was abolished, madrasas were closed down and the sharia courts abolished. He replaced the Arabic alphabet with Latin letters, ended the religious school system, and gave women some political rights. Many rural traditionalists never accepted this secularization, and by the 1990s they were reasserting a demand for a larger role for Islam.[209]
 
 The political system was transformed by the destruction of the Janissaries in the Auspicious Incident of 1826. They were very powerful military/governmental/police force that revolted. Sultan Mahmud II crushed the revolt, executed the leaders, and disbanded the large organization. That set the stage for a slow process of modernization of government functions, as the government sought, with mixed success, to adopt the main elements of Western bureaucracy and military technology. The Janissaries had been recruited from Christians and other minorities; their abolition enabled the emergence of a Turkish elite to control the Ottoman Empire. The problem was that the Turkish element was very poorly educated, lacking higher schools of any sort, and locked into a Turkish language that used Arabic alphabet that inhibited wider learning. The large number of ethnic and religious minorities were tolerated in their own separate segregated domains called millets.[210] They were primarily Greek, Armenian or Jewish. In each locality they governed themselves, spoke their own language, ran their own schools, cultural and religious institutions, and paid somewhat higher taxes. They had no power outside the millett. The Imperial government protected them, and prevented major violent clashes between ethnic groups. However the millets showed very little loyalty to the Empire. Ethnic nationalism, based on distinctive religion and language, provided a centripetal force that eventually destroyed the Ottoman Empire.[211] In addition, Muslim ethnic groups, which were not part of the millett system, especially the Arabs and the Kurds, were outside the Turkish culture and develop their own separate nationalism. The British sponsored Arab nationalism in the First World War, promising an independent Arab state in return for Arab support. Most Arabs supported the Sultan but those near Mecca bought the British promise.[212]
 
@@ -309,11 +307,11 @@ After the 18th century, the Ottoman Empire was clearly shrinking, as Russia put 
 
 Culture
 
-WaldmeierLebanon.gif shop in Lebanon, Ottoman Empire]]
+shop in Lebanon, Ottoman Empire]]
 
 The Ottomans absorbed some of the traditions, art and institutions of cultures in the regions they conquered, and added new dimensions to them. Numerous traditions and cultural traits of previous empires (in fields such as architecture, cuisine, music, leisure and government) were adopted by the Ottoman Turks, who elaborated them into new forms, resulting in a new and distinctively Ottoman cultural identity. Despite newer added amalgamations, the Ottoman dynasty, like their predecessors in the Sultanate of Rum and the Seljuk Empire, were thoroughly Persianised in their culture, language, habits and customs, and therefore the empire has been described as a Persianate empire.[215][216][217][218] Intercultural marriages also played a part in creating the characteristic Ottoman elite culture. When compared to the Turkish folk culture, the influence of these new cultures in creating the culture of the Ottoman elite was clear.
 
-Flickr_-_…trialsanderrors_-_Yeni_Cami_and_Eminönü_bazaar,_Constantinople,_Turkey,_ca._1895.jpg and Eminönü bazaar, Constantinople, ]]
+and Eminönü bazaar, Constantinople, ]]
 
 Slavery was a part of Ottoman society,[219] with most slaves employed as domestic servants. Agricultural slavery, such as that which was widespread in the Americas, was relatively rare. Unlike systems of chattel slavery, slaves under Islamic law were not regarded as movable property, but maintained basic, though limited, rights. This gave them a degree of protection against abuse.[220] Female slaves were still sold in the Empire as late as 1908.[221] During the 19th century the Empire came under pressure from Western European countries to outlaw the practice. Policies developed by various Sultans throughout the 19th century attempted to curtail the Ottoman slave trade but slavery had centuries of religious backing and sanction and so slavery was never abolished in the Empire.[222]
 
@@ -329,7 +327,7 @@ The two primary streams of Ottoman written literature are poetry and prose. Poet
 
 Ottoman Divan poetry was a highly ritualized and symbolic art form. From the Persian poetry that largely inspired it, it inherited a wealth of symbols whose meanings and interrelationships—both of similitude (مراعات نظير mura'ât-i nazîr / تناسب tenâsüb) and opposition (تضاد tezâd) were more or less prescribed. Divan poetry was composed through the constant juxtaposition of many such images within a strict metrical framework, thus allowing numerous potential meanings to emerge. The vast majority of Divan poetry was lyric in nature: either gazels (which make up the greatest part of the repertoire of the tradition), or kasîdes. There were, however, other common genres, most particularly the mesnevî, a kind of verse romance and thus a variety of narrative poetry; the two most notable examples of this form are the Leyli and Majnun of Fuzûlî and the Hüsn ü Aşk of Şeyh Gâlib.
 
-Nedim_(divan_edb.şairi).JPG, one of the most celebrated Ottoman poets]]
+, one of the most celebrated Ottoman poets]]
 
 Until the 19th century, Ottoman prose did not develop to the extent that contemporary Divan poetry did. A large part of the reason for this was that much prose was expected to adhere to the rules of sec (سجع, also transliterated as seci), or rhymed prose,[226] a type of writing descended from the Arabic saj' and which prescribed that between each adjective and noun in a string of words, such as a sentence, there must be a rhyme. Nevertheless, there was a tradition of prose in the literature of the time, though exclusively non-fictional in nature. One apparent exception was Muhayyelât ("Fancies") by Giritli Ali Aziz Efendi, a collection of stories of the fantastic written in 1796, though not published until 1867. The first novel published in the Ottoman Empire was by an Armenian named Vartan Pasha. Published in 1851, the novel was entitled The Story of Akabi (Turkish: Akabi Hikyayesi) and was written in Turkish but with Armenian script.[227][228][229][230]
 
@@ -341,19 +339,17 @@ Media
 
 Architecture
 
-Dolmabahçe_Palace_in_1862.jpg in 1862, taken by Francis Bedford]]
+in 1862, taken by Francis Bedford]]
 
 Ottoman architecture was influenced by Persian, Byzantine Greek and Islamic architectures. During the Rise period the early or first Ottoman architecture period, Ottoman art was in search of new ideas. The growth period of the Empire become the classical period of architecture, when Ottoman art was at its most confident. During the years of the Stagnation period, Ottoman architecture moved away from this style, however.
 
-Bridge_on_the_Drina_July_2009.jpg, completed in 1577 by Mimar Sinan, the greatest architect of the classical period of Ottoman architecture]]
+, completed in 1577 by Mimar Sinan, the greatest architect of the classical period of Ottoman architecture]]
 
 During the Tulip Era, it was under the influence of the highly ornamented styles of Western Europe; Baroque, Rococo, Empire and other styles intermingled. Concepts of Ottoman architecture concentrate mainly on the mosque. The mosque was integral to society, city planning and communal life. Besides the mosque, it is also possible to find good examples of Ottoman architecture in soup kitchens, theological schools, hospitals, Turkish baths and tombs.
 
 Examples of Ottoman architecture of the classical period, besides Istanbul and Edirne, can also be seen in Egypt, Eritrea, Tunisia, Algiers, the Balkans and Romania, where mosques, bridges, fountains and schools were built. The art of Ottoman decoration developed with a multitude of influences due to the wide ethnic range of the Ottoman Empire. The greatest of the court artists enriched the Ottoman Empire with many pluralistic artistic influences, such as mixing traditional Byzantine art with elements of Chinese art.[232]
 
 Decorative arts
-
-Ottoman_miniature_painters.jpg
 
 The tradition of Ottoman miniatures, painted to illustrate manuscripts or used in dedicated albums, was heavily influenced by the Persian art form, though it also included elements of the Byzantine tradition of illumination and painting. A Greek academy of painters, the _Nakkashane-i-Rum_, was established in the Topkapi Palace in the 15th century, while early in the following century a similar Persian academy, the _Nakkashane-i-Irani_, was added.
 
@@ -373,7 +369,7 @@ File:Abdulaziz.jpg|Sultan Abdülaziz was also a music composer. File:Surname 171
 
 Cuisine
 
-Enjoying_Coffee_Pera_Museum_2_b.jpg at the harem]] François-Marie_Rosset_-_Femmes_Turcs_turques_de_Serquin,_leur_manière_de_faire_leur_pain_-_Syrie_-_1790.jpg
+at the harem]]
 
 Ottoman cuisine refers to the cuisine of the capital, Constantinople (Istanbul), and the regional capital cities, where the melting pot of cultures created a common cuisine that most of the population regardless of ethnicity shared. This diverse cuisine was honed in the Imperial Palace's kitchens by chefs brought from certain parts of the Empire to create and experiment with different ingredients. The creations of the Ottoman Palace's kitchens filtered to the population, for instance through Ramadan events, and through the cooking at the Yalıs of the Pashas, and from there on spread to the rest of the population.
 
@@ -382,11 +378,11 @@ Much of the cuisine of former Ottoman territories today is descended from a shar
 
 Science and technology
 
-Ottoman_Imperial_Museum_(Today-_Istanbul_Archaeology_Museums).jpg]]
+]]
 
 Over the course of Ottoman history, the Ottomans managed to build a large collection of libraries complete with translations of books from other cultures, as well as original manuscripts.[238] A great part of this desire for local and foreign manuscripts arose in the 15th century. Sultan Mehmet II ordered Georgios Amiroutzes, a Greek scholar from Trabzon, to translate and make available to Ottoman educational institutions the geography book of Ptolemy. Another example is Ali Qushji – an astronomer, mathematician and physicist originally from Samarkand – who became a professor in two madrasas and influenced Ottoman circles as a result of his writings and the activities of his students, even though he only spent two or three years in Istanbul before his death.[239]
 
-Istambul_observatory_in_1577.jpg in 1577]]
+in 1577]]
 
 Taqi al-Din built the Istanbul observatory of Taqi al-Din in 1577, where he carried out observations until 1580. He calculated the eccentricity of the Sun's orbit and the annual motion of the apogee.[240] However, the observatory's primary purpose was almost certainly astrological rather than astronomical, leading to its destruction in 1580 due to the rise of a clerical faction that opposed its use for that purpose.[241] He also experimented with steam power in Ottoman Egypt in 1551, when he invented a steam jack driven by a rudimentary steam turbine.[242]
 
@@ -403,7 +399,7 @@ In the 19th century, Ishak Efendi is credited with introducing the then current 
 
 Sports
 
-Oil_wrestling_match_in_the_gardens_of_the_Sultan's_Palace.jpg, in the 19th century]]
+, in the 19th century]]
 
 The main sports Ottomans were engaged in were Turkish wrestling, hunting, Turkish archery, horseback riding, equestrian javelin throw, arm wrestling, and swimming. European model sports clubs were formed with the spreading popularity of football matches in 19th century Constantinople. The leading clubs, according to timeline, were Beşiktaş Gymnastics Club (1903), Galatasaray Sports Club (1905), Fenerbahçe Sports Club (1907), MKE Ankaragücü (formerly Turan Sanatkaragücü) (1910) in Istanbul. Football clubs were formed in other provinces too, such as Karşıyaka Sports Club (1912), Altay Sports Club (1914) and Turkish Fatherland Football Club (later Ülküspor) (1914) of İzmir.
 

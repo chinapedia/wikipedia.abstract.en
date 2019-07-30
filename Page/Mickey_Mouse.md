@@ -13,7 +13,7 @@ Film
 
 Origin
 
-Mickey_Mouse_concept_art.jpg of Mickey from early 1928; the sketches are the earliest known drawings of the character, from the collection of The Walt Disney Family Museum.]]
+of Mickey from early 1928; the sketches are the earliest known drawings of the character, from the collection of The Walt Disney Family Museum.]]
 
 Mickey Mouse was created as a replacement for Oswald the Lucky Rabbit, an earlier cartoon character created by the Disney studio for Charles Mintz, a film producer who distributed product through Universal Studios.[2] In the spring of 1928, with the series going strong, Disney asked Mintz for an increase in the budget. But Mintz instead demanded that Walt take a 20 percent budget cut, and as leverage, he reminded Disney that Universal owned the character, and revealed that he had already signed most of Disney's current employees to his new contract. Angrily, Disney refused the deal and returned to produce the final Oswald cartoons he contractually owed Mintz. Disney was dismayed at the betrayal by his staff but determined to restart from scratch. The new Disney Studio initially consisted of animator Ub Iwerks and a loyal apprentice artist, Les Clark, who together with Wilfred Jackson were among the few who remained loyal to Walt. One lesson Disney learned from the experience was to thereafter always make sure that he owned all rights to the characters produced by his company.
 
@@ -21,7 +21,7 @@ In the spring of 1928, Disney asked Ub Iwerks to start drawing up new character 
 
 Debut (1928)
 
-Steamboat-willie.jpg'' (1928)]]
+'' (1928)]]
 
 Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal. The cartoon was co-directed by Walt Disney and Ub Iwerks. Iwerks was the main animator for the short and reportedly spent six weeks working on it. In fact, Iwerks was the main animator for every Disney short released in 1928 and 1929. Hugh Harman and Rudolf Ising also assisted Disney during those years. They had already signed their contracts with Charles Mintz, but he was still in the process of forming his new studio and so for the time being they were still employed by Disney. This short would be the last they animated under this somewhat awkward situation.[11]
 
@@ -35,7 +35,7 @@ Audiences at the time of _Steamboat Willie_'s release were reportedly impressed 
 
 Black and white films (1929–1935)
 
-Mickey_and_Minnie_-_Building_a_Building.png in _Building a Building_ (1933)]] In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse. _The Barn Dance_ (March 14, 1929) is the first time in which Mickey is turned down by Minnie in favor of Pete.
+in _Building a Building_ (1933)]] In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse. _The Barn Dance_ (March 14, 1929) is the first time in which Mickey is turned down by Minnie in favor of Pete.
 
 _The Opry House_ (March 28, 1929) was the first time in which Mickey wore his white gloves. Mickey wears them in almost all of his subsequent appearances and many other characters followed suit. The three lines on the back of Mickey's gloves represent darts in the gloves' fabric extending from between the digits of the hand, typical of glove design of the era.
 
@@ -49,7 +49,7 @@ About this time, story artists at Disney were finding it increasingly difficult 
 
 Color films (1935–1953)
 
-Mickey_-_The_Band_Concert.png'' (1935)]] Mickey_-_Fantasia.jpg'' (1940)]]
+'' (1935)]] '' (1940)]]
 
 Mickey first appeared animated in color in _Parade of the Award Nominees_ in 1932, however, the film strip was created for the 5th Academy Awards ceremony and was not released to the public. Mickey's official first color film came in 1935 with _The Band Concert_. The Technicolor film process was used in the film production. Here Mickey conducted the _William Tell Overture_, but the band is swept up by a tornado. It is said that conductor Arturo Toscanini so loved this short that, upon first seeing it, he asked the projectionist to run it again. In 1994, _The Band Concert_ was voted the third-greatest cartoon of all time in a poll of animation professionals. By colorizing and partially redesigning Mickey, Walt would put Mickey back on top once again, and Mickey would reach popularity he never reached before as audiences now gave him more appeal.[26] Also in 1935, Walt would receive a special award from the League of Nations for creating Mickey.
 
@@ -65,7 +65,7 @@ The last regular installment of the _Mickey Mouse_ film series came in 1953 with
 
 Television and later films
 
-Mickey_-_House_of_Mouse.png'' (2001–2003)]]
+'' (2001–2003)]]
 
 In the 1950s, Mickey became more known for his appearances on television, particularly with _The Mickey Mouse Club_. Many of his theatrical cartoon shorts were rereleased on television series such as _Ink & Paint Club_, various forms of the Walt Disney anthology television series, and on home video. Mickey returned to theatrical animation in 1983 with _Mickey's Christmas Carol_, an adaptation of Charles Dickens' _A Christmas Carol_ in which Mickey played Bob Cratchit. This was followed up in 1990 with _The Prince and the Pauper_.
 
@@ -112,8 +112,6 @@ Portrayal
 
 Design
 
-Mickey_Mouse_head_and_ears.svg
-
 Throughout the earlier years, Mickey's design bore heavy resemblance to Oswald, save for the ears, nose, and tail.[38][39][40] Ub Iwerks designed Mickey's body out of circles in order to make the character simple to animate. Disney employees John Hench and Marc Davis believed that this design was part of Mickey's success as it made him more dynamic and appealing to audiences.
 
 Mickey's circular design is most noticeable in his ears. In animation in the 1940s, Mickey's ears were animated in a more realistic perspective. Later, they were drawn to always appear circular no matter which way Mickey was facing. This made Mickey easily recognizable to audiences and made his ears an unofficial personal trademark. The circular rule later created a dilemma for toy creators who had to recreate a three-dimensional Mickey.
@@ -130,7 +128,7 @@ Besides Mickey's gloves and shoes, he typically wears only a pair of shorts with
 
 Voice actors
 
-Walt_disney_portrait.jpg, was the original voice of Mickey.]]
+, was the original voice of Mickey.]]
 
 A large part of Mickey's screen persona is his famously shy, falsetto voice. From 1928 onward, Mickey was voiced by Walt Disney himself, a task in which Disney took great personal pride. However, by 1946, Disney was becoming too busy with running the studio to do regular voice work which meant he could not do Mickey's voice on a regular basis anymore. It is also speculated that his cigarette habit had damaged his voice over the years. After recording the _Mickey and the Beanstalk_ section of _Fun and Fancy Free_, Mickey's voice was handed over to veteran Disney musician and actor Jimmy MacDonald. MacDonald voiced Mickey in the remainder of the theatrical shorts and for various television and publicity projects up until his retirement in 1977, although Walt would reprise Mickey's voice occasionally until his passing in 1966, such as in the introductions to the original 1955–1959 run of _The Mickey Mouse Club_ TV series, the "Fourth Anniversary Show" episode of the Walt Disney's Disneyland TV series that aired on September 11, 1957 and the _Disneyland USA at Radio City Music Hall_ show from 1962.[47]
 
@@ -165,7 +163,7 @@ Like many popular characters, Mickey has starred in many video games, including 
 
 Watches and clocks
 
-Mickey_Mouse_Ingersoll_watch_1933.jpg Mickey Mouse wristwatch]] Mickey was most famously featured on wristwatches and alarm clocks, typically utilizing his hands as the actual hands on the face of the clock. The first Mickey Mouse watches were manufactured in 1933 by the Ingersoll Watch Company. The seconds were indicated by a turning disk below Mickey. The first Mickey watch was sold at the Century of Progress in Chicago, 1933 for $3.75 (). Mickey Mouse watches have been sold by other companies and designers throughout the years, including Timex, Elgin, Helbros, Bradley, Lorus, and Gérald Genta[68] The fictional character Robert Langdon from Dan Brown's novels was said to wear a Mickey Mouse watch as a reminder "to stay young at heart."[69]
+Mickey Mouse wristwatch]] Mickey was most famously featured on wristwatches and alarm clocks, typically utilizing his hands as the actual hands on the face of the clock. The first Mickey Mouse watches were manufactured in 1933 by the Ingersoll Watch Company. The seconds were indicated by a turning disk below Mickey. The first Mickey watch was sold at the Century of Progress in Chicago, 1933 for $3.75 (). Mickey Mouse watches have been sold by other companies and designers throughout the years, including Timex, Elgin, Helbros, Bradley, Lorus, and Gérald Genta[68] The fictional character Robert Langdon from Dan Brown's novels was said to wear a Mickey Mouse watch as a reminder "to stay young at heart."[69]
 
 Other products
 
@@ -300,7 +298,7 @@ Television series
 
 Awards and honors
 
-Mickey_Mouse_star_in_Walk_of_Fame.jpg]] Mickey Mouse has received ten nominations for the Academy Award for Best Animated Short Film. These are _Mickey's Orphans_ (1931), _Building a Building_ (1933), _Brave Little Tailor_ (1938), _The Pointer_ (1939), _Lend a Paw_ (1941), _Squatter's Rights_ (1946), _Mickey and the Seal_ (1948), _Mickey's Christmas Carol_ (1983), _Runaway Brain_ (1995), and _Get a Horse!_ (2013). Among these, _Lend a Paw_ was the only film to actually win the award. Additionally, in 1932 Walt Disney received an honorary Academy Award in recognition of Mickey's creation and popularity.
+]] Mickey Mouse has received ten nominations for the Academy Award for Best Animated Short Film. These are _Mickey's Orphans_ (1931), _Building a Building_ (1933), _Brave Little Tailor_ (1938), _The Pointer_ (1939), _Lend a Paw_ (1941), _Squatter's Rights_ (1946), _Mickey and the Seal_ (1948), _Mickey's Christmas Carol_ (1983), _Runaway Brain_ (1995), and _Get a Horse!_ (2013). Among these, _Lend a Paw_ was the only film to actually win the award. Additionally, in 1932 Walt Disney received an honorary Academy Award in recognition of Mickey's creation and popularity.
 
 In 1994, four of Mickey's cartoons were included in the book _The 50 Greatest Cartoons_ which listed the greatest cartoons of all time as voted by members of the animation field. The films were _The Band Concert_ (#3), _Steamboat Willie_ (#13), _Brave Little Tailor_ (#26), and _Clock Cleaners_ (#27).
 

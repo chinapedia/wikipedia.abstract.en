@@ -62,8 +62,6 @@ VI. Redemption of votive gifts (ch. 27)
 
 Summary
 
-Book_of_Leviticus,_Mikraot_Gdolot,_Warsaw_edition,_1860,_Page_1.jpg
-
 Chapters 1–5 describe the various sacrifices from the sacrificers' point of view, although the priests are essential for handling the blood. Chapters 6–7 go over much the same ground, but from the point of view of the priest, who, as the one actually carrying out the sacrifice and dividing the "portions", needs to know how do this. Sacrifices are between God, the priest, and the offerers, although in some cases the entire sacrifice is a single portion to God—i.e., burnt to ashes.[7]
 
 Chapters 8–10 describe how Moses consecrates Aaron and his sons as the first priests, the first sacrifices, and God's destruction of two of Aaron's sons for ritual offenses. The purpose is to underline the character of altar priesthood (i.e., those priests with power to offer sacrifices to God) as an Aaronite privilege, and the responsibilities and dangers of their position.[8]
@@ -79,7 +77,7 @@ Chapter 27 is a disparate and probably late addition telling about persons and t
 
 Composition
 
-Tabernacle_Camp.jpg and the Camp (19th Century drawing)]]
+and the Camp (19th Century drawing)]]
 
 The majority of scholars have concluded that the Pentateuch received its final form during the Persian period (538–332 BC).[14] Nevertheless, Leviticus had a long period of growth before reaching that form.[15]
 
@@ -106,7 +104,7 @@ Yahweh dwells with Israel in the holy of holies. All of the priestly ritual focu
 
 Atonement
 
-William_Holman_Hunt_-_The_Scapegoat.jpg'' (1854 painting by William Holman Hunt)]] Through sacrifice, the priest "makes atonement" for sin and the offerer receives forgiveness (but only if God accepts the sacrifice—forgiveness comes only from God).[31] Atonement rituals involve the pouring or sprinkling of blood as the symbol of the life of the victim: the blood has the power to wipe out or absorb the sin.[32] The two-part division of the book structurally reflects the role of atonement: chapters 1–16 call for the establishment of the institution for atonement, and chapters 17–27 call for the life of the atoned community in holiness.[33]
+'' (1854 painting by William Holman Hunt)]] Through sacrifice, the priest "makes atonement" for sin and the offerer receives forgiveness (but only if God accepts the sacrifice—forgiveness comes only from God).[31] Atonement rituals involve the pouring or sprinkling of blood as the symbol of the life of the victim: the blood has the power to wipe out or absorb the sin.[32] The two-part division of the book structurally reflects the role of atonement: chapters 1–16 call for the establishment of the institution for atonement, and chapters 17–27 call for the life of the atoned community in holiness.[33]
 
 Holiness
 
@@ -117,7 +115,7 @@ The need for holiness is for the possession of the Promised Land (Canaan), where
 
 Subsequent tradition
 
-Temple_Scroll.png]]
+]]
 
 Leviticus, as part of the Torah, became the law book of Jerusalem's Second Temple as well as of the Samaritan temple. Evidence of its influence is evident among the Dead Sea Scrolls, which included fragments of seventeen manuscripts of Leviticus dating from the third to the first centuries BC.[39] Many other Qumran scrolls cite the book, especially the Temple Scroll and 4QMMT.
 
@@ -130,7 +128,7 @@ Christians generally have the view that the New Covenant supersedes (i.e., repla
 
 Contents according to Judaism's weekly Torah portions
 
-YanovTorah.JPG'') used in reading.]]
+'') used in reading.]]
 
     For detailed contents see:
     -   ''Vayikra, on Leviticus 1–5: Laws of the sacrifices

@@ -1,4 +1,4 @@
-Raised bed gardening RAISED-BED GARDENING is a form of gardening in which the soil is enclosed in three-to-four-foot-wide (1.0–1.2 m) containment units ("beds"), which are usually made of wood, rock, or concrete and which can be of any length or shape. The soil is raised above the surrounding soil[1] (approximately six inches to waist-high) and may be enriched with compost.[2]
+RAISED-BED GARDENING is a form of gardening in which the soil is enclosed in three-to-four-foot-wide (1.0–1.2 m) containment units ("beds"), which are usually made of wood, rock, or concrete and which can be of any length or shape. The soil is raised above the surrounding soil[1] (approximately six inches to waist-high) and may be enriched with compost.[2]
 
 Vegetable plants are spaced in geometric patterns, much closer together than in conventional row gardening.[3] The spacing is such that when the vegetables are fully grown, their leaves just barely touch each other, creating a microclimate in which weed growth is suppressed[4] and moisture is conserved.[5]
 

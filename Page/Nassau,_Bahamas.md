@@ -11,8 +11,6 @@ History
 
 Nassau was formerly known as Charles Town; founded in 1670 by British Noblemen who brought British settlers with them to New Providence where they built a fort that was named Charles Town in honour of England’s King Charles II.[3] During the Raid on Charles Town the town was burned to the ground by the Spanish in 1684 during one of their frequent wars with the English. It was rebuilt and renamed to Nassau in 1695 under Governor Nicholas Trott in honour of the Dutch Stadtholder (_stadhouder_ in Dutch) and later also King of England, Scotland and Ireland, William III who belonged to a branch of the House of Nassau, from which the city takes its name. The name Nassau ultimately derives from the town of Nassau in Germany.[4]
 
-Wesleyan_Chapel_and_Mission_Premises._In_the_Eastern_District_of_New_Providence,_Bahamas_(p.6,_1849)_-_Copy.jpg
-
 Due to a lack of effective governors (after Trott), Nassau fell on hard times. In 1703 Spanish and French allied forces briefly occupied Nassau. From 1703 to 1718 there was no governor in the colony and by 1713, the sparsely settled Bahamas had become a pirate haven. The Governor of Bermuda stated that there were over 1,000 pirates in Nassau and that they outnumbered the mere hundred inhabitants of the town. They proclaimed Nassau a pirate republic, establishing themselves as "governors". Examples of pirates that used Nassau as their base are Charles Vane, Thomas Barrow (who declared himself "Governor of New Providence"),[5] Benjamin Hornigold, Calico Jack Rackham, Anne Bonny, Mary Read, and the infamous Edward Teach, better known as "Blackbeard".
 
 In 1718, the British sought to regain control of the islands and appointed Captain Woodes Rogers as Royal governor. He successfully clamped down on the pirates, reformed the civil administration, and restored commerce. Rogers cleaned up Nassau and rebuilt the fort, using his own wealth to try to overcome problems. In 1720 the Spanish made an unsuccessful attempt to capture Nassau.
@@ -30,7 +28,7 @@ In the 1920s and 1930s, Nassau profited from Prohibition in the United States.
 
 Geography
 
-Prince_George_Wharf_in_Nassau_Harbor.jpg Nassau,_The_Bahamas.jpg Located on New Providence Island, Nassau has an attractive harbour, a blend of old world and colonial architecture, and a busy port. The tropical climate and natural environment of the Bahamas have made Nassau a tourist destination.
+Located on New Providence Island, Nassau has an attractive harbour, a blend of old world and colonial architecture, and a busy port. The tropical climate and natural environment of the Bahamas have made Nassau a tourist destination.
 
 Nassau developed directly behind the port area. New Providence provides 200 km² of relatively flat and low-lying land intersected by low ridges (none of which restricted settlement). In the centre of the island there are several shallow lakes that are tidally connected.
 
@@ -48,7 +46,7 @@ Nassau has a tropical savanna climate, with hot and wet summers, and a warm and 
 
 Urban development
 
-IMRAY(1884)_p0210_BAHAMAS,_NASSAU.jpg During the 19th century, Nassau became urbanized, attracting rural residents. Growth since the 1950s has been outwards from the town. The 1788 heart of Nassau was just a few blocks of buildings between Government House and the harbour, but the town gradually expanded east to Malcolm's Park, south to Wulff Road, and west to Nassau Street. Grants Town and Bain Town south of the city became the main residential areas for those of African descent, and until about 30 years ago was the most populous part of the city.
+During the 19th century, Nassau became urbanized, attracting rural residents. Growth since the 1950s has been outwards from the town. The 1788 heart of Nassau was just a few blocks of buildings between Government House and the harbour, but the town gradually expanded east to Malcolm's Park, south to Wulff Road, and west to Nassau Street. Grants Town and Bain Town south of the city became the main residential areas for those of African descent, and until about 30 years ago was the most populous part of the city.
 
 Those of European descent built houses along the shore, east as far as Fort Montagu, west as far as Saunders Beach, and along the ridge edging the city. During the 20th century, the city spread east to Village Road and west to Fort Charlotte and Oakes Field. This semicircle of residential development was the main area of settlement until after the Second World War, and marks a distinct phase in the city's expansion, the outer boundary to this zone being the effective limit of the continuous built-up area. The wealthier residents continued to spread east (to East End Point) and West (to Lyford Cay).
 
@@ -56,9 +54,9 @@ In the last 40 years, residential development has been quite different. It has c
 
 City centre
 
-BahamianParliamentPanorama.jpg The city centre is the hub for all activities in Nassau. Thousands of people visit daily, to shop, dine, sightsee and to enjoy the tropical climate of the city. While the busiest part of central city is the Bay Street thoroughfare and the Woodes Rogers Walk, located across the street from the port and parallel to Bay, the area extends for several blocks in each direction. It starts at West Bay, around the Junkanoo Beach area. A few hotels and restaurants are located on West Bay.
+The city centre is the hub for all activities in Nassau. Thousands of people visit daily, to shop, dine, sightsee and to enjoy the tropical climate of the city. While the busiest part of central city is the Bay Street thoroughfare and the Woodes Rogers Walk, located across the street from the port and parallel to Bay, the area extends for several blocks in each direction. It starts at West Bay, around the Junkanoo Beach area. A few hotels and restaurants are located on West Bay.
 
-The next landmark is the British Colonial Hotel, which marks the beginning of Bay Street proper. Pirates of Nassau Museum is just across from the British Colonial Hilton. The next few blocks of Bay Street are wall-to-wall boutiques, with a few restaurants and clubs interspersed throughout the retailers. Queen's_staircase,_Nassau,_Bahamas.jpg]] Historical landmarks are also in the vicinity, including Vendue House, Christ Church Cathedral, and the Nassau Public Library. Although the tourist part of the city centre peters out after about seven blocks, smaller, more local shops are located down Bay Street. At this point, Bay Street becomes East Bay.
+The next landmark is the British Colonial Hotel, which marks the beginning of Bay Street proper. Pirates of Nassau Museum is just across from the British Colonial Hilton. The next few blocks of Bay Street are wall-to-wall boutiques, with a few restaurants and clubs interspersed throughout the retailers. ]] Historical landmarks are also in the vicinity, including Vendue House, Christ Church Cathedral, and the Nassau Public Library. Although the tourist part of the city centre peters out after about seven blocks, smaller, more local shops are located down Bay Street. At this point, Bay Street becomes East Bay.
 
 The Straw Market is a tourist destination in the city centre. A new market was opened in 2011 after a fire in 2001 destroyed the original Fish, Vegetable and Straw Market. The market is open on all sides, and contains a number of Bahamian craft stores.[7]
 
@@ -118,8 +116,6 @@ UNESCO Creative Cities Network
 Nassau has been recognized as a part of the UNESCO Creative Cities Network as a city of Crafts and Folk Art. It is one of only three Caribbean cities to receive this honour.[14]
 
 Junkanoo
-
-JunkanooDancerPixelizedFace2006.jpg
 
 The city's chief festival is Junkanoo, an energetic, colourful street parade of brightly costumed people dancing to the rhythmic accompaniment of cowbells, drums and whistles. The word 'Junkanoo' is named after the founder 'John Kanoo'. The celebration occurs on December 26, July 10 and January 1, beginning in the early hours of the morning (1:00 a.m.) and ending around 10 a.m. At the end of the Junkanoo procession, judges award cash prizes for the best music, costumes, and overall group presentation. These Bahamians spend all year preparing their handmade costumes by using colored crepe paper and cardboard.
 

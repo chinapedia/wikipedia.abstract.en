@@ -21,13 +21,9 @@ In 1922 John Crichton-Stuart, 4th Marquess of Bute, had sold the entire site and
 
 North and South Stand redevelopments
 
-Cardiff_Arms_Park_New_North_Stand.jpg
-
 During 1934 the cricket pavilion had been demolished to make way for the new North Stand[23] which was built on the rugby union ground, costing around £20,000.[24] However, in 1941 the new North Stand and part of the west terracing was badly damaged in the Blitz by the Luftwaffe during the Second World War.[25]
 
 At a general meeting of the WRU in June 1953 they made a decision "That until such time as the facilities at Swansea were improved, all international matches be played at Cardiff".[26] At the same time, plans were made for a new South Stand which was estimated to cost £60,000; the tender price, however, came out at £90,000, so a compromise was made and it was decided to build a new upper South Stand costing £64,000 instead, with the Cardiff Athletic Club contributing £15,000 and the remainder coming from the WRU.[27] The new South Stand opened in 1956, in time for the 1958 British Empire and Commonwealth Games.[28] This brought the overall capacity of the Arms Park up to 60,000 spectators, of which 12,800 were seated and the remainder standing.[29][30]
-
-Clubhouse,_Cardiff_Athletic_Club.jpg
 
 The Arms Park hosted the 1958 British Empire and Commonwealth Games, which was used for the athletics events, but this event caused damage to the drainage system, so much so, that other rugby unions (England, Scotland and Ireland) complained after the Games about the state of the pitch.[31] On 4 December 1960, due to torrential rain, the River Taff burst its banks with the Arms Park pitch being left under of water.[32] The Development Committee was set up to resolve these issues on a permanent basis. They looked at various sites in Cardiff, but they all proved to be unsatisfactory.[33] They also could not agree a solution with the Cardiff Athletic Club, so they purchased about of land at Island Farm in Bridgend,[34] which was previously used as a prisoner-of-war camp. It is best known for being the camp where the biggest escape attempt was made by German prisoners of war in Great Britain during the Second World War.[35] Due to problems including transport issues Glamorgan County Council never gave outline planning permission for the proposals and by June 1964 the scheme was abandoned.[36] At that stage, the cricket ground to the north was still being used by Glamorgan County Cricket Club, and the rugby union ground to the south was used by the national Wales team and Cardiff RFC.
 
@@ -46,8 +42,6 @@ Both stadia had approximately east-west alignment: the rugby ground to the north
 A world record crowd of 56,000 for a rugby union club match watched Llanelli RFC beat Neath RFC by 28 points to 13 points in the final of the Schweppes Cup (WRU Challenge Cup) on 7 May 1988.[45] The first evening game to be played under floodlights was held on 4 September 1991 at 8.00 pm, between Wales and France.[46] The last international match to be held at the National Stadium was between Wales and England on 15 March 1997, and the last ever match that was held at the National Stadium was on 26 April 1997 between Cardiff and Swansea, Cardiff won the SWALEC Cup (WRU Challenge Cup) by 33 points to 26 points.[47]
 
 Millennium Stadium
-
-Millennium_Stadium_and_Cardiff_Arms_Park.jpg
 
 In 1997, just thirteen years after the National Stadium had opened, it was considered too small and did not have the facilities required of the time and it was demolished and a new stadium, the Millennium Stadium, was built in its place (completed to a north-south alignment and opened in June 1999). This would become the fourth redevelopment of the Cardiff Arms Park site.[48] Although the Millennium Stadium is on roughly two thirds of the National Stadium, Cardiff Arms Park site, it is currently no longer using the Arms Park name.[49] The official website confuses the issue as well, one part states that "The Millennium Stadium is located on Westgate Street in Cardiff; next to the Cardiff Arms Park" whereas another section specifically refers to the stadium as "The Millennium Stadium, on the Cardiff Arms Park"[50] Since 2016 it has been known as the PRINCIPALITY STADIUM.
 
@@ -70,8 +64,6 @@ There was doubt about the future of the Arms Park after 2010 following the move 
 Bowling green
 
 Cardiff Arms Park is best known as a rugby union stadium, but Cardiff Athletic Bowls Club (CABC) was established in 1923,[69] and ever since then, the club has used the Arms Park as its bowling green. The bowls club is a section of the Cardiff Athletic Club and shares many of the facilities of the Cardiff Arms Park athletics centre.[70]
-
-Millennium_Stadium_Cardiff_map_copy_(cropped).jpg
 
 The Les Spence Memorial Gates were erected in memory of the former Cardiff RFU player, who captained the team in 1936-37. He was born in 1907 and became chairman of the Cardiff RFU and president of the WRU between 1973 and 1974. He was awarded an MBE and died in 1988.[71]
 
@@ -130,7 +122,7 @@ The National Stadium hosted four games in the 1991 Rugby World Cup, including th
 
 In 2008, the rugby ground hosted all the games in Pool A of the 2008 IRB Junior World Championship and also the semi-final on 18 June 2008, in which England beat South Africa 26–18.[98]
 
-Blues_Vs_Edinburgh_at_the_Arms_Park.jpg Until February 2012, it had been assumed that the last professional rugby union game to take place at the Arms Park was on 17 May 2009, when Edinburgh beat the Cardiff Blues 36–14 in a Celtic League match during the 2008–09 season.[99]
+Until February 2012, it had been assumed that the last professional rugby union game to take place at the Arms Park was on 17 May 2009, when Edinburgh beat the Cardiff Blues 36–14 in a Celtic League match during the 2008–09 season.[99]
 
 However, on Tuesday, 7 February 2012, it was confirmed that Cardiff Blues would face Connacht at the Arms Park on Friday, 10 February 2012. The Pro12 League game result was a win for the Cardiff Blues 22–15 and attendance of 8,000. The following Tuesday, it was announced that the match against Ulster on Friday, 17 February, would also be at the Arms Park, resulting in a Blues win, 21–14 and attendance of 8,600. The agreement signed during 2009 tied Cardiff Blues to a 20-year contract to play a maximum of 18 games per season for a set fee, rather than per match at Cardiff City Stadium. But on 23 February, it was announced that the two Welsh 'derbies' against the Scarlets and the Ospreys would be played at Cardiff City Stadium, rather than the Arms Park, because of Cardiff Blues' anticipation that the attendance figures would far exceed the maximum capacity of 9,000. On 8 May 2012, it was announced that Cardiff Blues would be returning to the Arms Park on a permanent basis after just three years at the Cardiff City Stadium.[100]
 
@@ -182,7 +174,7 @@ Major music concerts were also held at the National Stadium from 1987 until 1996
 
 Singing tradition
 
-CardiffArmsParkMaleChoir.JPG]] The National Stadium was known primarily as the venue for massed voices singing such hymns as "Cwm Rhondda", "Calon Lân", "Men of Harlech" and "Hen Wlad Fy Nhadau" ("Land of my Fathers" – the national anthem of Wales).[113] The legendary atmosphere including singing of the crowd was said to be worth at least a try or a goal to the home nation.[114] This tradition of singing has now passed on to the Millennium Stadium.[115]
+]] The National Stadium was known primarily as the venue for massed voices singing such hymns as "Cwm Rhondda", "Calon Lân", "Men of Harlech" and "Hen Wlad Fy Nhadau" ("Land of my Fathers" – the national anthem of Wales).[113] The legendary atmosphere including singing of the crowd was said to be worth at least a try or a goal to the home nation.[114] This tradition of singing has now passed on to the Millennium Stadium.[115]
 
 The Arms Park has its own choir, called the Cardiff Arms Park Male Choir. It was formed in 1966 as the Cardiff Athletic Club Male Voice Choir, and today performs internationally with a schedule of concerts and tours. In 2000, the choir changed their name to become the Cardiff Arms Park Male Choir.[116]
 

@@ -14,7 +14,7 @@ Nevertheless, the Montreal capitalist Hugh Allan, with his syndicate Canada Paci
 
 Scandal
 
-Whither_are_we_drifting.png for the Pacific Scandal]]
+for the Pacific Scandal]]
 
 Two groups competed for the contract to build the railway, Hugh Allan's Canada Pacific Railway Company and David Lewis Macpherson's Inter-Oceanic Railway Company. On April 2, 1873, Lucius Seth Huntington, a Liberal Member of Parliament, created an uproar in the House of Commons. He announced he had uncovered evidence that Allan and his associates had been granted the Canadian Pacific Railway contract in return for political donations of $360,000.
 

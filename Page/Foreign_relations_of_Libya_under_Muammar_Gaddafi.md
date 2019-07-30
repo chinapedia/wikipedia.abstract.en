@@ -5,7 +5,7 @@ The foreign relations of the Libyan Arab Jamahiriya (1969–2011) underwent much
 
 Timeline
 
-Nasser_Gaddafi_1969.jpg in 1969. Gaddafi moved Libya away from the West and sought Pan-Arabism and Pan-Africanism.]] Beginning in 1969, Colonel Muammar Gaddafi determined Libya's foreign policy. His principal foreign policy goals were Arab unity, elimination of Israel, advancement of Islam, support for Palestinians, elimination of outside influence in the Middle East and Africa, and support for a range of "revolutionary" causes.
+in 1969. Gaddafi moved Libya away from the West and sought Pan-Arabism and Pan-Africanism.]] Beginning in 1969, Colonel Muammar Gaddafi determined Libya's foreign policy. His principal foreign policy goals were Arab unity, elimination of Israel, advancement of Islam, support for Palestinians, elimination of outside influence in the Middle East and Africa, and support for a range of "revolutionary" causes.
 
 After the 1969 coup d'état, U.S.-Libyan relations became increasingly strained.
 
@@ -40,8 +40,6 @@ In May 1981, the U.S. government closed the Libyan "people's bureau" (embassy) i
 In August 1981, in the first incident of the Gulf of Sidra, two Libyan jets fired on U.S. aircraft participating in a routine naval exercise over international waters of the Mediterranean Sea claimed by Libya. The U.S. planes returned fire and shot down the attacking Libyan aircraft. On 11 December 1981, the State Department invalidated U.S. passports for travel to Libya (a _de facto_ travel ban) and, for purposes of safety, advised all U.S. citizens in Libya to leave. In March 1982, the U.S. government prohibited imports of Libyan crude oil into the United States[14] and expanded the controls on U.S.-origin goods intended for export to Libya. Licenses were required for all transactions, except food and medicine. In March 1984, U.S. export controls were expanded to prohibit future exports to the Ra's Lanuf petrochemical complex. In April 1985, all Export-Import Bank financing was prohibited.
 
 In October 1981, Egyptian President Anwar Sadat was assassinated. Gaddafi applauded the murder and remarked that it was a "punishment" for Sadat's signing of the Camp David Accords with the United States and Israel.[15]
-
-Libyan_Peoples_Bureau_London.jpg
 
 In April 1984, Libyan refugees in London protested against the execution of two dissidents. Libyan diplomats shot at 11 people and killed Yvonne Fletcher, a British policewoman. The incident led to the breaking off of diplomatic relations between the United Kingdom and Libya for over a decade.[16] Two months later, Gaddafi asserted that he wanted his agents to assassinate dissident refugees, even if they were just on pilgrimage in the holy city of Mecca—in August 1984, a Libyan plot in Mecca was thwarted by Saudi Arabian police.[17]
 
@@ -89,7 +87,7 @@ In 1999, less than a decade after the UN sanctions were put in place, Libya bega
 
 2000s
 
-Vladimir_Putin_with_Muammar_Gaddafi-2.jpg in 2008]] As of January 2002, Libya was constructing another chemical weapons production facility at Tarhuna. Citing Libya's support for terrorism and its past regional aggressions the United States voiced concern over this development. In cooperation with like-minded countries, the United States has since sought to bring a halt to the foreign technical assistance deemed essential to the completion of this facility. See Chemical weapon proliferation#Libya.
+in 2008]] As of January 2002, Libya was constructing another chemical weapons production facility at Tarhuna. Citing Libya's support for terrorism and its past regional aggressions the United States voiced concern over this development. In cooperation with like-minded countries, the United States has since sought to bring a halt to the foreign technical assistance deemed essential to the completion of this facility. See Chemical weapon proliferation#Libya.
 
 Following the fall of Saddam Hussein's regime in 2003, Gaddafi decided to abandon his weapons of mass destruction programs and pay almost 3 billion euros in compensation to the families of Pan Am Flight 103 and UTA Flight 772.[42][43] The decision was welcomed by many western nations and was seen as an important step toward Libya rejoining the international community.[44] Since 2003 the country has made efforts to normalize its ties with the European Union and the United States and has even coined the catchphrase, 'The Libya Model', an example intended to show the world what can be achieved through negotiation, rather than force, when there is goodwill on both sides. By 2004 George W. Bush had lifted the economic sanctions and official relations resumed with the United States. Libya opened a liaison office in Washington, and the United States opened an office in Tripoli. In January 2004, Congressman Tom Lantos led the first official Congressional delegation visit to Libya.
 
@@ -105,7 +103,7 @@ In August 2008 Italian Prime Minister Silvio Berlusconi signed an agreement to p
 
 Libyan-Swiss relations strongly suffered after the arrest of Hannibal Gaddafi for beating up his domestic servants in Geneva in 2008. In response, Gaddafi removed all his money held in Swiss banks and asked the United Nations to vote to abolish Switzerland as a sovereign nation.[50][51]
 
-In February 2009, Gaddafi was selected to be chairman of the African Union for one year. The same year, the United Kingdom and Libya signed a prisoner-exchange agreement and then Libya requested the transfer of the convicted Lockerbie bomber, who finally returned home in August 2009.[52] Mutassim_Gadaffi_Hillary_Clinton.jpg with Libyan National Security Adviser Mutassim Gaddafi in 2009]]
+In February 2009, Gaddafi was selected to be chairman of the African Union for one year. The same year, the United Kingdom and Libya signed a prisoner-exchange agreement and then Libya requested the transfer of the convicted Lockerbie bomber, who finally returned home in August 2009.[52] with Libyan National Security Adviser Mutassim Gaddafi in 2009]]
 
 On 23 September 2009, Colonel Gaddafi addressed the 64th session of the UN General Assembly in New York, his first visit to the United States.[53]
 
@@ -128,7 +126,7 @@ On 19 March 2011, a coalition of United Nations member states led by France, the
 
 Relations with the West
 
-Libya_Embassy_Berlin_-_Mutter_Erde_fec.jpg In 2003 Libya began to make policy changes with the open intention of pursuing a Western-Libyan détente. The Libyan government announced its decision to abandon its weapons of mass destruction programs and pay almost $3 billion in compensation to the families of Pan Am Flight 103 and UTA Flight 772.[69]
+In 2003 Libya began to make policy changes with the open intention of pursuing a Western-Libyan détente. The Libyan government announced its decision to abandon its weapons of mass destruction programs and pay almost $3 billion in compensation to the families of Pan Am Flight 103 and UTA Flight 772.[69]
 
 Starting in 2003, the Libyan government restored normal diplomatic ties with the European Union and the United States and has even coined the catchphrase, "The Libya Model", an example intended to show the world what can be achieved through negotiation rather than force when there is goodwill on both sides.[70]
 
@@ -218,7 +216,7 @@ Algeria–Libya relations have generally been amicable.[119] Libyan support for 
 
 Chad
 
-Map_of_Aouzou_stip_chad.PNG (red)]]
+(red)]]
 
 Libya long claimed the Aouzou Strip, a strip of land in northern Chad rich with uranium deposits that was intensely involved in Chad's civil war in the 1970s and 1980s.
 

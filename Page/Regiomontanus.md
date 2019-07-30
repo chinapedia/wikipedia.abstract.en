@@ -5,7 +5,7 @@ Regiomontanus wrote under the Latinized name of _Ioannes de Monteregio_ (or _Mon
 
 Life
 
-Regiomontanus-Koenigsberg.JPG Although little is known of Regiomontanus' early life, it is believed that at eleven years of age, he became a student at the University of Leipzig, Saxony. In 1451 he continued his studies at Alma Mater Rudolfina, the university in Vienna, Austria. There he became a pupil and friend of Georg von Peuerbach. In 1452 he was awarded the bachelor degree (_baccalaureus_), and he was awarded his _magister artium_ (Master of Arts) at the age of 21 in 1457.[2] It is known that he held lectures in optics and ancient literature.[3]
+Although little is known of Regiomontanus' early life, it is believed that at eleven years of age, he became a student at the University of Leipzig, Saxony. In 1451 he continued his studies at Alma Mater Rudolfina, the university in Vienna, Austria. There he became a pupil and friend of Georg von Peuerbach. In 1452 he was awarded the bachelor degree (_baccalaureus_), and he was awarded his _magister artium_ (Master of Arts) at the age of 21 in 1457.[2] It is known that he held lectures in optics and ancient literature.[3]
 
 In 1460 the papal legate Basilios Bessarion came to Vienna on a diplomatic mission. Being a humanist scholar and great fan of the mathematical sciences, Bessarion sought out Peuerbach's company. George of Trebizond who was Bessarion's philosophical rival had recently produced a new Latin translation of Ptolemy's _Almagest_ from the Greek, which Bessarion, correctly, regarded as inaccurate and badly translated, so he asked Peuerbach to produce a new one. Peuerbach's Greek was not good enough to do a translation but he knew the _Almagest_ intimately so instead he started work on a modernised, improved abridgement of the work. Bessarion also invited Peuerbach to become part of his household and to accompany him back to Italy when his work in Vienna was finished. Peuerbach accepted the invitation on the condition that Regiomontanus could also accompany them. However Peuerbach fell ill in 1461 and died only having completed the first six books of his abridgement of the _Almagest_. On his death bed Peuerbach made Regiomontanus promise to finish the book and publish it.[4][5]
 
@@ -24,7 +24,7 @@ On his way to Rome, stopping in Venice, he commissioned the publication of his _
 
 Works
 
-Regiomontanus_-_De_triangulis_planis_et_sphaericis_libri,_per_Henrichum_Petri_et_Petrum_Pernam_-_4683051.tif Houghton_Typ_Inc_4366_-_Regiomontanus_1.jpg During his time in Italy he completed Peuerbach's _Almagest_ abridgement, _Epytoma in almagesti Ptolemei_. In 1464, he completed _De Triangulis omnimodis_. _De Triangulis_ (On Triangles) was one of the first textbooks presenting the current state of trigonometry and included lists of questions for review of individual chapters. In it he wrote:
+During his time in Italy he completed Peuerbach's _Almagest_ abridgement, _Epytoma in almagesti Ptolemei_. In 1464, he completed _De Triangulis omnimodis_. _De Triangulis_ (On Triangles) was one of the first textbooks presenting the current state of trigonometry and included lists of questions for review of individual chapters. In it he wrote:
 
 His work on arithmetic and algebra, _Algorithmus Demonstratus_, was among the first containing symbolic algebra.[19] In 1465, he built a portable sundial for Pope Paul II.
 

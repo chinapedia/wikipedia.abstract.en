@@ -4,7 +4,7 @@ By Cayley's theorem, every group is isomorphic to some permutation group.
 
 The way in which the elements of a permutation group permute the elements of the set is called its group action. Group actions have applications in the study of symmetries, combinatorics and many other branches of mathematics, physics and chemistry.
 
-Rubik's_cube.svg invented in 1974 by Ernő Rubik has been used as an illustration of permutation groups. Each rotation of a layer of the cube results in a permutation of the surface colors and is a member of the group. The permutation group of the cube is called the Rubik's cube group.]]
+invented in 1974 by Ernő Rubik has been used as an illustration of permutation groups. Each rotation of a layer of the cube results in a permutation of the surface colors and is a member of the group. The permutation group of the cube is called the Rubik's cube group.]]
 
 
 Basic properties and terminology

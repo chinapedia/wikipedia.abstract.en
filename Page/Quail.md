@@ -1,4 +1,4 @@
-Common_Quail_(Coturnix_coturnix)_(W1CDR0001390_BD1).ogg (_Coturnix coturnix_)]]
+(_Coturnix coturnix_)]]
 
 QUAIL is a collective name for several genera of mid-sized birds generally placed in the order Galliformes.
 

@@ -22,7 +22,7 @@ The MEASUREMENTS GROUP (Gerhard Reisig) was part of the BSM,[10] and additional 
 
 Guided missile and rocket development
 
-PenemundeMiniatureDM.jpg Several German guided missiles and rockets of World War II were developed by the HVP, including the V-2 rocket (A-4) (see test launches), and the Wasserfall (35 Peenemünde trial firings),[13] Schmetterling, Rheintochter, Taifun, and Enzian missiles. The HVP also performed preliminary design work on very-long-range missiles for use against the United States. That project was sometimes called "V-3" and its existence is well documented. The Peenemünde establishment also developed other technologies such as the first closed-circuit television system in the world, installed at Test Stand VII to track the launching rockets.
+Several German guided missiles and rockets of World War II were developed by the HVP, including the V-2 rocket (A-4) (see test launches), and the Wasserfall (35 Peenemünde trial firings),[13] Schmetterling, Rheintochter, Taifun, and Enzian missiles. The HVP also performed preliminary design work on very-long-range missiles for use against the United States. That project was sometimes called "V-3" and its existence is well documented. The Peenemünde establishment also developed other technologies such as the first closed-circuit television system in the world, installed at Test Stand VII to track the launching rockets.
 
 Aerodynamic Institute
 
@@ -41,7 +41,7 @@ Operation Crossbow
 
 Two Polish janitors[27] of Peenemünde's Camp Trassenheide in early 1943[28] provided maps,[29] sketches and reports to Polish Home Army Intelligence, and in June 1943 British intelligence had received two such reports which identified the "rocket assembly hall", "experimental pit", and "launching tower".[30]
 
-Bundesarchiv_Bild_141-1880,_Peenemünde,_Start_einer_V2.jpg Fusée_V2.jpg As the opening attack of the British Operation Crossbow, the Operation _Hydra_ air-raid attacked the HVP's "Sleeping & Living Quarters" (to specifically target scientists), then the "Factory Workshops", and finally the "Experimental Station"[31] on the night of August 17/18, 1943.[32] The Polish janitors were given advance warning of the attack, but the workers could not leave due to SS security and the facility had no air raid shelters for the prisoners.[33]
+As the opening attack of the British Operation Crossbow, the Operation _Hydra_ air-raid attacked the HVP's "Sleeping & Living Quarters" (to specifically target scientists), then the "Factory Workshops", and finally the "Experimental Station"[31] on the night of August 17/18, 1943.[32] The Polish janitors were given advance warning of the attack, but the workers could not leave due to SS security and the facility had no air raid shelters for the prisoners.[33]
 
 A year later on July 18,[34] August 4,[35] and August 25,[36] the U.S. Eighth Air Force[37] conducted three additional Peenemünde raids to counter suspected hydrogen peroxide production.[38]
 

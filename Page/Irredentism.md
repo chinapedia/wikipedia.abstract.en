@@ -1,4 +1,4 @@
-1887_Bettanier_Der_Schwarze_Fleck_anagoria.JPG lost in the aftermath of the Franco-Prussian War that is depicted in the color black on a map of France.]]
+lost in the aftermath of the Franco-Prussian War that is depicted in the color black on a map of France.]]
 
 IRREDENTISM is any political or popular movement that seeks to claim or reclaim and occupy a land that the movement's members consider to be a "lost" (or "unredeemed") territory from their nation's past.
 
@@ -7,7 +7,7 @@ Many states formalize their irredentist claims by including them in their consti
 
 Etymology
 
-RegioniIrredenteItalia.jpg, Ticino and Dalmatia; in red: Malta; in violet: Corsica)]]
+, Ticino and Dalmatia; in red: Malta; in violet: Corsica)]]
 
 The word (from Italian _irredento_ for "unredeemed") was coined in Italy from the phrase _Italia irredenta_ ("unredeemed Italy").[1] This originally referred to rule by Austria-Hungary over territories mostly or partly inhabited by ethnic Italians, such as Trentino, Trieste, Gorizia, Istria, Fiume and Dalmatia during the 19th and early 20th centuries.[2]
 
@@ -30,13 +30,13 @@ The Argentine claim is included in the transitional provisions of the Constituti
 
 Bengal
 
-United_Bengal.png United Bengal is a political ideology of a Unified Bengali-speaking Nation in South Asia. The ideology was developed by Bengali Nationalists after the First Partition of Bengal in 1905. The British-ruled Bengal Presidency was divided into Western Bengal and Eastern Bengal and Assam to weaken the Independence Movement; after much protest, Bengal was reunited in 1911.
+United Bengal is a political ideology of a Unified Bengali-speaking Nation in South Asia. The ideology was developed by Bengali Nationalists after the First Partition of Bengal in 1905. The British-ruled Bengal Presidency was divided into Western Bengal and Eastern Bengal and Assam to weaken the Independence Movement; after much protest, Bengal was reunited in 1911.
 
 The second attempt by the British to partition Bengal along communal lines was in 1947. The UNITED BENGAL proposal was the bid made by Prime Minister of Bengal Huseyn Shaheed Suhrawardy and Bengali Nationalist Leader Sarat Chandra Bose to found a united and independent nation-state of Bengal.[9][10] The proposal was floated as an alternative to the partition of Bengal on communal lines. The initiative failed due to British diplomacy and communal conflict between Bengali Muslims and Bengali Hindus that eventually led to the Second Partition of Bengal.
 
 Bolivia
 
-BoliviaChile.jpg (1879–1884): "What once was ours, will be ours once again", and "Hold on rotos (Chileans), because here come the Colorados of Bolivia"]]
+(1879–1884): "What once was ours, will be ours once again", and "Hold on rotos (Chileans), because here come the Colorados of Bolivia"]]
 
 The 2009 constitution of Bolivia states that the country has an "unrenounceable right over the territory that gives it access to the Pacific Ocean and its maritime space".[11] This is understood as territory that Bolivia and Peru ceded to Chile after the War of the Pacific, which left Bolivia as a landlocked country.
 
@@ -56,7 +56,7 @@ Article 1 of the Constitution of the Union of the Comoros begins: "The Union of 
 
 India
 
-India_disputed_areas_map.svg]]
+]]
 
 All of the European colonies on the Indian subcontinent which were not part of the British Raj have been annexed by India since it gained its independence from the British Empire. An example of such territories was the 1961 Indian annexation of Goa. An example of annexation of a territory from the British Raj was the Indian integration of Junagadh.
 
@@ -66,7 +66,7 @@ The region of Kashmir in north India has been the issue of a territorial dispute
 
 Indonesia
 
-Westpapua.png was annexed by Indonesia in 1969]] Indonesia claimed all territories of the former Dutch East Indies, and previously viewed British plans to group the British Malaya and Borneo into a new independent federation of Malaysia as a threat to its objective to create a united state called Greater Indonesia. The Indonesian opposition of Malaysian formation has led to the Indonesia–Malaysia confrontation in the early 1960s. It also held Portuguese Timor (modern East Timor) from 1975 to 2002 based on irredentist claims.
+was annexed by Indonesia in 1969]] Indonesia claimed all territories of the former Dutch East Indies, and previously viewed British plans to group the British Malaya and Borneo into a new independent federation of Malaysia as a threat to its objective to create a united state called Greater Indonesia. The Indonesian opposition of Malaysian formation has led to the Indonesia–Malaysia confrontation in the early 1960s. It also held Portuguese Timor (modern East Timor) from 1975 to 2002 based on irredentist claims.
 
 The idea of uniting former British and Dutch colonial possessions in Southeast Asia actually has its roots in the early 20th century, as the concept of Greater Malay (_Melayu Raya_) was coined in British Malaya espoused by students and graduates of Sultan Idris Training College for Malay Teachers in the late 1920s.[24] Some political figures in Indonesia including Mohammad Yamin and Sukarno revived the idea in the 1950s and named the political union concept as Greater Indonesia.
 
@@ -76,7 +76,7 @@ The nation state of Israel was established in 1948. The United Nations General A
 
 Judea and Samaria, as they are called in the Bible, were part of the ancient Kingdom of Israel (designated the West Bank by Jordan in 1947) and the Gaza Strip, previously annexed by Jordan and occupied by Egypt respectively, were conquered and occupied by Israel in the Six-Day War in 1967. Israel withdrew from Gaza in August 2005; Judea and Samaria (West Bank) remain under Israeli control. Israel has never explicitly claimed sovereignty over any part of the West Bank apart from East Jerusalem, which it unilaterally annexed in 1980. However, the Israeli military supports and defends hundreds of thousands of Israeli citizens who have migrated to the West Bank, incurring criticism by some who otherwise support Israel. The United Nations Security Council, the United Nations General Assembly, and some countries and international organizations continue to regard Israel as occupying Gaza. _(See Israeli-Occupied Territories)_
 
-Israel_and_occupied_territories_map.png]] The Israeli annexing instrument, the Jerusalem Law—one of the Basic Laws of Israel (Israel does not have a constitution)—declares Jerusalem, "complete and united", to be the capital of Israel. Article 3 of the Basic Law of the Palestinian Authority, which was ratified in 2002 by the Palestinian National Authority and serves as an interim constitution, claims that "Jerusalem is the capital of Palestine". _De facto_, the Palestinian government administers the parts of the West Bank that Israel has granted it authority over from Ramallah, while the Gaza Strip is administered by the Hamas movement from Gaza.
+]] The Israeli annexing instrument, the Jerusalem Law—one of the Basic Laws of Israel (Israel does not have a constitution)—declares Jerusalem, "complete and united", to be the capital of Israel. Article 3 of the Basic Law of the Palestinian Authority, which was ratified in 2002 by the Palestinian National Authority and serves as an interim constitution, claims that "Jerusalem is the capital of Palestine". _De facto_, the Palestinian government administers the parts of the West Bank that Israel has granted it authority over from Ramallah, while the Gaza Strip is administered by the Hamas movement from Gaza.
 
 The United States has until now not recognized Israeli sovereignty over East Jerusalem and maintained its embassy in Tel Aviv. In Jerusalem, the United States maintained two Consulates General as a diplomatic representation to the city of Jerusalem alone, separate from representation to the state of Israel. One of the Consulates General was established before the 1967 war, and the other in a recently constructed building on the Israeli side of Jerusalem. Moreover, Congress passed the Jerusalem Embassy Act in 1995 that says the US shall move its embassy from Tel Aviv to Jerusalem, but allows the president to delay the move every year if it is deemed contrary to national security interests. Since 1995, every president delayed the move. However, President Donald Trump in December 2017 declared his intention to move the embassy to Jerusalem and by May 2018 the embassy will have officially moved to Jerusalem.[25]
 
@@ -109,7 +109,7 @@ Some of the most violent irredentist conflicts of recent times in Europe flared 
 
 Albania
 
-AlbaniansOutsideAlbania.png in the Balkans]] Greater Albania[29] or _Ethnic Albania_ as called by the Albanian nationalists themselves,[30] is an irredentist concept of lands outside the borders of Albania which are considered part of a greater national homeland by most Albanians,[31] based on claims on the present-day or historical presence of Albanian populations in those areas. The term incorporates claims to Kosovo, as well as territories in the neighbouring countries Montenegro, Greece, and North Macedonia. Albanians themselves mostly use the term _ethnic Albania_ instead.[32] According to the _Gallup Balkan Monitor_ 2010 report, the idea of a Greater Albania was supported by the majority of Albanians in Albania (63%), Kosovo (81%) and North Macedonia (53%).[33][34]
+in the Balkans]] Greater Albania[29] or _Ethnic Albania_ as called by the Albanian nationalists themselves,[30] is an irredentist concept of lands outside the borders of Albania which are considered part of a greater national homeland by most Albanians,[31] based on claims on the present-day or historical presence of Albanian populations in those areas. The term incorporates claims to Kosovo, as well as territories in the neighbouring countries Montenegro, Greece, and North Macedonia. Albanians themselves mostly use the term _ethnic Albania_ instead.[32] According to the _Gallup Balkan Monitor_ 2010 report, the idea of a Greater Albania was supported by the majority of Albanians in Albania (63%), Kosovo (81%) and North Macedonia (53%).[33][34]
 
 In 2012, as part of the celebrations for the 100th Anniversary of the Independence of Albania, Prime Minister Sali Berisha spoke of "Albanian lands" stretching from Preveza in Greece to Preševo in Serbia, and from the Macedonian capital of Skopje to the Montenegrin capital of Podgorica, angering Albania's neighbours. The comments were also inscribed on a parchment that will be displayed at a museum in the city of Vlore, where the country's independence from the Ottoman Empire was declared in 1912.[35]
 
@@ -135,7 +135,7 @@ A main point of Nazi ideology was to reunify all Germans either born or living o
 
 Greece
 
-ParisPeace-Venizelos-Map.png.]]
+.]]
 
 Following the Greek War of Independence in 1821–1832, Greece began to contest areas inhabited by Greeks, primarily against the Ottoman Empire. The Megali Idea (Great Idea) envisioned Greek incorporation of Greek-inhabited lands, but also historical lands in Asia Minor corresponding with the predominantly Greek and Orthodox Byzantine Empire and the dominions of the ancient Greeks.
 
@@ -147,21 +147,19 @@ The Aegean islands of Imbros and Tenedos which were not ceded to Greece over the
 
 Hungary
 
-Territorial_gains_of_Hungary_1938-41_en.svg and Transcarpathia]]
+and Transcarpathia]]
 
 The restoration of the borders of Hungary to their state prior to World War I, in order to unite all ethnic Hungarians within the same country once again.
 
 Ireland
 
-Ireland-Capitals.PNG The Irish Free State achieved partial independence with a dominion status under the British Empire in 1922. This state did not include Northern Ireland, which comprised six counties in the north-east of the island of Ireland which remained in the United Kingdom. When the Constitution of Ireland was adopted in 1937 it provided that the name of the state is _Ireland_ and this is considered the time that the Republic of Ireland became a fully fledged independent nation. In the constitution Articles 2 and 3 provided that "[t]he national territory consists of the whole island of Ireland", while stipulating that "[p]ending the re-integration of the national territory", the powers of the state were restricted to legislate only for the area which had formed part of the Irish Free State. Arising from the Northern Ireland peace process, the matter was mutually resolved as part of the Good Friday Agreement in 1998. Ireland's constitution was altered by referendum and its territorial claim to Northern Ireland was removed.
+The Irish Free State achieved partial independence with a dominion status under the British Empire in 1922. This state did not include Northern Ireland, which comprised six counties in the north-east of the island of Ireland which remained in the United Kingdom. When the Constitution of Ireland was adopted in 1937 it provided that the name of the state is _Ireland_ and this is considered the time that the Republic of Ireland became a fully fledged independent nation. In the constitution Articles 2 and 3 provided that "[t]he national territory consists of the whole island of Ireland", while stipulating that "[p]ending the re-integration of the national territory", the powers of the state were restricted to legislate only for the area which had formed part of the Irish Free State. Arising from the Northern Ireland peace process, the matter was mutually resolved as part of the Good Friday Agreement in 1998. Ireland's constitution was altered by referendum and its territorial claim to Northern Ireland was removed.
 
 The amended constitution asserts that while it is the entitlement of "every person born in the island of Ireland … to be part of the Irish Nation" and to hold Irish citizenship, "a united Ireland shall be brought about only by peaceful means with the consent of a majority of the people, democratically expressed, in both jurisdictions in the island". A North/South Ministerial Council was created between the two jurisdictions and given executive authority. The advisory and consultative role of the government of Ireland in the government of Northern Ireland granted by the United Kingdom, that had begun with the 1985 Anglo-Irish Agreement, was maintained, although that Agreement itself was ended. The two states also settled the long-running dispute concerning their respective names: _Ireland_ and the _United Kingdom of Great Britain and Northern Ireland_, with both governments agreeing to use those names.
 
 Under the Irish republican theory of legitimism, the Irish Republic declared in 1916 was in existence from then on, denying the legitimacy of either the state of Ireland or the position of Northern Ireland within the United Kingdom. Through much of its history, this was the position of Sinn Féin; however, it effectively abandoned this stance after accepting the Good Friday Agreement. Small groups which split from Sinn Féin continue to adopt this stance, including Republican Sinn Féin, linked with the Continuity IRA, and the 32 County Sovereignty Movement, linked with the Real IRA.
 
 Italy
-
-RegioniIrredenteItalia.jpg
 
 Italy's territorial claims were on the basis of re-establishing a Romanesque Empire, a fourth shore according to the concept of Mare Nostrum (Latin for 'Our Sea') and traditional ethnic borders. Evident in Italy's rapid takeover of surrounding territories under Fascist leader Benito Mussolini and claims following the collapsed 1915 Treaty of London and 1919 Treaty of Versailles which established feelings of betrayal. Mussolini and Hitler's similarities including a joint hatred towards the French and wanting to expand their territories brought the two leaders together, solidified in the Pact of Steel and later WW2. By 1942 Italy had conquered Abyssinia (modern day Ethiopia), Libya, much of Egypt, Tunisia, Kenya and Somalia. And – on the European continent – Istria, Dalmatia, Albania, Slovenia, Croatia, Macedonia, the Spanish island of Majorca and France's Corsica; Malta was also bombed. Underlying tensions remained with France, over its territories of Corsica, Nice and Savoy.
 
@@ -171,7 +169,7 @@ Some Macedonian nationalists promoted the irredentist concept of a United Macedo
 
 Norway
 
-Norway_About_1265.png at its greatest extent.]] The Kingdom of Norway maintains some claim to territories lost at the dissolution of the Denmark–Norway union. The Old Kingdom of Norway, which was the Norwegian territories at its maximum extent, included Iceland, the settleable areas of Greenland, the Faroe Islands and Northern Isles (today part of Scotland). Under Danish sovereignty since they established a hegemonic position in the Kalmar Union, the territories were considered as Norwegian colonies. When in the Treaty of Kiel in 1814, Norway's territories were transferred from Denmark to Sweden, the territories of Iceland, Greenland, and the Faroe Islands were maintained by Denmark.
+at its greatest extent.]] The Kingdom of Norway maintains some claim to territories lost at the dissolution of the Denmark–Norway union. The Old Kingdom of Norway, which was the Norwegian territories at its maximum extent, included Iceland, the settleable areas of Greenland, the Faroe Islands and Northern Isles (today part of Scotland). Under Danish sovereignty since they established a hegemonic position in the Kalmar Union, the territories were considered as Norwegian colonies. When in the Treaty of Kiel in 1814, Norway's territories were transferred from Denmark to Sweden, the territories of Iceland, Greenland, and the Faroe Islands were maintained by Denmark.
 
 In 1919, Norway declared sovereignty over an area in Eastern Greenland in the Ihlen Declaration, which led to a dispute with Denmark that was not settled until 1933, by the Permanent Court of International Justice. Norway formerly included the provinces Jämtland, Härjedalen, Idre-Särna (lost since the Second Treaty of Brömsebro), and Bohuslän (lost since the Treaty of Roskilde), which were ceded to Sweden after Danish defeats in wars such as the Thirty Years' War and Second Northern War.
 
@@ -191,13 +189,13 @@ Romania lays claims to Greater Romania, which include Bessarabia and Bucovina as
 
 Russia
 
-2014_Russo-ukrainian-conflict_map.svg, which is under Russian control, is shown in pink. Pink in the Donbass area represents areas held by pro-Russian separatists in September 2014]] The annexation of Crimea by the Russian Federation in 2014 was based on a claim of protecting ethnic Russians residing there. Crimea was part of the Russian Empire from 1783 to 1917, after which it enjoyed a few years of autonomy until it was made part of the Russian Soviet Federative Socialist Republic (which was a part of the Soviet Union) from 1921 to 1954 and then transferred to Soviet Ukraine (which also was a part of the Soviet Union) in 1954. After the dissolution of the Soviet Union, Crimea still remained part of Ukraine until February 2014. Russia declared Crimea to be part of the Russian Federation in March 2014, and effective administration commenced. The Russian regional status is not currently recognised by the UN General Assembly and by many countries.
+, which is under Russian control, is shown in pink. Pink in the Donbass area represents areas held by pro-Russian separatists in September 2014]] The annexation of Crimea by the Russian Federation in 2014 was based on a claim of protecting ethnic Russians residing there. Crimea was part of the Russian Empire from 1783 to 1917, after which it enjoyed a few years of autonomy until it was made part of the Russian Soviet Federative Socialist Republic (which was a part of the Soviet Union) from 1921 to 1954 and then transferred to Soviet Ukraine (which also was a part of the Soviet Union) in 1954. After the dissolution of the Soviet Union, Crimea still remained part of Ukraine until February 2014. Russia declared Crimea to be part of the Russian Federation in March 2014, and effective administration commenced. The Russian regional status is not currently recognised by the UN General Assembly and by many countries.
 
 Russian irredentism also includes southeastern and coastal Ukraine, known as _Novorossiya_, a term from the Russian Empire.
 
 Serbia
 
- Serbs_in_Croatia,_Bosnia,_Montenegro_and_Serbia,_1981.png
+ 
 
 Serbian irredentism is manifested in "Greater Serbia". Used in the context of the Yugoslav wars, however, the Serbian struggle for Serbs to remain united in one country does not quite fit the term "irredentism".[42] In the 19th century, Pan-Serbism sought to unite all of the Serb people across the Balkans, under Ottoman and Habsburg rule. Some intellectuals sought to unite all South Slavs (regardless of religion) into a Serbian state. Serbia had gained independence from the Ottoman Empire in 1878. Bosnia and Herzegovina, annexed by the Austrians in 1908, was viewed of as a part of the Serbian homeland. Serbia directed its territorial aspirations to the south, as the north and west was held by Austria. Macedonia was divided between Serbia and Greece after the Balkan Wars.
 
@@ -261,7 +259,7 @@ The Greater and Lesser Tunbs are disputed by the United Arab Emirates against Ir
 
 Yemen
 
-Rasulid_1264.jpg around 1264 AD]]
+around 1264 AD]]
 
 Greater Yemen is a theory giving Yemen claim to former territories that were held by various predecessor states that existed between the Himyarite period and 18th century. The areas claimed include parts of modern Saudi Arabia and Oman.
 
@@ -315,7 +313,7 @@ In North Africa, the prime examples of irredentism are the concepts of Greater M
 
 Somalia
 
-Somali_map.jpg.]]
+.]]
 
 Greater Somalia refers to the region in the Horn of Africa in which ethnic Somalis are and have historically represented the predominant population. The territory encompasses The Republic of Somalia, the Ogaden region in Ethiopia, the North Eastern Province in Kenya and southern and eastern Djibouti. Ogaden in eastern Ethiopia has seen military and civic movements seeking to make it part of Somalia. This culminated in the 1977–78 Ogaden War between the two neighbours where the Somali military offensive between July 1977 and March 1978 over the disputed Ethiopian region Ogaden ended when the Somali Armed Forces retreated back across the border and a truce was declared. The Kenyan Northern Frontier District also saw conflict during the Shifta War (1963–1967) when a secessionist conflict in which ethnic Somalis in the Lamu, Garissa, Wajir and Mandera counties (all except Lamu formed part of the former North Eastern Province, abolished in 2013), attempted to join with their fellow Somalis in a "Greater Somalia". There has been no similar conflicts in Djibouti, which was previously known as the "French Somaliland" during colonisation. Here the apparent struggles for unification manifested itself in political strife that ended when in a referendum to join France as opposed to the Somali Republic succeeded among rumours of widespread vote rigging.[83] and the subsequent death of Somali nationalist Mahmoud Harbi, Vice President of the Government Council, who was killed in a plane crash two years later under suspicious circumstances.[84] Some sources say that Somalia has also laid a claim to the Socotra archipelago, which is currently governed by Yemen.
 

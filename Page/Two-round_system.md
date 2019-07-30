@@ -1,4 +1,4 @@
-TRS_ballot_papers.svg The TWO-ROUND SYSTEM (also known as the SECOND BALLOT, RUNOFF VOTING or BALLOTAGE) is a voting method used to elect a single winner, where the voter casts a single vote for their chosen candidate. However, if no candidate receives the required number of votes, then those candidates having less than a certain proportion of the votes, or all but the two candidates receiving the most votes, are eliminated, and a second round of voting is held.
+The TWO-ROUND SYSTEM (also known as the SECOND BALLOT, RUNOFF VOTING or BALLOTAGE) is a voting method used to elect a single winner, where the voter casts a single vote for their chosen candidate. However, if no candidate receives the required number of votes, then those candidates having less than a certain proportion of the votes, or all but the two candidates receiving the most votes, are eliminated, and a second round of voting is held.
 
 The two-round system is used around the world for the election of legislative bodies and directly elected presidents. For example, it is used in French presidential, legislative, and departmental elections. In Italy, it is used to elect mayors, but also to decide which party or coalition receives a majority bonus in city councils.[1] A two-round system is used also to elect the presidents of Afghanistan, Argentina, Austria, Benin, Brazil, Bulgaria, Burkina Faso, Cape Verde, Chile, Colombia, Costa Rica, Croatia, Czech Republic, Cyprus, Djibouti, Dominican Republic, East Timor, Ecuador, Egypt, El Salvador, Finland, Ghana, Guatemala, Haiti, India, Indonesia, Kyrgyzstan, Liberia, North Macedonia, Peru, Poland, Portugal, Romania, Russia, Senegal, Serbia, Slovakia, Slovenia, Turkey, Ukraine, Uruguay and Zimbabwe. Historically it was used to elect the Reichstag in the German Empire between 1871 and 1918, and in New Zealand in the 1908 and 1911 elections.
 
@@ -42,8 +42,6 @@ ROUND 2: No candidate has an absolute majority of votes (in this election that w
 RESULT: Ice cream now has an absolute majority so is declared the winner.
 
 Example II
-
-Tennessee_map_for_voting_example.svg
 
 Imagine that the population of Tennessee, a state in the United States, is voting on the location of its capital. The population of Tennessee is concentrated around its four major cities, which are spread throughout the state. For this example, suppose that the entire electorate lives in these four cities, and that they would all like the capital to be established as close to their own city as possible.
 

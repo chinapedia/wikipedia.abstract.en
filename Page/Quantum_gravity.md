@@ -11,8 +11,6 @@ One of the difficulties of formulating a quantum gravity theory is that quantum 
 
 Overview
 
-Quantum_gravity.svg
-
 Much of the difficulty in meshing these theories at all energy scales comes from the different assumptions that these theories make on how the universe works. General relativity models gravity as curvature of spacetime: in the slogan of John Archibald Wheeler, "Spacetime tells matter how to move; matter tells spacetime how to curve."[12] On the other hand, quantum field theory is typically formulated in the _flat_ spacetime used in special relativity. No theory has yet proven successful in describing the general situation where the dynamics of matter, modeled with quantum mechanics, affect the curvature of spacetime. If one attempts to treat gravity as simply another quantum field, the resulting theory is not renormalizable.[13] Even in the simpler case where the curvature of spacetime is fixed _a priori,_ developing quantum field theory becomes more mathematically challenging, and many ideas physicists use in quantum field theory on flat spacetime are no longer applicable.[14]
 
 It is widely hoped that a theory of quantum gravity would allow us to understand problems of very high energy and very small dimensions of space, such as the behavior of black holes, and the origin of the universe.[15]
@@ -20,7 +18,7 @@ It is widely hoped that a theory of quantum gravity would allow us to understand
 
 Quantum mechanics and general relativity
 
-Gravity_Probe_B.jpg (GP-B) has measured spacetime curvature near Earth to test related models in application of Einstein's general theory of relativity.]]
+(GP-B) has measured spacetime curvature near Earth to test related models in application of Einstein's general theory of relativity.]]
 
 Graviton
 
@@ -60,7 +58,7 @@ On the other hand, quantum mechanics has depended since its inception on a fixed
 
 String theory
 
-Point&string.pngs of point-like particles in the Standard Model or a world sheet swept up by closed strings in string theory]] String theory can be seen as a generalization of quantum field theory where instead of point particles, string-like objects propagate in a fixed spacetime background, although the interactions among closed strings give rise to space-time in a dynamical way. Although string theory had its origins in the study of quark confinement and not of quantum gravity, it was soon discovered that the string spectrum contains the graviton, and that "condensation" of certain vibration modes of strings is equivalent to a modification of the original background. In this sense, string perturbation theory exhibits exactly the features one would expect of a perturbation theory that may exhibit a strong dependence on asymptotics (as seen, for example, in the AdS/CFT correspondence) which is a weak form of background dependence.
+s of point-like particles in the Standard Model or a world sheet swept up by closed strings in string theory]] String theory can be seen as a generalization of quantum field theory where instead of point particles, string-like objects propagate in a fixed spacetime background, although the interactions among closed strings give rise to space-time in a dynamical way. Although string theory had its origins in the study of quark confinement and not of quantum gravity, it was soon discovered that the string spectrum contains the graviton, and that "condensation" of certain vibration modes of strings is equivalent to a modification of the original background. In this sense, string perturbation theory exhibits exactly the features one would expect of a perturbation theory that may exhibit a strong dependence on asymptotics (as seen, for example, in the AdS/CFT correspondence) which is a weak form of background dependence.
 
 Background independent theories
 
@@ -85,7 +83,7 @@ There are a number of proposed quantum gravity theories.[39] Currently, there is
 
 String theory
 
-Calabi-Yau.png, one of the ways of compactifying the extra dimensions posited by string theory]] One suggested starting point is ordinary quantum field theories which are successful in describing the other three basic fundamental forces in the context of the standard model of elementary particle physics. However, while this leads to an acceptable effective (quantum) field theory of gravity at low energies,[42] gravity turns out to be much more problematic at higher energies. For ordinary field theories such as quantum electrodynamics, a technique known as renormalization is an integral part of deriving predictions which take into account higher-energy contributions,[43] but gravity turns out to be nonrenormalizable: at high energies, applying the recipes of ordinary quantum field theory yields models that are devoid of all predictive power.[44]
+, one of the ways of compactifying the extra dimensions posited by string theory]] One suggested starting point is ordinary quantum field theories which are successful in describing the other three basic fundamental forces in the context of the standard model of elementary particle physics. However, while this leads to an acceptable effective (quantum) field theory of gravity at low energies,[42] gravity turns out to be much more problematic at higher energies. For ordinary field theories such as quantum electrodynamics, a technique known as renormalization is an integral part of deriving predictions which take into account higher-energy contributions,[43] but gravity turns out to be nonrenormalizable: at high energies, applying the recipes of ordinary quantum field theory yields models that are devoid of all predictive power.[44]
 
 One attempt to overcome these limitations is to replace ordinary quantum field theory, which is based on the classical concept of a point particle, with a quantum theory of one-dimensional extended objects: string theory.[45] At the energies reached in current experiments, these strings are indistinguishable from point-like particles, but, crucially, different modes of oscillation of one and the same type of fundamental string appear as particles with different (electric and other) charges. In this way, string theory promises to be a unified description of all particles and interactions.[46] The theory is successful in that one mode will always correspond to a graviton, the messenger particle of gravity; however, the price of this success are unusual features such as six extra dimensions of space in addition to the usual three for space and one for time.[47]
 
@@ -93,7 +91,7 @@ In what is called the second superstring revolution, it was conjectured that bot
 
 Loop quantum gravity
 
-Spin_network.svg of the type used in loop quantum gravity]] Loop quantum gravity seriously considers general relativity's insight that spacetime is a dynamical field and is therefore a quantum object. Its second idea is that the quantum discreteness that determines the particle-like behavior of other field theories (for instance, the photons of the electromagnetic field) also affects the structure of space.
+of the type used in loop quantum gravity]] Loop quantum gravity seriously considers general relativity's insight that spacetime is a dynamical field and is therefore a quantum object. Its second idea is that the quantum discreteness that determines the particle-like behavior of other field theories (for instance, the photons of the electromagnetic field) also affects the structure of space.
 
 The main result of loop quantum gravity is the derivation of a granular structure of space at the Planck length. This is derived from following considerations: In the case of electromagnetism, the quantum operator representing the energy of each frequency of the field has a discrete spectrum. Thus the energy of each frequency is quantized, and the quanta are the photons. In the case of gravity, the operators representing the area and the volume of each surface or space region likewise have discrete spectrum. Thus area and volume of any portion of space are also quantized, where the quanta are elementary quanta of space. It follows, then, that spacetime has an elementary quantum granular structure at the Planck scale, which cuts off the ultraviolet infinities of quantum field theory.
 

@@ -1,4 +1,4 @@
-Major_third_on_C.png .]] Ditone_on_C.png .]]
+.]] .]]
 
 In music, there are two common meanings for TUNING:
 
@@ -8,7 +8,7 @@ In music, there are two common meanings for TUNING:
 
 Tuning practice
 
-Man_tuning_guitar.jpg ErardHarpTuning.jpg harp using Korg OT-120 Wide 8 Octave Orchestral Digital Tuner]] TUNING is the process of adjusting the pitch of one or many tones from musical instruments to establish typical intervals between these tones. Tuning is usually based on a fixed reference, such as A = 440 Hz. The term "_out of tune_" refers to a pitch/tone that is either too high (sharp) or too low (flat) in relation to a given reference pitch. While an instrument might be in tune relative to its own range of notes, it may not be considered 'in tune' if it does not match the chosen reference pitch. Some instruments become 'out of tune' with temperature, humidity, damage, or just time, and must be readjusted or repaired.
+harp using Korg OT-120 Wide 8 Octave Orchestral Digital Tuner]] TUNING is the process of adjusting the pitch of one or many tones from musical instruments to establish typical intervals between these tones. Tuning is usually based on a fixed reference, such as A = 440 Hz. The term "_out of tune_" refers to a pitch/tone that is either too high (sharp) or too low (flat) in relation to a given reference pitch. While an instrument might be in tune relative to its own range of notes, it may not be considered 'in tune' if it does not match the chosen reference pitch. Some instruments become 'out of tune' with temperature, humidity, damage, or just time, and must be readjusted or repaired.
 
 Different methods of sound production require different methods of adjustment:
 
@@ -26,15 +26,13 @@ Harmonics may be used to facilitate tuning of strings that are not themselves tu
 
 Open strings
 
-Violin_-_open_strings_notes.PNG
-
 In music, the term OPEN STRING refers to the fundamental note of the unstopped, full string.
 
 The strings of a guitar are normally tuned to fourths (excepting the G and B strings in standard tuning, which are tuned to a third), as are the strings of the bass guitar and double bass. Violin, viola, and cello strings are tuned to fifths. However, non-standard tunings (called scordatura) exist to change the sound of the instrument or create other playing options.
 
 To tune an instrument, often only one reference pitch is given. This reference is used to tune one string, to which the other strings are tuned in the desired intervals. On a guitar, often the lowest string is tuned to an E. From this, each successive string can be tuned by fingering the fifth fret of an already tuned string and comparing it with the next higher string played open. This works with the exception of the G string, which must be stopped at the fourth fret to sound B against the open B string above. Alternatively, each string can be tuned to its own reference tone.
 
-Violoncello_open_strings_actual.png Note that while the guitar and other modern stringed instruments with fixed frets are tuned in equal temperament, string instruments without frets, such as those of the violin family, are not. The violin, viola, and cello are tuned to beatless just perfect fifths and ensembles such as string quartets and orchestras tend to play in fifths based Pythagorean tuning or to compensate and play in equal temperament, such as when playing with other instruments such as the piano. For example, the cello, which is tuned down from A220, has three more strings (four total) and the just perfect fifth is about two cents off from the equal tempered perfect fifth, making its lowest string, C-, about six cents more flat than the equal tempered C.
+Note that while the guitar and other modern stringed instruments with fixed frets are tuned in equal temperament, string instruments without frets, such as those of the violin family, are not. The violin, viola, and cello are tuned to beatless just perfect fifths and ensembles such as string quartets and orchestras tend to play in fifths based Pythagorean tuning or to compensate and play in equal temperament, such as when playing with other instruments such as the piano. For example, the cello, which is tuned down from A220, has three more strings (four total) and the just perfect fifth is about two cents off from the equal tempered perfect fifth, making its lowest string, C-, about six cents more flat than the equal tempered C.
 
 This table lists open strings on some common string instruments and their standard tunings.
 
@@ -84,7 +82,7 @@ There are many techniques for theoretical comparison of tunings, usually utilizi
 
 Systems for the twelve-note chromatic scale
 
-Circle_progression_I_IV_V_I.png. , , (quarter-comma), (Werckmeister), and ]] It is impossible to tune the twelve-note chromatic scale so that all intervals are pure. For instance, three pure major thirds stack up to 125/64, which at 1159 cents is nearly a quarter tone away from the octave (1200 cents). So there is no way to have both the octave and the major third in just intonation for all the intervals in the same twelve-tone system. Similar issues arise with the fifth 3/2, and the minor third 6/5 or any other choice of harmonic-series based pure intervals.
+. , , (quarter-comma), (Werckmeister), and ]] It is impossible to tune the twelve-note chromatic scale so that all intervals are pure. For instance, three pure major thirds stack up to 125/64, which at 1159 cents is nearly a quarter tone away from the octave (1200 cents). So there is no way to have both the octave and the major third in just intonation for all the intervals in the same twelve-tone system. Similar issues arise with the fifth 3/2, and the minor third 6/5 or any other choice of harmonic-series based pure intervals.
 
 Many different compromise methods are used to deal with this, each with its own characteristics, and advantages and disadvantages.
 
@@ -92,31 +90,23 @@ The main ones are:
 
 -   Just intonation
 
-Prelude_1,_Just_intonation.ogg by Johann Sebastian Bach. Played in just intonation.]]
+by Johann Sebastian Bach. Played in just intonation.]]
 
     In just intonation, the frequencies of the scale notes are related to one another by simple numeric ratios, a common example of this being 1:1, 9:8, 5:4, 4:3, 3:2, 5:3, 15:8, 2:1 to define the ratios for the seven notes in a C major scale. In this example, though many intervals are pure, the interval from D to A (5:3 to 9:8) is 40/27 instead of the expected 3/2. The same issue occurs with most just intonation tunings. This can be dealt with to some extent using alternative pitches for the notes. Even that, however, is only a partial solution, as an example makes clear: If one plays the sequence C G D A E C in just intonation, using the intervals 3/2, 3/4 and 4/5, then the second C in the sequence is higher than the first by a syntonic comma of 81/80. This is the infamous "comma pump". Each time around the comma pump, the pitch continues to spiral upwards. This shows that it is impossible to keep to any small fixed system of pitches if one wants to stack musical intervals this way. So, even with _adaptive tuning_, the musical context may sometimes require playing musical intervals that are not pure. Instrumentalists with the ability to vary the pitch of their instrument may micro-adjust some of the intervals naturally; there are also systems for adaptive tuning in software (microtuners). Harmonic fragment scales form a rare exception to this issue. In tunings such as 1:1 9:8 5:4 3:2 7:4 2:1, all the pitches are chosen from the harmonic series (divided by powers of 2 to reduce them to the same octave), so all the intervals are related to each other by simple numeric ratios.
 
 -   Pythagorean tuning
 
-Prelude_1,_Pythagorean_tuning.ogg
-
     A Pythagorean tuning is technically a type of just intonation, in which the frequency ratios of the notes are all derived from the number ratio 3:2. Using this approach for example, the 12 notes of the Western chromatic scale would be tuned to the following ratios: 1:1, 256:243, 9:8, 32:27, 81:64, 4:3, 729:512, 3:2, 128:81, 27:16, 16:9, 243:128, 2:1. Also called "3-limit" because there are no prime factors other than 2 and 3, this Pythagorean system was of primary importance in Western musical development in the Medieval and Renaissance periods. As with nearly all just intonation systems, it has a wolf interval. In the example given, it is the interval between the 729:512 and the 256:243 (F to D, if one tunes the 1/1 to C). The major and minor thirds are also impure, but at the time when this system was at its zenith, the third was considered a dissonance, so this was of no concern. See also: Shí-èr-lǜ.
 
 -   Meantone temperament
-
-Prelude_1,_Meantone_temperament.ogg
 
     A system of tuning that averages out pairs of ratios used for the same interval (such as 9:8 and 10:9). The best known form of this temperament is quarter-comma meantone, which tunes major thirds justly in the ratio of 5:4 and divides them into two whole tones of equal size – this is achieved by flattening the fifths of the Pythagorean system slightly (by a quarter of a syntonic comma). However, the fifth may be flattened to a greater or lesser degree than this and the tuning system retains the essential qualities of meantone temperament. Historical examples include 1/3-comma and 2/7-comma meantone.
 
 -   Well temperament
 
-Prelude_1,_Werckmeister_temperament.ogg
-
     Any one of a number of systems where the ratios between intervals are unequal, but approximate to ratios used in just intonation. Unlike meantone temperament, the amount of divergence from just ratios varies according to the exact notes being tuned, so that C-E is probably tuned closer to a 5:4 ratio than, say, D-F. Because of this, well temperaments have no wolf intervals.
 
 -   Equal temperament
-
-Prelude_1,_Equal_temperament.ogg
 
     The standard twelve-tone equal temperament is a special case of meantone temperament (extended eleventh-comma), in which the twelve notes are separated by logarithmically equal distances (100 cents): [//upload.wikimedia.org/wikipedia/commons/b/b3/Et_scale.ogg A harmonized C major scale in equal temperament] (.ogg format, 96.9KB). This is the most common tuning system used in Western music, and is the standard system used as a basis for tuning a piano. Since this scale divides an octave into twelve equal-ratio steps and an octave has a frequency ratio of two, the frequency ratio between adjacent notes is then the twelfth root of two, 2^(1/12), or ~1.05946309.... However, the octave can be divided into other than 12 equal divisions, some of which may be more harmonically pleasing as far as thirds and sixths are concerned, such as 19 equal temperament (extended third-comma meantone), 31 equal temperament (extended quarter-comma meantone) and 53 equal temperament (extended Pythagorean tuning).
 

@@ -1,4 +1,4 @@
-Passports-assorted.jpg A PASSPORT is a travel document, usually issued by a country's government, that certifies the identity and nationality of its holder primarily for the purpose of international travel.[1] Standard passports may contain information such as the holder's name, place and date of birth, photograph, signature, and other relevant identifying information. All countries' governments have either begun issuing or plan to issue biometric information in a microchip embedded in the passport, making them machine-readable and difficult to counterfeit.[2] , there are over 150 jurisdictions issuing these e-passports.[3] Previously issued non-biometric machine-readable passports usually remain valid until their respective expiration dates.
+A PASSPORT is a travel document, usually issued by a country's government, that certifies the identity and nationality of its holder primarily for the purpose of international travel.[1] Standard passports may contain information such as the holder's name, place and date of birth, photograph, signature, and other relevant identifying information. All countries' governments have either begun issuing or plan to issue biometric information in a microchip embedded in the passport, making them machine-readable and difficult to counterfeit.[2] , there are over 150 jurisdictions issuing these e-passports.[3] Previously issued non-biometric machine-readable passports usually remain valid until their respective expiration dates.
 
 A passport holder is normally entitled to enter the country that issued the passport, though some people entitled to a passport may not be full citizens with right of abode (e.g. American nationals or British nationals). A passport does not of itself create any rights in the country being visited or obligate the issuing country in any way, such as providing consular assistance. Some passports attest to the bearer having a status as a diplomat or other official, entitled to rights and privileges such as immunity from arrest or prosecution.[4]
 
@@ -11,7 +11,7 @@ Passports are often requested in other circumstances to confirm identification s
 
 History
 
-First_Japanese_passport_1866.jpg, issued in 1866.]] QingPassport.jpg, 24th Year of the Guangxu Reign - 1898.]] Ottoman-russian-empire-passport.jpg passport (passavant) issued to Russian subject dated July 24, 1900.]]
+, issued in 1866.]] , 24th Year of the Guangxu Reign - 1898.]] passport (passavant) issued to Russian subject dated July 24, 1900.]]
 
 One of the earliest known references to paperwork that served in a role similar to that of a passport is found in the Hebrew Bible. , dating from approximately 450 BC, states that Nehemiah, an official serving King Artaxerxes I of Persia, asked permission to travel to Judea; the king granted leave and gave him a letter "to the governors beyond the river" requesting safe passage for him as he traveled through their lands.
 
@@ -30,8 +30,6 @@ During World War I, European governments introduced border passport requirements
 In 1920, the League of Nations held a conference on passports, the Paris Conference on Passports & Customs Formalities and Through Tickets.[18] Passport guidelines and a general booklet design resulted from the conference,[19] which was followed up by conferences in 1926 and 1927.[20]
 
 While the United Nations held a travel conference in 1963, no passport guidelines resulted from it. Passport standardization came about in 1980, under the auspices of the International Civil Aviation Organization (ICAO). ICAO standards include those for machine-readable passports.[21] Such passports have an area where some of the information otherwise written in textual form is written as strings of alphanumeric characters, printed in a manner suitable for optical character recognition. This enables border controllers and other law enforcement agents to process these passports more quickly, without having to input the information manually into a computer. ICAO publishes Doc 9303 _Machine Readable Travel Documents_, the technical standard for machine-readable passports.[22] A more recent standard is for biometric passports. These contain biometrics to authenticate the identity of travellers. The passport's critical information is stored on a tiny RFID computer chip, much like information stored on smartcards. Like some smartcards, the passport booklet design calls for an embedded contactless chip that is able to hold digital signature data to ensure the integrity of the passport and the biometric data.
-
-WW2_Spanish_official_passport.jpg
 
 
 Issuances
@@ -116,7 +114,6 @@ A rough standardization exists in types of passports throughout the world, altho
 Full passports
 
 +-----------------------------------------------------------------------+
-| Passports_Front.jpg Indian_Passport.jpg                               |
 | Left to right: diplomatic, official, and regular passport from India. |
 | Each passport type has a different cover colour.                      |
 +-----------------------------------------------------------------------+
@@ -125,7 +122,7 @@ Full passports
 -   Official passport (also called service passport) – Issued to government employees for work-related travel, and their accompanying dependants.
 -   – Issued to diplomats of a country and their accompanying dependents for official international travel and residence. Accredited diplomats of certain grades may be granted diplomatic immunity by a host country, but this is not automatically conferred by holding a diplomatic passport. Any diplomatic privileges apply in the country to which the diplomat is accredited; elsewhere diplomatic passport holders must adhere to the same regulations and travel procedures as are required of other nationals of their country. Holding a diplomatic passport in itself does not accord any specific privileges. At some airports, there are separate passport checkpoints for diplomatic passport holders.
 
--   Emergency passport (also called temporary passport) – Issued to persons whose passports were lost or stolen without time to obtain a replacement, e.g. someone abroad and needing to fly home within a few days. These passports are intended for very short time durations, e.g. one way travel back to home country, and will naturally have much shorter validity periods than regular passports. Laissez-passer are also used for this purpose.[38] British_Emergency_Passport.jpg
+-   Emergency passport (also called temporary passport) – Issued to persons whose passports were lost or stolen without time to obtain a replacement, e.g. someone abroad and needing to fly home within a few days. These passports are intended for very short time durations, e.g. one way travel back to home country, and will naturally have much shorter validity periods than regular passports. Laissez-passer are also used for this purpose.[38]
 -   Collective passport – Issued to defined groups for travel together to particular destinations, such as a group of school children on a school trip.[39]
 -   Family passport – Issued to an entire family. There is one passport holder, who may travel alone or with other family members included in the passport. A family member who is not the passport holder cannot use the passport for travel without the passport holder. Few countries now issue family passports; for example, all the EU countries, Canada, and the United States, among numerous other countries, require each child to have their own passport.[40]
 
@@ -155,7 +152,7 @@ Children born in Andorra to foreign residents who have not yet resided in the co
 
 Other types of travel documents
 
-Nansenpassport.jpg for refugees (now defunct)]]
+for refugees (now defunct)]]
 
 -   Laissez-passer – Issued by national governments or international organizations (such as the U.N.) as emergency passports, travel on humanitarian grounds, or for official travel.
 -   Interpol Travel Document – Issued by Interpol to police officers for official travel, allowing them to bypass certain visa restrictions in certain member states when investigating transnational crime.
@@ -187,9 +184,9 @@ Designs and format
 
 International Civil Aviation Organization standards
 
-upright=3 Indian_Passport_Information_page_Censored_New.jpg CBP_checking_authenticity_of_a_travel_document.jpg Office of Field Operations agent checking the authenticity of a travel document at an international airport using a stereo microscope]]
+upright=3 Office of Field Operations agent checking the authenticity of a travel document at an international airport using a stereo microscope]]
 
-The International Civil Aviation Organization (ICAO) issues passport standards which are treated as recommendations to national governments. The size of passport booklets normally complies with the ISO/IEC 7810 ID-3 standard, which specifies a size of 125 × 88 mm (4.921 × 3.465 in). This size is the B7 format. Passport cards are issued to the ID-1 (credit card sized) standard.[51][52][53][54][55] Manufacturing_passports_of_the_United_Kingdom.jpg
+The International Civil Aviation Organization (ICAO) issues passport standards which are treated as recommendations to national governments. The size of passport booklets normally complies with the ISO/IEC 7810 ID-3 standard, which specifies a size of 125 × 88 mm (4.921 × 3.465 in). This size is the B7 format. Passport cards are issued to the ID-1 (credit card sized) standard.[51][52][53][54][55]
 
 -   A standard passport booklet format includes the cover, which contains the name of the issuing country, a national symbol, a description of the document (e.g., passport, diplomatic passport), and a biometric passport symbol, if applicable. Inside, there is a title page, also naming the country. A data page follows, containing information about the bearer and the issuing authority. There are blank pages for visas, and to stamp for entries and exit. Passports have numerical or alphanumerical designators ("serial number") assigned by the issuing authority.
 -   Machine-readable passport standards have been issued by the ICAO,[56] with an area set aside where most of the information written as text is also printed in a manner suitable for optical character recognition.
@@ -197,7 +194,7 @@ The International Civil Aviation Organization (ICAO) issues passport standards w
 
 Common designs
 
-Pasaporte_Republica_Argentina.png with the name of Mercosur at the top]]
+with the name of Mercosur at the top]]
 
 Passport booklets from almost all countries around the world display the national coat of arms of the issuing country on the front cover. The United Nations keeps a record of national coats of arms, but displaying a coat of arms is not an internationally recognized requirement for a passport.
 
@@ -208,13 +205,13 @@ There are several groups of countries that have, by mutual agreement, adopted co
 -   The members of the Andean Community of Nations (Bolivia, Colombia, Ecuador, and Peru) began to issue commonly designed passports in 2005. Specifications for the common passport format were outlined in an Andean Council of Foreign Ministers meeting in 2002.[62] Previously-issued national passports will be valid until their expiry dates. Andean passports are bordeaux (burgundy-red), with words in gold. Centered above the national seal of the issuing country is the name of the regional body in Spanish (_Comunidad Andina_). Below the seal is the official name of the member country. At the bottom of the cover is the Spanish word "pasaporte" along with the English "passport". Venezuela had issued Andean passports, but has subsequently left the Andean Community, so they will no longer issue Andean passports.
 -   The Union of South American Nations signaled an intention to establish a common passport design, but it appears that implementation will take many years.
 
-Trinidad&TobagoPassportCover.jpg with the CARICOM logo at the top]]
+with the CARICOM logo at the top]]
 
 -   The member states of the Caribbean Community (CARICOM) recently began issuing passports with a common design. It features the CARICOM symbol along with the national coat of arms and name of the member state, rendered in a CARICOM official language (English, French, Dutch). The member states which use the common design are Antigua and Barbuda, Barbados, Belize, Dominica, Grenada, Guyana, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, and Trinidad and Tobago. There was a movement by the Organisation of Eastern Caribbean States (OECS) to issue a common designed passport, but the implementation of the CARICOM passport made that redundant, and it was abandoned.
 
 Request page
 
-PassportmessageUSA.jpg]] Passports sometimes contain a message, usually near the front, requesting that the passport's bearer be allowed to pass freely, and further requesting that, in the event of need, the bearer be granted assistance. The message is sometimes made in the name of the government or the head of state, and may be written in more than one language, depending on the language policies of the issuing authority.
+]] Passports sometimes contain a message, usually near the front, requesting that the passport's bearer be allowed to pass freely, and further requesting that, in the event of need, the bearer be granted assistance. The message is sometimes made in the name of the government or the head of state, and may be written in more than one language, depending on the language policies of the issuing authority.
 
 Languages
 
@@ -264,7 +261,7 @@ Asia
 -   Bangladesh – a Bangladeshi passport is valid for travel to all countries except Israel.
 -   Mainland China and Taiwan – Nationals of Taiwan (ROC) use a special travel permit (Mainland Travel Permit for Taiwan Residents) issued by China's (PRC) Ministry of Public Security to enter mainland China. Nationals of Mainland China entering Taiwan must also use a special travel permit (Exit & Entry Permit) issued by the ROC's immigration department. Depending on where they're coming from, they also need either a Chinese passport when departing from outside Mainland China, or a passport-like travel document, known as Taiwan Travel Permit for Mainland Residents, when departing from Mainland China (along with a special visa-like exit endorsement issued by PRC immigration authorities affixed to the permit). Chinese nationals who are Hong Kong and Macau permanent residents can apply for the ROC Exit and Entry Permit online or on arrival and must travel with their HKSAR passport, MSAR passport, or BN(O) passport.
 -   Hong Kong and Macau – A 'Home Return Permit' is required for Chinese citizens domiciled in Hong Kong and Macau to enter and exit mainland China. The Hong Kong Special Administrative Region passport and the Macau Special Administrative Region passport cannot be used for travel to mainland China. Also, British National (Overseas) passports cannot be used by Chinese citizens who reside in Hong Kong as the PRC does not recognize dual nationality. Mainland China residents visiting Hong Kong or Macau are required to hold an Exit-entry Permit for Travelling to and from Hong Kong and Macau (往来港澳通行证 or 双程证) issued by Mainland authorities, along with an endorsement (签注), on the Exit-entry Permit which needs to be applied each time (similar to a visa) when visiting the SARs (except residents with hukou in Shenzhen can apply for a multi-entry endorsement).[67] Non-permanent residents of Macau who are not eligible for a passport may travel to Hong Kong on the Visit Permit to Hong Kong (澳門居民往來香港特別行政區旅行證) valid for 7 years, which allows holders to travel only to Hong Kong SAR during its validity.
--   Israel – Countries_that_reject_Israeli_passports.png Until 1952, Israeli passports were normally not valid for travel to the then-West Germany, as in the aftermath of the Holocaust it was considered improper for Israelis to visit West Germany on any business but official state affairs. Some Muslim and African countries do not permit entry to anyone using an Israeli passport. In addition, Iran,[68] Kuwait,[69] Lebanon,[70] Libya,[71] Saudi Arabia,[72] Sudan,[73] Syria[74] and Yemen[75] do not allow entry to people with evidence of travel to Israel, or whose passports have either a used or an unused Israeli visa. For this reason, Israel no longer stamps visa stamps directly on passports, but on a slip of paper that serves as a substitute for a stamp on a travel document. Some countries do not permit their passports to be used for travel to Israel.
+-   Israel – Until 1952, Israeli passports were normally not valid for travel to the then-West Germany, as in the aftermath of the Holocaust it was considered improper for Israelis to visit West Germany on any business but official state affairs. Some Muslim and African countries do not permit entry to anyone using an Israeli passport. In addition, Iran,[68] Kuwait,[69] Lebanon,[70] Libya,[71] Saudi Arabia,[72] Sudan,[73] Syria[74] and Yemen[75] do not allow entry to people with evidence of travel to Israel, or whose passports have either a used or an unused Israeli visa. For this reason, Israel no longer stamps visa stamps directly on passports, but on a slip of paper that serves as a substitute for a stamp on a travel document. Some countries do not permit their passports to be used for travel to Israel.
 -   Lebanon - a Lebanese Passport is valid to travel to all countries except Israel.
 -   Malaysia – a Malaysian passport is valid to travel to all countries except Israel.
 -   Brunei - a Bruneian passport is valid to travel to all countries except Israel.
@@ -322,7 +319,7 @@ Europe
 
 North America
 
-Passport_card.jpg NEXUSCard.png Card]]
+Card]]
 
 -   CARICOM countries issue a CARICOM passport to their citizens, and as of June 2009, eligible nationals in participating countries will be permitted to use the CARICOM travel card which provides for intra-community travel without a passport.
 -   There are several cards available to certain North American residents which allow passport free travel; generally only for land and sea border crossings:
@@ -345,7 +342,7 @@ Passport_card.jpg NEXUSCard.png Card]]
 
 Oceania
 
-TorresStraitIslandsMap.png separating Australia and Papua New Guinea]]
+separating Australia and Papua New Guinea]]
 
 -   Residents of nine coastal villages in Papua New Guinea are permitted to enter the 'Protected Zone' of the Torres Strait (part of Queensland, Australia) for traditional purposes. This exemption from passport control is part of a treaty between Australia and Papua New Guinea negotiated when PNG became independent from Australia in 1975.[92] Vessels from other parts of Papua New Guinea and other countries attempting to cross into Australia or Australian waters are stopped by Australian Customs or the Royal Australian Navy.
 

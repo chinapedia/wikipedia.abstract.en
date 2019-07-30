@@ -1,4 +1,4 @@
-Steuben_Monument.jpg, Drillmaster of the Continental Army during the American War of Independence]] MAGDEBURG (; Low Saxon: _Meideborg_, ) is the capital city and the second largest city of the state of Saxony-Anhalt, Germany. It is situated on the Elbe River.
+, Drillmaster of the Continental Army during the American War of Independence]] MAGDEBURG (; Low Saxon: _Meideborg_, ) is the capital city and the second largest city of the state of Saxony-Anhalt, Germany. It is situated on the Elbe River.
 
 Otto I, the first Holy Roman Emperor and founder of the archbishopric of Magdeburg, was buried in the town's cathedral after his death. Magdeburg's version of German town law, known as Magdeburg rights, spread throughout Central and Eastern Europe. Until 1631, Magdeburg was one of the largest and most prosperous German cities, and a notable member of the Hanseatic League.
 
@@ -13,7 +13,7 @@ In 2005 Magdeburg celebrated its 1200th anniversary. In June 2013 Magdeburg was 
 
 History
 
-Ankunft_Ottos_I._und_Ediths_in_Magdeburg.jpg and his wife Edith arrive near Magdeburg (Hugo Vogel 1898, Ständehaus Merseburg)]]
+and his wife Edith arrive near Magdeburg (Hugo Vogel 1898, Ständehaus Merseburg)]]
 
 +----------------------------------+-------------+-------------------------+
 | LARGEST GROUPS OF FOREIGNERS |-\ | Nationality | Population (31.12.2018) |
@@ -88,8 +88,6 @@ Magdeburg has a Humid continental climate (Dfb) bordering on an oceanic climate 
 
 Main sights
 
-02_Magdeburg_004.jpg Magdeburg_St_Petri_02.jpg .00_1547_Magdeburg_-_Grüne_Zitadelle.jpg
-
 Cathedral
 
 One of Magdeburg's most impressive buildings is the Lutheran Cathedral of Saints Catherine and Maurice with a height of , making it the tallest church building of eastern Germany. It is notable for its beautiful and unique sculptures, especially the "Twelve Virgins" at the Northern Gate, the depictions of Otto I the Great and his wife Editha as well as the statues of St Maurice and St Catherine. The predecessor of the cathedral was a church built in 937 within an abbey, called St. Maurice. Emperor Otto I the Great was buried here beside his wife in 973. St. Maurice burnt to ashes in 1207. The exact location of that church remained unknown for a long time. The foundations were rediscovered in May 2003, revealing a building long and wide.
@@ -122,8 +120,6 @@ Magdeburg is one of the major towns along the Elbe Cycle Route (Elberadweg).
 
 Culture and sports
 
-Weihnachtsmarkt_MD.jpg
-
 Magdeburg has a municipal theatre, Theater Magdeburg.
 
 The city is portrayed as a rebel castle on the strategy map of _Medieval II: Total War_.
@@ -136,7 +132,7 @@ Event venues
 
 -   Cathedral of Magdeburg
 
-Bordelandhalle_Magdeburg.JPG]] Elbauenpark_seebuehne.JPG
+]]
 
 -   GETEC Arena – Biggest multi-purpose hall in Saxony-Anhalt, home of handball team SC Magdeburg
 -   AMO - Culture and congress building
@@ -163,7 +159,7 @@ Magdeburg has a proud history of sports teams, with football proving the most po
 
 Population development
 
-Einwohnerentwicklung_von_Magdeburg_von_1400_bis_1870.svg Einwohnerentwicklung_von_Magdeburg_-_ab_1871.svg Population development since 1400:
+Population development since 1400:
 
 
 Education
@@ -199,8 +195,6 @@ People
 
 A–K
 
-Otto-von-Guericke-TS.jpg
-
 -   Max Albert (1905–1976), writer
 -   Ernst Anders (1845–1911), portrait and genre painter
 -   Theodor Avé-Lallemant (1806–1890), music critic and writer on music
@@ -230,8 +224,6 @@ Otto-von-Guericke-TS.jpg
 -   Hans Kühne (1880–1969), chemist on the board of I.G. Farben and defendant during the Nuremberg trials
 
 L–Z
-
-Bundesarchiv_B_145_Bild-F002352-0002,_Bonn,_Bundestag,_Pariser_Verträge,_Ollenhauer.jpg Friedrich_Wilhelm_von_Steuben.jpg
 
 -   Ernst Lehmann (1908–1945), SPD politician, active in the resistance against Nazism
 -   Otto Lehmann (1900–1936), resistance fighter against Nazism

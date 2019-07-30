@@ -3,24 +3,22 @@ R (named _ar/or_ [1]) is the 18th letter of the modern English alphabet and the 
 
 History
 
-+---------------------+--------------------+---------------------------------------------------------------------------+----------------------+-------------------------+-------------------------+------------------+------------------+
-| Egyptian hieroglyph | Phoenician         | Archaic Greek/Old Italic                                                  | Roman square capital | 15th century Florentine | blackletter (_Fraktur_) | German _kurrent_ | modern cursive   |
-| _tp_ (D1)           | _Resh_             | _Rho_                                                                     | R                    | inscriptional capital   |                         |                  | (D'Nealian 1978) |
-+---------------------+--------------------+---------------------------------------------------------------------------+----------------------+-------------------------+-------------------------+------------------+------------------+
-| D1                  | PhoenicianR-01.png | Greek_Rho_01.svg Greek_Rho_03.svgGreek_Rho_06.svgGreek_Rho_round-tack.svg | R_Agrippa.png        | RomanR-01.png           | Fraktur_letter_R.png    | Kurrent_R.svg    | R_cursiva.gif    |
-+---------------------+--------------------+---------------------------------------------------------------------------+----------------------+-------------------------+-------------------------+------------------+------------------+
++---------------------+------------+--------------------------+----------------------+-------------------------+-------------------------+------------------+------------------+
+| Egyptian hieroglyph | Phoenician | Archaic Greek/Old Italic | Roman square capital | 15th century Florentine | blackletter (_Fraktur_) | German _kurrent_ | modern cursive   |
+| _tp_ (D1)           | _Resh_     | _Rho_                    | R                    | inscriptional capital   |                         |                  | (D'Nealian 1978) |
++---------------------+------------+--------------------------+----------------------+-------------------------+-------------------------+------------------+------------------+
+| D1                  |            |                          |                      |                         |                         |                  |                  |
++---------------------+------------+--------------------------+----------------------+-------------------------+-------------------------+------------------+------------------+
 
 Antiquity
 
-Prognatus.png (280 BC) reveals the full development of the Latin _R_ by that time; the letter _P_ at the same time still retains its archaic shape distinguishing it from Greek or Old Italic _rho_.]] The original Semitic letter may have been inspired by an Egyptian hieroglyph for _tp_, "head". It was used for by Semites because in their language, the word for "head" was _rêš_ (also the name of the letter). It developed into Greek 'Ρ' (_rhô_) and Latin R.
+(280 BC) reveals the full development of the Latin _R_ by that time; the letter _P_ at the same time still retains its archaic shape distinguishing it from Greek or Old Italic _rho_.]] The original Semitic letter may have been inspired by an Egyptian hieroglyph for _tp_, "head". It was used for by Semites because in their language, the word for "head" was _rêš_ (also the name of the letter). It developed into Greek 'Ρ' (_rhô_) and Latin R.
 
-The descending diagonal stroke develops as a graphic variant in some Western Greek alphabets (writing _rho_ as Greek_Rho_03.svg), but it was not adopted in most Old Italic alphabets; most Old Italic alphabets show variants of their _rho_ between a "P" and a "D" shape, but without the Western Greek descending stroke. Indeed, the oldest known forms of the Latin alphabet itself of the 7th to 6th centuries BC, in the Duenos and the Forum inscription, still write _r_ using the "P" shape of the letter. The Lapis Satricanus inscription shows the form of the Latin alphabet around 500 BC. Here, the rounded, closing Π shape of the _p_ and the Ρ shape of the _r_ have become difficult to distinguish. The descending stroke of the Latin letter R has fully developed by the 3rd century BC, as seen in the Tomb of the Scipios sarcophagus inscriptions of that era. From around 50 AD, the letter _P_ would be written with its loop fully closed, assuming the shape formerly taken by _R_.
-
-Weltchronik_Fulda_Aa88_001r_detail3.jpg
+The descending diagonal stroke develops as a graphic variant in some Western Greek alphabets (writing _rho_ as ), but it was not adopted in most Old Italic alphabets; most Old Italic alphabets show variants of their _rho_ between a "P" and a "D" shape, but without the Western Greek descending stroke. Indeed, the oldest known forms of the Latin alphabet itself of the 7th to 6th centuries BC, in the Duenos and the Forum inscription, still write _r_ using the "P" shape of the letter. The Lapis Satricanus inscription shows the form of the Latin alphabet around 500 BC. Here, the rounded, closing Π shape of the _p_ and the Ρ shape of the _r_ have become difficult to distinguish. The descending stroke of the Latin letter R has fully developed by the 3rd century BC, as seen in the Tomb of the Scipios sarcophagus inscriptions of that era. From around 50 AD, the letter _P_ would be written with its loop fully closed, assuming the shape formerly taken by _R_.
 
 Cursive
 
-Caslon-specimen-1763-double-pica-black.jpg Luca_Pacioli,_De_divina_proportione,_Letter_R.jpg, in _De divina proportione_ (1509)]]
+, in _De divina proportione_ (1509)]]
 
 The minuscule (lowercase) form (_r_) developed through several variations on the capital form. Along with Latin minuscule writing in general, it developed ultimately from Roman cursive via the uncial script of Late Antiquity into the Carolingian minuscule of the 9th century.
 

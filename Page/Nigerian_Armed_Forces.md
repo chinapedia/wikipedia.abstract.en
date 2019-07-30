@@ -45,7 +45,7 @@ The Nigerian Navy (NN) is the sea branch of the Nigerian Armed Forces. The Niger
 
 Air Force
 
-Roundel_of_Nigeria.svg The Nigerian Air Force was formally established in January 1964 with technical assistance from West Germany. The air force started life as a transport unit with aircrew being trained in Canada, Ethiopia and Pakistan. The air force did not get a combat capability until a number of MiG-17 aircraft were presented by the Soviet Union in 1966.
+The Nigerian Air Force was formally established in January 1964 with technical assistance from West Germany. The air force started life as a transport unit with aircrew being trained in Canada, Ethiopia and Pakistan. The air force did not get a combat capability until a number of MiG-17 aircraft were presented by the Soviet Union in 1966.
 
 In 2007 the Air Force had a strength of 10,000.[9] It flies transport, trainer, helicopter, and fighter aircraft.
 

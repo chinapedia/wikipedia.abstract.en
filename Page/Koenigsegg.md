@@ -3,8 +3,6 @@ KOENIGSEGG AUTOMOTIVE AB () is a Swedish manufacturer of high-performance sports
 
 Company
 
-Koenigsegg_gebaeude.jpg
-
 The company was founded in 1994 in Sweden by Christian von Koenigsegg, with the intention of producing a "world-class" sports car. Many years of development and testing led to the CC8S, the company's first street-legal production car which was introduced in 2002.
 
 In 2006, Koenigsegg began production of the CCX, which uses an engine created in-house especially for the car. The goal was to develop a car homologated for use worldwide, particularly the United States whose strict regulations didn't allow the import of earlier Koenigsegg models.
@@ -23,8 +21,6 @@ In January 2019, Koenigsegg sold a 20 percent minority stake in the company to a
 History
 
 Prototypes and production
-
-Koenigsegg_side.jpg
 
 The initial design of the CC was penned down by Christian von Koenigsegg. Industrial designer David Crafoord realised the sketches as a 1:5 scale model. This model was later scaled up in order to create the base plug for the initial Koenigsegg prototype that was finished in 1996. During the next years, the prototype went through extensive testing and several new prototypes were built. The prototypes initially used an Audi V8 engine but after the engine supply contract fell through, the next candidate was the Flat-12 race engine developed by Motori Moderni for the Scuderia Coloni Formula one team, in which this engine was raced under the Subaru badge in the 1990 season. These Subaru 1235 engines were purchased and modified for use in the CC, this deal failed when the founder of Motori Moderni died, sending the company into bankruptcy.[6][7] Eventually a Ford Modular V8 engine was chosen, which found its way to the company's first production car.
 
@@ -51,7 +47,7 @@ In November 2009, Koenigsegg decided not to finalise the purchase of Saab and th
 
 Models
 
-Koenigsegg_One-1_(20671177210).jpg (US spec)]]
+(US spec)]]
 
 A Koenigsegg CC prototype was first publicised in 1996, while the full carbon fibre production prototype having white paintwork was finally unveiled at the 2000 Paris Motor Show. The first customer took delivery of a red CC8S in 2002 at the Geneva Auto Show and four more cars were built that year. Koenigsegg was established in Asia later that year with a premiere at the Seoul Auto Show. In 2004, the new CCR, which was basically a high performance variant of the CC8S, was unveiled at the Geneva Auto Show; only 14 were produced.
 
@@ -66,8 +62,6 @@ In 2010 Koenigsegg released information at the 2010 Geneva Motor Show about a ne
 At the 2015 Geneva Motor Show, Koenigsegg presented a new model named the _Regera_, which translates into English as to "reign" or "rule". The Regera uses the Koenigsegg Direct Drive (KDD) transmission. Below , motive power is by two electric motors on the rear wheels and the internal combustion engine (ICE) is disconnected. Above , the ICE is connected by a fixed ratio transmission with no gearbox, torque vectoring by the previously mentioned electric motors and boosted by a third electric motor attached to the driveshaft.[16][17]
 
 Koenigsegg initially based its engine on a V8 engine block from Ford Racing. These engines powered the initial run of the CC monikered cars. The block for the V8 in the CCX (Competition Coupe Ten, to celebrate ten years of the company) was cast for Koenigsegg by Grainger & Worrall of the UK who also casted the block for the Agera's 5.0-litre engine[18]
-
-Koenigsegg_Jesko_Genf_2019_1Y7A5887.jpg
 
 In late 2018, Koenigsegg showed potential customers in Australia the replacement of the Agera via VR. Teaser sketches were released by the company at the same time. Initially, the model was rumoured to be called "Ragnarok" but the public unveil of the car at the 2019 Geneva Motor Show revealed the name to be Jesko, after the founder's father Jesko Von Koenigsegg. The Jesko uses a development of the 5.0-litre V8 engine used in the Agera which has a power output of on normal gasoline and has a power output of and of torque at 5,100 rpm on E85 biofuel. The engine is mated to a 9-speed multi-clutch transmission having seven clutches called the light speed gearbox by the manufacturer. The focus of this transmission is to have faster shift times. The car will come in either in a low drag or a high drag variant with the low drag variant capable of achieving claimed speeds up to .
 
@@ -96,8 +90,6 @@ List of models
 
 Records
 
-Pangbourne_070.jpg
-
 On 28 February 2005, at 12:08 h local time, in Nardò, Italy, the CCR broke the Guinness World Record for the fastest production car in the world, having attained on the Nardò Ring (a circular track of circumference), breaking the record previously held by the McLaren F1.[42][43] It held the record until September 2005 when the Bugatti Veyron broke the record again by attaining a speed of , proven both by _Car and Driver_ and _Top Gear_. Both of the records set by Bugatti and McLaren were set on Volkswagen's own test-track Ehra-Lessien, which features a straight.[44]
 
 The Koenigsegg CCXR held the power-to-weight ratio record for production cars at the time of its introduction, with a power-to-weight ratio of /hp. Later the Koenigsegg One:1 held this record, with a power-to-weight ratio of /hp.
@@ -105,8 +97,6 @@ The Koenigsegg CCXR held the power-to-weight ratio record for production cars at
 In 2008 the German magazine _sport auto_ conducted a test for production cars, with the CCX winning the event in a total time of .[45]
 
 In September 2011, the Agera R broke the Guinness World Record for 0–300 km/h with a time of just 14.53 seconds and a 0-300-0 km/h time of 21.19 seconds.[46] Koenigsegg improved this record with the One:1 on 8 June 2015. It attained 0–300 km/h in 11.92 seconds and 0-300-0 km/h in 17.95 seconds (a 3.24 sec improvement over the 2011 Koenigsegg Agera R record), it also attained 0–322 km/h (0–200 mph) in 14.328 seconds and 0-322-0 km/h in 20.71 seconds.[47]
-
-2018_North_American_International_Auto_Show_(26384027537).jpg
 
 On 1 October 2017, an Agera RS set an unofficial record for with a time of 36.44 seconds. The record was set at the Vandel Airfield in Denmark and broke the record of 42 seconds set by the Bugatti Chiron a few weeks prior.[48]
 

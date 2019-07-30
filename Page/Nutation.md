@@ -1,5 +1,3 @@
-Praezession.svg
-
 NUTATION (from Latin _nūtātiō_, "nodding, swaying") is a rocking, swaying, or nodding motion in the axis of rotation of a largely axially symmetric object, such as a gyroscope, planet, or bullet in flight, or as an intended behaviour of a mechanism. In an appropriate reference frame it can be defined as a change in the second Euler angle. If it is not caused by forces external to the body, it is called _free nutation_ or _Euler nutation_.[1] A _pure nutation_ is a movement of a rotational axis such that the first Euler angle is constant. In spacecraft dynamics, precession (a change in the first Euler angle) is sometimes referred to as nutation.[2]
 
 
@@ -44,7 +42,7 @@ The nutation of a planet occurs because the gravitational effects of other bodie
 
 Earth
 
-Trópico_de_Cáncer_en_México_-_Carretera_83_(Vía_Corta)_Zaragoza-Victoria,_Km_27+800.jpg near a highway in Mexico]]
+near a highway in Mexico]]
 
 Nutation subtly changes the axial tilt of Earth with respect to the ecliptic plane, shifting the major circles of latitude that are defined by the Earth's tilt (the tropical circles and the polar circles).
 

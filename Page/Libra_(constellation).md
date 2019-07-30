@@ -1,9 +1,9 @@
-LIBRA is a constellation of the zodiac. Its name is Latin for weighing scales, and its symbol is Libra.svg (Unicode ♎). It is fairly faint, with no first magnitude stars, and lies between Virgo to the west and Scorpius to the east. Beta Librae, also known as Zubeneschamali, is the brightest star in the constellation. Three star systems are known to have planets.
+LIBRA is a constellation of the zodiac. Its name is Latin for weighing scales, and its symbol is (Unicode ♎). It is fairly faint, with no first magnitude stars, and lies between Virgo to the west and Scorpius to the east. Beta Librae, also known as Zubeneschamali, is the brightest star in the constellation. Three star systems are known to have planets.
 
 
 History and mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Libra.jpg'', a set of constellation cards published in London c.1825]]
+'', a set of constellation cards published in London c.1825]]
 
 Libra was known in Babylonian astronomy as _MUL Zibanu_ (the "scales" or "balance"), or alternatively as the Claws of the Scorpion. The scales were held sacred to the sun god Shamash, who was also the patron of truth and justice.[1] It was also seen as the Scorpion's Claws in ancient Greece. Since these times, Libra has been associated with law, fairness and civility. In Arabic _zubānā_ means "scorpion's claws", and likely similarly in other Semitic languages: this resemblance of words may be why the Scorpion's claws became the Scales. It has also been suggested that the scales are an allusion to the fact that when the sun entered this part of the ecliptic at the autumnal equinox, the days and nights are equal.[2] Libra's status as the location of the equinox earned the equinox the name "First Point of Libra", though this location ceased to coincide with the constellation in 730 because of the precession of the equinoxes.[3]
 
@@ -19,7 +19,7 @@ Features
 
 Stars
 
-LibraCC.jpg Overall, there are 83 stars within the constellation's borders brighter than or equal to apparent magnitude 6.5.[10]
+Overall, there are 83 stars within the constellation's borders brighter than or equal to apparent magnitude 6.5.[10]
 
 The brightest stars in Libra form a quadrangle that distinguishes it for the unaided observer. Traditionally, Alpha and Beta Librae are considered to represent the scales' balance beam, while Gamma and Sigma are the weighing pans.
 

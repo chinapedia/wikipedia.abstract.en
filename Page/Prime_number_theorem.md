@@ -5,8 +5,6 @@ The first such distribution found is , where is the prime-counting function and 
 
 Statement
 
-Prime_number_theorem_ratio_convergence.svg Prime_number_theorem_absolute_error.svg
-
 Let be the prime-counting function that gives the number of primes less than or equal to , for any real number . For example, 4}} because there are four prime numbers (2, 3, 5 and 7) less than or equal to 10. The prime number theorem then states that is a good approximation to , in the sense that the limit of the _quotient_ of the two functions and as increases without bound is 1:
 
     $\lim_{x\to\infty}\frac{\;\pi(x)\;}{\;\left[ \frac{x}{\log(x)}\right]\;} = 1,$

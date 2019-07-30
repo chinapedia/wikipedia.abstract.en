@@ -19,7 +19,7 @@ Jim Clark met with Nintendo CEO Hiroshi Yamauchi in early 1993, thus initiating 
 
 "Reality Immersion Technology" is the name SGI had given the set of core components, which would be first utilized in Project Reality: the MIPS R4300i CPU, the MIPS Reality Coprocessor, and the embedded software.[18][19][20] Some chip technology and manufacturing was provided by NEC, Toshiba, and Sharp.[21] SGI had recently acquired MIPS Computer Systems (renamed to MIPS Technologies), and the two worked together to be ultimately responsible for the design of the Reality Immersion Technology chips[22] under engineering director Jim Foran[23][24] and chief hardware architect Tim Van Hook.[25]
 
-SGI-onyx.jpg The initial Project Reality game development platform was developed and sold by SGI in the form of its [26]–[27][28] Onyx supercomputer loaded with the namesake [29] RealityEngine2 graphics boards and four 150 MHz R4400 CPUs,[30] and with early Project Reality application and emulation APIs based on Performer and OpenGL. This graphics supercomputing platform had served as the source design which SGI had reduced down to become the Reality Immersion Technology for Project Reality.[31][32]
+The initial Project Reality game development platform was developed and sold by SGI in the form of its [26]–[27][28] Onyx supercomputer loaded with the namesake [29] RealityEngine2 graphics boards and four 150 MHz R4400 CPUs,[30] and with early Project Reality application and emulation APIs based on Performer and OpenGL. This graphics supercomputing platform had served as the source design which SGI had reduced down to become the Reality Immersion Technology for Project Reality.[31][32]
 
 The system's game controller was a Super NES controller modified to have a primitive analog joystick and Z trigger. Under maximal secrecy even from the rest of the company, a LucasArts developer said his team would "furtively hide the prototype controller in a cardboard box while we used it. In answer to the inevitable questions about what we were doing, we replied jokingly that it was a new type of controller—a bowl of liquid that absorbed your thoughts through your fingertips. Of course, you had to think in Japanese..."[33]
 
@@ -109,8 +109,6 @@ The smaller storage size of ROM cartridges limited the number of available textu
 
 Game Paks
 
-N64-Game-Cartridge.jpg
-
 Nintendo 64 games are ROM cartridge based. Cartridge size varies[126] from 4 to 64 MB. Many cartridges include the ability to save games internally.
 
 Nintendo cited several advantages for making the Nintendo 64 cartridge-based.[127] Primarily cited was the ROM cartridges' very fast load times in comparison to disc-based games. While loading screens appear in many PlayStation games, they are rare on the Nintendo 64. Although vulnerable to long-term environmental damage[128] the cartridges are far more resistant to physical damage than compact discs. Nintendo also cited the fact that cartridges are more difficult to pirate than CDs.[129]
@@ -151,8 +149,6 @@ Technical specifications
 
 Hardware
 
-Nintendo-N64-Motherboard-Top.jpg
-
 The Nintendo 64's central processing unit (CPU) is the NEC VR4300.[157] _Popular Electronics_ said it had power similar to the Pentium processors found in desktop computers.[158] Except for its narrower 32-bit system bus, the VR4300 retained the computational abilities of the more powerful 64-bit MIPS R4300i,[159] though software rarely took advantage of 64-bit data precision operations. Nintendo 64 games generally used faster and more compact 32-bit data-operations,[160] as these were sufficient to generate 3D-scene data for the console's RSP (Reality Signal Processor) unit. In addition, 32-bit code executes faster and requires less storage space (which is at a premium on the Nintendo 64's cartridges).
 
 In terms of its random-access memory (RAM), the Nintendo 64 is one of the first modern consoles to implement a unified memory subsystem, instead of having separate banks of memory for CPU, audio, and video, for example.[161] The memory itself consists of 4 megabytes of Rambus RDRAM, expandable to 8 MB with the Expansion Pak. Rambus was quite new at the time and offered Nintendo a way to provide a large amount of bandwidth for a relatively low cost.
@@ -166,8 +162,6 @@ The Nintendo 64 supports 16.8 million colors.[164] The system can display resolu
 The Nintendo 64 is one of the first gaming consoles to have four controller ports. According to Shigeru Miyamoto, Nintendo opted to have four controller ports because the Nintendo 64 is the company's first console which can handle a four player split screen without significant slowdown.[167]
 
 Color variants
-
-N64-Console-Orange.jpg
 
 The Nintendo 64 comes in several colors. The standard Nintendo 64 is dark gray, nearly black,[168] and the controller is light gray (later releases in the U.S. and in Australia included a bonus second controller in Atomic Purple). Various colorations and special editions were released.
 

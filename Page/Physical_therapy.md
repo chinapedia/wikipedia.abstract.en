@@ -14,7 +14,7 @@ Education varies greatly by country. The span of education ranges from some coun
 
 History
 
-Exercise_to_shoulder_and_elbow_to_increase_motion_following_fracture_and_dislocation_of_humerous_is_being_given_by_an..._-_NARA_-_522885.tif and elbow to increase motion following fracture and dislocation of humerus is being given by an Army therapist to a soldier patient.]]
+and elbow to increase motion following fracture and dislocation of humerus is being given by an Army therapist to a soldier patient.]]
 
 Physicians like Hippocrates and later Galen are believed to have been the first practitioners of physical therapy, advocating massage, manual therapy techniques and hydrotherapy to treat people in 460 BC.[6] After the development of orthopedics in the eighteenth century, machines like the Gymnasticon were developed to treat gout and similar diseases by systematic exercise of the joints, similar to later developments in physical therapy.[7]
 
@@ -131,7 +131,7 @@ Neurological physiotherapy is also called neurophysiotherapy or neurological reh
 
 Orthopedic
 
-Physiotherapiebehandlung.jpg Orthopedic physical therapists diagnose, manage, and treat disorders and injuries of the musculoskeletal system including rehabilitation after orthopedic surgery. acute trauma such as sprains, strains, injuries of insidious onset such as tendinopathy, bursitis and deformities like scoliosis. This speciality of physical therapy is most often found in the out-patient clinical setting. Orthopedic therapists are trained in the treatment of post-operative orthopedic procedures, fractures, acute sports injuries, arthritis, sprains, strains, back and neck pain, spinal conditions, and amputations.
+Orthopedic physical therapists diagnose, manage, and treat disorders and injuries of the musculoskeletal system including rehabilitation after orthopedic surgery. acute trauma such as sprains, strains, injuries of insidious onset such as tendinopathy, bursitis and deformities like scoliosis. This speciality of physical therapy is most often found in the out-patient clinical setting. Orthopedic therapists are trained in the treatment of post-operative orthopedic procedures, fractures, acute sports injuries, arthritis, sprains, strains, back and neck pain, spinal conditions, and amputations.
 
 Joint and spine mobilization/manipulation, dry needling (similar to acupuncture), therapeutic exercise, neuromuscular techniques, muscle reeducation, hot/cold packs, and electrical muscle stimulation (e.g., cryotherapy, iontophoresis, electrotherapy) are modalities employed to expedite recovery in the orthopedic setting.[50] Additionally, an emerging adjunct to diagnosis and treatment is the use of sonography for diagnosis and to guide treatments such as muscle retraining.[51][52][53] Those who have suffered injury or disease affecting the muscles, bones, ligaments, or tendons will benefit from assessment by a physical therapist specialized in orthopedics.
 

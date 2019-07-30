@@ -1,4 +1,4 @@
-Carl_Friedrich_Gauss.jpg]] Charles_Sanders_Peirce.jpg]] DIMendeleevCab.jpg]] Hermann_Weyl_ETH-Bib_Portr_00890.jpg]] Humphry_Davy_Engraving_1830.jpg]] Watt_James_Chantrey.jpg]] Félix_Nadar_1820-1910_portraits_Jules_Verne_(restoration).jpg]] Boltzmann2.jpg]] Max_Born.jpg]] Max_Planck_(1858-1947).jpg]] M.V._Lomonosov_by_L.Miropolskiy_after_G.C.Prenner_(1787,_RAN).jpg]] Neil_Armstrong_pose.jpg]] Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg]] Thomas_Paine_rev1.jpg]] Atelier_de_Nicolas_de_Largillière,_portrait_de_Voltaire,_détail_(musée_Carnavalet)_-002.jpg]] Wolfgang_Pauli_ETH-Bib_Portr_01042.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]]
 
 This is a partial list of people who have been categorized as Deists, the belief in a deity based on natural religion only, or belief in religious truths discovered by people through a process of reasoning, independent of any revelation through scriptures or prophets. They have been selected for their influence on Deism, or for their fame in other areas.
 

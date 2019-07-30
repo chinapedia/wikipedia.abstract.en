@@ -16,7 +16,7 @@ History
 
 Founding
 
-The river Daugava has been a trade route since antiquity, part of the Vikings' Dvina-Dnieper navigation route to Byzantium.[19] A sheltered natural harbour upriver from the mouth of the Daugava — the site of today's Riga — has been recorded, as _Duna Urbs_, as early as the 2nd century.[20] It was settled by the Livs, an ancient Finnic tribe.[21] Old_Riga_Buildings.JPG is one of the most iconic buildings of Old Riga (Vecrīga)]] Riga began to develop as a centre of Viking trade during the early Middle Ages.[22] Riga's inhabitants occupied themselves mainly with fishing, animal husbandry, and trading, later developing crafts (in bone, wood, amber, and iron).[23]
+The river Daugava has been a trade route since antiquity, part of the Vikings' Dvina-Dnieper navigation route to Byzantium.[19] A sheltered natural harbour upriver from the mouth of the Daugava — the site of today's Riga — has been recorded, as _Duna Urbs_, as early as the 2nd century.[20] It was settled by the Livs, an ancient Finnic tribe.[21] is one of the most iconic buildings of Old Riga (Vecrīga)]] Riga began to develop as a centre of Viking trade during the early Middle Ages.[22] Riga's inhabitants occupied themselves mainly with fishing, animal husbandry, and trading, later developing crafts (in bone, wood, amber, and iron).[23]
 
 The Livonian Chronicle of Henry testifies to Riga having long been a trading centre by the 12th century, referring to it as _portus antiquus_ (ancient port), and describes dwellings and warehouses used to store mostly flax, and hides.[24] German traders began visiting Riga, establishing a nearby outpost in 1158.
 
@@ -42,17 +42,15 @@ In 1227, Albert conquered Oesel[65] and the city of Riga concluded a treaty with
 
 Albert died in January 1229.[67] He failed in his aspiration to be anointed archbishop[68] but the German hegemony he established over the Baltic would last for seven centuries.[69]
 
-Panorama_of_Riga,_1572.jpg
-
 Hanseatic League
 
-In 1282, Riga became a member of the Hanseatic League. The Hansa was instrumental in giving Riga economic and political stability, thus providing the city with a strong foundation which endured the political conflagrations that were to come, down to modern times. Riga_1650.jpg]]
+In 1282, Riga became a member of the Hanseatic League. The Hansa was instrumental in giving Riga economic and political stability, thus providing the city with a strong foundation which endured the political conflagrations that were to come, down to modern times. ]]
 
 Holy Roman Empire, Polish–Lithuanian Commonwealth, the Swedish and Russian Empires
 
 As the influence of the Hanseatic League waned, Riga became the object of foreign military, political, religious and economic aspirations. Riga accepted the Reformation in 1522, ending the power of the archbishops. In 1524, iconoclasts targeted a statue of the Virgin Mary in the Cathedral to make a statement against religious icons. It was accused of being a witch, and given a trial by water in the Daugava River. The statue floated, so it was denounced as a witch and burnt at Kubsberg.[70] With the demise of the Livonian Order during the Livonian War, Riga for twenty years had the status of a Free Imperial City of the Holy Roman Empire before it came under the influence of the Polish–Lithuanian Commonwealth by the Treaty of Drohiczyn, which ended the war for Riga in 1581. In 1621, during the Polish–Swedish War (1621–1625), Riga and the outlying fortress of Daugavgriva came under the rule of Gustavus Adolphus, King of Sweden, who intervened in the Thirty Years' War not only for political and economic gain but also in favour of German Lutheran Protestantism. During the Russo-Swedish War (1656–1658), Riga withstood a siege by Russian forces.
 
-Riga remained the largest city in Sweden until 1710, a period during which the city retained a great deal of autonomous self-government. In that year, in the course of the Great Northern War, Russia under Tsar Peter the Great besieged plague-stricken Riga. Along with the other Livonian towns and gentry, Riga capitulated to Russia, but largely retained their privileges. Riga was made the capital of the Governorate of Riga (later: Livonia). Sweden's northern dominance had ended, and Russia's emergence as the strongest Northern power was formalised through the Treaty of Nystad in 1721. Riga became an industrialised port city of the Russian empire, in which it remained until World War I. By 1900, Riga was the third largest city in Russia after Moscow and Saint Petersburg in terms of the number of industrial workers and number of theatres. German_troops_Riga_1917.jpg During these many centuries of war and changes of power in the Baltic, and despite demographic changes, the Baltic Germans in Riga had maintained a dominant position. By 1867, Riga's population was 42.9% German.[71] Riga employed German as its official language of administration until the installation of Russian in 1891 as the official language in the Baltic provinces, as part of the policy of Russification of the non-Russian speaking territories of the Russian Empire, including Congress Poland, Finland and the Baltics, undertaken by Tsar Alexander III. More and more Latvians started moving to the city during the mid-19th century. The rise of a Latvian bourgeoisie made Riga a centre of the Latvian National Awakening with the founding of the Riga Latvian Association in 1868 and the organisation of the first national song festival in 1873. The nationalist movement of the Neo-Latvians was followed by the socialist New Current during the city's rapid industrialisation, culminating in the 1905 Revolution led by the Latvian Social Democratic Workers' Party.
+Riga remained the largest city in Sweden until 1710, a period during which the city retained a great deal of autonomous self-government. In that year, in the course of the Great Northern War, Russia under Tsar Peter the Great besieged plague-stricken Riga. Along with the other Livonian towns and gentry, Riga capitulated to Russia, but largely retained their privileges. Riga was made the capital of the Governorate of Riga (later: Livonia). Sweden's northern dominance had ended, and Russia's emergence as the strongest Northern power was formalised through the Treaty of Nystad in 1721. Riga became an industrialised port city of the Russian empire, in which it remained until World War I. By 1900, Riga was the third largest city in Russia after Moscow and Saint Petersburg in terms of the number of industrial workers and number of theatres. During these many centuries of war and changes of power in the Baltic, and despite demographic changes, the Baltic Germans in Riga had maintained a dominant position. By 1867, Riga's population was 42.9% German.[71] Riga employed German as its official language of administration until the installation of Russian in 1891 as the official language in the Baltic provinces, as part of the policy of Russification of the non-Russian speaking territories of the Russian Empire, including Congress Poland, Finland and the Baltics, undertaken by Tsar Alexander III. More and more Latvians started moving to the city during the mid-19th century. The rise of a Latvian bourgeoisie made Riga a centre of the Latvian National Awakening with the founding of the Riga Latvian Association in 1868 and the organisation of the first national song festival in 1873. The nationalist movement of the Neo-Latvians was followed by the socialist New Current during the city's rapid industrialisation, culminating in the 1905 Revolution led by the Latvian Social Democratic Workers' Party.
 
 World War I
 
@@ -79,7 +77,7 @@ Riga was the European Capital of Culture in 2014.[77] During the Latvia's Presid
 
 Geography
 
-Riga,_Latvia.jpg flows through Riga]]
+flows through Riga]]
 
 Administrative divisions
 
@@ -99,7 +97,7 @@ The climate of Riga is humid continental (Köppen _Dfb_). The coldest months are
 
 Government
 
-Riga_-_City_Hall.jpg]] Zolitūdes_traģēdijas_parlamentārās_izmeklēšanas_komisija_(16183536020).jpg]] The head of the city government in Riga is the mayor. Incumbent mayor is Oļegs Burovs, who is a member of the _Honor to serve Riga_ party.
+]] ]] The head of the city government in Riga is the mayor. Incumbent mayor is Oļegs Burovs, who is a member of the _Honor to serve Riga_ party.
 
 The city council is a democratically elected institution and is the final decision-making authority in the city. The Council consists of 60 members who are elected every four years. The Presidium of the Riga City Council consists of the Chairman of the Riga City Council and the representatives delegated by the political parties or party blocks elected to the City Council.
 
@@ -165,7 +163,7 @@ File:Latvias Banka.JPG|Bank of Latvia File:Riga stock exchange.jpg|Riga Stock Ex
 
 Culture
 
-Opera_Nacional,_Riga,_Letonia,_2012-08-07,_DD_15.JPG]]
+]]
 
 Theatres
 
@@ -183,11 +181,11 @@ Riga hosted the biannual 2014 World Choir Games from 9–19 July 2014 which coin
 
 Architecture
 
-Riga_Castle_seen_across_the_river_Daugava_.jpg]] Downtownofriga.png The radio and TV tower of Riga is the tallest structure in Latvia and the Baltic States, and one of the tallest in the European Union, reaching . Riga centre also has many great examples of Art Nouveau architecture, as well as a medieval old town.
+]] The radio and TV tower of Riga is the tallest structure in Latvia and the Baltic States, and one of the tallest in the European Union, reaching . Riga centre also has many great examples of Art Nouveau architecture, as well as a medieval old town.
 
 Art Nouveau
 
-Immeuble_art_nouveau_(Riga)_(7567163020).jpg designed by Mikhail Eisenstein]] It is generally recognized that Riga has largest collection of Art Nouveau buildings in the world{Citation needed}}. This is due to the fact that at the end of the 19th and beginning of the 20th centuries, when Art Nouveau was at the height of its popularity, Riga experienced an unprecedented financial and demographic boom.[100] In the period from 1857 to 1914 its population grew from 282,000 (256,200 in Riga itself and another 26,200 inhabitants beyond the city limits in patrimonial district and military town of Ust-Dvinsk) to 558,000 making it the 4th largest city in the Russian Empire (after Saint Petersburg, Moscow and Warsaw) and its largest port.[101] The middle class of Riga used their acquired wealth to build imposing apartment blocks outside the former city walls. Local architects, mostly graduates of Riga Technical University, adopted current European movements and in particular Art Nouveau.[102] Between 1910 and 1913, between 300 and 500 new buildings were built each year in Riga, most of them in Art Nouveau style and most of them outside the old town.[103]
+designed by Mikhail Eisenstein]] It is generally recognized that Riga has largest collection of Art Nouveau buildings in the world{Citation needed}}. This is due to the fact that at the end of the 19th and beginning of the 20th centuries, when Art Nouveau was at the height of its popularity, Riga experienced an unprecedented financial and demographic boom.[100] In the period from 1857 to 1914 its population grew from 282,000 (256,200 in Riga itself and another 26,200 inhabitants beyond the city limits in patrimonial district and military town of Ust-Dvinsk) to 558,000 making it the 4th largest city in the Russian Empire (after Saint Petersburg, Moscow and Warsaw) and its largest port.[101] The middle class of Riga used their acquired wealth to build imposing apartment blocks outside the former city walls. Local architects, mostly graduates of Riga Technical University, adopted current European movements and in particular Art Nouveau.[102] Between 1910 and 1913, between 300 and 500 new buildings were built each year in Riga, most of them in Art Nouveau style and most of them outside the old town.[103]
 
 
 Sports
@@ -224,7 +222,7 @@ Sports clubs
 
 Sports facilities
 
-Skonto_Stadions.jpg ]]
+]]
 
 -   Arena Riga – a multi-purpose arena built in 2006 as the main venue for the 2006 Men's World Ice Hockey Championships. It can hold up to 14,500 people and has hosted ice hockey, basketball and volleyball events, as well as Red Bull X-Fighters
 -   Skonto Stadium – a football stadium, built in 2000. It is the main stadium used for games of the Latvian national football team and currently the home stadium of Riga FC. The stadium was previously the home stadium of Skonto FC prior to the team's dissolution.
@@ -247,13 +245,13 @@ Sports events
 
 Transport
 
-25._trolejbuss_Krišjāņa_Valdemāra_ielas_un_Kalpaka_bulvāra_krustojumā.jpg Riga, with its central geographic position and concentration of population, has always been the infrastructural hub of Latvia. Several national roads begin in Riga, and European route E22 crosses Riga from the east and west, while the Via Baltica crosses Riga from the south and north.
+Riga, with its central geographic position and concentration of population, has always been the infrastructural hub of Latvia. Several national roads begin in Riga, and European route E22 crosses Riga from the east and west, while the Via Baltica crosses Riga from the south and north.
 
 As a city situated by a river, Riga also has several bridges. The oldest standing bridge is the Railway Bridge, which is also the only railroad-carrying bridge in Riga. The Stone Bridge (_Akmens tilts_) connects Old Riga and Pārdaugava; the Island Bridge (_Salu tilts_) connects Maskavas Forštate and Pārdaugava via Zaķusala; and the Shroud Bridge (_Vanšu tilts_) connects Old Riga and Pārdaugava via Ķīpsala. In 2008, the first stage of the new Southern Bridge (_Dienvidu tilts_) route across the Daugava was completed, and was opened to traffic on 17 November.[108]
 
 The Southern Bridge was the biggest construction project in the Baltic states in 20 years, and its purpose was to reduce traffic congestion in the city centre.[109][110] Another major construction project is the planned Riga Northern Transport Corridor;[111] its first segment detailed project was completed in 2015.[112]
 
-The Freeport of Riga facilitates cargo and passenger traffic by sea. Sea ferries currently connect Riga Passenger Terminal to Stockholm operated by Tallink.[113] Riga,_Škoda_15T.jpg tram in Riga]] Riga has one active airport that serves commercial airlines—the Riga International Airport (RIX), built in 1973. Renovation and modernization of the airport was completed in 2001, coinciding with the 800th anniversary of the city. In 2006, a new terminal extension was opened. Extension of the runway was completed in October 2008, and the airport is now able to accommodate large aircraft such as the Airbus A340, Boeing 747, 757, 767 and 777. Another terminal extension is under construction .[114] The annual number of passengers has grown from 310,000 in 1993 to 4.7 million in 2014, making Riga International Airport the largest in the Baltic States.
+The Freeport of Riga facilitates cargo and passenger traffic by sea. Sea ferries currently connect Riga Passenger Terminal to Stockholm operated by Tallink.[113] tram in Riga]] Riga has one active airport that serves commercial airlines—the Riga International Airport (RIX), built in 1973. Renovation and modernization of the airport was completed in 2001, coinciding with the 800th anniversary of the city. In 2006, a new terminal extension was opened. Extension of the runway was completed in October 2008, and the airport is now able to accommodate large aircraft such as the Airbus A340, Boeing 747, 757, 767 and 777. Another terminal extension is under construction .[114] The annual number of passengers has grown from 310,000 in 1993 to 4.7 million in 2014, making Riga International Airport the largest in the Baltic States.
 
 The former international airport of Riga, Spilve Airport, located from Riga city centre, is currently used for small aircraft, pilot training and recreational aviation. Riga was also home to a military air base during the Cold War — Rumbula Air Base.
 

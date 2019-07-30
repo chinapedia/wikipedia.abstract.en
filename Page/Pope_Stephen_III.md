@@ -56,7 +56,7 @@ Stephen died on 24 January [56] or 1 February 772.[57] He was succeeded by Adria
 
 Local cult of sainthood
 
-StephenIII.jpg, c. 1850)]] During the Middle Ages, Stephen III was considered a saint in his home island of Sicily. Various calendars, martyrologies, etc., such as the ancient calendar of the saints of Sicily, number Stephen among the saints, and assign his feast to 1 February. The citizens of Syracuse at one point attempted to convince the Holy See to officially endorse the sainthood of the pope, but this was not successful.[58]
+, c. 1850)]] During the Middle Ages, Stephen III was considered a saint in his home island of Sicily. Various calendars, martyrologies, etc., such as the ancient calendar of the saints of Sicily, number Stephen among the saints, and assign his feast to 1 February. The citizens of Syracuse at one point attempted to convince the Holy See to officially endorse the sainthood of the pope, but this was not successful.[58]
 
 
 Notes

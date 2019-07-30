@@ -3,7 +3,7 @@ POPE JOHN II (; died 8 May 535) was Bishop of Rome from 2 January 533 to his dea
 
 Life
 
-Roma_San_Clemente_Chorschranken.jpg He was born in Rome as MERCURIUS, son of Praeiectus. He became a priest at St. Clement's Basilica on the Caelian Hill. The basilica still retains memorials of "Johannes surnamed Mercurius". A reference to "Presbyter Mercurius" is found on a fragment of an ancient ciborium. Several marble slabs that enclose the _schola cantorum_ bear upon them, in the style of the sixth century, his monogram.[1]
+He was born in Rome as MERCURIUS, son of Praeiectus. He became a priest at St. Clement's Basilica on the Caelian Hill. The basilica still retains memorials of "Johannes surnamed Mercurius". A reference to "Presbyter Mercurius" is found on a fragment of an ancient ciborium. Several marble slabs that enclose the _schola cantorum_ bear upon them, in the style of the sixth century, his monogram.[1]
 
 Name
 

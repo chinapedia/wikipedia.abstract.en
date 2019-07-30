@@ -7,7 +7,7 @@ Pope Clement XI beatified him in 1713 after the confirmation of his cultus.
 
 Early life
 
-Duomo_di_arezzo,_interno,_sepolcro_di_gregorio_X,_inizi_XIV_secolo.JPG in Arezzo's Cathedral of Saint Donatus.]]
+in Arezzo's Cathedral of Saint Donatus.]]
 
 Teobaldo Visconti, a member of the Visconti of Piacenza, was born in Piacenza around 1210.
 
@@ -42,14 +42,14 @@ The election of Visconti, after a 2-year, 9-month struggle, came as a complete s
 
 Diplomatic communications with Mongols
 
-NoccoloAndMaffeoPoloWithGregoryX.JPG remitting a letter from Kubilai to Pope Gregory X in 1271.]] As soon as he was elected in 1271, Pope Gregory X received a letter from the Mongol Great Khan Kublai, remitted by Niccolò and Matteo Polo following their travels to his court in Mongolia. Kublai was asking for the dispatch of a hundred missionaries, and some oil from the lamp of the Holy Sepulcher. The new Pope could spare only two friars and some lamp oil. The friars turned back soon after the party left for Mongolia. The two Polos (this time accompanied by the young Marco Polo, who was then 17 years old) returned to the Mongol Empire and remitted the oil from the Pope to Kublai in 1275.[19]
+remitting a letter from Kubilai to Pope Gregory X in 1271.]] As soon as he was elected in 1271, Pope Gregory X received a letter from the Mongol Great Khan Kublai, remitted by Niccolò and Matteo Polo following their travels to his court in Mongolia. Kublai was asking for the dispatch of a hundred missionaries, and some oil from the lamp of the Holy Sepulcher. The new Pope could spare only two friars and some lamp oil. The friars turned back soon after the party left for Mongolia. The two Polos (this time accompanied by the young Marco Polo, who was then 17 years old) returned to the Mongol Empire and remitted the oil from the Pope to Kublai in 1275.[19]
 
 The Mongol Ilkhanate leader Abaqa sent a delegation with over a dozen members to the 1274 Council of Lyon, where plans were made for possible military cooperation between the Mongols and the Europeans.[20] After the Council, Abaqa sent another embassy led by the Georgian Vassali brothers to further notify Western leaders of military preparations. Gregory X answered that his legates would accompany the Crusade, and that they would be in charge of coordinating military operations with the Il-Khan.[21] However, these projects for a major new Crusade essentially came to a halt with the death of Gregory X on 10 January 1276. The money which had been saved to finance the expedition was instead distributed in Italy.[22]
 
 
 Pope and Council
 
-2593_Lead_alloy_Papal_Bulla_of_Gregory_X.jpg_(FindID_253118).jpg of Gregory X]]
+of Gregory X]]
 
 Sometime during his reign as pope, Gregory X wrote a letter against the charges of "blood libel" and persecution against the Jews.[23] Mindful of the scandals attached to the conclave at Viterbo that had elected him, realizing that tighter controls on the entire process of election were needed, he produced the papal bull "Ubi periculum" which was subsequently ratified by the Council of Lyons on 16 July 1274 and incorporated into the Code of Canon Law.
 
@@ -87,7 +87,7 @@ His Constitution with respect to conclaves legislated a number of important poin
 
 Death and burial
 
-Tomb_of_Pope_Gregory_X_in_Arezzo_Cathedral.jpg Pope Gregory's health had worsened after he left Lyons in April 1275. He was suffering from a hernia, and so he was forced to stop frequently on the way back toward Rome. He departed Vienne shortly after 30 September 1275 and arrived in Lausanne on 6 October 1275.[34] In Lausanne, he met with the Emperor-elect Rudolph, King of the Romans, and on 20 October 1275, received his oath of fealty.[35] On Tuesday, 12 November 1275, he was in Milan. His party reached Reggio Aemilia on 5 December 1275, and they were in Bologna on 11 December 1275. A severe rise in his temperature and the presence of the hernia forced him to a halt at Arezzo in time for Christmas of 1275. His condition rapidly declined following this and led to his death on 10 January 1276 in Arezzo. He is buried inside the Cathedral Church of Arezzo.
+Pope Gregory's health had worsened after he left Lyons in April 1275. He was suffering from a hernia, and so he was forced to stop frequently on the way back toward Rome. He departed Vienne shortly after 30 September 1275 and arrived in Lausanne on 6 October 1275.[34] In Lausanne, he met with the Emperor-elect Rudolph, King of the Romans, and on 20 October 1275, received his oath of fealty.[35] On Tuesday, 12 November 1275, he was in Milan. His party reached Reggio Aemilia on 5 December 1275, and they were in Bologna on 11 December 1275. A severe rise in his temperature and the presence of the hernia forced him to a halt at Arezzo in time for Christmas of 1275. His condition rapidly declined following this and led to his death on 10 January 1276 in Arezzo. He is buried inside the Cathedral Church of Arezzo.
 
 He was succeeded by the Dominican Peter of Tarantaise of Savoy (Pope Innocent V), a close collaborator of the pontiff throughout his pontificate.[36]
 

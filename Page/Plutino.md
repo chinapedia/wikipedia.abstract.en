@@ -5,7 +5,7 @@ Plutinos form the inner part of the Kuiper belt and represent about a quarter of
 
 Orbits
 
-ThePlutinos_Size_Albedo_Color2.svg and colour]]
+and colour]]
 
 Origin
 
@@ -13,7 +13,7 @@ It is thought that objects that are currently in mean orbital resonances with Ne
 
 Orbital characteristics
 
-Plutino_distributions_and_sizes.png While the majority of plutinos have low orbital inclinations, a substantial number of them follow orbits similar to that of Pluto, with inclinations in the 10–25° range and eccentricities around 0.2–0.25, resulting in perihelia inside (or close to) the orbit of Neptune and aphelia close to the main Kuiper belt's outer edge (where objects have 1:2 resonance with Neptune).
+While the majority of plutinos have low orbital inclinations, a substantial number of them follow orbits similar to that of Pluto, with inclinations in the 10–25° range and eccentricities around 0.2–0.25, resulting in perihelia inside (or close to) the orbit of Neptune and aphelia close to the main Kuiper belt's outer edge (where objects have 1:2 resonance with Neptune).
 
 The orbital periods of plutinos cluster around 247.3 years (1.5 × Neptune's orbital period), varying by at most a few years from this value.
 

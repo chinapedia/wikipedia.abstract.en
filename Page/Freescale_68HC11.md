@@ -1,4 +1,4 @@
-KL_Motorola_68HC11.jpg (DIP)]] The 68HC11[1] (6811 or HC11 for short) is an 8-bit microcontroller (µC) family introduced by Motorola in 1984.[2][3] Now produced by NXP Semiconductors, it descended from the Motorola 6800 microprocessor by way of the 6809. It is a CISC microcontroller. The 68HC11 devices are more powerful and more expensive than the 68HC08 microcontrollers, and are used in automotive applications, barcode readers, hotel card key writers, amateur robotics, and various other embedded systems. The MC68HC11A8 was the first microcontroller to include CMOS EEPROM.[4]
+(DIP)]] The 68HC11[1] (6811 or HC11 for short) is an 8-bit microcontroller (µC) family introduced by Motorola in 1984.[2][3] Now produced by NXP Semiconductors, it descended from the Motorola 6800 microprocessor by way of the 6809. It is a CISC microcontroller. The 68HC11 devices are more powerful and more expensive than the 68HC08 microcontrollers, and are used in automotive applications, barcode readers, hotel card key writers, amateur robotics, and various other embedded systems. The MC68HC11A8 was the first microcontroller to include CMOS EEPROM.[4]
 
 
 Architecture
@@ -21,8 +21,6 @@ Architecture
 |   ----------------- ------------------ ----------------- ---- ---- ---- ---- ---- ---- ------- ---- ---- ---- ---- ---- ---- ------------------ |
 +-------------------------------------------------------------------------------------------------------------------------------------------------+
 
-68HC11_Block_Diagram.jpg
-
 Internally, the HC11 instruction set is upward compatible with the 6800, with the addition of a Y index register. (Instructions using the Y register have opcodes prefixed with the byte 0x18). It has two eight-bit accumulators, A and B, two sixteen-bit index registers, X and Y, a condition code register, a 16-bit stack pointer, and a program counter. In addition, there is an 8 x 8-bit multiply (A x B), with full 16-bit result, and Fractional/Integer 16-bit by 16-bit Divide instructions. A range of 16-bit instructions treat the A and B registers as a combined 16-bit D register for comparison (X and Y registers may also be compared to 16-bit memory operands), addition, subtraction and shift operations, or can add the B accumulator to the X or Y index registers. Bit test operations have also been added, performing a logical AND function between operands, setting the correct conditions codes, but not modifying the operands.
 
 Different versions of the HC11 have different numbers of external ports, labeled alphabetically. The most common version has five ports, A, B, C, D, and E, but some have as few as 3 ports (version D3). Each port is eight-bits wide except for D, which is six bits (in some variations of the chip, D also has eight bits). It can be operated with an internal program and RAM (1 to 768 bytes) or an external memory of up to 64 kilobytes. With external memory, B and C are used as address and data bus. In this mode, port C is multiplexed to carry both the lower byte of the address and data.
@@ -30,7 +28,7 @@ Different versions of the HC11 have different numbers of external ports, labeled
 
 Implementations
 
-MC68HC11_microcontroller.jpg (PLCC)]]
+(PLCC)]]
 
 In the early 1990s Motorola produced an evaluation board kit for the 68HC11 with several UARTs, RAM, and an EPROM. The cost of the evaluation kit was $68.11.[5]
 

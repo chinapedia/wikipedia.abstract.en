@@ -5,7 +5,7 @@ PLCs were first developed in the automobile manufacturing industry to provide fl
 
 Overview
 
-Siemens_Simatic_S7-416-3.jpg PLCs can range from small modular devices with tens of inputs and outputs (I/O), in a housing integral with the processor, to large rack-mounted modular devices with a count of thousands of I/O, and which are often networked to other PLC and SCADA systems.
+PLCs can range from small modular devices with tens of inputs and outputs (I/O), in a housing integral with the processor, to large rack-mounted modular devices with a count of thousands of I/O, and which are often networked to other PLC and SCADA systems.
 
 They can be designed for multiple arrangements of digital and analog I/O, extended temperature ranges, immunity to electrical noise, and resistance to vibration and impact. Programs to control machine operation are typically stored in battery-backed-up or non-volatile memory.
 
@@ -107,7 +107,7 @@ PLC topics
 
 Features
 
-PLC_Control_Panel.png, controller, relay units for in- and output]] Control-panel-plc.jpg regulation.]] The main difference from most other computing devices is that PLCs are intended-for and therefore tolerant-of more severe conditions (such as dust, moisture, heat, cold), while offering extensive input/output (I/O) to connect the PLC to sensors and actuators. PLC input can include simple digital elements such as limit switches, analog variables from process sensors (such as temperature and pressure), and more complex data such as that from positioning or machine vision systems.[16] PLC output can include elements such as indicator lamps, sirens, electric motors, pneumatic or hydraulic cylinders, magnetic relays, solenoids, or analog outputs. The input/output arrangements may be built into a simple PLC, or the PLC may have external I/O modules attached to a fieldbus or computer network that plugs into the PLC.
+, controller, relay units for in- and output]] regulation.]] The main difference from most other computing devices is that PLCs are intended-for and therefore tolerant-of more severe conditions (such as dust, moisture, heat, cold), while offering extensive input/output (I/O) to connect the PLC to sensors and actuators. PLC input can include simple digital elements such as limit switches, analog variables from process sensors (such as temperature and pressure), and more complex data such as that from positioning or machine vision systems.[16] PLC output can include elements such as indicator lamps, sirens, electric motors, pneumatic or hydraulic cylinders, magnetic relays, solenoids, or analog outputs. The input/output arrangements may be built into a simple PLC, or the PLC may have external I/O modules attached to a fieldbus or computer network that plugs into the PLC.
 
 Scan time
 
@@ -162,7 +162,7 @@ Some special processes need to work permanently with minimum unwanted down time.
 
 PLC compared with other control systems
 
-BMA_Automation_Allen_Bradley_PLC_3.JPG Control-panel.jpg.]] PLCs are well adapted to a range of automation tasks. These are typically industrial processes in manufacturing where the cost of developing and maintaining the automation system is high relative to the total cost of the automation, and where changes to the system would be expected during its operational life. PLCs contain input and output devices compatible with industrial pilot devices and controls; little electrical design is required, and the design problem centers on expressing the desired sequence of operations. PLC applications are typically highly customized systems, so the cost of a packaged PLC is low compared to the cost of a specific custom-built controller design. On the other hand, in the case of mass-produced goods, customized control systems are economical. This is due to the lower cost of the components, which can be optimally chosen instead of a "generic" solution, and where the non-recurring engineering charges are spread over thousands or millions of units.
+.]] PLCs are well adapted to a range of automation tasks. These are typically industrial processes in manufacturing where the cost of developing and maintaining the automation system is high relative to the total cost of the automation, and where changes to the system would be expected during its operational life. PLCs contain input and output devices compatible with industrial pilot devices and controls; little electrical design is required, and the design problem centers on expressing the desired sequence of operations. PLC applications are typically highly customized systems, so the cost of a packaged PLC is low compared to the cost of a specific custom-built controller design. On the other hand, in the case of mass-produced goods, customized control systems are economical. This is due to the lower cost of the components, which can be optimally chosen instead of a "generic" solution, and where the non-recurring engineering charges are spread over thousands or millions of units.
 
 For high volume or very simple fixed automation tasks, different techniques are used. For example, a cheap consumer dishwasher would be controlled by an electromechanical cam timer costing only a few dollars in production quantities.
 

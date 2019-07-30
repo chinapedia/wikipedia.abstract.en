@@ -12,7 +12,7 @@ The dorsal and anal fins are divided into anterior spiny and posterior soft-raye
 
 Taxonomy
 
-Classification of this group is controversial. As traditionally defined before the introduction of cladistics, the Perciformes are almost certainly paraphyletic. Other orders that should possibly be included as suborders are the Scorpaeniformes, Tetraodontiformes, and Pleuronectiformes. Of the presently recognized suborders, several may be paraphyletic, as well. These are grouped by suborder/superfamily, generally following the text _Fishes of the World_.[3][4][5] Perciformes_01.jpg.]] Pomacanthus_semicirculatus_1.jpg'']]
+Classification of this group is controversial. As traditionally defined before the introduction of cladistics, the Perciformes are almost certainly paraphyletic. Other orders that should possibly be included as suborders are the Scorpaeniformes, Tetraodontiformes, and Pleuronectiformes. Of the presently recognized suborders, several may be paraphyletic, as well. These are grouped by suborder/superfamily, generally following the text _Fishes of the World_.[3][4][5] .]] '']]
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | +---------------------------------------------------------------+------------------------------------------------------------------------------------------------------+ |

@@ -1,4 +1,4 @@
-Assorted_polygons.svg is a 2-dimensional polytope. Some polygons of different kinds: open (excluding its boundary), bounding circuit only (ignoring its interior), closed (both), and self-intersecting with varying densities of different regions.]] In elementary geometry, a POLYTOPE is a geometric object with "flat" sides. It is a generalization in any number of dimensions of the three-dimensional polyhedron. Polytopes may exist in any general number of dimensions _n_ as an _n_-dimensional polytope or _N_-POLYTOPE. Flat sides mean that the sides of a (_k_+1)-polytope consist of _k_-polytopes that may have (_k_-1)-polytopes in common. For example, a two-dimensional polygon is a 2-polytope and a three-dimensional polyhedron is a 3-polytope.
+is a 2-dimensional polytope. Some polygons of different kinds: open (excluding its boundary), bounding circuit only (ignoring its interior), closed (both), and self-intersecting with varying densities of different regions.]] In elementary geometry, a POLYTOPE is a geometric object with "flat" sides. It is a generalization in any number of dimensions of the three-dimensional polyhedron. Polytopes may exist in any general number of dimensions _n_ as an _n_-dimensional polytope or _N_-POLYTOPE. Flat sides mean that the sides of a (_k_+1)-polytope consist of _k_-polytopes that may have (_k_-1)-polytopes in common. For example, a two-dimensional polygon is a 2-polytope and a three-dimensional polyhedron is a 3-polytope.
 
 Some theories further generalize the idea to include such objects as unbounded apeirotopes and tessellations, decompositions or tilings of curved manifolds including spherical polyhedra, and set-theoretic abstract polytopes.
 
@@ -137,7 +137,7 @@ If the dual is reversed, then the original polytope is recovered. Thus, polytope
 
 Self-dual polytopes
 
-Schlegel_wireframe_5-cell.png (4-simplex) is self-dual with 5 vertices and 5 tetrahedral cells.]] If a polytope has the same number of vertices as facets, of edges as ridges, and so forth, and the same connectivities, then the dual figure will be similar to the original and the polytope is self-dual.
+(4-simplex) is self-dual with 5 vertices and 5 tetrahedral cells.]] If a polytope has the same number of vertices as facets, of edges as ridges, and so forth, and the same connectivities, then the dual figure will be similar to the original and the polytope is self-dual.
 
 Some common self-dual polytopes include:
 

@@ -1,4 +1,4 @@
-Johannes-Agricola-Eisleben-.jpg JOHANN(ES)_' Agricola_' (originally Schneider, then Schnitter) (April 20, 1494 – September 22, 1566)[1] was a German Protestant Reformer in the Lutheran tradition during the Protestant Reformation. He was a follower and friend of Martin Luther, who became his antagonist in the matter of the binding obligation of the law on Christians.
+JOHANN(ES)_' Agricola_' (originally Schneider, then Schnitter) (April 20, 1494 – September 22, 1566)[1] was a German Protestant Reformer in the Lutheran tradition during the Protestant Reformation. He was a follower and friend of Martin Luther, who became his antagonist in the matter of the binding obligation of the law on Christians.
 
 
 Biography
@@ -9,7 +9,7 @@ Agricola was born at Eisleben,[2] whence he is sometimes called Magister Islebiu
 
 Controversy
 
-Martin_Luther_letter_september_1543_a.png In 1536 he was recalled to teach in Wittenberg, and was welcomed by Luther.[5] Almost immediately, however, a controversy, which had been begun ten years before and been temporarily silenced, broke out more violently than ever. Agricola was the first to teach the views which Luther was the first to stigmatize by the name Antinomian, maintaining that while non-Christians were still held to the Mosaic law, Christians were entirely free from it, being under the gospel alone. (See also: Law and Gospel). After he wrote an attack on Luther shortly after Luther had given him shelter when he was fleeing persecution, Luther had nothing further to do with him.
+In 1536 he was recalled to teach in Wittenberg, and was welcomed by Luther.[5] Almost immediately, however, a controversy, which had been begun ten years before and been temporarily silenced, broke out more violently than ever. Agricola was the first to teach the views which Luther was the first to stigmatize by the name Antinomian, maintaining that while non-Christians were still held to the Mosaic law, Christians were entirely free from it, being under the gospel alone. (See also: Law and Gospel). After he wrote an attack on Luther shortly after Luther had given him shelter when he was fleeing persecution, Luther had nothing further to do with him.
 
 Restoration and later life
 

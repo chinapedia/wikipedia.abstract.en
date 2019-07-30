@@ -7,11 +7,9 @@ In 2011 the island's economy, as measured by GVA, declined by 1% to £3.6 billio
 
 Financial and legal services
 
-Banque_Rouoyale_d'Êcosse,_Saint_Hélyi,_Jèrri_4.jpg Jersey based financial organisations provide services to customers worldwide. In June 2008 it was reported that 12,070 people were employed full-time, within this sector.[5] The Royal Bank of Canada (RBC) is a major employer with some 900 staff employed in Jersey, as of March 2009.[6]
+Jersey based financial organisations provide services to customers worldwide. In June 2008 it was reported that 12,070 people were employed full-time, within this sector.[5] The Royal Bank of Canada (RBC) is a major employer with some 900 staff employed in Jersey, as of March 2009.[6]
 
 The finance sector profits rose to about £1.5 billion in 2007, representing a real-term increase of 12% on 2006.[7]
-
-JFSC.jpg
 
 Jersey is one of the top worldwide Offshore financial centers[8] It is described by some as a tax haven.[9] It attracts deposits from customers outside of the island, seeking the advantages such places offer, like reduced tax burdens. Its taxation laws have been widely criticised by various people and groups,[10] however the former Chief Minister of Jersey, Terry Le Sueur, has countered these criticisms, saying that "Jersey [is] among cooperative finance centres".[11] And in September 2013 the UK Prime Minister, David Cameron, said it was not fair any longer to refer to any of the overseas territories or Crown dependencies as tax havens, as they have taken action to make sure that they have fair and open tax systems.House of Commons Hansard 9 Sept 2013 Its information privacy law also provides exemptions that other European countries do not, for example in the way Trusts do not have to disclose as much information to Benficiaries about use of their personal data as is normally required under such laws.[12]
 
@@ -57,7 +55,7 @@ As of 2009 the Jersey Royal potato is the biggest crop export.
 
 Tourism
 
-Hotel_de_france.JPG Jersey saw a boom in tourism during the post-World War II years. This boom has been winding down since the late-1980s. Many of the larger hotels, which were constructed during the boom, have now been demolished.
+Jersey saw a boom in tourism during the post-World War II years. This boom has been winding down since the late-1980s. Many of the larger hotels, which were constructed during the boom, have now been demolished.
 
 Visitors to the island arrive either by sea at Saint Helier, or by air at Jersey Airport. These routes are subsidised by the States of Jersey.[27] Exact figures for subsidies are not in the public domain.
 

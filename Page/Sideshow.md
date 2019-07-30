@@ -1,11 +1,11 @@
-Sideshow_at_the_Erie_County_Fair.JPG Hamburg, New York]]
+Hamburg, New York]]
 
 In North America, a SIDESHOW is an extra, secondary production associated with a circus, carnival, fair, or other such attraction.
 
 
 Types
 
-Old_sideshow_ad,_firebreathing_man.JPG, Florida, 1966]] Elly_del_Sarto.jpg There are four main types of classic sideshow attractions:
+, Florida, 1966]] There are four main types of classic sideshow attractions:
 
 -   The "Ten-in-One" offers a program of ten sequential acts under one tent for a single admission price. The ten-in-one might be partly a freak show exhibiting "human oddities" (including "born freaks" such as midgets, giants or persons with other deformities, or "made freaks" like tattooed people, fat people or "human skeletons"- extremely thin men often "married" to the fat lady, like Isaac W. Sprague). However, for variety's sake, the acts in a ten-in-one would also include "working acts" who would perform magic tricks or daredevil stunts. In addition, the freak show performers might also perform acts or stunts, and would often sell souvenirs like "giant's rings" or "pitch cards" with their photos and life stories. The ten-in-one would often end in a "blowoff" or "ding," an extra act not advertised on the outside, which could be viewed for an additional fee. The blowoff act would be described provocatively, often as something deemed too strong for women and children, such as pickled punks.
 -   The "Single-O" is a single attraction, for example a single curiosity like the "Bonnie and Clyde Death Car" or Hitler's staff car,[1][2] a "Giant Rat" (actually usually a nutria) or other unusual animal, a "What Is It?" (often a convincing but artificial monstrosity like the Fiji Mermaid) or a geek show often billed as "See the Victim of Drug Abuse."
@@ -20,7 +20,7 @@ Acts
 
 Decline and revival
 
-Side_Show_gorilla_poster,_Florida,_1960s.JPG, 1966]]
+, 1966]]
 
 Interest in sideshows declined as television made it easy (and free) to see the world's most exotic attractions. Moreover, viewing "human oddities" became distasteful as the public conscience changed, and many localities passed laws forbidding the exhibition of freaks.[4] The performers often protested (to no avail) that they had no objection to the sideshow, especially since it provided not only a good income for them, but in many cases it provided their only possible job. The sideshow seemed destined for oblivion, until only a few exemplars of the ten-in-one remained. A greater number of "Single O" attractions still tour carnivals.
 

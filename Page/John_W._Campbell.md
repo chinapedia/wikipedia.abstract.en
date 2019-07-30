@@ -19,7 +19,7 @@ Campbell and Doña Stewart married in 1931. They divorced in 1949 and he married
 
 Writing career
 
-Amazing_stories_193001.jpg_]] John_W_Campbell_193102.jpg_]] Amazing_stories_193610.jpg'']]Editor T. O'Conor Sloane lost Campbell's first manuscript that he accepted for _Amazing Stories_, entitled "Invaders of the Infinite". "When the Atoms Failed" appeared in January 1930, followed by five more during 1930. Three were part of a space opera series featuring the characters Arcot, Morey, and Wade. A complete novel in the series, _Islands of Space_, was the cover story in the Spring 1931 _Quarterly_.[12] During 1934–35 a serial novel, _The Mightiest Machine_, ran in _Astounding Stories_, edited by F. Orlin Tremaine, and several stories featuring lead characters Penton and Blake appeared from late 1936 in _Thrilling Wonder Stories_, edited by Mort Weisinger.[13]
+_]] _]] '']]Editor T. O'Conor Sloane lost Campbell's first manuscript that he accepted for _Amazing Stories_, entitled "Invaders of the Infinite". "When the Atoms Failed" appeared in January 1930, followed by five more during 1930. Three were part of a space opera series featuring the characters Arcot, Morey, and Wade. A complete novel in the series, _Islands of Space_, was the cover story in the Spring 1931 _Quarterly_.[12] During 1934–35 a serial novel, _The Mightiest Machine_, ran in _Astounding Stories_, edited by F. Orlin Tremaine, and several stories featuring lead characters Penton and Blake appeared from late 1936 in _Thrilling Wonder Stories_, edited by Mort Weisinger.[13]
 
 The early work for _Amazing_ established Campbell's reputation as a writer of space adventure. When in 1934 he began to publish stories with a different tone he wrote as Don A. Stuart, a pseudonym derived from his wife's maiden name.[14]
 
@@ -34,8 +34,6 @@ Tremaine hired Campbell to succeed him[15] as the editor of _Astounding_ from it
 Lester del Rey's first story, in March 1938, was an early find for Campbell, and in 1939, he published such an extraordinary group of new writers for the first time that the period is generally regarded as the beginning of the "Golden Age of Science Fiction", and the July 1939 issue in particular. The July issue contained A. E. van Vogt's first story, "Black Destroyer", and Asimov's early story "Trends"; August brought Robert A. Heinlein's first story, "Life-Line", and the next month Theodore Sturgeon's first story appeared.
 
 Also in 1939, Campbell started the fantasy magazine _Unknown_ (later _Unknown Worlds_).[23] Although _Unknown_ was canceled after only four years, a victim of wartime paper shortages, the magazine's editorial direction was significant in the evolution of modern fantasy.[24]
-
-Astounding_November_1949.jpg
 
 
 Influence

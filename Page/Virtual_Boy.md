@@ -44,11 +44,9 @@ The central processing unit is a 32-bit RISC chip,[64] making the Virtual Boy Ni
 
 Display
 
-Virtual-Boy-Eyes.jpg The Virtual Boy is the first video game console that was supposed to be capable of displaying stereoscopic "3D" graphics, marketed as a form of virtual reality.[67] Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, the Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image. Nintendo claimed that a color display would have made the system too expensive and resulted in "jumpy" images, so the company opted for a monochrome display.[68]
+The Virtual Boy is the first video game console that was supposed to be capable of displaying stereoscopic "3D" graphics, marketed as a form of virtual reality.[67] Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, the Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image. Nintendo claimed that a color display would have made the system too expensive and resulted in "jumpy" images, so the company opted for a monochrome display.[68]
 
 Control
-
-Virtual-Boy-Controller.jpg
 
 The Virtual Boy was meant to be used sitting down at a table,[69][70] although Nintendo said it would release a harness for players to use while standing.[71] One of the unique features of the controller is the extendable power supply that slides onto the back. It houses the six AA batteries required to power the system. This can be substituted with a wall adapter, though a "slide-on" attachment is required for the switchout. Once the slide-on adapter is installed, a power adapter can be attached to provide constant power.
 
@@ -63,7 +61,7 @@ During development, Nintendo promised the ability to link systems for competitiv
 
 Games
 
-Mario's_Tennis_screenshot.png'', the North American pack-in for Virtual Boy, on an emulator. Converted to anaglyphic red and blue format, this simulates the Virtual Boy's 3D display on a 2D display.
+'', the North American pack-in for Virtual Boy, on an emulator. Converted to anaglyphic red and blue format, this simulates the Virtual Boy's 3D display on a 2D display.
 ]]
 
 Nintendo initially showcased three games for the Virtual Boy. It planned to release three titles at launch, and two or three per month thereafter.[79] Given the system's short lifespan, only 22 games were released. Of them, 19 games were released in the Japanese market, while 14 were released in North America.[80] Third party support was extremely limited compared to previous Nintendo platforms. According to Gunpei Yokoi, Nintendo president Hiroshi Yamauchi had dictated that only a select few third party developers be shown the Virtual Boy hardware prior to its formal unveiling, in order to limit the risk of poor-quality software appearing on the system.[81]
@@ -75,7 +73,7 @@ The hobbyist community at _Planet Virtual Boy_ has developed Virtual Boy softwar
 
 Reception
 
-Virtual_Boy_-_Akihabara,_Otaku_Style.jpg The Virtual Boy was overwhelmingly panned by critics and was a commercial failure.[84] The Virtual Boy failed for a number of reasons, among them "its high price, the discomfort caused by play [...] and what was widely judged to have been a poorly handled marketing campaign."[85]
+The Virtual Boy was overwhelmingly panned by critics and was a commercial failure.[84] The Virtual Boy failed for a number of reasons, among them "its high price, the discomfort caused by play [...] and what was widely judged to have been a poorly handled marketing campaign."[85]
 
 Gamers who previewed the system at the Shoshinkai show in 1994 complained that the _Mario_ demo was not realistic enough, was not in full color, and didn't allow for "tracking" (the movement of the image when the player turns his or her head).[86] In the lead editorial of _Electronic Gaming Monthly_ following the show, Ed Semrad predicted that the Virtual Boy would have poor launch sales due to the monochrome screen, lack of true portability, unimpressive lineup of games seen at the Shoshinkai show, and the price, which he argued was as low as it could get given the hardware but still too expensive for the experience the system offered.[87] _Next Generation_{{'}}s editors were also dubious of the Virtual Boy's prospects when they left the show, and concluded their article on the system by commenting, "But who will buy it? It's not portable, it's awkward to use, it's 100% antisocial (unlike multiplayer SNES/Genesis games), it's too expensive and - most importantly - the 'VR' (i.e. 3D effect) doesn't add to the game at all: it's just a novelty."[88]
 

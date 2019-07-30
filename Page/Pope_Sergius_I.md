@@ -19,7 +19,7 @@ Sergius's consecration ended the last disputed _sede vacante_ of the Byzantine P
 
 Papacy (687–701)
 
-Rogier_van_der_Weyden_-_Dream_of_Pope_Sergius_-_WGA25713.jpg, 1430s). According to legend, a dream told Sergius that Lambert of Maastricht, Bishop of Tongeren-Maastricht-Liège, had been assassinated, and that Hubertus was to be consecrated in his place.[13]]] On 10 April 689, Sergius baptised King Cædwalla of Wessex in Rome. He also ordained Saint Willibrord as bishop of the Frisians. After Berhtwald was consecrated Archbishop of Canterbury by Godwin, Archbishop of Lyon, he then traveled to Rome and received the pallium from Pope Sergius.[14]
+, 1430s). According to legend, a dream told Sergius that Lambert of Maastricht, Bishop of Tongeren-Maastricht-Liège, had been assassinated, and that Hubertus was to be consecrated in his place.[13]]] On 10 April 689, Sergius baptised King Cædwalla of Wessex in Rome. He also ordained Saint Willibrord as bishop of the Frisians. After Berhtwald was consecrated Archbishop of Canterbury by Godwin, Archbishop of Lyon, he then traveled to Rome and received the pallium from Pope Sergius.[14]
 
 He was active in ending the Schism of the Three Chapters with Old-Aquileia in 698.[15]
 

@@ -7,75 +7,75 @@ The incumbent premier of Victoria since the 2014 election is Daniel Andrews of t
 
 List of premiers of Victoria
 
-  No.   Premier   Portrait                    Party                                                                            Term of office         Days in office[2]
-  ----- --------- --------------------------- -------------------------------------------------------------------------------- ---------------------- -------------------
-        1         William Haines              Williamhaines.jpg                                                                                       30 November 1855
-        2         John O'Shanassy             Johnoshanassy.jpg                                                                                       11 March 1857
-        (1)       William Haines              Williamhaines.jpg                                                                                       29 April 1857
-        (2)       John O'Shanassy             Johnoshanassy.jpg                                                                                       10 March 1858
-        3         William Nicholson           Williamnicholson.jpg                                                                                    27 October 1859
-        4         Richard Heales              Richardheales.jpg                                                                                       26 November 1860
-        (2)       John O'Shanassy             Johnoshanassy.jpg                                                                                       14 November 1861
-        5         James McCulloch             Jamesmcculloch.jpg                                                                                      27 June 1863
-        6         Charles Sladen              Charlessladen.jpg                                                                                       6 May 1868
-        (5)       James McCulloch             Jamesmcculloch.jpg                                                                                      11 July 1868
-        7         John Alexander MacPherson   Johnmacpherson.jpg                                                                                      20 September 1869
-        (5)       James McCulloch             Jamesmcculloch.jpg                                                                                      9 April 1870
-        8         Charles Gavan Duffy         Charles_Gavan_Duffy_1846.JPG                                                                            19 June 1871
-        9         James Francis               Jamesfrancis.jpg                                                                                        10 June 1872
-        10        George Kerferd              Georgekerferd.jpg                                                                                       31 July 1874
-        11        Graham Berry                12Grahamberry.jpg                                                                                       7 August 1875
-        (5)       James McCulloch             Jamesmcculloch.jpg                                                                                      20 October 1875
-        (11)      Graham Berry                12Grahamberry.jpg                                                                                       21 May 1877
-        12        James Service               Jamesservice.jpg                                                                                        5 March 1880
-        (11)      Graham Berry                12Grahamberry.jpg                                                                                       3 August 1880
-        13        Bryan O'Loghlen             Bryanologhlen.jpg                                                                                       9 July 1881
-        (12)      James Service               Jamesservice.jpg                                                                                        8 March 1883
-        14        Duncan Gillies              Duncangillies.jpg                                                                                       18 February 1886
-        15        James Munro                 Jamesmunro.jpg                                                                                          5 November 1890
-        16        William Shiels              16Williamshiels.jpg                                                                                     16 February 1892
-        17        James Patterson             17Jamespatterson.jpg                                                                                    23 January 1893
-        18        George Turner               Georgeturner.jpg                                                                                        27 September 1894
-        19        Allan McLean                19Allanmclean.jpg                                                                                       5 December 1899
-        (18)      George Turner               Georgeturner.jpg                                                                                        19 November 1900
-        20        Alexander Peacock           20Alexanderpeacock.jpg                                                                                  12 February 1901
-        21        William Irvine              21Williamirvine.jpg                                                              Reform                 10 June 1902
-        22        Thomas Bent                 22Thomasbent.jpg                                                                 Reform                 16 February 1904
-        23        John Murray                 John_Murray_Premier.jpg                                                          Commonwealth Liberal   8 January 1909
-        24        William Watt                24Williamwatt.jpg                                                                Commonwealth Liberal   18 May 1912
-        25        George Elmslie              25Georgeelmslie.jpg                                                              Labor                  9 December 1913
-        (24)      William Watt                24Williamwatt.jpg                                                                Commonwealth Liberal   22 December 1913
-        (20)      Alexander Peacock           20Alexanderpeacock.jpg                                                           Commonwealth Liberal   18 June 1914
-        26        John Bowser                 26Johnbowser.jpg                                                                 Nationalist            29 November 1917
-        27        Harry Lawson                27Harrylawson.jpg                                                                Nationalist            21 March 1918
-        (20)      Alexander Peacock           20Alexanderpeacock.jpg                                                           Nationalist            28 April 1924
-        28        George Prendergast          28Georgeprendergast.jpg                                                          Labor                  18 July 1924
-        29        John Allan                  29Johnallan.jpg                                                                  Country                18 November 1924
-        30        Edmond Hogan                30Nedhogan.jpg                                                                   Labor                  20 May 1927
-        31        William McPherson           Will_McPherson.jpg                                                               Nationalist            22 November 1928
-        (30)      Edmond Hogan                30Nedhogan.jpg                                                                   Labor                  12 December 1929
-        32        Stanley Argyle              Sir_Stanley_Argyle.jpg                                                           United Australia       19 May 1932
-        33        Albert Dunstan              Albert_Dunstan_(cropped).jpg                                                     Country                2 April 1935
-        34        John Cain Sr.               John_Cain_1954.jpg                                                               Labor                  14 September 1943
-        (33)      Albert Dunstan              Albert_Dunstan_(cropped).jpg                                                     Country                18 September 1943
-        35        Ian Macfarlan               Imcfarlanemp.jpg                                                                 Liberal                2 October 1945
-        (34)      John Cain Sr.               John_Cain_1954.jpg                                                               Labor                  21 November 1945
-        36        Thomas Hollway              TomHollway.jpg                                                                   Liberal                20 November 1947
-        37        John McDonald               Johnmcdonaldmp.jpg                                                               Country                27 June 1950
-        (36)      Thomas Hollway              TomHollway.jpg                                                                   Independent            28 October 1952
-        (37)      John McDonald               Johnmcdonaldmp.jpg                                                               Country                31 October 1952
-        (34)      John Cain Sr.               John_Cain_1954.jpg                                                               Labor                  17 December 1952
-        38        Henry Bolte                 Henry_Bolte.jpg                                                                  Liberal                7 June 1955
-        39        Rupert Hamer                Dick_Hamer.jpg                                                                   Liberal                23 August 1972
-        40        Lindsay Thompson            No_image.png                                                                     Liberal                5 June 1981
-        41        John Cain Jr.               John_Cain_Junior_June_2016.jpg                                                   Labor                  8 April 1982
-        42        Joan Kirner                 Joan_Kirner,_1992_Swinburne.png                                                  Labor                  10 August 1990
-        43        Jeff Kennett                J.kennett.jpg                                                                    Liberal                6 October 1992
-        44        Steve Bracks                Steve_Bracks_at_a_Vietnam_Veterans_Day_ceremony,_August_2006.jpg                 Labor                  20 October 1999
-        45        John Brumby                 JohnBrumby2007crop.jpg                                                           Labor                  30 July 2007
-        46        Ted Baillieu                Chinese_New_Year_2013_85_-_Ted_Baillieu_(8459813505).jpg                         Liberal                2 December 2010
-        47        Denis Napthine              Premier_Denis_Napthine.jpg                                                       Liberal                6 March 2013
-        48        Daniel Andrews              Daniel_Andrews,_Melbourne_International_Games_Week_2015_Launch_(cropped_2).jpg   Labor                  4 December 2014
+  No.   Premier   Portrait                    Party   Term of office         Days in office[2]
+  ----- --------- --------------------------- ------- ---------------------- -------------------
+        1         William Haines                                             30 November 1855
+        2         John O'Shanassy                                            11 March 1857
+        (1)       William Haines                                             29 April 1857
+        (2)       John O'Shanassy                                            10 March 1858
+        3         William Nicholson                                          27 October 1859
+        4         Richard Heales                                             26 November 1860
+        (2)       John O'Shanassy                                            14 November 1861
+        5         James McCulloch                                            27 June 1863
+        6         Charles Sladen                                             6 May 1868
+        (5)       James McCulloch                                            11 July 1868
+        7         John Alexander MacPherson                                  20 September 1869
+        (5)       James McCulloch                                            9 April 1870
+        8         Charles Gavan Duffy                                        19 June 1871
+        9         James Francis                                              10 June 1872
+        10        George Kerferd                                             31 July 1874
+        11        Graham Berry                                               7 August 1875
+        (5)       James McCulloch                                            20 October 1875
+        (11)      Graham Berry                                               21 May 1877
+        12        James Service                                              5 March 1880
+        (11)      Graham Berry                                               3 August 1880
+        13        Bryan O'Loghlen                                            9 July 1881
+        (12)      James Service                                              8 March 1883
+        14        Duncan Gillies                                             18 February 1886
+        15        James Munro                                                5 November 1890
+        16        William Shiels                                             16 February 1892
+        17        James Patterson                                            23 January 1893
+        18        George Turner                                              27 September 1894
+        19        Allan McLean                                               5 December 1899
+        (18)      George Turner                                              19 November 1900
+        20        Alexander Peacock                                          12 February 1901
+        21        William Irvine                      Reform                 10 June 1902
+        22        Thomas Bent                         Reform                 16 February 1904
+        23        John Murray                         Commonwealth Liberal   8 January 1909
+        24        William Watt                        Commonwealth Liberal   18 May 1912
+        25        George Elmslie                      Labor                  9 December 1913
+        (24)      William Watt                        Commonwealth Liberal   22 December 1913
+        (20)      Alexander Peacock                   Commonwealth Liberal   18 June 1914
+        26        John Bowser                         Nationalist            29 November 1917
+        27        Harry Lawson                        Nationalist            21 March 1918
+        (20)      Alexander Peacock                   Nationalist            28 April 1924
+        28        George Prendergast                  Labor                  18 July 1924
+        29        John Allan                          Country                18 November 1924
+        30        Edmond Hogan                        Labor                  20 May 1927
+        31        William McPherson                   Nationalist            22 November 1928
+        (30)      Edmond Hogan                        Labor                  12 December 1929
+        32        Stanley Argyle                      United Australia       19 May 1932
+        33        Albert Dunstan                      Country                2 April 1935
+        34        John Cain Sr.                       Labor                  14 September 1943
+        (33)      Albert Dunstan                      Country                18 September 1943
+        35        Ian Macfarlan                       Liberal                2 October 1945
+        (34)      John Cain Sr.                       Labor                  21 November 1945
+        36        Thomas Hollway                      Liberal                20 November 1947
+        37        John McDonald                       Country                27 June 1950
+        (36)      Thomas Hollway                      Independent            28 October 1952
+        (37)      John McDonald                       Country                31 October 1952
+        (34)      John Cain Sr.                       Labor                  17 December 1952
+        38        Henry Bolte                         Liberal                7 June 1955
+        39        Rupert Hamer                        Liberal                23 August 1972
+        40        Lindsay Thompson                    Liberal                5 June 1981
+        41        John Cain Jr.                       Labor                  8 April 1982
+        42        Joan Kirner                         Labor                  10 August 1990
+        43        Jeff Kennett                        Liberal                6 October 1992
+        44        Steve Bracks                        Labor                  20 October 1999
+        45        John Brumby                         Labor                  30 July 2007
+        46        Ted Baillieu                        Liberal                2 December 2010
+        47        Denis Napthine                      Liberal                6 March 2013
+        48        Daniel Andrews                      Labor                  4 December 2014
 
 
 Living former premiers

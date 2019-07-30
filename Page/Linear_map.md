@@ -106,8 +106,6 @@ The matrices of a linear transformation can be represented visually:
 3.  Transition matrix from B′ to B: P
 4.  Transition matrix from B to B′: P^( − 1)
 
-The relationship between matrices in a linear transformation
-
 Such that starting in the bottom left corner [v⃗]_(B′) and looking for the bottom right corner [T(v⃗)]_(B′), one would left-multiply—that is, A′[v⃗]_(B′) = [T(v⃗)]_(B′). The equivalent method would be the "longer" method going clockwise from the same point such that [v⃗]_(B′) is left-multiplied with P^( − 1)AP, or P^( − 1)AP[v⃗]_(B′) = [T(v⃗)]_(B′).
 
 

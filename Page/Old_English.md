@@ -14,15 +14,13 @@ Another theory is that the derivation of 'narrow' is the more likely connection 
 
 History
 
-The approximate extent of Germanic languages in the early 10th century:
-
 Old English was not static, and its usage covered a period of 700 years, from the Anglo-Saxon settlement of Britain in the 5th century to the late 11th century, some time after the Norman invasion. While indicating that the establishment of dates is an arbitrary process, Albert Baugh dates Old English from 450 to 1150, a period of full inflections, a synthetic language.[10] Perhaps around 85 per cent of Old English words are no longer in use, but those that survived are basic elements of Modern English vocabulary.[11]
 
 Old English is a West Germanic language, developing out of Ingvaeonic (also known as North Sea Germanic) dialects from the 5th century. It came to be spoken over most of the territory of the Anglo-Saxon kingdoms which became the Kingdom of England. This included most of present-day England, as well as part of what is now southeastern Scotland, which for several centuries belonged to the Anglo-Saxon kingdom of Northumbria. Other parts of the island – Wales and most of Scotland – continued to use Celtic languages, except in the areas of Scandinavian settlements where Old Norse was spoken. Celtic speech also remained established in certain parts of England: Medieval Cornish was spoken all over Cornwall and in adjacent parts of Devon, while Cumbric survived perhaps to the 12th century in parts of Cumbria, and Welsh may have been spoken on the English side of the Anglo-Welsh border. Norse was also widely spoken in the parts of England which fell under Danish law.
 
 Anglo-Saxon literacy developed after Christianisation in the late 7th century. The oldest surviving work of Old English literature is _Cædmon's Hymn_, composed between 658 and 680 (but was not written down until the early 8th century).[12] There is a limited corpus of runic inscriptions from the 5th to 7th centuries, but the oldest coherent runic texts (notably the inscriptions on the Franks Casket) date to the early 8th century. The Old English Latin alphabet was introduced around the 8th century.
 
-Statue_d'Alfred_le_Grand_à_Winchester.jpg statue in Winchester, Hampshire. The 9th-century English King proposed that primary education be taught in English, with those wishing to advance to holy orders to continue their studies in Latin.]] With the unification of the Anglo-Saxon kingdoms (outside the Danelaw) by Alfred the Great in the later 9th century, the language of government and literature became standardised around the West Saxon dialect (Early West Saxon). Alfred advocated education in English alongside Latin, and had many works translated into the English language; some of them, such as Pope Gregory I's treatise _Pastoral Care_, appear to have been translated by Alfred himself. In Old English, typical of the development of literature, poetry arose before prose, but King Alfred the Great (871 to 901) chiefly inspired the growth of prose.[13]
+statue in Winchester, Hampshire. The 9th-century English King proposed that primary education be taught in English, with those wishing to advance to holy orders to continue their studies in Latin.]] With the unification of the Anglo-Saxon kingdoms (outside the Danelaw) by Alfred the Great in the later 9th century, the language of government and literature became standardised around the West Saxon dialect (Early West Saxon). Alfred advocated education in English alongside Latin, and had many works translated into the English language; some of them, such as Pope Gregory I's treatise _Pastoral Care_, appear to have been translated by Alfred himself. In Old English, typical of the development of literature, poetry arose before prose, but King Alfred the Great (871 to 901) chiefly inspired the growth of prose.[13]
 
 A later literary standard, dating from the later 10th century, arose under the influence of Bishop Æthelwold of Winchester, and was followed by such writers as the prolific Ælfric of Eynsham ("the Grammarian"). This form of the language is known as the "Winchester standard", or more commonly as Late West Saxon. It is considered to represent the "classical" form of Old English.[14] It retained its position of prestige until the time of the Norman Conquest, after which English ceased for a time to be of importance as a literary language.
 
@@ -37,7 +35,7 @@ The Old English period is followed by Middle English (12th to 15th century), Ear
 
 Dialects
 
-Her_swutelað_seo_gecwydrædnes_ðe.jpg in the 10th-century St Mary's parish church, Breamore, Hampshire]] Old English should not be regarded as a single monolithic entity, just as Modern English is also not monolithic. It emerged over time out of the many dialects and languages of the colonising tribes, and it is only towards the later Anglo-Saxon period that these can be considered to have constituted a single national language.[16] Even then, Old English continued to exhibit much local and regional variation, remnants of which remain in Modern English dialects.[17]
+in the 10th-century St Mary's parish church, Breamore, Hampshire]] Old English should not be regarded as a single monolithic entity, just as Modern English is also not monolithic. It emerged over time out of the many dialects and languages of the colonising tribes, and it is only towards the later Anglo-Saxon period that these can be considered to have constituted a single national language.[16] Even then, Old English continued to exhibit much local and regional variation, remnants of which remain in Modern English dialects.[17]
 
 The four main dialectal forms of Old English were Mercian, Northumbrian, Kentish, and West Saxon.[18] Mercian and Northumbrian are together referred to as _Anglian_. In terms of geography the Northumbrian region lay north of the Humber River; the Mercian lay north of the Thames and South of the Humber River; West Saxon lay south and southwest of the Thames; and the smallest, Kentish region lay southeast of the Thames, a small corner of England. The Kentish region, settled by the Jutes from Jutland, has the scantiest literary remains.[19]
 
@@ -303,7 +301,7 @@ Doubled consonants are geminated; the geminate fricatives /, and cannot be voice
 
 Literature
 
-Beowulf.firstpage.jpeg manuscript with its opening
+manuscript with its opening
 "Listen! We of the Spear-Danes from days of yore have heard of the glory of the folk-kings..."]]
 
 Old English literature, though more abundant than literature of the continent before AD 1000, is nonetheless scant. The pagan and Christian streams mingle in Old English, one of the richest and most significant bodies of literature preserved among the early Germanic peoples.[47] In his supplementary article to the 1935 posthumous edition of Bright's _Anglo-Saxon Reader_, Dr. James Hulbert writes:
@@ -347,8 +345,6 @@ English poetry is based on stress and alliteration. In alliteration, the first c
 A semi-fluent translation in Modern English would be:
 
 The Lord's Prayer
-
-Faederureaudio2.ogg
 
 This text of the Lord's Prayer is presented in the standardised West Saxon literary dialect, with added macrons for vowel length, markings for probable palatalised consonants, modern punctuation, and the replacement of the letter ƿynn with w.
 

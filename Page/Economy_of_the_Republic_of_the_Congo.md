@@ -1,4 +1,4 @@
-Manihot_esculenta_-_Köhler–s_Medizinal-Pflanzen-090.jpg is an important food crop in the Republic of Congo.]] The ECONOMY OF THE REPUBLIC OF THE CONGO is a mixture of subsistence hunting and agriculture, an industrial sector based largely on petroleum extraction and support services, and a government spending,[1] characterized by budget problems and overstaffing. Petroleum has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports.[2] Nowadays the country is increasingly converting natural gas to electricity rather than burning it, greatly improving energy prospects.[3]
+is an important food crop in the Republic of Congo.]] The ECONOMY OF THE REPUBLIC OF THE CONGO is a mixture of subsistence hunting and agriculture, an industrial sector based largely on petroleum extraction and support services, and a government spending,[1] characterized by budget problems and overstaffing. Petroleum has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports.[2] Nowadays the country is increasingly converting natural gas to electricity rather than burning it, greatly improving energy prospects.[3]
 
 
 Historical overview
@@ -68,7 +68,7 @@ ELECTRICITY - IMPORTS: 436 million kWh (2008 est.)
 
 AGRICULTURE - PRODUCTS: cassava (tapioca), sugar, rice, maize, peanuts, vegetables, coffee, cocoa, forest products
 
-EXPORTS: $12.38 billion (2011 est.) Tree_map_export_2009_Congo.jpeg EXPORTS - COMMODITIES: petroleum, lumber, plywood, sugar, Cocoa bean, coffee, diamonds
+EXPORTS: $12.38 billion (2011 est.) EXPORTS - COMMODITIES: petroleum, lumber, plywood, sugar, Cocoa bean, coffee, diamonds
 
 EXPORTS - PARTNERS: China 37.9%, United States 20%, Australia 6.2%, France 6.0%, Spain 4.8%, Italy 4.3%, Netherlands 4.3% (2011)
 

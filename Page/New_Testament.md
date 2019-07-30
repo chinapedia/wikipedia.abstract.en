@@ -248,7 +248,7 @@ The books of the New Testament were all or nearly all written by Jewish Christia
 
 Gospels
 
-The_Evangelist_Matthew_Inspired_by_an_Angel.jpg.]] According to the large majority of critical scholars, none of the authors of the Gospels were eyewitnesses or even explicitly claimed to be eyewitnesses.[75][76][77] Bart D. Ehrman of the University of North Carolina has argued for a scholarly consensus that many New Testament books were not written by the individuals whose names are attached to them.[78][79] He further argues that names were not ascribed to the gospels until around 185 AD.[80][81] Other scholars concur.[82][83][84] Many scholars believe that that none of the gospels were written in the region of Palestine.[85]
+.]] According to the large majority of critical scholars, none of the authors of the Gospels were eyewitnesses or even explicitly claimed to be eyewitnesses.[75][76][77] Bart D. Ehrman of the University of North Carolina has argued for a scholarly consensus that many New Testament books were not written by the individuals whose names are attached to them.[78][79] He further argues that names were not ascribed to the gospels until around 185 AD.[80][81] Other scholars concur.[82][83][84] Many scholars believe that that none of the gospels were written in the region of Palestine.[85]
 
 Christian tradition identifies John the Apostle with John the Evangelist, the supposed author of the Gospel of John. Traditionalists tend to support the idea that the writer of the Gospel of John himself claimed to be an eyewitness in their commentaries of John 21:24 and therefore the gospel was written by an eyewitness;[86][87] however, this idea is rejected by the majority of modern scholars.[88]
 
@@ -262,7 +262,7 @@ The Gospel of Luke and the Acts of the Apostles were both written by the same au
 
 Pauline epistles
 
-PaulT.jpg The Pauline epistles are the thirteen books in the New Testament traditionally attributed to Paul of Tarsus. The anonymous Epistle to the Hebrews is, despite unlikely Pauline authorship, often functionally grouped with these thirteen to form a corpus of fourteen "Pauline" epistles.
+The Pauline epistles are the thirteen books in the New Testament traditionally attributed to Paul of Tarsus. The anonymous Epistle to the Hebrews is, despite unlikely Pauline authorship, often functionally grouped with these thirteen to form a corpus of fourteen "Pauline" epistles.
 
 Seven letters are generally classified as "undisputed", expressing contemporary scholarly near consensus that they are the work of Paul: Romans, 1 Corinthians, 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon. Six additional letters bearing Paul's name do not currently enjoy the same academic consensus: Ephesians, Colossians, 2 Thessalonians, 1 Timothy, 2 Timothy and Titus.
 
@@ -366,7 +366,7 @@ In 331, Constantine I commissioned Eusebius to deliver fifty Bibles for the Chur
 
 Early manuscripts
 
-Papyrus_Bodmer_VIII.jpg Codex_Regius_(019).JPG, an 8th-century Greek manuscript of the New Testament with strong affinities to Codex Vaticanus.]]
+, an 8th-century Greek manuscript of the New Testament with strong affinities to Codex Vaticanus.]]
 
 Like other literature from antiquity, the text of the New Testament was (prior to the advent of the printing press) preserved and transmitted in manuscripts. Manuscripts containing at least a part of the New Testament number in the thousands. The earliest of these (like manuscripts containing other literature) are often very fragmentarily preserved. Some of these fragments have even been thought to date as early as the 2nd century (i.e., Papyrus 90, Papyrus 98, Papyrus 104, and famously Rylands Library Papyrus P52, though the early date of the latter has recently been called into question).[164]
 
@@ -403,7 +403,7 @@ Most modern Bibles have footnotes to indicate passages that have disputed source
 
 Outside of these unimportant variants, there are a couple variants of some importance. The two most commonly cited examples are the last verses of the _Gospel of Mark_[173][174][175] and the story of the adulterous woman in the _Gospel of John_.[176][177][178] Many scholars and critics also believe that the Comma Johanneum reference supporting the Trinity doctrine in 1 John to have been a later addition.[179][180] According to Norman Geisler and William Nix, "The New Testament, then, has not only survived in more manuscripts than any other book from antiquity, but it has survived in a purer form than any other great book—a form that is 99.5% pure"[181]
 
-RossanoGospelsChristBeforePilate.jpg, 6th century, a representative of Byzantine text.]]
+, 6th century, a representative of Byzantine text.]]
 
 The often referred to Interpreter's Dictionary of the Bible, a book written to prove the validity of the New Testament, says: " A study of 150 Greek [manuscripts] of the Gospel of Luke has revealed more than 30,000 different readings... It is safe to say that there is not one sentence in the New Testament in which the [manuscript] is wholly uniform."[182] Most of the variation took place within the first three Christian centuries.
 
@@ -439,7 +439,7 @@ The first translations (usually called "versions") of the New Testament were mad
 
 Syriac
 
-RabulaGospelsFolio04vCanonTable.jpg, Eusebian Canons.]] Syriac was spoken in Syria, and Mesopotamia, and with dialect in Roman and Byzantine Palestine where it was known as Jewish Palestinian Aramaic. Several Syriac translations were made and have come to us. Most of the Old Syriac, however, as well as the Philoxonian version have been lost.
+, Eusebian Canons.]] Syriac was spoken in Syria, and Mesopotamia, and with dialect in Roman and Byzantine Palestine where it was known as Jewish Palestinian Aramaic. Several Syriac translations were made and have come to us. Most of the Old Syriac, however, as well as the Philoxonian version have been lost.
 
 Tatian, the Assyrian, created the Diatessaron, a gospel harmony written in Syriac around 170 AD and the earliest form of the gospel not only in Syriac but probably also in Armenian.
 
@@ -463,7 +463,7 @@ A Bohairic translation was made later, but existed already in the 4th century. T
 
 Other ancient translations
 
-Matthew's_Gospel_-_British_Library_Add._MS_59874_Ethiopian_Bible.jpg Gospel of Matthew.]] The continued spread of Christianity, and the foundation of national churches, led to the translation of the Bible—often beginning with books from the New Testament—into a variety of other languages at a relatively early date: Armenian, Georgian, Ethiopic, Persian, Sogdian, and eventually Gothic, Old Church Slavonic, Arabic, and Nubian.[189]
+Gospel of Matthew.]] The continued spread of Christianity, and the foundation of national churches, led to the translation of the Bible—often beginning with books from the New Testament—into a variety of other languages at a relatively early date: Armenian, Georgian, Ethiopic, Persian, Sogdian, and eventually Gothic, Old Church Slavonic, Arabic, and Nubian.[189]
 
 
 Modern translations
@@ -572,7 +572,7 @@ Members of The Church of Jesus Christ of Latter-day Saints (LDS Church) believe 
 
 In the liturgy
 
-Codex_Harcleianus.PNG'' (_l_¹⁵⁰), 995 AD, text of John 1:18.]] Despite the wide variety among Christian liturgies, texts from the New Testament play a role in almost all forms of Christian worship. In addition to some language derived from the New Testament in the liturgy itself (e.g., the Trisagion may be based on Apocalypse 4:8, and the beginning of the "Hymn of Praise" draws upon Luke 2:14), the reading of extended passages from the New Testament is a practice common to almost all Christian worship, liturgical or not.
+'' (_l_¹⁵⁰), 995 AD, text of John 1:18.]] Despite the wide variety among Christian liturgies, texts from the New Testament play a role in almost all forms of Christian worship. In addition to some language derived from the New Testament in the liturgy itself (e.g., the Trisagion may be based on Apocalypse 4:8, and the beginning of the "Hymn of Praise" draws upon Luke 2:14), the reading of extended passages from the New Testament is a practice common to almost all Christian worship, liturgical or not.
 
 These readings are most often part of an established lectionary (i.e., selected texts to be read at church services on specific days), and (together with an Old Testament reading and a Psalm) include a non-gospel reading from the New Testament and culminate with a Gospel reading. No readings from the Book of Revelation, however, are included in the standard lectionary of the Eastern Orthodox churches.
 
@@ -581,7 +581,7 @@ Central to the Christian liturgy is the celebration of the Eucharist or "Holy Co
 
 In the arts
 
-GaudenzioFerrari_StorieCristo_Varallo2.jpg's _Stories of the Life and Passion of Christ_, fresco, 1513, Church of Santa Maria delle Grazie, Varallo Sesia, Italy. Depicting the life of Jesus]] Most of the influence of the New Testament upon the arts has come from the Gospels and the Book of Revelation. Literary expansion of the Nativity of Jesus found in the Gospels of Matthew and Luke began already in the 2nd century, and the portrayal of the Nativity has continued in various art forms to this day. The earliest Christian art would often depict scenes from the New Testament such as the raising of Lazarus, the baptism of Jesus or the motif of the Good Shepherd.
+'s _Stories of the Life and Passion of Christ_, fresco, 1513, Church of Santa Maria delle Grazie, Varallo Sesia, Italy. Depicting the life of Jesus]] Most of the influence of the New Testament upon the arts has come from the Gospels and the Book of Revelation. Literary expansion of the Nativity of Jesus found in the Gospels of Matthew and Luke began already in the 2nd century, and the portrayal of the Nativity has continued in various art forms to this day. The earliest Christian art would often depict scenes from the New Testament such as the raising of Lazarus, the baptism of Jesus or the motif of the Good Shepherd.
 
 Biblical paraphrases and poetic renditions of stories from the life of Christ (e.g., the Heliand) became popular in the Middle Ages, as did the portrayal of the arrest, trial and execution of Jesus in Passion plays. Indeed, the Passion became a central theme in Christian art and music. The ministry and Passion of Jesus, as portrayed in one or more of the New Testament Gospels, has also been a theme in film, almost since the inception of the medium (e.g., "La Passion", France, 1903).
 

@@ -3,43 +3,43 @@ This article provides an overview of the transport infrastructure of Latvia.
 
 Road system
 
-A10Latvia.jpg near Rīga|280px]] Дорога_Рига_-_Бауска_Road_Riga_-_Bauska.jpg near Iecava|280px]] A9-Latvia.jpg near Skrunda|280px]] It is mandatory to keep headlights on while driving, even in daylight; most cars commercially sold in Latvia are equipped to make this automatic.
+near Rīga|280px]] near Iecava|280px]] near Skrunda|280px]] It is mandatory to keep headlights on while driving, even in daylight; most cars commercially sold in Latvia are equipped to make this automatic.
 
 Highways
 
-+----------------+--------+------------------------------------------------------------------+-------------+
-| Number         | E-road | Route                                                            | Length (km) |
-+================+========+==================================================================+=============+
-| A1-LV.svg A1   |        | Rīga - Ainaži (EE border)                                        | 101         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A2-LV.svg A2   |        | Rīga - Sigulda - Veclaicene (EE border)                          | 196         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A3-LV.svg A3   |        | Inčukalns - Valmiera - Valka (EE border)                         | 101         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A4-LV.svg A4   |        | Rīga ring road (Baltezers - Saulkalne)                           | 20          |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A5-LV.svg A5   |        | Rīga ring road (Salaspils - Babīte)                              | 40          |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A6-LV.svg A6   |        | Rīga - Daugavpils - Krāslava - Pāternieki (BY border)            | 307         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A7-LV.svg A7   |        | Rīga - Bauska - Grenctāle (LT border)                            | 85          |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A8-LV.svg A8   |        | Rīga - Jelgava - Meitene (LT border)                             | 76          |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A9-LV.svg A9   |        | Rīga - Skulte - Liepāja                                          | 199         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A10-LV.svg A10 |        | Rīga - Ventspils                                                 | 190         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A11-LV.svg A11 |        | Liepāja - Rucava (LT border)                                     | 57          |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A12-LV.svg A12 |        | Jēkabpils - Rēzekne - Ludza - Terehova (RU border)               | 166         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A13-LV.svg A13 |        | Grebņeva (RU border) - Rēzekne - Daugavpils - Medumi (LT border) | 163         |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A14-LV.svg A14 |        | Daugavpils ring road (Tilti - Kalkūne)                           | 15          |
-+----------------+--------+------------------------------------------------------------------+-------------+
-| A15-LV.svg A15 |        | Rēzekne ring road                                                | 7           |
-+----------------+--------+------------------------------------------------------------------+-------------+
++--------+--------+------------------------------------------------------------------+-------------+
+| Number | E-road | Route                                                            | Length (km) |
++========+========+==================================================================+=============+
+| A1     |        | Rīga - Ainaži (EE border)                                        | 101         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A2     |        | Rīga - Sigulda - Veclaicene (EE border)                          | 196         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A3     |        | Inčukalns - Valmiera - Valka (EE border)                         | 101         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A4     |        | Rīga ring road (Baltezers - Saulkalne)                           | 20          |
++--------+--------+------------------------------------------------------------------+-------------+
+| A5     |        | Rīga ring road (Salaspils - Babīte)                              | 40          |
++--------+--------+------------------------------------------------------------------+-------------+
+| A6     |        | Rīga - Daugavpils - Krāslava - Pāternieki (BY border)            | 307         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A7     |        | Rīga - Bauska - Grenctāle (LT border)                            | 85          |
++--------+--------+------------------------------------------------------------------+-------------+
+| A8     |        | Rīga - Jelgava - Meitene (LT border)                             | 76          |
++--------+--------+------------------------------------------------------------------+-------------+
+| A9     |        | Rīga - Skulte - Liepāja                                          | 199         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A10    |        | Rīga - Ventspils                                                 | 190         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A11    |        | Liepāja - Rucava (LT border)                                     | 57          |
++--------+--------+------------------------------------------------------------------+-------------+
+| A12    |        | Jēkabpils - Rēzekne - Ludza - Terehova (RU border)               | 166         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A13    |        | Grebņeva (RU border) - Rēzekne - Daugavpils - Medumi (LT border) | 163         |
++--------+--------+------------------------------------------------------------------+-------------+
+| A14    |        | Daugavpils ring road (Tilti - Kalkūne)                           | 15          |
++--------+--------+------------------------------------------------------------------+-------------+
+| A15    |        | Rēzekne ring road                                                | 7           |
++--------+--------+------------------------------------------------------------------+-------------+
 
 Length of the road system
 
@@ -65,7 +65,7 @@ Length of the road system
 
 Railways
 
-Jelgava_railway_station.jpg ]] ER2T-7113_Lielupes_stacijā_2.JPG ER2T trainsets operated by Pasažieru Vilciens ]] Latvian Railways is the main state-owned railyway company in Latvia. Its daughter companies both carry out passengers services as well as carry a large quantity of freight cargo, and freight trains operate over the whole current passenger network, and a number of lines currently closed to passenger services.
+]] ER2T trainsets operated by Pasažieru Vilciens ]] Latvian Railways is the main state-owned railyway company in Latvia. Its daughter companies both carry out passengers services as well as carry a large quantity of freight cargo, and freight trains operate over the whole current passenger network, and a number of lines currently closed to passenger services.
 
 There is also a narrow gauge railway between Gulbene and Aluksne, operated by the Industrial Heritage Trust, using Russian and Polish built heritage rolling stock. Three narrow gauge trains a day operate on the 33 km route between the two towns.
 
@@ -98,7 +98,7 @@ Rail links with adjacent countries
 
 Airports
 
-AirBaltic_Boeing_757-200_at_RIX.jpg Boeing 757−200WL take-off at Riga International Airport ]] Riga International Airport is the only major airport in Latvia, carrying around 5 million passengers annually. It is the largest airport in the Baltic states and has direct flights to over 80 destinations in 30 countries including a nonstop transatlantic flight to New York-JFK operated by Uzbekistan Airlines year-round. It is also the main hub of airBaltic.
+Boeing 757−200WL take-off at Riga International Airport ]] Riga International Airport is the only major airport in Latvia, carrying around 5 million passengers annually. It is the largest airport in the Baltic states and has direct flights to over 80 destinations in 30 countries including a nonstop transatlantic flight to New York-JFK operated by Uzbekistan Airlines year-round. It is also the main hub of airBaltic.
 
 In the recent years airBaltic also operated from Liepāja International Airport as well as Ventspils International Airport but operations in both of these airports were ceased until 2017, when airBaltic relaunched flights from Riga to Liepaja.
 
@@ -123,7 +123,7 @@ _under 914 m:_ 20 (2003)
 
 Ports and harbors
 
-Ventspils_osta.jpg is the busiest port in the Baltic states]] Cruceros_en_el_muelle_de_Riga,_Letonia,_2012-08-07,_DD_01.JPG ]] Key ports are located in Riga (Freeport of Riga and Riga Passenger Terminal), Ventspils (Free port of Ventspils), and Liepāja (Port of Liepāja). Most transit traffic uses these and half the cargo is crude oil and oil products.[1]
+is the busiest port in the Baltic states]] ]] Key ports are located in Riga (Freeport of Riga and Riga Passenger Terminal), Ventspils (Free port of Ventspils), and Liepāja (Port of Liepāja). Most transit traffic uses these and half the cargo is crude oil and oil products.[1]
 
 
 Waterways

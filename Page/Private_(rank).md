@@ -26,7 +26,7 @@ Once recruits complete their Basic Military Training (BMT) or Basic Rescue Train
 
 Indonesia
 
-Pangdam_Jaya_pelantikan_bintara_2015.jpg privates pose with two Generals]] In Indonesia, this rank is referred to as _TAMTAMA_ (specifically _Prajurit_), which is the lowest rank in the Indonesian Armed Forces and special Police Force. In the Indonesian Army, "Private" has three levels, which are: Private (_Prajurit Dua_), Private First Class (_Prajurit Satu_), and Master Private (_Prajurit Kepala_). After this rank, it is promoted the rank: Corporal.
+privates pose with two Generals]] In Indonesia, this rank is referred to as _TAMTAMA_ (specifically _Prajurit_), which is the lowest rank in the Indonesian Armed Forces and special Police Force. In the Indonesian Army, "Private" has three levels, which are: Private (_Prajurit Dua_), Private First Class (_Prajurit Satu_), and Master Private (_Prajurit Kepala_). After this rank, it is promoted the rank: Corporal.
 
 File:prada pdh ad.png|Private (_Prajurit Dua_) File:pratu pdh ad.png|Private First Class (_Prajurit Satu_) File:praka pdh ad.png|Master Private (_Prajurit Kepala_)
 
@@ -132,7 +132,7 @@ _Soldado_ is the rank equivalent to private in the Brazilian and Portuguese Arme
 
 Finland
 
-Sotamies_kauluslaatta.svg The Finnish equivalent rank is _sotamies_ (literally "war man"), although since 1973 this has been purely a paper term as all infantry troopers were renamed as _jääkäri_ troops, previously reserved only to mobile light infantry. As in the British army, the various branches use different names:
+The Finnish equivalent rank is _sotamies_ (literally "war man"), although since 1973 this has been purely a paper term as all infantry troopers were renamed as _jääkäri_ troops, previously reserved only to mobile light infantry. As in the British army, the various branches use different names:
 
 -   Infantry – _jääkäri_ ("jaeger")
 -   Military engineers – _pioneeri_ ("pioneer")
@@ -169,9 +169,9 @@ The name of the lowest rank in the Hungarian army (_Magyar Honvédség_) is the 
 
 Ireland
 
-  ----------------- -----------------
-  IE-Army-OR2.png   IE-Army-OR3.png
-  ----------------- -----------------
+  -- --
+
+  -- --
 
 Private (Pte) (_saighdiúr singil_ in Irish), is the lowest enlisted rank in the Irish Army. Soldiers enlist as recruits then undergo a basic course of instruction. There are three grades of private in the army. After basic training the soldier is upgraded (rather than promoted) from recruit to private 2 star (Pte 2*) (_saighdiúr singil, 2 réalta_). After more corps-specific training (usually lasting eight weeks) the soldier is upgraded to private 3 star (Pte 3*) (_saighdiúr singil, 3 réalta_). All are usually just addressed as "private", although before being upgraded, recruits may be addressed as "recruit".
 
@@ -210,7 +210,7 @@ United States
 
 United States Army
 
-Army-USA-OR-02.svg In the United States Army, private is used for the two lowest enlisted ranks, just below private first class (E-3) or PFC. The lowest rank is "Private (E-1)" or PV1, and sometimes referred to as recruit, but also held by some soldiers after punishment through the Uniform Code of Military Justice or prisoners after conviction until they are discharged. A PV1 wears no uniform rank insignia; since the advent of the Army Combat Uniform (ACU), the term "fuzzy" has come into vogue, referring to the blank velcro patch on the ACU where the rank would normally be placed. The second rank, "Private (E-2)" or PV2, wears a single chevron, known colloquially as "mosquito wings". Advancement to PV2 is automatic after six months' time in service, but may get shortened to four months if given a waiver. A person who earned the Eagle Scout award, the Gold Award, or completed at least two years of JROTC may enlist at any time at the rank of PV2.[9] The term of address, "Private," may be properly applied to any Army soldier E-1 (PV1) to E-3 (PFC). The abbreviation "PVT" may be used whenever the specific grade of private is immaterial (such as in Tables of Organization and Equipment). While a soldier is currently in Initial Enlistment Training, he or she will often be referred to as "Private" by the training cadre, regardless of actual rank, even if the soldier enlisted as a Specialist (E-4).
+In the United States Army, private is used for the two lowest enlisted ranks, just below private first class (E-3) or PFC. The lowest rank is "Private (E-1)" or PV1, and sometimes referred to as recruit, but also held by some soldiers after punishment through the Uniform Code of Military Justice or prisoners after conviction until they are discharged. A PV1 wears no uniform rank insignia; since the advent of the Army Combat Uniform (ACU), the term "fuzzy" has come into vogue, referring to the blank velcro patch on the ACU where the rank would normally be placed. The second rank, "Private (E-2)" or PV2, wears a single chevron, known colloquially as "mosquito wings". Advancement to PV2 is automatic after six months' time in service, but may get shortened to four months if given a waiver. A person who earned the Eagle Scout award, the Gold Award, or completed at least two years of JROTC may enlist at any time at the rank of PV2.[9] The term of address, "Private," may be properly applied to any Army soldier E-1 (PV1) to E-3 (PFC). The abbreviation "PVT" may be used whenever the specific grade of private is immaterial (such as in Tables of Organization and Equipment). While a soldier is currently in Initial Enlistment Training, he or she will often be referred to as "Private" by the training cadre, regardless of actual rank, even if the soldier enlisted as a Specialist (E-4).
 
 United States Marine Corps
 

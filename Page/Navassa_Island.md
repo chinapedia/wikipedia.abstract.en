@@ -11,7 +11,7 @@ The terrain of Navassa Island consists mostly of exposed coral and limestone, th
 
 Ecology
 
-NavassaCoastAerialUSGS.jpg Navassa Island's topography, ecology, and modern history are similar to that of Mona Island, a small limestone island located in the Mona Passage between Puerto Rico and the Dominican Republic, which were once centers of guano mining, and are nature reserves for the United States. Transient Haitian fishermen and others camp on the island but the island is otherwise uninhabited.[13] It has no ports or harbors, only offshore anchorages, and its only natural resource is guano. Economic activity consists of subsistence fishing and commercial trawling activities.[14]
+Navassa Island's topography, ecology, and modern history are similar to that of Mona Island, a small limestone island located in the Mona Passage between Puerto Rico and the Dominican Republic, which were once centers of guano mining, and are nature reserves for the United States. Transient Haitian fishermen and others camp on the island but the island is otherwise uninhabited.[13] It has no ports or harbors, only offshore anchorages, and its only natural resource is guano. Economic activity consists of subsistence fishing and commercial trawling activities.[14]
 
 There were eight species of native reptiles, all of which are believed to be, or to have been, endemic to Navassa Island: _Celestus badius_ (an anguid lizard), _Aristelliger cochranae_ (a gecko), _Sphaerodactylus becki_ (a gecko), _Anolis longiceps_ (an anole), _Cyclura (cornuta) onchiopsis_ (a rock iguana), _Leiocephalus eremitus_ (a curly-tailed lizard), _Tropidophis bucculentus_ (a dwarf boa), and _Typhlops sulcatus_ (a tiny snake).[15] Of these the first four remain common with the last four likely extinct.[16] Feral cats, dogs and pigs currently inhabit the island.
 
@@ -19,8 +19,6 @@ In 2012, a rare coral species (_Acropora palmata_ - Elkhorn coral) was found und
 
 
 History
-
-Navassa_Island_Location.svg
 
 1504 to 1901
 
@@ -41,8 +39,6 @@ Hauling guano by muscle-power in the fierce tropical heat, combined with general
 The cases, including _Jones v. United States_, went to the U.S. Supreme Court in October 1890, which ruled the Guano Act constitutional, and three of the miners were scheduled for execution in the spring of 1891. A grass-roots petition driven by black churches around the country, also signed by white jurors from the three trials, reached President Benjamin Harrison, who commuted the sentences to imprisonment and mentioned the case in a State of the Union Address.[24][25] Guano mining resumed on Navassa at a much reduced level. The Spanish–American War of 1898 forced the Phosphate Company to evacuate the island and file for bankruptcy, and the new owners abandoned the island after 1901.
 
 1901 to present
-
-NavassaLighthouse.jpg Lighthouse_Keeper_Residence_Navassa_Island.jpg
 
 Navassa became significant again with the opening of the Panama Canal in 1914. Shipping between the American eastern seaboard and the Canal goes through the Windward Passage between Cuba and Haiti. Navassa, a hazard to navigation, needed a lighthouse. The U.S. Lighthouse Service built Navassa Island Light, a tower on the island in 1917, above sea level. A keeper and two assistants were assigned to live there until the Lighthouse Service installed an automatic beacon in 1929.[26]
 

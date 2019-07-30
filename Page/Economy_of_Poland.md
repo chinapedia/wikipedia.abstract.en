@@ -146,7 +146,7 @@ Sectors
 
 Production industries
 
-Gielda3_Wwa_beax.jpg is the largest stock exchange in East and Central Europe]] Płock,_Orlen,_budynek_biurowy.jpg is among the largest companies in Poland]] Container_terminals_in_Gdynia.jpg is one of Poland's principal seaports]] Before World War II, Poland's industrial base was concentrated in the coal, textile, chemical, machinery, iron, and steel sectors. Today it extends to fertilizers, petrochemicals, machine tools, electrical machinery, electronics, car manufacture and shipbuilding.
+is the largest stock exchange in East and Central Europe]] is among the largest companies in Poland]] is one of Poland's principal seaports]] Before World War II, Poland's industrial base was concentrated in the coal, textile, chemical, machinery, iron, and steel sectors. Today it extends to fertilizers, petrochemicals, machine tools, electrical machinery, electronics, car manufacture and shipbuilding.
 
 Poland's industrial base suffered greatly during World War II, and many resources were directed toward reconstruction. The socialist economic system imposed in the late 1940s created large and unwieldy economic structures[28] operated under a tight central command. In part because of this systemic rigidity, the economy performed poorly even in comparison with other economies in Central Europe.[29]
 
@@ -168,7 +168,7 @@ Poland is a net exporter of processed fruit and vegetables, meat, and dairy prod
 
 Tourism
 
-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG in Kraków]] Poland, especially after joining the European Union in 2004, became a place frequently visited by tourists. Most tourist attractions in Poland are connected with natural environment, historic sites and cultural events. They draw millions of tourists every year from all around the world. According to Tourist Institute's data, Poland was visited by 15.7 million tourists in 2006, and by 15 million tourists in 2007,[34] out of the total number of 66.2 million foreign visitors.[35] In 2016 the number of arrivals to Poland amounted to 80.5 million. 17.5 million of this number are arrivals considered for tourism purposes (with at least one night's stay), making it the 16th most visited country in the world.[36] The most popular cities are Kraków, Warsaw, Gdańsk, Wrocław, Łódź, Poznań, Szczecin, Lublin, Toruń, Sopot, Zakopane and the Wieliczka Salt Mine. The best recreational destinations include Poland's Masurian Lake District, Baltic Sea coast, Tatra Mountains (the highest mountain range of Carpathians), Sudetes and Białowieża Forest. Poland's main tourist offers consist of sightseeing within cities and out-of-town historical monuments, business trips, qualified tourism, agrotourism, mountain hiking (trekking) and climbing among others.
+in Kraków]] Poland, especially after joining the European Union in 2004, became a place frequently visited by tourists. Most tourist attractions in Poland are connected with natural environment, historic sites and cultural events. They draw millions of tourists every year from all around the world. According to Tourist Institute's data, Poland was visited by 15.7 million tourists in 2006, and by 15 million tourists in 2007,[34] out of the total number of 66.2 million foreign visitors.[35] In 2016 the number of arrivals to Poland amounted to 80.5 million. 17.5 million of this number are arrivals considered for tourism purposes (with at least one night's stay), making it the 16th most visited country in the world.[36] The most popular cities are Kraków, Warsaw, Gdańsk, Wrocław, Łódź, Poznań, Szczecin, Lublin, Toruń, Sopot, Zakopane and the Wieliczka Salt Mine. The best recreational destinations include Poland's Masurian Lake District, Baltic Sea coast, Tatra Mountains (the highest mountain range of Carpathians), Sudetes and Białowieża Forest. Poland's main tourist offers consist of sightseeing within cities and out-of-town historical monuments, business trips, qualified tourism, agrotourism, mountain hiking (trekking) and climbing among others.
 
 Financial sector
 
@@ -182,7 +182,7 @@ The segment of the private equity market that finances early-stage high-risk com
 
 Transportation
 
-Polish_Pendolino_front_2.JPG ED250 Pendolino at Wrocław Main Station]] Poland is served by an extensive network of railways. In most cities the main railway station is located near a city centre and is well connected to the local transportation system. The infrastructure is operated by Polish State Railways, part of state-run PKP Group. The rail network is very dense in western and northern Poland, while eastern part of the country is less developed. The capital city, Warsaw, has the country's only rapid transit system: the Warsaw Metro.
+ED250 Pendolino at Wrocław Main Station]] Poland is served by an extensive network of railways. In most cities the main railway station is located near a city centre and is well connected to the local transportation system. The infrastructure is operated by Polish State Railways, part of state-run PKP Group. The rail network is very dense in western and northern Poland, while eastern part of the country is less developed. The capital city, Warsaw, has the country's only rapid transit system: the Warsaw Metro.
 
 The most important airport in Poland is Warsaw 'Frederic Chopin' International Airport. Warsaw's airport is the main international hub for LOT Polish Airlines. In addition to Warsaw Chopin, Wrocław, Gdańsk, Katowice, Kraków and Poznań all have international airports. In preparation for the Euro 2012 football championships jointly hosted by Poland and Ukraine, a number of airports around the country were renovated and redeveloped. This included the building of new terminals with an increased number of jetways and stands at both Copernicus Airport in Wrocław and Lech Wałęsa Airport in Gdańsk.
 
@@ -238,12 +238,12 @@ Currency
 
 Budget and debt
 
-Pl-public-debt.svg The public and private debt levels of Poland are below the European average (2017).
+The public and private debt levels of Poland are below the European average (2017).
 
 
 GDP growth in Poland
 
-2014_Poland_Products_Export_Treemap.png Recent GDP growth (comparing to the same quarter of previous year):[41]
+Recent GDP growth (comparing to the same quarter of previous year):[41]
 
   Year   Q1     Q2     Q3     Q4     Overall
   ------ ------ ------ ------ ------ ---------

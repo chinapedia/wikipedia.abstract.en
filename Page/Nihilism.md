@@ -27,7 +27,7 @@ This interpretation of existence must be based on resolution. The resolution wit
 
 Existential
 
-Merwart-Nihilist.jpg (1882)]]
+(1882)]]
 
 Existential nihilism is the belief that life has no intrinsic meaning or value. With respect to the universe, existential nihilism posits that a single human or even the entire human species is insignificant, without purpose and unlikely to change in the totality of existence. The meaninglessness or meaning of life is largely explored in the philosophical school of existentialism.
 
@@ -80,13 +80,13 @@ Despite the Buddha's explanations to the contrary, Buddhist practitioners may, a
 
 19th century
 
-Turgenev_by_Repin.jpg made the term nihilism popular.]] The term _nihilism_ was first used by Friedrich Heinrich Jacobi (1743–1819). Jacobi used the term to characterize rationalism[27] and in particular Immanuel Kant's "critical" philosophy to carry out a reductio ad absurdum according to which all rationalism (philosophy as criticism) reduces to nihilism—and thus it should be avoided and replaced with a return to some type of faith and revelation. Bret W. Davis writes, for example, "The first philosophical development of the idea of nihilism is generally ascribed to Friedrich Jacobi, who in a famous letter criticized Fichte's idealism as falling into nihilism. According to Jacobi, Fichte's absolutization of the ego (the 'absolute I' that posits the 'not-I') is an inflation of subjectivity that denies the absolute transcendence of God."[28] A related but oppositional concept is fideism, which sees reason as hostile and inferior to faith.
+made the term nihilism popular.]] The term _nihilism_ was first used by Friedrich Heinrich Jacobi (1743–1819). Jacobi used the term to characterize rationalism[27] and in particular Immanuel Kant's "critical" philosophy to carry out a reductio ad absurdum according to which all rationalism (philosophy as criticism) reduces to nihilism—and thus it should be avoided and replaced with a return to some type of faith and revelation. Bret W. Davis writes, for example, "The first philosophical development of the idea of nihilism is generally ascribed to Friedrich Jacobi, who in a famous letter criticized Fichte's idealism as falling into nihilism. According to Jacobi, Fichte's absolutization of the ego (the 'absolute I' that posits the 'not-I') is an inflation of subjectivity that denies the absolute transcendence of God."[28] A related but oppositional concept is fideism, which sees reason as hostile and inferior to faith.
 
 With the popularizing of the word _nihilism_ by Ivan Turgenev, a new Russian political movement called the Nihilist movement adopted the term. They supposedly called themselves nihilists because nothing "that then existed found favor in their eyes".[29] This movement was significant enough that, even in the English speaking world, at the turn of the 20th century the word nihilism without qualification was almost exclusively associated with this Russian revolutionary sociopolitical movement [30].
 
 Kierkegaard
 
-Kierkegaard.jpg by his cousin Niels Christian Kierkegaard]]
+by his cousin Niels Christian Kierkegaard]]
 
 Søren Kierkegaard (1813–1855) posited an early form of nihilism, which he referred to as _leveling_.[31] He saw leveling as the process of suppressing individuality to a point where an individual's uniqueness becomes non-existent and nothing meaningful in one's existence can be affirmed:
 
@@ -96,7 +96,7 @@ Note, however, that Kierkegaard's meaning of "nihilism" differs from the modern 
 
 Nietzsche
 
-Nietzsche1882.jpg]]
+]]
 
 Nihilism is often associated with the German philosopher Friedrich Nietzsche, who provided a detailed diagnosis of nihilism as a widespread phenomenon of Western culture. Though the notion appears frequently throughout Nietzsche's work, he uses the term in a variety of ways, with different meanings and connotations. Karen L. Carr describes Nietzsche's characterization of nihilism "as a condition of tension, as a disproportion between what we want to value (or need) and how the world appears to operate."[40] When we find out that the world does not possess the objective value or meaning that we want it to have or have long since believed it to have, we find ourselves in a crisis.[41] Nietzsche asserts that with the decline of Christianity and the rise of physiological decadence, nihilism is in fact characteristic of the modern age,[42] though he implies that the rise of nihilism is still incomplete and that it has yet to be overcome.[43] Though the problem of nihilism becomes especially explicit in Nietzsche's notebooks (published posthumously), it is mentioned repeatedly in his published works and is closely connected to many of the problems mentioned there.
 

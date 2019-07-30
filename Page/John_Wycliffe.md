@@ -28,7 +28,7 @@ In 1368, he gave up his living at Fillingham and took over the rectory of Ludger
 
 Politics
 
-WycliffeYeamesLollards_01.jpg, _Wyclif Giving "The Poor Priests" His Translation of the Bible_]] In 1374 his name appears second, after a bishop, on a commission which the English Government sent to Bruges to discuss with the representatives of Gregory XI a number of points in dispute between the king and the pope.[17] He was no longer satisfied with his chair as the means of propagating his ideas, and soon after his return from Bruges he began to express them in tracts and longer works. In a book concerned with the government of God and the Ten Commandments, he attacked the temporal rule of the clergy, the collection of annates, indulgences, and simony.
+, _Wyclif Giving "The Poor Priests" His Translation of the Bible_]] In 1374 his name appears second, after a bishop, on a commission which the English Government sent to Bruges to discuss with the representatives of Gregory XI a number of points in dispute between the king and the pope.[17] He was no longer satisfied with his chair as the means of propagating his ideas, and soon after his return from Bruges he began to express them in tracts and longer works. In a book concerned with the government of God and the Ten Commandments, he attacked the temporal rule of the clergy, the collection of annates, indulgences, and simony.
 
 He entered the politics of the day with his great work _De civili dominio_ ("On Civil Dominion"). This called for the royal divestment of all church property.[18] His ideas on lordship and church wealth caused his first official condemnation in 1377 by Pope Gregory XI, who censured 19 articles. Wycliffe argued that the Church had fallen into sin and that it ought therefore to give up all its property and that the clergy should live in complete poverty. The tendency of the high offices of state to be held by clerics was resented by many of the nobles. John of Gaunt, who had his own reasons for opposing the wealth and power of the clergy, possibly used a naive Wycliffe as his tool.[19][20]
 
@@ -47,7 +47,7 @@ From 1380 onwards, Wycliffe devoted himself to writings that argued his rejectio
 
 Doctrines
 
-John_Wycliffe_at_work.jpg Wycliffe had come to regard the scriptures as the only reliable guide to the truth about God, and maintained that all Christians should rely on the Bible rather than on the teachings of popes and clerics. He said that there was no scriptural justification for the papacy.[28]
+Wycliffe had come to regard the scriptures as the only reliable guide to the truth about God, and maintained that all Christians should rely on the Bible rather than on the teachings of popes and clerics. He said that there was no scriptural justification for the papacy.[28]
 
 Theologically, his preaching expressed a strong belief in predestination that enabled him to declare an "invisible church of the elect", made up of those predestined to be saved, rather than in the "visible" Catholic Church.[29] To Wycliffe, the Church was the totality of those who are predestined to blessedness. No one who is eternally lost has part in it. There is one universal Church, and outside of it there is no salvation.
 
@@ -72,7 +72,7 @@ The books and tracts of Wycliffe's last six years include continual attacks upon
 
 The English Bible
 
-John_wycliffe_scriptro_majoris_britanniae_1548.jpg's _Scriptor Majoris Britanniæ_ 1548.]] In keeping with Wycliffe's belief that scripture was the only authoritative reliable guide to the truth about God, he became involved in efforts to translate the Bible into English. While Wycliffe is credited, it is not possible exactly to define his part in the translation, which was based on the Vulgate.[38] There is no doubt that it was his initiative, and that the success of the project was due to his leadership. From him comes the translation of the New Testament, which was smoother, clearer, and more readable than the rendering of the Old Testament by his friend Nicholas of Hereford. The whole was revised by Wycliffe's younger contemporary John Purvey in 1388.
+'s _Scriptor Majoris Britanniæ_ 1548.]] In keeping with Wycliffe's belief that scripture was the only authoritative reliable guide to the truth about God, he became involved in efforts to translate the Bible into English. While Wycliffe is credited, it is not possible exactly to define his part in the translation, which was based on the Vulgate.[38] There is no doubt that it was his initiative, and that the success of the project was due to his leadership. From him comes the translation of the New Testament, which was smoother, clearer, and more readable than the rendering of the Old Testament by his friend Nicholas of Hereford. The whole was revised by Wycliffe's younger contemporary John Purvey in 1388.
 
 There still exist about 150 manuscripts, complete or partial, containing the translation in its revised form. From this, one may easily infer how widely diffused it was in the 15th century. For this reason the Wycliffites in England were often designated by their opponents as "Bible men".
 
@@ -100,12 +100,12 @@ In the years before his death in 1384 he increasingly argued for Scriptures as t
 
 Wycliffe returned to Lutterworth, and sent out tracts against the monks and Urban VI, since the latter, contrary to Wycliffe's hopes, had not turned out to be a reforming pope. The literary achievements of Wycliffe's last days, such as the _Trialogus_, stand at the peak of the knowledge of his day. His last work, the _Opus evangelicum_, the last part of which he named in characteristic fashion "Of Antichrist", remained uncompleted. While he was saying Mass in the parish church on Holy Innocents' Day, 28 December 1384, he suffered a stroke, and died as the year ended. Wycliffe was 64 years old.
 
-The Anti-Wycliffite Statute of 1401 extended persecution to Wycliffe's remaining followers. The "Constitutions of Oxford" of 1408 aimed to reclaim authority in all ecclesiastical matters, and specifically named John Wycliffe as it banned certain writings, and noted that translation of Scripture into English by unlicensed laity was a crime punishable by charges of heresy. Portrait_of_John_Wycliffe.jpg (1714)]]
+The Anti-Wycliffite Statute of 1401 extended persecution to Wycliffe's remaining followers. The "Constitutions of Oxford" of 1408 aimed to reclaim authority in all ecclesiastical matters, and specifically named John Wycliffe as it banned certain writings, and noted that translation of Scripture into English by unlicensed laity was a crime punishable by charges of heresy. (1714)]]
 
 
 Declared a heretic
 
-Wycliffe_bones_Foxe.jpg'' (1563)]] The Council of Constance declared Wycliffe a heretic on 4 May 1415, and banned his writings, effectively both excommunicating him retroactively and making him an early forerunner of Protestantism. The Council decreed that Wycliffe's works should be burned and his bodily remains removed from consecrated ground. This order, confirmed by Pope Martin V, was carried out in 1428.[46] Wycliffe's corpse was exhumed and burned and the ashes cast into the River Swift, which flows through Lutterworth.
+'' (1563)]] The Council of Constance declared Wycliffe a heretic on 4 May 1415, and banned his writings, effectively both excommunicating him retroactively and making him an early forerunner of Protestantism. The Council decreed that Wycliffe's works should be burned and his bodily remains removed from consecrated ground. This order, confirmed by Pope Martin V, was carried out in 1428.[46] Wycliffe's corpse was exhumed and burned and the ashes cast into the River Swift, which flows through Lutterworth.
 
 None of Wycliffe's contemporaries left a complete picture of his person, his life, and his activities. Paintings representing Wycliffe are from a later period. In the history of the trial by William Thorpe (1407), Wycliffe appears wasted and physically weak. Thorpe says Wycliffe was of unblemished walk in life, and regarded affectionately by people of rank, who often consorted with him, took down his sayings, and clung to him. "I indeed clove to none closer than to him, the wisest and most blessed of all men whom I have ever found."
 
@@ -142,7 +142,7 @@ Wycliffe is honoured in the Church of England on 31 December, and in the Anglica
 
 Legacy
 
-Wycliffecollege_toronto_chapel1.jpg Chapel, Toronto]] Wycliffe was instrumental in the development of a translation of the Bible in English, thus making it accessible to laypeople. He also had a strong influence on Jan Hus.[52] Several institutions are named after him:
+Chapel, Toronto]] Wycliffe was instrumental in the development of a translation of the Bible in English, thus making it accessible to laypeople. He also had a strong influence on Jan Hus.[52] Several institutions are named after him:
 
 -   Wycliffe Global Alliance, an alliance of organisations with the common objective of translating the Bible for every language group that needs it.
 -   Wycliffe Hall, Oxford, one of the Church of England's designated Evangelical theological colleges.

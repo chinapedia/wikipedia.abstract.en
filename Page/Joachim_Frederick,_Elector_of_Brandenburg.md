@@ -26,7 +26,7 @@ Joachim Frederick and Eleanor of Prussia had only one child:
 
 Legacy
 
-Joachim-Friedrich_Strasse_street_sign,_Berlin.jpg Joachim-Freidrich Strasse in Berlin is named after him. [1]
+Joachim-Freidrich Strasse in Berlin is named after him. [1]
 
 
 Ancestry

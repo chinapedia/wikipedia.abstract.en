@@ -1,4 +1,4 @@
-OZ5-2-94.JPG by illustrator S.D. Ehrhart in an 1894 _Puck_ magazine shows a farm woman labeled "Democratic Party" sheltering from a tornado of political change.]]
+by illustrator S.D. Ehrhart in an 1894 _Puck_ magazine shows a farm woman labeled "Democratic Party" sheltering from a tornado of political change.]]
 
 A METAPHOR is a figure of speech that, for rhetorical effect, directly refers to one thing by mentioning another.[1] It may provide (or obscure) clarity or identify hidden similarities between two ideas. Metaphors are often compared to other types of figurative language, such as antithesis, hyperbole, metonymy and simile.[2] One of the most commonly cited examples of a metaphor in English literature comes from the "All the world's a stage" monologue from _As You Like It_:
 
@@ -53,7 +53,7 @@ Other rhetoricians have asserted the relevance of metaphor when used for a persu
 
 Larger applications
 
-Anger_Symbol.jpg.]] The term metaphor is used to describe more basic or general aspects of experience and cognition:
+.]] The term metaphor is used to describe more basic or general aspects of experience and cognition:
 
 -   A cognitive metaphor is the association of object to an experience outside the object's environment
 -   A conceptual metaphor is an underlying association that is systematic in both language and thought
@@ -89,7 +89,7 @@ Friedrich Nietzsche makes metaphor the conceptual center of his early theory of 
 
 As style in speech and writing
 
-Tombe_juive_de_femmes_-_Jewish_tombstone_of_women.jpg woman depicting broken candles, a visual metaphor of the end of life.]]
+woman depicting broken candles, a visual metaphor of the end of life.]]
 
 As a characteristic of speech and writing, metaphors can serve the poetic imagination. This allows Sylvia Plath, in her poem "Cut", to compare the blood issuing from her cut thumb to the running of a million soldiers, "redcoats, every one"; and enabling Robert Frost, in "The Road Not Taken", to compare a life to a journey.[32][33][34]
 

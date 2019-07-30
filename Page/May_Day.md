@@ -46,11 +46,11 @@ In Finland, Walpurgis night (__) ("") is one of the four biggest holidays along 
 
 France
 
-Lily_of_the_valley_777.jpg On 1 May 1561, King Charles IX of France received a lily of the valley as a lucky charm. He decided to offer a lily of the valley each year to the ladies of the court. At the beginning of the 20th century, it became custom to give a sprig of lily of the valley, a symbol of springtime, on 1 May. The government permits individuals and workers' organisations to sell them tax-free on that single day. Nowadays, people may present loved ones either with bunches of lily of the valley or dog rose flowers.[20]
+On 1 May 1561, King Charles IX of France received a lily of the valley as a lucky charm. He decided to offer a lily of the valley each year to the ladies of the court. At the beginning of the 20th century, it became custom to give a sprig of lily of the valley, a symbol of springtime, on 1 May. The government permits individuals and workers' organisations to sell them tax-free on that single day. Nowadays, people may present loved ones either with bunches of lily of the valley or dog rose flowers.[20]
 
 Germany
 
-Viktualienmarkt_Maibaum_Nahaufnahme_1999.jpg, Germany.]] Maibaum1.jpg, Germany]] In rural regions of Germany, especially the Harz Mountains, Walpurgisnacht celebrations of pagan origin are traditionally held on the night before May Day, including bonfires and the wrapping of a _Maibaum_ (maypole). Young people use this opportunity to party, while the day itself is used by many families to get some fresh air. Motto: "Tanz in den Mai" (_"Dance into May"_).
+, Germany.]] , Germany]] In rural regions of Germany, especially the Harz Mountains, Walpurgisnacht celebrations of pagan origin are traditionally held on the night before May Day, including bonfires and the wrapping of a _Maibaum_ (maypole). Young people use this opportunity to party, while the day itself is used by many families to get some fresh air. Motto: "Tanz in den Mai" (_"Dance into May"_).
 
 In the Rhineland, 1 May is also celebrated by the delivery of a maypole, a tree covered in streamers to the house of a girl the night before. The tree is typically from a love interest, though a tree wrapped only in white streamers is a sign of dislike. Women usually place roses or rice in the form of a heart at the house of their beloved one. It is common to stick the heart to a window or place it in front of the doormat. In leap years, it is the responsibility of the women to place the maypole. All the action is usually done secretly and it is an individual's choice whether to give a hint of their identity or stay anonymous.
 
@@ -122,7 +122,7 @@ United Kingdom
 
 England
 
-Melmerby_May_Queen_on_Village_Green_-_geograph.org.uk_-_233648.jpg, England]] Maypole_Dancing_on_Village_Green_-_geograph.org.uk_-_1628839.jpg
+, England]]
 
 Traditional English May Day rites and celebrations include crowning a May Queen and celebrations involving a maypole, around which dancers often circle with ribbons. Historically, Morris dancing has been linked to May Day celebrations.[29] The earliest records of maypole celebrations date to the 14th century, and by the 15th century the maypole tradition was well established in southern Britain.[30]
 
@@ -132,7 +132,7 @@ Unlike the other Bank Holidays and common law holidays, the first Monday in May 
 
 May Day was abolished and its celebration banned by Puritan parliaments during the Interregnum, but reinstated with the restoration of Charles II in 1660.[32] 1 May 1707, was the day the Act of Union came into effect, joining England and Scotland to form the Kingdom of Great Britain.
 
-John_Collier_-_Queen_Guinevere's_Maying.jpg's Maying'', by John Collier
+'s Maying'', by John Collier
 For thus it chanced one morn when all the court,
 Green-suited, but with plumes that mocked the may,
 Had been, their wont, a-maying and returned,
@@ -193,7 +193,7 @@ Celebrations often take place not on 1 May but during the Victoria Day long week
 
 United States
 
-National-Park-Seminary-May-Day-1907.jpg in Maryland, 1907.]] Longview_Park.jpg in Rock Island, Illinois, c. 1907 – 1914.]] May Day was also celebrated by some early European settlers of the American continent. In some parts of the United States, May baskets are made. These are small baskets usually filled with flowers or treats and left at someone's doorstep. The giver rings the bell and runs away.[41]
+in Maryland, 1907.]] in Rock Island, Illinois, c. 1907 – 1914.]] May Day was also celebrated by some early European settlers of the American continent. In some parts of the United States, May baskets are made. These are small baskets usually filled with flowers or treats and left at someone's doorstep. The giver rings the bell and runs away.[41]
 
 Modern May Day ceremonies in the U.S. vary greatly from region to region and many unite both the holiday's "Green Root" (pagan) and "Red Root" (labor) traditions.[42]
 

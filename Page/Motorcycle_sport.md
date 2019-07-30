@@ -37,8 +37,6 @@ A competition based upon points for acrobatic ability on an MX bike over jumps.
 
 Trials
 
-Montesa_Cota.jpg
-
 Known in the US as Observed Trials, it is not racing, but a sport nevertheless. Trials is a test of skill on a motorcycle whereby the rider attempts to traverse an observed section without placing a foot on the ground (and traditionally, although not always, without ceasing forward motion). The winner is the rider with the least penalty points.
 
 Time and observation
@@ -73,7 +71,7 @@ References
 
 External links
 
-Motorcycle_phillip_island03.jpg.]]
+.]]
 
 Sanctioning bodies
 

@@ -1,4 +1,4 @@
-Peroxide_group_v.2.png, organic hydroperoxide, peracid. The peroxide group is marked in . R, R¹ and R² mark hydrocarbon moieties.]]
+, organic hydroperoxide, peracid. The peroxide group is marked in . R, R¹ and R² mark hydrocarbon moieties.]]
 
 PEROXIDES are a group of compounds with the structure R−O−O−R.[1] The O−O group in a peroxide is called the PEROXIDE GROUP or PEROXO GROUP. In contrast to oxide ions, the oxygen atoms in the peroxide ion have an oxidation state of −1.
 

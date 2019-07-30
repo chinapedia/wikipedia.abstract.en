@@ -9,8 +9,6 @@ During Louis' long reign, France was the leading European power, and it fought t
 
 Early years
 
-Fransk_barnprins,_troligen_Ludvig_XIV_eller_XV_från_1600-talets_första_hälft_-_Skoklosters_slott_-_95015.tif Acte_de_naissance_de_Louis_XIV_1738.jpg
-
 Louis XIV was born on 5 September 1638 in the Château de Saint-Germain-en-Laye, to Louis XIII and Anne of Austria. He was named Louis Dieudonné (Louis the God-given)[6] and bore the traditional title of French heirs apparent: _Dauphin_.[7] At the time of his birth, his parents had been married for 23 years. His mother had experienced four stillbirths between 1619 and 1631. Leading contemporaries thus regarded him as a divine gift and his birth a miracle of God.
 
 Sensing imminent death, Louis XIII decided to put his affairs in order in the spring of 1643, when Louis XIV was four years old. In defiance of custom, which would have made Queen Anne the sole Regent of France, the king decreed that a regency council would rule on his son's behalf. His lack of faith in Queen Anne's political abilities was his primary rationale. He did, however, make the concession of appointing her head of the council.
@@ -28,7 +26,7 @@ Minority and the _Fronde_
 
 Accession
 
-Bb85790a33.jpg]] On 14 May 1643, with Louis XIII dead, Queen Anne had her husband's will annulled by the _Parlement de Paris_ (a judicial body comprising mostly nobles and high clergymen). This action abolished the regency council and made Anne sole Regent of France. Anne exiled some of her husband's ministers (Chavigny, Bouthilier), and she nominated Brienne as her minister of foreign affairs. Anne also nominated Saint Vincent de Paul as her spiritual adviser, which helped her deal with religious policy and the Jansenism question.
+]] On 14 May 1643, with Louis XIII dead, Queen Anne had her husband's will annulled by the _Parlement de Paris_ (a judicial body comprising mostly nobles and high clergymen). This action abolished the regency council and made Anne sole Regent of France. Anne exiled some of her husband's ministers (Chavigny, Bouthilier), and she nominated Brienne as her minister of foreign affairs. Anne also nominated Saint Vincent de Paul as her spiritual adviser, which helped her deal with religious policy and the Jansenism question.
 
 Anne kept the direction of religious policy strongly in her hand until 1661; her most important political decisions were to nominate Cardinal Mazarin as her chief minister and the continuation of her late husband's and Cardinal Richelieu's policy, despite their persecution of her, for the sake of her son. Anne wanted to give her son absolute authority and a victorious kingdom. Her rationales for choosing Mazarin were mainly his ability and his total dependence on her, at least until 1653 when she was no longer regent. Anne protected Mazarin by arresting and exiling her followers who conspired against him in 1643: the Duke of Beaufort and Marie de Rohan.[10] She left the direction of the daily administration of policy to Cardinal Mazarin.
 
@@ -42,7 +40,7 @@ Early acts
 
 As the Thirty Years' War came to an end, a civil war known as the __ (after the slings used to smash windows) erupted in France. It effectively checked France's ability to exploit the Peace of Westphalia. Anne and Mazarin had largely pursued the policies of Cardinal Richelieu, augmenting the Crown's power at the expense of the nobility and the __. Anne interfered much more in internal policy than foreign affairs; she was a very proud queen who insisted on the divine rights of the King of France.
 
-Europe_map_1648.PNG in 1648]]
+in 1648]]
 
 All this led her to advocate a forceful policy in all matters relating to the King's authority, in a manner that was much more radical than the one proposed by Mazarin. The Cardinal depended totally on Anne's support and had to use all his influence on the Queen to avoid nullifying, but to restrain some of her radical actions. Anne imprisoned any aristocrat or member of parliament who challenged her will; her main aim was to transfer to her son an absolute authority in the matters of finance and justice. One of the leaders of the Parlement of Paris, whom she had jailed, died in prison.[12]
 
@@ -50,7 +48,7 @@ The __, political heirs of the disaffected feudal aristocracy, sought to protect
 
 In 1648, Anne and Mazarin attempted to tax members of the __. The members refused to comply and ordered all of the king's earlier financial edicts burned. Buoyed by the victory of (later known as __) at the Battle of Lens, Mazarin, on Queen Anne's insistence, arrested certain members in a show of force.[13] The most important arrest, from Anne's point of view, concerned Pierre Broussel, one of the most important leaders in the __.
 
-Louis_XIV_en_Jupiter,_vainqueur_de_la_Fronde.jpg]]
+]]
 
 People in France were complaining about the expansion of royal authority, the high rate of taxation, and the reduction of the authority of the Parlement de Paris and other regional representative entities. Paris erupted in rioting as a result, and Anne was forced, under intense pressure, to free Broussel. Moreover, a mob of angry Parisians broke into the royal palace and demanded to see their king. Led into the royal bedchamber, they gazed upon Louis, who was feigning sleep, were appeased, and then quietly departed. The threat to the royal family prompted Anne to flee Paris with the king and his courtiers.
 
@@ -73,19 +71,13 @@ Personal reign and reforms
 
 Coming of age and early reforms
 
-Royal_Monogram_of_King_Louis_XIV_of_France.svg
-
 Louis XIV was declared to have reached the age of majority on 7 September 1651. On the death of Mazarin, in March 1661, Louis assumed personal control of the reins of government and astonished his court by declaring that he would rule without a chief minister: "Up to this moment I have been pleased to entrust the government of my affairs to the late Cardinal. It is now time that I govern them myself. You [he was talking to the secretaries and ministers of state] will assist me with your counsels when I ask for them. I request and order you to seal no orders except by my command . . . I order you not to sign anything, not even a passport . . . without my command; to render account to me personally each day and to favor no one".[18] Louis was able to capitalize on the widespread public yearning for law and order, that resulted from prolonged foreign wars and domestic civil strife, to further consolidate central political authority and reform at the expense of the feudal aristocracy. Praising his ability to choose and encourage men of talent, the historian Chateaubriand noted: "it is the voice of genius of all kinds which sounds from the tomb of Louis".[19]
-
-Louis-xiv-lebrunl.jpg
 
 Louis began his personal reign with administrative and fiscal reforms. In 1661, the treasury verged on bankruptcy. To rectify the situation, Louis chose Jean-Baptiste Colbert as Controller-General of Finances in 1665. However, Louis first had to neutralize Nicolas Fouquet, the Superintendent of Finances, in order to give Colbert a free hand. Although Fouquet's financial indiscretions were not very different from Mazarin's before him or Colbert's after him, his ambition was worrying to Louis. He had, for example, built an opulent château at Vaux-le-Vicomte where he entertained Louis and his court ostentatiously, as if he were wealthier than the king himself. The court was left with the impression that the vast sums of money needed to support his lifestyle could only have been obtained through embezzlement of government funds.
 
 Fouquet appeared eager to succeed Mazarin and Richelieu in assuming power, and he indiscreetly purchased and privately fortified the remote island of Belle Île. These acts sealed his doom. Fouquet was charged with embezzlement. The _Parlement_ found him guilty and sentenced him to exile. However, Louis altered the sentence to life-imprisonment and abolished Fouquet's post.
 
 With Fouquet dismissed, Colbert reduced the national debt through more efficient taxation. The principal taxes included the _aides_ and _douanes_ (both customs duties), the _gabelle_ (a tax on salt), and the _taille_ (a tax on land). The _taille_ was reduced at first; financial officials were forced to keep regular accounts, auctioning certain taxes instead of selling them privately to a favored few, revising inventories and removing unauthorized exemptions (for example, in 1661 only 10 per cent from the royal domain reached the King). Reform proved difficult because the _taille_ was levied by officers of the Crown who had purchased their post at a high price: punishment of abuses necessarily lowered the value of the post. Nevertheless, excellent results were achieved: the deficit of 1661 turned into a surplus in 1666. The interest on the debt was reduced from 52 million to 24 million livres. The _taille_ was reduced to 42 million in 1661 and 35 million in 1665; finally the revenue from indirect taxation progressed from 26 million to 55 million. The revenues of the royal domain were raised from 80,000 livres in 1661 to 5.5 million livres in 1671. In 1661, the receipts were equivalent to 26 million British pounds, of which 10 million reached the treasury. The expenditure was around 18 million pounds, leaving a deficit of 8 million. In 1667, the net receipts had risen to 20 million pounds sterling, while expenditure had fallen to 11 million, leaving a surplus of 9 million pounds.
-
-Description-de-l'entree-Du-Roy-et-de-la-Reyne-Paris_MG_1114.tif
 
 To support the reorganized and enlarged army, the panoply of Versailles, and the growing civil administration, the king needed a good deal of money. Finance had always been the weak spot in the French monarchy: methods of collecting taxes were costly and inefficient; direct taxes passed through the hands of many intermediate officials; and indirect taxes were collected by private concessionaries, called tax farmers, who made a substantial profit. Consequently, the state always received far less than what the taxpayers actually paid.
 
@@ -99,7 +91,7 @@ Louis instituted reforms in military administration through Michel le Tellier an
 
 Relations with the major colonies
 
-Louis14-Family.jpg. L to R: Louis' aunt, Henriette-Marie; his brother, Philippe, duc d'Orléans; the Duke's daughter, Marie Louise d'Orléans, and wife, Henriette-Anne Stuart; the Queen-mother, Anne of Austria; three daughters of Gaston d'Orléans; Louis XIV; the Dauphin Louis; Queen Marie-Thérèse; _la Grande Mademoiselle_.]]
+. L to R: Louis' aunt, Henriette-Marie; his brother, Philippe, duc d'Orléans; the Duke's daughter, Marie Louise d'Orléans, and wife, Henriette-Anne Stuart; the Queen-mother, Anne of Austria; three daughters of Gaston d'Orléans; Louis XIV; the Dauphin Louis; Queen Marie-Thérèse; _la Grande Mademoiselle_.]]
 
 Legal matters did not escape Louis' attention, as is reflected in the numerous "Great Ordinances" he enacted. Pre-revolutionary France was a patchwork of legal systems, with as many legal customs as there were provinces, and two co-existing legal traditions—customary law in the north and Roman civil law in the south.[21] The _Grande Ordonnance de Procédure Civile_ of 1667, also known as the _Code Louis_, was a comprehensive legal code attempting a uniform regulation of civil procedure throughout legally irregular France. Among other things, it prescribed baptismal, marriage and death records in the state's registers, not the church's, and it strictly regulated the right of the _Parlements_ to remonstrate.[22] The _Code Louis_ played an important part in French legal history as the basis for the Napoleonic code, from which many modern legal codes are, in turn, derived.
 
@@ -117,7 +109,7 @@ Early wars in the Low Countries
 
 Spain
 
-Louis_XIV_by_Robert_Nanteuil_1670.jpeg]] Gentlemen_here_is_the_King_of_Spain.jpg
+]]
 
 The death of his maternal uncle King Philip IV of Spain, in 1665, precipitated the War of Devolution. In 1660, Louis had married Philip IV's eldest daughter, Maria Theresa, as one of the provisions of the 1659 Treaty of the Pyrenees. The marriage treaty specified that Maria Theresa was to renounce all claims to Spanish territory for herself and all her descendants. Mazarin and Lionne, however, made the renunciation conditional on the full payment of a Spanish dowry of 500,000 écus.[24] The dowry was never paid and would later play a part persuading his maternal first cousin Charles II of Spain to leave his empire to Philip, Duke of Anjou (later Philip V of Spain), the grandson of Louis XIV and Maria Theresa.
 
@@ -125,9 +117,9 @@ The War of Devolution did not focus on the payment of the dowry, rather, the lac
 
 Relations with the Dutch
 
-Forces_of_Louis_XIV_before_Schenkenschans_-_De_troepen_van_Lodewijk_XIV_voor_Schenkenschans,_18_juni_1672_(Lambert_de_Hondt_II).jpg, 1672]] Internal problems in the Dutch Republic aided Louis' designs. The most prominent politician in the Dutch Republic at the time, the "Grand Pensionary" Johan de Witt, feared the ambition of the young William III, Prince of Orange, specifically dispossession of his supreme power and the restoration of the House of Orange to the influence it had enjoyed before the death of William II, Prince of Orange. The Dutch were thus initially more preoccupied with domestic affairs than the French advance into Spanish territory. Moreover, the French were nominally their allies against the English in the ongoing Second Anglo-Dutch War. Shocked by the rapidity of French successes and fearful of the future, the Dutch decided to abandon their nominal allies and made peace with England. Joined by Sweden, the English and Dutch formed a Triple Alliance in 1668. The threat of an escalation of the conflict in the Low Countries and a secret treaty partitioning the Spanish succession with Holy Roman Emperor Leopold I, the other major claimant to the throne of Spain, induced Louis to make peace.
+, 1672]] Internal problems in the Dutch Republic aided Louis' designs. The most prominent politician in the Dutch Republic at the time, the "Grand Pensionary" Johan de Witt, feared the ambition of the young William III, Prince of Orange, specifically dispossession of his supreme power and the restoration of the House of Orange to the influence it had enjoyed before the death of William II, Prince of Orange. The Dutch were thus initially more preoccupied with domestic affairs than the French advance into Spanish territory. Moreover, the French were nominally their allies against the English in the ongoing Second Anglo-Dutch War. Shocked by the rapidity of French successes and fearful of the future, the Dutch decided to abandon their nominal allies and made peace with England. Joined by Sweden, the English and Dutch formed a Triple Alliance in 1668. The threat of an escalation of the conflict in the Low Countries and a secret treaty partitioning the Spanish succession with Holy Roman Emperor Leopold I, the other major claimant to the throne of Spain, induced Louis to make peace.
 
-Louis_XIV_crosses_the_Rhine_at_Lobith_-_Lodewijk_XIV_trekt_bij_het_Tolhuis_bij_Lobith_de_Rijn_over,_12_juni_1672_(Adam_Frans_van_der_Meulen).jpg]] Louis_XIV,_King_of_France,_after_Lefebvre_-_Les_collections_du_château_de_Versailles.jpg
+]]
 
 The Triple Alliance did not last very long. In 1670, French gold bought the adherence of Charles II of England to the secret Treaty of Dover. France and England, along with certain Rhineland princes, declared war on the Dutch Republic in 1672, igniting the Franco-Dutch War. The rapid invasion and occupation of most of the Netherlands precipitated a coup that toppled De Witt and brought William III to power.
 
@@ -147,11 +139,11 @@ Louis' policy of the _Réunions_ may have raised France to its greatest size and
 
 Non-European relations and the colonies
 
-Ambassade_Perse_auprès_de_Louis_XIV.jpg sent by Sultan Husayn in 1715. _Ambassade de Perse auprès de Louis XIV_, studio of Antoine Coypel.]]
+sent by Sultan Husayn in 1715. _Ambassade de Perse auprès de Louis XIV_, studio of Antoine Coypel.]]
 
 French colonies multiplied in Africa, the Americas, and Asia during Louis' reign, and French explorers made important discoveries in North America. In 1673, Louis Jolliet and Jacques Marquette discovered the Mississippi River. In 1682, René-Robert Cavelier, Sieur de La Salle, followed the Mississippi to the Gulf of Mexico and claimed the vast Mississippi basin in Louis' name, calling it _Louisiane_. French trading posts were also established in India, at Chandernagore and Pondicherry, and in the Indian Ocean at Île Bourbon. Throughout these regions Louis and Colbert embarked on an extensive program of architecture and urbanism meant to reflect the styles of Versailles and Paris and the 'gloire' of the realm.[27]
 
-SiameseEmbassyToLouisXIV1686NicolasLarmessin.jpg embassy of King Narai to Louis XIV in 1686, led by Kosa Pan. Engraving by Nicolas Larmessin.]]
+embassy of King Narai to Louis XIV in 1686, led by Kosa Pan. Engraving by Nicolas Larmessin.]]
 
 Meanwhile, diplomatic relations were initiated with distant countries. In 1669, Suleiman Aga led an Ottoman embassy to revive the old Franco-Ottoman alliance.[28] Then, in 1682, after the reception of the Moroccan embassy of Mohammed Tenim in France, Moulay Ismail, Sultan of Morocco, allowed French consular and commercial establishments in his country.[29] In 1699, Louis once again received a Moroccan ambassador, Abdallah bin Aisha, and in 1715, he received a Persian embassy led by Mohammad Reza Beg.
 
@@ -168,15 +160,13 @@ By the early 1680s, Louis had greatly augmented French influence in the world. D
 
 Louis initially supported traditional Gallicanism, which limited papal authority in France, and convened an Assembly of the French clergy in November 1681. Before its dissolution eight months later, the Assembly had accepted the Declaration of the Clergy of France, which increased royal authority at the expense of papal power. Without royal approval, bishops could not leave France, and appeals could not be made to the Pope. Additionally, government officials could not be excommunicated for acts committed in pursuance of their duties. Although the king could not make ecclesiastical law, all papal regulations without royal assent were invalid in France. Unsurprisingly, the pope repudiated the Declaration.[35]
 
-Louis14-Versailles1685.jpg at Versailles on 15 May 1685, following the Bombardment of Genoa. (_Reparation faite à Louis XIV par le Doge de Gênes. 15 mai 1685_ by Claude Guy Halle, Versailles.)]]
+at Versailles on 15 May 1685, following the Bombardment of Genoa. (_Reparation faite à Louis XIV par le Doge de Gênes. 15 mai 1685_ by Claude Guy Halle, Versailles.)]]
 
 By attaching nobles to his court at Versailles, Louis achieved increased control over the French aristocracy. Apartments were built to house those willing to pay court to the king.[36] However, the pensions and privileges necessary to live in a style appropriate to their rank were only possible by waiting constantly on Louis.[37] For this purpose, an elaborate court ritual was created wherein the king became the centre of attention and was observed throughout the day by the public. With his excellent memory, Louis could then see who attended him at court and who was absent, facilitating the subsequent distribution of favours and positions. Another tool Louis used to control his nobility was censorship, which often involved the opening of letters to discern their author's opinion of the government and king.[38] Moreover, by entertaining, impressing, and domesticating them with extravagant luxury and other distractions, Louis not only cultivated public opinion of him, he also ensured the aristocracy remained under his scrutiny.
 
 Louis' extravagance at Versailles extended far beyond the scope of elaborate court rituals. In an excerpt from Diderot's _Encyclopédie,_ Louis-Jean-Marie Daubenton recounts a story in which Louis took delivery of an African elephant as a gift. This, along with the prohibition of private armies, prevented them from passing time on their own estates and in their regional power bases, from which they historically waged local wars and plotted resistance to royal authority.[39] Louis thus compelled and seduced the old military aristocracy (the "nobility of the sword") into becoming his ceremonial courtiers, further weakening their power. In their place, Louis raised commoners or the more recently ennobled bureaucratic aristocracy (the "nobility of the robe"). He judged that royal authority thrived more surely by filling high executive and administrative positions with these men because they could be more easily dismissed than nobles of ancient lineage, with entrenched influence. It is believed that Louis' policies were rooted in his experiences during the _Fronde_, when men of high birth readily took up the rebel cause against their king, who was actually the kinsman of some. This victory of Louis' over the nobility may have then in fact ensured the end of major civil wars in France until the French Revolution about a century later.
 
 France as the pivot of warfare
-
-De-La-Torre-Jean-Du-Mont--Mémoires_MG_0958.tif
 
 In 1648 France was the leading European power, and most of the wars pivoted around its aggressiveness. Only poverty-stricken Russia exceeded it in population, and no one could match its wealth, central location, and very strong professional army. It had largely avoided the devastation of the Thirty Years War. Its weaknesses included an inefficient financial system that was hard-pressed to pay for all the military adventures, and the tendency of most other powers to gang up against it.
 
@@ -191,7 +181,7 @@ Vauban was pessimistic about France's so-called friends and allies:
 
 Revocation of the Edict of Nantes
 
-S21c.jpg]]
+]]
 
 It has traditionally been suggested that the devout Madame de Maintenon pushed Louis to persecute Protestants and revoke the 1598 Edict of Nantes, which awarded Huguenots political and religious freedom, but her influence in the matter is now being questioned.[44] Louis saw the persistence of Protestantism as a disgraceful reminder of royal powerlessness. After all, the Edict was the pragmatic concession of his grandfather Henry IV to end the longstanding French Wars of Religion. An additional factor in Louis' thinking was the prevailing contemporary European principle to assure socio-political stability, _cuius regio, eius religio_ ("whose realm, his religion"), the idea that the religion of the ruler should be the religion of the realm (as originally confirmed in central Europe in the Peace of Augsburg of 1555).[45]
 
@@ -199,7 +189,7 @@ Responding to petitions, Louis initially excluded Protestants from office, const
 
 In 1681, Louis dramatically increased his persecution of Protestants. The principle of _cuius regio, eius religio_ generally had also meant that subjects who refused to convert could emigrate, but Louis banned emigration and effectively insisted that all Protestants must be converted. Secondly, following the proposal of René de Marillac and the Marquis of Louvois, he began quartering dragoons in Protestant homes. Although this was within his legal rights, the _dragonnades_ inflicted severe financial strain on Protestants and atrocious abuse. Between 300,000 and 400,000 Huguenots converted, as this entailed financial rewards and exemption from the _dragonnades_.[47]
 
-Dragonnades430.jpg rebelled against the officially sanctioned _dragonnades_ (conversions enforced by dragoons, labeled "missionaries in boots") that followed the Edict of Fontainebleau.]]
+rebelled against the officially sanctioned _dragonnades_ (conversions enforced by dragoons, labeled "missionaries in boots") that followed the Edict of Fontainebleau.]]
 
 On 15 October 1685, Louis issued the Edict of Fontainebleau, which cited the redundancy of privileges for Protestants given their scarcity after the extensive conversions. The Edict of Fontainebleau revoked the Edict of Nantes and repealed all the privileges that arose therefrom.[48] By his edict, Louis no longer tolerated the existence of Protestant groups, pastors, or churches in France. No further churches were to be constructed, and those already existing were to be demolished. Pastors could choose either exile or a secular life. Those Protestants who had resisted conversion were now to be baptised forcibly into the established church.[49]
 
@@ -218,7 +208,7 @@ League of Augsburg
 
 Causes and conduct of the war
 
-Batalla_de_Fleurus_(1690).jpg, 1690]] Nocret,_attributed_to_-_Louis_XIV_of_France_-_Versailles,_MV2066.jpg
+, 1690]]
 
 The War of the League of Augsburg, which lasted from 1688 to 1697, initiated a period of decline in Louis' political and diplomatic fortunes. The conflict arose from two events in the Rhineland. First, in 1685, the Elector Palatine Charles II died. All that remained of his immediate family was Louis' sister-in-law, Elizabeth Charlotte. German law ostensibly barred her from succeeding to her brother's lands and electoral dignity, but it was unclear enough for arguments in favour of Elizabeth Charlotte to have a chance of success. Conversely, the princess was clearly entitled to a division of the family's personal property. Louis pressed her claims to land and chattels, hoping the latter, at least, would be given to her.[55] Then, in 1688, Maximilian Henry of Bavaria, Archbishop of Cologne, an ally of France, died. The archbishopric had traditionally been held by the Wittelsbachs of Bavaria. However, the Bavarian claimant to replace Maximilian Henry, Prince Joseph Clemens of Bavaria, was at that time not more than 17 years old and not even ordained. Louis sought instead to install his own candidate, William Egon of Fürstenberg, to ensure the key Rhenish state remained an ally.[56]
 
@@ -226,11 +216,9 @@ In light of his foreign and domestic policies during the early 1680s, which were
 
 Another event that Louis found threatening was the Glorious Revolution of 1688, in England. Although King James II was Catholic, his two Anglican daughters, Mary and Anne, ensured the English people a Protestant succession. However, when James II's son James was born, he took precedence in the succession over his elder sisters. This seemed to herald an era of Catholic monarchs in England. Protestant lords called on the Dutch Prince William III of Orange, grandson of Charles I of England, to come to their aid. He sailed for England with troops despite Louis' warning that France would regard it as a provocation. Witnessing numerous desertions and defections, even among those closest to him, James II fled England. Parliament declared the throne vacant, and offered it to James's daughter Mary II and his son-in-law and nephew William. Vehemently anti-French, William (now William III of England) pushed his new kingdoms into war, thus transforming the League of Augsburg into the Grand Alliance. Before this happened, Louis expected William's expedition to England to absorb his energies and those of his allies, so he dispatched troops to the Rhineland after the expiry of his ultimatum to the German princes requiring confirmation of the Truce of Ratisbon and acceptance of his demands about the succession crises. This military manoeuvre was also intended to protect his eastern provinces from Imperial invasion by depriving the enemy army of sustenance, thus explaining the pre-emptive scorched earth policy pursued in much of southwestern Germany (the "Devastation of the Palatinate").[59]
 
-Equestrian_portrait_louis_xiv_1692.jpg.]]
+.]]
 
 French armies were generally victorious throughout the war because of Imperial commitments in the Balkans, French logistical superiority, and the quality of French generals such as Condé's famous pupil, François Henri de Montmorency-Bouteville, duc de Luxembourg. His triumphs at the Battles of Fleurus in 1690, Steenkerque in 1692, and Landen in 1693 preserved northern France from invasion.[60]
-
-Marshal_luxembourg.jpg
 
 Although an attempt to restore James II failed at the Battle of the Boyne in 1690, France accumulated a string of victories from Flanders in the north, Germany in the east, and Italy and Spain in the south, to the high seas and the colonies. Louis personally supervised the captures of Mons in 1691 and Namur in 1692. Luxembourg gave France the defensive line of the Sambre by capturing Charleroi in 1693. France also overran most of the Duchy of Savoy after the battles of Marsaglia and Staffarde in 1693. While naval stalemate ensued after the French victory at the Battle of Beachy Head in 1690 and the Allied victory at Barfleur-La Hougue in 1692, the Battle of Torroella in 1694 exposed Catalonia to French invasion, culminating in the capture of Barcelona. Although the Dutch captured Pondichéry in 1693, a French raid on the Spanish treasure port of Cartagena, Spain in 1697 yielded a fortune of 10,000,000 livres.
 
@@ -251,7 +239,7 @@ War of the Spanish Succession
 
 Causes and build-up to the war
 
-Hyacinthe_Rigaud_-_Philippe_V,_roi_d'Espagne_(1683-1746)_-_Google_Art_Project.jpg]] By the time of the Treaty of Ryswick, the Spanish succession had been a source of concern to European leaders for well over forty years. King Charles II ruled a vast empire comprising Spain, Naples, Sicily, Milan, the Spanish Netherlands, and numerous Spanish colonies. He produced no children, however, and consequently had no direct heirs.
+]] By the time of the Treaty of Ryswick, the Spanish succession had been a source of concern to European leaders for well over forty years. King Charles II ruled a vast empire comprising Spain, Naples, Sicily, Milan, the Spanish Netherlands, and numerous Spanish colonies. He produced no children, however, and consequently had no direct heirs.
 
 The principal claimants to the throne of Spain belonged to the ruling families of France and Austria. The French claim derived from Louis XIV's mother Anne of Austria (the older sister of Philip IV of Spain) and his wife Maria Theresa (Philip IV's eldest daughter). Based on the laws of primogeniture, France had the better claim as it originated from the eldest daughters in two generations. However, their renunciation of succession rights complicated matters. In the case of Maria Theresa, nonetheless, the renunciation was considered null and void owing to Spain's breach of her marriage contract with Louis. In contrast, no renunciations tainted the claims of the Emperor Leopold I's son Charles, Archduke of Austria, who was a grandson of Philip III's youngest daughter Maria Anna. The English and Dutch feared that a French or Austrian-born Spanish king would threaten the balance of power and thus preferred the Bavarian Prince Joseph Ferdinand, a grandson of Leopold I through his first wife Margaret Theresa of Spain (the younger daughter of Philip IV).
 
@@ -261,7 +249,7 @@ Six months later, Joseph Ferdinand died. Therefore, in 1700, Louis and William I
 
 Acceptance of the will of Charles II and consequences
 
-Louis_le_Grand;_Rigaud_Hyacinthe.jpg On his deathbed in 1700, Charles II unexpectedly changed his will. The clear demonstration of French military superiority for many decades before this time, the pro-French faction at the court of Spain, and even Pope Innocent XII convinced him that France was more likely to preserve his empire intact. He thus offered the entire empire to the Dauphin's second son Philip, Duke of Anjou, provided it remained undivided. Anjou was not in the direct line of French succession, thus his accession would not cause a Franco-Spanish union. If Anjou refused, the throne would be offered to his younger brother Charles, Duke of Berry. If the Duke of Berry declined it, it would go to the Archduke Charles, then to the distantly related House of Savoy if Charles declined it.[68]
+On his deathbed in 1700, Charles II unexpectedly changed his will. The clear demonstration of French military superiority for many decades before this time, the pro-French faction at the court of Spain, and even Pope Innocent XII convinced him that France was more likely to preserve his empire intact. He thus offered the entire empire to the Dauphin's second son Philip, Duke of Anjou, provided it remained undivided. Anjou was not in the direct line of French succession, thus his accession would not cause a Franco-Spanish union. If Anjou refused, the throne would be offered to his younger brother Charles, Duke of Berry. If the Duke of Berry declined it, it would go to the Archduke Charles, then to the distantly related House of Savoy if Charles declined it.[68]
 
 Louis was confronted with a difficult choice. He might agree to a partition of the Spanish possessions and avoid a general war, or accept Charles II's will and alienate much of Europe. Initially, Louis may have been inclined to abide by the partition treaties. However, the Dauphin's insistence persuaded Louis otherwise.[69] Moreover, Louis's foreign minister, Jean-Baptiste Colbert, marquis de Torcy, pointed out that war with the Emperor would almost certainly ensue whether Louis accepted the partition treaties or Charles II's will. He emphasised that, should it come to war, William III was unlikely to stand by France since he "made a treaty to avoid war and did not intend to go to war to implement the treaty".[70] Indeed, in the event of a war, it might be preferable to be already in control of the disputed lands. Eventually, therefore, Louis decided to accept Charles II's will. Philip, Duke of Anjou, thus became Philip V, King of Spain.
 
@@ -269,7 +257,7 @@ Most European rulers accepted Philip as king, though some only reluctantly. Depe
 
 Commencement of fighting
 
-Batalladealmansa.jpg defeated decisively the Alliance forces of Portugal, England, and the Dutch Republic at the Battle of Almansa.]] 1706-05-23-Slag_bij_Ramillies.jpg between the French and the English, 23 May 1706.]] Even before war was officially declared, hostilities began with Imperial aggression in Italy. When finally declared, the War of the Spanish Succession would last almost until Louis's death, at great cost to him and the kingdom of France.
+defeated decisively the Alliance forces of Portugal, England, and the Dutch Republic at the Battle of Almansa.]] between the French and the English, 23 May 1706.]] Even before war was officially declared, hostilities began with Imperial aggression in Italy. When finally declared, the War of the Spanish Succession would last almost until Louis's death, at great cost to him and the kingdom of France.
 
 The war began with French successes, however the joint talents of John Churchill, Duke of Marlborough, and Eugene of Savoy checked these victories and broke the myth of French invincibility. The duo allowed the Palatinate and Austria to occupy Bavaria after their victory at the Battle of Blenheim. Maximilian II Emanuel, Elector of Bavaria, had to flee to the Spanish Netherlands. The impact of this victory won the support of Portugal and Savoy. Later, the Battle of Ramillies delivered the Low Countries up to the Allies, and the Battle of Turin forced Louis to evacuate Italy, leaving it open to Allied forces. Marlborough and Eugene of Savoy met again at the Battle of Oudenarde, which enabled them to mount an invasion of France.
 
@@ -285,7 +273,7 @@ French military successes near the end of the war took place against the backgro
 
 Conclusion of peace
 
-Philippe_Buache_Carte_de_France_divisee_suivant_les_quatre_departements_de_Messieurs_les_secretaires_dEtat_07710637.jpg As a result of the fresh British perspective on the European balance of power, Anglo-French talks began that culminated in the 1713 Treaty of Utrecht between Louis, Philip V of Spain, Anne, Queen of Great Britain, and the Dutch Republic. In 1714, after losing Landau and Freiburg, the Holy Roman Emperor also made peace with France in the Treaties of Rastatt and Baden.
+As a result of the fresh British perspective on the European balance of power, Anglo-French talks began that culminated in the 1713 Treaty of Utrecht between Louis, Philip V of Spain, Anne, Queen of Great Britain, and the Dutch Republic. In 1714, after losing Landau and Freiburg, the Holy Roman Emperor also made peace with France in the Treaties of Rastatt and Baden.
 
 In the general settlement, Philip V retained Spain and its colonies, whereas Austria received the Spanish Netherlands and divided Spanish Italy with Savoy. Britain kept Gibraltar and Menorca. Louis agreed to withdraw his support for James Stuart, son of James II and pretender to the throne of Great Britain, and ceded Newfoundland, Rupert's Land, and Acadia in the Americas to Anne. Britain gained most from the Treaty of Utrecht, but the final terms were much more favourable to France than those which were being discussed in peace negotiations in 1709 and 1710. France retained Île-Saint-Jean and Île Royale, and Louis did acquire a few minor European territories, such as the Principality of Orange and the Ubaye Valley, which covered transalpine passes into Italy. Thanks to Louis, his allies the Electors of Bavaria and Cologne were restored to their pre-war status and returned their lands.[79]
 
@@ -294,7 +282,7 @@ Personal life
 
 Marriages and children
 
-Dual_Cypher_of_King_Louis_XIV_&_Queen_Marie_Thérèse_of_France.svg.]] Louis and his wife Maria Theresa of Spain had six children from the marriage contracted for them in 1660. However, only one child, the eldest, survived to adulthood: Louis, _le Grand Dauphin_, known as _Monseigneur_. Maria Theresa died in 1683, whereupon Louis remarked that she had never caused him unease on any other occasion.
+.]] Louis and his wife Maria Theresa of Spain had six children from the marriage contracted for them in 1660. However, only one child, the eldest, survived to adulthood: Louis, _le Grand Dauphin_, known as _Monseigneur_. Maria Theresa died in 1683, whereupon Louis remarked that she had never caused him unease on any other occasion.
 
 Despite evidence of affection early on in their marriage, Louis was never faithful to Maria Theresa. He took a series of mistresses, both official and unofficial. Among the better documented are Louise de La Vallière (with whom he had 5 children; 1661–67), Bonne de Pons d'Heudicourt (1665), Catherine Charlotte de Gramont (1665), Françoise-Athénaïs, Marquise de Montespan (with whom he had 7 children; 1667–80), Anne de Rohan-Chabot (1669–75), Claude de Vin des Œillets (1 child born in 1676), Isabelle de Ludres (1675–78), and Marie Angélique de Scorailles (1679–81), who died at age 19 in childbirth. Through these liaisons, he produced numerous illegitimate children, most of whom he married to members of cadet branches of the royal family.
 
@@ -304,17 +292,17 @@ When he legitimized his children by Madame de Montespan on 20 December 1673, Fra
 
 Piety and religion
 
-MEP_in_Paris.jpg.]] Louis was a pious and devout king who saw himself as the head and protector of the Gallican Church. Louis made his devotions daily regardless of where he was, following the liturgical calendar regularly.[82] Under the influence of his very religious second wife, he became much stronger in the practice of his Catholic faith. This included the banning of opera and comedy performances during Lent.
+.]] Louis was a pious and devout king who saw himself as the head and protector of the Gallican Church. Louis made his devotions daily regardless of where he was, following the liturgical calendar regularly.[82] Under the influence of his very religious second wife, he became much stronger in the practice of his Catholic faith. This included the banning of opera and comedy performances during Lent.
 
 Towards the middle and the end of his reign, the centre for the King's religious observances was usually the Chapelle Royale at Versailles. Ostentation was a distinguishing feature of daily Mass, annual celebrations, such as those of Holy Week, and special ceremonies.[83] Louis established the Paris Foreign Missions Society, but his informal alliance with the Ottoman Empire was criticised for undermining Christendom.[84]
 
 Patronage of the arts
 
-Portrait_de_Louis_XIV_entouré_des_arts_et_des_sciences.jpg Chateau-de-versailles-cour.jpg Louis generously supported the royal court of France and those who worked under him. He brought the Académie Française under his patronage and became its "Protector". He allowed Classical French literature to flourish by protecting such writers as Molière, Racine, and La Fontaine, whose works remain greatly influential to this day. Louis also patronised the visual arts by funding and commissioning various artists, such as Charles Le Brun, Pierre Mignard, Antoine Coysevox, and Hyacinthe Rigaud, whose works became famous throughout Europe. In music, composers and musicians such as Jean-Baptiste Lully, Jacques Champion de Chambonnières, and François Couperin thrived. In 1661, Louis founded the Académie Royale de Danse, and in 1669, the Académie d'Opéra, important driving events in the evolution of ballet. The King also attracted, supported and patronized such artists as André Charles Boulle who revolutionised marquetry with his art of inlay, today known as "Boulle Work".
+Louis generously supported the royal court of France and those who worked under him. He brought the Académie Française under his patronage and became its "Protector". He allowed Classical French literature to flourish by protecting such writers as Molière, Racine, and La Fontaine, whose works remain greatly influential to this day. Louis also patronised the visual arts by funding and commissioning various artists, such as Charles Le Brun, Pierre Mignard, Antoine Coysevox, and Hyacinthe Rigaud, whose works became famous throughout Europe. In music, composers and musicians such as Jean-Baptiste Lully, Jacques Champion de Chambonnières, and François Couperin thrived. In 1661, Louis founded the Académie Royale de Danse, and in 1669, the Académie d'Opéra, important driving events in the evolution of ballet. The King also attracted, supported and patronized such artists as André Charles Boulle who revolutionised marquetry with his art of inlay, today known as "Boulle Work".
 
 Over the course of four building campaigns, Louis converted a hunting lodge built by Louis XIII into the spectacular Palace of Versailles. With the exception of the current Royal Chapel (built near the end of Louis' reign), the palace achieved much of its current appearance after the third building campaign, which was followed by an official move of the royal court to Versailles on 6 May 1682. Versailles became a dazzling, awe-inspiring setting for state affairs and the reception of foreign dignitaries. At Versailles, the king alone commanded attention.
 
-LouisXIV-Bernini.jpg]]
+]]
 
 Several reasons have been suggested for the creation of the extravagant and stately palace, as well as the relocation of the monarchy's seat. For example, the memoirist Saint-Simon speculated that Louis viewed Versailles as an isolated power center where treasonous cabals could be more readily discovered and foiled.[85] Alternatively, there has been speculation that the revolt of the _Fronde_ caused Louis to hate Paris, which he abandoned for a country retreat. However, his sponsorship of many public works in Paris, such as the establishment of a police force and of street-lighting,[86] lend little credence to this theory. As a further example of his continued care for the capital, Louis constructed the _Hôtel des Invalides_, a military complex and home to this day for officers and soldiers rendered infirm either by injury or old age. While pharmacology was still quite rudimentary in his day, the _Invalides_ pioneered new treatments and set new standards for hospice treatment. The conclusion of the Treaty of Aix-la-Chapelle, in 1668, also induced Louis to demolish the northern walls of Paris in 1670 and replace them with wide tree-lined boulevards.[87]
 
@@ -323,11 +311,11 @@ Louis also renovated and improved the Louvre and other royal residences. Gian Lo
 
 Image and depiction
 
-Bronze_bust_of_Louis_XIV._Circa_1660_CE,_by_unknown_artist._From_Paris,_France._The_Victoria_and_Albert_Museum,_London.jpg, London.]] Few rulers in world history have commemorated themselves in as grand a manner as Louis.[89] Louis used court ritual and the arts to validate and augment his control over France. With his support, Colbert established from the beginning of Louis' personal reign a centralised and institutionalised system for creating and perpetuating the royal image. The King was thus portrayed largely in majesty or at war, notably against Spain. This portrayal of the monarch was to be found in numerous media of artistic expression, such as painting, sculpture, theatre, dance, music, and the almanacs that diffused royal propaganda to the population at large.
+, London.]] Few rulers in world history have commemorated themselves in as grand a manner as Louis.[89] Louis used court ritual and the arts to validate and augment his control over France. With his support, Colbert established from the beginning of Louis' personal reign a centralised and institutionalised system for creating and perpetuating the royal image. The King was thus portrayed largely in majesty or at war, notably against Spain. This portrayal of the monarch was to be found in numerous media of artistic expression, such as painting, sculpture, theatre, dance, music, and the almanacs that diffused royal propaganda to the population at large.
 
 Evolution of royal portraiture
 
-Le_roi_gouverne_par_lui-même.jpg ca. 1680 by Le Brun, (1619–1690)]] Over his lifetime, Louis commissioned numerous works of art to portray himself, among them over 300 formal portraits. The earliest portrayals of Louis already followed the pictorial conventions of the day in depicting the child king as the majestically royal incarnation of France. This idealisation of the monarch continued in later works, which avoided depictions of the effect of the smallpox that Louis contracted in 1647. In the 1660s, Louis began to be shown as a Roman emperor, the god Apollo, or Alexander the Great, as can be seen in many works of Charles Le Brun, such as sculpture, paintings, and the decor of major monuments.
+ca. 1680 by Le Brun, (1619–1690)]] Over his lifetime, Louis commissioned numerous works of art to portray himself, among them over 300 formal portraits. The earliest portrayals of Louis already followed the pictorial conventions of the day in depicting the child king as the majestically royal incarnation of France. This idealisation of the monarch continued in later works, which avoided depictions of the effect of the smallpox that Louis contracted in 1647. In the 1660s, Louis began to be shown as a Roman emperor, the god Apollo, or Alexander the Great, as can be seen in many works of Charles Le Brun, such as sculpture, paintings, and the decor of major monuments.
 
 The depiction of the king in this manner focused on allegorical or mythological attributes, instead of attempting to produce a true likeness. As Louis aged, so too did the manner in which he was depicted. Nonetheless, there was still a disparity between realistic representation and the demands of royal propaganda. There is no better illustration of this than in Hyacinthe Rigaud's frequently-reproduced _Portrait of Louis XIV of 1701_, in which a 63-year-old Louis appears to stand on a set of unnaturally young legs.[90]
 
@@ -344,8 +332,6 @@ Louis' reign marked the birth and infancy of the art of medallions. Sixteenth-ce
 He also used tapestries as a medium of exalting the monarchy. Tapestries could be allegorical, depicting the elements or seasons, or realist, portraying royal residences or historical events. They were among the most significant means to spread royal propaganda prior to the construction of the Hall of Mirrors at Versailles.[92]
 
 Ballet
-
-Chateau_Versailles_Galerie_des_Glaces.jpg
 
 Louis loved ballet and frequently danced in court ballets during the early half of his reign. In general, Louis was an eager dancer who performed 80 roles in 40 major ballets. This approaches the career of a professional ballet dancer.[93]
 
@@ -398,7 +384,7 @@ George Blagden portrays Louis XIV in the Canal+ series _Versailles_ which aired 
 
 Health and death
 
-Louis_XIV_of_France_and_his_family_attributed_to_Nicolas_de_Largillière.jpg'' (to the left), his grandson Louis, Duke of Burgundy (to the right), his great-grandson Louis Duke of Anjou, and Madame de Ventadour, Anjou's governess, who commissioned this painting; busts of Henry IV and Louis XIII are in the background.]]
+'' (to the left), his grandson Louis, Duke of Burgundy (to the right), his great-grandson Louis Duke of Anjou, and Madame de Ventadour, Anjou's governess, who commissioned this painting; busts of Henry IV and Louis XIII are in the background.]]
 
 Despite the image of a healthy and virile king that Louis sought to project, evidence exists to suggest that his health was not very good. He had many ailments: for example, symptoms of diabetes, as confirmed in reports of suppurating periostitis in 1678, dental abscesses in 1696, along with recurring boils, fainting spells, gout, dizziness, hot flushes, and headaches.
 
@@ -416,8 +402,8 @@ Line of succession in 1715
 
 Line of succession to the French throne upon the death of Louis XIV in 1715. Louis XIV's only surviving legitimate grandson, Philip V, was not included in the line of succession due to having renounced the French throne after the war of the Spanish succession, which lasted for 13 years after the death of Charles II of Spain in 1700.[102]
 
--   Simple_silver_crown.svg _Louis XIII (1601–1643)_
-    -   Simple_gold_crown.svg LOUIS XIV _(1638–1715)_
+-   _Louis XIII (1601–1643)_
+    -   LOUIS XIV _(1638–1715)_
         -   _Louis, Grand Dauphin (1661–1711)_
 
             -   _Louis, Duke of Burgundy (1682–1712)_
@@ -442,8 +428,6 @@ According to Philippe de Dangeau's _Journal_, Louis on his deathbed advised his 
 
   Do not follow the bad example which I have set you; I have often undertaken war too lightly and have sustained it for vanity. Do not imitate me, but be a peaceful prince, and may you apply yourself principally to the alleviation of the burdens of your subjects.[103]
 
-France_1552-1798.png
-
 Some historians point out that it was a customary demonstration of piety in those days to exaggerate one's sins. Thus they do not place much emphasis on Louis' deathbed declarations in assessing his accomplishments. Rather, they focus on military and diplomatic successes, such as how he placed a French prince on the Spanish throne. This, they contend, ended the threat of an aggressive Spain that historically interfered in domestic French politics. These historians also emphasise the effect of Louis' wars in expanding France's boundaries and creating more defensible frontiers that preserved France from invasion until the Revolution.[104]
 
 Arguably, Louis also applied himself indirectly to "the alleviation of the burdens of [his] subjects." For example, he patronised the arts, encouraged industry, fostered trade and commerce, and sponsored the founding of an overseas empire. Moreover, the significant reduction in civil wars and aristocratic rebellions during his reign are seen by these historians as the result of Louis' consolidation of royal authority over feudal elites.[105] In their analysis, his early reforms centralised France and marked the birth of the modern French state. They regard the political and military victories as well as numerous cultural achievements as the means by which Louis helped raise France to a preeminent position in Europe.[106] Europe came to admire France for its military and cultural successes, power, and sophistication. Europeans generally began to emulate French manners, values, goods, and deportment. French became the universal language of the European elite.
@@ -452,7 +436,7 @@ Louis' detractors have argued that his considerable foreign, military, and domes
 
 Alternatively, Louis' critics attribute the social upheaval culminating in the French Revolution to his failure to reform French institutions while the monarchy was still secure. Other scholars counter that there was little reason to reform institutions that largely worked well under Louis. They also maintain that events occurring almost 80 years after his death were not reasonably foreseeable to Louis, and that in any case, his successors had sufficient time to initiate reforms of their own.[108]
 
-Marche_du_Roy_accompagné_des_ses_gardes_passant_sur_le_pont_neuf_et_allant_au_Palais.JPG under Louis XIV]]
+under Louis XIV]]
 
 Louis has often been criticised for his vanity. The memoirist Saint-Simon, who claimed that Louis slighted him, criticised him thus:
 

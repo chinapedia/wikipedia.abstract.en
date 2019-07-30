@@ -1,4 +1,4 @@
-Paolo_Agostino_by_James_Caldwall.jpg]]
+]]
 
 PAOLO AGOSTINO (or AGOSTINI; AUGUSTINUS in Latin; c. 1583 – 1629) was an Italian composer and organist of the early Baroque era. He was born perhaps at Vallerano, near Viterbo. He studied under Giovanni Bernardino Nanino, according to the dedication in the third and fourth books of his masses. Subsequently, he married Nanino's daughter.
 

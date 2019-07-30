@@ -11,11 +11,11 @@ Properties
 
 Atomic and physical
 
-Limetal.JPG Like the other alkali metals, lithium has a single valence electron that is easily given up to form a cation.[3] Because of this, lithium is a good conductor of heat and electricity as well as a highly reactive element, though it is the least reactive of the alkali metals. Lithium's low reactivity is due to the proximity of its valence electron to its nucleus (the remaining two electrons are in the 1s orbital, much lower in energy, and do not participate in chemical bonds).[4] However, molten lithium is significantly more reactive than its solid form.[5][6]
+Like the other alkali metals, lithium has a single valence electron that is easily given up to form a cation.[3] Because of this, lithium is a good conductor of heat and electricity as well as a highly reactive element, though it is the least reactive of the alkali metals. Lithium's low reactivity is due to the proximity of its valence electron to its nucleus (the remaining two electrons are in the 1s orbital, much lower in energy, and do not participate in chemical bonds).[4] However, molten lithium is significantly more reactive than its solid form.[5][6]
 
 Lithium metal is soft enough to be cut with a knife. When cut, it possesses a silvery-white color that quickly changes to gray as it oxidizes to lithium oxide.[7] While it has one of the lowest melting points among all metals (), it has the highest melting and boiling points of the alkali metals.[8]
 
-Lithium has a very low density (0.534 g/cm³), comparable with pine wood. It is the least dense of all elements that are solids at room temperature; the next lightest solid element (potassium, at 0.862 g/cm³) is more than 60% denser. Furthermore, apart from helium and hydrogen, as a solid it is less dense than any other element as a liquid, being only two thirds as dense as liquid nitrogen (0.808 g/cm³).[9] Lithium can float on the lightest hydrocarbon oils and is one of only three metals that can float on water, the other two being sodium and potassium. Lithium_element.jpg Lithium's coefficient of thermal expansion is twice that of aluminium and almost four times that of iron.[10] Lithium is superconductive below 400 μK at standard pressure[11] and at higher temperatures (more than 9 K) at very high pressures (>20 GPa).[12] At temperatures below 70 K, lithium, like sodium, undergoes diffusionless phase change transformations. At 4.2 K it has a rhombohedral crystal system (with a nine-layer repeat spacing); at higher temperatures it transforms to face-centered cubic and then body-centered cubic. At liquid-helium temperatures (4 K) the rhombohedral structure is prevalent.[13] Multiple allotropic forms have been identified for lithium at high pressures.[14]
+Lithium has a very low density (0.534 g/cm³), comparable with pine wood. It is the least dense of all elements that are solids at room temperature; the next lightest solid element (potassium, at 0.862 g/cm³) is more than 60% denser. Furthermore, apart from helium and hydrogen, as a solid it is less dense than any other element as a liquid, being only two thirds as dense as liquid nitrogen (0.808 g/cm³).[9] Lithium can float on the lightest hydrocarbon oils and is one of only three metals that can float on water, the other two being sodium and potassium. Lithium's coefficient of thermal expansion is twice that of aluminium and almost four times that of iron.[10] Lithium is superconductive below 400 μK at standard pressure[11] and at higher temperatures (more than 9 K) at very high pressures (>20 GPa).[12] At temperatures below 70 K, lithium, like sodium, undergoes diffusionless phase change transformations. At 4.2 K it has a rhombohedral crystal system (with a nine-layer repeat spacing); at higher temperatures it transforms to face-centered cubic and then body-centered cubic. At liquid-helium temperatures (4 K) the rhombohedral structure is prevalent.[13] Multiple allotropic forms have been identified for lithium at high pressures.[14]
 
 Lithium has a mass specific heat capacity of 3.58 kilojoules per kilogram-kelvin, the highest of all solids.[15][16] Because of this, lithium metal is often used in coolants for heat transfer applications.[17]
 
@@ -23,7 +23,7 @@ Chemistry and compounds
 
 Lithium reacts with water easily, but with noticeably less vigor than other alkali metals. The reaction forms hydrogen gas and lithium hydroxide in aqueous solution.[18] Because of its reactivity with water, lithium is usually stored in a hydrocarbon sealant, often petroleum jelly. Though the heavier alkali metals can be stored in more dense substances, such as mineral oil, lithium is not dense enough to be fully submerged in these liquids.[19] In moist air, lithium rapidly tarnishes to form a black coating of lithium hydroxide (LiOH and LiOH·H₂O), lithium nitride (Li₃N) and lithium carbonate (Li₂CO₃, the result of a secondary reaction between LiOH and CO₂).[20]
 
-Butyllithium-hexamer-from-xtal-3D-balls-A.png fragment in a crystal]] When placed over a flame, lithium compounds give off a striking crimson color, but when it burns strongly the flame becomes a brilliant silver. Lithium will ignite and burn in oxygen when exposed to water or water vapors.[21] Lithium is flammable, and it is potentially explosive when exposed to air and especially to water, though less so than the other alkali metals. The lithium-water reaction at normal temperatures is brisk but nonviolent because the hydrogen produced does not ignite on its own. As with all alkali metals, lithium fires are difficult to extinguish, requiring dry powder fire extinguishers (Class D type). Lithium is one of the few metals that react with nitrogen under normal conditions.[22][23]
+fragment in a crystal]] When placed over a flame, lithium compounds give off a striking crimson color, but when it burns strongly the flame becomes a brilliant silver. Lithium will ignite and burn in oxygen when exposed to water or water vapors.[21] Lithium is flammable, and it is potentially explosive when exposed to air and especially to water, though less so than the other alkali metals. The lithium-water reaction at normal temperatures is brisk but nonviolent because the hydrogen produced does not ignite on its own. As with all alkali metals, lithium fires are difficult to extinguish, requiring dry powder fire extinguishers (Class D type). Lithium is one of the few metals that react with nitrogen under normal conditions.[22][23]
 
 Lithium has a diagonal relationship with magnesium, an element of similar atomic and ionic radius. Chemical resemblances between the two metals include the formation of a nitride by reaction with N₂, the formation of an oxide () and peroxide () when burnt in O₂, salts with similar solubilities, and thermal instability of the carbonates and nitrides.[24][25] The metal reacts with hydrogen gas at high temperatures to produce lithium hydride (LiH).[26]
 
@@ -54,13 +54,13 @@ Both stable isotopes of lithium can be laser cooled and were used to produce the
 
 Occurrence
 
-Elemental_abundances.svg in the Earth's upper continental crust, on a per-atom basis.]]
+in the Earth's upper continental crust, on a per-atom basis.]]
 
 Astronomical
 
 Though it was synthesized in the Big Bang, lithium (together with beryllium and boron) is markedly less abundant in the universe than other elements. This is a result of the comparatively low stellar temperatures necessary to destroy lithium, along with a lack of common processes to produce it.[44]
 
-According to modern cosmological theory, lithium—in both stable isotopes (lithium-6 and lithium-7)—was one of the three elements synthesized in the Big Bang.[45] Though the amount of lithium generated in Big Bang nucleosynthesis is dependent upon the number of photons per baryon, for accepted values the lithium abundance can be calculated, and there is a "cosmological lithium discrepancy" in the universe: older stars seem to have less lithium than they should, and some younger stars have much more.[46] The lack of lithium in older stars is apparently caused by the "mixing" of lithium into the interior of stars, where it is destroyed,[47] while lithium is produced in younger stars. Though it transmutes into two atoms of helium due to collision with a proton at temperatures above 2.4 million degrees Celsius (most stars easily attain this temperature in their interiors), lithium is more abundant than current computations would predict in later-generation stars.[48] Nova_Centauri_2013_ESO.jpg is the first in which evidence of lithium has been found.[49]]]
+According to modern cosmological theory, lithium—in both stable isotopes (lithium-6 and lithium-7)—was one of the three elements synthesized in the Big Bang.[45] Though the amount of lithium generated in Big Bang nucleosynthesis is dependent upon the number of photons per baryon, for accepted values the lithium abundance can be calculated, and there is a "cosmological lithium discrepancy" in the universe: older stars seem to have less lithium than they should, and some younger stars have much more.[46] The lack of lithium in older stars is apparently caused by the "mixing" of lithium into the interior of stars, where it is destroyed,[47] while lithium is produced in younger stars. Though it transmutes into two atoms of helium due to collision with a proton at temperatures above 2.4 million degrees Celsius (most stars easily attain this temperature in their interiors), lithium is more abundant than current computations would predict in later-generation stars.[48] is the first in which evidence of lithium has been found.[49]]]
 
 Lithium is also found in brown dwarf substellar objects and certain anomalous orange stars. Because lithium is present in cooler, less-massive brown dwarfs, but is destroyed in hotter red dwarf stars, its presence in the stars' spectra can be used in the "lithium test" to differentiate the two, as both are smaller than the Sun.[50][51][52] Certain orange stars can also contain a high concentration of lithium. Those orange stars found to have a higher than usual concentration of lithium (such as Centaurus X-4) orbit massive objects—neutron stars or black holes—whose gravity evidently pulls heavier lithium to the surface of a hydrogen-helium star, causing more lithium to be observed.[53]
 
@@ -85,7 +85,7 @@ Lithium is found in trace amount in numerous plants, plankton, and invertebrates
 
 History
 
-Arfwedson_Johan_A.jpg Petalite (LiAlSi₄O₁₀) was discovered in 1800 by the Brazilian chemist and statesman José Bonifácio de Andrada e Silva in a mine on the island of Utö, Sweden.[77][78][79][80] However, it was not until 1817 that Johan August Arfwedson, then working in the laboratory of the chemist Jöns Jakob Berzelius, detected the presence of a new element while analyzing petalite ore.[81][82][83][84] This element formed compounds similar to those of sodium and potassium, though its carbonate and hydroxide were less soluble in water and less alkaline.[85] Berzelius gave the alkaline material the name "_lithion_/_lithina_", from the Greek word _λιθoς_ (transliterated as _lithos_, meaning "stone"), to reflect its discovery in a solid mineral, as opposed to potassium, which had been discovered in plant ashes, and sodium, which was known partly for its high abundance in animal blood. He named the metal inside the material "lithium".[86][87][88]
+Petalite (LiAlSi₄O₁₀) was discovered in 1800 by the Brazilian chemist and statesman José Bonifácio de Andrada e Silva in a mine on the island of Utö, Sweden.[77][78][79][80] However, it was not until 1817 that Johan August Arfwedson, then working in the laboratory of the chemist Jöns Jakob Berzelius, detected the presence of a new element while analyzing petalite ore.[81][82][83][84] This element formed compounds similar to those of sodium and potassium, though its carbonate and hydroxide were less soluble in water and less alkaline.[85] Berzelius gave the alkaline material the name "_lithion_/_lithina_", from the Greek word _λιθoς_ (transliterated as _lithos_, meaning "stone"), to reflect its discovery in a solid mineral, as opposed to potassium, which had been discovered in plant ashes, and sodium, which was known partly for its high abundance in animal blood. He named the metal inside the material "lithium".[86][87][88]
 
 Arfwedson later showed that this same element was present in the minerals spodumene and lepidolite.See:
 
@@ -177,7 +177,7 @@ After the 2007 financial crisis, major suppliers, such as Sociedad Química y Mi
 
 Extraction
 
-Preliminary_Design_And_Analysis_of_a_process_for_the_extraction_of_lithium_from_seawater.pdf Lithium salts are extracted from water in mineral springs, brine pools, and brine deposits. Brine excavation is probably the only lithium extraction technology widely used today, as actual mining of lithium ores is much more expensive and has been priced out of the market.[144][145]
+Lithium salts are extracted from water in mineral springs, brine pools, and brine deposits. Brine excavation is probably the only lithium extraction technology widely used today, as actual mining of lithium ores is much more expensive and has been priced out of the market.[144][145]
 
 Lithium is present in seawater, but commercially viable methods of extraction have yet to be developed.[146]
 
@@ -190,113 +190,109 @@ Currently, there are a number of options available in the marketplace to invest 
 
 Applications
 
-Estimates of global lithium uses in 2011 (picture) and 2015 (numbers below)[151]
-
 Ceramics and glass
 
-Lithium oxide is widely used as a flux for processing silica, reducing the melting point and viscosity of the material and leading to glazes with improved physical properties including low coefficients of thermal expansion. Worldwide, this is one of the largest use for lithium compounds.[152][153] Glazes containing lithium oxides are used for ovenware. Lithium carbonate (Li₂CO₃) is generally used in this application because it converts to the oxide upon heating.[154]
+Lithium oxide is widely used as a flux for processing silica, reducing the melting point and viscosity of the material and leading to glazes with improved physical properties including low coefficients of thermal expansion. Worldwide, this is one of the largest use for lithium compounds.[151][152] Glazes containing lithium oxides are used for ovenware. Lithium carbonate (Li₂CO₃) is generally used in this application because it converts to the oxide upon heating.[153]
 
 Electrical and electronics
 
-Late in the 20th century, lithium became an important component of battery electrolytes and electrodes, because of its high electrode potential. Because of its low atomic mass, it has a high charge- and power-to-weight ratio. A typical lithium-ion battery can generate approximately 3 volts per cell, compared with 2.1 volts for lead-acid and 1.5 volts for zinc-carbon. Lithium-ion batteries, which are rechargeable and have a high energy density, differ from lithium batteries, which are disposable (primary) batteries with lithium or its compounds as the anode.[155][156] Other rechargeable batteries that use lithium include the lithium-ion polymer battery, lithium iron phosphate battery, and the nanowire battery.
+Late in the 20th century, lithium became an important component of battery electrolytes and electrodes, because of its high electrode potential. Because of its low atomic mass, it has a high charge- and power-to-weight ratio. A typical lithium-ion battery can generate approximately 3 volts per cell, compared with 2.1 volts for lead-acid and 1.5 volts for zinc-carbon. Lithium-ion batteries, which are rechargeable and have a high energy density, differ from lithium batteries, which are disposable (primary) batteries with lithium or its compounds as the anode.[154][155] Other rechargeable batteries that use lithium include the lithium-ion polymer battery, lithium iron phosphate battery, and the nanowire battery.
 
 Lubricating greases
 
-The third most common use of lithium is in greases. Lithium hydroxide is a strong base and, when heated with a fat, produces a soap made of lithium stearate. Lithium soap has the ability to thicken oils, and it is used to manufacture all-purpose, high-temperature lubricating greases.[157][158][159]
+The third most common use of lithium is in greases. Lithium hydroxide is a strong base and, when heated with a fat, produces a soap made of lithium stearate. Lithium soap has the ability to thicken oils, and it is used to manufacture all-purpose, high-temperature lubricating greases.[156][157][158]
 
 Metallurgy
 
-Lithium (e.g. as lithium carbonate) is used as an additive to continuous casting mould flux slags where it increases fluidity,[160][161] a use which accounts for 5% of global lithium use (2011).[162] Lithium compounds are also used as additives (fluxes) to foundry sand for iron casting to reduce veining.[163]
+Lithium (e.g. as lithium carbonate) is used as an additive to continuous casting mould flux slags where it increases fluidity,[159][160] a use which accounts for 5% of global lithium use (2011).[161] Lithium compounds are also used as additives (fluxes) to foundry sand for iron casting to reduce veining.[162]
 
-Lithium (as lithium fluoride) is used as an additive to aluminium smelters (Hall–Héroult process), reducing melting temperature and increasing electrical resistance,[164] a use which accounts for 3% of production (2011).[165]
+Lithium (as lithium fluoride) is used as an additive to aluminium smelters (Hall–Héroult process), reducing melting temperature and increasing electrical resistance,[163] a use which accounts for 3% of production (2011).[164]
 
-When used as a flux for welding or soldering, metallic lithium promotes the fusing of metals during the process[166] and eliminates the forming of oxides by absorbing impurities.[167] Alloys of the metal with aluminium, cadmium, copper and manganese are used to make high-performance aircraft parts (see also Lithium-aluminium alloys).[168]
+When used as a flux for welding or soldering, metallic lithium promotes the fusing of metals during the process[165] and eliminates the forming of oxides by absorbing impurities.[166] Alloys of the metal with aluminium, cadmium, copper and manganese are used to make high-performance aircraft parts (see also Lithium-aluminium alloys).[167]
 
 Silicon nano-welding
 
-Lithium has been found effective in assisting the perfection of silicon nano-welds in electronic components for electric batteries and other devices.[169]
+Lithium has been found effective in assisting the perfection of silicon nano-welds in electronic components for electric batteries and other devices.[168]
 
 Other chemical and industrial uses
 
-FlammenfärbungLi.png is due to its rose-red flame.[170]]]
+is due to its rose-red flame.[169]]]
 
 Pyrotechnics
 
-Lithium compounds are used as pyrotechnic colorants and oxidizers in red fireworks and flares.[171][172]
+Lithium compounds are used as pyrotechnic colorants and oxidizers in red fireworks and flares.[170][171]
 
 Air purification
 
-Lithium chloride and lithium bromide are hygroscopic and are used as desiccants for gas streams.[173] Lithium hydroxide and lithium peroxide are the salts most used in confined areas, such as aboard spacecraft and submarines, for carbon dioxide removal and air purification. Lithium hydroxide absorbs carbon dioxide from the air by forming lithium carbonate, and is preferred over other alkaline hydroxides for its low weight.
+Lithium chloride and lithium bromide are hygroscopic and are used as desiccants for gas streams.[172] Lithium hydroxide and lithium peroxide are the salts most used in confined areas, such as aboard spacecraft and submarines, for carbon dioxide removal and air purification. Lithium hydroxide absorbs carbon dioxide from the air by forming lithium carbonate, and is preferred over other alkaline hydroxides for its low weight.
 
-Lithium peroxide (Li₂O₂) in presence of moisture not only reacts with carbon dioxide to form lithium carbonate, but also releases oxygen.[174][175] The reaction is as follows:
+Lithium peroxide (Li₂O₂) in presence of moisture not only reacts with carbon dioxide to form lithium carbonate, but also releases oxygen.[173][174] The reaction is as follows:
 
     2 Li₂O₂ + 2 CO₂ → 2 Li₂CO₃ + O₂.
 
-Some of the aforementioned compounds, as well as lithium perchlorate, are used in oxygen candles that supply submarines with oxygen. These can also include small amounts of boron, magnesium, aluminum, silicon, titanium, manganese, and iron.[176]
+Some of the aforementioned compounds, as well as lithium perchlorate, are used in oxygen candles that supply submarines with oxygen. These can also include small amounts of boron, magnesium, aluminum, silicon, titanium, manganese, and iron.[175]
 
 Optics
 
-Lithium fluoride, artificially grown as crystal, is clear and transparent and often used in specialist optics for IR, UV and VUV (vacuum UV) applications. It has one of the lowest refractive indexes and the furthest transmission range in the deep UV of most common materials.[177] Finely divided lithium fluoride powder has been used for thermoluminescent radiation dosimetry (TLD): when a sample of such is exposed to radiation, it accumulates crystal defects which, when heated, resolve via a release of bluish light whose intensity is proportional to the absorbed dose, thus allowing this to be quantified.[178] Lithium fluoride is sometimes used in focal lenses of telescopes.[179][180]
+Lithium fluoride, artificially grown as crystal, is clear and transparent and often used in specialist optics for IR, UV and VUV (vacuum UV) applications. It has one of the lowest refractive indexes and the furthest transmission range in the deep UV of most common materials.[176] Finely divided lithium fluoride powder has been used for thermoluminescent radiation dosimetry (TLD): when a sample of such is exposed to radiation, it accumulates crystal defects which, when heated, resolve via a release of bluish light whose intensity is proportional to the absorbed dose, thus allowing this to be quantified.[177] Lithium fluoride is sometimes used in focal lenses of telescopes.[178][179]
 
-The high non-linearity of lithium niobate also makes it useful in non-linear optics applications. It is used extensively in telecommunication products such as mobile phones and optical modulators, for such components as resonant crystals. Lithium applications are used in more than 60% of mobile phones.[181]
+The high non-linearity of lithium niobate also makes it useful in non-linear optics applications. It is used extensively in telecommunication products such as mobile phones and optical modulators, for such components as resonant crystals. Lithium applications are used in more than 60% of mobile phones.[180]
 
 Organic and polymer chemistry
 
-Organolithium compounds are widely used in the production of polymer and fine-chemicals. In the polymer industry, which is the dominant consumer of these reagents, alkyl lithium compounds are catalysts/initiators.[182] in anionic polymerization of unfunctionalized olefins.[183][184][185] For the production of fine chemicals, organolithium compounds function as strong bases and as reagents for the formation of carbon-carbon bonds. Organolithium compounds are prepared from lithium metal and alkyl halides.[186]
+Organolithium compounds are widely used in the production of polymer and fine-chemicals. In the polymer industry, which is the dominant consumer of these reagents, alkyl lithium compounds are catalysts/initiators.[181] in anionic polymerization of unfunctionalized olefins.[182][183][184] For the production of fine chemicals, organolithium compounds function as strong bases and as reagents for the formation of carbon-carbon bonds. Organolithium compounds are prepared from lithium metal and alkyl halides.[185]
 
 Many other lithium compounds are used as reagents to prepare organic compounds. Some popular compounds include lithium aluminium hydride (LiAlH₄), lithium triethylborohydride, n-butyllithium and tert-butyllithium are commonly used as extremely strong bases called superbases.
 
 Military applications
 
-Metallic lithium and its complex hydrides, such as Li[AlH₄], are used as high-energy additives to rocket propellants.[187] Lithium aluminum hydride can also be used by itself as a solid fuel.[188]
+Metallic lithium and its complex hydrides, such as Li[AlH₄], are used as high-energy additives to rocket propellants.[186] Lithium aluminum hydride can also be used by itself as a solid fuel.[187]
 
-US_Navy_040626-N-5319A-006_An_Anti-Submarine_Warfare_(ASW)_MK-50_Torpedo_is_launched_from_guided_missile_destroyer_USS_Bulkeley_(DDG_84).jpg
+The Mark 50 torpedo stored chemical energy propulsion system (SCEPS) uses a small tank of sulfur hexafluoride gas, which is sprayed over a block of solid lithium. The reaction generates heat, creating steam to propel the torpedo in a closed Rankine cycle.[188]
 
-The Mark 50 torpedo stored chemical energy propulsion system (SCEPS) uses a small tank of sulfur hexafluoride gas, which is sprayed over a block of solid lithium. The reaction generates heat, creating steam to propel the torpedo in a closed Rankine cycle.[189]
-
-Lithium hydride containing lithium-6 is used in thermonuclear weapons, where it serves as fuel for the fusion stage of the bomb.[190]
+Lithium hydride containing lithium-6 is used in thermonuclear weapons, where it serves as fuel for the fusion stage of the bomb.[189]
 
 Nuclear
 
-Lithium-6 is valued as a source material for tritium production and as a neutron absorber in nuclear fusion. Natural lithium contains about 7.5% lithium-6 from which large amounts of lithium-6 have been produced by isotope separation for use in nuclear weapons.[191] Lithium-7 gained interest for use in nuclear reactor coolants.[192]
+Lithium-6 is valued as a source material for tritium production and as a neutron absorber in nuclear fusion. Natural lithium contains about 7.5% lithium-6 from which large amounts of lithium-6 have been produced by isotope separation for use in nuclear weapons.[190] Lithium-7 gained interest for use in nuclear reactor coolants.[191]
 
-Castle_Bravo_Blast.jpg nuclear device.]] Lithium deuteride was the fusion fuel of choice in early versions of the hydrogen bomb. When bombarded by neutrons, both ⁶Li and ⁷Li produce tritium — this reaction, which was not fully understood when hydrogen bombs were first tested, was responsible for the runaway yield of the Castle Bravo nuclear test. Tritium fuses with deuterium in a fusion reaction that is relatively easy to achieve. Although details remain secret, lithium-6 deuteride apparently still plays a role in modern nuclear weapons as a fusion material.[193]
+nuclear device.]] Lithium deuteride was the fusion fuel of choice in early versions of the hydrogen bomb. When bombarded by neutrons, both ⁶Li and ⁷Li produce tritium — this reaction, which was not fully understood when hydrogen bombs were first tested, was responsible for the runaway yield of the Castle Bravo nuclear test. Tritium fuses with deuterium in a fusion reaction that is relatively easy to achieve. Although details remain secret, lithium-6 deuteride apparently still plays a role in modern nuclear weapons as a fusion material.[192]
 
-Lithium fluoride, when highly enriched in the lithium-7 isotope, forms the basic constituent of the fluoride salt mixture LiF-BeF₂ used in liquid fluoride nuclear reactors. Lithium fluoride is exceptionally chemically stable and LiF-BeF₂ mixtures have low melting points. In addition, ⁷Li, Be, and F are among the few nuclides with low enough thermal neutron capture cross-sections not to poison the fission reactions inside a nuclear fission reactor.[194][195]
+Lithium fluoride, when highly enriched in the lithium-7 isotope, forms the basic constituent of the fluoride salt mixture LiF-BeF₂ used in liquid fluoride nuclear reactors. Lithium fluoride is exceptionally chemically stable and LiF-BeF₂ mixtures have low melting points. In addition, ⁷Li, Be, and F are among the few nuclides with low enough thermal neutron capture cross-sections not to poison the fission reactions inside a nuclear fission reactor.[193][194]
 
 In conceptualized (hypothetical) nuclear fusion power plants, lithium will be used to produce tritium in magnetically confined reactors using deuterium and tritium as the fuel. Naturally occurring tritium is extremely rare, and must be synthetically produced by surrounding the reacting plasma with a 'blanket' containing lithium where neutrons from the deuterium-tritium reaction in the plasma will fission the lithium to produce more tritium:
 
     ⁶Li + n → ⁴He + ³H.
 
-Lithium is also used as a source for alpha particles, or helium nuclei. When ⁷Li is bombarded by accelerated protons ⁸Be is formed, which undergoes fission to form two alpha particles. This feat, called "splitting the atom" at the time, was the first fully man-made nuclear reaction. It was produced by Cockroft and Walton in 1932.[196][197]
+Lithium is also used as a source for alpha particles, or helium nuclei. When ⁷Li is bombarded by accelerated protons ⁸Be is formed, which undergoes fission to form two alpha particles. This feat, called "splitting the atom" at the time, was the first fully man-made nuclear reaction. It was produced by Cockroft and Walton in 1932.[195][196]
 
-In 2013, the US Government Accountability Office said a shortage of lithium-7 critical to the operation of 65 out of 100 American nuclear reactors “places their ability to continue to provide electricity at some risk”. The problem stems from the decline of US nuclear infrastructure. The equipment needed to separate lithium-6 from lithium-7 is mostly a cold war leftover. The US shut down most of this machinery in 1963, when it had a huge surplus of separated lithium, mostly consumed during the twentieth century. The report said it would take five years and $10 million to $12 million to reestablish the ability to separate lithium-6 from lithium-7.[198]
+In 2013, the US Government Accountability Office said a shortage of lithium-7 critical to the operation of 65 out of 100 American nuclear reactors “places their ability to continue to provide electricity at some risk”. The problem stems from the decline of US nuclear infrastructure. The equipment needed to separate lithium-6 from lithium-7 is mostly a cold war leftover. The US shut down most of this machinery in 1963, when it had a huge surplus of separated lithium, mostly consumed during the twentieth century. The report said it would take five years and $10 million to $12 million to reestablish the ability to separate lithium-6 from lithium-7.[197]
 
-Reactors that use lithium-7 heat water under high pressure and transfer heat through heat exchangers that are prone to corrosion. The reactors use lithium to counteract the corrosive effects of boric acid, which is added to the water to absorb excess neutrons.[199]
+Reactors that use lithium-7 heat water under high pressure and transfer heat through heat exchangers that are prone to corrosion. The reactors use lithium to counteract the corrosive effects of boric acid, which is added to the water to absorb excess neutrons.[198]
 
 Medicine
 
-Lithium is useful in the treatment of bipolar disorder.[200] Lithium salts may also be helpful for related diagnoses, such as schizoaffective disorder and cyclic major depression. The active part of these salts is the lithium ion Li⁺.[201] They may increase the risk of developing Ebstein's cardiac anomaly in infants born to women who take lithium during the first trimester of pregnancy.[202]
+Lithium is useful in the treatment of bipolar disorder.[199] Lithium salts may also be helpful for related diagnoses, such as schizoaffective disorder and cyclic major depression. The active part of these salts is the lithium ion Li⁺.[200] They may increase the risk of developing Ebstein's cardiac anomaly in infants born to women who take lithium during the first trimester of pregnancy.[201]
 
-Lithium has also been researched as a possible treatment for cluster headaches.[203]
+Lithium has also been researched as a possible treatment for cluster headaches.[202]
 
 
 Biological role
 
-Primary food sources of lithium are grains and vegetables, and, in some areas, drinking water also contains significant amounts.[204] Human intake varies depending on location and diet.
+Primary food sources of lithium are grains and vegetables, and, in some areas, drinking water also contains significant amounts.[203] Human intake varies depending on location and diet.
 
 Lithium was first detected in human organs and fetal tissues in the late 19th century. In humans there are no defined lithium deficiency diseases, but low lithium intakes from water supplies were associated with increased rates of suicides, homicides and the arrest rates for drug use and other crimes. The biochemical mechanisms of action of lithium appear to be multifactorial and are intercorrelated with the functions of several enzymes, hormones and vitamins, as well as with growth and transforming factors.
 
 
 Precautions
 
-Lithium is corrosive and requires special handling to avoid skin contact. Breathing lithium dust or lithium compounds (which are often alkaline) initially irritate the nose and throat, while higher exposure can cause a buildup of fluid in the lungs, leading to pulmonary edema. The metal itself is a handling hazard because contact with moisture produces the caustic lithium hydroxide. Lithium is safely stored in non-reactive compounds such as naphtha.[205]
+Lithium is corrosive and requires special handling to avoid skin contact. Breathing lithium dust or lithium compounds (which are often alkaline) initially irritate the nose and throat, while higher exposure can cause a buildup of fluid in the lungs, leading to pulmonary edema. The metal itself is a handling hazard because contact with moisture produces the caustic lithium hydroxide. Lithium is safely stored in non-reactive compounds such as naphtha.[204]
 
 Regulation
 
-Some jurisdictions limit the sale of lithium batteries, which are the most readily available source of lithium for ordinary consumers. Lithium can be used to reduce pseudoephedrine and ephedrine to methamphetamine in the Birch reduction method, which employs solutions of alkali metals dissolved in anhydrous ammonia.[206][207]
+Some jurisdictions limit the sale of lithium batteries, which are the most readily available source of lithium for ordinary consumers. Lithium can be used to reduce pseudoephedrine and ephedrine to methamphetamine in the Birch reduction method, which employs solutions of alkali metals dissolved in anhydrous ammonia.[205][206]
 
-Carriage and shipment of some kinds of lithium batteries may be prohibited aboard certain types of transportation (particularly aircraft) because of the ability of most types of lithium batteries to fully discharge very rapidly when short-circuited, leading to overheating and possible explosion in a process called thermal runaway. Most consumer lithium batteries have built-in thermal overload protection to prevent this type of incident, or are otherwise designed to limit short-circuit currents. Internal shorts from manufacturing defect or physical damage can lead to spontaneous thermal runaway.[208][209]
+Carriage and shipment of some kinds of lithium batteries may be prohibited aboard certain types of transportation (particularly aircraft) because of the ability of most types of lithium batteries to fully discharge very rapidly when short-circuited, leading to overheating and possible explosion in a process called thermal runaway. Most consumer lithium batteries have built-in thermal overload protection to prevent this type of incident, or are otherwise designed to limit short-circuit currents. Internal shorts from manufacturing defect or physical damage can lead to spontaneous thermal runaway.[207][208]
 
 
 See also
@@ -627,9 +623,9 @@ Lithium Category:Alkali metals Category:Chemical elements Category:Reducing agen
 
 [151]
 
-[152]
+[152] Worldwide demand by sector
 
-[153] Worldwide demand by sector
+[153]
 
 [154]
 
@@ -665,9 +661,9 @@ Lithium Category:Alkali metals Category:Chemical elements Category:Reducing agen
 
 [170]
 
-[171]
+[171] Wiberg, Egon; Wiberg, Nils and Holleman, Arnold Frederick (2001) Inorganic chemistry , Academic Press. , p. 1089
 
-[172] Wiberg, Egon; Wiberg, Nils and Holleman, Arnold Frederick (2001) Inorganic chemistry , Academic Press. , p. 1089
+[172]
 
 [173]
 
@@ -697,9 +693,9 @@ Lithium Category:Alkali metals Category:Chemical elements Category:Reducing agen
 
 [186]
 
-[187]
+[187] LiAl-hydride
 
-[188] LiAl-hydride
+[188]
 
 [189]
 
@@ -709,15 +705,15 @@ Lithium Category:Alkali metals Category:Chemical elements Category:Reducing agen
 
 [192]
 
-[193]
+[193] Beryllium and fluorine occur only as one isotope, ⁹Be and ¹⁹F respectively. These two, together with ⁷Li, as well as ²H, ¹¹B, ¹⁵N, ²⁰⁹Bi, and the stable isotopes of C, and O, are the only nuclides with low enough thermal neutron capture cross sections aside from actinides to serve as major constituents of a molten salt breeder reactor fuel.
 
-[194] Beryllium and fluorine occur only as one isotope, ⁹Be and ¹⁹F respectively. These two, together with ⁷Li, as well as ²H, ¹¹B, ¹⁵N, ²⁰⁹Bi, and the stable isotopes of C, and O, are the only nuclides with low enough thermal neutron capture cross sections aside from actinides to serve as major constituents of a molten salt breeder reactor fuel.
+[194]
 
 [195]
 
-[196]
+[196] "'Splitting the Atom': Cockcroft and Walton, 1932: 9. Rays or Particles?" Department of Physics, University of Cambridge
 
-[197] "'Splitting the Atom': Cockcroft and Walton, 1932: 9. Rays or Particles?" Department of Physics, University of Cambridge
+[197]
 
 [198]
 
@@ -740,5 +736,3 @@ Lithium Category:Alkali metals Category:Chemical elements Category:Reducing agen
 [207]
 
 [208]
-
-[209]

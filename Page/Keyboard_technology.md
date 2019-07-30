@@ -1,4 +1,4 @@
-Keyboard_Construction.JPG Computer keyboards can be classified by the switch technology that they use. Computer alphanumeric keyboards typically have 80 to 110 durable switches, generally one for each key. The choice of switch technology affects key response (the positive feedback that a key has been pressed) and pre travel (the distance needed to push the key to enter a character reliably). Newer keyboard models use hybrids of various technologies to achieve greater cost savings.
+Computer keyboards can be classified by the switch technology that they use. Computer alphanumeric keyboards typically have 80 to 110 durable switches, generally one for each key. The choice of switch technology affects key response (the positive feedback that a key has been pressed) and pre travel (the distance needed to push the key to enter a character reliably). Newer keyboard models use hybrids of various technologies to achieve greater cost savings.
 
 
 Types
@@ -15,13 +15,13 @@ Full-travel membrane-based keyboards are the most common computer keyboards toda
 
 Dome-switch keyboard
 
-Keyboard_Construction_Button_Press.JPG Membrane_keyboard.jpg Dome-switch keyboards are a hybrid of flat-panel membrane and mechanical-switch keyboards. They bring two circuit board traces together under a rubber or silicone keypad using either metal "dome" switches or polyurethane formed domes. The metal dome switches are formed pieces of stainless steel that, when compressed, give the user a crisp, positive tactile feedback. These metal types of dome switches are very common, are usually reliable to over 5 million cycles, and can be plated in either nickel, silver or gold. The rubber dome switches, most commonly referred to as polydomes, are formed polyurethane domes where the inside bubble is coated in graphite. While polydomes are typically cheaper than metal domes, they lack the crisp snap of the metal domes, and usually have a lower life specification. Polydomes are considered very quiet, but purists tend to find them "mushy" because the collapsing dome does not provide as much positive response as metal domes. For either metal or polydomes, when a key is pressed, it collapses the dome, which connects the two circuit traces and completes the connection to enter the character. The pattern on the PC board is often gold-plated.
+Dome-switch keyboards are a hybrid of flat-panel membrane and mechanical-switch keyboards. They bring two circuit board traces together under a rubber or silicone keypad using either metal "dome" switches or polyurethane formed domes. The metal dome switches are formed pieces of stainless steel that, when compressed, give the user a crisp, positive tactile feedback. These metal types of dome switches are very common, are usually reliable to over 5 million cycles, and can be plated in either nickel, silver or gold. The rubber dome switches, most commonly referred to as polydomes, are formed polyurethane domes where the inside bubble is coated in graphite. While polydomes are typically cheaper than metal domes, they lack the crisp snap of the metal domes, and usually have a lower life specification. Polydomes are considered very quiet, but purists tend to find them "mushy" because the collapsing dome does not provide as much positive response as metal domes. For either metal or polydomes, when a key is pressed, it collapses the dome, which connects the two circuit traces and completes the connection to enter the character. The pattern on the PC board is often gold-plated.
 
 Both are common switch technologies used in mass market keyboards today. This type of switch technology happens to be most commonly used in handheld controllers, mobile phones, automotive, consumer electronics and medical devices. Dome-switch keyboards are also called direct-switch keyboards.
 
 Scissor-switch keyboard
 
-Scissor_switch_mechanism.svg A special case of the computer keyboard dome-switch is the scissor-switch. The keys are attached to the keyboard via two plastic pieces that interlock in a "scissor"-like fashion, and snap to the keyboard and the key. It still uses rubber domes, but a special plastic 'scissors' mechanism links the keycap to a plunger that depresses the rubber dome with a much shorter travel than the typical rubber dome keyboard. Typically scissor-switch keyboards also employ 3-layer membranes as the electrical component of the switch. They also usually have a shorter total key travel distance (2 mm instead of 3.5 – 4 mm for standard dome-switch keyswitches). This type of keyswitch is often found on the built-in keyboards on laptops and keyboards marketed as 'low-profile'. These keyboards are generally quiet and the keys require little force to press.
+A special case of the computer keyboard dome-switch is the scissor-switch. The keys are attached to the keyboard via two plastic pieces that interlock in a "scissor"-like fashion, and snap to the keyboard and the key. It still uses rubber domes, but a special plastic 'scissors' mechanism links the keycap to a plunger that depresses the rubber dome with a much shorter travel than the typical rubber dome keyboard. Typically scissor-switch keyboards also employ 3-layer membranes as the electrical component of the switch. They also usually have a shorter total key travel distance (2 mm instead of 3.5 – 4 mm for standard dome-switch keyswitches). This type of keyswitch is often found on the built-in keyboards on laptops and keyboards marketed as 'low-profile'. These keyboards are generally quiet and the keys require little force to press.
 
 Scissor-switch keyboards are typically slightly more expensive. They are harder to clean (due to the limited movement of the keys and their multiple attachment points) but also less likely to get debris in them as the gaps between the keys are often smaller (as there is no need for extra room to allow for the 'wiggle' in the key, as typically found on a membrane keyboard).[1]
 
@@ -45,7 +45,7 @@ The major current mechanical switch producer is Cherry. Alps Electric, a former 
 
 Buckling-spring keyboard
 
-Bucklingspring1-o.svg Many typists prefer buckling spring keyboards.[16] The buckling spring mechanism (expired ) atop the switch is responsible for the tactile and aural response of the keyboard. This mechanism controls a small hammer that strikes a capacitive or membrane switch.[17]
+Many typists prefer buckling spring keyboards.[16] The buckling spring mechanism (expired ) atop the switch is responsible for the tactile and aural response of the keyboard. This mechanism controls a small hammer that strikes a capacitive or membrane switch.[17]
 
 In 1993, two years after spawning Lexmark, IBM transferred its keyboard operations to the daughter company. New Model M keyboards continued to be manufactured for IBM by Lexmark until 1999, when Unicomp purchased the keyboard technology.
 
@@ -61,7 +61,7 @@ A laser projection device approximately the size of a computer mouse projects th
 
 Roll-up keyboard
 
-Foldable_keyboard.jpg Keyboards made of flexible silicone or polyurethane materials can roll up in a moderately tight bundle. Tightly folding the keyboard may damage the internal membrane circuits. When they are completely sealed in rubber they are water resistant. Like membrane keyboards, they are reported to be very hard to get used to, as there is little tactile feedback, and silicone will tend to attract dirt, dust, and hair.
+Keyboards made of flexible silicone or polyurethane materials can roll up in a moderately tight bundle. Tightly folding the keyboard may damage the internal membrane circuits. When they are completely sealed in rubber they are water resistant. Like membrane keyboards, they are reported to be very hard to get used to, as there is little tactile feedback, and silicone will tend to attract dirt, dust, and hair.
 
 Optical keyboard technology
 

@@ -1,11 +1,9 @@
-Machette_kos.pg.jpg
-
 A MACHETE (; ) is a broad blade used either as an implement like an axe, or in combat like a short sword. The blade is typically long and usually under thick. In the Spanish language, the word is a diminutive form of the word _macho_, which was used to refer to sledgehammers.[1] In the English language, an equivalent term is _MATCHET_,[2] though it is less commonly used. In the English-speaking Caribbean, such as Jamaica,[3] Barbados, Guyana, and Grenada and in Trinidad and Tobago, the term _cutlass_ is used for these agricultural tools.[4]
 
 
 Uses
 
-Agusti¦ün_Cruz_Tinoco_working.jpg of San Agustín de las Juntas, Oaxaca uses a machete to carve wood]]
+of San Agustín de las Juntas, Oaxaca uses a machete to carve wood]]
 
 In agriculture
 
@@ -32,7 +30,7 @@ Many fictitious slashers have used it as a weapon in horror movies, the most not
 
 Cultural variations
 
-Tsakat-togh.jpg in form; all three tools are used for slashing vegetation.]] Bolo_ni_Maximino.jpg'' or _iták_]] Mexican_machete.JPG
+in form; all three tools are used for slashing vegetation.]] '' or _iták_]]
 
 The tsakat is used primarily in southern Armenia and Artsakh when clearing areas or hiking. It's especially well suited for clearing the plentiful blackberry plants in these regions.
 
@@ -78,7 +76,7 @@ The katana, typically acquired through trade, was used by the Ainu people in a m
 
 Manufacturing
 
-sugar-cane-knife.jpg]] Gerber_Machete.jpg machete/saw combo]] Cold_steel_machete.jpg
+]] machete/saw combo]]
 
 Both the materials used and the shape of the machete itself are important to make a good machete. In the past, the most famous manufacturer of machetes in Latin America and the Spanish-speaking Caribbean was Collins Company of Collinsville, Connecticut.[35] The company was founded as Collins & Company in 1826 by Samuel W. Collins to make axes.[36] Its first machetes were sold in 1845[37] and became so famous that all good machetes were called "un Collins".[38] In the English-speaking Caribbean, Robert Mole & Sons of Birmingham, England, was long considered the manufacturer of agricultural cutlasses of the best quality. Some Robert Mole blades survive as souvenirs of travelers to Trinidad,[39] Jamaica, and, less commonly, St. Lucia.
 
@@ -92,7 +90,7 @@ A properly constructed machete will have a convex or flat primary bevel from the
 
 Colombia is the largest exporter of machetes worldwide.[40]
 
-Flag_of_Angola.svg]]
+]]
 
 
 Other uses

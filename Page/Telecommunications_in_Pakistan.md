@@ -5,7 +5,7 @@ In 2008 Pakistan was the world's third-fastest growing telecommunications market
 
 Regulatory environment
 
-TWA-1-route.png linking the United Arab Emirates, Oman, and Pakistan.]] The Telecommunications Ordinance of 1994 created the Pakistan Telecommunication Authority (PTA), Pakistan's first independent telecommunications regulator, and the Pakistan Telecommunication Company Ltd (PTCL), a state-owned monopoly.[3]
+linking the United Arab Emirates, Oman, and Pakistan.]] The Telecommunications Ordinance of 1994 created the Pakistan Telecommunication Authority (PTA), Pakistan's first independent telecommunications regulator, and the Pakistan Telecommunication Company Ltd (PTCL), a state-owned monopoly.[3]
 
 Due to a lack of competition, local telephone call rates were high and international call rates were even higher. During the 1990s, a call to United States cost $5 per minute (300PkRs per minute), which was not affordable for most of the population. In addition customer service was poor; fixing a problem might take 10 to 15 days. Despite this, consumers had to stick with PTCL, as they had no other options.
 

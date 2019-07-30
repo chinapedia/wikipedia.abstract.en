@@ -21,7 +21,7 @@ Roman Isle of Wight
 
 Julius Caesar reported that the Belgae took the Isle of Wight in about 85 BC,[17] and recognised the culture of this general region as "Belgic", but made no reference to Vectis.[18] The Roman historian Suetonius mentions that the island was captured by the commander Vespasian. The Romans built no towns on the island, but the remains of at least seven Roman villas have been found, indicating the prosperity of local agriculture.[19] First-century exports were principally hides, slaves, hunting dogs, grain, cattle, silver, gold, and iron.[20] Ferriby Boats and later Blackfriars Ships likely were important to the local economy.
 
-Carisbrooke_Castle_gate_2.jpg just outside Carisbrooke]]
+just outside Carisbrooke]]
 
 Early Medieval Period
 
@@ -49,7 +49,7 @@ The French invasion on 21 July 1545 (famous for the sinking of the Mary Rose on 
 
 During the English Civil War, King Charles fled to the Isle of Wight, believing he would receive sympathy from the governor Robert Hammond, but Hammond imprisoned the king in Carisbrooke Castle.[38]
 
-Osborne-house1.jpg and its grounds are now open to the public.]] Berthe_Morisot_002.jpg on the Isle of Wight, 1875 painting by Berthe Morisot]] During the Seven Years' War, the island was used as a staging post for British troops departing on expeditions against the French coast, such as the Raid on Rochefort. During 1759, with a planned French invasion imminent, a large force of soldiers was stationed there. The French called off their invasion following the Battle of Quiberon Bay.[39]
+and its grounds are now open to the public.]] on the Isle of Wight, 1875 painting by Berthe Morisot]] During the Seven Years' War, the island was used as a staging post for British troops departing on expeditions against the French coast, such as the Raid on Rochefort. During 1759, with a planned French invasion imminent, a large force of soldiers was stationed there. The French called off their invasion following the Battle of Quiberon Bay.[39]
 
 Modern history
 
@@ -63,7 +63,7 @@ Queen Victoria died at Osborne House on 22 January 1901, aged 81.
 
 During the Second World War the island was frequently bombed. With its proximity to German-occupied France, the island hosted observation stations and transmitters, as well as the RAF radar station at Ventnor. It was the starting-point for one of the earlier Operation Pluto pipelines to feed fuel to Europe after the Normandy landings.[46]
 
-The Needles Battery was used to develop and test the Black Arrow and Black Knight space rockets, which were subsequently launched from Woomera, Australia.[47] Jimi_Hendrix_statue_outside_Dimbola_Lodge.JPG outside Dimbola Lodge]]
+The Needles Battery was used to develop and test the Black Arrow and Black Knight space rockets, which were subsequently launched from Woomera, Australia.[47] outside Dimbola Lodge]]
 
 The Isle of Wight Festival was a very large rock festival that took place near Afton Down, West Wight in 1970, following two smaller concerts in 1968 and 1969. The 1970 show was notable both as one of the last public performances by Jimi Hendrix and for the number of attendees, reaching by some estimates 600,000.[48] The festival was revived in 2002 in a different format, and is now an annual event.[49]
 
@@ -115,7 +115,7 @@ A competition in 2002 named the pyramidal orchid as the Isle of Wight's county f
 
 Politics
 
-Official_portrait_of_Mr_Bob_Seely_crop_2.jpg Bob Seely.]] The island has a single Member of Parliament and 138,300 permanent residents in 2011, being one of the most populated constituencies in the United Kingdom (more than 50% above the English average).[69] However, in 2011 the Parliamentary Voting System and Constituencies Act was to have changed this, as part of the Sixth Periodic Review of Westminster constituencies,[70] but this was deferred to no earlier than October 2018 by the Electoral Registration and Administration Act 2013. Thus the single constituency remained for the 2015 and 2017 general elections. However, two separate East and West constituencies are proposed for the island under the 2018 review now under way.
+Bob Seely.]] The island has a single Member of Parliament and 138,300 permanent residents in 2011, being one of the most populated constituencies in the United Kingdom (more than 50% above the English average).[69] However, in 2011 the Parliamentary Voting System and Constituencies Act was to have changed this, as part of the Sixth Periodic Review of Westminster constituencies,[70] but this was deferred to no earlier than October 2018 by the Electoral Registration and Administration Act 2013. Thus the single constituency remained for the 2015 and 2017 general elections. However, two separate East and West constituencies are proposed for the island under the 2018 review now under way.
 
 The Isle of Wight is a ceremonial and non-metropolitan county. Since the abolition of its two borough councils and restructuring of the county council as Isle of Wight Council in 1995, it has been a unitary authority.
 
@@ -128,7 +128,7 @@ There have been small regionalist movements: the Vectis National Party and the I
 
 Main towns
 
-Newport_High_Street_top.JPG, the county town]]
+, the county town]]
 
 -   Newport is the centrally located county town, with a population of about 25,000[75] and the island's main shopping area. Located next to the River Medina, Newport Quay was a busy port until the mid-19th century.
 -   Ryde, the largest town with a population of about 30,000, is in the northeast. It is Victorian with the oldest seaside pier in England and miles of sandy and pebble beaches.
@@ -138,7 +138,7 @@ Newport_High_Street_top.JPG, the county town]]
 -   Shanklin, just south of Sandown, attracts tourists with its high summer sunshine levels, sandy beaches, Shanklin Chine and the old village.
 -   Ventnor, built on the steep slopes of St Boniface Down on the south coast of the island, leads down to a picturesque bay that attracts many tourists. Ventnor Haven is a small harbour.
 
-Brading_Church_Graveyard,_Isle_of_Wight.jpg]]
+]]
 
 
 Culture
@@ -186,7 +186,7 @@ The route around the island is about and usually rowed anticlockwise. Even in go
 
 Sailing
 
-Cowes_Marina_during_Cowes_Week.JPG]] Cowes is a centre for sailing, hosting several racing regattas. Cowes Week is the longest-running regular regatta in the world, with over 1,000 yachts and 8,500 competitors taking part in over 50 classes of racing.[88] In 1851 the first America's Cup race was around the island. Other major sailing events hosted in Cowes include the Fastnet race, the Round the Island Race,[89] the Admiral's Cup, and the Commodore's Cup.[90]
+]] Cowes is a centre for sailing, hosting several racing regattas. Cowes Week is the longest-running regular regatta in the world, with over 1,000 yachts and 8,500 competitors taking part in over 50 classes of racing.[88] In 1851 the first America's Cup race was around the island. Other major sailing events hosted in Cowes include the Fastnet race, the Round the Island Race,[89] the Admiral's Cup, and the Commodore's Cup.[90]
 
 Trampolining
 
@@ -210,7 +210,7 @@ The now-disbanded Ryde Sports F.C., founded in 1888, was one of the eight founde
 
 Cricket
 
-IWCountyCricketGround1.JPG]]
+]]
 
 The Isle of Wight is the 39th official county in English cricket, and the Isle of Wight Cricket Board organises a league of local clubs. Ventnor Cricket Club competes in the Southern Premier League, and has won the Second Division several times. Newclose County Cricket Ground near Newport[97][98] opened officially in 2009 but with its first match held on 6 September 2008.[99] The island has produced some notable cricketers, such as Danny Briggs, who plays county cricket for Sussex.
 
@@ -220,12 +220,12 @@ The Isle of Wight competes in the biennial Island Games, which it hosted in 1993
 
 Motor scooter
 
-Scooter_rallies_10007.JPG The annual Isle of Wight International Scooter Rally has since 1980 met on the August Bank Holiday. This is now one of the biggest scooter rallies in the world, attracting between four and seven thousand participants.[100]
+The annual Isle of Wight International Scooter Rally has since 1980 met on the August Bank Holiday. This is now one of the biggest scooter rallies in the world, attracting between four and seven thousand participants.[100]
 
 
 Music
 
-1970-Isle_of_Wight_Festival-_5.JPG is believed to have been 600,000.]] The island is home to the Isle of Wight Festival and until 2016, Bestival before it was relocated to Lulworth Estate in Dorset. In 1970, the festival was headlined by Jimi Hendrix attracting an audience of 600,000, some six times the local population at the time.[101] It is the home of the band The Bees, Trixie's Big Red Motorbike.[102]
+is believed to have been 600,000.]] The island is home to the Isle of Wight Festival and until 2016, Bestival before it was relocated to Lulworth Estate in Dorset. In 1970, the festival was headlined by Jimi Hendrix attracting an audience of 600,000, some six times the local population at the time.[101] It is the home of the band The Bees, Trixie's Big Red Motorbike.[102]
 
 
 Economy
@@ -279,7 +279,7 @@ Services
 
 Tourism and heritage
 
-The island's heritage is a major asset that has for many years supported its tourist economy. Holidays focused on natural heritage, including wildlife and geology, are becoming an alternative to the traditional British seaside holiday, which went into decline in the second half of the 20th century due to the increased affordability of foreign holidays.[120] The island is still an important destination for coach tours from other parts of the United Kingdom. Isle_of_Wight.jpg, looking east towards Blackgang]]
+The island's heritage is a major asset that has for many years supported its tourist economy. Holidays focused on natural heritage, including wildlife and geology, are becoming an alternative to the traditional British seaside holiday, which went into decline in the second half of the 20th century due to the increased affordability of foreign holidays.[120] The island is still an important destination for coach tours from other parts of the United Kingdom. , looking east towards Blackgang]]
 
 Tourism is still the largest industry, and most island towns and villages offer hotels, hostels and camping sites. In 1999, it hosted 2.7 million visitors, with 1.5 million staying overnight, and 1.2 million day visits; only 150,000 of these were from abroad. Between 1993 and 2000, visits increased at an average rate of 3% per year.[121]
 
@@ -295,7 +295,7 @@ Summer Camp at Camp Beaumont is an attraction at the old Bembridge School site.[
 
 Transport
 
-Wight_Ryder_II.JPG FastCats which provide a high-speed ferry service between Portsmouth and Ryde]] Southern_Vectis_1054_YN03_DFL.JPG Scania OmniDekka bus at Newport bus station]] The Isle of Wight has of roadway. It does not have a motorway, although there is a short stretch of dual carriageway towards the north of Newport near the hospital and prison.
+FastCats which provide a high-speed ferry service between Portsmouth and Ryde]] Scania OmniDekka bus at Newport bus station]] The Isle of Wight has of roadway. It does not have a motorway, although there is a short stretch of dual carriageway towards the north of Newport near the hospital and prison.
 
 A comprehensive bus network operated by Southern Vectis links most settlements, with Newport as its central hub.[129]
 

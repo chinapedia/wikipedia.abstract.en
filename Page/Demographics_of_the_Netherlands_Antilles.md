@@ -20,8 +20,6 @@ For comparison : Aruba - 103,400
 
 CIA World Factbook demographic statistics
 
-Netherlands-antilles-demo.png
-
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated. The capital and largest city was Willemstad.
 
 Age structure:

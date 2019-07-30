@@ -11,7 +11,7 @@ The most prominent NSAIDs are aspirin, ibuprofen and naproxen, all available ove
 
 Medical uses
 
-NSAID_label.jpg NSAID]] NSAIDs are usually used for the treatment of acute or chronic conditions where pain and inflammation are present.
+NSAID]] NSAIDs are usually used for the treatment of acute or chronic conditions where pain and inflammation are present.
 
 NSAIDs are generally used for the symptomatic relief of the following conditions:[13][14][15]
 
@@ -311,9 +311,9 @@ Ibuprofen and diclofenac have short half-lives (2–3 hours). Some NSAIDs (typic
 
 History
 
-Bayer_Aspirin_ad,_NYT,_February_19,_1917.jpg'' in 1917]] From the era of Greek medicine to the mid-19th century, the discovery of medicinal agents was classed as an empirical art; folklore and mythological guidance were combined in deploying the vegetable and mineral products that made up the expansive pharmacopeia of the time. Myrtle leaves were in use by 1500 BCE. Hippocrates (460–377 BCE) first reported using willow bark[168] and in 30 BCE Celsus described the signs of inflammation and also used willow bark to mitigate them. On 25 April 1763, Edward Stone wrote to the Royal Society describing his observations on the use of willow bark-based medicines in febrile patients.[169] The active ingredient of willow bark, a glycoside called salicin, was first isolated by Johann Andreas Buchner in 1827. By 1829, French chemist Henri Leroux had improved the extraction process to obtain about 30g of purified salicin from 1.5kg of bark.[170]
+'' in 1917]] From the era of Greek medicine to the mid-19th century, the discovery of medicinal agents was classed as an empirical art; folklore and mythological guidance were combined in deploying the vegetable and mineral products that made up the expansive pharmacopeia of the time. Myrtle leaves were in use by 1500 BCE. Hippocrates (460–377 BCE) first reported using willow bark[168] and in 30 BCE Celsus described the signs of inflammation and also used willow bark to mitigate them. On 25 April 1763, Edward Stone wrote to the Royal Society describing his observations on the use of willow bark-based medicines in febrile patients.[169] The active ingredient of willow bark, a glycoside called salicin, was first isolated by Johann Andreas Buchner in 1827. By 1829, French chemist Henri Leroux had improved the extraction process to obtain about 30g of purified salicin from 1.5kg of bark.[170]
 
-By hydrolysis, salicin releases glucose and salicylic alcohol which can be converted into salicylic acid, both in vivo and through chemical methods.[171] The acid is more effective than salicin and, in addition to its fever-reducing properties, is anti-inflammatory and analgesic. In 1869, Hermann Kolbe synthesised salicylate, although it was too acidic for the gastric mucosa.[172] The reaction used to synthesise aromatic acid from a phenol in the presence of CO2 is known as the Kolbe-Schmitt reaction.[173][174][175] Kolbe-Schmitt-reaction-mechanism.png
+By hydrolysis, salicin releases glucose and salicylic alcohol which can be converted into salicylic acid, both in vivo and through chemical methods.[171] The acid is more effective than salicin and, in addition to its fever-reducing properties, is anti-inflammatory and analgesic. In 1869, Hermann Kolbe synthesised salicylate, although it was too acidic for the gastric mucosa.[172] The reaction used to synthesise aromatic acid from a phenol in the presence of CO2 is known as the Kolbe-Schmitt reaction.[173][174][175]
 
 By 1897 the German chemist Felix Hoffmann and the Bayer company prompted a new age of pharmacology by converting salicylic acid into acetylsalicylic acid—named aspirin by Heinrich Dreser. Other NSAIDs like ibuprofen were developed from the 1950s forward.[176] In 2001, NSAIDs accounted for 70,000,000 prescriptions and 30billion over-the-counter doses sold annually in the United States.[177]
 

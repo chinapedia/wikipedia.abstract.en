@@ -13,7 +13,7 @@ On December 22, 2006, the journal _Science_ honored Perelman's proof of the Poin
 
 History
 
-Torus_cycles.svg can be continuously tightened to a point. A torus is not homeomorphic to a sphere.]]
+can be continuously tightened to a point. A torus is not homeomorphic to a sphere.]]
 
 Poincaré's question
 
@@ -49,7 +49,7 @@ These earlier successes in higher dimensions left the case of three dimensions i
 
 Hamilton's program and Perelman's solution
 
-Ricci_flow.png on a two-dimensional manifold]]
+on a two-dimensional manifold]]
 
 Hamilton's program was started in his 1982 paper in which he introduced the Ricci flow on a manifold and showed how to use it to prove some special cases of the Poincaré conjecture.[15] In the following years he extended this work, but was unable to prove the conjecture. The actual solution was not found until Grigori Perelman published his papers.
 
@@ -87,7 +87,7 @@ The condition on the fundamental group turns out to be necessary (and sufficient
 
 Solution
 
-Perelman,_Grigori_(1966).jpg]] On November 13, 2002, Russian mathematician Grigori Perelman posted the first of a series of three eprints on arXiv outlining a solution of the Poincaré conjecture. Perelman's proof uses a modified version of a Ricci flow program developed by Richard S. Hamilton. In August 2006, Perelman was awarded, but declined, the Fields Medal (worth $15,000 CAD) for his proof. On March 18, 2010, the Clay Mathematics Institute awarded Perelman the $1 million Millennium Prize in recognition of his proof.[30][31] Perelman rejected that prize as well.[32][33]
+]] On November 13, 2002, Russian mathematician Grigori Perelman posted the first of a series of three eprints on arXiv outlining a solution of the Poincaré conjecture. Perelman's proof uses a modified version of a Ricci flow program developed by Richard S. Hamilton. In August 2006, Perelman was awarded, but declined, the Fields Medal (worth $15,000 CAD) for his proof. On March 18, 2010, the Clay Mathematics Institute awarded Perelman the $1 million Millennium Prize in recognition of his proof.[30][31] Perelman rejected that prize as well.[32][33]
 
 Perelman proved the conjecture by deforming the manifold using the Ricci flow (which behaves similarly to the heat equation that describes the diffusion of heat through an object). The Ricci flow usually deforms the manifold towards a rounder shape, except for some cases where it stretches the manifold apart from itself towards what are known as singularities. Perelman and Hamilton then chop the manifold at the singularities (a process called "surgery") causing the separate pieces to form into ball-like shapes. Major steps in the proof involve showing how manifolds behave when they are deformed by the Ricci flow, examining what sort of singularities develop, determining whether this surgery process can be completed and establishing that the surgery need not be repeated infinitely many times.
 

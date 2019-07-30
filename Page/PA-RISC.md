@@ -1,4 +1,4 @@
-HP_PA-RISC_7300LC.jpg PA-RISC 7300LC microprocessor]] HP-HP9000-C110-Workstation_21.jpg C110 PA-RISC workstation booting Debian GNU/Linux ]]
+PA-RISC 7300LC microprocessor]] C110 PA-RISC workstation booting Debian GNU/Linux ]]
 
 PA-RISC is an instruction set architecture (ISA) developed by Hewlett-Packard. As the name implies, it is a reduced instruction set computer (RISC) architecture, where the PA stands for PRECISION ARCHITECTURE. The design is also referred to as HP/PA for HEWLETT PACKARD PRECISION ARCHITECTURE.
 

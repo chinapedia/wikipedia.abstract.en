@@ -86,7 +86,7 @@ Other towns of Piedmont with more than 20,000 inhabitants sorted by population :
 
 Geography
 
-Castelnuovo_Calcea_from_San_Marzano_Oliveto.jpg landscape, with the distant Alps in the background.]]
+landscape, with the distant Alps in the background.]]
 
 Piedmont is surrounded on three sides by the Alps, including Monviso, where the Po rises, and Monte Rosa. It borders with France (Auvergne-Rhône-Alpes and Provence-Alpes-Côte d'Azur), Switzerland (Ticino and Valais) and the Italian regions of Lombardy, Liguria, Aosta Valley and for a very small fragment with Emilia Romagna. The geography of Piedmont is 43.3% mountainous, along with extensive areas of hills (30.3%) and plains (26.4%).
 
@@ -99,13 +99,13 @@ The countryside is very diverse: from the rugged peaks of the massifs of Monte R
 
 History
 
-Stupinigi.jpg, in Nichelino, is a UNESCO World Heritage Site.]] La_Sacra_ammantata_dalla_neve.jpg symbol of Piedmont]]
+, in Nichelino, is a UNESCO World Heritage Site.]] symbol of Piedmont]]
 
 Piedmont was inhabited in early historic times by Celtic-Ligurian tribes such as the Taurini and the Salassi. They were later subdued by the Romans (c. 220 BC), who founded several colonies there including ''Augusta Taurinorum ''(Turin) and _Eporedia_ (Ivrea). After the fall of the Western Roman Empire, the region was successively invaded by the Burgundians, the Ostrogoths (5th century), East Romans, Lombards (6th century), and Franks (773).
 
 In the 9th–10th centuries there were further incursions by the Magyars and Saracens. At the time Piedmont, as part of the Kingdom of Italy within the Holy Roman Empire, was subdivided into several marches and counties.
 
-SardiniePiemont.jpg in 1856.]]
+in 1856.]]
 
 In 1046, Oddo of Savoy added Piedmont to their main territory of Savoy, with a capital at Chambéry (now in France). Other areas remained independent, such as the powerful _comuni_ (municipalities) of Asti and Alessandria and the marquisates of Saluzzo and Montferrat. The County of Savoy was elevated to a duchy in 1416, and Duke Emanuele Filiberto moved the seat to Turin in 1563. In 1720, the Duke of Savoy became King of Sardinia, founding what evolved into the Kingdom of Sardinia and increasing Turin's importance as a European capital.
 
@@ -118,7 +118,7 @@ The House of Savoy became Kings of Italy, and Turin briefly became the capital o
 
 Economy
 
-Piemonterisaie.jpg and Vercelli.]]
+and Vercelli.]]
 
 Lowland Piedmont is a fertile agricultural region. The main agricultural products in Piedmont are cereals, including rice, representing more than 10% of national production, maize, grapes for wine-making, fruit and milk.[7] With more than 800,000 head of cattle in 2000, livestock production accounts for half of final agricultural production in Piedmont.
 
@@ -128,7 +128,7 @@ The region contains major industrial centres, the main of which is Turin, home t
 
 Alba is the home of Ferrero's chocolate factories and some mechanical industries. There are links with neighbouring France via the Fréjus and the Colle di Tenda tunnels as well as the Montgenèvre Pass. Piedmont also connects with Switzerland with the Simplon and Great St Bernard passes. It is possible to reach Switzerland via a normal road that crosses Oriental Piedmont starting from Arona and ending in Locarno, on the border with Italy. The region's airport, Turin-Caselle, caters domestic and international flights.[9] The region has the longest motorway network amongst the Italian regions (about 800 km). It radiates from Turin, connecting it with the other provinces in the region, as well as with the other regions in Italy. In 2001, the number of passenger cars per 1,000 inhabitants was 623 (above the national average of 575).[10]
 
-LingottoPalazzina4.jpg building in Turin, the world headquarters of Fiat.]]
+building in Turin, the world headquarters of Fiat.]]
 
 Tourism in Piedmont employs 75,534 people and currently comprises 17,367 companies operating in the hospitality and catering sector, with 1,473 hotels and tourist accommodations. The sector generates a turnover of €2,671 million, 3.3% of the €80,196 million, which represents the total estimated spending on tourism in Italy. The region enjoys almost the same level of popularity among Italians and visitors from oversea. In 2002 there were 2,651,068 total arrivals. International visitors to Piedmont in 2002 accounted for 42% of the total number of tourists with 1,124,696 arrivals. The traditional leading areas for tourism in Piedmont are the Lake District – "Piedmont's riviera", which accounts for 32.84% of total overnight stays, and the metropolitan area of Turin, which accounts for 26.51%.[11]
 
@@ -140,7 +140,7 @@ The unemployment rate stood at 9.1% in 2017.[12]
 
 [TABLE]
 
-Cdda.jpg.]]
+.]]
 
 
 Education
@@ -193,8 +193,6 @@ The Regional Government (_Giunta Regionale_) is presided by the President of the
 
 Administrative divisions
 
-Piedmont_Provinces.png
-
 Piedmont is divided into eight provinces:
 
   Province                           Area (km²)   Population   Density (inh./km²)
@@ -218,7 +216,7 @@ As in the rest of Italy, Italian is the official national language. The main loc
 
 Sport
 
-Juventus_v_Real_Madrid,_Champions_League,_Stadium,_Turin,_2013.jpg in Turin is the home of Juventus F.C., throughout the years one of the more successful Serie A clubs.]]
+in Turin is the home of Juventus F.C., throughout the years one of the more successful Serie A clubs.]]
 
 Turin hosted the 2006 Winter Olympics.[17]
 

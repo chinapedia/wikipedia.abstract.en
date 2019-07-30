@@ -51,7 +51,7 @@ Molybdenum forms chemical compounds in oxidation states from -II to +VI. Higher 
 | +6        | {{chem      |
 +-----------+-------------+
 
-Phosphotungstate-3D-polyhedra.png of the phosphomolybdate anion (P[Mo₁₂O₄₀]^(3−)), an example of a polyoxometalate]]
+of the phosphomolybdate anion (P[Mo₁₂O₄₀]^(3−)), an example of a polyoxometalate]]
 
 From the perspective of commerce, the most important compounds are molybdenum disulfide () and molybdenum trioxide (). The black disulfide is the main mineral. It is roasted in air to give the trioxide:[17]
 
@@ -88,11 +88,9 @@ During World War I, demand for molybdenum spiked; it was used both in armor plat
 
 Occurrence and production
 
-Molly_Hill_molybdenite.JPG on quartz]] Molybdenum is the 54th most abundant element in the Earth's crust and the 25th most abundant element in its oceans, with an average of 10 parts per billion; it is the 42nd most abundant element in the Universe.[43][44] The Russian Luna 24 mission discovered a molybdenum-bearing grain (1 × 0.6 µm) in a pyroxene fragment taken from Mare Crisium on the Moon.[45] The comparative rarity of molybdenum in the Earth's crust is offset by its concentration in a number of water-insoluble ores, often combined with sulfur in the same way as copper, with which it is often found. Though molybdenum is found in such minerals as wulfenite (PbMoO₄) and powellite (CaMoO₄), the main commercial source is molybdenite (MoS₂). Molybdenum is mined as a principal ore and is also recovered as a byproduct of copper and tungsten mining.[46]
+on quartz]] Molybdenum is the 54th most abundant element in the Earth's crust and the 25th most abundant element in its oceans, with an average of 10 parts per billion; it is the 42nd most abundant element in the Universe.[43][44] The Russian Luna 24 mission discovered a molybdenum-bearing grain (1 × 0.6 µm) in a pyroxene fragment taken from Mare Crisium on the Moon.[45] The comparative rarity of molybdenum in the Earth's crust is offset by its concentration in a number of water-insoluble ores, often combined with sulfur in the same way as copper, with which it is often found. Though molybdenum is found in such minerals as wulfenite (PbMoO₄) and powellite (CaMoO₄), the main commercial source is molybdenite (MoS₂). Molybdenum is mined as a principal ore and is also recovered as a byproduct of copper and tungsten mining.[46]
 
 The world's production of molybdenum was 250,000 tonnes in 2011, the largest producers being China (94,000 t), the United States (64,000 t), Chile (38,000 t), Peru (18,000 t) and Mexico (12,000 t). The total reserves are estimated at 10 million tonnes, and are mostly concentrated in China (4.3 Mt), the US (2.7 Mt) and Chile (1.2 Mt). By continent, 93% of world molybdenum production is about evenly shared between North America, South America (mainly in Chile), and China. Europe and the rest of Asia (mostly Armenia, Russia, Iran and Mongolia) produce the remainder.[47]
-
-Molybdenum_world_production.svg
 
 In molybdenite processing, the ore is first roasted in air at a temperature of . The process gives gaseous sulfur dioxide and the molybdenum(VI) oxide:[48]
 
@@ -125,7 +123,7 @@ Applications
 
 Alloys
 
-Plate_of_Molybdenum_Copper_.jpg About 86% of molybdenum produced is used in metallurgy, with the rest used in chemical applications. The estimated global use is structural steel 35%, stainless steel 25%, chemicals 14%, tool & high-speed steels 9%, cast iron 6%, molybdenum elemental metal 6%, and superalloys 5%.[57]
+About 86% of molybdenum produced is used in metallurgy, with the rest used in chemical applications. The estimated global use is structural steel 35%, stainless steel 25%, chemicals 14%, tool & high-speed steels 9%, cast iron 6%, molybdenum elemental metal 6%, and superalloys 5%.[57]
 
 Molybdenum can withstand extreme temperatures without significantly expanding or softening, making it useful in environments of intense heat, including military armor, aircraft parts, electrical contacts, industrial motors, and filaments.[58][59]
 
@@ -170,7 +168,7 @@ In terms of function, molybdoenzymes catalyze the oxidation and sometimes reduct
 Mo is as a component in most nitrogenases. Among molybdoenzymes, nitrogenases are unique in lacking the molybdopterin.[93][94] Nitrogenases catalyze the production of ammonia from atmospheric nitrogen:
 
 _N_₂ + 8 _H_⁺ + 8 _e_^(−) + 16 _A__T__P_ + 16 _H_₂_O_ → 2 _N__H_₃ + _H_₂ + 16 _A__D__P_ + 16 _P__(_i_)
-The biosynthesis of the FeMoco active site is highly complex.[95] FeMoco_cluster.svg active site of nitrogenase.]] Molybdenum_cofactor.svg (pictured) is composed of a molybdenum-free organic complex called molybdopterin, which has bound an oxidized molybdenum(VI) atom through adjacent sulfur (or occasionally selenium) atoms. Except for the ancient nitrogenases, all known Mo-using enzymes use this cofactor.]]
+The biosynthesis of the FeMoco active site is highly complex.[95] active site of nitrogenase.]] (pictured) is composed of a molybdenum-free organic complex called molybdopterin, which has bound an oxidized molybdenum(VI) atom through adjacent sulfur (or occasionally selenium) atoms. Except for the ancient nitrogenases, all known Mo-using enzymes use this cofactor.]]
 
 Molybdate is transported in the body as MoO₄^(2−).[96]
 

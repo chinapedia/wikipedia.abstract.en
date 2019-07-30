@@ -21,7 +21,7 @@ As there are no railways, the country's public transport network consists entire
 
 Ports and harbors
 
-Ash_Shu'aybah_port.jpg Kuwait lies on the Persian Gulf and ports include: Ash Shu'aybah, Ash Shuwaykh, Kuwait, Mina' 'Abd Allah, Mina' al Ahmadi, Mina' Su'ud
+Kuwait lies on the Persian Gulf and ports include: Ash Shu'aybah, Ash Shuwaykh, Kuwait, Mina' 'Abd Allah, Mina' al Ahmadi, Mina' Su'ud
 
 
 Merchant marine

@@ -1,5 +1,3 @@
-LocationMorocco.svg Modis_morocco_lrg.jpg Morocco_Topography.png MoroccoWesternSaharaOMC.png
-
 Morocco spans from the Mediterranean Sea and Atlantic Ocean on the north and the west respectively, into large mountainous areas in the interior body, to the Sahara desert in the far south. Morocco is a Northern African country, located in the extreme north west of Africa on the edge of continental Europe. The strait of Gibraltar separates Spain off Morocco with a span of water. Morocco borders the North Atlantic Ocean to the west, and the west Mediterranean Sea to the north.
 
 The terrain of Morocco is largely mountainous. The Atlas Mountains stretch from the central north to the south west. It expands to about and is the dorsal spine of the country. To the north of the Atlas Mountains, there are the Rif Mountains, a chain that makes part of the Sierra Nevada mountain range in Andalusia, Spain. The massive range expands to about from Tangier in the west to Nador eastward.
@@ -39,7 +37,7 @@ _Continental shelf:_ 200-m depth or to the depth of exploitation
 
 Climate
 
-Morocco_Köppen.svg Morocco's climate can be divided into two parts: The northwest and the southeast. In the southeast, the climate is arid, and poorly populated. In the northwest the climate is temperate and akin to the climatic conditions that prevail in the Iberian Peninsula. 95% of Moroccan population lives in these regions.
+Morocco's climate can be divided into two parts: The northwest and the southeast. In the southeast, the climate is arid, and poorly populated. In the northwest the climate is temperate and akin to the climatic conditions that prevail in the Iberian Peninsula. 95% of Moroccan population lives in these regions.
 
 The largely populated areas of the northwest of the country is predominantly Mediterranean, but since the country is heavily mountainous, continental and alpine influence is evident, as well as the oceanic influence along the Atlantic coastline. And finally, the semi-arid lands, that cover few regions in the northeast, the central south and the southwest.
 
@@ -64,7 +62,7 @@ The disputed Western Sahara region features a hot desert climate, but temperatur
 
 Physical geography
 
-Valley_of_Ammeln.jpg mountain range]] The northern coast and interior are mountainous with large areas of bordering plateaus, intermontane valleys, and rich coastal plains. The northern mountains are geologically unstable and subject to earthquakes.
+mountain range]] The northern coast and interior are mountainous with large areas of bordering plateaus, intermontane valleys, and rich coastal plains. The northern mountains are geologically unstable and subject to earthquakes.
 
 Morocco occupies a strategic location along the Strait of Gibraltar, the waterway between the Mediterranean Sea and Atlantic Ocean.
 

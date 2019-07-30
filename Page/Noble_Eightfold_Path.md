@@ -1,4 +1,4 @@
-Dharmachakra.jpg symbolizes the Noble Eightfold Path]]
+symbolizes the Noble Eightfold Path]]
 
 The NOBLE EIGHTFOLD PATH (Pali: ; Sanskrit: )[1] is an early summary of the path of Buddhist practices leading to liberation from samsara, the painful cycle of rebirth.
 

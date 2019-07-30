@@ -1,5 +1,3 @@
-Integral_example.svg
-
 In mathematics, an INTEGRAL assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. Integration is one of the two main operations of calculus, with its inverse operation, differentiation, being the other. Given a function of a real variable and an interval of the real line, the DEFINITE INTEGRAL
 
     ∫_(a)^(b)f(x) dx
@@ -97,7 +95,7 @@ Conversely, in advanced settings, it is not uncommon to leave out _dx_ when only
 
 Variants
 
-In modern Arabic mathematical notation, a reflected integral symbol ArabicIntegralSign.svg is used instead of the symbol , since the Arabic script and mathematical expressions go right to left.[3]
+In modern Arabic mathematical notation, a reflected integral symbol is used instead of the symbol , since the Arabic script and mathematical expressions go right to left.[3]
 
 Some authors, particularly of European origin, use an upright "d" to indicate the variable of integration (i.e., instead of ), since properly speaking, "d" is not a variable.
 
@@ -111,7 +109,7 @@ Interpretations of the integral
 
 Integrals appear in many practical situations. If a swimming pool is rectangular with a flat bottom, then from its length, width, and depth we can easily determine the volume of water it can contain (to fill it), the area of its surface (to cover it), and the length of its edge (to rope it). But if it is oval with a rounded bottom, all of these quantities call for integrals. Practical approximations may suffice for such trivial examples, but precision engineering (of any discipline) requires exact and rigorous values for these elements.
 
-Integral_approximations.svg To start off, consider the curve _f_(_x_)}} between 0}} and 1}} with }} (see figure). We ask:
+To start off, consider the curve _f_(_x_)}} between 0}} and 1}} with }} (see figure). We ask:
 
     What is the area under the function , in the interval from 0 to 1?
 
@@ -167,8 +165,6 @@ thus each term of the sum is the area of a rectangle with height equal to the fu
 When the chosen tags give the maximum (respectively, minimum) value of each interval, the Riemann sum becomes an upper (respectively, lower) Darboux sum, suggesting the close connection between the Riemann integral and the Darboux integral.
 
 Lebesgue integral
-
-RandLintegrals.svg
 
 It is often of interest, both in theory and applications, to be able to pass to the limit under the integral. For instance, a sequence of functions can frequently be constructed that approximate, in a suitable sense, the solution to a problem. Then the integral of the solution function should be the limit of the integrals of the approximations. However, many functions that can be obtained as limits are not Riemann-integrable, and so such limit theorems do not hold with the Riemann integral. Therefore, it is of great importance to have a definition of the integral that allows a wider class of functions to be integrated .
 
@@ -384,7 +380,6 @@ Extensions
 
 Improper integrals
 
-Improper_integral.svg
 $\int_{0}^{\infty} \frac{dx}{(x+1)\sqrt{x}} = \pi$
 has unbounded intervals for both domain and range.]] A "proper" Riemann integral assumes the integrand is defined and finite on a closed and bounded interval, bracketed by the limits of integration. An improper integral occurs when one or more of these conditions is not satisfied. In some cases such integrals may be defined by considering the limit of a sequence of proper Riemann integrals on progressively larger intervals.
 
@@ -399,7 +394,7 @@ That is, the improper integral is the limit of proper integrals as one endpoint 
 
 Multiple integration
 
-Volume_under_surface.png Just as the definite integral of a positive function of one variable represents the area of the region between the graph of the function and the _x_-axis, the _double integral_ of a positive function of two variables represents the volume of the region between the surface defined by the function and the plane that contains its domain. For example, a function in two dimensions depends on two real variables, _x_ and _y_, and the integral of a function _f_ over the rectangle _R_ given as the Cartesian product of two intervals R = [a, b] × [c, d] can be written
+Just as the definite integral of a positive function of one variable represents the area of the region between the graph of the function and the _x_-axis, the _double integral_ of a positive function of two variables represents the volume of the region between the surface defined by the function and the plane that contains its domain. For example, a function in two dimensions depends on two real variables, _x_ and _y_, and the integral of a function _f_ over the rectangle _R_ given as the Cartesian product of two intervals R = [a, b] × [c, d] can be written
 
 ∫_(_R_)_f_(_x_, _y_) _d__A_
 
@@ -419,7 +414,7 @@ or similar. See volume integral.
 
 Line integrals
 
-Line-Integral.gif The concept of an integral can be extended to more general domains of integration, such as curved lines and surfaces. Such integrals are known as line integrals and surface integrals respectively. These have important applications in physics, as when dealing with vector fields.
+The concept of an integral can be extended to more general domains of integration, such as curved lines and surfaces. Such integrals are known as line integrals and surface integrals respectively. These have important applications in physics, as when dealing with vector fields.
 
 A _line integral_ (sometimes called a _path integral_) is an integral where the function to be integrated is evaluated along a curve. Various different line integrals are in use. In the case of a closed curve it is also called a _contour integral_.
 
@@ -432,7 +427,7 @@ _W_ = ∫_(_C_)F ⋅ _d_S.
 
 Surface integrals
 
-Surface_integral_illustration.svg A _surface integral_ is a definite integral taken over a surface (which may be a curved set in space); it can be thought of as the double integral analog of the line integral. The function to be integrated may be a scalar field or a vector field. The value of the surface integral is the sum of the field at all points on the surface. This can be achieved by splitting the surface into surface elements, which provide the partitioning for Riemann sums.
+A _surface integral_ is a definite integral taken over a surface (which may be a curved set in space); it can be thought of as the double integral analog of the line integral. The function to be integrated may be a scalar field or a vector field. The value of the surface integral is the sum of the field at all points on the surface. This can be achieved by splitting the surface into surface elements, which provide the partitioning for Riemann sums.
 
 For an example of applications of surface integrals, consider a vector field on a surface ; that is, for each point in , is a vector. Imagine that we have a fluid flowing through , such that determines the velocity of the fluid at . The flux is defined as the quantity of fluid flowing through in unit amount of time. To find the flux, we need to take the dot product of with the unit surface normal to at each point, which will give us a scalar field, which we integrate over the surface:
 
@@ -522,7 +517,7 @@ which has the exact answer 3.76}}. (In ordinary practice, the answer is not know
 
     {| cellpadding="0" cellspacing="0" class="wikitable" style="text-align:center;background-color:white"
 
-|+ Spaced function values |- ! _x_ | colspan="2" | −2.00 || colspan="2" | −1.50 || colspan="2" | −1.00 || colspan="2" | −0.50 || colspan="2" |  0.00 || colspan="2" |  0.50 || colspan="2" |  1.00 || colspan="2" |  1.50 || colspan="2" |  2.00 |- style="font-size:80%" ! style="font-size:125%" | _f_(_x_) | colspan="2" |  2.22800 || colspan="2" |  2.45663 || colspan="2" |  2.67200 || colspan="2" |  2.32475 || colspan="2" |  0.64400 || colspan="2" | −0.92575 || colspan="2" | −0.94000 || colspan="2" | −0.16963 || colspan="2" |  0.83600 |- ! _x_ |   | colspan="2" | −1.75 || colspan="2" | −1.25 || colspan="2" | −0.75 || colspan="2" | −0.25 || colspan="2" |  0.25 || colspan="2" |  0.75 || colspan="2" |  1.25 || colspan="2" |  1.75 || |- style="font-size:80%" ! style="font-size:125%" | _f_(_x_) | | colspan="2" |  2.33041 || colspan="2" |  2.58562 || colspan="2" |  2.62934 || colspan="2" |  1.64019 || colspan="2" | −0.32444 || colspan="2" | −1.09159 || colspan="2" | −0.60387 || colspan="2" |  0.31734 || |- style="background-color:#aaa" | || || || || || || || || || || || || || || || || || || |} Numerical_quadrature_4up.png Using the left end of each piece, the rectangle method sums 16 function values and multiplies by the step width, , here 0.25, to get an approximate value of 3.94325 for the integral. The accuracy is not impressive, but calculus formally uses pieces of infinitesimal width, so initially this may seem little cause for concern. Indeed, repeatedly doubling the number of steps eventually produces an approximation of 3.76001. However, 2¹⁸ pieces are required, a great computational expense for such little accuracy; and a reach for greater accuracy can force steps so small that arithmetic precision becomes an obstacle.
+|+ Spaced function values |- ! _x_ | colspan="2" | −2.00 || colspan="2" | −1.50 || colspan="2" | −1.00 || colspan="2" | −0.50 || colspan="2" |  0.00 || colspan="2" |  0.50 || colspan="2" |  1.00 || colspan="2" |  1.50 || colspan="2" |  2.00 |- style="font-size:80%" ! style="font-size:125%" | _f_(_x_) | colspan="2" |  2.22800 || colspan="2" |  2.45663 || colspan="2" |  2.67200 || colspan="2" |  2.32475 || colspan="2" |  0.64400 || colspan="2" | −0.92575 || colspan="2" | −0.94000 || colspan="2" | −0.16963 || colspan="2" |  0.83600 |- ! _x_ |   | colspan="2" | −1.75 || colspan="2" | −1.25 || colspan="2" | −0.75 || colspan="2" | −0.25 || colspan="2" |  0.25 || colspan="2" |  0.75 || colspan="2" |  1.25 || colspan="2" |  1.75 || |- style="font-size:80%" ! style="font-size:125%" | _f_(_x_) | | colspan="2" |  2.33041 || colspan="2" |  2.58562 || colspan="2" |  2.62934 || colspan="2" |  1.64019 || colspan="2" | −0.32444 || colspan="2" | −1.09159 || colspan="2" | −0.60387 || colspan="2" |  0.31734 || |- style="background-color:#aaa" | || || || || || || || || || || || || || || || || || || |} Using the left end of each piece, the rectangle method sums 16 function values and multiplies by the step width, , here 0.25, to get an approximate value of 3.94325 for the integral. The accuracy is not impressive, but calculus formally uses pieces of infinitesimal width, so initially this may seem little cause for concern. Indeed, repeatedly doubling the number of steps eventually produces an approximation of 3.76001. However, 2¹⁸ pieces are required, a great computational expense for such little accuracy; and a reach for greater accuracy can force steps so small that arithmetic precision becomes an obstacle.
 
 A better approach replaces the rectangles used in a Riemann sum with trapezoids. The trapezoid rule is almost as easy to calculate; it sums all 17 function values, but weights the first and last by one half, and again multiplies by the step width. This immediately improves the approximation to 3.76925, which is noticeably more accurate. Furthermore, only 2¹⁰ pieces are needed to achieve 3.76000, substantially less computation than the rectangle method for comparable accuracy. The idea behind the trapezoid rule, that more accurate approximations to the function yield better approximations to the integral, can be carried further. Simpson's rule approximates the integrand by a piecewise quadratic function. Riemann sums, the trapezoid rule, and Simpson's rule are examples of a family of quadrature rules called Newton–Cotes formulas. The degree Newton–Cotes quadrature rule approximates the polynomial on each subinterval by a degree polynomial. This polynomial is chosen to interpolate the values of the function on the interval. Higher degree Newton-Cotes approximations can be more accurate, but they require more function evaluations (already Simpson's rule requires twice the function evaluations of the trapezoid rule), and they can suffer from numerical inaccuracy due to Runge's phenomenon. One solution to this problem is Clenshaw–Curtis quadrature, in which the integrand is approximated by expanding it in terms of Chebyshev polynomials. This produces an approximation whose values never deviate far from those of the original function.
 

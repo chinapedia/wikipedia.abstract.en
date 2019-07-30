@@ -1,4 +1,4 @@
-Lars_Magnus_Ericsson_statue_Telefonplan_Midsomarkransen_Stockholm_2005-08-13.JPG in Stockholm]]
+in Stockholm]]
 
 LARS MAGNUS ERICSSON (; 5 May 1846 – 17 December 1926) was a Swedish inventor, entrepreneur and founder of telephone equipment manufacturer Ericsson (incorporated as _Telefonaktiebolaget LM Ericsson_).
 

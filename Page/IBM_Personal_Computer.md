@@ -150,7 +150,7 @@ All IBM personal computers are software backwards-compatible with each other in 
 
 Original PC
 
-IMB_PC-IMG_7271.jpg The CGA video card, with a suitable modulator, could use an NTSC television set or an RGBi monitor for display; IBM's RGBi monitor was their display model 5153. The other option that was offered by IBM was an MDA and their monochrome display model 5151. It was possible to install both an MDA and a CGA card and use both monitors concurrently[132] if supported by the application program. For example, AutoCAD, Lotus 1-2-3 and others allowed use of a CGA Monitor for graphics and a separate monochrome monitor for text menus. Some model 5150 PCs with CGA monitors and a printer port also included the MDA adapter by default, because IBM provided the MDA port and printer port on the same adapter card; it was in fact an MDA/printer port combo card.
+The CGA video card, with a suitable modulator, could use an NTSC television set or an RGBi monitor for display; IBM's RGBi monitor was their display model 5153. The other option that was offered by IBM was an MDA and their monochrome display model 5151. It was possible to install both an MDA and a CGA card and use both monitors concurrently[132] if supported by the application program. For example, AutoCAD, Lotus 1-2-3 and others allowed use of a CGA Monitor for graphics and a separate monochrome monitor for text menus. Some model 5150 PCs with CGA monitors and a printer port also included the MDA adapter by default, because IBM provided the MDA port and printer port on the same adapter card; it was in fact an MDA/printer port combo card.
 
 Although cassette tape was originally envisioned by IBM as a low-budget storage alternative, the most commonly used medium was the floppy disk. The 5150 was available with one or two " floppy drives – with two drives the program disc(s) would be in drive A, while drive B would hold the disc(s) for working files; with one drive the user had to swap program and file discs into the single drive. For models without any drives or storage medium, IBM intended users to connect their own cassette recorder via the 5150's cassette socket. The cassette tape socket was physically the same DIN plug as the keyboard socket and next to it, but electrically completely different.
 
@@ -221,11 +221,11 @@ Technology
 
 Electronics
 
-IBM_PC_Motherboard_(1981).jpg" by other manufacturers of compatible computers), and two DIN connectors for keyboard and cassette interface.]] The main circuit board in a PC is called the motherboard (IBM terminology calls it a _planar_). This mainly carries the CPU and RAM, and has a bus with slots for expansion cards. Also on the motherboard are the ROM subsystem, DMA and IRQ controllers, coprocessor socket, sound (PC speaker, tone generation) circuitry, and keyboard interface. The original PC also has a cassette interface.
+" by other manufacturers of compatible computers), and two DIN connectors for keyboard and cassette interface.]] The main circuit board in a PC is called the motherboard (IBM terminology calls it a _planar_). This mainly carries the CPU and RAM, and has a bus with slots for expansion cards. Also on the motherboard are the ROM subsystem, DMA and IRQ controllers, coprocessor socket, sound (PC speaker, tone generation) circuitry, and keyboard interface. The original PC also has a cassette interface.
 
 The bus used in the original PC became very popular, and it was later named ISA. It was originally known as the PC-bus or XT-bus; the term _ISA_ arose later when industry leaders chose to continue manufacturing machines based on the IBM PC AT architecture rather than license the PS/2 architecture and its Micro Channel bus from IBM. The XT-bus was then retroactively named _8-bit ISA_ or _XT ISA_, while the unqualified term _ISA_ usually refers to the 16-bit AT-bus (as better defined in the ISA specifications). The AT-bus is an extension of the PC-/XT-bus and is in use to this day in computers for industrial use, where its relatively low speed, 5 volt signals, and relatively simple, straightforward design (all by year 2011 standards) give it technical advantages (e.g. noise immunity for reliability).
 
-KL_Quadram_Quadboard.jpg A monitor and any floppy or hard disk drives are connected to the motherboard through cables connected to graphics adapter and disk controller cards, respectively, installed in expansion slots. Each expansion slot on the motherboard has a corresponding opening in the back of the computer case through which the card can expose connectors; a blank metal cover plate covers this case opening (to prevent dust and debris intrusion and control airflow) when no expansion card is installed. Memory expansion beyond the amount installable on the motherboard was also done with boards installed in expansion slots, and I/O devices such as parallel, serial, or network ports were likewise installed as individual expansion boards. For this reason, it was easy to fill the five expansion slots of the PC, or even the eight slots of the XT, even without installing any special hardware. Companies like Quadram and AST addressed this with their popular multi-I/O cards which combine several peripherals on one adapter card that uses only one slot; Quadram offered the QuadBoard and AST the SixPak.
+A monitor and any floppy or hard disk drives are connected to the motherboard through cables connected to graphics adapter and disk controller cards, respectively, installed in expansion slots. Each expansion slot on the motherboard has a corresponding opening in the back of the computer case through which the card can expose connectors; a blank metal cover plate covers this case opening (to prevent dust and debris intrusion and control airflow) when no expansion card is installed. Memory expansion beyond the amount installable on the motherboard was also done with boards installed in expansion slots, and I/O devices such as parallel, serial, or network ports were likewise installed as individual expansion boards. For this reason, it was easy to fill the five expansion slots of the PC, or even the eight slots of the XT, even without installing any special hardware. Companies like Quadram and AST addressed this with their popular multi-I/O cards which combine several peripherals on one adapter card that uses only one slot; Quadram offered the QuadBoard and AST the SixPak.
 
 Intel 8086 and 8088-based PCs require expanded memory (EMS) boards to work with more than 640 kB of memory. (Though the 8088 can address one megabyte of memory, the last 384 kB of that is used or reserved for the BIOS ROM, BASIC ROM, extension ROMs installed on adapter cards, and memory address space used by devices including display adapter RAM and even the 64 kB EMS page frame itself.) The original IBM PC AT used an Intel 80286 processor which can access up to 16 MB of memory (though standard DOS applications cannot use more than one megabyte without using additional APIs). Intel 80286-based computers running under OS/2 can work with the maximum memory.
 
@@ -244,8 +244,6 @@ Joystick port
 IBM offered a Game Control Adapter for the PC, which supported analog joysticks similar to those on the Apple II. Although analog controls proved inferior for arcade-style games, they were an asset in certain other genres such as flight simulators. The joystick port on the IBM PC supported two controllers, but required a Y-splitter cable to connect both at once. It remained the standard joystick interface on IBM compatibles until being replaced by USB during the 2000s.
 
 Keyboard
-
-IBM_Model_F_XT.png
 
 The keyboard that came with the IBM 5150 was an extremely reliable and high-quality electronic keyboard originally developed in North Carolina for the Datamaster. Each key was rated to be reliable to over 100 million keystrokes. For the IBM PC, a separate keyboard housing was designed with a novel usability feature that allowed users to adjust the keyboard angle for personal comfort. Compared with the keyboards of other small computers at the time, the IBM PC keyboard was far superior and played a significant role in establishing a high-quality impression. For example, the industrial design of the adjustable keyboard, together with the system unit, was recognized with a major design award.[148] _Byte_ magazine in the fall of 1981 went so far as to state that the keyboard was 50% of the reason to buy an IBM PC. The importance of the keyboard was definitely established when the 1983 IBM PCjr flopped, in very large part for having a much different and mediocre Chiclet keyboard that made a poor impression on customers. Oddly enough, the same thing almost happened to the original IBM PC when in early 1981 management seriously considered substituting a cheaper and lower quality keyboard. This mistake was narrowly avoided on the advice of one of the original development engineers.
 
@@ -275,7 +273,7 @@ IBM also had an exclusive license agreement with Microsoft to include BASIC in t
 
 Floppy diskettes
 
-IBM_Floppy_Drive_With_DOS.jpg with a partially inserted double-density diskette containing DOS 1.1.]]
+with a partially inserted double-density diskette containing DOS 1.1.]]
 
 The first IBM 5150 PCs had two 5.25-inch 160 KiB single sided double density (SSDD) floppy disk drives. As two heads drives became available in the spring of 1982, later IBM PC and compatible computers could read 320 KiB double sided double density (DSDD) disks with software support of MS-DOS 1.25 and higher. The same type of physical diskette media could be used for both drives but a disk formatted for double-sided use could not be read on a single-sided drive. PC-DOS 2.0 added support for 180 KiB and 360 KiB SSDD and DSDD floppy disks, using the same physical media again.
 
@@ -289,7 +287,7 @@ The industry-standard way of setting floppy drive numbers was via setting jumper
 
 Fixed disks
 
-ST_225_20MB_drive_and_WDC_controller.jpg ST-225 with a controller card by Western Digital]]
+ST-225 with a controller card by Western Digital]]
 
 The 5150 could not itself power hard drives without retrofitting a stronger power supply, but IBM later offered the 5161 Expansion Unit, which not only provided more expansion slots, but also included a 10 MB (later 20 MB) hard drive powered by the 5161's own separate 130-watt power supply. The IBM 5161 Expansion Unit was released in early 1983.
 
@@ -300,8 +298,6 @@ IBM began offering hard disks with the XT, however the original PC was never sol
 After floppy disks became obsolete in the early 2000s, the letters A and B became unused. But for 25 years, virtually all DOS-based PC software assumed the program installation drive was C, so the primary HDD continues to be "the C drive" even today. Other operating system families (e.g. Unix) are not bound to these designations.
 
 OS support
-
-IBM_DOS_1.1_Manual_and_Disk.jpg
 
 Which operating system IBM customers would choose was at first unclear.[155] Although the company expected that most would use PC DOS IBM supported using CP/M-86—which became available six months after DOS[156]—or UCSD p-System as operating systems. IBM promised that it would not favor one operating system over the others; the CP/M-86 support surprised Gates, who claimed that IBM was "blackmailed into it". IBM was correct, nonetheless, in its expectation; one survey found that 96.3% of PCs were ordered with the $40 DOS compared to 3.4% for the $240 CP/M-86.[157]
 

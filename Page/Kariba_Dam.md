@@ -19,7 +19,7 @@ The north station belonging to Zambia has been in operation since 1976, and has 
 
 Location
 
-Zambezi.svg The Kariba Dam project was planned by the government of the Federation of Rhodesia and Nyasaland, or Central African Federation (CAF). The CAF was a semi-independent state within the Commonwealth in southern Africa that existed from 1953 to the end of 1963, comprising the former self-governing British colonies of Northern Rhodesia and Southern Rhodesia and the former British protectorate of Nyasaland. Northern Rhodesia had decided earlier in 1953 (before the Federation was founded) to build a dam within its territory, on the Kafue River, a major tributary of the Zambezi. It would have been closer to Zambia's Copperbelt, which was in need of more power. This would have been a cheaper and less grandiose project, with a smaller environmental impact. Southern Rhodesia, the richest of the three, objected to a Kafue dam and insisted that the dam be sited instead at Kariba. Also, the capacity of the Kafue dam was much lower than that at Kariba.[14] Initially the dam was managed and maintained by the Central African Power Corporation.[15] The Kariba Dam is now owned and operated by the Zambezi River Authority,[16] which is jointly and equally owned by Zimbabwe and Zambia.[17]
+The Kariba Dam project was planned by the government of the Federation of Rhodesia and Nyasaland, or Central African Federation (CAF). The CAF was a semi-independent state within the Commonwealth in southern Africa that existed from 1953 to the end of 1963, comprising the former self-governing British colonies of Northern Rhodesia and Southern Rhodesia and the former British protectorate of Nyasaland. Northern Rhodesia had decided earlier in 1953 (before the Federation was founded) to build a dam within its territory, on the Kafue River, a major tributary of the Zambezi. It would have been closer to Zambia's Copperbelt, which was in need of more power. This would have been a cheaper and less grandiose project, with a smaller environmental impact. Southern Rhodesia, the richest of the three, objected to a Kafue dam and insisted that the dam be sited instead at Kariba. Also, the capacity of the Kafue dam was much lower than that at Kariba.[14] Initially the dam was managed and maintained by the Central African Power Corporation.[15] The Kariba Dam is now owned and operated by the Zambezi River Authority,[16] which is jointly and equally owned by Zimbabwe and Zambia.[17]
 
 Since Zambia's independence, two dams have been built on the Kafue River: the Kafue Gorge Dam and the Itezhi-Tezhi Dam.[18]
 
@@ -36,7 +36,7 @@ A 2005 book, "Deep Water" by Jacques Leslie focused on the plight of the people 
 
 Basilwizi Trust
 
-KaribaDam.jpg]] In a quest to restore their lives and find justice, the Tonga formed their own advocacy group in 2000, the Basilwizi Trust.[23]
+]] In a quest to restore their lives and find justice, the Tonga formed their own advocacy group in 2000, the Basilwizi Trust.[23]
 
 River ecology
 

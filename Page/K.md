@@ -3,12 +3,12 @@ K (named _kay_ )[1] is the eleventh letter of the modern English alphabet and th
 
 History
 
-+--------------+-----------------------+--------------------+------------------+-----------------+
-| Egyptian     | Proto-Semitic         | Phoenician         | Etruscan         | Greek           |
-| hieroglyph D | K                     | K                  | K                | _Kappa_         |
-+==============+=======================+====================+==================+=================+
-| d            | Proto-semiticK-01.svg | PhoenicianK-01.svg | EtruscanK-01.svg | Kappa_uc_lc.svg |
-+--------------+-----------------------+--------------------+------------------+-----------------+
++--------------+---------------+------------+----------+---------+
+| Egyptian     | Proto-Semitic | Phoenician | Etruscan | Greek   |
+| hieroglyph D | K             | K          | K        | _Kappa_ |
++==============+===============+============+==========+=========+
+| d            |               |            |          |         |
++--------------+---------------+------------+----------+---------+
 
 The letter K comes from the Greek letter Κ (kappa), which was taken from the Semitic kaph, the symbol for an open hand.[2] This, in turn, was likely adapted by Semitic tribes who had lived in Egypt from the hieroglyph for "hand" representing D in the Egyptian word for hand, _d-r-t_. The Semites evidently assigned it the sound value instead, because their word for hand started with that sound.[3]
 
@@ -74,7 +74,7 @@ Other usage
 -   Unit prefix k, meaning 1000 times.
 -   Josef K is the name of the principal character in Franz Kafka's novel _The Trial_.
 -   In chess notation, the letter K represents the King (WK for White King, BK for Black King).
--   In baseball scoring, the letter K is used to represent a strikeout. A forwards oriented K represents a "strikeout swinging"; a backwards oriented K (Backwards_K.svg) represents a "strikeout looking".
+-   In baseball scoring, the letter K is used to represent a strikeout. A forwards oriented K represents a "strikeout swinging"; a backwards oriented K () represents a "strikeout looking".
 -   As abbreviation for OK, often used in emails and short text messages.
 -   K is used as a slang term for Ketamine among recreational drug users.
 -   In the CMYK color model, K represents black ink.

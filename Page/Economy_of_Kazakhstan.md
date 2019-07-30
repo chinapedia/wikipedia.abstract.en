@@ -156,7 +156,7 @@ External trade and investment
 
 Trade
 
-Kazakhstan_Export_Treemap.jpg 2006Kazakhstani_exports.PNG Sherin Suzhikova, Counselor of Kazakhstan's Chamber of Commerce and Industry and Chao yon-chuan, Secretary-General of the Taiwan External Trade Development Council, signed an agreement on 13 October 2006 in Taipei to improve economic relations through "exchanges of market information and visits by trade professionals." TAITRA has an office in Almaty, Kazakhstan.[36]
+Sherin Suzhikova, Counselor of Kazakhstan's Chamber of Commerce and Industry and Chao yon-chuan, Secretary-General of the Taiwan External Trade Development Council, signed an agreement on 13 October 2006 in Taipei to improve economic relations through "exchanges of market information and visits by trade professionals." TAITRA has an office in Almaty, Kazakhstan.[36]
 
 In 2006, North Dakota's then Lieutenant Governor Jack Dalrymple led an 18-member delegation of the North Dakota Trade Office representing seven North Dakota companies and Dickinson State University on a trip to Kazakhstan, Ukraine and Russia. North Dakota exports mostly machinery to Kazakhstan, the eighth largest destination for North Dakotan exports; machinery exports increased from $22,000 to $25 million between 2000 and 2005.[37]
 

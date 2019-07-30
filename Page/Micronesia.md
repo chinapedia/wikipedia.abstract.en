@@ -1,5 +1,3 @@
-Pohnpei_of_Micronesia.jpg Oceania_UN_Geoscheme_-_Map_of_Micronesia.svg
-
 MICRONESIA ((, ); from _mikrós_ "small" and _nêsos_ "island") is a subregion of Oceania, composed of thousands of small islands in the western Pacific Ocean. It has a close shared cultural history with two other island regions: Polynesia to the east and Island Melanesia to the south; as well as the wider Austronesian peoples.
 
 The region has a tropical marine climate and is part of the Oceania ecozone. There are four main archipelagos along with numerous outlying islands.
@@ -11,7 +9,7 @@ Micronesia began to be settled several millennia ago, although there are competi
 
 Geography
 
-Pacific_Culture_Areas.png, along with Polynesia and Melanesia]] Micronesia is a region that includes approximately 2100 islands, with a total land area of , the largest of which is Guam, which covers . The total ocean area within the perimeter of the islands is .
+, along with Polynesia and Melanesia]] Micronesia is a region that includes approximately 2100 islands, with a total land area of , the largest of which is Guam, which covers . The total ocean area within the perimeter of the islands is .
 
 There are four main island groups in Micronesia:
 
@@ -32,11 +30,11 @@ The Gilbert Islands are a chain of sixteen atolls and coral islands, arranged in
 
 Mariana Islands
 
-Suicide_Cliff_in_Saipan_3.JPG.]] The Mariana Islands are an arc-shaped archipelago made up by the summits of fifteen volcanic mountains. The island chain arises as a result of the western edge of the Pacific Plate moving westward and plunging downward below the Mariana plate, a region which is the most volcanically active convergent plate boundary on Earth. The Marianas were politically divided in 1898, when the United States acquired title to Guam under the Treaty of Paris, 1898, which ended the Spanish–American War. Spain then sold the remaining northerly islands to Germany in 1899. Germany lost all of her colonies at the end of World War I and the Northern Mariana Islands became a League of Nations Mandate, with Japan as the mandatory. After World War II, the islands were transferred into the United Nations Trust Territory System, with the United States as Trustee. In 1976, the Northern Mariana Islands and the United States entered into a covenant of political union under which commonwealth status was granted the Northern Mariana Islands and its residents received United States citizenship.
+.]] The Mariana Islands are an arc-shaped archipelago made up by the summits of fifteen volcanic mountains. The island chain arises as a result of the western edge of the Pacific Plate moving westward and plunging downward below the Mariana plate, a region which is the most volcanically active convergent plate boundary on Earth. The Marianas were politically divided in 1898, when the United States acquired title to Guam under the Treaty of Paris, 1898, which ended the Spanish–American War. Spain then sold the remaining northerly islands to Germany in 1899. Germany lost all of her colonies at the end of World War I and the Northern Mariana Islands became a League of Nations Mandate, with Japan as the mandatory. After World War II, the islands were transferred into the United Nations Trust Territory System, with the United States as Trustee. In 1976, the Northern Mariana Islands and the United States entered into a covenant of political union under which commonwealth status was granted the Northern Mariana Islands and its residents received United States citizenship.
 
 Marshall Islands
 
-Laura_beach_n_tree_(170671778).jpg, Majuro, Marshall Islands]] The Marshall Islands are located north of Nauru and Kiribati, east of the Federated States of Micronesia and south of the U.S. territory of Wake Island. The islands consist of 29 low-lying atolls and 5 isolated islands,[1] comprising 1,156 individual islands and islets. The atolls and islands form two groups: the Ratak Chain and the Ralik Chain (meaning "sunrise" and "sunset" chains). All the islands in the chain are part of the Republic of the Marshall Islands, a presidential republic in free association with the United States. Having few natural resources, the islands' wealth is based on a service economy, as well as some fishing and agriculture. Of the 29 atolls, 24 of them are inhabited.
+, Majuro, Marshall Islands]] The Marshall Islands are located north of Nauru and Kiribati, east of the Federated States of Micronesia and south of the U.S. territory of Wake Island. The islands consist of 29 low-lying atolls and 5 isolated islands,[1] comprising 1,156 individual islands and islets. The atolls and islands form two groups: the Ratak Chain and the Ralik Chain (meaning "sunrise" and "sunset" chains). All the islands in the chain are part of the Republic of the Marshall Islands, a presidential republic in free association with the United States. Having few natural resources, the islands' wealth is based on a service economy, as well as some fishing and agriculture. Of the 29 atolls, 24 of them are inhabited.
 
 Bikini Atoll is an atoll in the Marshall Islands. There are 23 islands in the Bikini Atoll. The islands of Bokonijien, Aerokojlol and Nam were vaporized during nuclear tests that occurred there.[2] The islands are composed of low coral limestone and sand.[3] The average elevation is only about above low tide level.
 
@@ -60,7 +58,7 @@ The majority of the islands in the area are part of a coral atoll. Coral atolls 
 
 Fauna
 
-SpinnerDolphinsoffKauai_1999-03-15.jpgs]]
+s]]
 
 Climate
 
@@ -71,7 +69,7 @@ History
 
 Prehistory
 
-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Bellwood_in_Chambers,_2008).png across the Indo-Pacific[9]]]
+across the Indo-Pacific[9]]]
 
 The Northern Marianas were the first islands in Oceania colonized by the Austronesian peoples. It was settled by the voyagers who sailed eastwards from the Philippines at approximately 1500 BCE. These populations gradually moved southwards until they reached the Bismarck Archipelago and the Solomon Islands by 1300 BCE and reconnected with the Lapita culture of the southeast migration branch of Austronesians moving through coastal New Guinea and Island Melanesia. By 1200 BCE, they again began crossing open seas beyond inter-island visibility, reaching Vanuatu, Fiji, and New Caledonia; before continuing eastwards to become the ancestors of the Polynesian people.[10][11][12]
 
@@ -97,13 +95,13 @@ In 1819, the American Board of Commissioners for Foreign Missions – a Protesta
 
 German–Spanish Treaty of 1899
 
-German_new_guinea_1888_1899.png before and after the German-Spanish treaty of 1899]] In the Spanish–American War, Spain lost many of its remaining colonies. In the Pacific, the United States took possession of the Spanish Philippines and Guam. On January 17, 1899, the United States also took possession of unclaimed and uninhabited Wake Island. This left Spain with the remainder of the Spanish East Indies, about 6,000 tiny islands that were sparsely populated and not very productive. These islands were ungovernable after the loss of the administrative center of Manila and indefensible after the loss of two Spanish fleets in the war. The Spanish government therefore decided to sell the remaining islands to a new colonial power: the German Empire.
+before and after the German-Spanish treaty of 1899]] In the Spanish–American War, Spain lost many of its remaining colonies. In the Pacific, the United States took possession of the Spanish Philippines and Guam. On January 17, 1899, the United States also took possession of unclaimed and uninhabited Wake Island. This left Spain with the remainder of the Spanish East Indies, about 6,000 tiny islands that were sparsely populated and not very productive. These islands were ungovernable after the loss of the administrative center of Manila and indefensible after the loss of two Spanish fleets in the war. The Spanish government therefore decided to sell the remaining islands to a new colonial power: the German Empire.
 
 The treaty, which was signed by Spanish Prime Minister Francisco Silvela on February 12, 1899, transferred the Caroline Islands, the Mariana Islands, Palau and other possessions to Germany. Under German control, the islands became a protectorate and were administered from German New Guinea. Nauru had already been annexed and claimed as a colony by Germany in 1888.
 
 20th century
 
-MapofTTPI.gif, formerly Japan's South Pacific Mandate.]] In the early 20th century, the islands of Micronesia were divided between three foreign powers:
+, formerly Japan's South Pacific Mandate.]] In the early 20th century, the islands of Micronesia were divided between three foreign powers:
 
 -   the United States, which took control of Guam following the Spanish–American War of 1898 and claimed Wake Island;
 -   Germany, which took Nauru and bought the Marshall, Caroline and Northern Mariana Islands from Spain; and
@@ -154,7 +152,7 @@ The immigration of Carolinians to Saipan began in the early 19th century, after 
 
 Chamorro people
 
-Chamorro_people_in_1915.jpg The Chamorro people are the indigenous peoples of the Mariana Islands, which are politically divided between the United States territory of Guam and the United States Commonwealth of the Northern Mariana Islands in Micronesia. The Chamorro are commonly believed to have come from Southeast Asia at around 2000 BC. They are most closely related to other Austronesian natives to the west in the Philippines and Taiwan, as well as the Carolines to the south.
+The Chamorro people are the indigenous peoples of the Mariana Islands, which are politically divided between the United States territory of Guam and the United States Commonwealth of the Northern Mariana Islands in Micronesia. The Chamorro are commonly believed to have come from Southeast Asia at around 2000 BC. They are most closely related to other Austronesian natives to the west in the Philippines and Taiwan, as well as the Carolines to the south.
 
 The Chamorro language is included in the Malayo-Polynesian subgroup of the Austronesian family. Because Guam was colonized by Spain for over 300 years, many words derive from the Spanish language. The traditional Chamorro number system was replaced by Spanish numbers.[31]
 
@@ -181,8 +179,6 @@ There are large Asian communities found across certain Micronesian countries tha
 Japanese rule in Micronesia also led to Japanese people settling the islands and marrying native spouses. Kessai Note, the former president of the Marshall Islands has partial Japanese ancestry by way of his paternal grandfather, and Emanuel Mori, the former president of The Federated States of Micronesia, is descended from one of the first settlers from Japan, Koben Mori.
 
 European people
-
-Languages_of_Micronesia.en.svg
 
 The 2010 census results of Guam showed 7.1% were white while the 2005 census for Palau showed 8% were European. Smaller numbers at 1.9% in Palau and 1.8% in the Northern Mariana Islands were recorded as "white". In conjunction to the European communities there are large amounts of mixed Micronesians, some of which have European ancestry.
 

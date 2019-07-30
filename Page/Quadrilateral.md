@@ -19,7 +19,7 @@ Any quadrilateral that is not self-intersecting is a simple quadrilateral.
 
 Convex quadrilaterals
 
-Euler_diagram_of_quadrilateral_types.svg of some types of simple quadrilaterals. (UK) denotes British English and (US) denotes American English.]] In a convex quadrilateral, all interior angles are less than 180° and the two diagonals both lie inside the quadrilateral.
+of some types of simple quadrilaterals. (UK) denotes British English and (US) denotes American English.]] In a convex quadrilateral, all interior angles are less than 180° and the two diagonals both lie inside the quadrilateral.
 
 -   Irregular quadrilateral (British English) or trapezium (North American English): no sides are parallel. (In British English this was once called a _trapezoid_.)
 -   Trapezium (UK) or trapezoid (US): at least one pair of opposite sides are parallel. Trapezia (UK) and trapezoids (US) include parallelograms.
@@ -32,8 +32,6 @@ Euler_diagram_of_quadrilateral_types.svg of some types of simple quadrilaterals.
 -   Square (regular quadrilateral): all four sides are of equal length (equilateral), and all four angles are right angles. An equivalent condition is that opposite sides are parallel (a square is a parallelogram), that the diagonals perpendicularly bisect each other, and are of equal length. A quadrilateral is a square if and only if it is both a rhombus and a rectangle (four equal sides and four equal angles).
 -   _Oblong_: a term sometimes used to denote a rectangle that has unequal adjacent sides (_i.e._ a rectangle that is not a square).[2]
 -   Kite: two pairs of adjacent sides are of equal length. This implies that one diagonal divides the kite into congruent triangles, and so the angles between the two pairs of equal sides are equal in measure. It also implies that the diagonals are perpendicular. Kites include rhombi.
-
-File:Quadrilaterals.svg
 
 -   Tangential quadrilateral: the four sides are tangents to an inscribed circle. A convex quadrilateral is tangential if and only if opposite sides have equal sums.
 -   Tangential trapezoid: a trapezoid where the four sides are tangents to an inscribed circle.
@@ -59,7 +57,7 @@ In a concave quadrilateral, one interior angle is bigger than 180° and one of t
 
 Complex quadrilaterals
 
-DU21_facets.png A self-intersecting quadrilateral is called variously a CROSS-QUADRILATERAL, CROSSED QUADRILATERAL, BUTTERFLY QUADRILATERAL or BOW-TIE QUADRILATERAL. In a crossed quadrilateral, the four "interior" angles on either side of the crossing (two acute and two reflex, all on the left or all on the right as the figure is traced out) add up to 720°.[7]
+A self-intersecting quadrilateral is called variously a CROSS-QUADRILATERAL, CROSSED QUADRILATERAL, BUTTERFLY QUADRILATERAL or BOW-TIE QUADRILATERAL. In a crossed quadrilateral, the four "interior" angles on either side of the crossing (two acute and two reflex, all on the left or all on the right as the figure is traced out) add up to 720°.[7]
 
 -   Crossed trapezoid (US) or trapezium (Commonwealth)[8]: a crossed quadrilateral in which (like a trapezoid) one pair of nonadjacent sides is parallel
 -   Antiparallelogram: a crossed quadrilaterals in which (like a parallelogram) each pair of nonadjacent sides have equal lengths.
@@ -441,14 +439,14 @@ Other properties of convex quadrilaterals
 
 Taxonomy
 
-    Quadrilateral_hierarchy_svg.svg
+
 
 A hierarchical taxonomy of quadrilaterals is illustrated by the figure to the right. Lower classes are special cases of higher classes they are connected to. Note that "trapezoid" here is referring to the North American definition (the British equivalent is a trapezium). Inclusive definitions are used throughout.
 
 
 Skew quadrilaterals
 
-Disphenoid_tetrahedron.png represent a regular zig-zag skew quadrilateral]]
+represent a regular zig-zag skew quadrilateral]]
 
 A non-planar quadrilateral is called a SKEW QUADRILATERAL. Formulas to compute its dihedral angles from the edge lengths and the angle between two adjacent edges were derived for work on the properties of molecules such as cyclobutane that contain a "puckered" ring of four atoms.[65] Historically the term GAUCHE QUADRILATERAL was also used to mean a skew quadrilateral.[66] A skew quadrilateral together with its diagonals form a (possibly non-regular) tetrahedron, and conversely every skew quadrilateral comes from a tetrahedron where a pair of opposite edges is removed.
 

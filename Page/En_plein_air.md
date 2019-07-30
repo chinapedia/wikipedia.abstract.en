@@ -1,9 +1,9 @@
-Slide_Rock_artists_01.jpg, Arizona, in 2006]] _EN PLEIN AIR_ (, French for outdoors, or _PLEIN AIR_ PAINTING) is the act of painting outdoors. This method contrasts with studio painting or academic rules that might create a predetermined look.
+, Arizona, in 2006]] _EN PLEIN AIR_ (, French for outdoors, or _PLEIN AIR_ PAINTING) is the act of painting outdoors. This method contrasts with studio painting or academic rules that might create a predetermined look.
 
 
 History
 
-Sargent_MonetPainting.jpg Painting by the Edge of a Wood'' (1885) by John Singer Sargent. Oil on canvas. 54.0 × 64.8 cm. Tate Gallery, London.]] Artists have long painted outdoors, but in the mid-19th century, working in natural light became particularly important to the Barbizon school, Hudson River School, and Impressionists.
+Painting by the Edge of a Wood'' (1885) by John Singer Sargent. Oil on canvas. 54.0 × 64.8 cm. Tate Gallery, London.]] Artists have long painted outdoors, but in the mid-19th century, working in natural light became particularly important to the Barbizon school, Hudson River School, and Impressionists.
 
 In 1830, the Barbizon School in France, inspired by John Constable, enabled artists like Charles-François Daubigny and Théodore Rousseau to more accurately depict the appearance of outdoor settings in various light and weather conditions.[1] In the late 1800s, the _en plein air_ approach was incorporated with the impressionists’ style, and artists such as Claude Monet, Pierre-Auguste Renoir, Frédéric Bazille, and Edgar Degas began creating their work outdoors.[2] From France, the movement expanded to America, starting in California then moving to other American locales notable for their natural light qualities, including the Hudson River Valley in New York.
 
@@ -16,7 +16,7 @@ The act of outdoor painting from observation has been continually popular well i
 
 Equipment and challenges
 
-Robert_Antoine_Pinchon,_1898,_painting_Le_chemin,_oil_on_canvas,_22_x_32_cm.jpg, 1898, painting _Le chemin_, oil on canvas, 22 × 32 cm]] It was during the mid-19th century that the 'box easel', typically known as the 'French box easel' or 'field easel', was invented. It is uncertain who developed it, but these highly portable easels with telescopic legs and built-in paint box and palette made it easier to go into the forest and up the hillsides.[6] Still made today, they remain a popular choice (even for home use) since they fold up to the size of a brief case and thus are easy to store.[7]
+, 1898, painting _Le chemin_, oil on canvas, 22 × 32 cm]] It was during the mid-19th century that the 'box easel', typically known as the 'French box easel' or 'field easel', was invented. It is uncertain who developed it, but these highly portable easels with telescopic legs and built-in paint box and palette made it easier to go into the forest and up the hillsides.[6] Still made today, they remain a popular choice (even for home use) since they fold up to the size of a brief case and thus are easy to store.[7]
 
 The Pochade Box is a compact box that allows the artist to keep all their supplies and palette within the box and have the work on the inside of the lid. Some designs allow for a larger canvas which can be held by clamps built into the lid. There are designs which can also hold a few wet painting canvases or panels within the lid.[8] These boxes have a rising popularity as while they are mainly used for _plein air_ painting, can also be used in the studio, home, or classroom. Since pochade boxes are mainly used for painting on location, the canvas or work surface may be small, usually not more than 20 inches (50 cm).[9]
 

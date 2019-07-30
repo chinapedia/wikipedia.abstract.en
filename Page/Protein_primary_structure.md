@@ -74,8 +74,6 @@ Finally, the protein can undergo a variety of posttranslational modifications, w
 
 The N-terminal amino group of a polypeptide can be modified covalently, e.g.,
 
-N-terminal_acetylation.svg
-
 -   ACETYLATION  − C( = O) − CH₃
 
     The positive charge on the N-terminal amino group may be eliminated by changing it to an acetyl group (N-terminal blocking).
@@ -86,8 +84,6 @@ N-terminal_acetylation.svg
 
 -   PYROGLUTAMATE
 
-Formation_of_pyroglutamate.svg
-
     An N-terminal glutamine can attack itself, forming a cyclic pyroglutamate group.
 
 -   MYRISTOYLATION  − C( = O) − (CH₂)₁₂ − CH₃
@@ -95,8 +91,6 @@ Formation_of_pyroglutamate.svg
     Similar to acetylation. Instead of a simple methyl group, the myristoyl group has a tail of 14 hydrophobic carbons, which make it ideal for anchoring proteins to cellular membranes.
 
 The C-terminal carboxylate group of a polypeptide can also be modified, e.g.,
-
-C-terminal_amidation.svg
 
 -   AMIDATION (see Figure)
 

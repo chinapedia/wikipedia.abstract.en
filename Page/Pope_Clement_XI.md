@@ -28,7 +28,7 @@ Unusually, from the viewpoint of current practice, his election came within thre
 
 Actions
 
-Stained_glass_depiction_of_Pope_Clement_XI_at_the_Cathedral_of_Saint_Mother_Teresa_in_Prishtina.jpg in Prishtinë, Kosovo]] Soon after his accession to the pontificate, the War of the Spanish Succession broke out.
+in Prishtinë, Kosovo]] Soon after his accession to the pontificate, the War of the Spanish Succession broke out.
 
 In 1703 Pope Clement XI ordered a synod of Catholic bishops in northern Albania that discussed promotion of the Council of Trent decrees within Albanian dioceses, stemming conversions among locals to Islam and securing agreement to deny communion to crypto-Catholics who outwardly professed the Muslim faith.[9][10][11]
 
@@ -74,7 +74,7 @@ In his book "Journal of a Soul", while he was preparing for the Second Vatican C
 
 Construction activity and patronage
 
-Tomb_of_Pope_Clement_XI_requiem.jpg Pope Clement XI shunned nepotism and though his nephew Annibale was appointed a cardinal, it was only through personal merit.
+Pope Clement XI shunned nepotism and though his nephew Annibale was appointed a cardinal, it was only through personal merit.
 
 As a builder, Clement XI had a famous sundial added in the church of Santa Maria degli Angeli e dei Martiri and had an obelisk erected in the Piazza della Rotonda in front of the Pantheon, and a port built on the Tiber River, the beautiful porto di Ripetta, demolished at the end of the 19th century.
 

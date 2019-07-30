@@ -1,4 +1,4 @@
-Füller-tinte_hg.jpg]] קלף,_נוצה_ודיו.jpg INK is a liquid or paste that contains pigments or dyes and is used to color a surface to produce an image, text, or design. Ink is used for drawing or writing with a pen, brush, or quill. Thicker inks, in paste form, are used extensively in letterpress and lithographic printing.
+]] INK is a liquid or paste that contains pigments or dyes and is used to color a surface to produce an image, text, or design. Ink is used for drawing or writing with a pen, brush, or quill. Thicker inks, in paste form, are used extensively in letterpress and lithographic printing.
 
 Ink can be a complex medium, composed of solvents, pigments, dyes, resins, lubricants, solubilizers, surfactants, particulate matter, fluorescents, and other materials. The components of inks serve many purposes; the ink's carrier, colorants, and other additives affect the flow and thickness of the ink and its dry appearance.
 
@@ -7,13 +7,13 @@ In 2011 worldwide consumption of printing inks generated revenues of more than 2
 
 History
 
-Ganesha_ink.jpg under an umbrella (early 19th century). Ink, called _masi_, an admixture of several chemical components, has been used in India since at least the 4th century BC.[2] The practice of writing with ink and a sharp pointed needle was common in early South India.[3] Several Jain sutras in India were compiled in ink.[4]]] Many ancient cultures around the world have independently discovered and formulated inks for the purposes of writing and drawing. The knowledge of the inks, their recipes and the techniques for their production comes from archaeological analysis or from written text itself. The earliest inks from all civilisations are believed to have been made with _lampblack_, a kind of soot, as this would have been easily collected as a by-product of fire.[5]
+under an umbrella (early 19th century). Ink, called _masi_, an admixture of several chemical components, has been used in India since at least the 4th century BC.[2] The practice of writing with ink and a sharp pointed needle was common in early South India.[3] Several Jain sutras in India were compiled in ink.[4]]] Many ancient cultures around the world have independently discovered and formulated inks for the purposes of writing and drawing. The knowledge of the inks, their recipes and the techniques for their production comes from archaeological analysis or from written text itself. The earliest inks from all civilisations are believed to have been made with _lampblack_, a kind of soot, as this would have been easily collected as a by-product of fire.[5]
 
 Ink was used in Ancient Egypt for writing and drawing on papyrus from at least the 26th century BC.[6] Chinese inks may go back as far as three[7] or maybe four millennia,[8] to the Chinese Neolithic Period. These used plants, animal, and mineral inks based on such materials as graphite that were ground with water and applied with ink brushes. Direct evidence for the earliest Chinese inks, similar to modern inksticks, is around 256 BC in the end of the Warring States period and produced from soot and animal glue.[9] The best inks for drawing or painting on paper or silk are produced from the resin of the pine tree. They must be between 50 and 100 years old. The Chinese inkstick is produced with a fish glue, whereas Japanese glue (膠 "nikawa") is from cow or stag.[10]
 
 India ink was first invented in China,[11][12] though materials were often traded from India, hence the name.[13][14] The traditional Chinese method of making the ink was to grind a mixture of hide glue, carbon black, lampblack, and bone black pigment with a pestle and mortar, then pouring it into a ceramic dish where it could dry.[15] To use the dry mixture, a wet brush would be applied until it reliquified.[16] The manufacture of India ink was well-established by the Cao Wei Dynasty (220–265 AD).[17] Indian documents written in Kharosthi with ink have been unearthed in Chinese Turkestan.[18] The practice of writing with ink and a sharp pointed needle was common in early South India.[19] Several Buddhist and Jain sutras in India were compiled in ink.[20]
 
-In ancient Rome, atramentum was used; in an article for the _Christian Science Monitor_, Sharon J. Huntington describes these other historical inks: Oak_galls_and_iron(II)_sulfate_-_California_State_Archives.jpg
+In ancient Rome, atramentum was used; in an article for the _Christian Science Monitor_, Sharon J. Huntington describes these other historical inks:
 
   About 1,600 years ago, a popular ink recipe was created. The recipe was used for centuries. Iron salts, such as ferrous sulfate (made by treating iron with sulfuric acid), were mixed with tannin from gallnuts (they grow on trees) and a thickener. When first put to paper, this ink is bluish-black. Over time it fades to a dull brown.
 
@@ -26,7 +26,7 @@ In the 15th century, a new type of ink had to be developed in Europe for the pri
 
 Types
 
-Tintenstrich-detail_2.jpg.]]
+.]]
 
 Ink formulas vary, but commonly involve two components:
 
@@ -63,7 +63,7 @@ There is a misconception that ink is non-toxic even if swallowed. Once ingested,
 
 Three main environmental issues with ink are:
 
--   Heavy metals Eisengallustinte_selbstgemacht_schriftbild.jpg
+-   Heavy metals
 -   Non-renewable oils
 -   Volatile organic compounds
 
@@ -73,7 +73,7 @@ Ink uses up non-renewable oils and metals, which has a negative impact on the en
 
 Carbon
 
-Inkstick.jpg; carbon-based and made from soot and animal glue.]] Carbon inks were commonly made from lampblack or soot and a binding agent such as gum arabic or animal glue. The binding agent keeps carbon particles in suspension and adhered to paper. Carbon particles do not fade over time even when bleached or when in sunlight. One benefit is that carbon ink does not harm paper. Over time, the ink is chemically stable and therefore does not threaten the paper's strength. Despite these benefits, carbon ink is not ideal for permanence and ease of preservation. Carbon ink tends to smudge in humid environments and can be washed off surfaces. The best method of preserving a document written in carbon ink is to store it in a dry environment (Barrow 1972).
+; carbon-based and made from soot and animal glue.]] Carbon inks were commonly made from lampblack or soot and a binding agent such as gum arabic or animal glue. The binding agent keeps carbon particles in suspension and adhered to paper. Carbon particles do not fade over time even when bleached or when in sunlight. One benefit is that carbon ink does not harm paper. Over time, the ink is chemically stable and therefore does not threaten the paper's strength. Despite these benefits, carbon ink is not ideal for permanence and ease of preservation. Carbon ink tends to smudge in humid environments and can be washed off surfaces. The best method of preserving a document written in carbon ink is to store it in a dry environment (Barrow 1972).
 
 Recently, carbon inks made from carbon nanotubes have been successfully created. They are similar in composition to traditional inks in that they use a polymer to suspend the carbon nanotubes. These inks can be used in inkjet printers and produce electrically conductive patterns.[32]
 
@@ -88,7 +88,7 @@ Iron gall inks require storage in a stable environment, because fluctuating rela
 
 Indelible ink
 
-Un_électeur_avec_l'_encre_indélébile_au_pouce,_après_son_vote_dans_un_centre_dans_la_commune_de_la_Tshopo_à_Kisangani_(6418380139).jpg _Indelible_ means "unremovable". Some types of indelible ink have a very short shelf life because of the quickly evaporating solvents used. India, Mexico, Indonesia, Malaysia and other developing countries have used indelible ink in the form of electoral stain to prevent electoral fraud. The Indian Scientist Dr. M.L. Goel is the founding father of indelible ink in India and gave the secret formula to NPL (National Physical Laboratory) of India.
+_Indelible_ means "unremovable". Some types of indelible ink have a very short shelf life because of the quickly evaporating solvents used. India, Mexico, Indonesia, Malaysia and other developing countries have used indelible ink in the form of electoral stain to prevent electoral fraud. The Indian Scientist Dr. M.L. Goel is the founding father of indelible ink in India and gave the secret formula to NPL (National Physical Laboratory) of India.
 
 The Election Commission in India has used indelible ink for many elections. Indonesia used it in its last election in Aceh. In Mali, the ink is applied to the fingernail. Indelible ink itself is not infallible as it can be used to commit electoral fraud by marking opponent party members before they have chances to cast their votes. There are also reports of "indelible" ink washing off voters' fingers in Afghanistan.[34]
 

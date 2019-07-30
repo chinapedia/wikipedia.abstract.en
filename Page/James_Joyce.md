@@ -1,6 +1,6 @@
-Revolutionary_Joyce_Better_Contrast.jpg,
+,
 
-James_Joyce_signature.svg]]
+]]
 
 JAMES AUGUSTINE[1] ALOYSIUS JOYCE (2 February 1882 – 13 January 1941) was an Irish novelist, short story writer, poet, teacher, and literary critic. He contributed to the modernist avant-garde and is regarded as one of the most influential and important authors of the 20th century. Joyce is best known for _Ulysses_ (1922), a landmark work in which the episodes of Homer's _Odyssey_ are paralleled in a variety of literary styles, most famously stream of consciousness. Other well-known works are the short-story collection _Dubliners_ (1914), and the novels _A Portrait of the Artist as a Young Man_ (1916) and _Finnegans Wake_ (1939). His other writings include three books of poetry, a play, his published letters and occasional journalism.
 
@@ -11,11 +11,9 @@ In 1904, in his early twenties, Joyce emigrated to continental Europe with his p
 
 Early life
 
-James_Joyce_birth_and_baptismal_certificate.jpg On 2 February 1882, Joyce was born at 41 Brighton Square, Rathgar, Dublin, Ireland.[3] Joyce's father was John Stanislaus Joyce and his mother was Mary Jane "May" Murray. He was the eldest of ten surviving siblings; two died of typhoid. James was baptised according to the Rites of the Catholic Church in the nearby St Joseph's Church in Terenure on 5 February 1882 by Rev. John O'Mulloy. Joyce's godparents were Philip and Ellen McCann.
+On 2 February 1882, Joyce was born at 41 Brighton Square, Rathgar, Dublin, Ireland.[3] Joyce's father was John Stanislaus Joyce and his mother was Mary Jane "May" Murray. He was the eldest of ten surviving siblings; two died of typhoid. James was baptised according to the Rites of the Catholic Church in the nearby St Joseph's Church in Terenure on 5 February 1882 by Rev. John O'Mulloy. Joyce's godparents were Philip and Ellen McCann.
 
 John Stanislaus Joyce's family came from Fermoy in County Cork, and had owned a small salt and lime works. Joyce's paternal grandfather, James Augustine Joyce, married Ellen O'Connell, daughter of John O'Connell, a Cork Alderman who owned a drapery business and other properties in Cork City. Ellen's family claimed kinship with Daniel O'Connell, "The Liberator".[4] The Joyce family's purported ancestor, Seán Mór Seoighe (fl. 1680) was a stonemason from Connemara.[5]
-
-James_Joyce_age_six,_1888.jpg
 
 In 1887, his father was appointed rate collector by Dublin Corporation; the family subsequently moved to the fashionable adjacent small town of Bray, from Dublin. Around this time Joyce was attacked by a dog, leading to his lifelong cynophobia. He suffered from astraphobia; a superstitious aunt had described thunderstorms as a sign of God's wrath.[6]
 
@@ -26,7 +24,7 @@ Joyce had begun his education at Clongowes Wood College, a Jesuit boarding schoo
 
 Education
 
-James-Joyce-Stephens-Green.jpg, Dublin]]
+, Dublin]]
 
 Joyce enrolled at the recently established University College Dublin (UCD) in 1898, studying English, French and Italian. He became active in theatrical and literary circles in the city. In 1900 his laudatory review of Henrik Ibsen's _When We Dead Awaken_ was published in _The Fortnightly Review_; it was his first publication and, after learning basic Norwegian to send a fan letter to Ibsen, he received a letter of thanks from the dramatist. Joyce wrote a number of other articles and at least two plays (since lost) during this period. Many of the friends he made at University College Dublin appeared as characters in Joyce's works. His closest colleagues included leading figures of the generation, most notably, Tom Kettle, Francis Sheehy-Skeffington and Oliver St. John Gogarty. Joyce was first introduced to the Irish public by Arthur Griffith in his newspaper, _United Irishman_, in November 1901. Joyce had written an article on the Irish Literary Theatre and his college magazine refused to print it. Joyce had it printed and distributed locally. Griffith himself wrote a piece decrying the censorship of the student James Joyce.[12][13] In 1901, the National Census of Ireland lists James Joyce (19) as an English- and Irish-speaking scholar living with his mother and father, six sisters and three brothers at Royal Terrace (now Inverness Road), Clontarf, Dublin.[14]
 
@@ -43,7 +41,7 @@ Joyce remained in Dublin for some time longer, drinking heavily. After one of hi
 
 1904–20: Trieste and Zurich
 
-James_Joyce_by_Alex_Ehrenzweig,_1915_restored.jpg Joyce and Nora went into self-imposed exile, moving first to Zürich in Switzerland, where he ostensibly taught English at the Berlitz Language School through an agent in England. It later became evident that the agent had been swindled; the director of the school sent Joyce on to Trieste, which was then part of Austria-Hungary (until the First World War), and is today part of Italy. Once again, he found there was no position for him, but with the help of Almidano Artifoni, director of the Trieste Berlitz School, he finally secured a teaching position in Pola, then also part of Austria-Hungary (today part of Croatia). He stayed there, teaching English mainly to Austro-Hungarian naval officers stationed at the Pola base, from October 1904 until March 1905, when the Austrians—having discovered an espionage ring in the city—expelled all aliens. With Artifoni's help, he moved back to Trieste and began teaching English there. He remained in Trieste for most of the next ten years.[26][27]
+Joyce and Nora went into self-imposed exile, moving first to Zürich in Switzerland, where he ostensibly taught English at the Berlitz Language School through an agent in England. It later became evident that the agent had been swindled; the director of the school sent Joyce on to Trieste, which was then part of Austria-Hungary (until the First World War), and is today part of Italy. Once again, he found there was no position for him, but with the help of Almidano Artifoni, director of the Trieste Berlitz School, he finally secured a teaching position in Pola, then also part of Austria-Hungary (today part of Croatia). He stayed there, teaching English mainly to Austro-Hungarian naval officers stationed at the Pola base, from October 1904 until March 1905, when the Austrians—having discovered an espionage ring in the city—expelled all aliens. With Artifoni's help, he moved back to Trieste and began teaching English there. He remained in Trieste for most of the next ten years.[26][27]
 
 Later that year Nora gave birth to their first child, George (known as Giorgio). Joyce persuaded his brother, Stanislaus, to join him in Trieste, and secured a teaching position for him at the school. Joyce sought to augment his family's meagre income with his brother's earnings.[28] Stanislaus and Joyce had strained relations while they lived together in Trieste, arguing about Joyce's drinking habits and frivolity with money.[29]
 
@@ -63,7 +61,7 @@ During this period Joyce took an active interest in socialism.[37] He had attend
 
 1920–41: Paris and Zürich
 
-Jamesjoyce_tuohy-ohne.jpg.]]
+.]]
 
 Joyce set himself to finishing _Ulysses_ in Paris, delighted to find that he was gradually gaining fame as an avant-garde writer. A further grant from Harriet Shaw Weaver meant he could devote himself full-time to writing again, as well as consort with other literary figures in the city. During this time, Joyce's eyes began to give him more and more problems and he often wore an eyepatch. He was treated by Louis Borsch in Paris, undergoing nine operations before Borsch's death in 1929.[44] Throughout the 1930s he travelled frequently to Switzerland for eye surgeries and for treatments for his daughter Lucia, who, according to the Joyces, suffered from schizophrenia. Lucia was analysed by Carl Jung at the time, who after reading _Ulysses_ is said to have concluded that her father had schizophrenia.[45] Jung said that she and her father were two people heading to the bottom of a river, except that Joyce was diving and Lucia was sinking.[46][47][48]
 
@@ -86,7 +84,7 @@ Some critics and biographers have opined along the lines of Andrew Gibson: "The 
 
 Death
 
-Grave_James_Joyce.jpg]] On 11 January 1941, Joyce underwent surgery in Zürich for a perforated duodenal ulcer. He fell into a coma the following day. He awoke at 2 a.m. on 13 January 1941, and asked a nurse to call his wife and son, before losing consciousness again. They were en route when he died 15 minutes later. Joyce was less than a month short of his 59th birthday.[64]
+]] On 11 January 1941, Joyce underwent surgery in Zürich for a perforated duodenal ulcer. He fell into a coma the following day. He awoke at 2 a.m. on 13 January 1941, and asked a nurse to call his wife and son, before losing consciousness again. They were en route when he died 15 minutes later. Joyce was less than a month short of his 59th birthday.[64]
 
 His body was buried in the Fluntern Cemetery, Zürich. The Swiss tenor Max Meili sang _Addio terra, addio cielo_ from Monteverdi's _L'Orfeo_ at the burial service.[65] Although two senior Irish diplomats were in Switzerland at the time, neither attended Joyce's funeral, and the Irish government later declined Nora's offer to permit the repatriation of Joyce's remains. When Joseph Walshe secretary at the Department of External Affairs in Dublin was informed of Joyce's death by Frank Cremins, chargé d'affaires at Berne, Walshe responded "Please wire details of Joyce's death. If possible find out did he die a Catholic? Express sympathy with Mrs Joyce and explain inability to attend funeral".[66] Buried originally in an ordinary grave, Joyce was moved in 1966 to a more prominent "honour grave," with a seated portrait statue by American artist Milton Hebald nearby. Nora, whom he had married in 1931, survived him by 10 years. She is buried by his side, as is their son Giorgio, who died in 1976.[67]
 
@@ -95,7 +93,7 @@ Major works
 
 _Dubliners_
 
-Joyce_-_Dubliners,_1914_-_3690390_F.jpg'']] _Dubliners_ is a collection of fifteen short stories by Joyce, first published in 1914.[68] They form a naturalistic depiction of Irish middle class life in and around Dublin in the early years of the 20th century.
+'']] _Dubliners_ is a collection of fifteen short stories by Joyce, first published in 1914.[68] They form a naturalistic depiction of Irish middle class life in and around Dublin in the early years of the 20th century.
 
 The stories were written when Irish nationalism was at its peak and a search for a national identity and purpose was raging; at a crossroads of history and culture, Ireland was jolted by converging ideas and influences. The stories centre on Joyce's idea of an epiphany: a moment when a character experiences a life-changing self-understanding or illumination. Many of the characters in _Dubliners_ later appear in minor roles in Joyce's novel _Ulysses_.[69] The initial stories in the collection are narrated by child protagonists. Subsequent stories deal with the lives and concerns of progressively older people. This aligns with Joyce's tripartite division of the collection into childhood, adolescence and maturity.
 
@@ -111,7 +109,7 @@ Joyce published a number of books of poetry. His first mature published work was
 
 _Ulysses_
 
-Order_form_for_ulysses.jpg''.]] As he was completing work on _Dubliners_ in 1906, Joyce considered adding another story featuring a Jewish advertising canvasser called Leopold Bloom under the title _Ulysses_. Although he did not pursue the idea further at the time, he eventually commenced work on a novel using both the title and basic premise in 1914. The writing was completed in October 1921. Three more months were devoted to working on the proofs of the book before Joyce halted work shortly before his self-imposed deadline, his 40th birthday (2 February 1922).
+''.]] As he was completing work on _Dubliners_ in 1906, Joyce considered adding another story featuring a Jewish advertising canvasser called Leopold Bloom under the title _Ulysses_. Although he did not pursue the idea further at the time, he eventually commenced work on a novel using both the title and basic premise in 1914. The writing was completed in October 1921. Three more months were devoted to working on the proofs of the book before Joyce halted work shortly before his self-imposed deadline, his 40th birthday (2 February 1922).
 
 Thanks to Ezra Pound, serial publication of the novel in the magazine _The Little Review_ began in March 1918. This magazine was edited by Margaret C. Anderson and Jane Heap, with the intermittent financial backing of John Quinn, a successful New York commercial lawyer with an interest in contemporary experimental art and literature.
 
@@ -140,11 +138,11 @@ The view of history propounded in this text is very strongly influenced by Giamb
 
 Legacy
 
-Joyce_oconnell_dublin.jpg, Dublin.]]
+, Dublin.]]
 
 Joyce's work has been an important influence on writers and scholars such as Samuel Beckett,[89] Seán Ó Ríordáin,[90] Jorge Luis Borges,[91] Flann O'Brien,[92] Salman Rushdie,[93] Robert Anton Wilson,[94] John Updike,[95] David Lodge[96] and Joseph Campbell.[97] _Ulysses_ has been called "a demonstration and summation of the entire [Modernist] movement".[98] The Bulgarian-French literary theorist Julia Kristéva characterised Joyce's novel writing as "polyphonic" and a hallmark of postmodernity alongside the poets Mallarmé and Rimbaud.[99]
 
-James_Joyce's_bust_at_St_Stephen's_Green_in_Dublin,_Ireland..JPG in Dublin]] Some scholars, notably Vladimir Nabokov, have reservations, often championing some of his fiction while condemning other works. In Nabokov's opinion, _Ulysses_ was brilliant,[100] while _Finnegans Wake_ was horrible.[101]
+in Dublin]] Some scholars, notably Vladimir Nabokov, have reservations, often championing some of his fiction while condemning other works. In Nabokov's opinion, _Ulysses_ was brilliant,[100] while _Finnegans Wake_ was horrible.[101]
 
 Joyce's influence is also evident in fields other than literature. The sentence "Three quarks for Muster Mark!" in Joyce's _Finnegans Wake_[102] is the source of the word "quark", the name of one of the elementary particles proposed by the physicist Murray Gell-Mann in 1963.[103]
 

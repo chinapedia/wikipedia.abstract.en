@@ -81,8 +81,6 @@ In March 1999 members of a local FARC contingent killed 3 USA-based indigenous r
 
 1998–2002 peace process
 
-FARC_guerrillas_marching_during_the_Caguan_peace_talks_(1998-2002).jpg
-
 With the hope of negotiating a peace settlement, on 7 November 1998, President Andrés Pastrana granted FARC-EP a safe haven meant to serve as a confidence building measure, centred on the San Vicente del Caguán settlement.[93]
 
 After a series of high-profile guerrilla actions, including the hijacking of an aircraft, the attack on several small towns and cities, the arrest of the Irish Colombia Three (see below) and the alleged training of FARC-EP militants in bomb making by them, and the kidnapping of several political figures, Pastrana ended the peace talks on 21 February 2002 and ordered the armed forces to start retaking the FARC-EP controlled zone, beginning at midnight. A 48-hour respite that had been previously agreed to with the rebel group was not respected as the government argued that it had already been granted during an earlier crisis in January, when most of the more prominent FARC-EP commanders had apparently left the demilitarised zone.[94] Shortly after the end of talks, the FARC-EP kidnapped Oxygen Green Party presidential candidate Íngrid Betancourt, who was travelling in Colombian territory. Betancourt was rescued by the Colombian government on 2 July 2008 (see Operation Jaque below).
@@ -100,8 +98,6 @@ They were eventually found guilty of travelling on false passports in June 2004 
 Álvaro Uribe's Presidency (2002–2010)
 
 2002–2005 period
-
-FARC_commanders_during_the_Caguan_peace_talks_(1998-2002).jpg
 
 For most of the period between 2002 and 2005, the FARC-EP was in a strategic withdrawal due to the increasing military and police actions of new president Álvaro Uribe, which led to the capture or desertion of many fighters and medium-level commanders. Uribe ran for office on an anti-FARC-EP platform and was determined to defeat FARC-EP in a bid to create "confidence" in the country. Uribe's own father had been killed by FARC-EP in an attempted kidnapping in 1983.[101]
 
@@ -161,7 +157,7 @@ On 31 January 2008, the FARC–EP announced that they would release civilian hos
 
 Anti-FARC rallies
 
-Logo_web.jpg On 4 February 2008, several rallies were held in Colombia and in other locations around the world, criticising FARC–EP and demanding the liberation of hundreds of hostages. The protests were originally organised through the popular social networking site Facebook and were also supported by local Colombian media outlets as well as the Colombian government. Participation estimates vary from the hundreds of thousands to several millions of people in Colombia and thousands worldwide.[127][128][129][130][131]
+On 4 February 2008, several rallies were held in Colombia and in other locations around the world, criticising FARC–EP and demanding the liberation of hundreds of hostages. The protests were originally organised through the popular social networking site Facebook and were also supported by local Colombian media outlets as well as the Colombian government. Participation estimates vary from the hundreds of thousands to several millions of people in Colombia and thousands worldwide.[127][128][129][130][131]
 
 Kiraz Janicke of the leftist and chavista website Venezuelanalysis criticised the rallies, claiming that "right-wing paramilitary leaders featured prominently" in their organisation and arguing that workers were also pressured to attend the gatherings. According to her, the purpose of the protests was to promote "Uribe's policy of perpetuating Colombia's decades-long civil war."[132] Shortly before the rallies took place thirteen demobilised AUC paramilitary leaders, including Salvatore Mancuso, had expressed their support of the protest through a communique. However, this move was rejected by organiser Carlos Andrés Santiago, who stated that such an endorsement was harmful and criticised the AUC's actions.[133]
 
@@ -169,7 +165,7 @@ On 20 July 2008, a subsequent set of rallies against FARC included thousands of 
 
 Death of Raúl Reyes
 
-Raulreyesfarc.png]] On March 1, 2008, Raul Reyes, a member of FARC's ruling Secretariat, in the small village of Santa Rosa, Ecuador, was killed just across the border from Colombia, after Colombian planes bombarded a FARC camp there. The bombardment was "followed by troops in helicopters who recovered the bodies of Reyes and another 16 rebels." Reyes was the former FARC chief negotiator during the unsuccessful 1998–2002 peace process, and was also a key FARC hostage release negotiator. Reyes' demise marked the first time that a FARC Secretariat member had been killed in combat.[136]
+]] On March 1, 2008, Raul Reyes, a member of FARC's ruling Secretariat, in the small village of Santa Rosa, Ecuador, was killed just across the border from Colombia, after Colombian planes bombarded a FARC camp there. The bombardment was "followed by troops in helicopters who recovered the bodies of Reyes and another 16 rebels." Reyes was the former FARC chief negotiator during the unsuccessful 1998–2002 peace process, and was also a key FARC hostage release negotiator. Reyes' demise marked the first time that a FARC Secretariat member had been killed in combat.[136]
 
 This incident led to a breakdown in diplomatic relations between Ecuador and Colombia, and between Venezuela and Colombia.[137][138] Ecuador condemned the attack.[139][140] The incident also resulted in diplomatic strains between the United States and Ecuador, following revelations that the Central Intelligence Agency provided intelligence that allowed the Colombian military to locate the FARC–EP commander and ordnance used in the attack.[141][142][143]
 
@@ -331,7 +327,7 @@ The Special Jurisdiction for Peace (_Jurisdicción Especial para la Paz_, JEP) w
 
 FARC dissidents
 
-Operation_Armageddon_-_Peru.jpg during Operation Armageddon]]The FARC dissidents refers to a group formerly part of the Revolutionary Armed Forces of Colombia, who have refused to lay down their arms after the FARC-government peace treaty came into effect in 2016. The dissidents number some 1,200 armed combatants[253][254] with an unknown number of civilian militia supporting them. The FARC dissidents have become "an increasing headache" for the Colombian armed forces, as they have to fight them, the EPL, ELN and Clan del Golfo at the same time.[255] FARC dissidents are led by former mid-level commanders such as alias Gentil Duarte, alias Euclides Mora, alias John 40, alias Giovanny Chuspas y alias Julián Chollo. The FARC dissidents have been responsible for several attacks on the Colombian armed forces.[256][257][258] Dissidents of FARC’s 1st Front are located in the eastern plains of Colombia. John 40 and their dissident 43rd Front moved into the Amazonas state of western Venezuela. Venezuela has served as the primary location for many FARC dissidents.[259]
+during Operation Armageddon]]The FARC dissidents refers to a group formerly part of the Revolutionary Armed Forces of Colombia, who have refused to lay down their arms after the FARC-government peace treaty came into effect in 2016. The dissidents number some 1,200 armed combatants[253][254] with an unknown number of civilian militia supporting them. The FARC dissidents have become "an increasing headache" for the Colombian armed forces, as they have to fight them, the EPL, ELN and Clan del Golfo at the same time.[255] FARC dissidents are led by former mid-level commanders such as alias Gentil Duarte, alias Euclides Mora, alias John 40, alias Giovanny Chuspas y alias Julián Chollo. The FARC dissidents have been responsible for several attacks on the Colombian armed forces.[256][257][258] Dissidents of FARC’s 1st Front are located in the eastern plains of Colombia. John 40 and their dissident 43rd Front moved into the Amazonas state of western Venezuela. Venezuela has served as the primary location for many FARC dissidents.[259]
 
 On 15 July 2018, the Colombian and Peruvian governments launched a joint military effort known as Operation Armageddon to combat FARC dissidents. Peru issued a 60-day state of emergency in the Putumayo Province, an area bordering both Colombia and Ecuador. On the first day alone, more than 50 individuals were arrested in the operation, with the majority being Colombian nationals, while four cocaine labs were dismantled.[260]
 
@@ -439,7 +435,7 @@ FARC–EP was the largest and oldest insurgent group in the Americas. According 
 
 The largest concentrations of FARC–EP guerrillas were located in the southeastern parts of Colombia's of jungle and in the plains at the base of the Andean mountains.[359]
 
-FARC was organized hierarchically into military units as follows:[360][361] Alfonsocano.png, former FARC Commander-in-Chief, was killed by Colombian military forces on 4 November 2011.]]
+FARC was organized hierarchically into military units as follows:[360][361] , former FARC Commander-in-Chief, was killed by Colombian military forces on 4 November 2011.]]
 
 -   _Central High Command_ – composed of a five-member Secretariat (one of them being the Commander-in-Chief) and two "supplements". Coordinated the activities of the individual blocks, and determined overall strategy of FARC–EP.[362]
 -   _Estado Mayor Central_ – 25 members, who also coordinated the activities of blocks[363]

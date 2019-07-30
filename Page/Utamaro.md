@@ -1,4 +1,4 @@
-Ase_o_fuku_onna2.jpg, 1798]] Kitagawa_Utamaro_-_Takashima_Ohisa_Using_Two_Mirrors_to_Observe_Her_Coiffure_Night_of_the_Asakusa_Marketing_Festival_-_MFA_Boston_21.6410.jpg KITAGAWA UTAMARO (,[1] ;[2] ;  – 31 October 1806) was a Japanese artist. He is one of the most highly regarded designers of ukiyo-e woodblock prints and paintings, and is best known for his _bijin ōkubi-e_ "large-headed pictures of beautiful women" of the 1790s. He also produced nature studies, particularly illustrated books of insects.
+, 1798]] KITAGAWA UTAMARO (,[1] ;[2] ;  – 31 October 1806) was a Japanese artist. He is one of the most highly regarded designers of ukiyo-e woodblock prints and paintings, and is best known for his _bijin ōkubi-e_ "large-headed pictures of beautiful women" of the 1790s. He also produced nature studies, particularly illustrated books of insects.
 
 Little is known of Utamaro's life. His work began to appear in the 1770s, and he rose to prominence in the early 1790s with his portraits of beauties with exaggerated, elongated features. He produced over 2000 known prints and was one of the few ukiyo-e artists to achieve fame throughout Japan in his lifetime. In 1804 he was arrested and manacled for fifty days for making illegal prints depicting the 16th-century military ruler Toyotomi Hideyoshi, and died two years later.
 
@@ -14,9 +14,9 @@ In the mid-eighteenth century, full-colour __ prints became common. They were pr
 
 Biography
 
-Yamanba_and_kintaro_sakazuki.jpg with blackened teeth and Kintarō (Yamanba and Kintaro Sakazuki series)]]
+with blackened teeth and Kintarō (Yamanba and Kintaro Sakazuki series)]]
 
-KitagawaUtamaro_FlowersOfEdo.jpg'' c. 1800]]
+'' c. 1800]]
 
 Early life
 
@@ -70,8 +70,6 @@ Utamaro had a number of pupils, who took names such as Kikumaro (later Tsukimaro
 
 Analysis
 
-Kitagawa_One_Hundred_Stories_of_Demons_and_Spirits.jpg
-
 What little information about Utamaro's life that has been passed down is often contradictory, so analysis of his development as an artist relies chiefly on his work itself. Utamaro is known primarily for his _bijin-ga_ portraits of female beauties, though his work ranges from _kachō-e_ "flower-and-bird pictures" to landscapes to book illustrations.
 
 Utamaro's early _bijin-ga_ follow closely the example of Kiyonaga. In the 1790s his figures became more exaggerated, with thin bodies and long faces with small features. Utamaro experimented with line, colour, and printing techniques to bring out subtle differences in the features, expressions, and backdrops of subjects from a wide variety of class and background. Utamaro's individuated beauties were in sharp contrast to the stereotyped, idealized images that had been the norm.
@@ -89,7 +87,7 @@ Legacy
 
 Utamaro was recognized as a master in his own age. He appears to have achieved a national reputation at a time when even the most popular Edo ukiyo-e artists were little known outside the city. Due to his popularity Utamaro had many imitators, some of whom likely signed their work with his name; this is believed to include students of his and his successor, Utamaro II. On rare occasions Utamaro signed his work "the genuine Utamaro" to distinguish himself from these imitators. Forgeries and reprints of Utamaro's work are common; he produced a large body of work, but his earlier, more popular works are difficult to find in good condition.
 
-Mary_Cassatt_-_The_Coiffure_-_NGC_29882.jpg such as Mary Cassatt.
+such as Mary Cassatt.
 _The Coiffure_, drypoint and aquatint, ]]
 
 A wave of interest in Japanese art swept France from the mid-19th century, called _Japonisme_. Exhibitions in Paris of Japanese art began to be staged in the 1880s, include an Utamaro exhibition in 1888 by the German-French art dealer Siegfried Bing. The French Impressionists regarded Utamaro's work on a level akin with Hokusai and Hiroshige. French artist-collectors of Utamaro's work included Monet, Degas, Gauguin, and Toulouse-Lautrec
@@ -98,7 +96,7 @@ Utamaro had an influence on the compositional, colour, and sense of tranquility 
 
 In 2016 Utamaro's _Fukaku Shinobu Koi_ set the record price for an ukiyo-e print sold at auction at €.
 
-Kitagawa_Utamaro_(c._1793–94)_Fukaku_Shinobu_Koi.jpg'' () set an auction record of € in 2016.]]
+'' () set an auction record of € in 2016.]]
 
 
 Historiography

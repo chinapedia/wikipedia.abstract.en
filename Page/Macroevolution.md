@@ -21,7 +21,7 @@ Types of macroevolution
 
 There are many ways to view macroevolution, for example, by observing changes in the genetics, morphology, taxonomy, ecology, and behavior of organisms, though these are interrelated. Sahney et al. stated the connection as "As taxonomic diversity has increased, there have been incentives for tetrapods to move into new modes of life, where initially resources may seem unlimited, there are few competitors and possible refuge from danger. And as ecological diversity increases, taxa diversify from their ancestors at a much greater rate among faunas with more superior, innovative or more flexible adaptations."[14]
 
-Ambulocetus_nattans.jpgns like _Ambulocetus natans_ possessed hindlimbs, derived from their walking ancestors, but no longer useful in their marine environment.]]
+ns like _Ambulocetus natans_ possessed hindlimbs, derived from their walking ancestors, but no longer useful in their marine environment.]]
 
 Molecular evolution occurs through small changes in the molecular or cellular level. Over a long period of time, this can cause big effects on the genetics of organisms. Taxonomic evolution occurs through small changes between populations and then species. Over a long period of time, this can cause big effects on the taxonomy of organisms, with the growth of whole new clades above the species level. Morphological evolution occurs through small changes in the morphology of an organism. Over a long period of time, this can cause big effects on the morphology of major clades. This can be clearly seen in the Cetacea, where throughout the group's early evolution, hindlimbs were still present. However over millions of years the hindlimbs regressed and became internal.[15]
 

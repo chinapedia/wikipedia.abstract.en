@@ -1,5 +1,3 @@
-Don_Woods.jpg Jimbo_Lyon.jpg
-
 The COMPILER LANGUAGE WITH NO PRONOUNCEABLE ACRONYM, abbreviated INTERCAL, is an esoteric programming language that was created as a parody by Don Woods and James M. Lyon, two Princeton University students, in 1972. It satirizes aspects of the various programming languages at the time,[1] as well as the proliferation of proposed language constructs and notations in the 1960s.
 
 There are two currently maintained versions of INTERCAL: C-INTERCAL, maintained by Eric S. Raymond,[2] and CLC-INTERCAL, maintained by Claudio Calvelli.[3]
@@ -22,8 +20,6 @@ Despite the language's intentionally obtuse and wordy syntax, INTERCAL is nevert
 
 
 Documentation
-
-INTERCAL_Circuitous_Diagram.svg
 
 The INTERCAL Reference Manual contains many paradoxical, nonsensical, or otherwise humorous instructions:
 

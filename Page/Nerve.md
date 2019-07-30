@@ -7,8 +7,6 @@ In the central nervous system, the analogous structures are known as tracts.[1][
 
 Structure
 
-1319_Nerve_StructureN.jpg
-
 Each nerve is covered on the outside by a dense sheath of connective tissue, the epineurium. Beneath this is a layer of flat cells, the perineurium, which forms a complete sleeve around a bundle of axons. Perineurial septae extend into the nerve and subdivide it into several bundles of fibres. Surrounding each such fibre is the endoneurium. This forms an unbroken tube from the surface of the spinal cord to the level where the axon synapses with its muscle fibres, or ends in sensory receptors. The endoneurium consists of an inner sleeve of material called the glycocalyx and an outer, delicate, meshwork of collagen fibres.[3] Nerves are bundled and often travel along with blood vessels, since the neurons of a nerve have fairly high energy requirements.
 
 Within the endoneurium, the individual nerve fibres are surrounded by a low-protein liquid called endoneurial fluid. This acts in a similar way to the cerebrospinal fluid in the central nervous system and constitutes a _BLOOD-NERVE BARRIER_ similar to the blood-brain barrier.[4] Molecules are thereby prevented from crossing the blood into the endoneurial fluid. During the development of nerve edema from nerve irritation (or injury), the amount of endoneurial fluid may increase at the site of irritation. This increase in fluid can be visualized using magnetic resonance neurography, and thus MR neurography can identify nerve irritation and/or injury.
@@ -62,7 +60,7 @@ The autonomic nervous system is further subdivided into the sympathetic and the 
 
 Clinical significance
 
-Prostatic_adenocarcinoma_with_perineural_invasion.JPG demonstrating perineural invasion of prostate cancer. H&E stain.]] Cancer can spread by invading the spaces around nerves. This is particularly common in head and neck cancer, and prostate and colorectal cancer.
+demonstrating perineural invasion of prostate cancer. H&E stain.]] Cancer can spread by invading the spaces around nerves. This is particularly common in head and neck cancer, and prostate and colorectal cancer.
 
 Nerves can be damaged by physical injury as well conditions like carpal tunnel syndrome and repetitive strain injury. Autoimmune diseases such as Guillain–Barré syndrome, neurodegenerative diseases, polyneuropathy, infection, neuritis, diabetes, or failure of the blood vessels surrounding the nerve all cause nerve damage, which can vary in severity.
 

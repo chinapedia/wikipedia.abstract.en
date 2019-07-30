@@ -1,4 +1,4 @@
-Brown-headed_Paradise-Kingfisher.jpgs of New Guinea have unusually long tails for the group.]] Dacelo_novaeguineae_waterworks.jpg has a birdcall which sounds like laughter.]] Syma_torotoro.jpg often nests in arboreal termite nests.]] Ceyx_erithaca.JPG is considered a bad omen by warriors of the Dusun tribe of Borneo.]] Kingfisher_Kakadu.jpg
+s of New Guinea have unusually long tails for the group.]] has a birdcall which sounds like laughter.]] often nests in arboreal termite nests.]] is considered a bad omen by warriors of the Dusun tribe of Borneo.]]
 
 KINGFISHERS or ALCEDINIDAE are a family of small to medium-sized, brightly colored birds in the order Coraciiformes. They have a cosmopolitan distribution, with most species found in the tropical regions of Africa, Asia, and Oceania. The family contains 114 species and is divided into three subfamilies and 19 genera. All kingfishers have large heads, long, sharp, pointed bills, short legs, and stubby tails. Most species have bright plumage with only small differences between the sexes. Most species are tropical in distribution, and a slight majority are found only in forests. They consume a wide range of prey usually caught by swooping down from a perch. While kingfishers are usually thought to live near rivers and eat fish, many species live away from water and eat small invertebrates. Like other members of their order, they nest in cavities, usually tunnels dug into the natural or artificial banks in the ground. Some kingfishers nest in arboreal termite nests. A few species, principally insular forms, are threatened with extinction. In Britain, the word "kingfisher" normally refers to the common kingfisher.
 
@@ -51,7 +51,7 @@ The eggs of kingfishers are invariably white and glossy. The typical clutch size
 
 Status and conservation
 
-Actenoides_concretus.png is categorised as near-threatened due to the rapid loss of its rainforest habitat.]]
+is categorised as near-threatened due to the rapid loss of its rainforest habitat.]]
 
 A number of species are considered threatened by human activities and are in danger of extinction. The majority of these are forest species with limited distribution, particularly insular species. They are threatened by habitat loss caused by forest clearance or degradation and in some cases by introduced species. The Marquesan kingfisher of French Polynesia is listed as critically endangered due to a combination of habitat loss and degradation caused by introduced cattle, and possibly due to predation by introduced species.[21]
 

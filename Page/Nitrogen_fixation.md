@@ -9,12 +9,12 @@ All biological nitrogen fixation is effected by enzymes called nitrogenases.[6] 
 
 Non-biological natural nitrogen fixation
 
-Lightning_Pritzerbe_01_(MK).jpg Nitrogen can be fixed by lightning converting nitrogen and oxygen into (nitrogen oxides). may react with water to make nitrous acid or nitric acid, which seeps into the soil, where it makes nitrate, which is of use to growing plants. Nitrogen in the atmosphere is highly stable and nonreactive due to there being a triple bond between atoms in the N₂ molecule.[7] Lightning produces enough energy and heat to break this bond[8] allowing the nitrogen atoms to react with oxygen forming NO_(x). This itself cannot be used by plants, but as this molecule cools it reacts with more oxygen to form NO₂.[9] This molecule in turn reacts with water to produce HNO₃ (nitric acid), or its ion NO₃⁻ (nitrate), which is usable by plants.[10][11]
+Nitrogen can be fixed by lightning converting nitrogen and oxygen into (nitrogen oxides). may react with water to make nitrous acid or nitric acid, which seeps into the soil, where it makes nitrate, which is of use to growing plants. Nitrogen in the atmosphere is highly stable and nonreactive due to there being a triple bond between atoms in the N₂ molecule.[7] Lightning produces enough energy and heat to break this bond[8] allowing the nitrogen atoms to react with oxygen forming NO_(x). This itself cannot be used by plants, but as this molecule cools it reacts with more oxygen to form NO₂.[9] This molecule in turn reacts with water to produce HNO₃ (nitric acid), or its ion NO₃⁻ (nitrate), which is usable by plants.[10][11]
 
 
 Biological nitrogen fixation
 
-Nitrogen_Cycle.svg. Abiotic nitrogen fixation has been omitted.]] Biological nitrogen fixation was discovered by the German agronomist Hermann Hellriegel[12] and Dutch microbiologist Martinus Beijerinck.[13] Biological nitrogen fixation (BNF) occurs when atmospheric nitrogen is converted to ammonia by an enzyme called a nitrogenase.[14] The overall reaction for BNF is:
+. Abiotic nitrogen fixation has been omitted.]] Biological nitrogen fixation was discovered by the German agronomist Hermann Hellriegel[12] and Dutch microbiologist Martinus Beijerinck.[13] Biological nitrogen fixation (BNF) occurs when atmospheric nitrogen is converted to ammonia by an enzyme called a nitrogenase.[14] The overall reaction for BNF is:
 
 N₂ + 16ATP + 8E- + 8H+ -> 2NH3 + H2 + 16ADP + 16P_(i)
 
@@ -41,8 +41,6 @@ The efficiency of nitrogen fixation in soil is dependent on many factors, includ
 Inga alley farming relies on the leguminous genus _Inga_, a small tropical, tough-leaved, nitrogen-fixing tree.[29]
 
 Non-leguminous
-
-A_sectioned_alder_root_nodule_gall.JPG
 
 Although by far the majority of plant species able to form nitrogen-fixing root nodules are in the legume family Fabaceae, there are exceptions:
 
@@ -90,7 +88,7 @@ Prior to 1900, Nikola Tesla also experimented with the industrial fixation of ni
 
 Haber process
 
-THC_2003.902.022_D._C._Bardwell_Study_of_Nitrogen_Fixation.tifs (Fixed Nitrogen Research Laboratory, 1926)]] Artificial fertilizer production is now the largest source of human-produced fixed nitrogen in the Earth's ecosystem. Ammonia is a required precursor to fertilizers, explosives, and other products. The most common method is the Haber process. The Haber process requires high pressures (around 200 atm) and high temperatures (at least 400 °C), routine conditions for industrial catalysis. This highly efficient process uses natural gas as a hydrogen source and air as a nitrogen source.[39]
+s (Fixed Nitrogen Research Laboratory, 1926)]] Artificial fertilizer production is now the largest source of human-produced fixed nitrogen in the Earth's ecosystem. Ammonia is a required precursor to fertilizers, explosives, and other products. The most common method is the Haber process. The Haber process requires high pressures (around 200 atm) and high temperatures (at least 400 °C), routine conditions for industrial catalysis. This highly efficient process uses natural gas as a hydrogen source and air as a nitrogen source.[39]
 
 Much research has been conducted on the discovery of catalysts for nitrogen fixation, often with the goal of reducing the energy required for this conversion. However, such research has thus far failed to even approach the efficiency and ease of the Haber process. Many compounds react with atmospheric nitrogen to give dinitrogen complexes. The first dinitrogen complex to be reported was Ru(NH₃)₅(N₂)²⁺.[40]
 
@@ -104,11 +102,11 @@ Beginning in the 1960s several homogeneous systems were identified that convert 
 
   "Vol'pin and co-workers, using a non-protic Lewis acid, aluminium tribromide, were able to demonstrate the truly catalytic effect of titanium by treating dinitrogen with a mixture of titanium tetrachloride, metallic aluminium, and aluminium tribromide at 50 °C, either in the absence or in the presence of a solvent, e.g. benzene. As much as 200 mol of ammonia per mol of TiCl₄ was obtained after hydrolysis.…"[43]
 
-Synthetic nitrogen reduction[44] The quest for well defined intermediates led to the characterization of many transition metal dinitrogen complexes. Few of these well-defined complexes function catalytically, their behavior illuminated likely stages in nitrogen fixation. Fruitful early studies focused on M(N₂)₂(dppe)₂ (M = Mo, W), which protonates to give intermediates with ligand M=N−NH₂. In 1995, a molybdenum(III) amido complex was discovered that cleaved N₂ to give the corresponding molybdenum(VI) nitride.[45] This and related terminal nitrido complexes have been used to make nitriles.[46]
+The quest for well defined intermediates led to the characterization of many transition metal dinitrogen complexes. Few of these well-defined complexes function catalytically, their behavior illuminated likely stages in nitrogen fixation. Fruitful early studies focused on M(N₂)₂(dppe)₂ (M = Mo, W), which protonates to give intermediates with ligand M=N−NH₂. In 1995, a molybdenum(III) amido complex was discovered that cleaved N₂ to give the corresponding molybdenum(VI) nitride.[44] This and related terminal nitrido complexes have been used to make nitriles.[45]
 
-In 2003 a molybdenum amido complex was found to catalyze the reduction of N₂, albeit with few turnovers.[47][48][49][50] In these systems, like the biological one, hydrogen is provided to the substrate heterolytically, by means of protons and a strong reducing agent rather than with H₂ itself.
+In 2003 a molybdenum amido complex was found to catalyze the reduction of N₂, albeit with few turnovers.[46][47][48][49] In these systems, like the biological one, hydrogen is provided to the substrate heterolytically, by means of protons and a strong reducing agent rather than with H₂ itself.
 
-In 2011, yet another molybdenum-based system was discovered, but with a diphosphorus pincer ligand.[51] Photolytic nitrogen splitting is also considered.[52][53][54][55][56] Boron_dinitrogen_activation.png Nitrogen fixation at a p-block element was published in 2018 whereby one molecule of dinitrogen is bound by two transient Lewis-base-stabilized borylene species.[57] The resulting dianion was subsequently oxidized to a neutral compound, and reduced using water.
+In 2011, yet another molybdenum-based system was discovered, but with a diphosphorus pincer ligand.[50] Photolytic nitrogen splitting is also considered.[51][52][53][54][55] Nitrogen fixation at a p-block element was published in 2018 whereby one molecule of dinitrogen is bound by two transient Lewis-base-stabilized borylene species.[56] The resulting dianion was subsequently oxidized to a neutral compound, and reduced using water.
 
 Photochemical and Electrochemical Nitrogen Reduction
 
@@ -235,11 +233,11 @@ Category:Nitrogen cycle Category:Metabolism Category:Plant physiology Category:S
 
 [47]
 
-[48]
+[48] The catalyst is derived from molybdenum(V) chloride and tris(2-aminoethyl)amine _N_-substituted with three very bulky hexa-isopropylterphenyl (HIPT) groups. Nitrogen adds end-on to the molybdenum atom, and the bulky HIPT substituents prevent the formation of the stable and nonreactive Mo−N=N−Mo dimer. In this isolated pocket is the Mo−N₂. The proton donor is a pyridinium salt of weakly coordinating counter anion. The reducing agent is decamethylchromocene. All ammonia formed is collected as the HCl salt by trapping the distillate with a HCl solution.
 
-[49] The catalyst is derived from molybdenum(V) chloride and tris(2-aminoethyl)amine _N_-substituted with three very bulky hexa-isopropylterphenyl (HIPT) groups. Nitrogen adds end-on to the molybdenum atom, and the bulky HIPT substituents prevent the formation of the stable and nonreactive Mo−N=N−Mo dimer. In this isolated pocket is the Mo−N₂. The proton donor is a pyridinium salt of weakly coordinating counter anion. The reducing agent is decamethylchromocene. All ammonia formed is collected as the HCl salt by trapping the distillate with a HCl solution.
+[49] Note also that, although the dinitrogen complex is shown in brackets, this species can be isolated and characterized. Here the brackets do not indicate that the intermediate is not observed.
 
-[50] Note also that, although the dinitrogen complex is shown in brackets, this species can be isolated and characterized. Here the brackets do not indicate that the intermediate is not observed.
+[50]
 
 [51]
 
@@ -252,5 +250,3 @@ Category:Nitrogen cycle Category:Metabolism Category:Plant physiology Category:S
 [55]
 
 [56]
-
-[57]

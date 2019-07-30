@@ -20,7 +20,7 @@ In Japanese, "manga" refers to all kinds of cartooning, comics, and animation. A
 
 History and characteristics
 
-Sazae-san_kamishibai.jpg'' story teller from _Sazae-san_ by Machiko Hasegawa. Sazae appears with her hair in a bun.]]
+'' story teller from _Sazae-san_ by Machiko Hasegawa. Sazae appears with her hair in a bun.]]
 
 The history of manga is said to originate from scrolls dating back to the 12th century, and it is believed they represent the basis for the right-to-left reading style. During the Edo period (1603–1867), _Toba Ehon_ embedded the concept of manga.[31] The word itself first came into common usage in 1798,[32] with the publication of works such as Santō Kyōden's picturebook _Shiji no yukikai_ (1798),[33][34] and in the early 19th century with such works as Aikawa Minwa's _Manga hyakujo_ (1814) and the _Hokusai Manga_ books (1814–1834).[35][36] Adam L. Kern has suggested that _kibyoshi_, picture books from the late 18th century, may have been the world's first comic books. These graphical narratives share with modern manga humorous, satirical, and romantic themes.[37] Some works were mass-produced as serials using woodblock printing.[38]
 
@@ -28,7 +28,7 @@ Writers on manga history have described two broad and complementary processes sh
 
 Regardless of its source, an explosion of artistic creativity occurred in the post-war period,[41] involving manga artists such as Osamu Tezuka (_Astro Boy_) and Machiko Hasegawa (_Sazae-san_). _Astro Boy_ quickly became (and remains) immensely popular in Japan and elsewhere,[42] and the anime adaptation of _Sazae-san_ drawing more viewers than any other anime on Japanese television in 2011.[43] Tezuka and Hasegawa both made stylistic innovations. In Tezuka's "cinematographic" technique, the panels are like a motion picture that reveals details of action bordering on slow motion as well as rapid zooms from distance to close-up shots. This kind of visual dynamism was widely adopted by later manga artists.[44] Hasegawa's focus on daily life and on women's experience also came to characterize later _shōjo manga_.[45] Between 1950 and 1969, an increasingly large readership for manga emerged in Japan with the solidification of its two main marketing genres, _shōnen manga_ aimed at boys and _shōjo manga_ aimed at girls.[46]
 
-Figure_in_Manga_style.png In 1969 a group of female manga artists (later called the _Year 24 Group_, also known as _Magnificent 24s_) made their _shōjo_ manga debut ("year 24" comes from the Japanese name for the year 1949, the birth-year of many of these artists).[47] The group included Moto Hagio, Riyoko Ikeda, Yumiko Ōshima, Keiko Takemiya, and Ryoko Yamagishi.[48] Thereafter, primarily female manga artists would draw _shōjo_ for a readership of girls and young women.[49] In the following decades (1975–present), _shōjo_ manga continued to develop stylistically while simultaneously evolving different but overlapping subgenres.[50] Major subgenres include romance, superheroines, and "Ladies Comics" (in Japanese, _redisu_ , _redikomi_ , and _josei_ ).[51]
+In 1969 a group of female manga artists (later called the _Year 24 Group_, also known as _Magnificent 24s_) made their _shōjo_ manga debut ("year 24" comes from the Japanese name for the year 1949, the birth-year of many of these artists).[47] The group included Moto Hagio, Riyoko Ikeda, Yumiko Ōshima, Keiko Takemiya, and Ryoko Yamagishi.[48] Thereafter, primarily female manga artists would draw _shōjo_ for a readership of girls and young women.[49] In the following decades (1975–present), _shōjo_ manga continued to develop stylistically while simultaneously evolving different but overlapping subgenres.[50] Major subgenres include romance, superheroines, and "Ladies Comics" (in Japanese, _redisu_ , _redikomi_ , and _josei_ ).[51]
 
 Modern _shōjo_ manga romance features love as a major theme set into emotionally intense narratives of self-realization.[52] With the superheroines, _shōjo_ manga saw releases such as Pink Hanamori's _Mermaid Melody Pichi Pichi Pitch_ Reiko Yoshida's _Tokyo Mew Mew_, And, Naoko Takeuchi's _Pretty Soldier Sailor Moon_, which became internationally popular in both manga and anime formats.[53] Groups (or _sentais_) of girls working together have also been popular within this genre. Like Lucia, Hanon, and Rina singing together, and Sailor Moon, Sailor Mercury, Sailor Mars, Sailor Jupiter, and Sailor Venus working together.[54]
 
@@ -45,7 +45,7 @@ The _gekiga_ style of storytelling—thematically somber, adult-oriented, and so
 
 Publications and exhibition
 
-Delegates_of_3rd_Asian_Cartoon_Exhibition.JPG[68]]] MangaStoreJapan.jpg
+[68]]]
 
 In Japan, manga constituted an annual 40.6 billion yen (approximately $395 million USD) publication-industry by 2007.[69] In 2006 sales of manga books made up for about 27% of total book-sales, and sale of manga magazines, for 20% of total magazine-sales.[70] The manga industry has expanded worldwide, where distribution companies license and reprint manga into their native languages.
 
@@ -54,8 +54,6 @@ Marketeers primarily classify manga by the age and gender of the target readersh
 The Kyoto International Manga Museum maintains a very large website listing manga published in Japanese.[72]
 
 Magazines
-
-Eshibun_Nipponchi.jpg
 
 Manga magazines usually have many series running concurrently with approximately 20–40 pages allocated to each series per issue. Other magazines such as the anime fandom magazine _Newtype_ featured single chapters within their monthly periodicals. Other magazines like _Nakayoshi_ feature many stories written by many different artists; these magazines, or "anthology magazines", as they are also known (colloquially "phone books"), are usually printed on low-quality newsprint and can be anywhere from 200 to more than 850 pages thick. Manga magazines also contain one-shot comics and various four-panel _yonkoma_ (equivalent to comic strips). Manga series can run for many years if they are successful. Manga artists sometimes start out with a few "one-shot" manga projects just to try to get their name out. If these are successful and receive good reviews, they are continued. Magazines often have a short life.[73]
 
@@ -97,8 +95,6 @@ International markets
 
 By 2007, the influence of manga on international comics had grown considerably over the past two decades.[96] "Influence" is used here to refer to effects on the comics markets outside Japan and to aesthetic effects on comics artists internationally.
 
-Manga_reading_direction.svg
-
 Traditionally, manga stories flow from top to bottom and from right to left. Some publishers of translated manga keep to this original format. Other publishers mirror the pages horizontally before printing the translation, changing the reading direction to a more "Western" left to right, so as not to confuse foreign readers or traditional comics-consumers. This practice is known as "flipping".[97] For the most part, criticism suggests that flipping goes against the original intentions of the creator (for example, if a person wears a shirt that reads "MAY" on it, and gets flipped, then the word is altered to "YAM"), who may be ignorant of how awkward it is to read comics when the eyes must flow through the pages and text in opposite directions, resulting in an experience that's quite distinct from reading something that flows homogeneously. If the translation is not adapted to the flipped artwork carefully enough it is also possible for the text to go against the picture, such as a person referring to something on their left in the text while pointing to their right in the graphic. Characters shown writing with their right hands, the majority of them, would become left-handed when a series is flipped. Flipping may also cause oddities with familiar asymmetrical objects or layouts, such as a car being depicted with the gas pedal on the left and the brake on the right, or a shirt with the buttons on the wrong side, but these issues are minor when compared to the unnatural reading flow, and some of them could be solved with an adaptation work that goes beyond just translation and blind flipping.[98]
 
 Europe
@@ -113,7 +109,7 @@ Manga made their way only gradually into U.S. markets, first in association with
 
 In the 1980s to the mid-1990s, Japanese animation, like _Akira_, _Dragon Ball_, _Neon Genesis Evangelion_, and _Pokémon_, made a bigger impact on the fan experience and in the market than manga.[115] Matters changed when translator-entrepreneur Toren Smith founded Studio Proteus in 1986. Smith and Studio Proteus acted as an agent and translator of many Japanese manga, including Masamune Shirow's _Appleseed_ and Kōsuke Fujishima's _Oh My Goddess!_, for Dark Horse and Eros Comix, eliminating the need for these publishers to seek their own contacts in Japan.[116] Simultaneously, the Japanese publisher Shogakukan opened a U.S. market initiative with their U.S. subsidiary Viz, enabling Viz to draw directly on Shogakukan's catalogue and translation skills.[117]
 
-Young_boy_reading_manga.jpg'']]
+'']]
 
 Japanese publishers began pursuing a U.S. market in the mid-1990s due to a stagnation in the domestic market for manga.[118] The U.S. manga market took an upturn with mid-1990s anime and manga versions of Masamune Shirow's _Ghost in the Shell_ (translated by Frederik L. Schodt and Toren Smith) becoming very popular among fans.[119] An extremely successful manga and anime translated and dubbed in English in the mid-1990s was _Sailor Moon_.[120] By 1995–1998, the _Sailor Moon_ manga had been exported to over 23 countries, including China, Brazil, Mexico, Australia, North America and most of Europe.[121] In 1997, Mixx Entertainment began publishing _Sailor Moon_, along with CLAMP's _Magic Knight Rayearth_, Hitoshi Iwaaki's _Parasyte_ and Tsutomu Takahashi's _Ice Blade_ in the monthly manga magazine _MixxZine_. Two years later, _MixxZine_ was renamed to _Tokyopop_ before discontinuing in 2011. Mixx Entertainment, later renamed Tokyopop, also published manga in trade paperbacks and, like Viz, began aggressive marketing of manga to both young male and young female demographics.[122]
 

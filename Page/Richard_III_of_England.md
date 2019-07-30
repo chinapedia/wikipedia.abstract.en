@@ -13,7 +13,7 @@ Richard was born on 2 October 1452 at Fotheringhay Castle in Northamptonshire, t
 
 When his father and elder brother Edmund, Earl of Rutland, were killed at the Battle of Wakefield on 30 December 1460, Richard and George were sent by their mother to the Low Countries. They returned to England following the defeat of the Lancastrians at the Battle of Towton. They participated in the coronation of Richard's eldest brother as King Edward IV on 28 June 1461, when Richard was named Duke of Gloucester and made both a Knight of the Garter and a Knight of the Bath. Edward appointed him the sole Commissioner of Array for the Western Counties in 1464, when he was 11. By the age of 17, he had an independent command.
 
-MiddlehamCJW.jpg in Wensleydale where Richard was raised]]
+in Wensleydale where Richard was raised]]
 
 Richard spent several years during his childhood at Middleham Castle in Wensleydale, Yorkshire, under the tutelage of his cousin the Earl of Warwick, later known as the Kingmaker because of his role in the Wars of the Roses. Warwick supervised Richard's training as a knight: in the autumn of 1465 Edward IV granted Warwick £1000 for the expenses of his younger brother's tutelage. With some interruptions, Richard stayed at Middleham either from late 1461 until early 1465, when he was 12 or from 1465 until his coming of age in 1468, when he turned 16. While at Warwick's estate, it is likely that he met both Francis Lovell, who would be his firm supporter later in his life, and Warwick's younger daughter, his future wife Anne Neville.
 
@@ -26,7 +26,7 @@ During his adolescence, and due to a cause that is unknown, Richard developed a 
 
 Marriage and family relationships
 
-Rous_Roll_-_Richard_and_family.jpg, 1483) of Richard III, his queen Anne Neville, whom he married in 1472, and their son Edward the Prince of Wales]]
+, 1483) of Richard III, his queen Anne Neville, whom he married in 1472, and their son Edward the Prince of Wales]]
 
 Following a decisive Yorkist victory over the Lancastrians at the Battle of Tewkesbury, Richard married Anne Neville, the younger daughter of the Earl of Warwick, on 12 July 1472.[4] By the end of 1470 Anne had previously been wedded to Edward of Westminster, only son of Henry VI, to seal her father's allegiance to the Lancastrian party. Edward died at the Battle of Tewkesbury on 4 May 1471, while Warwick had died at the Battle of Barnet on 14 April 1471. Richard's marriage plans brought him into conflict with his brother George. John Paston's letter of 17 February 1472 makes it clear that George was not happy about the marriage but grudgingly accepted it on the basis that "he may well have my Lady his sister-in-law, but they shall part no livelihood". The reason was the inheritance Anne shared with her elder sister Isabel, whom George had married in 1469. It was not only the earldom that was at stake; Richard Neville had inherited it as a result of his marriage to Anne Beauchamp, who was still alive (and outlived both her daughters) and was technically the owner of the substantial Beauchamp estates, her own father having left no male heirs.
 
@@ -34,7 +34,7 @@ The Croyland Chronicle records that Richard agreed to a prenuptial contract in t
 
 The date of Paston's letter suggests the marriage was still being negotiated in February 1472. In order to win his brother George's final consent to the marriage, Richard renounced most of Warwick's land and property including the earldoms of Warwick (which the Kingmaker had held in his wife's right) and Salisbury and surrendered to Clarence the office of Great Chamberlain of England. Richard retained Neville's forfeit estates he had already been granted in the summer of 1471:[5] Penrith, Sheriff Hutton and Middleham, where he later established his marital household.
 
-King_Richard_III_and_Queen_Anne.jpg depiction of Richard and Anne Neville in Cardiff Castle]]
+depiction of Richard and Anne Neville in Cardiff Castle]]
 
 The requisite Papal dispensation was obtained dated 22 April 1472. Michael Hicks has suggested that the terms of the dispensation deliberately understated the degrees of consanguinity between the couple, and the marriage was therefore illegal on the ground of first degree consanguinity following George's marriage to Anne's sister Isabel. First degree consanguinity applied in the case of Henry VIII and his brother's widow Catherine of Aragon. In their case the papal dispensation was obtained after Catherine declared the first marriage had not been consummated. In Richard's case, there would have been first degree consanguinity if Richard had sought to marry Isabel (in case of widowhood) after she had married his brother George, but no such consanguinity applied for Anne and Richard. Richard's marriage to Anne was never declared null, and it was public to everyone including secular and canon lawyers for 13 years.
 
@@ -72,9 +72,7 @@ Richard's increasing role in the north from the mid-1470s to some extent explain
 
 King of England
 
-Silver_groat_of_Richard_III_(YORYM_1980_846)_obverse.jpg
-
-Rous_Roll_Richard_III_detail.jpeg (1483) showing Richard with a sword in his right hand, an orb and cross in his left, a white boar (his heraldic badge) at his feet, framed by the crests and helms of England, Ireland, Wales, Gascony-Guyenne, France and St Edward.]]
+(1483) showing Richard with a sword in his right hand, an orb and cross in his left, a white boar (his heraldic badge) at his feet, framed by the crests and helms of England, Ireland, Wales, Gascony-Guyenne, France and St Edward.]]
 
 On the death of Edward IV on 9 April 1483, his 12-year-old son, Edward V, succeeded him. Richard was named Lord Protector of the Realm and at William Hastings' urging, Richard assumed his role and left his base in Yorkshire for London. On 29 April, as previously agreed, Richard and his cousin, the Duke of Buckingham, met Queen Elizabeth's brother, Anthony Woodville, 2nd Earl Rivers, at Northampton. At the queen's request, Earl Rivers was escorting the young king to London with an armed escort of 2000 men, while Richard and Buckingham's joint escort was 600 men.
 
@@ -104,11 +102,11 @@ Richard made overtures to Landais, offering military support for Landais's weak 
 
 Death at the Battle of Bosworth Field
 
-Memorial_to_King_Richard_III_of_England_in_Leicester_Cathedral.jpg to Richard III in the choir of Leicester Cathedral, since replaced by his stone tomb (as illustrated further below)]]
+to Richard III in the choir of Leicester Cathedral, since replaced by his stone tomb (as illustrated further below)]]
 
 On 22 August 1485, Richard met the outnumbered forces of Henry Tudor at the Battle of Bosworth Field. Richard rode a white courser. The size of Richard's army has been estimated at 8,000 and Henry's at 5,000, but exact numbers are not known. All that can be said is that the Royal army 'substantially' outnumbered Tudor's. The traditional view of the king's famous cries of "Treason!" before falling was that during the battle Richard was abandoned by Lord Stanley (made Earl of Derby in October), Sir William Stanley, and Henry Percy, 4th Earl of Northumberland. However, the role of Northumberland is unclear; his position was with the reserve—behind the king's line—and he could not easily have moved forward without a general royal advance, which did not take place. Indeed, the physical confines behind the crest of Ambion Hill, combined with a difficulty of communications, probably physically hampered any attempt he made to join the fray. Despite appearing "a pillar of the Ricardian regime", and his previous loyalty to Edward IV,[9] Lord Stanley's wife, Lady Margaret Beaufort, was Henry Tudor's mother, and Stanley's inaction, combined with his brother's entering the battle on Tudor's behalf was fundamental to Richard's defeat. The death of John Howard, Duke of Norfolk, his close companion, may have had a demoralising effect on Richard and his men. Either way, Richard led a cavalry charge deep into the enemy ranks in an attempt to end the battle quickly by striking at Henry Tudor himself.
 
-The_death_of_Richard_III_at_Bosworth.jpg]]
+]]
 
 Accounts note that King Richard fought bravely and ably during this manoeuvre, unhorsing Sir John Cheyne, a well-known jousting champion, killing Henry's standard bearer Sir William Brandon and coming within a sword's length of Henry Tudor before being surrounded by Sir William Stanley's men and killed. The Burgundian chronicler Jean Molinet says that a Welshman struck the death-blow with a halberd while Richard's horse was stuck in the marshy ground. It was said that the blows were so violent that the king's helmet was driven into his skull. The contemporary Welsh poet Guto'r Glyn implies a leading Welsh Lancastrian Rhys ap Thomas, or one of his men, killed the king, writing that he "killed the boar, shaved his head".[10] The identification in 2013 of King Richard's body shows that the skeleton had 11 wounds, eight of them to the skull, clearly inflicted in battle and suggesting he had lost his helmet.[11] Professor Guy Rutty, from the University of Leicester, said: "The most likely injuries to have caused the king's death are the two to the inferior aspect of the skull—a large sharp force trauma possibly from a sword or staff weapon, such as a halberd or bill, and a penetrating injury from the tip of an edged weapon."[12] The skull showed that a blade had hacked away part of the rear of the skull. Richard III was the last English king to be killed in battle.[13]
 
@@ -140,8 +138,6 @@ Richard's death at Bosworth resulted in the end of the Plantagenet dynasty, whic
 
 Reputation
 
-King_Richard_III.jpg
-
 There are numerous contemporary, or near-contemporary, sources of information about the reign of Richard III.[22] These include the _Croyland Chronicle_, Commines' _Mémoires_, the report of Dominic Mancini, the Paston Letters, the Chronicles of Robert Fabyan and numerous court and official records, including a few letters by Richard himself. However, the debate about Richard's true character and motives continues, both because of the subjectivity of many of the written sources, reflecting the generally partisan nature of writers of this period, and because of the fact that none was written by men with an intimate knowledge of Richard, even if they had met him in person.
 
 During Richard's reign, the historian John Rous praised him as a "good lord" who punished "oppressors of the commons", adding that he had "a great heart".[23] In 1483 the Italian observer Mancini reported that Richard enjoyed a good reputation and that both "his private life and public activities powerfully attracted the esteem of strangers". His bond to the City of York in particular was such that on hearing of Richard's demise at the battle of Bosworth the City Council officially deplored the King's death, at the risk of facing the victor's wrath.
@@ -166,8 +162,6 @@ Some twentieth-century historians have been less inclined to moral judgement, se
 
 In culture
 
-The_True_Tragedy_of_Richard_the_Third.jpg
-
 Apart from Shakespeare, Richard appears in many other works of literature. Two other plays of the Elizabethan era predated Shakespeare's work. The Latin-language drama _Richardus Tertius_ (first known performance in 1580) by Thomas Legge is believed to be the first history play written in England. The anonymous play _The True Tragedy of Richard III_ (c. 1590), performed in the same decade as Shakespeare's work, was probably an influence on Shakespeare. Neither of the two plays places any emphasis on Richard's physical appearance, though the _True Tragedy_ briefly mentions that he is "A man ill shaped, crooked backed, lame armed" adding that he is "valiantly minded, but tyrannous in authority". Both portray him as a man motivated by personal ambition, who uses everyone around him to get his way. Ben Jonson is also known to have written a play _Richard Crookback_ in 1602, but it was never published and nothing is known about its portrayal of the king.
 
 Marjorie Bowen's 1929 novel _Dickon_ set the trend for pro-Ricardian literature. Particularly influential was _The Daughter of Time_ (1951) by Josephine Tey, in which a modern detective concludes that Richard III is innocent in the death of the Princes.[29][30] Other novelists such as Valerie Anand in the novel _Crown of Roses_ (1989) have also offered alternative versions to the theory that he murdered them.[31] Sharon Kay Penman, in her historical novel _The Sunne in Splendour_, attributes the death of the Princes to the Duke of Buckingham.[32] In the mystery novel _The Murders of Richard III_ by Elizabeth Peters (1974) the central plot revolves around the debate as to whether Richard III was guilty of these and other crimes. A sympathetic portrayal of Richard III is given in _The Founding_ (1980), the first volume in _The Morland Dynasty_ series by Cynthia Harrod-Eagles.
@@ -179,13 +173,11 @@ Discovery of remains
 
 On 24 August 2012, the University of Leicester and Leicester City Council, in association with the Richard III Society, announced that they had joined forces to begin a search for the remains of King Richard. The search for Richard III was led by Philippa Langley of the Society's _Looking For Richard_ Project with the archaeological work led by University of Leicester Archaeological Services (ULAS).[39][40][41] Experts set out to locate the lost site of the former Greyfriars Church (demolished during Henry VIII's dissolution of the monasteries), and to discover whether his remains were still interred there.[42][43] By comparing fixed points between maps in a historical sequence, the search located the Church of the Grey Friars, where Richard's body had been hastily buried without pomp in 1485, its foundations identifiable beneath a modern-day city centre car park.[44]
 
-Greyfriars,_Leicester_site.svg, Leicester, shown superimposed over a modern map of the area. The skeleton of Richard III was recovered in September 2012 from the centre of the choir, shown by a small blue dot.]]
+, Leicester, shown superimposed over a modern map of the area. The skeleton of Richard III was recovered in September 2012 from the centre of the choir, shown by a small blue dot.]]
 
 On 5 September 2012, the excavators announced that they had identified Greyfriars church[45] and two days later that they had identified the location of Robert Herrick's garden, where the memorial to Richard III stood in the early 17th century.[46] A human skeleton was found beneath the Church's choir.[47]
 
 Improbably, the excavators found the remains in the first location in which they dug at the car park. Coincidentally, they lay almost directly under a roughly painted _R_ on the tarmac. This had existed since the early 2000s to signify a reserved parking space.[48][49][50]
-
-The_King_In_The_Car_Park_-_Page_15_-_Figure_12.png
 
 On 12 September, it was announced that the skeleton discovered during the search might be that of Richard III. Several reasons were given: the body was of an adult male; it was buried beneath the choir of the church; and there was severe scoliosis of the spine, possibly making one shoulder[51] higher than the other (to what extent depended on the severity of the condition). Additionally, there was an object that appeared to be an arrowhead embedded in the spine; and there were perimortem injuries to the skull. These included a relatively shallow orifice, which is most likely to have been caused by a rondel dagger, and a scooping depression to the skull, inflicted by a bladed weapon, most probably a sword. Additionally, the bottom of the skull presented a gaping hole, where a halberd had cut away and entered it. Forensic pathologist, Dr Stuart Hamilton stated that this injury would have left the individual's brain visible, and most certainly would have been the cause of death. Dr Jo Appleby, the osteo-archaeologist who excavated the skeleton, concurred and described the latter as "a mortal battlefield wound in the back of the skull". The base of the skull also presented another fatal wound in which a bladed weapon had been thrust into it, leaving behind a jagged hole. Closer examination of the interior of the skull revealed a mark opposite this wound, showing that the blade penetrated to a depth of .[52] In total, the skeleton presented ten wounds: four minor injuries on the top of the skull, one dagger blow on the cheekbone, one cut on the lower jaw, two fatal injuries on the base of the skull, one cut on a rib bone, and one final wound on the pelvis, most probably inflicted after death. It is generally accepted that postmortem, Richard's naked body was tied to the back of a horse, with his arms slung over one side and his legs and buttocks over the other. This presented a tempting target for onlookers, and the angle of the blow on the pelvis suggests that one of them stabbed Richard's right buttock with substantial force, as the cut extends from the back all the way to the front of the pelvic bone and was most probably an act of humiliation. It is also possible that Richard suffered other injuries which left no trace on the skeleton.[53][54][55]
 
@@ -201,8 +193,6 @@ In November 2014, the results of the testing were announced, confirming that the
 
 Reburial and tomb
 
-Picture_of_Richard_III's_new_tomb_(cropped).jpg
-
 In 1485, following his death in battle against Henry Tudor at Bosworth Field, Richard III's body was buried in Greyfriars Church in Leicester.
 
 Following the discoveries of Richard's remains in 2012, it was decided that they should be reburied at Leicester Cathedral,[87] despite feelings in some quarters that he should have been reburied in York Minster.[88] His remains were carried in procession to the cathedral on 22 March 2015, and reburied on 26 March 2015[89] at a religious re-burial service at which both the Right Reverend Tim Stevens, the Bishop of Leicester, and the Most Reverend Justin Welby, the Archbishop of Canterbury, officiated. The British royal family was represented by the Duke and Duchess of Gloucester and the Countess of Wessex. The actor Benedict Cumberbatch, who is a distant relation of the king and later portrayed him in _The Hollow Crown_ television series, read a poem by poet laureate Carol Ann Duffy.[90][91]
@@ -212,7 +202,7 @@ His cathedral tomb was designed by the architects van Heyningen and Haward.[92] 
 
 Titles, styles, honours and arms
 
-Copper-alloy_boar_mount_from_the_Thames_foreshore_(London).jpg boar mount thought to have been worn by a supporter of Richard III.[101]]]
+boar mount thought to have been worn by a supporter of Richard III.[101]]]
 
 On 1 November 1461, Richard gained the title of Duke of Gloucester; in late 1461, he was invested as a Knight of the Garter. Following the death of King Edward IV, he was made Lord Protector of England. Richard held this office from 30 April to 26 June 1483, when he made himself king of the realm. As King of England, Richard was styled _Dei Gratia Rex Angliae et Franciae et Dominus Hiberniae_ (_by the Grace of God, King of England and France and Lord of Ireland_).
 
@@ -220,7 +210,7 @@ Informally, he may have been known as "Dickon", according to a sixteenth-century
 
 Arms
 
-Arms_of_Thomas_of_Lancaster,_1st_Duke_of_Clarence.svg as Duke of Gloucester]]
+as Duke of Gloucester]]
 
 As Duke of Gloucester, Richard used the Royal Arms of England quartered with the Royal Arms of France, differenced by a label argent of three points ermine, on each point a canton gules, supported by a blue boar.[102] As sovereign, he used the arms of the kingdom undifferenced, supported by a white boar and a lion. His motto was _Loyaulte me lie_, "Loyalty binds me"; and his personal device was a white boar.
 

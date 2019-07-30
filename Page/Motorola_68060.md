@@ -1,4 +1,4 @@
-KL_Motorola_MC68060.jpg The MOTOROLA 68060 ("_sixty-eight-oh-sixty_") is a 32-bit microprocessor from Motorola released in 1994.[1] It is the successor to the Motorola 68040 and is the highest performing member of the 68000 series. Two derivatives were produced, the 68LC060 and the 68EC060.
+The MOTOROLA 68060 ("_sixty-eight-oh-sixty_") is a 32-bit microprocessor from Motorola released in 1994.[1] It is the successor to the Motorola 68040 and is the highest performing member of the 68000 series. Two derivatives were produced, the 68LC060 and the 68EC060.
 
 
 Architecture

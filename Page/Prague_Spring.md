@@ -24,7 +24,7 @@ A few months later, at a party meeting, it was decided that administrative actio
 
 Dubček's rise to power
 
-Dubcek.jpg]]
+]]
 
 As President Antonín Novotný was losing support, Alexander Dubček, First Secretary of the regional Communist Party of Slovakia, and economist Ota Šik challenged him at a meeting of the Central Committee. Novotný then invited the secretary-general of the Communist Party of Soviet Union, Leonid Brezhnev, to Prague that December, seeking support;[13] but Brezhnev was surprised at the extent of the opposition to Novotný and thus supported his removal as Czechoslovakia's leader. Dubček replaced Novotný as First Secretary on 5 January 1968.[14] On 22 March 1968, Novotný resigned his presidency and was replaced by Ludvík Svoboda, who later gave consent to the reforms.[15]
 
@@ -39,7 +39,7 @@ Despite the official government statement that allowed for freedom of the press,
 
 Socialism with a human face
 
-Main_protagonists_of_Prague_spring_in_1968.jpg, Alexander Dubček, Ludvík Svoboda and Josef Smrkovský]]
+, Alexander Dubček, Ludvík Svoboda and Josef Smrkovský]]
 
 On the 20th anniversary of Czechoslovakia's "Victorious February", Dubček delivered a speech explaining the need for change following the triumph of socialism. He emphasized the need to "enforce the leading role of the party more effectively"[24] and acknowledged that, despite Klement Gottwald's urgings for better relations with society, the Party had too often made heavy-handed rulings on trivial issues. Dubček declared the party's mission was "to build an advanced socialist society on sound economic foundations ... a socialism that corresponds to the historical democratic traditions of Czechoslovakia, in accordance with the experience of other communist parties ..."[25]
 
@@ -57,7 +57,7 @@ On 27 June Ludvík Vaculík, a leading author and journalist, published a manife
 
 Publications and media
 
-1968-Prague_Spring.ogv, 1968-08, «Periscope ƒilm»'']]
+, 1968-08, «Periscope ƒilm»'']]
 
 Dubček's relaxation of censorship ushered in a brief period of freedom of speech and the press.[49] The first tangible manifestation of this new policy of openness was the production of the previously hard-line communist weekly _Literarni noviny_, renamed _Literarni listy_.[50][51]
 
@@ -68,7 +68,7 @@ The press, the radio, and the television also contributed to these discussions b
 
 Soviet reaction
 
-Brezhnev_1973.jpg]]
+]]
 
 Initial reaction within the Communist Bloc was mixed. Hungary's János Kádár was highly supportive of Dubček's appointment in January, but Leonid Brezhnev and others grew concerned about Dubček's reforms, which they feared might weaken the position of the Communist Bloc during the Cold War.[59][60][61]
 
@@ -82,7 +82,7 @@ On 3 August representatives from the "Warsaw Five" and Czechoslovakia met in Bra
 
 Invasion
 
-KAS-Prager_Frühling_1968-Bild-12906-1.jpg]]
+]]
 
 As these talks proved unsatisfactory, the Soviets began to consider a military alternative. The Soviet Union's policy of compelling the socialist governments of its satellite states to subordinate their national interests to those of the "Eastern Bloc" (through military force if needed) became known as the Brezhnev Doctrine.[70] On the night of 20–21 August 1968, Eastern Bloc armies from four Warsaw Pact countries – the Soviet Union, Bulgaria, Poland and Hungary—invaded the ČSSR.[71][72]
 
@@ -96,21 +96,19 @@ The Soviets attributed the invasion to the "Brezhnev Doctrine", which stated tha
 
 Reactions to the invasion
 
-Adunare_Piaţa_Palatului_August_1968.jpg gives a speech critical of the invasion, in front of a crowd in Bucharest, 21 August 1968]]
+gives a speech critical of the invasion, in front of a crowd in Bucharest, 21 August 1968]]
 
 In Czechoslovakia, especially in the week immediately following the invasion, popular opposition was expressed in numerous spontaneous acts of nonviolent resistance.[88] Civilians purposely gave wrong directions to invading soldiers, while others identified and followed cars belonging to the secret police.[89] On 16 January 1969, student Jan Palach set himself on fire in Prague's Wenceslas Square to protest against the renewed suppression of free speech.[90]
 
 The generalized resistance caused the Soviet Union to abandon its original plan to oust the First Secretary. Dubček, who had been arrested on the night of 20 August, was taken to Moscow for negotiations. There, he and several other leaders (including all the highest-ranked officials, President Svoboda, Prime Minister Černík and Chairman of the National Assembly Smrkovský) signed the Moscow Protocol, under heavy psychological pressure from Soviet politicians, and it was agreed that Dubček would remain in office and a programme of moderate reform would continue.
 
-Za_vashu_i_nashu_svobodu.jpg"]]
+"]]
 
 On 25 August citizens of the Soviet Union who did not approve of the invasion protested in Red Square; seven protesters opened banners with anti-invasion slogans. The demonstrators were brutally beaten and arrested by security forces, and later punished by a secret tribunal; the protest was dubbed "anti-Soviet" and several people were detained in psychiatric hospitals.[91]
 
 A more pronounced effect took place in Romania, where Nicolae Ceaușescu, General Secretary of the Romanian Communist Party, already a staunch opponent of Soviet influences and a self-declared Dubček supporter, gave a public speech in Bucharest on the day of the invasion, depicting Soviet policies in harsh terms.[92] Albania withdrew from the Warsaw Pact in opposition, calling the invasion an act of "social imperialism". In Finland, a country under some Soviet political influence, the occupation caused a major scandal.[93]
 
 Like the Italian and French[94] Communist parties, the majority of the Communist Party of Finland denounced the occupation. Nonetheless, Finnish president Urho Kekkonen was the very first Western politician to officially visit Czechoslovakia after August 1968; he received the highest Czechoslovakian honours from the hands of President Ludvík Svoboda, on 4 October 1969.[95] The Portuguese communist secretary-general Álvaro Cunhal was one of few political leaders from western Europe to have supported the invasion for being counter-revolutionary.[96] along with the Luxembourg party[97] and conservative factions of the Greek party.[98]
-
-Helsinki_demonstration_against_the_invasion_of_Czechoslovakia_in_1968.jpg
 
 Most countries offered only vocal criticism following the invasion. The night of the invasion, Canada, Denmark, France, Paraguay, the United Kingdom and the United States requested a meeting of the United Nations Security Council.[99] At the meeting, the Czechoslovak ambassador Jan Muzik denounced the invasion. Soviet ambassador Jacob Malik insisted the Warsaw Pact actions were "fraternal assistance" against "antisocial forces".[100]
 
@@ -123,7 +121,7 @@ By 26 August a new Czechoslovak representative requested the whole issue be remo
 
 Aftermath
 
-Radnice_Liberec_pamatnik_1968.jpg]]
+]]
 
 In April 1969, Dubček was replaced as first secretary by Gustáv Husák, and a period of "normalization" began.[108] Dubček was expelled from the KSČ and given a job as a forestry official.[109][110]
 

@@ -32,7 +32,7 @@ On 30 April 1731 Cardinal Lambertini was appointed Archbishop of Bologna by Pope
 
 Election to the papacy
 
-Prospero_Lambertini_by_Giuseppe_Maria_Crespi.jpg After the death of Pope Clement XII on 6 February 1740, Cardinal Lambertini attended the papal conclave to choose a successor. The Conclave opened on 18 February, but Lambertini did not arrive until 5 March. He was not one of the 'papabili', not being one of the favorites of any of the factions (Imperialists, Spanish, French, Zelanti). The Conclave lasted for six months.[21] At first Cardinal Ottoboni, the Dean of the Sacred College, was favored to be elected, but a number of cardinals were opposed to him because he was the protector of France in the Papal Curia.[22] His death on 29 February 1740 eliminated him from consideration.[23]
+After the death of Pope Clement XII on 6 February 1740, Cardinal Lambertini attended the papal conclave to choose a successor. The Conclave opened on 18 February, but Lambertini did not arrive until 5 March. He was not one of the 'papabili', not being one of the favorites of any of the factions (Imperialists, Spanish, French, Zelanti). The Conclave lasted for six months.[21] At first Cardinal Ottoboni, the Dean of the Sacred College, was favored to be elected, but a number of cardinals were opposed to him because he was the protector of France in the Papal Curia.[22] His death on 29 February 1740 eliminated him from consideration.[23]
 
 Cardinal Domenico Riviera of Urbino received a respectable number of votes for a while, and then, in July, Cardinal Pompeio Aldrovandi of Bologna. He had enemies, however, who assembled enough votes to ensure that he would never get the two-thirds needed to be elected. His greatest enemy, the Camerlengo Cardinal Annibale Albani, chose instead to support Cardinal Giacomo de Lanfredini of Florence, who worked in Rome in the Curia. In mid-August, Albani asked the leader of the Imperialist faction, Cardinal Niccolò del Giudice, to give a thought to Lambertini. After long deliberations, Lambertini was put forth to the cardinal electors as a compromise candidate, and it is reported that he said to the members of the College of Cardinals "If you wish to elect a saint, choose Gotti; a statesman, Aldrovandi; an honest man, me."[24]
 
@@ -41,7 +41,7 @@ This witticism appears to have assisted his cause, which also benefited from his
 
 Pontificate
 
-Benedict_XIV_by_Pietro_Bracci.JPG, Museum of Grenoble]] Benedict XIV's papacy began in a time of great difficulties, fueled by anticlericalism and chiefly caused by the disputes between Catholic rulers and the papacy about governmental demands to nominate bishops rather than leaving the appointment to the Church. He managed to overcome most of these problems — the Holy See's disputes with the Kingdom of Naples, Sardinia, Spain, Venice, and Austria were settled.[27]
+, Museum of Grenoble]] Benedict XIV's papacy began in a time of great difficulties, fueled by anticlericalism and chiefly caused by the disputes between Catholic rulers and the papacy about governmental demands to nominate bishops rather than leaving the appointment to the Church. He managed to overcome most of these problems — the Holy See's disputes with the Kingdom of Naples, Sardinia, Spain, Venice, and Austria were settled.[27]
 
 _Pastoralis Romani Pontificis_
 
@@ -100,7 +100,7 @@ The pope canonized seven saints during his pontificate including Camillus de Lel
 
 Death and burial
 
-BentoXIVb.jpg]] Benedict XIV had suffered from kidney problems for years. His health worsened in 1758 and, after a battle with gout, he died on 3 May 1758 at the age of 83.[58] His final words to those surrounding him on his deathbed were, "I leave you in the hands of God."[59]
+]] Benedict XIV had suffered from kidney problems for years. His health worsened in 1758 and, after a battle with gout, he died on 3 May 1758 at the age of 83.[58] His final words to those surrounding him on his deathbed were, "I leave you in the hands of God."[59]
 
 Following his funeral, he was interred in Saint Peter's Basilica and a large catafalque was erected in his honour.
 

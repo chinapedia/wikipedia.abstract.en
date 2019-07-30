@@ -3,7 +3,7 @@ ISLAMABAD CAPITAL TERRITORY () is the one and only federal territory of Pakistan
 
 History
 
-Islamabad_map.png In 1960, land was transferred from Rawalpindi District of Punjab province to establish Pakistan's new capital. According to the 1960's master plan, the Capital Territory included Rawalpindi, and was to be composed of the following parts:[2]
+In 1960, land was transferred from Rawalpindi District of Punjab province to establish Pakistan's new capital. According to the 1960's master plan, the Capital Territory included Rawalpindi, and was to be composed of the following parts:[2]
 
 -   Rawalpindi,
 -   Islamabad,
@@ -29,7 +29,7 @@ Sectors
 
 Union Councils
 
-Shrine_near_Model_Town_Islamabad.jpg Islamabad Capital Territory comprises urban and rural areas. The rural consists of 23 union councils, comprising 133 villages, while urban has 27 union councils.[4]
+Islamabad Capital Territory comprises urban and rural areas. The rural consists of 23 union councils, comprising 133 villages, while urban has 27 union councils.[4]
 
   UC #   Chief locality          Localities within jurisdiction
   ------ ----------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -89,7 +89,7 @@ Shrine_near_Model_Town_Islamabad.jpg Islamabad Capital Territory comprises urban
 
 Climate
 
-Ataturk_Avenue_-_Islamabad.JPG]] The climate of Islamabad has a humid subtropical climate (Köppen: Cwa), with five seasons: Winter (November–February), Spring (March and April), Summer (May and June), Rainy Monsoon (July and August) and Autumn (September and October). The hottest month is June, where average highs routinely exceed . Wettest month is July, with heavy rainfalls and evening thunderstorms with the possibility of cloudburst and flooding. Coolest month is January. Islamabad's micro-climate is regulated by three artificial reservoirs: Rawal, Simli, and Khanpur Dam. Last one is located on the Haro River near the town of Khanpur, about from Islamabad. Simli Dam is north of Islamabad. of the city consists of Margalla Hills National Park. Loi Bher Forest is situated along the Islamabad Highway, covering an area of .[5] Highest monthly rainfall of was recorded during July 1995.[6] Winters generally feature dense fog in the mornings and sunny afternoons. In the city, temperatures stay mild, with snowfall over the higher elevations points on nearby hill stations, notably Murree and Nathia Gali. The temperatures range from in January to in June. The highest recorded temperature was on 23 June 2005 while the lowest temperature was on 17 January 1967.[7][8] The city has "recorded" snowfall. On 23 July 2001, Islamabad received a record breaking of rainfall in just 10 hours. It was the heaviest rainfall in Islamabad in the past 100 years and the highest rainfall in 24 hours as well.[9][10]
+]] The climate of Islamabad has a humid subtropical climate (Köppen: Cwa), with five seasons: Winter (November–February), Spring (March and April), Summer (May and June), Rainy Monsoon (July and August) and Autumn (September and October). The hottest month is June, where average highs routinely exceed . Wettest month is July, with heavy rainfalls and evening thunderstorms with the possibility of cloudburst and flooding. Coolest month is January. Islamabad's micro-climate is regulated by three artificial reservoirs: Rawal, Simli, and Khanpur Dam. Last one is located on the Haro River near the town of Khanpur, about from Islamabad. Simli Dam is north of Islamabad. of the city consists of Margalla Hills National Park. Loi Bher Forest is situated along the Islamabad Highway, covering an area of .[5] Highest monthly rainfall of was recorded during July 1995.[6] Winters generally feature dense fog in the mornings and sunny afternoons. In the city, temperatures stay mild, with snowfall over the higher elevations points on nearby hill stations, notably Murree and Nathia Gali. The temperatures range from in January to in June. The highest recorded temperature was on 23 June 2005 while the lowest temperature was on 17 January 1967.[7][8] The city has "recorded" snowfall. On 23 July 2001, Islamabad received a record breaking of rainfall in just 10 hours. It was the heaviest rainfall in Islamabad in the past 100 years and the highest rainfall in 24 hours as well.[9][10]
 
 
 Cityscape

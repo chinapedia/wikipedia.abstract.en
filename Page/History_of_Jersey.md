@@ -1,11 +1,9 @@
-Jersey-islands.png
-
 The island of Jersey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy that held sway in both France and England. Jersey lies in the Bay of Mont Saint-Michel and is the largest of the Channel Islands. It has enjoyed self-government since the division of the Duchy of Normandy in 1204.
 
 
 Prehistory
 
-Dolmen_Faldouet_Jersey.jpg.]] The earliest evidence of human activity in Jersey dates to about 250,000 years ago (before Jersey became an island) when bands of nomadic hunters used the caves at La Cotte de St Brelade as a base for hunting mammoth and woolly rhinoceros.[1]
+.]] The earliest evidence of human activity in Jersey dates to about 250,000 years ago (before Jersey became an island) when bands of nomadic hunters used the caves at La Cotte de St Brelade as a base for hunting mammoth and woolly rhinoceros.[1]
 
 Rising sea levels resulted in it has been an island for approximately 6,000 years and at its current extremes it measures 10 miles east to west and six miles north to south. Evidence dating from the Ice Age period of engravings dating from at least 12,000 BC have been found,[2][3] showing occupation by Homo sapiens.
 
@@ -38,7 +36,7 @@ The islands remained part of the Duchy of Normandy until 1204, when King Philip 
 
 The Feudal Age
 
-Mont_Orgueil_castle_Jersey.jpg and guards Jersey from attack from the French coast opposite]] From 1204 onwards, the Channel Islands ceased to be a peaceful backwater and became a potential flashpoint on the international stage between England and France. In the Treaty of Paris (1259), the King of France gave up claim to the Channel Islands. The claim was based upon his position as feudal overlord of the Duke of Normandy. The King of England gave up claim to mainland Normandy and appointed a Warden, a position now termed Lieutenant Governor of Jersey and a bailiff to govern in his stead. The Channel Islands were never absorbed into the Kingdom of England. However the churches in Jersey were left under the control of the Diocese of Coutances for another 300 years.[16]
+and guards Jersey from attack from the French coast opposite]] From 1204 onwards, the Channel Islands ceased to be a peaceful backwater and became a potential flashpoint on the international stage between England and France. In the Treaty of Paris (1259), the King of France gave up claim to the Channel Islands. The claim was based upon his position as feudal overlord of the Duke of Normandy. The King of England gave up claim to mainland Normandy and appointed a Warden, a position now termed Lieutenant Governor of Jersey and a bailiff to govern in his stead. The Channel Islands were never absorbed into the Kingdom of England. However the churches in Jersey were left under the control of the Diocese of Coutances for another 300 years.[16]
 
 The existing Norman customs and laws were allowed to continue, with the exception that the ultimate head of the legal system was the King of England rather than the Duke of Normandy. There was no attempt to introduce English law. The law was conducted through 12 jurats, constables (_connétable_) and a bailiff (_Baillé_). These titles have different meanings and duties to those in England.[17]
 
@@ -59,7 +57,7 @@ During the 16th century, ideas of the reformation of the church coupled with the
 
 The excommunication of Elizabeth I of England by the Pope increased the military threat to the island and the increasing use of gunpowder on the battlefield meant that the fortifications on the island had to be adapted. A new fortress was built to defend St Aubin's Bay, the new Elizabeth Castle was named after the queen by Sir Walter Raleigh when he was governor. The island militia was reorganised on a parish basis and each parish had two cannon which were usually housed in the church - one of the St Peter cannon can still be seen at the bottom of Beaumont Hill.
 
-Map_of_Jersey_by_G_Mercator_1639..JPG One of the favourable trade deals with England was the ability to import wool (England needing an export market but was at war with most of Europe).[31] The production of knitwear in the island reached such a scale that it threatened the island's ability to produce its own food, so laws were passed regulating who could knit with whom and when. The name "Jersey" synonymous for a sweater, shows its importance. The islanders also became involved with the Newfoundland fisheries at this time.[32] The boats left the island in February/March following a church service in St Brelade's church and they did not return again until September/October. Colonies were established in Newfoundland.
+One of the favourable trade deals with England was the ability to import wool (England needing an export market but was at war with most of Europe).[31] The production of knitwear in the island reached such a scale that it threatened the island's ability to produce its own food, so laws were passed regulating who could knit with whom and when. The name "Jersey" synonymous for a sweater, shows its importance. The islanders also became involved with the Newfoundland fisheries at this time.[32] The boats left the island in February/March following a church service in St Brelade's church and they did not return again until September/October. Colonies were established in Newfoundland.
 
 
 Civil War, interregnum and restoration
@@ -73,7 +71,7 @@ Towards the end of the 17th century, Jersey strengthened its links with the Amer
 
 18th century
 
-Jersey_round_tower.jpg By the 1720s, a discrepancy in coinage values between Jersey and France was threatening economic stability. The States of Jersey therefore resolved to devalue the liard to six to the sou. The legislation to that effect implemented in 1729 caused popular riots that shook the establishment.[36] The devaluation was therefore cancelled.
+By the 1720s, a discrepancy in coinage values between Jersey and France was threatening economic stability. The States of Jersey therefore resolved to devalue the liard to six to the sou. The legislation to that effect implemented in 1729 caused popular riots that shook the establishment.[36] The devaluation was therefore cancelled.
 
 The Chamber of Commerce founded 24 February 1768 is the oldest in the Commonwealth.
 
@@ -81,7 +79,7 @@ The _Code_ of 1771 laid down for the first time in one place the extant laws of 
 
 Methodism arrived in Jersey in 1774, brought by fishermen returning from Newfoundland. Conflict with the authorities ensued when men refused to attend militia drill when that coincided with chapel meetings. The Royal Court attempted to proscribe Methodist meetings, but King George III refused to countenance such interference with liberty of religion. The first Methodist minister in Jersey was appointed in 1783, and John Wesley preached in Jersey in August 1789, his words being interpreted into the vernacular for the benefit of those from the country parishes. The first building constructed specifically for Methodist worship was erected in St. Ouen in 1809.
 
-John_Singleton_Copley_001.jpg'', John Singleton Copley, 1782-1784.]]
+'', John Singleton Copley, 1782-1784.]]
 
 The 18th century was a period of political tension between Britain and France, as the two nations clashed all over the world as their ambitions grew. Because of its position, Jersey was more or less on a continuous war footing.
 
@@ -92,7 +90,7 @@ The first printing press was introduced to Jersey in 1784.
 
 19th century
 
-Jersey_cattle_judging-1.jpg were developed as a breed during the 19th century. Judging the quality of cows remains a feature of rural life.]]
+were developed as a breed during the 19th century. Judging the quality of cows remains a feature of rural life.]]
 
 The number of English-speaking soldiers stationed on the island and the number of retired officers and English-speaking labourers who came to the islands in the 1820s led to the island gradually moving towards an English-speaking culture in the town.
 
@@ -104,7 +102,7 @@ The population of Jersey rose rapidly, from 47,544 in 1841 to 56,078 20 years la
 
 The town expanded with many new streets and houses in a Georgian style, in 1843 it was agreed to erect street names. The Theatre Royal was built, as were Victoria College, Jersey in 1852 and extensions to the harbour, which were called Victoria Harbour.[38] Jersey issued its first coins in 1841, and exhibited 34 items at The Great Exhibition in 1851, the world's first ever Pillar box was installed in 1852 and a paid police force was created in 1854.[39]
 
-Jersey_Railway_map.png Two railways, the Jersey Western Railway[40] in 1870, and the Jersey Eastern Railway[41] in 1874, were opened. The western railway from to La Corbière and the eastern railway from to Gorey Pier. The two railways have never been connected. Buses started running on the island in the 1920s, and the railways could not cope with the competition. The eastern railway closed in 1926 and the western railway in 1936 after a fire disaster that year.
+Two railways, the Jersey Western Railway[40] in 1870, and the Jersey Eastern Railway[41] in 1874, were opened. The western railway from to La Corbière and the eastern railway from to Gorey Pier. The two railways have never been connected. Buses started running on the island in the 1920s, and the railways could not cope with the competition. The eastern railway closed in 1926 and the western railway in 1936 after a fire disaster that year.
 
 Jersey was the fourth-largest shipbuilding area in the 19th-century British Isles,[42] building over 900 vessels around the island. Shipbuilding declined with the coming of iron ships and steam. A number of banks on Jersey, guarantors of an industry both onshore and off, failed in 1873[43] and 1886, even causing strife and discord in far-flung societies. The population fell slightly in the 20 years to 1881.
 
@@ -133,7 +131,7 @@ English was first permitted in debates in the States of Jersey in 1901, and the 
 
 Occupation 1940-1945
 
-German_World_War_II_tower_Jersey.jpg, between 1940 and 1945, the occupying German forces and the Organisation Todt constructed fortifications round the coast of Jersey such as this observation tower at Battery Moltke.]] Following the withdrawal of defences by the British government and German bombardment, Jersey was occupied by German troops between 1940 and 1945.[47] The Channel Islands were the only British soil occupied by German troops in World War II. This period of occupation had about 8,000 islanders evacuated, 1,200 islanders deported to camps in Germany, and over 300 islanders sentenced to the prison and concentration camps of mainland Europe. Twenty died as a result. The islanders endured near-starvation in the winter of 1944-45, after the Channel Islands had been cut off from German-occupied Europe by Allied forces advancing from the Normandy beachheads, avoided only by the arrival of the Red Cross supply ship _Vega_ in December 1944. Liberation Day - 9 May is marked as a public holiday.
+, between 1940 and 1945, the occupying German forces and the Organisation Todt constructed fortifications round the coast of Jersey such as this observation tower at Battery Moltke.]] Following the withdrawal of defences by the British government and German bombardment, Jersey was occupied by German troops between 1940 and 1945.[47] The Channel Islands were the only British soil occupied by German troops in World War II. This period of occupation had about 8,000 islanders evacuated, 1,200 islanders deported to camps in Germany, and over 300 islanders sentenced to the prison and concentration camps of mainland Europe. Twenty died as a result. The islanders endured near-starvation in the winter of 1944-45, after the Channel Islands had been cut off from German-occupied Europe by Allied forces advancing from the Normandy beachheads, avoided only by the arrival of the Red Cross supply ship _Vega_ in December 1944. Liberation Day - 9 May is marked as a public holiday.
 
 Post-Liberation growth
 

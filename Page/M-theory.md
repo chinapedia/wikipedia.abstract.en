@@ -13,7 +13,7 @@ Background
 
 Quantum gravity and strings
 
-Open_and_closed_strings.svg. ]]
+. ]]
 
 One of the deepest problems in modern physics is the problem of quantum gravity. The current understanding of gravity is based on Albert Einstein's general theory of relativity, which is formulated within the framework of classical physics. However, nongravitational forces are described within the framework of quantum mechanics, a radically different formalism for describing physical phenomena based on probability. A quantum theory of gravity is needed in order to reconcile general relativity with the principles of quantum mechanics, but difficulties arise when one attempts to apply the usual prescriptions of quantum theory to the force of gravity.
 

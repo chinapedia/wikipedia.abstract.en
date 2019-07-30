@@ -7,7 +7,7 @@ After a difficult cause for canonization, starting in 1791, which caused conside
 
 Early life
 
-Geburtshaus_Innozenz_XI.jpg Benedetto Odescalchi was born at Como on 16 May 1611, the son of a Como nobleman, Livio Odescalchi, and Paola Castelli Giovanelli from Gandino. His siblings were Carlo, Lucrezia, Giulio Maria, Constantino, Nicola and Paolo. He also had several collateral descendants of note through his sister: her grandson Cardinal Baldassare Erba-Odescalchi, Cardinal Benedetto Erba Odescalchi, and Cardinal Carlo Odescalchi.
+Benedetto Odescalchi was born at Como on 16 May 1611, the son of a Como nobleman, Livio Odescalchi, and Paola Castelli Giovanelli from Gandino. His siblings were Carlo, Lucrezia, Giulio Maria, Constantino, Nicola and Paolo. He also had several collateral descendants of note through his sister: her grandson Cardinal Baldassare Erba-Odescalchi, Cardinal Benedetto Erba Odescalchi, and Cardinal Carlo Odescalchi.
 
 The Odescalchi, a family of minor nobility, were determined entrepreneurs. In 1619, Benedetto's brother founded a bank with his three uncles in Genoa which quickly grew into a successful money-lending business. After completing his studies in grammar and letters, the 15-year-old Benedetto moved to Genoa to take part in the family business as an apprentice. Lucrative economic transactions were established with clients in the major Italian and European cities, such as Nuremberg, Milan, Kraków, and Rome.
 
@@ -15,7 +15,7 @@ In 1626 Benedetto's father died, and he began schooling in the humane sciences t
 
 Some time between 1632 and 1636, Benedetto decided to move to Rome and then Naples in order to study civil law. This led to his securing the offices of protonotary apostolic, president of the apostolic chamber, commissary of the Marco di Roma, and governor of Macerata; on 6 March 1645, Pope Innocent X (1644–55) made him Cardinal-Deacon with the deaconry of _Santi Cosma e Damiano_. He subsequently became legate to Ferrara. When he was sent to Ferrara in order to assist the people stricken with a severe famine, the Pope introduced him to the people of Ferrara as the "father of the poor."
 
-Benedetto_Odescalchi.jpg In 1650, Odescalchi became bishop of Novara, in which capacity he spent all the revenues of his see to relieve the poor and sick in his diocese. He participated in the 1655 conclave. With the permission of the pope he resigned as bishop of Novara in favor of his brother Giulio in 1656 and went to Rome. While there he took a prominent part in the consultations of the various congregations of which he was a member.[5] He participated in the 1669-70 conclave.
+In 1650, Odescalchi became bishop of Novara, in which capacity he spent all the revenues of his see to relieve the poor and sick in his diocese. He participated in the 1655 conclave. With the permission of the pope he resigned as bishop of Novara in favor of his brother Giulio in 1656 and went to Rome. While there he took a prominent part in the consultations of the various congregations of which he was a member.[5] He participated in the 1669-70 conclave.
 
 
 Papacy
@@ -51,13 +51,13 @@ During England's Exclusion Crisis (1679-1681), when Parliament sought to exclude
 
 Relations with France
 
-Piastre_à_l'effigie_du_Pape_Innocent_XI_(1678-1679).jpg The pontificate of Innocent XI was marked by the struggle between the absolutism and hegemonic intentions of Louis XIV, and the primacy of the Catholic Church. As early as 1673, Louis had by his own power extended the right of the _régale_ over the provinces of Languedoc, Guyenne, Provence, and Dauphiné, where it had previously not been exercised.
+The pontificate of Innocent XI was marked by the struggle between the absolutism and hegemonic intentions of Louis XIV, and the primacy of the Catholic Church. As early as 1673, Louis had by his own power extended the right of the _régale_ over the provinces of Languedoc, Guyenne, Provence, and Dauphiné, where it had previously not been exercised.
 
 All the efforts of Innocent XI to induce Louis XIV to respect the rights and primacy of the Church proved useless. In 1682, the King convoked an assembly of the French clergy which adopted the four articles that became known as the Gallican Liberties. Innocent XI annulled the four articles on 11 April 1682, and refused his approbation to all future episcopal candidates who had taken part in the assembly.[9]
 
 To appease the pope, Louis XIV began to act as a zealot of Catholicism. In 1685 he revoked the Edict of Nantes and inaugurated a persecution of French Hugenots. Innocent expressed displeasure at these drastic measures and continued to withhold his approbation from the episcopal candidates.
 
-Innocent_XI_Dec_1688.jpgese envoys, translating the letter of King Narai to Pope Innocent XI, December 1688.]]
+ese envoys, translating the letter of King Narai to Pope Innocent XI, December 1688.]]
 
 Innocent XI irritated the King still more that same year by abolishing the much abused right of asylum, by which foreign ambassadors in Rome had been able to harbor in embassies any criminal wanted by the papal court of justice. He notified the new French ambassador, Marquis de Lavardin, that he would not be recognised as ambassador in Rome unless he renounced this right, but Louis XIV would not give it up. At the head of an armed force of about 800 men Lavardin entered Rome in November 1687, and took forcible possession of his palace. Innocent XI treated him as excommunicated and placed under interdict the Church of St. Louis at Rome where he attended services on 24 December 1687.[10]
 
@@ -65,7 +65,7 @@ In January 1688, Innocent XI also received the diplomatic mission which had been
 
 Cologne controversy
 
-InocencioXIb.jpg, St. Peter's Basilica|thumb|right]] The tension between the pope and the King of France was increased by Innocent's procedure in filling the vacant archiepiscopal see of Cologne. The two candidates for the see were Cardinal William Egon of Fürstenberg, then Bishop of Strasbourg, and Joseph Clement, a brother of Max Emanuel, Elector of Bavaria. The former was a willing tool in the hands of Louis XIV and his appointment as Archbishop and Prince-elector of Cologne would have implied French preponderance in north-western Germany.
+, St. Peter's Basilica|thumb|right]] The tension between the pope and the King of France was increased by Innocent's procedure in filling the vacant archiepiscopal see of Cologne. The two candidates for the see were Cardinal William Egon of Fürstenberg, then Bishop of Strasbourg, and Joseph Clement, a brother of Max Emanuel, Elector of Bavaria. The former was a willing tool in the hands of Louis XIV and his appointment as Archbishop and Prince-elector of Cologne would have implied French preponderance in north-western Germany.
 
 Joseph Clement was not only the candidate of Emperor Leopold I (1658–1705) but of all European rulers, with the exception of the King of France and his supporter, King James II of England (1685–88). At the election, which took place on 19 July 1688, neither of the candidates received the required number of votes. The decision, therefore, fell to Innocent XI, who designated Joseph Clement as Archbishop and Elector of Cologne.
 
@@ -94,7 +94,7 @@ Innocent XI was hostile towards the book "Varia Opuscula Theologica" (Various Th
 
 Death and beatification
 
-Tomb_of_Innocentius_XI_in_the_Chapel_of_St._Sebastian_of_Saint_Peter's_Basilica.jpg Kép-XIIncepápa.jpg]]
+]]
 
 Final days and death
 

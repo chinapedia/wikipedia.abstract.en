@@ -28,7 +28,7 @@ Christopher Columbus claimed Jamaica for Spain after landing there in 1494. His 
 
 British rule (1655–1962)
 
-Spanish Town has the oldest cathedral of the British colonies in the Caribbean.[16] The Spanish were forcibly evicted by the English at Ocho Rios in St. Ann. In the 1655 Invasion of Jamaica, the English, led by Sir William Penn and General Robert Venables, took over the last Spanish fort on the island.[17] The name of Montego Bay, the capital of the parish of St. James, was derived from the Spanish name __ (or Bay of Lard), alluding to the lard-making industry based on processing the numerous boars in the area.[18] Morgan,Henry.jpg was a famous Caribbean pirate and privateer; he had first come to the West Indies as an indentured servant, like most of the early English colonists.[19]]]
+Spanish Town has the oldest cathedral of the British colonies in the Caribbean.[16] The Spanish were forcibly evicted by the English at Ocho Rios in St. Ann. In the 1655 Invasion of Jamaica, the English, led by Sir William Penn and General Robert Venables, took over the last Spanish fort on the island.[17] The name of Montego Bay, the capital of the parish of St. James, was derived from the Spanish name __ (or Bay of Lard), alluding to the lard-making industry based on processing the numerous boars in the area.[18] was a famous Caribbean pirate and privateer; he had first come to the West Indies as an indentured servant, like most of the early English colonists.[19]]]
 
 In 1660, the population of Jamaica was about 4,500 white and 1,500 black.[20] By the early 1670s, as the English developed sugar cane plantations and "imported" more slaves, black people formed a majority of the population.[21] The colony was shaken and almost destroyed by the 1692 Jamaica earthquake.
 
@@ -42,7 +42,7 @@ When the English captured Jamaica in 1655, the Spanish colonists fled after free
 
 During its first 200 years of British rule, Jamaica became one of the world's leading sugar-exporting, slave-dependent colonies, producing more than 77,000 tons of sugar annually between 1820 and 1824. After the abolition of the international slave trade in 1807,[28] the British began to "import" indentured servants to supplement the labour pool, as many freedmen resisted working on the plantations. Workers recruited from India began arriving in 1845, Chinese workers in 1854.[29] Many South Asian and Chinese descendants continue to reside in Jamaica today.[30][31]
 
-Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_19.jpg By the beginning of the 19th century, Jamaica's dependence on slave labour and a plantation economy had resulted in black people outnumbering white people by a ratio of almost 20 to 1. Although the UK had outlawed the importation of slaves, some were still smuggled in from Spanish colonies and directly. While planning the abolition of slavery, the British Parliament passed laws to improve conditions for slaves. They banned the use of whips in the field and flogging of women; informed planters that slaves were to be allowed religious instruction, and required a free day during each week when slaves could sell their produce,[32] prohibiting Sunday markets to enable slaves to attend church.
+By the beginning of the 19th century, Jamaica's dependence on slave labour and a plantation economy had resulted in black people outnumbering white people by a ratio of almost 20 to 1. Although the UK had outlawed the importation of slaves, some were still smuggled in from Spanish colonies and directly. While planning the abolition of slavery, the British Parliament passed laws to improve conditions for slaves. They banned the use of whips in the field and flogging of women; informed planters that slaves were to be allowed religious instruction, and required a free day during each week when slaves could sell their produce,[32] prohibiting Sunday markets to enable slaves to attend church.
 
 The House of Assembly in Jamaica resented and resisted the new laws. Members (then restricted to European-Jamaicans) claimed that the slaves were content and objected to Parliament's interference in island affairs. Slave owners feared possible revolts if conditions were lightened. Following a series of rebellions on the island and changing attitudes in Great Britain, the British government formally abolished slavery by an 1833 act, beginning in 1834, with full emancipation from chattel slavery declared in 1838. The population in 1834 was 371,070, of whom 15,000 were white, 5,000 free black; 40,000 'coloured' or free people of color (mixed race); and 311,070 were slaves.[33]
 
@@ -54,7 +54,7 @@ In 1945, Sir Horace Hector Hearne became Chief Justice and Keeper of the Records
 
 Independence (1962)
 
-Charles_Camilla_Jamaica_2008.jpg and the Duchess of Cornwall during a visit to Jamaica in 2008]]
+and the Duchess of Cornwall during a visit to Jamaica in 2008]]
 
 Jamaica slowly gained increasing independence from the United Kingdom. In 1958, it became a province in the Federation of the West Indies, a federation among the British West Indies. Jamaica attained full independence by leaving the federation in 1962.
 
@@ -69,7 +69,7 @@ Independence, however widely celebrated in Jamaica, has been questioned in the e
 
 Government and politics
 
-Parliament.jm.jpg ]]
+]]
 
 Jamaica is a parliamentary democracy and constitutional monarchy. The current Queen of Jamaica is Elizabeth II.[37] As Elizabeth II is queen of fifteen other countries and resides mostly in the United Kingdom, she is often represented by the Governor-General of Jamaica.[38]
 
@@ -104,7 +104,7 @@ The local governments of the parishes of Kingston and St. Andrews are consolidat
 
 Military
 
-FN_FAL_DA-SD-04-01067.jpg in 2002]] The Jamaica Defence Force (JDF) is the small but professional military force of Jamaica. The JDF is based on the British military model with similar organisation, training, weapons and traditions. Once chosen, officer candidates are sent to one of several British or Canadian basic officer courses depending on the arm of service. Enlisted soldiers are given basic training at Up Park Camp or JDF Training Depot, Newcastle, both in St. Andrew. As with the British model, NCOs are given several levels of professional training as they rise up the ranks. Additional military schools are available for speciality training in Canada, the United States and the United Kingdom.
+in 2002]] The Jamaica Defence Force (JDF) is the small but professional military force of Jamaica. The JDF is based on the British military model with similar organisation, training, weapons and traditions. Once chosen, officer candidates are sent to one of several British or Canadian basic officer courses depending on the arm of service. Enlisted soldiers are given basic training at Up Park Camp or JDF Training Depot, Newcastle, both in St. Andrew. As with the British model, NCOs are given several levels of professional training as they rise up the ranks. Additional military schools are available for speciality training in Canada, the United States and the United Kingdom.
 
 The JDF is directly descended from the British Army's West India Regiment formed during the colonial era.[41] The West India Regiment was used extensively by the British Empire in policing the empire from 1795 to 1926. Other units in the JDF heritage include the early colonial Jamaica Militia, the Kingston Infantry Volunteers of WWI and reorganised into the Jamaican Infantry Volunteers in World War II. The West Indies Regiment was reformed in 1958 as part of the West Indies Federation, after dissolution of the Federation the JDF was established.
 
@@ -117,7 +117,7 @@ In recent years the JDF has been called on to assist the nation's police, the Ja
 
 Geography and environment
 
-Doctors-Cave-Beach.jpg is a popular destination in Montego Bay.]] Start_of_the_Blue_Mountains_just_north_of_Kingston,_Jamaica.jpg]] Dunns_River_Falls_Photo_D_Ramey_Logan.jpg in Ocho Ríos]] Koppen-Geiger_Map_JAM_present.svg
+is a popular destination in Montego Bay.]] ]] in Ocho Ríos]]
 
 Jamaica is the third largest island in the Caribbean.[47] It lies between latitudes 17° and 19°N, and longitudes 76° and 79°W. Mountains, including the Blue Mountains, dominate the inland. They are surrounded by a narrow coastal plain.[48] Jamaica only has two cities, the first being Kingston, the capital city and centre of business, located on the south coast and the 'second' city being Montego Bay, one of the best known cities in the Caribbean for tourism, located on the north coast. Other towns include Portmore, Spanish Town, Mandeville and the resort towns of Ocho Ríos, Port Antonio and Negril.[49]
 
@@ -135,7 +135,7 @@ The following year Blue and John Crow Mountains National Park was created on rou
 
 Flora and fauna
 
-Red-billed_streamertail(_Trochilus_polytmus)_adult_male_2.jpg]] Epicrates_subflavus.jpg]] Stoplight-parrotfish.jpg]] Amazona_agilis_-Cockpit_Country,_Jamaica-8_(1).jpg]] Geocapromys_brownii_Harvard_University_small.jpg]] Papilio_homerus_ulster.jpg]] Lasiurus_cinereus_Portrait.jpg]] Jamaica's climate is tropical, supporting diverse ecosystems with a wealth of plants and animals.
+]] ]] ]] ]] ]] ]] ]] Jamaica's climate is tropical, supporting diverse ecosystems with a wealth of plants and animals.
 
 Jamaica's plant life has changed considerably over the centuries. When the Spanish arrived in 1494, except for small agricultural clearings, the country was deeply forested. The European settlers cut down the great timber trees for building and ships' supplies, and cleared the plains, savannas, and mountain slopes for intense agricultural cultivation. Many new plants were introduced including sugarcane, bananas, and citrus trees.
 
@@ -172,7 +172,7 @@ Demographics
 
 Ethnic origins
 
-Jamaica-demography.png Street_in_Montigo_Bay_Jamaica_Photo_D_Ramey_Logan.jpg ]]
+]]
 
   Ethnic Group               %       Population
   -------------------------- ------- ------------
@@ -202,7 +202,7 @@ The first Irish immigrants came to Jamaica in the 1600s as war prisoners and lat
 
 Along with the English and the Irish, the Scots are another group that has made a significant impact on the island. According to the Scotland Herald newspaper, Jamaica has more Campbell surnames, than the population of Scotland itself and it also has the highest percentage of Scottish surnames outside of Scotland. Scottish surnames account to about 60% of the surnames in the Jamaican phone books. The first Jamaican inhabitants from Scotland were exiled "rebels". Later, they would be followed by ambitious businessmen who spent time between their great country estates in Scotland and the island. As a result, many of the slave owning plantations on the island were owned by Scottish men and it resulted in the high occurrence of Jamaica's coloured (mixed-race) population. High immigration from Scotland continued until well after independence. Today, notable Scottish-Jamaicans include Jamaican businessman John Pringle, former American Secretary of State Colin Powell, and American actress Kerry Washington.[103]
 
-StreetsofKingston.jpg]] There is also a significant Portuguese Jamaican population that is predominantly of Sephardic Jewish heritage that is primarily located in the Saint Elizabeth Parish in the southwestern part of Jamaica. The first Jews arrived as explorers from Spain in the 15th century after being forced to convert to Christianity or face death. Some (very few), became slave owners and even famous pirates.[104] Judaism eventually became very influential in Jamaica and can be seen today with many Jewish cemeteries around the country. Many visitors to the island are often surprised to find many "dark" colored (mixed-race) Jamaicans with Jewish surnames. During the Holocaust, Jamaica became a refuge for Jews who faced expulsion. Famous Jewish descendants include the dancehall artist Sean Paul, former record producer and founder of Island Records Chris Blackwell, and Jacob De Cordova who was the founder of the Jamaica Gleaner newspaper[105][106][107]
+]] There is also a significant Portuguese Jamaican population that is predominantly of Sephardic Jewish heritage that is primarily located in the Saint Elizabeth Parish in the southwestern part of Jamaica. The first Jews arrived as explorers from Spain in the 15th century after being forced to convert to Christianity or face death. Some (very few), became slave owners and even famous pirates.[104] Judaism eventually became very influential in Jamaica and can be seen today with many Jewish cemeteries around the country. Many visitors to the island are often surprised to find many "dark" colored (mixed-race) Jamaicans with Jewish surnames. During the Holocaust, Jamaica became a refuge for Jews who faced expulsion. Famous Jewish descendants include the dancehall artist Sean Paul, former record producer and founder of Island Records Chris Blackwell, and Jacob De Cordova who was the founder of the Jamaica Gleaner newspaper[105][106][107]
 
 In recent years, immigration has increased, coming mainly from China, Haiti, Cuba, Colombia, and Latin America; 20,000 Latin Americans reside in Jamaica.[108] The Jamaican government is currently considering making Spanish Jamaica's second official language. The move has been encouraged by Spain's Secretary for International Cooperation, Fernando Garcia Casas, who thinks that "...bilateral cooperation between (his) country and Jamaica could be greatly increased by encouraging greater use of the Spanish language there".[109][110]
 
@@ -237,7 +237,7 @@ Major cities
 
 Religion
 
-Mandeville_Church_by_AAlexander.jpg church in Manchester Parish]] Christianity is the largest religion practised in Jamaica. About 70% are Protestants; Roman Catholics are just 2% of the population. According to the 2001 census, the country's largest Protestant denominations are the Church of God (24%), Seventh-day Adventist Church (11%), Pentecostal (10%), Baptist (7%), Anglican (4%), United Church (2%), Methodist (2%), Moravian (1%) and Plymouth Brethren (1%)[140] The Christian faith gained acceptance as British Christian abolitionists and Baptist missionaries joined educated former slaves in the struggle against slavery.[141]
+church in Manchester Parish]] Christianity is the largest religion practised in Jamaica. About 70% are Protestants; Roman Catholics are just 2% of the population. According to the 2001 census, the country's largest Protestant denominations are the Church of God (24%), Seventh-day Adventist Church (11%), Pentecostal (10%), Baptist (7%), Anglican (4%), United Church (2%), Methodist (2%), Moravian (1%) and Plymouth Brethren (1%)[140] The Christian faith gained acceptance as British Christian abolitionists and Baptist missionaries joined educated former slaves in the struggle against slavery.[141]
 
 The Rastafari movement has 29,026 adherents, according to the 2011 census, with 25,325 Rastafarian males and 3,701 Rastafarian females.[142] Other religions in Jamaica include Jehovah's Witnesses (2% population), the Bahá'í faith, which counts perhaps 8,000 adherents[143] and 21 Local Spiritual Assemblies,[144] Buddhism, and Hinduism. The Hindu Diwali festival is celebrated yearly among the Indo-Jamaican community.[145][146]
 
@@ -247,14 +247,12 @@ On March 23, 2002, Nation of Islam leader Louis Farrakhan visited Shaare Shalom,
 
 Other small groups include Muslims, who claim 5,000 adherents,[155] The Muslim holidays of Ashura, known locally as Hussay or Hosay and Eid, have been celebrated throughout the island for hundreds of years. In the past, every plantation in each parish celebrated Hosay. Today it has been called an Indian carnival and is perhaps most well known in Clarendon where it is celebrated each August. People of all religions attend the event, showing mutual respect.[156][157]
 
-Hussay_Celebration_in_Jamaica.jpg
-
 There is also a small community of Mormons.[158]
 
 
 Culture
 
-Marcus_Garvey_1924-08-05.jpg, father of the Back to Africa Movement and Jamaica's first National Hero]] Bob-Marley-in-Concert_Zurich_05-30-80.jpg, the most famous reggae artist from Jamaica]]
+, father of the Back to Africa Movement and Jamaica's first National Hero]] , the most famous reggae artist from Jamaica]]
 
 Music
 
@@ -280,7 +278,7 @@ Jamaica has a history in the film industry dating from the early 1960s. A look a
 
 Cuisine
 
-Curry_Goat_with_rice_and_peas_(in_this_case_kidney_beans).jpg with rice and peas.]] The island is famous for its Jamaican jerk spice, curries and rice and peas which is integral to Jamaican cuisine. Jamaica is also home to Red Stripe beer and Jamaican Blue Mountain Coffee.
+with rice and peas.]] The island is famous for its Jamaican jerk spice, curries and rice and peas which is integral to Jamaican cuisine. Jamaica is also home to Red Stripe beer and Jamaican Blue Mountain Coffee.
 
 National symbols
 
@@ -292,11 +290,9 @@ National symbols
 -   National fruit: ackee (_Blighia sapida_)
 -   National motto: "Out of Many, One People."
 
-Jamaica_motto.jpg
-
 Sport
 
-Usain_Bolt_16082009_Berlin.JPG at the 2009 World Championships in Athletics in Berlin ]]
+at the 2009 World Championships in Athletics in Berlin ]]
 
 Sport is an integral part of national life in Jamaica and the island's athletes tend to perform to a standard well above what might ordinarily be expected of such a small country.[161] While the most popular local sport is cricket, on the international stage Jamaicans have tended to do particularly well at track and field athletics.[162][163]
 
@@ -341,7 +337,7 @@ Students are taught Spanish in school from the primary level upwards; about 40�
 
 Economy
 
-Negril-Beach.jpg with a hotel and restaurant]] JamesBondBeach2.jpg]] Jamaica is a mixed economy with both state enterprises and private sector businesses. Major sectors of the Jamaican economy include agriculture, mining, manufacturing, tourism, petroleum refining, financial and insurance services. Tourism and mining are the leading earners of foreign exchange. Half the Jamaican economy relies on services, with half of its income coming from services such as tourism. An estimated 4.3 million foreign tourists visit Jamaica every year.[179] According to the World Bank, Jamaica is an upper-middle income country that, like its Caribbean neighbors, is vulnerable to the effects of climate change, flooding, and hurricanes.[180] In 2018, Jamaica represented the CARICOM Caribbean Community at the G20 and the G7 annual meetings.[181] In 2019 Jamaica reported its lowest unemployment rate in 50 years.[182]
+with a hotel and restaurant]] ]] Jamaica is a mixed economy with both state enterprises and private sector businesses. Major sectors of the Jamaican economy include agriculture, mining, manufacturing, tourism, petroleum refining, financial and insurance services. Tourism and mining are the leading earners of foreign exchange. Half the Jamaican economy relies on services, with half of its income coming from services such as tourism. An estimated 4.3 million foreign tourists visit Jamaica every year.[179] According to the World Bank, Jamaica is an upper-middle income country that, like its Caribbean neighbors, is vulnerable to the effects of climate change, flooding, and hurricanes.[180] In 2018, Jamaica represented the CARICOM Caribbean Community at the G20 and the G7 annual meetings.[181] In 2019 Jamaica reported its lowest unemployment rate in 50 years.[182]
 
 Supported by multilateral financial institutions, Jamaica has, since the early 1980s, sought to implement structural reforms aimed at fostering private sector activity and increasing the role of market forces in resource allocation[183][184][185] Since 1991, the government has followed a programme of economic liberalisation and stabilisation by removing exchange controls,[186][187] floating the exchange rate,[188][189] cutting tariffs,[190] stabilising the Jamaican currency, reducing inflation[191] and removing restrictions on foreign investment.[192][193] Emphasis has been placed on maintaining strict fiscal discipline, greater openness to trade and financial flows, market liberalisation and reduction in the size of government. During this period, a large share of the economy was returned to private sector ownership through divestment and privatisation programmes.[194][195][196] The free-trade zones at Kingston, Montego Bay and Spanish Town allow duty-free importation, tax-free profits, and free repatriation of export earnings.[197]
 
@@ -349,7 +345,7 @@ Jamaica's economy grew strongly after the years of independence,[198] but then s
 
 In 1996 and 1997 there was a decrease in GDP largely due to significant problems in the financial sector and, in 1997, a severe island-wide drought (the worst in 70 years) and hurricane that drastically reduced agricultural production.[204] In 1997 and 1998, nominal GDP was approximately a high of about 8 percent of GDP and then lowered to 4½ percent of GDP in 1999 and 2000.[205]
 
-Alligator_pond_Jamaica_fishing_boats_gm.jpg cargo ships share the waterways near Alligator Pond.]]
+cargo ships share the waterways near Alligator Pond.]]
 
 The economy in 1997 was marked by low levels of import growth, high levels of private capital inflows and relative stability in the foreign exchange market.[206]
 
@@ -382,7 +378,7 @@ Infrastructure
 
 Transport
 
-Halfway_Tree_Transport_Center,_Kingston,_Jamaica.jpg The transport infrastructure in Jamaica consists of roadways, railways and air transport, with roadways forming the backbone of the island's internal transport system.
+The transport infrastructure in Jamaica consists of roadways, railways and air transport, with roadways forming the backbone of the island's internal transport system.
 
 Roadways
 
@@ -396,7 +392,7 @@ On 13 April 2011, limited passenger service was resumed between May Pen, Spanish
 
 Air transport
 
-Montego_Bay_plane_Photo_D_Ramey_Logan.jpg aircraft landing at Montego Bay (2013)]] Norman_Manley_International_Airport.jpg There are three international airports in Jamaica with modern terminals, long runways, and the navigational equipment required to accommodate the large jet aircraft used in modern and air travel: Norman Manley International Airport in Kingston; Ian Fleming International Airport in Boscobel, Saint Mary Parish; and the island's largest and busiest airport, Sir Donald Sangster International Airport in the resort city of Montego Bay. Manley and Sangster International airports are home to the country's national airline, Air Jamaica. In addition there are local commuter airports at Tinson Pen (Kingston), Port Antonio, and Negril, which cater to internal flights only. Many other small, rural centres are served by private fields on sugar estates or bauxite mines.
+aircraft landing at Montego Bay (2013)]] There are three international airports in Jamaica with modern terminals, long runways, and the navigational equipment required to accommodate the large jet aircraft used in modern and air travel: Norman Manley International Airport in Kingston; Ian Fleming International Airport in Boscobel, Saint Mary Parish; and the island's largest and busiest airport, Sir Donald Sangster International Airport in the resort city of Montego Bay. Manley and Sangster International airports are home to the country's national airline, Air Jamaica. In addition there are local commuter airports at Tinson Pen (Kingston), Port Antonio, and Negril, which cater to internal flights only. Many other small, rural centres are served by private fields on sugar estates or bauxite mines.
 
 Ports, shipping and lighthouses
 

@@ -45,7 +45,7 @@ In 1959, Unitas was named the NFL's MVP by the Associated Press (AP) for the fir
 
 Beginning of the 1960s
 
-As the 1960s began, the Colts' fortunes (and win totals) declined. Injuries to key players such as Alan Ameche, Raymond Berry, and Lenny Moore were a contributing factor.[13] Unitas's streak of 47 straight games with at least one touchdown pass ended against the Los Angeles Rams in week 11 of the 1960 season.[14] In spite of this, he topped the 3,000-yard passing mark for the first time and led the league in touchdown passes for the fourth consecutive season. JohnnyUnitasSignAutograph1964.jpg After three middle-of-the-pack seasons, Colts owner Carroll Rosenbloom fired Weeb Ewbank and replaced him with Don Shula, who at the time was the youngest head coach in NFL history (33 years of age when he was hired). The Colts finished 8–6 in Shula's first season at the helm, good enough for only third place in the NFL's Western Conference but they did end the season on a strong note by winning their final three games.[15] The season was very successful for Unitas personally as he led the NFL in passing yards with a career-best total of 3,481 and also led in completions with 237.
+As the 1960s began, the Colts' fortunes (and win totals) declined. Injuries to key players such as Alan Ameche, Raymond Berry, and Lenny Moore were a contributing factor.[13] Unitas's streak of 47 straight games with at least one touchdown pass ended against the Los Angeles Rams in week 11 of the 1960 season.[14] In spite of this, he topped the 3,000-yard passing mark for the first time and led the league in touchdown passes for the fourth consecutive season. After three middle-of-the-pack seasons, Colts owner Carroll Rosenbloom fired Weeb Ewbank and replaced him with Don Shula, who at the time was the youngest head coach in NFL history (33 years of age when he was hired). The Colts finished 8–6 in Shula's first season at the helm, good enough for only third place in the NFL's Western Conference but they did end the season on a strong note by winning their final three games.[15] The season was very successful for Unitas personally as he led the NFL in passing yards with a career-best total of 3,481 and also led in completions with 237.
 
 1964 MVP season
 
@@ -83,7 +83,7 @@ Unitas finished his 18 NFL seasons with 2,830 completions in 5,186 attempts for 
 
 Post-playing days
 
-Johnny_Unitas.jpg After his playing days were finished, Unitas settled in Baltimore where he raised his family while also pursuing a career in broadcasting, doing color commentary for NFL games on CBS in the 1970s. He was elected to the Pro Football Hall of Fame in 1979. After Robert Irsay moved the Colts franchise to Indianapolis in 1984, a move reviled to this day in Baltimore as "Bob Irsay's Midnight Ride," he was so outraged that he cut all ties to the relocated team (though his No. 19 jersey is still retired by the Colts), declaring himself strictly a _Baltimore_ Colt for the remainder of his life. Some other prominent old-time Colts followed his lead, although many attended the 1975 team's reunion at Lucas Oil Stadium in Indianapolis in 2009. A total of 39 Colts players from that 1975 team attended said reunion in Indianapolis, including Bert Jones and Lydell Mitchell. Unitas asked the Pro Football Hall of Fame on numerous occasions (including on Roy Firestone's _Up Close_) to remove his display unless it was listed as belonging to the Baltimore Colts. The Hall of Fame has never complied with the request. Unitas donated his Colts memorabilia to the Babe Ruth Museum in Baltimore; they are now on display in the Sports Legends Museum at Camden Yards.
+After his playing days were finished, Unitas settled in Baltimore where he raised his family while also pursuing a career in broadcasting, doing color commentary for NFL games on CBS in the 1970s. He was elected to the Pro Football Hall of Fame in 1979. After Robert Irsay moved the Colts franchise to Indianapolis in 1984, a move reviled to this day in Baltimore as "Bob Irsay's Midnight Ride," he was so outraged that he cut all ties to the relocated team (though his No. 19 jersey is still retired by the Colts), declaring himself strictly a _Baltimore_ Colt for the remainder of his life. Some other prominent old-time Colts followed his lead, although many attended the 1975 team's reunion at Lucas Oil Stadium in Indianapolis in 2009. A total of 39 Colts players from that 1975 team attended said reunion in Indianapolis, including Bert Jones and Lydell Mitchell. Unitas asked the Pro Football Hall of Fame on numerous occasions (including on Roy Firestone's _Up Close_) to remove his display unless it was listed as belonging to the Baltimore Colts. The Hall of Fame has never complied with the request. Unitas donated his Colts memorabilia to the Babe Ruth Museum in Baltimore; they are now on display in the Sports Legends Museum at Camden Yards.
 
 Unitas was inducted into the American Football Association's Semi Pro Football Hall of Fame in 1987.[30]
 
@@ -127,7 +127,7 @@ _Source_:[35]
 
 Personal life
 
-Johnny_Unitas_grave.jpg]]
+]]
 
 At the age of 21 on November 20, 1954, Unitas married his high school sweetheart Dorothy Hoelle; they lived in Towson[36] and had five children before divorcing. Unitas's second wife was Sandra Lemon, whom he married on June 26, 1972; they had three children, lived in Baldwin,[37] and remained married until his passing.
 
@@ -140,7 +140,7 @@ Unitas is buried at Dulaney Valley Memorial Gardens in Timonium, Maryland.[40]
 
 Legacy
 
-Football_signed_by_Johnny_Unitas_(1991.84).jpg]]
+]]
 
 -   Unitas held the record for most Pro Bowl appearances (10) by a quarterback until Brett Favre broke his record in 2009.
 -   Unitas set the original standard for most wins as a starting quarterback with 118 regular season victories (since surpassed by Fran Tarkenton, Dan Marino, John Elway, Brett Favre, Peyton Manning, and Tom Brady).

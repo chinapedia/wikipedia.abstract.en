@@ -30,7 +30,7 @@ Seeking financial independence and creative control over their projects, in 1992
 
 Inventing the Dogme 95 manifesto
 
-Dogme28.jpg'' Certificate for Susanne Bier's film _Open Hearts_]] In 1995 von Trier and Thomas Vinterberg presented their manifesto for a new cinematic movement, which they called Dogme 95. The Dogme95 concept, which led to international interest in Danish film, inspired filmmakers all over the world.[33] In 2008, together with their fellow Dogme directors Kristian Levring and Søren Kragh-Jacobsen, vonTrier and Thomas Vinterberg received the European film award for European Achievement in World Cinema.
+'' Certificate for Susanne Bier's film _Open Hearts_]] In 1995 von Trier and Thomas Vinterberg presented their manifesto for a new cinematic movement, which they called Dogme 95. The Dogme95 concept, which led to international interest in Danish film, inspired filmmakers all over the world.[33] In 2008, together with their fellow Dogme directors Kristian Levring and Søren Kragh-Jacobsen, vonTrier and Thomas Vinterberg received the European film award for European Achievement in World Cinema.
 
 In 1996 von Trier conducted an unusual theatrical experiment in Copenhagen involving 53 actors, which he titled _Psychomobile1: The World Clock_. A documentary chronicling the project was directed by Jesper Jargil, and was released in 2000 with the title _De Udstillede_ (The Exhibited).
 

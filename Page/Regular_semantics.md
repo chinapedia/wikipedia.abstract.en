@@ -5,16 +5,12 @@ Example
 
 Regular semantics are weaker than linearizability. Consider the example shown below, where the horizontal axis represents time and the arrows represent the interval during which a read or write operation takes place. According to a regular register's definition, the third read should return 3 since the read operation is not concurrent with any write operation. On the other hand, the second read may return 2 or 3, and the first read may return either 5 or 2. The first read could return 3 and the second read could return 2. This behavior would not satisfy atomic semantics. Therefore, regular semantics is a weaker property than an atomic semantics. On the other hand, Lamport proved that a linearizable register may be implemented from registers with safe semantics, which are weaker than regular registers.
 
-centre
-
 
 A Theorem from Regularity to Atomicity
 
 A single-writer multi-reader (SWMR) atomic semantics is an SWMR regular register if any of its execution history H satisfies the following property: r1 and r2 are any two read invocations: (r1 →H r2) ⇒ ¬π(r2) →H π(r1)
 
 Before we get into the proof,first we should know what does the new/old inversion mean.As it shown in the picture below,by looking at the execution we can see that the only difference between a regular execution and an atomic execution is when a = 0 and b = 1.In this execution,when we consider the two read invocations R.read() → a followed by R.read() → b, our first value(new value) is a = 0 while the second value(old value) is b=1.This is actually the main difference between atomacity and regularity.
-
-centre
 
 The theorem above states that a Single writer multi-reader regular register without new or old inversion is an atomic register. By looking at the picture we can say that as R.read() → a →H R.read() → b and R.write(1) →H R.write(0), it is not possible to have π (R.read() → b) =R.write(1) and π (R.read() → a) = R.write(0) if the execution is atomic. For proving the theorem above,first we should prove that the register is safe,next we should show that the register is regular,and then at the end we should show that the register does not allow for new/old inversion which proves the atomicity. By the definition of the atomic register we know that a Single writer multiple reader atomic register is regular and satisfies the no new/old inversion property. So,we only need to show that a regular register with no new/old inversion is atomic.
 

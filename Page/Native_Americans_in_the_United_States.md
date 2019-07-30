@@ -11,7 +11,7 @@ Background
 
 Since the end of the 15th century, the migration of Europeans to the Americas has led to centuries of population, cultural, and agricultural transfer and adjustment between Old and New World societies, a process known as the Columbian exchange. As most Native American groups had historically preserved their histories by oral traditions and artwork, the first written sources of the conflict were written by Europeans.[3]
 
-Nordamerikanische_Kulturareale_en.pngs of pre-Columbian North America, according to Alfred Kroeber]] Ethnographers commonly classify the indigenous peoples of North America into ten geographical regions with shared cultural traits, called cultural areas.[4] Some scholars combine the Plateau and Great Basin regions into the Intermontane West, some separate Prairie peoples from Great Plains peoples, while some separate Great Lakes tribes from the Northeastern Woodlands. The ten cultural areas are as follows:
+s of pre-Columbian North America, according to Alfred Kroeber]] Ethnographers commonly classify the indigenous peoples of North America into ten geographical regions with shared cultural traits, called cultural areas.[4] Some scholars combine the Plateau and Great Basin regions into the Intermontane West, some separate Prairie peoples from Great Plains peoples, while some separate Great Lakes tribes from the Northeastern Woodlands. The ten cultural areas are as follows:
 
 -   Arctic, including Aleut, Inuit, and Yupik peoples
 -   Subarctic
@@ -41,7 +41,7 @@ History
 
 Settlement of the Americas
 
-Peopling_of_America_through_Beringia.png).]] It is not definitively known how or when the Native Americans first settled the Americas and the present-day United States. The prevailing theory proposes that people migrated from Eurasia across Beringia, a land bridge that connected Siberia to present-day Alaska during the Ice Age, and then spread southward throughout the Americas over the subsequent generations. Genetic evidence suggests at least three waves of migrants arrived from Asia, with the first occurring at least 15 thousand years ago.[25] These migrations may have begun as early as 30,000 years ago[26] and continued through to about 10,000 years ago, when the land bridge became submerged by the rising sea level caused by the ending of the last glacial period.[27] These early inhabitants, called Paleoamericans, soon diversified into many hundreds of culturally distinct nations and tribes.
+).]] It is not definitively known how or when the Native Americans first settled the Americas and the present-day United States. The prevailing theory proposes that people migrated from Eurasia across Beringia, a land bridge that connected Siberia to present-day Alaska during the Ice Age, and then spread southward throughout the Americas over the subsequent generations. Genetic evidence suggests at least three waves of migrants arrived from Asia, with the first occurring at least 15 thousand years ago.[25] These migrations may have begun as early as 30,000 years ago[26] and continued through to about 10,000 years ago, when the land bridge became submerged by the rising sea level caused by the ending of the last glacial period.[27] These early inhabitants, called Paleoamericans, soon diversified into many hundreds of culturally distinct nations and tribes.
 
 Pre-Columbian era
 
@@ -55,7 +55,7 @@ Numerous Paleoindian cultures occupied North America, with some arrayed around t
 
 The Clovis culture, a megafauna hunting culture, is primarily identified by the use of fluted spear points. Artifacts from this culture were first excavated in 1932 near Clovis, New Mexico. The Clovis culture ranged over much of North America and also appeared in South America. The culture is identified by the distinctive Clovis point, a flaked flint spear-point with a notched flute, by which it was inserted into a shaft. Dating of Clovis materials has been by association with animal bones and by the use of carbon dating methods. Recent reexaminations of Clovis materials using improved carbon-dating methods produced results of 11,050 and 10,800 radiocarbon years B.P. (roughly 9100 to 8850 BCE).[30]
 
-Folsom_point.png for a spear]] The Folsom Tradition was characterized by the use of Folsom points as projectile tips and activities known from kill sites, where slaughter and butchering of bison took place. Folsom tools were left behind between 9000 BCE and 8000 BCE.[31]
+for a spear]] The Folsom Tradition was characterized by the use of Folsom points as projectile tips and activities known from kill sites, where slaughter and butchering of bison took place. Folsom tools were left behind between 9000 BCE and 8000 BCE.[31]
 
 Na-Dené-speaking peoples entered North America starting around 8000 BCE, reaching the Pacific Northwest by 5000 BCE,[32] and from there migrating along the Pacific Coast and into the interior. Linguists, anthropologists, and archaeologists believe their ancestors comprised a separate migration into North America, later than the first Paleo-Indians. They migrated into Alaska and northern Canada, south along the Pacific Coast, into the interior of Canada, and south to the Great Plains and the American Southwest. Na-Dené-speaking peoples were the earliest ancestors of the Athabascan-speaking peoples, including the present-day and historical Navajo and Apache. They constructed large multi-family dwellings in their villages, which were used seasonally. People did not live there year-round, but for the summer to hunt and fish, and to gather food supplies for the winter.[33]
 
@@ -69,7 +69,7 @@ Poverty Point culture is a Late Archaic archaeological culture that inhabited th
 
 Post-archaic period
 
-Shriver_Circle_&_Mound_City_solstice_sunrise_HRoe_2019sm.jpg Shriver Circle with the Mound City Group to the left]] Cahokia_Aerial_HRoe_2015.jpg, the largest Mississippian culture site]] The Formative, Classic and post-Classic stages are sometimes incorporated together as the Post-archaic period, which runs from 1000 BCE onward.[37] Sites & cultures include: Adena, Old Copper, Oasisamerica, Woodland, Fort Ancient, Hopewell tradition and Mississippian cultures.
+Shriver Circle with the Mound City Group to the left]] , the largest Mississippian culture site]] The Formative, Classic and post-Classic stages are sometimes incorporated together as the Post-archaic period, which runs from 1000 BCE onward.[37] Sites & cultures include: Adena, Old Copper, Oasisamerica, Woodland, Fort Ancient, Hopewell tradition and Mississippian cultures.
 
 The Woodland period of North American pre-Columbian cultures refers to the time period from roughly 1000 BCE to 1000 CE in the eastern part of North America. The Eastern Woodlands cultural region covers what is now eastern Canada south of the Subarctic region, the Eastern United States, along to the Gulf of Mexico.[38] The Hopewell tradition describes the common aspects of the culture that flourished along rivers in the northeastern and midwestern United States from 100 BCE to 500 CE, in the Middle Woodland period. The Hopewell tradition was not a single culture or society, but a widely dispersed set of related populations. They were connected by a common network of trade routes,[39][40] This period is considered a developmental stage without any massive changes in a short period, but instead having a continuous development in stone and bone tools, leather working, textile manufacture, tool production, cultivation, and shelter construction.[41]
 
@@ -81,7 +81,7 @@ Numerous pre-Columbian societies were sedentary, such as the Pueblo peoples, Man
 
 European exploration and colonization
 
-Discovery_of_the_Mississippi.jpg (1823–1879) is a Romantic depiction of Spanish explorer de Soto's seeing the Mississippi River for the first time. It hangs in the United States Capitol rotunda.]] After 1492, European exploration and colonization of the Americas revolutionized how the Old and New Worlds perceived themselves. Many of the first major contacts were in Florida and the Gulf coast by Spanish explorers.[52]
+(1823–1879) is a Romantic depiction of Spanish explorer de Soto's seeing the Mississippi River for the first time. It hangs in the United States Capitol rotunda.]] After 1492, European exploration and colonization of the Americas revolutionized how the Old and New Worlds perceived themselves. Many of the first major contacts were in Florida and the Gulf coast by Spanish explorers.[52]
 
 Impact on native populations
 
@@ -95,7 +95,7 @@ Through the mid-17th century the Beaver Wars were fought over the fur trade betw
 
 In 1727, the Sisters of the Order of Saint Ursula founded Ursuline Academy in New Orleans, which is currently the oldest continuously operating school for girls and the oldest Catholic school in the United States. From the time of its foundation, it offered the first classes for Native American girls, and would later offer classes for female African-American slaves and free women of color.
 
-Six_Nations_survivors_of_War_of_1812.jpg warriors who fought with the British in the War of 1812]] Between 1754 and 1763, many Native American tribes were involved in the French and Indian War/Seven Years' War. Those involved in the fur trade tended to ally with French forces against British colonial militias. The British had made fewer allies, but it was joined by some tribes that wanted to prove assimilation and loyalty in support of treaties to preserve their territories. They were often disappointed when such treaties were later overturned. The tribes had their own purposes, using their alliances with the European powers to battle traditional Native enemies. Some Iroquois who were loyal to the British, and helped them fight in the American Revolution, fled north into Canada.
+warriors who fought with the British in the War of 1812]] Between 1754 and 1763, many Native American tribes were involved in the French and Indian War/Seven Years' War. Those involved in the fur trade tended to ally with French forces against British colonial militias. The British had made fewer allies, but it was joined by some tribes that wanted to prove assimilation and loyalty in support of treaties to preserve their territories. They were often disappointed when such treaties were later overturned. The tribes had their own purposes, using their alliances with the European powers to battle traditional Native enemies. Some Iroquois who were loyal to the British, and helped them fight in the American Revolution, fled north into Canada.
 
 After European explorers reached the West Coast in the 1770s, smallpox rapidly killed at least 30% of Northwest Coast Native Americans. For the next eighty to one hundred years, smallpox and other diseases devastated native populations in the region.[75] Puget Sound area populations, once estimated as high as 37,000 people, were reduced to only 9,000 survivors by the time settlers arrived en masse in the mid-19th century.[76]
 
@@ -115,11 +115,11 @@ King Philip's War, also called Metacom's War or Metacom's Rebellion, was the las
 
 Natural society
 
-Treaty_of_Penn_with_Indians_by_Benjamin_West.jpg'' by Benjamin West, painted in 1771]] Some European philosophers considered Native American societies to be truly "natural" and representative of a golden age known to them only in folk history.[84]
+'' by Benjamin West, painted in 1771]] Some European philosophers considered Native American societies to be truly "natural" and representative of a golden age known to them only in folk history.[84]
 
 American Revolution
 
-Tomo-chi-chi_and_other_Yamacraws_Native_Americans.jpg Native Americans meet with the Trustee of the colony of Georgia in England, July 1734. The painting shows a Native American boy (in a blue coat) and woman (in a red dress) in European clothing.]]
+Native Americans meet with the Trustee of the colony of Georgia in England, July 1734. The painting shows a Native American boy (in a blue coat) and woman (in a red dress) in European clothing.]]
 
 During the American Revolution, the newly proclaimed United States competed with the British for the allegiance of Native American nations east of the Mississippi River. Most Native Americans who joined the struggle sided with the British, based both on their trading relationships and hopes that colonial defeat would result in a halt to further colonial expansion onto Native American land. The first native community to sign a treaty with the new United States Government was the Lenape.
 
@@ -140,7 +140,7 @@ United States policy toward Native Americans continued to evolve after the Ameri
 5.  presidential authority to give presents
 6.  punishing those who violated Native American rights.[87]
 
-Benjamin_Hawkins_and_the_Creek_Indians.jpg, seen here on his plantation, teaches Creek Native Americans how to use European technology, painted in 1805]] In the late 18th century, reformers starting with Washington and Knox,[88] supported educating native children and adults, in efforts to "civilize" or otherwise assimilate Native Americans to the larger society (as opposed to relegating them to reservations). The Civilization Fund Act of 1819 promoted this civilization policy by providing funding to societies (mostly religious) who worked on Native American improvement.[89]
+, seen here on his plantation, teaches Creek Native Americans how to use European technology, painted in 1805]] In the late 18th century, reformers starting with Washington and Knox,[88] supported educating native children and adults, in efforts to "civilize" or otherwise assimilate Native Americans to the larger society (as opposed to relegating them to reservations). The Civilization Fund Act of 1819 promoted this civilization policy by providing funding to societies (mostly religious) who worked on Native American improvement.[89]
 
 19th century
 
@@ -148,7 +148,7 @@ The population of California Indians was reduced by 90% during the 19th century�
 
 Westward expansion
 
-Tecumseh02.jpg was the Shawnee leader of Tecumseh's War who attempted to organize an alliance of Native American tribes throughout North America.[95]]] As American expansion continued, Native Americans resisted settlers' encroachment in several regions of the new nation (and in unorganized territories), from the Northwest to the Southeast, and then in the West, as settlers encountered the Native American tribes of the Great Plains. East of the Mississippi River, an intertribal army led by Tecumseh, a Shawnee chief, fought a number of engagements in the Northwest during the period 1811–12, known as Tecumseh's War. During the War of 1812, Tecumseh's forces allied themselves with the British. After Tecumseh's death, the British ceased to aid the Native Americans south and west of Upper Canada and American expansion proceeded with little resistance. Conflicts in the Southeast include the Creek War and Seminole Wars, both before and after the Indian Removals of most members of the Five Civilized Tribes.
+was the Shawnee leader of Tecumseh's War who attempted to organize an alliance of Native American tribes throughout North America.[95]]] As American expansion continued, Native Americans resisted settlers' encroachment in several regions of the new nation (and in unorganized territories), from the Northwest to the Southeast, and then in the West, as settlers encountered the Native American tribes of the Great Plains. East of the Mississippi River, an intertribal army led by Tecumseh, a Shawnee chief, fought a number of engagements in the Northwest during the period 1811–12, known as Tecumseh's War. During the War of 1812, Tecumseh's forces allied themselves with the British. After Tecumseh's death, the British ceased to aid the Native Americans south and west of Upper Canada and American expansion proceeded with little resistance. Conflicts in the Southeast include the Creek War and Seminole Wars, both before and after the Indian Removals of most members of the Five Civilized Tribes.
 
 In the 1830s, President Andrew Jackson signed the Indian Removal Act of 1830, a policy of relocating Indians from their homelands to Indian Territory and reservations in surrounding areas to open their lands for non-native settlements.The "Indian Homestead Act" of 1871 or the Dawes Act stated:
 
@@ -156,15 +156,15 @@ In the 1830s, President Andrew Jackson signed the Indian Removal Act of 1830, a 
 
 This resulted in the Trail of Tears.
 
-Woundedknee1891.jpg, which took place during the Indian Wars in the 19th century]] In July 1845, the New York newspaper editor John L. O'Sullivan coined the phrase, "Manifest Destiny", as the "design of Providence" supporting the territorial expansion of the United States.[96] Manifest Destiny had serious consequences for Native Americans, since continental expansion for the United States took place at the cost of their occupied land.[97] A justification for the policy of conquest and subjugation of the indigenous people emanated from the stereotyped perceptions of all Native Americans as "merciless Indian savages" (as described in the United States Declaration of Independence).[98] The Indian Appropriations Act of 1851 set the precedent for modern-day Native American reservations through allocating funds to move western tribes onto reservations since there were no more lands available for relocation.
+, which took place during the Indian Wars in the 19th century]] In July 1845, the New York newspaper editor John L. O'Sullivan coined the phrase, "Manifest Destiny", as the "design of Providence" supporting the territorial expansion of the United States.[96] Manifest Destiny had serious consequences for Native Americans, since continental expansion for the United States took place at the cost of their occupied land.[97] A justification for the policy of conquest and subjugation of the indigenous people emanated from the stereotyped perceptions of all Native Americans as "merciless Indian savages" (as described in the United States Declaration of Independence).[98] The Indian Appropriations Act of 1851 set the precedent for modern-day Native American reservations through allocating funds to move western tribes onto reservations since there were no more lands available for relocation.
 
 Native American nations on the plains in the west continued armed conflicts with the U.S. throughout the 19th century, through what were called generally Indian Wars.[99] Notable conflicts in this period include the Dakota War, Great Sioux War, Snake War, Colorado War, and Texas-Indian Wars. Expressing the frontier anti-Indian sentiment, Theodore Roosevelt believed the Indians were destined to vanish under the pressure of white civilization, stating in an 1886 lecture:
 
-Ghost_dance.jpg ritual, which the Lakota believed would reunite the living with spirits of the dead, cause the white invaders to vanish, and bring peace, prosperity, and unity to Indian peoples throughout the region]] One of the last and most notable events during the Indian wars was the Wounded Knee Massacre in 1890.[100] In the years leading up to it the U.S. government had continued to seize Lakota lands. A Ghost Dance ritual on the Northern Lakota reservation at Wounded Knee, South Dakota, led to the U.S. Army's attempt to subdue the Lakota. The dance was part of a religious movement founded by the Northern Paiute spiritual leader Wovoka that told of the return of the Messiah to relieve the suffering of Native Americans and promised that if they would live righteous lives and perform the Ghost Dance properly, the European American colonists would vanish, the bison would return, and the living and the dead would be reunited in an Edenic world.[101] On December 29 at Wounded Knee, gunfire erupted, and U.S. soldiers killed up to 300 Indians, mostly old men, women, and children.[102]
+ritual, which the Lakota believed would reunite the living with spirits of the dead, cause the white invaders to vanish, and bring peace, prosperity, and unity to Indian peoples throughout the region]] One of the last and most notable events during the Indian wars was the Wounded Knee Massacre in 1890.[100] In the years leading up to it the U.S. government had continued to seize Lakota lands. A Ghost Dance ritual on the Northern Lakota reservation at Wounded Knee, South Dakota, led to the U.S. Army's attempt to subdue the Lakota. The dance was part of a religious movement founded by the Northern Paiute spiritual leader Wovoka that told of the return of the Messiah to relieve the suffering of Native Americans and promised that if they would live righteous lives and perform the Ghost Dance properly, the European American colonists would vanish, the bison would return, and the living and the dead would be reunited in an Edenic world.[101] On December 29 at Wounded Knee, gunfire erupted, and U.S. soldiers killed up to 300 Indians, mostly old men, women, and children.[102]
 
 Civil War
 
-Ely_S._Parker.jpg was a Union Civil War General who wrote the terms of surrender between the United States and the Confederate States of America.[103]]]
+was a Union Civil War General who wrote the terms of surrender between the United States and the Confederate States of America.[103]]]
 
 Native Americans served in both the Union and Confederate military during the American Civil War. At the outbreak of the war, for example, the minority party of the Cherokees gave its allegiance to the Confederacy, while originally the majority party went for the North.[104] Native Americans fought knowing they might jeopardize their independence, unique cultures, and ancestral lands if they ended up on the losing side of the Civil War.[105][106] 28,693 Native Americans served in the Union and Confederate armies during the Civil War, participating in battles such as Pea Ridge, Second Manassas, Antietam, Spotsylvania, Cold Harbor, and in Federal assaults on Petersburg.[107][108] A few Native American tribes, such as the Creek and the Choctaw, were slaveholders and found a political and economic commonality with the Confederacy.[109] The Choctaw owned over 2,000 slaves.[110]
 
@@ -206,7 +206,7 @@ Since the rise of self-determination for Native Americans, they have generally e
 
 20th century
 
-Charles_Curtis-portrait.jpg, of Kaw, Osage, Potawatomi, French and British ancestry from Kansas, was 31st Vice President of the United States, 1929–1933, serving with Herbert Hoover.]] On August 29, 1911, Ishi, generally considered to have been the last Native American to live most of his life without contact with European-American culture, was discovered near Oroville, California.[126][127][128]
+, of Kaw, Osage, Potawatomi, French and British ancestry from Kansas, was 31st Vice President of the United States, 1929–1933, serving with Herbert Hoover.]] On August 29, 1911, Ishi, generally considered to have been the last Native American to live most of his life without contact with European-American culture, was discovered near Oroville, California.[126][127][128]
 
 In 1919, the United States under President Woodrow Wilson granted citizenship to all Native Americans who had served in World War I. Nearly 10,000 men had enlisted and served, a high number in relation to their population.[129] Despite this, in many areas Native Americans faced local resistance when they tried to vote and were discriminated against with barriers to voter registration.
 
@@ -222,7 +222,7 @@ The census counted 332,000 Indians in 1930 and 334,000 in 1940, including those 
 
 World War II
 
-General_douglas_macarthur_meets_american_indian_troops_wwii_military_pacific_navajo_pima_island_hopping.JPG meeting Navajo, Pima, Pawnee and other Native American troops]]
+meeting Navajo, Pima, Pawnee and other Native American troops]]
 
 Some 44,000 Native Americans served in the United States military during World War II: at the time, one-third of all able-bodied Indian men from eighteen to fifty years of age.[135] Described as the first large-scale exodus of indigenous peoples from the reservations since the removals of the 19th century, the men's service with the U.S. military in the international conflict was a turning point in Native American history. The overwhelming majority of Native Americans welcomed the opportunity to serve; they had a voluntary enlistment rate that was 40% higher than those drafted.[136]
 
@@ -244,13 +244,13 @@ In 1968, the government enacted the Indian Civil Rights Act. This gave tribal me
 
 Tribal colleges
 
-Navajo_Cowboy-1.jpg man on horseback in Monument Valley, Arizona, United States]] Navajo Community College, now called Diné College, the first tribal college, was founded in Tsaile, Arizona, in 1968 and accredited in 1979. Tensions immediately arose between two philosophies: one that the tribal colleges should have the same criteria, curriculum and procedures for educational quality as mainstream colleges, the other that the faculty and curriculum should be closely adapted to the particular historical culture of the tribe. There was a great deal of turnover, exacerbated by very tight budgets.[143] In 1994, the U.S. Congress passed legislation recognizing the tribal colleges as land-grant colleges, which provided opportunities for large-scale funding. Thirty-two tribal colleges in the United States belong to the American Indian Higher Education Consortium. By the early 21st century, tribal nations had also established numerous language revival programs in their schools.
+man on horseback in Monument Valley, Arizona, United States]] Navajo Community College, now called Diné College, the first tribal college, was founded in Tsaile, Arizona, in 1968 and accredited in 1979. Tensions immediately arose between two philosophies: one that the tribal colleges should have the same criteria, curriculum and procedures for educational quality as mainstream colleges, the other that the faculty and curriculum should be closely adapted to the particular historical culture of the tribe. There was a great deal of turnover, exacerbated by very tight budgets.[143] In 1994, the U.S. Congress passed legislation recognizing the tribal colleges as land-grant colleges, which provided opportunities for large-scale funding. Thirty-two tribal colleges in the United States belong to the American Indian Higher Education Consortium. By the early 21st century, tribal nations had also established numerous language revival programs in their schools.
 
 In addition, Native American activism has led major universities across the country to establish Native American studies programs and departments, increasing awareness of the strengths of Indian cultures, providing opportunities for academics, and deepening research on history and cultures in the United States. Native Americans have entered academia; journalism and media; politics at local, state and federal levels; and public service, for instance, influencing medical research and policy to identify issues related to American Indians.
 
 21st century
 
-Byron_Mallott_inaugural_speech.jpg, an Alaska Native, is the former Democratic lieutenant governor of Alaska.]] In 2009, an "apology to Native Peoples of the United States" was included in the Defense Appropriations Act. It stated that the U.S. "apologizes on behalf of the people of the United States to all Native Peoples for the many instances of violence, maltreatment, and neglect inflicted on Native Peoples by citizens of the United States".[144]
+, an Alaska Native, is the former Democratic lieutenant governor of Alaska.]] In 2009, an "apology to Native Peoples of the United States" was included in the Defense Appropriations Act. It stated that the U.S. "apologizes on behalf of the people of the United States to all Native Peoples for the many instances of violence, maltreatment, and neglect inflicted on Native Peoples by citizens of the United States".[144]
 
 In 2013, jurisdiction over persons who were not tribal members under the Violence Against Women Act was extended to Indian Country. This closed a gap which prevented arrest or prosecution by tribal police or courts of abusive partners of tribal members who were not native or from another tribe.[145][146]
 
@@ -339,7 +339,7 @@ As of 2012, 70% of Native Americans live in urban areas, up from 45% in 1970 and
 
 Distribution by U.S. state
 
-Americanindiansmapcensusbureau.gif, as of 2000. Note the concentration (blue) in modern-day Oklahoma in the South West, which was once designated as an Indian Territory before statehood in 1907.]] According to 2003 United States Census Bureau estimates, a little over one third of the 2,786,652 Native Americans in the United States live in three states: California at 413,382, Arizona at 294,137 and Oklahoma at 279,559.[158]
+, as of 2000. Note the concentration (blue) in modern-day Oklahoma in the South West, which was once designated as an Indian Territory before statehood in 1907.]] According to 2003 United States Census Bureau estimates, a little over one third of the 2,786,652 Native Americans in the United States live in three states: California at 413,382, Arizona at 294,137 and Oklahoma at 279,559.[158]
 
 In 2010, the U.S. Census Bureau estimated that about 0.8% of the U.S. population was of American Indian or Alaska Native descent. This population is unevenly distributed across the country.[159] Below, all fifty states, as well as the District of Columbia and Puerto Rico, are listed by the proportion of residents citing American Indian or Alaska Native ancestry, based on the 2010 U.S. Census.[160]
 
@@ -481,7 +481,7 @@ Below are numbers for U.S. citizens self-identifying to selected tribal grouping
 
 Tribal sovereignty
 
-Bia-map-indian-reservations-usa.png There are 573 federally recognized tribal governments[164] in the United States. These tribes possess the right to form their own governments, to enforce laws (both civil and criminal) within their lands, to tax, to establish requirements for membership, to license and regulate activities, to zone, and to exclude persons from tribal territories. Limitations on tribal powers of self-government include the same limitations applicable to states; for example, neither tribes nor states have the power to make war, engage in foreign relations, or coin money (this includes paper currency).[165]
+There are 573 federally recognized tribal governments[164] in the United States. These tribes possess the right to form their own governments, to enforce laws (both civil and criminal) within their lands, to tax, to establish requirements for membership, to license and regulate activities, to zone, and to exclude persons from tribal territories. Limitations on tribal powers of self-government include the same limitations applicable to states; for example, neither tribes nor states have the power to make war, engage in foreign relations, or coin money (this includes paper currency).[165]
 
 Many Native Americans and advocates of Native American rights point out that the U.S. federal government's claim to recognize the "sovereignty" of Native American peoples falls short, given that the United States wishes to govern Native American peoples and treat them as subject to U.S. law.[166] Such advocates contend that full respect for Native American sovereignty would require the U.S. government to deal with Native American peoples in the same manner as any other sovereign nation, handling matters related to relations with Native Americans through the Secretary of State, rather than the Bureau of Indian Affairs. The Bureau of Indian Affairs reports on its website that its "responsibility is the administration and management of of land held in trust by the United States for American Indians, Indian tribes, and Alaska Natives".[167] Many Native Americans and advocates of Native American rights believe that it is condescending for such lands to be considered "held in trust" and regulated in any fashion by other than their own tribes, whether the U.S. or Canadian governments, or any other non-Native American authority.
 
@@ -491,7 +491,7 @@ In addition, there are a number of tribes that are recognized by individual stat
 
 Some tribal groups have been unable to document the cultural continuity required for federal recognition. The Muwekma Ohlone of the San Francisco bay area are pursuing litigation in the federal court system to establish recognition.[169] Many of the smaller eastern tribes, long considered remnants of extinct peoples, have been trying to gain official recognition of their tribal status. Several tribes in Virginia and North Carolina have gained state recognition. Federal recognition confers some benefits, including the right to label arts and crafts as Native American and permission to apply for grants that are specifically reserved for Native Americans. But gaining federal recognition as a tribe is extremely difficult; to be established as a tribal group, members have to submit extensive genealogical proof of tribal descent and continuity of the tribe as a culture.
 
-Abandoned_Mines_Shiprock_2009.jpg on or near their lands.]] In July 2000, the Washington State Republican Party adopted a resolution recommending that the federal and legislative branches of the U.S. government terminate tribal governments.[170] In 2007, a group of Democratic Party congressmen and congresswomen introduced a bill in the U.S. House of Representatives to "terminate" the Cherokee Nation.[171] This was related to their voting to exclude Cherokee Freedmen as members of the tribe unless they had a Cherokee ancestor on the Dawes Rolls, although all Cherokee Freedmen and their descendants had been members since 1866.
+on or near their lands.]] In July 2000, the Washington State Republican Party adopted a resolution recommending that the federal and legislative branches of the U.S. government terminate tribal governments.[170] In 2007, a group of Democratic Party congressmen and congresswomen introduced a bill in the U.S. House of Representatives to "terminate" the Cherokee Nation.[171] This was related to their voting to exclude Cherokee Freedmen as members of the tribe unless they had a Cherokee ancestor on the Dawes Rolls, although all Cherokee Freedmen and their descendants had been members since 1866.
 
 As of 2004, various Native Americans are wary of attempts by others to gain control of their reservation lands for natural resources, such as coal and uranium in the West.[172][173]
 
@@ -506,7 +506,7 @@ To achieve federal recognition and its benefits, tribes must prove continuous ex
 
 Civil rights movement
 
-Bia-sit-in.jpg The Civil Rights Movement was a very significant moment for the rights of Native Americans and other people of color. Native Americans faced racism and prejudice for hundreds of years, and this increased after the American Civil War. Native Americans like African Americans were subjected to the Jim Crow Laws and segregation in the Deep South especially after they were made citizens through the Indian Citizenship Act of 1924. As a body of law, Jim Crow institutionalized economic, educational, and social disadvantages for Native Americans, and other people of color living in the south.[177][178][179] Native American identity was especially targeted by a system that only wanted to recognize white or colored, and the government began to question the legitimacy of some tribes because they had intermarried with African Americans.[180][181] Native Americans were also discriminated and discouraged from voting in the southern and western states.[182]
+The Civil Rights Movement was a very significant moment for the rights of Native Americans and other people of color. Native Americans faced racism and prejudice for hundreds of years, and this increased after the American Civil War. Native Americans like African Americans were subjected to the Jim Crow Laws and segregation in the Deep South especially after they were made citizens through the Indian Citizenship Act of 1924. As a body of law, Jim Crow institutionalized economic, educational, and social disadvantages for Native Americans, and other people of color living in the south.[177][178][179] Native American identity was especially targeted by a system that only wanted to recognize white or colored, and the government began to question the legitimacy of some tribes because they had intermarried with African Americans.[180][181] Native Americans were also discriminated and discouraged from voting in the southern and western states.[182]
 
 In the south segregation was a major problem for Native Americans seeking education, but the NAACP's legal strategy would later change this.[183] Movements such as Brown v. Board of Education was a major victory for the Civil Rights Movement headed by the NAACP, and inspired Native Americans to start participating in the Civil Rights Movement.[184][185] Dr. Martin Luther King Jr. began assisting Native Americans in the south in the late 1950s after they reached out to him.[186] At that time the remaining Creek in Alabama were trying to completely desegregate schools in their area. In this case, light-complexioned Native children were allowed to ride school buses to previously all white schools, while dark-skinned Native children from the same band were barred from riding the same buses.[187] Tribal leaders, upon hearing of King's desegregation campaign in Birmingham, Alabama, contacted him for assistance. He promptly responded and through his intervention the problem was quickly resolved.[188] Dr. King would later make trips to Arizona visiting Native Americans on reservations, and in churches encouraging them to be involved in the Civil Rights Movement.[189] In King's book "Why We Can't Wait" he writes:
 
@@ -523,7 +523,7 @@ Recent studies also point to rising rates of stroke,[204] heart disease,[205] an
 
 Societal discrimination and racism
 
-No_beer_sold_to_indians.jpg sign posted above a bar. Birney, Montana, 1941]] Eight_Crow_prisoners_under_guard_at_Crow_agency,_Montana,_1887_-_NARA_-_531126.jpg
+sign posted above a bar. Birney, Montana, 1941]]
 
 In a study conducted in 2006–2007, non-Native Americans admitted they rarely encountered Native Americans in their daily lives. While sympathetic toward Native Americans and expressing regret over the past, most people had only a vague understanding of the problems facing Native Americans today. For their part, Native Americans told researchers that they believed they continued to face prejudice, mistreatment, and inequality in the broader society.[207]
 
@@ -537,13 +537,13 @@ The difficulties that Native Americans face in the workforce, for example, a lac
 
 Native American mascots in sports
 
-NotYourMascot2.jpg in Minneapolis, November 2014]]
+in Minneapolis, November 2014]]
 
 American Indian activists in the United States and Canada have criticized the use of Native American mascots in sports, as perpetuating stereotypes. This is considered cultural appropriation. There has been a steady decline in the number of secondary school and college teams using such names, images, and mascots. Some tribal team names have been approved by the tribe in question, such as the Seminole Tribe of Florida's approving use of their name for the teams of Florida State University.[215][216] Among professional teams, only the NBA's Golden State Warriors discontinued use of Native American-themed logos in 1971. Controversy has remained regarding teams such as the NFL's Washington Redskins, whose name is considered to be a racial slur,[217] and MLB's Cleveland Indians, whose usage of a caricature called Chief Wahoo has also faced protest.[218][219]
 
 Historical depictions in art
 
-North_carolina_algonkin-rituale02.jpg Indians' dance in North Carolina''. Watercolor by John White, 1585]] Native Americans have been depicted by American artists in various ways at different periods. A number of 19th- and 20th-century United States and Canadian painters, often motivated by a desire to document and preserve Native culture, specialized in Native American subjects. Among the most prominent of these were Elbridge Ayer Burbank, George Catlin, Seth Eastman, Paul Kane, W. Langdon Kihn, Charles Bird King, Joseph Henry Sharp, and John Mix Stanley.
+Indians' dance in North Carolina''. Watercolor by John White, 1585]] Native Americans have been depicted by American artists in various ways at different periods. A number of 19th- and 20th-century United States and Canadian painters, often motivated by a desire to document and preserve Native culture, specialized in Native American subjects. Among the most prominent of these were Elbridge Ayer Burbank, George Catlin, Seth Eastman, Paul Kane, W. Langdon Kihn, Charles Bird King, Joseph Henry Sharp, and John Mix Stanley.
 
 In the 20th century, early portrayals of Native Americans in movies and television roles were first performed by European Americans dressed in mock traditional attire. Examples included _The Last of the Mohicans_ (1920), _Hawkeye and the Last of the Mohicans_ (1957), and _F Troop_ (1965–67). In later decades, Native American actors such as Jay Silverheels in _The Lone Ranger_ television series (1949–57) came to prominence. Roles of Native Americans were limited and not reflective of Native American culture. By the 1970s some Native American film roles began to show more complexity, such as those in _Little Big Man_ (1970), _Billy Jack_ (1971), and _The Outlaw Josey Wales_ (1976), which depicted Native Americans in minor supporting roles.
 
@@ -563,7 +563,7 @@ A 1995 U.S. Census Bureau survey found that more Native Americans in the United 
 
 Gambling industry
 
-Sandia_Casino,_detail.jpg of New Mexico]] Gambling has become a leading industry. Casinos operated by many Native American governments in the United States are creating a stream of gambling revenue that some communities are beginning to leverage to build diversified economies.[226] Although many Native American tribes have casinos, the impact of Native American gaming is widely debated. Some tribes, such as the Winnemem Wintu of Redding, California, feel that casinos and their proceeds destroy culture from the inside out. These tribes refuse to participate in the gambling industry.
+of New Mexico]] Gambling has become a leading industry. Casinos operated by many Native American governments in the United States are creating a stream of gambling revenue that some communities are beginning to leverage to build diversified economies.[226] Although many Native American tribes have casinos, the impact of Native American gaming is widely debated. Some tribes, such as the Winnemem Wintu of Redding, California, feel that casinos and their proceeds destroy culture from the inside out. These tribes refuse to participate in the gambling industry.
 
 Financial services
 
@@ -588,7 +588,7 @@ The barriers to economic development on Native American reservations have been i
 -   Reservations lack effective planning
 -   Reservations are poor in natural resources
 -   Reservations have natural resources, but lack sufficient control over them
--   Reservations are disadvantaged by their distance from markets and the high costs of transportation(Teacher_with_picture_cards_giving_English_instruction_to_Navajo_day_school_students.)_-_NARA_-_295158.tif
+-   Reservations are disadvantaged by their distance from markets and the high costs of transportation
 -   Tribes cannot persuade investors to locate on reservations because of intense competition from non-Native American communities
 -   The Bureau of Indian Affairs is inept, corrupt or uninterested in reservation development
 -   Tribal politicians and bureaucrats are inept or corrupt
@@ -632,7 +632,7 @@ American Indian youth have higher rates of substance and alcohol abuse deaths th
 
 Society, language, and culture
 
-Warm_Springs.jpg The culture of Pre-Columbian North America is usually defined by the concept of the culture area, namely a geographical region where shared cultural traits occur. The northwest culture area, for example shared common traits such as salmon fishing, woodworking, and large villages or towns and a hierarchical social structure.[275]
+The culture of Pre-Columbian North America is usually defined by the concept of the culture area, namely a geographical region where shared cultural traits occur. The northwest culture area, for example shared common traits such as salmon fishing, woodworking, and large villages or towns and a hierarchical social structure.[275]
 
 Though cultural features, language, clothing, and customs vary enormously from one tribe to another, there are certain elements which are encountered frequently and shared by many tribes. Early European American scholars described the Native Americans as having a society dominated by clans.[276]
 
@@ -646,21 +646,19 @@ In the early years, as these native peoples encountered European explorers and s
 
 Ethno-linguistic classification
 
-Langs_N.Amer.png
-
 The Na-Dené, Algic, and Uto-Aztecan families are the largest in terms of number of languages. Uto-Aztecan has the most speakers (1.95 million) if the languages in Mexico are considered (mostly due to 1.5 million speakers of Nahuatl); Na-Dené comes in second with approximately 200,000 speakers (nearly 180,000 of these are speakers of Navajo), and Algic in third with about 180,000 speakers (mainly Cree and Ojibwe). Na-Dené and Algic have the widest geographic distributions: Algic currently spans from northeastern Canada across much of the continent down to northeastern Mexico (due to later migrations of the Kickapoo) with two outliers in California (Yurok and Wiyot); Na-Dené spans from Alaska and western Canada through Washington, Oregon, and California to the U.S. Southwest and northern Mexico (with one outlier in the Plains). Several families consist of only 2 or 3 languages. Demonstrating genetic relationships has proved difficult due to the great linguistic diversity present in North America. Two large (super-) family proposals, Penutian and Hokan, look particularly promising. However, even after decades of research, a large number of families remain.
 
 A number of English words have been derived from Native American languages.
 
 Language education
 
-Cherokeeclass.png Cherokee language immersion school student writing in the Cherokee syllabary.]] CherokeeKituwahAcademy.png, at New Kituwah Academy]] To counteract a shift to English, some Native American tribes have initiated language immersion schools for children, where a native Indian language is the medium of instruction. For example, the Cherokee Nation initiated a 10-year language preservation plan that involved raising new fluent speakers of the Cherokee language from childhood on up through school immersion programs as well as a collaborative community effort to continue to use the language at home.[281] This plan was part of an ambitious goal that, in 50 years, will result in 80% or more of the Cherokee people being fluent in the language.[282] The Cherokee Preservation Foundation has invested $3 million in opening schools, training teachers, and developing curricula for language education, as well as initiating community gatherings where the language can be actively used.[283] Formed in 2006, the Kituwah Preservation & Education Program (KPEP) on the Qualla Boundary focuses on language immersion programs for children from birth to fifth grade, developing cultural resources for the general public and community language programs to foster the Cherokee language among adults.[284]
+Cherokee language immersion school student writing in the Cherokee syllabary.]] , at New Kituwah Academy]] To counteract a shift to English, some Native American tribes have initiated language immersion schools for children, where a native Indian language is the medium of instruction. For example, the Cherokee Nation initiated a 10-year language preservation plan that involved raising new fluent speakers of the Cherokee language from childhood on up through school immersion programs as well as a collaborative community effort to continue to use the language at home.[281] This plan was part of an ambitious goal that, in 50 years, will result in 80% or more of the Cherokee people being fluent in the language.[282] The Cherokee Preservation Foundation has invested $3 million in opening schools, training teachers, and developing curricula for language education, as well as initiating community gatherings where the language can be actively used.[283] Formed in 2006, the Kituwah Preservation & Education Program (KPEP) on the Qualla Boundary focuses on language immersion programs for children from birth to fifth grade, developing cultural resources for the general public and community language programs to foster the Cherokee language among adults.[284]
 
 There is also a Cherokee language immersion school in Tahlequah, Oklahoma, that educates students from pre-school through eighth grade.[285] Because Oklahoma's official language is English, Cherokee immersion students are hindered when taking state-mandated tests because they have little competence in English.[286] The Department of Education of Oklahoma said that in 2012 state tests: 11% of the school's sixth-graders showed proficiency in math, and 25% showed proficiency in reading; 31% of the seventh-graders showed proficiency in math, and 87% showed proficiency in reading; 50% of the eighth-graders showed proficiency in math, and 78% showed proficiency in reading.[287] The Oklahoma Department of Education listed the charter school as a Targeted Intervention school, meaning the school was identified as a low-performing school but has not so that it was a Priority School.[288] Ultimately, the school made a C, or a 2.33 grade point average on the state's A-F report card system.[289] The report card shows the school getting an F in mathematics achievement and mathematics growth, a C in social studies achievement, a D in reading achievement, and an A in reading growth and student attendance.[290] "The C we made is tremendous," said school principal Holly Davis, "[t]here is no English instruction in our school's younger grades, and we gave them this test in English."[291] She said she had anticipated the low grade because it was the school's first year as a state-funded charter school, and many students had difficulty with English.[292] Eighth graders who graduate from the Tahlequah immersion school are fluent speakers of the language, and they usually go on to attend Sequoyah High School where classes are taught in both English and Cherokee.
 
 Traditional diet
 
-Zea_mays.jpg grown by Native Americans]] 1940_govt_photo_minnesota_farming_scene_chippewa_baby_teething_on_magazine_indians_at_work.jpg baby waits on a cradleboard while parents tend rice crops (Minnesota, 1940).]]
+grown by Native Americans]] baby waits on a cradleboard while parents tend rice crops (Minnesota, 1940).]]
 
 The traditional diet of Native Americans was derived from a mixture of agriculture, hunting and the gathering of wild foods. By 800 CE the Native Americans had established three main crops— beans, squash, and maize (or corn) — called the three sisters. Other early crops included cotton, sunflower, pumpkins, tobacco, goosefoot, knotgrass, and sump weed.[293]
 
@@ -676,7 +674,7 @@ Native Americans did plant beans next to corn; the beans would replace the nitro
 
 Europeans in the eastern part of the continent observed that Native Americans cleared large areas for cropland. Their fields in New England sometimes covered hundreds of acres. Colonists in Virginia noted thousands of acres under cultivation by Native Americans.[294]
 
-The_King_of_the_Seas_in_the_Hands_of_the_Makahs_-_1910.jpg Native Americans and a whale, pictured in 1910 by Asahel Curtis. (The photo's title is _The King of the Seas in the Hands of the Makahs_.)]] Native Americans commonly used tools such as the hoe, maul, and dibber. The hoe was the main tool used to till the land and prepare it for planting; then it was used for weeding. The first versions were made out of wood and stone. When the settlers brought iron, Native Americans switched to iron hoes and hatchets. The dibber was a digging stick, used to plant the seed. Once the plants were harvested, women prepared the produce for eating. They used the maul to grind the corn into mash. It was cooked and eaten that way or baked as corn bread.[295]
+Native Americans and a whale, pictured in 1910 by Asahel Curtis. (The photo's title is _The King of the Seas in the Hands of the Makahs_.)]] Native Americans commonly used tools such as the hoe, maul, and dibber. The hoe was the main tool used to till the land and prepare it for planting; then it was used for weeding. The first versions were made out of wood and stone. When the settlers brought iron, Native Americans switched to iron hoes and hatchets. The dibber was a digging stick, used to plant the seed. Once the plants were harvested, women prepared the produce for eating. They used the maul to grind the corn into mash. It was cooked and eaten that way or baked as corn bread.[295]
 
 The Inuit, or Eskimo, prepared and buried large amounts of dried meat and fish. Pacific Northwest tribes crafted seafaring dugouts long for fishing. Farmers in the Eastern Woodlands tended fields of maize with hoes and digging sticks, while their neighbors in the Southeast grew tobacco as well as food crops. On the Plains, some tribes engaged in agriculture but also planned buffalo hunts in which herds were driven over bluffs.
 
@@ -684,7 +682,7 @@ Dwellers of the Southwest deserts hunted small animals and gathered acorns to gr
 
 Religion
 
-Saint_John_Neumann_Catholic_Church_(Sunbury,_Ohio)_-_interior,_statue_of_Saint_Kateri_Tekakwitha.jpg, the patron of ecologists, exiles, and orphans, was canonized by the Catholic Church.]] Baptism_of_Pocahontas.jpg, wearing white, being baptized Rebecca by Anglican minister Alexander Whiteaker (left) in Jamestown, Virginia; this event is believed to have taken place either in 1613 or 1614.]]
+, the patron of ecologists, exiles, and orphans, was canonized by the Catholic Church.]] , wearing white, being baptized Rebecca by Anglican minister Alexander Whiteaker (left) in Jamestown, Virginia; this event is believed to have taken place either in 1613 or 1614.]]
 
 Traditional Native American ceremonies are still practiced by many tribes and bands, and the older theological belief systems are still held by many of the native people. These spiritualities may accompany adherence to another faith, or can represent a person's primary religious identity. While much Native American spiritualism exists in a tribal-cultural continuum, and as such cannot be easily separated from tribal identity itself, certain other more clearly defined movements have arisen among "traditional" Native American practitioners, these being identifiable as "religions" in the prototypical sense familiar in the industrialized Western world.
 
@@ -698,7 +696,7 @@ The eagle feather law (Title 50 Part 22 of the Code of Federal Regulations) stip
 
 Gender roles
 
-Doctor.susan.la.flesche.picotte.jpg was the first Native American woman to become a physician in the United States.]]
+was the first Native American woman to become a physician in the United States.]]
 
 Gender roles are differentiated in many Native American tribes. Many Natives have historically defied colonial expectations of sexuality and gender, and continue to do so in contemporary life.[298]
 
@@ -716,7 +714,7 @@ Lakota, Dakota, and Nakota girls are encouraged to learn to ride, hunt and fight
 
 Sports
 
-Jim_Thorpe_1913b-cr.jpg—gold medalist at the 1912 Olympics, in the pentathlon and decathlon events]] Native American leisure time led to competitive individual and team sports. Jim Thorpe, Joe Hipp, Notah Begay III, Chris Wondolowski, Jacoby Ellsbury, Joba Chamberlain, Kyle Lohse, Sam Bradford, Jack Brisco, Tommy Morrison, Billy Mills, Angel Goodrich, Shoni Schimmel, and Kyrie Irving are well known professional athletes. Ball_players.jpg and Lakota tribe as painted by George Catlin in the 1830s]]
+—gold medalist at the 1912 Olympics, in the pentathlon and decathlon events]] Native American leisure time led to competitive individual and team sports. Jim Thorpe, Joe Hipp, Notah Begay III, Chris Wondolowski, Jacoby Ellsbury, Joba Chamberlain, Kyle Lohse, Sam Bradford, Jack Brisco, Tommy Morrison, Billy Mills, Angel Goodrich, Shoni Schimmel, and Kyrie Irving are well known professional athletes. and Lakota tribe as painted by George Catlin in the 1830s]]
 
 Team sports
 
@@ -726,7 +724,7 @@ The game is played with one or two rackets or sticks and one ball. The object of
 
 Individual sports
 
-Chunkey was a game that consisted of a stone-shaped disk that was about 1–2 inches in diameter. The disk was thrown down a corridor so that it could roll past the players at great speed. The disk would roll down the corridor, and players would throw wooden shafts at the moving disk. The object of the game was to strike the disk or prevent your opponents from hitting it. BillyMills_Crossing_Finish_Line_1964Olympics.jpg crosses the finish line at the end of the 10,000-meter race at the 1964 Tokyo Olympics.]]
+Chunkey was a game that consisted of a stone-shaped disk that was about 1–2 inches in diameter. The disk was thrown down a corridor so that it could roll past the players at great speed. The disk would roll down the corridor, and players would throw wooden shafts at the moving disk. The object of the game was to strike the disk or prevent your opponents from hitting it. crosses the finish line at the end of the 10,000-meter race at the 1964 Tokyo Olympics.]]
 
 U.S. Olympics
 
@@ -746,7 +744,7 @@ Ashton Locklear (Lumbee), an uneven bars specialist was an alternate for the 201
 
 Music
 
-UIATF_Pow_Wow_2009_-_023.jpgr at the Seafair Indian Days Pow-Wow, Daybreak Star Cultural Center, Seattle, Washington]] Jake_fragua_jemez_pueblo.jpg from New Mexico]] Traditional Native American music is almost entirely monophonic, but there are notable exceptions. Native American music often includes drumming or the playing of rattles or other percussion instruments but little other instrumentation. Flutes and whistles made of wood, cane, or bone are also played, generally by individuals, but in former times also by large ensembles (as noted by Spanish conquistador de Soto). The tuning of modern flutes is typically pentatonic.
+r at the Seafair Indian Days Pow-Wow, Daybreak Star Cultural Center, Seattle, Washington]] from New Mexico]] Traditional Native American music is almost entirely monophonic, but there are notable exceptions. Native American music often includes drumming or the playing of rattles or other percussion instruments but little other instrumentation. Flutes and whistles made of wood, cane, or bone are also played, generally by individuals, but in former times also by large ensembles (as noted by Spanish conquistador de Soto). The tuning of modern flutes is typically pentatonic.
 
 Performers with Native American parentage have occasionally appeared in American popular music such as Rita Coolidge, Wayne Newton, Gene Clark, Buffy Sainte-Marie, Blackfoot, Tori Amos, Redbone (members are also of Mexican descent), and CocoRosie. Some, such as John Trudell, have used music to comment on life in Native America. Other musicians such as R. Carlos Nakai, Joanne Shenandoah and Robert "Tree" Cody integrate traditional sounds with modern sounds in instrumental recordings, whereas the music by artist Charles Littleleaf is derived from ancestral heritage as well as nature. A variety of small and medium-sized recording companies offer an abundance of recent music by Native American performers young and old, ranging from pow-wow drum music to hard-driving rock-and-roll and rap. In the International world of ballet dancing Maria Tallchief was considered America's first major prima ballerina,[315] and was the first person of Native American descent to hold the rank.[316] along with her sister Marjorie Tallchief both became star ballerinas.
 
@@ -764,8 +762,6 @@ The Native American arts and crafts industry brings in more than a billion in gr
 
 Native American art comprises a major category in the world art collection. Native American contributions include pottery, paintings, jewellery, weavings, sculpture, basketry, and carvings. Franklin Gritts was a Cherokee artist who taught students from many tribes at Haskell Institute (now Haskell Indian Nations University) in the 1940s, the _Golden Age_ of Native American painters. The integrity of certain Native American artworks is protected by the Indian Arts and Crafts Act of 1990, that prohibits representation of art as Native American when it is not the product of an enrolled Native American artist. Attorney Gail Sheffield and others claim that this law has had "the unintended consequence of sanctioning discrimination against Native Americans whose tribal affiliation was not officially recognized".[324] Native artists such as Jeanne Rorex Bridges (Cherokee) who are not enrolled run the risk of fines or imprisonment if they continue to sell their art while affirming their Indian heritage.[325][326]
 
-Portrait_(Front)_of_Lillian_Gross,_Niece_of_Susan_Sanders_(Mixed_Blood)_1906.jpg
-
 
 Interracial relations
 
@@ -779,11 +775,11 @@ Early contact was often charged with tension and emotion, but also had moments o
 
 There was fear on both sides, as the different peoples realized how different their societies were.[333] The whites regarded the Indians as "savage" because they were not Christian. They were suspicious of cultures which they did not understand.[334] The Native American author, Andrew J. Blackbird, wrote in his _History of the Ottawa and Chippewa Indians of Michigan_ (1897), that white settlers introduced some immoralities into Native American tribes. Many Native Americans suffered because the Europeans introduced alcohol and the whiskey trade resulted in alcoholism among the people, who were alcohol-intolerant.[335]
 
-Blackbird wrote: Fort-orleans-return.jpg, France. The Osage woman was married to a French soldier.]]
+Blackbird wrote: , France. The Osage woman was married to a French soldier.]]
 
-Five_Indians_and_a_Captive.jpg, 1855]] The U.S. government had two purposes when making land agreements with Native Americans: to open it up more land for white settlement,[336] and to ease tensions between whites and Native Americans by forcing the Native Americans to use the land in the same way as did the whites—for subsistence farms.[337] The government used a variety of strategies to achieve these goals; many treaties required Native Americans to become farmers in order to keep their land.[338] Government officials often did not translate the documents which Native Americans were forced to sign, and native chiefs often had little or no idea what they were signing.[339]
+, 1855]] The U.S. government had two purposes when making land agreements with Native Americans: to open it up more land for white settlement,[336] and to ease tensions between whites and Native Americans by forcing the Native Americans to use the land in the same way as did the whites—for subsistence farms.[337] The government used a variety of strategies to achieve these goals; many treaties required Native Americans to become farmers in order to keep their land.[338] Government officials often did not translate the documents which Native Americans were forced to sign, and native chiefs often had little or no idea what they were signing.[339]
 
-Charles_eastman_smithsonian_gn_03462a.jpg was one of the first Native Americans to become certified as a medical doctor, after he graduated from Boston University.[340][341]]] For a Native American man to marry a white woman, he had to get consent of her parents, as long as "he can prove to support her as a white woman in a good home".[342] In the early 19th century, the Shawnee Tecumseh and blonde hair, blue-eyed Rebbecca Galloway had an interracial affair. In the late 19th century, three European-American middle-class women teachers at Hampton Institute married Native American men whom they had met as students.[343]
+was one of the first Native Americans to become certified as a medical doctor, after he graduated from Boston University.[340][341]]] For a Native American man to marry a white woman, he had to get consent of her parents, as long as "he can prove to support her as a white woman in a good home".[342] In the early 19th century, the Shawnee Tecumseh and blonde hair, blue-eyed Rebbecca Galloway had an interracial affair. In the late 19th century, three European-American middle-class women teachers at Hampton Institute married Native American men whom they had met as students.[343]
 
 As European-American women started working independently at missions and Indian schools in the western states, there were more opportunities for their meeting and developing relationships with Native American men. For instance, Charles Eastman, a man of European and Lakota descent whose father sent both his sons to Dartmouth College, got his medical degree at Boston University and returned to the West to practice. He married Elaine Goodale, whom he met in South Dakota. He was the grandson of Seth Eastman, a military officer from Maine, and a chief's daughter. Goodale was a young European-American teacher from Massachusetts and a reformer, who was appointed as the U.S. superintendent of Native American education for the reservations in the Dakota Territory. They had six children together.
 
@@ -799,7 +795,7 @@ Native American and African relations
 
 African and Native Americans have interacted for centuries. The earliest record of Native American and African contact occurred in April 1502, when Spanish colonists transported the first Africans to Hispaniola to serve as slaves.[352]
 
-Buffalo_soldiers1.jpgs, 1890. The nickname was given to the "Black Cavalry" by the Native American tribes they fought.]] Sometimes Native Americans resented the presence of African Americans.[353] The "Catawaba tribe in 1752 showed great anger and bitter resentment when an African American came among them as a trader".[354] To gain favor with Europeans, the Cherokee exhibited the strongest color prejudice of all Native Americans.[355] Because of European fears of a unified revolt of Native Americans and African Americans, the colonists tried to encourage hostility between the ethnic groups: "Whites sought to convince Native Americans that African Americans worked against their best interests."[356] In 1751, South Carolina law stated:
+s, 1890. The nickname was given to the "Black Cavalry" by the Native American tribes they fought.]] Sometimes Native Americans resented the presence of African Americans.[353] The "Catawaba tribe in 1752 showed great anger and bitter resentment when an African American came among them as a trader".[354] To gain favor with Europeans, the Cherokee exhibited the strongest color prejudice of all Native Americans.[355] Because of European fears of a unified revolt of Native Americans and African Americans, the colonists tried to encourage hostility between the ethnic groups: "Whites sought to convince Native Americans that African Americans worked against their best interests."[356] In 1751, South Carolina law stated:
 
 In addition, in 1758 the governor of South Carolina James Glen wrote:
 
@@ -829,7 +825,7 @@ Native Americans are more likely than any other racial group to practice racial 
 
 Admixture and genetics
 
-Creeks_in_Oklahoma.png around 1877; they include men with some European and African ancestry.[383]]]
+around 1877; they include men with some European and African ancestry.[383]]]
 
 Intertribal mixing was common among many Native American tribes prior to European contact, as they would adopt captives taken in warfare. Individuals often had ancestry from more than one tribe, particularly after tribes lost so many members from disease in the colonial era and after.[384] Bands or entire tribes occasionally split or merged to form more viable groups in reaction to the pressures of climate, disease and warfare.[385]
 

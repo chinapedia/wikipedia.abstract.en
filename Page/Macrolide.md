@@ -1,4 +1,4 @@
-Erythromycin_A.svg. The macrolide ring is the lactone (cyclic ester) at upper-left.]] Clarithromycin_structure.svg]] Roxithromycin.svg]] The MACROLIDES are a class of natural products that consist of a large macrocyclic lactone ring to which one or more deoxy sugars, usually cladinose and desosamine, may be attached. The lactone rings are usually 14-, 15-, or 16-membered. Macrolides belong to the polyketide class of natural products. Some macrolides have antibiotic or antifungal activity and are used as pharmaceutical drugs.
+. The macrolide ring is the lactone (cyclic ester) at upper-left.]] ]] ]] The MACROLIDES are a class of natural products that consist of a large macrocyclic lactone ring to which one or more deoxy sugars, usually cladinose and desosamine, may be attached. The lactone rings are usually 14-, 15-, or 16-membered. Macrolides belong to the polyketide class of natural products. Some macrolides have antibiotic or antifungal activity and are used as pharmaceutical drugs.
 
 
 History
@@ -44,7 +44,7 @@ US FDA-approved :
 -   Fidaxomicin
 -   Telithromycin
 
-Azithromycin_250mg.jpg caplets]] Non-US FDA-approved:
+caplets]] Non-US FDA-approved:
 
 -   Carbomycin A
 -   Josamycin

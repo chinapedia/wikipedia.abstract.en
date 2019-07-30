@@ -135,8 +135,6 @@ Depending on the integrin's regulatory impact on specific receptor tyrosine kina
 
 Knowledge of the relationship between integrins and receptor tyrosine kinase has laid a foundation for new approaches to cancer therapy. Specifically, targeting integrins associated with RTKs is an emerging approach for inhibiting angiogenesis.[20]
 
-Figure_1_-_Nieuwenhuis_et_al_2018_-_Integrins_promote_axonal_regeneration_after_injury_of_the_nervous_system_-_Biological_Reviews_-_doi_10.1111-brv.12398.jpg
-
 
 Integrins and nerve repair
 

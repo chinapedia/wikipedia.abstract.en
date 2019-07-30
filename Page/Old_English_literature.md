@@ -14,7 +14,7 @@ The earliest "scholarship" on Old English literature was done by a scribe from W
 
 Extant manuscripts
 
-Peterborough.Chronicle.firstpage.jpg'', in a hand of about 1150, is one of the major sources of the _Anglo-Saxon Chronicle_; the initial page]]
+'', in a hand of about 1150, is one of the major sources of the _Anglo-Saxon Chronicle_; the initial page]]
 
 A large number of manuscripts remain from the Anglo-Saxon period, with most written during its last 300 years (9th to 11th centuries).
 
@@ -40,7 +40,7 @@ Early English manuscripts often contain later annotations in the margins of the 
 
 Poetry
 
-CaedmonManuscriptPage46Illust.jpg (or Junius) manuscript, an angel is shown guarding the gates of paradise.]]
+(or Junius) manuscript, an angel is shown guarding the gates of paradise.]]
 
 OLD ENGLISH POETRY falls broadly into two styles or fields of reference, the heroic Germanic and the Christian. Almost all Old English poets are anonymous.
 
@@ -124,7 +124,7 @@ Genres and themes
 
 Heroic poetry
 
-BLBeowulf.jpg'', British Library Cotton Vitellius A.XV]] Beowulf.firstpage.jpeg
+'', British Library Cotton Vitellius A.XV]]
 
 The Old English poetry which has received the most attention deals with the Germanic heroic past. The longest at 3,182 lines, and the most important, is _Beowulf_, which appears in the damaged Nowell Codex. Beowulf relates the exploits of the hero Beowulf, King of the Weder-Geats or Angles, around the middle of the 5th century. The author is unknown, and no mention of Britain occurs. Scholars are divided over the date of the present text, with hypotheses ranging from the 8th to the 11th centuries.[13][14] It has achieved much acclaim as well as sustained academic and artistic interest.[15]
 

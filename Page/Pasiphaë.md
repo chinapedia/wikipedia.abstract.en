@@ -1,11 +1,11 @@
-Pasiphae.jpg In Greek mythology, PASIPHAË (;[1] _Pasipháē_, "wide-shining" derived from πᾶς _pas_ "all, for all, of all" and φάος/φῶς _phaos/phos_ "light")[2] was a queen of Crete.
+In Greek mythology, PASIPHAË (;[1] _Pasipháē_, "wide-shining" derived from πᾶς _pas_ "all, for all, of all" and φάος/φῶς _phaos/phos_ "light")[2] was a queen of Crete.
 
 
 Family
 
 Pasiphae was the daughter of Helios, the Sun, and Perse,[3] of the Oceanids. [4] Like her doublet Europa, her origins were in the East, in her case at Colchis; she was the sister of Circe, Aeëtes and Perses, and she was given in marriage to King Minos of Crete. With Minos, she was the mother of Acacallis, Ariadne, Androgeus, Glaucus, Deucalion, Phaedra, Xenodice, and Catreus. She was also the mother of "starlike" Asterion, called by the Greeks the Minotaur.
 
-Pompeii_-_Casa_dei_Vettii_-_Pasiphae.jpg, Pompeii, 1st century CE.]]
+, Pompeii, 1st century CE.]]
 
 
 Mythology

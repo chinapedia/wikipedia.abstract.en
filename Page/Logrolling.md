@@ -23,7 +23,7 @@ Here is an example of the term's original use:
 
 American frontiersman Davy Crockett was one of the first to apply the term to legislation:
 
-  Davy_Crockett_by_William_Henry_Huddle,_1889.jpg, 1889.]]The first known use of the term was by Congressman Davy Crockett, who said on the floor (of the U.S. House of Representatives) in 1835, "my people don't like me to log-roll in their business, and vote away pre-emption rights to fellows in other states that never kindle a fire on their own land."[12]
+  , 1889.]]The first known use of the term was by Congressman Davy Crockett, who said on the floor (of the U.S. House of Representatives) in 1835, "my people don't like me to log-roll in their business, and vote away pre-emption rights to fellows in other states that never kindle a fire on their own land."[12]
 
 The Choice to Logroll
 

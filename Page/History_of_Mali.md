@@ -26,11 +26,11 @@ After the empires (1591–1892)
 
 The Songhai empire eventually collapsed under the pressure from the Moroccan Saadi dynasty. The turning-point was the Battle of Tondibi of 13 March 1591. Morocco subsequently controlled Gao, Timbuktu, Djenné (also seen as Jenne), and related trade routes with much difficulty until around the end of the 17th century.
 
-TombouctouPachalik_4.png (yellow-striped) as part of the Saadi dynasty of Morocco, c. 1591]] After the collapse of the Songhai Empire, no single state controlled the region. The Moroccans only succeeded in occupying a few portions of the country, and even in those locations where they did attempt to rule, their hold was weak and challenged by rivals. Several small successor kingdoms arose. the most notable in what is now Mali were:
+(yellow-striped) as part of the Saadi dynasty of Morocco, c. 1591]] After the collapse of the Songhai Empire, no single state controlled the region. The Moroccans only succeeded in occupying a few portions of the country, and even in those locations where they did attempt to rule, their hold was weak and challenged by rivals. Several small successor kingdoms arose. the most notable in what is now Mali were:
 
 Bambara Empire or Kingdom of Segou
 
-Mali_historic_places.PNG The Bambara Empire existed as a centralized state from 1712 to 1861, was based at Ségou and also Timbuktu (also seen as Segu), and ruled parts of central and southern Mali. It existed until El Hadj Umar Tall, a Toucouleur conqueror swept across West Africa from Futa Tooro. Umar Tall's mujahideen readily defeated the Bambara, seizing Ségou itself on March 10, 1861 and declaring an end to the empire.
+The Bambara Empire existed as a centralized state from 1712 to 1861, was based at Ségou and also Timbuktu (also seen as Segu), and ruled parts of central and southern Mali. It existed until El Hadj Umar Tall, a Toucouleur conqueror swept across West Africa from Futa Tooro. Umar Tall's mujahideen readily defeated the Bambara, seizing Ségou itself on March 10, 1861 and declaring an end to the empire.
 
 Kingdom of Kaarta
 

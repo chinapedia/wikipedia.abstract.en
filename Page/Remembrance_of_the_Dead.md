@@ -10,8 +10,6 @@ It is organized nationally by Nationaal Comité 4 en 5 mei, but local committees
 
 Description
 
-Dodenherdenkingsdag_in_Amsterdam.ogv
-
 Until 1961 the commemoration only related to the Dutch victims of World War II. Since 1961, the victims of other military conflicts (such as the Indonesian National Revolution in Indonesia) and peacekeeping missions (such as in Lebanon or Bosnia) are remembered on May 4 as well.
 
 Traditionally, the main ceremonies are observed in Amsterdam at the National Monument on Dam Square. This ceremony is usually attended by members of the cabinet and the royal family, military leaders, representatives of the resistance movement and other social groups. At 20:00 two minutes of silence is observed throughout the Netherlands. Public transport is stopped as well as all other traffic. Radio and TV only broadcast the ceremonies from 19:00 until 20:30. Since 4 May 1994 flags, having hung at half-staff from 18:00, are then hoisted to the music of the Wilhelmus, the Dutch national anthem. Since 2001 the new protocol says it is allowed to let the flag hang at half-staff.

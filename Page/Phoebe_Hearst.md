@@ -8,20 +8,14 @@ She was born PHOEBE ELIZABETH APPERSON in St. Clair, Missouri, in Franklin Count
 
 Family life
 
-Home_of_Mrs._Phoebe_Apperson_Hearst,_1400_New_Hampshire_Avenue,_N.W.,_Washington,_D.C.jpg
-
 Soon after their marriage,[3] the couple left Missouri and moved to San Francisco, California, where Phoebe gave birth to their only child, William Randolph Hearst. As a very successful miner who later became a U.S. senator, George often left Phoebe alone during his work.[4][5] She and her son were close and had many similar interests, including art and design.[6] After Phoebe's death in 1919, William inherited a $10 million fortune.[7]
 
 
 Philanthropy
 
-Phoebe_Apperson_Hearst,_Who's_who_among_the_women_of_California.jpg
-
 In the 1880s, she became a major benefactor and director of the Golden Gate Kindergarten Association[8] and the first president of the Century Club of California.[9] In 1902, Hearst funded the construction of a building to provide teacher training and to house kindergarten classes and the association’s offices. The association had 26 schools at the time of the San Francisco earthquake in 1906.[10] Hearst was a major benefactor of the University of California, Berkeley, and its first woman regent, serving on the board from 1897 until her death. That year, she contributed to the establishment of the National Congress of Mothers, which evolved eventually into the National Parent-Teacher Association. In 1900, she co-founded the all-girls National Cathedral School in Washington, DC. A nearby public elementary school bears her name.[11] Hearst funded the Hearst Library in Anaconda, Montana, in 1898. She maintained it until 1904.[12]
 
 In 1901, Phoebe Hearst founded the University of California Museum of Anthropology, renamed the Phoebe A. Hearst Museum of Anthropology in 1992. The original collection comprised 230,000 objects representing cultures and civilizations throughout history.
-
-Phoebe_Apperson_Hearst.jpg
 
 The museum now contains about 3.8 million objects. Throughout her lifetime and as provided in her will, Hearst donated over 60,000 objects to the museum. She also funded expeditions such as the Pepper-Hearst Expedition (1895–1897) on the coast of Florida, near Tarpon Springs. Most notable are the 1899 expeditions in Egypt by American archaeologist George A. Reisner and in Peru by German archaeologist Max Uhle. These ventures further contributed to the museum's collection. Among these are approximately 20,000 ancient Egyptian artifacts, the largest such collection west of Chicago. Hearst also realized the importance of preserving Native Californian culture. With her support, anthropologist Alfred L. Kroeber and his students, including Robert F. Heizer, documented Native Californian culture in the form of photographs, audio recordings, texts, and artifacts. This research helped to preserve approximately 250,000 Native Californian artifacts, the most extensive in the world. The museum collection is available to students and researchers for examination. A gallery located on the University of California Berkeley campus is available for public view.
 

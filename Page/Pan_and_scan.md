@@ -1,4 +1,4 @@
-Image_cropping_133x1.jpg PAN AND SCAN is a method of adjusting widescreen film images so that they can be shown in fullscreen proportions of a standard definition 4:3 aspect ratio television screen, often cropping off the sides of the original widescreen image to focus on the composition's most important aspects.
+PAN AND SCAN is a method of adjusting widescreen film images so that they can be shown in fullscreen proportions of a standard definition 4:3 aspect ratio television screen, often cropping off the sides of the original widescreen image to focus on the composition's most important aspects.
 
 Some film directors and enthusiasts disapprove of pan and scan cropping, because it can remove up to 45% of the original image on 2.35:1 films or up to 53% on earlier 2.55:1 presentations, changing the director or cinematographer's original vision and intentions. The most extreme examples remove up to 75% of the original picture on such aspect ratios as 2.76:1 in epics such as _Ben-Hur_ and _It's a Mad, Mad, Mad, Mad World_. _Lawrence of Arabia_ is an exception to the 75% rule, because its aspect ratio is 2.20:1.
 

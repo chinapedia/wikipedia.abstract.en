@@ -1,4 +1,4 @@
-Basis}} 3d_two_bases_same_vector.svg In mathematics, a set of elements (vectors) in a vector space is called a BASIS, if every element of may be written in a unique way as a (finite) linear combination of elements of . The coefficients of this linear combination are referred to as COMPONENTS or COORDINATES on of the vector. The elements of a basis are called .
+Basis}} In mathematics, a set of elements (vectors) in a vector space is called a BASIS, if every element of may be written in a unique way as a (finite) linear combination of elements of . The coefficients of this linear combination are referred to as COMPONENTS or COORDINATES on of the vector. The elements of a basis are called .
 
 Equivalently is a basis if its elements are linearly independent and every element of is a linear combination of elements of .[1] In more general terms, a basis is a linearly independent spanning set.
 
@@ -30,7 +30,7 @@ It is often convenient or even necessary to have an ordering on the basis vector
 
 Examples
 
-Basis_graph_(no_label).svg in _R²_. The blue and orange vectors are the elements of the basis; the green vector can be given in terms of the basis vectors, and so is linearly dependent upon them.]]
+in _R²_. The blue and orange vectors are the elements of the basis; the green vector can be given in terms of the basis vectors, and so is linearly dependent upon them.]]
 
 -   The set {{math of the ordered pairs of real numbers is a vector space for the component-wise addition
 

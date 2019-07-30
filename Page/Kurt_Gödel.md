@@ -34,8 +34,6 @@ In 1930 Gödel attended the Second Conference on the Epistemology of the Exact S
 
 Gödel published his incompleteness theorems in (called in English "[[On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems|On Formally Undecidable Propositions of Gödel was elected a Foreign Member of the Royal Society (ForMemRS) in 1968.[14] He was a Plenary Speaker of the ICM in 1950 in Cambridge, Massachusetts.[15] The Gödel Prize, an annual prize for outstanding papers in the area of theoretical computer science, is named after him.
 
-Kurt_godel_tomb_2004.jpg
-
 
 Later life and death
 

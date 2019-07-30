@@ -1,4 +1,4 @@
-Quiosco_modernista_Gran_Canaria.jpg kiosk (1923) in Las Palmas de Gran Canaria.]] Agilkia_Trajankiosk_01.JPG from 1st century BC on Agilika island, Egypt]] The German Fountain at the Hippodrome of Istanbul|thumb|170px
+kiosk (1923) in Las Palmas de Gran Canaria.]] from 1st century BC on Agilika island, Egypt]]
 
 A KIOSK () is a small, separated garden pavilion open on some or all sides. Kiosks were common in Persia, the Indian subcontinent, and in the Ottoman Empire from the 13th century onward. Today, there are many kiosks in and around the Topkapı Palace in Istanbul, and they are still a relatively common sight in Balkan countries.
 
@@ -7,7 +7,7 @@ The word is now applied to small booths offering goods and services and to frees
 
 Small shops
 
-Feature._Rush_Hour_BAnQ_P48S1P09119.jpg, Montreal, 1943.]] Aioi_Station_in_Hyogo_J09_11.jpg, Japan.]]
+, Montreal, 1943.]] , Japan.]]
 
 In the Western hemisphere and in English-speaking countries, a _kiosk_ is also a booth with an open window on one side. Some vendors operate from kiosks (see mall kiosk), selling small, inexpensive consumables such as newspapers, magazines, lighters, street maps, cigarettes, live and frozen fishing bait and confections.
 
@@ -30,7 +30,7 @@ A kiosk is an open summer-house or pavilion usually having its roof supported by
 
 Sultan Ahmed III (1703–1730) also built a glass room of the Sofa Kiosk at the Topkapı Palace incorporating some Western elements, such as the gilded brazier designed by Duplessis père, which was given to the Ottoman ambassador by King Louis XV of France.
 
-Kiosco_Morisco_Mexico.jpg in Mexico ]] The first English contact with Turkish Kiosk came through Lady Wortley Montagu (1689–1762), the wife of the English ambassador to Istanbul, who in a letter written on 1 April 1717 to Anne Thistlethwayte, mentions a "chiosk" describing it as "_raised by 9 or 10 steps and enclosed with gilded lattices_".[3]
+in Mexico ]] The first English contact with Turkish Kiosk came through Lady Wortley Montagu (1689–1762), the wife of the English ambassador to Istanbul, who in a letter written on 1 April 1717 to Anne Thistlethwayte, mentions a "chiosk" describing it as "_raised by 9 or 10 steps and enclosed with gilded lattices_".[3]
 
 European monarchs adopted the building type. Stanisław Leszczyński, king of Poland and father-in-law of Louis XV, built kiosks for himself based on his memories of his captivity in Turkey. These kiosks were used as garden pavilions serving coffee and beverages but later were converted into band stands and tourist information stands decorating most European gardens, parks and high streets.
 

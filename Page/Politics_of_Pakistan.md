@@ -30,7 +30,7 @@ The Senate is a permanent legislative body with equal representation from each o
 
 National Assembly
 
-Pakistani_parliament_house.jpg Members of the National Assembly are elected by universal adult suffrage (formerly twenty-one years of age and older but the seventeenth amendment changed it to eighteen years of age.). Seats are allocated to each of the four provinces, the Federally Administered Tribal Areas, and Islamabad Capital Territory on the basis of population. National Assembly members serve for the parliamentary term, which is five years, unless they die or resign sooner, or unless the National Assembly is dissolved. Although the vast majority of the members are Muslim, about 5 percent of the seats are reserved for minorities, including Christians, Hindus, and Sikhs. Elections for minority seats are held on the basis of separate electorates at the same time as the polls for Muslim seats during the general elections. There are also 50+ special seats for women now, and women are selected (i.e. not directly elected in the general election but given representation according to how their parties performed in the general election) on these seat by their party head: another seventeenth amendment innovation.
+Members of the National Assembly are elected by universal adult suffrage (formerly twenty-one years of age and older but the seventeenth amendment changed it to eighteen years of age.). Seats are allocated to each of the four provinces, the Federally Administered Tribal Areas, and Islamabad Capital Territory on the basis of population. National Assembly members serve for the parliamentary term, which is five years, unless they die or resign sooner, or unless the National Assembly is dissolved. Although the vast majority of the members are Muslim, about 5 percent of the seats are reserved for minorities, including Christians, Hindus, and Sikhs. Elections for minority seats are held on the basis of separate electorates at the same time as the polls for Muslim seats during the general elections. There are also 50+ special seats for women now, and women are selected (i.e. not directly elected in the general election but given representation according to how their parties performed in the general election) on these seat by their party head: another seventeenth amendment innovation.
 
 
 Judicial branch
@@ -88,7 +88,7 @@ Thus, Azad Kashmir remains for all intents and purposes under Pakistan's strict 
 
 Provincial Governments
 
-Subdivisions_of_Pakistan_Map.JPG Pakistan is subdivided into 4 provinces, 2 territories, and 1 capital territory. Each province has a Provincial Assembly, a directly elected legislature. Members are elected for five-year terms. Each Assembly elects a Chief Minister, who then selects the ministers of his or her cabinet.
+Pakistan is subdivided into 4 provinces, 2 territories, and 1 capital territory. Each province has a Provincial Assembly, a directly elected legislature. Members are elected for five-year terms. Each Assembly elects a Chief Minister, who then selects the ministers of his or her cabinet.
 
 -   Balochistan
 -   Federally Administered Tribal Areas*
@@ -113,8 +113,6 @@ There are over five thousand local governments in Pakistan. Since 2001, the vast
 
 
 Foreign relations
-
-Pk-map.png
 
 Pakistan is the second largest Muslim country in terms of population, and its status as a declared nuclear power, being the only Muslim nation to have that status, plays a part in its international role. It is also an active member of the United Nations. Historically, its foreign policy has encompassed difficult relations with India, a desire for a stable Afghanistan, long-standing close relations with the People's Republic of China, extensive security and economic interests in the Persian Gulf and wide-ranging bilateral relations with the United States and other Western countries. Pakistan is also an important member of the Organisation of Islamic Cooperation (OIC). Pakistan has used the OIC as a forum for Enlightened Moderation,[22] its plan to promote a renaissance and enlightenment in the Islamic world.
 

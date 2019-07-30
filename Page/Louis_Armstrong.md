@@ -7,7 +7,7 @@ With his instantly recognizable rich, gravelly voice, Armstrong was also an infl
 
 Early life
 
-Adi_Holzer_Werksverzeichnis_899_Satchmo_(Louis_Armstrong).jpg by Adi Holzer]]
+by Adi Holzer]]
 
 Armstrong often stated that he was born on July 4, 1900.[5] Although he died in 1971, it was not until the mid-1980s that his true birth date, August 4, 1901, was discovered by Tad Jones by researching baptismal records.[6] At least three other biographies treat the July 4th birth date as a myth.[7][8][9]
 
@@ -19,8 +19,6 @@ The Karnoffskys[16] took him in and treated him like family. Knowing he lived wi
 
 When Armstrong was eleven, he dropped out of school.[22] His mother moved into a one-room house on Perdido Street with him, Lucy, and her common-law husband, Tom Lee, next door to her brother Ike and his two sons.[23] Armstrong joined a quartet of boys who sang in the streets for money. He also got into trouble. Cornetist Bunk Johnson said he taught the eleven-year-old to play by ear at Dago Tony's honky tonk.[24] In his later years Armstrong credited King Oliver. He said about his youth, "Every time I close my eyes blowing that trumpet of mine—I look right in the heart of good old New Orleans ... It has given me something to live for."[25]
 
-LouisArmstrong_PeterDavis1.jpg
-
 Borrowing his stepfather's gun without permission, he fired a blank into the air and was arrested on December 31, 1912. He spent the night at New Orleans Juvenile Court, then was sentenced the next day to detention at the Colored Waif's Home.[26] Life at the home was spartan. Mattresses were absent. Meals were often little more than bread and molasses. Captain Joseph Jones ran the home like a military camp and used corporal punishment.[27]
 
 Armstrong developed his cornet skills by playing in the band. Peter Davis, who frequently appeared at the home at the request of Captain Jones,[28] became Armstrong's first teacher and chose him as bandleader. With this band, the thirteen year-old Armstrong attracted the attention of Kid Ory.[29]
@@ -31,8 +29,6 @@ On June 14, 1914, Armstrong was released into the custody of his father and his 
 Career
 
 Riverboat education
-
-Fate_Marable's_New_Orleans_Band_on_the_S._S._Sidney.jpg
 
 Armstrong played in brass bands and riverboats in New Orleans, first on an excursion boat in September 1918. He traveled with the band of Fate Marable, which toured on the steamboat _Sidney_ with the Streckfus Steamers line up and down the Mississippi River.[32] Marable was proud of his musical knowledge, and he insisted that Armstrong and other musicians in his band learn sight reading. Armstrong described his time with Marable as "going to the University", since it gave him a wider experience working with written arrangements. He did return to New Orleans periodically.[33] In 1919, Oliver decided to go north and resigned his position in Kid Ory's band; Armstrong replaced him. He also became second trumpet for the Tuxedo Brass Band.[34]
 
@@ -58,7 +54,7 @@ The Hot Five
 
 In 1925, Armstrong returned to Chicago largely at the insistence of Lil, who wanted to expand his career and his income. In publicity, much to his chagrin, she billed him as "the World's Greatest Trumpet Player". For a time he was a member of the Lil Hardin Armstrong Band and working for his wife.[40] He formed Louis Armstrong and his Hot Five and recorded the hits "Potato Head Blues" and "Muggles". The word "muggles" was a slang term for marijuana, something he used often during his life.[41]
 
-Heebie_Jeebies.jpg" by Louis Armstrong and his Hot Five]]
+" by Louis Armstrong and his Hot Five]]
 
 The Hot Five included Kid Ory (trombone), Johnny Dodds (clarinet), Johnny St. Cyr (banjo), Lil Armstrong on piano, and usually no drummer. Over a twelve-month period starting in November 1925, this quintet produced twenty-four records.[42] Armstrong's band leading style was easygoing, as St. Cyr noted, "One felt so relaxed working with him, and he was very broad-minded ... always did his best to feature each individual."[43] Among the most notable of the Hot Five and Seven records were "Cornet Chop Suey", "Struttin' With Some Barbecue", "Hotter Than that" and "Potato Head Blues", all featuring highly creative solos by Armstrong. His recordings soon after with pianist Earl "Fatha" Hines (most famously their 1928 "Weather Bird" duet) and Armstrong's trumpet introduction to and solo in "West End Blues" remain some of the most famous and influential improvisations in jazz history. Armstrong was now free to develop his personal style as he wished, which included a heavy dose of effervescent jive, such as "Whip That Thing, Miss Lil" and "Mr. Johnny Dodds, Aw, Do That Clarinet, Boy!"[44]
 
@@ -94,7 +90,7 @@ Armstrong changed the jazz during the Harlem Renaissance. Being known as "the wo
 
 Reviving jazz with the All Stars
 
-Louis_Armstrong2.jpg After spending many years on the road, Armstrong settled permanently in Queens, New York in 1943 in contentment with his fourth wife, Lucille. Although subject to the vicissitudes of Tin Pan Alley and the gangster-ridden music business, as well as anti-black prejudice, he continued to develop his playing. He recorded Hoagy Carmichael's "Rockin' Chair" for Okeh Records.
+After spending many years on the road, Armstrong settled permanently in Queens, New York in 1943 in contentment with his fourth wife, Lucille. Although subject to the vicissitudes of Tin Pan Alley and the gangster-ridden music business, as well as anti-black prejudice, he continued to develop his playing. He recorded Hoagy Carmichael's "Rockin' Chair" for Okeh Records.
 
 During the next 30 years, Armstrong played more than 300 performances a year. Bookings for big bands tapered off during the 1940s due to changes in public tastes: ballrooms closed, and there was competition from television and from other types of music becoming more popular than big band music. It became impossible under such circumstances to finance a 16-piece touring band.
 
@@ -104,11 +100,9 @@ This group was called Louis Armstrong and His All Stars and included at various 
 
 A jazz ambassador
 
-Louis_Armstrong_(1955).jpg
-
 By the 1950s, Armstrong was a widely beloved American icon and cultural ambassador who commanded an international fanbase. However, a growing generation gap became apparent between him and the young jazz musicians who emerged in the postwar era such as Charlie Parker, Miles Davis, and Sonny Rollins. The postwar generation regarded their music as abstract art and considered Armstrong's vaudevillian style, half-musician and half-stage entertainer, outmoded and Uncle Tomism, "... he seemed a link to minstrelsy that we were ashamed of."[63] He called bebop "Chinese music".[64] While touring Australia, 1954, he was asked if he could play bebop. "Bebop?" he husked. "I just play music. Guys who invent terms like that are walking the streets with their instruments under their arms."[65]
 
-Mack_The_Knife_Coronet.jpg" was released in 1956.|200x200px]] Ficha_Consular_de_Louis_Armstrong.jpg In June 1950, Suzy Delair performed rehearsals of the song "C'est si bon" with Aimé Barelli and his Orchestra at the Monte Carlo casino where Louis Armstrong was finishing the evening. Armstrong enjoyed the song and he recorded the American version in New York City on June 26, 1950. In the 1960s, he toured Ghana and Nigeria.[66][67]
+" was released in 1956.|200x200px]] In June 1950, Suzy Delair performed rehearsals of the song "C'est si bon" with Aimé Barelli and his Orchestra at the Monte Carlo casino where Louis Armstrong was finishing the evening. Armstrong enjoyed the song and he recorded the American version in New York City on June 26, 1950. In the 1960s, he toured Ghana and Nigeria.[66][67]
 
 After finishing his contract with Decca Records, he became a freelance artist and recorded for other labels.[68][69] He continued an intense international touring schedule, but in 1959 he suffered a heart attack in Italy and had to rest.[70]
 
@@ -128,8 +122,6 @@ The Louis Armstrong House Museum website states:
 In a memoir written for Robert Goffin between 1943 and 1944, Armstrong states, "All white folks call me Louie", suggesting that he himself did not.[74] That said, Armstrong was registered as "Lewie" for the 1920 U.S. Census. On various live records he's called "Louie" on stage, such as on the 1952 "Can Anyone Explain?" from the live album _In Scandinavia vol.1_. The same applies to his 1952 studio recording of the song "Chloe", where the choir in the background sings "Louie ... Louie", with Armstrong responding "What was that? Somebody called my name?" "Lewie" is the French pronunciation of "Louis" and is commonly used in Louisiana.
 
 Family
-
-Lucille_Wilson_and_Louis_Armstrong.jpg
 
 Armstrong was performing at the Brick House in Gretna, Louisiana, when he met Daisy Parker, a local prostitute. He started the affair as a client. He returned to Gretna on several occasions to visit her. He found the courage to look for her home to see her away from work. It was on this occasion that he found out that she had a common-law husband. Not long after this fiasco, Parker traveled to Armstrong's home on Perdido Street.[75] They checked into Kid Green's hotel that evening. On the next day, March 19, 1919, Armstrong and Parker married at City Hall.[76][77] They adopted a three-year-old boy, Clarence, whose mother, Armstrong's cousin Flora, had died soon after giving birth. Clarence Armstrong was mentally disabled as the result of a head injury at an early age, and Armstrong spent the rest of his life taking care of him.[78] His marriage to Parker ended when they separated in 1923.
 
@@ -153,7 +145,7 @@ During a backstage meeting with trombonist Marshall Brown in 1959, Armstrong rec
 
 Nicknames
 
-Armstrong-Alassio_(crop).jpg]]
+]]
 
 The nicknames "Satchmo" and "Satch" are short for "Satchelmouth". The nickname has many possible origins.[89] The most common tale that biographers tell is the story of Armstrong as a young boy in New Orleans dancing for pennies. He scooped the coins off the street and stuck them into his mouth to prevent bigger children from stealing them. Someone dubbed him "satchel mouth" for his mouth acting as a satchel. Another tale is that because of his large mouth, he was nicknamed "satchel mouth" which was shortened to "Satchmo".[90]
 
@@ -192,7 +184,7 @@ Music
 
 Horn playing and early jazz
 
-Selmer_Trumpet_given_by_King_George_V_to_Louis_Armstrong.jpg of the United Kingdom to Louis Armstrong in 1933]] In his early years, Armstrong was best known for his virtuosity with the cornet and trumpet. Along with his "clarinet-like figurations and high notes in his cornet solos", he was also known for his "intense rhythmic 'swing', a complex conception involving ... accented upbeats, upbeat to downbeat slurring, and complementary relations among rhythmic patterns."[111] The most lauded recordings on which Armstrong plays trumpet include the Hot Five and Hot Seven sessions, as well as those of the Red Onion Jazz Babies. Armstrong's improvisations, while unconventionally sophisticated for that era, were also subtle and highly melodic. The solo that Armstrong plays during the song Potato Head Blues has long been considered his best solo of that series.[112][113]
+of the United Kingdom to Louis Armstrong in 1933]] In his early years, Armstrong was best known for his virtuosity with the cornet and trumpet. Along with his "clarinet-like figurations and high notes in his cornet solos", he was also known for his "intense rhythmic 'swing', a complex conception involving ... accented upbeats, upbeat to downbeat slurring, and complementary relations among rhythmic patterns."[111] The most lauded recordings on which Armstrong plays trumpet include the Hot Five and Hot Seven sessions, as well as those of the Red Onion Jazz Babies. Armstrong's improvisations, while unconventionally sophisticated for that era, were also subtle and highly melodic. The solo that Armstrong plays during the song Potato Head Blues has long been considered his best solo of that series.[112][113]
 
 Prior to Armstrong, most collective ensemble playing in jazz, along with its occasional solos, simply varied the melodies of the songs. Armstrong was virtually the first to create significant variations based on the chord harmonies of the songs instead of merely on the melodies. This opened a rich field for creation and improvisation, and significantly changed the music into a soloist's art form.[114]
 
@@ -212,13 +204,13 @@ Armstrong was a gifted composer who wrote more than fifty songs, some of which h
 
 Colleagues and followers
 
-Satchmo_Messuhallissa.jpg (left) and Barney Bigard (right), Armstrong plays the trumpet in Helsinki, Finland, October 1949]] During his long career he played and sang with some of the most important instrumentalists and vocalists of the time; among them were Bing Crosby, Duke Ellington, Fletcher Henderson, Earl Hines, Jimmie Rodgers, Bessie Smith and perhaps most famously Ella Fitzgerald. His influence upon Crosby is particularly important with regard to the subsequent development of popular music: Crosby admired and copied Armstrong, as is evident on many of his early recordings, notably "Just One More Chance" (1931).[121] The _New Grove Dictionary of Jazz_ describes Crosby's debt to Armstrong in precise detail, although it does not acknowledge Armstrong by name:
+(left) and Barney Bigard (right), Armstrong plays the trumpet in Helsinki, Finland, October 1949]] During his long career he played and sang with some of the most important instrumentalists and vocalists of the time; among them were Bing Crosby, Duke Ellington, Fletcher Henderson, Earl Hines, Jimmie Rodgers, Bessie Smith and perhaps most famously Ella Fitzgerald. His influence upon Crosby is particularly important with regard to the subsequent development of popular music: Crosby admired and copied Armstrong, as is evident on many of his early recordings, notably "Just One More Chance" (1931).[121] The _New Grove Dictionary of Jazz_ describes Crosby's debt to Armstrong in precise detail, although it does not acknowledge Armstrong by name:
 
 Armstrong recorded two albums with Ella Fitzgerald: _Ella and Louis_, and _Ella and Louis Again_ for Verve Records, with the sessions featuring the backing musicianship of the Oscar Peterson Trio and drummers Buddy Rich (on the first album), and Louie Bellson (on the second). Norman Granz then had the vision for Ella and Louis to record _Porgy and Bess_.
 
 His recordings for Columbia Records, _Louis Armstrong Plays W.C. Handy_ (1954) and _Satch Plays Fats_ (all Fats Waller tunes) (1955) were both being considered masterpieces, as well as moderately well selling. In 1961 the All Stars participated in two albums—_The Great Summit_ and _The Great Reunion_ (now together as a single disc) with Duke Ellington. The albums feature many of Ellington's most famous compositions (as well as two exclusive cuts) with Duke sitting in on piano. His participation in Dave Brubeck's high-concept jazz musical _The Real Ambassadors_ (1963) was critically acclaimed, and features "Summer Song", one of Armstrong's most popular vocal efforts.
 
-Louis_Armstrong_NYWTS_4.jpg In 1964, his recording of the song "Hello Dolly" went to number one. An album of the same title was quickly created around the song, and also shot to number one (knocking The Beatles off the top of the chart). The album sold very well for the rest of the year, quickly going "Gold" (500,000). His performance of "Hello Dolly" won for best male pop vocal performance at the 1964 Grammy Awards.
+In 1964, his recording of the song "Hello Dolly" went to number one. An album of the same title was quickly created around the song, and also shot to number one (knocking The Beatles off the top of the chart). The album sold very well for the rest of the year, quickly going "Gold" (500,000). His performance of "Hello Dolly" won for best male pop vocal performance at the 1964 Grammy Awards.
 
 Hits and later career
 
@@ -237,9 +229,9 @@ Armstrong enjoyed many types of music, from blues to the arrangements of Guy Lom
 
 Film, television, and radio
 
-Louis_Armstrong_and_Grace_Kelly_on_the_set_of_"High_Society",_1956.jpg on the set of _High Society_ in 1956.]] Armstrong appeared in more than a dozen Hollywood films, usually playing a bandleader or musician. His most familiar role was as the bandleader _cum_ narrator in the 1956 musical _High Society_ in which he sang the title song and performed a duet with Bing Crosby on "Now You Has Jazz". In 1947, he played himself in the movie _New Orleans_ opposite Billie Holiday, which chronicled the demise of the Storyville district and the ensuing exodus of musicians from New Orleans to Chicago. In the 1959 film _The Five Pennies_ he played himself, sang, and playing several classic numbers. With Danny Kaye he performed a duet of "When the Saints Go Marching In" during which Kaye impersonated Armstrong. He had a part in the film alongside James Stewart in _The Glenn Miller Story_.
+on the set of _High Society_ in 1956.]] Armstrong appeared in more than a dozen Hollywood films, usually playing a bandleader or musician. His most familiar role was as the bandleader _cum_ narrator in the 1956 musical _High Society_ in which he sang the title song and performed a duet with Bing Crosby on "Now You Has Jazz". In 1947, he played himself in the movie _New Orleans_ opposite Billie Holiday, which chronicled the demise of the Storyville district and the ensuing exodus of musicians from New Orleans to Chicago. In the 1959 film _The Five Pennies_ he played himself, sang, and playing several classic numbers. With Danny Kaye he performed a duet of "When the Saints Go Marching In" during which Kaye impersonated Armstrong. He had a part in the film alongside James Stewart in _The Glenn Miller Story_.
 
-Louis_armstrong_producers_showcase_1956.JPG'' in 1956.]]
+'' in 1956.]]
 
 Armstrong was the first African American to host a nationally broadcast radio show in the 1930s. In 1969, he had a cameo role in the film version of _Hello, Dolly!_ as the bandleader Louis. He sang the title song with actress Barbra Streisand. His solo recording of "Hello, Dolly!" is one of his most recognizable performances.
 

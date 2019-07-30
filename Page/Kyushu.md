@@ -51,7 +51,7 @@ Core cities
 
 Economy and environment
 
-Kyushumap-en.png JMSDF_major_fleets_en.JPG, including the SASEBO DISTRICT FORCE ]] Parts of Kyushu have a subtropical climate, particularly Miyazaki prefecture and Kagoshima prefecture. Major agricultural products are rice, tea, tobacco, sweet potatoes, and soy; silk is also widely produced. The island is noted for various types of porcelain, including Arita, Imari, Satsuma, and Karatsu. Heavy industry is concentrated in the north around Fukuoka, Kitakyushu, Nagasaki, and Oita and includes chemicals, automobiles, semiconductors, and metal processing.
+, including the SASEBO DISTRICT FORCE ]] Parts of Kyushu have a subtropical climate, particularly Miyazaki prefecture and Kagoshima prefecture. Major agricultural products are rice, tea, tobacco, sweet potatoes, and soy; silk is also widely produced. The island is noted for various types of porcelain, including Arita, Imari, Satsuma, and Karatsu. Heavy industry is concentrated in the north around Fukuoka, Kitakyushu, Nagasaki, and Oita and includes chemicals, automobiles, semiconductors, and metal processing.
 
 In 2010, the graduate employment rate in the region was the lowest nationwide, at 88.9%.[8]
 

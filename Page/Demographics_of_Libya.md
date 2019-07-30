@@ -1,9 +1,9 @@
-DEMOGRAPHICS OF LIBYA include population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the Libyan population. No complete population or vital statistics registration exists in Libya. Of the over 6,000,000 Libyans that lived in Libya prior to the Libyan Crisis, more than a million were immigrants. The estimates in this article are from which was prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, unless otherwise indicated.[1] Libya-demography.png, year 2006; Number of inhabitants in thousands. to see the latest information, please visit this official site: http://www.gait.gov.ly/info/info2.htm]] The Libyan population resides in the country of Libya, a territory located on the Mediterranean coast of North Africa, to the west of and adjacent to Egypt. Most Libyans live in Tripoli. It is the capital of the country and first in terms of urban population, as well as Benghazi, Libya's second largest city.
+DEMOGRAPHICS OF LIBYA include population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the Libyan population. No complete population or vital statistics registration exists in Libya. Of the over 6,000,000 Libyans that lived in Libya prior to the Libyan Crisis, more than a million were immigrants. The estimates in this article are from which was prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, unless otherwise indicated.[1] , year 2006; Number of inhabitants in thousands. to see the latest information, please visit this official site: http://www.gait.gov.ly/info/info2.htm]] The Libyan population resides in the country of Libya, a territory located on the Mediterranean coast of North Africa, to the west of and adjacent to Egypt. Most Libyans live in Tripoli. It is the capital of the country and first in terms of urban population, as well as Benghazi, Libya's second largest city.
 
 
 History
 
-Germa_museum.jpg]] Historically Berber, over the centuries, Libya has been occupied by the Phoenicians, Greeks, Romans, Italians, and Arabs. The Phoenicians had a big impact on Libya. Many of the coastal towns and cities of Libya were founded by the Phoenicians as trade outposts within the southern Mediterranean coast in order to facilitate the Phoenician business activities in the area. Starting in the 8th century BCE, Libya was under the rule of the Phoenician Carthage. After the Romans defeated Carthage in the Third Punic War, Libya became a Roman province under the name of Tripolitania until the 7th century CE when Libya was conquered by the Arab Muslims as part of the Arab conquest of North Africa. Centuries after that, the Ottoman Empire conquered Libya in 1551. It remained in control of its territory until 1911 when the country was conquered by Italy. In the 18th century Libya was used as the base for various pirates.
+]] Historically Berber, over the centuries, Libya has been occupied by the Phoenicians, Greeks, Romans, Italians, and Arabs. The Phoenicians had a big impact on Libya. Many of the coastal towns and cities of Libya were founded by the Phoenicians as trade outposts within the southern Mediterranean coast in order to facilitate the Phoenician business activities in the area. Starting in the 8th century BCE, Libya was under the rule of the Phoenician Carthage. After the Romans defeated Carthage in the Third Punic War, Libya became a Roman province under the name of Tripolitania until the 7th century CE when Libya was conquered by the Arab Muslims as part of the Arab conquest of North Africa. Centuries after that, the Ottoman Empire conquered Libya in 1551. It remained in control of its territory until 1911 when the country was conquered by Italy. In the 18th century Libya was used as the base for various pirates.
 
 In the Second World War Libya was one of the main battlegrounds of North Africa. During the war, the territory was under an Anglo-French military government until it was overrun by the Axis Powers, who, in turn, were defeated by the Allies in 1943.
 
@@ -20,7 +20,7 @@ Since 2011, the country is swept by Libyan Civil War, which broke out between th
 
 Population
 
-LibyaPopulation2011.jpg Libyan.jpg. In 2010, about 30 % of the population was under the age of 15.1.]] Libya has a small population residing in a large land area. Population density is about 50 persons per km² (130/sq. mi.) in the two northern regions of Tripolitania and Cyrenaica, but falls to less than one person per km² (2.7/sq. mi.) elsewhere. Ninety percent of the people live in less than 10% of the area, primarily along the coast. About 90%[4] of the population is urban, mostly concentrated in the four largest cities, Tripoli, Benghazi, Misrata and Bayda. Thirty percent of the population is estimated to be under the age of 15, but this proportion has decreased considerably during the past decades.
+. In 2010, about 30 % of the population was under the age of 15.1.]] Libya has a small population residing in a large land area. Population density is about 50 persons per km² (130/sq. mi.) in the two northern regions of Tripolitania and Cyrenaica, but falls to less than one person per km² (2.7/sq. mi.) elsewhere. Ninety percent of the people live in less than 10% of the area, primarily along the coast. About 90%[4] of the population is urban, mostly concentrated in the four largest cities, Tripoli, Benghazi, Misrata and Bayda. Thirty percent of the population is estimated to be under the age of 15, but this proportion has decreased considerably during the past decades.
 
          Total population (x 1000)   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ --------------------------- -------------------------- --------------------------- -------------------------
@@ -179,8 +179,6 @@ LIFE EXPECTANCY AT BIRTH
 
 Ethnic and tribal groups
 
-Ethnic composition of the Libyan population in 1974 (CIA map)
-
 Ethnic groups
 
 [[Berbers|Berber8}} }}
@@ -212,7 +210,7 @@ the major tribal groups of Libya, by region, were as follows:[13]
 
 Foreign population
 
-Building_house.jpg.]] The foreign population is estimated at 3%, most of which are migrant workers in the oil industry from Tunisia and Egypt, but also including small numbers of Greeks, Maltese, Italians, Pakistanis, Palestinians, Turks, Indians, and people from former Yugoslavia. Due to the Libyan Civil War, most of these migrant workers have returned to their homelands or simply left the country for a different one.
+.]] The foreign population is estimated at 3%, most of which are migrant workers in the oil industry from Tunisia and Egypt, but also including small numbers of Greeks, Maltese, Italians, Pakistanis, Palestinians, Turks, Indians, and people from former Yugoslavia. Due to the Libyan Civil War, most of these migrant workers have returned to their homelands or simply left the country for a different one.
 
 However, according to news accounts in Allafrica.com, and the Libya Herald, between 1 million and 2 million Egyptians are resident in Libya and the Sudanese number in the hundreds of thousands. If this is correct, the foreign population could be as high as 30% of the country, as simultaneously at least two million Libyans have fled since the NATO intervention of 2011, toppling the previous Libyan government.
 

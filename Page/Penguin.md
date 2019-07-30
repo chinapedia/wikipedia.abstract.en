@@ -7,7 +7,7 @@ The largest living species is the emperor penguin (_Aptenodytes forsteri_):[1] o
 
 Etymology
 
-Penguin_in_Antarctica_jumping_out_of_the_water.jpgs (_Aptenodytes forsteri_) in Antarctica.]] The word _penguin_ first appears in the 16th century as a synonym for great auk.[2] When European explorers discovered what are today known as penguins in the Southern Hemisphere, they noticed their similar appearance to the great auk of the Northern Hemisphere, and named them after this bird, although they are not closely related.[3]
+s (_Aptenodytes forsteri_) in Antarctica.]] The word _penguin_ first appears in the 16th century as a synonym for great auk.[2] When European explorers discovered what are today known as penguins in the Southern Hemisphere, they noticed their similar appearance to the great auk of the Northern Hemisphere, and named them after this bird, although they are not closely related.[3]
 
 The etymology of the word _penguin_ is still debated. The English word is not apparently of French,[4] Breton[5] or Spanish[6] origin (the latter two are attributed to the French word "auk"), but first appears in English or Dutch.[7]
 
@@ -22,46 +22,46 @@ Systematics and evolution
 
 Living species and recent extinctions
 
-Antarctic_adelie_penguins_(js)_21.jpg (_Pygoscelis adeliae_) feeding young. Like its relatives, a neatly bi-coloured species with a head marking.]] 135_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPGs (_Spheniscus magellanicus_). The closed neck collar denotes this species.]] Falkland_Islands_Penguins_88.jpg (_Eudyptes chrysocome_) displaying its distinctive crest]] Penguins_walking_-Moltke_Harbour,_South_Georgia,_British_overseas_territory,_UK-8.jpgs and one gentoo penguin on a beach on South Georgia, British overseas territory]] The number of extant penguin species is debated. Depending on which authority is followed, penguin biodiversity varies between 17 and 20 living species, all in the subfamily SPHENISCINAE. Some sources consider the white-flippered penguin a separate _Eudyptula_ species, while others treat it as a subspecies of the little penguin;[13][14] the actual situation seems to be more complicated.[15] Similarly, it is still unclear whether the royal penguin is merely a colour morph of the macaroni penguin. The status of the rockhopper penguins is also unclear.
+(_Pygoscelis adeliae_) feeding young. Like its relatives, a neatly bi-coloured species with a head marking.]] s (_Spheniscus magellanicus_). The closed neck collar denotes this species.]] (_Eudyptes chrysocome_) displaying its distinctive crest]] s and one gentoo penguin on a beach on South Georgia, British overseas territory]] The number of extant penguin species is debated. Depending on which authority is followed, penguin biodiversity varies between 17 and 20 living species, all in the subfamily SPHENISCINAE. Some sources consider the white-flippered penguin a separate _Eudyptula_ species, while others treat it as a subspecies of the little penguin;[13][14] the actual situation seems to be more complicated.[15] Similarly, it is still unclear whether the royal penguin is merely a colour morph of the macaroni penguin. The status of the rockhopper penguins is also unclear.
 
 Updated after Marples (1962),[16] Acosta Hospitaleche (2004),[17] and Ksepka _et al._ (2006).[18]
 
 SUBFAMILY SPHENISCINAE – modern penguins
 
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-| Image                                                                                     | Genus                                | Living Species                                                     |
-+===========================================================================================+======================================+====================================================================+
-| Emperor_Penguin_Manchot_empereur.jpg                                                      | _APTENODYTES_ – great penguins       | -   King penguin, _Aptenodytes patagonicus_                        |
-|                                                                                           |                                      | -   Emperor penguin, _Aptenodytes forsteri_                        |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-| Pygoscelis_antarcticus_-Cooper_Bay,_South_Georgia,_British_Overseas_Territories,_UK-8.jpg | _PYGOSCELIS_ – brush-tailed penguins | -   Adélie penguin, _Pygoscelis adeliae_                           |
-|                                                                                           |                                      | -   Chinstrap penguin, _Pygoscelis antarctica_                     |
-|                                                                                           |                                      | -   Gentoo penguin, _Pygoscelis papua_                             |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-| Little_Penguin_Feb09.jpg                                                                  | _EUDYPTULA_ – little penguins        | -   Little blue penguin, _Eudyptula minor_                         |
-|                                                                                           |                                      | -   Australian little penguin, _Eudyptula novaehollandiae_         |
-|                                                                                           |                                      | -   White-flippered penguin, _Eudyptula albosignata_ (provisional) |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-| Pingüino_(1).JPG                                                                          | _SPHENISCUS_ – banded penguins       | -   Magellanic penguin, _Spheniscus magellanicus_                  |
-|                                                                                           |                                      | -   Humboldt penguin, _Spheniscus humboldti_                       |
-|                                                                                           |                                      | -   Galapagos penguin, _Spheniscus mendiculus_                     |
-|                                                                                           |                                      | -   African penguin, _Spheniscus demersus_                         |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-| Yellow-eyed_Penguin_MC.jpg                                                                | _MEGADYPTES_                         | -   Yellow-eyed penguin, _Megadyptes antipodes_                    |
-|                                                                                           |                                      | -   †Waitaha penguin, _Megadyptes waitaha_ (extinct)               |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-| SnaresPenguin_(Mattern)_large.jpg                                                         | _EUDYPTES_ – crested penguins        | -   Fiordland penguin, _Eudyptes pachyrynchus_                     |
-|                                                                                           |                                      | -   Snares penguin, _Eudyptes robustus_                            |
-|                                                                                           |                                      | -   Erect-crested penguin, _Eudyptes sclateri_                     |
-|                                                                                           |                                      | -   Southern rockhopper penguin, _Eudyptes chrysocome_             |
-|                                                                                           |                                      | -   Eastern rockhopper penguin, _Eudyptes filholi_                 |
-|                                                                                           |                                      | -   Northern rockhopper penguin, _Eudyptes moseleyi_               |
-|                                                                                           |                                      | -   Royal penguin, _Eudyptes schlegeli_ (disputed)                 |
-|                                                                                           |                                      | -   Macaroni penguin, _Eudyptes chrysolophus_                      |
-|                                                                                           |                                      | -   †Chatham penguin, _Eudyptes chathamensis_ (extinct)            |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
-|                                                                                           |                                      |                                                                    |
-+-------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------------------------------------+
++-------+--------------------------------------+--------------------------------------------------------------------+
+| Image | Genus                                | Living Species                                                     |
++=======+======================================+====================================================================+
+|       | _APTENODYTES_ – great penguins       | -   King penguin, _Aptenodytes patagonicus_                        |
+|       |                                      | -   Emperor penguin, _Aptenodytes forsteri_                        |
++-------+--------------------------------------+--------------------------------------------------------------------+
+|       | _PYGOSCELIS_ – brush-tailed penguins | -   Adélie penguin, _Pygoscelis adeliae_                           |
+|       |                                      | -   Chinstrap penguin, _Pygoscelis antarctica_                     |
+|       |                                      | -   Gentoo penguin, _Pygoscelis papua_                             |
++-------+--------------------------------------+--------------------------------------------------------------------+
+|       | _EUDYPTULA_ – little penguins        | -   Little blue penguin, _Eudyptula minor_                         |
+|       |                                      | -   Australian little penguin, _Eudyptula novaehollandiae_         |
+|       |                                      | -   White-flippered penguin, _Eudyptula albosignata_ (provisional) |
++-------+--------------------------------------+--------------------------------------------------------------------+
+|       | _SPHENISCUS_ – banded penguins       | -   Magellanic penguin, _Spheniscus magellanicus_                  |
+|       |                                      | -   Humboldt penguin, _Spheniscus humboldti_                       |
+|       |                                      | -   Galapagos penguin, _Spheniscus mendiculus_                     |
+|       |                                      | -   African penguin, _Spheniscus demersus_                         |
++-------+--------------------------------------+--------------------------------------------------------------------+
+|       | _MEGADYPTES_                         | -   Yellow-eyed penguin, _Megadyptes antipodes_                    |
+|       |                                      | -   †Waitaha penguin, _Megadyptes waitaha_ (extinct)               |
++-------+--------------------------------------+--------------------------------------------------------------------+
+|       | _EUDYPTES_ – crested penguins        | -   Fiordland penguin, _Eudyptes pachyrynchus_                     |
+|       |                                      | -   Snares penguin, _Eudyptes robustus_                            |
+|       |                                      | -   Erect-crested penguin, _Eudyptes sclateri_                     |
+|       |                                      | -   Southern rockhopper penguin, _Eudyptes chrysocome_             |
+|       |                                      | -   Eastern rockhopper penguin, _Eudyptes filholi_                 |
+|       |                                      | -   Northern rockhopper penguin, _Eudyptes moseleyi_               |
+|       |                                      | -   Royal penguin, _Eudyptes schlegeli_ (disputed)                 |
+|       |                                      | -   Macaroni penguin, _Eudyptes chrysolophus_                      |
+|       |                                      | -   †Chatham penguin, _Eudyptes chathamensis_ (extinct)            |
++-------+--------------------------------------+--------------------------------------------------------------------+
+|       |                                      |                                                                    |
++-------+--------------------------------------+--------------------------------------------------------------------+
 
 Fossil genera
 
@@ -84,7 +84,7 @@ ORDER SPHENISCIFORMES[19]
     -   _Tereingaornis_ (Middle Pliocene of New Zealand)
     -   _Tonniornis_ (Late Eocene –? Early Oligocene of Seymour Island, Antarctica)
     -   _Wimanornis_ (Late Eocene –? Early Oligocene of Seymour Island, Antarctica)
--   SPHENISCIDAEIcadyptes_BW.jpg'']]
+-   SPHENISCIDAE'']]
     -   _Waimanu_ Jones, Ando & Fordyce 2006 (Middle-Late Paleocene)
     -   _Kumimanu_ Mayr, 2017
     -   _Delphinornis_ Wiman 1905 (Middle/Late Eocene? – Early Oligocene of Seymour Island, Antarctica)
@@ -119,7 +119,7 @@ Some recent sources[25][26] apply the phylogenetic taxon Spheniscidae to what he
 
 Evolution
 
-CSIRO_ScienceImage_11266_Penguin_tracks.jpg, Tasmania]] The evolutionary history of penguins is well-researched and represents a showcase of evolutionary biogeography. Although penguin bones of any one species vary much in size and few good specimens are known, the alpha taxonomy of many prehistoric forms still leaves much to be desired. Some seminal articles about penguin prehistory have been published since 2005;[28][29][30][31] the evolution of the living genera can be considered resolved by now.
+, Tasmania]] The evolutionary history of penguins is well-researched and represents a showcase of evolutionary biogeography. Although penguin bones of any one species vary much in size and few good specimens are known, the alpha taxonomy of many prehistoric forms still leaves much to be desired. Some seminal articles about penguin prehistory have been published since 2005;[28][29][30][31] the evolution of the living genera can be considered resolved by now.
 
 The basal penguins lived around the time of the Cretaceous–Paleogene extinction event somewhere in the general area of (southern) New Zealand and Byrd Land, Antarctica.[32] Due to plate tectonics, these areas were at that time less than apart rather than the of today. The most recent common ancestor of penguins and their sister clade can be roughly dated to the Campanian–Maastrichtian boundary, around 70–68 mya.[33][34][35] What can be said as certainly as possible in the absence of direct (i.e., fossil) evidence is that, by the end of the Cretaceous, the penguin lineage must have been evolutionarily well distinct, though much less so morphologically; it is fairly likely that they were not yet entirely flightless at that time, as flightless birds have generally low resilience to the breakdown of trophic webs that follows the initial phase of mass extinctions because of their below-average dispersal capabilities (_see also_ Flightless cormorant).
 
@@ -161,7 +161,7 @@ Relationship to other bird orders
 
 Penguin ancestry beyond _Waimanu_ remains unknown and not well-resolved by molecular or morphological analyses. The latter tend to be confounded by the strong adaptive autapomorphies of the Sphenisciformes; a sometimes perceived fairly close relationship between penguins and grebes is almost certainly an error based on both groups' strong diving adaptations, which are homoplasies. On the other hand, different DNA sequence datasets do not agree in detail with each other either.
 
-Spheniscus_humboldti_-swimming_-aquarium-8a.jpg instead of wings.]] What seems clear is that penguins belong to a clade of Neoaves (living birds except paleognaths and fowl) that comprises what is sometimes called "higher waterbirds" to distinguish them from the more ancient waterfowl. This group contains such birds as storks, rails, and the seabirds, with the possible exception of the Charadriiformes.[58]
+instead of wings.]] What seems clear is that penguins belong to a clade of Neoaves (living birds except paleognaths and fowl) that comprises what is sometimes called "higher waterbirds" to distinguish them from the more ancient waterfowl. This group contains such birds as storks, rails, and the seabirds, with the possible exception of the Charadriiformes.[58]
 
 Inside this group, penguin relationships are far less clear. Depending on the analysis and dataset, a close relationship to Ciconiiformes[59] or to Procellariiformes[60] has been suggested. Some think the penguin-like plotopterids (usually considered relatives of anhingas and cormorants) may actually be a sister group of the penguins and those penguins may have ultimately shared a common ancestor with the Pelecaniformes and consequently would have to be included in that order, or that the plotopterids were not as close to other pelecaniforms as generally assumed, which would necessitate splitting the traditional Pelecaniformes in three.[61]
 
@@ -172,7 +172,7 @@ The distantly related puffins, which live in the North Pacific and North Atlanti
 
 Anatomy and physiology
 
-Penguin_Wing.svg Taxidermy_of_a_penguin_skin.jpg Penguins are superbly adapted to aquatic life. Their wings have evolved to become flippers, useless for flight in the air. In the water, however, penguins are astonishingly agile. Penguins' swimming looks very similar to bird's flight in the air.[65] Within the smooth plumage a layer of air is preserved, ensuring buoyancy. The air layer also helps insulate the birds in cold waters. On land, penguins use their tails and wings to maintain balance for their upright stance.
+Penguins are superbly adapted to aquatic life. Their wings have evolved to become flippers, useless for flight in the air. In the water, however, penguins are astonishingly agile. Penguins' swimming looks very similar to bird's flight in the air.[65] Within the smooth plumage a layer of air is preserved, ensuring buoyancy. The air layer also helps insulate the birds in cold waters. On land, penguins use their tails and wings to maintain balance for their upright stance.
 
 All penguins are countershaded for camouflage – that is, they have black backs and wings with white fronts.[66] A predator looking up from below (such as an orca or a leopard seal) has difficulty distinguishing between a white penguin belly and the reflective water surface. The dark plumage on their backs camouflages them from above.
 
@@ -180,7 +180,7 @@ Diving penguins reach , though there are reports of velocities of (which are mor
 
 Penguins either waddle on their feet or slide on their bellies across the snow while using their feet to propel and steer themselves, a movement called "tobogganing", which conserves energy while moving quickly. They also jump with both feet together if they want to move more quickly or cross steep or rocky terrain.
 
-Penguins have an average sense of hearing for birds;[67] this is used by parents and chicks to locate one another in crowded colonies.[68] Their eyes are adapted for underwater vision, and are their primary means of locating prey and avoiding predators; in air it has been suggested that they are nearsighted, although research has not supported this hypothesis.[69] Pygoscelis_papua_-Nagasaki_Penguin_Aquarium_-swimming_underwater-8a.jpg swimming underwater at Nagasaki Penguin Aquarium.]] Penguins have a thick layer of insulating feathers that keeps them warm in water (heat loss in water is much greater than in air). The emperor penguin has a maximum feather density of about nine feathers per square centimeter which is actually much lower than other birds that live in antarctic environments. However, they have been identified as having at least four different _types_ of feather: in addition to the traditional feather, the emperor has afterfeathers, plumules, and filoplumes. The afterfeathers are downy plumes that attach directly to the main feathers and were once believed to account for the bird's ability to conserve heat when under water; the plumules are small down feathers that attach directly to the skin, and are much more dense in penguins than other birds; lastly the filoplumes are small (less than 1 cm long) naked shafts that end in a splay of fibers— filoplumes were believed to give flying birds a sense of where their plumage was and whether or not it needed preening, so their presence in penguins may seem inconsistent, but penguins also preen extensively.[70]
+Penguins have an average sense of hearing for birds;[67] this is used by parents and chicks to locate one another in crowded colonies.[68] Their eyes are adapted for underwater vision, and are their primary means of locating prey and avoiding predators; in air it has been suggested that they are nearsighted, although research has not supported this hypothesis.[69] swimming underwater at Nagasaki Penguin Aquarium.]] Penguins have a thick layer of insulating feathers that keeps them warm in water (heat loss in water is much greater than in air). The emperor penguin has a maximum feather density of about nine feathers per square centimeter which is actually much lower than other birds that live in antarctic environments. However, they have been identified as having at least four different _types_ of feather: in addition to the traditional feather, the emperor has afterfeathers, plumules, and filoplumes. The afterfeathers are downy plumes that attach directly to the main feathers and were once believed to account for the bird's ability to conserve heat when under water; the plumules are small down feathers that attach directly to the skin, and are much more dense in penguins than other birds; lastly the filoplumes are small (less than 1 cm long) naked shafts that end in a splay of fibers— filoplumes were believed to give flying birds a sense of where their plumage was and whether or not it needed preening, so their presence in penguins may seem inconsistent, but penguins also preen extensively.[70]
 
 The emperor penguin has the largest body mass of all penguins, which further reduces relative surface area and heat loss. They also are able to control blood flow to their extremities, reducing the amount of blood that gets cold, but still keeping the extremities from freezing. In the extreme cold of the Antarctic winter, the females are at sea fishing for food leaving the males to brave the weather by themselves. They often huddle together to keep warm and rotate positions to make sure that each penguin gets a turn in the centre of the heat pack.
 
@@ -192,7 +192,7 @@ The great auk of the Northern Hemisphere, now extinct, was superficially similar
 
 Isabelline penguins
 
-Penguins_on_Gourdin_Island.jpg Adélie penguin on Gourdin Island.]] Perhaps one in 50,000 penguins (of most species) are born with brown rather than black plumage. These are called isabelline penguins. Isabellinism is different from albinism. Isabelline penguins tend to live shorter lives than normal penguins, as they are not well-camouflaged against the deep and are often passed over as mates.
+Adélie penguin on Gourdin Island.]] Perhaps one in 50,000 penguins (of most species) are born with brown rather than black plumage. These are called isabelline penguins. Isabellinism is different from albinism. Isabelline penguins tend to live shorter lives than normal penguins, as they are not well-camouflaged against the deep and are often passed over as mates.
 
 
 Distribution and habitat
@@ -206,7 +206,7 @@ Major populations of penguins are found in Angola, Antarctica, Argentina, Austra
 
 Behaviour
 
-Pygoscelis_antarctica_trying_to_get_to_iceberg.wmv.OGGs in Antarctica.]]
+s in Antarctica.]]
 
 Breeding
 
@@ -223,7 +223,7 @@ When emperor penguin mothers lose a chick, they sometimes attempt to "steal" ano
 
 Penguins and humans
 
-CharlesGreenwithPenguin.png on the _Endurance_ preparing an emperor penguin for consumption]] AntarcticaSummer.jpg encounters a human during Antarctic summer.]] Penguins appear to have no special fear of humans, and will approach groups of people without hesitation. This is probably because penguins have no land predators in Antarctica or the nearby offshore islands. Dogs preyed upon penguins while they were allowed in Antarctica during the age of early human exploration as sled dogs, but dogs have long since been banned from Antarctica.[98] Instead, adult penguins are at risk at sea from predators such as sharks, orcas, and leopard seals. Typically, penguins do not approach closer than around 9 feet (3 meters), at which point they appear to become nervous. This is also the distance that Antarctic tourists are instructed to maintain between themselves and penguins: tourists are instructed not to approach closer than 9 feet, but need not withdraw if the penguins come closer.
+on the _Endurance_ preparing an emperor penguin for consumption]] encounters a human during Antarctic summer.]] Penguins appear to have no special fear of humans, and will approach groups of people without hesitation. This is probably because penguins have no land predators in Antarctica or the nearby offshore islands. Dogs preyed upon penguins while they were allowed in Antarctica during the age of early human exploration as sled dogs, but dogs have long since been banned from Antarctica.[98] Instead, adult penguins are at risk at sea from predators such as sharks, orcas, and leopard seals. Typically, penguins do not approach closer than around 9 feet (3 meters), at which point they appear to become nervous. This is also the distance that Antarctic tourists are instructed to maintain between themselves and penguins: tourists are instructed not to approach closer than 9 feet, but need not withdraw if the penguins come closer.
 
 In June 2011, a penguin came ashore on New Zealand's Peka Peka Beach, 3200 km off course on its journey to Antarctica.[99] Nicknamed Happy Feet, after the movie of the same name, it was suffering from heat exhaustion and had to undergo a number of operations to remove objects like driftwood and sand from its stomach.[100] Happy Feet was a media sensation, with extensive coverage on TV and the web, including a live stream that had thousands of views[101] and a visit from English actor Stephen Fry.[102]
 
@@ -231,7 +231,7 @@ Once he had recovered, Happy Feet was released back into the water south of New 
 
 In popular culture
 
-Tux.svg the Linux kernel mascot]]
+the Linux kernel mascot]]
 
 Penguins are popularly loved around the world, primarily for their unusually upright, waddling gait, impressive swimming ability and (compared to other birds) lack of fear of humans. Their striking black-and-white plumage is often likened to a white tie suit. Mistakenly, some artists and writers have penguins based at the North Pole. This is incorrect, as there are no wild penguins in the Arctic. The cartoon series _Chilly Willy_ helped perpetuate this myth, as the title penguin would interact with Arctic or subarctic species, such as polar bears and walruses.
 

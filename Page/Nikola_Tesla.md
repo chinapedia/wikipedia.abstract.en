@@ -9,13 +9,13 @@ After Wardenclyffe, Tesla experimented with a series of inventions in the 1910s 
 
 Early years
 
-Nikola_Tesla_Memorial_Center.JPG, now in Croatia, where he was born, and the rebuilt church, where his father served. During the Yugoslav Wars, several of the buildings were severely damaged by fire. They were restored and reopened in 2006.[9]]] Nikola_Tesla_birth_certificate.png
+, now in Croatia, where he was born, and the rebuilt church, where his father served. During the Yugoslav Wars, several of the buildings were severely damaged by fire. They were restored and reopened in 2006.[9]]]
 
 Nikola Tesla was born an ethnic Serb in the village Smiljan, Lika county, in the Austrian Empire (present day Croatia), on 1856. His father, Milutin Tesla (1819–1879), was an Eastern Orthodox priest. Tesla's mother, Đuka Tesla (née Mandić; 1822–1892), whose father was also an Orthodox priest, had a talent for making home craft tools and mechanical appliances and the ability to memorize Serbian epic poems. Đuka had never received a formal education. Tesla credited his eidetic memory and creative abilities to his mother's genetics and influence. Tesla's progenitors were from western Serbia, near Montenegro.
 
 Tesla was the fourth of five children. He had three sisters, Milka, Angelina and Marica, and an older brother named Dane, who was killed in a horse riding accident when Tesla was aged five. In 1861, Tesla attended primary school in Smiljan where he studied German, arithmetic, and religion.[10] In 1862, the Tesla family moved to the nearby Gospić, Lika where Tesla's father worked as parish priest. Nikola completed primary school, followed by middle school.[11] In 1870, Tesla moved far north to Karlovac[12] to attend high school at the Higher Real Gymnasium. The classes were held in German, as it was a school within the Austro-Hungarian Military Frontier.[13]
 
-Milutin_Tesla.jpg priest in the village of Smiljan]]
+priest in the village of Smiljan]]
 
 Tesla would later write that he became interested in demonstrations of electricity by his physics professor.[14] Tesla noted that these demonstrations of this "mysterious phenomena" made him want "to know more of this wonderful force". Tesla was able to perform integral calculus in his head, which prompted his teachers to believe that he was cheating.[15] He finished a four-year term in three years, graduating in 1873.
 
@@ -26,8 +26,6 @@ In 1874, Tesla evaded conscription into the Austro-Hungarian Army in Smiljan by 
 In 1875, Tesla enrolled at Austrian Polytechnic in Graz, Austria, on a Military Frontier scholarship. During his first year, Tesla never missed a lecture, earned the highest grades possible, passed nine exams[21][22] (nearly twice as many as required), started a Serb cultural club,[23] and even received a letter of commendation from the dean of the technical faculty to his father, which stated, "Your son is a star of first rank." During his second year, Tesla came into conflict with Professor Poeschl over the Gramme dynamo, when Tesla suggested that commutators were not necessary.
 
 Tesla claimed that he worked from 3 a.m. to 11 p.m., no Sundays or holidays excepted.[24] He was "mortified when [his] father made light of [those] hard won honors." After his father's death in 1879, Tesla found a package of letters from his professors to his father, warning that unless he were removed from the school, Tesla would die through overwork. At the end of his second year, Tesla lost his scholarship and became addicted to gambling.[25][26] During his third year, Tesla gambled away his allowance and his tuition money, later gambling back his initial losses and returning the balance to his family. Tesla said that he "conquered [his] passion then and there," but later in the US he was again known to play billiards. When examination time came, Tesla was unprepared and asked for an extension to study, but was denied. He did not receive grades for the last semester of the third year and he never graduated from the university.
-
-Tesla_1879_teslauniverse.jpg
 
 In December 1878, Tesla left Graz and severed all relations with his family to hide the fact that he dropped out of school. His friends thought that he had drowned in the nearby Mur River. Tesla moved to Maribor, where he worked as a draftsman for 60 florins per month. He spent his spare time playing cards with local men on the streets.
 
@@ -48,7 +46,7 @@ In 1882, Tivadar Puskás got Tesla another job in Paris with the Continental Edi
 
 Move to the United States
 
-Edison_machine_works_goerck_street_new_york_1881.pngs on Manhattan's lower east side, a "painful surprise".]]
+s on Manhattan's lower east side, a "painful surprise".]]
 
 In 1884, Edison manager Charles Batchelor, who had been overseeing the Paris installation, was brought back to the United States to manage the Edison Machine Works, a manufacturing division situated in New York City, and asked that Tesla be brought to the US as well. In June 1884, Tesla emigrated to the United States. He began working almost immediately at the Machine Works on Manhattan's Lower East Side, an overcrowded shop with a workforce of several hundred machinists, laborers, managing staff, and 20 "field engineers" struggling with the task of building the large electric utility in that city.[37] As in Paris, Tesla was working on troubleshooting installations and improving generators.[38] Historian W. Bernard Carlson notes Tesla may have met company founder Thomas Edison only a couple of times.[39] One of those times was noted in Tesla's autobiography where, after staying up all night repairing the damaged dynamos on the ocean liner SS _Oregon_, he ran into Batchelor and Edison, who made a quip about their "Parisian" being out all night. After Tesla told them he had been up all night fixing the _Oregon_ Edison commented to Batchelor that "this is a damned good man". One of the projects given to Tesla was to develop an arc lamp-based street lighting system.[40] Arc lighting was the most popular type of street lighting but it required high voltages and was incompatible with the Edison low-voltage incandescent system, causing the company to lose contracts in cities that wanted street lighting as well. Tesla's designs were never put into production, possibly because of technical improvements in incandescent street lighting or because of an installation deal that Edison cut with an arc lighting company.
 
@@ -64,13 +62,13 @@ The investors showed little interest in Tesla's ideas for new types of alternati
 
 AC and the induction motor
 
-RMFpatent.PNG In late 1886, Tesla met Alfred S. Brown, a Western Union superintendent, and New York attorney Charles F. Peck. The two men were experienced in setting up companies and promoting inventions and patents for financial gain. Based on Tesla's new ideas for electrical equipment, including a thermo-magnetic motor idea, they agreed to back the inventor financially and handle his patents. Together they formed the Tesla Electric Company in April 1887, with an agreement that profits from generated patents would go 1/3 to Tesla, 1/3 to Peck and Brown, and 1/3 to fund development. They set up a laboratory for Tesla at 89 Liberty Street in Manhattan, where he worked on improving and developing new types of electric motors, generators, and other devices.
+In late 1886, Tesla met Alfred S. Brown, a Western Union superintendent, and New York attorney Charles F. Peck. The two men were experienced in setting up companies and promoting inventions and patents for financial gain. Based on Tesla's new ideas for electrical equipment, including a thermo-magnetic motor idea, they agreed to back the inventor financially and handle his patents. Together they formed the Tesla Electric Company in April 1887, with an agreement that profits from generated patents would go 1/3 to Tesla, 1/3 to Peck and Brown, and 1/3 to fund development. They set up a laboratory for Tesla at 89 Liberty Street in Manhattan, where he worked on improving and developing new types of electric motors, generators, and other devices.
 
 In 1887, Tesla developed an induction motor that ran on alternating current (AC), a power system format that was rapidly expanding in Europe and the United States because of its advantages in long-distance, high-voltage transmission. The motor used polyphase current, which generated a rotating magnetic field to turn the motor (a principle that Tesla claimed to have conceived in 1882).[48][49][50] This innovative electric motor, patented in May 1888, was a simple self-starting design that did not need a commutator, thus avoiding sparking and the high maintenance of constantly servicing and replacing mechanical brushes.[51]
 
 Along with getting the motor patented, Peck and Brown arranged to get the motor publicized, starting with independent testing to verify it was a functional improvement, followed by press releases sent to technical publications for articles to run concurrent with the issue of the patent. Physicist William Arnold Anthony (who tested the motor) and _Electrical World_ magazine editor Thomas Commerford Martin arranged for Tesla to demonstrate his AC motor on 16 May 1888 at the American Institute of Electrical Engineers.[52] Engineers working for the Westinghouse Electric & Manufacturing Company reported to George Westinghouse that Tesla had a viable AC motor and related power system—something Westinghouse needed for the alternating current system he was already marketing. Westinghouse looked into getting a patent on a similar commutator-less, rotating magnetic field-based induction motor developed in 1885 and presented in a paper in March 1888 by Italian physicist Galileo Ferraris, but decided that Tesla's patent would probably control the market.
 
-US390721.png) in an 1888 ]] In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor. Westinghouse also hired Tesla for one year for the large fee of $2,000 ($ in today's dollars) per month to be a consultant at the Westinghouse Electric & Manufacturing Company's Pittsburgh labs.
+) in an 1888 ]] In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor. Westinghouse also hired Tesla for one year for the large fee of $2,000 ($ in today's dollars) per month to be a consultant at the Westinghouse Electric & Manufacturing Company's Pittsburgh labs.
 
 During that year, Tesla worked in Pittsburgh, helping to create an alternating current system to power the city's streetcars. He found it a frustrating period because of conflicts with the other Westinghouse engineers over how best to implement AC power. Between them, they settled on a 60-cycle AC system that Tesla proposed (to match the working frequency of Tesla's motor), but they soon found that it would not work for streetcars, since Tesla's induction motor could run only at a constant speed. They ended up using a DC traction motor instead.[53][54]
 
@@ -83,7 +81,7 @@ Two years after signing the Tesla contract, Westinghouse Electric was in trouble
 
 New York laboratories
 
-Twain_in_Tesla's_Lab.jpg in Tesla's South Fifth Avenue laboratory, 1894]] The money Tesla made from licensing his AC patents made him independently wealthy and gave him the time and funds to pursue his own interests.[63] In 1889, Tesla moved out of the Liberty Street shop Peck and Brown had rented and for the next dozen years would work out of a series of workshop/laboratory spaces in Manhattan. These included a lab at 175 Grand Street (1889–1892), the fourth floor of 33–35 South Fifth Avenue (1892–1895), and sixth and seventh floors of 46 & 48 East Houston Street (1895–1902).[64][65] Tesla and his hired staff would conduct some of his most significant work in these workshops.
+in Tesla's South Fifth Avenue laboratory, 1894]] The money Tesla made from licensing his AC patents made him independently wealthy and gave him the time and funds to pursue his own interests.[63] In 1889, Tesla moved out of the Liberty Street shop Peck and Brown had rented and for the next dozen years would work out of a series of workshop/laboratory spaces in Manhattan. These included a lab at 175 Grand Street (1889–1892), the fourth floor of 33–35 South Fifth Avenue (1892–1895), and sixth and seventh floors of 46 & 48 East Houston Street (1895–1902).[64][65] Tesla and his hired staff would conduct some of his most significant work in these workshops.
 
 Tesla coil
 
@@ -95,7 +93,7 @@ On 30 July 1891, aged 35, Tesla became a naturalized citizen of the United State
 
 Wireless lighting
 
-TeslaWirelessPower1891.png via two long Geissler tubes (similar to neon tubes) in his hands.]]
+via two long Geissler tubes (similar to neon tubes) in his hands.]]
 
 After 1890, Tesla experimented with transmitting power by inductive and capacitive coupling using high AC voltages generated with his Tesla coil.[68] He attempted to develop a wireless lighting system based on near-field inductive and capacitive coupling and conducted a series of public demonstrations where he lit Geissler tubes and even incandescent light bulbs from across a stage. He would spend most of the decade working on variations of this new form of lighting with the help of various investors but none of the ventures succeeded in making a commercial product out of his findings.[69]
 
@@ -109,7 +107,7 @@ Trying to come up with a better way to generate alternating current, Tesla devel
 
 Polyphase System and the Columbian Exposition
 
-TeslaPOLYPHASEColumbianEXPO1893rwLIPACKownerA.pdf At the beginning of 1893, Westinghouse engineer Benjamin Lamme had made great progress developing an efficient version of Tesla's induction motor, and Westinghouse Electric started branding their complete polyphase AC system as the "Tesla Polyphase System". They believed that Tesla's patents gave them patent priority over other AC systems.
+At the beginning of 1893, Westinghouse engineer Benjamin Lamme had made great progress developing an efficient version of Tesla's induction motor, and Westinghouse Electric started branding their complete polyphase AC system as the "Tesla Polyphase System". They believed that Tesla's patents gave them patent priority over other AC systems.
 
 Westinghouse Electric asked Tesla to participate in the 1893 World's Columbian Exposition in Chicago where the company had a large space in a building devoted to electrical exhibits. Westinghouse Electric won the bid to light the Exposition with alternating current and it was a key event in the history of AC power, as the company demonstrated to the American public the safety, reliability, and efficiency of a fully integrated alternating current system.[73][74][75] Tesla showed a series of electrical effects related to alternating current as well as his wireless lighting system, using a demonstration he had previously performed throughout America and Europe; these included using high-voltage, high-frequency alternating current to light a wireless gas-discharge lamp.
 
@@ -131,11 +129,7 @@ In the early morning hours of 13 March 1895, the South Fifth Avenue building tha
 
 X-ray experimentation
 
-Рэнтгенаўскі_здымак_рукі_Тэслы.jpeg
-
 Starting in 1894, Tesla began investigating what he referred to as radiant energy of "invisible" kinds after he had noticed damaged film in his laboratory in previous experiments[78] (later identified as "_Roentgen rays_" or "X-Rays"). His early experiments were with Crookes tubes, a cold cathode electrical discharge tube. Tesla may have inadvertently captured an X-ray image—predating, by a few weeks, Wilhelm Röntgen's December 1895 announcement of the discovery of X-rays when he tried to photograph Mark Twain illuminated by a Geissler tube, an earlier type of gas discharge tube. The only thing captured in the image was the metal locking screw on the camera lens.
-
-Tesla_boat1.jpg
 
 In March 1896, after hearing of Wilhelm Röntgen's discovery of X-ray and X-ray imaging (radiography),[79] Tesla proceeded to do his own experiments in X-ray imaging, developing a high energy single terminal vacuum tube of his own design that had no target electrode and that worked from the output of the Tesla Coil (the modern term for the phenomenon produced by this device is _bremsstrahlung_ or _braking radiation_). In his research, Tesla devised several experimental setups to produce X-rays. Tesla held that, with his circuits, the "instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus".[80]
 
@@ -152,7 +146,7 @@ In 1898, Tesla demonstrated a boat that used a coherer-based radio control—whi
 
 Wireless power
 
-Teslathinker.jpg From the 1890s through 1906, Tesla spent a great deal of his time and fortune on a series of projects trying to develop the transmission of electrical power without wires. It was an expansion of his idea of using coils to transmit power that he had been demonstrating in wireless lighting. He saw this as not only a way to transmit large amounts of power around the world but also, as he had pointed out in his earlier lectures, a way to transmit worldwide communications.
+From the 1890s through 1906, Tesla spent a great deal of his time and fortune on a series of projects trying to develop the transmission of electrical power without wires. It was an expansion of his idea of using coils to transmit power that he had been demonstrating in wireless lighting. He saw this as not only a way to transmit large amounts of power around the world but also, as he had pointed out in his earlier lectures, a way to transmit worldwide communications.
 
 At the time Tesla was formulating his ideas, there was no feasible way to wirelessly transmit communication signals over long distances, let alone large amounts of power. Tesla had studied radio waves early on, and came to the conclusion that part of existing study on them, by Hertz, was incorrect.[88][89] Also, this new form of radiation was widely considered at the time to be a short-distance phenomenon that seemed to die out in less than a mile.[90] Tesla noted that, even if theories on radio waves were true, they were totally worthless for his intended purposes since this form of "invisible light" would diminish over distance just like any other radiation and would travel in straight lines right out into space, becoming "hopelessly lost".
 
@@ -160,9 +154,9 @@ By the mid-1890s, Tesla was working on the idea that he might be able to conduct
 
 Colorado Springs
 
-Tesla_Colorado.jpg To further study the conductive nature of low pressure air, Tesla set up an experimental station at high altitude in Colorado Springs during 1899.[94][95] There he could safely operate much larger coils than in the cramped confines of his New York lab, and an associate had made an arrangement for the El Paso Power Company to supply alternating current free of charge.[96] To fund his experiments, he convinced John Jacob Astor IV to invest $100,000 ($ in today's dollars) to become a majority share holder in the Nikola Tesla Company. Astor thought he was primarily investing in the new wireless lighting system. Instead, Tesla used the money to fund his Colorado Springs experiments.[97] Upon his arrival, he told reporters that he planned to conduct wireless telegraphy experiments, transmitting signals from Pikes Peak to Paris.
+To further study the conductive nature of low pressure air, Tesla set up an experimental station at high altitude in Colorado Springs during 1899.[94][95] There he could safely operate much larger coils than in the cramped confines of his New York lab, and an associate had made an arrangement for the El Paso Power Company to supply alternating current free of charge.[96] To fund his experiments, he convinced John Jacob Astor IV to invest $100,000 ($ in today's dollars) to become a majority share holder in the Nikola Tesla Company. Astor thought he was primarily investing in the new wireless lighting system. Instead, Tesla used the money to fund his Colorado Springs experiments.[97] Upon his arrival, he told reporters that he planned to conduct wireless telegraphy experiments, transmitting signals from Pikes Peak to Paris.
 
-Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg picture of Tesla sitting next to his "magnifying transmitter" generating millions of volts. The long arcs were not part of the normal operation, but only produced for effect by rapidly cycling the power switch.]]
+picture of Tesla sitting next to his "magnifying transmitter" generating millions of volts. The long arcs were not part of the normal operation, but only produced for effect by rapidly cycling the power switch.]]
 
 There, he conducted experiments with a large coil operating in the megavolts range, producing artificial lightning (and thunder) consisting of millions of volts and discharges of up to in length,[98] and, at one point, inadvertently burned out the generator in El Paso, causing a power outage.[99] The observations he made of the electronic noise of lightning strikes, led him to (incorrectly) conclude that he could use the entire globe of the Earth to conduct electrical energy.
 
@@ -171,8 +165,6 @@ During his time at his laboratory, Tesla observed unusual signals from his recei
 Tesla had an agreement with the editor of _The Century Magazine_ to produce an article on his findings. The magazine sent a photographer to Colorado to photograph the work being done there. The article, titled "The Problem of Increasing Human Energy", appeared in the June 1900 edition of the magazine. He explained the superiority of the wireless system he envisioned but the article was more of a lengthy philosophical treatise than an understandable scientific description of his work,[102] illustrated with what were to become iconic images of Tesla and his Colorado Springs experiments.
 
 Wardenclyffe
-
-Tesla_Broadcast_Tower_1904.jpeg
 
 Tesla made the rounds in New York trying to find investors for what he thought would be a viable system of wireless transmission, wining and dining them at the Waldorf-Astoria's Palm Garden (the hotel where he was living at the time), The Players Club, and Delmonico's.[103] In March 1901, he obtained $150,000 ($ in today's dollars) from J. Pierpont Morgan in return for a 51% share of any generated wireless patents, and began planning the Wardenclyffe Tower facility to be built in Shoreham, New York, east of the city on the North Shore of Long Island.[104]
 
@@ -186,8 +178,6 @@ Later years
 After Wardenclyffe closed, Tesla continued to write to Morgan; after "the great man" died, Tesla wrote to Morgan's son Jack, trying to get further funding for the project. In 1906, Tesla opened offices at 165 Broadway in Manhattan, trying to raise further funds by developing and marketing his patents. He went on to have offices at the Metropolitan Life Tower from 1910 to 1914; rented for a few months at the Woolworth Building, moving out because he could not afford the rent; and then to office space at 8 West 40th Street from 1915 to 1925. After moving to 8 West 40th Street, he was effectively bankrupt. Most of his patents had run out and he was having trouble with the new inventions he was trying to develop.
 
 Bladeless turbine
-
-TeslaTurbineOriginal.png
 
 On his 50th birthday, in 1906, Tesla demonstrated a 16,000 rpm bladeless turbine. During 1910–1911, at the Waterside Power Station in New York, several of his bladeless turbine engines were tested at 100–5,000 hp. Tesla worked with several companies including from 1919–1922 in Milwaukee, for Allis-Chalmers. He spent most of his time trying to perfect the Tesla turbine with Hans Dahlstrand, the head engineer at the company, but engineering difficulties meant it was never made into a practical device.[111] Tesla did license the idea to a precision instrument company and it found use in the form of luxury car speedometers and other instruments.
 
@@ -221,8 +211,6 @@ Tesla won numerous medals and awards over this time. They include:
 -   University of Paris Medal (1937)
 -   The Medal of the University St. Clement of Ochrida, Sofia, Bulgaria (1939)
 
-Second_banquet_meeting_of_the_Institute_of_Radio_Engineers.jpg
-
 Tesla attempted to market several devices based on the production of ozone. These included his 1900 Tesla Ozone Company selling an 1896 patented device based on his Tesla Coil, used to bubble ozone through different types of oils to make a therapeutic gel.[126] He also tried to develop a variation of this a few years later as a room sanitizer for hospitals.
 
 Tesla theorized that the application of electricity to the brain enhanced intelligence. In 1912, he crafted "a plan to make dull students bright by saturating them unconsciously with electricity," wiring the walls of a schoolroom and, "saturating [the schoolroom] with infinitesimal electric waves vibrating at high frequency. The whole room will thus, Mr. Tesla claims, be converted into a health-giving and stimulating electromagnetic field or 'bath.'"[127] The plan was, at least provisionally, approved by then superintendent of New York City schools, William H. Maxwell.[128]
@@ -245,9 +233,9 @@ In 1934, Tesla moved to the Hotel New Yorker, and Westinghouse Electric & Manufa
 
 Birthday press conferences
 
-Nikola_Tesla_on_Time_Magazine_1931.jpg commemorating his 75th birthday]] In 1931, a young science-fiction writer whom Tesla befriended, Kenneth Swezey, organized a celebration for the inventor's 75th birthday.[142] Tesla received congratulatory letters from more than 70 pioneers in science and engineering, including Albert Einstein,[143] and he was also featured on the cover of _Time_ magazine.[144] The cover caption "All the world's his power house" noted his contribution to electrical power generation. The party went so well that Tesla made it an annual event, an occasion where he would put out a large spread of food and drink—featuring dishes of his own creation. He invited the press in order to see his inventions and hear stories about his past exploits, views on current events, and sometimes baffling claims.
+commemorating his 75th birthday]] In 1931, a young science-fiction writer whom Tesla befriended, Kenneth Swezey, organized a celebration for the inventor's 75th birthday.[142] Tesla received congratulatory letters from more than 70 pioneers in science and engineering, including Albert Einstein,[143] and he was also featured on the cover of _Time_ magazine.[144] The cover caption "All the world's his power house" noted his contribution to electrical power generation. The party went so well that Tesla made it an annual event, an occasion where he would put out a large spread of food and drink—featuring dishes of his own creation. He invited the press in order to see his inventions and hear stories about his past exploits, views on current events, and sometimes baffling claims.
 
-Teslathoughtcamera.jpeg At the 1932 party, Tesla claimed he had invented a motor that would run on cosmic rays. In 1933 at age 77, Tesla told reporters at the event that, after 35 years of work, he was on the verge of producing proof of a new form of energy. He claimed it was a theory of energy that was "violently opposed" to Einsteinian physics, and could be tapped with an apparatus that would be cheap to run and last 500 years. He also told reporters he was working on a way to transmit individualized private radio wavelengths, working on breakthroughs in metallurgy, and developing a way to photograph the retina to record thought.[145]
+At the 1932 party, Tesla claimed he had invented a motor that would run on cosmic rays. In 1933 at age 77, Tesla told reporters at the event that, after 35 years of work, he was on the verge of producing proof of a new form of energy. He claimed it was a theory of energy that was "violently opposed" to Einsteinian physics, and could be tapped with an apparatus that would be cheap to run and last 500 years. He also told reporters he was working on a way to transmit individualized private radio wavelengths, working on breakthroughs in metallurgy, and developing a way to photograph the retina to record thought.[145]
 
 At the 1934 occasion, Tesla told reporters he had designed a superweapon he claimed would end all war.[146][147] He would call it "teleforce", but was usually referred to as his death ray.[148] Tesla described it as a defensive weapon that would be put up along the border of a country to be used against attacking ground-based infantry or aircraft. Tesla never revealed detailed plans of how the weapon worked during his lifetime, but in 1984, they surfaced at the Nikola Tesla Museum archive in Belgrade. The treatise, _The New Art of Projecting Concentrated Non-dispersive Energy through the Natural Media_, described an open-ended vacuum tube with a gas jet seal that allows particles to exit, a method of charging slugs of tungsten or mercury to millions of volts, and directing them in streams (through electrostatic repulsion). Tesla tried to interest the US War Department,[149] the United Kingdom, the Soviet Union, and Yugoslavia in the device.[150]
 
@@ -264,7 +252,7 @@ On 7 January 1943, at the age of 86, Tesla died alone in Room 3327 of the New Yo
 
 Two days later the Federal Bureau of Investigation ordered the Alien Property Custodian to seize Tesla's belongings.[155] John G. Trump, a professor at M.I.T. and a well-known electrical engineer serving as a technical aide to the National Defense Research Committee, was called in to analyze the Tesla items, which were being held in custody.[156] After a three-day investigation, Trump's report concluded that there was nothing which would constitute a hazard in unfriendly hands, stating:
 
-In a box purported to contain a part of Tesla's "death ray", Trump found a 45-year-old multidecade resistance box.[157]Urn_with_Teslas_ashes.jpg (Nikola Tesla Museum, Belgrade)]]
+In a box purported to contain a part of Tesla's "death ray", Trump found a 45-year-old multidecade resistance box.[157] (Nikola Tesla Museum, Belgrade)]]
 
 On 10 January 1943, New York City mayor Fiorello La Guardia read a eulogy written by Slovene-American author Louis Adamic live over the WNYC radio while violin pieces "Ave Maria" and "Tamo daleko" were played in the background.[158] On 12 January, two thousand people attended a state funeral for Tesla at the Cathedral of Saint John the Divine. After the funeral, Tesla's body was taken to the Ferncliff Cemetery in Ardsley, New York, where it was later cremated. The following day, a second service was conducted by prominent priests in the Trinity Chapel (today's Serbian Orthodox Cathedral of Saint Sava) in New York City.[159]
 
@@ -290,7 +278,7 @@ Tesla became a vegetarian in his later years, living on only milk, bread, honey,
 
 Appearance
 
-Tesla_circa_1890.jpeg]] Tesla was tall and weighed , with almost no weight variance from 1888 to about 1926. His appearance was described by newspaper editor Arthur Brisbane as "almost the tallest, almost the thinnest and certainly the most serious man who goes to Delmonico's regularly".[168] He was an elegant, stylish figure in New York City, meticulous in his grooming, clothing, and regimented in his daily activities, an appearance he maintained as to further his business relationships. He was also described as having light eyes, "very big hands", and "remarkably big" thumbs.[169]
+]] Tesla was tall and weighed , with almost no weight variance from 1888 to about 1926. His appearance was described by newspaper editor Arthur Brisbane as "almost the tallest, almost the thinnest and certainly the most serious man who goes to Delmonico's regularly".[168] He was an elegant, stylish figure in New York City, meticulous in his grooming, clothing, and regimented in his daily activities, an appearance he maintained as to further his business relationships. He was also described as having light eyes, "very big hands", and "remarkably big" thumbs.[169]
 
 Eidetic memory
 
@@ -322,7 +310,7 @@ Tesla claimed to have developed his own physical principle regarding matter and 
 
 On society
 
-Nikola_Tesla_by_Sarony_c1885-crop.png Tesla is widely considered by his biographers to have been a humanist in philosophical outlook on top of his gifts as a technological scientist.[186][187] This did not preclude Tesla, like many of his era, becoming a proponent of an imposed selective breeding version of eugenics.
+Tesla is widely considered by his biographers to have been a humanist in philosophical outlook on top of his gifts as a technological scientist.[186][187] This did not preclude Tesla, like many of his era, becoming a proponent of an imposed selective breeding version of eugenics.
 
 Tesla expressed the belief that human "pity" had come to interfere with the natural "ruthless workings of nature". Though his argumentation did not depend on a concept of a "master race" or the inherent superiority of one person over another, he advocated for eugenics. In a 1937 interview he stated:
 
@@ -344,7 +332,7 @@ Many of Tesla's writings are freely available online,[194] including the article
 
 Legacy and honors
 
-Muzej_Nikole_Tesle.jpg in Belgrade, Serbia]] Tesla's legacy has endured in books, films, radio, TV, music, live theater, comics, and video games. The impact of the technologies invented or envisioned by Tesla is a recurring theme in several types of science fiction.
+in Belgrade, Serbia]] Tesla's legacy has endured in books, films, radio, TV, music, live theater, comics, and video games. The impact of the technologies invented or envisioned by Tesla is a recurring theme in several types of science fiction.
 
 Things named after Tesla
 
@@ -399,7 +387,7 @@ Ships
 
 Plaques and memorials
 
-Nikola_tesla_corner_ny.JPG Niagara-Falls_ON_Monument_Nikola-Tesla_2015-08-13_(7).jpg]] Nikola_Tesla_Park_Statue.jpg
+]]
 
 -   The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened in 2006. It features a statue of Tesla designed by sculptor Mile Blažević.[216][217]
 -   A plaque depicting a relief of Nikola Tesla is present on the Old City Hall (Zagreb) in Zagreb, Croatia's capital, commemorating his proposal to build an alternating current power station, which he made to the city council.[218] The plaque quotes Tesla's statement, given in the building on 24 May 1892, which reads: "As a son of this country, I consider it my duty to help the City of Zagreb in every way, either through counsel or through action" ().[219]

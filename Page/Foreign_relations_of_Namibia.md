@@ -7,36 +7,36 @@ International organizations
 
 Namibia is a member of 47 international organizations. These are:[1]
 
-+------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
-| -   Lomé Convention (ACP)                                                    | -   MIGA                                                                                         |
-| -   African Development Bank (AfDB)                                          | -   Non-Aligned Movement (NAM)                                                                   |
-| -   African Union (AU)                                                       | -   ONUB                                                                                         |
-| -   Commonwealth of Nations (CN)                                             | -   Organisation for the Prohibition of Chemical Weapons (OPCW)                                  |
-| -   Food and Agriculture Organization (FAO)                                  | -   Port Management Association of Eastern and Southern Africa (PMAESA)                          |
-| -   Group of 77 (G-77)                                                       | -   Southern African Customs Union (SACU)                                                        |
-| -   Flag_of_IAEA.svg International Atomic Energy Agency (IAEA)               | -   Flag_of_SADC.svg Southern African Development Community (SADC)                               |
-| -   International Bank for Reconstruction and Development (IBRD)             | -   Flag_of_the_United_Nations.svg United Nations (UN)                                           |
-| -   International Civil Aviation Organization (ICAO)                         | -   United Nations Conference on Trade and Development (UNCTAD)                                  |
-| -   International Criminal Court (ICCt)                                      | -   Flag_of_UNESCO.svg United Nations Educational, Scientific and Cultural Organization (UNESCO) |
-| -   International Confederation of Free Trade Unions (ICFTU)                 | -   United Nations High Commissioner for Refugees (UNHCR)                                        |
-| -   ICRM                                                                     | -   United Nations Industrial Development Organization (UNIDO)                                   |
-| -   International Fund for Agricultural Development (IFAD)                   | -   United Nations Mission in Ethiopia and Eritrea (UNMEE)                                       |
-| -   International Finance Corporation (IFC)                                  | -   United Nations Mission in Liberia (UNMIL)                                                    |
-| -   International Federation of Red Cross and Red Crescent Societies (IFRCS) | -   UNMIS                                                                                        |
-| -   International Labour Organization (ILO)                                  | -   UNOCI                                                                                        |
-| -   International Monetary Fund (IMF)                                        | -   Universal Postal Union (UPU)                                                                 |
-| -   Interpol                                                                 | -   WCL                                                                                          |
-| -   International Olympic Committee (IOC)                                    | -   World Customs Organization (WCO)                                                             |
-| -   International Organization for Migration (IOM, observer)                 | -   Flag_of_WHO.svg World Health Organization (WHO)                                              |
-| -   IPU                                                                      | -   World Intellectual Property Organization (WIPO)                                              |
-| -   International Organization for Standardization (ISO, correspondent)      | -   Flag_of_the_World_Meteorological_Organization.svg World Meteorological Organization (WMO)    |
-| -   International Telecommunication Union (ITU)                              | -   World Tourism Organization (WToO)                                                            |
-|                                                                              | -   World Trade Organization (WTrO)                                                              |
-+------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+| -   Lomé Convention (ACP)                                                    | -   MIGA                                                                      |
+| -   African Development Bank (AfDB)                                          | -   Non-Aligned Movement (NAM)                                                |
+| -   African Union (AU)                                                       | -   ONUB                                                                      |
+| -   Commonwealth of Nations (CN)                                             | -   Organisation for the Prohibition of Chemical Weapons (OPCW)               |
+| -   Food and Agriculture Organization (FAO)                                  | -   Port Management Association of Eastern and Southern Africa (PMAESA)       |
+| -   Group of 77 (G-77)                                                       | -   Southern African Customs Union (SACU)                                     |
+| -   International Atomic Energy Agency (IAEA)                                | -   Southern African Development Community (SADC)                             |
+| -   International Bank for Reconstruction and Development (IBRD)             | -   United Nations (UN)                                                       |
+| -   International Civil Aviation Organization (ICAO)                         | -   United Nations Conference on Trade and Development (UNCTAD)               |
+| -   International Criminal Court (ICCt)                                      | -   United Nations Educational, Scientific and Cultural Organization (UNESCO) |
+| -   International Confederation of Free Trade Unions (ICFTU)                 | -   United Nations High Commissioner for Refugees (UNHCR)                     |
+| -   ICRM                                                                     | -   United Nations Industrial Development Organization (UNIDO)                |
+| -   International Fund for Agricultural Development (IFAD)                   | -   United Nations Mission in Ethiopia and Eritrea (UNMEE)                    |
+| -   International Finance Corporation (IFC)                                  | -   United Nations Mission in Liberia (UNMIL)                                 |
+| -   International Federation of Red Cross and Red Crescent Societies (IFRCS) | -   UNMIS                                                                     |
+| -   International Labour Organization (ILO)                                  | -   UNOCI                                                                     |
+| -   International Monetary Fund (IMF)                                        | -   Universal Postal Union (UPU)                                              |
+| -   Interpol                                                                 | -   WCL                                                                       |
+| -   International Olympic Committee (IOC)                                    | -   World Customs Organization (WCO)                                          |
+| -   International Organization for Migration (IOM, observer)                 | -   World Health Organization (WHO)                                           |
+| -   IPU                                                                      | -   World Intellectual Property Organization (WIPO)                           |
+| -   International Organization for Standardization (ISO, correspondent)      | -   World Meteorological Organization (WMO)                                   |
+| -   International Telecommunication Union (ITU)                              | -   World Tourism Organization (WToO)                                         |
+|                                                                              | -   World Trade Organization (WTrO)                                           |
++------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
 
 United Nations
 
-Hopelong_Ushona_Ipinge_&_Luiz_Inácio_Lula_da_Silva.jpg, Hopelong Ushona Ipinge (left) with President of Brazil, Luiz Inácio Lula da Silva at Palácio do Planalto, Brasília in 2006]] Namibia became the 160th member of the United Nations on 23 April 1990 upon independence.[2]
+, Hopelong Ushona Ipinge (left) with President of Brazil, Luiz Inácio Lula da Silva at Palácio do Planalto, Brasília in 2006]] Namibia became the 160th member of the United Nations on 23 April 1990 upon independence.[2]
 
 African Union
 

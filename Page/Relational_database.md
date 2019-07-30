@@ -57,7 +57,7 @@ Most of the programming within a RDBMS is accomplished using stored procedures (
 
 Terminology
 
-Relational_database_terms.svg The relational database was first defined in June 1970 by Edgar Codd, of IBM's San Jose Research Laboratory.[15] Codd's view of what qualifies as an RDBMS is summarized in Codd's 12 rules. A relational database has become the predominant type of database. Other models besides the _relational model_ include the hierarchical database model and the network model.
+The relational database was first defined in June 1970 by Edgar Codd, of IBM's San Jose Research Laboratory.[15] Codd's view of what qualifies as an RDBMS is summarized in Codd's 12 rules. A relational database has become the predominant type of database. Other models besides the _relational model_ include the hierarchical database model and the network model.
 
 The table below summarizes some of the most important relational database terms and the corresponding SQL term:
 
@@ -134,7 +134,7 @@ Normalization was first proposed by Codd as an integral part of the relational m
 
 RDBMS
 
-RDBMS_structure.png Connolly and Begg define Database Management System (DBMS) as a "software system that enables users to define, create, maintain and control access to the database".[16] RDBMS is an extension of that acronym that is sometimes used when the underlying database is relational.
+Connolly and Begg define Database Management System (DBMS) as a "software system that enables users to define, create, maintain and control access to the database".[16] RDBMS is an extension of that acronym that is sometimes used when the underlying database is relational.
 
 An alternative definition for a _relational database management system_ is a database management system (DBMS) based on the relational model. Most databases in widespread use today are based on this model.[17]
 

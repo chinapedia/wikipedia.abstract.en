@@ -1,6 +1,6 @@
 Rosa}}
 
-A ROSE is a woody perennial flowering plant of the genus _ROSA_, in the family Rosaceae, or the flower it bears. There are over three hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height. Different species hybridize easily, and this has been used in the development of the wide range of garden roses.[1] Rose-Victoria1995.jpg
+A ROSE is a woody perennial flowering plant of the genus _ROSA_, in the family Rosaceae, or the flower it bears. There are over three hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height. Different species hybridize easily, and this has been used in the development of the wide range of garden roses.[1]
 
 
 Etymology
@@ -9,8 +9,6 @@ The name _rose_ comes from French, itself from Latin _rosa_, which was perhaps b
 
 
 Botany
-
-Rose_Prickles.jpg Roseleaves3800px.JPG Roses_Boutons_FR_2012.jpg Rose_hip_02_ies.jpg
 
 The leaves are borne alternately on the stem. In most species they are long, pinnate, with (3–) 5–9 (–13) leaflets and basal stipules; the leaflets usually have a serrated margin, and often a few small prickles on the underside of the stem. Most roses are deciduous but a few (particularly from Southeast Asia) are evergreen or nearly so.
 
@@ -22,7 +20,7 @@ The sharp growths along a rose stem, though commonly called "thorns", are techni
 
 Species
 
-Redoute_-_Rosa_gallica_purpuro-violacea_magna.jpg]] The genus _Rosa_ is subdivided into four subgenera:
+]] The genus _Rosa_ is subdivided into four subgenera:
 
 -   _HULTHEMIA_ (formerly _Simplicifoliae_, meaning "with single leaves") containing two species from southwest Asia, _Rosa persica_ and _Rosa berberifolia_, which are the only roses without compound leaves or stipules.
 -   _HESPERRHODOS_ (from the Greek for "western rose") contains _Rosa minutifolia_ and _Rosa stellata_, from North America.
@@ -40,8 +38,6 @@ Redoute_-_Rosa_gallica_purpuro-violacea_magna.jpg]] The genus _Rosa_ is subdivid
     -   _ROSA_ (syn. sect. _Cinnamomeae_) – white, pink, lilac, mulberry and red roses from everywhere but North Africa.
     -   _SYNSTYLAE_ – white, pink, and crimson flowered roses from all areas.
 
-Rose_flower_in_bundle.jpg
-
 
 Uses
 
@@ -57,7 +53,7 @@ In the early 19th century the Empress Josephine of France patronized the develop
 
 Cut flowers
 
-Bouquet_de_roses_roses.jpg Roses are a popular crop for both domestic and commercial cut flowers. Generally they are harvested and cut when in bud, and held in refrigerated conditions until ready for display at their point of sale.
+Roses are a popular crop for both domestic and commercial cut flowers. Generally they are harvested and cut when in bud, and held in refrigerated conditions until ready for display at their point of sale.
 
 In temperate climates, cut roses are often grown in greenhouses, and in warmer countries they may also be grown under cover in order to ensure that the flowers are not damaged by weather and that pest and disease control can be carried out effectively. Significant quantities are grown in some tropical countries, and these are shipped by air to markets across the world.[6]
 
@@ -65,13 +61,13 @@ Some kind of roses are artificially coloured using dyed water, like rainbow rose
 
 Perfume
 
-Geraniol_structure.png Rose perfumes are made from rose oil (also called attar of roses), which is a mixture of volatile essential oils obtained by steam distilling the crushed petals of roses. An associated product is rose water which is used for cooking, cosmetics, medicine and religious practices. The production technique originated in Persia and then spread through Arabia and India, and more recently into eastern Europe. In Bulgaria, Iran and Germany, damask roses (_Rosa_ × _damascena_ 'Trigintipetala') are used. In other parts of the world _Rosa_ × _centifolia_ is commonly used. The oil is transparent pale yellow or yellow-grey in colour. 'Rose Absolute' is solvent-extracted with hexane and produces a darker oil, dark yellow to orange in colour. The weight of oil extracted is about one three-thousandth to one six-thousandth of the weight of the flowers; for example, about two thousand flowers are required to produce one gram of oil.
+Rose perfumes are made from rose oil (also called attar of roses), which is a mixture of volatile essential oils obtained by steam distilling the crushed petals of roses. An associated product is rose water which is used for cooking, cosmetics, medicine and religious practices. The production technique originated in Persia and then spread through Arabia and India, and more recently into eastern Europe. In Bulgaria, Iran and Germany, damask roses (_Rosa_ × _damascena_ 'Trigintipetala') are used. In other parts of the world _Rosa_ × _centifolia_ is commonly used. The oil is transparent pale yellow or yellow-grey in colour. 'Rose Absolute' is solvent-extracted with hexane and produces a darker oil, dark yellow to orange in colour. The weight of oil extracted is about one three-thousandth to one six-thousandth of the weight of the flowers; for example, about two thousand flowers are required to produce one gram of oil.
 
 The main constituents of attar of roses are the fragrant alcohols geraniol and L-citronellol and rose camphor, an odorless solid composed of alkanes, which separates from rose oil.[7] β-Damascenone is also a significant contributor to the scent.
 
 Food and drink
 
-Rosa_rubiginosa_hips.jpg'' hips]] Rose_Jam.jpg]] Rose hips are occasionally made into jam, jelly, marmalade, and soup or are brewed for tea, primarily for their high vitamin C content. They are also pressed and filtered to make rose hip syrup. Rose hips are also used to produce rose hip seed oil, which is used in skin products and some makeup products.[8] Gulaab_Jamun_(homemade!)_bright.jpg made with rose water]] Rose water has a very distinctive flavour and is used heavily in Middle Eastern, Persian, and South Asian cuisine—especially in sweets such as barfi, baklava, halva, gulab jamun, gumdrops, kanafeh, nougat, and Turkish delight.
+'' hips]] ]] Rose hips are occasionally made into jam, jelly, marmalade, and soup or are brewed for tea, primarily for their high vitamin C content. They are also pressed and filtered to make rose hip syrup. Rose hips are also used to produce rose hip seed oil, which is used in skin products and some makeup products.[8] made with rose water]] Rose water has a very distinctive flavour and is used heavily in Middle Eastern, Persian, and South Asian cuisine—especially in sweets such as barfi, baklava, halva, gulab jamun, gumdrops, kanafeh, nougat, and Turkish delight.
 
 Rose petals or flower buds are sometimes used to flavour ordinary tea, or combined with other herbs to make herbal teas.
 
@@ -96,9 +92,9 @@ The rose hip, usually from _R. canina_, is used as a minor source of vitamin C. 
 
 Art and symbolism
 
-Codex_Manesse_Rudolf_von_Neuenburg.jpg illuminated with roses, illustrated between 1305 and 1340 in Zürich. It contains love songs in Middle High German ]] The long cultural history of the rose has led to it being used often as a symbol. In ancient Greece, the rose was closely associated with the goddess Aphrodite.[17][18] In the _Iliad_, Aphrodite protects the body of Hector using the "immortal oil of the rose"[19][20] and the archaic Greek lyric poet Ibycus praises a beautiful youth saying that Aphrodite nursed him "among rose blossoms".[21][22] The second-century AD Greek travel writer Pausanias associates the rose with the story of Adonis and states that the rose is red because Aphrodite wounded herself on one of its thorns and stained the flower red with her blood.[23][24] Book Eleven of the ancient Roman novel _The Golden Ass_ by Apuleius contains a scene in which the goddess Isis, who is identified with Venus, instructs the main character, Lucius, who has been transformed into a donkey, to eat rose petals from a crown of roses worn by a priest as part of a religious procession in order to regain his humanity.[25]
+illuminated with roses, illustrated between 1305 and 1340 in Zürich. It contains love songs in Middle High German ]] The long cultural history of the rose has led to it being used often as a symbol. In ancient Greece, the rose was closely associated with the goddess Aphrodite.[17][18] In the _Iliad_, Aphrodite protects the body of Hector using the "immortal oil of the rose"[19][20] and the archaic Greek lyric poet Ibycus praises a beautiful youth saying that Aphrodite nursed him "among rose blossoms".[21][22] The second-century AD Greek travel writer Pausanias associates the rose with the story of Adonis and states that the rose is red because Aphrodite wounded herself on one of its thorns and stained the flower red with her blood.[23][24] Book Eleven of the ancient Roman novel _The Golden Ass_ by Apuleius contains a scene in which the goddess Isis, who is identified with Venus, instructs the main character, Lucius, who has been transformed into a donkey, to eat rose petals from a crown of roses worn by a priest as part of a religious procession in order to regain his humanity.[25]
 
-Following the Christianization of the Roman Empire, the rose became identified with the Virgin Mary. The color of the rose and the number of roses received has symbolic representation.[26] [27][28] The rose symbol eventually led to the creation of the rosary and other devotional prayers in Christianity.[29][30] Plucking_the_Red_and_White_Roses,_by_Henry_Payne.jpg of the scene in the Temple Garden, where supporters of the rival factions in the Wars of the Roses pick either red or white roses]] Ever since the 1400s, the Franciscans have had a Crown Rosary of the Seven Joys of the Blessed Virgin Mary.[31] In the 1400s and 1500s, the Carthusians promoted the idea of sacred mysteries associated with the rose symbol and rose gardens.[32] Albrecht Dürer's painting _The Feast of the Rosary_ (1506) depicts the Virgin Mary distributing garlands of roses to her worshippers.[33]
+Following the Christianization of the Roman Empire, the rose became identified with the Virgin Mary. The color of the rose and the number of roses received has symbolic representation.[26] [27][28] The rose symbol eventually led to the creation of the rosary and other devotional prayers in Christianity.[29][30] of the scene in the Temple Garden, where supporters of the rival factions in the Wars of the Roses pick either red or white roses]] Ever since the 1400s, the Franciscans have had a Crown Rosary of the Seven Joys of the Blessed Virgin Mary.[31] In the 1400s and 1500s, the Carthusians promoted the idea of sacred mysteries associated with the rose symbol and rose gardens.[32] Albrecht Dürer's painting _The Feast of the Rosary_ (1506) depicts the Virgin Mary distributing garlands of roses to her worshippers.[33]
 
 Roses symbolised the Houses of York and Lancaster in a conflict known as the Wars of the Roses.
 

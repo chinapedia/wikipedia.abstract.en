@@ -1,4 +1,4 @@
-_Acer_E360_Socket_939_motherboard_by_Foxconn.svg desktop personal computer, showing the typical components and interfaces that are found on a motherboard. This model was made by Foxconn in 2007 and follows the microATX layout (known as the "form factor") usually employed for desktop computers. It is designed to work with AMD's Athlon 64 processor]] Intel_D945GCPE_Board.JPG
+desktop personal computer, showing the typical components and interfaces that are found on a motherboard. This model was made by Foxconn in 2007 and follows the microATX layout (known as the "form factor") usually employed for desktop computers. It is designed to work with AMD's Athlon 64 processor]]
 
 A MOTHERBOARD (sometimes alternatively known as the MAINBOARD, MAIN CIRCUIT BOARD, SYSTEM BOARD, BASEBOARD, PLANAR BOARD or LOGIC BOARD,[1] or colloquially, a MOBO) is the main printed circuit board (PCB) found in general purpose computers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems such as the central processor, the chipset's input/output and memory controllers, interface connectors, and other components integrated for general purpose use and applications.
 
@@ -20,7 +20,7 @@ Laptop and notebook computers that were developed in the 1990s integrated the mo
 
 Design
 
-386DX40_MB_Jaguar_V.jpg cards and the lack of other built-in external interface connectors. Note the large AT keyboard connector at the back right is its only peripheral interface.]] Samsung_galaxy_s2_internal2.JPG; almost all functions of the device are integrated into a very small board]]
+cards and the lack of other built-in external interface connectors. Note the large AT keyboard connector at the back right is its only peripheral interface.]] ; almost all functions of the device are integrated into a very small board]]
 
 A motherboard provides the electrical connections by which the other components of the system communicate. Unlike a backplane, it also contains the central processing unit and hosts other subsystems and devices.
 
@@ -55,8 +55,6 @@ A CPU socket (central processing unit) or slot is an electrical component that a
 
 Integrated peripherals
 
-Motherboard_diagram.svg
-
 With the steadily declining costs and size of integrated circuits, it is now possible to include support for many peripherals on the motherboard. By combining many functions on one PCB, the physical size and total cost of the system may be reduced; highly integrated motherboards are thus especially popular in small form factor and budget computers.
 
 -   Disk controllers for a floppy disk drive, up to 2 PATA drives, and up to 6 SATA drives (including RAID 0/1 support)
@@ -76,8 +74,6 @@ A standard, modern ATX motherboard will typically have two or three PCI-Express 
 Some motherboards have two or more PCI-E 16x slots, to allow more than 2 monitors without special hardware, or use a special graphics technology called SLI (for Nvidia) and Crossfire (for AMD). These allow 2 to 4 graphics cards to be linked together, to allow better performance in intensive graphical computing tasks, such as gaming, video editing, etc.
 
 Temperature and reliability
-
-EBMotherboard.JPG MicroATX_Motherboard_with_AMD_Athlon_Processor_2_Digon3.jpg
 
 Motherboards are generally air cooled with heat sinks often mounted on larger chips, such as the Northbridge, in modern motherboards.[4] Insufficient or improper cooling can cause damage to the internal components of the computer, or cause it to crash. Passive cooling, or a single fan mounted on the power supply, was sufficient for many desktop computer CPU's until the late 1990s; since then, most have required CPU fans mounted on their heat sinks, due to rising clock speeds and power consumption. Most motherboards have connectors for additional computer fans and integrated temperature sensors to detect motherboard and CPU temperatures and controllable fan connectors which the BIOS or operating system can use to regulate fan speed.[5] Alternatively computers can use a water cooling system instead of many fans.
 

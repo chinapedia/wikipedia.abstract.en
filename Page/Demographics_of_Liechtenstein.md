@@ -7,8 +7,6 @@ The official language is German; most speak Alemannic, a German dialect highly d
 
 Population
 
-Liechtenstein_-_Gemeinden_mit_Exklaven.png
-
 2017
 
 Resident population by municipalities as of 30 June 2017.[3]

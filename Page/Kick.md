@@ -40,11 +40,11 @@ Basic kicks
 
 Front kick
 
-EVD-taekwondo-061.jpg Delivering a front kick involves raising the knee and foot of the striking leg to the desired height and extending the leg to contact the target. The actual strike is usually delivered by the ball of the foot for a forward kick or the top of the toes for an upward kick. Taekwondo practitioners utilize both the heel and ball of the foot for striking. Various combat systems teach 'general' front kick using the heel or whole foot when footwear is on. Depending of fighter's tactical needs, a front kick may involve more or less body motion. Thrusting one's hips is a common method of increasing both reach and power of the kick. The front kick is typically executed with the upper body straight and balanced. Front kicks are typically aimed at targets below the chest: stomach, thighs, groin, knees or lower. Highly skilled martial artists are often capable of striking head-level targets with front kick.[2][3]
+Delivering a front kick involves raising the knee and foot of the striking leg to the desired height and extending the leg to contact the target. The actual strike is usually delivered by the ball of the foot for a forward kick or the top of the toes for an upward kick. Taekwondo practitioners utilize both the heel and ball of the foot for striking. Various combat systems teach 'general' front kick using the heel or whole foot when footwear is on. Depending of fighter's tactical needs, a front kick may involve more or less body motion. Thrusting one's hips is a common method of increasing both reach and power of the kick. The front kick is typically executed with the upper body straight and balanced. Front kicks are typically aimed at targets below the chest: stomach, thighs, groin, knees or lower. Highly skilled martial artists are often capable of striking head-level targets with front kick.[2][3]
 
 Roundhouse kick
 
-Muay_Thai_High_kick.jpg This is the most commonly used kick in kickboxing due to its power and ease of use. In most styles, the instep is used to strike, though most Karate styles would allow the shin as official technique for a street fight. To execute, the attacker swings their leg sideways in a circular motion, kicking the opponent's side with the front of the leg, usually with the instep, ball of the foot, toe, or shin. Also performable is a 360-degree kick in which the attacker performs a full circle with their leg, in which the striking surface is generally either the instep, shin or ball of the foot.[4]
+This is the most commonly used kick in kickboxing due to its power and ease of use. In most styles, the instep is used to strike, though most Karate styles would allow the shin as official technique for a street fight. To execute, the attacker swings their leg sideways in a circular motion, kicking the opponent's side with the front of the leg, usually with the instep, ball of the foot, toe, or shin. Also performable is a 360-degree kick in which the attacker performs a full circle with their leg, in which the striking surface is generally either the instep, shin or ball of the foot.[4]
 
 There are many variations of the roundhouse kick based on various chambering of the cocked leg (small, or full, or universal or no chambering) or various footwork possibilities (rear-leg, front-leg, hopping, switch, oblique, dropping, ground spin-back or full 360 spin-back). An important variation is the downward roundhouse kick, nicknamed the Brazilian Kick from recent K-1 use: A more pronounced twist of the hips allows for a downward end of the trajectory of the kick that is very deceiving.[5]
 
@@ -58,7 +58,7 @@ Another way of doing the side kick is to make it an end result of a faked roundh
 
 Back kick
 
-EVD-taekwondo-083.jpg Also referred to as a donkey kick, mule kick, horse kick or turning back kick. This kick is directed backwards, keeping the kicking leg close to the standing leg and using the heel as a striking surface. In wushu, this kick is called the "half-moon" kick but involves the slight arching of the back and a higher lift of the leg to give a larger curvature. It is often used to strike opponents by surprise when facing away from them.
+Also referred to as a donkey kick, mule kick, horse kick or turning back kick. This kick is directed backwards, keeping the kicking leg close to the standing leg and using the heel as a striking surface. In wushu, this kick is called the "half-moon" kick but involves the slight arching of the back and a higher lift of the leg to give a larger curvature. It is often used to strike opponents by surprise when facing away from them.
 
 
 Advanced kicks
@@ -67,15 +67,13 @@ These are often complicated variations of basic kicks, either with a different t
 
 Axe kick
 
-München_WKU_2013_Christine_Theiss_231.JPG 2013]] In Japanese, _kakato-geri_ or _kakato-otoshi_; in Korean, _doki bal chagi_ or _naeryeo chagi_ or "chikka chagi". In Chinese, "pigua tui" or "xiapi tui".
+2013]] In Japanese, _kakato-geri_ or _kakato-otoshi_; in Korean, _doki bal chagi_ or _naeryeo chagi_ or "chikka chagi". In Chinese, "pigua tui" or "xiapi tui".
 
 An axe kick, also known as a _hammer kick_ or _stretch kick_, is characterized by a straightened leg with the heel descending onto an opponent like the blade of an axe. It begins with one foot rising upward as in a crescent kick.[7] The upward arc motion is stopped, and then the attacking foot is lowered so as to strike the target from above. The arc can be performed in either an inward (counter-clockwise) or outward (clockwise) fashion.
 
 A well-known proponent of the axe kick was Andy Hug, the Swiss Kyokushinkai Karateka who won the 1996 K-1 Grand Prix.
 
 Butterfly kick
-
-Butterfly_Kick_Samuel_Lee.gif
 
 The butterfly kick is done by doing a large circular motion with both feet in succession, making the combatant airborne. There are many variations of this kick. The kick may look like a slanted aerial cartwheel, and at the same time, the body spins horizontally in a circle. It begins as a jump with one leg while kicking with the other, then move the kicking leg down and the jumping leg up into a kick, landing with the first kicking leg, all while spinning. This kick involves also the arching the back backwards when airborne to give a horizontal body with high angled legs to the horizontal. It may also resemble a jumping spin roundhouse kick (developed by James 'Two Screens' Perkins) into a spinning hook kick, all in one jump and one spin although the difference is that both legs should remain in the air at the same time for a considerable amount of time.[8]
 
@@ -97,7 +95,7 @@ The OUTWARD/OUTER/OUTSIDE crescent hits with the 'blade', the outside edge of th
 
 Hook kick
 
-In Korean, _huryeo chagi_ (후려 차기) or _golcho chagi_. Steven_Ho_Martial_Arts_Kick.jpg executing a Jump Spin Hook kick]] The hook kick strikes with the heel from the side. It is executed similar to a side kick. However, the kick is intentionally aimed slightly off target in the direction of the kicking foot's toes. At full extension, the knee is bent and the foot snapped to the side, impacting the target with the heel. In Taekwondo it is often used at the resulting miss of a short slide side kick to the head, but is considered a very high level technique in said circumstance. Practitioners of jeet kune do frequently use the term _heel hook kick_ or _sweep kick_.[11][12][13] It is known as Gancho in Capoeira.
+In Korean, _huryeo chagi_ (후려 차기) or _golcho chagi_. executing a Jump Spin Hook kick]] The hook kick strikes with the heel from the side. It is executed similar to a side kick. However, the kick is intentionally aimed slightly off target in the direction of the kicking foot's toes. At full extension, the knee is bent and the foot snapped to the side, impacting the target with the heel. In Taekwondo it is often used at the resulting miss of a short slide side kick to the head, but is considered a very high level technique in said circumstance. Practitioners of jeet kune do frequently use the term _heel hook kick_ or _sweep kick_.[11][12][13] It is known as Gancho in Capoeira.
 
 There are many variations of the hook kick, generally based on different footworks: rear- or front-leg, oblique or half-pivot, dropping, spin-back and more. The hook kick can be delivered with a near-straight leg at impact, or with a hooked finish (Kake in Japanese Karate) where the leg bends before impact to catch the target from behind. An important variation is the downward hook kick, delivered as a regular or a spin-back kick, in which the end of the trajectory is diagonally downwards for a surprise effect or following an evading opponent. Another important variation is the whip kick, which strikes with the flat of the foot instead of heel.[14]
 
@@ -105,7 +103,7 @@ The hook kick is mainly used to strike the jaw area of an opponent, but is also 
 
 Reverse roundhouse/wheel kick
 
-Triple_Reverse_Turning_Kick_Combo_Samuel_Lee.gif In Japanese, ; in Korean, _bandae dollyo chagi_ (반대 돌려 차기), _dwit hu ryo chagi_, _nakkio mom dollyo chagi_ or _parryo chagi_.
+In Japanese, ; in Korean, _bandae dollyo chagi_ (반대 돌려 차기), _dwit hu ryo chagi_, _nakkio mom dollyo chagi_ or _parryo chagi_.
 
 This kick is also known as a _heel kick_, _reverse turning kick_, _reverse round kick_, _spinning hook kick_, _spin kick_, or "wheel kick".[15] A low reverse roundhouse is also known as a _Sweep Kick_. This kick traditionally uses the heel to strike with. The kicking leg comes from around the kicker's back and remains straight, unlike a reverse hooking kick. See above for more on hook kicks. Variations exist for low, middle and high height. Spinning and leaping variations of the kick are also popular, and are often showcased in film and television media. Edson Barboza executed the first wheel kick for a knockout in the UFC at UFC 142:Aldo vs. Mendes. He knocked out Terry Etim 3:23 into the third round of their fight. Mickie James uses this move calling it _Mick-Kick_
 
@@ -114,8 +112,6 @@ A different kick that is similarly named also exists. It is literally a roundhou
 In Olympic format (sport) taekwondo, this technique is performed using the balls of the feet, and in a manner similar to a back thrust, rather than the circular technique adopted in other styles/Martial Arts.
 
 Flying kicks
-
-Flying_back_kick_Samuel_Lee.gif
 
 A flying kick, in martial arts, is a general description of kicks that involve a running start, jump, then a kick in mid-air. Compared to a regular kick, the user is able to achieve greater momentum from the run at the start. Flying kicks are not to be mistaken for jumping kicks, which are similar maneuvers. A jumping kick is very similar to a flying kick, except that it lacks the running start and the user simply jumps and kicks from a stationary position. Flying kicks are often derived from the basic kicks. Some of the more commonly known flying kicks are the: flying side kick, flying back kick and the flying roundhouse kick, as well as the flying reverse roundhouse kick. Flying kicks are commonly practiced in Taekwondo, Karate, Wushu, and Muay Thai for fitness, exhibitions and competition. It is known as _tobi geri_ in Japanese martial arts, and _twyo chagi_ in Taekwondo.
 

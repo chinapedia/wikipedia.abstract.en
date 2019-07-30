@@ -1,6 +1,6 @@
 Nasir al-Din}}
 
-Nasreddin.jpg Museum Library.]] NASREDDIN or NASREDDIN HODJA or MOLLA NASREDDIN HOOJA ([1]) was a Seljuq satirist, born in Hortu Village in Sivrihisar, Eskişehir Province, present-day Turkey and died in 13th century in Akşehir, near Konya, a capital of the Seljuk Sultanate of Rum, in today's Turkey.[2] He is considered a populist philosopher, Sufi and wise man, remembered for his funny stories and anecdotes.[3] He appears in thousands of stories, sometimes witty, sometimes wise, but often, too, a fool or the butt of a joke. A Nasreddin story usually has a subtle humour and a pedagogic nature.[4] The International Nasreddin Hodja festival is celebrated between the 5th and 10th of July in his hometown every year.[5]
+Museum Library.]] NASREDDIN or NASREDDIN HODJA or MOLLA NASREDDIN HOOJA ([1]) was a Seljuq satirist, born in Hortu Village in Sivrihisar, Eskişehir Province, present-day Turkey and died in 13th century in Akşehir, near Konya, a capital of the Seljuk Sultanate of Rum, in today's Turkey.[2] He is considered a populist philosopher, Sufi and wise man, remembered for his funny stories and anecdotes.[3] He appears in thousands of stories, sometimes witty, sometimes wise, but often, too, a fool or the butt of a joke. A Nasreddin story usually has a subtle humour and a pedagogic nature.[4] The International Nasreddin Hodja festival is celebrated between the 5th and 10th of July in his hometown every year.[5]
 
 
 Origin and legacy
@@ -18,7 +18,7 @@ Today, Nasreddin stories are told in a wide variety of regions, especially acros
 
 Name
 
-The_Childrens_Museum_of_Indianapolis_-_Goha_story_cloth.jpg, The Children’s Museum of Indianapolis]]
+, The Children’s Museum of Indianapolis]]
 
 Many peoples of the Near, Middle East, South Asia and Central Asia claim Nasreddin as their own (_e.g._, Turks,[15][16][17][18] Afghans,[19] Iranians,[20][21] and Uzbeks).[22] His name is spelt in a wide variety of ways: _Nasrudeen_, _Nasrudin_, _Nasruddin_, _Nasr ud-Din_, _Nasredin_, _Nasiruddin,_ _Naseeruddin_, _Nasr Eddin_, _Nastradhin_, _Nasreddine_, _Nastratin_, _Nusrettin_, _Nasrettin_, _Nostradin_, _Nastradin_ (lit.: Victory of the Deen) and _Nazaruddin_. It is sometimes preceded or followed by a title or honorific used in the corresponding cultures: "Hoxha", "Khwaje", "Hodja", "Hoja", "Hojja", "Hodscha", "Hodža", "Hoca", "Hocca","Hooka", "Hogea", "Mullah", "Mulla", "Mula", "Molla", "Efendi", "Afandi", "Ependi" ( _’afandī_), "Hajji". In several cultures he is named by the title alone.
 
@@ -53,7 +53,7 @@ The Sermon
 
 Whom do you believe?
 
-Nasr_Eddin_Hodja_statue_in_Bukhara_Liab_-i-Haouz_complex.JPG]] Harikalar_Diyari_Nasrettin_Hoca_05981_nevit.jpg]]
+]] ]]
 
     A neighbour came to the gate of Mulla Nasreddin's yard. The Mulla went to meet him outside.
     "Would you mind, Mulla," the neighbour asked, "can you lend me your donkey today? I have some goods to transport to the next town."
@@ -86,7 +86,7 @@ Nasreddin's ring
 
 Azerbaijani literature
 
-Mollanas2.JPG Nasreddin was the main character in a magazine, called simply Molla Nasraddin, published in Azerbaijan and "read across the Muslim world from Morocco to Iran". The eight-page Azerbaijani satirical periodical was published in Tiflis (from 1906 to 1917), Tabriz (in 1921) and Baku (from 1922 to 1931) in the Azeri and occasionally Russian languages. Founded by Jalil Mammadguluzadeh, it depicted inequality, cultural assimilation, and corruption and ridiculed the backward lifestyles and values of clergy and religious fanatics,[31] implicitly calling upon the readers to modernize and accept Western social norms and practices. The magazine was frequently banned[32] but had a lasting influence on Azerbaijani and Iranian literature.[33]
+Nasreddin was the main character in a magazine, called simply Molla Nasraddin, published in Azerbaijan and "read across the Muslim world from Morocco to Iran". The eight-page Azerbaijani satirical periodical was published in Tiflis (from 1906 to 1917), Tabriz (in 1921) and Baku (from 1922 to 1931) in the Azeri and occasionally Russian languages. Founded by Jalil Mammadguluzadeh, it depicted inequality, cultural assimilation, and corruption and ridiculed the backward lifestyles and values of clergy and religious fanatics,[31] implicitly calling upon the readers to modernize and accept Western social norms and practices. The magazine was frequently banned[32] but had a lasting influence on Azerbaijani and Iranian literature.[33]
 
 
 European and Western folk tales, literary works and pop culture

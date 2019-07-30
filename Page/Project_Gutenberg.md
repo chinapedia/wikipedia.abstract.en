@@ -5,8 +5,6 @@ The releases are available in plain text but, wherever possible, other formats a
 
 History
 
-Michael_Hart_and_Gregory_Newby_at_HOPE_Conference.jpg
-
 Michael S. Hart began Project Gutenberg in 1971 with the digitization of the United States Declaration of Independence.[4] Hart, a student at the University of Illinois, obtained access to a Xerox Sigma V mainframe computer in the university's Materials Research Lab. Through friendly operators, he received an account with a virtually unlimited amount of computer time; its value at that time has since been variously estimated at $100,000 or $100,000,000.[5] Hart explained he wanted to "give back" this gift by doing something one could consider to be of great value. His initial goal was to make the 10,000 most consulted books available to the public at little or no charge, and to do so by the end of the 20th century.[6]
 
 This particular computer was one of the 15 nodes on ARPANET, the computer network that would become the Internet. Hart believed one day the general public would be able to access computers and decided to make works of literature available in electronic form for free. He used a copy of the United States Declaration of Independence in his backpack, and this became the first Project Gutenberg e-text. He named the project after Johannes Gutenberg, the fifteenth century German printer who propelled the movable type printing press revolution.
@@ -38,8 +36,6 @@ The majority of the DVDs, and all of the CDs mailed by the project, were recorde
 
 
 Scope of collection
-
-Project_Gutenberg_total_books.svg
 
 , Project Gutenberg claimed over items in its collection, with an average of over 50 new e-books being added each week.[13] These are primarily works of literature from the Western cultural tradition. In addition to literature such as novels, poetry, short stories and drama, Project Gutenberg also has cookbooks, reference works and issues of periodicals.[14] The Project Gutenberg collection also has a few non-text items such as audio files and music-notation files.[15]
 

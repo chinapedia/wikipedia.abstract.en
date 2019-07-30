@@ -17,7 +17,7 @@ The word _"revolucion"_ is known in French from the 13th century, and "revolutio
 
 Types
 
-Maquina_vapor_Watt_ETSIIM.jpg in Madrid. The development of the steam engine propelled the Industrial Revolution in Britain and the world. The steam engine was created to pump water from coal mines, enabling them to be deepened beyond groundwater levels.]]
+in Madrid. The development of the steam engine propelled the Industrial Revolution in Britain and the world. The steam engine was created to pump water from coal mines, enabling them to be deepened beyond groundwater levels.]]
 
 There are many different typologies of revolutions in social science and literature.
 
@@ -79,7 +79,7 @@ Jack Goldstone defines a revolution as
 
   an effort to transform the political institutions and the justifications for political authority in society, accompanied by formal or informal mass mobilization and non-institutionalized actions that undermine authorities.[19]
 
-Prise_de_la_Bastille.jpg, 14 July 1789 during the French Revolution.]] Portrait_of_George_Washington-transparent.png, leader of the American Revolution.]] Lenin.WWI.JPG, leader of the Bolshevik Revolution of 1917.]] Sunyatsen1.jpg, leader of the Chinese Xinhai Revolution in 1911.]]
+, 14 July 1789 during the French Revolution.]] , leader of the American Revolution.]] , leader of the Bolshevik Revolution of 1917.]] , leader of the Chinese Xinhai Revolution in 1911.]]
 
 Political and socioeconomic revolutions have been studied in many social sciences, particularly sociology, political sciences and history. Among the leading scholars in that area have been or are Crane Brinton, Charles Brockett, Farideh Farhi, John Foran, John Mason Hart, Samuel Huntington, Jack Goldstone, Jeff Goodwin, Ted Roberts Gurr, Fred Halliday, Chalmers Johnson, Tim McDaniel, Barrington Moore, Jeffery Paige, Vilfredo Pareto, Terence Ranger, Eugen Rosenstock-Huessy, Theda Skocpol, James Scott, Eric Selbin, Charles Tilly, Ellen Kay Trimberger, Carlos Vistas, John Walton, Timothy Wickham-Crowley, and Eric Wolf.[20]
 
@@ -101,7 +101,7 @@ In time, scholars began to analyze hundreds of other events as revolutions (see 
 
 The criticism of the second generation led to the rise of a third generation of theories, with writers such as Theda Skocpol, Barrington Moore, Jeffrey Paige, and others expanding on the old Marxist class conflict approach, turning their attention to rural agrarian-state conflicts, state conflicts with autonomous elites, and the impact of interstate economic and military competition on domestic political change Particularly Skocpol's _States and Social Revolutions_ became one of the most widely recognized works of the third generation; Skocpol defined revolution as "rapid, basic transformations of society's state and class structures [...] accompanied and in part carried through by class-based revolts from below", attributing revolutions to a conjunction of multiple conflicts involving state, elites and the lower classes.[31]
 
-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg and most of the events of the Autumn of Nations in Europe, 1989, were sudden and peaceful.]] From the late 1980s a new body of scholarly work began questioning the dominance of the third generation's theories. The old theories were also dealt a significant blow by new revolutionary events that could not be easily explain by them. The Iranian and Nicaraguan Revolutions of 1979, the 1986 People Power Revolution in the Philippines and the 1989 Autumn of Nations in Europe saw multi-class coalitions topple seemingly powerful regimes amidst popular demonstrations and mass strikes in nonviolent revolutions.
+and most of the events of the Autumn of Nations in Europe, 1989, were sudden and peaceful.]] From the late 1980s a new body of scholarly work began questioning the dominance of the third generation's theories. The old theories were also dealt a significant blow by new revolutionary events that could not be easily explain by them. The Iranian and Nicaraguan Revolutions of 1979, the 1986 People Power Revolution in the Philippines and the 1989 Autumn of Nations in Europe saw multi-class coalitions topple seemingly powerful regimes amidst popular demonstrations and mass strikes in nonviolent revolutions.
 
 Defining revolutions as mostly European violent state versus people and class struggles conflicts was no longer sufficient. The study of revolutions thus evolved in three directions, firstly, some researchers were applying previous or updated structuralist theories of revolutions to events beyond the previously analyzed, mostly European conflicts. Secondly, scholars called for greater attention to conscious agency in the form of ideology and culture in shaping revolutionary mobilization and objectives. Third, analysts of both revolutions and social movements realized that those phenomena have much in common, and a new 'fourth generation' literature on contentious politics has developed that attempts to combine insights from the study of social movements and revolutions in hopes of understanding both phenomena.[32]
 

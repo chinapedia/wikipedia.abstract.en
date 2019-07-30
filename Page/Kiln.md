@@ -1,4 +1,4 @@
-Charcoal_Kilns,_California.JPG kilns, California]] Indian_brick_kiln.jpg Hop_kiln.png kiln]] Farnham_Pottery,_Wrecclesham_-_bottle_kiln.jpg, Wrecclesham, Surrey with the preserved bottle kiln on the right of photo]] CatenaryKilnConstruction06025.JPG kiln under construction]] CarKiln5951.JPG
+kilns, California]] kiln]] , Wrecclesham, Surrey with the preserved bottle kiln on the right of photo]] kiln under construction]]
 
 A KILN ( or ,[1] originally pronounced "kill", with the "n" silent) is a thermally insulated chamber, a type of oven, that produces temperatures sufficient to complete some process, such as hardening, drying, or chemical changes. Kilns have been used for millennia to turn objects made from clay into pottery, tiles and bricks. Various industries use rotary kilns for pyroprocessing—to calcinate ores, to calcinate limestone to lime for cement, and to transform many other materials.
 
@@ -69,7 +69,7 @@ Traditional kilns include:
 
 -   DRAGON KILN of south China: thin and long, climbing up a hillside. This type spread to the rest of East Asia giving the Japanese ANAGAMA KILN, arriving via Korea in the 5th century. This kiln usually consists of one long firing chamber, pierced with smaller ware stacking ports on one side, with a firebox at one end and a flue at the other. Firing time can vary from one day to several weeks. Traditional anagama kilns are also built on a slope to allow for a better draft. The Japanese NOBORIGAMA KILN is an evolution from Anagama design as a multi-chamber kiln where wood is stacked from the front firebox at first, then only through the side-stoking holes with the benefit of having air heated up to from the front firebox, enabling more efficient firings.
 
-Ancient_Cambodian_kiln_reconstitution.jpg Cambodia]]
+Cambodia]]
 
 -   KHMER KILN: quite similar to the Anagama kiln; however, traditional Khmer Kilns had a flat roof. Chinese, Korean or Japanese kilns have an arch roof. These types of kiln vary in size and can measure in the tens of meters. The firing time also varies and can last several days.
 -   BOTTLE KILN: a type of intermittent kiln, usually coal-fired, formerly used in the firing of pottery; such a kiln was surrounded by a tall brick hovel or cone, of typical bottle shape. The tableware was enclosed in sealed fireclay saggars, as the heat and smoke from the fires passed through the oven it would be fired at temperatures up to .

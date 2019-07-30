@@ -1,15 +1,13 @@
-Grünmalz.jpg Malzsorten.jpg malt varieties from Bamberg, Germany]]
+malt varieties from Bamberg, Germany]]
 
 MALT is germinated cereal grain that has been dried in a process known as "malting". The grain is made to germinate by soaking in water and is then halted from germinating further by drying with hot air.[1][2][3][4] Malting grain develops the enzymes required for modifying the grain's starches into various types of sugar, including monosaccharide glucose, disaccharide maltose, trisaccharide maltotriose, and higher sugars called maltodextrines. It also develops other enzymes, such as proteases, which break down the proteins in the grain into forms that can be used by yeast. The point at which the malting process is stopped affects the starch to enzyme ratio and partly converted starch becomes fermentable sugars. Malt also contains small amounts of other sugars, such as sucrose and fructose, which are not products of starch modification but which are already in the grain. Further conversion to fermentable sugars is achieved during the mashing process.
 
-Malted grain is used to make beer, whisky, malted milkshakes, malt vinegar, confections such as Maltesers and Whoppers, flavored drinks such as Horlicks, Ovaltine, and Milo, and some baked goods, such as malt loaf, bagels, and rich tea biscuits. Malted grain that has been ground into a coarse meal is known as "sweet meal".[5][6] Various cereals are malted, though barley is the most common. A high-protein form of malted barley is often a label-listed ingredient in blended flours typically used in the manufacture of yeast breads and other baked goods.[7] Malt_en_grain.JPG production]]
+Malted grain is used to make beer, whisky, malted milkshakes, malt vinegar, confections such as Maltesers and Whoppers, flavored drinks such as Horlicks, Ovaltine, and Milo, and some baked goods, such as malt loaf, bagels, and rich tea biscuits. Malted grain that has been ground into a coarse meal is known as "sweet meal".[5][6] Various cereals are malted, though barley is the most common. A high-protein form of malted barley is often a label-listed ingredient in blended flours typically used in the manufacture of yeast breads and other baked goods.[7] production]]
 
 The term "malt" refers to several products of the process: the grains to which this process has been applied, for example malted barley; the sugar, heavy in maltose, derived from such grains, such as the baker's malt used in various cereals; or a product based on malted milk, similar to a malted milkshake (i.e., "malts").
 
 
 History
-
-Samanu_for_7_sin.jpg
 
 Malted grains have probably been used as an ingredient of beer since ancient times, for example in Egypt (Ancient Egyptian cuisine), Sumer, and China.
 
@@ -19,8 +17,6 @@ Mämmi, or EASTER PORRIDGE, is a traditional Finnish Lenten food. Cooked from ry
 
 
 Malting
-
-Highland_park_malting_floor.jpg
 
 Malting is the process of converting barley or other cereal grains into malt for use in brewing, distilling, or in foods and takes place in a maltings, sometimes called a malthouse, or a malting floor. The cereal is spread out on the malting floor in a layer of depth.[12] The malting process starts with drying the grains to a moisture content below 14% and then storing for around six weeks to overcome seed dormancy. When ready, the grain is immersed or steeped in water two or three times for two or three days to allow the grain to absorb moisture and to start to sprout. When the grain has a moisture content of around 46%, it is transferred to the malting or germination floor, where it is constantly turned over for about four to six days while it is air-dried[13]. The grain at this point is called "green malt". The green malt is then dried and pre-toasted in an oven (or kiln) to the desired color and specification.[14] Malts range in color from very pale through crystal and amber to chocolate or black malts.[15]
 
@@ -51,7 +47,7 @@ In addition, malts are distinguished by the two major cultivar types of barley u
 
 Malt extract
 
-Homebrew_Malt_Extract.jpg malt extracts: liquid in a can and spray dried ]] Malt_syrup.jpg recipe]]
+malt extracts: liquid in a can and spray dried ]] recipe]]
 
 Malt extract, also known as extract of malt, is a sweet, treacly substance used as a dietary supplement.[20] It was popular in the first half of the twentieth century as a nutritional enhancer for the children of the British urban working class, whose diet was often deficient in vitamins and minerals. Children were given cod liver oil for the same reason, but it proved so unpalatable that it was combined with extract of malt to produce "Malt and Cod-Liver Oil."
 
@@ -61,7 +57,7 @@ Malt extract production
 
 Malt extract is frequently used in the brewing of beer. Its production begins by germinating barley grain in a process known as _malting_, immersing barley in water to encourage the grain to sprout, then drying the barley to halt the progress when the sprouting begins. The drying step stops the sprouting, but the enzymes remain active due to the low temperatures used in base malt production.[21] In one before-and-after comparison, malting decreased barley's extractable starch content by about 7% on a dry matter basis and turned that portion into various other carbohydrates.[22]
 
-Pabst_Malt_Extract_Advertisement_1897.jpg In the next step, brewers use a process called mashing to extract the sugars. Brewers warm cracked malt in temperature-modulated water, activating the enzymes,[23] which cleave more of the malt's remaining starch into various sugars, the largest percentage of which is maltose.[24] Modern beer mashing practices typically include high enough temperatures at mash-out to deactivate remaining enzymes, thus it is no longer diastatic. The liquid produced from this, wort, is then concentrated by using heat or a vacuum procedure to evaporate water[25] from the mixture. The concentrated wort is called malt extract.
+In the next step, brewers use a process called mashing to extract the sugars. Brewers warm cracked malt in temperature-modulated water, activating the enzymes,[23] which cleave more of the malt's remaining starch into various sugars, the largest percentage of which is maltose.[24] Modern beer mashing practices typically include high enough temperatures at mash-out to deactivate remaining enzymes, thus it is no longer diastatic. The liquid produced from this, wort, is then concentrated by using heat or a vacuum procedure to evaporate water[25] from the mixture. The concentrated wort is called malt extract.
 
 Liquid malt extract (LME) is a thick syrup and is used for a variety of purposes, such as baking and brewing. It is also sold in jars as a consumer product.
 

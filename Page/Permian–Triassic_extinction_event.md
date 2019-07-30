@@ -106,7 +106,7 @@ Earlier analyses indicated that life on Earth recovered quickly after the Permia
 
 A study published in the journal _Science_[104] found that during the Great Extinction, ocean surface temperatures reached in some places. This explains why recovery took so long: it was too hot for life to survive.[105] Anoxic waters may have also delayed the recovery.[106]
 
-Waimakariri01_gobeirne.jpg, the Waimakariri River on the South Island of New Zealand]] During the early Triassic (4 to 6 million years after the P–Tr extinction), the plant biomass was insufficient to form coal deposits, which implies a limited food mass for herbivores.[107] River patterns in the Karoo changed from meandering to braided, indicating that vegetation there was very sparse for a long time.[108]
+, the Waimakariri River on the South Island of New Zealand]] During the early Triassic (4 to 6 million years after the P–Tr extinction), the plant biomass was insufficient to form coal deposits, which implies a limited food mass for herbivores.[107] River patterns in the Karoo changed from meandering to braided, indicating that vegetation there was very sparse for a long time.[108]
 
 Each major segment of the early Triassic ecosystem—plant and animal, marine and terrestrial—was dominated by a small number of genera, which appeared virtually worldwide, for example: the herbivorous therapsid _Lystrosaurus_ (which accounted for about 90% of early Triassic land vertebrates) and the bivalves _Claraia_, _Eumorphotis_, _Unionites_ and _Promylina_. A healthy ecosystem has a much larger number of genera, each living in a few preferred types of habitat.[109][110]
 
@@ -114,7 +114,7 @@ Disaster taxa took advantage of the devastated ecosystems and enjoyed a temporar
 
 Changes in marine ecosystems
 
-Crinoïde_Carbonifère_8127.jpg crinoid, the mushroom crinoid (_Agaricocrinus americanus_), were significantly less abundant after the P–Tr extinction.]] Prior to the extinction, about two-thirds of marine animals were sessile and attached to the sea floor. During the Mesozoic, only about half of the marine animals were sessile while the rest were free-living. Analysis of marine fossils from the period indicated a decrease in the abundance of sessile epifaunal suspension feeders such as brachiopods and sea lilies and an increase in more complex mobile species such as snails, sea urchins and crabs.[114]
+crinoid, the mushroom crinoid (_Agaricocrinus americanus_), were significantly less abundant after the P–Tr extinction.]] Prior to the extinction, about two-thirds of marine animals were sessile and attached to the sea floor. During the Mesozoic, only about half of the marine animals were sessile while the rest were free-living. Analysis of marine fossils from the period indicated a decrease in the abundance of sessile epifaunal suspension feeders such as brachiopods and sea lilies and an increase in more complex mobile species such as snails, sea urchins and crabs.[114]
 
 Before the Permian mass extinction event, both complex and simple marine ecosystems were equally common; after the recovery from the mass extinction, the complex communities outnumbered the simple communities by nearly three to one,[115] and the increase in predation pressure led to the Mesozoic Marine Revolution.
 
@@ -124,7 +124,7 @@ Crinoids ("sea lilies") suffered a selective extinction, resulting in a decrease
 
 Land vertebrates
 
-Lystrosaurus_BW.jpg'' was by far the most abundant early Triassic land vertebrate. ]] _Lystrosaurus_, a pig-sized herbivorous dicynodont therapsid, constituted as much as 90% of some earliest Triassic land vertebrate fauna. Smaller carnivorous cynodont therapsids also survived, including the ancestors of mammals. In the Karoo region of southern Africa, the therocephalians _Tetracynodon_, _Moschorhinus_ and _Ictidosuchoides_ survived, but do not appear to have been abundant in the Triassic.[119]
+'' was by far the most abundant early Triassic land vertebrate. ]] _Lystrosaurus_, a pig-sized herbivorous dicynodont therapsid, constituted as much as 90% of some earliest Triassic land vertebrate fauna. Smaller carnivorous cynodont therapsids also survived, including the ancestors of mammals. In the Karoo region of southern Africa, the therocephalians _Tetracynodon_, _Moschorhinus_ and _Ictidosuchoides_ survived, but do not appear to have been abundant in the Triassic.[119]
 
 Archosaurs (which included the ancestors of dinosaurs and crocodilians) were initially rarer than therapsids, but they began to displace therapsids in the mid-Triassic. In the mid to late Triassic, the dinosaurs evolved from one group of archosaurs, and went on to dominate terrestrial ecosystems during the Jurassic and Cretaceous.[120] This "Triassic Takeover" may have contributed to the evolution of mammals by forcing the surviving therapsids and their mammaliform successors to live as small, mainly nocturnal insectivores; nocturnal life probably forced at least the mammaliforms to develop fur and higher metabolic rates,[121] while losing part of the differential color-sensitive retinal receptors reptilians and birds preserved.
 
@@ -146,7 +146,7 @@ Any hypothesis about the cause must explain the selectivity of the event, which 
 
 Impact event
 
-Impact_event.jpg a few kilometres in diameter would release as much energy as several million nuclear weapons detonating.]] Evidence that an impact event may have caused the Cretaceous–Paleogene extinction event (Cretaceous–Tertiary) has led to speculation that similar impacts may have been the cause of other extinction events, including the P–Tr extinction, and thus to a search for evidence of impacts at the times of other extinctions and for large impact craters of the appropriate age.
+a few kilometres in diameter would release as much energy as several million nuclear weapons detonating.]] Evidence that an impact event may have caused the Cretaceous–Paleogene extinction event (Cretaceous–Tertiary) has led to speculation that similar impacts may have been the cause of other extinction events, including the P–Tr extinction, and thus to a search for evidence of impacts at the times of other extinctions and for large impact craters of the appropriate age.
 
 Reported evidence for an impact event from the P–Tr boundary level includes rare grains of shocked quartz in Australia and Antarctica;[125][126] fullerenes trapping extraterrestrial noble gases;[127] meteorite fragments in Antarctica;[128] and grains rich in iron, nickel and silicon, which may have been created by an impact.[129] However, the accuracy of most of these claims has been challenged.[130][131][132][133] For example, quartz from Graphite Peak in Antarctica, once considered "shocked", has been re-examined by optical and transmission electron microscopy. The observed features were concluded to be due not to shock, but rather to plastic deformation, consistent with formation in a tectonic environment such as volcanism.[134]
 
@@ -209,7 +209,7 @@ The hypothesis has the advantage of explaining the mass extinction of plants, wh
 
 Supercontinent Pangaea
 
-Pangaea_continents.png showing where today's continents were at the Permian–Triassic boundary]]
+showing where today's continents were at the Permian–Triassic boundary]]
 
 In the mid-Permian (during the Kungurian age of the Permian's Cisuralian epoch), Earth's major continental plates joined, forming a supercontinent called Pangaea, which was surrounded by the superocean, Panthalassa.
 

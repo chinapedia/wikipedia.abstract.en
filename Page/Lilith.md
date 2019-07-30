@@ -32,7 +32,7 @@ A connection between the Gilgamesh _ki-sikil-lil-la-ke_ and the Jewish Lilith wa
 
 The bird-footed woman in the Burney Relief
 
-Burney_Relief_Babylon_-1800-1750.JPG, Babylon (1800–1750 BCE). Some scholars (e.g. Emil Kraeling) incorrectly identified the figure in the relief with Lilith, based on a misreading of an outdated translation of the Epic of Gilgamesh.[21] Modern research has identified the figure as one of the main goddesses of the Mesopotamian pantheons, most probably Inanna or Ereshkigal.[22]]] Kramer's translation of the Gilgamesh fragment was used by Henri Frankfort (1937)[23] and Emil Kraeling (1937)[24] to support identification of a woman with wings and bird-feet in the Burney Relief as related to Lilith, but this has been rejected by later sources, including the British Museum, which is in current possession of the piece. The terracotta plaque depicts a beautiful, naked goddess-like sylph with bird-like features who stands atop two lions and between two owls. Although once believed to be the actual image of Lilith, it is now thought to possibly represent Inanna, the Sumerian goddess of love, fertility, beauty, war, and sexual desire. The depiction of the nocturnal and predatory owls, however, have led many to believe the relief is an affirmation of Lilith's role as a demon who flies about the underworld, delivering night terrors to those who sleep.
+, Babylon (1800–1750 BCE). Some scholars (e.g. Emil Kraeling) incorrectly identified the figure in the relief with Lilith, based on a misreading of an outdated translation of the Epic of Gilgamesh.[21] Modern research has identified the figure as one of the main goddesses of the Mesopotamian pantheons, most probably Inanna or Ereshkigal.[22]]] Kramer's translation of the Gilgamesh fragment was used by Henri Frankfort (1937)[23] and Emil Kraeling (1937)[24] to support identification of a woman with wings and bird-feet in the Burney Relief as related to Lilith, but this has been rejected by later sources, including the British Museum, which is in current possession of the piece. The terracotta plaque depicts a beautiful, naked goddess-like sylph with bird-like features who stands atop two lions and between two owls. Although once believed to be the actual image of Lilith, it is now thought to possibly represent Inanna, the Sumerian goddess of love, fertility, beauty, war, and sexual desire. The depiction of the nocturnal and predatory owls, however, have led many to believe the relief is an affirmation of Lilith's role as a demon who flies about the underworld, delivering night terrors to those who sleep.
 
 The Arslan Tash amulets
 
@@ -109,7 +109,7 @@ The Dead Sea Scrolls contain one indisputable reference to Lilith in _Songs of t
 
   And I, the Instructor, proclaim His glorious splendour so as to frighten and to te[rrify] all the spirits of the destroying angels, spirits of the bastards, demons, Lilith, howlers, and [desert dwellers] ... and those which fall upon men without warning to lead them astray from a spirit of understanding and to make their heart and their ... desolate during the present dominion of wickedness and predetermined time of humiliations for the sons of lig[ht], by the guilt of the ages of [those] smitten by iniquity – not for eternal destruction, [bu]t for an era of humiliation for transgression.[38]
 
-Great_Isaiah_Scroll.jpg, which contains a reference to plural _liliyyot_]]
+, which contains a reference to plural _liliyyot_]]
 
 As with the Massoretic Text of Isaiah 34:14, and therefore unlike the plural _liliyyot_ (or _liliyyoth_) in the Isaiah scroll 34:14, _lilit_ in 4Q510 is singular, this liturgical text both cautions against the presence of supernatural malevolence and assumes familiarity with Lilith; distinct from the biblical text, however, this passage does not function under any socio-political agenda, but instead serves in the same capacity as An Exorcism (4Q560) and Songs to Disperse Demons (11Q11). The text is thus, to a community "deeply involved in the realm of demonology",[39] an exorcism hymn.
 
@@ -137,7 +137,7 @@ The second mention of Lilith, this time explicit, is present in Numbers Rabbah 1
 
 Incantation bowls
 
-Incantation_bowl_demon_Met_L1999.83.3.jpg with an Aramaic inscription around a demon, from Nippur, Mesopotamia, 6-7th century.]] An individual Lilith, along with Bagdana "king of the lilits", is one of the demons to feature prominently in protective spells in the eighty surviving Jewish occult incantation bowls from Sassanid Empire Babylon (4th–6th century CE) with influence from Iranian culture.^([47])[49] These bowls were buried upside down below the structure of the house or on the land of the house, in order to trap the demon or demoness.[50] Almost every house was found to have such protective bowls against demons and demonesses.[51][52]
+with an Aramaic inscription around a demon, from Nippur, Mesopotamia, 6-7th century.]] An individual Lilith, along with Bagdana "king of the lilits", is one of the demons to feature prominently in protective spells in the eighty surviving Jewish occult incantation bowls from Sassanid Empire Babylon (4th–6th century CE) with influence from Iranian culture.^([47])[49] These bowls were buried upside down below the structure of the house or on the land of the house, in order to trap the demon or demoness.[50] Almost every house was found to have such protective bowls against demons and demonesses.[51][52]
 
 The center of the inside of the bowl depicts Lilith, or the male form, Lilit. Surrounding the image is writing in spiral form; the writing often begins at the center and works its way to the edge.[53] The writing is most commonly scripture or references to the Talmud. The incantation bowls which have been analyzed, are inscribed in the following languages, Jewish Babylonian Aramaic, Syriac, Mandaic, Middle Persian, and Arabic. Some bowls are written in a false script which has no meaning.[54]
 
@@ -148,8 +148,6 @@ Key features of the depiction of Lilith or Lilit include the following. The figu
 One bowl contains the following inscription commissioned from a Jewish occultist to protect a woman called Rashnoi and her husband from Lilith:
 
 Alphabet of Ben Sira
-
-Lilith_(Carl_Poellath).jpg
 
 The pseudepigraphical[57] 8th–10th centuries _Alphabet of Ben Sira_ is considered to be the oldest form of the story of Lilith as Adam's first wife. Whether this particular tradition is older is not known. Scholars tend to date the Alphabet between the 8th and 10th centuries CE. The work has been characterized as satirical.
 
@@ -209,7 +207,7 @@ Another version[72] that was also current among Kabbalistic circles in the Middl
 
 The marriage of Samael and Lilith is known as the "Angel Satan" or the "Other God", but it was not allowed to last. To prevent Lilith and Samael's demonic children _Lilin_ from filling the world, God castrated Samael. In many 17th century Kabbalistic books, this mythologem is based on the identification of "Leviathan the Slant Serpent and Leviathan the Torturous Serpent" and a reinterpretation of an old Talmudic myth where God castrated the male Leviathan and slew the female Leviathan in order to prevent them from mating and thereby destroying the earth.[75] After Samael became castrated and Lilith was unable to fornicate with him, she left him to couple with men who experience nocturnal emissions. A 15th or 16th century Kabbalah text states that God has "cooled" the female Leviathan, meaning that he has made Lilith infertile and she is a mere fornication.
 
-Cornelis_Cornelisz._van_Haarlem_-_The_Fall_of_Man_-_WGA05250.jpg (1592), showing the serpent in the Garden of Eden as a woman]]
+(1592), showing the serpent in the Garden of Eden as a woman]]
 
 The _Treatise on the Left Emanation_ says that there are two Liliths, the lesser being married to the great demon Asmodeus.
 
@@ -232,8 +230,6 @@ Raphael Patai states that older sources state clearly that after Lilith's Red Se
 According to Gershom Scholem, the author of the Zohar, Rabbi Moses de Leon, was aware of the folk tradition of Lilith. He was also aware of another story, possibly older, that may be conflicting.[78] According to the Zohar, two female spirits, Lilith and Naamah — found Adam, desired his beauty which was like that of the sun disk, and lay with him. The issue of these unions were demons and spirits called "the plagues of humankind".[79] The added explanation was that it was through Adam's own sin that Lilith overcame him against his will.
 
 17th-century Hebrew magical amulets
-
-Medieval_amulet_to_protect_mother_and_child._Wellcome_M0008070.jpg
 
 A copy of Jean de Pauly's translation of the Zohar in the Ritman Library contains an inserted late 17th Century printed Hebrew sheet for use in magical amulets where the prophet Elijah confronts Lilith.[80]
 
@@ -270,13 +266,13 @@ In Western literature
 
 In German literature
 
-Richard_Westall_-_Faust_and_Lilith.jpg and Lilith'' by Richard Westall (1831)]] Lilith's earliest appearance in the literature of the Romantic period (1789–1832) was in Goethe's 1808 work _Faust: The First Part of the Tragedy_.
+and Lilith'' by Richard Westall (1831)]] Lilith's earliest appearance in the literature of the Romantic period (1789–1832) was in Goethe's 1808 work _Faust: The First Part of the Tragedy_.
 
 After Mephistopheles offers this warning to Faust, he then, quite ironically, encourages Faust to dance with "the Pretty Witch". Lilith and Faust engage in a short dialogue, where Lilith recounts the days spent in Eden.
 
 In English literature
 
-Lady-Lilith.jpg'' by Dante Gabriel Rossetti (1866–1868, 1872–1873)]] The Pre-Raphaelite Brotherhood, which developed around 1848,[88] were greatly influenced by Goethe's work on the theme of Lilith. In 1863, Dante Gabriel Rossetti of the Brotherhood began painting what would later be his first rendition of _Lady Lilith_, a painting he expected to be his "best picture hitherto".[89] Symbols appearing in the painting allude to the "femme fatale" reputation of the Romantic Lilith: poppies (death and cold) and white roses (sterile passion). Accompanying his _Lady Lilith_ painting from 1866, Rossetti wrote a sonnet entitled _Lilith_, which was first published in Swinburne's pamphlet-review (1868), _Notes on the Royal Academy Exhibition_.
+'' by Dante Gabriel Rossetti (1866–1868, 1872–1873)]] The Pre-Raphaelite Brotherhood, which developed around 1848,[88] were greatly influenced by Goethe's work on the theme of Lilith. In 1863, Dante Gabriel Rossetti of the Brotherhood began painting what would later be his first rendition of _Lady Lilith_, a painting he expected to be his "best picture hitherto".[89] Symbols appearing in the painting allude to the "femme fatale" reputation of the Romantic Lilith: poppies (death and cold) and white roses (sterile passion). Accompanying his _Lady Lilith_ painting from 1866, Rossetti wrote a sonnet entitled _Lilith_, which was first published in Swinburne's pamphlet-review (1868), _Notes on the Royal Academy Exhibition_.
 
 The poem and the picture appeared together alongside Rossetti's painting _Sibylla Palmifera_ and the sonnet _Soul's Beauty_. In 1881, the _Lilith_ sonnet was renamed "_Body's Beauty_" in order to contrast it and _Soul's Beauty_. The two were placed sequentially in _The House of Life_ collection (sonnets number 77 and 78).[90]
 

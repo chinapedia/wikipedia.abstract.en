@@ -1,5 +1,3 @@
-Pacific_Beach_5_2014-02-24.jpg Crystal_Pier_PB_Sunset.jpg Pacific_Beach_Crystal_Pier.JPG
-
 PACIFIC BEACH is a neighborhood in San Diego, bounded by La Jolla to the north, Mission Beach and Mission Bay to the south, Interstate 5 to the east and the Pacific Ocean to the west.[1] While formerly largely populated by young people, surfers, and college students, because of rising property and rental costs the population is gradually becoming older and more affluent. [2] "P.B.," as it is known as by local residents, is home to one of San Diego's more developed nightlife scenes, with a great variety of bars, eateries, and clothing stores located along Garnet Avenue and Mission Boulevard.
 
 
@@ -39,7 +37,7 @@ The east-west streets are mostly named after precious stones. Starting at the no
 
 History
 
-Crystal_Pier.jpg Pacific Beach was developed during the boom years of 1886-1888 by D. C. Reed, A. G. Gassen, Charles W. Pauley, R. A. Thomas, and O. S. Hubbell. It was Hubbell who "cleared away the grainfields, pitched a tent, mapped out the lots, hired an auctioneer and started to work".[4] To attract people, they built a race track and the San Diego College of Letters,[5] neither of which survive today. A railway also connected Pacific Beach with downtown San Diego, and was later extended to La Jolla.
+Pacific Beach was developed during the boom years of 1886-1888 by D. C. Reed, A. G. Gassen, Charles W. Pauley, R. A. Thomas, and O. S. Hubbell. It was Hubbell who "cleared away the grainfields, pitched a tent, mapped out the lots, hired an auctioneer and started to work".[4] To attract people, they built a race track and the San Diego College of Letters,[5] neither of which survive today. A railway also connected Pacific Beach with downtown San Diego, and was later extended to La Jolla.
 
 As with many Californian cities, the history of its development can be traced back to the completion of a cross-country railroad in the late 1880s. In 1902, lots sold for between $350–700 for ocean-front property and by 1950, the population of Pacific Beach reached 30,000 and the average home sold for $12,000.[6] Nonetheless, a small number of farms remained. Today, homes can sell for millions.
 
@@ -57,7 +55,7 @@ Pacific Beach public schools are part of the San Diego Unified School District. 
 
 Parks
 
-Pacific_Beach_Skyline.jpg SurfPacificBeach.jpg In addition to bordering the Pacific Ocean and Mission Bay Park, Pacific Beach includes Kate Sessions Park and the Pacific Beach Recreation Center. Fanuel Street Park is a popular bay-front park with playground equipment suitable for toddler and school-age children. Rose Creek, which flows through Pacific Beach before emptying into Mission Bay, provides open space and a rich wetland area.
+In addition to bordering the Pacific Ocean and Mission Bay Park, Pacific Beach includes Kate Sessions Park and the Pacific Beach Recreation Center. Fanuel Street Park is a popular bay-front park with playground equipment suitable for toddler and school-age children. Rose Creek, which flows through Pacific Beach before emptying into Mission Bay, provides open space and a rich wetland area.
 
 
 Organizations

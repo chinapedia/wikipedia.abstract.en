@@ -1,4 +1,4 @@
-Un-niger.png Ancient rock engraving showing herds of giraffe, ibex, and other animals in the southern Sahara and africA Niger. Niger_saharan_medieval_trade_routes.PNG SONGHAI_empire_map.PNG at its greatest extent, c. 1500.]] Djado-nah.jpg in northeast Niger.]] French_West_Africa_1913_map.png 1997_277-31A_Tuareg.jpg This is the HISTORY OF NIGER. See also the history of Africa and the history of West Africa.
+at its greatest extent, c. 1500.]] in northeast Niger.]] This is the HISTORY OF NIGER. See also the history of Africa and the history of West Africa.
 
 
 Pre-historic Niger
@@ -77,7 +77,7 @@ Widespread civil disorder followed allegations that some government ministers we
 
 1974 to 1990
 
-On 15 April 1974, Lieutenant colonel Seyni Kountché led a military coup that ended Diori's rule. Diori was imprisoned until 1980 and remained under house arrest. The government that followed, while plagued by coup attempts of its own, survived until 1993. While a period of relative prosperity, the military government of the period allowed little free expression and engaged in arbitrary imprisonment and killing. The first presidential elections took place in 1993 (33 years after independence), and the first municipal elections only took place in 2007.[20] Niger_soldier-89-07307.JPEG
+On 15 April 1974, Lieutenant colonel Seyni Kountché led a military coup that ended Diori's rule. Diori was imprisoned until 1980 and remained under house arrest. The government that followed, while plagued by coup attempts of its own, survived until 1993. While a period of relative prosperity, the military government of the period allowed little free expression and engaged in arbitrary imprisonment and killing. The first presidential elections took place in 1993 (33 years after independence), and the first municipal elections only took place in 2007.[20]
 
 Upon Kountché's death in 1987, he was succeeded by his Chief of Staff and cousin, Col. Ali Saibou. Saibou liberalized some of Niger's laws and policies, and promulgated a new constitution. He released political prisoners, including Diori and his old political nemesis Djibo Bakary. However, President Saibou's efforts to control political reforms failed in the face of union and student demands to institute a multi-party democratic system. The Saibou regime acquiesced to these demands by the end of 1990. New political parties and civic associations sprang up, and a National Conference was convened in July 1991 to prepare the way for the adoption of a new constitution and the holding of free and fair elections. The debate was often contentious and accusatory, but under the leadership of Prof. André Salifou, the conference developed consensus on the modalities of a transitional government.
 

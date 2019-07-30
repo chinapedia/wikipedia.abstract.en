@@ -28,7 +28,7 @@ A feature of the narrative is a continuing reference to the boardgame of backgam
 
 Geography of the book
 
-Moonfleet_Manor_Hotel_-_geograph.org.uk_-_421787.jpg Falkner uses the local geography of Dorset and the Isle of Wight in the book, only changing some of the place names. The village of _Moonfleet_ is based on East Fleet in Dorset by Chesil Beach. The headland in the book called _The Snout_ is Portland Bill.
+Falkner uses the local geography of Dorset and the Isle of Wight in the book, only changing some of the place names. The village of _Moonfleet_ is based on East Fleet in Dorset by Chesil Beach. The headland in the book called _The Snout_ is Portland Bill.
 
 Corfe Castle and Carisbrooke Castle are key plot locations.[4]
 

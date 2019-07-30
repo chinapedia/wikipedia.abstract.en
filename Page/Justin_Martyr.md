@@ -5,7 +5,7 @@ Most of his works are lost, but two apologies and a dialogue did survive. The _F
 
 Life
 
-Engraving_of_Justin_Martyr_-_2.jpg.]]
+.]]
 
 Justin Martyr was born around AD 100[6] at Flavia Neapolis (today Nablus) in Samaria into a pagan family, and defined himself as a Gentile.[7] His grandfather, Bacchius, had a Greek name, while his father, Priscus, bore a Latin name, which has led to speculations that his ancestors may have settled in Neapolis soon after its establishment or that they were descended from a Roman "diplomatic" community that had been sent there.[8]
 
@@ -15,7 +15,7 @@ Some time afterwards, he chanced upon an old man, possibly a Syrian Christian,[1
 
 Moved by the aged man's argument, Justin renounced both his former religious faith and his philosophical background, choosing instead to re-dedicate his life to the service of the Divine. His newfound convictions were only bolstered by the ascetic lives of the early Christians and the heroic example of the martyrs, whose piety convinced him of the moral and spiritual superiority of Christian doctrine. As a result, he thenceforth decided that the only option for him was to travel throughout the land, spreading the knowledge of Christianity as the "true philosophy." His conversion is commonly assumed to have taken place at Ephesus[11][12] though it may have occurred anywhere on the road from _Syria Palestina_ to Rome.[13]
 
-Mosaic_of_St._Justin_Martyr,_Mount_of_the_Beatitudes.jpg of the beheading of Justin Martyr.]] He then adopted the dress of a philosopher himself and traveled about teaching. During the reign of Antoninus Pius (138–161), he arrived in Rome and started his own school. Tatian was one of his pupils.[14] In the reign of Marcus Aurelius, after disputing with the cynic philosopher Crescens, he was denounced by the latter to the authorities, according to Tatian (Address to the Greeks 19) and Eusebius (HE IV 16.7–8). Justin was tried, together with six companions, by Junius Rusticus, who was urban prefect from 163–167, and was beheaded. Though the precise year of his death is uncertain, it can reasonably be dated by the prefectoral term of Rusticus (who governed from 162 and 168). The martyrdom of Justin preserves the court record of the trial.[15]
+of the beheading of Justin Martyr.]] He then adopted the dress of a philosopher himself and traveled about teaching. During the reign of Antoninus Pius (138–161), he arrived in Rome and started his own school. Tatian was one of his pupils.[14] In the reign of Marcus Aurelius, after disputing with the cynic philosopher Crescens, he was denounced by the latter to the authorities, according to Tatian (Address to the Greeks 19) and Eusebius (HE IV 16.7–8). Justin was tried, together with six companions, by Junius Rusticus, who was urban prefect from 163–167, and was beheaded. Though the precise year of his death is uncertain, it can reasonably be dated by the prefectoral term of Rusticus (who governed from 162 and 168). The martyrdom of Justin preserves the court record of the trial.[15]
 
 The church of St. John the Baptist in Sacrofano, a few miles north of Rome, claims to have his relics.[16]
 
@@ -23,14 +23,12 @@ The Church of the Jesuits in Valletta, Malta, founded by papal decree in 1592 al
 
 A case is also made that the relics of St. Justin are buried in Annapolis, Maryland. During a period of unrest in Italy, a noble family in possession of his remains sent them in 1873 to a priest in Baltimore for safekeeping. They were displayed in St. Mary’s Church for a period of time before they were again locked away for safekeeping. The remains were rediscovered and given a proper burial at St. Mary’s, with Vatican approval, in 1989.[18]
 
-S._Iusti_M..jpg
-
 In 1882 Pope Leo XIII had a Mass and an Office composed for his feast day, which he set at 14 April,[19] one day after the date of his death as indicated in the Martyrology of Florus; but since this date quite often falls within the main Paschal celebrations, the feast was moved in 1968 to 1 June, the date on which he has been celebrated in the Byzantine Rite since at least the 9th century.[20]
 
 
 Writings
 
-Iustini_Philosophi_et_martyris_Opera.tif The earliest mention of Justin is found in the _Oratio ad Graecos_ by Tatian who, after calling him "the most admirable Justin", quotes a saying of his and says that the Cynic Crescens laid snares for him. Irenaeus[21] speaks of Justin's martyrdom and of Tatian as his disciple. Irenaeus quotes Justin twice[22] and shows his influence in other places. Tertullian, in his _Adversus Valentinianos_, calls Justin a philosopher and a martyr and the earliest antagonist of heretics. Hippolytus and Methodius of Olympus also mention or quote him. Eusebius of Caesarea deals with him at some length,[23] and names the following works:
+The earliest mention of Justin is found in the _Oratio ad Graecos_ by Tatian who, after calling him "the most admirable Justin", quotes a saying of his and says that the Cynic Crescens laid snares for him. Irenaeus[21] speaks of Justin's martyrdom and of Tatian as his disciple. Irenaeus quotes Justin twice[22] and shows his influence in other places. Tertullian, in his _Adversus Valentinianos_, calls Justin a philosopher and a martyr and the earliest antagonist of heretics. Hippolytus and Methodius of Olympus also mention or quote him. Eusebius of Caesarea deals with him at some length,[23] and names the following works:
 
 1.  The _First Apology_ addressed to Antoninus Pius, his sons, and the Roman Senate;[24]
 2.  a _Second Apology of Justin Martyr_ addressed to the Roman Senate;

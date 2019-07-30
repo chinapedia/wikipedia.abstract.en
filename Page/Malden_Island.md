@@ -1,5 +1,3 @@
-NASA-MaldenIsland.jpg
-
 MALDEN ISLAND, sometimes called INDEPENDENCE ISLAND in the nineteenth century, is a low, arid, uninhabited atoll in the central Pacific Ocean, about in area. It is one of the Line Islands belonging to the Republic of Kiribati. The lagoon is entirely enclosed by land, however it is connected to the sea by underground channels, and is quite salty.
 
 The island is chiefly notable for its mysterious prehistoric ruins, its once-extensive deposits of phosphatic guano (exploited by Australian interests from 1860–1927), its former use as the site of the first British H-bomb tests (Operation Grapple, 1957), and its current importance as a protected area for breeding seabirds.
@@ -9,7 +7,7 @@ The island is designated as the _Malden Island Wildlife Sanctuary_.[1] In 2014 t
 
 Geography
 
-Malden_AKK_LandingPoint.jpg Malden Island is located south of the equator, south of Honolulu, Hawaii, and more than west of the coast of South America. The nearest land is uninhabited Starbuck Island, to the southwest. The closest inhabited place is Tongareva (Penrhyn Island), to the southwest. The nearest airport is on Kiritimati (Christmas Island), to the northwest. Other nearby islands (all uninhabited) include Jarvis Island, to the northwest, Vostok Island, to the south-southeast, and Caroline (Millennium) Island, to the southeast.
+Malden Island is located south of the equator, south of Honolulu, Hawaii, and more than west of the coast of South America. The nearest land is uninhabited Starbuck Island, to the southwest. The closest inhabited place is Tongareva (Penrhyn Island), to the southwest. The nearest airport is on Kiritimati (Christmas Island), to the northwest. Other nearby islands (all uninhabited) include Jarvis Island, to the northwest, Vostok Island, to the south-southeast, and Caroline (Millennium) Island, to the southeast.
 
 The island has roughly the shape of an equilateral triangle, with on a side, aligned with the southwest side running northwest to southeast. The west and south corners are slightly truncated, shortening the north, east and southwest coasts to about , and adding shorter west and south coasts about 1 to 2 km (½–1 mi) in length. A large, mostly shallow, irregularly shaped lagoon, containing a number of small islets, fills the east central part of the island. The lagoon is entirely enclosed by land, but only by relatively narrow strips along its north and east sides. It is connected to the sea by underground channels, and is quite salty. Most of the land area of the island lies to the south and west of the lagoon. The total area of the island is about .
 
@@ -22,7 +20,7 @@ A continuous heavy surf falls all along the coast, forming a narrow white to gra
 
 Flora and fauna
 
-Malden_Island_AKK_Sula_dactylatra.jpg'') calling on Malden Island]] Malden_AKK_Terns.jpg Because of Malden's isolation and aridity, its vegetation is extremely limited. Sixteen species of vascular plants have been recorded, of which nine are indigenous. The island is largely covered in stunted _Sida fallax_ scrub, low herbs and grasses. Few, if any, of the clumps of stunted _Pisonia grandis_ once found on the island still survive. Coconut palms planted by the guano diggers did not thrive, although a few dilapidated trees may still be seen. Introduced weeds, including the low-growing woody vine _Tribulus cistoides_, now dominate extensive open areas, providing increased cover for young sooty terns.[6]
+'') calling on Malden Island]] Because of Malden's isolation and aridity, its vegetation is extremely limited. Sixteen species of vascular plants have been recorded, of which nine are indigenous. The island is largely covered in stunted _Sida fallax_ scrub, low herbs and grasses. Few, if any, of the clumps of stunted _Pisonia grandis_ once found on the island still survive. Coconut palms planted by the guano diggers did not thrive, although a few dilapidated trees may still be seen. Introduced weeds, including the low-growing woody vine _Tribulus cistoides_, now dominate extensive open areas, providing increased cover for young sooty terns.[6]
 
 Malden is an important breeding island for about a dozen species including masked boobies (_Sula dactylatra_), red-footed booby (_Sula sula_), tropicbirds (_Phaethontidae_), great frigatebird (_Fregata minor_), lesser frigatebird (_Fregata ariel_),[7] grey-backed tern (_Onychoprion lunata_), red-tailed tropicbird (_Phaethon rubricauda_), sooty terns (_sterna fuscata_) It is also an important winter-stop for the bristle-thighed curlew (_Numenius tahitiensis_), a migrant from Alaska;[8] and other migratory seabirds (nineteen species in all).
 
@@ -39,7 +37,7 @@ The earliest documented Western sighting of Malden Island was on 25 March 1825, 
 
 Prehistoric ruins
 
-Malden_Island_AKK_ruins.jpg At the time of its discovery by Europeans, Malden was found to be unoccupied, but the remains of ruined temples and other structures indicated that the island had at one time been inhabited. At various times these remains have been speculatively attributed to "wrecked seamen", "buccaneers", "South American Incas", "early Chinese navigators", etc. In 1924, the Malden ruins were examined by an archaeologist from the Bishop Museum in Honolulu, Kenneth Emory, who concluded that they were the creation of a small Polynesian population which had resided there for perhaps several generations some centuries earlier.
+At the time of its discovery by Europeans, Malden was found to be unoccupied, but the remains of ruined temples and other structures indicated that the island had at one time been inhabited. At various times these remains have been speculatively attributed to "wrecked seamen", "buccaneers", "South American Incas", "early Chinese navigators", etc. In 1924, the Malden ruins were examined by an archaeologist from the Bishop Museum in Honolulu, Kenneth Emory, who concluded that they were the creation of a small Polynesian population which had resided there for perhaps several generations some centuries earlier.
 
 The ancient stone structures are located around the beach ridges, principally on the north and south sides. A total of 21 archaeological sites have been discovered, three of which (on the island's northwest side) are larger than the others.[15] These sites include temple platforms, called marae, house sites, and graves. Comparisons with stone structures on Tuamotu atolls show that a population of between 100 and 200 natives could have produced all of the Malden structures. Maraes of a similar type are found on Raivavae, one of the Austral Islands. Various wells used by these ancients were found by later settlers to be dry or brackish.[16]
 
@@ -63,7 +61,7 @@ Although guano digging continued on Malden through the early 1920s, all human ac
 
 British nuclear testing
 
-Memorial_tablet_in_Paisley.jpg remembering the people concerned in the tests]] In 1956 the United Kingdom selected Malden as the "instrumentation site" for its first series of thermonuclear (H-bomb) weapons tests, based at Kiritimati (Christmas Island). British officials insisted that Malden should not be called a "target island". Nevertheless, the bombing target marker was located at the south point of the island and three thermonuclear devices were detonated at high altitude a short distance offshore in 1957. The airstrip constructed on the island by the Royal Engineers in 1956–57 remained usable in July 1979.[23]
+remembering the people concerned in the tests]] In 1956 the United Kingdom selected Malden as the "instrumentation site" for its first series of thermonuclear (H-bomb) weapons tests, based at Kiritimati (Christmas Island). British officials insisted that Malden should not be called a "target island". Nevertheless, the bombing target marker was located at the south point of the island and three thermonuclear devices were detonated at high altitude a short distance offshore in 1957. The airstrip constructed on the island by the Royal Engineers in 1956–57 remained usable in July 1979.[23]
 
 Malden Island today
 

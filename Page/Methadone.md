@@ -32,7 +32,7 @@ Methadone is used as an analgesic in chronic pain, often in rotation with other 
 
 Adverse effects
 
-Rational_harm_assessment_of_drugs_radar_plot.svg regarding 20 popular recreational drugs. Street methadone was ranked 4th in dependence, 5th in physical harm, and 5th in social harm.[36]]]
+regarding 20 popular recreational drugs. Street methadone was ranked 4th in dependence, 5th in physical harm, and 5th in social harm.[36]]]
 
 Adverse effects of methadone include:
 
@@ -212,8 +212,6 @@ Methadone and its major metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrol
 
 
 History
-
-Methadone_40mg.jpg
 
 Methadone was developed in 1937 in Germany by scientists working for I.G. Farbenindustrie AG at the Farbwerke Hoechst who were looking for a synthetic opioid that could be created with readily available precursors, to solve Germany's opium shortage problem.[168][169] On September 11, 1941 Bockmühl and Ehrhart filed an application for a patent for a synthetic substance they called Hoechst 10820 or Polamidon (a name still in regular use in Germany) and whose structure had only slight relation to morphine or the opiate alkaloids. (Bockmühl and Ehrhart, 1949) It was brought to market in 1943 and was widely used by the German army during WWII.[170]
 

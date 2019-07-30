@@ -28,7 +28,7 @@ Early critical success, 1997–2000
 
 Cruz's agent is Hylda Queally, shared with Cate Blanchett and Kate Winslet.[43] In 1997, Cruz appeared in the Spanish comedy film _Love Can Seriously Damage Your Health_. She portrays Diana, a fan of the Beatles band member John Lennon; she tries unsuccessfully to meet him. Years later, after multiple failed relationships, Diana re-unites with an acquaintance under unusual circumstances.[44] Also in 1997, she appeared in the opening scene of Pedro Almodóvar's _Live Flesh_ as a prostitute who gives birth on a bus[45] and in _Et hjørne af paradis_ (A Corner of Paradise) as Doña Helena. Cruz's final appearance in 1997 was the Amenabar-directed Spanish sci-fi drama, "Abre Los Ojos"/ _Open Your Eyes_. She plays Sofia, the love interest of Eduardo Noriega's lead character. _Open Your Eyes_ received positive reviews,[46] and was later remade by U.S. director Cameron Crowe as "Vanilla Sky" (who cast Cruz in the same role and Tom Cruise in Noriega's role), but "Open Your Eyes" was not commercially successful.[47] Kevin N. Laforest of the Montreal Film Journal commented in his September 2002 review that Cruz "has been getting some really bad reviews for her recent American work, but I personally think that she's a more than decent actress, especially here, where she's charming, moving and always believable. [...] There's one shot in particular, where Cruz enters a room in a greenish glow, which is right out of Hitchcock's picture [_Vertigo_]."[48]
 
-Penélope_Cruz.jpg in 2008]]
+in 2008]]
 
 The following year, Cruz appeared in her first American film as Billy Crudup's consolation-prize Mexican girlfriend in Stephen Frears' western film, _The Hi-Lo Country_.[49] Cruz stated that she had difficulties understanding people speaking English while she was filming _The Hi-Lo Country_.[50] The film was critically and commercially unsuccessful.[51][52] Kevin Lally of the _Film Journal International_ commented in his review for the film that "in an ironic casting twist, the Spanish actress Penélope Cruz [...] is much more appealing as Josepha [than in her previous roles]".[53] For her performance in the film, she was nominated for an ALMA Award for Best Actress. Also in 1998 Cruz appeared in _Don Juan_ and _The Girl of Your Dreams_.
 
@@ -38,7 +38,7 @@ In 2000, she appeared in _Woman on Top_ in the lead female role as Isabelle, a w
 
 Breakthrough acting, 2001–2005
 
-Penélope_Cruz_2003.jpg]]
+]]
 
 2001 marked a turning point year when Cruz starred in the feature films _Vanilla Sky_ and _Blow_. In _Vanilla Sky_, Cameron Crowe's interpretation of _Open Your Eyes_, she played Sofia Serrano, the love interest of Tom Cruise's character. The film received mixed reviews[68] but made $200 million worldwide.[69] Her performance was well received by critics, with BBC film critic Brandon Graydon saying that Cruz "is an enchanting screen presence",[70] and Ethan Alter of the _Film Journal International_ noting that Cruz and her co-star Cruise were "able to generate some actual chemistry".[71] Her next film was _Blow_, adapted from Bruce Porter's 1993 book _Blow: How a Small Town Boy Made $100 million with the Medellín Cocaine Cartel and Lost It All_. She had a supporting role as Mirtha Jung, the wife of Johnny Depp's character. The film received mixed reviews,[72] but made $80 million worldwide.[73] Nina Willdorf of the _Boston Phoenix_ described Cruz as "multi-talented"[74] and Mark Salvo of _The Austin Chronicle_ wrote "I may be one of the last male holdouts to join the Cruz-Rules camp, but her tour de force performance here sucks you right in."[75]
 
@@ -48,7 +48,7 @@ In 2004, Cruz appeared in the Christmas film _Noel_ as Nina, the girlfriend of P
 
 Worldwide recognition, 2006–2009
 
-Penélope_Cruz_2009.jpg in 2009]]
+in 2009]]
 
 Cruz appeared alongside her good friend Salma Hayek in the 2006 Western comedy film, _Bandidas_. Randy Cordova of the _Arizona Republic_ said the film "sports" Cruz and her co-star Salma Hayek as the "lusty dream team" and that they were the "marketing fantasy" for the film.[103] Also in 2006, Cruz received favourable reviews for her performance as Raimunda, a working-class woman forced to go to great lengths to protect her 14-year-old daughter Paula, in Pedro Almodóvar's _Volver_. A.O. Scott of _The New York Times_ remarked, "With this role Ms. Cruz inscribes her name near the top of any credible list of present-day flesh-and-blood screen goddesses, in no small part because she manages to be earthy, unpretentious and a little vulgar without shedding an ounce of her natural glamour."[104] Likewise, Carina Chocano of _The Los Angeles Times_ wrote, "Cruz, who has remarked that in Hollywood she's rarely allowed to be anything more than pretty, instills her with an awesome resoluteness and strength of character."[105] She shared a Best Actress award at the 2006 Cannes Film Festival with five of her co-stars, as well as receiving a Goya Award and European Film Award, and was nominated for the Golden Globe, the Screen Actors Guild Award, the BAFTA Award, and the Academy Award for Best Actress in a leading role. She was the first Spaniard to ever be nominated for an Academy Award for Best Actress.[106]
 
@@ -60,7 +60,7 @@ Cruz's next film was the kid-friendly _G-Force_[120] voicing a guinea pig spy na
 
 2010–2015
 
-Penélope_Cruz_-_Cannes_2011.jpg]]
+]]
 
 Cruz's only film of 2010 was _Sex and the City 2_, the sequel to the 2008 film, in which she appeared as a banker in a cameo role.[127][128] A commercial success, the comedy film was largely panned by critics.[129] Cruz appeared in her biggest Hollywood turn to date in Rob Marshall's _Pirates of the Caribbean: On Stranger Tides_, the fourth installment in the film series, opposite Johnny Depp. In the film, Cruz portrayed Angelica, a former love interest of Jack Sparrow, who blames him for her corruption. Cruz was the only actress considered for the role, as she fit Marshall's description. He invited her for the role as they wrapped the production of _Nine_.[130] The actress spent two months working out and learning fencing for the role.[131] During filming, Cruz discovered she was pregnant, leading the costume department to redesign her wardrobe to be more elastic,[132] and the producers to hire her sister Mónica Cruz to double for Penélope in risky scenes.[133] _On Stranger Tides_ ranks among the highest-grossing films of all time, grossing more than $$1.046 billion in box-office receipts worldwide.[134] On 1 April 2011, prior to the film's release, Cruz received the 2,436th star on the Hollywood Walk of Fame in front of the El Capitan Theatre. She became the first Spanish actress to receive a Star.[135][136]
 
@@ -68,7 +68,7 @@ In 2012, Cruz appeared in the first ever Nintendo commercial to promote _New Sup
 
 In 2013, Cruz appeared in Ridley Scott's _The Counselor_, featuring an ensemble cast consisting of Michael Fassbender, Cameron Diaz, Brad Pitt and husband Javier Bardem. The crime thriller follows a lawyer who, tempted by the lure of quick money, finds himself involved in drug dealing with ruthless Mexican cartels. Cruz plays his girlfriend, Laura, the only innocent character in the story.[145] The film received mostly negative reviews from critics and became a moderate commercial success at the international box offices.[146][147] The same year, Cruz along with Antonio Banderas made a cameo appearance in Pedro Almodóvar's farcical comedy _I'm So Excited_, which marked a return to the director's light, campy comedies of the 1980s and 1990s.[148] The film received mixed reviews, but earned a worldwide gross of more than US$11 million.[149]
 
-Penélope_Cruz_TIFF_2012.jpg]]
+]]
 
 In 2015, Cruz co-produced and starred in the Spanish drama film _Ma Ma_, directed by Julio Medem. In it, she plays Magda, a gutsy mother and unemployed teacher, who is diagnosed with breast cancer, a role which Cruz later cited as "one of the most complex, beautiful characters I've ever been offered, the most difficult."[150] The melodrama was screened in the Special Presentations section of the 2015 Toronto International Film Festival,[151] where it received generally negative reviews for its weepie story line.[152][153] Cruz however was praised for her "aces performance,"[154] which earned her an eighth Goya nomination at the 30th awards ceremony.[155]
 
@@ -76,7 +76,7 @@ In 2015, Cruz co-produced and starred in the Spanish drama film _Ma Ma_, directe
 
 Cruz's first film of 2016 was the American comedy, _Zoolander 2_, co-starring and directed by Ben Stiller. In the sequel film, Cruz portrayed a secret Interpol agent who enlists models Derek Zoolander (Stiller) and Hansel McDonald, played by Owen Wilson, to help find out who is killing the world’s most beautiful people. Specifically written for her persona, Cruz, a fan of the original 2001 film, was one of the first actors to be cast in their parts.[156] Upon its release, the film received generally negative reviews from critics, who felt that it had "more celebrity cameos than laughs."[157] Cruz's other film that year was Louis Leterrier's British spy comedy _Grimsby_, in which she played a powerful philanthropist, opposite Sacha Baron Cohen and Mark Strong. Cruz was reportedly offered $400,000 for her appearance in the film,[158] which was released to generally mixed reviews from critics, who felt that the actress was highly underused and "looking even less invested here than she did in _Zoolander 2_."[159]
 
-Penélope_Cruz_at_Premios_Goya_2017.jpg in 2017]]
+in 2017]]
 
 Also in 2016, Cruz reteamed with Fernando Trueba on his Spanish-language period pic _The Queen of Spain_, a sequel to Trueba's 1998 drama _The Girl of Your Dreams_.[160] Set in the 1950s, twenty years after the events of the original film, Cruz reprised the role of an actress, who has become a Hollywood star and returns to Spain to film a blockbuster about Queen Isabella I of Castile. Selected to be shown in the Berlinale Special section of the 67th Berlin International Film Festival,[161] the Spanish comedy-drama was screened to lukewarm reviews,[162] but received five nominations at the 31st Goya Awards, earning her Cruz her ninth nomination.[163]
 
@@ -87,7 +87,7 @@ As of December 2017, Cruz has various film projects in different states of produ
 
 Public image
 
-PenélopeCruzHWoFApr2011.jpg on 1 April 2011]]
+on 1 April 2011]]
 
 In 2006, Cruz became spokesmodel for French cosmetics company L'Oréal to promote products such as the L'Oréal Paris hair dye Natural Match[174] and L'Oreal mascara products.[175] She receives $2 million a year for her work for the company.[176] Cruz has appeared in print ads for Mango[177] and had a contract with Ralph Lauren in 2001.[178][179] Cruz and her sister designed their second collection for Mango in 2007.[180] It was inspired by Brigitte Bardot and summers in St Tropez.[181]
 
@@ -105,7 +105,7 @@ Cruz has donated money and time to charity. In addition to work in Nepal, she ha
 
 Personal life
 
-Pedro_Almodóvar_and_Penélope_Cruz_at_Premios_Goya_2017_1_(cropped).jpg'' director Pedro Almodóvar at the 31st Goya Awards in 2017]]
+'' director Pedro Almodóvar at the 31st Goya Awards in 2017]]
 
 Cruz is married to Spanish actor Javier Bardem. Bardem was her co-star in her breakthrough role as Silvia in _Jamón, Jamón_, as well as starring alongside her in _Vicky Cristina Barcelona_.[204] They were also both in the 2013 film _The Counselor_. Cruz began dating Bardem in 2007 and they married in early July 2010 in a private ceremony at a friend's home in the Bahamas.[205][206] They have a son born in 2011 in Los Angeles,[207] and a daughter born in 2013.[208] She became a public advocate of breastfeeding following the birth of her children.[209]
 

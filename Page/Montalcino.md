@@ -13,13 +13,13 @@ During medieval times the city was known for its tanneries and for the shoes and
 
 Like many of the medieval towns of Tuscany, Montalcino experienced long periods of peace and often enjoyed a measure of prosperity. This peace and prosperity was, however, interrupted by a number of extremely violent episodes.
 
-During the late Middle Ages it was an independent commune with considerable importance owing to its location on the old Via Francigena, the main road between France and Rome, but increasingly Montalcino came under the sway of the larger and more aggressive city of Siena. Montalcino_001.jpg As a satellite of Siena since the Battle of Montaperti in 1260, Montalcino was deeply involved and affected by the conflicts in which Siena became embroiled, particularly in those with the city of Florence in the 14th and 15th centuries, and like many other cities in central and northern Italy, the town was also caught up in the internecine wars between the Ghibellines (supporters of the Holy Roman Empire) and the Guelphs (supporters of the Papacy). Factions from each side controlled the town at various times in the late medieval period.
+During the late Middle Ages it was an independent commune with considerable importance owing to its location on the old Via Francigena, the main road between France and Rome, but increasingly Montalcino came under the sway of the larger and more aggressive city of Siena. As a satellite of Siena since the Battle of Montaperti in 1260, Montalcino was deeply involved and affected by the conflicts in which Siena became embroiled, particularly in those with the city of Florence in the 14th and 15th centuries, and like many other cities in central and northern Italy, the town was also caught up in the internecine wars between the Ghibellines (supporters of the Holy Roman Empire) and the Guelphs (supporters of the Papacy). Factions from each side controlled the town at various times in the late medieval period.
 
-Once Siena had been conquered by Florence under the rule of the Medici family in 1555, Montalcino held out for almost four years, but ultimately fell to the Florentines, under whose control it remained until the Grand Duchy of Tuscany was amalgamated into a united Italy in 1861. View_from_Montalcino,_Tuscany.jpg
+Once Siena had been conquered by Florence under the rule of the Medici family in 1555, Montalcino held out for almost four years, but ultimately fell to the Florentines, under whose control it remained until the Grand Duchy of Tuscany was amalgamated into a united Italy in 1861.
 
 In the case of Montalcino, gradual economic decline has recently been reversed by economic growth due to the increasing popularity of the town's famous wine Brunello di Montalcino, made from the sangiovese grosso grapes grown within the comune. The number of producers of the wine has grown from only 11 in the 1960s to more than 200 today, producing some 330,000 cases of the Brunello wine annually. Brunello was the first wine to be awarded _Denominazione di Origine Controllata e Garantita_ (DOCG) status. In addition to Brunello di Montalcino, which must be aged five years prior to release, 6 years for the Riserva, Rosso di Montalcino (DOC), made from sangiovese grosso grapes and aged one year, and a variety of Super Tuscan wines are also produced within the comune, as well as the Moscadello sweet white wines for which it was most famous until the development of the Brunello series.
 
-Fortezza-Montalcino-SI-IT.jpg Montalcino,_Tuscany,_Italy.jpg Abbazia_di_Sant'Antimo.JPG.]]
+.]]
 
 
 Main sights
@@ -39,8 +39,6 @@ Montalcino is divided, like most medieval Tuscan cities, into quarters called _c
 The 13th-century church of _San Francesco_ in the Castlevecchio _contrada_ has undergone several renovations. It contains 16th-century frescoes by Vincenzo Tamagni.
 
 Other sites
-
-AbbaziaSAntimoPanorama.jpg
 
 -   Churches with frescoes of the Sienese School
 -   _Rocca_, a ruined castle

@@ -51,7 +51,7 @@ In 1722, he named Saint Isidore of Seville as a Doctor of the Church.
 
 Death and legacy
 
-Tomb_of_Innocentius_XIII.jpg Innocent XIII fell ill in 1724. He was tormented by a hernia of which he spoke to nobody but his valet. At one point, it had burst and caused inflammation and fever. Innocent XIII asked for the last rites, made his profession of faith, and died on 7 March 1724, at the age of 68. His pontificate was unremarkable, given that he was hampered by physical suffering. He was interred in the grottoes at Saint Peter's Basilica.
+Innocent XIII fell ill in 1724. He was tormented by a hernia of which he spoke to nobody but his valet. At one point, it had burst and caused inflammation and fever. Innocent XIII asked for the last rites, made his profession of faith, and died on 7 March 1724, at the age of 68. His pontificate was unremarkable, given that he was hampered by physical suffering. He was interred in the grottoes at Saint Peter's Basilica.
 
 In 2005 upon the occasion of the 350 years since the birth of the late pontiff, the citizens in the late pope's village of birth asked the Holy See to introduce the cause of beatification for Innocent XIII.
 

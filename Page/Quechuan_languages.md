@@ -16,7 +16,7 @@ The oldest written records of the language are by missionary Domingo de Santo To
 
 Current status
 
-El_quechua_como_lengua_materna_(censo_nacional_2007).png In 1975, Peru became the first country to recognize Quechua as one of its official languages.[14] Ecuador conferred official status on the language in its 2006 constitution, and in 2009, Bolivia adopted a new constitution that recognized Quechua and several other indigenous languages as official languages of the country.[15]
+In 1975, Peru became the first country to recognize Quechua as one of its official languages.[14] Ecuador conferred official status on the language in its 2006 constitution, and in 2009, Bolivia adopted a new constitution that recognized Quechua and several other indigenous languages as official languages of the country.[15]
 
 The major obstacle to the usage and teaching of Quechuan languages is the lack of written materials in the languages, such as books, newspapers, software, and magazines. The Bible has been translated into Quechua and is distributed by certain missionary groups. Quechua, along with Aymara and minor indigenous languages, remains essentially a spoken language.
 
@@ -43,8 +43,6 @@ Additionally, there are an unknown number of speakers in emigrant communities, i
 
 
 Classification
-
-Quechua_(subgrupos).svg
 
 There are significant differences among the varieties of Quechua spoken in the central Peruvian highlands and the peripheral varieties of Ecuador, as well as those of southern Peru and Bolivia. They can be labeled Quechua I (or Quechua B, central) and Quechua II (or Quechua A, peripheral). Within the two groups, there are few sharp boundaries, making them dialect continua.
 

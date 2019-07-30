@@ -1,4 +1,4 @@
-Frazier_Peak,_tower_and_Honda_Element.jpg links on Frazier Peak, Ventura County, California. The apertures of the dishes are covered by plastic sheets (radomes) to keep out moisture.]] Atmospheric_Microwave_Transmittance_at_Mauna_Kea_(simulated).svg of microwaves and far infrared radiation in dry air with a precipitable water vapor level of 0.001 mm. The downward spikes in the graph correspond to frequencies at which microwaves are absorbed more strongly. This graph includes a range of frequencies from 0 to 1 THz; the microwaves are the subset in the range between 0.3 and 300 gigahertz.]]
+links on Frazier Peak, Ventura County, California. The apertures of the dishes are covered by plastic sheets (radomes) to keep out moisture.]] of microwaves and far infrared radiation in dry air with a precipitable water vapor level of 0.001 mm. The downward spikes in the graph correspond to frequencies at which microwaves are absorbed more strongly. This graph includes a range of frequencies from 0 to 1 THz; the microwaves are the subset in the range between 0.3 and 300 gigahertz.]]
 
 MICROWAVES are a form of electromagnetic radiation with wavelengths ranging from about one meter to one millimeter; with frequencies between and .[1][2][3][4][5] Different sources define different frequency ranges as microwaves; the above broad definition includes both UHF and EHF (millimeter wave) bands. A more common definition in radio engineering is the range between 1 and 100 GHz (wavelengths between 0.3 m and 3 mm).[6] In all cases, microwaves include the entire SHF band (3 to 30 GHz, or 10 to 1 cm) at minimum. Frequencies in the microwave range are often referred to by their IEEE radar band designations: S, C, X, K_(u), K, or K_(a) band, or by similar NATO or EU designations.
 
@@ -45,7 +45,7 @@ In a microwave beam directed at an angle into the sky, a small amount of the pow
 
 Antennas
 
-Diplexer1.jpgs and a diplexer in an air traffic control radar]]
+s and a diplexer in an air traffic control radar]]
 
 The short wavelengths of microwaves allow omnidirectional antennas for portable devices to be made very small, from 1 to 20 centimeters long, so microwave frequencies are widely used for wireless devices such as cell phones, cordless phones, and wireless LANs (Wi-Fi) access for laptops, and Bluetooth earphones. Antennas used include short whip antennas, rubber ducky antennas, sleeve dipoles, patch antennas, and increasingly the printed circuit inverted F antenna (PIFA) used in cell phones.
 
@@ -63,7 +63,7 @@ As a consequence, practical microwave circuits tend to move away from the discre
 
 Microwave sources
 
-Radar_speed_gun_internal_works.jpg. The grey assembly attached to the end of the copper-colored horn antenna is the Gunn diode which generates the microwaves. ]]
+. The grey assembly attached to the end of the copper-colored horn antenna is the Gunn diode which generates the microwaves. ]]
 
 High-power microwave sources use specialized vacuum tubes to generate microwaves. These devices operate on different principles from low-frequency vacuum tubes, using the ballistic motion of electrons in a vacuum under the influence of controlling electric or magnetic fields, and include the magnetron (used in microwave ovens), klystron, traveling-wave tube (TWT), and gyrotron. These devices work in the density modulated mode, rather than the current modulated mode. This means that they work on the basis of clumps of electrons flying ballistically through them, rather than using a continuous stream of electrons.
 
@@ -78,7 +78,7 @@ Microwave technology is extensively used for point-to-point telecommunications (
 
 Communication
 
-SuperDISH121.jpg on a residence, which receives satellite television over a K_(u) band 12–14 GHz microwave beam from a direct broadcast communications satellite in a geostationary orbit 35,700 kilometres (22,000 miles) above the Earth]]
+on a residence, which receives satellite television over a K_(u) band 12–14 GHz microwave beam from a direct broadcast communications satellite in a geostationary orbit 35,700 kilometres (22,000 miles) above the Earth]]
 
 Before the advent of fiber-optic transmission, most long-distance telephone calls were carried via networks of microwave radio relay links run by carriers such as AT&T Long Lines. Starting in the early 1950s, frequency division multiplex was used to send up to 5,400 telephone channels on each microwave radio channel, with as many as ten radio channels combined into one antenna for the _hop_ to the next site, up to 70 km away.
 
@@ -100,7 +100,7 @@ Global Navigation Satellite Systems (GNSS) including the Chinese Beidou, the Ame
 
 Radar
 
-ASR-9_Radar_Antenna.jpg (lower curved surface) of an ASR-9 airport surveillance radar which radiates a narrow vertical fan-shaped beam of 2.7–2.9 GHz (S band) microwaves to locate aircraft in the airspace surrounding an airport.]]
+(lower curved surface) of an ASR-9 airport surveillance radar which radiates a narrow vertical fan-shaped beam of 2.7–2.9 GHz (S band) microwaves to locate aircraft in the airspace surrounding an airport.]]
 
 Radar is a radiolocation technique in which a beam of radio waves emitted by a transmitter bounces off an object and returns to a receiver, allowing the location, range, speed, and other characteristics of the object to be determined. The short wavelength of microwaves causes large reflections from objects the size of motor vehicles, ships and aircraft. Also, at these wavelengths, the high gain antennas such as parabolic antennas which are required to produce the narrow beamwidths needed to accurately locate objects are conveniently small, allowing them to be rapidly turned to scan for objects. Therefore, microwave frequencies are the main frequencies used in radar. Microwave radar is widely used for applications such as air traffic control, weather forecasting, navigation of ships, and speed limit enforcement. Long distance radars use the lower microwave frequencies since at the upper end of the band atmospheric absorption limits the range, but millimeter waves are used for short range radar such as collision avoidance systems.
 
@@ -114,7 +114,7 @@ A major recent focus of microwave radio astronomy has been mapping the cosmic mi
 
 Heating and power application
 
-Electrodomésticos_de_línea_blanca_18.JPG on a kitchen counter]] Microwave_tunnel_closeup.jpg A microwave oven passes microwave radiation at a frequency near {{convert through food, causing dielectric heating primarily by absorption of the energy in water. Microwave ovens became common kitchen appliances in Western countries in the late 1970s, following the development of less expensive cavity magnetrons. Water in the liquid state possesses many molecular interactions that broaden the absorption peak. In the vapor phase, isolated water molecules absorb at around 22 GHz, almost ten times the frequency of the microwave oven.
+on a kitchen counter]] A microwave oven passes microwave radiation at a frequency near {{convert through food, causing dielectric heating primarily by absorption of the energy in water. Microwave ovens became common kitchen appliances in Western countries in the late 1970s, following the development of less expensive cavity magnetrons. Water in the liquid state possesses many molecular interactions that broaden the absorption peak. In the vapor phase, isolated water molecules absorb at around 22 GHz, almost ten times the frequency of the microwave oven.
 
 Microwave heating is used in industrial processes for drying and curing products.
 
@@ -133,7 +133,7 @@ Microwave radiation is used in electron paramagnetic resonance (EPR or ESR) spec
 
 Microwave frequency bands
 
-Atmospheric_electromagnetic_opacity.svgs of electromagnetic radiation. Microwaves are strongly absorbed at wavelengths shorter than about 1.5 cm (above 20 GHz) by water and other molecules in the air.]]
+s of electromagnetic radiation. Microwaves are strongly absorbed at wavelengths shorter than about 1.5 cm (above 20 GHz) by water and other molecules in the air.]]
 
 Bands of frequencies in the microwave spectrum are designated by letters. Unfortunately, there are several incompatible band designation systems, and even within a system the frequency ranges corresponding to some of the letters vary somewhat between different application fields.[21][22] The letter system had its origin in World War 2 in a top secret U.S. classification of bands used in radar sets; this is the origin of the oldest letter system, the IEEE radar bands. One set of microwave frequency bands designations by the Radio Society of Great Britain (RSGB), is tabulated below:
 
@@ -162,7 +162,7 @@ When radars were first developed at K band during World War II, it was not known
 
 Microwave frequency measurement
 
-Ondamtr.JPG for measuring in the K_(u) band.]]
+for measuring in the K_(u) band.]]
 
 Microwave frequency can be measured by either electronic or mechanical techniques.
 
@@ -224,7 +224,7 @@ The traveling wave tube (TWT) developed in 1943 by Rudolph Kompfner and John Pie
 
 Solid state microwave devices
 
-Radar_Gun_Electronics.jpg. At the right end of the copper horn antenna is the Gunn diode _(grey assembly)_ which generates the microwaves.]]
+. At the right end of the copper horn antenna is the Gunn diode _(grey assembly)_ which generates the microwaves.]]
 
 The development of semiconductor electronics in the 1950s led to the first solid state microwave devices which worked by a new principle; negative resistance (some of the prewar microwave tubes had also used negative resistance).[60] The feedback oscillator and two-port amplifiers which were used at lower frequencies became unstable at microwave frequencies, and negative resistance oscillators and amplifiers based on one-port devices like diodes worked better.
 
@@ -232,7 +232,7 @@ The tunnel diode invented in 1957 by Japanese physicist Leo Esaki could produce 
 
 Microwave integrated circuits
 
-LNB_dissassembled.JPG microstrip circuit used in satellite television dish.]] Prior to the 1970s microwave devices and circuits were bulky and expensive, so microwave frequencies were generally limited to the output stage of transmitters and the RF front end of receivers, and signals were heterodyned to a lower intermediate frequency for processing. The period from the 1970s to the present has seen the development of tiny inexpensive active solid state microwave components which can be mounted on circuit boards, allowing circuits to perform significant signal processing at microwave frequencies. This has made possible satellite television, cable television, GPS devices, and modern wireless devices, such as smartphones, Wi-Fi, and Bluetooth which connect to networks using microwaves.
+microstrip circuit used in satellite television dish.]] Prior to the 1970s microwave devices and circuits were bulky and expensive, so microwave frequencies were generally limited to the output stage of transmitters and the RF front end of receivers, and signals were heterodyned to a lower intermediate frequency for processing. The period from the 1970s to the present has seen the development of tiny inexpensive active solid state microwave components which can be mounted on circuit boards, allowing circuits to perform significant signal processing at microwave frequencies. This has made possible satellite television, cable television, GPS devices, and modern wireless devices, such as smartphones, Wi-Fi, and Bluetooth which connect to networks using microwaves.
 
 Microstrip, a type of transmission line usable at microwave frequencies, was invented with printed circuits in the 1950s.[64] The ability to cheaply fabricate a wide range of shapes on printed circuit boards allowed microstrip versions of capacitors, inductors, resonant stubs, splitters, directional couplers, diplexers, filters and antennas to be made, thus allowing compact microwave circuits to be constructed.[65]
 

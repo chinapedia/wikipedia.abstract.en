@@ -26,8 +26,6 @@ Radio and television
 
 Telephones
 
-Peruvian_Telephone_Company_receipt_Lima_1895.JPG
-
 -   Calling code: +51.[13]
 -   International call prefix: 00[14]
 -   Fixed lines: 3.4 million lines in use (2012).[15][16]

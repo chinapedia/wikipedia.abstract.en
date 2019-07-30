@@ -29,7 +29,7 @@ Regalia
 
 Scepters and staves
 
-Khasekhemwy-BeadedScepter_MuseumOfFineArtsBoston.png Sceptres and staves were a general sign of authority in ancient Egypt.[17] One of the earliest royal scepters was discovered in the tomb of Khasekhemwy in Abydos.[18] Kings were also known to carry a staff, and Pharaoh Anedjib is shown on stone vessels carrying a so-called _mks_-staff.[19] The scepter with the longest history seems to be the _heqa_-sceptre, sometimes described as the shepherd's crook.[20] The earliest examples of this piece of regalia dates to prehistoric Egypt. A scepter was found in a tomb at Abydos that dates to Naqada III.
+Sceptres and staves were a general sign of authority in ancient Egypt.[17] One of the earliest royal scepters was discovered in the tomb of Khasekhemwy in Abydos.[18] Kings were also known to carry a staff, and Pharaoh Anedjib is shown on stone vessels carrying a so-called _mks_-staff.[19] The scepter with the longest history seems to be the _heqa_-sceptre, sometimes described as the shepherd's crook.[20] The earliest examples of this piece of regalia dates to prehistoric Egypt. A scepter was found in a tomb at Abydos that dates to Naqada III.
 
 Another scepter associated with the king is the _was_-sceptre.[21] This is a long staff mounted with an animal head. The earliest known depictions of the _was_-scepter date to the First Dynasty. The _was_-scepter is shown in the hands of both kings and deities.
 
@@ -56,11 +56,11 @@ This is the combination of the Deshret and Hedjet crowns into a double crown, ca
 
 Khat
 
-Den1.jpg The _khat_ headdress consists of a kind of "kerchief" whose end is tied similarly to a ponytail. The earliest depictions of the _khat_ headdress comes from the reign of Den, but is not found again until the reign of Djoser.
+The _khat_ headdress consists of a kind of "kerchief" whose end is tied similarly to a ponytail. The earliest depictions of the _khat_ headdress comes from the reign of Den, but is not found again until the reign of Djoser.
 
 Nemes
 
-The Nemes headdress dates from the time of Djoser. It is the most common type of crown that has been depicted throughout Pharaonic Egypt. Any other type of crown, apart from the Khat headdress, has been commonly depicted on top of the Nemes. The statue from his Serdab in Saqqara shows the king wearing the _nemes_ headdress.[25] Kneeling_Statuette_of_Pepy_I,_ca._2338-2298_B.C.E.,_39.121.jpg]]
+The Nemes headdress dates from the time of Djoser. It is the most common type of crown that has been depicted throughout Pharaonic Egypt. Any other type of crown, apart from the Khat headdress, has been commonly depicted on top of the Nemes. The statue from his Serdab in Saqqara shows the king wearing the _nemes_ headdress.[25] ]]
 
 Atef
 
@@ -103,7 +103,7 @@ The Golden Horus or Golden Falcon name was preceded by a falcon on a gold or _nb
 
 Nomen and prenomen
 
-The prenomen and nomen were contained in a cartouche. The prenomen often followed the King of Upper and Lower Egypt (_nsw bity_) or Lord of the Two Lands (_nebtawy_) title. The prenomen often incorporated the name of Re. The nomen often followed the title Son of Re (_sa-ra_) or the title Lord of Appearances (_neb-kha_).[38] S_F-E-CAMERON_EGYPT_2005_RAMASEUM_01360.JPG ]]
+The prenomen and nomen were contained in a cartouche. The prenomen often followed the King of Upper and Lower Egypt (_nsw bity_) or Lord of the Two Lands (_nebtawy_) title. The prenomen often incorporated the name of Re. The nomen often followed the title Son of Re (_sa-ra_) or the title Lord of Appearances (_neb-kha_).[38] ]]
 
 
 See also

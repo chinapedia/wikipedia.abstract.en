@@ -22,7 +22,7 @@ In the 9th and 10th centuries, the Budzistowo stronghold was the largest of seve
 
 Piast Poland and conversion
 
-Budzistowo_Church_2009-05b.jpg]]
+]]
 
 During Polish rule of the area in the late 10th century, the chronicle of Thietmar of Merseburg (975-1018) mentions _salsa Cholbergiensis_ as the see of the Bishopric of Kołobrzeg, set up during the Congress of Gniezno in 1000 and placed under the Archdiocese of Gniezno.[25] The congress was organized by Polish duke Bolesław Chrobry and Holy Roman Emperor Otto III, and also led to the establishment of bishoprics in Kraków and Wrocław, connecting the territories of the Polish state.[26] The city mentions this as an important event not only in religious, but also political dimension as it unified Polish territories.[27]
 
@@ -36,13 +36,11 @@ Besides St. Mary's, a St. John's church and a St. Petri's chapel were built.[40]
 
 From the late Middle Ages to the Thirty Years' War
 
-Kolobrzeg_Basilica_2007-07.jpg St. Mary's Basilica]]
+St. Mary's Basilica]]
 
 During the Ostsiedlung, a settlement was founded by German settlers some kilometers off the site of the Slavic one.[42][43][44] The official city website mentions that it was located within the boundary of today's downtown of Kołobrzeg[45] and that certain of the inhabitants of the Polish town moved to the new settlement.[46] On May 23, 1255 it was chartered under Lübeck law by Duke Wartislaw III of Pomerania,[47][48] and more settlers arrived, attracted by the duke.[49] Hermann von Gleichen, German bishop of Kammin also supported the German colonisation of the region.[50] The settlers received several privileges such as exemption from certain taxes and several benefits, making it difficult for the indigenous Slavic population to compete with Germans, and as result Slavs impoverished.[51]
 
 Henceforth, the nearby former stronghold was turned into a village and renamed "Old Town" (, , ), first documented in 1277 and used until 1945 when it was renamed "Budzistowo".[52][53] A new St. Mary's church was built within the new town before the 1260s,[54] while St. Mary's in the former Pomeranian stronghold was turned into a nuns' abbey.[55] In 1277 St. Benedict's monastery for nuns was founded, which in the framework of the Pomeranian Reformation in 1545 was then changed into an educational institution for noble Protestant ladies.[56]
-
-Kolobrzeg_Lontowa_Tower_E_2011-04.jpg
 
 Already in 1248, the Kammin bishops and the Pomeranian dukes had interchanged the _terrae_ Stargard and Kolberg, leaving the bishops in charge of the latter.[57] When in 1276 they became the souvereign of the town also, they moved their residence there, while the administration of the diocese was done from nearby Köslin (Koszalin).[58] In 1345, the bishops became Imperial immediate dukes in their secular reign.[59]
 
@@ -56,19 +54,17 @@ During the Thirty Years' War, Kolberg was occupied by imperial forces from 1627 
 
 Modern era: In Prussia
 
-Kołobrzeg-ratusz05.jpg planned the Neo-Gothic building in 1826 to replace the old town hall, destroyed during the siege of Kolberg (1807). Built 1829-1832.[67]]] Kolberg, with most of Farther Pomerania, was granted to Brandenburg-Prussia in 1648 by the Treaty of Westphalia and, after the signing of the Treaty of Stettin (1653), was part of the Province of Pomerania. It became part of the Kingdom of Prussia in 1701. In 1761, during the Seven Years' War, the town was captured after three subsequent sieges by the Russian commander Peter Rumyantsev. At the end of the war, however, Kolberg was returned to Prussia. Sulkowski-paul-antoni.jpg, who led the Polish troops during the siege of 1807, is the namesake of a Kołobrzeg street today]]
+planned the Neo-Gothic building in 1826 to replace the old town hall, destroyed during the siege of Kolberg (1807). Built 1829-1832.[67]]] Kolberg, with most of Farther Pomerania, was granted to Brandenburg-Prussia in 1648 by the Treaty of Westphalia and, after the signing of the Treaty of Stettin (1653), was part of the Province of Pomerania. It became part of the Kingdom of Prussia in 1701. In 1761, during the Seven Years' War, the town was captured after three subsequent sieges by the Russian commander Peter Rumyantsev. At the end of the war, however, Kolberg was returned to Prussia. , who led the Polish troops during the siege of 1807, is the namesake of a Kołobrzeg street today]]
 
 During Napoleon's invasion of Prussia during the War of the Fourth Coalition, the town was besieged from mid-March to July 2, 1807, by the Grande Armée and by Polish forces drawn from insurgents against Prussian rule (a street named for the commander leading Polish soldiers is located within the present-day city). The city's defense, led by then Lieutenant-Colonel August von Gneisenau, held out until the war was ended by the Treaty of Tilsit. Kolberg became part of the Prussian province of Pomerania in 1815, after the final defeat of Napoleon; until 1872, it was administered within the Fürstenthum District ("Principality District", recalling the area's former special status), then it was within Landkreis Kolberg-Körlin. Marcin Dunin, archbishop of Poznań and Gniezno and Roman Catholic primate of Poland, was imprisoned by Prussian authorities for ten months in 1839-1840 in the city[68] and after his release, he tried to organise a chaplaincy for the many Polish soldiers stationed in Kolberg.[69]
 
-In the Nineteenth century the city had a small but active Polish population that increased during the century to account for 1.5% of the population by 1905.[70] The Polish community funded a Catholic school and the Church of Saint Marcin where masses in Polish were held (initially throughout the season, after about 1890 all the year), were established.[71][72][73] Dating back to 1261 Kolberg's Jewish population amounted to 528 people in 1887, rising to 580 two years later it was 580, and although many moved to Berlin after that date they numbered around 500 by the end of the Nineteenth century[74] Kolobrzeg-pomnik-ku-pamieci-zydowskich-mieszkancow-080404-210.jpg Between 1924 and 1935, the American-German painter Lyonel Feininger, a tutor at the Staatliches Bauhaus, visited Kolberg repeatedly and painted the cathedral and environs of the town.
+In the Nineteenth century the city had a small but active Polish population that increased during the century to account for 1.5% of the population by 1905.[70] The Polish community funded a Catholic school and the Church of Saint Marcin where masses in Polish were held (initially throughout the season, after about 1890 all the year), were established.[71][72][73] Dating back to 1261 Kolberg's Jewish population amounted to 528 people in 1887, rising to 580 two years later it was 580, and although many moved to Berlin after that date they numbered around 500 by the end of the Nineteenth century[74] Between 1924 and 1935, the American-German painter Lyonel Feininger, a tutor at the Staatliches Bauhaus, visited Kolberg repeatedly and painted the cathedral and environs of the town.
 
 In the May elections of 1933, the Nazi Party received by far the most votes, 9,842 out of 19,607 cast votes.[75]
 
 When the Nazis took power in Germany in 1933, the Jewish community in Kolberg comprised 200 people, and the antisemitic repression by Germany's ruling party led several of them to flee the country. A Nazi newspaper, the _Kolberger Beobachter_, listed Jewish shops and business that were to be boycotted. Nazis also engaged in hate propaganda against Jewish lawyers, doctors, and craftsmen.[76] At the end of 1935, Jews were banned from working in the city's health spas.[77] During Kristallnacht, the Jewish synagogue and homes were destroyed, and in 1938 the local Jewish cemetery was vandalised, while a cemetery shrine was turned to stable by German soldiers.[78] In 1938, all Jews in Kolberg, as all over Germany, were renamed in official German documents as "Israel" (for males) or "Sarah" (for females). In the beginning of 1939, Jews were banned from attending German schools and the entire adult population had its driving licenses revoked.[79] After years of discrimination and harassment, local Jews were deported by the German authorities to concentration camps in 1940.
 
 Second World War
-
-Kolobrzeg-Pomnik_Sanitariuszki.jpg
 
 The city website mentions that during the Second World War the German state brought in forced labour workers, among them Poles. The city's economy was changed to military production-especially after the German invasion of the Soviet Union.[80] The forced labourers were threatened with everyday harassment and repression; they were forbidden from using phones, holding cultural events and sports events, they could not visit restaurants or swimming pools, or have contact with the local German population.[81] Poles were only allowed to attend a church mass once a month - and only in the German language.[82] They also had smaller food rations than Germans, and had to wear a sign with the letter P on their clothes indicating their ethnic background.[83] Additionally, medical help for Polish workers was limited by the authorities.[84] Arrests and imprisonment for various offences, such as "slow pace of work" or leaving the workspace, were everyday occurrences.[85]
 
@@ -82,14 +78,14 @@ File:Kolobrzeg c1890-1905 LOC 00729u.jpg|Kolberg between 1890 and 1905 File:Kolo
 
 Post-war Poland
 
-Kołobrzeg._Pomnik_Tysiąclecia_autorstwa_Wiktora_Szostało_(MW).jpg After World War II the region became part of Poland, under territorial changes demanded by the Soviet Union and the Polish Communist regime at the Potsdam Conference. Most Germans that had not yet fled were expelled from their homes. The town was re-settled by Polish citizens, many of whom were themselves Polish refugees from regions east of the Curzon line, the Kresy, from where they had been displaced by Soviet authorities.
+After World War II the region became part of Poland, under territorial changes demanded by the Soviet Union and the Polish Communist regime at the Potsdam Conference. Most Germans that had not yet fled were expelled from their homes. The town was re-settled by Polish citizens, many of whom were themselves Polish refugees from regions east of the Curzon line, the Kresy, from where they had been displaced by Soviet authorities.
 
 In 2000 the city business council of Kołobrzeg commissioned a monument called the Millennium Memorial as a commemoration of "1000 years of Christianity in Pomerania", and as a tribute to Polish-German Reconciliation, celebrating the meeting of King Boleslaw I of Poland and King Otto III of Germany, at the Congress of Gniezno, in the year 1000. It was designed and built by the artist Wiktor Szostalo in welded stainless steel. The two figures sit at the base of a 5-meter cross, cleft in two and being held together by a dove holding an olive branch. It is installed outside the Basilica Cathedral in the city center.
 
 
 Demographics
 
-Before the end of World War II the town was predominantly German Protestant with Polish and Jewish minorities. Almost all of the pre-war German population fled or was expelled so that since 1945, Polish Catholics make up the majority of the population. Around the turn from the 18th to the 19th century an increase of the number of Catholics was observed, because military personnel had been moved from West Prussia to the town. The mother tongue of a number of soldiers serving in the garrison of Kolberg was Polish. Kołobrzeg_Latarnia.JPG Beach_in_Kołobrzeg_2.jpg
+Before the end of World War II the town was predominantly German Protestant with Polish and Jewish minorities. Almost all of the pre-war German population fled or was expelled so that since 1945, Polish Catholics make up the majority of the population. Around the turn from the 18th to the 19th century an increase of the number of Catholics was observed, because military personnel had been moved from West Prussia to the town. The mother tongue of a number of soldiers serving in the garrison of Kolberg was Polish.
 
   Year   Inhabitants
   ------ ---------------
@@ -119,7 +115,7 @@ Before the end of World War II the town was predominantly German Protestant with
 
 Tourist destination
 
-Kołobrzeg today is a popular tourist destination for Poles, Germans and due to the ferry connection to Bornholm also Danish people. It provides a unique combination of a seaside resort, health resort, an old town full of historic monuments and tourist entertainment options (e.g. numerous "beer gardens"). Kołobrzeg,_wejście_do_portu_-_panoramio.jpg
+Kołobrzeg today is a popular tourist destination for Poles, Germans and due to the ferry connection to Bornholm also Danish people. It provides a unique combination of a seaside resort, health resort, an old town full of historic monuments and tourist entertainment options (e.g. numerous "beer gardens").
 
 Bike path to Podczele
 
@@ -137,12 +133,12 @@ In Kołobrzeg there are many permanent and temporary exhibitions of artistic and
 
 Museums
 
-ORP_Fala.jpg, a museum ship in Kołobrzeg]] In town, there is a museum of Polish weapons (Muzeum Oręża Polskiego), which are presented in the collections of militaria from the early Middle Ages to the present. The palace of Braunschweig include part of museum dedicated to the history of the city. In their collections branch presents a collection of rare and common measurement tools, as well as specific measures of the workshop. The local museum is also moored at the port of ORP Fala patrol ship, built in 1964, after leaving the service transformed into a museum.
+, a museum ship in Kołobrzeg]] In town, there is a museum of Polish weapons (Muzeum Oręża Polskiego), which are presented in the collections of militaria from the early Middle Ages to the present. The palace of Braunschweig include part of museum dedicated to the history of the city. In their collections branch presents a collection of rare and common measurement tools, as well as specific measures of the workshop. The local museum is also moored at the port of ORP Fala patrol ship, built in 1964, after leaving the service transformed into a museum.
 
 
 Train connections
 
-Kołobrzeg,_dworzec_kolejowy_DSCF2955.JPG Kołobrzeg has connections among others to Szczecin, "Solidarity" Szczecin–Goleniów Airport, Gdańsk, Poznań, Warsaw, Kraków and Lublin.
+Kołobrzeg has connections among others to Szczecin, "Solidarity" Szczecin–Goleniów Airport, Gdańsk, Poznań, Warsaw, Kraków and Lublin.
 
 
 Sport
@@ -153,7 +149,7 @@ Sport
 
 Notable residents
 
-Prymas_Marcin_Dunin.JPG, 19th-century primate of Poland, in Kołobrzeg]]
+, 19th-century primate of Poland, in Kołobrzeg]]
 
 -   Petrus Pachius (1579-1641/42) a German protestant minister, teacher and poet
 -   Karl Wilhelm Ramler (1725–1798), poet, translator, director at Berlin theater [90]

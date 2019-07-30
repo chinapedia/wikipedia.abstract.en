@@ -1,5 +1,3 @@
-Liquid_oxygen_in_a_magnet.jpg
-
 PARAMAGNETISM is a form of magnetism whereby some materials are weakly attracted by an externally applied magnetic field, and form internal, induced magnetic fields in the direction of the applied magnetic field. In contrast with this behavior, diamagnetic materials are repelled by magnetic fields and form induced magnetic fields in the direction opposite to that of the applied magnetic field.[1] Paramagnetic materials include most chemical elements and some compounds;[2] they have a relative magnetic permeability slightly greater than 1 (i.e., a small positive magnetic susceptibility) and hence are attracted to magnetic fields. The magnetic moment induced by the applied field is linear in the field strength and rather weak. It typically requires a sensitive analytical balance to detect the effect and modern measurements on paramagnetic materials are often conducted with a SQUID magnetometer.
 
 Paramagnetism is due to the presence of unpaired electrons in the material, so all atoms with incompletely filled atomic orbitals are paramagnetic. Due to their spin, unpaired electrons have a magnetic dipole moment and act like tiny magnets. An external magnetic field causes the electrons' spins to align parallel to the field, causing a net attraction. Paramagnetic materials include aluminium, oxygen, titanium, and iron oxide (FeO).
@@ -113,7 +111,7 @@ For some alkali metals and noble metals, conductions electrons are weakly intera
 
 $$\Delta E= -\mu_0\mathbf{H}\cdot\boldsymbol{\mu}_e=\mp \mu_0\mathbf{H}\cdot\left(-g_e\frac{\mu_\mathrm{B}}{\hbar}\mathbf{S}\right)=\pm \mu_0 \mu_\mathrm{B} H,$$
 
-where μ₀ is the vacuum permeability, Μ_(e) is the electron magnetic moment, μ_(B) is the Bohr magneton, ℏ is the reduced Planck constant, and the g-factor cancels with the spin S =  ± ℏ/2. The ± indicates that the sign is positive (negative) when the electron spin component in the direction of H is parallel (antiparallel) to the magnetic field. Pauli_2bis.jpg
+where μ₀ is the vacuum permeability, Μ_(e) is the electron magnetic moment, μ_(B) is the Bohr magneton, ℏ is the reduced Planck constant, and the g-factor cancels with the spin S =  ± ℏ/2. The ± indicates that the sign is positive (negative) when the electron spin component in the direction of H is parallel (antiparallel) to the magnetic field.
 
 For low temperatures with respect to the Fermi temperature T_(F) (around 10⁴ kelvins for metals), the number density of electrons n_(↑) (n_(↓)) pointing parallel (antiparallel) to the magnetic field can be written as:
 
@@ -168,8 +166,6 @@ Thus, condensed phase paramagnets are only possible if the interactions of the s
     -   Dissolving a paramagnetic species in a diamagnetic lattice at small concentrations, e.g. Nd³⁺ in CaCl₂ will separate the neodymium ions at large enough distances that they do not interact. Such systems are of prime importance for what can be considered the most sensitive method to study paramagnetic systems: EPR.
 
 Systems with interactions
-
-Para-ferro-anti.jpg
 
 As stated above, many materials that contain d- or f-elements do retain unquenched spins. Salts of such elements often show paramagnetic behavior but at low enough temperatures the magnetic moments may order. It is not uncommon to call such materials 'paramagnets', when referring to their paramagnetic behavior above their Curie or Néel-points, particularly if such temperatures are very low or have never been properly measured. Even for iron it is not uncommon to say that _iron becomes a paramagnet_ above its relatively high Curie-point. In that case the Curie-point is seen as a phase transition between a ferromagnet and a 'paramagnet'. The word paramagnet now merely refers to the linear response of the system to an applied field, the temperature dependence of which requires an amended version of Curie's law, known as the Curie–Weiss law:
 

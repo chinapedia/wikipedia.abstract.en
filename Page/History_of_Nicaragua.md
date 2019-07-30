@@ -1,11 +1,11 @@
-Un-nicaragua.png.]] Nicaragua is the third least densely populated nation in Central America, with a demographic similar in size to its smaller neighbors. It is located about midway between Mexico and Colombia, bordered by Honduras to the north and Costa Rica to the south. Nicaragua ranges from the Caribbean Sea on the nation's east coast, and the Pacific Ocean bordering the west. Nicaragua also possesses a series of islands and cays located in the Caribbean Sea.
+.]] Nicaragua is the third least densely populated nation in Central America, with a demographic similar in size to its smaller neighbors. It is located about midway between Mexico and Colombia, bordered by Honduras to the north and Costa Rica to the south. Nicaragua ranges from the Caribbean Sea on the nation's east coast, and the Pacific Ocean bordering the west. Nicaragua also possesses a series of islands and cays located in the Caribbean Sea.
 
 Nicaragua's name is derived from Nicarao, the name of the Nahuatl-speaking tribe which inhabited the shores of Lake Nicaragua before the Spanish conquest of the Americas, and the Spanish word _'AGUA_', meaning water, due to the presence of the large Lake Cocibolca (or Lake Nicaragua) and Lake Managua (or Lake Xolotlán), as well as lagoons and rivers in the region.
 
 
 Pre-Columbian Nicaragua
 
-Nicaragua_Ometepe_pétroglyphes_1.jpg on Ometepe Island]] The people migrated from Central Mexico after 500 CE.[1]
+on Ometepe Island]] The people migrated from Central Mexico after 500 CE.[1]
 
 Most of Nicaragua's Caribbean lowlands area was inhabited by tribes that migrated north from what is now Colombia. The various dialects and languages in this area are related to Chibcha, spoken by groups in northern Colombia. Eastern Nicaragua's population consisted of extended families or tribes. Food was obtained by hunting, fishing, and slash-and-burn agriculture. Crops like cassava and pineapples were the staple foods. The people of eastern Nicaragua appear to have traded with and been influenced by the native peoples of the Caribbean, as round thatched huts and canoes, both typical of the Caribbean, were common in eastern Nicaragua.
 
@@ -33,7 +33,7 @@ The land was parceled out to the conquistadores. The area of most interest was t
 
 From colony to state
 
-CentralAmerica1860MapSmall.jpg which then belonged to Nicaragua but was incorporated with present-day Costa Rica in 1825.]] CentralAmerica1892.jpg In 1538, the Viceroyalty of New Spain was established, encompassing all of Mexico and Central America, except Panama. By 1570, the southern part of New Spain was designated the Captaincy General of Guatemala. The area of Nicaragua was divided into administrative "parties" with León as the capital. In 1610, the volcano known as Momotombo erupted, destroying the capital. It was rebuilt northwest of its original site.
+which then belonged to Nicaragua but was incorporated with present-day Costa Rica in 1825.]] In 1538, the Viceroyalty of New Spain was established, encompassing all of Mexico and Central America, except Panama. By 1570, the southern part of New Spain was designated the Captaincy General of Guatemala. The area of Nicaragua was divided into administrative "parties" with León as the capital. In 1610, the volcano known as Momotombo erupted, destroying the capital. It was rebuilt northwest of its original site.
 
 The history of Nicaragua remained relatively static for three hundred years following the conquest. There were minor civil wars and rebellions, but they were quickly suppressed. The region was subject to frequent raids by Dutch, French and British pirates, with the city of Granada being invaded twice, in 1658 and 1660.
 
@@ -46,7 +46,7 @@ Taking advantage of divisions within the conservative ranks, José Santos Zelaya
 
 United States occupation (1909–1933)
 
-U.S._Marines_and_Colonel_William_P._Biddle.png, in charge of the detachment, is in civilian clothes at right.]] In 1909, the United States provided political support to conservative-led forces rebelling against President Zelaya. U.S. motives included differences over the proposed Nicaragua Canal, Nicaragua's potential as a destabilizing influence in the region, and Zelaya's attempts to regulate foreign access to Nicaraguan natural resources. On November 17, 1909, two Americans were executed by order of Zelaya after the two men confessed to having laid a mine in the San Juan River with the intention of blowing up the _Diamante_. The U.S. justified the intervention by claiming to protect U.S. lives and property. Zelaya resigned later that year.
+, in charge of the detachment, is in civilian clothes at right.]] In 1909, the United States provided political support to conservative-led forces rebelling against President Zelaya. U.S. motives included differences over the proposed Nicaragua Canal, Nicaragua's potential as a destabilizing influence in the region, and Zelaya's attempts to regulate foreign access to Nicaraguan natural resources. On November 17, 1909, two Americans were executed by order of Zelaya after the two men confessed to having laid a mine in the San Juan River with the intention of blowing up the _Diamante_. The U.S. justified the intervention by claiming to protect U.S. lives and property. Zelaya resigned later that year.
 
 In August 1912, the President of Nicaragua, Adolfo Díaz, requested the resignation of the Secretary of War, General Luis Mena, concerned that Díaz was leading an insurrection, fled Managua with his brother, the Chief of Police of Managua, and the insurrection escalated. When the U.S. Legation asked President Adolfo Díaz to ensure the safety of American citizens and property during the insurrection, Díaz replied that he could not and that...
 

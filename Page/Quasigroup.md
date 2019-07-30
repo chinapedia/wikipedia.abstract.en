@@ -38,7 +38,7 @@ Hence if is a quasigroup according to the first definition, then is the same qua
 
 Loops
 
-Magma_to_group2.svg A LOOP is a quasigroup with an identity element; that is, an element, _e_, such that
+A LOOP is a quasigroup with an identity element; that is, an element, _e_, such that
 
     _x_ ∗ _e_ = _x_ and _e_ ∗ _x_ = _x_ for all _x_ in _Q_.
 

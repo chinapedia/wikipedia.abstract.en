@@ -1,6 +1,6 @@
-SAPINDALES is an order of flowering plants. Well-known members of Sapindales include citrus; maples, horse-chestnuts, lychees and rambutans; mangos and cashews; frankincense and myrrh; mahogany and neem. Sapindales_phylogeny.jpg The APG III system of 2009 includes it in the clade malvids (in rosids, in eudicots) with the following nine families:[1][2][3]
+SAPINDALES is an order of flowering plants. Well-known members of Sapindales include citrus; maples, horse-chestnuts, lychees and rambutans; mangos and cashews; frankincense and myrrh; mahogany and neem. The APG III system of 2009 includes it in the clade malvids (in rosids, in eudicots) with the following nine families:[1][2][3]
 
-Trichostetha_bicolor_feeding_on_flowers_of_Agathosma_capensis_(Rutaceae)_at_Saldanha_Bay.jpg'' beetles feeding on flowers of _Agathosma capensis_ (Rutaceae)]]Chloroxylon_swietenia_W_IMG_1326.jpg'' from Rutaceae]]
+'' beetles feeding on flowers of _Agathosma capensis_ (Rutaceae)]]'' from Rutaceae]]
 
 -   Anacardiaceae
 -   Biebersteiniaceae

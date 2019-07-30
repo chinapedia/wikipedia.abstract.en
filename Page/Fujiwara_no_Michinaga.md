@@ -29,7 +29,7 @@ Death and Legacy
 
 On January 3rd 1028, Michinaga died at the age of sixty-two. He is said to have called out to Amida on his deathbed, asking for entry to Paradise. He left a diary, the Midō Kanpakuki; it is an important source of information about the Heian court at the height of Fujiwara power, though somewhat overshadowed by Murasaki's Tale of Genji and Sei's Pillow Book. In the Tale of Genji, the eponymous Genji is believed to be in part based on Michinaga, as well as Korechika.
 
-Michinaga_diary.jpg in the category ancient documents.]]
+in the category ancient documents.]]
 
 
 Personality

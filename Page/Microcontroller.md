@@ -1,4 +1,4 @@
-153056995_5ef8b01016_o.jpg from an Intel 8742, an 8-bit microcontroller that includes a CPU running at of RAM, of EPROM, and I/O in the same chip]] Microcontrollers_Atmega32_Atmega8.jpg
+from an Intel 8742, an 8-bit microcontroller that includes a CPU running at of RAM, of EPROM, and I/O in the same chip]]
 
 A MICROCONTROLLER (MCU for _microcontroller unit_, or UC for _μ-controller_) is a small computer on a single integrated circuit. In modern terminology, it is similar to, but less sophisticated than, a system on a chip (SoC); an SoC may include a microcontroller as one of its components. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals. Program memory in the form of ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips.
 
@@ -49,7 +49,7 @@ In 2018, 8-bit microcontrollers can be bought for $0.03,[23] 16-bit for $0.393 (
 
 In 2018, the low-priced microcontrollers above from 2015 are all more expensive (with inflation calculated between 2018 and 2015 prices for those specific units) at: the 8-bit microcontroller can be bought for $0.319 (1,000 units) or 2.6% higher,[27] the 16-bit one for $0.464 (1,000 units) or 21% higher,[28] and the 32-bit one for $0.503 (1,000 units, but at $0.466 for 5,000) or 33% higher.[29]
 
-PIC18F8720.jpg 18F8720 MICROCONTROLLER in an 80-pin TQFP package]]
+18F8720 MICROCONTROLLER in an 80-pin TQFP package]]
 
 
 Embedded design
@@ -91,7 +91,7 @@ A universal asynchronous receiver/transmitter (UART) block makes it possible to 
 
 Higher integration
 
-PIC12C508-HD.jpg of a PIC12C508 8-bit, fully static, EEPROM/EPROM/ROM-based CMOS microcontroller manufactured by Microchip Technology using a 1200 nanometre process]] STM32F100C4T6B-HD.jpg of a STM32F100C4T6B ARM Cortex-M3 microcontroller with 16 kilobytes flash memory, 24 MHz central processing unit (CPU), motor control and Consumer Electronics Control (CEC) functions. Manufactured by STMicroelectronics.]] Micro-controllers may not implement an external address or data bus as they integrate RAM and non-volatile memory on the same chip as the CPU. Using fewer pins, the chip can be placed in a much smaller, cheaper package.
+of a PIC12C508 8-bit, fully static, EEPROM/EPROM/ROM-based CMOS microcontroller manufactured by Microchip Technology using a 1200 nanometre process]] of a STM32F100C4T6B ARM Cortex-M3 microcontroller with 16 kilobytes flash memory, 24 MHz central processing unit (CPU), motor control and Consumer Electronics Control (CEC) functions. Manufactured by STMicroelectronics.]] Micro-controllers may not implement an external address or data bus as they integrate RAM and non-volatile memory on the same chip as the CPU. Using fewer pins, the chip can be placed in a much smaller, cheaper package.
 
 Integrating the memory and other peripherals on a single chip and testing them as a unit increases the cost of that chip, but often results in decreased net cost of the embedded system as a whole. Even if the cost of a CPU that has integrated peripherals is slightly more than the cost of a CPU and external peripherals, having fewer chips typically allows a smaller and cheaper circuit board, and reduces the labor required to assemble and test the circuit board, in addition to tending to decrease the defect rate for the finished assembly.
 

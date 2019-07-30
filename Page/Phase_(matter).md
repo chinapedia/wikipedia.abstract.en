@@ -2,12 +2,12 @@ In the physical sciences, a PHASE is a region of space (a thermodynamic system),
 
 The term _phase_ is sometimes used as a synonym for state of matter, but there can be several immiscible phases of the same state of matter. Also, the term _phase_ is sometimes used to refer to a set of equilibrium states demarcated in terms of state variables such as pressure and temperature by a phase boundary on a phase diagram. Because phase boundaries relate to changes in the organization of matter, such as a change from liquid to solid or a more subtle change from one crystal structure to another, this latter usage is similar to the use of "phase" as a synonym for state of matter. However, the state of matter and phase diagram usages are not commensurate with the formal definition given above and the intended meaning must be determined in part from the context in which the term is used.
 
-Argon_ice_1.jpg ice shows the transition from solid to liquid.]]
+ice shows the transition from solid to liquid.]]
 
 
 Types of phases
 
-Iron_carbon_phase_diagram.svg, showing the conditions necessary to form different phases]] Distinct phases may be described as different states of matter such as gas, liquid, solid, plasma or Bose–Einstein condensate. Useful mesophases between solid and liquid form other states of matter.
+, showing the conditions necessary to form different phases]] Distinct phases may be described as different states of matter such as gas, liquid, solid, plasma or Bose–Einstein condensate. Useful mesophases between solid and liquid form other states of matter.
 
 Distinct phases may also exist within a given state of matter. As shown in the diagram for iron alloys, several phases exist for both the solid and liquid states. Phases may also be differentiated based on solubility as in polar (hydrophilic) or non-polar (hydrophobic). A mixture of water (a polar liquid) and oil (a non-polar liquid) will spontaneously separate into two phases. Water has a very low solubility (is insoluble) in oil, and oil has a low solubility in water. Solubility is the maximum amount of a solute that can dissolve in a solvent before the solute ceases to dissolve and remains in a separate phase. A mixture can separate into more than two liquid phases and the concept of phase separation extends to solids, i.e., solids can form solid solutions or crystallize into distinct crystal phases. Metal pairs that are mutually soluble can form alloys, whereas metal pairs that are mutually insoluble cannot.
 
@@ -27,7 +27,7 @@ At room temperature and pressure, the water jar reaches equilibrium when the air
 
 Number of phases
 
-phase-diag2.svg and the critical point are shown as red dots.]] For a given composition, only certain phases are possible at a given temperature and pressure. The number and type of phases that will form is hard to predict and is usually determined by experiment. The results of such experiments can be plotted in phase diagrams.
+and the critical point are shown as red dots.]] For a given composition, only certain phases are possible at a given temperature and pressure. The number and type of phases that will form is hard to predict and is usually determined by experiment. The results of such experiments can be plotted in phase diagrams.
 
 The phase diagram shown here is for a single component system. In this simple system, which phases that are possible depends only on pressure and temperature. The markings show points where two or more phases can co-exist in equilibrium. At temperatures and pressures away from the markings, there will be only one phase at equilibrium.
 

@@ -20,7 +20,7 @@ At the time of the arrival of the Spanish in the 16th century, the known inhabit
 
 Pre-Columbian period
 
-Panama_Embera0605.jpg girl dressed for a dance]] The Isthmus of Panama was formed about three million years ago when the land bridge between North and South America finally became complete, and plants and animals gradually crossed it in both directions. The existence of the isthmus affected the dispersal of people, agriculture and technology throughout the American continent from the appearance of the first hunters and collectors to the era of villages and cities.[9][10]
+girl dressed for a dance]] The Isthmus of Panama was formed about three million years ago when the land bridge between North and South America finally became complete, and plants and animals gradually crossed it in both directions. The existence of the isthmus affected the dispersal of people, agriculture and technology throughout the American continent from the appearance of the first hunters and collectors to the era of villages and cities.[9][10]
 
 The earliest discovered artifacts of indigenous peoples in Panama include Paleo-Indian projectile points. Later central Panama was home to some of the first pottery-making in the Americas, for example the cultures at Monagrillo, which date back to 2500–1700 BC. These evolved into significant populations best known through their spectacular burials (dating to c. 500–900 AD) at the Monagrillo archaeological site, and their beautiful Gran Coclé style polychrome pottery. The monumental monolithic sculptures at the Barriles (Chiriqui) site are also important traces of these ancient isthmian cultures.
 
@@ -30,7 +30,7 @@ When Panama was colonized, the indigenous peoples fled into the forest and nearb
 
 Conquest to 1799
 
-Balboa_südsee.jpg, a recognized and popular figure of Panamanian history]] New_Caledonia_in_Darien.jpg colony in the Bay of Caledonia, west of the Gulf of Darien]] Rodrigo de Bastidas sailed westward from Venezuela in 1501 in search of gold, and became the first European to explore the isthmus of Panama. A year later, Christopher Columbus visited the isthmus, and established a short-lived settlement in the Darien. Vasco Núñez de Balboa's tortuous trek from the Atlantic to the Pacific in 1513 demonstrated that the isthmus was indeed the path between the seas, and Panama quickly became the crossroads and marketplace of Spain's empire in the New World. Gold and silver were brought by ship from South America, hauled across the isthmus, and loaded aboard ships for Spain. The route became known as the Camino Real, or Royal Road, although it was more commonly known as Camino de Cruces (Road of Crosses) because of the number of gravesites along the way.
+, a recognized and popular figure of Panamanian history]] colony in the Bay of Caledonia, west of the Gulf of Darien]] Rodrigo de Bastidas sailed westward from Venezuela in 1501 in search of gold, and became the first European to explore the isthmus of Panama. A year later, Christopher Columbus visited the isthmus, and established a short-lived settlement in the Darien. Vasco Núñez de Balboa's tortuous trek from the Atlantic to the Pacific in 1513 demonstrated that the isthmus was indeed the path between the seas, and Panama quickly became the crossroads and marketplace of Spain's empire in the New World. Gold and silver were brought by ship from South America, hauled across the isthmus, and loaded aboard ships for Spain. The route became known as the Camino Real, or Royal Road, although it was more commonly known as Camino de Cruces (Road of Crosses) because of the number of gravesites along the way.
 
 Panama was under Spanish rule for almost 300 years (1538–1821), and became part of the Viceroyalty of Peru, along with all other Spanish possessions in South America. From the outset, Panamanian identity was based on a sense of "geographic destiny", and Panamanian fortunes fluctuated with the geopolitical importance of the isthmus. The colonial experience spawned Panamanian nationalism and a racially complex and highly stratified society, the source of internal conflicts that ran counter to the unifying force of nationalism.[12]
 
@@ -52,7 +52,7 @@ In 1744, Bishop Francisco Javier de Luna Victoria DeCastro established the Colle
 
 1800s
 
-Arco_chato.jpg]] As the Spanish American wars of independence were heating up all across Latin America, Panama City was preparing for independence; however, their plans were accelerated by the unilateral Grito de La Villa de Los Santos (Cry From the Town of Saints), issued on November 10, 1821, by the residents of Azuero without backing from Panama City to declare their separation from the Spanish Empire. In both Veraguas and the capital this act was met with disdain, although on differing levels. To Veraguas, it was the ultimate act of treason, while to the capital, it was seen as inefficient and irregular, and furthermore forced them to accelerate their plans.
+]] As the Spanish American wars of independence were heating up all across Latin America, Panama City was preparing for independence; however, their plans were accelerated by the unilateral Grito de La Villa de Los Santos (Cry From the Town of Saints), issued on November 10, 1821, by the residents of Azuero without backing from Panama City to declare their separation from the Spanish Empire. In both Veraguas and the capital this act was met with disdain, although on differing levels. To Veraguas, it was the ultimate act of treason, while to the capital, it was seen as inefficient and irregular, and furthermore forced them to accelerate their plans.
 
 Nevertheless, the Grito was a sign, on the part of the residents of Azuero, of their antagonism toward the independence movement in the capital. Those in the capital region in turn regarded the Azueran movement with contempt, since the separatists in Panama City believed that their counterparts in Azuero were fighting not only for independence from Spain, but also for their right to self-rule apart from Panama City once the Spaniards were gone.
 
@@ -62,7 +62,7 @@ What they had counted on, however, was the influence of the separatists in the c
 
 Post-colonial Panama
 
-Panama_canal_cartooon_1903.jpg from Colombia, then sent US warships and marines to Panama.[15]]] Roosevelt_and_the_Canal.JPG sitting on a steam shovel at the Panama Canal, 1906]] In the first 80 years following independence from Spain, Panama was a department of Colombia, after voluntarily joining at the end of 1821.
+from Colombia, then sent US warships and marines to Panama.[15]]] sitting on a steam shovel at the Panama Canal, 1906]] In the first 80 years following independence from Spain, Panama was a department of Colombia, after voluntarily joining at the end of 1821.
 
 The people of the isthmus made several attempts to secede and came close to success in 1831, then again during the Thousand Days' War of 1899–1902, understood among indigenous Panamanians as a struggle for land rights under the leadership of Victoriano Lorenzo.[16]
 
@@ -70,7 +70,7 @@ The US intent to influence the area, especially the Panama Canal's construction 
 
 In November 1903 Panama proclaimed its independence[19] and concluded the Hay–Bunau-Varilla Treaty with the United States. The treaty granted rights to the United States "as if it were sovereign" in a zone roughly wide and long. In that zone, the US would build a canal, then administer, fortify, and defend it "in perpetuity".
 
-Panama_Canal_under_construction,_1907.jpg of the Panama Canal, 1907]]
+of the Panama Canal, 1907]]
 
 In 1914 the United States completed the existing canal.
 
@@ -96,7 +96,7 @@ Parallel to this, the military began a policy of repression against the oppositi
 
 Post-1970
 
-Omar_Torrijos_with_Panamanian_farmers.jpg (right) with farmers in the Panamanian countryside. The Torrijos government was well known for its policies of land redistribution.]]
+(right) with farmers in the Panamanian countryside. The Torrijos government was well known for its policies of land redistribution.]]
 
 Under Omar Torrijos's control, the military transformed the political and economic structure of the country, initiating massive coverage of social security services and expanding public education.
 
@@ -104,7 +104,7 @@ The constitution was changed in 1972. For the reform to the constitution the mil
 
 In 1981 Torrijos died in a plane crash.[26] Torrijos' death altered the tone of Panama's political evolution. Despite the 1983 constitutional amendments which proscribed a political role for the military, the Panama Defense Force (PDF), as they were then known, continued to dominate Panamanian political life. By this time, General Manuel Antonio Noriega was firmly in control of both the PDF and the civilian government.
 
-Jimmy_Carter_and_General_Omar_Torrijos_signing_the_Panama_Canal_Treaty.jpg shakes hands with General Omar Torrijos after signing the Panama Canal Treaties (September 7, 1977).]] In the 1984 elections, the candidates were
+shakes hands with General Omar Torrijos after signing the Panama Canal Treaties (September 7, 1977).]] In the 1984 elections, the candidates were
 
 -   Nicolás Ardito Barletta Vallarino, supported by the military in a union called UNADE
 -   Arnulfo Arias Madrid, for the opposition union ADO
@@ -127,7 +127,7 @@ On February 5, 1988, General Manuel Antonio Noriega was accused of drug traffick
 
 In April 1988, US President Ronald Reagan invoked the International Emergency Economic Powers Act, freezing Panamanian government assets in all US organizations. In May 1989 Panamanians voted overwhelmingly for the anti-Noriega candidates. The Noriega regime promptly annulled the election and embarked on a new round of repression.
 
-Panama_clashes_1989.JPEG, 1989]]
+, 1989]]
 
 US invasion (1989)
 
@@ -147,7 +147,7 @@ Perez Balladares ran as the candidate for a three-party coalition dominated by t
 
 On September 1, 1999, Mireya Moscoso, the widow of former President Arnulfo Arias Madrid, took office after defeating PRD candidate Martín Torrijos, son of Omar Torrijos, in a free and fair election.[45] During her administration, Moscoso attempted to strengthen social programs, especially for child and youth development, protection, and general welfare. Moscoso's administration successfully handled the Panama Canal transfer and was effective in the administration of the Canal.[46]
 
-Boris_Johnson_with_Juan_Carlos_Varela_in_London_-_2018_(27232646267).jpg swapped football shirts with the President of Panama, Juan Carlos Varela in London, May 14, 2018.]] The PRD's Martin Torrijos won the presidency and a legislative majority in the National Assembly in 2004. Torrijos ran his campaign on a platform of, among other pledges, a "zero tolerance" for corruption, a problem endemic to the Moscoso and Perez Balladares administrations. After taking office, Torrijos passed a number of laws which made the government more transparent. He formed a National Anti-Corruption Council whose members represented the highest levels of government and civil society, labor organizations, and religious leadership. In addition, many of his closest Cabinet ministers were non-political technocrats known for their support for the Torrijos government's anti-corruption aims. Despite the Torrijos administration's public stance on corruption, many high-profile cases, particularly involving political or business elites, were never acted upon.
+swapped football shirts with the President of Panama, Juan Carlos Varela in London, May 14, 2018.]] The PRD's Martin Torrijos won the presidency and a legislative majority in the National Assembly in 2004. Torrijos ran his campaign on a platform of, among other pledges, a "zero tolerance" for corruption, a problem endemic to the Moscoso and Perez Balladares administrations. After taking office, Torrijos passed a number of laws which made the government more transparent. He formed a National Anti-Corruption Council whose members represented the highest levels of government and civil society, labor organizations, and religious leadership. In addition, many of his closest Cabinet ministers were non-political technocrats known for their support for the Torrijos government's anti-corruption aims. Despite the Torrijos administration's public stance on corruption, many high-profile cases, particularly involving political or business elites, were never acted upon.
 
 Conservative supermarket magnate Ricardo Martinelli was elected to succeed Martin Torrijos with a landslide victory in the May 2009 presidential election. Martinelli's business credentials drew voters worried by slowing growth due to the 2008 financial crisis.[47] Standing for the four-party opposition Alliance for Change, Martinelli gained 60 percent of the vote, against 37 percent for the candidate of the governing left-wing Democratic Revolutionary Party.
 
@@ -156,7 +156,7 @@ On May 4, 2014, Juan Carlos Varela won the 2014 presidential election with over 
 
 Geography
 
-upright=1.5 La_palma,_Darién.jpg Panama is located in Central America, bordering both the Caribbean Sea and the Pacific Ocean, between Colombia and Costa Rica. It mostly lies between latitudes 7° and 10°N, and longitudes 77° and 83°W (a small area lies west of 83°).
+upright=1.5 Panama is located in Central America, bordering both the Caribbean Sea and the Pacific Ocean, between Colombia and Costa Rica. It mostly lies between latitudes 7° and 10°N, and longitudes 77° and 83°W (a small area lies west of 83°).
 
 Its location on the Isthmus of Panama is strategic. By 2000, Panama controlled the Panama Canal which connects the Atlantic Ocean and the Caribbean Sea to the North of the Pacific Ocean. Panama's total area is 74,177.3 km².[49]
 
@@ -168,7 +168,7 @@ The highest point in the country is the Volcán Barú, which rises to . A nearly
 
 Panama's wildlife is the most diverse in Central America. It is home to many South American species as well as to North American wildlife.
 
-chagres.jpg]]
+]]
 
 Waterways
 
@@ -180,7 +180,7 @@ Harbors
 
 The Caribbean coastline is marked by several natural harbors. However, Cristóbal, at the Caribbean terminus of the canal, had the only important port facilities in the late 1980s. The numerous islands of the Archipiélago de Bocas del Toro, near the Beaches of Costa Rica, provide an extensive natural roadstead and shield the banana port of Almirante. The more than 350 San Blas Islands near Colombia, are strung out over more than along the sheltered Caribbean coastline.
 
-Colon_Panama.jpg, 2000]] The terminal ports located at each end of the Panama Canal, namely the Port of Cristóbal, Colón and the Port of Balboa, are ranked second and third respectively in Latin America in terms of numbers of containers units (TEU) handled.[50] The Port of Balboa covers 182 hectares and contains four berths for containers and two multi-purpose berths. In total, the berths are over long with alongside depth of . The Port of Balboa has 18 super post-Panamax and Panamax quay cranes and 44 gantry cranes. The Port of Balboa also contains of warehouse space.[51]
+, 2000]] The terminal ports located at each end of the Panama Canal, namely the Port of Cristóbal, Colón and the Port of Balboa, are ranked second and third respectively in Latin America in terms of numbers of containers units (TEU) handled.[50] The Port of Balboa covers 182 hectares and contains four berths for containers and two multi-purpose berths. In total, the berths are over long with alongside depth of . The Port of Balboa has 18 super post-Panamax and Panamax quay cranes and 44 gantry cranes. The Port of Balboa also contains of warehouse space.[51]
 
 The Ports of Cristobal (encompassing the container terminals of Panama Ports Cristobal, Manzanillo International Terminal and Colon Container Terminal) handled 2,210,720 TEU in 2009, second only to the Port of Santos, Brazil, in Latin America.
 
@@ -188,7 +188,7 @@ Excellent deep water ports capable of accommodating large VLCC (Very Large Crude
 
 Climate
 
-Koppen-Geiger_Map_PAN_present.svg VistaBoquete.jpg Panama has a tropical climate. Temperatures are uniformly high—as is the relative humidity—and there is little seasonal variation. Diurnal ranges are low; on a typical dry-season day in the capital city, the early morning minimum may be and the afternoon maximum . The temperature seldom exceeds for more than a short time. Temperatures on the Pacific side of the isthmus are somewhat lower than on the Caribbean, and breezes tend to rise after dusk in most parts of the country. Temperatures are markedly cooler in the higher parts of the mountain ranges, and frosts occur in the Cordillera de Talamanca in western Panama.
+Panama has a tropical climate. Temperatures are uniformly high—as is the relative humidity—and there is little seasonal variation. Diurnal ranges are low; on a typical dry-season day in the capital city, the early morning minimum may be and the afternoon maximum . The temperature seldom exceeds for more than a short time. Temperatures on the Pacific side of the isthmus are somewhat lower than on the Caribbean, and breezes tend to rise after dusk in most parts of the country. Temperatures are markedly cooler in the higher parts of the mountain ranges, and frosts occur in the Cordillera de Talamanca in western Panama.
 
 Climatic regions are determined less on the basis of temperature than on rainfall, which varies regionally from less than to more than per year. Almost all of the rain falls during the rainy season, which is usually from April to December, but varies in length from seven to nine months. In general, rainfall is much heavier on the Caribbean than on the Pacific side of the continental divide. The annual average in Panama City is little more than half of that in Colón. Although rainy-season thunderstorms are common, the country is outside the hurricane belt.
 
@@ -197,7 +197,7 @@ Panama's tropical environment supports an abundance of plants. Forests dominate,
 
 Politics
 
-Asamblea_Nacional_de_Panamá.JPG]] Panama's politics take place in a framework of a presidential representative democratic republic, whereby the President of Panama is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly. The judiciary is independent of the executive and the legislature.
+]] Panama's politics take place in a framework of a presidential representative democratic republic, whereby the President of Panama is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly. The judiciary is independent of the executive and the legislature.
 
 National elections are universal and mandatory for all citizens 18 years and older. National elections for the executive and legislative branches take place every five years. Members of the judicial branch (justices) are appointed by the head of state. Panama's National Assembly is elected by proportional representation in fixed electoral districts, so many smaller parties are represented. Presidential elections requires a simple majority; out of the five last presidents only ex-president Ricardo Martinelli has managed to be elected with over 50 percent of the popular vote.[53]
 
@@ -207,7 +207,7 @@ Since the end of Manuel Noriega's military dictatorship in 1989, Panama has succ
 
 Foreign relations
 
-John_Kerry_con_Juan_Carlos_Varela_e_Isabel_Saint_Malo.jpg and Vice President Isabel Saint Malo with then-US Secretary of State John Kerry just before Varela's inauguration in 2014]]
+and Vice President Isabel Saint Malo with then-US Secretary of State John Kerry just before Varela's inauguration in 2014]]
 
 The United States cooperates with the Panamanian government in promoting economic, political, security, and social development through US and international agencies. Cultural ties between the two countries are strong, and many Panamanians go to the United States for higher education and advanced training.
 
@@ -230,7 +230,7 @@ PROVINCES REGIONS
 
 Economy
 
-Exclusa_Miraflores_Canal_de_Panama_Panorama.jpg ship in transit through the Miraflores locks, Panama Canal ]]
+ship in transit through the Miraflores locks, Panama Canal ]]
 
 According to the CIA World Factbook, Panama had an unemployment rate of 2.7 percent.[54] A food surplus was registered in August 2008. On the Human Development Index, Panama ranked 60th in 2015. In recent years, Panama's economy has experienced a boom, with growth in real gross domestic product (GDP) averaging over 10.4 percent in 2006–2008. Panama's economy has been among the fastest growing and best managed in Latin America. The Latin Business Chronicle predicted that Panama would be the fastest growing economy in Latin America during the five-year period from 2010–14, matching Brazil's 10 percent rate.[55]
 
@@ -248,13 +248,13 @@ Copper and gold deposits are being developed by foreign investors, to the dismay
 
 Panama as an IFC
 
-Countries_implicated_in_the_Panama_Papers.svg on April 15, 2016]] Since the early 20th century, Panama has with the revenues from the canal built the largest Regional Financial Center (IFC)[60] in Central America, with consolidated assets being more than three times that of Panama's GDP. The banking sector employs more than 24,000 people directly. Financial intermediation contributed 9.3 percent of GDP.[61] Stability has been a key strength of Panama's financial sector, which has benefited from the country's favorable economic and business climate. Banking institutions report sound growth and solid financial earnings. The banking supervisory regime is largely compliant with the Basel Core Principles for Effective Banking Supervision.[62] As a regional financial center, Panama exports some banking services, mainly to Latin America, and plays an important role in the country's economy. However, Panama still cannot compare to the position held by Hong Kong or Singapore as financial centers in Asia.
+on April 15, 2016]] Since the early 20th century, Panama has with the revenues from the canal built the largest Regional Financial Center (IFC)[60] in Central America, with consolidated assets being more than three times that of Panama's GDP. The banking sector employs more than 24,000 people directly. Financial intermediation contributed 9.3 percent of GDP.[61] Stability has been a key strength of Panama's financial sector, which has benefited from the country's favorable economic and business climate. Banking institutions report sound growth and solid financial earnings. The banking supervisory regime is largely compliant with the Basel Core Principles for Effective Banking Supervision.[62] As a regional financial center, Panama exports some banking services, mainly to Latin America, and plays an important role in the country's economy. However, Panama still cannot compare to the position held by Hong Kong or Singapore as financial centers in Asia.
 
 Panama still has a reputation worldwide for being a tax haven but has agreed to enhanced transparency, especially since the release in 2016 of the Panama Papers. Significant progress has been made to improve full compliance with anti-money laundering recommendations. Panama was removed from the FATFGAFI gray list in February 2016. However efforts remain to be made, and the IMF repeatedly mentions the need to strengthen financial transparency and fiscal structure.[63]
 
 Transportation
 
-CM_Hubdelasamericas.jpg, Central America's largest airport]]
+, Central America's largest airport]]
 
 Panama is home to Tocumen International Airport, Central America's largest airport. Additionally there are more than 20 smaller airfields in the country. (See list of airports in Panama).
 
@@ -264,13 +264,13 @@ Currently, Panama City has buses known as Metrobuses,[66] along with two Metro l
 
 Tourism
 
-Insel_Zapatilla_Panama.jpg Tourism in Panama is rapidly growing. It has maintained its growth over the past five years due to government tax and price discounts to foreign guests and retirees. These economic incentives have caused Panama to be regarded as a relatively good place to retire. Real estate developers in Panama have increased the number of tourism destinations in the past five years because of interest in these visitor incentives.[68]
+Tourism in Panama is rapidly growing. It has maintained its growth over the past five years due to government tax and price discounts to foreign guests and retirees. These economic incentives have caused Panama to be regarded as a relatively good place to retire. Real estate developers in Panama have increased the number of tourism destinations in the past five years because of interest in these visitor incentives.[68]
 
 The number of tourists from Europe grew by 23.1 percent during the first nine months of 2008. According to the Tourism Authority of Panama (ATP), from January to September, 71,154 tourists from Europe entered Panama, 13,373 more than in same period the previous year. Most of the European tourists were Spaniards (14,820), followed by Italians (13,216), French (10,174) and British (8,833). There were 6997 from Germany, the most populous country in the European Union. Europe has become one of the key markets to promote Panama as a tourist destination.
 
 In 2012, 4.345.5 million entered into the Panamanian economy as a result of tourism. This accounted for 9.5 percent of the gross domestic product of the country, surpassing other productive sectors. The number of tourists who arrived that year was 2.2 million.[69]
 
-Fortifications_on_the_Caribbean_Side_of_Panama_Portobelo-San_Lorenzo-108169.jpg were declared World Heritage Site by UNESCO in 1980.]]
+were declared World Heritage Site by UNESCO in 1980.]]
 
 Panama enacted Law No. 80 in 2012 to promote foreign investment in tourism. Law 80 replaced an older Law 8 of 1994. Law 80 provides 100 percent exemption from income tax and real estate taxes for 15 years, duty-free imports for construction materials and equipment for five years, and a capital gains tax exemption for five years.[70]
 
@@ -291,13 +291,13 @@ Society
 
 Demographics
 
-Bevölkerungspyramide_Panama_2016.png Panama-demography.png Panama had an estimated population of in . The proportion of the population aged less than 15 in 2010 was 29 percent. 64.5 percent of the population was between 15 and 65, with 6.6 percent of the population 65 years or older.[74]
+Panama had an estimated population of in . The proportion of the population aged less than 15 in 2010 was 29 percent. 64.5 percent of the population was between 15 and 65, with 6.6 percent of the population 65 years or older.[74]
 
 More than half the population lives in the Panama City–Colón metropolitan corridor, which spans several cities. Panama's urban population exceeds 75 percent, making Panama's population the most urbanized in Central America.[75]
 
 Ethnic groups
 
-Ciudad_Colón,_Panamá.jpg, Panama's capital]]
+, Panama's capital]]
 
 In 2010 the population was 65 percent Mestizo (mixed white, Native American), 12.3 percent Native American, 9.2 percent Black or African descent, 6.8 percent mulatto, and 6.7 percent White.[76][77]
 
@@ -315,7 +315,7 @@ These are the 10 largest Panamanian cities and towns. Most of Panama's largest c
 
 Religion
 
-Plazadelaindependenciapanama.JPG ]]Christianity is the main religion in Panama. An official survey carried out by the government estimated in 2015 that 63.2% of the population, or 2,549,150 people, identifies itself as Roman Catholic, and 25.0 percent as evangelical Protestant, or 1,009,740.[81] The Jehovah's Witnesses were the third largest congregation comprising the 1.4% of the population, followed by the Adventist Church and The Church of Jesus Christ of Latter-day Saints with the 0.6%. There is a very large Buddhist (0.4% or 18,560) and Jewish community (0.1% or 5,240) in the country.
+]]Christianity is the main religion in Panama. An official survey carried out by the government estimated in 2015 that 63.2% of the population, or 2,549,150 people, identifies itself as Roman Catholic, and 25.0 percent as evangelical Protestant, or 1,009,740.[81] The Jehovah's Witnesses were the third largest congregation comprising the 1.4% of the population, followed by the Adventist Church and The Church of Jesus Christ of Latter-day Saints with the 0.6%. There is a very large Buddhist (0.4% or 18,560) and Jewish community (0.1% or 5,240) in the country.
 
 The Bahá'í Faith community of Panama is estimated at 2.00 percent of the national population, or about 60,000[82] including about 10 percent of the Guaymí population.[83]
 
@@ -332,7 +332,7 @@ In 2010, it was estimated that 94.1 percent of the population was literate (94.7
 
 Culture
 
-Empollerada_de_Panamá.jpg ]] Tuna_panama.jpg The culture of Panama derives from European music, art and traditions brought by the Spanish to Panama. Hegemonic forces have created hybrid forms blending African and Native American culture with European culture. For example, the _tamborito_ is a Spanish dance with African rhythms, themes and dance moves.[91]
+]] The culture of Panama derives from European music, art and traditions brought by the Spanish to Panama. Hegemonic forces have created hybrid forms blending African and Native American culture with European culture. For example, the _tamborito_ is a Spanish dance with African rhythms, themes and dance moves.[91]
 
 Dance is typical of the diverse cultures in Panama. The local folklore can be experienced at a multitude of festivals, through dances and traditions handed down from generation to generation. Local cities host live _reggae en español_, _reggaeton_, _haitiano (compas)_, jazz, blues, _salsa_, reggae, and rock music performances.
 
@@ -372,7 +372,7 @@ The first literature relating to Panama can be dated to 1535, with a modern lite
 
 Sports
 
-Carlos_Ruiz.jpg during 2007 Spring Training]] The US influence in Panama can be seen in the country's sports. Baseball is Panama's national sport and the country has regional teams and a national team that represents it in international events. At least 140 Panamanian players have played professional baseball in the United States, more than any other Central American country.[95] Notable players include Bruce Chen, Rod Carew, Mariano Rivera, Carlos Lee, Manny Sanguillén, and Carlos Ruiz.
+during 2007 Spring Training]] The US influence in Panama can be seen in the country's sports. Baseball is Panama's national sport and the country has regional teams and a national team that represents it in international events. At least 140 Panamanian players have played professional baseball in the United States, more than any other Central American country.[95] Notable players include Bruce Chen, Rod Carew, Mariano Rivera, Carlos Lee, Manny Sanguillén, and Carlos Ruiz.
 
 In boxing, four Panamanians are in the International Boxing Hall of Fame: Roberto Durán, Eusebio Pedroza, Ismael Laguna and Panama Al Brown. In August 2016 Panama had two reigning world boxing champions: Guillermo Jones and Anselmo Moreno.
 

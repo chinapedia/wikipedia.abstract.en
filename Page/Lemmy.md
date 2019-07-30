@@ -18,8 +18,6 @@ At school, Lemmy noticed a pupil who had brought a guitar to school and had been
 
 Career
 
-Lemmy_K.jpg
-
 1960–1970: Early years
 
 In Stockport, Lemmy joined local bands the Rainmakers and then the Motown Sect who played northern clubs for three years. In 1965, he joined The Rockin' Vickers[15] who signed a deal with CBS, released three singles and toured Europe, reportedly being the first British band to visit the Socialist Federal Republic of Yugoslavia. The Rockin' Vickers moved to Manchester, where they shared a flat together. There, Lemmy got involved with a woman named Tracy who bore a son, Paul Inder. Lemmy did not have any involvement in his life until the boy was six.[16]
@@ -27,8 +25,6 @@ In Stockport, Lemmy joined local bands the Rainmakers and then the Motown Sect w
 Leaving the Rockin' Vickers, Lemmy moved to London in 1967. He shared a flat with Noel Redding, bassist of the Jimi Hendrix Experience, and with Neville Chesters, their road manager. He got a job as a roadie for the band.[17] In 1968, he joined the psychedelic rock band Sam Gopal under the name Ian Willis and recorded the album _Escalator_ which was released in 1969.[18] After meeting Simon King at a shopping centre in Chelsea in 1969, he joined the band Opal Butterfly; but the group soon disbanded, having failed to raise enough interest with their singles.[19]
 
 1971–1975: Hawkwind
-
-Lemmy_Kilmister_Motorhead_in_NYC_by_John_Gullo.jpg
 
     _See also Hawkwind (1970–75: United Artists era)_
 
@@ -47,7 +43,7 @@ Soon after, both Wallis and Fox were replaced with guitarist "Fast" Eddie Clarke
 
 Personal life
 
-Lemmy-04.jpg Motörhead_-_Rock_am_Ring_2015-0343.jpg At the age of 17, Lemmy met a holidaying girl named Cathy. He followed her to Stockport, Greater Manchester, where she gave birth to his son Sean, who was put up for adoption.[25] In the 2010 documentary film _Lemmy_, he mentioned having a son whose mother has only recently "found him" and "hadn't got the heart to tell him who his father was", indicating that the boy – perhaps Sean – was given up for adoption.
+At the age of 17, Lemmy met a holidaying girl named Cathy. He followed her to Stockport, Greater Manchester, where she gave birth to his son Sean, who was put up for adoption.[25] In the 2010 documentary film _Lemmy_, he mentioned having a son whose mother has only recently "found him" and "hadn't got the heart to tell him who his father was", indicating that the boy – perhaps Sean – was given up for adoption.
 
 In the 2005 Channel 4 documentary _Motörhead: Live Fast, Die Old_, it was claimed that Lemmy had slept with over 2,000 women. He later quipped, "I said more than a thousand, the magazine made two thousand of it." _Maxim_ had Lemmy at #8 on its top ten "Living Sex Legends" list, as they claimed that he had slept with around 1,200 women.[26] Lemmy is one of the characters in the book _Sex Tips from Rock Stars_ by Paul Miles.[27]
 
@@ -66,7 +62,7 @@ Lemmy lived in Los Angeles from 1990 until his death in 2015, his last residence
 
 In December 2000, his tour was cancelled when he was hospitalised in Italy with flu, exhaustion and a lung infection.[40] He was hospitalised with extreme dehydration and exhaustion in Germany in July 2005.[41] As he grew older, he used less alcohol and drugs as he suffered from diabetes and hypertension. In June 2013, it was reported that he had an implantable cardioverter-defibrillator fitted.[42] His tour was cancelled in July 2013 due to a severe haematoma.[43] He referred to his continuing drug use as "dogged insolence in the face of mounting opposition to the contrary".[44] Towards the end of his life he had to use a walking stick.[45] He had started smoking at the age of 11.[46] In August 2015, he said he had cut down his smoking habit from two packs a day to one pack a week.[47] He was hospitalised with a lung infection in September 2015, after having breathing problems when performing onstage.[48]
 
-Lemmy's_Grave.jpg]]
+]]
 
 On 28 December 2015, four days after his 70th birthday, Lemmy died at his apartment in Los Angeles from prostate cancer, cardiac arrhythmia and congestive heart failure.[49][50][51] Motörhead announced his death on their official Facebook page later that day. According to the band, his cancer had only been diagnosed two days prior to his death.[52]
 
@@ -117,7 +113,7 @@ He was the main character in the 16-bit video game _Motörhead_, released for th
 
 Equipment
 
-Lemmy-03.jpg Lemmy positioned his microphone in an uncommonly high position, angled so that he appeared to be looking up at the sky rather than at the audience. He said that it was for "personal comfort, that's all. It's also one way of avoiding seeing the audience. In the days when we only had ten people and a dog, it was a way of avoiding seeing that we only _had_ ten people and a dog."[88]
+Lemmy positioned his microphone in an uncommonly high position, angled so that he appeared to be looking up at the sky rather than at the audience. He said that it was for "personal comfort, that's all. It's also one way of avoiding seeing the audience. In the days when we only had ten people and a dog, it was a way of avoiding seeing that we only _had_ ten people and a dog."[88]
 
 Lemmy's first electric guitar was a used Hofner Club 50. After Upon joining the Motown Sect in 1962 he used EKO 40V guitar, Harmony Meteor, Gibson 330, Fender Jazzmaster with a Telecaster neck. He traded each guitar sequentially right up until Hawkwind (1972).
 

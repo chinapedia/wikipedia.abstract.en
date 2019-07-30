@@ -13,13 +13,13 @@ The history of the nail is divided roughly into three distinct periods:
 
 Hand wrought
 
-Boat_nail_production.ogv, China]] The first nails were made of wrought-iron. Nails date back at least to Ancient Egypt — bronze nails found in Egypt have been dated 3400 BC.[2][3] The Bible provides a number of references to nails, including the story in Judges of Jael the wife of Heber, who drives a nail (or tent-peg) into the temple of a sleeping Canaanite commander;[4] the provision of iron for nails by King David for what would become Solomon's Temple;[5] and in connection with the crucifixion of Christ.
+, China]] The first nails were made of wrought-iron. Nails date back at least to Ancient Egypt — bronze nails found in Egypt have been dated 3400 BC.[2][3] The Bible provides a number of references to nails, including the story in Judges of Jael the wife of Heber, who drives a nail (or tent-peg) into the temple of a sleeping Canaanite commander;[4] the provision of iron for nails by King David for what would become Solomon's Temple;[5] and in connection with the crucifixion of Christ.
 
 The Romans made extensive use of nails. The Roman army, for example, left behind seven tons of nails when it evacuated the fortress of Inchtuthil in Perthshire in the United Kingdom in 86 to 87 CE.
 
 The term "penny", as it refers to nails, probably originated in medieval England to describe the price of a hundred nails. Nails themselves were sufficiently valuable and standardized to be used as an informal medium of exchange.
 
-Until around 1800 artisans known as _nailers_ or _nailors_ made nails by hand – note the surname Naylor.[6] (Workmen called _slitters_ cut up iron bars to a suitable size for nailers to work on. From the late 16th century, manual slitters disappeared with the rise of the slitting mill, which cut bars of iron into rods with an even cross-section, saving much manual effort.) Forging_a_nail._Valašské_muzeum_v_přírodě.webm At the time of the American Revolution, England was the largest manufacturer of nails in the world. Nails were expensive and difficult to obtain in the American colonies, so that abandoned houses were sometimes deliberately burned down to allow recovery of used nails from the ashes. This became such a problem in Virginia that a law was created to stop people from burning their houses when they moved.[7] Families often had small nail-manufacturing setups in their homes; during bad weather and at night, the entire family might work at making nails for their own use and for barter. Thomas Jefferson wrote in a letter: "In our private pursuits it is a great advantage that every honest employment is deemed honorable. I am myself a nail maker."[8] The growth of the trade in the American colonies was theoretically held back by the prohibition of new slitting mills in America by the Iron Act of 1750, though there is no evidence that the Act was actually enforced.
+Until around 1800 artisans known as _nailers_ or _nailors_ made nails by hand – note the surname Naylor.[6] (Workmen called _slitters_ cut up iron bars to a suitable size for nailers to work on. From the late 16th century, manual slitters disappeared with the rise of the slitting mill, which cut bars of iron into rods with an even cross-section, saving much manual effort.) At the time of the American Revolution, England was the largest manufacturer of nails in the world. Nails were expensive and difficult to obtain in the American colonies, so that abandoned houses were sometimes deliberately burned down to allow recovery of used nails from the ashes. This became such a problem in Virginia that a law was created to stop people from burning their houses when they moved.[7] Families often had small nail-manufacturing setups in their homes; during bad weather and at night, the entire family might work at making nails for their own use and for barter. Thomas Jefferson wrote in a letter: "In our private pursuits it is a great advantage that every honest employment is deemed honorable. I am myself a nail maker."[8] The growth of the trade in the American colonies was theoretically held back by the prohibition of new slitting mills in America by the Iron Act of 1750, though there is no evidence that the Act was actually enforced.
 
 The production of wrought-iron nails continued well into the 19th century, but ultimately was reduced to nails for purposes for which the softer cut nails were unsuitable, including horseshoe nails.
 
@@ -43,7 +43,7 @@ Formerly made of bronze or wrought iron, today's nails are typically made of ste
 
 Usage
 
-Spijkers_(Nails).jpg Horseshoe_nails_for_lead_came_glasswork_01.jpg Nail-makers_anvil.jpg]] HejazSpike.jpg (part of the Hejaz Railway), found near Kfar Baruch (Israel)]] A_roofing_nail.jpg Types of nail include:
+]] (part of the Hejaz Railway), found near Kfar Baruch (Israel)]] Types of nail include:
 
 -   Aluminum nails – Made of aluminum in many shapes and sizes for use with aluminum architectural metals
 -   Box nail – like a _common nail_ but with a thinner shank and head
@@ -211,7 +211,7 @@ Terminology
 
 In art and religion
 
-Magical_Roman_Nails.jpg Nagelfigur_Mannheim_1915.jpg'', an example of Nail Men (1915).]]
+'', an example of Nail Men (1915).]]
 
 Nails have been used in art, such as the Nail Men—a form of fundraising common in Germany and Austria during World War I.
 

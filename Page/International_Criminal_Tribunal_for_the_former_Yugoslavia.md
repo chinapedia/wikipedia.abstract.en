@@ -11,7 +11,7 @@ History
 
 Creation
 
-UN_Secretary-General_Report_S25704.pdf]] United Nations Security Council Resolution 808 of 22 February 1993 decided that "an international tribunal shall be established for the prosecution of persons responsible for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1991", and calling on the Secretary-General to "submit for consideration by the Council ... a report on all aspects of this matter, including specific proposals and where appropriate options ... taking into account suggestions put forward in this regard by Member States".[6]
+]] United Nations Security Council Resolution 808 of 22 February 1993 decided that "an international tribunal shall be established for the prosecution of persons responsible for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1991", and calling on the Secretary-General to "submit for consideration by the Council ... a report on all aspects of this matter, including specific proposals and where appropriate options ... taking into account suggestions put forward in this regard by Member States".[6]
 
 The Court was originally proposed by German Foreign Minister Klaus Kinkel.[7] By 25 May 1993, the international community had tried to pressure the leaders of the former Yugoslavian republics diplomatically, militarily, politically, economically, and – with Resolution 827 – through juridical means. Resolution 827 of 25 May 1993 approved S/25704 report of the Secretary-General and adopted the Statute of the International Tribunal annexed to it, formally creating the ICTY. It would have jurisdiction over four clusters of crime committed on the territory of the former SFR Yugoslavia since 1991: grave breaches of the Geneva Conventions, violations of the laws or customs of war, genocide, and crime against humanity. The maximum sentence it could impose was life imprisonment.
 
@@ -25,7 +25,7 @@ In 1993, the ICTY built its internal infrastructure. 17 states have signed an ag
 
 Operation
 
-ICTY.JPG In 1994 the first indictment was issued against the Bosnian-Serb concentration camp commander Dragan Nikolić. This was followed on 13 February 1995 by two indictments comprising 21 individuals which were issued against a group of 21 Bosnian-Serbs charged with committing atrocities against Muslim and Croat civilian prisoners. While the war in the former Yugoslavia was still raging, the ICTY prosecutors showed that an international court was viable. However, no accused was arrested.[11]
+In 1994 the first indictment was issued against the Bosnian-Serb concentration camp commander Dragan Nikolić. This was followed on 13 February 1995 by two indictments comprising 21 individuals which were issued against a group of 21 Bosnian-Serbs charged with committing atrocities against Muslim and Croat civilian prisoners. While the war in the former Yugoslavia was still raging, the ICTY prosecutors showed that an international court was viable. However, no accused was arrested.[11]
 
 The court confirmed eight indictments against 46 individuals and issued arrest warrants. Bosnian Serb indictee Duško Tadić became the subject of the Tribunal's first trial. Tadić was arrested by German police in Munich in 1994 for his alleged actions in the Prijedor region in Bosnia-Herzegovina (especially his actions in the Omarska, Trnopolje and Keraterm detention camps). He made his first appearance before the ICTY Trial Chamber on 26 April 1995, and pleaded not guilty to all of the charges in the indictment.[12]
 
@@ -56,7 +56,7 @@ The final ICTY trial to be completed in the first instance was that of Ratko Mla
 
 Organization
 
-While operating, the Tribunal employed around 900 staff.[19] Its organisational components were Chambers, Registry and the Office of the Prosecutor (OTP). ICTY_2006-01-16.jpg
+While operating, the Tribunal employed around 900 staff.[19] Its organisational components were Chambers, Registry and the Office of the Prosecutor (OTP).
 
 Prosecutors
 
@@ -264,7 +264,7 @@ The Registry was responsible for handling the administration of the Tribunal; ac
 
 Detention facilities
 
-ICTY_Detention_Unit_cell.jpg Those defendants on trial and those who were denied a provisional release were detained at the United Nations Detention Unit on the premises of the Penitentiary Institution Haaglanden, location Scheveningen in Belgisch Park, a suburb of The Hague, located some 3 km by road from the courthouse. The indicted were housed in private cells which had a toilet, shower, radio, satellite TV, personal computer (without internet access) and other luxuries. They were allowed to phone family and friends daily and could have conjugal visits. There was also a library, a gym and various rooms used for religious observances. The inmates were allowed to cook for themselves. All of the inmates mixed freely and were not segregated on the basis of nationality. As the cells were more akin to a university residence instead of a jail, some had derisively referred to the ICT as the "Hague Hilton".[47] The reason for this luxury relative to other prisons is that the first president of the court wanted to emphasise that the indictees were innocent until proven guilty.[48]
+Those defendants on trial and those who were denied a provisional release were detained at the United Nations Detention Unit on the premises of the Penitentiary Institution Haaglanden, location Scheveningen in Belgisch Park, a suburb of The Hague, located some 3 km by road from the courthouse. The indicted were housed in private cells which had a toilet, shower, radio, satellite TV, personal computer (without internet access) and other luxuries. They were allowed to phone family and friends daily and could have conjugal visits. There was also a library, a gym and various rooms used for religious observances. The inmates were allowed to cook for themselves. All of the inmates mixed freely and were not segregated on the basis of nationality. As the cells were more akin to a university residence instead of a jail, some had derisively referred to the ICT as the "Hague Hilton".[47] The reason for this luxury relative to other prisons is that the first president of the court wanted to emphasise that the indictees were innocent until proven guilty.[48]
 
 
 Indictees

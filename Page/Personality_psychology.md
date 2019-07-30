@@ -112,7 +112,7 @@ Maslow and Rogers emphasized a view of the person as an active, creative, experi
 
 Biopsychological theories
 
-Simulated_Connectivity_Damage_of_Phineas_Gage_4_vanHorn_PathwaysDamaged_left.jpg Simulated_Connectivity_Damage_of_Phineas_Gage_4_vanHorn_PathwaysDamaged_right.jpg's accident, per Van Horn etal.]]
+'s accident, per Van Horn etal.]]
 
 Biology plays a very important role in the development of personality. The study of the biological level in personality psychology focuses primarily on identifying the role of genetic determinants and how they mold individual personalities.[48] Some of the earliest thinking about possible biological bases of personality grew out of the case of Phineas Gage. In an 1848 accident, a large iron rod was driven through Gage's head, and his personality apparently changed as a result, although descriptions[49] of these psychological changes are usually exaggerated.[50][51]
 

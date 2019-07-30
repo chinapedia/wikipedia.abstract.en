@@ -13,11 +13,11 @@ It is widely accepted among secular historians that, like Jesus, Mary Magdalene 
 
 During Jesus's ministry
 
-Magdala_um_1900.jpg, Mary Magdalene's hometown]]
+, Mary Magdalene's hometown]]
 
 Mary Magdalene's epithet _Magdalene_ (ἡ Μαγδαληνή; literally "the Magdalene") most likely means that she came from Magdala,[7] a village on the western shore of the Sea of Galilee that was primarily known in antiquity as a fishing town. _Mary_ was, by far, the most common Jewish given name for females during the first century, so it was necessary for the authors of the gospels to call her _Magdalene_ in order to distinguish her from the other women named Mary who followed Jesus. Although the Gospel of Mark, the earliest surviving gospel, does not mention Mary Magdalene until Jesus's crucifixion, the Gospel of Luke provides a brief summary of her role during his ministry:
 
-Paolo_Veronese,_The_Conversion_of_Mary_Magdalene.jpg'' ( 1548) by Paolo Veronese. According to Gospel of Luke , Jesus exorcized "seven demons" from Mary Magdalene.]]
+'' ( 1548) by Paolo Veronese. According to Gospel of Luke , Jesus exorcized "seven demons" from Mary Magdalene.]]
 
 The statement that Mary had been possessed by seven demons is repeated in , part of the "longer ending" of that gospel – this is not found in the earliest manuscripts, and is actually a second-century addition to the original text, possibly based on the Gospel of Luke.[8] In the first century, demons were widely believed to be the cause of physical and psychological illness. Bruce Chilton, a scholar of early Christianity, states that the reference to the number of demons being "seven" may mean that Mary had to undergo _seven exorcisms_, probably over a long period of time, due to the first six being partially or wholly unsuccessful. Bart D. Ehrman, a New Testament scholar and historian of early Christianity, contends that the number seven may be merely symbolic, since, in Jewish tradition, seven was the number of completion, so the statement that Mary was possessed by seven demons may simply mean she was completely overwhelmed by their power. In either case, Mary must have suffered from severe emotional or psychological trauma in order for an exorcism of this kind to have been perceived as necessary. Consequently, her devotion to Jesus on account of this healing must have been very strong. The gospel-writers normally relish giving dramatic descriptions of Jesus's public exorcisms, with the possessed person wailing, thrashing, and tearing his or her clothes in front of a crowd. The fact that Mary's exorcism is given so little attention may indicate that it was either done in private or that it was not seen as particularly dramatic.
 
@@ -25,13 +25,13 @@ Because Mary is listed as one of the women who were supporting Jesus's ministry 
 
 Witness to Jesus's crucifixion and burial
 
-Weyden,_Rogier_van_der_-_Descent_from_the_Cross_-_Detail_Mary_Magdalene.jpg'' ( 1435) by the Flemish artist Rogier van der Weyden]]
+'' ( 1435) by the Flemish artist Rogier van der Weyden]]
 
 All four canonical gospels agree that Mary Magdalene, along with several other women, watched Jesus's crucifixion from a distance. lists the names of the women present as Mary Magdalene; Mary, mother of James; and Salome. lists Mary Magdalene, Mary mother of James and Joseph, and the unnamed mother of the sons of Zebedee (who may be the same person Mark calls Salome). mentions a group of women watching the crucifixion, but does not give any of their names. lists Mary, mother of Jesus; her sister Mary, wife of Cleopas; and Mary Magdalene as witnesses to the crucifixion.
 
 Virtually all reputable historians agree that Jesus was crucified by the Romans under the orders of Pontius Pilate.[11] Nonetheless, the gospels' accounts of Jesus's crucifixion differ considerably and most secular historians agree that some of the details in the accounts have been altered to fit their authors' theological agendas. Ehrman states that the presence of Mary Magdalene and the other women at the cross is probably historical because Christians would have been unlikely to make up that the main witnesses to the crucifixion were women and also because their presence is independently attested in both the Synoptic Gospels and in the Gospel of John. Maurice Casey concurs that the presence of Mary Magdalene and the other women at the crucifixion of Jesus may be recorded as a historical fact. According to E. P. Sanders, the reason why the women watched the crucifixion even after the male disciples had fled may have been because they were less likely to be arrested, because they were braver than the men, or because of some combination thereof.
 
-Raffaello,_pala_baglioni,_deposizione.jpg'' (1507) by Raphael, showing a distressed, reddish-blond-haired Mary Magdalene dressed in fine clothes clutching the hand of Jesus's body as he is carried to the tomb]]
+'' (1507) by Raphael, showing a distressed, reddish-blond-haired Mary Magdalene dressed in fine clothes clutching the hand of Jesus's body as he is carried to the tomb]]
 
 All four canonical gospels, as well as the apocryphal Gospel of Peter, agree that Jesus's body was taken down from the cross and buried by a man named Joseph of Arimathea. lists Mary Magdalene and Mary, mother of Joses as witnesses to the burial of Jesus. lists Mary Magdalene and "the other Mary" as witnesses. mentions "the women who had followed him from Galilee", but does not list any of their names. does not mention any women present during Joseph's burial of Jesus, but does mention the presence of Nicodemus, a Pharisee with whom Jesus had a conversation near the beginning of the gospel. Ehrman, who previously accepted the story of Jesus's burial as historical, now rejects it as a later invention on the basis that Roman governors almost never allowed for executed criminals to be given any kind of burial and Pontius Pilate in particular was not "the sort of ruler who would break with tradition and policy when kindly asked by a member of the Jewish council to provide a decent burial for a crucified victim."
 
@@ -39,7 +39,7 @@ John Dominic Crossan has controversially argued that Jesus's body was probably e
 
 Resurrection of Jesus
 
-Annibale_Carracci_-_Holy_Women_at_Christ'_s_Tomb_-_WGA4454.jpg. In , Mary Magdalene and "the other Mary" encounter an angel at the tomb, who tells them that Christ has risen.]]
+. In , Mary Magdalene and "the other Mary" encounter an angel at the tomb, who tells them that Christ has risen.]]
 
 The earliest description of Jesus's post-resurrection appearances is a quotation of a pre-Pauline creed preserved by Paul the Apostle in , which was written roughly twenty years before any of the gospels. This passage makes no mention of Mary Magdalene, the other women, or the story of the empty tomb at all, but rather credits Simon Peter with having been the first to see the risen Jesus. Despite this, all four canonical gospels, as well as the apocryphal Gospel of Peter, agree that Mary Magdalene, either alone or as a member of a group, was the first person to discover that Jesus's tomb was empty. Nonetheless, the details of the accounts differ drastically.
 
@@ -47,7 +47,7 @@ According to , the earliest account of the discovery of the empty tomb, Mary Mag
 
 According to , Mary Magdalene and "the other Mary" went to the tomb. An earthquake occurred and an angel dressed in white descended from Heaven and rolled aside the stone as the women were watching. The angel told them that Jesus had risen from the dead. Then the risen Jesus himself appeared to the women as they were leaving the tomb and told them to tell the other disciples that he would meet them in Galilee. According to a group of unnamed women went to the tomb and found the stone already rolled away, as in Mark. They went inside and saw two young men dressed in white who told them that Jesus had risen from the dead. Then they went and told the eleven remaining apostles, who dismissed their story as nonsense. In Luke's account, Jesus never appears to the women, but instead makes his first appearance to Cleopas and an unnamed "disciple" on the road to Emmaus. Luke's narrative also removes the injunction for the women to tell the disciples to return to Galilee and instead has Jesus tell the disciples _not_ to return to Galilee, but rather to stay in the precincts of Jerusalem.
 
-IVANOV_YAV_HRISTA_MARI1.jpg. In , Mary Magdalene sees the risen Jesus alone and he tells her "Don't touch me, for I have not yet ascended to my father."]]
+. In , Mary Magdalene sees the risen Jesus alone and he tells her "Don't touch me, for I have not yet ascended to my father."]]
 
 Mary Magdalene's role in the resurrection narrative is greatly increased in the account from the Gospel of John. According to , Mary Magdalene went to the tomb alone when it was still dark and saw that the stone had already been rolled away. She did not see anyone, but immediately ran to tell Peter and the "beloved disciple", who came with her to the tomb and confirmed that it was empty, but returned home without seeing the risen Jesus. According to , Mary, now alone in the garden outside the tomb, saw two angels sitting where Jesus's body had been. Then the risen Jesus approached her. She at first mistook him for the gardener, but, after she heard him say her name, she recognized him and cried out "Rabbouni!" (which is Aramaic for "teacher"). She tried to touch him, but he told her, "Don't touch me, for I have not yet ascended to my father." Jesus then sent her to tell the other apostles the good news of his resurrection. The Gospel of John therefore portrays Mary Magdalene as the first apostle, the apostle sent _to_ the apostles.
 
@@ -64,7 +64,7 @@ In apocryphal texts, Mary Magdalene is portrayed as a visionary and leader of th
 
 _Dialogue of the Savior_
 
-Dialogue_of_the_Savior.jpg'', in which Mary Magdalene is a central figure]] The earliest dialogue between Jesus and Mary Magdalene is probably the _Dialogue of the Savior_, a badly damaged Gnostic text discovered in the Nag Hammadi library in 1945. The dialogue consists of a conversation between Jesus and three disciples: Judas Thomas, Matthew, and Mary. The fact that the author chose Mary over all the other apostles, including Simon Peter, is highly indicative of her importance for early Gnostic Christians. In saying 53, the _Dialogue_ even attributes to Mary three aphorisms that are attributed to Jesus in the New Testament: "The wickedness of each day [is sufficient]. Workers deserve their food. Disciples resemble their teachers." The narrator commends Mary stating "she spoke this utterance as a woman who understood everything."
+'', in which Mary Magdalene is a central figure]] The earliest dialogue between Jesus and Mary Magdalene is probably the _Dialogue of the Savior_, a badly damaged Gnostic text discovered in the Nag Hammadi library in 1945. The dialogue consists of a conversation between Jesus and three disciples: Judas Thomas, Matthew, and Mary. The fact that the author chose Mary over all the other apostles, including Simon Peter, is highly indicative of her importance for early Gnostic Christians. In saying 53, the _Dialogue_ even attributes to Mary three aphorisms that are attributed to Jesus in the New Testament: "The wickedness of each day [is sufficient]. Workers deserve their food. Disciples resemble their teachers." The narrator commends Mary stating "she spoke this utterance as a woman who understood everything."
 
 _Pistis Sophia_
 
@@ -72,7 +72,7 @@ The _Pistis Sophia_, possibly dating as early as the second century, is the best
 
 Gospel of Thomas
 
-Nag_Hammadi_coptic.gif from Nag Hammadi, containing the account of Jesus's reaffirmation of Mary's authority to Peter]]
+from Nag Hammadi, containing the account of Jesus's reaffirmation of Mary's authority to Peter]]
 
 The Gospel of Thomas, usually dated to the late first or early second century, was among the ancient texts discovered in the Nag Hammadi library in 1945.[15] The Gospel of Thomas consists entirely of 114 sayings attributed to Jesus. Many of these sayings are similar to ones in the canonical gospels, but others are completely unlike anything found in the New Testament. Some scholars believe that at least a few of these sayings may authentically be traced back to the historical Jesus. Two of the sayings reference a woman named "Mary", who is generally regarded as Mary Magdalene. In saying 21, Mary herself asks Jesus the perfectly innocuous question, "Whom are your disciples like?" Jesus responds, "They are like children who have settled in a field which is not theirs. When the owners of the field come, they will say, 'Let us have back our field.' They (will) undress in their presence in order to let them have back their field and to give it back to them". Following this, Jesus continues his explanation with a parable about the owner of a house and a thief, ending with the common rhetoric, "Whoever has ears to hear let him hear".
 
@@ -84,7 +84,7 @@ In the ancient world, it was almost universally believed that women were inferio
 
 Gospel of Philip
 
-·_Evangelio_de_Felipe_·_Codex_II,_3_·_Biblioteca_Copta_de_Nag_Hammadi_·.png from Nag Hammadi]]
+from Nag Hammadi]]
 
 The Gospel of Philip, dating from the second or third century, survives in part among the texts found in Nag Hammadi in 1945.[17] In a manner very similar to , the Gospel of Philip presents Mary Magdalene among Jesus' female entourage, adding that she was his _koinônos_, a Greek word variously translated in contemporary versions as partner, associate, comrade, companion:[18]
 
@@ -98,7 +98,7 @@ For early Christians, kissing did not have a romantic connotation and it was com
 
 Gospel of Mary
 
-Gospel_of_Mary.jpg, a fragment of the Greek text of the Gospel of Mary]]
+, a fragment of the Greek text of the Gospel of Mary]]
 
 The Gospel of Mary is the only surviving gospel named after a woman and it provides important information about the role of women in the early church.[25] The Gospel of Mary was probably written over a century after the historical Mary Magdalene's death. The gospel does not claim to have been written by her and its author is, in fact, anonymous. Instead, it received its title because it is _about_ her. The main surviving text of the gospel comes from a Coptic translation preserved in a fifth-century manuscript (_Berolinensis Gnosticus_ 8052,1) discovered in Cairo in 1896.[26] As a result of numerous intervening conflicts, the manuscript was not published until 1955, nearly a full lifetime after its discovery. Roughly half the text of the gospel in this manuscript has been lost;[27] the first six pages and four from the middle are missing.[28] In addition to this Coptic translation, two brief third-century fragments of the gospel in the original Greek (P. Rylands 463 and P. Oxyrhynchus 3525) have also been discovered, which were published in 1938 and 1983 respectively.[29]
 
@@ -117,7 +117,7 @@ Legacy
 
 Patristic era
 
-Dura_Europos_baptistry_women_at_the_tomb.jpg of the Dura-Europos church dates to 240 AD and contains the oldest surviving depiction of Mary Magdalene. She is shown alongside two other women (the third now almost completely missing due to extensive damage), each holding a lit torch and a bowl of myrrh, as they approach Jesus's tomb, which is still sealed.]]
+of the Dura-Europos church dates to 240 AD and contains the oldest surviving depiction of Mary Magdalene. She is shown alongside two other women (the third now almost completely missing due to extensive damage), each holding a lit torch and a bowl of myrrh, as they approach Jesus's tomb, which is still sealed.]]
 
 Most of the earliest Church Fathers do not mention Mary Magdalene at all, and those who do mention her usually only discuss her very briefly. In his anti-Christian polemic _The True Word_, written between 170 and 180 AD, the pagan philosopher Celsus declared that Mary Magdalene was nothing more than "a hysterical female... who either dreamt in a certain state of mind and through wishful thinking had a hallucination due to some mistaken notion (an experience which has happened to thousands), or, which is more likely, wanted to impress others by telling this fantastic tale, and so by this cock-and-bull story to provide a chance for other beggars." The Church Father Origen ( 184 – 253) defended Christianity against this accusation in his apologetic treatise _Against Celsus_, pointing to , which lists Mary Magdalene and "the other Mary" both seeing the resurrected Jesus, thus providing a second witness. Origen also preserves a statement from Celsus that some Christians in his day followed the teachings of a woman named "Mariamme", who is almost certainly Mary Magdalene. Origen merely dismisses this, remarking that Celsus "pours on us a heap of names".
 
@@ -137,7 +137,7 @@ In an eastern tradition supported by the western bishop and historian Gregory of
 
 High Middle Ages
 
-Copiebasiliquereliquaire.jpg claimed to have discovered Mary Magdalene's skeleton.[52] This reliquary, constructed in the nineteenth century, contains her purported skull.]]
+claimed to have discovered Mary Magdalene's skeleton.[52] This reliquary, constructed in the nineteenth century, contains her purported skull.]]
 
 Starting in early High Middle Ages, writers in western Europe began developing elaborate fictional biographies of Mary Magdalene's life, in which they heavily embellished upon the vague details given in the gospels. Stories about noble saints were popular during this time period; accordingly, tales of Mary Magdalene's wealth and social status became heavily exaggerated. In the tenth century, Odo of Cluny ( 880 – 942) wrote a sermon in which he described Mary as an extraordinarily wealthy noblewoman of royal descent. Some manuscripts of the sermon record that Mary's parents were named Syrus and Eucharia and one manuscript goes into great detail describing her family's purported land holdings in Bethany, Jerusalem, and Magdala.
 
@@ -145,7 +145,7 @@ The theologian Honorius Augustodunensis ( 1080 – 1151) embellished this tale e
 
 In western Europe, elaborate and conflicting legends began to develop, which claimed that Mary Magdalene had travelled to southern France and died there. Starting in around 1050, the monks of the Abbey of la Madaleine, Vézelay in Burgundy claimed to have discovered Mary Magdalene's actual skeleton.[55] At first, the existence of the skeleton was merely asserted, but, in 1265, the monks made a spectacular, public show of "discovering" it and, in 1267, the bones were brought before the king of France himself, who venerated them. On December 9, 1279, an excavation ordered by Charles II, King of Naples at Saint-Maximin-la-Sainte-Baume, Provence, led to the discovery of another purported burial of Mary Magdalene.[56] The shrine was purportedly found intact, with an explanatory inscription stating why the relics had been hidden. Charles II commissioned the building of a new Gothic basilica on the site and, in return for providing accommodation for pilgrims, the town's residents were exempt from taxes.[57] Saint-Maximin-la-Sainte-Baume gradually displaced Vézelay in popularity and acceptance.
 
-Torun_SS_Johns_Mary_Magdalene.jpg _Elevation of Mary Magdalene_ with angels raising her in SS. Johns' Cathedral in Toruń]]
+_Elevation of Mary Magdalene_ with angels raising her in SS. Johns' Cathedral in Toruń]]
 
 The most famous account of Mary Magdalene's legendary life comes from _The Golden Legend_, a collection of medieval saints stories compiled in around the year 1260 by the Italian writer and Dominican friar Jacobus de Voragine ( 1230 – 1298). In this account, Mary Magdalene is, in Ehrman's words, "fabulously rich, insanely beautiful, and outrageously sensual", but she gives up her life of wealth and sin to become a devoted follower of Jesus. Fourteen years after Jesus's crucifixion, some pagans throw Mary, Lazarus (who, in this account, is her brother due to her conflation with Mary of Bethany), and two other Christians named Maximin and Cedonius onto a rudderless boat in the Mediterranean Sea to die. Miraculously, however, the boat washes ashore at Marseille in southern France. Mary persuades the governor of the city not to offer sacrifices to a pagan god and later persuades him to convert to Christianity after she proves the Christian God's power by successfully praying to Him to make the governor's wife pregnant. The governor and his wife sail for Rome to meet the apostle Peter in person, but their ship is struck by a storm, which causes the wife to go into labor. The wife dies in childbirth and the governor leaves her on an island with the still-living infant at her breast. The governor spends two years with Peter in Rome and, on his way home, he stops at the same island to discover that, due to Mary Magdalene's miraculous long-distance intercession, his child has survived for two years on his dead mother's breast milk. Then the governor's wife rises from the dead and tells him that Mary Magdalene has brought her back. The whole family returns to Marseille, where they meet Mary again in person. Mary herself spends the last thirty years of her life alone as a penitent ascetic in a cave in a desert in the French region of Provence.[58][59][60] At every canonical hour, the angels come and lift her up to hear their songs in Heaven. On the last day of her life, Maximin, now the bishop of Aix, comes to her and gives her the Eucharist. Mary cries tears of joy and, after taking it, she lies down and dies. De Voragine gives the common account of the transfer of Mary Magdalene's relics from her sepulchre in the oratory of Saint Maximin at Aix-en-Provence to the newly founded Vézelay;[61] the transportation of the relics is entered as undertaken in 771 by the founder of the abbey, identified as Gerard, Duke of Burgundy.[62]
 
@@ -159,7 +159,7 @@ In the middle of the fourteenth century, a Dominican friar wrote a biography of 
 
 Reformation and Counter-Reformation
 
-RubensSimonCyreneCarriesCross.jpg'' (1617) by Peter Paul Rubens is a typical example of how Mary Magdalene was portrayed during the Baroque era, emphasizing her erotic allure and blurring the lines between religious and erotic art.]]
+'' (1617) by Peter Paul Rubens is a typical example of how Mary Magdalene was portrayed during the Baroque era, emphasizing her erotic allure and blurring the lines between religious and erotic art.]]
 
 In 1517, on the brink of the Protestant Reformation, the leading French Renaissance humanist Jacques Lefèvre d'Étaples published his book _De Maria Magdalena et triduo Christi disceptatio_ (_Disputation on Mary Magdalene and the Three Days of Christ_), in which he argued against the conflation of Mary Magdalene, Mary of Bethany, and the unnamed sinner in Luke.[69] Various authors published a flurry of books and pamphlets in response, the vast majority of which opposed Lefèvre d'Étaples.[70] In 1521, the theology faculty of the Sorbonne formally condemned the idea that the three women were separate people as heretical,[71] and debate died down, overtaken by the larger issues raised by Martin Luther.[72] Luther and Huldrych Zwingli (1484 – 1531) both supported the composite Magdalene.[73] Luther, whose views on sexuality were much more liberal than those of his fellow reformers, reportedly once joked to a group of friends that "even pious Christ himself" had committed adultery three times: once with Mary Magdalene, once with the Samaritan woman at the well, and once with the adulteress he had let off so easily. Because the cult of Mary Magdalene was inextricably associated with the Catholic teaching of the intercession of saints, it came under particularly harsh criticism by Protestant leaders. Zwingli demanded for the cult of Mary Magdalene to be abolished and all images of her to be destroyed. John Calvin (1509 – 1564) not only rejected the composite Magdalene,[74] but criticized Catholics as ignorant for having ever believed in it.
 
@@ -167,7 +167,7 @@ During the Counter-Reformation, Roman Catholicism began to strongly emphasize Ma
 
 Modern era
 
-Maria_Maddalena,_1893.jpg]]
+]]
 
 Because of the legends claiming that Mary Magdalene had been a prostitute, she became the patroness of "wayward women", and, in the eighteenth century, moral reformers established Magdalene asylums to help save women from prostitution.[76] Edgar Saltus's historical fiction novel _Mary Magdalene: A Chronicle_ (1891) depicts her as a heroine living in a castle at Magdala, who moves to Rome becoming the "toast of the tetrarchy", telling John the Baptist she will "drink pearls... sup on peacock's tongues".[77][78]
 
@@ -192,7 +192,7 @@ File:Noli me tangere, fresco by Fra Angelico.jpg|_Noli me tangere_ fresco by Fra
 
 Religious views
 
-Maria_Magdalene_icon.jpg icon of Mary Magdalene as a Myrrhbearer]]
+icon of Mary Magdalene as a Myrrhbearer]]
 
 Eastern Orthodoxy
 
@@ -200,11 +200,11 @@ The Eastern Orthodox Church has never identified Mary Magdalene with Mary of Bet
 
 Roman Catholicism
 
-Erhart-madalena.jpg (d. 1525)]]
+(d. 1525)]]
 
 During the Counter Reformation and Baroque periods (late 16th and 17th centuries), the description "penitent" was added to the indication of her name on her feast day, July 22. It had not yet been added at the time of the Tridentine Calendar of 1569 and is no longer found in the present General Roman Calendar but, once added, it remained until the General Roman Calendar of 1960.[90] The Gospel reading in the Tridentine Mass was (the sinful woman anointing the feet of Jesus), while in the present version of the Roman Rite of Mass it is (meeting of Mary Magdalene with Jesus after his resurrection).[91][92][93]
 
-The_Holy_Women_at_the_Sepulchre_by_Peter_Paul_Rubens.jpg at the Tomb'' by Peter Paul Rubens, with Mary Magdalene in red]]
+at the Tomb'' by Peter Paul Rubens, with Mary Magdalene in red]]
 
 According to Darrell Bock, the title of _apostola apostolorum_ first appears in the 10th century, but Katherine Ludwig Jansen says she found no reference to it earlier than the 12th, by which time it was already commonplace.[94] She mentions in particular Hugh of Cluny (1024–1109), Peter Abelard (1079–1142), and Bernard of Clairvaux (1090–1153) among those who gave Mary Magdalene the title of _apostolorum apostola_ (apostle of the apostles). Jane Schaberg adds Geoffrey of Vendôme (c. 1065/70–1132).[95]
 
@@ -212,7 +212,7 @@ It is claimed that the equivalent of the phrase _apostolorum apostola_ appeared 
 
 Protestantism
 
-Vasnetsov_Maria_Magdalene.JPG of Saint Mary Magdalene depicted as one of the Myrrhbearers with the words "Christ is Risen" in Greek at the top, depicting her discovery of the empty tomb]]
+of Saint Mary Magdalene depicted as one of the Myrrhbearers with the words "Christ is Risen" in Greek at the top, depicting her discovery of the empty tomb]]
 
 The 1549 _Book of Common Prayer_ had on July 22 a feast of Saint Mary Magdalene, with the same Scripture readings as in the Tridentine Mass and with a newly composed collect: "Merciful father geue us grace, that we neuer presume to synne through the example of anye creature, but if it shall chaunce vs at any tyme to offende thy dyuine maiestie: that then we maye truly repent, and lament the same, after the example of Mary Magdalene, and by lyuelye faythe obtayne remission of all oure sinnes: throughe the onely merites of thy sonne oure sauiour Christ." The 1552 edition omitted the feast of Saint Mary Magdalene, which was restored to the Book of Common Prayer only after some 400 years.[102]
 
@@ -227,7 +227,7 @@ The Bahá'í writings also expand upon the scarce references to her life in the 
 
 Speculations
 
-Semiradsky_Christ_Martha_Maria.jpg, showing the conflated "composite Magdalene" sitting at Jesus's feet while her sister Martha does chores. Many authors have speculated about Jesus and Mary's relationship, with some claiming she had an especially close relationship to him or that they were married.]] In 1998, Ramon K. Jusino proposed an unprecedented argument that the "Beloved Disciple" of the Gospel of John is Mary Magdalene. Jusino based his argument largely on the Nag Hammadi Gnostic books, rejecting the view of Raymond E. Brown that these books were later developments, and maintaining instead that the extant Gospel of John is the result of modification of an earlier text that presented Mary Magdalene as the Beloved Disciple.[116] Richard J. Hooper does not make the Jusino thesis his own, but says: "Perhaps we should not altogether reject the possibility that some Johannine Christians considered Mary Magdalene to be 'the disciple whom Jesus loved'."[117] Esther A. de Boer likewise presents the idea as "one possibility among others", not as a definitive solution to the problem of the identity of the anonymous disciple.[118] A theological interpretation of Mary as the Magdala, _The Elegant Tower_ and certain churches honor her as a heroine of the faith in their teachings.[119]
+, showing the conflated "composite Magdalene" sitting at Jesus's feet while her sister Martha does chores. Many authors have speculated about Jesus and Mary's relationship, with some claiming she had an especially close relationship to him or that they were married.]] In 1998, Ramon K. Jusino proposed an unprecedented argument that the "Beloved Disciple" of the Gospel of John is Mary Magdalene. Jusino based his argument largely on the Nag Hammadi Gnostic books, rejecting the view of Raymond E. Brown that these books were later developments, and maintaining instead that the extant Gospel of John is the result of modification of an earlier text that presented Mary Magdalene as the Beloved Disciple.[116] Richard J. Hooper does not make the Jusino thesis his own, but says: "Perhaps we should not altogether reject the possibility that some Johannine Christians considered Mary Magdalene to be 'the disciple whom Jesus loved'."[117] Esther A. de Boer likewise presents the idea as "one possibility among others", not as a definitive solution to the problem of the identity of the anonymous disciple.[118] A theological interpretation of Mary as the Magdala, _The Elegant Tower_ and certain churches honor her as a heroine of the faith in their teachings.[119]
 
 Dan Brown's 2003 bestselling mystery thriller novel _The Da Vinci Code_ popularized a number of erroneous ideas about Mary Magdalene, including that she was a member of the tribe of Benjamin, that she was Jesus's wife, that she was pregnant at the crucifixion, and that she gave birth to Jesus's child, who became the founder of a bloodline which survives to this very day. There is absolutely no historical evidence, from the canonical or apocryphal gospels, other early Christian writings, or any other ancient sources, to support any of these claims. _The Da Vinci Code_ also purports that the figure of the "beloved disciple" to Jesus's right in Leonardo da Vinci's _The Last Supper_ is Mary Magdalene, disguised as one of the male disciples; art historians maintain that the figure is, in reality, the apostle John, who only appears feminine due to Leonardo's characteristic fascination with blurring the lines between the sexes, a quality which is found in his other paintings, such as _St. John the Baptist_ (painted 1513–1516). Furthermore, according to Ross King, an expert on Italian art, Mary Magdalene's appearance at the last supper would not have been controversial and Leonardo would have had no motive to disguise her as one of the other disciples, since she was widely venerated in her role as the "apostle to the apostles" and patron of the Dominican Order, for whom _The Last Supper_ was painted. There would have even been precedent for it, since the earlier Italian Renaissance painter Fra Angelico had included her in his painting of the Last Supper. Numerous works were written in response to the historical inaccuracies in _The Da Vinci Code_, but the novel still exerted massive influence on how members of the general public viewed Mary Magdalene.
 

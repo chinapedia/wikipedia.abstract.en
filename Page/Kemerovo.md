@@ -49,7 +49,7 @@ Kemerovo's position gives it a humid continental climate (Köppen _Dfb_) with av
 
 Notable people
 
-Kemerovo_park-pobedy-dandelions.JPG's Park) in Kemerovo]] KemerovoEmblemMikhailVolkov.jpg
+'s Park) in Kemerovo]]
 
 -   Yuri Arbachakov, boxer
 -   Andreas Beck, association football player

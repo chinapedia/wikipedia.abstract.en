@@ -1,4 +1,4 @@
-Clothbound_Cheddar_-_Rennet_(4790811140).jpg]]
+]]
 
 RENNET is a complex set of enzymes produced in the stomachs of ruminant mammals. Chymosin, its key component, is a protease enzyme that curdles the casein in milk; this helps young mammals digest their mothers' milk. In addition to chymosin, rennet contains other important enzymes such as pepsin and a lipase.
 

@@ -11,7 +11,7 @@ History
 
 Ancient astronomy
 
-Senenmut-Grab.JPG is evident in monuments like the ceiling of Senemut's tomb from the Eighteenth Dynasty of Egypt.]] Astronomy is one of the oldest natural sciences. Early civilizations dating back before 3000 BCE, such as the Sumerians, ancient Egyptians, and the Indus Valley Civilisation, had a predictive knowledge and a basic understanding of the motions of the Sun, Moon, and stars. The stars and planets were often worshipped, believed to represent gods. While the explanations for the observed positions of the stars were often unscientific and lacking in evidence, these early observations laid the foundation for later astronomy, as the stars were found to traverse great circles across the sky,[12] which however did not explain the positions of the planets.
+is evident in monuments like the ceiling of Senemut's tomb from the Eighteenth Dynasty of Egypt.]] Astronomy is one of the oldest natural sciences. Early civilizations dating back before 3000 BCE, such as the Sumerians, ancient Egyptians, and the Indus Valley Civilisation, had a predictive knowledge and a basic understanding of the motions of the Sun, Moon, and stars. The stars and planets were often worshipped, believed to represent gods. While the explanations for the observed positions of the stars were often unscientific and lacking in evidence, these early observations laid the foundation for later astronomy, as the stars were found to traverse great circles across the sky,[12] which however did not explain the positions of the planets.
 
 According to Asger Aaboe, the origins of Western astronomy can be found in Mesopotamia, and all Western efforts in the exact sciences are descended from late Babylonian astronomy.[13] Egyptian astronomers left monuments showing knowledge of the constellations and the motions of the celestial bodies,[14] while Greek poet Homer wrote of various celestial objects in his _Iliad_ and _Odyssey_; later Greek astronomers provided names, which are still used today, for most constellations visible from the Northern Hemisphere.[15]
 
@@ -20,8 +20,6 @@ Natural philosophy
 Natural philosophy has its origins in Greece during the Archaic period (650 BCE – 480 BCE), when pre-Socratic philosophers like Thales rejected non-naturalistic explanations for natural phenomena and proclaimed that every event had a natural cause.[16] They proposed ideas verified by reason and observation, and many of their hypotheses proved successful in experiment;[17] for example, atomism was found to be correct approximately 2000 years after it was proposed by Leucippus and his pupil Democritus.[18]
 
 Physics in the medieval European and Islamic world
-
-Pinhole-camera.svg
 
 The Western Roman Empire fell in the fifth century, and this resulted in a decline in intellectual pursuits in the western part of Europe. By contrast, the Eastern Roman Empire (also known as the Byzantine Empire) resisted the attacks from the barbarians, and continued to advance various fields of learning, including physics.[19]
 
@@ -40,7 +38,7 @@ Philoponus' criticism of Aristotelian principles of physics served as an inspira
 
 Islamic scholarship inherited Aristotelian physics from the Greeks and during the Islamic Golden Age developed it further, especially placing emphasis on observation and _a priori_ reasoning, developing early forms of the scientific method.
 
-The most notable innovations were in the field of optics and vision, which came from the works of many scientists like Ibn Sahl, Al-Kindi, Ibn al-Haytham, Al-Farisi and Avicenna. The most notable work was _The Book of Optics_ (also known as Kitāb al-Manāẓir), written by Ibn al-Haytham, in which he conclusively disproved the ancient Greek idea about vision, but also came up with a new theory. In the book, he presented a study of the phenomenon of the camera obscura (his thousand-year-old version of the pinhole camera) and delved further into the way the eye itself works. Using dissections and the knowledge of previous scholars, he was able to begin to explain how light enters the eye. He asserted that the light ray is focused, but the actual explanation of how light projected to the back of the eye had to wait until 1604. His _Treatise on Light_ explained the camera obscura, hundreds of years before the modern development of photography.[24] Hazan.png (c. 965–c. 1040), _Book of Optics_ Book I, [6.85], [6.86]. Book II, [3.80] describes his _camera obscura_ experiments[25]|alt=Ibn Al-Haytham (Alhazen) drawing]]
+The most notable innovations were in the field of optics and vision, which came from the works of many scientists like Ibn Sahl, Al-Kindi, Ibn al-Haytham, Al-Farisi and Avicenna. The most notable work was _The Book of Optics_ (also known as Kitāb al-Manāẓir), written by Ibn al-Haytham, in which he conclusively disproved the ancient Greek idea about vision, but also came up with a new theory. In the book, he presented a study of the phenomenon of the camera obscura (his thousand-year-old version of the pinhole camera) and delved further into the way the eye itself works. Using dissections and the knowledge of previous scholars, he was able to begin to explain how light enters the eye. He asserted that the light ray is focused, but the actual explanation of how light projected to the back of the eye had to wait until 1604. His _Treatise on Light_ explained the camera obscura, hundreds of years before the modern development of photography.[24] (c. 965–c. 1040), _Book of Optics_ Book I, [6.85], [6.86]. Book II, [3.80] describes his _camera obscura_ experiments[25]|alt=Ibn Al-Haytham (Alhazen) drawing]]
 
 The seven-volume _Book of Optics_ (_Kitab al-Manathir_) hugely influenced thinking across disciplines from the theory of visual perception to the nature of perspective in medieval art, in both the East and the West, for more than 600 years. Many later European scholars and fellow polymaths, from Robert Grosseteste and Leonardo da Vinci to René Descartes, Johannes Kepler and Isaac Newton, were in his debt. Indeed, the influence of Ibn al-Haytham's Optics ranks alongside that of Newton's work of the same title, published 700 years later.
 
@@ -48,7 +46,7 @@ The translation of _The Book of Optics_ had a huge impact on Europe. From it, la
 
 Classical physics
 
-GodfreyKneller-IsaacNewton-1689.jpg (1643–1727), whose laws of motion and universal gravitation were major milestones in classical physics]] Physics became a separate science when early modern Europeans used experimental and quantitative methods to discover what are now considered to be the laws of physics.[26]
+(1643–1727), whose laws of motion and universal gravitation were major milestones in classical physics]] Physics became a separate science when early modern Europeans used experimental and quantitative methods to discover what are now considered to be the laws of physics.[26]
 
 Major developments in this period include the replacement of the geocentric model of the Solar System with the heliocentric Copernican model, the laws governing the motion of planetary bodies determined by Johannes Kepler between 1609 and 1619, pioneering work on telescopes and observational astronomy by Galileo Galilei in the 16th and 17th Centuries, and Isaac Newton's discovery and unification of the laws of motion and universal gravitation that would come to bear his name.[27] Newton also developed calculus, the mathematical study of change, which provided new mathematical methods for solving physical problems.[28]
 
@@ -56,7 +54,7 @@ The discovery of new laws in thermodynamics, chemistry, and electromagnetics res
 
 Modern physics
 
-Max_Planck_(Nobel_1918).jpg (1858–1947), the originator of the theory of quantum mechanics]] Einstein1921_by_F_Schmutzer_2.jpg (1879–1955), whose work on the photoelectric effect and the theory of relativity led to a revolution in 20th century physics]] Modern physics began in the early 20th century with the work of Max Planck in quantum theory and Albert Einstein's theory of relativity. Both of these theories came about due to inaccuracies in classical mechanics in certain situations. Classical mechanics predicted a varying speed of light, which could not be resolved with the constant speed predicted by Maxwell's equations of electromagnetism; this discrepancy was corrected by Einstein's theory of special relativity, which replaced classical mechanics for fast-moving bodies and allowed for a constant speed of light.[30] Black-body radiation provided another problem for classical physics, which was corrected when Planck proposed that the excitation of material oscillators is possible only in discrete steps proportional to their frequency; this, along with the photoelectric effect and a complete theory predicting discrete energy levels of electron orbitals, led to the theory of quantum mechanics taking over from classical physics at very small scales.[31]
+(1858–1947), the originator of the theory of quantum mechanics]] (1879–1955), whose work on the photoelectric effect and the theory of relativity led to a revolution in 20th century physics]] Modern physics began in the early 20th century with the work of Max Planck in quantum theory and Albert Einstein's theory of relativity. Both of these theories came about due to inaccuracies in classical mechanics in certain situations. Classical mechanics predicted a varying speed of light, which could not be resolved with the constant speed predicted by Maxwell's equations of electromagnetism; this discrepancy was corrected by Einstein's theory of special relativity, which replaced classical mechanics for fast-moving bodies and allowed for a constant speed of light.[30] Black-body radiation provided another problem for classical physics, which was corrected when Planck proposed that the excitation of material oscillators is possible only in discrete steps proportional to their frequency; this, along with the photoelectric effect and a complete theory predicting discrete energy levels of electron orbitals, led to the theory of quantum mechanics taking over from classical physics at very small scales.[31]
 
 Quantum mechanics would come to be pioneered by Werner Heisenberg, Erwin Schrödinger and Paul Dirac.[32] From this early work, and work in related fields, the Standard Model of particle physics was derived.[33] Following the discovery of a particle with properties consistent with the Higgs boson at CERN in 2012,[34] all fundamental particles predicted by the standard model, and no others, appear to exist; however, physics beyond the Standard Model, with theories such as supersymmetry, is an active area of research.[35] Areas of mathematics in general are important to this field, such as the study of probabilities and groups.
 
@@ -80,7 +78,7 @@ These central theories are important tools for research into more specialised to
 
 Classical physics
 
-Prediction_of_sound_scattering_from_Schroeder_Diffuser.jpg model of sound reflecting from an acoustic diffuser]]
+model of sound reflecting from an acoustic diffuser]]
 
 Classical physics includes the traditional branches and topics that were recognised and well-developed before the beginning of the 20th century—classical mechanics, acoustics, optics, thermodynamics, and electromagnetism. Classical mechanics is concerned with bodies acted on by forces and bodies in motion and may be divided into statics (study of the forces on a body or bodies not subject to an acceleration), kinematics (study of motion without regard to its causes), and dynamics (study of motion and the forces that affect it); mechanics may also be divided into solid mechanics and fluid mechanics (known together as continuum mechanics), the latter include such branches as hydrostatics, hydrodynamics, aerodynamics, and pneumatics. Acoustics is the study of how sound is produced, controlled, transmitted and received.[46] Important modern branches of acoustics include ultrasonics, the study of sound waves of very high frequency beyond the range of human hearing; bioacoustics, the physics of animal calls and hearing,[47] and electroacoustics, the manipulation of audible sound waves using electronics.[48]
 
@@ -88,7 +86,7 @@ Optics, the study of light, is concerned not only with visible light but also wi
 
 Modern physics
 
-Solvay_conference_1927.jpg of 1927, with prominent physicists such as Albert Einstein, Werner Heisenberg, Max Planck, Hendrik Lorentz, Niels Bohr, Marie Curie, Erwin Schrödinger and Paul Dirac]]
+of 1927, with prominent physicists such as Albert Einstein, Werner Heisenberg, Max Planck, Hendrik Lorentz, Niels Bohr, Marie Curie, Erwin Schrödinger and Paul Dirac]]
 
 Classical physics is generally concerned with matter and energy on the normal scale of observation, while much of modern physics is concerned with the behavior of matter and energy under extreme conditions or on a very large or very small scale. For example, atomic and nuclear physics studies matter on the smallest scale at which chemical elements can be identified. The physics of elementary particles is on an even smaller scale since it is concerned with the most basic units of matter; this branch of physics is also known as high-energy physics because of the extremely high energies necessary to produce many types of particles in particle accelerators. On this scale, ordinary, commonsensical notions of space, time, matter, and energy are no longer valid.[49]
 
@@ -96,22 +94,18 @@ The two chief theories of modern physics present a different picture of the conc
 
 Difference between classical and modern physics
 
-Modernphysicsfields.svg
-
 While physics aims to discover universal laws, its theories lie in explicit domains of applicability. Loosely speaking, the laws of classical physics accurately describe systems whose important length scales are greater than the atomic scale and whose motions are much slower than the speed of light. Outside of this domain, observations do not match predictions provided by classical mechanics. Albert Einstein contributed the framework of special relativity, which replaced notions of absolute time and space with spacetime and allowed an accurate description of systems whose components have speeds approaching the speed of light. Max Planck, Erwin Schrödinger, and others introduced quantum mechanics, a probabilistic notion of particles and interactions that allowed an accurate description of atomic and subatomic scales. Later, quantum field theory unified quantum mechanics and special relativity. General relativity allowed for a dynamical, curved spacetime, with which highly massive systems and the large-scale structure of the universe can be well-described. General relativity has not yet been unified with the other fundamental descriptions; several candidate theories of quantum gravity are being developed.
 
 
 Relation to other fields
 
-Pahoeoe_fountain_original.jpg-shaped lava flow illustrates the application of mathematics in physics—in this case, Galileo's law of falling bodies.]] Physics_and_other_sciences.png
+-shaped lava flow illustrates the application of mathematics in physics—in this case, Galileo's law of falling bodies.]]
 
 Prerequisites
 
 Mathematics provides a compact and exact language used to describe the order in nature. This was noted and advocated by Pythagoras,[51] Plato,[52] Galileo,[53] and Newton.
 
 Physics uses mathematics[54] to organise and formulate experimental results. From those results, precise or estimated solutions are obtained, quantitative results from which new predictions can be made and experimentally confirmed or negated. The results from physics experiments are numerical data, with their units of measure and estimates of the errors in the measurements. Technologies based on mathematics, like computation have made computational physics an active area of research.
-
-Mathematical_Physics_and_other_sciences.png
 
 Ontology is a prerequisite for physics, but not for mathematics. It means physics is ultimately concerned with descriptions of the real world, while mathematics is concerned with abstract patterns, even beyond the real world. Thus physics statements are synthetic, while mathematical statements are analytic. Mathematics contains hypotheses, while physics contains theories. Mathematics statements have to be only logically true, while predictions of physics statements must match observed and experimental data.
 
@@ -121,7 +115,7 @@ Pure physics is a branch of fundamental science (also called _basic_ science) . 
 
 Application and influence
 
-Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif, a simple machine for lifting]] IMG_1729_Gemaal_met_schroef_van_Archimedes_bij_Kinderdijk.JPG
+, a simple machine for lifting]]
 
 Applied physics is a general term for physics research which is intended for a particular use. An applied physics curriculum usually contains a few classes in an applied discipline, like geology or electrical engineering. It usually differs from engineering in that an applied physicist may not be designing something in particular, but rather is using physics or conducting physics research with the aim of developing new technologies or solving a problem.
 
@@ -144,7 +138,7 @@ A scientific law is a concise verbal or mathematical statement of a relation tha
 
 Theory and experiment
 
-Bruce_McCandless_II_during_EVA_in_1984.jpg and Earth are both in free fall]] Lightning_in_Arlington.jpg is an electric current]]
+and Earth are both in free fall]] is an electric current]]
 
 Theorists seek to develop mathematical models that both agree with existing experiments and successfully predict future experimental results, while experimentalists devise and perform experiments to test theoretical predictions and explore new phenomena. Although theory and experiment are developed separately, they strongly affect and depend upon each other. Progress in physics frequently comes about when experimental results def explanation by existing theories, prompting intense focus on applicable modelling, and when new theories generate experimentally testable predictions, which inspire developing new experiments (and often related equipment, possibly roping in some applied physicists to help build it).[59]
 
@@ -156,7 +150,7 @@ Experimental physics expands, and is expanded by, engineering and technology. Ex
 
 Scope and aims
 
-Acceleration_components.JPG to explain its behavior: the purview of the branch of physics known as mechanics.]]
+to explain its behavior: the purview of the branch of physics known as mechanics.]]
 
 Physics covers a wide range of phenomena, from elementary particles (such as quarks, neutrinos, and electrons) to the largest superclusters of galaxies. Included in these phenomena are the most basic objects composing all other things. Therefore, physics is sometimes called the "fundamental science".[62] Physics aims to describe the various phenomena that occur in nature in terms of simpler phenomena. Thus, physics aims to both connect the things observable to humans to root causes, and then connect these causes together.
 
@@ -172,7 +166,7 @@ The major fields of physics, along with their subfields and the theories and con
 
 Nuclear and particle physics
 
-CMS_Higgs-event.jpg, featuring a possible appearance of the Higgs boson.]]
+, featuring a possible appearance of the Higgs boson.]]
 
 Particle physics is the study of the elementary constituents of matter and energy and the interactions between them.[66] In addition, particle physicists design and develop the high-energy accelerators,[67] detectors,[68] and computer programs[69] necessary for this research. The field is also called "high-energy physics" because many elementary particles do not occur naturally but are created only during high-energy collisions of other particles.[70]
 
@@ -190,7 +184,7 @@ Molecular physics focuses on multi-atomic structures and their internal and exte
 
 Condensed matter physics
 
-Bose_Einstein_condensate.png atoms, confirming the discovery of a new phase of matter, the Bose–Einstein condensate]]
+atoms, confirming the discovery of a new phase of matter, the Bose–Einstein condensate]]
 
 Condensed matter physics is the field of physics that deals with the macroscopic physical properties of matter.[79] In particular, it is concerned with the "condensed" phases that appear whenever the number of particles in a system is extremely large and the interactions between them are strong.[80]
 
@@ -200,7 +194,7 @@ Condensed matter physics is the largest field of contemporary physics. Historica
 
 Astrophysics
 
-Hubble_ultra_deep_field_high_rez_edit1.jpg, the Hubble Ultra-Deep Field]]
+, the Hubble Ultra-Deep Field]]
 
 Astrophysics and astronomy are the application of the theories and methods of physics to the study of stellar structure, stellar evolution, the origin of the Solar System, and related problems of cosmology. Because astrophysics is a broad subject, astrophysicists typically apply many disciplines of physics, including mechanics, electromagnetism, statistical mechanics, thermodynamics, quantum mechanics, relativity, nuclear and particle physics, and atomic and molecular physics.[90]
 
@@ -217,7 +211,7 @@ IBEX is already yielding new astrophysical discoveries: "No one knows what is cr
 
 Current research
 
-Feynman'sDiagram.JPG signed by R. P. Feynman.]] Meissner_effect_p1390048.jpg levitating above a superconductor demonstrates the Meissner effect.]]
+signed by R. P. Feynman.]] levitating above a superconductor demonstrates the Meissner effect.]]
 
 Research in physics is continually progressing on a large number of fronts.
 

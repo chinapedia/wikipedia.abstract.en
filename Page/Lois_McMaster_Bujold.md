@@ -5,7 +5,7 @@ The bulk of Bujold's works comprises three separate book series: the Vorkosigan 
 
 Biography
 
-Bujold2012.png 2012 in Tampere]] Bujold is the daughter of Robert Charles McMaster[6][7] and attributes her early interest in science fiction, as well as certain aspects of the Vorkosigan Saga, to his influence. He was editor[8] of the _Nondestructive Testing Handbook_.[9]
+2012 in Tampere]] Bujold is the daughter of Robert Charles McMaster[6][7] and attributes her early interest in science fiction, as well as certain aspects of the Vorkosigan Saga, to his influence. He was editor[8] of the _Nondestructive Testing Handbook_.[9]
 
 Bujold writes that her experience growing up with a famous father is reflected in the same experience that her characters (Miles, Fiametta) have of growing up in the shadow of a "Great Man". Having observed this tendency in both genders, she wonders why it is always called "great man's son syndrome", and never "great man's daughter's syndrome."[10] Her brother, an engineer like their father, helped provide technical details to support her writing of _Falling Free_.[11]
 

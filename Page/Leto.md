@@ -38,11 +38,9 @@ Witnesses at the birth of Apollo
 
 According to the Homeric hymn, the goddesses who assembled to be witnesses at the birth of Apollo were responding to a public occasion in the rites of a dynasty, where the authenticity of the child must be established beyond doubt from the first moment. The dynastic rite of the witnessed birth must have been familiar to the hymn's hearers.[24] The dynasty that is so concerned about being authenticated in this myth is the new dynasty of Zeus and the Olympian Pantheon, and the goddesses at Delos who bear witness to the rightness of the birth are the great goddesses of the old order. Demeter was not present and Aphrodite was not either but Rhea attended. The goddess Dione (in her name simply the "Goddess") is sometimes taken by later mythographers as a mere feminine form of Zeus (see entry Dodona). If that was the case, she would not have assembled here.
 
-Tityos_Leto_Louvre_G42.jpg (c. 515 BC). Leto is third from left.]]
+(c. 515 BC). Leto is third from left.]]
 
 Chthonic assailants
-
-Apollo_Tityos_Leto_Louvre_G375.jpg
 
 Leto was threatened and assailed in her wanderings by chthonic monsters of the ancient earth and old ways, and these became the enemies of Apollo and Artemis. One was the giant Tityos, a phallic being who grew so vast that he split his mother's womb and had to be carried to term by Gaia herself. He attempted to rape Leto near Delphi under the orders of Hera, but was laid low by the arrows of Apollo and/or Artemis, as Pindar recalled in a Pythian ode.
 
@@ -62,7 +60,7 @@ Pindar calls the goddess _Leto Chryselakatos_,[31] an epithet that was attached 
 
 Lycian peasants
 
-Jan_Brueghel_-_Latona_en_de_Lycische_boeren.jpg.]]
+.]]
 
 Leto's introduction into Lycia was met with resistance. There, according to Ovid's _Metamorphoses_,[34] when Leto was wandering the earth after giving birth to Apollo and Artemis, she attempted to drink water from a pond in Lycia.[35] The peasants there refused to allow her to do so by stirring the mud at the bottom of the pond. Leto turned them into frogs for their inhospitality, forever doomed to swim in the murky waters of ponds and rivers.
 

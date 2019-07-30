@@ -13,11 +13,11 @@ In 1821, John Quincy Adams had declared "Weights and measures may be ranked amon
 
 Bureau of Standards
 
-In 1901, in response to a bill proposed by Congressman James H. Southard (R, Ohio), the National Bureau of Standards was founded with the mandate to provide standard weights and measures, and to serve as the national physical laboratory for the United States. (Southard had previously sponsored a bill for metric conversion of the United States.) [3] Wheeled_chart_of_National_Bureau_of_Standards_activities,_1915.jpg President Theodore Roosevelt appointed Samuel W. Stratton as the first director. The budget for the first year of operation was $40,000. The Bureau took custody of the copies of the kilogram and meter bars that were the standards for US measures, and set up a program to provide metrology services for United States scientific and commercial users. A laboratory site was constructed in Washington, DC, and instruments were acquired from the national physical laboratories of Europe. In addition to weights and measures, the Bureau developed instruments for electrical units and for measurement of light. In 1905 a meeting was called that would be the first "National Conference on Weights and Measures".
+In 1901, in response to a bill proposed by Congressman James H. Southard (R, Ohio), the National Bureau of Standards was founded with the mandate to provide standard weights and measures, and to serve as the national physical laboratory for the United States. (Southard had previously sponsored a bill for metric conversion of the United States.) [3] President Theodore Roosevelt appointed Samuel W. Stratton as the first director. The budget for the first year of operation was $40,000. The Bureau took custody of the copies of the kilogram and meter bars that were the standards for US measures, and set up a program to provide metrology services for United States scientific and commercial users. A laboratory site was constructed in Washington, DC, and instruments were acquired from the national physical laboratories of Europe. In addition to weights and measures, the Bureau developed instruments for electrical units and for measurement of light. In 1905 a meeting was called that would be the first "National Conference on Weights and Measures".
 
 Initially conceived as purely a metrology agency, the Bureau of Standards was directed by Herbert Hoover to set up divisions to develop commercial standards for materials and products.[4]^(page\ 133) Some of these standards were for products intended for government use, but product standards also affected private-sector consumption. Quality standards were developed for products including some types of clothing, automobile brake systems and headlamps, antifreeze, and electrical safety. During World War I, the Bureau worked on multiple problems related to war production, even operating its own facility to produce optical glass when European supplies were cut off. Between the wars, Harry Diamond of the Bureau developed a blind approach radio aircraft landing system. During World War II, military research and development was carried out, including development of radio propagation forecast methods, the proximity fuze and the standardized airframe used originally for Project Pigeon, and shortly afterwards the autonomously radar-guided Bat anti-ship guided bomb and the Kingfisher family of torpedo-carrying missiles.
 
-SpectroscopyResearch_012.jpg in use at the NBS in 1948.]] In 1948, financed by the United States Air Force, the Bureau began design and construction of SEAC, the Standards Eastern Automatic Computer. The computer went into operation in May 1950 using a combination of vacuum tubes and solid-state diode logic. About the same time the Standards Western Automatic Computer, was built at the Los Angeles office of the NBS by Harry Huskey and used for research there. A mobile version, DYSEAC, was built for the Signal Corps in 1954.
+in use at the NBS in 1948.]] In 1948, financed by the United States Air Force, the Bureau began design and construction of SEAC, the Standards Eastern Automatic Computer. The computer went into operation in May 1950 using a combination of vacuum tubes and solid-state diode logic. About the same time the Standards Western Automatic Computer, was built at the Los Angeles office of the NBS by Harry Huskey and used for research there. A mobile version, DYSEAC, was built for the Signal Corps in 1954.
 
 Due to a changing mission, the "National Bureau of Standards" became the "National Institute of Standards and Technology" in 1988.[5]
 
@@ -37,7 +37,7 @@ The Congress of 1866 made use of the metric system in commerce a legally protect
 
 Organization
 
-NIST_AML_building.jpg NIST_campus_aerial_2019.jpg NIST_in_the_mist.jpg NIST is headquartered in Gaithersburg, Maryland, and operates a facility in Boulder, Colorado. NIST's activities are organized into laboratory programs and extramural programs. Effective October 1, 2010, NIST was realigned by reducing the number of NIST laboratory units from ten to six.[10] NIST Laboratories include:[11]
+NIST is headquartered in Gaithersburg, Maryland, and operates a facility in Boulder, Colorado. NIST's activities are organized into laboratory programs and extramural programs. Effective October 1, 2010, NIST was realigned by reducing the number of NIST laboratory units from ten to six.[10] NIST Laboratories include:[11]
 
 -   Communications Technology Laboratory (CTL)[12]
 -   Engineering Laboratory (EL)[13]
@@ -74,8 +74,6 @@ NIST has seven standing committees:
 
 
 Projects
-
-NIST_HipHopAtomLogo.jpg
 
 Measurements and standards
 

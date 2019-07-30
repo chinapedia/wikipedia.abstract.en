@@ -7,7 +7,7 @@ Historically, after World War One and the defeat of the Ottoman Empire, the vict
 
 Language
 
-Kurdish-inhabited_area_by_CIA_(1992).jpg (1992)]] Kurdish (Kurdish: _Kurdî_ or کوردی) is a collection of related dialects spoken by the Kurds.[10] It is mainly spoken in those parts of Iran, Iraq, Syria and Turkey which comprise Kurdistan.[11] Kurdish holds official status in Iraq as a national language alongside Arabic, is recognized in Iran as a regional language, and in Armenia as a minority language.
+(1992)]] Kurdish (Kurdish: _Kurdî_ or کوردی) is a collection of related dialects spoken by the Kurds.[10] It is mainly spoken in those parts of Iran, Iraq, Syria and Turkey which comprise Kurdistan.[11] Kurdish holds official status in Iraq as a national language alongside Arabic, is recognized in Iran as a regional language, and in Armenia as a minority language.
 
 Most Kurds are either bilingual or multilingual, speaking the language of their respective nation of origin, such as Arabic, Persian, and Turkish as a second language alongside their native Kurdish, while those in diaspora communities often speak three or more languages.
 
@@ -53,9 +53,9 @@ There is also a 7th-century text by an unidentified author, written about the le
 
 Medieval period
 
-Saladin_the_Victorious.jpg, founder of the Ayyubid dynasty in the Middle East]] Early Syriac sources use the terms _Hurdanaye, Kurdanaye, Kurdaye_ to refer to the Kurds. According to Michael the Syrian, Hurdanaye separated from Tayaye Arabs and sought refuge with the Byzantine Emperor Theophilus. He also mentions the Persian troops who fought against Musa chief of Hurdanaye in the region of Qardu in 841. According to Barhebreaus, a king appeared to the Kurdanaye and they rebelled against the Arabs in 829. Michael the Syrian considered them as pagan, followers of mahdi and adepts of Magianism. Their mahdi called himself Christ and the Holy Ghost.[49]
+, founder of the Ayyubid dynasty in the Middle East]] Early Syriac sources use the terms _Hurdanaye, Kurdanaye, Kurdaye_ to refer to the Kurds. According to Michael the Syrian, Hurdanaye separated from Tayaye Arabs and sought refuge with the Byzantine Emperor Theophilus. He also mentions the Persian troops who fought against Musa chief of Hurdanaye in the region of Qardu in 841. According to Barhebreaus, a king appeared to the Kurdanaye and they rebelled against the Arabs in 829. Michael the Syrian considered them as pagan, followers of mahdi and adepts of Magianism. Their mahdi called himself Christ and the Holy Ghost.[49]
 
-In the early Middle Ages, the Kurds sporadically appear in Arabic sources, though the term was still not being used for a specific people; instead it referred to an amalgam of nomadic western Iranic tribes, who were distinct from Persians. However, in the High Middle Ages, the Kurdish ethnic identity gradually materialized, as one can find clear evidence of the Kurdish ethnic identity and solidarity in texts of the 12th and 13th century,[50] though, the term was also still being used in the social sense.[51] From 11th century onward, the term Kurd is explicitly defined as an ethnonym and this does not suggest synonymity with the ethnographic category nomad.[52] Al-Tabari wrote that in 639, Hormuzan, a Sasanian general originating from a noble family, battled against the Islamic invaders in Khuzestan, and called upon the Kurds to aid him in battle.[53] However, they were defeated and brought under Islamic rule. Kurdsih_Wariors.jpg In 838, a Kurdish leader based in Mosul, named Mir Jafar, revolted against the Caliph Al-Mu'tasim who sent the commander Itakh to combat him. Itakh won this war and executed many of the Kurds.[54][55] Eventually Arabs conquered the Kurdish regions and gradually converted the majority of Kurds to Islam, often incorporating them into the military, such as the Hamdanids whose dynastic family members also frequently intermarried with Kurds.[56][57]
+In the early Middle Ages, the Kurds sporadically appear in Arabic sources, though the term was still not being used for a specific people; instead it referred to an amalgam of nomadic western Iranic tribes, who were distinct from Persians. However, in the High Middle Ages, the Kurdish ethnic identity gradually materialized, as one can find clear evidence of the Kurdish ethnic identity and solidarity in texts of the 12th and 13th century,[50] though, the term was also still being used in the social sense.[51] From 11th century onward, the term Kurd is explicitly defined as an ethnonym and this does not suggest synonymity with the ethnographic category nomad.[52] Al-Tabari wrote that in 639, Hormuzan, a Sasanian general originating from a noble family, battled against the Islamic invaders in Khuzestan, and called upon the Kurds to aid him in battle.[53] However, they were defeated and brought under Islamic rule. In 838, a Kurdish leader based in Mosul, named Mir Jafar, revolted against the Caliph Al-Mu'tasim who sent the commander Itakh to combat him. Itakh won this war and executed many of the Kurds.[54][55] Eventually Arabs conquered the Kurdish regions and gradually converted the majority of Kurds to Islam, often incorporating them into the military, such as the Hamdanids whose dynastic family members also frequently intermarried with Kurds.[56][57]
 
 In 934 the Daylamite Buyid dynasty was founded, and subsequently conquered most of present-day Iran and Iraq. During the time of rule of this dynasty, Kurdish chief and ruler, Badr ibn Hasanwaih, established himself as one of the most important emirs of the time.[58]
 
@@ -67,9 +67,9 @@ In the 10th-12th centuries, a number of Kurdish principalities and dynasties wer
 -   The Marwanids (990–1096) ruled eastern Anatolia.[62]
 -   The Annazids (990–1117) ruled western Iran and upper Mesopotamia (succeeded the Hasanwayhids).[63]
 -   The Hazaraspids (1148–1424) ruled southwestern Iran.[64]
--   AyyubidGreatest.pngThe Ayyubids (1171–1341) ruled Egypt, Syria, Upper Mesopotamia and parts of southeastern Anatolia and the Arabian Peninsula.[65]
+-   The Ayyubids (1171–1341) ruled Egypt, Syria, Upper Mesopotamia and parts of southeastern Anatolia and the Arabian Peninsula.[65]
 
-piranshahr2014.jpg, center of Mokrian district, northwestern Iran]]
+, center of Mokrian district, northwestern Iran]]
 
 Due to the Turkic invasion of Anatolia, the 11th century Kurdish dynasties crumbled and became incorporated into the Seljuk Dynasty. Kurds would hereafter be used in great numbers in the armies of the Zengids.[66] Succeeding the Zengids, the Kurdish Ayyubids established themselves in 1171, first under the leadership of Saladin. Saladin led the Muslims to recapture the city of Jerusalem from the Crusaders at the Battle of Hattin; also frequently clashing with the Hashashins. The Ayyubid dynasty lasted until 1341 when the Ayyubid sultanate fell to Mongolian invasions.
 
@@ -83,7 +83,7 @@ The Kurds of Khorasan, numbering around 700,000, still use the Kurmanji Kurdish 
 
 Zand period
 
-کریم_خان_زند.JPG, the Laki ruler of the Zand Dynasty]]
+, the Laki ruler of the Zand Dynasty]]
 
 After the fall of the Safavids, Iran fell under the control of the Afsharid Empire ruled by Nader Shah at its peak. After Nader's death, Iran fell into civil war, with multiple leaders trying to gain control over the country. Ultimately, it was Karim Khan, a Laki general of the Zand tribe who would come to power.[72] The country would flourish during Karim Khan's reign; a strong resurgence of the arts would take place, and international ties were strengthened.[73] Karim Khan was portrayed as being a ruler who truly cared about his subjects, thereby gaining the title Vakil e-Ra'aayaa (meaning Representative of the People in Persian).[74] Though not as powerful in its geo-political and military reach as the preceding Safavids and Afsharids or even the early Qajars, he managed to reassert Iranian hegemony over its integral territories in the Caucasus, and presided over an era of relative peace, prosperity, and tranquility. In Ottoman Iraq, following the Ottoman–Persian War (1775–76), Karim Khan managed to seize Basra for several years.[75][76]
 
@@ -101,7 +101,7 @@ The first modern Kurdish nationalist movement emerged in 1880 with an uprising l
 
 Kurdish nationalism of the 20th century
 
-Kurdistan1920.png for an independent Kurdistan (in 1920).]]
+for an independent Kurdistan (in 1920).]]
 
 Kurdish nationalism emerged after World War I with the dissolution of the Ottoman Empire which had historically successfully integrated (but not assimilated) the Kurds, through use of forced repression of Kurdish movements to gain independence. Revolts did occur sporadically but only in 1880 with the uprising led by Sheik Ubeydullah did the Kurds as an ethnic group or nation make demands. Ottoman sultan Abdul Hamid responded with a campaign of integration by co-opting prominent Kurdish opponents to strengthen Ottoman power with offers of prestigious positions in his government. This strategy appears to have been successful given the loyalty displayed by the Kurdish Hamidiye regiments during World War I.[80]
 
@@ -111,7 +111,7 @@ Jakob Künzler, head of a missionary hospital in Urfa, has documented the large 
 
 Some of the Kurdish groups sought self-determination and the confirmation of Kurdish autonomy in the Treaty of Sèvres, but in the aftermath of World War I, Kemal Atatürk prevented such a result. Kurds backed by the United Kingdom declared independence in 1927 and established the Republic of Ararat. Turkey suppressed Kurdist revolts in 1925, 1930, and 1937–1938, while Iran in the 1920s suppressed Simko Shikak at Lake Urmia and Jaafar Sultan of the Hewraman region, who controlled the region between Marivan and north of Halabja. A short-lived Soviet-sponsored Kurdish Republic of Mahabad in Iran did not long outlast World War II.
 
-Kurdish-inhabited_areas_of_the_Middle_East_and_the_Soviet_Union_in_1986.jpg From 1922–1924 in Iraq a Kingdom of Kurdistan existed. When Ba'athist administrators thwarted Kurdish nationalist ambitions in Iraq, war broke out in the 1960s. In 1970 the Kurds rejected limited territorial self-rule within Iraq, demanding larger areas including the oil-rich Kirkuk region.
+From 1922–1924 in Iraq a Kingdom of Kurdistan existed. When Ba'athist administrators thwarted Kurdish nationalist ambitions in Iraq, war broke out in the 1960s. In 1970 the Kurds rejected limited territorial self-rule within Iraq, demanding larger areas including the oil-rich Kirkuk region.
 
 During the 1920s and 1930s, several large scale Kurdish revolts took place in Kurdistan. Following these rebellions, the area of Turkish Kurdistan was put under martial law and a large number of the Kurds were displaced. The Turkish government also encouraged resettlement of Albanians from Kosovo and Assyrians in the region to change the make-up of the population. These events and measures led to a long-lasting mutual distrust between Ankara and the Kurds .[84] During the relatively open government of the 1950s, Kurds gained political office and started working within the framework of the Turkish Republic to further their interests, but this move towards integration was halted with the 1960 Turkish coup d'état.[85] The 1970s saw an evolution in Kurdish nationalism as Marxist political thought influenced some in the new generation of Kurdish nationalists opposed to the local feudal authorities who had been a traditional source of opposition to authority; eventually they would form the militant separatist organization PKK, also known as the Kurdistan Workers' Party in English. The Kurdistan Workers' Party later abandoned Marxism-Leninism.[86]
 
@@ -136,9 +136,9 @@ Kurdish communities
 
 Turkey
 
-Kurdsofconstantinople_color.jpg 1899]] According to CIA Factbook, Kurds formed approximately 18% of the population in Turkey (approximately 14 million) in 2008. One Western source estimates that up to 25% of the Turkish population is Kurdish (approximately 18-19 million people).[106] Kurdish sources claim there are as many as 20 or 25 million Kurds in Turkey.[107] In 1980, Ethnologue estimated the number of Kurdish-speakers in Turkey at around five million,[108] when the country's population stood at 44 million.[109] Kurds form the largest minority group in Turkey, and they have posed the most serious and persistent challenge to the official image of a homogeneous society. This classification was changed to the new euphemism of _Eastern Turk_ in 1980.[110] Nowadays the Kurds, in Turkey, are still known under the name _Easterner_ (Doğulu).
+1899]] According to CIA Factbook, Kurds formed approximately 18% of the population in Turkey (approximately 14 million) in 2008. One Western source estimates that up to 25% of the Turkish population is Kurdish (approximately 18-19 million people).[106] Kurdish sources claim there are as many as 20 or 25 million Kurds in Turkey.[107] In 1980, Ethnologue estimated the number of Kurdish-speakers in Turkey at around five million,[108] when the country's population stood at 44 million.[109] Kurds form the largest minority group in Turkey, and they have posed the most serious and persistent challenge to the official image of a homogeneous society. This classification was changed to the new euphemism of _Eastern Turk_ in 1980.[110] Nowadays the Kurds, in Turkey, are still known under the name _Easterner_ (Doğulu).
 
-Several large scale Kurdish revolts in 1925, 1930 and 1938 were suppressed by the Turkish government and more than one million Kurds were forcibly relocated between 1925 and 1938. The use of Kurdish language, dress, folklore, and names were banned and the Kurdish-inhabited areas remained under martial law until 1946.[111] The Ararat revolt, which reached its apex in 1930, was only suppressed after a massive military campaign including destruction of many villages and their populations.[112] By the 1970s, Kurdish leftist organizations such as _Kurdistan Socialist Party-Turkey_ (KSP-T) emerged in Turkey which were against violence and supported civil activities and participation in elections. In 1977, _Mehdi Zana_ a supporter of KSP-T won the mayoralty of Diyarbakir in the local elections. At about the same time, generational fissures gave birth to two new organizations: the _National Liberation of Kurdistan_ and the _Kurdistan Workers Party_.[113] Kurdish_Boys_Diyarbakir.jpg.]]
+Several large scale Kurdish revolts in 1925, 1930 and 1938 were suppressed by the Turkish government and more than one million Kurds were forcibly relocated between 1925 and 1938. The use of Kurdish language, dress, folklore, and names were banned and the Kurdish-inhabited areas remained under martial law until 1946.[111] The Ararat revolt, which reached its apex in 1930, was only suppressed after a massive military campaign including destruction of many villages and their populations.[112] By the 1970s, Kurdish leftist organizations such as _Kurdistan Socialist Party-Turkey_ (KSP-T) emerged in Turkey which were against violence and supported civil activities and participation in elections. In 1977, _Mehdi Zana_ a supporter of KSP-T won the mayoralty of Diyarbakir in the local elections. At about the same time, generational fissures gave birth to two new organizations: the _National Liberation of Kurdistan_ and the _Kurdistan Workers Party_.[113] .]]
 
 The words "Kurds", "Kurdistan", or "Kurdish" were officially banned by the Turkish government.[114] Following the military coup of 1980, the Kurdish language was officially prohibited in public and private life.[115] Many people who spoke, published, or sang in Kurdish were arrested and imprisoned.[116] The Kurds are still not allowed to get a primary education in their mother tongue and they don't have a right to self-determination, even though Turkey has signed the ICCPR. There is ongoing discrimination against and “otherization” of Kurds in society.[117]
 
@@ -148,7 +148,7 @@ Between 1984 and 1999, the PKK and the Turkish military engaged in open war, and
 
 Since the 1970s, the European Court of Human Rights has condemned Turkey for the thousands of human rights abuses.[128][129] The judgments are related to executions of Kurdish civilians,[130] torturing,[131] forced displacements[132] systematic destruction of villages,[133] arbitrary arrests[134] murdered and disappeared Kurdish journalists.[135]
 
-Zana.jpg]] Leyla Zana, the first Kurdish female MP from Diyarbakir, caused an uproar in Turkish Parliament after adding the following sentence in Kurdish to her parliamentary oath during the swearing-in ceremony in 1994: "I take this oath for the brotherhood of the Turkish and Kurdish peoples."[136]
+]] Leyla Zana, the first Kurdish female MP from Diyarbakir, caused an uproar in Turkish Parliament after adding the following sentence in Kurdish to her parliamentary oath during the swearing-in ceremony in 1994: "I take this oath for the brotherhood of the Turkish and Kurdish peoples."[136]
 
 In March 1994, the Turkish Parliament voted to lift the immunity of Zana and five other Kurdish DEP members: Hatip Dicle, Ahmet Turk, Sirri Sakik, Orhan Dogan and Selim Sadak. Zana, Dicle, Sadak and Dogan were sentenced to 15 years in jail by the Supreme Court in October 1995. Zana was awarded the Sakharov Prize for human rights by the European Parliament in 1995. She was released in 2004 amid warnings from European institutions that the continued imprisonment of the four Kurdish MPs would affect Turkey's bid to join the EU.[137][138] The 2009 local elections resulted in 5.7% for Kurdish political party DTP.[139]
 
@@ -158,17 +158,15 @@ Iran
 
 The Kurdish region of Iran has been a part of the country since ancient times. Nearly all Kurdistan was part of Persian Empire until its Western part was lost during wars against the Ottoman Empire.[142] Following the dissolution of the Ottoman Empire, at the Paris Peace Conference of 1919 Tehran had demanded all lost territories including Turkish Kurdistan, Mosul, and even Diyarbakır, but demands were quickly rejected by Western powers.[143] This area has been divided by modern Turkey, Syria and Iraq.[144] Today, the Kurds inhabit mostly northwestern territories known as Iranian Kurdistan but also the northeastern region of Khorasan, and constitute approximately 7-10%[145] of Iran's overall population (6.5–7.9 million), compared to 10.6% (2 million) in 1956 and 8% (800 thousand) in 1850.[146]
 
-Iranian-ethno-languages-map.png
-
 Unlike in other Kurdish-populated countries, there are strong ethnolinguistical and cultural ties between Kurds, Persians and others as Iranian peoples.[147] Some modern Iranian dynasties like the Safavids and Zands are considered to be partly of Kurdish origin. Kurdish literature in all of its forms (Kurmanji, Sorani, and Gorani) has been developed within historical Iranian boundaries under strong influence of the Persian language.[148] The Kurds sharing much of their history with the rest of Iran is seen as reason for why Kurdish leaders in Iran do not want a separate Kurdish state[149][150][151]
 
 The government of Iran has never employed the same level of brutality against its own Kurds like Turkey or Iraq, but it has always been implacably opposed to any suggestion of Kurdish separatism.[152] During and shortly after the First World War the government of Iran was ineffective and had very little control over events in the country and several Kurdish tribal chiefs gained local political power, even established large confederations.[153] At the same time waves of nationalism from the disintegrating Ottoman Empire partly influenced some Kurdish chiefs in border regions to pose as Kurdish nationalist leaders.[154] Prior to this, identity in both countries largely relied upon religion i.e. Shia Islam in the particular case of Iran.[155][156] In 19th century Iran, Shia–Sunni animosity and the describing of Sunni Kurds as an Ottoman fifth column was quite frequent.[157]
 
-During the late 1910s and early 1920s, tribal revolt led by Kurdish chieftain Simko Shikak struck north western Iran. Although elements of Kurdish nationalism were present in this movement, historians agree these were hardly articulate enough to justify a claim that recognition of Kurdish identity was a major issue in Simko's movement, and he had to rely heavily on conventional tribal motives.[158] Government forces and non-Kurds were not the only ones to suffer in the attacks, the Kurdish population was also robbed and assaulted.[159][160] Rebels do not appear to have felt any sense of unity or solidarity with fellow Kurds.[161] Kurdish insurgency and seasonal migrations in the late 1920s, along with long-running tensions between Tehran and Ankara, resulted in border clashes and even military penetrations in both Iranian and Turkish territory.[162] Two regional powers have used Kurdish tribes as tool for own political benefits: Turkey has provided military help and refuge for anti-Iranian Turcophone Shikak rebels in 1918-1922,[163] while Iran did the same during Ararat rebellion against Turkey in 1930. Reza Shah's military victory over Kurdish and Turkic tribal leaders initiated a repressive era toward non-Iranian minorities.[164] Government's forced detribalization and sedentarization in 1920s and 1930s resulted with many other tribal revolts in Iranian regions of Azerbaijan, Luristan and Kurdistan.[165] In particular case of the Kurds, this repressive policies partly contributed to developing nationalism among some tribes.[166] Kurdish_people_celebrating_Nowruz_2018,_Tangi_Sar_village_(13970105000310636575781098296062_60685).jpg, 20 March 2018]]
+During the late 1910s and early 1920s, tribal revolt led by Kurdish chieftain Simko Shikak struck north western Iran. Although elements of Kurdish nationalism were present in this movement, historians agree these were hardly articulate enough to justify a claim that recognition of Kurdish identity was a major issue in Simko's movement, and he had to rely heavily on conventional tribal motives.[158] Government forces and non-Kurds were not the only ones to suffer in the attacks, the Kurdish population was also robbed and assaulted.[159][160] Rebels do not appear to have felt any sense of unity or solidarity with fellow Kurds.[161] Kurdish insurgency and seasonal migrations in the late 1920s, along with long-running tensions between Tehran and Ankara, resulted in border clashes and even military penetrations in both Iranian and Turkish territory.[162] Two regional powers have used Kurdish tribes as tool for own political benefits: Turkey has provided military help and refuge for anti-Iranian Turcophone Shikak rebels in 1918-1922,[163] while Iran did the same during Ararat rebellion against Turkey in 1930. Reza Shah's military victory over Kurdish and Turkic tribal leaders initiated a repressive era toward non-Iranian minorities.[164] Government's forced detribalization and sedentarization in 1920s and 1930s resulted with many other tribal revolts in Iranian regions of Azerbaijan, Luristan and Kurdistan.[165] In particular case of the Kurds, this repressive policies partly contributed to developing nationalism among some tribes.[166] , 20 March 2018]]
 
 As a response to growing Pan-Turkism and Pan-Arabism in region which were seen as potential threats to the territorial integrity of Iran, Pan-Iranist ideology has been developed in the early 1920s.[167] Some of such groups and journals openly advocated Iranian support to the Kurdish rebellion against Turkey.[168] Secular Pahlavi dynasty has endorsed Iranian ethnic nationalism[169] which seen the Kurds as integral part of the Iranian nation.[170] Mohammad Reza Pahlavi has personally praised the Kurds as "pure Iranians" or "one of the most noble Iranian peoples".[171] Another significant ideology during this period was Marxism which arose among Kurds under influence of USSR. It culminated in the Iran crisis of 1946 which included a separatist attempt of KDP-I and communist groups[172] to establish the Soviet puppet government[173][174][175] called Republic of Mahabad. It arose along with Azerbaijan People's Government, another Soviet puppet state.[176][177] The state itself encompassed a very small territory, including Mahabad and the adjacent cities, unable to incorporate the southern Iranian Kurdistan which fell inside the Anglo-American zone, and unable to attract the tribes outside Mahabad itself to the nationalist cause.[178] As a result, when the Soviets withdrew from Iran in December 1946, government forces were able to enter Mahabad unopposed.[179]
 
-Mohammad_Bagher_Ghalibaf.jpg, former Mayor of Tehran.[180]]]
+, former Mayor of Tehran.[180]]]
 
 Several nationalist and Marxist insurgencies continued for decades (1967, 1979, 1989–96) led by KDP-I and Komalah, but those two organization have never advocated a separate Kurdish state or greater Kurdistan as did the PKK in Turkey.[181][182][183][184] Still, many of dissident leaders, among others Qazi Muhammad and Abdul Rahman Ghassemlou, were executed or assassinated.[185] During Iran–Iraq War, Tehran has provided support for Iraqi-based Kurdish groups like KDP or PUK, along with asylum for 1,400,000 Iraqi refugees, mostly Kurds. Kurdish Marxist groups have been marginalized in Iran since the dissolution of the Soviet Union. In 2004 new insurrection started by PJAK, separatist organization affiliated with the Turkey-based PKK[186] and designated as terrorist by Iran, Turkey and the United States.[187] Some analysts claim PJAK do not pose any serious threat to the government of Iran.[188] Cease-fire has been established in September 2011 following the Iranian offensive on PJAK bases, but several clashes between PJAK and IRGC took place after it.[189] Since the Iranian Revolution of 1979, accusations of "discrimination" by Western organizations and of "foreign involvement" by Iranian side have become very frequent.[190]
 
@@ -176,23 +174,23 @@ Kurds have been well integrated in Iranian political life during reign of variou
 
 Iraq
 
-Jalal_Talabani_Rumsfeld_Rice_Khalilzad.jpg, meeting with U.S. officials in Baghdad, Iraq, on 26 April 2006.]]
+, meeting with U.S. officials in Baghdad, Iraq, on 26 April 2006.]]
 
 Kurds constitute approximately 17% of Iraq's population. They are the majority in at least three provinces in northern Iraq which are together known as Iraqi Kurdistan. Kurds also have a presence in Kirkuk, Mosul, Khanaqin, and Baghdad. Around 300,000 Kurds live in the Iraqi capital Baghdad, 50,000 in the city of Mosul and around 100,000 elsewhere in southern Iraq.[201]
 
 Kurds led by Mustafa Barzani were engaged in heavy fighting against successive Iraqi regimes from 1960 to 1975. In March 1970, Iraq announced a peace plan providing for Kurdish autonomy. The plan was to be implemented in four years.[202] However, at the same time, the Iraqi regime started an Arabization program in the oil-rich regions of Kirkuk and Khanaqin.[203] The peace agreement did not last long, and in 1974, the Iraqi government began a new offensive against the Kurds. Moreover, in March 1975, Iraq and Iran signed the Algiers Accord, according to which Iran cut supplies to Iraqi Kurds. Iraq started another wave of Arabization by moving Arabs to the oil fields in Kurdistan, particularly those around Kirkuk.[204] Between 1975 and 1978, 200,000 Kurds were deported to other parts of Iraq.[205]
 
-Children_puppy_sulaimania.jpg]] During the Iran–Iraq War in the 1980s, the regime implemented anti-Kurdish policies and a _de facto_ civil war broke out. Iraq was widely condemned by the international community, but was never seriously punished for oppressive measures such as the mass murder of hundreds of thousands of civilians, the wholesale destruction of thousands of villages and the deportation of thousands of Kurds to southern and central Iraq.
+]] During the Iran–Iraq War in the 1980s, the regime implemented anti-Kurdish policies and a _de facto_ civil war broke out. Iraq was widely condemned by the international community, but was never seriously punished for oppressive measures such as the mass murder of hundreds of thousands of civilians, the wholesale destruction of thousands of villages and the deportation of thousands of Kurds to southern and central Iraq.
 
 The genocidal campaign, conducted between 1986 and 1989 and culminating in 1988, carried out by the Iraqi government against the Kurdish population was called _Anfal_ ("Spoils of War"). The Anfal campaign led to destruction of over two thousand villages and killing of 182,000 Kurdish civilians.[206] The campaign included the use of ground offensives, aerial bombing, systematic destruction of settlements, mass deportation, firing squads, and chemical attacks, including the most infamous attack on the Kurdish town of Halabja in 1988 that killed 5000 civilians instantly.
 
-Kurdish_flags_at_the_pro-Kurdistan_referendum_and_pro-Kurdistan_independence_rally_at_Franso_Hariri_Stadiu,_Erbil,_Kurdistan_Region_of_Iraq_11.jpg in September 2017]] After the collapse of the Kurdish uprising in March 1991, Iraqi troops recaptured most of the Kurdish areas and 1.5 million Kurds abandoned their homes and fled to the Turkish and Iranian borders. It is estimated that close to 20,000 Kurds succumbed to death due to exhaustion, lack of food, exposure to cold and disease. On 5 April 1991, UN Security Council passed resolution 688 which condemned the repression of Iraqi Kurdish civilians and demanded that Iraq end its repressive measures and allow immediate access to international humanitarian organizations.[207] This was the first international document (since the League of Nations arbitration of Mosul in 1926) to mention Kurds by name. In mid-April, the Coalition established _safe havens_ inside Iraqi borders and prohibited Iraqi planes from flying north of 36th parallel.[208] In October 1991, Kurdish guerrillas captured Erbil and Sulaimaniyah after a series of clashes with Iraqi troops. In late October, Iraqi government retaliated by imposing a food and fuel embargo on the Kurds and stopping to pay civil servants in the Kurdish region. The embargo, however, backfired and Kurds held parliamentary elections in May 1992 and established Kurdistan Regional Government (KRG).[209]
+in September 2017]] After the collapse of the Kurdish uprising in March 1991, Iraqi troops recaptured most of the Kurdish areas and 1.5 million Kurds abandoned their homes and fled to the Turkish and Iranian borders. It is estimated that close to 20,000 Kurds succumbed to death due to exhaustion, lack of food, exposure to cold and disease. On 5 April 1991, UN Security Council passed resolution 688 which condemned the repression of Iraqi Kurdish civilians and demanded that Iraq end its repressive measures and allow immediate access to international humanitarian organizations.[207] This was the first international document (since the League of Nations arbitration of Mosul in 1926) to mention Kurds by name. In mid-April, the Coalition established _safe havens_ inside Iraqi borders and prohibited Iraqi planes from flying north of 36th parallel.[208] In October 1991, Kurdish guerrillas captured Erbil and Sulaimaniyah after a series of clashes with Iraqi troops. In late October, Iraqi government retaliated by imposing a food and fuel embargo on the Kurds and stopping to pay civil servants in the Kurdish region. The embargo, however, backfired and Kurds held parliamentary elections in May 1992 and established Kurdistan Regional Government (KRG).[209]
 
 The Kurdish population welcomed the American troops in 2003 by holding celebrations and dancing in the streets.[210][211][212][213] The area controlled by Peshmerga was expanded, and Kurds now have effective control in Kirkuk and parts of Mosul. The authority of the KRG and legality of its laws and regulations were recognized in the articles 113 and 137 of the new Iraqi Constitution ratified in 2005.[214] By the beginning of 2006, the two Kurdish administrations of Erbil and Sulaimaniya were unified. On 14 August 2007, Yazidis were targeted in a series of bombings that became the deadliest suicide attack since the Iraq War began, killing 796 civilians, wounding 1,562.[215]
 
 Syria
 
-Kurdish_YPG_Fighters_(15318975992).jpg and YPJ fighters in Syria]] PYD_checkpoint_Afrin_Syria.png militiaman manning a checkpoint in Afrin, Syria, during the Rojava conflict]]
+and YPJ fighters in Syria]] militiaman manning a checkpoint in Afrin, Syria, during the Rojava conflict]]
 
 Kurds account for 9% of Syria's population, a total of around 1.6 million people.[216] This makes them the largest ethnic minority in the country. They are mostly concentrated in the northeast and the north, but there are also significant Kurdish populations in Aleppo and Damascus. Kurds often speak Kurdish in public, unless all those present do not. According to Amnesty International, Kurdish human rights activists are mistreated and persecuted.[217] No political parties are allowed for any group, Kurdish or otherwise.
 
@@ -212,7 +210,7 @@ In 1920, two Kurdish-inhabited areas of Jewanshir (capital Kalbajar) and eastern
 
 Diaspora
 
-Chobani_President_and_CEO_Ulukaya_Delivers_Remarks_(7256160358).jpg, Kurdish-American billionaire, founder and CEO of Chobani.]]
+, Kurdish-American billionaire, founder and CEO of Chobani.]]
 
 According to a report by the Council of Europe, approximately 1.3 million Kurds live in Western Europe. The earliest immigrants were Kurds from Turkey, who settled in Germany, Austria, the Benelux countries, the United Kingdom, Switzerland and France during the 1960s. Successive periods of political and social turmoil in the region during the 1980s and 1990s brought new waves of Kurdish refugees, mostly from Iran and Iraq under Saddam Hussein, came to Europe.[227] In recent years, many Kurdish asylum seekers from both Iran and Iraq have settled in the United Kingdom (especially in the town of Dewsbury and in some northern areas of London), which has sometimes caused media controversy over their right to remain.[228] There have been tensions between Kurds and the established Muslim community in Dewsbury,[229][230] which is home to very traditional mosques such as the Markazi. Since the beginning of the turmoil in Syria many of the refugees of the Syrian Civil War are Syrian Kurds and as a result many of the current Syrian asylum seekers in Germany are of Kurdish descent.[231][232]
 
@@ -225,7 +223,7 @@ As a whole, the Kurdish people are adherents to a large number of different reli
 
 Islam
 
-Ashhadu_an_la_ilaha_illa_llah_(alif_highlighted).png - _"I testify that there is no god (ilah) but (the) God (Allah)"_, the creed of Islam.]]
+- _"I testify that there is no god (ilah) but (the) God (Allah)"_, the creed of Islam.]]
 
 Today, the majority of Kurds are Sunni Muslim, belonging to the Shafi school. The Kurdish following of the Shafi legal code has caused some tension when pushed up against Sunni Turks and Sunni Arabs who subscribe to the Hanafi legal code.
 
@@ -238,7 +236,7 @@ Retrieved 8 February 2018 who primarily living in the Ilam, Kermanshah
 
 Mystical practices and participation in Sufi orders are also widespread among Kurds,[246] with prominent Kurdish Sufi saints including Piryones.
 
-Dhulfiqar.svg, symbol for the Shia Muslims and Alevis.]]
+, symbol for the Shia Muslims and Alevis.]]
 
 Alevism
 
@@ -254,7 +252,7 @@ The Ahl-i Haqq consider the Bektashi and Alevi as kindred communities.[258]
 
 Yazidism
 
-Pilgrims_and_festival_at_Lalish_on_the_day_of_the_Ezidi_New_Year_in_2017_22.jpg, 18 April 2017]] Yazidism is another syncretic religion practiced among Kurdish communities, founded by Sheikh Adi ibn Musafir, a 12th-century mystic from Lebanon. Their numbers exceed 500,000, with some estimates numbering them at 1.2 million worldwide.[259][260][261] Its central religious texts are the Kitêba Cilwe and Meshaf Resh.
+, 18 April 2017]] Yazidism is another syncretic religion practiced among Kurdish communities, founded by Sheikh Adi ibn Musafir, a 12th-century mystic from Lebanon. Their numbers exceed 500,000, with some estimates numbering them at 1.2 million worldwide.[259][260][261] Its central religious texts are the Kitêba Cilwe and Meshaf Resh.
 
 According to Yazidi beliefs, God created the world but left it in the care of seven holy beings or angels. The most prominent angel is Melek Taus (Kurdish: _Tawûsê Melek_), the Peacock Angel, God's representative on earth. Yazidis believe in the periodic reincarnation of the seven holy beings in human form. Yazidis who marry non-Yazidis are automatically considered to be converted to the religion of their spouse and therefore are not permitted to call themselves Yazidis.[262][263]
 
@@ -262,7 +260,7 @@ They live primarily in Iraq's Nineveh Governorate. Their holiest shrine and the 
 
 Zoroastrianism
 
-Faravahar-Gold.svg (or Ferohar), one of the primary symbols of Zoroastrianism, believed to be the depiction of a _Fravashi_ (guardian spirit)]] The Iranian religion of Zoroastrianism has had a major influence on the Iranian culture, which Kurds are apart of, and has maintained some effect since the demise of the religion in the Middle Ages. The Iranian philosopher Sohrevardi drew heavily from Zoroastrian teachings.[265] Ascribed to the teachings of the prophet Zoroaster, the faith's Supreme Being is Ahura Mazda. Leading characteristics, such as messianism, the Golden Rule, heaven and hell, and free will influenced other religious systems, including Second Temple Judaism, Gnosticism, Christianity, and Islam.[266]
+(or Ferohar), one of the primary symbols of Zoroastrianism, believed to be the depiction of a _Fravashi_ (guardian spirit)]] The Iranian religion of Zoroastrianism has had a major influence on the Iranian culture, which Kurds are apart of, and has maintained some effect since the demise of the religion in the Middle Ages. The Iranian philosopher Sohrevardi drew heavily from Zoroastrian teachings.[265] Ascribed to the teachings of the prophet Zoroaster, the faith's Supreme Being is Ahura Mazda. Leading characteristics, such as messianism, the Golden Rule, heaven and hell, and free will influenced other religious systems, including Second Temple Judaism, Gnosticism, Christianity, and Islam.[266]
 
 In 2016, the first official Zoroastrian fire temple of Iraqi Kurdistan opened in Sulaymaniyah. Attendees celebrated the occasion by lighting a ritual fire and beating the frame drum or 'daf'.[267] Awat Tayib, the chief of followers of Zoroastrianism in the Kurdistan region, claimed that many were returning to Zoroastrianism but some kept it secret out of fear of reprisals from Islamists.[268]
 
@@ -275,7 +273,7 @@ Segments of the Bible were first made available in the Kurdish language in 1856 
 
 Culture
 
-Flag_of_Kurdistan.svg]]
+]]
 
 Kurdish culture is a legacy from the various ancient peoples who shaped modern Kurds and their society. As most other Middle Eastern populations, a high degree of mutual influences between the Kurds and their neighbouring peoples are apparent. Therefore, in Kurdish culture elements of various other cultures are to be seen. However, on the whole, Kurdish culture is closest to that of other Iranian peoples, in particular those who historically had the closest geographical proximity to the Kurds, such as the Persians and Lurs. Kurds, for instance, also celebrate Newroz (March 21) as New Year's Day.[274]
 
@@ -285,11 +283,11 @@ A madrasa system was used before the modern era.[275][276] Mele are Islamic cler
 
 Women
 
-YPJ_fighters_shake_hands_with_one_another.jpg's female fighters in Syria]] In general, Kurdish women's rights and equality have improved in the 20th and 21st century due to progressive movements within Kurdish society. However, despite the progress, Kurdish and international women's rights organizations still report problems related to gender equality, forced marriages, honor killings and in Iraqi Kurdistan also female genital mutilation (FGM).[278]
+'s female fighters in Syria]] In general, Kurdish women's rights and equality have improved in the 20th and 21st century due to progressive movements within Kurdish society. However, despite the progress, Kurdish and international women's rights organizations still report problems related to gender equality, forced marriages, honor killings and in Iraqi Kurdistan also female genital mutilation (FGM).[278]
 
 Folklore and mythology
 
-Vulpes_vulpes_at_Eshel_HaNasi4,_israel.jpg; a widely recurring character in Kurdish tales]]
+; a widely recurring character in Kurdish tales]]
 
 The Kurds possess a rich tradition of folklore, which, until recent times, was largely transmitted by speech or song, from one generation to the next. Although some of the Kurdish writers' stories were well known throughout Kurdistan; most of the stories told and sung were only written down in the 20th and 21st century. Many of these are, allegedly, centuries old.
 
@@ -305,7 +303,7 @@ During the criminalization of the Kurdish language after the coup d'état of 198
 
 Weaving
 
-Modern_Bidjar_rug.jpg]]
+]]
 
 Kurdish weaving is renowned throughout the world, with fine specimens of both rugs and bags. The most famous Kurdish rugs are those from the Bijar region, in the Kurdistan Province. Because of the unique way in which the Bijar rugs are woven, they are very stout and durable, hence their appellation as the 'Iron Rugs of Persia'. Exhibiting a wide variety, the Bijar rugs have patterns ranging from floral designs, medallions and animals to other ornaments. They generally have two wefts, and are very colorful in design.[286] With an increased interest in these rugs in the last century, and a lesser need for them to be as sturdy as they were, new Bijar rugs are more refined and delicate in design.
 
@@ -315,7 +313,7 @@ Kurdish bags are mainly known from the works of one large tribe: the Jaffs, livi
 
 Handicrafts
 
-KurdishNoble.jpg dagger]]
+dagger]]
 
 Outside of weaving and clothing, there are many other Kurdish handicrafts, which were traditionally often crafted by nomadic Kurdish tribes. These are especially well known in Iran, most notably the crafts from the Kermanshah and Sanandaj regions. Among these crafts are chess boards, talismans, jewelry, ornaments, weaponry, instruments etc.
 
@@ -335,13 +333,13 @@ The popularity of permanent, traditional tattoos has greatly diminished among ne
 
 Music and dance
 
-Kurdish_musicians_1890.jpg Traditionally, there are three types of Kurdish classical performers: storytellers (_çîrokbêj_), minstrels (_stranbêj_), and bards (_dengbêj_). No specific music was associated with the Kurdish princely courts. Instead, music performed in night gatherings (_şevbihêrk_) is considered classical. Several musical forms are found in this genre. Many songs are epic in nature, such as the popular _Lawiks_, heroic ballads recounting the tales of Kurdish heroes such as Saladin. _Heyrans_ are love ballads usually expressing the melancholy of separation and unfulfilled love, one of the first Kurdish female singers to sing heyrans is Chopy Fatah, while _Lawje_ is a form of religious music and _Payizoks_ are songs performed during the autumn. Love songs, dance music, wedding and other celebratory songs (_dîlok/narînk_), erotic poetry, and work songs are also popular.
+Traditionally, there are three types of Kurdish classical performers: storytellers (_çîrokbêj_), minstrels (_stranbêj_), and bards (_dengbêj_). No specific music was associated with the Kurdish princely courts. Instead, music performed in night gatherings (_şevbihêrk_) is considered classical. Several musical forms are found in this genre. Many songs are epic in nature, such as the popular _Lawiks_, heroic ballads recounting the tales of Kurdish heroes such as Saladin. _Heyrans_ are love ballads usually expressing the melancholy of separation and unfulfilled love, one of the first Kurdish female singers to sing heyrans is Chopy Fatah, while _Lawje_ is a form of religious music and _Payizoks_ are songs performed during the autumn. Love songs, dance music, wedding and other celebratory songs (_dîlok/narînk_), erotic poetry, and work songs are also popular.
 
 Throughout the Middle East, there are many prominent Kurdish artists. Most famous are Ibrahim Tatlises, Nizamettin Arıç, Ahmet Kaya and the Kamkars. In Europe, well-known artists are Darin Zanyar, Sivan Perwer, and Azad.
 
 Cinema
 
-BahmanGhobadi2009.JPG at the presentation of his film _Nobody Knows About Persian Cats_ in San Sebastián, 2009]]
+at the presentation of his film _Nobody Knows About Persian Cats_ in San Sebastián, 2009]]
 
 The main themes of Kurdish Cinema are the poverty and hardship which ordinary Kurds have to endure. The first films featuring Kurdish culture were actually shot in Armenia. Zare, released in 1927, produced by Hamo Beknazarian, details the story of Zare and her love for the shepherd Seydo, and the difficulties the two experience by the hand of the village elder.[294] In 1948 and 1959, two documentaries were made concerning the Yezidi Kurds in Armenia. These were joint Armenian-Kurdish productions; with H. Koçaryan and Heciye Cindi teaming up for _The Kurds of Soviet Armenia_,[295] and Ereb Samilov and C. Jamharyan for _Kurds of Armenia_.[296]
 
@@ -353,7 +351,7 @@ Other prominent Kurdish film directors that are critically acclaimed include Mah
 
 Sports
 
-080603_Derdiyok.jpg, the most famous contemporary Kurdish footballer, striker for the Swiss national football team]]
+, the most famous contemporary Kurdish footballer, striker for the Swiss national football team]]
 
 The most popular sport among the Kurds is football. Because the Kurds have no independent state, they have no representative team in FIFA or the AFC; however a team representing Iraqi Kurdistan has been active in the Viva World Cup since 2008. They became runners-up in 2009 and 2010, before ultimately becoming champion in 2012.
 
@@ -373,7 +371,7 @@ Kurdish medalists in the 2012 Summer Olympics were Nur Tatar,[304] Kianoush Rost
 
 Architecture
 
-OnGozluBridge.jpg Dicle Bridge, Diyarbakir]] Krak_des_Chevaliers,_NW_Syria_-_3.jpg, originally a Kurdish dwelling place known as Hisn al-Akrad (Castle of the Kurds), west of Homs]] Arbil_Citadel.jpg]] The traditional Kurdish village has simple houses, made of mud. In most cases with flat, wooden roofs, and, if the village is built on the slope of a mountain, the roof on one house makes for the garden of the house one level higher. However, houses with a beehive-like roof, not unlike those in Harran, are also present.
+Dicle Bridge, Diyarbakir]] , originally a Kurdish dwelling place known as Hisn al-Akrad (Castle of the Kurds), west of Homs]] ]] The traditional Kurdish village has simple houses, made of mud. In most cases with flat, wooden roofs, and, if the village is built on the slope of a mountain, the roof on one house makes for the garden of the house one level higher. However, houses with a beehive-like roof, not unlike those in Harran, are also present.
 
 Over the centuries many Kurdish architectural marvels have been erected, with varying styles. Kurdistan boasts many examples from ancient Iranic, Roman, Greek and Semitic origin, most famous of these include Bisotun and Taq-e Bostan in Kermanshah, Takht-e Soleyman near Takab, Mount Nemrud near Adiyaman and the citadels of Erbil and Diyarbakir.
 

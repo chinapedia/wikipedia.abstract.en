@@ -1,4 +1,4 @@
-2006Mauritanian_exports.PNG A majority of the population of Mauritania depends on agriculture and livestock for a livelihood, even though most of the nomads and many subsistence farmers were forced into the cities by recurrent droughts in the 1970s and 1980s.
+A majority of the population of Mauritania depends on agriculture and livestock for a livelihood, even though most of the nomads and many subsistence farmers were forced into the cities by recurrent droughts in the 1970s and 1980s.
 
 Mauritania has extensive deposits of iron ore, which account for almost 50% of total exports. The decline in world demand for this ore, however, has led to cutbacks in production. With the current rise in metal prices, gold and copper mining companies are opening mines in the interior.
 

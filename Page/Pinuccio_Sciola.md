@@ -1,4 +1,4 @@
-Pinuccio_Sciola_2014.jpg PINUCCIO SCIOLA (15 March 1942 – 13 May 2016) was an Italian sculptor and muralist from San Sperate, Sardinia.[1] His work has been mentioned as a major attraction of the nearby town of Assemini.[2] His work has also been exhibited in Alghero.[3]
+PINUCCIO SCIOLA (15 March 1942 – 13 May 2016) was an Italian sculptor and muralist from San Sperate, Sardinia.[1] His work has been mentioned as a major attraction of the nearby town of Assemini.[2] His work has also been exhibited in Alghero.[3]
 
 Forms in which he worked include _pietre sonore_ or "sounding stones": large sculptures (mainly limestones or basalts) that resonate when rubbed by human hands or small rocks.[4][5]
 

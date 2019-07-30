@@ -21,7 +21,7 @@ Andrewes liked to move among the people, yet found time to join a society of ant
 
 During the reign of James I
 
-Lancelot_Andrewes_by_Simon_de_Passe_1618.jpg. Engraving]] On the accession of James I, to whom his somewhat pedantic style of preaching recommended him, Andrewes rose into great favour. He assisted at James's coronation, and in 1604 took part in the Hampton Court Conference.
+. Engraving]] On the accession of James I, to whom his somewhat pedantic style of preaching recommended him, Andrewes rose into great favour. He assisted at James's coronation, and in 1604 took part in the Hampton Court Conference.
 
 Andrewes' name is the first on the list of divines appointed to compile the _Authorized Version_ of the Bible. He headed the "First Westminster Company" which took charge of the first books of the Old Testament (Genesis to 2 Kings). He acted, furthermore, as a sort of general editor for the project as well.
 
@@ -32,7 +32,7 @@ In 1617 he accompanied James I to Scotland with a view to persuading the Scots t
 
 Legacy
 
-Wenceslas_Hollar_-_Lancelot_Andrewes_(State_1).jpg Memorial_to_Lancelot_Andrewes_in_Winchester_Cathedral.jpg]] Two generations later, Richard Crashaw caught up the universal sentiment, when in his lines "Upon Bishop Andrewes' Picture before his Sermons" he exclaims:
+]] Two generations later, Richard Crashaw caught up the universal sentiment, when in his lines "Upon Bishop Andrewes' Picture before his Sermons" he exclaims:
 
 
 
@@ -49,7 +49,7 @@ Andrewes was a friend of Hugo Grotius, and one of the foremost contemporary scho
 
   By the same rules that the Passover was, by the same may ours be termed a sacrifice. In rigour of speech, neither of them; for to speak after the exact manner of divinity, there is but one only sacrifice, _veri nominis_, that is Christ's death. And that sacrifice but once actually performed at His death, but ever before represented in figure, from the beginning; and ever since repeated in memory to the world's end. That only absolute, all else relative to it, representative of it, operative by it ... Hence it is that what names theirs carried, ours do the like, and the Fathers make no scruple at it—no more need we.(_Sermons,_ vol. ii. p. 300).
 
-Lancelot_Andrewes_(Stained_glass,_Chester_Cathedral).JPG]]
+]]
 
 Andrewes preached regularly and submissively before James I and his court on the anniversaries of the Gowrie Conspiracy and the Gunpowder Plot. These sermons were used to promulgate the doctrine of the Divine Right of Kings.
 

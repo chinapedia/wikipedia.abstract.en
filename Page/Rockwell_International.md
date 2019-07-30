@@ -1,5 +1,3 @@
-28thog-b1-b-2.jpg
-
 ROCKWELL INTERNATIONAL was a major American manufacturing conglomerate in the latter half of the 20th century, involved in aircraft, the space industry, both defense-oriented and commercial electronics, automotive and truck components, printing presses, power tools, valves and meters, and industrial automation. Rockwell ultimately became a group of companies founded by Colonel Willard Rockwell. At its peak in the 1990s, Rockwell International was No. 27 on the _Fortune_ 500 list, with assets of over $8 billion, sales of $27 billion and 115,000 employees.
 
 
@@ -13,7 +11,7 @@ In 1945, Rockwell Manufacturing Company acquired Delta Machinery and renamed it 
 
 In 1956, Rockwell Manufacturing Co. bought Walker-Turner from Kearney and Trecker. In 1957, Walker-Turner operations were closed down in Plainfield, New Jersey and moved to Bellefontaine, Ohio and Tupelo, Mississippi.[3]
 
-Timken-Detroit merged in 1953 with the Standard Steel Spring Company, forming the Rockwell Spring and Axle Company.[4] After various mergers with automotive suppliers, it comprised about 10 to 20 factories in the Upper Midwestern U.S. and southern Ontario, and in 1958 renamed itself Rockwell-Standard Corporation.[5] N6081F_Rockwell_Commander_114_(26570335562).jpg Pittsburgh-based Rockwell Standard then acquired and merged with Los Angeles-based North American Aviation to form NORTH AMERICAN ROCKWELL in September 1967.[6] It then purchased Miehle-Goss-Dexter, the largest supplier of printing presses,[7] and in 1973, acquired Collins Radio, a major avionics supplier.[8]
+Timken-Detroit merged in 1953 with the Standard Steel Spring Company, forming the Rockwell Spring and Axle Company.[4] After various mergers with automotive suppliers, it comprised about 10 to 20 factories in the Upper Midwestern U.S. and southern Ontario, and in 1958 renamed itself Rockwell-Standard Corporation.[5] Pittsburgh-based Rockwell Standard then acquired and merged with Los Angeles-based North American Aviation to form NORTH AMERICAN ROCKWELL in September 1967.[6] It then purchased Miehle-Goss-Dexter, the largest supplier of printing presses,[7] and in 1973, acquired Collins Radio, a major avionics supplier.[8]
 
 In 1968, Sterling Faucet Company was bought by Rockwell Manufacturing Co. and it became a subsidiary of the company for the following years.[9]
 

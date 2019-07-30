@@ -1,4 +1,4 @@
-Radio_Row-Berenice_Abbott.jpg station in the background, as seen in a photograph by Berenice Abbott]] Crowds_listening_for_news_on_Kennedy_NYWTS.jpg's assassination in 1963.]] Argo_Sidewalk_jeh1.JPG
+station in the background, as seen in a photograph by Berenice Abbott]] 's assassination in 1963.]]
 
 RADIO ROW is a nickname for an urban street or district specializing in the sale of radio and electronic equipment and parts. Radio Rows arose in many cities with the 1920s rise of broadcasting and declined after the middle of the 20th century.
 
@@ -58,7 +58,7 @@ In the second half of the 20th century and early 21st century, various Asian cit
 
 Alternate meaning
 
-Pat_Kirwan,_JJ_Watt,_Jim_Miller,_Feb_2019.jpg Radio Row, 2019]] Radio Row may also refer to a large grouping of sports talk radio stations that broadcast from the Super Bowl media center during the week before the annual major football game.[13]
+Radio Row, 2019]] Radio Row may also refer to a large grouping of sports talk radio stations that broadcast from the Super Bowl media center during the week before the annual major football game.[13]
 
 
 See also

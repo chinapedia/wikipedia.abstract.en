@@ -19,15 +19,11 @@ Restriction enzymes likely evolved from a common ancestor and became widespread 
 
 Recognition site
 
-EcoRV_Restriction_Site.rsh.svg Restriction enzymes recognize a specific sequence of nucleotides[29] and produce a double-stranded cut in the DNA. The recognition sequences can also be classified by the number of bases in its recognition site, usually between 4 and 8 bases, and the number of bases in the sequence will determine how often the site will appear by chance in any given genome, e.g., a 4-base pair sequence would theoretically occur once every 4^4 or 256bp, 6 bases, 4^6 or 4,096bp, and 8 bases would be 4^8 or 65,536bp.[30]Restriction Map Many of them are palindromic, meaning the base sequence reads the same backwards and forwards.[31] In theory, there are two types of palindromic sequences that can be possible in DNA. The _mirror-like_ palindrome is similar to those found in ordinary text, in which a sequence reads the same forward and backward on a single strand of DNA, as in GTAATG. The _inverted repeat_ palindrome is also a sequence that reads the same forward and backward, but the forward and backward sequences are found in complementary DNA strands (i.e., of double-stranded DNA), as in GTATAC (GTATAC being complementary to CATATG).[32] Inverted repeat palindromes are more common and have greater biological importance than mirror-like palindromes.
+Restriction enzymes recognize a specific sequence of nucleotides[29] and produce a double-stranded cut in the DNA. The recognition sequences can also be classified by the number of bases in its recognition site, usually between 4 and 8 bases, and the number of bases in the sequence will determine how often the site will appear by chance in any given genome, e.g., a 4-base pair sequence would theoretically occur once every 4^4 or 256bp, 6 bases, 4^6 or 4,096bp, and 8 bases would be 4^8 or 65,536bp.[30]Restriction Map Many of them are palindromic, meaning the base sequence reads the same backwards and forwards.[31] In theory, there are two types of palindromic sequences that can be possible in DNA. The _mirror-like_ palindrome is similar to those found in ordinary text, in which a sequence reads the same forward and backward on a single strand of DNA, as in GTAATG. The _inverted repeat_ palindrome is also a sequence that reads the same forward and backward, but the forward and backward sequences are found in complementary DNA strands (i.e., of double-stranded DNA), as in GTATAC (GTATAC being complementary to CATATG).[32] Inverted repeat palindromes are more common and have greater biological importance than mirror-like palindromes.
 
 EcoRI digestion produces "sticky" ends,
 
-EcoRI_restriction_enzyme_recognition_site.svg
-
 whereas SmaI restriction enzyme cleavage produces "blunt" ends:
-
-SmaI_restriction_enzyme_recognition_site.svg
 
 Recognition sequences in DNA differ for each restriction enzyme, producing differences in the length, sequence and strand orientation (5' end or 3' end) of a sticky-end "overhang" of an enzyme restriction.[33]
 

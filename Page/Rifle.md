@@ -5,7 +5,7 @@ Like all typical firearms, a rifle's projectile (bullet) is propelled by the con
 
 Terminology
 
-Garandparts.jpg rifle, World War II era, from US Army field manual]] Historically, rifles only fired a single projectile with each squeeze of the trigger. Modern rifles are commonly classified as single shot, bolt action, semi-automatic, or automatic. Single shot, bolt action, and semi-automatic rifles are limited by their designs to fire a single shot for each trigger pull. Only automatic rifles are capable of firing more than one round per trigger squeeze; however, some automatic rifles are limited to fixed bursts of two, three, or more rounds per squeeze.
+rifle, World War II era, from US Army field manual]] Historically, rifles only fired a single projectile with each squeeze of the trigger. Modern rifles are commonly classified as single shot, bolt action, semi-automatic, or automatic. Single shot, bolt action, and semi-automatic rifles are limited by their designs to fire a single shot for each trigger pull. Only automatic rifles are capable of firing more than one round per trigger squeeze; however, some automatic rifles are limited to fixed bursts of two, three, or more rounds per squeeze.
 
 Modern automatic rifles overlap to some extent in design and function with machine guns. In fact, many light machine guns (such as the Russian RPK) are adaptations of existing automatic rifle designs. A military's light machine guns are typically chambered for the same caliber ammunition as its service rifles. Generally, the difference between an automatic rifle and a machine gun comes down to weight, cooling system, and ammunition feed system. Rifles, with their relatively lighter components (which overheat quickly) and smaller capacity magazines, are incapable of sustained automatic fire in the way that machine guns are; they trade this capability in favor of increased mobility. Modern military rifles are fed by magazines, while machine guns are generally belt-fed. Many machine guns allow the operator to quickly exchange barrels in order to prevent overheating, whereas rifles generally do not. Most machine guns fire from an open bolt in order to reduce the danger of "cook-off", while almost all rifles fire from a closed bolt for accuracy. Machine guns are often crewed by more than one soldier; the rifle is an individual weapon.
 
@@ -16,7 +16,7 @@ In many works of fiction a rifle refers to any weapon that has a stock and is sh
 
 Historical overview
 
-Marlin_35_rem_2.jpg microgroove rifled barrel]] Girdled_bullet_and_twin_rifle_groove.jpg, mid-19th century]]
+microgroove rifled barrel]] , mid-19th century]]
 
 The origins of rifling are difficult to trace, but some of the earliest practical experiments seem to have occurred in Europe during the 15th century. Archers had long realized that a twist added to the tail feathers of their arrows gave them greater accuracy. Early muskets produced large quantities of smoke and soot, which had to be cleaned from the action and bore of the musket frequently, either through the action of repeated bore scrubbing, or a deliberate attempt to create "soot grooves" that would allow for more shots to be fired from the firearm. This might also have led to a perceived increase in accuracy, although no one knows for sure. True rifling dates from the mid-15th century, although military commanders preferred smooth bore weapons for infantry use because rifles were much more prone to problems due to powder fouling the barrel and because they took longer to reload and fire than muskets.
 
@@ -49,7 +49,7 @@ Muzzle-loading
 
 Gradually, rifles appeared with cylindrical barrels cut with helical grooves, the surfaces between the grooves being "lands". The innovation shortly preceded the mass adoption of breech-loading weapons, as it was not practical to push an overbore bullet down through a rifled barrel, only to then (try to) fire it back out. The dirt and grime from prior shots was pushed down ahead of a tight bullet or ball (which may have been a loose fit in the clean barrel before the first shot), and loading was far more difficult, as the lead had to be deformed to go down in the first place, reducing the accuracy due to deformation. Several systems were tried to deal with the problem, usually by resorting to an under-bore bullet that expanded upon firing.
 
-Delvigne_system.jpg for his rifles, with the lead bullet being supported by a wooden sabot at its base.]]
+for his rifles, with the lead bullet being supported by a wooden sabot at its base.]]
 
 The original muzzle-loading rifle, with a closely fitting ball to take the rifling grooves, was loaded with difficulty, particularly when foul, and for this reason was not generally used for military purposes. Even with the advent of rifling the bullet itself didn't change, but was wrapped in a greased, cloth patch to grip the rifling grooves.
 
@@ -59,7 +59,7 @@ Soon after, the Carabine à tige was invented by Louis-Etienne de Thouvenin, whi
 
 Minié system – the "rifled musket"
 
-Japanese_Minie_rifle(Mirror).jpg used in Japan during the Boshin war (1868–1869).]]
+used in Japan during the Boshin war (1868–1869).]]
 
 One of the most famous was the Minié system, invented by French Army Captain Claude-Étienne Minié, which relied on a conical bullet (known as a Minié ball) with a hollow skirt at the base of the bullet. When fired, the skirt would expand from the pressure of the exploding charge and grip the rifling as the round was fired. The better seal gave more power, as less gas escaped past the bullet, which combined with the fact that for the same bore (caliber) diameter a long bullet was heavier than a round ball. The extra grip also spun the bullet more consistently, which increased the range from about 50 yards for a smooth bore musket to about 300 yards for a rifle using the Minié system. The expanding skirt of the Minié ball also solved the problem that earlier tight fitting bullets were difficult to load as black powder residue fouled the inside of the barrel. The Minié system allowed conical bullets to be loaded into rifles just as quickly as round balls in smooth bores, which allowed rifle muskets to replace muskets on the battlefield. Minié system rifles, notably the U.S. Springfield and the British Enfield of the early 1860s, featured prominently in the U.S. Civil War, due to their enhanced power and accuracy.
 
@@ -69,13 +69,13 @@ The increased velocity meant that new problems arrived, and so bullets went from
 
 Breech loading
 
-Chassepot-p1000739.jpg]]
+]]
 
 From 1836, breech-loading rifles were introduced with the German Dreyse Needle gun, and followed by the French Tabatière in 1857 the British Calisher and Terry carbine made in Birmingham and later in 1864 and the more well known British Snider–Enfield. Primitive chamber-locking mechanisms were soon replaced by bolt-action mechanisms, exemplified by the Chassepot in 1866. Breech loading was to have a major impact on warfare, as breech-loading rifles can be fired at a rate many times higher than muzzle loaded rifles and significantly can be loaded from a prone rather than standing position. Firing prone (i.e., lying down) is more accurate than firing from a standing position, and a prone rifleman presents a much smaller target than a standing soldier. The higher accuracy and range, combined with reduced vulnerability generally benefited the defense while making the traditional battle between lines of standing and volleying infantry men obsolete.
 
 Revolving rifle
 
-Colt_Roots_British_Carbine.JPG Revolving rifles were an attempt to increase the rate of fire of rifles by combining them with the revolving firing mechanism that had been developed earlier for revolving pistols. Colt began experimenting with revolving rifles in the early 19th century, and other manufacturers like Remington later experimented with them as well. The Colt Revolving Rifle Model 1855 was an early repeating rifle and the first one to be used by the U.S. Government, and saw some limited action during the American Civil War. Revolvers, both rifles and pistols, tend to spray fragments of metal from the front of the cylinder.
+Revolving rifles were an attempt to increase the rate of fire of rifles by combining them with the revolving firing mechanism that had been developed earlier for revolving pistols. Colt began experimenting with revolving rifles in the early 19th century, and other manufacturers like Remington later experimented with them as well. The Colt Revolving Rifle Model 1855 was an early repeating rifle and the first one to be used by the U.S. Government, and saw some limited action during the American Civil War. Revolvers, both rifles and pistols, tend to spray fragments of metal from the front of the cylinder.
 
 Repeating rifle
 
@@ -88,8 +88,6 @@ An important area of development was the way that cartridges were stored and use
 
 20th century
 
-Vz24.jpg
-
 In the Russo-Japanese War of 1904–1905, military observers from Europe and the United States witnessed a major conflict fought with high velocity bolt-action rifles firing smokeless powder.[9][10] The Battle of Mukden fought in 1905 consisted of nearly 343,000 Russian troops against over 281,000 Japanese troops. The Russian Mosin–Nagant Model 1891 in 7.62mm was pitted against the Japanese Arisaka Type 30 bolt-action rifle in 6.5mm,[11] each had velocities well over the 19th century black powder velocities of under 2,000 feet per second (610 m/s).[12][13]
 
 Until the late 19th century rifles tended to be very long, some rifles reaching approximately 2 m (6 ft) in length (see long rifle) to maximize accuracy, making early rifles impractical for use by cavalry. However, following the advent of more powerful smokeless powder, a shorter barrel did not impair accuracy as much. As a result, cavalry saw limited, but noteworthy, usage in 20th century conflicts.
@@ -98,11 +96,9 @@ The advent of massed, rapid firepower of the machine gun, submachine gun and the
 
 The M1 Garand was a semi-automatic rapid-fire rifle developed for modern warfare use in World War II.[14]
 
-Modern_Hunting_Rifle.jpg
-
 During and after World War II it became accepted that most infantry engagements occur at ranges of less than 300 m; the range and power of the large full-powered rifle cartridges were "overkill"; and thus the weapons were heavier than ideal. This led to Germany's development of the 7.92×33mm _Kurz_ (short) round, the MKb-42, and ultimately, the assault rifle. Today, an infantryman's rifle is optimized for ranges of 300 m or less, and soldiers are trained to deliver individual rounds or bursts of fire within these distances. Typically, the application of accurate, long-range fire is the domain of the marksman and the sniper in warfare, and of enthusiastic target shooters in peacetime. The modern marksman rifle and sniper rifle are usually capable of accuracy better than 0.3 mrad at 100 yards (1 arcminute).
 
-Blaser-R8-Profesional.png Professional]]
+Professional]]
 
 
 3D printed rifle
@@ -127,7 +123,7 @@ Some early rifled guns had barrels with a twisted polygonal bore. The Whitworth 
 
 Barrel wear
 
-Benchrest_mauser_rifle.jpg with a Mauser rifle]]
+with a Mauser rifle]]
 
 As the bullet enters the barrel, it inserts itself into the rifling, a process that gradually wears down the barrel, and also causes the barrel to heat up more rapidly. Therefore, some machine guns are equipped with quick-change barrels that can be swapped every few thousand rounds, or in earlier designs, were water-cooled. Unlike older carbon steel barrels, which were limited to around 1,000 shots before the extreme heat caused accuracy to fade, modern stainless steel barrels for target rifles are much more resistant to wear, allowing many thousands of rounds to be fired before accuracy drops. (Many shotguns and small arms have chrome-lined barrels to reduce wear and enhance corrosion resistance. This is rare on rifles designed for extreme accuracy, as the plating process is difficult and liable to reduce the effect of the rifling.) Modern ammunition has a hardened lead core with a softer outer cladding or jacket, typically of an alloy of copper and nickel – cupro-nickel. Some ammunition is even coated with molybdenum disulfide to further reduce internal friction – the so-called 'moly-coated' bullet.[22]
 

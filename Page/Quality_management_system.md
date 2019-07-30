@@ -41,7 +41,7 @@ Quality System requirements for medical devices have been internationally recogn
 
 According to current Good Manufacturing Practice (GMP), medical device manufacturers have the responsibility to use good judgment when developing their quality system and apply those sections of the FDA Quality System (QS) Regulation that are applicable to their specific products and operations, in Part 820 of the QS regulation. As with GMP, operating within this flexibility, it is the responsibility of each manufacturer to establish requirements for each type or family of devices that will result in devices that are safe and effective, and to establish methods and procedures to design, produce, and distribute devices that meet the quality system requirements.
 
-The FDA has identified in the QS regulation the 7 essential subsystems of a quality system. These subsystems include: Qualsystem1.png
+The FDA has identified in the QS regulation the 7 essential subsystems of a quality system. These subsystems include:
 
 -   Management controls;
 -   Design controls;

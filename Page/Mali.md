@@ -16,7 +16,7 @@ Another theory suggests that _Mali_ is a Fulani pronunciation of the name of the
 
 History
 
-The extent of the Mali Empire's peak|thumb|left The pages above are from Timbuktu Manuscripts written in Sudani script (a form of Arabic) from the Mali Empire showing established knowledge of astronomy and mathematics. Today there are close to a million of these manuscripts found in Timbuktu alone.|thumb|left GriotsSambala.jpgs of Sambala, king of Médina (Fula people, Mali), 1890]]
+s of Sambala, king of Médina (Fula people, Mali), 1890]]
 
 Mali was once part of three famed West African empires which controlled trans-Saharan trade in gold, salt, slaves, and other precious commodities.[17] These Sahelian kingdoms had neither rigid geopolitical boundaries nor rigid ethnic identities.[18] The earliest of these empires was the Ghana Empire, which was dominated by the Soninke, a Mande-speaking people.[19] The empire expanded throughout West Africa from the 8th century until 1078, when it was conquered by the Almoravids.[20]
 
@@ -28,7 +28,7 @@ One of the worst famines in the region's recorded history occurred in the 18th c
 
 French colonial rule
 
-Africa._French_West_Africa._Currently_the_most_important_efforts_of_the_Office_du_Niger_are_directed_toward_the..._-_NARA_-_541637.tif into bales for export to other parts of Africa and to France, ]] Mali fell under the control of France during the late 19th century.[30] By 1905, most of the area was under firm French control as a part of French Sudan.[31] In early 1959, French Sudan (which changed its name to the Sudanese Republic) and Senegal united to become the Mali Federation. The Mali Federation gained independence from France on 20 June 1960.[32]
+into bales for export to other parts of Africa and to France, ]] Mali fell under the control of France during the late 19th century.[30] By 1905, most of the area was under firm French control as a part of French Sudan.[31] In early 1959, French Sudan (which changed its name to the Sudanese Republic) and Senegal united to become the Mali Federation. The Mali Federation gained independence from France on 20 June 1960.[32]
 
 Senegal withdrew from the federation in August 1960, which allowed the Sudanese Republic to become the independent Republic of Mali on 22 September 1960, and that date is now the country's Independence Day.[33] Modibo Keïta was elected the first president.[34] Keïta quickly established a one-party state, adopted an independent African and socialist orientation with close ties to the East, and implemented extensive nationalization of economic resources.[35] In 1960, the population of Mali was reported to be about 4.1 million.[36]
 
@@ -36,7 +36,7 @@ Moussa Traoré
 
 On 19 November 1968, following progressive economic decline, the Keïta regime was overthrown in a bloodless military coup led by Moussa Traoré,[37] a day which is now commemorated as Liberation Day.[38] The subsequent military-led regime, with Traoré as president, attempted to reform the economy. His efforts were frustrated by political turmoil and a devastating drought between 1968 and 1974,[39] in which famine killed thousands of people.[40] The Traoré regime faced student unrest beginning in the late 1970s and three coup attempts. The Traoré regime repressed all dissenters until the late 1980s.[41]
 
-The government continued to attempt economic reforms, and the populace became increasingly dissatisfied.[42] In response to growing demands for multi-party democracy, the Traoré regime allowed some limited political liberalization. They refused to usher in a full-fledged democratic system.[43] In 1990, cohesive opposition movements began to emerge, and was complicated by the turbulent rise of ethnic violence in the north following the return of many Tuaregs to Mali.[44] Place_de_la_liberté_-_Bamako.jpg
+The government continued to attempt economic reforms, and the populace became increasingly dissatisfied.[42] In response to growing demands for multi-party democracy, the Traoré regime allowed some limited political liberalization. They refused to usher in a full-fledged democratic system.[43] In 1990, cohesive opposition movements began to emerge, and was complicated by the turbulent rise of ethnic violence in the north following the return of many Tuaregs to Mali.[44]
 
 Anti-government protests in 1991 led to a coup, a transitional government, and a new constitution.[45] Opposition to the corrupt and dictatorial regime of General Moussa Traoré grew during the 1980s. During this time strict programs, imposed to satisfy demands of the International Monetary Fund, brought increased hardship upon the country's population, while elites close to the government supposedly lived in growing wealth. Peaceful student protests in January 1991 were brutally suppressed, with mass arrests and torture of leaders and participants.[46] Scattered acts of rioting and vandalism of public buildings followed, but most actions by the dissidents remained nonviolent.[47]
 
@@ -56,7 +56,7 @@ Slavery persists in Mali today with as many as 200,000 people held in direct ser
 
 Northern Mali conflict
 
-Le_Mali_confronté_aux_sanctions_et_à_lavancée_des_rebelles_islamistes_(6904946068).jpg In January 2012 a Tuareg rebellion began in Northern Mali, led by the National Movement for the Liberation of Azawad (MNLA).[55] In March, military officer Amadou Sanogo seized power in a coup d'état, citing Touré's failures in quelling the rebellion, and leading to sanctions and an embargo by the Economic Community of West African States.[56] The MNLA quickly took control of the north, declaring independence as Azawad.[57] However, Islamist groups including Ansar Dine and Al-Qaeda in the Islamic Maghreb (AQIM), who had helped the MNLA defeat the government, turned on the Tuareg and took control of the North[58] with the goal of implementing sharia in Mali.[59][60]
+In January 2012 a Tuareg rebellion began in Northern Mali, led by the National Movement for the Liberation of Azawad (MNLA).[55] In March, military officer Amadou Sanogo seized power in a coup d'état, citing Touré's failures in quelling the rebellion, and leading to sanctions and an embargo by the Economic Community of West African States.[56] The MNLA quickly took control of the north, declaring independence as Azawad.[57] However, Islamist groups including Ansar Dine and Al-Qaeda in the Islamic Maghreb (AQIM), who had helped the MNLA defeat the government, turned on the Tuareg and took control of the North[58] with the goal of implementing sharia in Mali.[59][60]
 
 On 11 January 2013, the French Armed Forces intervened at the request of the interim government. On 30 January, the coordinated advance of the French and Malian troops claimed to have retaken the last remaining Islamist stronghold of Kidal, which was also the last of three northern provincial capitals.[61] On 2 February, the French President, François Hollande, joined Mali's interim President, Dioncounda Traoré, in a public appearance in recently recaptured Timbuktu.[62]
 
@@ -77,7 +77,7 @@ The UN Special Adviser on the Prevention of Genocide, Adama Dieng, warned of a g
 
 Geography
 
-Satellite image of Mali Koppen-Geiger_Map_MLI_present.svg Hand_der_Fatima.jpg|thumb]] Mali is a landlocked country in West Africa, located southwest of Algeria. It lies between latitudes 10° and 25°N, and longitudes 13°W and 5°E. Mali borders Algeria to the north-northeast, Niger to the east, Burkina Faso and Ivory Coast to the south, Guinea to the southwest, and Senegal and Mauritania to the west.
+|thumb]] Mali is a landlocked country in West Africa, located southwest of Algeria. It lies between latitudes 10° and 25°N, and longitudes 13°W and 5°E. Mali borders Algeria to the north-northeast, Niger to the east, Burkina Faso and Ivory Coast to the south, Guinea to the southwest, and Senegal and Mauritania to the west.
 
 At , Mali is the world's 24th-largest country and is comparable in size to South Africa or Angola. Most of the country lies in the southern Sahara Desert, which produces an extremely hot, dust-laden Sudanian savanna zone.[77] Mali is mostly flat, rising to rolling northern plains covered by sand. The Adrar des Ifoghas massif lies in the northeast.
 
@@ -127,7 +127,7 @@ In March 2012, the Malian government lost control over Tombouctou, Gao and Kidal
 
 Politics and government
 
-Dioncounda_Traore_photo_officielle_de_campagne_3_Mali_2012.jpg]]
+]]
 
 Until the military coup of 22 March 2012[92][93] and a second military coup in December 2012,[94] Mali was a constitutional democracy governed by the Constitution of 12 January 1992, which was amended in 1999.[95] The constitution provides for a separation of powers among the executive, legislative, and judicial branches of government.[96] The system of government can be described as "semi-presidential".[97] Executive power is vested in a president, who is elected to a five-year term by universal suffrage and is limited to two terms.[98][99]
 
@@ -137,7 +137,7 @@ Mali's constitution provides for an independent judiciary,[109][110] but the exe
 
 Foreign relations
 
-Former President of Mali Amadou Toumani Touré and Minister-president of the Netherlands Mark Rutte|thumb Mali's foreign policy orientation has become increasingly pragmatic and pro-Western over time.[115] Since the institution of a democratic form of government in 2002, Mali's relations with the West in general and with the United States in particular have improved significantly.[116] Mali has a longstanding yet ambivalent relationship with France, a former colonial ruler.[117] Mali was active in regional organizations such as the African Union until its suspension over the 2012 Malian coup d'état.[118][119]
+Mali's foreign policy orientation has become increasingly pragmatic and pro-Western over time.[115] Since the institution of a democratic form of government in 2002, Mali's relations with the West in general and with the United States in particular have improved significantly.[116] Mali has a longstanding yet ambivalent relationship with France, a former colonial ruler.[117] Mali was active in regional organizations such as the African Union until its suspension over the 2012 Malian coup d'état.[118][119]
 
 Working to control and resolve regional conflicts, such as in Ivory Coast, Liberia, and Sierra Leone, is one of Mali's major foreign policy goals.[120] Mali feels threatened by the potential for the spillover of conflicts in neighboring states, and relations with those neighbors are often uneasy.[121] General insecurity along borders in the north, including cross-border banditry and terrorism, remain troubling issues in regional relations.[122]
 
@@ -150,7 +150,7 @@ Mali's military forces consist of an army, which includes land forces and air fo
 
 Economy
 
-Djenne_market.jpg]] Kalabougou_potters_(6392346).jpg potters]] Usine_de_coton_CMDT.png
+]] potters]]
 
 The Central Bank of West African States handles the financial affairs of Mali and additional members of the Economic Community of West African States. Mali is one of the poorest countries in the world.[128] The average worker's annual salary is approximately US$1,500.[129]
 
@@ -189,7 +189,7 @@ Society
 
 Demographics
 
-Mali_-_Bozo_girl_in_Bamako.jpg girl in Bamako]]
+girl in Bamako]]
 
 +--------------------+
 | Population in Mali |
@@ -209,7 +209,7 @@ In 2007, about 48% of Malians were younger than 12 years old, 49% were 15–64 y
 
 Ethnicity
 
-Mali1974-151_hg.jpg are historic, nomadic inhabitants of northern Mali.]]
+are historic, nomadic inhabitants of northern Mali.]]
 
 Mali's population encompasses a number of sub-Saharan ethnic groups. The Bambara () are by far the largest single ethnic group, making up 36.5% of the population.[163]
 
@@ -233,7 +233,7 @@ Mali has 12 national languages beside French and Bambara, namely Bomu, Tieyaxo B
 
 Religion
 
-Mosque_entrance_(6862566).jpg Islam was introduced to West Africa in the 11th century and remains the predominant religion in much of the region. An estimated 90% of Malians are Muslim (mostly Sunni[179]), approximately 5% are Christian (about two-thirds Roman Catholic and one-third Protestant) and the remaining 5% adhere to indigenous or traditional animist beliefs.[180] Atheism and agnosticism are believed to be rare among Malians, most of whom practice their religion on a daily basis.[181]
+Islam was introduced to West Africa in the 11th century and remains the predominant religion in much of the region. An estimated 90% of Malians are Muslim (mostly Sunni[179]), approximately 5% are Christian (about two-thirds Roman Catholic and one-third Protestant) and the remaining 5% adhere to indigenous or traditional animist beliefs.[180] Atheism and agnosticism are believed to be rare among Malians, most of whom practice their religion on a daily basis.[181]
 
 The constitution establishes a secular state and provides for freedom of religion, and the government largely respects this right.[182]
 
@@ -241,7 +241,7 @@ Islam as historically practiced in Mali has been malleable and adapted to local 
 
 Education
 
-Lycéens_kati.jpg]]
+]]
 
 Public education in Mali is in principle provided free of charge and is compulsory for nine years between the ages of seven and sixteen.[186] The system encompasses six years of primary education beginning at age 7, followed by six years of secondary education.[187] Mali's actual primary school enrollment rate is low, in large part because families are unable to cover the cost of uniforms, books, supplies, and other fees required to attend.[188]
 
@@ -253,7 +253,7 @@ Health
 
 Mali faces numerous health challenges related to poverty, malnutrition, and inadequate hygiene and sanitation.[193] Mali's health and development indicators rank among the worst in the world.[194] Life expectancy at birth is estimated to be 53.06 years in 2012.[195] In 2000, 62–65% of the population was estimated to have access to safe drinking water and only 69% to sanitation services of some kind.[196] In 2001, the general government expenditures on health totalled about US$4 per capita at an average exchange rate.[197]
 
-Efforts have been made to improve nutrition, and reduce associated health problems, by encouraging women to make nutritious versions of local recipes. For example, the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) and the Aga Khan Foundation, trained women's groups to make _equinut_, a healthy and nutritional version of the traditional recipe _di-dèguè_ (comprising peanut paste, honey and millet or rice flour). The aim was to boost nutrition and livelihoods by producing a product that women could make and sell, and which would be accepted by the local community because of its local heritage.[198] Village_Telly_in_Mali.jpg region]] Medical facilities in Mali are very limited, and medicines are in short supply.[199] Malaria and other arthropod-borne diseases are prevalent in Mali, as are a number of infectious diseases such as cholera and tuberculosis.[200] Mali's population also suffers from a high rate of child malnutrition and a low rate of immunization.[201] An estimated 1.9% of the adult and children population was afflicted with HIV/AIDS that year, among the lowest rates in Sub-Saharan Africa.[202] An estimated 85%–91% of Mali's girls and women have had female genital mutilation (2006 and 2001 data).[203][204]
+Efforts have been made to improve nutrition, and reduce associated health problems, by encouraging women to make nutritious versions of local recipes. For example, the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) and the Aga Khan Foundation, trained women's groups to make _equinut_, a healthy and nutritional version of the traditional recipe _di-dèguè_ (comprising peanut paste, honey and millet or rice flour). The aim was to boost nutrition and livelihoods by producing a product that women could make and sell, and which would be accepted by the local community because of its local heritage.[198] region]] Medical facilities in Mali are very limited, and medicines are in short supply.[199] Malaria and other arthropod-borne diseases are prevalent in Mali, as are a number of infectious diseases such as cholera and tuberculosis.[200] Mali's population also suffers from a high rate of child malnutrition and a low rate of immunization.[201] An estimated 1.9% of the adult and children population was afflicted with HIV/AIDS that year, among the lowest rates in Sub-Saharan Africa.[202] An estimated 85%–91% of Mali's girls and women have had female genital mutilation (2006 and 2001 data).[203][204]
 
 Gender equality
 
@@ -274,7 +274,7 @@ Legislation at the international and national levels have been implemented over 
 
 Culture
 
-Konoguel_Mosque_tower_(6439210).jpg tower]]
+tower]]
 
 The varied everyday culture of Malians reflects the country's ethnic and geographic diversity.[243] Most Malians wear flowing, colorful robes called boubous that are typical of West Africa. Malians frequently participate in traditional festivals, dances, and ceremonies.[244]
 
@@ -290,15 +290,13 @@ The best-known novel by a Malian writer is Yambo Ouologuem's _Le devoir de viole
 
 Sport
 
-Mali_football.jpg village]]
+village]]
 
 The most popular sport in Mali is Association Football (Soccer),[257][258] which became more prominent after Mali hosted the 2002 African Cup of Nations.[259][260] Most towns and cities have regular games;[261] the most popular teams nationally are Djoliba AC, Stade Malien, and Real Bamako, all based in the capital.[262] Informal games are often played by youths using a bundle of rags as a ball.[263]
 
 Basketball is another major sport;[264][265] the Mali women's national basketball team, led by Hamchetou Maiga, competed at the 2008 Beijing Olympics.[266] Traditional wrestling (_la lutte_) is also somewhat common, though popularity has declined in recent years.[267] The game wari, a mancala variant, is a common pastime.[268]
 
 Cuisine
-
-Malian_Tea2.JPG
 
 Rice and millet are the staples of Malian cuisine, which is heavily based on cereal grains.[269][270] Grains are generally prepared with sauces made from edible leaves, such as spinach or baobab, with tomato peanut sauce, and may be accompanied by pieces of grilled meat (typically chicken, mutton, beef, or goat).[271][272] Malian cuisine varies regionally.[273][274] Other popular dishes include fufu, jollof rice, and maafe.
 

@@ -1,4 +1,4 @@
-Least_common_multiple_chart.png Symmetrical_5-set_Venn_diagram_LCM_2_3_4_5_7.svg showing the least common multiples of combinations of 2, 3, 4, 5 and 7 (6 is skipped as it is 2 × 3, both of which are already represented).
+showing the least common multiples of combinations of 2, 3, 4, 5 and 7 (6 is skipped as it is 2 × 3, both of which are already represented).
 For example, a card game which requires its cards to be divided equally among up to 5 players requires at least 60 cards, the number at the intersection of the 2, 3, 4, and 5 sets, but not the 7 set.]]
 
 In arithmetic and number theory, the LEAST COMMON MULTIPLE, LOWEST COMMON MULTIPLE, or SMALLEST COMMON MULTIPLE of two integers _a_ and _b_, usually denoted by LCM(_A_, _B_), is the smallest positive integer that is divisible by both _a_ and _b_.[1] Since division of integers by zero is undefined, this definition has meaning only if _a_ and _b_ are both different from zero.[2] However, some authors define LCM (_a_,0) as 0 for all _a_, which is the result of taking the LCM to be the least upper bound in the lattice of divisibility.
@@ -114,7 +114,7 @@ Here is an example:
 
 and what they share in common is two "2"s and a "3":
 
-    least_common_multiple.svg
+
 
     Least common multiple = 2 × 2 × 2 × 2 × 3 × 3 × 5 = 720
     Greatest common divisor = 2 × 2 × 3 = 12

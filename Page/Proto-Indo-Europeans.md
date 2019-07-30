@@ -48,7 +48,7 @@ By the early twentieth century this term had come to be widely used in a racist 
 
 Urheimat hypotheses
 
-IE_expansion.png. The magenta area corresponds to the assumed _Urheimat_ (Samara culture, Sredny Stog culture). The red area corresponds to the area which may have been settled by Indo-European-speaking peoples up to ca. 2500 BC; the orange area to 1000 BC.[13]]]
+. The magenta area corresponds to the assumed _Urheimat_ (Samara culture, Sredny Stog culture). The red area corresponds to the area which may have been settled by Indo-European-speaking peoples up to ca. 2500 BC; the orange area to 1000 BC.[13]]]
 
 According to some archaeologists, PIE speakers cannot be assumed to have been a single, identifiable people or tribe, but were a group of loosely related populations ancestral to the later, still partially prehistoric, Bronze Age Indo-Europeans. This view is held especially by those archaeologists who posit an original homeland of vast extent and immense time depth. However, this view is not shared by linguists, as proto-languages, like all languages before modern transport and communication, occupied small geographical areas over a limited time span, and were spoken by a set of close-knit communities—a tribe in the broad sense.[14]
 

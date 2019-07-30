@@ -7,7 +7,7 @@ The _Associazione Verace Pizza Napoletana_ (lit. True Neapolitan Pizza Associati
 
 Etymology
 
-Pizza-3007395.jpg The word "pizza" first appeared in a Latin text from the central Italian town of Gaeta, then still part of the Byzantine Empire, in 997 AD; the text states that a tenant of certain property is to give the bishop of Gaeta _duodecim pizze_ ("twelve pizzas") every Christmas Day, and another twelve every Easter Sunday.[10][11]
+The word "pizza" first appeared in a Latin text from the central Italian town of Gaeta, then still part of the Byzantine Empire, in 997 AD; the text states that a tenant of certain property is to give the bishop of Gaeta _duodecim pizze_ ("twelve pizzas") every Christmas Day, and another twelve every Easter Sunday.[10][11]
 
 Suggested etymologies include:
 
@@ -18,7 +18,7 @@ Suggested etymologies include:
 
 History
 
-Pizzaiolo-1830.jpg Pizzeria_Port_Alba.jpg in Naples]] Foods similar to pizza have been made since the Neolithic Age.[19] Records of people adding other ingredients to bread to make it more flavorful can be found throughout ancient history. In the 6th century BC, the Persian soldiers of Achaemenid Empire during the rule King Darius I baked flatbreads with cheese and dates on top of their battle shields[20][21] and the ancient Greeks supplemented their bread with oils, herbs, and cheese.[22][23] An early reference to a pizza-like food occurs in the Aeneid, when Celaeno, queen of the Harpies, foretells that the Trojans would not find peace until they are forced by hunger to eat their tables (Book III). In Book VII, Aeneas and his men are served a meal that includes round cakes (like pita bread) topped with cooked vegetables. When they eat the bread, they realize that these are the "tables" prophesied by Celaeno.[24]
+in Naples]] Foods similar to pizza have been made since the Neolithic Age.[19] Records of people adding other ingredients to bread to make it more flavorful can be found throughout ancient history. In the 6th century BC, the Persian soldiers of Achaemenid Empire during the rule King Darius I baked flatbreads with cheese and dates on top of their battle shields[20][21] and the ancient Greeks supplemented their bread with oils, herbs, and cheese.[22][23] An early reference to a pizza-like food occurs in the Aeneid, when Celaeno, queen of the Harpies, foretells that the Trojans would not find peace until they are forced by hunger to eat their tables (Book III). In Book VII, Aeneas and his men are served a meal that includes round cakes (like pita bread) topped with cooked vegetables. When they eat the bread, they realize that these are the "tables" prophesied by Celaeno.[24]
 
 Modern pizza evolved from similar flatbread dishes in Naples, Italy, in the 18th or early 19th century.[25] Prior to that time, flatbread was often topped with ingredients such as garlic, salt, lard, cheese, and basil. It is uncertain when tomatoes were first added and there are many conflicting claims.[26] Until about 1830, pizza was sold from open-air stands and out of pizza bakeries, antecedents to modern pizzerias.
 
@@ -45,28 +45,26 @@ File:Pizza im Pizzaofen von Maurizio.jpg|Pizzas bake in a traditional wood-fired
 
 Crust
 
-Hot_pizza.jpg
-
 The bottom of the pizza, called the "crust", may vary widely according to style, thin as in a typical hand-tossed Neapolitan pizza or thick as in a deep-dish Chicago-style. It is traditionally plain, but may also be seasoned with garlic or herbs, or stuffed with cheese. The outer edge of the pizza is sometimes referred to as the _cornicione_.[37] Pizza dough often contains sugar, both to help its yeast rise and enhance browning of the crust.[38]
 
 Dipping sauce specifically for pizza was invented by American pizza chain Papa John's Pizza in 1984 and has since become popular when eating pizza, especially the crust.[39]
 
 Cheese
 
-Pizza_quattro_formaggi_at_restaurant%2C_Chalk_Farm_Road%2C_London.jpg]] Mozzarella is commonly used on pizza, with the highest quality buffalo mozzarella produced in the surroundings of Naples.[40] Eventually, other cheeses were used well as pizza ingredients, particularly Italian cheeses including provolone, pecorino romano, ricotta, and scamorza. Less expensive processed cheeses or cheese analogues have been developed for mass-market pizzas to produce desirable qualities like browning, melting, stretchiness, consistent fat and moisture content, and stable shelf life. This quest to create the ideal and economical pizza cheese has involved many studies and experiments analyzing the impact of vegetable oil, manufacturing and culture processes, denatured whey proteins and other changes in manufacture. In 1997 it was estimated that annual production of pizza cheese was in the U.S. and in Europe.[41]
+]] Mozzarella is commonly used on pizza, with the highest quality buffalo mozzarella produced in the surroundings of Naples.[40] Eventually, other cheeses were used well as pizza ingredients, particularly Italian cheeses including provolone, pecorino romano, ricotta, and scamorza. Less expensive processed cheeses or cheese analogues have been developed for mass-market pizzas to produce desirable qualities like browning, melting, stretchiness, consistent fat and moisture content, and stable shelf life. This quest to create the ideal and economical pizza cheese has involved many studies and experiments analyzing the impact of vegetable oil, manufacturing and culture processes, denatured whey proteins and other changes in manufacture. In 1997 it was estimated that annual production of pizza cheese was in the U.S. and in Europe.[41]
 
 
 Varieties
 
 Italy
 
-Spinach_pizza.jpg pizza, Turin]] Authentic Neapolitan pizza (_pizza napoletana_) is made with San Marzano tomatoes, grown on the volcanic plains south of Mount Vesuvius, and mozzarella di bufala Campana, made with milk from water buffalo raised in the marshlands of Campania and Lazio.[42] This mozzarella is protected with its own European protected designation of origin.[43] Other traditional pizzas include _pizza alla marinara_, which is topped with marinara sauce and is supposedly the most ancient tomato-topped pizza,[44] pizza capricciosa, which is prepared with mozzarella cheese, baked ham, mushroom, artichoke and tomato,[45] and pizza pugliese, prepared with tomato, mozzarella and onions.[46]
+pizza, Turin]] Authentic Neapolitan pizza (_pizza napoletana_) is made with San Marzano tomatoes, grown on the volcanic plains south of Mount Vesuvius, and mozzarella di bufala Campana, made with milk from water buffalo raised in the marshlands of Campania and Lazio.[42] This mozzarella is protected with its own European protected designation of origin.[43] Other traditional pizzas include _pizza alla marinara_, which is topped with marinara sauce and is supposedly the most ancient tomato-topped pizza,[44] pizza capricciosa, which is prepared with mozzarella cheese, baked ham, mushroom, artichoke and tomato,[45] and pizza pugliese, prepared with tomato, mozzarella and onions.[46]
 
 A popular variant of pizza in Italy is Sicilian pizza (locally called _sfincione_ or _sfinciuni_),[47][48] a thick-crust or deep-dish pizza originating during the 17th century in Sicily: it is essentially a focaccia that is typically topped with tomato sauce and other ingredients. Until the 1860s, _sfincione_ was the type of pizza usually consumed in Sicily, especially in the Western portion of the island.[49] Other variations of pizzas are also found in other regions of Italy, for example _pizza al padellino_ or _pizza al tegamino_, a small-sized, thick-crust and deep-dish pizza typically served in Turin, Piedmont.[50][51][52]
 
 United States
 
-13% of the United States population consumes pizza on any given day.[53] Pizza chains such as Domino's Pizza, Pizza Hut, and Papa John's, pizzas from take and bake pizzerias, and chilled or frozen pizzas from supermarkets make pizza readily available nationwide. Pizza_tasting_in_the_Roosevelt_Room.jpg]] Common toppings for pizza in the United States include ground beef, mushrooms, onions, pepperoni, pineapple, garlic, olives, peppers, carrots, tomatoes, spinach, anchovies, chicken, bacon, ham and sausage. Distinct regional types developed in the 20th century, including California, Chicago, Detroit, Greek, New Haven, New York and St. Louis styles.[54] The first pizzeria in the U.S. was opened in New York's Little Italy in 1905[55] and since then regions throughout the U.S. offer variations, including deep-dish, stuffed, pockets, turnovers, rolled and pizza-on-a-stick, each with seemingly limitless combinations of sauce and toppings.
+13% of the United States population consumes pizza on any given day.[53] Pizza chains such as Domino's Pizza, Pizza Hut, and Papa John's, pizzas from take and bake pizzerias, and chilled or frozen pizzas from supermarkets make pizza readily available nationwide. ]] Common toppings for pizza in the United States include ground beef, mushrooms, onions, pepperoni, pineapple, garlic, olives, peppers, carrots, tomatoes, spinach, anchovies, chicken, bacon, ham and sausage. Distinct regional types developed in the 20th century, including California, Chicago, Detroit, Greek, New Haven, New York and St. Louis styles.[54] The first pizzeria in the U.S. was opened in New York's Little Italy in 1905[55] and since then regions throughout the U.S. offer variations, including deep-dish, stuffed, pockets, turnovers, rolled and pizza-on-a-stick, each with seemingly limitless combinations of sauce and toppings.
 
 Another variation is grilled pizza, created by taking a fairly thin, round (more typically, irregularly shaped) sheet of yeasted pizza dough, placing it directly over the fire of a grill and then turning it over once the bottom has baked and placing a thin layer of toppings on the baked side.[56] Toppings may be sliced thin to ensure that they heat through, and chunkier toppings such as sausage or peppers may be precooked before being placed on the pizza.[57] Garlic, herbs, or other ingredients are sometimes added to the pizza or the crust to maximize the flavor of the dish.[58]
 
@@ -81,7 +79,7 @@ Standard Argentine pizza has a thicker crust, called "media masa" (half dough) t
 
 Records
 
-USMC-03074.jpg The world's largest pizza was prepared in Rome in December 2012, and measured . The pizza was named "Ottavia" in homage to the first Roman emperor Octavian Augustus, and was made with a gluten-free base.[68] The world's longest pizza was made in Fontana, California in 2017 and measured .[69]
+The world's largest pizza was prepared in Rome in December 2012, and measured . The pizza was named "Ottavia" in homage to the first Roman emperor Octavian Augustus, and was made with a gluten-free base.[68] The world's longest pizza was made in Fontana, California in 2017 and measured .[69]
 
 The world's most expensive pizza listed by _Guinness World Records_ is a commercially available thin-crust pizza at Maze restaurant in London, United Kingdom, which costs . The pizza is wood fire-baked, and is topped with onion puree, white truffle paste, fontina cheese, baby mozzarella, pancetta, cep mushrooms, freshly picked wild mizuna lettuce, and fresh shavings of a rare Italian white truffle.[70]
 

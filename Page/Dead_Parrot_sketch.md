@@ -1,4 +1,4 @@
-DeadParrot.png) (right) attempts to return his dead Norwegian Blue parrot to the shopkeeper (Michael Palin)]]
+) (right) attempts to return his dead Norwegian Blue parrot to the shopkeeper (Michael Palin)]]
 
 The "DEAD PARROT SKETCH", alternatively and originally known as the "PET SHOP SKETCH" or "PARROT SKETCH", is a sketch from _Monty Python's Flying Circus_. It was written by John Cleese and Graham Chapman and initially performed in the show's first series, in the eighth episode ("Full Frontal Nudity", which first aired 7 December 1969).[1]
 
@@ -11,7 +11,7 @@ Over the years, Cleese and Palin have done many versions of the "Dead Parrot" sk
 
 Plot
 
-Dead_Parrot_O2_Arena.jpg in 2014]] Mr. Praline (Cleese) enters the pet shop to register a complaint about the dead Norwegian Blue parrot (parrots are not endemic to Norway) just as the shopkeeper (Palin) is preparing to close the establishment for lunch. Despite being told that the bird is deceased and that it had been nailed to its perch, the proprietor insists that it is "pining for the fjords" or simply "stunned".[5]
+in 2014]] Mr. Praline (Cleese) enters the pet shop to register a complaint about the dead Norwegian Blue parrot (parrots are not endemic to Norway) just as the shopkeeper (Palin) is preparing to close the establishment for lunch. Despite being told that the bird is deceased and that it had been nailed to its perch, the proprietor insists that it is "pining for the fjords" or simply "stunned".[5]
 
 As the exasperated Praline attempts to wake up the parrot, the shopkeeper tries to make the bird move by hitting the cage, and Praline erupts into a rage after banging "Polly Parrot" on the counter. After listing several euphemisms for death ("is no more", "has ceased to be", "bereft of life, it rests in peace", and "this is an ex-parrot") he is told to go to the pet shop run by the shopkeeper's brother in Bolton for a refund. That proves difficult, however, as the proprietor of that store (who is really the shopkeeper, save for a fake moustache) claims this is Ipswich, whereas the railway station attendant (Terry Jones) claims he is actually in Bolton after all.[6]
 

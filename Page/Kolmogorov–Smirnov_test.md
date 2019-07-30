@@ -1,4 +1,4 @@
-KS_Example.png, blue line is an ECDF, and the black arrow is the K–S statistic.]]
+, blue line is an ECDF, and the black arrow is the K–S statistic.]]
 
 In statistics, the KOLMOGOROV–SMIRNOV TEST (K–S TEST or KS TEST) is a nonparametric test of the equality of continuous (or discontinuous, see Section 2.2), one-dimensional probability distributions that can be used to compare a sample with a reference probability distribution (one-sample K–S test), or to compare two samples (two-sample K–S test). It is named after Andrey Kolmogorov and Nikolai Smirnov.
 
@@ -82,8 +82,6 @@ From the right-continuity of F(x), it follows that F(F^( − 1)(t)) ≥ 
 
 
 Two-sample Kolmogorov–Smirnov test
-
-KS2_Example.png
 
 The Kolmogorov–Smirnov test may also be used to test whether two underlying one-dimensional probability distributions differ. In this case, the Kolmogorov–Smirnov statistic is
 

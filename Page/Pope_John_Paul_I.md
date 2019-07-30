@@ -9,7 +9,7 @@ His two immediate successors, John Paul II and Benedict XVI, later recalled the 
 
 Early life and education
 
-Casa_Natale_Luciani.jpg Albino_Luciani,_1932.jpg Albino Luciani was born on 17 October 1912 in Forno di Canale (now Canale d'Agordo) in Belluno, a province of the Veneto region in Northern Italy. He was the son of Giovanni Luciani (c. 1872–1952), a bricklayer, and Bortola Tancon (c. 1879–1947). Albino was followed by two brothers, Federico (1915–1916) and Edoardo (1917–2008), and a sister, Antonia (1920–2010). He was baptised on the day he was born by the midwife because he was considered to be in danger of death, and the solemn rites of baptism were formalised in the parish church two days later.[5]
+Albino Luciani was born on 17 October 1912 in Forno di Canale (now Canale d'Agordo) in Belluno, a province of the Veneto region in Northern Italy. He was the son of Giovanni Luciani (c. 1872–1952), a bricklayer, and Bortola Tancon (c. 1879–1947). Albino was followed by two brothers, Federico (1915–1916) and Edoardo (1917–2008), and a sister, Antonia (1920–2010). He was baptised on the day he was born by the midwife because he was considered to be in danger of death, and the solemn rites of baptism were formalised in the parish church two days later.[5]
 
 Luciani was a restless child, in 1922, aged 10, he was awestruck when a Capuchin friar came to his village to preach the Lenten sermons. From that moment he decided that he wanted to become a priest and went to his father to ask for his permission. His father agreed and said to him: "I hope that when you become a priest you will be on the side of the workers, for Christ Himself would have been on their side".[6]
 
@@ -27,7 +27,7 @@ In 1947, he was named chancellor to Bishop Girolamo Bortignon, OFM Cap, of Bellu
 
 Episcopate
 
-Albino_Luciani,_1966.jpg On 15 December 1958, Luciani was appointed Bishop of Vittorio Veneto by Pope John XXIII. He received his episcopal consecration on the following 27 December from Pope John XXIII himself, with Bishops Bortignon and Gioacchino Muccin serving as the co-consecrators. In his first address to the people of his new diocese, Luciani stated: "I would like to be a bishop who is a teacher and a servant".[13]
+On 15 December 1958, Luciani was appointed Bishop of Vittorio Veneto by Pope John XXIII. He received his episcopal consecration on the following 27 December from Pope John XXIII himself, with Bishops Bortignon and Gioacchino Muccin serving as the co-consecrators. In his first address to the people of his new diocese, Luciani stated: "I would like to be a bishop who is a teacher and a servant".[13]
 
 As a bishop, he participated in all the sessions of the Second Vatican Council (1962–1965). In 1958, he had taken _Humilitas_ (_Humility_) as his episcopal motto.[14] He took possession of the diocese on 11 January 1959. On 18 April 1962, Luciani issued a pastoral letter, entitled "Notes on the Council", in order to alert the faithful to the structure of the proceedings and the overall purpose of the Council, chiefly, the doctrinal and practical issues.[15] In 1966, he visited Burundi in East Africa.[16]
 
@@ -65,7 +65,7 @@ Luciani was summoned to Rome for the conclave to elect the new pope. Luciani was
 
 Luciani was elected on the fourth ballot of the August 1978 papal conclave. Luciani had previously said to his secretary, Father Diego Lorenzi and to Father Prospero Grech (later a cardinal himself), that he would decline the papacy if elected, and that he intended to vote for Aloísio Cardinal Lorscheider, whom he met in Brazil.[27] Cardinal Jaime Sin of the Philippines told him: "You will be the new pope."[28]
 
-Albino_Luciani,_1973_(2).jpg However, when he was asked by Cardinal Jean-Marie Villot if he accepted his election, Luciani replied, "May God forgive you for what you have done" but accepted election. After his election, when Cardinal Sin paid him homage, the new pope said: "You were a prophet, but my reign will be a short one".[29] On the balcony of St Peter's Basilica, protodeacon Cardinal Pericle Felici announced that the cardinals had elected Albino Luciani, Patriarch of Venice, who had chosen the name Pope John Paul I.[30] It was the first time that a pope chose a double name. He later explained that the double name was taken to gratefully honour his two immediate predecessors: John XXIII, who had named him a bishop, and Paul VI, who had named him Patriarch of Venice and Cardinal.[31] He was also the first pope to designate himself "the First" with the name.[32][33] (Pope Francis, elected in 2013, also took a previously-unused papal name but chose not to be called "the First".)
+However, when he was asked by Cardinal Jean-Marie Villot if he accepted his election, Luciani replied, "May God forgive you for what you have done" but accepted election. After his election, when Cardinal Sin paid him homage, the new pope said: "You were a prophet, but my reign will be a short one".[29] On the balcony of St Peter's Basilica, protodeacon Cardinal Pericle Felici announced that the cardinals had elected Albino Luciani, Patriarch of Venice, who had chosen the name Pope John Paul I.[30] It was the first time that a pope chose a double name. He later explained that the double name was taken to gratefully honour his two immediate predecessors: John XXIII, who had named him a bishop, and Paul VI, who had named him Patriarch of Venice and Cardinal.[31] He was also the first pope to designate himself "the First" with the name.[32][33] (Pope Francis, elected in 2013, also took a previously-unused papal name but chose not to be called "the First".)
 
 In the aftermath of the election, the pope confided to his brother Edoardo that his first thought was to call himself "Pius XIII" in honour of Pope Pius XI, but he gave up on the idea, worried that the traditionalist members of the Church might exploit this choice of regnal name.[34]
 
@@ -187,7 +187,7 @@ Sister Margherita Marin, who worked in the Vatican during Luciani's papacy, said
 
 Death
 
-Tomb_of_pope_Johannes_Paulus_I.jpg On 29 September 1978, 33 days into his papacy, John Paul I was found dead "lying in his bed, with a book opened beside him, and the reading light on. According to a Vatican doctor, he probably died around 11 p.m [...] of a heart attack" that occurred on 28 September.[71]
+On 29 September 1978, 33 days into his papacy, John Paul I was found dead "lying in his bed, with a book opened beside him, and the reading light on. According to a Vatican doctor, he probably died around 11 p.m [...] of a heart attack" that occurred on 28 September.[71]
 
 John Paul I's funeral was held in Saint Peter's Square on 4 October 1978, celebrated by Cardinal Carlo Confalonieri. In his eulogy of the late pope, he described him as a flashing comet who briefly lit up the church. He then was laid to rest in the Vatican grottoes.
 
@@ -251,7 +251,7 @@ Views of successors
 
 John Paul II
 
-Museo_papa_Luciani.jpg Cardinal Karol Wojtyła was elected John Paul I's successor as Pope on Monday, 16 October 1978. The next day he celebrated Mass together with the College of Cardinals in the Sistine Chapel. After the Mass, he delivered his first _Urbi et Orbi_ (a traditional blessing) message, broadcast worldwide via radio. In it he pledged fidelity to the Second Vatican Council and paid tribute to his predecessor:[101]
+Cardinal Karol Wojtyła was elected John Paul I's successor as Pope on Monday, 16 October 1978. The next day he celebrated Mass together with the College of Cardinals in the Sistine Chapel. After the Mass, he delivered his first _Urbi et Orbi_ (a traditional blessing) message, broadcast worldwide via radio. In it he pledged fidelity to the Second Vatican Council and paid tribute to his predecessor:[101]
 
 Benedict XVI
 

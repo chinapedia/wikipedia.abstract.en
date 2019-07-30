@@ -19,13 +19,13 @@ Intact
 
 -   Astrakhan Kremlin
 -   Kolomna Kremlin
--   Nizhny Novgorod Kremlin Nizhny_Novgorod_Kremlin_by_aircraft.jpg]]
+-   Nizhny Novgorod Kremlin ]]
 -   Pskov Kremlin
 -   (a bishop's residence, not formally considered a kremlin)
 
-Rostov19.jpg, sometimes called a kremlin]]
+, sometimes called a kremlin]]
 
--   Smolensk Kremlin Smolensk_kremlin.jpg Kremlin in 1912]] View01.jpg Kremlin]]
+-   Smolensk Kremlin Kremlin in 1912]] Kremlin]]
 -   Tobolsk Kremlin (the sole stone kremlin in Siberia)
 -   Tula Kremlin
 -   Zaraysk Kremlin

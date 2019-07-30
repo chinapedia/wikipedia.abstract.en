@@ -1,4 +1,4 @@
-TI_TMS1000NLL_1.jpg C4004_two_lines.jpg Motorola_XC6800A_1.jpg A MICROPROCESSOR is a computer processor that incorporates the functions of a central processing unit on a single integrated circuit (IC),[1] or at most a few integrated circuits.[2] The microprocessor is a multipurpose, clock driven, register based, digital integrated circuit that accepts binary data as input, processes it according to instructions stored in its memory and provides results as output. Microprocessors contain both combinational logic and sequential digital logic. Microprocessors operate on numbers and symbols represented in the binary number system.
+A MICROPROCESSOR is a computer processor that incorporates the functions of a central processing unit on a single integrated circuit (IC),[1] or at most a few integrated circuits.[2] The microprocessor is a multipurpose, clock driven, register based, digital integrated circuit that accepts binary data as input, processes it according to instructions stored in its memory and provides results as output. Microprocessors contain both combinational logic and sequential digital logic. Microprocessors operate on numbers and symbols represented in the binary number system.
 
 The integration of a whole CPU onto a single or a few integrated circuits greatly reduced the cost of processing power. Integrated circuit processors are produced in large numbers by highly automated processes, resulting in a low unit price. Single-chip processors increase reliability because there are many fewer electrical connections that could fail. As microprocessor designs improve, the cost of manufacturing a chip (with smaller components built on a semiconductor chip the same size) generally stays the same according to Rock's law.
 
@@ -7,7 +7,7 @@ Before microprocessors, small computers had been built using racks of circuit bo
 
 Structure
 
-Z80_arch.svg microprocessor, showing the arithmetic and logic section, register file, control logic section, and buffers to external address and data lines]]
+microprocessor, showing the arithmetic and logic section, register file, control logic section, and buffers to external address and data lines]]
 
 The complexity of an integrated circuit is bounded by physical limitations on the number of transistors that can be put onto one chip, the number of package terminations that can connect the processor to other parts of the system, the number of interconnections it is possible to make on the chip, and the heat that the chip can dissipate. Advancing technology makes more complex and powerful chips feasible to manufacture.
 
@@ -69,8 +69,6 @@ The Four-Phase Systems AL1 was an 8-bit bit slice chip containing eight register
 
 Pico/General Instrument
 
-GI250_PICO1_die_photo.jpg
-
 In 1971, Pico Electronics[17] and General Instrument (GI) introduced their first collaboration in ICs, a complete single chip calculator IC for the Monroe/Litton Royal Digital III calculator. This chip could also arguably lay claim to be one of the first microprocessors or microcontrollers having ROM, RAM and a RISC instruction set on-chip. The layout for the four layers of the PMOS process was hand drawn at x500 scale on mylar film, a significant task at the time given the complexity of the chip.
 
 Pico was a spinout by five GI design engineers whose vision was to create single chip calculator ICs. They had significant previous design experience on multiple calculator chipsets with both GI and Marconi-Elliott.[18] The key team members had originally been tasked by Elliott Automation to create an 8-bit computer in MOS and had helped establish a MOS Research Laboratory in Glenrothes, Scotland in 1967.
@@ -79,13 +77,13 @@ Calculators were becoming the largest single market for semiconductors so Pico a
 
 Intel 4004 (1971)
 
-C4004_(Intel).jpg with cover removed (left) and as actually used (right)]]
+with cover removed (left) and as actually used (right)]]
 
 The Intel 4004 is generally regarded as the first commercially available microprocessor,[20][21] and cost .[22] The first known advertisement for the 4004 is dated November 15, 1971 and appeared in _Electronic News_. The microprocessor was designed by a team consisting of Italian engineer Federico Faggin, American engineers Marcian Hoff and Stanley Mazor, and Japanese engineer Masatoshi Shima.[23]
 
 The project that produced the 4004 originated in 1969, when Busicom, a Japanese calculator manufacturer, asked Intel to build a chipset for high-performance desktop calculators. Busicom's original design called for a programmable chip set consisting of seven different chips. Three of the chips were to make a special-purpose CPU with its program stored in ROM and its data stored in shift register read-write memory. Ted Hoff, the Intel engineer assigned to evaluate the project, believed the Busicom design could be simplified by using dynamic RAM storage for data, rather than shift register memory, and a more traditional general-purpose CPU architecture. Hoff came up with a four-chip architectural proposal: a ROM chip for storing the programs, a dynamic RAM chip for storing data, a simple I/O device and a 4-bit central processing unit (CPU). Although not a chip designer, he felt the CPU could be integrated into a single chip, but as he lacked the technical know-how the idea remained just a wish for the time being.
 
-Intel_4004.jpg Microprocessore_silicio_germano.jpg While the architecture and specifications of the MCS-4 came from the interaction of Hoff with Stanley Mazor, a software engineer reporting to him, and with Busicom engineer Masatoshi Shima, during 1969, Mazor and Hoff moved on to other projects. In April 1970, Intel hired Italian engineer Federico Faggin as project leader, a move that ultimately made the single-chip CPU final design a reality (Shima meanwhile designed the Busicom calculator firmware and assisted Faggin during the first six months of the implementation). Faggin, who originally developed the silicon gate technology (SGT) in 1968 at Fairchild Semiconductor[24] and designed the world’s first commercial integrated circuit using SGT, the Fairchild 3708, had the correct background to lead the project into what would become the first commercial general purpose microprocessor. Since SGT was his very own invention, Faggin also used it to create his new methodology for random logic design that made it possible to implement a single-chip CPU with the proper speed, power dissipation and cost. The manager of Intel's MOS Design Department was Leslie L. Vadász at the time of the MCS-4 development but Vadász's attention was completely focused on the mainstream business of semiconductor memories so he left the leadership and the management of the MCS-4 project to Faggin, who was ultimately responsible for leading the 4004 project to its realization. Production units of the 4004 were first delivered to Busicom in March 1971 and shipped to other customers in late 1971.
+While the architecture and specifications of the MCS-4 came from the interaction of Hoff with Stanley Mazor, a software engineer reporting to him, and with Busicom engineer Masatoshi Shima, during 1969, Mazor and Hoff moved on to other projects. In April 1970, Intel hired Italian engineer Federico Faggin as project leader, a move that ultimately made the single-chip CPU final design a reality (Shima meanwhile designed the Busicom calculator firmware and assisted Faggin during the first six months of the implementation). Faggin, who originally developed the silicon gate technology (SGT) in 1968 at Fairchild Semiconductor[24] and designed the world’s first commercial integrated circuit using SGT, the Fairchild 3708, had the correct background to lead the project into what would become the first commercial general purpose microprocessor. Since SGT was his very own invention, Faggin also used it to create his new methodology for random logic design that made it possible to implement a single-chip CPU with the proper speed, power dissipation and cost. The manager of Intel's MOS Design Department was Leslie L. Vadász at the time of the MCS-4 development but Vadász's attention was completely focused on the mainstream business of semiconductor memories so he left the leadership and the management of the MCS-4 project to Faggin, who was ultimately responsible for leading the 4004 project to its realization. Production units of the 4004 were first delivered to Busicom in March 1971 and shipped to other customers in late 1971.
 
 TMX 1795
 
@@ -137,7 +135,7 @@ The 16-bit Intel x86 processors up to and including the 80386 do not include flo
 
 32-bit designs
 
-80486DX2_200x.pngDX2 die]]
+DX2 die]]
 
 16-bit designs had only been on the market briefly when 32-bit implementations started to appear.
 

@@ -1,4 +1,4 @@
-Global_Gas_trade_both_LNG_and_Pipeline.png in 2013. Numbers are in billion cubic meters per year.[1]]] World_-_Natural_Gas_Production_of_Countries.png in cubic meters per year around 2013]]
+in 2013. Numbers are in billion cubic meters per year.[1]]] in cubic meters per year around 2013]]
 
 NATURAL GAS (also called FOSSIL GAS) is a naturally occurring hydrocarbon gas mixture consisting primarily of methane, but commonly including varying amounts of other higher alkanes, and sometimes a small percentage of carbon dioxide, nitrogen, hydrogen sulfide, or helium.[2] It is formed when layers of decomposing plant and animal matter are exposed to intense heat and pressure under the surface of the Earth over millions of years. The energy that the plants originally obtained from the sun is stored in the form of chemical bonds in the gas.[3]
 
@@ -15,7 +15,7 @@ Natural gas is often informally referred to simply as "gas", especially when com
 
 History
 
-Chuhuo.jpg]] Natural gas was discovered accidentally in ancient China, as it resulted from the drilling for brines. Natural gas was first used by the Chinese in about 500 BCE (possibly even 1000 BCE[9]). They discovered a way to transport gas seeping from the ground in crude pipelines of bamboo to where it was used to boil salt water to extract the salt,[10][11] in the Ziliujing District of Sichuan.[12]
+]] Natural gas was discovered accidentally in ancient China, as it resulted from the drilling for brines. Natural gas was first used by the Chinese in about 500 BCE (possibly even 1000 BCE[9]). They discovered a way to transport gas seeping from the ground in crude pipelines of bamboo to where it was used to boil salt water to extract the salt,[10][11] in the Ziliujing District of Sichuan.[12]
 
 The discovery and identification of natural gas in the Americas happened in 1626. In 1821, William Hart successfully dug the first natural gas well at Fredonia, New York, United States, which led to the formation of the Fredonia Gas Light Company. The city of Philadelphia created the first municipally owned natural gas distribution venture in 1836.[13] By 2009, 66 000 km³ (or 8%) had been used out of the total 850 000 km³ of estimated remaining recoverable reserves of natural gas.[14] Based on an estimated 2015 world consumption rate of about 3400 km³ of gas per year, the total estimated remaining economically recoverable reserves of natural gas would last 250 years at current consumption rates. An annual increase in usage of 2–3% could result in currently recoverable reserves lasting significantly less, perhaps as few as 80 to 100 years.[15]
 
@@ -24,7 +24,7 @@ Sources
 
 Natural gas
 
-BarnettShaleDrilling-9323.jpg in Texas, USA]] In the 19th century, natural gas was usually obtained as a by-product of producing oil, since the small, light gas carbon chains came out of solution as the extracted fluids underwent pressure reduction from the reservoir to the surface, similar to uncapping a soft drink bottle where the carbon dioxide effervesces. Unwanted natural gas was a disposal problem in the active oil fields. If there was not a market for natural gas near the wellhead it was prohibitively expensive to pipe to the end user. In the 19th century and early 20th century, unwanted gas was usually burned off at oil fields. Today, unwanted gas (or stranded gas without a market) associated with oil extraction often is returned to the reservoir with 'injection' wells while awaiting a possible future market or to repressurize the formation, which can enhance extraction rates from other wells. In regions with a high natural gas demand (such as the US), pipelines are constructed when it is economically feasible to transport gas from a wellsite to an end consumer.
+in Texas, USA]] In the 19th century, natural gas was usually obtained as a by-product of producing oil, since the small, light gas carbon chains came out of solution as the extracted fluids underwent pressure reduction from the reservoir to the surface, similar to uncapping a soft drink bottle where the carbon dioxide effervesces. Unwanted natural gas was a disposal problem in the active oil fields. If there was not a market for natural gas near the wellhead it was prohibitively expensive to pipe to the end user. In the 19th century and early 20th century, unwanted gas was usually burned off at oil fields. Today, unwanted gas (or stranded gas without a market) associated with oil extraction often is returned to the reservoir with 'injection' wells while awaiting a possible future market or to repressurize the formation, which can enhance extraction rates from other wells. In regions with a high natural gas demand (such as the US), pipelines are constructed when it is economically feasible to transport gas from a wellsite to an end consumer.
 
 In addition to transporting gas via pipelines for use in power generation, other end uses for natural gas include export as liquefied natural gas (LNG) or conversion of natural gas into other liquid products via gas to liquids (GTL) technologies. GTL technologies can convert natural gas into liquids products such as gasoline, diesel or jet fuel. A variety of GTL technologies have been developed, including Fischer–Tropsch (F–T), methanol to gasoline (MTG) and syngas to gasoline plus (STG+). F–T produces a synthetic crude that can be further refined into finished products, while MTG can produce synthetic gasoline from natural gas. STG+ can produce drop-in gasoline, diesel, jet fuel and aromatic chemicals directly from natural gas via a single-loop process.[16] In 2011, Royal Dutch Shell's per day F–T plant went into operation in Qatar.[17]
 
@@ -32,7 +32,7 @@ Natural gas can be "associated" (found in oil fields), or "non-associated" (isol
 
 Natural gas extracted from oil wells is called casinghead gas (whether or not truly produced up the annulus and through a casinghead outlet) or associated gas. The natural gas industry is extracting an increasing quantity of gas from challenging resource types: sour gas, tight gas, shale gas, and coalbed methane.
 
-There is some disagreement on which country has the largest proven gas reserves. Sources that consider that Russia has by far the largest proven reserves include the US CIA (47 600 km³),[20] the US Energy Information Administration (47 800 km³),[21] and OPEC (48 700 km³).[22] However, BP credits Russia with only 32 900 km³,[23] which would place it in second place, slightly behind Iran (33 100 to 33 800 km³, depending on the source). With Gazprom, Russia is frequently the world's largest natural gas extractor. Major proven resources (in cubic kilometers) are world 187 300 (2013), Iran 33 600 (2013), Russia 32 900 (2013), Qatar 25 100 (2013), Turkmenistan 17 500 (2013) and the United States 8500 (2013). Countries_by_Natural_Gas_Proven_Reserves_(2014).svg (2014), based on data from The World Factbook]]
+There is some disagreement on which country has the largest proven gas reserves. Sources that consider that Russia has by far the largest proven reserves include the US CIA (47 600 km³),[20] the US Energy Information Administration (47 800 km³),[21] and OPEC (48 700 km³).[22] However, BP credits Russia with only 32 900 km³,[23] which would place it in second place, slightly behind Iran (33 100 to 33 800 km³, depending on the source). With Gazprom, Russia is frequently the world's largest natural gas extractor. Major proven resources (in cubic kilometers) are world 187 300 (2013), Iran 33 600 (2013), Russia 32 900 (2013), Qatar 25 100 (2013), Turkmenistan 17 500 (2013) and the United States 8500 (2013). (2014), based on data from The World Factbook]]
 
 It is estimated that there are about 900 000 km³ of "unconventional" gas such as shale gas, of which 180 000 km³ may be recoverable.[24] In turn, many studies from MIT, Black & Veatch and the DOE predict that natural gas will account for a larger portion of electricity generation and heat in the future.[25]
 
@@ -42,7 +42,7 @@ Because natural gas is not a pure product, as the reservoir pressure drops when 
 
 Shale gas
 
-GasDepositDiagram.jpg compared to other types of gas deposits]]
+compared to other types of gas deposits]]
 
 Shale gas is natural gas produced from shale. Because shale has matrix permeability too low to allow gas to flow in economical quantities, shale gas wells depend on fractures to allow the gas to flow. Early shale gas wells depended on natural fractures through which gas flowed; almost all shale gas wells today require fractures artificially created by hydraulic fracturing. Since 2000, shale gas has become a major source of natural gas in the United States and Canada.[26] Because of increased shale gas production, the United States is now the number one natural gas producer in the world.[27] Following the success in the United States, shale gas exploration is beginning in countries such as Poland, China, and South Africa.[28][29][30]
 
@@ -68,7 +68,7 @@ In 2010, the cost of extracting natural gas from crystallized natural gas was es
 
 In 2013, Japan Oil, Gas and Metals National Corporation (JOGMEC) announced that they had recovered commercially relevant quantities of natural gas from methane hydrate.[40]
 
-NaturalGasProcessingPlant.jpg, Canada[41]]]
+, Canada[41]]]
 
 
 Processing
@@ -76,8 +76,6 @@ Processing
 The image below is a schematic block flow diagram of a typical natural gas processing plant. It shows the various unit processes used to convert raw natural gas into sales gas pipelined to the end user markets.
 
 The block flow diagram also shows how processing of the raw natural gas yields byproduct sulfur, byproduct ethane, and natural gas liquids (NGL) propane, butanes and natural gasoline (denoted as pentanes +).[42][43][44][45]
-
-NatGasProcessing.svg
 
 
 Depletion
@@ -87,7 +85,7 @@ As of 2018, natural gas production in the US has peaked twice, with current leve
 
 Storage and transport
 
-Polyethylene_gas_main.jpg plastic main being placed in a trench]]
+plastic main being placed in a trench]]
 
 Because of its low density, it is not easy to store natural gas or to transport it by vehicle. Natural gas pipelines are impractical across oceans, since the gas needs to be cooled down and compressed, as the friction in the pipeline causes the gas to heat up. Many existing pipelines in America are close to reaching their capacity, prompting some politicians representing northern states to speak of potential shortages. The large trade cost implies that natural gas markets are globally much less integrated, causing significant price differences across countries. In Western Europe, the gas pipeline network is already dense.[48] New pipelines are planned or under construction in Eastern Europe and between gas fields in Russia, Near East and Northern Africa and Western Europe. See also List of natural gas pipelines.
 
@@ -99,7 +97,7 @@ Gas is turned into liquid at a liquefaction plant, and is returned to gas form a
 
 CNG is transported at high pressure, typically above . Compressors and decompression equipment are less capital intensive and may be economical in smaller unit sizes than liquefaction/regasification plants. Natural gas trucks and carriers may transport natural gas directly to end-users, or to distribution points such as pipelines.
 
-Manlove_gas_storage_facility_crop.jpg Manlove Field natural gas storage area in Newcomb Township, Champaign County, Illinois. In the foreground (left) is one of the numerous wells for the underground storage area, with an LNG plant, and above ground storage tanks are in the background (right).]]
+Manlove Field natural gas storage area in Newcomb Township, Champaign County, Illinois. In the foreground (left) is one of the numerous wells for the underground storage area, with an LNG plant, and above ground storage tanks are in the background (right).]]
 
 In the past, the natural gas which was recovered in the course of recovering petroleum could not be profitably sold, and was simply burned at the oil field in a process known as flaring. Flaring is now illegal in many countries.[50] Additionally, higher demand in the last 20–30 years has made production of gas associated with oil economically viable. As a further option, the gas is now sometimes re-injected into the formation for enhanced oil recovery by pressure maintenance as well as miscible or immiscible flooding. Conservation, re-injection, or flaring of natural gas associated with oil is primarily dependent on proximity to markets (pipelines), and regulatory restrictions.
 
@@ -159,7 +157,7 @@ Domestic appliances, furnaces, and boilers use low pressure, usually 6 to 7 inch
 
 In the US compressed natural gas (CNG) is available in some rural areas as an alternative to less expensive and more abundant LPG (liquefied petroleum gas), the dominant source of rural gas. It is used in homes lacking direct connections to public utility provided gas, or to fuel portable grills. Natural gas is also supplied by independent natural gas suppliers through Natural Gas Choice programs throughout the United States.
 
-WMATA_3006.jpg Metrobus, which runs on natural gas]]
+Metrobus, which runs on natural gas]]
 
 Transportation
 
@@ -224,7 +222,7 @@ Natural gas extraction also produces radioactive isotopes of polonium (Po-210), 
 
 Safety concerns
 
-Gas_pipeline_odourant_injection_facility.JPGThe natural gas extraction workforce face unique health and safety challenges and is recognized by the National Institute for Occupational Safety and Health (NIOSH) as a priority industry sector in the National Occupational Research Agenda (NORA) to identify and provide intervention strategies regarding occupational health and safety issues.[106][107]
+The natural gas extraction workforce face unique health and safety challenges and is recognized by the National Institute for Occupational Safety and Health (NIOSH) as a priority industry sector in the National Occupational Research Agenda (NORA) to identify and provide intervention strategies regarding occupational health and safety issues.[106][107]
 
 Production
 
@@ -250,7 +248,7 @@ Natural gas in its native state is colorless and almost odorless. In order to as
 
 Risk of explosion
 
-Fire_engines_in_Kiev,_Ukraine.JPG, Ukraine]] Explosions caused by natural gas leaks occur a few times each year. Individual homes, small businesses and other structures are most frequently affected when an internal leak builds up gas inside the structure. Frequently, the blast is powerful enough to significantly damage a building but leave it standing. In these cases, the people inside tend to have minor to moderate injuries. Occasionally, the gas can collect in high enough quantities to cause a deadly explosion, disintegrating one or more buildings in the process. The gas usually dissipates readily outdoors, but can sometimes collect in dangerous quantities if flow rates are high enough. However, considering the tens of millions of structures that use the fuel, the individual risk of using natural gas is very low.
+, Ukraine]] Explosions caused by natural gas leaks occur a few times each year. Individual homes, small businesses and other structures are most frequently affected when an internal leak builds up gas inside the structure. Frequently, the blast is powerful enough to significantly damage a building but leave it standing. In these cases, the people inside tend to have minor to moderate injuries. Occasionally, the gas can collect in high enough quantities to cause a deadly explosion, disintegrating one or more buildings in the process. The gas usually dissipates readily outdoors, but can sometimes collect in dangerous quantities if flow rates are high enough. However, considering the tens of millions of structures that use the fuel, the individual risk of using natural gas is very low.
 
 Risk of carbon monoxide inhalation
 
@@ -259,7 +257,7 @@ Natural gas heating systems may cause carbon monoxide poisoning if unvented or p
 
 Energy content, statistics, and pricing
 
-Henry_hub_NG_prices.svg at the Henry Hub in US dollars per million BTUs ($/mmbtu)]] Natural_Gas_Price_Comparison.png
+at the Henry Hub in US dollars per million BTUs ($/mmbtu)]]
 
 Quantities of natural gas are measured in normal cubic meters (cubic meter of gas at "normal" temperature and pressure ) or standard cubic feet (cubic foot of gas at "standard" temperature and pressure ), . The gross heat of combustion of commercial quality natural gas is around , but this can vary by several percent. This is about (assuming a density of ,[130] an approximate value).
 
@@ -269,7 +267,7 @@ Gas prices for end users vary greatly across the EU.[131] A single European ener
 
 United States
 
-US_Natural_Gas_Production.svg Gas_Production_Top_5_Countries.png In US units, of natural gas produces around . The actual heating value when the water formed does not condense is the net heat of combustion and can be as much as 10% less.[134]
+In US units, of natural gas produces around . The actual heating value when the water formed does not condense is the net heat of combustion and can be as much as 10% less.[134]
 
 In the United States, retail sales are often in units of therms (th); 1 therm = 100,000 BTU. Gas sales to domestic consumers are often in units of 100 standard cubic feet (scf). Gas meters measure the volume of gas used, and this is converted to therms by multiplying the volume by the energy content of the gas used during that period, which varies slightly over time. The typical annual consumption of a single family residence is 1,000 therms or one Residential Customer Equivalent (RCE). Wholesale transactions are generally done in decatherms (Dth), thousand decatherms (MDth), or million decatherms (MMDth). A million decatherms is a trillion BTU, roughly a billion cubic feet of natural gas.
 

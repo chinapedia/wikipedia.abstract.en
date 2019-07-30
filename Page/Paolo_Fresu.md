@@ -18,7 +18,7 @@ In 2012, his quintet performed at the Sirifort Auditorium, New Delhi, India, to 
 
 Discography
 
-Carla-Bley-crop.png. From left to right: Carla Bley, Paolo Fresu and Andy Sheppard]]
+. From left to right: Carla Bley, Paolo Fresu and Andy Sheppard]]
 
 -   1987 _Mamut: Music for a Mime_ (Splasc(H), 1987)
 -   1989 _Opale_ with Francesco Tattara, Furio Di Castri (Clac, 1989)

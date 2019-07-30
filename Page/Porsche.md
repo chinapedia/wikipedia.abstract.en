@@ -7,7 +7,7 @@ Origin
 
 Ferdinand Porsche founded the company called "Dr. Ing. h. c. F. Porsche GmbH" in 1931,[1] with main offices at Kronenstraße 24 in the centre of Stuttgart.[2] Initially, the company offered motor vehicle development work and consulting,[3] but did not build any cars under its own name. One of the first assignments the new company received was from the German government to design a car for the people, that is a "Volkswagen".[4] This resulted in the Volkswagen Beetle, one of the most successful car designs of all time.[5] The Porsche 64 was developed in 1939 using many components from the Beetle.[6]
 
-Tiger_(P).svg's Tiger I.]] Elefant_USAOM-01.jpg'', after the loss of the contract to the Tiger I Porsche recycled his design into a tank destroyer.]]
+'s Tiger I.]] '', after the loss of the contract to the Tiger I Porsche recycled his design into a tank destroyer.]]
 
 During World War II,[7] Volkswagen production turned to the military version of the Volkswagen Beetle, the Kübelwagen,[8] 52,000 produced, and Schwimmwagen,[9] 15,584 produced.[10] Porsche produced several designs for heavy tanks during the war, losing out to Henschel & Son in both contracts that ultimately led to the Tiger I and the Tiger II. However, not all this work was wasted, as the chassis Porsche designed for the Tiger I was used as the base for the Elefant tank destroyer. Porsche also developed the Maus super-heavy tank in the closing stages of the war, producing two prototypes.[11]
 
@@ -23,9 +23,9 @@ Württemberg-Baden and Württemberg-Hohenzollern became part of the present land
 
 Developments
 
-1953-porsche-archives.jpg In post-war Germany, parts were generally in short supply, so the 356 automobile used components from the Volkswagen Beetle, including the engine case from its internal combustion engine, transmission, and several parts used in the suspension. The 356, however, had several evolutionary stages, A, B, and C, while in production, and most Volkswagen-sourced parts were replaced by Porsche-made parts. Beginning in 1954 the 356s engines started utilizing engine cases designed specifically for the 356. The sleek bodywork was designed by Erwin Komenda, who also had designed the body of the Beetle. Porsche's signature designs have, from the beginning, featured air-cooled rear-engine configurations (like the Beetle), rare for other car manufacturers, but producing automobiles that are very well balanced.
+In post-war Germany, parts were generally in short supply, so the 356 automobile used components from the Volkswagen Beetle, including the engine case from its internal combustion engine, transmission, and several parts used in the suspension. The 356, however, had several evolutionary stages, A, B, and C, while in production, and most Volkswagen-sourced parts were replaced by Porsche-made parts. Beginning in 1954 the 356s engines started utilizing engine cases designed specifically for the 356. The sleek bodywork was designed by Erwin Komenda, who also had designed the body of the Beetle. Porsche's signature designs have, from the beginning, featured air-cooled rear-engine configurations (like the Beetle), rare for other car manufacturers, but producing automobiles that are very well balanced.
 
-In 1964, after a fair amount of success in motor-racing with various models including the 550 Spyder, and with the 356 needing a major re-design, the company launched the Porsche 911: another air-cooled, rear-engined sports car, this time with a six-cylinder "boxer" engine. The team to lay out the body shell design was led by Ferry Porsche's eldest son, Ferdinand Alexander Porsche (F. A.). The design phase for the 911 caused internal problems with Erwin Komenda, who led the body design department until then. F. A. Porsche complained Komenda made unauthorized changes to the design. Company leader Ferry Porsche took his son's drawings to neighbouring chassis manufacturer Reuter. Reuter's workshop was later acquired by Porsche (so-called Werk 2). Afterward Reuter became a seat manufacturer, today known as Keiper-Recaro. Porsche_912.jpg, from the 1960s]]
+In 1964, after a fair amount of success in motor-racing with various models including the 550 Spyder, and with the 356 needing a major re-design, the company launched the Porsche 911: another air-cooled, rear-engined sports car, this time with a six-cylinder "boxer" engine. The team to lay out the body shell design was led by Ferry Porsche's eldest son, Ferdinand Alexander Porsche (F. A.). The design phase for the 911 caused internal problems with Erwin Komenda, who led the body design department until then. F. A. Porsche complained Komenda made unauthorized changes to the design. Company leader Ferry Porsche took his son's drawings to neighbouring chassis manufacturer Reuter. Reuter's workshop was later acquired by Porsche (so-called Werk 2). Afterward Reuter became a seat manufacturer, today known as Keiper-Recaro. , from the 1960s]]
 
 The design office gave sequential numbers to every project (See Porsche type numbers), but the designated 901 nomenclature contravened Peugeot's trademarks on all 'x0x' names, so it was adjusted to 911. Racing models adhered to the "correct" numbering sequence: 904, 906, 908. The 911 has become Porsche's most well-known and iconic model – successful on the race-track, in rallies, and in terms of road car sales. Far more than any other model, the Porsche brand is defined by the 911. It remains in production; however, after several generations of revision, current-model 911s share only the basic mechanical configuration of a rear-engined, six-cylinder coupé, and basic styling cues with the original car. A cost-reduced model with the same body, but with 356-derived four-cylinder engine, was sold as the 912.
 
@@ -35,7 +35,7 @@ F. A. Porsche founded his own design company, Porsche Design, which is renowned 
 
 The first Chief Executive Officer (CEO) of Porsche AG was Dr. Ernst Fuhrmann, who had been working in the company's engine development division. Fuhrmann was responsible for the so-called Fuhrmann-engine, used in the 356 Carrera models as well as the 550 Spyder, having four overhead camshafts instead of a central camshaft with pushrods, as in the Volkswagen-derived serial engines. He planned to cease the 911 during the 1970s and replace it with the V8-front engined grand sportswagon 928. As we know today, the 911 outlived the 928 by far. Fuhrmann was replaced in the early 1980s by Peter W. Schutz, an American manager and self-proclaimed 911 aficionado. He was then replaced in 1988 by the former manager of German computer company Nixdorf Computer AG, Arno Bohn, who made some costly miscalculations that led to his dismissal soon after, along with that of the development director, Dr. Ulrich Bez, who was formerly responsible for BMW's Z1 model, and was CEO of Aston Martin from 2000 to 2013.[16]
 
-Classic_Moto_Show_2014_(115).JPG), introduced in 1989, was the first to be offered with Porsche's Tiptronic transmission and four-wheel drive.]] In 1990, Porsche drew up a memorandum of understanding with Toyota to learn and benefit from Japanese lean manufacturing methods. In 2004 it was reported that Toyota was assisting Porsche with hybrid technology.[17]
+), introduced in 1989, was the first to be offered with Porsche's Tiptronic transmission and four-wheel drive.]] In 1990, Porsche drew up a memorandum of understanding with Toyota to learn and benefit from Japanese lean manufacturing methods. In 2004 it was reported that Toyota was assisting Porsche with hybrid technology.[17]
 
 Following the dismissal of Bohn, Heinz Branitzki, a longtime Porsche employee, was appointed as interim CEO. Branitzki served in that position until Wendelin Wiedeking became CEO in 1993. Wiedeking took over the chairmanship of the board at a time when Porsche appeared vulnerable to a takeover by a larger company. During his long tenure, Wiedeking transformed Porsche into a very efficient and profitable company.
 
@@ -43,7 +43,7 @@ Ferdinand Porsche's nephew, Ferdinand Piëch, was chairman and CEO of the Volksw
 
 Porsche's 2002 introduction of the Cayenne also marked the unveiling of a new production facility in Leipzig, Saxony, which once accounted for nearly half of Porsche's annual output. In 2004, production of the Carrera GT commenced in Leipzig, and at EUR 450,000 ($440,000 in the United States) it was the most expensive production model Porsche ever built.
 
-Toulousaine_de_l'automobile_-_7425_-_Porsche_911_Carrera_(2011).jpg In mid-2006, after years of the Boxster (and later the Cayenne) as the best selling Porsche in North America, the 911 regained its position as Porsche's best-seller in the region. The Cayenne and 911 have cycled as the top-selling model since. In Germany, the 911 outsells the Boxster/Cayman and Cayenne.[18]
+In mid-2006, after years of the Boxster (and later the Cayenne) as the best selling Porsche in North America, the 911 regained its position as Porsche's best-seller in the region. The Cayenne and 911 have cycled as the top-selling model since. In Germany, the 911 outsells the Boxster/Cayman and Cayenne.[18]
 
 In May 2011, Porsche Cars North America announced plans to spend $80–$100 million, but will receive about $15 million in economic incentives to move their North American headquarters from Sandy Springs, a suburb of Atlanta, to Aerotropolis, Atlanta, a new mixed-use development on the site of the old Ford Hapeville plant adjacent to Atlanta's airport.[19] Designed by architectural firm HOK, the headquarters will include a new office building and test track.[20][21][22] The facility will be known by its new address, One Porsche Drive.
 
@@ -51,13 +51,13 @@ In October 2017, Porsche Cars North America announced the launch of introduced P
 
 Relationship with Volkswagen
 
-Vw-porsche914-typenbezeichnung.JPG The company has always had a close relationship with, initially, the Volkswagen (VW) marque, and later, the Volkswagen Group (which also owns Audi AG), because the first Volkswagen Beetle was designed by Ferdinand Porsche.
+The company has always had a close relationship with, initially, the Volkswagen (VW) marque, and later, the Volkswagen Group (which also owns Audi AG), because the first Volkswagen Beetle was designed by Ferdinand Porsche.
 
 The two companies collaborated in 1969 to make the VW-Porsche 914 and 914-6, whereby the 914-6 had a Porsche engine, and the 914 had a Volkswagen engine. Further collaboration in 1976 resulted in the Porsche 912E (US only) and the Porsche 924, which used many Audi components, and was built at Audi's Neckarsulm factory, which had been NSU's. Porsche 944s were also built there,[25] although they used far fewer Volkswagen components. The Cayenne, introduced in 2002, shares its chassis with the Volkswagen Touareg and the Audi Q7, which is built at the Volkswagen Group factory in Bratislava, Slovakia.
 
 Corporate restructuring
 
-Porsche911(991)PorschePlatz.jpg) in front of the factory in which it was assembled, Porschewerk Stuttgart (right), and the manufacturer's central dealership, Porsche Zentrum Stuttgart (left).]] Porsche,_GIMS_2018,_Le_Grand-Saconnex_(1X7A0254).jpg, Detlev von Platen, Michael Steiner, …]] Porsche,_GIMS_2018,_Le_Grand-Saconnex_(1X7A0250).jpg Porsche SE was created in June 2007 by renaming the old Dr. Ing. h.c. F. Porsche AG, and became a holding company for the families' stake in Porsche Zwischenholding GmbH (50.1%) (which in turn held 100% of the old Porsche AG) and Volkswagen AG (50.7%).[26][27] At the same time, the new Dr. Ing. h.c. F. Porsche AG (PORSCHE AG) was created for the car manufacturing business.
+) in front of the factory in which it was assembled, Porschewerk Stuttgart (right), and the manufacturer's central dealership, Porsche Zentrum Stuttgart (left).]] , Detlev von Platen, Michael Steiner, …]] Porsche SE was created in June 2007 by renaming the old Dr. Ing. h.c. F. Porsche AG, and became a holding company for the families' stake in Porsche Zwischenholding GmbH (50.1%) (which in turn held 100% of the old Porsche AG) and Volkswagen AG (50.7%).[26][27] At the same time, the new Dr. Ing. h.c. F. Porsche AG (PORSCHE AG) was created for the car manufacturing business.
 
 In August 2009, Porsche SE and Volkswagen AG reached an agreement that the car manufacturing operations of the two companies would merge in 2011, to form an "Integrated Automotive Group".[28][29] The management of Volkswagen AG agreed to 50.76% of Volkswagen AG being owned by Porsche SE in return for Volkswagen AG management taking Porsche SE management positions (in order for Volkswagen management to remain in control), and for Volkswagen AG acquiring ownership of Porsche AG.
 
@@ -102,7 +102,7 @@ On May 11, 2017, Porsche built the one millionth 911. An Irish green Carrera S w
 
 Production composition
 
-Porsche_Production_Statistics_2018.jpg Of the 246,375 cars produced in the 2017 financial year, 32,197 were 911 models, 25,114 were Boxster and Cayman cars, 63,913 were Cayennes, 27,942 were Panameras and 97,202 were Macans.[50]
+Of the 246,375 cars produced in the 2017 financial year, 32,197 were 911 models, 25,114 were Boxster and Cayman cars, 63,913 were Cayennes, 27,942 were Panameras and 97,202 were Macans.[50]
 
 North American sales
 
@@ -232,8 +232,6 @@ Racing models
 
 Prototypes and concept cars
 
-Porsche_Boxster_Concept_Prototype_1992_frontleft_2010-03-12_A.JPG
-
 -   Porsche 114
 -   Porsche 356/1
 -   Porsche 695 (911 prototype)
@@ -252,8 +250,6 @@ Porsche_Boxster_Concept_Prototype_1992_frontleft_2010-03-12_A.JPG
 -   Porsche Mission E
 
 Tractors
-
-Porsche_Traktor_Diesel_Super.jpg
 
 -   Porsche Type 110
 -   Porsche AP Series
@@ -284,7 +280,7 @@ See Porsche PFM 3200.
 
 Motorsport
 
-2006FOS_1970Porsche917L.jpg blue and green "_psychedelic_" livery on a 1970 917K. This car raced at Watkins Glen in 1970.]] Porsche has a record 19 outright wins at the 24 Hours of Le Mans.[74] Porsche is currently the world's largest race car manufacturer. In 2006, Porsche built 195 race cars for various international motor sports events. In 2007, Porsche is expected to construct no fewer than 275 dedicated race cars (7 RS Spyder LMP2 prototypes, 37 GT2 spec 911 GT3-RSRs, and 231 911 GT3 Cup vehicles).[75]
+blue and green "_psychedelic_" livery on a 1970 917K. This car raced at Watkins Glen in 1970.]] Porsche has a record 19 outright wins at the 24 Hours of Le Mans.[74] Porsche is currently the world's largest race car manufacturer. In 2006, Porsche built 195 race cars for various international motor sports events. In 2007, Porsche is expected to construct no fewer than 275 dedicated race cars (7 RS Spyder LMP2 prototypes, 37 GT2 spec 911 GT3-RSRs, and 231 911 GT3 Cup vehicles).[75]
 
 
 Pronunciation

@@ -76,13 +76,9 @@ In 1974, The Royal Nepalese Army (RNA) was mobilized to disarm the Tibetan Khamp
 
 International Operations
 
-Nepalese_UN_soldier.jpg
-
 Nepal Army's long association with UN Peace Support Operations began with the deployment of five Military Observers in the Middle East, Lebanon (UNOGIL/ United Nations Observer Group in Lebanon) in 1958. And the first Nepalese contingent, Purano Gorakh battalion was deployed in Egypt in 1974. Nepal Army\'s participation in the UN peacekeeping operations spans a period of 50 years covering Nepal army involved UN Missions are 42,of which latest being UNSMIL in Libya, in which over sixty thousand six hundred and fifty two (60,652) Nepalese soldiers have served in support of UN peacekeeping endeavors. The Nepal Army has contributed Force Commanders, military contingent, military observers and staff officers. Nepalese troops have taken part in some of the most difficult operations, and have suffered casualties in the service of the UN. To date, the number of those lost on duty with the UN is 54, while 57 were seriously wounded.
 
 Its most significant contribution has been of peace and stability in Africa. It has demonstrated its capacity of sustaining large troop commitments over prolonged periods. Presently, Nepal is ranked as the sixth largest troop contributing country (TCC) to the UN.
-
-DA-ST-96-01245_c1.JPEG
 
 -   United Nations Interim Force in Lebanon (UNIFIL),
 -   UNOSOMII the UN Protective Force (UNPROFOR), UN Operational Mission Somalia II,

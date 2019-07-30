@@ -14,7 +14,7 @@ The Pastaza has numerous tributaries, both above and below the hydroelectric dam
 
 Economy
 
-Ecuador_bridgeoverthePastazas2.JPG and Macas]] There are no major fisheries on the Pastaza River - it is primarily used as a means of transport by canoe.[12] Its rise and fall are rapid and uncertain, and it is shallow and full of sandbanks and snags.[13] Flooding occurs seasonally.[14]
+and Macas]] There are no major fisheries on the Pastaza River - it is primarily used as a means of transport by canoe.[12] Its rise and fall are rapid and uncertain, and it is shallow and full of sandbanks and snags.[13] Flooding occurs seasonally.[14]
 
 
 Bridges

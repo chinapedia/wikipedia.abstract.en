@@ -47,7 +47,7 @@ Summary
 
 Relationships among the regular polyhedra
 
-Relationship_among_regular_star_polyhedra_(direction_colors).png) [2]]]
+) [2]]]
 
 Conway's operational terminology
 
@@ -91,14 +91,13 @@ Shared vertices and edges
 
 The great stellated dodecahedron shares its vertices with the dodecahedron. The other three Kepler–Poinsot polyhedra share theirs with the icosahedron.
 
-+--------------------------------------------------+--------------------------+-------------------------+------------------------------+-----------------------+------------------------------+
-| Polyhedron_20_big.png                            | Polyhedron_great_12.png  | Polyhedron_great_20.png | Polyhedron_great_12_dual.png | Polyhedron_12_big.png | Polyhedron_great_20_dual.png |
-| icosahedron                                      | great dodecahedron       | great icosahedron       | small stellated dodecahedron | dodecahedron          | great stellated dodecahedron |
-+--------------------------------------------------+--------------------------+-------------------------+------------------------------+-----------------------+------------------------------+
-| share vertices and edges                         | share vertices and edges | share vertices,         |                              |                       |                              |
-+--------------------------------------------------+--------------------------+-------------------------+------------------------------+-----------------------+------------------------------+
-| share vertices, skeletons form icosahedral graph |                          |                         |                              |                       |                              |
-+--------------------------------------------------+--------------------------+-------------------------+------------------------------+-----------------------+------------------------------+
++--------------------------------------------------+--------------------------+-------------------+------------------------------+--------------+------------------------------+
+| icosahedron                                      | great dodecahedron       | great icosahedron | small stellated dodecahedron | dodecahedron | great stellated dodecahedron |
++--------------------------------------------------+--------------------------+-------------------+------------------------------+--------------+------------------------------+
+| share vertices and edges                         | share vertices and edges | share vertices,   |                              |              |                              |
++--------------------------------------------------+--------------------------+-------------------+------------------------------+--------------+------------------------------+
+| share vertices, skeletons form icosahedral graph |                          |                   |                              |              |                              |
++--------------------------------------------------+--------------------------+-------------------+------------------------------+--------------+------------------------------+
 
 
 The stellated dodecahedra
@@ -115,9 +114,9 @@ For the small stellated dodecahedron the hull is φ times bigger than the core, 
 +====================================================================================================+
 | hull                                                                                               |
 +----------------------------------------------------------------------------------------------------+
-| Polyhedron_20_big.png                                                                              |
+|                                                                                                    |
 +----------------------------------------------------------------------------------------------------+
-| Polyhedron_12_big.png                                                                              |
+|                                                                                                    |
 +----------------------------------------------------------------------------------------------------+
 | The platonic hulls in these images have the same midradius.                                        |
 | This implies that the pentagrams have the same size, and that the cores have the same edge length. |
@@ -133,10 +132,8 @@ Kepler calls the small stellation an _augmented dodecahedron_ (then nicknaming i
 These naïve definitions are still used. E.g. MathWorld states that the two star polyhedra can be constructed by adding pyramids to the faces of the Platonic solids.[4] [5]
 
   Stellated dodecahedra as augmentations
-  -------------------------------------------
+  ----------------------------------------
   core
-  Polyhedron_12_(core_of_great_12_dual).png
-  Polyhedron_20_(core_of_great_20_dual).png
 
 
 Symmetry
@@ -187,9 +184,9 @@ The following year, Arthur Cayley gave the Kepler–Poinsot polyhedra the names 
 
 A hundred years later, John Conway developed a systematic terminology for stellations in up to four dimensions. Within this scheme the small stellated dodecahedron is just the _stellated dodecahedron_.
 
-  --------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ------------------ ------------------------------------ -------------------------------------------------- ----------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------- ------------------------
-  Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg in St Mark's Basilica, Venice sometimes attributed to Paolo Uccello]]   De_divina_proportione_-_Icosaedron_Elevatum_Solidum.jpg, _De divina proportione_ (1509)]]   {{multiple image   align = center | total_width = 440   image1 = Perspectiva Corporum Regularium 22c.jpg   image2 = Perspectiva Corporum Regularium MET DP239933, great stellated dodecahedron.jpg   footer = Great dodecahedron and great stellated dodecahedron in '' Perspectiva Corporum Regularium'' by Wenzel Jamnitzer (1568) }}   Stellated_dodecahedra_Harmonices_Mundi.jpg'' by Johannes Kepler (1619)]]   Alexander's_Star.jpg]]
-  --------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ------------------ ------------------------------------ -------------------------------------------------- ----------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------- ------------------------
+  ----------------------------------------------------------------------- ------------------------------------ ------------------ ------------------------------------ -------------------------------------------------- ----------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ -------------------------------- ----
+  in St Mark's Basilica, Venice sometimes attributed to Paolo Uccello]]   , _De divina proportione_ (1509)]]   {{multiple image   align = center | total_width = 440   image1 = Perspectiva Corporum Regularium 22c.jpg   image2 = Perspectiva Corporum Regularium MET DP239933, great stellated dodecahedron.jpg   footer = Great dodecahedron and great stellated dodecahedron in '' Perspectiva Corporum Regularium'' by Wenzel Jamnitzer (1568) }}   '' by Johannes Kepler (1619)]]   ]]
+  ----------------------------------------------------------------------- ------------------------------------ ------------------ ------------------------------------ -------------------------------------------------- ----------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------ -------------------------------- ----
 
 
 Regular star polyhedra in art and culture

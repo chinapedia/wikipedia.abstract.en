@@ -1,6 +1,6 @@
-League_of_Nations_mandate_Middle_East_and_Africa.png|Lebanon|Palestine|Transjordan|Mesopotamia|British Togoland|French Togoland|British Cameroons|French Cameroun| Ruanda-Urundi|Tanganyika|South West Africa}}
+|Lebanon|Palestine|Transjordan|Mesopotamia|British Togoland|French Togoland|British Cameroons|French Cameroun| Ruanda-Urundi|Tanganyika|South West Africa}}
 
-]] League_of_Nations_mandate_Pacific.png|Territory of New Guinea| Nauru|Western Samoa}}
+]] |Territory of New Guinea| Nauru|Western Samoa}}
 
 ]]
 
@@ -38,7 +38,7 @@ The mandates were divided into three distinct groups based upon the level of dev
 
 Class A mandates
 
-Minutes_of_the_Council_of_the_League_of_Nations_meetings_approving_the_mandates_for_Palestine_and_Syria,_19_to_24_July_1922.jpg The first group, or _Class A mandates_, were territories formerly controlled by the Ottoman Empire that were deemed to "... have reached a stage of development where their existence as independent nations can be provisionally recognized subject to the rendering of administrative advice and assistance by a Mandatory until such time as they are able to stand alone. The wishes of these communities must be a principal consideration in the selection of the Mandatory."
+The first group, or _Class A mandates_, were territories formerly controlled by the Ottoman Empire that were deemed to "... have reached a stage of development where their existence as independent nations can be provisionally recognized subject to the rendering of administrative advice and assistance by a Mandatory until such time as they are able to stand alone. The wishes of these communities must be a principal consideration in the selection of the Mandatory."
 
 The Class A mandates were:
 
@@ -73,7 +73,7 @@ The Class C mandates were former German possessions:
 
 Rules of establishment
 
-Map_of_league_of_nations_mandate.png According to the Council of the League of Nations, meeting of August 1920:[13] "draft mandates adopted by the Allied and Associated Powers would not be definitive until they had been considered and approved by the League ... the legal title held by the mandatory Power must be a double one: one conferred by the Principal Powers and the other conferred by the League of Nations,"[14]
+According to the Council of the League of Nations, meeting of August 1920:[13] "draft mandates adopted by the Allied and Associated Powers would not be definitive until they had been considered and approved by the League ... the legal title held by the mandatory Power must be a double one: one conferred by the Principal Powers and the other conferred by the League of Nations,"[14]
 
 Three steps were required to establish a Mandate under international law: (1) The Principal Allied and Associated Powers confer a mandate on one of their number or on a third power; (2) the principal powers officially notify the council of the League of Nations that a certain power has been appointed mandatory for such a certain defined territory; and (3) the council of the League of Nations takes official cognisance of the appointment of the mandatory power and informs the latter that it [the council] considers it as invested with the mandate, and at the same time notifies it of the terms of the mandate, after ascertaining whether they are in conformance with the provisions of the covenant."[15][16]
 

@@ -95,13 +95,13 @@ Related vehicle categories
 
 Compact MPV
 
-2018_Volkswagen_Touran_1.6.jpg ]] Compact MPV— an abbreviation for Compact Multi-Purpose Vehicle— is a vehicle size class for the middle size of MPVs/minivans. The Compact MPV size class sits between the mini MPV and minivan size classes.
+]] Compact MPV— an abbreviation for Compact Multi-Purpose Vehicle— is a vehicle size class for the middle size of MPVs/minivans. The Compact MPV size class sits between the mini MPV and minivan size classes.
 
 Compact MPVs remain predominantly a European phenomenon, although they are also built and sold in many Latin American and Asian markets. As of 2016, the only compact MPV sold widely in the United States is the Ford C-Max.
 
 Mini MPV
 
-Ford_Tourneo_Courier_0283.jpg ]] Mini MPV — an abbreviation for Mini Multi-Purpose Vehicle — is a vehicle size class for the smallest size of minivans (MPVs). The Mini MPV size class sits below the compact MPV size class and the vehicles are often built on the platforms of B-segment hatchback models.
+]] Mini MPV — an abbreviation for Mini Multi-Purpose Vehicle — is a vehicle size class for the smallest size of minivans (MPVs). The Mini MPV size class sits below the compact MPV size class and the vehicles are often built on the platforms of B-segment hatchback models.
 
 Several PSA Peugeot Citroën minivans based on B-segment platforms have been marketed as 'leisure activity vehicles' in Europe.[30] These include the Citroën Berlingo (1996-present).
 

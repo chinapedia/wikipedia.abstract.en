@@ -1,4 +1,4 @@
-Menstrie_Castle_from_the_west_(approach)_road.JPG Kilwinning_Lodge,_Edinburgh.jpg Sir RALPH ABERCROMBY (sometimes spelt ABERCROMBIE) (7 October 173428 March 1801) was a Scottish soldier and politician. He twice served as MP for Clackmannanshire, rose to the rank of lieutenant-general in the British Army, was appointed Governor of Trinidad, served as Commander-in-Chief, Ireland, and was noted for his services during the French Revolutionary Wars.
+Sir RALPH ABERCROMBY (sometimes spelt ABERCROMBIE) (7 October 173428 March 1801) was a Scottish soldier and politician. He twice served as MP for Clackmannanshire, rose to the rank of lieutenant-general in the British Army, was appointed Governor of Trinidad, served as Commander-in-Chief, Ireland, and was noted for his services during the French Revolutionary Wars.
 
 
 Early life
@@ -25,7 +25,7 @@ When France declared war against Great Britain in 1793, Abercromby resumed his d
 
 That same year, he was appointed to succeed Sir Charles Grey as commander-in-chief of the British forces in the West Indies. In 1796, Grenada was suddenly attacked and taken by a detachment of the army under his orders. Afterwards, Abercromby secured possession of the settlements of Demerara and Essequibo in South America, the islands of Saint Lucia, Saint Vincent and Trinidad.[10] A major assault on the port of San Juan, Puerto Rico, in April 1797 failed[11] after fierce fighting where both sides suffered heavy losses.
 
-Trinidad_Ralph_Abercromby.JPG Tobago_Ralph_Abercromby.JPG.]]
+.]]
 
 Abercromby returned to Europe and, in reward for his services, was appointed colonel of the 2nd (Royal North British) Regiment of Dragoons. He was also made Lieutenant-Governor of the Isle of Wight, Governor of Fort George and Fort Augustus in the Scottish Highlands, and promoted to the rank of Lieutenant-general. He again entered Parliament as member for Clackmannanshire from 1796 to 1798. From 1797 to 1798, he was Commander-in-Chief of the forces in Ireland.[12]
 
@@ -38,7 +38,7 @@ In 1801, Abercromby was sent with an army to recover Egypt from France. His expe
 
 Death
 
-Death_of_Gen_Sir_Ralph_Abercrombie_by_Sir_Robert_Ker_Porter_(detail).jpg Malta_-_Valletta_-_Triq_il-Lanca_-_Fort_Saint_Elmo_(MSTHC)_02_ies.jpg, Valletta, Malta. It is also known as Abercrombie's Bastion in his honour.]]
+, Valletta, Malta. It is also known as Abercrombie's Bastion in his honour.]]
 
 In 1800 Abercromby commanded the expedition to the Mediterranean, and after some brilliant operations defeated the French in the Battle of Alexandria, 21 March 1801. During the action he was struck by a musket-ball in the thigh; but not until the battle was won and he saw the enemy retreating did he show any sign of pain. He was borne from the field in a hammock, cheered by the blessings of the soldiers as he passed, and conveyed on board the flag-ship HMS _Foudroyant_ which was moored in the harbour. The ball could not be extracted; mortification ensued, and seven days later, on 28 March 1801, he died.[15]
 

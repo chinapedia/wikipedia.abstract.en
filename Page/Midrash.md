@@ -1,4 +1,4 @@
-Midrash_tehillim_title.jpg]] MIDRASH (;[1] ; pl. __) is biblical exegesis by ancient Judaic authorities,[2] using a mode of interpretation prominent in the Talmud.
+]] MIDRASH (;[1] ; pl. __) is biblical exegesis by ancient Judaic authorities,[2] using a mode of interpretation prominent in the Talmud.
 
 Midrash and rabbinic readings "discern value in texts, words, and letters, as potential revelatory spaces," writes the Reverend and Hebrew scholar Wilda C. Gafney. "They reimagine dominant narratival readings while crafting new ones to stand alongside—not replace—former readings. Midrash also asks questions of the text; sometimes it provides answers, sometimes it leaves the reader to answer the questions."[3]
 

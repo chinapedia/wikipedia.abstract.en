@@ -11,8 +11,6 @@ A sequel, _Kid Icarus: Of Myths and Monsters_, was released for the Game Boy in 
 
 Gameplay
 
-Kid_Icarus_Sky_World.png
-
 _Kid Icarus_ is an action platformer with role-playing elements.[5] The player controls the protagonist Pit through two-dimensional levels, which contain monsters, obstacles and items.[6][7] Pit's primary weapon is a bow with an unlimited supply of arrows that can be upgraded with three collectable power items: the guard crystal shields Pit from enemies, the flaming arrows hit multiple targets, and the holy bow increases the range of the arrows.[8][9][10] These upgrades will work only if Pit's health is high enough.[11] The game keeps track of the player's score, and increases Pit's health bar at the end of a level if enough points were collected.[12][13]
 
 Throughout the stages, the player may enter doors to access seven different types of chambers. Stores and black markets offer items in exchange for hearts, which are left behind by defeated monsters. Treasure chambers contain items, enemy nests give the player an opportunity to earn extra hearts, and hot springs restore Pit's health.[14][15][16] In the god's chamber, the strength of Pit's bow and arrow may be increased depending on several factors, such as the number of enemies defeated and the amount of damage taken in battle.[17][18][19] In the training chamber, Pit will be awarded with one of the three power items if he passes a test of endurance.[20][21]

@@ -1,4 +1,4 @@
-Rotarydial.JPG but was kept because it facilitated memorization of telephone numbers.]] A ROTARY DIAL is a component of a telephone or a telephone switchboard that implements a signaling technology in telecommunications known as pulse dialing. It is used when initiating a telephone call to transmit the destination telephone number to a telephone exchange.
+but was kept because it facilitated memorization of telephone numbers.]] A ROTARY DIAL is a component of a telephone or a telephone switchboard that implements a signaling technology in telecommunications known as pulse dialing. It is used when initiating a telephone call to transmit the destination telephone number to a telephone exchange.
 
 On the rotary phone dial, the digits are arranged in a circular layout so that a finger wheel may be rotated with one finger from the position of each digit to a fixed stop position, implemented by the finger stop, which is a mechanical barrier to prevent further rotation.
 
@@ -8,12 +8,12 @@ The first patent for a rotary dial was granted to Almon Brown Strowger (November
 
 From the 1980s onward, the rotary dial was gradually supplanted by dual-tone multi-frequency push-button dialing, first introduced to the public at the 1962 World's Fair under the trade name "Touch-Tone". Touch-tone technology primarily used a keypad in form of a rectangular array of push-buttons for dialing.
 
-Ericsson_Dialog_in_green.JPG up until the 1980s]]
+up until the 1980s]]
 
 
 History
 
-IllinoisTunnelAdNews.png from the Illinois Tunnel Company, showing an Automatic Electric-made phone]]
+from the Illinois Tunnel Company, showing an Automatic Electric-made phone]]
 
 From as early as 1836 onward, various suggestions and inventions of dials for sending telegraph signals were reported. After the first commercial telephone exchange was installed in 1878, the need for an automated, user-controlled method of directing a telephone call became apparent. Addressing the technical shortcomings, Almon Brown Strowger invented a telephone dial in 1891.[2] Before 1891, numerous competing inventions, and 26 patents for dials, push-buttons, and similar mechanisms, specified methods of signalling a destination telephone station that a subscriber wanted to call. Most inventions involved costly, intricate mechanisms and required the user to perform complex manipulations.
 
@@ -32,7 +32,7 @@ Despite their lack of modern features, rotary phones occasionally find special u
 
 Construction
 
-Ericsson_bakelittelefon_1931.jpg rotary dial telephone without lettering on the finger wheel, typical of European telephones. The _0_ precedes _1_.]]
+rotary dial telephone without lettering on the finger wheel, typical of European telephones. The _0_ precedes _1_.]]
 
 A rotary dial typically features a circular construction. The shaft that actuates the mechanical switching mechanism is driven by the finger wheel, a disk that has ten finger holes aligned close to the circumference. The finger wheel may be transparent or opaque permitting the viewing of the face plate, or number plate below, either in whole, or only showing the number assignment for each finger hole. The faceplate is printed with numbers, and sometimes letters, corresponding to each finger hole. The 1 is normally set at approximately 60 degrees clockwise from the uppermost point of the dial, or approximately at the 2 o'clock position, and then the numbers progress counterclockwise, with the 0 being at about 5 o'clock. A curved device called a finger stop sits above the dial at approximately the 4 o'clock position. The physical nature of the dialing mechanism on rotary phones allowed the use of physical locking mechanisms to prevent unauthorized use. The lock could be integral to the phone itself or a separate device inserted through the finger hole nearest the finger stop to prevent the dial from rotating.
 
@@ -44,14 +44,12 @@ The use of letters on dials was proposed in 1917 by W. G. Blauvelt of AT&T. Larg
 
 In the United Kingdom the letter "O" was combined with the digit "0" rather than "6". Older Australian rotary dial telephones had each number's corresponding letter printed on a paper disc in the centre of the plate, with space where the subscriber could add the phone number. The paper was protected by a clear plastic disc, held in place by a form of retaining ring which also served to locate the disc radially. The Australian letter-to-number mapping was A=1, B=2, F=3, J=4, L=5, M=6, U=7, W=8, X=9, Y=0, so the phone number BX 3701 was in fact 29 3701. When Australia around 1960 changed to all-numeric telephone dials, a mnemonic to help people associate letters with numbers was the sentence, "All Big Fish Jump Like Mad Under Water eXcept Yabbies." However, such letter codes were not used in all countries.
 
-Phone_from_1950s_uk_-_This_one_is_real.JPG
-
 Dials outside Canada, the United States, and large cities in Britain (before all-figure dialling) usually did not bear alphabetic characters or an indication of the word "operator" in addition to numbers. Alphabetic designation of exchanges with Cyrillic letters (А, Б, В, Г, Д, Е, Ж, И, К, Л for each of the digits from 1 through 0 respectively) was also used for a short period in the Soviet Union in the 1950s and 1960s, but by the next decade this practice was largely discontinued.[9][10]
 
 
 Function
 
-New_Zealand_Rotary_Telephone.jpg which used a reversed ordering of the numerals]]
+which used a reversed ordering of the numerals]]
 
 To dial a number, the user puts a finger in the corresponding finger hole and rotates the dial clockwise until it reaches the finger stop. The user then pulls out the finger, and a spring in the dial returns it to the resting position. For example, if the user dials "6" on a North American phone, electrical contacts wired through the cam mechanism inside the phone will open and close six times as the dial returns to home position, thus sending six pulses to the central office.
 
@@ -63,13 +61,11 @@ Rotary dial telephones have no redial feature; the complete number has to be dia
 
 Since the late 1940s, telephones were redesigned with the numbers and letters on a ring outside the finger wheel to provide better visibility.[11]
 
-Bakelittelefon_1947a.jpg
-
 Emergency calling
 
 A relic of these differences is found in emergency telephone numbers used in various countries; the United Kingdom selected 999 due to the ease of converting call office dials to make free calls. "0" for the Operator was already free, and the cam that removed the shunt on the line when the dial was rotated to the "0" position could be altered to include the adjacent digit "9" (and "8" if required) so that calls to "0" and "999" could be made without inserting coins. In New Zealand, 111 was selected because New Zealand reverse-numbered dials make each digit "1" send 9 pulses to the central office/telephone exchange (like "9" in Britain), allowing British exchange equipment to be used off the shelf.
 
-Rotary_Dial,_Dialing_Back_with_LEDs.ogvs attached making the contacts' states visible]]
+s attached making the contacts' states visible]]
 
 Recoil spring
 

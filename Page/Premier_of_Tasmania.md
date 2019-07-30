@@ -7,64 +7,64 @@ List of Premiers of Tasmania
 
 Before the 1890s, there was no formal party system in Tasmania. Party labels before that time indicate a general tendency only. The current convention of appointing the Premier from the House of Assembly was not generally applied prior to 1920, with Premiers often appointed from the Legislative Council.[2]
 
-  No.   Premier       Portrait             Party                                                                    Term of office     Time in office
-  ----- ------------- -------------------- ------------------------------------------------------------------------ ------------------ --------------------
-        1             William Champ        WTN_Champ.jpg                                                                               1 November 1856
-        2             Thomas Gregson       Thomas_Gregson.jpg                                                                          | 26 February 1857
-        3             William Weston       William_Weston_Premier.jpg                                                                  | 25 April 1857
-        4             Francis Smith        Sir_Francis_Smith.jpg                                                                       | 12 May 1857
-        —             William Weston       William_Weston_Premier.jpg                                                                  | 1 November 1860
-        5             Thomas Chapman       Thomas_Chapman.jpg                                                                          | 2 August 1861
-        6             James Whyte          James_Whyte.jpg                                                                             | 20 January 1863
-        7             Sir Richard Dry      Sir_Richard_Dry.jpg                                                                         | 24 November 1866
-        8             James Wilson         James_Milne_Wilson.jpg                                                                      | 4 August 1869
-        9             Frederick Innes      Frederick_Innes.jpg                                                                         | 4 November 1872
-        10            Alfred Kennerley     Alfred_Kennerley.jpg                                                                        | 4 August 1873
-        11            Thomas Reibey        Thomas_Reiby.jpg                                                                            | 20 July 1876
-        12            Philip Fysh          Unidentified_participant_at_the_Australasian_Federal_Convention,_4.jpg                      | 9 August 1877
-        13            William Giblin       WRGiblinsmall.jpg                                                                           | 5 March 1878
-        14            William Crowther     William_Crowther.jpg                                                                        | 20 December 1878
-        —             William Giblin       WRGiblinsmall.jpg                                                                           | 30 October 1879
-        15            Adye Douglas         AdyeDouglas.jpg                                                                             | 15 August 1884
-        16            James Agnew          James_Agnew.jpg                                                                             | 8 March 1886
-        —             Philip Fysh          Unidentified_participant_at_the_Australasian_Federal_Convention,_4.jpg   Protectionist      29 March 1887
-        17            Henry Dobson         Henry_Dobson_(1898).jpg                                                  Free Trade         17 August 1892
-        18            Sir Edward Braddon   Edwardbraddon.jpg                                                        Free Trade         14 April 1894
-        19            Elliott Lewis        N.E._Lewis_(1898).jpg                                                    Free Trade         12 October 1899
-        20            William Propsting    William_Propsting.jpg                                                    Protectionist      9 April 1903
-        21            John Evans           Sir_John_William_Evans.jpg                                               Anti-Socialist     12 July 1904
-        —             Sir Elliott Lewis    N.E._Lewis_(1898).jpg                                                    Liberal League     19 June 1909
-        22            John Earle           John_Earle_(Australian_politician).jpg                                   Labor              20 October 1909
-        —             Sir Elliott Lewis    N.E._Lewis_(1898).jpg                                                    Liberal League     27 October 1909
-        23            Albert Solomon       Albert_Edgar_Solomon.jpg                                                 14 June 1912       6 April 1914
-        —             John Earle           John_Earle_(Australian_politician).jpg                                   Labor              6 April 1914
-        24            Walter Lee           Sir_Walter_Lee.jpg                                                       Liberal League     15 April 1916
+  No.   Premier       Portrait             Party   Term of office     Time in office
+  ----- ------------- -------------------- ------- ------------------ --------------------
+        1             William Champ                                   1 November 1856
+        2             Thomas Gregson                                  | 26 February 1857
+        3             William Weston                                  | 25 April 1857
+        4             Francis Smith                                   | 12 May 1857
+        —             William Weston                                  | 1 November 1860
+        5             Thomas Chapman                                  | 2 August 1861
+        6             James Whyte                                     | 20 January 1863
+        7             Sir Richard Dry                                 | 24 November 1866
+        8             James Wilson                                    | 4 August 1869
+        9             Frederick Innes                                 | 4 November 1872
+        10            Alfred Kennerley                                | 4 August 1873
+        11            Thomas Reibey                                   | 20 July 1876
+        12            Philip Fysh                                     | 9 August 1877
+        13            William Giblin                                  | 5 March 1878
+        14            William Crowther                                | 20 December 1878
+        —             William Giblin                                  | 30 October 1879
+        15            Adye Douglas                                    | 15 August 1884
+        16            James Agnew                                     | 8 March 1886
+        —             Philip Fysh                  Protectionist      29 March 1887
+        17            Henry Dobson                 Free Trade         17 August 1892
+        18            Sir Edward Braddon           Free Trade         14 April 1894
+        19            Elliott Lewis                Free Trade         12 October 1899
+        20            William Propsting            Protectionist      9 April 1903
+        21            John Evans                   Anti-Socialist     12 July 1904
+        —             Sir Elliott Lewis            Liberal League     19 June 1909
+        22            John Earle                   Labor              20 October 1909
+        —             Sir Elliott Lewis            Liberal League     27 October 1909
+        23            Albert Solomon               14 June 1912       6 April 1914
+        —             John Earle                   Labor              6 April 1914
+        24            Walter Lee                   Liberal League     15 April 1916
         Nationalist
-        25            John Hayes           John_Blyth_Hayes.jpg                                                     Nationalist        12 August 1922
-        —             Sir Walter Lee       Sir_Walter_Lee.jpg                                                       14 August 1923     25 October 1923
-        26            Joseph Lyons         Joseph_Lyons.jpg                                                         Labor              25 October 1923
-        27            John McPhee          Sir_John_McPhee.jpg                                                      Nationalist        15 June 1928
-        —             Sir Walter Lee       Sir_Walter_Lee.jpg                                                       15 March 1934      22 June 1934
-        28            Albert Ogilvie       Albert_Ogilvie.jpg                                                       Labor              22 June 1934
-        29            Edmund Dwyer-Gray    Edmund_Dwyer_Gray_TasGovPhoto.jpg                                        11 June 1939       18 December 1939
-        30            Robert Cosgrove      Cosgrove_Sir_Robert_HA_355.jpg                                           18 December 1939   18 December 1947
-        31            Edward Brooker       Edward_Brooker.jpg                                                       18 December 1947   25 February 1948
-        —             Robert Cosgrove      Cosgrove_Sir_Robert_HA_355.jpg                                           25 February 1948   26 August 1958
-        32            Eric Reece           Eric_Reece.jpg                                                           26 August 1958     26 May 1969
-        33            Angus Bethune        Angus_Bethune.jpg                                                        Liberal            26 May 1969
-        —             Eric Reece           Eric_Reece.jpg                                                           Labor              3 May 1972
-        34            Bill Neilson         Bill_Neilson.jpg                                                         31 March 1975      1 December 1977
-        35            Doug Lowe            Doug_Lowe_premier.jpg                                                    1 December 1977    11 November 1981
-        36            Harry Holgate        No_image.png                                                             11 November 1981   26 May 1982
-        37            Robin Gray           No_image.png                                                             Liberal            26 May 1982
-        38            Michael Field        No_image.png                                                             Labor              29 June 1989
-        39            Ray Groom            No_image.png                                                             Liberal            17 February 1992
-        40            Tony Rundle          No_image.png                                                             18 March 1996      14 September 1998
-        41            Jim Bacon            No_image.png                                                             Labor              14 September 1998
-        42            Paul Lennon          No_image.png                                                             21 March 2004      26 May 2008
-        43            David Bartlett       DavidBartlettW1.JPG                                                      26 May 2008        24 January 2011
-        44            Lara Giddings        Lara_Giddings.jpg                                                        24 January 2011    31 March 2014
-        45            Will Hodgman         Will_Hodgman_apples_cropped.jpg                                          Liberal            31 March 2014
+        25            John Hayes                   Nationalist        12 August 1922
+        —             Sir Walter Lee               14 August 1923     25 October 1923
+        26            Joseph Lyons                 Labor              25 October 1923
+        27            John McPhee                  Nationalist        15 June 1928
+        —             Sir Walter Lee               15 March 1934      22 June 1934
+        28            Albert Ogilvie               Labor              22 June 1934
+        29            Edmund Dwyer-Gray            11 June 1939       18 December 1939
+        30            Robert Cosgrove              18 December 1939   18 December 1947
+        31            Edward Brooker               18 December 1947   25 February 1948
+        —             Robert Cosgrove              25 February 1948   26 August 1958
+        32            Eric Reece                   26 August 1958     26 May 1969
+        33            Angus Bethune                Liberal            26 May 1969
+        —             Eric Reece                   Labor              3 May 1972
+        34            Bill Neilson                 31 March 1975      1 December 1977
+        35            Doug Lowe                    1 December 1977    11 November 1981
+        36            Harry Holgate                11 November 1981   26 May 1982
+        37            Robin Gray                   Liberal            26 May 1982
+        38            Michael Field                Labor              29 June 1989
+        39            Ray Groom                    Liberal            17 February 1992
+        40            Tony Rundle                  18 March 1996      14 September 1998
+        41            Jim Bacon                    Labor              14 September 1998
+        42            Paul Lennon                  21 March 2004      26 May 2008
+        43            David Bartlett               26 May 2008        24 January 2011
+        44            Lara Giddings                24 January 2011    31 March 2014
+        45            Will Hodgman                 Liberal            31 March 2014
 
 
 Graphical timeline

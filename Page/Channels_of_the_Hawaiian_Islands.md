@@ -1,5 +1,3 @@
-Channels-of-the-Hawaiian-Islands.svg
-
 In an archipelago like the Hawaiian Islands the water between islands is typically called a _channel_ or _passage_. Described here are the channels between the islands of Hawaiʻi, arranged from southeast to northwest.
 
 

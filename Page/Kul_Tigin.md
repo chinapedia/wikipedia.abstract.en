@@ -21,7 +21,7 @@ Upon the death of Qapagan Khaghan, his son Inel Qaghan attempted to illegally as
 
 Death
 
-Kultegin_monument_Mongolia.JPG ]]
+]]
 
 He died suddenly in 27 February 731. A stele in memory of Kül Tigin, which included inscriptions in both the Turkic and Chinese, was erected at his memorial complex at the present site of Khöshöö-Tsaidam.[5] Kül-Tegin is also mentioned in the inscription erected in memory of his older brother Bilge Kagan at the neighbouring site of Khöshöö-Tsaidam-1.
 

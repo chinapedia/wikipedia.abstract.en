@@ -5,7 +5,7 @@ Medieval Western Christianity identified Mary of Bethany with Mary Magdalene and
 
 Biblical references
 
-In the Gospel of Luke, Jesus visits the home of two sisters named Mary and Martha, living in an unnamed village. Mary is contrasted with her sister Martha, who was "cumbered about many things" while Jesus was their guest, while Mary had chosen "the better part," that of listening to the master's discourse.[4] The name of their village is not recorded. Joachim_Beuckelaer_-_De_welvoorziene_keuken_001.JPG For Mary to sit at Jesus' feet, and for him to allow her to do so, was itself controversial. In doing so, as one commentator notes, Mary took "the place of a disciple by sitting at the feet of the teacher. It was unusual for a woman in first-century Judaism to be accepted by a teacher as a disciple."[5]
+In the Gospel of Luke, Jesus visits the home of two sisters named Mary and Martha, living in an unnamed village. Mary is contrasted with her sister Martha, who was "cumbered about many things" while Jesus was their guest, while Mary had chosen "the better part," that of listening to the master's discourse.[4] The name of their village is not recorded. For Mary to sit at Jesus' feet, and for him to allow her to do so, was itself controversial. In doing so, as one commentator notes, Mary took "the place of a disciple by sitting at the feet of the teacher. It was unusual for a woman in first-century Judaism to be accepted by a teacher as a disciple."[5]
 
 In the Gospel of John, a Mary appears in connection to two incidents: the raising from the dead of her brother Lazarus and the anointing of Jesus. The identification of this being the same Mary in both incidents is given explicitly by the author: "Now a man named Lazarus was sick. He was from Bethany, the village of Mary and her sister Martha. This Mary, whose brother Lazarus now lay sick, was the same one who poured perfume on the Lord and wiped his feet with her hair." The mention of her sister Martha suggests a connection with the aforementioned woman in Luke.
 
@@ -15,7 +15,7 @@ Anointing of Jesus
 
 A narrative in which Mary of Bethany plays a central role is the anointing of Jesus, an event reported in the Gospel of John in which a woman pours the entire contents of an alabastron of very expensive perfume over the feet of Jesus. Only in this account is the woman identified as Mary, with the earlier reference in establishing her as the sister of Martha and Lazarus.
 
-Bouts_anoiting.jpg, 1440s (Staatliche Museen, Berlin)]]
+, 1440s (Staatliche Museen, Berlin)]]
 
 The woman's name is not given in the Gospels of Matthew and Mark, but the event is likewise placed in Bethany, specifically at the home of one Simon the Leper, a man whose significance is not explained elsewhere in the gospels.
 

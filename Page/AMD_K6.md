@@ -3,16 +3,12 @@ The K6 microprocessor was launched by AMD in 1997. The main advantage of this pa
 
 Background
 
-Amdk6_arch.svg
-
 The AMD K6 is a superscalar P5 Pentium-class microprocessor, manufactured by AMD, which superseded the K5. The AMD K6 is based on the Nx686 microprocessor that NexGen was designing when it was acquired by AMD. Despite the name implying a design evolving from the K5, it is in fact a totally different design that was created by the NexGen team, including chief processor architect Greg Favor,[1][2] and adapted after the AMD purchase. The K6 processor included a feedback dynamic instruction reordering mechanism, MMX instructions, and a floating-point unit (FPU). It was also made pin-compatible with Intel's Pentium, enabling it to be used in the widely available "Socket 7"-based motherboards. Like the AMD K5, Nx586, and Nx686 before it, the K6 translated x86 instructions on the fly into dynamic buffered sequences of micro-operations. A later variation of the K6 CPU, K6-2, added floating-point-based SIMD instructions, called 3DNow!.
 
 The K6 was originally launched in April 1997, running at speeds of 166 and 200 MHz. It was followed by a 233 MHz version later in 1997. Initially, the AMD K6 processors used a Pentium II-based performance rating (PR2) to designate their speed. The PR2 rating was dropped because the rated frequency of the processor was the same as the real frequency. The release of the 266 MHz version of this chip was not until the second quarter of 1998, when AMD was able to move to the 0.25-micrometre manufacturing process. The lower voltage and higher multiplier of the K6-266 meant that it was not fully compatible with some Socket 7 motherboards, similar to the later K6-2 processors. The final iteration of the K6 design was released in May 1998, running at 300 MHz.
 
 
 Models
-
-AMD_K6-166ALR.jpg KL_AMD_K6_LittleFoot.jpg
 
 K6 (Model 6)
 

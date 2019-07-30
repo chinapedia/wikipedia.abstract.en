@@ -45,7 +45,7 @@ Seeing the giantess Gjálp causing the water on Vimur river to rise, Thor used t
 
 Thor, displeased with everything that had happened, went to confront Geirröd. The giant raised his hand and threw a hot lump of iron at the thunder god. Using the iron gloves lent to him by Gríðr, Thor caught the hot iron and threw it back at the giant who hid behind a pillar. The hot ball went straight into the pillar, into the head of Geirröd, and finally rested deep into the earth.
 
-Thrym's_Wedding-feast.jpg]]
+]]
 
 How Thor Lost His Hammer
 
@@ -55,7 +55,7 @@ Loki met the king of the jötnar, Þrymr (often anglicized as THRYM), who had ad
 
 Upon hearing that Freyja was on her way, Þrymr ordered a grand feast in her honor. Seeing his bride consume large servings of food after food, Thrym was astounded by the fact. Loki reasoned "she" had not eaten or drunk for eight days due to her anxiety in meeting him. Elated, Thrym reached over to kiss his bride, but seeing the glaring eyes of Thor through the thin veil, he withdrew in disappointment. Loki explained that "Freyja" had not slept for eight nights in her excitement to come to Jötunheim. Wanting the marriage to be done quickly, Thrym ordered for Mjölnir to be brought to his bride. Once Mjölnir was placed on his lap, Thor grabbed the hammer by its handle and slew every jötunn in sight.
 
-I_am_the_giant_Skrymir_by_Elmer_Boyd_Smith.jpg.]]
+.]]
 
 How Útgarða-Loki Outwitted Thor
 
@@ -75,9 +75,7 @@ Thor agrees to compete in a drinking contest but after three immense gulps fails
 
 The next morning the group gets dressed and prepares to leave the keep. Útgarða-Loki appears, has his servants prepare a table, and they all merrily eat and drink. As they leave, Útgarða-Loki asks Thor how he thought he fared in the contests. Thor says that he is unable to say he did well, noting that he is particularly annoyed that Útgarða-Loki will now speak negatively about him. Útgarða-Loki, once the group has left his keep, points out that he hopes that they never return to it, for if he had an inkling of what he was dealing with he would never have allowed the group to enter in the first place. Útgarða-Loki reveals that all was not what it seemed to the group. Útgarða-Loki was in fact the immense Skrýmir, and that if the three blows Thor attempted to land had hit their mark, the first would have killed Skrýmir. In reality, Thor's blows were so powerful that they had resulted in three square valleys.
 
-Idunn_and_the_Apples_of_Youth.jpg.]] The contests, too, were an illusion. Útgarða-Loki reveals that Loki had actually competed against wildfire itself (_Logi_, Old Norse "flame"), Þjálfi had raced against thought (_Hugi_, Old Norse "thought"), Thor's drinking horn had actually reached to the ocean and with his drinks he lowered the ocean level (resulting in tides). The cat that Thor attempted to lift was in actuality the world serpent, Jörmungandr, and everyone was terrified when Thor was able to lift the paw of this "cat", for Thor had actually held the great serpent up to the sky. The old woman Thor wrestled was in fact old age (_Elli_, Old Norse "old age"), and there is no one that old age cannot bring down. Útgarða-Loki tells Thor that it would be better for "both sides" if they did not meet again. Upon hearing this, Thor takes hold of his hammer and swings it at Útgarða-Loki but he is gone and so is his castle. Only a wide landscape remains.
-
-Odin_am_Brunnen_der_Weisheit.jpg
+.]] The contests, too, were an illusion. Útgarða-Loki reveals that Loki had actually competed against wildfire itself (_Logi_, Old Norse "flame"), Þjálfi had raced against thought (_Hugi_, Old Norse "thought"), Thor's drinking horn had actually reached to the ocean and with his drinks he lowered the ocean level (resulting in tides). The cat that Thor attempted to lift was in actuality the world serpent, Jörmungandr, and everyone was terrified when Thor was able to lift the paw of this "cat", for Thor had actually held the great serpent up to the sky. The old woman Thor wrestled was in fact old age (_Elli_, Old Norse "old age"), and there is no one that old age cannot bring down. Útgarða-Loki tells Thor that it would be better for "both sides" if they did not meet again. Upon hearing this, Thor takes hold of his hammer and swings it at Útgarða-Loki but he is gone and so is his castle. Only a wide landscape remains.
 
 The Abduction of Iðunn
 

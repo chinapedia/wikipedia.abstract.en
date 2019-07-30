@@ -3,7 +3,7 @@ LACONIA (, _Lakonía_, ) is a region of Greece in the southeastern part of the P
 
 Geography
 
-Eurotas.JPG outside the city of Sparti.]]
+outside the city of Sparti.]]
 
 Laconia is bordered by Messenia to the west and Arcadia to the north and is surrounded by the Myrtoan Sea to the east and by the Laconian Gulf and the Mediterranean Sea to the south. It encompasses Cape Malea and Cape Tainaron and a large part of the Mani Peninsula. The Mani Peninsula is in the west region of Lakonia. [1] The islands of Kythira and Antikythera lie to the south, but they administratively belong to the Attica regional unit of islands. The island, Elafonisos, situated between the Laconian mainland and Kythira, is part of Laconia.
 
@@ -22,13 +22,13 @@ History
 
 Ancient history
 
-Sparti_in-river-Eurotas-valley_flanked-by-Taygetos-mountains.jpg with modern Sparti and Taygetus in the background.]]
+with modern Sparti and Taygetus in the background.]]
 
 Evidence of Neolithic settlement in southern Laconia has been found during excavations of the Alepotrypa cave site.[2] In ancient Greece, this was the principal region of the Spartan state. For much of classical antiquity the Spartan sphere of influence expanded to Messenia, whose inhabitants (the Helots) were enslaved. Significant archaeological recovery exists at the Vaphio-tomb site in Laconia. Found here is advanced Bronze Age art as well as evidence of cultural associations with the contemporaneous Minoan culture on Crete.[3] Laconia was at war with the Kingdom of Macedonia and saw several battles; at the end of the Mycenaean period, the population of Laconia sharply declined.[4] From the early-2nd century BC until 395 AD, it was a part of the Roman Empire.
 
 Medieval history
 
-Mystras_palace.JPG]]
+]]
 
 In the medieval period, Laconia formed part of the Byzantine Empire. Following the Fourth Crusade, it was gradually conquered by the Frankish Principality of Achaea. In the 1260s, however, the Byzantines recovered Mystras and other fortresses in the region and managed to evict the Franks from Laconia, which became the nucleus of a new Byzantine province. By the mid-14th century, this evolved into the Despotate of Morea, held by the last Greek ruling dynasty, the Palaiologoi. With the fall of the Despotate to the Ottomans in 1460, Laconia was conquered as well.
 
@@ -45,7 +45,7 @@ In early 2006, flooding ruined olive and citrus crops as well as properties and 
 
 Municipalities of Laconia
 
-Taygetos_Ilias_1.jpg]] 20090729_parnonas06.jpg]] Monemvassia1.jpg]] GR-gythio-hafen.jpg, Mani peninsula.]]
+]] ]] ]] , Mani peninsula.]]
 
 The regional unit, Laconia, is subdivided into five municipalities. These are (number as in the map in the infobox):[5]
 

@@ -25,7 +25,7 @@ Hurt attempted further negotiations with Okeh to record again, but his records w
 
 Rediscovery and death
 
-Mississippi_John_Hurt_-_grave.jpg Hurt's renditions of "Frankie" and "Spike Driver Blues" were included in _The Anthology of American Folk Music_ in 1952 which generated considerable interest in locating him.[13] When a copy of "Avalon Blues" was discovered in 1963, it led musicologist Dick Spottswood to locate Avalon in an atlas, and ask Tom Hoskins, who was traveling that way, to enquire after Hurt. When Hoskins arrived in Avalon the first person he asked directed him to Hurt's cabin.[14][15]
+Hurt's renditions of "Frankie" and "Spike Driver Blues" were included in _The Anthology of American Folk Music_ in 1952 which generated considerable interest in locating him.[13] When a copy of "Avalon Blues" was discovered in 1963, it led musicologist Dick Spottswood to locate Avalon in an atlas, and ask Tom Hoskins, who was traveling that way, to enquire after Hurt. When Hoskins arrived in Avalon the first person he asked directed him to Hurt's cabin.[14][15]
 
 Hoskins persuaded an apprehensive Hurt to perform several songs for him, to ensure that he was genuine.[16] Hoskins was convinced and, seeing that Hurt's guitar playing skills were still intact, encouraged him to move to Washington, D.C., and perform for a broader audience. His performance at the 1963 Newport Folk Festival caused his star to rise in the folk revival occurring at that time.[17] He performed extensively at colleges, concert halls, and coffeehouses and appeared on _The Tonight Show Starring Johnny Carson_. He also recorded three albums for Vanguard Records.[18] Much of his repertoire was also recorded for the Library of Congress. His fans particularly liked the ragtime songs "Salty Dog" and "Candy Man" and the blues ballads "Spike Driver Blues" (a variant of "John Henry") and "Frankie".[19]
 
@@ -40,8 +40,6 @@ Hurt used a fast, syncopated fingerpicking style of guitar playing that he taugh
 
 
 Tributes
-
-50_Mississippi_John_Hurt_Museum,_Avalon,_MS.jpg
 
 There is a memorial to Hurt in Avalon, Mississippi. It is parallel to RR2, the rural road on which he grew up.
 

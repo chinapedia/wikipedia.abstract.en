@@ -1,11 +1,7 @@
-Diplomatic_relations_of_the_People's_Republic_of_China.svg
-
 The foreign relations of the PEOPLE'S REPUBLIC OF CHINA (PRC), commonly known to most states as CHINA, guides the way in which China interacts with foreign nations and expresses its political, economic and cultural strengths, weaknesses and values. As a great power and emerging superpower, China's foreign policy and strategic thinking are highly influential China officially claims it "unswervingly pursues an independent foreign policy of peace. The fundamental goals of this policy are to preserve China's independence, sovereignty and territorial integrity, create a favorable international environment for China's reform and opening up and modernization of construction, and to maintain world peace and propel common development."[1] An example of a foreign policy decision guided by "sovereignty and territorial integrity" is its not engaging in diplomatic relations with any country that recognizes the Republic of China (Taiwan), which the PRC does not recognise as a separate nation.[2][3][4] China is a member of many international organizations, holding key positions such as a permanent membership on the United Nations Security Council. The PRC's diplomatic goals were expansionist for achieving international communist revolution before the Cultural Revolution ended.[5] In the early 1970s, the PRC replaced the ROC as the recognised government of "China" in the UN following Resolution 2758. As a nuclear power, China signed the Treaty on the Non-Proliferation of Nuclear Weapons in the United Nations. China's foreign policy today is summarized as strategic relations with neighboring countries and the world's superpowers to strive for China's national interest, and to create a favorable environment for China's domestic development for perpetual competition in the world in the long-run.[6]
 
 
 Institutions of foreign policy
-
-MOFAChinaChaoyang.JPG
 
 Like most other nations, China's foreign policy is carried out by the Ministry of Foreign Affairs. However, the Foreign Affairs Ministry is subordinate to the Foreign Affairs Leading Group, which decides on policy-making.
 
@@ -18,7 +14,7 @@ History
 
 Qing Dynasty
 
-By the mid 19th century, Chinese stability had come under increasing threat from both domestic and international sources. Social unrest and serious revolts became more common while the regular army had decayed into an ineffective force. Chinese leaders increasingly feared the impact of Western ideas. After 1724 Christian propaganda was prohibited, and after 1757 international trade was confined to the port of Canton under the strictly limited Canton System. European commercial interests sought to end the trading barriers, but China fended off repeated efforts by Britain to reform the trading system. Increasing sales of Indian opium to China by British traders led to the First Opium War (1839–1842). The superiority of Western militaries and military technology like steamboats and Congreve rockets forced China to open trade with the West on Western terms. China_imperialism_cartoon.jpg
+By the mid 19th century, Chinese stability had come under increasing threat from both domestic and international sources. Social unrest and serious revolts became more common while the regular army had decayed into an ineffective force. Chinese leaders increasingly feared the impact of Western ideas. After 1724 Christian propaganda was prohibited, and after 1757 international trade was confined to the port of Canton under the strictly limited Canton System. European commercial interests sought to end the trading barriers, but China fended off repeated efforts by Britain to reform the trading system. Increasing sales of Indian opium to China by British traders led to the First Opium War (1839–1842). The superiority of Western militaries and military technology like steamboats and Congreve rockets forced China to open trade with the West on Western terms.
 
 Unequal treaties
 
@@ -32,15 +28,13 @@ First Sino-Japanese War (1894–1895)
 
 A weakened China lost wars with Japan and gave up nominal control over the Ryukyu Islands in 1870 to Japan. After the First Sino-Japanese War of 1894 it lost Formosa to Japan. After the Sino-French War of 1884-1885, France took control of Vietnam, another supposed "tributary state." After Britain took over Burma, as a show of good faith they maintained the sending of tribute to China, putting themselves in a lower status than in their previous relations.[11] To affirm this, Britain agreed in the Burma convention in 1886 to continue the Burmese payments to China every 10 years, in return for which China would recognise Britain's occupation of Upper Burma.[12]
 
-Generals_Pyongyang_MigitaToshihide_October1894.jpg
-
 Japan after 1860 modernized its military after Western models and was far stronger than China. The war, fought in 1894 and 1895, was fought to resolve the issue of control over Korea, which was yet another suzerain claimed by China and under the rule of the Joseon Dynasty. A peasant rebellion led to a request by the Korean government for China to send in troops to stabilize the country. The Empire of Japan responded by sending its own force to Korea and installing a puppet government in Seoul. China objected and war ensued. It was a brief affair, with Japanese ground troops routing Chinese forces on the Liaodong Peninsula and nearly destroying the Chinese navy in the Battle of the Yalu River.[13] The Treaty of Shimonoseki was signed between Japan and China, which ceded the Liaodong Peninsula and the island of Taiwan to Japan. However, after the peace treaty Russia, Germany, and France forced Japan to withdraw from Liaodong Peninsula. Soon after, Russia occupied the Liaodong Peninsula, built Port Arthur fortress, and based the Russian Pacific Fleet in the port. Germany occupied Jiaozhou Bay, built Tsingtao fortress, and based the German East Asia Squadron in this port.[14]
 
 Boxer rebellion
 
 The Boxer Rebellion (1897–1901) was an anti-foreigner movement by the Righteous Harmony Society in China between 1897 and 1901 after a massive increase in imperialist activities and concession seizing by foreign powers. The militaries of the nationalists were ludicrously out of date and lacked the support of the Chinese military. The uprising ended with an Alliance of Eastern and Western nations known as the Eight Nation Alliance emerging victorious.
 
-SinoFrenchWar1884-1885.jpg (1884-1885)]] JapanPunch29September1894.jpg
+(1884-1885)]]
 
 Manchuria
 
@@ -52,7 +46,7 @@ The Republican Revolution of 1911 overthrew the imperial court and brought an er
 
 War with Japan: 1937-1945
 
-Cairo_conference.jpg in 1943]]
+in 1943]]
 
 The United States was a strong supporter of China after Japan invaded in 1937. Even the isolationists who opposed war in Europe supported a hard-line against Japan. The outbreak of the Second Sino-Japanese War in 1937 saw aid flow into the Republic of China, led by Chiang Kai-shek.[17] American public sympathy for the Chinese, and hatred of Japan, was aroused by reports from missionaries, novelists such as Pearl Buck, and _Time Magazine_ of Japanese brutality in China, including reports surrounding the Nanjing Massacre, also known as the 'Rape of Nanking'. By early 1941 the U.S. was preparing to send American planes flown by American pilots under American command, but wearing Chinese uniforms, to fight the Japanese invaders and even to bomb Japanese cities. The "Flying Tigers" under Claire Lee Chennault became operational days after Pearl Harbor (December 7, 1941) brought the United States into the war officially. The Flying Tigers were soon incorporated into the United States Air Force, which made operations in China a high priority, and generated enormous favorable publicity for the China in the United States.[18]
 
@@ -112,9 +106,7 @@ As of 2014, the Pew Research Center indicated that 21 surveyed countries had a p
 
 Recent foreign policy
 
-PRC_relations_commencement.svg
-
-Air_China_B-2047_China-France_PEK.JPG Boeing 777 in China-France 50 years anniversary livery]]
+Boeing 777 in China-France 50 years anniversary livery]]
 
 In recent years, China's leaders have been regular travelers to all parts of the globe, and it has sought a higher profile in the UN through its permanent seat on the United Nations Security Council and other multilateral organizations.
 
@@ -128,7 +120,7 @@ China has border and maritime disputes, including with Vietnam in the Gulf of To
 
 During the late 1990s and early 21st century, Chinese foreign policy appeared to be focused on improving relations with Russia and Europe to counterbalance the United States. This strategy was based on the premise that the United States was a hyperpower whose influence could be checked through alliances with other powers, such as Russia or the European Union. This assessment of United States power was reconsidered after the United States intervention in Kosovo, and as the 20th century drew to a close, the discussion among think tanks in China involved how to reorient Chinese foreign policy in a unipolar world. This discussion also occurred in the context of China's new security concept, which argued that the post–Cold War era required nations to move away from thinking in terms of alliances and power blocs and toward thinking in terms of economic and diplomatic cooperation.
 
-20041120-1_bushchinamtg-1-515h.jpg of China and George W. Bush meet while attending an APEC summit in Santiago de Chile, 2004.]]
+of China and George W. Bush meet while attending an APEC summit in Santiago de Chile, 2004.]]
 
 China had long been a close ally of North Korea but also found a valuable trading partner in South Korea and eventually took a role in the early 2000s as a proponent of "six-party talks" (North Korea, South Korea, Russia, Japan, the United States, and China) to resolve tensions on the Korean Peninsula. China was instrumental at brokering talks with North Korea over its nuclear program, and in 2003, there was a concerted effort by China to improve relations with the ASEAN countries and form a common East Asian market. These foreign policy efforts have been part of a general foreign policy initiative known as China's peaceful rise. On 15 November 2005, Hu Jintao visited Seoul and spoke of the importance of both countries' contributions for regional peace and cooperation in economic development.
 
@@ -140,7 +132,7 @@ At a national meeting on diplomatic work in August 2004, China's paramount leade
 
 In 2007, Foreign ministry spokesman Qin Gang made a statement about the eight-point diplomatic philosophy of China:[44]
 
-Vladimir_Putin_and_Li_Keqiang_(2016-11-08)_01.jpg met with Li Keqiang during an official visit to Moscow in November 2016.]]
+met with Li Keqiang during an official visit to Moscow in November 2016.]]
 
 1.  China will not seek hegemony. China is still a developing country and has no resources to seek hegemony. Even if China becomes a developed country, it will not seek hegemony.
 2.  China will not play power politics and will not interfere with other countries' internal affairs. China will not impose its own ideology on other countries.
@@ -157,7 +149,7 @@ In 2016, during the 6th Plenum of 18th Central Committee of the Communist Party 
 
 New initiatives
 
-One-belt-one-road.svg China in red, Members of the Asian Infrastructure Investment Bank in orange, the six corridors in black China Britain Business Council: One Belt One Road[47]]]
+China in red, Members of the Asian Infrastructure Investment Bank in orange, the six corridors in black China Britain Business Council: One Belt One Road[47]]]
 
 As the Trump administration in the United States opened a trade and tariff were with China in 2017, China's response has been to set up its own multinational trading arrangements. In late March 2019 President Xi Jinping moved forward with major trading deals with France and Italy. French President Emmanuel Macron and President Xi Jinping signed a series of large-scale trade agreements that covers many sectors over a period of years. The centerpiece was a €30 billion purchase of airplanes from Airbus. It came at a time when the leading American firm, Boeing, saw its entire fleet of new 737 MAX passenger planes grounded worldwide. Going well beyond aviation, the new trade agreement covered French exports of chicken, a French-built offshore wind farm in China, and a Franco-Chinese cooperation fund, as well as billions of Euros of co-financing between BNP Paribas and the Bank of China. Other plans include billions of euros to be spent on modernizing Chinese factories, as well as new ship building.[48] The same week President Xi Jinping signed an infrastructure plan with Italian Prime Minister Giuseppe Conte. Italy became the first European power to join the Belt and Road Initiative, which Western Europe sees as a push not just for more business but for greater geopolitical influence. Rome has reassured its allies that the agreement is not fully binding and does not undermine Italy’s commitment to its Western political and security alliances.[49]
 
@@ -195,7 +187,7 @@ There is no Chinese military presence in Africa other than that used in peacekee
 
 Culture
 
-華中農業大學的留學生.jpg, Wuhan]] Africa is a host of three Chinese cultural centres. The first overseas Chinese centre was opened in Mauritius in 1988.[71] Two other followed in Egypt and Benin. The Confucius Institute, which focuses on the promotion of the Chinese language and culture, has 20 centers distributed around 13 African countries.[72]
+, Wuhan]] Africa is a host of three Chinese cultural centres. The first overseas Chinese centre was opened in Mauritius in 1988.[71] Two other followed in Egypt and Benin. The Confucius Institute, which focuses on the promotion of the Chinese language and culture, has 20 centers distributed around 13 African countries.[72]
 
 Historically, little is known about early African immigration to China, although there is no doubt and much consensus that the human species was originally from Africa. Due to recent developments in relations, many have been relocating for better opportunities. Places dubbed 'Little Africa' and 'Chocolate city' are increasingly receiving new immigrants, mostly Nigerians. Most of the African immigrants are concentrated in the area of Guangzhou with an estimated number of 20,000.[73] It is estimated that there are around 10,000 illegal African immigrants in China and police crackdowns have intensified since early 2009.[74]
 
@@ -213,7 +205,7 @@ Americas
 
 Latin America and the Caribbean
 
-Plenário_do_Congresso_(14524505490).jpg delivered a speech at the National Congress of Brazil, 16 July 2014]] Cristina_Fernández_y_Xi_Jinping_en_Argentina.jpg and Xi Jinping in Argentina, 18 July 2014]]
+delivered a speech at the National Congress of Brazil, 16 July 2014]] and Xi Jinping in Argentina, 18 July 2014]]
 
 Recent years have seen Beijing's growing economic and political influence in South America and the Caribbean. During a visit to Brazil, Argentina, Chile, and Cuba in November 2004, Chinese leader Hu Jintao announced US$100 billion worth of investment over the next decade.[87][88][89] For instance, Cuba is turning to Chinese companies rather than Western ones to modernize its crippled transportation system at a cost of more than US$1 billion, continuing a trend of favoring the fellow communist country that has made Beijing Cuba's second-largest trading partner after Venezuela in 2005.[90] In addition, China is expanding its military-to-military contacts in the region. China is training increasing numbers of Latin American and Caribbean region military personnel, mainly due to a three-year-old U.S. law surrounding the International Criminal Court that has led to a sharp decline in U.S.-run training programs for the region.[91][92]
 
@@ -243,7 +235,7 @@ In 2004 Barbados obtained Approved Destination Status by the government in China
 
 Following the 2008 Sichuan earthquake, the Barbadian prime minister visited the Chinese Embassy to personally sign the book of condolence to the nation.[107]
 
-Wildey_Gymnasium,_Barbados.jpg Over the years a number of building projects have been carried out with Chinese government assistance these include: The Garfield Sobers Gymnasium,[108] two adjustments on the Lloyd Erskine Sandiford Centre, a Home Vegetable Growing Experimental Center, embroidery, grass weaving and feather handicraft. A consideration was also giving according to the Prime Minister of Barbados, David Thompson for China to assist with the opening of a new cruise ship facility in Barbados.[109]
+Over the years a number of building projects have been carried out with Chinese government assistance these include: The Garfield Sobers Gymnasium,[108] two adjustments on the Lloyd Erskine Sandiford Centre, a Home Vegetable Growing Experimental Center, embroidery, grass weaving and feather handicraft. A consideration was also giving according to the Prime Minister of Barbados, David Thompson for China to assist with the opening of a new cruise ship facility in Barbados.[109]
 
 Chinese Premier Wen said that China would like to join hands with Barbados in deepening cooperation in the areas of trade, tourism, architecture, and cultural exchange.
 
@@ -265,7 +257,7 @@ In November 2005, PetroChina Great Wall Drilling Co., Ltd. and CUPET held a cere
 
 United States
 
-Mao_Zedong,_Zhang_Yufeng_et_Richard_Nixon.jpg greets Chinese Communist Party Chairman Mao Zedong in a historic visit to China, 1972.]]
+greets Chinese Communist Party Chairman Mao Zedong in a historic visit to China, 1972.]]
 
 Once the UN issue was resolved, relations with the United States began to thaw. In 1972, President Richard Nixon visited China. China backed away from support of North Vietnam in its war with the U.S.. In late 1978, China became concerned over Vietnam's efforts to establish open control over Laos and Cambodia. In response to the Soviet-backed Vietnamese invasion of Cambodia, China fought an inconclusive border war with Vietnam (February–March 1979).
 
@@ -275,7 +267,7 @@ Asia
 
 Arab World
 
-China’s_Critical_Sea_Lines_of_Communication.png. In 2004, over 80 percent of Chinese crude oil imports transited the Strait of Malacca, with less than 2 percent transiting the Lombok Strait.]]
+. In 2004, over 80 percent of Chinese crude oil imports transited the Strait of Malacca, with less than 2 percent transiting the Lombok Strait.]]
 
 SINO-ARAB RELATIONS have extended historically back to the first Caliphate, with important trade routes, and good diplomatic relations. Following the age of Imperialism, the Sino-Arab relations were halted for several centuries, until both gained independence in the 19th and 20th century. Today, modern Sino-Arab relations are evolving into a new era, with the SACF (Sino-Arab cooperation Forum) helping China and the Arab nations to establish a new partnership in an era of the growing globalization.
 
@@ -374,7 +366,7 @@ Having fought two wars against Japan (1894–95 and 1937–45), China's long-sta
 
 North Korea
 
-North_Korea_-_China_friendship_(5578914865).jpg in Pyongyang, 2010]]
+in Pyongyang, 2010]]
 
 South Korea
 
@@ -396,7 +388,7 @@ Early relations with the People's Republic of China were cold due to China's vet
 
 India
 
-Jawaharlal_Nehru_Trust_Port.jpg in India. Bilateral trade between the two countries surpassed US$60 thousand million by 2010 making China the single largest trading partner of India.[139]]] Despite lingering suspicions remaining from the 1962 Sino-Indian War, 1967 Nathu La and Cho La clashes and continuing boundary disputes over Aksai Chin and Arunachal Pradesh, Sino-Indian relations have improved gradually since 1988. Both countries have sought to reduce tensions along the frontier, expand trade and cultural ties, and normalise relations.
+in India. Bilateral trade between the two countries surpassed US$60 thousand million by 2010 making China the single largest trading partner of India.[139]]] Despite lingering suspicions remaining from the 1962 Sino-Indian War, 1967 Nathu La and Cho La clashes and continuing boundary disputes over Aksai Chin and Arunachal Pradesh, Sino-Indian relations have improved gradually since 1988. Both countries have sought to reduce tensions along the frontier, expand trade and cultural ties, and normalise relations.
 
 A series of high-level visits between the two nations have helped improve relations. In December 1996, General Secretary Jiang Zemin visited India during a tour of South Asia. While in New Delhi, he signed with the Indian Prime Minister a series of confidence-building measures for the disputed borders. Sino-Indian relations suffered a brief setback in May 1998 when the Indian Defence minister justified the country's nuclear tests by citing potential threats from China. However, in June 1999, during the Kargil crisis, then-External Affairs Minister Jaswant Singh visited Beijing and stated that India did not consider China a threat. By 2001, relations between India and China were on the mend, and the two sides handled the move from Tibet to India of the 17th Karmapa in January 2000 with delicacy and tact.
 
@@ -643,7 +635,7 @@ Membership in UN system organizations
 | -   UN High Commissioner for Refugees                    |                                                            |
 +----------------------------------------------------------+------------------------------------------------------------+
 
-BRICS_heads_of_state_and_government_hold_hands_ahead_of_the_2014_G-20_summit_in_Brisbane,_Australia_(Agencia_Brasil).jpg leaders at the G-20 summit in Brisbane, Australia, 15 November 2014]]
+leaders at the G-20 summit in Brisbane, Australia, 15 November 2014]]
 
 Other memberships
 
@@ -697,7 +689,7 @@ Refugees by country of origin are: 300,897 (from Vietnam), estimated 30,000-50,0
 
 Human trafficking
 
-Trafficking-in-persons-map-2011.png Trafficking in Persons Report[265]]] China is a source, transit, and destination country for human trafficking. Women, men, and children are trafficked for purposes of sexual slavery and forced labor; the majority of trafficking in China is internal, but there is also international trafficking of Chinese citizens; women are lured through false promises of legitimate employment into commercial sexual exploitation in Taiwan, Thailand, Malaysia, and Japan; Chinese men and women are smuggled to countries throughout the world at enormous personal expense and then forced into commercial sexual exploitation or exploitative labor to repay debts to traffickers; women and children are trafficked into China from Mongolia, Myanmar, North Korea, Russia, and Vietnam for forced labor, marriage, and sexual slavery; most North Koreans enter northeastern China voluntarily, but others reportedly are trafficked into China from North Korea; domestic trafficking remains the most significant problem in China, with an estimated minimum of 10,000–20,000 victims trafficked each year; the actual number of victims could be much greater; some experts believe that the serious and prolonged imbalance in the male-female birth ratio may now be contributing to Chinese and foreign girls and women being trafficked as potential brides.[266]
+Trafficking in Persons Report[265]]] China is a source, transit, and destination country for human trafficking. Women, men, and children are trafficked for purposes of sexual slavery and forced labor; the majority of trafficking in China is internal, but there is also international trafficking of Chinese citizens; women are lured through false promises of legitimate employment into commercial sexual exploitation in Taiwan, Thailand, Malaysia, and Japan; Chinese men and women are smuggled to countries throughout the world at enormous personal expense and then forced into commercial sexual exploitation or exploitative labor to repay debts to traffickers; women and children are trafficked into China from Mongolia, Myanmar, North Korea, Russia, and Vietnam for forced labor, marriage, and sexual slavery; most North Koreans enter northeastern China voluntarily, but others reportedly are trafficked into China from North Korea; domestic trafficking remains the most significant problem in China, with an estimated minimum of 10,000–20,000 victims trafficked each year; the actual number of victims could be much greater; some experts believe that the serious and prolonged imbalance in the male-female birth ratio may now be contributing to Chinese and foreign girls and women being trafficked as potential brides.[266]
 
 United States Department of State Tier rating: Tier 2 Watch List - "China failed to show evidence of increasing efforts to address transnational trafficking; while the government provides reasonable protection to internal victims of trafficking, protection for Chinese and foreign victims of transnational trafficking remain inadequate."[267]
 

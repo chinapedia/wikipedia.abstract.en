@@ -12,7 +12,7 @@ Mitochondrial and nuclear DNA evidence suggests the split between _Eudyptula_ an
 
 Description
 
-Little_Penguin_Feb09.jpg Like those of all penguins, the little penguin's wings have developed into flippers used for swimming. The little penguin typically grows to between tall and usually weighs about 1.5 kg on average (3.3 lb). The head and upper parts are blue in colour, with slate-grey ear coverts fading to white underneath, from the chin to the belly. Their flippers are blue in colour. The dark grey-black beak is 3–4 cm long, the irises pale silvery- or bluish-grey or hazel, and the feet pink above with black soles and webbing. An immature individual will have a shorter bill and lighter upperparts.[10]
+Like those of all penguins, the little penguin's wings have developed into flippers used for swimming. The little penguin typically grows to between tall and usually weighs about 1.5 kg on average (3.3 lb). The head and upper parts are blue in colour, with slate-grey ear coverts fading to white underneath, from the chin to the belly. Their flippers are blue in colour. The dark grey-black beak is 3–4 cm long, the irises pale silvery- or bluish-grey or hazel, and the feet pink above with black soles and webbing. An immature individual will have a shorter bill and lighter upperparts.[10]
 
 Like most seabirds, they have a long lifespan. The average for the species is 6.5 years, but flipper ringing experiments show in very exceptional cases up to 25 years in captivity.[11]
 
@@ -49,7 +49,7 @@ Tasmanian little penguin population estimates range from 110,000–190,000 breed
 
 Victoria
 
-20091121_Little_Penguin_on_rock_at_St_Kilda_Breakwater_(left_side_view).jpg breakwater]] The largest colony of little penguins in Victoria is located at Phillip Island, where the nightly 'parade' of penguins across Summerland Beach has been a major tourist destination, and more recently a major conservation effort, since the 1920s. Phillip Island is home to an estimated 32,000 breeding adults.[23] Little penguins can also be seen in the vicinity of the St Kilda, Victoria pier and breakwater. The breakwater is home to a colony of little penguins which have been the subject of a conservation study since 1986.[24]
+breakwater]] The largest colony of little penguins in Victoria is located at Phillip Island, where the nightly 'parade' of penguins across Summerland Beach has been a major tourist destination, and more recently a major conservation effort, since the 1920s. Phillip Island is home to an estimated 32,000 breeding adults.[23] Little penguins can also be seen in the vicinity of the St Kilda, Victoria pier and breakwater. The breakwater is home to a colony of little penguins which have been the subject of a conservation study since 1986.[24]
 
 Little penguin habitats also exist at a number of other locations, including London Arch and The Twelve Apostles along the Great Ocean Road, Wilson's Promontory and Gabo Island.[25]
 
@@ -121,7 +121,7 @@ In Sydney, snipers have been deployed to protect a colony of little penguins.[81
 
 Behaviour
 
-Eudyptula_minor_15-1016.webm Little penguins are diurnal and like many penguin species, spend the largest part of their day swimming and foraging at sea. During the breeding and chick-rearing seasons, little penguins leave their nest at sunrise, forage for food throughout the day and return to their nests just after dusk. Thus, sunlight, moonlight and artificial lights can affect the behaviour of attendance to the colony.[82] Also, increased wind speeds negatively affect the little penguins' efficiency in foraging for chicks, but for reasons not yet understood.[83] Little penguins preen their feathers to keep them waterproof. They do this by rubbing a tiny drop of oil onto every feather from a special gland above the tail.
+Little penguins are diurnal and like many penguin species, spend the largest part of their day swimming and foraging at sea. During the breeding and chick-rearing seasons, little penguins leave their nest at sunrise, forage for food throughout the day and return to their nests just after dusk. Thus, sunlight, moonlight and artificial lights can affect the behaviour of attendance to the colony.[82] Also, increased wind speeds negatively affect the little penguins' efficiency in foraging for chicks, but for reasons not yet understood.[83] Little penguins preen their feathers to keep them waterproof. They do this by rubbing a tiny drop of oil onto every feather from a special gland above the tail.
 
 Diet
 
@@ -131,7 +131,7 @@ They are generally inshore feeders.[89] The use of data loggers has provided inf
 
 Reproduction
 
-Little_Penguin_chick.jpg Eudyptula_minor_family_exiting_burrow.jpg Little penguins mature at different ages. The female matures at 2 years old. The male, however, matures at 3 years old. Little penguins only remain faithful to their partner in breeding seasons and whilst hatching eggs. At other times of the year they do tend to swap burrows. They exhibit site fidelity to their nesting colonies and nesting sites over successive years.
+Little penguins mature at different ages. The female matures at 2 years old. The male, however, matures at 3 years old. Little penguins only remain faithful to their partner in breeding seasons and whilst hatching eggs. At other times of the year they do tend to swap burrows. They exhibit site fidelity to their nesting colonies and nesting sites over successive years.
 
 Little penguins can breed as isolated pairs, in colonies, or semi-colonially.[93] Nests are situated close to the sea in burrows excavated by the birds or other species, or in caves, rock crevices, under logs or in or under a variety of man-made structures including nest boxes, pipes, stacks of wood or timber, and buildings. They are monogamous within a breeding season, and share incubating and chick-rearing duties. They are the only species of penguin capable of producing more than one clutch of eggs per breeding season, but few populations do so.
 
@@ -144,7 +144,7 @@ Little penguins typically return to their colonies to feed their chicks at dusk.
 
 Relationship with humans
 
-Fairy_penguin_feeding_-_melbourne_zoo.jpg]] Little penguins have long been a curiosity to humans, and to children in particular. Captive animals are often exhibited in zoos. Historically, the animals have also been used as bait to catch Southern rock lobster, captured for amusement and eaten by ship-wrecked sailors and castaways to avoid starvation.[99][100][101] They have also been the victims of malicious attacks by humans and incidental bycatch by fishermen using nets.[102] The sites of many breeding colonies have developed into tourist destinations which provide an economic boost for coastal and island communities in Australia and New Zealand. These locations also often provide facilities and volunteer staff to support population surveys, habitat improvement works and little penguin research programs.
+]] Little penguins have long been a curiosity to humans, and to children in particular. Captive animals are often exhibited in zoos. Historically, the animals have also been used as bait to catch Southern rock lobster, captured for amusement and eaten by ship-wrecked sailors and castaways to avoid starvation.[99][100][101] They have also been the victims of malicious attacks by humans and incidental bycatch by fishermen using nets.[102] The sites of many breeding colonies have developed into tourist destinations which provide an economic boost for coastal and island communities in Australia and New Zealand. These locations also often provide facilities and volunteer staff to support population surveys, habitat improvement works and little penguin research programs.
 
 Little penguin tourism
 
@@ -166,7 +166,7 @@ Zoological exhibits
 
 Australia
 
-Fairy-Penguins-at-Sea-World-2.jpg, Gold Coast, Queensland, Australia (photo 2005)]]
+, Gold Coast, Queensland, Australia (photo 2005)]]
 
 Exhibits currently exist at the Adelaide Zoo, Melbourne Zoo, the National Zoo & Aquarium in Canberra, Perth Zoo, Caversham Wildlife Park (Perth), Sea Life Sydney Aquarium and the Taronga Zoo in Sydney.[112][113][114][115][116][117]
 

@@ -1,5 +1,3 @@
-Map_of_Pitcairn_Islands_2.png
-
 The Pitcairn Islands consist of four islands: Pitcairn Island, Oeno Island, Henderson Island and Ducie Island:
 
 Pitcairn Islands as a group of islands ()
@@ -18,7 +16,7 @@ The other islands are at a distance of more than .
 
 Location
 
-Stamp_pitcairn_islands_3d.jpg Oceania, islands in the South Pacific Ocean, about one-half of the way from Peru to New Zealand, one of the most remote sites of human habitation on Earth.[1][2]
+Oceania, islands in the South Pacific Ocean, about one-half of the way from Peru to New Zealand, one of the most remote sites of human habitation on Earth.[1][2]
 
 The inhabited island, Pitcairn, is at 25.04 south, 130.06 west. Pitcairn is about southeast of Tahiti, from Auckland, New Zealand, and over from Panama.[3]
 
@@ -52,7 +50,7 @@ Tropical, hot, humid; modified by southeast trade winds; rainy season (November 
 
 Terrain
 
-Geodesy_Collection_Pitcairn_Island.jpg Rugged volcanic formation; rocky coastline with cliffs
+Rugged volcanic formation; rocky coastline with cliffs
 
 Elevation extremes
 

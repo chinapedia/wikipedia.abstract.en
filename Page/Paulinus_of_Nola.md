@@ -5,15 +5,13 @@ His renunciation of his wealth and station in favor of an ascetic and philanthro
 
 Life
 
-Saint_Paulinus_of_Nola._Line_engraving._Wellcome_V0032823.jpg
-
 Pontius Meropius Paulinus was born at Bordeaux, in southwestern France. He was from a notable senatorial family with estates in the Aquitaine province of France, northern Spain, and southern Italy. Paulinus was a kinsman of Melania the Elder. He was educated in Bordeaux, where his teacher, the poet Ausonius, also became his friend. At some time during his boyhood he made a visit to the shrine of St Felix at Nola near Naples.[3]
 
 His normal career as a young member of the senatorial class did not last long. In 375, the Emperor Gratian succeeded his father Valentinian. Gratian made Paulinus suffect consul at Rome , and appointed him governor of the southern Italian province of Campania . Paulinus noted the Campanians' devotion to Saint Felix of Nola and built a road for pilgrims, as well as a hospice for the poor near the local shrine.[4]
 
 In 383 Gratian was assassinated at Lyon, France, and Paulinus went to Milan to attend the school of Ambrose.[5] Around 384 he returned to Bordeaux. There he married Therasia, a Christian noblewoman from Barcelona.[6] Paulinus was threatened with the charge of having murdered his brother.[7] It is possible that an attempt was made to accuse him in order to confiscate his property.[8] He was baptized by Bishop Delphinus of Bordeaux. He and his wife traveled to Spain about 390. When they lost their only child eight days after birth they decided to withdraw from the world, and live a secluded religious life.[9]
 
-StatuadiSanPaolinodaNola.JPG]]
+]]
 
 In 393 or 394, after some resistance from Paulinus, he was ordained a presbyter on Christmas Day by Lampius, Bishop of Barcelona.[10] (This was similar to what had happened with St. Augustine of Hippo, who had been ordained against his protestations in the year 391 at the behest of a crowd cooperating with Bishop Valerius in the north African city of Hippo Regius.) However, there is some debate as to whether the ordination was canonical, since Paulinus received ordination "at a leap" (_per saltum_), without receiving minor orders first.[11]
 
@@ -24,7 +22,7 @@ Paulinus died at Nola on 22 June 431.[14] The following year the presbyter Uranu
 
 Influence
 
-Bas-relief_Saint_Paulinus_Torregrotta.JPG]] As bishop of Nola, Paulinus is traditionally credited with the introduction of the use of bells in church services. One form of medieval handbell was known as the __ and medieval steeple bells were known as _s_ from this supposed origin.[15] However, Dr. Adolf Buse, professor at the Seminary of Cologne, showed that the use of bells in churches, an invention credited to Paulinus by tradition, is not due to him, nor even to the town of Nola.[16]
+]] As bishop of Nola, Paulinus is traditionally credited with the introduction of the use of bells in church services. One form of medieval handbell was known as the __ and medieval steeple bells were known as _s_ from this supposed origin.[15] However, Dr. Adolf Buse, professor at the Seminary of Cologne, showed that the use of bells in churches, an invention credited to Paulinus by tradition, is not due to him, nor even to the town of Nola.[16]
 
 Already during his governorship Paulinus had developed a fondness for the 3rd-century martyr, St. Felix of Nola.[17] Felix was a minor saint of local importance and patronage whose tomb had been built within the local necropolis at Cimitile, just outside the town of Nola. As governor, Paulinus had widened the road to Cimitile and built a residence for travelers; it was at this site that Paulinus and Therasia took up residence. Nearby were a number of small chapels and at least one old basilica. Paulinus rebuilt the complex, constructing a brand new basilica to Felix and gathering to him a small monastic community. Paulinus wrote an annual hymn (_natalicium_) in honor of St. Felix for the feast day when processions of pilgrims were at their peak. In these hymns we can understand the personal relationship Paulinus felt between himself and Felix, his advocate in heaven. His poetry shares with much of the work of the early 5th century an ornateness of style that classicists of the 18th and 19th centuries found cloying and dismissed as decadent, though Paulinus' poems were highly regarded at the time and used as educational models.
 
@@ -44,7 +42,7 @@ Gregory the Great recounts a popular story that alleges that when the Vandals ra
 
 Relics
 
-Giglio_2011_Franklin_Sq.JPG About 800 Prince Grimoald III of Benevento removed Paulinus's bones as relics.
+About 800 Prince Grimoald III of Benevento removed Paulinus's bones as relics.
 
 From the 11th century they rested at the church of Saint Adalbert, now Saint Bartholomew, on the island in the Tiber in Rome. In 1908 Pope Pius X permitted them to be translated to the new cathedral at Nola, where they were reinterred on May 15, 1909.[22]
 

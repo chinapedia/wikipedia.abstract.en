@@ -9,7 +9,7 @@ Executive powers are mainly exercised by a Chief Minister and nine ministers, kn
 
 The Crown
 
-Jour_d'la_Libéthâtion_Jèrri_9_d'Mai_2011_038.jpg is the representative of head of state and the Bailiff is the civic head. Both are appointed by the Crown. Here the holders of the offices in 2011 are seen processing alongside on Liberation Day]] Elizabeth II's traditional title as Head of State is Duke of Normandy.[3] "The Crown" is defined by the Law Officers of the Crown as the "Crown in right of Jersey".[4] The Queen's representative and adviser in the island is the Lieutenant Governor of Jersey. He is a point of contact between Jersey ministers and the United Kingdom government and carries out executive functions in relation to immigration control, deportation, naturalisation and the issue of passports.[5] Since 2011, the incumbent Lieutenant Governor has been Sir John McColl.
+is the representative of head of state and the Bailiff is the civic head. Both are appointed by the Crown. Here the holders of the offices in 2011 are seen processing alongside on Liberation Day]] Elizabeth II's traditional title as Head of State is Duke of Normandy.[3] "The Crown" is defined by the Law Officers of the Crown as the "Crown in right of Jersey".[4] The Queen's representative and adviser in the island is the Lieutenant Governor of Jersey. He is a point of contact between Jersey ministers and the United Kingdom government and carries out executive functions in relation to immigration control, deportation, naturalisation and the issue of passports.[5] Since 2011, the incumbent Lieutenant Governor has been Sir John McColl.
 
 The Crown (not the government or parliament of Jersey) appoints the Lieutenant Governor, the Bailiff, Deputy Bailiff, Attorney General and Solicitor General. In practice, the process of appointment involves a panel in Jersey which select a preferred candidate whose name is communicated to the UK Ministry of Justice for approval before a formal recommendation is made to the Queen.
 
@@ -84,7 +84,7 @@ In October 2012 the Council of Ministers issued a "Common policy for external re
 
 Legislature
 
-States_Building_in_St_Helier_Jersey.jpg The parliamentary body responsible for adopting legislation and scrutinising the Council of Ministers is the States Assembly. Forty-Nine elected members (8 Senators, 29 Deputies and 12 Connétables) sit in the unicameral assembly. There are also five non-elected, non-voting members appointed by the Crown (the Bailiff, the Lieutenant Governor, the Dean of Jersey, the Attorney General and the Solicitor General).[62]
+The parliamentary body responsible for adopting legislation and scrutinising the Council of Ministers is the States Assembly. Forty-Nine elected members (8 Senators, 29 Deputies and 12 Connétables) sit in the unicameral assembly. There are also five non-elected, non-voting members appointed by the Crown (the Bailiff, the Lieutenant Governor, the Dean of Jersey, the Attorney General and the Solicitor General).[62]
 
 Decisions in the States are taken by majority vote of the elected members present and voting. The States of Jersey Law 2005 removed the Bailiff's a casting vote and the Lieutenant Governor's power of veto.[63] Although formally organised party politics plays no role in the States of Jersey assembly, members often vote together in two main blocs – a minority of members, holding broadly progressive views and critical of the Council of Ministers versus a majority of members, of conservative ideology, who support the Council of Ministers.[64]
 
@@ -95,7 +95,7 @@ According to constitutional convention United Kingdom legislation may be extende
 
 Executive
 
-Cyril_le_marquand_house.jpg Historically, Jersey had a "committee-based system of administration embracing all public service functions and guaranteeing extensive involvement in policy-making for most members" of the States Assembly.[68] The report of a review committee chaired by Sir Cecil Clothier criticised this system of government, finding it incapable of developing high-level strategy, efficient policy-coordination or effective political leadership. The States of Jersey Law 2005[69] introduced a ministerial system of government. Executive powers are now exercised by a Chief Minister and nine ministers, known collectively as the Council of Ministers responsible to the States Assembly.
+Historically, Jersey had a "committee-based system of administration embracing all public service functions and guaranteeing extensive involvement in policy-making for most members" of the States Assembly.[68] The report of a review committee chaired by Sir Cecil Clothier criticised this system of government, finding it incapable of developing high-level strategy, efficient policy-coordination or effective political leadership. The States of Jersey Law 2005[69] introduced a ministerial system of government. Executive powers are now exercised by a Chief Minister and nine ministers, known collectively as the Council of Ministers responsible to the States Assembly.
 
 The Chief Minister is elected from amongst the elected members of the States. Ministers are then proposed both by the Chief Minister and any other elected member, the final decision being made by the States assembly.
 
@@ -116,7 +116,7 @@ Historically, two parties dominated Jersey politics. Originating in the 1770s, t
 
 19th century
 
-Bread_riots_in_St_Helier_Jersey_Channel_Islands_1847.jpgThe Charlots and Magots contested power at elections until in 1819 the progressive Magots adopted the rose as their emblem, while the conservative Charlots wore laurel leaves. The symbolism soon became entrenched to the extent that gardens displayed their owners' allegiances, and pink or green paintwork also showed political sympathies. Still today in Jersey, the presence of established laurels or rose gardens in old houses gives a clue to the past party adherence of former owners, and the chair of the Constable of Saint Helier in the Assembly Room of the Parish Hall still sports the carved roses of a former incumbent.
+The Charlots and Magots contested power at elections until in 1819 the progressive Magots adopted the rose as their emblem, while the conservative Charlots wore laurel leaves. The symbolism soon became entrenched to the extent that gardens displayed their owners' allegiances, and pink or green paintwork also showed political sympathies. Still today in Jersey, the presence of established laurels or rose gardens in old houses gives a clue to the past party adherence of former owners, and the chair of the Constable of Saint Helier in the Assembly Room of the Parish Hall still sports the carved roses of a former incumbent.
 
 In order to help control voting in Jersey, it was not unknown for citizens to find themselves taken and stranded on the Écréhous until after voting had taken place.[77] By the time of the introduction of the secret ballot in 1891, party politics had waned.
 
@@ -124,7 +124,7 @@ _Blues_ and _Reds_ contested local elections into the 1920s, but Islandwide part
 
 After the Occupation
 
-Philip-Le-Feuvre-1948.jpgThe first election under the new constitution saw a struggle for dominance between the Jersey Democratic Movement and the Jersey Progressive Party, led by Cyril Le Marquand. Having achieved the political reforms it advocated the Progressive Party soon folded as an organisation, while the Democratic Movement, incorporating the tiny Communist Party of Jersey,[78] continued in existence as a campaigning social movement until the late 20th century.[79]
+The first election under the new constitution saw a struggle for dominance between the Jersey Democratic Movement and the Jersey Progressive Party, led by Cyril Le Marquand. Having achieved the political reforms it advocated the Progressive Party soon folded as an organisation, while the Democratic Movement, incorporating the tiny Communist Party of Jersey,[78] continued in existence as a campaigning social movement until the late 20th century.[79]
 
 The 1980s
 
@@ -143,7 +143,7 @@ On 4 July 2014, Reform Jersey became Jersey's only political party when it was r
 
 Local government
 
-Jersey.png Jersey is divided into twelve administrative districts known as parishes. All have access to the sea and are named after the saints to whom their ancient parish churches are dedicated.
+Jersey is divided into twelve administrative districts known as parishes. All have access to the sea and are named after the saints to whom their ancient parish churches are dedicated.
 
 The parishes of Jersey are further divided into _vingtaines_ (or, in St. Ouen, _cueillettes_), divisions which are historic and nowadays mostly used for purposes of electoral constituency in municipal elections. These elections are held to elect the members of the Parish municipality. Each parish has an Honorary Police force of elected, unpaid civilians who exercise police and prosecution powers.
 

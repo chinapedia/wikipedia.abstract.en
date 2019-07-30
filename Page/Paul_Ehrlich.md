@@ -15,11 +15,7 @@ After elementary school, Paul attended the time-honored secondary school Maria-M
 
 He married Hedwig Pinkus (1864–1948) in 1883 in the synagogue in Neustadt. The couple had two daughters, Stephanie and Marianne. Hedwig was a sister of Max Pinkus, who was an owner of the textile factory in Neustadt (later known as ZPB "Frotex").
 
-Gedenktafel_Bergstr_96_(Stegl)_Paul_Ehrlich.JPG
-
 After completing his clinical education and habilitation at the prominent Charité medical school and teaching hospital in Berlin in 1886, Ehrlich traveled to Egypt and other countries in 1888 and 1889, in part to cure a case of tuberculosis which he had contracted in the laboratory. Upon his return he established a private medical practice and small laboratory in Berlin-Steglitz. In 1891, Robert Koch invited Ehrlich to join the staff at his Berlin Institute of Infectious Diseases, where in 1896 a new branch, the Institute for Serum Research and Testing (_Institut für Serumforschung und Serumprüfung_), was established for Ehrlich's specialization. Ehrlich was named its founding director.
-
-Jf-rat-beil-paul-ehrlich-ffm-118.jpg
 
 In 1899 his institute moved to Frankfurt am Main and was renamed the Institute of Experimental Therapy (_Institut für experimentelle Therapie_). One of his important collaborators there was Max Neisser. In 1904, Ehrlich received a full position of honorary professor from the University of Göttingen. In 1906 Ehrlich became the director of the Georg Speyer House in Frankfurt, a private research foundation affiliated with his institute. Here he discovered in 1909 the first drug to be targeted against a specific pathogen: Salvarsan, a treatment for syphilis, which was at that time one of the most lethal and infectious diseases in Europe. Among the foreign guest scientists working with Ehrlich were two Nobel Prize winners, Henry Hallett Dale and Paul Karrer. The institute was renamed Paul Ehrlich Institute in Ehrlich's honour in 1947.
 
@@ -36,7 +32,7 @@ In the early 1870s, Ehrlich's cousin Karl Weigert was the first person to stain 
 
 In 1878 he followed his dissertation supervisor Julius Friedrich Cohnheim to Leipzig, and that year obtained a doctorate with a dissertation entitled "Contributions to the Theory and Practice of Histological Staining" (_Beiträge zur Theorie und Praxis der histologischen Färbung_).
 
-SMCpolyhydroxysmall.jpg]]
+]]
 
 One of the most outstanding results of his dissertation investigations was the discovery of a new cell type. Ehrlich discovered in the protoplasm of supposed plasma cells a granulate which could be made visible with the help of an alkaline dye. He thought this granulate was a sign of good nourishment, and accordingly named these cells mast cells, (from the German word for an animal-fattening feed, _Mast_). This focus on chemistry was unusual for a medical dissertation. In it, Ehrlich presented the entire spectrum of known staining techniques and the chemistry of the pigments employed. While he was at the Charité, Ehrlich elaborated upon the differentiation of white blood cells according to their different granules. A precondition was a dry specimen technique, which he also developed. A drop of blood placed between two glass slides and heated over a Bunsen burner fixed the blood cells while still allowing them to be stained. Ehrlich used both alkaline and acid dyes, and also created new “neutral” dyes. For the first time this made it possible to differentiate the lymphocytes among the leucocytes (white blood cells). By studying their granulation he could distinguish between nongranular lymphocytes, mono- and poly-nuclear leucocytes, eosinophil granulocytes, and mast cells.
 
@@ -47,8 +43,6 @@ His duties at the Charité included analyzing patients’ blood and urine specim
 Serum research
 
 Friendship with Robert Koch
-
-Robert_Koch.jpg
 
 When a student in Breslau, Ehrlich was given an opportunity by the pathologist Julius Friedrich Cohnheim to conduct extensive research and was also introduced to Robert Koch, who was at the time a district physician in Wollstein, Posen Province. In his spare time, Koch had clarified the life cycle of the anthrax pathogen and had contacted Ferdinand Cohn, who was quickly convinced by Koch's work and introduced him to his Breslau colleagues. From 30 April to 2 May 1876, Koch presented his investigations in Breslau, which the student Paul Ehrlich was able to attend.
 
@@ -70,15 +64,13 @@ Emil Behring had worked at the Berlin Institute of Infectious Diseases until 189
 
 The valency of serums
 
-Paul_Ehrlich_Freiburg.jpg where Paul Ehrlich, as a medical student in the winter semester 1875/76, discovered the mast cells.]] Since antiserums were an entirely new type of medicine whose quality was highly variable, a government system was established to guarantee their safety and effectiveness. Beginning 1 April 1895, only government-approved serum could be sold in the German Reich. The testing station for diphtheria serum was provisionally housed at the Institute of Infectious Diseases. At the initiative of Friedrich Althoff,[12] an Institute of Serum Research and Testing (_Institut für Serumforschung und Serumprüfung_) was established in 1896 in Berlin-Steglitz, with Paul Ehrlich as director (which required him to cancel all his contracts with Hoechst). In this function and as honorary professor at Berliner University he had annual earnings of 6,000 marks, approximately the salary of a university professor. In addition to a testing department the institute also had a research department.
+where Paul Ehrlich, as a medical student in the winter semester 1875/76, discovered the mast cells.]] Since antiserums were an entirely new type of medicine whose quality was highly variable, a government system was established to guarantee their safety and effectiveness. Beginning 1 April 1895, only government-approved serum could be sold in the German Reich. The testing station for diphtheria serum was provisionally housed at the Institute of Infectious Diseases. At the initiative of Friedrich Althoff,[12] an Institute of Serum Research and Testing (_Institut für Serumforschung und Serumprüfung_) was established in 1896 in Berlin-Steglitz, with Paul Ehrlich as director (which required him to cancel all his contracts with Hoechst). In this function and as honorary professor at Berliner University he had annual earnings of 6,000 marks, approximately the salary of a university professor. In addition to a testing department the institute also had a research department.
 
 In order to determine the effectiveness of diphtheria antiserum, a stable concentration of diphtheria toxin was required. Ehrlich discovered that the toxin being used was perishable, in contrast to what had been assumed, which for him led to two consequences: He did not use the toxin as a standard, but instead a serum powder developed by Behring, which had to be dissolved in liquid shortly before use. The strength of a test toxin was first determined in comparison with this standard. The test toxin could then be used as a reference for testing other serums. For the test itself, toxin and serum were mixed in a ratio so that their effects just cancelled each other when injected into a guinea pig. But since there was a large margin in determining whether symptoms of illness were present, Ehrlich established an unambiguous target: the death of the animal. The mixture was to be such that the test animal would die after four days. If it died earlier, the serum was too weak and was rejected. Ehrlich claimed to have made the determination of the valency of serum as accurate as it would be with chemical titration. This again demonstrates his tendency to quantify the life sciences.
 
 Influenced by the mayor of Frankfurt am Main, Franz Adickes, who endeavored to establish science institutions in Frankfurt in preparation of the founding of a university, Ehrlich's institute moved to Frankfurt In 1899 and was renamed the Royal Prussian Institute of Experimental Therapy (_Königlich Preußisches Institut für Experimentelle Therapie_). The German quality-control methodology was copied by government serum institutes all over the world, and they also obtained the standard serum from Frankfurt. After diphtheria antiserum, tetanus serum and various bactericide serums for use in veterinary medicine were developed in rapid sequence. These were also evaluated at the institute, as was tuberculin and later on various vaccines. Ehrlich's most important colleague at the institute was the Jewish doctor and biologist Julius Morgenroth.
 
 Ehrlich’s side-chain theory
-
-Paul_Ehrlich_Arbeitszimmer.jpg
 
 He postulated that cell protoplasm contains special structures which have chemical _side chains_ (today's term is macromolecules) to which the toxin binds, affecting function. If the organism survives the effects of the toxin, the blocked side-chains are replaced by new ones. This regeneration can be trained, the name for this phenomenon being _immunization._ If the cell produces a surplus of side chains, these might also be released into the blood as antibodies.
 
@@ -100,8 +92,6 @@ In 1885 Ehrlich‘s monograph "The Need of the Organism for Oxygen," (_Das Sauer
 
 Methylene blue
 
-Mundschleimhautzelle.jpg
-
 In the course of his investigations Ehrlich came across methylene blue, which he regarded as particularly suitable for staining bacteria. Later, Robert Koch also used methylene blue as a dye in his research on the tuberculosis pathogen. In Ehrlich's view, an added benefit was that methylene blue also stained the long appendages of nerve cells, the axons. He initiated a doctoral dissertation on the subject, but did not follow up the topic himself. It was the opinion of the neurologist Ludwig Edinger that Ehrlich had thereby opened up a major new topic in the field of neurology.
 
 After mid-1889, when Ehrlich was unemployed, he privately continued his research on methylene blue. His work on in vivo staining gave him the idea of using it therapeutically. Since the parasite family of _Plasmodiidae_ – which includes the malaria pathogen – can be stained with methylene blue, he thought it could possibly be used in the treatment of malaria. In the case of two patients so treated at the city hospital in Berlin-Moabit, their fever indeed subsided and the malaria plasmodia disappeared from their blood. Ehrlich obtained methylene blue from the company Meister Lucius & Brüning AG (later renamed Hoechst AG), which started a long collaboration with this company.
@@ -109,8 +99,6 @@ After mid-1889, when Ehrlich was unemployed, he privately continued his research
 The search for a _chemotherapia specifica_
 
 Before the Institute of Experimental Therapy had moved to Frankfurt, Ehrlich had already resumed work on methylene blue. After the death of Georg Speyer, his widow Franziska Speyer endowed the Georg-Speyer House in his memory[13] which was erected next door to Ehrlich's institute. As director of the Georg-Speyer House, Ehrlich transferred his chemotherapeutic research there. He was looking for an agent which was as effective as methylene blue, but without its side effects. His model was on the one hand the impact of quinine on malaria, and on the other hand, in analogy to serum therapy, he thought there must also be chemical pharmaceuticals which would have just as specific an effect on individual diseases. His goal was to find a "Therapia sterilisans magna," in other words a treatment that could kill all disease pathogens.
-
-Paul_Ehrlich_and_Sahachiro_Hata.jpg
 
 As a model for experimental therapy Ehrlich used a guinea pig disease trypanosoma and tested out various chemical substances on laboratory animals. The trypanosomes could indeed be successfully killed with the dye trypan red. Beginning in 1906, he intensively investigated atoxyl and had it tested by Robert Koch along with other arsenic compounds during Koch's sleeping sickness expedition of 1906/07. Although the name literally means “nonpoisonous,” atoxyl does cause damage, especially to the optic nerve. Ehrlich elaborated the systematic testing of chemical compounds in the sense of screening as now practiced in the pharmaceutical industry. He discovered that Compound 418 - Arsenophenylglycine - had an impressive therapeutic effect and had it tested in Africa.
 
@@ -128,8 +116,6 @@ Ehrlich reasoned that if a compound could be made that selectively targeted a di
 
 Legacy
 
-DBP_1954_197_Paul_Ehrlich_und_Emil_Behring.jpg
-
 In 1910, a street was named after Ehrlich in Frankfurt-Sachsenhausen. During the Third Reich, Ehrlich's achievements were ignored while Emil Adolf von Behring was stylized as the ideal Aryan scientist, and the street named after Ehrlich was given another name. Shortly after the end of the war the name Paul-Ehrlich-Strasse was reinstated, and today numerous German cities have streets named after Paul Ehrlich.
 
 West Germany issued a postage stamp in 1954 on the 100th anniversary of the births of Paul Ehrlich (14 March 1854) and Emil von Behring (15 March 1854).
@@ -137,8 +123,6 @@ West Germany issued a postage stamp in 1954 on the 100th anniversary of the birt
 A 200 Deutsche Mark bank note featured Paul Ehrlich.
 
 The German Paul Ehrlich Institute, the successor to the Steglitz Institute for Serum Research and Serum Testing and the Frankfurt Royal Institute for Experimental Therapy, was named in 1947 after its first director, Paul Ehrlich.[17]
-
-200_DM_1996.jpg
 
 His name is also borne by many schools and pharmacies, by the Paul-Ehrlich-Gesellschaft für Chemotherapie e. V. (PEG) in Frankfurt am Main, and the Paul-Ehrlich-Klinik in Bad Homburg vor der Höhe. The Paul Ehrlich and Ludwig Darmstaedter Prize is the most distinguished German award for biomedical research. A European network of PhD studies in Medicinal Chemistry has been named after him (Paul Ehrlich MedChem Euro PhD Network).[18]
 

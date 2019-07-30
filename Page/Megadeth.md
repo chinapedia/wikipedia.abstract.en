@@ -19,7 +19,7 @@ In 1984, Megadeth recorded a three-song demo tape featuring Mustaine, Ellefson, 
 
 1985: _Killing Is My Business... and Business Is Good!_
 
-Dave_Mustaine_and_Vic_Rattlehead.jpg on stage in 2018.]] After considering several labels, Mustaine signed the band to Combat Records, a New York-based Independent record label that offered Megadeth the highest budget to record and tour.[7] In 1985, Combat Records gave the band $8,000 to record and produce its debut album. After spending $4,000 of the budget on drugs, alcohol, and food, the band fired the original producer and finished the recording themselves.
+on stage in 2018.]] After considering several labels, Mustaine signed the band to Combat Records, a New York-based Independent record label that offered Megadeth the highest budget to record and tour.[7] In 1985, Combat Records gave the band $8,000 to record and produce its debut album. After spending $4,000 of the budget on drugs, alcohol, and food, the band fired the original producer and finished the recording themselves.
 
 Despite its low fidelity sound, _Killing Is My Business... and Business Is Good!_ was relatively successful in underground metal circles and attracted major-label interest. Music writer Joel McIver praised its "blistering technicality" and stated that the album "raised the bar for the whole thrash metal scene, with guitarists forced to perform even more accurately and powerfully". The front cover marked the debut of band mascot Vic Rattlehead, who regularly appeared on subsequent album artwork.[8]
 
@@ -33,7 +33,7 @@ According to Mustaine, Megadeth was under pressure to deliver another successful
 
 The album was produced on a $25,000 budget from Combat Records. Dissatisfied with its financial limitations, the band left Combat and signed with Capitol Records. Capitol bought the rights to the album, and hired producer Paul Lani to remix the earlier recordings. Released in late 1986, _Peace Sells... but Who's Buying?_ has clearer production and more sophisticated songwriting. Mustaine wanted to write socially conscious lyrics, unlike mainstream heavy metal bands who sang about "hedonistic pleasures".[13] The album was noted for its political commentary and helped Megadeth expand its fanbase. The title track was the album's lead single and was accompanied by a music video that received regular airplay on MTV.
 
-MegadethLogoDileo.png|date=August 6, 2012|accessdate=July 7, 2014}}]]
+|date=August 6, 2012|accessdate=July 7, 2014}}]]
 
 In February 1987, Megadeth was the opening act on Alice Cooper's Constrictor tour,[14] and the following month began its first headlining world tour in the United Kingdom. The 72-week tour was supported by Overkill and Necros, and continued in the United States. During the tour, Mustaine and Ellefson considered firing Samuelson for his drug abuse. According to Mustaine, Samuelson had become too much to handle when intoxicated. Drummer Chuck Behler traveled with Megadeth for the last dates of the tour as the other band members feared Samuelson would not be able to continue.[15] Poland quarreled with Mustaine, and was accused of selling band equipment to buy heroin. As a result, Samuelson and Poland were asked to leave Megadeth in 1987, with Behler becoming the band's full-time drummer.
 
@@ -57,7 +57,7 @@ The band was unable to quickly find a suitable replacement for Young. At this ti
 
 With Mustaine sober, Megadeth continued searching for a new lead guitarist. Among those auditioned were Lee Altus of Heathen and Eric Meyer of Dark Angel. Meyer was invited to join the band after Poland's departure, but chose to remain with Dark Angel.[23] Guns N' Roses guitarist Slash had been jamming with Mustaine and Ellefson, and although it seemed that he might join Megadeth, he remained with Guns N' Roses. Dimebag Darrell of Pantera was offered the job, but the deal fell through after Mustaine refused his request to recruit his brother, Pantera drummer Vinnie Paul, as he had already hired Menza.[24] The offer was also extended to Criss Oliva who also declined as he did not want to leave Savatage.[25] Jeff Loomis, who would later go on to form progressive metal titans Nevermore, also auditioned though Mustaine deemed him too young to join as Loomis was only 16 at the time.[26]
 
-Megadeth1991AL.jpg in Birmingham, Alabama on July 17, 1991.]] Marty Friedman filled the guitarist position at the recommendation of Ron Laffitte, a member of Capitol management. Laffitte had heard _Dragon's Kiss_, a solo recording by Friedman when he was in Cacophony.[27] Mustaine and Ellefson were satisfied with Friedman's style and thought that he understood Megadeth's music. With Friedman in the group, the band completed what fans consider the definitive Megadeth lineup. The revitalized band entered Rumbo Studios in March 1990 with co-producer Mike Clink to begin Megadeth's most critically acclaimed album, _Rust in Peace_. For the first time the band's members remained sober in the studio, alleviating many problems which plagued previous albums. Clink was the first producer to complete a Megadeth album without being fired.[28] Its recording was documented in _Rusted Pieces_, a home video released in 1991 with six music videos and an interview with the band.
+in Birmingham, Alabama on July 17, 1991.]] Marty Friedman filled the guitarist position at the recommendation of Ron Laffitte, a member of Capitol management. Laffitte had heard _Dragon's Kiss_, a solo recording by Friedman when he was in Cacophony.[27] Mustaine and Ellefson were satisfied with Friedman's style and thought that he understood Megadeth's music. With Friedman in the group, the band completed what fans consider the definitive Megadeth lineup. The revitalized band entered Rumbo Studios in March 1990 with co-producer Mike Clink to begin Megadeth's most critically acclaimed album, _Rust in Peace_. For the first time the band's members remained sober in the studio, alleviating many problems which plagued previous albums. Clink was the first producer to complete a Megadeth album without being fired.[28] Its recording was documented in _Rusted Pieces_, a home video released in 1991 with six music videos and an interview with the band.
 
 Released in September 1990, _Rust in Peace_ debuted at number 23 in the United States and number eight in the United Kingdom.[29][30] Mustaine had developed a writing style with a rhythmically complex, progressive edge, and the songs featured longer guitar solos and frequent tempo changes. Described as a genre-defining work by _Decibel_,[31] the album solidified Megadeth's reputation in the music industry. It features the singles "Holy Wars... The Punishment Due" and "Hangar 18", both of which were accompanied by music videos and became live staples. _Rust in Peace_ received a Grammy nomination in 1991 for Best Metal Performance,[32][33] and was the group's third platinum album, certified in December 1994.[34]
 
@@ -111,8 +111,6 @@ A European tour with AC/DC in support of _The World Needs a Hero_ began in mid-2
 
 2002–2003: Breakup
 
-Dave_Mustaine_Live_Megadeth.jpg
-
 In January 2002, Mustaine was hospitalized for the removal of a kidney stone and was administered pain medication that triggered a relapse of his drug addiction. Following his stay, Mustaine checked himself into a treatment center in Texas. While there, Mustaine fell asleep with his left arm over the back of a chair, causing compression of the radial nerve. He was subsequently diagnosed with radial neuropathy, which left him unable to grasp or make a fist with his left hand.[100][101]
 
 On April 3, Mustaine announced in a press release that he was disbanding Megadeth, as his arm injury rendered him unable to play guitar.[102] For the next four months, he had physical therapy five days a week, and slowly began to "re-teach" his left hand.[103] To fulfill contract obligations to Sanctuary, Megadeth released the compilation album _Still Alive... and Well?_. The first half of the album contains live tracks recorded at the Web Theatre in Phoenix, and the second half has studio recordings from _The World Needs a Hero_.[104]
@@ -121,7 +119,7 @@ Following nearly a year of recovery, including physical and electroshock therapy
 
 2004–2005: _The System Has Failed_
 
-Megadeth_at_Sauna_crop.jpg, James MacDonough, Dave Mustaine, and Glen Drover]]
+, James MacDonough, Dave Mustaine, and Glen Drover]]
 
 In May 2004, Mustaine returned to his solo project. Contractual obligations to the band's European label, EMI, resulted in the recording's release as a Megadeth album.[107] Mustaine reformed the band and contacted the fan-favorite _Rust in Peace_ lineup to re-record backing tracks. While drummer Nick Menza agreed to return, both Marty Friedman and David Ellefson were unable to come to an agreement with Mustaine.[108] Menza was sent home shortly after rehearsals began, a few days before the start of a tour supporting Megadeth's upcoming album. Mustaine said Menza was insufficiently prepared for the physical demands of a US tour, and "it just didn't work out".[109] This was the first album without Ellefson. Chris Poland, who played lead guitar on Megadeth's first two albums, was hired to contribute guitar solos to the new album, working with Mustaine for the first time since the 1980s. Poland opted to serve only as a session musician, wanting to remain focused on his jazz fusion project OHM.[110]
 
@@ -131,7 +129,7 @@ Megadeth began the Blackmail the Universe world tour in October, enlisting touri
 
 2005–2006: Gigantour
 
-Metalmania_2008_Megadeth_James_LoMenzo_02.jpg was Megadeth's bassist from 2006 to 2010.]]
+was Megadeth's bassist from 2006 to 2010.]]
 
 In mid-2005, Mustaine organized an annual thrash metal festival tour, Gigantour. Megadeth headlined the inaugural tour with acts such as Dream Theater, Nevermore, Anthrax, and Fear Factory. Performances at the Montreal and Vancouver shows were filmed and recorded for a live DVD-and-CD set released in the second quarter of 2006.[120] On October 9, following the successes of _The System Has Failed_ and the Blackmail the Universe world tour, Mustaine announced to a sold-out crowd at the Pepsi Music Rock Festival in Argentina that Megadeth would continue to record and tour.[121] The concert, held at Obras Sanitarias stadium in Buenos Aires in front of 25,000 fans, was filmed and released on DVD as _That One Night: Live in Buenos Aires_ in 2007.[122]
 
@@ -139,7 +137,7 @@ In February 2006, bassist James MacDonough left the band over "personal differen
 
 2006–2008: _United Abominations_
 
-Metalmania_2008_Megadeth_Chris_Broderick_02.jpg joined Megadeth in 2008, replacing Glen Drover.]]
+joined Megadeth in 2008, replacing Glen Drover.]]
 
 In May 2006, Megadeth announced that its eleventh studio album, _United Abominations_, was near completion. Originally scheduled for release in October, Mustaine said that the band was "putting the finishing touches on it" and postponed its release to May of the following year.[129] He commented on the release: "Metal needs a really good old-school record again. I believe I have delivered."[130] _United Abominations_ was the band's first album to feature Glen Drover, Shawn Drover, and James Lomenzo. It also has a newer version of "À Tout le Monde" entitled "À Tout le Monde (Set Me Free)". The 2007 version is a duet with Cristina Scabbia of Lacuna Coil; it was recorded at a slightly faster tempo than the original and contains an extended solo.[131]
 
@@ -159,7 +157,7 @@ In March, Megadeth embarked on the Rust in Peace 20th Anniversary Tour, which to
 
 2010–2012: _Thirteen_
 
-Megadeth_Live-Norway_Rock_2010.jpg in July 2010.]]
+in July 2010.]]
 
 Megadeth, along with Metallica, Slayer, and Anthrax, collectively known as the "big four" of thrash metal, agreed to perform on the same bill during mid-2010. These performances were part of the Sonisphere Festival and were held in a number of European countries.[154] One such performance in Sofia, Bulgaria, was filmed and released as a video album entitled _The Big Four: Live from Sofia, Bulgaria_.[155] These shows continued the following year in the United States. The first took place in Indio, California, and was the only scheduled show in the United States at the time,[156] although a second American production was held at Yankee Stadium in New York City shortly afterwards.[157]
 
@@ -173,7 +171,7 @@ Megadeth returned to its own Vic's Garage studio to record its thirteenth album,
 
 In September 2012, it was announced that Megadeth would re-release _Countdown to Extinction_ in honor of the album's 20th anniversary. To mark the occasion, Megadeth launched a tour in which the band performed the album live in its entirety.[174] One performance, filmed at the Pomona Fox Theater, was released as a live album, _Countdown to Extinction: Live,_ the following year.[175] Another track from _Thirteen_, "Whose Life (Is It Anyways?)", was nominated for Best Hard Rock/Metal Performance at the 2013 Grammy Awards, but lost to Halestorm's "Love Bites (So Do I)".[176]
 
-Flickr_-_Official_U.S._Navy_Imagery_-_Shawn_Drover_and_Chris_Broderick,_members_of_the_band_Megadeth,_sign_autographs_in_the_crew_mess_aboard_USS_Helena.jpg.]]
+.]]
 
 In August, Megadeth announced the recording of its fourteenth album with producer Johnny K.[177] At the start of 2013, Megadeth left Roadrunner Records for Mustaine's newly founded label, Tradecraft, distributed through Universal Music Group.[178][179] The album, _Super Collider_, was released in June and debuted at number six on the _Billboard_ 200, the band's highest chart position since 1994's _Youthanasia_.[180] Critical reaction to the album, however, was largely negative.[181] Shortly after the release of _Super Collider_, Mustaine stated that he had already started thinking about a fifteenth Megadeth album. He said this had been spurred by the death of Slayer guitarist Jeff Hanneman, which gave him a sense of mortality.[182] Mustaine elaborated: "You know, time is short. Nobody knows how long they're gonna live. You see what happened with Jeff Hanneman, so I wanna write as much as I can while I can."[183]
 
@@ -181,11 +179,11 @@ The 2013 edition of Gigantour featured Black Label Society, Hellyeah, Device, an
 
 2014–present: _Dystopia_ and upcoming sixteenth studio album
 
-Dirk_Verbeuren_on_stage_with_Megadeth_at_The_O2,_London,_2018-06-16.jpg joined the band in 2016, replacing Chris Adler.]]
+joined the band in 2016, replacing Chris Adler.]]
 
 The band encountered several setbacks through the second half of 2014. The August concert in Tel Aviv was canceled due to an armed conflict between Israel and Gaza.[188] Megadeth was scheduled to appear on Motörhead's Motörboat cruise in late September, but withdrew because of Mustaine's complications following his cervical spine surgery.[189] In late November, Drover quit the band after ten years, wanting to pursue his own musical interests. This was quickly followed by the departure of Broderick, due to artistic and musical differences.[190] Ellefson denied rumors that Megadeth would disband, and said he and Mustaine would continue working on new music.[191] Mustaine said that one of the reasons for Broderick's and Drover's departure was the frustration caused by Megadeth's fan base demanding a reunion with Friedman and Menza.[192] Tragically, former Megadeth drummer Nick Menza died from a heart attack on May 21, 2016 while performing with OHM at a jazz club in Los Angeles.[193] Lamb of God drummer Chris Adler and guitarist Kiko Loureiro of Angra were brought in to perform on Megadeth's fifteenth studio album.[194]
 
-Dave_Mustaine_and_Kiko_Loureiro_live_in_London_2018-06-16.jpg (right) playing live with Dave Mustaine in 2018.]]
+(right) playing live with Dave Mustaine in 2018.]]
 
 In October 2015, Megadeth streamed "Fatal Illusion" off the album _Dystopia_, which was released in January 2016.[195] In support of _Dystopia_, Megadeth embarked on a North American tour in February and March with Suicidal Tendencies, Children of Bodom and Havok (though Havok was soon removed from the tour by Megadeth's management following a dispute over a contract).[196] Mustaine announced that Adler, who was performing with both Lamb of God and Megadeth, was no longer in the band due to scheduling conflicts between the two bands. He was replaced by Dirk Verbeuren from Soilwork, on Adler's recommendation.[197] A second US tour took place in September and October, with support from Amon Amarth, Suicidal Tendencies, Metal Church,[198] and Butcher Babies.[199]
 

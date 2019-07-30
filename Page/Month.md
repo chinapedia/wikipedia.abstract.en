@@ -56,7 +56,7 @@ The Gregorian calendar, like the Julian calendar before it, has twelve months:
   11           NOVEMBER     30 days
   12           DECEMBER     31 days
 
-Month_-_Knuckles_(en).svg Klaviatur-3-en.svg The mean month length of the Gregorian calendar is 30.436875 days.
+ The mean month length of the Gregorian calendar is 30.436875 days.
 
 Months existing in the Roman calendar in the past include:
 

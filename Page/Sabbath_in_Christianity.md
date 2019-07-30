@@ -1,4 +1,4 @@
-Albrecht_Dürer_-_Sol_Iustitiae_(Sun_of_Righteousness)_(NGA_1943.3.3484).jpg, Malachi 4:2. By Albrecht Dürer, circa 1499/1500]]
+, Malachi 4:2. By Albrecht Dürer, circa 1499/1500]]
 
 SABBATH IN CHRISTIANITY is the inclusion or adoption in Christianity of a Sabbath day. Established within Judaism through Mosaic Law, Christians inherited a Sabbath practice that reflected two great precepts: the commandment to "remember the sabbath day, to keep it holy"[1] and God's blessing of the seventh day (Saturday) as a day of rest in the Genesis creation narrative and declared as made for man by Jesus. The first of these provisions was associated in Judaism with the assembly of the people to worship in the Temple in Jerusalem or in synagogues.
 
@@ -63,7 +63,7 @@ The Orthodox Tewahedo churches celebrate the Sabbath, a practice proselytised in
 
 Protestant Reformation
 
-Recreation_ground_on_the_Isle_of_Raasay_-_geograph.org.uk_-_1476596.jpg displaying a sign "Please do not use this playing field on Sundays".]]
+displaying a sign "Please do not use this playing field on Sundays".]]
 
 Protestant reformers, beginning in the 16th century, brought new interpretations of Christian law to the west. The Heidelberg Catechism of the Reformed Churches founded by John Calvin, teaches that the moral law as contained in the Ten Commandments is binding for Christians and that it instructs Christians how to live in service to God in gratitude for His grace shown in redeeming mankind.[45] Likewise, Martin Luther, in his work against the Antinomians, Luther rejected the idea of the abolition of the Ten Commandments.[46] They also viewed Sunday rest as a civic institution established by human authority, which provided an occasion for bodily rest and public worship.[47] Another Protestant, John Wesley, stated "This 'handwriting of ordinances' our Lord did blot out, take away, and nail to His cross (). But the moral law contained in the Ten Commandments, and enforced by the prophets, He did not take away .... The moral law stands on an entirely different foundation from the ceremonial or ritual law .... Every part of this law must remain in force upon all mankind and in all ages."[48]
 
@@ -132,7 +132,7 @@ Members of The Church of Jesus Christ of Latter-day Saints are encouraged to pre
 
 First-day sabbatarian churches and organizations
 
-The observance of the Lord's Day (Sunday) as the Christian Sabbath is known as first-day Sabbatarianism and this view was historically heralded by nonconformist denominations, such as Congregationalists, Presbyterians, Methodists, and Baptists, as well as many Episcopalians.[79][80][81][82] First-day sabbatarianism impacted popular Western Christian culture, with influences remaining to the present day, e.g. Sunday laws.[83] The_Sabbath_Breakers.jpg (1896)]] For example, The Westminster Confession, historically upheld by Presbyterians, commands the belief of first-day Sabbatarian doctrine:[84] The Savoy Declaration, upheld by Puritan Congregationalists,[85] as well as the Second London Baptist Confession, upheld by Reformed Baptists, advanced first-day Sabbatarian views identical to those expressed in the Westminster Confession.[86] General Baptists also advocate first-day Sabbatarian doctrine in their confessions of faith; for example, the Treatise on the Faith and Practice of the Free Will Baptists states:[87]
+The observance of the Lord's Day (Sunday) as the Christian Sabbath is known as first-day Sabbatarianism and this view was historically heralded by nonconformist denominations, such as Congregationalists, Presbyterians, Methodists, and Baptists, as well as many Episcopalians.[79][80][81][82] First-day sabbatarianism impacted popular Western Christian culture, with influences remaining to the present day, e.g. Sunday laws.[83] (1896)]] For example, The Westminster Confession, historically upheld by Presbyterians, commands the belief of first-day Sabbatarian doctrine:[84] The Savoy Declaration, upheld by Puritan Congregationalists,[85] as well as the Second London Baptist Confession, upheld by Reformed Baptists, advanced first-day Sabbatarian views identical to those expressed in the Westminster Confession.[86] General Baptists also advocate first-day Sabbatarian doctrine in their confessions of faith; for example, the Treatise on the Faith and Practice of the Free Will Baptists states:[87]
 
 In keeping with historic Methodism,[88] the _Discipline_ of the Bible Methodist Connection of Churches enshrines first-day Sabbatarianism:[89]
 
@@ -143,7 +143,7 @@ The founder of the Moody Bible Institute declares, "Sabbath was binding in Eden,
 
 Seventh-day sabbatarian churches
 
-Sabbatarian_Meeting_House.jpg), built in 1729 in Newport, Rhode Island, now owned by Newport Historical Society.]]
+), built in 1729 in Newport, Rhode Island, now owned by Newport Historical Society.]]
 
 Seventh-day Protestants regard Sabbath as a day of rest for all mankind and not Israel alone, based on Jesus's statement, "the Sabbath was made for man" (i.e., purposed for humankind at the time of its creation, , cf. ), and on early-church Sabbath meetings. Seventh-day Sabbatarianism has been criticized as an effort to combine Old Testament laws, practiced in Judaism, with Christianity, or to revive the Judaizers of the Epistles or the Ebionites.
 
@@ -152,8 +152,6 @@ Seventh-day Sabbatarians practice a strict seventh-day Sabbath observance, simil
 Grace Communion International (Armstrongism) taught seventh-day Sabbath observance. The United Church of God teaches seventh-day Sabbath observance.
 
 Seventh-day Adventist Church
-
-Calhoun_SDA_Church.JPG
 
 The Seventh-day Adventist Church arose in the mid-19th century in America after Rachel Oakes, a Seventh Day Baptist, gave a tract about the Sabbath to an Adventist Millerite, who passed it on to Ellen G. White.
 

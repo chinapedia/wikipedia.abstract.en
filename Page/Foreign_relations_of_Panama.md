@@ -3,7 +3,7 @@ PANAMA'S FOREIGN RELATIONS are conventional in outlook, with Panama being especi
 
 Diplomatic relations list
 
-Diplomatic_relations_of_Panama.svg Panama has established diplomatic relations with following countries:[1]
+Panama has established diplomatic relations with following countries:[1]
 
 +-----+---------+------+
 | #   | Country | Date |

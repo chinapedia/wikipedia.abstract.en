@@ -7,7 +7,7 @@ History
 
 Early history
 
-Coronation_Stone_-_geograph.org.uk_-_664311.jpg in the grounds of the guildhall]] Kingston was called _Cyninges tun_ in AD 838, _Chingestune_ in 1086, _Kingeston_ in 1164, _Kyngeston super Tamisiam_ in 1321 and _Kingestowne upon Thames_ in 1589. The name means 'the king's manor or estate' from the Old English words _cyning_ and _tun_. It belonged to the king in Saxon times and was the earliest royal borough.[2]
+in the grounds of the guildhall]] Kingston was called _Cyninges tun_ in AD 838, _Chingestune_ in 1086, _Kingeston_ in 1164, _Kyngeston super Tamisiam_ in 1321 and _Kingestowne upon Thames_ in 1589. The name means 'the king's manor or estate' from the Old English words _cyning_ and _tun_. It belonged to the king in Saxon times and was the earliest royal borough.[2]
 
 The first surviving record of Kingston is from AD 838 as the site of a meeting between King Egbert of Wessex and Ceolnoth, Archbishop of Canterbury.[3] Kingston lay on the boundary between the ancient kingdoms of Wessex and Mercia, until in the early tenth century when King Athelstan united both to create the kingdom of England. Probably because of the town's symbolic location, several tenth-century kings were crowned in Kingston: Æthelstan in 925, Eadred in 946 and Æthelred in 978. Other kings who may have been crowned there are Edward the Elder in 902, Edmund in 939, Eadwig in 956, Edgar in about 960 and Edward the Martyr in 975.
 
@@ -19,7 +19,7 @@ For much of the 20th century, Kingston was a major military aircraft manufacturi
 
 Local government
 
-Footboll_in_England_1846.jpg Kingston-upon-Thames_MB_Ward_Map_1868.svg Kingston upon Thames formed an ancient parish in the Kingston hundred of Surrey. The parish of Kingston upon Thames covered a large area including Hook, Kew, New Malden, Petersham, Richmond, Surbiton, Thames Ditton and East Molesey.[7]
+Kingston upon Thames formed an ancient parish in the Kingston hundred of Surrey. The parish of Kingston upon Thames covered a large area including Hook, Kew, New Malden, Petersham, Richmond, Surbiton, Thames Ditton and East Molesey.[7]
 
 The town of Kingston was granted a charter by King John in 1200, but the oldest one to survive is from 1208 and this document is housed in the town's archives. Other charters were issued by later kings, including Edward IV's charter that gave the town the status of a borough in 1481.
 
@@ -29,7 +29,7 @@ In 1965 the local government of Greater London was reorganised and the municipal
 
 Urban development
 
-Clattern.JPG Kingston was built at the first crossing point of the Thames upstream from London Bridge and a bridge still exists at the same site. It was this 'great bridge' that gave it its early importance in the 13th century.[9] Kingston was occupied by the Romans, and later it was either a royal residence or a royal demesne. There is a record of a council held there in 838, at which Egbert of Wessex, King of Wessex, and his son Ethelwulf of Wessex were present. In the Domesday Book it was held by William the Conqueror. Its domesday assets were: a church, five mills, four fisheries worth 10s, 27 ploughs, of meadow, woodland worth six hogs. It rendered £31 10s (£31.5).[10]
+Kingston was built at the first crossing point of the Thames upstream from London Bridge and a bridge still exists at the same site. It was this 'great bridge' that gave it its early importance in the 13th century.[9] Kingston was occupied by the Romans, and later it was either a royal residence or a royal demesne. There is a record of a council held there in 838, at which Egbert of Wessex, King of Wessex, and his son Ethelwulf of Wessex were present. In the Domesday Book it was held by William the Conqueror. Its domesday assets were: a church, five mills, four fisheries worth 10s, 27 ploughs, of meadow, woodland worth six hogs. It rendered £31 10s (£31.5).[10]
 
 In 1730 the chapel containing the royal effigies collapsed, burying the sexton, who was digging a grave, the sexton's daughter and another person. The daughter survived this accident and was her father's successor as sexton. Kingston sent members to early Parliaments, until a petition by the inhabitants prayed to be relieved from the burden. Another chapel, the collegiate chapel of St Mary Magdalene, The Lovekyn Chapel, still exists. It was founded in 1309 by a former mayor of London, Edward Lovekyn. It is the only private chantry chapel to survive the Reformation.
 
@@ -45,7 +45,7 @@ Kingston straddles two Parliamentary constituencies: the area north of the railw
 
 Notable locations
 
-The_Bentall_Centre,_Kingston_-_geograph.org.uk_-_1616364.jpg Kingston_Bridge.jpg in the background]] Kingston_All_Saints01.JPG, a Grade I listed building]]
+in the background]] , a Grade I listed building]]
 
 Central Kingston is a busy predominantly retail centre, with a small number of commercial offices and civic buildings. The shopping centre includes a shopping mall, "The Bentall Centre", containing the Bentalls department store and large branches of chain stores found in many British high streets. There is a large branch of the John Lewis department store group, with a Waitrose supermarket in the basement. The Rotunda, in a former Bentalls furniture depository building (a local landmark), includes a bowling alley, fitness centre, a 15-screen Odeon multiplex cinema and a few restaurants. Recent developments along the riverside south of Kingston Bridge have added bars, restaurants and a theatre, the Rose Theatre which opened in 2008 with Sir Peter Hall as the director.
 
@@ -69,7 +69,7 @@ Culture
 
 A notable dramatic arts venue is the Rose Theatre. This theatre opened on 16 January 2008 and seats about 900 people. The audience are arranged around the semi-circular stage. All Saints Church is host to classical choral and music concerts mostly on Saturdays and houses a Frobenius organ. There are a number of choral societies including the Kingston Orpheus Choir and the Kingston Choral Society, an amateur symphony orchestra the Kingston Philharmonia, and the Kingston and District Chamber Music Society. A number of annual festivals are organised by the Council and Kingston Arts Council including Kingston Readers' Festival, Think-in-Kingston and the Festival of the Voice. Kingston University runs the Stanley Picker Gallery and Kingston Museum has a changing gallery on the first floor. A regular singing group at the Rose Theatre caters to schools and families.[16]
 
-Muybridge-2.jpg (photographer) was born in the town in 1830]] John Galsworthy the author was born on Kingston Hill and Jacqueline Wilson grew up, and went to school in Kingston and still lives there today. Both are commemorated at Kingston University – Galsworthy in the newest building and Wilson in the main hall. Also commemorated at the University is photographer Eadweard Muybridge who was born at Kingston and changed the spelling of his first name in reference to the name of the Saxon king on the Coronation Stone. He was a pioneer in the photography of the moving image. R. C. Sherriff the playwright is also associated with Kingston, writing his first play to support Kingston Rowing Club.[17] An earlier writer born in Kingston was John Cleland.[18]
+(photographer) was born in the town in 1830]] John Galsworthy the author was born on Kingston Hill and Jacqueline Wilson grew up, and went to school in Kingston and still lives there today. Both are commemorated at Kingston University – Galsworthy in the newest building and Wilson in the main hall. Also commemorated at the University is photographer Eadweard Muybridge who was born at Kingston and changed the spelling of his first name in reference to the name of the Saxon king on the Coronation Stone. He was a pioneer in the photography of the moving image. R. C. Sherriff the playwright is also associated with Kingston, writing his first play to support Kingston Rowing Club.[17] An earlier writer born in Kingston was John Cleland.[18]
 
 Kingston has been covered in literature, film and television. It is where the comic Victorian novel _Three Men in a Boat_ by Jerome K. Jerome begins; cannons aimed against the Martians in H. G. Wells' _The War of the Worlds_ are positioned on Kingston Hill; in _The Rainbow_ by D. H. Lawrence the youngest Brangwen dreams of a job in Kingston upon Thames in a long, lyrical passage; Mr. Knightly in _Emma_ by Jane Austen regularly visits Kingston, although the narrative never follows him there.
 
@@ -84,12 +84,12 @@ Kingston Green Fair was held annually from 1987 to 2008 in Canbury Gardens, next
 
 Landmarks
 
-'Out_Of_Order'_by_David_Mach_-_geograph.org.uk_-_1102588.jpg One of the more unusual sights in Kingston is _Out of Order_ by David Mach, a sculpture in the form of twelve disused red telephone boxes that have been tipped up to lean against one another in an arrangement resembling dominoes. The work was commissioned in 1988 as part of the landscaping for the new Relief Road, and was described by its creator as "anti-minimalist".[24]
+One of the more unusual sights in Kingston is _Out of Order_ by David Mach, a sculpture in the form of twelve disused red telephone boxes that have been tipped up to lean against one another in an arrangement resembling dominoes. The work was commissioned in 1988 as part of the landscaping for the new Relief Road, and was described by its creator as "anti-minimalist".[24]
 
 
 Transport
 
-Kingston_railway_station_-_geograph.org.uk_-_8667.jpg The town is served by two South Western Railway routes advertised from London as to and to , though the second route is a complete loop. Three railway stations serve the town on this line from London Waterloo station: Kingston, and . Norbiton is east of the town centre near Kingston Hospital, and Hampton Wick is to the west across Kingston Bridge. , Wimbledon and Richmond upon Thames are on the lines. A primary stop exists on the nearby main (express) line in nearby which has a peak hour non-stopping service to Waterloo. The town led to the South Western Main Line being in Surbiton as much of Kingston's wealth and status were as a direct consequence of the road and stagecoach network developed as a result of its crossing on the Thames. Local landowners would not consent to the line coming through their land so in 1838 the rail station was built a few miles out at Surbiton, which was known as _Kingston Upon Railway_ and led to the development of Surbiton. Kingston recognised the need for a railway, and in the 1860s Kingston opened. However, due to the eastern landowners' resistance, the line had to take a longer route via Richmond upon Thames. Only later did the line receive all the relevant permissions for a closer link, connecting to London Waterloo via .
+The town is served by two South Western Railway routes advertised from London as to and to , though the second route is a complete loop. Three railway stations serve the town on this line from London Waterloo station: Kingston, and . Norbiton is east of the town centre near Kingston Hospital, and Hampton Wick is to the west across Kingston Bridge. , Wimbledon and Richmond upon Thames are on the lines. A primary stop exists on the nearby main (express) line in nearby which has a peak hour non-stopping service to Waterloo. The town led to the South Western Main Line being in Surbiton as much of Kingston's wealth and status were as a direct consequence of the road and stagecoach network developed as a result of its crossing on the Thames. Local landowners would not consent to the line coming through their land so in 1838 the rail station was built a few miles out at Surbiton, which was known as _Kingston Upon Railway_ and led to the development of Surbiton. Kingston recognised the need for a railway, and in the 1860s Kingston opened. However, due to the eastern landowners' resistance, the line had to take a longer route via Richmond upon Thames. Only later did the line receive all the relevant permissions for a closer link, connecting to London Waterloo via .
 
 The A3 road runs from central London towards Kingston before by-passing the town to the east. The "Kingston bypass road" was one of the first arterial roads to be built in Britain. It was originally proposed in 1912 to relieve the pressure of traffic in the town centre, but World War I delayed the start of work until 1924. It was opened by Prime Minister Stanley Baldwin on 28 October 1927. Kingston is also served by the A240, the A307 (Portsmouth Road), A308 and A310.
 
@@ -102,7 +102,7 @@ Riverboats run regularly between Kingston and Hampton Court as well as Richmond 
 
 Education
 
-Universität_Kingston.jpg main building, Penrhyn Road campus]] Tiffin_School.jpg Kingston is the location of Kingston University and Kingston College. Primary schools in the town include Latchmere School, Fernhill School, King Athelstan School and St Agatha's Catholic Primary School. Kingston also is home to Tiffin School, The Tiffin Girls' School and Kingston Grammar School, all of which have large catchment areas across Greater London and Surrey.
+main building, Penrhyn Road campus]] Kingston is the location of Kingston University and Kingston College. Primary schools in the town include Latchmere School, Fernhill School, King Athelstan School and St Agatha's Catholic Primary School. Kingston also is home to Tiffin School, The Tiffin Girls' School and Kingston Grammar School, all of which have large catchment areas across Greater London and Surrey.
 
 
 Religious sites
@@ -129,7 +129,7 @@ Kingston Wildcats SCHOOL OF BASKETBALL is a community basketball development clu
 
 London 2012 Summer Olympics
 
-Bradley_Wiggins_2012_Olympic_time_trial.jpg The borough was the setting for four cycling events during the 2012 Summer Olympics, the men's road race, women's road race, men's road time trial and women's road time trial. Prior to the opening of the games, Kingston hosted the 2012 Summer Olympics torch relay on two occasions with the flame travelling through the borough on 24 July 2012 and aboard the Gloriana in a cauldron on 27 July 2012 en route to the Olympic Stadium for the opening ceremony.
+The borough was the setting for four cycling events during the 2012 Summer Olympics, the men's road race, women's road race, men's road time trial and women's road time trial. Prior to the opening of the games, Kingston hosted the 2012 Summer Olympics torch relay on two occasions with the flame travelling through the borough on 24 July 2012 and aboard the Gloriana in a cauldron on 27 July 2012 en route to the Olympic Stadium for the opening ceremony.
 
 
 Nearest places

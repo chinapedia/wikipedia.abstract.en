@@ -1,4 +1,4 @@
-The_river_effect_in_justified_text.jpg Kleene.jpg, who helped invent the concept]] Screenshot_of_MediaWiki_Blacklist.png on Wikipedia which uses regular expressions to identify bad titles]] A REGULAR EXPRESSION, REGEX or REGEXP[1] (sometimes called a RATIONAL EXPRESSION)[2][3] is a sequence of characters that define a _search pattern_. Usually such patterns are used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
+, who helped invent the concept]] on Wikipedia which uses regular expressions to identify bad titles]] A REGULAR EXPRESSION, REGEX or REGEXP[1] (sometimes called a RATIONAL EXPRESSION)[2][3] is a sequence of characters that define a _search pattern_. Usually such patterns are used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
 The concept arose in the 1950s when the American mathematician Stephen Cole Kleene formalized the description of a _regular language_. The concept came into common use with Unix text-processing utilities. Since the 1980s , different syntaxes for writing regular expressions exist, one being the POSIX standard and another, widely used, being the Perl syntax.
 
@@ -21,7 +21,7 @@ matches excess whitespace at the beginning or end of a line. An advanced regular
 
 .
 
-Thompson-kleene-star.svg the Kleene star
+the Kleene star
 (_s_* means 'zero or more of _s_ ')]] A REGEX PROCESSOR translates a regular expression in the above syntax into an internal representation which can be executed and matched against a string representing the text being searched in. One possible approach is the Thompson's construction algorithm to construct a nondeterministic finite automaton (NFA), which is then made deterministic and the resulting deterministic finite automaton (DFA) is run on the target text string to recognize substrings that match the regular expression. The picture shows the NFA scheme _N_(_s_*) obtained from the regular expression _s_*, where _s_ denotes a simpler regular expression in turn, which has already been recursively translated to the NFA _N_(_s_).
 
 

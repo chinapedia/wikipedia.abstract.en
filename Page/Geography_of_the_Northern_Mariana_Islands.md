@@ -1,4 +1,4 @@
-Northern_Mariana_Islands_map.gif Asuncion_Island_Aerial.jpg.]] This article is about the GEOGRAPHY of the NORTHERN MARIANA ISLANDS.
+.]] This article is about the GEOGRAPHY of the NORTHERN MARIANA ISLANDS.
 
 The Northern Mariana Islands, together with Guam to the south, compose the Mariana Islands. The southern islands are limestone, with level terraces and fringing coral reefs. The northern islands are volcanic, with active volcanoes on Anatahan, Pagan and Agrihan. The volcano on Agrihan has the highest elevation at . About one-fifth of the land is arable; another tenth is pasture. The primary natural resource is fish, some of which are endangered species, which leads to conflict. Also, development has created landfills which have contaminated the groundwater on Saipan, which could lead to disease.
 

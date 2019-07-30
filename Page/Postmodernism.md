@@ -24,7 +24,7 @@ The term _postmodern_ was first used around the 1870s.[34] John Watkins Chapman 
 
 In 1942 H. R. Hays described postmodernism as a new literary form.
 
-In 1926, Bernard Iddings Bell, president of St. Stephen's College (now Bard College), published _Postmodernism and Other Essays_, marking the first use of the term to describe the historical period following Modernity.[37][38] In it, he criticizes the lingering socio-cultural norms, attitudes and practices of the Age of Enlightenment; forecasts the major cultural shifts toward Postmodernity, and (being an Anglo-Catholic priest) offers orthodox religion as a solution.[39] However, as a general theory for a historical movement, it was first used in 1939 by Arnold J. Toynbee: "Our own Post-Modern Age has been inaugurated by the general war of 1914–1918".[40] Portland_Building_1982.jpg (1982), by architect Michael Graves, an example of Postmodern architecture]] In 1949 the term was used to describe a dissatisfaction with modern architecture, and led to the postmodern architecture movement,[41] and a response to the modernist architectural movement known as the International Style. Postmodernism in architecture was initially marked by a re-emergence of surface ornament, reference to surrounding buildings in urban settings, historical reference in decorative forms (eclecticism), and non-orthogonal angles.[42]
+In 1926, Bernard Iddings Bell, president of St. Stephen's College (now Bard College), published _Postmodernism and Other Essays_, marking the first use of the term to describe the historical period following Modernity.[37][38] In it, he criticizes the lingering socio-cultural norms, attitudes and practices of the Age of Enlightenment; forecasts the major cultural shifts toward Postmodernity, and (being an Anglo-Catholic priest) offers orthodox religion as a solution.[39] However, as a general theory for a historical movement, it was first used in 1939 by Arnold J. Toynbee: "Our own Post-Modern Age has been inaugurated by the general war of 1914–1918".[40] (1982), by architect Michael Graves, an example of Postmodern architecture]] In 1949 the term was used to describe a dissatisfaction with modern architecture, and led to the postmodern architecture movement,[41] and a response to the modernist architectural movement known as the International Style. Postmodernism in architecture was initially marked by a re-emergence of surface ornament, reference to surrounding buildings in urban settings, historical reference in decorative forms (eclecticism), and non-orthogonal angles.[42]
 
 Peter Drucker suggested the transformation into a post-modern world happened between 1937 and 1957 (when he was writing). He described an as yet "nameless era" which he characterized as a shift to conceptual world based on pattern, purpose, and process rather than mechanical cause, outlined by four new realities: the emergence of Educated Society, the importance of international development, the decline of the nation state, and the collapse of the viability of non-Western cultures.[43]
 
@@ -112,7 +112,7 @@ Manifestations
 
 Architecture
 
-Staatsgalerie1.jpg (1977-84), Stuttgart, Germany, by James Stirling and Michael Wilford, showing the eclectic mix of classical architecture and colourful ironic detailing.]]
+(1977-84), Stuttgart, Germany, by James Stirling and Michael Wilford, showing the eclectic mix of classical architecture and colourful ironic detailing.]]
 
 The idea of Postmodernism in architecture began as a response to the perceived blandness and failed Utopianism of the Modern movement.[82] Modern Architecture, as established and developed by Walter Gropius and Le Corbusier, was focused on the pursuit of a perceived ideal perfection, and attempted harmony of form and function,[83] and dismissal of "frivolous ornament,"[84][85] as well as arguing for an architecture that represented the spirit of the age as depicted in cutting-edge technology, be it airplanes, cars, ocean liners or even supposedly artless grain silos.[86] Critics of modernism argued that the attributes of perfection and minimalism themselves were subjective, and pointed out anachronisms in modern thought and questioned the benefits of its philosophy.[87] Modernist Ludwig Mies van der Rohe is associated with the phrase "less is more".
 
@@ -124,11 +124,11 @@ Postmodern art is a body of art movements that sought to contradict some aspects
 
 Graphic design
 
-AprilGreiman.jpg]] Early mention of postmodernism as an element of graphic design appeared in the British magazine, "Design".[93] A characteristic of postmodern graphic design is that "retro, techno, punk, grunge, beach, parody, and pastiche were all conspicuous trends. Each had its own sites and venues, detractors and advocates".[94]
+]] Early mention of postmodernism as an element of graphic design appeared in the British magazine, "Design".[93] A characteristic of postmodern graphic design is that "retro, techno, punk, grunge, beach, parody, and pastiche were all conspicuous trends. Each had its own sites and venues, detractors and advocates".[94]
 
 Literature
 
-Orhan_Pamuk_Shankbone_2009_NYC.jpg, winner of the 2006 Nobel Prize in Literature]]
+, winner of the 2006 Nobel Prize in Literature]]
 
 Jorge Luis Borges' (1939) short story _Pierre Menard, Author of the Quixote_, is often considered as predicting postmodernism[95] and conceiving the ideal of the ultimate parody.[96] Samuel Beckett is sometimes seen as an important precursor and influence. Novelists who are commonly connected with postmodern literature include Vladimir Nabokov, William Gaddis, Umberto Eco, Pier Vittorio Tondelli, John Hawkes, William S. Burroughs, Giannina Braschi, Kurt Vonnegut, John Barth, Jean Rhys, Donald Barthelme, E. L. Doctorow, Richard Kalich, Jerzy Kosiński, Don DeLillo, Thomas Pynchon[97] (Pynchon's work has also been described as "high modern"[98]), Ishmael Reed, Kathy Acker, Ana Lydia Vega, Jáchym Topol and Paul Auster.
 
@@ -136,7 +136,7 @@ In 1971, the Arab-American scholar Ihab Hassan published _The Dismemberment of O
 
 Music
 
-Henryk_Mikołaj_Górecki_Polish_composer.jpg]]
+]]
 
 Jonathan Kramer has written that avant-garde musical compositions (which some would consider modernist rather than postmodernist) “defy more than seduce the listener, and they extend by potentially unsettling means the very idea of what music is.”[101] The postmodern impulse in classical music arose in the 1960s with the advent of musical minimalism. Composers such as Terry Riley, Henryk Górecki, Bradley Joseph, John Adams, Steve Reich, Philip Glass, Michael Nyman, and Lou Harrison reacted to the perceived elitism and dissonant sound of atonal academic modernism by producing music with simple textures and relatively consonant harmonies, whilst others, most notably John Cage challenged the prevailing narratives of beauty and objectivity common to Modernism.
 

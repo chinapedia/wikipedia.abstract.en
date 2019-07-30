@@ -1,5 +1,3 @@
-Mvt2.svg
-
 In mathematics, the MEAN VALUE THEOREM states, roughly, that for a given planar arc between two endpoints, there is at least one point at which the tangent to the arc is parallel to the secant through its endpoints.
 
 This theorem is used to prove statements about a function on an interval starting from local hypotheses about derivatives at points of the interval.
@@ -18,7 +16,7 @@ A special case of this theorem was first described by Parameshvara (1370–1460)
 
 Formal statement
 
-Mittelwertsatz3.svg Mittelwertsatz6.svg Let $f:[a,b]\to\R$ be a continuous function on the closed interval [a, b] , and differentiable on the open interval (a, b), where a < b . Then there exists some c in (a, b) such that
+Let $f:[a,b]\to\R$ be a continuous function on the closed interval [a, b] , and differentiable on the open interval (a, b), where a < b . Then there exists some c in (a, b) such that
 
 $$f'(c)=\frac{f(b)-f(a)}{b-a}.$$
 
@@ -69,7 +67,7 @@ REMARKS:
 
 Cauchy's mean value theorem
 
-CAUCHY'S MEAN VALUE THEOREM, also known as the EXTENDED MEAN VALUE THEOREM,[5] is a generalization of the mean value theorem. It states: If functions _f_ and _g_ are both continuous on the closed interval [_a_, _b_], and differentiable on the open interval (_a_, _b_), then there exists some _c_ ∈ (_a_, _b_), such that[6] Cauchy.svg
+CAUCHY'S MEAN VALUE THEOREM, also known as the EXTENDED MEAN VALUE THEOREM,[5] is a generalization of the mean value theorem. It states: If functions _f_ and _g_ are both continuous on the closed interval [_a_, _b_], and differentiable on the open interval (_a_, _b_), then there exists some _c_ ∈ (_a_, _b_), such that[6]
 
 (_f_(_b_) − _f_(_a_))_g_′(_c_) = (_g_(_b_) − _g_(_a_))_f_′(_c_).
 
@@ -236,7 +234,7 @@ Mean value theorems for definite integrals
 
 First mean value theorem for definite integrals
 
-积分中值定理.jpg Let _f_ : [_a_, _b_] → R be a continuous function. Then there exists _c_ in (_a_, _b_) such that
+Let _f_ : [_a_, _b_] → R be a continuous function. Then there exists _c_ in (_a_, _b_) such that
 
 ∫_(_a_)^(_b_)_f_(_x_) _d__x_ = _f_(_c_)(_b_ − _a_).
 

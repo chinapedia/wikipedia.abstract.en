@@ -41,7 +41,7 @@ Sakamoto's long-awaited "opera" _LIFE_ was released in 1999, with visual directi
 
 2000s
 
-Keigo_Oyamada_and_Ryuichi_Sakamoto.jpg with Sakamoto in 2007.]]
+with Sakamoto in 2007.]]
 
 Sakamoto teamed with cellist Jaques Morelenbaum (a member of his _1996_ trio), and Morelenbaum's wife, Paula, on a pair of albums celebrating the work of bossa nova pioneer Antonio Carlos Jobim. They recorded their first album, _Casa_ (2001), mostly in Jobim's home studio in Rio de Janeiro, with Sakamoto performing on the late Jobim's grand piano. The album was well received, having been included in the list of _The New York Times_{{'}}s top albums of 2002. A live album, _Live in Tokyo_, and a second album, _A Day in New York_, soon followed. Sakamoto and the Morelenbaums would also collaborate on N.M.L. No More Landmine, an international effort to raise awareness for the removal of landmines. The trio would release the single "Zero Landmine", which also featured David Sylvian, Brian Eno, Kraftwerk, Cyndi Lauper, and Haruomi Hosono & Yukihiro Takahashi, the other two founding members of Yellow Magic Orchestra, amongst nearly one hundred other performers.
 
@@ -50,8 +50,6 @@ Sakamoto collaborated with Alva Noto (an alias of Carsten Nicolai) to release _V
 In 2005, Finnish mobile phone manufacturer Nokia hired Sakamoto to compose ring and alert tones for their high-end phone, the Nokia 8800. In 2006, Nokia offered the ringtones for free on their website.[48] Around this time, a reunion with YMO cofounders Hosono and Takahashi caused a stir in the Japanese press. They released a single "Rescue" in 2007 and a DVD "HAS/YMO" in 2008. In July 2009, Sakamoto was honored as Officier of Ordre des Arts et des Lettres at the French embassy in Tokyo.
 
 2010s–present
-
-Ryuichi_Sakamoto,_Photographed_by_Ryota_Nakanishi.JPG
 
 Throughout the latter part of the 2000s, Sakamoto collaborated on several projects with visual artist Shiro Takatani, including the installations _LIFE - fluid, invisible, inaudible..._ (2007–2013), commissioned by YCAM, Yamaguchi, _collapsed_ and _silence spins_ at the Museum of Contemporary Art Tokyo in 2012 and 2013 Sharjah Biennial (U.A.E.), _LIFE-WELL_ in 2013 and a special version for Park Hyatt Tokyo's 20th anniversary in 2014, and he did music for the joint performance _LIFE-WELL_ featuring the actor Noh/Kyogen Mansai Nomura, and for Shiro Takatani's performance _ST/LL_ in 2015.[49]
 

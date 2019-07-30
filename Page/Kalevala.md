@@ -9,8 +9,6 @@ Collection and compilation
 
 Elias Lönnrot
 
-Elias_Lönrot_Cabinet_Portrait.jpg
-
 Elias Lönnrot (9 April 1802 – 19 March 1884) was a physician, botanist, linguist, and poet. During the time he was compiling the _Kalevala_ he was the district health officer based in Kajaani responsible for the whole Kainuu region in the eastern part of what was then the Grand Duchy of Finland. He was the son of Fredrik Johan Lönnrot, a tailor and Ulrika Lönnrot; he was born in the village of Sammatti, Uusimaa.
 
 At the age of 21, he entered the Imperial Academy of Turku and obtained a master's degree in 1826. His thesis was entitled _De Vainamoine priscorum fennorum numine_ (_Väinämöinen, a Divinity of the Ancient Finns_). The monograph's second volume was destroyed in the Great Fire of Turku the same year.[5][6]
@@ -23,7 +21,7 @@ Lönnrot's field trips and endeavours not only helped him to compile the _Kaleva
 
 Poetry
 
-Helsinki-Folk-singer-statue-1750.JPG by Robert Stigell (1888) decorates the _Vanha Ylioppilastalo_ (Old Student House) built in 1870 in Helsinki, Finland.]]
+by Robert Stigell (1888) decorates the _Vanha Ylioppilastalo_ (Old Student House) built in 1870 in Helsinki, Finland.]]
 
 History
 
@@ -39,8 +37,6 @@ It is understood that during the Finnish reformation in the 16th century the cle
 
 Lönnrot's field trips
 
-Lonnrot4.jpg
-
 In total, Lönnrot made eleven field trips in search of poetry. His first trip was made in 1828 after his graduation from Turku University, but it was not until 1831 and his second field trip that the real work began. By that time he had already published three articles entitled _Kantele_ and had significant notes to build upon. This second trip was not very successful and he was called back to Helsinki to attend to victims of the Second cholera pandemic.[21]
 
 The third field trip was much more successful and led Elias Lönnrot to Viena in east Karelia where he visited the town of Akonlahti, which proved most successful. This trip yielded over 3,000 verses and copious notes.[22] In 1833, Lönnrot moved to Kajaani where he was to spend the next 20 years as the district health officer for the region. His fourth field trip was undertaken in conjunction with his work as a doctor; a 10-day jaunt into Viena. This trip resulted in 49 poems and almost 3,000 new lines of verse. It was during this trip that Lönnrot formulated the idea that the poems might represent a wider continuity when poem entities were performed to him along with comments in normal speech connecting them.[23][24]
@@ -51,15 +47,13 @@ In autumn of 1834, Lönnrot had written the vast majority of the work needed for
 
 With the _Old Kalevala_ now well into its first publication run, Lönnrot decided to continue collecting poems to supplement his existing work and to understand the culture more completely. The seventh field trip took him on a long winding path through the southern and eastern parts of the Viena poem singing region. He was delayed significantly in Kuhmo because of bad skiing conditions. By the end of that trip, Lönnrot had collected another 100 poems consisting of over 4,000 verses.[27] Lönnrot made his eighth field trip to the Russian border town of Lapukka where the great singer Arhippa Perttunen had learned his trade. In correspondence he notes that he has written down many new poems but is unclear on the quantity.[28]
 
-Elias_Lönnrot_field_trips-notable_karelia_locations-1.png
-
 Elias Lönnrot departed on the first part of his ninth field trip on 16 September 1836. He was granted a 14-month leave of absence and a sum of travelling expenses from the Finnish Literary Society. His funds came with some stipulations: he must travel around the Kainuu border regions and then on to the north and finally from Kainuu to the south-east along the border. For the expedition into the north he was accompanied by Juhana Fredrik Cajan. The first part of the trip took Lönnrot all the way to Inari in northern Lapland.[29] The second, southern part of the journey was more successful than the northern part, taking Lönnrot to the Russian town of Sortavala on Lake Ladoga then back up through Savo and eventually back to Kajaani. Although these trips were long and arduous, they resulted in very little Kalevala material; only 1,000 verses were recovered from the southern half and an unknown quantity from the northern half.[30]
 
 The tenth field trip is a relative unknown. What is known however, is that Lönnrot intended to gather poems and songs to compile into the upcoming work _Kanteletar_. He was accompanied by his friend C. H. Ståhlberg for the majority of the trip. During that journey the pair met Mateli Kuivalatar in the small border town of Ilomantsi. Kuivalatar was very important to the development of the _Kanteletar_.[31] The eleventh documented field trip was another undertaken in conjunction with his medical work. During the first part of the trip, Lönnrot returned to Akonlahti in Russian Karelia, where he gathered 80 poems and a total of 800 verses. The rest of the trip suffers from poor documentation.[32]
 
 Methodology
 
-Inha_runonlaulajat.jpg poem singing brothers Poavila and Triihvo Jamanen reciting traditional Finnish folk poetry, Uhtua, 1894.]]
+poem singing brothers Poavila and Triihvo Jamanen reciting traditional Finnish folk poetry, Uhtua, 1894.]]
 
 Lönnrot and his contemporaries (e.g. Matthias Castrén, Anders Johan Sjögren[33] and David Emmanuel Daniel Europaeus[34][35]) collected most of the poem variants (one poem could easily have countless variants) scattered across rural areas of Karelia and Ingria. Lönnrot was not really interested in, and rarely wrote down the name of the singer except for some of the more prolific cases. His primary purpose in the region was that of a physician and of an editor, not of a biographer or counsellor. He rarely knew anything in-depth about the singer himself and primarily only catalogued verse that could be relevant or of some use in his work.[36]
 
@@ -165,7 +159,7 @@ The name _Kalevala_ rarely appears in the original folk poetry of the time; it w
 
 Translations
 
-Kalevala_Hindi.jpg version of _Kalevala_, translated by Vishnu Khare, at the Helsinki Book Fair ]] Of the five complete translations into English, it is only the older translations by John Martin Crawford (1888) and William Forsell Kirby (1907) which attempt to strictly follow the original (Kalevala metre) of the poems.[61][62] Eino Friberg's 1988 translation uses it selectively but in general is more attuned to pleasing the ear than being an exact metrical translation; it also often reduces the length of songs for aesthetic reasons.[63]
+version of _Kalevala_, translated by Vishnu Khare, at the Helsinki Book Fair ]] Of the five complete translations into English, it is only the older translations by John Martin Crawford (1888) and William Forsell Kirby (1907) which attempt to strictly follow the original (Kalevala metre) of the poems.[61][62] Eino Friberg's 1988 translation uses it selectively but in general is more attuned to pleasing the ear than being an exact metrical translation; it also often reduces the length of songs for aesthetic reasons.[63]
 
 A notable partial translation of Franz Anton Schiefner's German translation was made by Prof. John Addison Porter in 1868 and published by Leypoldt & Holt.[64]
 
@@ -190,7 +184,7 @@ There are also similarities with mythology and folklore from other cultures, for
 
 Synopses
 
-Gallen_Kallela_The_Aino_Triptych.jpg by Akseli Gallen-Kallela 1891. Left: The first meeting of Aino and Väinämöinen. Right: Aino laments her woes and decides to end her life rather than marry an old man. Middle: The end of the story arc – Väinämöinen catches the Aino fish but is unable to keep hold of her.]]
+by Akseli Gallen-Kallela 1891. Left: The first meeting of Aino and Väinämöinen. Right: Aino laments her woes and decides to end her life rather than marry an old man. Middle: The end of the story arc – Väinämöinen catches the Aino fish but is unable to keep hold of her.]]
 
 The first Väinämöinen cycle
 
@@ -204,7 +198,7 @@ The first Lemminkäinen cycle
 
 SONGS 11 TO 15: Lemminkäinen sets out to Saari (_English: The Island_) in search of a bride. He and the maid Kyllikki make vows to each other but thinking Lemminkäinen has repudiated his, the maiden repudiates hers so Lemminkäinen discards her and sets off to woo the Maiden of the North. His mother tries to stop him and be the voice of reason, but Lemminkäinen disregards her warnings, claiming that when he's in danger, his hairbrush starts to bleed. After a long journey to the North, he asks Louhi for her daughter's hand and she assigns tasks to him. While hunting for the Tuonelan joutsen (_Swan of Death_) Lemminkäinen is shot by the Pohjolan paimen (_The Shepherd of the North_) who is annoyed by his bad behavior and disrespect, and falls into the river of death. As he lies dead in the river, his mother at home notices blood flowing from Lemminkäinen's hairbrush. Remembering her son's words, she goes in search of him. With a rake given to her by Ilmarinen, she collects the pieces of Lemminkäinen scattered in the river and pieces him back together, a bee bringing her the ingredients necessary to revive him.
 
-Gallen_Kallela_Lemminkainens_Mother.jpg 1897 – Lemminkäinen's mother on the banks of the river of Tuonela reviving her son]]
+1897 – Lemminkäinen's mother on the banks of the river of Tuonela reviving her son]]
 
 The second Väinämöinen cycle
 
@@ -218,7 +212,7 @@ The second Lemminkäinen cycle
 
 SONGS 26 TO 30: Lemminkäinen is resentful for not having been invited to the wedding and sets out immediately for Pohjola. On his arrival he is challenged to and wins a duel with Sariola, the Master of the North. An army is conjured to enact revenge upon Lemminkäinen and he flees to his mother. She advises him to head to the Island of Refuge. On his return he finds his house burned to the ground. He goes to Pohjola with his companion Tiera to get his revenge, but Louhi freezes the seas and Lemminkäinen has to return home. When he arrives home he is reunited with his mother and vows to build larger better houses to replace the ones burned down.
 
-Kullervon_sotaanlähtö.jpg, 1901 – Kullervo goes to war against Untamo and his people.]]
+, 1901 – Kullervo goes to war against Untamo and his people.]]
 
 The Kullervo cycle
 
@@ -243,8 +237,6 @@ SONG 50: The shy young virgin Marjatta becomes impregnated from a lingonberry sh
 The poem ends and the singers sing a farewell and thank their audience.
 
 Characters
-
-Crawfordkalevalahero1.jpg
 
 Väinämöinen
 
@@ -313,7 +305,7 @@ Several of the names in _The Kalevala_ are also celebrated as Finnish name days.
 
 Art
 
-Akseli_Gallen-Kallela_-_Kullervo_Cursing_-_Google_Art_Project.jpg has been a source of inspiration for several artists.]] Several artists have been influenced by the _Kalevala_, most notably Akseli Gallen-Kallela who has painted many pieces relating to the _Kalevala_.[83]
+has been a source of inspiration for several artists.]] Several artists have been influenced by the _Kalevala_, most notably Akseli Gallen-Kallela who has painted many pieces relating to the _Kalevala_.[83]
 
 Iittala group's Arabia brand kilned a series of _Kalevala_ commemorative plates, designed by the late Raija Uosikkinen (1923–2004). The series ran from 1976 to 1999 and are highly sought after collectables.[84][85]
 
@@ -361,7 +353,7 @@ The historical work _The White Death: The Epic of the Soviet-Finish Winter War_ 
 
 Music
 
-Sibelius_with_notes.jpg in the 1950s. Sibelius is Finland's most famous composer. Many of his works took influence from the _Kalevala_.]]
+in the 1950s. Sibelius is Finland's most famous composer. Many of his works took influence from the _Kalevala_.]]
 
 Music is the area which has the richest influence from the _Kalevala_, which is apt considering the way that the folk poetry and songs were originally performed.[107]
 

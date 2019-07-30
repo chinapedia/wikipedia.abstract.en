@@ -24,8 +24,6 @@ In 1998, he ran for the post of Director-General of the World Trade Organisation
 
 Political positions held
 
-Mike_Moore,_1992.jpg
-
 -   Opposition Spokesman for Foreign Affairs, 1993–1999
 -   Leader of the New Zealand Labour Party, 1990–1993
 -   Prime Minister of New Zealand, 1990
@@ -79,7 +77,7 @@ International services and appointments
 
 Author
 
-Vladimir_Putin_30_March_2001-1.jpg in 2001.]] Moore is an author of a number of books, on subjects ranging from politics to the Pacific. His most recent book on globalisation, 'A World Without Walls', has also been published in Chinese and Turkish. He has a regular newspaper column that appears in five countries.[19][20]
+in 2001.]] Moore is an author of a number of books, on subjects ranging from politics to the Pacific. His most recent book on globalisation, 'A World Without Walls', has also been published in Chinese and Turkish. He has a regular newspaper column that appears in five countries.[19][20]
 
 Publications
 

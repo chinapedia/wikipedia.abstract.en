@@ -1,11 +1,9 @@
-V-2_lift-off.jpg launch by the British during Operation Backfire ]] HNLMS_De_Zeven_Provincien_fires_Harpoon_missile.jpg firing a Harpoon ]]
+launch by the British during Operation Backfire ]] firing a Harpoon ]]
 
 In military language, a MISSILE, also known as a guided missile, is a guided self-propelled flying weapon usually propelled by a jet engine or rocket motor. This is in contrast to an unguided self-propelled flying munition, referred to as a rocket (although these too can also be guided). Missiles have four system components: targeting or missile guidance, flight system, engine, and warhead. Missiles come in types adapted for different purposes: surface-to-surface and air-to-surface missiles (ballistic, cruise, anti-ship, anti-tank, etc.), surface-to-air missiles (and anti-ballistic), air-to-air missiles, and anti-satellite weapons. Non-self-propelled airborne explosive devices are generally referred to as shells and usually have a shorter range than missiles. In ordinary language the word means an object which can be thrown, shot, or propelled toward a target.
 
 
 Early development
-
-Bundesarchiv_Bild_146-1975-117-26,_Marschflugkörper_V1_vor_Start.jpg
 
 The first missiles to be used operationally were a series of missiles developed by Nazi Germany in World War II. Most famous of these are the V-1 flying bomb and V-2 rocket, both of which used a simple mechanical autopilot to keep the missile flying along a pre-chosen route. Less well known were a series of anti-shipping and anti-aircraft missiles, typically based on a simple radio control (command guidance) system directed by the operator. However, these early systems in World War II were only built in small numbers.
 
@@ -22,7 +20,7 @@ Guided missiles have a number of different system components:
 
 Guidance systems
 
-Missile_Maintainer_inspects_missile_guidance_system_of_the_LGM-30G_Minuteman_ICBM.jpg ICBM]] The most common method of guidance is to use some form of radiation, such as infrared, lasers or radio waves, to guide the missile onto its target. This radiation may emanate from the target (such as the heat of an engine or the radio waves from an enemy radar), it may be provided by the missile itself (such as a radar), or it may be provided by a friendly third party (such as the radar of the launch vehicle/platform, or a laser designator operated by friendly infantry). The first two are often known as fire-and-forget as they need no further support or control from the launch vehicle/platform in order to function. Another method is to use a TV guidance, with a visible light or infrared picture produced in order to see the target. The picture may be used either by a human operator who steering the missile onto its target or by a computer doing much the same job. One of the more bizarre guidance methods instead used a pigeon to steer a missile to its target. Some missiles also have a home-on-jam capability to guide itself to a radar-emitting source. Many missiles use a combination of two or more of the methods to improve accuracy and the chances of a successful engagement.
+ICBM]] The most common method of guidance is to use some form of radiation, such as infrared, lasers or radio waves, to guide the missile onto its target. This radiation may emanate from the target (such as the heat of an engine or the radio waves from an enemy radar), it may be provided by the missile itself (such as a radar), or it may be provided by a friendly third party (such as the radar of the launch vehicle/platform, or a laser designator operated by friendly infantry). The first two are often known as fire-and-forget as they need no further support or control from the launch vehicle/platform in order to function. Another method is to use a TV guidance, with a visible light or infrared picture produced in order to see the target. The picture may be used either by a human operator who steering the missile onto its target or by a computer doing much the same job. One of the more bizarre guidance methods instead used a pigeon to steer a missile to its target. Some missiles also have a home-on-jam capability to guide itself to a radar-emitting source. Many missiles use a combination of two or more of the methods to improve accuracy and the chances of a successful engagement.
 
 Targeting systems
 
@@ -34,12 +32,7 @@ Whether a guided missile uses a targeting system, a guidance system or both, it 
 
 Engine
 
-A simplified diagram of a solid-fuel rocket.
-1. A solid fuel-oxidizer mixture (propellant) is packed into the rocket, with a cylindrical hole in the middle.
-2. An igniter combusts the surface of the propellant.
-3. The cylindrical hole in the propellant acts as a combustion chamber.
-4. The hot exhaust is choked at the throat, which, among other things, dictates the amount of thrust produced.
-5. Exhaust exits the rocket. Missiles are powered by an engine, generally either a type of rocket engine or jet engine. Rockets are generally of the solid propellant type for ease of maintenance and fast deployment, although some larger ballistic missiles use liquid-propellant rockets. Jet engines are generally used in cruise missiles, most commonly of the turbojet type, due to its relative simplicity and low frontal area. Turbofans and ramjets are the only other common forms of jet engine propulsion, although any type of engine could theoretically be used. Long-range missiles may have multiple engine stages, particularly in those launched from the surface. These stages may all be of similar types or may include a mix of engine types − for example, surface-launched cruise missiles often have a rocket booster for launching and a jet engine for sustained flight.
+Missiles are powered by an engine, generally either a type of rocket engine or jet engine. Rockets are generally of the solid propellant type for ease of maintenance and fast deployment, although some larger ballistic missiles use liquid-propellant rockets. Jet engines are generally used in cruise missiles, most commonly of the turbojet type, due to its relative simplicity and low frontal area. Turbofans and ramjets are the only other common forms of jet engine propulsion, although any type of engine could theoretically be used. Long-range missiles may have multiple engine stages, particularly in those launched from the surface. These stages may all be of similar types or may include a mix of engine types − for example, surface-launched cruise missiles often have a rocket booster for launching and a jet engine for sustained flight.
 
 Some missiles may have additional propulsion from another source at launch; for example, the V1 was launched by a catapult, and the MGM-51 Shillelagh was fired out of a tank gun (using a smaller charge than would be used for a shell).
 
@@ -54,7 +47,7 @@ Missiles are generally categorized by their launch platform and intended target.
 
 Ballistic
 
-Dnepr_rocket_lift-off_1.jpg ballistic missile launch at a Soviet silo]]After the boost stage, ballistic missiles follow a trajectory mainly determined by ballistics. The guidance is for relatively small deviations from that.
+ballistic missile launch at a Soviet silo]]After the boost stage, ballistic missiles follow a trajectory mainly determined by ballistics. The guidance is for relatively small deviations from that.
 
 Ballistic missiles are largely used for land attack missions. Although normally associated with nuclear weapons, some conventionally armed ballistic missiles are in service, such as MGM-140 ATACMS. The V2 had demonstrated that a ballistic missile could deliver a warhead to a target city with no possibility of interception, and the introduction of nuclear weapons meant it could efficiently do damage when it arrived. The accuracy of these systems was fairly poor, but post-war development by most military forces improved the basic Inertial navigation system concept to the point where it could be used as the guidance system on Intercontinental ballistic missiles flying thousands of kilometers. Today, the ballistic missile represents the only strategic deterrent in most military forces; however, some ballistic missiles are being adapted for conventional roles, such as the Russian Iskander or the Chinese DF-21D anti-ship ballistic missile. Ballistic missiles are primarily surface-launched from mobile launchers, silos, ships or submarines, with air launch being theoretically possible with a weapon such as the cancelled Skybolt missile.
 
@@ -62,29 +55,29 @@ The Russian Topol M (SS-27 Sickle B) is the fastest (7,320 m/s) missile current
 
 Cruise
 
-Tomahawk_Block_IV_cruise_missile.jpg]] BrahMos.jpg.]]The V1 had been successfully intercepted during World War II, but this did not make the cruise missile concept entirely useless. After the war, the US deployed a small number of nuclear-armed cruise missiles in Germany, but these were considered to be of limited usefulness. Continued research into much longer-ranged and faster versions led to the US's SM-64 Navaho and its Soviet counterparts, the Burya and Buran cruise missile. However, these were rendered largely obsolete by the ICBM, and none were used operationally. Shorter-range developments have become widely used as highly accurate attack systems, such as the US Tomahawk missile and Russian Kh-55 . Cruise missiles are generally further divided into subsonic or supersonic weapons - supersonic weapons such as BrahMos (India) are difficult to shoot down, whereas subsonic weapons tend to be much lighter and cheaper allowing more to be fired.
+]] .]]The V1 had been successfully intercepted during World War II, but this did not make the cruise missile concept entirely useless. After the war, the US deployed a small number of nuclear-armed cruise missiles in Germany, but these were considered to be of limited usefulness. Continued research into much longer-ranged and faster versions led to the US's SM-64 Navaho and its Soviet counterparts, the Burya and Buran cruise missile. However, these were rendered largely obsolete by the ICBM, and none were used operationally. Shorter-range developments have become widely used as highly accurate attack systems, such as the US Tomahawk missile and Russian Kh-55 . Cruise missiles are generally further divided into subsonic or supersonic weapons - supersonic weapons such as BrahMos (India) are difficult to shoot down, whereas subsonic weapons tend to be much lighter and cheaper allowing more to be fired.
 
 Cruise missiles are generally associated with land-attack operations, but also have an important role as anti-shipping weapons. They are primarily launched from air, sea or submarine platforms in both roles, although land-based launchers also exist.
 
 Anti-ship
 
-Exocet-mil.jpg Exocet missile in flight]]Another major German missile development project was the anti-shipping class (such as the Fritz X and Henschel Hs 293), intended to stop any attempt at a cross-channel invasion. However, the British were able to render their systems useless by jamming their radios, and missiles with wire guidance were not ready by D-Day. After the war, the anti-shipping class slowly developed and became a major class in the 1960s with the introduction of the low-flying jet- or rocket-powered cruise missiles known as "sea-skimmers". These became famous during the Falklands War, when an Argentine Exocet missile sank a Royal Navy destroyer.
+Exocet missile in flight]]Another major German missile development project was the anti-shipping class (such as the Fritz X and Henschel Hs 293), intended to stop any attempt at a cross-channel invasion. However, the British were able to render their systems useless by jamming their radios, and missiles with wire guidance were not ready by D-Day. After the war, the anti-shipping class slowly developed and became a major class in the 1960s with the introduction of the low-flying jet- or rocket-powered cruise missiles known as "sea-skimmers". These became famous during the Falklands War, when an Argentine Exocet missile sank a Royal Navy destroyer.
 
 A number of anti-submarine missiles also exist; these generally use the missile in order to deliver another weapon system such as a torpedo or depth charge to the location of the submarine, at which point the other weapon will conduct the underwater phase of the mission.
 
 Anti-tank
 
-Army-fgm148.jpg soldiers firing an FGM-148 Javelin]]By the end of WWII, all forces had widely introduced unguided rockets using High-explosive anti-tank warheads as their major anti-tank weapon (see Panzerfaust, Bazooka). However, these had a limited useful range of 100 m or so, and the Germans were looking to extend this with the use of a missile using wire guidance, the X-7. After the war, this became a major design class in the later 1950s and, by the 1960s, had developed into practically the only non-tank anti-tank system in general use. During the 1973 Yom Kippur War between Israel and Egypt, the 9M14 Malyutka (aka "Sagger") man-portable anti-tank missile proved potent against Israeli tanks. While other guidance systems have been tried, the basic reliability of wire guidance means this will remain the primary means of controlling anti-tank missiles in the near future. Anti-tank missiles may be launched from aircraft, vehicles or by ground troops in the case of smaller weapons.
+soldiers firing an FGM-148 Javelin]]By the end of WWII, all forces had widely introduced unguided rockets using High-explosive anti-tank warheads as their major anti-tank weapon (see Panzerfaust, Bazooka). However, these had a limited useful range of 100 m or so, and the Germans were looking to extend this with the use of a missile using wire guidance, the X-7. After the war, this became a major design class in the later 1950s and, by the 1960s, had developed into practically the only non-tank anti-tank system in general use. During the 1973 Yom Kippur War between Israel and Egypt, the 9M14 Malyutka (aka "Sagger") man-portable anti-tank missile proved potent against Israeli tanks. While other guidance systems have been tried, the basic reliability of wire guidance means this will remain the primary means of controlling anti-tank missiles in the near future. Anti-tank missiles may be launched from aircraft, vehicles or by ground troops in the case of smaller weapons.
 
 Surface-to-air and subsurface-to-air
 
 Anti-aircraft
 
-Patriot_missile_launch_b.jpg missile being launched]]By 1944, US and British air forces were sending huge air fleets over occupied Europe, increasing the pressure on the Luftwaffe day and night fighter forces. The Germans were keen to get some sort of useful ground-based anti-aircraft system into operation. Several systems were under development, but none had reached operational status before the war's end. The US Navy also started missile research to deal with the Kamikaze threat. By 1950, systems based on this early research started to reach operational service, including the US Army's MIM-3 Nike Ajax and the Navy's "3T's" (Talos, Terrier, Tartar), soon followed by the Soviet S-25 Berkut and S-75 Dvina and French and British systems. Anti-aircraft weapons exist for virtually every possible launch platform, with surface-launched systems ranging from huge, self-propelled or ship-mounted launchers to man-portable systems. SUBSURFACE-TO-AIR MISSILES are usually launched from below water (usually from submarines).
+missile being launched]]By 1944, US and British air forces were sending huge air fleets over occupied Europe, increasing the pressure on the Luftwaffe day and night fighter forces. The Germans were keen to get some sort of useful ground-based anti-aircraft system into operation. Several systems were under development, but none had reached operational status before the war's end. The US Navy also started missile research to deal with the Kamikaze threat. By 1950, systems based on this early research started to reach operational service, including the US Army's MIM-3 Nike Ajax and the Navy's "3T's" (Talos, Terrier, Tartar), soon followed by the Soviet S-25 Berkut and S-75 Dvina and French and British systems. Anti-aircraft weapons exist for virtually every possible launch platform, with surface-launched systems ranging from huge, self-propelled or ship-mounted launchers to man-portable systems. SUBSURFACE-TO-AIR MISSILES are usually launched from below water (usually from submarines).
 
 Anti-ballistic
 
-Arrow_anti-ballistic_missile_launch.jpg]] Like most missiles, the S-300, S-400 (missile), Advanced Air Defence and MIM-104 Patriot are for defense against short-range missiles and carry explosive warheads.
+]] Like most missiles, the S-300, S-400 (missile), Advanced Air Defence and MIM-104 Patriot are for defense against short-range missiles and carry explosive warheads.
 
 In the case of a large closing speed, a projectile without explosives is used; just a collision is sufficient to destroy the target. See Missile Defense Agency for the following systems being developed:
 
@@ -94,7 +87,7 @@ In the case of a large closing speed, a projectile without explosives is used; j
 
 Air-to-air
 
-Aircraft_Combat_Archer_(2565196807).jpg fires an AIM-120 AMRAAM]]
+fires an AIM-120 AMRAAM]]
 
 Soviet RS-82 rockets were successfully tested in combat at the Battle of Khalkhin Gol in 1939.
 
@@ -102,7 +95,7 @@ German experience in World War II demonstrated that destroying a large aircraft
 
 Anti-satellite
 
-ASAT_missile_launch.jpg missile launch in 1985]]In the 1950s and 1960s, Soviet designers started work on an anti-satellite weapon, called the Istrebitel Sputnik, which literally means "interceptor of satellites" or "destroyer of satellites". After a lengthy development process of roughly twenty years, it was finally decided that testing of the Istrebitel Sputnik be canceled. This was when the United States started testing their own systems. The Brilliant Pebbles defense system proposed during the 1980s would have used kinetic energy collisions without explosives. Anti-satellite weapons may be launched either by an aircraft or a surface platform, depending on the design. To date, only a few known tests have occurred. As of 2019, only 4 countries - United States, India , Russia and China have operational anti-satellite weapons.
+missile launch in 1985]]In the 1950s and 1960s, Soviet designers started work on an anti-satellite weapon, called the Istrebitel Sputnik, which literally means "interceptor of satellites" or "destroyer of satellites". After a lengthy development process of roughly twenty years, it was finally decided that testing of the Istrebitel Sputnik be canceled. This was when the United States started testing their own systems. The Brilliant Pebbles defense system proposed during the 1980s would have used kinetic energy collisions without explosives. Anti-satellite weapons may be launched either by an aircraft or a surface platform, depending on the design. To date, only a few known tests have occurred. As of 2019, only 4 countries - United States, India , Russia and China have operational anti-satellite weapons.
 
 
 See also

@@ -66,7 +66,7 @@ The Northwest Indian War ended after the United States defeated the Indians at t
 
 Later career
 
-John_Graves_Simcoe_Memorial,_Exeter_Cathedral.jpg]] In 1794 Simcoe had been appointed Major-General. In July 1796 poor health (gout and neuralgia[24]) forced him to return to Britain. He was unable to return to Upper Canada and resigned his office in 1798.
+]] In 1794 Simcoe had been appointed Major-General. In July 1796 poor health (gout and neuralgia[24]) forced him to return to Britain. He was unable to return to Upper Canada and resigned his office in 1798.
 
 He served briefly as the commander of British forces in Saint-Domingue (later Haiti). There, in the spring of 1797, he defended the coastal town of Saint-Marc but lost Mirebalais and the Central Plateau to the forces of Toussaint Louverture, leader of the slave revolt and by that point commander-in-chief of the French Republican forces on the island.[25] This campaign signalled the end of the English attempt, in collaboration with planters, to restore slavery and other aspects of the _ancien régime_ to take over the rich, sugar-producing island while France was involved in internal affairs of its Revolution.[26][27]
 
@@ -77,7 +77,7 @@ Simcoe was buried in Wolford Chapel on the Simcoe family estate near Honiton, De
 
 Legacy
 
-Unveiling_of_General_John_Graves_Simcoe_monument.jpg in Toronto.]] John_Graves_Simcoe_statue_at_Queens_Park.jpg of Upper Canada by Walter Seymour Allward 1903 Queen's Park (Toronto)]]
+in Toronto.]] of Upper Canada by Walter Seymour Allward 1903 Queen's Park (Toronto)]]
 
 -   In the winter of 1779, the first known Valentine's Day letter in America was given by then Lieutenant Colonel John Simcoe to Sarah 'Sally' Townsend.[29]
 -   Simcoe Street in Oyster Bay, New York is named after him for his destruction of a vast apple orchard and reconstruction of a hill fort on the site.[30]

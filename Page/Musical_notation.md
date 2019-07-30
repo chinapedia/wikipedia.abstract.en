@@ -1,4 +1,4 @@
-Bachlut1.gif (1685–1750). This is the beginning of the _Prelude from the Suite for Lute in G minor_ BWV 995 (transcription of _Cello Suite No. 5_, BWV 1011).]] MUSIC NOTATION or MUSICAL NOTATION is any system used to visually represent aurally perceived music played with instruments or sung by the human voice through the use of written, printed, or otherwise-produced symbols.
+(1685–1750). This is the beginning of the _Prelude from the Suite for Lute in G minor_ BWV 995 (transcription of _Cello Suite No. 5_, BWV 1011).]] MUSIC NOTATION or MUSICAL NOTATION is any system used to visually represent aurally perceived music played with instruments or sung by the human voice through the use of written, printed, or otherwise-produced symbols.
 
 Types and methods of notation have varied between cultures and throughout history, and much information about ancient music notation is fragmentary. Even in the same time period, such as in the 2010s, different styles of music and different cultures use different music notation methods; for example, for professional classical music performers, sheet music using staves and noteheads is the most common way of notating music, but for professional country music session musicians, the Nashville Number System is the main method.
 
@@ -11,9 +11,9 @@ History
 
 Ancient Near East
 
-Hurritische_hymne.gif The earliest form of musical notation can be found in a cuneiform tablet that was created at Nippur, in Babylonia (today's Iraq), in about 1400 BC. The tablet represents fragmentary instructions for performing music, that the music was composed in harmonies of thirds, and that it was written using a diatonic scale.[1] A tablet from about 1250 BC shows a more developed form of notation.[2] Although the interpretation of the notation system is still controversial, it is clear that the notation indicates the names of strings on a lyre, the tuning of which is described in other tablets.[3] Although they are fragmentary, these tablets represent the earliest notated melodies found anywhere in the world.[4]
+The earliest form of musical notation can be found in a cuneiform tablet that was created at Nippur, in Babylonia (today's Iraq), in about 1400 BC. The tablet represents fragmentary instructions for performing music, that the music was composed in harmonies of thirds, and that it was written using a diatonic scale.[1] A tablet from about 1250 BC shows a more developed form of notation.[2] Although the interpretation of the notation system is still controversial, it is clear that the notation indicates the names of strings on a lyre, the tuning of which is described in other tablets.[3] Although they are fragmentary, these tablets represent the earliest notated melodies found anywhere in the world.[4]
 
-Delphichymn.jpg to Apollo. The music notation is the line of occasional symbols _above_ the main, uninterrupted line of Greek lettering.]]
+to Apollo. The music notation is the line of occasional symbols _above_ the main, uninterrupted line of Greek lettering.]]
 
 Ancient Greece
 
@@ -22,8 +22,6 @@ Ancient Greek musical notation was in use from at least the 6th century BC until
 Three hymns by Mesomedes of Crete exist in manuscript. The Delphic Hymns, dated to the 2nd century BC, also use this notation, but they are not completely preserved. Ancient Greek notation appears to have fallen out of use around the time of the Decline of the Western Roman Empire.
 
 Byzantine Empire
-
-Stavropoleos-anastasimatar-macarie-viena-1823-p11.png
 
 Byzantine music has mainly survived as music for court ceremonies, including vocal religious music. It is not known if it is based on the monodic modal singing and instrumental music of Ancient Greece. Greek theoretical categories played a key role to understand and transmit Byzantine music, especially the tradition of Damascus had a strong impact on the pre-Islamic Near East comparable to Persian music.
 
@@ -35,7 +33,7 @@ Notes as pitch classes or modal keys (usually memorised by modal signatures) are
 
 The so-called "great signs" were once related to cheironomic signs; according to modern interpretations they are understood as embellishments and microtonal attractions (pitch changes smaller than a semitone), both essential in Byzantine chant.[6]
 
-ChrysanthosTable.png, the _Papadic Parallage_ (ascending: column 3 and 4; descending: column 5 and 6) according to the _trochos system_, and his heptaphonic _parallage_ according to the New Method (syllables in the fore-last and _martyriai_ in the last column) (1832, p. 33)]]
+, the _Papadic Parallage_ (ascending: column 3 and 4; descending: column 5 and 6) according to the _trochos system_, and his heptaphonic _parallage_ according to the New Method (syllables in the fore-last and _martyriai_ in the last column) (1832, p. 33)]]
 
 Since Chrysanthos of Madytos there are seven standard note names used for "solfège" (_parallagē_) _pá, vú, g^(h)á, d^(h)ē, ké, zō, nē_, while the older practice still used the four enechemata or intonation formulas of the four echoi given by the modal signatures, the authentic or "kyrioi" in ascending direction, and the plagal or "plagioi" in descending direction (Papadic Octoechos).[7] With exception of _vú and zō_ they do roughly correspond to Western solmization syllables as _re, mi, fa, sol, la, si, do_. Byzantine music uses the eight natural, non-tempered scales whose elements were identified by _Ēkhoi_, "sounds", exclusively, and therefore the absolute pitch of each note may slightly vary each time, depending on the particular _Ēkhos_ used. Byzantine notation is still used in many Orthodox Churches. Sometimes cantors also use transcriptions into Western or Kievan staff notation while adding non-notatable embellishment material from memory and "sliding" into the natural scales from experience, but even concerning modern neume editions since the reform of Chrysanthos a lot of details are only known from an oral tradition related to traditional masters and their experience.
 
@@ -45,9 +43,7 @@ In 1252, Safi al-Din al-Urmawi developed a form of musical notation, where rhyth
 
 Early Europe
 
-Head_of_Christ1.jpg]] The scholar and music theorist Isidore of Seville, while writing in the early 7th century, considered that "unless sounds are held by the memory of man, they perish, because they cannot be written down."[9] By the middle of the 9th century, however, a form of neumatic notation began to develop in monasteries in Europe as a mnemonic device for Gregorian chant, using symbols known as neumes; the earliest surviving musical notation of this type is in the _Musica disciplina_ of Aurelian of Réôme, from about 850. There are scattered survivals from the Iberian Peninsula before this time, of a type of notation known as Visigothic neumes, but its few surviving fragments have not yet been deciphered.[10] The problem with this notation was that it only showed melodic contours and consequently the music could not be read by someone who did not know the music already.
-
-EarlyMusicNotation.JPG
+]] The scholar and music theorist Isidore of Seville, while writing in the early 7th century, considered that "unless sounds are held by the memory of man, they perish, because they cannot be written down."[9] By the middle of the 9th century, however, a form of neumatic notation began to develop in monasteries in Europe as a mnemonic device for Gregorian chant, using symbols known as neumes; the earliest surviving musical notation of this type is in the _Musica disciplina_ of Aurelian of Réôme, from about 850. There are scattered survivals from the Iberian Peninsula before this time, of a type of notation known as Visigothic neumes, but its few surviving fragments have not yet been deciphered.[10] The problem with this notation was that it only showed melodic contours and consequently the music could not be read by someone who did not know the music already.
 
 Notation had developed far enough to notate melody, but there was still no system for notating rhythm. A mid-13th-century treatise, _De Mensurabili Musica_, explains a set of six rhythmic modes that were in use at the time,[11] although it is not clear how they were formed. These rhythmic modes were all in triple time and rather limited rhythm in chant to six different repeating patterns. This was a flaw seen by German music theorist Franco of Cologne and summarised as part of his treatise _Ars cantus mensurabilis_ (the art of measured chant, or mensural notation). He suggested that individual notes could have their own rhythms represented by the shape of the note. Not until the 14th century did something like the present system of fixed note lengths arise. The use of regular measures (bars) became commonplace by the end of the 17th century.
 
@@ -68,7 +64,7 @@ Catholic monks developed the first forms of modern European musical notation in 
 
 Modern staff notation
 
-Chopin_Prelude_7.png ]]
+]]
 
 Modern music notation is used by musicians of many different genres throughout the world. The staff acts as a framework upon which pitches are indicated by placing oval noteheads on the staff lines or between the lines. The pitch of the oval musical noteheads can be modified by accidentals. The duration (note length) is shown with different note values, which can be indicated by the notehead being a stemless hollow oval (a whole note or semibreve), a hollow rectangle or stemless hollow oval with one or two vertical lines on either side (double whole note or breve), a stemmed hollow oval (a half note or minim), or solid oval using stems to indicate quarter notes (crotchets) and stems with added flags or beams to indicate smaller subdivisions, and additional symbols such as dots and ties which lengthen the duration of a note. Notation is read from left to right, which makes setting music for right-to-left scripts difficult.
 
@@ -88,8 +84,6 @@ A ♭ in music lowers a pitch down one semitone. A ♯ in music raises a note on
 
 Variations on staff notation
 
-Lead-sheet-wikipedia.svg Chord_chart.svg
-
 -   Percussion notation conventions are varied because of the wide range of percussion instruments. Percussion instruments are generally grouped into two categories: pitched (e.g., glockenspiel or tubular bells) and non-pitched (e.g., bass drum and snare drum). The notation of non-pitched percussion instruments is less standardized. Pitched instruments use standard Western classical notation for the pitches and rhythms. In general, notation for unpitched percussion uses the five line staff, with different lines and spaces representing different drum kit instruments. Standard Western rhythmic notation is used to indicate the rhythm.
 -   Figured bass notation originated in Baroque basso continuo parts. It is also used extensively in accordion notation. The bass notes of the music are conventionally notated, along with numbers and other signs that determine which chords the harpsichordist, organist or lutenist should improvise. It does not, however, specify the exact pitches of the harmony, leaving that for the performer to improvise.
 -   A lead sheet specifies only the melody, lyrics and harmony, using one staff with chord symbols placed above and lyrics below. It is used to capture the essential elements of a popular song without specifying how the song should be arranged or performed.
@@ -102,7 +96,7 @@ In various countries
 
 Korea
 
-시용향악보_(時用鄕樂譜).jpg _Jeongganbo_ is a unique traditional musical notation system created during the time of Sejong the Great that was the first East Asian system to represent rhythm, pitch, and time.[16][17] Among various kinds of Korean traditional music, Jeong-gan-bo targets a particular genre, Jeong-ak (정악, 正樂).
+_Jeongganbo_ is a unique traditional musical notation system created during the time of Sejong the Great that was the first East Asian system to represent rhythm, pitch, and time.[16][17] Among various kinds of Korean traditional music, Jeong-gan-bo targets a particular genre, Jeong-ak (정악, 正樂).
 
 Jeong-gan-bo tells the pitch by writing the pitch's name down in a box called 'jeong-gan' (this is where the name comes from). One jeong-gan is one beat each, and it can be split into two, three or more to hold half beats and quarter beats, and more. This makes it easy for the reader to figure out the beat.
 
@@ -110,7 +104,7 @@ Also, there are lots of markings indicating things such as ornaments. Most of th
 
 India
 
-Bhat_notation1.jpg The Indian scholar and musical theorist Pingala (c. 200 BC), in his _Chanda Sutra_, used marks indicating long and short syllables to indicate meters in Sanskrit poetry.
+The Indian scholar and musical theorist Pingala (c. 200 BC), in his _Chanda Sutra_, used marks indicating long and short syllables to indicate meters in Sanskrit poetry.
 
 In the notation of Indian rāga, a solfege-like system called sargam is used. As in Western solfege, there are names for the seven basic pitches of a major scale (Shadaj, Rishabh, Gandhar, Madhyam, Pancham, Dhaivat and Nishad, usually shortened Sa Re Ga Ma Pa Dha Ni). The tonic of any scale is named Sa, and the dominant Pa. Sa is fixed in any scale, and Pa is fixed at a fifth above it (a Pythagorean fifth rather than an equal-tempered fifth). These two notes are known as achala swar ('fixed notes').
 
@@ -122,7 +116,7 @@ Other systems exist for non-twelve-tone equal temperament and non-Western music,
 
 Russia
 
-Example_of_hooks_and_banners_notation.PNG we honour, oh Lord, and Thy holy Resurrection we praise."]] Kryuki.jpg featuring 'hook and banner notation'.]] Znamenny Chant is a singing tradition used in the Russian Orthodox Church which uses a "hook and banner" notation. Znamenny Chant is unison, melismatic liturgical singing that has its own specific notation, called the _stolp_ notation. The symbols used in the stolp notation are called __ (, 'hooks') or __ (, 'signs'). Often the names of the signs are used to refer to the stolp notation. Znamenny melodies are part of a system, consisting of Eight Modes (intonation structures; called glasy); the melodies are characterized by fluency and well-balancedness. There exist several types of Znamenny Chant: the so-called _Stolpovoy_, _Malyj_ (Little) and _Bolshoy_ (Great) Znamenny Chant. Ruthenian Chant (Prostopinije) is sometimes considered a sub-division of the Znamenny Chant tradition, with the Muscovite Chant (Znamenny Chant proper) being the second branch of the same musical continuum.
+we honour, oh Lord, and Thy holy Resurrection we praise."]] featuring 'hook and banner notation'.]] Znamenny Chant is a singing tradition used in the Russian Orthodox Church which uses a "hook and banner" notation. Znamenny Chant is unison, melismatic liturgical singing that has its own specific notation, called the _stolp_ notation. The symbols used in the stolp notation are called __ (, 'hooks') or __ (, 'signs'). Often the names of the signs are used to refer to the stolp notation. Znamenny melodies are part of a system, consisting of Eight Modes (intonation structures; called glasy); the melodies are characterized by fluency and well-balancedness. There exist several types of Znamenny Chant: the so-called _Stolpovoy_, _Malyj_ (Little) and _Bolshoy_ (Great) Znamenny Chant. Ruthenian Chant (Prostopinije) is sometimes considered a sub-division of the Znamenny Chant tradition, with the Muscovite Chant (Znamenny Chant proper) being the second branch of the same musical continuum.
 
 Znamenny Chants are not written with notes (the so-called linear notation), but with special signs, called _Znamëna_ (Russian for "marks", "banners") or _Kryuki_ ("hooks"), as some shapes of these signs resemble hooks. Each sign may include the following components: a large black hook or a black stroke, several smaller black 'points' and 'commas' and lines near the hook or crossing the hook. Some signs may mean only one note, some 2 to 4 notes, and some a whole melody of more than 10 notes with a complicated rhythmic structure. The stolp notation was developed in Kievan Rus' as an East Slavic refinement of the Byzantine neumatic musical notation.
 
@@ -130,13 +124,13 @@ The most notable feature of this notation system is that it records transitions 
 
 China
 
-Qinnotation.png, 1425]] The earliest known examples of text referring to music in China are inscriptions on musical instruments found in the Tomb of Marquis Yi of Zeng (d. 433 B.C.). Sets of 41 chimestones and 65 bells bore lengthy inscriptions concerning pitches, scales, and transposition. The bells still sound the pitches that their inscriptions refer to. Although no notated musical compositions were found, the inscriptions indicate that the system was sufficiently advanced to allow for musical notation. Two systems of pitch nomenclature existed, one for relative pitch and one for absolute pitch. For relative pitch, a solmization system was used.[18]
+, 1425]] The earliest known examples of text referring to music in China are inscriptions on musical instruments found in the Tomb of Marquis Yi of Zeng (d. 433 B.C.). Sets of 41 chimestones and 65 bells bore lengthy inscriptions concerning pitches, scales, and transposition. The bells still sound the pitches that their inscriptions refer to. Although no notated musical compositions were found, the inscriptions indicate that the system was sufficiently advanced to allow for musical notation. Two systems of pitch nomenclature existed, one for relative pitch and one for absolute pitch. For relative pitch, a solmization system was used.[18]
 
 Gongche notation used Chinese characters for the names of the scale.
 
 Japan
 
-Tempyo_Biwa_Fu.jpg. (Shōsōin, at Nara, Japan)]] Japanese music is highly diversified, and therefore requires various systems of notation. In Japanese shakuhachi music, for example, glissandos and timbres are often more significant than distinct pitches, whereas taiko notation focuses on discrete strokes.
+. (Shōsōin, at Nara, Japan)]] Japanese music is highly diversified, and therefore requires various systems of notation. In Japanese shakuhachi music, for example, glissandos and timbres are often more significant than distinct pitches, whereas taiko notation focuses on discrete strokes.
 
 Ryukyuan sanshin music uses kunkunshi, a notation system of kanji with each character corresponding to a finger position on a particular string.
 

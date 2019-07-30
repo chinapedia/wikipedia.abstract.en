@@ -52,7 +52,7 @@ In 1979, Voight once again put on boxing gloves, starring in 1979's remake of th
 
 1980s
 
-Jon_Voight_1988_cropped.jpg in April 1988]]
+in April 1988]]
 
 He next reteamed with director Ashby in 1982's _Lookin' to Get Out_, in which he played Alex Kovac, a con man who has run into debt with New York mobsters and hopes to win enough in Las Vegas to pay them off. Voight both co-wrote the script and also co-produced. He also produced and acted in 1983's _Table for Five_, in which he played a widower bringing up his children by himself.
 
@@ -70,7 +70,7 @@ He made his first acting debut into television movies, acting in 1991's _Chernob
 
         Well what happened was I was asked to be on Seinfeld. They said: "Would you do a Seinfeld?" And I said, and I just happened to know to see a few Seinfelds and I knew these guys were really tops; they were really, really clever guys, and I liked the show. And so I said "Sure!" and I thought they would ask me to do a walk-on, the way it came: "Would you come be part of the show?" And I said "Yeah, sure I'll do it." You know what I mean? Then I got the script and my name was on every page because it was about my car. And I laughed; it was hysterically funny. So I was really delighted to do it. The writer came up to me and he said "Jon, would you come take a look at my car to see if you ever owned it?", because the writer wrote it from a real experience where someone sold him the car based on the fact that it was my car. And I went down and I looked at the car and I said "No, I never had this car." So unfortunately I had to give him the bad news. But it was a funny episode.[13]
 
-Jon_Voight_Cannes.jpg in 1993]]
+in 1993]]
 
 In 1992, Voight appeared in the HBO film _The Last of His Tribe_.[14]
 
@@ -108,7 +108,7 @@ In 2009, Voight played Jonas Hodges, the American antagonist, in the seventh sea
 
 2010s
 
-JonVoightHWOFJune2013.jpg In 2013, Voight made his much acclaimed appearance on _Ray Donovan_ as Mickey Donovan, Ray's estranged pseudo-evil crudely charismatic highly persuasively endearing father who brought nothing to his sons' lives but paranoia, neurosis, and disastrous complications. Under the category Television Series, Voight received a Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film in 2013.
+In 2013, Voight made his much acclaimed appearance on _Ray Donovan_ as Mickey Donovan, Ray's estranged pseudo-evil crudely charismatic highly persuasively endearing father who brought nothing to his sons' lives but paranoia, neurosis, and disastrous complications. Under the category Television Series, Voight received a Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film in 2013.
 
 On March 26, 2019, Jon Voight was appointed to a six year term on the Board of Trustees of the Kennedy Center in Washington DC as reported the next day by the Washington Post and Fox News.
 

@@ -33,8 +33,6 @@ At the conferences, St-Laurent, compelled by his belief that the UN would be ine
 
 Prime Minister (1948–1957)
 
-Louis_Saint-Laurent_7_aout_1948.jpg
-
 In 1948, King retired, and quietly persuaded his senior ministers to support St-Laurent's selection as the new Liberal leader at the Liberal leadership convention of August 1948. St-Laurent won, and was sworn in as Prime Minister of Canada on 15 November, making him Canada's second French-Canadian Prime Minister, after Wilfrid Laurier.
 
 The Canadian economy was one of the strongest in the world in the period immediately following the end of the war. The prosperity lasted for more than a decade, significantly expanding the Canadian national infrastructure.[12]
@@ -47,7 +45,7 @@ St-Laurent led the Liberals to another powerful majority in the 1953 federal ele
 
 Foreign policy
 
-Louis_St._Laurent_1954_37112.jpg St-Laurent and his cabinet oversaw Canada's expanding international role in the postwar world. His stated desire was for Canada to occupy a social, military and economic middle power role in the post-World War II world. In 1947, he identified five basic principles of Canadian foreign policy and five practical applications regarding Canada's international relations. Always highly sensitive to cleavages of language, religion, and region, he stressed national unity, insisting, "that our external policies shall not destroy our unity ... for a disunited Canada will be a powerless one." He also stressed political liberty and rule of law in the sense of opposition to totalitarianism.[13]
+St-Laurent and his cabinet oversaw Canada's expanding international role in the postwar world. His stated desire was for Canada to occupy a social, military and economic middle power role in the post-World War II world. In 1947, he identified five basic principles of Canadian foreign policy and five practical applications regarding Canada's international relations. Always highly sensitive to cleavages of language, religion, and region, he stressed national unity, insisting, "that our external policies shall not destroy our unity ... for a disunited Canada will be a powerless one." He also stressed political liberty and rule of law in the sense of opposition to totalitarianism.[13]
 
 Militarily, St-Laurent was a leading proponent of the establishment of the North Atlantic Treaty Organization (NATO) in 1949, serving as an architect and signatory of the treaty document.[14] Involvement in such an organization marked a departure from King who had been reticent about joining a military alliance. Under his leadership, Canada supported the United Nations (U.N.) in the Korean War and committed the third largest overall contribution of troops, ships and aircraft to the U.N. forces to the conflict. Troops to Korea were selected on a voluntary basis. In 1956, under his direction, St-Laurent's Secretary of State for External Affairs Lester B. Pearson, helped solve the Suez Crisis in 1956 between Great Britain, France, Israel and Egypt, bringing forward St-Laurent's 1946 views on a U.N. military force in the form of the United Nations Emergency Force (UNEF) or peacekeeping. It is widely believed that the activities directed by St-Laurent and Pearson could well have avoided a nuclear war. These actions were recognized when Pearson won the 1957 Nobel Peace Prize.
 
@@ -73,7 +71,7 @@ The government also engaged in massive public works and infrastructure projects 
 
 St-Laurent was initially very well received by the Canadian public, but by 1957, "Uncle Louis" (as he was sometimes referred to) began to appear tired, old and out of touch; he was 75 years old and had many hard years of work behind him. His government was also perceived to have grown too close to business interests. The 1956 Pipeline Debate led to the widespread impression that the Liberals had grown arrogant in power. On numerous occasions, the government invoked closure in order to curtail debate and ensure that its Pipeline Bill passed by a specific deadline. St. Laurent was criticized for a lack of restraint exercised on his minister C. D. Howe, who was widely perceived as extremely arrogant. Western Canadians felt particularly alienated by the government, believing that the Liberals were kowtowing to interests in Ontario and Quebec and the United States. (The opposition accused the government of accepting overly costly contracts that could never be completed on schedule. In the end, the pipeline was completed early and under budget.) The pipeline conflict turned out to be meaningless, insofar as the construction work was concerned, since pipe could not be obtained in 1956 from a striking American factory, and no work could have been done that year.[24] The uproar in Parliament regarding the pipeline had a lasting impression on the electorate, and was a decisive factor in the Liberal government's 1957 defeat at the hands of the PCs, led by John Diefenbaker, in the 1957 election. Because the Liberals were still mostly classically liberal, Diefenbaker promised to outspend the incumbent Liberals, who campaigned on plans to stay the course of fiscal conservatism they had followed through St-Laurent's term in the 1940s and 1950s.
 
-St-Laurent was the first Prime Minister to live in the present official residence of the Prime Minister of Canada: 24 Sussex Drive, from 1951 to 1957, the end of his term in office. CCGS_Louis_S._St-Laurent,_Heavy_Icebreaker.jpg, Heavy Icebreaker]]
+St-Laurent was the first Prime Minister to live in the present official residence of the Prime Minister of Canada: 24 Sussex Drive, from 1951 to 1957, the end of his term in office. , Heavy Icebreaker]]
 
 
 Defeat in the 1957 election
@@ -85,7 +83,7 @@ Another option circulated within the party saw the balance of power to be held b
 
 Supreme Court appointments
 
-Louis_St._Laurent_statue.jpg]] St-Laurent chose the following jurists to be appointed as justices of the Supreme Court of Canada by the Governor General:
+]] St-Laurent chose the following jurists to be appointed as justices of the Supreme Court of Canada by the Governor General:
 
 -   John Robert Cartwright (22 December 1949 – 23 March 1970)
 -   Joseph Honoré Gérald Fauteux (22 December 1949 – 23 December 1973)
@@ -96,7 +94,7 @@ Louis_St._Laurent_statue.jpg]] St-Laurent chose the following jurists to be appo
 
 Retirement
 
-St_Laurent_house.jpg After a short period as Leader of the Opposition and now more than 75 years old, St- Laurent's motivation to be involved in politics was gone. He announced his intention to retire from politics. St-Laurent was succeeded as Liberal Party leader by his former Secretary of State for External Affairs and representative at the United Nations, Lester B. Pearson, at the party's leadership convention in 1958.
+After a short period as Leader of the Opposition and now more than 75 years old, St- Laurent's motivation to be involved in politics was gone. He announced his intention to retire from politics. St-Laurent was succeeded as Liberal Party leader by his former Secretary of State for External Affairs and representative at the United Nations, Lester B. Pearson, at the party's leadership convention in 1958.
 
 After his political retirement, he returned to practising law and living quietly and privately with his family. During his retirement, he was called into the public spotlight one final time in 1967 to be made a Companion of the Order of Canada, a newly created award.
 

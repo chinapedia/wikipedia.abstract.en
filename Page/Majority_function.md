@@ -7,8 +7,6 @@ The "−1/2" in the formula serves to break ties in favor of zeros when _n_ is e
 
 Boolean circuits
 
-Four-Bit_Majority_Circuit.png
-
 A _majority gate_ is a logical gate used in circuit complexity and other applications of Boolean circuits. A majority gate returns true if and only if more than 50% of its inputs are true.
 
 For instance, in a full adder, the carry output is found by applying a majority function to the three inputs, although frequently this part of the adder is broken down into several simpler logical gates.

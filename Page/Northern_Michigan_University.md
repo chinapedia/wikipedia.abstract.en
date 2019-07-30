@@ -62,7 +62,7 @@ The baccalaureate degree programs of the Walker L. Cisler College of Business ar
 
 Campus
 
-Northern_Michigan_University's_Academic_Mall.jpg NMU is a tobacco-free campus.[10]
+NMU is a tobacco-free campus.[10]
 
 INSTRUCTIONAL SPACES
 
@@ -77,8 +77,6 @@ BERRY EVENTS CENTER
 -   Northern's multi-purpose student events center, is the home of the Northern Michigan University hockey and men's and women's basketball teams. The facility contains an Olympic-size (200 ft. x 100 ft.) ice sheet and seats over 4,000 for hockey events. The Berry Events Center was built on the site of the former Memorial Stadium.
 
 COHODAS HALL
-
-nmuhayride.jpg
 
 -   The tallest building on campus, Cohodas Hall houses administrative offices and the College of Business. Completed in 1975, the building stands on the site of Northern's original campus. It is named after U.P. banker and philanthropist Sam M. Cohodas.[12]
 
@@ -133,8 +131,6 @@ Northern Michigan University's eight-member governing board, the Board of Truste
 
 
 Athletics
-
-Football_signed_by_1978_Northern_Michigan_Wildcats_(1987.569).jpg
 
 NMU’s Wildcats compete in the NCAA's Division II Great Lakes Intercollegiate Athletic Conference in basketball, football, golf, cross country, soccer, volleyball, track & field, and swimming/diving. The hockey program competes in Division I as a member of the Western Collegiate Hockey Association. The Nordic ski team competes in the Central Collegiate Ski Association. The Division II football team plays in the world's largest wooden dome, the Superior Dome.[26] Lloyd Carr, former head coach at the University of Michigan, former NFL coach Jerry Glanville, and Steve Mariucci, former head coach of the Detroit Lions and San Francisco 49ers, played football for NMU, and current Michigan State coach Tom Izzo played basketball at NMU. Northern Michigan's rivals in sports action are the two other major schools in the upper peninsula: Michigan Technological University, and Lake Superior State University.[27]
 
@@ -213,8 +209,6 @@ WUPX is Northern Michigan University's non-commercial, student run, radio statio
 
 
 Notable alumni
-
-2009-0618-NMU-Starbucks.JPG
 
 -   Nick Baumgartner, Winter X Games gold medalist in 2011 Snowboard Cross event, Olympian
 -   Chad Gable, Greco-Roman wrestler, professional wrestler signed to WWE on the Raw brand

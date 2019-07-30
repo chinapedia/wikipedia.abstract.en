@@ -10,7 +10,7 @@ It was part of his catalogue of the southern sky, the _Coelum Australe Stellifer
 
 Notable features
 
-Constellation_Octans.jpg.]]
+.]]
 
 Stars
 
@@ -30,7 +30,7 @@ Three star systems are known to have planets. Mu² Octantis is a binary star sys
 
 Deep sky objects
 
-NGC_7098_ESO.jpg ]] NGC 7095 and NGC 7098 are two barred spiral galaxies that are 115 million and 95 million light-years distant from Earth respectively.
+]] NGC 7095 and NGC 7098 are two barred spiral galaxies that are 115 million and 95 million light-years distant from Earth respectively.
 
 
 Namesakes

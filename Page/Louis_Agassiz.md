@@ -10,13 +10,11 @@ Louis Agassiz was born in Môtier (now part of Haut-Vully) in the Swiss canton o
 
 Work
 
-Jean_Louis_Agassiz_1870.jpg
-
 In 1819–1820, German biologists Johann Baptist von Spix and Carl Friedrich Philipp von Martius undertook an expedition to Brazil. They returned home to Europe with many natural objects, including an important collection of the freshwater fish of Brazil, especially of the Amazon River. Spix, who died in 1826, did not live long enough to work out the history of these fish, and Martius selected Agassiz for this project. Agassiz threw himself into the work with an enthusiasm that would go on to characterize the rest of life's work. The task of describing the Brazilian fish was completed and published in 1829. This was followed by research into the history of fish found in Lake Neuchâtel. Enlarging his plans, in 1830, he issued a prospectus of a _History of the Freshwater Fish of Central Europe_. In 1839, however, the first part of this publication appeared, and it was completed in 1842.
 
 In 1832, Agassiz was appointed professor of natural history at the University of Neuchâtel. The fossil fish in the rock of the surrounding region, the slates of Glarus and the limestones of Monte Bolca, soon attracted his attention. At the time, very little had been accomplished in their scientific study. Agassiz, as early as 1829, planned the publication of a work, which more than any other, laid the foundation of his worldwide fame. Five volumes of his _Recherches sur les poissons fossiles_ (_Research on Fossil Fish_) were published from 1833 to 1843. They were magnificently illustrated, chiefly by Joseph Dinkel.[4] In gathering materials for this work, Agassiz visited the principal museums in Europe, and meeting Cuvier in Paris, he received much encouragement and assistance from him. They had known him for seven years at the time.
 
-Louis_Aggasiz_and_Benjamin_Peirce.jpg ]]
+]]
 
 Agassiz found that his palaeontological analyses required a new ichthyological classification. The fossils he examined rarely showed any traces of the soft tissues of fish, but, instead, consisted chiefly of the teeth, scales, and fins, with the bones being perfectly preserved in comparatively few instances. He, therefore, adopted a classification that divided fish into four groups: ganoids, placoids, cycloids, and ctenoids, based on the nature of the scales and other dermal appendages. This did much to improve fish taxonomy, but Aggasiz's classification has since been superseded.
 
@@ -24,7 +22,7 @@ Agassiz needed financial support to continue his work. The British Association a
 
 Before Agassiz's first visit to England in 1834, Hugh Miller and other geologists had brought to light the remarkable fossil fish of the Old Red Sandstone of the northeast of Scotland. The strange forms of _Pterichthys_, _Coccosteus_ and other genera were then made known to geologists for the first time. They were of intense interest to Agassiz, and formed the subject of a monograph by him published in 1844–45: _Monographie des poissons fossiles du Vieux Grès Rouge, ou Système Dévonien (Old Red Sandstone) des Îles Britanniques et de Russie_ (_Monograph on Fossil Fish of the Old Red Sandstone, or Devonian System of the British Isles and of Russia_). In the early stages of his career in Neuchatel, Agassiz also made a name for himself as a man who could run a scientific department well. Under his care, the University of Neuchâtel soon became a leading institution for scientific inquiry.
 
-Louis_Agassiz_H3.jpg, _circa_ 1865]]
+, _circa_ 1865]]
 
 In 1842–1846, Agassiz issued his _Nomenclator Zoologicus_, a classification list, with references, of all names used in zoological genera and groups.
 
@@ -35,7 +33,7 @@ In 1837, Agassiz proposed that the Earth had been subjected to a past ice age.[5
 
 In 1840, Agassiz published a two-volume work entitled _Études sur les glaciers_ (_Studies on Glaciers_).[8] In this, he discussed the movements of the glaciers, their moraines, their influence in grooving and rounding the rocks, and in producing the striations and _roches moutonnees_ seen in Alpine-style landscapes. He accepted Charpentier and Schimper's idea that some of the alpine glaciers had extended across the wide plains and valleys of the Aar and Rhône, but he went further, concluding that, in the recent past, Switzerland had been covered with one vast sheet of ice, originating in the higher Alps and extending over the valley of northwestern Switzerland to southern slopes of the Jura. The publication of this work gave fresh impetus to the study of glacial phenomena in all parts of the world.
 
-Familiar, then, with recent glaciation, Agassiz and English geologist William Buckland visited the mountains of Scotland in 1840. There, they found clear evidence in different locations of glacial action. The discovery was announced to the Geological Society of London in successive communications. The mountainous districts of England, Wales, and Ireland were understood to have been centres for the dispersion of glacial debris. Agassiz remarked, "that great sheets of ice, resembling those now existing in Greenland, once covered all the countries in which unstratified gravel (boulder drift) is found; that this gravel was in general produced by the trituration of the sheets of ice upon the subjacent surface, etc." SAM_PC_0_-_Ice_auger_of_Louis_Agassiz_and_Eduard_Desor.jpg used by Agassiz to drill up to 7.5 m deep into the Unteraar Glacier to take its temperature]]
+Familiar, then, with recent glaciation, Agassiz and English geologist William Buckland visited the mountains of Scotland in 1840. There, they found clear evidence in different locations of glacial action. The discovery was announced to the Geological Society of London in successive communications. The mountainous districts of England, Wales, and Ireland were understood to have been centres for the dispersion of glacial debris. Agassiz remarked, "that great sheets of ice, resembling those now existing in Greenland, once covered all the countries in which unstratified gravel (boulder drift) is found; that this gravel was in general produced by the trituration of the sheets of ice upon the subjacent surface, etc." used by Agassiz to drill up to 7.5 m deep into the Unteraar Glacier to take its temperature]]
 
 
 United States
@@ -55,7 +53,7 @@ Elizabeth Agassiz wrote, at the Strait: '. ... .the _Hassler_ pursued her course
 
 Legacy
 
-Agassiz_Louis_1807-1873.png From his first marriage to Cecilie Bruan, Agassiz had two daughters in addition to son Alexander.[16] In 1863, Agassiz's daughter Ida married Henry Lee Higginson, who later founded the Boston Symphony Orchestra and was a benefactor to Harvard and other schools. On November 30, 1860, Agassiz's daughter Pauline was married to Quincy Adams Shaw (1825–1908), a wealthy Boston merchant and later benefactor to the Boston Museum of Fine Arts.[17]
+From his first marriage to Cecilie Bruan, Agassiz had two daughters in addition to son Alexander.[16] In 1863, Agassiz's daughter Ida married Henry Lee Higginson, who later founded the Boston Symphony Orchestra and was a benefactor to Harvard and other schools. On November 30, 1860, Agassiz's daughter Pauline was married to Quincy Adams Shaw (1825–1908), a wealthy Boston merchant and later benefactor to the Boston Museum of Fine Arts.[17]
 
 In the last years of his life, Agassiz worked to establish a permanent school where zoological science could be pursued amid the living subjects of its study. In 1873, a private philanthropist (John Anderson) gave Agassiz the island of Penikese, in Buzzards Bay, Massachusetts (south of New Bedford), and presented him with $50,000 to permanently endow it as a practical school of natural science, especially devoted to the study of marine zoology. The John Anderson school collapsed soon after Agassiz's death; it is considered a precursor of the Woods Hole Marine Biological Laboratory, which is nearby.[18]
 
@@ -67,8 +65,6 @@ Agassiz died in Cambridge, Massachusetts, in 1873 and was buried at Mount Auburn
 
 The Cambridge elementary school north of Harvard University was named in his honor and the surrounding neighborhood became known as "Agassiz" as a result. The school's name was changed to the Maria L. Baldwin School on May 21, 2002, due to concerns about Agassiz's alleged racism, and to honor Maria Louise Baldwin the African-American principal of the school, who served from 1889 until 1922.[25][26] The neighborhood, however, continues to be known as Agassiz.[27] An elementary school called the Agassiz Elementary School in Minneapolis, Minnesota, existed from 1922 to 1981.[28]
 
-Agassiz.main.sk.jpg
-
 An ancient glacial lake that formed in the Great Lakes region of North America, Lake Agassiz, is named after him, as are Mount Agassiz in California's Palisades, Mount Agassiz, in the Uinta Mountains, Agassiz Peak in Arizona, and in his native Switzerland, the Agassizhorn in the Bernese Alps. Agassiz Glacier (Montana) and Agassiz Creek in Glacier National Park and Agassiz Glacier (Alaska) in Saint Elias Mountains, Mount Agassiz in Bethlehem, New Hampshire in the White Mountains also bear his name. A crater on Mars _Crater Agassiz_[29] and a promontorium on the moon are also named in his honor. A headland situated in Palmer Land, Antarctica, is named in his honor, Cape Agassiz. A main-belt asteroid named 2267 Agassiz is also named in association with Louis Agassiz.
 
 Several animal species are named in honor of Louis Agassiz, including _Apistogramma agassizii_ (Agassiz's dwarf cichlid); _Isocapnia agassizi_ (a stonefly); _Publius agassizi_ (a passalid beetle); _Xylocrius agassizi_ (a longhorn beetle); _Exoprosopa agassizi_ (a bee fly); _Chelonia agassizii_ (Galápagos green turtle);[30] _Philodryas agassizii_ (a South American snake);[31] and the most well-known, _Gopherus agassizii_ (the desert tortoise).[32]
@@ -79,7 +75,7 @@ Agassiz took part in a monthly gathering called the Saturday Club at the Parker 
 
 Daguerreotypes of Renty and Delia Taylor
 
-Renty_an_African_slave.jpg In 1850 Agassiz commissioned daguerreotypes of the enslaved Renty Taylor and Taylor's daughter Delia to further his arguments about black inferiority. They are the earliest known photographs of slaves.[34][35][36][37] Agassiz left the images to Harvard and they remained in the Peabody Museum’s attic until 1976 when they were re-discovered by Ellie Reichlin. In 2019 Taylor's descendants sued Harvard for the return of the images and unspecified damages.[38] The lawsuit was supported by forty-three living descendants of Louis Agassiz, they wrote a letter of support that read in part "For Harvard to give the daguerreotypes to Ms. Lanier and her family would begin to make amends for its use of the photos as exhibits for the white supremacist theory Agassiz espoused,” and that everyone must evaluate fully "his role in promoting a pseudoscientific justification for white supremacy."[39]
+In 1850 Agassiz commissioned daguerreotypes of the enslaved Renty Taylor and Taylor's daughter Delia to further his arguments about black inferiority. They are the earliest known photographs of slaves.[34][35][36][37] Agassiz left the images to Harvard and they remained in the Peabody Museum’s attic until 1976 when they were re-discovered by Ellie Reichlin. In 2019 Taylor's descendants sued Harvard for the return of the images and unspecified damages.[38] The lawsuit was supported by forty-three living descendants of Louis Agassiz, they wrote a letter of support that read in part "For Harvard to give the daguerreotypes to Ms. Lanier and her family would begin to make amends for its use of the photos as exhibits for the white supremacist theory Agassiz espoused,” and that everyone must evaluate fully "his role in promoting a pseudoscientific justification for white supremacy."[39]
 
 
 Polygenism
@@ -88,7 +84,7 @@ After Agassiz came to the United States, he wrote prolifically on polygenism, wh
 
 Agassiz was influenced by philosophical idealism and the scientific work of Georges Cuvier. Agassiz believed one species of humans exists, but many different creations of races occurred.[44] These ideas are now included under the rubric of scientific racism. According to Agassiz, genera and species were ideas in the mind of God; their existence in God's mind prior to their physical creation meant that God could create humans as one species, yet in several distinct and geographically separate acts of creation. Agassiz was in modern terms a creationist who believed nature had order because God created it directly. Agassiz viewed his career in science as a search for ideas in the mind of the creator expressed in creation.
 
-Agassiz_in_the_Concrete.jpg toppled Agassiz's statue from the façade of Stanford's zoology building, Stanford President David Starr Jordan wrote, "SomebodyDr. Angell, perhapsremarked that 'Agassiz was great in the abstract but not in the concrete.{{'"}}[45]]]
+toppled Agassiz's statue from the façade of Stanford's zoology building, Stanford President David Starr Jordan wrote, "SomebodyDr. Angell, perhapsremarked that 'Agassiz was great in the abstract but not in the concrete.{{'"}}[45]]]
 
 Agassiz, like other polygenists, believed the Book of Genesis recounted the origin of the white race only and that the animals and plants in the Bible refer only to those species proximate and familiar to Adam and Eve. Agassiz believed that the writers of the Bible only knew of regional events, for example Noah's flood was a local event only known to the regions near those that were populated by ancient Hebrews.[46]
 

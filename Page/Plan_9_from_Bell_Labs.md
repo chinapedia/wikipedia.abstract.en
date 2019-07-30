@@ -67,7 +67,7 @@ Special virtual filesystems
 
 /proc
 
-Plan_9_from_Bell_Labs_(process_management).png[27] in ]] Instead of having system calls specifically for process management, Plan 9 provides the file system. Each process appears as a directory containing information and control files which can be manipulated by the ordinary file IO system calls.[28]
+[27] in ]] Instead of having system calls specifically for process management, Plan 9 provides the file system. Each process appears as a directory containing information and control files which can be manipulated by the ordinary file IO system calls.[28]
 
 The file system approach allows Plan 9 processes to be managed with simple file management tools such as ls and cat; however, the processes cannot be copied and moved as files.[29]
 
@@ -94,7 +94,7 @@ Factotum is an authentication and key management server for Plan 9. It handles a
 
 Graphical programs
 
-Plan_9_from_Bell_Labs_(with_acme).png and rc]] Unlike Unix, Plan 9 was designed with graphics in mind.[36] After booting, a Plan 9 terminal will run the rio windowing system, in which the user can create new windows displaying rc.[37] Graphical programs invoked from this shell replace it in its window.
+and rc]] Unlike Unix, Plan 9 was designed with graphics in mind.[36] After booting, a Plan 9 terminal will run the rio windowing system, in which the user can create new windows displaying rc.[37] Graphical programs invoked from this shell replace it in its window.
 
 The plumber provides an inter-process communication mechanism which allows system-wide hyperlinking.
 
@@ -131,7 +131,7 @@ A later retrospective comparison of Plan 9, Sprite and a third contemporary dist
 
 Impact
 
-Wmii-3.6_screenshot.png X window manager was inspired by acme, a text editor from the Plan 9 project.[46]]] Plan 9 demonstrated that an integral concept of Unix—that every system interface could be represented as a set of files—could be successfully implemented in a modern distributed system.[47] Some features from Plan 9, like the UTF-8 character encoding of Unicode, have been implemented in other operating systems. Unix-like operating systems such as Linux have implemented 9P, Plan 9's file system, and have adopted features of rfork, Plan 9's process creation mechanism. Additionally, in Plan 9 from User Space, several of Plan 9's applications and tools, including the sam and acme editors, have been ported to Unix and Linux systems and have achieved some level of popularity. Several projects seek to replace the GNU operating system programs surrounding the Linux kernel with the Plan 9 operating system programs.[48][49] The 9wm window manager was inspired by 8½, the older windowing system of Plan 9;[50] wmii is also heavily influenced by Plan 9.[51] In computer science research, Plan 9 has been used as a grid computing platform and as a vehicle for research into ubiquitous computing without middleware. In commerce, Plan 9 underlies Coraid storage systems. However, Plan 9 has never approached Unix in popularity, and has been primarily a research tool:
+X window manager was inspired by acme, a text editor from the Plan 9 project.[46]]] Plan 9 demonstrated that an integral concept of Unix—that every system interface could be represented as a set of files—could be successfully implemented in a modern distributed system.[47] Some features from Plan 9, like the UTF-8 character encoding of Unicode, have been implemented in other operating systems. Unix-like operating systems such as Linux have implemented 9P, Plan 9's file system, and have adopted features of rfork, Plan 9's process creation mechanism. Additionally, in Plan 9 from User Space, several of Plan 9's applications and tools, including the sam and acme editors, have been ported to Unix and Linux systems and have achieved some level of popularity. Several projects seek to replace the GNU operating system programs surrounding the Linux kernel with the Plan 9 operating system programs.[48][49] The 9wm window manager was inspired by 8½, the older windowing system of Plan 9;[50] wmii is also heavily influenced by Plan 9.[51] In computer science research, Plan 9 has been used as a grid computing platform and as a vehicle for research into ubiquitous computing without middleware. In commerce, Plan 9 underlies Coraid storage systems. However, Plan 9 has never approached Unix in popularity, and has been primarily a research tool:
 
 Other factors that contributed to low adoption of Plan 9 include the lack of commercial backup, the low number of end-user applications, and the lack of device drivers.[52][53]
 

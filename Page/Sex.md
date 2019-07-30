@@ -7,7 +7,7 @@ Among humans and other mammals, males typically carry an X and a Y chromosome (X
 
 Overview
 
-Sperm-egg.jpg) fertilizing the female gamete (ovum)]]
+) fertilizing the female gamete (ovum)]]
 
 One of the basic properties of life is reproduction, the capacity to generate new individuals, and sex is an aspect of this process. Life has evolved from simple stages to more complex ones, and so have the reproduction mechanisms. Initially the reproduction was a replicating process that consists in producing new individuals that contain the same genetic information as the original or parent individual. This mode of reproduction is called _asexual_, and it is still used by many species, particularly unicellular, but it is also very common in multicellular organisms, including many of those with sexual reproduction.[5] In sexual reproduction, the genetic material of the offspring comes from two different individuals. As sexual reproduction developed by way of a long process of evolution, intermediates exist. Bacteria, for instance, reproduce asexually, but undergo a process by which a part of the genetic material of an individual donor is transferred to another recipient.[6]
 
@@ -31,15 +31,13 @@ No genes are shared between the avian ZW and mammal XY chromosomes,[20] and from
 
 Sexual reproduction
 
-Sexual_cycle.svg
-
 Sexual reproduction in eukaryotes is a process whereby organisms form offspring that combine genetic traits from both parents. Chromosomes are passed on from one generation to the next in this process. Each cell in the offspring has half the chromosomes of the mother and half of the father.[22] Genetic traits are contained within the deoxyribonucleic acid (DNA) of chromosomes—by combining one of each type of chromosomes from each parent, an organism is formed containing a doubled set of chromosomes. This double-chromosome stage is called "diploid", while the single-chromosome stage is "haploid". Diploid organisms can, in turn, form haploid cells (gametes) that randomly contain one of each of the chromosome pairs, via meiosis.[23] Meiosis also involves a stage of chromosomal crossover, in which regions of DNA are exchanged between matched types of chromosomes, to form a new pair of mixed chromosomes. Crossing over and fertilization (the recombining of single sets of chromosomes to make a new diploid) result in the new organism containing a different set of genetic traits from either parent.
 
 In many organisms, the haploid stage has been reduced to just gametes specialized to recombine and form a new diploid organism; in others, such as cryptogamic plants the gametes are capable of undergoing cell division to produce multicellular haploid organisms. In either case, gametes may be externally similar, particularly in size (isogamy), or may have evolved an asymmetry such that the gametes are different in size and other aspects (anisogamy).[24] By convention, the larger gamete (called an ovum, or egg cell) is considered female, while the smaller gamete (called a spermatozoon, or sperm cell) is considered male. An individual that produces exclusively large gametes is female, and one that produces exclusively small gametes is male.[25] An individual that produces both types of gametes is a hermaphrodite; in some cases hermaphrodites are able to self-fertilize and produce offspring on their own, without a second organism.[26]
 
 Animals
 
-Hoverflies_mating_midair.jpg mating]]
+mating]]
 
 Most sexually reproducing animals spend their lives as diploid, with the haploid stage reduced to single-cell gametes.[27] The gametes of animals have male and female forms—spermatozoa and egg cells. These gametes combine to form embryos which develop into a new organism.
 
@@ -55,13 +53,11 @@ Because of their motility, animal sexual behavior can involve coercive sex. Trau
 
 Plants
 
-Mature_flower_diagram.svg
-
 Like animals, plants have developed specialized male and female gametes.[32] Within seed plants, male gametes are contained within hard coats, forming pollen. The female gametes of seed plants are contained within ovules; once fertilized by pollen these form seeds which, like eggs, contain the nutrients necessary for the development of the embryonic plant.
 
-  ---------------------- -------------------------------
-  Pinus_nigra_cone.jpg   Pine_cones,_immature_male.jpg
-  ---------------------- -------------------------------
+  -- --
+
+  -- --
 
 Female (left) and male (right) cones are the sex organs of pines and other conifers.
 
@@ -73,8 +69,6 @@ Because plants are immobile, they depend upon passive methods for transporting p
 
 Fungi
 
-Shiitake_mushroom.jpg
-
 Most fungi reproduce sexually, having both a haploid and diploid stage in their life cycles. These fungi are typically isogamous, lacking male and female specialization: haploid fungi grow into contact with each other and then fuse their cells. In some of these cases, the fusion is asymmetric, and the cell which donates only a nucleus (and not accompanying cellular material) could arguably be considered "male".[33] Fungi may also have more complex allelic mating systems, with other sexes not accurately described as male, female, or hermaphroditic.[34]
 
 Some fungi, including baker's yeast, have mating types that create a duality similar to male and female roles. Yeast with the same mating type will not fuse with each other to form diploid cells, only with yeast carrying the other mating type.[35]
@@ -84,8 +78,6 @@ Many species of higher fungi produce mushrooms as part of their sexual reproduct
 
 Sex determination
 
-Evolsex-dia2a.svg
-
 The most basic sexual system is one in which all organisms are hermaphrodites, producing both male and female gametes— this is true of some animals (e.g. snails) and the majority of flowering plants.[36] In many cases, however, specialization of sex has evolved such that some organisms produce only male or only female gametes. The biological cause for an organism developing into one sex or the other is called sex determination.
 
 In the majority of species with sex specialization, organisms are either male (producing only male gametes) or female (producing only female gametes). Exceptions are common—for example, the roundworm _C. elegans_ has an hermaphrodite and a male sex (a system called androdioecy).
@@ -94,7 +86,7 @@ Sometimes an organism's development is intermediate between male and female, a c
 
 Genetic
 
-Drosophila_XY_sex-determination.svg.]]
+.]]
 
 In genetic sex-determination systems, an organism's sex is determined by the genome it inherits. Genetic sex-determination usually depends on asymmetrically inherited sex chromosomes which carry genetic features that influence development; sex may be determined either by the presence of a sex chromosome or by how many the organism has. Genetic sex-determination, because it is determined by chromosome assortment, usually results in a 1:1 ratio of male and female offspring.
 
@@ -110,7 +102,7 @@ Other insects, including honey bees and ants, use a haplodiploid sex-determinati
 
 Nongenetic
 
-Ocellaris_clownfish.JPGes are initially male; the largest fish in a group becomes female]]
+es are initially male; the largest fish in a group becomes female]]
 
 For many species, sex is not determined by inherited traits, but instead by environmental factors experienced during development or later in life. Many reptiles have temperature-dependent sex determination: the temperature embryos experience during their development determines the sex of the organism. In some turtles, for example, males are produced at lower incubation temperatures than females; this difference in critical temperatures can be as little as 1–2 °C.
 
@@ -121,7 +113,7 @@ In some ferns the default sex is hermaphrodite, but ferns which grow in soil tha
 
 Sexual dimorphism
 
-Male_and_female_pheasant.jpgs are sexually dimorphic in both size and appearance.]]
+s are sexually dimorphic in both size and appearance.]]
 
 Many animals and some plants have differences between the male and female sexes in size and appearance, a phenomenon called sexual dimorphism. Sex differences in humans include, generally, a larger size and more body hair in men; women have breasts, wider hips, and a higher body fat percentage. In other species, the differences may be more extreme, such as differences in coloration or bodyweight.
 

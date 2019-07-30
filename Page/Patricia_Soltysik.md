@@ -10,7 +10,7 @@ She enrolled in the University of California, Berkeley on a state scholarship in
 
 SLA is born
 
-Patricia_Soltysik.jpg On March 5, 1973, Donald DeFreeze escaped from prison and future SLA members Russ Little and Willie Wolfe took him to Soltysik's house because unlike their other associates, Soltysik hadn't visited the prisons.[4] The two became lovers and Soltysik and DeFreeze created the first SLA literature.[5]
+On March 5, 1973, Donald DeFreeze escaped from prison and future SLA members Russ Little and Willie Wolfe took him to Soltysik's house because unlike their other associates, Soltysik hadn't visited the prisons.[4] The two became lovers and Soltysik and DeFreeze created the first SLA literature.[5]
 
 On November 6, 1973 in Oakland, California, two members of the SLA murdered superintendent of schools Dr. Marcus Foster and badly wounded his deputy Robert Blackburn as the men left an Oakland school board meeting. The SLA mistakenly believed Foster supported the introduction of identification cards into Oakland schools, condemning him as "fascist". It was later revealed that Soltysik and Emily Harris were the two who shot Marcus Foster according to Patty Hearst's sworn testimony.[6]
 

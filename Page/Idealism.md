@@ -45,7 +45,7 @@ Wang Yangming, a Ming Chinese neo-Confucian philosopher, official, educationist,
 
 Idealism in Vedic and Buddhist thought
 
-Yajnavalkya_and_Janaka.jpg (possibly 8th century) is one of the earliest exponents of idealism, and is a major figure in the Brihadaranyaka Upanishad.]] There are currents of idealism throughout Indian philosophy, ancient and modern. Hindu idealism often takes the form of monism or non-dualism, espousing the view that a unitary consciousness is the essence or meaning of the phenomenal reality and plurality.
+(possibly 8th century) is one of the earliest exponents of idealism, and is a major figure in the Brihadaranyaka Upanishad.]] There are currents of idealism throughout Indian philosophy, ancient and modern. Hindu idealism often takes the form of monism or non-dualism, espousing the view that a unitary consciousness is the essence or meaning of the phenomenal reality and plurality.
 
 Buddhist idealism on the other hand is more epistemic and is not a metaphysical monism, which Buddhists consider eternalistic and hence not the middle way between extremes espoused by the Buddha.
 
@@ -63,7 +63,7 @@ Modern Vedic Idealism was defended by the influential Indian philosopher Sarvepa
 
 Buddhist philosophy
 
-Kofukuji_Monastery_Hosso_Patriarchs_of_Hokuendo_(Seshin)_(413).jpg, Nara, Japan.]] Buddhist views which can be said to be similar to Idealism appear in Mahayana Buddhist texts such as the Samdhinirmocana sutra, Laṅkāvatāra Sūtra, Dashabhumika sutra, etc.[29] These were later expanded upon by Indian Buddhist philosophers of the influential Yogacara school, like Vasubandhu, Asaṅga, Dharmakīrti, and Śāntarakṣita. Yogacara thought was also promoted in China, by Chinese philosophers and translators like Xuanzang.
+, Nara, Japan.]] Buddhist views which can be said to be similar to Idealism appear in Mahayana Buddhist texts such as the Samdhinirmocana sutra, Laṅkāvatāra Sūtra, Dashabhumika sutra, etc.[29] These were later expanded upon by Indian Buddhist philosophers of the influential Yogacara school, like Vasubandhu, Asaṅga, Dharmakīrti, and Śāntarakṣita. Yogacara thought was also promoted in China, by Chinese philosophers and translators like Xuanzang.
 
 There is a modern scholarly disagreement about whether Yogacara Buddhism can be said to be a form of idealism. As Saam Trivedi notes: "on one side of the debate, writers such as Jay Garfield, Jeffrey Hopkins, Paul Williams, and others maintain the idealism label, while on the other side, Stefan Anacker, Dan Lusthaus, Richard King, Thomas Kochumuttom, Alex Wayman, Janice Dean Willis, and others have argued that Yogacara is not idealist."[30] The central point of issue is what Buddhist philosophers like Vasubandhu who used the term _Vijñapti-matra_ (representation-only or cognition-only) and formulated arguments to refute external objects actually meant to say.
 
@@ -199,7 +199,7 @@ Sir Arthur Eddington, a British astrophysicist of the early 20th century, wrote 
 
   The mind-stuff of the world is, of course, something more general than our individual conscious minds.... The mind-stuff is not spread in space and time; these are part of the cyclic scheme ultimately derived out of it.... It is necessary to keep reminding ourselves that all knowledge of our environment from which the world of physics is constructed, has entered in the form of messages transmitted along the nerves to the seat of consciousness.... Consciousness is not sharply defined, but fades into subconsciousness; and beyond that we must postulate something indefinite but yet continuous with our mental nature.... It is difficult for the matter-of-fact physicist to accept the view that the substratum of everything is of mental character. But no one can deny that mind is the first and most direct thing in our experience, and all else is remote inference."[87]
 
-James_Hopwood_Jeans.jpg wrote that "the Universe begins to look more like a great thought than like a great machine"]] Ian Barbour in his book _Issues in Science and Religion_ (1966), p. 133, cites Arthur Eddington's _The Nature of the Physical World_ (1928) for a text that argues The Heisenberg Uncertainty Principles provides a scientific basis for "the defense of the idea of human freedom" and his _Science and the Unseen World_ (1929) for support of philosophical idealism "the thesis that reality is basically mental".
+wrote that "the Universe begins to look more like a great thought than like a great machine"]] Ian Barbour in his book _Issues in Science and Religion_ (1966), p. 133, cites Arthur Eddington's _The Nature of the Physical World_ (1928) for a text that argues The Heisenberg Uncertainty Principles provides a scientific basis for "the defense of the idea of human freedom" and his _Science and the Unseen World_ (1929) for support of philosophical idealism "the thesis that reality is basically mental".
 
 Sir James Jeans wrote: "The stream of knowledge is heading towards a non-mechanical reality; the Universe begins to look more like a great thought than like a great machine. Mind no longer appears to be an accidental intruder into the realm of matter... we ought rather hail it as the creator and governor of the realm of matter."[88]
 

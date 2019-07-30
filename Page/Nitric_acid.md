@@ -9,11 +9,11 @@ Physical and chemical properties
 
 Commercially available nitric acid is an azeotrope with water at a concentration of 68% HNO₃, which is the ordinary concentrated nitric acid of commerce. This solution has a boiling temperature of 120.5 °C at 1 atm. Two solid hydrates are known; the monohydrate (HNO₃·H₂O or [H₃O]NO₃) and the trihydrate (HNO₃·3H₂O).
 
-Nitric_acid_70_percent.jpg Nitric acid of commercial interest usually consists of the maximum boiling azeotrope of nitric acid and water, which is approximately 68% HNO₃, (approx. 15 molar). The density of concentrated nitric acid is 1.40 g/cm³ (68% conc). This is considered concentrated or technical grade, while reagent grades are specified at 70% HNO₃. An older density scale is occasionally seen, with concentrated nitric acid specified as 42° Baumé.[1]
+Nitric acid of commercial interest usually consists of the maximum boiling azeotrope of nitric acid and water, which is approximately 68% HNO₃, (approx. 15 molar). The density of concentrated nitric acid is 1.40 g/cm³ (68% conc). This is considered concentrated or technical grade, while reagent grades are specified at 70% HNO₃. An older density scale is occasionally seen, with concentrated nitric acid specified as 42° Baumé.[1]
 
 Contamination with nitrogen dioxide
 
-Fuming_nitric_acid_40ml.jpg Nitric acid is subject to thermal or light decomposition and for this reason it was often stored in brown glass bottles:
+Nitric acid is subject to thermal or light decomposition and for this reason it was often stored in brown glass bottles:
 
     4 HNO₃ → 2 H₂O + 4 NO₂ + O₂
 
@@ -35,7 +35,7 @@ White fuming nitric acid, pure nitric acid or WFNA, is very close to anhydrous n
 
 Structure and bonding
 
-Nitric-acid-resonance-A.png The molecule is planar. Two of the N–O bonds are equivalent and relatively short (this can be explained by theories of resonance; the canonical forms show double-bond character in these two bonds, causing them to be shorter than typical N–O bonds), and the third N–O bond is elongated because the O atom is also attached to a proton.[2][3]
+The molecule is planar. Two of the N–O bonds are equivalent and relatively short (this can be explained by theories of resonance; the canonical forms show double-bond character in these two bonds, causing them to be shorter than typical N–O bonds), and the third N–O bond is elongated because the O atom is also attached to a proton.[2][3]
 
 
 Reactions
@@ -146,8 +146,6 @@ Dilute nitric acid may be concentrated by distillation up to 68% acid, which is 
 
 
 Uses
-
-Nitric_acid_lab.jpg
 
 The main industrial use of nitric acid is for the production of fertilizers. Nitric acid is neutralized with ammonia to give ammonium nitrate. This application consumes 75–80% of the 26 million tonnes produced annually (1987). The other main applications are for the production of explosives, nylon precursors, and specialty organic compounds.[16]
 

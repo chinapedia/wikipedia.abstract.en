@@ -1,4 +1,4 @@
-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg is a main-sequence star, and thus generates its energy by nuclear fusion of hydrogen nuclei into helium. In its core, the Sun fuses 620 million metric tons of hydrogen each second.]] Binding_energy_curve_-_common_isotopes.svg curve. The formation of nuclei with masses up to Iron-56 releases energy, as illustrated above. ]] In nuclear chemistry, NUCLEAR FUSION is a reaction in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles (neutrons or protons). The difference in mass between the reactants and products is manifested as either the release or absorption of energy. This difference in mass arises due to the difference in atomic "binding energy" between the atomic nuclei before and after the reaction. Fusion is the process that powers active or "main sequence" stars, or other high magnitude stars.
+is a main-sequence star, and thus generates its energy by nuclear fusion of hydrogen nuclei into helium. In its core, the Sun fuses 620 million metric tons of hydrogen each second.]] curve. The formation of nuclei with masses up to Iron-56 releases energy, as illustrated above. ]] In nuclear chemistry, NUCLEAR FUSION is a reaction in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles (neutrons or protons). The difference in mass between the reactants and products is manifested as either the release or absorption of energy. This difference in mass arises due to the difference in atomic "binding energy" between the atomic nuclei before and after the reaction. Fusion is the process that powers active or "main sequence" stars, or other high magnitude stars.
 
 A fusion process that produces a nucleus lighter than iron-56 or nickel-62 will generally yield a net energy release. These elements have the smallest mass per nucleon and the largest binding energy per nucleon, respectively. Fusion of light elements toward these releases energy (an exothermic process), while a fusion producing nuclei heavier than these elements will result in energy retained by the resulting nucleons, and the resulting reaction is endothermic. The opposite is true for the reverse process, nuclear fission. This means that the lighter elements, such as hydrogen and helium, are in general more fusible; while the heavier elements, such as uranium, thorium and plutonium, are more fissionable. The extreme astrophysical event of a supernova can produce enough energy to fuse nuclei into elements heavier than iron.
 
@@ -9,7 +9,7 @@ Research into developing controlled fusion inside fusion reactors has been ongoi
 
 Process
 
-Deuterium-tritium_fusion.svg with tritium creating helium-4, freeing a neutron, and releasing 17.59 MeV as kinetic energy of the products while a corresponding amount of mass disappears, in agreement with _kinetic E_ = Δ_mc_², where _Δ_m is the decrease in the total rest mass of particles.[1]]] The release of energy with the fusion of light elements is due to the interplay of two opposing forces: the nuclear force, which combines together protons and neutrons, and the Coulomb force, which causes protons to repel each other. Protons are positively charged and repel each other by the Coulomb force, but they can nonetheless stick together, demonstrating the existence of another, short-range, force referred to as nuclear attraction.[2] Light nuclei (or nuclei smaller than iron and nickel) are sufficiently small and proton-poor allowing the nuclear force to overcome repulsion. This is because the nucleus is sufficiently small that all nucleons feel the short-range attractive force at least as strongly as they feel the infinite-range Coulomb repulsion. Building up nuclei from lighter nuclei by fusion releases the extra energy from the net attraction of particles. For larger nuclei, however, no energy is released, since the nuclear force is short-range and cannot continue to act across longer nuclear length scales. Thus, energy is not released with the fusion of such nuclei; instead, energy is required as input for such processes.
+with tritium creating helium-4, freeing a neutron, and releasing 17.59 MeV as kinetic energy of the products while a corresponding amount of mass disappears, in agreement with _kinetic E_ = Δ_mc_², where _Δ_m is the decrease in the total rest mass of particles.[1]]] The release of energy with the fusion of light elements is due to the interplay of two opposing forces: the nuclear force, which combines together protons and neutrons, and the Coulomb force, which causes protons to repel each other. Protons are positively charged and repel each other by the Coulomb force, but they can nonetheless stick together, demonstrating the existence of another, short-range, force referred to as nuclear attraction.[2] Light nuclei (or nuclei smaller than iron and nickel) are sufficiently small and proton-poor allowing the nuclear force to overcome repulsion. This is because the nucleus is sufficiently small that all nucleons feel the short-range attractive force at least as strongly as they feel the infinite-range Coulomb repulsion. Building up nuclei from lighter nuclei by fusion releases the extra energy from the net attraction of particles. For larger nuclei, however, no energy is released, since the nuclear force is short-range and cannot continue to act across longer nuclear length scales. Thus, energy is not released with the fusion of such nuclei; instead, energy is required as input for such processes.
 
 Fusion powers stars and produces virtually all elements in a process called nucleosynthesis. The Sun is a main-sequence star, and, as such, generates its energy by nuclear fusion of hydrogen nuclei into helium. In its core, the Sun fuses 620 million metric tons of hydrogen and makes 606 million metric tons of helium each second. The fusion of lighter elements in stars releases energy and the mass that always accompanies it. For example, in the fusion of two hydrogen nuclei to form helium, 0.7% of the mass is carried away in the form of kinetic energy of an alpha particle or other forms of energy, such as electromagnetic radiation.[3]
 
@@ -26,9 +26,9 @@ The US National Ignition Facility, which uses laser-driven inertial confinement 
 
 Nuclear fusion in stars
 
-FusionintheSun.svg, branch I, dominates in stars the size of the Sun or smaller.]]
+, branch I, dominates in stars the size of the Sun or smaller.]]
 
-CNO_Cycle.svg dominates in stars heavier than the Sun.]]
+dominates in stars heavier than the Sun.]]
 
 An important fusion process is the stellar nucleosynthesis that powers stars and the Sun. In the 20th century, it was recognized that the energy released from nuclear fusion reactions accounted for the longevity of stellar heat and light. The fusion of nuclei in a star, starting from its initial hydrogen and helium abundance, provides that energy and synthesizes new nuclei as a byproduct of the fusion process. Different reaction chains are involved, depending on the mass of the star (and therefore the pressure and temperature in its core).
 
@@ -57,7 +57,7 @@ When a nucleon such as a proton or neutron is added to a nucleus, the nuclear fo
 
 The electrostatic force, on the other hand, is an inverse-square force, so a proton added to a nucleus will feel an electrostatic repulsion from _all_ the other protons in the nucleus. The electrostatic energy per nucleon due to the electrostatic force thus increases without limit as nuclei atomic number grows.
 
-Nuclear_fusion_forces_diagram.svg between the positively charged nuclei is repulsive, but when the separation is small enough, the quantum effect will tunnel through the wall. Therefore, the prerequisite for fusion is that the two nuclei be brought close enough together for a long enough time for quantum tunnelling to act.]]
+between the positively charged nuclei is repulsive, but when the separation is small enough, the quantum effect will tunnel through the wall. Therefore, the prerequisite for fusion is that the two nuclei be brought close enough together for a long enough time for quantum tunnelling to act.]]
 
 The net result of the opposing electrostatic and strong nuclear forces is that the binding energy per nucleon generally increases with increasing size, up to the elements iron and nickel, and then decreases for heavier nuclei. Eventually, the binding energy becomes negative and very heavy nuclei (all with more than 208 nucleons, corresponding to a diameter of about 6 nucleons) are not stable. The four most tightly bound nuclei, in decreasing order of binding energy per nucleon, are , , , and .[10] Even though the nickel isotope, , is more stable, the iron isotope is an order of magnitude more common. This is due to the fact that there is no easy way for stars to create through the alpha process.
 
@@ -68,8 +68,6 @@ The situation is similar if two nuclei are brought together. As they approach ea
 The Coulomb barrier is smallest for isotopes of hydrogen, as their nuclei contain only a single positive charge. A diproton is not stable, so neutrons must also be involved, ideally in such a way that a helium nucleus, with its extremely tight binding, is one of the products.
 
 Using deuterium-tritium fuel, the resulting energy barrier is about 0.1 MeV. In comparison, the energy needed to remove an electron from hydrogen is 13.6 eV, about 7500 times less energy. The (intermediate) result of the fusion is an unstable ⁵He nucleus, which immediately ejects a neutron with 14.1 MeV. The recoil energy of the remaining ⁴He nucleus is 3.5 MeV, so the total energy liberated is 17.6 MeV. This is many times more than what was needed to overcome the energy barrier.
-
-fusion_rxnrate.svg
 
 The reaction CROSS SECTION σ is a measure of the probability of a fusion reaction as a function of the relative velocity of the two reactant nuclei. If the reactants have a distribution of velocities, e.g. a thermal distribution, then it is useful to perform an average over the distributions of the product of cross section and velocity. This average is called the 'reactivity', denoted . The reaction rate (fusions per volume per time) is times the product of the reactant number densities:
 
@@ -110,7 +108,7 @@ Muon-catalyzed fusion is a fusion process that occurs at ordinary temperatures. 
 
 Other principles
 
-TCV_vue_gen.jpg'', research fusion reactor, at the École Polytechnique Fédérale de Lausanne (Switzerland).]]
+'', research fusion reactor, at the École Polytechnique Fédérale de Lausanne (Switzerland).]]
 
 Some other confinement principles have been investigated.
 

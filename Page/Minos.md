@@ -1,4 +1,4 @@
-250 px's illustration of King Minos for Dante Alighieri's _Inferno_]]
+'s illustration of King Minos for Dante Alighieri's _Inferno_]]
 
 In Greek mythology, MINOS (; , _Minōs_) was the first King of Crete, son of Zeus and Europa. Every nine years, he made King Aegeus pick seven young boys and seven young girls to be sent to Daedalus's creation, the labyrinth, to be eaten by the Minotaur. After his death, Minos became a judge of the dead in the underworld.
 
@@ -24,7 +24,7 @@ Some scholars see a connection between _Minos_ and the names of other ancient fo
 
 Literary Minos
 
-Minos_scylla.jpg falling in love with Minos]]
+falling in love with Minos]]
 
 Minos appears in Greek literature as the king of Knossos as early as Homer's _Iliad_ and _Odyssey_.[8] Thucydides tells us Minos was the most ancient man known to build a navy.[9] He reigned over Crete and the islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instruction from Zeus in the legislation which he gave to the island. He was the author of the Cretan constitution and the founder of its naval supremacy.[10][11]
 
@@ -40,7 +40,7 @@ Lycastus had a son named Minos, after his grandfather, born by Lycastus' wife, I
 
 Possible historical element
 
-Palazzo_Minosse7.jpg of Minos]]
+of Minos]]
 
 Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan objects appear at Mycenaean sites.
 
@@ -82,7 +82,7 @@ Minos justified his accession as king and prayed to Poseidon for a sign. Poseido
 
 Theseus
 
-Amphora_with_Theseus_slaying_the_Minotaur.jpg Minos' son Androgeus won every game in a contest hosted by Aegeas of Athens. Alternatively, the other contestants were jealous of Androgeus and killed him. Minos was angry and declared war on Athens. He offered the Athenians peace if they sent Minos seven young men and seven virgin maidens to feed the Minotaur every year (which corresponded directly to the Minoans' meticulous records of lunar alignments - a full moon falls on the equinoxes once every eight years). This continued until Theseus killed the Minotaur with the help of Ariadne, Minos' lovestruck daughter.
+Minos' son Androgeus won every game in a contest hosted by Aegeas of Athens. Alternatively, the other contestants were jealous of Androgeus and killed him. Minos was angry and declared war on Athens. He offered the Athenians peace if they sent Minos seven young men and seven virgin maidens to feed the Minotaur every year (which corresponded directly to the Minoans' meticulous records of lunar alignments - a full moon falls on the equinoxes once every eight years). This continued until Theseus killed the Minotaur with the help of Ariadne, Minos' lovestruck daughter.
 
 Nisus
 
@@ -97,15 +97,13 @@ After his death, Minos became a judge of the dead in Hades together with Aeacus 
 
 Minos in art
 
-Michelangelo,_giudizio_universale,_dettagli_50.jpg
-
 On Cretan coins, Minos is represented as bearded, wearing a diadem, curly-haired, haughty and dignified, like the traditional portraits of his reputed father, Zeus. On painted vases and sarcophagus bas-reliefs he frequently occurs with Aeacus and Rhadamanthus as judges of the underworld and in connection with the Minotaur and Theseus.
 
 In Michelangelo's famous fresco, _The Last Judgment_ (located in the Sistine Chapel), Minos appears as judge of the underworld, surrounded by a crowd of devils. With his tail coiled around him and two donkey ears (symbol of stupidity), Minos judges the damned as they are brought down to hell (see _Inferno_, Second Circle).
 
 In poetry
 
-Illustrations_to_Dante's_Divine_Comedy_object_9_Butlin_812-9Minos.jpg as part of his illustrations of Dante's _Divine Comedy_. The original object for this image is held by the National Gallery of Victoria.[35]]]
+as part of his illustrations of Dante's _Divine Comedy_. The original object for this image is held by the National Gallery of Victoria.[35]]]
 
 In the _Aeneid_ of Virgil, Minos was the judge of those who had been given the death penalty on a false charge - Minos sits with a gigantic urn, and decides whether a soul should go to Elysium or Tartarus with the help of a silent jury. Radamanthus, his brother, is a judge at Tartarus who decides upon suitable punishments for sinners there.[36]
 

@@ -11,7 +11,7 @@ In 1956, Mieczysław G. Bekker published two books on land locomotion.[1] At the
 
 Early lunar mobility studies
 
-Moon_Buggy_Ap16-KSC-71PC-777.jpg astronauts in the 1-g trainer]]
+astronauts in the 1-g trainer]]
 
 In the February 1964 issue of _Popular Science_, von Braun, then director of NASA's Marshall Space Flight Center (MSFC), discussed the need for a lunar surface vehicle, and revealed that studies had been underway at Marshall in conjunction with Lockheed, Bendix, Boeing, General Motors, Brown Engineering, Grumman, and Bell Aerospace.[2]
 
@@ -23,7 +23,7 @@ In early 1963, NASA selected Marshall for studies in an Apollo Logistics Support
 
 Even as the Bendix and Boeing studies were underway, Marshall was examining a less ambitious surface exploration activity, the LSSM. This would be composed of a fixed, habitable shelter–laboratory with a small lunar-traversing vehicle that could either carry one man or be remotely controlled. This mission would still require a dual launch with the moon vehicle carried on the "lunar truck”. Marshall's Propulsion and Vehicle Engineering (P&VE) lab contracted with Hayes International to made a preliminary study of the shelter and its related vehicle.[7] Because of the potential need for an enclosed vehicle for enlarged future lunar explorations, those design efforts continued for some time, and resulted in several full-scale test vehicles.
 
-Driving_Distances_on_Mars_and_the_Moon.png and Mars]]
+and Mars]]
 
 With pressure from Congress to hold down Apollo costs, Saturn V production was reduced, allowing only a single launch per mission. Any roving vehicle would have to fit on the same lunar module as the astronauts. In November 1964, two-rocket models were put on indefinite hold, but Bendix and Boeing were given study contracts for small rovers. The name of the lunar excursion module was changed to simply the lunar module, indicating that the capability for powered "excursions" away from a lunar-lander base did not yet exist. There could be no mobile lab — the astronauts would work out of the LM. Marshall continued to also examine uncrewed robotic rovers that could be controlled from the Earth.
 
@@ -35,7 +35,7 @@ In early 1966, Brown's vehicle became available for examining human factors and 
 
 Lunar Roving Vehicle Project
 
-Apollo_16_LM_Orion.jpg works at the LRV near the LM _Orion_ on Apollo 16 in April 1972.]]
+works at the LRV near the LM _Orion_ on Apollo 16 in April 1972.]]
 
 During 1965 and 1967, the Summer Conference on Lunar Exploration and Science brought together leading scientists to assess NASA's planning for exploring the Moon and to make recommendations. One of their findings was that the LSSM was critical to a successful program and should be given major attention. At Marshall, von Braun established a Lunar Roving Task Team, and in May 1969, NASA approved the Manned Lunar Rover Vehicle Program as a Marshall hardware development. Saverio F. "Sonny" Morea was named Lunar Roving Vehicle Project Manager.[9]
 
@@ -43,7 +43,7 @@ On 11 July 1969, just before the successful Moon landing of Apollo 11, a request
 
 The first cost-plus-incentive-fee contract to Boeing was for $19,000,000 and called for delivery of the first LRV by 1 April 1971. Cost overruns, however, led to a final cost of $38,000,000, which was about the same as NASA's original estimate. Four lunar rovers were built, one each for Apollo missions 15, 16, and 17; and one used for spare parts after the cancellation of further Apollo missions. Other LRV models were built: a static model to assist with human factors design; an engineering model to design and integrate the subsystems; two one-sixth gravity models for testing the deployment mechanism; a one-gravity trainer to give the astronauts instruction in the operation of the rover and allow them to practice driving it; a mass model to test the effect of the rover on the LM structure, balance, and handling; a vibration test unit to study the LRV's durability and handling of launch stresses; and a qualification test unit to study integration of all LRV subsystems. A paper by Saverio Morea gives details of the LRV system and its development.[13]
 
-Apollo15LunarRover2.jpg – Commander David Scott drives the Rover near the LM _Falcon_]]
+– Commander David Scott drives the Rover near the LM _Falcon_]]
 
 LRVs were used for greater surface mobility during the Apollo J-class missions, Apollo 15, Apollo 16, and Apollo 17. The rover was first used on 31 July 1971, during the Apollo 15 mission. This greatly expanded the range of the lunar explorers. Previous teams of astronauts were restricted to short walking distances around the landing site due to the bulky space suit equipment required to sustain life in the lunar environment. The range, however, was operationally restricted to remain within walking distance of the lunar module, in case the rover broke down at any point.[14] The rovers were designed with a top speed of about , although Eugene Cernan recorded a maximum speed of , giving him the (unofficial) lunar land-speed record.[15]
 
@@ -51,7 +51,7 @@ The LRV was developed in only 17 months and performed all its functions on the M
 
 The LRVs experienced some minor problems. The rear fender extension on the Apollo 16 LRV was lost during the mission's second extra-vehicular activity (EVA) at station 8 when John Young bumped into it while going to assist Charles Duke. The dust thrown up from the wheel covered the crew, the console, and the communications equipment. High battery temperatures and resulting high power consumption ensued. No repair attempt was mentioned.
 
-The fender extension on the Apollo 17 LRV broke when accidentally bumped by Eugene Cernan with a hammer handle. Cernan and Schmitt taped the extension back in place, but due to the dusty surfaces, the tape did not adhere and the extension was lost after about one hour of driving, causing the astronauts to be covered with dust. For their second EVA, a replacement "fender" was made with some EVA maps, duct tape, and a pair of clamps from inside the Lunar Module that were nominally intended for the moveable overhead light. This repair was later undone so that the clamps could be taken inside for the return launch. The maps were brought back to Earth and are now on display at the National Air and Space Museum. The abrasion from the dust is evident on some portions of the makeshift fender.[17][18] Moon_Landing_1971_Issue-8c.jpg Decade Issue of 1971
+The fender extension on the Apollo 17 LRV broke when accidentally bumped by Eugene Cernan with a hammer handle. Cernan and Schmitt taped the extension back in place, but due to the dusty surfaces, the tape did not adhere and the extension was lost after about one hour of driving, causing the astronauts to be covered with dust. For their second EVA, a replacement "fender" was made with some EVA maps, duct tape, and a pair of clamps from inside the Lunar Module that were nominally intended for the moveable overhead light. This repair was later undone so that the clamps could be taken inside for the return launch. The maps were brought back to Earth and are now on display at the National Air and Space Museum. The abrasion from the dust is evident on some portions of the makeshift fender.[17][18] Decade Issue of 1971
 
 ]]
 
@@ -62,7 +62,7 @@ NASA's rovers, left behind, are among the artificial objects on the Moon, as are
 
 Features and specifications
 
-NASA_Apollo_17_Lunar_Roving_Vehicle.jpg test drives the Apollo 17 lunar rover shortly after unloading it from the LM _Challenger_]]
+test drives the Apollo 17 lunar rover shortly after unloading it from the LM _Challenger_]]
 
 The Apollo Lunar Roving Vehicle was an electric-powered vehicle designed to operate in the low-gravity vacuum of the Moon and to be capable of traversing the lunar surface, allowing the Apollo astronauts to extend the range of their surface extravehicular activities. Three LRVs were used on the Moon, one on Apollo 15 by astronauts David Scott and Jim Irwin, one on Apollo 16 by John Young and Charles Duke, and one on Apollo 17 by Eugene Cernan and Harrison Schmitt. The mission commander served as the driver, occupying the left-hand seat of each LRV. Features are available in papers by Morea,[19] Baker,[20] and Kudish.[21]
 
@@ -72,8 +72,6 @@ The Lunar Roving Vehicle had a mass of , and was designed to hold a payload of .
 
 Wheels and power
 
-Lunar_Roving_Vehicle_wheel_close-up.JPG
-
 The wheels were designed and manufactured by General Motors Defense Research Laboratories in Santa Barbara, California.[23] Ferenc Pavlics was given special recognition by NASA for developing the "resilient wheel".[24] They consisted of a spun aluminum hub and a diameter, wide tire made of zinc-coated woven diameter steel strands attached to the rim and discs of formed aluminum. Titanium chevrons covered 50% of the contact area to provide traction. Inside the tire was a diameter bump stop frame to protect the hub. Dust guards were mounted above the wheels. Each wheel had its own electric drive made by Delco, a direct current (DC) series-wound motor capable of at 10,000 rpm, attached to the wheel via an 80:1 harmonic drive, and a mechanical brake unit. Each wheel could free-wheel in case of drive failure.
 
 Maneuvering capability was provided through the use of front and rear steering motors. Each series-wound DC steering motor was capable of . The front and rear wheels could pivot in opposite directions to achieve a tight turning radius of , or could be decoupled so only front or rear would be used for steering.
@@ -82,7 +80,7 @@ Power was provided by two 36-volt silver-zinc potassium hydroxide non-rechargeab
 
 Control and navigation
 
-Lunar_Rover_diagram.png James_Webb_lunar_drivers_license.jpg]]
+]]
 
 A T-shaped hand controller situated between the two seats controlled the four drive motors, two steering motors, and brakes. Moving the stick forward powered the LRV forward, left and right turned the vehicle left or right, and pulling backwards activated the brakes. Activating a switch on the handle before pulling back would put the LRV into reverse. Pulling the handle all the way back activated a parking brake. The control and display modules were situated in front of the handle and gave information on the speed, heading, pitch, and power and temperature levels.
 
@@ -107,17 +105,17 @@ An operational constraint on the use of the LRV was that the astronauts must be 
 
 Deployment
 
-Apollo_15_Lunar_Roving_Vehicle_deployment.webm Astronaut deployment of the LRV from the LM's open Quadrant 1 bay was achieved with a system of pulleys and braked reels using ropes and cloth tapes. The rover was folded and stored in the bay with the underside of the chassis facing out. One astronaut would climb the egress ladder on the LM and release the rover, which would then be slowly tilted out by the second astronaut on the ground through the use of reels and tapes. As the rover was let down from the bay, most of the deployment was automatic. The rear wheels folded out and locked in place. When they touched the ground, the front of the rover could be unfolded, the wheels deployed, and the entire frame let down to the surface by pulleys.
+Astronaut deployment of the LRV from the LM's open Quadrant 1 bay was achieved with a system of pulleys and braked reels using ropes and cloth tapes. The rover was folded and stored in the bay with the underside of the chassis facing out. One astronaut would climb the egress ladder on the LM and release the rover, which would then be slowly tilted out by the second astronaut on the ground through the use of reels and tapes. As the rover was let down from the bay, most of the deployment was automatic. The rear wheels folded out and locked in place. When they touched the ground, the front of the rover could be unfolded, the wheels deployed, and the entire frame let down to the surface by pulleys.
 
 The rover components locked into place upon opening. Cabling, pins, and tripods would then be removed and the seats and footrests raised. After switching on all the electronics, the vehicle was ready to back away from the LM.[27]
 
 Locations
 
-584392main_M168000580LR_ap17_area.jpg image of Apollo 17 site, LRV is in the lower right]]
+image of Apollo 17 site, LRV is in the lower right]]
 
 Four flight-ready LRVs were manufactured, as well as several others for testing and training.[28] Three were transported to and left on the Moon via the Apollo 15, 16, and 17 missions, with the fourth rover used for spare parts on the first three following the cancellation of Apollo 18. Since only the upper stages of the lunar excursion modules could return to lunar orbit from the surface, the vehicles, along with the lower stages were abandoned. As a result, the only lunar rovers on display are test vehicles, trainers, and mock-ups.[29] The rover used on Apollo 15 was left at Hadley-Apennine ( ). The rover used on Apollo 16 was left at Descartes ( ). The rover used on Apollo 17 was left at Taurus-Littrow ( ) and was seen by the Lunar Reconnaissance Orbiter during passes in 2009 and 2011.
 
-Epcot_lunar_rover.jpg]] Several rovers were created for testing, training, or validation purposes. The engineering mockup is on display at the Museum of Flight in Seattle, Washington. The Qualification Test Unit is on display at the National Air and Space Museum in Washington, D.C. The rover used for vibration testing is on display in the Davidson Saturn V Center at the U.S. Space & Rocket Center in Huntsville, Alabama. Additional test units are on display at the Johnson Space Center in Houston, Texas, and the Kennedy Space Center Visitors Complex in Cape Canaveral, Florida.[30] Replicas of rovers are on display at the National Museum of Naval Aviation in Pensacola, Florida, the Evergreen Aviation & Space Museum in McMinnville, Oregon, and the Kansas Cosmosphere and Space Center in Hutchinson, Kansas. A replica on loan from the Smithsonian Institution is on display at the Mission: Space attraction at Epcot at the Walt Disney World Resort near Orlando, Florida.[31][32]
+]] Several rovers were created for testing, training, or validation purposes. The engineering mockup is on display at the Museum of Flight in Seattle, Washington. The Qualification Test Unit is on display at the National Air and Space Museum in Washington, D.C. The rover used for vibration testing is on display in the Davidson Saturn V Center at the U.S. Space & Rocket Center in Huntsville, Alabama. Additional test units are on display at the Johnson Space Center in Houston, Texas, and the Kennedy Space Center Visitors Complex in Cape Canaveral, Florida.[30] Replicas of rovers are on display at the National Museum of Naval Aviation in Pensacola, Florida, the Evergreen Aviation & Space Museum in McMinnville, Oregon, and the Kansas Cosmosphere and Space Center in Hutchinson, Kansas. A replica on loan from the Smithsonian Institution is on display at the Mission: Space attraction at Epcot at the Walt Disney World Resort near Orlando, Florida.[31][32]
 
 
 Media

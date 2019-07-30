@@ -1,4 +1,4 @@
-OriginalBroadwayCast-1.jpg _RENT_ is a rock musical with music, lyrics, and book by Jonathan Larson,[1] loosely based on Giacomo Puccini's opera _La Bohème_. It tells the story of a group of impoverished young artists struggling to survive and create a life in Lower Manhattan's East Village in the thriving days of Bohemian Alphabet City , under the shadow of HIV/AIDS.
+_RENT_ is a rock musical with music, lyrics, and book by Jonathan Larson,[1] loosely based on Giacomo Puccini's opera _La Bohème_. It tells the story of a group of impoverished young artists struggling to survive and create a life in Lower Manhattan's East Village in the thriving days of Bohemian Alphabet City , under the shadow of HIV/AIDS.
 
 The musical was first seen in a workshop production at New York Theatre Workshop in 1993. This same Off-Broadway theatre was also the musical's initial home following its official 1996 opening. The show's creator, Jonathan Larson, died suddenly of an aortic dissection, believed to have been caused by undiagnosed Marfan syndrome, the night before the Off-Broadway premiere. The musical moved to Broadway's larger Nederlander Theatre on April 29, 1996.[2]
 
@@ -57,8 +57,6 @@ The line, "I'm more of a man than you'll ever be... and more of a woman than you
 
 The earliest concepts of the characters differ largely from the finished products. Everyone except Mark had AIDS, including Maureen and Joanne; Maureen was a serious, angry character who played off Oedipus in her performance piece instead of Hey Diddle Diddle; Mark was, at one point, a painter instead of a filmmaker; Roger was named Ralph and wrote musical plays; Angel was a jazz philosopher, while Collins was a street performer; Angel and Collins were both originally described as Caucasian; and Benny had a somewhat enlarged role in the story, taking part in songs like "Real Estate", which was later cut.[19]
 
-WSTM_Team_Dustizeff_0098.jpg
-
 Many actual locations and events are included in, or are the inspiration for, elements of the musical. Life Café, where the "La Vie Bohème" numbers are set, was an actual restaurant (closed 2013) on 10th Street and Avenue B in the East Village of New York City.[20][21] The riot at the end of the first act is based on the East Village riot in 1988 that arose as a result of the city-imposed curfew in Tompkins Square Park.[22]
 
 "Will I?", a song which takes place during a Life Support meeting and expresses the pain and fear of living a life with AIDS, was inspired by a real event. Larson attended a meeting of Friends in Deed, an organization that helps people deal with illness and grief, much like Life Support. After that first time, Larson attended the meetings regularly. During one meeting, a man stood up and said that he was not afraid of dying. He did say, however, that there was one thing of which he was afraid: Would he lose his dignity? From this question stemmed the first line of this song. The people present at the Life Support meeting in the show, such as Gordon, Ali and Pam, carry the names of Larson's friends who died. In the Broadway show, the names of the characters in that particular scene (they introduce themselves) were changed nightly to honor the friends of the cast members who were living with or had died from AIDS.[23]
@@ -75,8 +73,6 @@ During the trial, Thomson could not recall the lyrics to the songs that she alle
 
 Synopsis
 
-Rentt.JPG
-
 Act I
 
 On Christmas Eve in Manhattan's East Village, two roommates—Mark, a filmmaker, and Roger, a rock musician—struggle to stay warm and produce their art ("Tune Up #1"). Mark's mother leaves him a voicemail wishing him a merry Christmas and trying to comfort him since his ex-girlfriend Maureen dumped him ("Voice Mail #1"). Their friend Tom Collins, a gay anarchist professor at New York University, calls and plans to surprise them at their apartment, but is mugged before entering. At the same time, Mark and Roger's former roommate and friend Benny, who has since become their harsh new landlord, has reneged on an earlier agreement and now demands last year's rent, before shutting down their electrical power ("Tune Up #2"). However, Mark and Roger rebel and resolve not to pay the rent they cannot pay and which they were promised wouldn't be a problem ("Rent"). Meanwhile, Angel, a cross-dressing street drummer (presently out of drag), finds Collins wounded in an alley and tends to him ("You Okay Honey?") - the two are immediately attracted to each other, each learning that the other is HIV positive. It is revealed that Roger too has HIV which he contracted from his last girlfriend, who committed suicide after learning of her diagnosis, which has caused Roger to fall into depression. Mark leaves the loft while Roger stays home ("Tune Up #3"), trying to compose on his guitar without success; he wishes desperately to write one last song to be remembered by before he dies ("One Song Glory"). An exotic dancer, junkie, and neighbor, Mimi, shows up at their apartment asking for help with lighting her candle, flirting with Roger in the process; however, he is clearly hesitant to return her affections ("Light My Candle"). Meanwhile, Joanne, a lawyer and Maureen's girlfriend, receives a voicemail from her parents ("Voice Mail #2").
@@ -86,8 +82,6 @@ At last, the missing Collins enters the apartment, presenting Angel, who is now 
 Collins, Mark, and Angel protect a homeless woman from police harassment, but she chastises them ("On the Street"). To lighten the mood, Collins talks about his dream of escaping New York City to open a restaurant in Santa Fe ("Santa Fe"). Soon, Mark leaves to check up on Roger and while alone, Collins and Angel confess their love for each other ("I'll Cover You"). Joanne hectically prepares for Maureen's show, trying to balance all of the people calling her at once ("We're Okay"). Before the performance, Roger apologizes to Mimi, inviting her to come to the protest and the dinner party his friends are having afterwards. At the same time, police, vendors, and homeless people prepare for the protest ("Christmas Bells"). Maureen begins her avant-garde, if not over the top, performance based on "Hey Diddle Diddle" ("Over the Moon"). At the post-show party at the Life Café, Benny arrives, criticizing the protest and the group's bohemian lifestyle. In response, Mark and all the café's bohemian patrons defiantly rise up to celebrate their way of living ("La Vie Bohème"). Mimi and Roger each discover that the other is HIV-positive and hesitantly decide to move forward with their relationship ("I Should Tell You"). Joanne explains that Mark and Roger's building has been padlocked and a riot has broken out; Roger and Mimi, unaware, share their first kiss. The celebration continues ("La Vie Bohème B").
 
 Act II
-
-Cast_of_Rent_performing_"Seasons_of_Love"_at_Broadway_on_Broadway,_2005.jpg
 
 The cast lines up to sing together before the plot of the second act begins, affirming that one should measure life "in love" ("Seasons of Love"). Afterwards, Mark and Roger gather to break back into their locked apartment with their friends ("Happy New Year"). A new voicemail reveals that Mark's footage of the riot has earned him a job offering at a tabloid news company called Buzzline ("Voice Mail #3"). The others finally break through the door just as Benny arrives, saying he wants to call a truce and revealing that Mimi––who used to be his girlfriend––convinced him to change his mind. Mimi denies rekindling her relationship with Benny, but Roger is upset, and although they apologize to each other, Mimi goes to her drug dealer for a fix ("Happy New Year B").
 
@@ -195,7 +189,7 @@ Billy Aronson said, "For the record, although I was ambivalent about Jonathan’
 
 Cultural impact and legacy
 
-Rent_-_Broadway_2004.png as Mimi at Nederland in 2004.]] The song "Seasons of Love" became a successful pop song and often is performed on its own. Because of its connection to New Years and looking back at times past, it is sometimes performed at graduations or school holiday programs.
+as Mimi at Nederland in 2004.]] The song "Seasons of Love" became a successful pop song and often is performed on its own. Because of its connection to New Years and looking back at times past, it is sometimes performed at graduations or school holiday programs.
 
 RENT-heads
 

@@ -19,7 +19,7 @@ On 21 June 1888, Jerome married Georgina Elizabeth Henrietta Stanley Marris ("Et
 
 _Three Men in a Boat_ and later career
 
-jerome-k-jerome.jpg Jerome sat down to write _Three Men in a Boat_ as soon as the couple returned from their honeymoon. In the novel, his wife was replaced by his longtime friends George Wingrave (George) and Carl Hentschel (Harris). This allowed him to create comic (and non-sentimental) situations which were nonetheless intertwined with the history of the Thames region. The book, published in 1889, became an instant success and has never been out of print. Its popularity was such that the number of registered Thames boats went up fifty percent in the year following its publication, and it contributed significantly to the Thames becoming a tourist attraction. In its first twenty years alone, the book sold over a million copies worldwide. It has been adapted to films, TV and radio shows, stage plays, and a musical. Its writing style influenced many humorists and satirists in England and elsewhere.
+Jerome sat down to write _Three Men in a Boat_ as soon as the couple returned from their honeymoon. In the novel, his wife was replaced by his longtime friends George Wingrave (George) and Carl Hentschel (Harris). This allowed him to create comic (and non-sentimental) situations which were nonetheless intertwined with the history of the Thames region. The book, published in 1889, became an instant success and has never been out of print. Its popularity was such that the number of registered Thames boats went up fifty percent in the year following its publication, and it contributed significantly to the Thames becoming a tourist attraction. In its first twenty years alone, the book sold over a million copies worldwide. It has been adapted to films, TV and radio shows, stage plays, and a musical. Its writing style influenced many humorists and satirists in England and elsewhere.
 
 With the financial security that the sales of the book provided, Jerome was able to dedicate all of his time to writing. He wrote a number of plays, essays, and novels, but was never able to recapture the success of _Three Men in a Boat_. In 1892, he was chosen by Robert Barr to edit _The Idler_ (over Rudyard Kipling). The magazine was an illustrated satirical monthly catering to gentlemen (who, following the theme of the publication, appreciated idleness). In 1893, he founded _To-Day_, but had to withdraw from both publications because of financial difficulties and a libel suit.
 
@@ -28,7 +28,7 @@ In 1898, a short stay in Germany inspired _Three Men on the Bummel_, the sequel 
 
 World War I and last years
 
-Jerome_Klapka_Jerome_-_geograph.org.uk_-_1604687.jpg (2009)]] Jerome volunteered to serve his country at the outbreak of the war, but, being 56 years old, was rejected by the British Army. Eager to serve in some capacity, he volunteered as an ambulance driver for the French Army.
+(2009)]] Jerome volunteered to serve his country at the outbreak of the war, but, being 56 years old, was rejected by the British Army. Eager to serve in some capacity, he volunteered as an ambulance driver for the French Army.
 
 In 1926, Jerome published his autobiography, _My Life and Times_. Shortly afterwards, the Borough of Walsall conferred on him the title Freeman of the Borough. During these last years, Jerome spent more time at his farmhouse Gould's Grove southeast of Ewelme near Wallingford.
 

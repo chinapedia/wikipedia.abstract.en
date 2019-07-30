@@ -1,4 +1,4 @@
-Nicaea_icon.jpg depicting the Emperor Constantine, accompanied by the bishops of the First Council of Nicaea (325), holding the Niceno–Constantinopolitan Creed of 381]] The NICENE CREED (Greek: or, , Latin: ) is a statement of belief widely used in Christian liturgy. It is called _Nicene_ because it was originally adopted in the city of Nicaea (present day İznik, Turkey) by the First Council of Nicaea in 325.[1] In 381, it was amended at the First Council of Constantinople, and the amended form is referred to as the Nicene or the NICENO-CONSTANTINOPOLITAN CREED.
+depicting the Emperor Constantine, accompanied by the bishops of the First Council of Nicaea (325), holding the Niceno–Constantinopolitan Creed of 381]] The NICENE CREED (Greek: or, , Latin: ) is a statement of belief widely used in Christian liturgy. It is called _Nicene_ because it was originally adopted in the city of Nicaea (present day İznik, Turkey) by the First Council of Nicaea in 325.[1] In 381, it was amended at the First Council of Constantinople, and the amended form is referred to as the Nicene or the NICENO-CONSTANTINOPOLITAN CREED.
 
 The Oriental Orthodox and Assyrian churches use this profession of faith with the verbs in the original plural ("we believe"), but the Eastern Orthodox and Catholic churches convert those verbs to the singular ("I believe"). The Anglican and many Protestant denominations generally use the singular form, sometimes the plural.
 
@@ -8,8 +8,6 @@ In the Byzantine Rite, the Nicene Creed is sung or recited at the Divine Liturgy
 
 
 History
-
-Rylands_Nicene_Creed_papyrus.jpg
 
 The purpose of a creed is to provide a doctrinal statement of correct belief or orthodoxy. The creeds of Christianity have been drawn up at times of conflict about doctrine: acceptance or rejection of a creed served to distinguish believers and deniers of particular doctrines. For that reason, a creed was called in Greek a σύμβολον (_symbolon_), which originally meant half of a broken object which, when fitted to the other half, verified the bearer's identity.[9] The Greek word passed through Latin _symbolum_ into English "symbol", which only later took on the meaning of an outward sign of something.[10]
 
@@ -137,8 +135,6 @@ The Latin text adds "Deum de Deo" and "Filioque" to the Greek. On the latter see
 Again, the terms "" and "consubstantialem", translated as "of one being" or "consubstantial", have different overtones, being based respectively on Greek (stable being, immutable reality, substance, essence, true nature),3 and Latin _substantia_ (that of which a thing consists, the being, essence, contents, material, substance).[72]
 
 "Credo", which in classical Latin is used with the accusative case of the thing held to be true (and with the dative of the person to whom credence is given),[73] is here used three times with the preposition "in", a literal translation of the Greek "" (in unum Deum ..., in unum Dominum ..., in Spiritum Sanctum ...), and once in the classical preposition-less construction (unam, sanctam, catholicam et apostolicam Ecclesiam).
-
-Creed_icon_(Russia,_17_c.).jpeg
 
 Armenian liturgical text
 

@@ -69,7 +69,7 @@ Apoptosis is an important mechanism in the clearance of injured cells and in tis
 
 Diagnosis
 
-Meconium_aspiration_syndrome_(MAS).png Respiratory distress in an infant born through the darkly coloured MSAF as well as meconium obstructing the airways is usually sufficient enough to diagnose MAS. Additionally, newborns with MAS can have other types of respiratory distress such as tachypnea and hypercapnia. Sometimes it is hard to diagnose MAS as it can be confused with other diseases that also cause respiratory distress, such as pneumonia. Additionally, X-rays and lung ultrasounds can be quick, easy and cheap imaging techniques to diagnose lung diseases like MAS.[40]
+Respiratory distress in an infant born through the darkly coloured MSAF as well as meconium obstructing the airways is usually sufficient enough to diagnose MAS. Additionally, newborns with MAS can have other types of respiratory distress such as tachypnea and hypercapnia. Sometimes it is hard to diagnose MAS as it can be confused with other diseases that also cause respiratory distress, such as pneumonia. Additionally, X-rays and lung ultrasounds can be quick, easy and cheap imaging techniques to diagnose lung diseases like MAS.[40]
 
 
 Prevention

@@ -42,7 +42,7 @@ History
 
 Early computers were built to perform a series of single tasks, like a calculator. Basic operating system features were developed in the 1950s, such as resident monitor functions that could automatically run different programs in succession to speed up processing. Operating systems did not exist in their modern and more complex forms until the early 1960s.[9] Hardware features were added, that enabled use of runtime libraries, interrupts, and parallel processing. When personal computers became popular in the 1980s, operating systems were made for them similar in concept to those used on larger computers.
 
-In the 1940s, the earliest electronic digital systems had no operating systems. Electronic systems of this time were programmed on rows of mechanical switches or by jumper wires on plug boards. These were special-purpose systems that, for example, generated ballistics tables for the military or controlled the printing of payroll checks from data on punched paper cards. After programmable general purpose computers were invented, machine languages (consisting of strings of the binary digits 0 and 1 on punched paper tape) were introduced that sped up the programming process (Stern, 1981). IBM360-65-1.corestore.jpg was used on most IBM mainframe computers beginning in 1966, including computers used by the Apollo program.]]
+In the 1940s, the earliest electronic digital systems had no operating systems. Electronic systems of this time were programmed on rows of mechanical switches or by jumper wires on plug boards. These were special-purpose systems that, for example, generated ballistics tables for the military or controlled the printing of payroll checks from data on punched paper cards. After programmable general purpose computers were invented, machine languages (consisting of strings of the binary digits 0 and 1 on punched paper tape) were introduced that sped up the programming process (Stern, 1981). was used on most IBM mainframe computers beginning in 1966, including computers used by the Apollo program.]]
 
 In the early 1950s, a computer could execute only one program at a time. Each user had sole use of the computer for a limited period of time and would arrive at a scheduled time with program and data on punched paper cards or punched tape. The program would be loaded into the machine, and the machine would be set to work until the program completed or crashed. Programs could generally be debugged via a front panel using toggle switches and panel lights. It is said that Alan Turing was a master of this on the early Manchester Mark 1 machine, and he was already deriving the primitive conception of an operating system from the principles of the universal Turing machine.[10]
 
@@ -81,7 +81,7 @@ The enormous investment in software for these systems made since the 1960s cause
 
 Microcomputers
 
-PC_DOS_1.10_screenshot.png Apple_Macintosh_Desktop.png became the first widespread OS to feature a graphical user interface. Many of its features such as windows and icons would later become commonplace in GUIs.]]
+became the first widespread OS to feature a graphical user interface. Many of its features such as windows and icons would later become commonplace in GUIs.]]
 
 The first microcomputers did not have the capacity or need for the elaborate operating systems that had been developed for mainframes and minis; minimalistic operating systems were developed, often loaded from ROM and known as _monitors_. One notable early disk operating system was CP/M, which was supported on many early microcomputers and was closely imitated by Microsoft's MS-DOS, which became widely popular as the operating system chosen for the IBM PC (IBM's version of it was called IBM DOS or PC DOS). In the 1980s, Apple Computer Inc. (now Apple Inc.) abandoned its popular Apple II series of microcomputers to introduce the Apple Macintosh computer with an innovative graphical user interface (GUI) to the Mac OS.
 
@@ -94,7 +94,7 @@ Examples
 
 Unix and Unix-like operating systems
 
-File:Unix history-simple.png|256px|thumb|Evolution of Unix systems default File:Unix history-simple.svg
+File:Unix history-simple.png|256px|thumb|Evolution of Unix systems default
 
 Unix was originally written in assembly language.[14] Ken Thompson wrote B, mainly based on BCPL, based on his experience in the MULTICS project. B was replaced by C, and Unix, rewritten in C, developed into a large, complex family of inter-related operating systems which have been influential in every modern operating system (see History).
 
@@ -108,7 +108,7 @@ Unix interoperability was sought by establishing the POSIX standard. The POSIX s
 
 BSD and its descendants
 
-First_Web_Server.jpg for the World Wide Web ran on NeXTSTEP, based on BSD.]]
+for the World Wide Web ran on NeXTSTEP, based on BSD.]]
 
 A subgroup of the Unix family is the Berkeley Software Distribution family, which includes FreeBSD, NetBSD, and OpenBSD. These operating systems are most commonly found on webservers, although they can also function as a personal computer OS. The Internet owes much of its existence to BSD, as many of the protocols now commonly used by computers to connect, send and receive data over a network were widely implemented and refined in BSD. The World Wide Web was also first demonstrated on a number of computers running an OS based on BSD called NeXTSTEP.
 
@@ -126,7 +126,7 @@ Prior to its merging with macOS, the server edition macOS Server was architectur
 
 Linux
 
-Ubuntu_19.04_"Disco_Dingo".png, desktop Linux distribution ]]
+, desktop Linux distribution ]]
 
 The Linux kernel originated in 1991, as a project of Linus Torvalds, while a university student in Finland. He posted information about his project on a newsgroup for computer students and programmers, and received support and assistance from volunteers who succeeded in creating a complete and functional kernel.
 
@@ -157,8 +157,6 @@ The components of an operating system all exist in order to make the different p
 
 Kernel
 
-Kernel_Layout.svg
-
 With the aid of the firmware and device drivers, the kernel provides the most basic level of control over all of the computer's hardware devices. It manages memory access for programs in the RAM, it determines which programs get access to which hardware resources, it sets up or resets the CPU's operating states for optimal operation at all times, and it organizes the data for long-term non-volatile storage with file systems on such media as disks, tapes, flash memory, etc.
 
 Program execution
@@ -177,7 +175,7 @@ A program may also trigger an interrupt to the operating system. If a program wi
 
 Modes
 
-Priv_rings.svg microprocessor architecture available in protected mode. Operating systems determine which processes run in each mode.]]
+microprocessor architecture available in protected mode. Operating systems determine which processes run in each mode.]]
 
 Modern microprocessors (CPU or MPU) support multiple modes of operation. CPUs with this capability offer at least two modes: user mode and supervisor mode. In general terms, supervisor mode operation allows unrestricted access to all machine resources, including all MPU instructions. User mode operation sets limits on instruction use and typically disallows direct access to machine resources. CPUs might have other modes similar to user mode as well, such as the virtual modes in order to emulate older processor types, such as 16-bit processors on a 32-bit one, or 32-bit processors on a 64-bit one.
 
@@ -202,8 +200,6 @@ In both segmentation and paging, certain protected mode registers specify to the
 Windows versions 3.1 through ME had some level of memory protection, but programs could easily circumvent the need to use it. A general protection fault would be produced, indicating a segmentation violation had occurred; however, the system would often crash anyway.
 
 Virtual memory
-
-Virtual_memory.svg
 
 The use of virtual memory addressing (such as paging or segmentation) means that the kernel can choose what memory each program may use at any given time, allowing the operating system to use the same memory locations for multiple tasks.
 
@@ -230,8 +226,6 @@ The philosophy governing preemptive multitasking is that of ensuring that all pr
 On many single user operating systems cooperative multitasking is perfectly adequate, as home computers generally run a small number of well tested programs. The AmigaOS is an exception, having preemptive multitasking from its very first version. Windows NT was the first version of Microsoft Windows which enforced preemptive multitasking, but it didn't reach the home user market until Windows XP (since Windows NT was targeted at professionals).
 
 Disk access and file systems
-
-Dolphin_FileManager.png
 
 Access to data stored on disks is a central feature of all operating systems. Computers store data on disks using files, which are structured in specific ways in order to allow for faster access, higher reliability, and to make better use of the drive's available space. The specific way in which files are stored on a disk is called a file system, and enables files to have names and attributes. It also allows them to be stored in a hierarchy of directories or folders arranged in a directory tree.
 
@@ -281,13 +275,13 @@ Internal security is especially relevant for multi-user systems; it allows each 
 
 User interface
 
-Operating system user interface}} Command_line.png command line. Each command is typed out after the 'prompt', and then its output appears below, working its way down the screen. The current command prompt is at the bottom.]]
+Operating system user interface}} command line. Each command is typed out after the 'prompt', and then its output appears below, working its way down the screen. The current command prompt is at the bottom.]]
 
 Every computer that is to be operated by an individual requires a user interface. The user interface is usually referred to as a shell and is essential if human interaction is to be supported. The user interface views the directory structure and requests services from the operating system that will acquire data from input hardware devices, such as a keyboard, mouse or credit card reader, and requests operating system services to display prompts, status messages and such on output hardware devices, such as a video monitor or printer. The two most common forms of a user interface have historically been the command-line interface, where computer commands are typed out line-by-line, and the graphical user interface, where a visual environment (most commonly a WIMP) is present.
 
 Graphical user interfaces
 
-KDE_Plasma_5.16.png graphical user interface. Programs take the form of images on the screen, and the files, folders (directories), and applications take the form of icons and symbols. A mouse is used to navigate the computer.]]
+graphical user interface. Programs take the form of images on the screen, and the files, folders (directories), and applications take the form of icons and symbols. A mouse is used to navigate the computer.]]
 
 Most of the modern computer systems support graphical user interfaces (GUI), and often include them. In some computer systems, such as the original implementation of the classic Mac OS, the GUI is integrated into the kernel.
 

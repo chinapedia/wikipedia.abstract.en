@@ -7,7 +7,7 @@ Early life
 
 Alessandro Ludovisi was born in Bologna in 1554 to Pompeo Ludovisi, the Count of Samoggia (now Savigno in the Province of Bologna) and of Camilla Bianchini. He was one of seven children and was born as the third child.
 
-Bust_of_Pope_Gregory_XV_by_Bernini_1621.jpg He was educated at the Roman College run by the Society of Jesus in Rome and he then went to the University of Bologna to get degrees in canon and Roman law which he received on June 4, 1575. His early career was as a papal jurist in Rome, and there is no evidence that he had been ordained to the priesthood.
+He was educated at the Roman College run by the Society of Jesus in Rome and he then went to the University of Bologna to get degrees in canon and Roman law which he received on June 4, 1575. His early career was as a papal jurist in Rome, and there is no evidence that he had been ordained to the priesthood.
 
 He returned to Rome in 1575 and he served as the Referendary of the Apostolic Signatura from 1593 to 1596 and was appointed as the Vicegerent of Rome in 1597, a position he maintained until 1598. He also served as the Auditor of the Sacred Roman Rota from 1599 to 1612.
 
@@ -26,7 +26,7 @@ Ludovisi remained in his episcopal see in Bologna until he went to Rome after th
 
 At the moment of his election, chiefly through the influence of Cardinal Borghese, at his advanced age (he was 67) and with his weak state of health he saw at once that he would need an energetic man, in whom he could place implicit confidence, to assist him in the government of the Church. His nephew Ludovico Ludovisi, a young man of 25 years, seemed to him to be the right person and, at the risk of being charged with nepotism, he created him cardinal on the third day of his pontificate. On the same day, his youngest brother Orazio was appointed Captain General of the Church at the head of the papal army.
 
-Ludovico_Ludovisi_with_Gregory_XV.jpg of unprecedented income and authority, Ludovico Ludovisi, known as _il cardinale padrone_]] The future revealed that Gregory XV was not disappointed in his nephew. The _Catholic Encyclopedia_ allows that "Ludovico, it is true, advanced the interests of his family in every possible way, but he also used his brilliant talents and his great influence for the welfare of the Church, and was sincerely devoted to the pope". Gregory secured for the Ludovisi two dukedoms, one for his brother Orazio, made a _Nobile Romano_ and Duke of Fiano Romano, 1621, and the other, the Duchy of Zagarolo, purchased from the Colonna family by his nephew Ludovico Ludovisi in 1622. A second nephew, Niccolò, was made reigning Prince of Piombino and Lord of the Isola d'Elba in 1634, having married the heiress, 30 March 1632.
+of unprecedented income and authority, Ludovico Ludovisi, known as _il cardinale padrone_]] The future revealed that Gregory XV was not disappointed in his nephew. The _Catholic Encyclopedia_ allows that "Ludovico, it is true, advanced the interests of his family in every possible way, but he also used his brilliant talents and his great influence for the welfare of the Church, and was sincerely devoted to the pope". Gregory secured for the Ludovisi two dukedoms, one for his brother Orazio, made a _Nobile Romano_ and Duke of Fiano Romano, 1621, and the other, the Duchy of Zagarolo, purchased from the Colonna family by his nephew Ludovico Ludovisi in 1622. A second nephew, Niccolò, was made reigning Prince of Piombino and Lord of the Isola d'Elba in 1634, having married the heiress, 30 March 1632.
 
 Actions
 
@@ -46,7 +46,7 @@ Gregory XV also beatified three individuals during his pontificate: Ambrose Sans
 
 Death and burial
 
-Tomb_of_Pope_Gregorius_XV.jpg Gregory XV died in the Quirinal Palace on 8 July 1623 and was buried in the Church of Sant'Ignazio. He was succeeded by Pope Urban VIII. The pope had been suffering from kidney stones for some time and was bedridden from 16 June to 1 July 1623, having been suffering from diarrhea and a stomach disorder that caused him great discomfort. His condition worsened on 4 July, as a fever greatly weakened him, leading to the pope receiving the Viaticum on 5 July and the Extreme Unction on 6 July, before succumbing to his illness two days later.[1]
+Gregory XV died in the Quirinal Palace on 8 July 1623 and was buried in the Church of Sant'Ignazio. He was succeeded by Pope Urban VIII. The pope had been suffering from kidney stones for some time and was bedridden from 16 June to 1 July 1623, having been suffering from diarrhea and a stomach disorder that caused him great discomfort. His condition worsened on 4 July, as a fever greatly weakened him, leading to the pope receiving the Viaticum on 5 July and the Extreme Unction on 6 July, before succumbing to his illness two days later.[1]
 
 
 See also

@@ -60,7 +60,7 @@ Chinese has long had considerable dialectal variation, hence prestige dialects h
 
 Late empire
 
-Fourmont-Zhongguo-Guanhua.png of an early Chinese grammar published by Étienne Fourmont (with Arcadio Huang) in 1742[4]]]
+of an early Chinese grammar published by Étienne Fourmont (with Arcadio Huang) in 1742[4]]]
 
 The Ming dynasty (1368–1644) and the Qing dynasty (1644–1912) began to use the term _guānhuà_ (官话/官話), or "official speech", to refer to the speech used at the courts. The term "Mandarin" is borrowed directly from Portuguese. The Portuguese word _mandarim_, derived from the Sanskrit word _mantrin_ "counselor or minister", was first used to refer to the Chinese bureaucratic officials. The Portuguese then translated _guānhuà_ as "the language of the mandarins" or "the mandarin language".
 
@@ -89,7 +89,7 @@ In the early 1950s, this standard language was understood by 41% of the populati
 
 Current role
 
-Map_of_sinitic_languages_cropped-en.svg and Taiwan, showing the historic distribution of all the varieties of Mandarin Chinese in light brown. Standard Chinese is based on the Beijing dialect of Mandarin.]] From an official point of view, Standard Chinese serves the purpose of a lingua franca—a way for speakers of the several mutually unintelligible varieties of Chinese, as well as the ethnic minorities in China, to communicate with each other. The very name _Pǔtōnghuà,_ or "common speech," reinforces this idea. In practice, however, due to Standard Chinese being a "public" lingua franca, other Chinese varieties and even non-Sinitic languages have shown signs of losing ground to the standard.
+and Taiwan, showing the historic distribution of all the varieties of Mandarin Chinese in light brown. Standard Chinese is based on the Beijing dialect of Mandarin.]] From an official point of view, Standard Chinese serves the purpose of a lingua franca—a way for speakers of the several mutually unintelligible varieties of Chinese, as well as the ethnic minorities in China, to communicate with each other. The very name _Pǔtōnghuà,_ or "common speech," reinforces this idea. In practice, however, due to Standard Chinese being a "public" lingua franca, other Chinese varieties and even non-Sinitic languages have shown signs of losing ground to the standard.
 
 While the Chinese government has been actively promoting _Pǔtōnghuà_ on TV, radio and public services like buses to ease communication barriers in the country, developing _Pǔtōnghuà_ as the official common language of the country has been challenging due to the presence of various ethnic groups which fear for the loss of their cultural identity and native dialect. In the summer of 2010, reports of increasing the use of the _Pǔtōnghuà_ in local TV broadcasting in Guangdong lead to thousands of Cantonese-speaking citizens in demonstration on the street.[8]
 
@@ -109,7 +109,7 @@ Mandarin is now spreading overseas beyond East Asia and Southeast Asia as well. 
 
 Standard Chinese and the educational system
 
-Yangzhou-Highschool-Speak-Putonghua-3388.jpg urges people to "speak _Putonghua_, welcome guests from all parts" and "use civilised language".]] In both the PRC and Taiwan, Standard Chinese is taught by immersion starting in elementary school. After the second grade, the entire educational system is in Standard Chinese, except for local language classes that have been taught for a few hours each week in Taiwan starting in the mid-1990s.
+urges people to "speak _Putonghua_, welcome guests from all parts" and "use civilised language".]] In both the PRC and Taiwan, Standard Chinese is taught by immersion starting in elementary school. After the second grade, the entire educational system is in Standard Chinese, except for local language classes that have been taught for a few hours each week in Taiwan starting in the mid-1990s.
 
 In December 2004, the first survey of language use in the People's Republic of China revealed that only 53% of its population, about 700 million people, could communicate in Standard Chinese.[19] This 53% is defined as a passing grade above 3-B (a score above 60%) of the Evaluation Exam.
 
@@ -146,7 +146,7 @@ The palatal initials , and pose a classic problem of phonemic analysis. Since th
 
 The final, which occurs only after dental sibilant and retroflex initials, is a syllabic approximant, prolonging the initial.
 
-Pinyin_Tone_Chart.svg The rhotacized vowel forms a complete syllable. A reduced form of this syllable occurs as a sub-syllabic suffix, spelled _-r_ in pinyin and often with a diminutive connotation. The suffix modifies the coda of the base syllable in a rhotacizing process called _erhua_.
+The rhotacized vowel forms a complete syllable. A reduced form of this syllable occurs as a sub-syllabic suffix, spelled _-r_ in pinyin and often with a diminutive connotation. The suffix modifies the coda of the base syllable in a rhotacizing process called _erhua_.
 
 Each full syllable is pronounced with a phonemically distinctive pitch contour. There are four tonal categories, marked in pinyin with iconic diacritic symbols, as in the words _mā_ (妈/媽 "mother"), _má_ (麻 "hemp"), _mǎ_ (马/馬 "horse") and _mà_ (骂/罵 "curse"). The tonal categories also have secondary characteristics. For example, the third tone is long and murmured, whereas the fourth tone is relatively short. Statistically, vowels and tones are of similar importance in the language.[20]
 

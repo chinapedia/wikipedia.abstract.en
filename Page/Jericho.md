@@ -24,13 +24,13 @@ The earliest settlement was located at the present-day Tell es-Sultan (or Sultan
 
 Natufian hunter-gatherers,  10,000 BCE
 
-Calibrated_Carbon_14_dates_for_Jericho_as_of_2013.jpg Epipaleolithic construction at the site appears to predate the invention of agriculture, with the construction of Natufian culture structures beginning earlier than 9000 BCE, the beginning of the Holocene epoch in geologic history.[21]
+Epipaleolithic construction at the site appears to predate the invention of agriculture, with the construction of Natufian culture structures beginning earlier than 9000 BCE, the beginning of the Holocene epoch in geologic history.[21]
 
 Jericho has evidence of settlement dating back to 10,000 BCE. During the Younger Dryas period of cold and drought, permanent habitation of any one location was impossible. However, the Ein es-Sultan spring at what would become Jericho was a popular camping ground for Natufian hunter-gatherer groups, who left a scattering of crescent-shaped microlith tools behind them.[22] Around 9600 BCE, the droughts and cold of the Younger Dryas stadial had come to an end, making it possible for Natufian groups to extend the duration of their stay, eventually leading to year-round habitation and permanent settlement.
 
 Pre-Pottery Neolithic,  9500-6500 BCE
 
-Jerycho8.jpg in Jericho]] The Pre-Pottery Neolithic at Jericho is divided in Pre-Pottery Neolithic A and Pre-Pottery Neolithic B.
+in Jericho]] The Pre-Pottery Neolithic at Jericho is divided in Pre-Pottery Neolithic A and Pre-Pottery Neolithic B.
 
 Pre-Pottery Neolithic A (PPNA)
 
@@ -41,11 +41,11 @@ The first permanent settlement on the site of Jericho developed near the Ein es-
 -   reliance on hunting of wild game
 -   cultivation of wild or domestic cereals
 
-Ancestor_Statue,_Jericho,_c._9000_BC,_Replica.jpg.[25]]] At Jericho, circular dwellings were built of clay and straw bricks left to dry in the sun, which were plastered together with a mud mortar. Each house measured about across, and was roofed with mud-smeared brush. Hearths were located within and outside the homes.[26]
+.[25]]] At Jericho, circular dwellings were built of clay and straw bricks left to dry in the sun, which were plastered together with a mud mortar. Each house measured about across, and was roofed with mud-smeared brush. Hearths were located within and outside the homes.[26]
 
 By about 9400 BCE, the town had grown to more than 70 modest dwellings.
 
-Ziko.jpg at the site of Tell es-Sultan.]] The Pre-Sultan (c. 8350 – 7370 BCE) is sometimes called Sultanian. The site is a settlement surrounded by a massive stone wall over high and wide at the base (see Wall of Jericho), inside of which stood a stone tower (see Tower of Jericho), over high, containing an internal staircase with 22 stone steps[27][28] and placed in the centre of the west side of the tell.[29] This tower and the even older ones excavated at Tell Qaramel in Syria[30][31] are the oldest ever to be discovered. The wall may have served as a defence against flood-water, with the tower used for ceremonial purposes.[32] The wall and tower were built during the Pre-Pottery Neolithic A (PPNA) period around 8000 BCE.[33][34] For the tower, carbon dates published in 1981 and 1983 indicate that it was built around 8300 BCE and stayed in use until c. 7800 BCE.[35] The wall and tower would have taken a hundred men more than a hundred days to construct,[36] thus suggesting some kind of social organization. The town contained round mud-brick houses, yet no street planning.[37] The identity and number of the inhabitants of Jericho during the PPNA period is still under debate, with estimates going as high as 2,000–3,000, and as low as 200–300.[38][39] It is known that this population had domesticated emmer wheat, barley and pulses and hunted wild animals.
+at the site of Tell es-Sultan.]] The Pre-Sultan (c. 8350 – 7370 BCE) is sometimes called Sultanian. The site is a settlement surrounded by a massive stone wall over high and wide at the base (see Wall of Jericho), inside of which stood a stone tower (see Tower of Jericho), over high, containing an internal staircase with 22 stone steps[27][28] and placed in the centre of the west side of the tell.[29] This tower and the even older ones excavated at Tell Qaramel in Syria[30][31] are the oldest ever to be discovered. The wall may have served as a defence against flood-water, with the tower used for ceremonial purposes.[32] The wall and tower were built during the Pre-Pottery Neolithic A (PPNA) period around 8000 BCE.[33][34] For the tower, carbon dates published in 1981 and 1983 indicate that it was built around 8300 BCE and stayed in use until c. 7800 BCE.[35] The wall and tower would have taken a hundred men more than a hundred days to construct,[36] thus suggesting some kind of social organization. The town contained round mud-brick houses, yet no street planning.[37] The identity and number of the inhabitants of Jericho during the PPNA period is still under debate, with estimates going as high as 2,000–3,000, and as low as 200–300.[38][39] It is known that this population had domesticated emmer wheat, barley and pulses and hunted wild animals.
 
 Pre-Pottery Neolithic B (PPNB, a period of about 1.4 millenia)
 
@@ -55,7 +55,7 @@ The following are Pre-Pottery Neolithic B cultural features, for the period from
 -   Possible domestication of sheep
 -   Apparent cult involving the preservation of human skulls, with facial features reconstructed using plaster, and eyes set with shells in some cases
 
-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg, circa 7500 BC, with main sites. Jericho was a foremost site of the Pre-Pottery Neolithic period. The area of Mesopotamia proper was not yet settled by humans.]] After a few centuries, the first settlement was abandoned. After the PPNA settlement phase, there was a settlement hiatus of several centuries, then the PPNB settlement was founded on the eroded surface of the tell. This second settlement, established in 6800 BCE, perhaps represents the work of an invading people who absorbed the original inhabitants into their dominant culture. Artifacts dating from this period include ten plastered human skulls, painted so as to reconstitute the individuals' features.[40] These represent either teraphim or the first example of portraiture in art history, and it is thought that they were kept in people's homes while the bodies were buried.[41][42]
+, circa 7500 BC, with main sites. Jericho was a foremost site of the Pre-Pottery Neolithic period. The area of Mesopotamia proper was not yet settled by humans.]] After a few centuries, the first settlement was abandoned. After the PPNA settlement phase, there was a settlement hiatus of several centuries, then the PPNB settlement was founded on the eroded surface of the tell. This second settlement, established in 6800 BCE, perhaps represents the work of an invading people who absorbed the original inhabitants into their dominant culture. Artifacts dating from this period include ten plastered human skulls, painted so as to reconstitute the individuals' features.[40] These represent either teraphim or the first example of portraiture in art history, and it is thought that they were kept in people's homes while the bodies were buried.[41][42]
 
 The architecture consisted of rectilinear buildings made of mudbricks on stone foundations. The mudbricks were loaf-shaped with deep thumb prints to facilitate bonding. No building has been excavated in its entirety. Normally, several rooms cluster around a central courtyard. There is one big room ( and ) with internal divisions; the rest are small, presumably used for storage. The rooms have red or pinkish terrazzo-floors made of lime. Some impressions of mats made of reeds or rushes have been preserved. The courtyards have clay floors.
 
@@ -71,7 +71,7 @@ Bronze Age
 
 A succession of settlements followed from 4500 BCE onward.
 
-Red_terracotta_Ancient_Bronze_period_3500-2000_BC_Tell_es-Sultan,_ancient_Jericho,_Tomb_A_IV,_Louvre_Museum_AO_15611.jpg AO 15611]]
+AO 15611]]
 
 Early Bronze Age
 
@@ -107,7 +107,7 @@ The rock-cut tombs of a Herodian- and Hasmonean-era cemetery lie in the lowest p
 
 Herodian period
 
-Jerycho50.jpg palace]] Herod had to lease back the royal estate at Jericho from Cleopatra, after Mark Antony had given it to her as a gift. After their joint suicide in 30 BCE, Octavian assumed control of the Roman Empire and granted Herod absolute rule over Jericho, as part of the new Herodian domain. Herod's rule oversaw the construction of a hippodrome-theatre (_Tell es-Samrat_) to entertain his guests and new aqueducts to irrigate the area below the cliffs and reach his winter palaces built at the site of _Tulul Abu el-Alaiq_ (also written _'Alayiq_).[57] In 2008 the Israel Exploration Society published an illustrated volume of Herod's third Jericho palace.[58]
+palace]] Herod had to lease back the royal estate at Jericho from Cleopatra, after Mark Antony had given it to her as a gift. After their joint suicide in 30 BCE, Octavian assumed control of the Roman Empire and granted Herod absolute rule over Jericho, as part of the new Herodian domain. Herod's rule oversaw the construction of a hippodrome-theatre (_Tell es-Samrat_) to entertain his guests and new aqueducts to irrigate the area below the cliffs and reach his winter palaces built at the site of _Tulul Abu el-Alaiq_ (also written _'Alayiq_).[57] In 2008 the Israel Exploration Society published an illustrated volume of Herod's third Jericho palace.[58]
 
 The dramatic murder of Aristobulus III in a swimming pool at the winter palaces near Jericho, as described by the Roman Jewish historian Josephus, took place during a banquet organized by Herod's Hasmonean mother-in-law. After the construction of the palaces, the city had functioned not only as an agricultural center and as a crossroad, but also as a winter resort for Jerusalem's aristocracy.[59]
 
@@ -117,7 +117,7 @@ First-century Jericho is described in Strabo's _Geography_ as follows:
 
 In the New Testament
 
-El_Greco_-_Christ_Healing_the_Blind_-_WGA10420.jpg The Christian Gospels state that Jesus of Nazareth passed through Jericho where he healed blind beggars (), and inspired a local chief tax-collector named Zacchaeus to repent of his dishonest practices (). The road between Jerusalem and Jericho is the setting for the Parable of the Good Samaritan.[60]
+The Christian Gospels state that Jesus of Nazareth passed through Jericho where he healed blind beggars (), and inspired a local chief tax-collector named Zacchaeus to repent of his dishonest practices (). The road between Jerusalem and Jericho is the setting for the Parable of the Good Samaritan.[60]
 
 John Wesley, in his New Testament Notes on this section of Luke's Gospel, claimed that "about twelve thousand priests and Levites dwelt there, who all attended the service of the temple".[61]
 
@@ -129,7 +129,7 @@ After the fall of Jerusalem to Vespasian's armies in the Great Revolt of Judea i
 
 Byzantine period
 
-PikiWiki_Israel_15003_Jericho_synagogue_mosaic.JPG Accounts of Jericho by a Christian pilgrim are given in 333. Shortly thereafter the built-up area of the town was abandoned and a Byzantine Jericho, _Ericha_, was built 1600 metres (1 mi) to the east, on which the modern town is centered.[64] Christianity took hold in the city during the Byzantine era and the area was heavily populated. A number of monasteries and churches were built, including St George of Koziba in 340 AD and a domed church dedicated to Saint Eliseus.[65] At least two synagogues were also built in the 6th century CE.[66] The monasteries were abandoned after the Persian invasion of 614.[67]
+Accounts of Jericho by a Christian pilgrim are given in 333. Shortly thereafter the built-up area of the town was abandoned and a Byzantine Jericho, _Ericha_, was built 1600 metres (1 mi) to the east, on which the modern town is centered.[64] Christianity took hold in the city during the Byzantine era and the area was heavily populated. A number of monasteries and churches were built, including St George of Koziba in 340 AD and a domed church dedicated to Saint Eliseus.[65] At least two synagogues were also built in the 6th century CE.[66] The monasteries were abandoned after the Persian invasion of 614.[67]
 
 The Jericho Synagogue in the Royal Maccabean winter palace at Jericho dates from 70–50 BCE.
 
@@ -139,7 +139,7 @@ The Na'aran synagogue, another Byzantine era construction, was discovered on the
 
 Early Muslim period
 
-Arabischer_Mosaizist_um_735_001.jpgic Umayyad mosaic from Hisham's Palace in Jericho]]
+ic Umayyad mosaic from Hisham's Palace in Jericho]]
 
 Jericho, by then named "Ariha" in Arabic variation, became part of Jund Filastin ("Military District of Palestine"), part of the larger province of Bilad al-Sham. The Arab Muslim historian Musa b. 'Uqba (died 758) recorded that caliph Umar ibn al-Khattab exiled the Jews and Christians of Khaybar to Jericho (and Tayma).[71]
 
@@ -157,11 +157,9 @@ In 1179, the Crusaders rebuilt the Monastery of St. George of Koziba, at its ori
 
 Ayyubid and Mamluk periods
 
-Map_of_Jericho_in_14c_Farhi_Bible_by_Elisha_ben_Avraham_Crescas.jpg In 1226, Arab geographer Yaqut al-Hamawi said of Jericho, "it has many palm trees, also sugarcane in quantities, and bananas. The best of all the sugar in the _Ghaur_ land is made here." In the 14th century, Abu al-Fida writes there are sulfur mines in Jericho, "the only ones in Palestine".[80]
+In 1226, Arab geographer Yaqut al-Hamawi said of Jericho, "it has many palm trees, also sugarcane in quantities, and bananas. The best of all the sugar in the _Ghaur_ land is made here." In the 14th century, Abu al-Fida writes there are sulfur mines in Jericho, "the only ones in Palestine".[80]
 
 Ottoman period
-
-Jerico1.jpg
 
 16th century
 
@@ -220,21 +218,21 @@ The city's current mayor is Hassan Saleh, a former lawyer.
 
 Geography and climate
 
-Jerycho9.jpg Jericho is located below sea level in an oasis in Wadi Qelt in the Jordan Valley, which makes it the lowest city in the world.[118][119][120] The nearby spring of _Ein es-Sultan_ produces 3.8  m³ (1,000 gallons) of water per minute, irrigating some through multiple channels and feeding into the Jordan River, away.[121][122] Annual rainfall is , mostly concentrated in the winter months and into early spring.[123] The average temperature is in January and in July.
+Jericho is located below sea level in an oasis in Wadi Qelt in the Jordan Valley, which makes it the lowest city in the world.[118][119][120] The nearby spring of _Ein es-Sultan_ produces 3.8  m³ (1,000 gallons) of water per minute, irrigating some through multiple channels and feeding into the Jordan River, away.[121][122] Annual rainfall is , mostly concentrated in the winter months and into early spring.[123] The average temperature is in January and in July.
 
 According to the Köppen climate classification, Jericho has a hot desert climate (_BWh_). Rich alluvial soil and abundant spring water have made Jericho an attractive place for settlement.[124]
 
 
 Demographics
 
-PikiWiki_Israel_1536_Jericho_municipality_עיריית_יריחו.jpg In the first census carried out by the Palestinian Central Bureau of Statistics (PCBS), in 1997, Jericho's population was 14,674. Palestinian refugees constituted a significant 43.6% of the residents or 6,393 people.[125] The gender make-up of the city was 51% male and 49% female. Jericho has a young population, with nearly half (49.2%) of the inhabitants being under the age of 20. People between the ages of 20 and 44 made up 36.2% of the population, 10.7% between the ages of 45 and 64, and 3.6% were over the age of 64.[126] In the 2007 census by the PCBS, Jericho had a population of 18,346.[127]
+In the first census carried out by the Palestinian Central Bureau of Statistics (PCBS), in 1997, Jericho's population was 14,674. Palestinian refugees constituted a significant 43.6% of the residents or 6,393 people.[125] The gender make-up of the city was 51% male and 49% female. Jericho has a young population, with nearly half (49.2%) of the inhabitants being under the age of 20. People between the ages of 20 and 44 made up 36.2% of the population, 10.7% between the ages of 45 and 64, and 3.6% were over the age of 64.[126] In the 2007 census by the PCBS, Jericho had a population of 18,346.[127]
 
 Demographics have varied widely depending on the dominant ethnic group and rule in the region over the past three thousand years. In a 1945 land and population survey by Sami Hadawi, 3,010 inhabitants is the figure given for Jericho, of which 94% (2840) were Arab and 6% (170) were Jews.[128] Today, the overwhelming majority of the population is Muslim.[129] The Christian community makes up around 1% of the population.[130] A large community of black Palestinians is present in Jericho.[131]
 
 
 Economy
 
-PikiWiki_Israel_1539_The_market_of_Jericho_השוק_ביריחו.jpg In 1994, Israel and the Palestinians signed an economic accord that enabled Palestinians in Jericho to open banks, collect taxes and engage in export and import in preparation for self-rule.[132]
+In 1994, Israel and the Palestinians signed an economic accord that enabled Palestinians in Jericho to open banks, collect taxes and engage in export and import in preparation for self-rule.[132]
 
 Tourism
 
@@ -284,8 +282,6 @@ In April 2010, the United States Agency for International Development (USAID) he
 Sports
 
 The sports team Hilal Areeha plays association football in the West Bank First Division. They play home games in the 15,000 spectator Jericho International Stadium.[140]
-
-Jericho_Panorama.jpg
 
 
 Twin towns – sister cities

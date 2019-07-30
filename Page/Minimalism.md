@@ -1,17 +1,17 @@
-IKB_191.jpg, IKB 191, 1962, monochrome painting. Klein was a pioneer in the development of minimal art.]] In visual arts, music, and other mediums, MINIMALISM is an art movement that began in post–World War II Western art, most strongly with American visual arts in the 1960s and early 1970s. Prominent artists associated with minimalism include Donald Judd, John McCracken, Agnes Martin, Dan Flavin, Robert Morris, Anne Truitt, and Frank Stella.[1][2] It derives from the reductive aspects of modernism and is often interpreted as a reaction against abstract expressionism and a bridge to postminimal art practices.
+, IKB 191, 1962, monochrome painting. Klein was a pioneer in the development of minimal art.]] In visual arts, music, and other mediums, MINIMALISM is an art movement that began in post–World War II Western art, most strongly with American visual arts in the 1960s and early 1970s. Prominent artists associated with minimalism include Donald Judd, John McCracken, Agnes Martin, Dan Flavin, Robert Morris, Anne Truitt, and Frank Stella.[1][2] It derives from the reductive aspects of modernism and is often interpreted as a reaction against abstract expressionism and a bridge to postminimal art practices.
 
 Minimalism in music often features repetition and gradual variation, such as the works of La Monte Young, Terry Riley, Steve Reich, Philip Glass, Julius Eastman, and John Adams. The term _minimalist_ often colloquially refers to anything that is spare or stripped to its essentials. It has accordingly been used to describe the plays and novels of Samuel Beckett, the films of Robert Bresson, the stories of Raymond Carver, and the automobile designs of Colin Chapman.
 
 
 Minimal art, minimalism in visual art
 
-Kazimir_Malevich,_1915,_Black_Suprematic_Square,_oil_on_linen_canvas,_79.5_x_79.5_cm,_Tretyakov_Gallery,_Moscow.jpg, _Black Square_, 1915, oil on canvas, 79.5 x 79.5 cm, Tretyakov Gallery, Moscow]]
+, _Black Square_, 1915, oil on canvas, 79.5 x 79.5 cm, Tretyakov Gallery, Moscow]]
 
 Minimalism in visual art, generally referred to as "minimal art", "literalist art"[3] and "ABC Art"[4] emerged in New York in the early 1960s as new and older artists moved toward geometric abstraction; exploring via painting in the cases of Frank Stella, Kenneth Noland, Al Held, Ellsworth Kelly, Robert Ryman and others; and sculpture in the works of various artists including David Smith, Anthony Caro, Tony Smith, Sol LeWitt, Carl Andre, Dan Flavin, Donald Judd and others. Judd's sculpture was showcased in 1964 at Green Gallery in Manhattan, as were Flavin's first fluorescent light works, while other leading Manhattan galleries like Leo Castelli Gallery and Pace Gallery also began to showcase artists focused on geometric abstraction. In addition there were two seminal and influential museum exhibitions: _Primary Structures: Younger American and British Sculpture_ shown from April 27 – June 12, 1966 at the Jewish Museum in New York, organized by the museum's Curator of Painting and Sculpture, Kynaston McShine[5][6] and _Systemic Painting,_ at the Solomon R. Guggenheim Museum curated by Lawrence Alloway also in 1966 that showcased Geometric abstraction in the American art world via Shaped canvas, Color Field, and Hard-edge painting.[7][8] In the wake of those exhibitions and a few others the art movement called _minimal art_ emerged.
 
 In a more broad and general sense, one finds European roots of minimalism in the geometric abstractions of painters associated with the Bauhaus, in the works of Kazimir Malevich, Piet Mondrian and other artists associated with the De Stijl movement, and the Russian Constructivist movement, and in the work of the Romanian sculptor Constantin Brâncuși.[9][10]
 
-Tonysmith_freeride_sculpture.jpg, _Free Ride_, 1962, 6'8 x 6'8 x 6'8]] In France between 1947 and 1948,[11] Yves Klein conceived his _Monotone Symphony_ (1949, formally _The Monotone-Silence Symphony_) that consisted of a single 20-minute sustained chord followed by a 20-minute silence[12][13] – a precedent to both La Monte Young's drone music and John Cage's _4′33″_. Klein had painted monochromes as early as 1949, and held the first private exhibition of this work in 1950—but his first public showing was the publication of the Artist's book _Yves: Peintures_ in November 1954.[14][15]
+, _Free Ride_, 1962, 6'8 x 6'8 x 6'8]] In France between 1947 and 1948,[11] Yves Klein conceived his _Monotone Symphony_ (1949, formally _The Monotone-Silence Symphony_) that consisted of a single 20-minute sustained chord followed by a 20-minute silence[12][13] – a precedent to both La Monte Young's drone music and John Cage's _4′33″_. Klein had painted monochromes as early as 1949, and held the first private exhibition of this work in 1950—but his first public showing was the publication of the Artist's book _Yves: Peintures_ in November 1954.[14][15]
 
 Minimal art is also inspired in part by the paintings of Barnett Newman, Ad Reinhardt, Josef Albers, and the works of artists as diverse as Pablo Picasso, Marcel Duchamp, Giorgio Morandi, and others. Minimalism was also a reaction against the painterly subjectivity of Abstract Expressionism that had been dominant in the New York School during the 1940s and 1950s.[16]
 
@@ -42,7 +42,7 @@ Reinhardt's remark directly addresses and contradicts Hans Hofmann's regard for 
 
 Minimalist design and architecture
 
-Barcelona_Pavilion.jpg's German Pavilion in Barcelona]]
+'s German Pavilion in Barcelona]]
 
 The term minimalism is also used to describe a trend in design and architecture, wherein the subject is reduced to its necessary elements. Minimalist architectural designers focus on the connection between two perfect planes, elegant lighting, and the void spaces left by the removal of three-dimensional shapes in an architectural design.
 
@@ -69,7 +69,7 @@ In minimalist architecture, design elements strive to convey the message of simp
 
 Influences from Japanese tradition
 
-RyoanJi-Dry_garden.jpg".[41]]]
+".[41]]]
 
 The idea of simplicity appears in many cultures, especially the Japanese traditional culture of Zen Philosophy. Japanese manipulate the Zen culture into aesthetic and design elements for their buildings.[42] This idea of architecture has influenced Western Society, especially in America since the mid 18th century.[43] Moreover, it inspired the minimalist architecture in the 19th century.[44]
 
@@ -129,7 +129,7 @@ Joshua Fields Millburn and Ryan Nicodemus directed and produced a movie called _
 
 Minimalism in science communication
 
-20190705_Warming_stripes_-_Berkeley_Earth_(world)_-_avg_above-_and_below-ice_readings.png graphic portraying global temperatures from 1850-2018.[67] ]] To portray global warming to non-scientists, in 2018 British climate scientist Ed Hawkins developed warming stripes graphics that are deliberately devoid of scientific or technical indicia.[68] Hawkins explained that "our visual system will do the interpretation of the stripes without us even thinking about it".[69]
+graphic portraying global temperatures from 1850-2018.[67] ]] To portray global warming to non-scientists, in 2018 British climate scientist Ed Hawkins developed warming stripes graphics that are deliberately devoid of scientific or technical indicia.[68] Hawkins explained that "our visual system will do the interpretation of the stripes without us even thinking about it".[69]
 
 Warming stripe graphics resemble color field paintings in stripping out all distractions and using only color to convey meaning.[70] Color field pioneer artist Barnett Newman said he was "creating images whose reality is self-evident", an ethos that Hawkins is said to have applied to the problem of climate change and leading one commentator to remark that the graphics are "fit for the Museum of Modern Art or the Getty.[71]
 

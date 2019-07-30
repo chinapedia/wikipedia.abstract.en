@@ -17,15 +17,13 @@ According to Ryszard Derdziński the Tolkien name is of Low Prussian origin and 
 
 Childhood
 
-Mabel_Suffield_Christmas_Card.jpg
-
 John Ronald Reuel Tolkien was born on 3 January 1892 in Bloemfontein in the Orange Free State (now Free State Province in South Africa) to Arthur Reuel Tolkien (1857–1896), an English bank manager, and his wife Mabel, _née_ Suffield (1870–1904). The couple had left England when Arthur was promoted to head the Bloemfontein office of the British bank for which he worked. Tolkien had one sibling, his younger brother, Hilary Arthur Reuel Tolkien, who was born on 17 February 1894.[21]
 
 As a child, Tolkien was bitten by a large baboon spider in the garden, an event some think later echoed in his stories, although he admitted no actual memory of the event and no special hatred of spiders as an adult. In another incident, a young family servant, who thought Tolkien a beautiful child, took the baby to his kraal to show him off, returning him the next morning.[22]
 
-When he was three, he went to England with his mother and brother on what was intended to be a lengthy family visit. His father, however, died in South Africa of rheumatic fever before he could join them.[23] This left the family without an income, so Tolkien's mother took him to live with her parents in Kings Heath,[24] Birmingham. Soon after, in 1896, they moved to Sarehole (now in Hall Green), then a Worcestershire village, later annexed to Birmingham.[25] He enjoyed exploring Sarehole Mill and Moseley Bog and the Clent, Lickey and Malvern Hills, which would later inspire scenes in his books, along with nearby towns and villages such as Bromsgrove, Alcester, and Alvechurch and places such as his aunt Jane's farm Bag End, the name of which he used in his fiction.[26] BirminghamOratoryDome.jpg, where Tolkien was a parishioner and altar boy (1902–1911)]] Mabel Tolkien taught her two children at home. Ronald, as he was known in the family, was a keen pupil.[27] She taught him a great deal of botany and awakened in him the enjoyment of the look and feel of plants. Young Tolkien liked to draw landscapes and trees, but his favourite lessons were those concerning languages, and his mother taught him the rudiments of Latin very early.[28]
+When he was three, he went to England with his mother and brother on what was intended to be a lengthy family visit. His father, however, died in South Africa of rheumatic fever before he could join them.[23] This left the family without an income, so Tolkien's mother took him to live with her parents in Kings Heath,[24] Birmingham. Soon after, in 1896, they moved to Sarehole (now in Hall Green), then a Worcestershire village, later annexed to Birmingham.[25] He enjoyed exploring Sarehole Mill and Moseley Bog and the Clent, Lickey and Malvern Hills, which would later inspire scenes in his books, along with nearby towns and villages such as Bromsgrove, Alcester, and Alvechurch and places such as his aunt Jane's farm Bag End, the name of which he used in his fiction.[26] , where Tolkien was a parishioner and altar boy (1902–1911)]] Mabel Tolkien taught her two children at home. Ronald, as he was known in the family, was a keen pupil.[27] She taught him a great deal of botany and awakened in him the enjoyment of the look and feel of plants. Young Tolkien liked to draw landscapes and trees, but his favourite lessons were those concerning languages, and his mother taught him the rudiments of Latin very early.[28]
 
-Tolkien could read by the age of four and could write fluently soon afterwards. His mother allowed him to read many books. He disliked _Treasure Island_ and _The Pied Piper_ and thought _Alice's Adventures in Wonderland_ by Lewis Carroll was "amusing but disturbing". He liked stories about "Red Indians" (Native Americans) and the fantasy works by George MacDonald.[29] In addition, the "Fairy Books" of Andrew Lang were particularly important to him and their influence is apparent in some of his later writings.[30] KES_Free_Grammar_School_Charles_Barry.jpg Mabel Tolkien was received into the Roman Catholic Church in 1900 despite vehement protests by her Baptist family,[31] which stopped all financial assistance to her. In 1904, when J. R. R. Tolkien was 12, his mother died of acute diabetes at Fern Cottage in Rednal, which she was renting. She was then about 34 years of age, about as old as a person with diabetes mellitus type 1 could live without treatment—insulin would not be discovered until two decades later. Nine years after her death, Tolkien wrote, "My own dear mother was a martyr indeed, and it is not to everybody that God grants so easy a way to his great gifts as he did to Hilary and myself, giving us a mother who killed herself with labour and trouble to ensure us keeping the faith."[32]
+Tolkien could read by the age of four and could write fluently soon afterwards. His mother allowed him to read many books. He disliked _Treasure Island_ and _The Pied Piper_ and thought _Alice's Adventures in Wonderland_ by Lewis Carroll was "amusing but disturbing". He liked stories about "Red Indians" (Native Americans) and the fantasy works by George MacDonald.[29] In addition, the "Fairy Books" of Andrew Lang were particularly important to him and their influence is apparent in some of his later writings.[30] Mabel Tolkien was received into the Roman Catholic Church in 1900 despite vehement protests by her Baptist family,[31] which stopped all financial assistance to her. In 1904, when J. R. R. Tolkien was 12, his mother died of acute diabetes at Fern Cottage in Rednal, which she was renting. She was then about 34 years of age, about as old as a person with diabetes mellitus type 1 could live without treatment—insulin would not be discovered until two decades later. Nine years after her death, Tolkien wrote, "My own dear mother was a martyr indeed, and it is not to everybody that God grants so easy a way to his great gifts as he did to Hilary and myself, giving us a mother who killed herself with labour and trouble to ensure us keeping the faith."[32]
 
 Before her death, Mabel Tolkien had assigned the guardianship of her sons to her close friend, Fr. Francis Xavier Morgan of the Birmingham Oratory, who was assigned to bring them up as good Catholics. In a 1965 letter to his son Michael, Tolkien recalled the influence of the man whom he always called "Father Francis": "He was an upper-class Welsh-Spaniard Tory, and seemed to some just a pottering old gossip. He was—and he was _not_. I first learned charity and forgiveness from him; and in the light of it pierced even the 'liberal' darkness out of which I came, knowing more [i.e. Tolkien having grown up knowing more] about 'Bloody Mary' than the Mother of Jesus—who was never mentioned except as an object of wicked worship by the Romanists."[33]
 
@@ -83,11 +81,11 @@ Tolkien later lamented, "The most improper job of any man ... is bossing other m
 
 Battle of the Somme
 
-Tolkien arrived at the Somme in early July 1916. In between terms behind the lines at Bouzincourt, he participated in the assaults on the Schwaben Redoubt and the Leipzig salient. Tolkien's time in combat was a terrible stress for Edith, who feared that every knock on the door might carry news of her husband's death. Edith could track her husband's movements on a map of the Western Front. According to the memoirs of the Reverend Mervyn S. Evers, Anglican chaplain to the Lancashire Fusiliers: Schwaben_Redoubt_by_William_Orpen_IWM_Art.IWM_ART_3000.jpg, London.]]
+Tolkien arrived at the Somme in early July 1916. In between terms behind the lines at Bouzincourt, he participated in the assaults on the Schwaben Redoubt and the Leipzig salient. Tolkien's time in combat was a terrible stress for Edith, who feared that every knock on the door might carry news of her husband's death. Edith could track her husband's movements on a map of the Western Front. According to the memoirs of the Reverend Mervyn S. Evers, Anglican chaplain to the Lancashire Fusiliers: , London.]]
 
 On 27 October 1916, as his battalion attacked Regina Trench, Tolkien came down with trench fever, a disease carried by the lice. He was invalided to England on 8 November 1916.[67] Many of his dearest school friends were killed in the war. Among their number were Rob Gilson of the Tea Club and Barrovian Society, who was killed on the first day of the Somme while leading his men in the assault on Beaumont Hamel. Fellow T.C.B.S. member Geoffrey Smith was killed during the same battle when a German artillery shell landed on a first aid post. Tolkien's battalion was almost completely wiped out following his return to England.
 
-Lancashire_Fusiliers_trench_Beaumont_Hamel_1916.jpg, 1916. Photo by Ernest Brooks.]] Tolkien might well have been killed himself, but he had suffered from health problems and had been removed from combat multiple times.[68]
+, 1916. Photo by Ernest Brooks.]] Tolkien might well have been killed himself, but he had suffered from health problems and had been removed from combat multiple times.[68]
 
 According to John Garth:
 
@@ -107,7 +105,7 @@ On 16 July 1919 Tolkien was officially demobilised, at Fovant, on Salisbury Plai
 
 Academic and writing career
 
-2_Darnley_Road,_the_former_home_of_J.R.R._Tolkien_in_West_Park,_Leeds.jpg]] 20_Northmoor_Road,_Oxford.JPG, the former home of Tolkien in North Oxford]]
+]] , the former home of Tolkien in North Oxford]]
 
 On 3 November 1920, Tolkien was demobilized and left the army, retaining his rank of lieutenant.[77] His first civilian job after World War I was at the _Oxford English Dictionary_, where he worked mainly on the history and etymology of words of Germanic origin beginning with the letter _W_.[78] In 1920, he took up a post as reader in English language at the University of Leeds, becoming the youngest professor there.[79] While at Leeds, he produced _A Middle English Vocabulary_ and a definitive edition of _Sir Gawain and the Green Knight_ with E. V. Gordon; both became academic standard works for several decades. He translated _Sir Gawain_, _Pearl_, and _Sir Orfeo_. In 1925, he returned to Oxford as Rawlinson and Bosworth Professor of Anglo-Saxon, with a fellowship at Pembroke College.
 
@@ -127,7 +125,7 @@ Decades later, W. H. Auden wrote to his former professor,
 
 Second World War
 
-Merton_College_and_chapel_from_St_Marys.JPG, where Tolkien was Professor of English Language and Literature (1945–1959)]]
+, where Tolkien was Professor of English Language and Literature (1945–1959)]]
 
 In the run-up to the Second World War, Tolkien was earmarked as a codebreaker.[88][89] In January 1939, he was asked whether he would be prepared to serve in the cryptographic department of the Foreign Office in the event of national emergency.[90][91] He replied in the affirmative and, beginning on 27 March, took an instructional course at the London HQ of the Government Code and Cypher School.[92][93] A record of his training was found which included the notation "keen" next to his name,[94] although Tolkien scholar Anders Stenström suggested that "In all likelihood, that is not a record of Tolkien's interest, but a note about how to pronounce the name."[95] He was informed in October that his services would not be required.[96][97]
 
@@ -141,7 +139,7 @@ The Tolkiens had four children: John Francis Reuel Tolkien (17 November 1917 –
 
 Retirement and later years
 
-Bust of Tolkien in the chapel of Exeter College, Oxford, Oxford|thumb During his life in retirement, from 1959 up to his death in 1973, Tolkien received steadily increasing public attention and literary fame. In 1961, his friend C. S. Lewis even nominated him for the Nobel Prize in Literature.[101] The sales of his books were so profitable that he regretted that he had not chosen early retirement.[102] At first, he wrote enthusiastic answers to readers' enquiries, but he became increasingly unhappy about the sudden popularity of his books with the 1960s counter-culture movement.[103] In a 1972 letter, he deplored having become a cult-figure, but admitted that "even the nose of a very modest idol ... cannot remain entirely untickled by the sweet smell of incense!"[104]
+During his life in retirement, from 1959 up to his death in 1973, Tolkien received steadily increasing public attention and literary fame. In 1961, his friend C. S. Lewis even nominated him for the Nobel Prize in Literature.[101] The sales of his books were so profitable that he regretted that he had not chosen early retirement.[102] At first, he wrote enthusiastic answers to readers' enquiries, but he became increasingly unhappy about the sudden popularity of his books with the 1960s counter-culture movement.[103] In a 1972 letter, he deplored having become a cult-figure, but admitted that "even the nose of a very modest idol ... cannot remain entirely untickled by the sweet smell of incense!"[104]
 
 Fan attention became so intense that Tolkien had to take his phone number out of the public directory,[105] and eventually he and Edith moved to Bournemouth, which was then a seaside resort patronized by the British upper middle class. Tolkien's status as a best-selling author gave them easy entry into polite society, but Tolkien deeply missed the company of his fellow Inklings. Edith, however, was overjoyed to step into the role of a society hostess, which had been the reason that Tolkien selected Bournemouth in the first place.
 
@@ -149,7 +147,7 @@ According to Humphrey Carpenter:
 
 Final years
 
-Edith Tolkien died on 29 November 1971, at the age of 82. According to Simon Tolkien: Tolkien's_grave,_Wolvercote_Cemetery.jpg, Wolvercote Cemetery, Oxford]]
+Edith Tolkien died on 29 November 1971, at the age of 82. According to Simon Tolkien: , Wolvercote Cemetery, Oxford]]
 
 Tolkien was appointed by Queen Elizabeth II a Commander of the Order of the British Empire in the 1972 New Year Honours[106] and received the insignia of the Order at Buckingham Palace on 28 March 1972.[107] In the same year Oxford University conferred upon him an honorary Doctorate of Letters.[108][109]
 
@@ -160,7 +158,7 @@ In Tolkien's Middle-earth legendarium, Lúthien was the most beautiful of all th
 
 Views
 
-Eagle_and_Child_(interior).jpg Pub, Oxford, where the Inklings met (1930–1950)]] Tolkien was a devout Roman Catholic, and in his religious and political views he was mostly a traditionalist moderate, with libertarian, distributist, and monarchist leanings, in the sense of favouring established conventions and orthodoxies over innovation and modernization, whilst castigating government bureaucracy; in 1943 he wrote, "My political opinions lean more and more to Anarchy (philosophically understood, meaning abolition of control not whiskered men with bombs)—or to 'unconstitutional' Monarchy."[112]
+Pub, Oxford, where the Inklings met (1930–1950)]] Tolkien was a devout Roman Catholic, and in his religious and political views he was mostly a traditionalist moderate, with libertarian, distributist, and monarchist leanings, in the sense of favouring established conventions and orthodoxies over innovation and modernization, whilst castigating government bureaucracy; in 1943 he wrote, "My political opinions lean more and more to Anarchy (philosophically understood, meaning abolition of control not whiskered men with bombs)—or to 'unconstitutional' Monarchy."[112]
 
 Although he did not often write or speak about it, Tolkien advocated the dismantling of the British Empire and even of the United Kingdom. In a 1936 letter to a former student, the Belgian linguist Simonne d'Ardenne, he wrote, "The political situation is dreadful... I have the greatest sympathy with Belgium—which is about the right size of any country! I wish my own were bounded still by the seas of the Tweed and the walls of Wales... we folk do at least know something of mortality and eternity and when Hitler (or a Frenchman) says 'Germany (or France) must live forever' we know that he lies."[113]
 
@@ -324,7 +322,7 @@ Privately, Tolkien was attracted to "things of racial and linguistic significanc
 
 Language construction
 
-Quenya_Example.svg written in Tengwar and in Latin script]]
+written in Tengwar and in Latin script]]
 
 Parallel to Tolkien's professional work as a philologist, and sometimes overshadowing this work, to the effect that his academic output remained rather thin, was his affection for constructing languages. The most developed of these are Quenya and Sindarin, the etymological connection between which formed the core of much of Tolkien's _legendarium_. Language and grammar for Tolkien was a matter of esthetics and euphony, and Quenya in particular was designed from "phonaesthetic" considerations; it was intended as an "Elvenlatin", and was phonologically based on Latin, with ingredients from Finnish, Welsh, English, and Greek.[201] A notable addition came in late 1945 with Adûnaic or Númenórean, a language of a "faintly Semitic flavour", connected with Tolkien's Atlantis legend, which by _The Notion Club Papers_ ties directly into his ideas about the inability of language to be inherited, and via the "Second Age" and the story of Eärendil was grounded in the _legendarium_, thereby providing a link of Tolkien's 20th-century "real primary world" with the legendary past of his Middle-earth.
 
@@ -413,7 +411,7 @@ In 2012, Tolkien was among the British cultural icons selected by artist Sir Pet
 
 Autographs
 
-JRR_Tolkien_signature_-_from_Commons.svg Unlike other authors of the genre, Tolkien never favoured signing his works. Owing to his popularity, handsigned copies of his letters or of the first editions of his individual writings have however achieved high values at auctions, and forged autographs may occur on the market. In particular, the signed first hardback edition of _The Hobbit_ from 1937 has reportedly been offered for $85,000. Collectibles also include non-fiction books with hand-written annotations from Tolkien's private library.[251]
+Unlike other authors of the genre, Tolkien never favoured signing his works. Owing to his popularity, handsigned copies of his letters or of the first editions of his individual writings have however achieved high values at auctions, and forged autographs may occur on the market. In particular, the signed first hardback edition of _The Hobbit_ from 1937 has reportedly been offered for $85,000. Collectibles also include non-fiction books with hand-written annotations from Tolkien's private library.[251]
 
 Canonization process
 

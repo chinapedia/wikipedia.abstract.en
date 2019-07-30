@@ -11,7 +11,7 @@ Mediators use various techniques to open, or improve, dialogue and empathy betwe
 
 History
 
-Chambre_du_mediateur.jpg (1697)]] The activity of mediation appeared in very ancient times. The practice developed in Ancient Greece (which knew the non-marital mediator as a _proxenetas_), then in Roman civilization. (Roman law, starting from Justinian's _Digest_ of 530–533 CE) recognized mediation. The Romans called mediators by a variety of names, including _internuncius_, _medium_, _intercessor_, _philantropus_, _interpolator_, _conciliator_, _interlocutor_, _interpres_, and finally _mediator_.
+(1697)]] The activity of mediation appeared in very ancient times. The practice developed in Ancient Greece (which knew the non-marital mediator as a _proxenetas_), then in Roman civilization. (Roman law, starting from Justinian's _Digest_ of 530–533 CE) recognized mediation. The Romans called mediators by a variety of names, including _internuncius_, _medium_, _intercessor_, _philantropus_, _interpolator_, _conciliator_, _interlocutor_, _interpres_, and finally _mediator_.
 
 Some cultures regarded the mediator as a sacred figure, worthy of particular respect; and the role partly overlapped with that of traditional wise men or tribal chief. Members of peaceful communities frequently brought disputes before local leaders or wise men to resolve local conflicts.[2] This peaceful method of resolving conflicts was particularly prevalent in communities of Confucians and Buddhists.[3]
 
@@ -35,7 +35,7 @@ Support : Mediators are trained in working with difficult situations. The mediat
 
 Uses
 
-Agent_de_médiation_urbaine_à_Fort-de-France_(Martinique).jpg (Martinique)]]
+(Martinique)]]
 
 In addition to dispute resolution, mediation can function as a means of dispute prevention, such as facilitating the process of contract negotiation. Governments can use mediation to inform and to seek input from stakeholders in formulation or fact-seeking aspects of policy-making.
 

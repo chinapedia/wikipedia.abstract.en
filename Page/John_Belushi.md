@@ -60,7 +60,7 @@ Belushi's wife arranged for a traditional Orthodox Christian funeral that was co
 
 Tributes, legacy, and popular culture
 
-John_Belushi_2008_stamp_of_Albania.jpg Belushi's life was detailed in the 1984 biography _Wired: The Short Life and Fast Times of John Belushi_ by Bob Woodward and 1990's _Samurai Widow_ by his wife Judith.
+Belushi's life was detailed in the 1984 biography _Wired: The Short Life and Fast Times of John Belushi_ by Bob Woodward and 1990's _Samurai Widow_ by his wife Judith.
 
 The thrash metal group Anthrax penned a song about Belushi on their 1987 album _Among the Living_, titled "Efilnikufesin (N.F.L.)."[28] Polish rock band Lady Pank recorded a song "John Belushi" for their 1988 album _Tacy sami_, with references to his Albanian ancestry.
 
@@ -68,7 +68,7 @@ Belushi has been portrayed by actors Eric Siegel in _Gilda Radner: It's Always S
 
 His widow later remarried and is now Judith Belushi Pisano. She and co-biographer Tanner Colby produced _Belushi: A Biography_, a collection of first-person interviews and photographs of John Belushi's life that was published in 2005.
 
-Belushi's career and death were prominently featured in the 1999 memoir of his manager Bernie Brillstein, who wrote that he was haunted by the comedian's overdose and learned how to better deal with clients who abuse drugs or alcohol from handling Belushi.[30] John_Belushi's_Star.jpg In 2004, Belushi was posthumously inducted into the Hollywood Walk of Fame with a motion pictures star located at 6355 Hollywood Boulevard.[31] In 2006, Biography Channel aired an episode of _Final 24_, a documentary following Belushi during the last twenty-four hours leading to his death. Four years later, Biography aired a full biography documentation of Belushi's life.
+Belushi's career and death were prominently featured in the 1999 memoir of his manager Bernie Brillstein, who wrote that he was haunted by the comedian's overdose and learned how to better deal with clients who abuse drugs or alcohol from handling Belushi.[30] In 2004, Belushi was posthumously inducted into the Hollywood Walk of Fame with a motion pictures star located at 6355 Hollywood Boulevard.[31] In 2006, Biography Channel aired an episode of _Final 24_, a documentary following Belushi during the last twenty-four hours leading to his death. Four years later, Biography aired a full biography documentation of Belushi's life.
 
 According to his _SNL_ fellow, Jane Curtin, who appeared on _The Oprah Winfrey Show_ in 2011, Belushi was a misogynist who would deliberately sabotage the work of women writers and comics while working on _SNL_. "So you'd go to a table read, and if a woman writer had written a piece for John, he would not read it in his full voice. He felt as though it was his duty to sabotage pieces written by women."[32]
 

@@ -41,19 +41,15 @@ Variants
 
 Devanagari digits shapes may vary depending on geographical area.[3][4]
 
-+---+--------------------------------+--------------------------------+
-| १ | Devanagari_Numeral_1_var_1.png | Devanagari_Numeral_1_var_2.png |
-|   | common                         | Nepali                         |
-+===+================================+================================+
-| ५ | Devanagari_Numeral_5_var_1.png | Devanagari_Numeral_5_var_2.png |
-|   | "Bombay" variant               | "Calcutta" variant             |
-+---+--------------------------------+--------------------------------+
-| ८ | Devanagari_Numeral_8_var_1.png | Devanagari_Numeral_8_var_2.png |
-|   | "Bombay" variant               | "Calcutta" variant             |
-+---+--------------------------------+--------------------------------+
-| ९ | Devanagari_Numeral_9_var_1.png | Devanagari_Numeral_9_var_2.png |
-|   | common                         | Nepali                         |
-+---+--------------------------------+--------------------------------+
++---+------------------+--------------------+
+| १ | common           | Nepali             |
++===+==================+====================+
+| ५ | "Bombay" variant | "Calcutta" variant |
++---+------------------+--------------------+
+| ८ | "Bombay" variant | "Calcutta" variant |
++---+------------------+--------------------+
+| ९ | common           | Nepali             |
++---+------------------+--------------------+
 
 
 Other Indic scripts

@@ -179,7 +179,7 @@ Table of versions
 
 Philosophy
 
-Yukihiro_Matsumoto.JPG, the creator of Ruby]]
+, the creator of Ruby]]
 
 Matsumoto has said that Ruby is designed for programmer productivity and fun, following the principles of good user interface design.[80] At a Google Tech Talk in 2008 Matsumoto further stated, "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language."[81] He stresses that systems design needs to emphasize human, rather than computer, needs:[82]
 

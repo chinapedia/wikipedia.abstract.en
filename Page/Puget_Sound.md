@@ -25,7 +25,7 @@ According to Arthur Kruckeberg, the term "Puget Sound" is sometimes used for wat
 
 Geology
 
-Mt_Rainier_distant-600px.jpg is seen from Gig Harbor.]]
+is seen from Gig Harbor.]]
 
 Continental ice sheets have repeatedly advanced and retreated from the Puget Sound region. The most recent glacial period, called the Fraser Glaciation, had three phases, or stades. During the third, or Vashon Glaciation, a lobe of the Cordilleran Ice Sheet, called the Puget Lobe, spread south about 15,000 years ago, covering the Puget Sound region with an ice sheet about thick near Seattle, and nearly at the present Canada-U.S. border. Since each new advance and retreat of ice erodes away much of the evidence of previous ice ages, the most recent Vashon phase has left the clearest imprint on the land. At its maximum extent the Vashon ice sheet extended south of Olympia to near Tenino, and covered the lowlands between the Olympic and Cascade mountain ranges. About 14,000 years ago the ice began to retreat. By 11,000 years ago it survived only north of the Canada–US border.[12]
 
@@ -44,9 +44,9 @@ Typical Puget Sound profiles of dense glacial till overlying permeable glacial o
 
 Hydrology
 
-Low_tide_on_Whidbey_Island.JPG The United States Geological Survey (USGS) defines Puget Sound as a bay with numerous channels and branches; more specifically, it is a fjord system of flooded glacial valleys. Puget Sound is part of a larger physiographic structure termed the Puget Trough, which is a physiographic section of the larger Pacific Border province, which in turn is part of the larger Pacific Mountain System.[20]
+The United States Geological Survey (USGS) defines Puget Sound as a bay with numerous channels and branches; more specifically, it is a fjord system of flooded glacial valleys. Puget Sound is part of a larger physiographic structure termed the Puget Trough, which is a physiographic section of the larger Pacific Border province, which in turn is part of the larger Pacific Mountain System.[20]
 
-Puget Sound is a large salt water estuary, or system of many estuaries, fed by highly seasonal freshwater from the Olympic and Cascade Mountain watersheds. The mean annual river discharge into Puget Sound is , with a monthly average maximum of about and minimum of about . Puget Sound's shoreline is long, encompassing a water area of and a total volume of at mean high water. The average volume of water flowing in and out of Puget Sound during each tide is . The maximum tidal currents, in the range of 9 to 10 knots, occurs at Deception Pass.[21] Edward_S._Curtis_Collection_People_047.jpg, 1913]]
+Puget Sound is a large salt water estuary, or system of many estuaries, fed by highly seasonal freshwater from the Olympic and Cascade Mountain watersheds. The mean annual river discharge into Puget Sound is , with a monthly average maximum of about and minimum of about . Puget Sound's shoreline is long, encompassing a water area of and a total volume of at mean high water. The average volume of water flowing in and out of Puget Sound during each tide is . The maximum tidal currents, in the range of 9 to 10 knots, occurs at Deception Pass.[21] , 1913]]
 
 The size of Puget Sound's watershed is .[22] "Northern Puget Sound" is frequently considered part of the Puget Sound watershed, which enlarges its size to .[23] The USGS uses the name "Puget Sound" for its hydrologic unit subregion 1711, which includes areas draining to Puget Sound proper as well as the Strait of Juan de Fuca, the Strait of Georgia, and the Fraser River.[24] Significant rivers that drain to "Northern Puget Sound" include the Nooksack, Dungeness, and Elwha Rivers. The Nooksack empties into Bellingham Bay, the Dungeness and Elwha into the Strait of Juan de Fuca. The Chilliwack River flows north to the Fraser River in Canada.
 
@@ -54,14 +54,14 @@ Tides in Puget Sound are of the mixed type with two high and two low tides each 
 
 Puget Sound is generally accepted as the start of the Inside Passage.[26][27]
 
-Mount_Rainier_over_Totten_Inlet_dock.jpg looms over the still waters of Totten Inlet, one of the Sound's southern fjords. Mason County, Washington.]]
+looms over the still waters of Totten Inlet, one of the Sound's southern fjords. Mason County, Washington.]]
 
 
 Flora and fauna
 
 Important marine flora of Puget Sound include eelgrass (_Zostera marina_)[28] and kelp, especially bull kelp (_Nereocystis luetkeana_).[29]
 
-Oncorhynchus_nerka.jpg (_Oncorhynchus nerka_)]] Lake_Washington_Ship_Canal_Fish_Ladder_pamphlet_-_ocean_phase_Steelhead.jpg (_Oncorhynchus mykiss_)]] Among the marine mammals species found in Puget Sound are harbor seals (_Phoca vitulina_).[30] Orca (_Orcinus orca_) are famous throughout the Sound, and are a large tourist attraction. Although orca are sometimes seen in Puget Sound proper they are far more prevalent around the San Juan Islands north of Puget Sound.[31]
+(_Oncorhynchus nerka_)]] (_Oncorhynchus mykiss_)]] Among the marine mammals species found in Puget Sound are harbor seals (_Phoca vitulina_).[30] Orca (_Orcinus orca_) are famous throughout the Sound, and are a large tourist attraction. Although orca are sometimes seen in Puget Sound proper they are far more prevalent around the San Juan Islands north of Puget Sound.[31]
 
 Many fish species occur in Puget Sound. The various salmonid species, including salmon, trout, and char are particularly well-known and studied. Salmonid species of Puget Sound include chinook salmon (_Oncorhynchus tshawytscha_), chum salmon (_O. keta_), coho salmon (_O. kisutch_), pink salmon (_O. gorbuscha_), sockeye salmon (_O. nerka_), sea-run coastal cutthroat trout (_O. clarki clarki_), steelhead (_O. mykiss irideus_), sea-run bull trout (_Salvelinus confluentus_), and Dolly Varden trout (_Salvelinus malma malma_).[32][33]
 
@@ -71,14 +71,12 @@ Many other fish species occur in Puget Sound, such as sturgeons, lampreys, vario
 
 Puget Sound is home to numerous species of marine invertebrates, including sponges, sea anemones, chitons, clams, sea snails, limpets crabs, barnacles starfish, sea urchins, and sand dollars.[38] Dungeness crabs (_Metacarcinus magister_) occur throughout Washington waters, including Puget Sound.[39] Many bivalves occur in Puget Sound, such as Pacific oysters (_Crassostrea gigas_) and geoduck clams (_Panopea generosa_). The Olympia oyster (_Ostreola conchaphila_), once common in Puget Sound, was depleted by human activities during the 20th century. There are ongoing efforts to restore Olympia oysters in Puget Sound.[40]
 
-Double-crested_Cormorant_at_Ding_Darling_NWR.jpg (_Phalacrocorax auritus_)]] There are many seabird species of Puget Sound. Among these are grebes such as the western grebe (_Aechmophorus occidentalis_); loons such as the common loon (_Gavia immer_); auks such as the pigeon guillemot (_Cepphus columba_), rhinoceros auklet (_Cerorhinca monocerata_), common murre (_Uria aalge_), and marbled murrelet (_Brachyramphus marmoratus_); the brant goose (_Branta bernicla_); seaducks such as the long-tailed duck (_Clangula hyemalis_), harlequin duck (_Histrionicus histrionicus_), and surf scoter (_Melanitta perspicillata_); and cormorants such as the double-crested cormorant (_Phalacrocorax auritus_). Puget Sound is home to a non-migratory and marine-oriented subspecies of great blue herons (_Ardea herodias fannini_).[41] Bald eagles (_Haliaeetus leucocephalus_) occur in relative high densities in the Puget Sound region.[42]
+(_Phalacrocorax auritus_)]] There are many seabird species of Puget Sound. Among these are grebes such as the western grebe (_Aechmophorus occidentalis_); loons such as the common loon (_Gavia immer_); auks such as the pigeon guillemot (_Cepphus columba_), rhinoceros auklet (_Cerorhinca monocerata_), common murre (_Uria aalge_), and marbled murrelet (_Brachyramphus marmoratus_); the brant goose (_Branta bernicla_); seaducks such as the long-tailed duck (_Clangula hyemalis_), harlequin duck (_Histrionicus histrionicus_), and surf scoter (_Melanitta perspicillata_); and cormorants such as the double-crested cormorant (_Phalacrocorax auritus_). Puget Sound is home to a non-migratory and marine-oriented subspecies of great blue herons (_Ardea herodias fannini_).[41] Bald eagles (_Haliaeetus leucocephalus_) occur in relative high densities in the Puget Sound region.[42]
 
 It is estimated that more than 100 million geoducks (pronounced "gooey ducks") are packed into Puget Sound's sediments. Also known as "king clam", geoducks are considered to be a delicacy in Asian countries.
 
 
 History
-
-1867_U.S._Coast_Survey_Chart_or_Map_of_Puget_Sound,_Washington_-_Geographicus_-_PugetSound-uscs-1867.jpg
 
 George Vancouver explored Puget Sound in 1792. Vancouver claimed it for Great Britain on 4 June 1792, naming it for one of his officers, Lieutenant Peter Puget.[43]
 
@@ -102,7 +100,7 @@ Environmental issues
 
 In the past 30 years there has been a large recession in the populations of the species which inhabit Puget Sound. The decrease has been seen in the following populations: forage fish, salmonids, bottom fish, marine birds, harbor porpoise and orcas. This decline is attributed to the various environmental issues in Puget Sound. Because of this population decline, there have been changes to the fishery practices, and an increase in petitioning to add species to the Endangered Species Act. There has also been an increase in recovery and management plans for many different area species.[51]
 
-Fishermen_purse_seining_in_Puget_Sound,_ca_1917_(COBB_71).jpeg on Ouget Sound ca. 1917]] The causes of these environmental issues are toxic contamination, eutrophication (low oxygen due to excess nutrients), and near shore habitat changes.[52]
+on Ouget Sound ca. 1917]] The causes of these environmental issues are toxic contamination, eutrophication (low oxygen due to excess nutrients), and near shore habitat changes.[52]
 
 
 Prominent islands

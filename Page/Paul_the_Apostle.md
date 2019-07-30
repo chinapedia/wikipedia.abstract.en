@@ -20,7 +20,7 @@ Biography
 
 Available sources
 
-Conversion_of_Saint_Paul_(Michelangelo_Buonarroti).jpg'', fresco by Michelangelo, 1542–1545]]
+'', fresco by Michelangelo, 1542–1545]]
 
 The main source for information about Paul's life is the material found in his epistles and in Acts. However, the epistles contain little information about Paul's pre-conversion past. The book of Acts recounts more information but leaves several parts of Paul's life out of its narrative, such as his probable but undocumented execution in Rome.[33] Some scholars believe Acts also contradicts Paul's epistles on multiple accounts, in particular concerning the frequency of Paul's visits to the church in Jerusalem.[34][35]
 
@@ -34,7 +34,7 @@ Biblical narrative
 
 Early life
 
-Broad_overview_of_geography_relevant_to_paul_of_tarsus.png to Rome]] The two main sources of information by which we have access to the earliest segments of Paul's career are the Bible's Book of Acts and the autobiographical elements of Paul's letters to the early church communities. Paul was likely born between the years of 5 BC and 5 AD.[37] The Book of Acts indicates that Paul was a Roman citizen by birth, but Helmut Koester takes issue with the evidence presented by the text.[38]
+to Rome]] The two main sources of information by which we have access to the earliest segments of Paul's career are the Bible's Book of Acts and the autobiographical elements of Paul's letters to the early church communities. Paul was likely born between the years of 5 BC and 5 AD.[37] The Book of Acts indicates that Paul was a Roman citizen by birth, but Helmut Koester takes issue with the evidence presented by the text.[38]
 
 He was from a devout Jewish family[39] in the city of Tarsus, one of the largest trade centers on the Mediterranean coast.[40] It had been in existence several hundred years prior to his birth. It was renowned for its university. During the time of Alexander the Great, who died in 323 BC, Tarsus was the most influential city in Asia Minor.[41]
 
@@ -54,7 +54,7 @@ He also owed much to his training in the law and the prophets, utilizing this kn
 
 Conversion
 
-Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg'' (1601), by Caravaggio]] Paul's conversion can be dated to 31–36[50][51][52] by his reference to it in one of his letters. In Paul writes that God "was pleased to reveal his son to me." In , as he lists the order in which Jesus appeared to his disciples after his resurrection, Paul writes, "last of all, as to one untimely born, He appeared to me also."
+'' (1601), by Caravaggio]] Paul's conversion can be dated to 31–36[50][51][52] by his reference to it in one of his letters. In Paul writes that God "was pleased to reveal his son to me." In , as he lists the order in which Jesus appeared to his disciples after his resurrection, Paul writes, "last of all, as to one untimely born, He appeared to me also."
 
 According to the account in Acts, it took place on the road to Damascus, where he reported having experienced a vision of the resurrected Jesus. The account says that "he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?" Saul replied, "Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: _[it is]_ hard for thee to kick against the pricks (goads)."
 
@@ -66,11 +66,11 @@ According to Timo Eskola, early Christian theology and discourse was influenced 
 
 Post-conversion
 
-Michelangelo_Merisi_da_Caravaggio_-_The_Conversion_of_St._Paul_-_WGA04135.jpg (1571–1610), _The Conversion of Saint Paul_, 1600]] Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop?),_c._1657.jpg c. 1657]]
+(1571–1610), _The Conversion of Saint Paul_, 1600]] c. 1657]]
 
 Early ministry
 
-Ananias_house.jpg in Damascus]] Damascus-Bab_Kisan.jpg, believed to be where Paul escaped from persecution in Damascus]]
+in Damascus]] , believed to be where Paul escaped from persecution in Damascus]]
 
 After his conversion, Paul went to Damascus, where Acts 9 states he was healed of his blindness and baptized by Ananias of Damascus.[57] Paul says that it was in Damascus that he barely escaped death. Paul also says that he then went first to Arabia, and then came back to Damascus.[58] Paul's trip to Arabia is not mentioned anywhere else in the Bible, and some suppose he actually traveled to Mount Sinai for meditations in the desert.[59][60] He describes in Galatians how three years after his conversion he went to Jerusalem. There he met James and stayed with Simon Peter for 15 days. Paul located Mount Sinai in Arabia in .
 
@@ -108,7 +108,7 @@ The primary source account of the Incident at Antioch is Paul's letter to the Ga
 
 Second missionary journey
 
-V&A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg'' in Athens, by Raphael, 1515. This sermon addressed early issues in Christology.[81][82]]]
+'' in Athens, by Raphael, 1515. This sermon addressed early issues in Christology.[81][82]]]
 
 Paul left for his second missionary journey from Jerusalem, in late Autumn 49,[83] after the meeting of the Council of Jerusalem where the circumcision question was debated. On their trip around the Mediterranean Sea, Paul and his companion Barnabas stopped in Antioch where they had a sharp argument about taking John Mark with them on their trips. The book of Acts said that John Mark had left them in a previous trip and gone home. Unable to resolve the dispute, Paul and Barnabas decided to separate; Barnabas took John Mark with him, while Silas joined Paul.
 
@@ -124,7 +124,7 @@ In 52, departing from Corinth, Paul stopped at the nearby village of Cenchreae t
 
 Third missionary journey
 
-Eustache_Le_Sueur_-_The_Preaching_of_St_Paul_at_Ephesus_-_WGA12613.jpg'' by Eustache Le Sueur (1649)[91]]]
+'' by Eustache Le Sueur (1649)[91]]]
 
 According to Acts, Paul began his third missionary journey by travelling all around the region of Galatia and Phrygia to strengthen, teach and rebuke the believers. Paul then traveled to Ephesus, an important center of early Christianity, and stayed there for almost three years, probably working there as a tentmaker,[92] as he had done when he stayed in Corinth. He is claimed to have performed numerous miracles, healing people and casting out demons, and he apparently organized missionary activity in other regions.[93] Paul left Ephesus after an attack from a local silversmith resulted in a pro-Artemis riot involving most of the city.[94] During his stay in Ephesus, Paul wrote four letters to the church in Corinth.[95]
 
@@ -142,8 +142,6 @@ This table is adapted from White, _From Jesus to Christianity._[104] Note that t
 
 Last visit to Jerusalem and arrest
 
-Paul_arrested.jpg
-
 In 57, upon completion of his third missionary journey, Paul arrived in Jerusalem for his fifth and final visit with a collection of money for the local community. Acts reports that he initially was warmly received. However, Acts goes on to recount how Paul was warned by James and the elders that he was gaining a reputation for being against the Law, saying "they have been told about you that you teach all the Jews who are among the Gentiles to forsake Moses, telling them not to circumcise their children or walk according to our customs". Paul underwent a purification ritual in order to give the Jews no grounds to bring accusations against him for not following their law.
 
 After seven days in Jerusalem, some "Jews from Asia" (most likely from Roman Asia) accused Paul of defiling the temple by bringing gentiles into it. He was seized and dragged out of the temple by an angry mob. He narrowly escaped being killed by surrendering to a group of Roman centurions, who arrested him, put him in chains and took him to the tribune.
@@ -154,7 +152,7 @@ Acts recounts that on the way to Rome for his appeal as a Roman citizen to Caesa
 
 Two years in Rome
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_235.png'']]
+'']]
 
 He finally arrived in Rome around 60, where he spent another two years under house arrest.[107] The narrative of Acts ends with Paul preaching in Rome for two years from his rented home while awaiting trial.
 
@@ -162,7 +160,7 @@ Irenaeus wrote in the 2nd century that Peter and Paul had been the founders of t
 
 Death
 
-Decapitación_de_San_Pablo_-_Simonet_-_1887.jpg, 1887]] The date of Paul's death is believed to have occurred after the Great Fire of Rome in July 64, but before the last year of Nero's reign, in 68.[110] According to several Church Fathers and apocryphal books, Paul was beheaded in Rome by orders of Nero.
+, 1887]] The date of Paul's death is believed to have occurred after the Great Fire of Rome in July 64, but before the last year of Nero's reign, in 68.[110] According to several Church Fathers and apocryphal books, Paul was beheaded in Rome by orders of Nero.
 
 A legend later developed that his martyrdom occurred at the Aquae Salviae, on the Via Laurentina. According to this legend, after Paul was decapitated, his severed head rebounded three times, giving rise to a source of water each time that it touched the ground, which is how the place earned the name "San Paolo alle Tre Fontane" ("St Paul at the Three Fountains").[111][112] Also according to legend, Paul's body was buried outside the walls of Rome, at the second mile on the Via Ostiensis, on the estate owned by a Christian woman named Lucina. It was here, in the fourth century, that the Emperor Constantine the Great built a first church. Then, between the fourth and fifth centuries it was considerably enlarged by the Emperors Valentinian I, Valentinian II, Theodosius I, and Arcadius. The present-day Basilica of Saint Paul Outside the Walls was built there in 1800.[113]
 
@@ -178,11 +176,11 @@ In 2002, an -long marble sarcophagus, inscribed with the words "PAULO APOSTOLO M
 
 Church tradition
 
-Greek_orthodox_mural_of_Apostle_Paul.jpg mural painting of Saint Paul]] Various Christian writers have suggested more details about Paul's life.
+mural painting of Saint Paul]] Various Christian writers have suggested more details about Paul's life.
 
 1 Clement, a letter written by the Roman bishop Clement of Rome around the year 90, reports this about Paul:[119]
 
-Commenting on this passage, Raymond Brown writes that while it "does not explicitly say" that Paul was martyred in Rome, "such a martyrdom is the most reasonable interpretation".[120] Eusebius of Caesarea, who wrote in the 4th century, states that Paul was beheaded in the reign of the Roman Emperor Nero.[121] This event has been dated either to the year 64, when Rome was devastated by a fire, or a few years later, to 67. According to one tradition, the church of San Paolo alle Tre Fontane marks the place of Paul's execution. A Roman Catholic liturgical solemnity of Peter and Paul, celebrated on June 29, commemorates his martyrdom, and reflects a tradition (preserved by Eusebius) that Peter and Paul were martyred at the same time.[122] The Roman liturgical calendar for the following day now remembers all Christians martyred in these early persecutions; formerly, June 30 was the feast day for St. Paul.[123] Persons or religious orders with special affinity for St. Paul can still celebrate their patron on June 30.[124] Statue_of_St._Paul,_Community_Mausoleum_of_All_Saints_Cemetery,_Des_Plaines,_Illinois.jpg, Des Plaines, Illinois]] The apocryphal Acts of Paul and the apocryphal Acts of Peter suggest that Paul survived Rome and traveled further west. Some think that Paul could have revisited Greece and Asia Minor after his trip to Spain, and might then have been arrested in Troas, and taken to Rome and executed.[125] A tradition holds that Paul was interred with Saint Peter _ad Catacumbas_ by the via Appia until moved to what is now the Basilica of Saint Paul Outside the Walls in Rome. Bede, in his _Ecclesiastical History_, writes that Pope Vitalian in 665 gave Paul's relics (including a cross made from his prison chains) from the crypts of Lucina to King Oswy of Northumbria, northern Britain. Paul is considered the patron saint of London.
+Commenting on this passage, Raymond Brown writes that while it "does not explicitly say" that Paul was martyred in Rome, "such a martyrdom is the most reasonable interpretation".[120] Eusebius of Caesarea, who wrote in the 4th century, states that Paul was beheaded in the reign of the Roman Emperor Nero.[121] This event has been dated either to the year 64, when Rome was devastated by a fire, or a few years later, to 67. According to one tradition, the church of San Paolo alle Tre Fontane marks the place of Paul's execution. A Roman Catholic liturgical solemnity of Peter and Paul, celebrated on June 29, commemorates his martyrdom, and reflects a tradition (preserved by Eusebius) that Peter and Paul were martyred at the same time.[122] The Roman liturgical calendar for the following day now remembers all Christians martyred in these early persecutions; formerly, June 30 was the feast day for St. Paul.[123] Persons or religious orders with special affinity for St. Paul can still celebrate their patron on June 30.[124] , Des Plaines, Illinois]] The apocryphal Acts of Paul and the apocryphal Acts of Peter suggest that Paul survived Rome and traveled further west. Some think that Paul could have revisited Greece and Asia Minor after his trip to Spain, and might then have been arrested in Troas, and taken to Rome and executed.[125] A tradition holds that Paul was interred with Saint Peter _ad Catacumbas_ by the via Appia until moved to what is now the Basilica of Saint Paul Outside the Walls in Rome. Bede, in his _Ecclesiastical History_, writes that Pope Vitalian in 665 gave Paul's relics (including a cross made from his prison chains) from the crypts of Lucina to King Oswy of Northumbria, northern Britain. Paul is considered the patron saint of London.
 
 The Feast of the Conversion of Saint Paul is celebrated on January 25.[126]
 
@@ -198,7 +196,7 @@ Nicephorus claims that Paul was a little man, crooked, and almost bent like a bo
 
 Writings
 
-Paulus_San_Giovanni_in_Laterano_2006-09-07.jpg by Pierre-Étienne Monnot]]
+by Pierre-Étienne Monnot]]
 
 Of the 27 books in the New Testament, 14 have been attributed to Paul; 7 of these are widely considered authentic and Paul's own, while the authorship of the other 7 is disputed.[135][136][137] The undisputed letters are considered the most important sources since they contain what everyone agrees to be Paul's own statements about his life and thoughts. Theologian Mark Powell writes that Paul directed these 7 letters to specific occasions at particular churches. As an example, if the Corinthian church had not experienced problems concerning its celebration of the Lord's Supper, today we would not know that Paul even believed in that observance or had any opinions about it one way or the other. Powell asks if we might be ignorant of other matters simply because no crises arose that prompted Paul to comment on them.[138]
 
@@ -206,7 +204,7 @@ In Paul's writings, he provides the first written account of what it is to be a 
 
 Authorship
 
-Probably_Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles_-_Google_Art_Project.jpg, 17th century]]
+, 17th century]]
 
 Seven of the 13 letters that bear Paul's name – Romans, 1 Corinthians, 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon – are almost universally accepted as being entirely authentic (dictated by Paul himself).[140][141][142][143] They are considered the best source of information on Paul's life and especially his thought.[144]
 
@@ -218,7 +216,7 @@ Ephesians is a letter that is very similar to Colossians, but is almost entirely
 
 The defenders of its Pauline authorship argue that it was intended to be read by a number of different churches and that it marks the final stage of the development of Paul's thinking. It has been said, too, that the moral portion of the Epistle, consisting of the last two chapters, has the closest affinity with similar portions of other Epistles, while the whole admirably fits in with the known details of Paul's life, and throws considerable light upon them.[150]
 
-Paul_Apostle.jpg icon of the Apostle Paul, 18th century (Iconostasis of Transfiguration Church, Kizhi Monastery, Karelia, Russia)]]
+icon of the Apostle Paul, 18th century (Iconostasis of Transfiguration Church, Kizhi Monastery, Karelia, Russia)]]
 
 Three main reasons have been advanced by those who question Paul's authorship of 1 Timothy, 2 Timothy, and Titus – also known as the Pastoral Epistles.
 
@@ -239,7 +237,7 @@ F. C. Baur (1792–1860), professor of theology at Tübingen in Germany, the fir
 
 Views
 
-Saint-Paul.JPG)]]
+)]]
 
 Self-view
 
@@ -289,7 +287,7 @@ Before his conversion he believed God's messiah would put an end to the old age 
 
 Role of women
 
-Attributed_to_Lucas_van_Leyden_001.jpg]] The second chapter of the first letter to Timothy – one of the six disputed letters – is used by many churches to deny women a vote in church affairs, reject women from serving as teachers of adult Bible classes, prevent them from serving as missionaries, and generally disenfranchise women from the duties and privileges of church leadership.[189]
+]] The second chapter of the first letter to Timothy – one of the six disputed letters – is used by many churches to deny women a vote in church affairs, reject women from serving as teachers of adult Bible classes, prevent them from serving as missionaries, and generally disenfranchise women from the duties and privileges of church leadership.[189]
 
 The KJV translation of this passage taken literally says that women in the churches are to have no leadership roles vis-à-vis men.[190]
 
@@ -323,7 +321,7 @@ Most Christian traditions[203][204][205] say Paul clearly portrays homosexuality
 
 Influence
 
-San_Pablo_(1606)_-_Gregorio_Fernández.jpg]]
+]]
 
 Paul's influence on Christian thinking arguably has been more significant than any other New Testament author.[208] Paul declared that "Christ is the end of the law",[209] exalted the Christian church as the body of Christ, and depicted the world outside the Church as under judgment.[210] Paul's writings include the earliest reference to the "Lord's Supper",[211] a rite traditionally identified as the Christian communion or Eucharist. In the East, church fathers attributed the element of election in to divine foreknowledge.[212] The themes of predestination found in Western Christianity do not appear in Eastern theology.
 
@@ -356,7 +354,7 @@ Views on Paul
 
 Jewish views
 
-Saint_Paul_with_a_Scroll_and_a_Sword.jpgs) and the sword (symbolising his martyrdom)]] Jewish interest in Paul is a recent phenomenon. Before the positive historical reevaluations of Jesus by some Jewish thinkers in the eighteenth and nineteenth centuries, he had hardly featured in the popular Jewish imagination and little had been written about him by the religious leaders and scholars. Arguably, he is absent from the Talmud and rabbinical literature, although he makes an appearance in some variants of the medieval polemic Toledot Yeshu (as a particularly effective spy for the rabbis).[220]
+s) and the sword (symbolising his martyrdom)]] Jewish interest in Paul is a recent phenomenon. Before the positive historical reevaluations of Jesus by some Jewish thinkers in the eighteenth and nineteenth centuries, he had hardly featured in the popular Jewish imagination and little had been written about him by the religious leaders and scholars. Arguably, he is absent from the Talmud and rabbinical literature, although he makes an appearance in some variants of the medieval polemic Toledot Yeshu (as a particularly effective spy for the rabbis).[220]
 
 However, with Jesus no longer regarded as the paradigm of gentile Christianity, Paul's position became more important in Jewish historical reconstructions of their religion's relationship with Christianity. He has featured as the key to building barriers (e.g. Heinrich Graetz and Martin Buber) or bridges (e.g. Isaac Mayer Wise and Claude G. Montefiore) in interfaith relations,[221] as part of an intra-Jewish debate about what constitutes Jewish authenticity (e.g. Joseph Klausner and Hans Joachim Schoeps),[222] and on occasion as a dialogical partner (e.g. Richard L. Rubenstein and Daniel Boyarin).[223]
 

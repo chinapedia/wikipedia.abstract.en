@@ -3,7 +3,7 @@ RURIK (also RIURIK; Old Church Slavonic _Rjurikŭ_, from Old Norse _Hrøríkʀ_;
 
 Life
 
-1000_Rurik.JPG}}]]
+}}]]
 
 The only information about Rurik is contained in the 12th-century _Primary Chronicle_ written by one Nestor, which states that Chuds, Eastern Slavs, Merias, Veses, and Krivichs "...drove the Varangians back beyond the sea, refused to pay them tribute, and set out to govern themselves". Afterwards the tribes started fighting each other and decided to invite the Varangians, led by Rurik, to reestablish order. Rurik came in 860-862 along with his brothers Sineus and Truvor and a large retinue.
 
@@ -22,8 +22,6 @@ In the 20th century, archaeologists partly corroborated the chronicle's version 
 
 Hypothesis of identity with Rorik of Dorestad
 
-Rorik_by_H._W._Koekkoek.jpg
-
 The name _Rurik_ is accepted to be a form of the Old Norse name _Hrærekr_. This has been taken as evidence that Rurik was in some way ethnically Scandinavian.[4] The only similarly named figure described in the Carolingian _Annales Fuldenses_ and _Annales Bertiniani_ was Rorik of Dorestad (also spelled Rørik, Rörik, Roerik, Hrörek, etc.), a Germanic king from the royal Scylding house of Haithabu in the Jutland Peninsula. Since the 19th century, there have been attempts to identify him with the Rurik of Russian chronicles.
 
 Rorik of Dorestad was a member of one of two competing families reported in the Frankish chroniclers as having ruled the nascent Danish kingdom at Hedeby, and was likely nephew of king Harold Klak. He is mentioned as receiving lands in Friesland from Emperor Louis I. This was not enough for him, and he started to plunder neighbouring lands: he took Dorestad in 850, attacked Hedeby in 857, and looted Bremen in 859, yet his own lands were ravaged in his absence. The Emperor was enraged and stripped him of all his possessions in 860. After that, Rorik disappears from the Western sources for a considerable period of time, while only two years later, in 862, the Russian chronicle's Rurik arrives in the eastern Baltic, builds the fortress of Ladoga, and later moves to Novgorod.
@@ -40,7 +38,7 @@ In Estonian folklore there is a tale of three brothers, who were born as sons of
 
 Legacy
 
-Prizvanievaryagov.jpg arrive at Ladoga by Viktor Vasnetsov}}]] The Rurik dynasty (or _Rurikids_) went on to rule the Kievan Rus', and ultimately the Tsardom of Russia, until 1598, and numerous noble Russian and Ruthenian families claim a male-line descent from Rurik. Vasily Tatishchev (a Rurikid himself) claimed that Rurik was of Wendish extraction and went so far as to name Rurik's wife, Efanda of Norway (Edvina); mother, Umila; his maternal grandfather, Gostomysl; and a cousin, Vadim (apparently basing his account on the lost _Ioachim Chronicle_).
+arrive at Ladoga by Viktor Vasnetsov}}]] The Rurik dynasty (or _Rurikids_) went on to rule the Kievan Rus', and ultimately the Tsardom of Russia, until 1598, and numerous noble Russian and Ruthenian families claim a male-line descent from Rurik. Vasily Tatishchev (a Rurikid himself) claimed that Rurik was of Wendish extraction and went so far as to name Rurik's wife, Efanda of Norway (Edvina); mother, Umila; his maternal grandfather, Gostomysl; and a cousin, Vadim (apparently basing his account on the lost _Ioachim Chronicle_).
 
 
 References

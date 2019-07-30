@@ -9,8 +9,6 @@ In December 1894, Prime Minister Thompson unexpectedly died in office, aged only
 
 Early life, career, and family
 
-Hastings_County_Archives_HC01484_(21522809091).jpg
-
 Bowell was born in Rickinghall, England, to John Bowell and Elizabeth Marshall. In 1832 his family emigrated to Belleville, Upper Canada, where he apprenticed with the printer at the town newspaper, _The Belleville Intelligencer_. He became a successful printer and editor with that newspaper, and later its owner. He was a Freemason[1] but also an Orangeman, becoming Grandmaster of the Orange Order of British North America, 1870–1878. In 1847 he married Harriet Moore, with whom he had five sons and four daughters.
 
 

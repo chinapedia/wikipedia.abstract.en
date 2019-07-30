@@ -5,7 +5,7 @@ Macrobiotics writers often claim that a macrobiotic diet is helpful for people w
 
 Conceptual basis
 
-Yin_yang.svg.[12]]] The macrobiotic diet is associated with Zen Buddhism and is based on the idea of balancing yin and yang.[13] The diet proposes 10 plans which are progressed through to reach a supposedly ideal yin/yang ratio of 5:1.[14] The diet was popularized by George Ohsawa in the 1930s and subsequently elaborated by his disciple Michio Kushi.[15] Medical historian Barbara Clow writes that, in common with many other types of alternative medicine, macrobiotics takes a view of illness and of therapy which conflicts with mainstream medicine.[16]
+.[12]]] The macrobiotic diet is associated with Zen Buddhism and is based on the idea of balancing yin and yang.[13] The diet proposes 10 plans which are progressed through to reach a supposedly ideal yin/yang ratio of 5:1.[14] The diet was popularized by George Ohsawa in the 1930s and subsequently elaborated by his disciple Michio Kushi.[15] Medical historian Barbara Clow writes that, in common with many other types of alternative medicine, macrobiotics takes a view of illness and of therapy which conflicts with mainstream medicine.[16]
 
 Macrobiotics emphasizes locally grown whole grain cereals, pulses (legumes), vegetables, edible seaweed, fermented soy products and fruit, combined into meals according to the ancient Chinese principle of balance known as yin and yang.[17] Whole grains and whole-grain products such as brown rice and buckwheat pasta (soba), a variety of cooked and raw vegetables, beans and bean products, mild natural seasonings, fish, nuts and seeds, mild (non-stimulating) beverages such as bancha twig tea and fruit are recommended.[18]
 
@@ -19,8 +19,6 @@ Nightshade vegetables, including tomatoes, peppers, potatoes, and eggplant; also
 Practices
 
 Food
-
-Some_Basic_Macrobiotic_Ingredients.JPG
 
 Some general guidelines for the Japanese-style macrobiotic diet are the following (it is also said that a macrobiotic diet varies greatly, depending on geographical and life circumstances):[25]
 

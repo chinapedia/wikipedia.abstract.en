@@ -9,7 +9,7 @@ Gandhi remained Congress President until the elections in 1991. While campaignin
 
 Early life and career
 
-Indira_Gandhi,_Jawaharlal_Nehru,_Rajiv_Gandhi_and_Sanjay_Gandhi.jpg, Jawaharlal Nehru, Rajiv Gandhi and Sanjay Gandhi]] Rajiv,_Indira_and_Sanjay_Gandhi.jpg and Sanjay Gandhi]] Rajiv Gandhi was born in Bombay on 20 August 1944 to Indira and Feroze Gandhi. In 1951, Rajiv and Sanjay were admitted to Shiv Niketan school, where the teachers said Rajiv was shy and introverted, and "greatly enjoyed painting and drawing". He was admitted to the Welham Boys' School, Dehradun and Doon School, Dehradun in 1954, where Sanjay joined him two years later.[2] Rajiv was sent to London in 1961 to study A-levels. From 1962 to 1965 he studied engineering at Trinity College, Cambridge, but did not obtain a degree.[3] In 1966 he began a course in mechanical engineering at Imperial College London, but did not complete it. Gandhi really was not studious enough, as he went on to admit later.[4]
+, Jawaharlal Nehru, Rajiv Gandhi and Sanjay Gandhi]] and Sanjay Gandhi]] Rajiv Gandhi was born in Bombay on 20 August 1944 to Indira and Feroze Gandhi. In 1951, Rajiv and Sanjay were admitted to Shiv Niketan school, where the teachers said Rajiv was shy and introverted, and "greatly enjoyed painting and drawing". He was admitted to the Welham Boys' School, Dehradun and Doon School, Dehradun in 1954, where Sanjay joined him two years later.[2] Rajiv was sent to London in 1961 to study A-levels. From 1962 to 1965 he studied engineering at Trinity College, Cambridge, but did not obtain a degree.[3] In 1966 he began a course in mechanical engineering at Imperial College London, but did not complete it. Gandhi really was not studious enough, as he went on to admit later.[4]
 
 Gandhi returned to India in 1966, the year his mother became Prime Minister. He went to Delhi and became a member of the Flying Club, where he was trained as a pilot. In 1970, he was employed as a pilot by Air India; unlike Sanjay, he did not exhibit any interest of joining politics.[5] In 1968, after three years of courtship, he married Edvige Antonia Albina Màino, who changed her name to Sonia Gandhi and made India her home. Their first child, a son, Rahul Gandhi was born in 1970. In 1972, the couple had a daughter, Priyanka Gandhi, who married Robert Vadra.[6]
 
@@ -22,11 +22,11 @@ Participation in active politics
 
 On 4 May 1981, Indira Gandhi presided over a meeting of the All India Congress Committee. Vasantdada Patil proposed Rajiv as a candidate for the Amethi constituency, which was accepted by all members at the meeting. A week later, the party officially announced his candidacy for the constituency. He then paid the party membership fees of the party and flew to Sultanpur to file his nomination papers and completed other formalities.[13] He won the seat, defeating Lok Dal candidate Sharad Yadav by a margin of 237,000 votes.[14] He took his oath on 17 August as Member of Parliament.[15]
 
-Rajiv Gandhi's first political tour was to England, where he attended the wedding ceremony of Prince Charles and Lady Diana Spencer on 29 July 1981.[16] In December the same year, he was put in charge of the Indian Youth Congress.[17] He first showed his organisational ability by "working round the clock" on the 1982 Asian Games. He was one of 33 members of the Indian parliament who were part of the Games' organising committee; sports historian Boria Majumdar writes that being "son of the prime minister he had a moral and unofficial authority" over the others.[18] The report submitted by the Asian Games committee mentions Gandhi's "drive, zeal and initiative" for the "outstanding success" of the games.[19] With_the_late_PM_Shri_Rajiv_Gandhi_during_the_medal_ceremony,_1991.jpg
+Rajiv Gandhi's first political tour was to England, where he attended the wedding ceremony of Prince Charles and Lady Diana Spencer on 29 July 1981.[16] In December the same year, he was put in charge of the Indian Youth Congress.[17] He first showed his organisational ability by "working round the clock" on the 1982 Asian Games. He was one of 33 members of the Indian parliament who were part of the Games' organising committee; sports historian Boria Majumdar writes that being "son of the prime minister he had a moral and unofficial authority" over the others.[18] The report submitted by the Asian Games committee mentions Gandhi's "drive, zeal and initiative" for the "outstanding success" of the games.[19]
 
 Indira Gandhi's death
 
-Rajiv_Gandhi_meeting_Russian_Hare_Krishna_devotees_in_New_Delhi_1989.jpg devotees in 1989.]]
+devotees in 1989.]]
 
 On 31 October 1984, the Prime Minister, Rajiv Gandhi's mother Indira Gandhi, was assassinated by her Sikh bodyguards, which led to violent riots against Sikhs.[20] At a Boat Club rally 19 days after the assassination, Gandhi said, "Some riots took place in the country following the murder of Indiraji. We know the people were very angry and for a few days it seemed that India had been shaken. But, when a mighty tree falls, it is only natural that the earth around it does shake a little".[21] According to Verinder Grover, the statement made by Gandhi was a "virtual justification" of the riots.[22] Congress leader Mani Shankar Aiyar wrote, "Did it constitute an incitement to mass murder?" He also criticised Gandhi for his reluctance to bring the army from Meerut to handle the mob.[23]
 
@@ -51,15 +51,13 @@ In 1985, the Supreme Court of India ruled in favour of Muslim divorcee Shah Bano
 
 Economic policy
 
-Pandit_Ram_Kishore_Shukla_with_Rajiv_Gandhi_at_7,_Race_course_road_in_1988.jpg in 1988.]]
+in 1988.]]
 
 In his election manifesto for the 1984 general election, he did not mention any economic reforms, but after assuming office he tried to liberalise the country's economy.[40] He did so by providing incentives to make private production profitable. Subsidies were given to corporate companies to increase industrial production, especially of durable goods. It was hoped this would increase economic growth and improve the quality of investment.[41] But according to Professor Atul Kohli of Princeton University in a book published by Cambridge University, Gandhi faced stiff opposition from Congress leadership who thought "it would open the economy to external economic influences".[42] Rural and tribal people protested because they saw them as "pro-rich" and "pro-city" reforms.[43]
 
 Gandhi increased government support for science, technology and associated industries, and reduced import quotas, taxes and tariffs on technology-based industries, especially computers, airlines, defence and telecommunications. In 1986, he announced a National Policy on Education to modernise and expand higher education programs across India. In 1986, he founded the Jawahar Navodaya Vidyalaya System, which is a Central government-based education institution that provides rural populations with free residential education from grades six to twelve.[44] His efforts created MTNL in 1986, and his public call offices—better known as PCOs—helped develop the telephone network in rural areas.[45] He introduced measures to significantly reduce the _Licence Raj_ after 1990, allowing businesses and individuals to purchase capital, consumer goods and import without bureaucratic restrictions.[46]
 
 Foreign policy
-
-President_Reagan,_Nancy_Reagan,_Rajiv_Gandhi_and_Sonia_Gandhi_in_the_Yellow_Oval_Room_during_a_state_dinner.jpg
 
 According to Rejaul Karim Laskar, a scholar of Indian foreign policy and an ideologue of Congress party, Rajiv Gandhi's vision for a new world order was premised on India's place in its front rank.[47] According to Laskar, the "whole gamut" of Rajiv Gandhi's foreign policy was "geared towards" making India "strong, independent, self-reliant and in the front rank of the nations of the world." [48] According to Laskar, Rajiv Gandhi's diplomacy was "properly calibrated" so as to be "conciliatory and accommodating when required" and "assertive when the occasion demanded." [49]
 
@@ -99,8 +97,6 @@ On 30 July 1987, a day after Gandhi went to Sri Lanka and signed the Indo-Sri La
 
 Regional issues
 
-Bajaj-Polar-3.jpg
-
 Punjab
 
 Soon after assuming office, Gandhi released the leaders of the Akali Dal who had been imprisoned since 1984's Operation Blue Star during Indira Gandhi's prime ministership. He lifted the ban on All India Sikh Students Federation and filed an inquiry into the 1984 Anti-Sikh Riots. He also held a closed-door meeting with senior Akali Dal leaders to find a solution to the Punjab problem. Despite Akali opposition, in January 1985, Gandhi signed the Rajiv-Longowal Accord with Akali leader HS Longowal. Punjab's state assembly election was scheduled in September 1985, but Longowal died and was replaced by Surjit Singh Barnala, who formed the government. After two years, in 1987, Barnala resigned his office because of a breakdown of law and order, leading to the implementation of President's rule in the state.[69]
@@ -139,13 +135,13 @@ In 1992, the Indian newspapers _Times of India_ and _The Hindu_ published report
 
 Assassination
 
-Rajiv Gandhi's last public meeting was on 21 May 1991, at Sriperumbudur, a village approximately from Chennai, where he was assassinated while campaigning for the Sriperumbudur Lok Sabha Congress candidate. At 10:10 pm, a woman later identified as Thenmozhi Rajaratnam, approached Gandhi in public and greeted him. She then bent down to touch his feet and detonated a belt laden with of RDX explosives tucked under her dress.[98] Rajiv_Gandhi_Memorial-Delhi.jpg'' at Delhi, where Rajiv Gandhi was cremated]]The explosion killed Gandhi, Rajaratnam, and at least 25 other people. The assassination was captured by a 21-year-old local photographer, whose camera and film were found at the site. The cameraman, named Haribabu, died in the blast but the camera remained intact.[99] Gandhi's mutilated body was airlifted to the All India Institute of Medical Sciences in New Delhi for post-mortem, reconstruction and embalming.[100]
+Rajiv Gandhi's last public meeting was on 21 May 1991, at Sriperumbudur, a village approximately from Chennai, where he was assassinated while campaigning for the Sriperumbudur Lok Sabha Congress candidate. At 10:10 pm, a woman later identified as Thenmozhi Rajaratnam, approached Gandhi in public and greeted him. She then bent down to touch his feet and detonated a belt laden with of RDX explosives tucked under her dress.[98] '' at Delhi, where Rajiv Gandhi was cremated]]The explosion killed Gandhi, Rajaratnam, and at least 25 other people. The assassination was captured by a 21-year-old local photographer, whose camera and film were found at the site. The cameraman, named Haribabu, died in the blast but the camera remained intact.[99] Gandhi's mutilated body was airlifted to the All India Institute of Medical Sciences in New Delhi for post-mortem, reconstruction and embalming.[100]
 
 A state funeral was held for Gandhi on 24 May 1991; it was telecast live and was attended by dignitaries from over 60 countries.[101] He was cremated at Veer Bhumi, on the banks of the river Yamuna near the shrines of his mother (Indira Gandhi), brother (Sanjay Gandhi), and grandfather Jawaharlal Nehru.
 
 Aftermath
 
-Rajiv_Gandhi_Memorial_lawn.jpg'', at Sriperumbudur]]
+'', at Sriperumbudur]]
 
 The Supreme Court judgement, by Justice K. T. Thomas, confirmed that Gandhi was killed because of personal animosity by the LTTE chief Prabhakaran arising from his sending the Indian Peace Keeping Force (IPKF) to Sri Lanka and the alleged IPKF atrocities against Sri Lankan Tamils.[102] The Gandhi administration had already antagonised other Tamil militant organisations like PLOTE for reversing the 1988 military coup in Maldives. The judgement further cites the death of Thileepan in a hunger strike and the suicide by 12 LTTE cadres in a vessel in Oct 1987.[103]
 

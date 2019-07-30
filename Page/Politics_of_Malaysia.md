@@ -68,7 +68,7 @@ During the terms of Dr. Mahathir Mohamad as the fourth Prime Minister of Malaysi
 
 In early September 1998, Prime Minister Mahathir bin Mohamad dismissed Deputy Prime Minister Anwar Ibrahim and accused Anwar of immoral and corrupt conduct. Anwar said his ousting was actually owed to political differences and led a series of demonstrations advocating political reforms. Later in September, Anwar was arrested, beaten while in prison (by among others, the chief of police at the time), and charged with corrupt practices, in both legal and moral contexts, charges including obstruction of justice and sodomy. In April 1999, he was convicted of four counts of corruption and sentenced to six years in prison. In August 2000, Anwar was convicted of one count of sodomy and sentenced to nine years to run consecutively after his earlier six-year sentence. Both trials were viewed by domestic and international observers as unfair. Anwar's conviction on sodomy has since been overturned, and having completed his six-year sentence for corruption, he has since been released from prison. In the November 1999 general election, the Barisan Nasional returned to power with three-fourths of the parliamentary seats, but UMNO's seats dropped from 94 to 72. The opposition, the Barisan Alternatif coalition, led by the Islamic Party of Malaysia (PAS), increased its seats to 42. PAS retained control of the state of Kelantan and won the additional state of Terengganu.
 
-Asia_Pacific_Young_Business_Conference_&_Trade_2010_(cropped).jpg.]] The former 6th Prime Minister of Malaysia was Dato' Seri Mohd. Najib bin Tun Haji Abdul Razak. He took office following the retirement of Dato' Seri Abdullah Ahmad Badawi (colloquially known as "Pak Lah") on April 2009.[27] Mahathir Mohamad took office as the Prime Minister of Malaysia under the new Pakatan Harapan government on 10 May 2018.
+.]] The former 6th Prime Minister of Malaysia was Dato' Seri Mohd. Najib bin Tun Haji Abdul Razak. He took office following the retirement of Dato' Seri Abdullah Ahmad Badawi (colloquially known as "Pak Lah") on April 2009.[27] Mahathir Mohamad took office as the Prime Minister of Malaysia under the new Pakatan Harapan government on 10 May 2018.
 
 In the March 2004 general election, Dato' Seri Abdullah Ahmad Badawi led Barisan Nasional to a landslide victory, in which Barisan Nasional recaptured the state of Terengganu. The coalition controlled 92% of the seats in Parliament. In 2005, Mahathir stated that "I believe that the country should have a strong government but not too strong. A two-thirds majority like I enjoyed when I was Prime Minister is sufficient but a 90% majority is too strong. ... We need an opposition to remind us if we are making mistakes. When you are not opposed you think everything you do is right."
 
@@ -109,7 +109,7 @@ Branches of federal government
 
 Legislative
 
-MalaysianParliament.jpg]]
+]]
 
 Legislative power is divided between federal and state legislatures. The bicameral parliament consists of the lower house, the House of Representatives or _Dewan Rakyat_ (literally the "Chamber of the People"); and the upper house, the Senate or _Dewan Negara_ (literally the "Chamber of the Nation").[43][44][45] All seventy Senate members sit for three-year terms (to a maximum of two terms); twenty-six are elected by the thirteen state assemblies, and forty-four are appointed by the king based on the advice of the Prime Minister.[46] The 222 members of the Dewan Rakyat are elected from single-member districts by universal adult suffrage. Parliament has a maximum mandate of five years by law. The king may dissolve parliament at any time, and usually does so upon the advice of the Prime Minister. General elections must be held within sixty days of the dissolution of parliament. In practice, this has meant that elections have been held every three to five years at the discretion of the Prime Minister.
 
@@ -123,7 +123,7 @@ The Executive branch of the government consists of the Prime Minister as the hea
 
 Judicial
 
-Putrajaya_4064188579_ec6a5c7efc.jpg in Putrajaya, housing the Court of Appeal and the Federal Court]]
+in Putrajaya, housing the Court of Appeal and the Federal Court]]
 
 The judiciary is theoretically independent of the executive and the legislature,[53] although supporters of the government hold many judicial positions.[54] The highest court in the judicial system is the Federal Court, followed by the Court of Appeal, and two High Courts, one for Peninsular Malaysia, and one for East Malaysia. The subordinate courts in each of these jurisdictions include Sessions Courts, Magistrates' Courts, and Courts for Children. Malaysia also has a Special Court to hear cases brought by or against all Royalty.[55]
 

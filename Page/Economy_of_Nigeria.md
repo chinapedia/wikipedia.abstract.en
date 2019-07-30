@@ -95,7 +95,7 @@ Economic sectors
 
 Agriculture
 
-Nigerian_farmers.jpg (2006). 30% of Nigerians are employed in agriculture.[17]]] Nigeria ranks sixth worldwide and first in Africa in farm output. The sector accounts for about 18% of GDP and almost one-third of employment. Nigeria has 19 million head of cattle, the largest in Africa.[18] Though Nigeria is no longer a major exporter, due to local consumer boom, it is still a major producer of many agricultural products, including: cocoa, groundnuts (peanuts), rubber, and palm oil. Cocoa production, mostly from obsolete varieties and overage trees has increased from around 180,000 tons annually to 350,000 tons.
+(2006). 30% of Nigerians are employed in agriculture.[17]]] Nigeria ranks sixth worldwide and first in Africa in farm output. The sector accounts for about 18% of GDP and almost one-third of employment. Nigeria has 19 million head of cattle, the largest in Africa.[18] Though Nigeria is no longer a major exporter, due to local consumer boom, it is still a major producer of many agricultural products, including: cocoa, groundnuts (peanuts), rubber, and palm oil. Cocoa production, mostly from obsolete varieties and overage trees has increased from around 180,000 tons annually to 350,000 tons.
 
 Major agricultural products include cassava (tapioca), corn, cocoa, millet, palm oil, peanuts, rice, rubber, sorghum, and yams. In 2003, livestock production, in order of metric tonnage, featured eggs, milk, beef and veal, poultry, and pork, respectively. In the same year, the total fishing catch was 505.8 metric tons. Roundwood removals totaled slightly less than 70 million cubic meters, and sawnwood production was estimated at 2 million cubic meters. The agricultural sector suffers from extremely low productivity, reflecting reliance on antiquated methods. Agriculture has failed to keep pace with Nigeria's rapid population growth, so that the country, which once exported food, now imports a significant amount of food to sustain itself. However, efforts are being made towards making the country food sufficient again.
 
@@ -123,7 +123,7 @@ Private sector-led economic growth remains stymied by the high cost of doing bus
 
 Transport
 
-Lagos_Life_goes_on.jpg Nigeria's publicly owned transportation infrastructure is a major constraint to economic development. Principal ports are at Lagos (Apapa and Tin Can Island), Port Harcourt (Onne), and Calabar.
+Nigeria's publicly owned transportation infrastructure is a major constraint to economic development. Principal ports are at Lagos (Apapa and Tin Can Island), Port Harcourt (Onne), and Calabar.
 
 Extensive road repairs and new construction activities are gradually being implemented as state governments, in particular, spend their portions of enhanced government revenue allocations.
 
@@ -206,7 +206,7 @@ Prior to this revision, tariffs constituted Nigeria's second largest source of r
 
 External trade
 
-2006Nigeria_exports.PNG upright=2 In 2017, Nigeria imported about US$34.2 billion of goods. In 2017 the leading sources of imports were China (28%), the Belgium-Luxembourg (8.9%), the Netherlands (8.3%), South Korea (6.4%), the United States (6.0%) and the Republic of India (4.6%).[26] Principal imports were manufactured goods, machinery and transport equipment, chemicals, and food and live animals.
+upright=2 In 2017, Nigeria imported about US$34.2 billion of goods. In 2017 the leading sources of imports were China (28%), the Belgium-Luxembourg (8.9%), the Netherlands (8.3%), South Korea (6.4%), the United States (6.0%) and the Republic of India (4.6%).[26] Principal imports were manufactured goods, machinery and transport equipment, chemicals, and food and live animals.
 
 In 2017, Nigeria exported about US$46.68 billion of goods.[27] In 2017, the leading destinations for exports were India (18%), the United States (14%), Spain (9.7%), France (6.0%) and the Netherlands (4.9%).[28] In 2017 oil accounted for 83% of merchandise exports.[29] Natural rubber and cocoa are the country’s major agricultural exports.[30]
 

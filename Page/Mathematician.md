@@ -27,7 +27,7 @@ Mathematicians usually cover a breadth of topics within mathematics in their und
 
 Activities
 
-Noether.jpg, mathematical theorist and teacher.]]
+, mathematical theorist and teacher.]]
 
 Applied mathematics
 
@@ -60,7 +60,7 @@ As another example, mathematical finance will derive and extend the mathematical
 
 Occupations
 
-Occupations_related_to_mathematics,_WPA_poster,_ca._1938.jpg According to the Dictionary of Occupational Titles occupations in mathematics include the following.[14]
+According to the Dictionary of Occupational Titles occupations in mathematics include the following.[14]
 
 -   Mathematician
 -   Operations-Research Analyst

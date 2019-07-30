@@ -1,4 +1,4 @@
-Rgb-raster-image.svg in the top left corner is a raster image. When enlarged, individual pixels appear as squares. Enlarging in further, they can be analyzed, with their colors constructed by combining the values for red, green and blue.]]
+in the top left corner is a raster image. When enlarged, individual pixels appear as squares. Enlarging in further, they can be analyzed, with their colors constructed by combining the values for red, green and blue.]]
 
 In computer graphics, a RASTER GRAPHICS or BITMAP image is a dot matrix data structure that represents a generally rectangular grid of pixels (points of colour), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats.
 

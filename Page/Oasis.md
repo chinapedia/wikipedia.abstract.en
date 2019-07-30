@@ -1,4 +1,4 @@
-Oasis_in_Lybia.JPGn part of the Sahara]] Liwa_شيا_-_panoramio.jpg trees in Liwa Oasis.]]
+n part of the Sahara]] trees in Liwa Oasis.]]
 
 In geography, an OASIS (; plural: OASES ) is the combination of a human settlement and a cultivated area (often a date palm grove) in a desert or semi-desert environment.[1] Oases also provide habitat for animals and spontaneous plants.
 

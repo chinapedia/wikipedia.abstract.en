@@ -23,7 +23,7 @@ In 1992, the US Department of Defense along with the National Institute of Stand
 
 Model types
 
-Information-Retrieval-Models.png, original source Dominik Kuropka).]] For effectively retrieving relevant documents by IR strategies, the documents are typically transformed into a suitable representation. Each retrieval strategy incorporates a specific model for its document representation purposes. The picture on the right illustrates the relationship of some common models. In the picture, the models are categorized according to two dimensions: the mathematical basis and the properties of the model.
+, original source Dominik Kuropka).]] For effectively retrieving relevant documents by IR strategies, the documents are typically transformed into a suitable representation. Each retrieval strategy incorporates a specific model for its document representation purposes. The picture on the right illustrates the relationship of some common models. In the picture, the models are categorized according to two dimensions: the mathematical basis and the properties of the model.
 
 First dimension: mathematical basis
 

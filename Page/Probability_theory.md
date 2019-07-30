@@ -32,7 +32,7 @@ When doing calculations using the outcomes of an experiment, it is necessary tha
 
 Discrete probability distributions
 
-NYW-DK-Poisson(5).svg, a discrete probability distribution.]]
+, a discrete probability distribution.]]
 
 deals with events that occur in countable sample spaces.
 
@@ -57,7 +57,7 @@ The function f(x)  mapping a point in the sample space to the "probability" va
 
 Continuous probability distributions
 
-Gaussian_distribution_2.jpg, a continuous probability distribution.]]
+, a continuous probability distribution.]]
 
 deals with events that occur in a continuous sample space.
 

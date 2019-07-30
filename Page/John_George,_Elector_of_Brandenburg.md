@@ -1,4 +1,4 @@
-Johann_Georg.jpg JOHN GEORGE OF BRANDENBURG () (11 September 1525 – 8 January 1598) was a Prince-elector of the Margraviate of Brandenburg (1571–1598) and a Duke of Prussia. A member of the House of Hohenzollern, he was the son of Joachim II Hector, Elector of Brandenburg, and his first wife Magdalena of Saxony.
+JOHN GEORGE OF BRANDENBURG () (11 September 1525 – 8 January 1598) was a Prince-elector of the Margraviate of Brandenburg (1571–1598) and a Duke of Prussia. A member of the House of Hohenzollern, he was the son of Joachim II Hector, Elector of Brandenburg, and his first wife Magdalena of Saxony.
 
 Faced with large debts accumulated during the reign of his father, John George instituted a grain tax which drove part of the peasantry into dependence on a nobility that was exempt from taxation. Though a staunch Lutheran opposed to the rise of Calvinism, he permitted the admission of Calvinist refugees from the wars in the Spanish Netherlands and France. He was succeeded by his son Joachim Frederick.
 

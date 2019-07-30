@@ -15,7 +15,7 @@ Youth and the Xinhai Revolution: 1893–1911
 
 Mao Zedong was born on December 26, 1893, in Shaoshan village, Hunan Province, China. His father, Mao Yichang, was a formerly impoverished peasant who had become one of the wealthiest farmers in Shaoshan. Growing up in rural Hunan, Mao described his father as a stern disciplinarian, who would beat him and his three siblings, the boys Zemin and Zetan, as well as an adopted girl, Zejian.[14] Mao's mother, Wen Qimei, was a devout Buddhist who tried to temper her husband's strict attitude.[15] Mao too became a Buddhist, but abandoned this faith in his mid-teenage years.[16] At age 8, Mao was sent to Shaoshan Primary School. Learning the value systems of Confucianism, he later admitted that he didn't enjoy the classical Chinese texts preaching Confucian morals, instead favouring popular novels like _Romance of the Three Kingdoms_ and _Water Margin_.[17] At age 13, Mao finished primary education, and his father united him in an arranged marriage to the 17-year-old Luo Yixiu, thereby uniting their land-owning families. Mao refused to recognise her as his wife, becoming a fierce critic of arranged marriage and temporarily moving away. Luo was locally disgraced and died in 1910.[18]
 
-Shaoshan_01.JPG in Shaoshan, in 2010, by which time it had become a tourist destination]]
+in Shaoshan, in 2010, by which time it had become a tourist destination]]
 
 While working on his father's farm, Mao read voraciously[19] and developed a "political consciousness" from Zheng Guanying's booklet which lamented the deterioration of Chinese power and argued for the adoption of representative democracy.[20] Interested in history, Mao was inspired by the military prowess and nationalistic fervour of George Washington and Napoleon Bonaparte.[21] His political views were shaped by Gelaohui-led protests which erupted following a famine in Changsha, the capital of Hunan; Mao supported the protesters' demands, but the armed forces suppressed the dissenters and executed their leaders.[22] The famine spread to Shaoshan, where starving peasants seized his father's grain. He disapproved of their actions as morally wrong, but claimed sympathy for their situation.[23] At age 16, Mao moved to a higher primary school in nearby Dongshan,[24] where he was bullied for his peasant background.[25]
 
@@ -26,8 +26,6 @@ Inspired by Sun's republicanism, the army rose up across southern China, sparkin
 Fourth Normal School of Changsha: 1912–19
 
 Over the next few years, Mao Zedong enrolled and dropped out of a police academy, a soap-production school, a law school, an economics school, and the government-run Changsha Middle School.[34] Studying independently, he spent much time in Changsha's library, reading core works of classical liberalism such as Adam Smith's _The Wealth of Nations_ and Montesquieu's _The Spirit of the Laws_, as well as the works of western scientists and philosophers such as Darwin, Mill, Rousseau, and Spencer.[35] Viewing himself as an intellectual, years later he admitted that at this time he thought himself better than working people.[36] He was inspired by Friedrich Paulsen, whose liberal emphasis on individualism led Mao to believe that strong individuals were not bound by moral codes but should strive for the greater good, and that the "end justifies the means" conclusion of Consequentialism.[37] His father saw no use in his son's intellectual pursuits, cut off his allowance and forced him to move into a hostel for the destitute.[38]
-
-Mao_Zedong_1913.jpg
 
 Mao desired to become a teacher and enrolled at the Fourth Normal School of Changsha, which soon merged with the First Normal School of Changsha, widely seen as the best in Hunan.[39] Befriending Mao, professor Yang Changji urged him to read a radical newspaper, _New Youth_ (_Xin qingnian_), the creation of his friend Chen Duxiu, a dean at Peking University. Although a Chinese nationalist, Chen argued that China must look to the west to cleanse itself of superstition and autocracy.[40] Mao published his first article in _New Youth_ in April 1917, instructing readers to increase their physical strength to serve the revolution.[41] He joined the Society for the Study of Wang Fuzhi (_Chuan-shan Hsüeh-she_), a revolutionary group founded by Changsha literati who wished to emulate the philosopher Wang Fuzhi.[42]
 
@@ -48,15 +46,13 @@ On May 4, 1919, students in Beijing gathered at the Gate of Heavenly Peace to pr
 
 In Changsha, Mao had begun teaching history at the Xiuye Primary School[59] and organizing protests against the pro-Duan Governor of Hunan Province, Zhang Jingyao, popularly known as "Zhang the Venomous" due to his corrupt and violent rule.[60] In late May, Mao co-founded the Hunanese Student Association with He Shuheng and Deng Zhongxia, organizing a student strike for June and in July 1919 began production of a weekly radical magazine, _Xiang River Review_ (_Xiangjiang pinglun_). Using vernacular language that would be understandable to the majority of China's populace, he advocated the need for a "Great Union of the Popular Masses", strengthened trade unions able to wage non-violent revolution. His ideas were not Marxist, but heavily influenced by Kropotkin's concept of mutual aid.[61]
 
-Beijing_students_protesting_the_Treaty_of_Versailles_(May_4,_1919).jpg
-
 Zhang banned the Student Association, but Mao continued publishing after assuming editorship of the liberal magazine _New Hunan_ (_Xin Hunan_) and offered articles in popular local newspaper _Justice_ (_Ta Kung Po_). Several of these advocated feminist views, calling for the liberation of women in Chinese society; Mao was influenced by his forced arranged-marriage.[62] In December 1919, Mao helped organise a general strike in Hunan, securing some concessions, but Mao and other student leaders felt threatened by Zhang, and Mao returned to Beijing, visiting the terminally ill Yang Changji.[63] Mao found that his articles had achieved a level of fame among the revolutionary movement, and set about soliciting support in overthrowing Zhang.[64] Coming across newly translated Marxist literature by Thomas Kirkup, Karl Kautsky, and Marx and Engels—notably _The Communist Manifesto_—he came under their increasing influence, but was still eclectic in his views.[65]
 
 Mao visited Tianjin, Jinan, and Qufu,[66] before moving to Shanghai, where he worked as a laundryman and met Chen Duxiu, noting that Chen's adoption of Marxism "deeply impressed me at what was probably a critical period in my life". In Shanghai, Mao met an old teacher of his, Yi Peiji, a revolutionary and member of the Kuomintang (KMT), or Chinese Nationalist Party, which was gaining increasing support and influence. Yi introduced Mao to General Tan Yankai, a senior KMT member who held the loyalty of troops stationed along the Hunanese border with Guangdong. Tan was plotting to overthrow Zhang, and Mao aided him by organizing the Changsha students. In June 1920, Tan led his troops into Changsha, and Zhang fled. In the subsequent reorganization of the provincial administration, Mao was appointed headmaster of the junior section of the First Normal School. Now receiving a large income, he married Yang Kaihui in the winter of 1920.[67]
 
 Founding the Communist Party of China: 1921–22
 
-Location_of_the_First_Congress_of_the_Chinese_Communist_Party_Xintiandi_Shanghai_July_1921.jpg, former French Concession, Shanghai]]
+, former French Concession, Shanghai]]
 
 The Communist Party of China was founded by Chen Duxiu and Li Dazhao in the French concession of Shanghai in 1921 as a study society and informal network. Mao set up a Changsha branch, also establishing a branch of the Socialist Youth Corps. Opening a bookstore under the control of his new Cultural Book Society, its purpose was to propagate revolutionary literature throughout Hunan.[68] He was involved in the movement for Hunan autonomy, in the hope that a Hunanese constitution would increase civil liberties and make his revolutionary activity easier. When the movement was successful in establishing provincial autonomy under a new warlord, Mao forgot his involvement.[69] By 1921, small Marxist groups existed in Shanghai, Beijing, Changsha, Wuhan, Guangzhou, and Jinan; it was decided to hold a central meeting, which began in Shanghai on July 23, 1921. The first session of the National Congress of the Communist Party of China was attended by 13 delegates, Mao included. After the authorities sent a police spy to the congress, the delegates moved to a boat on South Lake near Jiaxing, in Zhejiang, to escape detection. Although Soviet and Comintern delegates attended, the first congress ignored Lenin's advice to accept a temporary alliance between the Communists and the "bourgeois democrats" who also advocated national revolution; instead they stuck to the orthodox Marxist belief that only the urban proletariat could lead a socialist revolution.[70]
 
@@ -66,13 +62,11 @@ Mao claimed that he missed the July 1922 Second Congress of the Communist Party 
 
 Collaboration with the Kuomintang: 1922–27
 
-Chairman_Mao-1.webm
-
 At the Third Congress of the Communist Party in Shanghai in June 1923, the delegates reaffirmed their commitment to working with the KMT. Supporting this position, Mao was elected to the Party Committee, taking up residence in Shanghai.[78] At the First KMT Congress, held in Guangzhou in early 1924, Mao was elected an alternate member of the KMT Central Executive Committee, and put forward four resolutions to decentralise power to urban and rural bureaus. His enthusiastic support for the KMT earned him the suspicion of Li Li-san, his Hunan comrade.[79]
 
 In late 1924, Mao returned to Shaoshan, perhaps to recuperate from an illness. He found that the peasantry were increasingly restless and some had seized land from wealthy landowners to found communes. This convinced him of the revolutionary potential of the peasantry, an idea advocated by the KMT leftists but not the Communists.[80] He returned to Guangzhou to run the 6th term of the KMT's Peasant Movement Training Institute from May to September 1926.[81][82] The Peasant Movement Training Institute under Mao trained cadre and prepared them for militant activity, taking them through military training exercises and getting them to study basic left-wing texts.[83] In the winter of 1925, Mao fled to Guangzhou after his revolutionary activities attracted the attention of Zhao's regional authorities.[84]
 
-Mao_1925.jpg in 1925]]
+in 1925]]
 
 When party leader Sun Yat-sen died in May 1925, he was succeeded by Chiang Kai-shek, who moved to marginalise the left-KMT and the Communists.[85] Mao nevertheless supported Chiang's National Revolutionary Army, who embarked on the Northern Expedition attack in 1926 on warlords.[86] In the wake of this expedition, peasants rose up, appropriating the land of the wealthy landowners, who were in many cases killed. Such uprisings angered senior KMT figures, who were themselves landowners, emphasizing the growing class and ideological divide within the revolutionary movement.[87]
 
@@ -83,7 +77,7 @@ Civil War
 
 The Nanchang and Autumn Harvest Uprisings: 1927
 
-中國工農紅軍軍旗.svg]]
+]]
 
 Fresh from the success of the Northern Expedition against the warlords, Chiang turned on the Communists, who by now numbered in the tens of thousands across China. Chiang ignored the orders of the Wuhan-based left KMT government and marched on Shanghai, a city controlled by Communist militias. As the Communists awaited Chiang's arrival, he loosed the White Terror, massacring 5000 with the aid of the Green Gang.[92][93] In Beijing, 19 leading Communists were killed by Zhang Zuolin.[94][95] That May, tens of thousands of Communists and those suspected of being communists were killed, and the CPC lost approximately of its members.[96]
 
@@ -93,25 +87,15 @@ Jung Chang and Jon Halliday claim that the uprising was in fact sabotaged by Mao
 
 Base in Jinggangshan: 1927–1928
 
-Mao1927.jpg
-
 The CPC Central Committee, hiding in Shanghai, expelled Mao from their ranks and from the Hunan Provincial Committee, as punishment for his "military opportunism", for his focus on rural activity, and for being too lenient with "bad gentry". They nevertheless adopted three policies he had long championed: the immediate formation of Workers' councils, the confiscation of all land without exemption, and the rejection of the KMT. Mao's response was to ignore them.[105] He established a base in Jinggangshan City, an area of the Jinggang Mountains, where he united five villages as a self-governing state, and supported the confiscation of land from rich landlords, who were "re-educated" and sometimes executed. He ensured that no massacres took place in the region, and pursued a more lenient approach than that advocated by the Central Committee.[106] He proclaimed that "Even the lame, the deaf and the blind could all come in useful for the revolutionary struggle", he boosted the army's numbers,[107] incorporating two groups of bandits into his army, building a force of around troops.[108] He laid down rules for his soldiers: prompt obedience to orders, all confiscations were to be turned over to the government, and nothing was to be confiscated from poorer peasants. In doing so, he molded his men into a disciplined, efficient fighting force.[109]
-
-Bare_foot_revolutionary.jpg
 
 In spring 1928, the Central Committee ordered Mao's troops to southern Hunan, hoping to spark peasant uprisings. Mao was skeptical, but complied. They reached Hunan, where they were attacked by the KMT and fled after heavy losses. Meanwhile, KMT troops had invaded Jinggangshan, leaving them without a base.[110] Wandering the countryside, Mao's forces came across a CPC regiment led by General Zhu De and Lin Biao; they united, and attempted to retake Jinggangshan. They were initially successful, but the KMT counter-attacked, and pushed the CPC back; over the next few weeks, they fought an entrenched guerrilla war in the mountains.[111][112] The Central Committee again ordered Mao to march to south Hunan, but he refused, and remained at his base. Contrastingly, Zhu complied, and led his armies away. Mao's troops fended the KMT off for 25 days while he left the camp at night to find reinforcements. He reunited with the decimated Zhu's army, and together they returned to Jinggangshan and retook the base. There they were joined by a defecting KMT regiment and Peng Dehuai's Fifth Red Army. In the mountainous area they were unable to grow enough crops to feed everyone, leading to food shortages throughout the winter.[113][114]
 
 Jiangxi Soviet Republic of China: 1929–1934
 
-1931_military_parade_of_formation_of_Chinese_Soviet_Republic.jpg
-
 In January 1929, Mao and Zhu evacuated the base with 2,000 men and a further 800 provided by Peng, and took their armies south, to the area around Tonggu and Xinfeng in Jiangxi.[115] The evacuation led to a drop in morale, and many troops became disobedient and began thieving; this worried Li Lisan and the Central Committee, who saw Mao's army as _lumpenproletariat_, that were unable to share in proletariat class consciousness.[116][117] In keeping with orthodox Marxist thought, Li believed that only the urban proletariat could lead a successful revolution, and saw little need for Mao's peasant guerrillas; he ordered Mao to disband his army into units to be sent out to spread the revolutionary message. Mao replied that while he concurred with Li's theoretical position, he would not disband his army nor abandon his base.[118][119] Both Li and Mao saw the Chinese revolution as the key to world revolution, believing that a CPC victory would spark the overthrow of global imperialism and capitalism. In this, they disagreed with the official line of the Soviet government and Comintern. Officials in Moscow desired greater control over the CPC and removed Li from power by calling him to Russia for an inquest into his errors.[120][121][122] They replaced him with Soviet-educated Chinese Communists, known as the "28 Bolsheviks", two of whom, Bo Gu and Zhang Wentian, took control of the Central Committee. Mao disagreed with the new leadership, believing they grasped little of the Chinese situation, and he soon emerged as their key rival.[123][124]
 
-Mao_Zedong_in_Yan'an.jpg
-
 In February 1930, Mao created the Southwest Jiangxi Provincial Soviet Government in the region under his control.[125] In November, he suffered emotional trauma after his wife and sister were captured and beheaded by KMT general He Jian.[126][127][128] Mao then married He Zizhen, an 18-year-old revolutionary who bore him five children over the following nine years.[129][130] Facing internal problems, members of the Jiangxi Soviet accused him of being too moderate, and hence anti-revolutionary. In December, they tried to overthrow Mao, resulting in the Futian incident, during which Mao's loyalists tortured many and executed between 2000 and 3000 dissenters.[131][132][133] The CPC Central Committee moved to Jiangxi which it saw as a secure area. In November it proclaimed Jiangxi to be the Soviet Republic of China, an independent Communist-governed state. Although he was proclaimed Chairman of the Council of People's Commissars, Mao's power was diminished, as his control of the Red Army was allocated to Zhou Enlai. Meanwhile, Mao recovered from tuberculosis.[134][135]
-
-Mao1931.jpg
 
 The KMT armies adopted a policy of encirclement and annihilation of the Red armies. Outnumbered, Mao responded with guerrilla tactics influenced by the works of ancient military strategists like Sun Tzu, but Zhou and the new leadership followed a policy of open confrontation and conventional warfare. In doing so, the Red Army successfully defeated the first and second encirclements.[136][137] Angered at his armies' failure, Chiang Kai-shek personally arrived to lead the operation. He too faced setbacks and retreated to deal with the further Japanese incursions into China.[138][139] As a result of the KMT's change of focus to the defence of China against Japanese expansionism, the Red Army was able to expand its area of control, eventually encompassing a population of 3 million.[140] Mao proceeded with his land reform program. In November 1931 he announced the start of a "land verification project" which was expanded in June 1933. He also orchestrated education programs and implemented measures to increase female political participation.[141] Chiang viewed the Communists as a greater threat than the Japanese and returned to Jiangxi, where he initiated the fifth encirclement campaign, which involved the construction of a concrete and barbed wire "wall of fire" around the state, which was accompanied by aerial bombardment, to which Zhou's tactics proved ineffective. Trapped inside, morale among the Red Army dropped as food and medicine became scarce. The leadership decided to evacuate.[142]
 
@@ -125,19 +109,15 @@ Jung Chang and Jon Halliday offered an alternative account on many events during
 
 Alliance with the Kuomintang: 1935–1940
 
-1938_Mao_Zedong_Zhang_Guotao_in_Yan'an.jpg in Yan'an, 1937]]
+in Yan'an, 1937]]
 
 Mao's troops arrived at the Yan'an Soviet during October 1935 and settled in Pao An, until spring 1936. While there, they developed links with local communities, redistributed and farmed the land, offered medical treatment, and began literacy programs.[160][161][162] Mao now commanded soldiers, boosted by the arrival of He Long's men from Hunan and the armies of Zhu De and Zhang Guotao returned from Tibet.[163] In February 1936, they established the North West Anti-Japanese Red Army University in Yan'an, through which they trained increasing numbers of new recruits.[164] In January 1937, they began the "anti-Japanese expedition", that sent groups of guerrilla fighters into Japanese-controlled territory to undertake sporadic attacks.[165][166] In May 1937, a Communist Conference was held in Yan'an to discuss the situation.[167] Western reporters also arrived in the "Border Region" (as the Soviet had been renamed); most notable were Edgar Snow, who used his experiences as a basis for _Red Star Over China_, and Agnes Smedley, whose accounts brought international attention to Mao's cause.[168]
-
-1945_Mao_and_Chiang.jpg
-
-Mao1938a.jpg
 
 On the Long March, Mao's wife He Zizen had been injured by a shrapnel wound to the head. She traveled to Moscow for medical treatment; Mao proceeded to divorce her and marry an actress, Jiang Qing.[169][170] Mao moved into a cave-house and spent much of his time reading, tending his garden and theorizing.[171] He came to believe that the Red Army alone was unable to defeat the Japanese, and that a Communist-led "government of national defence" should be formed with the KMT and other "bourgeois nationalist" elements to achieve this goal.[172] Although despising Chiang Kai-shek as a "traitor to the nation",[173] on May 5, he telegrammed the Military Council of the Nanking National Government proposing a military alliance, a course of action advocated by Stalin.[174] Although Chiang intended to ignore Mao's message and continue the civil war, he was arrested by one of his own generals, Zhang Xueliang, in Xi'an, leading to the Xi'an Incident; Zhang forced Chiang to discuss the issue with the Communists, resulting in the formation of a United Front with concessions on both sides on December 25, 1937.[175]
 
 The Japanese had taken both Shanghai and Nanking (Nanjing)—resulting in the Nanking Massacre, an atrocity Mao never spoke of all his life—and was pushing the Kuomintang government inland to Chungking.[176] The Japanese's brutality led to increasing numbers of Chinese joining the fight, and the Red Army grew from to .[177][178] In August 1938, the Red Army formed the New Fourth Army and the Eighth Route Army, which were nominally under the command of Chiang's National Revolutionary Army.[179] In August 1940, the Red Army initiated the Hundred Regiments Campaign, in which troops attacked the Japanese simultaneously in five provinces. It was a military success that resulted in the death of Japanese, the disruption of railways and the loss of a coal mine.[180][181] From his base in Yan'an, Mao authored several texts for his troops, including _Philosophy of Revolution_, which offered an introduction to the Marxist theory of knowledge; _Protracted Warfare_, which dealt with guerilla and mobile military tactics; and _New Democracy_, which laid forward ideas for China's future.[182]
 
-Kang_Seng_Mao_Zedong_in_Yan'an.jpg in Yan'an, 1945]]
+in Yan'an, 1945]]
 
 Resuming civil war: 1940–1949
 
@@ -147,7 +127,7 @@ In 1944, the Americans sent a special diplomatic envoy, called the Dixie Mission
 
 After the end of World War II, the U.S. continued their military assistance to Chiang Kai-shek and his KMT government forces against the People's Liberation Army (PLA) led by Mao Zedong during the civil war. Likewise, the Soviet Union gave quasi-covert support to Mao by their occupation of north east China, which allowed the PLA to move in en masse and take large supplies of arms left by the Japanese's Kwantung Army.
 
-PLAHuaihai.jpg light tanks, attacking the Nationalist lines in 1948]]
+light tanks, attacking the Nationalist lines in 1948]]
 
 To enhance the Red Army's military operations, Mao as the Chairman of the Communist Party of China, named his close associate General Zhu De to be its Commander-in-Chief.
 
@@ -156,13 +136,11 @@ In 1948, under direct orders from Mao, the People's Liberation Army starved out 
 
 Leadership of China
 
-Mao_Proclaiming_New_China.JPG
-
 The People's Republic of China was established on October 1, 1949. It was the culmination of over two decades of civil and international wars. Mao's famous phrase "The Chinese people have stood up" () associated with the establishment of the People's Republic of China was not used in the speech he delivered from the Gate of Heavenly Peace (Tian'anmen) on October 1.[187]
 
 Mao took up residence in Zhongnanhai, a compound next to the Forbidden City in Beijing, and there he ordered the construction of an indoor swimming pool and other buildings. Mao's physician Li Zhisui described him as conducting business either in bed or by the side of the pool, preferring not to wear formal clothes unless absolutely necessary.[188] Li's book, _The Private Life of Chairman Mao_, is regarded as controversial, especially by those sympathetic to Mao.[189] In 1958, Dai Fudong, Wu Lusheng, and Fu Xinqi were appointed co-designers of the Meiling () Guesthouse in Wuhan, which they later learned was Mao's villa.[190] Mao often visited this villa between 1960 and 1974; the villa includes a garden, living quarters, conference room, bomb shelter and swimming pool.[191][192]
 
-Mao_and_Jiang_Qing_1946.jpg, called "Madame Mao", 1946]]
+, called "Madame Mao", 1946]]
 
 In October 1950, Mao made the decision to send the People's Volunteer Army (PVA), a special unit of the People's Liberation Army, into the Korean war and fight as well as to reinforce the armed forces of North Korea, the Korean People's Army, which had been in full retreat. Historical records showed that Mao directed the PVA campaigns to the minutest details. As the Chairman of the CPC's Central Military Commission (CMC), he was also the Supreme Commander in Chief of the PLA and the People's Republic and Chairman of the ruling CPC. The PVA was under the overall command of then newly installed Premier Zhou Enlai, with General Peng Dehuai as field commander and political commissar.[193]
 
@@ -170,17 +148,15 @@ During the land reform, a significant numbers of landlords and well-to-do peasan
 
 Mao himself claimed that a total of people were killed in attacks on "counter-revolutionaries" during the years 1950–1952.[199] However, because there was a policy to select "at least one landlord, and usually several, in virtually every village for public execution",[200] the number of deaths range between 2 million[201][202] and 5 million.[203][204] In addition, at least 1.5 million people,[205] perhaps as many as 4 to 6 million,[206] were sent to "reform through labour" camps where many perished.[207] Mao played a personal role in organizing the mass repressions and established a system of execution quotas,[208] which were often exceeded.[209] He defended these killings as necessary for the securing of power.[210]
 
-Mao,_Bulganin,_Stalin,_Ulbricht_Tsedenbal.jpeg's 70th birthday celebration in Moscow, December 1949]]
+'s 70th birthday celebration in Moscow, December 1949]]
 
 The Mao government is generally credited with eradicating both consumption and production of opium during the 1950s using unrestrained repression and social reform. Ten million addicts were forced into compulsory treatment, dealers were executed, and opium-producing regions were planted with new crops. Remaining opium production shifted south of the Chinese border into the Golden Triangle region.[211]
 
 Starting in 1951, Mao initiated two successive movements in an effort to rid urban areas of corruption by targeting wealthy capitalists and political opponents, known as the three-anti/five-anti campaigns. Whereas the three-anti campaign was a focused purge of government, industrial and party officials, the five-anti campaign set its sights slightly broader, targeting capitalist elements in general.[212] Workers denounced their bosses, spouses turned on their spouses, and children informed on their parents; the victims were often humiliated at struggle sessions, where a targeted person would be verbally and physically abused until they confessed to crimes. Mao insisted that minor offenders be criticised and reformed or sent to labour camps, "while the worst among them should be shot". These campaigns took several hundred thousand additional lives, the vast majority via suicide.[213]
 
-Mao_dalai_lama-1955.jpg meeting with Dalai Lama (right) and Panchen Lama (left) to celebrate Tibetan New Year, Beijing, 1955]]
+meeting with Dalai Lama (right) and Panchen Lama (left) to celebrate Tibetan New Year, Beijing, 1955]]
 
 In Shanghai, suicide by jumping from tall buildings became so commonplace that residents avoided walking on the pavement near skyscrapers for fear that suicides might land on them.[214] Some biographers have pointed out that driving those perceived as enemies to suicide was a common tactic during the Mao-era. For example, in his biography of Mao, Philip Short notes that in the Yan'an Rectification Movement, Mao gave explicit instructions that "no cadre is to be killed", but in practice allowed security chief Kang Sheng to drive opponents to suicide and that "this pattern was repeated throughout his leadership of the People's Republic".[215]
-
-Mao_Zedong_sitting.jpg
 
 Following the consolidation of power, Mao launched the First Five-Year Plan (1953–1958), which aimed to end Chinese dependence upon agriculture in order to become a world power. With the Soviet Union's assistance, new industrial plants were built and agricultural production eventually fell to a point where industry was beginning to produce enough capital that China no longer needed the USSR's support. The success of the First-Five Year Plan was to encourage Mao to instigate the Second Five-Year Plan in 1958. Mao also launched a phase of rapid collectivization. The CPC introduced price controls as well as a Chinese character simplification aimed at increasing literacy. Large-scale industrialization projects were also undertaken.
 
@@ -190,7 +166,7 @@ Li Zhisui, Mao's physician, suggested that Mao had initially seen the policy as 
 
 Great Leap Forward
 
-Nikita_Khrushchev,_Mao_Zedong,_Ho_Chi_Minh_and_Soong_Ching-ling.jpg, Ho Chi Minh and Soong Ching-ling during a state dinner in Beijing, 1959]]
+, Ho Chi Minh and Soong Ching-ling during a state dinner in Beijing, 1959]]
 
 In January 1958, Mao launched the second Five-Year Plan, known as the Great Leap Forward, a plan intended as an alternative model for economic growth to the Soviet model focusing on heavy industry that was advocated by others in the party. Under this economic program, the relatively small agricultural collectives that had been formed to date were rapidly merged into far larger people's communes, and many of the peasants were ordered to work on massive infrastructure projects and on the production of iron and steel. Some private food production was banned, and livestock and farm implements were brought under collective ownership.
 
@@ -207,8 +183,6 @@ Hong Kong-based historian Frank Dikötter,[224] challenged the notion that Mao d
 Professor Emeritus Thomas P. Bernstein of Columbia University offered his view on Mao's statement on starvation in the March 25, 1959, meeting:
 
   Some scholars believe that this shows Mao's readiness to accept mass death on an immense scale. My own view is that this is an instance of Mao's use of hyperbole, another being his casual acceptance of death of half the population during a nuclear war. In other contexts, Mao did not in fact accept mass death. Zhou's Chronology shows that in October 1958, Mao expressed real concern that 40,000 people in Yunnan had starved to death (p. 173). Shortly after the March 25 meeting, he worried about 25.2 million people who were at risk of starvation.[227] But from late summer on, Mao essentially forgot about this issue, until, as noted, the "Xinyang Incident" came to light in October 1960.[228]
-
-People's_commone_canteen3.jpg
 
 In the article "Mao Zedong and the Famine of 1959–1960: A Study in Wilfulness", published in 2006 in _The China Quarterly_, Professor Thomas P. Bernstein also discussed Mao's change of attitudes during different phases of the Great Leap Forward:
 
@@ -230,7 +204,7 @@ At a large Communist Party conference in Beijing in January 1962, called the "Co
 
 Consequences
 
-Kissinger_Mao.jpg and Zhou Enlai, Beijing, 1972]]
+and Zhou Enlai, Beijing, 1972]]
 
 At the Lushan Conference in July/August 1959, several ministers expressed concern that the Great Leap Forward had not proved as successful as planned. The most direct of these was Minister of Defence and Korean War veteran General Peng Dehuai. Following Peng's criticism of the Great Leap Forward, Mao orchestrated a purge of Peng and his supporters, stifling criticism of the Great Leap policies. Senior officials who reported the truth of the famine to Mao were branded as "right opportunists."[238] A campaign against right-wing opportunism was launched and resulted in party members and ordinary peasants being sent to prison labor camps where many would subsequently die in the famine. Years later the CPC would conclude that as many as six million people were wrongly punished in the campaign.[239]
 
@@ -240,7 +214,7 @@ Censuses were carried out in China in 1953, 1964 and 1982. The first attempt to 
 
 Split from Soviet Union
 
-Kissinger,_Ford_and_Mao,_1975_A7912.jpg watches as Henry Kissinger shakes hands with Mao during their visit to China, December 2, 1975]]
+watches as Henry Kissinger shakes hands with Mao during their visit to China, December 2, 1975]]
 
 On the international front, the period was dominated by the further isolation of China. The Sino-Soviet split resulted in Nikita Khrushchev's withdrawal of all Soviet technical experts and aid from the country. The split concerned the leadership of world communism. The USSR had a network of Communist parties it supported; China now created its own rival network to battle it out for local control of the left in numerous countries.[246] Lorenz M. Lüthi argues:
 
@@ -272,7 +246,7 @@ When Mao first tasted mangoes in 1968 he was enthused, describing them as a "spi
 
   In the afternoon of the fifth, when the great happy news of Chairman Mao giving mangoes to the Capital Worker and Peasant Mao Zedong Thought Propaganda Team reached the Tsinghua University campus, people immediately gathered around the gift given by the Great Leader Chairman Mao. They cried out enthusiastically and sang with wild abandonment. Tears swelled up in their eyes, and they again and again sincerely wished that our most beloved Great Leader lived then thousand years without bounds ... They all made phone calls to their own work units to spread this happy news; and they also organised all kinds of celebratory activities all night long, and arrived at [the national leadership compound] Zhongnanhai despite the rain to report the good news, and to express their loyalty to the Great Leader Chairman Mao.[264]
 
-Subsequent articles were also written by government officials propagandizing the reception of the mangoes,[265] and another poem in the _People's Daily_ said: "Seeing that golden mango/Was as if seeing the great leader Chairman Mao ... Again and again touching that golden mango/the golden mango was so warm".[266] Few people at this time in China had ever seen a mango before, and a mango was seen as "a fruit of extreme rarity, like Mushrooms of Immortality".[267] Mangoes,_The_Precious_Gift_that_Great_Leader,_Chairman_Mao_Personally_Gave_to_the_Mao_Zedong_Thought_Propaganda_Team_of_Capital_Workers_%26_Peasants,_China,_1968_-_Jordan_Schnitzer_Museum_of_Art_-_DSC09533.jpg
+Subsequent articles were also written by government officials propagandizing the reception of the mangoes,[265] and another poem in the _People's Daily_ said: "Seeing that golden mango/Was as if seeing the great leader Chairman Mao ... Again and again touching that golden mango/the golden mango was so warm".[266] Few people at this time in China had ever seen a mango before, and a mango was seen as "a fruit of extreme rarity, like Mushrooms of Immortality".[267]
 
 One of the mangoes was sent to the Beijing Textile Factory,[268] whose revolutionary committee organised a rally in the mangoes' honour.[269] Workers read out quotations from Mao and celebrated the gift. Altars were erected to prominently display the fruit; when the mango peel began to rot after a few days, the fruit was peeled and boiled in a pot of water. Workers then filed by and each was given a spoonful of mango water. The revolutionary committee also made a wax replica of the mango, and displayed this as a centrepiece in the factory. There followed several months of "mango fever", as the fruit became a focus of a "boundless loyalty" campaign for Chairman Mao. More replica mangoes were created and the replicas were sent on tour around Beijing and elsewhere in China. Many revolutionary committees visited the mangoes in Beijing from outlying provinces; approximately half a million people greeted the replicas when they arrived in Chengdu. Badges and wall posters featuring the mangoes and Mao were produced in the millions.[270] The fruit was shared among all institutions that had been a part of the propaganda team, and large processions were organised in support of the _zhengui lipin_ ("precious gift"), as the mangoes were known as.[271] One dentist in a small town, Dr. Han, saw the mango and said it was nothing special and looked just like a sweet potato; he was put on trial for malicious slander, found guilty, paraded publicly throughout the town, and then executed with one shot to the head.[272][273]
 
@@ -329,7 +303,7 @@ On September 18, a somber cacophony of guns, sirens, whistles and horns all acro
 
 Legacy
 
-Tiananmen_Mao.jpg at Tiananmen]]
+at Tiananmen]]
 
 Mao remains a controversial figure and there is little agreement over his legacy both in China and abroad. Supporters generally credit and praise him for having unified China and for ending the previous decades of civil war. He is also credited for having improved the status of women in China and for improving literacy and education. In December 2013, a poll from the state-run _Global Times_ indicated that roughly 85% of the 1045 respondents surveyed felt Mao's achievements outweighed his mistakes.[297]
 
@@ -339,7 +313,7 @@ In mainland China, Mao is still revered by many members and supporters of the Co
 
 However, Mao also has many Chinese critics. Opposition to him can lead to censorship or professional repercussions in mainland China[304], and is often done in private settings such as the Internet.[305] Critical attitudes were apparent when a video of Bi Fujian insulting him at a private dinner in 2015 went viral, with Bi garnering the support of 80% of Weibo users in a poll amidst backlash from state affiliates.[306][307] In the West, Mao is often reviled as a tyrannical ideologue and his economic theories are widely discredited—though to some political activists he remains a symbol against capitalism, imperialism and western influence. Even in China, key pillars of his economic theory have been publicly dismantled for the most part by market reformers like Deng Xiaoping and Zhao Ziyang, who succeeded him as leaders of the Communist Party.
 
-Mao_Zedong_youth_art_sculpture_4.jpg in Changsha, the capital of Hunan]]
+in Changsha, the capital of Hunan]]
 
 Though the Chinese Communist Party, which Mao led to power, has rejected in practice the economic fundamentals of much of Mao's ideology, it retains for itself many of the powers established under Mao's reign: it controls the Chinese army, police, courts and media and does not permit multi-party elections at the national or local level, except in Hong Kong. Thus it is difficult to gauge the true extent of support for the Chinese Communist Party and Mao's legacy within mainland China. For its part, the Chinese government continues to officially regard Mao as a national hero. On December 25, 2008, China opened the Mao Zedong Square to visitors in his home town of central Hunan Province to mark the 115th anniversary of his birth.[308]
 
@@ -347,7 +321,7 @@ There continue to be disagreements on Mao's legacy. Former Party official Su Sha
 
 Others, such as Philip Short, reject such comparisons in _Mao: A Life_, arguing that whereas the deaths caused by Nazi Germany and Soviet Russia were largely systematic and deliberate, the overwhelming majority of the deaths under Mao were unintended consequences of famine.[319] Short noted that landlord class were not exterminated as a people due to Mao's belief in redemption through thought reform.[320] He instead compared Mao with 19th-century Chinese reformers who challenged China's traditional beliefs in the era of China's clashes with Western colonial powers. Short argues, "Mao's tragedy and his grandeur were that he remained to the end in thrall to his own revolutionary dreams ... He freed China from the straitjacket of its Confucian past, but the bright Red future he promised turned out to be a sterile purgatory.[321]
 
-Mausoleo_de_Mao_Zedong-Tianang_Mei-Pekin-China8452.JPG]]
+]]
 
 Mao's English interpreter Sidney Rittenberg wrote in his memoir _The Man Who Stayed Behind_ that whilst Mao "was a great leader in history", he was also "a great criminal because, not that he wanted to, not that he intended to, but in fact, his wild fantasies led to the deaths of tens of millions of people."[322] Li Rui, Mao's personal secretary, goes further and claims he was dismissive of the suffering and death caused by his policies: "Mao's way of thinking and governing was terrifying. He put no value on human life. The deaths of others meant nothing to him."[323]
 
@@ -365,7 +339,7 @@ Dikötter argues that CPC leaders "glorified violence and were inured to massive
 
 Regarding the large-scale irrigation projects, Dikötter stresses that, in spite of Mao being in a good position to see the human cost, they continued unabated for several years, and ultimately claimed the lives of hundreds of thousands of exhausted villagers. He also notes that "In a chilling precursor of Cambodia under the Khmer Rouge, villagers in Qingshui and Gansu called these projects the 'killing fields'."[328]
 
-Mao_Zedong,_Zhang_Yufeng_et_Richard_Nixon.jpg during his visit to China in 1972.]]
+during his visit to China in 1972.]]
 
 The United States placed a trade embargo on the People's Republic as a result of its involvement in the Korean War, lasting until Richard Nixon decided that developing relations with the PRC would be useful in dealing with the Soviet Union.
 
@@ -383,7 +357,7 @@ Mao's military writings continue to have a large amount of influence both among 
 
   Let us imagine how many people would die if war breaks out. There are 2.7 billion people in the world, and a third could be lost. If it is a little higher, it could be half ... I say that if the worst came to the worst and one-half dies, there will still be one-half left, but imperialism would be razed to the ground and the whole world would become socialist. After a few years there would be 2.7 billion people again"[333]
 
-MaoStatueinLijang.jpg]]
+]]
 
 But historians dispute the sincerity of Mao's words. Robert Service says that Mao "was deadly serious,"[334] while Frank Dikötter claims that "He was bluffing ... the sabre-rattling was to show that he, not Khrushchev, was the more determined revolutionary."[335]
 
@@ -430,7 +404,7 @@ His ancestors were:
 
 Wives
 
-Mao_Jiang_Qing_and_daughter_Li_Na.jpg and daughter Li Na, 1940s]]
+and daughter Li Na, 1940s]]
 
 Mao Zedong had four wives who gave birth to a total of 10 children. They were:
 
@@ -455,7 +429,7 @@ From the next generation, Zemin's son, Mao Yuanxin, was raised by Mao Zedong's f
 
 Children
 
-Mao_Anying_and_wife_Liu_Songlin.jpg with his wife Liu Songlin]]
+with his wife Liu Songlin]]
 
 Mao Zedong had a total of ten children,[352] including:
 
@@ -475,8 +449,6 @@ Through his ten children, Mao became grandfather to twelve grandchildren, many o
 
 Personal life
 
-Mao_Zedong_and_Zhang_Yufeng_in_1964.jpg
-
 Mao's private life was kept very secret at the time of his rule. However, after Mao's death, Li Zhisui, his personal physician, published _The Private Life of Chairman Mao_, a memoir which mentions some aspects of Mao's private life, such as chain-smoking cigarettes, addiction to powerful sleeping pills and large number of sexual partners.[356] Some scholars and some other people who also personally knew and worked with Mao, however, have disputed the accuracy of these characterisations.[357]
 
 Having grown up in Hunan, Mao spoke Mandarin with a marked Hunanese accent.[358] Ross Terrill noted Mao was a "son of the soil ... rural and unsophisticated" in origins,[359] while Clare Hollingworth asserted he was proud of his "peasant ways and manners", having a strong Hunanese accent and providing "earthy" comments on sexual matters.[360] Lee Feigon noted that Mao's "earthiness" meant that he remained connected to "everyday Chinese life."[361]
@@ -488,7 +460,7 @@ Mao had learned some English language, particularly through Zhang Hanzhi, who wa
 
 Writings and calligraphy
 
-Baidi_Mao.jpg: a bronze plaque of a poem by Li Bai. ()]] Mao was a prolific writer of political and philosophical literature.[368] He is the attributed author of _Quotations from Chairman Mao Tse-tung_, known in the West as the "Little Red Book" and in Cultural Revolution China as the "Red Treasure Book" (): first published in January 1964, this is a collection of short extracts from his many speeches and articles, edited by Lin Biao and ordered topically. Mao wrote several other philosophical treatises, both before and after he assumed power. These include:
+: a bronze plaque of a poem by Li Bai. ()]] Mao was a prolific writer of political and philosophical literature.[368] He is the attributed author of _Quotations from Chairman Mao Tse-tung_, known in the West as the "Little Red Book" and in Cultural Revolution China as the "Red Treasure Book" (): first published in January 1964, this is a collection of short extracts from his many speeches and articles, edited by Lin Biao and ordered topically. Mao wrote several other philosophical treatises, both before and after he assumed power. These include:
 
 -   _On Guerrilla Warfare_ (); 1937
 -   _On Practice_ (); 1937
@@ -504,8 +476,6 @@ Baidi_Mao.jpg: a bronze plaque of a poem by Li Bai. ()]] Mao was a prolific writ
 Mao was also a skilled Chinese calligrapher with a highly personal style. In China, Mao was considered a master calligrapher during his lifetime.[369] His calligraphy can be seen today throughout mainland China.[370] His work gave rise to a new form of Chinese calligraphy called "Mao-style" or _Maoti_, which has gained increasing popularity since his death. There currently exist various competitions specialising in Mao-style calligraphy.[371]
 
 Literary works
-
-Qinyuanchun_Changsha.JPG
 
 As did most Chinese intellectuals of his generation, Mao's education began with Chinese classical literature. Mao told Edgar Snow in 1936 that he had started the study of the Confucian Analects and the Four Books at a village school when he was eight, but that the books he most enjoyed reading were _Water Margin_, _Journey to the West_, the _Romance of the Three Kingdoms_ and _Dream of the Red Chamber_.[372] Mao published poems in classical forms starting in his youth and his abilities as a poet contributed to his image in China after he came to power in 1949. His style was influenced by the great Tang dynasty poets Li Bai and Li He.[373]
 

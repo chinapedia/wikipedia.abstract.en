@@ -1,5 +1,3 @@
-Harmonic_series_klang.png
-
 In music, JUST INTONATION (sometimes abbreviated as JI) or pure intonation is the tuning of musical intervals as (small) whole number ratios of frequencies. Any interval tuned in this way is called a JUST INTERVAL. Just intervals and chords are aggregates of harmonic series partials and may be seen as sharing a (lower) implied fundamental. For example, a tone with a frequency of 300 Hz and another with a frequency of 200 Hz are both multiples of 100 Hz (100 × 3 and 100 × 2 respectively). Their interval is, therefore, an aggregate of the second and third partials of the harmonic series of an implied fundamental frequency 100 Hz.
 
 Without context, "just intonation" typically refers to 5-limit just intonation, where ratios only contain powers of the prime numbers 2, 3, and 5. American composer Ben Johnston proposed the term _extended just intonation_ for composition involving ratios that contain prime numbers beyond 5 (7, 11, 13, _etc._).
@@ -19,8 +17,6 @@ The guqin has a musical scale based on harmonic overtone positions. The dots on 
 
 
 Diatonic scale
-
-Primary_triads_in_C.png Just_intonation_diatonic_scale_derivation.png
 
 The prominent notes of a given scale may be tuned so that their frequencies form (relatively) small whole number ratios.
 
@@ -172,7 +168,7 @@ Yuri Landman devised a just intonation musical scale from an atonal prepared gui
 
 Staff notation
 
-Helmholtz-Ellis_JI_pitch_notation_microtonal_accidents_legend.gif Pythagorean_diatonic_scale_on_C.png on C . Johnston's notation.]] Diatonic_scale_on_C.png Just_diatonic_scale_on_C_HE_notation.png Harmonic_seventh_chord_just_on_C.png lower than B.]]
+on C . Johnston's notation.]] lower than B.]]
 
 Originally a system of notation to describe scales was devised by Hauptmann and modified by Helmholtz (1877) in which Pythagorean notes are started with and subscript numbers are added indicating how many commas (81:80, syntonic comma) to lower by.[18] For example, the Pythagorean major third on C is C+E () while the just major third is C+E₁ (). A similar system was devised by Carl Eitz and used in Barbour (1951) in which Pythagorean notes are started with and positive or negative superscript numbers are added indicating how many commas (81:80, syntonic comma) to adjust by.[19] For example, the Pythagorean major third on C is C-E⁰ while the just major third is C-E^(−1).
 
@@ -183,8 +179,6 @@ Johnston‘s method is based on a diatonic C Major scale tuned in JI, in which t
 In 2000–2004, Marc Sabat and Wolfgang von Schweinitz worked in Berlin to develop a different accidental-based method, the Extended Helmholtz-Ellis JI Pitch Notation.[23] Following the method of notation suggested by Helmholtz in his classic "On the Sensations of Tone as a Physiological Basis for the Theory of Music", incorporating Ellis' invention of cents, and continuing Johnston's step into "Extended JI", Sabat and Schweinitz consider each prime dimension of harmonic space to be represented by a unique symbol. In particular they take the conventional flats, naturals and sharps as a Pythagorean series of perfect fifths. Thus, a series of perfect fifths beginning with F proceeds C-G-D-A-E-B-F and so on.
 
 For higher primes, additional signs have been designed. To facilitate quick estimation of pitches, cents indications may be added (downward deviations below and upward deviations above the respective accidental). The convention used is that the cents written refer to the tempered pitch implied by the flat, natural, or sharp sign and the note name. A complete legend and fonts for the notation (see samples) are open source and available from Plainsound Music Edition.[24] For example, the Pythagorean major third on C is C-E while the just major third is C-E↓.
-
-Notation_of_partials_1-19_for_1-1.png
 
 One of the great advantages of such notation systems is that they allow the natural harmonic series to be precisely notated.
 

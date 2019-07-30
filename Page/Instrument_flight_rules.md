@@ -1,4 +1,4 @@
-IFR_in_IMC_over_SLI_into_LGB_on_the_VOR_and_ILS_in_a_172_photo_D_Ramey_Logan.jpg]] INSTRUMENT FLIGHT RULES (IFR) is one of two sets of regulations governing all aspects of civil aviation aircraft operations; the other is visual flight rules (VFR).
+]] INSTRUMENT FLIGHT RULES (IFR) is one of two sets of regulations governing all aspects of civil aviation aircraft operations; the other is visual flight rules (VFR).
 
 The U.S. Federal Aviation Administration's (FAA) _Instrument Flying Handbook_ defines IFR as: "Rules and regulations established by the FAA to govern flight under conditions in which flight by outside visual reference is not safe. IFR flight depends upon flying by reference to instruments in the flight deck, and navigation is accomplished by reference to electronic signals."[1] It is also a term used by pilots and controllers to indicate the type of flight plan an aircraft is flying, such as an IFR or VFR flight plan.[2]
 
@@ -33,7 +33,7 @@ Despite the protection offered by flight in controlled airspace under IFR, the u
 
 Weather
 
-IFR_on_top.jpg It is essential to differentiate between flight plan type (VFR or IFR) and weather conditions (VMC or IMC). While current and forecast weather may be a factor in deciding which type of flight plan to file, weather conditions themselves do not affect one's filed flight plan. For example, an IFR flight that encounters visual meteorological conditions (VMC) en route does not automatically change to a VFR flight, and the flight must still follow all IFR procedures regardless of weather conditions. In the US, weather conditions are forecast broadly as VFR, MVFR (Marginal Visual Flight Rules), IFR, or LIFR (Low Instrument Flight Rules).[12]
+It is essential to differentiate between flight plan type (VFR or IFR) and weather conditions (VMC or IMC). While current and forecast weather may be a factor in deciding which type of flight plan to file, weather conditions themselves do not affect one's filed flight plan. For example, an IFR flight that encounters visual meteorological conditions (VMC) en route does not automatically change to a VFR flight, and the flight must still follow all IFR procedures regardless of weather conditions. In the US, weather conditions are forecast broadly as VFR, MVFR (Marginal Visual Flight Rules), IFR, or LIFR (Low Instrument Flight Rules).[12]
 
 The main purpose of IFR is the safe operation of aircraft in instrument meteorological conditions (IMC). The weather is considered to be MVFR or IMC when it does not meet the minimum requirements for visual meteorological conditions (VMC). To operate safely in IMC ("actual instrument conditions"), a pilot controls the aircraft relying on flight instruments and ATC provides separation.[13]
 

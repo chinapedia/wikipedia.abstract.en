@@ -1,4 +1,4 @@
-Charles_Townes_and_first_maser.jpg. The ammonia nozzle is at left in the box, the four brass rods at center is the quadrupole state selector, and the resonant cavity is at right. The 24 GHz microwaves exit through the vertical waveguide Townes is adjusting. At bottom are the vacuum pumps.]] Hydrogen_maser.gif (see description below)]]
+. The ammonia nozzle is at left in the box, the four brass rods at center is the quadrupole state selector, and the resonant cavity is at right. The 24 GHz microwaves exit through the vertical waveguide Townes is adjusting. At bottom are the vacuum pumps.]] (see description below)]]
 
 A MASER (, an acronym for MICROWAVE AMPLIFICATION BY STIMULATED EMISSION OF RADIATION) is a device that produces coherent electromagnetic waves through amplification by stimulated emission. The first maser was built by Charles H. Townes, James P. Gordon, and H. J. Zeiger at Columbia University in 1953. Townes, Nikolay Basov and Alexander Prokhorov were awarded the 1964 Nobel Prize in Physics for theoretical work leading to the maser. Masers are used as the timekeeping device in atomic clocks, and as extremely low-noise microwave amplifiers in radio telescopes and deep space spacecraft communication ground stations.
 
@@ -51,7 +51,7 @@ During the early 1960s, the Jet Propulsion Laboratory developed a maser to provi
 
 Hydrogen maser
 
-Hmaser.svg , the most important type of maser is the hydrogen maser which is currently used as an atomic frequency standard. Together with other kinds of atomic clocks, these help make up the International Atomic Time standard ("Temps Atomique International" or "TAI" in French). This is the international time scale coordinated by the International Bureau of Weights and Measures.
+, the most important type of maser is the hydrogen maser which is currently used as an atomic frequency standard. Together with other kinds of atomic clocks, these help make up the International Atomic Time standard ("Temps Atomique International" or "TAI" in French). This is the international time scale coordinated by the International Bureau of Weights and Measures.
 
 Norman Ramsey and his colleagues first conceived of the maser as a timing standard. More recent masers are practically identical to their original design. Maser oscillations rely on the stimulated emission between two hyperfine energy levels of atomic hydrogen. Here is a brief description of how they work:
 

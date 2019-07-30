@@ -26,7 +26,7 @@ Rachel had a brief membership in the X-Men before finding a Shi'ar holoempathic 
 
 Excalibur
 
-ExcaliburV1-44pg12p4.jpg.]] Months later, while recuperating from injuries on Muir Island, Shadowcat and Nightcrawler both had the same dream, where they were actors on a weird set and helped Rachel, who was trapped there, escape. Shortly thereafter, Rachel escaped from the alternate reality of Mojoworld. Rachel has once been cited having a flashback to her time there where she is held in chains and tortured. The three former X-Men were joined by Captain Britain and Meggan and founded the British superhero team Excalibur.[16] While part of the team, she discovered that this universe's version of her mother, Jean Grey, was alive. She attempted to bond with Jean, but Jean, upon discovering Rachel was the present host for the Phoenix, rejected any contact with her. Jean still resented the Phoenix Force for stealing a portion of her life. She also rejected Rachel because she felt that Rachel's existence was a constant reminder of the dystopian future she feared could still come to pass.[17][18] Eventually, however, Jean moved past those feelings and formally welcomed Rachel into her life.[19]
+.]] Months later, while recuperating from injuries on Muir Island, Shadowcat and Nightcrawler both had the same dream, where they were actors on a weird set and helped Rachel, who was trapped there, escape. Shortly thereafter, Rachel escaped from the alternate reality of Mojoworld. Rachel has once been cited having a flashback to her time there where she is held in chains and tortured. The three former X-Men were joined by Captain Britain and Meggan and founded the British superhero team Excalibur.[16] While part of the team, she discovered that this universe's version of her mother, Jean Grey, was alive. She attempted to bond with Jean, but Jean, upon discovering Rachel was the present host for the Phoenix, rejected any contact with her. Jean still resented the Phoenix Force for stealing a portion of her life. She also rejected Rachel because she felt that Rachel's existence was a constant reminder of the dystopian future she feared could still come to pass.[17][18] Eventually, however, Jean moved past those feelings and formally welcomed Rachel into her life.[19]
 
 Askani
 
@@ -143,7 +143,7 @@ Chronoskimming
 
 Marvel Girl utilizes her psionic talents in conjunction with her ability to manipulate time in a variety of ways. "Chronoskimming" describes her ability to temporarily transplant a person's mind and send it through time into a younger/older version, a close ancestor/descendant, or as a disembodied astral form.[65] Rachel unconsciously emanates a fourth dimensional pulse, effectively creating a chrono-shield that protects her from changes in the timeline.[66] She can also sense and manipulate residual psychic energy in the form of psychometry.[67][68][69]
 
-Galactus.jpg, battles and wins against Galactus. Art by Alan Davis.]]
+, battles and wins against Galactus. Art by Alan Davis.]]
 
 Phoenix Force
 

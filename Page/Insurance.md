@@ -1,5 +1,3 @@
-Algemeene_Verzeekering-Maatschappij_Providentia.jpg
-
 INSURANCE is a means of protection from financial loss. It is a form of risk management, primarily used to hedge against the risk of a contingent or uncertain loss.
 
 An entity which provides insurance is known as an insurer, insurance company, insurance carrier or underwriter. A person or entity who buys insurance is known as an insured or as a policyholder. The insurance transaction involves the insured assuming a guaranteed and known relatively small loss in the form of payment to the insurer in exchange for the insurer's promise to compensate the insured in the event of a covered loss. The loss may or may not be financial, but it must be reducible to financial terms, and usually involves something in which the insured has an insurable interest established by ownership, possession, or pre-existing relationship.
@@ -11,7 +9,7 @@ History
 
 Early methods
 
-Ferdinand_Bol_-_Governors_of_the_Wine_Merchant's_Guild_-_WGA2361.jpg, c. 1680.]] Methods for transferring or distributing risk were practiced by Chinese and Babylonian traders as long ago as the 3rd and 2nd millennia BC, respectively.[1] Chinese merchants travelling treacherous river rapids would redistribute their wares across many vessels to limit the loss due to any single vessel's capsizing. The Babylonians developed a system which was recorded in the famous Code of Hammurabi, c. 1750 BC, and practiced by early Mediterranean sailing merchants. If a merchant received a loan to fund his shipment, he would pay the lender an additional sum in exchange for the lender's guarantee to cancel the loan should the shipment be stolen, or lost at sea.
+, c. 1680.]] Methods for transferring or distributing risk were practiced by Chinese and Babylonian traders as long ago as the 3rd and 2nd millennia BC, respectively.[1] Chinese merchants travelling treacherous river rapids would redistribute their wares across many vessels to limit the loss due to any single vessel's capsizing. The Babylonians developed a system which was recorded in the famous Code of Hammurabi, c. 1750 BC, and practiced by early Mediterranean sailing merchants. If a merchant received a loan to fund his shipment, he would pay the lender an additional sum in exchange for the lender's guarantee to cancel the loan should the shipment be stolen, or lost at sea.
 
 Circa 800 BC, the inhabitants of Rhodes created the 'general average'. This allowed groups of merchants to pay to insure their goods being shipped together. The collected premiums would be used to reimburse any merchant whose goods were jettisoned during transport, whether due to storm or sinkage.[2]
 
@@ -21,11 +19,11 @@ Modern insurance
 
 Insurance became far more sophisticated in Enlightenment era Europe, and specialized varieties developed.
 
-Lloyd's_coffee_house_drawing.jpg was the first organized market for marine insurance.]] Property insurance as we know it today can be traced to the Great Fire of London, which in 1666 devoured more than 13,000 houses. The devastating effects of the fire converted the development of insurance "from a matter of convenience into one of urgency, a change of opinion reflected in Sir Christopher Wren's inclusion of a site for 'the Insurance Office' in his new plan for London in 1667."[4] A number of attempted fire insurance schemes came to nothing, but in 1681, economist Nicholas Barbon and eleven associates established the first fire insurance company, the "Insurance Office for Houses," at the back of the Royal Exchange to insure brick and frame homes. Initially, 5,000 homes were insured by his Insurance Office.[5]
+was the first organized market for marine insurance.]] Property insurance as we know it today can be traced to the Great Fire of London, which in 1666 devoured more than 13,000 houses. The devastating effects of the fire converted the development of insurance "from a matter of convenience into one of urgency, a change of opinion reflected in Sir Christopher Wren's inclusion of a site for 'the Insurance Office' in his new plan for London in 1667."[4] A number of attempted fire insurance schemes came to nothing, but in 1681, economist Nicholas Barbon and eleven associates established the first fire insurance company, the "Insurance Office for Houses," at the back of the Royal Exchange to insure brick and frame homes. Initially, 5,000 homes were insured by his Insurance Office.[5]
 
 At the same time, the first insurance schemes for the underwriting of business ventures became available. By the end of the seventeenth century, London's growing importance as a center for trade was increasing demand for marine insurance. In the late 1680s, Edward Lloyd opened a coffee house, which became the meeting place for parties in the shipping industry wishing to insure cargoes and ships, and those willing to underwrite such ventures. These informal beginnings led to the establishment of the insurance market Lloyd's of London and several related shipping and insurance businesses.[6]
 
-National-insurance-act-1911.jpg.]] The first life insurance policies were taken out in the early 18th century. The first company to offer life insurance was the Amicable Society for a Perpetual Assurance Office, founded in London in 1706 by William Talbot and Sir Thomas Allen.[7][8] Edward Rowe Mores established the Society for Equitable Assurances on Lives and Survivorship in 1762.
+.]] The first life insurance policies were taken out in the early 18th century. The first company to offer life insurance was the Amicable Society for a Perpetual Assurance Office, founded in London in 1706 by William Talbot and Sir Thomas Allen.[7][8] Edward Rowe Mores established the Society for Equitable Assurances on Lives and Survivorship in 1762.
 
 It was the world's first mutual insurer and it pioneered age based premiums based on mortality rate laying "the framework for scientific insurance practice and development" and "the basis of modern life assurance upon which all life assurance schemes were subsequently based."[9]
 
@@ -109,7 +107,7 @@ According to the study books of The Chartered Insurance Institute, there are var
 
 Insurers' business model
 
-Accidents_will_happen_William-H.-Watson-Universal-Star-Featurette-1922.webm.]]
+.]]
 
 Underwriting and investing
 
@@ -161,7 +159,7 @@ Business insurance can take a number of different forms, such as the various kin
 
 Auto insurance
 
-Car_crash_1.jpg]] Auto insurance protects the policyholder against financial loss in the event of an incident involving a vehicle they own, such as in a traffic collision.
+]] Auto insurance protects the policyholder against financial loss in the event of an incident involving a vehicle they own, such as in a traffic collision.
 
 Coverage typically includes:
 
@@ -175,13 +173,13 @@ Gap insurance covers the excess amount on your auto loan in an instance where yo
 
 Health insurance
 
-Great_western_hospital.JPG]]
+]]
 
 Health insurance policies cover the cost of medical treatments. Dental insurance, like medical insurance, protects policyholders for dental costs. In most developed countries, all citizens receive some health coverage from their governments, paid for by taxation. In most countries, health insurance is often part of an employer's benefits.
 
 Income protection insurance
 
-Pipe_installation_2.jpg, or employers' liability insurance, is compulsory in some countries]]
+, or employers' liability insurance, is compulsory in some countries]]
 
 -   Disability insurance policies provide financial support in the event of the policyholder becoming unable to work because of disabling illness or injury. It provides monthly support to help pay such obligations as mortgage loans and credit cards. Short-term and long-term disability policies are available to individuals, but considering the expense, long-term policies are generally obtained only by those with at least six-figure incomes, such as doctors, lawyers, etc. Short-term disability insurance covers a person for a period typically up to six months, paying a stipend each month to cover medical bills and other necessities.
 -   Long-term disability insurance covers an individual's expenses for the long term, up until such time as they are considered permanently disabled and thereafter Insurance companies will often try to encourage the person back into employment in preference to and before declaring them unable to work at all and therefore totally disabled.
@@ -200,7 +198,7 @@ Casualty insurance insures against accidents, not necessarily tied to any specif
 
 Life insurance
 
-Amicable_Society_for_a_Perpetual_Assurance_Office,_Serjeants'_Inn,_Fleet_Street,_London,_1801.jpg, Serjeants' Inn, Fleet Street, London, 1801]] Life insurance provides a monetary benefit to a decedent's family or other designated beneficiary, and may specifically provide for income to an insured person's family, burial, funeral and other final expenses. Life insurance policies often allow the option of having the proceeds paid to the beneficiary either in a lump sum cash payment or an annuity. In most states, a person cannot purchase a policy on another person without their knowledge.
+, Serjeants' Inn, Fleet Street, London, 1801]] Life insurance provides a monetary benefit to a decedent's family or other designated beneficiary, and may specifically provide for income to an insured person's family, burial, funeral and other final expenses. Life insurance policies often allow the option of having the proceeds paid to the beneficiary either in a lump sum cash payment or an annuity. In most states, a person cannot purchase a policy on another person without their knowledge.
 
 Annuities provide a stream of payments and are generally classified as insurance because they are issued by insurance companies, are regulated as insurance, and require the same kinds of actuarial and investment management expertise that life insurance requires. Annuities and pensions that pay a benefit for life are sometimes regarded as insurance against the possibility that a retiree will outlive his or her financial resources. In that sense, they are the complement of life insurance and, from an underwriting perspective, are the mirror image of life insurance.
 
@@ -216,9 +214,9 @@ Burial insurance is a very old type of life insurance which is paid out upon dea
 
 Property
 
-Tornado_Damage,_Illinois_2.JPG damage to an Illinois home would be considered an "Act of God" for insurance purposes]] Property insurance provides protection against risks to property, such as fire, theft or weather damage. This may include specialized forms of insurance such as fire insurance, flood insurance, earthquake insurance, home insurance, inland marine insurance or boiler insurance. The term _property insurance_ may, like casualty insurance, be used as a broad category of various subtypes of insurance, some of which are listed below:
+damage to an Illinois home would be considered an "Act of God" for insurance purposes]] Property insurance provides protection against risks to property, such as fire, theft or weather damage. This may include specialized forms of insurance such as fire insurance, flood insurance, earthquake insurance, home insurance, inland marine insurance or boiler insurance. The term _property insurance_ may, like casualty insurance, be used as a broad category of various subtypes of insurance, some of which are listed below:
 
-Plane_crash_into_Hudson_River_muchcropped.jpg was written off after ditching into the Hudson River]]
+was written off after ditching into the Hudson River]]
 
 -   Aviation insurance protects aircraft hulls and spares, and associated liability risks, such as passenger and third-party liability. Airports may also appear under this subcategory, including air traffic control and refuelling operations for international airports through to smaller domestic exposures.
 -   Boiler insurance (also known as boiler and machinery insurance, or equipment breakdown insurance) insures against accidental physical damage to boilers, equipment or machinery.
@@ -227,7 +225,7 @@ Plane_crash_into_Hudson_River_muchcropped.jpg was written off after ditching int
 -   Earthquake insurance is a form of property insurance that pays the policyholder in the event of an earthquake that causes damage to the property. Most ordinary home insurance policies do not cover earthquake damage. Earthquake insurance policies generally feature a high deductible. Rates depend on location and hence the likelihood of an earthquake, as well as the construction of the home.
 -   Fidelity bond is a form of casualty insurance that covers policyholders for losses incurred as a result of fraudulent acts by specified individuals. It usually insures a business for losses caused by the dishonest acts of its employees.
 
-FEMA_-_14947_-_Photograph_by_Jocelyn_Augustino_taken_on_08-30-2005_in_Louisiana.jpg caused over $80 billion of storm and flood damage]]
+caused over $80 billion of storm and flood damage]]
 
 -   Flood insurance protects against property loss due to flooding. Many U.S. insurers do not provide flood insurance in some parts of the country. In response to this, the federal government created the National Flood Insurance Program which serves as the insurer of last resort.
 -   Home insurance, also commonly called hazard insurance or homeowners insurance (often abbreviated in the real estate industry as HOI), provides coverage for damage or destruction of the policyholder's home. In some geographical areas, the policy may exclude certain types of risks, such as flood or earthquake, that require additional coverage. Maintenance-related issues are typically the homeowner's responsibility. The policy may include inventory, or this can be bought as a separate policy, especially for people who rent housing. In some countries, insurers offer a package which may include liability and legal responsibility for injuries and property damage caused by members of the household, including pets.[37]
@@ -237,7 +235,7 @@ FEMA_-_14947_-_Photograph_by_Jocelyn_Augustino_taken_on_08-30-2005_in_Louisiana.
 -   Supplemental natural disaster insurance covers specified expenses after a natural disaster renders the policyholder's home uninhabitable. Periodic payments are made directly to the insured until the home is rebuilt or a specified time period has elapsed.
 -   Surety bond insurance is a three-party insurance guaranteeing the performance of the principal.
 
-WTC_smoking_on_9-11.jpeg surged after 9/11]]
+surged after 9/11]]
 
 -   Volcano insurance is a specialized insurance protecting against damage arising specifically from volcanic eruptions.
 -   Windstorm insurance is an insurance covering the damage that can be caused by wind events such as hurricanes.
@@ -246,7 +244,7 @@ Liability
 
 Liability insurance is a very broad superset that covers legal claims against the insured. Many types of insurance include an aspect of liability coverage. For example, a homeowner's insurance policy will normally include liability coverage which protects the insured in the event of a claim brought by someone who slips and falls on the property; automobile insurance also includes an aspect of liability insurance that indemnifies against the harm that a crashing car can cause to others' lives, health, or property. The protection offered by a liability insurance policy is twofold: a legal defense in the event of a lawsuit commenced against the policyholder and indemnification (payment on behalf of the insured) with respect to a settlement or court verdict. Liability policies typically cover only the negligence of the insured, and will not apply to results of wilful or intentional acts by the insured.
 
-Sign_of_the_Times-Foreclosure.jpg was the source of many liability insurance losses]]
+was the source of many liability insurance losses]]
 
 -   Public liability insurance or general liability insurance covers a business or organization against claims should its operations injure a member of the public or damage their property in some way.
 -   Directors and officers liability insurance (D&O) protects an organization (usually a corporation) from costs associated with litigation resulting from errors made by directors and officers for which they are liable.
@@ -270,7 +268,7 @@ Other types
 
 -   All-risk insurance is an insurance that covers a wide range of incidents and perils, except those noted in the policy. All-risk insurance is different from peril-specific insurance that cover losses from only those perils listed in the policy.[39] In car insurance, all-risk policy includes also the damages caused by the own driver.
 
-2006GoodwoodBreedersCup.jpg policy]]
+policy]]
 
 -   Bloodstock insurance covers individual horses or a number of horses under common ownership. Coverage is typically for mortality as a result of accident, illness or disease but may extend to include infertility, in-transit loss, veterinary fees, and prospective foal.
 -   Business interruption insurance covers the loss of income, and the expenses incurred, after a covered peril interrupts normal business operations.
@@ -318,7 +316,7 @@ In the United States, the most prevalent form of self-insurance is governmental 
 
 Insurance companies
 
-Republic_Fire_Insurance_Company_certificate.jpg Insurance companies may sell any combination of insurance types, but are often classified into three groups:[43]
+Insurance companies may sell any combination of insurance types, but are often classified into three groups:[43]
 
 -   Life insurance companies, which sell life insurance, annuities and pensions products and bear similarities to asset management businesses[44]
 -   Non-life or property/casualty insurance companies, which sell other types of insurance.
@@ -378,8 +376,6 @@ Insurance companies are rated by various agencies such as A. M. Best. The ratin
 
 Across the world
 
-2005life_premia.PNG 2005nonlife_premia.PNG
-
 Global insurance premiums grew by 2.7% in inflation-adjusted terms in 2010 to $4.3 trillion, climbing above pre-crisis levels. The return to growth and record premiums generated during the year followed two years of decline in real terms. Life insurance premiums increased by 3.2% in 2010 and non-life premiums by 2.1%. While industrialised countries saw an increase in premiums of around 1.4%, insurance markets in emerging economies saw rapid expansion with 11% growth in premium income. The global insurance industry was sufficiently capitalised to withstand the financial crisis of 2008 and 2009 and most insurance companies restored their capital to pre-crisis levels by the end of 2010. With the continuation of the gradual recovery of the global economy, it is likely the insurance industry will continue to see growth in premium income both in industrialised countries and emerging markets in 2011.
 
 Advanced economies account for the bulk of global insurance. With premium income of $1.62 trillion, Europe was the most important region in 2010, followed by North America $1.409 trillion and Asia $1.161 trillion. Europe has however seen a decline in premium income during the year in contrast to the growth seen in North America and Asia. The top four countries generated more than a half of premiums. The United States and Japan alone accounted for 40% of world insurance, much higher than their 7% share of the global population. Emerging economies accounted for over 85% of the world's population but only around 15% of premiums. Their markets are however growing at a quicker pace.[47] The country expected to have the biggest impact on the insurance share distribution across the world is China. According to Sam Radwan of ENHANCE International LLC, low premium penetration (insurance premium as a % of GDP), an ageing population and the largest car market in terms of new sales, premium growth has averaged 15–20% in the past five years, and China is expected to be the largest insurance market in the next decade or two.[48]
@@ -411,7 +407,7 @@ For example, life insurance companies may require higher premiums or deny covera
 
 Complexity of insurance policy contracts
 
-UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg was a major insurance loss, but there were disputes over the World Trade Center's insurance policy]] Insurance policies can be complex and some policyholders may not understand all the fees and coverages included in a policy. As a result, people may buy policies on unfavorable terms. In response to these issues, many countries have enacted detailed statutory and regulatory regimes governing every aspect of the insurance business, including minimum standards for policies and the ways in which they may be advertised and sold.
+was a major insurance loss, but there were disputes over the World Trade Center's insurance policy]] Insurance policies can be complex and some policyholders may not understand all the fees and coverages included in a policy. As a result, people may buy policies on unfavorable terms. In response to these issues, many countries have enacted detailed statutory and regulatory regimes governing every aspect of the insurance business, including minimum standards for policies and the ways in which they may be advertised and sold.
 
 For example, most insurance policies in the English language today have been carefully drafted in plain English; the industry learned the hard way that many courts will not enforce policies against insureds when the judges themselves cannot understand what the policies are saying. Typically, courts construe ambiguities in insurance policies against the insurance company and in favor of coverage under the policy.
 

@@ -1,9 +1,9 @@
-PISCES is a constellation of the zodiac. Its name is the Latin plural for fish. It lies between Aquarius to the west and Aries to the east. The ecliptic and the celestial equator intersect within this constellation and in Virgo. Its symbol is Pisces.svg (Unicode ♓).
+PISCES is a constellation of the zodiac. Its name is the Latin plural for fish. It lies between Aquarius to the west and Aries to the east. The ecliptic and the celestial equator intersect within this constellation and in Virgo. Its symbol is (Unicode ♓).
 
 
 Features
 
-PiscesCC.jpg The vernal equinox is currently located in Pisces, due south of ω Psc, and, due to precession, slowly drifting below the western fish towards Aquarius.
+The vernal equinox is currently located in Pisces, due south of ω Psc, and, due to precession, slowly drifting below the western fish towards Aquarius.
 
 Stars
 
@@ -34,11 +34,11 @@ CL 0024+1654 is a massive galaxy cluster that lenses the galaxy behind it, creat
 
 History and mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Pisces.jpg'' (1824)]] Pisces originates from some composition of the Babylonian constellations _Šinunutu₄_ "the great swallow" in current western Pisces, and _Anunitum_ the "Lady of the Heaven", at the place of the northern fish. In the first-millennium BC texts known as the _Astronomical Diaries_, part of the constellation was also called DU.NU.NU (_Rikis-nu.mi_, "the fish cord or ribbon").[8]
+'' (1824)]] Pisces originates from some composition of the Babylonian constellations _Šinunutu₄_ "the great swallow" in current western Pisces, and _Anunitum_ the "Lady of the Heaven", at the place of the northern fish. In the first-millennium BC texts known as the _Astronomical Diaries_, part of the constellation was also called DU.NU.NU (_Rikis-nu.mi_, "the fish cord or ribbon").[8]
 
 Pisces is associated with Aphrodite and Eros, who escaped from the monster Typhon by leaping into the sea and transforming themselves into fish.[9] In order not to lose each other, they tied themselves together with rope. The Romans adopted the Greek legend, with Venus and Cupid acting as the counterparts for Aphrodite and Eros. The knot of the rope is marked by Alpha Piscium (α Psc), also called Al-Rischa ("the cord" in Arabic).
 
-Pisces_Hevelius.jpg In 1690, the astronomer Johannes Hevelius in his _Firmamentum Sobiescianum_ regarded the constellation Pisces as being composed of four subdivisions:[10]
+In 1690, the astronomer Johannes Hevelius in his _Firmamentum Sobiescianum_ regarded the constellation Pisces as being composed of four subdivisions:[10]
 
 -   PISCIS BOREUS (the North Fish): σ – 68 – 65 – 67 – ψ¹ – ψ² – ψ³ – χ – φ – υ – 91 – τ – 82 – 78 Psc.
 -   LINUM BOREUM (the North Cord):[11] χ – ρ,94 – VX(97) – η – π – ο – α Psc.

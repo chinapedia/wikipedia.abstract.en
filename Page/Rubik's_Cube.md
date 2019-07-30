@@ -9,15 +9,11 @@ Conception and development
 
 Similar precursors
 
-Patent_US3655201.png
-
 In March 1970, Larry D. Nichols invented a 2×2×2 "Puzzle with Pieces Rotatable in Groups" and filed a Canadian patent application for it. Nichols's cube was held together by magnets. Nichols was granted on 11 April 1972, two years before Rubik invented his Cube.
 
 On 9 April 1970, Frank Fox applied to patent an "amusement device", a type of sliding puzzle on a spherical surface with "at least two 3×3 arrays" intended to be used for the game of noughts and crosses. He received his UK patent (1344259) on 16 January 1974.[14]
 
 Rubik's invention
-
-1980-Rubik's-Cube.jpg
 
 In the mid-1970s, Ernő Rubik worked at the Department of Interior Design at the Academy of Applied Arts and Crafts in Budapest.[15] Although it is widely reported that the Cube was built as a teaching tool to help his students understand 3D objects, his actual purpose was solving the structural problem of moving the parts independently without the entire mechanism falling apart. He did not realise that he had created a puzzle until the first time he scrambled his new Cube and then tried to restore it.[16] Rubik applied for a patent in Hungary for his "Magic Cube" (_Bűvös kocka_ in Hungarian) on 30 January 1975,[17] and HU170062 was granted later that year.
 
@@ -60,8 +56,6 @@ On 10 November 2016, Rubik's Cube lost a ten-year battle over a key trademark is
 
 Mechanics
 
-Disassembled-rubix-1.jpg Disassembled_Rubik's_Cube_on_table,_16_June_2013.png Scrumbled_Rubik's_Cube.jpg
-
 A standard Rubik's Cube measures on each side. The puzzle consists of twenty-six unique miniature cubes, also called "cubies" or "cubelets". Each of these includes a concealed inward extension that interlocks with the other cubes while permitting them to move to different locations. However, the centre cube of each of the six faces is merely a single square façade; all six are affixed to the core mechanism. These provide structure for the other pieces to fit into and rotate around. So there are twenty-one pieces: a single core piece consisting of three intersecting axes holding the six centre squares in place but letting them rotate, and twenty smaller plastic pieces which fit into it to form the assembled puzzle.
 
 Each of the six centre pieces pivots on a screw (fastener) held by the centre piece, a "3D cross". A spring between each screw head and its corresponding piece tensions the piece inward, so that collectively, the whole assembly remains compact, but can still be easily manipulated. The screw can be tightened or loosened to change the "feel" of the Cube. Newer official Rubik's brand cubes have rivets instead of screws and cannot be adjusted.
@@ -79,7 +73,7 @@ The puzzle was originally advertised as having "over 3,000,000,000 (three billio
 
 Permutations
 
-Rubik's_cube_colors.svg The original (3×3×3) Rubik's Cube has eight corners and twelve edges. There are 8! (40,320) ways to arrange the corner cubes. Each corner has three possible orientations, although only seven (of eight) can be oriented independently; the orientation of the eighth (final) corner depends on the preceding seven, giving 3⁷ (2,187) possibilities. There are 12!/2 (239,500,800) ways to arrange the edges, restricted from 12! because edges must be in an even permutation exactly when the corners are. (When arrangements of centres are also permitted, as described below, the rule is that the combined arrangement of corners, edges, and centres must be an even permutation.) Eleven edges can be flipped independently, with the flip of the twelfth depending on the preceding ones, giving 2¹¹ (2,048) possibilities.[61]
+The original (3×3×3) Rubik's Cube has eight corners and twelve edges. There are 8! (40,320) ways to arrange the corner cubes. Each corner has three possible orientations, although only seven (of eight) can be oriented independently; the orientation of the eighth (final) corner depends on the preceding seven, giving 3⁷ (2,187) possibilities. There are 12!/2 (239,500,800) ways to arrange the edges, restricted from 12! because edges must be in an even permutation exactly when the corners are. (When arrangements of centres are also permitted, as described below, the rule is that the combined arrangement of corners, edges, and centres must be an even permutation.) Eleven edges can be flipped independently, with the flip of the twelfth depending on the preceding ones, giving 2¹¹ (2,048) possibilities.[61]
 
 8! × 3⁷ × (12!/2) × 2¹¹ = 43, 252, 003, 274, 489, 856, 000
 
@@ -156,7 +150,7 @@ Another notation appeared in the 1982 "The Ideal Solution" book for Rubik's Reve
 
 Optimal solutions
 
-1982_expedition_to_Tartu_Ülikool_350_(23).jpg solving Rubik's Cube during 1982 expedition in Pamir Mountains to peak Tartu Ülikool 350]]
+solving Rubik's Cube during 1982 expedition in Pamir Mountains to peak Tartu Ülikool 350]]
 
 Although there are a significant number of possible permutations for the Rubik's Cube, a number of solutions have been developed which allow solving the cube in well under 100 moves.
 
@@ -249,7 +243,7 @@ Top 5 solvers by average of 5 solves[110]
 
 Variations
 
-File:Rubik's Cube variants.jpg|thumb|250px|alt=Rubik's Cube Variants|Variations of Rubik's Cubes. Top row: V-Cube 7, Professor's Cube, V-Cube 6. Bottom row: Rubik's Revenge, original Rubik's Cube, Pocket Cube. Clicking on a cube in the picture will redirect to the respective cube's page. (Note:scrambled states) default none File:Rubik's Cube variants.jpg poly 964 370 1082 448 1065 545 970 622 865 545 875 445 Pocket Cube poly 620 370 844 363 862 536 850 680 628 682 Rubik's Cube poly 455 280 570 440 580 605 355 705 255 530 220 363 Rubik's Revenge poly 540 75 780 90 780 225 760 360 620 365 605 420 560 420 505 340 500 235 Professor's Cube poly 890 50 1125 90 1065 420 1040 420 965 365 930 390 850 380 845 365 830 360 840 205 V-Cube 6 poly 255 50 320 90 405 225 420 290 210 360 230 460 210 465 150 410 90 320 60 240 45 155 120 100 190 70 V-Cube 7 17_layer_cube.png
+File:Rubik's Cube variants.jpg|thumb|250px|alt=Rubik's Cube Variants|Variations of Rubik's Cubes. Top row: V-Cube 7, Professor's Cube, V-Cube 6. Bottom row: Rubik's Revenge, original Rubik's Cube, Pocket Cube. Clicking on a cube in the picture will redirect to the respective cube's page. (Note:scrambled states) default none poly 964 370 1082 448 1065 545 970 622 865 545 875 445 Pocket Cube poly 620 370 844 363 862 536 850 680 628 682 Rubik's Cube poly 455 280 570 440 580 605 355 705 255 530 220 363 Rubik's Revenge poly 540 75 780 90 780 225 760 360 620 365 605 420 560 420 505 340 500 235 Professor's Cube poly 890 50 1125 90 1065 420 1040 420 965 365 930 390 850 380 845 365 830 360 840 205 V-Cube 6 poly 255 50 320 90 405 225 420 290 210 360 230 460 210 465 150 410 90 320 60 240 45 155 120 100 190 70 V-Cube 7
 
 There are different variations of Rubik's Cubes with up to thirty-three layers: the 2×2×2 (Pocket/Mini Cube), the standard 3×3×3 cube, the 4×4×4 (Rubik's Revenge/Master Cube), and the 5×5×5 (Professor's Cube) being the most well known. As of 1981, the official Rubik's Brand has licensed twisty puzzle cubes only up to the 5×5×5. The 17×17×17 "Over The Top" cube (available late 2011) was until December 2017 the largest (and most expensive, costing more than two thousand dollars) commercially sold cube. A mass-produced 17×17×17 was later introduced by the Chinese manufacturer YuXin. A working design for a 22×22×22 cube exists and was demonstrated in January 2016,[114] and a 33×33×33 in December 2017.[115] Chinese manufacturer ShengShou has been producing cubes in all sizes from 2×2×2 to 10×10×10 (as of late 2013),[116] and have also come out with an 11x11x11, and 13x13x13.
 
@@ -261,13 +255,9 @@ The Cube has inspired an entire category of similar puzzles, commonly referred t
 
 In 2011, Guinness World Records awarded the "largest order Rubiks magic cube" to a 17×17×17 cube, made by Oskar van Deventer.[120][121] On 2 December 2017, Grégoire Pfennig announced that he had broken this record, with a 33×33×33 cube, and that his claim had been submitted to Guinness for verification.[122] On 8 April 2018, Grégoire Pfennig announced another world record, the 2x2x50 cube.[123] Whether this is a replacement for the 33x33x33 record, or an additional record, remains to be seen.
 
-Rubiks_Platonic_Solids.jpg
-
 Some puzzles have also been created in the shape of the Kepler-Poinsot polyhedra, such as Alexander's Star (a great dodecahedron). Grégoire Pfennig has also created at least one puzzle in the shape of a small stellated dodecahedron.
 
 Custom-built puzzles
-
-Novelty_Keychain_Rubiks_Cube.JPG
 
 Puzzles have been built resembling the Rubik's Cube or based on its inner workings. For example, a cuboid is a puzzle based on the Rubik's Cube, but with different functional dimensions, such as 2×2×4, 2×3×4, and 3×3×5.[124] Many cuboids are based on 4×4×4 or 5×5×5 mechanisms, via building plastic extensions or by directly modifying the mechanism itself.
 

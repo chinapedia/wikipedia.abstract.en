@@ -21,7 +21,7 @@ After receiving his bachelor's degree in Philosophy from Cairo University in 193
 
 Writing career
 
-Naguib_Mahfouz_in_1960s.jpg Mahfouz published 34 novels, over 350 short stories, dozens of movie scripts and five plays over a 70-year career. Possibly his most famous work, _The Cairo Trilogy_, depicts the lives of three generations of different families in Cairo from World War I until after the 1952 military coup that overthrew King Farouk. He was a board member of the publisher _Dar el-Ma'aref_. Many of his novels were serialized in _Al-Ahram_, and his writings also appeared in his weekly column, "Point of View". Before the Nobel Prize only a few of his novels had appeared in the West.[7]
+Mahfouz published 34 novels, over 350 short stories, dozens of movie scripts and five plays over a 70-year career. Possibly his most famous work, _The Cairo Trilogy_, depicts the lives of three generations of different families in Cairo from World War I until after the 1952 military coup that overthrew King Farouk. He was a board member of the publisher _Dar el-Ma'aref_. Many of his novels were serialized in _Al-Ahram_, and his writings also appeared in his weekly column, "Point of View". Before the Nobel Prize only a few of his novels had appeared in the West.[7]
 
 Writing style and themes
 
@@ -41,7 +41,7 @@ In the 1960s and 1970s Mahfouz began to construct his novels more freely and to 
 
 Political influence
 
-Necip_Mahfuz.jpg Most of Mahfouz's writings deal mainly with politics, a fact he acknowledged: "In all my writings, you will find politics. You may find a story which ignores love or any other subject, but not politics; it is the very axis of our thinking".[14]
+Most of Mahfouz's writings deal mainly with politics, a fact he acknowledged: "In all my writings, you will find politics. You may find a story which ignores love or any other subject, but not politics; it is the very axis of our thinking".[14]
 
 He espoused Egyptian nationalism in many of his works, and expressed sympathies for the post-World-War-era Wafd Party.[15] He was also attracted to socialist and democratic ideals early in his youth. The influence of socialist ideals is strongly reflected in his first two novels, Al-Khalili and New Cairo, and also in many of his later works. Parallel to his sympathy for socialism and democracy was his antipathy towards Islamic extremism.[16]
 

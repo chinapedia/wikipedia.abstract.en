@@ -1,4 +1,4 @@
-Lundy_by_Henry_Mangles_Denham_1804.jpg (1832)]] LUNDY is an English island, located in the Bristol Channel. It forms part of the district of Torridge in the county of Devon.
+(1832)]] LUNDY is an English island, located in the Bristol Channel. It forms part of the district of Torridge in the county of Devon.
 
 About 3 miles long and 0.6 of a mile wide, Lundy has had a long and turbulent history, frequently changing hands between the British crown and various usurpers. In the 1920’s, one self-proclaimed king, Martin Harman, tried to issue his own coinage and was duly fined by the House of Lords. In 1941, two German Heinkel He 111 bombers crash landed on the island, their crews captured. In 1969, Lundy was purchased by British millionaire Jack Hayward who donated it to the National Trust. It is managed by the Landmark Trust, a conservation charity that derives its income from day trips and holiday lettings. As of 2007, the island had a population of 28.
 
@@ -16,13 +16,13 @@ In a 2005 opinion poll of _Radio Times_ readers, Lundy was named as Britain's te
 
 History
 
-The_Jetty,_Lundy.jpg The name Lundy is believed to come from the old Norse word for "puffin island" (compare Lundey), __ being the Old Norse word for a puffin and __, an island,[6] although an alternative explanation has been suggested with Lund referring to a copse, or wooded area.[7] It is known in Welsh as _Ynys Wair_, "Gwair's Island", in reference to an alternative name for the wizard Gwydion.[8][9]
+The name Lundy is believed to come from the old Norse word for "puffin island" (compare Lundey), __ being the Old Norse word for a puffin and __, an island,[6] although an alternative explanation has been suggested with Lund referring to a copse, or wooded area.[7] It is known in Welsh as _Ynys Wair_, "Gwair's Island", in reference to an alternative name for the wizard Gwydion.[8][9]
 
 Lundy has evidence of visitation or occupation from the Neolithic period onward, with Mesolithic flintwork, Bronze Age burial mounds, four inscribed gravestones from the early medieval period,[10][11] and an early medieval monastery (possibly dedicated to St Elen or St Helen).
 
 Beacon Hill Cemetery
 
-Beacon_hill_sketch.svg Beacon Hill Cemetery was excavated by Charles Thomas in 1969.[12] The cemetery contains four inscribed stones, dated to the 5th or 6th century AD. The site was originally enclosed by a curvilinear bank and ditch, which is still visible in the south west corner. However, the other walls were moved when the Old Light was constructed in 1819. Celtic Christian enclosures of this type were common in Western Britain and are known as __ in Welsh and __ in Cornish. There are surviving examples in Luxulyan, in Cornwall; Mathry, Meidrim and Clydau in Wales; and Stowford, Jacobstowe, Lydford and Instow, in Devon.
+Beacon Hill Cemetery was excavated by Charles Thomas in 1969.[12] The cemetery contains four inscribed stones, dated to the 5th or 6th century AD. The site was originally enclosed by a curvilinear bank and ditch, which is still visible in the south west corner. However, the other walls were moved when the Old Light was constructed in 1819. Celtic Christian enclosures of this type were common in Western Britain and are known as __ in Welsh and __ in Cornish. There are surviving examples in Luxulyan, in Cornwall; Mathry, Meidrim and Clydau in Wales; and Stowford, Jacobstowe, Lydford and Instow, in Devon.
 
 Thomas proposed a five-stage sequence of site usage:
 
@@ -35,7 +35,7 @@ Thomas proposed a five-stage sequence of site usage:
 
 Inscribed stones
 
-Lundy_inscribed_stones.jpg Four Celtic inscribed stones have been found in Beacon Hill Cemetery:
+Four Celtic inscribed stones have been found in Beacon Hill Cemetery:
 
 -   1400 OPTIMI,[13] or TIMI;[14] the name Optimus is Latin and male. Discovered in 1962 by D. B. Hague.[15]
 -   1401 RESTEVTAE,[16] or RESGEVT[A],[17] Latin, female i.e. Resteuta or Resgeuta. Discovered in 1962 by D. B. Hague.[18]
@@ -48,7 +48,7 @@ Lundy was granted to the Knights Templar by Henry II in 1160. The Templars were 
 
 Marisco family
 
-Mariscocastle.jpg In 1235 William de Marisco was implicated in the murder of Henry Clement, a messenger of Henry III.[27] Three years later, an attempt was made to kill Henry III by a man who later confessed to being an agent of the Marisco family. William de Marisco fled to Lundy where he lived as a virtual king. He built a stronghold in the area now known as Bulls' Paradise with thick walls.[28]
+In 1235 William de Marisco was implicated in the murder of Henry Clement, a messenger of Henry III.[27] Three years later, an attempt was made to kill Henry III by a man who later confessed to being an agent of the Marisco family. William de Marisco fled to Lundy where he lived as a virtual king. He built a stronghold in the area now known as Bulls' Paradise with thick walls.[28]
 
 In 1242, Henry III sent troops to the island. They scaled the island's cliff and captured William de Marisco and 16 of his "subjects". Henry III built the castle (sometimes referred to as the Marisco Castle) in an attempt to establish the rule of law on the island and its surrounding waters.[29] In 1275 the island is recorded as being in the Lordship of King Edward I[30] but by 1322 it was in the possession of Thomas, 2nd Earl of Lancaster and was among the large number of lands seized by Edward II following Lancaster's execution for rebelling against the King.[31]At some point in the 13th century the monks of the Cistercian order at Cleeve Abbey held the rectory of the island.[32]
 
@@ -60,7 +60,7 @@ In 1627 a group known as the Salé Rovers, from the Republic of Salé occupied L
 
 Civil war
 
-In the English Civil War, Thomas Bushell held Lundy for King Charles I, rebuilding Marisco Castle and garrisoning the island at his own expense. He was a friend of Francis Bacon, a strong supporter of the Royalist cause and an expert on mining and coining. It was the last Royalist territory held between the first and second civil wars. After receiving permission from Charles I, Bushell surrendered the island on 24 February 1647 to Richard Fiennes, representing General Fairfax.[43] In 1656, the island was acquired by Lord Saye and Sele.[44] Millcombehouse.jpg Interior_of_St_Helena's_church,_Lundy.jpg
+In the English Civil War, Thomas Bushell held Lundy for King Charles I, rebuilding Marisco Castle and garrisoning the island at his own expense. He was a friend of Francis Bacon, a strong supporter of the Royalist cause and an expert on mining and coining. It was the last Royalist territory held between the first and second civil wars. After receiving permission from Charles I, Bushell surrendered the island on 24 February 1647 to Richard Fiennes, representing General Fairfax.[43] In 1656, the island was acquired by Lord Saye and Sele.[44]
 
 18th and 19th centuries
 
@@ -76,7 +76,7 @@ In 1957 a message in a bottle from one of the seamen of was washed ashore betwee
 
 William Heaven was succeeded by his son the Reverend Hudson Grosset Heaven who, thanks to a legacy from Sarah Langworthy (née Heaven), was able to fulfill his life's ambition of building a stone church on the island. St Helen's was completed in 1896, and stands today as a lasting memorial to the Heaven period. It has been designated by English Heritage a Grade II listed building.[51] He is said to have been able to afford either a church or a new harbour. His choice of the church was not however in the best financial interests of the island. The unavailability of the money for re-establishing the family's financial soundness, coupled with disastrous investment and speculation in the early 20th century, caused severe financial hardship.[52]
 
-1puffin1929.JPG Hudson Heaven died in 1916, and was succeeded by his nephew, Walter Charles Hudson Heaven.[53] With the outbreak of the First World War, matters deteriorated seriously, and in 1918 the family sold Lundy to Augustus Langham Christie. In 1924, the Christie family sold the island along with the mail contract and the MV _Lerina_ to Martin Coles Harman, who proclaimed himself a king. Harman issued two coins of Half Puffin and One Puffin denominations in 1929, nominally equivalent to the British halfpenny and penny, resulting in his prosecution under the United Kingdom's Coinage Act of 1870. The House of Lords found him guilty in 1931, and he was fined £5 with fifteen guineas (£5 + £15.75) expenses. The coins were withdrawn and became collectors' items. In 1965 a "fantasy" restrike four-coin set, a few in gold, was issued to commemorate 40 years since Harman purchased the island.[54] Harman's son, John Pennington Harman was awarded a posthumous Victoria Cross during the Battle of Kohima, India in 1944. There is a memorial to him at the VC Quarry on Lundy. Martin Coles Harman died in 1954.
+Hudson Heaven died in 1916, and was succeeded by his nephew, Walter Charles Hudson Heaven.[53] With the outbreak of the First World War, matters deteriorated seriously, and in 1918 the family sold Lundy to Augustus Langham Christie. In 1924, the Christie family sold the island along with the mail contract and the MV _Lerina_ to Martin Coles Harman, who proclaimed himself a king. Harman issued two coins of Half Puffin and One Puffin denominations in 1929, nominally equivalent to the British halfpenny and penny, resulting in his prosecution under the United Kingdom's Coinage Act of 1870. The House of Lords found him guilty in 1931, and he was fined £5 with fifteen guineas (£5 + £15.75) expenses. The coins were withdrawn and became collectors' items. In 1965 a "fantasy" restrike four-coin set, a few in gold, was issued to commemorate 40 years since Harman purchased the island.[54] Harman's son, John Pennington Harman was awarded a posthumous Victoria Cross during the Battle of Kohima, India in 1944. There is a memorial to him at the VC Quarry on Lundy. Martin Coles Harman died in 1954.
 
 Residents did not pay taxes to the United Kingdom and had to pass through customs when they travelled to and from Lundy Island.[55] Although the island was ruled as a virtual fiefdom, its owner never claimed to be independent of the United Kingdom, in contrast to later territorial "micronations".
 
@@ -88,20 +88,20 @@ An inaugural Lundy Island half-marathon took place on 8th July 2018 with 267 com
 
 Wreck of Battleship _Montagu_
 
-HMS_Montagu_(1901)_Aground_Lundy_Island_1906.jpg aground on Lundy in 1906]] A naval footnote in the history of Lundy was the wreck of the Royal Navy battleship HMS _Montagu_. Steaming in heavy fog, she ran hard aground near Shutter Rock on the island's southwest corner at about 2:00 a.m. on 30 May 1906.[62] Thinking they were aground at Hartland Point on the English mainland, a landing party went ashore for help, only finding out where they were after encountering the lighthouse keeper at the island's north light.
+aground on Lundy in 1906]] A naval footnote in the history of Lundy was the wreck of the Royal Navy battleship HMS _Montagu_. Steaming in heavy fog, she ran hard aground near Shutter Rock on the island's southwest corner at about 2:00 a.m. on 30 May 1906.[62] Thinking they were aground at Hartland Point on the English mainland, a landing party went ashore for help, only finding out where they were after encountering the lighthouse keeper at the island's north light.
 
-HMS_Montagu_(1901)_Heavy_Fittings_Removed_1906.jpgStrenuous efforts by the Royal Navy to salvage the badly damaged battleship during the summer of 1906 failed, and in 1907 it was decided to give up and sell her for scrap. _Montagu_ was scrapped at the scene over the next fifteen years. Diving clubs still visit the site, where armour plate and live 12-inch (305-millimetre) shells remain on the seabed.
+Strenuous efforts by the Royal Navy to salvage the badly damaged battleship during the summer of 1906 failed, and in 1907 it was decided to give up and sell her for scrap. _Montagu_ was scrapped at the scene over the next fifteen years. Diving clubs still visit the site, where armour plate and live 12-inch (305-millimetre) shells remain on the seabed.
 
 Remains of a German Heinkel 111H bomber
 
-Remains_of_a_German_Heinkel_111H_bomber.JPG During the Second World War two German Heinkel He 111 bombers crash landed on the island in 1941. The first was on 3 March, when all the crew survived and were taken prisoner.
+During the Second World War two German Heinkel He 111 bombers crash landed on the island in 1941. The first was on 3 March, when all the crew survived and were taken prisoner.
 
 The second was on 1 April when the pilot was killed and the other crew members were taken prisoner.[63] This plane had bombed a British ship and one engine was damaged by anti aircraft fire, forcing it to crash land. Most of the metal was salvaged, although a few remains can be found at the crash site to date. Reportedly to avoid reprisals the crew concocted a story that they were on a reconnaissance mission.[64]
 
 
 Geography
 
-Jointed_Granite_on_Lundy_in_England.jpgs]] The island of Lundy is long from north to south by a little over wide, with an area of .[65][66] The highest point on Lundy is Beacon Hill, above sea level.[67] A few yards off the northeastern coast is Seal's Rock which is so called after the seals which rest on and inhabit the islet.[68][69] It is less than wide.[70] Near the jetty is a small pocket beach.
+s]] The island of Lundy is long from north to south by a little over wide, with an area of .[65][66] The highest point on Lundy is Beacon Hill, above sea level.[67] A few yards off the northeastern coast is Seal's Rock which is so called after the seals which rest on and inhabit the islet.[68][69] It is less than wide.[70] Near the jetty is a small pocket beach.
 
 Geology
 
@@ -116,7 +116,7 @@ Ecology
 
 Flora
 
-Lundy_Cabbage.JPG)]] The vegetation on the plateau is mainly dry heath, with an area of waved Calluna heath towards the northern end of the island, which is also rich in lichens, such as _Teloschistes flavicans_ and several species of Cladonia and Parmelia.
+)]] The vegetation on the plateau is mainly dry heath, with an area of waved Calluna heath towards the northern end of the island, which is also rich in lichens, such as _Teloschistes flavicans_ and several species of Cladonia and Parmelia.
 
 Other areas are either a dry heath/acidic grassland mosaic, characterised by heaths and western gorse (_Ulex gallii_), or semi-improved acidic grassland in which Yorkshire fog (_Holcus lanatus_) is abundant. Tussocky (Thrift) (Holcus/Armeria) communities occur mainly on the western side, and some patches of bracken (_Pteridium aquilinum_) on the eastern side.[80]
 
@@ -134,7 +134,7 @@ Birds
 
 The population of puffins (_Fratercula arctica_) on the island declined in the late 20th and early 21st centuries as a consequence of depredations by brown and black rats (_Rattus rattus_) and possibly also as a result of commercial fishing for sand eels, the puffins' principal prey. Since the elimination of rats in 2006, seabird numbers have increased and by 2019 the number of puffins had risen to 375 and the number of Manx shearwaters to 5,504 pairs.[87]
 
-Atlantic_Puffin_Lundy.jpg on Lundy, June 2008]] As an isolated island on major migration routes, Lundy has a rich bird life and is a popular site for birdwatching. Large numbers of black-legged kittiwake (_Rissa tridactyla_) nest on the cliffs, as do razorbill (_Alca torda_), guillemot (_Uria aalge_), herring gull (_Larus argentatus_), lesser black-backed gull (_Larus fuscus_), fulmar (_Fulmarus glacialis_), shag (_Phalacrocorax aristotelis_), oystercatcher (_Haematopus ostralegus_), skylark (_Alauda arvensis_), meadow pipit (_Anthus pratensis_), common blackbird (_Turdus merula_), robin (_Erithacus rubecula_) and linnet (_Carduelis cannabina_). There are also smaller populations of peregrine falcon (_Falco peregrinus_) and raven (_Corvus corax_).
+on Lundy, June 2008]] As an isolated island on major migration routes, Lundy has a rich bird life and is a popular site for birdwatching. Large numbers of black-legged kittiwake (_Rissa tridactyla_) nest on the cliffs, as do razorbill (_Alca torda_), guillemot (_Uria aalge_), herring gull (_Larus argentatus_), lesser black-backed gull (_Larus fuscus_), fulmar (_Fulmarus glacialis_), shag (_Phalacrocorax aristotelis_), oystercatcher (_Haematopus ostralegus_), skylark (_Alauda arvensis_), meadow pipit (_Anthus pratensis_), common blackbird (_Turdus merula_), robin (_Erithacus rubecula_) and linnet (_Carduelis cannabina_). There are also smaller populations of peregrine falcon (_Falco peregrinus_) and raven (_Corvus corax_).
 
 Lundy has attracted many vagrant birds, in particular species from North America. The island's bird list totals 317 species.[88] This has included the following species, each of which represents the sole British record: Ancient murrelet, eastern phoebe and eastern towhee. Records of bimaculated lark, American robin and common yellowthroat were also firsts for Britain (American robin has also occurred two further times on Lundy).[89] Veerys in 1987 and 1997 were Britain's second and fourth records, a Rüppell's warbler in 1979 was Britain's second, an eastern Bonelli's warbler in 2004 was Britain's fourth, and a black-faced bunting in 2001 Britain's third.[90]
 
@@ -142,7 +142,7 @@ Other British Birds rarities that have been sighted (single records unless other
 
 Mammals
 
-Sikadeerlundy.jpg]] Lundy is home to an unusual range of introduced mammals, including a distinct breed of wild pony, the Lundy pony, as well as Soay sheep (_Ovis aries_), Sika deer (_Cervus nippon_), and feral goats (_Capra aegagrus hircus_). Unusually, 20% of the rabbits (_Leporidae_) on the island are melanistic compared with 4% which is typical in the UK.
+]] Lundy is home to an unusual range of introduced mammals, including a distinct breed of wild pony, the Lundy pony, as well as Soay sheep (_Ovis aries_), Sika deer (_Cervus nippon_), and feral goats (_Capra aegagrus hircus_). Unusually, 20% of the rabbits (_Leporidae_) on the island are melanistic compared with 4% which is typical in the UK.
 
 Other mammals which have made the island their home include the grey seal (_Halichoerus grypus_) and the pygmy shrew (_Sorex minutus_). Until their elimination in 2006 in order to protect the nesting seabirds, Lundy was one of the few places in the UK where the black rat (_Rattus rattus_) could be found regularly.[92]
 
@@ -159,7 +159,7 @@ On 12 January 2010 the island became Britain's first Marine Conservation Zone de
 
 Transport
 
-Lundy.ferry.arp.750pix.jpg _Oldenburg_ sails into Ilfracombe Harbour, North Devon, past inflatable ThunderCat powerboats waiting to begin an offshore race.]]
+_Oldenburg_ sails into Ilfracombe Harbour, North Devon, past inflatable ThunderCat powerboats waiting to begin an offshore race.]]
 
 To the island
 
@@ -182,7 +182,7 @@ Lighthouses
 
 The Old Light
 
-Old_Light,_Lundy,_June_2011.jpg Foundations for a lighthouse on Lundy were laid in 1787, but the first lighthouse (now known as the OLD LIGHT) was not built until Trinity House obtained a 999-year lease in 1819. The granite tower, on the summit of Chapel Hill, was designed by Daniel Asher Alexander, and built by Joseph Nelson at a cost of £36,000.[105] Because the site, Beacon Hill, is above sea level,[106] the highest base for a lighthouse in Britain, the light was often obscured by fog. To counter this problem, a Fog Signal Battery,[107] equipped with a pair of 18-pound guns, was built about 1861; guncotton rockets replaced these fog signal guns in 1878. The lighthouse had two lights: the lower a fixed white light and the upper a quick flashing white light, showing every 60 seconds (both lights were provided by Argand lamps fitted with parabolic reflectors). The flashing characteristic was an innovation at the time, however, the speed of revolution gave the impression it was a fixed light with no flashes detectable.[108] This, combined with poor visibility, may have contributed to the grounding, at Cefn Sidan, of the _La Jeune Emma_, bound from Martinique to Cherbourg in 1828. 13 of the 19 on board drowned, including Adeline Coquelin, the 12-year-old niece of Napoleon Bonaparte's divorced wife Joséphine de Beauharnais.[109] The following year the lower light was moved from a window part-way down the tower into a new lantern room at the base of the tower, with the hope that this would be less affected by fog.[110]
+Foundations for a lighthouse on Lundy were laid in 1787, but the first lighthouse (now known as the OLD LIGHT) was not built until Trinity House obtained a 999-year lease in 1819. The granite tower, on the summit of Chapel Hill, was designed by Daniel Asher Alexander, and built by Joseph Nelson at a cost of £36,000.[105] Because the site, Beacon Hill, is above sea level,[106] the highest base for a lighthouse in Britain, the light was often obscured by fog. To counter this problem, a Fog Signal Battery,[107] equipped with a pair of 18-pound guns, was built about 1861; guncotton rockets replaced these fog signal guns in 1878. The lighthouse had two lights: the lower a fixed white light and the upper a quick flashing white light, showing every 60 seconds (both lights were provided by Argand lamps fitted with parabolic reflectors). The flashing characteristic was an innovation at the time, however, the speed of revolution gave the impression it was a fixed light with no flashes detectable.[108] This, combined with poor visibility, may have contributed to the grounding, at Cefn Sidan, of the _La Jeune Emma_, bound from Martinique to Cherbourg in 1828. 13 of the 19 on board drowned, including Adeline Coquelin, the 12-year-old niece of Napoleon Bonaparte's divorced wife Joséphine de Beauharnais.[109] The following year the lower light was moved from a window part-way down the tower into a new lantern room at the base of the tower, with the hope that this would be less affected by fog.[110]
 
 Ongoing attempts were made to improve the quality of the main light. In 1842 a new rotating optic was installed: manufactured by Cookson & Co. of Newcastle, it combined dioptric lenses with mirrors. This arrangement was replaced in 1857 by a large (first-order) 8-sided revolving catadioptric optic manufactured by Chance Brothers giving the light a range (in fine weather) of over .[111] (The following year, the dioptric section of the old 1842 optic was refurbished and installed in South Bishop Lighthouse.[112]) Further attempts at improvement were made in 1889.[113]
 
@@ -202,7 +202,7 @@ In 1971 the old optic and lamp were decommissioned and the lighthouse was conver
 
 South lighthouse
 
-DSC_2467_(25329298766).jpg The South lighthouse is set in a somewhat more spacious site; the tower is tall. When built, equipment from the old Lundy Lighthouse was reused in this tower, where it remained in use until 1962.[128] It displayed a single flash every 30 seconds.
+The South lighthouse is set in a somewhat more spacious site; the tower is tall. When built, equipment from the old Lundy Lighthouse was reused in this tower, where it remained in use until 1962.[128] It displayed a single flash every 30 seconds.
 
 In contrast to the North, the South lighthouse sounded an explosive fog signal; initially discharged manually from the lantern gallery, in 1908 a small building was constructed (where there is now a helicopter pad) containing an automated apparatus provided by the Clockwork Explosive Fog Signal Company of Victoria.[129] It remained in use until 1964 when it was replaced by a set of 'supertyfon' air horns, eight in number, placed in a housing on top of the lantern. Thirty years later, just prior to the automation of the South light, the supertyfon was itself replaced by an electric emitter, installed alongside it.[130]
 

@@ -1,4 +1,4 @@
-Polystyrene_formation.PNG monomer's double bond reforms as a single bond plus a bond to another styrene monomer. The product is polystyrene.]]
+monomer's double bond reforms as a single bond plus a bond to another styrene monomer. The product is polystyrene.]]
 
 In polymer chemistry, POLYMERIZATION is a process of reacting monomer molecules together in a chemical reaction to form polymer chains or three-dimensional networks.[1][2][3] There are many forms of polymerization and different systems exist to categorize them.
 
@@ -41,7 +41,7 @@ Chain-growth polymerization (or addition polymerization) involves the linking to
 
 In the radical polymerization of ethylene, its π bond is broken, and the two electrons rearrange to create a new propagating center like the one that attacked it. The form this propagating center takes depends on the specific type of addition mechanism. There are several mechanisms through which this can be initiated. The free radical mechanism is one of the first methods to be used. Free radicals are very reactive atoms or molecules that have unpaired electrons. Taking the polymerization of ethylene as an example, the free radical mechanism can be divided into three stages: chain initiation, chain propagation, and chain termination.
 
-Ethylene_polymerization.png]]
+]]
 
 Free radical addition polymerization of ethylene must take place at high temperatures and pressures, approximately 300 °C and 2000 atm. While most other free radical polymerizations do not require such extreme temperatures and pressures, they do tend to lack control. One effect of this lack of control is a high degree of branching. Also, as termination occurs randomly, when two chains collide, it is impossible to control the length of individual chains. A newer method of polymerization similar to free radical, but allowing more control involves the Ziegler–Natta catalyst, especially with respect to polymer branching.
 

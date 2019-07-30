@@ -1,4 +1,4 @@
-Mac&cheese.jpg, with dried herbs and ground pepper]]
+, with dried herbs and ground pepper]]
 
 MACARONI (, Italian: Maccheroni) is dry pasta shaped like narrow tubes.[1] Made with durum wheat, macaroni is commonly cut in short lengths; curved macaroni may be referred to as elbow macaroni. Some home machines can make macaroni shapes, but like most pasta, macaroni is usually made commercially by large-scale extrusion. The curved shape is created by different speeds of extrusion on opposite sides of the pasta tube as it comes out of the machine.
 

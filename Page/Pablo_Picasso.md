@@ -9,7 +9,7 @@ Exceptionally prolific throughout the course of his long life, Picasso achieved 
 
 Early life
 
-Pablo_Picasso_with_his_sister_Lola,_1889.jpg Picasso was baptized PABLO DIEGO JOSÉ FRANCISCO DE PAULA JUAN NEPOMUCENO MARÍA DE LOS REMEDIOS CIPRIANO DE LA SANTÍSIMA TRINIDAD RUIZ Y PICASSO,[10] a series of names honouring various saints and relatives.[11] _Ruiz y Picasso_ were included for his father and mother, respectively, as per Spanish tradition. Born in the city of Málaga in the Andalusian region of Spain, he was the first child of Don José Ruiz y Blasco (1838–1913) and María Picasso y López.[12] Though baptized a Catholic, Picasso would later become an atheist.[13]
+Picasso was baptized PABLO DIEGO JOSÉ FRANCISCO DE PAULA JUAN NEPOMUCENO MARÍA DE LOS REMEDIOS CIPRIANO DE LA SANTÍSIMA TRINIDAD RUIZ Y PICASSO,[10] a series of names honouring various saints and relatives.[11] _Ruiz y Picasso_ were included for his father and mother, respectively, as per Spanish tradition. Born in the city of Málaga in the Andalusian region of Spain, he was the first child of Don José Ruiz y Blasco (1838–1913) and María Picasso y López.[12] Though baptized a Catholic, Picasso would later become an atheist.[13]
 
 The surname "Picasso" comes from Liguria, a coastal region of north-western Italy; its capital is Genoa.[14] There was a painter from the area named (1794–1879), born in Recco (Genoa), of late neoclassical style portraiture,[15] though investigations have not definitively determined his kinship with the branch of ancestors related to Pablo Picasso. The direct branch from Sori, Liguria (Genoa), can be traced back to Tommaso Picasso (1728–1813). His son Giovanni Battista, married to Isabella Musante, was Pablo's great-great-grandfather. Of this marriage was born Tommaso (Sori, 1787–Málaga, 1851). Pablo's maternal great-grandfather, Tommaso Picasso moved to Spain around 1807.[16]
 
@@ -28,7 +28,7 @@ Career
 
 Before 1900
 
-Pablo_Picasso,_1904,_Paris,_photograph_by_Ricard_Canals_i_Llambí.jpg.]] Picasso's training under his father began before 1890. His progress can be traced in the collection of early works now held by the Museu Picasso in Barcelona, which provides one of the most comprehensive records extant of any major artist's beginnings.[24] During 1893 the juvenile quality of his earliest work falls away, and by 1894 his career as a painter can be said to have begun.[25] The academic realism apparent in the works of the mid-1890s is well displayed in _The First Communion_ (1896), a large composition that depicts his sister, Lola. In the same year, at the age of 14, he painted _Portrait of Aunt Pepa_, a vigorous and dramatic portrait that Juan-Eduardo Cirlot has called "without a doubt one of the greatest in the whole history of Spanish painting."[26]
+.]] Picasso's training under his father began before 1890. His progress can be traced in the collection of early works now held by the Museu Picasso in Barcelona, which provides one of the most comprehensive records extant of any major artist's beginnings.[24] During 1893 the juvenile quality of his earliest work falls away, and by 1894 his career as a painter can be said to have begun.[25] The academic realism apparent in the works of the mid-1890s is well displayed in _The First Communion_ (1896), a large composition that depicts his sister, Lola. In the same year, at the age of 14, he painted _Portrait of Aunt Pepa_, a vigorous and dramatic portrait that Juan-Eduardo Cirlot has called "without a doubt one of the greatest in the whole history of Spanish painting."[26]
 
 In 1897, his realism began to show a Symbolist influence, for example, in a series of landscape paintings rendered in non-naturalistic violet and green tones. What some call his Modernist period (1899–1900) followed. His exposure to the work of Rossetti, Steinlen, Toulouse-Lautrec and Edvard Munch, combined with his admiration for favourite old masters such as El Greco, led Picasso to a personal version of modernism in his works of this period.[27]
 
@@ -42,9 +42,9 @@ The same mood pervades the well-known etching _The Frugal Repast_ (1904),[32] wh
 
 Rose Period: 1904–1906
 
-Pablo_Picasso,_1905,_Au_Lapin_Agile_(At_the_Lapin_Agile),_oil_on_canvas,_99.1_x_100.3_cm,_Metropolitan_Museum_of_Art.jpg]] The Rose Period (1904–1906)[33] is characterized by a lighter tone and style utilizing orange and pink colours, and featuring many circus people, acrobats and harlequins known in France as saltimbanques. The harlequin, a comedic character usually depicted in checkered patterned clothing, became a personal symbol for Picasso. Picasso met Fernande Olivier, a bohemian artist who became his mistress, in Paris in 1904.[34] Olivier appears in many of his Rose Period paintings, many of which are influenced by his warm relationship with her, in addition to his increased exposure to French painting. The generally upbeat and optimistic mood of paintings in this period is reminiscent of the 1899–1901 period (i.e. just prior to the Blue Period) and 1904 can be considered a transition year between the two periods.
+]] The Rose Period (1904–1906)[33] is characterized by a lighter tone and style utilizing orange and pink colours, and featuring many circus people, acrobats and harlequins known in France as saltimbanques. The harlequin, a comedic character usually depicted in checkered patterned clothing, became a personal symbol for Picasso. Picasso met Fernande Olivier, a bohemian artist who became his mistress, in Paris in 1904.[34] Olivier appears in many of his Rose Period paintings, many of which are influenced by his warm relationship with her, in addition to his increased exposure to French painting. The generally upbeat and optimistic mood of paintings in this period is reminiscent of the 1899–1901 period (i.e. just prior to the Blue Period) and 1904 can be considered a transition year between the two periods.
 
-GertrudeStein.JPG'', 1906, Metropolitan Museum of Art, New York City. When someone commented that Stein did not look like her portrait, Picasso replied, "She will".[35]]]
+'', 1906, Metropolitan Museum of Art, New York City. When someone commented that Stein did not look like her portrait, Picasso replied, "She will".[35]]]
 
 By 1905, Picasso became a favourite of American art collectors Leo and Gertrude Stein. Their older brother Michael Stein and his wife Sarah also became collectors of his work. Picasso painted portraits of both Gertrude Stein and her nephew Allan Stein. Gertrude Stein became Picasso's principal patron, acquiring his drawings and paintings and exhibiting them in her informal _Salon_ at her home in Paris.[36] At one of her gatherings in 1905, he met Henri Matisse, who was to become a lifelong friend and rival. The Steins introduced him to Claribel Cone and her sister Etta who were American art collectors; they also began to acquire Picasso and Matisse's paintings. Eventually Leo Stein moved to Italy. Michael and Sarah Stein became patrons of Matisse, while Gertrude Stein continued to collect Picasso.[37]
 
@@ -52,7 +52,7 @@ In 1907, Picasso joined an art gallery that had recently been opened in Paris by
 
 African art and primitivism: 1907–1909
 
-Les_Demoiselles_d'Avignon.jpg'' (1907), Museum of Modern Art, New York]] Picasso's African-influenced Period (1907–1909) begins with his painting _Les Demoiselles d'Avignon_. Picasso painted this composition in a style inspired by Iberian sculpture, but repainted the faces of the two figures on the right after being powerfully impressed by African artefacts he saw in June 1907 in the ethnographic museum at Palais du Trocadéro.[39] When he displayed the painting to acquaintances in his studio later that year, the nearly universal reaction was shock and revulsion; Matisse angrily dismissed the work as a hoax.[40] Picasso did not exhibit _Le Demoiselles_ publicly until 1916.
+'' (1907), Museum of Modern Art, New York]] Picasso's African-influenced Period (1907–1909) begins with his painting _Les Demoiselles d'Avignon_. Picasso painted this composition in a style inspired by Iberian sculpture, but repainted the faces of the two figures on the right after being powerfully impressed by African artefacts he saw in June 1907 in the ethnographic museum at Palais du Trocadéro.[39] When he displayed the painting to acquaintances in his studio later that year, the nearly universal reaction was shock and revulsion; Matisse angrily dismissed the work as a hoax.[40] Picasso did not exhibit _Le Demoiselles_ publicly until 1916.
 
 Other works from this period include _Nude with Raised Arms_ (1907) and _Three Women_ (1908). Formal ideas developed during this period lead directly into the Cubist period that follows.
 
@@ -64,7 +64,7 @@ In Paris, Picasso entertained a distinguished coterie of friends in the Montmart
 
 Synthetic cubism: 1912–1919
 
-Pablo_Picasso,_summer_1912.jpg) at Villa les Clochettes, summer 1912]] Synthetic cubism (1912–1919) was a further development of the genre of cubism, in which cut paper fragments – often wallpaper or portions of newspaper pages – were pasted into compositions, marking the first use of collage in fine art.
+) at Villa les Clochettes, summer 1912]] Synthetic cubism (1912–1919) was a further development of the genre of cubism, in which cut paper fragments – often wallpaper or portions of newspaper pages – were pasted into compositions, marking the first use of collage in fine art.
 
 Between 1915 and 1917, Picasso began a series of paintings depicting highly geometric and minimalist Cubist objects, consisting of either a pipe, a guitar or a glass, with an occasional element of collage. "Hard-edged square-cut diamonds", notes art historian John Richardson, "these gems do not always have upside or downside".[43][44] "We need a new name to designate them," wrote Picasso to Gertrude Stein: Maurice Raynal suggested "Crystal Cubism".[45][46] These "little gems" may have been produced by Picasso in response to critics who had claimed his defection from the movement, through his experimentation with classicism within the so-called return to order following the war.[47][48]
 
@@ -72,11 +72,11 @@ After acquiring some fame and fortune, Picasso left Olivier for Marcelle Humbert
 
 At the outbreak of World War I in August 1914, Picasso was living in Avignon. Braque and Derain were mobilized and Apollinaire joined the French artillery, while the Spaniard Juan Gris remained from the Cubist circle. During the war, Picasso was able to continue painting uninterrupted, unlike his French comrades. His paintings became more sombre and his life changed with dramatic consequences. Kahnweiler's contract had terminated on his exile from France. At this point Picasso's work would be taken on by the art dealer Léonce Rosenberg. After the loss of Eva Gouel, Picasso had an affair with Gaby Lespinasse. During the spring of 1916, Apollinaire returned from the front wounded. They renewed their friendship, but Picasso began to frequent new social circles.[50]
 
-Costume_design_by_Pablo_Picasso_representing_skyscrapers_and_boulevards,_for_Serge_Diaghilev's_Ballets_Russes_performance_of_Parade_at_Théâtre_du_Châtelet,_Paris_18_May_1917.jpg's Ballets Russes performance of _Parade_ at Théâtre du Châtelet, Paris 18 May 1917]]
+'s Ballets Russes performance of _Parade_ at Théâtre du Châtelet, Paris 18 May 1917]]
 
 Towards the end of World War I, Picasso became involved with Serge Diaghilev's Ballets Russes. Among his friends during this period were Jean Cocteau, Jean Hugo, Juan Gris, and others. In the summer of 1918, Picasso married Olga Khokhlova, a ballerina with Sergei Diaghilev's troupe, for whom Picasso was designing a ballet, Erik Satie's _Parade_, in Rome; they spent their honeymoon near Biarritz in the villa of glamorous Chilean art patron Eugenia Errázuriz.
 
-Pablo_Picasso_and_scene_painters_sitting_on_the_front_cloth_for_Parade_(Ballets_Russes)_at_the_Théâtre_du_Châtelet,_Paris,_1917,_Lachmann_photographer.jpg's ballet _Parade_, staged by Sergei Diaghilev's Ballets Russes at the Théâtre du Châtelet, Paris, 1917]]
+'s ballet _Parade_, staged by Sergei Diaghilev's Ballets Russes at the Théâtre du Châtelet, Paris, 1917]]
 
 After returning from his honeymoon and in need of money, Picasso started his exclusive relationship with the French-Jewish art dealer Paul Rosenberg. As part of his first duties, Rosenberg agreed to rent the couple an apartment in Paris at his own expense, which was located next to his own house. This was the start of a deep brother-like friendship between two very different men, that would last until the outbreak of World War II.
 
@@ -90,7 +90,7 @@ File:Pablo Picasso, 1909, Femme assise (Sitzende Frau), oil on canvas, 100 x 80 
 
 Neoclassicism and surrealism: 1919–1929
 
-Pablo_Picasso,_1921,_Nu_assis_s'essuyant_le_pied_(Seated_Nude_Drying_her_Foot),_pastel,_66_x_50.8_cm,_Berggruen_Museum.jpg]] In February 1917, Picasso made his first trip to Italy.[53] In the period following the upheaval of World War I, Picasso produced work in a neoclassical style. This "return to order" is evident in the work of many European artists in the 1920s, including André Derain, Giorgio de Chirico, Gino Severini, Jean Metzinger, the artists of the New Objectivity movement and of the Novecento Italiano movement. Picasso's paintings and drawings from this period frequently recall the work of Raphael and Ingres.
+]] In February 1917, Picasso made his first trip to Italy.[53] In the period following the upheaval of World War I, Picasso produced work in a neoclassical style. This "return to order" is evident in the work of many European artists in the 1920s, including André Derain, Giorgio de Chirico, Gino Severini, Jean Metzinger, the artists of the New Objectivity movement and of the Novecento Italiano movement. Picasso's paintings and drawings from this period frequently recall the work of Raphael and Ingres.
 
 In 1925 the Surrealist writer and poet André Breton declared Picasso as 'one of ours' in his article _Le Surréalisme et la peinture_, published in _Révolution surréaliste_. _Les Demoiselles_ was reproduced for the first time in Europe in the same issue. Yet Picasso exhibited Cubist works at the first Surrealist group exhibition in 1925; the concept of 'psychic automatism in its pure state' defined in the _Manifeste du surréalisme_ never appealed to him entirely. He did at the time develop new imagery and formal syntax for expressing himself emotionally, "releasing the violence, the psychic fears and the eroticism that had been largely contained or sublimated since 1909", writes art historian Melissa McQuillan.[54] Although this transition in Picasso's work was informed by Cubism for its spatial relations, "the fusion of ritual and abandon in the imagery recalls the primitivism of the Demoiselles and the elusive psychological resonances of his Symbolist work", writes McQuillan.[55] Surrealism revived Picasso's attraction to primitivism and eroticism.[56]
 
@@ -100,7 +100,7 @@ The Great Depression to MoMA exhibition: 1930–1939
 
 During the 1930s, the minotaur replaced the harlequin as a common motif in his work. His use of the minotaur came partly from his contact with the surrealists, who often used it as their symbol, and it appears in Picasso's _Guernica_. The minotaur and Picasso's mistress Marie-Thérèse Walter are heavily featured in his celebrated _Vollard Suite_ of etchings.[57]
 
-PicassoGuernica.jpg'', 1937, Museo Reina Sofia]]
+'', 1937, Museo Reina Sofia]]
 
 Arguably Picasso's most famous work is his depiction of the German bombing of Guernica during the Spanish Civil War – _Guernica_. This large canvas embodies for many the inhumanity, brutality and hopelessness of war. Asked to explain its symbolism, Picasso said, "It isn't up to the painter to define the symbols. Otherwise it would be better if he wrote them out in so many words! The public who look at the picture must interpret the symbols as they understand them."[58][59] _Guernica_ was exhibited in July 1937 at the Spanish Pavilion at the Paris International Exposition, and then became the centerpiece of an exhibition of 118 works by Picasso, Matisse, Braque and Henri Laurens that toured Scandinavia and England. After the victory of Francisco Franco in Spain, the painting was sent to the United States to raise funds and support for Spanish refugees. Until 1981 it was entrusted to the Museum of Modern Art (MoMA) in New York City, as it was Picasso's expressed desire that the painting should not be delivered to Spain until liberty and democracy had been established in the country.
 
@@ -108,7 +108,7 @@ In 1939 and 1940, the Museum of Modern Art in New York City, under its director 
 
 World War II and late 1940s: 1939–1949
 
-Pablo_Picasso_in_NMW.jpg guides Pablo Picasso through the National Museum in Warsaw in Poland during exhibition _Contemporary French Painters and Pablo Picasso's Ceramics_, 1948. Picasso gave Warsaw's museum over a dozen of his ceramics, drawings and colour prints.[63]]]
+guides Pablo Picasso through the National Museum in Warsaw in Poland during exhibition _Contemporary French Painters and Pablo Picasso's Ceramics_, 1948. Picasso gave Warsaw's museum over a dozen of his ceramics, drawings and colour prints.[63]]]
 
 During the Second World War, Picasso remained in Paris while the Germans occupied the city. Picasso's artistic style did not fit the Nazi ideal of art, so he did not exhibit during this time. He was often harassed by the Gestapo. During one search of his apartment, an officer saw a photograph of the painting _Guernica_. "Did you do that?" the German asked Picasso. "No," he replied, "You did".[64]
 
@@ -118,7 +118,7 @@ Around this time, Picasso wrote poetry as an alternative outlet. Between 1935 an
 
 In 1944, after the liberation of Paris, Picasso, then 63 years old, began a romantic relationship with a young art student named Françoise Gilot. She was 40 years younger than he was. Picasso grew tired of his mistress Dora Maar; Picasso and Gilot began to live together. Eventually they had two children: Claude Picasso, born in 1947 and Paloma Picasso, born in 1949. In her 1964 book _Life with Picasso_,[69] Gilot describes his abusive treatment and myriad infidelities which led her to leave him, taking the children with her. This was a severe blow to Picasso.
 
-Paolo_Monti_-_Servizio_fotografico_(Milano,_1953)_-_BEIC_6356204.jpg during an exhibition at Palazzo Reale in Milan (Fondo Paolo Monti, BEIC).]]
+during an exhibition at Palazzo Reale in Milan (Fondo Paolo Monti, BEIC).]]
 
 Picasso had affairs with women of an even greater age disparity than his and Gilot's. While still involved with Gilot, in 1951 Picasso had a six-week affair with Geneviève Laporte, who was four years younger than Gilot. By his 70s, many paintings, ink drawings and prints have as their theme an old, grotesque dwarf as the doting lover of a beautiful young model. Jacqueline Roque (1927–1986) worked at the Madoura Pottery in Vallauris on the French Riviera, where Picasso made and painted ceramics. She became his lover, and then his second wife in 1961. The two were together for the remainder of Picasso's life.
 
@@ -128,11 +128,11 @@ By this time, Picasso had constructed a huge Gothic home, and could afford large
 
 Later works to final years: 1949–1973
 
-2004-09-07_1800x2400_chicago_picasso.jpg'', a 50-foot high public Cubist sculpture. Donated by Picasso to the people of Chicago]]
+'', a 50-foot high public Cubist sculpture. Donated by Picasso to the people of Chicago]]
 
 Picasso was one of 250 sculptors who exhibited in the 3rd Sculpture International held at the Philadelphia Museum of Art in mid-1949. In the 1950s, Picasso's style changed once again, as he took to producing reinterpretations of the art of the great masters. He made a series of works based on Velázquez's painting of _Las Meninas_. He also based paintings on works by Goya, Poussin, Manet, Courbet and Delacroix.
 
-In addition to his artistic accomplishments, Picasso made a few film appearances, always as himself, including a cameo in Jean Cocteau's _Testament of Orpheus_ (1960). In 1955, he helped make the film _Le Mystère Picasso_ (_The Mystery of Picasso_) directed by Henri-Georges Clouzot. Pablo_picasso_1.jpg He was commissioned to make a maquette for a huge -high public sculpture to be built in Chicago, known usually as the _Chicago Picasso_. He approached the project with a great deal of enthusiasm, designing a sculpture which was ambiguous and somewhat controversial. What the figure represents is not known; it could be a bird, a horse, a woman or a totally abstract shape. The sculpture, one of the most recognizable landmarks in downtown Chicago, was unveiled in 1967. Picasso refused to be paid $100,000 for it, donating it to the people of the city.
+In addition to his artistic accomplishments, Picasso made a few film appearances, always as himself, including a cameo in Jean Cocteau's _Testament of Orpheus_ (1960). In 1955, he helped make the film _Le Mystère Picasso_ (_The Mystery of Picasso_) directed by Henri-Georges Clouzot. He was commissioned to make a maquette for a huge -high public sculpture to be built in Chicago, known usually as the _Chicago Picasso_. He approached the project with a great deal of enthusiasm, designing a sculpture which was ambiguous and somewhat controversial. What the figure represents is not known; it could be a bird, a horse, a woman or a totally abstract shape. The sculpture, one of the most recognizable landmarks in downtown Chicago, was unveiled in 1967. Picasso refused to be paid $100,000 for it, donating it to the people of the city.
 
 Picasso's final works were a mixture of styles, his means of expression in constant flux until the end of his life. Devoting his full energies to his work, Picasso became more daring, his works more colourful and expressive, and from 1968 to 1971 he produced a torrent of paintings and hundreds of copperplate etchings. At the time these works were dismissed by most as pornographic fantasies of an impotent old man or the slapdash works of an artist who was past his prime.[72][73] Only later, after Picasso's death, when the rest of the art world had moved on from abstract expressionism, did the critical community come to see the late works of Picasso as prefiguring Neo-Expressionism.[74]
 
@@ -141,7 +141,7 @@ Pablo Picasso died on 8 April 1973 in Mougins, France from pulmonary edema and h
 
 Political views
 
-Picasso_Massacre_in_Korea.jpg'', 1951]]
+'', 1951]]
 
 Picasso remained aloof from the Catalan independence movement during his youth despite expressing general support and being friendly with activists within it. He did not join the armed forces for any side or country during World War I, the Spanish Civil War, and World War II. As a Spanish citizen living in France, Picasso was under no compulsion to fight against the invading Germans in either world war. However, in 1940, he did apply for French citizenship, but it was refused on the grounds of his "extremist ideas evolving towards communism". This information was not revealed until 2003.[77]
 
@@ -165,7 +165,7 @@ The medium in which Picasso made his most important contribution was painting.[9
 
 Picasso's early sculptures were carved from wood or modelled in wax or clay, but from 1909 to 1928 Picasso abandoned modelling and instead made sculptural constructions using diverse materials.[102] An example is _Guitar_ (1912), a relief construction made of sheet metal and wire that Jane Fluegel terms a "three-dimensional planar counterpart of Cubist painting" that marks a "revolutionary departure from the traditional approaches, modeling and carving".[103]
 
-Pablo_Picasso,_1921,_Nous_autres_musiciens_(Three_Musicians),_oil_on_canvas,_204.5_x_188.3_cm,_Philadelphia_Museum_of_Art.jpg]] From the beginning of his career, Picasso displayed an interest in subject matter of every kind,[104] and demonstrated a great stylistic versatility that enabled him to work in several styles at once. For example, his paintings of 1917 included the pointillist _Woman with a Mantilla_, the Cubist _Figure in an Armchair_, and the naturalistic _Harlequin_ (all in the Museu Picasso, Barcelona). In 1919, he made a number of drawings from postcards and photographs that reflect his interest in the stylistic conventions and static character of posed photographs.[105] In 1921 he simultaneously painted several large neoclassical paintings and two versions of the Cubist composition _Three Musicians_ (Museum of Modern Art, New York; Philadelphia Museum of Art).[106] In an interview published in 1923, Picasso said, "The several manners I have used in my art must not be considered as an evolution, or as steps towards an unknown ideal of painting ... If the subjects I have wanted to express have suggested different ways of expression I have never hesitated to adopt them."[107]
+]] From the beginning of his career, Picasso displayed an interest in subject matter of every kind,[104] and demonstrated a great stylistic versatility that enabled him to work in several styles at once. For example, his paintings of 1917 included the pointillist _Woman with a Mantilla_, the Cubist _Figure in an Armchair_, and the naturalistic _Harlequin_ (all in the Museu Picasso, Barcelona). In 1919, he made a number of drawings from postcards and photographs that reflect his interest in the stylistic conventions and static character of posed photographs.[105] In 1921 he simultaneously painted several large neoclassical paintings and two versions of the Cubist composition _Three Musicians_ (Museum of Modern Art, New York; Philadelphia Museum of Art).[106] In an interview published in 1923, Picasso said, "The several manners I have used in my art must not be considered as an evolution, or as steps towards an unknown ideal of painting ... If the subjects I have wanted to express have suggested different ways of expression I have never hesitated to adopt them."[107]
 
 Although his Cubist works approach abstraction, Picasso never relinquished the objects of the real world as subject matter. Prominent in his Cubist paintings are forms easily recognized as guitars, violins, and bottles.[108] When Picasso depicted complex narrative scenes it was usually in prints, drawings, and small-scale works; _Guernica_ (1937) is one of his few large narrative paintings.[109]
 
@@ -174,15 +174,13 @@ Picasso painted mostly from imagination or memory. According to William Rubin, P
 
 Artistic legacy
 
-Stamp_P.JPG
-
 Picasso's influence was and remains immense and widely acknowledged by his admirers and detractors alike. On the occasion of his 1939 retrospective at MoMA, _Life_ magazine wrote: "During the 25 years he has dominated modern European art, his enemies say he has been a corrupting influence. With equal violence, his friends say he is the greatest artist alive."[113] In 1998, Robert Hughes wrote of him: "To say that Pablo Picasso dominated Western art in the 20th century is, by now, the merest commonplace. ... No painter or sculptor, not even Michelangelo, had been as famous as this in his own lifetime. ... Though Marcel Duchamp, that cunning old fox of conceptual irony, has certainly had more influence on nominally vanguard art over the past 30 years than Picasso, the Spaniard was the last great beneficiary of the belief that the language of painting and sculpture really mattered to people other than their devotees."[114]
 
-HotelSale_hinten.JPG, Paris (Hotel Salé, 1659)]]
+, Paris (Hotel Salé, 1659)]]
 
 At the time of Picasso's death many of his paintings were in his possession, as he had kept off the art market what he did not need to sell. In addition, Picasso had a considerable collection of the work of other famous artists, some his contemporaries, such as Henri Matisse, with whom he had exchanged works. Since Picasso left no will, his death duties (estate tax) to the French state were paid in the form of his works and others from his collection. These works form the core of the immense and representative collection of the Musée Picasso in Paris. In 2003, relatives of Picasso inaugurated a museum dedicated to him in his birthplace, Málaga, Spain, the Museo Picasso Málaga.
 
-Museu_Picasso_Barcelona.jpg is located in the gothic palaces of Montcada street in Barcelona]]
+is located in the gothic palaces of Montcada street in Barcelona]]
 
 The Museu Picasso in Barcelona features many of his early works, created while he was living in Spain, including many rarely seen works which reveal his firm grounding in classical techniques. The museum also holds many precise and detailed figure studies done in his youth under his father's tutelage, as well as the extensive collection of Jaime Sabartés, his close friend and personal secretary.
 
@@ -190,7 +188,7 @@ _Guernica_ was on display in New York's Museum of Modern Art for many years. In 
 
 In the 1996 movie _Surviving Picasso_, Picasso is portrayed by actor Anthony Hopkins.[115] Picasso is also a character in Steve Martin's 1993 play, _Picasso at the Lapin Agile_. In _A Moveable Feast_ by Ernest Hemingway, Hemingway tells Gertrude Stein that he would like to have some Picassos, but cannot afford them. Later in the book, Hemingway mentions looking at one of Picasso's paintings. He refers to it as Picasso's nude of the girl with the basket of flowers, possibly related to _Young Naked Girl with Flower Basket_.
 
-Art_Museum_Pablo_Picasso_Münster_Arkaden.jpg Arkaden]]
+Arkaden]]
 
 On 8 October 2010, _Picasso: Masterpieces from the Musée National Picasso, Paris,_ an exhibition of 150 paintings, sculptures, drawings, prints and photographs from the Musée National Picasso in Paris, opened at the Seattle Art Museum, Seattle, Washington, US. The exhibition subsequently travelled to Virginia Museum of Fine Arts, Richmond, Virginia: the M.H. de Young Memorial Museum, San Francisco, California, US.;[116] the Art Gallery of New South Wales, Sydney, Australia;[117] and the Art Gallery of Ontario, Toronto, Ontario, Canada.
 
@@ -200,7 +198,7 @@ Picasso is played by Antonio Banderas in the 2018 season of _Genius_, which focu
 
 Auction history
 
-Garçon_à_la_pipe.jpg, (Boy with a Pipe),'' private collection, Rose Period]]
+, (Boy with a Pipe),'' private collection, Rose Period]]
 
 Several paintings by Picasso rank among the most expensive paintings in the world. _Garçon à la pipe_ sold for US$104 million at Sotheby's on 4 May 2004, establishing a new price record. _Dora Maar au Chat_ sold for US$95.2 million at Sotheby's on 3 May 2006.[122] On 4 May 2010, _Nude, Green Leaves and Bust_ was sold at Christie's for $106.5 million. The 1932 work, which depicts Picasso's mistress Marie-Thérèse Walter reclining and as a bust, was in the personal collection of Los Angeles philanthropist Frances Lasker Brody, who died in November 2009.[123] On 11 May 2015 his painting _Women of Algiers_ set the record for the highest price ever paid for a painting when it sold for US$179.3 million at Christie's in New York.[124]
 

@@ -14,7 +14,7 @@ As with many piercings, there is risk of the jewelry becoming caught on clothing
 
 Jewelry
 
-4G_Niobium_Segment_Ring_in_piercing_Prince_Albert.jpg Prince Albert piercings are typically pierced at either 12 or 10g (2 or 2.5mm).[20] They are often (gradually) stretched soon after, with jewelry within the 8g to 2g (3mm to 6.5mm) range being the most popular. One of the reasons not to perform the initial piercing at a small diameter (16g or 14g) or otherwise to immediately stretch it to 10g or 8g using a taper is to prevent the 'cheese-cutter effect',[21] although personal preference and individual anatomy also play a role in these decisions.
+Prince Albert piercings are typically pierced at either 12 or 10g (2 or 2.5mm).[20] They are often (gradually) stretched soon after, with jewelry within the 8g to 2g (3mm to 6.5mm) range being the most popular. One of the reasons not to perform the initial piercing at a small diameter (16g or 14g) or otherwise to immediately stretch it to 10g or 8g using a taper is to prevent the 'cheese-cutter effect',[21] although personal preference and individual anatomy also play a role in these decisions.
 
 Further stretching to sizes 0 or 00g (8 or 9mm) and larger is not uncommon.[22] If a sufficiently heavy barbell or ring is worn continuously, a mild form of 'auto-stretching' can be observed.[23] This means that stretching to a larger gauge is easier and might not require a taper.
 

@@ -1,10 +1,10 @@
-LAMBDA (uppercase , lowercase ; _lám(b)da_) is the 11th letter of the Greek alphabet, representing the sound /l/. In the system of Greek numerals lambda has a value of 30. Lambda is derived from the Phoenician Lamed Phoenician_lamedh.svg. Lambda gave rise to the Latin L and the Cyrillic El (Л). The ancient grammarians and dramatists give evidence to the pronunciation as () in Classical Greek times.[1] In Modern Greek the name of the letter, Λάμδα, is pronounced .
+LAMBDA (uppercase , lowercase ; _lám(b)da_) is the 11th letter of the Greek alphabet, representing the sound /l/. In the system of Greek numerals lambda has a value of 30. Lambda is derived from the Phoenician Lamed . Lambda gave rise to the Latin L and the Cyrillic El (Л). The ancient grammarians and dramatists give evidence to the pronunciation as () in Classical Greek times.[1] In Modern Greek the name of the letter, Λάμδα, is pronounced .
 
 In early Greek alphabets, the shape and orientation of lambda varied.[2] Most variants consisted of two straight strokes, one longer than the other, connected at their ends. The angle might be in the upper-left, lower-left ("Western" alphabets), or top ("Eastern" alphabets). Other variants had a vertical line with a horizontal or sloped stroke running to the right. With the general adoption of the Ionic alphabet, Greek settled on an angle at the top; the Romans put the angle at the lower-left.
 
 The HTML 4 character entity references for the Greek capital and small letter lambda are Λ and λ respectively.[3] The Unicode code points for lambda are U+039B and U+03BB.
 
-NAMA_Alphabet_grec.jpg vessel, with a Phoenician-lamed-shaped lambda. The gamma has the shape of modern lambda.]]
+vessel, with a Phoenician-lamed-shaped lambda. The gamma has the shape of modern lambda.]]
 
 
 Symbol
@@ -31,8 +31,6 @@ Examples of the symbolic use of uppercase lambda include:
 -   In politics the lambda is the symbol of Identitarianism a white nationalist movement that originated in France before spreading out to the rest of Europe and later on to North America, Australia and New Zealand. The Identitarian lambda represents the Battle of Thermopylae.
 
 Lower-case letter λ
-
-Greek_lc_lamda_thin.svg
 
 Examples of the symbolic use of lowercase lambda include:
 

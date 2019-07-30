@@ -17,7 +17,7 @@ Early life and education
 
 Family background
 
-Neumann_Janos_Szamitogeptudomanyi_Tarsasag,_Budapest,_5._ker._Bathory_U._16._IMG_20171024_152410-1560x2080.jpg.]] Von Neumann was born Neumann János Lajos to a wealthy, acculturated and non-observant Jewish family (in Hungarian the family name comes first. His given names equate to John Louis in English).
+.]] Von Neumann was born Neumann János Lajos to a wealthy, acculturated and non-observant Jewish family (in Hungarian the family name comes first. His given names equate to John Louis in English).
 
 Von Neumann was born in Budapest, Kingdom of Hungary, which was then part of the Austro-Hungarian Empire.[1] He was the eldest of three brothers; his two younger siblings were Mihály (English: Michael von Neumann; 1907–1989) and Miklós (Nicholas von Neumann, 1911–2011). His father, Neumann Miksa (Max von Neumann, 1873–1928) was a banker, who held a doctorate in law. He had moved to Budapest from Pécs at the end of the 1880s. Miksa's father and grandfather were both born in Ond (now part of the town of Szerencs), Zemplén County, northern Hungary. John's mother was Kann Margit (English: Margaret Kann); her parents were Jakab Kann and Katalin Meisels. Three generations of the Kann family lived in spacious apartments above the Kann-Heller offices in Budapest; von Neumann's family occupied an 18-room apartment on the top floor.
 
@@ -48,7 +48,7 @@ According to his friend Theodore von Kármán, von Neumann's father wanted John 
 
 Early career and private life
 
-NeumannVonMargitta.jpg announcing Neumann's lectures on axiomatic set theory and mathematical logic, new work in quantum mechanics and special functions of mathematical physics.]] Von Neumann's habilitation was completed on December 13, 1927, and he started his lectures as a _Privatdozent_ at the University of Berlin in 1928,[8] being the youngest person ever elected _Privatdozent_ in the university's history in any subject.[9] By the end of 1927, von Neumann had published twelve major papers in mathematics, and by the end of 1929, thirty-two papers, at a rate of nearly one major paper per month. His reputed powers of memorization and recall allowed him to quickly memorize the pages of telephone directories, and recite the names, addresses and numbers therein. In 1929, he briefly became a _Privatdozent_ at the University of Hamburg, where the prospects of becoming a tenured professor were better, but in October of that year a better offer presented itself when he was invited to Princeton University in Princeton, New Jersey.
+announcing Neumann's lectures on axiomatic set theory and mathematical logic, new work in quantum mechanics and special functions of mathematical physics.]] Von Neumann's habilitation was completed on December 13, 1927, and he started his lectures as a _Privatdozent_ at the University of Berlin in 1928,[8] being the youngest person ever elected _Privatdozent_ in the university's history in any subject.[9] By the end of 1927, von Neumann had published twelve major papers in mathematics, and by the end of 1929, thirty-two papers, at a rate of nearly one major paper per month. His reputed powers of memorization and recall allowed him to quickly memorize the pages of telephone directories, and recite the names, addresses and numbers therein. In 1929, he briefly became a _Privatdozent_ at the University of Hamburg, where the prospects of becoming a tenured professor were better, but in October of that year a better offer presented itself when he was invited to Princeton University in Princeton, New Jersey.
 
 On New Year's Day in 1930, von Neumann married Marietta Kövesi, who had studied economics at Budapest University. Von Neumann and Marietta had one child, a daughter, Marina, born in 1935. As of 2017, she is a distinguished professor of business administration and public policy at the University of Michigan.[10] The couple divorced in 1937. In October 1938, von Neumann married Klara Dan, whom he had met during his last trips back to Budapest prior to the outbreak of World War II.
 
@@ -69,7 +69,7 @@ Mathematics
 
 Set theory
 
-NBG_Evolution_svg.svg The axiomatization of mathematics, on the model of Euclid's _Elements_, had reached new levels of rigour and breadth at the end of the 19th century, particularly in arithmetic, thanks to the axiom schema of Richard Dedekind and Charles Sanders Peirce, and in geometry, thanks to Hilbert's axioms. But at the beginning of the 20th century, efforts to base mathematics on naive set theory suffered a setback due to Russell's paradox (on the set of all sets that do not belong to themselves). The problem of an adequate axiomatization of set theory was resolved implicitly about twenty years later by Ernst Zermelo and Abraham Fraenkel. Zermelo–Fraenkel set theory provided a series of principles that allowed for the construction of the sets used in the everyday practice of mathematics, but they did not explicitly exclude the possibility of the existence of a set that belongs to itself. In his doctoral thesis of 1925, von Neumann demonstrated two techniques to exclude such sets—the _axiom of foundation_ and the notion of _class._
+The axiomatization of mathematics, on the model of Euclid's _Elements_, had reached new levels of rigour and breadth at the end of the 19th century, particularly in arithmetic, thanks to the axiom schema of Richard Dedekind and Charles Sanders Peirce, and in geometry, thanks to Hilbert's axioms. But at the beginning of the 20th century, efforts to base mathematics on naive set theory suffered a setback due to Russell's paradox (on the set of all sets that do not belong to themselves). The problem of an adequate axiomatization of set theory was resolved implicitly about twenty years later by Ernst Zermelo and Abraham Fraenkel. Zermelo–Fraenkel set theory provided a series of principles that allowed for the construction of the sets used in the everyday practice of mathematics, but they did not explicitly exclude the possibility of the existence of a set that belongs to itself. In his doctoral thesis of 1925, von Neumann demonstrated two techniques to exclude such sets—the _axiom of foundation_ and the notion of _class._
 
 The axiom of foundation proposed that every set can be constructed from the bottom up in an ordered succession of steps by way of the principles of Zermelo and Fraenkel. If one set belongs to another then the first must necessarily come before the second in the succession. This excludes the possibility of a set belonging to itself. To demonstrate that the addition of this new axiom to the others did not produce contradictions, von Neumann introduced a method of demonstration, called the _method of inner models_, which later became an essential instrument in set theory.
 
@@ -213,7 +213,7 @@ Von Neumann was asked to write an essay for the layman describing what mathemati
 
 Nuclear weapons
 
-John_von_Neumann_ID_badge.png ID badge photo]]
+ID badge photo]]
 
 Manhattan Project
 
@@ -225,7 +225,7 @@ When it turned out that there would not be enough uranium-235 to make more than 
 
 In a visit to Los Alamos in September 1944, von Neumann showed that the pressure increase from explosion shock wave reflection from solid objects was greater than previously believed if the angle of incidence of the shock wave was between 90° and some limiting angle. As a result, it was determined that the effectiveness of an atomic bomb would be enhanced with detonation some kilometers above the target, rather than at ground level.
 
-Implosion_bomb_animated.gif Von Neumann, four other scientists, and various military personnel were included in the target selection committee that was responsible for choosing the Japanese cities of Hiroshima and Nagasaki as the first targets of the atomic bomb. Von Neumann oversaw computations related to the expected size of the bomb blasts, estimated death tolls, and the distance above the ground at which the bombs should be detonated for optimum shock wave propagation and thus maximum effect. The cultural capital Kyoto, which had been spared the bombing inflicted upon militarily significant cities, was von Neumann's first choice, a selection seconded by Manhattan Project leader General Leslie Groves. However, this target was dismissed by Secretary of War Henry L. Stimson.
+Von Neumann, four other scientists, and various military personnel were included in the target selection committee that was responsible for choosing the Japanese cities of Hiroshima and Nagasaki as the first targets of the atomic bomb. Von Neumann oversaw computations related to the expected size of the bomb blasts, estimated death tolls, and the distance above the ground at which the bombs should be detonated for optimum shock wave propagation and thus maximum effect. The cultural capital Kyoto, which had been spared the bombing inflicted upon militarily significant cities, was von Neumann's first choice, a selection seconded by Manhattan Project leader General Leslie Groves. However, this target was dismissed by Secretary of War Henry L. Stimson.
 
 On July 16, 1945, von Neumann and numerous other Manhattan Project personnel were eyewitnesses to the first test of an atomic bomb detonation, which was code-named Trinity. The event was conducted as a test of the implosion method device, at the bombing range near Alamogordo Army Airfield, southeast of Socorro, New Mexico. Based on his observation alone, von Neumann estimated the test had resulted in a blast equivalent to but Enrico Fermi produced a more accurate estimate of 10 kilotons by dropping scraps of torn-up paper as the shock wave passed his location and watching how far they scattered. The actual power of the explosion had been between 20 and 22 kilotons. It was in von Neumann's 1944 papers that the expression "kilotons" appeared for the first time. After the war, Robert Oppenheimer remarked that the physicists involved in the Manhattan project had "known sin". Von Neumann's response was that "sometimes someone confesses a sin in order to take credit for it."
 
@@ -243,7 +243,7 @@ Shortly before his death from cancer, von Neumann headed the United States gover
 
 Mutual assured destruction
 
-Redwing_Mohawk_002.jpg nuclear test in July 1956]] Von Neumann is credited with developing the equilibrium strategy of mutual assured destruction (MAD). He also "moved heaven and earth" to bring MAD about. His goal was to quickly develop ICBMs and the compact hydrogen bombs that they could deliver to the USSR, and he knew the Soviets were doing similar work because the CIA interviewed German rocket scientists who were allowed to return to Germany, and von Neumann had planted a dozen technical people in the CIA. The Soviets considered that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons; they believed that whoever had superiority in these weapons would take over the world, without necessarily using them. He was afraid of a "missile gap" and took several more steps to achieve his goal of keeping up with the Soviets:
+nuclear test in July 1956]] Von Neumann is credited with developing the equilibrium strategy of mutual assured destruction (MAD). He also "moved heaven and earth" to bring MAD about. His goal was to quickly develop ICBMs and the compact hydrogen bombs that they could deliver to the USSR, and he knew the Soviets were doing similar work because the CIA interviewed German rocket scientists who were allowed to return to Germany, and von Neumann had planted a dozen technical people in the CIA. The Soviets considered that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons; they believed that whoever had superiority in these weapons would take over the world, without necessarily using them. He was afraid of a "missile gap" and took several more steps to achieve his goal of keeping up with the Soviets:
 
 -   He modified the ENIAC by making it programmable and then wrote programs for it to do the H-bomb calculations verifying that the Teller-Ulam design was feasible and to develop it further.
 -   Through the Atomic Energy Commission, he promoted the development of a compact H-bomb that would fit in an ICBM.
@@ -261,7 +261,7 @@ Computing
 
 Von Neumann was a founding figure in computing. Von Neumann was the inventor, in 1945, of the merge sort algorithm, in which the first and second halves of an array are each sorted recursively and then merged.[77] Von Neumann wrote the 23 pages long sorting program for the EDVAC in ink. On the first page, traces of the phrase "TOP SECRET", which was written in pencil and later erased, can still be seen.[78] He also worked on the philosophy of artificial intelligence with Alan Turing when the latter visited Princeton in the 1930s.
 
-Von Neumann's hydrogen bomb work was played out in the realm of computing, where he and Stanisław Ulam developed simulations on von Neumann's digital computers for the hydrodynamic computations. During this time he contributed to the development of the Monte Carlo method, which allowed solutions to complicated problems to be approximated using random numbers. Flow_chart_of_Planning_and_coding_of_problems_for_an_electronic_computing_instrument,_1947.jpg from von Neumann's "Planning and coding of problems for an electronic computing instrument," published in 1947.]]
+Von Neumann's hydrogen bomb work was played out in the realm of computing, where he and Stanisław Ulam developed simulations on von Neumann's digital computers for the hydrodynamic computations. During this time he contributed to the development of the Monte Carlo method, which allowed solutions to complicated problems to be approximated using random numbers. from von Neumann's "Planning and coding of problems for an electronic computing instrument," published in 1947.]]
 
 Von Neumann's algorithm for simulating a fair coin with a biased coin is used in the "software whitening" stage of some hardware random number generators.[79] Because using lists of "truly" random numbers was extremely slow, von Neumann developed a form of making pseudorandom numbers, using the middle-square method. Though this method has been criticized as crude, von Neumann was aware of this: he justified it as being faster than any other method at his disposal, writing that "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."[80] Von Neumann also noted that when this method went awry it did so obviously, unlike other methods which could be subtly incorrect.[81]
 
@@ -275,7 +275,7 @@ Stochastic computing was first introduced in a pioneering paper by von Neumann i
 
 Cellular automata, DNA and the universal constructor
 
-Nobili_Pesavento_2reps.png VonNeumann_CA_demo.gif Von Neumann's rigorous mathematical analysis of the structure of self-replication (of the semiotic relationship between constructor, description and that which is constructed), preceded the discovery of the structure of DNA.
+Von Neumann's rigorous mathematical analysis of the structure of self-replication (of the semiotic relationship between constructor, description and that which is constructed), preceded the discovery of the structure of DNA.
 
 Von Neumann created the field of cellular automata without the aid of computers, constructing the first self-replicating automata with pencil and graph paper.
 
@@ -328,14 +328,14 @@ Mathematical legacy
 
 Illness and death
 
-John_von_neumann_tomb_2004.jpg In 1955, von Neumann was diagnosed with what was either bone or pancreatic cancer.[121] He was not able to accept the proximity of his own demise, and the shadow of impending death instilled great fear in him.[122] He invited a Roman Catholic priest, Father Anselm Strittmatter, O.S.B., to visit him for consultation.[123] Von Neumann reportedly said, "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end", essentially saying that Pascal had a point, referring to Pascal's Wager. He had earlier confided to his mother, "There probably has to be a God. Many things are easier to explain if there is than if there isn't."[124][125][126] Father Strittmatter administered the last rites to him.[127] Some of von Neumann's friends (such as Abraham Pais and Oskar Morgenstern) said they had always believed him to be "completely agnostic".[128][129] Of this deathbed conversion, Morgenstern told Heims, "He was of course completely agnostic all his life, and then he suddenly turned Catholic—it doesn't agree with anything whatsoever in his attitude, outlook and thinking when he was healthy." Father Strittmatter recalled that even after his conversion, von Neumann did not receive much peace or comfort from it, as he still remained terrified of death.
+In 1955, von Neumann was diagnosed with what was either bone or pancreatic cancer.[121] He was not able to accept the proximity of his own demise, and the shadow of impending death instilled great fear in him.[122] He invited a Roman Catholic priest, Father Anselm Strittmatter, O.S.B., to visit him for consultation.[123] Von Neumann reportedly said, "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end", essentially saying that Pascal had a point, referring to Pascal's Wager. He had earlier confided to his mother, "There probably has to be a God. Many things are easier to explain if there is than if there isn't."[124][125][126] Father Strittmatter administered the last rites to him.[127] Some of von Neumann's friends (such as Abraham Pais and Oskar Morgenstern) said they had always believed him to be "completely agnostic".[128][129] Of this deathbed conversion, Morgenstern told Heims, "He was of course completely agnostic all his life, and then he suddenly turned Catholic—it doesn't agree with anything whatsoever in his attitude, outlook and thinking when he was healthy." Father Strittmatter recalled that even after his conversion, von Neumann did not receive much peace or comfort from it, as he still remained terrified of death.
 
 Von Neumann was on his deathbed when he entertained his brother by reciting by heart and word-for-word the first few lines of each page of Goethe's _Faust_. He died at age 53 on February 8, 1957, at the Walter Reed Army Medical Center in Washington, D.C., under military security lest he reveal military secrets while heavily medicated. He was buried at Princeton Cemetery in Princeton, Mercer County, New Jersey.
 
 
 Honors
 
-Von_Neumann_crater_5103_h2_h3.jpg.]]
+.]]
 
 -   The John von Neumann Theory Prize of the Institute for Operations Research and the Management Sciences (INFORMS, previously TIMS-ORSA) is awarded annually to an individual (or group) who have made fundamental and sustained contributions to theory in operations research and the management sciences.[130]
 -   The IEEE John von Neumann Medal is awarded annually by the Institute of Electrical and Electronics Engineers (IEEE) "for outstanding achievements in computer-related science and technology."[131]
@@ -396,7 +396,7 @@ References
 
 -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
 
--   PD-icon.svg
+-
 
 
 Further reading

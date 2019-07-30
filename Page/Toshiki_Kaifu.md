@@ -8,7 +8,7 @@ Kaifu was born in Nagoya City, Aichi Prefecture, on 2 January 1931. He was educa
 
 Career
 
-17th_G7_summit_member_19910715.jpg (at the 17th G7 summit on 15 July 1991)]] A member of the Liberal Democratic Party (LDP), Kaifu ran successfully for the 1960 Japanese general election and took office as the youngest member of the National Diet.[2] He served for sixteen terms, totaling 49 years. Kaifu was education minister before rising to lead the party after the resignations of Takeshita Noboru and Sōsuke Uno.[3] Facing Yoshiro Hayashi and Shintaro Ishihara,[4] Kaifu was elected on the platform of clean leadership.[5][6] He became the 76th Prime Minister of Japan in August 1989.[7]
+(at the 17th G7 summit on 15 July 1991)]] A member of the Liberal Democratic Party (LDP), Kaifu ran successfully for the 1960 Japanese general election and took office as the youngest member of the National Diet.[2] He served for sixteen terms, totaling 49 years. Kaifu was education minister before rising to lead the party after the resignations of Takeshita Noboru and Sōsuke Uno.[3] Facing Yoshiro Hayashi and Shintaro Ishihara,[4] Kaifu was elected on the platform of clean leadership.[5][6] He became the 76th Prime Minister of Japan in August 1989.[7]
 
 On 10 August 1991, Kaifu became the first leader of a major country to make an official visit to China and break China's diplomatic isolation after the Tiananmen Square Incident of June 4, 1989.[8] Kaifu ended Japan's participation in economic sanctions against China and offered $949.9 million in loans and an additional $1.5 million in emergency aid following flood damage in southern China in June and July.[9]
 

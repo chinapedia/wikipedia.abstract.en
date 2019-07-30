@@ -1,4 +1,4 @@
-Serie_de_fotografías_en_Playa_del_Carmen_39.jpg, Quintana Roo, México.]] PARASAILING, also known as PARASCENDING or PARAKITING, is a recreational kiting activity where a person is towed behind a vehicle (usually a boat) while attached to a specially designed canopy wing that resembles a parachute, known as a parasail wing. The manned kite's moving anchor may be a car, truck, or boat. The harness attaches the pilot to the parasail, which is connected to the boat, or land vehicle, by the tow rope. The vehicle then drives off, carrying the parascender (or wing) and person into the air. If the boat is powerful enough, two or three people can parasail behind it at the same time. The parascender has little or no control over the parachute. The activity is primarily a fun ride, not to be confused with the sport of paragliding.
+, Quintana Roo, México.]] PARASAILING, also known as PARASCENDING or PARAKITING, is a recreational kiting activity where a person is towed behind a vehicle (usually a boat) while attached to a specially designed canopy wing that resembles a parachute, known as a parasail wing. The manned kite's moving anchor may be a car, truck, or boat. The harness attaches the pilot to the parasail, which is connected to the boat, or land vehicle, by the tow rope. The vehicle then drives off, carrying the parascender (or wing) and person into the air. If the boat is powerful enough, two or three people can parasail behind it at the same time. The parascender has little or no control over the parachute. The activity is primarily a fun ride, not to be confused with the sport of paragliding.
 
 There are commercial parasailing operations all over the world. Land-based parasailing has also been transformed into a competition sport in Europe. In land-based competition parasailing, the parasail is towed to maximum height behind a 4-wheel-drive vehicle. The driver then releases the tow line; the parasailer flies down to a target area in an accuracy competition.
 
@@ -26,7 +26,7 @@ In 1974, Mark McCulloh invented the first self-contained parasail launch and rec
 
 In early 1976, Brian Gaskin designed, created, and tested the first 16-gore canopy design which he named "Waterbird". The Waterbird was revolutionary in its canopy design, its unique tow yoke harness arrangement, its construction, and the use of zero porosity fabrics which allowed it to be used over water safely. The majority of commercial parasail operators then moved to the 16-gore canopy arrangement. In 1976 Gaskin founded his company, Waterbird Parakites, which is still in operation today, producing commercial and recreational 16-gore parasails.
 
-In April 2013, the first ASTM parasail weather standard was approved. With the help of the WSIA, and the chair of the parasail committee, Matthew Dvorak, owner and operator of Daytona Beach Parasail, Inc. the new standard was implemented. This is the first standard in the parasail industry with three more in the works to be approved later this year. This standard was the first step in bringing the otherwise unregulated industry into a more uniformed and safe industry! Max_methode.JPG
+In April 2013, the first ASTM parasail weather standard was approved. With the help of the WSIA, and the chair of the parasail committee, Matthew Dvorak, owner and operator of Daytona Beach Parasail, Inc. the new standard was implemented. This is the first standard in the parasail industry with three more in the works to be approved later this year. This standard was the first step in bringing the otherwise unregulated industry into a more uniformed and safe industry!
 
 Improved parasail canopy designs
 
@@ -43,7 +43,7 @@ Prior to the release of the NTSB report, Florida passed the White-Miskell Act wh
 
 Parasailing associations
 
-2017_Sarasota_Crescent_Beach_Airplane_Ad_Banner_4_FRD_9257_(cropped).jpg on Siesta Key]]
+on Siesta Key]]
 
 The leading trade associations for parasailing are:
 

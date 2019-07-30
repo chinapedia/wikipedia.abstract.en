@@ -3,18 +3,16 @@ The PREHISTORY OF PAPUA NEW GUINEA can be traced to about 60,000 years ago, when
 
 Archaeology
 
-Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg: Australasia, Polynesia, Micronesia, and Melanesia. Australasia include the Australian landmass (including Tasmania), New Zealand, and New Guinea.]] Archaeological evidence indicates that humans arrived on New Guinea perhaps 60,000 years ago, although this is under debate.[1][2] They came probably by sea from Southeast Asia during an Ice Age period when the sea was lower and distances between islands shorter. Although the first arrivals were hunters and gatherers, early evidence shows that people managed the forest environment to provide food. There also are indications of neolithic gardening having been practiced at Kuk at the same time that agriculture was developing in Mesopotamia and Egypt. Today's staples – sweet potatoes and pigs – were later arrivals, but shellfish and fish have long been mainstays of coastal dwellers' diets. Recent archaeological research suggests that 50,000 years ago people may have occupied sites in the highlands at altitudes of up to , rather than being restricted to warmer coastal areas.[3]
+: Australasia, Polynesia, Micronesia, and Melanesia. Australasia include the Australian landmass (including Tasmania), New Zealand, and New Guinea.]] Archaeological evidence indicates that humans arrived on New Guinea perhaps 60,000 years ago, although this is under debate.[1][2] They came probably by sea from Southeast Asia during an Ice Age period when the sea was lower and distances between islands shorter. Although the first arrivals were hunters and gatherers, early evidence shows that people managed the forest environment to provide food. There also are indications of neolithic gardening having been practiced at Kuk at the same time that agriculture was developing in Mesopotamia and Egypt. Today's staples – sweet potatoes and pigs – were later arrivals, but shellfish and fish have long been mainstays of coastal dwellers' diets. Recent archaeological research suggests that 50,000 years ago people may have occupied sites in the highlands at altitudes of up to , rather than being restricted to warmer coastal areas.[3]
 
 
 European contact
 
-Thevenot_-_Hollandia_Nova_detecta_1644.png. Australasia during the Golden Age of Dutch exploration and discovery (ca. 1590s–1720s): including Nova Guinea (New Guinea), Nova Hollandia (mainland Australia), Van Diemen's Land (Tasmania), and Nova Zeelandia (New Zealand).]] When Europeans first arrived, inhabitants of New Guinea and nearby islands, whose technologies included bone, wood, and stone tools, had a productive agricultural system. They traded along the coast (mainly in pottery, shell ornaments and foodstuffs) and in the interior (exchanging forest products for shells and other sea products).
+. Australasia during the Golden Age of Dutch exploration and discovery (ca. 1590s–1720s): including Nova Guinea (New Guinea), Nova Hollandia (mainland Australia), Van Diemen's Land (Tasmania), and Nova Zeelandia (New Zealand).]] When Europeans first arrived, inhabitants of New Guinea and nearby islands, whose technologies included bone, wood, and stone tools, had a productive agricultural system. They traded along the coast (mainly in pottery, shell ornaments and foodstuffs) and in the interior (exchanging forest products for shells and other sea products).
 
 The first known Europeans to sight New Guinea were probably the Portuguese and Spanish navigators sailing in the South Pacific in the early part of the 16th century. In 1526–1527 the Portuguese explorer Jorge de Menezes accidentally came upon the principal island and is credited with naming it "Papua", after a Malay word for the frizzled quality of Melanesian people's hair. The Spaniard Yñigo Ortiz de Retez applied the term "New Guinea" to the island in 1545 because of a perceived resemblance between the islands' inhabitants and those found on the African Guinea coast.
 
 Although European navigators visited the islands and explored their coastlines thereafter, European researchers knew little of the inhabitants until the 1870s, when Russian anthropologist Nicholai Miklukho-Maklai made a number of expeditions to New Guinea, spending several years living among native tribes, and described their way of life in a comprehensive treatise.
-
-British_flag_raised_on_new_guinea_annexed_by_queensland.jpg
 
 
 Territory of Papua
@@ -23,12 +21,10 @@ In 1883, the Colony of Queensland tried to annex the southern half of eastern Ne
 
 There was little economic activity in Papua. Australia administered it separately under the _Papua Act_ until it was invaded by the Empire of Japan in 1941, and civil administration suspended. During the Pacific War, Papua was governed by an Australian military administration from Port Moresby, where General Douglas MacArthur occasionally made his headquarters.
 
-Flag_of_German_New_Guinea.svg
-
 
 German New Guinea
 
-Hissen_der_kaiserlichen_Flagge_auf_Mioko.jpg in 1884]] With Europe's growing desire for coconut oil, Godeffroy's of Hamburg, the largest trading firm in the Pacific, began trading for copra in the New Guinea Islands. In 1884, the German Empire formally took possession of the northeast quarter of the island and put its administration in the hands of a chartered trading company formed for the purpose, the _German New Guinea Company_. In the charter granted to this company by the German Imperial Government in May 1885, it was given the power to exercise sovereign rights over the territory and other "unoccupied" lands in the name of the government, and the ability to "negotiate" directly with the native inhabitants. Relationships with foreign powers were retained as the preserve of the German government. The _Neu Guinea Kompanie_ paid for the local governmental institutions directly, in return for the concessions which had been awarded to it. In 1899, the German imperial government assumed direct control of the territory, thereafter known as GERMAN NEW GUINEA.
+in 1884]] With Europe's growing desire for coconut oil, Godeffroy's of Hamburg, the largest trading firm in the Pacific, began trading for copra in the New Guinea Islands. In 1884, the German Empire formally took possession of the northeast quarter of the island and put its administration in the hands of a chartered trading company formed for the purpose, the _German New Guinea Company_. In the charter granted to this company by the German Imperial Government in May 1885, it was given the power to exercise sovereign rights over the territory and other "unoccupied" lands in the name of the government, and the ability to "negotiate" directly with the native inhabitants. Relationships with foreign powers were retained as the preserve of the German government. The _Neu Guinea Kompanie_ paid for the local governmental institutions directly, in return for the concessions which had been awarded to it. In 1899, the German imperial government assumed direct control of the territory, thereafter known as GERMAN NEW GUINEA.
 
 New Guinea was basically a business venture. Thousands of local workers were hired as cheap labor on cocoa and copra plantations. In 1899, the German government took control of the colony from the New Guinea company of Berlin. Education was in the hands of missionaries. In 1914 when the First World War broke out Australia seized the German colony. The plantations were given to Australian war veterans and in 1921 the League of Nations gave Australia a trusteeship over New Guinea. The plantations and gold mining generated a degree of prosperity.[5]
 
@@ -59,7 +55,7 @@ The Akmana Gold Prospecting Field Party made contact with many peoples they call
 
 World War II
 
-Australian_troops_at_Milne_Bay.jpg during World War II at the Battle of Milne Bay of Aug–Sep 1942.]] NGVR_soldiers_with_captured_Japanese_flag_28_Aug_1942_(AWM_013147).jpg with captured Japanese flag, 1942]] Wounded_Australian_soldier_led_by_a_Papuan_orderly_at_Buna.jpg
+during World War II at the Battle of Milne Bay of Aug–Sep 1942.]] with captured Japanese flag, 1942]]
 
 Shortly after the start of the Pacific War, the island of New Guinea was invaded by the Japanese. Most of West Papua, at that time known as Dutch New Guinea, was occupied, as were large parts of the Territory of New Guinea (the former German New Guinea, which was also under Australian rule after World War I), but Papua was protected to a large extent by its southern location and the near-impassable Owen Stanley Ranges to the north.
 

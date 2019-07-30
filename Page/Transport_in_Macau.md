@@ -1,5 +1,3 @@
-Macau-Taxi.jpg
-
 TRANSPORT IN MACAU includes road, sea and air transport. Road transport is the primary mode of transport within Macau as there are no railways. The main forms of public transport are buses and taxis. A light rail system is currently under construction.
 
 Modes of transport out of Macau include ferries to Hong Kong and mainland China from two ferry terminals, as well as helicopter service to Hong Kong. International flights are available from Macau International Airport.
@@ -9,19 +7,15 @@ Internal
 
 Road
 
-MW-20-76(Macau_Taxi)_24-12-2018.jpg Macau_bus_50814.jpg 3wheelscar.jpg Macau_rickshaw_13-02-2019.jpg
-
 Buses and taxis are the major modes of public transport in Macau. Bus services are frequent and inexpensive,[1] linking the Macau peninsula, Taipa, Cotai and Coloane. Transmac, Transportas Companhia de Macau and the newly established Macau Nova Era de Autocarros Públicos, replaced former Reolian Public Transport Co., are the sole operators of Macau's bus services. Most hotels (four-starred or above) and gaming venues operate their own fleet of shuttle bus service between the Hong Kong-Macau Ferry Terminal, Taipa Ferry Terminal or Portas do Cerco (Macau's border to mainland China) and their premises.
 
 Taxis are plentiful near the airport/Taipa ferry terminal, the Hong Kong-Macau and Taipa ferry terminal, and major gaming venues/hotels in the city [2] though it is harder to get one during rush hours on the streets. Most of Macau's taxis have a black body with cream color top livery. Radio taxis are available for the black cabs.[3]
 
 In order to enhance the quality of taxi services, such as eliminate the language barrier between taxi drivers and passengers, the Tourist Office has provided most taxis with a destination guide which includes the names of the most requested destinations in Chinese, Portuguese and English.
 
-The trishaw, a hybrid of the tricycle and the rickshaw, is a unique mode of transport in Macau, though it is mainly for sightseeing purposes but they were a type of mainly used transportation system before the 1970s because of their cheap price. They can easily be found next to Hotel Lisboa and the Macau ferry terminal waiting for passengers. Puente_de_Amistad,_Macao,_2013-08-08,_DD_02-03-04_PAN.jpg (Friendship Bridge) from the Macau Peninsula (left) to the Taipa Island (right), Macau]]
+The trishaw, a hybrid of the tricycle and the rickshaw, is a unique mode of transport in Macau, though it is mainly for sightseeing purposes but they were a type of mainly used transportation system before the 1970s because of their cheap price. They can easily be found next to Hotel Lisboa and the Macau ferry terminal waiting for passengers. (Friendship Bridge) from the Macau Peninsula (left) to the Taipa Island (right), Macau]]
 
 Railways
-
-Macau_Light_Rapid_Transit_Map.png
 
 There are no railways in Macau (nor built during Portuguese rule), but the Macau Light Rail Transit system is under construction, with the opening of the first phase targeted for 2019. Similar to the Singapore Light Rapid Transit system, the tracks will be a mix of elevated guideways and underground tunnels, ensuring a dedicated right-of-way separated from road traffic. When completed it will serve passengers on Macau Peninsula, Taipa island, the Cotai reclamation area and Macau International Airport.
 
@@ -38,7 +32,7 @@ External
 
 Sea
 
-Ponte_de_Amizade_of_Macau.JPG]] 20091105-TurboJET_Urzela.jpg's Jetfoil (model Boeing 929)]]
+]] 's Jetfoil (model Boeing 929)]]
 
 Over 150 sea-crossing services are scheduled daily between Macau and Hong Kong,[6] and the Outer Harbour Ferry Terminal serves as the major terminal for Macau's passenger traffic by sea. The route is served by high speed catamarans (with passenger capacity of about 400) and jetfoils (with passenger capacity of about 260) and the journey takes approximately one hour. There are also daily scheduled ferry services between Macau and Shenzhen. At present the services are operated by TurboJET from Sheung Wan, Tsim Sha Tsui and Hong Kong International Airport. Cotai Water Jet also operates services between Taipa Ferry Terminal and the Sheung Wan, Tsim Sha Tsui and Hong Kong International Airport. Apart from the sea routes there are also regular scheduled helicopter services between Hong Kong and Macau, which are operated by Sky Shuttle. The trip takes approximately 20 minutes.
 
@@ -50,7 +44,7 @@ From Inner Harbour Ferry Terminal (Terminal Marítimo de Passageiros do Porto In
 
 Air
 
-Macao_airport_terminal.jpg]]
+]]
 
 Air service in Macau began in the 1930s with Pan American Airways operating seaplanes from Macau to Hong Kong and lasted until 1941.[8] In 1948 Cathay Pacific Airways commenced Hong Kong to Macau seaplane service under their subsidiary Macau Air Transport Company (MATCO). MATCO operated from the Outer Harbour Terminal along Avenida da Amizade to Kai Tak Airport in Hong Kong. The scheduled passenger service continued until 1961 when MATCO ceased operations.[9]
 
@@ -64,8 +58,6 @@ Due to a lack of intercontinental flights from Macau, air passengers are also se
 
 
 Roads and bridges
-
-Macau_Sai_Van_Bridge_2_Taipa.JPG
 
 Macau has 321 kilometres of public roads, three bridges (viaducts) linking the Macau Peninsula and Taipa, and a tunnel through the Guia Hill linking the Horta e Costa area and the New Port Area (NAPE). The three bridges are (from east to west) the Friendship Bridge (_Ponte de Amizade_); the Macau-Taipa Bridge (_Ponte Governador Nobre de Carvalho_); and the Sai Van Bridge (_Ponte de Sai Van_).
 

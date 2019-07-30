@@ -7,7 +7,7 @@ Many species of Malvaceae _sensu lato_ are known for their wood, with that of _O
 
 Description
 
-2006_08_10_Hollyhock.JPG The morphology of Malvales is diverse, with few common characteristics. Among those most commonly encountered are palmate leaves, connate sepals, and a specific structure and chemical composition of the seeds. The cortex is often fibrous, built of soft phloem layers.
+The morphology of Malvales is diverse, with few common characteristics. Among those most commonly encountered are palmate leaves, connate sepals, and a specific structure and chemical composition of the seeds. The cortex is often fibrous, built of soft phloem layers.
 
 
 Taxonomy

@@ -30,8 +30,6 @@ In 1952, Lee starred opposite Danny Thomas in _The Jazz Singer_ (1952), a remake
 
 Personal life
 
-Peggy_Lee_grave_at_Westwood_Village_Memorial_Park_Cemetery_in_Brentwood,_California.JPG
-
 Lee was married four times: to guitarist and composer Dave Barbour (1943–1951),[18][19] actor Brad Dexter (1953), actor Dewey Martin (1956–1958), and percussionist Jack Del Rio (1964–1965). All the marriages ended in divorce.
 
 She gave birth to her only child at age 23, a daughter Nicki Lee Foster on November 11, 1943. Nicki's father was her first ex-husband, Dave Barbour.

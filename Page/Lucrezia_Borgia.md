@@ -14,7 +14,7 @@ Marriages
 
 First marriage: Giovanni Sforza (Lord of Pesaro and Gradara)
 
-Lucrezia-Borgia.jpg, in the Sala dei Santi the Borgia apartments in the Vatican c. 1494.]] Giovanni_Sforza_coin.jpg On 26 February 1491, a matrimonial arrangement was drawn up between Lucrezia and the Lord of Val D'Ayora in the kingdom of Valencia, Don Cherubino Joan de Centelles, which was annulled less than two months later in favour of a new contract engaging Lucrezia to Don Gaspare Aversa, count of Procida.[3] When Rodrigo became Pope Alexander VI, he sought to be allied with powerful princely families and founding dynasties of Italy. He therefore called off Lucrezia's previous engagements and arranged for her to marry Giovanni Sforza, a member of the House of Sforza who was Lord of Pesaro and titled Count of Catignola.[4] Giovanni was an illegitimate son of Costanzo I Sforza and a Sforza of the second rank. He married Lucrezia on 12 June 1493 in Rome.[5]
+, in the Sala dei Santi the Borgia apartments in the Vatican c. 1494.]] On 26 February 1491, a matrimonial arrangement was drawn up between Lucrezia and the Lord of Val D'Ayora in the kingdom of Valencia, Don Cherubino Joan de Centelles, which was annulled less than two months later in favour of a new contract engaging Lucrezia to Don Gaspare Aversa, count of Procida.[3] When Rodrigo became Pope Alexander VI, he sought to be allied with powerful princely families and founding dynasties of Italy. He therefore called off Lucrezia's previous engagements and arranged for her to marry Giovanni Sforza, a member of the House of Sforza who was Lord of Pesaro and titled Count of Catignola.[4] Giovanni was an illegitimate son of Costanzo I Sforza and a Sforza of the second rank. He married Lucrezia on 12 June 1493 in Rome.[5]
 
 Before long, the Borgia family no longer needed the Sforzas, and the presence of Giovanni Sforza in the papal court was superfluous. The Pope needed new, more advantageous political alliances, so he may have covertly ordered the execution of Giovanni: the generally accepted version is that Lucrezia was informed of this by her brother Cesare, and she warned her husband, who fled Rome.[6]
 
@@ -28,7 +28,7 @@ In 1501, two papal bulls were issued concerning the child, Giovanni Borgia. In t
 
 Second marriage: Alfonso d'Aragon (Duke of Bisceglie and Prince of Salerno)
 
-PinturicchioAlfonso.jpg Following her annulment from Sforza, Lucrezia was married to the Neapolitan Alfonso of Aragon, the half-brother of Sancha of Aragon who was the wife of Lucrezia's brother Gioffre Borgia. The marriage was a short one.[12]
+Following her annulment from Sforza, Lucrezia was married to the Neapolitan Alfonso of Aragon, the half-brother of Sancha of Aragon who was the wife of Lucrezia's brother Gioffre Borgia. The marriage was a short one.[12]
 
 They were married in 1498, making Lucrezia the Duchess consort of Bisceglie and Princess consort of Salerno. Lucrezia—not her husband—was appointed governor of Spoleto in 1499; Alfonso fled Rome shortly afterwards but returned at Lucrezia's request, only to be murdered in 1500.[13]
 
@@ -36,7 +36,7 @@ It was widely rumored[14] that Lucrezia's brother Cesare was responsible for Alf
 
 Third marriage: Alfonso d'Este (Duke of Ferrara)
 
-Battista_Dossi,_ritratto_di_Alfonso_I_d'Este_-_Modena.jpg Lucrezia_Borgia.jpg (c. 1510)[16]]] After the death of Lucrezia's second husband, her father, Pope Alexander VI, arranged a third marriage. She then married Alfonso I d'Este, Duke of Ferrara, in early 1502 in Ferrara. She had eight children during this marriage and was considered a respectable and accomplished Renaissance duchess, effectively rising above her previous reputation and surviving the fall of the Borgias following her father's death.[17]
+(c. 1510)[16]]] After the death of Lucrezia's second husband, her father, Pope Alexander VI, arranged a third marriage. She then married Alfonso I d'Este, Duke of Ferrara, in early 1502 in Ferrara. She had eight children during this marriage and was considered a respectable and accomplished Renaissance duchess, effectively rising above her previous reputation and surviving the fall of the Borgias following her father's death.[17]
 
 Neither partner was faithful: beginning in 1503, Lucrezia enjoyed a long relationship with her brother-in-law, Francesco II Gonzaga, Marquess of Mantua.[18][19] Francesco's wife was the cultured intellectual Isabella d'Este, the sister of Alfonso, to whom Lucrezia had made overtures of friendship to no avail. The affair between Francesco and Lucrezia was passionate, more sexual than sentimental as can be attested in the fevered love letters the pair wrote one another.[20] It has been claimed that the affair ended when Francesco contracted syphilis and had to end sexual relations with Lucrezia.[21] This last assertion is problematic as Francesco had contracted syphilis before 1500 as it was known that he passed the disease onto his eldest son Federico Gonzaga who was born in 1500. Francesco did not meet Lucrezia until 1502.[22]
 
@@ -51,7 +51,7 @@ Lucrezia had become very weak during the pregnancy and fell seriously ill after 
 
 Appearance
 
-1520_Veneto_Idealbildnis_einer_Kurtisane_als_Flora_anagoria.JPG, traditionally assumed to be Lucrezia Borgia.]] Firma_de_“Lucretia_de_Borgia”_en_una_carta_a_su_cuñada_Isabella_Gonzaga_(marzo_de_1519).png 02_Corpus_Domini_Ferrara_-_Sala_del_Coro_o_sala_delle_Clarisse_-_Tombe_estensi.jpg, Ferrara]] She is described as having heavy blonde hair that fell past her knees, a beautiful complexion, hazel eyes that changed color, a full, high bosom, and a natural grace that made her appear to "walk on air".[31] These physical attributes were highly appreciated in Italy during that period. Another description said, "her mouth is rather large, the teeth brilliantly white, her neck is slender and fair, and the bust is admirably proportioned."[32]
+, traditionally assumed to be Lucrezia Borgia.]] , Ferrara]] She is described as having heavy blonde hair that fell past her knees, a beautiful complexion, hazel eyes that changed color, a full, high bosom, and a natural grace that made her appear to "walk on air".[31] These physical attributes were highly appreciated in Italy during that period. Another description said, "her mouth is rather large, the teeth brilliantly white, her neck is slender and fair, and the bust is admirably proportioned."[32]
 
 One painting, _Portrait of a Youth_ by Dosso Dossi at the National Gallery of Victoria, was identified as a portrait of Lucrezia in November 2008.[33][34][35][36][37] This painting may be the only surviving formal portrait of Lucrezia Borgia; however, doubts have been cast on that attribution.[38] Several other paintings, such as Veneto's fanciful portrait, have also been said to depict her, but none have been accepted by scholars at present.
 

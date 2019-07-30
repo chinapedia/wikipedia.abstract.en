@@ -19,7 +19,7 @@ Caligula's reign lasted from 37 until 41.[22] He died from multiple stab wounds 
 
 Nero officially formally entered public life as an adult in 51—he was around 14 years old.[30] When he turned 16, Nero married Claudius' daughter (his own step-sister), Claudia Octavia. Between the years 51 and 53, he gave several speeches on behalf of various communities including the Ilians; the Apameans, requesting a five-year tax reprieve after an earthquake; and the northern colony of Bologna, after their settlement suffered a devastating fire.[31]
 
-Nero_Agrippina_aureus_54.png of Nero and his mother, Agrippina, c. 54. Caption: NERONIS CAES MATER AGRIPP. AVG. DIVI CLAVD. / NERONI CLAVD. DIVI F. CAES. AVG. GERM. IMP. TR. P. - EX SC]] NeroandClaudius.jpg celebrating young Nero as the future emperor, c. 50. Caption: ΚΛΑΥΔΙΟΥ ΚAICΑΡΟC CΕΒΑCTOY / ΝΕΡΩΝΟC ΚΑΙCΑΡΟC ΓΕΡΜΑΝΙΚΟΥ]]
+of Nero and his mother, Agrippina, c. 54. Caption: NERONIS CAES MATER AGRIPP. AVG. DIVI CLAVD. / NERONI CLAVD. DIVI F. CAES. AVG. GERM. IMP. TR. P. - EX SC]] celebrating young Nero as the future emperor, c. 50. Caption: ΚΛΑΥΔΙΟΥ ΚAICΑΡΟC CΕΒΑCTOY / ΝΕΡΩΝΟC ΚΑΙCΑΡΟC ΓΕΡΜΑΝΙΚΟΥ]]
 
 Claudius died in 54; many ancient historians claim that he was poisoned by Agrippina.[32] Shotter has written that "Claudius' death in 54 has usually been regarded as an event hastened by Agrippina because of signs that Claudius was showing a renewed affection for his natural son," but he notes that among ancient sources Josephus was uniquely reserved in describing the poisoning as a rumor.[33] Contemporary sources differ in their accounts. Tacitus says that Locusta prepared the poison, which was served to the Emperor by his food taster Halotus. Tacitus also writes that Agrippina arranged for Claudius' doctor Xenophon to administer poison, in the event that the Emperor survived.[34] Suetonius differs in some details, but also implicates Halotus and Agrippina. Like Tacitus, Cassius Dio writes that the poison was prepared by Locusta, but in Dio's account it is administered by Agrippina instead of Halotus. In Apocolocyntosis, Seneca the Younger does not mention mushrooms at all.[35] Agrippina's involvement in Claudius' death is not accepted by all modern scholars.[36]
 
@@ -34,7 +34,7 @@ According to ancient historians, Nero's construction projects were overly extrav
 
 Early reign
 
-Statue_of_Nero_as_a_boy.jpg Nero became emperor in 54 , aged sixteen years. This made him the youngest sole emperor until Elagabalus, who became emperor aged 14 in 218.[44] The first five years of Nero's reign were described as _Quinquennium Neronis_ by Trajan; the interpretation of the phrase is a matter of dispute amongst scholars.[45] As Pharaoh of Egypt, Nero adopted the royal titulary _Autokrator Neron Heqaheqau Meryasetptah Tjemaahuikhasut Wernakhtubaqet Heqaheqau Setepennenu Merur_ ("Emperor Nero, Ruler of rulers, chosen by Ptah, beloved of Isis, the sturdy-armed one who struck the foreign lands, victorious for Egypt, ruler of rulers, chosen of Nun who loves him").[46]
+Nero became emperor in 54 , aged sixteen years. This made him the youngest sole emperor until Elagabalus, who became emperor aged 14 in 218.[44] The first five years of Nero's reign were described as _Quinquennium Neronis_ by Trajan; the interpretation of the phrase is a matter of dispute amongst scholars.[45] As Pharaoh of Egypt, Nero adopted the royal titulary _Autokrator Neron Heqaheqau Meryasetptah Tjemaahuikhasut Wernakhtubaqet Heqaheqau Setepennenu Merur_ ("Emperor Nero, Ruler of rulers, chosen by Ptah, beloved of Isis, the sturdy-armed one who struck the foreign lands, victorious for Egypt, ruler of rulers, chosen of Nun who loves him").[46]
 
 Nero's tutor, Seneca, prepared Nero's first speech before the Senate. During this speech, Nero spoke about "eliminating the ills of the previous regime".[47] H.H. Scullard writes that "he promised to follow the Augustan model in his principate, to end all secret trials _intra cubiculum_, to have done with the corruption of court favorites and freedmen, and above all to respect the privileges of the Senate and individual Senators."[48] His respect of the Senatorial autonomy, which distinguished him from Caligula and Claudius, was generally well received by the Roman Senate.[49]
 
@@ -44,7 +44,7 @@ Jürgen Malitz writes that ancient sources do not provide any clear evidence to 
 
 Matricide
 
-Nero_and_Poppaea_Sabina.jpg Billon tetradrachm of Alexandria, Egypt, 25 mm, 12.51 gr. Obverse: radiate head right; ΝΕΡΩ. KΛAY. KAIΣ. ΣEB. ΓΕΡ. AY. Reverse: draped bust of Poppaea right; ΠOΠΠAIA ΣEBAΣTH. Year LI = 10 = 63-64.]] John_William_Waterhouse_-_The_Remorse_of_the_Emperor_Nero_after_the_Murder_of_his_Mother.JPG]]
+Billon tetradrachm of Alexandria, Egypt, 25 mm, 12.51 gr. Obverse: radiate head right; ΝΕΡΩ. KΛAY. KAIΣ. ΣEB. ΓΕΡ. AY. Reverse: draped bust of Poppaea right; ΠOΠΠAIA ΣEBAΣTH. Year LI = 10 = 63-64.]] ]]
 
 _The Oxford Encyclopedia of Ancient Greece and Rome_ cautiously notes that Nero's reasons for killing his mother in 59 are "not fully understood."[57] According to Tacitus, the source of conflict between Nero and his mother was Nero's affair with Poppaea Sabina. In _Histories_ Tacitus writes that the affair began while Poppaea was still married to Rufrius Crispinus, but in his later work _Annals_ Tacitus says Poppaea was married to Otho when the affair began.[58] In _Annals_ Tacitus writes that Agrippina opposed Nero's affair with Poppaea because of her affection for his wife Octavia. Anthony Barrett writes that Tacitus' account in _Annals_ "suggests that Poppaea's challenge drove [Nero] over the brink."[59] A number of modern historians have noted that Agrippina's death would not have offered much advantage for Poppaea, as Nero did not marry Poppaea until 62.[60][61] Barrett writes that Poppaea seems to serve as a "literary device, utilized [by Tacitus] because [he] could see no plausible explanation for Nero's conduct and also incidentally [served] to show that Nero, like Claudius, had fallen under the malign influence of a woman."[62] According to Suetonius, Nero had his former freedman Anicetus arrange a shipwreck; Agrippina survived the wreck, swam ashore and was executed by Anicetus, who reported her death as a suicide.[63][64]
 
@@ -60,9 +60,7 @@ In 64, Nero married Pythagoras, a freedman.[81][82][83][84]
 
 Great Fire of Rome
 
-The Great Fire of Rome erupted on the night of 18 July to 19 July, AD 64. The fire started on the slope of the Aventine overlooking the Circus Maximus.[85][86] Hubert_Robert_-_The_Fire_of_Rome_-_Google_Art_Project.jpg (1785)]] Tacitus, the main ancient source for information about the fire, wrote that countless mansions, residences and temples were destroyed.[87] Tacitus and Cassius Dio have both written of extensive damage to the Palatine, which has been supported by subsequent archaeological excavations.[88] The fire is reported to have burned for over a week.[89] It destroyed three of fourteen Roman districts and severely damaged seven more.[90][91]
-
-Nero_charity.jpg
+The Great Fire of Rome erupted on the night of 18 July to 19 July, AD 64. The fire started on the slope of the Aventine overlooking the Circus Maximus.[85][86] (1785)]] Tacitus, the main ancient source for information about the fire, wrote that countless mansions, residences and temples were destroyed.[87] Tacitus and Cassius Dio have both written of extensive damage to the Palatine, which has been supported by subsequent archaeological excavations.[88] The fire is reported to have burned for over a week.[89] It destroyed three of fourteen Roman districts and severely damaged seven more.[90][91]
 
 Tacitus wrote that some ancient accounts described the fire as an accident, while others had claimed that it was a plot of Nero's. Tacitus is the only surviving source which does not blame Nero for starting the fire; he says he is "unsure." Pliny the Elder, Suetonius and Cassius Dio all wrote that Nero was responsible for the fire. These accounts give several reasons for Nero's alleged arson like Nero's envy of King Priam and a dislike for the city's ancient construction. Suetonius wrote that Nero started the fire because he wanted the space to build his Golden House.[92] This Golden House or _Domus Aurea_ included lush artificial landscapes and a 30-meter-tall statue of himself, the Colossus of Nero. The size of this complex is debated (from 100 to 300 acres).[93][94][95]
 
@@ -76,7 +74,7 @@ In the wake of the fire, he made a new urban development plan. Houses built afte
 
 Later years
 
-Roman_coins_sestertius_Nero_countermark_X_Legion_Gemina.jpg. Obverse: Laureate head right, countermark on neck "X above bar" of Legio X Gemina; NERO CLAVD. CAESAR AVG. GER. P. M., TR. P., IMP., P. P. Reverse: Nero riding right escorted by a soldier holding vexillum; DECVRSIO - S. C.]] As-Nero-Ara_pacis-RIC_0562.jpg on the reverse. Caption: IMP. NERO CAESAR AVG. P. M., TR. POT., P. P. / ARA PACIS - S. C.]]
+. Obverse: Laureate head right, countermark on neck "X above bar" of Legio X Gemina; NERO CLAVD. CAESAR AVG. GER. P. M., TR. P., IMP., P. P. Reverse: Nero riding right escorted by a soldier holding vexillum; DECVRSIO - S. C.]] on the reverse. Caption: IMP. NERO CAESAR AVG. P. M., TR. POT., P. P. / ARA PACIS - S. C.]]
 
 In 65, Gaius Calpurnius Piso, a Roman statesman, organized a conspiracy against Nero with the help of Subrius Flavus and Sulpicius Asper, a tribune and a centurion of the Praetorian Guard.[106] According to Tacitus, many conspirators wished to "rescue the state" from the emperor and restore the Republic.[107] The freedman Milichus discovered the conspiracy and reported it to Nero's secretary, Epaphroditos.[108] As a result, the conspiracy failed and its members were executed including Lucan, the poet.[109] Nero's previous advisor Seneca was accused by Natalis; he denied the charges but was still ordered to commit suicide as by this point he had fallen out of favor with Nero.[110]
 
@@ -84,7 +82,7 @@ Nero was said to have kicked Poppaea to death in 65, before she could have his s
 
 Revolt of Vindex and Galba and Nero's death
 
-Nero_Palatino_Inv618.jpg.]] In March 68, Gaius Julius Vindex, the governor of Gallia Lugdunensis, rebelled against Nero's tax policies.[114][115] Lucius Verginius Rufus, the governor of Germania Superior, was ordered to put down Vindex's rebellion.[116] In an attempt to gain support from outside his own province, Vindex called upon Servius Sulpicius Galba, the governor of Hispania Tarraconensis, to join the rebellion and further, to declare himself emperor in opposition to Nero.[117]
+.]] In March 68, Gaius Julius Vindex, the governor of Gallia Lugdunensis, rebelled against Nero's tax policies.[114][115] Lucius Verginius Rufus, the governor of Germania Superior, was ordered to put down Vindex's rebellion.[116] In an attempt to gain support from outside his own province, Vindex called upon Servius Sulpicius Galba, the governor of Hispania Tarraconensis, to join the rebellion and further, to declare himself emperor in opposition to Nero.[117]
 
 At the Battle of Vesontio in May 68, Verginius' forces easily defeated those of Vindex and the latter committed suicide.[118] However, after putting down this one rebel, Verginius' legions attempted to proclaim their own commander as Emperor. Verginius refused to act against Nero, but the discontent of the legions of Germany and the continued opposition of Galba in Spain did not bode well for him.
 
@@ -98,13 +96,13 @@ Returning, Nero sought a place where he could hide and collect his thoughts. An 
 
 At this time, a courier arrived with a report that the Senate had declared Nero a public enemy, that it was their intention to execute him by beating him to death, and that armed men had been sent to apprehend him for the act to take place in the Roman Forum. The Senate actually was still reluctant and deliberating on the right course of action, as Nero was the last member of the Julio-Claudian Family. Indeed, most of the senators had served the imperial family all their lives and felt a sense of loyalty to the deified bloodline, if not to Nero himself. The men actually had the goal of returning Nero back to the Senate, where the Senate hoped to work out a compromise with the rebelling governors that would preserve Nero's life, so that at least a future heir to the dynasty could be produced.[122]
 
-Nero, however, did not know this, and at the news brought by the courier, he prepared himself for suicide, pacing up and down muttering _Qualis artifex pereo_ ("What an artist dies in me").[123] Losing his nerve, he begged one of his companions to set an example by killing himself first. At last, the sound of approaching horsemen drove Nero to face the end. However, he still could not bring himself to take his own life but instead he forced his private secretary, Epaphroditos, to perform the task.[124] A_select_collection_of_views_and_ruins_in_Rome_and_its_vicinity_-_recently_executed_from_drawings_made_upon_the_spot_(1815)_(14592716650).jpg.]] When one of the horsemen entered and saw that Nero was dying, he attempted to stop the bleeding, but efforts to save Nero's life were unsuccessful. Nero's final words were "Too late! This is fidelity!"[125] He died on 9 June 68, the anniversary of the death of Octavia, and was buried in the Mausoleum of the Domitii Ahenobarbi, in what is now the Villa Borghese (Pincian Hill) area of Rome.[126]
+Nero, however, did not know this, and at the news brought by the courier, he prepared himself for suicide, pacing up and down muttering _Qualis artifex pereo_ ("What an artist dies in me").[123] Losing his nerve, he begged one of his companions to set an example by killing himself first. At last, the sound of approaching horsemen drove Nero to face the end. However, he still could not bring himself to take his own life but instead he forced his private secretary, Epaphroditos, to perform the task.[124] .]] When one of the horsemen entered and saw that Nero was dying, he attempted to stop the bleeding, but efforts to save Nero's life were unsuccessful. Nero's final words were "Too late! This is fidelity!"[125] He died on 9 June 68, the anniversary of the death of Octavia, and was buried in the Mausoleum of the Domitii Ahenobarbi, in what is now the Villa Borghese (Pincian Hill) area of Rome.[126]
 
 With his death, the Julio-Claudian dynasty ended.[127] When news of his death reached Rome, the Senate posthumously declared Nero a public enemy to appease the coming Galba (as the Senate had initially declared Galba as a public enemy) and proclaimed Galba as the new emperor. Chaos would ensue in the year of the Four Emperors.[128]
 
 After Nero
 
-Nero-nancy.jpg of Nero, c. after 68. Artwork portraying Nero rising to divine status after his death.]] According to Suetonius and Cassius Dio, the people of Rome celebrated the death of Nero.[129][130] Tacitus, though, describes a more complicated political environment. Tacitus mentions that Nero's death was welcomed by Senators, nobility and the upper class.[131] The lower-class, slaves, frequenters of the arena and the theater, and "those who were supported by the famous excesses of Nero", on the other hand, were upset with the news.[132] Members of the military were said to have mixed feelings, as they had allegiance to Nero, but had been bribed to overthrow him.[133]
+of Nero, c. after 68. Artwork portraying Nero rising to divine status after his death.]] According to Suetonius and Cassius Dio, the people of Rome celebrated the death of Nero.[129][130] Tacitus, though, describes a more complicated political environment. Tacitus mentions that Nero's death was welcomed by Senators, nobility and the upper class.[131] The lower-class, slaves, frequenters of the arena and the theater, and "those who were supported by the famous excesses of Nero", on the other hand, were upset with the news.[132] Members of the military were said to have mixed feelings, as they had allegiance to Nero, but had been bribed to overthrow him.[133]
 
 Eastern sources, namely Philostratus and Apollonius of Tyana, mention that Nero's death was mourned as he "restored the liberties of Hellas with a wisdom and moderation quite alien to his character"[134] and that he "held our liberties in his hand and respected them."[135]
 
@@ -169,7 +167,7 @@ Epictetus
 
 Epictetus (c. 55–135) was the slave to Nero's scribe Epaphroditos.[183] He makes a few passing negative comments on Nero's character in his work, but makes no remarks on the nature of his rule. He describes Nero as a spoiled, angry and unhappy man.
 
-Josephus.jpg (c. 37–100) who accused other historians of slandering Nero.]]
+(c. 37–100) who accused other historians of slandering Nero.]]
 
 Josephus
 
@@ -222,9 +220,9 @@ Roman and Greek sources nowhere report Nero's alleged trip to Jerusalem or his a
 
 Christian tradition
 
-Siemiradzki_Christian_Dirce.jpg. A Christian woman is martyred in this re-enactment of the myth of Dirce.]]
+. A Christian woman is martyred in this re-enactment of the myth of Dirce.]]
 
-Siemiradski_Fackeln.jpg Non-Christian historian Tacitus describes Nero extensively torturing and executing Christians after the fire of 64.[192] Suetonius also mentions Nero punishing Christians, though he does so because they are "given to a new and mischievous superstition" and does not connect it with the fire.[193]
+Non-Christian historian Tacitus describes Nero extensively torturing and executing Christians after the fire of 64.[192] Suetonius also mentions Nero punishing Christians, though he does so because they are "given to a new and mischievous superstition" and does not connect it with the fire.[193]
 
 Christian writer Tertullian (c. 155–230) was the first to call Nero the first persecutor of Christians. He wrote, "Examine your records. There you will find that Nero was the first that persecuted this doctrine".[194] Lactantius (c. 240–320) also said that Nero "first persecuted the servants of God".[195] as does Sulpicius Severus.[196] However, Suetonius writes that, "since the Jews constantly made disturbances at the instigation of Chrestus, the [emperor Claudius] expelled them from Rome" ("_Iudaeos impulsore Chresto assidue tumultuantis Roma expulit_").[197] These expelled "Jews" may have been early Christians, although Suetonius is not explicit. Nor is the Bible explicit, calling Aquila of Pontus and his wife, Priscilla, both expelled from Italy at the time, "Jews" (Acts 18:2).[198]
 

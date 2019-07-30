@@ -8,7 +8,7 @@ The name _piña colada_ (spanish) literally means "strained pineapple", a refere
 
 History
 
-Piña_Colada_plate_in_Old_San_Juan,_Puerto_Rico.jpg The earliest known story states that in the 19th century, Puerto Rican pirate Roberto Cofresí, to boost his crew's morale, gave them a beverage or cocktail that contained coconut, pineapple and white rum.[1] This was what would be later known as the famous piña colada. With his death in 1825, the recipe for the piña colada was lost. Historian Haydée Reichard disputes this version of the story.[2]
+The earliest known story states that in the 19th century, Puerto Rican pirate Roberto Cofresí, to boost his crew's morale, gave them a beverage or cocktail that contained coconut, pineapple and white rum.[1] This was what would be later known as the famous piña colada. With his death in 1825, the recipe for the piña colada was lost. Historian Haydée Reichard disputes this version of the story.[2]
 
 In 1950 _The New York Times_ reported that "Drinks in the West Indies range from Martinique's famous rum punch to Cuba's pina colada (rum, pineapple and coconut milk)."[3]
 
@@ -32,7 +32,7 @@ The cocktail serves as part of the title of the Garth Brooks song "Two Piña Col
 
 Preparation
 
-Piña_colada.jpg As recounted by his friends in José L. Díaz de Villegas's book, the original Monchito recipe was to pour 85 grams of cream of coconut, 170 grams of pineapple juice and 43 grams of white rum into a blender or shaker with crushed ice, blend or shake very well until smooth, then pour into chilled glass and garnish with pineapple wedge and/or a maraschino cherry. Longdrink
+As recounted by his friends in José L. Díaz de Villegas's book, the original Monchito recipe was to pour 85 grams of cream of coconut, 170 grams of pineapple juice and 43 grams of white rum into a blender or shaker with crushed ice, blend or shake very well until smooth, then pour into chilled glass and garnish with pineapple wedge and/or a maraschino cherry. Longdrink
 
 There are many recipes for piña colada. The International Bartenders Association specifies it is:
 

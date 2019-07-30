@@ -45,7 +45,7 @@ Kajang's main population centres are Taman Saujana Impian, Sg. Kantan, Sg.Jelok,
 
 Landmarks
 
-Masjid_Kajang.jpg The centre of Kajang is Old Town. Most of the colonial-era buildings were constructed around the 1920s to 1930s. The architecture of these shophouses is a combination of traditional Chinese and European designs. The ground floor was used mostly for commercial activities and the upper floor as the family living quarters.
+The centre of Kajang is Old Town. Most of the colonial-era buildings were constructed around the 1920s to 1930s. The architecture of these shophouses is a combination of traditional Chinese and European designs. The ground floor was used mostly for commercial activities and the upper floor as the family living quarters.
 
 One of Kajang's landmarks is Kajang Stadium which is situated in the heart of the town.The stadium can accommodate up to 5,000 people and is used throughout the year for the community soccer competitions.
 
@@ -69,7 +69,7 @@ Kajang station, though so named, does not directly serve downtown Kajang; Stadiu
 
 Food and tourism
 
-Haji_Samuri.jpg is situated]] Kajang is famous for its _sate_, a form of skewered barbecued meat. Informally, Kajang is known as the _Sate Town._[3]
+is situated]] Kajang is famous for its _sate_, a form of skewered barbecued meat. Informally, Kajang is known as the _Sate Town._[3]
 
 
 Government and infrastructure
@@ -79,12 +79,10 @@ The Malaysia Prison Complex (_Kompleks Penjara Kajang_), headquarters of the Pri
 
 Shopping
 
-Tesco_Kajang.jpg Kajang has multiple shopping complexes. The Billion Shopping Center in Kajang town is located in Bandar Teknologi Kajang. Other shopping centres located are Metro Plaza Kajang, Metro Point and Kompleks Kota Kajang. Metro Avenue is a new shopping district located opposite SMJK Yu Hua Kajang and Kajang High School.
+Kajang has multiple shopping complexes. The Billion Shopping Center in Kajang town is located in Bandar Teknologi Kajang. Other shopping centres located are Metro Plaza Kajang, Metro Point and Kompleks Kota Kajang. Metro Avenue is a new shopping district located opposite SMJK Yu Hua Kajang and Kajang High School.
 
 
 Facilities and amenities
-
-Courts_Mammoth_Kajang.jpg
 
 Public hospitals are free and found within and around Kajang town, including Hospital Kajang, Hospital Serdang and Hospital Putrajaya. Private medical centres function 24 hours and include facilities such as Poliklinik MUC @Metro Point, Klinik Mediviron Prima Saujana, Kajang Plaza Medical Centre (KPMC) and KPJ Kajang Specialist Hospital.
 
@@ -94,8 +92,6 @@ The Hulu Langat District Police Headquarters are located in the town centre. Oth
 Education
 
 Primary
-
-SK_Sungai_Kantan.jpg
 
 -   Al-Amin Sungai Tangkas
 -   Rafflesia International School Kajang 2
@@ -137,8 +133,6 @@ Secondary
 -   SMK Tinggi Kajang (Kajang High School)
 -   SMKA Maahad Hamidiah
 -   Tanarata International Schools
-
-New_Era_College.jpg
 
 Tertiary
 

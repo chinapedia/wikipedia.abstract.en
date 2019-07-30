@@ -21,7 +21,7 @@ The city had a medieval Jewish community.[4] The Palatine Library houses the lar
 
 Middle Ages
 
-Battistero.jpg, 1196-1270]]
+, 1196-1270]]
 
 Under Frankish rule, Parma became the capital of a county (774). Like most northern Italian cities, it was nominally a part of the Holy Roman Empire created by Charlemagne, but locally ruled by its bishops, the first being Guibodus. In the subsequent struggles between the Papacy and the Empire, Parma was usually a member of the Imperial party. Two of its bishops became antipopes: Càdalo, founder of the cathedral, as Honorius II; and Guibert, as Clement III. An almost independent commune was created around 1140; a treaty between Parma and Piacenza of 1149 is the earliest document of a _comune_ headed by consuls.[6] After the Peace of Constance (1183) confirmed the Italian communes' rights of self-governance, long-standing quarrels with the neighbouring communes of Reggio Emilia, Piacenza and Cremona became harsher, with the aim of controlling the vital trading line over the Po River.
 
@@ -29,9 +29,9 @@ The struggle between Guelphs and Ghibellines was a feature of Parma too. In 1213
 
 Modern era
 
-Parma_nel_XV_secolo.jpg Parma fell under the control of Milan in 1341. After a short-lived period of independence under the Terzi family (1404–1409), the Sforza imposed their rule (1440–1449) through their associated families of Pallavicino, Rossi, Sanvitale and Da Correggio. These created a kind of new feudalism, building towers and castles throughout the city and the land. These fiefs evolved into truly independent states: the Landi governed the higher Taro's valley from 1257 to 1682. The Pallavicino seignory extended over the eastern part of today's province, with the capital in Busseto. Parma's territories were an exception for Northern Italy, as its feudal subdivision frequently continued until more recent years. For example, Solignano was a Pallavicino family possession until 1805, and San Secondo belonged to the Rossi well into the 19th century.
+Parma fell under the control of Milan in 1341. After a short-lived period of independence under the Terzi family (1404–1409), the Sforza imposed their rule (1440–1449) through their associated families of Pallavicino, Rossi, Sanvitale and Da Correggio. These created a kind of new feudalism, building towers and castles throughout the city and the land. These fiefs evolved into truly independent states: the Landi governed the higher Taro's valley from 1257 to 1682. The Pallavicino seignory extended over the eastern part of today's province, with the capital in Busseto. Parma's territories were an exception for Northern Italy, as its feudal subdivision frequently continued until more recent years. For example, Solignano was a Pallavicino family possession until 1805, and San Secondo belonged to the Rossi well into the 19th century.
 
-Parma,_palazzo_della_pilotta_01.jpg in the Piazza della Pace. The rebuilt part on the right is where once was the church of St.Peter. The large hole was caused by an Allies bombing.]] Between the 14th and the 15th centuries, Parma was at the centre of the Italian Wars. The Battle of Fornovo was fought in its territory. The French held the city in 1500–1521, with a short Papal parenthesis in 1512–1515. After the foreigners were expelled, Parma belonged to the Papal States until 1545.
+in the Piazza della Pace. The rebuilt part on the right is where once was the church of St.Peter. The large hole was caused by an Allies bombing.]] Between the 14th and the 15th centuries, Parma was at the centre of the Italian Wars. The Battle of Fornovo was fought in its territory. The French held the city in 1500–1521, with a short Papal parenthesis in 1512–1515. After the foreigners were expelled, Parma belonged to the Papal States until 1545.
 
 In that year the Farnese pope, Paul III, detached Parma and Piacenza from the Papal States and gave them as a duchy to his illegitimate son, Pier Luigi Farnese, whose descendants ruled in Parma until 1731, when Antonio Farnese, last male of the Farnese line, died. In 1594 a constitution was promulgated, the University enhanced and the Nobles' College founded. The war to reduce the barons' power continued for several years: in 1612 Barbara Sanseverino was executed in the central square of Parma, together with six other nobles charged of plotting against the duke. At the end of the 17th century, after the defeat of Pallavicini (1588) and Landi (1682) the Farnese duke could finally hold with firm hand all Parmense territories. The castle of the Sanseverino in Colorno was turned into a luxurious summer palace by Ferdinando Bibiena.
 
@@ -40,8 +40,6 @@ In the Treaty of London (1718) it was promulgated that the heir to the combined 
 Parma was under French influence after the Peace of Aachen (1748). Parma became a modern state with the energetic action of prime minister Guillaume du Tillot. He created the bases for a modern industry and fought strenuously against the church's privileges. The city lived a period of particular splendour: the Biblioteca Palatina (Palatine Library), the Archaeological Museum, the Picture Gallery and the Botanical Garden were founded, together with the Royal Printing Works directed by Giambattista Bodoni, aided by the Amoretti Brothers as skilled and inspired punchcutters.
 
 Contemporary age
-
-Parma_1832.jpg
 
 During the Napoleonic Wars (1802–1814), Parma was annexed to France and made capital of the Taro Department. Under its French name PARME, it was also created a _duché grand-fief de l'Empire_ for Charles-François Lebrun, duc de Plaisance, the Emperor's Arch-Treasurer, on 24 April 1808 (extinguished 1926).
 
@@ -62,7 +60,7 @@ The following data comes from the weather station located at the University in t
 
 Main sights
 
-San_Giovanni_Evangelista.JPG façade of the church of San Giovanni Evangelista, by Simone Moschino (1604), with sculpture by Giambattista Carra da Bissone[8]]] Parma-sanfrancesco01.jpg
+façade of the church of San Giovanni Evangelista, by Simone Moschino (1604), with sculpture by Giambattista Carra da Bissone[8]]]
 
 Churches
 
@@ -146,7 +144,7 @@ Culture
 
 Food and cuisine
 
-09_Parma_night,_Italy_-_イタリアのカフェ.jpg Parma is famous for its food and rich gastronomical tradition: Parmigiano Reggiano cheese (also produced in Reggio Emilia), Prosciutto di Parma (Parma ham). Parma also claims several stuffed pasta dishes like "tortelli d'erbetta" and "anolini in brodo".
+Parma is famous for its food and rich gastronomical tradition: Parmigiano Reggiano cheese (also produced in Reggio Emilia), Prosciutto di Parma (Parma ham). Parma also claims several stuffed pasta dishes like "tortelli d'erbetta" and "anolini in brodo".
 
 In 2004 Parma was appointed the seat of the European Food Safety Authority (EFSA) and was appointed to the Creative Cities Network as UNESCO City of Gastronomy. Parma also has two food multinationals, Barilla and Parmalat and a medium-large food tourism sector represented by Parma Golosa and Food Valley companies.
 
@@ -154,13 +152,13 @@ File:Parmigiano_reggiano_piece.jpg%7CParmigiano-Reggiano cheese, the true "parme
 
 _Frazioni_
 
-Parma_Opera_e_Biciclette.jpg]]
+]]
 
 The comune (municipality) of Parma is subdivided into a number of frazioni: Alberi, Baganzola, Bedonia, Beneceto, Borgo Val di Taro, Botteghino, Ca'Terzi, Calestano, Carignano, Carpaneto, Cartiera, Casalbaroncolo, Casalora di Ravadese, Casaltone, Case Capelli, Case Cocconi, Case Crostolo, Case Nuove, Case Rosse, Case Vecchie, Casino dalla Rosa, Casagnola, Castelletto, Castelnovo, Cervara, Chiozzola, Coloreto, Corcagnano, Eia, Fontanini, Fontanellato, Gaione, Ghiaiata Nuova, Il Moro, La Catena, La Palazzina, Malandriano, Marano, Marore, Martorano, Molino di Malandriano, Osteria San Martino, Panocchia, Paradigna, Pedrignano, Pilastrello, Pizzolese, Ponte, Porporano, Pozzetto Piccolo, Quercioli, Ravadese, Ronco Pascolo, Rosa, San Pancrazio, San Prospero, San Ruffino, San Secondo, Sissa, Soragna, Tizzano Val Parma, Valera, Viarolo, Viazza, Vicofertile, Vicomero, Vigatto, Vigheffio, Vigolante.
 
 People
 
-Correggio_010.jpg's frescoes in the _Camera di San Paolo_.]]
+'s frescoes in the _Camera di San Paolo_.]]
 
 Painters and sculptors
 
@@ -211,7 +209,7 @@ Others
 
 Sport
 
-Stadio_Ennio_Tardini_5.JPG fans at the Stadio Ennio Tardini, one of the oldest stadiums in Italy.]] Parma Calcio 1913, founded in 2015, is a Serie A (first division) football club. It replaced Parma F.C., which went bankrupt in 2015. It plays in the city's Stadio Ennio Tardini, which opened in 1923 and seats up to 23,000.
+fans at the Stadio Ennio Tardini, one of the oldest stadiums in Italy.]] Parma Calcio 1913, founded in 2015, is a Serie A (first division) football club. It replaced Parma F.C., which went bankrupt in 2015. It plays in the city's Stadio Ennio Tardini, which opened in 1923 and seats up to 23,000.
 
 Parma's other sport team is the rugby union club Zebre which competes in Pro14, one of the top rugby competitions in the world. Parma also is home to two rugby union teams in the top national division, Overmach Rugby Parma and SKG Gran Rugby.
 

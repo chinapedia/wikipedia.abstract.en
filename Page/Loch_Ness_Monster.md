@@ -39,8 +39,6 @@ Hugh Gray's photograph taken near Foyers on 12 November 1933 was the first photo
 
 Arthur Grant (1934)
 
-Arthur_Grant_loch_ness_sketch.png
-
 On 5 January 1934 a motorcyclist, Arthur Grant, claimed to have nearly hit the creature while approaching Abriachan (near the north-eastern end of the loch) at about 1 a.m. on a moonlit night.[32] According to Grant, it had a small head attached to a long neck; the creature saw him, and crossed the road back to the loch. Grant, a veterinary student, described it as a cross between a seal and a plesiosaur. He said he dismounted and followed it to the loch, but only saw ripples.[33][34]
 
 Grant produced a sketch of the creature which was examined by zoologist Maurice Burton, who stated it was consistent with the appearance and behaviour of an otter.[35] Regarding the long size of the creature reported by Grant; it has been suggested that this was a faulty observation due to the poor light conditions.[36] Palaeontologist Darren Naish has suggested that Grant may have seen either an otter or a seal and exaggerated his sighting over time.[37]
@@ -114,7 +112,7 @@ Searches
 
 Edward Mountain expedition (1934)
 
-LochNessUrquhart.jpg After reading Rupert Gould's _The Loch Ness Monster and Others_,[92] Edward Mountain financed a search. Twenty men with binoculars and cameras positioned themselves around the loch from 9 am to 6 pm for five weeks, beginning on 13 July 1934. Although 21 photographs were taken, none was considered conclusive. Supervisor James Fraser remained by the loch filming on 15 September 1934; the film is now lost.[93] Zoologists and professors of natural history concluded that the film showed a seal, possibly a grey seal.[94]
+After reading Rupert Gould's _The Loch Ness Monster and Others_,[92] Edward Mountain financed a search. Twenty men with binoculars and cameras positioned themselves around the loch from 9 am to 6 pm for five weeks, beginning on 13 July 1934. Although 21 photographs were taken, none was considered conclusive. Supervisor James Fraser remained by the loch filming on 15 September 1934; the film is now lost.[93] Zoologists and professors of natural history concluded that the film showed a seal, possibly a grey seal.[94]
 
 Loch Ness Phenomena Investigation Bureau (1962–1972)
 
@@ -219,7 +217,7 @@ In the 1930s, big-game hunter Marmaduke Wetherell went to Loch Ness to look for 
 
 In 1972 a team of zoologists from Yorkshire's Flamingo Park Zoo, searching for the monster, discovered a large body floating in the water. The corpse, long and weighing as much as 1.5 tonnes, was described by the Press Association as having "a bear's head and a brown scaly body with clawlike fins." The creature was placed in a van to be carried away for testing, but police seized the cadaver under an act of parliament prohibiting the removal of "unidentified creatures" from Loch Ness. It was later revealed that Flamingo Park education officer John Shields shaved the whiskers and otherwise disfigured a bull elephant seal which had died the week before and dumped it in Loch Ness to dupe his colleagues. On 2 July 2003, Gerald McSorely discovered a fossil, supposedly from the creature, when he tripped and fell into the loch. After examination, it was clear that the fossil had been planted.[150]
 
-Cryptoclidus.JPG'' model used in the Five TV programme, _Loch Ness Monster: The Ultimate Experiment_]] In 2004 a Five TV documentary team, using cinematic special-effects experts, tried to convince people that there was something in the loch. They constructed an animatronic model of a plesiosaur, calling it "Lucy". Despite setbacks (including Lucy falling to the bottom of the loch), about 600 sightings were reported where she was placed.[151][152]
+'' model used in the Five TV programme, _Loch Ness Monster: The Ultimate Experiment_]] In 2004 a Five TV documentary team, using cinematic special-effects experts, tried to convince people that there was something in the loch. They constructed an animatronic model of a plesiosaur, calling it "Lucy". Despite setbacks (including Lucy falling to the bottom of the loch), about 600 sightings were reported where she was placed.[151][152]
 
 In 2005, two students claimed to have found a large tooth embedded in the body of a deer on the loch shore. They publicised the find, setting up a website, but expert analysis soon revealed that the "tooth" was the antler of a muntjac. The tooth was a publicity stunt to promote a horror novel by Steve Alten, _The Loch._[153]
 
@@ -227,7 +225,7 @@ Exotic large-animal species
 
 Plesiosaur
 
-Lochneska_poboba_museumofnessie.jpg]] In 1933 it was suggested that the creature "bears a striking resemblance to the supposedly extinct plesiosaur",[154] a long-necked aquatic reptile which became extinct during the Cretaceous–Paleogene extinction event. A popular explanation at the time, the following arguments have been made against it:
+]] In 1933 it was suggested that the creature "bears a striking resemblance to the supposedly extinct plesiosaur",[154] a long-necked aquatic reptile which became extinct during the Cretaceous–Paleogene extinction event. A popular explanation at the time, the following arguments have been made against it:
 
 -   Plesiosaurs were probably cold-blooded reptiles needing warm tropical waters; the average temperature of Loch Ness is only about .[155] If the plesiosaurs were warm-blooded, they would require a food supply beyond that supplied by Loch Ness.[156]
 -   In an October 2006 _New Scientist_ article, "Why the Loch Ness Monster is no plesiosaur", Leslie Noè of the Sedgwick Museum in Cambridge said: "The osteology of the neck makes it absolutely certain that the plesiosaur could not lift its head up swan-like out of the water".[157]

@@ -15,11 +15,11 @@ Margaret Hilda Roberts was born on 13 October 1925, in Grantham, Lincolnshire. H
 
 Alfred Roberts was an alderman and a Methodist local preacher, and brought up his daughter as a strict Wesleyan Methodist,[1] attending the Finkin Street Methodist Church.[2] He came from a Liberal family but stood (as was then customary in local government) as an Independent. He served as Mayor of Grantham in 1945–46 and lost his position as alderman in 1952 after the Labour Party won its first majority on Grantham Council in 1950.
 
-Margaret_Thatcher_aos_13_anos_de_idade_(2).jpg Margaret Roberts attended Huntingtower Road Primary School and won a scholarship to Kesteven and Grantham Girls' School, a grammar school.[3] Her school reports showed hard work and continual improvement; her extracurricular activities included the piano, field hockey, poetry recitals, swimming and walking. She was head girl in 1942–43.[4] In her upper sixth year she applied for a scholarship to study chemistry at Somerville College, Oxford, a women's college, and received a place after another candidate withdrew.
+Margaret Roberts attended Huntingtower Road Primary School and won a scholarship to Kesteven and Grantham Girls' School, a grammar school.[3] Her school reports showed hard work and continual improvement; her extracurricular activities included the piano, field hockey, poetry recitals, swimming and walking. She was head girl in 1942–43.[4] In her upper sixth year she applied for a scholarship to study chemistry at Somerville College, Oxford, a women's college, and received a place after another candidate withdrew.
 
 Oxford: 1943–1947
 
-Somerville_College.jpg (_pictured_{{--)}} in 1943–47]] Roberts arrived at Oxford in 1943 and graduated in 1947 with Second-Class Honours, in the four-year Chemistry Bachelor of Science degree, specialising in X-ray crystallography under the supervision of Dorothy Hodgkin. Her dissertation was on the structure of the antibiotic gramicidin. Roberts did not only study chemistry as she only intended to be a chemist for a short period of time, already thinking about law and politics.[5] She was reportedly prouder of becoming the first Prime Minister with a science degree than becoming the first woman,[6] and as Prime Minister attempted to preserve Somerville as a women's college.[7]
+(_pictured_{{--)}} in 1943–47]] Roberts arrived at Oxford in 1943 and graduated in 1947 with Second-Class Honours, in the four-year Chemistry Bachelor of Science degree, specialising in X-ray crystallography under the supervision of Dorothy Hodgkin. Her dissertation was on the structure of the antibiotic gramicidin. Roberts did not only study chemistry as she only intended to be a chemist for a short period of time, already thinking about law and politics.[5] She was reportedly prouder of becoming the first Prime Minister with a science degree than becoming the first woman,[6] and as Prime Minister attempted to preserve Somerville as a women's college.[7]
 
 During her time at Oxford, Roberts was noted for her isolated and serious attitude.[8] Her first boyfriend, Tony Bray (1926–2014), recalled that she was "very thoughtful and a very good conversationalist. That's probably what interested me. She was good at general subjects".[9] Roberts's enthusiasm for politics as a girl made him think of her as "unusual". Bray met her parents and described them as "slightly austere" and "very proper".
 
@@ -60,7 +60,7 @@ Around this time she gave her first Commons speech as a Shadow Transport ministe
 
 Education Secretary: 1970–1974
 
-Girls_at_Baldock_County_Council_School_in_Hertfordshire_enjoy_a_drink_of_milk_during_a_break_in_the_school_day_in_1944._D20552.jpg The Conservative Party led by Edward Heath won the 1970 general election, and Thatcher was subsequently appointed to the Cabinet as Secretary of State for Education and Science. Thatcher caused controversy when after only a few days in office she withdrew Labour's Circular 10/65 which attempted to force comprehensivisation, without going through a consultation progress. She was highly criticized for the speed in which she carried this out. Consequently, she drafted her own new policy (Circular 10/70) which ensured that a local authority was not forced to go comprehensive. Her new policy was not meant to stop the development of new comprehensives; she said: "We shall ... expect plans to be based on educational considerations rather than on the comprehensive principle."
+The Conservative Party led by Edward Heath won the 1970 general election, and Thatcher was subsequently appointed to the Cabinet as Secretary of State for Education and Science. Thatcher caused controversy when after only a few days in office she withdrew Labour's Circular 10/65 which attempted to force comprehensivisation, without going through a consultation progress. She was highly criticized for the speed in which she carried this out. Consequently, she drafted her own new policy (Circular 10/70) which ensured that a local authority was not forced to go comprehensive. Her new policy was not meant to stop the development of new comprehensives; she said: "We shall ... expect plans to be based on educational considerations rather than on the comprehensive principle."
 
 Thatcher supported Lord Rothschild's 1971 proposal for market forces to affect government funding of research. Although many scientists opposed the proposal, her research background probably made her sceptical of their claim that outsiders should not interfere with funding. The department evaluated proposals for more local education authorities to close grammar schools and to adopt comprehensive secondary education. Although Thatcher was committed to a tiered secondary modern-grammar school system of education and attempted to preserve grammar schools, during her tenure as Education Secretary she turned down only 326 of 3,612 proposals (roughly 9 per cent) for schools to become comprehensives; the proportion of pupils attending comprehensive schools consequently rose from 32 per cent to 62 per cent. Nevertheless, she managed to save 94 grammar schools.
 
@@ -113,7 +113,7 @@ Some Heathite Conservatives in the Cabinet, the so-called "wets", expressed doub
 
 Thatcher's job approval rating fell to 23% by December 1980, lower than recorded for any previous Prime Minister. As the recession of the early 1980s deepened, she increased taxes, despite concerns expressed in a March 1981 statement signed by 364 leading economists,[50] which argued there was "no basis in economic theory ... for the Government's belief that by deflating demand they will bring inflation permanently under control", adding that "present policies will deepen the depression, erode the industrial base of our economy and threaten its social and political stability".[51]
 
-Margaret_Thatcher_visiting_Salford.jpg in 1982]] By 1982, the UK began to experience signs of economic recovery; inflation was down to 8.6% from a high of 18%, but unemployment was over 3 million for the first time since the 1930s.[52] By 1983, overall economic growth was stronger, and inflation and mortgage rates had fallen to their lowest levels in 13 years, although manufacturing employment as a share of total employment fell to just over 30%, with total unemployment remaining high, peaking at 3.3 million in 1984.[53]
+in 1982]] By 1982, the UK began to experience signs of economic recovery; inflation was down to 8.6% from a high of 18%, but unemployment was over 3 million for the first time since the 1930s.[52] By 1983, overall economic growth was stronger, and inflation and mortgage rates had fallen to their lowest levels in 13 years, although manufacturing employment as a share of total employment fell to just over 30%, with total unemployment remaining high, peaking at 3.3 million in 1984.[53]
 
 During the 1982 Conservative Party Conference, Thatcher said: "We have done more to roll back the frontiers of socialism than any previous Conservative Government."[54] She claimed at the Party Conference the following year that the British people had completely rejected state socialism and understood "the state has no source of money other than money which people earn themselves ... There is no such thing as public money; there is only taxpayers' money."[55]
 
@@ -151,7 +151,7 @@ The privatisation of public assets was combined with financial deregulation in a
 
 Northern Ireland
 
-Margaret_Thatcher_on_a_visit_to_Northern_Ireland.jpg on a visit to Northern Ireland in late 1982]] In 1980 and 1981, Provisional Irish Republican Army (PIRA) and Irish National Liberation Army (INLA) prisoners in Northern Ireland's Maze Prison carried out hunger strikes in an effort to regain the status of political prisoners that had been removed in 1976 by the preceding Labour government. Bobby Sands began the 1981 strike, saying that he would fast until death unless prison inmates won concessions over their living conditions.[78] Thatcher refused to countenance a return to political status for the prisoners, having declared "Crime is crime is crime; it is not political", Nevertheless, the British government privately contacted republican leaders in a bid to bring the hunger strikes to an end.[79] After the deaths of Sands and nine others, the strike ended. Some rights were restored to paramilitary prisoners, but not official recognition of political status. Violence in Northern Ireland escalated significantly during the hunger strikes.
+on a visit to Northern Ireland in late 1982]] In 1980 and 1981, Provisional Irish Republican Army (PIRA) and Irish National Liberation Army (INLA) prisoners in Northern Ireland's Maze Prison carried out hunger strikes in an effort to regain the status of political prisoners that had been removed in 1976 by the preceding Labour government. Bobby Sands began the 1981 strike, saying that he would fast until death unless prison inmates won concessions over their living conditions.[78] Thatcher refused to countenance a return to political status for the prisoners, having declared "Crime is crime is crime; it is not political", Nevertheless, the British government privately contacted republican leaders in a bid to bring the hunger strikes to an end.[79] After the deaths of Sands and nine others, the strike ended. Some rights were restored to paramilitary prisoners, but not official recognition of political status. Violence in Northern Ireland escalated significantly during the hunger strikes.
 
 Thatcher narrowly escaped injury in an IRA assassination attempt at a Brighton hotel early in the morning on 12 October 1984.[80] Five people were killed, including the wife of minister John Wakeham. Thatcher was staying at the hotel to prepare for the Conservative Party conference, which she insisted should open as scheduled the following day. She delivered her speech as planned, though rewritten from her original draft,[81] in a move that was widely supported across the political spectrum and enhanced her popularity with the public.
 
@@ -177,7 +177,7 @@ Thatcher was one of the first Western leaders to respond warmly to reformist Sov
 
 Ties with the US
 
-Reagan-Thatcher_cabinet_talks.jpg in the White House Cabinet Room, 1981]] Thatcher became closely aligned with the Cold War policies of US President Ronald Reagan, based on their shared distrust of Communism. A disagreement came in 1983 when Reagan did not consult with her on the invasion of Grenada.[96]
+in the White House Cabinet Room, 1981]] Thatcher became closely aligned with the Cold War policies of US President Ronald Reagan, based on their shared distrust of Communism. A disagreement came in 1983 when Reagan did not consult with her on the invasion of Grenada.[96]
 
 During her first year as Prime Minister she supported NATO's decision to deploy US nuclear cruise and Pershing II missiles in Western Europe, permitting the US to station more than 160 cruise missiles at RAF Greenham Common, starting in November 1983 and triggering mass protests by the Campaign for Nuclear Disarmament. She bought the Trident nuclear missile submarine system from the US to replace Polaris, tripling the UK's nuclear forces[97] at an eventual cost of more than £12 billion (at 1996–97 prices).[98] Thatcher's preference for defence ties with the US was demonstrated in the Westland affair of 1985–86, when she acted with colleagues to allow the struggling helicopter manufacturer Westland to refuse a takeover offer from the Italian firm Agusta in favour of the management's preferred option, a link with Sikorsky Aircraft. Defence Secretary Michael Heseltine, who had supported the Agusta deal, resigned from the government in protest.
 
@@ -207,7 +207,7 @@ Thatcher, sharing the concerns of French President François Mitterrand,[119] wa
 
 Challenges to leadership and resignation
 
-Thatcher_reviews_troops.jpg in early 1990]] Thatcher was challenged for the leadership of the Conservative Party by the little-known backbench MP Sir Anthony Meyer in the 1989 leadership election.[121] Of the 374 Conservative MPs eligible to vote, 314 voted for Thatcher and 33 for Meyer. Her supporters in the party viewed the result as a success, and rejected suggestions that there was discontent within the party.
+in early 1990]] Thatcher was challenged for the leadership of the Conservative Party by the little-known backbench MP Sir Anthony Meyer in the 1989 leadership election.[121] Of the 374 Conservative MPs eligible to vote, 314 voted for Thatcher and 33 for Meyer. Her supporters in the party viewed the result as a success, and rejected suggestions that there was discontent within the party.
 
 During her premiership Thatcher had the second-lowest average approval rating (40%) of any post-war Prime Minister. Since the resignation of Nigel Lawson as Chancellor in October 1989, polls consistently showed that she was less popular than her party.[122] A self-described conviction politician, Thatcher always insisted that she did not care about her poll ratings and pointed instead to her unbeaten election record.[123]
 
@@ -224,7 +224,7 @@ Thatcher was replaced as Prime Minister and party leader by Chancellor John Majo
 
 Later life
 
-Margaret_Thatcher_at_the_Council.jpg, 1991]] Thatcher returned to the backbenches as a constituency parliamentarian after leaving the premiership. Her domestic approval rating recovered after her resignation; the balance of public opinion was that her government had been good for the country.[135] Aged 66, she retired from the House at the 1992 general election, saying that leaving the Commons would allow her more freedom to speak her mind.[136]
+, 1991]] Thatcher returned to the backbenches as a constituency parliamentarian after leaving the premiership. Her domestic approval rating recovered after her resignation; the balance of public opinion was that her government had been good for the country.[135] Aged 66, she retired from the House at the 1992 general election, saying that leaving the Commons would allow her more freedom to speak her mind.[136]
 
 Post-Commons: 1992–2003
 
@@ -244,7 +244,7 @@ After Tony Blair's election as Labour Party leader in 1994, Thatcher praised Bla
 
 In 1998, Thatcher called for the release of former Chilean dictator Augusto Pinochet when Spain had him arrested and sought to try him for human rights violations. She cited the help he gave Britain during the Falklands War.[152] In 1999, she visited him while he was under house arrest near London.[153] Pinochet was released in March 2000 on medical grounds by Home Secretary Jack Straw.[154]
 
-Margaret_Thatcher.jpg in early 2001]] At the 2001 general election, Thatcher supported the Conservative campaign, as she had done in 1992 and 1997, and in the Conservative leadership election following its defeat, she endorsed Iain Duncan Smith over Kenneth Clarke.[155] In 2002 she encouraged George W. Bush to aggressively tackle the "unfinished business" of Iraq under Saddam Hussein,[156] and praised Blair for his "strong, bold leadership" in standing with Bush in the Iraq War.[157]
+in early 2001]] At the 2001 general election, Thatcher supported the Conservative campaign, as she had done in 1992 and 1997, and in the Conservative leadership election following its defeat, she endorsed Iain Duncan Smith over Kenneth Clarke.[155] In 2002 she encouraged George W. Bush to aggressively tackle the "unfinished business" of Iraq under Saddam Hussein,[156] and praised Blair for his "strong, bold leadership" in standing with Bush in the Iraq War.[157]
 
 She broached the same subject in her _Statecraft: Strategies for a Changing World_, which was published in April 2002 and dedicated to Ronald Reagan, writing that there would be no peace in the Middle East until Saddam Hussein was toppled. Her book also said that Israel must trade land for peace, and that the European Union (EU) was a "fundamentally unreformable", "classic utopian project, a monument to the vanity of intellectuals, a programme whose inevitable destiny is failure". She argued that Britain should renegotiate its terms of membership or else leave the EU and join the North American Free Trade Area.[158]
 
@@ -254,7 +254,7 @@ On 26 June 2003, Thatcher's husband Sir Denis died of pancreatic cancer,[160] an
 
 Final years: 2003–2013
 
-Margaret_Thatcher_DF-SD-06-15534.jpg On 11 June 2004, Thatcher (against doctor's orders) attended the state funeral service for Ronald Reagan.[162] She delivered her eulogy via videotape; in view of her health, the message had been pre-recorded several months earlier.[163][164] Thatcher flew to California with the Reagan entourage, and attended the memorial service and interment ceremony for the president at the Ronald Reagan Presidential Library.[165]
+On 11 June 2004, Thatcher (against doctor's orders) attended the state funeral service for Ronald Reagan.[162] She delivered her eulogy via videotape; in view of her health, the message had been pre-recorded several months earlier.[163][164] Thatcher flew to California with the Reagan entourage, and attended the memorial service and interment ceremony for the president at the Ronald Reagan Presidential Library.[165]
 
 In 2005, Thatcher criticised the way the decision to invade Iraq had been made two years previously. Although she still supported the intervention to topple Saddam Hussein, she said that (as a scientist) she would always look for "facts, evidence and proof", before committing the armed forces. She celebrated her 80th birthday on 13 October at the Mandarin Oriental Hotel in Hyde Park, London; guests included the Queen, the Duke of Edinburgh, Princess Alexandra and Tony Blair.[166] Lord (Geoffrey) Howe of Aberavon was also in attendance and said of Thatcher: "Her real triumph was to have transformed not just one party but two, so that when Labour did eventually return, the great bulk of Thatcherism was accepted as irreversible."[167]
 
@@ -332,7 +332,7 @@ Since her resignation as Prime Minister in 1990, Thatcher has been portrayed in 
 
 Titles, awards and honours
 
-Margaret_Thatcher_awarded_Presidential_Medal_of_Freedom.jpg in 1991]] Thatcher became a Privy Councillor (PC) upon becoming Secretary of State for Education and Science in 1970.[230] She was the first woman entitled to full membership rights as an honorary member of the Carlton Club on becoming Leader of the Conservative Party in 1975.[231]
+in 1991]] Thatcher became a Privy Councillor (PC) upon becoming Secretary of State for Education and Science in 1970.[230] She was the first woman entitled to full membership rights as an honorary member of the Carlton Club on becoming Leader of the Conservative Party in 1975.[231]
 
 As Prime Minister, Thatcher received two honorary distinctions:
 
@@ -344,11 +344,11 @@ In the Falklands, Margaret Thatcher Day has been marked each 10 January since 19
 
 Thatcher became a member of the Lords in 1992 with a life peerage as Baroness Thatcher, of Kesteven in the County of Lincolnshire.[240] Subsequently, the College of Arms granted her usage of a personal coat of arms; she was allowed to revise these arms upon her appointment as Lady of the Order of the Garter (LG) in 1995, the highest order of chivalry for women.[241]
 
-  -------------------------------------------------------------------------- -- ------------------------------------------------------------------------------------------------------------------------------------------------------------
-  PreGarter appointment                                                         PostGarter appointment
-  Coat_of_Arms_of_Margaret_Thatcher,_The_Baroness_Thatcher_(1992–1995).svg      Coat_of_Arms_of_Margaret_Thatcher,_The_Baroness_Thatcher_(1995–2013).svgCoat_of_Arms_of_Margaret_Thatcher,_The_Baroness_Thatcher_(1995–2013)_(Variant).svg
-  1992–1995                                                                     Lozenge: 1995–2013
-  -------------------------------------------------------------------------- -- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ----------------------- -- ------------------------
+  PreGarter appointment      PostGarter appointment
+
+  1992–1995                  Lozenge: 1995–2013
+  ----------------------- -- ------------------------
 
   : class=nowrap style="background:#f2f2f2; border:1px solid #C9CCD1; font-weight:bold; padding-left:1em; padding-right:1em" | Coats of arms of Baroness Thatcher
 

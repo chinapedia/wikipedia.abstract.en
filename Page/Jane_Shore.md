@@ -19,7 +19,7 @@ According to the Patent Rolls for 4 December 1476, it was during this same year 
 
 Prison, second marriage and later life
 
-Jane_Shore_William_Blake.jpg, c.1780.]] Shore's two other lovers were Edward IV's eldest stepson, Thomas Grey, 1st Marquess of Dorset, and William Hastings, 1st Baron Hastings. Grey's wife was the wealthy heiress Cecily Bonville, 7th Baroness Harington, who also happened to be Hastings' stepdaughter. Shore was instrumental in bringing about the alliance between Hastings and the Woodvilles, which was formed while Richard, Duke of Gloucester, was Protector, before he took the throne as King Richard III. She was accused of carrying messages between Hastings and Edward IV's widow, Elizabeth Woodville. It was because of her role in this alliance that Shore was charged with conspiracy, along with Hastings and the Woodvilles, against the Protector's government.[16]
+, c.1780.]] Shore's two other lovers were Edward IV's eldest stepson, Thomas Grey, 1st Marquess of Dorset, and William Hastings, 1st Baron Hastings. Grey's wife was the wealthy heiress Cecily Bonville, 7th Baroness Harington, who also happened to be Hastings' stepdaughter. Shore was instrumental in bringing about the alliance between Hastings and the Woodvilles, which was formed while Richard, Duke of Gloucester, was Protector, before he took the throne as King Richard III. She was accused of carrying messages between Hastings and Edward IV's widow, Elizabeth Woodville. It was because of her role in this alliance that Shore was charged with conspiracy, along with Hastings and the Woodvilles, against the Protector's government.[16]
 
 Shore's punishment included open penance at Paul's Cross for her promiscuous behaviour by Richard, though this may have been motivated by the suspicion that she had harboured Grey when he was a fugitive or as a result of Richard's antagonism towards any person who represented his older brother's court.[17] A clash of personalities between the lighthearted Shore and stern Richard also generated a mutual dislike between the two.[18] Shore accordingly went in her kirtle through the streets one Sunday with a taper in her hand, attracting a lot of male attention along the way.[19]
 
@@ -31,8 +31,6 @@ Fiction
 For a bibliography see James L. Harner, "Jane Shore in Literature: A Checklist" in _Notes and Queries_, v. 226, December 1981, p. 496.
 
 Drama
-
-Jane_Shore_-_Weir_Collection.jpg
 
 -   She is a significant character in _The True Tragedy of Richard III_, an anonymous play written shortly before Shakespeare's _Richard III_. In the play she is reduced to destitution on the streets, ignored by both former lovers and people she had helped after Richard frightens citizens with severe punishments if she is supported in any way.
 -   "Mistress Shore" is frequently mentioned in William Shakespeare's play, _Richard III_. (She actually appears in Laurence Olivier's 1955 film version, played by Pamela Brown – she has only one line: "Good morrow, my Lord", which is interpolated into the film. The film shows her as attending to Edward IV, but afterwards having a passionate affair with Lord Hastings.) Edward IV, Thomas Grey, and Lord Hastings are all characters in the play.

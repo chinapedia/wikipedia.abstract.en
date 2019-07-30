@@ -5,7 +5,7 @@ Initial discovery
 
 On 19 May 2001, India's Union Minister for Human Resource Development, Science and Technology division, Murli Manohar Joshi, announced that the ruins of an ancient civilization had been discovered off the coast of Gujarat, in the Gulf of Khambhat. The site was discovered by NIOT while they performed routine pollution studies using sonar, and was described as an area of regularly spaced geometric structures. It is located 20 km from the Gujarat coast, spans 9 km, and can be found at a depth of 30–40 meters. In his announcement, Joshi represented the site as an urban settlement that pre-dates the Indus Valley Civilization.[3] Further descriptions of the site by Joshi describe it as containing regularly spaced dwellings, a granary, a bath, a citadel, and a drainage system.[4] However it was later on 22 May, reported that the discovery has not been dated and the discovery (for example, great baths) resembles the Harappan civilization dating 4,000 years ago. Furthermore, the Indus civilization port Lothal is located at the head, Gulf of Khambhat.[5]
 
-Gujarat_Gulfs.jpg]]
+]]
 
 
 Follow-up excavations

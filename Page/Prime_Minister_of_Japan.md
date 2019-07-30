@@ -52,7 +52,7 @@ File:Standard of the Prime Minister of Japan.svg|Standard of the Prime Minister 
 
 Official office and residence
 
-Soridaijinkantei2.jpg]]
+]]
 
 Located near the Diet building, the Office of the Prime Minister of Japan is called the _Kantei_ (官邸). The original Kantei served from 1929 until 2002, when a new building was inaugurated to serve as the current Kantei.[18] The old Kantei was then converted into the Official Residence, or _Kōtei_ (公邸).[19] The Kōtei lies to the southwest of the Kantei, and is linked by a walkway.[20]
 

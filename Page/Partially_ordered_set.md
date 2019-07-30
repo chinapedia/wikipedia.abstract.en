@@ -1,4 +1,4 @@
-Hasse_diagram_of_powerset_of_3.svg of the set of all subsets of a three-element set {x, y, z}, ordered by inclusion. Distinct sets on the same horizontal level are incomparable with each other. Some other pairs, such as {x} and {y,z}, are also incomparable.]] In mathematics, especially order theory, a PARTIALLY ORDERED SET (also POSET) formalizes and generalizes the intuitive concept of an ordering, sequencing, or arrangement of the elements of a set. A poset consists of a set together with a binary relation indicating that, for certain pairs of elements in the set, one of the elements precedes the other in the ordering. The word "partial" in the names "partial order" or "partially ordered set" is used as an indication that not every pair of elements needs to be comparable. That is, there may be pairs of elements for which neither element precedes the other in the poset. Partial orders thus generalize total orders, in which every pair is comparable.
+of the set of all subsets of a three-element set {x, y, z}, ordered by inclusion. Distinct sets on the same horizontal level are incomparable with each other. Some other pairs, such as {x} and {y,z}, are also incomparable.]] In mathematics, especially order theory, a PARTIALLY ORDERED SET (also POSET) formalizes and generalizes the intuitive concept of an ordering, sequencing, or arrangement of the elements of a set. A poset consists of a set together with a binary relation indicating that, for certain pairs of elements in the set, one of the elements precedes the other in the ordering. The word "partial" in the names "partial order" or "partially ordered set" is used as an indication that not every pair of elements needs to be comparable. That is, there may be pairs of elements for which neither element precedes the other in the poset. Partial orders thus generalize total orders, in which every pair is comparable.
 
 To be a partial order, a binary relation must be reflexive (each element is comparable to itself), antisymmetric (no two different elements precede each other), and transitive (the start of a chain of precedence relations must precede the end of the chain).
 
@@ -41,13 +41,11 @@ Standard examples of posets arising in mathematics include:
 
 Extrema
 
-  ----------------------------------
-  Infinite_lattice_of_divisors.svg
-  ----------------------------------
+  --
+  --
 
-  ---------------------------------------------------------
-  Hasse_diagram_of_powerset_of_3_no_greatest_or_least.svg
-  ---------------------------------------------------------
+  --
+  --
 
 There are several notions of "greatest" and "least" element in a poset _P_, notably:
 
@@ -60,17 +58,15 @@ For example, consider the positive integers, ordered by divisibility: 1 is a lea
 
 Orders on the Cartesian product of partially ordered sets
 
-  ------------------------------------------------------------------------------------------------------------------------------------
-  Strict_product_order_on_pairs_of_natural_numbers.svg by (3,3) and covering (3,3) are highlighted in green and red, respectively.]]
-  ------------------------------------------------------------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------
+  by (3,3) and covering (3,3) are highlighted in green and red, respectively.]]
+  -------------------------------------------------------------------------------
 
-  ------------------------
-  N-Quadrat,_gedreht.svg
-  ------------------------
+  --
+  --
 
-  -----------------------------------------------------
-  Lexicographic_order_on_pairs_of_natural_numbers.svg
-  -----------------------------------------------------
+  --
+  --
 
 In order of increasing strength, i.e., decreasing sets of pairs, three of the possible partial orders on the Cartesian product of two partially ordered sets are (see figures):
 
@@ -87,7 +83,7 @@ See also orders on the Cartesian product of totally ordered sets.
 
 Sums of partially ordered sets
 
-Series-parallel_partial_order.svg of a series-parallel partial order, formed as the ordinal sum of three smaller partial orders.]] Another way to combine two posets is the ORDINAL SUM[4] (or LINEAR SUM[5]), _Z_ = _X_ ⊕ _Y_, defined on the union of the underlying sets _X_ and _Y_ by the order _a_ ≤_(_Z_) _b_ if and only if:
+of a series-parallel partial order, formed as the ordinal sum of three smaller partial orders.]] Another way to combine two posets is the ORDINAL SUM[4] (or LINEAR SUM[5]), _Z_ = _X_ ⊕ _Y_, defined on the union of the underlying sets _X_ and _Y_ by the order _a_ ≤_(_Z_) _b_ if and only if:
 
 -   _a_, _b_ ∈ _X_ with _a_ ≤_(_X_) _b_, or
 -   _a_, _b_ ∈ _Y_ with _a_ ≤_(_Y_) _b_, or
@@ -128,13 +124,11 @@ In general two elements _x_ and _y_ of a partial order may stand in any of four 
 
 Mappings between partially ordered sets
 
-  -----------------
-  Birkhoff120.svg
-  -----------------
+  --
+  --
 
-  -------------------------------------------------------
-  Monotonic_but_nonhomomorphic_map_between_lattices.gif
-  -------------------------------------------------------
+  --
+  --
 
 Given two partially ordered sets (_S_,≤) and (_T_,≤), a function _f_: _S_ → _T_ is called ORDER-PRESERVING, or MONOTONE, or ISOTONE, if for all _x_ and _y_ in _S_, _x_≤_y_ implies _f_(_x_) ≤ _f_(_y_). If (_U_,≤) is also a partially ordered set, and both _f_: _S_ → _T_ and _g_: _T_ → _U_ are order-preserving, their composition (_g_∘_f_): _S_ → _U_ is order-preserving, too. A function _f_: _S_ → _T_ is called ORDER-REFLECTING if for all _x_ and _y_ in _S_, _f_(_x_) ≤ _f_(_y_) implies _x_≤_y_. If _f_ is both order-preserving and order-reflecting, then it is called an ORDER-EMBEDDING of (_S_,≤) into (_T_,≤). In the latter case, _f_ is necessarily injective, since _f_(_x_) = _f_(_y_) implies _x_ ≤ _y_ and _y_ ≤ _x_. If an order-embedding between two posets _S_ and _T_ exists, one says that _S_ can be EMBEDDED into _T_. If an order-embedding _f_: _S_ → _T_ is bijective, it is called an ORDER ISOMORPHISM, and the partial orders (_S_,≤) and (_T_,≤) are said to be ISOMORPHIC. Isomorphic orders have structurally similar Hasse diagrams (cf. right picture). It can be shown that if order-preserving maps _f_: _S_ → _T_ and _g_: _T_ → _S_ exist such that _g_∘_f_ and _f_∘_g_ yields the identity function on _S_ and _T_, respectively, then _S_ and _T_ are order-isomorphic. [8]
 

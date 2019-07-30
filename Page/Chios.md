@@ -15,7 +15,7 @@ Chios can be divided into five regions:
 
 East coast
 
-Chiostownpark.jpg]]
+]]
 
 Midway up the east coast lie the main population centers, the main town of Chios, and the regions of Vrontados and Kambos. Chios Town, with a population of 32,400, is built around the island's main harbour and medieval castle. The current castle, with a perimeter of , was principally constructed during the time of Venetian and Ottoman rule, although remains have been found dating settlements there back to 2000 B.C. The town was substantially damaged by an earthquake in 1881, and only partially retains its original character.
 
@@ -23,7 +23,7 @@ North of Chios Town lies the large suburb of Vrontados (population 4,500), which
 
 Southern region (Mastichochória)
 
-MestaXiou1.jpg]] Pyrgichios.jpg village]] Ξυστά_σε_οίκημα_-_Πυργί,_Χίος_2.jpg (local name:_Xistà_)]]
+]] village]] (local name:_Xistà_)]]
 
 In the southern region of the island are the Mastichochoria[5] (literally "Mastic Villages"), the seven villages of Mesta (Μεστά), Pyrgi (Πυργί), Olympi (Ολύμποι), Kalamoti (Καλαμωτń), Vessa (Βέσσα), Lithi (Λιθί), and Elata (Ελάτα), which together have controlled the production of mastic gum in the area since the Roman period. The villages, built between the 14th and 16th centuries, have a carefully designed layout with fortified gates and narrow streets to protect against the frequent raids by marauding pirates. Between Chios Town and the Mastichochoria lie a large number of historic villages including Armolia (Αρμόλια), Myrmighi (Μυρμήγκι), and Kalimassia (Καλλιμασιά). Along the east coast are the fishing villages of Kataraktis (Καταρράκτης) and to the south, Nenita (Νένητα).
 
@@ -39,14 +39,14 @@ The island normally experiences steady breezes (average ) throughout the year, w
 
 Geology
 
-Αγ.Απόστολοι_και_Πελλιναίο!-Βίκι.jpg Saint_Markellarocks.jpg'', patron saint of Chios.]]
+'', patron saint of Chios.]]
 
 The Chios Basin is a hydrographic sub-unit of the Aegean Sea adjacent to the island of Chios.[7]
 
 
 History
 
-Chios_by_Piri_Reis.jpg]]
+]]
 
 Etymology
 
@@ -82,8 +82,6 @@ In 412 BC, during the Peloponnesian War, Chios revolted against Athens, and the 
 
 Hellenistic period
 
-Modern_Chios_sphinx.jpg
-
 Theopompus returned to Chios with the other exiles in 333 BC after Alexander had invaded Asia Minor and decreed their return,[22] as well as the exile or trial of Persian supporters on the island. Theopompus was exiled again sometime after Alexander's death and took refuge in Egypt.[23]
 
 During this period, the island also had become the largest exporter of Greek wine, which was noted for being of relatively high quality (see "Chian wine"). Chian amphoras, with a characteristic sphinx emblem and bunches of grapes, have been found in nearly every country with whom the ancient Greeks traded. These countries included Gaul, Upper Egypt, and Southern Russia.[24]
@@ -106,7 +104,7 @@ According to the Acts of the Apostles, Luke the Evangelist, Paul the Apostle and
 
 Byzantine period
 
-Νέα_Μονή_Χίου_-_Καμπαναριό.jpg (11th century)]] Κάμπος_Χίου_-_Παναγία_Κοκοροβιλιά.jpg]]
+(11th century)]] ]]
 
 After the permanent division of the Roman Empire in 395 AD, Chios was for six centuries part of the Byzantine Empire. This came to an end when the island was briefly held (1090–97) by Tzachas, a Turkish bey in the region of Smyrna during the first expansion of the Turks to the Aegean coast.[28] However, the Turks were driven back from the Aegean coast by the Byzantines aided by the First Crusade, and the island was restored to Byzantine rule by admiral Constantine Dalassenos.
 
@@ -114,7 +112,7 @@ This relative stability was ended by the sacking of Constantinople by the Fourth
 
 Genoese period (1304–1566)
 
-ΚΑΣΤΡΟ_ΧΙΟΥ_ΕΙΣΟΔΟΣ.jpg]] Map_of_Chios_-_Bordone_Benedetto_-_1547.jpg, 1547]] Εσωτερική_άποψη_Κτήμα_Αργέντικον_07.jpg]] Francesco_Solimena_-_The_Massacre_of_the_Giustiniani_at_Chios_-_WGA21628.jpg]]
+]] , 1547]] ]] ]]
 
 The Byzantine rulers had little influence and through the Treaty of Nymphaeum, authority was ceded to the Republic of Genoa (1261).[29] At this time the island was frequently attacked by pirates, and by 1302–1303 was a target for the renewed Turkish fleets. To prevent Turkish expansion, the island was reconquered and kept as a renewable concession, at the behest of the Byzantine emperor Andronicus II Palaeologus, by the Genovese Benedetto I Zaccaria (1304), then admiral to Philip of France. Zaccaria installed himself as ruler of the island, founding the short-lived Lordship of Chios. His rule was benign and effective control remained in the hands of the local Greek landowners. Benedetto Zacharia was followed by his son Paleologo and then his grandsons or nephews Benedetto II and Martino. They attempted to turn the island towards the Latin and Papal powers, and away from the predominant Byzantine influence. The locals, still loyal to the Byzantine Empire, responded to a letter from the emperor and, despite a standing army of a thousand infantrymen, a hundred cavalrymen and two galleys, expelled the Zacharia family from the island (1329) and dissolved the fiefdom.[30]
 
@@ -124,7 +122,7 @@ The Genoese, being interested in profit rather than conquest, controlled the tra
 
 Ottoman period: economic prosperity and the Great Destruction
 
-Eugène_Delacroix_-_Le_Massacre_de_Scio.jpg'' by Eugène Delacroix. This, and the works of Lord Byron, did much to draw the attention of mainland Europe to the catastrophe that had taken place in Chios (1824, oil on canvas, , Musée du Louvre, Paris).]] Lytras-nikiforos-pyrpolisi-tourkikis-navarhidas-apo-kanari.jpeg", painted by Nikiphoros Lytras (. Averoff Gallery). Kanaris blew up the flagship as a revenge for the massacre.]] Anavatos,_Chios_03.png abandoned village]]
+'' by Eugène Delacroix. This, and the works of Lord Byron, did much to draw the attention of mainland Europe to the catastrophe that had taken place in Chios (1824, oil on canvas, , Musée du Louvre, Paris).]] ", painted by Nikiphoros Lytras (. Averoff Gallery). Kanaris blew up the flagship as a revenge for the massacre.]] abandoned village]]
 
 During Ottoman rule, the government and tax gathering again remained in the hands of Greeks and the Turkish garrison was small and inconspicuous.[32]
 
@@ -144,8 +142,6 @@ Meanwhile, Chios during emerged as the motherland of the modern Greek shipping i
 
 Modern era
 
-Λαγκάδα,_Λιμένας.jpg
-
 Chios joined the rest of independent Greece after the First Balkan War (1912). The Greek Navy liberated Chios in November 1912 in a hard-fought, but brief amphibious operation. The Ottoman Empire recognized Greece's annexation of Chios and the other Aegean islands by the Treaty of London (1913).
 
 Although Greece was officially neutral, the island was occupied by the British during World War I. They landed on 17 February 1916. This may have been due to the island's proximity to the Ottoman Empire and the city of İzmir in particular.[38]
@@ -164,7 +160,7 @@ According to the 2011 census, Chios has a permanent resident population of 52,67
 
 Government
 
-Oinousses_main_settlement.JPG]]
+]]
 
 The present municipality Chios was formed at the 2011 local government reform by the merger of the following 8 former municipalities, that became municipal units:[41]
 
@@ -180,7 +176,7 @@ The present municipality Chios was formed at the 2011 local government reform by
 
 Economy
 
-Mastiha.jpg]] MastichatoDrink.jpg (right).]]
+]] (right).]]
 
 Commerce
 
@@ -206,7 +202,7 @@ Sporadically for some time at early 19th century to 1950s there was mining activ
 
 Culture
 
-Koraes_Public_Library_in_Chios.jpg'' public library of Chios town.]] Οι_"ρουκετατζήδες".jpg]]
+'' public library of Chios town.]] ]]
 
 -   Nea Moni is a monastery with fine mosaics from Constantine IX's reign and a World Heritage Site.[42]
 -   An ancient inscription (at Chios Archaeological Museum) from a fifth-century funerary monument for Heropythos the son of Philaios, traced his family back over fourteen generations to Kyprios at the tenth century BC, before there were any written records in Greece.[43][44]
@@ -265,7 +261,7 @@ A native of Chios is known in English as a Chian, or a Chioti.[47]
 
 Ancient
 
-Bupalus_and_Athenis.jpg and Athenis, sons of Archermus]]
+and Athenis, sons of Archermus]]
 
 -   Homer (8th century BC), poet. See-History of the Pelopennesian War, by Thucydides, section 3.104.5, wherein Thucydides quotes Homer's self-reference: "A blind old man of Scio's rocky isle."
 -   Oenopides (c. 490 – c. 420 BC), mathematician and geometer
@@ -277,7 +273,7 @@ Bupalus_and_Athenis.jpg and Athenis, sons of Archermus]]
 
 Medieval
 
-Leone_Allacci_im_Collegio_Greco_Rom.jpg]]
+]]
 
 -   Saint Markella (14th century), martyr and saint of the Greek Orthodox church
 -   Leo Kalothetos (1315–1363), provincial governor of the Byzantine empire
@@ -292,7 +288,7 @@ Leone_Allacci_im_Collegio_Greco_Rom.jpg]]
 
 Modern
 
-Giannis_Psixaris.jpg, major promoter of Demotic Greek]] Andreas_Syggros.JPG]]
+, major promoter of Demotic Greek]] ]]
 
 -   Scylitzes family, descented from Byzantine times
 -   Mavrokordatos family

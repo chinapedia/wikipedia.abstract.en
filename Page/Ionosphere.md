@@ -1,7 +1,5 @@
 The IONOSPHERE () is the ionized part of Earth's upper atmosphere, from about to altitude, a region that includes the thermosphere and parts of the mesosphere and exosphere. The ionosphere is ionized by solar radiation. It plays an important role in atmospheric electricity and forms the inner edge of the magnetosphere. It has practical importance because, among other functions, it influences radio propagation to distant places on the Earth.[1] The region below the ionosphere is called _NEUTRAL ATMOSPHERE_, or _NEUTROSPHERE_.
 
-Atmosphere_with_Ionosphere.svg
-
 
 History
 
@@ -34,8 +32,6 @@ Ionization depends primarily on the Sun and its activity. The amount of ionizati
 
 
 The ionospheric layers
-
-Ionosphere_Layers_en.svg
 
 At night the F layer is the only layer of significant ionization present, while the ionization in the E and D layers is extremely low. During the day, the D and E layers become much more heavily ionized, as does the F layer, which develops an additional, weaker region of ionisation known as the F₁ layer. The F₂ layer persists by day and night and is the main region responsible for the refraction and reflection of radio waves.
 
@@ -83,7 +79,7 @@ At mid-latitudes, the F₂ layer daytime ion production is higher in the summer,
 
 Equatorial anomaly
 
-Diurnal_ionospheric_current.jpg Within approximately ± 20 degrees of the _magnetic equator_, is the _equatorial anomaly_. It is the occurrence of a trough in the ionization in the F₂ layer at the equator and crests at about 17 degrees in magnetic latitude. The Earth's magnetic field lines are horizontal at the magnetic equator. Solar heating and tidal oscillations in the lower ionosphere move plasma up and across the magnetic field lines. This sets up a sheet of electric current in the E region which, with the horizontal magnetic field, forces ionization up into the F layer, concentrating at ± 20 degrees from the magnetic equator. This phenomenon is known as the _equatorial fountain_.
+Within approximately ± 20 degrees of the _magnetic equator_, is the _equatorial anomaly_. It is the occurrence of a trough in the ionization in the F₂ layer at the equator and crests at about 17 degrees in magnetic latitude. The Earth's magnetic field lines are horizontal at the magnetic equator. Solar heating and tidal oscillations in the lower ionosphere move plasma up and across the magnetic field lines. This sets up a sheet of electric current in the E region which, with the horizontal magnetic field, forces ionization up into the F layer, concentrating at ± 20 degrees from the magnetic equator. This phenomenon is known as the _equatorial fountain_.
 
 Equatorial electrojet
 

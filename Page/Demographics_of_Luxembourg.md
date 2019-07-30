@@ -9,7 +9,7 @@ The people of Luxembourg are called Luxembourgers.[2]
 
 Vital statistics since 1900
 
-Luxemburg_vital_statistics.png The following table chronicles factors such as population, birth rates, and death rates in Luxembourg since 1900.[3]
+The following table chronicles factors such as population, birth rates, and death rates in Luxembourg since 1900.[3]
 
          Average population (x 1000)   Live births   Deaths   Natural change   Crude birth rate (per 1000)   Crude death rate (per 1000)   Natural change (per 1000)   Fertility rates
   ------ ----------------------------- ------------- -------- ---------------- ----------------------------- ----------------------------- --------------------------- -----------------
@@ -150,7 +150,7 @@ Source: _UN World Population Prospects_[4]
 
 Foreign population in Luxembourg
 
-COB_Luxembourg.PNG The foreign population resident in Luxembourg currently numbers over 238,800, corresponding to 44,5% of the total population (compared to 17% in the 1960s).[5] These immigrants are overwhelmingly nationals of EU countries (accounting for over 90%), by far the greater part of whom originally come from Portugal, Italy and the two neighbouring countries, France and Belgium. For some years, there has also been a large increase in the number of immigrants and asylum seekers from the countries of Eastern Europe, and especially the new republics to have emerged from the former Yugoslavia (Bosnia and Herzegovina, Serbia and Montenegro). These immigrants include a considerable proportion of young people. Immigrants (especially asylum seekers) have a strong impact on the birth rate, accounting for nearly 50% of births in Luxembourg.
+The foreign population resident in Luxembourg currently numbers over 238,800, corresponding to 44,5% of the total population (compared to 17% in the 1960s).[5] These immigrants are overwhelmingly nationals of EU countries (accounting for over 90%), by far the greater part of whom originally come from Portugal, Italy and the two neighbouring countries, France and Belgium. For some years, there has also been a large increase in the number of immigrants and asylum seekers from the countries of Eastern Europe, and especially the new republics to have emerged from the former Yugoslavia (Bosnia and Herzegovina, Serbia and Montenegro). These immigrants include a considerable proportion of young people. Immigrants (especially asylum seekers) have a strong impact on the birth rate, accounting for nearly 50% of births in Luxembourg.
 
 A more detailed breakdown by nationality shows that the Portuguese community is still the largest group, accounting for more than a third of the foreign population. The Italian population has been stable for the past ten years at approximately 20,000. Some 47,000 foreigners come from bordering countries (France, Belgium and Germany).
 
@@ -218,7 +218,7 @@ The Lutherans are the largest Protestant denomination in the country. Muslims ar
 
 CIA World Factbook demographic statistics
 
-Luxembourg_demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 

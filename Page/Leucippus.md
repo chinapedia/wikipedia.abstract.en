@@ -9,7 +9,7 @@ Leucippus was most likely born in Miletus,[3] although Abdera and Elea are also 
 
 Biography
 
-MetapontumDrachmRutter1576Obverse.jpg, thought to be of Leucippus, sitting dog (Molossian hound?) on the reverse.]] Leucippus was indeed a shadowy figure, as his dates are not recorded and he is often mentioned in conjunction with his more well-known pupil Democritus. It is therefore difficult to determine which contributions to an atomic theory come from Democritus and which come from Leucippus.[5][6]
+, thought to be of Leucippus, sitting dog (Molossian hound?) on the reverse.]] Leucippus was indeed a shadowy figure, as his dates are not recorded and he is often mentioned in conjunction with his more well-known pupil Democritus. It is therefore difficult to determine which contributions to an atomic theory come from Democritus and which come from Leucippus.[5][6]
 
 The Leucippus of record was an Ionian Greek (Ionia, being the Asiatic Greece or "Asia Minor", forms western Turkey today). And he was a contemporary of Zeno of Elea and Empedocles (Magna Graecia, now part of southern Italy). He belonged to the same Ionian School of naturalistic philosophy as Thales, Anaximander, and Anaximenes.
 

@@ -13,7 +13,7 @@ History
 
 Internet Explorer 1
 
-Internet_Explorer_1.0.png The Internet Explorer project was started in the summer of 1994 by Thomas Reardon, who, according to the Massachusetts Institute of Technology Review of 2003,[18] used source code from Spyglass, Inc. Mosaic, which was an early commercial web browser with formal ties to the pioneering National Center for Supercomputing Applications (NCSA) Mosaic browser.[19][20] In late 1994, Microsoft licensed Spyglass Mosaic for a quarterly fee plus a percentage of Microsoft's non-Windows revenues for the software.[21] Although bearing a name similar to NCSA Mosaic, Spyglass Mosaic had used the NCSA Mosaic source code sparingly.[22]
+The Internet Explorer project was started in the summer of 1994 by Thomas Reardon, who, according to the Massachusetts Institute of Technology Review of 2003,[18] used source code from Spyglass, Inc. Mosaic, which was an early commercial web browser with formal ties to the pioneering National Center for Supercomputing Applications (NCSA) Mosaic browser.[19][20] In late 1994, Microsoft licensed Spyglass Mosaic for a quarterly fee plus a percentage of Microsoft's non-Windows revenues for the software.[21] Although bearing a name similar to NCSA Mosaic, Spyglass Mosaic had used the NCSA Mosaic source code sparingly.[22]
 
 The first version, dubbed Microsoft Internet Explorer, was installed as part of the _Internet Jumpstart Kit_ in Microsoft Plus! for Windows 95 and Plus!.[23] The Internet Explorer team began with about six people in early development.[24][25] Internet Explorer 1.5 was released several months later for Windows NT and added support for basic table rendering. By including it free of charge with their operating system, they did not have to pay royalties to Spyglass Inc, resulting in a lawsuit and a US$8 million settlement on January 22, 1997.[26][27]
 
@@ -52,7 +52,7 @@ According to Microsoft, development of new features for Internet Explorer has ce
 
 Features
 
-Internet_Explorer_zoom_menu.png as seen in IE9 ]]
+as seen in IE9 ]]
 
 Internet Explorer has been designed to view a broad range of web pages and provide certain features within the operating system, including Microsoft Update. During the heyday of the browser wars, Internet Explorer superseded Netscape only when it caught up technologically to support the progressive features of the time.[49]
 
@@ -103,7 +103,7 @@ Internet Explorer is fully configurable using Group Policy. Administrators of Wi
 
 Architecture
 
-IExplore.svg Internet Explorer uses a componentized architecture built on the Component Object Model (COM) technology. It consists of several major components, each of which is contained in a separate Dynamic-link library (DLL) and exposes a set of COM programming interfaces hosted by the Internet Explorer main executable, :[63]
+Internet Explorer uses a componentized architecture built on the Component Object Model (COM) technology. It consists of several major components, each of which is contained in a separate Dynamic-link library (DLL) and exposes a set of COM programming interfaces hosted by the Internet Explorer main executable, :[63]
 
 -   is the protocol handler for HTTP, HTTPS and FTP. It handles all network communication over these protocols.
 
@@ -174,7 +174,7 @@ On April 26, 2014, Microsoft issued a security advisory relating to CVE-2014-177
 
 Market adoption and usage share
 
-Usage_share_of_web_browsers_(Source_StatCounter).svg according to StatCounter ]] Internet-explorer-usage-data.svg
+according to StatCounter ]]
 
 The adoption rate of Internet Explorer seems to be closely related to that of Microsoft Windows, as it is the default web browser that comes with Windows. Since the integration of Internet Explorer 2.0 with Windows 95 OSR 1 in 1996, and especially after version 4.0's release in 1997, the adoption was greatly accelerated: from below 20% in 1996, to about 40% in 1998, and over 80% in 2000. This made Microsoft the winner in the infamous 'first browser war' against Netscape. Netscape Navigator was the dominant browser during 1995 and until 1997, but rapidly lost share to IE starting in 1998, and eventually slipped behind in 1999. The integration of IE with Windows led to a lawsuit by AOL, Netscape's owner, accusing Microsoft of unfair competition. The infamous case was eventually won by AOL but by then it was too late, as Internet Explorer had already become the dominant browser.
 

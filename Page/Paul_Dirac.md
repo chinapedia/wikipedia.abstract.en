@@ -25,7 +25,7 @@ In 1923, Dirac graduated, once again with first class honours, and received a £
 
 Family
 
-Dirac,Paul_1963_Kopenhagen.jpg, July 1963]] Dirac married Margit Wigner (Eugene Wigner's sister), in 1937. He adopted Margit's two children, Judith and Gabriel. Paul and Margit Dirac had two children together, both daughters, Mary Elizabeth and Florence Monica.
+, July 1963]] Dirac married Margit Wigner (Eugene Wigner's sister), in 1937. He adopted Margit's two children, Judith and Gabriel. Paul and Margit Dirac had two children together, both daughters, Mary Elizabeth and Florence Monica.
 
 Margit, known as Manci, visited her brother in 1934 in Princeton, New Jersey, from her native Hungary and, while at dinner at the Annex Restaurant met the "lonely-looking man at the next table." This account from a Korean physicist, Y. S. Kim, who met and was influenced by Dirac, also says: "It is quite fortunate for the physics community that Manci took good care of our respected Paul A. M. Dirac. Dirac published eleven papers during the period 1939–46.... Dirac was able to maintain his normal research productivity only because Manci was in charge of everything else."[27]
 
@@ -69,7 +69,7 @@ Dirac shared the 1933 Nobel Prize for physics with Erwin Schrödinger "for the d
 
 Death
 
-Nima_visits_dirac.jpg. Also buried is his wife Manci (Margit Wigner). Their daughter Mary Elizabeth Dirac, who died 20 January 2007, is buried next to them but not shown in the photograph.]] Dirac's_commemorative_marker.jpg.]] In 1984, Dirac died in Tallahassee, Florida, and was buried at Tallahassee's Roselawn Cemetery.[52][53] Dirac's childhood home in Bristol is commemorated with a blue plaque and the nearby Dirac Road is named in recognition of his links with the city. A commemorative stone was erected in a garden in Saint-Maurice, Switzerland, the town of origin of his father's family, on 1 August 1991. On 13 November 1995 a commemorative marker, made from Burlington green slate and inscribed with the Dirac equation, was unveiled in Westminster Abbey.[54][55] The Dean of Westminster, Edward Carpenter, had initially refused permission for the memorial, thinking Dirac to be anti-Christian, but was eventually (over a five-year period) persuaded to relent.[56]
+. Also buried is his wife Manci (Margit Wigner). Their daughter Mary Elizabeth Dirac, who died 20 January 2007, is buried next to them but not shown in the photograph.]] .]] In 1984, Dirac died in Tallahassee, Florida, and was buried at Tallahassee's Roselawn Cemetery.[52][53] Dirac's childhood home in Bristol is commemorated with a blue plaque and the nearby Dirac Road is named in recognition of his links with the city. A commemorative stone was erected in a garden in Saint-Maurice, Switzerland, the town of origin of his father's family, on 1 August 1991. On 13 November 1995 a commemorative marker, made from Burlington green slate and inscribed with the Dirac equation, was unveiled in Westminster Abbey.[54][55] The Dean of Westminster, Edward Carpenter, had initially refused permission for the memorial, thinking Dirac to be anti-Christian, but was eventually (over a five-year period) persuaded to relent.[56]
 
 
 Career

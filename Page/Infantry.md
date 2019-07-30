@@ -1,4 +1,4 @@
-Marine-assault-okinawa-1945.jpg search the ruins of Naha, Okinawa for Japanese snipers, Spring 1945]] Royal_Irish_Rifles_ration_party_Somme_July_1916.jpg at the Battle of the Somme (July–November 1916) during the First World War]]
+search the ruins of Naha, Okinawa for Japanese snipers, Spring 1945]] at the Battle of the Somme (July–November 1916) during the First World War]]
 
 INFANTRY is a military specialization that engages in military combat on foot, distinguished from cavalry, artillery, and tank forces. Also known as FOOT SOLDIERS or INFANTEERS, infantry traditionally relies on moving by foot between combats as well, but may also use mounts, military vehicles, or other transport. Infantry make up a large portion of all armed forces in most nations, and typically bear the largest brunt in warfare, as measured by casualties, deprivation, or physical and psychological stress.
 
@@ -9,7 +9,7 @@ Infantry have much greater local situational awareness than other military force
 
 Etymology and terminology
 
-Tafel_Io.jpg, arquebusier, pikeman, and mix of musketeers and grenadiers) of Duchy of Württemberg]] M2_loading.jpg enter their M2 Bradley IFV during a combat patrol, Tall Afar, Iraq, 2006]] In English, use of the term _infantry_ began about the 1570s, describing soldiers who march and fight on foot. The word derives from Middle French _infanterie_, from older Italian (also Spanish) _infanteria_ (foot soldiers too inexperienced for cavalry), from Latin _īnfāns_ (without speech, newborn, foolish), from which English also gets _infant_.[1] The individual-soldier term INFANTRYMAN was not coined until 1837.[2] In modern usage, foot soldiers of any era are now considered infantry and infantrymen.[3]
+, arquebusier, pikeman, and mix of musketeers and grenadiers) of Duchy of Württemberg]] enter their M2 Bradley IFV during a combat patrol, Tall Afar, Iraq, 2006]] In English, use of the term _infantry_ began about the 1570s, describing soldiers who march and fight on foot. The word derives from Middle French _infanterie_, from older Italian (also Spanish) _infanteria_ (foot soldiers too inexperienced for cavalry), from Latin _īnfāns_ (without speech, newborn, foolish), from which English also gets _infant_.[1] The individual-soldier term INFANTRYMAN was not coined until 1837.[2] In modern usage, foot soldiers of any era are now considered infantry and infantrymen.[3]
 
 From the mid-18th century until 1881 the British Army named its infantry as numbered regiments "of Foot" to distinguish them from cavalry and dragoon regiments (see List of Regiments of Foot).
 
@@ -28,7 +28,7 @@ In the modern US Army, about 15% of soldiers are officially _Infantry_.[5] The b
 
 History
 
-Greek_soldiers_of_Greco–Persian_Wars.png (499–449 BC): light infantry (left, slinger), and the heavy infantry (middle and right, hoplites)]] Rocroi,_el_último_tercio,_por_Augusto_Ferrer-Dalmau.jpg, portraying infantry of a battered Spanish tercio at the 1643 Battle of Rocroi]] French_bayonet_charge.jpg]]
+(499–449 BC): light infantry (left, slinger), and the heavy infantry (middle and right, hoplites)]] , portraying infantry of a battered Spanish tercio at the 1643 Battle of Rocroi]] ]]
 
 The first warriors, adopting hunting weapons or improvised melee weapons,[6] before the existence of any organised military, likely started essentially as loose groups without any organisation or formation. But this changed sometime before recorded history; the first ancient empires (2500–1500 BC) are shown to have some soldiers with standardised military equipment, and the training and discipline required for battlefield formations and manoeuvres: regular infantry.[7] Though the main force of the army, these forces were usually kept small due to their cost of training and upkeep, and might be supplemented by local short-term mass-conscript forces using the older irregular infantry weapons and tactics; this remained a common practice almost up to modern times.[8]
 
@@ -49,7 +49,7 @@ Modern classifications of infantry have expanded to reflect modern equipment and
 
 Equipment
 
-Feldküche_im_Hof_der_Sekundarschule_Spitalacker_-_CH-BAR_-_3241487.tif in Spitalacker, Bern during a workers' strike, ]] Alice_equipaggiamento3.jpg Alice01a.jpg ]] An infantryman's equipment is of vital concern both for the man and the military. The needs of the infantryman to maintain fitness and effectiveness must be constantly balanced against being overburdened. While soldiers in other military branches can use their mount or vehicle for carrying equipment, and tend to operate together as crews serving their vehicle or ordnance, infantrymen must operate more independently; each infantryman usually having much more personal equipment to use and carry. This encourages searching for ingenious combinations of effective, rugged, serviceable and adaptable, yet light, compact, and handy infantry equipment.
+in Spitalacker, Bern during a workers' strike, ]] ]] An infantryman's equipment is of vital concern both for the man and the military. The needs of the infantryman to maintain fitness and effectiveness must be constantly balanced against being overburdened. While soldiers in other military branches can use their mount or vehicle for carrying equipment, and tend to operate together as crews serving their vehicle or ordnance, infantrymen must operate more independently; each infantryman usually having much more personal equipment to use and carry. This encourages searching for ingenious combinations of effective, rugged, serviceable and adaptable, yet light, compact, and handy infantry equipment.
 
 Beyond their main arms and armour, each infantryman's "military kit" includes combat boots, battledress or combat uniform, camping gear, heavy weather gear, survival gear, secondary weapons and ammunition, weapon service and repair kits, health and hygiene items, mess kit, rations, filled water canteen, and all other consumables each infantryman needs for the expected duration of time operating away from their unit's base, plus any special mission-specific equipment. One of the most valuable pieces of gear is the entrenching tool—basically a folding spade—which can be employed not only to dig important defences, but also in a variety of other daily tasks, and even sometimes as a weapon.[13] Infantry typically have shared equipment on top of this, like tents or heavy weapons, where the carrying burden is spread across several infantrymen. In all, this can reach for each soldier on the march.[14] Such heavy infantry burdens have changed little over centuries of warfare; in the late Roman Republic, legionaries were nicknamed _Marius' mules_ as their main activity seemed to be carrying the weight of their legion around on their backs.[15][16]
 
@@ -63,7 +63,7 @@ Armies have sought to improve and standardise infantry gear to reduce fatigue fo
 
 Weapons
 
-Рисунки_к_статье_«Древне-русское_вооружение»._Вклейка_№_1._Военная_энциклопедия_Сытина_(Санкт-Петербург,_1911-1915).jpg Infantrymen are defined by their primary arms – the personal weapons and body armour for their own individual use. The available technology, resources, history, and society can produce quite different weapons for each military and era, but common infantry weapons can be distinguished in a few basic categories.[18][19]
+Infantrymen are defined by their primary arms – the personal weapons and body armour for their own individual use. The available technology, resources, history, and society can produce quite different weapons for each military and era, but common infantry weapons can be distinguished in a few basic categories.[18][19]
 
 -   Ranged combat weapons: javelins, slings, blowguns, bows, crossbows, hand cannons, arquebuses, muskets, grenades, flamethrowers.[20]
 -   Close combat weapons: bludgeoning weapons like clubs, flails and maces; bladed weapons like swords, daggers, and axes; pole weapons like spears, halberds, naginata, and pikes.[21]
@@ -94,7 +94,7 @@ Early crew-served weapons were siege weapons, like the ballista, trebuchet, and 
 
 Formations
 
-Stele_of_Vultures_detail_01a.jpg, Early Dynastic Period (Mesopotamia), ]]
+, Early Dynastic Period (Mesopotamia), ]]
 
 Beginning with the development the first regular military forces, close-combat regular infantry fought less as unorganised groups of individuals and more in coordinated units, maintaining a defined tactical formation during combat, for increased battlefield effectiveness; such infantry formations and the arms they used developed together, starting with the spear and the shield.
 
@@ -131,7 +131,7 @@ Combat role
 
 As a branch of the armed forces, the role of the infantry in warfare is to engage, fight, and kill the enemy at close range—using either a firearm (rifle, pistol, machine gun), an edged-weapon (knife, bayonet), or bare hands (close quarters combat)—as required by the mission to hand; thus
 
-9_Div_Tobruk(AWM_020779).jpg (1939–45)]]
+(1939–45)]]
 
 -   in the Australian Army and New Zealand Army the role of the infantry is "to seek out and close with the enemy, to kill or capture him, to seize and hold ground, to repel attack, by day or night, regardless of season, weather or terrain".[27]
 -   in the Canadian Army, the role of the infantry is "to close with, and destroy the enemy".[28][29]
@@ -143,7 +143,7 @@ Beginning with the Napoleonic Wars of the early 19th century, artillery has beco
 
 Operations
 
-Calgary_Highlanders_Exercise_Black_Bear_2004.jpg infantrymen train in urban operations]]
+infantrymen train in urban operations]]
 
 Attack operations
 
@@ -153,7 +153,7 @@ Attacks are often feared by the infantry conducting them because of the high num
 
 Patrol operations
 
-YON_642.jpg Infantry soldiers from the 642nd Infantry Battalion line up before deployment to the international Border of Indonesia and Papua New Guinea in 2013 for border patrol operations in dense forests and mountainous terrain]] Patrolling is the most common infantry mission. Full-scale attacks and defensive efforts are occasional, but patrols are constant. Patrols consist of small groups of infantry moving about in areas of possible enemy activity to locate the enemy and destroy them when found. Patrols are used not only on the front-lines, but in rear areas where enemy infiltration or insurgencies are possible.
+Infantry soldiers from the 642nd Infantry Battalion line up before deployment to the international Border of Indonesia and Papua New Guinea in 2013 for border patrol operations in dense forests and mountainous terrain]] Patrolling is the most common infantry mission. Full-scale attacks and defensive efforts are occasional, but patrols are constant. Patrols consist of small groups of infantry moving about in areas of possible enemy activity to locate the enemy and destroy them when found. Patrols are used not only on the front-lines, but in rear areas where enemy infiltration or insurgencies are possible.
 
 Pursuit operations
 
@@ -167,7 +167,7 @@ Escort operations
 
 Escorting consists of protecting support units from ambush, particularly from hostile infantry forces. Combat support units (a majority of the military) are not as well armed or trained as infantry units and have a different mission. Therefore, they need the protection of the infantry, particularly when on the move. This is one of the most important roles for the modern infantry, particularly when operating alongside armoured vehicles. In this capacity, infantry essentially conducts patrol on the move, scouring terrain which may hide enemy infantry waiting to ambush friendly vehicles, and identifying enemy strong points for attack by the heavier units.
 
-VanDoos_Urban_Warfare_training.JPG]]
+]]
 
 Base defence
 
@@ -200,15 +200,13 @@ Urban combat poses unique challenges to the combat forces. It is one of the most
 
 Day to day service
 
-Alarmposten1.jpg mechanised infantry (Panzergrenadiers) on an alert post during an exercise in 2006]]
+mechanised infantry (Panzergrenadiers) on an alert post during an exercise in 2006]]
 
 Because of an infantryman's duties with firearms, explosives, physical and emotional stress, and physical violence, casualties and deaths are not uncommon in both war and in peacetime training or operations. It is a highly dangerous and demanding combat service; in World War II, military doctors concluded that even physically unwounded soldiers were psychologically worn out after about 200 days of combat.
 
 The physical, mental, and environmental operating demands of the infantryman are high. All of the combat necessities such as ammunition, weapon systems, food, water, clothing, and shelter are carried on the backs of the infantrymen, at least in light role as opposed to mounted/mechanised. Combat loads of over 36 kg (80 lbs) are standard, and greater loads in excess of 45 kg (100 lbs) are very common.[33][34] These heavy loads, combined with long foot patrols of over a day, in any climate from in temperature, require the infantryman to be in good physical and mental condition. Infantrymen live, fight and die outdoors in all types of brutal climates, often with no physical shelter. Poor climate conditions adds misery to this already demanding existence. Disease epidemics, frostbite, heat stroke, trench foot, insect and wild animal bites are common along with stress disorders and these have sometimes caused more casualties than enemy action.[35]
 
 Infantrymen are expected to continue with their combat missions despite the death and injury of friends, fear, despair, fatigue, and bodily injury.
-
-Rangervietnam1969.jpg
 
 Some infantry units are considered Special Forces. The earliest Special Forces commando units were more highly trained infantrymen, with special weapons, equipment, and missions. Special Forces units recruit heavily from regular infantry units to fill their ranks.
 
@@ -217,7 +215,7 @@ Foreign and domestic militaries typically have a slang term for their infantryme
 
 Air force and naval infantry
 
-Defense.gov_News_Photo_110501-F-XXXXX-214_-_U.S._Air_Force_airmen_survey_the_area_during_a_routine_patrol_outside_Bagram_Airfield_Afghanistan_on_May_1_2011._The_airmen_are_assigned_to_the.jpg on dismounted patrol in Afghanistan]]
+on dismounted patrol in Afghanistan]]
 
 Naval infantry, commonly known as marines, are primarily a category of infantry that form part of the naval forces of states and perform roles on land and at sea, including amphibious operations, as well as other, naval roles. They also perform other tasks, including land warfare, separate from naval operations.
 
@@ -226,7 +224,7 @@ Air force infantry and base defence forces, such as the Royal Air Force Regiment
 
 Descriptions of infantry
 
-U.S._Army_firefight_in_Kunar.jpg in a firefight with Taliban guerrillas, Kunar Province, Afghanistan during Operation Strong Eagle III (31 March 2011)]] Canadian_soldiers_afghanistan.jpg
+in a firefight with Taliban guerrillas, Kunar Province, Afghanistan during Operation Strong Eagle III (31 March 2011)]]
 
 -   "Ah, yes, mere infantry—poor beggars. ..." — Plautus, Roman playwright[36]
 -   "Let us be clear about three facts: First, all battles and all wars are won, in the end, by the infantryman. Secondly, the infantryman always bears the brunt; his casualties are heavier, he suffers greater extremes of discomfort and fatigue than the other [combat] arms. Thirdly, the art of the infantryman is less stereotyped, and far harder to acquire in modern war, than that of any other arm." — Field Marshal Earl Wavell (1945)[37]

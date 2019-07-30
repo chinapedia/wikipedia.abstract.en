@@ -9,7 +9,7 @@ She was the virgin goddess of music, poetry, medicine, wisdom, commerce, weaving
 
 Worship in Rome and Italy
 
-Athena-Schale_Hildesheimer_Silberfund.jpg image of Minerva on a Roman gilt silver bowl, first century BC]] Sbeitla_06.jpg, Tunisia]] Minerva_from_Bath.jpg]] Domitian_Denarius_Minerva_RIC_167_1.xcf
+image of Minerva on a Roman gilt silver bowl, first century BC]] , Tunisia]] ]]
 
 Minerva was worshipped at several locations in Rome, most prominently as part of the Capitoline Triad. She was also worshipped at the Temple of Minerva Medica, and at the "Delubrum Minervae", a temple founded around 50 BC by Pompey on the site now occupied by the church of _Santa Maria sopra Minerva_.
 
@@ -43,7 +43,7 @@ As a patron goddess of wisdom, Minerva frequently features in statuary, as an im
 
 Societies and governments
 
-CSA-T5-$100-1861.jpg currency (1861)]]
+currency (1861)]]
 
 -   The Seal of California depicts the Goddess Minerva. Her birth fully-grown parallels California becoming a state without first being a territory.[10]
 -   According to John Robison's _Proofs of a Conspiracy_ (1798), the third degree of the Bavarian Illuminati was called _Minerval_ or _Brother of Minerva_, in honor of the goddess of learning. Later, this title was adopted for the first initiation of Aleister Crowley's OTO rituals.
@@ -58,7 +58,7 @@ Public monuments, and places
 -   The Minerva Roundabout in Guadalajara, Mexico, located at the crossing of the López Mateos, Vallarta, López Cotilla, Agustín Yáñez, and Golfo de Cortez avenues, features the goddess standing on a pedestal, surrounded by a large fountain, with an inscription that says "Justice, wisdom and strength guard this loyal city".
 -   A bronze statue of Minerva stands in Monument Square (Portland, Maine). "Our Lady of Victories Monument" dedicated in 1891, features a 14-feet-tall bronze figure by Franklin Simmons atop a granite pedestal with smaller bronze sculptures by Richard Morris Hunt.[13][14]
 -   A sculpture of Minerva by Andy Scott, known as the Briggate Minerva, stands outside Trinity Leeds shopping centre.
--   Frans_Floris_Salomon_Lilian_Print_16529kopie.jpg, Minerva, The Phoebus Foundation |alt=]]Minerva is displayed as a statue in Pavia, Italy, near the train station, and is considered as an important landmark in the city.
+-   , Minerva, The Phoebus Foundation |alt=]]Minerva is displayed as a statue in Pavia, Italy, near the train station, and is considered as an important landmark in the city.
 -   Minerva is displayed as a cast bronze statue in the Minneapolis Central Library, rendered in 1889 by Jakob Fjelde.[15]
 -   Minerva is displayed as a 7-ft statue in the Science Library at the State University of New York at Albany and is on the official academic seal of the University.[16]
 -   Minerva is displayed as a bronze statue in Frederick Ruckstull's 1920 _Altar to Liberty: Minerva_ monument near the top of Battle Hill, the highest point of Brooklyn, New York, in Green-Wood Cemetery.

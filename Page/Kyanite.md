@@ -18,7 +18,7 @@ Kyanite is one of the index minerals that are used to estimate the temperature, 
 
 Notes for identification
 
-Kyanite.JPG Kyanite's elongated, columnar crystals are usually a good first indication of the mineral, as well as its color (when the specimen is blue). Associated minerals are useful as well, especially the presence of the polymorphs of staurolite, which occur frequently with kyanite. However, the most useful characteristic in identifying kyanite is its anisotropism. If one suspects a specimen to be kyanite, verifying that it has two distinctly different hardness values on perpendicular axes is a key to identification; it has a hardness of 5.5 parallel to {001} and 7 parallel to {100}.[4][5]
+Kyanite's elongated, columnar crystals are usually a good first indication of the mineral, as well as its color (when the specimen is blue). Associated minerals are useful as well, especially the presence of the polymorphs of staurolite, which occur frequently with kyanite. However, the most useful characteristic in identifying kyanite is its anisotropism. If one suspects a specimen to be kyanite, verifying that it has two distinctly different hardness values on perpendicular axes is a key to identification; it has a hardness of 5.5 parallel to {001} and 7 parallel to {100}.[4][5]
 
 
 Occurrence
@@ -29,8 +29,6 @@ Kyanite occurs in Manhattan schist, formed under extreme pressure as a result of
 
 
 References
-
-Kyanite_within_quartz,_as_collected_by_Dr_John_Hunter,_Hunterian_Museum,_Glasgow.jpg
 
 Specific citations:
 

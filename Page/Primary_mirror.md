@@ -1,4 +1,4 @@
-LBT_3.JPG James_Webb_Primary_Mirror.jpg being prepared for acceptance testing]]
+being prepared for acceptance testing]]
 
 A PRIMARY MIRROR (or PRIMARY) is the principal light-gathering surface (the objective) of a reflecting telescope.
 
@@ -14,9 +14,9 @@ Segmented mirror configurations are used to get around the size limitation on si
 
 Superlative primary mirrors
 
-Artists’s_Rendering_of_the_primary_mirror_of_the_ELT.jpg.[2]]]
+.[2]]]
 
-The largest optical telescope in the world as of 2009 to use a non-segmented single-mirror as its primary mirror is the 8.2 m (26.9 ft) Subaru telescope of the National Astronomical Observatory of Japan, located in Mauna Kea Observatory on Hawaii since 1997;[3] however, this is not the largest diameter single mirror in a telescope, the U.S./German/Italian Large Binocular Telescope has two 8.4 m (27.6 ft) mirrors (which can be used together for interferometric mode).[4] Both of these are smaller than the 10 m segmented primary mirrors on the two Keck telescope. The Hubble Space Telescope has a 2.4 m (7 ft 10 in) primary mirror.Hubble_backup_mirror.jpg support structure can be seen). It now resides in the National Air and Space Museum in Washington, DC.[5]]]
+The largest optical telescope in the world as of 2009 to use a non-segmented single-mirror as its primary mirror is the 8.2 m (26.9 ft) Subaru telescope of the National Astronomical Observatory of Japan, located in Mauna Kea Observatory on Hawaii since 1997;[3] however, this is not the largest diameter single mirror in a telescope, the U.S./German/Italian Large Binocular Telescope has two 8.4 m (27.6 ft) mirrors (which can be used together for interferometric mode).[4] Both of these are smaller than the 10 m segmented primary mirrors on the two Keck telescope. The Hubble Space Telescope has a 2.4 m (7 ft 10 in) primary mirror. support structure can be seen). It now resides in the National Air and Space Museum in Washington, DC.[5]]]
 
 Radio and submillimeter telescopes use much larger dishes or antennae, which do not have to be made as precisely as the mirrors used in optical telescopes. The Arecibo Observatory uses a 305 m dish, which is the world largest single-dish radio telescope fixed to the ground.[6] The Green Bank Telescope has the world's largest steerable single radio dish with 100 m in diameter.[7] There are larger radio arrays, composed of multiple dishes which have better image resolution but less sensitivity.[8]
 

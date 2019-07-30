@@ -27,7 +27,7 @@ Tullia, meanwhile, drove in her chariot to the senate-house, where she was the f
 
 Reign
 
-Comic_History_of_Rome_Table_02_Tarquinius_Superbus_makes_himself_King.jpg (c. 1850s)]]
+(c. 1850s)]]
 
 Tarquin commenced his reign by refusing to bury the dead Servius, and then putting to death a number of leading senators, whom he suspected of remaining loyal to Servius. By not replacing the slain senators, and not consulting the senate on matters of government, he diminished both the size and the authority of the senate. In another break with tradition, Tarquin judged capital crimes without the advice of counselors, causing fear amongst those who might think to oppose him. He made a powerful ally when he betrothed his daughter to Octavius Mamilius of Tusculum, among the most eminent of the Latin chiefs.[10]
 
@@ -39,7 +39,7 @@ Tarquin agreed upon a peace with the Aequi, and renewed the treaty of peace betw
 
 At Rome, Tarquin leveled the top of the Tarpeian Rock, overlooking the Forum, and removed a number of ancient Sabine shrines, in order to make way for the Temple of Jupiter Optimus Maximus on the Capitoline Hill. He constructed tiers of seats in the circus, and ordered the excavation of Rome's great sewer, the _cloaca maxima_.[15]
 
-Lawrence_Alma-Tadema_11.jpeg, depicting the king receiving a laurel; the poppies in the foreground refer to the "tall poppy" allegory (see below)]] According to one story, Tarquin was approached by the Cumaean Sibyl, who offered him nine books of prophecy at an exorbitant price. Tarquin abruptly refused, and the Sibyl proceeded to burn three of the nine. She then offered him the remaining books, but at the same price. He hesitated, but refused again. The Sibyl then burned three more books before offering him the three remaining books at the original price. At last Tarquin accepted, in this way obtaining the Sibylline Books.[16][17][18]
+, depicting the king receiving a laurel; the poppies in the foreground refer to the "tall poppy" allegory (see below)]] According to one story, Tarquin was approached by the Cumaean Sibyl, who offered him nine books of prophecy at an exorbitant price. Tarquin abruptly refused, and the Sibyl proceeded to burn three of the nine. She then offered him the remaining books, but at the same price. He hesitated, but refused again. The Sibyl then burned three more books before offering him the three remaining books at the original price. At last Tarquin accepted, in this way obtaining the Sibylline Books.[16][17][18]
 
 
 Overthrow and exile

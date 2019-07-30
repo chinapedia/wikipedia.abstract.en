@@ -1,5 +1,3 @@
-Kipper.JPG
-
 A KIPPER is a whole herring, a small, oily fish,[1] that has been split in a butterfly fashion from tail to head along the dorsal ridge, gutted, salted or pickled, and cold-smoked over smouldering woodchips (typically oak).
 
 In Britain and Ireland as well as a few North American regions, they are often eaten for breakfast. In Great Britain, kippers, along with other preserved smoked or salted fish such as the bloater and buckling, were also once commonly enjoyed as a high tea or supper treat, most popularly with inland and urban working-class populations before World War II.
@@ -14,14 +12,12 @@ As a verb, _kippering_ ("to kipper") means to preserve by rubbing with salt or o
 
 Origin
 
-Kipperfactoryseahouses.jpg, northern England, is one of the places where the practice of kippering herrings is said to have originated]]
+, northern England, is one of the places where the practice of kippering herrings is said to have originated]]
 
 Although the exact origin of the kipper is unknown, this processes of slitting, gutting, and smoke-curing fish is well documented. According to Mark Kurlansky, "Smoked foods almost always carry with them legends about their having been created by accident—usually the peasant hung the food too close to the fire, and then, imagine his surprise the next morning when …".[2] For instance Thomas Nashe wrote in 1599 about a fisherman from Lothingland in the Great Yarmouth area who discovered smoking herring by accident.[3] Another story of the accidental invention of kipper is set in 1843, with John Woodger of Seahouses in Northumberland, when fish for processing was left overnight in a room with a smoking stove.[4][5] These stories and others are known to be untrue because the word "kipper" long predates this. Smoking and salting of fish—in particular of spawning salmon and herring which are caught in large numbers in a short time and can be made suitable for edible storage by this practice predates 19th century Britain and indeed written history, probably going back as long as humans have been using salt to preserve food.
 
 
 Colouring
-
-Red_herring.jpg
 
 A kipper is also sometimes referred to as a _red herring_, although particularly strong curing is required to produce a truly red kipper.[6] The term appears in a mid-13th century poem by the Anglo-Norman poet Walter of Bibbesworth, "He eteþ no ffyssh But heryng red."[7] Samuel Pepys used it in his diary entry of 28 February 1660 "Up in the morning, and had some red herrings to our breakfast, while my boot-heel was a-mending, by the same token the boy left the hole as big as it was before."[8]
 
@@ -31,8 +27,6 @@ Kippers from the Isle of Man and some Scottish producers are not dyed: The smoki
 
 
 Preparation
-
-Kippers_at_Burton_Bradstock.jpg
 
 "Cold-smoked" fish that have not been salted for preservation must be cooked before being eaten safely (they can be boiled, fried, grilled, jugged or roasted, for instance). "Kipper snacks" (see below) are precooked and may be eaten without further preparation. In general, oily fish are preferred for smoking as the heat is evenly dispersed by the oil, and the flesh resists flaking apart like drier species.
 

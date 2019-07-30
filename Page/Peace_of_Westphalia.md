@@ -9,7 +9,7 @@ Locations
 
 Peace negotiations between France and the Habsburgs began in Cologne in 1641. These negotiations were initially blocked by Cardinal Richelieu of France, who insisted on the inclusion of all his allies, whether fully sovereign countries or states within the Holy Roman Empire.[4] In Hamburg and Lübeck, Sweden and the Holy Roman Empire negotiated the Treaty of Hamburg with the intervention of Richelieu.[5] The Holy Roman Empire and Sweden declared the preparations of Cologne and the Treaty of Hamburg to be preliminaries of an overall peace agreement.
 
-EinzugdesGesandten_AdriaenPauw.jpg enters Münster around 1646 for the peace negotiations]]
+enters Münster around 1646 for the peace negotiations]]
 
 The main peace negotiations took place in Westphalia, in the neighboring cities of Münster and Osnabrück. Both cities were maintained as neutral and demilitarized zones for the negotiations.
 
@@ -20,7 +20,7 @@ Sweden preferred to negotiate with the Holy Roman Empire in Osnabrück, controll
 
 Delegations
 
-Sebastian_Dadler_Original_Medal_N.D._(1648),_Christina_of_Sweden,_Peace_of_Westphalia._Obverse.jpg undated medal (1648), Christina of Sweden, portrait with feathered helmet right. Obverse]] Sebastian_Dadler_Original_Medal_N.D._(1648),_Christina_of_Sweden,_Peace_of_Westphalia._Reverse.jpg standing left, holding an olive branch in her left arm, and grasping the tree of knowledge with her right hand.]]
+undated medal (1648), Christina of Sweden, portrait with feathered helmet right. Obverse]] standing left, holding an olive branch in her left arm, and grasping the tree of knowledge with her right hand.]]
 
 The peace negotiations had no exact beginning and ending, because the 109 delegations never met in a plenary session. Instead, various delegations arrived between 1643 and 1646 and left between 1647 and 1649. The largest number of diplomats were present between January 1646 and July 1647.
 
@@ -55,8 +55,6 @@ Three separate treaties constituted the peace settlement.
 Results
 
 Internal political boundaries
-
-Europe_1648_westphal_1884.jpg Holy_Roman_Empire_1648.svg
 
 The power asserted by Ferdinand III was stripped from him and returned to the rulers of the Imperial States. The rulers of the Imperial States could henceforth choose their own official religions. Catholics and Protestants were redefined as equal before the law, and Calvinism was given legal recognition as an official religion.[13] [14] The independence of the Dutch Republic, which practiced religious toleration, also provided a safe haven for European Jews.[15]
 
@@ -95,7 +93,7 @@ Territorial adjustments
 
 Legacy
 
-Alegoría_de_la_Paz_de_Westfalia,_por_Jacob_Jordaens.jpg.]] The treaties did not entirely end conflicts arising out of the Thirty Years' War. Fighting continued between France and Spain until the Treaty of the Pyrenees in 1659. The Dutch-Portuguese War had begun during the Iberian Union between Spain and Portugal, as part of the Eighty Years' War, and went on until 1663. Nevertheless, the Peace of Westphalia did settle many outstanding European issues of the time.
+.]] The treaties did not entirely end conflicts arising out of the Thirty Years' War. Fighting continued between France and Spain until the Treaty of the Pyrenees in 1659. The Dutch-Portuguese War had begun during the Iberian Union between Spain and Portugal, as part of the Eighty Years' War, and went on until 1663. Nevertheless, the Peace of Westphalia did settle many outstanding European issues of the time.
 
 Westphalian sovereignty
 

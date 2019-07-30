@@ -21,7 +21,7 @@ The Dutch name _Maas_ descends from Middle Dutch _Mase_, which comes from the pr
 
 Geography
 
-Meuse_River_SPOT_1140.jpg satellite. The village in the lower right of the photo is Bogny-sur-Meuse; the village in the upper left is Revin]]
+satellite. The village in the lower right of the photo is Bogny-sur-Meuse; the village in the upper left is Revin]]
 
 The Meuse rises in Pouilly-en-Bassigny, commune of Le Châtelet-sur-Meuse on the Langres plateau in France from where it flows northwards past Sedan (the head of navigation) and Charleville-Mézières into Belgium.[11]
 
@@ -48,7 +48,7 @@ The Cretaceous sea reptile Mosasaur is named after the river Meuse. The first fo
 
 Basin area
 
-Dinant_Rochers_Freyr_R01.jpg south of Dinant]] 01-Namur-290305_(1).jpg capital of Wallonia]] Meuse_fragnee.jpg, third river port of Europe]] Maas.jpg Meuse near Gennep|thumb Maas_grave.jpg]] Meuse near Appeltern|thumb
+south of Dinant]] capital of Wallonia]] , third river port of Europe]] ]]
 
 An international agreement was signed in 2002 in Ghent, Belgium about the management of the river amongst France, Germany, Luxembourg, the Netherlands, and Belgium. Also participating in the agreement were the Belgian regional governments of Flanders, Wallonia, and Brussels (which is not in the basin of the Meuse but pumps running water into the Meuse).
 
@@ -109,7 +109,7 @@ The main tributaries of the Meuse are listed below in downstream-upstream order,
 
 Distributaries
 
-Rijn_Maas_Delta.jpg-Meuse Delta]]The mean annual discharge rate of the Meuse has been relatively stable over the last few thousand years. One recent study estimates that average flow has increased about 10% since 2000 BC.[16] The hydrological distribution of the Meuse changed during the later Middle Ages, when a major flood forced it to shift its main course northwards towards the river Merwede. From then on, several stretches of the original Merwede were named "Maas" (i.e. Meuse) instead and served as the primary outflow of that river. Those branches are currently known as the Nieuwe Maas and Oude Maas.
+-Meuse Delta]]The mean annual discharge rate of the Meuse has been relatively stable over the last few thousand years. One recent study estimates that average flow has increased about 10% since 2000 BC.[16] The hydrological distribution of the Meuse changed during the later Middle Ages, when a major flood forced it to shift its main course northwards towards the river Merwede. From then on, several stretches of the original Merwede were named "Maas" (i.e. Meuse) instead and served as the primary outflow of that river. Those branches are currently known as the Nieuwe Maas and Oude Maas.
 
 However, during another series of severe floods the Meuse found an additional path towards the sea, resulting in the creation of the Biesbosch wetlands and Hollands Diep estuaries. Thereafter, the Meuse split near Heusden into two main distributaries, one flowing north to join the Merwede, and one flowing directly to the sea. The branch of the Meuse leading directly to the sea eventually silted up, (and now forms the Oude Maasje stream), but in 1904 the canalised Bergse Maas was dug to take over the functions of the silted-up branch. At the same time, the branch leading to the Merwede was dammed at Heusden, (and has since been known as the Afgedamde Maas) so that little water from the Meuse entered the old Maas courses, or the Rhine distributaries. The resulting separation of the rivers Rhine and Meuse is considered to be the greatest achievement in Dutch hydraulic engineering before the completion of the Zuiderzee Works and Delta Works.[17][18] In 1970 the Haringvlietdam has been finished. Since then the reunited Rhine and Meuse waters reach the North Sea either at this site or, during times of lower discharges of the Rhine, at Hoek van Holland.[19]
 

@@ -37,7 +37,7 @@ The breakdown of law and order which occurred in the period under review would n
 
 Executive branch
 
-Seal_of_the_President_of_Nigeria.svg.]] The president is elected through universal suffrage. He or she is both the chief of state and head of government, heading the Federal Executive Council, or cabinet.
+.]] The president is elected through universal suffrage. He or she is both the chief of state and head of government, heading the Federal Executive Council, or cabinet.
 
 The executive branch is divided into Federal Ministries, each headed by a minister appointed by the president. The president must include at least one member from each of the 36 states in his cabinet. The President's appointments are confirmed by the Senate of Nigeria. In some cases, a federal minister is responsible for more than one ministry (for example, Environment and Housing may be combined), or a minister may be assisted by one or more ministers of State.[5] Each ministry also has a Permanent Secretary, who is a senior civil servant.[6]
 
@@ -46,7 +46,7 @@ The ministries are responsible for various parastatals (government-owned corpora
 
 Legislative branch
 
-Nigeriahouseofreps.jpg.]] The National Assembly of Nigeria has two chambers: the House of Representatives and the Senate. The House of Representatives is presided over by the Speaker of the House of Representatives. It has 360 members, who are elected for four-year terms in single-seat constituencies. The Senate, which has 109 members, is presided over by the President of the Senate. 108 members are elected for four-year terms in 36 three-seat constituencies, which correspond to the country's 36 states. One member is selected in the single-seat constituency of the federal capital.
+.]] The National Assembly of Nigeria has two chambers: the House of Representatives and the Senate. The House of Representatives is presided over by the Speaker of the House of Representatives. It has 360 members, who are elected for four-year terms in single-seat constituencies. The Senate, which has 109 members, is presided over by the President of the Senate. 108 members are elected for four-year terms in 36 three-seat constituencies, which correspond to the country's 36 states. One member is selected in the single-seat constituency of the federal capital.
 
   -----------------------------------------
   OFFICE
@@ -134,8 +134,6 @@ Each state is further divided into Local Government Areas (LGAs). There are 774 
 
 
 Military
-
-Nigerian_troops_with_US_C130.jpg
 
 The military of Nigeria has played a major role in the country's history, often seizing control of the country and ruling it for long periods of time. Its last period of rule ended in 1999, following the death of the leader of the previous military junta Sani Abacha in 1998.
 

@@ -1,4 +1,4 @@
-Paul_Gauguin_-_D'ou_venons-nous.jpg'', one of Post-Impressionist Paul Gauguin's most famous paintings]]
+'', one of Post-Impressionist Paul Gauguin's most famous paintings]]
 
 The MEANING OF LIFE, or the ANSWER TO THE QUESTION: "WHAT IS THE MEANING OF LIFE?", pertains to the significance of living or existence in general. Many other related questions include: "Why are we here?", "What is life all about?", or "What is the purpose of existence?" There have been a large number of proposed answers to these questions from many different cultural and ideological backgrounds. The search for life's meaning has produced much philosophical, scientific, theological, and metaphysical speculation throughout history. Different people and cultures believe different things for the answer to this question.
 
@@ -9,7 +9,7 @@ Questions
 
 Questions about the meaning of life have been expressed in a broad variety of ways, including the following:
 
--   What is the meaning of life? What's it all about? Who are we?[1][2][3] Rembrandt_Harmensz._van_Rijn_038-crop.jpg]]
+-   What is the meaning of life? What's it all about? Who are we?[1][2][3] ]]
 -   Why are we here? What are we here for?[4][5][6]
 -   What is the origin of life?[7]
 -   What is the nature of life? What is the nature of reality?[8][9][10]
@@ -44,7 +44,7 @@ Emerging research shows that meaning in life predicts better physical health out
 
 Origin and nature of biological life
 
-DNA_Overview.png, the molecule containing the genetic instructions for the development and functioning of all known living organisms.]] The exact mechanisms of abiogenesis are unknown: notable hypotheses include the RNA world hypothesis (RNA-based replicators) and the iron-sulfur world hypothesis (metabolism without genetics). The process by which different lifeforms have developed throughout history via genetic mutation and natural selection is explained by evolution.[29] At the end of the 20th century, based upon insight gleaned from the gene-centered view of evolution, biologists George C. Williams, Richard Dawkins, and David Haig, among others, concluded that if there is a primary function to life, it is the replication of DNA and the survival of one's genes.[30][31] This view has not achieved universal agreement; Jeremy Griffith is a notable exception, maintaining that the meaning of life is to be integrative.[32] Responding to an interview question from Richard Dawkins about "what it is all for", James Watson stated "I don't think we're _for_ anything. We're just the products of evolution."[33]
+, the molecule containing the genetic instructions for the development and functioning of all known living organisms.]] The exact mechanisms of abiogenesis are unknown: notable hypotheses include the RNA world hypothesis (RNA-based replicators) and the iron-sulfur world hypothesis (metabolism without genetics). The process by which different lifeforms have developed throughout history via genetic mutation and natural selection is explained by evolution.[29] At the end of the 20th century, based upon insight gleaned from the gene-centered view of evolution, biologists George C. Williams, Richard Dawkins, and David Haig, among others, concluded that if there is a primary function to life, it is the replication of DNA and the survival of one's genes.[30][31] This view has not achieved universal agreement; Jeremy Griffith is a notable exception, maintaining that the meaning of life is to be integrative.[32] Responding to an interview question from Richard Dawkins about "what it is all for", James Watson stated "I don't think we're _for_ anything. We're just the products of evolution."[33]
 
 Though scientists have intensively studied life on Earth, defining life in unequivocal terms is still a challenge.[34][35] Physically, one may say that life "feeds on negative entropy"[36][37][38] which refers to the process by which living entities decrease their internal entropy at the expense of some form of energy taken in from the environment.[39][40] Biologists generally agree that lifeforms are self-organizing systems which regulate their internal environments as to maintain this organized state, metabolism serves to provide energy, and reproduction causes life to continue over a span of multiple generations. Typically, organisms are responsive to stimuli and genetic information changes from generation to generation, resulting in adaptation through evolution; this optimizes the chances of survival for the individual organism and its descendants respectively.[41]
 
@@ -52,7 +52,7 @@ Non-cellular replicating agents, notably viruses, are generally not considered t
 
 Origins and ultimate fate of the universe
 
-CMB_Timeline300_no_WMAP.jpg. The inflationary epoch is the expansion of the metric tensor at left.]]
+. The inflationary epoch is the expansion of the metric tensor at left.]]
 
 Though the Big Bang theory was met with much skepticism when first introduced, it has become well-supported by several independent observations.[42] However, current physics can only describe the early universe from 10^(−43) seconds after the Big Bang (where zero time corresponds to infinite temperature); a theory of quantum gravity would be required to understand events before that time. Nevertheless, many physicists have speculated about what would have preceded this limit, and how the universe came into being.[43] For example, one interpretation is that the Big Bang occurred coincidentally, and when considering the anthropic principle, it is sometimes interpreted as implying the existence of a multiverse.[44]
 
@@ -64,7 +64,7 @@ Scientific questions about the mind
 
 The nature and origin of consciousness and the mind itself are also widely debated in science. The explanatory gap is generally equated with the hard problem of consciousness, and the question of free will is also considered to be of fundamental importance. These subjects are mostly addressed in the fields of cognitive science, neuroscience (e.g. the neuroscience of free will) and philosophy of mind, though some evolutionary biologists and theoretical physicists have also made several allusions to the subject.[46][47]
 
-Hieronymus_Bosch_013.jpg's _Ascent of the Blessed_ depicts a tunnel of light and spiritual figures, often described in reports of near-death experiences.]] Reductionistic and eliminative materialistic approaches, for example the Multiple Drafts Model, hold that consciousness can be wholly explained by neuroscience through the workings of the brain and its neurons, thus adhering to biological naturalism.[48][49][50]
+'s _Ascent of the Blessed_ depicts a tunnel of light and spiritual figures, often described in reports of near-death experiences.]] Reductionistic and eliminative materialistic approaches, for example the Multiple Drafts Model, hold that consciousness can be wholly explained by neuroscience through the workings of the brain and its neurons, thus adhering to biological naturalism.[48][49][50]
 
 On the other hand, some scientists, like Andrei Linde, have considered that consciousness, like spacetime, might have its own intrinsic degrees of freedom, and that one's perceptions may be as real as (or even more real than) material objects.[51] Hypotheses of consciousness and spacetime explain consciousness in describing a "space of conscious elements",[52] often encompassing a number of extra dimensions.[53] Electromagnetic theories of consciousness solve the binding problem of consciousness in saying that the electromagnetic field generated by the brain is the actual carrier of conscious experience, there is however disagreement about the implementations of such a theory relating to other workings of the mind.[54][55] Quantum mind theories use quantum theory in explaining certain properties of the mind. Explaining the process of free will through quantum phenomena is a popular alternative to determinism.
 
@@ -92,7 +92,7 @@ The philosophical perspectives on the meaning of life are those ideologies which
 
 Ancient Greek philosophy
 
-Sanzio_01_Plato_Aristotle.jpg'' fresco, by Raphael. Plato is pointing heavenwards to the sky, and Aristotle is gesturing to the world.]]
+'' fresco, by Raphael. Plato is pointing heavenwards to the sky, and Aristotle is gesturing to the world.]]
 
 Platonism
 
@@ -144,7 +144,7 @@ There are many forms and derivations of liberalism, but their central conception
 
 Kantianism
 
-Immanuel_Kant_(portrait).jpg is regarded as one of the most influential thinkers of the late Enlightenment.]]
+is regarded as one of the most influential thinkers of the late Enlightenment.]]
 
 Kantianism is a philosophy based on the ethical, epistemological, and metaphysical works of Immanuel Kant. Kant is known for his deontological theory where there is a single moral obligation, the "Categorical Imperative", derived from the concept of duty. Kantians believe all actions are performed in accordance with some underlying maxim or principle, and for actions to be ethical, they must adhere to the categorical imperative.
 
@@ -156,7 +156,7 @@ Kant also denied that the consequences of an act in any way contribute to the mo
 
 Utilitarianism
 
-Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg]]
+]]
 
 The origins of utilitarianism can be traced back as far as Epicurus, but, as a school of thought, it is credited to Jeremy Bentham,[79] who found that "nature has placed mankind under the governance of two sovereign masters, pain and pleasure", then, from that moral insight, deriving the _Rule of Utility_: "that the good is whatever brings the greatest happiness to the greatest number of people". He defined the meaning of life as the "greatest happiness principle".
 
@@ -168,7 +168,7 @@ Nihilism suggests that life is without objective meaning.
 
 Friedrich Nietzsche characterized nihilism as emptying the world, and especially human existence, of meaning, purpose, comprehensible truth, and essential value; succinctly, nihilism is the process of "the devaluing of the highest values".[81] Seeing the nihilist as a natural result of the idea that God is dead, and insisting it was something to overcome, his questioning of the nihilist's life-negating values returned meaning to the Earth.[82]
 
-John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg'', by John Martin.]] To Martin Heidegger, nihilism is the movement whereby "being" is forgotten, and is transformed into value, in other words, the reduction of being to exchange value.[83] Heidegger, in accordance with Nietzsche, saw in the so-called "death of God" a potential source for nihilism: ''
+'', by John Martin.]] To Martin Heidegger, nihilism is the movement whereby "being" is forgotten, and is transformed into value, in other words, the reduction of being to exchange value.[83] Heidegger, in accordance with Nietzsche, saw in the so-called "death of God" a potential source for nihilism: ''
 
   If God, as the supra-sensory ground and goal, of all reality, is dead; if the supra-sensory world of the Ideas has suffered the loss of its obligatory, and above it, its vitalizing and up-building power, then nothing more remains to which Man can cling, and by which he can orient himself.[84]
 
@@ -192,7 +192,7 @@ Theists believe God created the universe and that God had a purpose in doing so.
 
 Existentialism
 
-The_Scream.jpg's _The Scream_, a representation of existential angst.]] According to existentialism, each man and each woman creates the essence (meaning) of their life; life is not determined by a supernatural god or an earthly authority, one is free. As such, one's ethical prime directives are _action_, _freedom_, and _decision_, thus, existentialism opposes rationalism and positivism. In seeking meaning to life, the existentialist looks to where people find meaning in life, in course of which using only reason as a source of meaning is insufficient; this gives rise to the emotions of anxiety and dread, felt in considering one's free will, and the concomitant awareness of death. According to Jean-Paul Sartre, existence precedes essence; the (essence) of one's life arises _only_ after one comes to existence.
+'s _The Scream_, a representation of existential angst.]] According to existentialism, each man and each woman creates the essence (meaning) of their life; life is not determined by a supernatural god or an earthly authority, one is free. As such, one's ethical prime directives are _action_, _freedom_, and _decision_, thus, existentialism opposes rationalism and positivism. In seeking meaning to life, the existentialist looks to where people find meaning in life, in course of which using only reason as a source of meaning is insufficient; this gives rise to the emotions of anxiety and dread, felt in considering one's free will, and the concomitant awareness of death. According to Jean-Paul Sartre, existence precedes essence; the (essence) of one's life arises _only_ after one comes to existence.
 
 Søren Kierkegaard spoke about a "leap", arguing that life is full of absurdity, and one must make his and her own values in an indifferent world. One can live meaningfully (free of despair and anxiety) in an unconditional commitment to something finite, and devotes that meaningful life to the commitment, despite the vulnerability inherent to doing so.[91]
 
@@ -210,7 +210,7 @@ In absurdist philosophy, the Absurd arises out of the fundamental disharmony bet
 
 Secular humanism
 
-HumanismSymbol.PNG" symbol representing Secular Humanism.]]
+" symbol representing Secular Humanism.]]
 
 Per secular humanism, the human species came to be by reproducing successive generations in a progression of unguided evolution as an integral expression of nature, which is self-existing.[96][97] Human knowledge comes from human observation, experimentation, and rational analysis (the scientific method), and not from supernatural sources; the nature of the universe is what people discern it to be.[98] Likewise, "values and realities" are determined "by means of intelligent inquiry"[99] and "are derived from human need and interest as tested by experience", that is, by critical intelligence.[100][101] "As far as we know, the total personality is [a function] of the biological organism transacting in a social and cultural context."[102]
 
@@ -262,7 +262,7 @@ The religious perspectives on the meaning of life are those ideologies which exp
 
 Abrahamic religions
 
-ReligionSymbolAbr.PNG, Christianity, and Islam]]
+, Christianity, and Islam]]
 
 Judaism
 
@@ -276,7 +276,7 @@ The Jewish mystical Kabbalah gives complementary esoteric meanings of life. As w
 
 Christianity
 
-Cristo_Redentor_-_Rio.jpg'' statue on Corcovado mountain in Rio de Janeiro is symbolic of Christianity,[124] illustrating the concept of seeking redemption through Jesus Christ.]]
+'' statue on Corcovado mountain in Rio de Janeiro is symbolic of Christianity,[124] illustrating the concept of seeking redemption through Jesus Christ.]]
 
 Christianity has its roots in Judaism, and shares much of the latter faith's ontology. Its central beliefs derive from the teachings of Jesus Christ as presented in the New Testament. Life's purpose in Christianity is to seek divine salvation through the grace of God and intercession of Christ (John 11:26). The New Testament speaks of God wanting to have a relationship with humans both in this life and the life to come, which can happen only if one's sins are forgiven (John 3:16–21; 2 Peter 3:9).
 
@@ -306,7 +306,7 @@ The Sufi view of the meaning of life stems from the hadith qudsi that states "I 
 
 Bahá'í Faith
 
-Ringstone.svg represents humanity's connection to God]]
+represents humanity's connection to God]]
 
 The Bahá'í Faith emphasizes the unity of humanity.[142] To Bahá'ís, the purpose of life is focused on spiritual growth and service to humanity. Human beings are viewed as intrinsically spiritual beings. People's lives in this material world provide extended opportunities to grow, to develop divine qualities and virtues, and the prophets were sent by God to facilitate this.[143][144]
 
@@ -314,7 +314,7 @@ South Asian religions
 
 Hindu philosophies
 
-Golden_Aum.png written in Devanagari. The Aum is sacred in Hindu, Jain and Buddhist religions.]]
+written in Devanagari. The Aum is sacred in Hindu, Jain and Buddhist religions.]]
 
 Hinduism is a religious category including many beliefs and traditions. Since Hinduism was the way of expressing meaningful living for a long time, before there was a need for naming it as a separate religion, Hindu doctrines are supplementary and complementary in nature, generally non-exclusive, suggestive and tolerant in content.[145] Most believe that the ātman (spirit, soul)—the person's true _self_—is eternal.[146] In part, this stems from Hindu beliefs that spiritual development occurs across many lifetimes, and goals should match the state of development of the individual. There are four possible aims to human life, known as the _purusharthas_ (ordered from least to greatest): (i)_Kāma_ (wish, desire, love and sensual pleasure), (ii)_Artha_ (wealth, prosperity, glory), (iii)_Dharma_ (righteousness, duty, morality, virtue, ethics), encompassing notions such as _ahimsa_ (non-violence) and satya (truth) and (iv)_Moksha_ (liberation, i.e. liberation from Saṃsāra, the cycle of reincarnation).[147][148][149]
 
@@ -352,7 +352,7 @@ Earlier Buddhism
 
 Buddhists practice to embrace with mindfulness the ill-being (suffering) and well-being that is present in life. Buddhists practice to see the causes of ill-being and well-being in life. For example, one of the causes of suffering is unhealthy attachment to objects material or non-material. The Buddhist sūtras and tantras do not speak about "the meaning of life" or "the purpose of life", but about the potential of human life to end suffering, for example through embracing (not suppressing or denying) cravings and conceptual attachments. Attaining and perfecting dispassion is a process of many levels that ultimately results in the state of Nirvana. Nirvana means freedom from both suffering and rebirth.[160]
 
-Dharma_Wheel.svg]] Theravada Buddhism is generally considered to be close to the early Buddhist practice. It promotes the concept of Vibhajjavada (Pali), literally "Teaching of Analysis", which says that insight must come from the aspirant's experience, critical investigation, and reasoning instead of by blind faith. However, the Theravadin tradition also emphasizes heeding the advice of the wise, considering such advice and evaluation of one's own experiences to be the two tests by which practices should be judged. The Theravadin goal is liberation (or freedom) from suffering, according to the Four Noble Truths. This is attained in the achievement of Nirvana, or Unbinding which also ends the repeated cycle of birth, old age, sickness and death. The way to attain Nirvana is by following and practicing the Noble Eightfold Path.
+]] Theravada Buddhism is generally considered to be close to the early Buddhist practice. It promotes the concept of Vibhajjavada (Pali), literally "Teaching of Analysis", which says that insight must come from the aspirant's experience, critical investigation, and reasoning instead of by blind faith. However, the Theravadin tradition also emphasizes heeding the advice of the wise, considering such advice and evaluation of one's own experiences to be the two tests by which practices should be judged. The Theravadin goal is liberation (or freedom) from suffering, according to the Four Noble Truths. This is attained in the achievement of Nirvana, or Unbinding which also ends the repeated cycle of birth, old age, sickness and death. The way to attain Nirvana is by following and practicing the Noble Eightfold Path.
 
 Mahayana Buddhism
 
@@ -362,7 +362,7 @@ Philosophical schools of Mahayana Buddhism, such as Chan/Zen and the vajrayana T
 
 Sikhism
 
-Khanda.svg, an important symbol of Sikhism.]]
+, an important symbol of Sikhism.]]
 
 The monotheistic Sikh religion was founded by Guru Nanak Dev, the term "Sikh" means student, which denotes that followers will lead their lives forever learning. This system of religious philosophy and expression has been traditionally known as the Gurmat (literally "the counsel of the gurus") or the Sikh Dharma. The followers of Sikhism are ordained to follow the teachings of the ten Sikh Gurus, or enlightened leaders, as well as the holy scripture entitled the _Gurū Granth Sāhib_, which includes selected works of many philosophers from diverse socio-economic and religious backgrounds.
 
@@ -374,7 +374,7 @@ East Asian religions
 
 Taoism
 
-Yin_yang.svg'' symbolizes the unity of opposites between yin and yang.]]
+'' symbolizes the unity of opposites between yin and yang.]]
 
 Taoist cosmogony emphasizes the need for all sentient beings and all man to return to the _primordial_ or to rejoin with the _Oneness_ of the Universe by way of self-cultivation and self-realization. All adherents should understand and be in tune with the ultimate truth.
 
@@ -382,7 +382,7 @@ Taoists believe all things were originally from Taiji and Tao, and the meaning i
 
 Shinto
 
-Shinto_torii_vermillion.svg, a traditional Japanese gate]]
+, a traditional Japanese gate]]
 
 Shinto is the native religion of Japan. Shinto means "the path of the kami", but more specifically, it can be taken to mean "the divine crossroad where the kami chooses his way". The "divine" crossroad signifies that all the universe is divine spirit. This foundation of free will, choosing one's way, means that life is a creative process.
 
@@ -463,7 +463,7 @@ To do good, to do the right thing
 -   To be honorable.[233]
 -   To seek peace.[234]
 
-Paradiso_Canto_31.jpg's illustrations for the _Divine Comedy_]]
+'s illustrations for the _Divine Comedy_]]
 
 Meanings relating to religion
 
@@ -527,7 +527,7 @@ Antinatalism
 
 In popular culture
 
-Allisvanity.jpg's _All is Vanity,_ an example of _vanitas,_ depicts a young woman amidst her makeup and perfumes, preoccupied with her own beauty at the mirror of her vanity. But all is positioned in such a way as to make the image of a skull appear, expressing _memento mori_, that no matter how good she looks, it won't last, as death is inevitable.]]
+'s _All is Vanity,_ an example of _vanitas,_ depicts a young woman amidst her makeup and perfumes, preoccupied with her own beauty at the mirror of her vanity. But all is positioned in such a way as to make the image of a skull appear, expressing _memento mori_, that no matter how good she looks, it won't last, as death is inevitable.]]
 
 The mystery of life and its true meaning is an often recurring subject in popular culture, featured in entertainment media and various forms of art.
 
@@ -537,7 +537,7 @@ Many other Python sketches and songs are also existential in nature, questioning
 
 In Douglas Adams' popular comedy book, movie, television, and radio series _The Hitchhiker's Guide to the Galaxy_, the Answer to the Ultimate Question of Life, the Universe, and Everything is given the numeric solution "42", after seven and a half million years of calculation by a giant supercomputer called Deep Thought. When this answer is met with confusion and anger from its constructors, Deep Thought explains that "I think the problem such as it was, was too broadly based. You never actually stated what the question was.".[289][290][291][292][293] Deep Thought then constructs another computer—the Earth—to calculate what the Ultimate Question actually is. Later Ford and Arthur manage to extract the question as the Earth computer would have rendered it. That question turns out to be "what do you get if you multiply six by nine",[294] and it is realised that the program was ruined by the unexpected arrival of the Golgafrinchans on Earth, and so the actual Ultimate Question Of Life, The Universe, And Everything remains unknown. While 6 x 9 would be written as 42 in the tridecimal numeral system, author Douglas Adams claimed that this was mere coincidence and completely serendipitous.
 
-HamletSkullHCSealous.jpg meditating upon Yorick's skull has become the most lasting embodiment of the imagery of vanitas, conveying the theme _memento mori_ ('Remember you shall die'). Whatever the meaning of life, it (life) is fleeting.]]
+meditating upon Yorick's skull has become the most lasting embodiment of the imagery of vanitas, conveying the theme _memento mori_ ('Remember you shall die'). Whatever the meaning of life, it (life) is fleeting.]]
 
 In _The Simpsons_ episode "Homer the Heretic", a representation of God agrees to tell Homer what the meaning of life is, but the show's credits begin to roll just as he starts to say what it is.[295]
 

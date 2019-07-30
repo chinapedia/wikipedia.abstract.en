@@ -8,7 +8,7 @@ Travel to North Korea is tightly controlled. The standard route to and from Nort
 
 Roads
 
-NKroads.svg Motorway_Map-KP.png (as of 2014)]] Motorway_future_plan-KP.png Pyongyang_Toyota_Landcruiser.jpg Toyota Land Cruiser in front of a Pyongyang hotel]] Fuel constraints and the near absence of private automobiles have relegated road transportation to a secondary role.[8] The road network was estimated to be around in 1999, up from between and in 1990, of which only , 7.5%, are paved. However, _The World Factbook_ (published by the US Central Intelligence Agency) lists of roads with only paved as of 2006.[9] As for the road quality, drivers will often swerve and change lanes to evade potholes, and this includes going into opposite-direction lanes at times. Likewise, sections under repair may not be properly signalled, so oncoming traffic should always be expected even on a divided motorway.
+(as of 2014)]] Toyota Land Cruiser in front of a Pyongyang hotel]] Fuel constraints and the near absence of private automobiles have relegated road transportation to a secondary role.[8] The road network was estimated to be around in 1999, up from between and in 1990, of which only , 7.5%, are paved. However, _The World Factbook_ (published by the US Central Intelligence Agency) lists of roads with only paved as of 2006.[9] As for the road quality, drivers will often swerve and change lanes to evade potholes, and this includes going into opposite-direction lanes at times. Likewise, sections under repair may not be properly signalled, so oncoming traffic should always be expected even on a divided motorway.
 
 There are three major multilane highways: a expressway connecting Pyongyang and Wonsan on the east coast, a expressway connecting Pyongyang and its port, Nampo, and a four-lane motorway linking Pyongyang and Kaesong. The overwhelming majority of the estimated 264,000 vehicles in use in 1990 were for the military. Rural bus service connects all villages, and cities have bus and tram services.[10] Since 1945/1946, there is right-hand traffic on roads. In cities, driving speeds are set by which lane a driver is in.[11] The speed limits are , , and for the first, second, and subsequent (if existing) lanes _from the right_, respectively. A white-on-blue sign informs about this.[12] The leftmost lane, if it is number 3 from the right or higher and is not a turning lane, is often left vacant, even by tourist buses, while the second-from-right lane is generally used to overtake vehicles from lane one, such as public transport buses and trams.
 
@@ -115,7 +115,7 @@ It was reported that North Korean air traffic controllers had been cut off from 
 
 Vehicle markings
 
-Pyongyang_city_Tram.jpg with three distance stars, indicating it has gone over at least safely.]] Road vehicles in North Korea bear DISTANCE STARS. These are paint markings which display how far the particular vehicle has traveled without incident. Each star represents travelled without an accident.[27][28] The bus in this example has three stars, indicating that it has traveled over without a crash.
+with three distance stars, indicating it has gone over at least safely.]] Road vehicles in North Korea bear DISTANCE STARS. These are paint markings which display how far the particular vehicle has traveled without incident. Each star represents travelled without an accident.[27][28] The bus in this example has three stars, indicating that it has traveled over without a crash.
 
 
 See also

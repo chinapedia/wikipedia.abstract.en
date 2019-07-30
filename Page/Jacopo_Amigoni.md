@@ -1,5 +1,3 @@
-Jacopo_Amigoni_-_Juno_Receiving_the_Head_of_Argos_-_WGA00272.jpg
-
 JACOPO AMIGONI (ca. 1685–1752), also named GIACOMO AMICONI, was an Italian painter of the late-Baroque or Rococo period, who began his career in Venice, but traveled and was prolific throughout Europe, where his sumptuous portraits were much in demand.
 
 

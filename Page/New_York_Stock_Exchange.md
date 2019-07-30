@@ -5,8 +5,6 @@ The NYSE is owned by Intercontinental Exchange, an American holding company that
 
 History
 
-New_York_Stock_Exchange_1882.jpg
-
 The earliest recorded organization of securities trading in New York among brokers directly dealing with each other can be traced to the Buttonwood Agreement. Previously securities exchange had been intermediated by the auctioneers who also conducted more mundane auctions of commodities such as wheat and tobacco.[6] On May 17, 1792 twenty four brokers signed the Buttonwood Agreement which set a floor commission rate charged to clients and bound the signers to give preference to the other signers in securities sales. The earliest securities traded were mostly governmental securities such as War Bonds from the Revolutionary War and First Bank of the United States stock,[7] although Bank of New York stock was a non-governmental security traded in the early days.[8] The Bank of North America along with the First Bank of the United States and the Bank of New York were the first shares traded on the New York Stock Exchange.[9]
 
 In 1817 the stockbrokers of New York operating under the Buttonwood Agreement instituted new reforms and reorganized. After sending a delegation to Philadelphia to observe the organization of their board of brokers, restrictions on manipulative trading were adopted as well as formal organs of governance.[10] After re-forming as the New York Stock and Exchange Board the broker organization began renting out space exclusively for securities trading, which previously had been taking place at the Tontine Coffee House. Several locations were used between 1817 and 1865, when the present location was adopted.[11]
@@ -19,7 +17,7 @@ The Stock Exchange Luncheon Club was situated on the seventh floor from 1898 unt
 
 The main building, located at 18 Broad Street, between the corners of Wall Street and Exchange Place, was designated a National Historic Landmark in 1978,[16] as was the 11 Wall Street building.[17][18][19]
 
-Stockexchange.jpg The NYSE announced its plans to merge with Archipelago on April 21, 2005, in a deal intended to reorganize the NYSE as a publicly traded company. NYSE's governing board voted to merge with rival Archipelago on December 6, 2005, and became a for-profit, public company. It began trading under the name NYSE Group on March 8, 2006. A little over one year later, on April 4, 2007, the NYSE Group completed its merger with Euronext, the European combined stock market, thus forming NYSE Euronext, the first transatlantic stock exchange.
+The NYSE announced its plans to merge with Archipelago on April 21, 2005, in a deal intended to reorganize the NYSE as a publicly traded company. NYSE's governing board voted to merge with rival Archipelago on December 6, 2005, and became a for-profit, public company. It began trading under the name NYSE Group on March 8, 2006. A little over one year later, on April 4, 2007, the NYSE Group completed its merger with Euronext, the European combined stock market, thus forming NYSE Euronext, the first transatlantic stock exchange.
 
 Wall Street is the leading US money center for international financial activities and the foremost US location for the conduct of wholesale financial services. "It comprises a matrix of wholesale financial sectors, financial markets, financial institutions, and financial industry firms" (Robert, 2002). The principal sectors are securities industry, commercial banking, asset management, and insurance.
 
@@ -39,7 +37,7 @@ On October 1, 1934, the exchange was registered as a national securities exchang
 
 One of Abbie Hoffman's well-known publicity stunts took place in 1967, when he led members of the Yippie movement to the Exchange's gallery. The provocateurs hurled fistfuls of dollars toward the trading floor below. Some traders booed, and some laughed and waved. Three months later the stock exchange enclosed the gallery with bulletproof glass.[23] Hoffman wrote a decade later, "We didn't call the press; at that time we really had no notion of anything called a media event."[24]
 
-NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg floor before the introduction of electronic readouts and computer screens.]] On October 19, 1987, the Dow Jones Industrial Average (DJIA) dropped 508 points, a 22.6% loss in a single day, the second-biggest one-day drop the exchange had experienced. Black Monday was followed by Terrible Tuesday, a day in which the Exchange's systems did not perform well and some people had difficulty completing their trades.
+floor before the introduction of electronic readouts and computer screens.]] On October 19, 1987, the Dow Jones Industrial Average (DJIA) dropped 508 points, a 22.6% loss in a single day, the second-biggest one-day drop the exchange had experienced. Black Monday was followed by Terrible Tuesday, a day in which the Exchange's systems did not perform well and some people had difficulty completing their trades.
 
 Subsequently, there was another major drop for the Dow on October 13, 1989—the Mini-Crash of 1989. The crash was apparently caused by a reaction to a news story of a $6.75 billion leveraged buyout deal for UAL Corporation, the parent company of United Airlines, which broke down. When the UAL deal fell through, it helped trigger the collapse of the junk bond market causing the Dow to fall 190.58 points, or 6.91 percent.
 
@@ -71,8 +69,6 @@ The New York Stock Exchange is closed on New Years Day, Martin Luther King, Jr. 
 
 Trading
 
-NYSE_นายกรัฐมนตรี_เข้าร่วมการประชุมสมัชชาสหประชาชาติ_-_Flickr_-_Abhisit_Vejjajiva_(17).jpg
-
 The New York Stock Exchange (sometimes referred to as "the BIG BOARD") provides a means for buyers and sellers to trade shares of stock in companies registered for public trading. The NYSE is open for trading Monday through Friday from 9:30 am – 4:00 pm ET, with the exception of holidays declared by the Exchange in advance.
 
 The NYSE trades in a continuous auction format, where traders can execute stock transactions on behalf of investors. They will gather around the appropriate post where a specialist broker, who is employed by a NYSE member firm (that is, he/she is not an employee of the New York Stock Exchange), acts as an auctioneer in an open outcry auction market environment to bring buyers and sellers together and to manage the actual auction. They do on occasion (approximately 10% of the time) facilitate the trades by committing their own capital and as a matter of course disseminate information to the crowd that helps to bring buyers and sellers together. The auction process moved toward automation in 1995 through the use of wireless hand held computers (HHC). The system enabled traders to receive and execute orders electronically via wireless transmission. On September 25, 1995, NYSE member Michael Einersen, who designed and developed this system, executed 1000 shares of IBM through this HHC ending a 203-year process of paper transactions and ushering in an era of automated trading.
@@ -88,8 +84,6 @@ NYSE Composite Index
 In the mid-1960s, the NYSE Composite Index (NYSE: NYA) was created, with a base value of 50 points equal to the 1965 yearly close.[39] This was done to reflect the value of all stocks trading at the exchange instead of just the 30 stocks included in the Dow Jones Industrial Average. To raise the profile of the composite index, in 2003 the NYSE set its new base value of 5,000 points equal to the 2002 yearly close. Its close at the end of 2013 was 10,400.32.
 
 Timeline
-
-NewYorkStockExchangeWallStreetManhattan.jpg
 
 -   In 1792, NYSE acquires its first traded securities.[40][41]
 -   In 1817, the constitution of the New York Stock and Exchange Board is adopted, it had also been established by the New York brokers as a formal organization.[42]
@@ -129,7 +123,7 @@ NewYorkStockExchangeWallStreetManhattan.jpg
 -   In 1996, real-time ticker introduced.[57]
 -   In 1997, on October 27, a sell-off in Asia's stock markets hurts the U.S. markets as well; DJIA sees the largest one-day _point_ drop of 554 (or 7.18%) in history.[58]
 -   In 1999, the DJIA exceeds 10,000 on March 29.
--   In 2000, the DJIA peaks at 11,722.98 on January 14; first NYSE global index is launched under the ticker NYIID. NYSESecurity.JPG]]
+-   In 2000, the DJIA peaks at 11,722.98 on January 14; first NYSE global index is launched under the ticker NYIID. ]]
 -   In 2001, trading in fractions () ends, replaced by decimals (increments of $0.01, see Decimalization); September 11 attacks occur causing NYSE to close for four sessions.
 -   In 2003, NYSE Composite Index relaunched and value set equal to 5,000 points.
 -   In 2006, NYSE and ArcaEx merge, creating NYSE Arca and forming the publicly owned, for-profit NYSE Group, Inc.; in turn, NYSE Group merges with Euronext, creating the first trans-Atlantic stock exchange group; DJIA tops 12,000 on October 19.
@@ -159,7 +153,7 @@ In December 2012, ICE had proposed to buy NYSE Euronext in a stock swap with a v
 
 Opening and closing bells
 
-NYSE_opening_bell.jpg Donald L. Evans rings the 'opening bell' at the NYSE on April 23, 2003. Former chairman Jack Womack is also in this picture.]] STS-125_Crew_Visits_the_Stock_Exchange.jpg astronauts Scott Altman and Mike Massimino ring the 'closing bell'.]]
+Donald L. Evans rings the 'opening bell' at the NYSE on April 23, 2003. Former chairman Jack Womack is also in this picture.]] astronauts Scott Altman and Mike Massimino ring the 'closing bell'.]]
 
 The NYSE's opening and closing bells mark the beginning and the end of each trading day. The 'opening bell' is rung at 9:30 am ET to mark the start of the day's trading session. At 4 pm ET the 'closing bell' is rung and trading for the day stops. There are bells located in each of the four main sections of the NYSE that all ring at the same time once a button is pressed.[72] There are three buttons that control the bells, located on the control panel behind the podium which overlooks the trading floor. The main bell, which is rung at the beginning and end of the trading day, is controlled by a green button. The second button, colored orange, activates a single-stroke bell that is used to signal a moment of silence. A third, red button controls a backup bell which is used in case the main bell fails to ring.[73]
 

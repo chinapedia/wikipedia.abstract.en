@@ -62,7 +62,7 @@ The director of photography for _Seconds_ was the highly regarded James Wong How
 
 _Grand Prix_
 
-John_Frankenheimer_1966_Grand_Prix.jpg Frankenheimer followed _Seconds_ with his most spectacular production, 1966's _Grand Prix_. Shot on location at the Grand Prix races throughout Europe, using 65-mm Cinerama cameras, the film starred James Garner and Eva Marie Saint. The making was a race itself, as John Sturges and Steve McQueen planned to make a similar movie titled _Day of the Champion_.[17]
+Frankenheimer followed _Seconds_ with his most spectacular production, 1966's _Grand Prix_. Shot on location at the Grand Prix races throughout Europe, using 65-mm Cinerama cameras, the film starred James Garner and Eva Marie Saint. The making was a race itself, as John Sturges and Steve McQueen planned to make a similar movie titled _Day of the Champion_.[17]
 
 Due to their contract with the German Nürburgring, Frankenheimer had to turn over 27 reels shot there to Sturges. Frankenheimer was ahead in schedule anyway, and the McQueen/Sturges project was called off, while the German race track was only mentioned briefly in _Grand Prix_. Introducing methods of photographing high-speed auto racing that had never been seen before, mounting cameras on the cars, at full speed and putting the stars in the actual cars, instead of against rear-projections, the film was an international success and won three Oscars, for editing, sound, and sound effects.
 
@@ -98,7 +98,7 @@ Most of his 1980s films were less than successful, both critically and financial
 
 Frankenheimer's 1996 film _The Island of Doctor Moreau_, which he took over half a week into production from Richard Stanley, was the cause of countless stories of production woes and personality clashes and received scathing reviews.The veteran director was said to be unable to stand Val Kilmer, the young co-star of the film. When Kilmer's last scene was completed, Frankenheimer reportedly said, "Now get that bastard off my set." In an interview, Frankenheimer refused to discuss the film, saying only that he had a miserable time making it. Frankenheimer also professed that "Will Rogers never met Val Kilmer".
 
-However, his next film, 1998's _Ronin_, starring Robert De Niro, was a return to form, featuring Frankenheimer's now trademark elaborate car chases woven into a labyrinthine espionage plot. Co-starring an international cast including Jean Reno and Jonathan Pryce, it was a critical and box-office success. As the 1990s drew to a close, he even had a rare acting role, appearing in a cameo as a U.S. general in _The General's Daughter_ (1999). He earlier had an uncredited cameo as a TV director in his 1977 film _Black Sunday_. John_Frankenheimer_on_the_set_of_"Andersonville".JPG
+However, his next film, 1998's _Ronin_, starring Robert De Niro, was a return to form, featuring Frankenheimer's now trademark elaborate car chases woven into a labyrinthine espionage plot. Co-starring an international cast including Jean Reno and Jonathan Pryce, it was a critical and box-office success. As the 1990s drew to a close, he even had a rare acting role, appearing in a cameo as a U.S. general in _The General's Daughter_ (1999). He earlier had an uncredited cameo as a TV director in his 1977 film _Black Sunday_.
 
 Last years and death
 

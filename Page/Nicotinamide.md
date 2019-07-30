@@ -31,9 +31,9 @@ Chemistry
 
 The structure of nicotinamide consists of a pyridine ring to which a primary amide group is attached in the _meta_ position. It is an amide of nicotinic acid.[35] As an aromatic compound, it undergoes electrophilic substitution reactions and transformations of its two functional groups. Examples of these reactions reported in _Organic Syntheses_ include the preparation of 2-chloronicotinonitrile by a two-step process via the _N_-oxide,[36][37]
 
-    Nicotinamide_to_2-chloronicotinonitrile.png
 
-from nicotinonitrile by reaction with phosphorus pentoxide,[38] and from 3-aminopyridine by reaction with a solution of sodium hypobromite, prepared _in situ_ from bromine and sodium hydroxide.[39]Nicotinamide_Spotlight.png, contains the nicotinamide moiety (circled in red)]]
+
+from nicotinonitrile by reaction with phosphorus pentoxide,[38] and from 3-aminopyridine by reaction with a solution of sodium hypobromite, prepared _in situ_ from bromine and sodium hydroxide.[39], contains the nicotinamide moiety (circled in red)]]
 
 Industrial production
 
@@ -41,7 +41,7 @@ The hydrolysis of nicotinonitrile is catalysed by the enzyme nitrile hydratase f
 
 Biochemistry
 
-NAD+_Oxidation_and_Reduction.png Nicotinamide, as a part of the coenzyme nicotinamide adenine dinucleotide (NADH / NAD⁺) is crucial to life. In cells, nicotinamide is incorporated into NAD+ and nicotinamide adenine dinucleotide phosphate (NADP⁺). NAD⁺ and NADP⁺ are coenzymes in a wide variety of enzymatic oxidation-reduction reactions, most notably glycolysis, the citric acid cycle, and the electron transport chain.[47] If humans ingest nicotinamide, it will likely undergo a series of reactions that transform it into NAD, which can then undergo a transformation to form NADP⁺. This method of creation of NAD⁺ is called a salvage pathway. However, the human body can produce NAD⁺ from the amino acid tryptophan and niacin without our ingestion of nicotinamide.[48]
+Nicotinamide, as a part of the coenzyme nicotinamide adenine dinucleotide (NADH / NAD⁺) is crucial to life. In cells, nicotinamide is incorporated into NAD+ and nicotinamide adenine dinucleotide phosphate (NADP⁺). NAD⁺ and NADP⁺ are coenzymes in a wide variety of enzymatic oxidation-reduction reactions, most notably glycolysis, the citric acid cycle, and the electron transport chain.[47] If humans ingest nicotinamide, it will likely undergo a series of reactions that transform it into NAD, which can then undergo a transformation to form NADP⁺. This method of creation of NAD⁺ is called a salvage pathway. However, the human body can produce NAD⁺ from the amino acid tryptophan and niacin without our ingestion of nicotinamide.[48]
 
 NAD⁺ acts as an electron carrier that helps with the interconversion of energy between nutrients and the cell's energy currency, adenosine triphosphate (ATP). In oxidation-reduction reactions, the active part of the coenzyme is the nicotinamide. In NAD⁺, the nitrogen in the aromatic nicotinamide ring is covalently bonded to adenine dinucleotide. The formal charge on the nitrogen is stabilized by the shared electrons of the other carbon atoms in the aromatic ring. When a hydride atom is added onto NAD⁺ to form NADH, the molecule loses its aromaticity, and therefore a good amount of stability. This higher energy product later releases its energy with the release of a hydride, and in the case of the electron transport chain, it assists in forming .[49]
 

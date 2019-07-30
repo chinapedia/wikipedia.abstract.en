@@ -13,7 +13,7 @@ In music synthesizers, modulation may be used to synthesize waveforms with an ex
 
 Analog modulation methods
 
-Amfm3-en-de.gif Waterfall_AM.jpg of a 146.52 MHz radio carrier, with amplitude modulation by a 1,000 Hz sinusoid. Two strong sidebands at + and - 1 kHz from the carrier frequency are shown.]] Waterfall_FM.jpg has been adjusted to around 2.4, so the carrier frequency has small amplitude. Several strong sidebands are apparent; in principle an infinite number are produced in FM but the higher-order sidebands are of negligible magnitude.]]
+of a 146.52 MHz radio carrier, with amplitude modulation by a 1,000 Hz sinusoid. Two strong sidebands at + and - 1 kHz from the carrier frequency are shown.]] has been adjusted to around 2.4, so the carrier frequency has small amplitude. Several strong sidebands are apparent; in principle an infinite number are produced in FM but the higher-order sidebands are of negligible magnitude.]]
 
 In analog modulation, the modulation is applied continuously in response to the analog information signal. Common analog modulation techniques include:
 
@@ -38,8 +38,6 @@ In analog modulation, the modulation is applied continuously in response to the 
 Digital modulation methods
 
 In digital modulation, an analog carrier signal is modulated by a discrete signal. Digital modulation methods can be considered as digital-to-analog conversion and the corresponding demodulation or detection as analog-to-digital conversion. The changes in the carrier signal are chosen from a finite number of M alternative symbols (the _modulation alphabet_).
-
-baud.svg
 
   A SIMPLE EXAMPLE: A telephone line is designed for transferring audible sounds, for example, tones, and not digital bits (zeros and ones). Computers may, however, communicate over a telephone line by means of modems, which are representing the digital bits by tones, called symbols. If there are four alternative symbols (corresponding to a musical instrument that can generate four different tones, one at a time), the first symbol may represent the bit sequence 00, the second 01, the third 10 and the fourth 11. If the modem plays a melody consisting of 1000 tones per second, the symbol rate is 1000 symbols/second, or 1000 baud. Since each tone (i.e., symbol) represents a message consisting of two digital bits in this example, the bit rate is twice the symbol rate, i.e. 2000 bits per second. This is similar to the technique used by dial-up modems as opposed to DSL modems.
 

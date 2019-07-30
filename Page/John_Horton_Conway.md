@@ -16,7 +16,7 @@ After leaving Cambridge in 1986, he took up the appointment to the John von Neum
 
 Conway's Game of Life
 
-Gospers_glider_gun.gif's Glider Gun creating "gliders" in Conway's Game of Life]] Conway is especially known for the invention of the Game of Life, one of the early examples of a cellular automaton. His initial experiments in that field were done with pen and paper, long before personal computers existed.
+'s Glider Gun creating "gliders" in Conway's Game of Life]] Conway is especially known for the invention of the Game of Life, one of the early examples of a cellular automaton. His initial experiments in that field were done with pen and paper, long before personal computers existed.
 
 Since the game was introduced by Martin Gardner in _Scientific American_ in 1970,[14] it has spawned hundreds of computer programs, web sites, and articles.[15] It is a staple of recreational mathematics. There is an extensive wiki devoted to curating and cataloging the various aspects of the game.[16] From the earliest days it has been a favorite in computer labs, both for its theoretical interest and as a practical exercise in programming and data display. At times Conway has said he hates the Game of Life–largely because it has come to overshadow some of the other deeper and more important things he has done.[17] Nevertheless, the game did help launch a new branch of mathematics, the field of cellular automata.[18]
 

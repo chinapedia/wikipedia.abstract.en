@@ -1,4 +1,4 @@
-Guitar_strum_on_open_G_chord_common_pattern.png : pattern created by subtracting the second and fifth (of eight) eighth notes from a pattern of straight eighth notes.]] Power_chord_on_E.svg in eighth notes ]] NOT_Travis_picking.PNG.[1] ]]
+: pattern created by subtracting the second and fifth (of eight) eighth notes from a pattern of straight eighth notes.]] in eighth notes ]] .[1] ]]
 
 In music performances, RHYTHM GUITAR is a technique and role that performs a combination of two functions: to provide all or part of the rhythmic pulse in conjunction with other instruments from the rhythm section (e.g., drumkit, bass guitar); and to provide all or part of the harmony, i.e. the chords from a song's chord progression, where a chord is a group of notes played together. Therefore, the basic technique of rhythm guitar is to hold down a series of chords with the fretting hand while strumming or fingerpicking rhythmically with the other hand. More developed rhythm techniques include arpeggios, damping, riffs, chord solos, and complex strums.
 
@@ -21,7 +21,7 @@ Rock and pop harmony
 
 Harmonically, in rock music, the most common way to construct chord progressions is to play major and minor "triads", each comprising a root, third and fifth note of a given scale. An example of a major triad is C major, which contains the notes C, E and G. An example of a minor triad is the A minor chord, which includes the notes A, C and E. Interspersed are some four-note chords, which include the root, third and fifth, as well as a sixth, seventh or ninth note of the scale. The most common chord with four different notes is the dominant seventh chord, which include a root, a major third above the root, a perfect fifth above the root and a flattened seventh. In the key of C major, the dominant seventh chord is a G7, which consists of the notes G, B, D and F.
 
-Three-chord progressions are common in earlier pop and rock, using various combinations of the I, IV and V chords, with the twelve-bar blues particularly common. A four chord progression popular in the 1950s is I-vi-ii-V, which in the key of C major is the chords C major, a minor, d minor and G7. Minor and modal chord progressions such as I-bVII-bVI (in the key of E, the chords E major, D major, C major) feature in popular music. Power-chord-e.png In heavy metal music, rhythm guitarists often play power chords, which feature a root note and a fifth above, or with an octave doubling the root. There actually is no third of the chord. Power chords are usually played with distortion.
+Three-chord progressions are common in earlier pop and rock, using various combinations of the I, IV and V chords, with the twelve-bar blues particularly common. A four chord progression popular in the 1950s is I-vi-ii-V, which in the key of C major is the chords C major, a minor, d minor and G7. Minor and modal chord progressions such as I-bVII-bVI (in the key of E, the chords E major, D major, C major) feature in popular music. In heavy metal music, rhythm guitarists often play power chords, which feature a root note and a fifth above, or with an octave doubling the root. There actually is no third of the chord. Power chords are usually played with distortion.
 
 Arpeggios
 
@@ -78,8 +78,6 @@ When jazz guitarists play chords underneath a song's melody or another musician'
 
 Gypsy pumping
 
-La_Pompe.png
-
 Gypsy jazz is acoustic music, usually played without a drummer. Rhythm guitar in gypsy jazz uses a special form of strumming known as "la pompe", i.e. "the pump". This form of percussive rhythm is similar to the "boom-chick" in bluegrass styles; it is what gives the music its fast swinging feeling. The strumming hand, which never touches the top of the guitar, must make a quick up-down strum followed by a down strum. The up-down part of la pompe must be done extremely fast, regardless of the tempo of the music. It is very similar to a grace note in classical music, albeit the fact that an entire chord is used. This pattern is usually played in unison by two or more guitarists in the rhythm section.
 
 Jazz chord soloing
@@ -89,16 +87,12 @@ Jazz guitar soloists are not limited to playing single notes by their instrument
 
 Funk
 
-Funk_&_R&B_vamp_riff.png
-
 Funk utilized the same extended chords found in bebop jazz, such as minor chords with added sevenths and elevenths, or dominant seventh chords with altered ninths. However, unlike bebop jazz, with its complex, rapid-fire chord changes, funk virtually abandoned chord changes, creating static single chord vamps with little harmonic movement, but with a complex and driving rhythmic feel. Some have jazz backgrounds. The chords used in funk songs typically imply a dorian or mixolydian mode, as opposed to the major or natural minor tonalities of most popular music. Melodic content was derived by mixing these modes with the blues scale.
 
 In funk bands, guitarists typically play in a percussive style, often using the wah-wah sound effect and muting the notes in their riffs to create a percussive sound. Guitarist Ernie Isley of The Isley Brothers and Eddie Hazel of Funkadelic were notably influenced by Jimi Hendrix's improvised solos. Eddie Hazel, who worked with George Clinton, is a notable guitar soloist in funk. Ernie Isley was tutored at an early age by Jimi Hendrix himself, when he was a part of The Isley Brothers backing band and lived in the attic temporarily at the Isleys' household. Jimmy Nolen and Phelps Collins are famous funk rhythm guitarists who both worked with James Brown.
 
 
 Reggae
-
-Backbeat_chop.png
 
 The guitar in reggae usually plays the chords on beats two and four, a musical figure known as skank or the 'bang'. It has a very dampened, short and scratchy chop sound, almost like a percussion instrument. Sometimes a double chop is used when the guitar still plays the off beats, but also plays the following 16th or 8th beat on the up-stroke. Depending on the amount of swing or groove, this next secondary stab is often the 16th note sounding closer to an 8th placement in the rhythm. An example is the intro to "Stir It Up" by The Wailers. Artist and producer Derrick Harriott says, "What happened was the musical thing was real widespread, but only among a certain sort of people. It was always a down-town thing, but more than just hearing the music. The equipment was so powerful and the vibe so strong that we feel it."[5] Reggae chords are typically played without overdrive or distortion.
 

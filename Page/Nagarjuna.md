@@ -71,7 +71,7 @@ Other attributed works include:[27]
 
 Philosophy
 
-Nagarjuna.JPG, India|200px]] From studying his writings, it is clear that Nāgārjuna was conversant with many of the Śrāvaka philosophies and with the Mahāyāna tradition. However, determining Nāgārjuna's affiliation with a specific nikāya is difficult, considering much of this material has been lost. If the most commonly accepted attribution of texts (that of Christian Lindtner) holds, then he was clearly a Māhayānist, but his philosophy holds assiduously to the Śrāvaka _Tripiṭaka_, and while he does make explicit references to Mahāyāna texts, he is always careful to stay within the parameters set out by the Śrāvaka canon.
+, India|200px]] From studying his writings, it is clear that Nāgārjuna was conversant with many of the Śrāvaka philosophies and with the Mahāyāna tradition. However, determining Nāgārjuna's affiliation with a specific nikāya is difficult, considering much of this material has been lost. If the most commonly accepted attribution of texts (that of Christian Lindtner) holds, then he was clearly a Māhayānist, but his philosophy holds assiduously to the Śrāvaka _Tripiṭaka_, and while he does make explicit references to Mahāyāna texts, he is always careful to stay within the parameters set out by the Śrāvaka canon.
 
 Nāgārjuna may have arrived at his positions from a desire to achieve a consistent exegesis of the Buddha's doctrine as recorded in the āgamas. In the eyes of Nāgārjuna, the Buddha was not merely a forerunner, but the very founder of the Madhyamaka system.[28] David Kalupahana sees Nāgārjuna as a successor to Moggaliputta-Tissa in being a champion of the middle-way and a reviver of the original philosophical ideals of the Buddha.[29]
 

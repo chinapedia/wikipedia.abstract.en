@@ -17,7 +17,7 @@ Previous definitions
 
 The development of the first metric system began about 1790. The initial mass unit was the grave, defined in 1793.[8] Within three years it was replaced by the kilogram. The gram, 1/1000 of a kilogram, was provisionally defined in 1795 as the mass of one cubic centimetre of water at the melting point of ice.[9] The Kilogramme des Archives was manufactured as a prototype in 1799 and served as a basis for the International Prototype Kilogram (IPK) in 1875. It had a mass equal to the mass of 1 dm³ of water under atmospheric pressure and at the temperature of its maximum density, which is approximately 4 °C.
 
-Prototype_kilogram_replica.JPG on display at Cité des Sciences et de l'Industrie, featuring the protective double glass bell. The IPK served as primary standard for the kilogram until 2019.]]
+on display at Cité des Sciences et de l'Industrie, featuring the protective double glass bell. The IPK served as primary standard for the kilogram until 2019.]]
 
 The International Prototype Kilogram was commissioned by the General Conference on Weights and Measures (CGPM) under the authority of the Metre Convention (1875), and is in the custody of the International Bureau of Weights and Measures (BIPM) who hold it on behalf of the CGPM. The IPK was rarely used or handled. Copies of the IPK kept by national metrology laboratories around the world were compared with the IPK in 1889, 1948, and 1989 to provide traceability of measurements of mass anywhere in the world back to the IPK.
 
@@ -50,7 +50,7 @@ Because at any given point on Earth the weight of an object is proportional to i
 
 2019 redefinition based on fundamental constants
 
-Unit_relations_in_the_new_SI.svg after the 2019 redefinition: the kilogram is now fixed in terms of the second, the speed of light and the Planck constant, and the ampere no longer depends on the kilogram]]
+after the 2019 redefinition: the kilogram is now fixed in terms of the second, the speed of light and the Planck constant, and the ampere no longer depends on the kilogram]]
 
 The International Committee for Weights and Measures (CIPM) approved a redefinition of the SI base units in November 2018 that defines the kilogram by defining the Planck constant to be exactly , effectively defining the kilogram in terms of the second and the metre. The new definition took effect on 20 May 2019.[39][40][41]
 

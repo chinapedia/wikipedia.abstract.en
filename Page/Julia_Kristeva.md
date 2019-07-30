@@ -32,7 +32,7 @@ Kristeva is also noted for her work on the concept of intertextuality.
 
 Anthropology and psychology
 
-Kristeva argues that anthropology and psychology, or the connection between the social and the subject, do not represent each other, but rather follow the same logic: the survival of the group and the subject. Furthermore, in her analysis of Oedipus, she claims that the speaking subject cannot exist on his/her own, but that he/she "stands on the fragile threshold as if stranded on account of an impossible demarcation" (_Powers of Horror_, p. 85).Julia_Kristeva_à_Paris_en_2008.jpg
+Kristeva argues that anthropology and psychology, or the connection between the social and the subject, do not represent each other, but rather follow the same logic: the survival of the group and the subject. Furthermore, in her analysis of Oedipus, she claims that the speaking subject cannot exist on his/her own, but that he/she "stands on the fragile threshold as if stranded on account of an impossible demarcation" (_Powers of Horror_, p. 85).
 
 In her comparison between the two disciplines, Kristeva claims that the way in which an individual excludes the abject mother as a means of forming an identity, is the same way in which societies are constructed. On a broader scale, cultures exclude the maternal and the feminine, and by this come into being.
 

@@ -1,4 +1,4 @@
-Parmigianino_003b.jpg's _Madonna with the Long Neck_ (1534–40), Mannerism makes itself known by elongated proportions, highly stylized poses, and lack of clear perspective.]]
+'s _Madonna with the Long Neck_ (1534–40), Mannerism makes itself known by elongated proportions, highly stylized poses, and lack of clear perspective.]]
 
 MANNERISM, also known as LATE RENAISSANCE,[1] is a style in European art that emerged in the later years of the Italian High Renaissance around 1520, spreading by about 1530 and lasting until about the end of the 16th century in Italy, when the Baroque style largely replaced it. Northern Mannerism continued into the early 17th century.[2]
 
@@ -9,7 +9,7 @@ The definition of Mannerism and the phases within it continues to be a subject o
 
 Nomenclature
 
-Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg'', an ancient sculpture, rediscovered in 1506; now in the Vatican. The artists of Mannerism greatly admired this piece of sculpture.[7]]]
+'', an ancient sculpture, rediscovered in 1506; now in the Vatican. The artists of Mannerism greatly admired this piece of sculpture.[7]]]
 
 The word, "Mannerism" derives from the Italian _maniera_, meaning "style" or "manner". Like the English word "style", _maniera_ can either indicate a specific type of style (a beautiful style, an abrasive style) or indicate an absolute that needs no qualification (someone "has style").[8] In the second edition of his _Lives of the Most Excellent Painters, Sculptors, and Architects_ (1568), Giorgio Vasari used _maniera_ in three different contexts: to discuss an artist's manner or method of working; to describe a personal or group style, such as the term _maniera greca_ to refer to the Byzantine style or simply to the _maniera_ of Michelangelo; and to affirm a positive judgment of artistic quality.[9] Vasari was also a Mannerist artist, and he described the period in which he worked as "la maniera moderna", or the "modern style".[10] James V. Mirollo describes how "bella maniera" poets attempted to surpass in virtuosity the sonnets of Petrarch.[11] This notion of "bella maniera" suggests that artists who were thus inspired looked to copying and bettering their predecessors, rather than confronting nature directly. In essence, "bella maniera" utilized the best from a number of source materials, synthesizing it into something new.[12]
 
@@ -19,8 +19,6 @@ Yet historians differ as to whether Mannerism is a style, a movement, or a perio
 
 
 Origin and development
-
-Dividing_water_from_Heaven.jpg
 
 By the end of the High Renaissance, young artists experienced a crisis:[17] it seemed that everything that could be achieved was already achieved. No more difficulties, technical or otherwise, remained to be solved. The detailed knowledge of anatomy, light, physiognomy and the way in which humans register emotion in expression and gesture, the innovative use of the human form in figurative composition, the use of the subtle gradation of tone, all had reached near perfection. The young artists needed to find a new goal, and they sought new approaches.[18] At this point Mannerism started to emerge.[19] The new style developed between 1510 and 1520 either in Florence,[20] or in Rome, or in both cities simultaneously.[21]
 
@@ -32,13 +30,13 @@ The competitive spirit
 
 The competitive spirit was cultivated by patrons who encouraged sponsored artists to emphasize virtuosic technique and to compete with one another for commissions. It drove artists to look for new approaches and dramatically illuminated scenes, elaborate clothes and compositions, elongated proportions, highly stylized poses, and a lack of clear perspective. Leonardo da Vinci and Michelangelo were each given a commission by Gonfaloniere Piero Soderini to decorate a wall in the Hall of Five Hundred in Florence. These two artists were set to paint side by side and compete against each other, fueling the incentive to be as innovative as possible.
 
-  --------------------------------------------------------------------------------------------------------------------------------------
-  La_batalla_de_Cascina_-_Sangallo.jpg, originally intended by Michelangelo to compete with Leonardo's entry for the same commission]]
-  --------------------------------------------------------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------------------
+  , originally intended by Michelangelo to compete with Leonardo's entry for the same commission]]
+  --------------------------------------------------------------------------------------------------
 
 Early mannerism
 
-Jacopo_Pontormo_004.jpg, _Entombment_, 1528; Santa Felicità, Florence]] The early Mannerists in Florence—especially the students of Andrea del Sarto such as Jacopo da Pontormo and Rosso Fiorentino who are notable for elongated forms, precariously balanced poses, a collapsed perspective, irrational settings, and theatrical lighting. Parmigianino (a student of Correggio) and Giulio Romano (Raphael's head assistant) were moving in similarly stylized aesthetic directions in Rome. These artists had matured under the influence of the High Renaissance, and their style has been characterized as a reaction to or exaggerated extension of it. Instead of studying nature directly, younger artists began studying Hellenistic sculpture and paintings of masters past. Therefore, this style is often identified as "anti-classical”,[28] yet at the time it was considered a natural progression from the High Renaissance. The earliest experimental phase of Mannerism, known for its "anti-classical" forms, lasted until about 1540 or 1550.[29] Marcia B. Hall, professor of art history at Temple University, notes in her book _After Raphael_ that Raphael's premature death marked the beginning of Mannerism in Rome.
+, _Entombment_, 1528; Santa Felicità, Florence]] The early Mannerists in Florence—especially the students of Andrea del Sarto such as Jacopo da Pontormo and Rosso Fiorentino who are notable for elongated forms, precariously balanced poses, a collapsed perspective, irrational settings, and theatrical lighting. Parmigianino (a student of Correggio) and Giulio Romano (Raphael's head assistant) were moving in similarly stylized aesthetic directions in Rome. These artists had matured under the influence of the High Renaissance, and their style has been characterized as a reaction to or exaggerated extension of it. Instead of studying nature directly, younger artists began studying Hellenistic sculpture and paintings of masters past. Therefore, this style is often identified as "anti-classical”,[28] yet at the time it was considered a natural progression from the High Renaissance. The earliest experimental phase of Mannerism, known for its "anti-classical" forms, lasted until about 1540 or 1550.[29] Marcia B. Hall, professor of art history at Temple University, notes in her book _After Raphael_ that Raphael's premature death marked the beginning of Mannerism in Rome.
 
 In past analyses, it has been noted that mannerism arose in the early 16th century contemporaneously with a number of other social, scientific, religious and political movements such as the Copernican model, the Sack of Rome, and the Protestant Reformation's increasing challenge to the power of the Catholic Church. Because of this, the style's elongated forms and distorted forms were once interpreted as a reaction to the idealized compositions prevalent in High Renaissance art.[30] This explanation for the radical stylistic shift c. 1520 has fallen out of scholarly favor, though early Mannerist art is still sharply contrasted with High Renaissance conventions; the accessibility and balance achieved by Raphael's _School of Athens_ no longer seemed to interest young artists.
 
@@ -49,7 +47,7 @@ The second period of Mannerism is commonly differentiated from the earlier, so-c
 
 Spread of mannerism
 
-Henry_Howard_Earl_of_Surrey_1546.jpg, 1546, a rare English Mannerist portrait by a Flemish immigrant]]
+, 1546, a rare English Mannerist portrait by a Flemish immigrant]]
 
 The cities Rome, Florence, and Mantua were Mannerist centers in Italy. Venetian painting pursued a different course, represented by Titian in his long career. A number of the earliest Mannerist artists who had been working in Rome during the 1520s fled the city after the Sack of Rome in 1527. As they spread out across the continent in search of employment, their style was disseminated throughout Italy and Northern Europe.[33] The result was the first international artistic style since the Gothic.[34] Other parts of Northern Europe did not have the advantage of such direct contact with Italian artists, but the Mannerist style made its presence felt through prints and illustrated books. European rulers, among others, purchased Italian works, while northern European artists continued to travel to Italy, helping to spread the Mannerist style. Individual Italian artists working in the North gave birth to a movement known as the Northern Mannerism. Francis I of France, for example, was presented with Bronzino's _Venus, Cupid, Folly and Time_. The style waned in Italy after 1580, as a new generation of artists, including the Carracci brothers, Caravaggio and Cigoli, revived naturalism. Walter Friedlaender identified this period as "anti-mannerism", just as the early mannerists were "anti-classical" in their reaction away from the aesthetic values of the High Renaissance[35] and today the Carracci brothers and Caravaggio are agreed to have begun the transition to Baroque-style painting which was dominant by 1600.
 
@@ -69,7 +67,7 @@ File:Fontainebleau escalier roi.jpg|Stucco overdoor at Fontainebleau, probably d
 
 Early theorists
 
-Pietro_Francavilla_-_Apollo_Victorious_over_the_Python_-_Walters_27302.jpg, _Apollo Victorious over the Python_, 1591. The Walters Art Museum]]
+, _Apollo Victorious over the Python_, 1591. The Walters Art Museum]]
 
 Giorgio Vasari
 
@@ -99,7 +97,7 @@ Mannerism was an anti-classical movement which differed greatly from the aesthet
 
 Mannerist artists and examples of their works
 
-Angelo_Bronzino_-_Venus,_Cupid,_Folly_and_Time_-_National_Gallery,_London.jpg'' by Bronzino, c. 1545; National Gallery, London.]] Persus_wiewael.jpg _Perseus and Andromeda_, 1616, Louvre, the composition displaying a _Vanité_ of bones and seashells in the foreground and an elaborate academic nude with a palette borrowing from the forefront for Andromeda's cheeks. The Dragon seems of sino-oriental influence.]]
+'' by Bronzino, c. 1545; National Gallery, London.]] _Perseus and Andromeda_, 1616, Louvre, the composition displaying a _Vanité_ of bones and seashells in the foreground and an elaborate academic nude with a palette borrowing from the forefront for Andromeda's cheeks. The Dragon seems of sino-oriental influence.]]
 
 Jacopo da Pontormo
 
@@ -145,7 +143,7 @@ El Greco’s unique style in _Laocoon_ exemplifies many Mannerist characteristic
 
 Benvenuto Cellini
 
-Lavinia_Fontana.jpg (1552-1614). Galleria Borghese, Rome.]] Benvenuto Cellini created the Cellini Salt Cellar of gold and enamel in 1540 featuring Poseidon and Amphitrite (water and earth) placed in uncomfortable positions and with elongated proportions. It is considered a masterpiece of Mannerist sculpture.
+(1552-1614). Galleria Borghese, Rome.]] Benvenuto Cellini created the Cellini Salt Cellar of gold and enamel in 1540 featuring Poseidon and Amphitrite (water and earth) placed in uncomfortable positions and with elongated proportions. It is considered a masterpiece of Mannerist sculpture.
 
 Lavinia Fontana
 
@@ -168,7 +166,7 @@ File:Jacopo Pontormo 032.jpg|Jacopo Pontormo _Joseph in Egypt_, 1515–18; Oil o
 
 Mannerist architecture
 
-Haarlem_Vleeshal1.jpg, Netherlands]] Piękne_niebo_nad_ratuszem_w_Zamościu.jpg, Poland, designed by Bernardo Morando.]] Mannerist architecture was characterized by visual trickery and unexpected elements that challenged the renaissance norms.[94] Flemish artists, many of whom had traveled to Italy and were influenced by Mannerist developments there, were responsible for the spread of Mannerist trends into Europe north of the Alps, including into the realm of architecture.[95] During the period, architects experimented with using architectural forms to emphasize solid and spatial relationships. The Renaissance ideal of harmony gave way to freer and more imaginative rhythms. The best known architect associated with the Mannerist style, and a pioneer at the Laurentian Library, was Michelangelo (1475–1564).[96] He is credited with inventing the giant order, a large pilaster that stretches from the bottom to the top of a façade.[97] He used this in his design for the Campidoglio in Rome.
+, Netherlands]] , Poland, designed by Bernardo Morando.]] Mannerist architecture was characterized by visual trickery and unexpected elements that challenged the renaissance norms.[94] Flemish artists, many of whom had traveled to Italy and were influenced by Mannerist developments there, were responsible for the spread of Mannerist trends into Europe north of the Alps, including into the realm of architecture.[95] During the period, architects experimented with using architectural forms to emphasize solid and spatial relationships. The Renaissance ideal of harmony gave way to freer and more imaginative rhythms. The best known architect associated with the Mannerist style, and a pioneer at the Laurentian Library, was Michelangelo (1475–1564).[96] He is credited with inventing the giant order, a large pilaster that stretches from the bottom to the top of a façade.[97] He used this in his design for the Campidoglio in Rome.
 
 Prior to the 20th century, the term _Mannerism_ had negative connotations, but it is now used to describe the historical period in more general non-judgmental terms.[98] Mannerist architecture has also been used to describe a trend in the 1960s and 1970s that involved breaking the norms of modernist architecture while at the same time recognizing their existence.[99] Defining mannerist in this context, architect and author Robert Venturi wrote "Mannerism for architecture of our time that acknowledges conventional order rather than original expression but breaks the conventional order to accommodate complexity and contradiction and thereby engages ambiguity unambiguously."[100]
 

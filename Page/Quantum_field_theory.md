@@ -9,7 +9,7 @@ As a successful theoretical framework today, quantum field theory emerged from t
 
 Theoretical background
 
-Magnet0873.png visualized using iron filings. When a piece of paper is sprinkled with iron filings and placed above a bar magnet, the filings align according to the direction of the magnetic field, forming arcs.]]
+visualized using iron filings. When a piece of paper is sprinkled with iron filings and placed above a bar magnet, the filings align according to the direction of the magnetic field, forming arcs.]]
 
 Quantum field theory is the result of the combination of classical field theory, quantum mechanics, and special relativity.[2] A brief overview of these theoretical precursors is in order.
 
@@ -71,7 +71,7 @@ With these difficulties looming, many theorists began to turn away from QFT. Som
 
 Standard Model
 
-Standard_Model_of_Elementary_Particles.svg of the Standard Model: six types of matter quarks, four types of gauge bosons that carry fundamental interactions, as well as the Higgs boson, which endow elementary particles with mass.]] In 1954, Yang Chen-Ning and Robert Mills generalised the local symmetry of QED, leading to non-Abelian gauge theories (also known as Yang-Mills theories), which are based on more complicated local symmetry groups.[23] In QED, (electrically) charged particles interact via the exchange of photons, while in non-Abelian gauge theory, particles carrying a new type of "charge" interact via the exchange of massless gauge bosons. Unlike photons, these gauge bosons themselves carry charge.[24]
+of the Standard Model: six types of matter quarks, four types of gauge bosons that carry fundamental interactions, as well as the Higgs boson, which endow elementary particles with mass.]] In 1954, Yang Chen-Ning and Robert Mills generalised the local symmetry of QED, leading to non-Abelian gauge theories (also known as Yang-Mills theories), which are based on more complicated local symmetry groups.[23] In QED, (electrically) charged particles interact via the exchange of photons, while in non-Abelian gauge theory, particles carrying a new type of "charge" interact via the exchange of massless gauge bosons. Unlike photons, these gauge bosons themselves carry charge.[24]
 
 Sheldon Glashow developed a non-Abelian gauge theory that unified the electromagnetic and weak interactions in 1960. In 1964, Abdus Salam and John Clive Ward arrived at the same theory through a different path. This theory, nevertheless, was non-renormalizable.[25]
 
@@ -235,8 +235,6 @@ After applying Wick's theorem, one of the terms is
 
 $$12\cdot \frac{-i\lambda}{4!}\int d^4z\, D_F(x-z)D_F(y-z)D_F(z-z),$$
 whose corresponding Feynman diagram is
-
-Phi-4_one-loop.svg
 
 Every point corresponds to a single field factor. Points labelled with and are called external points, while those in the interior are called internal points or vertices (there is one in this diagram). The value of the corresponding term can be obtained from the diagram by following "Feynman rules": assign  − iλ∫d⁴z to every vertex and the Feynman propagatorD_(F)(x₁ − x₂) to every line with end points and . The product of factors corresponding to every element in the diagram, divided by the "symmetry factor" (2 for this diagram), gives the expression for the term in the perturbation series.
 

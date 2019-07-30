@@ -18,7 +18,7 @@ Status
 
 The Authority currently has a Secretariat of 37 authorized posts and a biennial budget of $9.1 million for 2017 and $8.9 million for 2018. In July 2016, the Assembly of the Authority elected Michael Lodge of the United Kingdom, for a four-year term as Secretary-General beginning 1 January 2017. [7] He succeeds Nii Allotey Odunton of Ghana, who had served two consecutive four-year terms since 2008.
 
-InternationalSeabedAuthority-members.png also holds membership)]]
+also holds membership)]]
 
 
 Exploration contracts

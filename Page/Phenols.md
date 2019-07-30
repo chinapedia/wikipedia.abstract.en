@@ -1,4 +1,4 @@
-In organic chemistry, PHENOLS, sometimes called PHENOLICS, are a class of chemical compounds consisting of a hydroxyl group (—OH) bonded directly to an aromatic hydrocarbon group. The simplest of the class is phenol, . Phenolic compounds are classified as simple phenols or polyphenols based on the number of phenol units in the molecule. Phenol_chemical_structure.png Salicylic-acid-skeletal.svg, the active metabolite of aspirin.]]
+In organic chemistry, PHENOLS, sometimes called PHENOLICS, are a class of chemical compounds consisting of a hydroxyl group (—OH) bonded directly to an aromatic hydrocarbon group. The simplest of the class is phenol, . Phenolic compounds are classified as simple phenols or polyphenols based on the number of phenol units in the molecule. , the active metabolite of aspirin.]]
 
 Phenols are synthesized industrially as well as naturally.[1]
 
@@ -17,7 +17,7 @@ Phenols are reactive species toward oxidation. Oxidative cleavage, for instance 
 
 and oxone.[3] In reaction depicted below 3,4,5-trimethylphenol reacts with singlet oxygen generated from oxone/sodium carbonate in an acetonitrile/water mixture to a para-peroxyquinole. This hydroperoxide is reduced to the quinole with sodium thiosulfate.
 
-    OxonePhenolDearomatization.png
+
 
 -   Phenols are oxidized to hydroquinones in the Elbs persulfate oxidation
 
@@ -25,7 +25,7 @@ Electrophilic aromatic substitution
 
 Phenols are highly susceptible to Electrophilic aromatic substitutions. Illustrative of a large-scale electrophilic aromatic substitution is the production of bisphenol A, which is produced on a scale 1 million tons. This compound is synthesized by the condensation of acetone.[4]
 
-    Synthesis_Bisphenol_A.svg
+
 
 Other reactions
 
@@ -47,14 +47,14 @@ Several laboratory methods for the synthesis of phenols:
 -   by oligomerisation with formaldehyde + base catalysed reaction with epichlorohydrin to epoxi resin components
 -   by reaction with acetone/ketones to e.g. Bisphenol A, an important monomer for resins, e.g. polycarbonate (PC), epoxi resins
 -   by the oxidation of aryl silanes—an aromatic variation of the Fleming-Tamao oxidation [5]
--   by the addition of benzene and propene in to form cumene then is added with to form phenol (Hock process) Amine_to_Phenol_.jpg
+-   by the addition of benzene and propene in to form cumene then is added with to form phenol (Hock process)
 
 
 Classification
 
 There are various classification schemes.[6] A commonly used scheme is based on the number of carbons and was devised by Jeffrey Harborne and Simmonds in 1964 and published in 1980:[7][8]
 
-Phenol-phenolate_equilibrium.svg aromatic reactivity. See also the images at the wiki pages for phenols.]] Phenol-elpot-3D-vdW.png
+aromatic reactivity. See also the images at the wiki pages for phenols.]]
 
   -------------------- --------------------------------------------------------------------------
   Phenol               the parent compound, used as a disinfectant and for chemical synthesis
@@ -76,7 +76,7 @@ Drugs, present and past
 
   -------------------- --------------------------------------------------------------------
 
-Phenol-phenolate_equilibrium.svg aromatic reactivity.]]
+ aromatic reactivity.]]
 
 The majority of these compounds are soluble molecules but the smaller molecules can be volatile.
 

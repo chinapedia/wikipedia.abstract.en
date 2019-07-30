@@ -1,7 +1,3 @@
-US-MarshallPlanAid-Logo.svg
-
-George_C._Marshall,_U.S._Secretary_of_State.jpg
-
 The MARSHALL PLAN (officially the EUROPEAN RECOVERY PROGRAM, ERP) was an American initiative passed in 1948 to aid Western Europe, in which the United States gave over $12 billion[1] (nearly $ billion in US dollars) in economic assistance to help rebuild Western European economies after the end of World War II. Replacing an earlier proposal for a Morgenthau Plan, it operated for four years beginning on April 3, 1948.[2] The goals of the United States were to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity, and prevent the spread of Communism.[3] The Marshall Plan required a reduction of interstate barriers, a dropping of many regulations, and encouraged an increase in productivity, as well as the adoption of modern business procedures.[4]
 
 The Marshall Plan aid was divided amongst the participant states roughly on a per capita basis. A larger amount was given to the major industrial powers, as the prevailing opinion was that their resuscitation was essential for general European revival. Somewhat more aid per capita was also directed towards the Allied nations, with less for those that had been part of the Axis or remained neutral. The largest recipient of Marshall Plan money was the United Kingdom (receiving about 26% of the total), followed by France (18%) and West Germany (11%). Some eighteen European countries received Plan benefits.[5] Although offered participation, the Soviet Union refused Plan benefits, and also blocked benefits to Eastern Bloc countries, such as Hungary and Poland.[6] The United States provided similar aid programs in Asia, but they were not part of the Marshall Plan.[7]
@@ -17,7 +13,7 @@ Development and deployment
 
 The reconstruction plan, developed at a meeting of the participating European states, was drafted on June 5, 1947. It offered the same aid to the Soviet Union and its allies, but they refused to accept it,[13][14] as doing so would allow a degree of US control over the communist economies.[15] In fact, the Soviet Union prevented its satellite states (i.e., East Germany, Poland, etc.) from accepting. Secretary Marshall became convinced Stalin had no interest in helping restore economic health in Western Europe.[16]
 
-Marshall_Plan.svg President Harry Truman signed the Marshall Plan on April 3, 1948, granting $5 billion in aid to 16 European nations. During the four years the plan was in effect, the United States donated $17 billion (equivalent to $ billion in ) in economic and technical assistance to help the recovery of the European countries that joined the Organisation for European Economic Co-operation. The $17 billion was in the context of a US GDP of $258 billion in 1948, and on top of $17 billion in American aid to Europe between the end of the war and the start of the Plan that is counted separately from the Marshall Plan.[17] The Marshall Plan was replaced by the Mutual Security Plan at the end of 1951; that new plan gave away about $7.5 billion annually until 1961 when it was replaced by another program.[18]
+President Harry Truman signed the Marshall Plan on April 3, 1948, granting $5 billion in aid to 16 European nations. During the four years the plan was in effect, the United States donated $17 billion (equivalent to $ billion in ) in economic and technical assistance to help the recovery of the European countries that joined the Organisation for European Economic Co-operation. The $17 billion was in the context of a US GDP of $258 billion in 1948, and on top of $17 billion in American aid to Europe between the end of the war and the start of the Plan that is counted separately from the Marshall Plan.[17] The Marshall Plan was replaced by the Mutual Security Plan at the end of 1951; that new plan gave away about $7.5 billion annually until 1961 when it was replaced by another program.[18]
 
 The ERP addressed each of the obstacles to postwar recovery. The plan looked to the future and did not focus on the destruction caused by the war. Much more important were efforts to modernize European industrial and business practices using high-efficiency American models, reducing artificial trade barriers, and instilling a sense of hope and self-reliance.[19][20]
 
@@ -28,7 +24,7 @@ Belgian economic historian Herman Van der Wee concludes the Marshall Plan was a 
 
 Wartime destruction
 
-Markt_in_het_vernielde_Neurenberg,_Bestanddeelnr_901-9446.jpg, October 1946]] By the end of World War II, much of Europe was devastated. Sustained aerial bombardment during the war had badly damaged most major cities, and industrial facilities were especially hard-hit.[24] The region's trade flows had been thoroughly disrupted; millions were in refugee camps living on aid from United Nations Relief and Rehabilitation Administration and other agencies. Food shortages were severe, especially in the harsh winter of 1946–47. From July 1945 through June 1946, the United States shipped 16.5 million tons of food, primarily wheat, to Europe and Japan. It amounted to one-sixth of the American food supply and provided 35 trillion calories, enough to provide 400 calories a day for one year to 300 million people.[25]
+, October 1946]] By the end of World War II, much of Europe was devastated. Sustained aerial bombardment during the war had badly damaged most major cities, and industrial facilities were especially hard-hit.[24] The region's trade flows had been thoroughly disrupted; millions were in refugee camps living on aid from United Nations Relief and Rehabilitation Administration and other agencies. Food shortages were severe, especially in the harsh winter of 1946–47. From July 1945 through June 1946, the United States shipped 16.5 million tons of food, primarily wheat, to Europe and Japan. It amounted to one-sixth of the American food supply and provided 35 trillion calories, enough to provide 400 calories a day for one year to 300 million people.[25]
 
 Especially damaged was transportation infrastructure, as railways, bridges, and docks had been specifically targeted by airstrikes, while much merchant shipping had been sunk. Although most small towns and villages had not suffered as much damage, the destruction of transportation left them economically isolated. None of these problems could be easily remedied, as most nations engaged in the war had exhausted their treasuries in the process.[26]
 
@@ -50,8 +46,6 @@ During the first three years of occupation of Germany, the UK and US vigorously 
 Nicholas Balabkins concludes that "as long as German industrial capacity was kept idle the economic recovery of Europe was delayed."[36] By July 1947 Washington realized that economic recovery in Europe could not go forward without the reconstruction of the German industrial base, deciding that an "orderly, prosperous Europe requires the economic contributions of a stable and productive Germany."[37] In addition, the strength of Moscow-controlled communist parties in France and Italy worried Washington.[38]
 
 In the view of the State Department under President Harry S Truman, the United States needed to adopt a definite position on the world scene or fear losing credibility. The emerging doctrine of containment (as opposed to rollback) argued that the United States needed to substantially aid non-communist countries to stop the spread of Soviet influence. There was also some hope that the Eastern Bloc nations would join the plan, and thus be pulled out of the emerging Soviet bloc, but that did not happen.
-
-Bundesarchiv_Bild_183-B0527-0001-753,_Krefeld,_Hungerwinter,_Demonstration.jpg
 
 Scrapping of the Morgenthau Plan
 
@@ -143,7 +137,7 @@ Truman signed the Economic Cooperation Act into law on April 3, 1948; the Act es
 
 Implementation
 
-Marshall_plan_page_1.jpg The first substantial aid went to Greece and Turkey in January 1947, which were seen as the front line of the battle against communist expansion, and were already receiving aid under the Truman Doctrine. Initially, Britain had supported the anti-communist factions in those countries, but due to its dire economic condition it decided to pull out and in February 1947 requested the US to continue its efforts.[102] The ECA formally began operation in July 1948.
+The first substantial aid went to Greece and Turkey in January 1947, which were seen as the front line of the battle against communist expansion, and were already receiving aid under the Truman Doctrine. Initially, Britain had supported the anti-communist factions in those countries, but due to its dire economic condition it decided to pull out and in February 1947 requested the US to continue its efforts.[102] The ECA formally began operation in July 1948.
 
 The ECA's official mission statement was to give a boost to the European economy: to promote European production, to bolster European currency, and to facilitate international trade, especially with the United States, whose economic interest required Europe to become wealthy enough to import US goods. Another unofficial goal of ECA (and of the Marshall Plan) was the containment of growing Soviet influence in Europe, evident especially in the growing strength of communist parties in Czechoslovakia, France, and Italy.
 
@@ -160,8 +154,6 @@ The Netherlands received US aid for economic recovery in the Netherlands Indies.
 At the time the United States was a significant oil producing nation — one of the goals of the Marshall Plan was for Europe to use oil in place of coal, but the Europeans wanted to buy crude oil and use the Marshall Plan funds to build refineries instead. However, when independent American oil companies complained, the ECA denied funds for European refinery construction.[106]
 
 Technical Assistance Program
-
-Marshallplanhilfe.gif MarshallDonkey.jpg
 
 A high priority was increasing industrial productivity in Europe, which proved one of the more successful aspects of the Marshall Plan. [107] The US Bureau of Labor Statistics (BLS) contributed heavily to the success of the Technical Assistance Program. The United States Congress passed a law on June 7, 1940 that allowed the BLS to "make continuing studies of labor productivity"[108] and appropriated funds for the creation of a Productivity and Technological Development Division. The BLS could then use its expertise in the field of productive efficiency to implement a productivity drive in each Western European country receiving Marshall Plan aid. Counterpart funds were used to finance large-scale tours of American industry. France, for example, sent 500 missions with 4700 businessmen and experts to tour American factories, farms, stores, and offices. They were especially impressed with the prosperity of American workers, and how they could purchase an inexpensive new automobile for nine months work, compared to 30 months in France.[109]
 
@@ -181,8 +173,6 @@ Before the Technical Assistance Program even went into effect, United States Sec
 The effects of the Technical Assistance Program were not limited to improvements in productive efficiency. While the thousands of European leaders took their work/study trips to the United States, they were able to observe a number of aspects of American society as well. The Europeans could watch local, state, and federal governments work together with citizens in a pluralist society. They observed a democratic society with open universities and civic societies in addition to more advanced factories and manufacturing plants. The Technical Assistance Program allowed Europeans to bring home many types of American ideas.[113]
 
 Another important aspect of the Technical Assistance Program was its low cost. While $19.4 billion was allocated for capital costs in the Marshall Plan, the Technical Assistance Program only required $300 million. Only one-third of that $300 million cost was paid by the United States.[114]
-
-DBP_1960_344_George_C._Marshall.jpg
 
 German level of industry restrictions
 
@@ -255,7 +245,7 @@ The Central Intelligence Agency received 5% of the Marshall Plan funds (about $6
 
 Effects and legacy
 
-Marshall_Plan_poster.JPG flag with the UN blue rather than the traditional red.]]
+flag with the UN blue rather than the traditional red.]]
 
 The Marshall Plan was originally scheduled to end in 1953. Any effort to extend it was halted by the growing cost of the Korean War and rearmament. American Republicans hostile to the plan had also gained seats in the 1950 Congressional elections, and conservative opposition to the plan was revived. Thus the plan ended in 1951, though various other forms of American aid to Europe continued afterwards.
 
@@ -302,7 +292,7 @@ The total of American grants and loans to the world from 1945 to 1953 came to $4
 
 Opinion
 
-Schild_Bessere_Düngung_des_Amerikanischen_Hilfsprogramms.png Bradford DeLong and Barry Eichengreen conclude it was "History's Most Successful Structural Adjustment Program." They state:
+Bradford DeLong and Barry Eichengreen conclude it was "History's Most Successful Structural Adjustment Program." They state:
 
   It was not large enough to have significantly accelerated recovery by financing investment, aiding the reconstruction of damaged infrastructure, or easing commodity bottlenecks. We argue, however, that the Marshall Plan did play a major role in setting the stage for post-World War II Western Europe's rapid growth. The conditions attached to Marshall Plan aid pushed European political economy in a direction that left its post World War II "mixed economies" with more "market" and less "controls" in the mix.[163]
 
@@ -341,7 +331,7 @@ However, its role in the rapid recovery has been debated. Most reject the idea t
 
 Criticism of the Marshall Plan became prominent among historians of the revisionist school, such as Walter LaFeber, during the 1960s and 1970s. They argued that the plan was American economic imperialism and that it was an attempt to gain control over Western Europe just as the Soviets controlled the Eastern Bloc. In a review of West Germany's economy from 1945 to 1951, German analyst Werner Abelshauser concluded that "foreign aid was not crucial in starting the recovery or in keeping it going". The economic recoveries of France, Italy, and Belgium, Cowen argues, began a few months before the flow of US money. Belgium, the country that relied earliest and most heavily on free-market economic policies after its liberation in 1944, experienced swift recovery and avoided the severe housing and food shortages seen in the rest of continental Europe.[177]
 
-Former US Chairman of the Federal Reserve Bank Alan Greenspan gives most credit to German Chancellor Ludwig Erhard for Europe's economic recovery. Greenspan writes in his memoir _The Age of Turbulence_ that Erhard's economic policies were the most important aspect of postwar Western European recovery, even outweighing the contributions of the Marshall Plan. He states that it was Erhard's reductions in economic regulations that permitted Germany's miraculous recovery, and that these policies also contributed to the recoveries of many other European countries. Its recovery is attributed to traditional economic stimuli, such as increases in investment, fueled by a high savings rate and low taxes. Japan saw a large infusion of US investment during the Korean War.[178] 2003_Austria_20_Euro_The_Post-War_Period_back.jpg]]
+Former US Chairman of the Federal Reserve Bank Alan Greenspan gives most credit to German Chancellor Ludwig Erhard for Europe's economic recovery. Greenspan writes in his memoir _The Age of Turbulence_ that Erhard's economic policies were the most important aspect of postwar Western European recovery, even outweighing the contributions of the Marshall Plan. He states that it was Erhard's reductions in economic regulations that permitted Germany's miraculous recovery, and that these policies also contributed to the recoveries of many other European countries. Its recovery is attributed to traditional economic stimuli, such as increases in investment, fueled by a high savings rate and low taxes. Japan saw a large infusion of US investment during the Korean War.[178] ]]
 
 Noam Chomsky said the Marshall Plan "set the stage for large amounts of private U.S. investment in Europe, establishing the basis for modern transnational corporations".[179]
 

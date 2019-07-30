@@ -1,4 +1,4 @@
-Roman_Empire_125.png (ruled 117–138), showing the location of the Marcomanni in the region of the upper Danube (modern northern Austria/Czech Republic)]]
+(ruled 117–138), showing the location of the Marcomanni in the region of the upper Danube (modern northern Austria/Czech Republic)]]
 
 The MARCOMANNI were a Germanic tribal confederation who eventually came to live in a powerful kingdom north of the Danube, somewhere in the region near modern Bohemia, during the peak of power of the nearby Roman Empire. According to Tacitus and Strabo they were Suebian.
 

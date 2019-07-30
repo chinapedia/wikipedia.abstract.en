@@ -16,7 +16,7 @@ Leno made his first appearance on _The Tonight Show_ on March 2, 1977, performin
 
 _The Tonight Show_
 
-Jay_Leno_(1993)_by_Alan_Light.jpg Starting in 1986, Leno was a regular substitute host for Johnny Carson on _The Tonight Show_. In 1992, he replaced Carson as host[10] amid controversy with David Letterman, who had been hosting _Late Night with David Letterman_ since 1982 (aired after _The Tonight Show_), and whom many—including Carson himself—had expected to be Carson's successor. The story of this turbulent transition was later turned into a book and a movie. Leno continued to perform as a stand-up comedian throughout his tenure on _The Tonight Show_.
+Starting in 1986, Leno was a regular substitute host for Johnny Carson on _The Tonight Show_. In 1992, he replaced Carson as host[10] amid controversy with David Letterman, who had been hosting _Late Night with David Letterman_ since 1982 (aired after _The Tonight Show_), and whom many—including Carson himself—had expected to be Carson's successor. The story of this turbulent transition was later turned into a book and a movie. Leno continued to perform as a stand-up comedian throughout his tenure on _The Tonight Show_.
 
 In 2004, Leno signed a contract extension with NBC which would keep him as host of _The Tonight Show_ until 2009.[11] Later in 2004, Conan O'Brien signed a contract with NBC under which O'Brien would become the host of _The Tonight Show_ in 2009, replacing Leno at that time.[12]
 
@@ -28,7 +28,7 @@ Michael Jackson trial
 
 During the 2005 trial of Michael Jackson over allegations of child molestation, Leno was one of a few celebrities who appeared as a defense witness. In his testimony regarding a call by the accuser, Leno testified that he never called the police, that no money was asked for, and there was no coaching – but that the calls seemed unusual and scripted.[21]
 
-JayLeno.jpg As a result, Leno was initially not allowed to tell jokes about Jackson or the case, which had been a fixture of _The Tonight Show_{{'}}s opening monologue in particular. But he and his show's writers used a legal loophole by having Leno briefly step aside while stand-in comedians took the stage and told jokes about the trial. Stand-ins included Roseanne Barr, Drew Carey, Brad Garrett, and Dennis Miller, among others.[22] The gag order was challenged, and the court ruled that Leno could continue telling jokes about the trial as long as he did not discuss his testimony. Leno celebrated by devoting an entire monologue to Michael Jackson jokes.
+As a result, Leno was initially not allowed to tell jokes about Jackson or the case, which had been a fixture of _The Tonight Show_{{'}}s opening monologue in particular. But he and his show's writers used a legal loophole by having Leno briefly step aside while stand-in comedians took the stage and told jokes about the trial. Stand-ins included Roseanne Barr, Drew Carey, Brad Garrett, and Dennis Miller, among others.[22] The gag order was challenged, and the court ruled that Leno could continue telling jokes about the trial as long as he did not discuss his testimony. Leno celebrated by devoting an entire monologue to Michael Jackson jokes.
 
 Succession by Conan O'Brien and _The Jay Leno Show_
 
@@ -67,7 +67,7 @@ Public image
 
 Criticism of Leno
 
-Jaylenocropped.jpg Leno has faced heated criticism and some negative publicity for his perceived role in the 2010 _Tonight Show_ conflict.[54][55] Critics have pointed to a 2004 _Tonight Show_ clip, in which Leno said he would allow O'Brien to take over without incident.[56][57] At the time, Leno stated he did not want O'Brien to leave for a competing network, adding, "I'll be 59 when [the switch occurs], that's five years from now. There's really only one person who could have done this into his 60s, and that was Johnny Carson; I think it's fair to say I'm no Johnny Carson."[58] Leno also described _The Tonight Show_ as a dynasty, saying, "You hold it and hand it off to the next person. And I don't want to see all the fighting." At the end of the segment, he said, "Conan, it's yours! See you in five years, buddy!"[59]
+Leno has faced heated criticism and some negative publicity for his perceived role in the 2010 _Tonight Show_ conflict.[54][55] Critics have pointed to a 2004 _Tonight Show_ clip, in which Leno said he would allow O'Brien to take over without incident.[56][57] At the time, Leno stated he did not want O'Brien to leave for a competing network, adding, "I'll be 59 when [the switch occurs], that's five years from now. There's really only one person who could have done this into his 60s, and that was Johnny Carson; I think it's fair to say I'm no Johnny Carson."[58] Leno also described _The Tonight Show_ as a dynasty, saying, "You hold it and hand it off to the next person. And I don't want to see all the fighting." At the end of the segment, he said, "Conan, it's yours! See you in five years, buddy!"[59]
 
 Rosie O'Donnell was among O'Brien's most vocal and vehement supporters,[60][61] calling Leno a "bully" and his actions "classless and kind of career-defining".[62] Bill Zehme, the co-author of Leno's autobiography _Leading with My Chin_, told the _Los Angeles Times_, "The thing Leno should do is walk, period. He's got everything to lose in terms of public popularity by going back. People will look at him differently. He'll be viewed as the bad guy."[63]
 
@@ -91,7 +91,7 @@ Comedians that were influenced by Leno include: Dennis Miller[80] and Jerry Sein
 
 Personal life
 
-Obama_and_Leno.jpg in March 2009]] Leno has been married to Mavis Leno since 1980; the couple has no children, by mutual agreement.[82] In 1993, during his first season as host of _The Tonight Show_, Leno's mother died at the age of 82 and in the following year, his father died at the age of 84.[83] Leno's older brother Patrick Leno, a Vietnam veteran and graduate of Yale Law School, died in 2002 at the age of 62 as a result of complications from cancer.[84]
+in March 2009]] Leno has been married to Mavis Leno since 1980; the couple has no children, by mutual agreement.[82] In 1993, during his first season as host of _The Tonight Show_, Leno's mother died at the age of 82 and in the following year, his father died at the age of 84.[83] Leno's older brother Patrick Leno, a Vietnam veteran and graduate of Yale Law School, died in 2002 at the age of 62 as a result of complications from cancer.[84]
 
 He is known for his prominent jaw, which has been described as mandibular prognathism.[85] In the book _Leading with My Chin_, he stated that he is aware of surgery that could reset his mandible, but does not wish to endure a prolonged healing period with his jaws wired shut.
 
@@ -113,7 +113,7 @@ Since 1985,[99] Leno has been the Grand Marshal for the Love Ride, a motorcycle 
 
 Vehicle collection
 
-JayLenoCar.jpg'' in his Hispano-Suiza Aero[102]]]
+'' in his Hispano-Suiza Aero[102]]]
 
 Leno owns approximately 286 vehicles (169 cars and 117 motorbikes).[103] He also has a website and a TV program called _Jay Leno's Garage_, which contains video clips and photos of his car collection in detail, as well as other vehicles of interest to him.[104] Leno's Garage Manager is Bernard Juchli.[105] Among his collection are two Doble steam cars, a sedan and a roadster that were owned by Howard Hughes, the fifth Duesenberg Model X known to survive, and one of nine remaining 1963 Chrysler Turbine Cars. The collection also includes three antique electric cars — the 1925 Baker Motor Vehicle is his wife Mavis' favorite car.[106]
 

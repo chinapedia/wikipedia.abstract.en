@@ -13,7 +13,7 @@ _Biston betularia_ is found in China (Heilongjiang, Jilin, Inner Mongolia, Beiji
 
 Ecology and life cycle
 
-Biston_betularia.png.[6]]] In Great Britain and Ireland, the peppered moth is univoltine (_i.e._, it has one generation per year), whilst in south-eastern North America it is bivoltine (two generations per year). The lepidopteran life cycle consists of four stages: ova (eggs), several larval instars (caterpillars), pupae, which overwinter live in the soil, and imagines (adults). During the day, the moths typically rest on trees, where they are preyed on by birds.
+.[6]]] In Great Britain and Ireland, the peppered moth is univoltine (_i.e._, it has one generation per year), whilst in south-eastern North America it is bivoltine (two generations per year). The lepidopteran life cycle consists of four stages: ova (eggs), several larval instars (caterpillars), pupae, which overwinter live in the soil, and imagines (adults). During the day, the moths typically rest on trees, where they are preyed on by birds.
 
 The caterpillar is a twig mimic, varying in colour between green and brown. On a historical note, it was one of the first animals to be identified as being camouflaged with countershading to make it appear flat (shading being the main visual cue that makes things appear solid), in a paper by Edward Bagnall Poulton in 1887.[7][8]
 
@@ -23,7 +23,7 @@ The males fly every night of their lives in search of females, whereas the femal
 
 Resting behaviour
 
-Peppered_moth_resting_positions_1964-2000.png Peppered_moth_resting_positions_2001-2003.png A mating pair or a lone individual will spend the day hiding from predators, particularly birds. In the case of the former, the male stays with the female to ensure paternity. The best evidence for resting positions is given by data collected by the peppered moth researcher Michael Majerus, and it is given in the accompanying charts. These data were originally published in Howlett and Majerus (1987), and an updated version published in Majerus (1998), who concluded that the moths rest in the upper part of the trees. Majerus notes:
+A mating pair or a lone individual will spend the day hiding from predators, particularly birds. In the case of the former, the male stays with the female to ensure paternity. The best evidence for resting positions is given by data collected by the peppered moth researcher Michael Majerus, and it is given in the accompanying charts. These data were originally published in Howlett and Majerus (1987), and an updated version published in Majerus (1998), who concluded that the moths rest in the upper part of the trees. Majerus notes:
 
   Creationist critics of the peppered moth have often pointed to a statement made by Clarke _et al_. (1985): "... In 25 years we have only found two _betularia_ on the tree trunks or walls adjacent to our traps, and none elsewhere". The reason now seems obvious. Few people spend their time looking for moths up in the trees. That is where peppered moths rest by day.
 
@@ -59,7 +59,7 @@ In North America, the melanic black morph is morpha _SWETTARIA_. In _Biston betu
 
 Evolution
 
-Biston.betularia.7200.jpg Biston.betularia.f.carbonaria.7209.jpg The evolution of the peppered moth over the last two hundred years has been studied in detail. At the start of this period, the vast majority of peppered moths had light coloured wing patterns which effectively camouflaged them against the light-coloured trees and lichens upon which they rested. However, due to widespread pollution during the Industrial Revolution in England, many of the lichens died out, and the trees which peppered moths rested on became blackened by soot, causing most of the light-coloured moths, or _typica_, to die off due to predation. At the same time, the dark-coloured, or melanic, moths, _carbonaria_, flourished because they could hide on the darkened trees.[11]
+The evolution of the peppered moth over the last two hundred years has been studied in detail. At the start of this period, the vast majority of peppered moths had light coloured wing patterns which effectively camouflaged them against the light-coloured trees and lichens upon which they rested. However, due to widespread pollution during the Industrial Revolution in England, many of the lichens died out, and the trees which peppered moths rested on became blackened by soot, causing most of the light-coloured moths, or _typica_, to die off due to predation. At the same time, the dark-coloured, or melanic, moths, _carbonaria_, flourished because they could hide on the darkened trees.[11]
 
 Since then, with improved environmental standards, light-coloured peppered moths have again become common, and the dramatic change in the peppered moth's population has remained a subject of much interest and study. This has led to the coining of the term "industrial melanism" to refer to the genetic darkening of species in response to pollutants. As a result of the relatively simple and easy-to-understand circumstances of the adaptation, the peppered moth has become a common example used in explaining or demonstrating natural selection to laypeople and classroom students through simulations.[12]
 

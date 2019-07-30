@@ -165,7 +165,7 @@ In addition to the Olympic medals for competitors, the IOC awards a number of ot
 
 IOC members
 
-Albert_Meyer_4_Olympia_1896.jpg]]
+]]
 
 For most of its existence, the IOC was controlled by members who were selected by other members. Countries that had hosted the Games were allowed two members. When named, they did not become the representatives of their respective countries to the IOC, but rather the opposite, IOC members in their respective countries.
 
@@ -197,7 +197,7 @@ There are currently 73 international sports federations (IFs) recognised by the 
 
 Olympic marketing
 
-Stamps_of_Germany_(DDR)_1985,_MiNr_Zusammendruck_2949.jpg stamp]]
+stamp]]
 
 During the first half of the 20th century the IOC ran on a small budget.[20] As president of the IOC from 1952 to 1972, Avery Brundage rejected all attempts to link the Olympics with commercial interest. Brundage believed the lobby of corporate interests would unduly impact the IOC's decision-making. Brundage's resistance to this revenue stream meant the IOC left organising committees to negotiate their own sponsorship contracts and use the Olympic symbols. When Brundage retired the IOC had US$2 million in assets; eight years later the IOC coffers had swelled to US$45 million. This was primarily due to a shift in ideology toward expansion of the Games through corporate sponsorship and the sale of television rights. When Juan Antonio Samaranch was elected IOC president in 1980 his desire was to make the IOC financially independent. Samaranch appointed Canadian IOC member Richard Pound to lead the initiative as Chairman of the "New Sources of Finance Commission".
 

@@ -5,7 +5,7 @@ History
 
 Early history
 
-St_Vincent’s_Pershing_Square.jpeg Occidental College was founded on April 20, 1887, by a group of Presbyterian clergy, missionaries, and laymen, including James George Bell, Lyman Stewart, and Thomas Bard. The cornerstone of the school's first building was laid in September 1887 in the Boyle Heights neighborhood of Los Angeles.[1] The college's first term began a year later with 27 male and 13 female students, and tuition of $50 a year.[2]
+Occidental College was founded on April 20, 1887, by a group of Presbyterian clergy, missionaries, and laymen, including James George Bell, Lyman Stewart, and Thomas Bard. The cornerstone of the school's first building was laid in September 1887 in the Boyle Heights neighborhood of Los Angeles.[1] The college's first term began a year later with 27 male and 13 female students, and tuition of $50 a year.[2]
 
 In 1896, the Boyle Heights building was destroyed by fire. The college temporarily relocated to the old St. Vincent's College campus on Hill Street before a new site was selected in Highland Park in 1898.[3] Eventually, the college erected three main buildings: the Academy Building, the Stimson Library, and the Hall of Arts and Letters (the Hall still stands today, converted to apartments).[4] The Highland Park site was also bisected by the tracks of the Santa Fe Railroad,[5] and was the site of two presidential visits, first by William Howard Taft in 1909 and subsequently by Theodore Roosevelt in 1911.[6]
 
@@ -13,15 +13,13 @@ In 1909, the Pomona College Board of Trustees suggested a merger between Pomona 
 
 1900s
 
-OccidentalColl-1904.jpg Taft_at_Occidental.jpg at Occidental in October 1911]]
+at Occidental in October 1911]]
 
 In 1912, the school began construction of a new campus located in Los Angeles' Eagle Rock neighborhood. The Eagle Rock campus was designed by noted California architect Myron Hunt, also known as the planner of the California Institute of Technology (Caltech) campus and as designer of the Huntington Library and Art Gallery and the Rose Bowl. That same year, Occidental President John Willis Baer announced the trustees' decision to convert Occidental College into an all-men's institution. However, students and faculty protested, and the idea was abandoned.[11][12]
 
 In 1913, the Occidental College Board of Trustees announced plans to convert the college exclusively to a men's school. The plans were met with widespread backlash from students and faculty who protested the change. The community outcry garnered national headlines and the board later dropped the proposal.[13]
 
 Two weeks after Booker T. Washington came to visit Occidental, on March 27, 1914, Swan, Fowler, and Johnson Halls were dedicated at its new Eagle Rock campus. Patterson Field, today one of the oldest collegiate sports stadiums in Los Angeles, was opened in 1916.[14] In April 1917, shortly after the United States entered World War I, the college formed a Students Army Training Corps to aid the war effort.[15]
-
-Occidental_College_in_the_1920's.jpg
 
 Under Occidental President Remsen Bird, the school opened a series of new Hunt-designed buildings, including Clapp Library (1924), Hillside Theatre and a women's dormitory (Orr Hall) in 1925, Alumni Gymnasium (1926), the Freeman Student Union (1928) and a music and speech building (1929).[16] The Delta of California Chapter of Phi Beta Kappa was established at Occidental in 1926, at a time when the only other chapters in California were at Stanford, UC Berkeley, and Pomona.[17]
 
@@ -48,7 +46,7 @@ President Barack Obama attended Occidental for two years prior to transferring t
 
 Campus
 
-Occidental_Thorne_Hall.jpg Architect Myron Hunt created the original campus master plan for Occidental's Eagle Rock campus in 1911. He structured the campus in a Mediterranean style, with covered walkways and tile roofs. The campus landscape was designed and developed by Beatrix Farrand in the late 1930s. All of the 19 buildings designed by Hunt remain in use today, including Johnson Hall, now the home for the McKinnon Center for Global Affairs.[36][37]
+Architect Myron Hunt created the original campus master plan for Occidental's Eagle Rock campus in 1911. He structured the campus in a Mediterranean style, with covered walkways and tile roofs. The campus landscape was designed and developed by Beatrix Farrand in the late 1930s. All of the 19 buildings designed by Hunt remain in use today, including Johnson Hall, now the home for the McKinnon Center for Global Affairs.[36][37]
 
 Built on a hillside, the Eagle Rock campus covers over , some of which is undeveloped land that includes a local landmark known as Fiji Hill. There are 12 on-campus residence halls and the main dining facility is The Marketplace, which is located in the Johnson Student Center. Some buildings, such as the Hameetman Science Center (designed by Anshen + Allen, 2003), deviates from the original architecture with its large glass windows and metal balconies (its lobby houses a large Foucault pendulum). In 1979, Occidental installed _Water Forms II_ (see image below), a kinetic fountain designed by professor George Baker. The fountain is a campus landmark and was featured prominently in the 1984 film _Star Trek III: The Search for Spock_.
 
@@ -120,7 +118,7 @@ Students who are interested in biotechnology and who become a biochemistry major
 
 Student life
 
-OxySamuelson.jpg At the beginning of every school year, freshmen participate in Convocation, a formal ceremony welcoming new students to the college in which the faculty wear their full academic regalia and students don robes.[58] Founders Day is celebrated annually at the school on April 20, the day in 1887 when Occidental's incorporation papers were officially signed by the California Secretary of State.[59]
+At the beginning of every school year, freshmen participate in Convocation, a formal ceremony welcoming new students to the college in which the faculty wear their full academic regalia and students don robes.[58] Founders Day is celebrated annually at the school on April 20, the day in 1887 when Occidental's incorporation papers were officially signed by the California Secretary of State.[59]
 
 For the first three years at Occidental, all students are guaranteed housing on campus and for seniors it is optional. Freshmen do not get to choose where they live; the Office of Residential Education & Housing Services arranges housing by pairing students based on a short form students fill in the summer before they arrive on campus. The Occidental College dorm life consists of 13 co-ed residential housing facilities.
 
@@ -130,7 +128,7 @@ There are also themed-living communities which consist of the Multicultural Hall
 
 Student activities
 
-Johnson_Student_Center_(Occidental_College,_Los_Angeles,_California).jpg Occidental College has various student-run clubs, organizations and ventures such as the Green Bean Coffee Lounge, organic garden, and the student-managed bike sharing and repairing program. There are also traditional groups such as glee club, Greek organizations, and student media outlets.
+Occidental College has various student-run clubs, organizations and ventures such as the Green Bean Coffee Lounge, organic garden, and the student-managed bike sharing and repairing program. There are also traditional groups such as glee club, Greek organizations, and student media outlets.
 
 Media
 
@@ -152,7 +150,7 @@ There are various entities at Occidental College that promote local community in
 
 Athletics
 
-Johnson_Student_Center_and_Freeman_College_Union.jpg Occidental is one of the five schools that founded the Southern California Intercollegiate Athletic Conference (SCIAC) in 1915 and is currently a member of the SCIAC and NCAA Division III. Occidental features 21 varsity sports teams and a program of club sports and intramural competition. Approximately 25 percent of the student body participates in a varsity sports program.[67]
+Occidental is one of the five schools that founded the Southern California Intercollegiate Athletic Conference (SCIAC) in 1915 and is currently a member of the SCIAC and NCAA Division III. Occidental features 21 varsity sports teams and a program of club sports and intramural competition. Approximately 25 percent of the student body participates in a varsity sports program.[67]
 
 During the 2006–2007 athletic season, the Tigers cross country, American football and basketball teams were Southern California Intercollegiate Athletic Conference champions. In 2014, diver, Jessica Robson set the Southern California Intercollegiate Athletic Conference records for both 1m and 3m diving.[68] The school's Blackshirts Rugby union team was also league champion for the first time in five years. In 2011, Jeremy Castro ('99) and Patrick Guthrie ('86) steered the squad to a NSCRO final falling to Longwood University 36-27 in Virginia Beach, Virginia. In addition the college has a dance team that also performs at every home football and basketball game.[69]
 
@@ -162,12 +160,12 @@ Occidental has long-standing football rivalries with Pomona College and Whittier
 
 In 2011, Occidental College lost a Basketball game to Caltech with a score of 46 to 45 giving the Caltech Beavers their first conference win in 26 years and putting an end to their 310-game losing streak.[71]
 
-Famous Occidental College Tigers include NFL coach Jim E. Mora, former American Football League Most Valuable Player and politician Jack Kemp, former NFL player Vance Mueller, 2011 U.S. Senior Open Champion Olin Browne, CFL player Justin Goltz (Winnipeg Blue Bombers). Herrick_Memorial_Chapel_n_fountain.jpg
+Famous Occidental College Tigers include NFL coach Jim E. Mora, former American Football League Most Valuable Player and politician Jack Kemp, former NFL player Vance Mueller, 2011 U.S. Senior Open Champion Olin Browne, CFL player Justin Goltz (Winnipeg Blue Bombers).
 
 
 Notable alumni and faculty
 
-President_Barack_Obama.jpg Notable graduates of Occidental College include filmmaker Terry Gilliam, football player and politician Jack Kemp, pioneering African-American physicist and inventor George Edward Alcorn Jr., former New Orleans Saints and Indianapolis Colts head coach Jim E. Mora, co-inventor of the hard disk drive William Goddard, federal judge Jacqueline Nguyen, historian and chancellor of the California State University system Glenn Dumke, former Lieutenant Governor of California Robert Finch, adventurer and writer Homer Lea, poet Robinson Jeffers, librarian and writer Lawrence Clark Powell, civil rights activist Ernesto Galarza, television director Jesus Salvador Trevino, journalist and current dean of Columbia University Graduate School of Journalism Steve Coll, actor and writer George Nader, veteran executive at Walt Disney Imagineering Joe Rohde, and CEO of Warner Music Group Stephen Cooper.
+Notable graduates of Occidental College include filmmaker Terry Gilliam, football player and politician Jack Kemp, pioneering African-American physicist and inventor George Edward Alcorn Jr., former New Orleans Saints and Indianapolis Colts head coach Jim E. Mora, co-inventor of the hard disk drive William Goddard, federal judge Jacqueline Nguyen, historian and chancellor of the California State University system Glenn Dumke, former Lieutenant Governor of California Robert Finch, adventurer and writer Homer Lea, poet Robinson Jeffers, librarian and writer Lawrence Clark Powell, civil rights activist Ernesto Galarza, television director Jesus Salvador Trevino, journalist and current dean of Columbia University Graduate School of Journalism Steve Coll, actor and writer George Nader, veteran executive at Walt Disney Imagineering Joe Rohde, and CEO of Warner Music Group Stephen Cooper.
 
 Notable attendees include former US President Barack Obama, former First Lady of Colorado Dottie Lamm, Academy Award–winning actor and filmmaker Ben Affleck, actor Luke Wilson, producer Todd Garner, and actress Emily Osment.
 

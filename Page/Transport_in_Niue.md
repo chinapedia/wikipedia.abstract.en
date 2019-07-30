@@ -1,5 +1,3 @@
-Alofi.jpg
-
 TRANSPORT IN NIUE takes place on a road network, and via an (international) airport and a sea port.
 
 A ring road around the island's coast is the major route, and roads cross the central plateau linking Alofi to the villages of Lakepa, Liku and Hakupu on the opposite coast. All villages in Niue are connected by roads. There are utility roads to the inland and some coastal areas, unsealed, used mainly for accessing taro plantations, coconut areas and walking access to the sea.

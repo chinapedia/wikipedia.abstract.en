@@ -26,8 +26,6 @@ Bode died in Berlin on 23 November 1826, aged 79.
 
 Selected writings
 
-Orion.jpg
-
 -   1768 (10th ed. 1844) _Anleitung zur Kentniss des Gestirnten Himmels_ (The most famous of Bode's writings. In this work, he first announced Bode's law.)
 -   1774-1957 _Berliner Astronomisches Jahrbuch für 1776–1959_ (The astronomical yearbook published by Berlin Observatory.)
 -   1776 _Sammlung astronomischer Tafeln_ (3 vols.)

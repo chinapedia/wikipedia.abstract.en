@@ -287,7 +287,7 @@ Version history
 
 Windows versions
 
-Office_4.0_Suite.jpg|240x240px]]
+|240x240px]]
 
 Microsoft Office for Windows
 
@@ -371,7 +371,7 @@ Microsoft Office 98 Macintosh Edition was unveiled at MacWorld Expo/San Francisc
 
 Microsoft Office 2001 and v. X
 
-OfficeMac_v_X.PNG Microsoft Office 2001 was launched in 2000 as the last Office suite for the classic Mac OS. It required a PowerPC processor. This version introduced Entourage, an e-mail client that included information management tools such as a calendar, an address book, task lists and notes.[173]
+Microsoft Office 2001 was launched in 2000 as the last Office suite for the classic Mac OS. It required a PowerPC processor. This version introduced Entourage, an e-mail client that included information management tools such as a calendar, an address book, task lists and notes.[173]
 
 Microsoft Office v. X was released in 2001 and was the first version of Microsoft Office for Mac OS X.[174] Support for Office v. X ended on January 9, 2007 after the release of the final update, 10.1.9[175] Office v.X includes Word X, Excel X, PowerPoint X, Entourage X, MSN Messenger for Mac and Windows Media Player 9 for Mac; it was the last version of Office for Mac to include Internet Explorer for Mac.[176]
 

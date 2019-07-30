@@ -24,7 +24,7 @@ Joan Ganz Cooney claims that Freeman hated doing _The Electric Company_, saying 
 
 Freeman continued to be involved in theater work and received the Obie Award in 1980 for the title role in _Coriolanus_. In 1984, he received his second Obie Award for his role as the preacher in _The Gospel at Colonus_. Freeman also won a Drama Desk Award and a Clarence Derwent Award for his role as a wino in _The Mighty Gents_. He received his third Obie Award for his role as a chauffeur for a Jewish widow in _Driving Miss Daisy_, which was adapted for the screen in 1989.[28]
 
-Beginning in the mid-1980s, Freeman began playing prominent supporting roles in feature films, earning him a reputation for depicting wise, fatherly characters.[29] As he gained fame, he went on to bigger roles in films such as the chauffeur Hoke in _Driving Miss Daisy_, and Sergeant Major Rawlins in _Glory_ (both in 1989).[30] In 1994, he portrayed Red, the redeemed convict in the acclaimed _The Shawshank Redemption_. In the same year he was a member of the jury at the 44th Berlin International Film Festival.[31] Morgan_Freeman_1998.jpg He also starred in such films as _Robin Hood: Prince of Thieves_, _Unforgiven_, _Seven_, and _Deep Impact_. In 1997, Freeman, together with Lori McCreary, founded the film production company Revelations Entertainment, and the two co-head its sister online film distribution company ClickStar. Freeman also hosts the channel _Our Space_ on ClickStar, with specially crafted film clips in which he shares his love for the sciences, especially space exploration and aeronautics.
+Beginning in the mid-1980s, Freeman began playing prominent supporting roles in feature films, earning him a reputation for depicting wise, fatherly characters.[29] As he gained fame, he went on to bigger roles in films such as the chauffeur Hoke in _Driving Miss Daisy_, and Sergeant Major Rawlins in _Glory_ (both in 1989).[30] In 1994, he portrayed Red, the redeemed convict in the acclaimed _The Shawshank Redemption_. In the same year he was a member of the jury at the 44th Berlin International Film Festival.[31] He also starred in such films as _Robin Hood: Prince of Thieves_, _Unforgiven_, _Seven_, and _Deep Impact_. In 1997, Freeman, together with Lori McCreary, founded the film production company Revelations Entertainment, and the two co-head its sister online film distribution company ClickStar. Freeman also hosts the channel _Our Space_ on ClickStar, with specially crafted film clips in which he shares his love for the sciences, especially space exploration and aeronautics.
 
 After three previous nominations – a Best Supporting Actor nomination for _Street Smart_, and Best Actor nominations for _Driving Miss Daisy_ and _The Shawshank Redemption_—he won the Academy Award for Best Supporting Actor for his performance in _Million Dollar Baby_ at the 77th Academy Awards.[32] Freeman is recognized for his distinctive voice, making him a frequent choice for narration. In 2005 alone, he provided narration for two films, _War of the Worlds_ and the Academy Award-winning documentary film _March of the Penguins_.
 
@@ -53,7 +53,7 @@ Up until May 2018, Freeman also served as the narrator of a series of Visa comme
 
 Personal life
 
-Freeman_&_Colley-Lee_crop.jpg]] From his early life, Freeman has two extramarital children; one of them is Alfonso Freeman.[44]
+]] From his early life, Freeman has two extramarital children; one of them is Alfonso Freeman.[44]
 
 Freeman was married to Jeanette Adair Bradshaw from October 22, 1967, until November 18, 1979.[45]
 
@@ -172,7 +172,7 @@ Filmography
 
 Awards and honors
 
-Morgan_Freeman_Deauville_2018_2.jpg.]] Morgan Freeman has been nominated for an Academy Award _and_ the Golden Globe Award five different times, each time for the same film for each award. He won the Academy Award for Best Supporting Actor on _Million Dollar Baby_, and the Golden Globe for Best Actor with _Driving Miss Daisy_. Likewise, he has four Screen Actors Guild Award (SAG) nominations, and one win for _Million Dollar Baby_.
+.]] Morgan Freeman has been nominated for an Academy Award _and_ the Golden Globe Award five different times, each time for the same film for each award. He won the Academy Award for Best Supporting Actor on _Million Dollar Baby_, and the Golden Globe for Best Actor with _Driving Miss Daisy_. Likewise, he has four Screen Actors Guild Award (SAG) nominations, and one win for _Million Dollar Baby_.
 
 On October 28, 2006, Freeman was honored at the first Mississippi's Best Awards in Jackson, Mississippi, with the Lifetime Achievement Award for his works on and off the big screen. He received an honorary degree of Doctor of Arts and Letters from Delta State University during the school's commencement exercises on May 13, 2006.[102] In 2013, Boston University presented him with an honorary degree of Doctor of Humane Letters.[103] On November 12, 2014, he was bestowed the honor of Freedom of the City by the City of London.[104]
 

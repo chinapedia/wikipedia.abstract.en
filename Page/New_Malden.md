@@ -34,7 +34,7 @@ Demographics
 
 Korean community
 
-Kmart.jpg The Royal Borough of Kingston upon Thames has one of the largest expatriate communities of South Koreans in Europe, and is said to be one of the most densely populated areas of Koreans outside South Korea.[2] According to different sources, as of 2014 there were about 10,000 ethnic Koreans in New Malden proper,[3] and as of the same year the Korean population in the area around New Malden is around 20,000, including about 600 originating from North Korea,[4] giving it the largest group of North Koreans in Europe.[5] In the 2001 census, some small areas of New Malden had "Other Asian" (i.e., other than of Indian sub-continental origin, which also included Chinese) populations of "over 25%", though no whole ward reached over 20%. Many of the Koreans living in New Malden work for Korean companies, and they are either permanently settled and formerly expatriate, or they are still expatriates.[6]
+The Royal Borough of Kingston upon Thames has one of the largest expatriate communities of South Koreans in Europe, and is said to be one of the most densely populated areas of Koreans outside South Korea.[2] According to different sources, as of 2014 there were about 10,000 ethnic Koreans in New Malden proper,[3] and as of the same year the Korean population in the area around New Malden is around 20,000, including about 600 originating from North Korea,[4] giving it the largest group of North Koreans in Europe.[5] In the 2001 census, some small areas of New Malden had "Other Asian" (i.e., other than of Indian sub-continental origin, which also included Chinese) populations of "over 25%", though no whole ward reached over 20%. Many of the Koreans living in New Malden work for Korean companies, and they are either permanently settled and formerly expatriate, or they are still expatriates.[6]
 
 The New Malden area has Korean language churches and nursery schools as well as restaurants and shops with Korean clientele.[7][8] New Malden functions as the shopping and cultural centre for a Korean population spread more widely across South-West London and the neighbouring counties. The area has Korean supermarkets, about 20 Korean restaurants and cafes,[9] including those serving bulgogi.[10] It also has a noraebang (Karaoke bar),[11] and many other shops. The Korean language is visible on several shop signs. The original Embassy of South Korea was in New Malden, before moving to 60 Buckingham Gate in Westminster.[12]
 
@@ -47,7 +47,7 @@ There is a Hindu Temple in the eastern part of Burlington Road.[14]
 
 Amenities
 
-New_Malden_war_memorial.JPG New Malden has its own sports centre, the Malden Centre,[15] which includes a swimming pool, gym and community facilities. It also runs several adult learning courses.
+New Malden has its own sports centre, the Malden Centre,[15] which includes a swimming pool, gym and community facilities. It also runs several adult learning courses.
 
 Beverley Park provides a football pitch, tennis courts, children's playground, allotments and open space.
 

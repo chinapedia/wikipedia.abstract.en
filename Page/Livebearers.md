@@ -1,4 +1,4 @@
-Poecilia_reticulata_Fry_DSC04357_nevit.jpg fry]] LIVEBEARERS are aquarium fish that retain the eggs inside the body and give birth to live, free-swimming young. Among aquarium fish, livebearers are nearly all members of the Poeciliidae family and include guppies, mollies, platies and swordtails.
+fry]] LIVEBEARERS are aquarium fish that retain the eggs inside the body and give birth to live, free-swimming young. Among aquarium fish, livebearers are nearly all members of the Poeciliidae family and include guppies, mollies, platies and swordtails.
 
 The advantages of livebearing to the aquarist are that the newborn juvenile fish are larger than newly-hatched fry, have a lower chance of mortality and are easier to care for. Unusual livebearers include seahorses and pipefish, where the males care for the young, and certain cichlids that are mouthbrooders, with the parent incubating the eggs in the buccal cavity.
 

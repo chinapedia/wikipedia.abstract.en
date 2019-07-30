@@ -182,7 +182,7 @@ Other
 
 Demand curve
 
-Kinked_demand.JPG. Therefore, the best option for the oligopolist is to produce at point E which is the equilibrium point and the kink point. This is a theoretical model proposed in 1947, which has failed to receive conclusive evidence for support.]]
+. Therefore, the best option for the oligopolist is to produce at point E which is the equilibrium point and the kink point. This is a theoretical model proposed in 1947, which has failed to receive conclusive evidence for support.]]
 
 In an oligopoly, firms operate under imperfect competition. With the fierce price competitiveness created by this sticky-upward demand curve, firms use non-price competition in order to accrue greater revenue and market share.
 

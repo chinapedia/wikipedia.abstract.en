@@ -19,7 +19,7 @@ Bulk
 
 Pure lead has a bright, silvery appearance with a hint of blue. It tarnishes on contact with moist air and takes on a dull appearance, the hue of which depends on the prevailing conditions. Characteristic properties of lead include high density, malleability, ductility, and high resistance to corrosion due to passivation.
 
-Lead-2.jpg Lead's close-packed face-centered cubic structure and high atomic weight result in a density of 11.34 g/cm³, which is greater than that of common metals such as iron (7.87 g/cm³), copper (8.93 g/cm³), and zinc (7.14 g/cm³). This density is the origin of the idiom _to go over like a lead balloon_. Some rarer metals are denser: tungsten and gold are both at 19.3 g/cm³, and osmium—the densest metal known—has a density of 22.59 g/cm³, almost twice that of lead.
+Lead's close-packed face-centered cubic structure and high atomic weight result in a density of 11.34 g/cm³, which is greater than that of common metals such as iron (7.87 g/cm³), copper (8.93 g/cm³), and zinc (7.14 g/cm³). This density is the origin of the idiom _to go over like a lead balloon_. Some rarer metals are denser: tungsten and gold are both at 19.3 g/cm³, and osmium—the densest metal known—has a density of 22.59 g/cm³, almost twice that of lead.
 
 Lead is a very soft metal with a Mohs hardness of 1.5; it can be scratched with a fingernail. It is quite malleable and somewhat ductile. The bulk modulus of lead—a measure of its ease of compressibility—is 45.8 GPa. In comparison, that of aluminium is 75.2 GPa; copper 137.8 GPa; and mild steel 160–169 GPa. Lead's tensile strength, at 12–17 MPa, is low (that of aluminium is 6 times higher, copper 10 times, and mild steel 15 times higher); it can be strengthened by adding small amounts of copper or antimony.
 
@@ -33,14 +33,14 @@ With its high atomic number, lead is the heaviest element whose natural isotopes
 
 Three of the stable isotopes are found in three of the four major decay chains: lead-206, lead-207, and lead-208 are the final decay products of uranium-238, uranium-235, and thorium-232, respectively. These decay chains are called the uranium chain, the actinium chain, and the thorium chain. Their isotopic concentrations in a natural rock sample depends greatly on the presence of these three parent uranium and thorium isotopes. For example, the relative abundance of lead-208 can range from 52% in normal samples to 90% in thorium ores; for this reason, the standard atomic weight of lead is given to only one decimal place. As time passes, the ratio of lead-206 and lead-207 to lead-204 increases, since the former two are supplemented by radioactive decay of heavier elements while the latter is not; this allows for lead–lead dating. As uranium decays into lead, their relative amounts change; this is the basis for uranium–lead dating. Lead-207 exhibits nuclear magnetic resonance, a property that has been used to study its compounds in solution and solid state, including in human body.
 
-Holsinger_Meteorite.jpg meteorite. Uranium–lead dating and lead–lead dating on this meteorite allowed refinement of the age of the Earth to 4.55 billion ± 70 million years.|alt=A piece of a gray meteorite on a pedestal]] Apart from the stable isotopes, which make up almost all lead that exists naturally, there are trace quantities of a few radioactive isotopes. One of them is lead-210; although it has a half-life of only 22.3 years, small quantities occur in nature because lead-210 is produced by a long decay series that starts with uranium-238 (which has been present for billions of years on Earth). Lead-211, -212, and -214 are present in the decay chains of uranium-235, thorium-232, and uranium-238, respectively, so traces of all three of these lead isotopes are found naturally. Minute traces of lead-209 arise from the very rare cluster decay of radium-223, one of the daughter products of natural uranium-235, and the decay chain of neptunium-237, traces of which are produced by neutron capture in uranium ores. Lead-210 is particularly useful for helping to identify the ages of samples by measuring its ratio to lead-206 (both isotopes are present in a single decay chain).
+meteorite. Uranium–lead dating and lead–lead dating on this meteorite allowed refinement of the age of the Earth to 4.55 billion ± 70 million years.|alt=A piece of a gray meteorite on a pedestal]] Apart from the stable isotopes, which make up almost all lead that exists naturally, there are trace quantities of a few radioactive isotopes. One of them is lead-210; although it has a half-life of only 22.3 years, small quantities occur in nature because lead-210 is produced by a long decay series that starts with uranium-238 (which has been present for billions of years on Earth). Lead-211, -212, and -214 are present in the decay chains of uranium-235, thorium-232, and uranium-238, respectively, so traces of all three of these lead isotopes are found naturally. Minute traces of lead-209 arise from the very rare cluster decay of radium-223, one of the daughter products of natural uranium-235, and the decay chain of neptunium-237, traces of which are produced by neutron capture in uranium ores. Lead-210 is particularly useful for helping to identify the ages of samples by measuring its ratio to lead-206 (both isotopes are present in a single decay chain).
 
 In total, 43 lead isotopes have been synthesized, with mass numbers 178–220. Lead-205 is the most stable radioisotope, with a half-life of around 1.73 years. The second-most stable is lead-202, which has a half-life of about 52,500 years, longer than any of the natural trace radioisotopes.
 
 
 Chemistry
 
-FlammenfärbungPb.png: lead colors flame pale blue|alt=A flame with a small metal rod penetrating it; the flame near the rod is pale blue.]] Bulk lead exposed to moist air forms a protective layer of varying composition. Lead(II) carbonate is a common constituent; the sulfate or chloride may also be present in urban or maritime settings. This layer makes bulk lead effectively chemically inert in the air. Finely powdered lead, as with many metals, is pyrophoric, and burns with a bluish-white flame.
+: lead colors flame pale blue|alt=A flame with a small metal rod penetrating it; the flame near the rod is pale blue.]] Bulk lead exposed to moist air forms a protective layer of varying composition. Lead(II) carbonate is a common constituent; the sulfate or chloride may also be present in urban or maritime settings. This layer makes bulk lead effectively chemically inert in the air. Finely powdered lead, as with many metals, is pyrophoric, and burns with a bluish-white flame.
 
 Fluorine reacts with lead at room temperature, forming lead(II) fluoride. The reaction with chlorine is similar but requires heating, as the resulting chloride layer diminishes the reactivity of the elements. Molten lead reacts with the chalcogens to give lead(II) chalcogenides.
 
@@ -52,7 +52,7 @@ Lead shows two main oxidation states: +4 and +2. The tetravalent state is common
 
 There is a relatively large difference in the electronegativity of lead(II) at 1.87 and lead(IV) at 2.33. This difference marks the reversal in the trend of increasing stability of the +4 oxidation state going down the carbon group; tin, by comparison, has values of 1.80 in the +2 oxidation state and 1.96 in the +4 state.
 
-Oxid_olovnatý.JPG|alt=Cream powder]]
+|alt=Cream powder]]
 
 Lead(II)
 
@@ -60,7 +60,7 @@ Lead(II) compounds are characteristic of the inorganic chemistry of lead. Even s
 
 Lead monoxide exists in two polymorphs, litharge α-PbO (red) and massicot β-PbO (yellow), the latter being stable only above around 488 °C. Litharge is the most commonly used inorganic compound of lead. There is no lead(II) hydroxide; increasing the pH of solutions of lead(II) salts leads to hydrolysis and condensation. Lead commonly reacts with heavier chalcogens. Lead sulfide is a semiconductor, a photoconductor, and an extremely sensitive infrared radiation detector. The other two chalcogenides, lead selenide and lead telluride, are likewise photoconducting. They are unusual in that their color becomes lighter going down the group.
 
-Red-lead-unit-cell-3D-balls.png in a tetragonal unit cell of lead(II,IV) oxide|alt=Alternating dark gray and red balls connected by dark gray-red cylinders]] Lead dihalides are well-characterized; this includes the diastatide, and mixed halides, such as PbFCl. The relative insolubility of the latter forms a useful basis for the gravimetric determination of fluorine. The difluoride was the first solid ionically conducting compound to be discovered (in 1834, by Michael Faraday). The other dihalides decompose on exposure to ultraviolet or visible light, especially the diiodide. Many lead(II) pseudohalides are known, such as the cyanide, cyanate, and thiocyanate. Lead(II) forms an extensive variety of halide coordination complexes, such as [PbCl₄]^(2−), [PbCl₆]^(4−), and the [Pb₂Cl₉]_(_n_)^(5_n_−) chain anion.
+in a tetragonal unit cell of lead(II,IV) oxide|alt=Alternating dark gray and red balls connected by dark gray-red cylinders]] Lead dihalides are well-characterized; this includes the diastatide, and mixed halides, such as PbFCl. The relative insolubility of the latter forms a useful basis for the gravimetric determination of fluorine. The difluoride was the first solid ionically conducting compound to be discovered (in 1834, by Michael Faraday). The other dihalides decompose on exposure to ultraviolet or visible light, especially the diiodide. Many lead(II) pseudohalides are known, such as the cyanide, cyanate, and thiocyanate. Lead(II) forms an extensive variety of halide coordination complexes, such as [PbCl₄]^(2−), [PbCl₆]^(4−), and the [Pb₂Cl₉]_(_n_)^(5_n_−) chain anion.
 
 Lead(II) sulfate is insoluble in water, like the sulfates of other heavy divalent cations. Lead(II) nitrate and lead(II) acetate are very soluble, and this is exploited in the synthesis of other lead compounds.
 
@@ -68,7 +68,7 @@ Lead(IV)
 
 Few inorganic lead(IV) compounds are known. They are only formed in highly oxidizing solutions and do not normally exist under standard conditions. Lead(II) oxide gives a mixed oxide on further oxidation, Pb₃O₄. It is described as lead(II,IV) oxide, or structurally 2PbO·PbO₂, and is the best-known mixed valence lead compound. Lead dioxide is a strong oxidizing agent, capable of oxidizing hydrochloric acid to chlorine gas. This is because the expected PbCl₄ that would be produced is unstable and spontaneously decomposes to PbCl₂ and Cl₂. Analogously to lead monoxide, lead dioxide is capable of forming plumbate anions. Lead disulfide and lead diselenide are only stable at high pressures. Lead tetrafluoride, a yellow crystalline powder, is stable, but less so than the difluoride. Lead tetrachloride (a yellow oil) decomposes at room temperature, lead tetrabromide is less stable still, and the existence of lead tetraiodide is questionable.
 
-Nonaplumbide-anion-from-xtal-3D-balls.png anion [Pb₉]^(4−) from [K(18-crown-6)]₂K₂Pb₉·(en)_(1.5)|alt=Nine dark gray spheres connected by cylinders of the same color forming a convex shape]]
+anion [Pb₉]^(4−) from [K(18-crown-6)]₂K₂Pb₉·(en)_(1.5)|alt=Nine dark gray spheres connected by cylinders of the same color forming a convex shape]]
 
 Other oxidation states
 
@@ -78,7 +78,7 @@ Numerous mixed lead(II,IV) oxides are known. When PbO₂ is heated in air, it be
 
 Negative oxidation states can occur as Zintl phases, as either free lead anions, as in Ba₂Pb, with lead formally being lead(−IV), or in oxygen-sensitive ring-shaped or polyhedral cluster ions such as the trigonal bipyramidal Pb₅^(2−) ion, where two lead atoms are lead(−I) and three are lead(0). In such anions, each atom is at a polyhedral vertex and contributes two electrons to each covalent bond along an edge from their sp³ hybrid orbitals, the other two being an external lone pair. They may be made in liquid ammonia via the reduction of lead by sodium.
 
-Tetraethyllead-3D-balls.png molecule:
+molecule:
 Carbon
 Hydrogen
 Lead|alt=A gray-green sphere linked to four black spheres, each, in turn, linked also to three white ones]]
@@ -127,7 +127,7 @@ Primordial lead—which comprises the isotopes lead-204, lead-206, lead-207, and
 
 In the s-process (s is for "slow"), captures are separated by years or decades, allowing less stable nuclei to undergo beta decay. A stable thallium-203 nucleus can capture a neutron and become thallium-204; this undergoes beta decay to give stable lead-204; on capturing another neutron, it becomes lead-205, which has a half-life of around 15 million years. Further captures result in lead-206, lead-207, and lead-208. On capturing another neutron, lead-208 becomes lead-209, which quickly decays into bismuth-209. On capturing another neutron, bismuth-209 becomes bismuth-210, and this beta decays to polonium-210, which alpha decays to lead-206. The cycle hence ends at lead-206, lead-207, lead-208, and bismuth-209.
 
-S-R-processes-atomic-mass-201-to-210.svg, from mercury to polonium. Red lines and circles represent neutron captures; blue arrows represent beta decays; the green arrow represents an alpha decay; cyan arrows represent electron captures.|alt=Uppermost part of the nuclide chart, with only practically stable isotopes and lead-205 shown, and the path of the s-process overlaid on it as well that of the cycle on lead, bismuth, and polonium]] In the r-process (r is for "rapid"), captures happen faster than nuclei can decay. This occurs in environments with a high neutron density, such as a supernova or the merger of two neutron stars. The neutron flux involved may be on the order of 10²² neutrons per square centimeter per second. The r-process does not form as much lead as the s-process. It tends to stop once neutron-rich nuclei reach 126 neutrons. At this point, the neutrons are arranged in complete shells in the atomic nucleus, and it becomes harder to energetically accommodate more of them. When the neutron flux subsides, these nuclei beta decay into stable isotopes of osmium, iridium, and platinum.
+, from mercury to polonium. Red lines and circles represent neutron captures; blue arrows represent beta decays; the green arrow represents an alpha decay; cyan arrows represent electron captures.|alt=Uppermost part of the nuclide chart, with only practically stable isotopes and lead-205 shown, and the path of the s-process overlaid on it as well that of the cycle on lead, bismuth, and polonium]] In the r-process (r is for "rapid"), captures happen faster than nuclei can decay. This occurs in environments with a high neutron density, such as a supernova or the merger of two neutron stars. The neutron flux involved may be on the order of 10²² neutrons per square centimeter per second. The r-process does not form as much lead as the s-process. It tends to stop once neutron-rich nuclei reach 126 neutrons. At this point, the neutrons are arranged in complete shells in the atomic nucleus, and it becomes harder to energetically accommodate more of them. When the neutron flux subsides, these nuclei beta decay into stable isotopes of osmium, iridium, and platinum.
 
 On Earth
 
@@ -135,7 +135,7 @@ Lead is classified as a chalcophile under the Goldschmidt classification, meanin
 
 The main lead-bearing mineral is galena (PbS), which is mostly found with zinc ores. Most other lead minerals are related to galena in some way; boulangerite, Pb₅Sb₄S₁₁, is a mixed sulfide derived from galena; anglesite, PbSO₄, is a product of galena oxidation; and cerussite or white lead ore, PbCO₃, is a decomposition product of galena. Arsenic, tin, antimony, silver, gold, copper, and bismuth are common impurities in lead minerals.
 
-Elemental_abundances.svg for its high atomic number (82). Most elements of atomic number greater than 40 are less abundant.|alt=A line chart generally declining towards its right]] World lead resources exceed two billion tons. Significant deposits are located in Australia, China, Ireland, Mexico, Peru, Portugal, Russia, and the United States. Global reserves—resources that are economically feasible to extract—totaled 88 million tons in 2016, of which Australia had 35 million, China 17 million, and Russia 6.4 million.
+for its high atomic number (82). Most elements of atomic number greater than 40 are less abundant.|alt=A line chart generally declining towards its right]] World lead resources exceed two billion tons. Significant deposits are located in Australia, China, Ireland, Mexico, Peru, Portugal, Russia, and the United States. Global reserves—resources that are economically feasible to extract—totaled 88 million tons in 2016, of which Australia had 35 million, China 17 million, and Russia 6.4 million.
 
 Typical background concentrations of lead do not exceed 0.1 μg/m³ in the atmosphere; 100 mg/kg in soil; and 5 μg/L in freshwater and seawater.
 
@@ -151,7 +151,7 @@ The name of the chemical element is not related to the verb of the same spelling
 
 History
 
-Lead_production_graph.svg period and the Industrial Revolution.|alt=A line chart generally growing to its right]]
+period and the Industrial Revolution.|alt=A line chart generally growing to its right]]
 
 Prehistory and early history
 
@@ -161,8 +161,6 @@ Classical era
 
 Because silver was extensively used as a decorative material and an exchange medium, lead deposits came to be worked in Asia Minor from 3000 BCE; later, lead deposits were developed in the Aegean and Laurion. These three regions collectively dominated production of mined lead until c. 1200 BCE. Beginning circa 2000 BCE, the Phoenicians worked deposits in the Iberian peninsula; by 1600 BCE, lead mining existed in Cyprus, Greece, and Sardinia.
 
-Sling_bullets_BM_GR1842.7-28.550_GR1851.5-7.11.jpg
-
 Rome's territorial expansion in Europe and across the Mediterranean, and its development of mining, led to it becoming the greatest producer of lead during the classical era, with an estimated annual output peaking at 80,000 tonnes. Like their predecessors, the Romans obtained lead mostly as a by-product of silver smelting. Lead mining occurred in Central Europe, Britain, the Balkans, Greece, Anatolia, and Hispania, the latter accounting for 40% of world production.
 
 Lead tablets were commonly used as a material for letters. Lead coffins, cast in flat sand forms, with interchangeable motifs to suit the faith of the deceased were used in ancient Judea.
@@ -171,7 +169,7 @@ Lead was used for making water pipes in the Roman Empire; the Latin word for the
 
 The Roman author Vitruvius reported the health dangers of lead and modern writers have suggested that lead poisoning played a major role in the decline of the Roman Empire. Other researchers have criticized such claims, pointing out, for instance, that not all abdominal pain is caused by lead poisoning. According to archaeological research, Roman lead pipes increased lead levels in tap water but such an effect was "unlikely to have been truly harmful". When lead poisoning did occur, victims were called "saturnine", dark and cynical, after the ghoulish father of the gods, Saturn. By association, lead was considered the father of all metals. Its status in Roman society was low as it was readily available and cheap.
 
-Grosvenor_Museums_-_Wasserröhren.jpg reads: "Made when the Emperor Vespasian was consul for the ninth term and the Emperor Titus was consul for the seventh term, when Gnaeus Iulius Agricola was imperial governor (of Britain)."}}|alt=Ancient pipes in a museum case]]
+reads: "Made when the Emperor Vespasian was consul for the ninth term and the Emperor Titus was consul for the seventh term, when Gnaeus Iulius Agricola was imperial governor (of Britain)."}}|alt=Ancient pipes in a museum case]]
 
 Confusion with tin and antimony
 
@@ -181,21 +179,21 @@ Middle Ages and the Renaissance
 
 Lead mining in Western Europe declined after the fall of the Western Roman Empire, with Arabian Iberia being the only region having a significant output. The largest production of lead occurred in South and East Asia, especially China and India, where lead mining grew rapidly.
 
-Nicholas_Hilliard_(called)_-_Portrait_of_Queen_Elizabeth_I_-_Google_Art_Project.jpg was commonly depicted with a whitened face. Lead in face whiteners is thought to have contributed to her death.|alt=A white-faced woman in red clothes]]
+was commonly depicted with a whitened face. Lead in face whiteners is thought to have contributed to her death.|alt=A white-faced woman in red clothes]]
 
-In Europe, lead production began to increase in the 11th and 12th centuries, when it was again used for roofing and piping. Starting in the 13th century, lead was used to create stained glass. In the European and Arabian traditions of alchemy, lead (symbol Saturn_symbol.svg in the European tradition) was considered an impure base metal which, by the separation, purification and balancing of its constituent essences, could be transformed to pure and incorruptible gold. During the period, lead was used increasingly for adulterating wine. The use of such wine was forbidden for use in Christian rites by a papal bull in 1498, but it continued to be imbibed and resulted in mass poisonings up to the late 18th century. Lead was a key material in parts of the printing press, which was invented around 1440; lead dust was commonly inhaled by print workers, causing lead poisoning. Firearms were invented at around the same time, and lead, despite being more expensive than iron, became the chief material for making bullets. It was less damaging to iron gun barrels, had a higher density (which allowed for better retention of velocity), and its lower melting point made the production of bullets easier as they could be made using a wood fire. Lead, in the form of Venetian ceruse, was extensively used in cosmetics by Western European aristocracy as whitened faces were regarded as a sign of modesty. This practice later expanded to white wigs and eyeliners, and only faded out with the French Revolution in the late 18th century. A similar fashion appeared in Japan in the 18th century with the emergence of the geishas, a practice that continued long into the 20th century. The white faces of women "came to represent their feminine virtue as Japanese women", with lead commonly used in the whitener.
+In Europe, lead production began to increase in the 11th and 12th centuries, when it was again used for roofing and piping. Starting in the 13th century, lead was used to create stained glass. In the European and Arabian traditions of alchemy, lead (symbol in the European tradition) was considered an impure base metal which, by the separation, purification and balancing of its constituent essences, could be transformed to pure and incorruptible gold. During the period, lead was used increasingly for adulterating wine. The use of such wine was forbidden for use in Christian rites by a papal bull in 1498, but it continued to be imbibed and resulted in mass poisonings up to the late 18th century. Lead was a key material in parts of the printing press, which was invented around 1440; lead dust was commonly inhaled by print workers, causing lead poisoning. Firearms were invented at around the same time, and lead, despite being more expensive than iron, became the chief material for making bullets. It was less damaging to iron gun barrels, had a higher density (which allowed for better retention of velocity), and its lower melting point made the production of bullets easier as they could be made using a wood fire. Lead, in the form of Venetian ceruse, was extensively used in cosmetics by Western European aristocracy as whitened faces were regarded as a sign of modesty. This practice later expanded to white wigs and eyeliners, and only faded out with the French Revolution in the late 18th century. A similar fashion appeared in Japan in the 18th century with the emergence of the geishas, a practice that continued long into the 20th century. The white faces of women "came to represent their feminine virtue as Japanese women", with lead commonly used in the whitener.
 
 Outside Europe and Asia
 
 In the New World, lead production was recorded soon after the arrival of European settlers. The earliest record dates to 1621 in the English Colony of Virginia, fourteen years after its foundation. In Australia, the first mine opened by colonists on the continent was a lead mine, in 1841. In Africa, lead mining and smelting were known in the Benue Trough and the lower Congo Basin, where lead was used for trade with Europeans, and as a currency by the 17th century, well before the scramble for Africa.
 
-Lead_mining_Barber_1865p321cropped.jpg region in the United States in 1865|alt=A black-and-white drawing of men working in a mine]]
+region in the United States in 1865|alt=A black-and-white drawing of men working in a mine]]
 
 Industrial Revolution
 
 In the second half of the 18th century, Britain, and later continental Europe and the United States, experienced the Industrial Revolution. This was the first time during which lead production rates exceeded those of Rome. Britain was the leading producer, losing this status by the mid-19th century with the depletion of its mines and the development of lead mining in Germany, Spain, and the United States. By 1900, the United States was the leader in global lead production, and other non-European nations—Canada, Mexico, and Australia—had begun significant production; production outside Europe exceeded that within. A great share of the demand for lead came from plumbing and painting—lead paints were in regular use. At this time, more (working class) people were exposed to the metal and lead poisoning cases escalated. This led to research into the effects of lead intake. Lead was proven to be more dangerous in its fume form than as a solid metal. Lead poisoning and gout were linked; British physician Alfred Baring Garrod noted a third of his gout patients were plumbers and painters. The effects of chronic ingestion of lead, including mental disorders, were also studied in the 19th century. The first laws aimed at decreasing lead poisoning in factories were enacted during the 1870s and 1880s in the United Kingdom.
 
-Dutch_boy_collier_white_lead.png lead paint, United States, 1912|alt=A promotional poster for "COLLIER White Lead" (these words are highlighted) featuring a large image of a boy]]
+lead paint, United States, 1912|alt=A promotional poster for "COLLIER White Lead" (these words are highlighted) featuring a large image of a boy]]
 
 Modern era
 
@@ -210,7 +208,7 @@ From 1960 to 1990, lead output in the Western Bloc grew by about 31%. The share 
 
 Production
 
-Evolution_production_plomb.svg As of 2014, production of lead is increasing worldwide due to its use in lead–acid batteries. There are two major categories of production: primary from mined ores, and secondary from scrap. In 2014, 4.58 million metric tons came from primary production and 5.64 million from secondary production. The top three producers of mined lead concentrate in that year were China, Australia, and the United States. The top three producers of refined lead were China, the United States, and India. According to the International Resource Panel's Metal Stocks in Society report of 2010, the total amount of lead in use, stockpiled, discarded, or dissipated into the environment, on a global basis, is 8 kg per capita. Much of this is in more developed countries (20–150 kg per capita) rather than less developed ones (1–4 kg per capita).
+As of 2014, production of lead is increasing worldwide due to its use in lead–acid batteries. There are two major categories of production: primary from mined ores, and secondary from scrap. In 2014, 4.58 million metric tons came from primary production and 5.64 million from secondary production. The top three producers of mined lead concentrate in that year were China, Australia, and the United States. The top three producers of refined lead were China, the United States, and India. According to the International Resource Panel's Metal Stocks in Society report of 2010, the total amount of lead in use, stockpiled, discarded, or dissipated into the environment, on a global basis, is 8 kg per capita. Much of this is in more developed countries (20–150 kg per capita) rather than less developed ones (1–4 kg per capita).
 
 The primary and secondary lead production processes are similar. Some primary production plants now supplement their operations with scrap lead, and this trend is likely to increase in the future. Given adequate techniques, lead obtained via secondary processes is indistinguishable from lead obtained via primary processes. Scrap lead from the building trade is usually fairly clean and is re-melted without the need for smelting, though refining is sometimes needed. Secondary lead production is therefore cheaper, in terms of energy requirements, than is primary production, often by 50% or more.
 
@@ -297,8 +295,6 @@ Of the sources of lead for recycling, lead–acid batteries are the most importa
 
 Applications
 
-Lead_shielding.jpg
-
 Contrary to popular belief, pencil leads in wooden pencils have never been made from lead. When the pencil originated as a wrapped graphite writing tool, the particular type of graphite used was named _plumbago_ (literally, _act for lead_ or _lead mockup_).
 
 Elemental form
@@ -309,7 +305,7 @@ Lead has been used for bullets since their invention in the Middle Ages. It is i
 
 Lead's high density and resistance to corrosion have been exploited in a number of related applications. It is used as ballast in sailboat keels; its density allows it to take up a small volume and minimize water resistance, thus counterbalancing the heeling effect of wind on the sails. It is used in scuba diving weight belts to counteract the diver's buoyancy. In 1993, the base of the Leaning Tower of Pisa was stabilized with 600 tonnes of lead. Because of its corrosion resistance, lead is used as a protective sheath for underwater cables.
 
-Parc_de_Versailles,_Bassin_de_Flore,_Jean-Baptiste_Tuby_(1672-79)_07.jpg Lead has many uses in the construction industry; lead sheets are used as architectural metals in roofing material, cladding, flashing, gutters and gutter joints, and on roof parapets. Lead is still used in statues and sculptures, including for armatures. In the past it was often used to balance the wheels of cars; for environmental reasons this use is being phased out in favor of other materials.
+Lead has many uses in the construction industry; lead sheets are used as architectural metals in roofing material, cladding, flashing, gutters and gutter joints, and on roof parapets. Lead is still used in statues and sculptures, including for armatures. In the past it was often used to balance the wheels of cars; for environmental reasons this use is being phased out in favor of other materials.
 
 Lead is added to copper alloys, such as brass and bronze, to improve machinability and for its lubricating qualities. Being practically insoluble in copper the lead forms solid globules in imperfections throughout the alloy, such as grain boundaries. In low concentrations, as well as acting as a lubricant, the globules hinder the formation of swarf as the alloy is worked, thereby improving machinability. Copper alloys with larger concentrations of lead are used in bearings. The lead provides lubrication, and the copper provides the load-bearing support.
 
@@ -317,7 +313,7 @@ Lead's high density, atomic number, and formability form the basis for use of le
 
 The largest use of lead in the early 21st century is in lead–acid batteries. The lead in batteries undergoes no direct contact with humans, so there are fewer toxicity concerns. People who work in battery production plants may be exposed to lead dust and inhale it.} The reactions in the battery between lead, lead dioxide, and sulfuric acid provide a reliable source of voltage. Supercapacitors incorporating lead–acid batteries have been installed in kilowatt and megawatt scale applications in Australia, Japan, and the United States in frequency regulation, solar smoothing and shifting, wind smoothing, and other applications. These batteries have lower energy density and charge-discharge efficiency than lithium-ion batteries, but are significantly cheaper.
 
-Crystal_glass.jpg|alt=A crystal glass]]
+|alt=A crystal glass]]
 
 Lead is used in high voltage power cables as sheathing material to prevent water diffusion into insulation; this use is decreasing as lead is being phased out. Its use in solder for electronics is also being phased out by some countries to reduce the amount of environmentally hazardous waste. Lead is one of three metals used in the Oddy test for museum materials, helping detect organic acids, aldehydes, and acidic gases.
 
@@ -342,8 +338,6 @@ Effects
 
 Lead can cause severe damage to the brain and kidneys and, ultimately, death. By mimicking calcium, lead can cross the blood–brain barrier. It degrades the myelin sheaths of neurons, reduces their numbers, interferes with neurotransmission routes, and decreases neuronal growth. In the human body, lead inhibits porphobilinogen synthase and ferrochelatase, preventing both porphobilinogen formation and the incorporation of iron into protoporphyrin IX, the final step in heme synthesis. This causes ineffective heme synthesis and microcytic anemia.
 
-Symptoms_of_lead_poisoning_(raster).png
-
 Symptoms of lead poisoning include nephropathy, colic-like abdominal pains, and possibly weakness in the fingers, wrists, or ankles. Small blood pressure increases, particularly in middle-aged and older people, may be apparent and can cause anemia. Several studies, mostly cross-sectional, found an association between increased lead exposure and decreased heart rate variability. In pregnant women, high levels of exposure to lead may cause miscarriage. Chronic, high-level exposure has been shown to reduce fertility in males.
 
 In a child's developing brain, lead interferes with synapse formation in the cerebral cortex, neurochemical development (including that of neurotransmitters), and the organization of ion channels. Early childhood exposure has been linked with an increased risk of sleep disturbances and excessive daytime drowsiness in later childhood. High blood levels are associated with delayed puberty in girls. The rise and fall in exposure to airborne lead from the combustion of tetraethyl lead in gasoline during the 20th century has been linked with historical increases and decreases in crime levels, a hypothesis which is not universally accepted.
@@ -355,8 +349,6 @@ Lead exposure is a global issue since lead mining and smelting, and battery manu
 Poisoning typically results from ingestion of food or water contaminated with lead, and less commonly after accidental ingestion of contaminated soil, dust, or lead-based paint. Seawater products can contain lead if affected by nearby industrial waters. Fruit and vegetables can be contaminated by high levels of lead in the soils they were grown in. Soil can be contaminated through particulate accumulation from lead in pipes, lead paint, and residual emissions from leaded gasoline.
 
 The use of lead for water pipes is a problem in areas with soft or acidic water. Hard water forms insoluble layers in the pipes whereas soft and acidic water dissolves the lead pipes. Dissolved carbon dioxide in the carried water may result in the formation of soluble lead bicarbonate; oxygenated water may similarly dissolve lead as lead(II) hydroxide. Drinking such water, over time, can cause health problems due to the toxicity of the dissolved lead. The harder the water the more calcium bicarbonate and sulfate it will contain, and the more the inside of the pipes will be coated with a protective layer of lead carbonate or lead sulfate.
-
-Kymographic_recording_of_the_effect_of_lead_on_frog_heart..jpg
 
 Ingestion of applied lead-based paint is the major source of exposure for children: a direct source is chewing on old painted window sills. Alternatively, as the applied dry paint deteriorates, it peels, is pulverized into dust and then enters the body through hand-to-mouth contact or contaminated food, water, or alcohol. Ingesting certain home remedies may result in exposure to lead or its compounds.
 
@@ -371,7 +363,7 @@ Treatment for lead poisoning normally involves the administration of dimercaprol
 
 Environmental effects
 
-Batteries_at_Thiaroye.jpg, Senegal, where at least 18 children died of lead poisoning in 2008|alt=A dusty dump]]
+, Senegal, where at least 18 children died of lead poisoning in 2008|alt=A dusty dump]]
 
 The extraction, production, use, and disposal of lead and its products have caused significant contamination of the Earth's soils and waters. Atmospheric emissions of lead were at their peak during the Industrial Revolution, and the leaded gasoline period in the second half of the twentieth century. Lead releases originate from natural sources (i.e., concentration of the naturally occurring lead), industrial production, incineration and recycling, and mobilization of previously buried lead. Elevated concentrations of lead persist in soils and sediments in post-industrial and urban areas; industrial emissions, including those arising from coal burning, continue in many parts of the world, particularly in the developing countries.
 
@@ -386,7 +378,7 @@ Analytical methods for the determination of lead in the environment include spec
 
 Restriction and remediation
 
-1plombs_chasse_cygne_condé2.jpg (northern France), highlighting lead shot. There are hundreds of lead pellets; a dozen is enough to kill an adult swan within a few days. Such bodies are sources of environmental contamination by lead.|alt=An X-ray picture with numerous small pellets highlighted in white]]
+(northern France), highlighting lead shot. There are hundreds of lead pellets; a dozen is enough to kill an adult swan within a few days. Such bodies are sources of environmental contamination by lead.|alt=An X-ray picture with numerous small pellets highlighted in white]]
 
 By the mid-1980s, there was significant decline in the use of lead in industry. In the United States, environmental regulations reduced or eliminated the use of lead in non-battery products, including gasoline, paints, solders, and water systems. Particulate control devices were installed in coal-fired power plants to capture lead emissions. In 1992, U.S. Congress required the Environmental Protection Agency to reduce the blood lead levels of the country's children. Lead use was further curtailed by the European Union's 2003 Restriction of Hazardous Substances Directive. A large drop in lead deposition occurred in the Netherlands after the 1993 national ban on use of lead shot for hunting and sport shooting: from 230 tonnes in 1990 to 47.5 tonnes in 1995.
 

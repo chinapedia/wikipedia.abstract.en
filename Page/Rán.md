@@ -1,4 +1,4 @@
-Ran_by_Johannes_Gehrts.jpg, 1901]] In Norse mythology, RÁN is a goddess and a personification of the sea. Rán and her husband Ægir, a jötunn who also personifies the sea, have nine daughters, who personify waves. The goddess is frequently associated with a net, which she uses to capture sea-goers. According to the prose introduction to a poem in the _Poetic Edda_ and in _Völsunga saga_, Rán once loaned her net to the god Loki.
+, 1901]] In Norse mythology, RÁN is a goddess and a personification of the sea. Rán and her husband Ægir, a jötunn who also personifies the sea, have nine daughters, who personify waves. The goddess is frequently associated with a net, which she uses to capture sea-goers. According to the prose introduction to a poem in the _Poetic Edda_ and in _Völsunga saga_, Rán once loaned her net to the god Loki.
 
 Rán is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources; the _Prose Edda_, written in the 13th century by Snorri Sturluson; in both _Völsunga saga_ and _Friðþjófs saga hins frœkna_; and in the poetry of skalds, such as _Sonatorrek_, a 10th century poem by Icelandic skald Egill Skallagrímsson.
 
@@ -26,7 +26,7 @@ Rán receives mention in poem _Sonatorrek_ composed by Icelandic skald Egill Ska
 
 _Poetic Edda_
 
-Ögir_und_Ran_by_F._W._Heine.jpg (1845–1921) after an original by Friedrich Wilhelm Engelhard (1813–1902)]] Rán receives three mentions in the _Prose Edda_; twice in poetry and once in prose. The first mention occurs in a stanza in _Helgakviða Hundingsbana I_, when the valkyrie Sigrún assists the ship of the hero Helgi as it encounters ferocious waters:
+(1845–1921) after an original by Friedrich Wilhelm Engelhard (1813–1902)]] Rán receives three mentions in the _Prose Edda_; twice in poetry and once in prose. The first mention occurs in a stanza in _Helgakviða Hundingsbana I_, when the valkyrie Sigrún assists the ship of the hero Helgi as it encounters ferocious waters:
 
   +----------------------------------------------+-----------------------------------------------+--+
   | Henry Adams Bellows translation              | Carolyne Larrington translation               |  |

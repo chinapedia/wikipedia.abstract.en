@@ -1,4 +1,4 @@
-Ketenes.png A KETENE is an organic compound of the form R′R″C=C=O, where R and R' are two arbitrary monovalent chemical groups (or two separate substitution sites in the same molecule).[1] The name may also refers to the specific compound ethenone , the simplest ketene.
+A KETENE is an organic compound of the form R′R″C=C=O, where R and R' are two arbitrary monovalent chemical groups (or two separate substitution sites in the same molecule).[1] The name may also refers to the specific compound ethenone , the simplest ketene.
 
 Although they are highly useful, most ketenes are unstable. When used as reagents in a chemical procedure, they are typically generated when needed, and consumed as soon as (or while) they are produced.[2]
 
@@ -15,7 +15,7 @@ This reaction is called the Schmidlin ketene synthesis.[5][6]
 
 Other ketenes can be prepared from acyl chlorides by an elimination reaction in which HCl is lost:
 
-    Mecanisme-de-la-formation-des-cetenes.png
+
 
 In this reaction, a base, usually triethylamine, removes the acidic proton alpha to the carbonyl group, inducing the formation of the carbon-carbon double bond and the loss of a chloride ion.
 

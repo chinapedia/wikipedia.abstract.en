@@ -10,7 +10,7 @@ The photoelectric effect requires photons with energies approaching zero (in the
 
 Photoemission can occur from any material, but it is most easily observable from metals or other conductors because the process produces a charge imbalance, and if this charge imbalance is not neutralized by current flow (enabled by conductivity), the potential barrier to emission increases until the emission current ceases. It is also usual to have the emitting surface in a vacuum, since gases impede the flow of photoelectrons and make them difficult to observe. Additionally, the energy barrier to photoemission is usually increased by thin oxide layers on metal surfaces if the metal has been exposed to oxygen, so most practical experiments and devices based on the photoelectric effect use clean metal surfaces in a vacuum.
 
-When the photoelectron is emitted into a solid rather than into a vacuum, the term _internal photoemission_ is often used, and emission into a vacuum distinguished as _external photoemission_. Versuch_zum_Fotoeffekt.png
+When the photoelectron is emitted into a solid rather than into a vacuum, the term _internal photoemission_ is often used, and emission into a vacuum distinguished as _external photoemission_.
 
 
 Emission mechanism
@@ -35,7 +35,7 @@ The direction of distribution of emitted electrons peaks in the direction of pol
 
 Mathematical description
 
-In 1905, Einstein proposed an explanation of the photoelectric effect using a concept first put forward by Max Planck that light waves consist of tiny bundles or packets of energy known as photons or quanta. _Photoelectric_effect_diagram.svg The maximum kinetic energy K_(max) of an ejected electron is given by
+In 1905, Einstein proposed an explanation of the photoelectric effect using a concept first put forward by Max Planck that light waves consist of tiny bundles or packets of energy known as photons or quanta. The maximum kinetic energy K_(max) of an ejected electron is given by
 
 _K__(_m__a__x_) = _h_ _f_ − _φ_,
 
@@ -137,7 +137,7 @@ Video camera tubes in the early days of television used the photoelectric effect
 
 Gold-leaf electroscope
 
-Gold_leaf_electroscope_diagram.svg]] Gold-leaf electroscopes are designed to detect static electricity. Charge placed on the metal cap spreads to the stem and the gold leaf of the electroscope. Because they then have the same charge, the stem and leaf repel each other. This will cause the leaf to bend away from the stem.
+]] Gold-leaf electroscopes are designed to detect static electricity. Charge placed on the metal cap spreads to the stem and the gold leaf of the electroscope. Because they then have the same charge, the stem and leaf repel each other. This will cause the leaf to bend away from the stem.
 
 An electroscope is an important tool in illustrating the photoelectric effect. For example, if the electroscope is negatively charged throughout, there is an excess of electrons and the leaf is separated from the stem. If high-frequency light shines on the cap, the electroscope discharges, and the leaf will fall limp. This is because the frequency of the light shining on the cap is above the cap's threshold frequency. The photons in the light have enough energy to liberate electrons from the cap, reducing its negative charge. This will discharge a negatively charged electroscope and further charge a positive electroscope. However, if the electromagnetic radiation hitting the metal cap does not have a high enough frequency (its frequency is below the threshold value for the cap), then the leaf will never discharge, no matter how long one shines the low-frequency light at the cap.[67]
 

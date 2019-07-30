@@ -42,7 +42,7 @@ The earliest East Slavic tribes recorded as having expanded to the upper Volga i
 
 Early history (1147–1283)
 
-_Kyivan_Rus'_1220-1240.png, Vladimir-Suzdal, grew into the Grand Duchy of Moscow]]
+, Vladimir-Suzdal, grew into the Grand Duchy of Moscow]]
 
 The first known reference to Moscow dates from 1147 as a meeting place of Yuri Dolgoruky and Sviatoslav Olgovich. At the time it was a minor town on the western border of Vladimir-Suzdal Principality.
 
@@ -54,10 +54,10 @@ Daniel came of age in the 1270s and became involved in the power struggles of th
 
 Grand Duchy (1283–1547)
 
-  ----------------------------------------- ----------------------------------------------------------- ----------------------------------
-  Kremlenagrad.jpg                          Facial_Chronicle_-_b.10,_p.049_-_Tokhtamysh_at_Moscow.jpg   Mikhail_Feodorovich_Izbranie.jpg
-  Moscow Kremlin in the late 16th century   Siege of Moscow (1382)                                      Red Square
-  ----------------------------------------- ----------------------------------------------------------- ----------------------------------
+  ----------------------------------------- ------------------------ ------------
+
+  Moscow Kremlin in the late 16th century   Siege of Moscow (1382)   Red Square
+  ----------------------------------------- ------------------------ ------------
 
 Daniel ruled Moscow as Grand Duke until 1303 and established it as a prosperous city that would eclipse its parent principality of Vladimir by the 1320s.
 
@@ -65,11 +65,9 @@ On the right bank of the Moskva River, at a distance of from the Kremlin, not la
 
 Moscow was stable and prosperous for many years and attracted a large number of refugees from across Russia. The Rurikids maintained large landholdings by practicing primogeniture, whereby all land was passed to the eldest sons, rather than dividing it up among all sons. By 1304, Yury of Moscow contested with Mikhail of Tver for the throne of the principality of Vladimir. Ivan I eventually defeated Tver to become the sole collector of taxes for the Mongol rulers, making Moscow the capital of Vladimir-Suzdal. By paying high tribute, Ivan won an important concession from the Khan.
 
-Andronikov_Monastery_18.jpg
-
 While Khan of the Golden Horde initially attempted to limit Moscow's influence, when the growth of the Grand Duchy of Lithuania began to threaten all of Russia, the Khan strengthened Moscow to counterbalance Lithuania, allowing it to become one of the most powerful cities in Russia. In 1380, prince Dmitry Donskoy of Moscow led a united Russian army to an important victory over the Mongols in the Battle of Kulikovo. Afterwards, Moscow took the leading role in liberating Russia from Mongol domination. In 1480, Ivan III had finally broken the Russians free from Tatar control, and Moscow became the capital of an empire that would eventually encompass all of Russia and Siberia, and parts of many other lands.
 
-0_4707b_6549aa91_spasskaya.jpg was built in 1491|alt=]]
+was built in 1491|alt=]]
 
 In 1462 Ivan III, (1440–1505) became Grand Prince of Moscow (then part of the medieval Muscovy state). He began fighting the Tatars, enlarged the territory of Muscovy, and enriched his capital city. By 1500 it had a population of 100,000 and was one of the largest cities in the world. He conquered the far larger principality of Novgorod to the north, which had been allied to the hostile Lithuanians. Thus he enlarged the territory sevenfold, from . He took control of the ancient "Novgorod Chronicle" and made it a propaganda vehicle for his regime.[31][32]
 
@@ -81,15 +79,15 @@ In 1508–1516, the Italian architect Aleviz Fryazin (Novy) arranged for the con
 
 Tsardom (1547–1721)
 
-Sant_Vasily_cathedral_in_Moscow.JPG was built in 1561]]
+was built in 1561]]
 
-In the 16th and 17th centuries, the three circular defences were built: Kitay-gorod (Китай-город), the White City (Белый город) and the Earthen City (Земляной город). However, in 1547, two fires destroyed much of the town, and in 1571 the Crimean Tatars captured Moscow, burning everything except the Kremlin.[33] The annals record that only 30,000 of 200,000 inhabitants survived.Расцвет_Кремля._Всехсвятский_мост_и_Кремль_в_конце_XVII_века._1922,_бумага_на_картоне,_уголь,_акварель,_карандаш.jpg)]]
+In the 16th and 17th centuries, the three circular defences were built: Kitay-gorod (Китай-город), the White City (Белый город) and the Earthen City (Земляной город). However, in 1547, two fires destroyed much of the town, and in 1571 the Crimean Tatars captured Moscow, burning everything except the Kremlin.[33] The annals record that only 30,000 of 200,000 inhabitants survived.)]]
 
 The Crimean Tatars attacked again in 1591, but this time was held back by new defence walls, built between 1584 and 1591 by a craftsman named Fyodor Kon. In 1592, an outer earth rampart with 50 towers was erected around the city, including an area on the right bank of the Moscow River. As an outermost line of defence, a chain of strongly fortified monasteries was established beyond the ramparts to the south and east, principally the Novodevichy Convent and Donskoy, Danilov, Simonov, Novospasskiy, and Andronikov monasteries, most of which now house museums. From its ramparts, the city became poetically known as _Bielokamennaya_, the "White-Walled". The limits of the city as marked by the ramparts built in 1592 are now marked by the Garden Ring.
 
 Three square gates existed on the eastern side of the Kremlin wall, which in the 17th century, were known as Konstantino-Eleninsky, Spassky, Nikolsky (owing their names to the icons of Constantine and Helen, the Saviour and St. Nicholas that hung over them). The last two were directly opposite the Red Square, while the Konstantino-Elenensky gate was located behind Saint Basil's Cathedral.
 
-Polish_plan_of_Moscow_1610.PNG, is the last city plan compiled before the destruction of the city in 1612 by retreating Polish troops and subsequent changes to the street network. Orientation: North is at the right, West at the top.]]
+, is the last city plan compiled before the destruction of the city in 1612 by retreating Polish troops and subsequent changes to the street network. Orientation: North is at the right, West at the top.]]
 
 The Russian famine of 1601–03 killed perhaps 100,000 in Moscow. From 1610 through 1612, troops of the Polish–Lithuanian Commonwealth occupied Moscow, as its ruler Sigismund III tried to take the Russian throne. In 1612, the people of Nizhny Novgorod and other Russian cities conducted by prince Dmitry Pozharsky and Kuzma Minin rose against the Polish occupants, besieged the Kremlin, and expelled them. In 1613, the Zemsky sobor elected Michael Romanov tsar, establishing the Romanov dynasty. The 17th century was rich in popular risings, such as the liberation of Moscow from the Polish–Lithuanian invaders (1612), the Salt Riot (1648), the Copper Riot (1662), and the Moscow Uprising of 1682.
 
@@ -101,11 +99,9 @@ Numerous disasters befell the city. The plague epidemics ravaged Moscow in 1570�
 
 Empire (1721–1917)
 
-Moskva_riverfront.jpg
-
 After losing the status as the capital of the empire, the population of Moscow at first decreased, from 200,000 in the 17th century to 130,000 in 1750. But after 1750, the population grew more than tenfold over the remaining duration of the Russian Empire, reaching 1.8 million by 1915.
 
-_Kniznije_lavki.jpg]]
+]]
 
 By 1700, the building of cobbled roads had begun. In November 1730, the permanent street light was introduced, and by 1867 many streets had a gaslight. In 1883, near the Prechistinskiye Gates, arc lamps were installed. In 1741 Moscow was surrounded by a barricade long, the Kamer-Kollezhskiy barrier, with 16 gates at which customs tolls were collected. Its line is traced today by a number of streets called _val_ (“ramparts”). Between 1781 and 1804 the Mytischinskiy water-pipe (the first in Russia) was built. In 1813, following the destruction of much of the city during the French occupation, a Commission for the Construction of the City of Moscow was established. It launched a great program of rebuilding, including a partial replanning of the city-centre. Among many buildings constructed or reconstructed at this time was the Grand Kremlin Palace and the Kremlin Armoury, the Moscow University, the Moscow Manege (Riding School), and the Bolshoi Theatre. In 1903 the Moskvoretskaya water-supply was completed.
 
@@ -113,11 +109,11 @@ In the early 19th century, the Arch of Konstantino-Elenensky gate was paved with
 
 The road connecting Moscow with St. Petersburg, now the M10 highway, was completed in 1746, its Moscow end following the old Tver road, which had existed since the 16th century. It became known as _Peterburskoye Schosse_ after it was paved in the 1780s. Petrovsky Palace was built in 1776–1780 by Matvey Kazakov as a railway station specifically reserved for royal journeys from Saint Petersburg to Moscow, while coaches for lesser classes arrived and departed from Vsekhsvyatskoye station.
 
-Fire_of_Moscow_1812.jpg in 1812, Fire of Moscow, painting by A.F. Smirnov 1813|alt=]]
+in 1812, Fire of Moscow, painting by A.F. Smirnov 1813|alt=]]
 
 When Napoleon invaded Russia in 1812, the Moscovites were evacuated. It is suspected that the Moscow fire was principally the effect of Russian sabotage. Napoleon's _Grande Armée_ was forced to retreat and was nearly annihilated by the devastating Russian winter and sporadic attacks by Russian military forces. As many as 400,000 of Napoleon's soldiers died during this time.[37]
 
-Chumbunt.png]]
+]]
 
 Moscow State University was established in 1755. Its main building was reconstructed after the 1812 fire by Domenico Giliardi. The _Moskovskiye Vedomosti_ newspaper appeared from 1756, originally in weekly intervals, and from 1859 as a daily newspaper.
 
@@ -128,8 +124,6 @@ In the 1830s, general Alexander Bashilov planned the first regular grid of city 
 When Catherine II came to power in 1762, the city's filth and the smell of sewage was depicted by observers as a symptom of disorderly life styles of lower-class Russians recently arrived from the farms. Elites called for improving sanitation, which became part of Catherine's plans for increasing control over social life. National political and military successes from 1812 through 1855 calmed the critics and validated efforts to produce a more enlightened and stable society. There was less talk about the smell and the poor conditions of public health. However, in the wake of Russia's failures in the Crimean War in 1855–56, confidence in the ability of the state to maintain order in the slums eroded, and demands for improved public health put filth back on the agenda.[38]
 
 Soviet period (1917–1991)
-
-_Plan_of_Moscow_1917.jpg _RIAN_archive_429_Fresh_forces_going_to_the_front.jpg _New_Arbat_Ave.jpg Moskve-plakat.jpg
 
 Following the success of the Russian Revolution of 1917, Vladimir Lenin, fearing possible foreign invasion, moved the capital from Saint Petersburg back to Moscow on March 12, 1918.[39] The Kremlin once again became the seat of power and the political centre of the new state.
 
@@ -151,7 +145,7 @@ The MKAD (ring road) was opened in 1961. It had four lanes running along the cit
 
 Recent history (1991–present)
 
-Вид_на_Исторический_музей_в_сторону_Красной_площади.jpg from the Manezhnaya Square]] Moscow-_Hotel_Ukraine_(36892890532).jpg and White House]]
+from the Manezhnaya Square]] and White House]]
 
 When the USSR was dissolved in the same year, Moscow remained the capital of the Russian SFSR (on December 25, 1991, the Russian SFSR was renamed the Russian Federation). Since then, a market economy has emerged in Moscow, producing an explosion of Western-style retailing, services, architecture, and lifestyles.
 
@@ -161,8 +155,6 @@ The city has continued to grow during the 1990s to 2000s, its population rising 
 Geography
 
 Location
-
-Moscow_satellite_image.jpeg Moscow_aerial_view_looking_towards_the_south-east.JPG
 
 Moscow is situated on the banks of the Moskva River, which flows for just over through the East European Plain in central Russia. 49 bridges span the river and its canals within the city's limits. The elevation of Moscow at the All-Russia Exhibition Center (VVC), where the leading Moscow weather station is situated, is . Teplostanskaya highland is the city's highest point at .[49] The width of Moscow city (not limiting MKAD) from west to east is , and the length from north to south is .
 
@@ -238,13 +230,13 @@ Total fertility rate:[66]
 
 Religion
 
-Moscow_July_2011-7a.jpg, demolished during the Soviet period, was reconstructed during 1990–2000]] Christianity is the predominant religion in the city, of which the Russian Orthodox Church is the most popular. Moscow is Russia's capital of Eastern Orthodox Christianity, which has been the country's traditional religion and was deemed a part of Russia's "historical heritage" in a law passed in 1997.[67] Other religions practiced in Moscow include Armenian Apostolicism, Buddhism, Hinduism, Catholicism, Islam, Judaism, Yazidism, Old Believers, Protestantism, and Rodnovery. Moscow,_Catholic_Church_in_Presnya.jpg]] Moscow_Cathedral_Mosque_01-2016.jpg|alt=|right]]
+, demolished during the Soviet period, was reconstructed during 1990–2000]] Christianity is the predominant religion in the city, of which the Russian Orthodox Church is the most popular. Moscow is Russia's capital of Eastern Orthodox Christianity, which has been the country's traditional religion and was deemed a part of Russia's "historical heritage" in a law passed in 1997.[67] Other religions practiced in Moscow include Armenian Apostolicism, Buddhism, Hinduism, Catholicism, Islam, Judaism, Yazidism, Old Believers, Protestantism, and Rodnovery. ]] |alt=|right]]
 
 The Patriarch of Moscow serves as the head of the church and resides in the Danilov Monastery. Moscow was called the "city of 40 times 40 churches"—_"город сорока сороков церквей"_—prior to 1917. In 1918 the Bolshevik government declared Russia a secular state, which in practice meant that religion was repressed and society was to become atheistic. During the period of 1920-1930s a great number of churches in Moscow were demolished, including historical Chudov Monastery in the Kremlin, dating from the 14th century, Kazansky Cathedral on the Red Square, the Cathedral of Christ the Savior, constructed in the 19th century in memory of a victory over Napoleon's army in 1812, and many more. This continued even after the Second World War, in 1940-1970s, when persecutions against religion in the Soviet Union became less severe. Most of the surviving churches and monasteries were closed and then used as clubs, offices, factories or even warehouses. Since the disintegration of the Soviet Union in 1991 many of the destroyed churches have been restored and traditional religions are once again gaining popularity. Among the churches reconstructed in the 1990s is an impressive new Cathedral of Christ the Savior that once more has become a landmark. It was built on the site of the old demolished cathedral, where there had been a huge open swimming-pool until 1994. The Moscow mufti council claimed that Muslims numbered around 1.5 million of 10.5 millions of the city's population in 2010.[68] There are four mosques in the city.[69] Moscow Cathedral Mosque has been built at the site of the former one. It was officially inaugurated on September 23, 2015. The new mosque has the capacity of ten thousand worshippers. President of Russia Vladimir Putin, President of Turkey Recep Tayyip Erdoğan, President of the State of Palestine Mahmoud Abbas and local Muslim leaders participated in the inauguration ceremony of this mosque.[70]
 
 Architecture
 
-RedSquare_SaintBasile_(pixinn.net).jpg in Moscow, the masterpiece of Russian architecture]] Moscow's architecture is world-renowned. Moscow is the site of Saint Basil's Cathedral, with its elegant onion domes, as well as the Cathedral of Christ the Savior and the Seven Sisters. The first Kremlin was built in the middle of the 12th century.
+in Moscow, the masterpiece of Russian architecture]] Moscow's architecture is world-renowned. Moscow is the site of Saint Basil's Cathedral, with its elegant onion domes, as well as the Cathedral of Christ the Savior and the Seven Sisters. The first Kremlin was built in the middle of the 12th century.
 
 Medieval Moscow's design was of concentric walls and intersecting radial thoroughfares. This layout, as well as Moscow's rivers, helped shape Moscow's design in subsequent centuries.
 
@@ -252,9 +244,9 @@ The Kremlin was rebuilt in the 15th century. Its towers and some of its churches
 
 The city's appearance had not changed much by the 18th century. Houses were made of pine and spruce logs, with shingled roofs plastered with sod or covered by birch bark. The rebuilding of Moscow in the second half of the 18th century was necessitated not only by constant fires but also the needs of the nobility. Much of the wooden city was replaced by buildings in the classical style.[71]
 
-For much of its architectural history, Moscow was dominated by Orthodox churches. However, the overall appearance of the city changed drastically during Soviet times, especially as a result of Joseph Stalin's large-scale effort to "modernize" Moscow. Stalin's plans for the city included a network of broad avenues and roadways, some of them over ten lanes wide, which, while greatly simplifying movement through the city, were constructed at the expense of a great number of historical buildings and districts. Among the many casualties of Stalin's demolitions was the Sukharev Tower, a longtime city landmark, as well as mansions and commercial buildings The city's newfound status as the capital of a deeply secular nation, made religiously significant buildings especially vulnerable to demolition. Many of the city's churches, which in most cases were some of Moscow's oldest and most prominent buildings, were destroyed; some notable examples include the Kazan Cathedral and the Cathedral of Christ the Savior. During the 1990s, both were rebuilt. Many smaller churches, however, were lost.[72]GUM,_Moscow,_Russia.jpg department store]]
+For much of its architectural history, Moscow was dominated by Orthodox churches. However, the overall appearance of the city changed drastically during Soviet times, especially as a result of Joseph Stalin's large-scale effort to "modernize" Moscow. Stalin's plans for the city included a network of broad avenues and roadways, some of them over ten lanes wide, which, while greatly simplifying movement through the city, were constructed at the expense of a great number of historical buildings and districts. Among the many casualties of Stalin's demolitions was the Sukharev Tower, a longtime city landmark, as well as mansions and commercial buildings The city's newfound status as the capital of a deeply secular nation, made religiously significant buildings especially vulnerable to demolition. Many of the city's churches, which in most cases were some of Moscow's oldest and most prominent buildings, were destroyed; some notable examples include the Kazan Cathedral and the Cathedral of Christ the Savior. During the 1990s, both were rebuilt. Many smaller churches, however, were lost.[72] department store]]
 
-While the later Stalinist period was characterized by the curtailing of creativity and architectural innovation, the earlier post-revolutionary years saw a plethora of radical new buildings created in the city. Especially notable were the constructivist architects associated with VKHUTEMAS, responsible for such landmarks as Lenin's Mausoleum. Another prominent architect was Vladimir Shukhov, famous for Shukhov Tower, just one of many hyperboloid towers designed by Shukhov. It was built between 1919 and 1922 as a transmission tower for a Russian broadcasting company.[73] Shukhov also left a lasting legacy to the Constructivist architecture of early Soviet Russia. He designed spacious elongated shop galleries, most notably the GUM department store on Red Square,[74] bridged with innovative metal-and-glass vaults. One of the "Seven Sisters (Moscow)", Hotel Ukraina|thumb _Ostankino_Tower,_2015.JPG, the tallest freestanding structure in Europe and 8th tallest in the world]]
+While the later Stalinist period was characterized by the curtailing of creativity and architectural innovation, the earlier post-revolutionary years saw a plethora of radical new buildings created in the city. Especially notable were the constructivist architects associated with VKHUTEMAS, responsible for such landmarks as Lenin's Mausoleum. Another prominent architect was Vladimir Shukhov, famous for Shukhov Tower, just one of many hyperboloid towers designed by Shukhov. It was built between 1919 and 1922 as a transmission tower for a Russian broadcasting company.[73] Shukhov also left a lasting legacy to the Constructivist architecture of early Soviet Russia. He designed spacious elongated shop galleries, most notably the GUM department store on Red Square,[74] bridged with innovative metal-and-glass vaults. , the tallest freestanding structure in Europe and 8th tallest in the world]]
 
 Perhaps the most recognizable contributions of the Stalinist period are the so-called Seven Sisters, comprising seven massive skyscrapers scattered throughout the city at about an equal distance from the Kremlin. A defining feature of Moscow's skyline, their imposing form was allegedly inspired by the Manhattan Municipal Building in New York City, and their style—with intricate exteriors and a large central spire—has been described as Stalinist Gothic architecture. All seven towers can be seen from most high points in the city; they are among the tallest constructions in central Moscow apart from the Ostankino Tower, which, when it was completed in 1967, was the highest free-standing land structure in the world and today remains the world's seventy-second tallest, ranking among buildings such as the Burj Khalifa in Dubai, Taipei 101 in Taiwan and the CN Tower in Toronto.[75]
 
@@ -264,7 +256,7 @@ Although the city still has some five-story apartment buildings constructed befo
 
 Stalinist-era buildings, mostly found in the central part of the city, are massive and usually ornamented with Socialist realism motifs that imitate classical themes. However, small churches—almost always Eastern Orthodox– found across the city provide glimpses of its past. The Old Arbat Street, a tourist street that was once the heart of a bohemian area, preserves most of its buildings from prior to the 20th century. Many buildings found off the main streets of the inner city (behind the Stalinist façades of Tverskaya Street, for example) are also examples of bourgeois architecture typical of Tsarist times. Ostankino Palace, Kuskovo, Uzkoye and other large estates just outside Moscow originally belong to nobles from the Tsarist era, and some convents, and monasteries, both inside and outside the city, are open to Muscovites and tourists.
 
-_New_Arbat_Avenue.jpg]]Attempts are being made to restore many of the city's best-kept examples of pre-Soviet architecture. These restored structures are easily spotted by their bright new colors and spotless façades. There are a few examples of notable, early Soviet avant-garde work too, such as the house of the architect Konstantin Melnikov in the Arbat area. Many of these restorations were criticized for alleged disrespect of historical authenticity. Facadism is also widely practiced.[77] Later examples of interesting Soviet architecture are usually marked by their impressive size and the semi-Modernist styles employed, such as with the Novy Arbat project, familiarly known as "false teeth of Moscow" and notorious for the wide-scale disruption of a historic area in central Moscow involved in the project.
+]]Attempts are being made to restore many of the city's best-kept examples of pre-Soviet architecture. These restored structures are easily spotted by their bright new colors and spotless façades. There are a few examples of notable, early Soviet avant-garde work too, such as the house of the architect Konstantin Melnikov in the Arbat area. Many of these restorations were criticized for alleged disrespect of historical authenticity. Facadism is also widely practiced.[77] Later examples of interesting Soviet architecture are usually marked by their impressive size and the semi-Modernist styles employed, such as with the Novy Arbat project, familiarly known as "false teeth of Moscow" and notorious for the wide-scale disruption of a historic area in central Moscow involved in the project.
 
 Plaques on house exteriors will inform passers-by that a well-known personality once lived there. Frequently, the plaques are dedicated to Soviet celebrities not well known outside (or often, like with decorated generals and revolutionaries, now both inside) of Russia. There are also many "museum houses" of famous Russian writers, composers, and artists in the city.
 
@@ -274,17 +266,17 @@ Some organizations, such as Moscow Architecture Preservation Society[82] and Sav
 
 Parks and landmarks
 
-There are 96 parks and 18 gardens in Moscow, including four botanical gardens. There are of green zones besides of forests.[85] Moscow is a very green city, if compared to other cities of comparable size in Western Europe and North America; this is partly due to a history of having green "yards" with trees and grass, between residential buildings. There are on average of parks per person in Moscow compared with 6 for Paris, 7.5 in London and 8.6 in New York.[86]Moscow_Gorky_Park_main_portal_08-2016_img1.jpg|alt=|left]] Gorky Park (officially the Central Park of Culture and Rest named after Maxim Gorky), was founded in 1928. The main part ()[87] along the Moskva river contains estrades, children's attractions (including the _Observation Wheel_ water ponds with boats and water bicycles), dancing, tennis courts and other sports facilities. It borders the Neskuchny Garden (), the oldest park in Moscow and a former imperial residence, created as a result of the integration of three estates in the 18th century. The Garden features the Green Theater, one of the largest open amphitheaters in Europe, able to hold up to 15 thousand people.[88]Voitonpuisto_Moskovassa.jpg]]Several parks include a section known as a "Park of Culture and Rest", sometimes alongside a much wilder area (this includes parks such as Izmaylovsky, Fili and Sokolniki). Some parks are designated as Forest Parks (lesopark).
+There are 96 parks and 18 gardens in Moscow, including four botanical gardens. There are of green zones besides of forests.[85] Moscow is a very green city, if compared to other cities of comparable size in Western Europe and North America; this is partly due to a history of having green "yards" with trees and grass, between residential buildings. There are on average of parks per person in Moscow compared with 6 for Paris, 7.5 in London and 8.6 in New York.[86]|alt=|left]] Gorky Park (officially the Central Park of Culture and Rest named after Maxim Gorky), was founded in 1928. The main part ()[87] along the Moskva river contains estrades, children's attractions (including the _Observation Wheel_ water ponds with boats and water bicycles), dancing, tennis courts and other sports facilities. It borders the Neskuchny Garden (), the oldest park in Moscow and a former imperial residence, created as a result of the integration of three estates in the 18th century. The Garden features the Green Theater, one of the largest open amphitheaters in Europe, able to hold up to 15 thousand people.[88]]]Several parks include a section known as a "Park of Culture and Rest", sometimes alongside a much wilder area (this includes parks such as Izmaylovsky, Fili and Sokolniki). Some parks are designated as Forest Parks (lesopark).
 
 Izmaylovsky Park, created in 1931, is one of the largest urban parks in the world along with Richmond Park in London. Its area of is six times greater than that of Central Park in New York.[89]
 
-Russie_-_Moscou_-_Novodevichy_4.jpg is a World Heritage Site|alt=|left]] Sokolniki Park, named after the falcon hunting that occurred there in the past, is one of the oldest parks in Moscow and has an area of . A central circle with a large fountain is surrounded by birch, maple and elm tree alleys. A labyrinth composed of green paths lies beyond the park's ponds.
+is a World Heritage Site|alt=|left]] Sokolniki Park, named after the falcon hunting that occurred there in the past, is one of the oldest parks in Moscow and has an area of . A central circle with a large fountain is surrounded by birch, maple and elm tree alleys. A labyrinth composed of green paths lies beyond the park's ponds.
 
-Losiny Ostrov National Park ("Elk Island" National Park), with a total area of more than , borders Sokolniki Park and was Russia's first national park. It is quite wild, and is also known as the "city taiga" – elk can be seen there. Zaryadye31.jpg]]
+Losiny Ostrov National Park ("Elk Island" National Park), with a total area of more than , borders Sokolniki Park and was Russia's first national park. It is quite wild, and is also known as the "city taiga" – elk can be seen there. ]]
 
-Tsytsin Main Botanical Garden of Academy of Sciences, founded in 1945 is the largest in Europe.[90] It covers the territory of bordering the All-Russia Exhibition Center and contains a live exhibition of more than 20 thousand species of plants from around the world, as well as a lab for scientific research. It contains a rosarium with 20 thousand rose bushes, a dendrarium, and an oak forest, with the average age of trees exceeding 100 years. There is a greenhouse taking up more than of land.[91]VDNKh_2017.jpg|alt=]]The All-Russian Exhibition Center (Всероссийский выставочный центр), formerly known as the All-Union Agricultural Exhibition (VSKhV) and later Exhibition of Achievements of the National Economy (VDNKh), though officially named a "permanent trade show", is one of the most prominent examples of Stalinist-era monumental architecture. Among the large spans of a recreational park, areas are scores of elaborate pavilions, each representing either a branch of Soviet industry and science or a USSR republic. Even though during the 1990s it was, and for some part still is, misused as a gigantic shopping center (most of the pavilions are rented out for small businesses), it still retains the bulk of its architectural landmarks, including two monumental fountains (_Stone Flower_ and _Friendship of Nations_) and a 360 degrees panoramic cinema. In 2014 the park returned to the name Exhibition of Achievements of National Economy, and in the same year huge renovation works had been started.[92]
+Tsytsin Main Botanical Garden of Academy of Sciences, founded in 1945 is the largest in Europe.[90] It covers the territory of bordering the All-Russia Exhibition Center and contains a live exhibition of more than 20 thousand species of plants from around the world, as well as a lab for scientific research. It contains a rosarium with 20 thousand rose bushes, a dendrarium, and an oak forest, with the average age of trees exceeding 100 years. There is a greenhouse taking up more than of land.[91]|alt=]]The All-Russian Exhibition Center (Всероссийский выставочный центр), formerly known as the All-Union Agricultural Exhibition (VSKhV) and later Exhibition of Achievements of the National Economy (VDNKh), though officially named a "permanent trade show", is one of the most prominent examples of Stalinist-era monumental architecture. Among the large spans of a recreational park, areas are scores of elaborate pavilions, each representing either a branch of Soviet industry and science or a USSR republic. Even though during the 1990s it was, and for some part still is, misused as a gigantic shopping center (most of the pavilions are rented out for small businesses), it still retains the bulk of its architectural landmarks, including two monumental fountains (_Stone Flower_ and _Friendship of Nations_) and a 360 degrees panoramic cinema. In 2014 the park returned to the name Exhibition of Achievements of National Economy, and in the same year huge renovation works had been started.[92]
 
-_Lilac Park_, founded in 1958, has a permanent sculpture display and a large rosarium.Храм-Вознесения.jpg is a World Heritage Site|alt=]]Moscow has always been a popular destination for tourists. Some of the more famous attractions include the city's UNESCO World Heritage Site, Moscow Kremlin and Red Square,[93] which was built between the 14th and 17th centuries.[94] The Church of the Ascension at Kolomenskoye, which dates from 1532, is also a UNESCO World Heritage Site and another popular attraction.[95]
+_Lilac Park_, founded in 1958, has a permanent sculpture display and a large rosarium. is a World Heritage Site|alt=]]Moscow has always been a popular destination for tourists. Some of the more famous attractions include the city's UNESCO World Heritage Site, Moscow Kremlin and Red Square,[93] which was built between the 14th and 17th centuries.[94] The Church of the Ascension at Kolomenskoye, which dates from 1532, is also a UNESCO World Heritage Site and another popular attraction.[95]
 
 Near the new Tretyakov Gallery there is a sculpture garden, Museon, often called "the graveyard of fallen monuments" that displays statues of the former Soviet Union that were removed from their place after its dissolution.
 
@@ -292,15 +284,15 @@ Other attractions include the Moscow Zoo, a zoological garden in two sections (t
 
 Moscow rings
 
-_ISS-30_Moscow,_Russia.jpg]] Moscow's road system is centered roughly on the Kremlin at the heart of the city. From there, roads generally span outwards to intersect with a sequence of circular roads ("rings").
+]] Moscow's road system is centered roughly on the Kremlin at the heart of the city. From there, roads generally span outwards to intersect with a sequence of circular roads ("rings").
 
-The first and innermost major ring, Bulvarnoye Koltso (Boulevard Ring), was built at the former location of the 16th-century city wall around what used to be called Bely Gorod (White Town).[98] The Bulvarnoye Koltso is technically not a ring; it does not form a complete circle, but instead a horseshoe-like arc that begins at the Cathedral of Christ the Savior and ends at the Yauza River._Krymsky_Val_-_Garden_Ring.jpg in the area of Krimsky Val Street|alt=|left]]The second primary ring, located outside the bell end of the Boulevard Ring, is the Sadovoye Koltso (Garden Ring). Like the Boulevard Ring, the Garden Ring follows the path of a 16th-century wall that used to encompass part of Moscow.[99]
+The first and innermost major ring, Bulvarnoye Koltso (Boulevard Ring), was built at the former location of the 16th-century city wall around what used to be called Bely Gorod (White Town).[98] The Bulvarnoye Koltso is technically not a ring; it does not form a complete circle, but instead a horseshoe-like arc that begins at the Cathedral of Christ the Savior and ends at the Yauza River. in the area of Krimsky Val Street|alt=|left]]The second primary ring, located outside the bell end of the Boulevard Ring, is the Sadovoye Koltso (Garden Ring). Like the Boulevard Ring, the Garden Ring follows the path of a 16th-century wall that used to encompass part of Moscow.[99]
 
 The third ring, the Third Transport Ring, was completed in 2003 as a high-speed freeway.
 
 The Fourth Transport Ring, another freeway, is cancelled in 2011.
 
-Aside from aforementioned hierarchy, line 5 of Moscow Metro is a circle-shaped looped subway line (hence the name _Koltsevaya Liniya_, "ring line"), which is located between the _Sadovoye Koltso_ and Third Transport Ring._ISS-38_Nighttime_image_of_Moscow,_Russia.jpg, January 29, 2014]]September 10, 2016, _Moscow Central Circle_ renovated railroad (former _Moskovskaya Okruzhnaya Zheleznaya Doroga_) was introduced as 14th line of Moscow Metro. The railroad itself was in use since 1907, but before the renovation, it was a non-electrified railroad for transit needs of fueled locomotives only.
+Aside from aforementioned hierarchy, line 5 of Moscow Metro is a circle-shaped looped subway line (hence the name _Koltsevaya Liniya_, "ring line"), which is located between the _Sadovoye Koltso_ and Third Transport Ring., January 29, 2014]]September 10, 2016, _Moscow Central Circle_ renovated railroad (former _Moskovskaya Okruzhnaya Zheleznaya Doroga_) was introduced as 14th line of Moscow Metro. The railroad itself was in use since 1907, but before the renovation, it was a non-electrified railroad for transit needs of fueled locomotives only.
 
 The outermost ring within Moscow is the Moscow Ring Road (often called _MKAD_, acronym word for Russian _Московская Кольцевая Автомобильная Дорога_), which forms the cultural boundary of the city, was established in the 1950s. It is to note the method of building the road (usage of ground elevation instead of concrete columns throughout the whole way) formed a wall-like barrier that obstacles building roads under the MKAD highway itself).
 
@@ -325,15 +317,15 @@ Life and culture
 
 Overview
 
-Moscow_05-2012_TretyakovGallery.jpg|alt=]]One of the most notable art museums in Moscow is the Tretyakov Gallery, which was founded by Pavel Tretyakov, a wealthy patron of the arts who donated a large private collection to the city.[100] The Tretyakov Gallery is split into two buildings. The Old Tretyakov gallery, the original gallery in the Tretyakovskaya area on the south bank of the Moskva River, houses works in the classic Russian tradition.[101] The works of famous pre-Revolutionary painters, such as Ilya Repin, as well as the works of early Russian icon painters can be found here. Visitors can even see rare originals by early 15th-century iconographer Andrei Rublev.[102] The New Tretyakov gallery, created in Soviet times, mainly contains the works of Soviet artists, as well as of a few contemporary paintings, but there is some overlap with the Old Tretyakov Gallery for early 20th-century art. The new gallery includes a small reconstruction of Vladimir Tatlin's famous _Monument to the Third International_ and a mixture of other avant-garde works by artists like Kazimir Malevich and Wassily Kandinsky. Socialist realism features can also be found within the halls of the New Tretyakov Gallery.
+|alt=]]One of the most notable art museums in Moscow is the Tretyakov Gallery, which was founded by Pavel Tretyakov, a wealthy patron of the arts who donated a large private collection to the city.[100] The Tretyakov Gallery is split into two buildings. The Old Tretyakov gallery, the original gallery in the Tretyakovskaya area on the south bank of the Moskva River, houses works in the classic Russian tradition.[101] The works of famous pre-Revolutionary painters, such as Ilya Repin, as well as the works of early Russian icon painters can be found here. Visitors can even see rare originals by early 15th-century iconographer Andrei Rublev.[102] The New Tretyakov gallery, created in Soviet times, mainly contains the works of Soviet artists, as well as of a few contemporary paintings, but there is some overlap with the Old Tretyakov Gallery for early 20th-century art. The new gallery includes a small reconstruction of Vladimir Tatlin's famous _Monument to the Third International_ and a mixture of other avant-garde works by artists like Kazimir Malevich and Wassily Kandinsky. Socialist realism features can also be found within the halls of the New Tretyakov Gallery.
 
-Gmii.jpg|alt=|left]]
+|alt=|left]]
 
 Another art museum in the city of Moscow is the Pushkin Museum of Fine Arts, which was founded by, among others, the father of Marina Tsvetaeva. The Pushkin Museum is similar to the British Museum in London in that its halls are a cross-section of exhibits on world civilisations, with many copies of ancient sculptures. However, it also hosts paintings from every major Western era; works by Claude Monet, Paul Cézanne, and Pablo Picasso are present in the museum's collection.
 
-Исторический_музей_.jpg|alt=]]The State Historical Museum of Russia (Государственный Исторический музей) is a museum of Russian history located between Red Square and Manege Square in Moscow. Its exhibitions range from relics of the prehistoric tribes inhabiting present-day Russia, through priceless artworks acquired by members of the Romanov dynasty. The total number of objects in the museum's collection numbers is several million. The Polytechnical Museum,[103] founded in 1872 is the largest technical museum in Russia, offering a wide array of historical inventions and technological achievements, including humanoid automata from the 18th century and the first Soviet computers. Its collection contains more than 160,000 items.[104] The Borodino Panorama[105] museum located on Kutuzov Avenue provides an opportunity for visitors to experience being on a battlefield with a 360° diorama. It is a part of the large historical memorial commemorating the victory in the Patriotic War of 1812 over Napoleon's army, that includes also the triumphal arch, erected in 1827. There is also a military history museum that includes statues, and military hardware.
+|alt=]]The State Historical Museum of Russia (Государственный Исторический музей) is a museum of Russian history located between Red Square and Manege Square in Moscow. Its exhibitions range from relics of the prehistoric tribes inhabiting present-day Russia, through priceless artworks acquired by members of the Romanov dynasty. The total number of objects in the museum's collection numbers is several million. The Polytechnical Museum,[103] founded in 1872 is the largest technical museum in Russia, offering a wide array of historical inventions and technological achievements, including humanoid automata from the 18th century and the first Soviet computers. Its collection contains more than 160,000 items.[104] The Borodino Panorama[105] museum located on Kutuzov Avenue provides an opportunity for visitors to experience being on a battlefield with a 360° diorama. It is a part of the large historical memorial commemorating the victory in the Patriotic War of 1812 over Napoleon's army, that includes also the triumphal arch, erected in 1827. There is also a military history museum that includes statues, and military hardware.
 
-Moscow is the heart of the Russian performing arts, including ballet and film, with 68 museums[106] 103[107] theaters, 132 cinemas and 24 concert halls. Among Moscow's theaters and ballet studios is the Bolshoi Theatre and the Malyi Theatre[108] as well as Vakhtangov Theatre and Moscow Art Theatre.Moscow_International_House_of_Music.jpg|alt=]]
+Moscow is the heart of the Russian performing arts, including ballet and film, with 68 museums[106] 103[107] theaters, 132 cinemas and 24 concert halls. Among Moscow's theaters and ballet studios is the Bolshoi Theatre and the Malyi Theatre[108] as well as Vakhtangov Theatre and Moscow Art Theatre.|alt=]]
 
 The Moscow International Performance Arts Center,[109] opened in 2003, also known as Moscow International House of Music, is known for its performances in classical music. It has the largest organ in Russia installed in Svetlanov Hall.
 
@@ -348,9 +340,9 @@ The Shchusev State Museum of Architecture is the national museum of Russian arch
 
 Sports
 
-Luzhniki_Stadium1.jpg hosted the 1980 Summer Olympics and the 2018 FIFA World Cup Final]] Over 500 Olympic sports champions lived in the city by 2005.[113] Moscow is home to 63 stadiums (besides eight football and eleven light athletics maneges), of which Luzhniki Stadium is the largest and the 4th biggest in Europe (it hosted the 1998–99 UEFA Cup, 2007–08 UEFA Champions League finals, the 1980 Summer Olympics, and the 2018 FIFA World Cup with 7 games total, including the final). Forty other sport complexes are located within the city, including 24 with artificial ice. The Olympic Stadium was the world's first indoor arena for bandy and hosted the Bandy World Championship twice.[114] Moscow was again the host of the competition in 2010, this time in Krylatskoye.[115] That arena has also hosted the World Speed Skating Championships. There are also seven horse racing tracks in Moscow,[116] of which Central Moscow Hippodrome,[117] founded in 1834, is the largest.
+hosted the 1980 Summer Olympics and the 2018 FIFA World Cup Final]] Over 500 Olympic sports champions lived in the city by 2005.[113] Moscow is home to 63 stadiums (besides eight football and eleven light athletics maneges), of which Luzhniki Stadium is the largest and the 4th biggest in Europe (it hosted the 1998–99 UEFA Cup, 2007–08 UEFA Champions League finals, the 1980 Summer Olympics, and the 2018 FIFA World Cup with 7 games total, including the final). Forty other sport complexes are located within the city, including 24 with artificial ice. The Olympic Stadium was the world's first indoor arena for bandy and hosted the Bandy World Championship twice.[114] Moscow was again the host of the competition in 2010, this time in Krylatskoye.[115] That arena has also hosted the World Speed Skating Championships. There are also seven horse racing tracks in Moscow,[116] of which Central Moscow Hippodrome,[117] founded in 1834, is the largest.
 
-Moscow_05-2017_img48_Olimpiysky_Arena.jpg]]
+]]
 
 Moscow was the host city of the 1980 Summer Olympics, with the yachting events being held at Tallinn, in present-day Estonia. Large sports facilities and the main international airport, Sheremetyevo Terminal 2, were built in preparation for the 1980 Summer Olympics. Moscow had made a bid for the 2012 Summer Olympics. However, when final voting commenced on July 6, 2005, Moscow was the first city to be eliminated from further rounds. The Games were awarded to London.
 
@@ -360,13 +352,13 @@ The most titled Soviet, Russian, and one of the most titled Euroleague clubs, is
 
 Moscow had more winners at the USSR and Russian Chess Championship than any other city.
 
-The most titled volleyball team in the Soviet Union and in Europe (CEV Champions League) is VC CSKA Moscow.Stadium_Spartak_in_Moscow_(cropped).jpg hosted the 2018 FIFA World Cup games|alt=|left]]
+The most titled volleyball team in the Soviet Union and in Europe (CEV Champions League) is VC CSKA Moscow. hosted the 2018 FIFA World Cup games|alt=|left]]
 
 In football, FC Spartak Moscow has won more championship titles in the Russian Premier League than any other team. They were second only to FC Dynamo Kyiv in Soviet times. PFC CSKA Moscow became the first Russian football team to win a UEFA title, the UEFA Cup (present-day UEFA Europa League). FC Lokomotiv Moscow, FC Dynamo Moscow and FC Torpedo Moscow are other professional football teams also based in Moscow.
 
 Moscow houses other prominent football, ice hockey, and basketball teams. Because sports organisations in the Soviet Union were once highly centralized, two of the best Union-level teams represented defence and law-enforcing agencies: the Armed Forces (CSKA) and the Ministry of Internal Affairs (Dinamo). There were army and police teams in most major cities. As a result, Spartak, CSKA, and Dinamo were among the best-funded teams in the USSR.
 
-Arena_CSKA.jpg]] Because of Moscow's cold local climate, winter sports have a following. Many of Moscow's large parks offer marked trails for skiing and frozen ponds for skating.
+]] Because of Moscow's cold local climate, winter sports have a following. Many of Moscow's large parks offer marked trails for skiing and frozen ponds for skating.
 
 Moscow hosts the annual Kremlin Cup, a popular tennis tournament on both the WTA and ATP tours. It is one of the ten Tier-I events on the women's tour and a host of Russian players feature every year.
 
@@ -374,7 +366,7 @@ SC Olimpiyskiy hosted the Eurovision Song Contest 2009, the first and so far the
 
 Slava Moscow is a professional rugby club, competing in the national Professional Rugby League. Former rugby league heavyweights RC Lokomotiv have entered the same league . The Luzhniki Stadium also hosted the 2013 Rugby World Cup Sevens.
 
-VTB_Arena1.jpg]] In bandy, one of the most successful clubs in the world is 20 times Russian League champions Dynamo Moscow. They have also won the World Cup thrice and European Cup six times.
+]] In bandy, one of the most successful clubs in the world is 20 times Russian League champions Dynamo Moscow. They have also won the World Cup thrice and European Cup six times.
 
 MFK Dinamo Moskva is one of the major futsal clubs in Europe, having won the Futsal Champions League title once.
 
@@ -409,14 +401,14 @@ The 2018 FIFA World Cup gave a powerful impetus to the development of sports in 
 
 Entertainment
 
-_Tverskaya_Street_in_Moscow_by_night_(no_cars).JPG]] The city is full of clubs, restaurants, and bars. Tverskaya Street is also one of the busiest shopping streets in Moscow.
+]] The city is full of clubs, restaurants, and bars. Tverskaya Street is also one of the busiest shopping streets in Moscow.
 
 The adjoining Tretyakovsky Proyezd, also south of Tverskaya Street, in Kitai-gorod, is host to upmarket boutique stores such as Bulgari, Tiffany & Co., Armani, Prada and Bentley.[118] Nightlife in Moscow has moved on since Soviet times and today the city has many of the world's largest nightclubs. Clubs, bars, creative spaces and restaurants-turned-into-dancefloors are flooding Moscow streets with new openings every year. The hottest area is located around the old chocolate factory, where bars, nightclubs, galleries, cafés and restaurants are placed.[119]
 
 
 Politics
 
-Ministry_of_Foreign_Affairs_Russia-2.jpg|alt=|left]]
+|alt=|left]]
 
 Moscow is the seat of power for the Russian Federation. At the centre of the city, in the Central Administrative Okrug, is the Moscow Kremlin, which houses the home of the President of Russia as well as national governmental facilities. This includes military headquarters and the headquarters of the Federal Security Service. Moscow, like with any national capital, is also the host of all the foreign embassies and diplomats representing a multitude of nations in Russia.
 
@@ -432,7 +424,7 @@ The Moscow City Duma is the City Duma (city council or local parliament) and loc
 
 Administrative divisions
 
-Msk_all_districts.svg: 1. Central 2. Northern 3. North-Eastern 4. Eastern 5. South-Eastern 6. Southern 7. South-Western 8. Western 9. North-Western 10. Zelenogradsky 11. Novomoskovsky 12. Troitsky]]
+: 1. Central 2. Northern 3. North-Eastern 4. Eastern 5. South-Eastern 6. Southern 7. South-Western 8. Western 9. North-Western 10. Zelenogradsky 11. Novomoskovsky 12. Troitsky]]
 
 The entire city of Moscow is headed by one mayor (Sergey Sobyanin). The city of Moscow is divided into twelve administrative okrugs and 123 districts.
 
@@ -451,9 +443,9 @@ Economy
 
 Overview
 
-Moscow_Business_Center_2018.jpg, one of the largest financial centres in Europe|alt=|left]]
+, one of the largest financial centres in Europe|alt=|left]]
 
-Moscow has one of the largest municipal economies in Europe and it accounts more than one-fifth of Russia's gross domestic product (GDP).[124] , the nominal GRP in Moscow reached ₽15.7 trillion[125][126] $270 billion (~$0.7 trillion in Purchasing Power[127]),[128] US$22,000 per capita(~$60,000 per capita in Purchasing Power[129][130])Moscow_Exhacnge_main_building.jpg|alt=]]Moscow has the lowest unemployment rate of all federal subjects of Russia, standing at just 1% in 2010, compared to the national average of 7%. The average gross monthly wage in the city is ₽60,000[131] (US$2,500 in Purchasing Power[132]), which is almost twice the national average of ₽34,000[133] (US$1,400 in Purchasing Power[134]), and the highest among the federal subjects of Russia.
+Moscow has one of the largest municipal economies in Europe and it accounts more than one-fifth of Russia's gross domestic product (GDP).[124] , the nominal GRP in Moscow reached ₽15.7 trillion[125][126] $270 billion (~$0.7 trillion in Purchasing Power[127]),[128] US$22,000 per capita(~$60,000 per capita in Purchasing Power[129][130])|alt=]]Moscow has the lowest unemployment rate of all federal subjects of Russia, standing at just 1% in 2010, compared to the national average of 7%. The average gross monthly wage in the city is ₽60,000[131] (US$2,500 in Purchasing Power[132]), which is almost twice the national average of ₽34,000[133] (US$1,400 in Purchasing Power[134]), and the highest among the federal subjects of Russia.
 
 Moscow is the financial center of Russia and home to the country's largest banks and many of its largest companies, such as natural gas giant Gazprom. Moscow accounts for 17% of retail sales in Russia and for 13% of all construction activity in the country.[135][136] Since the 1998 Russian financial crisis, business sectors in Moscow have shown exponential rates of growth. Many new business centers and office buildings have been built in recent years, but Moscow still experiences shortages in office space. As a result, many former industrial and research facilities are being reconstructed to become suitable for office use. Overall, economic stability has improved in recent years; nonetheless, crime and corruption still hinder business development.
 
@@ -481,7 +473,7 @@ Some industry is being transferred out of the city to improve the ecological sta
 
 Cost of living
 
-Moscow_09-13_img11_Tretyakovsky_Passage.jpg]] During Soviet times, apartments were lent to people by the government according to the square meters-per-person norm (some groups, including people's artists, heroes and prominent scientists had bonuses according to their honors). Private ownership of apartments was limited until the 1990s, when people were permitted to secure property rights to the places they inhabited. Since the Soviet era, estate owners have had to pay the service charge for their residences, a fixed amount based on persons per living area.Moscow,_Stoleshnikov_Lane.jpg|alt=|left]]The price of real estate in Moscow continues to rise. Today, one could expect to pay $4,000 on average per square meter (11 sq ft) on the outskirts of the city[144] or US$6,500–$8,000 per square meter in a prestigious district. The price sometimes may exceed US$40,000 per square meter in a flat.[145][146][147] It costs about US$1,200 per month to rent a one-bedroom apartment and about US$1,000 per month for a studio in the center of Moscow.
+]] During Soviet times, apartments were lent to people by the government according to the square meters-per-person norm (some groups, including people's artists, heroes and prominent scientists had bonuses according to their honors). Private ownership of apartments was limited until the 1990s, when people were permitted to secure property rights to the places they inhabited. Since the Soviet era, estate owners have had to pay the service charge for their residences, a fixed amount based on persons per living area.|alt=|left]]The price of real estate in Moscow continues to rise. Today, one could expect to pay $4,000 on average per square meter (11 sq ft) on the outskirts of the city[144] or US$6,500–$8,000 per square meter in a prestigious district. The price sometimes may exceed US$40,000 per square meter in a flat.[145][146][147] It costs about US$1,200 per month to rent a one-bedroom apartment and about US$1,000 per month for a studio in the center of Moscow.
 
 A typical one-bedroom apartment is about , a typical two-bedroom apartment is , and a typical three-bedroom apartment is . Many cannot move out of their apartments, especially if a family lives in a two-room apartment originally granted by the state during the Soviet era. Some city residents have attempted to cope with the cost of living by renting their apartments while staying in dachas (country houses) outside the city.
 
@@ -500,9 +492,9 @@ upright=1.15|alt=|left]] There are 1,696 high schools in Moscow, as well as 91 c
 
 The I.M. Sechenov First Moscow State Medical University named after Ivan Sechenov or formerly known as Moscow Medical Academy (1stMSMU) is a medical university situated in Moscow, Russia. It was founded in 1785 as the faculty of the Moscow state University. It is a Russian Federal Agency for Health and Social Development. It is one of the largest medical universities in Russia and Europe. More than 9200 students are enrolled in 115 academic departments. It offers courses for post-graduate studies.
 
-Moscow is one of the financial centers of the Russian Federation and CIS countries and is known for its business schools. Among them are the Financial University under the Government of the Russian Federation; Plekhanov Russian University of Economics; The State University of Management, and the State University - Higher School of Economics. They offer undergraduate degrees in management, finance, accounting, marketing, real estate, and economic theory, as well as Masters programs and MBAs. Most of them have branches in other regions of Russia and countries around the world.Mstu_iauza.jpg|alt=]] Bauman Moscow State Technical University, founded in 1830, is located in the center of Moscow and provides 18,000 undergraduate and 1,000 postgraduate students with an education in science and engineering, offering technical degrees.[157] Since it opened enrollment to students from outside Russia in 1991, Bauman Moscow State Technical University has increased its number of international students up to two hundred.[158]Moscow_05-2017_img41_Conservatory.jpg|alt=|left]]
+Moscow is one of the financial centers of the Russian Federation and CIS countries and is known for its business schools. Among them are the Financial University under the Government of the Russian Federation; Plekhanov Russian University of Economics; The State University of Management, and the State University - Higher School of Economics. They offer undergraduate degrees in management, finance, accounting, marketing, real estate, and economic theory, as well as Masters programs and MBAs. Most of them have branches in other regions of Russia and countries around the world.|alt=]] Bauman Moscow State Technical University, founded in 1830, is located in the center of Moscow and provides 18,000 undergraduate and 1,000 postgraduate students with an education in science and engineering, offering technical degrees.[157] Since it opened enrollment to students from outside Russia in 1991, Bauman Moscow State Technical University has increased its number of international students up to two hundred.[158]|alt=|left]]
 
-The Moscow Conservatory,[159] founded in 1866, is a prominent music school in Russia whose graduates include Sergey Rachmaninoff, Alexander Scriabin, Aram Khachaturian, Mstislav Rostropovich, and Alfred Schnittke.Vgik.jpg]]
+The Moscow Conservatory,[159] founded in 1866, is a prominent music school in Russia whose graduates include Sergey Rachmaninoff, Alexander Scriabin, Aram Khachaturian, Mstislav Rostropovich, and Alfred Schnittke.]]
 
 The Gerasimov All-Russian State Institute of Cinematography, abbreviated as VGIK, is the world's oldest educational institution in Cinematography, founded by Vladimir Gardin in 1919. Sergei Eisenstein, Vsevolod Pudovkin, and Aleksey Batalov were among its most distinguished professors and Mikhail Vartanov, Sergei Parajanov, Andrei Tarkovsky, Nikita Mikhalkov, Eldar Ryazanov, Alexander Sokurov, Yuriy Norshteyn, Aleksandr Petrov, Vasily Shukshin, Konrad Wolf among graduates.
 
@@ -510,7 +502,7 @@ Moscow State Institute of International Relations, founded in 1944, remains Russ
 
 Other institutions are the Moscow Institute of Physics and Technology, also known as Phystech, the Fyodorov Eye Microsurgery Complex, founded in 1988 by Russian eye surgeon Svyatoslav Fyodorov, the Moscow Aviation Institute, the Moscow Motorway Institute (State Technical University), and the Moscow Engineering Physics Institute. Moscow Institute of Physics and Technology has taught numerous Nobel Prize winners, including Pyotr Kapitsa, Nikolay Semyonov, Lev Landau and Alexander Prokhorov, while the Moscow Engineering Physics Institute is known for its research in nuclear physics.[161] The highest Russian military school is the Combined Arms Academy of the Armed Forces of the Russian Federation.
 
-Although Moscow has a number of famous Soviet-era higher educational institutions, most of which are more oriented towards engineering or the fundamental sciences, in recent years Moscow has seen a growth in the number of commercial and private institutions that offer classes in business and management. Many state institutions have expanded their education scope and introduced new courses or departments. Institutions in Moscow, as well as the rest of post-Soviet Russia, have begun to offer new international certificates and postgraduate degrees, including the Master of Business Administration. Student exchange programs with different (especially, European) countries have also become widespread in Moscow's universities, while schools within the Russian capital also offer seminars, lectures, and courses for corporate employees and businessmen.Golden_brain.png]]Moscow is one of the largest science centers in Russia. The headquarters of the Russian Academy of Sciences are located in Moscow as well as research and applied science institutions. The Kurchatov Institute, Russia's leading research and development institution in the fields of nuclear energy, where the first nuclear reactor in Europe was built, the Landau Institute for Theoretical Physics, Institute for Theoretical and Experimental Physics, Kapitza Institute for Physical Problems and Steklov Institute of Mathematics are all situated in Moscow.
+Although Moscow has a number of famous Soviet-era higher educational institutions, most of which are more oriented towards engineering or the fundamental sciences, in recent years Moscow has seen a growth in the number of commercial and private institutions that offer classes in business and management. Many state institutions have expanded their education scope and introduced new courses or departments. Institutions in Moscow, as well as the rest of post-Soviet Russia, have begun to offer new international certificates and postgraduate degrees, including the Master of Business Administration. Student exchange programs with different (especially, European) countries have also become widespread in Moscow's universities, while schools within the Russian capital also offer seminars, lectures, and courses for corporate employees and businessmen.]]Moscow is one of the largest science centers in Russia. The headquarters of the Russian Academy of Sciences are located in Moscow as well as research and applied science institutions. The Kurchatov Institute, Russia's leading research and development institution in the fields of nuclear energy, where the first nuclear reactor in Europe was built, the Landau Institute for Theoretical Physics, Institute for Theoretical and Experimental Physics, Kapitza Institute for Physical Problems and Steklov Institute of Mathematics are all situated in Moscow.
 
 There are 452 libraries in the city, including 168 for children.[162] The Russian State Library,[163] founded in 1862, is the national library of Russia. The library is home to over of shelves and 42 million items, including over 17 million books and serial volumes, 13 million journals, 350,000 music scores and sound records, and 150,000 maps, making it the largest library in Russia and one of the largest in the world. Items in 247 languages comprise 29% of the collection.[164][165]
 
@@ -523,7 +515,7 @@ Transportation
 
 Air
 
-Airbus_A319-112,_CSA_-_Czech_Airlines_AN2166020.jpg]]There are five primary commercial airports serving Moscow:
+]]There are five primary commercial airports serving Moscow:
 
 -   Sheremetyevo International Airport (SVO)
 -   Domodedovo International Airport (DME)
@@ -531,9 +523,9 @@ Airbus_A319-112,_CSA_-_Czech_Airlines_AN2166020.jpg]]There are five primary comm
 -   Zhukovsky International Airport (ZIA)
 -   Ostafyevo International Airport (OSF)
 
-Airport,_Ramp_JP7551641.jpg|alt=|left]]
+|alt=|left]]
 
-Sheremetyevo International Airport is the most globally connected, handling 60% of all international flights.[168] It is also a home to all SkyTeam members, and the main hub for Aeroflot (itself a member of SkyTeam). Domodedovo International Airport is the leading airport in Russia in terms of passenger throughput, and is the primary gateway to long-haul domestic and CIS destinations and its international traffic rivals Sheremetyevo. Most of Star Alliance members use Domodedovo as their international hub. Vnukovo International Airport handles flights of Turkish Airlines, Lufthansa, Wizz Air and others. Ostafyevo International Airport caters primarily to business aviation.Domodedovo_Airport-2.JPG|alt=]]Moscow's airports vary in distances from the MKAD beltway: Domodedovo is the farthest at ; Vnukovo is ; Sheremetyevo is ; and Ostafievo, the nearest, is about from MKAD.[169]
+Sheremetyevo International Airport is the most globally connected, handling 60% of all international flights.[168] It is also a home to all SkyTeam members, and the main hub for Aeroflot (itself a member of SkyTeam). Domodedovo International Airport is the leading airport in Russia in terms of passenger throughput, and is the primary gateway to long-haul domestic and CIS destinations and its international traffic rivals Sheremetyevo. Most of Star Alliance members use Domodedovo as their international hub. Vnukovo International Airport handles flights of Turkish Airlines, Lufthansa, Wizz Air and others. Ostafyevo International Airport caters primarily to business aviation.|alt=]]Moscow's airports vary in distances from the MKAD beltway: Domodedovo is the farthest at ; Vnukovo is ; Sheremetyevo is ; and Ostafievo, the nearest, is about from MKAD.[169]
 
 There are a number of smaller airports close to Moscow (19 in Moscow Oblast) such as Myachkovo Airport, that are intended for private aircraft, helicopters and charters.[170]
 
@@ -543,7 +535,7 @@ Moscow has two passenger terminals, (South River Terminal and North River Termin
 
 Railway
 
-Komsomolskaya_square_as_seen_from_Leningradskaya_hotel_in_winter_(2014)_-Вид_на_Комсомольскую_площадь_из_гостиницы_Ленинградская_-_panoramio.jpg known as _Three Station Square_ thanks to three ornate rail terminal situated there: Leningradsky, Yaroslavsky, and Kazansky.]]Several train stations serve the city. Moscow's nine rail terminals (or _vokzals_) are:
+known as _Three Station Square_ thanks to three ornate rail terminal situated there: Leningradsky, Yaroslavsky, and Kazansky.]]Several train stations serve the city. Moscow's nine rail terminals (or _vokzals_) are:
 
 -   Belorussky Rail Terminal
 -   Kazansky Rail Terminal
@@ -555,7 +547,7 @@ Komsomolskaya_square_as_seen_from_Leningradskaya_hotel_in_winter_(2014)_-Вид_
 -   Savyolovsky Rail Terminal
 -   Yaroslavsky Rail Terminal
 
-ЭВС2-02.JPG train links Moscow with Saint Petersburg|alt=]]The terminals are located close to the city center, along with the metro ringline 5 or close to it, and connect to a metroline to the centre of town. Each station handles trains from different parts of Europe and Asia.[171] There are many smaller railway stations in Moscow. As train tickets are cheap, they are the preferred mode of travel for Russians, especially when departing to Saint Petersburg, Russia's second-largest city. Moscow is the western terminus of the Trans-Siberian Railway, which traverses nearly of Russian territory to Vladivostok on the Pacific coast.
+train links Moscow with Saint Petersburg|alt=]]The terminals are located close to the city center, along with the metro ringline 5 or close to it, and connect to a metroline to the centre of town. Each station handles trains from different parts of Europe and Asia.[171] There are many smaller railway stations in Moscow. As train tickets are cheap, they are the preferred mode of travel for Russians, especially when departing to Saint Petersburg, Russia's second-largest city. Moscow is the western terminus of the Trans-Siberian Railway, which traverses nearly of Russian territory to Vladivostok on the Pacific coast.
 
 Suburbs and satellite cities are connected by commuter elektrichka (electric rail) network. Elektrichkas depart from each of these terminals to the nearby (up to ) large railway stations.
 
@@ -565,7 +557,7 @@ The Greater Ring of the Moscow Railway forms a ring around the main part of Mosc
 
 Metro
 
-Moscow_metro_ring_railway_map_en_sb_future.svg route map, 2017, with planned stations]]
+route map, 2017, with planned stations]]
 
 Moscow metro system is famous for its art, murals, mosaics, and ornate chandeliers. It started operation in 1935 and immediately became the centrepiece of the transportation system. More than that it was a Stalinist device to awe and reward the populace, and give them an appreciation of Soviet realist art. It became the prototype for future Soviet large-scale technologies. Lazar Kaganovich was in charge; he designed the subway so that citizens would absorb the values and ethos of Stalinist civilisation as they rode. The artwork of the 13 original stations became nationally and internationally famous. For example, the Sverdlov Square subway station featured porcelain bas-reliefs depicting the daily life of the Soviet peoples, and the bas-reliefs at the Dynamo Stadium sports complex glorified sports and the physical prowess of the powerful new "Homo Sovieticus." (Soviet man).[172]
 
@@ -605,7 +597,7 @@ File:Monorail Moskau - Einfahrt in Station Telezentrum.jpg File:MosMonorail.JPG 
 
 Moscow cable car
 
-Moscow_Cableway.ogg on 26 November 2018, Moscow Mayor Sergey Sobyanin took part in the ceremony to open the cable car above the Moskva River. The cable car will connect the Luzhniki sports complex with Sparrow Hills and Kosygin Street.
+on 26 November 2018, Moscow Mayor Sergey Sobyanin took part in the ceremony to open the cable car above the Moskva River. The cable car will connect the Luzhniki sports complex with Sparrow Hills and Kosygin Street.
 
 The journey from the well-known viewpoint on Vorobyovy Gory to Luzhniki Stadium will last for five minutes instead of 20 minutes that one would have to spend on the same journey by car. The cable car will work every day from 11 a.m. till 11 p.m.
 
@@ -613,7 +605,7 @@ The cable car is 720 meters long. It was built to transport 1,600 passengers per
 
 Tram
 
-Moscow_trammap.png]]
+]]
 
 Moscow has an extensive tram system, which first opened in 1899. The newest line was built in 1984. Its daily usage by Muscovites is low, making up for approximately 5% of trips because many vital connections in the network have been withdrawn. Trams still remain important in some districts as feeders to Metro stations. The trams also provide important cross links between metro lines, for example between Universitet station of Sokolnicheskaya Line (#1 red line) and Profsoyuznaya station of Kaluzhsko-Rizhskaya Line (#6 orange line) or between Voykovskaya and Strogino.
 
@@ -636,7 +628,7 @@ File:Московское такси (сентябрь 2013).jpg File:Taxi in Mo
 
 Roads
 
-_Zhivopisny_Bridge1.jpg]]There are over 2.6 million cars in the city daily. Recent years have seen growth in the number of cars, which have caused traffic jams and lack of parking space to become major problems.
+]]There are over 2.6 million cars in the city daily. Recent years have seen growth in the number of cars, which have caused traffic jams and lack of parking space to become major problems.
 
 The Moscow Ring Road (MKAD), along with the Third Transport Ring and the cancelled Fourth Transport Ring, is one of only three freeways that run within Moscow city limits. There are several other roadway systems that form concentric circles around the city.
 
@@ -670,7 +662,7 @@ English-language media include _The Moscow Times_ and _Moscow News_, which are, 
 
 TV and radio
 
-Телецентр_Останкино_(04.01.2014)_7.JPG]] View_from_Imperia_Tower_Moscow_04-2014_img04.jpg to Ostankino Tower]]
+]] to Ostankino Tower]]
 
 Other media in Moscow include the _Echo of Moscow_, the first Soviet and Russian private news radio and information agency, and NTV, one of the first privately owned Russian television stations. The total number of radio stations in Moscow in the FM band is near 50.
 

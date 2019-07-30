@@ -31,7 +31,7 @@ On July 27, 2009, Red Hat replaced CIT Group in Standard and Poor's 500 stock in
 
 On December 15, 2009, it was reported that Red Hat will pay to settle a class action lawsuit related to the restatement of financial results from July 2004. The suit had been pending in U.S. District Court for the Eastern District of North Carolina. Red Hat reached the proposed settlement agreement and recorded a one-time charge of for the quarter that ended Nov. 30.[30]
 
-Red_Hat_Tower-2013-10-29.jpeg]]
+]]
 
 On January 10, 2011, Red Hat announced that it would expand its headquarters in two phases, adding 540 employees to the Raleigh operation, and investing over . The state of North Carolina is offering up to in incentives. The second phase involves "expansion into new technologies such as software visualization and technology cloud offerings".[31]
 
@@ -51,8 +51,6 @@ Six months later, on May 3, 2019, the US Department of Justice concluded its rev
 
 
 Fedora Project
-
-Fedora_logo_and_wordmark.svg
 
 Red Hat sponsors the Fedora Project, a community-supported free software project that aims to promote the rapid progress of free and open-source software and content. Fedora aims for rapid innovation using open processes and public forums.[43]
 

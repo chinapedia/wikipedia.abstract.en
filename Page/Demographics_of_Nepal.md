@@ -1,4 +1,4 @@
-Nepali_culture.JPG Pahadi attire]] Nepal-demography.png Small_Thapa_family.jpg Nepali_children.jpg Indigenous_magar_girls_of_Nepal.JPG In the 2011 census, Nepal's population was approximately 26 million people with a population growth rate of 1.35% and a median age of 21.6 years.[1] In 2016, the female median age was approximately 25 years old and the male median age was approximately 22 years old.[2] Only 4.4% of the population is estimated to be more than 65 years old, comprising 681,252 females and 597,628 males. 61% of the population is between 15 and 64 years old, and 34.6% is younger than 14 years. In 2011, the Birth rate is estimated to be 22.17 births per 1,000 people with an infant mortality rate of 46 deaths per 1,000 live births. Compared to the infant mortality rate in 2006 of 48 deaths per 1000 live births, the 2011 IMR is a slight decrease within that 5-year period. Infant mortality rate in Nepal is higher in rural regions at 44 deaths per 1000 live births, whereas in urban regions the IMR is lower at 40 deaths per 1000 live births. This difference is due to a lack of delivery assistance services in rural communities compared to their urban counterparts who have better access to hospitals and neonatal clinics.[3] Life expectancy at birth is estimated to be 67.44 years for females and 64.94 years for males. The mortality rate is estimated to be 681 deaths per 100,000 people. Net migration rate is estimated to be 61 migrants per 100,000 people. According to the 2011 census, 65.9% of the total population is literate.[4]
+Pahadi attire]] In the 2011 census, Nepal's population was approximately 26 million people with a population growth rate of 1.35% and a median age of 21.6 years.[1] In 2016, the female median age was approximately 25 years old and the male median age was approximately 22 years old.[2] Only 4.4% of the population is estimated to be more than 65 years old, comprising 681,252 females and 597,628 males. 61% of the population is between 15 and 64 years old, and 34.6% is younger than 14 years. In 2011, the Birth rate is estimated to be 22.17 births per 1,000 people with an infant mortality rate of 46 deaths per 1,000 live births. Compared to the infant mortality rate in 2006 of 48 deaths per 1000 live births, the 2011 IMR is a slight decrease within that 5-year period. Infant mortality rate in Nepal is higher in rural regions at 44 deaths per 1000 live births, whereas in urban regions the IMR is lower at 40 deaths per 1000 live births. This difference is due to a lack of delivery assistance services in rural communities compared to their urban counterparts who have better access to hospitals and neonatal clinics.[3] Life expectancy at birth is estimated to be 67.44 years for females and 64.94 years for males. The mortality rate is estimated to be 681 deaths per 100,000 people. Net migration rate is estimated to be 61 migrants per 100,000 people. According to the 2011 census, 65.9% of the total population is literate.[4]
 
 
 Population Growth
@@ -99,8 +99,6 @@ Source: _UN World Population Prospects_[14]
 
 
 Demographic statistics
-
-Thapa_boy.jpg
 
   Most Populous Caste/Ethnic groups (Census 2011)[15][16]   Population   % of total
   --------------------------------------------------------- ------------ ------------
@@ -289,7 +287,7 @@ Other languages, particularly in the Inner Terai hill and mountain regions, are 
 
 Religion
 
-As of the 2011 census, 81.3% of the Nepalese population was Hindu, 9.0% Buddhist, 4.4% Muslim, 3.0% Kirant/Yumaist, 1.42% Christian, and 0.9% followed other or no religion.[21] Nepali_bride_and_bridegroom.jpg Nepal defines itself as a Secular nation according to Constitution of Nepal [22] It is common for many Hindus in the country to also worship Buddhist deities simultaneously with Hindu traditions. The notion of religion in Nepal is more fluid than other countries, particularly Western countries.[23] The Nepali people build their social networks through their religious celebrations, which are a central part to the whole of communities within the country.[24]
+As of the 2011 census, 81.3% of the Nepalese population was Hindu, 9.0% Buddhist, 4.4% Muslim, 3.0% Kirant/Yumaist, 1.42% Christian, and 0.9% followed other or no religion.[21] Nepal defines itself as a Secular nation according to Constitution of Nepal [22] It is common for many Hindus in the country to also worship Buddhist deities simultaneously with Hindu traditions. The notion of religion in Nepal is more fluid than other countries, particularly Western countries.[23] The Nepali people build their social networks through their religious celebrations, which are a central part to the whole of communities within the country.[24]
 
 There is a general ideal held by the Nepalese people that there is an omnipotent, transcendental "moral order" that is sacred to Hinduism. This ideal exists along with the constant presence of chaos and disorder in the material world.[25] In the Northwestern region of the country, this all-encompassing state of disorder in the world is synonymous with human affliction, for which the religious Shamans can alleviate.[26] Shamans create a world of mythic time and space to restore order and balance to the world to cure the suffers.[27]
 
@@ -348,7 +346,7 @@ Nepalese migrants abroad have suffered tremendous hardships, including some 7,50
 
 Foreign population in Nepal
 
-According to the 2001 census, there were 116,571 foreign born citizens in Nepal; 90% of them were of Indian origin followed by Bhutan, Pakistan and China.[49] This number does not include the refugees from Bhutan and Tibet. Foreing_population_in_Nepal_2001.png
+According to the 2001 census, there were 116,571 foreign born citizens in Nepal; 90% of them were of Indian origin followed by Bhutan, Pakistan and China.[49] This number does not include the refugees from Bhutan and Tibet.
 
 
 See also

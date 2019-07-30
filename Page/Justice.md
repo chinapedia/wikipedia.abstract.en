@@ -1,4 +1,4 @@
-Iustitia_van_Heemskerck.png, 1556. ‘’Justitia’’carries symbolic items such as: a sword, scales and a blindfold[1]]] Justice_Alberi_Palazzo_Altemps.jpg, by Vitruvio Alberi, 1589–1590. Fresco, corner of the vault, studiolo of the Madonna of Mercy, Palazzo Altemps, Rome]]
+, 1556. ‘’Justitia’’carries symbolic items such as: a sword, scales and a blindfold[1]]] , by Vitruvio Alberi, 1589–1590. Fresco, corner of the vault, studiolo of the Madonna of Mercy, Palazzo Altemps, Rome]]
 
 JUSTICE, in its broadest context, includes both the attainment of that which is just and the philosophical discussion of that which is just. The concept of justice is based on numerous fields, and many differing viewpoints and perspectives including the concepts of moral correctness based on ethics, rationality, law, religion, equity and fairness. Often, the general discussion of justice is divided into the realm of social justice as found in philosophy, theology and religion, and, procedural justice as found in the study and application of the law.
 
@@ -7,19 +7,19 @@ The concept of justice differs in every culture. Early theories of justice were 
 
 Harmony
 
-Luca_Giordano_013.jpg]] In his dialogue _Republic_, Plato uses Socrates to argue for justice that covers both the just person and the just City State. Justice is a proper, harmonious relationship between the warring parts of the person or city. Hence, Plato's definition of justice is that justice is the having and doing of what is one's own. A just man is a man in just the right place, doing his best and giving the precise equivalent of what he has received. This applies both at the individual level and at the universal level. A person's soul has three parts – reason, spirit and desire. Similarly, a city has three parts – Socrates uses the parable of the chariot to illustrate his point: a chariot works as a whole because the two horses' power is directed by the charioteer. Lovers of wisdom – philosophers, in one sense of the term – should rule because only they understand what is good. If one is ill, one goes to a medic rather than a farmer, because the medic is expert in the subject of health. Similarly, one should trust one's city to an expert in the subject of the good, not to a mere politician who tries to gain power by giving people what they want, rather than what's good for them. Socrates uses the parable of the ship to illustrate this point: the unjust city is like a ship in open ocean, crewed by a powerful but drunken captain (the common people), a group of untrustworthy advisors who try to manipulate the captain into giving them power over the ship's course (the politicians), and a navigator (the philosopher) who is the only one who knows how to get the ship to port. For Socrates, the only way the ship will reach its destination – the good – is if the navigator takes charge.[2]
+]] In his dialogue _Republic_, Plato uses Socrates to argue for justice that covers both the just person and the just City State. Justice is a proper, harmonious relationship between the warring parts of the person or city. Hence, Plato's definition of justice is that justice is the having and doing of what is one's own. A just man is a man in just the right place, doing his best and giving the precise equivalent of what he has received. This applies both at the individual level and at the universal level. A person's soul has three parts – reason, spirit and desire. Similarly, a city has three parts – Socrates uses the parable of the chariot to illustrate his point: a chariot works as a whole because the two horses' power is directed by the charioteer. Lovers of wisdom – philosophers, in one sense of the term – should rule because only they understand what is good. If one is ill, one goes to a medic rather than a farmer, because the medic is expert in the subject of health. Similarly, one should trust one's city to an expert in the subject of the good, not to a mere politician who tries to gain power by giving people what they want, rather than what's good for them. Socrates uses the parable of the ship to illustrate this point: the unjust city is like a ship in open ocean, crewed by a powerful but drunken captain (the common people), a group of untrustworthy advisors who try to manipulate the captain into giving them power over the ship's course (the politicians), and a navigator (the philosopher) who is the only one who knows how to get the ship to port. For Socrates, the only way the ship will reach its destination – the good – is if the navigator takes charge.[2]
 
 
 Divine command
 
-Domenico_Beccafumi_012.jpg painter Domenico di Pace Beccafumi from the Palazzo Pubblico in Siena, scene: ’’Justitia’’]] Advocates of divine command theory argue that justice, and indeed the whole of morality, is the authoritative command of God. Murder is wrong and must be punished, for instance, because God says it so. Some versions of the theory assert that God must be obeyed because of the nature of his relationship with humanity, others assert that God must be obeyed because he is goodness itself, and thus doing what he says would be best for everyone.
+painter Domenico di Pace Beccafumi from the Palazzo Pubblico in Siena, scene: ’’Justitia’’]] Advocates of divine command theory argue that justice, and indeed the whole of morality, is the authoritative command of God. Murder is wrong and must be punished, for instance, because God says it so. Some versions of the theory assert that God must be obeyed because of the nature of his relationship with humanity, others assert that God must be obeyed because he is goodness itself, and thus doing what he says would be best for everyone.
 
 A meditation on the Divine command theory by Plato can be found in his dialogue, Euthyphro. Called the Euthyphro dilemma, it goes as follows: "Is what is morally good commanded by God because it is morally good, or is it morally good because it is commanded by God?" The implication is that if the latter is true, then justice is arbitrary; if the former is true, then morality exists on a higher order than God, who becomes little more than a passer-on of moral knowledge. A response, popularized in two contexts by Immanuel Kant and C. S. Lewis, is that it is deductively valid to argue that the existence of an objective morality implies the existence of God and vice versa.
 
 
 Natural law
 
-VD-04-3.jpg for "Law, justice, peace") on the pediment of the Supreme Court of Switzerland]]
+for "Law, justice, peace") on the pediment of the Supreme Court of Switzerland]]
 
 For advocates of the theory that justice is part of natural law (e.g., John Locke), it involves the system of consequences that naturally derives from any action or choice. In this, it is similar to the laws of physics: in the same way as the Third of Newton's laws of Motion requires that for every action there must be an equal and opposite reaction, justice requires according individuals or groups what they actually deserve, merit, or are entitled to. Justice, on this account, is a universal and absolute concept: laws, principles, religions, etc., are merely attempts to codify that concept, sometimes with results that entirely contradict the true nature of justice.
 
@@ -54,7 +54,7 @@ Social justice is concerned with the just relationship between individuals and t
 
 Fairness
 
-Justice_statue.jpg at court building in Olomouc, Czech Republic]]
+at court building in Olomouc, Czech Republic]]
 
 In his _A Theory of Justice_, John Rawls used a social contract argument to show that justice, and especially distributive justice, is a form of fairness: an impartial distribution of goods. Rawls asks us to imagine ourselves behind a veil of ignorance that denies us all knowledge of our personalities, social statuses, moral characters, wealth, talents and life plans, and then asks what theory of justice we would choose to govern our society when the veil is lifted, if we wanted to do the best that we could for ourselves. We don't know who in particular we are, and therefore can't bias the decision in our own favour. So, the decision-in-ignorance models fairness, because it excludes selfish bias. Rawls argues that each of us would reject the utilitarian theory of justice that we should maximize welfare (see below) because of the risk that we might turn out to be someone whose own good is sacrificed for greater benefits for others. Instead, we would endorse Rawls's _two principles of justice_:
 
@@ -89,7 +89,7 @@ According to the utilitarian, justice requires the maximization of the total or 
 
 Theories of retributive justice
 
-Justicia_Ottawa.jpg's _Justitia_ (Justice), outside Supreme Court of Canada, Ottawa, Ontario Canada]] Theories of retributive justice are concerned with punishment for wrongdoing, and need to answer three questions:
+'s _Justitia_ (Justice), outside Supreme Court of Canada, Ottawa, Ontario Canada]] Theories of retributive justice are concerned with punishment for wrongdoing, and need to answer three questions:
 
 1.  _why_ punish?
 2.  _who_ should be punished?
@@ -122,7 +122,7 @@ Some modern philosophers have argued that Utilitarian and Retributive theories a
 
 Theories
 
-Bonino_da_Campione,_Justice,_c._1357,_NGA_46013.jpg]]
+]]
 
 Rawls' theory of justice
 
@@ -143,7 +143,7 @@ Religion and spirituality
 
 Abrahamic justice
 
-Rembrandt_Harmensz._van_Rijn_079.jpg'', by Rembrandt van Rijn]]
+'', by Rembrandt van Rijn]]
 
 Jews, Muslims and Christians traditionally believe that justice is a present, real, right, and, specifically, governing concept along with mercy, and that justice is ultimately derived from and held by God. According to the Bible, such institutions as the Mosaic Law were created by God to require the Israelites to live by and apply His standards of justice.
 
@@ -189,17 +189,17 @@ In civil cases the decision is usually known as a verdict, or judgment, rather t
 
 Evolutionary perspectives
 
-Gerechtigkeit-1537.jpg and balance" by Lucas Cranach the Elder, 1537]]
+and balance" by Lucas Cranach the Elder, 1537]]
 
 Evolutionary ethics and an argued evolution of morality suggest evolutionary bases for the concept of justice. Biosocial criminology research argues that human perceptions of what is appropriate criminal justice are based on how to respond to crimes in the ancestral small-group environment and that these responses may not always be appropriate for today's societies.
 
 Reactions to fairness
 
-Justitia,_Jost_Amman.png, made between 1539 and 1591]] Studies at UCLA in 2008 have indicated that reactions to fairness are "wired" into the brain and that, "Fairness is activating the same part of the brain that responds to food in rats... This is consistent with the notion that being treated fairly satisfies a basic need".[28] Research conducted in 2003 at Emory University involving capuchin monkeys demonstrated that other cooperative animals also possess such a sense and that "inequity aversion may not be uniquely human".[29]
+, made between 1539 and 1591]] Studies at UCLA in 2008 have indicated that reactions to fairness are "wired" into the brain and that, "Fairness is activating the same part of the brain that responds to food in rats... This is consistent with the notion that being treated fairly satisfies a basic need".[28] Research conducted in 2003 at Emory University involving capuchin monkeys demonstrated that other cooperative animals also possess such a sense and that "inequity aversion may not be uniquely human".[29]
 
 Institutions and justice
 
-Coat_of_Arms_pope_Paulus_V_Vatican_7.jpg of Pope Paul V, ceiling of the room of the geographical maps, Vatican City]] 27._Église_Saint-Paul_Montluçon.JPG France]] Allegoria_della_Giustizia_-_galleria_del_Poccetti.jpg In a world where people are interconnected but they disagree, institutions are required to instantiate ideals of justice. These institutions may be justified by their approximate instantiation of justice, or they may be deeply unjust when compared with ideal standards – consider the institution of slavery. Justice is an ideal the world fails to live up to, sometimes due to deliberate opposition to justice despite understanding, which could be disastrous. The question of institutive justice raises issues of legitimacy, procedure, codification and interpretation, which are considered by legal theorists and by philosophers of law.
+of Pope Paul V, ceiling of the room of the geographical maps, Vatican City]] France]] In a world where people are interconnected but they disagree, institutions are required to instantiate ideals of justice. These institutions may be justified by their approximate instantiation of justice, or they may be deeply unjust when compared with ideal standards – consider the institution of slavery. Justice is an ideal the world fails to live up to, sometimes due to deliberate opposition to justice despite understanding, which could be disastrous. The question of institutive justice raises issues of legitimacy, procedure, codification and interpretation, which are considered by legal theorists and by philosophers of law.
 
 
 See also

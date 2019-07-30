@@ -5,7 +5,7 @@ It is separated from mainland Orkney by the Eynhallow Sound, and, like its neigh
 
 Geography and natural history
 
-Saviskaill_cliffs.jpg]] In the 2001 census, Rousay had a population of 212 people. Most employment opportunities are in farming, fishing or fish-farming; there are also craft businesses and some seasonal tourism-related work. There is one circular road round the island, about long, and most arable land lies in the few hundred yards between this and the coastline. With an area of , it is the fifth largest of the Orkney Islands.
+]] In the 2001 census, Rousay had a population of 212 people. Most employment opportunities are in farming, fishing or fish-farming; there are also craft businesses and some seasonal tourism-related work. There is one circular road round the island, about long, and most arable land lies in the few hundred yards between this and the coastline. With an area of , it is the fifth largest of the Orkney Islands.
 
 There are several freshwater lochs[2] on the island, the biggest of which is Muckle Water.
 
@@ -16,7 +16,7 @@ In the Summer there is an increase in visitors drawn by its natural environment 
 
 History
 
-Midhowe_Broch.jpg The island has evidence from every stage in the history of Orkney, with a Neolithic settlement at Rinyo, Bronze Age burnt mounds, Iron Age crannogs and brochs (the highest density anywhere in Scotland: three within of coastline), Viking boat burials, remains of a medieval church and the stately home at Trumland.
+The island has evidence from every stage in the history of Orkney, with a Neolithic settlement at Rinyo, Bronze Age burnt mounds, Iron Age crannogs and brochs (the highest density anywhere in Scotland: three within of coastline), Viking boat burials, remains of a medieval church and the stately home at Trumland.
 
 Over 100 archaeological sites have been identified, but only a small fraction of them have been excavated and researched. The best known and most spectacular of the island's archaeological sites is the complex of Midhowe Broch and Midhowe Chambered Cairn. Blackhammer Chambered Cairn, Taversoe Tuick, and Yarso are also important tombs on the island.
 

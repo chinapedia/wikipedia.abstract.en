@@ -60,7 +60,7 @@ Sport
 
 Motorsport
 
-Le_Mans_2007_-_Dunlop_Curve.jpg Empreinte_pilotes_24h.jpg, Mark Blundell, Derek Warwick, and Yannick Dalmas, at Le Mans]]
+, Mark Blundell, Derek Warwick, and Yannick Dalmas, at Le Mans]]
 
 The first French Grand Prix took place on a 64-mile (103 km) circuit based at Le Mans in 1906.
 
@@ -87,7 +87,7 @@ Cycling
 
 Notable people
 
-Le Mans was the birthplace of: Basile_Moreau_CSC.jpg
+Le Mans was the birthplace of:
 
 -   Henry II of England, born 1133
 -   Geoffroy V d'Anjou, born 1113

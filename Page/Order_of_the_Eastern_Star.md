@@ -1,4 +1,4 @@
-Oes_GGC_color.PNG The ORDER OF THE EASTERN STAR is a Masonic appendant body open to both men and women. It was established in 1850 by lawyer and educator Rob Morris, a noted Freemason, but was only adopted and approved as an appendant body of the Masonic Fraternity in 1873. The order is based on teachings from the Bible,[1] but is open to people of all religious beliefs. It has approximately 10,000 chapters in twenty countries and approximately 500,000 members under its General Grand Chapter.
+The ORDER OF THE EASTERN STAR is a Masonic appendant body open to both men and women. It was established in 1850 by lawyer and educator Rob Morris, a noted Freemason, but was only adopted and approved as an appendant body of the Masonic Fraternity in 1873. The order is based on teachings from the Bible,[1] but is open to people of all religious beliefs. It has approximately 10,000 chapters in twenty countries and approximately 500,000 members under its General Grand Chapter.
 
 Members of the Order of the Eastern Star are aged 18 and older; men must be Master Masons and women must have specific relationships with Masons. Originally, a woman would have to be the daughter, widow, wife, sister, or mother of a Master Mason, but the Order now allows other relatives[2] as well as allowing Job's Daughters, Rainbow Girls, Members of the Organization of Triangles (NY only) and members of the Constellation of Junior Stars (NY only) to become members when of age.
 
@@ -27,7 +27,7 @@ The emblem of the Order is a five-pointed star with the white ray of the star po
 
 Officers
 
-EasternStarChairs.jpg EasternStarSpokaneWA.jpg There are 18 main officers in a full chapter:
+There are 18 main officers in a full chapter:
 
 -   WORTHY MATRON – presiding officer
 -   WORTHY PATRON – a Master Mason who provides general supervision
@@ -55,14 +55,14 @@ Once a member has served a term as Worthy Matron or Worthy Patron, they may use 
 
 Headquarters
 
-Belmont_Mansion_(Washington,_D.C.).JPG in Washington, D.C.]] The General Grand Chapter headquarters, the International Temple, is located in the Dupont Circle neighborhood of Washington, D.C., in the Perry Belmont Mansion. The mansion was built in 1909 for the purpose of entertaining the guests of Perry Belmont. They included Britain's Prince of Wales in 1919. General Grand Chapter purchased the building in 1935. The secretary of General Grand Chapter lives there while serving his or her term of office. The mansion features works of art from around the world, most of which were given as gifts from various international Eastern Star chapters.
+in Washington, D.C.]] The General Grand Chapter headquarters, the International Temple, is located in the Dupont Circle neighborhood of Washington, D.C., in the Perry Belmont Mansion. The mansion was built in 1909 for the purpose of entertaining the guests of Perry Belmont. They included Britain's Prince of Wales in 1919. General Grand Chapter purchased the building in 1935. The secretary of General Grand Chapter lives there while serving his or her term of office. The mansion features works of art from around the world, most of which were given as gifts from various international Eastern Star chapters.
 
 
 Charities
 
 The Order has a charitable foundation[11] and from 1986-2001 contributed $513,147 to Alzheimer's disease research, juvenile diabetes research, and juvenile asthma research. It also provides bursaries to students of theology and religious music, as well as other scholarships that differ by jurisdiction. In 2000 over $83,000 was donated. Many jurisdictions support a Masonic and/or Eastern Star retirement center or nursing home for older members; some homes are also open to the public. The Elizabeth Bentley OES Scholarship Fund was started in 1947.[12][13]
 
-The_Little_Red_Schoolhouse.jpg, also known as The Little Red Schoolhouse, birthplace of the Order of the Eastern Star]] OES_Birthplace.jpg
+, also known as The Little Red Schoolhouse, birthplace of the Order of the Eastern Star]]
 
 
 Notable members

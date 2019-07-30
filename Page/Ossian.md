@@ -1,4 +1,4 @@
-Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg, 1787]]
+, 1787]]
 
 OSSIAN (; Irish Gaelic/Scottish Gaelic: _Oisean_) is the narrator and purported author of a cycle of epic poems published by the Scottish poet James Macpherson from 1760. Macpherson claimed to have collected word-of-mouth material in Scottish Gaelic, said to be from ancient sources, and that the work was his translation of that material. Ossian is based on Oisín, son of Finn or Fionn mac Cumhaill, anglicised to Finn McCool, a legendary bard who is a character in Irish mythology. Contemporary critics were divided in their view of the work's authenticity, but the consensus since is that Macpherson framed the poems himself, based on old folk tales he had collected.
 
@@ -7,7 +7,7 @@ The work was internationally popular, translated into all the literary languages
 
 The poems
 
-Krafft_Ossian_und_Malvina.jpg, 1810]] In 1760 Macpherson published the English-language text _Fragments of ancient poetry, collected in the Highlands of Scotland, and translated from the Gaelic or Erse language_.[2] Later that year, he claimed to have obtained further manuscripts and in 1761 he claimed to have found an epic on the subject of the hero Fingal (with Fingal or _Fionnghall_ meaning "white stranger" [3] ), written by Ossian. According to Macpherson's prefatory material, his publisher, claiming that there was no market for these works except in English, required that they be translated. Macpherson published these translations during the next few years, culminating in a collected edition, _The Works of Ossian_, in 1765. The most famous of these Ossianic poems was _Fingal_, written in 1762.
+, 1810]] In 1760 Macpherson published the English-language text _Fragments of ancient poetry, collected in the Highlands of Scotland, and translated from the Gaelic or Erse language_.[2] Later that year, he claimed to have obtained further manuscripts and in 1761 he claimed to have found an epic on the subject of the hero Fingal (with Fingal or _Fionnghall_ meaning "white stranger" [3] ), written by Ossian. According to Macpherson's prefatory material, his publisher, claiming that there was no market for these works except in English, required that they be translated. Macpherson published these translations during the next few years, culminating in a collected edition, _The Works of Ossian_, in 1765. The most famous of these Ossianic poems was _Fingal_, written in 1762.
 
 The supposed original poems are translated into poetic prose, with short and simple sentences. The mood is epic, but there is no single narrative, although the same characters reappear. The main characters are Ossian himself, relating the stories when old and blind, his father Fingal (very loosely based on the Irish hero Fionn mac Cumhaill), his dead son Oscar (also with an Irish counterpart), and Oscar's lover Malvina (like Fiona a name invented by Macpherson), who looks after Ossian in his old age. Though the stories "are of endless battles and unhappy loves", the enemies and causes of strife are given little explanation and context.[4]
 
@@ -24,7 +24,7 @@ Complete Danish translations were made in 1790, and Swedish ones in 1794–1800.
 
 Melchiore Cesarotti was an Italian clergyman whose translation into Italian is said by many to improve on the original, and was a tireless promoter of the poems, in Vienna and Warsaw as well as Italy. It was his translation that Napoleon especially admired,[15] and among others it influenced Ugo Foscolo who was Cesarotti's pupil in the University of Padua.
 
-Songedossian.jpg, 1813]] Ossiansongs.JPG, 1811–13]]
+, 1813]] , 1811–13]]
 
 By 1800 Ossian was translated into Spanish and Russian, with Dutch following in 1805, and Polish, Czech and Hungarian in 1827–33.[16] The poems were as much admired in Hungary as in France and Germany; Hungarian János Arany wrote "Homer and Ossian" in response, and several other Hungarian writers – Baróti Szabó, Csokonai, Sándor Kisfaludy, Kazinczy, Kölcsey, Ferenc Toldy, and Ágost Greguss, were also influenced by it.[17]
 
@@ -39,7 +39,7 @@ Likewise, William Wordsworth was evidently positively impressed by Macpherson's 
 
 Authenticity debate
 
-François_Pascal_Simon_Gérard_001.jpg, 1801]]
+, 1801]]
 
 There were immediate disputes of Macpherson's claims on both literary and political grounds. Macpherson promoted a Scottish origin for the material, and was hotly opposed by Irish historians who felt that their heritage was being appropriated. However, both Scotland and Ireland shared a common Gaelic culture during the period in which the poems are set, and some Fenian literature common in both countries was composed in Scotland.
 
@@ -49,7 +49,7 @@ Scottish author Hugh Blair's 1763 _A Critical Dissertation on the Poems of Ossia
 
 In 1766 the Irish antiquarian and Gaelic scholar Charles O'Conor dismissed Ossian's authenticity in a new chapter _Remarks on Mr. Mac Pherson's translation of Fingal and Temora_ that he added to the second edition of his seminal history.[23] In 1775 he expanded his criticism in a new book, _Dissertation on the origin and antiquities of the antient Scots_.
 
-Ossian's_Cave_front,_The_Hermitage.JPG in Dunkeld, Scotland]]
+in Dunkeld, Scotland]]
 
 Faced with the controversy, the Committee of the Highland Society enquired after the authenticity of Macpherson's supposed original. It was because of these circumstances that the so-called Glenmasan manuscript (Adv. 72.2.3) came to light in the late 18th century, a compilation which contains the tale _Oided mac n-Uisnig_. This text is a version of the Irish _Longes mac n-Uislenn_ and offers a tale which bears some comparison to Macpherson's "Darthula", although it is radically different in many respects. Donald Smith cited it in his report for the Committee.[24]
 
@@ -75,7 +75,7 @@ Britain, Germany and Scandinavia
 
 British artists began to depict the Ossian poems early on, with the first major work a cycle of paintings decorating the ceiling the "Grand Hall" of Penicuik House in Midlothian, built by Sir James Clerk, who commissioned the paintings in 1772. These were by the Scottish painter Alexander Runciman and lost when the house burnt down in 1899, though drawings and etchings survive, and two pamphlets describing them were published in the 18th century.[30] A subject from Ossian by Angelica Kauffman was shown in the Royal Academy exhibition of 1773, and Ossian was depicted in _Elysium_, part of the Irish painter James Barry's _magnum opus_ decorating the Royal Society of Arts, at the Adelphi Buildings in London (still _in situ_).[31]
 
-Nicolai_Abildgaard_-_Fingal_Sees_the_Ghosts_of_his_Forefathers_by_Moonlight_-_KMS3986_-_Statens_Museum_for_Kunst.jpg, 1778]]
+, 1778]]
 
 Works on paper by Thomas Girtin and John Sell Cotman have survived, though the Ossianic landscapes by George Augustus Wallis, which the Ossian fan August Wilhelm Schlegel praised in a letter to Goethe, seem to have been lost, as has a picture by J.M.W. Turner exhibited in 1802. Henry Singleton exhibited paintings, some of which were engraved and used in editions of the poems.[32]
 
@@ -85,11 +85,11 @@ The Danish painter Nicolai Abildgaard, Director of the Copenhagen Academy from 1
 
 France
 
-Anne-Louis_Girodet-Trioson_001.jpg, 1805]]
+, 1805]]
 
 In France the enthusiasm of Napoleon for the poems accounts for most artistic depictions, and those by the most famous artists, but a painting exhibited in the Paris Salon in 1800 by Paul Duqueylar (now Musée Granet, Aix-en-Provence) excited _Les Barbus_ ("the Bearded Ones") a group of primitivist artists including Pierre-Maurice Quays (or Quaï) who promoted living in the style of "early civilizations as described in Homer, Ossian, and the Bible".[37] Quays is reported as saying: "Homère? Ossian? ... le soleil? la lune? Voilà la question. En vérité, je crois que je préfère la lune. C'est plus simple, plus grand, plus _primitif_". ("Homer? Ossian? ... the sun? the moon? That's the question. Truthfully I think I prefer the moon. It's more simple, more grand, more _primitive_").[38] The same year Napoleon was planning the renovation of the Château de Malmaison as a summer palace, and though he does not seem to have suggested Ossianic subjects for his painters, two large and significant works were among those painted for the reception hall, for which six artists had been commissioned.
 
-Ary_Scheffer_-_Death_of_Malvina.jpg (see literature), c. 1802, musée Auguste Grasset, Varzy]] Anne-Louis_Girodet.jpg for his _Ossian_ painting, 1801, Louvre]]
+(see literature), c. 1802, musée Auguste Grasset, Varzy]] for his _Ossian_ painting, 1801, Louvre]]
 
 These were Girodet's painting of 1801–02 _Ossian receiving the Ghosts of the French Heroes_, and _Ossian Evoking ghosts on the Edge of the Lora_ (1801), by François Pascal Simon Gérard. Gérard's original was lost in a shipwreck after being bought by the King of Sweden after the fall of Napoleon, but survives in three replicas by the artist (a further one in Berlin was lost in 1945). One is now at Malmaison (184.5 × 194.5 cm / 72.6 × 76.6 in), and the Kunsthalle Hamburg has another (180,5 × 198,5 cm). A watercolour copy by Jean-Baptiste Isabey was placed as frontispiece to Napoleon's copy of the poems.[39]
 

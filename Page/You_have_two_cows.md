@@ -1,4 +1,4 @@
-Two_cows_grazing.jpgs have been used as metaphors in economic satire.]] "YOU HAVE TWO COWS" is a form of political satire on various political, economic, etc. systems. The setup of a typical joke of this kind is the assumption that you live within a given system and you have two cows. The punch line is what happens to you and the cows in this system.
+s have been used as metaphors in economic satire.]] "YOU HAVE TWO COWS" is a form of political satire on various political, economic, etc. systems. The setup of a typical joke of this kind is the assumption that you live within a given system and you have two cows. The punch line is what happens to you and the cows in this system.
 
 
 History

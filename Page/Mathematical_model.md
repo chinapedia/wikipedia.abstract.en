@@ -64,7 +64,7 @@ For example, economists often apply linear algebra when using input-output model
 
 A priori information
 
-Blackbox3D-withGraphs.png centered in the box.]]
+centered in the box.]]
 
 Mathematical modeling problems are often classified into black box or white box models, according to how much a priori information on the system is available. A black-box model is a system of which there is no a priori information available. A white-box model (also called glass box or clear box) is a system where all necessary information is available. Practically all systems are somewhere between the black-box and white-box models, so this concept is useful only as an intuitive guide for deciding which approach to take.
 
@@ -122,7 +122,7 @@ Examples
 
 -   One of the popular examples in computer science is the mathematical models of various machines, an example is the deterministic finite automaton (DFA) which is defined as an abstract mathematical concept, but due to the deterministic nature of a DFA, it is implementable in hardware and software for solving various specific problems. For example, the following is a DFA M with a binary alphabet, which requires that the input contains an even number of 0s.
 
-DFAexample.svg for _M_]] _M_ = (_Q_, Σ, δ, _q_₀, _F_) where
+for _M_]] _M_ = (_Q_, Σ, δ, _q_₀, _F_) where
 
 -   _Q_ = {_S_₁, _S_₂},
 -   Σ = {0, 1},

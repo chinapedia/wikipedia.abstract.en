@@ -14,7 +14,7 @@ Later medieval chroniclers, such as Roger of Wendover, gave some information abo
 
 The context of Rædwald's kingdom
 
-Britain_peoples_circa_600.svg The Anglo-Saxons, who are known to have included Angles, Saxons, Jutes and Frisians, began to arrive in Britain in the 5th century. By 600, a number of kingdoms had begun to form in the conquered territories.[10] By the beginning of the 7th century, southern England was almost entirely under their control.[11]
+The Anglo-Saxons, who are known to have included Angles, Saxons, Jutes and Frisians, began to arrive in Britain in the 5th century. By 600, a number of kingdoms had begun to form in the conquered territories.[10] By the beginning of the 7th century, southern England was almost entirely under their control.[11]
 
 During Rædwald's youth, the establishment of other ruling houses was accomplished. Sometime before 588, Æthelberht of Kent married Bercta, the Christian daughter of the Frankish ruler Charibert. As early as 568, Ceawlin of Wessex, the most powerful ruler south of the River Humber, repulsed Æthelberht.[12] According to later sources, Mercia was founded by Creoda in 585, although a paucity of sources makes it difficult to know how the Mercian royal line became established.[13]
 
@@ -32,7 +32,7 @@ At some time during the 590s, Rædwald married a woman whose name is unknown, th
 
 Early reign and baptism
 
-East_Anglian_kingdom.svg]]
+]]
 
 Events that occurred during the early years of Rædwald's reign include the arrival of Augustine of Canterbury and his mission from Rome in 597, the conversions of Æthelberht of Kent and Saeberht of Essex, and the establishment of new bishoprics in their kingdoms.[22] Bede, when relating the conversion of Rædwald's son Eorpwald in his _Historia ecclesiastica gentis Anglorum_, mentioned that Rædwald received the Christian sacraments in Kent. This happened in perhaps 604 or later,[23] presumably at the invitation of Æthelberht, who may have been his baptismal sponsor.[24] The date of his conversion is unknown, but it would have occurred after the arrival of the Gregorian mission in 597.[25] Since it is claimed that Augustine, who died in about 605, dedicated a church near Ely, it may have followed Saebert's conversion fairly swiftly. Rædwald's marriage to a member of the royal dynasty of Essex helped form a diplomatic alliance between the neighbouring kingdoms of East Anglia and Essex. His conversion in Kent would have affiliated him with Æthelberht, bringing him directly into the sphere of Kent.[26]
 
@@ -60,7 +60,7 @@ D.P. Kirby has argued that the battle was more than a clash between two kings ov
 
 Rædwald's _imperium_
 
-Entry_for_827_in_the_Anglo-Saxon_Chronicle,_which_lists_the_eight_bretwaldas.gif of the _Anglo-Saxon Chronicle_, which lists the eight _bretwaldas_. Rædwald's name can be seen as the fourth word on the sixth line.]] On 24 February 616,[44] the year of the Battle of the River Idle, Æthelberht of Kent died and was succeeded by his pagan son Eadbald. After the death of the Christian Saebert of Essex, his three sons shared the kingdom, returning it to pagan rule, and drove out the Gregorian missionaries led by Mellitus.[45] The Canterbury mission had removed to Gaul before Eadbald was brought back into the fold. During this period the only royal Christian altar in England belonged to Rædwald. By the time of his death, the mission in Kent had been fully re-established.[46]
+of the _Anglo-Saxon Chronicle_, which lists the eight _bretwaldas_. Rædwald's name can be seen as the fourth word on the sixth line.]] On 24 February 616,[44] the year of the Battle of the River Idle, Æthelberht of Kent died and was succeeded by his pagan son Eadbald. After the death of the Christian Saebert of Essex, his three sons shared the kingdom, returning it to pagan rule, and drove out the Gregorian missionaries led by Mellitus.[45] The Canterbury mission had removed to Gaul before Eadbald was brought back into the fold. During this period the only royal Christian altar in England belonged to Rædwald. By the time of his death, the mission in Kent had been fully re-established.[46]
 
 Rædwald's power became great enough for Bede to recognise him as the successor to the _imperium_ of Æthelberht.[47] Bede also called him _Rex Anglorum_, the 'King of the Angles', a term that Rædwald's contemporaries would have used for their overlord. It is unclear where his power was centred or even how he established his authority over the Angles of eastern England.[48]
 
@@ -82,7 +82,7 @@ He was succeeded by his pagan son Eorpwald, who was later persuaded to adopt Chr
 
 Sutton Hoo
 
-SHIP_MED.jpg Great_Buckle.JPG.]] Rædwald lived at a time when eminent individuals were buried in barrows at the cemetery at Sutton Hoo, near Woodbridge, Suffolk. There, large mounds—which were originally much higher and more visible—can still be seen, overlooking the upper estuary of the River Deben.[55]
+.]] Rædwald lived at a time when eminent individuals were buried in barrows at the cemetery at Sutton Hoo, near Woodbridge, Suffolk. There, large mounds—which were originally much higher and more visible—can still be seen, overlooking the upper estuary of the River Deben.[55]
 
 In 1939, a mound at Sutton Hoo, now known as Mound 1, was discovered to contain an Anglo-Saxon ship-burial of unparalleled richness. The mound enclosed a ship, long, which had seen use on the seas and had been repaired. In the centre of the ship was a chamber containing a collection of jewellery and other rich grave goods, including silver bowls, drinking vessels, clothing and weaponry. One unusual item was a large 'sceptre' in the form of a whetstone that showed no sign of previous use as a tool: it has been suggested that this was a symbol of the office of _bretwalda_. The gold and garnet body-equipment found with the other goods was produced for a patron who employed a goldsmith the equal or better than any in Europe and was designed to project an image of imperial power. The Mediterranean silverware in the grave is a unique assemblage for its period in Europe.[56][57]
 

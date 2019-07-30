@@ -38,7 +38,7 @@ A series is said to be _convergent_ if it converges to some limit or _divergent_
 
 Convergent series
 
-Geometric_sequences.svg with partial sums from 1 to 6 terms. The dashed line represents the limit.]] A series is said to converge or to _be convergent_ when the sequence of partial sums has a finite limit. If the limit of is infinite or does not exist, the series is said to diverge.[4] When the limit of partial sums exists, it is called the value (or sum) of the series
+with partial sums from 1 to 6 terms. The dashed line represents the limit.]] A series is said to converge or to _be convergent_ when the sequence of partial sums has a finite limit. If the limit of is infinite or does not exist, the series is said to diverge.[4] When the limit of partial sums exists, it is called the value (or sum) of the series
 
     $\sum_{n=0}^\infty a_n = \lim_{k\to\infty} s_k = \lim_{k\to\infty} \sum_{n=0}^k a_n.$
 

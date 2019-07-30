@@ -1,4 +1,4 @@
-Amiga-Chip-Set1.png The ORIGINAL CHIP SET (OCS) is a chipset used in the earliest Commodore Amiga computers and defined the Amiga's graphics and sound capabilities. It was succeeded by the slightly improved Enhanced Chip Set (ECS) and greatly improved Advanced Graphics Architecture (AGA).
+The ORIGINAL CHIP SET (OCS) is a chipset used in the earliest Commodore Amiga computers and defined the Amiga's graphics and sound capabilities. It was succeeded by the slightly improved Enhanced Chip Set (ECS) and greatly improved Advanced Graphics Architecture (AGA).
 
 The original chipset appeared in Amiga models built between 1985 and 1990: the Amiga 1000, Amiga 2000, Amiga CDTV, and Amiga 500.
 
@@ -88,7 +88,7 @@ Finally, Denise is responsible for handling mouse/joystick X/Y inputs.
 
 Paula
 
-Custom_Chip_Paula_8364_R4_used_in_Amiga_1000.jpg The Paula chip, from MOS Technology, includes logic for audio playback, floppy disk drive control, serial port input/output and mouse/joystick buttons two and three signals. The logic remained functionally identical across all Amiga models from Commodore.
+The Paula chip, from MOS Technology, includes logic for audio playback, floppy disk drive control, serial port input/output and mouse/joystick buttons two and three signals. The logic remained functionally identical across all Amiga models from Commodore.
 
 Audio
 

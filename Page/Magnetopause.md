@@ -1,5 +1,3 @@
-Magnetopause.jpg
-
 The MAGNETOPAUSE is the abrupt boundary between a magnetosphere and the surrounding plasma. For planetary science, the magnetopause is the boundary between the planet's magnetic field and the solar wind. The location of the magnetopause is determined by the balance between the pressure of the dynamic planetary magnetic field and the dynamic pressure of the solar wind. As the solar wind pressure increases and decreases, the magnetopause moves inward and outward in response. Waves (ripples and flapping motion) along the magnetopause move in the direction of the solar wind flow in response to small-scale variations in the solar wind pressure and to Kelvin–Helmholtz instability.
 
 The solar wind is supersonic and passes through a bow shock where the direction of flow is changed so that most of the solar wind plasma is deflected to either side of the magnetopause, much like water is deflected before the bow of a ship. The zone of shocked solar wind plasma is the magnetosheath. At Earth and all the other planets with intrinsic magnetic fields, some solar wind plasma succeeds in entering and becoming trapped within the magnetosphere. At Earth, the solar wind plasma which enters the magnetosphere forms the plasma sheet. The amount of solar wind plasma and energy that enters the magnetosphere is regulated by the orientation of the interplanetary magnetic field, which is embedded in the solar wind.
@@ -9,7 +7,7 @@ The Sun and other stars with magnetic fields and stellar winds have a solar magn
 
 Characteristics
 
-dipole-and-image-dipole.png|author=Sydney Chapman|author2=J. Bartels}}]]
+|author=Sydney Chapman|author2=J. Bartels}}]]
 
 Prior to the age of space exploration, interplanetary space was considered to be a vacuum. The coincidence of the Carrington super flare and the super geomagnetic event of 1859 was evidence that plasma was ejected from the Sun during a flare event. Chapman and Ferraro [1][2][3][4] proposed that a plasma was emitted by the Sun in a burst as part of a flare event which disturbed the planet's magnetic field in a manner known as a geomagnetic storm. The collision frequency of particles in the plasma in the interplanetary medium is very low and the electrical conductivity is so high that it could be approximated to an infinite conductor. A magnetic field in a vacuum cannot penetrate a volume with infinite conductivity. Chapman and Bartels (1940)[5] illustrated this concept by postulating a plate with infinite conductivity placed on the dayside of a planet's dipole as shown in the schematic. The field lines on the dayside are bent. At low latitudes, the magnetic field lines are pushed inward. At high latitudes, the magnetic field lines are pushed backwards and over the polar regions. The boundary between the region dominated by the planet's magnetic field (i.e., the magnetosphere) and the plasma in the interplanetary medium is the magnetopause. The configuration equivalent to a flat, infinitely conductive plate is achieved by placing an image dipole (green arrow at left of schematic) at twice the distance from the planet's dipole to the magnetopause along the planet-Sun line. Since the solar wind is continuously flowing outward, the magnetopause above, below and to the sides of the planet are swept backward into the geomagnetic tail as shown in the artist's concept. The region (shown in pink in the schematic) which separates field lines from the planet which are pushed inward from those which are pushed backward over the poles is an area of weak magnetic field or day-side cusp. Solar wind particles can enter the planet's magnetosphere through the cusp region. Because the solar wind exists at all times and not just times of solar flares, the magnetopause is a permanent feature of the space near any planet with a magnetic field.
 
@@ -37,16 +35,16 @@ The distance from Earth to the subsolar magnetopause varies over time due to sol
 
 Solar System magnetopauses
 
-  Planet                       Number   Magnetic moment [13]   Magnetopause distance [14]   Observed size of the magnetosphere[15]   variance of magnetosphere[16]
-  ---------------------------- -------- ---------------------- ---------------------------- ---------------------------------------- -------------------------------
-  Mercury_symbol.svg Mercury   1        0.0004                 1.5                          1.4                                      0
-  Venus_symbol.svg Venus       2        0                      0                            0                                        0
-  Earth_symbol.svg Earth       3        1                      10                           10                                       2
-  Mars_symbol.svg Mars         4        0                      0                            0                                        0
-  Jupiter_symbol.svg Jupiter   5        20000                  42                           75                                       25
-  Saturn_symbol.svg Saturn     6        600                    19                           19                                       3
-  Uranus_symbol.svg Uranus     7        50                     25                           18                                       0
-  Neptune_symbol.svg Neptune   8        25                     24                           24.5                                     1.5
+  Planet    Number   Magnetic moment [13]   Magnetopause distance [14]   Observed size of the magnetosphere[15]   variance of magnetosphere[16]
+  --------- -------- ---------------------- ---------------------------- ---------------------------------------- -------------------------------
+  Mercury   1        0.0004                 1.5                          1.4                                      0
+  Venus     2        0                      0                            0                                        0
+  Earth     3        1                      10                           10                                       2
+  Mars      4        0                      0                            0                                        0
+  Jupiter   5        20000                  42                           75                                       25
+  Saturn    6        600                    19                           19                                       3
+  Uranus    7        50                     25                           18                                       0
+  Neptune   8        25                     24                           24.5                                     1.5
 
   : Overview of the Solar System magnetopauses[12]
 

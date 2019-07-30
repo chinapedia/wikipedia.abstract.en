@@ -1,4 +1,4 @@
-DAMP_chemical_structure.png (at center), a nitrogenous base called adenine (upper right), and one phosphate group (left). The deoxyribose sugar joined only to the nitrogenous base forms a Deoxyribonucleoside called deoxyadenosine, whereas the whole structure along with the phosphate group is a nucleotide, a constituent of DNA with the name deoxyadenosine monophosphate.]]
+(at center), a nitrogenous base called adenine (upper right), and one phosphate group (left). The deoxyribose sugar joined only to the nitrogenous base forms a Deoxyribonucleoside called deoxyadenosine, whereas the whole structure along with the phosphate group is a nucleotide, a constituent of DNA with the name deoxyadenosine monophosphate.]]
 
 NUCLEOTIDES are organic molecules that serve as the monomer units for forming the nucleic acid polymers deoxyribonucleic acid (DNA) and ribonucleic acid (RNA), both of which are essential biomolecules within all life-forms on Earth. Nucleotides are the building blocks of nucleic acids; they are composed of three sub unit molecules: a nitrogenous base (also known as nucleobase), a five-carbon sugar (ribose or deoxyribose), and at least one phosphate group.
 
@@ -11,7 +11,7 @@ In experimental biochemistry, nucleotides can be radiolabeled with radionuclides
 
 Structure
 
-0322_DNA_Nucleotides.jpg) of a nucleic acid, shown at upper left.]]
+) of a nucleic acid, shown at upper left.]]
 
 A nucleotide is composed of three distinctive chemical sub-units: a five-carbon sugar molecule, a nitrogenous base—which two together are called a nucleoside—and one phosphate group. With all three joined, a nucleotide is also termed a "nucleoside _mono_phosphate". The chemistry sources ACS Style Guide[2] and IUPAC Gold Book[3] prescribe that a nucleotide should contain only one phosphate group, but common usage in molecular biology textbooks often extends the definition to include molecules with two, or with three, phosphates.[4][5][6][7] Thus, the terms "nucleoside _di_phosphate" or "nucleoside _tri_phosphate" may also indicate nucleotides.
 
@@ -21,7 +21,7 @@ Unlike in nucleic acid nucleotides, singular cyclic nucleotides are formed when 
 
 Nucleic acids then are polymeric macromolecules assembled from nucleotides, the monomer-units of nucleic acids. The purine bases adenine and guanine and pyrimidine base cytosine occur in both DNA and RNA, while the pyrimidine bases thymine (in DNA) and uracil (in RNA) occur in just one. Adenine forms a base pair with thymine with two hydrogen bonds, while guanine pairs with cytosine with three hydrogen bonds.
 
-Nucleotides_1.svg) is indicated by "Base" and "glycosidic bond" (sugar bond). All five primary, or canonical, bases—the purines and pyrimidines—are sketched at right (in blue).]]
+) is indicated by "Base" and "glycosidic bond" (sugar bond). All five primary, or canonical, bases—the purines and pyrimidines—are sketched at right (in blue).]]
 
 
 Synthesis
@@ -34,7 +34,7 @@ In vivo, nucleotides can be synthesized de novo or recycled through salvage path
 
 Pyrimidine ribonucleotide synthesis
 
-Nucleotides_syn2.png'''.
+'''.
 
 The color scheme is as follows: enzymes, coenzymes, substrate names, inorganic molecules ]]
 
@@ -60,16 +60,16 @@ Cytidine monophosphate (CMP) is derived from cytidine triphosphate (CTP) with su
 
 Purine ribonucleotide synthesis
 
-The atoms that are used to build the purine nucleotides come from a variety of sources: Nucleotides_syn1.svg
+The atoms that are used to build the purine nucleotides come from a variety of sources:
 
-+--------------------------+-----------------------------------------------------+
-| Nucleotide_synthesis.svg | THE BIOSYNTHETIC ORIGINS OF PURINE RING ATOMS       |
-|                          | N₁ arises from the amine group of Asp               |
-|                          | C₂ and C₈ originate from formate                    |
-|                          | N₃ and N₉ are contributed by the amide group of Gln |
-|                          | C₄, C₅ and N₇ are derived from Gly                  |
-|                          | C₆ comes from HCO₃^(−) (CO₂)                        |
-+--------------------------+-----------------------------------------------------+
++--+-----------------------------------------------------+
+|  | THE BIOSYNTHETIC ORIGINS OF PURINE RING ATOMS       |
+|  | N₁ arises from the amine group of Asp               |
+|  | C₂ and C₈ originate from formate                    |
+|  | N₃ and N₉ are contributed by the amide group of Gln |
+|  | C₄, C₅ and N₇ are derived from Gly                  |
+|  | C₆ comes from HCO₃^(−) (CO₂)                        |
++--+-----------------------------------------------------+
 
 The de novo synthesis of purine nucleotides by which these precursors are incorporated into the purine ring proceeds by a 10-step pathway to the branch-point intermediate IMP, the nucleotide of the base hypoxanthine. AMP and GMP are subsequently synthesized from this intermediate via separate, two-step pathways. Thus, purine moieties are initially formed as part of the ribonucleotides rather than as free bases.
 

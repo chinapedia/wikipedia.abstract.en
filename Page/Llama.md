@@ -11,18 +11,18 @@ Llamas appear to have originated from the central plains of North America about 
 
 Classification
 
-A_Quechua_girl_and_her_Llama.jpg girl with a llama in Cusco, Peru]]
+girl with a llama in Cusco, Peru]]
 
 Lamoids, or llamas (as they are more generally known as a group), consist of the vicuña (_Vicugna vicugna_, prev. _Lama vicugna_), guanaco (_Lama guanicoe_), Suri alpaca, and Huacaya alpaca (_Vicugna pacos_, prev. _Lama guanicoe pacos_), and the domestic llama (_Lama glama_). Guanacos and vicuñas live in the wild, while llamas and alpacas exist only as domesticated animals.[8] Although early writers compared llamas to sheep, their similarity to the camel was soon recognized. They were included in the genus _Camelus_ along with alpaca in the _Systema Naturae_ (1758) of Carl Linnaeus.[9] They were, however, separated by Georges Cuvier in 1800 under the name of _lama_ along with the guanaco.[10] DNA analysis has confirmed that the guanaco is the wild ancestor of the llama, while the vicuña is the wild ancestor of the alpaca, and thus the latter were placed in the genus_Vicugna_.[11]
 
-The genera _Lama_ and _Vicugna_ are, with the two species of true camels, the sole existing representatives of a very distinct section of the Artiodactyla or even-toed ungulates, called Tylopoda, or "bump-footed", from the peculiar bumps on the soles of their feet. The Tylopoda consist of a single family, the Camelidae, and shares the order Artiodactyla with the Suina (pigs), the Tragulina (chevrotains), the Pecora (ruminants), and the Whippomorpha (hippos and cetaceans, which belong to Artiodactyla from a cladistic, if not traditional, standpoint). The Tylopoda have more or less affinity to each of the sister taxa, standing in some respects in a middle position between them, sharing some characteristics from each, but in others showing special modifications not found in any of the other taxa. Domestic_llama_(2009-05-19).jpg The 19th-century discoveries of a vast and previously unexpected extinct Paleogene fauna of North America, as interpreted by paleontologists Joseph Leidy, Edward Drinker Cope, and Othniel Charles Marsh, aided understanding of the early history of this family. Llamas were not always confined to South America; abundant llama-like remains were found in Pleistocene deposits in the Rocky Mountains and in Central America. Some of the fossil llamas were much larger than current forms. Some species remained in North America during the last ice ages. North American llamas are categorized as a single extinct genus, _Hemiauchenia_. Llama-like animals would have been a common sight 25,000 years ago, in modern-day California, Texas, New Mexico, Utah, Missouri, and Florida.[12]
+The genera _Lama_ and _Vicugna_ are, with the two species of true camels, the sole existing representatives of a very distinct section of the Artiodactyla or even-toed ungulates, called Tylopoda, or "bump-footed", from the peculiar bumps on the soles of their feet. The Tylopoda consist of a single family, the Camelidae, and shares the order Artiodactyla with the Suina (pigs), the Tragulina (chevrotains), the Pecora (ruminants), and the Whippomorpha (hippos and cetaceans, which belong to Artiodactyla from a cladistic, if not traditional, standpoint). The Tylopoda have more or less affinity to each of the sister taxa, standing in some respects in a middle position between them, sharing some characteristics from each, but in others showing special modifications not found in any of the other taxa. The 19th-century discoveries of a vast and previously unexpected extinct Paleogene fauna of North America, as interpreted by paleontologists Joseph Leidy, Edward Drinker Cope, and Othniel Charles Marsh, aided understanding of the early history of this family. Llamas were not always confined to South America; abundant llama-like remains were found in Pleistocene deposits in the Rocky Mountains and in Central America. Some of the fossil llamas were much larger than current forms. Some species remained in North America during the last ice ages. North American llamas are categorized as a single extinct genus, _Hemiauchenia_. Llama-like animals would have been a common sight 25,000 years ago, in modern-day California, Texas, New Mexico, Utah, Missouri, and Florida.[12]
 
 The camelid lineage has a good fossil record. Camel-like animals have been traced from the thoroughly differentiated, modern species back through early Miocene forms. Their characteristics became more general, and they lost those that distinguished them as camelids; hence, they were classified as ancestral artiodactyls. No fossils of these earlier forms have been found in the Old World, indicating that North America was the original home of camelids, and that Old World camels crossed over via the Bering Land Bridge. The formation of the Isthmus of Panama three million years ago allowed camelids to spread to South America as part of the Great American Interchange, where they evolved further. Meanwhile, North American camelids died out at the end of the Pleistocene.[13]
 
 
 Characteristics
 
-Llama_skeleton_at_MAV-USP.jpg The following characteristics apply especially to llamas. Dentition of adults:-incisors 1/3 canines 1/1, premolars 2/2, molars 3/2; total 32. In the upper jaw, a compressed, sharp, pointed laniariform incisor near the hinder edge of the premaxilla is followed in the male at least by a moderate-sized, pointed, curved true canine in the anterior part of the maxilla.[14] The isolated canine-like premolar that follows in the camels is not present. The teeth of the molar series, which are in contact with each other, consist of two very small premolars (the first almost rudimentary) and three broad molars, constructed generally like those of _Camelus_. In the lower jaw, the three incisors are long, spatulate, and procumbent; the outer ones are the smallest. Next to these is a curved, suberect canine, followed after an interval by an isolated minute and often deciduous simple conical premolar; then a contiguous series of one premolar and three molars, which differ from those of _Camelus_ in having a small accessory column at the anterior outer edge. Llama_with_numbers.svg
+The following characteristics apply especially to llamas. Dentition of adults:-incisors 1/3 canines 1/1, premolars 2/2, molars 3/2; total 32. In the upper jaw, a compressed, sharp, pointed laniariform incisor near the hinder edge of the premaxilla is followed in the male at least by a moderate-sized, pointed, curved true canine in the anterior part of the maxilla.[14] The isolated canine-like premolar that follows in the camels is not present. The teeth of the molar series, which are in contact with each other, consist of two very small premolars (the first almost rudimentary) and three broad molars, constructed generally like those of _Camelus_. In the lower jaw, the three incisors are long, spatulate, and procumbent; the outer ones are the smallest. Next to these is a curved, suberect canine, followed after an interval by an isolated minute and often deciduous simple conical premolar; then a contiguous series of one premolar and three molars, which differ from those of _Camelus_ in having a small accessory column at the anterior outer edge.
 
 The skull generally resembles that of _Camelus_, the larger brain-cavity and orbits and less-developed cranial ridges being due to its smaller size. The nasal bones are shorter and broader, and are joined by the premaxilla.
 
@@ -58,7 +58,7 @@ In addition, the llama (and other camelids) have an extremely long and complex l
 
 Reproduction
 
-Emmett_and_evie.JPG]] Llamas have an unusual reproductive cycle for a large animal. Female llamas are induced ovulators.[17] Through the act of mating, the female releases an egg and is often fertilized on the first attempt. Female llamas do not go into estrus ("heat").[18]
+]] Llamas have an unusual reproductive cycle for a large animal. Female llamas are induced ovulators.[17] Through the act of mating, the female releases an egg and is often fertilized on the first attempt. Female llamas do not go into estrus ("heat").[18]
 
 Like humans, llama males and females mature sexually at different rates. Females reach puberty at about 12 months old; males do not become sexually mature until around three years of age.[19]
 
@@ -84,7 +84,7 @@ HAND MATING is the most efficient method, but requires the most work on the part
 
 Pregnancy
 
-lamas_in_the_sunset_San_Pedro_de_Atacama_Chile_Luca_Galuzzi_2006.jpg, Chile]] Llamas should be tested for pregnancy after mating at two to three, six and at least 12 weeks.
+, Chile]] Llamas should be tested for pregnancy after mating at two to three, six and at least 12 weeks.
 
 1.  For "spit" testing, bring the potentially pregnant dam to an intact male. If the stud attempts to mate with her and she lies down for him within a fairly short period of time, she is not pregnant. If she remains on her feet, spits, attacks him, or otherwise prevents his being able to mate, it is assumed she is probably pregnant. This test gets its name due to the dam spitting at the male if she is pregnant.
 2.  For progesterone testing, a veterinarian can test a blood sample for progesterone. A high level can indicate a pregnancy.
@@ -96,7 +96,7 @@ Spit testing with an intact male is generally free and is usually accurate. Howe
 
 Nutrition
 
-Black_Llama.jpg Options for feeding llamas are quite wide; a wide variety of commercial and farm-based feeds are available. The major determining factors include feed cost, availability, nutrient balance and energy density required. Young, actively growing llamas require a greater concentration of nutrients than mature animals because of their smaller digestive tract capacities.[26]
+Options for feeding llamas are quite wide; a wide variety of commercial and farm-based feeds are available. The major determining factors include feed cost, availability, nutrient balance and energy density required. Young, actively growing llamas require a greater concentration of nutrients than mature animals because of their smaller digestive tract capacities.[26]
 
 +-------------+--------------+----------+--------------+
 | Body weight | Bromgrass    | Alfalfa  | Corn silage  |
@@ -128,7 +128,7 @@ Black_Llama.jpg Options for feeding llamas are quite wide; a wide variety of com
 
 Behavior
 
-Lloyd_the_Llama.jpg]] Llamas, which are well-socialized and trained to halter and lead after weaning, are very friendly and pleasant to be around. They are extremely curious and most will approach people easily. However, llamas that are bottle-fed or over-socialized and over-handled as youth will become extremely difficult to handle when mature, when they will begin to treat humans as they treat each other, which is characterized by bouts of spitting, kicking and neck wrestling.[28]
+]] Llamas, which are well-socialized and trained to halter and lead after weaning, are very friendly and pleasant to be around. They are extremely curious and most will approach people easily. However, llamas that are bottle-fed or over-socialized and over-handled as youth will become extremely difficult to handle when mature, when they will begin to treat humans as they treat each other, which is characterized by bouts of spitting, kicking and neck wrestling.[28]
 
 When correctly reared, llamas spitting at a human is a rare thing. Llamas are very social herd animals, however, and do sometimes spit at each other as a way of disciplining lower-ranked llamas in the herd. A llama's social rank in a herd is never static. They can always move up or down in the social ladder by picking small fights. This is usually done between males to see which will become dominant. Their fights are visually dramatic, with spitting, ramming each other with their chests, neck wrestling and kicking, mainly to knock the other off balance. The females are usually only seen spitting as a means of controlling other herd members.
 
@@ -140,7 +140,7 @@ An "orgle" is the mating sound of a llama or alpaca, made by the sexually arouse
 
 Guard behavior
 
-Llama_guarding_sheep.jpg]] Using llamas as livestock guards in North America began in the early 1980s, and some sheep producers have used llamas successfully since then. Some would even use them to guard their smaller cousins, the alpaca.[31][32] They are used most commonly in the western regions of the United States, where larger predators, such as coyotes and feral dogs, are prevalent. Typically, a single gelding (castrated male) is used.
+]] Using llamas as livestock guards in North America began in the early 1980s, and some sheep producers have used llamas successfully since then. Some would even use them to guard their smaller cousins, the alpaca.[31][32] They are used most commonly in the western regions of the United States, where larger predators, such as coyotes and feral dogs, are prevalent. Typically, a single gelding (castrated male) is used.
 
 Research suggests the use of multiple guard llamas is not as effective as one. Multiple males tend to bond with one another, rather than with the livestock, and may ignore the flock. A gelded male of two years of age bonds closely with its new charges and is instinctively very effective in preventing predation. Some llamas appear to bond more quickly to sheep or goats if they are introduced just prior to lambing. Many sheep and goat producers indicate a special bond quickly develops between lambs and their guard llama and the llama is particularly protective of the lambs.
 
@@ -148,8 +148,6 @@ Using llamas as guards has reduced the losses to predators for many producers. T
 
 
 History
-
-Lombards_Museum_005_bis.jpg Chancay_-_Llama_Effigy_-_Walters_20092049.jpg
 
 |url= http://art.thewalters.org/detail/80204
 |title= Llama Effigy}} The Walters Art Museum.]]
@@ -170,7 +168,7 @@ Carl Troll has argued that the large numbers of llamas found in the southern Per
 
 Spanish Empire
 
-Guanacos-llamas-el-primero-imagen-en-europa-1553.jpg One of the main uses for llamas at the time of the Spanish conquest was to bring down ore from the mines in the mountains.[42] Gregory de Bolivar estimated that in his day, as many as 300,000 were employed in the transport of produce from the Potosí mines alone, but since the introduction of horses, mules, and donkeys, the importance of the llama as a beast of burden has greatly diminished.[43]
+One of the main uses for llamas at the time of the Spanish conquest was to bring down ore from the mines in the mountains.[42] Gregory de Bolivar estimated that in his day, as many as 300,000 were employed in the transport of produce from the Potosí mines alone, but since the introduction of horses, mules, and donkeys, the importance of the llama as a beast of burden has greatly diminished.[43]
 
 According to Juan Ignacio Molina, the Dutch captain Joris van Spilbergen observed the use of hueques (possibly a llama type) by native Mapuches of Mocha Island as plow animals in 1614.[44]
 
@@ -181,7 +179,7 @@ Fiber
 
 Llamas have a fine undercoat, which can be used for handicrafts and garments. The coarser outer guard hair is used for rugs, wall-hangings and lead ropes. The fiber comes in many different colors ranging from white or grey to reddish-brown, brown, dark brown and black.
 
-Handspun_llama_yarn.jpg]]
+]]
 
 +-------------------------------+----------------+
 | Animal                        | Fiber diameter |

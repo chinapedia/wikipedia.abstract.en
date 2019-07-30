@@ -9,7 +9,7 @@ In 1980, Reagan won the Republican presidential nomination and defeated incumben
 
 Early life
 
-Ronald_Reagan_Boyhood_Home_(8030104930).jpg Ronald Wilson Reagan was born on February 6, 1911, in an apartment on the second floor of a commercial building in Tampico, Illinois. He was the younger son of Nelle Clyde (; 1883–1962) and Jack Reagan (1883–1941).[1] Jack was a salesman and storyteller whose grandparents were Irish Catholic emigrants from County Tipperary,[2] while Nelle was of half English and half Scottish descent (her mother was born in Surrey).[3] Reagan's older brother, Neil Reagan (1908–1996), became an advertising executive.[4]
+Ronald Wilson Reagan was born on February 6, 1911, in an apartment on the second floor of a commercial building in Tampico, Illinois. He was the younger son of Nelle Clyde (; 1883–1962) and Jack Reagan (1883–1941).[1] Jack was a salesman and storyteller whose grandparents were Irish Catholic emigrants from County Tipperary,[2] while Nelle was of half English and half Scottish descent (her mother was born in Surrey).[3] Reagan's older brother, Neil Reagan (1908–1996), became an advertising executive.[4]
 
 Reagan's father nicknamed his son "Dutch", due to his "fat little Dutchman"-like appearance and "Dutchboy" haircut;[5] the nickname stuck with him throughout his youth.[6] Reagan's family briefly lived in several towns and cities in Illinois, including Monmouth, Galesburg, and Chicago.[7] In 1919, they returned to Tampico and lived above the H. C. Pitney Variety Store until finally settling in Dixon.[8] After his election as president, Reagan resided in the upstairs White House private quarters, and he would quip that he was "living above the store again".[9]
 
@@ -30,7 +30,7 @@ Radio and film
 
 After graduating from Eureka in 1932, Reagan took jobs in Iowa as a radio announcer at several stations. He moved to WHO radio in Des Moines as an announcer for Chicago Cubs baseball games. His specialty was creating play-by-play accounts of games using only basic descriptions that the station received by wire as the games were in progress.[25]
 
-Ronald_Reagan_in_The_Bad_Man_(1941).png'' (1941)]]
+'' (1941)]]
 
 While traveling with the Cubs in California in 1937, Reagan took a screen test that led to a seven-year contract with Warner Brothers studios.[26] He spent the first few years of his Hollywood career in the "B film" unit, where, Reagan joked, the producers "didn't want them good; they wanted them Thursday".[27]
 
@@ -42,7 +42,7 @@ _Kings Row_ made Reagan a star—Warner immediately tripled his salary to $3,000
 
 Military service
 
-Reagan_FMPU.jpg]]
+]]
 
 After completing 14 home-study Army Extension Courses, Reagan enlisted in the Army Enlisted Reserve and was commissioned a second lieutenant in the Officers' Reserve Corps of the Cavalry on May 25, 1937.[37]
 
@@ -52,7 +52,7 @@ In January 1944, Reagan was ordered to temporary duty in New York City to partic
 
 Screen Actors Guild presidency
 
-Dick_Powell_Show_Premiere_Episode_1961.JPG''. Reagan can be seen wearing a ten-gallon hat on the far left]]
+''. Reagan can be seen wearing a ten-gallon hat on the far left]]
 
 Reagan was first elected to the Board of Directors of the Screen Actors Guild (SAG) in 1941, serving as an alternate member. After World War II, he resumed service and became third vice-president in 1946.[45] The adoption of conflict-of-interest bylaws in 1947 led the SAG president and six board members to resign; Reagan was nominated in a special election for the position of president and was subsequently elected.[46] He was chosen by the membership to serve seven additional one-year terms, from 1947 to 1952 and in 1959.[47] Reagan led the SAG through eventful years that were marked by labor-management disputes, the Taft–Hartley Act, the House Un-American Activities Committee (HUAC) hearings and the Hollywood blacklist era.[48]
 
@@ -69,11 +69,11 @@ Reagan landed fewer film roles in the late 1950s and moved into television.[52] 
 
 Marriages and children
 
-Wyman_&_Reagan.jpg, 1942]]
+, 1942]]
 
 In 1938, Reagan co-starred in the film _Brother Rat_ with actress Jane Wyman (1917–2007). They announced their engagement at the Chicago Theatre[59] and married on January 26, 1940 at the Wee Kirk o' the Heather church in Glendale, California.[60] Together they had two biological children, Maureen (1941–2001) and Christine (b. in 1947 but lived only one day), and adopted a third, Michael (b. 1945).[61] After the couple had arguments about Reagan's political ambitions, Wyman filed for divorce in 1948,[62] citing a distraction due to her husband's Screen Actors Guild union duties; the divorce was finalized in 1949.[63] Wyman, who was a registered Republican, also stated that their break-up was due to a difference in politics (Reagan was still a Democrat at the time).[64] When Reagan became President 32 years later, he had the distinction of being the only divorced person to assume the nation's highest office; Donald Trump (2 divorces) would follow him in that respect 36 years later.[65] Reagan and Wyman continued to be friends until his death, with Wyman voting for Reagan in both of his runs and, upon his death, saying "America has lost a great president and a great, kind, and gentle man."[66]
 
-Reagan_wedding_-_Holden_-_1952.jpg (left) and best man William Holden (right) were the sole guests]]
+(left) and best man William Holden (right) were the sole guests]]
 
 Reagan met actress Nancy Davis (1921–2016)[67][68] in 1949 after she contacted him in his capacity as president of the Screen Actors Guild. He helped her with issues regarding her name appearing on a Communist blacklist in Hollywood. She had been mistaken for another Nancy Davis. She described their meeting by saying, "I don't know if it was exactly love at first sight, but it was pretty close."[69] They were engaged at Chasen's restaurant in Los Angeles and were married on March 4, 1952, at the Little Brown Church in the Valley (North Hollywood, now Studio City) San Fernando Valley.[70] Actor William Holden served as best man at the ceremony. They had two children: Patti (b. 1952) and Ronald "Ron" Jr. (b. 1958).
 
@@ -82,7 +82,7 @@ The couple's relationship was close, authentic and intimate.[71] During his pres
 
 Early political career
 
-Ronald_Reagan_and_Nancy_Reagan_aboard_a_boat_in_California_1964.jpg Reagan began as a Hollywood Democrat, and Franklin D. Roosevelt was "a true hero" to him.[78] He moved to the right-wing in the 1950s, became a Republican in 1962, and emerged as a leading conservative spokesman in the Goldwater campaign of 1964.[79]
+Reagan began as a Hollywood Democrat, and Franklin D. Roosevelt was "a true hero" to him.[78] He moved to the right-wing in the 1950s, became a Republican in 1962, and emerged as a leading conservative spokesman in the Goldwater campaign of 1964.[79]
 
 In his early political career, he joined numerous political committees with a left-wing orientation, such as the American Veterans Committee. He fought against Republican-sponsored right-to-work legislation and supported Helen Gahagan Douglas in 1950 when she was defeated for the Senate by Richard Nixon. It was his realization that Communists were a powerful backstage influence in those groups that led him to rally his friends against them.[80]
 
@@ -101,19 +101,15 @@ Governor of California (1967–1975)
 
 California Republicans were impressed with Reagan's political views and charisma after his "Time for Choosing" speech,[95] and in late 1965 he announced his campaign for Governor in the 1966 election.[96][97] He defeated former San Francisco mayor George Christopher in the GOP primary. In Reagan's campaign, he emphasized two main themes: "to send the welfare bums back to work," and, in reference to burgeoning anti-war and anti-establishment student protests at the University of California at Berkeley, "to clean up the mess at Berkeley."[98] In 1966, Reagan accomplished what both U.S. Senator William F. Knowland in 1958 and former Vice President Richard Nixon in 1962 had attempted to do: he was elected, defeating two-term governor Pat Brown, and was sworn in on January 2, 1967. In his first term, he froze government hiring and approved tax hikes to balance the budget.[99]
 
-GOVREAGAN.jpg
-
 Shortly after assuming his gubernatorial term, Reagan tested the 1968 presidential waters as part of a "Stop Nixon" movement, hoping to cut into Nixon's southern support[100] and become a compromise candidate[101] if neither Nixon nor second-place candidate Nelson Rockefeller received enough delegates to win on the first ballot at the Republican convention. However, by the time of the convention, Nixon had 692 delegate votes, 25 more than he needed to secure the nomination, followed by Rockefeller with Reagan in third place.[102]
 
 Reagan was involved in several high-profile conflicts with the protest movements of the era, including his public criticism of university administrators for tolerating student demonstrations at the University of California, Berkeley campus. On May 15, 1969, during the People's Park protests at the university's campus (the original purpose of which was to discuss the Arab–Israeli conflict), Reagan sent the California Highway Patrol and other officers to quell the protests. This led to an incident that became known as "Bloody Thursday," resulting in the death of student James Rector and the blinding of carpenter Alan Blanchard.[103][104] In addition, 111 police officers were injured in the conflict, including one who was knifed in the chest. Reagan then called out 2,200 state National Guard troops to occupy the city of Berkeley for two weeks to crack down on the protesters.[105] The Guard remained in Berkeley for 17 days, camping in People's Park, and demonstrations subsided as the university removed cordoned-off fencing and placed all development plans for People's Park on hold.[106][107] One year after "Bloody Thursday," Reagan responded to questions about campus protest movements saying, "If it takes a bloodbath, let's get it over with. No more appeasement."[108] When the Symbionese Liberation Army kidnapped Patty Hearst in Berkeley and demanded the distribution of food to the poor, Reagan joked to a group of political aides about a botulism outbreak contaminating the food.[109]
 
-NIXONSandREAGANS.jpg and First Lady Pat Nixon, July 1970]]
+and First Lady Pat Nixon, July 1970]]
 
 Early in 1967, the national debate on abortion was starting to gain traction. In the early stages of the debate, Democratic California state senator Anthony C. Beilenson introduced the "Therapeutic Abortion Act" in an effort to reduce the number of "back-room abortions" performed in California.[110] The state legislature sent the bill to Reagan's desk where, after many days of indecision, he reluctantly signed it on June 14, 1967.[111] About two million abortions would be performed as a result, mostly because of a provision in the bill allowing abortions for the well-being of the mother.[112] Reagan had been in office for only four months when he signed the bill, and later stated that had he been more experienced as governor, he would not have signed it. After he recognized what he called the "consequences" of the bill, he announced that he was pro-life.[113] He maintained that position later in his political career, writing extensively about abortion.[114]
 
 In 1967, Reagan signed the Mulford Act, which repealed a law allowing public carrying of loaded firearms (becoming California Penal Code 12031 and 171(c)). The bill, which was named after Republican assemblyman Don Mulford, garnered national attention after the Black Panthers marched bearing arms upon the California State Capitol to protest it.[115][116]
-
-CA1966Gov.svg
 
 Despite an unsuccessful attempt to force a recall election on Reagan in 1968,[117] he was re-elected governor in 1970, defeating "Big Daddy" Jesse M. Unruh. He chose not to seek a third term in the following election cycle. One of Reagan's greatest frustrations in office was the controversy of capital punishment, which he strongly supported.[118] His efforts to enforce the state's laws in this area were thwarted when the Supreme Court of California issued its _People v. Anderson_ decision, which invalidated all death sentences issued in California before 1972, though the decision was later overturned by a constitutional amendment. The only execution during Reagan's governorship was on April 12, 1967, when Aaron Mitchell's sentence was carried out by the state in San Quentin's gas chamber.[119]
 
@@ -126,7 +122,7 @@ Reagan did not seek re-election to a third term as governor in 1974. He was succ
 
 1976 presidential campaign
 
-1976_Republican_National_Convention.jpg shake hands on the podium after Reagan narrowly lost the nomination at the 1976 Republican National Convention]] In 1976, Reagan challenged incumbent President Gerald Ford in a bid to become the Republican Party's candidate for president. Reagan soon established himself as the conservative candidate with the support of like-minded organizations such as the American Conservative Union, which became key components of his political base, while Ford was considered a more moderate Republican.[124]
+shake hands on the podium after Reagan narrowly lost the nomination at the 1976 Republican National Convention]] In 1976, Reagan challenged incumbent President Gerald Ford in a bid to become the Republican Party's candidate for president. Reagan soon established himself as the conservative candidate with the support of like-minded organizations such as the American Conservative Union, which became key components of his political base, while Ford was considered a more moderate Republican.[124]
 
 Reagan's campaign relied on a strategy crafted by campaign manager John Sears of winning a few primaries early to damage the inevitability of Ford's likely nomination. Reagan won North Carolina, Texas, and California, but the strategy failed, as[125] he ended up losing New Hampshire, Florida, and his native Illinois.[126] The Texas campaign lent renewed hope to Reagan, when he swept all 96 delegates chosen in the May 1 primary, with four more awaiting at the state convention. Much of the credit for that victory came from the work of three co-chairmen, including Ernest Angelo, the mayor of Midland, and Ray Barnhart of Houston, whom Reagan as President would appoint in 1981 as director of the Federal Highway Administration.[127]
 
@@ -139,8 +135,6 @@ After the campaign, Reagan remained in the public debate with the Ronald Reagan 
 
 1980 presidential campaign
 
-ElectoralCollege1980.svg
-
 The 1980 presidential election featured Reagan against incumbent President Jimmy Carter and was conducted amid a multitude of domestic concerns as well as the ongoing Iran hostage crisis. Reagan's campaign stressed some of his fundamental principles: lower taxes to stimulate the economy,[132] less government interference in people's lives,[133] states' rights,[134] and a strong national defense.[135]
 
 Reagan launched his campaign by declaring "I believe in states' rights." After receiving the Republican nomination, Reagan selected one of his opponents in the primaries, George H. W. Bush, to be his running mate. His relaxed and confident appearance during the televised Reagan-Carter debate on October 28, boosted his popularity, and helped to widen his lead in the polls.[136]
@@ -150,7 +144,7 @@ On November 4, Reagan won a decisive victory over Carter, carrying 44 states and
 
 Presidency (1981–1989)
 
-The_Reagans_waving_from_the_limousine_during_the_Inaugural_Parade_1981.jpg were set free]]
+were set free]]
 
 During his presidency, Reagan pursued policies that reflected his personal belief in individual freedom; brought changes domestically, both to the U.S. economy and expanded military; and contributed to the end of the Cold War.[140] Termed the "Reagan Revolution," his presidency would reinvigorate American morale,[141][142] reinvigorate the U.S. economy and reduce reliance upon government.[143] As president, Reagan kept a diary in which he commented on daily occurrences of his presidency and his views on the issues of the day. The diaries were published in May 2007 in the bestselling book, _The Reagan Diaries_.[144]
 
@@ -172,7 +166,7 @@ In August 1981, PATCO, the union of federal air traffic controllers, went on str
 
 "Reaganomics" and the economy
 
-Ronald_Reagan_televised_address_from_the_Oval_Office,_outlining_plan_for_Tax_Reduction_Legislation_July_1981.jpg, July 1981]]
+, July 1981]]
 
 During Jimmy Carter's last year in office (1980), inflation averaged 12.5%, compared with 4.4% during Reagan's last year in office (1988).[161] During Reagan's administration, the unemployment rate declined from 7.5% to 5.4%, with the rate reaching highs of 10.8% in 1982 and 10.4% in 1983, averaging 7.5% over the eight years, and real GDP growth averaged 3.4% with a high of 8.6% in 1983, while nominal GDP growth averaged 7.4%, and peaked at 12.2% in 1982.[162][163][164]
 
@@ -186,7 +180,7 @@ Conversely, Congress passed and Reagan signed into law tax increases of some nat
 
 The net effect of all Reagan-era tax bills was a 1% decrease in government revenues when compared to Treasury Department revenue estimates from the Administration's first post-enactment January budgets.[185] However, federal income tax receipts increased from 1980 to 1989, rising from $308.7 billion to $549 billion[186] or an average annual rate of 8.2% (2.5% attributed to higher Social Security receipts), and federal outlays grew at an annual rate of 7.1%.[187][188]
 
-President_Reagan_addresses_Congress_1981.jpg)]]
+)]]
 
 Reagan's policies proposed that economic growth would occur when marginal tax rates were low enough to spur investment, which would then lead to higher employment and wages. Critics labeled this "trickle-down economics"—the belief that tax policies that benefit the wealthy will create a "trickle-down" effect to the poor.[189] Questions arose whether Reagan's policies benefited the wealthy more than those living in poverty,[190] and many poor and minority citizens viewed Reagan as indifferent to their struggles.[191] These views were exacerbated by the fact that Reagan's economic regimen included freezing the minimum wage at $3.35 an hour, slashing federal assistance to local governments by 60%, cutting the budget for public housing and Section 8 rent subsidies in half, and eliminating the antipoverty Community Development Block Grant program.[192] The widening gap between the rich and poor had already begun during the 1970s before Reagan's economic policies took effect.[193] Along with Reagan's 1981 cut in the top regular tax rate on unearned income, he reduced the maximum capital gains rate to 20%.[194] Reagan later set tax rates on capital gains at the same level as the rates on ordinary income like salaries and wages, with both topping out at 28%.[195] Reagan is viewed as an antitax hero despite raising taxes eleven times over the course of his presidency, all in the name of fiscal responsibility.[196] According to Paul Krugman, "Over all, the 1982 tax increase undid about a third of the 1981 cut; as a share of GDP, the increase was substantially larger than Mr. Clinton's 1993 tax increase."[197] According to historian and domestic policy adviser Bruce Bartlett, Reagan's tax increases over the course of his presidency took back half of the 1981 tax cut.[198]
 
@@ -204,7 +198,7 @@ The Reagan administration was often criticized for inadequately enforcing, if no
 
 Escalation of the Cold War
 
-President_Reagan_addressing_British_Parliament,_London,_June_8,_1982.jpg (June 8, 1982), Reagan predicted Marxism would end up on the "ash heap of history"[222]]]
+(June 8, 1982), Reagan predicted Marxism would end up on the "ash heap of history"[222]]]
 
 Reagan escalated the Cold War, accelerating a reversal from the policy of détente that began during the Carter Administration, following the Afghan Saur Revolution and subsequent Soviet invasion.[223] He ordered a massive buildup of the United States Armed Forces[224] and implemented new policies that were directed towards the Soviet Union; he revived the B-1 Lancer program that had been canceled by the Carter administration, and he produced the MX missile.[225] In response to Soviet deployment of the SS-20, Reagan oversaw NATO's deployment of the Pershing missile in West Germany.[226] In 1982 Reagan tried to cut off Moscow's access to hard currency by impeding its proposed gas line to Western Europe. It hurt the Soviet economy, but it also caused ill will among American allies in Europe who counted on that revenue. Reagan retreated on this issue.[227][228]
 
@@ -214,13 +208,13 @@ Lemann noted that when he wrote that in 1984, he thought the Reaganites were liv
 
 Reagan and the United Kingdom's prime minister Margaret Thatcher both denounced the Soviet Union in ideological terms.[230] In a famous address on June 8, 1982, to the Parliament of the United Kingdom in the Royal Gallery of the Palace of Westminster, Reagan said, "the forward march of freedom and democracy will leave Marxism–Leninism on the ash heap of history."[231][232] On March 3, 1983, he predicted that communism would collapse, stating, "Communism is another sad, bizarre chapter in human history whose last pages even now are being written."[233] In a speech to the National Association of Evangelicals on March 8, 1983, Reagan called the Soviet Union "an evil empire."[234]
 
-Reagan_sitting_with_people_from_the_Afghanistan-Pakistan_region_in_February_1983.jpg in the Oval Office, 1983]]
+in the Oval Office, 1983]]
 
 After Soviet fighters downed Korean Air Lines Flight 007 near Moneron Island on September 1, 1983, carrying 269 people, including Georgia congressman Larry McDonald, Reagan labeled the act a "massacre" and declared that the Soviets had turned "against the world and the moral precepts which guide human relations among people everywhere."[235] The Reagan administration responded to the incident by suspending all Soviet passenger air service to the United States, and dropped several agreements being negotiated with the Soviets, wounding them financially.[236] As a result of the shootdown, and the cause of KAL 007's going astray thought to be inadequacies related to its navigational system, Reagan announced on September 16, 1983, that the Global Positioning System would be made available for civilian use, free of charge, once completed in order to avert similar navigational errors in future.[237][238]
 
 Under a policy that came to be known as the Reagan Doctrine, Reagan and his administration also provided overt and covert aid to anti-communist resistance movements in an effort to "rollback" Soviet-backed communist governments in Africa, Asia, and Latin America.[239] However, in a break from the Carter Administration policy of arming Taiwan under the Taiwan Relations Act, Reagan also agreed with the communist government in China to reduce the sale of arms to Taiwan.[240]
 
-Reagan_Contact_Sheet_C27275_(cropped).jpg and King Fahd of Saudi Arabia in 1985. The U.S. and Saudi Arabia supplied money and arms to the anti-Soviet fighters in Afghanistan.]]
+and King Fahd of Saudi Arabia in 1985. The U.S. and Saudi Arabia supplied money and arms to the anti-Soviet fighters in Afghanistan.]]
 
 Reagan deployed the CIA's Special Activities Division to Afghanistan and Pakistan. They were instrumental in training, equipping and leading Mujahideen forces against the Soviet Army.[241][242] President Reagan's Covert Action program has been given credit for assisting in ending the Soviet occupation of Afghanistan,[243] though some of the United States funded armaments introduced then would later pose a threat to U.S. troops in the 2001 War in Afghanistan.[244] The CIA also began sharing information with the Iranian government, which it was secretly courting. In one instance, in 1982, this practice enabled the government to identify and purge communists from its ministries, and to virtually eliminate the pro-Soviet infrastructure in Iran.[245]
 
@@ -230,7 +224,7 @@ Though supported by leading American conservatives who argued that Reagan's fore
 
 Lebanese Civil War
 
-REAGANSCASKETS.jpg in Beirut, 1983]]
+in Beirut, 1983]]
 
 With the approval of Congress, Reagan sent forces to Lebanon in 1983 to reduce the threat of the Lebanese Civil War. The American peacekeeping forces in Beirut, a part of a multinational force during the Lebanese Civil War, were attacked on October 23, 1983. The Beirut barracks bombing killed 241 American servicemen and wounded more than 60 others by a suicide truck bomber.[262] Reagan sent in the battleship to shell Syrian positions in Lebanon. He then withdrew all the Marines from Lebanon.[263]
 
@@ -240,7 +234,7 @@ On October 25, 1983, Reagan ordered U.S. forces to invade Grenada (codenamed "Op
 
 1984 presidential campaign
 
-ElectoralCollege1984.svg's home state of Minnesota; Mondale also carried the District of Columbia]] Reagan accepted the Republican nomination in the Republican convention in Dallas, Texas. He proclaimed that it was "morning again in America," regarding the recovering economy and the dominating performance by the American athletes at the 1984 Summer Olympics on home soil, among other things.[267] He became the first U.S. president to open an Olympic Games.[268] Previous Olympics taking place in the United States had been opened by either the Vice President (three times) or another person in charge (twice).
+'s home state of Minnesota; Mondale also carried the District of Columbia]] Reagan accepted the Republican nomination in the Republican convention in Dallas, Texas. He proclaimed that it was "morning again in America," regarding the recovering economy and the dominating performance by the American athletes at the 1984 Summer Olympics on home soil, among other things.[267] He became the first U.S. president to open an Olympic Games.[268] Previous Olympics taking place in the United States had been opened by either the Vice President (three times) or another person in charge (twice).
 
 Reagan's opponent in the 1984 presidential election was former Vice President Walter Mondale. Following a weak performance in the first presidential debate, Reagan's ability to perform the duties of president for another term was questioned. His confused and forgetful behavior was evident to his supporters; they had previously known him to be clever and witty. Rumors began to circulate that Reagan had Alzheimer's disease.[269][270] Reagan rebounded in the second debate; confronting questions about his age, he quipped: "I will not make age an issue of this campaign. I am not going to exploit, for political purposes, my opponent's youth and inexperience". This remark generated applause and laughter, even from Mondale himself.[271]
 
@@ -248,11 +242,9 @@ That November, Reagan won a landslide re-election victory, carrying 49 of the 50
 
 Second term
 
-President_Reagan_being_sworn_in_for_second_term_in_the_rotunda_at_the_U.S._Capitol_1985.jpg in the Capitol rotunda]]
+in the Capitol rotunda]]
 
 Reagan was sworn in as president for the second time on January 20, 1985, in a private ceremony at the White House. To date, at 73 years of age, he is the oldest person to take the presidential oath of office. Because January 20 fell on a Sunday, a public celebration was not held but took place in the Capitol rotunda the following day. January 21 was one of the coldest days on record in Washington, D.C.; due to poor weather, inaugural celebrations were held inside the Capitol. In the weeks that followed, he shook up his staff somewhat, moving White House Chief of Staff James Baker to Secretary of the Treasury and naming Treasury Secretary Donald Regan, a former Merrill Lynch officer, Chief of Staff.[278][279]
-
-Reagan_Space_Shuttle_Challenger_Speech.ogv
 
 The disintegration of the Space Shuttle Challenger on January 28, 1986, proved a pivotal moment in Reagan's presidency. All seven astronauts aboard were killed.[280] On the night of the disaster, Reagan delivered a speech, written by Peggy Noonan, in which he said:
 
@@ -280,7 +272,7 @@ Others, however, point out that federal funding for AIDS-related programs was $2
 
 Libya bombing
 
-Reagan_-_Thatcher_c8575-32A.jpg (here with Reagan outside 10 Downing Street in June 1982, as the Falklands War drew to a close) granted the U.S. use of British airbases to launch the Libya attack]]
+(here with Reagan outside 10 Downing Street in June 1982, as the Falklands War drew to a close) granted the U.S. use of British airbases to launch the Libya attack]]
 
 Relations between Libya and the United States under President Reagan were continually contentious, beginning with the Gulf of Sidra incident in 1981; by 1982, Libyan leader Muammar Gaddafi was considered by the CIA to be, along with USSR leader Leonid Brezhnev and Cuban leader Fidel Castro, part of a group known as the "unholy trinity" and was also labeled as "our international public enemy number one" by a CIA official.[305] These tensions were later revived in early April 1986, when a bomb exploded in a Berlin discothèque, resulting in the injury of 63 American military personnel and death of one serviceman. Stating that there was "irrefutable proof" that Libya had directed the "terrorist bombing," Reagan authorized the use of force against the country. In the late evening of April 15, 1986, the United States launched a series of airstrikes on ground targets in Libya.[306][307]
 
@@ -292,7 +284,7 @@ Reagan signed the Immigration Reform and Control Act in 1986. The act made it il
 
 Iran–Contra affair
 
-President_Ronald_Reagan_receives_the_Tower_Commission_Report_with_John_Tower_and_Edmund_Muskie.jpg (left) and Edmund Muskie (right)]]
+(left) and Edmund Muskie (right)]]
 
 In 1986, the Iran–Contra affair became a problem for the administration stemming from the use of proceeds from covert arms sales to Iran during the Iran–Iraq War to fund the Contra rebels fighting against the government in Nicaragua, which had been specifically outlawed by an act of Congress.[315][316] The affair became a political scandal in the United States during the 1980s.[317] The International Court of Justice, whose jurisdiction to decide the case was disputed by the United States,[318] ruled that the United States had violated international law and breached treaties in Nicaragua in various ways.[319][320]
 
@@ -302,7 +294,7 @@ Many Central Americans criticize Reagan for his support of the Contras, calling 
 
 End of the Cold War
 
-Reagan_and_Gorbachev_signing.jpg at the White House, December 1987]]
+at the White House, December 1987]]
 
 Until the early 1980s, the United States had relied on the qualitative superiority of its weapons to essentially frighten the Soviets, but the gap had been narrowed.[327] Although the Soviet Union did not accelerate military spending after President Reagan's military buildup,[328] their large military expenses, in combination with collectivized agriculture and inefficient planned manufacturing, were a heavy burden for the Soviet economy. At the same time, oil prices in 1985 fell to one-third of the previous level; oil was the main source of Soviet export revenues. These factors contributed to a stagnant Soviet economy during Gorbachev's tenure.[329]
 
@@ -312,7 +304,7 @@ Meanwhile, Reagan escalated the rhetoric. In his famous 1983 speech to religious
 
 Reagan appreciated the revolutionary change in the direction of the Soviet policy with Mikhail Gorbachev, and shifted to diplomacy, with a view to encourage the Soviet leader to pursue substantial arms agreements.[332] He and Gorbachev held four summit conferences between 1985 and 1988: the first in Geneva, Switzerland, the second in Reykjavík, Iceland, the third in Washington, D.C., and the fourth in Moscow.[333] Reagan believed that if he could persuade the Soviets to allow for more democracy and free speech, this would lead to reform and the end of Communism.[334] The critical summit was at Reykjavík in October 1986, where they met alone, with translators but with no aides. To the astonishment of the world, and the chagrin of Reagan's most conservative supporters, they agreed to abolish all nuclear weapons. Gorbachev then asked the end of SDI. Reagan said no, claiming that it was defensive only, and that he would share the secrets with the Soviets. No deal was achieved.[335]
 
-ReaganBerlinWall.jpg" at the Brandenburg Gate (June 12, 1987)]]
+" at the Brandenburg Gate (June 12, 1987)]]
 
 Speaking at the Berlin Wall on June 12, 1987, Reagan challenged Gorbachev to go further, saying "General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization, come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!"
 
@@ -341,15 +333,13 @@ Post-presidency (1989–2004)
 
 Public speaking
 
-Reagans_early_1990s.jpg
-
 After leaving office in 1989, the Reagans purchased a home in Bel Air, Los Angeles, in addition to the Reagan Ranch in Santa Barbara. They regularly attended Bel Air Church[359] and occasionally made appearances on behalf of the Republican Party; Reagan delivered a well-received speech at the 1992 Republican National Convention.[360] Previously, on November 4, 1991, the Ronald Reagan Presidential Library was dedicated and opened to the public. Five presidents and six first ladies attended the dedication ceremonies, marking the first time that five presidents were gathered in the same location.[361] Reagan continued to speak publicly in favor of a line-item veto; the Brady Bill;[362] a constitutional amendment requiring a balanced budget; and the repeal of the 22nd Amendment, which prohibits anyone from serving more than two terms as president.[363] In 1992 Reagan established the Ronald Reagan Freedom Award with the newly formed Ronald Reagan Presidential Foundation.[364] His final public speech occurred on February 3, 1994, during a tribute to him in Washington, D.C.; his last major public appearance was at the funeral of Richard Nixon on April 27, 1994.
 
 Alzheimer's disease
 
 Announcement and reaction: 1994
 
-Reagans_with_USS_Ronald_Reagan_model_1996.jpg Chairman and CEO Bill Fricks]]
+Chairman and CEO Bill Fricks]]
 
 In August 1994, at the age of 83, Reagan was diagnosed with Alzheimer's disease,[365] an incurable neurological disorder which destroys brain cells and ultimately causes death.[366][367] In November of that year, he informed the nation of the diagnosis through a handwritten letter,[368] writing in part:
 
@@ -368,7 +358,7 @@ Reagan suffered a fall at his Bel Air home on January 13, 2001, resulting in a b
 
 Death and funeral
 
-Reagan's_casket_lies_in_state_June_9_'04_(cropped).jpg in the Capitol rotunda]]
+in the Capitol rotunda]]
 
 Reagan died of pneumonia, complicated by Alzheimer's disease,[399] at his home in the Bel Air district of Los Angeles, California, on the afternoon of June 5, 2004.[400] A short time after his death, Nancy Reagan released a statement saying, "My family and I would like the world to know that President Ronald Reagan has died after 10 years of Alzheimer's disease at 93 years of age. We appreciate everyone's prayers."[401] President George W. Bush declared June 11 a National Day of Mourning,[402] and international tributes came in from around the world.[403] Reagan's body was taken to the Kingsley and Gates Funeral Home in Santa Monica, California later in the day, where well-wishers paid tribute by laying flowers and American flags in the grass.[404] On June 7, his body was removed and taken to the Ronald Reagan Presidential Library, where a brief family funeral, conducted by Pastor Michael Wenning, was held. Reagan's body lay in repose in the Library lobby until June 9; over 100,000 people viewed the coffin.[405]
 
@@ -383,7 +373,7 @@ Reagan's burial site is inscribed with the words he delivered at the opening of 
 
 Legacy
 
-Ronald_Reagan_statue_in_rotunda.jpg standing in the Capitol rotunda (a part of the National Statuary Hall Collection)]]
+standing in the Capitol rotunda (a part of the National Statuary Hall Collection)]]
 
 Since Reagan left office in 1989, substantial debate has occurred among scholars, historians, and the general public surrounding his legacy.[412] Supporters have pointed to a more efficient and prosperous economy as a result of Reagan's economic policies,[413] foreign policy triumphs including a peaceful end to the Cold War,[414] and a restoration of American pride and morale.[415] Proponents say that he had an unabated and passionate love for the United States which restored faith in the American Dream,[416] after a decline in American confidence and self-respect under Jimmy Carter's perceived weak leadership, particularly during the Iran hostage crisis, as well as his gloomy, dreary outlook for the future of the United States during the 1980 election.[417] Critics point out that Reagan's economic policies resulted in rising budget deficits,[418] a wider gap in wealth, and an increase in homelessness[419] and that the Iran–Contra affair lowered American credibility.[420]
 
@@ -397,15 +387,13 @@ In 2017 a C-SPAN survey of scholars – most of whom opposed his specific polici
 
 Reagan's major achievement was that the USSR and Communism collapsed, causing the U.S. to become the world's only superpower. His admirers say he won the Cold War.[429] After 40 years of high tension, the USSR pulled back in the last years of Reagan's second term. In 1989 the Kremlin lost control of all its East European satellites. In 1991, Communism was overthrown in the USSR, and on December 26, 1991, the Soviet Union ceased to exist. The resulting states were no threat to the U.S. Reagan's exact role is debated, with many believing that Reagan's defense policies, economic policies, military policies and hard line rhetoric against the Soviet Union and Communism, as well as summits with General Secretary Gorbachev played a significant part in ending the Cold War.[430][431]
 
-Reagan_and_Gorbachev_hold_discussions.jpg, 1985]]
+, 1985]]
 
 He was the first president to reject containment and détente and to put into practice the concept that the Soviet Union could be defeated rather than simply negotiated with, a post-Détente strategy,[432] a conviction that was vindicated by Gennadi Gerasimov, the Foreign Ministry spokesman under Gorbachev, who said that the Strategic Defense Initiative was "very successful blackmail. ...The Soviet economy couldn't endure such competition."[433] Reagan's aggressive rhetoric toward the USSR had mixed effects; Jeffery W. Knopf observes that being labeled "evil" probably made no difference to the Soviets but gave encouragement to the East-European citizens opposed to communism.[434]
 
 General Secretary Gorbachev said of his former rival's Cold War role: "[He was] a man who was instrumental in bringing about the end of the Cold War,"[435] and deemed him "a great president."[436] Gorbachev does not acknowledge a win or loss in the war, but rather a peaceful end; he said he was not intimidated by Reagan's harsh rhetoric.[437] Margaret Thatcher, former Prime Minister of the United Kingdom, said of Reagan, "he warned that the Soviet Union had an insatiable drive for military power... but he also sensed it was being eaten away by systemic failures impossible to reform."[438] She later said, "Ronald Reagan had a higher claim than any other leader to have won the Cold War for liberty and he did it without a shot being fired."[439] Said Brian Mulroney, former Prime Minister of Canada: "He enters history as a strong and dramatic player ."[440] Former President Lech Wałęsa of Poland acknowledged, "Reagan was one of the world leaders who made a major contribution to communism's collapse."[441] That Reagan had little or no effect in ending the Cold War is argued with equal weight; that Communism's internal weakness had become apparent, and the Soviet Union would have collapsed in the end regardless of who was in power.[442] President Harry S. Truman's policy of containment is also regarded as a force behind the fall of the USSR, and the Soviet invasion of Afghanistan undermined the Soviet system itself.[443]
 
 Domestic and political legacy
-
-President_Reagan_speaking_in_Minneapolis_1982.jpg
 
 Reagan reshaped the Republican party, led the modern conservative movement, and altered the political dynamic of the United States.[444] More men voted Republican under Reagan, and Reagan tapped into religious voters.[445] The so-called "Reagan Democrats" were a result of his presidency.[446] When Reagan left office in 1989, he held an approval rating of 68%. This figure equaled the aproval rating of Franklin D. Roosevelt (and was later matched by Bill Clinton), as the highest rating for a departing president in the modern era.[447]
 
@@ -439,7 +427,7 @@ According to columnist Chuck Raasch, "Reagan transformed the American presidency
 
 Reagan's popularity has increased since 1989. Gallup polls in 2001 and 2007 ranked him number one or number two when correspondents were asked for the greatest president in history. Reagan ranked third of post–World War II presidents in a 2007 Rasmussen Reports poll, fifth in an ABC 2000 poll, ninth in another 2007 Rasmussen poll, and eighth in a late 2008 poll by British newspaper _The Times_.[463][464][465] In a Siena College survey of over 200 historians, however, Reagan ranked sixteenth out of 42.[466][467] While the debate about Reagan's legacy is ongoing, the 2009 Annual _C-SPAN Survey of Presidential Leaders_ ranked Reagan the 10th greatest president. The survey of leading historians rated Reagan number 11 in 2000.[468]
 
-Gallup_Poll-Approval_Rating-Ronald_Reagan.png for President Reagan (Gallup)]]
+for President Reagan (Gallup)]]
 
 In 2011, the Institute for the Study of the Americas released the first ever British academic survey to rate U.S. presidents. This poll of British specialists in U.S. history and politics placed Reagan as the eighth greatest U.S. president.[469]
 
@@ -449,7 +437,7 @@ Reagan also earned the nickname "the Teflon President," in that public perceptio
 
 Public reaction to Reagan was always mixed. He was the oldest president up to that time and was supported by young voters, who began an alliance that shifted many of them to the Republican party.[480] Reagan did not fare well with minority groups, especially African-Americans. However, his support of Israel throughout his presidency earned him support from many Jews.[481] He emphasized family values in his campaigns and during his presidency, although he was the first president to have been divorced.[482] The combination of Reagan's speaking style, unabashed patriotism, negotiation skills, as well as his savvy use of the media, played an important role in defining the 1980s and his future legacy.[483]
 
-MuhammadAliundRonaldReagan.jpg in the Oval Office, 1983]]
+in the Oval Office, 1983]]
 
 Reagan was known to joke frequently during his lifetime, displayed humor throughout his presidency,[484] and was famous for his storytelling.[485] His numerous jokes and one-liners have been labeled "classic quips" and "legendary."[486] Among the most notable of his jokes was one regarding the Cold War. As a microphone test in preparation for his weekly radio address in August 1984, Reagan made the following joke: "My fellow Americans, I'm pleased to tell you today that I've signed legislation that will outlaw Russia forever. We begin bombing in five minutes."[487] Former aide David Gergen commented, "It was that humor... that I think endeared people to Reagan."[488]
 
@@ -461,7 +449,7 @@ Reagan received a number of awards in his pre- and post-presidential years. Afte
 
 In 1981, Reagan was inducted as a Laureate of The Lincoln Academy of Illinois and awarded the Order of Lincoln (the state's highest honor) by the Governor of Illinois in the area of Government.[495] In 1983, he received the highest distinction of the Scout Association of Japan, the Golden Pheasant Award.[496] In 1989, Reagan was made an Honorary Knight Grand Cross of the Order of the Bath, one of the highest British orders (this entitled him to the use of the post-nominal letters "GCB" but, as a foreign national, not to be known as "Sir Ronald Reagan"); only two U.S. presidents have received this honor since attaining office, Reagan and George H. W. Bush,[497] while Dwight D. Eisenhower received his before becoming President in his capacity as a general after World War II. Reagan was also named an honorary Fellow of Keble College, Oxford. Japan awarded him the Grand Cordon of the Order of the Chrysanthemum in 1989; he was the second U.S. president to receive the order and the first to have it given to him for personal reasons (Dwight D. Eisenhower received it as a commemoration of U.S.-Japanese relations).[498] In 1990, Reagan was awarded the WPPAC's Top Honor Prize because he signed the Intermediate-Range Nuclear Forces Treaty with H.E. Mikhail Sergeyevich Gorbachev (then President of Russia), ending the cold war.[499][500]
 
-GHW_Bush_presents_Reagan_Presidential_Medal_of_Freedom_1993.jpg from President Bush, 1993]]
+from President Bush, 1993]]
 
 On January 18, 1993, Reagan received the Presidential Medal of Freedom (awarded with distinction), the highest honor that the United States can bestow, from President George H. W. Bush, his Vice President and successor.[501] Reagan was also awarded the Republican Senatorial Medal of Freedom, the highest honor bestowed by Republican members of the Senate.[502]
 

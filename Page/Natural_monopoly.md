@@ -1,4 +1,4 @@
-NIGU_transmision_line_near_Te_Kauwhata.JPG is a natural monopoly. Due to large fixed costs and a small market size, one seller can serve the entire market at the downward-sloping section of its average cost curve.]]
+is a natural monopoly. Due to large fixed costs and a small market size, one seller can serve the entire market at the downward-sloping section of its average cost curve.]]
 
 A NATURAL MONOPOLY is a monopoly in an industry in which high infrastructural costs and other barriers to entry relative to the size of the market give the largest supplier in an industry, often the first supplier in a market, an overwhelming advantage over potential competitors. This frequently occurs in industries where capital costs predominate, creating economies of scale that are large in relation to the size of the market; examples include public utilities such as water services and electricity.[1] Natural monopolies were discussed as a potential source of market failure by John Stuart Mill, who advocated government regulation to make them serve the public good.
 
@@ -6,8 +6,6 @@ A NATURAL MONOPOLY is a monopoly in an industry in which high infrastructural co
 Definition
 
 Two different types of cost are important in microeconomics: MARGINAL COST, and FIXED COST. The marginal cost is the cost to the company of serving one more customer. In an industry where a natural monopoly does not exist, the vast majority of industries, the marginal cost decreases with economies of scale, then increases as the company has growing pains (overworking its employees, bureaucracy, inefficiencies, etc.). Along with this, the average cost of its products decreases and increases. A natural monopoly has a very different cost structure. A natural monopoly has a high fixed cost for a product that does not depend on output, but its marginal cost of producing one more good is roughly constant, and small.
-
-Natural_monopoly.jpg
 
 All industries have costs associated with entering them. Often, a large portion of these costs is required for investment. Larger industries, like utilities, require enormous initial investment. This barrier to entry reduces the number of possible entrants into the industry regardless of the earning of the corporations within. Natural monopolies arise where the largest supplier in an industry, often the first supplier in a market, has an overwhelming cost advantage over other actual or potential competitors; this tends to be the case in industries where fixed costs predominate, creating economies of scale that are large in relation to the size of the market, as is the case in water and electricity services. The fixed cost of constructing a competing transmission network is so high, and the marginal cost of transmission for the incumbent so low, that it effectively bars potential competitors from the monopolist's market, acting as a nearly insurmountable barrier to entry into the market place.
 

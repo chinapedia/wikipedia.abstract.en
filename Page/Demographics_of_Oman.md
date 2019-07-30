@@ -9,7 +9,7 @@ Nine private colleges exist, providing two-year post secondary diplomas. Since 1
 
 Population
 
-Oman_demographie.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 Census results[1]
 
@@ -175,7 +175,7 @@ Because of the combination of a relatively small Omani population and a fast-gro
 
 CIA World Factbook demographic statistics
 
-Bevölkerungspyramide_Oman_2016.png The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.[12]
+The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.[12]
 
 AGE STRUCTURE
 

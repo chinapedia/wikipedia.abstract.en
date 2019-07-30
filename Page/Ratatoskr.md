@@ -1,4 +1,4 @@
-AM_738_4to_Ratatoskr.png In Norse mythology, RATATOSKR (Old Norse, generally considered to mean "drill-tooth"[1] or "bore-tooth"[2]) is a squirrel who runs up and down the world tree Yggdrasil to carry messages between the eagle perched atop Yggdrasil, and the serpent Níðhöggr, who dwells beneath one of the three roots of the tree. Ratatoskr is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson.
+In Norse mythology, RATATOSKR (Old Norse, generally considered to mean "drill-tooth"[1] or "bore-tooth"[2]) is a squirrel who runs up and down the world tree Yggdrasil to carry messages between the eagle perched atop Yggdrasil, and the serpent Níðhöggr, who dwells beneath one of the three roots of the tree. Ratatoskr is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson.
 
 
 Etymology
@@ -14,7 +14,7 @@ Sturtevant says that Bugge's theory regarding the element _-toskr_ may appear to
 
 Attestations
 
-Ekorn.jpg in an evergreen tree in Norway]] In the _Poetic Edda_ poem _Grímnismál_, the god Odin (disguised as _Grímnir_) says that Ratatoskr runs up and down Yggdrasil bringing messages between the eagle perched atop it and Níðhöggr below it:
+in an evergreen tree in Norway]] In the _Poetic Edda_ poem _Grímnismál_, the god Odin (disguised as _Grímnir_) says that Ratatoskr runs up and down Yggdrasil bringing messages between the eagle perched atop it and Níðhöggr below it:
 
   +-------------------------------------------------+--------------------------------------------------+--+
   |     Benjamin Thorpe translation:                |     Henry Adams Bellows translation:             |  |

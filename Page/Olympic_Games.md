@@ -1,4 +1,4 @@
-Olympic_rings_without_rims.svg]] The modern OLYMPIC GAMES or OLYMPICS ([1][2]) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating.[3] The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.
+]] The modern OLYMPIC GAMES or OLYMPICS ([1][2]) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating.[3] The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.
 
 Their creation was inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first modern Games in Athens in 1896. The IOC is the governing body of the Olympic Movement, with the Olympic Charter defining its structure and authority.
 
@@ -11,7 +11,7 @@ The Games have grown so much that nearly every nation is now represented. This g
 
 Ancient Olympics
 
-Olympia-stadion.jpg]]
+]]
 
 The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce. This idea is a modern myth because the Greeks never suspended their wars. The truce did allow those religious pilgrims who were travelling to Olympia to pass through warring territories unmolested because they were protected by Zeus.[5] The origin of the Olympics is shrouded in mystery and legend; one of the most popular myths identifies Heracles and his father Zeus as the progenitors of the Games.[6] According to legend, it was Heracles who first called the Games "Olympic" and established the custom of holding them every four years.[7] The myth continues that after Heracles completed his twelve labours, he built the Olympic Stadium as an honour to Zeus. Following its completion, he walked in a straight line for 200 steps and called this distance a "stadion" (, Latin: _stadium_, "stage"), which later became a unit of distance. The most widely accepted inception date for the Ancient Olympics is 776 BC; this is based on inscriptions, found at Olympia, listing the winners of a footrace held every four years starting in 776 BC.[8] The Ancient Games featured running events, a pentathlon (consisting of a jumping event, discus and javelin throws, a foot race, and wrestling), boxing, wrestling, pankration, and equestrian events.[9] Tradition has it that Coroebus, a cook from the city of Elis, was the first Olympic champion.
 
@@ -24,7 +24,7 @@ Modern Games
 
 Forerunners
 
-Baron_Pierre_de_Coubertin.jpg]]
+]]
 
 Various uses of the term "Olympic" to describe athletic events in the modern era have been documented since the 17th century. The first such event was the Cotswold Games or "Cotswold Olimpick Games", an annual meeting near Chipping Campden, England, involving various sports. It was first organised by the lawyer Robert Dover between 1612 and 1642, with several later celebrations leading up to the present day. The British Olympic Association, in its bid for the 2012 Olympic Games in London, mentioned these games as "the first stirrings of Britain's Olympic beginnings".[12]
 
@@ -38,13 +38,13 @@ Between 1862 and 1867, Liverpool held an annual Grand Olympic Festival. Devised 
 
 Revival
 
-Evangelos_Zappas.jpg]] Greek interest in reviving the Olympic Games began with the Greek War of Independence from the Ottoman Empire in 1821. It was first proposed by poet and newspaper editor Panagiotis Soutsos in his poem "Dialogue of the Dead", published in 1833. Evangelos Zappas, a wealthy Greek-Romanian philanthropist, first wrote to King Otto of Greece, in 1856, offering to fund a permanent revival of the Olympic Games. Zappas sponsored the first Olympic Games in 1859, which was held in an Athens city square. Athletes participated from Greece and the Ottoman Empire. Zappas funded the restoration of the ancient Panathenaic Stadium so that it could host all future Olympic Games.
+]] Greek interest in reviving the Olympic Games began with the Greek War of Independence from the Ottoman Empire in 1821. It was first proposed by poet and newspaper editor Panagiotis Soutsos in his poem "Dialogue of the Dead", published in 1833. Evangelos Zappas, a wealthy Greek-Romanian philanthropist, first wrote to King Otto of Greece, in 1856, offering to fund a permanent revival of the Olympic Games. Zappas sponsored the first Olympic Games in 1859, which was held in an Athens city square. Athletes participated from Greece and the Ottoman Empire. Zappas funded the restoration of the ancient Panathenaic Stadium so that it could host all future Olympic Games.
 
 The stadium hosted Olympics in 1870 and 1875. Thirty thousand spectators attended that Games in 1870, though no official attendance records are available for the 1875 Games. In 1890, after attending the Olympian Games of the Wenlock Olympian Society, Baron Pierre de Coubertin was inspired to found the International Olympic Committee (IOC).[17] Coubertin built on the ideas and work of Brookes and Zappas with the aim of establishing internationally rotating Olympic Games that would occur every four years.[18] He presented these ideas during the first Olympic Congress of the newly created International Olympic Committee. This meeting was held from 16 to 23 June 1894, at the University of Paris. On the last day of the Congress, it was decided that the first Olympic Games to come under the auspices of the IOC would take place in Athens in 1896. The IOC elected the Greek writer Demetrius Vikelas as its first president.
 
 1896 Games
 
-1896_Olympic_opening_ceremony.jpg]]
+]]
 
 The first Games held under the auspices of the IOC was hosted in the Panathenaic Stadium in Athens in 1896. The Games brought together 14 nations and 241 athletes who competed in 43 events.[19] Zappas and his cousin Konstantinos Zappas had left the Greek government a trust to fund future Olympic Games. This trust was used to help finance the 1896 Games.[20][21] George Averoff contributed generously for the refurbishment of the stadium in preparation for the Games. The Greek government also provided funding, which was expected to be recouped through the sale of tickets and from the sale of the first Olympic commemorative stamp set.
 
@@ -62,7 +62,7 @@ The Winter Olympics was created to feature snow and ice sports that were logisti
 
 Paralympics
 
-031164_-_Tokyo_opening_ceremony_-7_-_1a_-_adjusted.jpg in Tokyo]] In 1948, Sir Ludwig Guttmann, determined to promote the rehabilitation of soldiers after World War II, organised a multi-sport event between several hospitals to coincide with the 1948 London Olympics. Guttmann's event, known then as the Stoke Mandeville Games, became an annual sports festival. Over the next twelve years, Guttmann and others continued their efforts to use sports as an avenue to healing. For the 1960 Olympic Games in Rome, Guttmann brought 400 athletes to compete in the "Parallel Olympics", which became known as the first Paralympics. Since then, the Paralympics have been held in every Olympic year. Since the 1988 Summer Olympics in Seoul, South Korea, the host city for the Olympics has also played host to the Paralympics.[27] In 2001 the International Olympic Committee (IOC) and the International Paralympic Committee (IPC) signed an agreement guaranteeing that host cities would be contracted to manage both the Olympic and Paralympic Games.[28][29] The agreement came into effect at the 2008 Summer Games in Beijing, and the 2010 Winter Games in Vancouver. Chairman of the London organising committee, Lord Coe, said about the 2012 Summer Paralympics and Olympics in London that,
+in Tokyo]] In 1948, Sir Ludwig Guttmann, determined to promote the rehabilitation of soldiers after World War II, organised a multi-sport event between several hospitals to coincide with the 1948 London Olympics. Guttmann's event, known then as the Stoke Mandeville Games, became an annual sports festival. Over the next twelve years, Guttmann and others continued their efforts to use sports as an avenue to healing. For the 1960 Olympic Games in Rome, Guttmann brought 400 athletes to compete in the "Parallel Olympics", which became known as the first Paralympics. Since then, the Paralympics have been held in every Olympic year. Since the 1988 Summer Olympics in Seoul, South Korea, the host city for the Olympics has also played host to the Paralympics.[27] In 2001 the International Olympic Committee (IOC) and the International Paralympic Committee (IPC) signed an agreement guaranteeing that host cities would be contracted to manage both the Olympic and Paralympic Games.[28][29] The agreement came into effect at the 2008 Summer Games in Beijing, and the 2010 Winter Games in Vancouver. Chairman of the London organising committee, Lord Coe, said about the 2012 Summer Paralympics and Olympics in London that,
 
 Youth Games
 
@@ -93,7 +93,7 @@ The Games have also had significant negative effects on host communities; for ex
 
 International Olympic Committee
 
-Siege_cio.jpg]]
+]]
 
 The Olympic Movement encompasses a large number of national and international sporting organisations and federations, recognised media partners, as well as athletes, officials, judges, and every other person and institution that agrees to abide by the rules of the Olympic Charter.[61] As the umbrella organisation of the Olympic Movement, the International Olympic Committee (IOC) is responsible for selecting the host city, overseeing the planning of the Olympic Games, updating and approving the sports program, and negotiating sponsorship and broadcasting rights.[62]
 
@@ -136,7 +136,7 @@ The 1984 Summer Olympics became a watershed moment in Olympic history. The Los A
 
 Effect of television
 
-Olympic_Final_2000_(1936_cartoon).jpg imagines the year 2000 when spectators will have been replaced by television and radio, their cheers coming from loudspeakers.]]
+imagines the year 2000 when spectators will have been replaced by television and radio, their cheers coming from loudspeakers.]]
 
 The 1936 Summer Olympics in Berlin were the first Games to be broadcast on television, though only to local audiences.[88] The 1956 Winter Olympics were the first internationally televised Olympic Games,[89] and the following Winter Games had their broadcasting rights sold for the first time to specialised television broadcasting networks—CBS paid US$394,000 for the American rights.[90] In the following decades the Olympics became one of the ideological fronts of the Cold War, and the IOC wanted to take advantage of this heightened interest via the broadcast medium. The sale of broadcast rights enabled the IOC to increase the exposure of the Olympic Games, thereby generating more interest, which in turn created more appeal to advertisers time on television. This cycle allowed the IOC to charge ever-increasing fees for those rights. For example, CBS paid US$375 million for the American broadcast rights of the 1998 Nagano Games, while NBC spent US$3.5 billion for the American rights of all the Olympic Games from 2000 to 2012.[91] In 2011, NBC agreed to a $4.38 billion contract with the International Olympic Committee to broadcast the Olympics through the 2020 games, the most expensive television rights deal in Olympic history.[92] NBC then agreed to a $7.75 billion contract extension on May 7, 2014, to air the Olympics through the 2032 games.[93] NBC also acquired the American television rights to the Youth Olympic Games, beginning in 2014,[94] and the Paralympic Games.[95] More than half of the Olympic Committee's global sponsors are American companies,[96] and NBC is one of the major sources of revenue for the IOC.[97]
 
@@ -149,7 +149,7 @@ The sale of the Olympic brand has been controversial. The argument is that the G
 
 Symbols
 
-Olympic-flag-Victoria.jpg]]
+]]
 
 The Olympic Movement uses symbols to represent the ideals embodied in the Olympic Charter. The Olympic symbol, better known as the Olympic rings, consists of five intertwined rings and represents the unity of the five inhabited continents (Africa, the Americas (when considered one continent), Asia, Europe, and Oceania). The coloured version of the rings—blue, yellow, black, green, and red—over a white field forms the Olympic flag. These colours were chosen because every nation had at least one of them on its national flag. The flag was adopted in 1914 but flown for the first time only at the 1920 Summer Olympics in Antwerp, Belgium. It has since been hoisted during each celebration of the Games.[105][106]
 
@@ -166,7 +166,7 @@ Ceremonies
 
 Opening
 
-2012_Summer_Olympics_opening_ceremony_(15).jpg in London]]
+in London]]
 
 As mandated by the Olympic Charter, various elements frame the opening ceremony of the Olympic Games. This ceremony takes place before the events have occurred.[112][113] Most of these rituals were established at the 1920 Summer Olympics in Antwerp.[114] The ceremony typically starts with the entrance of the president of the host country followed by the hoisting of the host country's flag and a performance of its national anthem.[115][116] The host nation then presents artistic displays of music, singing, dance, and theatre representative of its culture.[117] The artistic presentations have grown in scale and complexity as successive hosts attempt to provide a ceremony that outlasts its predecessor's in terms of memorability. The opening ceremony of the Beijing Games reportedly cost $100 million, with much of the cost incurred in the artistic segment.[118]
 
@@ -174,7 +174,7 @@ After the artistic portion of the ceremony, the athletes parade into the stadium
 
 Closing
 
-Birdsclosing.jpg in Beijing.]]
+in Beijing.]]
 
 The closing ceremony of the Olympic Games takes place after all sporting events have concluded. Flag-bearers from each participating country enter the stadium, followed by the athletes who enter together, without any national distinction.[121] Three national flags are hoisted while the corresponding national anthems are played: the flag of the current host country; the flag of Greece, to honour the birthplace of the Olympic Games; and the flag of the country hosting the next Summer or Winter Olympic Games.[122] The president of the organising committee and the IOC president make their closing speeches, the Games are officially closed, and the Olympic flame is extinguished.[123] In what is known as the Antwerp Ceremony, the mayor of the city that organised the Games transfers a special Olympic flag to the president of the IOC, who then passes it on to the mayor of the city hosting the next Olympic Games.[124] The next host nation then also briefly introduces itself with artistic displays of dance and theatre representative of its culture.[125]
 
@@ -182,7 +182,7 @@ As is customary, the last medal presentation of the Games is held as part of the
 
 Medal presentation
 
-CyclingTeamPursuitBeijing2008.jpg, the Union Jack of the United Kingdom, and the New Zealand flag from left to right during the 2008 Summer Olympics]]
+, the Union Jack of the United Kingdom, and the New Zealand flag from left to right during the 2008 Summer Olympics]]
 
 A medal ceremony is held after each Olympic event is concluded. The winner, second and third-place competitors or teams stand on top of a three-tiered rostrum to be awarded their respective medals.[129] After the medals are given out by an IOC member, the national flags of the three medallists are raised while the national anthem of the gold medallist's country plays.[130] Volunteering citizens of the host country also act as hosts during the medal ceremonies, as they aid the officials who present the medals and act as flag-bearers.[131] While in the Summer Olympics this ceremony is held on the ground where the event is played,[132] in the Winter Games it is usually held in a special "plaza".[133]
 
@@ -199,7 +199,7 @@ The 114th IOC Session, in 2002, limited the Summer Games programme to a maximum 
 
 Amateurism and professionalism
 
-Nagano_1998-Russia_vs_Czech_Republic.jpg players were allowed to participate in ice hockey starting in 1998 (_1998 Gold medal game between Russia and the Czech Republic pictured_).]]
+players were allowed to participate in ice hockey starting in 1998 (_1998 Gold medal game between Russia and the Czech Republic pictured_).]]
 
 The ethos of the aristocracy as exemplified in the English public school greatly influenced Pierre de Coubertin. The public schools subscribed to the belief that sport formed an important part of education, an attitude summed up in the saying _mens sana in corpore sano_, a sound mind in a sound body. In this ethos, a gentleman was one who became an all-rounder, not the best at one specific thing. There was also a prevailing concept of fairness, in which practising or training was considered tantamount to cheating. Those who practised a sport professionally were considered to have an unfair advantage over those who practised it merely as a hobby.
 
@@ -216,8 +216,6 @@ Controversies
 
 Boycotts
 
-1956_Summer_Olympics_(Melbourne)_boycotting_countries_(blue).png 1964_Summer_Olympics_(Tokyo)_boycotting_countries_(red).png 1976_Summer_Olympics_(Montréal)_boycotting_countries_(blue).png 1980_Summer_Olympics_(Moscow)_boycotting_countries_(blue).png 1984_Summer_Olympics_(Los_Angeles)_boycotting_countries_(blue).png 1988_Summer_Olympics_Seoul_boycotting_countries_blue.png
-
 Greece, Australia, France, and United Kingdom are the only countries to be represented at every Olympic Games since their inception in 1896. While countries sometimes miss an Olympics due to a lack of qualified athletes, some choose to boycott a celebration of the Games for various reasons. The Olympic Council of Ireland boycotted the 1936 Berlin Games, because the IOC insisted its team needed to be restricted to the Irish Free State rather than representing the entire island of Ireland.
 
 There were three boycotts of the 1956 Melbourne Olympics: the Netherlands, Spain, and Switzerland refused to attend because of the repression of the Hungarian uprising by the Soviet Union, but did send an equestrian delegation to Stockholm; Cambodia, Egypt, Iraq, and Lebanon boycotted the Games because of the Suez Crisis; and China (the "People's Republic of China") boycotted the Games because Taiwan was allowed to compete in the Games as the "Republic of China".[160]
@@ -232,7 +230,7 @@ There had been growing calls for boycotts of Chinese goods and the 2008 Olympics
 
 Politics
 
-Bundesarchiv_Bild_183-G00630,_Sommerolympiade,_Siegerehrung_Weitsprung.jpg]]
+]]
 
 The Olympic Games have been used as a platform to promote political ideologies almost from its inception. Nazi Germany wished to portray the National Socialist Party as benevolent and peace-loving when they hosted the 1936 Games, though they used the Games to display Aryan superiority. Germany was the most successful nation at the Games, which did much to support their allegations of Aryan supremacy, but notable victories by African American Jesse Owens, who won four gold medals, and Hungarian Jew Ibolya Csák, blunted the message. The Soviet Union did not participate until the 1952 Summer Olympics in Helsinki. Instead, starting in 1928, the Soviets organised an international sports event called Spartakiads. During the interwar period of the 1920s and 1930s, communist and socialist organisations in several countries, including the United States, attempted to counter what they called the "bourgeois" Olympics with the Workers Olympics.[175] It was not until the 1956 Summer Games that the Soviets emerged as a sporting superpower and, in doing so, took full advantage of the publicity that came with winning at the Olympics.[176] Soviet Union's success might be attributed to a heavy state's investment in sports to fulfill its political agenda on an international stage.[177][178][179]
 
@@ -242,7 +240,7 @@ Currently, the government of Iran has taken steps to avoid any competition betwe
 
 Use of performance-enhancing drugs
 
-Marathon_Hicks1904.jpg running the marathon at the 1904 Summer Olympics]] In the early 20th century, many Olympic athletes began using drugs to improve their athletic abilities. For example, in 1904, Thomas Hicks, a gold medallist in the marathon, was given strychnine by his coach (at the time, taking different substances was allowed, as there was no data regarding the effect of these substances on a body of an athlete).[182] The only Olympic death linked to performance enhancing occurred at the 1960 Rome games. A Danish cyclist, Knud Enemark Jensen, fell from his bicycle and later died. A coroner's inquiry found that he was under the influence of amphetamines.[183] By the mid-1960s, sports federations started to ban the use of performance-enhancing drugs; in 1967 the IOC followed suit.[184]
+running the marathon at the 1904 Summer Olympics]] In the early 20th century, many Olympic athletes began using drugs to improve their athletic abilities. For example, in 1904, Thomas Hicks, a gold medallist in the marathon, was given strychnine by his coach (at the time, taking different substances was allowed, as there was no data regarding the effect of these substances on a body of an athlete).[182] The only Olympic death linked to performance enhancing occurred at the 1960 Rome games. A Danish cyclist, Knud Enemark Jensen, fell from his bicycle and later died. A coroner's inquiry found that he was under the influence of amphetamines.[183] By the mid-1960s, sports federations started to ban the use of performance-enhancing drugs; in 1967 the IOC followed suit.[184]
 
 According to British journalist Andrew Jennings, a KGB colonel stated that the agency's officers had posed as anti-doping authorities from the International Olympic Committee to undermine doping tests and that Soviet athletes were "rescued with [these] tremendous efforts".[185] On the topic of the 1980 Summer Olympics, a 1989 Australian study said "There is hardly a medal winner at the Moscow Games, certainly not a gold medal winner, who is not on one sort of drug or another: usually several kinds. The Moscow Games might as well have been called the Chemists' Games."[186]
 
@@ -258,7 +256,7 @@ Doping in Russian sports has a systemic nature. Russia has had 41 Olympic medals
 
 Sex discrimination
 
-Charlotte_Cooper.jpg of the United Kingdom, first woman Olympic champion, in the 1900 Games]]
+of the United Kingdom, first woman Olympic champion, in the 1900 Games]]
 
 Women were first allowed to compete at the 1900 Summer Olympics in Paris, but at the 1992 Summer Olympics 35 countries were still only fielding all-male delegations.[200] This number dropped rapidly over the following years. In 2000, Bahrain sent two women competitors for the first time: Fatema Hameed Gerashi and Mariam Mohamed Hadi Al Hilli.[201] In 2004, Robina Muqimyar and Fariba Rezayee became the first women to compete for Afghanistan at the Olympics.[202] In 2008, the United Arab Emirates sent female athletes (Maitha Al Maktoum competed in taekwondo, and Latifa Al Maktoum in equestrian) to the Olympic Games for the first time. Both athletes were from Dubai's ruling family.[203]
 
@@ -318,8 +316,6 @@ Nations at the Winter Olympics
 A total of 119 NOCs (110 of the current 206 NOCs and nine obsolete NOCs) have participated in at least one Winter Games, and athletes from fourteen nations (Austria, Canada, Czech Republic, Finland, France, Great Britain, Hungary, Italy, Norway, Poland, Slovakia, Sweden, Switzerland, and the United States) have participated in all twenty-three Winter Games to date.
 
 Host nations and cities
-
-Summer_olympics_all_cities.PNG Winter_olympics_all_cities.PNG
 
 The host city for an Olympic Games is usually chosen seven to eight years ahead of their celebration.[228] The process of selection is carried out in two phases that span a two-year period. The prospective host city applies to its country's National Olympic Committee; if more than one city from the same country submits a proposal to its NOC, the national committee typically holds an internal selection, since only one city per NOC can be presented to the International Olympic Committee for consideration. Once the deadline for submission of proposals by the NOCs is reached, the first phase (Application) begins with the applicant cities asked to complete a questionnaire regarding several key criteria related to the organisation of the Olympic Games.[229] In this form, the applicants must give assurances that they will comply with the Olympic Charter and with any other regulations established by the IOC Executive Committee.[230] The evaluation of the filled questionnaires by a specialised group provides the IOC with an overview of each applicant's project and their potential to host the Games. On the basis of this technical evaluation, the IOC Executive Board selects the applicants that will proceed to the candidature stage.[231]
 

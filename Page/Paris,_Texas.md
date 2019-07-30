@@ -7,8 +7,6 @@ History
 
 Present-day Lamar County was part of Red River County during the Republic of Texas. By 1840, population growth necessitated the organization of a new county. George Washington Wright, who had served in the Third Congress of the Republic of Texas as a representative from Red River County, was a major proponent of the new county. The Fifth Congress established the new county on December 17, 1840, and named it after Mirabeau B. Lamar,[2] who was the first Vice President and the second President of the Republic of Texas.
 
-Old_map-Paris-1885.jpg
-
 Lamar County was one of the 18 Texas counties that voted against secession on February 23, 1861.[3]
 
 In 1877, 1896, and 1916, major fires in the city forced considerable rebuilding. The 1916 fire destroyed almost half the town and caused an estimated $11 million in property damage. The fire ruined most of the central business district and swept through a residential area. The burned structures included the Federal Building and Post Office, the Lamar County Courthouse and Jail, City Hall, most commercial buildings, and several churches.[4]
@@ -19,11 +17,11 @@ In 1943, the U.S. Supreme Court in _Largent v. Texas_ struck down a Paris ordina
 
 Transportation
 
-Union_Station_Paris_Texas_(trackside_view).png, Santa Fe, and Texas Midland passenger trains]] Paris has long been a railroad center. The Texas and Pacific reached town in 1876; the Gulf, Colorado and Santa Fe Railway (later merged into the Atchison, Topeka and Santa Fe Railway) and the Frisco in 1887; the Texas Midland Railroad (later Southern Pacific) in 1894; and the Paris and Mount Pleasant (Pa-Ma Line) in 1910. Paris Union Station, built 1912, served Frisco], Santa Fe, and Texas Midland passenger trains until 1956. Today, the station is used by the Lamar County Chamber of Commerce and serves as the research library for the Lamar County Genealogical Society.[8]
+, Santa Fe, and Texas Midland passenger trains]] Paris has long been a railroad center. The Texas and Pacific reached town in 1876; the Gulf, Colorado and Santa Fe Railway (later merged into the Atchison, Topeka and Santa Fe Railway) and the Frisco in 1887; the Texas Midland Railroad (later Southern Pacific) in 1894; and the Paris and Mount Pleasant (Pa-Ma Line) in 1910. Paris Union Station, built 1912, served Frisco], Santa Fe, and Texas Midland passenger trains until 1956. Today, the station is used by the Lamar County Chamber of Commerce and serves as the research library for the Lamar County Genealogical Society.[8]
 
 Historical residences
 
-Paris_July_2015_56_(Sam_Bell_Maxey_House).jpg in July 2015]]
+in July 2015]]
 
 The city is home to several late-19th to mid-20th century stately homes. Among these is the Rufus Fenner Scott Mansion, designed by German architect J.L. Wees and constructed in 1910. The structure is solid concrete and steel with four floors. Rufus Scott was a prominent businessman known for shipping, imports, and banking. He was well known by local farmers, who bought aging transport mules from him. The Scott Mansion narrowly survived the fire of 1916. After the fire, Scott brought the architect Wees back to Paris to redesign the historic downtown area.[9]
 
@@ -52,11 +50,11 @@ Paris is served by KXII; the low-power translator station KXIP-LD (channel 12) i
 
 Race relations
 
-Henry-smith-2-1-1893-paris-tx-2.jpg Paris is deeply segregated[12] and race relations in Paris have a bloody history[13] and are deeply polarized,[14] turbulent,[15] and sometimes explosive.[16]
+Paris is deeply segregated[12] and race relations in Paris have a bloody history[13] and are deeply polarized,[14] turbulent,[15] and sometimes explosive.[16]
 
 In the late-19th and early-20th centuries, several lynchings were staged at the Paris Fairgrounds as public spectacles, with thousands of white spectators cheering as the victims were tortured and then immolated, dismembered, or otherwise murdered.[17][18] Among the victims was Henry Smith, a teenager lynched in 1893.
 
-1cherryandblackwell.jpg speaking at the rally for Brandon McClelland, 2009]] About 115 years later, in 2008, an African-American man, Brandon McClelland, was run over and dragged to death under a vehicle. Two white men were arrested, but the prosecutor cited lack of evidence and declined to press charges, and no serious subsequent attempt to find other perpetrators was made. This caused unrest in the Paris African-American community.
+speaking at the rally for Brandon McClelland, 2009]] About 115 years later, in 2008, an African-American man, Brandon McClelland, was run over and dragged to death under a vehicle. Two white men were arrested, but the prosecutor cited lack of evidence and declined to press charges, and no serious subsequent attempt to find other perpetrators was made. This caused unrest in the Paris African-American community.
 
 Following this incident, an attempt by the United States Department of Justice Justice Community Relations Service to initiate a dialog between the races in the town[19] ended in failure when African-American complaints were mostly met by silent glares.[20]
 
@@ -124,8 +122,6 @@ _Note: PRMC is Paris Regional Medical Center._
 
 Education
 
-Paris_July_2015_20_(Paris_Public_Library).jpg
-
 Elementary and secondary education is split among three main school districts:
 
 -   Paris Independent School District
@@ -142,8 +138,6 @@ The Paris Public Library serves Paris, as does the Lamar County Genealogical Soc
 
 
 Government
-
-Paris_July_2015_25_(City_Hall).jpg
 
 It is governed by a city council as specified in the city's charter adopted in 1948.
 
@@ -162,14 +156,12 @@ The United States Postal Service operates the Paris Post Office.[38]
 
 Transportation
 
-Paristrains.jpg
-
 Major highways
 
--   US_82.svg U.S. Highway 82
--   US_271.svg U.S. Highway 271
--   Texas_19.svg Texas_24.svg State Highway 19/State Highway 24
--   Texas_Loop_286.svg State Highway Loop 286
+-   U.S. Highway 82
+-   U.S. Highway 271
+-   State Highway 19/State Highway 24
+-   State Highway Loop 286
 
 According to the Texas Transportation Commission, Paris is the second-largest city in Texas without a four-lane divided highway connecting to an interstate highway within the state. However, those traveling north of the city can go into the Midwest on a four-lane thoroughfare via US 271 across the Red River into Oklahoma, and then the Indian Nation Turnpike from Hugo to Interstate 40 at Henryetta, which in turn continues as a free four-lane highway via US 75 to Tulsa.
 
@@ -177,8 +169,6 @@ Paris is served by two taxicab companies. Cox Field provides general aviation se
 
 
 Attractions
-
-Culbertson_fountain_2010.jpg Paris_Texas_Eiffel.jpg
 
 -   Pat Mayse Lake
 -   Beaver's Bend Resort Park (Oklahoma)

@@ -28,7 +28,7 @@ Marriage and family
 
 She met George W. Bush in July 1977 when mutual friends Joe and Jan O'Neill invited her and Bush to a backyard barbecue at their home. He proposed to her at the end of September and they were married on November 5 of that year[29][30] at the First United Methodist Church in Midland, the same church in which she had been baptized.[31] Laura bought a tan, two-toned dress off the rack for the wedding.[32] The couple honeymooned in Cozumel, Mexico.[33] George W. Bush detailed his choice to marry Laura as the "best decision of [his] life".[34] Laura, an only child, said she gained "brothers and sisters and wonderful in-laws" who all accepted her after she wed George W. Bush.[35]
 
-Bush_daughters.png and Barbara Bush, Kennebunkport, 1990]]
+and Barbara Bush, Kennebunkport, 1990]]
 
 The year after their marriage, the couple began campaigning for George W. Bush's 1978 Congressional candidacy. According to George Bush, when he asked her to marry him, she had said, "Yes. But only if you promise me that I'll never have to make a campaign speech."[36] She soon relented, and gave her first stump speech for him in 1978 on the courthouse steps in Muleshoe, Texas.[37] After narrowly winning the primary, he lost the general election.[38]
 
@@ -45,7 +45,7 @@ Several times a year, Bush and her husband travel to their sprawling family esta
 
 First Lady of Texas
 
-George_H._W._Bush,_Laura_Bush,_George_W._Bush_1997.jpg, 1997]]
+, 1997]]
 
 Bush became the First Lady of Texas when her husband was elected as the Governor of Texas and served as first lady of that state from January 17, 1995, to December 21, 2000.[51] When asked about her interest in politics, she responded "It doesn't drive me."[52]
 
@@ -58,7 +58,7 @@ Her husband announced his campaign for President of the United States in mid-199
 
 First Lady of the United States
 
-First_Lady_Laura_Bush_portrait.jpg As First Lady, Bush was involved in issues of concern to children and women, both nationally and internationally.[65] Her major initiatives included education and women's health.[66]
+As First Lady, Bush was involved in issues of concern to children and women, both nationally and internationally.[65] Her major initiatives included education and women's health.[66]
 
 Education and children
 
@@ -68,7 +68,7 @@ Immediately following the September 11, 2001 attacks, Bush spoke regarding Ameri
 
   [W]e need to reassure our children that they are safe in their homes and schools. We need to reassure them that many people love them and care for them, and that while there are some bad people in the world, there are many more good people.[70]
 
-Romanian_children_greet_Bushes_2002.jpg, 2002]] Laura_Bush_with_children_2005.jpg, 2005]] The following day, she composed open letters to America's families, focusing on elementary and middle school students, which she distributed through state education officials.[71][72] She took an interest in mitigating the emotional effects of the attacks on children, particularly the disturbing images repeatedly replayed on television.[73] On the one-year anniversary, she encouraged parents to instead read to their children, and perhaps light a candle in memoriam, saying, "Don't let your children see the images, especially on September 11, when you know it'll probably be on television again and again – the plane hitting the building or the buildings falling."[74]
+, 2002]] , 2005]] The following day, she composed open letters to America's families, focusing on elementary and middle school students, which she distributed through state education officials.[71][72] She took an interest in mitigating the emotional effects of the attacks on children, particularly the disturbing images repeatedly replayed on television.[73] On the one-year anniversary, she encouraged parents to instead read to their children, and perhaps light a candle in memoriam, saying, "Don't let your children see the images, especially on September 11, when you know it'll probably be on television again and again – the plane hitting the building or the buildings falling."[74]
 
 Later in her tenure, she was honored by the United Nations, as the body named her honorary ambassador for the United Nations' Decade of Literacy. In this position, she announced that she would host a Conference on Global Literacy.[75] The conference, held in September 2006, encouraged a constant effort to promote literacy and highlighted many successful literacy programs.[76] She coordinated this as a result of her many trips abroad where she witnessed how literacy benefited children in poorer nations.[77]
 
@@ -88,7 +88,7 @@ Another of her signature issues were those relating to the health and well being
 
 Bush first became involved with The Heart Truth awareness campaign in 2003.[84] It is an organization established by the National Heart, Lung, and Blood Institute to raise awareness about heart disease in women, and how to prevent the condition.[85] She serves in the honorary position of ambassador for the program[86] leading the federal government's effort to give women a "wake up call" about the risk of heart disease.[87] She commented on the disease: "Like many women, I assumed heart disease was a man's disease and cancer was what we would fear the most. Yet heart disease kills more women in our country than all forms of cancer combined. When it comes to heart disease, education, prevention, and even a little red dress can save lives."[88] She has undertaken a signature personal element of traveling around the country and talking to women at hospital and community events featuring the experiences of women who live, or had lived, with the condition.[89] This outreach was credited with saving the life of one woman who went to the hospital after experiencing symptoms of a heart attack.[90]
 
-Laura_Bush_meets_with_women_in_UAE.jpg to discuss cures for breast cancer in the Middle East, October 22, 2007]]
+to discuss cures for breast cancer in the Middle East, October 22, 2007]]
 
 With her predecessor, former First Lady Nancy Reagan, Bush dedicated the First Ladies Red Dress Collection at the John F. Kennedy Center for the Performing Arts in May 2005. It is an exhibit containing red suits worn by former First Ladies Lady Bird Johnson, Betty Ford, Rosalynn Carter, Nancy Reagan, Barbara Bush, Hillary Clinton, and Laura Bush meant to raise awareness by highlighting America's first ladies.[91] She has participated in fashion shows displaying red dresses worn on celebrities as well.[92]
 
@@ -98,7 +98,7 @@ In November 2001, she became the first person other than a president to deliver 
 
 Campaigning
 
-Laura_Bush-Bill_Clinton.jpg in New York, September 20, 2006]] Bush campaigned for Republicans around the country in 2002 for that year's midterm elections, attending and hosting fundraisers as well as giving speeches that were deemed as the Bush administration "working against women's rights issues and using women to do their dirty work" and partly a test for Bush on how well she could campaign for her husband in the impending two years when he sought re-election.[100]
+in New York, September 20, 2006]] Bush campaigned for Republicans around the country in 2002 for that year's midterm elections, attending and hosting fundraisers as well as giving speeches that were deemed as the Bush administration "working against women's rights issues and using women to do their dirty work" and partly a test for Bush on how well she could campaign for her husband in the impending two years when he sought re-election.[100]
 
 During the 2004 election cycle, Bush made joint appearances with her husband on the campaign trail,[101] including in battleground states such as Florida.[102] She advocated for his re-election in a speech at the 2004 Republican National Convention,[103] and was credited with having raised $15 million for her husband's campaign as well as the Republican Party while still succeeding in keeping a separate schedule that allowed for her to tend to the traditional duties she had as First Lady.[104] In a July 2004 interview, Teresa Heinz, wife of Democratic presidential nominee John Kerry, said, "Well, you know, I don't know Laura Bush. But she seems to be calm, and she has a sparkle in her eye, which is good. But I don't know that she's ever had a real job—I mean, since she's been grown up."[105] Heinz later apologized for the remark,[106][107] and Bush stated that she forgave her while insisting her apology was unnecessary, citing her understanding of the "trick questions" asked by the media.[108][109]
 
@@ -106,7 +106,7 @@ Bush was a participant in the 2006 midterm elections,[110][111][112] beginning h
 
 Popularity and style
 
-George_W._Bush_inauguration.jpg William Rehnquist, as Laura Bush and daughters Barbara and Jenna look on.]] Laura Bush's approval ratings have consistently ranked very high.[119] In January 2006, a _USA Today_/CBS/Gallup poll recorded her approval rating at 82 percent and disapproval at 13 percent.[120][121][122] That places Bush as one of the most popular first ladies.[123] Former White House Press Secretary Ari Fleischer said, "She is more popular, and more welcome, in many parts of the country than the president ... In races where the moderates are in the most trouble, Laura Bush is the one who can do the most good."[124]
+William Rehnquist, as Laura Bush and daughters Barbara and Jenna look on.]] Laura Bush's approval ratings have consistently ranked very high.[119] In January 2006, a _USA Today_/CBS/Gallup poll recorded her approval rating at 82 percent and disapproval at 13 percent.[120][121][122] That places Bush as one of the most popular first ladies.[123] Former White House Press Secretary Ari Fleischer said, "She is more popular, and more welcome, in many parts of the country than the president ... In races where the moderates are in the most trouble, Laura Bush is the one who can do the most good."[124]
 
 Sady Doyle reasoned that Bush was hard to dislike due to her adopting "the least partisan causes" such as literacy and breast cancer, which would attract the support of most Americans and her coming off as a "mild, polite, ordinary woman who might go to church with your mother, or organize suburban potlucks". Doyle furthered that her statements were never enough to offend others and the harshest criticism that could be bestowed upon her was that she was boring.[125]
 
@@ -116,7 +116,7 @@ During the January 2005 second inauguration ceremonies for her husband, Laura Bu
 
 Foreign trips
 
-Laura_Bush_talks_with_African_boy.jpg George_W._Bush_John_Paul_II_funeral.jpg.]] During her husband's second term, Bush was more involved in foreign matters. She traveled to numerous countries as a representative of the United States.
+.]] During her husband's second term, Bush was more involved in foreign matters. She traveled to numerous countries as a representative of the United States.
 
 As First Lady, she took five goodwill trips to Africa.[131] The purpose of these has mostly been to raise awareness about HIV/AIDS and malaria, but Bush has also stressed the need for education and greater opportunities for women.[132] She has taken many other trips to other countries to promote and gain support for President Bush's Emergency Plan for AIDS relief;[133] these countries include Zambia (2007),[134] Mozambique (2007),[135] Mali (2007),[136] Senegal (2007),[137] and Haiti (2008).[138]
 
@@ -145,7 +145,7 @@ In April 2009, three months after the Bushes left office, Martha Gore wrote an o
 
 Subsequent activities
 
-Obamas_escort_Bushes_to_helicopter.jpg and First Lady Michelle Obama on January 20, 2009.]] In February 2009, the month after she and her husband left office, Laura and George W. Bush moved into a new residence in Dallas.[155] In November 2009, the former First Lady, accompanied by her husband, made a visit to families of veterans in Fort Hood. The couple expressed their wishes that the trip not be publicized.[156] However, Fox News revealed the trip the following morning.[157]
+and First Lady Michelle Obama on January 20, 2009.]] In February 2009, the month after she and her husband left office, Laura and George W. Bush moved into a new residence in Dallas.[155] In November 2009, the former First Lady, accompanied by her husband, made a visit to families of veterans in Fort Hood. The couple expressed their wishes that the trip not be publicized.[156] However, Fox News revealed the trip the following morning.[157]
 
 In May 2010, Bush released her memoir, _Spoken from the Heart_, in conjunction with a national tour.[158]
 
@@ -177,7 +177,7 @@ In January 2017, Bush attended the Inauguration of Donald Trump.[196] On Februar
 
 Obama administration
 
-Laura_Bush_and_Michelle_Obama.jpg on November 10, 2008. The two First Ladies formed a friendship.]] Over the course of the Obama presidency, she developed an alliance with Michelle Obama, her immediate successor as First Lady. Despite their political differences,[206] Michelle Obama has called Laura Bush both her friend and a role model,[207][208] crediting Bush with setting "a high bar" for her during her tenure as First Lady.[209] Bush defended Obama during her husband's campaign for president in 2008, publicly coming to her defense when she received criticism for a remark she made about being proud of her country for the first time in her adulthood during the campaign.[210] Obama sent Bush a note thanking her[211] and after the election met with Bush at the White House in November 2008,[212] Bush giving Obama a tour of her and her family's soon-to-be home.[213][214]
+on November 10, 2008. The two First Ladies formed a friendship.]] Over the course of the Obama presidency, she developed an alliance with Michelle Obama, her immediate successor as First Lady. Despite their political differences,[206] Michelle Obama has called Laura Bush both her friend and a role model,[207][208] crediting Bush with setting "a high bar" for her during her tenure as First Lady.[209] Bush defended Obama during her husband's campaign for president in 2008, publicly coming to her defense when she received criticism for a remark she made about being proud of her country for the first time in her adulthood during the campaign.[210] Obama sent Bush a note thanking her[211] and after the election met with Bush at the White House in November 2008,[212] Bush giving Obama a tour of her and her family's soon-to-be home.[213][214]
 
 In September 2009, Bush openly praised President Barack Obama and First Lady Michelle Obama. She reasoned that President Obama was performing well in the presidency despite having multiple initiatives taking place and complimented the First Lady's transformation of the White House into "a comfortable home for her family".[215]
 
@@ -200,7 +200,7 @@ Throughout 2015, Bush was active in the presidential campaign of brother-in-law 
 
 Libraries
 
-Mrs._Barbara_Bush_and_Mrs._Laura_Bush.jpg, at the LBJ Presidential Library in 2012]] Bush created the Laura Bush Foundation for America's Libraries "to support the education of our nation's children by providing funds to update, extend, and diversify the book and print collections of America's school libraries".[251] Every year, the Laura Bush Foundation's grants awards more than $1,000,000 to US schools. The Laura Bush 21st Century Library Program grant, offered by the Institute of Museum and Library Services, provides funding for "the recruitment and education of library students and continuing education for those already in the profession, as well as the development of new programs and curricula".[252] Bush's 21st Century Library Program is an equal opportunity grant that does not not discriminate on the basis of race, color, national origin, sex, disability, or age.[253] In May 2015, Bush bestowed a $7,000 grant to six schools within Austin, Texas.[254] After Hurricanes Katrina and Rita in 2005, the Laura Bush Foundation for America's Libraries awarded grants of $10,000 to $75,000 to school libraries whose collections were damaged or destroyed in the hurricanes. In 2017, after the devastation from Hurricanes Harvey, Irma, and Maria as well the California wildfires, the foundation again is going to dedicate their resources to disaster-affected schools to rebuild their book collections.
+, at the LBJ Presidential Library in 2012]] Bush created the Laura Bush Foundation for America's Libraries "to support the education of our nation's children by providing funds to update, extend, and diversify the book and print collections of America's school libraries".[251] Every year, the Laura Bush Foundation's grants awards more than $1,000,000 to US schools. The Laura Bush 21st Century Library Program grant, offered by the Institute of Museum and Library Services, provides funding for "the recruitment and education of library students and continuing education for those already in the profession, as well as the development of new programs and curricula".[252] Bush's 21st Century Library Program is an equal opportunity grant that does not not discriminate on the basis of race, color, national origin, sex, disability, or age.[253] In May 2015, Bush bestowed a $7,000 grant to six schools within Austin, Texas.[254] After Hurricanes Katrina and Rita in 2005, the Laura Bush Foundation for America's Libraries awarded grants of $10,000 to $75,000 to school libraries whose collections were damaged or destroyed in the hurricanes. In 2017, after the devastation from Hurricanes Harvey, Irma, and Maria as well the California wildfires, the foundation again is going to dedicate their resources to disaster-affected schools to rebuild their book collections.
 
 
 Laura W. Bush Institute for Women's Health
@@ -217,7 +217,7 @@ Bush wrote her first book with her daughter Jenna called _Read All About It!_. I
 
 Awards and honors
 
-Laura_Bush_honored_at_National_Book_Festival_2008.jpg, the Librarian of Congress, for her work in support of the National Book Festival, September 2008.]] During and after her tenure as the First Lady, Laura Bush received a number of awards and honors. In October 2002, the Elie Wiesel Foundation for Humanity honored her in recognition of her efforts on behalf of education.[262] Also in 2002, she was named Barbara Walters' Most Fascinating Person of the year.[263]
+, the Librarian of Congress, for her work in support of the National Book Festival, September 2008.]] During and after her tenure as the First Lady, Laura Bush received a number of awards and honors. In October 2002, the Elie Wiesel Foundation for Humanity honored her in recognition of her efforts on behalf of education.[262] Also in 2002, she was named Barbara Walters' Most Fascinating Person of the year.[263]
 
 The American Library Association honored her for her years of support to America's libraries and librarians in April 2005.[264] The Progressive Librarians Guild opposed her being honored, because of her support of the USA PATRIOT Act, her cancellation of a poetry forum due to concern that some of the poets would express opposition to the war in Iraq, and the Guild's opposition to policies and spending priorities of her husband's administration.[265]
 

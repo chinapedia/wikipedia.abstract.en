@@ -21,7 +21,7 @@ Celtics' dominance, league expansion and competition (1956–1979)
 
 In 1957, rookie center Bill Russell joined the Boston Celtics, which already featured guard Bob Cousy and coach Red Auerbach, and went on to lead the club to eleven NBA titles in thirteen seasons. Center Wilt Chamberlain entered the league with the Warriors in 1959 and became a dominant individual star of the 1960s, setting new single game records in scoring (100) and rebounding (55). Russell's rivalry with Chamberlain became one of the greatest rivalries in the history of American team sports.
 
-Wilt_Chamberlain_Bill_Russell.jpg defending against Wilt Chamberlain in 1966.]]
+defending against Wilt Chamberlain in 1966.]]
 
 The 1960s were dominated by the Celtics. Led by Russell, Bob Cousy and coach Red Auerbach, Boston won eight straight championships in the NBA from 1959 to 1966. This championship streak is the longest in NBA history. They did not win the title in 1966–67, but regained it in the 1967–68 season and repeated in 1969. The domination totaled nine of the ten championship banners of the 1960s.[16]
 
@@ -37,7 +37,7 @@ Surging popularity (1979–1998)
 
 The league added the ABA's three-point field goal beginning in 1979.[21] That same year, rookies Larry Bird and Magic Johnson joined the Boston Celtics and Los Angeles Lakers respectively, initiating a period of significant growth in fan interest in the NBA.[22] The two had faced each other in the 1979 NCAA Division I Basketball Championship Game, and they later played against each other in three NBA Finals (1984, 1985, and 1987).[23] In the 10 seasons of the 1980s, Johnson led the Lakers to five titles[24] while Bird led the Celtics to three titles.[25] Also in the early 1980s, the NBA added one more expansion franchise, the Dallas Mavericks,[26] bringing the total to 23 teams. Later on, Larry Bird won the first three three-point shooting contests.[27] On February 1, 1984 David Stern became commissioner of the NBA.[28] Stern has been recognized as playing a major role in the growth of the league during his career.[29][30]
 
-Jordan_by_Lipofsky_16577.jpg going in for a dunk]]
+going in for a dunk]]
 
 Michael Jordan entered the league in 1984 with the Chicago Bulls, spurring more interest in the league.[31] In 1988 and 1989, four cities got their wishes as the Charlotte Hornets, Miami Heat, Orlando Magic, and Minnesota Timberwolves made their NBA debuts, bringing the total to 27 teams.[32] The Detroit Pistons won the back-to-back NBA Championships in 1989 and 1990, led by coach Chuck Daly and guard Isiah Thomas.[33] Jordan and Scottie Pippen led the Bulls to two three-peats in eight years during the 1991–1998 seasons.[34][35] Hakeem Olajuwon won back-to-back titles with the Houston Rockets in 1994 and 1995.[36]
 
@@ -51,7 +51,7 @@ Lakers' and Spurs' dynasties (1998–2014)
 
 Since the breakup of the Chicago Bulls championship roster in the summer of 1998, the Western Conference has dominated. The Los Angeles Lakers of coach Phil Jackson and the San Antonio Spurs of Gregg Popovich combined to make 13 Finals in 16 seasons, with 10 titles. Tim Duncan and David Robinson won the 1999 championship with the Spurs, and Shaquille O'Neal and Kobe Bryant started the 2000s with three consecutive championships for the Lakers. The Spurs reclaimed the title in 2003 against the Nets. In 2004, the Lakers returned to the Finals, only to lose in five games to the Detroit Pistons.
 
-The league's image was marred by a violent incident between players and fans in a November 2004 game between the Indiana Pacers and Detroit Pistons. In response, players were suspended for a total of 146 games with $11 million total lost in salary, and the league tightened security and limited the sale of alcohol. LeBron_James_vs._Kobe_Bryant_(24848589252).jpg defending LeBron James in a February 2016 game between the Los Angeles Lakers and the Cleveland Cavaliers]]
+The league's image was marred by a violent incident between players and fans in a November 2004 game between the Indiana Pacers and Detroit Pistons. In response, players were suspended for a total of 146 games with $11 million total lost in salary, and the league tightened security and limited the sale of alcohol. defending LeBron James in a February 2016 game between the Los Angeles Lakers and the Cleveland Cavaliers]]
 
 After the Spurs took home the Larry O'Brien Championship Trophy in 2005, the 2006 Finals featured two franchises making their inaugural Finals appearances. The Miami Heat, led by their star shooting guard, Dwyane Wade, and Shaquille O'Neal, who had been traded from the Lakers during summer 2004, won the series over the Dallas Mavericks in six after losing the first two games. The Lakers/Spurs dominance continued in 2007 with a four-game sweep by the Spurs over the Cleveland Cavaliers, who were led by LeBron James. The 2008 Finals saw a rematch of the league's highest profile rivalry, the Boston Celtics and Los Angeles Lakers, with the Celtics winning, for their 17th championship, thanks to their new big three of Paul Pierce, Ray Allen, and Kevin Garnett.
 

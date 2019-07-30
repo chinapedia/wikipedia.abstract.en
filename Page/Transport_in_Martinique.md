@@ -9,7 +9,7 @@ There is a part of the N5 road that has been upgraded as a MOTORWAY, running fro
 
 Rail transport
 
-Train-des-plantations.jpg]] Martininique has now⁽²⁰¹⁸⁾ only one railway line in operation: The little-known 2.5 km long Le Train des Plantations is a heritage railway that runs from the Rhum Museum in Sainte-Marie through some sugarcane and banana plantations over two Bailey bridges to the Banana Museum.
+]] Martininique has now⁽²⁰¹⁸⁾ only one railway line in operation: The little-known 2.5 km long Le Train des Plantations is a heritage railway that runs from the Rhum Museum in Sainte-Marie through some sugarcane and banana plantations over two Bailey bridges to the Banana Museum.
 
 In former times several narrow gauge sugarcane railways existed.[1] Saint-Pierre had horse-drawn trams, which had an unusally narrow gauge. At least two steam locomotives are preserved in an optically refurbished condition, but not operational.
 

@@ -24,7 +24,7 @@ History
 
 Prehistory
 
-Centro_de_Alcalar_2017_-_Monumento_9_-_Entrada_(cropped).jpg, built in the 3rd millennium BC Southern Portugal, now the Algarve.]]
+, built in the 3rd millennium BC Southern Portugal, now the Algarve.]]
 
 The early history of Portugal is shared with the rest of the Iberian Peninsula located in South Western Europe. The name of Portugal derives from the joined Romano-Celtic name Portus Cale. The region was settled by Pre-Celts and Celts, giving origin to peoples like the Gallaeci, Lusitanians, Celtici and Cynetes, visited by Phoenicians, Ancient Greeks and Carthaginians, incorporated in the Roman Republic dominions as Lusitania and part of Gallaecia, after 45 BC until 298 AD.
 
@@ -49,13 +49,13 @@ There were other similar tribes, and chief among them were the Lusitanians; the 
 
 Roman Lusitania and Gallaecia
 
-Evora-RomanTemple_edit.jpg, in the Alentejo, is one of the best preserved Roman-built structures in the country.]]
+, in the Alentejo, is one of the best preserved Roman-built structures in the country.]]
 
 Romans first invaded the Iberian Peninsula in 219 BC. The Carthaginians, Rome's adversary in the Punic Wars, were expelled from their coastal colonies. During the last days of Julius Caesar, almost the entire peninsula was annexed to the Roman Republic.
 
 The Roman conquest of what is now part of Portugal took almost two hundred years and took many lives of young soldiers and the lives of those who were sentenced to a certain death in the slave mines when not sold as slaves to other parts of the empire. It suffered a severe setback in 155 BC, when a rebellion began in the north. The Lusitanians and other native tribes, under the leadership of Viriathus, wrested control of all of western Iberia.
 
-Torre_de_Centum_Cellas.jpg, in the Beira region, is a Roman _villa rustica_ from the 1st century CE.]]
+, in the Beira region, is a Roman _villa rustica_ from the 1st century CE.]]
 
 Rome sent numerous legions and its best generals to Lusitania to quell the rebellion, but to no avail – the Lusitanians kept conquering territory. The Roman leaders decided to change their strategy. They bribed Viriathus's allies to kill him. In 139 BC, Viriathus was assassinated, and Tautalus became leader.
 
@@ -69,17 +69,17 @@ Germanic kingdoms: Suebi and Visigoths
 
 In the early 5th century, Germanic tribes, namely the Suebi and the Vandals (Silingi and Hasdingi) together with their allies, the Sarmatians and Alans invaded the Iberian Peninsula where they would form their kingdom. The Kingdom of the Suebi was the Germanic post-Roman kingdom, established in the former Roman provinces of Gallaecia-Lusitania. 5th-century vestiges of Alan settlements were found in Alenquer (from old Germanic _Alan kerk_, _temple of the Alans_), Coimbra and Lisbon.[19]
 
-Reino_suevo.svg]]
+]]
 
 About 410 and during the 6th century it became a formally declared Kingdom of the Suebi, where king Hermeric made a peace treaty with the Gallaecians before passing his domains to Rechila, his son. In 448 Rechila died, leaving the state in expansion to Rechiar. After the defeat against the Visigoths, the Suebian kingdom was divided, with Frantan and Aguiulfo ruling simultaneously. Both reigned from 456 to 457, the year in which Maldras (457–459) reunified the kingdom to finish being assassinated after a failed Roman-Visigothic conspiracy. Although the conspiracy did not achieve its true purposes, the Suebian Kingdom was again divided between two kings: Frumar (Frumario 459–463) and Remismund (Remismundo, son of Maldras) (459–469) who would re-reunify his father's kingdom in 463 and that he would be forced to adopt Arianism in 465 due to the Visigoth influence. By the year 500, the Visigothic Kingdom had been installed in Iberia, it was based in Toledo and advancing westwards. They became a threat to the Suebian rule. After the death of Remismund in 469 a dark period set in, where virtually all written texts and accounts disappear. This period lasted until 550. The only thing known about this period is that Theodemund (Teodemundo) most probably ruled the Suebians. The dark period ended with the reign of Karriarico (550–559) who reinstalled Catholicism in 550. He was succeed by Theodemar or Theodemir (Teodomiro 559–570) during whose reign the 1st Council of Braga (561) was held.
 
-Ariamirogaliza.jpg of 561 CE.]]
+of 561 CE.]]
 
 The councils represented an advance in the organization of the territory (paroeciam suevorum (Suebian parish) and the Christianization of the pagan population (_De correctione rusticorum_) under the auspices of Saint Martin of Braga (São Martinho de Braga).
 
 After the death of Teodomiro, Miro (570–583) was his successor. During his reign, the 2nd Council of Braga (572) was held. The Visigothic civil war began in 577. Miro intervened. Later in 583 he also organized an unsuccessful expedition to reconquer Seville. During the return from this failed operation Miro died.
 
-In the Suebian Kingdom many internal struggles continued to take place. Eborico (Eurico, 583–584) was dethroned by Andeca (Audeca 584–585), who failed to prevent the Visigothic invasion led by Leovigildo. The Visigothic invasion, completed in 585, turned the once rich and fertile kingdom of the Suebi into the sixth province of the Gothic kingdom. Leovigild was crowned King of Gallaecia, Hispania and Gallia Narbonensis. Cvp-00791-109v.jpg, King of the Suebi, and St. Martin of Braga; c. 1145.]]
+In the Suebian Kingdom many internal struggles continued to take place. Eborico (Eurico, 583–584) was dethroned by Andeca (Audeca 584–585), who failed to prevent the Visigothic invasion led by Leovigildo. The Visigothic invasion, completed in 585, turned the once rich and fertile kingdom of the Suebi into the sixth province of the Gothic kingdom. Leovigild was crowned King of Gallaecia, Hispania and Gallia Narbonensis. , King of the Suebi, and St. Martin of Braga; c. 1145.]]
 
 For the next 300 years and by the year 700, the entire Iberian Peninsula was ruled by the Visigoths. Under the Visigoths, Gallaecia was a well-defined space governed by a doge of its own. Doges at this time were related to the monarchy acted as princes in all matters. Both 'governors' Wamba and Wittiza (Vitiza) acted as doge (they would later become kings in Toledo). These two became known as the 'vitizians', who headquartered in the northwest and called on the Arab invaders from the South to be their allies in the struggle for power in 711.
 
@@ -91,25 +91,23 @@ According to Dan Stanislawski, the Portuguese way of living in regions North of 
 
 Islamic period and the Reconquista
 
-Al_Andalus_-_2.png
-
 Today's modern day continental Portugal, along with most of modern Spain, was part of al-Andalus between 711–1249, following the Umayyad Caliphate conquest of the Iberian Peninsula in 711. This occupation lasted from some decades in the North to five centuries in the South.
 
 After defeating the Visigoths in only a few months, the Umayyad Caliphate started expanding rapidly in the peninsula. Beginning in 711, the land that is now Portugal became part of the vast Umayyad Caliphate's empire of Damascus, which stretched from the Indus river in the Indian sub-continent up to the South of France, until its collapse in 750. That year the west of the empire gained its independence under Abd-ar-Rahman I with the establishment of the Emirate of Córdoba. After almost two centuries, the Emirate became the Caliphate of Córdoba in 929, until its dissolution a century later in 1031 into no less than 23 small kingdoms, called Taifa kingdoms.
 
-Portugal_DSC04496_-_MERTOLA_(34025572830).jpg outside the Castle of Mértola, in the Alentejo.]] Silves_castle_-_ancient_capital_of_Algarve_-_The_Algarve,_Portugal_(1387949771).jpg, a Moorish-era fortification in the Algarve]]
+outside the Castle of Mértola, in the Alentejo.]] , a Moorish-era fortification in the Algarve]]
 
 The governors of the taifas each proclaimed themselves Emir of their provinces and established diplomatic relations with the Christian kingdoms of the north. Most of Portugal fell into the hands of the Taifa of Badajoz of the Aftasid Dynasty, and after a short spell of an ephemeral Taifa of Lisbon in 1022, fell under the dominion of the Taifa of Seville of the Abbadids poets. The Taifa period ended with the conquest of the Almoravids who came from Morocco in 1086 winning a decisive victory at the Battle of Sagrajas, followed a century later in 1147, after the second period of Taifa, by the Almohads, also from Marrakesh.[26] Al-Andaluz was divided into different districts called _Kura_. Gharb Al-Andalus at its largest was constituted of ten kuras,[27] each with a distinct capital and governor. The main cities of the period in Portugal were Beja, Silves, Alcácer do Sal, Santarém and Lisbon. The Muslim population of the region consisted mainly of native Iberian converts to Islam (the so-called _Muwallad_ or _Muladi_) and berbers. The Arabs were principally noblemen from Syria and Oman; and though few in numbers, they constituted the elite of the population. The Berbers were originally from the Atlas mountains and Rif mountains of North Africa and were nomads.
 
 County of Portugal
 
-Porto_April_2019-18.jpg, first Count of Portugal]]
+, first Count of Portugal]]
 
 An Asturian Visigothic noble named Pelagius of Asturias in 718 was elected leader[28] by many of the ousted Visigoth nobles. Pelagius called for the remnant of the Christian Visigothic armies to rebel against the Moors and regroup in the unconquered northern Asturian highlands, better known today as the Cantabrian Mountains, in what is today the small mountain region in North-western Spain, adjacent to the Bay of Biscay.[29]
 
 Pelagius' plan was to use the Cantabrian mountains as a place of refuge and protection from the invading Moors. He then aimed to regroup the Iberian Peninsula's Christian armies and use the Cantabrian mountains as a springboard from which to regain their lands. In the process, after defeating the Moors in the Battle of Covadonga in 722, Pelagius was proclaimed king, thus founding the Christian Kingdom of Asturias and starting the war of Christian reconquest known in Portuguese as the _Reconquista Cristã_.[30]
 
-Henri_de_Bourgogne_reçoit_l'investiture_du_comté_de_Portugal,_1094_(Claude_Jacquand,_dit_Claudius;_1841).png investing Henry, Count of Portugal, in 1093.]]
+investing Henry, Count of Portugal, in 1093.]]
 
 At the end of the 9th century, the region of Portugal, between the rivers Minho and Douro, was reconquered from the Moors by Vímara Peres on the orders of King Alfonso III of Asturias. Finding that the region had previously had two major cities – Portus Cale in the coast and Braga in the interior, with many towns that were now deserted – he decided to repopulate and rebuild them with Portuguese and Galician refugees and other Christians.[31] Apart from the Arabs from the South, the coastal regions in the North were also attacked by Norman and Viking raiders mainly from 844. The last great invasion, through the Minho (river), ended with the defeat of Olaf II Haraldsson in 1014 against the Galician nobility who also stopped further advances into the County of Portugal.
 
@@ -127,7 +125,7 @@ On 24 June 1128, the Battle of São Mamede occurred near Guimarães. Afonso Henr
 
 Afonso's campaigns were successful and, on 25 July 1139, he obtained an overwhelming victory in the Battle of Ourique, and straight after was unanimously proclaimed King of Portugal by his soldiers. This is traditionally taken as the occasion when the County of Portugal, as a fief of the Kingdom of León, was transformed into the independent Kingdom of Portugal.
 
-Afonso then established the first of the Portuguese Cortes at Lamego, where he was crowned by the Archbishop of Braga, though the validity of the Cortes of Lamego has been disputed and called a myth created during the Portuguese Restoration War. Afonso was recognized in 1143 by King Alfonso VII of León, and in 1179 by Pope Alexander III. D._Afonso_Henriques_-_The_Portuguese_Genealogy_(Genealogia_dos_Reis_de_Portugal).png was the last Count of Portugal and the first King of Portugal after winning the Battle of Ourique in 1139. (_Depicted in a 1530's illuminated manuscript_)]]
+Afonso then established the first of the Portuguese Cortes at Lamego, where he was crowned by the Archbishop of Braga, though the validity of the Cortes of Lamego has been disputed and called a myth created during the Portuguese Restoration War. Afonso was recognized in 1143 by King Alfonso VII of León, and in 1179 by Pope Alexander III. was the last Count of Portugal and the first King of Portugal after winning the Battle of Ourique in 1139. (_Depicted in a 1530's illuminated manuscript_)]]
 
 During the Reconquista period, Christians reconquered the Iberian Peninsula from Moorish domination. Afonso Henriques and his successors, aided by military monastic orders, pushed southward to drive out the Moors. At this time, Portugal covered about half of its present area. In 1249, the Reconquista ended with the capture of the Algarve and complete expulsion of the last Moorish settlements on the southern coast, giving Portugal its present-day borders, with minor exceptions.
 
@@ -143,11 +141,11 @@ In 1383, John I of Castile, husband of Beatrice of Portugal and son-in-law of Fe
 
 Portugal spearheaded European exploration of the world and the Age of Discovery. Prince Henry the Navigator, son of King John I of Portugal, became the main sponsor and patron of this endeavour. During this period, Portugal explored the Atlantic Ocean, discovering the Atlantic archipelagos the Azores, Madeira, and Cape Verde; explored the African coast; colonized selected areas of Africa,; discovered an eastern route to India via the Cape of Good Hope; discovered Brazil, explored the Indian Ocean, established trading routes throughout most of southern Asia; and sent the first direct European maritime trade and diplomatic missions to China and Japan.
 
-In 1415, Portugal acquired the first of its overseas colonies by conquering Ceuta, the first prosperous Islamic trade centre in North Africa. There followed the first discoveries in the Atlantic: Madeira and the Azores, which led to the first colonization movements. Henry_the_Navigator1.jpg]] Throughout the 15th century, Portuguese explorers sailed the coast of Africa, establishing trading posts for several common types of tradable commodities at the time, ranging from gold to slaves, as they looked for a route to India and its spices, which were coveted in Europe.
+In 1415, Portugal acquired the first of its overseas colonies by conquering Ceuta, the first prosperous Islamic trade centre in North Africa. There followed the first discoveries in the Atlantic: Madeira and the Azores, which led to the first colonization movements. ]] Throughout the 15th century, Portuguese explorers sailed the coast of Africa, establishing trading posts for several common types of tradable commodities at the time, ranging from gold to slaves, as they looked for a route to India and its spices, which were coveted in Europe.
 
 The Treaty of Tordesillas, intended to resolve the dispute that had been created following the return of Christopher Columbus, was made by Pope Alexander VI, the mediator between Portugal and Spain. It was signed on 7 June 1494, and divided the newly discovered lands outside Europe between the two countries along a meridian 370 leagues west of the Cape Verde islands (off the west coast of Africa).
 
-Ignoto_portoghese,_ritratto_di_un_cavaliere_dell'ordine_di_cristo,_1525-50_ca._02.jpg]]
+]]
 
 In 1498, Vasco da Gama accomplished what Columbus set out for and became the first European to reach India by sea, bringing economic prosperity to Portugal and its population of 1.7 million residents, and helping to start the Portuguese Renaissance. In 1500, the Portuguese explorer Gaspar Corte-Real reached what is now Canada and founded the town of Portugal Cove-St. Philip's, Newfoundland and Labrador, long before the French and English in the 17th century, and being just one of many Portuguese colonizations of the Americas.[35][36][37]
 
@@ -161,7 +159,7 @@ All these factors made Portugal one of the world's major economic, military, and
 
 Iberian Union, Restoration and early Brigantine era
 
-All_areas_of_the_world_that_were_once_part_of_the_Portuguese_Empire.png.]]
+.]]
 
 Portugal voluntarily entered a dynastic union between 1580 and 1640. This occurred because the last two kings of the House of Aviz – King Sebastian, who died in the battle of Alcácer Quibir in Morocco, and his great-uncle and successor, King-Cardinal Henry of Portugal – both died without heirs, resulting in the Portuguese succession crisis of 1580.
 
@@ -171,7 +169,7 @@ War led to a deterioration of the relations with Portugal's oldest ally, England
 
 King John IV's eldest son came to reign as Afonso VI, however his physical and mental disabilities left him overpowered by Luís de Vasconcelos e Sousa, 3rd Count of Castelo Melhor. In a palace coup organized by the King's wife, Maria Francisca of Savoy, and his brother, Pedro, Duke of Beja, King Afonso VI was declared mentally incompetent and exiled first to the Azores and then to the Royal Palace of Sintra, outside Lisbon. After Afonso's death, Pedro came to the throne as King Pedro II. Pedro's reign saw the consolidation of national independence, imperial expansion, and investment in domestic production.
 
-John_V_of_Portugal_Pompeo_Batoni.jpg patronized numerous artistic works, earning him the epithet of the _Portuguese Sun King_.]]
+patronized numerous artistic works, earning him the epithet of the _Portuguese Sun King_.]]
 
 Pedro II's son, John V, saw a reign characterized by the influx of gold into the coffers of the royal treasury, supplied largely by the royal fifth (a tax on precious metals) that was received from the Portuguese colonies of Brazil and Maranhão. Acting as an absolute monarch, John nearly depleted his country's tax revenues on ambitious architectural works, most notably Mafra Palace, and on commissions and additions for his sizable art and literary collections.
 
@@ -179,7 +177,7 @@ Official estimates – and most estimates made so far – place the number of 
 
 Pombaline era and Enlightenment
 
-O_marques_de_pombal,_conde_de_Oeiras.jpg effectively ruled Portugal during the reign of King José I.]] In 1738, Sebastião José de Carvalho e Melo, 1st Marquis of Pombal, began a diplomatic career as the Portuguese Ambassador in London and later in Vienna. The Queen consort of Portugal, Archduchess Maria Anne Josefa of Austria, was fond of Melo; and after his first wife died, she arranged the widowed de Melo's second marriage to the daughter of the Austrian Field Marshal Leopold Josef, Count von Daun. King John V of Portugal, however, was not pleased and recalled Melo to Portugal in 1749. John V died the following year and his son, Joseph I of Portugal, was crowned. In contrast to his father, Joseph I was fond of de Melo, and with the Queen Mother's approval, he appointed Melo as Minister of Foreign Affairs.
+effectively ruled Portugal during the reign of King José I.]] In 1738, Sebastião José de Carvalho e Melo, 1st Marquis of Pombal, began a diplomatic career as the Portuguese Ambassador in London and later in Vienna. The Queen consort of Portugal, Archduchess Maria Anne Josefa of Austria, was fond of Melo; and after his first wife died, she arranged the widowed de Melo's second marriage to the daughter of the Austrian Field Marshal Leopold Josef, Count von Daun. King John V of Portugal, however, was not pleased and recalled Melo to Portugal in 1749. John V died the following year and his son, Joseph I of Portugal, was crowned. In contrast to his father, Joseph I was fond of de Melo, and with the Queen Mother's approval, he appointed Melo as Minister of Foreign Affairs.
 
 As the King's confidence in de Melo increased, the King entrusted him with more control of the state. By 1755, Sebastião de Melo was made Prime Minister. Impressed by British economic success that he had witnessed from his time as an Ambassador, he successfully implemented similar economic policies in Portugal. He abolished slavery in Portugal and in the Portuguese colonies in India, reorganized the army and the navy, restructured the University of Coimbra, and ended discrimination against different Christian sects in Portugal.
 
@@ -207,7 +205,7 @@ In the autumn of 1807, Napoleon moved French troops through Spain to invade Port
 
 In 1807, as Napoleon's army closed in on Lisbon, João VI of Portugal, the Prince Regent, transferred his court to Brazil and established Rio de Janeiro as the capital of the Portuguese Empire. In 1815, Brazil was declared a Kingdom and the Kingdom of Portugal was united with it, forming a pluricontinental state, the United Kingdom of Portugal, Brazil and the Algarves.
 
-Portuguese_Constitution_of_1826.jpg and his daughter Queen Maria II]] As a result of the change in its status and the arrival of the Portuguese royal family, Brazilian administrative, civic, economical, military, educational, and scientific apparatus were expanded and highly modernized. Portuguese and their allied British troops fought against the French Invasion of Portugal and by 1815 the situation in Europe had cooled down sufficiently that João VI would have been able to return safely to Lisbon. However, the King of Portugal remained in Brazil until the Liberal Revolution of 1820, which started in Porto, demanded his return to Lisbon in 1821.
+and his daughter Queen Maria II]] As a result of the change in its status and the arrival of the Portuguese royal family, Brazilian administrative, civic, economical, military, educational, and scientific apparatus were expanded and highly modernized. Portuguese and their allied British troops fought against the French Invasion of Portugal and by 1815 the situation in Europe had cooled down sufficiently that João VI would have been able to return safely to Lisbon. However, the King of Portugal remained in Brazil until the Liberal Revolution of 1820, which started in Porto, demanded his return to Lisbon in 1821.
 
 Thus he returned to Portugal but left his son Pedro in charge of Brazil. When the Portuguese Government attempted the following year to return the Kingdom of Brazil to subordinate status, his son Pedro, with the overwhelming support of the Brazilian elites, declared Brazil's independence from Portugal. Cisplatina (today's sovereign state of Uruguay), in the south, was one of the last additions to the territory of Brazil under Portuguese rule.
 
@@ -229,11 +227,11 @@ On February 1, 1908, King Dom Carlos I of Portugal and his heir apparent and his
 
 First Republic and Estado Novo
 
-Bernardino_Machado,_Teófilo_Braga,_António_José_de_Almeida_e_Afonso_Costa,_após_uma_sessão_solene_do_Parlamento_em_homenagem_aos_mortos_da_revolução_republicana,_1911.png, President Teófilo Braga, President António José de Almeida, and Prime Minister Afonso Costa; 1911]] The new republic had many problems. Portugal had 45 different governments in just 15 years. During World War 1 (1914–1918), Portugal helped the Allies fight the Central Powers. But the war hurt its weak economy. Political instability and economic weaknesses were fertile ground for chaos and unrest during the Portuguese First Republic. These conditions would lead to the failed Monarchy of the North, 28 May 1926 coup d'état, and the creation of the National Dictatorship (_Ditadura Nacional_). This in turn led to the establishment of the right-wing dictatorship of the Estado Novo under António de Oliveira Salazar in 1933.
+, President Teófilo Braga, President António José de Almeida, and Prime Minister Afonso Costa; 1911]] The new republic had many problems. Portugal had 45 different governments in just 15 years. During World War 1 (1914–1918), Portugal helped the Allies fight the Central Powers. But the war hurt its weak economy. Political instability and economic weaknesses were fertile ground for chaos and unrest during the Portuguese First Republic. These conditions would lead to the failed Monarchy of the North, 28 May 1926 coup d'état, and the creation of the National Dictatorship (_Ditadura Nacional_). This in turn led to the establishment of the right-wing dictatorship of the Estado Novo under António de Oliveira Salazar in 1933.
 
 Portugal remained neutral in World War II. From the 1940s to the 1960s, Portugal was a founding member of NATO, OECD and the European Free Trade Association (EFTA). Gradually, new economic development projects and relocation of mainland Portuguese citizens into the overseas provinces in Africa were initiated, with Angola and Mozambique, as the largest and richest overseas territories, being the main targets of those initiatives. These actions were used to affirm Portugal's status as a transcontinental nation and not as a colonial empire.
 
-After India attained independence in 1947, pro-Indian residents of Dadra and Nagar Haveli, with the support of the Indian government and the help of pro-independence organisations, separated the territories of Dadra and Nagar Haveli from Portuguese rule in 1954.[46] In 1961, São João Baptista de Ajudá's annexation by the Republic of Dahomey was the start of a process that led to the final dissolution of the centuries-old Portuguese Empire. Antonio_Salazar-1.jpg ruled Portugal from 1932 to 1968, within the Estado Novo regime.]] According to the census of 1921 São João Baptista de Ajudá had 5 inhabitants and, at the moment of the ultimatum by the Dahomey Government, it had only 2 inhabitants representing Portuguese Sovereignty.
+After India attained independence in 1947, pro-Indian residents of Dadra and Nagar Haveli, with the support of the Indian government and the help of pro-independence organisations, separated the territories of Dadra and Nagar Haveli from Portuguese rule in 1954.[46] In 1961, São João Baptista de Ajudá's annexation by the Republic of Dahomey was the start of a process that led to the final dissolution of the centuries-old Portuguese Empire. ruled Portugal from 1932 to 1968, within the Estado Novo regime.]] According to the census of 1921 São João Baptista de Ajudá had 5 inhabitants and, at the moment of the ultimatum by the Dahomey Government, it had only 2 inhabitants representing Portuguese Sovereignty.
 
 Another forcible retreat from overseas territories occurred in December 1961 when Portugal refused to relinquish the territories of Goa, Daman and Diu. As a result, the Portuguese army and navy were involved in armed conflict in its colony of Portuguese India against the Indian Armed Forces.
 
@@ -245,15 +243,15 @@ Throughout the colonial war period Portugal had to deal with increasing dissent,
 
 Carnation Revolution and European integration
 
-Portuguese_colonial_war_map1.PNG before independence in 1975]] The Portuguese government and army resisted the decolonization of its overseas territories until April 1974, when a bloodless left-wing military coup in Lisbon, known as the Carnation Revolution, led the way for the independence of the overseas territories in Africa and Asia, as well as for the restoration of democracy after two years of a transitional period known as PREC (_Processo Revolucionário Em Curso_). This period was characterized by social turmoil and power disputes between left- and right-wing political forces. The retreat from the overseas territories and the acceptance of its independence terms by Portuguese head representatives for overseas negotiations, which would create independent states in 1975, prompted a mass exodus of Portuguese citizens from Portugal's African territories (mostly from Portuguese Angola and Mozambique).[48][49]
+before independence in 1975]] The Portuguese government and army resisted the decolonization of its overseas territories until April 1974, when a bloodless left-wing military coup in Lisbon, known as the Carnation Revolution, led the way for the independence of the overseas territories in Africa and Asia, as well as for the restoration of democracy after two years of a transitional period known as PREC (_Processo Revolucionário Em Curso_). This period was characterized by social turmoil and power disputes between left- and right-wing political forces. The retreat from the overseas territories and the acceptance of its independence terms by Portuguese head representatives for overseas negotiations, which would create independent states in 1975, prompted a mass exodus of Portuguese citizens from Portugal's African territories (mostly from Portuguese Angola and Mozambique).[48][49]
 
 Over one million Portuguese refugees fled the former Portuguese provinces as white settlers were usually not considered part of the new identities of the former Portuguese colonies in Africa and Asia. Mário Soares and António de Almeida Santos were charged with organising the independence of Portugal's overseas territories. By 1975, all the Portuguese African territories were independent and Portugal held its first democratic elections in 50 years.
 
-Portugal continued to be governed by a Junta de Salvação Nacional until the Portuguese legislative election of 1976. It was won by the Portuguese Socialist Party (PS) and Mário Soares, its leader, became Prime Minister of the 1st Constitutional Government on 23 July. Mário Soares would be Prime Minister from 1976 to 1978 and again from 1983 to 1985. In this capacity Soares tried to resume the economic growth and development record that had been achieved before the Carnation Revolution, during the last decade of the previous regime. He initiated the process of accession to the European Economic Community (EEC) by starting accession negotiations as early as 1977. Portugese_minister_Soares_(voorzitter_Socialistische_Partij)_op_Schiphol_aangeko,_Bestanddeelnr_927-7110.jpg became Portugal's first democratically elected Prime-Minister in 1976.]] Portugal bounced between socialism and adherence to the neoliberal model. Land reform and nationalizations were enforced; the Portuguese Constitution (approved in 1976) was rewritten in order to accommodate socialist and communist principles. Until the constitutional revisions of 1982 and 1989, the constitution was a highly charged ideological document with numerous references to socialism, the rights of workers, and the desirability of a socialist economy. Portugal's economic situation after its transition to democracy, obliged the government to pursue International Monetary Fund (IMF)-monitored stabilization programs in 1977–78 and 1983–85.
+Portugal continued to be governed by a Junta de Salvação Nacional until the Portuguese legislative election of 1976. It was won by the Portuguese Socialist Party (PS) and Mário Soares, its leader, became Prime Minister of the 1st Constitutional Government on 23 July. Mário Soares would be Prime Minister from 1976 to 1978 and again from 1983 to 1985. In this capacity Soares tried to resume the economic growth and development record that had been achieved before the Carnation Revolution, during the last decade of the previous regime. He initiated the process of accession to the European Economic Community (EEC) by starting accession negotiations as early as 1977. became Portugal's first democratically elected Prime-Minister in 1976.]] Portugal bounced between socialism and adherence to the neoliberal model. Land reform and nationalizations were enforced; the Portuguese Constitution (approved in 1976) was rewritten in order to accommodate socialist and communist principles. Until the constitutional revisions of 1982 and 1989, the constitution was a highly charged ideological document with numerous references to socialism, the rights of workers, and the desirability of a socialist economy. Portugal's economic situation after its transition to democracy, obliged the government to pursue International Monetary Fund (IMF)-monitored stabilization programs in 1977–78 and 1983–85.
 
 In 1986, Portugal joined the European Economic Community (EEC) that later became the European Union (EU). In the following years Portugal's economy progressed considerably as a result of EEC/EU structural and cohesion funds and Portuguese companies' easier access to foreign markets.
 
-Portugal's last overseas and Asian colonial territory, Macau, was peacefully handed over to the People's Republic of China (PRC) on December 20, 1999, under the 1987 joint declaration that set the terms for Macau's handover from Portugal to the PRC. In 2002, the independence of East Timor (Asia) was formally recognized by Portugal, after an incomplete decolonization process that was started in 1975 because of the Carnation Revolution, but interrupted by an Indonesian armed invasion and occupation. Tratado_de_Lisboa_13_12_2007_(081).jpg was signed in 2007, when Portugal held the presidency for the European Council.]] On 26 March 1995, Portugal started to implement Schengen Area rules, eliminating border controls with other Schengen members while simultaneously strengthening border controls with non-member states. In 1996 the country was a co-founder of the Community of Portuguese Language Countries (CPLP) headquartered in Lisbon. In 1996, Jorge Sampaio became president. He won re-election in January 2001. Expo '98 took place in Portugal and in 1999 it was one of the founding countries of the euro and the eurozone. On July 5, 2004, José Manuel Barroso, then Prime Minister of Portugal, was nominated President of the European Commission, the most powerful office in the European Union. On 1 December 2009, the Treaty of Lisbon entered into force, after it had been signed by the European Union member states on 13 December 2007 in the Jerónimos Monastery, in Lisbon, enhancing the efficiency and democratic legitimacy of the Union and improving the coherence of its action. The Republic of Ireland was the only EU state to hold a democratic referendum on the Lisbon Treaty. It was initially rejected by voters in 2008.
+Portugal's last overseas and Asian colonial territory, Macau, was peacefully handed over to the People's Republic of China (PRC) on December 20, 1999, under the 1987 joint declaration that set the terms for Macau's handover from Portugal to the PRC. In 2002, the independence of East Timor (Asia) was formally recognized by Portugal, after an incomplete decolonization process that was started in 1975 because of the Carnation Revolution, but interrupted by an Indonesian armed invasion and occupation. was signed in 2007, when Portugal held the presidency for the European Council.]] On 26 March 1995, Portugal started to implement Schengen Area rules, eliminating border controls with other Schengen members while simultaneously strengthening border controls with non-member states. In 1996 the country was a co-founder of the Community of Portuguese Language Countries (CPLP) headquartered in Lisbon. In 1996, Jorge Sampaio became president. He won re-election in January 2001. Expo '98 took place in Portugal and in 1999 it was one of the founding countries of the euro and the eurozone. On July 5, 2004, José Manuel Barroso, then Prime Minister of Portugal, was nominated President of the European Commission, the most powerful office in the European Union. On 1 December 2009, the Treaty of Lisbon entered into force, after it had been signed by the European Union member states on 13 December 2007 in the Jerónimos Monastery, in Lisbon, enhancing the efficiency and democratic legitimacy of the Union and improving the coherence of its action. The Republic of Ireland was the only EU state to hold a democratic referendum on the Lisbon Treaty. It was initially rejected by voters in 2008.
 
 Economic disruption and an unsustainable growth in borrowing costs in the wake of the late-2000s financial crisis led the country to negotiate in 2011 with the IMF and the European Union, through the European Financial Stability Mechanism (EFSM) and the European Financial Stability Facility (EFSF), a loan to help the country stabilise its finances.
 
@@ -272,15 +270,13 @@ Portugal's exclusive economic zone, a sea zone over which the Portuguese have sp
 
 Climate
 
-Portugal_Köppen.svg
-
 Portugal is defined as a Mediterranean climate (_Csa_ in the South, interior, and Douro region; _Csb_ in the North, Central Portugal and coastal Alentejo; mixed oceanic climate along the northern half of the coastline,[52] Temperate Maritime (Cfb) in the mountains located in Northwestern sector (mainland) and also in some Azores islands, Semi-arid climate or Steppe climate (_(BSk_ in certain parts of Côa region and Beja district far South), and also in Porto Santo island (BSh), Warm Desertic (BWh) in Selvagens islands, Subtropical Humid in Corvo island (Cfa), according to the Köppen-Geiger Climate Classification), and is one of the warmest European countries: the annual average temperature in mainland Portugal varies from in the mountainous interior north to in the south and on the Guadiana river basin. There are however, variations from the highlands to the lowlands: Spanish biologist Salvador Rivas Martinez presents several different bioclimatic zones for Portugal.[53] The Algarve, separated from the Alentejo region by mountains reaching up to in Alto de Fóia, has a climate similar to that of the southern coastal areas of Spain or Southwest Australia.
 
 Annual average rainfall in the mainland varies from just over in the northern mountains to less than in the area of the Massueime River, near Côa, along the Douro river. Mount Pico is recognized as receiving the largest annual rainfall (over per year) in Portugal, according to _Instituto Português do Mar e da Atmosfera_.
 
 In some areas, such as the Guadiana basin, annual average temperatures can be as high as , and summer highest temperatures routinely are over . The record high of was recorded in Amareleja, although this might not be the hottest spot in summer, according to satellite readings.[54][55]
 
-Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86).JPG in Lagoa, Algarve is considered by the Michelin Guide as one of the 10 most beautiful beaches in Europe and as one of the 100 most beautiful beaches in the world.]]
+in Lagoa, Algarve is considered by the Michelin Guide as one of the 10 most beautiful beaches in Europe and as one of the 100 most beautiful beaches in the world.]]
 
 Snowfalls occur regularly in the winter in the interior North and Centre of the country in districts such as Guarda, Bragança, Viseu and Vila Real, particularly on the mountains. In winter temperatures may drop below in particular in Serra da Estrela, Serra do Gerês, Serra do Marão and Serra de Montesinho. In these places snow can fall any time from October to May. In the South of the country snowfalls are rare but still occur in the highest elevations. While the official absolute minimum by IPMA is in Penhas da Saúde and Miranda do Douro, lower temperatures have been recorded, such as by Bragança Polytechnic Institute in the outskirts of the city in 1983, and below in Serra da Estrela
 
@@ -294,7 +290,7 @@ Porto Santo island in Madeira has a semi-arid steppe climate (_BSh_). The Savage
 
 Biodiversity
 
-Geres1.jpg is the only nationally designated park in Portugal, owing to the rarity and significance of its environment]]
+is the only nationally designated park in Portugal, owing to the rarity and significance of its environment]]
 
 Despite the fact that humans have occupied the territory of Portugal for thousands of years, something still remains of the original vegetation. In Gerês both mature deciduous and coniferous forests can be found, an extremely rare worldwide mature Mediterranean forest remain in some parts of the Arrábida mountain and a subtropical laurissilva forest, dating back to the Tertiary period, covers its largest continuous area in the world in the Madeira main island. Due to the human population decrease and rural exodus, Pyrenean oak and other local native trees are colonizing many abandoned areas.
 
@@ -321,7 +317,7 @@ Portugal operates a multi-party system of competitive legislatures/local adminis
 
 Presidency of the Republic
 
-Portugal_(17135381862).jpg serves as the official residence and workplace of the President of the Republic.]]
+serves as the official residence and workplace of the President of the Republic.]]
 
 The Head of State of Portugal is the President of the Republic, elected to a five-year term by direct, universal suffrage. He or she has also supervision and reserve powers. Presidential powers include the appointment of the Prime Minister and the other members of the Government (where the President takes into account the results of legislative elections); dismissing the Prime Minister; dissolving the Assembly of the Republic (to call early elections); vetoing legislation (which may be overridden by the Assembly); and declaring a state of war or siege. The President is also the _ex officio_ Commander-in-Chief of the Armed Forces.
 
@@ -329,7 +325,7 @@ The President is advised on issues of importance by the Council of State, which 
 
 Government
 
-Lisboa_April_2014-15a.jpg houses multiple ministries of the Government of Portugal]]
+houses multiple ministries of the Government of Portugal]]
 
 The Government is headed by the presidentially appointed Prime Minister, also including one or more Deputy Prime Ministers, Ministers, Secretaries of State and Under-Secretaries of State.
 
@@ -341,7 +337,7 @@ The Council of Ministers – under the presidency of the Prime Minister (or the 
 
 Parliament
 
-Lisbon,_Portugal_(Sharon_Hahn_Darlin)_São_Bento.jpg is the seat of the Portuguese Legislature]]
+is the seat of the Portuguese Legislature]]
 
 The Assembly of the Republic, in Lisbon, is the national parliament of Portugal. It is the main legislative body, although the Government also has limited legislative powers.
 
@@ -351,7 +347,7 @@ Currently the Government (PS) and the parties supporting it through a confidence
 
 Law and drug policy
 
-Campus_Justiça_(cropped).JPG The Portuguese legal system is part of the civil law legal system, also called the continental family legal system. The main laws include the Constitution (1976, as amended), the Portuguese Civil Code (1966, as amended) and the Penal Code of Portugal (1982, as amended). Other relevant laws are the _Commercial Code_ (1888, as amended) and the _Civil Procedure Code_ (1961, as amended).
+The Portuguese legal system is part of the civil law legal system, also called the continental family legal system. The main laws include the Constitution (1976, as amended), the Portuguese Civil Code (1966, as amended) and the Penal Code of Portugal (1982, as amended). Other relevant laws are the _Commercial Code_ (1888, as amended) and the _Civil Procedure Code_ (1961, as amended).
 
 The supreme national courts are the Supreme Court of Justice and the Constitutional Court. The Public Ministry, headed by the Attorney General of the Republic, constitutes the independent body of public prosecutors.
 
@@ -367,7 +363,7 @@ Gay rights have increased substantially in the past years. On 31 May 2010, Portu
 
 Law enforcement
 
-Render_da_Guarda_no_Palacio_de_Belem_22.JPG's honor guard]] Portugal's main police organizations are the _Guarda Nacional Republicana – GNR_ (National Republican Guard), a gendarmerie; the _Polícia de Segurança Pública – PSP_ (Public Security Police), a civilian police force who work in urban areas; and the _Polícia Judiciária – PJ_ (Judicial Police), a highly specialized criminal investigation police that is overseen by the Public Ministry.
+'s honor guard]] Portugal's main police organizations are the _Guarda Nacional Republicana – GNR_ (National Republican Guard), a gendarmerie; the _Polícia de Segurança Pública – PSP_ (Public Security Police), a civilian police force who work in urban areas; and the _Polícia Judiciária – PJ_ (Judicial Police), a highly specialized criminal investigation police that is overseen by the Public Ministry.
 
 Correctional Services
 
@@ -406,7 +402,7 @@ Within the European Union NUTS system, Portugal is divided into seven regions: t
 
 Foreign relations
 
-Palácio_das_Necessidades_1997.JPG houses the Ministry of Foreign Affairs.]] António_Guterres_2012.jpg and former Prime Minister António Guterres]] A member state of the United Nations since 1955, Portugal is also a founding member of NATO (1949), OECD (1961) and EFTA (1960); it left the last in 1986 to join the European Economic Community, which became the European Union in 1993.
+houses the Ministry of Foreign Affairs.]] and former Prime Minister António Guterres]] A member state of the United Nations since 1955, Portugal is also a founding member of NATO (1949), OECD (1961) and EFTA (1960); it left the last in 1986 to join the European Economic Community, which became the European Union in 1993.
 
 In 1996, Portugal co-founded the Community of Portuguese Language Countries (CPLP), also known as the Lusophone Commonwealth, an international organization and political association of Lusophone nations across four continents, where Portuguese is an official language. The global headquarters of the CPLP is in Penafiel Palace, in Lisbon.
 
@@ -427,11 +423,10 @@ The Army (21,000 personnel) comprises three brigades and other small units. An i
 
 In addition to the three branches of the armed forces, there is the National Republican Guard, a security force subject to military law and organization (gendarmerie) comprising 25,000 personnel. This force is under the authority of both the Defense and the Interior Ministry. It has provided detachments for participation in international operations in Iraq and East Timor.
 
-+-----------------------------------------------+----------------------------+--------------------------------------------------------------------+
-| PoA_Chaimite_V-200_convoy_DF-SD-04-08002.JPEG | POS_Corte_Real_(F_332).jpg | Lockheed_F-16A_Fighting_Falcon,_Portugal_-_Air_Force_AN1088466.jpg |
-| Portuguese Army                               | Portuguese Navy            | Portuguese Air Force                                               |
-| Chaimite V-200                                | MEKO-200 PN                | F-16 Fighting Falcon                                               |
-+-----------------------------------------------+----------------------------+--------------------------------------------------------------------+
++-----------------+-----------------+----------------------+
+| Portuguese Army | Portuguese Navy | Portuguese Air Force |
+| Chaimite V-200  | MEKO-200 PN     | F-16 Fighting Falcon |
++-----------------+-----------------+----------------------+
 
 : BRANCHES OF THE PORTUGUESE ARMED FORCES
 
@@ -441,7 +436,7 @@ In the 20th century, Portugal engaged in two major conflicts: World War I and th
 
 Government finance
 
-Portuguese_debt_and_EU_average.png, compared to eurozone average]]
+, compared to eurozone average]]
 
 The Portuguese government is heavily indebted, and received a 78 billion euro bailout from the European Union and the International Monetary Fund in May 2011.[77] The ratio of Portugal's debt to its overall economy, was 107 percent when it received the bailout.[78] As part of the deal, the country agreed to cut its budget deficit from 9.8 percent of GDP in 2010 to 5.9 percent in 2011, 4.5 percent in 2012 and 3 percent in 2013.[79]
 
@@ -456,15 +451,13 @@ After the financial crisis of 2007–08, it was known in 2008–2009 that two Po
 
 Economy
 
-Portugal_Export_Treemap.png
-
 Portugal is a developed and a high income country, with a GDP per capita of 77% of the EU28 average in 2017 (increasing from 75% in 2012)[91] and a HDI of 0.843 (the 41st highest) in 2016.[92] By the end of 2018, Portugal's GDP (PPP) was $32,554 per capita, according to OECD's report.[93] The national currency of Portugal is the euro (€), which replaced the Portuguese Escudo, and the country was one of the original member states of the eurozone. Portugal's central bank is the _Banco de Portugal_, an integral part of the European System of Central Banks. Most industries, businesses and financial institutions are concentrated in the Lisbon and Porto metropolitan areas – the Setúbal, Aveiro, Braga, Coimbra and Leiria districts are the biggest economic centres outside these two main areas. According to World Travel Awards, Portugal was Europe's Leading Golf Destination in 2012 and 2013.[94][95]
 
-Avenida_da_Liberdade_(22344060581)_(cropped).jpg leading to Marquis of Pombal Square, Lisbon, one of the most expensive shopping streets in Europe.]]
+leading to Marquis of Pombal Square, Lisbon, one of the most expensive shopping streets in Europe.]]
 
 Since the Carnation Revolution of 1974, which culminated in the end of one of Portugal's most notable phases of economic expansion (that started in the 1960s),[96] a significant change has occurred in the nation's annual economic growth.[97] After the turmoil of the 1974 revolution and the PREC period, Portugal tried to adapt to a changing modern global economy, a process that continues in 2013. Since the 1990s, Portugal's public consumption-based economic development model has been slowly changing to a system that is focused on exports, private investment and the development of the high-tech sector. Consequently, business services have overtaken more traditional industries such as textiles, clothing, footwear and cork (Portugal is the world's leading cork producer),[98] wood products and beverages.[99]
 
-November_2011_Austerity_Protest_in_Lisbon,_Portugal.JPG]]
+]]
 
 In the second decade of the 21st century, the Portuguese economy suffered its most severe recession since the 1970s, resulting in the country having to be bailed out by the European Commission, European Central Bank and International Monetary Fund (IMF). The bailout, agreed to in 2011, required Portugal to enter into a range of austerity measures in exchange for funding support of €78,000,000,000. In May 2014, the country exited the bailout but reaffirmed its commitment to maintaining its reformist momentum. At the time of exiting the bailout, the economy had contracted by 0.7% in the first quarter of 2014; however, unemployment, while still high, had fallen to 15.3%.[100]
 
@@ -474,7 +467,7 @@ The Global Competitiveness Report for 2014–2015, published by the World Econom
 
 The Economist Intelligence Unit's quality of life index placed Portugal as the country with the 19th-best quality of life in the world for 2005, ahead of other economically and technologically advanced countries like France, Germany, the United Kingdom and South Korea, but 9 places behind its sole neighbor, Spain.[102] This is despite the fact that Portugal remains as one of the countries with the lowest per capita GDP in Western Europe.[103]
 
-Gold_Reserves.png in the world.]]
+in the world.]]
 
 Major state-owned companies include: Águas de Portugal (water), Caixa Geral de Depósitos (banking), Comboios de Portugal (railways), Companhia das Lezírias (agriculture) and RTP (media). Some former state-owned entities are managed by state-run holding company Parpública, which is a shareholder of several public and private companies. Among former state-owned companies recently privatised are: CTT (postal service), TAP Portugal (airline) and ANA (airports).
 
@@ -484,13 +477,13 @@ The International Monetary Fund issued an update report on the economy of Portug
 
 Primary sector
 
-Campilhas_March_2015-1a.jpg is known as the "bread basket of Portugal", being the country's leading region in wheat and cork production.]]
+is known as the "bread basket of Portugal", being the country's leading region in wheat and cork production.]]
 
 Agriculture in Portugal is based on small to medium-sized family-owned dispersed units. However, the sector also includes larger scale intensive farming export-oriented agrobusinesses backed by companies (like Grupo RAR's Vitacress, Sovena, Lactogal, Vale da Rosa, Companhia das Lezírias and Valouro). The country produces a wide variety of crops and livestock products, including: tomatoes, citrus, green vegetables, rice, wheat, barley, maize, olives, oilseeds, nuts, cherries, bilberry, table grapes, edible mushrooms, dairy products, poultry and beef.
 
 Forestry has also played an important economic role among the rural communities and industry (namely paper industry that includes Portucel Soporcel Group, engineered wood that includes Sonae Indústria, and furniture that includes several manufacturing plants in and around Paços de Ferreira, the core of Portugal's major industrial operations of IKEA). In 2001, the gross agricultural product accounted for 4% of the national GDP.
 
-Tombstone_of_a_Wine_Maker,_Museu_de_Évora_-_Apr_2011.jpg, a region to this day renowned for its wines]]
+, a region to this day renowned for its wines]]
 
 Traditionally a sea-power, Portugal has had a strong tradition in the Portuguese fishing sector and is one of the countries with the highest fish consumption per capita.[105] The main landing sites in Portugal (including Azores and Madeira), according to total landings in weight by year, are the harbours of Matosinhos, Peniche, Olhão, Sesimbra, Figueira da Foz, Sines, Portimão and Madeira. Portuguese-processed fish products are exported through several companies, under a number of different brands and registered trademarks, such as Ramirez, the world's oldest active canned fish producer.
 
@@ -502,7 +495,7 @@ W Resources stated in 2018 that it had started a new drilling campaign at its S�
 
 Secondary sector
 
-F._Portucel_Soporcel.jpg pulp and paper factory in Setúbal]]
+pulp and paper factory in Setúbal]]
 
 Industry is diversified, ranging from automotive (Volkswagen Autoeuropa and Peugeot Citroën), aerospace (Embraer and OGMA), electronics and textiles, to food, chemicals, cement and wood pulp. Volkswagen Group's AutoEuropa motor vehicle assembly plant in Palmela is among the largest foreign direct investment projects in Portugal. Modern non-traditional technology-based industries, such as aerospace, biotechnology and information technology, have been developed in several locations across the country. Alverca, Covilhã,[115] Évora,[116] and Ponte de Sor are the main centres of the Portuguese aerospace industry, which is led by Brazil-based company Embraer and the Portuguese company OGMA. Following the turn of the 21st century, many major biotechnology and information technology industries have been founded, and are concentrated in the metropolitan areas of Lisbon, Porto, Braga, Coimbra and Aveiro.
 
@@ -573,8 +566,6 @@ Native Portuguese are an Iberian ethnic group and they form 95% of the whole pop
 
 Despite the good economic development in the past three decades the Portuguese were the shortest in Europe since 1890. This emerging height gap took place in the 1840s and has increased since. One of the driving factors was the modest real wage development, given the late industrialization and economic growth in Portugal compared to the European core. Another determinant was the retarded human capital formation. [145]
 
-Bevölkerungspyramide_Portugal_2016.png
-
 The total fertility rate (TFR) was estimated at 1.52 children born/woman, one of the lowest in the world, which is below the replacement rate of 2.1,[146] it remains considerably below the high of 5.02 children born per woman in 1911.[147] In 2016, 52.8% of births were to unmarried women.[148] Like most Western countries, Portugal has to deal with low fertility levels: the country has experienced a sub-replacement fertility rate since the 1980s.[149] Portugal subsequently has the 17th oldest population in the world, with the average age of 43.7 years.[150]
 
 The structure of Portuguese society is characterised by a significant inequality which in 2016 placed the country in the lowest seventh of the Social Justice Index for the European Union.[151]
@@ -587,7 +578,7 @@ Urbanization
 
 Metropolitan areas
 
-[155] Densidade_populacional_por_concelho_-_INE_2001.png There are two Greater Metropolitan Areas (GAMs): Lisbon and Porto.[156] The following is a list of those with mainland Functional Urban Areas (FUA). |- style="background: #efefef;" !align=right| Rank !align=left| City name !align=left| Metro
+[155] There are two Greater Metropolitan Areas (GAMs): Lisbon and Porto.[156] The following is a list of those with mainland Functional Urban Areas (FUA). |- style="background: #efefef;" !align=right| Rank !align=left| City name !align=left| Metro
 Area !align=left| Population[157] !align=left| Subregion !align=left| Population !align=center|FUA Population
 2013 |- style="text-align:right;" |1 ||align=left| Lisbon || align=left| LISBON|| 2,821,699 || align=left| GRANDE LISBOA || 2,042,326 ||align=center|2,818,000 |- style="text-align:right;" |2||align=left| Porto || align=left| PORTO|| 1,758,531 || align=left| GRANDE PORTO || 1,401,805||align=center|1,295,000 |- style="text-align:right;" |3 ||align=left| Braga''' || align=left| Minho||814,083 || align=left| Cávado || 410,149||align=center|249,000 |- style="text-align:right;" |4 ||align=left| Aveiro || align=left| Aveiro || 461,819 || align=left| Baixo Vouga || 390,840||align=center|141,084 |- style="text-align:right;" |5 ||align=left| Faro || align=left| Algarve ||451,005 || align=left| Algarve || 451,005||align=center|118,000 |- style="text-align:right;" |6 ||align=left| Coimbra || align=left| Coimbra||422,708 || align=left| Baixo Mondego || 332,306||align=center|274,000 |- style="text-align:right;" |7 ||align=left| Viseu || align=left| Viseu || 338,229 || align=left| Dão-Lafões || 277,216 ||align=center|98,778 |}
 
@@ -613,8 +604,6 @@ Immigration
 
 In 2007, Portugal had 10,617,575 inhabitants of whom about 332,137 were legal immigrants.[160] In 2015, Portugal had 10,341,330 inhabitants of whom about 383,759 were legal migrants, making up 3.7% of the population.[161] In 2017, Portugal had 416,682 legal residents of foreign origin, of which 203,753 identified as male, and 212,929 as female.[162]
 
-COB_data_Portugal.PNG
-
 Portugal's colonial history has long since been a cornerstone of its national identity, as has its geographic position at the south-western corner of Europe, looking out into the Atlantic Ocean. It was one of the last western colonial European powers to give up its overseas territories (among them Angola and Mozambique in 1975), turning over the administration of Macau to the People's Republic of China at the end of 1999. Consequently, it has both influenced and been influenced by cultures from former colonies or dependencies, resulting in immigration from these former territories for both economic and personal reasons. Portugal, long a country of emigration (the vast majority of Brazilians have Portuguese ancestry),[163] has now become a country of net immigration,[164] and not just from the last Indian (Portuguese until 1961), African (Portuguese until 1975), and Far East Asian (Portuguese until 1999) overseas territories. An estimated 800,000 Portuguese returned to Portugal as the country's African possessions gained independence in 1975.[165]
 
 Since the 1990s, along with a boom in construction, several new waves of Ukrainian, Brazilian, Lusophone Africans and other Africans have settled in the country. Romanian, Moldovans, Kosovar and Chinese have also migrated to the country. Portugal's Romani population is estimated to be at about 40,000.[166] Numbers of Venezuelan, Pakistani and Indian migrants are also significant.
@@ -633,9 +622,9 @@ Portugal is a secular state: church and state were formally separated during the
 
 Languages
 
-Genísio04.jpg in Miranda do Douro, Trás-os-Montes]]
+in Miranda do Douro, Trás-os-Montes]]
 
-Map_of_the_portuguese_language_in_the_world.png is the world's 6th most spoken language, with approx. 260 million speakers.]]
+is the world's 6th most spoken language, with approx. 260 million speakers.]]
 
 Portuguese is the official language of Portugal. Portuguese is a Romance language that originated in what is now Galicia and Northern Portugal, originating from Galician-Portuguese which was the common language of the Galician and Portuguese people until the formation of Portugal while others will be Portunol - a mixture of Portuguese language and Spanish language near the Spain border and also in Brazil-Uruguay border located south of Brazil and north of Uruguay in the South America. There are still many similarities between the Galician culture and the Portuguese culture. Galicia is a consultative observer of the Community of Portuguese Language Countries.
 
@@ -673,7 +662,7 @@ The Portuguese health system is characterized by three coexisting systems: the N
 
 The Ministry of Health is responsible for developing health policy as well as managing the SNS. Five regional health administrations are in charge of implementing the national health policy objectives, developing guidelines and protocols and supervising health care delivery. Decentralization efforts have aimed at shifting financial and management responsibility to the regional level. In practice, however, the autonomy of regional health administrations over budget setting and spending has been limited to primary care.
 
-The SNS is predominantly funded through general taxation. Employer (including the state) and employee contributions represent the main funding sources of the health subsystems. In addition, direct payments by the patient and voluntary health insurance premiums account for a large proportion of funding. FCM-UNL.JPG]] Similar to the other Eur-A countries, most Portuguese die from noncommunicable diseases. Mortality from cardiovascular diseases (CVD) is higher than in the eurozone, but its two main components, ischaemic heart disease and cerebrovascular disease, display inverse trends compared with the Eur-A, with cerebrovascular disease being the single biggest killer in Portugal (17%). Portuguese people die 12% less often from cancer than in the Eur-A, but mortality is not declining as rapidly as in the Eur-A. Cancer is more frequent among children as well as among women younger than 44 years. Although lung cancer (slowly increasing among women) and breast cancer (decreasing rapidly) are scarcer, cervical cancer and prostate cancer are more frequent. Portugal has the highest mortality rate for diabetes in the Eur-A, with a sharp increase since the 1980s.
+The SNS is predominantly funded through general taxation. Employer (including the state) and employee contributions represent the main funding sources of the health subsystems. In addition, direct payments by the patient and voluntary health insurance premiums account for a large proportion of funding. ]] Similar to the other Eur-A countries, most Portuguese die from noncommunicable diseases. Mortality from cardiovascular diseases (CVD) is higher than in the eurozone, but its two main components, ischaemic heart disease and cerebrovascular disease, display inverse trends compared with the Eur-A, with cerebrovascular disease being the single biggest killer in Portugal (17%). Portuguese people die 12% less often from cancer than in the Eur-A, but mortality is not declining as rapidly as in the Eur-A. Cancer is more frequent among children as well as among women younger than 44 years. Although lung cancer (slowly increasing among women) and breast cancer (decreasing rapidly) are scarcer, cervical cancer and prostate cancer are more frequent. Portugal has the highest mortality rate for diabetes in the Eur-A, with a sharp increase since the 1980s.
 
 Portugal's infant mortality rate is around 2 deaths per 1000 newborns, with 2.4 deaths per 1000 live births.
 
@@ -704,21 +693,21 @@ Adventurer and poet Luís de Camões (c. 1524–1580) wrote the epic poem _Os Lu
 
 Cuisine
 
-Portuguese cuisine is diverse. The Portuguese consume a lot of dry cod (_bacalhau_ in Portuguese), for which there are hundreds of recipes.[187] There are more than enough _bacalhau_ dishes; over one for each day of the year. Two other popular fish recipes are grilled sardines and caldeirada, a potato-based stew that can be made from several types of fish. Typical Portuguese meat recipes made out of beef, pork, lamb, or chicken include _cozido à portuguesa_, _feijoada_, _frango de churrasco_, _leitão_ (roast suckling pig) and _carne de porco à alentejana_. A very popular northern dish is the arroz de sarrabulho (rice stewed in pigs blood) or the arroz de cabidela (rice and chickens meat stewed in chickens blood). _MargaretCafe_PasteisDeNata.JPG.]] Typical fast food dishes include the Francesinha (Frenchie) from Porto, "Tripas à moda do Porto" which is also a traditional plate from Porto, and _bifanas_ (grilled pork) or _prego_ (grilled beef) sandwiches, which are well known around the country. The Portuguese art of pastry has its origins in the many medieval Catholic monasteries spread widely across the country. These monasteries, using very few ingredients (mostly almonds, flour, eggs and some liquor), managed to create a spectacular wide range of different pastries, of which pastéis de Belém (or _pastéis de nata_) originally from Lisbon, and _ovos moles_ from Aveiro are examples. Portuguese cuisine is very diverse, with different regions having their own traditional dishes. The Portuguese have a culture of good food, and throughout the country there are myriads of good restaurants and typical small _tasquinhas_.
+Portuguese cuisine is diverse. The Portuguese consume a lot of dry cod (_bacalhau_ in Portuguese), for which there are hundreds of recipes.[187] There are more than enough _bacalhau_ dishes; over one for each day of the year. Two other popular fish recipes are grilled sardines and caldeirada, a potato-based stew that can be made from several types of fish. Typical Portuguese meat recipes made out of beef, pork, lamb, or chicken include _cozido à portuguesa_, _feijoada_, _frango de churrasco_, _leitão_ (roast suckling pig) and _carne de porco à alentejana_. A very popular northern dish is the arroz de sarrabulho (rice stewed in pigs blood) or the arroz de cabidela (rice and chickens meat stewed in chickens blood). .]] Typical fast food dishes include the Francesinha (Frenchie) from Porto, "Tripas à moda do Porto" which is also a traditional plate from Porto, and _bifanas_ (grilled pork) or _prego_ (grilled beef) sandwiches, which are well known around the country. The Portuguese art of pastry has its origins in the many medieval Catholic monasteries spread widely across the country. These monasteries, using very few ingredients (mostly almonds, flour, eggs and some liquor), managed to create a spectacular wide range of different pastries, of which pastéis de Belém (or _pastéis de nata_) originally from Lisbon, and _ovos moles_ from Aveiro are examples. Portuguese cuisine is very diverse, with different regions having their own traditional dishes. The Portuguese have a culture of good food, and throughout the country there are myriads of good restaurants and typical small _tasquinhas_.
 
 Portuguese wines have enjoyed international recognition since the times of the Romans, who associated Portugal with their god Bacchus. Today, the country is known by wine lovers and its wines have won several international prizes. Some of the best Portuguese wines are Vinho Verde, Vinho Alvarinho, Vinho do Douro, Vinho do Alentejo, Vinho do Dão, Vinho da Bairrada and the sweet Port Wine, Madeira Wine, and the Moscatel from Setúbal and Favaios. Port and Madeira are particularly appreciated in a wide range of places around the world.
 
 Music
 
-Jose_malhoa_fado.jpg, depicted in this famous painting (c. 1910) by José Malhoa, is Portugal's traditional music.]] Portuguese music encompasses a wide variety of genres. The traditional one is the Portuguese folk music which has deep roots in local customs having as instruments bagpipes, drums, flutes, tambourines, accordions and small guitars (_cavaquinho_). Within Portuguese folk music is the renowned genre of Fado, a melancholic urban music originated in Lisbon in the 19th century, probably inside bohemian environments, usually associated with the Portuguese guitar and _saudade_, or longing. Coimbra fado, a unique type of "troubadour serenading" fado, is also noteworthy. Internationally notable performers include Amália Rodrigues, Carlos Paredes, José Afonso, Mariza, Carlos do Carmo, António Chainho, Mísia, Dulce Pontes and Madredeus.
+, depicted in this famous painting (c. 1910) by José Malhoa, is Portugal's traditional music.]] Portuguese music encompasses a wide variety of genres. The traditional one is the Portuguese folk music which has deep roots in local customs having as instruments bagpipes, drums, flutes, tambourines, accordions and small guitars (_cavaquinho_). Within Portuguese folk music is the renowned genre of Fado, a melancholic urban music originated in Lisbon in the 19th century, probably inside bohemian environments, usually associated with the Portuguese guitar and _saudade_, or longing. Coimbra fado, a unique type of "troubadour serenading" fado, is also noteworthy. Internationally notable performers include Amália Rodrigues, Carlos Paredes, José Afonso, Mariza, Carlos do Carmo, António Chainho, Mísia, Dulce Pontes and Madredeus.
 
-In the classical music domain, Portugal is represented by names as the pianists Artur Pizarro, Maria João Pires, Sequeira Costa, the violinists Carlos Damas, Gerardo Ribeiro and in the past by the great cellist Guilhermina Suggia. Notable composers include José Vianna da Motta, Carlos Seixas, João Domingos Bomtempo, João de Sousa Carvalho, Luís de Freitas Branco and his student Joly Braga Santos, Fernando Lopes-Graça, Emmanuel Nunes and Sérgio Azevedo. Similarly, contemporary composers such as Nuno Malo and Miguel d'Oliveira have achieved some international success writing. AmaliaRodrigues1969_(cropped).jpg, known as the _Queen of Fado_, performing in 1969.]] In addition to Folk, Fado and Classical music, other genres are present at Portugal like pop and other types of modern music, particularly from North America and the United Kingdom, as well as a wide range of Portuguese, Caribbean, Lusophone African and Brazilian artists and bands. Artists with international recognition include Dulce Pontes, Moonspell, Buraka Som Sistema, Blasted Mechanism, David Carreira and The Gift, with the three latter being nominees for a MTV Europe Music Award.
+In the classical music domain, Portugal is represented by names as the pianists Artur Pizarro, Maria João Pires, Sequeira Costa, the violinists Carlos Damas, Gerardo Ribeiro and in the past by the great cellist Guilhermina Suggia. Notable composers include José Vianna da Motta, Carlos Seixas, João Domingos Bomtempo, João de Sousa Carvalho, Luís de Freitas Branco and his student Joly Braga Santos, Fernando Lopes-Graça, Emmanuel Nunes and Sérgio Azevedo. Similarly, contemporary composers such as Nuno Malo and Miguel d'Oliveira have achieved some international success writing. , known as the _Queen of Fado_, performing in 1969.]] In addition to Folk, Fado and Classical music, other genres are present at Portugal like pop and other types of modern music, particularly from North America and the United Kingdom, as well as a wide range of Portuguese, Caribbean, Lusophone African and Brazilian artists and bands. Artists with international recognition include Dulce Pontes, Moonspell, Buraka Som Sistema, Blasted Mechanism, David Carreira and The Gift, with the three latter being nominees for a MTV Europe Music Award.
 
 Portugal has several summer music festivals, such as _Festival Sudoeste_ in Zambujeira do Mar, _Festival de Paredes de Coura_ in Paredes de Coura, _Festival Vilar de Mouros_ near Caminha, Boom Festival in Idanha-a-Nova Municipality, _NOS Alive_, _Sumol Summer Fest_ in Ericeira, _Rock in Rio Lisboa_ and _Super Bock Super Rock_ in Greater Lisbon. Out of the summer season, Portugal has a large number of festivals, designed more to an urban audience, like Flowfest or Hip Hop Porto. Furthermore, one of the largest international Goa trance festivals takes place in central Portugal every two years, the Boom Festival, that is also the only festival in Portugal to win international awards: European Festival Award 2010 – Green'n'Clean Festival of the Year and the Greener Festival Award Outstanding 2008 and 2010. There is also the student festivals of _Queima das Fitas_ are major events in a number of cities across Portugal. In 2005, Portugal held the MTV Europe Music Awards, in Pavilhão Atlântico, Lisbon. Furthermore, Portugal won the Eurovision Song Contest 2017 in Kiev with the song "Amar pelos dois" presented by Salvador Sobral, and subsequently hosted the 2018 contest at the Altice Arena in Lisbon.[188][189]
 
 Visual arts
 
-A_Adoração_dos_Magos_(1828)_-_Domingos_Sequeira.png was one of the most prolific neoclassical painters. (_Adoration of the Magi_; 1828).|left]]
+was one of the most prolific neoclassical painters. (_Adoration of the Magi_; 1828).|left]]
 
 Portugal has a rich history in painting. The first well-known painters date back to the 15th century – like Nuno Gonçalves – were part of the late Gothic painting period. During the renaissance Portuguese painting was highly influenced by north European painting. In the Baroque period Joana d'Obidos and Vieira Lusitano were the most prolific painters. José Malhoa, known for his work _Fado_, and Columbano Bordalo Pinheiro (who painted the portraits of Teófilo Braga and Antero de Quental) were both references in naturalist painting.
 
@@ -728,13 +717,13 @@ Prominent international figures in visual arts nowadays include painters Vieira 
 
 Sport
 
-IRNPOR_match_2018_FIFA_World_Cup_11_(cropped).jpg is consistently ranked as the best football player in the world and considered to be one of the greatest players of all time.[190]]] Football is the most popular sport in Portugal. There are several football competitions ranging from local amateur to world-class professional level. The legendary Eusébio is still a major symbol of Portuguese football history. FIFA World Player of the Year winners Luís Figo and Cristiano Ronaldo, who won the FIFA Ballon d'Or, are two world-class Portuguese football players. Portuguese football managers are also noteworthy, with José Mourinho being among the most renowned.
+is consistently ranked as the best football player in the world and considered to be one of the greatest players of all time.[190]]] Football is the most popular sport in Portugal. There are several football competitions ranging from local amateur to world-class professional level. The legendary Eusébio is still a major symbol of Portuguese football history. FIFA World Player of the Year winners Luís Figo and Cristiano Ronaldo, who won the FIFA Ballon d'Or, are two world-class Portuguese football players. Portuguese football managers are also noteworthy, with José Mourinho being among the most renowned.
 
 The Portugal national football team – _Seleção Nacional_ – have won one UEFA European Championship title: the UEFA Euro 2016, with a 1–0 victory in the final over France, the tournament hosts. In addition, Portugal finished first in the 2018–19 UEFA Nations League with a 1–0 win over the Netherlands in the final (held in Portugal), second in the Euro 2004 (also held in Portugal), third in the 1966 FIFA World Cup and 2017 FIFA Confederations Cup, and fourth in the 2006 FIFA World Cup. At youth level, Portugal have won two FIFA World Youth Championships (in 1989 and 1991) and several UEFA European Youth Championships.
 
 S.L. Benfica, Sporting CP and FC Porto are the largest sports clubs by popularity and by number of trophies won, often known as "_os três grandes_" ("the big three"). They have won eight titles in the European UEFA club competitions, were present in 21 finals and have been regular contenders in the last stages almost every season. Other than football, many Portuguese sports clubs, including the "big three", compete in several other sports events with a varying level of success and popularity, these may include roller hockey, basketball, futsal, handball, and volleyball. The Portuguese Football Federation (FPF)  – _Federação Portuguesa de Futebol_ – annually hosts the Algarve Cup, a prestigious women's football tournament that has been celebrated in the Algarvian part of Portugal.
 
-The Portuguese national rugby union team qualified for the 2007 Rugby World Cup and the Portuguese national rugby sevens team has played in the World Rugby Sevens Series. Nélson_Évora_2015.jpg won gold in triple jump at the 2008 Beijing Olympics.]] In athletics, the Portuguese have won a number of gold, silver and bronze medals in the European, World and Olympic Games competitions. Cycling, with Volta a Portugal being the most important race, is also a popular sports event and include professional cycling teams such as Sporting CP, Boavista, Clube de Ciclismo de Tavira and União Ciclista da Maia. At international level, Portuguese cyclists have already achieved good results. Joaquim Agostinho finished on the podium in 1978 and 1979 Tour de France, and 1974 Vuelta a España. Rui Costa has won the world title in the men's road race.
+The Portuguese national rugby union team qualified for the 2007 Rugby World Cup and the Portuguese national rugby sevens team has played in the World Rugby Sevens Series. won gold in triple jump at the 2008 Beijing Olympics.]] In athletics, the Portuguese have won a number of gold, silver and bronze medals in the European, World and Olympic Games competitions. Cycling, with Volta a Portugal being the most important race, is also a popular sports event and include professional cycling teams such as Sporting CP, Boavista, Clube de Ciclismo de Tavira and União Ciclista da Maia. At international level, Portuguese cyclists have already achieved good results. Joaquim Agostinho finished on the podium in 1978 and 1979 Tour de France, and 1974 Vuelta a España. Rui Costa has won the world title in the men's road race.
 
 The country has also achieved notable performances in sports like fencing, judo, kitesurf, rowing, sailing, surfing, shooting, taekwondo, triathlon and windsurf, owning several European and world titles. The paralympic athletes have also conquered many medals in sports like swimming, boccia, athletics and wrestling.
 

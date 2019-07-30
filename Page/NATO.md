@@ -9,7 +9,7 @@ History
 
 On 4 March 1947 the Treaty of Dunkirk was signed by France and the United Kingdom as a _Treaty of Alliance and Mutual Assistance_ in the event of a possible attack by Germany or the Soviet Union in the aftermath of World War II. In 1948, this alliance was expanded to include the Benelux countries, in the form of the Western Union, also referred to as the Brussels Treaty Organization (BTO), established by the Treaty of Brussels.[8] Talks for a new military alliance which could also include North America resulted in the signature of the North Atlantic Treaty on 4 April 1949 by the member states of the Western Union plus the United States, Canada, Portugal, Italy, Norway, Denmark and Iceland.[9]
 
-Bundesarchiv_B_145_Bild-098967,_Aufnahme_der_Bundesrepublik_in_die_NATO.jpg joined NATO in 1955, which led to the formation of the rival Warsaw Pact during the Cold War.|alt=A long rectangular room with multiple rows of seated individuals on each side, and flags hanging at the far end.]]
+joined NATO in 1955, which led to the formation of the rival Warsaw Pact during the Cold War.|alt=A long rectangular room with multiple rows of seated individuals on each side, and flags hanging at the far end.]]
 
 The North Atlantic Treaty was largely dormant until the Korean War initiated the establishment of NATO to implement it, by means of an integrated military structure: This included the formation of Supreme Headquarters Allied Powers Europe (SHAPE) in 1951, which adopted the Western Union's military structures and plans.[10] In 1952 the post of Secretary General of NATO was established as the organization's chief civilian. That year also saw the first major NATO maritime exercises, Exercise Mainbrace and the accession of Greece and Turkey to the organization.[11][12] Following the London and Paris Conferences, West Germany was permitted to rearm militarily, as they joined NATO in May 1955, which was in turn a major factor in the creation of the Soviet-dominated Warsaw Pact, delineating the two opposing sides of the Cold War.
 
@@ -17,7 +17,7 @@ Doubts over the strength of the relationship between the European states and the
 
 The collapse of the Warsaw Pact in 1989–1991 removed the _de facto_ main adversary of NATO and caused a strategic re-evaluation of NATO's purpose, nature, tasks, and focus on the continent of Europe. This shift started with the 1990 signing in Paris of the Treaty on Conventional Armed Forces in Europe between NATO and the Soviet Union, which mandated specific military reductions across the continent that continued after the dissolution of the Soviet Union in December 1991.[14] At that time, European countries accounted for 34 percent of NATO's military spending; by 2012, this had fallen to 21 percent.[15] NATO also began a gradual expansion to include newly autonomous Central and Eastern European nations, and extended its activities into political and humanitarian situations that had not formerly been NATO concerns.[16]
 
-Berlin_Wall_at_NATO_Headquarters.jpg, a section of which is now displayed outside NATO Headquarters, marked a turning point in NATO's role in Europe.|alt=Two tall concrete sections of a wall in a grass lawn in front of a curved building with blue-glass windows.]]
+, a section of which is now displayed outside NATO Headquarters, marked a turning point in NATO's role in Europe.|alt=Two tall concrete sections of a wall in a grass lawn in front of a curved building with blue-glass windows.]]
 
 After the fall of the Berlin Wall in Germany in 1989, the organization conducted its first military interventions in Bosnia from 1992 to 1995 and later Yugoslavia in 1999 during the breakup of Yugoslavia.[17] Politically, the organization sought better relations with former Warsaw Pact countries, most of which joined the alliance in 1999 and 2004. Article 5 of the North Atlantic treaty, requiring member states to come to the aid of any member state subject to an armed attack, was invoked for the first and only time after the September 11 attacks,[18] after which troops were deployed to Afghanistan under the NATO-led ISAF. The organization has operated a range of additional roles since then, including sending trainers to Iraq, assisting in counter-piracy operations[19] and in 2011 enforcing a no-fly zone over Libya in accordance with UN Security Council Resolution 1973. The less potent Article 4, which merely invokes consultation among NATO members, has been invoked five times following incidents in the Iraq War, Syrian Civil War, and annexation of Crimea.[20]
 
@@ -36,7 +36,7 @@ No military operations were conducted by NATO during the Cold War. Following the
 
 Bosnia and Herzegovina intervention
 
-F-16_deliberate_force.JPG after the Srebrenica massacre.|alt=A fighter jet with AV marked on its tail takes off from a mountain runway.]]
+after the Srebrenica massacre.|alt=A fighter jet with AV marked on its tail takes off from a mountain runway.]]
 
 The Bosnian War began in 1992, as a result of the breakup of Yugoslavia. The deteriorating situation led to United Nations Security Council Resolution 816 on 9 October 1992, ordering a no-fly zone over central Bosnia and Herzegovina, which NATO began enforcing on 12 April 1993 with Operation _Deny Flight_. From June 1993 until October 1996, Operation _Sharp Guard_ added maritime enforcement of the arms embargo and economic sanctions against the Federal Republic of Yugoslavia. On 28 February 1994, NATO took its first wartime action by shooting down four Bosnian Serb aircraft violating the no-fly zone.
 
@@ -46,7 +46,7 @@ In August 1995, a two-week NATO bombing campaign, Operation _Deliberate Force_, 
 
 Kosovo intervention
 
-German_KFOR_troops_patrol_southern_Kosovo,_summer_1999.jpg soldiers patrol southern Kosovo in 1999.|alt=Three trucks of soldiers idle on a country road in front of trees and red roofed houses. The rear truck has KFOR painted on is back.]] MSU_Mitrovica_Manbox_-_Ibar_Bridge_summer_2019.jpg-MSU Carabinieri Patrols in front of the Ibar Bridge in Mitrovica, Kosovo, 2019]]
+soldiers patrol southern Kosovo in 1999.|alt=Three trucks of soldiers idle on a country road in front of trees and red roofed houses. The rear truck has KFOR painted on is back.]] -MSU Carabinieri Patrols in front of the Ibar Bridge in Mitrovica, Kosovo, 2019]]
 
 In an effort to stop Slobodan Milošević's Serbian-led crackdown on KLA separatists and Albanian civilians in Kosovo, the United Nations Security Council passed Resolution 1199 on 23 September 1998 to demand a ceasefire. Negotiations under US Special Envoy Richard Holbrooke broke down on 23 March 1999, and he handed the matter to NATO,[33] which started a 78-day bombing campaign on 24 March 1999.[34] Operation _Allied Force_ targeted the military capabilities of what was then the Federal Republic of Yugoslavia. During the crisis, NATO also deployed one of its international reaction forces, the ACE Mobile Force (Land), to Albania as the Albania Force (AFOR), to deliver humanitarian aid to refugees from Kosovo.[35]
 
@@ -56,13 +56,13 @@ The US, the UK, and most other NATO countries opposed efforts to require the UN 
 
 War in Afghanistan
 
-National_Park_Service_9-11_Statue_of_Liberty_and_WTC.jpg in the United States caused NATO to invoke its collective defence article for the first time.|alt=A monumental green copper statue of a woman with a torch stands on an island in front of a mainland where a massive plume of gray smoke billows amongst skyscrapers.]]
+in the United States caused NATO to invoke its collective defence article for the first time.|alt=A monumental green copper statue of a woman with a torch stands on an island in front of a mainland where a massive plume of gray smoke billows amongst skyscrapers.]]
 
 The September 11 attacks in the United States caused NATO to invoke Article 5 of the NATO Charter for the first time in the organization's history. The Article states that an attack on any member shall be considered to be an attack on all. The invocation was confirmed on 4 October 2001 when NATO determined that the attacks were indeed eligible under the terms of the North Atlantic Treaty.[42] The eight official actions taken by NATO in response to the attacks included Operation _Eagle Assist_ and Operation _Active Endeavour_, a naval operation in the Mediterranean Sea designed to prevent the movement of terrorists or weapons of mass destruction, and to enhance the security of shipping in general, which began on 4 October 2001.[43]
 
 The alliance showed unity: On 16 April 2003, NATO agreed to take command of the International Security Assistance Force (ISAF), which included troops from 42 countries. The decision came at the request of Germany and the Netherlands, the two nations leading ISAF at the time of the agreement, and all nineteen NATO ambassadors approved it unanimously. The handover of control to NATO took place on 11 August, and marked the first time in NATO's history that it took charge of a mission outside the north Atlantic area.[44]
 
-Rodriguez_at_Italian_command_change_in_Herat.jpg at an Italian change of command in Herat|alt=A general hands a NATO flag from a soldier on the left to one on the right. ]]
+at an Italian change of command in Herat|alt=A general hands a NATO flag from a soldier on the left to one on the right. ]]
 
 ISAF was initially charged with securing Kabul and surrounding areas from the Taliban, al Qaeda and factional warlords, so as to allow for the establishment of the Afghan Transitional Administration headed by Hamid Karzai. In October 2003, the UN Security Council authorized the expansion of the ISAF mission throughout Afghanistan,[45] and ISAF subsequently expanded the mission in four main stages over the whole of the country.[46]
 
@@ -76,7 +76,7 @@ Turkey invoked the first Article 4 meetings in 2003 at the start of the Iraq War
 
 Gulf of Aden anti-piracy
 
-Gulf_of_Aden_-_disabled_pirate_boat.jpg destroying a Somali pirate skiff in March 2010|alt=A tall plume of black smoke rises from the blue ocean waters next to a large gray battleship and a small black inflatable boat.]]
+destroying a Somali pirate skiff in March 2010|alt=A tall plume of black smoke rises from the blue ocean waters next to a large gray battleship and a small black inflatable boat.]]
 
 Beginning on 17 August 2009, NATO deployed warships in an operation to protect maritime traffic in the Gulf of Aden and the Indian Ocean from Somali pirates, and help strengthen the navies and coast guards of regional states. The operation was approved by the North Atlantic Council and involves warships primarily from the United States though vessels from many other nations are also included. Operation _Ocean Shield_ focuses on protecting the ships of Operation _Allied Provider_ which are distributing aid as part of the World Food Programme mission in Somalia. Russia, China and South Korea have sent warships to participate in the activities as well.[54][55] The operation seeks to dissuade and interrupt pirate attacks, protect vessels, and abetting to increase the general level of security in the region.[56]
 
@@ -86,7 +86,7 @@ During the Libyan Civil War, violence between protestors and the Libyan governme
 
 On 20 March 2011, NATO states agreed on enforcing an arms embargo against Libya with Operation _Unified Protector_ using ships from NATO Standing Maritime Group 1 and Standing Mine Countermeasures Group 1,[57] and additional ships and submarines from NATO members.[58] They would "monitor, report and, if needed, interdict vessels suspected of carrying illegal arms or mercenaries".[59]
 
-Palmaria_bengasi_1903_0612_b1.jpg destroyed by the French Air Force near Benghazi in March 2011|alt=Pieces of a destroyed tank, notably the gun turret, lie on a sandy landscape.]]
+destroyed by the French Air Force near Benghazi in March 2011|alt=Pieces of a destroyed tank, notably the gun turret, lie on a sandy landscape.]]
 
 On 24 March, NATO agreed to take control of the no-fly zone from the initial coalition, while command of targeting ground units remained with the coalition's forces.[60][61] NATO began officially enforcing the UN resolution on 27 March 2011 with assistance from Qatar and the United Arab Emirates.[62] By June, reports of divisions within the alliance surfaced as only eight of the 28 member nations were participating in combat operations,[63] resulting in a confrontation between US Defense Secretary Robert Gates and countries such as Poland, Spain, the Netherlands, Turkey, and Germany to contribute more, the latter believing the organization has overstepped its mandate in the conflict.[64][65][66] In his final policy speech in Brussels on 10 June, Gates further criticized allied countries in suggesting their actions could cause the demise of NATO.[67] The German foreign ministry pointed to "a considerable [German] contribution to NATO and NATO-led operations" and to the fact that this engagement was highly valued by President Obama.[68]
 
@@ -95,17 +95,15 @@ While the mission was extended into September, Norway that day announced it woul
 
 Participating countries
 
-+---------------------------------------+-----------------------------------+
-| Map of NATO affiliations in Europe    | Map of NATO partnerships globally |
-+=======================================+===================================+
-| Major_NATO_affiliations_in_Europe.svg | NATO_partnerships.svg             |
-+---------------------------------------+-----------------------------------+
-| [TABLE]                               |                                   |
-+---------------------------------------+-----------------------------------+
++------------------------------------+-----------------------------------+
+| Map of NATO affiliations in Europe | Map of NATO partnerships globally |
++====================================+===================================+
+|                                    |                                   |
++------------------------------------+-----------------------------------+
+| [TABLE]                            |                                   |
++------------------------------------+-----------------------------------+
 
 Members
-
-NATO_and_US_EU_Summits_in_Lisbon_(2).jpg
 
 NATO has twenty-nine members, mainly in Europe and North America. Some of these countries also have territory on multiple continents, which can be covered only as far south as the Tropic of Cancer in the Atlantic Ocean, which defines NATO's "area of responsibility" under Article 6 of the North Atlantic Treaty. During the original treaty negotiations, the United States insisted that colonies such as the Belgian Congo be excluded from the treaty.[77] French Algeria was however covered until their independence on 3 July 1962.[78] Twelve of these twenty-nine are original members who joined in 1949, while the other seventeen joined in one of seven enlargement rounds.
 
@@ -113,7 +111,7 @@ From the mid-1960s to the mid-1990s, France pursued a military strategy of indep
 
 Enlargement
 
-History_of_NATO_enlargement.svg and the end of the Cold War.|alt=A map of Europe with countries labeled in shades of blue, green, and yellow based on when they joined NATO.]] New membership in the alliance has been largely from Central and Eastern Europe, including former members of the Warsaw Pact. Accession to the alliance is governed with individual Membership Action Plans, and requires approval by each current member. NATO currently has two candidate countries that are in the process of joining the alliance: Bosnia and Herzegovina and North Macedonia. North Macedonia signed an accession protocol to become a NATO member state in February 2019, which is undergoing ratification by the member states.[83] Its accession had been blocked by Greece for many years due to the Macedonia naming dispute, which was resolved in 2018 by the Prespa agreement.[84] In order to support each other in the process, new and potential members in the region formed the Adriatic Charter in 2003.[85] Georgia was also named as an aspiring member, and was promised "future membership" during the 2008 summit in Bucharest,[86] though in 2014, US President Barack Obama said the country was not "currently on a path" to membership.[87]
+and the end of the Cold War.|alt=A map of Europe with countries labeled in shades of blue, green, and yellow based on when they joined NATO.]] New membership in the alliance has been largely from Central and Eastern Europe, including former members of the Warsaw Pact. Accession to the alliance is governed with individual Membership Action Plans, and requires approval by each current member. NATO currently has two candidate countries that are in the process of joining the alliance: Bosnia and Herzegovina and North Macedonia. North Macedonia signed an accession protocol to become a NATO member state in February 2019, which is undergoing ratification by the member states.[83] Its accession had been blocked by Greece for many years due to the Macedonia naming dispute, which was resolved in 2018 by the Prespa agreement.[84] In order to support each other in the process, new and potential members in the region formed the Adriatic Charter in 2003.[85] Georgia was also named as an aspiring member, and was promised "future membership" during the 2008 summit in Bucharest,[86] though in 2014, US President Barack Obama said the country was not "currently on a path" to membership.[87]
 
 Russia continues to oppose further expansion, seeing it as inconsistent with informal understandings between Soviet leader Mikhail Gorbachev and European and US negotiators that allowed for a peaceful German reunification.[88] NATO's expansion efforts are often seen by Moscow leaders as a continuation of a Cold War attempt to surround and isolate Russia,[89] though they have also been criticised in the West.[90] A June 2016 Levada poll found that 68% of Russians think that deploying NATO troops in the Baltic states and Poland—former Eastern bloc countries bordering Russia—is a threat to Russia.[91] In contrast 65% of Poles surveyed in 2017 Pew Research Center report identified Russia as a "major threat", with an average of 31% saying so across all NATO countries,[92] and 67% of Poles surveyed in 2018 favour US forces being based in Poland.[93] Of non-CIS Eastern European countries surveyed by Gallup in 2016, all but Serbia and Montenegro were more likely than not to view NATO as a protective alliance rather than a threat.[94]
 
@@ -123,7 +121,7 @@ A 2006 study in the journal _Security Studies_ argued that NATO enlargement cont
 
 Partnerships
 
-Cooperative_Archer_2007.jpg |accessdate= 3 December 2013 |archive-url= https://web.archive.org/web/20140107122519/http://en.ria.ru/world/20070709/68610511.html |archive-date= 7 January 2014 |dead-url= no }}|alt=Hundreds of soldiers in military uniforms stand behind a line on a tarmac with 14 flags held by individuals at the front.]] The Partnership for Peace (PfP) programme was established in 1994 and is based on individual bilateral relations between each partner country and NATO: each country may choose the extent of its participation.[99] Members include all current and former members of the Commonwealth of Independent States.[100] The Euro-Atlantic Partnership Council (EAPC) was first established on 29 May 1997, and is a forum for regular coordination, consultation and dialogue between all fifty participants.[101] The PfP programme is considered the operational wing of the Euro-Atlantic Partnership.[102] Other third countries also have been contacted for participation in some activities of the PfP framework such as Afghanistan.[103]
+|accessdate= 3 December 2013 |archive-url= https://web.archive.org/web/20140107122519/http://en.ria.ru/world/20070709/68610511.html |archive-date= 7 January 2014 |dead-url= no }}|alt=Hundreds of soldiers in military uniforms stand behind a line on a tarmac with 14 flags held by individuals at the front.]] The Partnership for Peace (PfP) programme was established in 1994 and is based on individual bilateral relations between each partner country and NATO: each country may choose the extent of its participation.[99] Members include all current and former members of the Commonwealth of Independent States.[100] The Euro-Atlantic Partnership Council (EAPC) was first established on 29 May 1997, and is a forum for regular coordination, consultation and dialogue between all fifty participants.[101] The PfP programme is considered the operational wing of the Euro-Atlantic Partnership.[102] Other third countries also have been contacted for participation in some activities of the PfP framework such as Afghanistan.[103]
 
 The European Union (EU) signed a comprehensive package of arrangements with NATO under the Berlin Plus agreement on 16 December 2002. With this agreement, the EU was given the possibility to use NATO assets in case it wanted to act independently in an international crisis, on the condition that NATO itself did not want to act – the so-called "right of first refusal".[104] For example, Article 42(7) of the 1982 Treaty of Lisbon specifies that "If a Member State is the victim of armed aggression on its territory, the other Member States shall have towards it an obligation of aid and assistance by all the means in their power". The treaty applies globally to specified territories whereas NATO is restricted under its Article 6 to operations north of the Tropic of Cancer. It provides a "double framework" for the EU countries that are also linked with the PfP programme.
 
@@ -134,7 +132,7 @@ Political dialogue with Japan began in 1990, and since then, the Alliance has gr
 
 Structure
 
-NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_at_NATO_headquarters_in_Brussels_2010.jpg All agencies and organizations of NATO are integrated into either the civilian administrative or military executive roles. For the most part they perform roles and functions that directly or indirectly support the security role of the alliance as a whole.
+All agencies and organizations of NATO are integrated into either the civilian administrative or military executive roles. For the most part they perform roles and functions that directly or indirectly support the security role of the alliance as a whole.
 
 The civilian structure includes:
 

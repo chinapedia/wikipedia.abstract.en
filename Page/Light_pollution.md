@@ -1,4 +1,4 @@
-ISS-35_Night_image_of_Paris,_France.jpg at night (France)]] Empire_State_Building_Night.jpg photo of New York City at night shows skyglow, one form of light pollution.]] Light_pollution_country_versus_city.png from a small rural town (top) and a metropolitan area (bottom). Light pollution dramatically reduces the visibility of stars.]] YOUTUBE_HQ-12573_blackmarble_2017_youtube_hq.webm
+at night (France)]] photo of New York City at night shows skyglow, one form of light pollution.]] from a small rural town (top) and a metropolitan area (bottom). Light pollution dramatically reduces the visibility of stars.]]
 
 LIGHT POLLUTION, also known as PHOTO POLLUTION, is the presence of anthropogenic and artificial light in the night environment. It is exacerbated by excessive, misdirected or obtrusive uses of light, but even carefully used light fundamentally alters natural conditions. As a major side-effect of urbanization, it is blamed for compromising health, disrupting ecosystems and spoiling aesthetic environments.
 
@@ -30,7 +30,7 @@ Disputes are still common when deciding appropriate action; and differences in o
 
 Types
 
-Skybeamer-uniqema-640.jpg, pointing upward at Uniqema factory, Gouda, the Netherlands.]]
+, pointing upward at Uniqema factory, Gouda, the Netherlands.]]
 
 LIGHT POLLUTION is caused by inefficient, unappealing, or (arguably) unnecessary use of artificial light. Specific categories of light pollution include light trespass, over-illumination, glare, light clutter, and skyglow. A single offending light source often falls into more than one of these categories.
 
@@ -38,13 +38,13 @@ Light trespass
 
 LIGHT TRESPASS occurs when unwanted light enters one's property, for instance, by shining over a neighbor's fence. A common light trespass problem occurs when a strong light enters the window of one's home from the outside, causing problems such as sleep deprivation. A number of cities in the U.S. have developed standards for outdoor lighting to protect the rights of their citizens against light trespass. To assist them, the International Dark-Sky Association has developed a set of model lighting ordinances.[12]
 
-The Dark-Sky Association was started to reduce the light going up into the sky which reduces visibility of stars (see Skyglow below). This is any light which is emitted more than 90° above nadir. By limiting light at this 90° mark they have also reduced the light output in the 80–90° range which creates most of the light trespass issues. Phoenix_Lights_from_afar.jpg U.S. federal agencies may also enforce standards and process complaints within their areas of jurisdiction. For instance, in the case of light trespass by white strobe lighting from communication towers in excess of FAA minimum lighting requirements[13] the Federal Communications Commission maintains an Antenna Structure Registration database[14] information which citizens may use to identify offending structures and provides a mechanism for processing citizen inquiries and complaints.[15] The U.S. Green Building Council (USGBC) has also incorporated a credit for reducing the amount of light trespass and sky glow into their environmentally friendly building standard known as LEED.
+The Dark-Sky Association was started to reduce the light going up into the sky which reduces visibility of stars (see Skyglow below). This is any light which is emitted more than 90° above nadir. By limiting light at this 90° mark they have also reduced the light output in the 80–90° range which creates most of the light trespass issues. U.S. federal agencies may also enforce standards and process complaints within their areas of jurisdiction. For instance, in the case of light trespass by white strobe lighting from communication towers in excess of FAA minimum lighting requirements[13] the Federal Communications Commission maintains an Antenna Structure Registration database[14] information which citizens may use to identify offending structures and provides a mechanism for processing citizen inquiries and complaints.[15] The U.S. Green Building Council (USGBC) has also incorporated a credit for reducing the amount of light trespass and sky glow into their environmentally friendly building standard known as LEED.
 
 Light trespass can be reduced by selecting light fixtures which limit the amount of light emitted more than 80° above the nadir. The IESNA definitions include full cutoff (0%), cutoff (10%), and semi-cutoff (20%). (These definitions also include limits on light emitted above 90° to reduce sky glow.)
 
 Over-illumination
 
-HPS-lamps.jpg lamps shining upward, of which much light goes into the sky and neighboring apartment blocks and causes light pollution.]]
+lamps shining upward, of which much light goes into the sky and neighboring apartment blocks and causes light pollution.]]
 
 Over-illumination is the excessive use of light. Specifically within the United States, over-illumination is responsible for approximately two million barrels of oil per day in energy wasted. This is based upon U.S. consumption of equivalent of of petroleum.[16] It is further noted in the same U.S. Department of Energy source that over 30% of all primary energy is consumed by commercial, industrial and residential sectors. Energy audits of existing buildings demonstrate that the lighting component of residential, commercial and industrial uses consumes about 20–40% of those land uses, variable with region and land use. (Residential use lighting consumes only 10–30% of the energy bill while commercial buildings' major use is lighting.[17]) Thus lighting energy accounts for about four or five million barrels of oil (equivalent) per day. Again energy audit data demonstrates that about 30–60% of energy consumed in lighting is unneeded or gratuitous.[18]
 
@@ -77,18 +77,18 @@ Glare can be categorized into different types. One such classification is descri
 
 According to Mario Motta, president of the Massachusetts Medical Society, "... glare from bad lighting is a public-health hazard—especially the older you become. Glare light scattering in the eye causes loss of contrast and leads to unsafe driving conditions, much like the glare on a dirty windshield from low-angle sunlight or the high beams from an oncoming car."[26] In essence bright and/or badly shielded lights around roads can partially blind drivers or pedestrians and contribute to accidents.
 
-The blinding effect is caused in large part by reduced contrast due to light scattering in the eye by excessive brightness, or to reflection of light from dark areas in the field of vision, with luminance similar to the background luminance. This kind of glare is a particular instance of disability glare, called veiling glare. (This is not the same as loss of accommodation of night vision which is caused by the direct effect of the light itself on the eye.) San_Tan_Mountain_Lights.jpg
+The blinding effect is caused in large part by reduced contrast due to light scattering in the eye by excessive brightness, or to reflection of light from dark areas in the field of vision, with luminance similar to the background luminance. This kind of glare is a particular instance of disability glare, called veiling glare. (This is not the same as loss of accommodation of night vision which is caused by the direct effect of the light itself on the eye.)
 
 Light clutter
 
-Las_Vegas_Strip.png displays excessive groupings of colorful lights. This is a classic example of light clutter.]]
+displays excessive groupings of colorful lights. This is a classic example of light clutter.]]
 
 Light clutter refers to excessive groupings of lights. Groupings of lights may generate confusion, distract from obstacles (including those that they may be intended to illuminate), and potentially cause accidents. Clutter is particularly noticeable on roads where the street lights are badly designed, or where brightly lit advertising surrounds the roadways. Depending on the motives of the person or organization that installed the lights, their placement and design can even be intended to distract drivers, and can contribute to accidents.
 
 
 Measurement and global effects
 
-Light_pollution_europe.jpg from artificial light sources.]]
+from artificial light sources.]]
 
 Measuring the effect of sky glow on a global scale is a complex procedure. The natural atmosphere is not completely dark, even in the absence of terrestrial sources of light and illumination from the Moon. This is caused by two main sources: _airglow_ and _scattered light_.
 
@@ -108,14 +108,14 @@ Light pollution in Hong Kong was declared the 'worst on the planet' in March 201
 
 In June 2016, it was estimated that one third of the world's population could no longer see the Milky Way, including 80% of Americans and 60% of Europeans. Singapore was found to be the most light-polluted country in the world.[34][35]
 
-BlackMarble20161km.jpg satellite, showing the extent of visible lights in 2016. The effects of light pollution – especially skyglow – spread far beyond the light sources visible here.]]
+satellite, showing the extent of visible lights in 2016. The effects of light pollution – especially skyglow – spread far beyond the light sources visible here.]]
 
 
 Consequences
 
 Effects on human health and psychology
 
-Lichtverschmutzung_in_Kastelruth.JPG in South Tyrol.]]
+in South Tyrol.]]
 
 Medical research on the effects of excessive light on the human body suggests that a variety of adverse health effects may be caused by light pollution or excessive light exposure, and some lighting design textbooks[36] use human health as an explicit criterion for proper interior lighting. Health effects of over-illumination or improper spectral composition of light may include: increased headache incidence, worker fatigue, medically defined stress, decrease in sexual function and increase in anxiety.[37][38][39][40] Likewise, animal models have been studied demonstrating unavoidable light to produce adverse effect on mood and anxiety.[41] For those who need to be awake at night, light at night also has an acute effect on alertness and mood.[42]
 
@@ -131,7 +131,7 @@ When artificial light affects organisms and ecosystems it is called ecological l
 
 Light pollution poses a serious threat in particular to nocturnal wildlife, having negative impacts on plant and animal physiology. It can confuse animal navigation, alter competitive interactions, change predator-prey relations, and cause physiological harm.[56] The rhythm of life is orchestrated by the natural diurnal patterns of light and dark, so disruption to these patterns impacts the ecological dynamics.[57]
 
-Studies suggest that light pollution around lakes prevents zooplankton, such as _Daphnia_, from eating surface algae, causing algal blooms that can kill off the lakes' plants and lower water quality.[58] Light pollution may also affect ecosystems in other ways. For example, lepidopterists and entomologists have documented that nighttime light may interfere with the ability of moths and other nocturnal insects to navigate.[59] Night-blooming flowers that depend on moths for pollination may be affected by night lighting, as there is no replacement pollinator that would not be affected by the artificial light. This can lead to species decline of plants that are unable to reproduce, and change an area's longterm ecology.[60] Among nocturnal insects, fireflies (Coleoptera: Lampyridae, Phengodidae and Elateridae) are especially interesting study objects for light pollution, once they depend on their own light to reproduce and, consequently, are very sensitive to environmental levels of light.[61][62][63] Fireflies are charismatic[64] (which is a rare quality among insects) and are easily spotted by nonexperts, and, due to their sensibility and rapid response to environmental changes, good bioindicators for artificial night lighting.[65] Massive insect declines have been suggested as being at least partially mediated by artificial lights at night.[66] Scorpion_in_arizona.jpg A 2009 study[67] also suggests deleterious impacts on animals and ecosystems because of perturbation of polarized light or artificial polarization of light (even during the day, because direction of natural polarization of sun light and its reflection is a source of information for a lot of animals). This form of pollution is named polarized light pollution (PLP). Unnatural polarized light sources can trigger maladaptive behaviors in polarization-sensitive taxa and alter ecological interactions.[68]
+Studies suggest that light pollution around lakes prevents zooplankton, such as _Daphnia_, from eating surface algae, causing algal blooms that can kill off the lakes' plants and lower water quality.[58] Light pollution may also affect ecosystems in other ways. For example, lepidopterists and entomologists have documented that nighttime light may interfere with the ability of moths and other nocturnal insects to navigate.[59] Night-blooming flowers that depend on moths for pollination may be affected by night lighting, as there is no replacement pollinator that would not be affected by the artificial light. This can lead to species decline of plants that are unable to reproduce, and change an area's longterm ecology.[60] Among nocturnal insects, fireflies (Coleoptera: Lampyridae, Phengodidae and Elateridae) are especially interesting study objects for light pollution, once they depend on their own light to reproduce and, consequently, are very sensitive to environmental levels of light.[61][62][63] Fireflies are charismatic[64] (which is a rare quality among insects) and are easily spotted by nonexperts, and, due to their sensibility and rapid response to environmental changes, good bioindicators for artificial night lighting.[65] Massive insect declines have been suggested as being at least partially mediated by artificial lights at night.[66] A 2009 study[67] also suggests deleterious impacts on animals and ecosystems because of perturbation of polarized light or artificial polarization of light (even during the day, because direction of natural polarization of sun light and its reflection is a source of information for a lot of animals). This form of pollution is named polarized light pollution (PLP). Unnatural polarized light sources can trigger maladaptive behaviors in polarization-sensitive taxa and alter ecological interactions.[68]
 
 Lights on tall structures can disorient migrating birds. Estimates by the U.S. Fish and Wildlife Service of the number of birds killed after being attracted to tall towers range from 4 to 5 million per year to an order of magnitude higher.[69] The Fatal Light Awareness Program (FLAP) works with building owners in Toronto, Ontario, Canada and other cities to reduce mortality of birds by turning out lights during migration periods.
 
@@ -143,7 +143,7 @@ In September 2009, the 9th European Dark-Sky Symposium in Armagh, Northern Irela
 
 Effect on astronomy
 
-Light_pollution_It's_not_pretty.jpg, imaged at left from dark skies, and at right from within the Provo/Orem, Utah metropolitan area.]]
+, imaged at left from dark skies, and at right from within the Provo/Orem, Utah metropolitan area.]]
 
 Astronomy is very sensitive to light pollution. The night sky viewed from a city bears no resemblance to what can be seen from dark skies.[84] Skyglow (the scattering of light in the atmosphere at night) reduces the contrast between stars and galaxies and the sky itself, making it much harder to see fainter objects. This is one factor that has caused newer telescopes to be built in increasingly remote areas.
 
@@ -151,7 +151,7 @@ Some astronomers use narrow-band "nebula filters", which only allow specific wav
 
 Light pollution affects the visibility of diffuse sky objects like nebulae and galaxies more than stars, due to their low surface brightness. Most such objects are rendered invisible in heavily light-polluted skies above major cities. A simple method for estimating the darkness of a location is to look for the Milky Way, which from truly dark skies appears bright enough to cast a shadow.[86]
 
-Milky_Way_Shines_over_Snowy_La_Silla.jpg, far from the light-polluted cities of northern Chile, the skies are pitch-black after sunset.[87]]]
+, far from the light-polluted cities of northern Chile, the skies are pitch-black after sunset.[87]]]
 
 In addition to skyglow, light trespass can impact observations when artificial light directly enters the tube of the telescope and is reflected from non-optical surfaces until it eventually reaches the eyepiece. This direct form of light pollution causes a glow across the field of view, which reduces contrast. Light trespass also makes it hard for a visual observer to become sufficiently adapted to the dark. The usual measures to reduce this glare, if reducing the light directly is not an option, include flocking the telescope tube and accessories to reduce reflection, and putting a light shield (also usable as a dew shield) on the telescope to reduce light entering from angles other than those near the target. Under these conditions, some astronomers prefer to observe under a black cloth to ensure maximum adaptation to the dark.
 
@@ -161,14 +161,12 @@ A study presented at the American Geophysical Union meeting in San Francisco fou
 
 Reduction of natural sky polarization
 
-Effect_of_light_pollution_on_sky_polarization.jpg
-
 In the night, the polarization of the moonlit sky is very strongly reduced in the presence of urban light pollution, because scattered urban light is not strongly polarized.[90] Polarized moonlight can't be seen by humans, but is believed to be used by many animals for navigation.
 
 
 Reduction
 
-LED_Droplight.JPG Reducing light pollution implies many things, such as reducing sky glow, reducing glare, reducing light trespass, and reducing clutter. The method for best reducing light pollution, therefore, depends on exactly what the problem is in any given instance. Possible solutions include:
+Reducing light pollution implies many things, such as reducing sky glow, reducing glare, reducing light trespass, and reducing clutter. The method for best reducing light pollution, therefore, depends on exactly what the problem is in any given instance. Possible solutions include:
 
 -   Utilizing light sources of minimum intensity necessary to accomplish the light's purpose.
 -   Turning lights off using a timer or occupancy sensor or manually when not needed.
@@ -177,8 +175,6 @@ LED_Droplight.JPG Reducing light pollution implies many things, such as reducing
 -   Evaluating existing lighting plans, and re-designing some or all of the plans depending on whether existing light is actually needed.
 
 Improving lighting fixtures
-
-Flat-lens_cobra_luminaire.jpg Drop-lens_cobra_luminaire.jpg
 
 The use of _full cutoff_ lighting fixtures, as much as possible, is advocated by most campaigners for the reduction of light pollution. It is also commonly recommended that lights be spaced appropriately for maximum efficiency, and that number of luminaires being used as well as the wattage of each luminaire match the needs of the particular application (based on local lighting design standards).
 
@@ -193,8 +189,6 @@ The use of full cutoff fixtures can allow for lower wattage lamps to be used in 
 A common criticism of full cutoff lighting fixtures is that they are sometimes not as aesthetically pleasing to look at. This is most likely because historically there has not been a large market specifically for full cutoff fixtures, and because people typically like to see the source of illumination. Due to the specificity with their direction of light, full cutoff fixtures sometimes also require expertise to install for maximum effect.
 
 The effectiveness of using full cutoff roadway lights to combat light pollution has also been called into question. According to design investigations, luminaires with full cutoff distributions (as opposed to _cutoff_ or _semi cutoff_, compared here[93]) have to be closer together to meet the same light level, uniformity and glare requirements specified by the IESNA. These simulations optimized the height and spacing of the lights while constraining the overall design to meet the IESNA requirements, and then compared total uplight and energy consumption of different luminaire designs and powers. Cutoff designs performed better than full cutoff designs, and semi-cutoff performed better than either cutoff or full cutoff. This indicates that, in roadway installations, over-illumination or poor uniformity produced by full cutoff fixtures may be more detrimental than direct uplight created by fewer cutoff or semi-cutoff fixtures. Therefore, the overall performance of existing systems could be improved more by reducing the number of luminaires than by switching to full cutoff designs.
-
-110101_LightPollution_Italian_Regional_bills_specs.jpg
 
 However, using the definition of "light pollution" from some Italian regional bills (i.e., "every irradiance of artificial light outside competence areas and particularly upward the sky") only full cutoff design prevents light pollution. The Italian Lombardy region, where only full cutoff design is allowed (Lombardy act no. 17/2000, promoted by Cielobuio-coordination for the protection of the night sky), in 2007 had the lowest per capita energy consumption for public lighting in Italy. The same legislation also imposes a minimum distance between street lamps of about four times their height, so full cut off street lamps are the best solution to reduce both light pollution and electrical power usage.
 
@@ -234,8 +228,6 @@ One example of a lighting plan assessment can be seen in a report originally com
 In another example, the city of Calgary has recently replaced most residential street lights with models that are comparably energy efficient.[104] The motivation is primarily operation cost and environmental conservation. The costs of installation are expected to be regained through energy savings within six to seven years.
 
 The Swiss Agency for Energy Efficiency (SAFE) uses a concept that promises to be of great use in the diagnosis and design of road lighting, "_consommation électrique spécifique_ (_CES_)", which can be translated into English as "specific electric power consumption (SEC)".[105] Thus, based on observed lighting levels in a wide range of Swiss towns, SAFE has defined target values for electric power consumption per metre for roads of various categories. Thus, SAFE currently recommends an SEC of 2 to 3 watts per meter for roads of less than 10 metre width (4 to 6 watts per metre for wider roads). Such a measure provides an easily applicable environmental protection constraint on conventional "norms", which usually are based on the recommendations of lighting manufacturing interests, who may not take into account environmental criteria. In view of ongoing progress in lighting technology, target SEC values will need to be periodically revised downwards.
-
-110213_LED_vs_Sodium_vs_Mercury.jpg
 
 A newer method for predicting and measuring various aspects of light pollution was described in the journal Lighting Research & Technology (September 2008). Scientists at Rensselaer Polytechnic Institute's Lighting Research Center have developed a comprehensive method called Outdoor Site-Lighting Performance (OSP), which allows users to quantify, and thus optimize, the performance of existing and planned lighting designs and applications to minimize excessive or obtrusive light leaving the boundaries of a property. OSP can be used by lighting engineers immediately, particularly for the investigation of glow and trespass (glare analyses are more complex to perform and current commercial software does not readily allow them), and can help users compare several lighting design alternatives for the same site.[106]
 

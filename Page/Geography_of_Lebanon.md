@@ -1,4 +1,4 @@
-Lebanon_2002_CIA_map.jpg _Mount_Sannine.jpg]] LEBANON is part of the Middle East, located at approximately 35˚N, 35˚E. Stretching along the eastern shore of the Mediterranean Sea, its length is almost three times its width. As it stretches from north to south, the width of its terrain becomes narrower. Lebanon's mountainous terrain, and the economic and religious movements that either originated in the region or crossed through to leave an imprint upon Lebanese society, give form to the country's history.
+]] LEBANON is part of the Middle East, located at approximately 35˚N, 35˚E. Stretching along the eastern shore of the Mediterranean Sea, its length is almost three times its width. As it stretches from north to south, the width of its terrain becomes narrower. Lebanon's mountainous terrain, and the economic and religious movements that either originated in the region or crossed through to leave an imprint upon Lebanese society, give form to the country's history.
 
 The country's role in the region, as indeed in the world at large, was shaped by trade. Lebanon is named "the Pearl of the Middle East." It serves as a link between the Mediterranean world and India and East Asia. The merchants of the region exported oil, grain, textiles, metal work, and pottery through the port cities to Western markets.
 
@@ -7,7 +7,7 @@ The hilly Mediterranean geography has influenced the history, cuisine, and cultu
 
 Sea
 
-Lebanon_Topography.png of Lebanon]]
+of Lebanon]]
 
 Arabian Plate
 
@@ -31,7 +31,7 @@ Emerging from a base south of Homs in Syria, the eastern mountain range, or Anti
 
 Terrain
 
-USGS_CMG_InfoBank_Atlas,_Lebanon_regions.jpg map of Lebanon]]
+map of Lebanon]]
 
 Lebanon is divided into five ribbonlike topographical areas stretching mainly in a north-south direction:
 
@@ -44,7 +44,7 @@ Lebanon is divided into five ribbonlike topographical areas stretching mainly in
 
 Climate
 
-Bteghrine_from_Haret_Ali.JPG]] Lebanese_coastline,_Oct_2012.jpg
+]]
 
 Lebanon has a Mediterranean climate characterized by a long, semi-hot, and dry summer, and a cold, rainy and snowy winter. Fall is a transitional season with a lowering of temperature and little rain; spring occurs when the winter rains cause the vegetation to revive. Topographical variation creates local modifications of the basic climatic pattern. Along the coast, summers are warm and humid, with little or no rain. Heavy dews form, which are beneficial to agriculture. The daily range of temperature is not wide. A west wind provides relief during the afternoon and evening; at night the wind direction is reversed, blowing from the land out to sea.
 
@@ -64,8 +64,6 @@ Image:Danniyeh.jpg|Snow-covered karstic formations in the Danniyeh mountains. Im
 
 
 Area and boundaries
-
-File:Map of Lebanon.png
 
 _total:_
 _land:_
@@ -98,7 +96,7 @@ TOTAL RENEWABLE WATER RESOURCES: (2011)
 
 Water in Lebanon
 
-Lebanon_Rivers_Map.jpg Water is becoming a scarce resource in Lebanon due to climate change, which leads to different rainfall patterns as well as to inefficient methods of distribution within the country. Most of Lebanon’s rainfall is in the four months of winter, but over the last 45 years, the Ministry of Environment (Lebanon) estimates that rainfall has decreased overall between 5 and 20 percent.[2] The coastal strip of Lebanon gets approximately 2,000 mm of rain per year, while the Beqaa Valley to the east gets only one-tenth as much.[3] In 2004, only about 21% of households across Lebanon had constant access to water in the summer months, with most of those households concentrated in or near Beirut.[4] It is predicted that in future years, there will be higher temperatures, lower rainfall, and longer droughts, leading to even less access to water.[5] According to the Ministry of Environment, several factors that are putting stress on Lebanon’s water resources are unsustainable water management practices, increasing water demand from all sectors, water pollution, and ineffective water governance.[6] Lebanon has struggled with inadequate water and sanitation services for many years.[7] The factors with the greatest effect on quality and quantity of water resources in Lebanon are population growth, urbanization (88% of the population now lives in urban areas), economic growth, and climate change.[8] In recent years, population growth has been increased rapidly with the addition of many Syrian refugees.[9] Some new projects have been proposed to restructure the water sector. Currently, over 48 percent of water supplied by the public system is lost through seepage and wastewater networks are extremely poor, or even non-existent in some areas.[10] One project that is currently being implemented by the Ministry of Environment in collaboration with the United Nations Development Programme (UNDP) focusses on harvesting rainwater from agricultural greenhouse tops in order to increase water harvesting and reduce the pressure on pumping groundwater.[11] This project is expected to increase water availability during the especially critical months of late summer and early autumn when there is less precipitation, which would help to reduce the risk of salinity in both soil and water, and to increase the resilience of crops faced with prolonged drought.[12] There are also proposed projects that suggest the agricultural sector use recycled waste water to allow for more fresh and potable water for consumption.[13] This would be a huge improvement, as solid-wast treatment facilities are in short supply, and over 92 percent of Lebanon’s sewage runs untreated directly into water-courses and the sea.[14] If Lebanon does not reform its water sector, it is likely that there will be chronic and critical water shortages by 2020, which would create needs the Ministry of Energy and Water (MEW) would be unable to meet.[15] Water is becoming a scarce resource and if Lebanon instates reformed practices, the progression forward into future water scarcity can be slowed.
+Water is becoming a scarce resource in Lebanon due to climate change, which leads to different rainfall patterns as well as to inefficient methods of distribution within the country. Most of Lebanon’s rainfall is in the four months of winter, but over the last 45 years, the Ministry of Environment (Lebanon) estimates that rainfall has decreased overall between 5 and 20 percent.[2] The coastal strip of Lebanon gets approximately 2,000 mm of rain per year, while the Beqaa Valley to the east gets only one-tenth as much.[3] In 2004, only about 21% of households across Lebanon had constant access to water in the summer months, with most of those households concentrated in or near Beirut.[4] It is predicted that in future years, there will be higher temperatures, lower rainfall, and longer droughts, leading to even less access to water.[5] According to the Ministry of Environment, several factors that are putting stress on Lebanon’s water resources are unsustainable water management practices, increasing water demand from all sectors, water pollution, and ineffective water governance.[6] Lebanon has struggled with inadequate water and sanitation services for many years.[7] The factors with the greatest effect on quality and quantity of water resources in Lebanon are population growth, urbanization (88% of the population now lives in urban areas), economic growth, and climate change.[8] In recent years, population growth has been increased rapidly with the addition of many Syrian refugees.[9] Some new projects have been proposed to restructure the water sector. Currently, over 48 percent of water supplied by the public system is lost through seepage and wastewater networks are extremely poor, or even non-existent in some areas.[10] One project that is currently being implemented by the Ministry of Environment in collaboration with the United Nations Development Programme (UNDP) focusses on harvesting rainwater from agricultural greenhouse tops in order to increase water harvesting and reduce the pressure on pumping groundwater.[11] This project is expected to increase water availability during the especially critical months of late summer and early autumn when there is less precipitation, which would help to reduce the risk of salinity in both soil and water, and to increase the resilience of crops faced with prolonged drought.[12] There are also proposed projects that suggest the agricultural sector use recycled waste water to allow for more fresh and potable water for consumption.[13] This would be a huge improvement, as solid-wast treatment facilities are in short supply, and over 92 percent of Lebanon’s sewage runs untreated directly into water-courses and the sea.[14] If Lebanon does not reform its water sector, it is likely that there will be chronic and critical water shortages by 2020, which would create needs the Ministry of Energy and Water (MEW) would be unable to meet.[15] Water is becoming a scarce resource and if Lebanon instates reformed practices, the progression forward into future water scarcity can be slowed.
 
 Influence of Syrian Refugees on Lebanon's Resources
 

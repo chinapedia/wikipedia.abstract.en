@@ -3,7 +3,7 @@ TACITUS (; ;[1][2] c. 200 – June 276) was Roman Emperor from 275 to 276. Durin
 
 Early life
 
-Tacitus_Ant.jpg of Tacitus. Legend: IMPerator Cesar Marcus CLavdius TACITVS AVGustus.]]
+of Tacitus. Legend: IMPerator Cesar Marcus CLavdius TACITVS AVGustus.]]
 
 Tacitus was born in Interamna (Terni), in Italia.[3] He circulated copies of the historian Gaius Cornelius Tacitus' work, which was barely read at the time, perhaps contributing to the partial survival of the historian's work. Modern historiography rejects his claimed descent from the historian as a fabrication.[4] In the course of his long life he discharged the duties of various civil offices, holding the consulship twice, once under Valerian and again in 273, earning universal respect.[5]
 

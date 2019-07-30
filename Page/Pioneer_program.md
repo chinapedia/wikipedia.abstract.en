@@ -1,4 +1,4 @@
-Pioneer_10_Construction.jpg, undergoing construction in 1971. Pioneer 10 and 11 are the most famous probes in the Pioneer program, the first probes to visit the outer planets, and the first to go beyond the orbit of Pluto.]] Pioneer10-plaque.jpg attached to Pioneers 10 and 11]] Pioneer_Program_-_AC82-0178.jpg The PIONEER PROGRAM was a series of United States unmanned space missions that were designed for planetary exploration. There were a number of such missions in the program, but the most notable were Pioneer 10 and Pioneer 11, which explored the outer planets and left the Solar System. Pioneer 10 and Pioneer 11 carry a golden plaque, depicting a man and a woman and information about the origin and the creators of the probes, should any extraterrestrials find them someday.
+, undergoing construction in 1971. Pioneer 10 and 11 are the most famous probes in the Pioneer program, the first probes to visit the outer planets, and the first to go beyond the orbit of Pluto.]] attached to Pioneers 10 and 11]] The PIONEER PROGRAM was a series of United States unmanned space missions that were designed for planetary exploration. There were a number of such missions in the program, but the most notable were Pioneer 10 and Pioneer 11, which explored the outer planets and left the Solar System. Pioneer 10 and Pioneer 11 carry a golden plaque, depicting a man and a woman and information about the origin and the creators of the probes, should any extraterrestrials find them someday.
 
 
 Naming
@@ -11,8 +11,6 @@ Early Pioneer missions
 The earliest missions were attempts to achieve Earth's escape velocity, simply to show it was feasible and study the Moon. This included the first launch by NASA which was formed from the old NACA. These missions were carried out by the US Air Force and Army.
 
 Able space probes (1958–1960)
-
-Pioneer_able.png Pioneer-3-4.gif Pioneer-6-9.jpg Pioneer_10_or_11_in_outer_solar_system.jpg
 
     _Most missions here are listed with their most recognised name, and alternate names after in parenthesis._
 
@@ -50,8 +48,6 @@ The spacecraft in Pioneer missions 6, 7, 8, and 9 comprised a new interplanetary
 Pioneer 6 and Pioneer 9 are in solar orbits with 0.8 AU distance to the Sun. Their orbital periods are therefore slightly shorter than Earth's. Pioneer 7 and Pioneer 8 are in solar orbits with 1.1 AU distance to the Sun. Their orbital periods are therefore slightly longer than Earth's. Since the probes' orbital periods differ from that of the Earth, from time to time, they face a side of the Sun that cannot be seen from Earth. The probes can sense parts of the Sun several days before the Sun's rotation reveals it to ground-based Earth orbiting observatories.
 
 Outer Solar System missions
-
-Outersolarsystem-probes-4407b.svg Pioneer_Venus_orbiter.jpg
 
 -   Pioneer 10 (Pioneer F) – Jupiter, interstellar medium, launched March 1972
 -   Pioneer 11 (Pioneer G) – Jupiter, Saturn, interstellar medium, launched April 1973

@@ -11,14 +11,14 @@ In Ancient Rome, the festival of Poplifugia was celebrated on 5 July, and Ludi A
 
 July symbols
 
--   Ruby_gem.JPG gemstone]]July's birthstone is the ruby, which symbolizes contentment.
--   Baker's_Larkspur_(5933879987).jpg (Larkspur)]]2016_Kwiat_grzybieni_białych_2.jpg]]Its birth flowers are the Larkspur or the Water Lily.
+-   gemstone]]July's birthstone is the ruby, which symbolizes contentment.
+-   (Larkspur)]]]]Its birth flowers are the Larkspur or the Water Lily.
 -   The zodiac signs for the month of July are Cancer (until July 22) and Leo (July 23 onwards).
 
 
 Observances
 
-_This list does not necessarily imply either official status nor general observance._ Les_Très_Riches_Heures_du_duc_de_Berry_juillet.jpg'']] Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg on July 4]]
+_This list does not necessarily imply either official status nor general observance._ '']] on July 4]]
 
 -   Season of Emancipation 14 April to 23 August (Barbados)
 -   Honor America Days: 14 June to 4 July (United States)
@@ -36,7 +36,7 @@ Non-Gregorian observances, 2019
 -   List of observances set by the Islamic calendar
 -   List of observances set by the Solar Hijri calendar
 
-Canada_Day_2014_@_Canada_Place_(14373380559).jpg is celebrated on July 1]]
+is celebrated on July 1]]
 
 Movable observances, 2019
 

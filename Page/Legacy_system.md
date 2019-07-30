@@ -1,4 +1,4 @@
-US_Navy_110129-N-7676W-152_Culinary_Specialist_3rd_Class_John_Smith_uses_the_existing_DOS-based_food_service_management_system_aboard_the_aircraft.jpg food service management system.]]
+food service management system.]]
 
 In computing, a LEGACY SYSTEM is an old method, technology, computer system, or application program, "of, relating to, or being a previous or outdated computer system,"[1] yet still in use. Often referencing a system as "legacy" means that it paved the way for the standards that would follow it. This can also imply that the system is out of date or in need of replacement.
 

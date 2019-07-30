@@ -7,12 +7,12 @@ In 1994, French archaeologists discovered some remains of the lighthouse on the 
 
 Origin
 
-PHAROS2013-3000x2250.jpg Pharos was a small island located on the western edge of the Nile Delta. In 332 BC Alexander the Great founded the city of Alexandria on an isthmus opposite Pharos. Alexandria and Pharos were later connected by a mole[5] spanning more than , which was called the _Heptastadion_ ("seven stadia"—a _stadium_ was a Greek unit of length measuring approximately 180 m). The east side of the mole became the Great Harbour, now an open bay; on the west side lay the port of Eunostos, with its inner basin Kibotos now vastly enlarged to form the modern harbour. Today's city development lying between the present Grand Square and the modern Ras el-Tin quarter is built on the silt which gradually widened and obliterated this mole, and the Ras el-Tin promontory represents all that is left of the island of Pharos,[6] the site of the lighthouse at its eastern point having been weathered away by the sea.
+Pharos was a small island located on the western edge of the Nile Delta. In 332 BC Alexander the Great founded the city of Alexandria on an isthmus opposite Pharos. Alexandria and Pharos were later connected by a mole[5] spanning more than , which was called the _Heptastadion_ ("seven stadia"—a _stadium_ was a Greek unit of length measuring approximately 180 m). The east side of the mole became the Great Harbour, now an open bay; on the west side lay the port of Eunostos, with its inner basin Kibotos now vastly enlarged to form the modern harbour. Today's city development lying between the present Grand Square and the modern Ras el-Tin quarter is built on the silt which gradually widened and obliterated this mole, and the Ras el-Tin promontory represents all that is left of the island of Pharos,[6] the site of the lighthouse at its eastern point having been weathered away by the sea.
 
 
 Construction
 
-PhareAlexandrie.jpg, and 2: reverse of a coin of Commodus).]] AlexLighthouse01.jpg.]]
+, and 2: reverse of a coin of Commodus).]] .]]
 
 The lighthouse was constructed in the 3rd century BC. After Alexander the Great died, the first Ptolemy (Ptolemy I Soter) announced himself king in 305 BC, and commissioned its construction shortly thereafter. The building was finished during the reign of his son, Ptolemy II Philadelphus, and took twelve years to complete at a total cost of 800 talents of silver.[7] The light was produced by a furnace at the top, and the tower was said to have been built mostly with solid blocks of limestone.
 
@@ -37,7 +37,7 @@ Al-Masudi wrote in the 10th century that the seaward-facing side featured an ins
 
 Late account of the lighthouse after the destruction of the 1303 Crete earthquake include Ibn Battuta, a Moroccan scholar and explorers passage through Alexandria in 1326 and 1349. Battuta notes the wrecked condition of the lighthouse being only noticeable now by the rectangle tower and entrance ramp. Battuta's account measured each side of the tower to be 140 shibr (30.8 m, 101 ft) on either side. Battuta detailed plans of Sultan An-Nasir Muhammad to build a new lighthouse near the currently collapsed one but the plans were never fulfilled after the sultan's death in 1341.[17]
 
-Mosaic_Ancient_Lighthouse_of_Alexandria.jpg _c_. 4th century AD]]
+_c_. 4th century AD]]
 
 
 Destruction
@@ -56,7 +56,7 @@ French archaeologists led by Jean-Yves Empereur re-discovered the physical remai
 
 Significance
 
-Pharos_at_Abuqir.jpg Legend has it that the people of the island of Pharos were wreckers; hence, Ptolemy I Soter had the lighthouse built to help guide ships into port at night.[23]Book_of_Wonders_folio_36a_cropped.jpg, a late 14th century Arabic text]] _Pharos_ became the etymological origin of the word "lighthouse" in Greek (_φάρος_), Persian (_Fānūs – فانوس_), many Romance languages such as French (_phare_), Italian and Spanish (_faro_), Catalan and Romanian (_far_) and Portuguese (_farol_), and even some Slavic languages like Bulgarian (_far_). Both in Serbian and Russian, a derived word means "headlight" (_фар; фара_).
+Legend has it that the people of the island of Pharos were wreckers; hence, Ptolemy I Soter had the lighthouse built to help guide ships into port at night.[23], a late 14th century Arabic text]] _Pharos_ became the etymological origin of the word "lighthouse" in Greek (_φάρος_), Persian (_Fānūs – فانوس_), many Romance languages such as French (_phare_), Italian and Spanish (_faro_), Catalan and Romanian (_far_) and Portuguese (_farol_), and even some Slavic languages like Bulgarian (_far_). Both in Serbian and Russian, a derived word means "headlight" (_фар; фара_).
 
 In 2008 it was suggested[24] that the Pharos was the vertical yardstick used in the first precise measurement of the size of the Earth.
 
@@ -65,12 +65,10 @@ Proposed reconstruction
 
 Since 1978 a number of proposals have been made to replace the lighthouse with a modern reconstruction. In 2015, the Egyptian government and the Alexandria governorate suggested building a skyscraper on the site of the lighthouse as part of the regeneration of the eastern harbour of Alexandria Port. The plan was opposed by Alexandria-based sociologist Amro Ali.[25]
 
-SevenWondersOfTheWorld.jpg Flag_of_Alexandria.svg
-
 
 Pharos in culture
 
-Alexandria_Flag.png The lighthouse remains a civic symbol of the city of Alexandria and of the Alexandria Governorate with which the city is more or less coterminous. A stylised representation of the lighthouse appears on the flag and seal of the Governorate and on many public services of the city, including the seal of Alexandria University.
+The lighthouse remains a civic symbol of the city of Alexandria and of the Alexandria Governorate with which the city is more or less coterminous. A stylised representation of the lighthouse appears on the flag and seal of the Governorate and on many public services of the city, including the seal of Alexandria University.
 
 In architecture
 

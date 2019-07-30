@@ -1,4 +1,4 @@
-ship-propeller.jpg A PROPELLER is a type of fan that transmits power by converting rotational motion into thrust. A pressure difference is produced between the forward and rear surfaces of the airfoil-shaped blades, and a fluid (such as air or water) is accelerated by the pressure difference. Propeller dynamics, like those of aircraft wings, can be modelled by Bernoulli's principle and Newton's third law. Most marine propellers are _screw propellers_ with helical blades rotating around a approximately horizontal axis or propeller shaft.
+A PROPELLER is a type of fan that transmits power by converting rotational motion into thrust. A pressure difference is produced between the forward and rear surfaces of the airfoil-shaped blades, and a fluid (such as air or water) is accelerated by the pressure difference. Propeller dynamics, like those of aircraft wings, can be modelled by Bernoulli's principle and Newton's third law. Most marine propellers are _screw propellers_ with helical blades rotating around a approximately horizontal axis or propeller shaft.
 
 
 History
@@ -9,7 +9,7 @@ The principle employed in using a screw propeller is used in sculling. It is par
 
 In sculling, a single blade is moved through an arc, from side to side taking care to keep presenting the blade to the water at the effective angle. The innovation introduced with the screw propeller was the extension of that arc through more than 360° by attaching the blade to a rotating shaft. Propellers can have a single blade, but in practice there are nearly always more than one so as to balance the forces involved.
 
-Archimedes_screw.JPG]] The origin of the screw propeller starts with Archimedes, who used a screw to lift water for irrigation and bailing boats, so famously that it became known as Archimedes' screw. It was probably an application of spiral movement in space (spirals were a special study of Archimedes) to a hollow segmented water-wheel used for irrigation by Egyptians for centuries. Leonardo da Vinci adopted the principle to drive his theoretical helicopter, sketches of which involved a large canvas screw overhead.
+]] The origin of the screw propeller starts with Archimedes, who used a screw to lift water for irrigation and bailing boats, so famously that it became known as Archimedes' screw. It was probably an application of spiral movement in space (spirals were a special study of Archimedes) to a hollow segmented water-wheel used for irrigation by Egyptians for centuries. Leonardo da Vinci adopted the principle to drive his theoretical helicopter, sketches of which involved a large canvas screw overhead.
 
 In 1661, Toogood and Hays proposed using screws for waterjet propulsion, though not as a propeller.[1] Robert Hooke in 1681 designed a horizontal watermill which was remarkably similar to the Kirsten-Boeing vertical axis propeller designed almost two and a half centuries later in 1928; two years later Hooke modified the design to provide motive power for ships through water.[2] In 1752, the _Academie des Sciences_ in Paris granted Burnelli a prize for a design of a propeller-wheel. At about the same time, the French mathematician Alexis-Jean-Pierre Paucton, suggested a water propulsion system based on the Archimedean screw.[3]> In 1771, steam-engine inventor James Watt in a private letter suggested using "spiral oars" to propel boats, although he did not use them with his steam engines, or ever implement the idea.[4]
 
@@ -27,15 +27,15 @@ Screw propellers
 
 Although there was much experimentation with screw propulsion until the 1830s, few of these inventions were pursued to the testing stage, and those that were proved unsatisfactory for one reason or another.[17]
 
-thumbpx to and ]] F._P._Smith's_original_1836_screw_propeller_patent.jpg
+thumbpx to and ]]
 
 In 1835, two inventors in Britain, John Ericsson and Francis Pettit Smith, began working separately on the problem. Smith was first to take out a screw propeller patent on 31 May, while Ericsson, a gifted Swedish engineer then working in Britain, filed his patent six weeks later.[18] Smith quickly built a small model boat to test his invention, which was demonstrated first on a pond at his Hendon farm, and later at the Royal Adelaide Gallery of Practical Science in London, where it was seen by the Secretary of the Navy, Sir William Barrow. Having secured the patronage of a London banker named Wright, Smith then built a , canal boat of six tons burthen called _Francis Smith_, which was fitted with a wooden propeller of his own design and demonstrated on the Paddington Canal from November 1836 to September 1837. By a fortuitous accident, the wooden propeller of two turns was damaged during a voyage in February 1837, and to Smith's surprise the broken propeller, which now consisted of only a single turn, doubled the boat's previous speed, from about four miles an hour to eight.[19] Smith would subsequently file a revised patent in keeping with this accidental discovery.
 
 In the meantime, Ericsson built a screw-propelled steamboat, _Francis B. Ogden_ in 1837, and demonstrated his boat on the River Thames to senior members of the British Admiralty, including Surveyor of the Navy Sir William Symonds. In spite of the boat achieving a speed of 10 miles an hour, comparable with that of existing paddle steamers, Symonds and his entourage were unimpressed. The Admiralty maintained the view that screw propulsion would be ineffective in ocean-going service, while Symonds himself believed that screw propelled ships could not be steered efficiently.[20] Following this rejection, Ericsson built a second, larger screw-propelled boat, _Robert F. Stockton_, and had her sailed in 1839 to the United States, where he was soon to gain fame as the designer of the U.S. Navy's first screw-propelled warship, .[21]
 
-Illustrirte_Zeitung_(1843)_21_335_1_Archimedische_Schraube_des_Dampfschiffes_Archimedes.PNG Apparently aware of the Navy's view that screw propellers would prove unsuitable for seagoing service, Smith determined to prove this assumption wrong. In September 1837, he took his small vessel (now fitted with an iron propeller of a single turn) to sea, steaming from Blackwall, London to Hythe, Kent, with stops at Ramsgate, Dover and Folkestone. On the way back to London on the 25th, Smith's craft was observed making headway in stormy seas by officers of the Royal Navy. The Admiralty's interest in the technology was revived, and Smith was encouraged to build a full size ship to more conclusively demonstrate the technology's effectiveness.[22]
+Apparently aware of the Navy's view that screw propellers would prove unsuitable for seagoing service, Smith determined to prove this assumption wrong. In September 1837, he took his small vessel (now fitted with an iron propeller of a single turn) to sea, steaming from Blackwall, London to Hythe, Kent, with stops at Ramsgate, Dover and Folkestone. On the way back to London on the 25th, Smith's craft was observed making headway in stormy seas by officers of the Royal Navy. The Admiralty's interest in the technology was revived, and Smith was encouraged to build a full size ship to more conclusively demonstrate the technology's effectiveness.[22]
 
-Great_Britain_propeller_and_rudder_wideshot.jpg was built in 1838 by Henry Wimshurst of London, as the world's first steamship[23] to be driven by a screw propeller.[24][25][26][27]
+was built in 1838 by Henry Wimshurst of London, as the world's first steamship[23] to be driven by a screw propeller.[24][25][26][27]
 
 _Archimedes_ had considerable influence on ship development, encouraging the adoption of screw propulsion by the Royal Navy, in addition to her influence on commercial vessels. Trials with Smith's _Archimedes_ led to the famous tug-of-war competition in 1845 between the screw-driven and the paddle steamer ; the former pulling the latter backward at .
 
@@ -47,7 +47,7 @@ Propeller design stabilized in the 1880s.
 
 Aircraft propellers
 
-Precision_air_ATR72_5423a.gif propeller in flight]] The twisted aerofoil shape of modern aircraft propellers was pioneered by the Wright brothers. While some earlier engineers had attempted to model air propellers on marine propellers, the Wrights realized that a propeller is essentially the same as a wing, and were able to use data from their earlier wind tunnel experiments on wings. They also introduced a twist along the length of the blades. This was necessary to ensure the angle of attack of the blades was kept relatively constant along their length.[28] Their original propeller blades were only about 5% less efficient than the modern equivalent, some 100 years later.[29] The understanding of low speed propeller aerodynamics was fairly complete by the 1920s, but later requirements to handle more power in smaller diameter have made the problem more complex.
+propeller in flight]] The twisted aerofoil shape of modern aircraft propellers was pioneered by the Wright brothers. While some earlier engineers had attempted to model air propellers on marine propellers, the Wrights realized that a propeller is essentially the same as a wing, and were able to use data from their earlier wind tunnel experiments on wings. They also introduced a twist along the length of the blades. This was necessary to ensure the angle of attack of the blades was kept relatively constant along their length.[28] Their original propeller blades were only about 5% less efficient than the modern equivalent, some 100 years later.[29] The understanding of low speed propeller aerodynamics was fairly complete by the 1920s, but later requirements to handle more power in smaller diameter have made the problem more complex.
 
 Alberto Santos Dumont, another early pioneer, applied the knowledge he gained from experiences with airships to make a propeller with a steel shaft and aluminium blades for his 14 bis biplane. Some of his designs used a bent aluminium sheet for blades, thus creating an airfoil shape. They were heavily undercambered, and this plus the absence of lengthwise twist made them less efficient than the Wright propellers. Even so, this was perhaps the first use of aluminium in the construction of an airscrew.
 
@@ -62,15 +62,15 @@ The blade element theory (BET) is a mathematical process originally designed by 
 
 Theory of operation
 
-+----------------------+
-| Sketch_propeller.svg |
-+----------------------+
-| 1) Trailing edge     |
-| 2) Face              |
-| 3) Fillet area       |
-| 4) Hub or Boss       |
-| 5) Hub or Boss Cap   |
-+----------------------+
++--------------------+
+|                    |
++--------------------+
+| 1) Trailing edge   |
+| 2) Face            |
+| 3) Fillet area     |
+| 4) Hub or Boss     |
+| 5) Hub or Boss Cap |
++--------------------+
 
 : MARINE PROPELLER NOMENCLATURE
 
@@ -90,7 +90,7 @@ Fixed-wing aircraft are also subject to the P-factor effect, in which a rotating
 
 Marine propeller cavitation
 
-Cavitating-prop.jpg experiment]] Cavitation_Propeller_Damage.JPG damage evident on the propeller of a personal watercraft.]]
+experiment]] damage evident on the propeller of a personal watercraft.]]
 
 Cavitation is the formation of vapor bubbles in water near a moving propeller blade in regions of low pressure due to Bernoulli's principle. It can occur if an attempt is made to transmit too much power through the screw, or if the propeller is operating at a very high speed. Cavitation can waste power, create vibration and wear, and cause damage to the propeller. It can occur in many ways on a propeller. The two most common types of propeller cavitation are suction side surface cavitation and tip vortex cavitation.
 
@@ -104,7 +104,7 @@ A similar, but quite separate issue, is _ventilation,_ which occurs when a prope
 
 The blade profile of propellers designed to operate in a ventilated condition is often not of an aerofoil section and is a blunt ended taper instead. These are often known as "chopper" type propellers.
 
-Voroshilov_cruiser_propeller_at_the_Museum_on_Sapun_Mountain.jpg'', a on display in Sevastopol]]
+'', a on display in Sevastopol]]
 
 Forces acting on a foil
 
@@ -234,7 +234,7 @@ Types of marine propellers
 
 Controllable-pitch propeller
 
-Controllable_pitch_propeller_schematic.svg One type of marine propeller is the controllable-pitch propeller. This propeller has several advantages with ships. These advantages include: the least drag depending on the speed used, the ability to move the sea vessel backwards, and the ability to use the "vane"-stance, which gives the least water resistance when not using the propeller (e.g. when the sails are used instead).
+One type of marine propeller is the controllable-pitch propeller. This propeller has several advantages with ships. These advantages include: the least drag depending on the speed used, the ability to move the sea vessel backwards, and the ability to use the "vane"-stance, which gives the least water resistance when not using the propeller (e.g. when the sails are used instead).
 
 Skewback propeller
 
@@ -253,7 +253,7 @@ Voith Schneider propellers use four untwisted straight blades turning around a v
 
 Protection of small engines
 
-A failed rubber bushing in an outboard's propeller For smaller engines, such as outboards, where the propeller is exposed to the risk of collision with heavy objects, the propeller often includes a device that is designed to fail when overloaded; the device or the whole propeller is sacrificed so that the more expensive transmission and engine are not damaged.
+For smaller engines, such as outboards, where the propeller is exposed to the risk of collision with heavy objects, the propeller often includes a device that is designed to fail when overloaded; the device or the whole propeller is sacrificed so that the more expensive transmission and engine are not damaged.
 
 Typically in smaller (less than ) and older engines, a narrow shear pin through the drive shaft and propeller hub transmits the power of the engine at normal loads. The pin is designed to shear when the propeller is put under a load that could damage the engine. After the pin is sheared the engine is unable to provide propulsive power to the boat until a new shear pin is fitted.[38]
 

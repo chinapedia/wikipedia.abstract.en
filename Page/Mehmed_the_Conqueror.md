@@ -7,7 +7,7 @@ Mehmed continued his conquests in Anatolia with its reunification and in Southea
 
 Early reign
 
-Hunername_accession_Mehmed_II.jpg, 1451]] Mehmed II was born on 30 March 1432, in Edirne, then the capital city of the Ottoman state. His father was Sultan Murad II (1404–51) and his mother Hüma Valide Hatun, born in the town of Devrekani, Kastamonu.
+, 1451]] Mehmed II was born on 30 March 1432, in Edirne, then the capital city of the Ottoman state. His father was Sultan Murad II (1404–51) and his mother Hüma Valide Hatun, born in the town of Devrekani, Kastamonu.
 
 When Mehmed II was eleven years old he was sent to Amasya to govern and thus gain experience, per the custom of Ottoman rulers before his time. Sultan Murad II also sent a number of teachers for him to study under. This Islamic education had a great impact in moulding Mehmed's mindset and reinforcing his Muslim beliefs. He was influenced in his practice of Islamic epistemology by practitioners of science, particularly by his mentor, Molla Gürani, and he followed their approach. The influence of Akshamsaddin in Mehmed's life became predominant from a young age, especially in the imperative of fulfilling his Islamic duty to overthrow the Byzantine empire by conquering Constantinople.
 
@@ -20,7 +20,7 @@ Murad II's return to the throne was forced by Çandarlı Halil Paşa, the grand 
 
 Conquest of Constantinople
 
-OttomanEmpire1451.png OttomanEmpire1481.png Turkey-1290.jpg, built by Sultan Mehmed II between 1451 and 1452, before the Fall of Constantinople[1]]]
+, built by Sultan Mehmed II between 1451 and 1452, before the Fall of Constantinople[1]]]
 
 When Mehmed II ascended the throne again in 1451 he devoted himself to strengthening the Ottoman navy and made preparations for an attack on Constantinople. In the narrow Bosphorus Straits, the fortress Anadoluhisarı had been built by his great-grandfather Bayezid I on the Asian side; Mehmed erected an even stronger fortress called Rumelihisarı on the European side, and thus gained complete control of the strait. Having completed his fortresses, Mehmed proceeded to levy a toll on ships passing within reach of their cannon. A Venetian vessel ignoring signals to stop was sunk with a single shot and all the surviving sailors beheaded,[2] except for the captain, who was impaled and mounted as a human scarecrow as a warning to further sailors on the strait.[3]
 
@@ -37,7 +37,7 @@ Some Muslim scholars claimed that a hadith in Musnad Ahmad referred specifically
 -   Şahin, K., 2010. "Constantinople and the End Time: The Ottoman Conquest as a Portent of the Last Hour." _Journal of Early Modern History_, _14_(4), pp. 317-354.
 -   Ahmad, Al-Musnad 14:331 #18859: "The Prophet ﷺ is reported to have said, 'Verily you shall conquer Constantinople. What a wonderful leader will her leader be, and what a wonderful army will that army be!'"
 
-Zonaro_GatesofConst.jpg, painting by Fausto Zonaro (1854-1929)]]
+, painting by Fausto Zonaro (1854-1929)]]
 
 After the conquest of Constantinople, Mehmed claimed the title "Caesar" of the Roman Empire (_Qayser-i Rûm_), based on the assertion that Constantinople had been the seat and capital of the Roman Empire since 330 AD, and whoever possessed the Imperial capital was the ruler of the Empire.[13] The contemporary scholar George of Trebizond supported his claim.[14][15] The claim was not recognized by the Catholic Church and most of, if not all, Western Europe, but was recognized by the Eastern Orthodox Church. Mehmed had installed Gennadius Scholarius, a staunch antagonist of the West, as the Ecumenical Patriarch of Constantinople-New Rome with all the ceremonial elements, ethnarch (or _milletbashi_) status and rights of property that made him the second largest landlord in the said empire by the Sultan himself in 1454, and in turn Gennadius II recognized Mehmed the Conqueror as successor to the throne.[16][17] Mehmed also had a blood lineage to the Byzantine Imperial family: his predecessor, Sultan Orhan I, had married a Byzantine princess, and Mehmed claimed descent from John Tzelepes Komnenos.[18] He was not the only ruler to claim such a title; Frederick III, emperor of the Holy Roman Empire in Western Europe, traced his lineage from Charlemagne, who had taken the title of Roman Emperor when he was crowned by Pope Leo III in 800. 
 
@@ -48,7 +48,7 @@ After the Fall of Constantinople, Mehmed would also go on to conquer the Despota
 
 Conquest of Serbia (1454–1459)
 
-Siegebelgrade.jpg of the Siege of Belgrade, 1456]] Mehmed II's first campaigns after Constantinople were in the direction of Serbia, which had been an Ottoman vassal state since the Battle of Kosovo in 1389. The Ottoman ruler had a connection with the Serbian Despotate – one of Murad II's wives was Mara Branković – and he used that fact to claim some Serbian islands. That Đurađ Branković had recently made an alliance with the Hungarians, and had paid the tribute irregularly, may have been important considerations. When Serbia refused these demands, the Ottoman army set out from Edirne towards Serbia in 1454. Smederevo was besieged, as was Novo Brdo, the most important Serbian metal mining and smelting centre. Ottomans and Hungarians fought during the years till 1456.
+of the Siege of Belgrade, 1456]] Mehmed II's first campaigns after Constantinople were in the direction of Serbia, which had been an Ottoman vassal state since the Battle of Kosovo in 1389. The Ottoman ruler had a connection with the Serbian Despotate – one of Murad II's wives was Mara Branković – and he used that fact to claim some Serbian islands. That Đurađ Branković had recently made an alliance with the Hungarians, and had paid the tribute irregularly, may have been important considerations. When Serbia refused these demands, the Ottoman army set out from Edirne towards Serbia in 1454. Smederevo was besieged, as was Novo Brdo, the most important Serbian metal mining and smelting centre. Ottomans and Hungarians fought during the years till 1456.
 
 The Ottoman army advanced as far as Belgrade, where it attempted but failed to conquer the city from John Hunyadi at the Siege of Belgrade, on 14 July 1456. A period of relative peace ensued in the region until the Fall of Belgrade in 1521, during the reign of Mehmed's great-grandson, known as Sultan Suleiman the Magnificent. The sultan retreated to Edirne, and Đurađ Branković regained possession of some parts of Serbia. Before the end of the year, however, the 79-year-old Branković died. Serbian independence survived him for only two years, when the Ottoman Empire formally annexed his lands following dissension among his widow and three remaining sons. Lazar, the youngest, poisoned his mother and exiled his brothers, but he died soon afterwards. In the continuing turmoil the oldest brother Stefan Branković gained the throne but was ousted in March 1459. After that the Serbian throne was offered to Stephen Tomašević, the future king of Bosnia, which infuriated Sultan Mehmed. He sent his army, which captured Smederevo in June 1459, ending the existence of the Serbian Despotate.[23]
 
@@ -62,7 +62,7 @@ A few holdouts remained for a time. The island of Monemvasia refused to surrende
 
 Conquests on the Black Sea coast (1460–1461)
 
-Evpatoria-09.jpg of Mehmed the Conqueror in Yevpatoria, Ukraine]]
+of Mehmed the Conqueror in Yevpatoria, Ukraine]]
 
 Emperors of Trebizond formed alliances through royal marriages with various Muslim rulers. Emperor John IV of Trebizond married his daughter to the son of his brother-in-law, Uzun Hasan, khan of the Ak Koyunlu, in return for his promise to defend Trebizond. He also secured promises of support from the Turkish beys of Sinope and Karamania, and from the king and princes of Georgia. The Ottomans were motivated to capture Trebizond or to get an annual tribute. In the time of Murad II they first attempted to take the capital by sea in 1442, but high surf made the landings difficult and the attempt was repulsed. While Mehmed II was away laying siege to Belgrade in 1456, the Ottoman governor of Amasya attacked Trebizond, and although he was defeated, he took many prisoners and extracted a heavy tribute.
 
@@ -75,7 +75,7 @@ Having isolated Trebizond, Mehmed quickly swept down upon it before the inhabita
 
 Submission of Wallachia (1459–1462)
 
-Vlad_Tepes_002.jpg, Prince of Wallachia, 1460]]
+, Prince of Wallachia, 1460]]
 
 The Ottomans since the early 15th century tried to bring Wallachia () under their control by putting their own candidate on the throne, but each attempt ended in failure. The Ottomans regarded Wallachia as a buffer zone between them and the Kingdom of Hungary and for a yearly tribute did not meddle in their internal affairs. The two primary Balkan powers, Hungary and the Ottomans, maintained an enduring struggle to make Wallachia their own vassal. To prevent Wallachia from falling into the Hungarian fold, the Ottomans freed young Vlad III (Dracula), who had spent four years as a prisoner of Murad, together with his brother Radu, so that Vlad could claim the throne of Wallachia. His rule was short-lived, however, as Hunyadi invaded Wallachia and restored his ally Vladislav II, of the Dănești clan, to the throne.
 
@@ -83,7 +83,7 @@ Vlad III Dracula fled to Moldavia, where he lived under the protection of his un
 
 In 1456, three years after the Ottomans had conquered Constantinople, they threatened Hungary by besieging Belgrade. Hunyadi began a concerted counter-attack in Serbia: while he himself moved into Serbia and relieved the siege (before dying of the plague), Vlad III Dracula led his own contingent into Wallachia, reconquered his native land, and killed the impostor Vladislav II.
 
-AtaculdeNoapte.jpg, which resulted in the victory of Vlad (Dracula) the Impaler.]]
+, which resulted in the victory of Vlad (Dracula) the Impaler.]]
 
 In 1459, Mehmed II sent envoys to Vlad to urge him to pay a delayed tribute[28] of 10,000 ducats and 500 recruits into the Ottoman forces. Vlad III Dracula refused and had the Ottoman envoys killed by nailing their turbans to their heads, on the pretext that they had refused to raise their "hats" to him, as they only removed their headgear before Allah.
 
@@ -96,7 +96,7 @@ Mehmed II abandoned his siege of Corinth to launch a punitive attack against Vla
 
 Conquest of Bosnia (1463)
 
-Mehmed_II_ferman.jpg to the Catholic monks of the recently conquered Bosnia issued in 1463, granting them full religious freedom and protection.]]
+to the Catholic monks of the recently conquered Bosnia issued in 1463, granting them full religious freedom and protection.]]
 
 The despot of Serbia, Lazar Branković, died in 1458, and a civil war broke out among his heirs that resulted in the Ottoman conquest of Serbia in 1459. Stephen Tomašević, son of the king of Bosnia, tried to bring Serbia under his control, but Ottoman expeditions forced him to give up his plan and Stephen fled to Bosnia, seeking refuge at the court of his father.[34] After some battles Bosnia became tributary kingdom to the Ottomans.
 
@@ -121,7 +121,7 @@ In the Aegean, the Venetians tried to take Lesbos in the spring of 1464, and bes
 
 In April 1466, the Venetian war effort was reinvigorated under Vettore Cappello: the fleet took the northern Aegean islands of Imbros, Thasos, and Samothrace, and then sailed into the Saronic Gulf.[51] On 12 July, Cappello landed at Piraeus and marched against Athens, the Ottomans' major regional base. He failed to take the Acropolis and was forced to retreat to Patras, the capital of Peloponnese and the seat of the Ottoman bey, which was being besieged by a joint force of Venetians and Greeks.[52] Before Cappello could arrive, and as the city seemed on the verge of falling, Ömer Bey suddenly appeared with 12,000 cavalry and drove the outnumbered besiegers off. Six hundred Venetians and a hundred Greeks were taken prisoner out of a force of 2,000, while Barbarigo himself was killed.[53] Cappello, who arrived some days later, attacked the Ottomans but was heavily defeated. Demoralized, he returned to Negroponte with the remains of his army. There Cappello fell ill and died on 13 March 1467.[54] In 1470 Mehmed personally led an Ottoman army to besiege Negroponte. The Venetian relief navy was defeated and Negroponte was captured.
 
-"I_Turchi_respinti_da_Scutari"_Gatteri's_Etching_of_the_Siege_of_Shkodra.jpg, 1478–79]]
+, 1478–79]]
 
 In spring 1466, Sultan Mehmed marched with a large army against the Albanians. Under their leader, Skenderbeg, they had long resisted the Ottomans, and had repeatedly sought assistance from Italy.[55] Mehmed II responded by marching again against Albania but was unsuccessful. The winter brought an outbreak of plague, which would recur annually and sap the strength of the local resistance.[56] Skanderbeg himself died of malaria in the Venetian stronghold of Lissus (Lezhë), ending the ability of Venice to use the Albanian lords for its own advantage.[57] After Skanderbeg died, some Venetian-controlled northern Albanian garrisons continued to hold territories coveted by the Ottomans, such as Žabljak Crnojevića, Drisht, Lezha, and Shkodra — the most significant. Mehmed II sent his armies to take Shkodra in 1474[58] but failed. Then he went personally to lead the siege of Shkodra of 1478-79. The Venetians and Shkodrans resisted the assaults and continued to hold the fortress until Venice ceded Shkodra to the Ottoman Empire in the Treaty of Constantinople as a condition of ending the war.
 
@@ -143,7 +143,7 @@ Another important political entity that shaped the Eastern policy of Mehmed II w
 
 War with Moldavia (1475–1476)
 
-Paolo_Veronese_022.jpg]]
+]]
 
 In 1456, Peter III Aaron agreed to pay the Ottomans an annual tribute of 2,000 gold ducats to ensure his southern borders, thus becoming the first Moldavian ruler to accept the Turkish demands.[64] His successor Stephen the Great rejected Ottoman suzerainty and a series of fierce wars ensued.[65] Stephen tried to bring Wallachia under his sphere of influence and so supported his own choice for the Wallachian throne. This resulted in an enduring struggle between different Wallachian rulers backed by Hungarians, Ottomans, and Stephen. An Ottoman army under Hadim Pasha (governor of Rumelia) was sent in 1475 to punish Stephen for his meddling in Wallachia; however, the Ottomans suffered a great defeat at the Battle of Vaslui. Stephen inflicted a decisive defeat on the Ottomans, described as "the greatest ever secured by the Cross against Islam," with casualties, according to Venetian and Polish records, reaching beyond 40,000 on the Ottoman side. Mara Brankovic (Mara Hatun), the former younger wife of Murad II, told a Venetian envoy that the invasion had been worst ever defeat for the Ottomans. Stephen was later awarded the title "Athleta Christi" (Champion of Christ) by Pope Sixtus IV, who referred to him as "verus christianae fidei athleta" ("the true defender of the Christian faith"). Mehmed II assembled a large army and entered Moldavia in June 1476. Meanwhile, groups of Tartars from the Crimean Khanate (the Ottomans' recent ally) were sent to attack Moldavia. Romanian sources may state that they were repelled.[66] Other sources state that joint Ottoman and Crimean Tartar forces "occupied Bessarabia and took Akkerman, gaining control of the southern mouth of the Danube. Stephan tried to avoid open battle with the Ottomans by following a scorched-earth policy".[67]
 
@@ -156,7 +156,7 @@ Stephen the Great retreated into the north-western part of Moldavia or even into
 
 Conquest of Albania (1466–1478)
 
-Gjergj_Kastrioti.jpg, prince of League of Lezhë]]
+, prince of League of Lezhë]]
 
 The Albanian resistance led by George Kastrioti Skanderbeg (_İskender Bey_), an Albanian noble and a former member of the Ottoman ruling elite, curbed the Ottoman expansion. Skanderbeg had united the Albanian Principalities in a fight against the Empire in the League of Lezhë in 1444. Mehmed II couldn't subjugate Albania while Skanderbeg was alive, even though he twice (1466 and 1467) led the Ottoman armies himself against Krujë. After Skanderbeg died in 1468, the Albanians couldn't find a leader to replace him, and Mehmed II eventually conquered Krujë and Albania in 1478.
 
@@ -174,7 +174,7 @@ The Crimean Tatars controlled the steppes that stretched from the Kuban to the D
 
 Expedition to Italy (1480)
 
-Mehmed_II_(1432-1481).jpg of Mehmed II the Conqueror by Bertoldo di Giovanni, 1480[83]|alt=A bronze medal of Mehmed II the Conqueror]]
+of Mehmed II the Conqueror by Bertoldo di Giovanni, 1480[83]|alt=A bronze medal of Mehmed II the Conqueror]]
 
 An Ottoman army under Gedik Ahmed Pasha invaded Italy in 1480, capturing Otranto. Because of lack of food, Gedik Ahmed Pasha returned with most of his troops to Albania, leaving a garrison of 800 infantry and 500 cavalry behind to defend Otranto in Italy. It was assumed he would return after the winter. Since it was only 28 years after the fall of Constantinople, there was some fear that Rome would suffer the same fate. Plans were made for the Pope and citizens of Rome to evacuate the city. Pope Sixtus IV repeated his 1481 call for a crusade. Several Italian city-states, Hungary, and France responded positively to the appeal. The Republic of Venice did not, however, as it had signed an expensive peace treaty with the Ottomans in 1479.
 
@@ -183,7 +183,7 @@ In 1481 king Ferdinand I of Naples raised an army to be led by his son Alphonso 
 
 Repopulation of Constantinople (1453–1478)
 
-Fatih_Camii_1888-1910_yılları.jpg, built by order of Sultan Mehmed II in Constantinople, the first imperial mosque built in the city after the Ottoman conquest.]]
+, built by order of Sultan Mehmed II in Constantinople, the first imperial mosque built in the city after the Ottoman conquest.]]
 
 After conquering Constantinople, when Mehmed II finally entered the city through what is now known as the Topkapi Gate, he immediately rode his horse to the Hagia Sophia, where he ordered the building to be protected. He ordered that an imam meet him there in order to chant the Muslim Creed: "I testify that there is no god but God. I testify that Muhammad is the messenger of Allah."[84] The Orthodox cathedral was transformed into a Muslim mosque through a charitable trust, solidifying Islamic rule in Constantinople.
 
@@ -198,7 +198,7 @@ Two centuries later, the well-known Ottoman itinerant Evliya Çelebi gave a list
 
 Administration and culture
 
-Gennadios_II_and_Mehmed_II.jpg depicted on a 20th-century mosaic]] Mehmed II introduced the word Politics into Arabic "Siyasah" from a book he published and claimed to be the collection of Politics doctrines of the Byzantine Caesars before him. He gathered Italian artists, humanists and Greek scholars at his court, allowed the Byzantine Church to continue functioning, ordered the patriarch Gennadius to translate Christian doctrine into Turkish, and called Gentile Bellini from Venice to paint his portrait[95] as well as Venetian frescoes that are vanished today.[96] He collected in his palace a library which included works in Greek, Persian and Latin. Mehmed invited Muslim scientists and astronomers such as Ali Qushji and artists to his court in Constantinople, started a University, built mosques (for example, the Fatih Mosque), waterways, and Istanbul's Topkapı Palace and the Tiled Kiosk. Around the grand mosque that he constructed, he erected eight madrasas, which, for nearly a century, kept their rank as the highest teaching institutions of the Islamic sciences in the empire.
+depicted on a 20th-century mosaic]] Mehmed II introduced the word Politics into Arabic "Siyasah" from a book he published and claimed to be the collection of Politics doctrines of the Byzantine Caesars before him. He gathered Italian artists, humanists and Greek scholars at his court, allowed the Byzantine Church to continue functioning, ordered the patriarch Gennadius to translate Christian doctrine into Turkish, and called Gentile Bellini from Venice to paint his portrait[95] as well as Venetian frescoes that are vanished today.[96] He collected in his palace a library which included works in Greek, Persian and Latin. Mehmed invited Muslim scientists and astronomers such as Ali Qushji and artists to his court in Constantinople, started a University, built mosques (for example, the Fatih Mosque), waterways, and Istanbul's Topkapı Palace and the Tiled Kiosk. Around the grand mosque that he constructed, he erected eight madrasas, which, for nearly a century, kept their rank as the highest teaching institutions of the Islamic sciences in the empire.
 
 Mehmed II allowed his subjects a considerable degree of religious freedom, provided they were obedient to his rule. After his conquest of Bosnia in 1463 he issued the Ahdname of Milodraž to the Bosnian Franciscans, granting them freedom to move freely within the Empire, offer worship in their churches and monasteries, and to practice their religion free from official and unofficial persecution, insult or disturbance.[97][98] However, his standing army was recruited from the _Devshirme_, a group that took first-born Christian subjects at a young age and destined them for the sultan's court. The less able, but physically strong, were instead put into the army or the sultan's personal guard, the Janissaries.
 
@@ -246,7 +246,7 @@ Joseph von Hammer-Purgstall, writing in the 19th century, has suggested that Meh
 
 Death
 
-OttomanEmpire1481.png İstanbul_5908.jpg of Mehmed II (d. 1481) in Fatih, Istanbul]]
+of Mehmed II (d. 1481) in Fatih, Istanbul]]
 
 In 1481 Mehmed marched with the Ottoman army, but upon reaching Maltepe, Istanbul he became ill. He was just beginning new campaigns to capture Rhodes and southern Italy, however according to some historians his next voyage was planned to overthrow the Mamluk Sultanate of Egypt and to capture Egypt and claim the caliphate.[123] But after some days he died, on 3 May 1481, at the age of forty-nine, and was buried in his _türbe_ in the cemetery within the Fatih Mosque Complex. According to the historian Colin Heywood, "there is substantial circumstantial evidence that Mehmed was poisoned, possibly at the behest of his eldest son and successor, Bayezid."[124]
 

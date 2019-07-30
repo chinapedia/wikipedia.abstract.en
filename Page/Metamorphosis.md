@@ -1,4 +1,4 @@
-Dragonfly_metamorphosis.jpg in its final moult, undergoing metamorphosis from its nymph form to an adult]]
+in its final moult, undergoing metamorphosis from its nymph form to an adult]]
 
 METAMORPHOSIS is a biological process by which an animal physically develops after birth or hatching, involving a conspicuous and relatively abrupt change in the animal's body structure through cell growth and differentiation. Some insects, fishes, amphibians, mollusks, crustaceans, cnidarians, echinoderms, and tunicates undergo metamorphosis, which is often accompanied by a change of nutrition source or behavior. Animals can be divided into species that undergo complete metamorphosis ("holometaboly"), incomplete metamorphosis ("hemimetaboly"), or no metamorphosis ("ametaboly").
 
@@ -19,13 +19,11 @@ In insects growth and metamorphosis are controlled by hormones synthesized by en
 
 Insects
 
-Grasshoppermetasnodgrass.svg
-
 All three categories of metamorphosis can be found in the diversity of insects, including no metamorphosis ("ametaboly"), incomplete or partial metamorphosis ("hemimetaboly"), and complete metamorphosis ("holometaboly"). While ametabolous insects show very little difference between larval and adult forms (also known as "direct development"), both hemimetabolous and holometabolous insects have significant morphological and behavioral differences between larval and adult forms, the most significant being the inclusion, in holometabolus organisms, of a pupal or resting stage between the larval and adult forms.
 
 Development and terminology
 
-Holometabolous_vs._Hemimetabolous.svg In hemimetabolous insects, immature stages are called nymphs. Development proceeds in repeated stages of growth and ecdysis (moulting); these stages are called instars. The juvenile forms closely resemble adults, but are smaller and lack adult features such as wings and genitalia. The size and morphological differences between nymphs in different instars are small, often just differences in body proportions and the number of segments; in later instars, external wing buds form.
+In hemimetabolous insects, immature stages are called nymphs. Development proceeds in repeated stages of growth and ecdysis (moulting); these stages are called instars. The juvenile forms closely resemble adults, but are smaller and lack adult features such as wings and genitalia. The size and morphological differences between nymphs in different instars are small, often just differences in body proportions and the number of segments; in later instars, external wing buds form.
 
 In holometabolous insects, immature stages are called larvae and differ markedly from adults. Insects which undergo holometabolism pass through a larval stage, then enter an inactive state called pupa (called a "chrysalis" in butterfly species), and finally emerge as adults.[8]
 
@@ -44,7 +42,6 @@ According to research from 2008, adult _Manduca sexta_ is able to retain behavio
 Many observations have indicated that programmed cell death plays a considerable role during physiological processes of multicellular organisms, particularly during embryogenesis and metamorphosis.
 
 Below are the sequence of the metamorphosis of the butterfly (illustrated)
-Metamorphosis_of_butterfly_(PSF).png
 1 – The larva of a butterfly
 2 – The pupa is now spewing the thread to form cocoon
 3 – The coccoon is fully formed
@@ -75,7 +72,7 @@ Most other bony fish undergo metamorphosis from embryo to larva (fry) and then t
 
 Amphibians
 
-RanaTemporariaLarva2.jpg Rana_Temporaria_-_Larva_Final_Stage.jpg with some remains of the gill sac and a not fully developed jaw]]
+with some remains of the gill sac and a not fully developed jaw]]
 
 In typical amphibian development, eggs are laid in water and larvae are adapted to an aquatic lifestyle. Frogs, toads, and newts all hatch from the eggs as larvae with external gills but it will take some time for the amphibians to interact outside with pulmonary respiration. Afterwards, newt larvae start a predatory lifestyle, while tadpoles mostly scrape food off surfaces with their horny tooth ridges.
 
@@ -93,7 +90,7 @@ The Salamander development is highly diverse; some species go through a dramatic
 
 Newts
 
-LarveKamsalamander.JPG]]
+]]
 
 In newts, there is no true metamorphosis because newt larvae already feed as predators and continue doing so as adults. Newts' gills are never covered by a gill sac and will be resorbed only just before the animal leaves the water. Just as in tadpoles, their lungs are functional early, but newts use them less frequently than tadpoles. Newts often have an aquatic phase in spring and summer, and a land phase in winter. For adaptation to a water phase, prolactin is the required hormone, and for adaptation to the land phase, thyroxin. External gills do not return in subsequent aquatic phases because these are completely absorbed upon leaving the water for the first time.
 

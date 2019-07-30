@@ -42,7 +42,7 @@ Examples
 
 Properties
 
-Translation_of_a_set.svg The Lebesgue measure on R^(_n_) has the following properties:
+The Lebesgue measure on R^(_n_) has the following properties:
 
 1.  If _A_ is a cartesian product of intervals _I_₁ × _I_₂ × ... × _I__(_n_), then _A_ is Lebesgue-measurable and λ(A) = |I₁| ⋅ |I₂|⋯|I_(n)|. Here, |_I_| denotes the length of the interval _I_.
 2.  If _A_ is a disjoint union of countably many disjoint Lebesgue-measurable sets, then _A_ is itself Lebesgue-measurable and _λ_(_A_) is equal to the sum (or infinite series) of the measures of the involved measurable sets.

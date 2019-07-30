@@ -1,4 +1,4 @@
-Ghost Island|vanishing island|Fata Morgana (mirage)|mirage}} Map_by_nicolo_zeno_1558.jpg of 1558 showing Frisland – a phantom island in the North Atlantic]] Powell-Chart-1822.png's 1822 chart of the South Shetland Islands showing the phantom Middle Island in Bransfield Strait, Antarctica]]
+Ghost Island|vanishing island|Fata Morgana (mirage)|mirage}} of 1558 showing Frisland – a phantom island in the North Atlantic]] 's 1822 chart of the South Shetland Islands showing the phantom Middle Island in Bransfield Strait, Antarctica]]
 
 A PHANTOM ISLAND is a purported island which appeared on maps for a period of time (sometimes centuries) during recorded history, but was removed from later maps after it was proven not to exist.
 

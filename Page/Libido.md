@@ -9,7 +9,7 @@ Psychological perspectives
 
 Psychoanalysis
 
-Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg]]
+]]
 
 Sigmund Freud, which is considered the originator of the modern use of the term,[4] defined libido as "the energy, regarded as a quantitative magnitude... of those instincts which have to do with all that may be comprised under the word 'love'."[5] It is the instinct energy or force, contained in what Freud called the id, the strictly unconscious structure of the psyche. He also explained that it is analogous to hunger, the will to power, and so on[6] insisting that it is a fundamental instinct that is innate in all humans.[7]
 

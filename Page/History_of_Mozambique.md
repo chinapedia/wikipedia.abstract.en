@@ -18,7 +18,7 @@ When Vasco da Gama, exploring for Portugal, reached the coast of Mozambique in 1
 
 Portuguese Mozambique (1498–1975)
 
-Mozambique_n2.jpg is a small coral island at the mouth of Mossuril Bay on the Nacala coast of northern Mozambique, first explored by Europeans in the late 15th century.]] From about 1500, Portuguese trading posts and forts displaced the Arabic commercial and military hegemony, becoming regular ports of call on the new European sea route to the east.
+is a small coral island at the mouth of Mossuril Bay on the Nacala coast of northern Mozambique, first explored by Europeans in the late 15th century.]] From about 1500, Portuguese trading posts and forts displaced the Arabic commercial and military hegemony, becoming regular ports of call on the new European sea route to the east.
 
 The voyage of Vasco da Gama around the Cape of Good Hope in 1498 marked the Portuguese entry into trade, politics, and society of the region. The Portuguese gained control of the Island of Mozambique and the port city of Sofala in the early 16th century, and by the 1530s, small groups of Portuguese traders and prospectors seeking gold penetrated the interior regions, where they set up garrisons and trading posts at Sena and Tete on the River Zambezi and tried to gain exclusive control over the gold trade.[3]
 
@@ -28,14 +28,14 @@ Although Portuguese influence gradually expanded, its power was limited and exer
 
 During these wars, the Mazrui and Omani Arabs reclaimed much of the Indian Ocean trade, forcing the Portuguese to retreat south. Many _prazos_ had declined by the mid-19th century, but several of them survived. During the 19th century other European powers, particularly the British (British South Africa Company) and the French (Madagascar), became increasingly involved in the trade and politics of the region around the Portuguese East African territories.[5]
 
-TT_CMZ-AF-GT_E_2-1_10_81_-_Oficina_de_Tipografia_da_Escola_de_Artes_e_Ofícios.jpg By the early 20th century the Portuguese had shifted the administration of much of Mozambique to large private companies, like the Mozambique Company, the Zambezia Company and the Niassa Company, controlled and financed mostly by the British, which established railroad lines to their neighbouring colonies (South Africa and Rhodesia). Although slavery had been legally abolished in Mozambique, at the end of the 19th century the Chartered companies enacted a forced labor policy and supplied cheap—often forced—African labour to the mines and plantations of the nearby British colonies and South Africa. The Zambezia Company, the most profitable chartered company, took over a number of smaller _prazeiro_ holdings, and established military outposts to protect its property. The chartered companies built roads and ports to bring their goods to market including a railroad linking present day Zimbabwe with the Mozambican port of Beira.[6][7]
+By the early 20th century the Portuguese had shifted the administration of much of Mozambique to large private companies, like the Mozambique Company, the Zambezia Company and the Niassa Company, controlled and financed mostly by the British, which established railroad lines to their neighbouring colonies (South Africa and Rhodesia). Although slavery had been legally abolished in Mozambique, at the end of the 19th century the Chartered companies enacted a forced labor policy and supplied cheap—often forced—African labour to the mines and plantations of the nearby British colonies and South Africa. The Zambezia Company, the most profitable chartered company, took over a number of smaller _prazeiro_ holdings, and established military outposts to protect its property. The chartered companies built roads and ports to bring their goods to market including a railroad linking present day Zimbabwe with the Mozambican port of Beira.[6][7]
 
 Due to their unsatisfactory performance and the shift, under the corporatist Estado Novo regime of Oliveira Salazar, towards a stronger Portuguese control of Portuguese Empire's economy, the companies' concessions were not renewed when they ran out. This was what happened in 1942 with the Mozambique Company, which however continued to operate in the agricultural and commercial sectors as a corporation, and had already happened in 1929 with the termination of the Niassa Company's concession. In 1951, the Portuguese overseas colonies in Africa were rebranded as Overseas Provinces of Portugal.[8][9][10]
 
 
 Mozambican War of Independence (1964–1974)
 
-Portuguese_colonial_war-en.svg]]
+]]
 
 As communist and anti-colonial ideologies spread out across Africa, many clandestine political movements were established in support of Mozambican independence. These movements claimed that since policies and development plans were primarily designed by the ruling authorities for the benefit of Mozambique's Portuguese population, little attention was paid to Mozambique's tribal integration and the development of its native communities.[11]
 

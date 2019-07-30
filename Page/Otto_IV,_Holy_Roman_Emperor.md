@@ -1,5 +1,3 @@
-Coat_of_arms_of_the_House_of_Welf-Brunswick_(Braunschweig).svg Arms_of_Otto_IV,_Holy_Roman_Emperor.svg Coat_of_arms_of_Otto_IV_of_Brunswick_as_Holy_Roman_Emperor_(Chronica_Maiora).svg
-
 OTTO IV (1175 – 19 May 1218) was one of two rival kings of Germany from 1198 on, sole king from 1208 on, and Holy Roman Emperor from 1209 until he was forced to abdicate in 1215. The only German king of the Welf dynasty, he incurred the wrath of Pope Innocent III and was excommunicated in 1210.
 
 
@@ -37,7 +35,7 @@ Conflict with Innocent III
 
 Not content with his successes so far, Innocent also obtained from Otto further written concessions to the Papal See, including to allow all elections of German bishops to be conducted according to Church ordinances, and not to prevent any appeals to Rome.[24] He also promised to hand over to the Church all income from any vacant sees which had been flowing into the imperial treasury.[25]
 
-Otto_IV._und_Papst_Innocenz_III._reichen_sich_vor_den_ankommenden_Schiffen_Friedrichs_II._die_Hände.jpg shake hands]] After abandoning Rome, Otto marched north, reaching Pisa by 20 November. Here, probably advised by Peter of Celano and Dipold, Count of Acerra,[26] he was convinced to abandon his earlier promises. Otto immediately worked to restore imperial power in Italy.[27] After his consecration by the pope, he promised to restore the lands bequeathed to the church by the countess Matilda of Tuscany nearly a century before, and not to move against Frederick, King of Sicily.[28] He quickly broke all his promises.
+shake hands]] After abandoning Rome, Otto marched north, reaching Pisa by 20 November. Here, probably advised by Peter of Celano and Dipold, Count of Acerra,[26] he was convinced to abandon his earlier promises. Otto immediately worked to restore imperial power in Italy.[27] After his consecration by the pope, he promised to restore the lands bequeathed to the church by the countess Matilda of Tuscany nearly a century before, and not to move against Frederick, King of Sicily.[28] He quickly broke all his promises.
 
 He threw out the papal troops from Ancona and Spoleto, reclaiming the territory as imperial fiefs. He then demanded that Frederick of Sicily do homage for the duchies of Calabria and Apulia, and when Frederick refused to appear, Otto declared those fiefs forfeited.[29] Otto then marched on Rome, and commanded Innocent to annul the Concordat of Worms, and to recognise the imperial crown's right to make nominations to all vacant benefices.[30]
 
@@ -58,7 +56,7 @@ He is entombed in Brunswick Cathedral.
 
 Family
 
-Braunschweig_Altstadtrathaus_Otto_IV._Maria_von_Brabant_(2006).JPG Otto was related to every other King of Germany. He married twice:
+Otto was related to every other King of Germany. He married twice:
 
 1.  1209 or 1212 to Beatrice of Swabia, daughter of the German King Philip of Swabia and Irene Angelina.[50]
 2.  19 May 1214, in Aachen to Maria of Brabant, daughter of Henry I, Duke of Brabant, and Matilda of Boulogne.[51]

@@ -1,4 +1,4 @@
-Hafenpromenade_Sliema.jpg showing traffic on Triq ix-Xatt and boats in Marsamxett Harbour]] The TRANSPORT SYSTEM IN MALTA is small but extensive, and the islands' domestic system of public transport is reliant on buses and taxis, although there were both a railway and a tramway in the past.
+showing traffic on Triq ix-Xatt and boats in Marsamxett Harbour]] The TRANSPORT SYSTEM IN MALTA is small but extensive, and the islands' domestic system of public transport is reliant on buses and taxis, although there were both a railway and a tramway in the past.
 
 Malta's primary international connections are the airport at Gudja and by sea mainly the Grand Harbour, and the Malta Freeport (the 3rd largest transshipment port in the Mediterranean Sea).
 
@@ -7,7 +7,7 @@ Land transport
 
 Roads
 
-Malta_-_Hamrun_-_Triq_l-Indipendenza_02_ies.jpg]] Traffic in Malta drives on the left, as in the UK. Car ownership in Malta is exceedingly high given the very small size of the islands. The country has the fifth-highest number of vehicles per capita in the world as of 2009, with 607 motor vehicles per 1,000 people.[1] The number of registered cars in 1990 amounted to 182,254, giving an automobile density of 582 per km².[2]
+]] Traffic in Malta drives on the left, as in the UK. Car ownership in Malta is exceedingly high given the very small size of the islands. The country has the fifth-highest number of vehicles per capita in the world as of 2009, with 607 motor vehicles per 1,000 people.[1] The number of registered cars in 1990 amounted to 182,254, giving an automobile density of 582 per km².[2]
 
 Malta has 3,096 kilometres of road, 2,704 km (87.3%) of which are paved and 392 km are unpaved as of 2008.[3]
 
@@ -15,7 +15,7 @@ The official road user guide for Malta is _The Highway Code_.[4]
 
 Buses
 
-Maltesisk_buss_1.jpg Malta_Busse_2016.jpg Buses are the primary method of public transport for the Maltese Islands and have been in operation there since 1905, offering a cheap and frequent service to many parts of Malta and Gozo. The vast majority of buses on Malta depart from a terminus in Valletta. Malta's buses carried over 40 million passengers in 2015.[5]
+Buses are the primary method of public transport for the Maltese Islands and have been in operation there since 1905, offering a cheap and frequent service to many parts of Malta and Gozo. The vast majority of buses on Malta depart from a terminus in Valletta. Malta's buses carried over 40 million passengers in 2015.[5]
 
 The traditional classic Maltese buses, which were in operation until 2011 and still provide tourist-oriented services to this day, have become visitor attractions in their own right due to their uniqueness, and are depicted on many Maltese advertisements to promote tourism as well as on gifts and merchandise for tourists. Prior to their reform there were approximately 500 buses in public transit service, most of them privately owned by the bus drivers themselves, and operated to a unified timetable set by the transport authority. On any one day, half the bus fleet worked on the public transport network (called "route buses"), while the other half were used for private tours and school transport.
 
@@ -34,7 +34,7 @@ Between 1883 and 1931 Malta had a railway line that connected the capital city o
 
 Maritime transport
 
-Gozo_Channel_Malita.jpg Malta_-_Floriana_-_Triq_l-Ghassara_tal-Gheneb_-_Jean_de_la_Valette_(MSTHC)_06_ies.jpg]] Malta has three large natural harbours on its main island. There are also two man-made harbours that connect the islands of Malta and Gozo.
+]] Malta has three large natural harbours on its main island. There are also two man-made harbours that connect the islands of Malta and Gozo.
 
 -   The Grand Harbour, located at the eastern side of the capital city of Valletta. The Grand Harbour, which has been used as a harbour since Roman times, has several extensive docks and wharves, as well as a cruise liner terminal.
 -   Marsamxett Harbour, located on the western side of Valletta, accommodate a number of yacht marinas.
@@ -53,7 +53,7 @@ Malta is one of the ten largest ship registers in the world (6th in 2016) and th
 
 Air transport
 
-Malta_International_Airport3.jpg]] 9H-AEN_Airbus_A320-214_A320_AMC_(9785643244).jpg Airbus A320]] Malta International Airport is the only airport serving the Maltese Islands. It is built on the land formerly occupied by the RAF Luqa air base. A heliport is also located there, but the scheduled service to Gozo ceased in 2006. From June 2007 to August 2012, a three-times daily floatplane service, operated by HarbourAir Malta, linked the sea terminal in Grand Harbour to Mgarr harbour in Gozo.[16]
+]] Airbus A320]] Malta International Airport is the only airport serving the Maltese Islands. It is built on the land formerly occupied by the RAF Luqa air base. A heliport is also located there, but the scheduled service to Gozo ceased in 2006. From June 2007 to August 2012, a three-times daily floatplane service, operated by HarbourAir Malta, linked the sea terminal in Grand Harbour to Mgarr harbour in Gozo.[16]
 
 In the past there were two further airfields which were in operation during World War II and into the 1960s, located at Ta'Qali and Ħal Far. They have now since been closed, the land on the former has now been converted into a national park, stadium and the Crafts Village visitor attraction. The Malta Aviation Museum is also situated here, preserving several aircraft including Hurricane and Spitfire fighters which defended the island in World War II. Ħal Far has been converted into an industrial estate, a race track and an immigration reception centre.
 

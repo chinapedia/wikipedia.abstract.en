@@ -13,8 +13,6 @@ RA primarily affects joints, but it also affects other organs in more than 15–
 
 Joints
 
-Rheumatoid_arthritis_joint.gif
-
 Arthritis of joints involves inflammation of the synovial membrane. Joints become swollen, tender and warm, and stiffness limits their movement. With time, multiple joints are affected (polyarthritis). Most commonly involved are the small joints of the hands, feet and cervical spine, but larger joints like the shoulder and knee can also be involved.[33] Synovitis can lead to tethering of tissue with loss of movement and erosion of the joint surface causing deformity and loss of function.[34]
 
 RA typically manifests with signs of inflammation, with the affected joints being swollen, warm, painful and stiff, particularly early in the morning on waking or following prolonged inactivity. Increased stiffness early in the morning is often a prominent feature of the disease and typically lasts for more than an hour. Gentle movements may relieve symptoms in early stages of the disease. These signs help distinguish rheumatoid from non-inflammatory problems of the joints, such as osteoarthritis. In arthritis of non-inflammatory causes, signs of inflammation and early morning stiffness are less prominent. The pain associated with RA is induced at the site of inflammation and classified as nociceptive as opposed to neuropathic.[35] The joints are often affected in a fairly symmetrical fashion, although this is not specific, and the initial presentation may be asymmetrical.[36]
@@ -130,7 +128,7 @@ Diagnosis
 
 Imaging
 
-RheumatoideArthritisAP.jpg Inflamatory_arthritis2010.JPG X-ray_of_right_fourth_PIP_joint_with_bone_erosions_by_rheumatoid_arthritis.jpgs in rheumatoid arthritis.[84]]] X-rays of the hands and feet are generally performed when many joints affected. In RA, there may be no changes in the early stages of the disease or the x-ray may show osteopenia near the joint, soft tissue swelling, and a smaller than normal joint space. As the disease advances, there may be bony erosions and subluxation. Other medical imaging techniques such as magnetic resonance imaging (MRI) and ultrasound are also used in RA.[85][86]
+s in rheumatoid arthritis.[84]]] X-rays of the hands and feet are generally performed when many joints affected. In RA, there may be no changes in the early stages of the disease or the x-ray may show osteopenia near the joint, soft tissue swelling, and a smaller than normal joint space. As the disease advances, there may be bony erosions and subluxation. Other medical imaging techniques such as magnetic resonance imaging (MRI) and ultrasound are also used in RA.[85][86]
 
 Technical advances in ultrasonography like high-frequency transducers (10 MHz or higher) have improved the spatial resolution of ultrasound images depicting 20% more erosions than conventional radiography. Color Doppler and power Doppler ultrasound are useful in assessing the degree of synovial inflammation as they can show vascular signals of active synovitis. This is important, since in the early stages of RA, the synovium is primarily affected, and synovitis seems to be the best predictive marker of future joint damage.[87]
 
@@ -308,7 +306,7 @@ People with RA have an increased risk of infections and mortality and recommende
 
 Prognosis
 
-Rheumatoid_arthritis_world_map_-_DALY_-_WHO2004.svg for RA per 100,000 inhabitants in 2004.[231] ]] The course of the disease varies greatly. Some people have mild short-term symptoms, but in most the disease is progressive for life. Around 25% will have subcutaneous nodules (known as rheumatoid nodules) [232]; this is associated with a poor prognosis.[233]
+for RA per 100,000 inhabitants in 2004.[231] ]] The course of the disease varies greatly. Some people have mild short-term symptoms, but in most the disease is progressive for life. Around 25% will have subcutaneous nodules (known as rheumatoid nodules) [232]; this is associated with a poor prognosis.[233]
 
 Prognostic factors
 
@@ -332,8 +330,6 @@ RA reduces lifespan on average from three to twelve years.[234] Young age at ons
 
 
 Epidemiology
-
-Rheumatoid_arthritis_world_map-Deaths_per_million_persons-WHO2012.svg
 
 RA affects between 0.5 and 1% of adults in the developed world with between 5 and 50 per 100,000 people newly developing the condition each year.[240] In 2010 it resulted in about 49,000 deaths globally.[241]
 

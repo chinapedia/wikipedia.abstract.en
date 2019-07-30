@@ -1,4 +1,4 @@
-Rattling_Earth's_Force_Field.ogv of Earth's magnetosphere]]
+of Earth's magnetosphere]]
 
 A MAGNETOSPHERE is a region of space surrounding an astronomical object in which charged particles are manipulated or affected by that object's magnetic field.[1][2] It is created by a planet having an active interior dynamo.
 
@@ -25,11 +25,9 @@ A magnetosphere is classified as "intrinsic" when R_(CF) ≫ R_(P), or when 
 
 Structure
 
-Magnetosphere_Levels.svg
-
 Bow shock
 
-Red_Giant_Plunging_Through_Space.jpg and artist's concept of the bow shock around R Hydrae]] The bow shock forms the outermost layer of the magnetosphere; the boundary between the magnetosphere and the ambient medium. For stars, this is usually the boundary between the stellar wind and interstellar medium; for planets, the speed of the solar wind there decreases as it approaches the magnetopause.[7]
+and artist's concept of the bow shock around R Hydrae]] The bow shock forms the outermost layer of the magnetosphere; the boundary between the magnetosphere and the ambient medium. For stars, this is usually the boundary between the stellar wind and interstellar medium; for planets, the speed of the solar wind there decreases as it approaches the magnetopause.[7]
 
 Magnetosheath
 
@@ -45,7 +43,7 @@ Opposite the compressed magnetic field is the magnetotail, where the magnetosphe
 
 Earth's magnetosphere
 
-Magnetosphere_rendition.jpg Structure_of_the_magnetosphere-en.svg Over Earth's equator, the magnetic field lines become almost horizontal, then return to reconnect at high latitudes. However, at high altitudes, the magnetic field is significantly distorted by the solar wind and its solar magnetic field. On the dayside of Earth, the magnetic field is significantly compressed by the solar wind to a distance of approximately . Earth's bow shock is about thick[14] and located about from Earth.[15] The magnetopause exists at a distance of several hundred kilometers above Earth's surface. Earth's magnetopause has been compared to a sieve because it allows solar wind particles to enter. Kelvin–Helmholtz instabilities occur when large swirls of plasma travel along the edge of the magnetosphere at a different velocity from the magnetosphere, causing the plasma to slip past. This results in magnetic reconnection, and as the magnetic field lines break and reconnect, solar wind particles are able to enter the magnetosphere.[16] On Earth's nightside, the magnetic field extends in the magnetotail, which lengthwise exceeds .[17] Earth's magnetotail is the primary source of the polar aurora.[18] Also, NASA scientists have suggested that Earth's magnetotail might cause "dust storms" on the Moon by creating a potential difference between the day side and the night side.[19]
+Over Earth's equator, the magnetic field lines become almost horizontal, then return to reconnect at high latitudes. However, at high altitudes, the magnetic field is significantly distorted by the solar wind and its solar magnetic field. On the dayside of Earth, the magnetic field is significantly compressed by the solar wind to a distance of approximately . Earth's bow shock is about thick[14] and located about from Earth.[15] The magnetopause exists at a distance of several hundred kilometers above Earth's surface. Earth's magnetopause has been compared to a sieve because it allows solar wind particles to enter. Kelvin–Helmholtz instabilities occur when large swirls of plasma travel along the edge of the magnetosphere at a different velocity from the magnetosphere, causing the plasma to slip past. This results in magnetic reconnection, and as the magnetic field lines break and reconnect, solar wind particles are able to enter the magnetosphere.[16] On Earth's nightside, the magnetic field extends in the magnetotail, which lengthwise exceeds .[17] Earth's magnetotail is the primary source of the polar aurora.[18] Also, NASA scientists have suggested that Earth's magnetotail might cause "dust storms" on the Moon by creating a potential difference between the day side and the night side.[19]
 
 Other objects
 

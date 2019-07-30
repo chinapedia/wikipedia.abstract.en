@@ -1,5 +1,3 @@
-Jim_Flynn_Political_Studies_University_of_Otago.jpg
-
 JAMES ROBERT FLYNN FRSNZ (born 1934) is a New Zealand intelligence researcher. An Emeritus Professor of Political Studies at the University of Otago in Dunedin, New Zealand, he is famous for his publications about the continued year-after-year increase of IQ scores throughout the world, which is now referred to as the Flynn effect. The Flynn effect is the subject of a multiple-author monograph published by the American Psychological Association in 1998.[1] Originally from Washington, D.C. and educated at the University of Chicago, Flynn emigrated to New Zealand in 1963.
 
 Flynn's son Victor is a mathematics professor at New College, Oxford.

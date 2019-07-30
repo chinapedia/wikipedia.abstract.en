@@ -1,4 +1,4 @@
-Mami_Wata_poster.png. |thumb]] LOA (, also written LWA as in Haitian Creole) are the spirits of Haitian Vodou and Louisiana Voodoo.[1] They are also referred to as "mystères" and "the invisibles" and are intermediaries between Bondye (from French _Bon Dieu_, meaning "good God")—the Supreme Creator, who is distant from the world—and humanity. Unlike saints or angels, however, they are not simply prayed to, they are served. They are each distinct beings with their own personal likes and dislikes, distinct sacred rhythms, songs, dances, ritual symbols, and special modes of service. Contrary to popular belief, the loa are not deities in and of themselves; they are intermediaries for, and dependent on, a distant Bondye.[2]
+. |thumb]] LOA (, also written LWA as in Haitian Creole) are the spirits of Haitian Vodou and Louisiana Voodoo.[1] They are also referred to as "mystères" and "the invisibles" and are intermediaries between Bondye (from French _Bon Dieu_, meaning "good God")—the Supreme Creator, who is distant from the world—and humanity. Unlike saints or angels, however, they are not simply prayed to, they are served. They are each distinct beings with their own personal likes and dislikes, distinct sacred rhythms, songs, dances, ritual symbols, and special modes of service. Contrary to popular belief, the loa are not deities in and of themselves; they are intermediaries for, and dependent on, a distant Bondye.[2]
 
 
 Etymology
@@ -19,7 +19,7 @@ In a ritual the loa are called down by the _houngan_ (priest), _mambo_ (priestes
 
 Certain loa display very distinctive behavior by which they can be recognized, specific phrases, and specific actions. As soon as a loa is recognized, the symbols appropriate to them will be given to them. For example, Erzulie Freda will be given a glass of pink champagne, she is sprinkled with her perfumes, fine gifts of food will be presented to her or she even puts on her jewelry; Legba will be given his cane, straw hat, and pipe; Baron Samedi will often fall flat on the floor and the vodousants around him will dress him and prepare him as they do in a morgue with cotton in his nose.
 
-WLANL_-_mchangsp_-_Legba.jpg Once the loa have arrived, fed, been served, and possibly given help or advice, they leave the peristyle. Certain loa can become obstinate, for example the Guédé are notorious for wanting just one more smoke, or one more drink, but it is the job of the houngan or mambo to keep the spirits in line while ensuring they are adequately provided for.
+Once the loa have arrived, fed, been served, and possibly given help or advice, they leave the peristyle. Certain loa can become obstinate, for example the Guédé are notorious for wanting just one more smoke, or one more drink, but it is the job of the houngan or mambo to keep the spirits in line while ensuring they are adequately provided for.
 
 
 Nanchons

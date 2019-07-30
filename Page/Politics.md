@@ -15,8 +15,6 @@ A political system is a framework which defines acceptable political methods wit
 
 Etymology
 
-Women_voter_outreach_1935_English_Yiddish.jpg
-
 The word comes from the same Greek word from which the title of Aristotle's book _Politics_ (from , meaning "affairs of the cities"). The book title was rendered in Early Modern English in the mid-15th century as "Polettiques" ;[15] it became "politics" in Modern English. The singular _politic_ first attested in English 1430 and comes from Middle French _politique_, in turn from Latin _politicus_,[16] which is the Latinization of the Greek πολιτικός (_politikos_), meaning amongst others "of, for, or relating to citizens", "civil", "civic", "belonging to the state",[17] in turn from πολίτης (_polites_), "citizen"[18] and that from πόλις (_polis_), "city".[19]
 
 Classifications
@@ -44,8 +42,6 @@ The greatest of the king's subordinates, the earls and dukes in England and Scot
 
 
 Themes
-
-2017.07.26_Protest_Trans_Military_Ban,_White_House,_Washington_DC_USA_7646_(36056769341).jpg
 
 Forms of political organization
 
@@ -85,12 +81,10 @@ Political science, the study of politics, examines the acquisition and applicati
 
 The first academic chair devoted to politics in the United States was the chair of history and political science at Columbia University, first occupied by Prussian émigré Francis Lieber in 1857.[49]
 
-Politics_2.jpg
-
 
 Political values
 
-Inglehart_Values_Map.svg based on the World Values Survey.]]
+based on the World Values Survey.]]
 
 Several different political spectra have been proposed.
 
@@ -102,7 +96,7 @@ The meanings behind the labels have become more complicated over the years. A pa
 
 The meaning of left-wing and right-wing varies considerably between different countries and at different times, but generally speaking, it can be said that the right wing often values tradition and inequality while the left wing often values progress and egalitarianism, with the center seeking a balance between the two such as with social democracy, libertarianism or regulated capitalism.[53]
 
-According to Norberto Bobbio, one of the major exponents of this distinction, the Left believes in attempting to eradicate social inequality – believing it to be unethical or unnatural[54] while the Right regards most social inequality as the result of ineradicable natural inequalities, and sees attempts to enforce social equality as utopian or authoritarian.[55] Some ideologies, notably Christian Democracy, claim to combine left and right wing politics; according to Geoffrey K. Roberts and Patricia Hogwood, "In terms of ideology, Christian Democracy has incorporated many of the views held by liberals, conservatives and socialists within a wider framework of moral and Christian principles."[56] Movements which claim or formerly claimed to be above the left-right divide include Fascist Terza Posizione economic politics in Italy and Peronism in Argentina.[57][58] Political_chart.svg to Libertarian and Left-wing to Right-wing on a 2D plane.]]
+According to Norberto Bobbio, one of the major exponents of this distinction, the Left believes in attempting to eradicate social inequality – believing it to be unethical or unnatural[54] while the Right regards most social inequality as the result of ineradicable natural inequalities, and sees attempts to enforce social equality as utopian or authoritarian.[55] Some ideologies, notably Christian Democracy, claim to combine left and right wing politics; according to Geoffrey K. Roberts and Patricia Hogwood, "In terms of ideology, Christian Democracy has incorporated many of the views held by liberals, conservatives and socialists within a wider framework of moral and Christian principles."[56] Movements which claim or formerly claimed to be above the left-right divide include Fascist Terza Posizione economic politics in Italy and Peronism in Argentina.[57][58] to Libertarian and Left-wing to Right-wing on a 2D plane.]]
 
 Authoritarian–libertarian
 

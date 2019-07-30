@@ -1,9 +1,3 @@
-The main components of a stamp:
-1. Image
-2. Perforations
-3. Denomination
-4. Country name
-
 A POSTAGE STAMP is a small piece of paper issued by a post office, postal administration, or other authorized vendors to customers who pay postage (the cost involved in moving, insuring, or registering mail), who then affix the stamp to the face or address-side of any item of mail—an envelope or other postal cover (e.g., packet, box, mailing cylinder)—that they wish to send. The item is then processed by the postal system, where a postmark or cancellation mark—in modern usage indicating date and point of origin of mailing—is applied to the stamp and its left and right sides to prevent its reuse. The item is then delivered to its addressee.
 
 Always featuring the name of the issuing nation (with the exception of the United Kingdom), a denomination of its value, and often an illustration of persons, events, institutions, or natural realities that symbolize the nation's traditions and values, every stamp is printed on a piece of usually rectangular, but sometimes triangular or otherwise shaped special custom-made paper whose back is either glazed with an adhesive gum or self-adhesive.
@@ -13,7 +7,7 @@ Because governments issue stamps of different denominations in unequal numbers a
 
 Invention
 
-Lovrenc_košir.jpg Rowland_Hill_photo_crop.jpg Throughout modern history, numerous methods were used to indicate that postage had been paid on a mailed item, so several different men have received credit for inventing the postage stamp.
+Throughout modern history, numerous methods were used to indicate that postage had been paid on a mailed item, so several different men have received credit for inventing the postage stamp.
 
 William Dockwra
 
@@ -62,7 +56,7 @@ Other claimants include or have included[19]
 
 History
 
-Penny_black.jpg, the world’s first postage stamp.]] Although a number of people laid claim to the concept of the postage stamp, it is well documented that stamps were first introduced in the United Kingdom of Great Britain and Ireland on 1 May 1840 as a part of postal reforms promoted by Sir Rowland Hill. With its introduction, the postage fee was paid by the sender and not the recipient, though it was still possible to send mail without prepaying. From when the first postage stamps were used, postmarks were applied to prevent the stamps being used again.[20][21]
+, the world’s first postage stamp.]] Although a number of people laid claim to the concept of the postage stamp, it is well documented that stamps were first introduced in the United Kingdom of Great Britain and Ireland on 1 May 1840 as a part of postal reforms promoted by Sir Rowland Hill. With its introduction, the postage fee was paid by the sender and not the recipient, though it was still possible to send mail without prepaying. From when the first postage stamps were used, postmarks were applied to prevent the stamps being used again.[20][21]
 
 The first stamp, the "Penny black", became available for purchase 1 May 1840, to be valid as of 6 May 1840. Two days later, 8 May 1840, the Two penny blue was introduced. The Penny black was sufficient for a letter less than half an ounce to be sent anywhere within the UK. Both stamps included an engraving of the young Queen Victoria, without perforations, as the first stamps were separated from their sheets by cutting them with scissors.
 
@@ -83,13 +77,13 @@ Soon after the introduction of the postage stamp, other subjects and designs beg
 
 Perforations
 
-Perforations_US1940_issues-2c.jpg Perforations are small holes made between individual postage stamps on a sheet of stamps,[32] facilitating separation of a desired number of stamps. The resulting frame-like, rippled edge surrounding the separated stamp defines a characteristic meme for the appearance of a postage stamp.
+Perforations are small holes made between individual postage stamps on a sheet of stamps,[32] facilitating separation of a desired number of stamps. The resulting frame-like, rippled edge surrounding the separated stamp defines a characteristic meme for the appearance of a postage stamp.
 
 In the first decade of postage stamps' existence (depending on the country), stamps were issued without perforations. Scissors or other cutting mechanisms were required to separate a desired number of stamps from a full sheet. If cutting tools were not used, individual stamps were torn off. This is evidenced by the ragged edges of surviving examples. Mechanically separating stamps from a sheet proved an inconvenience for postal clerks and businesses, both dealing with large numbers of individual stamps on a daily basis. By 1850, methods such as rouletting wheels were being devised in efforts of making stamp separation more convenient, and less time consuming.[33]
 
-Stamp_UK_Penny_Red_pl148.jpg, 1854 issue. The first officially perforated postage stamp.]] The United Kingdom was the first country to issue postage stamps with perforations. The first machine specifically designed to perforate sheets of postage stamps was invented in London by Henry Archer, an Irish landowner and railroad man from Dublin, Ireland.[34] The 1850 Penny Red[35][36][37] was the first stamp to be perforated during trial course of Archer's perforating machine. After a period of trial and error and modifications of Archer's invention, new machines based on the principles pioneered by Archer were purchased and in 1854 the U.K. postal authorities started continuously issuing perforated postage stamps in the Penny Red and all subsequent designs.
+, 1854 issue. The first officially perforated postage stamp.]] The United Kingdom was the first country to issue postage stamps with perforations. The first machine specifically designed to perforate sheets of postage stamps was invented in London by Henry Archer, an Irish landowner and railroad man from Dublin, Ireland.[34] The 1850 Penny Red[35][36][37] was the first stamp to be perforated during trial course of Archer's perforating machine. After a period of trial and error and modifications of Archer's invention, new machines based on the principles pioneered by Archer were purchased and in 1854 the U.K. postal authorities started continuously issuing perforated postage stamps in the Penny Red and all subsequent designs.
 
-Washington_1857_1st_perf-3c.jpg United States stamp (1857).]] In the U.S. the use of postage stamps caught on quickly and became more widespread when on March 3, 1851, the last day of its legislative session, Congress passed the _Act of March 3, 1851_ (_An Act to reduce and modify the Rates of Postage in the United States_).[38] Similarly introduced on the last day of the Congressional session four years later, the _Act of March 3, 1855_ required the prepayment of postage on all mailings. Thereafter, postage stamp use in the U.S. quickly doubled, and by 1861 had quadrupled.[39]
+United States stamp (1857).]] In the U.S. the use of postage stamps caught on quickly and became more widespread when on March 3, 1851, the last day of its legislative session, Congress passed the _Act of March 3, 1851_ (_An Act to reduce and modify the Rates of Postage in the United States_).[38] Similarly introduced on the last day of the Congressional session four years later, the _Act of March 3, 1855_ required the prepayment of postage on all mailings. Thereafter, postage stamp use in the U.S. quickly doubled, and by 1861 had quadrupled.[39]
 
 In 1856, under the direction of Postmaster General James Campbell, Toppan and Carpenter, (_commissioned by the U.S. government to print U.S. postage stamps through the 1850s_) purchased a rotary machine designed to separate stamps, patented in England in 1854 by William and Henry Bemrose, who were printers in Derby, England.[40] The original machine cut slits into the paper rather than punching holes, but the machine was soon modified.[41]
 
@@ -110,7 +104,7 @@ Artists, designers, engravers and administrative officials are involved with the
 
 Types
 
-Costa_Rica_Diamond_stamp2_1937-2c.jpg stamp of 1937.]]
+stamp of 1937.]]
 
 -   Airmail stamp — for payment of airmail service. The term "airmail" or an equivalent is usually printed on special airmail stamps. Airmail stamps typically depict images of airplanes and/or famous pilots and were used when airmail was a special type of mail delivery separate from mail delivered by train, ship or automobile. Aside from mail with local destinations, today almost all other mail is transported by aircraft and thus airmail is now the standard method of delivery.[49] Scott has a separate category and listing for U.S. Airmail Postage. Prior to 1940, Scotts Catalogue did not have a special designation for airmail stamps.[50] The various major stamp catalogs have different numbering systems and may not always list airmail stamps the same way.
 -   _ATM stamp —_ stamps dispensed by automates and get their value imprinted only at the time of purchase.
@@ -123,11 +117,9 @@ Costa_Rica_Diamond_stamp2_1937-2c.jpg stamp of 1937.]]
 -   Computer vended postage — advanced secure postage that uses information-based indicia (IBI) technology. IBI uses a two-dimensional bar code (Datamatrix or PDF417) to encode the originating address, date of mailing, postage and a digital signature to verify the stamp.[51]
 -   _Customised stamp_ — a stamp on which the image can be chosen by the purchaser by sending in a photograph or by use of the computer. Some are not true stamps but technically meter labels.
 
-Chinese_stamp_in_1950.jpg
-
 -   Definitive stamps — stamps for everyday postage and are usually produced to meet current postal rates. They often have less appealing designs than commemoratives, though there are notable exceptions.[52] The same design may be used for many years. The use of the same design over an extended period may lead to unintended color varieties. This may make them just as interesting to philatelists as are commemoratives. A good example would be the US 1903 regular issues, their designs being very picturesque and ornamental.[53] Definitive stamps are often issued in a series of stamps with different denominations.
 
-Stamps_first_1898-99_Stamps_FILIPINO.jpg.]]
+.]]
 
 -   Express mail stamp / special delivery stamp.
 -   _Late fee stamp_ — issued to show payment of a fee to allow inclusion of a letter or package in the outgoing dispatch although it has been turned in after the cut-off time.
@@ -136,7 +128,7 @@ Stamps_first_1898-99_Stamps_FILIPINO.jpg.]]
 -   Military stamp — stamp for a country’s armed forces, usually using a special postal system.
 -   Minisheet — a commemorative issue smaller than a regular full sheet of stamps, but with more than one stamp. Minisheets often contain a number of different stamps, and often having a decorative border. See also souvenir sheets.
 
-Zinnoberroter_Merkur.jpg, a rare 1856 newspaper stamp of Austria.]]
+, a rare 1856 newspaper stamp of Austria.]]
 
 -   Newspaper stamp — used to pay the cost of mailing newspapers and other periodicals.
 -   Official mail stamp — issued for use by the government or a government agency.
@@ -164,26 +156,26 @@ Apart from these, there are also Revenue (used to collect taxes or fees on items
 
 First day covers
 
-Abudhabi30mar1964fdc.jpg from Abu Dhabi.]] Postage stamps are first issued on a specific date, often referred to as the _First day of issue._ A _first day cover_ usually consists of an envelope, a postage stamp and a postmark with the date of the stamp’s first day of issue thereon.[54] Starting in the mid-20th century some countries began assigning the first day of issue to a place associated with the subject of the stamp design, such as a specific town or city.[55] There are two basic types of _First Day Covers_ (FDCs) noted by collectors. The first and often most desirable type among advanced collectors is a cover sent through the mail in the course of everyday usage, without the intention of the envelope and stamp ever being retrieved and collected. The second type of FDC is often referred to as "Philatelic," that is, an envelope and stamp sent by someone with the intention of retrieving and collecting the mailed item at a later time and place. The envelope used for this type of FDC often bears a printed design or cachet of its own in correspondence with the stamp’s subject and is usually printed well in advance of the first day of issue date. The latter type of FDC is usually far more common, and is usually inexpensive and relatively easy to acquire. Covers that were sent without any secondary purpose are considered _non-philatelic_ and often are much more challenging to find and collect.'[56][57]
+from Abu Dhabi.]] Postage stamps are first issued on a specific date, often referred to as the _First day of issue._ A _first day cover_ usually consists of an envelope, a postage stamp and a postmark with the date of the stamp’s first day of issue thereon.[54] Starting in the mid-20th century some countries began assigning the first day of issue to a place associated with the subject of the stamp design, such as a specific town or city.[55] There are two basic types of _First Day Covers_ (FDCs) noted by collectors. The first and often most desirable type among advanced collectors is a cover sent through the mail in the course of everyday usage, without the intention of the envelope and stamp ever being retrieved and collected. The second type of FDC is often referred to as "Philatelic," that is, an envelope and stamp sent by someone with the intention of retrieving and collecting the mailed item at a later time and place. The envelope used for this type of FDC often bears a printed design or cachet of its own in correspondence with the stamp’s subject and is usually printed well in advance of the first day of issue date. The latter type of FDC is usually far more common, and is usually inexpensive and relatively easy to acquire. Covers that were sent without any secondary purpose are considered _non-philatelic_ and often are much more challenging to find and collect.'[56][57]
 
 
 Souvenir or miniature sheets
 
-Faroe_stampsheet_153_Hafnia_1987_II_-_Torshavn,_Western_Bay.jpg, in which the stamps form a part of a larger image.]] Postage stamps are sometimes issued in souvenir sheets or miniature sheets containing one or a small number of stamps. Souvenir sheets typically include additional artwork or information printed on the selvage, the border surrounding the stamps. Sometimes the stamps make up a greater picture. Some countries, and some issues, are produced as individual stamps as well as sheets.
+, in which the stamps form a part of a larger image.]] Postage stamps are sometimes issued in souvenir sheets or miniature sheets containing one or a small number of stamps. Souvenir sheets typically include additional artwork or information printed on the selvage, the border surrounding the stamps. Sometimes the stamps make up a greater picture. Some countries, and some issues, are produced as individual stamps as well as sheets.
 
 
 Stamp collecting
 
 Stamp collecting is a hobby. Collecting is not the same as philately, which is defined as the study of stamps. The creation of a valuable or comprehensive collection, however, may require some philatelic knowledge.
 
-Stamp collectors are an important source of revenue for some small countries that create limited runs of elaborate stamps designed mainly to be bought by stamp collectors. The stamps produced by these countries may far exceed their postal needs. Hundreds of countries, each producing scores of different stamps each year, resulted in 400,000 different types of stamps in existence by the year 2000. Annual world output averages about 10,000 types. François_Barraud_-_Le_Philateliste.jpg (1929).]] Some countries authorize the production of postage stamps that have no postal use,[58] but are intended instead solely for collectors. Other countries issue large numbers of low denomination stamps that are bundled together in starter packs for new collectors. _Official reprints_ are often printed by companies who have purchased or contacted for those rights and such reprints see no postal use.[59][60] All of these stamps are often found "canceled to order", meaning they are postmarked without ever having passed through the postal system. Most national post offices produce stamps that would not be produced if there were no collectors, some to a far more prolific degree than others.
+Stamp collectors are an important source of revenue for some small countries that create limited runs of elaborate stamps designed mainly to be bought by stamp collectors. The stamps produced by these countries may far exceed their postal needs. Hundreds of countries, each producing scores of different stamps each year, resulted in 400,000 different types of stamps in existence by the year 2000. Annual world output averages about 10,000 types. (1929).]] Some countries authorize the production of postage stamps that have no postal use,[58] but are intended instead solely for collectors. Other countries issue large numbers of low denomination stamps that are bundled together in starter packs for new collectors. _Official reprints_ are often printed by companies who have purchased or contacted for those rights and such reprints see no postal use.[59][60] All of these stamps are often found "canceled to order", meaning they are postmarked without ever having passed through the postal system. Most national post offices produce stamps that would not be produced if there were no collectors, some to a far more prolific degree than others.
 
 Sales of stamps to collectors who do not use them for mailing can result in large profits. Examples of excessive issues have been the stamps produced by Nicholas F. Seebeck and stamps produced for the component states of the United Arab Emirates. Seebeck operated in the 1890s as an agent of Hamilton Bank Note Company. He approached Latin American countries with an offer to produce their entire postage stamp needs for free. In return he would have exclusive rights to market stamps to collectors. Each year a new issue would be produced, but would expire at the end of the year. This assured Seebeck of a continuing supply of remainders.[61][62] In the 1960s, printers such as the Barody Stamp Company contracted to produce stamps for the separate Emirates and other countries. The sparse population of the desert states made it wholly unlikely that many of these stamps would ever be used for mailing purposes, and earned them the name of the "sand dune" countries.
 
 
 Famous stamps
 
-Basel_Dove_unused.jpg stamp.]]
+stamp.]]
 
 -   Basel Dove
 -   British Guiana 1c magenta

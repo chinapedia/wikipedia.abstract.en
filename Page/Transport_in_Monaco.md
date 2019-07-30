@@ -1,11 +1,9 @@
-Front_New_A330_n°145_CAM-Monaco.JPG
-
 TRANSPORT IN MONACO is facilitated with road, air, rail, and water networks. Rail transport is operated by SNCF and its total length is 1.7 km. Monaco has five bus routes operated by Compagnie des Autobus de Monaco. There are also two other bus routes which connect Monaco with neighboring regions such as Nice and Menton.
 
 
 Rail transport
 
-Train_station,_Monaco.jpg station]] The railway is totally underground within Monegasque territory, and no trains can be seen at ground level within the nation. It links Marseilles to Ventimiglia (Italy) through the principality, and was opened in 1868. Two stations were originally provided, named 'Monaco' and 'Monte-Carlo', but neither remain in current use. The railway line was re-laid, in a new permanent way in underground tunnels, constructed in two stages. The first, in 1964, was a 3,500 metre tunnel (mostly in French territory) which rendered the original Monte-Carlo station redundant. The second stage, opened in 1999, was a 3 km-long tunnel linked to the first one, allowing the new "underground railway station of Monaco-Monte Carlo" to open. Where the above ground railway was is now available for development, schools, hotels and commercial facilities, can locate here totaling some four hectares. This station is also served by international trains (including the French TGV) and regional trains ("TER").
+station]] The railway is totally underground within Monegasque territory, and no trains can be seen at ground level within the nation. It links Marseilles to Ventimiglia (Italy) through the principality, and was opened in 1868. Two stations were originally provided, named 'Monaco' and 'Monte-Carlo', but neither remain in current use. The railway line was re-laid, in a new permanent way in underground tunnels, constructed in two stages. The first, in 1964, was a 3,500 metre tunnel (mostly in French territory) which rendered the original Monte-Carlo station redundant. The second stage, opened in 1999, was a 3 km-long tunnel linked to the first one, allowing the new "underground railway station of Monaco-Monte Carlo" to open. Where the above ground railway was is now available for development, schools, hotels and commercial facilities, can locate here totaling some four hectares. This station is also served by international trains (including the French TGV) and regional trains ("TER").
 
 
 Road transport
@@ -29,7 +27,7 @@ There are seven main INCLINED lifts (including Elevators and/or travelators) whi
 
 Bus
 
-Van_Hool_A330_-_CAM_Monaco_101.JPG There are six bus routes in Monaco, all operated by Compagnie des Autobus de Monaco (CAM).[2] There are 143 bus stops through the Principality.[3]
+There are six bus routes in Monaco, all operated by Compagnie des Autobus de Monaco (CAM).[2] There are 143 bus stops through the Principality.[3]
 
 -   Line 1: Monaco-Ville, Monte-Carlo, Saint Roman and return
 -   Line 2: Monaco-Ville, Monte-Carlo, Exotic Garden and return
@@ -37,7 +35,7 @@ Van_Hool_A330_-_CAM_Monaco_101.JPG There are six bus routes in Monaco, all opera
 -   Line 5: Railway station, Fontvieille, Hospital and return
 -   Line 6: Larvotto Beach, Fontvieille and return
 
-Setra_S_415_NF_ligne_100_Monaco-Nice.JPG There are four other bus routes which connect Monaco with neighbouring regions.
+There are four other bus routes which connect Monaco with neighbouring regions.
 
 -   Line 11: La Turbie, Monaco and return [4]
 -   Line 100: Nice, Monaco, Menton and return [5]
@@ -53,7 +51,7 @@ A narrow gauge subway line is a perennial project in Monaco, which has not been 
 
 Sea transport
 
-Puerto,_Mónaco,_2016-06-23,_DD_02.jpg There are two ports in Monaco, one is Port Hercules and the other is in Fontvieille. There are seasonal ferry lines like the one from Nice to Saint-Tropez.
+There are two ports in Monaco, one is Port Hercules and the other is in Fontvieille. There are seasonal ferry lines like the one from Nice to Saint-Tropez.
 
 
 Air transport

@@ -14,12 +14,12 @@ The German name for the lake is __.[13] It is unlikely that the Germans named th
 
 Climate
 
-Ancient_balaton.jpg Lake Balaton affects the local area precipitation. The area receives approximately more precipitation than most of Hungary, resulting in more cloudy days and less extreme temperatures. The lake's surface freezes during winters. The microclimate around Lake Balaton has also made the region ideal for viticulture. The Mediterranean-like climate, combined with the soil (containing volcanic rock), has made the region notable for its production of wines since the Roman period two thousand years ago.[18]
+Lake Balaton affects the local area precipitation. The area receives approximately more precipitation than most of Hungary, resulting in more cloudy days and less extreme temperatures. The lake's surface freezes during winters. The microclimate around Lake Balaton has also made the region ideal for viticulture. The Mediterranean-like climate, combined with the soil (containing volcanic rock), has made the region notable for its production of wines since the Roman period two thousand years ago.[18]
 
 
 History
 
-PELSO.png 30-as_túrajolle._Fortepan_25768.jpg 25-ös_túrajolle._Fortepan_26079.jpg While a few settlements on Lake Balaton, including Balatonfüred and Hévíz, have long been resort centres for the Hungarian aristocracy, it was only in the late 19th century that the Hungarian middle class began to visit the lake.[19] The construction of railways in 1861 and 1909 increased tourism substantially, but the post-war boom of the 1950s was much larger.
+While a few settlements on Lake Balaton, including Balatonfüred and Hévíz, have long been resort centres for the Hungarian aristocracy, it was only in the late 19th century that the Hungarian middle class began to visit the lake.[19] The construction of railways in 1861 and 1909 increased tourism substantially, but the post-war boom of the 1950s was much larger.
 
 By the turn of the 20th century, Balaton had become a center of research by Hungarian biologists, geologists, hydrologists, and other scientists, leading to the country's first biological research institute being built on its shore in 1927.[20]
 
@@ -40,8 +40,6 @@ Other resort towns include: Balatonalmádi, Balatonboglár, Balatonlelle, Fonyó
 
 
 Towns and villages
-
-Balaton.gif
 
 North shore
 

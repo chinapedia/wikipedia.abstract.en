@@ -3,7 +3,7 @@ MATTHEW THE APOSTLE ( _Mattityahu_ or _Matt_, _متى_ Arabic "Gift of YHVH"; ; 
 
 In the New Testament
 
-Bodleian_Library_MS._Arm._d.13._Armenian_Gospels-0039-0.jpg]] Among the early followers and apostles of Jesus, Matthew is mentioned in and as a publican (KJV) or tax collector (NIV) who, while sitting at the "receipt of custom" in Capernaum, was called to follow Jesus.[1] He is also listed among the twelve, but without identification of his background, in , and . In passages parallel to Matthew 9:9, both and describe Jesus' calling of the tax collector Levi, the son of Alphaeus, but Mark and Luke never explicitly equate this Levi with the Matthew named as one of the twelve.
+]] Among the early followers and apostles of Jesus, Matthew is mentioned in and as a publican (KJV) or tax collector (NIV) who, while sitting at the "receipt of custom" in Capernaum, was called to follow Jesus.[1] He is also listed among the twelve, but without identification of his background, in , and . In passages parallel to Matthew 9:9, both and describe Jesus' calling of the tax collector Levi, the son of Alphaeus, but Mark and Luke never explicitly equate this Levi with the Matthew named as one of the twelve.
 
 
 Early life
@@ -26,7 +26,7 @@ Later Church fathers such as Irenaeus (Against Heresies 3.1.1) and Clement of Al
 
 Matthew's Gospel
 
-Rembrandt_-_Evangelist_Matthew_and_the_Angel_-_WGA19119.jpg.]]
+.]]
 
 The Gospel of Matthew is anonymous: the author is not named within the text, and the superscription "according to Matthew" was added some time in the second century. The tradition that the author was the disciple Matthew begins with the early Christian bishop Papias of Hierapolis (c. 100–140 CE), who is cited by the Church historian Eusebius (260–340 CE), as follows: "Matthew collected the oracles (_logia_: sayings of or about Jesus) in the Hebrew language (_Hebraïdi dialektōi_), and each one interpreted (_hērmēneusen_ – perhaps "translated") them as best he could."[14]
 
@@ -35,7 +35,7 @@ On the surface, this has been taken to imply that Matthew's Gospel itself was wr
 
 Non-canonical or Apocryphal Gospels
 
-Matthaeus_San_Giovanni_in_Laterano_2006-09-07.jpg, Archbasilica of St. John Lateran in Rome]]
+, Archbasilica of St. John Lateran in Rome]]
 
 In the 3rd-century Jewish–Christian gospels attributed to Matthew were used by Jewish–Christian groups such as the Nazarenes and Ebionites. Fragments of these gospels survive in quotations by Jerome, Epiphanius and others. Most academic study follows the distinction of Gospel of the Nazarenes (26 fragments), Gospel of the Ebionites (7 fragments), and Gospel of the Hebrews (7 fragments) found in Schneemelcher's New Testament Apocrypha. Critical commentators generally regard these texts as having been composed in Greek and related to Greek Matthew.[15] A minority of commentators consider them to be fragments of a lost Aramaic or Hebrew language original.
 

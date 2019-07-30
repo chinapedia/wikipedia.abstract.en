@@ -1,11 +1,11 @@
-Raid_at_elk_lake.jpg, in 1925.]]
+, in 1925.]]
 
 PROHIBITION is the act or practice of forbidding something by law; more particularly the term refers to the banning of the manufacture, storage (whether in barrels or in bottles), transportation, sale, possession, and consumption of alcoholic beverages. The word is also used to refer to a period of time during which such bans are enforced.
 
 
 History
 
-The_Drunkard's_Progress_-_Color.jpg supporting the temperance movement, January 1846.]] Some kind of limitation on the trade in alcohol can be seen in the Code of Hammurabi (ca.1772 BCE) specifically banning the selling of beer for money. It could only be bartered for barley: "If a beer seller do not receive barley as the price for beer, but if she receive money or make the beer a measure smaller than the barley measure received, they shall throw her into the water."[1]
+supporting the temperance movement, January 1846.]] Some kind of limitation on the trade in alcohol can be seen in the Code of Hammurabi (ca.1772 BCE) specifically banning the selling of beer for money. It could only be bartered for barley: "If a beer seller do not receive barley as the price for beer, but if she receive money or make the beer a measure smaller than the barley measure received, they shall throw her into the water."[1]
 
 In the Western world, one of the great moral issues of the nineteenth century was slavery, but once that battle was won, social moralists turned to their next targets, one of which was prohibition. In the early twentieth century, much of the impetus for the prohibition movement in the Nordic countries and North America came from moralistic convictions of pietistic Protestants.[2] Prohibition movements in the West coincided with the advent of women's suffrage, with newly empowered women as part of the political process strongly supporting policies that curbed alcohol consumption.[3][4]
 
@@ -151,7 +151,7 @@ The sale and purchase of alcohol is prohibited on and the night before certain n
 
 United States
 
-Woman's_Christian_Temperance_Union_Cartoon.jpg and the Woman's Christian Temperance Union's campaign against beer brewers. The "water cure" was a form of torture which was in the news because of its use in the Philippines.]] Prohibition in the United States focused on the manufacture, transportation, and sale of alcoholic beverages; however, exceptions were made for medicinal and religious uses. Alcohol consumption was never illegal under federal law. Nationwide Prohibition did not begin in the United States until January 1920, when the Eighteenth Amendment to the U.S. Constitution went into effect. The 18th amendment was ratified in 1919, and was repealed in December 1933 with the ratification of the Twenty-first Amendment.[38]
+and the Woman's Christian Temperance Union's campaign against beer brewers. The "water cure" was a form of torture which was in the news because of its use in the Philippines.]] Prohibition in the United States focused on the manufacture, transportation, and sale of alcoholic beverages; however, exceptions were made for medicinal and religious uses. Alcohol consumption was never illegal under federal law. Nationwide Prohibition did not begin in the United States until January 1920, when the Eighteenth Amendment to the U.S. Constitution went into effect. The 18th amendment was ratified in 1919, and was repealed in December 1933 with the ratification of the Twenty-first Amendment.[38]
 
 Temperance movement
 
@@ -171,7 +171,7 @@ In December 1917, Congress submitted a constitutional amendment on nationwide pr
 
 During the first years of Prohibition, the new law was enforced in regions such as the rural South and western states, where it had popular support; however, in large urban cities and small industrial or mining towns, residents defied or ignored the law.[55] The Ku Klux Klan was a major supporter of Prohibition; once it was passed they helped with its enforcement. For example, in 1923, Klansmen traded pistol shots with bootleggers, burned down roadhouses, and whipped liquor sellers, and anybody else who broke the moral code.[56] The Prohibition was effective in reducing per-capita consumption, and consumption remained lower for a quarter-century after Prohibition had been repealed.[57]
 
-Prohibition_prescription_front.jpg Prohibition reduced alcohol consumption but did not stop it. Drinking itself was never illegal, although manufacturing and sale of alcoholic beverages was outlawed, so people who had bought alcohol before January 16, 1920, could and did continue to serve it privately.[58] In addition, the illicit market soon grew to about two-thirds its pre-Prohibition levels.[59] Illegal stills flourished in remote rural areas as well as city slums, and large quantities were smuggled from Canada. Bootlegging – and the related speakeasies – became a major business activity for organized crime groups, under leaders such as Al Capone in Chicago and Lucky Luciano in New York City.[60] Indeed, Capone became a national symbol of Prohibition's violent side and was a top target for President Hoover.[61]
+Prohibition reduced alcohol consumption but did not stop it. Drinking itself was never illegal, although manufacturing and sale of alcoholic beverages was outlawed, so people who had bought alcohol before January 16, 1920, could and did continue to serve it privately.[58] In addition, the illicit market soon grew to about two-thirds its pre-Prohibition levels.[59] Illegal stills flourished in remote rural areas as well as city slums, and large quantities were smuggled from Canada. Bootlegging – and the related speakeasies – became a major business activity for organized crime groups, under leaders such as Al Capone in Chicago and Lucky Luciano in New York City.[60] Indeed, Capone became a national symbol of Prohibition's violent side and was a top target for President Hoover.[61]
 
 Repeal
 
@@ -197,7 +197,7 @@ Oceania
 
 Australia
 
-Prohibition_lifted_in_Canberra_1928.jpg, Australian Capital Territory, following the repeal of prohibition laws in 1928.]]
+, Australian Capital Territory, following the repeal of prohibition laws in 1928.]]
 
 The Australian Capital Territory (then the Federal Capital Territory) was the first jurisdiction in Australia to have prohibition laws. In 1911, King O'Malley, then Minister of Home Affairs, shepherded laws through Parliament preventing new issue or transfer of licences to sell alcohol, to address unruly behaviour among workers building the new capital city. Prohibition was partial, since possession of alcohol purchased outside of the Territory remained legal and the few pubs that had existing licences could continue to operate. The Federal Parliament repealed the laws after residents of the Federal Capital Territory voted for the end of them in a 1928 plebiscite.[72]
 

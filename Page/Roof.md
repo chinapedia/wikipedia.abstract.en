@@ -1,8 +1,8 @@
-Churches_in_Olomouc.jpg, Czech Republic]] San_Cristobal_de_las_Casas.jpg, Mexico]] Antananarivo03.jpg, Madagascar]]
+, Czech Republic]] , Mexico]] , Madagascar]]
 
 A ROOF is the top covering of a building, including all materials and constructions necessary to support it on the walls of the building or on uprights; it provides protection against rain, snow, sunlight, extremes of temperature, and wind.[1] A roof is part of the building envelope.
 
-The characteristics of a roof are dependent upon the purpose of the building that it covers, the available roofing materials and the local traditions of construction and wider concepts of architectural design and practice and may also be governed by local or national legislation. In most countries a roof protects primarily against rain. A verandah may be roofed with material that protects against sunlight but admits the other elements. The roof of a garden conservatory protects plants from cold, wind, and rain, but admits light. Neot_smadar.jpg made of date palm branches at Neot Semadar, Israel]] A roof may also provide additional living space, for example a roof garden.
+The characteristics of a roof are dependent upon the purpose of the building that it covers, the available roofing materials and the local traditions of construction and wider concepts of architectural design and practice and may also be governed by local or national legislation. In most countries a roof protects primarily against rain. A verandah may be roofed with material that protects against sunlight but admits the other elements. The roof of a garden conservatory protects plants from cold, wind, and rain, but admits light. made of date palm branches at Neot Semadar, Israel]] A roof may also provide additional living space, for example a roof garden.
 
 
 Etymology
@@ -33,14 +33,14 @@ The DURABILITY of a roof is a matter of concern because the roof is often the le
 
 Form
 
-Roof_diagram.jpg The SHAPE OF ROOFS differs greatly from region to region. The main factors which influence the shape of roofs are the climate and the materials available for roof structure and the outer covering.[2]
+The SHAPE OF ROOFS differs greatly from region to region. The main factors which influence the shape of roofs are the climate and the materials available for roof structure and the outer covering.[2]
 
 The basic shapes of roofs are flat, mono-pitched, gabled, hipped, butterfly, arched and domed. There are many variations on these types. Roofs constructed of flat sections that are sloped are referred to as pitched roofs (generally if the angle exceeds 10 degrees).[3] Pitched roofs, including gabled, hipped and skillion roofs, make up the greatest number of domestic roofs. Some roofs follow organic shapes, either by architectural design or because a flexible material such as thatch has been used in the construction.
 
 
 Parts
 
-Star-roof_lifted_into_place.jpg Supernova Planetarium & Visitor Center.[4]]]
+Supernova Planetarium & Visitor Center.[4]]]
 
 There are two parts to a roof, its supporting structure and its outer skin, or uppermost weatherproof layer. In a minority of buildings, the outer layer is also a self-supporting structure.
 
@@ -48,7 +48,7 @@ The roof structure is generally supported upon walls, although some building sty
 
 Support
 
-Linkopings_stadsbibliotek_roof2.jpg]] The supporting structure of a roof usually comprises beams that are long and of strong, fairly rigid material such as timber, and since the mid-19th century, cast iron or steel. In countries that use bamboo extensively, the flexibility of the material causes a distinctive curving line to the roof, characteristic of Oriental architecture.
+]] The supporting structure of a roof usually comprises beams that are long and of strong, fairly rigid material such as timber, and since the mid-19th century, cast iron or steel. In countries that use bamboo extensively, the flexibility of the material causes a distinctive curving line to the roof, characteristic of Oriental architecture.
 
 Timber lends itself to a great variety of roof shapes. The timber structure can fulfil an aesthetic as well as practical function, when left exposed to view.
 
@@ -58,7 +58,7 @@ With continual improvements in steel girders, these became the major structural 
 
 Outer layer
 
-Korea-Samcheok-Gulpijip-Bark_shingled_house-02.jpg]] This part of the roof shows great variation dependent upon availability of material. In vernacular architecture, roofing material is often vegetation, such as thatches, the most durable being sea grass with a life of perhaps 40 years. In many Asian countries bamboo is used both for the supporting structure and the outer layer where split bamboo stems are laid turned alternately and overlapped. In areas with an abundance of timber, wooden shingles and boards are used, while in some countries the bark of certain trees can be peeled off in thick, heavy sheets and used for roofing.
+]] This part of the roof shows great variation dependent upon availability of material. In vernacular architecture, roofing material is often vegetation, such as thatches, the most durable being sea grass with a life of perhaps 40 years. In many Asian countries bamboo is used both for the supporting structure and the outer layer where split bamboo stems are laid turned alternately and overlapped. In areas with an abundance of timber, wooden shingles and boards are used, while in some countries the bark of certain trees can be peeled off in thick, heavy sheets and used for roofing.
 
 The 20th century saw the manufacture of composition asphalt shingles which can last from a thin 20-year shingle to the thickest which are limited lifetime shingles, the cost depending on the thickness and durability of the shingle. When a layer of shingles wears out, they are usually stripped, along with the underlay and roofing nails, allowing a new layer to be installed. An alternative method is to install another layer directly over the worn layer. While this method is faster, it does not allow the roof sheathing to be inspected and water damage, often associated with worn shingles, to be repaired. Having multiple layers of old shingles under a new layer causes roofing nails to be located further from the sheathing, weakening their hold. The greatest concern with this method is that the weight of the extra material could exceed the dead load capacity of the roof structure and cause collapse. Because of this, jurisdictions which use the International Building Code prohibit the installation of new roofing on top of an existing roof that has two or more applications of any type of roof covering; the existing roofing material must be removed before installing a new roof.[5]
 

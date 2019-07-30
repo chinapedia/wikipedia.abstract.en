@@ -11,8 +11,6 @@ Overview
 
 Bottom-up parse tree for example
 
-Shift-Reduce_Parse_Steps_for_A*2+1.svg
-
 An LR parser scans and parses the input text in one forward pass over the text. The parser builds up the parse tree incrementally, bottom up, and left to right, without guessing or backtracking. At every point in this pass, the parser has accumulated a list of subtrees or phrases of the input text that have been already parsed. Those subtrees are not yet joined together because the parser has not yet reached the right end of the syntax pattern that will combine them.
 
 At step 6 in an example parse, only "A*2" has been parsed, incompletely. Only the shaded lower-left corner of the parse tree exists. None of the parse tree nodes numbered 7 and above exist yet. Nodes 3, 4, and 6 are the roots of isolated subtrees for variable A, operator *, and number 2, respectively. These three root nodes are temporarily held in a parse stack. The remaining unparsed portion of the input stream is "+ 1".
@@ -31,8 +29,6 @@ LR parsers differ from other shift-reduce parsers in how they decide when to red
 Much of the LR parser's efficiency is from being deterministic. To avoid guessing, the LR parser often looks ahead (rightwards) at the next scanned symbol, before deciding what to do with previously scanned symbols. The lexical scanner works one or more symbols ahead of the parser. The LOOKAHEAD symbols are the 'right-hand context' for the parsing decision.[6]
 
 Bottom-up parse stack
-
-Bottom-Up_Parser.svg
 
 Like other shift-reduce parsers, an LR parser lazily waits until it has scanned and parsed all parts of some construct before committing to what the combined construct is. The parser then acts immediately on the combination instead of waiting any further. In the parse tree example, the phrase A gets reduced to Value and then to Products in steps 1-3 as soon as lookahead * is seen, rather than waiting any later to organize those parts of the parse tree. The decisions for how to handle A are based only on what the parser and scanner have already seen, without considering things that appear much later to the right.
 
@@ -368,8 +364,6 @@ While LR(_k_) grammars have equal generative power for all _k_≥1, the case of 
 
 
 Additional example 1+1
-
-LR_Parser.png
 
 This example of LR parsing uses the following small grammar with goal symbol E:
 

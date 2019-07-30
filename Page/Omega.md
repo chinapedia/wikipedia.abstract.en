@@ -7,9 +7,9 @@ As the last letter of the Greek alphabet, Omega is often used to denote the last
 
 History
 
-Ω was not part of the early (8th century BC) Greek alphabets. It was introduced in the late 7th century BC in the Ionian cities of Asia Minor to denote the long half-open [ɔː]. It is a variant of omicron (Ο), broken up at the side (Greek_Omega_09.svg), with the edges subsequently turned outward (, , , ).[2] The Dorian city of Knidos as well as a few Aegean islands, namely Paros, Thasos and Melos, chose the exact opposite innovation, using a broken-up circle for the short and a closed circle for the long /o/.[3]
+Ω was not part of the early (8th century BC) Greek alphabets. It was introduced in the late 7th century BC in the Ionian cities of Asia Minor to denote the long half-open [ɔː]. It is a variant of omicron (Ο), broken up at the side (), with the edges subsequently turned outward (, , , ).[2] The Dorian city of Knidos as well as a few Aegean islands, namely Paros, Thasos and Melos, chose the exact opposite innovation, using a broken-up circle for the short and a closed circle for the long /o/.[3]
 
-The name Ωμέγα is Byzantine; in Classical Greek, the letter was called _ō_ (), whereas the omicron was called _ou_ ().[4] The modern lowercase shape goes back to the uncial form Greek_uncial_Omega.svg, a form that developed during the 3rd century BC in ancient handwriting on papyrus, from a flattened-out form of the letter (Greek_Omega_08.svg) that had its edges curved even further upward.[5]
+The name Ωμέγα is Byzantine; in Classical Greek, the letter was called _ō_ (), whereas the omicron was called _ou_ ().[4] The modern lowercase shape goes back to the uncial form , a form that developed during the 3rd century BC in ancient handwriting on papyrus, from a flattened-out form of the letter () that had its edges curved even further upward.[5]
 
 In addition to the Greek alphabet, Omega was also adopted into the early Cyrillic alphabet. See Cyrillic omega (Ѡ, ѡ). A Raetic variant is conjectured to be at the origin or parallel evolution of the Elder Futhark ᛟ.
 
@@ -18,7 +18,7 @@ Omega was also adopted into the Latin alphabet, as a letter of the 1982 revision
 
 The symbol Ω (uppercase letter)
 
-Letter_omega_12.png or some forms of Latin Q. The O and underscore may, but need not, be touching.]] The uppercase letter Ω is used as a symbol:
+or some forms of Latin Q. The O and underscore may, but need not, be touching.]] The uppercase letter Ω is used as a symbol:
 
 -   In chemistry:
     -   For oxygen-18, a natural, stable isotope of oxygen.[6]
